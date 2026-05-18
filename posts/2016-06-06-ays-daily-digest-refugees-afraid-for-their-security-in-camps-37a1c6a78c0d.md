@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe]
 description: Increase number of incidents are reported in camps around Greece. Refugees are asking protection and safety. Today’s riots in Souda camp…
 image:
-  path: assets/37a1c6a78c0d/1*BcnCMjEksu5uUEOHRc31Yg.jpeg
+  path: ../assets/37a1c6a78c0d/1*BcnCMjEksu5uUEOHRc31Yg.jpeg
 ---
 
 ### AYS DAILY DIGEST — Refugees afraid for their security in camps
 #### Increase number of incidents are reported in camps around Greece\. Refugees are asking protection and safety\. Today’s riots in Souda camp are just one of the examples\. Relocation from Hara soon to began\. Volunteers are needed in Subotica, again\. As war in Syria, Sudan and Iraq, again, is raging, more refugees are running away from their homes looking for peace\. The children drown in Euphrates River while trying to escape war\.
 
 
-![Photo by Proactiva](assets/37a1c6a78c0d/1*BcnCMjEksu5uUEOHRc31Yg.jpeg)
+![Photo by Proactiva](../assets/37a1c6a78c0d/1*BcnCMjEksu5uUEOHRc31Yg.jpeg)
 
 Photo by Proactiva
 #### Weather Forecast for Tuesday 7 June and Wednesday 8 June
@@ -45,11 +45,11 @@ The IRC’s Iraq Country Director, Aleksander Milutinović, said:
 According to the official sources, no new arrivals were registered in Greece over the last 24 hours\. However, volunteers from the Spanish group [Proactiva Open Arms](https://www.facebook.com/proactivaservice/) , are reporting about a boat with 17 people, including 3 children, one of them only month and a week old, arriving at Lesvos last night\. All are from Syria\.
 
 
-![](assets/37a1c6a78c0d/1*bG90bdo1PgMxJHbqvR2hNQ.jpeg)
+![](../assets/37a1c6a78c0d/1*bG90bdo1PgMxJHbqvR2hNQ.jpeg)
 
 
 
-![Photo by Proactiva](assets/37a1c6a78c0d/1*Lun04AtBGw_jG9hA4jMBlQ.jpeg)
+![Photo by Proactiva](../assets/37a1c6a78c0d/1*Lun04AtBGw_jG9hA4jMBlQ.jpeg)
 
 Photo by Proactiva
 
@@ -61,7 +61,7 @@ The Greek government announced today that changes have been made to the type of 
 Today in Souda camp on Chios, a group of inhabitants set the fire causing damage to several offices and some tents\. Allegedly, this was their way to demand relocation to Athens\. However, this way of protesting is damaging for all residents who are already in a very harsh situation\. Firefighters and riot police were called\. One firefighter was injured\.
 
 
-![Photo by volunteers in Chios](assets/37a1c6a78c0d/1*YO-EWaU0KFeByJc6z6a1zA.jpeg)
+![Photo by volunteers in Chios](../assets/37a1c6a78c0d/1*YO-EWaU0KFeByJc6z6a1zA.jpeg)
 
 Photo by volunteers in Chios
 
@@ -80,7 +80,7 @@ The Afghan community leader explained that Afghans at Moria had taken security i
 According to the [Northern Lights Aid](https://www.facebook.com/Northernlightsaid/?fref=nf) team, this morning busses arrived at Hara camp to transport residents to government\-run camps\. People were invited embark buses voluntarily\. Police announced more buses will come in the following days, and a mandatory eviction is likely\. The situation in Hara remained calm and peaceful today\. We will follow developments\.
 
 
-![Photo by Northern Light Aid](assets/37a1c6a78c0d/1*tLEfG3C2_VQVNwV9vcUaeg.jpeg)
+![Photo by Northern Light Aid](../assets/37a1c6a78c0d/1*tLEfG3C2_VQVNwV9vcUaeg.jpeg)
 
 Photo by Northern Light Aid
 ### Pre\-registration to start at mainland
@@ -94,7 +94,7 @@ Filippiada Volunteers Info Point / Dråpen I have\- Drop in the Ocean / Pikpa Le
 ### Refugee Info Bus
 
 
-![Photo by Refugee Info Bus](assets/37a1c6a78c0d/1*1G41MyutGg9s_VvsUE_MKA.jpeg)
+![Photo by Refugee Info Bus](../assets/37a1c6a78c0d/1*1G41MyutGg9s_VvsUE_MKA.jpeg)
 
 Photo by Refugee Info Bus
 
@@ -108,11 +108,11 @@ Help Refugees are proud to partner with the Refugee Info Bus in their essential 
 The group [Idomeni Cultural Center moved their activities to Lavrion](https://www.facebook.com/permalink.php?story_fbid=1341322595896155&id=1302471973114551) refugee camp in Greece and changed their name to Open Cultural Center\. They are planning activities in other camps too\. For more, visit their website\.
 
 
-![](assets/37a1c6a78c0d/1*IddEh2voaec6X7rCas4ZNA.jpeg)
+![](../assets/37a1c6a78c0d/1*IddEh2voaec6X7rCas4ZNA.jpeg)
 
 
 
-![Photo by OCC team](assets/37a1c6a78c0d/1*gpq2krsGPK06lTAAki8uiA.jpeg)
+![Photo by OCC team](../assets/37a1c6a78c0d/1*gpq2krsGPK06lTAAki8uiA.jpeg)
 
 Photo by OCC team
 ### Strike in state hospitals announced
@@ -129,7 +129,7 @@ Although over one million people are estimated to have passed through Serbia dur
 ### Call for volunteers in Subotica
 
 
-![Photo by IHo](assets/37a1c6a78c0d/1*vCmLdSvXLUA_hispTjPbuw.jpeg)
+![Photo by IHo](../assets/37a1c6a78c0d/1*vCmLdSvXLUA_hispTjPbuw.jpeg)
 
 Photo by IHo
 

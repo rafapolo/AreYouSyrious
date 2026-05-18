@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 15-16/09/18: Rome refuses to rescue 100 people
+title: "AYS Weekend Digest 15-16/09/18: Rome refuses to rescue 100 people"
 author: Are You Syrious?
 date: 2018-09-17T05:38:36.122+0100
 last_modified_at: 2018-09-17T11:52:52.427+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,malta,libya,greece,digest]
 description: Also measles epidemic happening in Libya / solidarity for LGBTQ+ refugees / almost 400 people arriving on Greek islands on Sunday / racist…
 image:
-  path: assets/8ea9ea4102bf/1*nKVQ6QmhW9X4GhIXnXoW4g.jpeg
+  path: ../assets/8ea9ea4102bf/1*nKVQ6QmhW9X4GhIXnXoW4g.jpeg
 ---
 
 ### AYS Weekend Digest 15\-16/09/18: Rome refuses to rescue 100 people
@@ -15,7 +15,7 @@ image:
 _Also measles epidemic happening in Libya / Solidarity for LGBTQ\+ refugees / Almost 400 people arriving on Greek islands on Sunday / Racist remarks from Czech Prime Minister / Xenophobic attacks in Germany / Brussels possibly to expand detention to 3 months / and much more…_
 
 
-![Hundreds of people sleeping rough in Sarajevo due to the lack of accoodation\. Photo by [Velija Hasanbegović](https://www.facebook.com/velija.hasanbegovic?fb_dtsg_ag=Adzzml4ONF3X49Q97cb9X330FFmVjkSgJLoe8eEGw2tMxA%3AAdxueWoKyv5i3FgtSO5ZYENShiyjB-dbK6HJ3HxB0d1s-Q) \.](assets/8ea9ea4102bf/1*nKVQ6QmhW9X4GhIXnXoW4g.jpeg)
+![Hundreds of people sleeping rough in Sarajevo due to the lack of accoodation\. Photo by [Velija Hasanbegović](https://www.facebook.com/velija.hasanbegovic?fb_dtsg_ag=Adzzml4ONF3X49Q97cb9X330FFmVjkSgJLoe8eEGw2tMxA%3AAdxueWoKyv5i3FgtSO5ZYENShiyjB-dbK6HJ3HxB0d1s-Q) \.](../assets/8ea9ea4102bf/1*nKVQ6QmhW9X4GhIXnXoW4g.jpeg)
 
 Hundreds of people sleeping rough in Sarajevo due to the lack of accoodation\. Photo by [Velija Hasanbegović](https://www.facebook.com/velija.hasanbegovic?fb_dtsg_ag=Adzzml4ONF3X49Q97cb9X330FFmVjkSgJLoe8eEGw2tMxA%3AAdxueWoKyv5i3FgtSO5ZYENShiyjB-dbK6HJ3HxB0d1s-Q) \.
 ### Feature
@@ -43,17 +43,17 @@ This [“let them drown policy”](https://twitter.com/alarm_phone/status/104132
 [Migrants in the Tangier hospital](https://www.facebook.com/AmdhNador/photos/a.1693125780899690/2186236444921952/?type=3&theater) are suffering as they do not have adequate medicine, food, or clothing, warns local NGOs\. Sub\-Saharan people stuck in Morocco are suffering and solidarity is needed now more than ever\.
 
 
-![](assets/8ea9ea4102bf/1*piqS6L-bRpcSf_8VB3JiYA.jpeg)
+![](../assets/8ea9ea4102bf/1*piqS6L-bRpcSf_8VB3JiYA.jpeg)
 
 
 
-![Photo by [Zineb Issayh](https://www.facebook.com/zineb.issayh/posts/497222560793320?__xts__[0]=68.ARA1WqnjztkkCPQKXby6uuHvITqyBaTqJCPDgTf4xgJ96XCRbvrnkVOxG3SK9__5WnSSAxcXu0B8zuQRDinO7Y_Gb4HqlldNt-Ce-VvFFRccA3VcbAewyXBerCXxbvc2kYyNtp5YCg_LxcTk6EstV8RUssYfBB5V-7f4b45u7rN3hJ9nKblM&__tn__=-R)](assets/8ea9ea4102bf/1*HL8f7WSEEZxZ9rC8xD08kA.jpeg)
+![Photo by [Zineb Issayh](https://www.facebook.com/zineb.issayh/posts/497222560793320?__xts__[0]=68.ARA1WqnjztkkCPQKXby6uuHvITqyBaTqJCPDgTf4xgJ96XCRbvrnkVOxG3SK9__5WnSSAxcXu0B8zuQRDinO7Y_Gb4HqlldNt-Ce-VvFFRccA3VcbAewyXBerCXxbvc2kYyNtp5YCg_LxcTk6EstV8RUssYfBB5V-7f4b45u7rN3hJ9nKblM&__tn__=-R)](../assets/8ea9ea4102bf/1*HL8f7WSEEZxZ9rC8xD08kA.jpeg)
 
 Photo by [Zineb Issayh](https://www.facebook.com/zineb.issayh/posts/497222560793320?__xts__[0]=68.ARA1WqnjztkkCPQKXby6uuHvITqyBaTqJCPDgTf4xgJ96XCRbvrnkVOxG3SK9__5WnSSAxcXu0B8zuQRDinO7Y_Gb4HqlldNt-Ce-VvFFRccA3VcbAewyXBerCXxbvc2kYyNtp5YCg_LxcTk6EstV8RUssYfBB5V-7f4b45u7rN3hJ9nKblM&__tn__=-R)
 ### Libya
 
 
-![A blurred photo by [UNICEF](https://twitter.com/ARAGhandour/status/1041030025578012672) of a detention center for migrants in Libya on Saturday\. One unaccompanied boy was ONLY 12 years old\.](assets/8ea9ea4102bf/1*krTfiqq7Ryya6-UNPA4jyA.jpeg)
+![A blurred photo by [UNICEF](https://twitter.com/ARAGhandour/status/1041030025578012672) of a detention center for migrants in Libya on Saturday\. One unaccompanied boy was ONLY 12 years old\.](../assets/8ea9ea4102bf/1*krTfiqq7Ryya6-UNPA4jyA.jpeg)
 
 A blurred photo by [UNICEF](https://twitter.com/ARAGhandour/status/1041030025578012672) of a detention center for migrants in Libya on Saturday\. One unaccompanied boy was ONLY 12 years old\.
 
@@ -85,7 +85,7 @@ There is a [measles epidemic](https://twitter.com/ARAGhandour/status/10407399755
 A good reminder from [Sea\-Watch](https://www.facebook.com/seawatchprojekt/posts/2118610771690326?__xts__[0]=68.ARBajVclL333aMjK7MiyenTIYuo33Z89Wwln74W25V3m89CAFvfaE0k_xZtg0WtFje8bpKa_SJ01G-vIDNsFd08QGp_G_w-GALOxzfi4wqHfDg3Bv4SKMNCwxCkPMKA9k-SZSDPuDDzrzaAkK4oPJBlPnbL855yv32AVP16ZsVDpnV86e7wZLQ&__tn__=-R) :
 
 
-![Malta’s pride can’t be complete without pride for LGBTQ\+ refugees\! Photo by Sea Watch](assets/8ea9ea4102bf/1*zLnJKEY8Qy8kzF2G1hynOQ.jpeg)
+![Malta’s pride can’t be complete without pride for LGBTQ\+ refugees\! Photo by Sea Watch](../assets/8ea9ea4102bf/1*zLnJKEY8Qy8kzF2G1hynOQ.jpeg)
 
 Malta’s pride can’t be complete without pride for LGBTQ\+ refugees\! Photo by Sea Watch
 ### Spain
@@ -107,7 +107,7 @@ Undocumented migrants will be required to pay 40% of the cost of medicines that 
 The situation on Lesvos continues to be difficult for everyone\. Responding to the insufficient distribution of blankets by the big organisations, [Attika Human Support](https://www.facebook.com/AttikaHumanSupport/?hc_ref=ARTJXvq1erKFWogEMfLpw4_GE-mMcPGpxTDE2lVtD6JbsD483gzuP-ZZohjgoOUrRGc&fref=nf) supplied Stage 2, North of Lesvos\.
 
 
-![Photo taken in front of Moria, Lesvos — Photo source: [Ricco Pat](https://www.facebook.com/profile.php?id=100006016097004&tn-str=%2AF&hc_location=group_dialog)](assets/8ea9ea4102bf/1*AqK9kMdAzL_zHV7OgyQfOg.jpeg)
+![Photo taken in front of Moria, Lesvos — Photo source: [Ricco Pat](https://www.facebook.com/profile.php?id=100006016097004&tn-str=%2AF&hc_location=group_dialog)](../assets/8ea9ea4102bf/1*AqK9kMdAzL_zHV7OgyQfOg.jpeg)
 
 Photo taken in front of Moria, Lesvos — Photo source: [Ricco Pat](https://www.facebook.com/profile.php?id=100006016097004&tn-str=%2AF&hc_location=group_dialog)
 
@@ -144,7 +144,7 @@ People on the cash card waiting list in Athens need to reach out to CRS as soon 
 ### Italy
 
 
-[![Trieste, viaggio nelle baracche del Silos](assets/8ea9ea4102bf/a239_hqdefault.jpg "Trieste, viaggio nelle baracche del Silos")](http://www.youtube.com/watch?v=eDwQh3Zqn3w)
+[![Trieste, viaggio nelle baracche del Silos](../assets/8ea9ea4102bf/a239_hqdefault.jpg "Trieste, viaggio nelle baracche del Silos")](http://www.youtube.com/watch?v=eDwQh3Zqn3w)
 
 
 A small group of Afghan minors aged 13, 15 and 16 sleep in the area near the station full of rubbish and rats\.They arrived after a long desperate and difficult journey\. — [L’ ALTRA VOCE](https://www.facebook.com/L-ALTRA-VOCE-1245970425495921/?hc_ref=ARR9X_flsQWlRwyn8gm5DdUZMpClX3rR4lXtVdksoTt8KCmhaMkOVhDQK60YpCw_PFA&fref=nf&hc_location=group)
@@ -164,13 +164,13 @@ In Sarajevo, several hundred people are sleeping rough in the streets\. Many are
 At the same time, more people are arriving every day, mostly from the direction of Serbia, passing through cities of Zvornik and Tuzla\. In both cities, they receive help from the local population who are still showing a lot of solidarity\.
 
 
-![](assets/8ea9ea4102bf/1*t3CKx2lD4d5NNg9ma06Lrw.jpeg)
+![](../assets/8ea9ea4102bf/1*t3CKx2lD4d5NNg9ma06Lrw.jpeg)
 
 
 Volunteers in Sarajevo are supported by the local charity [Pomozi\.ba](http://pomozi.ba) \. In order to provide basic needs for all the people in Sarajevo, volunteers need help\. Please donate through the link above \(purpose: help to refugees\) if you can\.
 
 
-![Photo by Velija Hasanbegovic](assets/8ea9ea4102bf/1*2K1smdI5Xj1pjA5yNExw9Q.jpeg)
+![Photo by Velija Hasanbegovic](../assets/8ea9ea4102bf/1*2K1smdI5Xj1pjA5yNExw9Q.jpeg)
 
 Photo by Velija Hasanbegovic
 
@@ -192,7 +192,7 @@ He wants to send a clear signal to the EU against “illegal” migration but do
 ### France
 
 
-![](assets/8ea9ea4102bf/1*d0tDxl34-hKGu52sOVMlfA.jpeg)
+![](../assets/8ea9ea4102bf/1*d0tDxl34-hKGu52sOVMlfA.jpeg)
 
 
 
@@ -240,7 +240,7 @@ While the perilous and deadly Mediterranean sea migration route is well known, n
 The project [Missing at the Borders](https://l.facebook.com/l.php?u=https%3A%2F%2Fmissingattheborders.org%2Fen%2F&h=AT1K6GanpF-vEc3f7gkqmREDV-PTmHpYzprSSSvb7VYwKOZDacFIDtqf278CyZ4TgOTGk3d538Z3G2Ongic48xx2D2CkiWhnYY46ODFZqG1PWpL4AmUtCupASZze-wZ3qP4qwDFKxGrmtydrGwn0uT0P2xn6YT6aYiNb2ABQR2EH6x11r8O4EoqzHVB0ZTvqxAtZXKmRM52ypQcCqS_sPyFF8SklWhiibopkrCN6DapnWUQ4ZNOrW8tkp-4sNNTLfiF1cWDtLupCs6n13Gn2xtvQqDg0_jsB0o9gibEbl3laTdiYdf5b9fL4HGNOZ3lNJGCyKxP11xxnPduRX5CnVAq_5Y2B73Pfye4av5dV6l3WjoVrWNNyDF6_q3avWxy0-fnhBgAScnv5Ssr5I1bjTCZRgWQtFpU) was launched this weekend, dedicated to the families of migrants deceased, missing or victims of enforced disappearances\. “People not numbers” is the fundamental principle guiding the project\.
 
 
-![Across Europe, the lack of information available to refugees and displaced people is striking\. — via [Refugee Rights Europe](https://www.facebook.com/RefugeeRightsEurope/?tn-str=k%2AF)](assets/8ea9ea4102bf/1*3qIMNTG7_pNaVeTnzJ9pfQ.jpeg)
+![Across Europe, the lack of information available to refugees and displaced people is striking\. — via [Refugee Rights Europe](https://www.facebook.com/RefugeeRightsEurope/?tn-str=k%2AF)](../assets/8ea9ea4102bf/1*3qIMNTG7_pNaVeTnzJ9pfQ.jpeg)
 
 Across Europe, the lack of information available to refugees and displaced people is striking\. — via [Refugee Rights Europe](https://www.facebook.com/RefugeeRightsEurope/?tn-str=k%2AF)
 

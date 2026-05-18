@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 28/2/19: European Court indictment against the practice of detaining children
+title: "AYS Daily Digest 28/2/19: European Court indictment against the practice of detaining children"
 author: Are You Syrious?
 date: 2019-03-01T10:10:40.916+0000
 last_modified_at: 2019-03-01T13:37:46.414+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,human-rights,greece]
 description: ECHR rules against Greece and France / evictions, protests and attempts of suicide in Greece / Organizations in France against the new…
 image:
-  path: assets/b03884d4fd02/1*yE975Fy0ep1f8ydRqf81yA.jpeg
+  path: ../assets/b03884d4fd02/1*yE975Fy0ep1f8ydRqf81yA.jpeg
 ---
 
 ### AYS Daily Digest 28/2/19: European Court indictment against the practice of detaining children
 #### ECHR rules against Greece and France / Evictions, protests and attempts of suicide in Greece / Organizations in France against the new minors’ Law / UK offered protection — info and stats / Volunteers wanted in Greece and France / More news
 
 
-![Photo: [**EDAL‏**](https://twitter.com/EDAL_EU)](assets/b03884d4fd02/1*yE975Fy0ep1f8ydRqf81yA.jpeg)
+![Photo: [**EDAL‏**](https://twitter.com/EDAL_EU)](../assets/b03884d4fd02/1*yE975Fy0ep1f8ydRqf81yA.jpeg)
 
 Photo: [**EDAL‏**](https://twitter.com/EDAL_EU)
 #### FEATURE — ECtHR judgment in H\.A\.&Others v Greece
@@ -93,7 +93,7 @@ Reportedly, 70 people were arrested; most of them were at Kipseli police station
 According to our sources, the news on Thursday was the people would be held for an extra night\. Also, there were many riot police ‘guarding’ the station\.
 
 
-![Solidarity presence was outside the police station on Thursday\. Another group will go there the next day, on Friday, at 6 pm](assets/b03884d4fd02/1*lIpWLS-bHMnnsYKG4KBRVQ.jpeg)
+![Solidarity presence was outside the police station on Thursday\. Another group will go there the next day, on Friday, at 6 pm](../assets/b03884d4fd02/1*lIpWLS-bHMnnsYKG4KBRVQ.jpeg)
 
 Solidarity presence was outside the police station on Thursday\. Another group will go there the next day, on Friday, at 6 pm
 
@@ -144,15 +144,15 @@ The Language Centre on Chios needs English teachers to join the team:
 If you think you could help, please send your CV to chiosesrtlc@gmail\.com\.
 
 
-![](assets/b03884d4fd02/1*JazWc6NXc0F1PBWajWAd6g.jpeg)
+![](../assets/b03884d4fd02/1*JazWc6NXc0F1PBWajWAd6g.jpeg)
 
 
 
-![](assets/b03884d4fd02/1*YJdYF0Zbuox7D-uMNIn3nA.jpeg)
+![](../assets/b03884d4fd02/1*YJdYF0Zbuox7D-uMNIn3nA.jpeg)
 
 
 
-![Photos from Chios Language Centre: [Emma Vagabond Roberts](https://www.facebook.com/emma.nomad?__tn__=%2Cd%2AF%2AF-R&eid=ARAJYALy18ZO-fFcUK64WHqLXZlNR2OKNPy-KtYXd8sLPXV6RImYuRDZwI9vJQZo1EfGDglSp-a-pqKC&tn-str=%2AF) ‎](assets/b03884d4fd02/1*DIh9ybz-e6-FDQDQsSSxvw.jpeg)
+![Photos from Chios Language Centre: [Emma Vagabond Roberts](https://www.facebook.com/emma.nomad?__tn__=%2Cd%2AF%2AF-R&eid=ARAJYALy18ZO-fFcUK64WHqLXZlNR2OKNPy-KtYXd8sLPXV6RImYuRDZwI9vJQZo1EfGDglSp-a-pqKC&tn-str=%2AF) ‎](../assets/b03884d4fd02/1*DIh9ybz-e6-FDQDQsSSxvw.jpeg)
 
 Photos from Chios Language Centre: [Emma Vagabond Roberts](https://www.facebook.com/emma.nomad?__tn__=%2Cd%2AF%2AF-R&eid=ARAJYALy18ZO-fFcUK64WHqLXZlNR2OKNPy-KtYXd8sLPXV6RImYuRDZwI9vJQZo1EfGDglSp-a-pqKC&tn-str=%2AF) ‎
 
@@ -164,7 +164,7 @@ No Name Kitchen team has published a video with statements of people on the move
 “This video is a report about what happened the 20th of February, 2019, when police entered to the squat in Šid and destroyed most of the tents, sleeping bags, blankets, and documents of the refugees that are living there and trying to cross the Croatian border\.”
 
 
-[![Violence report in Šid](assets/b03884d4fd02/9d1d_hqdefault.jpg "Violence report in Šid")](http://www.youtube.com/watch?v=Vwr-uLt5Ygs)
+[![Violence report in Šid](../assets/b03884d4fd02/9d1d_hqdefault.jpg "Violence report in Šid")](http://www.youtube.com/watch?v=Vwr-uLt5Ygs)
 
 #### ITALY
 ### Eviction in Rome
@@ -295,7 +295,7 @@ OFII’s number is the one newcomers are supposed to call to get an appointment 
 
 
 
-![[Faces Before Numbers](https://www.facebook.com/FacesBeforeNumbers/?tn-str=k%2AF)](assets/b03884d4fd02/1*vElv2hquhYOayV2mOPlC4g.jpeg)
+![[Faces Before Numbers](https://www.facebook.com/FacesBeforeNumbers/?tn-str=k%2AF)](../assets/b03884d4fd02/1*vElv2hquhYOayV2mOPlC4g.jpeg)
 
 [Faces Before Numbers](https://www.facebook.com/FacesBeforeNumbers/?tn-str=k%2AF)
 ### Volunteers wanted in Calais

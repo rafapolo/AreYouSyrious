@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 23/4/2021: More Walls in Greece
+title: "AYS Daily Digest 23/4/2021: More Walls in Greece"
 author: Are You Syrious?
 date: 2021-04-24T09:14:29.471+0100
 last_modified_at: 2021-04-24T09:14:29.471+0100
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [digest,greece,deportations,search-and-rescue,refugees]
 description: Are You Syrious?
 image:
-  path: assets/f08d8cc1b628/0*cqhDTsBWf_ivw0Dg
+  path: ../assets/f08d8cc1b628/0*cqhDTsBWf_ivw0Dg
 ---
 
 ### AYS Daily Digest 23/4/2021: More Walls in Greece
 
 
-![](assets/f08d8cc1b628/0*-0lSIKtucdb-FHgz.jpeg)
+![](../assets/f08d8cc1b628/0*-0lSIKtucdb-FHgz.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----854685814820--------------------------------)
@@ -23,7 +23,7 @@ image:
 _130 people drowned in the Central Med\. Dangerous routes through east Turkey\. Danish ‘Syrian policy’ is disproportionately impacting women\. UK Home Office faces another lawsuit over its ‘hostile environment’\._
 
 
-![](assets/f08d8cc1b628/0*cqhDTsBWf_ivw0Dg)
+![](../assets/f08d8cc1b628/0*cqhDTsBWf_ivw0Dg)
 
 
 One of the new walls in Greek camps\. Photo via [EfSyn](https://www.efsyn.gr/ellada/dikaiomata/291264_teihi-tis-ntropis-se-prosfygikes-domes)
@@ -50,11 +50,11 @@ Many are not able to support themselves in Turkey, so they continue trying to cr
 Sadly, 130 people have died in the Central Mediterranean because no authorities came to their rescue\. The people perished in [a terrible storm](https://sosmediterranee.com/log/log-entry-91-our-120-dead-or-130/?fbclid=IwAR2o1MfPovdJwb6KrsUjBn0m8WwKwFXZ8PB3c-F3f81C3KH9biSyeBRJlE8) that wrecked the small, overcrowded dinghy they were traveling on\. The Italian government, Maltese authorities, and Frontex knew about the people in distress, who had contacted Alarm Phone for help, but the [authorities remained silent all night](https://twitter.com/France24_fr/status/1385540069302448130?fbclid=IwAR14tmINr-lGd2H4IM9QbPBxhGQJf2idGS8BtwzJsh6lygw-yhVwgGVkhCQ) \. A search by the [Ocean Viking and several merchant ships](https://www.zeit.de/gesellschaft/zeitgeschehen/2021-04/mittelmeer-fluechtlinge-ertrunken-libyen-sos-mediterranee-ocean-viking?fbclid=IwAR0VayCENNuiWBkeiiviAjKo0HeOyzZuH0CzwnrxO6N1MUsL2h810YkSloU&utm_referrer=https%3A%2F%2Fl.facebook.com%2F) was unsuccessful in finding survivors\. Instead, they only uncovered the saddening remains of the rubber dinghy where so many people lost their lives\. “We literally found ourselves navigating among the corpses,” Alessandro Porro, a rescuer from the Ocean Viking [said](https://www.repubblica.it/cronaca/2021/04/23/news/migranti_la_foto_choc_dell_ultima_strage_noi_soccorritori_in_mezzo_a_un_mare_di_cadaveri_-297709835/) \.
 
 
-![](assets/f08d8cc1b628/0*AMrD4VmuxnKbNFuQ)
+![](../assets/f08d8cc1b628/0*AMrD4VmuxnKbNFuQ)
 
 
 
-![](assets/f08d8cc1b628/0*VovX6pkVn3iI9KOG)
+![](../assets/f08d8cc1b628/0*VovX6pkVn3iI9KOG)
 
 
 Luisa Albera, the ship’s Search and Rescue coordinator issued [a statement](https://sosmediterranee.com/press/statement-ocean-viking-witnesses-aftermath-of-deadly-shipwreck-off-libya/?fbclid=IwAR0PemQ97G-x4MkpIPA87xesdAhmqXVOt1_-W_04U05qsyYHju1oQYSRsDo) :
@@ -143,19 +143,19 @@ The Home Office’s deportations to Vietnam have also come [under legal scrutiny
 During the meeting of the LIBE Committee, EU Commission Vice President Margaritis Schinas made [several untruthful statements](https://www.facebook.com/europemustact/photos/pcb.284522963160405/284515876494447) about conditions for people on the move on the Greek islands\. His claims included the idea that COVID\-19 is not a risk for people in camps, despite their crowded conditions\. He also said that there are no more unaccompanied minors on the islands, that the situation has improved since 2015, and that people’s mental health will improve once they are transferred to the new closed facilities\.
 
 
-![](assets/f08d8cc1b628/0*XvssibS_AiaAWB4B)
+![](../assets/f08d8cc1b628/0*XvssibS_AiaAWB4B)
 
 
 
-![](assets/f08d8cc1b628/0*L1HXXBcoaqx3VxcE.png)
+![](../assets/f08d8cc1b628/0*L1HXXBcoaqx3VxcE.png)
 
 
 
-![](assets/f08d8cc1b628/0*uXzN3nM32h3q67He)
+![](../assets/f08d8cc1b628/0*uXzN3nM32h3q67He)
 
 
 
-![](assets/f08d8cc1b628/0*kksO6gfjocRlaKez.png)
+![](../assets/f08d8cc1b628/0*kksO6gfjocRlaKez.png)
 
 
 When politicians are emboldened to lie about such things that are easily disproved, in as important a stage as the LIBE Committee, what do they do when we are not watching?
@@ -165,11 +165,11 @@ Read [HERE](https://05cd942b-77f4-4d21-b3ea-797e75ad39b3.filesusr.com/ugd/0d6197
 ### Today is World Book Day
 
 
-![](assets/f08d8cc1b628/0*wG1Lc0WFw5S5KRyd)
+![](../assets/f08d8cc1b628/0*wG1Lc0WFw5S5KRyd)
 
 
 
-![](assets/f08d8cc1b628/0*UuJKnNpCIlm5T-6S)
+![](../assets/f08d8cc1b628/0*UuJKnNpCIlm5T-6S)
 
 ### WORTH READING
 - [The ECRE Weekly Bulletin is out\.](https://mailchi.mp/ecre/ecre-weekly-bulletin-23042021?e=1fd2db1ebf) Stories include the effects of eliminating cash allowances in Greece, which will cause thousands of people living outside of government structures to become destitute\. The report also talks about continued Italian\-Libyan relationships, despite disturbing transcripts of the Libyan Coast Guard refusing rescues, legal action against the Home Office, and more\.

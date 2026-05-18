@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe,syria,greece,war]
 description: The Russian ambassador to Britain Alexander Yakovenko has implicated his government’s involvement in war crimes. In a shocking tweet, the…
 image:
-  path: assets/3937d6bdf8b6/1*VhbxXnYJvazv_bA-s37hsg.png
+  path: ../assets/3937d6bdf8b6/1*VhbxXnYJvazv_bA-s37hsg.png
 ---
 
 ### AYS Digest 06/10 — Russian ambassador admits to the deliberate targeting of hospitals by regime and Russian forces
 
 
-![Syrian physician looks at the rubble of a medical facility recently targeted by a regime airstrike\. Photo credit: Thaer Mohammed, AFP Photo](assets/3937d6bdf8b6/1*VhbxXnYJvazv_bA-s37hsg.png)
+![Syrian physician looks at the rubble of a medical facility recently targeted by a regime airstrike\. Photo credit: Thaer Mohammed, AFP Photo](../assets/3937d6bdf8b6/1*VhbxXnYJvazv_bA-s37hsg.png)
 
 Syrian physician looks at the rubble of a medical facility recently targeted by a regime airstrike\. Photo credit: Thaer Mohammed, AFP Photo
 
@@ -26,7 +26,7 @@ The Russian ambassador to Britain Alexander Yakovenko has implicated his governm
 The AYS digest, as well as the media at large, has already covered the extremely damaging legacy of this practice\. As we reported last week, there are currently around 30 doctors left in the entirety of rebel\-occupied East Aleppo, and as hospitals get bombarded on a regular basis, treatment for even the simplest of conditions is becoming more and more difficult\. Russia and the regime have shown its commitment to keeping the city under siege, having gone so far as to bomb an aid convoy during the failed ceasefire\. Such blatant violations of human rights and the laws of warfare poke massive holes in the regime’s narrative that it is simply defending itself against terrorists\.
 
 
-![Rebel\-held al\-Asari District in November 2014\. Photo credit: Mohammad Baraa, AFP\.](assets/3937d6bdf8b6/1*0P5HbMN8456fhSgb-JMJhQ.jpeg)
+![Rebel\-held al\-Asari District in November 2014\. Photo credit: Mohammad Baraa, AFP\.](../assets/3937d6bdf8b6/1*0P5HbMN8456fhSgb-JMJhQ.jpeg)
 
 Rebel\-held al\-Asari District in November 2014\. Photo credit: Mohammad Baraa, AFP\.
 
@@ -35,14 +35,14 @@ Of particular interest is a parallel comparison of the reactions of regime suppo
 The regime and its Russian allies does not limit itself to targeting hospitals\. Another practice commonly employed as of late is dropping mine busting bombs in the vicinity of civilian infrastructure, causing heavy structural damage and often leading to the collapse of entire buildings\. The signs seem to suggest that the regime is planning a new attempt to capture the districts currently held by rebel forces\. The regime is once more telling the fighters and residents of the rebel sector to get out, offering “amnesty”, the value of which is rather questionable given the regime’s numerous previous violations\. The government ominously added that, “all those who do not take advantage of the provided opportunity to lay down their arms or to leave will face their inevitable fate\.”
 
 
-![](assets/3937d6bdf8b6/1*wqOATvK7OG-zFTibIg82WQ.jpeg)
+![](../assets/3937d6bdf8b6/1*wqOATvK7OG-zFTibIg82WQ.jpeg)
 
 
 As always, it must be added that even those whose primary concern is the refugee crisis must pay close attention to the horrific and bloody situation on the ground\. Lest the bloodshed ends, Syria will continue hemorrhaging thousands of people in addition to the thousands killed, and Europe will be dealing with the horrors of the present crisis for many years to come\.
 #### Greece
 
 
-![A refugee being forced onto a boat to be deported to Turkey, her daughter looking on\. Source: Europe says OXI](assets/3937d6bdf8b6/1*h1CDufNQ1Fhgz5UFdZxzcQ.jpeg)
+![A refugee being forced onto a boat to be deported to Turkey, her daughter looking on\. Source: Europe says OXI](../assets/3937d6bdf8b6/1*h1CDufNQ1Fhgz5UFdZxzcQ.jpeg)
 
 A refugee being forced onto a boat to be deported to Turkey, her daughter looking on\. Source: Europe says OXI
 ### DENTAL HYGIENE PROBLEMS IN CHILDREN

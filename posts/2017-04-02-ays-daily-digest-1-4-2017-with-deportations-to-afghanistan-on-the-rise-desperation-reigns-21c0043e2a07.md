@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe,afghanistan,greece,lebanon]
 description: After his asylum application was rejected, a young man from Afghanistan had committed suicide close to Munich on Saturday. Two further…
 image:
-  path: assets/21c0043e2a07/1*gH7a3HN7dKaB4y4CBVm_yg.jpeg
+  path: ../assets/21c0043e2a07/1*gH7a3HN7dKaB4y4CBVm_yg.jpeg
 ---
 
 ### AYS Daily Digest 1\.4\.2017 — With deportations to Afghanistan on the rise, desperation reigns
 
 
-![“No deportations to Afghanistan” reads the sign displayed at a demonstration in Berlin on the 27th of March\. Photo Credit: Silas Stein](assets/21c0043e2a07/1*gH7a3HN7dKaB4y4CBVm_yg.jpeg)
+![“No deportations to Afghanistan” reads the sign displayed at a demonstration in Berlin on the 27th of March\. Photo Credit: Silas Stein](../assets/21c0043e2a07/1*gH7a3HN7dKaB4y4CBVm_yg.jpeg)
 
 “No deportations to Afghanistan” reads the sign displayed at a demonstration in Berlin on the 27th of March\. Photo Credit: Silas Stein
 
@@ -49,7 +49,7 @@ The president of the European People’s Party in the European parliament reacte
 #### Greece
 
 
-![](assets/21c0043e2a07/1*pf7JEgqQhjVFa-QQCSqSvQ.jpeg)
+![](../assets/21c0043e2a07/1*pf7JEgqQhjVFa-QQCSqSvQ.jpeg)
 
 ### Greece begins to populate deportation center on Kos, seeks to open new one on Chios
 

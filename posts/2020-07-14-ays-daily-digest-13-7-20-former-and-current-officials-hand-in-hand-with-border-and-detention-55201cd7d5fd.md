@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 13/7/20: Former and current officials hand in hand with border and detention…
+title: "AYS Daily Digest 13/7/20: Former and current officials hand in hand with border and detention…"
 author: Are You Syrious?
 date: 2020-07-14T17:05:46.635+0100
 last_modified_at: 2020-07-14T17:05:46.635+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,europe,borders,refugees,human-rights]
 description: As the stance of migration changes, the Ministries of Interior use it to enforce securitisation strategies and violent border measures /…
 image:
-  path: assets/55201cd7d5fd/0*JDaavJBFzfbJwIbQ.jpeg
+  path: ../assets/55201cd7d5fd/0*JDaavJBFzfbJwIbQ.jpeg
 ---
 
 ### AYS Daily Digest 13/7/20: Former and current officials hand in hand with border and detention torture practices
 ### As the stance of migration changes, the Ministries of Interior use it to enforce securitisation strategies and violent border measures / the UK’s ex\-police and diplomacy officers working for the Libyans / Council of State rules: French Ministry of the Interior violates the right to asylum at the border with Italy / 1,000 people arrive in Italy in the past 3 days / Calls for help and aid in the Balkans and in the north of France / reports and updates from the ground & more
 
 
-![](assets/55201cd7d5fd/0*KuSjf-hx4wKzVkCu.jpeg)
+![](../assets/55201cd7d5fd/0*KuSjf-hx4wKzVkCu.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----997ba2076666----------------------)
@@ -22,11 +22,11 @@ image:
 [Jul 14](ays-daily-digest-13-7-20-former-and-current-officials-hand-in-hand-with-border-and-detention-997ba2076666?source=post_page-----997ba2076666----------------------) · 9 min read
 
 
-![](assets/55201cd7d5fd/0*wk8kiI1dpV_Y36ON)
+![](../assets/55201cd7d5fd/0*wk8kiI1dpV_Y36ON)
 
 
 
-![](assets/55201cd7d5fd/0*JDaavJBFzfbJwIbQ.jpeg)
+![](../assets/55201cd7d5fd/0*JDaavJBFzfbJwIbQ.jpeg)
 
 ### FEATURED
 
@@ -104,19 +104,19 @@ After testing, all the newly arrived people will be taken to the quarantine camp
 [Refugee Biriyani & Bananas](https://www.facebook.com/RefugeeBiriyaniAndBananas/?tn-str=k%2AF) team reports about protests on Chios
 
 
-![](assets/55201cd7d5fd/0*FojZZE0Ah4bzJIH1)
+![](../assets/55201cd7d5fd/0*FojZZE0Ah4bzJIH1)
 
 
 
-![](assets/55201cd7d5fd/0*lFB3jepXrLoFBXKh.jpeg)
+![](../assets/55201cd7d5fd/0*lFB3jepXrLoFBXKh.jpeg)
 
 
 
-![](assets/55201cd7d5fd/0*SRR6KWiS_stPtaNh)
+![](../assets/55201cd7d5fd/0*SRR6KWiS_stPtaNh)
 
 
 
-![](assets/55201cd7d5fd/0*_8UTJyG6WsKwbQhT.jpeg)
+![](../assets/55201cd7d5fd/0*_8UTJyG6WsKwbQhT.jpeg)
 
 
 BALKAN ROUTE
@@ -136,11 +136,11 @@ No refugee or asylum seeker tested positive for COVID\-19 infection\. UNHCR and 
 [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?tn-str=k%2AF&hc_location=group_dialog) is in need of men’s summer clothes on the route, collecting them in Croatia, while Are You Syrious is collecting hygiene products, men&women’s clothes and many more things to distribute in our Free Shop in Zagreb\. If you can contribute in any way, contact the groups to see what the next step is\.
 
 
-![](assets/55201cd7d5fd/0*l6esGPSeMXBstIa4)
+![](../assets/55201cd7d5fd/0*l6esGPSeMXBstIa4)
 
 
 
-![](assets/55201cd7d5fd/0*6IByXx8tinMHdcDg.jpeg)
+![](../assets/55201cd7d5fd/0*6IByXx8tinMHdcDg.jpeg)
 
 ### ITALY
 

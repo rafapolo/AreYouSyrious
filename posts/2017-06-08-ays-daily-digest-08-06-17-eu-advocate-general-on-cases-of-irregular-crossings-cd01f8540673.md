@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 08/06/17: EU Advocate General on cases of ‘irregular crossings’
+title: "AYS Daily Digest 08/06/17: EU Advocate General on cases of ‘irregular crossings’"
 author: Are You Syrious?
 date: 2017-06-08T23:05:20.994+0100
 last_modified_at: 2017-06-11T01:53:33.080+0100
@@ -7,7 +7,7 @@ categories:
 tags: [europe,refugee-crisis,refugeeswelcome,european-union,calais]
 description: Opinion of Advocate General Sharpston on cases of A.S. and Jafari family / Aftermath of Elliniko camp evacuation / Information on…
 image:
-  path: assets/cd01f8540673/1*GoZjcgjW_pTE_-N3WG-GJQ.jpeg
+  path: ../assets/cd01f8540673/1*GoZjcgjW_pTE_-N3WG-GJQ.jpeg
 ---
 
 ### AYS Daily Digest 08/06/17: EU Advocate General on cases of ‘irregular crossings’
@@ -15,7 +15,7 @@ image:
 _Opinion of Advocate General Sharpston on cases of A\.S\. and Jafari family_ / _Aftermath of Elliniko camp evacuation / Information on facilities throughout Italy / Calais after the ‘Jungle’ — 150 new policemen deployed against refugees sleeping rough / Germany announces extra aid to improve conditions at Libyan refugee camps / German court ruling / and more_
 
 
-![In Calais, new repressive measures are being employed as refugees continue to stream in \(story below\)](assets/cd01f8540673/1*PXCWtBvUAxvRbgyRFEZUfA.jpeg)
+![In Calais, new repressive measures are being employed as refugees continue to stream in \(story below\)](../assets/cd01f8540673/1*PXCWtBvUAxvRbgyRFEZUfA.jpeg)
 
 In Calais, new repressive measures are being employed as refugees continue to stream in \(story below\)
 #### FEATURE — EU
@@ -109,11 +109,11 @@ Generation 2\.0 also posted about new job opportunities, many of which are for A
 Yesterday saw BelgrAid, [SoulWelders](https://www.facebook.com/SoulWelders/?fref=mentions) , Freedom of Choice TS and [Refugee Aid Serbia](https://www.facebook.com/refugeeaidserbia/?fref=mentions) joining forces to provide much needed hygiene packs for the 320 men, women, and children living at Kikinda camp in northern Serbia, all thanks to the donations they received\.
 
 
-![](assets/cd01f8540673/1*LV7t9QLOv_Q23I8dGVaDfA.jpeg)
+![](../assets/cd01f8540673/1*LV7t9QLOv_Q23I8dGVaDfA.jpeg)
 
 
 
-![Photos by BelgrAid](assets/cd01f8540673/1*rj1FMYZ0PLMCmmJz2xV-ZQ.jpeg)
+![Photos by BelgrAid](../assets/cd01f8540673/1*rj1FMYZ0PLMCmmJz2xV-ZQ.jpeg)
 
 Photos by BelgrAid
 #### ITALY
@@ -138,11 +138,11 @@ Support Collettivo Mamadou in their efforts to build a school and medical premis
 Yesterday at Piazzale Maslax, an assembly with the community of volunteers, activists, and migrants took place, showing the common intent to show solidarity against institutional indifference and a racist climate\. Also present was Medu, giving psychological support and general medical assistance, and Uisp Nazionale, engaged in denouncing situations of racism and discrimination\.
 
 
-![](assets/cd01f8540673/1*GoZjcgjW_pTE_-N3WG-GJQ.jpeg)
+![](../assets/cd01f8540673/1*GoZjcgjW_pTE_-N3WG-GJQ.jpeg)
 
 
 
-![Photos by [Baobab Experience](https://www.facebook.com/BaobabExperience/)](assets/cd01f8540673/1*oUH5i2Vnwzv7wOH0y-xebg.jpeg)
+![Photos by [Baobab Experience](https://www.facebook.com/BaobabExperience/)](../assets/cd01f8540673/1*oUH5i2Vnwzv7wOH0y-xebg.jpeg)
 
 Photos by [Baobab Experience](https://www.facebook.com/BaobabExperience/)
 
@@ -153,15 +153,15 @@ Photos showing horrid living conditions for refugees emerged from the inside of 
 “We ask that the centre is closed immediately and that migrants currently hosted in there are guaranteed a decent reception in the Naples area\.”
 
 
-![](assets/cd01f8540673/1*gc5NY0jRsfLmZJTktwtL7g.jpeg)
+![](../assets/cd01f8540673/1*gc5NY0jRsfLmZJTktwtL7g.jpeg)
 
 
 
-![](assets/cd01f8540673/1*zYdcyCco2hdqCG_WPftYGw.jpeg)
+![](../assets/cd01f8540673/1*zYdcyCco2hdqCG_WPftYGw.jpeg)
 
 
 
-![Photos by Ex OPG Occupato — Je so’ pazzo](assets/cd01f8540673/1*KjvuiHJguvwEXiHuxfiHNg.jpeg)
+![Photos by Ex OPG Occupato — Je so’ pazzo](../assets/cd01f8540673/1*KjvuiHJguvwEXiHuxfiHNg.jpeg)
 
 Photos by Ex OPG Occupato — Je so’ pazzo
 #### MOROCCO/SPAIN
@@ -173,19 +173,19 @@ After being imprisoned for more than 3 months the Moroccan state began the depor
 The new French Minister of Interior Gérard Collomb has announced a fresh round of repressive measures: zero tolerance for camps and squats, more CRS, and a gendarmerie for an extra 150 police offiers to be stationed in the area\. Refugees however continue to arrive, including many unaccompanied minors and—increasingly—women, Chiara Lauvergnac [writes](https://medium.com/@chiaralauvergnac/after-the-jungle-150-new-police-deployed-against-refugees-sleeping-rough-in-calais-3e6da22d58a5) \.
 
 
-![](assets/cd01f8540673/1*P9Tbt1MLdVDDWr9sXkJSWg.jpeg)
+![](../assets/cd01f8540673/1*P9Tbt1MLdVDDWr9sXkJSWg.jpeg)
 
 
 
-![](assets/cd01f8540673/1*arvOqhkanNBZYumiSdlNCw.jpeg)
+![](../assets/cd01f8540673/1*arvOqhkanNBZYumiSdlNCw.jpeg)
 
 
 
-![](assets/cd01f8540673/1*kMurKRLQbJgweRtovGWT5Q.jpeg)
+![](../assets/cd01f8540673/1*kMurKRLQbJgweRtovGWT5Q.jpeg)
 
 
 
-![“The photos are from the 6th June evening, in the night and on the 7th early morning the valiant CRS went there and gassed everybody in their sleep, a few tents and several blankets were also CS sprayed and rendered unusable, people and blankets \[were\] gassed in bois Debruille too, so everybody left the hills for the plain, from where they were also displaced by gendarmerie during Salam breakfast distribution\. The gendarmes pushed them into bois Debruille and out of there too, and in the town where they dispersed and disappeared in small groups\. They were allowed to go back in the evening for food distribution and afterwards they went back to the hills\.” —Chiara Lauvergnac](assets/cd01f8540673/1*PXCWtBvUAxvRbgyRFEZUfA.jpeg)
+![“The photos are from the 6th June evening, in the night and on the 7th early morning the valiant CRS went there and gassed everybody in their sleep, a few tents and several blankets were also CS sprayed and rendered unusable, people and blankets \[were\] gassed in bois Debruille too, so everybody left the hills for the plain, from where they were also displaced by gendarmerie during Salam breakfast distribution\. The gendarmes pushed them into bois Debruille and out of there too, and in the town where they dispersed and disappeared in small groups\. They were allowed to go back in the evening for food distribution and afterwards they went back to the hills\.” —Chiara Lauvergnac](../assets/cd01f8540673/1*PXCWtBvUAxvRbgyRFEZUfA.jpeg)
 
 “The photos are from the 6th June evening, in the night and on the 7th early morning the valiant CRS went there and gassed everybody in their sleep, a few tents and several blankets were also CS sprayed and rendered unusable, people and blankets \[were\] gassed in bois Debruille too, so everybody left the hills for the plain, from where they were also displaced by gendarmerie during Salam breakfast distribution\. The gendarmes pushed them into bois Debruille and out of there too, and in the town where they dispersed and disappeared in small groups\. They were allowed to go back in the evening for food distribution and afterwards they went back to the hills\.” —Chiara Lauvergnac
 

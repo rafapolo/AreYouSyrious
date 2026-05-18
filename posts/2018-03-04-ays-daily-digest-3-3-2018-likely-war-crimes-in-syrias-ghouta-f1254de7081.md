@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 3/3/2018: Likely war crimes in Syria’s Ghouta
+title: "AYS DAILY DIGEST 3/3/2018: Likely war crimes in Syria’s Ghouta"
 author: Are You Syrious?
 date: 2018-03-04T10:09:30.801+0000
 last_modified_at: 2018-03-05T08:39:34.093+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,refugeeswelcome,syria,european-union,digest]
 description: Potentially crimes against humanity in Syria / Greece refuses Dublin returns / Persistent human rights violations in Bulgaria / Increasing…
 image:
-  path: assets/f1254de7081/1*ixhYvLZb2x7s5ZxXKyHU3g.jpeg
+  path: ../assets/f1254de7081/1*ixhYvLZb2x7s5ZxXKyHU3g.jpeg
 ---
 
 ### AYS DAILY DIGEST 3/3/2018: Likely war crimes in Syria’s Ghouta
@@ -15,7 +15,7 @@ image:
 _Potentially crimes against humanity in Syria / Greece refuses Dublin returns / Persistent human rights violations in Bulgaria / Increasing number of families and children locked up in detention centers in France / More from Italy, UK, Germany_
 
 
-![Syrian Civil Defense](assets/f1254de7081/1*ixhYvLZb2x7s5ZxXKyHU3g.jpeg)
+![Syrian Civil Defense](../assets/f1254de7081/1*ixhYvLZb2x7s5ZxXKyHU3g.jpeg)
 
 Syrian Civil Defense
 #### Feature
@@ -37,7 +37,7 @@ Last Saturday, the UN Security Council, including Russia, passed a resolution ca
 Syrian civilians are [**trapped, hiding in their basements**](https://www.middleeastmonitor.com/20180302-syrian-civilians-in-eastern-ghouta-trapped-in-shelters/) because of the ongoing bombardments and assaults\.
 
 
-![[Live Updates From Syria](https://www.facebook.com/liveupdatesfromsyria/)](assets/f1254de7081/1*C-tSFvF0LiNvcHwvv4aE-w.jpeg)
+![[Live Updates From Syria](https://www.facebook.com/liveupdatesfromsyria/)](../assets/f1254de7081/1*C-tSFvF0LiNvcHwvv4aE-w.jpeg)
 
 [Live Updates From Syria](https://www.facebook.com/liveupdatesfromsyria/)
 
@@ -65,21 +65,21 @@ Sunday will be mostly overcast\. There will be snowfall in Bosnia in the afterno
 Partly sunny but increasingly overcast in the early part of the day\. Light precipitation is still possible locally during the night and in the morning there may be freezing in some places inland\. The wind on the mainland will be weak, along the coast it will first be moderate and diminish later during the day\. Inland, the temperature in the morning will range from \-5° to \-1°C, along the coast from 4° to 10°C, during the day on the mainland, 1° to 5°C, and along the coast, 9° to 14°C \.
 
 
-![](assets/f1254de7081/1*nCwnE2ppifvs9KaJEyVRKQ.jpeg)
+![](../assets/f1254de7081/1*nCwnE2ppifvs9KaJEyVRKQ.jpeg)
 
 
 
-![](assets/f1254de7081/1*9J3qLPeF7E8Yn-GmOrhFQA.jpeg)
+![](../assets/f1254de7081/1*9J3qLPeF7E8Yn-GmOrhFQA.jpeg)
 
 
 
-![Serbia; photos: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?hc_location=group_dialog)](assets/f1254de7081/1*IJSJQ6dK8RDp2VIIEazSjg.jpeg)
+![Serbia; photos: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?hc_location=group_dialog)](../assets/f1254de7081/1*IJSJQ6dK8RDp2VIIEazSjg.jpeg)
 
 Serbia; photos: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?hc_location=group_dialog)
 #### GREECE
 
 
-![So far this year a staggering number of 161 boats have tried to reach the Greek islands, carrying a total of 6622 people\. Only 68 boats made it\. The rest, 93 boats, with a total of 3828 people on board were arrested by the Turkish Coast Guard or police\. Over 12,000 people are living under extremely poor conditions on the Greek islands\. The small organizations and NGOs that are working on the islands need all the support they can get\. They are filling the gaps where the bigger organizations have failed\. — [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/)](assets/f1254de7081/1*jnGVXW-cnp2jkexaNeEiSQ.jpeg)
+![So far this year a staggering number of 161 boats have tried to reach the Greek islands, carrying a total of 6622 people\. Only 68 boats made it\. The rest, 93 boats, with a total of 3828 people on board were arrested by the Turkish Coast Guard or police\. Over 12,000 people are living under extremely poor conditions on the Greek islands\. The small organizations and NGOs that are working on the islands need all the support they can get\. They are filling the gaps where the bigger organizations have failed\. — [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/)](../assets/f1254de7081/1*jnGVXW-cnp2jkexaNeEiSQ.jpeg)
 
 So far this year a staggering number of 161 boats have tried to reach the Greek islands, carrying a total of 6622 people\. Only 68 boats made it\. The rest, 93 boats, with a total of 3828 people on board were arrested by the Turkish Coast Guard or police\. Over 12,000 people are living under extremely poor conditions on the Greek islands\. The small organizations and NGOs that are working on the islands need all the support they can get\. They are filling the gaps where the bigger organizations have failed\. — [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/)
 

@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 26/10/2018: Money over lives: the consistent trend in Europe
+title: "AYS DAILY DIGEST 26/10/2018: Money over lives: the consistent trend in Europe"
 author: Are You Syrious?
 date: 2018-10-27T11:16:08.081+0100
 last_modified_at: 2018-10-27T19:18:14.082+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,bosnia]
 description: Officials more intent on preserving their reputation (and funding) than securing safety for victims in Greece // Updates from Bosnia // EU…
 image:
-  path: assets/e1990769128b/1*qe0R5ldMBZwYoQXD0HqgDA.jpeg
+  path: ../assets/e1990769128b/1*qe0R5ldMBZwYoQXD0HqgDA.jpeg
 ---
 
 ### AYS DAILY DIGEST 26/10/2018: Money over lives: the consistent trend in Europe
@@ -15,7 +15,7 @@ image:
 _Officials more intent on preserving their reputation \(and funding\) than securing safety for victims in Greece // Updates from Bosnia // EU to spend 160m on “securing” Moroccan route // Over one million non EU citizens were refused entry to or sent out of Europe in 2017 // Opportunities to support people in Italy France, Germany, and Sweden // Finland suspends deportations to Iraq // more…_
 
 
-![Velika Kladusa Photo Credit: UMINO](assets/e1990769128b/1*qe0R5ldMBZwYoQXD0HqgDA.jpeg)
+![Velika Kladusa Photo Credit: UMINO](../assets/e1990769128b/1*qe0R5ldMBZwYoQXD0HqgDA.jpeg)
 
 Velika Kladusa Photo Credit: UMINO
 ### FEATURE: Arrivals increased in 2017, but safety and security continues to plummet in Greece\.
@@ -104,18 +104,18 @@ _MALJEVAC/VELIKA KLADUŠA_
 For the fourth night, about 200 people will be sleeping rough near to the border crossing on the Bosnian side\. Bosnian police pushed the people back to the road near the main road, and formed a line to keep them away, but Croatian border police is still refusing to open the border for the traffic\. In the meantime, people have started building shelters and putting up tents on the side of the road\.
 
 
-![](assets/e1990769128b/1*ppoxEJjnXwVihi4nSw_GEg.jpeg)
+![](../assets/e1990769128b/1*ppoxEJjnXwVihi4nSw_GEg.jpeg)
 
 
 
-![Maljevac\. Photo AYS](assets/e1990769128b/1*ApCq3JItgnFPmX66oa_-Zg.jpeg)
+![Maljevac\. Photo AYS](../assets/e1990769128b/1*ApCq3JItgnFPmX66oa_-Zg.jpeg)
 
 Maljevac\. Photo AYS
 
 Nobody is officially bringing them food, but groups of locals and volunteers are present in the field\. Many are sick, everybody is exhausted, some are injured\. Among the people there are many families with small babies and children\.
 
 
-![AYS](assets/e1990769128b/1*BT2QKffSH7YMtV4D9bba_Q.jpeg)
+![AYS](../assets/e1990769128b/1*BT2QKffSH7YMtV4D9bba_Q.jpeg)
 
 AYS
 

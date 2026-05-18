@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 01/05/2020: Malta’s government has been involved in the push-backs on Easter…
+title: "AYS Daily Digest 01/05/2020: Malta’s government has been involved in the push-backs on Easter…"
 author: Are You Syrious?
 date: 2020-05-02T12:23:08.437+0100
 last_modified_at: 2020-05-02T13:07:57.234+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,europe,mediterranean,libya,digest]
 description: 57 rescued persons will stay on a ship off the coast of Malta until EU can rehouse them // refugees intercepted at sea have been brought…
 image:
-  path: assets/e82a24c83c18/1*8__7PSOX8xCiExQ2CrMJUw.jpeg
+  path: ../assets/e82a24c83c18/1*8__7PSOX8xCiExQ2CrMJUw.jpeg
 ---
 
 ### AYS Daily Digest 01/05/2020: Malta’s government has been involved in the push\-backs on Easter Weekend
 #### 57 rescued persons will stay on a ship off the coast of Malta until EU can rehouse them // Refugees intercepted at sea have been brought back to Libyan detention centre // NGOs submitted a complaint against EU for ignoring budget laws when funding the Libyan Coast Guard // UNHCR calls for stop of returns to Libya and solidarity in EU with border states // Support website for foreigners launched in Tunisia // Legal report from RSA on administrative treatment of people who arrived in Greece after March 2nd // More news from Greece, Spain and France
 
 
-![Copyrights: Watch the Med — Alarmphone](assets/e82a24c83c18/1*8__7PSOX8xCiExQ2CrMJUw.jpeg)
+![Copyrights: Watch the Med — Alarmphone](../assets/e82a24c83c18/1*8__7PSOX8xCiExQ2CrMJUw.jpeg)
 
 Copyrights: Watch the Med — Alarmphone
 ### FEATURE: Malta’s Prime Minister admits involvement in pushbacks to Libya, but claims it was a rescue mission

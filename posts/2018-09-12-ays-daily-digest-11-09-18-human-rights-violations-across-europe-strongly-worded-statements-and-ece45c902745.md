@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 11/09/18: Human rights violations across Europe, strongly worded statements, and…
+title: "AYS DAILY DIGEST 11/09/18: Human rights violations across Europe, strongly worded statements, and…"
 author: Are You Syrious?
 date: 2018-09-12T05:17:00.069+0100
 last_modified_at: 2018-09-12T05:17:00.069+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees]
 description: UN High Commissioner speaks out against human rights abuses in Italy // Death at sea, with no more witnesses // Protests in Malta as Sea…
 image:
-  path: assets/ece45c902745/1*2-Zy91s66czCBY8yUPuR5A.jpeg
+  path: ../assets/ece45c902745/1*2-Zy91s66czCBY8yUPuR5A.jpeg
 ---
 
 ### AYS DAILY DIGEST 11/09/18: Human rights violations across Europe, strongly worded statements, and little tangible action
@@ -69,7 +69,7 @@ As SOS Mediterranée noted on Twitter, Italy’s recent ban on rescue boats dock
 Lifeline posted a brief [video](https://www.facebook.com/seenotrettung/videos/552459685185175/?fref=gs&dti=1652972374920129&hc_location=group&fb_dtsg_ag=AdwL734KypW2K5s6l-AKh1ifvVEI2pRADnZf0frJKjm7aA%3AAdxRzai4Zp6AuRBP8c7naiCMiFgNHiWxK6RfSZgdjgNNyw) of the protests on the group’s facebook page\. In the video, protestors walk slowly and deliberately through the streets of Valletta, Malta’s capital city, some with their hands painted red and raised in shackles\. Images of Muscat, Angela Merkel, and Mateo Salvini cover their faces, a symbolic judgment of EU leaders’ complicity in the deaths of countless asylum seekers in the Mediterranean and beyond\.
 
 
-![A protestor holds a mask of Italian Interior Minister Mateo Salvini in Valletta, Malta\. Credit: [Lifeline](https://www.facebook.com/seenotrettung/photos/a.113123962427485/451448551928356/?type=3&theater&ifg=1) \. Photo by Nick Jaussi\.](assets/ece45c902745/1*2-Zy91s66czCBY8yUPuR5A.jpeg)
+![A protestor holds a mask of Italian Interior Minister Mateo Salvini in Valletta, Malta\. Credit: [Lifeline](https://www.facebook.com/seenotrettung/photos/a.113123962427485/451448551928356/?type=3&theater&ifg=1) \. Photo by Nick Jaussi\.](../assets/ece45c902745/1*2-Zy91s66czCBY8yUPuR5A.jpeg)
 
 A protestor holds a mask of Italian Interior Minister Mateo Salvini in Valletta, Malta\. Credit: [Lifeline](https://www.facebook.com/seenotrettung/photos/a.113123962427485/451448551928356/?type=3&theater&ifg=1) \. Photo by Nick Jaussi\.
 
@@ -94,7 +94,7 @@ They [tweeted](https://twitter.com/SEENOTRETTUNG/status/1039431989760278528) : �
 The Greek government released its latest u [pdate](https://www.facebook.com/AegeanBoatReport/photos/a.285312485325196/444589002730876/?type=3&hc_location=ufi) on the situation on the islands, making it clear just how drastically over capacity each and every hotspot is\. Notably, Samos is _six times over capacity\._
 
 
-![Seriously overcrowded hotspots: the island camp’s numbers vs\. their capacity\. Source: [Refugee Support Aegean](https://twitter.com/rspaegean)](assets/ece45c902745/1*3bDR58ld4gqbr2QD7-hOVg.jpeg)
+![Seriously overcrowded hotspots: the island camp’s numbers vs\. their capacity\. Source: [Refugee Support Aegean](https://twitter.com/rspaegean)](../assets/ece45c902745/1*3bDR58ld4gqbr2QD7-hOVg.jpeg)
 
 Seriously overcrowded hotspots: the island camp’s numbers vs\. their capacity\. Source: [Refugee Support Aegean](https://twitter.com/rspaegean)
 
@@ -135,7 +135,7 @@ New [data](https://data2.unhcr.org/en/documents/details/65481) from the UNHCR ab
 ### Slovenia
 
 
-![A paramilitary unit of fascists who aim to “protect the border” from migrants\. Credit: Katja Lihtenvalner](assets/ece45c902745/1*_aGMw58F7We4C1kWoIZVJA.jpeg)
+![A paramilitary unit of fascists who aim to “protect the border” from migrants\. Credit: Katja Lihtenvalner](../assets/ece45c902745/1*_aGMw58F7We4C1kWoIZVJA.jpeg)
 
 A paramilitary unit of fascists who aim to “protect the border” from migrants\. Credit: Katja Lihtenvalner
 
@@ -145,7 +145,7 @@ A judge ruled to release a fascist militant who had been imprisoned for forming 
 The Spanish organization has been working with a children’s squat in the forests of Subotica\. For the past two weeks they have been installing showers and providing potable water\. They are looking for donations in order to be able to keep providing food during the weeks to come; they hope to be able to organize a movie afternoon with popcorn sometime next week\.
 
 
-![Credit: [Escuela con Alma](https://www.facebook.com/escuelaconalma/posts/1821432667946330) \.](assets/ece45c902745/1*Y7dfCj4AJVpmF-CCrd9Xtg.jpeg)
+![Credit: [Escuela con Alma](https://www.facebook.com/escuelaconalma/posts/1821432667946330) \.](../assets/ece45c902745/1*Y7dfCj4AJVpmF-CCrd9Xtg.jpeg)
 
 Credit: [Escuela con Alma](https://www.facebook.com/escuelaconalma/posts/1821432667946330) \.
 ### FRANCE
@@ -153,7 +153,7 @@ Credit: [Escuela con Alma](https://www.facebook.com/escuelaconalma/posts/1821432
 **People are already coming back to the Dunkirk Jungle\.** The camp was evicted less than a week ago, and already the French government’s chosen strategy of eviction has proven, once again, to be astonishingly shortsighted\. In response, the mayor of Grande\-Synthe has written to the French prime minister demanding that a large number of accommodation centers be opened in the region before winter — or else he threatens to reopen La Linière, the official camp in the Dunkirk region, which was destroyed by fire in 2017\. He [said](https://www.francebleu.fr/infos/politique/pour-les-migrants-le-maire-de-grande-synthe-demande-des-lieux-de-repit-a-l-etat-sinon-il-rouvrira-la-1535991815) that reopening the camp would be “one solution — certainly not the one I recommend\. **To create a camp is not a solution — but we had to respond to a humanitarian crisis\.** But given the time that has passed since the problem began, I believe that this can no longer be seen as a crisis — rather, it should be a substantive policy, implemented by the state\.”
 
 
-![Injera for Ethiopian \+ Eritrean new year\. Credit: Faces before Numbers\.](assets/ece45c902745/1*VdaQBR7S2U4aAoOlpUrYew.jpeg)
+![Injera for Ethiopian \+ Eritrean new year\. Credit: Faces before Numbers\.](../assets/ece45c902745/1*VdaQBR7S2U4aAoOlpUrYew.jpeg)
 
 Injera for Ethiopian \+ Eritrean new year\. Credit: Faces before Numbers\.
 

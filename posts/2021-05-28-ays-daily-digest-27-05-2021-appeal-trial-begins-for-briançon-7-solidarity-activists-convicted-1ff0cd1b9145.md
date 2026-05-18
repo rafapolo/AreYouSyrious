@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 27/05/21: Appeal Trial Begins for ‘Briançon 7’, Activists Convicted in the…
+title: "AYS Daily Digest 27/05/21: Appeal Trial Begins for ‘Briançon 7’, Activists Convicted in the…"
 author: Are You Syrious?
 date: 2021-05-28T10:57:31.445+0100
 last_modified_at: 2021-05-28T11:19:33.811+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migration,france,search-and-rescue]
 description: NGO registry under scrutiny in Greece // Landings and returns in Italy and UK // Dutch Parliament won’t deport to Syria // AYS free shop…
 image:
-  path: assets/1ff0cd1b9145/1*LEQqE_6CD8mD1GXxa5z5iQ.jpeg
+  path: ../assets/1ff0cd1b9145/1*LEQqE_6CD8mD1GXxa5z5iQ.jpeg
 ---
 
 ### AYS Daily Digest 27/05/21: Appeal Trial Begins for ‘Briançon 7’, Activists Convicted in the French\-Italian Alps
 #### NGO registry under scrutiny in Greece // Landings and returns in Italy and UK // Dutch Parliament won’t deport to Syria // AYS free shop relocates // & more news
 
 
-![Photo: [Comité de soutien aux 3\+4 de Briançon](https://www.facebook.com/soutien3plus4db/photos/a.1381842755518340/1381842728851676/)](assets/1ff0cd1b9145/1*LEQqE_6CD8mD1GXxa5z5iQ.jpeg)
+![Photo: [Comité de soutien aux 3\+4 de Briançon](https://www.facebook.com/soutien3plus4db/photos/a.1381842755518340/1381842728851676/)](../assets/1ff0cd1b9145/1*LEQqE_6CD8mD1GXxa5z5iQ.jpeg)
 
 Photo: [Comité de soutien aux 3\+4 de Briançon](https://www.facebook.com/soutien3plus4db/photos/a.1381842755518340/1381842728851676/)
 ### FEATURE — Appeal Process Underway in Grenoble for ‘Briançon 7’

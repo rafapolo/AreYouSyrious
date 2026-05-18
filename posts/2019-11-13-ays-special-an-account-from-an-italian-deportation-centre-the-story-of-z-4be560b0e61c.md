@@ -1,5 +1,5 @@
 ---
-title: AYS Special — An account from an Italian deportation centre: the story of Z.
+title: "AYS Special — An account from an Italian deportation centre: the story of Z."
 author: Are You Syrious?
 date: 2019-11-13T15:01:03.359+0000
 last_modified_at: 2019-11-13T15:01:03.359+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [solitary-confinement,special,cpr,italy,administrative-detention]
 description: Mai Più Lager — NO ai CPR is an Italian network that reports about and denounces conditions inside deportation centres in the country.
 image:
-  path: assets/4be560b0e61c/1*25rUnPltokH8qGeSr15KZw.jpeg
+  path: ../assets/4be560b0e61c/1*25rUnPltokH8qGeSr15KZw.jpeg
 ---
 
 ### AYS Special — An account from an Italian deportation centre: the story of Z\.
@@ -17,7 +17,7 @@ image:
 Here you can find the translation of their latest interview with a young man recently released from one of the prisons\. The original interview can be found at [this link](https://www.facebook.com/notes/mai-più-lager-no-ai-cpr/33-giorni-in-un-cpr-a-22-anni-il-racconto-di-z/571290453442465/?fref=mentions&__xts__[0]=68.ARCYTwb3WFWCNE4DdsA0YztbknNQd8jkkYr-8-nta4QbWCmhLcYAL36Sr7oTW4rWyP-kmcHg03BsqkRhTdzwWstdwcYscUBIZ_uII3bhv8sKXPmTQXrc7O2P02SjYsNU7yYEeZs0sHDEZ99Z_kKEn5HZw7U6SQ-c1uWzomJ-QaNpDu0W8l605b7IrgIW5tz16ckMffGuRnGMkd_O-44X14tkdAqJAqz3p-yKk1paW9SpoQX57PFGKmPKg82NzgHMBY1oP-sye85blr-h-4Rud25yA3D-G2dI5dmGEVsxmaQT16MoFBFCWghfDlAa3OyDt-opXKs2gHAd7mpEafYOxZ0&__tn__=K-R) \.
 
 
-![Photo via [NoCPR](https://twitter.com/nocpr1)](assets/4be560b0e61c/1*25rUnPltokH8qGeSr15KZw.jpeg)
+![Photo via [NoCPR](https://twitter.com/nocpr1)](../assets/4be560b0e61c/1*25rUnPltokH8qGeSr15KZw.jpeg)
 
 Photo via [NoCPR](https://twitter.com/nocpr1)
 

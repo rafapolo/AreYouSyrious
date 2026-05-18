@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 17/7: Three quarters of camps in Greece to be closed soon
+title: "AYS DAILY DIGEST 17/7: Three quarters of camps in Greece to be closed soon"
 author: Are You Syrious?
 date: 2016-07-17T23:03:59.898+0100
 last_modified_at: 2016-07-17T23:03:59.898+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,belgrade,calais,info-park]
 description: While the war in Syria is still raging, more people are forced to leave their homes and search for safety in Europe. However, we do not…
 image:
-  path: assets/d4784fbb28e9/1*WLfHXCLEVaCLE7MXPfbxdg.jpeg
+  path: ../assets/d4784fbb28e9/1*WLfHXCLEVaCLE7MXPfbxdg.jpeg
 ---
 
 ### AYS DAILY DIGEST 17/7: Three quarters of camps in Greece to be closed soon
@@ -15,7 +15,7 @@ image:
 _While the war in Syria is still raging, more people are forced to leave their homes and search for safety in Europe\. However, we do not hear about the plans to open the borders any time soon, or that somebody is seriously considering to stop the war\. More people arrived in Greece today while the local government is announcing plans to close some of the refugee camps by September\. More relocation announced, too\. Situation is getting worse in Belgrade\. Over 300 people slept in the park in Belgrade last night\. More than 400 are waiting at the border between Serbia and Hungary\. In Calais refugees are living in intolerable conditions\._
 
 
-![To many kids are among refugees who are asking for help in Serbia now\. Some of them are sleeping out in the open in Belgrade\. Photo Refugee Aid Mixaliste\.](assets/d4784fbb28e9/1*WLfHXCLEVaCLE7MXPfbxdg.jpeg)
+![To many kids are among refugees who are asking for help in Serbia now\. Some of them are sleeping out in the open in Belgrade\. Photo Refugee Aid Mixaliste\.](../assets/d4784fbb28e9/1*WLfHXCLEVaCLE7MXPfbxdg.jpeg)
 
 To many kids are among refugees who are asking for help in Serbia now\. Some of them are sleeping out in the open in Belgrade\. Photo Refugee Aid Mixaliste\.
 #### Syria
@@ -119,7 +119,7 @@ Pre\-registration continues in Greece\. We have a few things important for volun
 For further information about who is included in this category of ‘Urban’ [please read this post](https://m.facebook.com/groups/204202716585823?view=permalink&id=298258920513535) \.
 
 
-![](assets/d4784fbb28e9/1*RL3jfAJ1o1NO2UthfHZyOw.jpeg)
+![](../assets/d4784fbb28e9/1*RL3jfAJ1o1NO2UthfHZyOw.jpeg)
 
 ### Waiting area in Greece
 
@@ -162,7 +162,7 @@ Info House volunteers are warning that even though it is over a year since the c
 
 
 
-![People are sleeping in the streets of Belgrade\. Hundereds are in need for help\. Photo Info House\.](assets/d4784fbb28e9/1*n8mOVnxFhe7ns_8MNW9svg.jpeg)
+![People are sleeping in the streets of Belgrade\. Hundereds are in need for help\. Photo Info House\.](../assets/d4784fbb28e9/1*n8mOVnxFhe7ns_8MNW9svg.jpeg)
 
 People are sleeping in the streets of Belgrade\. Hundereds are in need for help\. Photo Info House\.
 #### Border are between Serbia and Hungary
@@ -201,11 +201,11 @@ RAIFFEISEN BANK AD
 If you would like to join IHO team from 20th of July, send them an mail to info@iHo\.org\.uk
 
 
-![](assets/d4784fbb28e9/1*RIDgcoKD38v59Zqbkw_uDw.jpeg)
+![](../assets/d4784fbb28e9/1*RIDgcoKD38v59Zqbkw_uDw.jpeg)
 
 
 
-![Nothing new from the border between Serbia and Hungary\. People are still stuck and waiting in unberable conditions\. Photo IHO\.](assets/d4784fbb28e9/1*2j-s0zMu28RH6f49KJQq3A.jpeg)
+![Nothing new from the border between Serbia and Hungary\. People are still stuck and waiting in unberable conditions\. Photo IHO\.](../assets/d4784fbb28e9/1*2j-s0zMu28RH6f49KJQq3A.jpeg)
 
 Nothing new from the border between Serbia and Hungary\. People are still stuck and waiting in unberable conditions\. Photo IHO\.
 #### France

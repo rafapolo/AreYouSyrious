@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 27/4/20: Another Political Interference in the Freedoms of Academia and the Media
+title: "AYS Daily Digest 27/4/20: Another Political Interference in the Freedoms of Academia and the Media"
 author: Are You Syrious?
 date: 2020-04-28T12:29:12.436+0100
 last_modified_at: 2020-04-28T13:32:04.274+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,greece,refugees,balkans,europe]
 description: Belgian fight for the regularisation of undocumented people / 127 people moved TO Moria / So far no transfer of minors from the islands /…
 image:
-  path: assets/7c66c746a828/1*5h1i6aD3gx5mbjsUZ379vQ.jpeg
+  path: ../assets/7c66c746a828/1*5h1i6aD3gx5mbjsUZ379vQ.jpeg
 ---
 
 ### AYS Daily Digest 27/4/20: More Political Interference into the Freedoms of Academia and the Media
 #### Belgian fight for the regularisation of undocumented people / 127 people moved to Moria / So far no transfer of minors from the islands / Are the fires in the camps not a warning that all deadlines have passed? / Protesting the existing state of things in Bosnia and Herzegovina, supported by the international community / & more updates
 
 
-![[“](https://www.facebook.com/MoriaCoronaAwarenessTeam/?tn-str=k%2AF&hc_location=group_dialog) [Finally after a month](https://www.facebook.com/MoriaCoronaAwarenessTeam/?tn-str=k*F&hc_location=group_dialog) in the north these 127 refugees were transferred to Moria\. They stayed on a beach in tents all the time under very bad conditions\.” \(Photo taken by Murteza/MCAT, via [Moria Corona Awareness Team](https://www.facebook.com/MoriaCoronaAwarenessTeam/?tn-str=k%2AF&hc_location=group_dialog) \)](assets/7c66c746a828/1*5h1i6aD3gx5mbjsUZ379vQ.jpeg)
+![[“](https://www.facebook.com/MoriaCoronaAwarenessTeam/?tn-str=k%2AF&hc_location=group_dialog) [Finally after a month](https://www.facebook.com/MoriaCoronaAwarenessTeam/?tn-str=k*F&hc_location=group_dialog) in the north these 127 refugees were transferred to Moria\. They stayed on a beach in tents all the time under very bad conditions\.” \(Photo taken by Murteza/MCAT, via [Moria Corona Awareness Team](https://www.facebook.com/MoriaCoronaAwarenessTeam/?tn-str=k%2AF&hc_location=group_dialog) \)](../assets/7c66c746a828/1*5h1i6aD3gx5mbjsUZ379vQ.jpeg)
 
 [“](https://www.facebook.com/MoriaCoronaAwarenessTeam/?tn-str=k%2AF&hc_location=group_dialog) [Finally after a month](https://www.facebook.com/MoriaCoronaAwarenessTeam/?tn-str=k*F&hc_location=group_dialog) in the north these 127 refugees were transferred to Moria\. They stayed on a beach in tents all the time under very bad conditions\.” \(Photo taken by Murteza/MCAT, via [Moria Corona Awareness Team](https://www.facebook.com/MoriaCoronaAwarenessTeam/?tn-str=k%2AF&hc_location=group_dialog) \)
 #### FEATURED
@@ -122,7 +122,7 @@ The 55\-year\-old man who shot at refugees in Moria was released on parole, the 
 A group of activists who started [Transbalkanska solidarnost](https://www.facebook.com/transbalkanskasolidarnost/?__xts__%5B0%5D=68.ARDWptaFHCoIK4cPuP3R0hLUGBuX_m8SAG8JKXXBv8LjumAefCPQ_Zr3XL19IK6eDdDzcaSUqA7sOVJHDxc8mTysHoyGLZiZ2hBJImCKZrDtZ8Tw5YtqFjAvVC9cSwi8PHMkXr0reeibxr0y1ckJfUBflhdR2-rI2VE3T3tOB8wodCfT7NtQ68YRtiOb2o8pH16GsL00buVV8bgDROTmCyxxcGT_O7GARvf-7HS3mHVQob4TUdZClpfS8W0DeWi1htL7WqzS8sYkjQygYDn5-Ju4LyCd59cUbjqK1JvBwssDqn3Or-ceQaRnA7fvNRcVIOPE08b_d6WboF9QsRaEaPE&__xts__%5B1%5D=68.ARD1u1I7Q5_SzyMKS7iklKgNd2IQhbZYoyzGOFh5iEK99rxoFrjoBGV9DWTIdx_gS8JvAqSRZr0wRU4SxJ2sWUh7Vwmes4o0zfwlmf0VERNuCfldlKlWeKOFGITz9m1DVL15PCQNnXzke_648-Oxz1PKlSRyaJlbjTuDSl4o_0nJyMmvldd-lNovczWcqUq9SLEBzXpRNgRsL6fV82rsynf2lxarEs10rhXhFMmgLIAjzUQv4lgskNf3_53piuBP3sVLCm8v3iWv8xPf0OdIkLV6HcUaNBpoHdeMaWaZeW-66RK1-sh1Ga7QvqDe-ZDA9Diqr08Xezyr2QriUimCW8Q&__tn__=kC-R&eid=ARDafcykRN7lqbmWTLJJKcqgAR2osbHzY2KubqLbZnzFG0kjrOrS-BDqA4ePTWe-ynswwHrOXbUEAiiJ&hc_ref=ARTVcenVC-Yk3l1OhrQPWvW8Rmwy1F0EzweynA2Oygz_kyRF4lmi-Jjg4tLNRA1wfbY&fref=nf) invite people to join their protest against IOM’s “non\-action” in Bosnia and Herzegovina, by calling people to actively reach out to them during 48 hours, starting on 27 April\.
 
 
-![](assets/7c66c746a828/1*s506AdUHSGFNbhk8GsS_lA.jpeg)
+![](../assets/7c66c746a828/1*s506AdUHSGFNbhk8GsS_lA.jpeg)
 
 
 
@@ -216,7 +216,7 @@ The undocumented people participate at all times in the wealth of a society, the
 ### Services in support to women
 
 
-![Find details and more information in other languages on [the DRIVE](https://drive.google.com/file/d/1LwruF_JETQX72JzJ042gCywxqWGhh0Ae/view?usp=sharing&fbclid=IwAR0mQfkrsGQCa8V0ra9V5WWqCd-SMiFvdctdTPWnGUre9wkiFU3ENaEe5nI)](assets/7c66c746a828/0*okTnnmQVmZf3dWfq)
+![Find details and more information in other languages on [the DRIVE](https://drive.google.com/file/d/1LwruF_JETQX72JzJ042gCywxqWGhh0Ae/view?usp=sharing&fbclid=IwAR0mQfkrsGQCa8V0ra9V5WWqCd-SMiFvdctdTPWnGUre9wkiFU3ENaEe5nI)](../assets/7c66c746a828/0*okTnnmQVmZf3dWfq)
 
 Find details and more information in other languages on [the DRIVE](https://drive.google.com/file/d/1LwruF_JETQX72JzJ042gCywxqWGhh0Ae/view?usp=sharing&fbclid=IwAR0mQfkrsGQCa8V0ra9V5WWqCd-SMiFvdctdTPWnGUre9wkiFU3ENaEe5nI)
 #### GENERAL

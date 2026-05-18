@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 4/9/2019 — Attacked on every Front: the Rights of Refugees in Greece
+title: "AYS Daily Digest 4/9/2019 — Attacked on every Front: the Rights of Refugees in Greece"
 author: Are You Syrious?
 date: 2019-09-05T12:08:10.373+0100
 last_modified_at: 2019-09-05T12:34:23.444+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,alan-kurdi,racism]
 description: Maltese government asks sea-eye crew to carry out identification of rescued people /// New brutal methods of Croatian police revealed ///…
 image:
-  path: assets/56889698459b/1*rSvT236CkpNWUi9yXgzjXQ.jpeg
+  path: ../assets/56889698459b/1*rSvT236CkpNWUi9yXgzjXQ.jpeg
 ---
 
 ### AYS Daily Digest 4/9/2019 — Attacked on Every Front: the Rights of Refugees in Greece
@@ -15,7 +15,7 @@ image:
 Maltese government asks Sea\-Eye crew to carry out identification of the people they rescued /// New brutal methods of Croatian police revealed /// Moroccan and Spanish interior ministers meet to strengthen migration policy
 
 
-![Collective memory is always short\-range — Artwork by [Augusto Salles](https://twitter.com/sallesino) \(2018\)](assets/56889698459b/1*rSvT236CkpNWUi9yXgzjXQ.jpeg)
+![Collective memory is always short\-range — Artwork by [Augusto Salles](https://twitter.com/sallesino) \(2018\)](../assets/56889698459b/1*rSvT236CkpNWUi9yXgzjXQ.jpeg)
 
 Collective memory is always short\-range — Artwork by [Augusto Salles](https://twitter.com/sallesino) \(2018\)
 ### FEATURE — Attacked on Every Front: the Rights of Refugees in Greece
@@ -86,11 +86,11 @@ On the islands and on the mainland conditions of the camps are dismal, and worse
 On Kos island:
 
 
-![](assets/56889698459b/1*FWlnFxBpoKq43vDe9k9W1Q.jpeg)
+![](../assets/56889698459b/1*FWlnFxBpoKq43vDe9k9W1Q.jpeg)
 
 
 
-![Kos \(photo by: [عكرمة ابراهيم](https://www.facebook.com/profile.php?id=100035013870173&fref=gs&__tn__=%2CdC-R-R&eid=ARBE_qxBd77szPxszdqDewRcejt4Lg1WKBr3NjCA34WHDqgHoE4jktflPWFG_qkqMbcI8KnA1wglnggW&hc_ref=ARSanAVlgU01Sa-dWodIOddMVxUl2g9oJ7ciue5Plzht5_O_VDnW2bap8XK1dC5-pgo&dti=458835327636156&hc_location=group) , [Kos Solidarity Volunteers](https://www.facebook.com/groups/458835327636156/) \)](assets/56889698459b/1*jZm0HutZzMiF4erj6iYXYw.jpeg)
+![Kos \(photo by: [عكرمة ابراهيم](https://www.facebook.com/profile.php?id=100035013870173&fref=gs&__tn__=%2CdC-R-R&eid=ARBE_qxBd77szPxszdqDewRcejt4Lg1WKBr3NjCA34WHDqgHoE4jktflPWFG_qkqMbcI8KnA1wglnggW&hc_ref=ARSanAVlgU01Sa-dWodIOddMVxUl2g9oJ7ciue5Plzht5_O_VDnW2bap8XK1dC5-pgo&dti=458835327636156&hc_location=group) , [Kos Solidarity Volunteers](https://www.facebook.com/groups/458835327636156/) \)](../assets/56889698459b/1*jZm0HutZzMiF4erj6iYXYw.jpeg)
 
 Kos \(photo by: [عكرمة ابراهيم](https://www.facebook.com/profile.php?id=100035013870173&fref=gs&__tn__=%2CdC-R-R&eid=ARBE_qxBd77szPxszdqDewRcejt4Lg1WKBr3NjCA34WHDqgHoE4jktflPWFG_qkqMbcI8KnA1wglnggW&hc_ref=ARSanAVlgU01Sa-dWodIOddMVxUl2g9oJ7ciue5Plzht5_O_VDnW2bap8XK1dC5-pgo&dti=458835327636156&hc_location=group) , [Kos Solidarity Volunteers](https://www.facebook.com/groups/458835327636156/) \)
 
@@ -206,11 +206,11 @@ CROATIA
 The group [Udruženje Solidarnost — Bosnia](https://www.facebook.com/solidarnostbosnia/) published a conversation with a victim of police brutality in Croatia, which reveals the cruel methods of the Croatian police:
 
 
-![](assets/56889698459b/1*7fbu2sFmwcPHtOeBQY7OVg.jpeg)
+![](../assets/56889698459b/1*7fbu2sFmwcPHtOeBQY7OVg.jpeg)
 
 
 
-![[Udruženje Solidarnost — Bosnia](https://www.facebook.com/solidarnostbosnia/photos/pcb.2918216744856158/2918216591522840/?type=3&theater)](assets/56889698459b/1*boy849hot4HZQ9zYmYv6qw.jpeg)
+![[Udruženje Solidarnost — Bosnia](https://www.facebook.com/solidarnostbosnia/photos/pcb.2918216744856158/2918216591522840/?type=3&theater)](../assets/56889698459b/1*boy849hot4HZQ9zYmYv6qw.jpeg)
 
 [Udruženje Solidarnost — Bosnia](https://www.facebook.com/solidarnostbosnia/photos/pcb.2918216744856158/2918216591522840/?type=3&theater)
 
@@ -225,7 +225,7 @@ ICELAND
 [Refugees in Iceland](https://www.facebook.com/refugeesiniceland) have made a poster showing ways in which you can support Refugees in Iceland\. We are now happy to share it with you and hope people don’t forget the struggle is still on\.
 
 
-![[Refugees in Iceland](https://www.facebook.com/refugeesiniceland/photos/a.345171279429532/435818123698180/?type=3&theater)](assets/56889698459b/1*ruJ4oHP0uAcMihcJ0_Fezg.jpeg)
+![[Refugees in Iceland](https://www.facebook.com/refugeesiniceland/photos/a.345171279429532/435818123698180/?type=3&theater)](../assets/56889698459b/1*ruJ4oHP0uAcMihcJ0_Fezg.jpeg)
 
 [Refugees in Iceland](https://www.facebook.com/refugeesiniceland/photos/a.345171279429532/435818123698180/?type=3&theater)
 

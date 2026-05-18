@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST WEEKEND 2/3.2.2019: European deadly trap
+title: "AYS DAILY DIGEST WEEKEND 2/3.2.2019: European deadly trap"
 author: Are You Syrious?
 date: 2019-02-04T11:59:10.586+0000
 last_modified_at: 2019-02-07T11:13:16.642+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,bosnia,italy,evros-river]
 description: Three girls died in ship wreck in Evros // Father of 5-year-old died in car accident in Bosnia // Victim of trafficking got asylum in…
 image:
-  path: assets/f19131bb6123/1*fqku6-wM5v4o_f-RjJYYfQ.jpeg
+  path: ../assets/f19131bb6123/1*fqku6-wM5v4o_f-RjJYYfQ.jpeg
 ---
 
 ### AYS DAILY DIGEST WEEKEND 2/3\.2\.2019: European deadly trap
@@ -15,7 +15,7 @@ image:
 _Three girls died in ship wreck in Evros // Father of 5\-year\-old died in car accident in Bosnia // Victim of trafficking got asylum in Serbia // Elin Ersson, the Swedish student who tried to halt a deporation onboard a plane is on trial today // and much more from the rest of Europe_
 
 
-![“Welcome” for minister Salvini in Atri, Abruzzo, Italy\. A square filled with “drowning” hands\. A slap in the face of the arrogance and inhumanity of his policies\. By L’Urlo\.](assets/f19131bb6123/1*fqku6-wM5v4o_f-RjJYYfQ.jpeg)
+![“Welcome” for minister Salvini in Atri, Abruzzo, Italy\. A square filled with “drowning” hands\. A slap in the face of the arrogance and inhumanity of his policies\. By L’Urlo\.](../assets/f19131bb6123/1*fqku6-wM5v4o_f-RjJYYfQ.jpeg)
 
 “Welcome” for minister Salvini in Atri, Abruzzo, Italy\. A square filled with “drowning” hands\. A slap in the face of the arrogance and inhumanity of his policies\. By L’Urlo\.
 ### Feature
@@ -62,7 +62,7 @@ On the 3 February at 5\.30 AM, Abdelhamid \(34\) from Algeria, who was a residen
 Abdelhamid was with two friends at the moment the accident happened 200 meters away from the camp entrance\. When one of the friends alerted the private security guards patrolling the centre, that are hired by the IOM and supposedly trained by the United Nations, they told the young man to leave and refused to call an ambulance\.
 
 
-![](assets/f19131bb6123/1*B4LSnzh0xCfitBw2nmf4Gw.jpeg)
+![](../assets/f19131bb6123/1*B4LSnzh0xCfitBw2nmf4Gw.jpeg)
 
 
 The young man could not find any IOM staff to assist him, and so ran to the petrol station next to the camp and alerted the woman working inside, who called police\. No ambulance arrived to the scene; instead the critically injured man and his friends were taken in a police car to the local hospital in Velika Kladusa approximately one hour after the time of the accident\.
@@ -70,7 +70,7 @@ The young man could not find any IOM staff to assist him, and so ran to the petr
 When the friends of the injured man asked police why no ambulance is coming, they allege that they were verbally attacked by the officers that came to assist\.
 
 
-![](assets/f19131bb6123/1*b6Bna_wl2kk6xtjyO1hs8g.jpeg)
+![](../assets/f19131bb6123/1*b6Bna_wl2kk6xtjyO1hs8g.jpeg)
 
 
 The injured was proclaimed deceased 10 minutes after his arrival to the hospital\.
@@ -126,7 +126,7 @@ If you are interested, please apply on this vacancy or send an email for more in
 ### Belgium
 
 
-![[Isabelle Dion](https://www.facebook.com/isabelle.dion?__tn__=%2CdCH-R-R&eid=ARApKg4we36ZFdgJwQ3HNAXQbq1dnC6JYAaTcI7WI-LbMyBKISQL5L24CLuIvvNaMWaNc7_prPEvoEbo&hc_ref=ARQciF-7nbhB7nrLVxcO9ZcGYa0DNyunlr_vIAZSpxjqVw8zeTJSjcVWa1cJRd1P228&fref=nf&hc_location=group) in Gent, 1st February 2019 at 6 am, **“** This is not a Flemish painting of the 17th century, this is a picture of a group of frozen migrants trying to reach England\.”](assets/f19131bb6123/1*Fg1mXxvb2opn2r_2SlsfCQ.jpeg)
+![[Isabelle Dion](https://www.facebook.com/isabelle.dion?__tn__=%2CdCH-R-R&eid=ARApKg4we36ZFdgJwQ3HNAXQbq1dnC6JYAaTcI7WI-LbMyBKISQL5L24CLuIvvNaMWaNc7_prPEvoEbo&hc_ref=ARQciF-7nbhB7nrLVxcO9ZcGYa0DNyunlr_vIAZSpxjqVw8zeTJSjcVWa1cJRd1P228&fref=nf&hc_location=group) in Gent, 1st February 2019 at 6 am, **“** This is not a Flemish painting of the 17th century, this is a picture of a group of frozen migrants trying to reach England\.”](../assets/f19131bb6123/1*Fg1mXxvb2opn2r_2SlsfCQ.jpeg)
 
 [Isabelle Dion](https://www.facebook.com/isabelle.dion?__tn__=%2CdCH-R-R&eid=ARApKg4we36ZFdgJwQ3HNAXQbq1dnC6JYAaTcI7WI-LbMyBKISQL5L24CLuIvvNaMWaNc7_prPEvoEbo&hc_ref=ARQciF-7nbhB7nrLVxcO9ZcGYa0DNyunlr_vIAZSpxjqVw8zeTJSjcVWa1cJRd1P228&fref=nf&hc_location=group) in Gent, 1st February 2019 at 6 am, **“** This is not a Flemish painting of the 17th century, this is a picture of a group of frozen migrants trying to reach England\.”
 ### Germany
@@ -147,7 +147,7 @@ In the fall of 2015 , more than 30,000 refugees tried to get from Rostock to Swe
 A mass deportation will take place this Wednesday from Leipzig to Tunisia\. A [protest and information day](https://www.facebook.com/events/624016498035786/) will take place in Leipzig to inform about “the European border regime and its consequences for North African society”\.
 
 
-![Photo by Die Grenze ist das Problem](assets/f19131bb6123/0*_YHOA1AQoJaTN5Jx)
+![Photo by Die Grenze ist das Problem](../assets/f19131bb6123/0*_YHOA1AQoJaTN5Jx)
 
 Photo by Die Grenze ist das Problem
 ### Sweden

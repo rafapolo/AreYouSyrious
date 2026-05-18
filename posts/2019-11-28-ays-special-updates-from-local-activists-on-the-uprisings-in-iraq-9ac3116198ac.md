@@ -1,5 +1,5 @@
 ---
-title: AYS Special: Updates from local activists on the uprisings in Iraq
+title: "AYS Special: Updates from local activists on the uprisings in Iraq"
 author: Are You Syrious?
 date: 2019-11-28T18:02:21.540+0000
 last_modified_at: 2019-11-30T11:09:08.559+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [special,iraq,protest,freedom]
 description: A summary of the events concerning the uprisings in October and November from the perspective of young activists in Baghdad.
 image:
-  path: assets/9ac3116198ac/1*4TE9T0Tp10_o1h_3oJKvNw.png
+  path: ../assets/9ac3116198ac/1*4TE9T0Tp10_o1h_3oJKvNw.png
 ---
 
 ### AYS Special: Updates from local activists on the uprisings in Iraq
 #### A summary of the events concerning the uprisings in October and November from the perspective of young activists in Baghdad\.
 
 
-![Credit: Re\-post from [عمال ضد الطائفية — workers against sectarianism](https://www.facebook.com/WOAGSE/) \. November 2019\.](assets/9ac3116198ac/1*4TE9T0Tp10_o1h_3oJKvNw.png)
+![Credit: Re\-post from [عمال ضد الطائفية — workers against sectarianism](https://www.facebook.com/WOAGSE/) \. November 2019\.](../assets/9ac3116198ac/1*4TE9T0Tp10_o1h_3oJKvNw.png)
 
 Credit: Re\-post from [عمال ضد الطائفية — workers against sectarianism](https://www.facebook.com/WOAGSE/) \. November 2019\.
 
@@ -48,7 +48,7 @@ AYS has reached out to local activists in Baghdad in order to spread their voice
 
 
 
-![Credit: Re\-post from [عمال ضد الطائفية — workers against sectarianism](https://www.facebook.com/WOAGSE/) \. November 2019\.](assets/9ac3116198ac/1*p1--fMqELFr2GArBPW15_A.png)
+![Credit: Re\-post from [عمال ضد الطائفية — workers against sectarianism](https://www.facebook.com/WOAGSE/) \. November 2019\.](../assets/9ac3116198ac/1*p1--fMqELFr2GArBPW15_A.png)
 
 Credit: Re\-post from [عمال ضد الطائفية — workers against sectarianism](https://www.facebook.com/WOAGSE/) \. November 2019\.
 #### 2nd of October — Bab al\-Sharqi/al\-Tairan square \(Baghdad\):
@@ -72,11 +72,11 @@ Credit: Re\-post from [عمال ضد الطائفية — workers against sectar
 
 
 
-![](assets/9ac3116198ac/1*2QQDv-rHmIz6_A_oKk_UnQ.jpeg)
+![](../assets/9ac3116198ac/1*2QQDv-rHmIz6_A_oKk_UnQ.jpeg)
 
 
 
-![Credit: [الحزب الشيوعي العمالي العراقي](https://www.facebook.com/WCPIRAQ/) \. November 2019\.](assets/9ac3116198ac/1*wwVEm0oKY0E-cwW8PRc5Lw.jpeg)
+![Credit: [الحزب الشيوعي العمالي العراقي](https://www.facebook.com/WCPIRAQ/) \. November 2019\.](../assets/9ac3116198ac/1*wwVEm0oKY0E-cwW8PRc5Lw.jpeg)
 
 Credit: [الحزب الشيوعي العمالي العراقي](https://www.facebook.com/WCPIRAQ/) \. November 2019\.
 #### 25th/27th October — Bab al\-Sharqi/al\-Tahrer square \(Baghdad\):
@@ -110,7 +110,7 @@ As a consequence of these events, sit\-ins were organised in all central and sou
 The conflict between the government, which imposed a curfew that was rejected by the people, and the citizens remains high\. Children, women, men and the elderly continue to show a strong will to oppose the ruling class and fight for liberation, until their goals are achieved\.
 
 
-![Credit: Re\-post from [عمال ضد الطائفية — workers against sectarianism](https://www.facebook.com/WOAGSE/) \. November 2019\.](assets/9ac3116198ac/1*0SHGgikrX_7cRYJqlnjFNQ.png)
+![Credit: Re\-post from [عمال ضد الطائفية — workers against sectarianism](https://www.facebook.com/WOAGSE/) \. November 2019\.](../assets/9ac3116198ac/1*0SHGgikrX_7cRYJqlnjFNQ.png)
 
 Credit: Re\-post from [عمال ضد الطائفية — workers against sectarianism](https://www.facebook.com/WOAGSE/) \. November 2019\.
 #### Military gas grenades are causing deaths among protestors in Iraq, denounces Amnesty International\.
@@ -128,7 +128,7 @@ Find more on this inhumane weapons and practices [here](https://www.amnesty.org/
 #### UN Special Report on Iraq with more detailed updates on lethal weapons used, data on arrests, detentions and abductions can be found [here](http://www.uniraq.org/index.php?option=com_k2&view=item&id=11995:human-rights-violations-ongoing-un-second-special-report-on-protests-in-iraq&Itemid=605&lang=en) \.
 
 
-![Credit: Mohammed Adnan\.](assets/9ac3116198ac/1*wzejiyuFqrXl__u6MnmYJQ.jpeg)
+![Credit: Mohammed Adnan\.](../assets/9ac3116198ac/1*wzejiyuFqrXl__u6MnmYJQ.jpeg)
 
 Credit: Mohammed Adnan\.
 #### 30th October — 25th November, major updates from the ground:
@@ -159,7 +159,7 @@ As a result, military chiefs were appointed to take administrative and military 
 **In Nasiriyah, 29 people lost their lives \(although local activists claimed that casualties had reached 47\) as they were hit by bullets while trying to occupy a bridge before dawn\.** A total of 223 people were injured as a result of police repression\. Medium and heavy weapons and light armour bullets were fired against the protestors\.
 
 
-![Credit: Local activist\.](assets/9ac3116198ac/1*1PMs2qSgPfKp8oy59JaigQ.png)
+![Credit: Local activist\.](../assets/9ac3116198ac/1*1PMs2qSgPfKp8oy59JaigQ.png)
 
 Credit: Local activist\.
 
@@ -170,18 +170,18 @@ This brutality gave rise to a popular uprising among Iraqis\. People in Nasiriya
 At the end of the day, the Commander\-in\-chief of the armed forces, Jamil al\-Shammari, was lifted from his duties in the city of Nasiriyah\.
 
 
-![](assets/9ac3116198ac/1*dMdOQ95-5FaehKGolebH3w.jpeg)
+![](../assets/9ac3116198ac/1*dMdOQ95-5FaehKGolebH3w.jpeg)
 
 
 
-![List of names of those killed in Nasiriyah\. The cause of death is related to shots or abdominal and chest wounds caused by sound bombs hitting the protestors\. Credit: Local activist\.](assets/9ac3116198ac/1*FDQbQTxn1L71vZgBz6iqWw.jpeg)
+![List of names of those killed in Nasiriyah\. The cause of death is related to shots or abdominal and chest wounds caused by sound bombs hitting the protestors\. Credit: Local activist\.](../assets/9ac3116198ac/1*FDQbQTxn1L71vZgBz6iqWw.jpeg)
 
 List of names of those killed in Nasiriyah\. The cause of death is related to shots or abdominal and chest wounds caused by sound bombs hitting the protestors\. Credit: Local activist\.
 
 **On 27th November, protestors in Najaf burned the Iranian consulate and two military vehicles in the proximity\.**
 
 
-![](assets/9ac3116198ac/1*hZRm2mJ-ffqP2gvTCHT5Hg.png)
+![](../assets/9ac3116198ac/1*hZRm2mJ-ffqP2gvTCHT5Hg.png)
 
 
 Crowds were dispersed with the use of bullets and live ammunition\. One demonstrator was killed and 16 were injured\.
@@ -191,7 +191,7 @@ Escalation of violence is, unfortunately, to be expected\.
 **On Friday 29th November, the Sunni\-majority provinces that were under the control of ISIS in 2014 witnessed demonstrations against the government and solidarity with the martyrs of Nasiriyah\.**
 
 
-![Credit: Local activists\.](assets/9ac3116198ac/1*bPGdP4LkSR9uvdGEygG81Q.jpeg)
+![Credit: Local activists\.](../assets/9ac3116198ac/1*bPGdP4LkSR9uvdGEygG81Q.jpeg)
 
 Credit: Local activists\.
 #### For consistent updates on the uprising in Iraq from local sources, follow [عمال ضد الطائفية — workers against sectarianism](https://www.facebook.com/WOAGSE/) and [الحزب الشيوعي العمالي العراقي](https://www.facebook.com/WCPIRAQ/) \.

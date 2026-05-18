@@ -1,13 +1,13 @@
 ---
-title: AYS Digest 13/2: Stonewalled in Paris
+title: "AYS Digest 13/2: Stonewalled in Paris"
 author: Are You Syrious?
 date: 2017-02-14T01:42:45.577+0000
 last_modified_at: 2017-02-14T09:40:35.659+0000
 categories: 
 tags: [refugees,europe]
-description: Targeting of the most vulnerable continues in Paris. Volunteers encouraged to reach out prior to helping. Cash cards in Greece: assistance…
+description: "Targeting of the most vulnerable continues in Paris. Volunteers encouraged to reach out prior to helping. Cash cards in Greece: assistance…"
 image:
-  path: assets/4dd9362f1430/1*P21QGgVukGCI02FkTunXpA.jpeg
+  path: ../assets/4dd9362f1430/1*P21QGgVukGCI02FkTunXpA.jpeg
 ---
 
 ### AYS Digest 13/2: Stonewalled in Paris
@@ -15,7 +15,7 @@ image:
 _Targeting of the most vulnerable continues in Paris\. Volunteers encouraged to reach out prior to helping\. Cash cards in Greece: assistance or borders between borders? New insights on Macedonia returns to Greece\. Music and doctors’ visits on the educational menu in Serbia\._
 
 
-![Photo Courtesy of SoulWelders: Belgrade](assets/4dd9362f1430/1*P21QGgVukGCI02FkTunXpA.jpeg)
+![Photo Courtesy of SoulWelders: Belgrade](../assets/4dd9362f1430/1*P21QGgVukGCI02FkTunXpA.jpeg)
 
 Photo Courtesy of SoulWelders: Belgrade
 ### FRANCE: Paris
@@ -23,7 +23,7 @@ Photo Courtesy of SoulWelders: Belgrade
 People in Paris continue to be targeted\. Unfortunately the peaceful evacuation of people that occurred last week seems to be a glitch rather than a sign of change\. Although the boulders installed under the bridge severely minimize the amount of space available in the location, people in need of shelter continue to squeeze in between the rocks\.
 
 
-![Photo Courtesy of Sarah Fenby\-Dixon](assets/4dd9362f1430/1*_S1p4TyrHZGhG_70djMdKg.jpeg)
+![Photo Courtesy of Sarah Fenby\-Dixon](../assets/4dd9362f1430/1*_S1p4TyrHZGhG_70djMdKg.jpeg)
 
 Photo Courtesy of Sarah Fenby\-Dixon
 
@@ -97,7 +97,7 @@ _Those residing in squats are not eligible to receive cash cards\._
 _Additionally unaccompanied minors are ineligible to receive cash cards\._
 
 
-![Photo courtesy of Refugee Support Greece](assets/4dd9362f1430/1*WefIiInS0tfrFplTGihDxg.jpeg)
+![Photo courtesy of Refugee Support Greece](../assets/4dd9362f1430/1*WefIiInS0tfrFplTGihDxg.jpeg)
 
 Photo courtesy of Refugee Support Greece
 
@@ -110,7 +110,7 @@ We have already begun to see the repercussions of the program\. For example, peo
 The prohibition on individuals who come from the islands to the mainland “without permission” is especially striking in the context of the updated refugee numbers by the Ministry of Health in Greece\. Although many camps on the mainland are under capacity, islands \(Chios and Lesvos especially\) are desperately over\-crowded\. And now it appears that people who try to escape this situation will face additional hardship and possibly be cut out of a crucial support structure\. Research the numbers for yourself [here](http://geochoros.survey.ntua.gr/ekepy/map) \.
 
 
-![Photo courtesy of Ministry of Health in Greece](assets/4dd9362f1430/1*RfnYaRYA7zHcRWZdEkVKmw.png)
+![Photo courtesy of Ministry of Health in Greece](../assets/4dd9362f1430/1*RfnYaRYA7zHcRWZdEkVKmw.png)
 
 Photo courtesy of Ministry of Health in Greece
 ### MACEDONIA
@@ -127,7 +127,7 @@ Long\-time refugee support organization LEGIS has published a comprehensive repo
 Again, this incident is another moment where efficiency has superseded humanity\. The whole underlying framework of refugee support should always be to support humanity, which decisions like this do little to affirm\. Instead, they treat people like packages to be mailed\. Several of the refugees recorded a video and sent it to Driton Maliqi, expressing their desire to say goodbye to good friends\.
 
 
-[![Greetings from Koutsochero camp, near Larissa, Greece](assets/4dd9362f1430/3f6e_hqdefault.jpg "Greetings from Koutsochero camp, near Larissa, Greece")](http://www.youtube.com/watch?v=-v3wmQ7DL5g)
+[![Greetings from Koutsochero camp, near Larissa, Greece](../assets/4dd9362f1430/3f6e_hqdefault.jpg "Greetings from Koutsochero camp, near Larissa, Greece")](http://www.youtube.com/watch?v=-v3wmQ7DL5g)
 
 
 Read the report in full [here](http://legis.mk/news/2244/greetings-from-koutsochero-camp-near-larissa-greece) \.
@@ -136,7 +136,7 @@ Read the report in full [here](http://legis.mk/news/2244/greetings-from-koutsoch
 Refugee Aid Serbia is continuing to conduct English programming, focusing on relevant, survival English for refugees\. Today, the focus was doctor\-patient and dentist\-patient interaction\. These practical hands\-on skills not only take people’s minds off the here and now, but give them viable skills for the future\. Great work\.
 
 
-![Photo courtesy of Refugee Aid Serbia](assets/4dd9362f1430/1*gYL7CYyLMznW1BgoggLsYw.jpeg)
+![Photo courtesy of Refugee Aid Serbia](../assets/4dd9362f1430/1*gYL7CYyLMznW1BgoggLsYw.jpeg)
 
 Photo courtesy of Refugee Aid Serbia
 

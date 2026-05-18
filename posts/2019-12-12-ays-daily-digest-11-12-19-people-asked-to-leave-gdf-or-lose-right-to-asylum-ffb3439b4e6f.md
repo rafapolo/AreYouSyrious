@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 11/12/19: People asked to leave GDF or lose right to asylum
+title: "AYS Daily Digest 11/12/19: People asked to leave GDF or lose right to asylum"
 author: Are You Syrious?
 date: 2019-12-12T11:12:12.297+0000
 last_modified_at: 2019-12-12T11:25:43.695+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,libya,mediterranean,detention]
 description: Gender based violence in Greece — Report///German aid but no relocation///detentions and beatings in police station garages and basements…
 image:
-  path: assets/ffb3439b4e6f/1*RUhiKtdtTHXhJTO-y_01bQ.jpeg
+  path: ../assets/ffb3439b4e6f/1*RUhiKtdtTHXhJTO-y_01bQ.jpeg
 ---
 
 ### AYS Daily Digest 11/12/19: **People asked to leave GDF or lose right to asylum**
@@ -15,7 +15,7 @@ image:
 Gender based violence in Greece — Report///German aid but no relocation///Detentions and beatings in police station garages and basements in Croatia///Racial discrimination in Bosnia
 
 
-![\(Picture Credit: [Mikail Çiftçi, Aart Against](https://web.facebook.com/artagainstproject/photos/a.704384742944296/2600871123295639/?type=3&theater) \)](assets/ffb3439b4e6f/1*RUhiKtdtTHXhJTO-y_01bQ.jpeg)
+![\(Picture Credit: [Mikail Çiftçi, Aart Against](https://web.facebook.com/artagainstproject/photos/a.704384742944296/2600871123295639/?type=3&theater) \)](../assets/ffb3439b4e6f/1*RUhiKtdtTHXhJTO-y_01bQ.jpeg)
 
 \(Picture Credit: [Mikail Çiftçi, Aart Against](https://web.facebook.com/artagainstproject/photos/a.704384742944296/2600871123295639/?type=3&theater) \)
 

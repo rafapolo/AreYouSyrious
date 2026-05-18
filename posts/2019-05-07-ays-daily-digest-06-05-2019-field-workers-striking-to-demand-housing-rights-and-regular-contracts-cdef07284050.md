@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 06/05/2019: Field workers striking to demand housing rights and regular contracts
+title: "AYS Daily Digest 06/05/2019: Field workers striking to demand housing rights and regular contracts"
 author: Are You Syrious?
 date: 2019-05-07T08:46:19.357+0100
 last_modified_at: 2019-05-13T00:10:28.790+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,italy,libya,greece]
 description: Abuses and lack of food and water continues for migrants in Libya//Greece overloaded with asylum applications//New data published on…
 image:
-  path: assets/cdef07284050/1*diEguIgPq7BlKS3KqK2caw.jpeg
+  path: ../assets/cdef07284050/1*diEguIgPq7BlKS3KqK2caw.jpeg
 ---
 
 ### AYS Daily Digest 06/05/2019: Field workers striking to demand housing rights and regular contracts
 #### Abuses and lack of food and water continue for migrants in Libya//Greece overloaded with asylum applications//New data published on arrivals in Greece and Greek islands//New figures for Serbia and Italy//202 people rescued in the Western Mediterranean just this weekend//Updates from Tuzla//Legal action in Hungary to prevent deportation//Call for volunteers and donations//…
 
 
-![Strike of field workers in Foggia, Italy\. Credit: Comitato Lavoratori delle Campagne](assets/cdef07284050/1*diEguIgPq7BlKS3KqK2caw.jpeg)
+![Strike of field workers in Foggia, Italy\. Credit: Comitato Lavoratori delle Campagne](../assets/cdef07284050/1*diEguIgPq7BlKS3KqK2caw.jpeg)
 
 Strike of field workers in Foggia, Italy\. Credit: Comitato Lavoratori delle Campagne
 #### FEATURED STORIES
@@ -47,7 +47,7 @@ People are coming mainly from Bangladesh and Pakistan, according to volunteers; 
 **Donations are constantly needed** , mainly for winter clothing, shoes, blankets, sleeping bags and any item that could keep people warm, as temperatures are very low\. Food is also necessary\.
 
 
-![Credit: Senad Cupo](assets/cdef07284050/1*YrE3UQE4BUrQsd6H14BabQ.jpeg)
+![Credit: Senad Cupo](../assets/cdef07284050/1*YrE3UQE4BUrQsd6H14BabQ.jpeg)
 
 Credit: Senad Cupo
 
@@ -129,7 +129,7 @@ Original source [here](https://www.lavanguardia.com/sucesos/20190505/46204086644
 #### GREECE
 
 
-![Credit: Aegean Boat Report](assets/cdef07284050/1*QYcqziRmuAGFKkCr-mrj9A.jpeg)
+![Credit: Aegean Boat Report](../assets/cdef07284050/1*QYcqziRmuAGFKkCr-mrj9A.jpeg)
 
 Credit: Aegean Boat Report
 

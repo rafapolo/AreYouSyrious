@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 21–22/8/21: The crisis of solidarity at the Polish-Belarusian border
+title: "AYS Weekend Digest 21–22/8/21: The crisis of solidarity at the Polish-Belarusian border"
 author: Are You Syrious?
 date: 2021-08-23T20:00:31.382+0100
 last_modified_at: 2021-08-23T20:00:31.382+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,belarus,afghanistan,europe]
 description: On walls and fences across the borders of Turkey and Greece / Countering deportations to Afghanistan — Italian national body for…
 image:
-  path: assets/cb2f9d162a68/0*KjRVUul4aZJYUG_f
+  path: ../assets/cb2f9d162a68/0*KjRVUul4aZJYUG_f
 ---
 
 ### AYS Weekend Digest 21–22/8/21: The crisis of solidarity at the Polish\-Belarusian border
 ### On walls and fences across the borders of Turkey and Greece / Countering deportations to Afghanistan — Italian national body for monitoring forced repatriation recalls the international protection obligations to which Italy is bound / Britain insisting on using offshore processing centers to accommodate \(imprison\) Afghans / & more news and updates
 
 
-![](assets/cb2f9d162a68/0*sz_2-8F7LHjJm891.jpeg)
+![](../assets/cb2f9d162a68/0*sz_2-8F7LHjJm891.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----9f8670aaf441--------------------------------)
@@ -22,7 +22,7 @@ image:
 [Aug 23](ays-weekend-digest-21-22-8-21-the-crisis-of-solidarity-at-the-polish-belarusian-border-9f8670aaf441?source=post_page-----9f8670aaf441--------------------------------) · 10 min read
 
 
-![](assets/cb2f9d162a68/0*KjRVUul4aZJYUG_f)
+![](../assets/cb2f9d162a68/0*KjRVUul4aZJYUG_f)
 
 
 All rights reserved — Photo by: Jakub Kaminski, used via [InfoMigrants](https://www.facebook.com/InfoMigrants/?__cft__[0]=AZUm4Tyq4C1Ce8HPq5wEY_yaqRhmftLsFjyoV8MARdI0pi197_7YcEAhoaIjYQB13kb-B_Zx3cqPN-ZAOcKQFmhRaccHJ_TMJFdYVDRS04Hxxd51kl-JA2fICUJQ2M2QFBz4nXt3dCW3L--fck2hGrA3&__tn__=-UC*F) — border guards from Belarus preventing people from returning and Polish border guards not letting them into Poland\.
@@ -62,11 +62,11 @@ Afghans in Thessaloniki held a protest calling for support:
 ### Closing up with more walls
 
 
-![](assets/cb2f9d162a68/0*EJdQjoW0pjHRqizK)
+![](../assets/cb2f9d162a68/0*EJdQjoW0pjHRqizK)
 
 
 
-![](assets/cb2f9d162a68/0*clbOcyCoX87DB3MB)
+![](../assets/cb2f9d162a68/0*clbOcyCoX87DB3MB)
 
 
 A 243\-kilometre \(151\-mile\) concrete wall, topped with barbed wire and surrounded by trenches, is being erected along its 534\-kilometre frontier with Iran\. Turkish officials said 156 kilometres have already been built
@@ -94,11 +94,11 @@ There were 22 people on the boat\. The patrol boats found five people, including
 ### More walls and fences…
 
 
-![](assets/cb2f9d162a68/0*EyLFZeZUjRXuHaFV)
+![](../assets/cb2f9d162a68/0*EyLFZeZUjRXuHaFV)
 
 
 
-![](assets/cb2f9d162a68/0*t2X_m3fJX-zyrXIe)
+![](../assets/cb2f9d162a68/0*t2X_m3fJX-zyrXIe)
 
 
 There are 11 cameras which can see 15km into Turkish territory, and of course, drones to deter people from crossing\. These are just some details of the infamous 25–27 km fence, [fiercely defended](https://www.theguardian.com/world/video/2021/aug/21/greek-minister-defends-wall-on-border-with-turkey-during-afghan-crisis-video?fbclid=IwAR2eQe2RoYdiH6hbYeefaMRCYjBjtYvZGV1IKFp9_WkvgWF-9SAsbrTuZFY) by the officials, described in detail through six [points](https://www.ethnos.gr/politiki/128955_froyrio-me-6-kiniseis-o-ebros-frahtis-ihobolistika-tethorakismena-paratiritiria) by the Greek media\.
@@ -151,11 +151,11 @@ SPAIN
 A large mobilization of the Moroccan gendarmerie was seen in the area, AMDH reports\. They also noted that there is big media pressure to create an impression that there is an imminent threat at the Melilla crossing, while there are no big groups as in the previous years\.
 
 
-![](assets/cb2f9d162a68/0*yz1EJ4t7VTDKiNK6)
+![](../assets/cb2f9d162a68/0*yz1EJ4t7VTDKiNK6)
 
 
 
-![](assets/cb2f9d162a68/0*FQtGMSI-qfKJnNoo)
+![](../assets/cb2f9d162a68/0*FQtGMSI-qfKJnNoo)
 
 
 Photos: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?__cft__[0]=AZVY0jGyZuxrMbyMDZaCWxVfdmKzAMbzosKtN8F_LnXc2aGvRP5KV2oqulpFx7WfGGIY5zvEmJoogOUZgltffZIKMF2sgJkuoYAYMJXNFEHgoCY1z5Fh_Ror4pasGI8aLRUAIMFod1J6DXUcIY57D9ap&__tn__=-UC%2CP-R)

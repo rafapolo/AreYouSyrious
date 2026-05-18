@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 25/01: Updates from Greece
+title: "AYS DAILY DIGEST 25/01: Updates from Greece"
 author: Are You Syrious?
 date: 2017-01-26T05:30:53.649+0000
 last_modified_at: 2017-01-26T18:47:07.269+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: Update on Greece//Donations needed for Paris//Arabic translator assigned to Dari-speaking asylum-seeker in Zagreb court//Portugal hopes to…
 image:
-  path: assets/a873ef05e2a7/0*kmaBGa4QO5LjXe2r.
+  path: ../assets/a873ef05e2a7/0*kmaBGa4QO5LjXe2r.
 ---
 
 ### AYS DAILY DIGEST 25/01: Updates from Greece
@@ -15,7 +15,7 @@ image:
 _Update on Greece//Donations needed for Paris//Arabic translator assigned to Dari\-speaking asylum\-seeker in Zagreb court//Portugal hopes to relocate Yazidi refugees//EU hopes to close its borders_
 
 
-![Photo Credits: Ahmad Haiel and Mahmoud Nbil](assets/a873ef05e2a7/0*kmaBGa4QO5LjXe2r.)
+![Photo Credits: Ahmad Haiel and Mahmoud Nbil](../assets/a873ef05e2a7/0*kmaBGa4QO5LjXe2r.)
 
 Photo Credits: Ahmad Haiel and Mahmoud Nbil
 ### Update on Greece
@@ -29,7 +29,7 @@ In a new video, the UNHCR praises the distribution of 360,000 winter items to 38
 Much still needs to be done, as shown and demonstrated by refugees themselves\.
 
 
-[![WAKE UP, EUROPE: Human Beings in Life Threatening Conditions](assets/a873ef05e2a7/94e2_hqdefault.jpg "WAKE UP, EUROPE: Human Beings in Life Threatening Conditions")](http://www.youtube.com/watch?v=y_4WBt9folI)
+[![WAKE UP, EUROPE: Human Beings in Life Threatening Conditions](../assets/a873ef05e2a7/94e2_hqdefault.jpg "WAKE UP, EUROPE: Human Beings in Life Threatening Conditions")](http://www.youtube.com/watch?v=y_4WBt9folI)
 
 
 Much of the [“Wake up call”](https://medium.com/@AreYouSyrious/wake-up-europe-human-beings-in-life-threatening-conditions-6123880d07a7#.2f2dy2ilx) for Europe published on the 11th of January and signed by 49 organizations operating in Greece remains valid, as people still live in unheated tents on the Aegean Islands\. While refugees have been moved to apartments on the mainland, many remain stuck in warehouses\. A survey, conducted with 278 refugees on mainland Greece by the Refugee Rights Data Project, also finds that 59% can’t wash with warm water while 39% say their shelters leak when it rains\.
@@ -44,7 +44,7 @@ Mariana Vareta, a volunteer for the “Mobile Info Team”, writes
 
 
 
-![Picture taken today by “people from Chios”\.](assets/a873ef05e2a7/0*y06SRklcGH0jb9cZ.)
+![Picture taken today by “people from Chios”\.](../assets/a873ef05e2a7/0*y06SRklcGH0jb9cZ.)
 
 Picture taken today by “people from Chios”\.
 
@@ -129,14 +129,14 @@ The Mobile Truck Shop will shift its focus to Lesvos given the sub\-zero tempera
 [It needs help](https://www.betterplace.org/en/projects/50552-truckshop-a-free-shop-for-refugees) to expand their stock of clothes and the size of their shop\.
 
 
-[![Mobile Truck Shop | Free clothes for Refugees](assets/a873ef05e2a7/af3d_hqdefault.jpg "Mobile Truck Shop | Free clothes for Refugees")](http://www.youtube.com/watch?v=wMdAmDSGEyk)
+[![Mobile Truck Shop | Free clothes for Refugees](../assets/a873ef05e2a7/af3d_hqdefault.jpg "Mobile Truck Shop | Free clothes for Refugees")](http://www.youtube.com/watch?v=wMdAmDSGEyk)
 
 ### Protests outside the Petrou Ralli police department
 
 [Insurrection News](https://insurrectionnewsworldwide.com/2017/01/25/athens-greece-photos-statement-from-the-intervention-at-the-immigration-directorate-on-petrou-ralli-street/) reports on protests that took place last Friday outside the jail of the Immigration Directorate on Petrou Ralli street\. People chanted slogans and tried to communicate with some prisoners, while immigrants on the outside used a bullhorn to communicate with prisoners in their language, who informed them of their lengthy detention and squalid living conditions\. The website says that communication with women detainees was impossible, because policewomen threatened them and did not let them get close to the windows\.
 
 
-![[Original source](https://allilegioikratoumenonstanotia.wordpress.com/2017/01/22/paremvasi_petrou_ralli_20-01-2017/)](assets/a873ef05e2a7/0*uPTpDecujRRwjKEm.)
+![[Original source](https://allilegioikratoumenonstanotia.wordpress.com/2017/01/22/paremvasi_petrou_ralli_20-01-2017/)](../assets/a873ef05e2a7/0*uPTpDecujRRwjKEm.)
 
 [Original source](https://allilegioikratoumenonstanotia.wordpress.com/2017/01/22/paremvasi_petrou_ralli_20-01-2017/)
 
@@ -151,7 +151,7 @@ Today a serious omission occurred at the hearing at the Administrative Court of 
 [Spectator](http://spectator.sme.sk/c/20440334/iom-through-slovakia-over-1000-refugees-already-resettled.html) reports that a group of 23 refugees left Slovakia on the 17th of January and were resettled in the US\. Over 1,000 refugees have been resettled via the Emergency Transit Centre in Humenné in eastern Slovakia since 2009 according to the IOM, heading mainly to the United States, Canada and Norway\. As many as 96% have been resettled in the United States\. More than half of them are Somalis and a majority of them are families with small children or single mothers\. Trump’s plan to put all refugee resettlement on hold for 120 days will therefore clearly impact the most vulnerable\.
 
 
-![Patriots by [Pejac](https://www.facebook.com/pejac.es/?ref=page_internal)](assets/a873ef05e2a7/0*RUCCAOjR5MDouf-3.)
+![Patriots by [Pejac](https://www.facebook.com/pejac.es/?ref=page_internal)](../assets/a873ef05e2a7/0*RUCCAOjR5MDouf-3.)
 
 Patriots by [Pejac](https://www.facebook.com/pejac.es/?ref=page_internal)
 
@@ -178,7 +178,7 @@ The goal is to raise funds to buy essential items for Paris, by [donating via ju
 Funds raised by the phone credit group via [mydonate](https://mydonate.bt.com/fundraisers/phonecreditcampout) will enable more people across Europe to have that all important phone call to their loved ones\.
 
 
-![Photo by Ariane Segelstein](assets/a873ef05e2a7/0*pqAM6oS72uSdGnBm.)
+![Photo by Ariane Segelstein](../assets/a873ef05e2a7/0*pqAM6oS72uSdGnBm.)
 
 Photo by Ariane Segelstein
 

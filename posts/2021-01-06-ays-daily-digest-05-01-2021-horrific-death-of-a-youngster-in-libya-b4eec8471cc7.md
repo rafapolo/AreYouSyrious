@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 05/01/2021: Horrific Death of a youngster in Libya
+title: "AYS Daily Digest 05/01/2021: Horrific Death of a youngster in Libya"
 author: Are You Syrious?
 date: 2021-01-06T13:46:15.554+0000
 last_modified_at: 2021-01-06T14:39:30.592+0000
 categories: Are You Syrious?
 tags: [digest,europe,refugees,lipa,libya]
-description: Footage from Libya shows a dead boy and and a living boy, both starved to their bones // Greece: More news about worrying new members in…
+description: "Footage from Libya shows a dead boy and and a living boy, both starved to their bones // Greece: More news about worrying new members in…"
 image:
-  path: assets/b4eec8471cc7/1*JbmHqOhqbcQxXUFOolk8tA.jpeg
+  path: ../assets/b4eec8471cc7/1*JbmHqOhqbcQxXUFOolk8tA.jpeg
 ---
 
 ### AYS Daily Digest 05/01/2021: Horrific death of a youngster in Libya
 #### Footage from Libya shows a dead boy and and a living boy, both starved to their bones // Greece: More news about worrying new members in cabinet // Updates from Lipa camp // 265 people land in Sicily // Arrivals on Canary Islands // Expulsions from Calais // Deportation scheduled from Germany to Afghanistan // UK: Right\-to\-Remain Toolkit updated to a post\-Brexit version
 
 
-![Distribution of clothes Care4Calais volunteers in a church in London\. Copyright: Care4Calais](assets/b4eec8471cc7/1*JbmHqOhqbcQxXUFOolk8tA.jpeg)
+![Distribution of clothes Care4Calais volunteers in a church in London\. Copyright: Care4Calais](../assets/b4eec8471cc7/1*JbmHqOhqbcQxXUFOolk8tA.jpeg)
 
 Distribution of clothes Care4Calais volunteers in a church in London\. Copyright: Care4Calais
 ### Boy starved to death in Libya

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 14/9/20: Too little and too late — the EU’s reaction to disasters
+title: "AYS Daily Digest 14/9/20: Too little and too late — the EU’s reaction to disasters"
 author: Are You Syrious?
 date: 2020-09-15T17:25:56.630+0100
 last_modified_at: 2020-09-15T17:25:56.630+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,europe,migration,moria]
 description: The growing number of hate groups across the EU shows the system must teach by example, not avoid responsibility / Two children and a…
 image:
-  path: assets/77a906cf41c9/0*D4zZEdrwVe-Ua9xQ.jpeg
+  path: ../assets/77a906cf41c9/0*D4zZEdrwVe-Ua9xQ.jpeg
 ---
 
 ### AYS Daily Digest 14/9/20: Too little and too late — the EU’s reaction to disasters
 ### The growing number of hate groups across the EU shows the system must teach by example, not avoid responsibility / Two children and a woman dead off the coast of Crete / As Germany calculates over the number of children they will help from the abyss of Moria, the UK offers nothing / updates & recommended reads \+ a positive story from Glasgow
 
 
-![](assets/77a906cf41c9/0*G40KVE9PO7P2iarb.jpeg)
+![](../assets/77a906cf41c9/0*G40KVE9PO7P2iarb.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----8fd269bc17b0----------------------)
@@ -22,11 +22,11 @@ image:
 [Sep 15](ays-daily-digest-14-9-20-too-little-and-too-late-the-eus-reaction-to-disasters-8fd269bc17b0?source=post_page-----8fd269bc17b0----------------------) · 15 min read
 
 
-![](assets/77a906cf41c9/0*RqKalpodsiNOq-Qu)
+![](../assets/77a906cf41c9/0*RqKalpodsiNOq-Qu)
 
 
 
-![](assets/77a906cf41c9/0*D4zZEdrwVe-Ua9xQ.jpeg)
+![](../assets/77a906cf41c9/0*D4zZEdrwVe-Ua9xQ.jpeg)
 
 ### FEATURED
 
@@ -117,11 +117,11 @@ Tunisian migration had until recently been overshadowed by much larger numbers o
 ### SEARCH AND RESCUE AT SEA
 
 
-![](assets/77a906cf41c9/0*VKURyl2qP9mM-ZLx)
+![](../assets/77a906cf41c9/0*VKURyl2qP9mM-ZLx)
 
 
 
-![](assets/77a906cf41c9/0*jullmVrZMqN44KtK.jpeg)
+![](../assets/77a906cf41c9/0*jullmVrZMqN44KtK.jpeg)
 
 
 **SAR Updates**
@@ -133,11 +133,11 @@ The survivors of the shipwreck are reportedly in shock, and cannot give useful i
 ### GREECE
 
 
-![](assets/77a906cf41c9/0*vYSsHYdQLAHBJFde)
+![](../assets/77a906cf41c9/0*vYSsHYdQLAHBJFde)
 
 
 
-![](assets/77a906cf41c9/0*YX04Nc16on3J9vbr.jpeg)
+![](../assets/77a906cf41c9/0*YX04Nc16on3J9vbr.jpeg)
 
 ### Moria updates
 
@@ -148,25 +148,25 @@ Activists on site report that in the current emergency state it is [Médecins Sa
 We will continue sharing calls for support, local news and updates from the ground, as well as any reports done by the field teams\.
 
 
-![](assets/77a906cf41c9/0*-Tz6M6CQdyAvq2RB)
+![](../assets/77a906cf41c9/0*-Tz6M6CQdyAvq2RB)
 
 
 
-![](assets/77a906cf41c9/0*Xt6RcYMJE9Gr04Gs.jpeg)
+![](../assets/77a906cf41c9/0*Xt6RcYMJE9Gr04Gs.jpeg)
 
 
 
-![](assets/77a906cf41c9/0*NRBmWdownlwdiYNI)
+![](../assets/77a906cf41c9/0*NRBmWdownlwdiYNI)
 
 
 
-![](assets/77a906cf41c9/0*DU4uJJdgEqJ_gFv_.jpeg)
+![](../assets/77a906cf41c9/0*DU4uJJdgEqJ_gFv_.jpeg)
 
 
 Concern has also been raised that unaccompanied minors who had been in the Moria camp remain stranded on Lesbos, because they were not identified for transfer to the mainland\. On the other hand, that those who had been transferred hadn’t been given adequate information about what was happening\. While the EU argues over the evacuation from Lesbos, Greece is failing to provide people with food and drink\. Observers also [warn](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.spiegel.de%2Fpolitik%2Fausland%2Ffluechtlinge-auf-lesbos-nach-brand-von-moria-die-katastrophe-nach-der-katastrophe-a-f5e625f8-7b42-4a60-bc91-247bbb21e2e7%3Ffbclid%3DIwAR0Jhyk6i_mq6hBeGSdENlCxhWnf5kFUR3FcxfesnHcXYUJ4Lq5iJTSi6ZA&h=AT21vS2gg-nMdKWAwY1KeidtLejcWgMv-RT0bKHQe3vKmxrC0yyxXL2H57upvks6k8CrzxOlSPU6qL9geVVznP-GIZw7k0vGMxnhR87mlsKLSDf5as5fC_Tzf9PXU-BwiwHK9jjyo71Rjw) of “pogrom\-like conditions”\.
 
 
-![](assets/77a906cf41c9/0*rkMrCs2Ky1ur754k)
+![](../assets/77a906cf41c9/0*rkMrCs2Ky1ur754k)
 
 
 This is a flyer handed out to people from Moria \(via Anna Surinyach\)
@@ -208,11 +208,11 @@ No Name Kitchen has an urgent need for volunteers to assist with their projects 
 For more information, send an email to info@nonamekitchen\.org
 
 
-![](assets/77a906cf41c9/0*glPX7IG32V2TO18T)
+![](../assets/77a906cf41c9/0*glPX7IG32V2TO18T)
 
 
 
-![](assets/77a906cf41c9/0*uS3BUWVlufNhwzE_.jpeg)
+![](../assets/77a906cf41c9/0*uS3BUWVlufNhwzE_.jpeg)
 
 ### CROATIA
 
@@ -230,11 +230,11 @@ Boiling divisions over basic human\(itarian\) actions
 French activists have reported that this Sunday in Rennes, during a demonstration asking for formal regularization of people now called “the undocumented” and the closure of the CRA \(Administrative Detention Centres\), as well as housing for all, a group of young anti\-migrant protesters crashed in with signs reading “refugees are not welcome“, trying to sabotage the gathering by throwing stones at people and with racist insults\.
 
 
-![](assets/77a906cf41c9/0*1xKUxlFULjUcUSXS)
+![](../assets/77a906cf41c9/0*1xKUxlFULjUcUSXS)
 
 
 
-![](assets/77a906cf41c9/0*jHuoYcE1_y6j753L)
+![](../assets/77a906cf41c9/0*jHuoYcE1_y6j753L)
 
 
 GERMANY
@@ -282,11 +282,11 @@ The struggle for safe, secure and quality housing rages on in Glasgow\. Through 
 Buying time with concrete actions, Shelter Scotland and Legal Services Agency had enough time to take Serco to the Glasgow sheriff’s court in order to acquire interdicts to stop individual evictions\.
 
 
-![](assets/77a906cf41c9/0*Unun3dj_VXVLGYCv)
+![](../assets/77a906cf41c9/0*Unun3dj_VXVLGYCv)
 
 
 
-![](assets/77a906cf41c9/0*SN0pkLGmLHv-tRBN.png)
+![](../assets/77a906cf41c9/0*SN0pkLGmLHv-tRBN.png)
 
 
 Eventually, the new landlord has pledged to provide better support to asylum seekers and replace lock\-change evictions with a proper court process\. Read the entire story [here](https://novaramedia.com/2020/09/14/how-we-won-the-activists-and-lawyers-who-stopped-asylum-seekers-being-evicted-in-glasgow/?fbclid=IwAR0Jhyk6i_mq6hBeGSdENlCxhWnf5kFUR3FcxfesnHcXYUJ4Lq5iJTSi6ZA) and — get inspired for action\.

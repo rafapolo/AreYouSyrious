@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 13/4/2018: Western hypocrisies over Syria
+title: "AYS DAILY DIGEST 13/4/2018: Western hypocrisies over Syria"
 author: Are You Syrious?
 date: 2018-04-14T13:55:07.644+0100
 last_modified_at: 2018-04-14T15:44:49.693+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,syria,military-intervention,bosnia,digest]
 description: The US, UK and France have launched military action in Syria pretending they are concerned for the safety of the people // In 2016, the…
 image:
-  path: assets/e2f6559ecfa3/1*doY_jrKdxpnFVWzFNTsmrQ.jpeg
+  path: ../assets/e2f6559ecfa3/1*doY_jrKdxpnFVWzFNTsmrQ.jpeg
 ---
 
 ### AYS DAILY DIGEST 13/4/2018: Western hypocrisies over Syria
@@ -15,7 +15,7 @@ image:
 _The US, UK and France have launched military action in Syria pretending they are concerned for the safety of the people // In 2016, the U\.S\. resettled 15,479 Syrian refugees // in 2017, the country let in 3,024 people from Syria // So far this year, that number is just 11 // 16,847 people have entered Europe by sea so far this year // In the same period of time, 933 people died or disappeared while trying to cross the sea // Solidarity travels to Bosnia // Propaganda tricks by Aleksandar Vučić in Serbia_
 
 
-![Photo by [The Welcome Tent](https://www.facebook.com/thewelcometent/photos/a.134005983834712.1073741828.103007650267879/243058319596144/?type=3) \.](assets/e2f6559ecfa3/1*doY_jrKdxpnFVWzFNTsmrQ.jpeg)
+![Photo by [The Welcome Tent](https://www.facebook.com/thewelcometent/photos/a.134005983834712.1073741828.103007650267879/243058319596144/?type=3) \.](../assets/e2f6559ecfa3/1*doY_jrKdxpnFVWzFNTsmrQ.jpeg)
 
 Photo by [The Welcome Tent](https://www.facebook.com/thewelcometent/photos/a.134005983834712.1073741828.103007650267879/243058319596144/?type=3) \.
 ### Feature
@@ -70,7 +70,7 @@ While warlords are raging, the number of people who are forced to take the dange
 Last night, the [Sea\-Watch](https://sea-watch.org/en/donate/) 3 rescued approximately 300 people out of two rubber boats in distress\.
 
 
-![Photo by Sea Watch](assets/e2f6559ecfa3/1*P4Ki1-y98SEEvcMNqBaZUA.jpeg)
+![Photo by Sea Watch](../assets/e2f6559ecfa3/1*P4Ki1-y98SEEvcMNqBaZUA.jpeg)
 
 Photo by Sea Watch
 

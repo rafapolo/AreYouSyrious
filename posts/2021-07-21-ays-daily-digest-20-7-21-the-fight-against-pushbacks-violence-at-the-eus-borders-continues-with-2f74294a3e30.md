@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 20/7/21: The fight against pushbacks & violence at the EU’s borders continues with…
+title: "AYS Daily Digest 20/7/21: The fight against pushbacks & violence at the EU’s borders continues with…"
 author: Are You Syrious?
 date: 2021-07-21T19:54:07.620+0100
 last_modified_at: 2021-07-21T19:54:07.620+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,sweden,turkey,bulgaria,frontex]
 description: ECHR rules against Bulgaria in illegal pushback case of Turkish journalist// First action for violations of fundamental rights filed…
 image:
-  path: assets/2f74294a3e30/0*l1ZMaH-bu_A_jXaU
+  path: ../assets/2f74294a3e30/0*l1ZMaH-bu_A_jXaU
 ---
 
 ### AYS Daily Digest 20/7/21: The fight against pushbacks & violence at the EU’s borders continues with a new tailwind from Strasbourg
 #### ECHR rules against Bulgaria in illegal pushback case of Turkish journalist// First action for violations of fundamental rights filed against Frontex before EU courts & first 150 kilos of manure placed at the Frontex offices in Las Palmas// In Sweden, residence permits for refugees time\-limited in the first instance / & more news
 
 
-![“We stand in solidarity with the activists from [\#sanspapiers](https://twitter.com/hashtag/sanspapiers?src=hashtag_click) in [\#Brussels](https://twitter.com/hashtag/Brussels?src=hashtag_click) on day 58 of their [\#HungerStrike](https://twitter.com/hashtag/HungerStrike?src=hashtag_click) \. Papers are a privilege & determine if people can be on the move safely or have to risk their lives, if they can be part of society or live in the shadows\.” — Mare Liberum team](assets/2f74294a3e30/0*l1ZMaH-bu_A_jXaU)
+![“We stand in solidarity with the activists from [\#sanspapiers](https://twitter.com/hashtag/sanspapiers?src=hashtag_click) in [\#Brussels](https://twitter.com/hashtag/Brussels?src=hashtag_click) on day 58 of their [\#HungerStrike](https://twitter.com/hashtag/HungerStrike?src=hashtag_click) \. Papers are a privilege & determine if people can be on the move safely or have to risk their lives, if they can be part of society or live in the shadows\.” — Mare Liberum team](../assets/2f74294a3e30/0*l1ZMaH-bu_A_jXaU)
 
 “We stand in solidarity with the activists from [\#sanspapiers](https://twitter.com/hashtag/sanspapiers?src=hashtag_click) in [\#Brussels](https://twitter.com/hashtag/Brussels?src=hashtag_click) on day 58 of their [\#HungerStrike](https://twitter.com/hashtag/HungerStrike?src=hashtag_click) \. Papers are a privilege & determine if people can be on the move safely or have to risk their lives, if they can be part of society or live in the shadows\.” — Mare Liberum team
 #### FEATURED
@@ -130,7 +130,7 @@ The issue of the EU border agency has become so big that we introduced a special
 Activists of Abriendo Fronteras Caravan have spread out a physical manifestation of what they \(and not only them\) see the EU border agency to be, and they read a manifesto calling for the disappearance of Frontex, the agency to which systematic human rights violations, participation in deportations, cooperation with third countries and the strengthening of borders is attributed more and more\. According to a report by the European Parliament, [Frontex has taken part in multiple actions contrary to human rights in countries such as Hungary, Croatia or Greece](https://www.eldiario.es/desalambre/parlamento-europeo-concluye-guardia-fronteras-ue-consiente-violaciones-derechos-fundamentales_1_8137945.html) \.
 
 
-![Photo: [**Caravana Abriendo Fronteras**](https://twitter.com/Caravana_AF) **\(** You can find more photos of this smelly action also in the [Spanish media\.](https://www.eldiario.es/canariasahora/migraciones/caravana-abriendo-fronteras-vierte-150-kilos-estiercol-oficinas-frontex-palmas-gran-canaria-exige-cierre_1_8150937.html#) \)](assets/2f74294a3e30/0*31sh_3KJX6aqYeUZ)
+![Photo: [**Caravana Abriendo Fronteras**](https://twitter.com/Caravana_AF) **\(** You can find more photos of this smelly action also in the [Spanish media\.](https://www.eldiario.es/canariasahora/migraciones/caravana-abriendo-fronteras-vierte-150-kilos-estiercol-oficinas-frontex-palmas-gran-canaria-exige-cierre_1_8150937.html#) \)](../assets/2f74294a3e30/0*31sh_3KJX6aqYeUZ)
 
 Photo: [**Caravana Abriendo Fronteras**](https://twitter.com/Caravana_AF) **\(** You can find more photos of this smelly action also in the [Spanish media\.](https://www.eldiario.es/canariasahora/migraciones/caravana-abriendo-fronteras-vierte-150-kilos-estiercol-oficinas-frontex-palmas-gran-canaria-exige-cierre_1_8150937.html#) \)
 #### “Serious or persisting violations of fundamental rights and international protection obligations committed in the Aegean Sea Region, related to the activities of Frontex”
@@ -164,7 +164,7 @@ Bald sollen zu dieser Überwachungskette "Leichter-als-Luft-Plattformen", "Höhe
 ### Repeated reports of racist attacks
 
 
-![](assets/2f74294a3e30/0*TTOHSynwpXIr_XKI)
+![](../assets/2f74294a3e30/0*TTOHSynwpXIr_XKI)
 
 
 Repeated reports of racist attacks are emerging from Germany\. In Erfurt \(Thuringia\), a man was beaten up in a tram by four perpetrators for presumably racist motives, [Seebrücke International](https://twitter.com/Seebruecke_intl) reported\.

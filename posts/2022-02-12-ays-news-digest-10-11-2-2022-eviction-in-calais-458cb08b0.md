@@ -1,13 +1,13 @@
 ---
-title: AYS News Digest 10–11/2/2022: Eviction in Calais
+title: "AYS News Digest 10–11/2/2022: Eviction in Calais"
 author: Are You Syrious?
 date: 2022-02-12T15:43:48.094+0000
 last_modified_at: 2022-02-12T19:33:29.767+0000
 categories: Are You Syrious?
 tags: [digest,calais,greece,refugees,belarus]
-description: BALKANS: New health project and more testimonies of pushbacks. DENMARK: Refugee Board pushes for new deportation to Afghanistan. NORWAY…
+description: "BALKANS: New health project and more testimonies of pushbacks. DENMARK: Refugee Board pushes for new deportation to Afghanistan. NORWAY…"
 image:
-  path: assets/458cb08b0/1*P3mAbpKXUzILSbIZlIFzaA.jpeg
+  path: ../assets/458cb08b0/1*P3mAbpKXUzILSbIZlIFzaA.jpeg
 ---
 
 ### AYS News Digest 10–11/2/2022: Eviction in Calais
@@ -15,7 +15,7 @@ image:
 BALKANS: New health project and more testimonies of pushbacks\. DENMARK: Refugee Board pushes for new deportation to Afghanistan\. NORWAY: Report on Deportation of reject asylum seekers with children in the country\. Hunger strikes in LITHUANIA & POLAND\. Continued criminalisation on GREECE’s islands…
 
 
-![“In more than 50 towns and villages in France, posters have appeared this evening denouncing the reality of borders, in particular at the call of the collective [Faim Aux Frontières](http://twitter.com/faimofrontieres) \(Credit: [Luis Witter](https://twitter.com/LouisWitter/status/1491592783282548741/photo/1) \)](assets/458cb08b0/1*P3mAbpKXUzILSbIZlIFzaA.jpeg)
+![“In more than 50 towns and villages in France, posters have appeared this evening denouncing the reality of borders, in particular at the call of the collective [Faim Aux Frontières](http://twitter.com/faimofrontieres) \(Credit: [Luis Witter](https://twitter.com/LouisWitter/status/1491592783282548741/photo/1) \)](../assets/458cb08b0/1*P3mAbpKXUzILSbIZlIFzaA.jpeg)
 
 “In more than 50 towns and villages in France, posters have appeared this evening denouncing the reality of borders, in particular at the call of the collective [Faim Aux Frontières](http://twitter.com/faimofrontieres) \(Credit: [Luis Witter](https://twitter.com/LouisWitter/status/1491592783282548741/photo/1) \)
 
@@ -23,7 +23,7 @@ FEATURE
 #### **Eviction in Calais**
 
 
-![Eviction at Rue dàAjaccio, Calais, 11 February 2022 — Credit: [_Calais Logement Pour Toustes_](https://twitter.com/CalaisLogement)](assets/458cb08b0/1*qghRYm0B8mwj_BbumUxe-g.jpeg)
+![Eviction at Rue dàAjaccio, Calais, 11 February 2022 — Credit: [_Calais Logement Pour Toustes_](https://twitter.com/CalaisLogement)](../assets/458cb08b0/1*qghRYm0B8mwj_BbumUxe-g.jpeg)
 
 Eviction at Rue dàAjaccio, Calais, 11 February 2022 — Credit: [_Calais Logement Pour Toustes_](https://twitter.com/CalaisLogement)
 
@@ -97,7 +97,7 @@ They hope to announce a new strategy in the spring and to be allowed to continue
 #### Criminalisation for saving lives
 
 
-![](assets/458cb08b0/1*0KuM6JVp2bVaSajvoKN4RQ.jpeg)
+![](../assets/458cb08b0/1*0KuM6JVp2bVaSajvoKN4RQ.jpeg)
 
 
 The Samos Two face trial in May\. N\. is charged with endangering the life of his son who drowned\. Hassan is charged with driving the boat and thus smuggling\.

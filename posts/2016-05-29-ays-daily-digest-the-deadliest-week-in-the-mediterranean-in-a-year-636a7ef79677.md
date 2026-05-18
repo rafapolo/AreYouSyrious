@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST: The deadliest week in the Mediterranean for more than a year
+title: "AYS DAILY DIGEST: The deadliest week in the Mediterranean for more than a year"
 author: Are You Syrious?
 date: 2016-05-29T23:04:14.374+0100
 last_modified_at: 2016-05-30T18:30:46.071+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,mediterranean]
 description: Over 700 discovered bodies in Mediterranean last week. The Mediterranean route is open again. The refugee camp in Idomeni does not exist…
 image:
-  path: assets/636a7ef79677/1*P-mk4TW8Mt6i4XMjXM4XsA.jpeg
+  path: ../assets/636a7ef79677/1*P-mk4TW8Mt6i4XMjXM4XsA.jpeg
 ---
 
 ### AYS DAILY DIGEST: The deadliest week in the Mediterranean for more than a year
 #### Over 700 discovered bodies in Mediterranean last week\. The Mediterranean route is open again\. The refugee camp in Idomeni does not exist anymore, and the last volunteers left today\. Female Friendly Space opened in Ritsona camp\. Bulgaria arrested 96 people who were trying to cross the border and deployed the army at the border with Greece\.
 
 
-![Idomeni, Photo by Phoepe Ramsey](assets/636a7ef79677/1*P-mk4TW8Mt6i4XMjXM4XsA.jpeg)
+![Idomeni, Photo by Phoepe Ramsey](../assets/636a7ef79677/1*P-mk4TW8Mt6i4XMjXM4XsA.jpeg)
 
 Idomeni, Photo by Phoepe Ramsey
 #### Good weather in front of us\. According to the forecast made in a collaboration between Sao and United Rescue Aid, wind force on Monday will be 2–3Bf \(low\-medium\) \. Wind direction is SouthEast\-East\. Waves: 0\.5m\. Very humid, thin clouds\. //\+24 Hours: Temperature: 19–29°C\.
@@ -52,7 +52,7 @@ Idomeni, Photo by Phoepe Ramsey
 
 
 
-![Photo by MSF](assets/636a7ef79677/1*xs4Bx5P36G5vccycpw2UEQ.jpeg)
+![Photo by MSF](../assets/636a7ef79677/1*xs4Bx5P36G5vccycpw2UEQ.jpeg)
 
 Photo by MSF
 
@@ -87,35 +87,35 @@ Photo by MSF
 We are bringing you some of the photos Phoebe took in Idomeni\.
 
 
-![](assets/636a7ef79677/1*g5g76LQ48uF5AniwMpaXIg.jpeg)
+![](../assets/636a7ef79677/1*g5g76LQ48uF5AniwMpaXIg.jpeg)
 
 
 
-![](assets/636a7ef79677/1*0TkTG9Nyno_oDeEa-QAohA.jpeg)
+![](../assets/636a7ef79677/1*0TkTG9Nyno_oDeEa-QAohA.jpeg)
 
 
 
-![](assets/636a7ef79677/1*gEpvbIDr_zrM5qEH_HhmJQ.jpeg)
+![](../assets/636a7ef79677/1*gEpvbIDr_zrM5qEH_HhmJQ.jpeg)
 
 
 
-![](assets/636a7ef79677/1*Zs4-Dy7ednf9t9e80C0tng.jpeg)
+![](../assets/636a7ef79677/1*Zs4-Dy7ednf9t9e80C0tng.jpeg)
 
 
 
-![](assets/636a7ef79677/1*qN1Y5l5Df4uWk5wZIe4Jww.jpeg)
+![](../assets/636a7ef79677/1*qN1Y5l5Df4uWk5wZIe4Jww.jpeg)
 
 
 
-![](assets/636a7ef79677/1*WsaI1KDHi6RVXpVBuWiCGQ.jpeg)
+![](../assets/636a7ef79677/1*WsaI1KDHi6RVXpVBuWiCGQ.jpeg)
 
 
 
-![](assets/636a7ef79677/1*YW4YIXR6vb9-WkoZczMfXA.jpeg)
+![](../assets/636a7ef79677/1*YW4YIXR6vb9-WkoZczMfXA.jpeg)
 
 
 
-![](assets/636a7ef79677/1*8kK9xDQYs_DrGRc8VlOnGg.jpeg)
+![](../assets/636a7ef79677/1*8kK9xDQYs_DrGRc8VlOnGg.jpeg)
 
 ### Female Friendly Space in Ritsona\.
 
@@ -127,24 +127,24 @@ We are bringing you some of the photos Phoebe took in Idomeni\.
 
 
 
-![](assets/636a7ef79677/1*VxsdTOPLxFlo2CHNABqHtA.jpeg)
+![](../assets/636a7ef79677/1*VxsdTOPLxFlo2CHNABqHtA.jpeg)
 
 
 
-![](assets/636a7ef79677/1*l3khKk_w3--BWRu-aD6JFQ.jpeg)
+![](../assets/636a7ef79677/1*l3khKk_w3--BWRu-aD6JFQ.jpeg)
 
 
 
-![Photo by Lighthouse Relife](assets/636a7ef79677/1*l_nSaMeeZuYEwJdwFRd72Q.jpeg)
+![Photo by Lighthouse Relife](../assets/636a7ef79677/1*l_nSaMeeZuYEwJdwFRd72Q.jpeg)
 
 Photo by Lighthouse Relife
 
 
-![](assets/636a7ef79677/1*R65GPrUPJPhyYyLK5ucVpw.jpeg)
+![](../assets/636a7ef79677/1*R65GPrUPJPhyYyLK5ucVpw.jpeg)
 
 
 
-![Photo by Lighthouse Relife](assets/636a7ef79677/1*nUgh5Kv4pKtRFF7ZkrgJaA.jpeg)
+![Photo by Lighthouse Relife](../assets/636a7ef79677/1*nUgh5Kv4pKtRFF7ZkrgJaA.jpeg)
 
 Photo by Lighthouse Relife
 

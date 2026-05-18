@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 20/12/2018: European union connection with unimaginable horrors in Libyan…
+title: "AYS DAILY DIGEST 20/12/2018: European union connection with unimaginable horrors in Libyan…"
 author: Are You Syrious?
 date: 2018-12-21T11:08:29.046+0000
 last_modified_at: 2018-12-21T20:31:17.553+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,bosnia-and-herzegovina,iom,libya]
 description: Teenage asylum seeker from Ethiopia is planning to sue the government for its role in funding detention centers in Libya // Student from…
 image:
-  path: assets/e337c27ccd13/1*eCs3ElqCDmbcUvMrdAtZxw.jpeg
+  path: ../assets/e337c27ccd13/1*eCs3ElqCDmbcUvMrdAtZxw.jpeg
 ---
 
 ### AYS DAILY DIGEST 20/12/2018: European union connection with unimaginable horrors in Libyan detention centers
@@ -15,7 +15,7 @@ image:
 _Teenage asylum seeker from Ethiopia is planning to sue the government for its role in funding detention centers in Libya // Student from Belgium held by gang in Morocco for three hours // Jugendrettet demands toward the EU — stop criminalizing humanitarian action, instead prioritize saving lives and protect human dignity of all people // Twelve people have been found dead near Spain // 16\-year\-old boy died of heart failure in IOM run camp in Bosnia // And more news…_
 
 
-![Photo by [Jérémie Crépin](https://www.facebook.com/jeremie.crepin?__tn__=%2CdCH-R-R&eid=ARBYZZXUxG2sAY2BPMzTZIgjm_yeosO15VL-r0XyYDY39VtiYjsRPd-G2rQgL8rNE5g3iNcKEeffc5OG&hc_ref=ARSzmT9cBKWsOoWGgzBuCeoeL0JB96tlnLSAIFZgsoNxzZDYuFtiGVegQclTlmcWJu0&fref=nf&hc_location=group) \. “The place of the Montpellier comedy, used to see the Christmas lists here, covered by a list of names: those of migrants dispear or are dead in the Mediterranean between 2014 and July 2018\.”](assets/e337c27ccd13/1*eCs3ElqCDmbcUvMrdAtZxw.jpeg)
+![Photo by [Jérémie Crépin](https://www.facebook.com/jeremie.crepin?__tn__=%2CdCH-R-R&eid=ARBYZZXUxG2sAY2BPMzTZIgjm_yeosO15VL-r0XyYDY39VtiYjsRPd-G2rQgL8rNE5g3iNcKEeffc5OG&hc_ref=ARSzmT9cBKWsOoWGgzBuCeoeL0JB96tlnLSAIFZgsoNxzZDYuFtiGVegQclTlmcWJu0&fref=nf&hc_location=group) \. “The place of the Montpellier comedy, used to see the Christmas lists here, covered by a list of names: those of migrants dispear or are dead in the Mediterranean between 2014 and July 2018\.”](../assets/e337c27ccd13/1*eCs3ElqCDmbcUvMrdAtZxw.jpeg)
 
 Photo by [Jérémie Crépin](https://www.facebook.com/jeremie.crepin?__tn__=%2CdCH-R-R&eid=ARBYZZXUxG2sAY2BPMzTZIgjm_yeosO15VL-r0XyYDY39VtiYjsRPd-G2rQgL8rNE5g3iNcKEeffc5OG&hc_ref=ARSzmT9cBKWsOoWGgzBuCeoeL0JB96tlnLSAIFZgsoNxzZDYuFtiGVegQclTlmcWJu0&fref=nf&hc_location=group) \. “The place of the Montpellier comedy, used to see the Christmas lists here, covered by a list of names: those of migrants dispear or are dead in the Mediterranean between 2014 and July 2018\.”
 ### FEATURE
@@ -134,7 +134,7 @@ Changeably cloudy with sunny intervals\. In the morning and evening local rain\.
 ### BOSNIA
 
 
-![One of squats in Sarajevo\. Photo by [Basis](https://www.facebook.com/BASIS-Bosnia-1487914718006023/) \.](assets/e337c27ccd13/1*mS_ro3ekZqQpMDY3oWlbzw.jpeg)
+![One of squats in Sarajevo\. Photo by [Basis](https://www.facebook.com/BASIS-Bosnia-1487914718006023/) \.](../assets/e337c27ccd13/1*mS_ro3ekZqQpMDY3oWlbzw.jpeg)
 
 One of squats in Sarajevo\. Photo by [Basis](https://www.facebook.com/BASIS-Bosnia-1487914718006023/) \.
 

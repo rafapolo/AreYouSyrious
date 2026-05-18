@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 15/08/22: One year since the Taliban regained control of Afghanistan
+title: "AYS News Digest 15/08/22: One year since the Taliban regained control of Afghanistan"
 author: Are You Syrious?
 date: 2022-08-16T09:36:59.118+0100
 last_modified_at: 2022-08-16T14:34:35.823+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [afghanistan,digest,greece,home-office,refugees]
 description: Severe lack of safeguarding and protection for unaccompanied children in the UK//Group of 39 Syrian refugees finally found on Greek soil//6…
 image:
-  path: assets/a30ba559a5a/0*gbBKzfoDYA90Hhwx
+  path: ../assets/a30ba559a5a/0*gbBKzfoDYA90Hhwx
 ---
 
 ### AYS News Digest 15/08/22: One year since the Taliban regained control of Afghanistan
@@ -15,7 +15,7 @@ image:
 Severe lack of safeguarding and protection for unaccompanied children in the UK//Group of 39 Syrian refugees finally found on Greek soil//6 Somali asylum seekers suffering from hunger and dehydration on Chios//Dire conditions in Northern Cyprus//51 farm workers with no residence permit found in Italy//and much more…
 
 
-![Yalda Hakim —” Extraordinary image from yesterday’s protest by these brave Afghan women\. One year ago, Afghan girls went to school — Afghan women held positions of authority across Afghan society — all this was overturned with exceptional speed when the Taliban swept to power [\#Afghanistan](https://twitter.com/hashtag/Afghanistan?src=hashtag_click) ”](assets/a30ba559a5a/0*gbBKzfoDYA90Hhwx)
+![Yalda Hakim —” Extraordinary image from yesterday’s protest by these brave Afghan women\. One year ago, Afghan girls went to school — Afghan women held positions of authority across Afghan society — all this was overturned with exceptional speed when the Taliban swept to power [\#Afghanistan](https://twitter.com/hashtag/Afghanistan?src=hashtag_click) ”](../assets/a30ba559a5a/0*gbBKzfoDYA90Hhwx)
 
 Yalda Hakim —” Extraordinary image from yesterday’s protest by these brave Afghan women\. One year ago, Afghan girls went to school — Afghan women held positions of authority across Afghan society — all this was overturned with exceptional speed when the Taliban swept to power [\#Afghanistan](https://twitter.com/hashtag/Afghanistan?src=hashtag_click) ”
 ### One year since the Taliban regained control in Afghanistan

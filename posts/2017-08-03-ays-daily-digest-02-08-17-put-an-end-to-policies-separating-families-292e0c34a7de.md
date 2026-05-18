@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 02/08/17: Put an end to policies separating families
+title: "AYS Daily Digest 02/08/17: Put an end to policies separating families"
 author: Are You Syrious?
 date: 2017-08-03T01:31:01.056+0100
 last_modified_at: 2017-08-03T01:31:01.056+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,greece,italy,human-rights]
 description: Protest against the slow and inefficient family reunification procedure Greece-Germany / Iuventa stopped and confiscated by the…
 image:
-  path: assets/292e0c34a7de/1*oP8x77KIeuvRxCaTYq_zmw.jpeg
+  path: ../assets/292e0c34a7de/1*oP8x77KIeuvRxCaTYq_zmw.jpeg
 ---
 
 ### AYS Daily Digest 02/08/17: Put an end to policies separating families
@@ -38,7 +38,7 @@ Support came from many sides\. [Refugee Support Aegean and PRO ASYL](https://www
 Meanwhile, long waiting periods in Greece result in more anguish for already vulnerable protection seekers, and poor reception conditions are leading to a deterioration of the physical health of many refugees and in some cases even severe injuries\.” \( For more information see background note RSA/PRO ASYL: [The Dublin family reunification procedure from Greece to Germany](https://www.proasyl.de/wp-content/uploads/2015/12/Background-Note-Family-Reunification-Dublin_RSA_PRO-ASYL-August-2017.pdf) \)
 
 
-![Photo: [Refugee Accommodation and Solidarity Space City Plaza](https://www.facebook.com/sol2refugeesen/)](assets/292e0c34a7de/1*oP8x77KIeuvRxCaTYq_zmw.jpeg)
+![Photo: [Refugee Accommodation and Solidarity Space City Plaza](https://www.facebook.com/sol2refugeesen/)](../assets/292e0c34a7de/1*oP8x77KIeuvRxCaTYq_zmw.jpeg)
 
 Photo: [Refugee Accommodation and Solidarity Space City Plaza](https://www.facebook.com/sol2refugeesen/)
 
@@ -172,7 +172,7 @@ More reports of violent incidents affecting refugees were received, including th
 94,740 people were officially registered arriving to Italy in 2017, from January 1 until July 30\. On average, there were 366 arrivals per day in the month of July, when 10,988 people arrived to Italy, according to the UNHCR’s report\.
 
 
-![](assets/292e0c34a7de/1*ELsT8586EIL5t6nA8PJ7uQ.jpeg)
+![](../assets/292e0c34a7de/1*ELsT8586EIL5t6nA8PJ7uQ.jpeg)
 
 ### Italy’s possible implication in human rights abuses
 
@@ -191,7 +191,7 @@ They need help:
 If you are someone with all these characteristics, your presence there would be of great help; if you could devote a month or more to volunteer in Ventimiglia, please contact [Kesha Niya](https://www.facebook.com/KeshaNiyaProject/?hc_ref=ARRVfk2ErYwKV3kpC5iOh8lijFiuHzXluUej64QhoxF0jT4GFrMn9I3SehGQCRq55_A) , join the team and keep us informed on how things are going\!
 
 
-![Photo: [Kesha Niya](https://www.facebook.com/KeshaNiyaProject/?hc_ref=ARRVfk2ErYwKV3kpC5iOh8lijFiuHzXluUej64QhoxF0jT4GFrMn9I3SehGQCRq55_A)](assets/292e0c34a7de/1*YFG-FqzspSnf48mbUHRrDA.jpeg)
+![Photo: [Kesha Niya](https://www.facebook.com/KeshaNiyaProject/?hc_ref=ARRVfk2ErYwKV3kpC5iOh8lijFiuHzXluUej64QhoxF0jT4GFrMn9I3SehGQCRq55_A)](../assets/292e0c34a7de/1*YFG-FqzspSnf48mbUHRrDA.jpeg)
 
 Photo: [Kesha Niya](https://www.facebook.com/KeshaNiyaProject/?hc_ref=ARRVfk2ErYwKV3kpC5iOh8lijFiuHzXluUej64QhoxF0jT4GFrMn9I3SehGQCRq55_A)
 
@@ -227,7 +227,7 @@ Fear of retaliation by traffickers on the victim’s family members back in thei
 
 
 
-![Infographics: IOM Italy](assets/292e0c34a7de/1*jjRFrzmwqnxCjeKxtwjwGA.png)
+![Infographics: IOM Italy](../assets/292e0c34a7de/1*jjRFrzmwqnxCjeKxtwjwGA.png)
 
 Infographics: IOM Italy
 #### FRANCE
@@ -276,12 +276,12 @@ Due to the constant raids from the French police forces, sleeping bags are in ex
 ### Paris
 
 
-![Paris, Porte de la Chapelle \(Photo: [Jonathan Rebours](https://www.facebook.com/jonathan.rebours.3) \)](assets/292e0c34a7de/1*5lesE1DDV3bSQZc2eWNR2w.jpeg)
+![Paris, Porte de la Chapelle \(Photo: [Jonathan Rebours](https://www.facebook.com/jonathan.rebours.3) \)](../assets/292e0c34a7de/1*5lesE1DDV3bSQZc2eWNR2w.jpeg)
 
 Paris, Porte de la Chapelle \(Photo: [Jonathan Rebours](https://www.facebook.com/jonathan.rebours.3) \)
 
 
-![[Solidarithé](https://www.facebook.com/solidarithe/) ’s updated info map for Paris lists where people can: shower, find Wifi, learn French, claim asylum, find legal support & more](assets/292e0c34a7de/1*YBqoWN41cBV0yyLUeAJ7-A.jpeg)
+![[Solidarithé](https://www.facebook.com/solidarithe/) ’s updated info map for Paris lists where people can: shower, find Wifi, learn French, claim asylum, find legal support & more](../assets/292e0c34a7de/1*YBqoWN41cBV0yyLUeAJ7-A.jpeg)
 
 [Solidarithé](https://www.facebook.com/solidarithe/) ’s updated info map for Paris lists where people can: shower, find Wifi, learn French, claim asylum, find legal support & more
 #### SWEDEN

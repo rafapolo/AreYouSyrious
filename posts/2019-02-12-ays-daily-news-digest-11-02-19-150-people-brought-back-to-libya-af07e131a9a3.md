@@ -1,5 +1,5 @@
 ---
-title: AYS Daily News Digest 11/02/19: 150 people brought back to Libya
+title: "AYS Daily News Digest 11/02/19: 150 people brought back to Libya"
 author: Are You Syrious?
 date: 2019-02-12T07:09:13.954+0000
 last_modified_at: 2019-02-12T10:23:20.260+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest]
 description: 150 people brought back to Libya — meanwhile, families resort to Facebook to collect donations and pay ransoms//Possible deportations from…
 image:
-  path: assets/af07e131a9a3/0*un-MGk9rkjRUNnRn
+  path: ../assets/af07e131a9a3/0*un-MGk9rkjRUNnRn
 ---
 
 ### AYS Daily News Digest 11/02/19: 150 people brought back to Libya
 #### _150 people brought back to Libya — meanwhile, families resort to Facebook to collect donations and pay ransoms//Possible deportations from Austria to Afghanistan next week//Volunteers needed in Greece//more news_
 
 
-![Photo by Alarm Phone](assets/af07e131a9a3/0*un-MGk9rkjRUNnRn)
+![Photo by Alarm Phone](../assets/af07e131a9a3/0*un-MGk9rkjRUNnRn)
 
 Photo by Alarm Phone
 #### FEATURE
@@ -30,7 +30,7 @@ Meanwhile, [Avvenire](https://www.avvenire.it/attualita/pagine/immigrazione-open
 #### 87 people arrive on Lesvos and 15 on Chios
 
 
-![Photo by Refugee Rescue](assets/af07e131a9a3/0*xjPTCrTzdrgUMzqD)
+![Photo by Refugee Rescue](../assets/af07e131a9a3/0*xjPTCrTzdrgUMzqD)
 
 Photo by Refugee Rescue
 
@@ -44,7 +44,7 @@ A total of 15 people arrived on Chios on Sunday night according to [Salvamento M
 #### New project starts on Lesvos
 
 
-![](assets/af07e131a9a3/0*G9nkP5iBLXKRgIyI)
+![](../assets/af07e131a9a3/0*G9nkP5iBLXKRgIyI)
 
 
 The [Zaporeak Proiektua](https://www.facebook.com/zaporeakproiektua/?__tn__=K-R&eid=ARBoT_ybzUJrB3qpdvmjhuyh2KGtIxaJRf0GTARb3GWZNzY9ftJ7IFw_cTTQwgj_1WNoyCBufF_IZy8e&fref=mentions&__xts__%5B0%5D=68.ARCHEgmOxrDGT_lSzUFoSmjq-FfF3jBu8WpcUGuZVQByXZ1uz816AEnhdEqwKDdHejubXus1VcMpNPp3NCZt-TJb2QzZ4kKcjr8Ck4UziJwWJMFIa93hgOo0onf6rTFURUz6K0O3PapKJjqMIQkzrcD74bfhyyHy7GQlL9xmPBU6LduxYb-Y4N-V2cMWteadz59YbOcfNiYXkXh8Ki7jWW5UBiejqBA_n004nRCsSKI6-35FMQFhpUmHcJb0LIN70CYtIOncRqWgPqsc_cixalH8f3tsl-raG4VJwIGRfIshhC-H39LFHu__kFjUPTd1CEvvIQd2VkZLa0yllXgEmq-E3w) has started cooking for 1,200 people in Moria\. The group has been working in Greece, including in Chios and Athens, since 2016, distributing more than 700,000 food portions\. You can find out more on how to volunteer or donate directly on their [website](http://www.zaporeak.eus/) \.
@@ -70,7 +70,7 @@ More information about where people are coming with this status, where they are 
 #### Possible deportations to Afghanistan next week
 
 
-![Photo by European Citizens Against Deportation to Afghanistan](assets/af07e131a9a3/0*shyH_ChzHdwf1xLI)
+![Photo by European Citizens Against Deportation to Afghanistan](../assets/af07e131a9a3/0*shyH_ChzHdwf1xLI)
 
 Photo by European Citizens Against Deportation to Afghanistan
 

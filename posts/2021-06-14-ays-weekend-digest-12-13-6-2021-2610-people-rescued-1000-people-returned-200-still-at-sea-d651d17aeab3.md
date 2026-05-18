@@ -1,13 +1,13 @@
 ---
-title: AYS Weekend Digest 12-13/6/2021: 2610 people rescued, 1000 people returned, 200 still at sea
+title: "AYS Weekend Digest 12-13/6/2021: 2610 people rescued, 1000 people returned, 200 still at sea"
 author: Are You Syrious?
 date: 2021-06-14T11:14:08.410+0100
 last_modified_at: 2021-06-14T17:26:32.743+0100
 categories: Are You Syrious?
 tags: [digest,refugees,sea-rescue,greece,libya]
-description: New camp in Kos // Mistreatment and abuses in Ellebaek pre-deportation centre // We cannot walk alone: Refugee week to start on Monday…
+description: "New camp in Kos // Mistreatment and abuses in Ellebaek pre-deportation centre // We cannot walk alone: Refugee week to start on Monday…"
 image:
-  path: assets/d651d17aeab3/1*ARuHkbiVazsik8Dblq9Bdw.jpeg
+  path: ../assets/d651d17aeab3/1*ARuHkbiVazsik8Dblq9Bdw.jpeg
 ---
 
 ### AYS Weekend Digest 12\-13/6/2021: 2610 people rescued, 1000 people returned, 200 still at sea
@@ -15,7 +15,7 @@ image:
 _New camp on Kos // Mistreatment and abuses in Ellebaek pre\-deportation centre // We cannot walk alone: Refugee week to start on Monday // And more…_
 
 
-![\(Photo Credit: [MSF Sea](https://twitter.com/MSF_Sea/status/1403454734154059779/photo/1) \)](assets/d651d17aeab3/1*ARuHkbiVazsik8Dblq9Bdw.jpeg)
+![\(Photo Credit: [MSF Sea](https://twitter.com/MSF_Sea/status/1403454734154059779/photo/1) \)](../assets/d651d17aeab3/1*ARuHkbiVazsik8Dblq9Bdw.jpeg)
 
 \(Photo Credit: [MSF Sea](https://twitter.com/MSF_Sea/status/1403454734154059779/photo/1) \)
 #### FEATURED: 2610 people rescued, 1000 people returned, 200 still at sea

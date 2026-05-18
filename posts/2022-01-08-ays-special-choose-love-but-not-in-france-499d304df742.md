@@ -1,5 +1,5 @@
 ---
-title: AYS Special: Choose Love? — but not in France
+title: "AYS Special: Choose Love? — but not in France"
 author: Are You Syrious?
 date: 2022-01-08T13:35:57.756+0000
 last_modified_at: 2022-01-08T13:35:57.756+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [special,choose-love,uk,calais]
 description: Are You Syrious?
 image:
-  path: assets/499d304df742/0*SS5ipZKfGk0X7wdU.png
+  path: ../assets/499d304df742/0*SS5ipZKfGk0X7wdU.png
 ---
 
 ### AYS Special: Choose Love? — but not in France
 
 
-![](assets/499d304df742/0*wtyzp3KzusfILiY-.jpeg)
+![](../assets/499d304df742/0*wtyzp3KzusfILiY-.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----b4a301b1c26e-----------------------------------)
@@ -23,7 +23,7 @@ image:
 _UK\-registered charity Choose Love was started under the name ‘Help Refugees’ by three well\-connected campaigners\. Coldplay’s Chris Martin and actors Olivia Colman and Phoebe Waller\-Bridge are among the celebrity supporters, and millions of pounds of funding is raised in part via their trendy pop\-up\-shop on central London’s Carnaby Street\. The charity funds partner organisations in various countries, but recently announced a huge reduction in funding for groups in Northern France\. Helen Tennyson explains how and what happened\._
 
 
-![](assets/499d304df742/0*SS5ipZKfGk0X7wdU.png)
+![](../assets/499d304df742/0*SS5ipZKfGk0X7wdU.png)
 
 
 Pop\-up Shop on Carnaby Street\. Photo Credit: [Choose Love on Instagram](https://www.instagram.com/p/CV1Levwo6M2/?utm_source=ig_web_copy_link)
@@ -38,11 +38,11 @@ Since 1st January 2022, Choose Love has withdrawn funding from almost every orga
 
 
 
-![](assets/499d304df742/0*HeBdfJYWUO7b_rfb)
+![](../assets/499d304df742/0*HeBdfJYWUO7b_rfb)
 
 
 
-![](assets/499d304df742/0*tR16yIvI2F7dSEh3.jpeg)
+![](../assets/499d304df742/0*tR16yIvI2F7dSEh3.jpeg)
 
 
 **Every charity based in the UK that was previously funded by Choose Love is affected\.**
@@ -68,11 +68,11 @@ Any link, no matter how tenuous, to government policy or preference that shapes 
 One thing we all wonder is why they waited so long between the decision to pull funding and their public announcement\. I, along with almost everyone working on the ground in Northern France at the time, knew of the decision in summer\. It was common knowledge that it was common knowledge, but also common knowledge that no\-one was supposed to know\. The charities affected launched the ‘ [Calais Appeal](https://www.calaisappeal.co.uk/) ’ after the announcement on 1st November; an intelligent and united effort to find a way to replace those funds\. An appeal of this size and planning takes a long time to coordinate, and yet was ready to launch immediately after the announcement was made public\. The organisations knew before, but were explicitly told not to publicise the information for fear of having their funding cut before the deadline of December 31st\. This meant they couldn’t seek alternative funding sooner, essentially cutting their preparation time from six months to two\. Choose Love is now using the same model in Greece\. They are exploiting the relationship of trust that it has fostered with organisations on the ground, and this exploits the relationship between itself and its donors as well\.
 
 
-![](assets/499d304df742/0*gdaHnTad_FNxrMxI)
+![](../assets/499d304df742/0*gdaHnTad_FNxrMxI)
 
 
 
-![](assets/499d304df742/0*L3jaT0v1NIJUsueK.png)
+![](../assets/499d304df742/0*L3jaT0v1NIJUsueK.png)
 
 
 A major alarm\-bell is the way in which Choose Love chose to make its public announcement regarding the withdrawal from Calais\. It published a handwritten letter on its social channels, and turned off public comments on the post\. The post is sandwiched between advertisements for the pop\-up store in Carnaby street, and a post about Walk With Amal — who, paradoxically, made the final parts of her journey through Northern France\. The letter is very on\-brand for Choose Love\. It’s written in sharpie pen, in cute handwriting, and it’s personal — ‘you made it possible’\.

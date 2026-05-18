@@ -1,5 +1,5 @@
 ---
-title: AYS Special from Greece: Recognised refugees sleeping on the street as EU scheme scrapped
+title: "AYS Special from Greece: Recognised refugees sleeping on the street as EU scheme scrapped"
 author: Are You Syrious?
 date: 2021-03-14T09:47:48.410+0000
 last_modified_at: 2021-03-14T09:47:48.410+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [special,filoxenia,iom,greece,refugees]
 description: In January, Greek authorities announced the end of the EU-funded Filoxenia program. This has meant evictions and lack of alternatives.
 image:
-  path: assets/cfd8c54e5c6f/1*znsAvkEyNCsRyIpJ6hajhA.jpeg
+  path: ../assets/cfd8c54e5c6f/1*znsAvkEyNCsRyIpJ6hajhA.jpeg
 ---
 
 ### AYS Special from Greece: Recognised refugees sleeping on the street as EU scheme scrapped
@@ -20,7 +20,7 @@ image:
 
 
 
-![\(Photo Credit: Chiara Destefanis\)](assets/cfd8c54e5c6f/1*znsAvkEyNCsRyIpJ6hajhA.jpeg)
+![\(Photo Credit: Chiara Destefanis\)](../assets/cfd8c54e5c6f/1*znsAvkEyNCsRyIpJ6hajhA.jpeg)
 
 \(Photo Credit: Chiara Destefanis\)
 
@@ -37,7 +37,7 @@ Being an NGO working in Corinth, we could reach Hotel Iliochari, in Agioi Theodo
 Aiming to “alleviate the suffering of vulnerable migrants and refugees residing under lamentable conditions” in the Greek islands, [IOM Greece](https://medium.com/u/44b06ca12ae1) [announced](https://www.iom.int/news/iom-provides-urgent-accommodation-over-2500-vulnerable-migrants-refugees-transferred-greek) the Filoxenia program back in October of 2018\. According to the UN’s International Organisation for Migration, about six thousand people were moved to the mainland, to hotels leased by the Greek government\. Iliochari was one of the 79 hotels across the country under this agreement\.
 
 
-![\(Photo Credit: Chiara Destefanis\)](assets/cfd8c54e5c6f/1*RoxMR65n-Gd-LZBE1QDTRw.jpeg)
+![\(Photo Credit: Chiara Destefanis\)](../assets/cfd8c54e5c6f/1*RoxMR65n-Gd-LZBE1QDTRw.jpeg)
 
 \(Photo Credit: Chiara Destefanis\)
 
@@ -60,7 +60,7 @@ Within the first week of March, most families that had been in Agioi Theodoroi r
 
 
 
-![\(Photo Credit: Chiara Destefanis\)](assets/cfd8c54e5c6f/1*ChxipXNbGQtf6Pfn29MJsA.jpeg)
+![\(Photo Credit: Chiara Destefanis\)](../assets/cfd8c54e5c6f/1*ChxipXNbGQtf6Pfn29MJsA.jpeg)
 
 \(Photo Credit: Chiara Destefanis\)
 
@@ -80,7 +80,7 @@ In Stefania, the police evictions turned ugly\. According to one of the asylum s
 Outside of the Hotel Iliochari, people have started to count the nights, rather than the days\. “It’s five nights that most of us are sleeping outside, without any result or effect”, Tahhan recalled\. Trying to find a way out of this situation, they met several times with the mayor and tried to contact IOM, unsuccessfully\. “We respect everyone, but this last decision from the Ministry of Migration is harming us\. Our lives are in danger and we can’t be patient anymore”, he added\.
 
 
-![\(Photo Credit: Chiara Destefanis\)](assets/cfd8c54e5c6f/1*NWt_TdmxXkNZZfTYo2OJ3g.jpeg)
+![\(Photo Credit: Chiara Destefanis\)](../assets/cfd8c54e5c6f/1*NWt_TdmxXkNZZfTYo2OJ3g.jpeg)
 
 \(Photo Credit: Chiara Destefanis\)
 

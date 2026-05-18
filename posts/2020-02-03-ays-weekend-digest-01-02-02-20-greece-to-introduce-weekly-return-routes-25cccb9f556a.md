@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 01–02/02/20: Greece to introduce ‘weekly return routes’
+title: "AYS Weekend Digest 01–02/02/20: Greece to introduce ‘weekly return routes’"
 author: Are You Syrious?
 date: 2020-02-03T14:56:28.977+0000
 last_modified_at: 2020-02-03T14:59:24.646+0000
@@ -7,18 +7,18 @@ categories: Are You Syrious?
 tags: []
 description: Plans to introduce ‘weekly return routes’ for individuals whose asylum applications have been rejected // Ongoing effects of the Greek…
 image:
-  path: assets/25cccb9f556a/0*xiAUIYHv3kXzap2g.jpeg
+  path: ../assets/25cccb9f556a/0*xiAUIYHv3kXzap2g.jpeg
 ---
 
 ### AYS Weekend Digest 01–02/02/20: Greece to introduce ‘weekly return routes’
 #### Plans to introduce ‘weekly return routes’ for individuals whose asylum applications have been rejected // Ongoing effects of the Greek government’s policy decision to refuse medical care for 55,000 people // More deportations from Sweden announced // & more news from Syria, SAR, Greece, Italy, Belgium, Malta, Spain, Norway, Denmark and Sweden
 
 
-![](assets/25cccb9f556a/0*pr9w3x-yYmMqL2B0)
+![](../assets/25cccb9f556a/0*pr9w3x-yYmMqL2B0)
 
 
 
-![](assets/25cccb9f556a/0*xiAUIYHv3kXzap2g.jpeg)
+![](../assets/25cccb9f556a/0*xiAUIYHv3kXzap2g.jpeg)
 
 ### FEATURED
 
@@ -27,11 +27,11 @@ In recent weeks, Greece has been making headlines for the continued shakeup of i
 Additionally, it was announced this week that all Greek asylum applications should state all the reasons why an individual is fleeing their country of origin in the full registration\. Additionally to the brief explanation of the reason for fleeing, any individual seeking asylum will be asked about their identity, how they travelled to Greece and if they already have family in other European countries\. [The Mobile Info Team for Refugees](https://www.facebook.com/mobileinfoteam/posts/2663941213834591) in Greece recommends for those seeking full registration that _“if you have any documents from your country of origin please bring them along as it might create problems if you later in the procedure state different or new reasons why you were fleeing your home country, already think beforehand what you want to say\. If you have been persecuted by your government or anybody else, or if your life was in danger because of certain circumstances, then this might be important reasons to state in the full registration\. Make always sure to be truthful with the authorities, as making something up might lead to your asylum claim being rejected\. If you can, try to get advice from a legal NGO, a lawyer or a social worker before your full registration\.”_
 
 
-![](assets/25cccb9f556a/0*hARjwqpUsQsg8FaE)
+![](../assets/25cccb9f556a/0*hARjwqpUsQsg8FaE)
 
 
 
-![](assets/25cccb9f556a/0*Syrjtv55XT8CIXCa.jpeg)
+![](../assets/25cccb9f556a/0*Syrjtv55XT8CIXCa.jpeg)
 
 ### SYRIA
 ### Germany will fund Turkey so it can ‘cope with a new influx’
@@ -67,11 +67,11 @@ We were provided with this account from an anonymous single female residing in V
 In [Cape Town](https://www.bbc.com/news/world-africa-51284576?fbclid=IwAR2RC6xh3Vuc2A1n_6MNAiiE-e_XhOE5aZydRbTvAt50yg3WLUixGfReFek) , South Africa, over the last four months, over 500 people have been forced to seek shelter inside Cape Town’s Central Methodist Church\. Since October the Central Methodist Church has offered this community sanctuary within its walls after the police, armed with an eviction order, sought to forcibly and often violently remove the group during a sit\-in protest outside UNHCR offices in South Africa\. Speaking to the BBC, the women sheltered within the church talk of their desire to move on from South Africa, a country ‘that since 2008 has seen multiple outbreaks of xenophobic violence’\. In addition to the violence and humiliation these men, women and children are forced to endure, a new policy set to be introduced by the South African government will undoubtedly make their lives far harder\. The Refugees Amendment Act is a new law seeking to limit the legal work that refugees can do and prevent them from taking part in all and any political activities relating to their home country\.
 
 
-![](assets/25cccb9f556a/0*VPWzVUWKMl8JKizV)
+![](../assets/25cccb9f556a/0*VPWzVUWKMl8JKizV)
 
 
 
-![](assets/25cccb9f556a/0*8tiXrfzv0GLK1o4H)
+![](../assets/25cccb9f556a/0*8tiXrfzv0GLK1o4H)
 
 
 Agency [copyrights](https://ichef.bbci.co.uk/news/872/cpsprodpb/638F/production/_110678452_ch4.jpg)
@@ -123,45 +123,45 @@ The campaign will consist of a series of personal letters to the minister of imm
 A demonstration in Mandal against the detention of families and for the evacuation of children from Moria camp on the island of Lesvos in Greece:
 
 
-![](assets/25cccb9f556a/0*lVvpj3X6vsqN3HHb)
+![](../assets/25cccb9f556a/0*lVvpj3X6vsqN3HHb)
 
 
 
-![](assets/25cccb9f556a/0*ZvhJDcvX9uwQ2_LN.jpeg)
+![](../assets/25cccb9f556a/0*ZvhJDcvX9uwQ2_LN.jpeg)
 
 
 
-![](assets/25cccb9f556a/0*NMoPM3MugydAGdAW)
+![](../assets/25cccb9f556a/0*NMoPM3MugydAGdAW)
 
 
 
-![](assets/25cccb9f556a/0*RrcdlhYJ6F4tv5rt.jpeg)
+![](../assets/25cccb9f556a/0*RrcdlhYJ6F4tv5rt.jpeg)
 
 
 Photos: [Budbringeren fra Helvete](https://www.facebook.com/Budbringeren-fra-Helvete-181486232399790/?tn-str=k%2AF&hc_location=group_dialog)
 
 
-![](assets/25cccb9f556a/0*5lU4b9IXO7AiPidQ)
+![](../assets/25cccb9f556a/0*5lU4b9IXO7AiPidQ)
 
 
 
-![](assets/25cccb9f556a/0*Li_Qe5tV37m6o2DQ.jpeg)
+![](../assets/25cccb9f556a/0*Li_Qe5tV37m6o2DQ.jpeg)
 
 
 
-![](assets/25cccb9f556a/0*jeFIV63YjfMeEELX)
+![](../assets/25cccb9f556a/0*jeFIV63YjfMeEELX)
 
 
 
-![](assets/25cccb9f556a/0*Uax0EeWxiTULCnmQ.jpeg)
+![](../assets/25cccb9f556a/0*Uax0EeWxiTULCnmQ.jpeg)
 
 
 
-![](assets/25cccb9f556a/0*sYMJs61q-WfQOMHY)
+![](../assets/25cccb9f556a/0*sYMJs61q-WfQOMHY)
 
 
 
-![](assets/25cccb9f556a/0*FWS5mLefahkm1nit.jpeg)
+![](../assets/25cccb9f556a/0*FWS5mLefahkm1nit.jpeg)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

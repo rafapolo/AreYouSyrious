@@ -5,16 +5,16 @@ date: 2020-10-10T16:13:18.340+0100
 last_modified_at: 2020-10-10T17:41:00.936+0100
 categories: Are You Syrious?
 tags: [digest,migration,solidarity,refugees,europe]
-description: Algeria: violent, brutal treatment at the hands of police / Mare Liberum stops operations for the safety of their members / Confirmed…
+description: "Algeria: violent, brutal treatment at the hands of police / Mare Liberum stops operations for the safety of their members / Confirmed…"
 image:
-  path: assets/7792751f5fc8/0*8m8skEzD-vuONerI
+  path: ../assets/7792751f5fc8/0*8m8skEzD-vuONerI
 ---
 
 ### AYS Daily Digest 09/10/2020 — An Abdication of Responsibility on Lesvos
 #### Algeria: violent, brutal treatment at the hands of police / Mare Liberum stops operations for the safety of their members / Confirmed: those who refuse to exit ESTIA will not have access to HELIOS / France: the authorities are inflating the number of meals distributed and hundreds of people are still going hungry / Amnesty International detects that most governmental policies increase the trauma instead of alleviating it / Recommended reads and more news
 
 
-![Save Pikpa\! Photo credit: [Begum Basdas](https://twitter.com/BegumBasdas/status/1314578405124382723?fbclid=IwAR3q_m8x5teFrx2ZBAad0pGYncSDiklYDvFC5TmbiY0j_X0kxxHxti_lZiI)](assets/7792751f5fc8/0*8m8skEzD-vuONerI)
+![Save Pikpa\! Photo credit: [Begum Basdas](https://twitter.com/BegumBasdas/status/1314578405124382723?fbclid=IwAR3q_m8x5teFrx2ZBAad0pGYncSDiklYDvFC5TmbiY0j_X0kxxHxti_lZiI)](../assets/7792751f5fc8/0*8m8skEzD-vuONerI)
 
 Save Pikpa\! Photo credit: [Begum Basdas](https://twitter.com/BegumBasdas/status/1314578405124382723?fbclid=IwAR3q_m8x5teFrx2ZBAad0pGYncSDiklYDvFC5TmbiY0j_X0kxxHxti_lZiI)
 #### FEATURE
@@ -68,7 +68,7 @@ The Algerian government has conducted pushbacks against [3,400 people](https://w
 #### LIBYA
 
 
-![[UNHCR LIBYA](https://www.facebook.com/UNHCRTripoli/?__cft__[0]=AZVwrS2ZPMH-dcHWpzv5unpDZgym4ipQZPl2LrXQEbFo089S_VhoNAOVqq0ka_svxAdII9P4WRMiVHRhR-6PvoJxfg_dD3TuZx6JZ9suswTCgXVFYms3XgC1inPwsiWNZ7VN13pHO4CVdEudIJiETPNSdEZv4DKP7NAz-pDUmIK94ViKxtnyn0QNKfm8Z4NB9lE&__tn__=-UC*F)](assets/7792751f5fc8/1*d42kfht-SQeE695NgGwBNQ.jpeg)
+![[UNHCR LIBYA](https://www.facebook.com/UNHCRTripoli/?__cft__[0]=AZVwrS2ZPMH-dcHWpzv5unpDZgym4ipQZPl2LrXQEbFo089S_VhoNAOVqq0ka_svxAdII9P4WRMiVHRhR-6PvoJxfg_dD3TuZx6JZ9suswTCgXVFYms3XgC1inPwsiWNZ7VN13pHO4CVdEudIJiETPNSdEZv4DKP7NAz-pDUmIK94ViKxtnyn0QNKfm8Z4NB9lE&__tn__=-UC*F)](../assets/7792751f5fc8/1*d42kfht-SQeE695NgGwBNQ.jpeg)
 
 [UNHCR LIBYA](https://www.facebook.com/UNHCRTripoli/?__cft__[0]=AZVwrS2ZPMH-dcHWpzv5unpDZgym4ipQZPl2LrXQEbFo089S_VhoNAOVqq0ka_svxAdII9P4WRMiVHRhR-6PvoJxfg_dD3TuZx6JZ9suswTCgXVFYms3XgC1inPwsiWNZ7VN13pHO4CVdEudIJiETPNSdEZv4DKP7NAz-pDUmIK94ViKxtnyn0QNKfm8Z4NB9lE&__tn__=-UC*F)
 #### SEA

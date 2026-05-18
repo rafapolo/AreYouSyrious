@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: How to lower the money transaction costs of remittances for people on the move?
+title: "AYS SPECIAL: How to lower the money transaction costs of remittances for people on the move?"
 author: Are You Syrious?
 date: 2018-05-28T08:03:44.924+0100
 last_modified_at: 2018-05-28T08:03:44.924+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,special,western-union,people-on-the-move]
 description: “One million Syrian customers… Do you think they will ever forget Western Union? Never.”
 image:
-  path: assets/734d69ac2538/1*MajAzYSF1wd0J_3RYUq2kQ.jpeg
+  path: ../assets/734d69ac2538/1*MajAzYSF1wd0J_3RYUq2kQ.jpeg
 ---
 
 ### AYS SPECIAL: How to lower the money transaction costs of remittances for people on the move?
@@ -25,7 +25,7 @@ image:
 
 
 
-![Photo by Christine Roy](assets/734d69ac2538/1*MajAzYSF1wd0J_3RYUq2kQ.jpeg)
+![Photo by Christine Roy](../assets/734d69ac2538/1*MajAzYSF1wd0J_3RYUq2kQ.jpeg)
 
 Photo by Christine Roy
 

@@ -1,13 +1,13 @@
 ---
-title: AYS Daily Digest 12/11/2020: More than 100 lives lost in the Mediterranean Sea
+title: "AYS Daily Digest 12/11/2020: More than 100 lives lost in the Mediterranean Sea"
 author: Are You Syrious?
 date: 2020-11-13T21:11:23.408+0000
 last_modified_at: 2020-11-13T21:11:23.408+0000
 categories: Are You Syrious?
 tags: []
-description: 4 shipwrecks in the last two days // Syrians say: No Return With Assad // Updates from group stranded on Evros river island // Situation…
+description: "4 shipwrecks in the last two days // Syrians say: No Return With Assad // Updates from group stranded on Evros river island // Situation…"
 image:
-  path: assets/4822a3b45dd6/0*FiC9F-0VGmWqxJHf.jpeg
+  path: ../assets/4822a3b45dd6/0*FiC9F-0VGmWqxJHf.jpeg
 ---
 
 ### AYS Daily Digest 12/11/2020: More than 100 lives lost in the Mediterranean Sea
@@ -16,7 +16,7 @@ image:
 [Nov 13](ays-daily-digest-12-11-2020-more-than-100-lives-lost-in-the-mediterranean-sea-66fb7f2de604?source=post_page-----66fb7f2de604--------------------------------) · 10 min read
 
 
-![](assets/4822a3b45dd6/0*FiC9F-0VGmWqxJHf.jpeg)
+![](../assets/4822a3b45dd6/0*FiC9F-0VGmWqxJHf.jpeg)
 
 
 Latest Open Arms rescue mission, in which six people died\. Copyright: Jean Marc Joseph
@@ -49,11 +49,11 @@ We do not know if it is the same child, but we know that one 6\-month\-old baby 
 On Twitter, Frotenx tried to get credit for “playing a key role in the rescue”\. The picture they posted with the statement speaks volumes: Through the camera lens of a European agency we see a rubber dingy overloaded with people and a speed boat of a civilian rescue group trying to help\. **At the risk of repeating ourselves endlessly: Frontex is complicit in pushbacks from Greece while EU authorities try their best to prevent civilian rescue missions\. There is really nothing to give Frontex credit for\.**
 
 
-![](assets/4822a3b45dd6/0*78eZNgU17LgWLj0Q)
+![](../assets/4822a3b45dd6/0*78eZNgU17LgWLj0Q)
 
 
 
-![](assets/4822a3b45dd6/0*olyiiRiSzoter5M3.jpeg)
+![](../assets/4822a3b45dd6/0*olyiiRiSzoter5M3.jpeg)
 
 
 Copyright: Frontex

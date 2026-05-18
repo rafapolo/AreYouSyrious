@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: أين أنا؟ — Where am I?
+title: "AYS SPECIAL: أين أنا؟ — Where am I?"
 author: Are You Syrious?
 date: 2019-04-14T10:13:02.765+0100
 last_modified_at: 2019-04-14T10:13:02.765+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [syria,special,morality,questions-of-life]
 description: Just asking me about my place now calls for thousands of questions.
 image:
-  path: assets/ce0b31c3aff6/1*2w8KpWb3JXxh45EX3YPItA.jpeg
+  path: ../assets/ce0b31c3aff6/1*2w8KpWb3JXxh45EX3YPItA.jpeg
 ---
 
 ### **AYS SPECIAL: أين أنا؟ — Where am I?**
@@ -15,7 +15,7 @@ image:
 Just asking me about my place now calls for thousands of questions\.
 
 
-![[\#NoBorders](https://www.facebook.com/hashtag/noborders?epa=HASHTAG) By Tasos Anastasiou\. Via [Art Against](https://www.facebook.com/artagainstproject/) \.](assets/ce0b31c3aff6/1*2w8KpWb3JXxh45EX3YPItA.jpeg)
+![[\#NoBorders](https://www.facebook.com/hashtag/noborders?epa=HASHTAG) By Tasos Anastasiou\. Via [Art Against](https://www.facebook.com/artagainstproject/) \.](../assets/ce0b31c3aff6/1*2w8KpWb3JXxh45EX3YPItA.jpeg)
 
 [\#NoBorders](https://www.facebook.com/hashtag/noborders?epa=HASHTAG) By Tasos Anastasiou\. Via [Art Against](https://www.facebook.com/artagainstproject/) \.
 

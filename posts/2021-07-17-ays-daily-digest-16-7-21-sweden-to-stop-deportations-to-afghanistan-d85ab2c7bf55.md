@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,afghanistan,deportations]
 description: Three people stuck in Cypriot no-man’s Land//Busy day in Spanish SAR//U.S. State Department criticizes Greece for pushbacks
 image:
-  path: assets/d85ab2c7bf55/0*7vDRmePlRGQh0sZt
+  path: ../assets/d85ab2c7bf55/0*7vDRmePlRGQh0sZt
 ---
 
 ### AYS Daily Digest 16/7/21 —Sweden to Stop Deportations to Afghanistan
 #### Three people stuck in Cypriot no\-man’s Land//Busy day in Spanish SAR//U\.S\. State Department criticizes Greece for pushbacks
 
 
-![The abandoned place in Patras where many people try to find shelter\. Photo credit: Arianna Egle Ventre of [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/1277827882615493)](assets/d85ab2c7bf55/0*7vDRmePlRGQh0sZt)
+![The abandoned place in Patras where many people try to find shelter\. Photo credit: Arianna Egle Ventre of [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/1277827882615493)](../assets/d85ab2c7bf55/0*7vDRmePlRGQh0sZt)
 
 The abandoned place in Patras where many people try to find shelter\. Photo credit: Arianna Egle Ventre of [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/1277827882615493)
 #### FEATURE

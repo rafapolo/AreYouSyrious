@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 28/02/18: A victory for humanitarian aid
+title: "AYS Daily Digest 28/02/18: A victory for humanitarian aid"
 author: Are You Syrious?
 date: 2018-03-01T00:52:13.680+0000
 last_modified_at: 2018-03-01T12:15:34.510+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,hungar,spain,greece]
 description: The Hungarian Helsinki Committee wins a lawsuit against the Cabinet Office / Greek cabinet reshuffle also affects the Migration Ministry /…
 image:
-  path: assets/3a09434f6ab2/1*vNFmRn2c3up7RO53blIYKg.jpeg
+  path: ../assets/3a09434f6ab2/1*vNFmRn2c3up7RO53blIYKg.jpeg
 ---
 
 ### AYS Daily Digest 28/02/18: A victory for humanitarian aid
@@ -15,7 +15,7 @@ image:
 _The Hungarian Helsinki Committee wins a lawsuit against the Cabinet Office / Greek cabinet reshuffle also affects the Migration Ministry / Family reunions from Greece delayed and volunteers needed / Spain saw almost as many new arrivals in 2017 as Greece did / German asylum office tries to restrict family asylum, more than 2200 attacks against refugees in 2017 / and more…_
 
 
-![The HHC is one of the NGOs, who support refugees in Hungary\. Credits: [hhc\_helsinki/Twitter](https://twitter.com/hhc_helsinki/status/887606880696233984)](assets/3a09434f6ab2/1*vNFmRn2c3up7RO53blIYKg.jpeg)
+![The HHC is one of the NGOs, who support refugees in Hungary\. Credits: [hhc\_helsinki/Twitter](https://twitter.com/hhc_helsinki/status/887606880696233984)](../assets/3a09434f6ab2/1*vNFmRn2c3up7RO53blIYKg.jpeg)
 
 The HHC is one of the NGOs, who support refugees in Hungary\. Credits: [hhc\_helsinki/Twitter](https://twitter.com/hhc_helsinki/status/887606880696233984)
 ### Feature: A victory for humanitarian aid

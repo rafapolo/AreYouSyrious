@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 20/05/2021: Progress Made on Human Rights in EU Migration Deals
+title: "AYS Daily Digest 20/05/2021: Progress Made on Human Rights in EU Migration Deals"
 author: Are You Syrious?
 date: 2021-05-21T11:28:07.087+0100
 last_modified_at: 2021-05-21T15:47:40.258+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migration,european-parliament,human-rights]
 description: Updates from Ceuta, Canaries and Aegean Islands // Sea-Eye 4 assigned a port // Clinic for torture victims opened in Italy // Solidarity…
 image:
-  path: assets/8cd8c504422c/1*ZjstzFTHGU3Pp0bLKhqGlQ.jpeg
+  path: ../assets/8cd8c504422c/1*ZjstzFTHGU3Pp0bLKhqGlQ.jpeg
 ---
 
 ### AYS Daily Digest 20/05/2021: Progress Made on Human Rights in EU Migration Deals
 #### Updates from Ceuta, Canaries and Aegean Islands // Sea\-Eye 4 assigned a port // Clinic for torture victims opened in Italy // Solidarity protests in Denmark
 
 
-![EU Parliament\. \(Photo: [Flickr](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Fdoommeer%2F463366699&psig=AOvVaw1CoMWNWauA1FgV6gd_YsNJ&ust=1621679048747000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCVr7HH2vACFQAAAAAdAAAAABAK) \)](assets/8cd8c504422c/1*ZjstzFTHGU3Pp0bLKhqGlQ.jpeg)
+![EU Parliament\. \(Photo: [Flickr](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Fdoommeer%2F463366699&psig=AOvVaw1CoMWNWauA1FgV6gd_YsNJ&ust=1621679048747000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCVr7HH2vACFQAAAAAdAAAAABAK) \)](../assets/8cd8c504422c/1*ZjstzFTHGU3Pp0bLKhqGlQ.jpeg)
 
 EU Parliament\. \(Photo: [Flickr](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Fdoommeer%2F463366699&psig=AOvVaw1CoMWNWauA1FgV6gd_YsNJ&ust=1621679048747000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCVr7HH2vACFQAAAAAdAAAAABAK) \)
 ### FEATURE — Report on human rights in migration meets with success in EU parliament
@@ -239,7 +239,7 @@ Yesterday a group of Syrian refugees started a fourteen days sit\-in protest in 
 Listen to their demands, visit them in front of the parliament the next couple of weeks, offer your support and show up today at the protest against sending refugees back to Damascus and against the inhumane refugee policies in Denmark\. There will be protests in 23 cities all around Denmark so join your local network\.”
 
 
-![Aarhus, Denmark\. Demonstration in solidarity with Syrian refugees\. \(Photo: Activist and photographer Jan Olesen\)](assets/8cd8c504422c/1*fdzTXDKRdz7kXyPq48EaCg.jpeg)
+![Aarhus, Denmark\. Demonstration in solidarity with Syrian refugees\. \(Photo: Activist and photographer Jan Olesen\)](../assets/8cd8c504422c/1*fdzTXDKRdz7kXyPq48EaCg.jpeg)
 
 Aarhus, Denmark\. Demonstration in solidarity with Syrian refugees\. \(Photo: Activist and photographer Jan Olesen\)
 ### WORTH READING

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily News Digest 12/7: Far-right racist terror surges in Europe
+title: "AYS Daily News Digest 12/7: Far-right racist terror surges in Europe"
 author: Are You Syrious?
 date: 2016-07-12T23:35:12.124+0100
 last_modified_at: 2016-07-12T23:35:14.256+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,syria]
 description: The anger and fear of locals takes barbaric form as they attack and threaten refugees; we invite more people to express their solidarity in…
 image:
-  path: assets/d2e58a9494cd/1*sG5nD9PznOH3z--qZhCScg.jpeg
+  path: ../assets/d2e58a9494cd/1*sG5nD9PznOH3z--qZhCScg.jpeg
 ---
 
 ### AYS Daily News Digest 12/7: Far\-right racist terror surges in Europe
@@ -19,7 +19,7 @@ image:
 
 
 
-![Credits: [**Refugee Solidarity Community**](https://www.facebook.com/rscntwrk/)](assets/d2e58a9494cd/1*sG5nD9PznOH3z--qZhCScg.jpeg)
+![Credits: [**Refugee Solidarity Community**](https://www.facebook.com/rscntwrk/)](../assets/d2e58a9494cd/1*sG5nD9PznOH3z--qZhCScg.jpeg)
 
 Credits: [**Refugee Solidarity Community**](https://www.facebook.com/rscntwrk/)
 #### Greece
@@ -36,7 +36,7 @@ Together with the police, the “militia” escorted refugees by guiding them on
 The refugees have now returned to the area of the detention center, however, as they make clear, that they do not want to stay there because they fear for their lives\. The groups of the Indignant citizens spend every day patrolling the island, threatening refugees and NGO members\.
 
 
-![Credits: Theodore Manolopoulos](assets/d2e58a9494cd/1*dEqgZ3GuDmnGKxi3B2tJfA.jpeg)
+![Credits: Theodore Manolopoulos](../assets/d2e58a9494cd/1*dEqgZ3GuDmnGKxi3B2tJfA.jpeg)
 
 Credits: Theodore Manolopoulos
 ### Pikpa humanitarian hostel for families and vulnerable adults has demonstration planned against it tomorrow 5pm
@@ -57,37 +57,37 @@ In this house, thousands of women and children found peace after the horror of w
 And how will you sleep tonight, Mayor Michalis Kolias?
 
 
-![Credits: [**Refugee Solidarity Community**](https://www.facebook.com/rscntwrk/)](assets/d2e58a9494cd/1*Y-nKjU6Z8XjGj0iBWQ1r_Q.jpeg)
+![Credits: [**Refugee Solidarity Community**](https://www.facebook.com/rscntwrk/)](../assets/d2e58a9494cd/1*Y-nKjU6Z8XjGj0iBWQ1r_Q.jpeg)
 
 Credits: [**Refugee Solidarity Community**](https://www.facebook.com/rscntwrk/)
 
 
-![Credits: [**Refugee Solidarity Community**](https://www.facebook.com/rscntwrk/)](assets/d2e58a9494cd/1*yDYC4MccwhyiAfp6am-IHQ.jpeg)
+![Credits: [**Refugee Solidarity Community**](https://www.facebook.com/rscntwrk/)](../assets/d2e58a9494cd/1*yDYC4MccwhyiAfp6am-IHQ.jpeg)
 
 Credits: [**Refugee Solidarity Community**](https://www.facebook.com/rscntwrk/)
 
 
-![Credits: [**Refugee Solidarity Community**](https://www.facebook.com/rscntwrk/)](assets/d2e58a9494cd/1*sG5nD9PznOH3z--qZhCScg.jpeg)
+![Credits: [**Refugee Solidarity Community**](https://www.facebook.com/rscntwrk/)](../assets/d2e58a9494cd/1*sG5nD9PznOH3z--qZhCScg.jpeg)
 
 Credits: [**Refugee Solidarity Community**](https://www.facebook.com/rscntwrk/)
 
 
-![Credits: [**Refugee Solidarity Community**](https://www.facebook.com/rscntwrk/)](assets/d2e58a9494cd/1*lsov95nAF7_SnaJiFxPODw.jpeg)
+![Credits: [**Refugee Solidarity Community**](https://www.facebook.com/rscntwrk/)](../assets/d2e58a9494cd/1*lsov95nAF7_SnaJiFxPODw.jpeg)
 
 Credits: [**Refugee Solidarity Community**](https://www.facebook.com/rscntwrk/)
 
 
-![Credits: [**Refugee Solidarity Community**](https://www.facebook.com/rscntwrk/)](assets/d2e58a9494cd/1*aCdzrWAZOtTY6ZGY52P_ng.jpeg)
+![Credits: [**Refugee Solidarity Community**](https://www.facebook.com/rscntwrk/)](../assets/d2e58a9494cd/1*aCdzrWAZOtTY6ZGY52P_ng.jpeg)
 
 Credits: [**Refugee Solidarity Community**](https://www.facebook.com/rscntwrk/)
 
 
-![Credits: [**Refugee Solidarity Community**](https://www.facebook.com/rscntwrk/)](assets/d2e58a9494cd/1*tutV3K9keWJhM4B89eq2Rg.jpeg)
+![Credits: [**Refugee Solidarity Community**](https://www.facebook.com/rscntwrk/)](../assets/d2e58a9494cd/1*tutV3K9keWJhM4B89eq2Rg.jpeg)
 
 Credits: [**Refugee Solidarity Community**](https://www.facebook.com/rscntwrk/)
 
 
-![Credits: [**Refugee Solidarity Community**](https://www.facebook.com/rscntwrk/)](assets/d2e58a9494cd/1*67zUHipsUaK-nRZ1BYfmag.jpeg)
+![Credits: [**Refugee Solidarity Community**](https://www.facebook.com/rscntwrk/)](../assets/d2e58a9494cd/1*67zUHipsUaK-nRZ1BYfmag.jpeg)
 
 Credits: [**Refugee Solidarity Community**](https://www.facebook.com/rscntwrk/)
 ### Praksis is refusing to go to camps due to bad conditions for refugees, thus protesting the politics of refugee handling in Greece
@@ -115,23 +115,23 @@ This incident draws once again attention to the burning issue of detention of un
 ### Team Humanity educational activities for refugees of all ages at Oraiókastron, Thessaloniki
 
 
-![Credits: Team Humanity](assets/d2e58a9494cd/1*3q6FQ-jQCxSAYW29GAOJgA.jpeg)
+![Credits: Team Humanity](../assets/d2e58a9494cd/1*3q6FQ-jQCxSAYW29GAOJgA.jpeg)
 
 Credits: Team Humanity
 
 
-![Credits: Team Humanity](assets/d2e58a9494cd/1*MSNC90lnTKFZy9GotF9uvA.jpeg)
+![Credits: Team Humanity](../assets/d2e58a9494cd/1*MSNC90lnTKFZy9GotF9uvA.jpeg)
 
 Credits: Team Humanity
 ### Refugees fighting heat in Vasilika camp
 
 
-![Credits: [**Seamend Ahmed**](https://www.facebook.com/profile.php?id=100011305625233)](assets/d2e58a9494cd/1*fCeA5B6xqEF1950FEBi6Ig.jpeg)
+![Credits: [**Seamend Ahmed**](https://www.facebook.com/profile.php?id=100011305625233)](../assets/d2e58a9494cd/1*fCeA5B6xqEF1950FEBi6Ig.jpeg)
 
 Credits: [**Seamend Ahmed**](https://www.facebook.com/profile.php?id=100011305625233)
 
 
-![Credits: [**Seamend Ahmed**](https://www.facebook.com/profile.php?id=100011305625233)](assets/d2e58a9494cd/1*mBAsJrXlbiITRCLQxWbjvA.jpeg)
+![Credits: [**Seamend Ahmed**](https://www.facebook.com/profile.php?id=100011305625233)](../assets/d2e58a9494cd/1*mBAsJrXlbiITRCLQxWbjvA.jpeg)
 
 Credits: [**Seamend Ahmed**](https://www.facebook.com/profile.php?id=100011305625233)
 ### 50 Jobs with fixed\-term contract for Thessaloniki locals
@@ -160,12 +160,12 @@ It is expected to be very busy and it advised to come early\. If you come from o
 ### Amazing Legis volunteers organizing table tennis competitions for refugees
 
 
-![Credits: [**Legis**](https://www.facebook.com/legis.mk/)](assets/d2e58a9494cd/1*5Y-CSwBLa_9rq349bLSnvA.jpeg)
+![Credits: [**Legis**](https://www.facebook.com/legis.mk/)](../assets/d2e58a9494cd/1*5Y-CSwBLa_9rq349bLSnvA.jpeg)
 
 Credits: [**Legis**](https://www.facebook.com/legis.mk/)
 
 
-![Credits: [**Legis**](https://www.facebook.com/legis.mk/)](assets/d2e58a9494cd/1*CgkBbYxi_GWQN0O9dkxoCQ.jpeg)
+![Credits: [**Legis**](https://www.facebook.com/legis.mk/)](../assets/d2e58a9494cd/1*CgkBbYxi_GWQN0O9dkxoCQ.jpeg)
 
 Credits: [**Legis**](https://www.facebook.com/legis.mk/)
 #### Bulgaria

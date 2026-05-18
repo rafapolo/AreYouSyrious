@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,migration,refugees,human-rights,migrants]
 description: Documented pushback on Samos // Protests in Barcelona // French activists remember baby who died in Calais // Channel crossings increase
 image:
-  path: assets/3062fb1bc368/0*yS6ur3HSzps8p5PJ.jpeg
+  path: ../assets/3062fb1bc368/0*yS6ur3HSzps8p5PJ.jpeg
 ---
 
 ### AYS Daily Digest 06/09/21 — Bill Restricting Rescue NGOs Voted into Greek Law
 ### Documented pushback on Samos // Protests in Barcelona // French activists remember baby who died in Calais // Channel crossings increase
 
 
-![](assets/3062fb1bc368/0*Bz0h0ZHmOT4RBNVr.jpeg)
+![](../assets/3062fb1bc368/0*Bz0h0ZHmOT4RBNVr.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----2bdd5b6eba5f--------------------------------)
@@ -23,11 +23,11 @@ image:
 ### FEATURE — Anti\-rescue NGOs bill passes in Greek parliament
 
 
-![](assets/3062fb1bc368/0*ouWH4hLiu_dLX_Ok)
+![](../assets/3062fb1bc368/0*ouWH4hLiu_dLX_Ok)
 
 
 
-![](assets/3062fb1bc368/0*yS6ur3HSzps8p5PJ.jpeg)
+![](../assets/3062fb1bc368/0*yS6ur3HSzps8p5PJ.jpeg)
 
 
 Source: [Pixabay](https://pixabay.com/photos/life-jackets-syria-war-orange-3290742/)
@@ -90,7 +90,7 @@ More fear mongering about possible increases in arrivals in [Greek news](https:/
 ### Protests in Barcelona, via No Name Kitchen
 
 
-![](assets/3062fb1bc368/0*FQuMUUT6EP0ecCre.jpeg)
+![](../assets/3062fb1bc368/0*FQuMUUT6EP0ecCre.jpeg)
 
 
 \(Source: [Facebook](https://www.facebook.com/NoNameKitchenBelgrade/posts/1312434272488187) \)

@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 07/09/2018: Detainees from the ship Diciotti again persecuted
+title: "AYS DAILY DIGEST 07/09/2018: Detainees from the ship Diciotti again persecuted"
 author: Are You Syrious?
 date: 2018-09-08T11:32:48.887+0100
 last_modified_at: 2018-09-08T12:25:50.512+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,dunkirk,rome,politics,digest]
 description: Evictions in Rome // Controlling narratives and building borders in the world and in the mind // Greek government deftly leverages right…
 image:
-  path: assets/324281bb96fe/1*AM0IBClqDxv-xSEVw-eLKA.jpeg
+  path: ../assets/324281bb96fe/1*AM0IBClqDxv-xSEVw-eLKA.jpeg
 ---
 
 ### AYS DAILY DIGEST 07/09/2018: Detainees from the ship Diciotti again persecuted
@@ -15,7 +15,7 @@ image:
 _Evictions in Rome // Controlling narratives and building borders in the world and in the mind // Greek government deftly leverages right wing groups to its own advantage // Refugee minor beaten with bat in Greece // Refugees desperate to register in embattled Tripoli // Hundreds rescued off of Spain // The fallout of Dunkirk Jungle eviction // Deportation action needed in Netherlands // Long update on the upcoming election in Sweden and how this will affect refugees and migrants there // More…_
 
 
-![Children waiting during the operation against Baobab Experience \. Melting Pot Europa](assets/324281bb96fe/1*AM0IBClqDxv-xSEVw-eLKA.jpeg)
+![Children waiting during the operation against Baobab Experience \. Melting Pot Europa](../assets/324281bb96fe/1*AM0IBClqDxv-xSEVw-eLKA.jpeg)
 
 Children waiting during the operation against Baobab Experience \. Melting Pot Europa
 ### FEATURE: Police in Rome hunt down people who were aboard the Diciotti\.
@@ -31,7 +31,7 @@ Live video was posted of the raid, which can be seen below\.
 The space was occupied by more than 200 people\- around 270\- both Italians and immigrants without a place to go\. According to witnesses, the evacuation/raid came at around 7am\. Many individuals were taken into police custody and released later, carrying a paper citing violation of the illegal occupation of a building\.
 
 
-![Photo credit: Melting Pot Europa](assets/324281bb96fe/1*Eb4IuhboUBSVBnOKtbBgKQ.jpeg)
+![Photo credit: Melting Pot Europa](../assets/324281bb96fe/1*Eb4IuhboUBSVBnOKtbBgKQ.jpeg)
 
 Photo credit: Melting Pot Europa
 
@@ -143,7 +143,7 @@ Additionally around 276 people have been rescued [from the Malboran Sea](https:/
 Additionally, the Lifeline has now been detained in Malta for two months\! The ship is now attracting the attention of passing tourists and has transformed itself into a standing “advertisement” of the inhumanity of criminalization of sea rescue\.
 
 
-![Photo Credit: Mission\-Lifeline\.DE](assets/324281bb96fe/1*z7IlmhgCgxRrqOjVfTK8fA.jpeg)
+![Photo Credit: Mission\-Lifeline\.DE](../assets/324281bb96fe/1*z7IlmhgCgxRrqOjVfTK8fA.jpeg)
 
 Photo Credit: Mission\-Lifeline\.DE
 
@@ -155,7 +155,7 @@ In Greece, it appears that right\-wing groups continue to operate under the negl
 Similarly, please do not forget about Sarah, Sean and Nassos who remain in custody after being arrested for saving lives\!
 
 
-![Photo courtesy of ERCI](assets/324281bb96fe/1*btM66POI3vVnphvPSfF99A.jpeg)
+![Photo courtesy of ERCI](../assets/324281bb96fe/1*btM66POI3vVnphvPSfF99A.jpeg)
 
 Photo courtesy of ERCI
 
@@ -233,7 +233,7 @@ _For more information, go [here](https://www.facebook.com/CalaisActionBrighton/p
 L’Auberge des Migrants is in need of tents, tarupaulins, food, and duvets\. They note that people are being prevented from resettling by police\!
 
 
-![Photo Credit: L’Auberge des Migrants](assets/324281bb96fe/1*s8v_OSJ9AeiPyPDqgG1Vhg.jpeg)
+![Photo Credit: L’Auberge des Migrants](../assets/324281bb96fe/1*s8v_OSJ9AeiPyPDqgG1Vhg.jpeg)
 
 Photo Credit: L’Auberge des Migrants
 
@@ -245,7 +245,7 @@ _— by hello association [www\.helloasso\.com/associations/l\-auberge\-des\-mig
 Additionally, police carried out yet another eviction in Calais early yesterday morning\.
 
 
-![Photo Credit: Alex Soare](assets/324281bb96fe/1*9HknXR8wU26ldXOCF8mqNA.jpeg)
+![Photo Credit: Alex Soare](../assets/324281bb96fe/1*9HknXR8wU26ldXOCF8mqNA.jpeg)
 
 Photo Credit: Alex Soare
 ### The NETHERLANDS

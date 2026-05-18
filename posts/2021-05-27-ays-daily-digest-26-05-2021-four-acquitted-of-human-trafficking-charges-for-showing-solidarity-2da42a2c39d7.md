@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,solidarity,belgium]
 description: Algeria Continues Leaving People on the Move in the Desert//Police Brutality in Moria 2.0’s Quarantine Section//Testimony of Violent…
 image:
-  path: assets/2da42a2c39d7/0*uGKm0RLIeNFMWJKZ
+  path: ../assets/2da42a2c39d7/0*uGKm0RLIeNFMWJKZ
 ---
 
 ### AYS Daily Digest 26/05/2021—Four Acquitted of Human Trafficking Charges for Showing Solidarity
 #### Algeria Continues Leaving People on the Move in the Desert//Police Brutality in Moria 2\.0’s Quarantine Section//Testimony of Violent Attacks in BiH
 
 
-![Scenes from a protest in Belgium back in 2018, when the case began\. Photo credit: Kevin Van den Panhuyzen\- [BRUZZ](https://www.bruzz.be/justitie/viertal-dat-vluchtelingen-onderdak-bood-vrijgesproken-2021-05-26?fbclid=IwAR2E6O8-4nbotywm-DBjZPJOPn52LaazpDE58VbDJ7kFEP97cw6FKqkKhT4)](assets/2da42a2c39d7/0*uGKm0RLIeNFMWJKZ)
+![Scenes from a protest in Belgium back in 2018, when the case began\. Photo credit: Kevin Van den Panhuyzen\- [BRUZZ](https://www.bruzz.be/justitie/viertal-dat-vluchtelingen-onderdak-bood-vrijgesproken-2021-05-26?fbclid=IwAR2E6O8-4nbotywm-DBjZPJOPn52LaazpDE58VbDJ7kFEP97cw6FKqkKhT4)](../assets/2da42a2c39d7/0*uGKm0RLIeNFMWJKZ)
 
 Scenes from a protest in Belgium back in 2018, when the case began\. Photo credit: Kevin Van den Panhuyzen\- [BRUZZ](https://www.bruzz.be/justitie/viertal-dat-vluchtelingen-onderdak-bood-vrijgesproken-2021-05-26?fbclid=IwAR2E6O8-4nbotywm-DBjZPJOPn52LaazpDE58VbDJ7kFEP97cw6FKqkKhT4)
 
@@ -64,7 +64,7 @@ A young woman sleeping rough in Athens is in desperate need of assistance\. She 
 #### Testimony of Attacks in Kladuša
 
 
-![A man shows evidence of a violent attack agains him and his companions\. More in [this post](https://www.facebook.com/lorena.fornasir/posts/3948940908556310) from Lorena Fornasir](assets/2da42a2c39d7/0*x-UUuehwfgx86QXO)
+![A man shows evidence of a violent attack agains him and his companions\. More in [this post](https://www.facebook.com/lorena.fornasir/posts/3948940908556310) from Lorena Fornasir](../assets/2da42a2c39d7/0*x-UUuehwfgx86QXO)
 
 A man shows evidence of a violent attack agains him and his companions\. More in [this post](https://www.facebook.com/lorena.fornasir/posts/3948940908556310) from Lorena Fornasir
 #### SPAIN

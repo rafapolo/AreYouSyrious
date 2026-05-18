@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL — Serbia: Life in Šid
+title: "AYS SPECIAL — Serbia: Life in Šid"
 author: Are You Syrious?
 date: 2017-12-31T09:02:25.929+0000
 last_modified_at: 2018-03-01T13:49:00.031+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [serbia,sid,croatia,refugees,special]
 description: We have been working in Serbia on a daily basis for almost a year now. All that time, No Name Kitchen has been in contact with people on…
 image:
-  path: assets/df1cd66eb2ec/1*fRiNrz6uW11whfkQs8uIhw.jpeg
+  path: ../assets/df1cd66eb2ec/1*fRiNrz6uW11whfkQs8uIhw.jpeg
 ---
 
 ### AYS SPECIAL — Serbia: Life in Šid
 
 
-![Photo: No Name Kitchen\.](assets/df1cd66eb2ec/1*fRiNrz6uW11whfkQs8uIhw.jpeg)
+![Photo: No Name Kitchen\.](../assets/df1cd66eb2ec/1*fRiNrz6uW11whfkQs8uIhw.jpeg)
 
 Photo: No Name Kitchen\.
 
@@ -30,11 +30,11 @@ These human rights violations happen every day\. People come back with broken ph
 The 1951 Refugee Convention and the Dublin Regulation, are both documents in which Croatia took part and agreed upon\. But all these conventions, regulations, laws, treaties… are far away from being applied\. Anyone who’s been present in the field longer than a day can easily realize that\.
 
 
-![](assets/df1cd66eb2ec/1*OD8CRd26lWuYKFJk5qlPeA.jpeg)
+![](../assets/df1cd66eb2ec/1*OD8CRd26lWuYKFJk5qlPeA.jpeg)
 
 
 
-![Violence at the border\. Photo NNK\.](assets/df1cd66eb2ec/1*pmxYx1ZfvlWU4tv4TkyNDA.jpeg)
+![Violence at the border\. Photo NNK\.](../assets/df1cd66eb2ec/1*pmxYx1ZfvlWU4tv4TkyNDA.jpeg)
 
 Violence at the border\. Photo NNK\.
 
@@ -63,7 +63,7 @@ Another direct consequence of this situation is that the best way to cross the b
 The price to try to reach western Europe normally runs between 1,000 and 2,000 euros, but the risks of being beaten up and robbed by the border police or drowned in the river are still there\.
 
 
-![Photo: NNK](assets/df1cd66eb2ec/1*pu-hZ-g_6YEZRQtCjX6dXw.jpeg)
+![Photo: NNK](../assets/df1cd66eb2ec/1*pu-hZ-g_6YEZRQtCjX6dXw.jpeg)
 
 Photo: NNK
 

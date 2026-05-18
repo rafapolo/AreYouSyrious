@@ -1,5 +1,5 @@
 ---
-title: AYS DIGEST 22/12: Evacuation finished in Aleppo/UN and EU accused of mismanagement/Lesvos groups…
+title: "AYS DIGEST 22/12: Evacuation finished in Aleppo/UN and EU accused of mismanagement/Lesvos groups…"
 author: Are You Syrious?
 date: 2016-12-23T00:35:26.642+0000
 last_modified_at: 2016-12-23T08:00:34.263+0000
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe,greece,france,syria]
 description: Syria
 image:
-  path: assets/289931e0686b/1*UttuS7yZVfCsrbiCmES7uw.jpeg
+  path: ../assets/289931e0686b/1*UttuS7yZVfCsrbiCmES7uw.jpeg
 ---
 
 ### AYS DIGEST 22/12: Evacuation finished in Aleppo/UN and EU accused of mismanagement/Lesvos groups against more refugee camps/Conditions in Paris getting worse
 
 
-![Refugees sleeping on the street by [**Care4Calais**](https://www.facebook.com/care4calais/)](assets/289931e0686b/1*UttuS7yZVfCsrbiCmES7uw.jpeg)
+![Refugees sleeping on the street by [**Care4Calais**](https://www.facebook.com/care4calais/)](../assets/289931e0686b/1*UttuS7yZVfCsrbiCmES7uw.jpeg)
 
 Refugees sleeping on the street by [**Care4Calais**](https://www.facebook.com/care4calais/)
 ### Syria
@@ -73,7 +73,7 @@ According to U\.N\. Special Envoy Staffan de Mistura:
 Also from Macedonia we receive an appeal to help the people suffering in Aleppo:
 
 
-![Photo by [**Legis**](https://www.facebook.com/legis.mk/)](assets/289931e0686b/1*2POKbRvsBxzlghgGLYhseg.jpeg)
+![Photo by [**Legis**](https://www.facebook.com/legis.mk/)](../assets/289931e0686b/1*2POKbRvsBxzlghgGLYhseg.jpeg)
 
 Photo by [**Legis**](https://www.facebook.com/legis.mk/)
 ### International
@@ -103,7 +103,7 @@ Despite some recent improvements in some camps all volunteers know well the real
 The numbers say that there was a decreese in the numbers of arrivals to Europ since the beggining of the month:
 
 
-![Picture by [IOM](http://www.iom.int/europe)](assets/289931e0686b/1*VtEqLQ5Us7zcHc4p8_S1UQ.jpeg)
+![Picture by [IOM](http://www.iom.int/europe)](../assets/289931e0686b/1*VtEqLQ5Us7zcHc4p8_S1UQ.jpeg)
 
 Picture by [IOM](http://www.iom.int/europe)
 #### Turkey
@@ -137,22 +137,22 @@ There were **42 new registrations** today on the islands, 1 on Lesvos and 41 on 
 
 
 
-![Photo by [**InterVolve — International Volunteers**](https://www.facebook.com/InterVolve-International-Volunteers-219418945063168/)](assets/289931e0686b/1*AkNytAHWyjHfzZWIGEmI-g.jpeg)
+![Photo by [**InterVolve — International Volunteers**](https://www.facebook.com/InterVolve-International-Volunteers-219418945063168/)](../assets/289931e0686b/1*AkNytAHWyjHfzZWIGEmI-g.jpeg)
 
 Photo by [**InterVolve — International Volunteers**](https://www.facebook.com/InterVolve-International-Volunteers-219418945063168/)
 
 
-![Photo by [**InterVolve — International Volunteers**](https://www.facebook.com/InterVolve-International-Volunteers-219418945063168/)](assets/289931e0686b/1*1t9BNjuiHeTgbR43Hx_mRg.jpeg)
+![Photo by [**InterVolve — International Volunteers**](https://www.facebook.com/InterVolve-International-Volunteers-219418945063168/)](../assets/289931e0686b/1*1t9BNjuiHeTgbR43Hx_mRg.jpeg)
 
 Photo by [**InterVolve — International Volunteers**](https://www.facebook.com/InterVolve-International-Volunteers-219418945063168/)
 
 
-![Photo by [**InterVolve — International Volunteers**](https://www.facebook.com/InterVolve-International-Volunteers-219418945063168/)](assets/289931e0686b/1*-Y6xu53y5a5JgGZft0n8Fg.jpeg)
+![Photo by [**InterVolve — International Volunteers**](https://www.facebook.com/InterVolve-International-Volunteers-219418945063168/)](../assets/289931e0686b/1*-Y6xu53y5a5JgGZft0n8Fg.jpeg)
 
 Photo by [**InterVolve — International Volunteers**](https://www.facebook.com/InterVolve-International-Volunteers-219418945063168/)
 
 
-![Photo by [**InterVolve — International Volunteers**](https://www.facebook.com/InterVolve-International-Volunteers-219418945063168/)](assets/289931e0686b/1*T_Yeg8f8gl2QDvmKtnhPAQ.jpeg)
+![Photo by [**InterVolve — International Volunteers**](https://www.facebook.com/InterVolve-International-Volunteers-219418945063168/)](../assets/289931e0686b/1*T_Yeg8f8gl2QDvmKtnhPAQ.jpeg)
 
 Photo by [**InterVolve — International Volunteers**](https://www.facebook.com/InterVolve-International-Volunteers-219418945063168/)
 
@@ -163,7 +163,7 @@ In Athens a school beside [City Plaza](https://www.facebook.com/sol2refugeesen/)
 The party was organized in solidarity to refugees and City Plaza\.
 
 
-![Photo by [**Refugee Accommodation and Solidarity Space City Plaza**](https://www.facebook.com/sol2refugeesen/)](assets/289931e0686b/1*K-C81utujztNrzaD2VXlrw.jpeg)
+![Photo by [**Refugee Accommodation and Solidarity Space City Plaza**](https://www.facebook.com/sol2refugeesen/)](../assets/289931e0686b/1*K-C81utujztNrzaD2VXlrw.jpeg)
 
 Photo by [**Refugee Accommodation and Solidarity Space City Plaza**](https://www.facebook.com/sol2refugeesen/)
 #### Call for help
@@ -219,7 +219,7 @@ The police even added that usually they wouldn’t be allowed to put any blanket
 We also get a story today about Diaz that get his asylum refused recently in France after being 2 years in the “Jungle”
 
 
-[![Premiers refus d'asile pour des réfugiés de la jungle de Calais](assets/289931e0686b/6143_hqdefault.jpg "Premiers refus d'asile pour des réfugiés de la jungle de Calais")](http://www.youtube.com/watch?v=beZyfbz34eE)
+[![Premiers refus d'asile pour des réfugiés de la jungle de Calais](../assets/289931e0686b/6143_hqdefault.jpg "Premiers refus d'asile pour des réfugiés de la jungle de Calais")](http://www.youtube.com/watch?v=beZyfbz34eE)
 
 
 

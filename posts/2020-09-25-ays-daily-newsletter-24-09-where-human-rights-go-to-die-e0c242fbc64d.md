@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY NEWSLETTER: 24/09: Where Human Rights Go to Die
+title: "AYS DAILY NEWSLETTER: 24/09: Where Human Rights Go to Die"
 author: Are You Syrious?
 date: 2020-09-25T21:38:56.038+0100
 last_modified_at: 2020-09-25T21:38:56.038+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: []
 description: Human Rights Violations All Around the World including Yemen, USA, and Lebanon
 image:
-  path: assets/e0c242fbc64d/0*sTMrKbc_IxxZUJTT
+  path: ../assets/e0c242fbc64d/0*sTMrKbc_IxxZUJTT
 ---
 
 ### AYS DAILY NEWSLETTER: 24/09: Where Human Rights Go to Die
@@ -15,7 +15,7 @@ image:
 **Human Rights Violations All Around the World including Yemen, USA, and Lebanon**
 
 
-![](assets/e0c242fbc64d/0*sTMrKbc_IxxZUJTT)
+![](../assets/e0c242fbc64d/0*sTMrKbc_IxxZUJTT)
 
 
 **EU MIGRATION PACT**
@@ -204,7 +204,7 @@ Daily news digests from the field, for volunteers, people on the move, journalis
 
 
 
-![](assets/e0c242fbc64d/0*UlwwL2-e6cZUOZHq.jpeg)
+![](../assets/e0c242fbc64d/0*UlwwL2-e6cZUOZHq.jpeg)
 
 
 WRITTEN BY
@@ -212,7 +212,7 @@ WRITTEN BY
 #### Daily news digests from the field, mainly for volunteers and refugees on the route, but also for journalists and other parties\.
 
 
-![](assets/e0c242fbc64d/0*fpHfChqVypfQugHa.jpeg)
+![](../assets/e0c242fbc64d/0*fpHfChqVypfQugHa.jpeg)
 
 ### [Are You Syrious?](https://medium.com/are-you-syrious?source=follow_footer--------------------------follow_footer-----------)
 

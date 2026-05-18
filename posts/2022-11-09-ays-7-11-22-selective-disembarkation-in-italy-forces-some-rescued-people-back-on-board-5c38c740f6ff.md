@@ -1,5 +1,5 @@
 ---
-title: AYS 7/11/22: ‘Selective disembarkation’ in Italy forces some rescued people back on board
+title: "AYS 7/11/22: ‘Selective disembarkation’ in Italy forces some rescued people back on board"
 author: Are You Syrious?
 date: 2022-11-09T17:18:38.888+0000
 last_modified_at: 2022-11-10T17:08:01.438+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,sea,ngo,italy]
 description: Deportations and housing apartheid in Turkey // Three more bodies found in Greece // Update from ClickActive from Northern Serbia // People…
 image:
-  path: assets/5c38c740f6ff/0*zDIAywHtOL-RqRee
+  path: ../assets/5c38c740f6ff/0*zDIAywHtOL-RqRee
 ---
 
 ### AYS 7/11/22: ‘Selective disembarkation’ in Italy forces some rescued people back on board
 #### Deportations and housing apartheid in Turkey // Three more bodies found in Greece // Update from ClickActive from Northern Serbia // People on the streets in Belgium as temperatures drop // Protests in the UK and much more…
 
 
-![35 people were not allowed to disembark from the ship Humanity 1, because they were not considered “vulnerable”, following Piantedosi Italian Interior Minister decree\. Via [Sos Humanity](https://twitter.com/soshumanity_en/status/1589244328873861121)](assets/5c38c740f6ff/0*zDIAywHtOL-RqRee)
+![35 people were not allowed to disembark from the ship Humanity 1, because they were not considered “vulnerable”, following Piantedosi Italian Interior Minister decree\. Via [Sos Humanity](https://twitter.com/soshumanity_en/status/1589244328873861121)](../assets/5c38c740f6ff/0*zDIAywHtOL-RqRee)
 
 35 people were not allowed to disembark from the ship Humanity 1, because they were not considered “vulnerable”, following Piantedosi Italian Interior Minister decree\. Via [Sos Humanity](https://twitter.com/soshumanity_en/status/1589244328873861121)
 #### FEATURE
@@ -115,7 +115,7 @@ For these reasons, rescue NGOs have appealed to the Regional Administrative Cour
 While waiting for a response and a decision from the TAR about the issue, many activists and associations are denouncing the situation at the port, with assemblies and demonstrations\.
 
 
-![Gathering of people in Port of Catania against Piantedosi’s decree\. Via [Giansandro Merli](https://twitter.com/GiansandroMerli)](assets/5c38c740f6ff/0*uY6j-uupy24j3vQF)
+![Gathering of people in Port of Catania against Piantedosi’s decree\. Via [Giansandro Merli](https://twitter.com/GiansandroMerli)](../assets/5c38c740f6ff/0*uY6j-uupy24j3vQF)
 
 Gathering of people in Port of Catania against Piantedosi’s decree\. Via [Giansandro Merli](https://twitter.com/GiansandroMerli)
 
@@ -155,7 +155,7 @@ And here it is explained why Italy is not welcoming people and not allowing them
 
 
 
-![Via [MSF](https://twitter.com/MSF_Sea/status/1589564792502898689)](assets/5c38c740f6ff/0*H7DO6LmVeW1-6805)
+![Via [MSF](https://twitter.com/MSF_Sea/status/1589564792502898689)](../assets/5c38c740f6ff/0*H7DO6LmVeW1-6805)
 
 Via [MSF](https://twitter.com/MSF_Sea/status/1589564792502898689)
 #### TURKEY
@@ -176,15 +176,15 @@ Alarm Phone advise relatives wanting information about the identities of the dec
 #### Update from ClickActive from Northern Serbia
 
 
-![](assets/5c38c740f6ff/1*n8WDZxsfKCLsTungEERhPA.jpeg)
+![](../assets/5c38c740f6ff/1*n8WDZxsfKCLsTungEERhPA.jpeg)
 
 
 
-![](assets/5c38c740f6ff/1*yHL4RT6PkEyF7uXsVscnPA.jpeg)
+![](../assets/5c38c740f6ff/1*yHL4RT6PkEyF7uXsVscnPA.jpeg)
 
 
 
-![\(Photo Credit: [Klikaktiv — Centar za razvoj socijalnih politika](https://www.facebook.com/klikaktiv?__cft__[0]=AZV3OuWxo5FhiJ55LBl_NCYMaiVuaipiVIbcltrr01OAoOvADPfgKRclcv9onbfjt96v424emG0mhtABQ8p_wyH1ScZCS4bvSzlimT1zxwiWSiVaEGrSC9eNmOfQIPujx1H0_pe7_vdOWEpGaSaaASDf&__tn__=-UC%2CP-R) \)](assets/5c38c740f6ff/1*lB6s4YoPxkmd76-PhYqItA.jpeg)
+![\(Photo Credit: [Klikaktiv — Centar za razvoj socijalnih politika](https://www.facebook.com/klikaktiv?__cft__[0]=AZV3OuWxo5FhiJ55LBl_NCYMaiVuaipiVIbcltrr01OAoOvADPfgKRclcv9onbfjt96v424emG0mhtABQ8p_wyH1ScZCS4bvSzlimT1zxwiWSiVaEGrSC9eNmOfQIPujx1H0_pe7_vdOWEpGaSaaASDf&__tn__=-UC%2CP-R) \)](../assets/5c38c740f6ff/1*lB6s4YoPxkmd76-PhYqItA.jpeg)
 
 \(Photo Credit: [Klikaktiv — Centar za razvoj socijalnih politika](https://www.facebook.com/klikaktiv?__cft__[0]=AZV3OuWxo5FhiJ55LBl_NCYMaiVuaipiVIbcltrr01OAoOvADPfgKRclcv9onbfjt96v424emG0mhtABQ8p_wyH1ScZCS4bvSzlimT1zxwiWSiVaEGrSC9eNmOfQIPujx1H0_pe7_vdOWEpGaSaaASDf&__tn__=-UC%2CP-R) \)
 
@@ -224,7 +224,7 @@ Alarm Phone advise relatives wanting information about the identities of the dec
 [The European Court of Human Rights has](https://twitter.com/ThomasWilleken1/status/1587754068201689089?fbclid=IwAR0a0Ek-Ua6NTld3Z4UhX1EmyHnns5S5u8Tq-4x3e9xQQfS4YaFoDcUcKAs) , for the first time, called for interim measures in relation to this crisis\.
 
 
-![](assets/5c38c740f6ff/1*1SfrbSnM-uQQ2-Iv5o2ItQ.png)
+![](../assets/5c38c740f6ff/1*1SfrbSnM-uQQ2-Iv5o2ItQ.png)
 
 
 [Some groups state](https://www.vrt.be/vrtnws/nl/2022/11/04/ongeziene-opvangcrisis-dit-jaar-komen-we-aan-100-000-mensen-die/?fbclid=IwAR2SSDZCemT4a6L3MmEIYV6BUma_jPL6JS9ROUWyVlR4R4PoiU0uIROmjos) that this year the total spaces needed will be up to 100,000 people, far lower than the federal government plan\.

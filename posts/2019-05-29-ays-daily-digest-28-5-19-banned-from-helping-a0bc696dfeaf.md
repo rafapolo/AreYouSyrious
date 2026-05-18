@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 28/5/19: Banned from helping
+title: "AYS Daily Digest 28/5/19: Banned from helping"
 author: Are You Syrious?
 date: 2019-05-29T10:23:58.117+0100
 last_modified_at: 2019-05-31T13:32:04.928+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,bosnia,turkey,syria,digest]
 description: AidBrigade needs to stop activities in Sarajevo // Bombings in Syria continue // Chased to death in Turkey
 image:
-  path: assets/a0bc696dfeaf/1*A2r4dmbEhzJJJC8X4KMB3w.jpeg
+  path: ../assets/a0bc696dfeaf/1*A2r4dmbEhzJJJC8X4KMB3w.jpeg
 ---
 
 ### AYS Daily Digest 28/5/19: Banned from helping
 #### New arrivals on the Greek islands // AidBrigade stopping with activities in Sarajevo // Bombings in Syria continue // Chased to death in Turkey // Italian organisations call to a conference to strenghten ties and join forces
 
 
-![People waiting for food distribution\. Credits: AidBrigade](assets/a0bc696dfeaf/1*A2r4dmbEhzJJJC8X4KMB3w.jpeg)
+![People waiting for food distribution\. Credits: AidBrigade](../assets/a0bc696dfeaf/1*A2r4dmbEhzJJJC8X4KMB3w.jpeg)
 
 People waiting for food distribution\. Credits: AidBrigade
 ### Featured: International volunteer group banned from Sarajevo
@@ -61,7 +61,7 @@ While there were many new arrivals on the Greek islands the last days — with m
 [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?__tn__=kC-R&eid=ARCVI1lM5NTJ0J4USbXDD6WZ51nyqva_XKzCI_SfycK8V6IS_AaXno9JgwD_8DFKOHp3SxaSJF-iBpf5&hc_ref=ARTrju5EfXTlrMDhJENo82GgS03s3l0Lrz9xNf-dE698L3kkGDVtfei6sWQK9xujibw&fref=nf&__xts__%5B0%5D=68.ARDm2QJMqCnB66mC78fOm6jSVsPB-Rzsmq3VqVdb7FVHhxxEXsn1yV571xh8Cpqs7LjtpPLVqcRd6reKTgZq8fpslnc6g-L_3J_DZSU-Luc_4CQiAUVb05zSKSPitV7NIu-wkMeB4ogO9y6vUQ8k23EsYxy3_Lh5L2F9w-5nWqHAjBZjpYarbJMVggIJal6My4w_xV8da2kAGRSv_6LAMeHp0wcny8VfLo8YotZmF62GnCSMe3RCuXlbrNlISTRKltpWtIiSdJpUPW2u4GRcBR7TuowsvmvQWAasVeN0LyPazay7Rpx9wvnbKu3-kzyp2dZ0Vuiv19h0x93nhq8DOhk) publishes monthly statistics for the Greek islands, updated daily\. You can find total numbers on arrivals, boats, total numbers on the islands, transfers to mainland, boats stopped by Turkish Coastguard \(TCG\), and number of people arrested by TCG\. Follow them for more info on the arrivals\.
 
 
-![](assets/a0bc696dfeaf/1*9a89xYD8B_U8wOS6b8_vgw.jpeg)
+![](../assets/a0bc696dfeaf/1*9a89xYD8B_U8wOS6b8_vgw.jpeg)
 
 ### Italy
 

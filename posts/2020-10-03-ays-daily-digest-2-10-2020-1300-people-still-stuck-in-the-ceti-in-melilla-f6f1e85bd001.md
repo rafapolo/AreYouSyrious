@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 2/10/2020: 1300 people still stuck in the CETI in Melilla
+title: "AYS Daily Digest 2/10/2020: 1300 people still stuck in the CETI in Melilla"
 author: Are You Syrious?
 date: 2020-10-03T14:25:14.602+0100
 last_modified_at: 2020-10-03T14:25:14.602+0100
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [kare-tepe,moria,melilla,lead-poisoning,digest]
 description: Are You Syrious?
 image:
-  path: assets/f6f1e85bd001/0*KGm2Ii3ofuQJV83J.jpeg
+  path: ../assets/f6f1e85bd001/0*KGm2Ii3ofuQJV83J.jpeg
 ---
 
 ### AYS Daily Digest 2/10/2020: 1300 people still stuck in the CETI in Melilla
 
 
-![](assets/f6f1e85bd001/0*jOyklzpGjEolpomb.jpeg)
+![](../assets/f6f1e85bd001/0*jOyklzpGjEolpomb.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----6592109a6e66--------------------------------)
@@ -23,11 +23,11 @@ image:
 Kara Tepe new camp may have been built on toxic soil / Repatriations from Spanish enclaves to Morocco after month of border closure / Italy and Tunisia agree on doubling deportations / New police raid in Calais / Updates from the Med, Greece, Bosnia…
 
 
-![](assets/f6f1e85bd001/0*xr7F-fTOceaqlxAV)
+![](../assets/f6f1e85bd001/0*xr7F-fTOceaqlxAV)
 
 
 
-![](assets/f6f1e85bd001/0*KGm2Ii3ofuQJV83J.jpeg)
+![](../assets/f6f1e85bd001/0*KGm2Ii3ofuQJV83J.jpeg)
 
 ### FEATURED — 1300 people still stuck in the CETI in Melilla, despite supreme court ruling
 
@@ -63,19 +63,19 @@ GREECE
 We have already reported about the possible contamination of the area in which the so\-called ‘Moria 2’ was hastily built\. Until last year, the area was used as an active shooting range for the Greek Army\. Mission Lifeline [reported](https://twitter.com/SEENOTRETTUNG/status/1310141074925654016) about sighting soldiers checking the ground with metal detectors, and unearthing operations to retrieve what seemed to be a mine\.
 
 
-![](assets/f6f1e85bd001/0*QsqE2zY8BM12nUkp)
+![](../assets/f6f1e85bd001/0*QsqE2zY8BM12nUkp)
 
 
 
-![](assets/f6f1e85bd001/0*zQk4AcLmySwYHatt.jpeg)
+![](../assets/f6f1e85bd001/0*zQk4AcLmySwYHatt.jpeg)
 
 
 
-![](assets/f6f1e85bd001/0*MfTiBMRhaF1Eg2cu)
+![](../assets/f6f1e85bd001/0*MfTiBMRhaF1Eg2cu)
 
 
 
-![](assets/f6f1e85bd001/0*B46x6G5lAzLjvbTF.jpeg)
+![](../assets/f6f1e85bd001/0*B46x6G5lAzLjvbTF.jpeg)
 
 
 On Friday, Aegean Boat Report [published](https://www.facebook.com/AegeanBoatReport/posts/934839927039112) more information on the situation:
@@ -219,11 +219,11 @@ Local media [report](https://radiosarajevo.ba/vijesti/bosna-i-hercegovina/cikoti
 
 
 
-![](assets/f6f1e85bd001/0*vyLCS-iiTB6TZs5z)
+![](../assets/f6f1e85bd001/0*vyLCS-iiTB6TZs5z)
 
 
 
-![](assets/f6f1e85bd001/0*5AA6Cwj1lTzqwzxZ.jpeg)
+![](../assets/f6f1e85bd001/0*5AA6Cwj1lTzqwzxZ.jpeg)
 
 
 
@@ -256,11 +256,11 @@ Care4Calais [report](https://www.facebook.com/care4calais/posts/3695122660520664
 
 
 
-![](assets/f6f1e85bd001/0*FVy7PaJ_IvBCvIKf)
+![](../assets/f6f1e85bd001/0*FVy7PaJ_IvBCvIKf)
 
 
 
-![](assets/f6f1e85bd001/0*5ZspRLHHLO4wQS-Q.jpeg)
+![](../assets/f6f1e85bd001/0*5ZspRLHHLO4wQS-Q.jpeg)
 
 
 

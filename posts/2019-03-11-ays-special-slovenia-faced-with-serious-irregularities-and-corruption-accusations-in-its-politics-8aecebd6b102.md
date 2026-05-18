@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Slovenia faced with serious irregularities and corruption accusations in its politics…
+title: "AYS SPECIAL: Slovenia faced with serious irregularities and corruption accusations in its politics…"
 author: Are You Syrious?
 date: 2019-03-11T12:42:28.049+0000
 last_modified_at: 2019-03-12T00:41:34.051+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,slovenia,special,europe,asylum]
 description: Since 1995, Slovenia granted 818 people with asylum status. Today, people from Iran or Afghanistan do get asylum in Slovenia, but for…
 image:
-  path: assets/8aecebd6b102/1*hEDxIRj37U8x7ST8nuVSdg.jpeg
+  path: ../assets/8aecebd6b102/1*hEDxIRj37U8x7ST8nuVSdg.jpeg
 ---
 
 ### **AYS SPECIAL: Slovenia faced with serious irregularities and corruption accusations in its politics of border control**
@@ -15,7 +15,7 @@ image:
 _Since 1995, Slovenia granted 818 people with asylum status\. Today, people from Iran or Afghanistan do get asylum in Slovenia, but for people from Algeria, Morocco or Pakistan, rejection rate is 100 percent\._
 
 
-![State border, Slovenia\. By PBS Slovenia\.](assets/8aecebd6b102/1*hEDxIRj37U8x7ST8nuVSdg.jpeg)
+![State border, Slovenia\. By PBS Slovenia\.](../assets/8aecebd6b102/1*hEDxIRj37U8x7ST8nuVSdg.jpeg)
 
 State border, Slovenia\. By PBS Slovenia\.
 

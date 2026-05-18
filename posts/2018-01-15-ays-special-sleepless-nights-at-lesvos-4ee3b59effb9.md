@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Sleepless nights at Lesvos
+title: "AYS SPECIAL: Sleepless nights at Lesvos"
 author: Are You Syrious?
 date: 2018-01-15T09:49:59.841+0000
 last_modified_at: 2018-03-01T13:43:57.267+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,lesvos,moria,skala-sykamnias,special]
 description: What does it mean to be volunteer as a part of the emergency response team at Lesvos, and how to cope with coming back to every day life. A…
 image:
-  path: assets/4ee3b59effb9/1*qMoWjAx4CICl_ztZgqSVgg.jpeg
+  path: ../assets/4ee3b59effb9/1*qMoWjAx4CICl_ztZgqSVgg.jpeg
 ---
 
 ### AYS SPECIAL: Sleepless nights at Lesvos
@@ -15,7 +15,7 @@ image:
 _What does it mean to be volunteer as a part of the emergency response team at Lesvos, and how to cope with coming back to every day life\. A story from a volunteer\._
 
 
-![Photo by Samuel Nacar\.](assets/4ee3b59effb9/1*qMoWjAx4CICl_ztZgqSVgg.jpeg)
+![Photo by Samuel Nacar\.](../assets/4ee3b59effb9/1*qMoWjAx4CICl_ztZgqSVgg.jpeg)
 
 Photo by Samuel Nacar\.
 
@@ -28,7 +28,7 @@ The influx of refugees crossing that sea may have decreased after the EU\-Turkey
 The tiny fishing village of Skala Sykamnias, situated approximately 10 km away from the Turkish shore, had been a witness to the arrivals of refugees on its shore for years now\. In this village, a couple of non\-profits organizations, along with their around\-the\-clock team of emergency response volunteers from different countries around the globe, keep a watchful eye across the Aegean Sea, responding to all the north shore landings\.
 
 
-![Photo by Josh Klein](assets/4ee3b59effb9/1*Yo0uAsW_szDixAM2XgBA3w.jpeg)
+![Photo by Josh Klein](../assets/4ee3b59effb9/1*Yo0uAsW_szDixAM2XgBA3w.jpeg)
 
 Photo by Josh Klein
 
@@ -51,7 +51,7 @@ Later that night, while drifting through my insomnia, an older man approached me
 He taught me some words in Farsi, possibly to assert his trust, it didn’t take him long before he shared his story of how he was unjustly imprisoned for years in his home country, and showed me a piece of paper given to him by a non\-profit saying that he was visited by delegates when he was over there, and that they were able to let him out after having spent time locked down without any official judgement\.
 
 
-![Photo by Josh Klein](assets/4ee3b59effb9/1*IqvIf_x40chP-3zK6sTZ9w.jpeg)
+![Photo by Josh Klein](../assets/4ee3b59effb9/1*IqvIf_x40chP-3zK6sTZ9w.jpeg)
 
 Photo by Josh Klein
 
@@ -82,7 +82,7 @@ We know what’s waiting for them at Moria\. We heard the stories, they haven’
 When working in this kind of emergency response — when a landing occurs — protocol is essential; otherwise you risk to be charged with human trafficking and misjudgment\.
 
 
-![Photo by Josh Klein](assets/4ee3b59effb9/1*7EuvZS4E_E5VB1NyxVXFyA.jpeg)
+![Photo by Josh Klein](../assets/4ee3b59effb9/1*7EuvZS4E_E5VB1NyxVXFyA.jpeg)
 
 Photo by Josh Klein
 

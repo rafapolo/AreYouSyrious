@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 8/1/2018: Second instance verdict for Ahmed H. in Hungary expected on Friday
+title: "AYS DAILY DIGEST 8/1/2018: Second instance verdict for Ahmed H. in Hungary expected on Friday"
 author: Are You Syrious?
 date: 2018-01-09T11:04:54.226+0000
 last_modified_at: 2018-01-09T11:04:54.226+0000
@@ -7,7 +7,7 @@ categories:
 tags: [europe,ahmed-h,hungary,greece,france]
 description: Retrial for Ahmed H. in Szeged to continue on Wednesday // The wall between Turkey and Iran to be finished soon // More arrivals to Greece…
 image:
-  path: assets/724268de656b/1*MMDy3tYmMr4p25cB0ghRog.jpeg
+  path: ../assets/724268de656b/1*MMDy3tYmMr4p25cB0ghRog.jpeg
 ---
 
 ### AYS DAILY DIGEST 8/1/2018: Second instance verdict for Ahmed H\. in Hungary expected on Friday
@@ -15,7 +15,7 @@ image:
 _Retrial for Ahmed H\. in Szeged to continue on Wednesday // The wall between Turkey and Iran to be finished soon // More arrivals to Greece // Austria, and France to introduce tougher rules for people on the move this year // Help is needed for people all over Europe_
 
 
-![Photo by Free the Röszke 11\.](assets/724268de656b/1*MMDy3tYmMr4p25cB0ghRog.jpeg)
+![Photo by Free the Röszke 11\.](../assets/724268de656b/1*MMDy3tYmMr4p25cB0ghRog.jpeg)
 
 Photo by Free the Röszke 11\.
 ### Feature
@@ -31,7 +31,7 @@ Some people threw stones, including Ahmed\. But news footage also clearly shows 
 Afterwards, Ahmed H\. and 10 more people, were randomly captured by the police\. The other were charged for “illegal border crossing” and “participation in a mass riot”, while Ahmed is indicted as a leader of protests\.
 
 
-![](assets/724268de656b/1*D9ka5FO1487525ZuATprtA.png)
+![](../assets/724268de656b/1*D9ka5FO1487525ZuATprtA.png)
 
 
 Ahmed is held in a high\-security prison in Budapest since the first instance verdict was pronounced on November 30th, 2016\.
@@ -93,7 +93,7 @@ Jafra team has a new campaign\.
 [Khora](https://www.facebook.com/KhoraAthens/posts/819946231511320) will be hosting an info session led by the lawyers of Aitima NGO next Monday \(15/01/18\) titled “Information on asylum\-related issues and administrative detention”\!
 
 
-![](assets/724268de656b/1*gpeLwr5zmsg9TdtRSbnS1Q.jpeg)
+![](../assets/724268de656b/1*gpeLwr5zmsg9TdtRSbnS1Q.jpeg)
 
 
 Clothes for men is needed all over Greece\. This means that men are being left out in the cold without warm clothes\.
@@ -175,7 +175,7 @@ For those who’ve been forced to flee their homes, there is simply no financial
 Without a credit history, there is no available finance\.
 
 
-![](assets/724268de656b/1*zEPdmAw0Yt4aZRcmJRCH5A.png)
+![](../assets/724268de656b/1*zEPdmAw0Yt4aZRcmJRCH5A.png)
 
 
 The RefuAid: Equal Access Loan is changing this\. We are lending funds interest\-free to refugees who require funding in order to requalify and return to work\. Without access to the Equal Access Loan neurosurgeons end up working as care assistants, accountants end up working in kebab shops and nurses end up working as taxi drivers\.

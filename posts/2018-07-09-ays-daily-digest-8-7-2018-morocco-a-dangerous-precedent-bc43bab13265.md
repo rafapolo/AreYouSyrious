@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 8/7/2018 Morocco: a dangerous precedent
+title: "AYS Daily Digest 8/7/2018 Morocco: a dangerous precedent"
 author: Are You Syrious?
 date: 2018-07-09T11:37:57.895+0100
 last_modified_at: 2018-07-09T12:06:51.902+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,savepikpa,thessaloniki,morocco]
 description: Italy vows to close port to international missions and to lift arms embargo to Libya /// Women’s collective We Are Here squat a building in…
 image:
-  path: assets/bc43bab13265/1*2gA1w3PMamPsalt1VciWgw.jpeg
+  path: ../assets/bc43bab13265/1*2gA1w3PMamPsalt1VciWgw.jpeg
 ---
 
 ### AYS Daily Digest 8/7/2018 Morocco: a dangerous precedent
@@ -15,7 +15,7 @@ image:
 Italy vows to close port to international missions and to lift arms embargo to Libya /// Women’s collective We Are Here squat a building in Amsterdam /// Push\-backs in the Sea /// Member of Solidarity march detained in Calais /// and much more
 
 
-![Migrants stand on the border fence near the Spanish enclave of Melilla \(Photo: Sergi Camara / Somos Migrantes\) \.](assets/bc43bab13265/1*2gA1w3PMamPsalt1VciWgw.jpeg)
+![Migrants stand on the border fence near the Spanish enclave of Melilla \(Photo: Sergi Camara / Somos Migrantes\) \.](../assets/bc43bab13265/1*2gA1w3PMamPsalt1VciWgw.jpeg)
 
 Migrants stand on the border fence near the Spanish enclave of Melilla \(Photo: Sergi Camara / Somos Migrantes\) \.
 #### Feature — Morocco: A dangerous precedent
@@ -138,7 +138,7 @@ GREECE
 #### **\#SAVEPIKPA**
 
 
-![From Catalunya to Lesvos \#SAVEPIKPA\! \! \! \! \! \! \! Thank you for standing in solidarity with hundreds of Kurdish people fleeing Moria when they had nowhere else to go in the past months\. SOLIDARITY IS OUR GREATEST WEAPON AND SOLIDARITY WILL WIN\! \(Photo by [La Vall Amb Les Rifugiades](https://www.facebook.com/lavall.ambelsrefugiats.73) \)](assets/bc43bab13265/1*IU8ZeJjuhV9TGWlFnJi3yw.jpeg)
+![From Catalunya to Lesvos \#SAVEPIKPA\! \! \! \! \! \! \! Thank you for standing in solidarity with hundreds of Kurdish people fleeing Moria when they had nowhere else to go in the past months\. SOLIDARITY IS OUR GREATEST WEAPON AND SOLIDARITY WILL WIN\! \(Photo by [La Vall Amb Les Rifugiades](https://www.facebook.com/lavall.ambelsrefugiats.73) \)](../assets/bc43bab13265/1*IU8ZeJjuhV9TGWlFnJi3yw.jpeg)
 
 From Catalunya to Lesvos \#SAVEPIKPA\! \! \! \! \! \! \! Thank you for standing in solidarity with hundreds of Kurdish people fleeing Moria when they had nowhere else to go in the past months\. SOLIDARITY IS OUR GREATEST WEAPON AND SOLIDARITY WILL WIN\! \(Photo by [La Vall Amb Les Rifugiades](https://www.facebook.com/lavall.ambelsrefugiats.73) \)
 #### **Arrivals**
@@ -262,7 +262,7 @@ Sadly for him the Irish vessel is part of EUNAVFOR MED mission, actually lead by
 From [Melting Pot Europa](https://www.facebook.com/meltingpoteuropa/photos/a.165487516816317.35542.137210956310640/1965049636860087/?type=3&theater) :
 
 
-![via Scorticabove, Rome \(photo by [Melting Pot Europa](https://www.facebook.com/meltingpoteuropa/photos/a.165487516816317.35542.137210956310640/1965049636860087/?type=3&theater) \)](assets/bc43bab13265/1*dVgkwp6yE_0R_KdsIwlNzA.jpeg)
+![via Scorticabove, Rome \(photo by [Melting Pot Europa](https://www.facebook.com/meltingpoteuropa/photos/a.165487516816317.35542.137210956310640/1965049636860087/?type=3&theater) \)](../assets/bc43bab13265/1*dVgkwp6yE_0R_KdsIwlNzA.jpeg)
 
 via Scorticabove, Rome \(photo by [Melting Pot Europa](https://www.facebook.com/meltingpoteuropa/photos/a.165487516816317.35542.137210956310640/1965049636860087/?type=3&theater) \)
 
@@ -274,15 +274,15 @@ BOSNIA AND HERZEGOVINA
 #### Updates from Sarajevo
 
 
-![](assets/bc43bab13265/1*vVQgpH7aR-UJH6P550Dydw.jpeg)
+![](../assets/bc43bab13265/1*vVQgpH7aR-UJH6P550Dydw.jpeg)
 
 
 
-![](assets/bc43bab13265/1*naVoxVBpD-3l1J4JvYiN1g.jpeg)
+![](../assets/bc43bab13265/1*naVoxVBpD-3l1J4JvYiN1g.jpeg)
 
 
 
-![Sarajevo train station \(photo by AYS\)](assets/bc43bab13265/1*EW9Y3r8Bd0D-a4bn4FsR2Q.jpeg)
+![Sarajevo train station \(photo by AYS\)](../assets/bc43bab13265/1*EW9Y3r8Bd0D-a4bn4FsR2Q.jpeg)
 
 Sarajevo train station \(photo by AYS\)
 
@@ -294,7 +294,7 @@ NETHERLANDS
 The collective of women of [Wij Zijn Hier \(We are Here\)](http://facebook.com/wijzijnhier) squatted a new building in Amsterdam on Sunday and released a [press statement](https://www.facebook.com/WijZijnHier/posts/1959403290759891) :
 
 
-![“No one choose to be refugee” \(photo by [Wij Zijn Hier](http://facebook.com/wijzijnhier) \)](assets/bc43bab13265/1*xQ5TbeM0ztpnajuJVtmqaQ.jpeg)
+![“No one choose to be refugee” \(photo by [Wij Zijn Hier](http://facebook.com/wijzijnhier) \)](../assets/bc43bab13265/1*xQ5TbeM0ztpnajuJVtmqaQ.jpeg)
 
 “No one choose to be refugee” \(photo by [Wij Zijn Hier](http://facebook.com/wijzijnhier) \)
 
@@ -360,7 +360,7 @@ When the members of the Solidarity March Ventimiglia — London who arrived in C
 A demonstration for the liberation of those still in custody took place at 4pm today \(08\.07\.18\) in front of the ministry of interior in Paris\. A further [demonstration is called](https://www.facebook.com/coordination75sanspapiers/posts/2152421734989091?hc_location=ufi) for Monday \(09\.07\.18\) \.
 
 
-![photo by [La CSP75 — Coordination 75 des Sans Papiers](https://www.facebook.com/coordination75sanspapiers/) ‎](assets/bc43bab13265/1*rnLyz3uTechPx5IYicjHPQ.jpeg)
+![photo by [La CSP75 — Coordination 75 des Sans Papiers](https://www.facebook.com/coordination75sanspapiers/) ‎](../assets/bc43bab13265/1*rnLyz3uTechPx5IYicjHPQ.jpeg)
 
 photo by [La CSP75 — Coordination 75 des Sans Papiers](https://www.facebook.com/coordination75sanspapiers/) ‎
 

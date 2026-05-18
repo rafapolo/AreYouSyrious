@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,border-violence,croatia,migration,moria]
 description: 3 Rescues at Sea in Less than 24 Hours///Video Walkthrough of Moria Shows Unsanitary Conditions///Police Destroy a Squat in…
 image:
-  path: assets/7b874cff9ce5/0*-GRS2wz6haR_uonM
+  path: ../assets/7b874cff9ce5/0*-GRS2wz6haR_uonM
 ---
 
 ### AYS Daily Digest 28/01/20 — MEPs Confront Croatian Minister Over Border Violence
 #### 3 Rescues at Sea in Less than 24 Hours///Video Walkthrough of Moria Shows Unsanitary Conditions///Police Destroy a Squat in Serbia///Police Fire at People on the Move at Hungarian Border/// **higher rates of asylum applications being denied in Italy** & more news
 
 
-![MEP Clare Daly holds up a photo of a person beaten by Croatian police\. Source: [GUENGL](https://twitter.com/GUENGL/status/1221825813286395905)](assets/7b874cff9ce5/0*-GRS2wz6haR_uonM)
+![MEP Clare Daly holds up a photo of a person beaten by Croatian police\. Source: [GUENGL](https://twitter.com/GUENGL/status/1221825813286395905)](../assets/7b874cff9ce5/0*-GRS2wz6haR_uonM)
 
 MEP Clare Daly holds up a photo of a person beaten by Croatian police\. Source: [GUENGL](https://twitter.com/GUENGL/status/1221825813286395905)
 
@@ -82,7 +82,7 @@ GREECE
 Journalist Eric Maddox is collaborating with Are You Syrious for a special series on his podcast, Latitude Adjustment, which will be released soon\. In advance of the podcast release, he published a short video walkthrough of Moria on his Youtube [channel](https://www.youtube.com/watch?v=jQoteX1yE8o&feature=youtu.be&fbclid=IwAR0HX3M_j3329DibnLfTEgI46EoE9YwmZUZr4m7fn0WvuMd8_k903xYvG48) \.
 
 
-[![Moria Refugee Camp Walk-Through: Part 1](assets/7b874cff9ce5/f830_hqdefault.jpg "Moria Refugee Camp Walk-Through: Part 1")](https://www.youtube.com/watch?v=jQoteX1yE8o)
+[![Moria Refugee Camp Walk-Through: Part 1](../assets/7b874cff9ce5/f830_hqdefault.jpg "Moria Refugee Camp Walk-Through: Part 1")](https://www.youtube.com/watch?v=jQoteX1yE8o)
 
 
 

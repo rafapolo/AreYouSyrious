@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,greece,moria]
 description: People Aboard Open Arms Finally Allowed to Disembark///50 People in Distress Because of Medicane///New Monthly Report From BVMN///&More
 image:
-  path: assets/eef0253e8f08/0*RWPjw-ZllyGGhB8N
+  path: ../assets/eef0253e8f08/0*RWPjw-ZllyGGhB8N
 ---
 
 ### AYS Daily Digest 18/09/2020—Greek Government Publishes Lies, Vilifies NGOs in Statement to Asylum Seekers
@@ -15,7 +15,7 @@ image:
 People Aboard Open Arms Finally Allowed to Disembark///50 People in Distress Because of Medicane///New Monthly Report From BVMN///&More
 
 
-![Cartoon by Eneko, via [Proactiva Open Arms](https://www.facebook.com/proactivaservice/posts/3528992347131591)](assets/eef0253e8f08/0*RWPjw-ZllyGGhB8N)
+![Cartoon by Eneko, via [Proactiva Open Arms](https://www.facebook.com/proactivaservice/posts/3528992347131591)](../assets/eef0253e8f08/0*RWPjw-ZllyGGhB8N)
 
 Cartoon by Eneko, via [Proactiva Open Arms](https://www.facebook.com/proactivaservice/posts/3528992347131591)
 
@@ -25,7 +25,7 @@ FEATURE
 The Ministry of Migration & Asylum has published a positively Orwellian statement, ironically titled “ [Respect and Solidarity](https://migration.gov.gr/respect-and-solidarity/?fbclid=IwAR1rRjndP4bGVa6lfKb6Zd6A4FrdosNfS4r2he8SUOFm179shF0k_yia8so) ”\. The statement aims to encourage people to go to the new Kara Tepe camp, but it contains blatant lies as well as vilification of NGOs\.
 
 
-![Screenshot courtesy of [HIASGreece](https://twitter.com/HIASGreece/status/1306881347596816384)](assets/eef0253e8f08/0*2xOhEgv-uVqt-cP6)
+![Screenshot courtesy of [HIASGreece](https://twitter.com/HIASGreece/status/1306881347596816384)](../assets/eef0253e8f08/0*2xOhEgv-uVqt-cP6)
 
 Screenshot courtesy of [HIASGreece](https://twitter.com/HIASGreece/status/1306881347596816384)
 
@@ -76,7 +76,7 @@ Organizations like [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelm
 Even in the midst of such tragedy and confusion on Lesvos, Stand By Me Lesvos also helped [Leros Refugee Youth Group](https://www.facebook.com/www.standbymelesvos.gr/posts/718614012064957) buy food for people in quarantine\. This is the work solidarity groups do, despite their villainization by the government\!
 
 
-![Getting ready to move to the new camp\. From [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/photos/pcb.186680232975044/186680086308392/)](assets/eef0253e8f08/0*pS9gM2vAuS2dBSHO)
+![Getting ready to move to the new camp\. From [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/photos/pcb.186680232975044/186680086308392/)](../assets/eef0253e8f08/0*pS9gM2vAuS2dBSHO)
 
 Getting ready to move to the new camp\. From [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/photos/pcb.186680232975044/186680086308392/)
 
@@ -132,7 +132,7 @@ In August, a whopping 692 people were victims of border violence across the regi
 You can read more about this practice and other incidents of border violence in the August report, available [here](https://www.borderviolence.eu/wp-content/uploads/Working-Doc-August-Report-BVMN-2.pdf) \.
 
 
-![A man fills up his water bottle in the dirty river\. People on the move in Velika Kladusa have no access to clean water due to restrictions by the authorities\. Photo credit: [No Name Kitchen](https://twitter.com/NoNameKitchen1/status/1306844889926246405)](assets/eef0253e8f08/0*yoknrkCJ_fdmPuEh)
+![A man fills up his water bottle in the dirty river\. People on the move in Velika Kladusa have no access to clean water due to restrictions by the authorities\. Photo credit: [No Name Kitchen](https://twitter.com/NoNameKitchen1/status/1306844889926246405)](../assets/eef0253e8f08/0*yoknrkCJ_fdmPuEh)
 
 A man fills up his water bottle in the dirty river\. People on the move in Velika Kladusa have no access to clean water due to restrictions by the authorities\. Photo credit: [No Name Kitchen](https://twitter.com/NoNameKitchen1/status/1306844889926246405)
 

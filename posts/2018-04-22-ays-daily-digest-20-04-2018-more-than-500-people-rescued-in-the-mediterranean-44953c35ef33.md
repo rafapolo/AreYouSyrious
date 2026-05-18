@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 21/04/2018: More than 500 people rescued in the Mediterranean
+title: "AYS DAILY DIGEST 21/04/2018: More than 500 people rescued in the Mediterranean"
 author: Are You Syrious?
 date: 2018-04-22T00:02:38.911+0100
 last_modified_at: 2018-04-22T17:15:07.547+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,mediterranean,greece,bosnia]
 description: Sea-Watch again confronted by the Libyan Coast Guard / Greece wants to pass a bill to stop newly arrived people from moving to the mainland…
 image:
-  path: assets/44953c35ef33/1*NS4Puy9SMj1FlK8JOKCPBQ.jpeg
+  path: ../assets/44953c35ef33/1*NS4Puy9SMj1FlK8JOKCPBQ.jpeg
 ---
 
 ### AYS DAILY DIGEST 21/04/2018: More than 500 people rescued in the Mediterranean
@@ -20,7 +20,7 @@ image:
 
 
 
-![One of the rescue missions today\. Credits: [SOS MEDITERRANEE Italia](https://www.facebook.com/sosmeditalia/photos/pcb.2020265184890132/2020265134890137/?type=3&theater&ifg=1)](assets/44953c35ef33/1*NS4Puy9SMj1FlK8JOKCPBQ.jpeg)
+![One of the rescue missions today\. Credits: [SOS MEDITERRANEE Italia](https://www.facebook.com/sosmeditalia/photos/pcb.2020265184890132/2020265134890137/?type=3&theater&ifg=1)](../assets/44953c35ef33/1*NS4Puy9SMj1FlK8JOKCPBQ.jpeg)
 
 One of the rescue missions today\. Credits: [SOS MEDITERRANEE Italia](https://www.facebook.com/sosmeditalia/photos/pcb.2020265184890132/2020265134890137/?type=3&theater&ifg=1)
 ### Sea
@@ -36,7 +36,7 @@ In another case that Sea\-Watch documented today, the MRCC reported another boat
 With more than 530 survivors, the Aquarius is now on its way to Italy to disembark the people\.
 
 
-![Some people jumped into the water screaming “No Libya”\. Credits: [Sea\-Watch Italy](https://twitter.com/SeaWatchItaly/status/987751058863771649)](assets/44953c35ef33/1*EoSLwSKRysS0oC5VU-bk-g.jpeg)
+![Some people jumped into the water screaming “No Libya”\. Credits: [Sea\-Watch Italy](https://twitter.com/SeaWatchItaly/status/987751058863771649)](../assets/44953c35ef33/1*EoSLwSKRysS0oC5VU-bk-g.jpeg)
 
 Some people jumped into the water screaming “No Libya”\. Credits: [Sea\-Watch Italy](https://twitter.com/SeaWatchItaly/status/987751058863771649)
 ### Greece
@@ -44,7 +44,7 @@ Some people jumped into the water screaming “No Libya”\. Credits: [Sea\-Watc
 Will newly arrived people on the Greek islands finally have the right to move to the mainland? A court recently overturned the restrictions last week, as AYS previously [reported](ays-daily-digest-17-4-18-going-public-about-the-croatian-police-pressure-and-false-charges-against-b4ac9af94009) \. However, this does not necessarily mean that people will have the possibility to do so\. As RefuComm informs: “A new bill was brought to the Greek Parliament on Thursday 19th April with a view to making it legal for the Greek Asylum Service to restrict movement\.” Also Greek authorities stated, they will not allow the people to move to the mainland\. “ Therefore, the restriction of movement will unfortunately remain,” RefuComm says\. Their [post](https://www.facebook.com/notes/refucomm/rumours/597548727263600/) is also available in Arabic and Farsi\. Additionally, they posted a film, which explains the situation on the Greek islands\.
 
 
-[![Asylum in Greece - Border Procedures](assets/44953c35ef33/50d8_hqdefault.jpg "Asylum in Greece - Border Procedures")](http://www.youtube.com/watch?v=HXcBl_PYKls)
+[![Asylum in Greece - Border Procedures](../assets/44953c35ef33/50d8_hqdefault.jpg "Asylum in Greece - Border Procedures")](http://www.youtube.com/watch?v=HXcBl_PYKls)
 
 
 On Lesvos, Moria residents continued to protest at the Sappho Squre in Mytilini\. They demand better treatment, as a man died due to the lack of medical support this week \( [read the AYS report about it](ays-daily-digest-19-04-18-how-many-more-people-will-die-on-the-aegean-islands-3ec1132f00aa) \) \.

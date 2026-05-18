@@ -1,5 +1,5 @@
 ---
-title: AYS Digest 29/8: Despite seeds of support sprouting, time ticks on.
+title: "AYS Digest 29/8: Despite seeds of support sprouting, time ticks on."
 author: Are You Syrious?
 date: 2016-08-29T23:58:59.294+0100
 last_modified_at: 2016-08-30T04:42:36.453+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,syria,calais,italy]
 description: Women’s health in focus on Chios. Solidarity after Notara 26 attacks. More peaceful protests in Softex. September asylum schedule released…
 image:
-  path: assets/ac54e4885440/1*fJtedocP-WPwKsKGu92dwg.jpeg
+  path: ../assets/ac54e4885440/1*fJtedocP-WPwKsKGu92dwg.jpeg
 ---
 
 ### AYS Digest 29/8: Despite seeds of support sprouting, time ticks on\.
@@ -15,7 +15,7 @@ image:
 _Women’s health in focus on Chios\. Solidarity after Notara 26 attacks\. More peaceful protests in Softex\. September asylum schedule released\. Plans to send refugee children to school in Greece\. Calais administrator seeks to give “Jungle” residents more flexible application options\._
 
 
-![Artwork from Greece by Razan Issa\. Photo Courtesy of [Through Refugee Eyes](https://www.facebook.com/throughrefugeeeyes/photos/a.267469110309533.1073741828.266986607024450/337433763313067/?type=3&theater)](assets/ac54e4885440/1*fJtedocP-WPwKsKGu92dwg.jpeg)
+![Artwork from Greece by Razan Issa\. Photo Courtesy of [Through Refugee Eyes](https://www.facebook.com/throughrefugeeeyes/photos/a.267469110309533.1073741828.266986607024450/337433763313067/?type=3&theater)](../assets/ac54e4885440/1*fJtedocP-WPwKsKGu92dwg.jpeg)
 
 Artwork from Greece by Razan Issa\. Photo Courtesy of [Through Refugee Eyes](https://www.facebook.com/throughrefugeeeyes/photos/a.267469110309533.1073741828.266986607024450/337433763313067/?type=3&theater)
 
@@ -84,7 +84,7 @@ The UN’s tortured history with neutrality in conflicts is nothing new; however
 The Education Ministry of Greece, in partnership with UNICEF, intends to send thousands of refugee children to school, either in camps or bussed into nearby Greek schools\. [According to the report](http://greece.greekreporter.com/2016/08/29/refugee-children-to-start-attending-school-classes-september-in-greece/?utm_source=dlvr.it&utm_medium=twitter) , the project will educate 8,500 students — which is **still less than half of the total school\-aged population of 18,000\.** However, although this step is only incremental, it is a step in the right direction, and it is hoped that these children will be back on the path to academic achievement\.
 
 
-![“We will continue to stay, and we will continue to say” Photo Credit: [**Abood Midilji**](https://www.facebook.com/abood.midilji?fref=nf) **‎**](assets/ac54e4885440/1*ookVKb1VtCBe5FKR6DsSDw.jpeg)
+![“We will continue to stay, and we will continue to say” Photo Credit: [**Abood Midilji**](https://www.facebook.com/abood.midilji?fref=nf) **‎**](../assets/ac54e4885440/1*ookVKb1VtCBe5FKR6DsSDw.jpeg)
 
 “We will continue to stay, and we will continue to say” Photo Credit: [**Abood Midilji**](https://www.facebook.com/abood.midilji?fref=nf) **‎**
 #### September Appointment Dates Released
@@ -99,7 +99,7 @@ Mobile Info Team has released their new document, complete with all the informat
 Frontex rescued one boat with 102 people, with support from Emergency Response Centre International, and a Swedish Coast Guard vessel performed a rescue operation on a boat with 54 people\. No fatalities\.
 
 
-![Photo Courtesy: [**ERCI — Emergency Response Centre International**](https://www.facebook.com/ercintl/)](assets/ac54e4885440/1*YVwS3rywBvm5iK0Y5nS_gg.jpeg)
+![Photo Courtesy: [**ERCI — Emergency Response Centre International**](https://www.facebook.com/ercintl/)](../assets/ac54e4885440/1*YVwS3rywBvm5iK0Y5nS_gg.jpeg)
 
 Photo Courtesy: [**ERCI — Emergency Response Centre International**](https://www.facebook.com/ercintl/)
 #### Women’s empowerment in Chios
@@ -112,7 +112,7 @@ In other news, the Athena Centre for Women managed by [Action from Switzerland](
 In the wake of the August 24th attack on the Notara squat, solidarity movements have sprung into action to protest the violence, and speak back against its aims\. In addition to a demonstration at Notara, a solidarity demonstration also occurred in Athens\.
 
 
-![Notara 26 Support Demonstration\. Photo Credit: [**Κατάληψη Στέγης Προσφύγων/Μεταναστών Νοταρά 26**](https://www.facebook.com/%CE%9A%CE%B1%CF%84%CE%AC%CE%BB%CE%B7%CF%88%CE%B7-%CE%A3%CF%84%CE%AD%CE%B3%CE%B7%CF%82-%CE%A0%CF%81%CE%BF%CF%83%CF%86%CF%8D%CE%B3%CF%89%CE%BD%CE%9C%CE%B5%CF%84%CE%B1%CE%BD%CE%B1%CF%83%CF%84%CF%8E%CE%BD-%CE%9D%CE%BF%CF%84%CE%B1%CF%81%CE%AC-26-645186555621294/)](assets/ac54e4885440/1*HwWjyDuaD9jncKGM0odPtA.jpeg)
+![Notara 26 Support Demonstration\. Photo Credit: [**Κατάληψη Στέγης Προσφύγων/Μεταναστών Νοταρά 26**](https://www.facebook.com/%CE%9A%CE%B1%CF%84%CE%AC%CE%BB%CE%B7%CF%88%CE%B7-%CE%A3%CF%84%CE%AD%CE%B3%CE%B7%CF%82-%CE%A0%CF%81%CE%BF%CF%83%CF%86%CF%8D%CE%B3%CF%89%CE%BD%CE%9C%CE%B5%CF%84%CE%B1%CE%BD%CE%B1%CF%83%CF%84%CF%8E%CE%BD-%CE%9D%CE%BF%CF%84%CE%B1%CF%81%CE%AC-26-645186555621294/)](../assets/ac54e4885440/1*HwWjyDuaD9jncKGM0odPtA.jpeg)
 
 Notara 26 Support Demonstration\. Photo Credit: [**Κατάληψη Στέγης Προσφύγων/Μεταναστών Νοταρά 26**](https://www.facebook.com/%CE%9A%CE%B1%CF%84%CE%AC%CE%BB%CE%B7%CF%88%CE%B7-%CE%A3%CF%84%CE%AD%CE%B3%CE%B7%CF%82-%CE%A0%CF%81%CE%BF%CF%83%CF%86%CF%8D%CE%B3%CF%89%CE%BD%CE%9C%CE%B5%CF%84%CE%B1%CE%BD%CE%B1%CF%83%CF%84%CF%8E%CE%BD-%CE%9D%CE%BF%CF%84%CE%B1%CF%81%CE%AC-26-645186555621294/)
 
@@ -128,7 +128,7 @@ The message remains clear: Notara 26 will stand\.
 Residents of Softex have organized a street art campaign in their camp to speak out about the conditions they are facing\.
 
 
-![The text reads: “Peaceful sit ins in Greece, 1/9/2016” Photo: [**Ahmad Hamed**](https://www.facebook.com/profile.php?id=100009978310412) ‎](assets/ac54e4885440/1*HA-kYgTMTn3NAGEAc7FoCQ.jpeg)
+![The text reads: “Peaceful sit ins in Greece, 1/9/2016” Photo: [**Ahmad Hamed**](https://www.facebook.com/profile.php?id=100009978310412) ‎](../assets/ac54e4885440/1*HA-kYgTMTn3NAGEAc7FoCQ.jpeg)
 
 The text reads: “Peaceful sit ins in Greece, 1/9/2016” Photo: [**Ahmad Hamed**](https://www.facebook.com/profile.php?id=100009978310412) ‎
 
@@ -176,7 +176,7 @@ Most of these minors are between 14 and 17, and, according to the BKA, it’s as
 This news comes as Germany is in the midst of revising last year’s estimate of 1\.1 million total arrivals\. The German government is assessing these figures in order to account for double registrations, as well as cases that did not meet the formal requirements for asylum\. Additionally, the German government [pointed out that around 40%](http://www.aljazeera.com/news/2016/08/germany-revising-2015-refugee-figures-160828064310853.html) of those who have arrived have work experience, despite lacking formal vocational training\. These skills will prove crucial to the economic aspect of their eventual integration into German society\.
 
 
-![Photo Credit: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)](assets/ac54e4885440/1*C-9QKjFaQ6806OS9lHUnWQ.jpeg)
+![Photo Credit: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)](../assets/ac54e4885440/1*C-9QKjFaQ6806OS9lHUnWQ.jpeg)
 
 Photo Credit: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)
 ### FRANCE

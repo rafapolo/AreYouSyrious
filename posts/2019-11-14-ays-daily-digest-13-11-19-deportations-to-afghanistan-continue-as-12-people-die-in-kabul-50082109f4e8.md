@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,vucjak,paris,racism]
 description: Situation worsen in Leros island – Daily discrimination in Lesvos – Paris in crisis, again – 24-hrs curfew to be implemented in Miral &…
 image:
-  path: assets/50082109f4e8/1*GsfmOeirKBhi5YkVBWi_4Q.jpeg
+  path: ../assets/50082109f4e8/1*GsfmOeirKBhi5YkVBWi_4Q.jpeg
 ---
 
 ### AYS Daily Digest 13/11/19 — Sweden: Deportations to Afghanistan continue as 9 adults and 3 children die in Kabul
@@ -15,7 +15,7 @@ image:
 Situation worsen on Leros Island /// Daily discrimination in Lesvos /// Paris in crisis, again /// 24\-hour curfew to be implemented in Miral and Bira /// Vucjak, Bosnian government favourite camp …
 
 
-![\(Photo Credit: [Solidarité migrants Wilson](https://www.facebook.com/Solidarité-migrants-Wilson-598228360377940/?__xts__%5B0%5D=68.ARCcBv6xJ2P0sj4uTySzgdYUqvLKDJgdrqvuqyFDB8wAI8m58gPXicCyCe4plt2FQybcBVV79iJp7-oAfw26NjOR0bV957CrKXUz317MsREOoltqoHm3NclDn2OrcqPcIPb42LQ0A3W7Ratl2pAVklxseAhDq0Zz4bVzewyh38lcuhaU2GkAEQg6OMgJzpk9Uocx6Lv_A_E_EAiIY4bfm7IIgJbRf7phvN-uKMGX2JSJeFc82NYSVBCFw32q6Q9_hBE_luMw9XSWOk6Xt91Nem09Z-JlH3qwEqZXIWnKRPFyOAAzJD4lhsE9LOU6OgwLLJkHVgKxEGWpq-dQvyIbVLGN5w&__tn__=k%2AF&tn-str=k%2AF) \)](assets/50082109f4e8/1*GsfmOeirKBhi5YkVBWi_4Q.jpeg)
+![\(Photo Credit: [Solidarité migrants Wilson](https://www.facebook.com/Solidarité-migrants-Wilson-598228360377940/?__xts__%5B0%5D=68.ARCcBv6xJ2P0sj4uTySzgdYUqvLKDJgdrqvuqyFDB8wAI8m58gPXicCyCe4plt2FQybcBVV79iJp7-oAfw26NjOR0bV957CrKXUz317MsREOoltqoHm3NclDn2OrcqPcIPb42LQ0A3W7Ratl2pAVklxseAhDq0Zz4bVzewyh38lcuhaU2GkAEQg6OMgJzpk9Uocx6Lv_A_E_EAiIY4bfm7IIgJbRf7phvN-uKMGX2JSJeFc82NYSVBCFw32q6Q9_hBE_luMw9XSWOk6Xt91Nem09Z-JlH3qwEqZXIWnKRPFyOAAzJD4lhsE9LOU6OgwLLJkHVgKxEGWpq-dQvyIbVLGN5w&__tn__=k%2AF&tn-str=k%2AF) \)](../assets/50082109f4e8/1*GsfmOeirKBhi5YkVBWi_4Q.jpeg)
 
 \(Photo Credit: [Solidarité migrants Wilson](https://www.facebook.com/Solidarité-migrants-Wilson-598228360377940/?__xts__%5B0%5D=68.ARCcBv6xJ2P0sj4uTySzgdYUqvLKDJgdrqvuqyFDB8wAI8m58gPXicCyCe4plt2FQybcBVV79iJp7-oAfw26NjOR0bV957CrKXUz317MsREOoltqoHm3NclDn2OrcqPcIPb42LQ0A3W7Ratl2pAVklxseAhDq0Zz4bVzewyh38lcuhaU2GkAEQg6OMgJzpk9Uocx6Lv_A_E_EAiIY4bfm7IIgJbRf7phvN-uKMGX2JSJeFc82NYSVBCFw32q6Q9_hBE_luMw9XSWOk6Xt91Nem09Z-JlH3qwEqZXIWnKRPFyOAAzJD4lhsE9LOU6OgwLLJkHVgKxEGWpq-dQvyIbVLGN5w&__tn__=k%2AF&tn-str=k%2AF) \)
 #### FEATURE — Sweden: Deportations to Afghanistan continue as nine adults and three children die in Kabul
@@ -23,7 +23,7 @@ Situation worsen on Leros Island /// Daily discrimination in Lesvos /// Paris in
 Frontex, the EU’s border agency, and the Swedish authorities [deported 30 young Afghans on Tuesday evening](https://tidningensyre.se/2019/12-november/massdeportation-till-kabul-fran-arlanda-ikvall/) \. The Frontex\-chartered plane left from Arlanda Airport north of Stockholm, with Kabul as the final destination\. In Austria another 15 individuals boarded the plane\.
 
 
-![\( [\#](https://www.facebook.com/hashtag/svarttisdag?source=feed_text&epa=HASHTAG) BlackTuesday marked the deportation of 50 people from Sweden to Afghanistan\. Photo Credit: [Yahya Aliyar](https://www.facebook.com/yahya.aliyar/posts/679322539141336) \)](assets/50082109f4e8/1*wGPOOyaN7eWcod8G4PFpmA.jpeg)
+![\( [\#](https://www.facebook.com/hashtag/svarttisdag?source=feed_text&epa=HASHTAG) BlackTuesday marked the deportation of 50 people from Sweden to Afghanistan\. Photo Credit: [Yahya Aliyar](https://www.facebook.com/yahya.aliyar/posts/679322539141336) \)](../assets/50082109f4e8/1*wGPOOyaN7eWcod8G4PFpmA.jpeg)
 
 \( [\#](https://www.facebook.com/hashtag/svarttisdag?source=feed_text&epa=HASHTAG) BlackTuesday marked the deportation of 50 people from Sweden to Afghanistan\. Photo Credit: [Yahya Aliyar](https://www.facebook.com/yahya.aliyar/posts/679322539141336) \)
 
@@ -92,7 +92,7 @@ RSA is reporting on the conditions of the makeshift shelter outside the hotspot 
 
 
 
-[![Hotspot camp in Leros](assets/50082109f4e8/ac8a_hqdefault.jpg "Hotspot camp in Leros")](https://www.youtube.com/watch?v=BWgI_K3xIsk)
+[![Hotspot camp in Leros](../assets/50082109f4e8/ac8a_hqdefault.jpg "Hotspot camp in Leros")](https://www.youtube.com/watch?v=BWgI_K3xIsk)
 
 
 
@@ -142,7 +142,7 @@ A “pork\-and\-booze” barbecue event, organised by the right\-wing group, Uni
 As reported in the [Athens Volunteers Information and Co\-ordination Group](https://www.facebook.com/groups/AthensVolunteersInformation/?ref=group_header) , [PC4R](https://www.pc4r.org/) are finally able to offer phone credit for refugees in Greece\.
 
 
-![](assets/50082109f4e8/1*i4zTIhnIxw1Awy1Otqf48w.jpeg)
+![](../assets/50082109f4e8/1*i4zTIhnIxw1Awy1Otqf48w.jpeg)
 
 
 To be eligible for their service, refugees need to be one of the following:
@@ -167,11 +167,11 @@ BOSNIA AND HERZEGOVINA
 #### Vučjak camp will not close — 24\-hour curfew for migrants to be implemented
 
 
-![](assets/50082109f4e8/1*i5t1_v53AJv7qxw5XhcSDw.jpeg)
+![](../assets/50082109f4e8/1*i5t1_v53AJv7qxw5XhcSDw.jpeg)
 
 
 
-![\(At least 100 of the almost 200 who were in line did NOT get food after waiting for an hour or more in the rain\. Let alone the other 800\+ in the camp [\#vucjak](https://www.facebook.com/hashtag/vucjak?hc_location=ufi) \. Water also runs out frequently\. Photo Credit: [Arye Wachsmuth](https://www.facebook.com/arye.wachsmuth/posts/2793742900676079?hc_location=ufi) \)](assets/50082109f4e8/1*KYR6ld5oQifcoDkpKcK3QA.jpeg)
+![\(At least 100 of the almost 200 who were in line did NOT get food after waiting for an hour or more in the rain\. Let alone the other 800\+ in the camp [\#vucjak](https://www.facebook.com/hashtag/vucjak?hc_location=ufi) \. Water also runs out frequently\. Photo Credit: [Arye Wachsmuth](https://www.facebook.com/arye.wachsmuth/posts/2793742900676079?hc_location=ufi) \)](../assets/50082109f4e8/1*KYR6ld5oQifcoDkpKcK3QA.jpeg)
 
 \(At least 100 of the almost 200 who were in line did NOT get food after waiting for an hour or more in the rain\. Let alone the other 800\+ in the camp [\#vucjak](https://www.facebook.com/hashtag/vucjak?hc_location=ufi) \. Water also runs out frequently\. Photo Credit: [Arye Wachsmuth](https://www.facebook.com/arye.wachsmuth/posts/2793742900676079?hc_location=ufi) \)
 
@@ -192,27 +192,27 @@ This is quite clearly illegal, impossible to regulate and against people’s bas
 #### **Vučjak — the Bosnian Government’s favourite camp**
 
 
-![](assets/50082109f4e8/1*POvbFpyhL8hbGJ2cs4QX-g.jpeg)
+![](../assets/50082109f4e8/1*POvbFpyhL8hbGJ2cs4QX-g.jpeg)
 
 
 
-![](assets/50082109f4e8/1*9VVgACj7fRMh7qxtV6S0JA.jpeg)
+![](../assets/50082109f4e8/1*9VVgACj7fRMh7qxtV6S0JA.jpeg)
 
 
 
-![](assets/50082109f4e8/1*pgTDNDIrYLAv1px2W1AGCg.jpeg)
+![](../assets/50082109f4e8/1*pgTDNDIrYLAv1px2W1AGCg.jpeg)
 
 
 
-![](assets/50082109f4e8/1*69YdMyvEcJhA2DWCFUeE9w.jpeg)
+![](../assets/50082109f4e8/1*69YdMyvEcJhA2DWCFUeE9w.jpeg)
 
 
 
-![](assets/50082109f4e8/1*87-WQZ4QSd1c74zBo4545Q.jpeg)
+![](../assets/50082109f4e8/1*87-WQZ4QSd1c74zBo4545Q.jpeg)
 
 
 
-![\(Photo Credit: [Arye Wachsmuth](https://www.facebook.com/arye.wachsmuth/posts/2793725897344446?hc_location=ufi) \)](assets/50082109f4e8/1*XyqoPYTcWJBhfbUsuVXK9g.jpeg)
+![\(Photo Credit: [Arye Wachsmuth](https://www.facebook.com/arye.wachsmuth/posts/2793725897344446?hc_location=ufi) \)](../assets/50082109f4e8/1*XyqoPYTcWJBhfbUsuVXK9g.jpeg)
 
 \(Photo Credit: [Arye Wachsmuth](https://www.facebook.com/arye.wachsmuth/posts/2793725897344446?hc_location=ufi) \)
 #### Young man forcibly ejected from train
@@ -227,11 +227,11 @@ SERBIA
 [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?__tn__=kC-R&eid=ARCQaHCKh37lKg8mKUYKY-V2s6pVF2jFWZgt9BS2SCRGtsyT9fOrqEYtJter3IWnKoK5SQXFhIDqE8C8&hc_ref=ARTYN-7mSWDXSTAfTBrxISyJLAzveRP9BpQ5152avhAAE9FcOuNJyFhoEDlFxwJ-5GM&fref=nf&__xts__%5B0%5D=68.ARB01sKB7u9wOkWCV-eSbGN-RHYc15RAk0k4SFohOOy4NPbPHlDtq-Er5YnH6Xem5Prs2LHHdyd7F97yFEQF7Mx1tMs70dcUp1e8eGyoCfZ6fHUVzHalim8QGAkfVd32TRcalEGI7g20N7hALqcsPis9TSD0aNrEg0rwsHCh7s9VNrefKU1A9JqBEHYaeTOCqsZi2a7-8v_bDmL77miTCKQ-8RXmfnb0ajCKjooQv_OdHm4idUTkhNps9uEQHEN8pPDKKTmvCjqLdbMFrnbE9cufTCieJaNcn9Rnhn06tU7ktqZHE6WQdMSou_wazGD4NLxxQOZH0x-5j-QqLi_0ELQ) report on the precarious living situation for people at the Serbian/Croatian border desperately trying to move forward on their journeys while facing continuous state violence and brutality\.
 
 
-![](assets/50082109f4e8/1*VOos56EF3717MjZez468og.jpeg)
+![](../assets/50082109f4e8/1*VOos56EF3717MjZez468og.jpeg)
 
 
 
-![\(Photo Credit: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/838732836525002) \)](assets/50082109f4e8/1*Y5XKRZyJn8RM-D52x-O2Ag.jpeg)
+![\(Photo Credit: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/838732836525002) \)](../assets/50082109f4e8/1*Y5XKRZyJn8RM-D52x-O2Ag.jpeg)
 
 \(Photo Credit: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/838732836525002) \)
 #### New Arrivals in Belgrade

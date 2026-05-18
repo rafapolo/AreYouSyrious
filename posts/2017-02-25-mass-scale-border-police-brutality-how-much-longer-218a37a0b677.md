@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,libya,police-brutality,human-trafficking]
 description: New cases of police beatings on the Hungarian border / More lives lost in Libya due to smuggling / Basic humane living conditions — new…
 image:
-  path: assets/218a37a0b677/1*FTZfj8DZWv4vVrSCHPG_Lw.jpeg
+  path: ../assets/218a37a0b677/1*FTZfj8DZWv4vVrSCHPG_Lw.jpeg
 ---
 
 ### AYS daily digest 24/02 — repeated Hungarian police brutality
@@ -15,7 +15,7 @@ image:
 New cases of police beatings on the Hungarian border / More lives lost in Libya due to smuggling / Basic humane living conditions — new toilet facilities in Belgrade / Free clothes shop opened in Athens and more
 
 
-![Belgrade “Bus Station” — Young 14 year old refugee arrives back in Belgrade barracks after being beaten by Hungarian border police in one more try to cross the border\. A total of 75 tried “the game” in the same night and all were brutally attacked, including some that after losing consciousness were bitten by dogs used by police to try to wake them up\. They were accompanied by volunteers and other refugees to Belgrade Hospital, photo/text by Nuno Felicio](assets/218a37a0b677/1*FTZfj8DZWv4vVrSCHPG_Lw.jpeg)
+![Belgrade “Bus Station” — Young 14 year old refugee arrives back in Belgrade barracks after being beaten by Hungarian border police in one more try to cross the border\. A total of 75 tried “the game” in the same night and all were brutally attacked, including some that after losing consciousness were bitten by dogs used by police to try to wake them up\. They were accompanied by volunteers and other refugees to Belgrade Hospital, photo/text by Nuno Felicio](../assets/218a37a0b677/1*FTZfj8DZWv4vVrSCHPG_Lw.jpeg)
 
 Belgrade “Bus Station” — Young 14 year old refugee arrives back in Belgrade barracks after being beaten by Hungarian border police in one more try to cross the border\. A total of 75 tried “the game” in the same night and all were brutally attacked, including some that after losing consciousness were bitten by dogs used by police to try to wake them up\. They were accompanied by volunteers and other refugees to Belgrade Hospital, photo/text by Nuno Felicio
 #### LIBYA
@@ -26,7 +26,7 @@ In the city of Al\-Khums, 115 km to the east of Tripoli, a tragedy happened once
 Earlier this week when the bodies of 74 migrants were found on the shore near Zawiya, the local coast guard said smugglers had removed the engine from their boat, [wrote](http://mobile.reuters.com/article/idUSKBN16225Y) Reuters\.
 
 
-![Photo by Libyan Red Crescent](assets/218a37a0b677/1*0o50u5xp_8hTrWVFFntocQ.jpeg)
+![Photo by Libyan Red Crescent](../assets/218a37a0b677/1*0o50u5xp_8hTrWVFFntocQ.jpeg)
 
 Photo by Libyan Red Crescent
 
@@ -52,15 +52,15 @@ A source from Belgrade writes about a victim of yesterday’s incident:
 
 
 
-![](assets/218a37a0b677/1*aHh1-8fOgAtqG3xxCIEt3Q.jpeg)
+![](../assets/218a37a0b677/1*aHh1-8fOgAtqG3xxCIEt3Q.jpeg)
 
 
 
-![](assets/218a37a0b677/1*7zOz904WXvu8hDa-lTlBzQ.jpeg)
+![](../assets/218a37a0b677/1*7zOz904WXvu8hDa-lTlBzQ.jpeg)
 
 
 
-![Photos by Nuno Felicio](assets/218a37a0b677/1*414-xcNJUnVJd_HochwTeQ.jpeg)
+![Photos by Nuno Felicio](../assets/218a37a0b677/1*414-xcNJUnVJd_HochwTeQ.jpeg)
 
 Photos by Nuno Felicio
 #### New toilet facilities in Belgrade
@@ -70,11 +70,11 @@ Help Refugees funded 15 toilets and four sinks with drainage for refugees living
 The people living at the location have had zero sanitation facilities in freezing conditions until now\. They are living in conditions not fit for any human being\. These toilets are just the first step towards making their living conditions humane, HR write\.
 
 
-![](assets/218a37a0b677/1*Tlw1OVHT8e4cbu7aNzaPDQ.jpeg)
+![](../assets/218a37a0b677/1*Tlw1OVHT8e4cbu7aNzaPDQ.jpeg)
 
 
 
-![Photos by Help Refugees](assets/218a37a0b677/1*OxobKfzAJfYlBNaoKmyX-g.jpeg)
+![Photos by Help Refugees](../assets/218a37a0b677/1*OxobKfzAJfYlBNaoKmyX-g.jpeg)
 
 Photos by Help Refugees
 #### GREECE
@@ -86,11 +86,11 @@ Opening the shop wouldn’t be possible without donors\. If you would like to co
 OPENING HOURS are 11:00–15:00 every day\. Closed on Sundays\.
 
 
-![](assets/218a37a0b677/1*fe3HKs1Y__viLc_mFby5oQ.jpeg)
+![](../assets/218a37a0b677/1*fe3HKs1Y__viLc_mFby5oQ.jpeg)
 
 
 
-![photo credit Hope Cafe\. Refugee Soul Food\.](assets/218a37a0b677/1*qulGbz1GQmNbT2tINLatQg.jpeg)
+![photo credit Hope Cafe\. Refugee Soul Food\.](../assets/218a37a0b677/1*qulGbz1GQmNbT2tINLatQg.jpeg)
 
 photo credit Hope Cafe\. Refugee Soul Food\.
 #### Alexandria
@@ -105,19 +105,19 @@ Refugee Support Greece update on The Katsikas camp project
 
 
 
-![](assets/218a37a0b677/1*O8cLalOH7TkQy_j09aRv8w.jpeg)
+![](../assets/218a37a0b677/1*O8cLalOH7TkQy_j09aRv8w.jpeg)
 
 
 
-![](assets/218a37a0b677/1*431yu7raaRZQ0lUTZ7zOTQ.jpeg)
+![](../assets/218a37a0b677/1*431yu7raaRZQ0lUTZ7zOTQ.jpeg)
 
 
 
-![](assets/218a37a0b677/1*Ymb9RSyCWywMWlfjciChag.jpeg)
+![](../assets/218a37a0b677/1*Ymb9RSyCWywMWlfjciChag.jpeg)
 
 
 
-![photo credit Refugee Support Greece](assets/218a37a0b677/1*Cwv2J_f9A2w9K1J1_03wsQ.jpeg)
+![photo credit Refugee Support Greece](../assets/218a37a0b677/1*Cwv2J_f9A2w9K1J1_03wsQ.jpeg)
 
 photo credit Refugee Support Greece
 #### Chios
@@ -132,7 +132,7 @@ There were four landings today with more than 170 people coming to Chios, Pothit
 
 
 
-![[**Pothiti Kitromilidi**](https://www.facebook.com/pothiti.kitromilidi?fref=nf)](assets/218a37a0b677/1*kD7ZG95d4JiQKr4h7aWqiA.jpeg)
+![[**Pothiti Kitromilidi**](https://www.facebook.com/pothiti.kitromilidi?fref=nf)](../assets/218a37a0b677/1*kD7ZG95d4JiQKr4h7aWqiA.jpeg)
 
 [**Pothiti Kitromilidi**](https://www.facebook.com/pothiti.kitromilidi?fref=nf)
 

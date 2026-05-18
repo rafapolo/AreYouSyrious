@@ -1,24 +1,24 @@
 ---
-title: AYS Weekend News Digest 1–2/8/20: Austria doubling down on detentions and surveillance
+title: "AYS Weekend News Digest 1–2/8/20: Austria doubling down on detentions and surveillance"
 author: Are You Syrious?
 date: 2020-08-03T17:04:46.649+0100
 last_modified_at: 2020-08-03T17:04:46.649+0100
 categories: Are You Syrious?
 tags: []
-description: Austria: 300 people are now in limbo with no end in sight / Detention in Belgium / Lockdown continues in Greece / Video story from Victoria…
+description: "Austria: 300 people are now in limbo with no end in sight / Detention in Belgium / Lockdown continues in Greece / Video story from Victoria…"
 image:
-  path: assets/508f9ca81ffd/0*pw-vs6uyqgEbuvVR.jpeg
+  path: ../assets/508f9ca81ffd/0*pw-vs6uyqgEbuvVR.jpeg
 ---
 
 ### AYS Weekend News Digest 1–2/8/20: Austria doubling down on detentions and surveillance
 #### Austria: 300 people are now in limbo with no end in sight / Detention in Belgium / Lockdown continues in Greece / Video story from Victoria square in Athens / Lampedusa hotspot getting crowded, policies possibly changing / Germany refuses solidarity offers from Berlin / Recommended reads & more news
 
 
-![](assets/508f9ca81ffd/0*9_PmzZmkszFz-Fwj)
+![](../assets/508f9ca81ffd/0*9_PmzZmkszFz-Fwj)
 
 
 
-![](assets/508f9ca81ffd/0*pw-vs6uyqgEbuvVR.jpeg)
+![](../assets/508f9ca81ffd/0*pw-vs6uyqgEbuvVR.jpeg)
 
 
 Photo: [Leipziger Seebrücke — Schafft sichere Häfen](https://www.facebook.com/seebrueckeleipzig/?tn-str=k%2AF&hc_location=group_dialog) , for more info see under ‘Germany’
@@ -147,11 +147,11 @@ The interior ministry reportedly said that the army would guard reception centre
 [Leipziger Seebrücke — Schafft sichere Häfen](https://www.facebook.com/seebrueckeleipzig/?tn-str=k%2AF&hc_location=group_dialog) reported: “Last Friday we held our video screening at Augustusplatz for the second time\. We showed video by [LIFELINE](https://www.facebook.com/seenotrettung/?__tn__=%2CdKH-R-R&eid=ARAi9quXjbHAbWmcQe5bc6ITKCYZswknofAdt8sdbRs2Fap7sGLG0Ou1yUEjRpgcqZOlSuQg9Kw2pjb7&fref=mentions&hc_location=group) and [Moria Corona Awareness Team](https://www.facebook.com/MoriaCoronaAwarenessTeam/?__tn__=%2CdKH-R-R&eid=ARB4Wzyv3iarFrbeE5MXGWE7ln_KAzWXm5voWq2LO55yobFKL6jiecal3CMLHDeEKpHLRnQZCcoRlypz&fref=mentions&hc_location=group) who held interviews with refugees\. We are exited for the opportunity to bring different perspectives on this topic to German cities\! The donations collected on Friday will be going to mission lifeline and Moria Corona Awareness Team\.”
 
 
-![](assets/508f9ca81ffd/0*SGvAsYF9kVMR-Rhk)
+![](../assets/508f9ca81ffd/0*SGvAsYF9kVMR-Rhk)
 
 
 
-![](assets/508f9ca81ffd/0*4E8jwPaGYkM625-M.jpeg)
+![](../assets/508f9ca81ffd/0*4E8jwPaGYkM625-M.jpeg)
 
 
 Photo: [Leipziger Seebrücke — Schafft sichere Häfen](https://www.facebook.com/seebrueckeleipzig/?tn-str=k%2AF&hc_location=group_dialog)

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 4/2/20: 2.9 million people in Syria with no healthcare amidst violence
+title: "AYS Daily Digest 4/2/20: 2.9 million people in Syria with no healthcare amidst violence"
 author: Are You Syrious?
 date: 2020-02-05T11:39:19.883+0000
 last_modified_at: 2020-02-07T18:31:16.178+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,syria,europe,human-rights]
 description: Traffickers arrested in North Macedonia and Spain, Reports of Serbian Police stealing from people on the move, More pushbacks from…
 image:
-  path: assets/805c72f10169/1*qn8d8ON0UwbK5AjSFXvPqw.jpeg
+  path: ../assets/805c72f10169/1*qn8d8ON0UwbK5AjSFXvPqw.jpeg
 ---
 
 ### AYS Daily Digest 4/2/20: An estimated 2\.9 mil\. people in Syria left without healthcare in the midst of violence
@@ -15,7 +15,7 @@ image:
 
 
 ![Northern Syria — camps for displaced people, during freezing winter\. People continue to flee and gather in tent camps to escape war and terror\.
-Photo by Belal Khaled](assets/805c72f10169/1*qn8d8ON0UwbK5AjSFXvPqw.jpeg)
+Photo by Belal Khaled](../assets/805c72f10169/1*qn8d8ON0UwbK5AjSFXvPqw.jpeg)
 
 Northern Syria — camps for displaced people, during freezing winter\. People continue to flee and gather in tent camps to escape war and terror\.
 Photo by Belal Khaled
@@ -286,7 +286,7 @@ The Ministry of Health is no longer providing financial resources for employment
 AYS was recently contacted by a family who was detained in a police station in Slavonski Brod, where they wanted to express the intention to seek asylum, but this was not allowed for them and, without having any legal aid, without any documents given to them, the people were pushed back to Bosnia and Herzegovina, out of the EU and away from an opportunity to seek safety and continuation of a more\-less normal life via the legal option of seeking international protection in an EU Member State\. This happens literally eery day\. Let’s not forget, the EU was a peace project in the beginning…
 
 
-![On the left side of the bridge is Bosanski Brod, part of the Republic of Srpska and Bosnia and Herzegovina, while on the right\-hand side lies Slavonski Brod, a tranzit town in Croatia, region of Slavonia, EU \(Photo: AYS\)](assets/805c72f10169/1*ofdkIzaJUQ14dP87xtSspQ.jpeg)
+![On the left side of the bridge is Bosanski Brod, part of the Republic of Srpska and Bosnia and Herzegovina, while on the right\-hand side lies Slavonski Brod, a tranzit town in Croatia, region of Slavonia, EU \(Photo: AYS\)](../assets/805c72f10169/1*ofdkIzaJUQ14dP87xtSspQ.jpeg)
 
 On the left side of the bridge is Bosanski Brod, part of the Republic of Srpska and Bosnia and Herzegovina, while on the right\-hand side lies Slavonski Brod, a tranzit town in Croatia, region of Slavonia, EU \(Photo: AYS\)
 
@@ -322,7 +322,7 @@ At the ghetto of Borgo Mezzanone and San Ferdinando the umpteenth flames blazed 
 
 
 
-![Photo: [Comitato Lavoratori delle Campagne](https://www.facebook.com/comitatolavoratoridellecampagne/?__xts__%5B0%5D=68.ARAzQMpv9sFn14rs-miLBkHqCzfFtiGp6lEOQZz0nzW2LenZ5_ITTpeYW9eL0Q_t_pLEsiyErNjGpxpAfQlnFtS0VSAXpGblpxmm8F6EmblWTis9lwwK_U5VNpmLQ0GApGXrHMwUYlEuyA-hZRLFIlI0pfZTByB-Bm3WmXhaKo75uuik6bBf8Q-N6CJqEBLSSQv9p2C-O7XrVEBY7MU4fqcpR8f7vnKRuYJWyq7m9I5qQC84mrmXtIysYQNk46WPCFHAE8Y519BPcn8i9-Cvrs-b4Em5jBKLdR0NIrLiDBswI6r_-qlNdl7nm0ktyXuC1403N4YGzGDYdnbC0vRLVd-dLA&__tn__=k%2AF&tn-str=k%2AF)](assets/805c72f10169/1*achRxacB8_4Xo3ww2HAvsg.jpeg)
+![Photo: [Comitato Lavoratori delle Campagne](https://www.facebook.com/comitatolavoratoridellecampagne/?__xts__%5B0%5D=68.ARAzQMpv9sFn14rs-miLBkHqCzfFtiGp6lEOQZz0nzW2LenZ5_ITTpeYW9eL0Q_t_pLEsiyErNjGpxpAfQlnFtS0VSAXpGblpxmm8F6EmblWTis9lwwK_U5VNpmLQ0GApGXrHMwUYlEuyA-hZRLFIlI0pfZTByB-Bm3WmXhaKo75uuik6bBf8Q-N6CJqEBLSSQv9p2C-O7XrVEBY7MU4fqcpR8f7vnKRuYJWyq7m9I5qQC84mrmXtIysYQNk46WPCFHAE8Y519BPcn8i9-Cvrs-b4Em5jBKLdR0NIrLiDBswI6r_-qlNdl7nm0ktyXuC1403N4YGzGDYdnbC0vRLVd-dLA&__tn__=k%2AF&tn-str=k%2AF)](../assets/805c72f10169/1*achRxacB8_4Xo3ww2HAvsg.jpeg)
 
 Photo: [Comitato Lavoratori delle Campagne](https://www.facebook.com/comitatolavoratoridellecampagne/?__xts__%5B0%5D=68.ARAzQMpv9sFn14rs-miLBkHqCzfFtiGp6lEOQZz0nzW2LenZ5_ITTpeYW9eL0Q_t_pLEsiyErNjGpxpAfQlnFtS0VSAXpGblpxmm8F6EmblWTis9lwwK_U5VNpmLQ0GApGXrHMwUYlEuyA-hZRLFIlI0pfZTByB-Bm3WmXhaKo75uuik6bBf8Q-N6CJqEBLSSQv9p2C-O7XrVEBY7MU4fqcpR8f7vnKRuYJWyq7m9I5qQC84mrmXtIysYQNk46WPCFHAE8Y519BPcn8i9-Cvrs-b4Em5jBKLdR0NIrLiDBswI6r_-qlNdl7nm0ktyXuC1403N4YGzGDYdnbC0vRLVd-dLA&__tn__=k%2AF&tn-str=k%2AF)
 ### Mediterranea: the Court of Palermo orders the release of Mare Jonio
@@ -340,7 +340,7 @@ The Civil Court of Palermo has granted the appeal lodged by Mediterranea Saving 
 
 ![There are well over 1000 displaced people in Brussels, including families and unaccompanied minors\. Many people are effectively homeless with no guarantee of shelter, whilst others are living in refugee camps\.
 Learn more:
-[https://refugee\-rights\.eu/…/uploads/2019/12/Belgium\-2019\-v3…](https://refugee-rights.eu/wp-content/uploads/2019/12/Belgium-2019-v3-web.pdf?fbclid=IwAR0-cUHVXnRHW-nI2Dq9PiE0C7WDFzA8dsROv9RallFYHDVgykDgkjbZbMk)](assets/805c72f10169/1*4DAgFfvXYLWmvqp0SZ_TFA.jpeg)
+[https://refugee\-rights\.eu/…/uploads/2019/12/Belgium\-2019\-v3…](https://refugee-rights.eu/wp-content/uploads/2019/12/Belgium-2019-v3-web.pdf?fbclid=IwAR0-cUHVXnRHW-nI2Dq9PiE0C7WDFzA8dsROv9RallFYHDVgykDgkjbZbMk)](../assets/805c72f10169/1*4DAgFfvXYLWmvqp0SZ_TFA.jpeg)
 
 There are well over 1000 displaced people in Brussels, including families and unaccompanied minors\. Many people are effectively homeless with no guarantee of shelter, whilst others are living in refugee camps\.
 Learn more:
@@ -404,7 +404,7 @@ Half of the people who arrive to Germany as refugees find jobs in 5 years:
 Deportations continue from Sweden, but so do the protests of the locals against the deportations:
 
 
-![Photo: [Christina Gyllenger](https://www.facebook.com/christina.gyllenger?fref=gs&__tn__=%2Cd%2AF%2AF-R&eid=ARDKenFmvprZEsCaYG3Vd3yt47-garYiJFVSwaNoF4IrWNnBHuhYldCIjyU5FvwDGw6ghodSapGzibaP&tn-str=%2AF&dti=212935029139489&hc_location=group_dialog) ‎](assets/805c72f10169/1*jsh-jDQWn4GIyrC52PUp6Q.jpeg)
+![Photo: [Christina Gyllenger](https://www.facebook.com/christina.gyllenger?fref=gs&__tn__=%2Cd%2AF%2AF-R&eid=ARDKenFmvprZEsCaYG3Vd3yt47-garYiJFVSwaNoF4IrWNnBHuhYldCIjyU5FvwDGw6ghodSapGzibaP&tn-str=%2AF&dti=212935029139489&hc_location=group_dialog) ‎](../assets/805c72f10169/1*jsh-jDQWn4GIyrC52PUp6Q.jpeg)
 
 Photo: [Christina Gyllenger](https://www.facebook.com/christina.gyllenger?fref=gs&__tn__=%2Cd%2AF%2AF-R&eid=ARDKenFmvprZEsCaYG3Vd3yt47-garYiJFVSwaNoF4IrWNnBHuhYldCIjyU5FvwDGw6ghodSapGzibaP&tn-str=%2AF&dti=212935029139489&hc_location=group_dialog) ‎
 

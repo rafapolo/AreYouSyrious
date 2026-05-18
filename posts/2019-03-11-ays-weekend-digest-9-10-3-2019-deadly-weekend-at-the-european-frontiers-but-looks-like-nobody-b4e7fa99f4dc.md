@@ -1,5 +1,5 @@
 ---
-title: AYS WEEKEND DIGEST 9–10/3/2019: Deadly weekend at the European frontiers, but looks like nobody…
+title: "AYS WEEKEND DIGEST 9–10/3/2019: Deadly weekend at the European frontiers, but looks like nobody…"
 author: Are You Syrious?
 date: 2019-03-11T10:25:33.534+0000
 last_modified_at: 2019-03-12T00:38:07.229+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,bosnia,serbia,greece]
 description: Death of people on the move, even children, no longer news in Europe // Pressure on the organization working in Morocco // Serbia…
 image:
-  path: assets/b4e7fa99f4dc/1*gGWdOT6fispK5vL_vEBrLg.jpeg
+  path: ../assets/b4e7fa99f4dc/1*gGWdOT6fispK5vL_vEBrLg.jpeg
 ---
 
 ### AYS WEEKEND DIGEST 9–10/3/19: Deadly weekend at the European frontiers, but looks like nobody really cares
@@ -15,7 +15,7 @@ image:
 _Death of people on the move, even children, no longer news in Europe // Pressure on the organization working in Morocco // Serbia, Montenegro and Bosnia — the Balkan route active, again // Help needed in France_
 
 
-![Patras \(Greece\), March 2018: Migrants wait on the outside of the port for the moment to be able to climb and try to hide inside trucks going to Italy\. From George Moutafis\. By [Fotovoimento 15M](https://www.facebook.com/Fotomovimiento.org/)](assets/b4e7fa99f4dc/1*gGWdOT6fispK5vL_vEBrLg.jpeg)
+![Patras \(Greece\), March 2018: Migrants wait on the outside of the port for the moment to be able to climb and try to hide inside trucks going to Italy\. From George Moutafis\. By [Fotovoimento 15M](https://www.facebook.com/Fotomovimiento.org/)](../assets/b4e7fa99f4dc/1*gGWdOT6fispK5vL_vEBrLg.jpeg)
 
 Patras \(Greece\), March 2018: Migrants wait on the outside of the port for the moment to be able to climb and try to hide inside trucks going to Italy\. From George Moutafis\. By [Fotovoimento 15M](https://www.facebook.com/Fotomovimiento.org/)
 ### Feature
@@ -68,7 +68,7 @@ A number of people who are arriving in Bosnia on their way towards the EU are ri
 At the same time, many people are leaving, and estimates are that about 3,900 people are in the country at the moment \(over 24,000 entered in 2018\) \. However, these numbers are not reliable even though coming from official sources\. The problem remains the registration process and access to asylum, as well as internal pushbacks\.
 
 
-![Checkpoint in Kljuc, on the way from Sarajevo to Bihac\. Local police stop buses on this route, taking people out and leaving them by the road\. The help is provided by the local Red Cross volunteers\. Photo Red Cross Kljuc\.](assets/b4e7fa99f4dc/1*D3Eey_TCbCmmT6II-tBEEQ.jpeg)
+![Checkpoint in Kljuc, on the way from Sarajevo to Bihac\. Local police stop buses on this route, taking people out and leaving them by the road\. The help is provided by the local Red Cross volunteers\. Photo Red Cross Kljuc\.](../assets/b4e7fa99f4dc/1*D3Eey_TCbCmmT6II-tBEEQ.jpeg)
 
 Checkpoint in Kljuc, on the way from Sarajevo to Bihac\. Local police stop buses on this route, taking people out and leaving them by the road\. The help is provided by the local Red Cross volunteers\. Photo Red Cross Kljuc\.
 
@@ -83,7 +83,7 @@ Checkpoint in Kljuc, on the way from Sarajevo to Bihac\. Local police stop buses
 The number of people who are passing through Montenegro is also on the rise, as well as hate speech and fear\-mongering in the local media\. As in the other countries, the media are accusing people on the move for almost everything bad that is happening, saying that people are afraid of refugees and migrants\. They often use the term “illegal migrants” which is discriminatory\.
 
 
-![Dozens of people are every day in Pljevlja, the border area in Montenegro, heading toward Bosnia\. Photo: Bona Fide Pljevlja\.](assets/b4e7fa99f4dc/1*-szkkaoVHcWRd5FWvlDLQw.jpeg)
+![Dozens of people are every day in Pljevlja, the border area in Montenegro, heading toward Bosnia\. Photo: Bona Fide Pljevlja\.](../assets/b4e7fa99f4dc/1*-szkkaoVHcWRd5FWvlDLQw.jpeg)
 
 Dozens of people are every day in Pljevlja, the border area in Montenegro, heading toward Bosnia\. Photo: Bona Fide Pljevlja\.
 

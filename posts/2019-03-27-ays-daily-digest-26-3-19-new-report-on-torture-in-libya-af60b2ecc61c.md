@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 26/3/19: New report on torture in Libya
+title: "AYS Daily Digest 26/3/19: New report on torture in Libya"
 author: Are You Syrious?
 date: 2019-03-27T10:33:40.260+0000
 last_modified_at: 2019-03-28T00:30:27.148+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,libya,greece,digest,europe]
 description: Research shows disturbing findings along the Mediterranean / Volunteers needed in Greece / Bushbacks and police violence in Croatia /…
 image:
-  path: assets/af60b2ecc61c/1*1FCTyJUB7dzq3oq10Gy6Gw.jpeg
+  path: ../assets/af60b2ecc61c/1*1FCTyJUB7dzq3oq10Gy6Gw.jpeg
 ---
 
 ### AYS Daily Digest 26/3/19: New report on torture in Libya
 #### Research shows disturbing findings across the Mediterranean / Volunteers needed in Greece / Pushbacks and police violence in Croatia / Protest announced in Calais
 
 
-![On their way, many people experience sexual violence and torture\. Credits: [UNHCR Libya](https://twitter.com/UNHCRLibya)](assets/af60b2ecc61c/1*1FCTyJUB7dzq3oq10Gy6Gw.jpeg)
+![On their way, many people experience sexual violence and torture\. Credits: [UNHCR Libya](https://twitter.com/UNHCRLibya)](../assets/af60b2ecc61c/1*1FCTyJUB7dzq3oq10Gy6Gw.jpeg)
 
 On their way, many people experience sexual violence and torture\. Credits: [UNHCR Libya](https://twitter.com/UNHCRLibya)
 ### Libya

@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Europe has no idea what happens in Greece
+title: "AYS SPECIAL: Europe has no idea what happens in Greece"
 author: Are You Syrious?
 date: 2016-08-26T17:35:29.258+0100
 last_modified_at: 2019-06-21T06:22:49.332+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,europe,the-mobile-info-team,greece,special]
 description: Volunteers of the Mobile Info Team have been present in Northern Greece since April this year after the eviction of Idomeni and other…
 image:
-  path: assets/9ed505f51fc3/1*i-7YsfAt36PfSodqQIGSdQ.jpeg
+  path: ../assets/9ed505f51fc3/1*i-7YsfAt36PfSodqQIGSdQ.jpeg
 ---
 
 ### AYS SPECIAL: Europe has no idea what happens in Greece
@@ -15,7 +15,7 @@ image:
 _Volunteers of the Mobile Info Team have been present in Northern Greece since April this year after the eviction of Idomeni and other independent camps in that part of the country\. Their mission started when they realized that refugees are seeking information as much as food\. Today, they are doing their best to provide answers to many questions that are left unanswered by official organizations and big NGOs\. However, they feel it is not enough and that life in uncertainty for refugees is becoming unbearable\._
 
 
-![The Mobile Info Team\.](assets/9ed505f51fc3/1*i-7YsfAt36PfSodqQIGSdQ.jpeg)
+![The Mobile Info Team\.](../assets/9ed505f51fc3/1*i-7YsfAt36PfSodqQIGSdQ.jpeg)
 
 The Mobile Info Team\.
 
@@ -48,7 +48,7 @@ But, when we talk generally about the differences between now and March, the evi
 **Els:** People have no clue about the situation here\. When I am listening to Dutch news, I hear that there are no refugees coming to the Netherlands anymore\. There is no explanation that this is because we rudely closed the borders and because over 50\.000 people are waiting in Greece to have the possibility to apply for asylum\. People have no idea about all that\.
 
 
-![Photo by The Mobile Info Team](assets/9ed505f51fc3/1*Kr1ZtepMCWPNTywb-z6CNg.jpeg)
+![Photo by The Mobile Info Team](../assets/9ed505f51fc3/1*Kr1ZtepMCWPNTywb-z6CNg.jpeg)
 
 Photo by The Mobile Info Team
 
@@ -63,7 +63,7 @@ Photo by The Mobile Info Team
 **Els:** The problem is that this situation may have a huge impact, while it may be relatively easy to create better circumstances for people to live in\.
 
 
-![The Mobile Info Team\.](assets/9ed505f51fc3/1*YxZlVijHy7QTHSA8lLABJQ.jpeg)
+![The Mobile Info Team\.](../assets/9ed505f51fc3/1*YxZlVijHy7QTHSA8lLABJQ.jpeg)
 
 The Mobile Info Team\.
 
@@ -78,7 +78,7 @@ The Mobile Info Team\.
 One of the questions we get a lot is if Europe knows about the Greek health system, why do they keep them here? Why do they not let us go to countries that actually can provide them with proper health care, if they are slowly dying here? We are getting that question more and more\.
 
 
-![The Mobile Info Team\.](assets/9ed505f51fc3/1*SACOWRsUqqo8Jlds29IkGQ.jpeg)
+![The Mobile Info Team\.](../assets/9ed505f51fc3/1*SACOWRsUqqo8Jlds29IkGQ.jpeg)
 
 The Mobile Info Team\.
 
@@ -111,7 +111,7 @@ There is a very strong feeling that almost everything in terms of this refugee c
 Info provided by the Mobile Info Team can be found on their FB page and [here](https://mobileinfoteam.blogspot.ba/) \.
 
 
-![The Mobile Info Team\.](assets/9ed505f51fc3/1*NltwJP6rChgL-elUTTPPhw.jpeg)
+![The Mobile Info Team\.](../assets/9ed505f51fc3/1*NltwJP6rChgL-elUTTPPhw.jpeg)
 
 The Mobile Info Team\.
 

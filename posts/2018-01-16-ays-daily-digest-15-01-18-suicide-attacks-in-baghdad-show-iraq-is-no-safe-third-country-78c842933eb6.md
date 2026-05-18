@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 15/01/18: Suicide Attacks in Baghdad show Iraq is no “safe third country”
+title: "AYS Daily Digest 15/01/18: Suicide Attacks in Baghdad show Iraq is no “safe third country”"
 author: Are You Syrious?
 date: 2018-01-16T01:26:35.986+0000
 last_modified_at: 2018-01-16T07:25:48.827+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,terrorism,eu,human-rights,activism]
 description: Attacks on civilians in Syria//Boats missing at sea//Samos camp overcrowded and unsafe//Volunteers needed on Mainland//Macron ignores…
 image:
-  path: assets/78c842933eb6/1*KAdrKu0cA8IOffxCeO7f-Q.jpeg
+  path: ../assets/78c842933eb6/1*KAdrKu0cA8IOffxCeO7f-Q.jpeg
 ---
 
 ### AYS Daily Digest 15/01/18: Suicide Attacks in Baghdad show Iraq is no “safe third country”
@@ -15,7 +15,7 @@ image:
 Attacks on civilians in Syria//Boats missing at sea//Samos camp overcrowded and unsafe//Volunteers needed on Mainland//Macron ignores plight of refugees// Croatian government fails to meet education needs for children//Asylum appeals in Germany//and more…
 
 
-![“Aquarius looking for potential survivors around the wreck of an empty inflatable boat found this monday in international waters 37 nautical miles off Libya\.” Photo Credit: [SOS Mediterranee](https://www.facebook.com/sosmedfrance/)](assets/78c842933eb6/1*KAdrKu0cA8IOffxCeO7f-Q.jpeg)
+![“Aquarius looking for potential survivors around the wreck of an empty inflatable boat found this monday in international waters 37 nautical miles off Libya\.” Photo Credit: [SOS Mediterranee](https://www.facebook.com/sosmedfrance/)](../assets/78c842933eb6/1*KAdrKu0cA8IOffxCeO7f-Q.jpeg)
 
 “Aquarius looking for potential survivors around the wreck of an empty inflatable boat found this monday in international waters 37 nautical miles off Libya\.” Photo Credit: [SOS Mediterranee](https://www.facebook.com/sosmedfrance/)
 ### Iraq
@@ -35,7 +35,7 @@ Six refugees were [found dead today](https://www.abola.pt/Mundos/Noticias/Ver/71
 We have a disturbing report from [MSF’s sea rescue team](https://twitter.com/MSF_Sea) tonight\. After coming across an empty dinghy in the Mediterranean, they still have found no bodies or survivors\.
 
 
-![An empty dinghy found in the Mediterranean\. 15/1/18\.](assets/78c842933eb6/1*c1vSsXRSWYyOGvOao0u5jg.jpeg)
+![An empty dinghy found in the Mediterranean\. 15/1/18\.](../assets/78c842933eb6/1*c1vSsXRSWYyOGvOao0u5jg.jpeg)
 
 An empty dinghy found in the Mediterranean\. 15/1/18\.
 
@@ -73,7 +73,7 @@ Samos is the only island which has seen more new arrivals than transfers, with 3
 Samos continues to be extremely overcrowded, and many newly arrived refugees are forced to sleep in pop\-up tents on the freezing ground\. [Samos Volunteers](https://samosvolunteers.org) continues to be the primary group providing aid and services to refugees on the island, since the Boat Refugee Foundation has pulled services from the island\. This week, Samos volunteers released their monthly reprot, detailing new arrivals and many of the services they provide\. You can support their work [here](https://samosvolunteers.org/donations/) \.
 
 
-![Graphic Credit: Samos Volunteers\.](assets/78c842933eb6/1*aQuK1fnrJD_QP1mmKWGZ5g.png)
+![Graphic Credit: Samos Volunteers\.](../assets/78c842933eb6/1*aQuK1fnrJD_QP1mmKWGZ5g.png)
 
 Graphic Credit: Samos Volunteers\.
 
@@ -83,14 +83,14 @@ When asked if she needed anything like clothes or aid frustrated she said “we 
 Today the [Enough is Enough](https://www.facebook.com/enough14/?hc_ref=ARR1yJ_mpYeqMwy-uleh1EExW-I5OnzeVT7Zlc3-u4AIZ3XETa97uJJwwxKXz-VmPZ4&fref=nf) outlet released a [video](https://www.facebook.com/enough14/videos/1629706310384639/?hc_location=ufi) that was secretely filmed inside the Moria camp on Lesvos\. Filming is prohobited there to keep the appalling conditions out of sight of citizens and journalists\. The clip shows overcrowded containers, filthy conditions, and many people sleeping in tents on the ground\.
 
 
-![Moria Camp, 15/1/18\. Photo Credit: [Hibai Arbide Aza](https://twitter.com/Hibai_) \.](assets/78c842933eb6/1*CY-A84HRhDtgykicvrdq4Q.jpeg)
+![Moria Camp, 15/1/18\. Photo Credit: [Hibai Arbide Aza](https://twitter.com/Hibai_) \.](../assets/78c842933eb6/1*CY-A84HRhDtgykicvrdq4Q.jpeg)
 
 Moria Camp, 15/1/18\. Photo Credit: [Hibai Arbide Aza](https://twitter.com/Hibai_) \.
 
 The Refugee Rescue organization is looking for land spotters to join their team on Lesvos\. Spotters help to save lives by detecting crossing boats, and making sure they are not lost out of sight once spotted\. For more information click [here](http://www.refugeerescue.co.uk/land-crew/) , or email volunteers@refugeerescue\.co\.uk\.
 
 
-![Spotters on Lesvos\. Photo Credit: [Refugee Rescue](https://www.facebook.com/RefugeeRescueUK/?hc_ref=ARRJjS7csiy7g_HeUxAzSZT1jOMzZdWkaA0YHgMlWpYZ5Vg3qKiC-zlKUBkS5kpX_ZA&fref=nf) \.](assets/78c842933eb6/1*gn5SX5V-VeRANILbDiuHsg.jpeg)
+![Spotters on Lesvos\. Photo Credit: [Refugee Rescue](https://www.facebook.com/RefugeeRescueUK/?hc_ref=ARRJjS7csiy7g_HeUxAzSZT1jOMzZdWkaA0YHgMlWpYZ5Vg3qKiC-zlKUBkS5kpX_ZA&fref=nf) \.](../assets/78c842933eb6/1*gn5SX5V-VeRANILbDiuHsg.jpeg)
 
 Spotters on Lesvos\. Photo Credit: [Refugee Rescue](https://www.facebook.com/RefugeeRescueUK/?hc_ref=ARRJjS7csiy7g_HeUxAzSZT1jOMzZdWkaA0YHgMlWpYZ5Vg3qKiC-zlKUBkS5kpX_ZA&fref=nf) \.
 #### Mainland
@@ -98,7 +98,7 @@ Spotters on Lesvos\. Photo Credit: [Refugee Rescue](https://www.facebook.com/Ref
 We have received reports from the Filippiada camp in mainland Greece that some refugees who have sought accomodation there have been denied entrance\. While the administration claims to be seeking housing for these refugees, they have remained homeless for the past weeks\. Among those denied entrance are two young men who are sleeping below a roofline outside the camp\. One of the young men is from Yemen, and suffers from a serious medical condition\. The other young man is from Iraq and has serious injuries from a bombing\. How much longer will they have to sleep in the cold?
 
 
-![Two young men seek refuge outside of the Filippiada camp\. 1/13/18\. Photo Credit: Anonymous Volunteer, shared through [Ishtar](https://www.facebook.com/عشتار-للهجرة-واللجوء-687993924641223/?hc_ref=ARS9u82_C4P5eRjrr94-1u3-YnJiPglLZisRs_0QfvROcq7bzbZI_R0E2OebeA8tT84&fref=gs&dti=228469170832717&hc_location=group) group\.](assets/78c842933eb6/1*V2F3WSXtnHCGknes9JJjoQ.jpeg)
+![Two young men seek refuge outside of the Filippiada camp\. 1/13/18\. Photo Credit: Anonymous Volunteer, shared through [Ishtar](https://www.facebook.com/عشتار-للهجرة-واللجوء-687993924641223/?hc_ref=ARS9u82_C4P5eRjrr94-1u3-YnJiPglLZisRs_0QfvROcq7bzbZI_R0E2OebeA8tT84&fref=gs&dti=228469170832717&hc_location=group) group\.](../assets/78c842933eb6/1*V2F3WSXtnHCGknes9JJjoQ.jpeg)
 
 Two young men seek refuge outside of the Filippiada camp\. 1/13/18\. Photo Credit: Anonymous Volunteer, shared through [Ishtar](https://www.facebook.com/عشتار-للهجرة-واللجوء-687993924641223/?hc_ref=ARS9u82_C4P5eRjrr94-1u3-YnJiPglLZisRs_0QfvROcq7bzbZI_R0E2OebeA8tT84&fref=gs&dti=228469170832717&hc_location=group) group\.
 
@@ -108,7 +108,7 @@ InterVolve is looking for volunteers at Larissa\-Koutsochero Camp in Northern Gr
 ### Spain
 
 
-![How desperate do you have to be? A young boy climbing out of the dashboard of a car, trying to reach the European border\. Photo Credit: Spanish Interior Ministry](assets/78c842933eb6/1*rQF41fG-JwHi4wR6AKwU0g.jpeg)
+![How desperate do you have to be? A young boy climbing out of the dashboard of a car, trying to reach the European border\. Photo Credit: Spanish Interior Ministry](../assets/78c842933eb6/1*rQF41fG-JwHi4wR6AKwU0g.jpeg)
 
 How desperate do you have to be? A young boy climbing out of the dashboard of a car, trying to reach the European border\. Photo Credit: Spanish Interior Ministry
 
@@ -118,7 +118,7 @@ Four refugees were discovered inside a car attempting the crossing from Morocco 
 We have an update from independent volunteers in Paris today, who report that two years after starting their work, they have sadly seen little change in the capital\. Thousands are still sleeping on the streets, and police abuse is commonplace\. “When we organize collection of blankets, we learn that the police confiscate tents and blankets\. We’re in winter\! How to describe this action of our “ Republican Police,” who are endangering the lives of others? Their inhuman and degrading treatment is tantamount to torture\!” Report volunteers working with the [Wilson Solidarity Initiative](https://www.facebook.com/permalink.php?story_fbid=833414196859354&id=598228360377940&hc_location=ufi) \.
 
 
-![Refugees sleeping on the street, Paris, 15/1/18\. Photo Credit: [Wilson Solidarity](https://www.facebook.com/permalink.php?story_fbid=833414196859354&id=598228360377940&hc_location=ufi) \.](assets/78c842933eb6/1*ycaFR13rP0vcVRnh59WXHQ.jpeg)
+![Refugees sleeping on the street, Paris, 15/1/18\. Photo Credit: [Wilson Solidarity](https://www.facebook.com/permalink.php?story_fbid=833414196859354&id=598228360377940&hc_location=ufi) \.](../assets/78c842933eb6/1*ycaFR13rP0vcVRnh59WXHQ.jpeg)
 
 Refugees sleeping on the street, Paris, 15/1/18\. Photo Credit: [Wilson Solidarity](https://www.facebook.com/permalink.php?story_fbid=833414196859354&id=598228360377940&hc_location=ufi) \.
 
@@ -136,7 +136,7 @@ A refugee in the city of Grand\-Synthe in Northern France [lost his leg today](h
 ### Croatia
 
 
-![“A year on, most of these children are no longer in Croatia, while only one child has been granted international protection after a wait of almost one year\.” Photo Credit: AYS](assets/78c842933eb6/1*oHHOOsa_AMIbK--piiKCLA.jpeg)
+![“A year on, most of these children are no longer in Croatia, while only one child has been granted international protection after a wait of almost one year\.” Photo Credit: AYS](../assets/78c842933eb6/1*oHHOOsa_AMIbK--piiKCLA.jpeg)
 
 “A year on, most of these children are no longer in Croatia, while only one child has been granted international protection after a wait of almost one year\.” Photo Credit: AYS
 

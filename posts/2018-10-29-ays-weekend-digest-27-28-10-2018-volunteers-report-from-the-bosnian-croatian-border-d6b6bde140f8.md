@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,bosnia,borders,mediterranean,solidarity]
 description: More unnecessary deaths at Sea /// activists face jail in France /// Another reception project set to close in Italy /// EU states free to…
 image:
-  path: assets/d6b6bde140f8/1*NEr6gji434fc1WXFDMO-pg.jpeg
+  path: ../assets/d6b6bde140f8/1*NEr6gji434fc1WXFDMO-pg.jpeg
 ---
 
 ### AYS Weekend Digest 27–28/10/2018 Volunteers report from the Bosnian\-Croatian border
@@ -15,7 +15,7 @@ image:
 More unnecessary deaths at sea /// Activists face jail in France /// Another reception project set to close in Italy /// EU states free to break their own rules /// Memorial for those lost at sea held in Lesvos…
 
 
-![No One is Illegal, protests at Bosnian\-Croatian border \(photo by [Chiara Lauvergnac](https://www.facebook.com/chiara.lauvergnac) \)](assets/d6b6bde140f8/1*NEr6gji434fc1WXFDMO-pg.jpeg)
+![No One is Illegal, protests at Bosnian\-Croatian border \(photo by [Chiara Lauvergnac](https://www.facebook.com/chiara.lauvergnac) \)](../assets/d6b6bde140f8/1*NEr6gji434fc1WXFDMO-pg.jpeg)
 
 No One is Illegal, protests at Bosnian\-Croatian border \(photo by [Chiara Lauvergnac](https://www.facebook.com/chiara.lauvergnac) \)
 #### FEATURE: Report from the Bosnian\-Croatian Border
@@ -30,7 +30,7 @@ No One is Illegal, protests at Bosnian\-Croatian border \(photo by [Chiara Lauve
 With this message, people from Velika Kladusa want to reach the local government, the authorities in Croatia, and also organisations like IOM and UNHCR, six days after the border crossing in Maljevac, between Bosnia and Croatia, was closed due to protests\.
 
 
-![Photo by AYS volunteer](assets/d6b6bde140f8/1*zsbEma-pzd-UK2522yWFPg.jpeg)
+![Photo by AYS volunteer](../assets/d6b6bde140f8/1*zsbEma-pzd-UK2522yWFPg.jpeg)
 
 Photo by AYS volunteer
 
@@ -43,7 +43,7 @@ For six days, hardly any international organisation responsible for the well\-be
 While local doctors, supported by MSF, are providing medical help, people in the camp have to provide food for themselves, with the only help arriving from the local community\.
 
 
-![Photo by AYS volunteer](assets/d6b6bde140f8/1*VDvFMakSU9io4znnDGjxDA.jpeg)
+![Photo by AYS volunteer](../assets/d6b6bde140f8/1*VDvFMakSU9io4znnDGjxDA.jpeg)
 
 Photo by AYS volunteer
 
@@ -76,7 +76,7 @@ Among the organisations working in the camp are UNHCR, IOM, UNICEF, SFA \(Servic
 People keep arriving in Sarajevo from both Serbia, Montenegro and from the border with Croatia\. The Bosnian police is stopping refugees from entering the Una\-Sana Canton\. They control cars and buses on the road to the Bihać and Velika Kladuša\. Refugees are forced to leave the buses and are later sent back to Sarajevo even though there are not enough facilities to accommodate them\. Refugees are refusing to leave the border, well aware that being there is their only option\.
 
 
-![\(Photo by Chiara Lauvergnac\)](assets/d6b6bde140f8/1*SIvEla8vCEgnGzE4vayKeQ.jpeg)
+![\(Photo by Chiara Lauvergnac\)](../assets/d6b6bde140f8/1*SIvEla8vCEgnGzE4vayKeQ.jpeg)
 
 \(Photo by Chiara Lauvergnac\)
 
@@ -97,7 +97,7 @@ MOROCCO
 #### The Tragedies of Migration Continue
 
 
-![The tragedies of migration continue \(photo by [Nardocity](https://www.nadorcity.com/%D9%85%D8%A2%D8%B3%D9%8A-%D8%A7%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%85%D8%B3%D8%AA%D9%85%D8%B1%D8%A9-%D9%81%D9%82%D8%AF%D8%A7%D9%86-%D8%AD%D9%88%D8%A7%D9%84%D9%8A-24-%D9%85%D9%87%D8%A7%D8%AC%D8%B1-%D8%B3%D8%B1%D9%8A-%D9%88%D9%86%D8%AC%D8%A7%D8%A9-4-%D8%A8%D8%A3%D8%B9%D8%AC%D9%88%D8%A8%D8%A9-%D8%A8%D8%B9%D8%AF-%D8%BA%D8%B1%D9%82_a69625.html?fbclid=IwAR1ZtbDoH_b8CBPmELuSkdCLHsI-gLNScw0uLKzK0j6Nk9Ttj3ERY0SJRMo) \)](assets/d6b6bde140f8/1*y391wsBcGhsEagTf0mqozQ.jpeg)
+![The tragedies of migration continue \(photo by [Nardocity](https://www.nadorcity.com/%D9%85%D8%A2%D8%B3%D9%8A-%D8%A7%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%85%D8%B3%D8%AA%D9%85%D8%B1%D8%A9-%D9%81%D9%82%D8%AF%D8%A7%D9%86-%D8%AD%D9%88%D8%A7%D9%84%D9%8A-24-%D9%85%D9%87%D8%A7%D8%AC%D8%B1-%D8%B3%D8%B1%D9%8A-%D9%88%D9%86%D8%AC%D8%A7%D8%A9-4-%D8%A8%D8%A3%D8%B9%D8%AC%D9%88%D8%A8%D8%A9-%D8%A8%D8%B9%D8%AF-%D8%BA%D8%B1%D9%82_a69625.html?fbclid=IwAR1ZtbDoH_b8CBPmELuSkdCLHsI-gLNScw0uLKzK0j6Nk9Ttj3ERY0SJRMo) \)](../assets/d6b6bde140f8/1*y391wsBcGhsEagTf0mqozQ.jpeg)
 
 The tragedies of migration continue \(photo by [Nardocity](https://www.nadorcity.com/%D9%85%D8%A2%D8%B3%D9%8A-%D8%A7%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%85%D8%B3%D8%AA%D9%85%D8%B1%D8%A9-%D9%81%D9%82%D8%AF%D8%A7%D9%86-%D8%AD%D9%88%D8%A7%D9%84%D9%8A-24-%D9%85%D9%87%D8%A7%D8%AC%D8%B1-%D8%B3%D8%B1%D9%8A-%D9%88%D9%86%D8%AC%D8%A7%D8%A9-4-%D8%A8%D8%A3%D8%B9%D8%AC%D9%88%D8%A8%D8%A9-%D8%A8%D8%B9%D8%AF-%D8%BA%D8%B1%D9%82_a69625.html?fbclid=IwAR1ZtbDoH_b8CBPmELuSkdCLHsI-gLNScw0uLKzK0j6Nk9Ttj3ERY0SJRMo) \)
 
@@ -197,7 +197,7 @@ The boat was carrying 40 people, 20 children, 9 women and 11 men\.
 #### Another Death in the Aegean
 
 
-![](assets/d6b6bde140f8/1*ToQYbm6ev8qPdNAOhFRwtw.jpeg)
+![](../assets/d6b6bde140f8/1*ToQYbm6ev8qPdNAOhFRwtw.jpeg)
 
 
 [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/465533677303075?hc_location=ufi) recorded the case of another unnecessary death at sea on the 25th of October\. An emergency message was sent at 16\.50 from a speedboat outside Akyarlar as it had already begun to sink\.
@@ -216,14 +216,14 @@ Every death is a death too many\. We offer our condolences to her family, and to
 According to the Greek Government there are currently 19,529 people trapped on the islands\.
 
 
-![](assets/d6b6bde140f8/1*BfwjZDE0h1BqcHT7Y5wv_Q.jpeg)
+![](../assets/d6b6bde140f8/1*BfwjZDE0h1BqcHT7Y5wv_Q.jpeg)
 
 
 LESVOS
 #### Memorial Held for those Lost at Sea by [Refugee Rescue/’Mo Chara’](https://www.facebook.com/RefugeeRescueUK/?__tn__=%2CdkCH-R-R&eid=ARCQuunE-D_VUiuBCZYsdFGs-Zh_FagBxoHCL6rHZg79egkJFfY7V4RnTnO5fd8enMNsWh7Faar9KNRI&hc_ref=ARRoscFclVYpAPcytxm1vCPt2pKIQnil69o-qpehKfPWBgtIwfHavsFe9K1ccmUsvHc&fref=nf)
 
 
-![Memorial for those lost at sea, Lesvos \(Photo by Refugee Rescue /Mo’Chara\)](assets/d6b6bde140f8/1*uNigqofHKsn46TvUnqEKeA.png)
+![Memorial for those lost at sea, Lesvos \(Photo by Refugee Rescue /Mo’Chara\)](../assets/d6b6bde140f8/1*uNigqofHKsn46TvUnqEKeA.png)
 
 Memorial for those lost at sea, Lesvos \(Photo by Refugee Rescue /Mo’Chara\)
 
@@ -348,7 +348,7 @@ FRANCE
 **Freedom for the 7 of Briançon**
 
 
-![\( [La Cimade](https://www.lacimade.org) \)](assets/d6b6bde140f8/1*Il4CbtEqbyMBkgDV-bcCIg.jpeg)
+![\( [La Cimade](https://www.lacimade.org) \)](../assets/d6b6bde140f8/1*Il4CbtEqbyMBkgDV-bcCIg.jpeg)
 
 \( [La Cimade](https://www.lacimade.org) \)
 
@@ -405,7 +405,7 @@ EU
 [Refugee Rights Europe](https://www.facebook.com/RefugeeRightsEurope/posts/1911325989174237) documented serious physical and mental health concerns among refugees and displaced people, who are often unable to access appropriate medical treatment\.
 
 
-![Health and access to medical care \(Refugee Rights Europe\)](assets/d6b6bde140f8/1*LlhJD2txAHBTZ2yc5oxoaw.jpeg)
+![Health and access to medical care \(Refugee Rights Europe\)](../assets/d6b6bde140f8/1*LlhJD2txAHBTZ2yc5oxoaw.jpeg)
 
 Health and access to medical care \(Refugee Rights Europe\)
 

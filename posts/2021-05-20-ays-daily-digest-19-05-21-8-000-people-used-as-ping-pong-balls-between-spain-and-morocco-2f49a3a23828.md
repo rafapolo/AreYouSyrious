@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [spain,morocco,refugees,digest,immigration]
 description: 
 image:
-  path: assets/2f49a3a23828/0*q-1LOKVqzpm1gTtC.jpg
+  path: ../assets/2f49a3a23828/0*q-1LOKVqzpm1gTtC.jpg
 ---
 
 ### AYS Daily Digest 19/05/21 — 8,000 people used as ping pong balls between Spain and Morocco
@@ -15,7 +15,7 @@ image:
 _Malta paid for “3–4” pushbacks // UNHCR warns of “externalizing borders” // Evictions in France // Romanian police brutality // and more…_
 
 
-![Spainish soliders in Ceuta\. Photo by [EPA](https://www.bbc.com/news/world-europe-57168701)](assets/2f49a3a23828/0*q-1LOKVqzpm1gTtC.jpg)
+![Spainish soliders in Ceuta\. Photo by [EPA](https://www.bbc.com/news/world-europe-57168701)](../assets/2f49a3a23828/0*q-1LOKVqzpm1gTtC.jpg)
 
 Spainish soliders in Ceuta\. Photo by [EPA](https://www.bbc.com/news/world-europe-57168701)
 ### FEATURE: 8,000 people used as ping pong balls between Spain and Morocco
@@ -113,17 +113,17 @@ AYS stands in solidarity with everyone fleeing to Ceuta and anyone trying to pro
 #### SEA
 
 
-![](assets/2f49a3a23828/1*_G2DkzORNFbPC6WxRcOPmQ.jpeg)
+![](../assets/2f49a3a23828/1*_G2DkzORNFbPC6WxRcOPmQ.jpeg)
 
 
 
-![](assets/2f49a3a23828/1*dRavUyQ8RxlFfJB7O0MKeQ.jpeg)
+![](../assets/2f49a3a23828/1*dRavUyQ8RxlFfJB7O0MKeQ.jpeg)
 
 
 
 ![[**Update \#1**](https://www.facebook.com/NewsfromtheMed/posts/1217247152062212) **and photos from Sea Watch 4:** “A young man had to be evacuated from the SEA\-EYE 4 for medical reasons\! The young man had to be evacuated due to a heart condition that got worse\. He could have collapsed at any moment and needs intensive medical treatment, which cannot be provided on board\. The Italian Coast Guard carried out the evacuation in the afternoon\. Meanwhile, the SEA\-EYE 4 has reached Sicily, but still has not been assigned a port of safety\. There are more medical cases on board that need to be treated ashore\. To avoid more evacuations, we finally need a port of safety\!”
 [**Update \#2**](https://www.facebook.com/seawatchprojekt/posts/2827031054181624) **from Sea Watch 4:** “14 days after the last of the more than 450 rescued people could leave our ship, the Sea\-Watch 4 returns to the port of Trapani after an imposed quarantine\. When we can start the next rescue mission? Uncertain\. Because the criminalization of civil rescue goes on\.
-If we will continue? By all means\. Until no human being has to drown in search of safety\.”](assets/2f49a3a23828/1*bLjJQZIB2oPIJdrsYllWVQ.jpeg)
+If we will continue? By all means\. Until no human being has to drown in search of safety\.”](../assets/2f49a3a23828/1*bLjJQZIB2oPIJdrsYllWVQ.jpeg)
 
 [**Update \#1**](https://www.facebook.com/NewsfromtheMed/posts/1217247152062212) **and photos from Sea Watch 4:** “A young man had to be evacuated from the SEA\-EYE 4 for medical reasons\! The young man had to be evacuated due to a heart condition that got worse\. He could have collapsed at any moment and needs intensive medical treatment, which cannot be provided on board\. The Italian Coast Guard carried out the evacuation in the afternoon\. Meanwhile, the SEA\-EYE 4 has reached Sicily, but still has not been assigned a port of safety\. There are more medical cases on board that need to be treated ashore\. To avoid more evacuations, we finally need a port of safety\!”
 [**Update \#2**](https://www.facebook.com/seawatchprojekt/posts/2827031054181624) **from Sea Watch 4:** “14 days after the last of the more than 450 rescued people could leave our ship, the Sea\-Watch 4 returns to the port of Trapani after an imposed quarantine\. When we can start the next rescue mission? Uncertain\. Because the criminalization of civil rescue goes on\.
@@ -131,7 +131,7 @@ If we will continue? By all means\. Until no human being has to drown in search 
 #### GREECE
 
 
-![Art via @yorgovich](assets/2f49a3a23828/0*FFD6Nk1HEBYPNX_F)
+![Art via @yorgovich](../assets/2f49a3a23828/0*FFD6Nk1HEBYPNX_F)
 
 Art via @yorgovich
 #### MALTA
@@ -212,7 +212,7 @@ Read [the full report here](https://www.maltatoday.com.mt/news/national/109738/m
 #### SERBIA
 
 
-![**Update \#1 and photo from [Azil u Srbiji Asylum Protection](https://www.facebook.com/AzilUSrbiji/posts/1909168192576347) :** “APC/CZA psychosocial mobile team visiting open location along the border with Bosnia in Loznica city where refugees sleep in the open, found many unaccompanied minors sleeping in the open without any food, water or shelter\. APC/CZA have a cooperation with local centers for social welfare and contact with social workers in the field to report and assist many of the unaccompanied minors so they can be protected and accommodated in one of reception centers and to assign for them guardian who will be responsible about them and with the help of APC/CZA legal sector they can access the asylum system and seek asylum and have free access to education and health institution\.”](assets/2f49a3a23828/0*T6JnSl8fyhR0qRMX)
+![**Update \#1 and photo from [Azil u Srbiji Asylum Protection](https://www.facebook.com/AzilUSrbiji/posts/1909168192576347) :** “APC/CZA psychosocial mobile team visiting open location along the border with Bosnia in Loznica city where refugees sleep in the open, found many unaccompanied minors sleeping in the open without any food, water or shelter\. APC/CZA have a cooperation with local centers for social welfare and contact with social workers in the field to report and assist many of the unaccompanied minors so they can be protected and accommodated in one of reception centers and to assign for them guardian who will be responsible about them and with the help of APC/CZA legal sector they can access the asylum system and seek asylum and have free access to education and health institution\.”](../assets/2f49a3a23828/0*T6JnSl8fyhR0qRMX)
 
 **Update \#1 and photo from [Azil u Srbiji Asylum Protection](https://www.facebook.com/AzilUSrbiji/posts/1909168192576347) :** “APC/CZA psychosocial mobile team visiting open location along the border with Bosnia in Loznica city where refugees sleep in the open, found many unaccompanied minors sleeping in the open without any food, water or shelter\. APC/CZA have a cooperation with local centers for social welfare and contact with social workers in the field to report and assist many of the unaccompanied minors so they can be protected and accommodated in one of reception centers and to assign for them guardian who will be responsible about them and with the help of APC/CZA legal sector they can access the asylum system and seek asylum and have free access to education and health institution\.”
 
@@ -243,11 +243,11 @@ Read [the full report here](https://www.maltatoday.com.mt/news/national/109738/m
 #### FRANCE
 
 
-![](assets/2f49a3a23828/1*P0bqkCFhmRMwxNcoqN3qvA.jpeg)
+![](../assets/2f49a3a23828/1*P0bqkCFhmRMwxNcoqN3qvA.jpeg)
 
 
 
-![**Update and photos from [Human Rights Observers](https://twitter.com/HumanRightsObs/status/1395105949099175939) :** “Operations & Expulsions to GrandeSynthe → 4 excursions from informal living spaces in April\. 444 tents and tarpaulins \(were\) seized\. Forced expulsions participate in the exhaustion, physical and moral harassment that exiles are subjected to at the border\.”](assets/2f49a3a23828/1*i0AKZOJoM16-pauGanUcFw.jpeg)
+![**Update and photos from [Human Rights Observers](https://twitter.com/HumanRightsObs/status/1395105949099175939) :** “Operations & Expulsions to GrandeSynthe → 4 excursions from informal living spaces in April\. 444 tents and tarpaulins \(were\) seized\. Forced expulsions participate in the exhaustion, physical and moral harassment that exiles are subjected to at the border\.”](../assets/2f49a3a23828/1*i0AKZOJoM16-pauGanUcFw.jpeg)
 
 **Update and photos from [Human Rights Observers](https://twitter.com/HumanRightsObs/status/1395105949099175939) :** “Operations & Expulsions to GrandeSynthe → 4 excursions from informal living spaces in April\. 444 tents and tarpaulins \(were\) seized\. Forced expulsions participate in the exhaustion, physical and moral harassment that exiles are subjected to at the border\.”
 
@@ -293,7 +293,7 @@ Lifting hearts that made the scene so touching
 With an open sit\-in front of the Danish parliament
 The sit\-in will not be dismissed until the Danish government cancels the decision to recognize a safe Syria and the decision to deport Syrians
 Today was a big love day for Syrians ❤️”
-Photo and Info by [Mohamad Sourity](https://www.facebook.com/Mohamad.Souriti/posts/10218306483349173)](assets/2f49a3a23828/0*fV0I8jm85JotuRLA)
+Photo and Info by [Mohamad Sourity](https://www.facebook.com/Mohamad.Souriti/posts/10218306483349173)](../assets/2f49a3a23828/0*fV0I8jm85JotuRLA)
 
 “Over 27 thousand protesters in Copenhagen
 Demonstrations in 25 Danish cities today solidified with Syrians

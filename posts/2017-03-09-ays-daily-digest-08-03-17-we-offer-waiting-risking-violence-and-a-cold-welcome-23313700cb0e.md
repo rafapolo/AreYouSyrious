@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 08/03/17: We offer waiting, risking, violence and a cold welcome
+title: "AYS Daily Digest 08/03/17: We offer waiting, risking, violence and a cold welcome"
 author: Are You Syrious?
 date: 2017-03-09T02:35:09.528+0000
 last_modified_at: 2017-03-09T08:42:02.818+0000
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,police-brutality,human-rights,greece]
 description: Smuggling blooms everywhere / New cases of police violence against refugees used to press charges against the Police in Croatia / Floods in…
 image:
-  path: assets/23313700cb0e/1*HmKYlvDba_U8xn5g8ctsHA.jpeg
+  path: ../assets/23313700cb0e/1*HmKYlvDba_U8xn5g8ctsHA.jpeg
 ---
 
 ### AYS Daily Digest 08/03/17: We offer waiting, risking, violence and a cold welcome
 #### Smuggling blooms everywhere / New cases of police violence against refugees used to press charges against the Police in Croatia / Floods in the island camps make life impossible / Information for refugees who have managed to arrive in Greece or islands without having their fingerprints taken / Bulgaria struggles with accepting refugee families in small communities / Austria urges for denying financial support to those who deny international protection to refugees / Evictions in Italy
 
 
-![Iraqi women who have been traumatised at the hand of ISIS are creating through their own projects, to rebuild their livelihoods and independence \(Photo: [Help Refugees](https://www.facebook.com/HelpRefugeesUK/) \)](assets/23313700cb0e/1*HmKYlvDba_U8xn5g8ctsHA.jpeg)
+![Iraqi women who have been traumatised at the hand of ISIS are creating through their own projects, to rebuild their livelihoods and independence \(Photo: [Help Refugees](https://www.facebook.com/HelpRefugeesUK/) \)](../assets/23313700cb0e/1*HmKYlvDba_U8xn5g8ctsHA.jpeg)
 
 Iraqi women who have been traumatised at the hand of ISIS are creating through their own projects, to rebuild their livelihoods and independence \(Photo: [Help Refugees](https://www.facebook.com/HelpRefugeesUK/) \)
 
@@ -59,11 +59,11 @@ The camp is built on a very steep incline so when it rains it flows completely t
 Greece is the biggest recipient of EU home affairs funding at the moment and, after the last visit to some of the camps on the Aegean islands in January, greek minister Mouzalas and the EU Commissioner for Migration Avramopoulos explicitly said that “ Greeks and Europeans have a humanitarian imperative to alleviate the situation on the Greek islands”, but almost 2 months after that the same problems are a daily reality of the island residents\. Hopefully, without bringing them to an even worse situation on the mainland, very soon the responsable officials and organizations will make alleviating the situation on the islands a a priority\.
 
 
-![](assets/23313700cb0e/1*41L_mHWp7uU_JNTHawpU0w.jpeg)
+![](../assets/23313700cb0e/1*41L_mHWp7uU_JNTHawpU0w.jpeg)
 
 
 
-![Photos by: [No more borders, No more tears](https://www.facebook.com/No-more-borders-No-more-tears-1254181771265187/)](assets/23313700cb0e/1*WMyYRlZF0QhrdPwt2FJw_Q.jpeg)
+![Photos by: [No more borders, No more tears](https://www.facebook.com/No-more-borders-No-more-tears-1254181771265187/)](../assets/23313700cb0e/1*WMyYRlZF0QhrdPwt2FJw_Q.jpeg)
 
 Photos by: [No more borders, No more tears](https://www.facebook.com/No-more-borders-No-more-tears-1254181771265187/)
 
@@ -75,15 +75,15 @@ Photos by: [No more borders, No more tears](https://www.facebook.com/No-more-bor
 
 
 
-![](assets/23313700cb0e/1*ocoznq2E3qSJo3tRbESbRQ.jpeg)
+![](../assets/23313700cb0e/1*ocoznq2E3qSJo3tRbESbRQ.jpeg)
 
 
 
-![](assets/23313700cb0e/1*275vIPtTYboUliw-J45RPA.jpeg)
+![](../assets/23313700cb0e/1*275vIPtTYboUliw-J45RPA.jpeg)
 
 
 
-![Photos by: [No more borders, No more tears](https://www.facebook.com/No-more-borders-No-more-tears-1254181771265187/)](assets/23313700cb0e/1*2DAAXdsMokgpDCIAee1zZQ.jpeg)
+![Photos by: [No more borders, No more tears](https://www.facebook.com/No-more-borders-No-more-tears-1254181771265187/)](../assets/23313700cb0e/1*2DAAXdsMokgpDCIAee1zZQ.jpeg)
 
 Photos by: [No more borders, No more tears](https://www.facebook.com/No-more-borders-No-more-tears-1254181771265187/)
 ### Information for refugees — ‘no fingerprints or papers’
@@ -161,7 +161,7 @@ Teams at the Khora Community Centre are continually on the look out for long ter
 As we’ve previously [reported](https://medium.com/@AreYouSyrious/ays-daily-digest-01-03-17-are-some-refugee-nationals-purposly-ignored-a90f6a02e9a3#.ikxp4veue) , Vasilika camp has closed recently and it was said the camp will soon be prepared to host newly arrived refugees from the Greek islands\. However, what most of us had in mind as a “preparation” did not have a fence wall in it as a part of the idea of making it a better place to welcome people\.
 
 
-![](assets/23313700cb0e/1*BKXEt8EN9GAlacG43A-qAA.jpeg)
+![](../assets/23313700cb0e/1*BKXEt8EN9GAlacG43A-qAA.jpeg)
 
 
 We hope the UNHCR and the NGOs present at the site will still be attentive to the circumstances and the needs of the people, even if they didn’t manage to work against the new prison\-looking facility plan\.
@@ -210,7 +210,7 @@ The makeshift camp of San Ferdinando is under a threat of evacuation\.
 
 
 
-![There are still big gaps when it comes to the opportunity for an asylum seeker to legally be employed\. This difference concerns the possibility to work in itself, as well as the delay before getting the right to work\. The ONE EUROPE OF DETENTION, INEQUALITY & RACISM campaign aims at revealing the differences between refugees’ rights across Europe\. More information [here](http://www.asylumineurope.org/comparator/reception) \. By [Greek Forum of Refugees](https://www.facebook.com/Greekforumofrefugees/?ref=page_internal&fref=nf)](assets/23313700cb0e/1*RMLYcEePatUw69xdGkosfg.png)
+![There are still big gaps when it comes to the opportunity for an asylum seeker to legally be employed\. This difference concerns the possibility to work in itself, as well as the delay before getting the right to work\. The ONE EUROPE OF DETENTION, INEQUALITY & RACISM campaign aims at revealing the differences between refugees’ rights across Europe\. More information [here](http://www.asylumineurope.org/comparator/reception) \. By [Greek Forum of Refugees](https://www.facebook.com/Greekforumofrefugees/?ref=page_internal&fref=nf)](../assets/23313700cb0e/1*RMLYcEePatUw69xdGkosfg.png)
 
 There are still big gaps when it comes to the opportunity for an asylum seeker to legally be employed\. This difference concerns the possibility to work in itself, as well as the delay before getting the right to work\. The ONE EUROPE OF DETENTION, INEQUALITY & RACISM campaign aims at revealing the differences between refugees’ rights across Europe\. More information [here](http://www.asylumineurope.org/comparator/reception) \. By [Greek Forum of Refugees](https://www.facebook.com/Greekforumofrefugees/?ref=page_internal&fref=nf)
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 22.07.18: Asylum Cases Backlogged for Years on Lesvos
+title: "AYS Daily Digest 22.07.18: Asylum Cases Backlogged for Years on Lesvos"
 author: Are You Syrious?
 date: 2018-07-23T02:07:57.719+0100
 last_modified_at: 2018-07-23T10:21:39.480+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,lesvos,solidarity,bosnia]
 description: UNHCR complicity in Libya // People smuggling in Nador // Sea rescues // New arrivals in Greece // Violence on the Bosnian-Croatian border…
 image:
-  path: assets/8e41f73b9eb5/1*JLnfAP-eZVhAwFap9RgGIg.jpeg
+  path: ../assets/8e41f73b9eb5/1*JLnfAP-eZVhAwFap9RgGIg.jpeg
 ---
 
 ### AYS Daily Digest 22\.07\.18: Asylum Cases Backlogged for Years on Lesvos
@@ -15,7 +15,7 @@ image:
 _UNHCR complicity in Libya // People smuggling in Nador // Sea rescues // New arrivals in Greece // Violence on the Bosnian\-Croatian border // Protests in Munich // and more…_
 
 
-![Moria camp on Lesvos\. Photo Credit: [Boat Refugee Foundation](https://www.facebook.com/stichtingbootvluchteling/?hc_ref=ARR65KGy2eBdiNzp6KltmQGG0ttKHSXMUiq9SIc4e8Dsr9BJUvtPIo0Nn6Osu-pDHig&fref=nf)](assets/8e41f73b9eb5/1*JLnfAP-eZVhAwFap9RgGIg.jpeg)
+![Moria camp on Lesvos\. Photo Credit: [Boat Refugee Foundation](https://www.facebook.com/stichtingbootvluchteling/?hc_ref=ARR65KGy2eBdiNzp6KltmQGG0ttKHSXMUiq9SIc4e8Dsr9BJUvtPIo0Nn6Osu-pDHig&fref=nf)](../assets/8e41f73b9eb5/1*JLnfAP-eZVhAwFap9RgGIg.jpeg)
 
 Moria camp on Lesvos\. Photo Credit: [Boat Refugee Foundation](https://www.facebook.com/stichtingbootvluchteling/?hc_ref=ARR65KGy2eBdiNzp6KltmQGG0ttKHSXMUiq9SIc4e8Dsr9BJUvtPIo0Nn6Osu-pDHig&fref=nf)
 
@@ -55,7 +55,7 @@ AMDH released some photographs taken inside one of the buildings used by smuggle
 
 ![Photo Credit: AMDH\. “This is how traffickers keep sub\-Saharan Migrants hostage in Nador\.
 A real prison where migrants are crammed and forbidden to go out\.
-It’s really a human trafficking\.”](assets/8e41f73b9eb5/1*Rv09n89rTZsbDZ6Fpglb3Q.jpeg)
+It’s really a human trafficking\.”](../assets/8e41f73b9eb5/1*Rv09n89rTZsbDZ6Fpglb3Q.jpeg)
 
 Photo Credit: AMDH\. “This is how traffickers keep sub\-Saharan Migrants hostage in Nador\.
 A real prison where migrants are crammed and forbidden to go out\.
@@ -77,7 +77,7 @@ The second boat arrived on Samos this morning, carrying 35 people — 16 childre
 On Chios, there was an arrival in the middle of the night of 17 people\. There were 9 minors, 3 women, and 5 men\.
 
 
-![Newly arrived people on Chios\. Photo Credit: SMH](assets/8e41f73b9eb5/1*7BQFjrHXTVQBvW2qYQUGRg.jpeg)
+![Newly arrived people on Chios\. Photo Credit: SMH](../assets/8e41f73b9eb5/1*7BQFjrHXTVQBvW2qYQUGRg.jpeg)
 
 Newly arrived people on Chios\. Photo Credit: SMH
 
@@ -114,7 +114,7 @@ A volunteer group working in the Elefsina camp in Western Greece reported a stri
 Today Arash Hampay shared some photos of a family that is camped outside a refugee camp in Athens\. They are only one of the many who the UNHCR and Greek authorities cannot accommodate\.
 
 
-![A family camps outside the Eleonas camp, Athens\. Photo Credit: [Arash Hampay](https://www.facebook.com/photo.php?fbid=685133505166072&set=pcb.685133541832735&type=3&theater&ifg=1)](assets/8e41f73b9eb5/1*ureqvTlRd2BK-XhGWFHuPg.jpeg)
+![A family camps outside the Eleonas camp, Athens\. Photo Credit: [Arash Hampay](https://www.facebook.com/photo.php?fbid=685133505166072&set=pcb.685133541832735&type=3&theater&ifg=1)](../assets/8e41f73b9eb5/1*ureqvTlRd2BK-XhGWFHuPg.jpeg)
 
 A family camps outside the Eleonas camp, Athens\. Photo Credit: [Arash Hampay](https://www.facebook.com/photo.php?fbid=685133505166072&set=pcb.685133541832735&type=3&theater&ifg=1)
 
@@ -184,13 +184,13 @@ Update from two groups working on the Bosnian\-Croatian border, [Cars Of Hope Wu
 Paypal account: carsofhopewtal@gmail\.com
 
 
-![Building a tent platform in Velika Kladusa\. Photo Credit: Cars of Hope](assets/8e41f73b9eb5/1*n6nDQN2M9Fp8UdWABLtS6A.jpeg)
+![Building a tent platform in Velika Kladusa\. Photo Credit: Cars of Hope](../assets/8e41f73b9eb5/1*n6nDQN2M9Fp8UdWABLtS6A.jpeg)
 
 Building a tent platform in Velika Kladusa\. Photo Credit: Cars of Hope
 ### Germany
 
 
-![Photo Credit: [Beyond Europe](https://www.facebook.com/groups/1652972374920129/)](assets/8e41f73b9eb5/1*WsEpfTec-9x0WCRRRdg4Ug.jpeg)
+![Photo Credit: [Beyond Europe](https://www.facebook.com/groups/1652972374920129/)](../assets/8e41f73b9eb5/1*WsEpfTec-9x0WCRRRdg4Ug.jpeg)
 
 Photo Credit: [Beyond Europe](https://www.facebook.com/groups/1652972374920129/)
 
@@ -207,7 +207,7 @@ Forwarding a message from the [Refugee Community Kitchen](https://www.facebook.c
 
 
 
-![Photo Credit: [Refugee Community Kitchen](https://www.facebook.com/refugeeCkitchen/photos/pcb.2269154633101894/2269151623102195/?type=3&theater&ifg=1)](assets/8e41f73b9eb5/1*vOTTuZ6u35uNkE1Rf0lggQ.jpeg)
+![Photo Credit: [Refugee Community Kitchen](https://www.facebook.com/refugeeCkitchen/photos/pcb.2269154633101894/2269151623102195/?type=3&theater&ifg=1)](../assets/8e41f73b9eb5/1*vOTTuZ6u35uNkE1Rf0lggQ.jpeg)
 
 Photo Credit: [Refugee Community Kitchen](https://www.facebook.com/refugeeCkitchen/photos/pcb.2269154633101894/2269151623102195/?type=3&theater&ifg=1)
 

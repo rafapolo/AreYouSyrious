@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [spain,digest,greece,refugees,covid-19]
 description: Are You Syrious?
 image:
-  path: assets/a5d88b7405e6/0*_6sMv0Lmj_-FppVc.jpeg
+  path: ../assets/a5d88b7405e6/0*_6sMv0Lmj_-FppVc.jpeg
 ---
 
 ### AYS Daily Digest 16/11/20 Canary Islands “will not become” the new Lesvos
 
 
-![](assets/a5d88b7405e6/0*4oR4oJuG_LXpFEEo.jpeg)
+![](../assets/a5d88b7405e6/0*4oR4oJuG_LXpFEEo.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----3a299f34d3b--------------------------------)
@@ -23,11 +23,11 @@ image:
 _New report from Border Violence Monitoring Network // more evidence for Mytilene Port Authority violence // doubled law enforcement along Spanish/French border // COVID conditions in Serbia // and more…_
 
 
-![](assets/a5d88b7405e6/0*xsM5s_JhY6riVUSV)
+![](../assets/a5d88b7405e6/0*xsM5s_JhY6riVUSV)
 
 
 
-![](assets/a5d88b7405e6/0*lVJca7SPbFMKP8Mw.jpeg)
+![](../assets/a5d88b7405e6/0*lVJca7SPbFMKP8Mw.jpeg)
 
 ### FEATURE: Spain’s Minister of the Interior, Fernando Grande\-Marlaska, stated that the Canary Islands “will not become” the new Lesvos
 
@@ -57,19 +57,19 @@ A report and video from the [“Journal of the Editors”](https://www.stonisi.g
 
 
 
-![](assets/a5d88b7405e6/0*gBy_ki5xAlXZost-)
+![](../assets/a5d88b7405e6/0*gBy_ki5xAlXZost-)
 
 
 
-![](assets/a5d88b7405e6/0*oHsiDIL3526_Lwrw.jpeg)
+![](../assets/a5d88b7405e6/0*oHsiDIL3526_Lwrw.jpeg)
 
 
 
-![](assets/a5d88b7405e6/0*VaMKsuQXBE2uZPjX)
+![](../assets/a5d88b7405e6/0*VaMKsuQXBE2uZPjX)
 
 
 
-![](assets/a5d88b7405e6/0*y-Qwz0pqLS6dMPmY.jpeg)
+![](../assets/a5d88b7405e6/0*y-Qwz0pqLS6dMPmY.jpeg)
 
 ### ABR: The Greek Coast Guard performed 16 illegal pushbacks this month
 
@@ -118,11 +118,11 @@ El Pais is reporting that “ _The Constitutional Court will support in the plen
 ### THE BALKANS
 
 
-![](assets/a5d88b7405e6/0*N_NIuG5R2eF6fiaG)
+![](../assets/a5d88b7405e6/0*N_NIuG5R2eF6fiaG)
 
 
 
-![](assets/a5d88b7405e6/0*Ndi_sbzkKM49At39.jpeg)
+![](../assets/a5d88b7405e6/0*Ndi_sbzkKM49At39.jpeg)
 
 
 Update from Info Park about the general situation in Serbia:
@@ -153,11 +153,11 @@ Update from Info Park about the general situation in Serbia:
 
 
 
-![](assets/a5d88b7405e6/0*Nb93Zch38G-LGdTU)
+![](../assets/a5d88b7405e6/0*Nb93Zch38G-LGdTU)
 
 
 
-![](assets/a5d88b7405e6/0*gsYoQ1kI7Sk9DGFO.jpeg)
+![](../assets/a5d88b7405e6/0*gsYoQ1kI7Sk9DGFO.jpeg)
 
 ### BALKAN REGION REPORT — OCTOBER 2020
 
@@ -198,33 +198,33 @@ _– Do you speak a language that we do not cover yet or have you found a mistak
 ### FRANCE
 
 
-![](assets/a5d88b7405e6/0*ayxY3obVdnfvqXqy)
+![](../assets/a5d88b7405e6/0*ayxY3obVdnfvqXqy)
 
 
 
-![](assets/a5d88b7405e6/0*0XXoCr6MbXvQPdSV.jpeg)
+![](../assets/a5d88b7405e6/0*0XXoCr6MbXvQPdSV.jpeg)
 
 ### New report on poverty in France
 
 Info Migrants summarizes “ _The Catholic Secours, which helped nearly 1\.4 million people in France in 2019, points, in a report published on Thursday, to the strong increase of ‘extreme precariousness’ in France\. More and more families helped by the association are ‘regular migrants\.’ Choose to heat your home or to eat? Families ask themselves this question daily in France, according to the annual report on the State of Poverty published on Thursday, November 12, by Secours Catholique \. **More than half of the households surveyed by the association in 2019 live on less than 9 euros per day** and per person to ‘eat, dress, furnish or have fun,’ once the expenses are fixed \(rent, insurance, water and energy bills\) paid_ \.” More [here](https://www.infomigrants.net/fr/post/28533/grande-pauvrete-en-france-2020-annee-de-tous-les-dangers?preview=1605524417679&fbclid=IwAR1vM7uMejycKsv9HvU0ciO22hbuMo9jGVgBR7av1CsWkh2HXIIdiRLiRA4) \.
 
 
-![](assets/a5d88b7405e6/0*5zI3SYbE8YKJyKPx)
+![](../assets/a5d88b7405e6/0*5zI3SYbE8YKJyKPx)
 
 
 
-![](assets/a5d88b7405e6/0*NdrL-Tod4t9BScAy.jpeg)
+![](../assets/a5d88b7405e6/0*NdrL-Tod4t9BScAy.jpeg)
 
 
 To help unaccompanied minors who have been refused by the Social Assistance for Children, Utopia 56 is opening a new “air lock” house\. French media reports that “ _In this house, minors \( \) will be cared for socially, medically and administratively, in addition to having a roof to spend the winter evenings and taking free lessons\. by retired teachers\. Young people should stay there between one and three months, before joining solidarity hosts_ \.” Learn more [here](https://www.ouest-france.fr/centre-val-de-loire/tours-37000/tours-utopia-56-ouvre-une-maison-sas-pour-aider-les-mineurs-non-accompagnes-7053379?fbclid=IwAR0M6cvVd3qMXJYk2PwD77GvwP_sPA5-Lc24a5HPeu3ALsVArGyAB5khLJ8) \.
 ### EU
 
 
-![](assets/a5d88b7405e6/0*UEEzdo6Qfsgpyw28)
+![](../assets/a5d88b7405e6/0*UEEzdo6Qfsgpyw28)
 
 
 
-![](assets/a5d88b7405e6/0*_6sMv0Lmj_-FppVc.jpeg)
+![](../assets/a5d88b7405e6/0*_6sMv0Lmj_-FppVc.jpeg)
 
 ### \#DisasterPact was the \#1 trending hashtag in Germany on Monday\!
 

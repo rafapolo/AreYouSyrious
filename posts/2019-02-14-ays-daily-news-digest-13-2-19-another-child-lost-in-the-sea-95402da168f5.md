@@ -1,5 +1,5 @@
 ---
-title: AYS Daily News Digest 13/2/19: Another child lost in the sea
+title: "AYS Daily News Digest 13/2/19: Another child lost in the sea"
 author: Are You Syrious?
 date: 2019-02-14T10:31:13.008+0000
 last_modified_at: 2019-02-14T14:58:46.845+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,human-rights,asylum]
 description: A girl is presumably dead after trying to reach Greek shore, ongoing SAR / letter to the EU Commission documenting the appalling human…
 image:
-  path: assets/95402da168f5/1*y6m7FV2cs91Y8904JY0qLQ.jpeg
+  path: ../assets/95402da168f5/1*y6m7FV2cs91Y8904JY0qLQ.jpeg
 ---
 
 ### AYS Daily News Digest 13/2/19: Another child lost in the sea
 #### A girl is presumably dead after trying to reach Greek shore, ongoing SAR / letter to the EU Commission documenting the appalling human rights abuses at Vial / starving in Hungary / deprived of the freedom of speech in Bosnia’s camp in Bihać / info for those recently receiving int\. protection in the UK / calls for help and volunteers / and more news
 
 
-![Moria, Photo by: Wassim Omar](assets/95402da168f5/1*y6m7FV2cs91Y8904JY0qLQ.jpeg)
+![Moria, Photo by: Wassim Omar](../assets/95402da168f5/1*y6m7FV2cs91Y8904JY0qLQ.jpeg)
 
 Moria, Photo by: Wassim Omar
 #### FEATURE
@@ -24,7 +24,7 @@ A girl is missing, by now presumably deceased, after a boat carrying 52 people w
 The nine\-year\-old girl from Afghanistan who is missing was traveling with her parents and four siblings\. Survivors have already been transferred to Moria camp\.
 
 
-![Moria, photo by Wassim Omar](assets/95402da168f5/1*dQ4B9--e9ns_NOwmSLwUKw.jpeg)
+![Moria, photo by Wassim Omar](../assets/95402da168f5/1*dQ4B9--e9ns_NOwmSLwUKw.jpeg)
 
 Moria, photo by Wassim Omar
 
@@ -95,27 +95,27 @@ Read more from a very interesting text covering this topic: [here](http://www.hu
 Most recent letter to the EU Commission documenting the appalling human rights abuses happening in plain sight at Vial camp on Chios:
 
 
-![](assets/95402da168f5/1*vc2caPYT6s-51c4CtZPU_A.jpeg)
+![](../assets/95402da168f5/1*vc2caPYT6s-51c4CtZPU_A.jpeg)
 
 
 
-![](assets/95402da168f5/1*NBdclbch8XOa0nfDZV-22Q.jpeg)
+![](../assets/95402da168f5/1*NBdclbch8XOa0nfDZV-22Q.jpeg)
 
 
 
-![](assets/95402da168f5/1*OnInQryWCb6U06wMooC6hA.jpeg)
+![](../assets/95402da168f5/1*OnInQryWCb6U06wMooC6hA.jpeg)
 
 
 
-![](assets/95402da168f5/1*j-o2BVgrQ7CEGAUnXxPH4Q.jpeg)
+![](../assets/95402da168f5/1*j-o2BVgrQ7CEGAUnXxPH4Q.jpeg)
 
 
 
-![](assets/95402da168f5/1*BDuBgOKCAVONdU1rnCko2g.jpeg)
+![](../assets/95402da168f5/1*BDuBgOKCAVONdU1rnCko2g.jpeg)
 
 
 
-![](assets/95402da168f5/1*hnIB46uG4uuf3eIXGNyfCA.jpeg)
+![](../assets/95402da168f5/1*hnIB46uG4uuf3eIXGNyfCA.jpeg)
 
 
 The letter was organized and co\-signed by a number of organizations on Chios and includes the following:
@@ -148,11 +148,11 @@ Signed by:
 The Greek Immigration Ministry plans to remove the Vial camp on the island of Chios to another location on the island\. The ministry will [reportedly](https://l.facebook.com/l.php?u=http%3A%2F%2Fnewpost.gr%2Fpolitiki%2F5c6429a9fdfb5a2f0c592a23%2Fhios-ziteitai-akinito-gia-metegkatastasi-toy-prosfygikoy-kataylismoy%3Ffbclid%3DIwAR1EcLiZOgSCKI1MKwJ5dDgzpFftqhcV_ystKZDYjuXU0i11zRu987svx2w&h=AT3pvhO9p-2yAfbIPJO9IUxnvQFg883mUyNSOVLzhu8b-ORiqcXfOwigItsR9uPwgZtahjIpERut127aU1HfzG1NhU6UDzcfofyw-Ui4k15pqaoMbdi1-_T-V1qgOa5hIVvHDI5SGk145SHKWaCfqQ) build the new camp on an area of 40 acres with a capacity for 1500 refugees\.
 
 
-![](assets/95402da168f5/1*sqdVeBXGS0BJ3AU2xn0oJQ.jpeg)
+![](../assets/95402da168f5/1*sqdVeBXGS0BJ3AU2xn0oJQ.jpeg)
 
 
 
-![infographic: [Salta Katerina](https://www.facebook.com/salta.katerina?__tn__=%2Cd%2AF%2AF-R&eid=ARCYLMdzxfheCmtEyHeXPiaWwFp73d7dIGgEFfZfqa0QHqSz91kU1LtLsjFl5AN_VW-tgkpEUCzltqpz&tn-str=%2AF)](assets/95402da168f5/1*dzxBAa7JX3Cqc-rYhDrf-g.jpeg)
+![infographic: [Salta Katerina](https://www.facebook.com/salta.katerina?__tn__=%2Cd%2AF%2AF-R&eid=ARCYLMdzxfheCmtEyHeXPiaWwFp73d7dIGgEFfZfqa0QHqSz91kU1LtLsjFl5AN_VW-tgkpEUCzltqpz&tn-str=%2AF)](../assets/95402da168f5/1*dzxBAa7JX3Cqc-rYhDrf-g.jpeg)
 
 infographic: [Salta Katerina](https://www.facebook.com/salta.katerina?__tn__=%2Cd%2AF%2AF-R&eid=ARCYLMdzxfheCmtEyHeXPiaWwFp73d7dIGgEFfZfqa0QHqSz91kU1LtLsjFl5AN_VW-tgkpEUCzltqpz&tn-str=%2AF)
 ### Athens
@@ -223,19 +223,19 @@ You can volunteer with [VZWGent4Humanity refugee support](https://www.facebook.c
 Information for those who have recently been granted asylum in London:
 
 
-![](assets/95402da168f5/1*Yeo4ZWNk3PtUH2CutXSv6A.jpeg)
+![](../assets/95402da168f5/1*Yeo4ZWNk3PtUH2CutXSv6A.jpeg)
 
 
 
-![](assets/95402da168f5/1*NR-kXNCjQMeVWp-RfTVYpQ.jpeg)
+![](../assets/95402da168f5/1*NR-kXNCjQMeVWp-RfTVYpQ.jpeg)
 
 
 
-![](assets/95402da168f5/1*lQsIBfs-Zm_G6F_er-21nA.jpeg)
+![](../assets/95402da168f5/1*lQsIBfs-Zm_G6F_er-21nA.jpeg)
 
 
 
-![](assets/95402da168f5/1*eDZf7RQ05E0aekXA0fklgw.jpeg)
+![](../assets/95402da168f5/1*eDZf7RQ05E0aekXA0fklgw.jpeg)
 
 #### SYRIA
 

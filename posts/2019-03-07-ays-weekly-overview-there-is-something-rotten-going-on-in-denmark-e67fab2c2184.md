@@ -1,5 +1,5 @@
 ---
-title: AYS WEEKLY OVERVIEW: “There is something rotten going on in Denmark.”
+title: "AYS WEEKLY OVERVIEW: “There is something rotten going on in Denmark.”"
 author: Are You Syrious?
 date: 2019-03-07T10:08:33.316+0000
 last_modified_at: 2019-03-14T14:05:12.436+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,denmark,digest,human-rights,special]
 description: The political environment in the formerly known ‘fairytale country’ is changing radically one small step at a time. Over the last years…
 image:
-  path: assets/e67fab2c2184/1*riWs0MayBHvJ-f4lbpmrwA.jpeg
+  path: ../assets/e67fab2c2184/1*riWs0MayBHvJ-f4lbpmrwA.jpeg
 ---
 
 ### AYS SPECIAL — Denmark Weekly: “Something is Rotten in the State of Denmark\.”
@@ -15,7 +15,7 @@ image:
 _The political environment in the country formerly known as ‘fairyland’ is changing radically one small step at a time\. Over the past few years, there has been a steady increase in hostile and discriminatory policies and a dehumanizing rhetoric towards people with non\-western backgrounds, particularly Muslims and refugees\. This is characterized by deportations camps, so called “ghetto\-laws”, and an ever\-increasing focus on deportations, just to name a few\. The phrase “we will go as far as we can without actually breaking the conventions” seems to be the motto of the current Danish immigration minister\. In AYS, we will try to write a weekly update on what is actually going on in Denmark\. This to ensure that we can give you information which is as clear as possible\._
 
 
-![Shadow of refugees, by Delawer Omar \(Via FB page [ArtAgainst](https://www.facebook.com/artagainstproject/) \)](assets/e67fab2c2184/1*riWs0MayBHvJ-f4lbpmrwA.jpeg)
+![Shadow of refugees, by Delawer Omar \(Via FB page [ArtAgainst](https://www.facebook.com/artagainstproject/) \)](../assets/e67fab2c2184/1*riWs0MayBHvJ-f4lbpmrwA.jpeg)
 
 Shadow of refugees, by Delawer Omar \(Via FB page [ArtAgainst](https://www.facebook.com/artagainstproject/) \)
 
@@ -36,7 +36,7 @@ In 2016, a [report produced and published](https://www.dr.dk/.../forstaa-sagen-d
 In spite of the criticism the report has received, as well as knowledge of the shady agreement with a country known for being “amongst the world’s most corrupt”, the Danish Immigration Office has proceeded in their effort to deport Somalians\.
 
 
-![By sn\.dk](assets/e67fab2c2184/1*xTIIPTWyvprg9oOS8CzJtg.jpeg)
+![By sn\.dk](../assets/e67fab2c2184/1*xTIIPTWyvprg9oOS8CzJtg.jpeg)
 
 By sn\.dk
 

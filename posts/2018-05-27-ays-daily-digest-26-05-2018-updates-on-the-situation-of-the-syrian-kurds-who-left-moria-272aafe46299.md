@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 26/05/2018: Updates on the situation of the Syrian Kurds who left Moria
+title: "AYS DAILY DIGEST 26/05/2018: Updates on the situation of the Syrian Kurds who left Moria"
 author: Are You Syrious?
 date: 2018-05-27T10:44:15.650+0100
 last_modified_at: 2018-05-27T10:44:15.650+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,moria,human-rights]
 description: Hundreds of Kurds left Moria after clashes in the camp//News of more deaths in Afghanistan//15 people are reported dead after fleeing from…
 image:
-  path: assets/272aafe46299/1*Xej3UWXZyy5EIYRYHaT6PQ.jpeg
+  path: ../assets/272aafe46299/1*Xej3UWXZyy5EIYRYHaT6PQ.jpeg
 ---
 
 ### AYS DAILY DIGEST 26/05/2018: Updates on the situation of the Syrian Kurds who left Moria
@@ -15,7 +15,7 @@ image:
 _Hundreds of Kurds left Moria after clashes in the camp//News of more deaths in Afghanistan//15 people are reported dead after fleeing from captivity in Libya//Around 2000 people reached Italian shores in the past 48 hours//More news from Greece, Bulgaria, Croatia, Sweden\. \._
 
 
-![Credit: Humans 4 Humanity](assets/272aafe46299/1*Xej3UWXZyy5EIYRYHaT6PQ.jpeg)
+![Credit: Humans 4 Humanity](../assets/272aafe46299/1*Xej3UWXZyy5EIYRYHaT6PQ.jpeg)
 
 Credit: Humans 4 Humanity
 
@@ -185,11 +185,11 @@ Appeals for donations for Ramadan\.
 Demo against deportations to Afghanistan was held in Amsterdam\.
 
 
-![](assets/272aafe46299/1*tsSROeC9OFKilbf63MJz1w.jpeg)
+![](../assets/272aafe46299/1*tsSROeC9OFKilbf63MJz1w.jpeg)
 
 
 
-![Credit: Stand up for Afghans — Amsterdam](assets/272aafe46299/1*CaQ0wguz2wjKQUJt6Rv4CQ.jpeg)
+![Credit: Stand up for Afghans — Amsterdam](../assets/272aafe46299/1*CaQ0wguz2wjKQUJt6Rv4CQ.jpeg)
 
 Credit: Stand up for Afghans — Amsterdam
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 29/11/19: What is happening in UNHCR facility in Tripoli?
+title: "AYS Daily Digest 29/11/19: What is happening in UNHCR facility in Tripoli?"
 author: Are You Syrious?
 date: 2019-11-30T11:58:26.409+0000
 last_modified_at: 2019-11-30T12:35:58.011+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [refugees,europe,digest,libya,unhcr]
 description: Follow up on yesterday’s news about the situation in Tripoli Gathering and Departure Facility (GDF)
 image:
-  path: assets/70ee767cd2e7/1*fnU2-QZgaTK1W5u_-pW4NA.jpeg
+  path: ../assets/70ee767cd2e7/1*fnU2-QZgaTK1W5u_-pW4NA.jpeg
 ---
 
 ### AYS Daily Digest 29/11/19: What is happening in the UNHCR facility in Tripoli?
 
 
-![By Panos Zacharis](assets/70ee767cd2e7/1*fnU2-QZgaTK1W5u_-pW4NA.jpeg)
+![By Panos Zacharis](../assets/70ee767cd2e7/1*fnU2-QZgaTK1W5u_-pW4NA.jpeg)
 
 By Panos Zacharis
 ### Follow up on yesterday’s news about the situation in Tripoli Gathering and Departure Facility \(GDF\)

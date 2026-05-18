@@ -1,5 +1,5 @@
 ---
-title: AYS Special from Greece: Human rights defenders targets of defamation and media smear campaigns
+title: "AYS Special from Greece: Human rights defenders targets of defamation and media smear campaigns"
 author: Are You Syrious?
 date: 2022-07-03T21:38:47.809+0100
 last_modified_at: 2022-07-03T21:38:47.809+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [special,ays,refugees,greece,human-rights-defenders]
 description: Since the election of the right-wing Nea Demokratia party in 2019, the promulgation of the International Protection Act (IPA — L…
 image:
-  path: assets/2db92bc6c791/1*efenEt2qOMFd7mRaKILFNA.jpeg
+  path: ../assets/2db92bc6c791/1*efenEt2qOMFd7mRaKILFNA.jpeg
 ---
 
 ### AYS Special from Greece: Human rights defenders targets of defamation and media smear campaigns
 #### Since the election of the right\-wing Nea Demokratia party in 2019, the promulgation of the International Protection Act \(IPA — L\. 4636/2019\) and the events that unfolded at the Evros border in March 2020 when Erdogan [“opened the doors”](https://www.nytimes.com/2020/02/29/world/europe/turkey-migrants-eu.html) to Europe, the rule of law in Greece has been subject to coherent and systematic erosion\.
 
 
-![Photo: BVMN](assets/2db92bc6c791/1*efenEt2qOMFd7mRaKILFNA.jpeg)
+![Photo: BVMN](../assets/2db92bc6c791/1*efenEt2qOMFd7mRaKILFNA.jpeg)
 
 Photo: BVMN
 ### EU hinting a potential non\-reimbursement due to violent pushback, but…
@@ -55,7 +55,7 @@ A number of civil society actors and [international human rights institutions](h
 **Over the last two weeks, two investigations have been published which contribute to an extensive body of evidence that has been documenting systematic violations of fundamental rights at the Greece\-Turkey land border\.**
 
 
-![Photo: BVMN](assets/2db92bc6c791/1*w-DDAV_aLgS1VF8rKyAHSw.jpeg)
+![Photo: BVMN](../assets/2db92bc6c791/1*w-DDAV_aLgS1VF8rKyAHSw.jpeg)
 
 Photo: BVMN
 
@@ -75,7 +75,7 @@ Indeed, the Spiegel article quotes local residents calling the practice an “op
 Just a few days after these reports were published across international media outlets, BVMN [released an investigation](https://www.borderviolence.eu/20548-2/) that documents the increasing use of Rule 39 measures to ensure secure access to international protection for asylum seekers in the mainland\. The report details three case studies whereby transit groups were stranded on islets in the Evros river, and sent out distress calls to state and civil society actors who responded by filing for interim measures at the European Court of Human Rights \(ECtHR\) \.
 
 
-![Photo: BVMN](assets/2db92bc6c791/1*84OIUJOFQ-kDnfbXnUDmQw.png)
+![Photo: BVMN](../assets/2db92bc6c791/1*84OIUJOFQ-kDnfbXnUDmQw.png)
 
 Photo: BVMN
 

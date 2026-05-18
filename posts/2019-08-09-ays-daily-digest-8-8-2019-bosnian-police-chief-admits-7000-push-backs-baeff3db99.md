@@ -5,16 +5,16 @@ date: 2019-08-09T10:04:08.006+0100
 last_modified_at: 2019-08-09T16:32:06.056+0100
 categories: Are You Syrious?
 tags: [refugees,bosnia,migrants,asylum-seekers]
-description: Harder to get citizenship, easier to be deported: Changes in German law digested / Day seven without safe harbour for Proactiva Open Arms…
+description: "Harder to get citizenship, easier to be deported: Changes in German law digested / Day seven without safe harbour for Proactiva Open Arms…"
 image:
-  path: assets/baeff3db99/1*ZXAiEL_-evTgfHWmP9xBbQ.jpeg
+  path: ../assets/baeff3db99/1*ZXAiEL_-evTgfHWmP9xBbQ.jpeg
 ---
 
 ### AYS Daily Digest 8/8/2019 — Bosnian police chief admits 7000 push\-backs
 #### Harder to get citizenship, easier to be deported: Changes in German law digested / Day seven without a safe harbour for Proactiva Open Arms / French government\-issued cash cards for refugees will become pay cards for limited spending in stores
 
 
-![Zoran Galić says they need more reinforcements to tackle illegal migration\. Photo: Granična policija BiH](assets/baeff3db99/1*ZXAiEL_-evTgfHWmP9xBbQ.jpeg)
+![Zoran Galić says they need more reinforcements to tackle illegal migration\. Photo: Granična policija BiH](../assets/baeff3db99/1*ZXAiEL_-evTgfHWmP9xBbQ.jpeg)
 
 Zoran Galić says they need more reinforcements to tackle illegal migration\. Photo: Granična policija BiH
 #### Bosnian Border Police Chief Openly Admits 7000 Push\-Backs to Serbia and Montenegro, Calls for Help from EU
@@ -33,7 +33,7 @@ Galić further explained how they lack surveillance equipment such as scout\-gua
 It is currently estimated that up to 8,000 migrants are present in Bosnia and Herzegovina, around 5,000 them being registered in official camps and settlements\. One of the recently opened “official” settlements include Vučijak, an open\-air camp with 70 large tents built on the toxic soil of an ex\-dump in the Una\-Sana canton, northern Bosnia\. Most of the people living there hope to reach Europe via Croatia, which holds one of the most violent and dangerous borders on the route\.
 
 
-![Refugees in Vučijak, a camp built on polluted Bosnian soil\. Photo: [Graz: Donations convoy](https://www.facebook.com/GrazSpendenkonvoi/)](assets/baeff3db99/1*8A_CRLngT2b360Pr3QpBwA.jpeg)
+![Refugees in Vučijak, a camp built on polluted Bosnian soil\. Photo: [Graz: Donations convoy](https://www.facebook.com/GrazSpendenkonvoi/)](../assets/baeff3db99/1*8A_CRLngT2b360Pr3QpBwA.jpeg)
 
 Refugees in Vučijak, a camp built on polluted Bosnian soil\. Photo: [Graz: Donations convoy](https://www.facebook.com/GrazSpendenkonvoi/)
 #### Croatian Ministry of Interior Denies Violence, Admits “Discouragement Measures”
@@ -45,7 +45,7 @@ Following the media frenzy about a group of 18 migrants who were found severely 
 A rescue ship carrying 121 refugees is still not allowed to disembark in any EU port, Italy and Malta being the nearest EU countries\. The ship is floating in the middle of the Mediterranean, with sick people, children, and victims of abuse on deck, including a person with two gunshot wounds inflicted by guards at a Libyan detention center\. According to the Proactiva crew, it is increasingly difficult to explain to the people on board why they cannot land in a safe harbor where they will not be in danger\.
 
 
-![121 people on board the ship are waiting for EU mercy\. Photo: Francisco Gentico via Proactiva](assets/baeff3db99/1*szEEbXOcqkHo1w9OkLNwPw.jpeg)
+![121 people on board the ship are waiting for EU mercy\. Photo: Francisco Gentico via Proactiva](../assets/baeff3db99/1*szEEbXOcqkHo1w9OkLNwPw.jpeg)
 
 121 people on board the ship are waiting for EU mercy\. Photo: Francisco Gentico via Proactiva
 ### Germany
@@ -63,7 +63,7 @@ These changes are part of a larger package of legal measures that have been intr
 Despite sharp increase of violence in the past several months and years of non\-stop danger for many of the citizens of Afghanistan, Germany is one of the European countries that considers Afghanistan a “safe country,” which enables deportation flights to be carried out on regular basis\. DPA journalists boarded one of the deportation flights from Leipzig to Kabul and explained the process in detail\. InfoMigrants have published an extensive article about their trip to a war\-torn land\.
 
 
-![Deportation from Leipzig to Kabul\. Photo: picture\-alliance/dpa/M\. Kappeler via InfoMigrants\.net](assets/baeff3db99/1*BYWMbtZVMCEAYZ7HdohxYg.jpeg)
+![Deportation from Leipzig to Kabul\. Photo: picture\-alliance/dpa/M\. Kappeler via InfoMigrants\.net](../assets/baeff3db99/1*BYWMbtZVMCEAYZ7HdohxYg.jpeg)
 
 Deportation from Leipzig to Kabul\. Photo: picture\-alliance/dpa/M\. Kappeler via InfoMigrants\.net
 
@@ -83,7 +83,7 @@ The French office for immigration and integration has announced a change of oper
 A [petition](https://www.change.org/p/l-office-fran%C3%A7ais-de-l-immigration-et-de-l-int%C3%A9gration-non-au-changement-de-fonctionnement-de-la-carte-d-allocation-des-demandeurs-d-asile?recruiter=62963798&utm_source=share_petition&utm_medium=facebook&utm_campaign=petition_dashboard&recruited_by_id=3a085ad4-c8a6-4cae-ac12-56c891a5cee5&utm_content=starter_fb_share_content_fr-fr%3Av1&fbclid=IwAR1u89W5yD5rv0w8Voi5X1GFw3PNR61VC3gVPsroWge5xBoDreZyKYqFJos) was started to oppose this decision, which might further complicate the lives of asylum seekers, especially those who are still sleeping rough and who more often need smaller amounts of money for basic necessities such as bread and bus tickets instead of doing all of the shopping at once\.
 
 
-![For refugees sleeping rough, having their own cash was a single drop of dignity\. Photo: PRGS](assets/baeff3db99/1*FjOlDSn9aztIX-NT5txNKg.jpeg)
+![For refugees sleeping rough, having their own cash was a single drop of dignity\. Photo: PRGS](../assets/baeff3db99/1*FjOlDSn9aztIX-NT5txNKg.jpeg)
 
 For refugees sleeping rough, having their own cash was a single drop of dignity\. Photo: PRGS
 #### It Took 27 Days to Free a Minor Who Was Illegally Placed in Detention

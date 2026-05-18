@@ -1,19 +1,19 @@
 ---
-title: AYS 19/8: Malaria unofficially confirmed in Sindos-Frakapor camp
+title: "AYS 19/8: Malaria unofficially confirmed in Sindos-Frakapor camp"
 author: Are You Syrious?
 date: 2016-08-20T00:12:42.487+0100
 last_modified_at: 2016-08-20T05:34:57.771+0100
 categories: 
 tags: [refugees,europe,migration]
-description: Sindos-Frakapor camp: unbearable stench, malaria and newborn babies in the middle of nowhere
+description: "Sindos-Frakapor camp: unbearable stench, malaria and newborn babies in the middle of nowhere"
 image:
-  path: assets/7a2b45cd64b3/1*KjPBWkDGQ6ZcIC2aIdkdrA.jpeg
+  path: ../assets/7a2b45cd64b3/1*KjPBWkDGQ6ZcIC2aIdkdrA.jpeg
 ---
 
 ### AYS 19/8: Malaria unofficially confirmed in Sindos\-Frakapor camp
 
 
-![Our staff has visited refugees in Sindos\-Frakapor, where cases of malaria were unofficially confirmed by independent medical professionals\. Photo: AYS](assets/7a2b45cd64b3/1*KjPBWkDGQ6ZcIC2aIdkdrA.jpeg)
+![Our staff has visited refugees in Sindos\-Frakapor, where cases of malaria were unofficially confirmed by independent medical professionals\. Photo: AYS](../assets/7a2b45cd64b3/1*KjPBWkDGQ6ZcIC2aIdkdrA.jpeg)
 
 Our staff has visited refugees in Sindos\-Frakapor, where cases of malaria were unofficially confirmed by independent medical professionals\. Photo: AYS
 ### **Sindos\-Frakapor cam** p: unbearable stench, malaria and newborn babies in the middle of nowhere
@@ -23,14 +23,14 @@ AYS voluneers have visited 550 refugees from Idomeni who are accomodated in Sind
 Approaching the camp by abandoned road, one can feel the unbearable stench rising from nearby heaps of fertilizer\. We were appalled to see at least 20 newborn babies in completely unacceptable living conditions in Sindos\-Frakapor, in the middle of nowhere, surrounded by swamp and piles of trash\.
 
 
-![Heaps of fertilizer and piles of trash surrounding Sindos\-Frakapor camp\. Photo: AYS](assets/7a2b45cd64b3/1*9IgP9-Qx-PeYhXB8mGfK8g.jpeg)
+![Heaps of fertilizer and piles of trash surrounding Sindos\-Frakapor camp\. Photo: AYS](../assets/7a2b45cd64b3/1*9IgP9-Qx-PeYhXB8mGfK8g.jpeg)
 
 Heaps of fertilizer and piles of trash surrounding Sindos\-Frakapor camp\. Photo: AYS
 
 Medical support is very basic, and refugees are dependent solely on military food as there are no inhabited areas or gas stations with shops nearby\. Mosquitoes are swarming everywhere, and only recently refugees managed to get some repellents for individual use\. There are no electric insect traps \(bug zappers\) or ventilators\. If you can donate larger amounts of such devices, please do — it will make a huge difference for people in the camp\.
 
 
-![Peace, love, hope, fredom: We will nevergive up\. A graffiti on camp walls\. Photo: AYS](assets/7a2b45cd64b3/1*a1qG80mq6S8AYm3yLBvqsw.jpeg)
+![Peace, love, hope, fredom: We will nevergive up\. A graffiti on camp walls\. Photo: AYS](../assets/7a2b45cd64b3/1*a1qG80mq6S8AYm3yLBvqsw.jpeg)
 
 Peace, love, hope, fredom: We will nevergive up\. A graffiti on camp walls\. Photo: AYS
 
@@ -45,7 +45,7 @@ Following recent announcement of volunteers who had to make a tough decision to 
 After ending all of their activities in Thessaloniki, [Northern Lights Aid](https://www.facebook.com/Northernlightsaid/) has moved to a new camp in Kavala, where they are supporting the new camp that was opened on Friday, August 5 when about 200 people were moved from their previous residence at a nearby camp with limited resources and potential to sustain a community environment\.
 
 
-![Little residents of the new camp\. Photo: Northern Lights Aid](assets/7a2b45cd64b3/1*UeUA-SNqwXpfMCKndfdWSg.jpeg)
+![Little residents of the new camp\. Photo: Northern Lights Aid](../assets/7a2b45cd64b3/1*UeUA-SNqwXpfMCKndfdWSg.jpeg)
 
 Little residents of the new camp\. Photo: Northern Lights Aid
 
@@ -82,7 +82,7 @@ You can see the informational video in Arabic [here](https://vimeo.com/178591834
 In Calais, Refugee Info Bus reports, the local police and CRS riot squad were expeditious in demolishing the tents which were used as replacements for the recently burned down „French School Ecole D’Art“\. It is once more necessary to stress the fact that the number of people populating the „Jungle“ refugee camp in Calais has surpassed 9000 — the majority of them connected by an aspiration for making a better life for themselves in Europe, by learning English and French, in order to be able to work, continue their education and integrate into European society\.
 
 
-![Police today evict the French School Ecole D’Art\. Photo: Refugee Infoo Bus](assets/7a2b45cd64b3/1*Ar052_pOWXtYyMODRLIJ_Q.jpeg)
+![Police today evict the French School Ecole D’Art\. Photo: Refugee Infoo Bus](../assets/7a2b45cd64b3/1*Ar052_pOWXtYyMODRLIJ_Q.jpeg)
 
 Police today evict the French School Ecole D’Art\. Photo: Refugee Infoo Bus
 

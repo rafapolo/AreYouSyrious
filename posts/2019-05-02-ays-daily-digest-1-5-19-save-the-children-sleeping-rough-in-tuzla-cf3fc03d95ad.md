@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 1/5/19: (Save the) Children Sleeping Rough in Tuzla
+title: "AYS Daily Digest 1/5/19: (Save the) Children Sleeping Rough in Tuzla"
 author: Are You Syrious?
 date: 2019-05-02T11:41:05.592+0100
 last_modified_at: 2019-05-02T12:57:30.353+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [europe,digest,refugees,slovenia,bosnia]
 description: Things worsen for people arriving and those helping in Tuzla / Slovenia takes part in the push back ‘domino’ /More people are embarking on…
 image:
-  path: assets/cf3fc03d95ad/1*SyjfFP_H_IWxgeVFGsV5OQ.jpeg
+  path: ../assets/cf3fc03d95ad/1*SyjfFP_H_IWxgeVFGsV5OQ.jpeg
 ---
 
 ### AYS Daily Digest 1/5/19: \(Save the\) Children Sleeping Rough in Tuzla
 #### Things worsen for people arriving and those helping in Tuzla / Slovenia takes part in the push back ‘domino’ / More people are embarking on the overseas journey / Protest in Belgium / updates, news and calls for aid & volunteering
 
 
-![Tuzla \(Photo: local volunteers\)](assets/cf3fc03d95ad/1*SyjfFP_H_IWxgeVFGsV5OQ.jpeg)
+![Tuzla \(Photo: local volunteers\)](../assets/cf3fc03d95ad/1*SyjfFP_H_IWxgeVFGsV5OQ.jpeg)
 
 Tuzla \(Photo: local volunteers\)
 #### FEATURED STORIES
@@ -37,7 +37,7 @@ A local volunteer wrote this today, perhaps best describing what is happening:
 
 
 
-![Children sleeping in front of the Office for foreigners in Tuzla \(All photos taken by local volunteers from Tuzla\)](assets/cf3fc03d95ad/1*iSnDa7ikQo3TwsJYWzYdVA.jpeg)
+![Children sleeping in front of the Office for foreigners in Tuzla \(All photos taken by local volunteers from Tuzla\)](../assets/cf3fc03d95ad/1*iSnDa7ikQo3TwsJYWzYdVA.jpeg)
 
 Children sleeping in front of the Office for foreigners in Tuzla \(All photos taken by local volunteers from Tuzla\)
 
@@ -49,15 +49,15 @@ Children sleeping in front of the Office for foreigners in Tuzla \(All photos ta
 
 
 
-![](assets/cf3fc03d95ad/1*_x_GTYC8v8Y2ogh7Sxr3ag.jpeg)
+![](../assets/cf3fc03d95ad/1*_x_GTYC8v8Y2ogh7Sxr3ag.jpeg)
 
 
 
-![](assets/cf3fc03d95ad/1*_50RiWJfTbqb23Tc0CtKrA.jpeg)
+![](../assets/cf3fc03d95ad/1*_50RiWJfTbqb23Tc0CtKrA.jpeg)
 
 
 
-![All photos taken by local volunteers from Tuzla](assets/cf3fc03d95ad/1*YPGWaOjj0IS_Z5MR-RjMPw.jpeg)
+![All photos taken by local volunteers from Tuzla](../assets/cf3fc03d95ad/1*YPGWaOjj0IS_Z5MR-RjMPw.jpeg)
 
 All photos taken by local volunteers from Tuzla
 ### Number of people allowed to ask for asylum downsized, push backs continue in Slovenia
@@ -107,7 +107,7 @@ Last week, the Alarm Phone was alerted to six groups in distress in the Aegean S
 For help with changing your data please get in contact with your lawyer or social worker or send a message to the [Mobile Info Team for refugees in Greece](https://www.facebook.com/mobileinfoteam/?__xts__%5B0%5D=68.ARCrTuzdxdqqpuVpB3XKuH25OAVlPTJCq2a91Ap2erdvWdykQNdq2q2e0C8onBxmr61Cyy5QCh8CkxTQn-fsqLdw93d0mw6AUQdLCaCFvijuHbf8bjKbgmreBax2tSJmJzGl6mkNuPnvjzXwHNULZJHI1RcaT5lQR9ZPX5jaW36vl9Sz9bv76nMpuD84muvDKvFicJXo8Rvp8_S0MSg_qK6kVCYkxK0-rfvNbGnh2wy_iZqQJ0UnyisV7GZ3Bb9oob99Rg6qeoBPXodkHM0Yax9VIQgzPaexGedIyu1rcH263rn5JtQlFxvj8jpixw_d4u09_2iNpbfbirsaFpsoMvN_10nA&__xts__%5B1%5D=68.ARAocfq72T6Ei0ffjViAHcjm42X2ogzlN36JMU5PszxRNaz8_vmvBc6Jz0Mz-yKH8mjY3oEZIJSs93dFD4rhWuZDdTqN0G3-RMwkVTvcLpbfyfkw9ftHuZFpkzK4qrrMSELWKnlHJVKhXMZCgI-j5AqAIOoj80KblIqYQ09qFmn0irXm8wRXK_s2ssQi5blg-xc8r7WCfN9QFdQeVJytUGNfRI0R9G6CWLrOD98-JfmyB1PxScKanFN9LLaotYywP3LRUZovfKjYC5Vv71ihzCy6CISevW-5e6PCs-qfSvZOzAj8k0lDMKOwghlWllQxMFRgiLZHPUlSXzwVtJrmMx7qR9Oh&__tn__=kC-R&eid=ARCEgfQpM85GZnWDeEWVM7UL_0ubT_3kUSMeZpbFhOFPelClR2WRkwz7N6Gkjr5WEmOch6TK3LcxCrVX&hc_ref=ARTZDwrxdCaEiYF4JV8hcULCgIizRE09tzOXw9QO5Cofp2hNFIJq8-MVzN6VW2QMpEA&fref=nf) team\.
 
 
-![](assets/cf3fc03d95ad/1*T5z7W5bTOoVlkJXW2IcFbQ.jpeg)
+![](../assets/cf3fc03d95ad/1*T5z7W5bTOoVlkJXW2IcFbQ.jpeg)
 
 #### Volunteering
 

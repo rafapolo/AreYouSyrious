@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 04/07/19: 55 people were rescued. What happens now?
+title: "AYS Daily Digest 04/07/19: 55 people were rescued. What happens now?"
 author: Are You Syrious?
 date: 2019-07-05T00:15:23.287+0100
 last_modified_at: 2019-07-05T12:44:36.664+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,sea-rescue,digest,solidarity,human-rights]
 description: Update on bombing in Tripoli detention center // Rescues and missing at sea // over 400 arrive on Aegean islands // Fascist terror cell…
 image:
-  path: assets/d3c7bebbb98/1*dh45Ob45d3o72WrGHPIrVQ.jpeg
+  path: ../assets/d3c7bebbb98/1*dh45Ob45d3o72WrGHPIrVQ.jpeg
 ---
 
 ### AYS Daily Digest 04/07/19: 55 people were rescued\. What happens now?
@@ -15,7 +15,7 @@ image:
 _Update on bombing in Tripoli detention center // Rescues and missing at sea // Over 400 arrive on Aegean islands // Fascist terror cell leader arrested // HRW releases report on abuse of refugees in Greece // Demos against criminalization of sea rescue // and more…_
 
 
-![Illustration: [Le convoi solidaire 2017](https://www.facebook.com/Le-convoi-solidaire-2017-1401521959899921/?__tn__=%2CdkCH-R-R&eid=ARChStv3Kx5xyK1PPtEsLWFLFTazIZYKu8jqdLt81-GgfxUPHPeyODKWKvKbnBJI-3egTmhIJItjA4k4&hc_ref=ARRUKg4tczHKGW2W_XbfCBODCKdU61DZ24vufIlEVTd_2JfxcvyNzYv0YikhKV4UA5g&fref=nf&hc_location=group) / Urka](assets/d3c7bebbb98/1*dh45Ob45d3o72WrGHPIrVQ.jpeg)
+![Illustration: [Le convoi solidaire 2017](https://www.facebook.com/Le-convoi-solidaire-2017-1401521959899921/?__tn__=%2CdkCH-R-R&eid=ARChStv3Kx5xyK1PPtEsLWFLFTazIZYKu8jqdLt81-GgfxUPHPeyODKWKvKbnBJI-3egTmhIJItjA4k4&hc_ref=ARRUKg4tczHKGW2W_XbfCBODCKdU61DZ24vufIlEVTd_2JfxcvyNzYv0YikhKV4UA5g&fref=nf&hc_location=group) / Urka](../assets/d3c7bebbb98/1*dh45Ob45d3o72WrGHPIrVQ.jpeg)
 
 Illustration: [Le convoi solidaire 2017](https://www.facebook.com/Le-convoi-solidaire-2017-1401521959899921/?__tn__=%2CdkCH-R-R&eid=ARChStv3Kx5xyK1PPtEsLWFLFTazIZYKu8jqdLt81-GgfxUPHPeyODKWKvKbnBJI-3egTmhIJItjA4k4&hc_ref=ARRUKg4tczHKGW2W_XbfCBODCKdU61DZ24vufIlEVTd_2JfxcvyNzYv0YikhKV4UA5g&fref=nf&hc_location=group) / Urka
 #### Feature: “Alex” Rescues 54 in Distress\. But Will It Become the Next Stranded Ship?
@@ -24,13 +24,13 @@ Illustration: [Le convoi solidaire 2017](https://www.facebook.com/Le-convoi-soli
 
 
 ![Rescued people aboard the Alex\. Photo Credit: 
-[Mediterranea Saving Humans\.](https://www.facebook.com/Mediterranearescue/posts/392563464698217?hc_location=ufi)](assets/d3c7bebbb98/1*wVp93weaWbBrR_mI0o8KzQ.jpeg)
+[Mediterranea Saving Humans\.](https://www.facebook.com/Mediterranearescue/posts/392563464698217?hc_location=ufi)](../assets/d3c7bebbb98/1*wVp93weaWbBrR_mI0o8KzQ.jpeg)
 
 Rescued people aboard the Alex\. Photo Credit: 
 [Mediterranea Saving Humans\.](https://www.facebook.com/Mediterranearescue/posts/392563464698217?hc_location=ufi)
 
 
-![A number of people on board have urgent medical needs, including three pregnant women\. Photo Credit: [Mediterranea Saving Humans\.](https://www.facebook.com/Mediterranearescue/posts/392563464698217?hc_location=ufi)](assets/d3c7bebbb98/1*Z17HoLyr0oQH9mfqsNriVg.jpeg)
+![A number of people on board have urgent medical needs, including three pregnant women\. Photo Credit: [Mediterranea Saving Humans\.](https://www.facebook.com/Mediterranearescue/posts/392563464698217?hc_location=ufi)](../assets/d3c7bebbb98/1*Z17HoLyr0oQH9mfqsNriVg.jpeg)
 
 A number of people on board have urgent medical needs, including three pregnant women\. Photo Credit: [Mediterranea Saving Humans\.](https://www.facebook.com/Mediterranearescue/posts/392563464698217?hc_location=ufi)
 
@@ -59,7 +59,7 @@ As the ship was en route to its rescue operation, it encountered the remains of 
 
 
 ![“There is a serious chance that it is the remains of a “Ghost” wreck\.” Photo Credit: 
-Mediterranea Saving Humans](assets/d3c7bebbb98/1*VFgU2_sk2jfZYb209WG3_Q.jpeg)
+Mediterranea Saving Humans](../assets/d3c7bebbb98/1*VFgU2_sk2jfZYb209WG3_Q.jpeg)
 
 “There is a serious chance that it is the remains of a “Ghost” wreck\.” Photo Credit: 
 Mediterranea Saving Humans
@@ -132,7 +132,7 @@ Also a twelfth boat is reported landed on Kos\.
 24 people, numbers not confirmed\.
 
 
-![Photo Credit: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/605868129936295?hc_location=ufi)](assets/d3c7bebbb98/1*i84fPBVDr_700gvKB1soaA.jpeg)
+![Photo Credit: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/605868129936295?hc_location=ufi)](../assets/d3c7bebbb98/1*i84fPBVDr_700gvKB1soaA.jpeg)
 
 Photo Credit: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/605868129936295?hc_location=ufi)
 
@@ -150,7 +150,7 @@ A 48 year old man, who worked as an academic, has been arrested for charges of a
 #### Demonstrations Against Death in Libya
 
 
-![](assets/d3c7bebbb98/1*v2M2GK8wDiUgOKcfAhQSfg.jpeg)
+![](../assets/d3c7bebbb98/1*v2M2GK8wDiUgOKcfAhQSfg.jpeg)
 
 
 On 06\.07 demonstrations will take place against the EU financing of criminal militias and the crimilization of sea rescue\. You can find a list of events and locations \(mostly in Germany, but also in some other European cities and New York\) [here\.](https://www.facebook.com/SeebrueckeSchafftsichereHaefen/photos/a.640137809691739/876508312721353/?type=3&theater)

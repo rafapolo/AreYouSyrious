@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 18–19/01/20: Italian police responsible for the death of a man imprisoned in the…
+title: "AYS Weekend Digest 18–19/01/20: Italian police responsible for the death of a man imprisoned in the…"
 author: Are You Syrious?
 date: 2020-01-20T14:15:46.499+0000
 last_modified_at: 2020-01-20T14:15:46.499+0000
@@ -7,18 +7,18 @@ categories: Are You Syrious?
 tags: []
 description: Statement of Afghanistan Migrants Advice and Support Organisation on their support for people deported to Kabul // Video showing Turkish…
 image:
-  path: assets/6c6dc5ffdb3e/0*aQp8t3FQulsIdJoG.jpeg
+  path: ../assets/6c6dc5ffdb3e/0*aQp8t3FQulsIdJoG.jpeg
 ---
 
 ### AYS Weekend Digest 18–19/01/20: Italian police responsible for the death of a man imprisoned in the CPR of Gradisca
 #### Statement of Afghanistan Migrants Advice and Support Organisation on their support for people deported to Kabul // Video showing Turkish Coastguards ramming refugee boat // Urgent petition to keep the transit camp on Lesvos running // Journalist beaten by fascists // Opening hours of Khora asylum support team // Czech Republic discussion about the fate of 40 unaccompanied minors // Numbers of latest deportations from Germany to Kabul // Upcoming deportation of a single 19 year old woman from France to Kabul
 
 
-![](assets/6c6dc5ffdb3e/0*Dg6ONeh0a0vBwgii)
+![](../assets/6c6dc5ffdb3e/0*Dg6ONeh0a0vBwgii)
 
 
 
-![](assets/6c6dc5ffdb3e/0*aQp8t3FQulsIdJoG.jpeg)
+![](../assets/6c6dc5ffdb3e/0*aQp8t3FQulsIdJoG.jpeg)
 
 
 Demonstration in front of the CPR\. Copyrights: No Cpr no Frontiere — FVG

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 10/07/2019: The Times Are A-Changin’: City Plaza Evacuates
+title: "AYS Daily Digest 10/07/2019: The Times Are A-Changin’: City Plaza Evacuates"
 author: Are You Syrious?
 date: 2019-07-11T12:52:40.621+0100
 last_modified_at: 2019-07-11T13:30:15.773+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,bosnia,greece,solidarity]
 description: Endings, reflections and beginnings // Abuse and degradation in Bosnia // Suicide attempt thwarted in Italy // New immigration law in…
 image:
-  path: assets/ba84348b5fc6/1*8c76dWMpElyBg-Tk73OP-g.jpeg
+  path: ../assets/ba84348b5fc6/1*8c76dWMpElyBg-Tk73OP-g.jpeg
 ---
 
 ### AYS Daily Digest 10/07/2019: The Times Are A\-Changin’: City Plaza Evacuates
@@ -15,7 +15,7 @@ image:
 _Endings, reflections and beginnings // Abuse and degradation in Bosnia // Suicide attempt thwarted in Italy // New immigration law in Sweden // More…_
 
 
-![City Plaza is Everywhere, Photo Credit: City Plaza](assets/ba84348b5fc6/1*8c76dWMpElyBg-Tk73OP-g.jpeg)
+![City Plaza is Everywhere, Photo Credit: City Plaza](../assets/ba84348b5fc6/1*8c76dWMpElyBg-Tk73OP-g.jpeg)
 
 City Plaza is Everywhere, Photo Credit: City Plaza
 
@@ -53,7 +53,7 @@ Additionally ABR notes that 71 people arrived at Greek Islands, with three boats
 Below you can find ABR’s monthly snapshot:
 
 
-![Photo Credit: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport)](assets/ba84348b5fc6/1*_AZEHMPN2vjgr67dKegX2g.jpeg)
+![Photo Credit: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport)](../assets/ba84348b5fc6/1*_AZEHMPN2vjgr67dKegX2g.jpeg)
 
 Photo Credit: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport)
 

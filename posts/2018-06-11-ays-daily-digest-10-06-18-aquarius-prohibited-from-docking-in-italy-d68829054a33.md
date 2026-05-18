@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 10/06/18: Aquarius prohibited from docking in Italy
+title: "AYS Daily Digest 10/06/18: Aquarius prohibited from docking in Italy"
 author: Are You Syrious?
 date: 2018-06-11T10:26:35.817+0100
 last_modified_at: 2018-06-11T16:34:32.778+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,human-rights,italy]
 description: Ceasefire in Afghanistan during Eid // 334 people rescued by Spanish Maritime Services // Sea-Watch detained and unable to assist boats in…
 image:
-  path: assets/d68829054a33/1*Jhz310Mnpp3AIBlMn-cUkA.jpeg
+  path: ../assets/d68829054a33/1*Jhz310Mnpp3AIBlMn-cUkA.jpeg
 ---
 
 ### AYS Daily Digest 10/06/18: Aquarius prohibited from docking in Italy
@@ -15,7 +15,7 @@ image:
 Ceasefire in Afghanistan during Eid // 334 people rescued by Spanish Maritime Services // Sea\-Watch detained and unable to assist boats in distress //Turkey builds fence along border with Syria // New arrivals in Greece // News from Bosnia // France and more…
 
 
-![Photographs by Kenny Karpov](assets/d68829054a33/1*Jhz310Mnpp3AIBlMn-cUkA.jpeg)
+![Photographs by Kenny Karpov](../assets/d68829054a33/1*Jhz310Mnpp3AIBlMn-cUkA.jpeg)
 
 Photographs by Kenny Karpov
 #### Feature: Italy prohibits Aquarius SAR vessel carrying over 629 people from docking at its ports\. Instead asking Malta to accept the ship and passengers\.
@@ -291,19 +291,19 @@ There have been unconfirmed reports that masked men entered a caravan and kidnap
 In Velika Kladuša, hundreds of refugees are eating in dining rooms in large groups, sharing a table, plates and cutlery\. A group of locals have organised to work together with the owner of the dining space to provide food every day\. Although there remains a lot of work to do, it is inspiring to witness how this Bosnian community has opened up their arms to provide care for refugees\. This is especially important in a time where authorities have banned the supply of food in Sarajevo\.
 
 
-![](assets/d68829054a33/1*TogeqHR3M8H-DYHCd9WhkQ.jpeg)
+![](../assets/d68829054a33/1*TogeqHR3M8H-DYHCd9WhkQ.jpeg)
 
 
 
-![](assets/d68829054a33/1*f_LUZ-Ag2dqJLmbV5ucRvg.jpeg)
+![](../assets/d68829054a33/1*f_LUZ-Ag2dqJLmbV5ucRvg.jpeg)
 
 
 
-![](assets/d68829054a33/1*Ky8zMJX4KYtm-y9EfB2fNA.jpeg)
+![](../assets/d68829054a33/1*Ky8zMJX4KYtm-y9EfB2fNA.jpeg)
 
 
 
-![](assets/d68829054a33/1*mDScbkliiQEL2AON-elTCA.jpeg)
+![](../assets/d68829054a33/1*mDScbkliiQEL2AON-elTCA.jpeg)
 
 #### [SOS Team Kladuša](https://www.facebook.com/SOSTeamKladusa/?fref=mentions) are building pavilions to provide shade for refugees
 
@@ -330,7 +330,7 @@ A group of 7 people are sleeping on the ground along the main road with no tents
 
 
 
-![](assets/d68829054a33/1*rmZ--dLhyisw97wxNWSdxQ.jpeg)
+![](../assets/d68829054a33/1*rmZ--dLhyisw97wxNWSdxQ.jpeg)
 
 #### Help Refugees warn of families being forcibly removed from makeshift shelters in Dunkirk
 
@@ -350,7 +350,7 @@ A group of 7 people are sleeping on the ground along the main road with no tents
 
 
 
-![](assets/d68829054a33/1*NJbxWBL2tMvDHjZNLCJ18g.jpeg)
+![](../assets/d68829054a33/1*NJbxWBL2tMvDHjZNLCJ18g.jpeg)
 
 
 **We strive to echo correct news from the ground through collaboration and fairness\.**

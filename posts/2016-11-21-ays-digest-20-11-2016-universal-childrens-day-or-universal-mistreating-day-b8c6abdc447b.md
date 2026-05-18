@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe,greece,serbia,france]
 description: Feature
 image:
-  path: assets/b8c6abdc447b/1*bXRAsaaEkf2P4IQKi-SYpQ.jpeg
+  path: ../assets/b8c6abdc447b/1*bXRAsaaEkf2P4IQKi-SYpQ.jpeg
 ---
 
 ### AYS DIGEST 20/11/2016 — Universal Children’s Day or Universal mistreating day?
 
 
-![**I have a name, not a number to remember\-** [**Baobab Experience**](https://www.facebook.com/BaobabExperience/?fref=nf)](assets/b8c6abdc447b/1*bXRAsaaEkf2P4IQKi-SYpQ.jpeg)
+![**I have a name, not a number to remember\-** [**Baobab Experience**](https://www.facebook.com/BaobabExperience/?fref=nf)](../assets/b8c6abdc447b/1*bXRAsaaEkf2P4IQKi-SYpQ.jpeg)
 
 **I have a name, not a number to remember\-** [**Baobab Experience**](https://www.facebook.com/BaobabExperience/?fref=nf)
 ### Feature
@@ -29,7 +29,7 @@ Nevertheless, more than 60 million people are currently displaced due to conflic
 All across the world and specifically in Europe human rights seem to have been forgotten as we get reports of so many cases of violations of human rights which take people question the role of the international institutions\.
 
 
-![“Who’s lives are valued? If 24 planes carrying 4,646 tourists crashed into the sea there’d be public outrage & legal investigations” Equality Aware](assets/b8c6abdc447b/1*rwL8MVXM_Vr4bLH22SZryw.jpeg)
+![“Who’s lives are valued? If 24 planes carrying 4,646 tourists crashed into the sea there’d be public outrage & legal investigations” Equality Aware](../assets/b8c6abdc447b/1*rwL8MVXM_Vr4bLH22SZryw.jpeg)
 
 “Who’s lives are valued? If 24 planes carrying 4,646 tourists crashed into the sea there’d be public outrage & legal investigations” Equality Aware
 
@@ -52,14 +52,14 @@ Also today UN’s special envoy, Staffan de Mistura held conversations in Damasc
 De Mistura warned that time is “running out” for eastern Aleppo amid the government bombing campaign\.
 
 
-[![OGN - Carnage in Aleppo](assets/b8c6abdc447b/6fa1_hqdefault.jpg "OGN - Carnage in Aleppo")](http://www.youtube.com/watch?v=VNIOnFTip3U)
+[![OGN - Carnage in Aleppo](../assets/b8c6abdc447b/6fa1_hqdefault.jpg "OGN - Carnage in Aleppo")](http://www.youtube.com/watch?v=VNIOnFTip3U)
 
 ### Greece
 
 Today police evacuated the old train station at Pireaus port where some refugees have been finding shelter\. There are still some people arriving at the capital from the islands and very few can get accommodation in the city so some people occupied this small building that was today locked by the police\.
 
 
-![Police at the old train station at Pireaus port \(Athens\)](assets/b8c6abdc447b/1*Vl-rfXkVROzHaLiggYjKdw.jpeg)
+![Police at the old train station at Pireaus port \(Athens\)](../assets/b8c6abdc447b/1*Vl-rfXkVROzHaLiggYjKdw.jpeg)
 
 Police at the old train station at Pireaus port \(Athens\)
 #### Samos
@@ -103,12 +103,12 @@ Sadly, this was written to ensure animal welfare standards don’t slip\. There 
 From Chios we keep getting evidence of the recent violence of the past 2 days\.
 
 
-![A tent destroyed by the fire](assets/b8c6abdc447b/1*LcXGwQlKF-THpY8BoTT6DQ.jpeg)
+![A tent destroyed by the fire](../assets/b8c6abdc447b/1*LcXGwQlKF-THpY8BoTT6DQ.jpeg)
 
 A tent destroyed by the fire
 
 
-![Several families end up sleeping on the street because of the attacks](assets/b8c6abdc447b/1*u7x0xu0WEtkcNkoIOGYR6w.jpeg)
+![Several families end up sleeping on the street because of the attacks](../assets/b8c6abdc447b/1*u7x0xu0WEtkcNkoIOGYR6w.jpeg)
 
 Several families end up sleeping on the street because of the attacks
 

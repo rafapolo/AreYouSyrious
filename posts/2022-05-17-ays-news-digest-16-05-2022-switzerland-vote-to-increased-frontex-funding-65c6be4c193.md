@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 16/05/2022: Switzerland vote to increased Frontex funding
+title: "AYS News Digest 16/05/2022: Switzerland vote to increased Frontex funding"
 author: Are You Syrious?
 date: 2022-05-17T11:53:06.760+0100
 last_modified_at: 2022-05-18T09:18:04.926+0100
@@ -7,7 +7,7 @@ categories:
 tags: [digest,newsdigest,frontex,eu,humanrights]
 description: Crisis forgotten in Poland // Palestinian Protests Banned in Germany // 20 rescued off the coast of Rhodes // 450 assisted to Sicily
 image:
-  path: assets/65c6be4c193/0*Oj0yOtNmeSVMwb13
+  path: ../assets/65c6be4c193/0*Oj0yOtNmeSVMwb13
 ---
 
 ### AYS News Digest 16/05/2022: Switzerland vote to increased Frontex funding
@@ -16,7 +16,7 @@ image:
 ### Switzerland vote to increased Frontex funding
 
 
-![Photo Credit: [UpExamPaper](https://upexampaper.com/switzerland-to-remain-part-of-schengen-as-swiss-voters-support-increase-of-frontex-funding-more-breaking-news-headlines-today/)](assets/65c6be4c193/0*Oj0yOtNmeSVMwb13)
+![Photo Credit: [UpExamPaper](https://upexampaper.com/switzerland-to-remain-part-of-schengen-as-swiss-voters-support-increase-of-frontex-funding-more-breaking-news-headlines-today/)](../assets/65c6be4c193/0*Oj0yOtNmeSVMwb13)
 
 Photo Credit: [UpExamPaper](https://upexampaper.com/switzerland-to-remain-part-of-schengen-as-swiss-voters-support-increase-of-frontex-funding-more-breaking-news-headlines-today/)
 
@@ -97,7 +97,7 @@ Small NGO Aidez nous a aider \(ANA\) shares an update from their work supporting
 A boat carrying [approximately 500 people](https://twitter.com/alarm_phone/status/1526249157144588288?fbclid=IwAR0TOnvlxXiLhS_B3ztQsVjtr8zMp8iHf4wWrCa9xjuIMLCkSrOF8qF6-vc) was assisted by the Italian Coast Guard\.
 
 
-![**Photo Credit: [Ansa\.it](https://www.ansa.it/sicilia/notizie/2022/05/17/migranti-in-450-su-barcone-arrivati-nel-porto-di-pozzallo_ec1498db-abea-4bd9-9e90-cdafe542799d.html)**](assets/65c6be4c193/0*SMNHB5elYKgmZ1kj)
+![**Photo Credit: [Ansa\.it](https://www.ansa.it/sicilia/notizie/2022/05/17/migranti-in-450-su-barcone-arrivati-nel-porto-di-pozzallo_ec1498db-abea-4bd9-9e90-cdafe542799d.html)**](../assets/65c6be4c193/0*SMNHB5elYKgmZ1kj)
 
 **Photo Credit: [Ansa\.it](https://www.ansa.it/sicilia/notizie/2022/05/17/migranti-in-450-su-barcone-arrivati-nel-porto-di-pozzallo_ec1498db-abea-4bd9-9e90-cdafe542799d.html)**
 

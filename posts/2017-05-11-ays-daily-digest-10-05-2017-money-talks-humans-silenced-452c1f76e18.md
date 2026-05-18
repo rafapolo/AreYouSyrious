@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 10/05/2017: Money talks, humans silenced
+title: "AYS Daily Digest 10/05/2017: Money talks, humans silenced"
 author: Are You Syrious?
 date: 2017-05-11T01:41:38.272+0100
 last_modified_at: 2017-05-11T01:44:22.104+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: IN THIS ISSUE… More information on the evictions in Serbia / Full video tour of refugee camp in Syria / Positive updates and chances to…
 image:
-  path: assets/452c1f76e18/1*IUjEUPHaEuPfSsAYEr0kUw.png
+  path: ../assets/452c1f76e18/1*IUjEUPHaEuPfSsAYEr0kUw.png
 ---
 
 ### AYS Daily Digest 10/05/2017: Money talks, humans silenced
@@ -15,7 +15,7 @@ image:
 _IN THIS ISSUE… More information on the evictions in Serbia / Full video tour of refugee camp in Syria / Positive updates and chances to help in Greece / European Parliament members horrified at conditions in Hungary / More casualties in Italy / Eviction of those gathered around refugee centre in Paris strains local support systems_
 
 
-![Photo Credit: Anonymous Volunteer\. ❤ we thank you](assets/452c1f76e18/1*IUjEUPHaEuPfSsAYEr0kUw.png)
+![Photo Credit: Anonymous Volunteer\. ❤ we thank you](../assets/452c1f76e18/1*IUjEUPHaEuPfSsAYEr0kUw.png)
 
 Photo Credit: Anonymous Volunteer\. ❤ we thank you
 ### FEATURE: Money wins over people, again, in Serbia\.
@@ -23,7 +23,7 @@ Photo Credit: Anonymous Volunteer\. ❤ we thank you
 The “evacuation” as in “forcible eviction” of refugees from the barracks in Belgrade continued today, with more footage from volunteers and refugees themselves\. This morning, anyone remaining in the barracks got a rude awakening as a company arrived to spray pest control spray throughout the entire building\. Many individuals had left their belongings inside and now found it covered in pesticide\.
 
 
-![Photo Credit: Anonymous Volunteer — Thank you for contributing\!](assets/452c1f76e18/1*Y6LtDxrHoFITShJfIgENTQ.png)
+![Photo Credit: Anonymous Volunteer — Thank you for contributing\!](../assets/452c1f76e18/1*Y6LtDxrHoFITShJfIgENTQ.png)
 
 Photo Credit: Anonymous Volunteer — Thank you for contributing\!
 
@@ -181,7 +181,7 @@ Intervolve is supporting a new library project, located in a “bright yellow co
 
 
 
-![Photo credit: Intervolve](assets/452c1f76e18/1*ZsIRj9Tyg6Hd7svD8ZTjfg.jpeg)
+![Photo credit: Intervolve](../assets/452c1f76e18/1*ZsIRj9Tyg6Hd7svD8ZTjfg.jpeg)
 
 Photo credit: Intervolve
 
@@ -215,7 +215,7 @@ It is hoped that more visits like this will impress upon European parliament to 
 Sadly, groups report two more incidents occurring in Ventimiglia\. One man was seriously burned while attempting to climb onto a train bound for France\. Another fell from a railway and most likely suffered head trauma, but is being treated in a hospital\. [**Alharaz**](https://www.facebook.com/Alharaz311850302563176/) reported on this\.
 
 
-![Photo Credit: Alharaz](assets/452c1f76e18/1*Wcny3SnGYZoZEzYcI7WJFQ.jpeg)
+![Photo Credit: Alharaz](../assets/452c1f76e18/1*Wcny3SnGYZoZEzYcI7WJFQ.jpeg)
 
 Photo Credit: Alharaz
 ### FRANCE
@@ -240,7 +240,7 @@ _“This morning, we offered breakfast to about 100 persons\. There are still pe
 [**Solidarithé**](https://www.facebook.com/solidarithe/) also posted a comprehensive update complete with maps as can be seen in some of these photos\. Check out the original [post](https://www.facebook.com/solidarithe/posts/1801782720139842) \! As they say, it is helpful for ANYONE sleeping rough on the streets\.
 
 
-![Photo Credit: Solidarithé\.](assets/452c1f76e18/1*-tp5OGIvA1HP4Hmmc0_B0g.jpeg)
+![Photo Credit: Solidarithé\.](../assets/452c1f76e18/1*-tp5OGIvA1HP4Hmmc0_B0g.jpeg)
 
 Photo Credit: Solidarithé\.
 

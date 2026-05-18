@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 18–19/9/21: Will the deaths at the Belarus border provoke action to protect…
+title: "AYS Weekend Digest 18–19/9/21: Will the deaths at the Belarus border provoke action to protect…"
 author: Are You Syrious?
 date: 2021-09-20T16:09:24.008+0100
 last_modified_at: 2021-09-20T18:58:21.561+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,belarus,europe,human-rights]
 description: Expected and predicted tragic development of the situation at the border with Belarus // Pushbacks and other causes for concern in the…
 image:
-  path: assets/3e74b8e72e66/0*V_Dx-NA_6HP_OSmz
+  path: ../assets/3e74b8e72e66/0*V_Dx-NA_6HP_OSmz
 ---
 
 ### AYS Weekend Digest 18–19/9/21: Will the deaths at the Belarus border provoke action to protect people on the move?
 #### Expected and predicted tragic development of the situation at the border with Belarus // Pushbacks and other causes for concern in the Aegean and Evros // Actions across Germany // New arrivals and more deterrence in the Mediterranean // Recommended media articles, calls for action and more…
 
 
-![Featured photo of this weekend is by [**SOS MEDITERRANEE**](https://twitter.com/SOSMedIntl) , after one of their SAR missions we report about in this news digest](assets/3e74b8e72e66/0*V_Dx-NA_6HP_OSmz)
+![Featured photo of this weekend is by [**SOS MEDITERRANEE**](https://twitter.com/SOSMedIntl) , after one of their SAR missions we report about in this news digest](../assets/3e74b8e72e66/0*V_Dx-NA_6HP_OSmz)
 
 Featured photo of this weekend is by [**SOS MEDITERRANEE**](https://twitter.com/SOSMedIntl) , after one of their SAR missions we report about in this news digest
 #### FEATURED
@@ -34,18 +34,18 @@ Many people have lost their lives here\. The most recent reported one is the man
 ### On board the Ocean Viking
 
 
-![](assets/3e74b8e72e66/0*xE10nfrthcJgrSKO)
+![](../assets/3e74b8e72e66/0*xE10nfrthcJgrSKO)
 
 
 
-![Photos: resqship](assets/3e74b8e72e66/0*GOlrR5Gn4Y--Mi9g)
+![Photos: resqship](../assets/3e74b8e72e66/0*GOlrR5Gn4Y--Mi9g)
 
 Photos: resqship
 
 After @resqship monitoring vessel Nadir encountered an overcrowded wooden boat with approximately 60 people in distress drifting in the Maltese Search and Rescue \(SAR\) zone, they provided first aid and alerted all responsible authorities\. Following that, since the Maltese MRCC denied its responsibility once again and Nadir had no capacities for the rescue, they alerted the nearest SAR crew and finally, the Ocean Viking rescued the 58 people\.
 
 
-![](assets/3e74b8e72e66/0*LonkWSdk6qheG7SI)
+![](../assets/3e74b8e72e66/0*LonkWSdk6qheG7SI)
 
 
 Following the two rescue missions of this weekend, Ocean Viking was alerted to 2 other wooden boats in distress in the Libyan SAR Region by Colibri2 aircraft\. Both were intercepted by the Libyan coastguard as witnessed from afar by their teams\. 
@@ -54,7 +54,7 @@ More than 800 people were intercepted this week and returned to Libya by the coa
 Of course, the UN has [“expressed concern](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.libyaobserver.ly%2Fnews%2Fun-concerned-over-thousands-immigrants-vanishing-libya%3Ffbclid%3DIwAR10S-j-97BQsUdxIXdJvyowbvLJ5pGTG4SvFP68CynD9rJw3V42Es_YKIE&h=AT3QUTJdnR7jRITzTuYnzs5LqSbcNzE3p0GTlD3o91wZHHLZhWyy4LhPTyaD_t3q7ir254A0ZAal1uBieUapQdKo_PBdZyFuo9QpuQKWhk0Y-u0qwYm4QEmD3SxNmFbzMKGGvvq4iPtrsMilRkM0NLU5ppoySQ&__tn__=R]-R&c[0]=AT1ni8aP8ioNZrkvMAbA8-3MZhu_ca8utgdbiy4IhjUtZ0MQUI7eYuWpjDirbl53f_7A-f4oXXBgpgLH8SjMMopq3s1M-ZYQk_v5eDlOuCqi4nWusSqQAcNz4lPzvtq6nxy58FT8jMFOJmNMOahu9PotTmZc4n4EAFBEHUcPuTcfoL49vloeUrC_m34JqKuqVXt0OBEZ0nRMfYQcQkw) ”, but given their lack of action and complicity in the returns, there is not much to be expected from them\.
 
 
-![](assets/3e74b8e72e66/0*hkZ6Ej-tO5tUcxTW)
+![](../assets/3e74b8e72e66/0*hkZ6Ej-tO5tUcxTW)
 
 
 During the second rescue operation they encountered 33 people on a wooden boat in distress in international waters off Libya, who were safely brought onboard, including 8 women and 13 children\.
@@ -147,7 +147,7 @@ All of this was followed by a fire that broke out in part of the old camp at 11p
 On Lesvos, protests in support of Afghan women have taken place\.
 
 
-![[Moria Corona Awareness Team](https://www.facebook.com/MoriaCoronaAwarenessTeam/?__cft__[0]=AZViA0QIEsASn_zGyBDPJDOMZczdnmISjnmGPw_0fNFGaOzYcHrw2PaGXOUJ9WosksH5Smrf38pnsu7GRZQ0ieCJKDJ0LggIxBDoqukCRqNSGWLYVM6FzUq1RSpsUYIA-Sy8-D7xaWNDe9FwkxaSBTNB&__tn__=-UC*F)](assets/3e74b8e72e66/0*ixe8txLNJ5ST9vWA)
+![[Moria Corona Awareness Team](https://www.facebook.com/MoriaCoronaAwarenessTeam/?__cft__[0]=AZViA0QIEsASn_zGyBDPJDOMZczdnmISjnmGPw_0fNFGaOzYcHrw2PaGXOUJ9WosksH5Smrf38pnsu7GRZQ0ieCJKDJ0LggIxBDoqukCRqNSGWLYVM6FzUq1RSpsUYIA-Sy8-D7xaWNDe9FwkxaSBTNB&__tn__=-UC*F)](../assets/3e74b8e72e66/0*ixe8txLNJ5ST9vWA)
 
 [Moria Corona Awareness Team](https://www.facebook.com/MoriaCoronaAwarenessTeam/?__cft__[0]=AZViA0QIEsASn_zGyBDPJDOMZczdnmISjnmGPw_0fNFGaOzYcHrw2PaGXOUJ9WosksH5Smrf38pnsu7GRZQ0ieCJKDJ0LggIxBDoqukCRqNSGWLYVM6FzUq1RSpsUYIA-Sy8-D7xaWNDe9FwkxaSBTNB&__tn__=-UC*F)
 
@@ -193,13 +193,13 @@ Back on the mainland, as reported by the local media, the Greek Solution is prep
 Human chains were used to demonstrate for the reception of refugees\. Around 2,000 people took part in Duisburg alone\. [The chain they formed ran through the city for up to ten miles from north to south](https://www.deutschlandfunk.de/seebruecke-menschenketten-gegen-das-sterben-von.1939.de.html?drn%3Anews_id=1302841&fbclid=IwAR3c3DAUAd5pUUdp7FYHcl62MfPwVZb-niG6ClW1ap5Tzl19aT1t4mrNOEY) and people were connected with banners and scarfs, due to corona regulations\.
 
 
-![Photo: [**MartineBallinger**](https://twitter.com/martine_balling)](assets/3e74b8e72e66/1*DSo7RYZnuzmde3i5l-RuTw.png)
+![Photo: [**MartineBallinger**](https://twitter.com/martine_balling)](../assets/3e74b8e72e66/1*DSo7RYZnuzmde3i5l-RuTw.png)
 
 Photo: [**MartineBallinger**](https://twitter.com/martine_balling)
 ### Day of action — make the human rights deniers visible
 
 
-![Visit [**Seebrücke**](https://twitter.com/_Seebruecke_) for more details](assets/3e74b8e72e66/0*f7-hyv6sKKIw0hmo)
+![Visit [**Seebrücke**](https://twitter.com/_Seebruecke_) for more details](../assets/3e74b8e72e66/0*f7-hyv6sKKIw0hmo)
 
 Visit [**Seebrücke**](https://twitter.com/_Seebruecke_) for more details
 #### FRANCE
@@ -221,7 +221,7 @@ Comme à chaque fois, des #tentes pleines d'effets personnels sont prises et ser
 ### Paris needs volunteers\!
 
 
-![](assets/3e74b8e72e66/0*Pz9alA5wOeTCMMFd)
+![](../assets/3e74b8e72e66/0*Pz9alA5wOeTCMMFd)
 
 #### DENMARK
 ### Police detains Iraqi women as they are preparing deportations

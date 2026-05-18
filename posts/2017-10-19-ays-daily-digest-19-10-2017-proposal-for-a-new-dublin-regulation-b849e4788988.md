@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 19/10/17: Proposal for a new Dublin regulation
+title: "AYS Daily Digest 19/10/17: Proposal for a new Dublin regulation"
 author: Are You Syrious?
 date: 2017-10-19T22:59:06.258+0100
 last_modified_at: 2017-10-22T16:01:51.067+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,european-union,european-parliament,greece,asylum-seekers]
 description: New asylum policy proposal passed to the EU Council / Efforts to close the sea route from Libya / Sunken boat found in the Mediterranean /…
 image:
-  path: assets/b849e4788988/1*vhoq2msN1Hpnx-UE1JJRxA.jpeg
+  path: ../assets/b849e4788988/1*vhoq2msN1Hpnx-UE1JJRxA.jpeg
 ---
 
 ### AYS Daily Digest 19/10/17: Proposal for a new Dublin regulation
@@ -15,7 +15,7 @@ image:
 _New asylum policy proposal passed to the EU Council / Efforts to close the sea route from Libya / Sunken boat found in the Mediterranean / Seven boat arrivals to the Greek islands / Dunkirk area camp evicted / And more news…_
 
 
-![**“** Only today 237 refugees arrived on 4 rubber boats to Chios\! The “Hot Spot” Vial has no capacity anymore and the people are facing an inhumane treatment\. Either they remain on the streets or in very poor tents while the winter season is coming soon\! **”** — Refugee Law Clinics Abroad in Chios](assets/b849e4788988/1*vhoq2msN1Hpnx-UE1JJRxA.jpeg)
+![**“** Only today 237 refugees arrived on 4 rubber boats to Chios\! The “Hot Spot” Vial has no capacity anymore and the people are facing an inhumane treatment\. Either they remain on the streets or in very poor tents while the winter season is coming soon\! **”** — Refugee Law Clinics Abroad in Chios](../assets/b849e4788988/1*vhoq2msN1Hpnx-UE1JJRxA.jpeg)
 
 **“** Only today 237 refugees arrived on 4 rubber boats to Chios\! The “Hot Spot” Vial has no capacity anymore and the people are facing an inhumane treatment\. Either they remain on the streets or in very poor tents while the winter season is coming soon\! **”** — Refugee Law Clinics Abroad in Chios
 #### FEATURE: Proposal for a new Dublin regulation
@@ -37,7 +37,7 @@ European Council president Donald Tusk agreed to offer Italy more help with Liby
 A sunken boat was found in the Mediterranean, judging by size around 100 people could have drowned\. So far blue fuel containers and personal clothes have been found but no bodies or life jackets, [MISSION LIFELINE](https://twitter.com/SEENOTRETTUNG) wrote\. Their search is still ongoing in cooperation with Italian authorities\.
 
 
-![Photos by Rebecca Kupfner](assets/b849e4788988/1*pbpR69YMdluHtCT9Y0V-dw.jpeg)
+![Photos by Rebecca Kupfner](../assets/b849e4788988/1*pbpR69YMdluHtCT9Y0V-dw.jpeg)
 
 Photos by Rebecca Kupfner
 ### GREECE
@@ -58,7 +58,7 @@ In Kara Tepe, the ISO boxes, which do have heaters, cannot use the heaters becau
 Tensions rise in overcapacitated reception centers as dozens continue to land daily\. A total of 438 people arrived on the islands aboard smuggling boats from Turkey in the first three days of the week, with another 175 people arriving on the islet of Oinousses yesterday morning\. They were transferred to a center on Chios which is very cramped with 1,600 people living in facilities designed to host 850\. On Samos, a reception center designed to host 700 people is now accommodating 2,850, ekathimerini [writes](http://www.ekathimerini.com/222613/article/ekathimerini/news/tensions-rise-on-aegean-islands-as-migrants-continue-to-arrive) \.
 
 
-![Today’s arrivals](assets/b849e4788988/1*Qq97AxvDgD8SpbrC-XcNZQ.jpeg)
+![Today’s arrivals](../assets/b849e4788988/1*Qq97AxvDgD8SpbrC-XcNZQ.jpeg)
 
 Today’s arrivals
 ### ITALY
@@ -89,19 +89,19 @@ Early this morning the French authorities evicted the camp at Grande Synthe in t
 Care4Calais report from a camp at Metz, France, near the border with Germany\. There are currently around 400 refugees living there, including a great many families, they [write](https://www.facebook.com/care4calais/photos/pcb.1699050490127901/1699049156794701/?type=3&theater) \. The living conditions are similar to the Calais jungle just before it closed\. Most people are in tents, with pallets often used to keep these off the ground\. Many people have cooking facilities and there are limited shared showers and toilets available\. Nearly everyone they spoke to was hoping to claim asylum in France\. There is a pervasive rumor that the camp is to be cleared around mid November\. It seems that this has happened before, but that it re\-emerges in the same way that the Dunkirk camp seems to, they added\.
 
 
-![](assets/b849e4788988/1*nNuJLYS786q58UNDHwiLBg.jpeg)
+![](../assets/b849e4788988/1*nNuJLYS786q58UNDHwiLBg.jpeg)
 
 
 
-![](assets/b849e4788988/1*J0W6gYOwTbQvi6KlSZ8Iyg.jpeg)
+![](../assets/b849e4788988/1*J0W6gYOwTbQvi6KlSZ8Iyg.jpeg)
 
 
 
-![](assets/b849e4788988/1*2b8OGFvNXx7AlJywzf8mxQ.jpeg)
+![](../assets/b849e4788988/1*2b8OGFvNXx7AlJywzf8mxQ.jpeg)
 
 
 
-![Photos from [Care4Calais](https://www.facebook.com/care4calais/)](assets/b849e4788988/1*B38x56au4bmzL-41JMemjQ.jpeg)
+![Photos from [Care4Calais](https://www.facebook.com/care4calais/)](../assets/b849e4788988/1*B38x56au4bmzL-41JMemjQ.jpeg)
 
 Photos from [Care4Calais](https://www.facebook.com/care4calais/)
 ### SWEDEN

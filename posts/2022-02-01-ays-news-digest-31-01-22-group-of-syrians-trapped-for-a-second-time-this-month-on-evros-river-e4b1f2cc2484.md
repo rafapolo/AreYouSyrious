@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 31/01/22: Group of Syrians trapped for a second time this month on Evros river…
+title: "AYS News Digest 31/01/22: Group of Syrians trapped for a second time this month on Evros river…"
 author: Are You Syrious?
 date: 2022-02-01T20:56:04.997+0000
 last_modified_at: 2022-02-01T20:56:04.997+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [migration,refugees,digest,greece,pushback]
 description: Spain sentences two ‘boat drivers’ to nine years in prison // Greek media investigating migration receive legal notice to stop work //…
 image:
-  path: assets/e4b1f2cc2484/1*20n-7YJW1NcfA23oAM3SDA.jpeg
+  path: ../assets/e4b1f2cc2484/1*20n-7YJW1NcfA23oAM3SDA.jpeg
 ---
 
 ### AYS News Digest 31/01/22: Group of Syrians trapped for a second time this month on Evros river island
@@ -15,7 +15,7 @@ image:
 ### FEATURE — In bizarre twist of fate, 24 Syrians are abandoned again on Evros river island
 
 
-![A flooded Evros river near the Greek town of Lavara, 2005 \(Photo: [CC BY\-SA 3\.0](https://commons.wikimedia.org/wiki/File:20050300_Evros_river_floods_before_Lavara_Evros_Greece.jpg) \)](assets/e4b1f2cc2484/1*20n-7YJW1NcfA23oAM3SDA.jpeg)
+![A flooded Evros river near the Greek town of Lavara, 2005 \(Photo: [CC BY\-SA 3\.0](https://commons.wikimedia.org/wiki/File:20050300_Evros_river_floods_before_Lavara_Evros_Greece.jpg) \)](../assets/e4b1f2cc2484/1*20n-7YJW1NcfA23oAM3SDA.jpeg)
 
 A flooded Evros river near the Greek town of Lavara, 2005 \(Photo: [CC BY\-SA 3\.0](https://commons.wikimedia.org/wiki/File:20050300_Evros_river_floods_before_Lavara_Evros_Greece.jpg) \)
 

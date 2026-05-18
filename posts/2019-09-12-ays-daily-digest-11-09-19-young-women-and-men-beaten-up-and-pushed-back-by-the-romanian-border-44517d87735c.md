@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 11/09/19: Young women and men beaten up and pushed back by the Romanian border…
+title: "AYS Daily Digest 11/09/19: Young women and men beaten up and pushed back by the Romanian border…"
 author: Are You Syrious?
 date: 2019-09-12T09:53:24.587+0100
 last_modified_at: 2019-09-12T12:53:42.597+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,romania,borders]
 description: New reports of violent pushbacks and police violence // More people fleeing from Syria towards Turkey // Resignation of ‘the head’ of…
 image:
-  path: assets/44517d87735c/1*CQjIRYOGk2-w4wqAx79zKA.jpeg
+  path: ../assets/44517d87735c/1*CQjIRYOGk2-w4wqAx79zKA.jpeg
 ---
 
 ### AYS Daily Digest 11/09/19: Young women and men beaten up and pushed back by the Romanian border police
 #### New reports of violent pushbacks and police violence // More people fleeing from Syria towards Turkey // Resignation of ‘the head’ of Moria // Demonstrations in Malta // Statewatch analysis of Returns Directive // & more news
 
 
-![consequences of a collective expulsion from Romania, all photos by activists who took the testimonies](assets/44517d87735c/1*CQjIRYOGk2-w4wqAx79zKA.jpeg)
+![consequences of a collective expulsion from Romania, all photos by activists who took the testimonies](../assets/44517d87735c/1*CQjIRYOGk2-w4wqAx79zKA.jpeg)
 
 consequences of a collective expulsion from Romania, all photos by activists who took the testimonies
 #### FEATURED
@@ -30,15 +30,15 @@ The police searched the group for mobile phones, and started hitting them\. They
 They beat the man\.
 
 
-![](assets/44517d87735c/1*Bc7XCEoh-vSOlrVu5ED_Iw.jpeg)
+![](../assets/44517d87735c/1*Bc7XCEoh-vSOlrVu5ED_Iw.jpeg)
 
 
 
-![](assets/44517d87735c/1*9iIH_xy_EquF9myOHYsp7g.jpeg)
+![](../assets/44517d87735c/1*9iIH_xy_EquF9myOHYsp7g.jpeg)
 
 
 
-![](assets/44517d87735c/1*JJv8pqGK2-1ofLXAX8vWig.jpeg)
+![](../assets/44517d87735c/1*JJv8pqGK2-1ofLXAX8vWig.jpeg)
 
 
 
@@ -56,11 +56,11 @@ They put their clothes back on\. They walked ten minutes with the police up to t
 All of this happened in the span of two hours\. At the border, the Serbian police told them to go to the station and get on a bus\. Ten phones were broken and later given back\.
 
 
-![](assets/44517d87735c/1*FJsQr_5bQXtwQl_PB8mzLg.jpeg)
+![](../assets/44517d87735c/1*FJsQr_5bQXtwQl_PB8mzLg.jpeg)
 
 
 
-![](assets/44517d87735c/1*PI9qjdSdTr33KjLD-YYsGA.jpeg)
+![](../assets/44517d87735c/1*PI9qjdSdTr33KjLD-YYsGA.jpeg)
 
 ### SYRIA/TURKEY
 
@@ -127,7 +127,7 @@ Find an article about the situation here:
 Our classroom in the Porin reception center in Zagreb, Croatia, has been empty for too long\. It took us almost nine months of struggle to renew our contract with the Ministry of the Interior, a contract that allows us to volunteer with children and support them in their schooling and integration\. This is work we do for free, every day, because no one else is doing it\. Dozens of schools and other institutions expressed their concern after the decision of the MOI to end our volunteering in Porin\. After a recent meeting with the State Secretary, where we concluded that while we don’t agree on many points, and will continue actively to advocate for the respect of each life, human rights and the right for safe passage, we cannot let a whole generation of children suffer the consequences of policies and repressive measures against activists\. Our dedicated and professionally well\-prepared volunteer teachers will now continue working individually and in groups with the children who are stuck in a reception centre and deprived of many things\. Let’s not allow education to be one of them\. The common care for one of the essential elements in the life of a child overcame the opposing side’s differences in this particular case\.
 
 
-![copyright: AYS](assets/44517d87735c/1*FUKVEO6eramt19ObAsr0MA.jpeg)
+![copyright: AYS](../assets/44517d87735c/1*FUKVEO6eramt19ObAsr0MA.jpeg)
 
 copyright: AYS
 ### ITALY

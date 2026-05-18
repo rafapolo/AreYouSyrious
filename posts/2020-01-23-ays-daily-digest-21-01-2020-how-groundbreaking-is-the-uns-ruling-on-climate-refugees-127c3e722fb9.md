@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [unhcr,digest,climate-change,refugees]
 description: Boat Sinks Off Of Belgian Coast///Medical Discrimination Against People Without Papers in Greece///Unaccompanied Boys in Serbia Need Money…
 image:
-  path: assets/127c3e722fb9/0*A8LOJPQa2XwveKEM.jpg
+  path: ../assets/127c3e722fb9/0*A8LOJPQa2XwveKEM.jpg
 ---
 
 ### AYS Daily Digest 21/01/2020 — How Groundbreaking is the UN’s Ruling on “Climate Refugees”?
@@ -15,7 +15,7 @@ image:
 _Boat Sinks Off Of Belgian Coast///Medical Discrimination Against People Without Papers in Greece///Unaccompanied Boys in Serbia Need Money for Bus Tickets///IOM Recommendations for Croatian EU Presidency_
 
 
-![](assets/127c3e722fb9/0*A8LOJPQa2XwveKEM.jpg)
+![](../assets/127c3e722fb9/0*A8LOJPQa2XwveKEM.jpg)
 
 
 People in Kiribati\. Source: [Iberdrola\.com](https://www.iberdrola.com/environment/kiribati-climate-change)

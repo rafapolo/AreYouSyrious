@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 07/01/2018: Deportations to Afghanistan continue while civilian casualties…
+title: "AYS Daily Digest 07/01/2018: Deportations to Afghanistan continue while civilian casualties…"
 author: Are You Syrious?
 date: 2018-01-08T10:52:58.396+0000
 last_modified_at: 2018-01-08T11:32:13.143+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees]
 description: New testimonies on police violence in Calais//New community activities in Greece//Refugees rescued off the coast of Libya//Baobab…
 image:
-  path: assets/917c6eb3599e/1*m2Z7DU5PR9ULk-rBfzYG-Q.png
+  path: ../assets/917c6eb3599e/1*m2Z7DU5PR9ULk-rBfzYG-Q.png
 ---
 
 ### AYS Daily Digest 07/01/2018: Deportations to Afghanistan continue while civilian casualties increase
@@ -15,7 +15,7 @@ image:
 _New testimonies on police violence in Calais//New community activities in Greece//Refugees rescued off the coast of Libya//Baobab experience fights anti\-homeless installations in Rome_
 
 
-![Photo credit: [**Gabriel Tizon**](https://www.facebook.com/gabrieltizonfotografo/)](assets/917c6eb3599e/1*m2Z7DU5PR9ULk-rBfzYG-Q.png)
+![Photo credit: [**Gabriel Tizon**](https://www.facebook.com/gabrieltizonfotografo/)](../assets/917c6eb3599e/1*m2Z7DU5PR9ULk-rBfzYG-Q.png)
 
 Photo credit: [**Gabriel Tizon**](https://www.facebook.com/gabrieltizonfotografo/)
 #### Afghanistan
@@ -24,7 +24,7 @@ Photo credit: [**Gabriel Tizon**](https://www.facebook.com/gabrieltizonfotografo
 [Irin](https://www.irinnews.org/news/2018/01/04/europe-sends-afghans-back-danger?utm_source=facebook&utm_medium=irinsocial&utm_campaign=irinupdates) reports on deportations to Afghanistan, noting that the country “faces a revolving cycle of migration that will see more Afghans continue to flee even while others are forced back”\. Germany, Sweden and Finland all saw asylum recognition rates for Afghans plummet in 2017 and European countries returned almost 10,000 rejected Afghan asylum seekers in 2016 — almost triple the number in the previous year\. Meanwhile, civilian casualities in Afghanistan have escalated\.
 
 
-![](assets/917c6eb3599e/1*8Pxmu4r4Xwn-nrTMhafmhw.png)
+![](../assets/917c6eb3599e/1*8Pxmu4r4Xwn-nrTMhafmhw.png)
 
 #### Greece
 ### Arrivals
@@ -36,7 +36,7 @@ The [Athens Volunteers Information and Co\-ordination Group](https://www.faceboo
 ### New Multicultural Women’s Centre opens in Thessaloniki
 
 
-![](assets/917c6eb3599e/1*gr-PPatkgAE0hDMXew2i7g.png)
+![](../assets/917c6eb3599e/1*gr-PPatkgAE0hDMXew2i7g.png)
 
 
 Intervolve will have its first full week of activities at their new centre [Irida ίριδα ايريدا](https://www.facebook.com/IridaWomensCentre/?fref=mentions) , a multicultural Women’s Centre in Thessaloniki, according to Help Refugees\.
@@ -48,7 +48,7 @@ Irida will help to combat feelings of isolation, and facilitate integration with
 Meanwhile, the Little Happy Familly Center on Lesvos is continuing its renovations and is building a new kids’ space\.
 
 
-![](assets/917c6eb3599e/1*ee_ntNqNtCWcAFbYej1O4g.png)
+![](../assets/917c6eb3599e/1*ee_ntNqNtCWcAFbYej1O4g.png)
 
 
 Given the dramatic waste and sanituation situation in Moria, documented several times \( [here](https://www.facebook.com/kostas.kallergis/videos/10159799452930584/) and [here](https://www.facebook.com/christian.zeier.1/videos/10154939148631640/) \), _Because We Carry_ says it has started to collaborate with a local cleaning company who will be coming to clean in Moria for three months and on top of this will also involve the residents in a new cleaning project\.
@@ -62,7 +62,7 @@ Border police detained 735 irregular migrants in 2017, compared with fewer than 
 Baobab experience fights agains the installation of bars on benches in Rome that would prevent homeless persons & refugees from sleeping there\. It managed to remove one and distributed flyers around the neighborhood and brought signs with data on inequality and poverty in Italy, showing that the money is there, but is badly redistributed\.
 
 
-![](assets/917c6eb3599e/1*4irYsoxB3tHW-D51-RJLLw.png)
+![](../assets/917c6eb3599e/1*4irYsoxB3tHW-D51-RJLLw.png)
 
 
 L’Altra Voce summarises the issues faced by refugees throughout Italy:
@@ -70,13 +70,13 @@ L’Altra Voce summarises the issues faced by refugees throughout Italy:
 _“In Ventimiglia, there are 250\-300 refugees under bridges along the river and authorities are preparing other regulations to ban food distributions\. In The Italo\-French Alps, refugees attempt the impossible with the risk of freezing to death\. In Lampedusa, a boy hanged himself\. 4 people died of cold in the last few days on the streets of Italy\. In Gorizia there are always about 100 people living in the streetsout of reception\.”_
 
 
-![](assets/917c6eb3599e/1*ZnmAhL6vD_92n2VfALfdFw.png)
+![](../assets/917c6eb3599e/1*ZnmAhL6vD_92n2VfALfdFw.png)
 
 #### France
 ### Testimonies from Calais
 
 
-![Photo by Pierre Fraenkel](assets/917c6eb3599e/1*In9dbkcTjkQpOEPIELJwDw.png)
+![Photo by Pierre Fraenkel](../assets/917c6eb3599e/1*In9dbkcTjkQpOEPIELJwDw.png)
 
 Photo by Pierre Fraenkel
 
@@ -110,7 +110,7 @@ According to the Lybian coastguards, two women were found dead and around 270 re
 Meanwhile, [Telegraph](http://www.telegraph.co.uk/news/2018/01/07/migrants-sent-home-eu-find-broken-promises-white-elephant-repatriation/) reports that EU\-funded migration repatriation schemes aimed at convincing refugees Libya to return to sub\-Saharan Africa rather than trying to cross the Mediterranean to Europe are not working, with returnees accusing them of breaking pledges to provide grants and training packages upon their return home\. Returnees in Gambia pelted the IOM offices with rocks, saying that while in Libya, they had been told they would get €3,000 to help them start new businesses\. Instead, all they got upon their return to Gambia was a €56 handout as emergency pocket money\.
 
 
-![](assets/917c6eb3599e/1*Opdqd-q9qHjyh00j5O8dlA.png)
+![](../assets/917c6eb3599e/1*Opdqd-q9qHjyh00j5O8dlA.png)
 
 #### **We strive to echo correct news from the ground through collaborationand fairness\.**
 

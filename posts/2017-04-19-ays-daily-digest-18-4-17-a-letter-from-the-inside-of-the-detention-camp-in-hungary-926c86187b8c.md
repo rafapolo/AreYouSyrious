@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 18/4/17: A letter from the inside of the detention camp in Hungary
+title: "AYS Daily Digest 18/4/17: A letter from the inside of the detention camp in Hungary"
 author: Are You Syrious?
 date: 2017-04-19T02:03:31.092+0100
 last_modified_at: 2017-04-19T02:03:31.092+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,greece,volunteering,human-rights]
 description: Recent surge in the Mediterranean waters — where is the EU at the sea? | Translators needed in Greece | A letter about negligence, racism…
 image:
-  path: assets/926c86187b8c/1*azl_UQelR_0304npRIoHIQ.jpeg
+  path: ../assets/926c86187b8c/1*azl_UQelR_0304npRIoHIQ.jpeg
 ---
 
 ### AYS Daily Digest 18/4/17: A letter from the inside of the detention camp in Hungary
 #### Recent surge in the Mediterranean waters — where is the EU at the sea? \| Translators needed in Greece \| A letter about negligence, racism and lack of solidarity from the Hungarian detention camp \| Accounts on what happened in the north of France in the past days \| Denied healthcare to asylum seekers in the UK
 
 
-![Belgrade, April 2017 \(Photo: [Lisa Bosia Mirra](https://www.facebook.com/Lisa-Bosia-Mirra-780272888726800/?fref=nf) \)](assets/926c86187b8c/1*azl_UQelR_0304npRIoHIQ.jpeg)
+![Belgrade, April 2017 \(Photo: [Lisa Bosia Mirra](https://www.facebook.com/Lisa-Bosia-Mirra-780272888726800/?fref=nf) \)](../assets/926c86187b8c/1*azl_UQelR_0304npRIoHIQ.jpeg)
 
 Belgrade, April 2017 \(Photo: [Lisa Bosia Mirra](https://www.facebook.com/Lisa-Bosia-Mirra-780272888726800/?fref=nf) \)
 ### “The guard closed the small window” — A letter from the inside of the detention camp
@@ -25,11 +25,11 @@ This is another one in a line of scenes depriving people of dignity and their ri
 We are all allowing those people to be kept locked up like that in the heart of Europe\.
 
 
-![](assets/926c86187b8c/1*Z7R0je8-8soiFWMYaq_SaQ.jpeg)
+![](../assets/926c86187b8c/1*Z7R0je8-8soiFWMYaq_SaQ.jpeg)
 
 
 
-![](assets/926c86187b8c/1*BHVOm7FqnuCFEEg0AGrexA.jpeg)
+![](../assets/926c86187b8c/1*BHVOm7FqnuCFEEg0AGrexA.jpeg)
 
 #### SEA
 ### The only question is: life or death?
@@ -131,7 +131,7 @@ The assumptions related to single male refugees, among other things, usually dri
 ### Rumours&Answers: Family reunification, fines, …
 
 
-![Information by [News That Moves](https://newsthatmoves.org/en/rumours-65-family-reunification-camp-on-islands-fines/)](assets/926c86187b8c/1*EBmk4qLLhn0ioaN-s1DTjg.png)
+![Information by [News That Moves](https://newsthatmoves.org/en/rumours-65-family-reunification-camp-on-islands-fines/)](../assets/926c86187b8c/1*EBmk4qLLhn0ioaN-s1DTjg.png)
 
 Information by [News That Moves](https://newsthatmoves.org/en/rumours-65-family-reunification-camp-on-islands-fines/)
 #### SERBIA
@@ -141,15 +141,15 @@ BelgrAid organization is about to start doing the food distribution in the city 
 #### A new point for informal education opened in Belgrade
 
 
-![](assets/926c86187b8c/1*A9ivWfq_Y98lJilHrGyD6g.jpeg)
+![](../assets/926c86187b8c/1*A9ivWfq_Y98lJilHrGyD6g.jpeg)
 
 
 
-![](assets/926c86187b8c/1*DTIppPpY2v3H8Qn8Xz6qPg.jpeg)
+![](../assets/926c86187b8c/1*DTIppPpY2v3H8Qn8Xz6qPg.jpeg)
 
 
 
-![“We’ve been slightly quiet preparing everything, but we can now happily announce that this week we opened up our dedicated education centre, ‘The Workshop’\! Ran in collaboration with [NorthStar](https://www.facebook.com/NorthStarSerbia/) and powered by international and local volunteers, the centre will be open five days a week to provide English language lessons and skill building workshops for migrants in and around Belgrade\.” \(Photos: RAS\)](assets/926c86187b8c/1*-nHaRW2dS7iPnYd7c2aFoQ.jpeg)
+![“We’ve been slightly quiet preparing everything, but we can now happily announce that this week we opened up our dedicated education centre, ‘The Workshop’\! Ran in collaboration with [NorthStar](https://www.facebook.com/NorthStarSerbia/) and powered by international and local volunteers, the centre will be open five days a week to provide English language lessons and skill building workshops for migrants in and around Belgrade\.” \(Photos: RAS\)](../assets/926c86187b8c/1*-nHaRW2dS7iPnYd7c2aFoQ.jpeg)
 
 “We’ve been slightly quiet preparing everything, but we can now happily announce that this week we opened up our dedicated education centre, ‘The Workshop’\! Ran in collaboration with [NorthStar](https://www.facebook.com/NorthStarSerbia/) and powered by international and local volunteers, the centre will be open five days a week to provide English language lessons and skill building workshops for migrants in and around Belgrade\.” \(Photos: RAS\)
 #### HUNGARY
@@ -203,7 +203,7 @@ People have been displaced further both within northern France and beyond\. This
 3\. People not being able to access their human rights goes unwitnessed allowing for the targeted persecution of refugee groups — PIM [concluded](https://www.facebook.com/peopleinmotion15/photos/a.448991821950623.1073741829.447904162059389/658861697630300/?type=3&hc_location=ufi) after the happenings\.
 
 
-![Photo: [People in Motion](https://www.facebook.com/peopleinmotion15/)](assets/926c86187b8c/1*JiIZAKNul0ZEubnpCXWUfg.jpeg)
+![Photo: [People in Motion](https://www.facebook.com/peopleinmotion15/)](../assets/926c86187b8c/1*JiIZAKNul0ZEubnpCXWUfg.jpeg)
 
 Photo: [People in Motion](https://www.facebook.com/peopleinmotion15/)
 ### Paris
@@ -216,7 +216,7 @@ Friday 14 pm\-18 pm @ Porte de la Chapelle
 Here’s what we’re distributing on the streets of Paris this week\. It includes the updated times and locations of where people can get food, a shower, legal support, internet access and more\.
 
 
-![](assets/926c86187b8c/1*ONA_abujqMUMsNlEF_Z2YA.jpeg)
+![](../assets/926c86187b8c/1*ONA_abujqMUMsNlEF_Z2YA.jpeg)
 
 
 See the rest of the maps and infographic [here](https://www.facebook.com/solidarithe/posts/1789522871365827) \.

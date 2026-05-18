@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,bosnia,migrants,refugees,border-violence]
 description: Alan Kurdi Docks in Palermo///Tensions Rise Across Greece///AlarmPhone Sahara Condemns Niger Pushbacks///&More
 image:
-  path: assets/4cc4882cd7be/0*6ELm2-eB5qXY64h2.jpg
+  path: ../assets/4cc4882cd7be/0*6ELm2-eB5qXY64h2.jpg
 ---
 
 ### AYS Digest 04/05/2020 — Man in Bosnian Camp Killed, Family Accuses Security Guard
 #### Alan Kurdi Docks in Palermo///Tensions Rise Across Greece///AlarmPhone Sahara Condemns Niger Pushbacks///&More
 
 
-![Photo Credit: KCUS via [N1](http://ba.n1info.com/Vijesti/a430794/Migrant-preminuo-od-povreda-na-KCUS-u-porodica-optuzuje-zastitara-kampa.html?fbclid=IwAR1bMvIbWcBxMwQNOmf5WyqEPq9nHcEYN7CRSUKZOLAEMT9P3VfXOxJdyV0)](assets/4cc4882cd7be/0*6ELm2-eB5qXY64h2.jpg)
+![Photo Credit: KCUS via [N1](http://ba.n1info.com/Vijesti/a430794/Migrant-preminuo-od-povreda-na-KCUS-u-porodica-optuzuje-zastitara-kampa.html?fbclid=IwAR1bMvIbWcBxMwQNOmf5WyqEPq9nHcEYN7CRSUKZOLAEMT9P3VfXOxJdyV0)](../assets/4cc4882cd7be/0*6ELm2-eB5qXY64h2.jpg)
 
 Photo Credit: KCUS via [N1](http://ba.n1info.com/Vijesti/a430794/Migrant-preminuo-od-povreda-na-KCUS-u-porodica-optuzuje-zastitara-kampa.html?fbclid=IwAR1bMvIbWcBxMwQNOmf5WyqEPq9nHcEYN7CRSUKZOLAEMT9P3VfXOxJdyV0)
 ### FEATURE — Man Living in Ušivak Camp Killed, Family Accuses Security Guard

@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 12/11/2018: Fortress Europe has taken more lives
+title: "AYS DAILY DIGEST 12/11/2018: Fortress Europe has taken more lives"
 author: Are You Syrious?
 date: 2018-11-13T12:27:09.896+0000
 last_modified_at: 2018-11-13T12:27:09.896+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,france,paris,turkey]
 description: Boat sinks on the way from Turkey to Lesvos // The situation for Eritreans in Libya is not getting better // Frontex in Albania //…
 image:
-  path: assets/8f901edb00fd/1*aAqU0ipvBeWwtRJIJPHZbw.jpeg
+  path: ../assets/8f901edb00fd/1*aAqU0ipvBeWwtRJIJPHZbw.jpeg
 ---
 
 ### AYS DAILY DIGEST 12/11/2018: Fortress Europe has taken more lives
@@ -15,7 +15,7 @@ image:
 _Boat sinks on the way from Turkey to Lesvos // The situation for Eritreans in Libya is not getting better // Frontex in Albania // Desperate situation in Paris for hundreds of people sleeping in the streets // Weather forecast for the Balkans and Paris_
 
 
-![Photo by [Médecins du Monde Hauts\-de\-France](https://www.facebook.com/M%C3%A9decins-du-Monde-Hauts-de-France-850170168369696/?__tn__=%2CdkCH-R-R&eid=ARATnO9g457-PrWm86sSKMKxAI8_ReXoFvLcUuz5XdzyoMzdob-XLpRDAd76AlG3JeCqjEbqJ2MoQHsu&hc_ref=ARSf32UayjlFSd3onCEC5VtHam-leGuBeqp317Gbz7RjFPfOg1kypc_dvdqf1zu205M&fref=nf)](assets/8f901edb00fd/1*aAqU0ipvBeWwtRJIJPHZbw.jpeg)
+![Photo by [Médecins du Monde Hauts\-de\-France](https://www.facebook.com/M%C3%A9decins-du-Monde-Hauts-de-France-850170168369696/?__tn__=%2CdkCH-R-R&eid=ARATnO9g457-PrWm86sSKMKxAI8_ReXoFvLcUuz5XdzyoMzdob-XLpRDAd76AlG3JeCqjEbqJ2MoQHsu&hc_ref=ARSf32UayjlFSd3onCEC5VtHam-leGuBeqp317Gbz7RjFPfOg1kypc_dvdqf1zu205M&fref=nf)](../assets/8f901edb00fd/1*aAqU0ipvBeWwtRJIJPHZbw.jpeg)
 
 Photo by [Médecins du Monde Hauts\-de\-France](https://www.facebook.com/M%C3%A9decins-du-Monde-Hauts-de-France-850170168369696/?__tn__=%2CdkCH-R-R&eid=ARATnO9g457-PrWm86sSKMKxAI8_ReXoFvLcUuz5XdzyoMzdob-XLpRDAd76AlG3JeCqjEbqJ2MoQHsu&hc_ref=ARSf32UayjlFSd3onCEC5VtHam-leGuBeqp317Gbz7RjFPfOg1kypc_dvdqf1zu205M&fref=nf)
 ### Feature
@@ -41,7 +41,7 @@ Hundreds of people, mostly from Eritrea, are being kept for days in this center,
 People are still arriving over the land border, from Turkey to Greece\. They are forced to stay in Langadikia camp, Northern Greece, where conditions are dire, especially with the dropping of temperatures\.
 
 
-![](assets/8f901edb00fd/1*sgilXVSAJYCBcLKVp-_Nsg.jpeg)
+![](../assets/8f901edb00fd/1*sgilXVSAJYCBcLKVp-_Nsg.jpeg)
 
 
 [Action for Women](https://www.facebook.com/actionforwomenCH/?ref=gs&__tn__=%2CdKH-R-R&eid=ARBd3kCVFVcaISePIzVgOJhWRdNQAPPRkI9GarqAaATo7xapGd5RIMfe0O0WU8kHza_KkMIo7Isk3swe&fref=gs&dti=998272446971719&hc_location=group) needs long term volunteers in Chios and Athens\.
@@ -61,11 +61,11 @@ Last month, the [EU signed an agreement](http://europa.eu/rapid/press-release_IP
 Update from Grand Synthe by [Médecins du Monde Hauts\-de\-France](https://www.facebook.com/M%C3%A9decins-du-Monde-Hauts-de-France-850170168369696/?__tn__=%2CdkCH-R-R&eid=ARATnO9g457-PrWm86sSKMKxAI8_ReXoFvLcUuz5XdzyoMzdob-XLpRDAd76AlG3JeCqjEbqJ2MoQHsu&hc_ref=ARSf32UayjlFSd3onCEC5VtHam-leGuBeqp317Gbz7RjFPfOg1kypc_dvdqf1zu205M&fref=nf)
 
 
-![](assets/8f901edb00fd/1*LxUSPhXinXLQjB6kgps2eg.jpeg)
+![](../assets/8f901edb00fd/1*LxUSPhXinXLQjB6kgps2eg.jpeg)
 
 
 
-![](assets/8f901edb00fd/1*nGIPzOHy5CPzYjbe-yETww.jpeg)
+![](../assets/8f901edb00fd/1*nGIPzOHy5CPzYjbe-yETww.jpeg)
 
 
 [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__tn__=%2CdkCH-R-R&eid=ARDrmUC64m3mvlu_Q-FxHrd1ROSo6LdPcd85lLFmPfZjL0-uc_gW73KcYYsPhoGTrPomK1eebA7P8G1W&hc_ref=ARTnVEAHawnyLQZ5e92FHKjjZIcw_2KsSrbjJbCnC025lQ8D6Cx9yHVttxUe0JHs5Ro&fref=nf)
@@ -73,7 +73,7 @@ Update from Grand Synthe by [Médecins du Monde Hauts\-de\-France](https://www.f
 “A sad and desperate Sunday night in the north of Paris\. But people are there to help people\. Stronger than states and the international organizations who should be doing this\.
 
 
-![](assets/8f901edb00fd/1*tip0U3QjWSGhV5gqTBvfIw.jpeg)
+![](../assets/8f901edb00fd/1*tip0U3QjWSGhV5gqTBvfIw.jpeg)
 
 
 So there were this Sunday night in this north of Paris over 1,200 people \(including women and children\) who will spend the night in unworthy and inhuman conditions\! Because the public authorities are failing inm their duty of humanity\! And don’t do their job…”
@@ -81,7 +81,7 @@ So there were this Sunday night in this north of Paris over 1,200 people \(inclu
 A newsletter about Calais & Dunkirk from [Refugee Info Bus حافلة المعلومات للاجئين مسیر راهنمای پناهندگان](https://www.facebook.com/RefugeeInfoBus/?fref=gc&dti=1652972374920129&hc_location=ufi)
 
 
-![](assets/8f901edb00fd/1*4D6oh__W9lh3Qs78K1z69A.png)
+![](../assets/8f901edb00fd/1*4D6oh__W9lh3Qs78K1z69A.png)
 
 
 [Refugee Community Kitchen](https://www.facebook.com/refugeeCkitchen/?__tn__=%2CdkCH-R-R&eid=ARB16ekjHUiAmxHKX4WPYhxtf-szdCbctPsadKmRZBCacJ23B81dHyRrZ9nHrtGC3210prnlVr2McN1X&hc_ref=ARQgkdLTHUbpPzo_xY56zVMER6QOYKJcmSKbp9hiS_148vWrdzTeRHQoOl5TnWbNWhI&hc_location=group) is in [Dunkirk, France](https://www.facebook.com/pages/Dunkirk-France/110338382322811?__tn__=%2CdkCH-R-R&eid=ARCA6Pdu9bd-9zG3UkV1KvNSMJ-NqIAN-nA2_OBRIU8Bkk7-YIHUqdq76mV1D1yk-lVxa0jZaqs6zjC0&hc_ref=ARQgkdLTHUbpPzo_xY56zVMER6QOYKJcmSKbp9hiS_148vWrdzTeRHQoOl5TnWbNWhI&fref=tag&hc_location=group) \.
@@ -97,7 +97,7 @@ Hello\! [Sciences Po Refugee Help](https://www.facebook.com/sciencesporefugeehel
 If you want to participate, you can suscribe in the [doodle](https://doodle.com/poll/cww7zrutx2q9kbzr) :
 
 
-![[SAJE soutien et accompagnement des jeunes en exil](https://www.facebook.com/lesajeparis/?__tn__=%2CdkCH-R-R&eid=ARCJOUH7wOWh5JSfFncOPW5E-Cu45vGYOp78FRvz56CeGv2Ez5tO2Bj84Jn8ZiSh4upD4JTA4x27J3CA&hc_ref=ARRLfpYpvHZzRPcwFcFrPS8dzvXQj9nvwXdWhhYG28szmVxADFQbTt4AFzKRwx3ih2o) is also distributing help in Paris\.](assets/8f901edb00fd/1*6KIcIykjPogk4XMHzd0Y2A.jpeg)
+![[SAJE soutien et accompagnement des jeunes en exil](https://www.facebook.com/lesajeparis/?__tn__=%2CdkCH-R-R&eid=ARCJOUH7wOWh5JSfFncOPW5E-Cu45vGYOp78FRvz56CeGv2Ez5tO2Bj84Jn8ZiSh4upD4JTA4x27J3CA&hc_ref=ARRLfpYpvHZzRPcwFcFrPS8dzvXQj9nvwXdWhhYG28szmVxADFQbTt4AFzKRwx3ih2o) is also distributing help in Paris\.](../assets/8f901edb00fd/1*6KIcIykjPogk4XMHzd0Y2A.jpeg)
 
 [SAJE soutien et accompagnement des jeunes en exil](https://www.facebook.com/lesajeparis/?__tn__=%2CdkCH-R-R&eid=ARCJOUH7wOWh5JSfFncOPW5E-Cu45vGYOp78FRvz56CeGv2Ez5tO2Bj84Jn8ZiSh4upD4JTA4x27J3CA&hc_ref=ARRLfpYpvHZzRPcwFcFrPS8dzvXQj9nvwXdWhhYG28szmVxADFQbTt4AFzKRwx3ih2o) is also distributing help in Paris\.
 ### Europe
@@ -105,7 +105,7 @@ If you want to participate, you can suscribe in the [doodle](https://doodle.com/
 [Refugee Rights Europe](https://www.facebook.com/RefugeeRightsEurope/?__tn__=%2CdkCH-R-R&eid=ARD3bn84bjHCBSL90oKGgrv51ZA4xUjlGPRZu2p5EoDVJL-4wyubg0qB8Qt0KxCG91lRxtO3dU4GDLKS&hc_ref=ARToh0sUMoCdEgzRG8Xau9M9ZoF276PAIVmXQpACFLpqZIDNsoyczejjuwhseB_qfFQ&fref=nf&hc_location=group) research has documented a worrying number of untreated health concerns amongst children and unaccompanied minors, who often lack access to education and information alongside safe and secure shelter\.
 
 
-![](assets/8f901edb00fd/1*VhIE9RK_1bmzHgd5X49pqQ.jpeg)
+![](../assets/8f901edb00fd/1*VhIE9RK_1bmzHgd5X49pqQ.jpeg)
 
 
 The lack of legal advice, guidance and adequate safeguarding mechanisms for displaced children in Europe puts them at heightened risk of exploitation and abuse and can often lead to them taking life\-threatening journeys or falling into the hands of traffickers\.

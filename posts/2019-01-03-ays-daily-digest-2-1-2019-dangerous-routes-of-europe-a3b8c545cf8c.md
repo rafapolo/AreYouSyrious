@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 2/1/2019: Dangerous routes of Europe
+title: "AYS DAILY DIGEST 2/1/2019: Dangerous routes of Europe"
 author: Are You Syrious?
 date: 2019-01-03T11:11:08.591+0000
 last_modified_at: 2019-01-03T13:34:28.586+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,sea,germany]
 description: More people are crossing English channel puttgin their lifes at risk // The same is happening in the Alps and mountains in the Balkans //…
 image:
-  path: assets/a3b8c545cf8c/1*PiZptJI9kSXaOgLRt0tieA.jpeg
+  path: ../assets/a3b8c545cf8c/1*PiZptJI9kSXaOgLRt0tieA.jpeg
 ---
 
 ### AYS DAILY DIGEST 2/1/2019: Dangerous routes of Europe
@@ -15,7 +15,7 @@ image:
 _More people are crossing English channel putting their lives at risk // The same is happening in the Alps and on mountains in the Balkans // Deportations to Afghanistan from Denmark and Germany // Police continue disregarding the law in Bosnia // Calls for protests and solidarity all over Europe_
 
 
-![Moria, Lesvos, winter 2018\. Snow is expected these days in Greece, too\. By [Antonios Forlidas](https://www.facebook.com/antonios.forlidas?__tn__=%2Cd%2AF%2AF-R&eid=ARCEawgUqbTrWw8Eg717pn-jJsNytjmAqVH4EOpCYaquijXek8M-ZK3J8QvihUVvx6_hG2pUo1mCGPzB&tn-str=%2AF)](assets/a3b8c545cf8c/1*PiZptJI9kSXaOgLRt0tieA.jpeg)
+![Moria, Lesvos, winter 2018\. Snow is expected these days in Greece, too\. By [Antonios Forlidas](https://www.facebook.com/antonios.forlidas?__tn__=%2Cd%2AF%2AF-R&eid=ARCEawgUqbTrWw8Eg717pn-jJsNytjmAqVH4EOpCYaquijXek8M-ZK3J8QvihUVvx6_hG2pUo1mCGPzB&tn-str=%2AF)](../assets/a3b8c545cf8c/1*PiZptJI9kSXaOgLRt0tieA.jpeg)
 
 Moria, Lesvos, winter 2018\. Snow is expected these days in Greece, too\. By [Antonios Forlidas](https://www.facebook.com/antonios.forlidas?__tn__=%2Cd%2AF%2AF-R&eid=ARCEawgUqbTrWw8Eg717pn-jJsNytjmAqVH4EOpCYaquijXek8M-ZK3J8QvihUVvx6_hG2pUo1mCGPzB&tn-str=%2AF)
 ### Feature
@@ -80,7 +80,7 @@ At the same time, another German NGO, Sea\-Eye, which rescued 17 people on 29 De
 [Seebrucke is calling everybody](https://www.facebook.com/SeebrueckeSchafftsichereHaefen/posts/768757696829749) to the demonstration in Berlin on 3 January, on the behalf of the 32 refugees who are still unable to dock in Europe\.
 
 
-![](assets/a3b8c545cf8c/1*TrorNYsRxyONPG6fcvXMfA.jpeg)
+![](../assets/a3b8c545cf8c/1*TrorNYsRxyONPG6fcvXMfA.jpeg)
 
 
 
@@ -133,7 +133,7 @@ The living conditions on all of the islands, but also in mainlaind camps, are ex
 Over the last several weeks we reported about the “Lets Bring Them Here” civic initiative in Holland\. On the 2nd day of the New Year we received a report about their mission to Greece\.
 
 
-![](assets/a3b8c545cf8c/1*8oUZ3DQ4TR66wRsI8mAGiQ.jpeg)
+![](../assets/a3b8c545cf8c/1*8oUZ3DQ4TR66wRsI8mAGiQ.jpeg)
 
 
 _“We drove 3000 km and delivered a letter to the parliament in Athens\. We asked for relocation of 1000 refugees from the Greek islands to the NL and had room to take 150 people back with us\. We did not get an answer, we didn’t really expect one, but at least there was huge international press attention for the subject\. We met with NGOs and refugees and discussed several ways to proceed and get the situation changed\. People felt our presence as supporting and bringing a tiny ray of hope\. The 60 drivers are back in the NL now, determined to continue\._
@@ -166,7 +166,7 @@ You can find more about free non\-formal educational programs in Athens [here](h
 Police in Bosnia continue breaking the law and preventing people from moving around the country\. On 2 January, police stopped a bus on its way from Sarajevo to Bihac and took off three young men, leaving them on the side of the road\. Again, local people and volunteers of the local red Cross, were there to offer basic help\. It was \-6 C° in Velecevo\.
 
 
-![Velecevo, by Red Cros Kljuc](assets/a3b8c545cf8c/1*wxLv_OVZAIypiJXVB6vStA.jpeg)
+![Velecevo, by Red Cros Kljuc](../assets/a3b8c545cf8c/1*wxLv_OVZAIypiJXVB6vStA.jpeg)
 
 Velecevo, by Red Cros Kljuc
 

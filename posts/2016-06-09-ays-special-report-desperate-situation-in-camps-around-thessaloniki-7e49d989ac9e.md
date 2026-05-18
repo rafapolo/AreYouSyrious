@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL REPORT: Desperate situation in camps around Thessaloniki
+title: "AYS SPECIAL REPORT: Desperate situation in camps around Thessaloniki"
 author: Are You Syrious?
 date: 2016-06-09T09:41:03.526+0100
 last_modified_at: 2018-03-01T13:56:54.613+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [refugees,europe,camps,thessaloniki,special]
 description: Relocations of refugee camps in several places around Greece are still going on. People are relocated voluntarily at this moment, but soon…
 image:
-  path: assets/7e49d989ac9e/1*AjuafWfxgBLAplFImiqrUQ.jpeg
+  path: ../assets/7e49d989ac9e/1*AjuafWfxgBLAplFImiqrUQ.jpeg
 ---
 
 ### AYS SPECIAL REPORT: Desperate situation in camps around Thessaloniki
 
 
-![Photo by [**Clément Martz**](http://www.clementmartz.com)](assets/7e49d989ac9e/1*AjuafWfxgBLAplFImiqrUQ.jpeg)
+![Photo by [**Clément Martz**](http://www.clementmartz.com)](../assets/7e49d989ac9e/1*AjuafWfxgBLAplFImiqrUQ.jpeg)
 
 Photo by [**Clément Martz**](http://www.clementmartz.com)
 
@@ -22,11 +22,11 @@ Relocations of refugee camps in several places around Greece are still going on\
 After camp in Idomeni, Greek — Macedonian border, was relocated, a group of independent volunteers started traveling in the area of Thessaloniki, where most of government run camps are, in attempt to collecting information about the situation\. Some of the camps are “new”, others have already existed before the closure of Idomeni\. This is their report\.
 
 
-![](assets/7e49d989ac9e/1*eTFHBCJJ9NWKIjRQ1m1P4A.jpeg)
+![](../assets/7e49d989ac9e/1*eTFHBCJJ9NWKIjRQ1m1P4A.jpeg)
 
 
 
-![[**Clément Martz**](http://www.clementmartz.com)](assets/7e49d989ac9e/1*PpN_yIu54lfTBymniR9Aqw.jpeg)
+![[**Clément Martz**](http://www.clementmartz.com)](../assets/7e49d989ac9e/1*PpN_yIu54lfTBymniR9Aqw.jpeg)
 
 [**Clément Martz**](http://www.clementmartz.com)
 
@@ -51,11 +51,11 @@ _It is settled in an industrial zone near Thessaloniki\. It is a real desert of 
 _For some days water was missing, because the cisterns are insufficient for the number of inhabitants\. The hygienic situation is totally neglected\. Sinks do not drains the water and garbage is not taken away for days, creating the perfect habitat for mosquitos and other insects\. Children are forced to play \(with nothing\) around the garbage\. There are 20 chemical toilets for 800 people\. The food is scarce and bad\. Drinking water is distributed as following: 3 liters per day for a family of 7 people\. There is no internet connection and only a few sockets\. Even the continuous complaints of refugees, police keeps making empty promises\._
 
 
-![](assets/7e49d989ac9e/1*GsQGuDF4YjTnP42POfzL9A.jpeg)
+![](../assets/7e49d989ac9e/1*GsQGuDF4YjTnP42POfzL9A.jpeg)
 
 
 
-![[**Clément Martz**](http://www.clementmartz.com)](assets/7e49d989ac9e/1*g_UgvomkjSttnF1nC9Af-Q.jpeg)
+![[**Clément Martz**](http://www.clementmartz.com)](../assets/7e49d989ac9e/1*g_UgvomkjSttnF1nC9Af-Q.jpeg)
 
 [**Clément Martz**](http://www.clementmartz.com)
 ### _Sindos Karamanli_
@@ -83,11 +83,11 @@ _The medical assistance is provided only by a military doctor that visits the ca
 _There is no internet connection and the sockets are insufficient\. When refugees have tried to ask the military for information the answer was: “ We cannot make promises, but maybe you will be moved to another camp in 3 months\.”_
 
 
-![](assets/7e49d989ac9e/1*L8YIQFBoM0pQszcbxk1k4w.jpeg)
+![](../assets/7e49d989ac9e/1*L8YIQFBoM0pQszcbxk1k4w.jpeg)
 
 
 
-![[**Clément Martz**](http://www.clementmartz.com)](assets/7e49d989ac9e/1*ZyWLWsnRsa9cLsug0sDqxQ.jpeg)
+![[**Clément Martz**](http://www.clementmartz.com)](../assets/7e49d989ac9e/1*ZyWLWsnRsa9cLsug0sDqxQ.jpeg)
 
 [**Clément Martz**](http://www.clementmartz.com)
 ### _Kalahori_
@@ -114,27 +114,27 @@ _The camp is located inside a campground on the sea, 50 km far from Thessaloniki
 _Refugees report us that the access to the camp has been forbidden to the volunteers since about 1 month\. For this reason there is a lack of medicines, toilet paper, sanitary and children products\. Refugees have protested 3 times during the last month but nothing have changed\. They are very worried because the Ramadan will start soon \(already started at the time of writing\) \. The police, however, is telling the people they will be moved soon\. The medical service is insufficient: there is only one doctor who visits the camp 3 times a week\. There is the Wi\-Fi\._
 
 
-![](assets/7e49d989ac9e/1*X1IeVgqArJpjvd_pW0SOEw.jpeg)
+![](../assets/7e49d989ac9e/1*X1IeVgqArJpjvd_pW0SOEw.jpeg)
 
 
 
-![](assets/7e49d989ac9e/1*bp0x17CwlWW_Irg6nGM-Yg.jpeg)
+![](../assets/7e49d989ac9e/1*bp0x17CwlWW_Irg6nGM-Yg.jpeg)
 
 
 
-![](assets/7e49d989ac9e/1*TkkvTAHpqmXYWzt2zUqN-A.jpeg)
+![](../assets/7e49d989ac9e/1*TkkvTAHpqmXYWzt2zUqN-A.jpeg)
 
 
 
-![](assets/7e49d989ac9e/1*dywqhlDy8k-I5_5R83mHpA.jpeg)
+![](../assets/7e49d989ac9e/1*dywqhlDy8k-I5_5R83mHpA.jpeg)
 
 
 
-![](assets/7e49d989ac9e/1*8obzzw90q52SkuF3YQJbNA.jpeg)
+![](../assets/7e49d989ac9e/1*8obzzw90q52SkuF3YQJbNA.jpeg)
 
 
 
-![Photo Borderfree Association](assets/7e49d989ac9e/1*CXYBrKqm5GyRGRu1TOflTQ.jpeg)
+![Photo Borderfree Association](../assets/7e49d989ac9e/1*CXYBrKqm5GyRGRu1TOflTQ.jpeg)
 
 Photo Borderfree Association
 ### _Piera \(hotel\)_
@@ -204,20 +204,20 @@ _The camp is located near Polikastro and hosts 4000 Syrian and Iraqi refugees \(
 _There are chemical toilets and shower\. The food is distributed 3 times a day and it is of bad quality\. There is a school that organizes activities for the children and a point where to charge phones\. It has not been possible to verify if there is an internet connection\. The medical assistance is provided by the International Red Cross\. The refugees have the opportunity to reach the city of Polikastro by walking for 1 hour\._
 
 
-![](assets/7e49d989ac9e/1*i3GNZh50k-vH7gJsV9DIyQ.jpeg)
+![](../assets/7e49d989ac9e/1*i3GNZh50k-vH7gJsV9DIyQ.jpeg)
 
 
 
-![](assets/7e49d989ac9e/1*mSgVb2WdhPB5W5d8LMup3g.jpeg)
+![](../assets/7e49d989ac9e/1*mSgVb2WdhPB5W5d8LMup3g.jpeg)
 
 
 
-![Photo Geo Mesmeric, Camp Kalochori](assets/7e49d989ac9e/1*Dd72X3Q-X2NdPM3vLStw1A.jpeg)
+![Photo Geo Mesmeric, Camp Kalochori](../assets/7e49d989ac9e/1*Dd72X3Q-X2NdPM3vLStw1A.jpeg)
 
 Photo Geo Mesmeric, Camp Kalochori
 
 
-![](assets/7e49d989ac9e/1*0noaO_64cmU_E65VsNynbQ.jpeg)
+![](../assets/7e49d989ac9e/1*0noaO_64cmU_E65VsNynbQ.jpeg)
 
 
 

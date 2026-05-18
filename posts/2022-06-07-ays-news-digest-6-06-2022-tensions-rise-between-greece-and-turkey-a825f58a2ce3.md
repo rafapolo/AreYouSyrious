@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest: 6.06.2022 Tensions rise between Greece and Turkey
+title: "AYS News Digest: 6.06.2022 Tensions rise between Greece and Turkey"
 author: Are You Syrious?
 date: 2022-06-07T18:19:40.057+0100
 last_modified_at: 2022-06-07T19:54:54.373+0100
@@ -7,7 +7,7 @@ categories:
 tags: [digest,newsdigest,eu,humanrights]
 description: Life lost in Libya // Rights for Long Stayers in Germany // Sea Watch 3 and Mare Jonio rescue vessels work together
 image:
-  path: assets/a825f58a2ce3/0*WuHtoWZprvvIBKIy
+  path: ../assets/a825f58a2ce3/0*WuHtoWZprvvIBKIy
 ---
 
 ### AYS News Digest: 6\.06\.2022 Tensions rise between Greece and Turkey
@@ -16,7 +16,7 @@ image:
 ### Tensions rise between Greece and Turkey
 
 
-![Photo by [Evangelos Mpikakis](https://unsplash.com/@mpikman?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/greek-islands?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](assets/a825f58a2ce3/0*WuHtoWZprvvIBKIy)
+![Photo by [Evangelos Mpikakis](https://unsplash.com/@mpikman?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/greek-islands?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](../assets/a825f58a2ce3/0*WuHtoWZprvvIBKIy)
 
 Photo by [Evangelos Mpikakis](https://unsplash.com/@mpikman?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/greek-islands?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
@@ -37,7 +37,7 @@ _WARNING this link contains a distressing photo_ — [Refugees In Libya](https:/
 UNHCR has [shared knowledge of people claiming to work for them](https://www.facebook.com/UNHCRLibyaInfo/photos/pcb.162666882909493/162666642909517/) , attempting to exploit people\. Their services remain free to users\.
 
 
-![](assets/a825f58a2ce3/0*TGwkDD4dR-UNurpM)
+![](../assets/a825f58a2ce3/0*TGwkDD4dR-UNurpM)
 
 
 This sad news comes as [Sea Eye shares](https://sea-eye.org/en/alliance-ship-sea-eye-4-starts-third-rescue-mission-in-2022/?fbclid=IwAR19KA7dg3y2Icu8eBvP_rM5P3GX4u_-Jx5P8XkiWWoOYHofseGFYLi80uA) the figures of those urgently requiring assistance in Libyan waters\.
@@ -81,7 +81,7 @@ The Queen having tea with Paddington - incredible that at 96 and after 70 years 
 
 
 
-![Photo Credit: [Via Twitter](https://twitter.com/miss_magpie_spy/status/1533208492613541889?fbclid=IwAR2sD14nF3ANG-Gvl8z2JHb20ek_uSBSOe2mcK_1Z2tCy-MaQKC5J6ExZ3o)](assets/a825f58a2ce3/0*3DF88IgMJyQJ7e5i)
+![Photo Credit: [Via Twitter](https://twitter.com/miss_magpie_spy/status/1533208492613541889?fbclid=IwAR2sD14nF3ANG-Gvl8z2JHb20ek_uSBSOe2mcK_1Z2tCy-MaQKC5J6ExZ3o)](../assets/a825f58a2ce3/0*3DF88IgMJyQJ7e5i)
 
 Photo Credit: [Via Twitter](https://twitter.com/miss_magpie_spy/status/1533208492613541889?fbclid=IwAR2sD14nF3ANG-Gvl8z2JHb20ek_uSBSOe2mcK_1Z2tCy-MaQKC5J6ExZ3o)
 #### SEA — SAR

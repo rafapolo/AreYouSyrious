@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL from Bosnia: “The game” that leads to European Union
+title: "AYS SPECIAL from Bosnia: “The game” that leads to European Union"
 author: Are You Syrious?
 date: 2018-07-25T07:41:31.218+0100
 last_modified_at: 2018-07-25T13:21:10.671+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,special,bihac,velika-kladusa,bosnia]
 description: Lorena Fornasir and Gian Andrea Franchi, Italian activists, went to Velika Kladuša and Bihać for the third time to bring help. For AYS they…
 image:
-  path: assets/1bc1c6b0471a/1*XL-hC0UXlY9peI_m9HV1ow.jpeg
+  path: ../assets/1bc1c6b0471a/1*XL-hC0UXlY9peI_m9HV1ow.jpeg
 ---
 
 ### AYS SPECIAL from Bosnia: “The game” that leads to European Union
@@ -15,7 +15,7 @@ image:
 _Lorena Fornasir and Gian Andrea Franchi, Italian activists, went to Velika Kladuša and Bihać for the third time to bring help\. For AYS they write about appalling living conditions, people who were pushed back after beaten and robed by the EU police, endless attempts to cross the borders, about children who do not smile…_
 
 
-![Photo by One Bridge to Idomeni, Bihać, Đački dom\.](assets/1bc1c6b0471a/1*XL-hC0UXlY9peI_m9HV1ow.jpeg)
+![Photo by One Bridge to Idomeni, Bihać, Đački dom\.](../assets/1bc1c6b0471a/1*XL-hC0UXlY9peI_m9HV1ow.jpeg)
 
 Photo by One Bridge to Idomeni, Bihać, Đački dom\.
 
@@ -30,7 +30,7 @@ Along the road that leads us to the center of Kladuša we meet several limping, 
 We soon reach the location of the “showers,” a former slaughterhouse that the talented volunteers have turned into a less degrading but always shabby space\. The horrible hooks hanging from the ceiling are a metaphor of the life of these migrants hanging on the edge of an almost impossible bet\.
 
 
-![Showers, Kladuša, Photo by No Name Kitchen\.](assets/1bc1c6b0471a/1*jgmI2KkRWyFkPeX4jgsEiA.jpeg)
+![Showers, Kladuša, Photo by No Name Kitchen\.](../assets/1bc1c6b0471a/1*jgmI2KkRWyFkPeX4jgsEiA.jpeg)
 
 Showers, Kladuša, Photo by No Name Kitchen\.
 
@@ -41,7 +41,7 @@ _“I’m from Syria, I was tortured, I lost everything, I walked 10 days to get
 His story is similar to that of the many, countless young men who try the way of the woods\. Not far away, a small group is sitting on the ground between waste and dirt\. They took off their shoes, their feet are full of sores, their arms and legs bear the signs of mistreatment and the cuts of the scrub of the woods through which they had tried to escape\.
 
 
-![Photo by No Name Kitchen](assets/1bc1c6b0471a/1*RB0VKz8CrN3k9c3kRhkaTA.jpeg)
+![Photo by No Name Kitchen](../assets/1bc1c6b0471a/1*RB0VKz8CrN3k9c3kRhkaTA.jpeg)
 
 Photo by No Name Kitchen
 
@@ -56,7 +56,7 @@ Both collaborate with the volunteers of “No Name Kitchen”\. The two groups h
 The volunteers of “No Name Kitchen” have also taken on the task of showers for which, every other day, men and women can wash themselves with cold water in front of the former slaughterhouse, in a space organized and divided with plastic sheets in 4 “cabins”\. They also organize the laundry by taking the garment to be cleaned and delivering a clean one\. They bring all the linen into their home, wash it and dry it to return it to the next shower\. With all the refugees they entertain empathic relationships, fresh, genuine, solar as well as professional\. In the evening, when the sun goes down, they play activities with the children of the camp who, unfortunately and obviously do not go to school and live in deprivation\.
 
 
-![Photo by No Name Kitchen](assets/1bc1c6b0471a/1*eLk-QC4pyajGMpuD05aZDw.jpeg)
+![Photo by No Name Kitchen](../assets/1bc1c6b0471a/1*eLk-QC4pyajGMpuD05aZDw.jpeg)
 
 Photo by No Name Kitchen
 
@@ -79,7 +79,7 @@ This much\-desired Europe is actually a state\-inflicted trauma inscribed in the
 In the so\-called Đački dom, large dilapidated building that officially hosts refugees, there is regular intervention by the Red Cross and, now, other organizations such as IOM, Doctors Without Borders and Save the Children\. The electricity has recently been restored by the Municipality, the health services, placed in the courtyard, have been improved compared to our previous trip, but still inadequate, given the increase in the number of occupants who rose from 500 to 900 people\. We remind that it is the skeleton of a building intended for a school or home for youth, with various rooms not accessible because unsafe or with very dangerous large holes on the floor, with doors that give on the void, with parts in which the rotten cement lets the water pass\. Let’s imagine the rainy autumn and, worse, the winter in an area where it snows a lot\.
 
 
-![Photo by Dylan Longman, Inside of Đački dom](assets/1bc1c6b0471a/1*W9wYXCXsV7pmZ-hmwPD8VA.jpeg)
+![Photo by Dylan Longman, Inside of Đački dom](../assets/1bc1c6b0471a/1*W9wYXCXsV7pmZ-hmwPD8VA.jpeg)
 
 Photo by Dylan Longman, Inside of Đački dom
 
@@ -96,7 +96,7 @@ After telling us their story the two boys invite us to eat with them a kind of s
 The majority of the ‘guests’ of this perilous structure instead eat collectively at the tables of a large room, the food brought by the Red Cross \(a soup of legumes, it seems, with a piece of bread — the past times we had also seen pieces of meat\) — after having done a very long line that lasts at least two hours in the courtyard \(think about when it rains\! \) \.
 
 
-![Food line in Bihać, Photo by Red Cross Bihać](assets/1bc1c6b0471a/1*kd94ev8lfpb9I3_DZ2ivmQ.jpeg)
+![Food line in Bihać, Photo by Red Cross Bihać](../assets/1bc1c6b0471a/1*kd94ev8lfpb9I3_DZ2ivmQ.jpeg)
 
 Food line in Bihać, Photo by Red Cross Bihać
 
@@ -113,7 +113,7 @@ Returning to the girl who asked us to take her with us, we leave her a sleeping 
 Like her, many other unaccompanied minors, kids who appear to be 16 years old, but maybe they will have 14 or 15, wander between the park and the road that leads to the border\. The feeling is that they are carrying a desperate loneliness\.
 
 
-![Photo by Red Cross Bihać](assets/1bc1c6b0471a/1*sBz4YhPYxGZfNKCRVwES9Q.jpeg)
+![Photo by Red Cross Bihać](../assets/1bc1c6b0471a/1*sBz4YhPYxGZfNKCRVwES9Q.jpeg)
 
 Photo by Red Cross Bihać
 

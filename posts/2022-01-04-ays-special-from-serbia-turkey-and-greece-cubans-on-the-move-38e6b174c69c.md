@@ -1,5 +1,5 @@
 ---
-title: AYS Special from Serbia, Turkey and Greece: Cubans on the move
+title: "AYS Special from Serbia, Turkey and Greece: Cubans on the move"
 author: Are You Syrious?
 date: 2022-01-04T14:58:08.127+0000
 last_modified_at: 2022-01-04T14:58:08.127+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [special,cuban-refugees,balkan-route,pushback,asylum-europe]
 description: Seldom reported, 100s of Cubans arrived in the Balkans and Greece in recent months. They faced harassment and ‘pushbacks’ to Turkey.
 image:
-  path: assets/38e6b174c69c/1*u8ZnymnY6CbW8FTqLJ151g.jpeg
+  path: ../assets/38e6b174c69c/1*u8ZnymnY6CbW8FTqLJ151g.jpeg
 ---
 
 ### AYS Special from Serbia, Turkey and Greece: Cubans on the move
@@ -15,7 +15,7 @@ image:
 _Though it is seldom reported on, hundreds of Cubans have arrived in the Balkans and Greece in recent months\. Often arriving via Russia, they have faced violence and difficulty in accessing asylum and have even been pushed into Turkey having never before been there\._
 
 
-![\(Credit: [tw1105](https://www.flickr.com/photos/147652880@N04/) \)](assets/38e6b174c69c/1*u8ZnymnY6CbW8FTqLJ151g.jpeg)
+![\(Credit: [tw1105](https://www.flickr.com/photos/147652880@N04/) \)](../assets/38e6b174c69c/1*u8ZnymnY6CbW8FTqLJ151g.jpeg)
 
 \(Credit: [tw1105](https://www.flickr.com/photos/147652880@N04/) \)
 #### Cuban Communities Along the Balkan Route

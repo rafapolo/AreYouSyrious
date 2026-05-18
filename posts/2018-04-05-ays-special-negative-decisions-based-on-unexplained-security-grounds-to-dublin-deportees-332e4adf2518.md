@@ -7,18 +7,18 @@ categories: Are You Syrious?
 tags: [refugees,croatia,special,dublin,asylum]
 description: Report on arbitrary and unlawful practices by the Ministry of Interior and the Security and Intelligence Agency of the Republic of Croatia…
 image:
-  path: assets/332e4adf2518/1*EaonqfNrqzJSMfYe_nbHLw.jpeg
+  path: ../assets/332e4adf2518/1*EaonqfNrqzJSMfYe_nbHLw.jpeg
 ---
 
 ### AYS Special — Negative decisions based on unexplained security grounds to Dublin deportees
 #### **Report on arbitrary and unlawful practices by the Ministry of Interior and the Security and Intelligence Agency of the Republic of Croatia related to \(non\)approval of international protection or status of foreigners in Croatia\.**
 
 
-![](assets/332e4adf2518/1*EaonqfNrqzJSMfYe_nbHLw.jpeg)
+![](../assets/332e4adf2518/1*EaonqfNrqzJSMfYe_nbHLw.jpeg)
 
 
 
-![](assets/332e4adf2518/1*Hc5lLmO9pNhz4PBatuPggw.jpeg)
+![](../assets/332e4adf2518/1*Hc5lLmO9pNhz4PBatuPggw.jpeg)
 
 
 **This article was originally published on 26\. January 2017\.**

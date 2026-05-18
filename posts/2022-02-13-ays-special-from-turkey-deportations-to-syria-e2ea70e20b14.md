@@ -1,5 +1,5 @@
 ---
-title: AYS Special from Turkey: Deportations to Syria
+title: "AYS Special from Turkey: Deportations to Syria"
 author: Are You Syrious?
 date: 2022-02-13T13:23:10.018+0000
 last_modified_at: 2022-02-13T14:45:32.208+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [special,turkey,deportations,syrian-refugees,refugees]
 description: Over the past months, we have received increasing reports of collective deportations of Syrian people on the move…
 image:
-  path: assets/e2ea70e20b14/1*9dFafjPvCKCMuq5XGWnPmw.jpeg
+  path: ../assets/e2ea70e20b14/1*9dFafjPvCKCMuq5XGWnPmw.jpeg
 ---
 
 ### AYS Special from Turkey: Deportations to Syria
@@ -15,7 +15,7 @@ image:
 _Over the past months, we have received increasing reports of collective deportations of Syrian people on the move — both documented and undocumented — from different locations in Turkey to Syria\. While this practice has been observed for some time, numbers seem to have increased sharply in the recent months\._
 
 
-![Idlib, northern Syria \(Photo by [Ahmed Akacha — Pexels](https://www.pexels.com/photo/a-woman-refugee-carrying-a-tray-7385966/) \)](assets/e2ea70e20b14/1*9dFafjPvCKCMuq5XGWnPmw.jpeg)
+![Idlib, northern Syria \(Photo by [Ahmed Akacha — Pexels](https://www.pexels.com/photo/a-woman-refugee-carrying-a-tray-7385966/) \)](../assets/e2ea70e20b14/1*9dFafjPvCKCMuq5XGWnPmw.jpeg)
 
 Idlib, northern Syria \(Photo by [Ahmed Akacha — Pexels](https://www.pexels.com/photo/a-woman-refugee-carrying-a-tray-7385966/) \)
 #### THE SITUATION FOR PEOPLE ON THE MOVE IN TURKEY

@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL FROM PARIS (part 1): Child refugees rely on volunteers for shelter
+title: "AYS SPECIAL FROM PARIS (part 1): Child refugees rely on volunteers for shelter"
 author: Are You Syrious?
 date: 2017-11-06T18:49:30.848+0000
 last_modified_at: 2018-03-01T14:04:58.258+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [refugees,paris,france,special,volunteering]
 description: Dozens of unaccompanied minors are currently sleeping rough in the French capital, facing bureaucratic hurdles to be recognized as a child…
 image:
-  path: assets/1651ce6e04d2/0*5tvCJ5oBIQcXCTej.
+  path: ../assets/1651ce6e04d2/0*5tvCJ5oBIQcXCTej.
 ---
 
 ### AYS SPECIAL FROM PARIS \(part 1\): Child refugees rely on volunteers for shelter
 
 
-![Photos of refugees sleeping in the streets of Europe\. By the [Phone Credit for Refugees Displaced People Group](https://www.facebook.com/photo.php?fbid=10159031582760374&set=g.1709109339334305&type=1&theater)](assets/1651ce6e04d2/0*5tvCJ5oBIQcXCTej.)
+![Photos of refugees sleeping in the streets of Europe\. By the [Phone Credit for Refugees Displaced People Group](https://www.facebook.com/photo.php?fbid=10159031582760374&set=g.1709109339334305&type=1&theater)](../assets/1651ce6e04d2/0*5tvCJ5oBIQcXCTej.)
 
 Photos of refugees sleeping in the streets of Europe\. By the [Phone Credit for Refugees Displaced People Group](https://www.facebook.com/photo.php?fbid=10159031582760374&set=g.1709109339334305&type=1&theater)
 
@@ -26,7 +26,7 @@ Their struggles however do not end after arrival to France\. Volunteers often ha
 Catherine, of local association Paris d’Exil, says that they endured the journey with the hope that their lives would be transformed once they arrive in Europe, but are then traumatized by the cold and violent welcome they actually face on the continent\.
 
 
-![Many people have nowhere to go in Paris\. Credits: Danika Jurisic](assets/1651ce6e04d2/1*lgf772jfxWKzio56lvzysQ.jpeg)
+![Many people have nowhere to go in Paris\. Credits: Danika Jurisic](../assets/1651ce6e04d2/1*lgf772jfxWKzio56lvzysQ.jpeg)
 
 Many people have nowhere to go in Paris\. Credits: Danika Jurisic
 ### A grassroots network of hosts
@@ -36,7 +36,7 @@ To respond to this situation, Paris d’Exil has built up a network of hosts tha
 Currently Paris d’Exil says it hosts only 50 minors and knows of 233 children sleeping in the streets — many more are probably outside, invisible to associations and support\.
 
 
-![Not only adults, but also unaccompanied minors are sleeping rough\. Credits: Danika Jurisic](assets/1651ce6e04d2/1*1HssgXOxaeyR9X8XhvbOAg.jpeg)
+![Not only adults, but also unaccompanied minors are sleeping rough\. Credits: Danika Jurisic](../assets/1651ce6e04d2/1*1HssgXOxaeyR9X8XhvbOAg.jpeg)
 
 Not only adults, but also unaccompanied minors are sleeping rough\. Credits: Danika Jurisic
 
@@ -54,7 +54,7 @@ ADJIE says that some “privileged” teenagers get the chance to be interviewed
 After their evaluation, around 80 percent of minors are not recognised as such and are denied protection by social services\. The DEMIE often uses absurd justifications to deny that refugees are underage\.
 
 
-![Many underage people do not receive a shelter\. Credits: Danika Jurisic](assets/1651ce6e04d2/1*l-b3tagL2aTomi21r3CoBA.jpeg)
+![Many underage people do not receive a shelter\. Credits: Danika Jurisic](../assets/1651ce6e04d2/1*l-b3tagL2aTomi21r3CoBA.jpeg)
 
 Many underage people do not receive a shelter\. Credits: Danika Jurisic
 
@@ -65,7 +65,7 @@ Delphine Schilton of course pointed out that being “autonomous” is not enoug
 One Red Cross educator says that around 50 percent of minors who are not recognized as such, and appeal the decision with the help of the ADJIE, are finally taken in charge by the state, clearly showing that the evaluation of minors is not working\. The issue is that they are not sheltered during the appeal process, meaning that they could face even more time in the streets\. It’s during that time in particular, that they are hosted by volunteers, as they find themselves in a “legal no\-man’s land” according to Valérie, neither considered as minors nor as adults\.
 
 
-![A makeshift camp in Paris\. Credits: Danika Jurisic](assets/1651ce6e04d2/1*w7fZYzwModUwXF3U13j2jg.jpeg)
+![A makeshift camp in Paris\. Credits: Danika Jurisic](../assets/1651ce6e04d2/1*w7fZYzwModUwXF3U13j2jg.jpeg)
 
 A makeshift camp in Paris\. Credits: Danika Jurisic
 ### A petition to improve the evaluation of minors

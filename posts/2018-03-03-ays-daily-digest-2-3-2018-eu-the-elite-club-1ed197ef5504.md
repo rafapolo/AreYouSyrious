@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 2/3/2018: EU — the elite club
+title: "AYS DAILY DIGEST 2/3/2018: EU — the elite club"
 author: Are You Syrious?
 date: 2018-03-03T08:51:07.503+0000
 last_modified_at: 2018-03-04T17:34:20.485+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,bosnia,european-union,france,digest]
 description: Military drones and walls of European Union vs dreams // Bosnia, Montenegro and Albania — new hot spots? // Over 100 new arrivals on Greek…
 image:
-  path: assets/1ed197ef5504/1*6tJJn6aZ1u0hcxbVDiENZg.jpeg
+  path: ../assets/1ed197ef5504/1*6tJJn6aZ1u0hcxbVDiENZg.jpeg
 ---
 
 ### AYS DAILY DIGEST 2/3/2018: EU — the elite club
@@ -15,7 +15,7 @@ image:
 Military drones and walls of European Union vs dreams // Bosnia, Montenegro and Albania — new hot spots? // Over 100 new arrivals on Greek islands // Possible restrictions for volunteers in Belgium // And more from France, Germay, Malta, Bulgaria…
 
 
-![And we choose life\. By Ammar Bwidany in \#EasternGhouta, \#SaveGhouta](assets/1ed197ef5504/1*6tJJn6aZ1u0hcxbVDiENZg.jpeg)
+![And we choose life\. By Ammar Bwidany in \#EasternGhouta, \#SaveGhouta](../assets/1ed197ef5504/1*6tJJn6aZ1u0hcxbVDiENZg.jpeg)
 
 And we choose life\. By Ammar Bwidany in \#EasternGhouta, \#SaveGhouta
 ### Feature
@@ -62,19 +62,19 @@ Lesvos 1453/1890 Chios 179/822 Samos 822/802 Leros 0/69 Kos 258/166 Others 158/3
 Total February 1191/1152
 
 
-![](assets/1ed197ef5504/1*mxEdbSFGAISynuwz3DF6Ww.jpeg)
+![](../assets/1ed197ef5504/1*mxEdbSFGAISynuwz3DF6Ww.jpeg)
 
 
 
-![](assets/1ed197ef5504/1*o8FeljdEhc_ThGiwAxF7oA.jpeg)
+![](../assets/1ed197ef5504/1*o8FeljdEhc_ThGiwAxF7oA.jpeg)
 
 
 
-![](assets/1ed197ef5504/1*hxIR1z6_bg8XB9BolvjE3w.jpeg)
+![](../assets/1ed197ef5504/1*hxIR1z6_bg8XB9BolvjE3w.jpeg)
 
 
 
-![AYS](assets/1ed197ef5504/1*2Xq-5kKVTS7nPV4_OKxCfA.jpeg)
+![AYS](../assets/1ed197ef5504/1*2Xq-5kKVTS7nPV4_OKxCfA.jpeg)
 
 AYS
 ### Italy
@@ -106,11 +106,11 @@ Prime Minister Viktor Orbán continues being racist\. This time, while visiting 
 Little improvement on the ground in France\. More people are on the streets, while the weather continues to be very bad, with snow and low temperatures\.
 
 
-![](assets/1ed197ef5504/1*6QQrPlD3-NUXgEJy-Eb0ZA.jpeg)
+![](../assets/1ed197ef5504/1*6QQrPlD3-NUXgEJy-Eb0ZA.jpeg)
 
 
 
-![Care4Calais](assets/1ed197ef5504/1*nkZXUgqY2g8WuLmfO7wLTA.jpeg)
+![Care4Calais](../assets/1ed197ef5504/1*nkZXUgqY2g8WuLmfO7wLTA.jpeg)
 
 Care4Calais
 

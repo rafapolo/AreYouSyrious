@@ -7,7 +7,7 @@ categories:
 tags: [refugees,syria]
 description: 20th to 27th of February
 image:
-  path: assets/683e9088675f/1*NTQPXlUlC2ooCUVyGeRZDg.png
+  path: ../assets/683e9088675f/1*NTQPXlUlC2ooCUVyGeRZDg.png
 ---
 
 ### This Week’s Solidarity Events in Europe
@@ -15,7 +15,7 @@ image:
 ### Greece
 
 
-![](assets/683e9088675f/1*NTQPXlUlC2ooCUVyGeRZDg.png)
+![](../assets/683e9088675f/1*NTQPXlUlC2ooCUVyGeRZDg.png)
 
 
 Eko Project is inviting people to come to [concerts by Catalan singers Feliu Ventura i Xavi Sarriàin](http://ppf.cat/index.php/cat/14-artistes/feliu-ventura/476-feliu-ventura-i-xavi-sarria-viatgen-a-grecia-per-tocar-per-les-persones-refugiades) in Athens on Sunday and Monday:
@@ -25,13 +25,13 @@ Eko Project is inviting people to come to [concerts by Catalan singers Feliu Ven
 ### UK
 
 
-![](assets/683e9088675f/1*P7piQI_lb-82NEvdrcUDYg.png)
+![](../assets/683e9088675f/1*P7piQI_lb-82NEvdrcUDYg.png)
 
 
 **Monday 20th** — [One day without us](http://www.1daywithoutus.org/feb20/) : National day of action on 20th February 2017, in support of EU nationals and non EU immigrants living, working, and studying in this country\.
 
 
-![](assets/683e9088675f/1*zvI8n4-CCcLQ8cASIyQN2Q.png)
+![](../assets/683e9088675f/1*zvI8n4-CCcLQ8cASIyQN2Q.png)
 
 
 **Wednesday 22nd from 7PM** — [Solidarity Sleep\-Out for Unaccompanied Child Refugees](https://www.facebook.com/events/244488102676968/) : Protest and action to raise awareness of unaccompanied child refugees who are sleeping rough in France\. Please bring your sleeping bag, pillow, snacks and righteous anger\. More information to follow on catering and evening speakers\.
@@ -39,7 +39,7 @@ Eko Project is inviting people to come to [concerts by Catalan singers Feliu Ven
 _Address: Downing Street, London_
 
 
-![](assets/683e9088675f/1*mduK671YcxdSukGXs1ZROA.png)
+![](../assets/683e9088675f/1*mduK671YcxdSukGXs1ZROA.png)
 
 
 **Wednesday 22th at 7:15PM — 10PM** — [The CalAid Story](https://www.facebook.com/events/1830428933845869/) : CalAid are very excited to have James Fisher, one of CalAid’s founders, and Keir Starmer, MP for Holborn and St Pancras, speaking on the urgent and immediate refugee crisis, and the crucial role grassroots groups have to play — £20 per ticket\.
@@ -47,7 +47,7 @@ _Address: Downing Street, London_
 _Address: The Oasis Centre, 1 Kennington Road, London, SE1 7QP_
 
 
-![Help4Refugee Children](assets/683e9088675f/1*nrHGXgBfq-Fngvo4iMXfMA.png)
+![Help4Refugee Children](../assets/683e9088675f/1*nrHGXgBfq-Fngvo4iMXfMA.png)
 
 Help4Refugee Children
 
@@ -57,7 +57,7 @@ _Address: Downing Street, London_
 ### France
 
 
-![Photo by [Dessins Sans Papiers](https://www.facebook.com/groups/dessinssanspapiers)](assets/683e9088675f/1*X0DeG65-HZCQwiGqyEcIlg.png)
+![Photo by [Dessins Sans Papiers](https://www.facebook.com/groups/dessinssanspapiers)](../assets/683e9088675f/1*X0DeG65-HZCQwiGqyEcIlg.png)
 
 Photo by [Dessins Sans Papiers](https://www.facebook.com/groups/dessinssanspapiers)
 
@@ -72,7 +72,7 @@ A national meeting of migrants, regardless of their status, is going to be held 
 _Address: Bourse du travail, 3 Rue du Château d’Eau, 75010 Paris_
 
 
-![Polyvalence](assets/683e9088675f/1*9zeEfSRpn929r8PlIdfPtw.png)
+![Polyvalence](../assets/683e9088675f/1*9zeEfSRpn929r8PlIdfPtw.png)
 
 Polyvalence
 
@@ -82,7 +82,7 @@ _Address: Les Grands Voisins, 72 avenue Denfert Rochereau 74014_
 ### Germany
 
 
-![](assets/683e9088675f/1*2fgMgxjpCjEwCmS59zJcrw.png)
+![](../assets/683e9088675f/1*2fgMgxjpCjEwCmS59zJcrw.png)
 
 
 **Wednesday 20th** — [Protests against deportations in Baden\-Würrtemberg](http://fluechtlingsrat-bw.de/informationen-ansicht/protestkundgebungen-gegen-abschiebungen-am-mittwoch.html) : The Baden\-Württemberg Refugee Council calls for protests against deportations to Afghanistan, Serbia and FYROM that are planned the same day\.
@@ -91,7 +91,7 @@ _Address: Protests will take place in Biberach, Stuttgart, Mannheim, Karlsruhe, 
 ### Serbia
 
 
-![](assets/683e9088675f/1*diJDOx7Cj9FjrkfE6km6MQ.png)
+![](../assets/683e9088675f/1*diJDOx7Cj9FjrkfE6km6MQ.png)
 
 
 **24th of February to 4th of March** — [Documentary photography exhibition about life of refugees in Serbia and call for donations](https://www.facebook.com/events/1144112645711099/) : Lazara Marinkovic is a Belgrade based journalist, author and photo\-reporter\. Her articles and photo reports are published in various media outlets, such as VICE, Al Jazeera, Pescanik, NIN, Bturn magazine and others\. Street gallery’s “People at the gates” is her first solo exhibition of documentary photographs created while reporting the refugee crisis in Serbia from August 2015 to date\. All photos are for sale and all proceedings will be donated to humanitarian organizations helping the most vulnerable refugees in Belgrade\. On the opening day, you can bring warm clothes, jackets, pants, socks, shoes, gloves, hats, scarves and other items that will be donated as well\.

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 19/09/17: Court rules family reunification time limits must be respected
+title: "AYS Daily Digest 19/09/17: Court rules family reunification time limits must be respected"
 author: Are You Syrious?
 date: 2017-09-20T06:20:50.590+0100
 last_modified_at: 2017-09-20T10:18:44.246+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,germany,greece,human-rights,italy]
 description: German court rules on family reunification time limits / Difficult conditions persist on Lesvos / Volunteering opportunities in Greece /…
 image:
-  path: assets/520fadd439f2/1*zqe7MPlSYa0cu5Jzpwri4Q.jpeg
+  path: ../assets/520fadd439f2/1*zqe7MPlSYa0cu5Jzpwri4Q.jpeg
 ---
 
 ### AYS Daily Digest 19/09/17: Court rules family reunification time limits must be respected
 #### _German court rules on family reunification time limits / Difficult conditions persist on Lesvos / Volunteering opportunities in Greece / Police clear France’s Puythouck camp / Organizations from across Europe call for donations and help_
 
 
-![Dunkirk \(Photo by Aktion Weitblick\)](assets/520fadd439f2/1*zqe7MPlSYa0cu5Jzpwri4Q.jpeg)
+![Dunkirk \(Photo by Aktion Weitblick\)](../assets/520fadd439f2/1*zqe7MPlSYa0cu5Jzpwri4Q.jpeg)
 
 Dunkirk \(Photo by Aktion Weitblick\)
 ### FEATURE: German court rules on Dublin\-defined family reunification
@@ -126,14 +126,14 @@ With more than 6,000 people in the facilities on the island, a steady increase i
 Concerns are peaking again about the situation on the islands of the eastern Aegean, as some 2,300 undocumented migrants have arrived from neighboring Turkey in the past two weeks alone, Greek media [report](http://www.ekathimerini.com/221767/article/ekathimerini/news/renewed-influx-of-migrants-to-islands-a-concern?fref=gc&dti=1652972374920129) \.
 
 
-![“ This is Stage 2 UNHCR Camp on Lesvos, Greece on Sunday\. There’s been an influx of arrivals the last few days\. We have had mostly children and their parents, many from Syria\. At one point we were looking after and cooking for more than 80 people\.” \(Photo: Refugee 4 Refugees\)](assets/520fadd439f2/1*pzikwZ5SWNRGsJSjJSXatA.jpeg)
+![“ This is Stage 2 UNHCR Camp on Lesvos, Greece on Sunday\. There’s been an influx of arrivals the last few days\. We have had mostly children and their parents, many from Syria\. At one point we were looking after and cooking for more than 80 people\.” \(Photo: Refugee 4 Refugees\)](../assets/520fadd439f2/1*pzikwZ5SWNRGsJSjJSXatA.jpeg)
 
 “ This is Stage 2 UNHCR Camp on Lesvos, Greece on Sunday\. There’s been an influx of arrivals the last few days\. We have had mostly children and their parents, many from Syria\. At one point we were looking after and cooking for more than 80 people\.” \(Photo: Refugee 4 Refugees\)
 
 Meanwhile the rate of returns to Turkey of migrants whose asylum applications have been rejected is very slow, largely because many of them appeal against rejections in a bid to postpone their deportation, Ekathimerini [reports](http://www.ekathimerini.com/221767/article/ekathimerini/news/renewed-influx-of-migrants-to-islands-a-concern?fref=gc&dti=1652972374920129) \.
 
 
-![](assets/520fadd439f2/1*A_6q2X7L0zbGAzvwCE1d5Q.jpeg)
+![](../assets/520fadd439f2/1*A_6q2X7L0zbGAzvwCE1d5Q.jpeg)
 
 ### Rhodes
 
@@ -150,7 +150,7 @@ Meanwhile the rate of returns to Turkey of migrants whose asylum applications ha
 ### Samos
 
 
-![With over 700 new arrivals so far in September, the camp is becoming more crowded, with families cramming into pop up tents outside the camps fences\. Samos volunteers need more volunteers on the island\! \(Photo: [Samos Volunteers](https://www.facebook.com/samosvolunteers/) \)](assets/520fadd439f2/1*rS08rX3Y5NmNpianS_Q_vQ.jpeg)
+![With over 700 new arrivals so far in September, the camp is becoming more crowded, with families cramming into pop up tents outside the camps fences\. Samos volunteers need more volunteers on the island\! \(Photo: [Samos Volunteers](https://www.facebook.com/samosvolunteers/) \)](../assets/520fadd439f2/1*rS08rX3Y5NmNpianS_Q_vQ.jpeg)
 
 With over 700 new arrivals so far in September, the camp is becoming more crowded, with families cramming into pop up tents outside the camps fences\. Samos volunteers need more volunteers on the island\! \(Photo: [Samos Volunteers](https://www.facebook.com/samosvolunteers/) \)
 ### Chios
@@ -165,7 +165,7 @@ With over 700 new arrivals so far in September, the camp is becoming more crowde
 About a hundred people was transferred from Souda by buses today\.
 
 
-![Photo: [Muhamed Albakur](https://www.facebook.com/muhamed.albakur.5)](assets/520fadd439f2/1*3XMcB_9ScBGysPAlwg3nwA.jpeg)
+![Photo: [Muhamed Albakur](https://www.facebook.com/muhamed.albakur.5)](../assets/520fadd439f2/1*3XMcB_9ScBGysPAlwg3nwA.jpeg)
 
 Photo: [Muhamed Albakur](https://www.facebook.com/muhamed.albakur.5)
 
@@ -186,7 +186,7 @@ The lessons are an initiative of volunteers, in collaboration with some of the c
 **If you want to offer your skills with us and are available for a minimum of three weeks, apply to volunteer** [**here**](https://intervolvegr.com/help/volunteer/) \.
 
 
-![Photo: InterVolve](assets/520fadd439f2/1*h5lsfV4pW4HdFLRGVJA26Q.jpeg)
+![Photo: InterVolve](../assets/520fadd439f2/1*h5lsfV4pW4HdFLRGVJA26Q.jpeg)
 
 Photo: InterVolve
 ### Athens
@@ -475,11 +475,11 @@ Today, hearing in the case against Jugend Rettet started in the court in Italy\.
 
 
 
-![](assets/520fadd439f2/1*WdmkHzQqyl4DCkvTjFru1A.jpeg)
+![](../assets/520fadd439f2/1*WdmkHzQqyl4DCkvTjFru1A.jpeg)
 
 
 
-![Tunisian migrants staying at the hotspot in Lampedusa marched and protested peacefully \(Photo: [Mediterranean hope](https://www.facebook.com/Mediterranean-hope-252231521632595/) \)](assets/520fadd439f2/1*P3YuJv0dxxysuzSuX5AeBw.jpeg)
+![Tunisian migrants staying at the hotspot in Lampedusa marched and protested peacefully \(Photo: [Mediterranean hope](https://www.facebook.com/Mediterranean-hope-252231521632595/) \)](../assets/520fadd439f2/1*P3YuJv0dxxysuzSuX5AeBw.jpeg)
 
 Tunisian migrants staying at the hotspot in Lampedusa marched and protested peacefully \(Photo: [Mediterranean hope](https://www.facebook.com/Mediterranean-hope-252231521632595/) \)
 ### Pordenone
@@ -487,11 +487,11 @@ Tunisian migrants staying at the hotspot in Lampedusa marched and protested peac
 Around 50 people are staying in this place, sleeping rough, not having been welcome otherwise in the city\.
 
 
-![](assets/520fadd439f2/1*GOXgD-AbX-paASwpY4SbEw.jpeg)
+![](../assets/520fadd439f2/1*GOXgD-AbX-paASwpY4SbEw.jpeg)
 
 
 
-![Photo: local activists](assets/520fadd439f2/1*nQzwVzQYXTvwV-Omt5FgvQ.jpeg)
+![Photo: local activists](../assets/520fadd439f2/1*nQzwVzQYXTvwV-Omt5FgvQ.jpeg)
 
 Photo: local activists
 #### FRANCE
@@ -500,15 +500,15 @@ Photo: local activists
 In the early hours of this morning, police operation is underway at the Puythouck camp, where between 400 and 420 migrants have lived since the fire at the Linière camp in April\. French authorities and police forcibly evicted the settlement at Grande\-Synthe in the Dunkirk area\.
 
 
-![](assets/520fadd439f2/1*bGNBYhIyfO9r3CYn1puZ_Q.jpeg)
+![](../assets/520fadd439f2/1*bGNBYhIyfO9r3CYn1puZ_Q.jpeg)
 
 
 
-![](assets/520fadd439f2/1*sZyfyP1XKvv3EJ7Mt343Hw.jpeg)
+![](../assets/520fadd439f2/1*sZyfyP1XKvv3EJ7Mt343Hw.jpeg)
 
 
 
-![Photos: [**Care4Calais**](https://www.facebook.com/care4calais/)](assets/520fadd439f2/1*du8m2KngJszrRd3bW4vt5g.jpeg)
+![Photos: [**Care4Calais**](https://www.facebook.com/care4calais/)](../assets/520fadd439f2/1*du8m2KngJszrRd3bW4vt5g.jpeg)
 
 Photos: [**Care4Calais**](https://www.facebook.com/care4calais/)
 
@@ -524,11 +524,11 @@ The entire camp was cleared and the refugees living there were put onto buses to
 After several weeks of “peace”, the camp was heavily built up and developed, making the sudden eviction all the more devastating, the volunteers say\.
 
 
-![](assets/520fadd439f2/1*tEQTh1LvvxD3zBzvrMX6_A.jpeg)
+![](../assets/520fadd439f2/1*tEQTh1LvvxD3zBzvrMX6_A.jpeg)
 
 
 
-![Photo: Aktion Weitblick](assets/520fadd439f2/1*Yo0_BQZv2SxyiXb6Pnyh5w.jpeg)
+![Photo: Aktion Weitblick](../assets/520fadd439f2/1*Yo0_BQZv2SxyiXb6Pnyh5w.jpeg)
 
 Photo: Aktion Weitblick
 
@@ -546,7 +546,7 @@ Photo: Aktion Weitblick
 
 
 
-![](assets/520fadd439f2/1*VbZfmgbUG-xIcWYy3wjDDQ.jpeg)
+![](../assets/520fadd439f2/1*VbZfmgbUG-xIcWYy3wjDDQ.jpeg)
 
 
 **_We strive to echo correct news from the ground through collaboration and fairness, so let us know if something you read here isn’t right\._**

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 21.8.19: Survivors report over 100 drowned in wreck off Libyan coast
+title: "AYS Daily Digest 21.8.19: Survivors report over 100 drowned in wreck off Libyan coast"
 author: Are You Syrious?
 date: 2019-08-22T04:50:10.229+0100
 last_modified_at: 2019-08-22T12:09:52.373+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,sea-rescue,missing-persons,human-rights]
 description: Deadline extended for unregistered Syrians to leave Istanbul / Report on abuses in Greek camps / Greater hurdles for refugee housing in…
 image:
-  path: assets/45df496c4bbd/1*Wwur9Jb-FihgbzHKvwIceQ.jpeg
+  path: ../assets/45df496c4bbd/1*Wwur9Jb-FihgbzHKvwIceQ.jpeg
 ---
 
 ### AYS Daily Digest 21/8/19: Survivors report over 100 drowned in wreck off Libyan coast
@@ -15,7 +15,7 @@ image:
 _Deadline extended for unregistered Syrians to leave Istanbul / Report on abuses in Greek camps / Greater hurdles for refugee housing in Greece / Update from Vucjak / and more…_
 
 
-![Photograph taken during a rescue by Proactiva Open Arms rescue from July of this year\. Photo Credit: [Olmo Calvo](https://www.olmocalvo.com)](assets/45df496c4bbd/1*Wwur9Jb-FihgbzHKvwIceQ.jpeg)
+![Photograph taken during a rescue by Proactiva Open Arms rescue from July of this year\. Photo Credit: [Olmo Calvo](https://www.olmocalvo.com)](../assets/45df496c4bbd/1*Wwur9Jb-FihgbzHKvwIceQ.jpeg)
 
 Photograph taken during a rescue by Proactiva Open Arms rescue from July of this year\. Photo Credit: [Olmo Calvo](https://www.olmocalvo.com)
 ### Feature
@@ -58,7 +58,7 @@ One fear with this new decision is that those who leave Istanbul may be more eas
 #### “No End in Sight”: New report on mistreatment of refugees in Greece
 
 
-![[Click here for full report](https://greekhelsinki.files.wordpress.com/2019/08/rre_noendinsight.pdf)](assets/45df496c4bbd/1*3oVvZTqYbdThYUf5r7-4rg.jpeg)
+![[Click here for full report](https://greekhelsinki.files.wordpress.com/2019/08/rre_noendinsight.pdf)](../assets/45df496c4bbd/1*3oVvZTqYbdThYUf5r7-4rg.jpeg)
 
 [Click here for full report](https://greekhelsinki.files.wordpress.com/2019/08/rre_noendinsight.pdf)
 
@@ -147,17 +147,17 @@ The medical volunteer team working in Vucjak posted a brief update\. After a lot
 “It’s an absolute absurdity that a private man with a team of volunteers has to do this job because no one else does it\. We do this with all our strength and with all our heart\. But what has become of this world? Where are the responsible politicians — where are UNHCR, Caritas? At least not here,” wrote the founder of the group in a public post\.
 
 
-![Photo Credit: [Dirk Planert](https://www.facebook.com/dirk.planert?__tn__=%2CdlCH-R-R&eid=ARDnhz4KWpxlxIhBinDC2PleW6HD10jpGQB1ZjJoHqBDjiVP440Lgs8m8u9rETcNbnXHM5u4_YmV-hea&hc_ref=ARSSDmV9yIU1-XvtwB4uv2EZvA7DEU6yLDXPMFewFM1AxN3WvxvYFW7C5RE3m10mxm8&hc_location=group) \. “Since this morning, we have a big tent as a clinic, behind it another as a waiting room\. We have beds for the infusions and small surgeries\. The team in the tent was composed of eight people for the last few days\.”](assets/45df496c4bbd/1*DUwVwthVjNVitUhm7_otWg.jpeg)
+![Photo Credit: [Dirk Planert](https://www.facebook.com/dirk.planert?__tn__=%2CdlCH-R-R&eid=ARDnhz4KWpxlxIhBinDC2PleW6HD10jpGQB1ZjJoHqBDjiVP440Lgs8m8u9rETcNbnXHM5u4_YmV-hea&hc_ref=ARSSDmV9yIU1-XvtwB4uv2EZvA7DEU6yLDXPMFewFM1AxN3WvxvYFW7C5RE3m10mxm8&hc_location=group) \. “Since this morning, we have a big tent as a clinic, behind it another as a waiting room\. We have beds for the infusions and small surgeries\. The team in the tent was composed of eight people for the last few days\.”](../assets/45df496c4bbd/1*DUwVwthVjNVitUhm7_otWg.jpeg)
 
 Photo Credit: [Dirk Planert](https://www.facebook.com/dirk.planert?__tn__=%2CdlCH-R-R&eid=ARDnhz4KWpxlxIhBinDC2PleW6HD10jpGQB1ZjJoHqBDjiVP440Lgs8m8u9rETcNbnXHM5u4_YmV-hea&hc_ref=ARSSDmV9yIU1-XvtwB4uv2EZvA7DEU6yLDXPMFewFM1AxN3WvxvYFW7C5RE3m10mxm8&hc_location=group) \. “Since this morning, we have a big tent as a clinic, behind it another as a waiting room\. We have beds for the infusions and small surgeries\. The team in the tent was composed of eight people for the last few days\.”
 
 
-![Photo Credit: [Dirk Planert](https://www.facebook.com/dirk.planert?__tn__=%2CdlCH-R-R&eid=ARDnhz4KWpxlxIhBinDC2PleW6HD10jpGQB1ZjJoHqBDjiVP440Lgs8m8u9rETcNbnXHM5u4_YmV-hea&hc_ref=ARSSDmV9yIU1-XvtwB4uv2EZvA7DEU6yLDXPMFewFM1AxN3WvxvYFW7C5RE3m10mxm8&hc_location=group) \.](assets/45df496c4bbd/1*Vak3fAYeDb7D4o03d3fqRQ.jpeg)
+![Photo Credit: [Dirk Planert](https://www.facebook.com/dirk.planert?__tn__=%2CdlCH-R-R&eid=ARDnhz4KWpxlxIhBinDC2PleW6HD10jpGQB1ZjJoHqBDjiVP440Lgs8m8u9rETcNbnXHM5u4_YmV-hea&hc_ref=ARSSDmV9yIU1-XvtwB4uv2EZvA7DEU6yLDXPMFewFM1AxN3WvxvYFW7C5RE3m10mxm8&hc_location=group) \.](../assets/45df496c4bbd/1*Vak3fAYeDb7D4o03d3fqRQ.jpeg)
 
 Photo Credit: [Dirk Planert](https://www.facebook.com/dirk.planert?__tn__=%2CdlCH-R-R&eid=ARDnhz4KWpxlxIhBinDC2PleW6HD10jpGQB1ZjJoHqBDjiVP440Lgs8m8u9rETcNbnXHM5u4_YmV-hea&hc_ref=ARSSDmV9yIU1-XvtwB4uv2EZvA7DEU6yLDXPMFewFM1AxN3WvxvYFW7C5RE3m10mxm8&hc_location=group) \.
 
 
-![Photo Credit: [Dirk Planert](https://www.facebook.com/dirk.planert?__tn__=%2CdlCH-R-R&eid=ARDnhz4KWpxlxIhBinDC2PleW6HD10jpGQB1ZjJoHqBDjiVP440Lgs8m8u9rETcNbnXHM5u4_YmV-hea&hc_ref=ARSSDmV9yIU1-XvtwB4uv2EZvA7DEU6yLDXPMFewFM1AxN3WvxvYFW7C5RE3m10mxm8&hc_location=group) \.](assets/45df496c4bbd/1*IqBUmn2aBfQsA7wMU-QUiw.jpeg)
+![Photo Credit: [Dirk Planert](https://www.facebook.com/dirk.planert?__tn__=%2CdlCH-R-R&eid=ARDnhz4KWpxlxIhBinDC2PleW6HD10jpGQB1ZjJoHqBDjiVP440Lgs8m8u9rETcNbnXHM5u4_YmV-hea&hc_ref=ARSSDmV9yIU1-XvtwB4uv2EZvA7DEU6yLDXPMFewFM1AxN3WvxvYFW7C5RE3m10mxm8&hc_location=group) \.](../assets/45df496c4bbd/1*IqBUmn2aBfQsA7wMU-QUiw.jpeg)
 
 Photo Credit: [Dirk Planert](https://www.facebook.com/dirk.planert?__tn__=%2CdlCH-R-R&eid=ARDnhz4KWpxlxIhBinDC2PleW6HD10jpGQB1ZjJoHqBDjiVP440Lgs8m8u9rETcNbnXHM5u4_YmV-hea&hc_ref=ARSSDmV9yIU1-XvtwB4uv2EZvA7DEU6yLDXPMFewFM1AxN3WvxvYFW7C5RE3m10mxm8&hc_location=group) \.
 ### Sweden
@@ -166,7 +166,7 @@ Amnesty has written a public petition demanding that the Swedish government take
 ### Scotland
 
 
-![](assets/45df496c4bbd/1*kQ-96WlM5JWymivXBYK6QQ.jpeg)
+![](../assets/45df496c4bbd/1*kQ-96WlM5JWymivXBYK6QQ.jpeg)
 
 
 **We strive to echo correct news from the ground through collaboration and fairness\. Every effort has been made to credit organisations and individuals with regard to the supply of information, video, and photo material \(in cases where the source wanted to be accredited\) \. Please notify us regarding corrections\.**

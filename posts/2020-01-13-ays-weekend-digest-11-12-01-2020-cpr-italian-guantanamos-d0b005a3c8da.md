@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 11–12/01/2020: CPR, Italian Guantanamos
+title: "AYS Weekend Digest 11–12/01/2020: CPR, Italian Guantanamos"
 author: Are You Syrious?
 date: 2020-01-13T10:33:09.263+0000
 last_modified_at: 2020-01-13T10:33:09.263+0000
@@ -7,18 +7,18 @@ categories: Are You Syrious?
 tags: []
 description: Libyan coast guard allegedly open fire on civilians, again /// Two shipwrecks in the Aegean and Ionian sea kill 23 people and 17 missing…
 image:
-  path: assets/d0b005a3c8da/0*5-1DgxYSaJ0tGwq8.jpeg
+  path: ../assets/d0b005a3c8da/0*5-1DgxYSaJ0tGwq8.jpeg
 ---
 
 ### AYS Weekend Digest 11–12/01/2020: CPR, Italian Guantanamos
 #### Libyan coast guard allegedly open fire on civilians, again /// Two shipwrecks in the Aegean and Ionian sea kill 23 people and 17 missing /// Violence and resilience on the Bosnian/Croatian borders /// 29 people suspected of exploitation of migrant farm workers in the south of Italy
 
 
-![](assets/d0b005a3c8da/0*stSiX9VTkLuMwYVv)
+![](../assets/d0b005a3c8da/0*stSiX9VTkLuMwYVv)
 
 
 
-![](assets/d0b005a3c8da/0*5-1DgxYSaJ0tGwq8.jpeg)
+![](../assets/d0b005a3c8da/0*5-1DgxYSaJ0tGwq8.jpeg)
 
 
 Mediterranean Sea, 10 January 2020\.
@@ -86,11 +86,11 @@ BOSNIA AND CROATIA
 ### Violence Continues at the Border, but also Cricket
 
 
-![](assets/d0b005a3c8da/0*H3KtSy_quKjP0fDJ)
+![](../assets/d0b005a3c8da/0*H3KtSy_quKjP0fDJ)
 
 
 
-![](assets/d0b005a3c8da/0*ztG4JRt67MWikLIs.jpeg)
+![](../assets/d0b005a3c8da/0*ztG4JRt67MWikLIs.jpeg)
 
 
 \(Photo Credit: [Fabienne Dimmer](https://www.facebook.com/fabienne.dimmer?__tn__=%2Cd%2AF%2AF-R&eid=ARBtAtNmciQoNsu2CxCd68d9hLX__464HC6JFsHsUopVyEkndjkWrg6ieJSijT-P4ZoxnIjV9tf47byE&tn-str=%2AF) — “welcome to the EU…\.please

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 12/12/17: “Europe — complicit in crime”
+title: "AYS Daily Digest 12/12/17: “Europe — complicit in crime”"
 author: Are You Syrious?
 date: 2017-12-13T10:33:31.536+0000
 last_modified_at: 2017-12-14T16:20:12.263+0000
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,libya,greece,italy]
 description: Amnesty International openly calls out EU states as part of the Libyan problem / Hard to get passports in Turkey / Asylum law changes in…
 image:
-  path: assets/56e4cea4f995/1*ulwo-nnhXGdp-46UgZHtKQ.jpeg
+  path: ../assets/56e4cea4f995/1*ulwo-nnhXGdp-46UgZHtKQ.jpeg
 ---
 
 ### AYS Daily Digest 12/12/17: “Europe — complicit in crime”
 #### Amnesty International openly calls out EU states as part of the Libyan problem / Hard to get passports in Turkey / Asylum law changes in Greece / Italian organizations on poor state of help for minors / ECHR rules against Bulgaria for inhuman and degrading treatment / extreme weather calls for more help across Europe / more info, updates and news\. \.
 
 
-![](assets/56e4cea4f995/1*ulwo-nnhXGdp-46UgZHtKQ.jpeg)
+![](../assets/56e4cea4f995/1*ulwo-nnhXGdp-46UgZHtKQ.jpeg)
 
 #### FEATURE
 
@@ -181,7 +181,7 @@ Read the entire statement [here\.](http://diktiospartakos.blogspot.hr/2017/12/35
 “Yesterday we were informed that Katsikas will be operational from Monday 18 November\.
 
 
-![**Photo: [Refugee Support Europe](https://www.facebook.com/RefugeeSupportEurope/)**](assets/56e4cea4f995/1*o79ShaH_SQ-HURs5ZOAuJw.jpeg)
+![**Photo: [Refugee Support Europe](https://www.facebook.com/RefugeeSupportEurope/)**](../assets/56e4cea4f995/1*o79ShaH_SQ-HURs5ZOAuJw.jpeg)
 
 **Photo: [Refugee Support Europe](https://www.facebook.com/RefugeeSupportEurope/)**
 
@@ -240,7 +240,7 @@ Hypothermia, hypoglicemia, unconsciousness, malnutrition, burns, signs of violen
  unveiling that there is no “immigration emergency”, and that migrations are a structural phenomenon of human history, very extended in an irreversibly globalised world;
  understanding that this phenomenon can only be tackled by involving and including migrants in the decisions and routes that are related to them;
  learning to change through mutual recognition, all of us, HUMAN BEINGS, BORN EQUAL ON THE ONE AND UNIQUE PLANET\.
- To reaffirm these principles of universal humanity, in Gorizia we are starting a common transnational fight with common mobilization, which starts on the border crossing Casa Rossa/Rožna dolina, on Saturday, 16 December at 15 h\.” — [Rete Solidale Pordenone](https://www.facebook.com/retesolidalepn/)](assets/56e4cea4f995/1*wGdC9q0rP8mBuecTEdBmLg.jpeg)
+ To reaffirm these principles of universal humanity, in Gorizia we are starting a common transnational fight with common mobilization, which starts on the border crossing Casa Rossa/Rožna dolina, on Saturday, 16 December at 15 h\.” — [Rete Solidale Pordenone](https://www.facebook.com/retesolidalepn/)](../assets/56e4cea4f995/1*wGdC9q0rP8mBuecTEdBmLg.jpeg)
 
 “Transnational mobilization for the rights of migrants and against fascism\.
  Gorizia is by its nature a crossing point in the centre of a common territory, which was always, and is nowadays more than ever, transnational, multilingual and multicultural\. It is not a coincidence that diverse nations in this city stood together to stop the rise of Nazi after the fall of the Fascism in September 1943\. For the same reasons, Gorizia is also under constant pressure of nationalisms, of racism and fascism\. A hundred years ago in its surrounding area there used to be the most bloody battles of the First World War, which left hatred and false divisions behind\.
@@ -323,7 +323,7 @@ _\- Confusion_
 _These are symptoms of minor hypothermia, where someone’s body temperature is between 32°C and 35°C\._
 
 
-![Photo and text: Refugee Info Bus](assets/56e4cea4f995/1*8MU-sPaXhuXBJZqEaTMFQg.jpeg)
+![Photo and text: Refugee Info Bus](../assets/56e4cea4f995/1*8MU-sPaXhuXBJZqEaTMFQg.jpeg)
 
 Photo and text: Refugee Info Bus
 
@@ -332,7 +332,7 @@ Photo and text: Refugee Info Bus
 
 
 
-![](assets/56e4cea4f995/1*IvHJbk98PL28eec65GJS2A.jpeg)
+![](../assets/56e4cea4f995/1*IvHJbk98PL28eec65GJS2A.jpeg)
 
 
 

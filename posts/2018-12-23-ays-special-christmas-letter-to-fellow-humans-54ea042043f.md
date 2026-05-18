@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Christmas letter to fellow humans
+title: "AYS SPECIAL: Christmas letter to fellow humans"
 author: Are You Syrious?
 date: 2018-12-23T13:30:13.075+0000
 last_modified_at: 2018-12-23T13:30:13.075+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,christams,special,migrations,denmark]
 description: On December18th, this Christmas letter was shared in 52 municipalities all over Denmark. It was written by asylum seekers in this country…
 image:
-  path: assets/54ea042043f/1*tYoQDmPSFdAz8s00plCFqQ.jpeg
+  path: ../assets/54ea042043f/1*tYoQDmPSFdAz8s00plCFqQ.jpeg
 ---
 
 ### AYS SPECIAL: Christmas letter to fellow humans
@@ -15,7 +15,7 @@ image:
 _On December18th, this Christmas letter was shared in 52 municipalities all over Denmark\. It was written by asylum seekers in this country, and their friend from solidarity movement\. The letter was issued on the same day when the Financial Act 2019 was passed in the Parliament\. The Act says that all the refugees can stay in Denmark only temporarily, and that no refugee should ever integrate without knowing they have to leave\. It is said this letter had to be writing, but it is important to read it\. It could have been written in any EU member country_
 
 
-![Merry Christmas… really? By Pedripol](assets/54ea042043f/1*tYoQDmPSFdAz8s00plCFqQ.jpeg)
+![Merry Christmas… really? By Pedripol](../assets/54ea042043f/1*tYoQDmPSFdAz8s00plCFqQ.jpeg)
 
 Merry Christmas… really? By Pedripol
 #### All we want for Christmas is a future for our children
@@ -27,7 +27,7 @@ We are in Denmark as refugees\. We fled to seek protection from war and violence
 We lived in dictatorships, we wish to be a part of the democratic society in Denmark, to be a part of a peaceful country which provides safety and possibilities for our children\.
 
 
-![](assets/54ea042043f/1*kUtpP02Q-BplA55srqUKLA.jpeg)
+![](../assets/54ea042043f/1*kUtpP02Q-BplA55srqUKLA.jpeg)
 
 
 **We are mothers, fathers and first of all ordinary humans who, like all of you, wishes a future with hope and peace amongst ordinary citizens\.**

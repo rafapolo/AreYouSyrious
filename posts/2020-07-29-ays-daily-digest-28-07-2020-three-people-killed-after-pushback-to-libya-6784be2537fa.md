@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [newsletter,refugees,libya,montenegro]
 description: Lawsuit Against Libya, Italy and Malta for Illegal Pushback///Frontex Allegedly Involved in Illegal Pushback in Aegean///
 image:
-  path: assets/6784be2537fa/0*Di4ukB54ZJiJuSHH
+  path: ../assets/6784be2537fa/0*Di4ukB54ZJiJuSHH
 ---
 
 ### AYS Daily Digest 28/07/2020 — Three People Killed After Pushback to Libya
@@ -15,7 +15,7 @@ image:
 Lawsuit Against Libya, Italy and Malta for Illegal Pushback///Frontex Allegedly Involved in Illegal Pushback in Aegean///
 
 
-![IOM Staff member observing a different disembarkation in Tripoli\. Source: [IOM Archives](https://www.iom.int/news/iom-deplores-killing-two-migrants-returned-sea-libya?fbclid=IwAR3sBdumR9FBWH6pleKQbvBiTAIIXaCB3akVzdeBVC1u-dFExdncToM173E)](assets/6784be2537fa/0*Di4ukB54ZJiJuSHH)
+![IOM Staff member observing a different disembarkation in Tripoli\. Source: [IOM Archives](https://www.iom.int/news/iom-deplores-killing-two-migrants-returned-sea-libya?fbclid=IwAR3sBdumR9FBWH6pleKQbvBiTAIIXaCB3akVzdeBVC1u-dFExdncToM173E)](../assets/6784be2537fa/0*Di4ukB54ZJiJuSHH)
 
 IOM Staff member observing a different disembarkation in Tripoli\. Source: [IOM Archives](https://www.iom.int/news/iom-deplores-killing-two-migrants-returned-sea-libya?fbclid=IwAR3sBdumR9FBWH6pleKQbvBiTAIIXaCB3akVzdeBVC1u-dFExdncToM173E)
 

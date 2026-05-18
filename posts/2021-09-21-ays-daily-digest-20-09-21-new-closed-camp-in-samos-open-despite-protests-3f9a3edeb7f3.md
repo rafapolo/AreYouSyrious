@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,greece,samos]
 description: Moroccan Families Protest For Return of Loved Ones From Libya//Boat Adrift Near Mani//125 People Pushed Back From Spanish Exclave
 image:
-  path: assets/3f9a3edeb7f3/0*0Pz1g_XUPPLntK1g
+  path: ../assets/3f9a3edeb7f3/0*0Pz1g_XUPPLntK1g
 ---
 
 ### AYS Daily Digest 20/09/21—New Closed Camp in Samos Open Despite Protests
 #### Moroccan Families Protest For Return of Loved Ones From Libya//Boat Adrift Near Mani//125 People Pushed Back From Spanish Exclave
 
 
-![Photo from the CommemorAction organized earlier this month by AlarmPhone activists in Dakar, Senegal\. Photo credit: [AlarmPhone](https://twitter.com/alarm_phone/status/1439967973066870787/photo/1)](assets/3f9a3edeb7f3/0*0Pz1g_XUPPLntK1g)
+![Photo from the CommemorAction organized earlier this month by AlarmPhone activists in Dakar, Senegal\. Photo credit: [AlarmPhone](https://twitter.com/alarm_phone/status/1439967973066870787/photo/1)](../assets/3f9a3edeb7f3/0*0Pz1g_XUPPLntK1g)
 
 Photo from the CommemorAction organized earlier this month by AlarmPhone activists in Dakar, Senegal\. Photo credit: [AlarmPhone](https://twitter.com/alarm_phone/status/1439967973066870787/photo/1)
 #### FEATURE

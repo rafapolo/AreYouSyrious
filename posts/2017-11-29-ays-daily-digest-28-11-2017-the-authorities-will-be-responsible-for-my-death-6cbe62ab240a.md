@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 28/11/2017: “The authorities will be responsible for my death”
+title: "AYS DAILY DIGEST 28/11/2017: “The authorities will be responsible for my death”"
 author: Are You Syrious?
 date: 2017-11-29T02:00:14.364+0000
 last_modified_at: 2017-11-30T18:41:27.091+0000
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,statistics,protest,donations,human-rights]
 description: Hunger strike in Portugal/Statistics regarding Syria/Calls for donations and volunteers in Turkey, Greece and NGOs working at sea/Data…
 image:
-  path: assets/6cbe62ab240a/1*IzqiZg-j7ty4lA5SiYg4Fw.jpeg
+  path: ../assets/6cbe62ab240a/1*IzqiZg-j7ty4lA5SiYg4Fw.jpeg
 ---
 
 ### AYS DAILY DIGEST 28/11/2017: “The authorities will be responsible for my death”
 
 
-![Moria, Lesvos\. Credit: Lesvos Solidarity — Pikpa\.](assets/6cbe62ab240a/1*IzqiZg-j7ty4lA5SiYg4Fw.jpeg)
+![Moria, Lesvos\. Credit: Lesvos Solidarity — Pikpa\.](../assets/6cbe62ab240a/1*IzqiZg-j7ty4lA5SiYg4Fw.jpeg)
 
 Moria, Lesvos\. Credit: Lesvos Solidarity — Pikpa\.
 
@@ -146,7 +146,7 @@ Dead and missing in 2017 \(as of 26 Nov\): 2,992 / Dead and missing in 2016 \(as
 _Pordenone_
 
 
-![Credit: Lorena Fornasir](assets/6cbe62ab240a/1*pLX8pAKJ-CMY2BZCGzoKmw.jpeg)
+![Credit: Lorena Fornasir](../assets/6cbe62ab240a/1*pLX8pAKJ-CMY2BZCGzoKmw.jpeg)
 
 Credit: Lorena Fornasir
 
@@ -177,7 +177,7 @@ On the 30th November there will be [protests](http://www.europapress.es/epsocial
 3\.033 is the number of those who lost their lives at sea or that went missing\.
 
 
-![Credit: IOM](assets/6cbe62ab240a/1*qS6tdGV8YSWRpSR_OV8NYA.jpeg)
+![Credit: IOM](../assets/6cbe62ab240a/1*qS6tdGV8YSWRpSR_OV8NYA.jpeg)
 
 Credit: IOM
 

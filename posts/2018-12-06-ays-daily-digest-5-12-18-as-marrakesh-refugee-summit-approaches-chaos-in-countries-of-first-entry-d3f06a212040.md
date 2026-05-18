@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 5/12/18: As Marrakesh Refugee Summit Approaches, Chaos in Countries of First Entry
+title: "AYS Daily Digest 5/12/18: As Marrakesh Refugee Summit Approaches, Chaos in Countries of First Entry"
 author: Are You Syrious?
 date: 2018-12-06T06:03:34.012+0000
 last_modified_at: 2018-12-06T12:26:53.947+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,morocco,summit,activism]
 description: Tragedy in the Bekaa Valley // On International Volunteer Day, Lesvos 3 out on bail // Family given asylum interview date for 5 years…
 image:
-  path: assets/d3f06a212040/1*sEWyicLgqPCSzfYI5NlxUA.jpeg
+  path: ../assets/d3f06a212040/1*sEWyicLgqPCSzfYI5NlxUA.jpeg
 ---
 
 ### AYS Daily Digest 5/12/18: As Marrakesh Refugee Summit Approaches, Chaos in Countries of First Entry
 #### _Tragedy in the Bekaa Valley // On International Volunteer Day, Lesvos 3 out on bail // Family given asylum interview date for five years hence // Velika Kladusa razed // New report documents police violence in Calais // Masked and hooded on a deportation flight — standard practice in France? // German Interior Minister kept return deal with Greece and Spain secret from his own parliament // and more…_
 
 
-![Source: [Nador New](https://www.facebook.com/Nador.new2019/?__tn__=%2CdkCH-R-R&eid=ARCD6kukuAZvYb-VSVrUYoeMX4mxPNyYI3rRxr4jsTL9uiPeYb71t3nHdX25n_oEoCISJyhU1Ynb76Yx&hc_ref=ARQ49z9_Pd2SfuIUW1rAmoHM61mj3RJAra-GRghuA6Lkf26gvDnUBac5w8k6DkMl8XA&fref=nf&hc_location=group)](assets/d3f06a212040/1*sEWyicLgqPCSzfYI5NlxUA.jpeg)
+![Source: [Nador New](https://www.facebook.com/Nador.new2019/?__tn__=%2CdkCH-R-R&eid=ARCD6kukuAZvYb-VSVrUYoeMX4mxPNyYI3rRxr4jsTL9uiPeYb71t3nHdX25n_oEoCISJyhU1Ynb76Yx&hc_ref=ARQ49z9_Pd2SfuIUW1rAmoHM61mj3RJAra-GRghuA6Lkf26gvDnUBac5w8k6DkMl8XA&fref=nf&hc_location=group)](../assets/d3f06a212040/1*sEWyicLgqPCSzfYI5NlxUA.jpeg)
 
 Source: [Nador New](https://www.facebook.com/Nador.new2019/?__tn__=%2CdkCH-R-R&eid=ARCD6kukuAZvYb-VSVrUYoeMX4mxPNyYI3rRxr4jsTL9uiPeYb71t3nHdX25n_oEoCISJyhU1Ynb76Yx&hc_ref=ARQ49z9_Pd2SfuIUW1rAmoHM61mj3RJAra-GRghuA6Lkf26gvDnUBac5w8k6DkMl8XA&fref=nf&hc_location=group)
 #### FEATURE
@@ -109,7 +109,7 @@ From Alarmphone, a call for donations\. Alarmphone does vital work alerting resc
 ABR also reports the arrival of 54 people, including 22 children, to Chios, whose Vial hotspot currently houses around 1,400 people\.
 
 
-![Source: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/photos/a.285312485325196/485807718609004/?type=3&theater)](assets/d3f06a212040/1*TZvqDYFbRxbBPDcoLeLpkw.jpeg)
+![Source: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/photos/a.285312485325196/485807718609004/?type=3&theater)](../assets/d3f06a212040/1*TZvqDYFbRxbBPDcoLeLpkw.jpeg)
 
 Source: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/photos/a.285312485325196/485807718609004/?type=3&theater)
 #### BALKAN WEATHER REPORT
@@ -136,7 +136,7 @@ Velika Kladusa is no more\. The informal settlement has been razed and cleared, 
 Please read [yesterday’s AYS digest](ays-daily-news-digest-4-12-18-denmarks-concerning-aims-for-isolation-4bd06e5c0ceb) for more information on the settlement’s closure\.
 
 
-![The end of Velika Kladusa\. Source: No Name Kitchen/Jack Sapoch](assets/d3f06a212040/1*lTLCUVQG9TNTnEaJkW7a4A.jpeg)
+![The end of Velika Kladusa\. Source: No Name Kitchen/Jack Sapoch](../assets/d3f06a212040/1*lTLCUVQG9TNTnEaJkW7a4A.jpeg)
 
 The end of Velika Kladusa\. Source: No Name Kitchen/Jack Sapoch
 #### FRANCE

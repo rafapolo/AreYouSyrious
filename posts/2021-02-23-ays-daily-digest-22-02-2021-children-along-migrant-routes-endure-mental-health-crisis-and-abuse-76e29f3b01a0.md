@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,greece,libya,france,sea]
 description: Deadly interceptions by Libyan coast guard // New European Parliament watchdog on Frontex // Romania and Cyprus register record migration…
 image:
-  path: assets/76e29f3b01a0/0*HPMx6o2PGADVBlhf.jpeg
+  path: ../assets/76e29f3b01a0/0*HPMx6o2PGADVBlhf.jpeg
 ---
 
 ### AYS Daily Digest 22/02/2021 — Children along migrant routes endure mental health crisis and abuse
 ### Deadly interceptions by Libyan coast guard // New European Parliament watchdog on Frontex // Romania and Cyprus register record migration numbers // and much more…
 
 
-![](assets/76e29f3b01a0/0*PIunbBGpdtNkGHYz.jpeg)
+![](../assets/76e29f3b01a0/0*PIunbBGpdtNkGHYz.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----9adc2fe28b83--------------------------------)
@@ -22,11 +22,11 @@ image:
 [Feb 23](ays-daily-digest-22-02-2021-children-along-migrant-routes-endure-mental-health-crisis-and-abuse-9adc2fe28b83?source=post_page-----9adc2fe28b83--------------------------------) · 10 min read
 
 
-![](assets/76e29f3b01a0/0*WCs3XyTd1k8Js0ek)
+![](../assets/76e29f3b01a0/0*WCs3XyTd1k8Js0ek)
 
 
 
-![](assets/76e29f3b01a0/0*HPMx6o2PGADVBlhf.jpeg)
+![](../assets/76e29f3b01a0/0*HPMx6o2PGADVBlhf.jpeg)
 
 ### GREECE
 
@@ -83,11 +83,11 @@ The raid in the city of Kufra took place on February 16 after a migrant managed 
 ### SEA
 
 
-![](assets/76e29f3b01a0/0*e5SPKpvjl73Fyu-0)
+![](../assets/76e29f3b01a0/0*e5SPKpvjl73Fyu-0)
 
 
 
-![](assets/76e29f3b01a0/0*YP_sb12BOdNcEeS4.jpeg)
+![](../assets/76e29f3b01a0/0*YP_sb12BOdNcEeS4.jpeg)
 
 
 It has been a [harrowing couple of days](https://thecivilfleet.wordpress.com/2021/02/22/102-refugees-brought-to-safety-while-hundreds-more-were-left-to-their-own-fates/?fbclid=IwAR3X_Gkn15K78azzVJDhlqZvhj3WYJTvKgjUVfgV174vYUmp1k2sAjwjLFE) in the central Mediterranean\.
@@ -153,11 +153,11 @@ As many as 77 % of Poles believe that Poland should support refugees fleeing the
 ### FRANCE
 
 
-![](assets/76e29f3b01a0/0*D1FxDPDVBnIPJ7i2)
+![](../assets/76e29f3b01a0/0*D1FxDPDVBnIPJ7i2)
 
 
 
-![](assets/76e29f3b01a0/0*0WqqSWTHaBXtJFt0.jpeg)
+![](../assets/76e29f3b01a0/0*0WqqSWTHaBXtJFt0.jpeg)
 
 
 Dozens of people j [oined a protest rally in Paris](https://www.infomigrants.net/en/post/30400/anti-migrant-rally-in-paris-as-right-wing-group-faces-possible-ban?fbclid=IwAR3cdz4QPMNOfFS3GaPtZNS4OJGcMPqiVQTTabooqfh-Bm9Eg9LzXl2miOc) at the weekend in support of the anti\-migrant group Generation Identity\. The group is due to respond to a government order for its dissolution\.

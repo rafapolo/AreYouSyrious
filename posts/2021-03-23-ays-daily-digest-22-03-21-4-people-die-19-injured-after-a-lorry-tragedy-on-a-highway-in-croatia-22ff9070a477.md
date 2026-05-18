@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 22/03/21: 4 people die, 19 injured after a lorry tragedy on a highway in Croatia
+title: "AYS Daily Digest 22/03/21: 4 people die, 19 injured after a lorry tragedy on a highway in Croatia"
 author: Are You Syrious?
 date: 2021-03-23T14:34:06.400+0000
 last_modified_at: 2021-03-23T16:19:50.848+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [croatia,refugees,digest,libya,european-union]
 description: Updates on fire off Libya’s coast when 60 people died // EU Parliament votes to suspend discharge of Frontex’s budget // new resource for…
 image:
-  path: assets/22ff9070a477/0*Xu9zvNdo9AoIPqmh
+  path: ../assets/22ff9070a477/0*Xu9zvNdo9AoIPqmh
 ---
 
 ### AYS Daily Digest 22/03/21: Four people die, 19 injured after a lorry tragedy on a highway in Croatia
@@ -15,7 +15,7 @@ image:
 _Updates on fire off Libya’s coast when 60 people died // EU Parliament votes to suspend discharge of Frontex’s budget // new resource for evictions in Greece // and more…_
 
 
-![Photo: PU Brodsko\-posavska](assets/22ff9070a477/0*Xu9zvNdo9AoIPqmh)
+![Photo: PU Brodsko\-posavska](../assets/22ff9070a477/0*Xu9zvNdo9AoIPqmh)
 
 Photo: PU Brodsko\-posavska
 ### FEATURE: Four die in Croatia highway accident
@@ -56,7 +56,7 @@ Here is the first testimony:
 #### GREECE
 
 
-![FYI about a new resource\. Photo by [Coordination Against Evictions](https://www.facebook.com/coordinationagainstevictions/posts/118639530285146)](assets/22ff9070a477/1*xxEIesTyCkOrkQg7kXoc4Q.jpeg)
+![FYI about a new resource\. Photo by [Coordination Against Evictions](https://www.facebook.com/coordinationagainstevictions/posts/118639530285146)](../assets/22ff9070a477/1*xxEIesTyCkOrkQg7kXoc4Q.jpeg)
 
 FYI about a new resource\. Photo by [Coordination Against Evictions](https://www.facebook.com/coordinationagainstevictions/posts/118639530285146)
 
@@ -64,13 +64,13 @@ Check out Oxford Law’s new guest post “ [Weaponising Geography on the Greek\
 #### ITALY
 
 
-![“In the next few months Medu will be next to ResQ\-People saving people, when their ship will be operated in the Mediterranean\. Medu’s activities to support ResQ will provide medical and psychological support to the rescued persons and manage the training of social and health workers boarding the ship, to ensure adequate psychological preparation for an experience of this kind and to ensure that they have the right ones Tools to properly assist people who have a living of this kind\. To support these training and support activities economically, Medu needs you: donate to our team can work with ResQ in saving human lives in the Mediterranean\. To donate visit the [website](https://buonacausa.org/cause/un-salvagente-non-basta?fbclid=IwAR3ThMr10-yt8OkY9FGS4sIdOq7vFFiefc5X3Y6Cu557xSKhJQ5xMapUZfM) \.” Photo by [MEDU — Medici per i Diritti Umani](https://www.facebook.com/MEDUonlus/posts/10159149422324817)](assets/22ff9070a477/0*xFCwMJHU23LO90_e)
+![“In the next few months Medu will be next to ResQ\-People saving people, when their ship will be operated in the Mediterranean\. Medu’s activities to support ResQ will provide medical and psychological support to the rescued persons and manage the training of social and health workers boarding the ship, to ensure adequate psychological preparation for an experience of this kind and to ensure that they have the right ones Tools to properly assist people who have a living of this kind\. To support these training and support activities economically, Medu needs you: donate to our team can work with ResQ in saving human lives in the Mediterranean\. To donate visit the [website](https://buonacausa.org/cause/un-salvagente-non-basta?fbclid=IwAR3ThMr10-yt8OkY9FGS4sIdOq7vFFiefc5X3Y6Cu557xSKhJQ5xMapUZfM) \.” Photo by [MEDU — Medici per i Diritti Umani](https://www.facebook.com/MEDUonlus/posts/10159149422324817)](../assets/22ff9070a477/0*xFCwMJHU23LO90_e)
 
 “In the next few months Medu will be next to ResQ\-People saving people, when their ship will be operated in the Mediterranean\. Medu’s activities to support ResQ will provide medical and psychological support to the rescued persons and manage the training of social and health workers boarding the ship, to ensure adequate psychological preparation for an experience of this kind and to ensure that they have the right ones Tools to properly assist people who have a living of this kind\. To support these training and support activities economically, Medu needs you: donate to our team can work with ResQ in saving human lives in the Mediterranean\. To donate visit the [website](https://buonacausa.org/cause/un-salvagente-non-basta?fbclid=IwAR3ThMr10-yt8OkY9FGS4sIdOq7vFFiefc5X3Y6Cu557xSKhJQ5xMapUZfM) \.” Photo by [MEDU — Medici per i Diritti Umani](https://www.facebook.com/MEDUonlus/posts/10159149422324817)
 #### SPAIN
 
 
-![“We have been producing the report ‘Human Rights on the Southern Border’ for almost 20 years\. Year after year, with this report we denounce the violations of rights suffered by migrants as a result of the policies adopted by the EU countries with the sole purpose of preventing people from reaching European territory\. We want to continue denouncing this reality and be one more speaker in the defense of another migratory model based on rights \. Migrating is not a crime\. We need your support to continue developing this investigation, analysis and complaint\.” Find out more about this crucial report [here](https://www.goteo.org/project/derechos-humanos-frontera-sur-2022?fbclid=IwAR2qA1K-soqmyQld0vI9N93fLECPJW2qi-h4mAmAoeymjxt1ckyx14D4zAg) \. Photo by Go Teo](assets/22ff9070a477/0*SZaIWiH0vwyx_R6i.png)
+![“We have been producing the report ‘Human Rights on the Southern Border’ for almost 20 years\. Year after year, with this report we denounce the violations of rights suffered by migrants as a result of the policies adopted by the EU countries with the sole purpose of preventing people from reaching European territory\. We want to continue denouncing this reality and be one more speaker in the defense of another migratory model based on rights \. Migrating is not a crime\. We need your support to continue developing this investigation, analysis and complaint\.” Find out more about this crucial report [here](https://www.goteo.org/project/derechos-humanos-frontera-sur-2022?fbclid=IwAR2qA1K-soqmyQld0vI9N93fLECPJW2qi-h4mAmAoeymjxt1ckyx14D4zAg) \. Photo by Go Teo](../assets/22ff9070a477/0*SZaIWiH0vwyx_R6i.png)
 
 “We have been producing the report ‘Human Rights on the Southern Border’ for almost 20 years\. Year after year, with this report we denounce the violations of rights suffered by migrants as a result of the policies adopted by the EU countries with the sole purpose of preventing people from reaching European territory\. We want to continue denouncing this reality and be one more speaker in the defense of another migratory model based on rights \. Migrating is not a crime\. We need your support to continue developing this investigation, analysis and complaint\.” Find out more about this crucial report [here](https://www.goteo.org/project/derechos-humanos-frontera-sur-2022?fbclid=IwAR2qA1K-soqmyQld0vI9N93fLECPJW2qi-h4mAmAoeymjxt1ckyx14D4zAg) \. Photo by Go Teo
 ### Name correction for two\-year\-old who died after a week in hospital

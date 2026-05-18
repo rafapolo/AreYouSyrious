@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 7/3: The death tolls continues to skyrocket.
+title: "AYS DAILY DIGEST 7/3: The death tolls continues to skyrocket."
 author: Are You Syrious?
 date: 2016-07-03T23:20:34.939+0100
 last_modified_at: 2016-07-03T23:54:12.484+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,syria,cherso,tayyip-erdogan,volunteers]
 description: ISIS launched a deadly attack on a Baghdad market today, killing over 100 people. 43 were also killed as a result of government airstrikes…
 image:
-  path: assets/6aafd13aaf30/1*NZskykU0TI2JBNB8Ga9R1g.jpeg
+  path: ../assets/6aafd13aaf30/1*NZskykU0TI2JBNB8Ga9R1g.jpeg
 ---
 
 ### AYS DAILY DIGEST 7/3: The death tolls continues to skyrocket\.
 #### ISIS launched a deadly attack on a Baghdad market today, killing over 100 people\. 43 were also killed as a result of government airstrikes on a Syrian town, and ISIS had abducted tens of people from their homes\. 16 also died while crossing the Mediterranean\. With all of these tragic casualties happening in the course of a single day, it is important to remember how precarious life is for millions people around the world\. Calls for volunteers in Greece and info for those heading toward Serbian\-Hungarian border\.
 
 
-![The aftermath of the deadly bombinb in the Karada District\. Photo credit: Reuters](assets/6aafd13aaf30/1*NZskykU0TI2JBNB8Ga9R1g.jpeg)
+![The aftermath of the deadly bombinb in the Karada District\. Photo credit: Reuters](../assets/6aafd13aaf30/1*NZskykU0TI2JBNB8Ga9R1g.jpeg)
 
 The aftermath of the deadly bombinb in the Karada District\. Photo credit: Reuters
 #### Iraq
@@ -38,7 +38,7 @@ The specifics of the plan remain unclear, and such a move would likely spark ten
 Such a move also seems questionable in a time when hundreds of thousands of Syrians in Turkey are living in dreadful conditions, with their status as refugees meaning nothing in a country that rather than referring to them as refugees and accept the implications thereof under international law, refers to them simply as “guests”\. It is difficult to obtain a legal work permit, and those Syrians who work are often heavily exploited by their employers\. Children are often unable to attend schools, and amenities such as healthcare are often difficult to come by\. While the plan may lead to an improvement in the lives of some refugees, a complete overhaul of the current system is necessary to ensure that Syrian refugees may live in dignity, with or without citizenship\.
 
 
-![Refugees swim in the polluted water of Piraeus to escape the heat\. Photo Credit: Aggelos Barai](assets/6aafd13aaf30/1*9cBs1WFAlJGiETz9cFTrRQ.jpeg)
+![Refugees swim in the polluted water of Piraeus to escape the heat\. Photo Credit: Aggelos Barai](../assets/6aafd13aaf30/1*9cBs1WFAlJGiETz9cFTrRQ.jpeg)
 
 Refugees swim in the polluted water of Piraeus to escape the heat\. Photo Credit: Aggelos Barai
 #### Greece
@@ -50,15 +50,15 @@ These cards give the recipients the right to remain in Greece for an additional 
 A picture says a thousand words\. These daily rations, distributed in Cherso, are clearly far too small\.
 
 
-![](assets/6aafd13aaf30/1*OoFKg2wcrvryocwDY2S7yA.jpeg)
+![](../assets/6aafd13aaf30/1*OoFKg2wcrvryocwDY2S7yA.jpeg)
 
 
 
-![](assets/6aafd13aaf30/1*DtuNPwFpnVFXVvnpV1r98A.jpeg)
+![](../assets/6aafd13aaf30/1*DtuNPwFpnVFXVvnpV1r98A.jpeg)
 
 
 
-![Food portions at Mazaraki military camps in Cherso, Greece\.](assets/6aafd13aaf30/1*MEca9v03g5a7K72g3dRHQg.jpeg)
+![Food portions at Mazaraki military camps in Cherso, Greece\.](../assets/6aafd13aaf30/1*MEca9v03g5a7K72g3dRHQg.jpeg)
 
 Food portions at Mazaraki military camps in Cherso, Greece\.
 ### Call for volunteers to Ellinikon warehouse
@@ -69,7 +69,7 @@ Ellinikon warehouse will be closed every weekend in July\. However, volunteers a
 English teacher in the camp, during the class for the adults English class, asked people living in the camp about condition\. The writing says it all really\.
 
 
-![Refugees about living conditions in camps\. Photo by Amanda Grady](assets/6aafd13aaf30/1*widFSaAOahNCSY6CLgEZXw.jpeg)
+![Refugees about living conditions in camps\. Photo by Amanda Grady](../assets/6aafd13aaf30/1*widFSaAOahNCSY6CLgEZXw.jpeg)
 
 Refugees about living conditions in camps\. Photo by Amanda Grady
 #### Bulgaria

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 15/11/2018: “I Would Rather Die On This Cargo Ship Than Return to Libya”
+title: "AYS Daily Digest 15/11/2018: “I Would Rather Die On This Cargo Ship Than Return to Libya”"
 author: Are You Syrious?
 date: 2018-11-16T11:13:30.276+0000
 last_modified_at: 2018-11-16T17:51:40.952+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,libya,human-rights,europe]
 description: Syrians suffering from Human Devastation Syndrome // Frontex reports on decrease in Arrivals to EU//14 year old boy missing in…
 image:
-  path: assets/3815eb14ccab/1*ckA3we1JGglRkiUBDiq98Q.jpeg
+  path: ../assets/3815eb14ccab/1*ckA3we1JGglRkiUBDiq98Q.jpeg
 ---
 
 ### AYS Daily Digest 15/11/2018: “I would rather die on this cargo ship \[than return to Libya\]”
@@ -16,7 +16,7 @@ Syrians suffering from Human Devastation Syndrome // Frontex reports a decrease 
 
 
 ![Human rights are sunk in the EU
-By Pedripol](assets/3815eb14ccab/1*ckA3we1JGglRkiUBDiq98Q.jpeg)
+By Pedripol](../assets/3815eb14ccab/1*ckA3we1JGglRkiUBDiq98Q.jpeg)
 
 Human rights are sunk in the EU
 By Pedripol
@@ -34,7 +34,7 @@ MSF have been providing medical care on the vessel\. They report there is a seve
 
 
 
-![](assets/3815eb14ccab/1*vnnk5JuHV_GW_rUs7H97Xw.png)
+![](../assets/3815eb14ccab/1*vnnk5JuHV_GW_rUs7H97Xw.png)
 
 
 People on board the ship, including unaccompanied minors, have told MSF about their captivity and torture by traffickers in Libya\. Some have endured this torture for over a year\. Julian Rickman, the head of the MSF mission in Libya, has commented on the situation:
@@ -170,7 +170,7 @@ Key concerns; Legal assistance, detention procedure, vulnerable cases, unaccompa
 **Second photo:** A young Kurdish girl who legally entered Hungary and is forced to wait in detention behind barbed wire fences while her asylum claim is processed\.
 
 
-![Source: Migration Aid](assets/3815eb14ccab/1*_sNAzDILULFIaGk34coJeg.jpeg)
+![Source: Migration Aid](../assets/3815eb14ccab/1*_sNAzDILULFIaGk34coJeg.jpeg)
 
 Source: Migration Aid
 
@@ -199,7 +199,7 @@ A total of [13 people from Mali are missing in the forest between Cesana and Cla
 **Asylum seekers residing in Apepoigny are demonstrating against the far distances they have to walk each day to accompany their children to school\.** They are requesting the establishment of a school transport system\. Some have to walk as far as 24 km in consecutive trips each day\. These distances are especially tiring with small children\. The road to the school has also been described as being prone to accidents\.
 
 
-![Source: [Senate Collective in Support of Refugees and Migrants](https://www.facebook.com/collectif.Sens.soutien.refugies.migrants/?__xts__%5B0%5D=68.ARD7EMzSdZiaFuS0VWgM6EpZliE_GDaI1o-Nhi8FtunNm453WCnE-lmDJnRPX7lVRB_RpLiCqnqNb7W-AOD5JkWwLkB0R76ZN6cWqhLmeWfFUBYER0gAP8fwnK8V3o7AB5lThumTd1nECebBxJnM8zlpMaajM1AgYPeacrZz-rbZllFsq52Zr8yppipZYTwxjWWPux6ZJYZ8lhVTEA_pTFFnCBMa4tGM9dFksb4T49IdmPN59eS5vk97TQYzz6d7qCj-hH5DWFc-_0P-j19UxiKqRyxihm4EOUTbeLMu0VJ_KBqwGyjs5ybe0UGfzgI6ASnMRG0uvul1h6FKX4cFYn9TtK_K&__xts__%5B1%5D=68.ARD-8cpkITIvThYGcAk3XvAFbnvo3Yck50ibeS0OCCEV95w4hOdzCOGlkjzW-lQllGpip_SvFrQ3s91uVziGwBBIhFWVcTYoRXaRWSua10STeaje_53j2ed3uGwJYgpTHu0B04S2PLjsA7Bx1JfLoQr3zj2IPk8HckAriPkoSfxLXvfMNV_v9LF8W_cU18ryVTNzHta7ABx_Co7KSv0s6aXqqRwiCRjVnthTQR25sR2XAvzSzn0VGXXIOc78t89wrumhVjU1umafJ0cyurZfR-b9hExFeBdIyDfzsiX7o4CCAkvbpoTdppdjcgqxOXJBer63DB0LRfQkRhsscqVoDP18nUBJ&__tn__=kC-R&eid=ARAVuS_ox1PZ-hM0PZ5-3cUEqo04l7p3k4FY84BH7GZCz3mBI6snpH9WeUV0mG5-TRA6pSh17EoiW4c_&hc_ref=ARTCkcPZO-F3dGSB1azCRJ-c8eNNU4yjOB3E6Ohdz-Mug2GmwWUt7dhHhEunAXclXio&fref=nf)](assets/3815eb14ccab/1*wQnconvzwxeZVavZPu_I2g.jpeg)
+![Source: [Senate Collective in Support of Refugees and Migrants](https://www.facebook.com/collectif.Sens.soutien.refugies.migrants/?__xts__%5B0%5D=68.ARD7EMzSdZiaFuS0VWgM6EpZliE_GDaI1o-Nhi8FtunNm453WCnE-lmDJnRPX7lVRB_RpLiCqnqNb7W-AOD5JkWwLkB0R76ZN6cWqhLmeWfFUBYER0gAP8fwnK8V3o7AB5lThumTd1nECebBxJnM8zlpMaajM1AgYPeacrZz-rbZllFsq52Zr8yppipZYTwxjWWPux6ZJYZ8lhVTEA_pTFFnCBMa4tGM9dFksb4T49IdmPN59eS5vk97TQYzz6d7qCj-hH5DWFc-_0P-j19UxiKqRyxihm4EOUTbeLMu0VJ_KBqwGyjs5ybe0UGfzgI6ASnMRG0uvul1h6FKX4cFYn9TtK_K&__xts__%5B1%5D=68.ARD-8cpkITIvThYGcAk3XvAFbnvo3Yck50ibeS0OCCEV95w4hOdzCOGlkjzW-lQllGpip_SvFrQ3s91uVziGwBBIhFWVcTYoRXaRWSua10STeaje_53j2ed3uGwJYgpTHu0B04S2PLjsA7Bx1JfLoQr3zj2IPk8HckAriPkoSfxLXvfMNV_v9LF8W_cU18ryVTNzHta7ABx_Co7KSv0s6aXqqRwiCRjVnthTQR25sR2XAvzSzn0VGXXIOc78t89wrumhVjU1umafJ0cyurZfR-b9hExFeBdIyDfzsiX7o4CCAkvbpoTdppdjcgqxOXJBer63DB0LRfQkRhsscqVoDP18nUBJ&__tn__=kC-R&eid=ARAVuS_ox1PZ-hM0PZ5-3cUEqo04l7p3k4FY84BH7GZCz3mBI6snpH9WeUV0mG5-TRA6pSh17EoiW4c_&hc_ref=ARTCkcPZO-F3dGSB1azCRJ-c8eNNU4yjOB3E6Ohdz-Mug2GmwWUt7dhHhEunAXclXio&fref=nf)](../assets/3815eb14ccab/1*wQnconvzwxeZVavZPu_I2g.jpeg)
 
 Source: [Senate Collective in Support of Refugees and Migrants](https://www.facebook.com/collectif.Sens.soutien.refugies.migrants/?__xts__%5B0%5D=68.ARD7EMzSdZiaFuS0VWgM6EpZliE_GDaI1o-Nhi8FtunNm453WCnE-lmDJnRPX7lVRB_RpLiCqnqNb7W-AOD5JkWwLkB0R76ZN6cWqhLmeWfFUBYER0gAP8fwnK8V3o7AB5lThumTd1nECebBxJnM8zlpMaajM1AgYPeacrZz-rbZllFsq52Zr8yppipZYTwxjWWPux6ZJYZ8lhVTEA_pTFFnCBMa4tGM9dFksb4T49IdmPN59eS5vk97TQYzz6d7qCj-hH5DWFc-_0P-j19UxiKqRyxihm4EOUTbeLMu0VJ_KBqwGyjs5ybe0UGfzgI6ASnMRG0uvul1h6FKX4cFYn9TtK_K&__xts__%5B1%5D=68.ARD-8cpkITIvThYGcAk3XvAFbnvo3Yck50ibeS0OCCEV95w4hOdzCOGlkjzW-lQllGpip_SvFrQ3s91uVziGwBBIhFWVcTYoRXaRWSua10STeaje_53j2ed3uGwJYgpTHu0B04S2PLjsA7Bx1JfLoQr3zj2IPk8HckAriPkoSfxLXvfMNV_v9LF8W_cU18ryVTNzHta7ABx_Co7KSv0s6aXqqRwiCRjVnthTQR25sR2XAvzSzn0VGXXIOc78t89wrumhVjU1umafJ0cyurZfR-b9hExFeBdIyDfzsiX7o4CCAkvbpoTdppdjcgqxOXJBer63DB0LRfQkRhsscqVoDP18nUBJ&__tn__=kC-R&eid=ARAVuS_ox1PZ-hM0PZ5-3cUEqo04l7p3k4FY84BH7GZCz3mBI6snpH9WeUV0mG5-TRA6pSh17EoiW4c_&hc_ref=ARTCkcPZO-F3dGSB1azCRJ-c8eNNU4yjOB3E6Ohdz-Mug2GmwWUt7dhHhEunAXclXio&fref=nf)
 

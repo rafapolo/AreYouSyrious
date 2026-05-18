@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 04/06/2020 — More Illegal Pushbacks from Greece: When Will it End?
+title: "AYS Daily Digest 04/06/2020 — More Illegal Pushbacks from Greece: When Will it End?"
 author: Are You Syrious?
 date: 2020-06-05T03:04:13.278+0100
 last_modified_at: 2020-06-05T21:01:59.666+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,greece,pushbacks]
 description: Coronavirus and Prejudice in Greece///Growing Hate Speech in Slovenia///Coordination Centers Between Malta and Libya
 image:
-  path: assets/29e62548da99/0*cMmKBeCMEPTLF-zJ
+  path: ../assets/29e62548da99/0*cMmKBeCMEPTLF-zJ
 ---
 
 ### AYS Daily Digest 04/06/2020 — More Illegal Pushbacks from Greece: When Will it End?
 #### Coronavirus and Prejudice in Greece // Growing Hate Speech in Slovenia // Coordination Centers Between Malta and Libya
 
 
-![A message of support and and a condemnation of racism by the [Greek Forum of Migrants](https://www.facebook.com/GreekForumOfMigrants/posts/3110078025719375?hc_location=ufi)](assets/29e62548da99/0*cMmKBeCMEPTLF-zJ)
+![A message of support and and a condemnation of racism by the [Greek Forum of Migrants](https://www.facebook.com/GreekForumOfMigrants/posts/3110078025719375?hc_location=ufi)](../assets/29e62548da99/0*cMmKBeCMEPTLF-zJ)
 
 A message of support and and a condemnation of racism by the [Greek Forum of Migrants](https://www.facebook.com/GreekForumOfMigrants/posts/3110078025719375?hc_location=ufi)
 
@@ -32,7 +32,7 @@ That’s multiple cases of violent pushbacks recorded in the same day\. While th
 Something has to be done to stop these systematic violent pushbacks before more lives are lost needlessly\!
 
 
-![Artist: [Javier Royo](https://twitter.com/javirroyo/status/1268234774927347713?fbclid=IwAR1wnbPVd3vZ899RNzHkzSMWeCLnqnYVJOB-JxVb0yeCEeOkQf08j-vywyA)](assets/29e62548da99/0*Ko7YtzDcjZKZJ7B3)
+![Artist: [Javier Royo](https://twitter.com/javirroyo/status/1268234774927347713?fbclid=IwAR1wnbPVd3vZ899RNzHkzSMWeCLnqnYVJOB-JxVb0yeCEeOkQf08j-vywyA)](../assets/29e62548da99/0*Ko7YtzDcjZKZJ7B3)
 
 Artist: [Javier Royo](https://twitter.com/javirroyo/status/1268234774927347713?fbclid=IwAR1wnbPVd3vZ899RNzHkzSMWeCLnqnYVJOB-JxVb0yeCEeOkQf08j-vywyA)
 
@@ -52,7 +52,7 @@ MEP Tineke Strike [finally secured](https://twitter.com/Tineke_Strik/status/1268
 Residents and volunteers are [beginning to clean up](https://www.facebook.com/movementontheground/posts/1725488184294153?hc_location=ufi) Vathy camp in Samos, parts of which were destroyed in a fire in April\. 400 people lost their homes in that fire; hopefully this clean\-up will be the first step in helping people in the camp get back on their feet\.
 
 
-![International solidarity from people on the move in Europe with Black Americans\. Black Lives Matter from the US to Europe\! Source: [Anarcha Feminism](https://www.facebook.com/anarchafeminism1312/photos/a.275711149999351/555683358668794/?type=3&theater)](assets/29e62548da99/0*x5WDJ_XygQikAjgN)
+![International solidarity from people on the move in Europe with Black Americans\. Black Lives Matter from the US to Europe\! Source: [Anarcha Feminism](https://www.facebook.com/anarchafeminism1312/photos/a.275711149999351/555683358668794/?type=3&theater)](../assets/29e62548da99/0*x5WDJ_XygQikAjgN)
 
 International solidarity from people on the move in Europe with Black Americans\. Black Lives Matter from the US to Europe\! Source: [Anarcha Feminism](https://www.facebook.com/anarchafeminism1312/photos/a.275711149999351/555683358668794/?type=3&theater)
 

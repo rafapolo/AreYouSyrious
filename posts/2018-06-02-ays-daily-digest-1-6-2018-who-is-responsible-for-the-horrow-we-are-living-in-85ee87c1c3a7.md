@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 1/6/2018: Who is responsible for the horror we are living in?
+title: "AYS DAILY DIGEST 1/6/2018: Who is responsible for the horror we are living in?"
 author: Are You Syrious?
 date: 2018-06-02T08:03:50.476+0100
 last_modified_at: 2018-06-02T13:08:37.805+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [europe,digest,madina,balkans,croatia]
 description: State’s Attorney Office of Croatia decided no one is responsible for the death of little Madina // Thousands of people on the move arrived…
 image:
-  path: assets/85ee87c1c3a7/1*6fDcf-3b5yLZ_zMxL2_WTw.jpeg
+  path: ../assets/85ee87c1c3a7/1*6fDcf-3b5yLZ_zMxL2_WTw.jpeg
 ---
 
 ### AYS DAILY DIGEST 1/6/2018: Who is responsible for the horror we are living in?
@@ -15,7 +15,7 @@ image:
 State’s Attorney Office of Croatia decided no one is responsible for the death of little Madina // Thousands of people on the move arrived in Europe this year seeking shleter and safety // Those who are trying to help them in Greece, Italy, Spain, Bosnia… need help
 
 
-![By Vagelis Pavlidis](assets/85ee87c1c3a7/1*6fDcf-3b5yLZ_zMxL2_WTw.jpeg)
+![By Vagelis Pavlidis](../assets/85ee87c1c3a7/1*6fDcf-3b5yLZ_zMxL2_WTw.jpeg)
 
 By Vagelis Pavlidis
 ### Feature
@@ -27,7 +27,7 @@ Following orders, Croatian police officers forced the family to follow the train
 Madina was hit by a train and died minutes after the push\-back\.
 
 
-![](assets/85ee87c1c3a7/1*qPkKhDcKD0CVXiafGD3VXQ.jpeg)
+![](../assets/85ee87c1c3a7/1*qPkKhDcKD0CVXiafGD3VXQ.jpeg)
 
 
 On Friday, the State Attorney’s Office of the Republic of Croatia decided no one was responsible for the death of little Madina\.
@@ -112,12 +112,12 @@ In total, 2,782 people arrived \(1,763 transferred to the mainland\) in May, and
 Additionally, there were five deportations under the EU\-Turkey deal with a total of 29 deported people, among them nine Syrians\.
 
 
-![By AYS](assets/85ee87c1c3a7/1*dojsUCtmKiHg-XLQrur_cg.jpeg)
+![By AYS](../assets/85ee87c1c3a7/1*dojsUCtmKiHg-XLQrur_cg.jpeg)
 
 By AYS
 
 
-![By AYS](assets/85ee87c1c3a7/1*cpI5elpeTJZpmCT-QcH2-Q.jpeg)
+![By AYS](../assets/85ee87c1c3a7/1*cpI5elpeTJZpmCT-QcH2-Q.jpeg)
 
 By AYS
 
@@ -128,11 +128,11 @@ So far this year TCG/Police have stopped 342 boats, with a total of 14,816 peopl
 The total official number on the Greek islands is 16,689 people\.
 
 
-![](assets/85ee87c1c3a7/1*MllzMkD5a2ojwWk25FhqxA.jpeg)
+![](../assets/85ee87c1c3a7/1*MllzMkD5a2ojwWk25FhqxA.jpeg)
 
 
 
-![By AYS](assets/85ee87c1c3a7/1*E1uMFx2bfst0JZW7CCBrKw.jpeg)
+![By AYS](../assets/85ee87c1c3a7/1*E1uMFx2bfst0JZW7CCBrKw.jpeg)
 
 By AYS
 
@@ -166,15 +166,15 @@ Instead of the state or agencies whose responsibility it is to help people on th
 On Friday, about 80 single men who are living rough in Sarajevo had a chance to finally shower\. This was possible due to people in one of the public sports facilities\.
 
 
-![](assets/85ee87c1c3a7/1*zuIxOl9YEninX7_Fgb5S0w.jpeg)
+![](../assets/85ee87c1c3a7/1*zuIxOl9YEninX7_Fgb5S0w.jpeg)
 
 
 
-![](assets/85ee87c1c3a7/1*9b9ZUcm7wLquDRP6v9fmww.jpeg)
+![](../assets/85ee87c1c3a7/1*9b9ZUcm7wLquDRP6v9fmww.jpeg)
 
 
 
-![Photo by AYS\.](assets/85ee87c1c3a7/1*d8PSSwmyp-4TOm5XosF9Fw.jpeg)
+![Photo by AYS\.](../assets/85ee87c1c3a7/1*d8PSSwmyp-4TOm5XosF9Fw.jpeg)
 
 Photo by AYS\.
 
@@ -219,7 +219,7 @@ Purpose: Help for refugees and migrants
 The [Eidomeni Refugee Support](https://www.facebook.com/groups/eidomeni.refugee.support/?hc_ref=ARTQZcqFs67cL6qkniMUYPg9dhUCyGMnUZgM2fnp_oojxGkSNlxMn6gihFY782hAcGU) group is in Kladusa, a border area with Croatia, where about 600 people are staying at the moment\. Together with S\.O\.S\. Team Kladuša, No Name Kitchen and some locals, volunteers and refugees, they are building emergency shelters for at least some families, wounded or elderly people\.
 
 
-[![A roof above the heads for refugees in Bosnia, part 2](assets/85ee87c1c3a7/b00c_hqdefault.jpg "A roof above the heads for refugees in Bosnia, part 2")](http://www.youtube.com/watch?v=0UAuVjdW8Ng)
+[![A roof above the heads for refugees in Bosnia, part 2](../assets/85ee87c1c3a7/b00c_hqdefault.jpg "A roof above the heads for refugees in Bosnia, part 2")](http://www.youtube.com/watch?v=0UAuVjdW8Ng)
 
 
 If you can help, donate by bank transfer, on their crowdfunding campaign or by PayPal\.
@@ -262,7 +262,7 @@ The measures, which introduce a new crime punishable by up to a year in jail, wi
 “Today I met a man who wouldn’t let me take his photo\. He seemed very shy but was quite adamant\. He was very friendly so I decided to push a little harder\. Reluctantly he said it was because his parents would be devastated if they knew how he lived: in a canvas shack in a patch of woodland\. He had told them he lived in s hotel and was doing fine\. He was heartbroken to disappoint his mother and wanted his father to be proud of him\. Back home they follow Facebook so he thought they would see it, it was a real fear\.
 
 
-![](assets/85ee87c1c3a7/1*70KL06ewJ3gulCvM0Ls7yg.jpeg)
+![](../assets/85ee87c1c3a7/1*70KL06ewJ3gulCvM0Ls7yg.jpeg)
 
 
 As a mother myself, I know how his mother would feel watching the world destroy her son and his hopes and dreams\. I would feel so helpless, he can’t go home to likely death or imprisonment and he can’t go forward because of politics and people’s irrational fear of refugees\.

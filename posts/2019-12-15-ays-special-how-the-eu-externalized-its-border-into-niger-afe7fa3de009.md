@@ -1,5 +1,5 @@
 ---
-title: AYS Special: How the EU externalized its border into Niger
+title: "AYS Special: How the EU externalized its border into Niger"
 author: Are You Syrious?
 date: 2019-12-15T15:16:32.655+0000
 last_modified_at: 2019-12-15T15:16:32.655+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,niger,sahara,eu,special]
 description: Volunteers of Alarmphone Sahara explain the impact of the migration policy in the Sahara region
 image:
-  path: assets/afe7fa3de009/1*Sw5TC83WlYvLapcsw-eHJg.jpeg
+  path: ../assets/afe7fa3de009/1*Sw5TC83WlYvLapcsw-eHJg.jpeg
 ---
 
 ### AYS Special: How the EU externalized its border into Niger
 #### Volunteers of Alarmphone Sahara explain the impact of the migration policy in the Sahara region
 
 
-![Moctar Dan\-Yayé \(middle\) und Azizou Chehou \(right\) inform about the situation in the Sahara region\.](assets/afe7fa3de009/1*Sw5TC83WlYvLapcsw-eHJg.jpeg)
+![Moctar Dan\-Yayé \(middle\) und Azizou Chehou \(right\) inform about the situation in the Sahara region\.](../assets/afe7fa3de009/1*Sw5TC83WlYvLapcsw-eHJg.jpeg)
 
 Moctar Dan\-Yayé \(middle\) und Azizou Chehou \(right\) inform about the situation in the Sahara region\.
 

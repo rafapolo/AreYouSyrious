@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 19/04/18: How many more people will die on the Aegean islands?
+title: "AYS Daily Digest 19/04/18: How many more people will die on the Aegean islands?"
 author: Are You Syrious?
 date: 2018-04-19T23:06:28.346+0100
 last_modified_at: 2018-04-20T01:50:18.512+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,moria,lesvos,sea-rescue]
 description: Rescues at sea / Protest in Turin / Aftermath of the destruction of Ventimiglia camp / Afghani man dies on Lesvos / Moria 35 and Petrou 8…
 image:
-  path: assets/3ec1132f00aa/1*vPbLJGos76XJzrvmt_yv1g.jpeg
+  path: ../assets/3ec1132f00aa/1*vPbLJGos76XJzrvmt_yv1g.jpeg
 ---
 
 ### AYS Daily Digest 19/04/18: How many more people will die on the Aegean islands?
@@ -15,7 +15,7 @@ image:
 _Rescues at sea / Protest in Turin / Aftermath of the destruction of Ventimiglia camp / Afghani man dies on Lesvos / Moria 35 and Petrou 8 trials start / Refugees forced to live on streets in Athens / Deportations from Austria / And more news…_
 
 
-![Refugees look on as the Ventimiglia camp in Italy is destroyed \(Photo by [Holes in the Borders](https://www.facebook.com/RefugiadosenAtenas/?hc_ref=ART8J7jaO2nSwNe2T43VhVU6bQwA8z2rmSgvQBDM1y9b11xUKLEHo4f-p77CxZ4ZN5g&fref=nf) \)](assets/3ec1132f00aa/1*vPbLJGos76XJzrvmt_yv1g.jpeg)
+![Refugees look on as the Ventimiglia camp in Italy is destroyed \(Photo by [Holes in the Borders](https://www.facebook.com/RefugiadosenAtenas/?hc_ref=ART8J7jaO2nSwNe2T43VhVU6bQwA8z2rmSgvQBDM1y9b11xUKLEHo4f-p77CxZ4ZN5g&fref=nf) \)](../assets/3ec1132f00aa/1*vPbLJGos76XJzrvmt_yv1g.jpeg)
 
 Refugees look on as the Ventimiglia camp in Italy is destroyed \(Photo by [Holes in the Borders](https://www.facebook.com/RefugiadosenAtenas/?hc_ref=ART8J7jaO2nSwNe2T43VhVU6bQwA8z2rmSgvQBDM1y9b11xUKLEHo4f-p77CxZ4ZN5g&fref=nf) \)
 ### FEATURE: Afghani refugee dies on Lesvos
@@ -23,14 +23,14 @@ Refugees look on as the Ventimiglia camp in Italy is destroyed \(Photo by [Holes
 It has been confirmed today by Greek outlets and from medical volunteers working in the Moria camp that Ali Khoshe, an Afghani refugee who was taken to the hospital earlier this week, died there\. The cause of his death has been reported as chronic cardiac illness\. However, it has also been reported that his health was made worse by the unacceptable living conditions in the camp and his constant exposure to the elements\. Given the state of the Moria camp, this comes as no surprise\. As is the case with many refugees living on the Aegean islands, he did not get adequate medical care in time\.
 
 
-![Photo by [Greek Forum of Refugees](https://www.facebook.com/Greekforumofrefugees/?hc_ref=ARSUOzuCaOCwHMmiTr3NrE6P1VR-DR9L4eCc2grKzJwVKIpj09L1-GLWtO6PSVRBa-8&fref=nf)](assets/3ec1132f00aa/1*WbIFDkGYWEU7QyFKWInyZQ.jpeg)
+![Photo by [Greek Forum of Refugees](https://www.facebook.com/Greekforumofrefugees/?hc_ref=ARSUOzuCaOCwHMmiTr3NrE6P1VR-DR9L4eCc2grKzJwVKIpj09L1-GLWtO6PSVRBa-8&fref=nf)](../assets/3ec1132f00aa/1*WbIFDkGYWEU7QyFKWInyZQ.jpeg)
 
 Photo by [Greek Forum of Refugees](https://www.facebook.com/Greekforumofrefugees/?hc_ref=ARSUOzuCaOCwHMmiTr3NrE6P1VR-DR9L4eCc2grKzJwVKIpj09L1-GLWtO6PSVRBa-8&fref=nf)
 
 A volunteer with the MMS medical team working in Moria confirmed that they examined the man and called an ambulance for him this past Sunday\. Following his hospitalization, a group of refugees moved to Mytilene, and camped out in the town there, demanding adequate medical treamtent and an end to their detention\.
 
 
-![Photo by [Greek Forum of Refugees](https://www.facebook.com/Greekforumofrefugees/?hc_ref=ARSUOzuCaOCwHMmiTr3NrE6P1VR-DR9L4eCc2grKzJwVKIpj09L1-GLWtO6PSVRBa-8&fref=nf)](assets/3ec1132f00aa/1*GsYyFpSxCfXJNJFlcTiwsw.jpeg)
+![Photo by [Greek Forum of Refugees](https://www.facebook.com/Greekforumofrefugees/?hc_ref=ARSUOzuCaOCwHMmiTr3NrE6P1VR-DR9L4eCc2grKzJwVKIpj09L1-GLWtO6PSVRBa-8&fref=nf)](../assets/3ec1132f00aa/1*GsYyFpSxCfXJNJFlcTiwsw.jpeg)
 
 Photo by [Greek Forum of Refugees](https://www.facebook.com/Greekforumofrefugees/?hc_ref=ARSUOzuCaOCwHMmiTr3NrE6P1VR-DR9L4eCc2grKzJwVKIpj09L1-GLWtO6PSVRBa-8&fref=nf)
 
@@ -64,7 +64,7 @@ The [Greek Forum of Refugees](https://www.facebook.com/Greekforumofrefugees/?hc_
 
 
 
-![Photo by [Greek Forum of Refugees](https://www.facebook.com/Greekforumofrefugees/?hc_ref=ARSUOzuCaOCwHMmiTr3NrE6P1VR-DR9L4eCc2grKzJwVKIpj09L1-GLWtO6PSVRBa-8&fref=nf)](assets/3ec1132f00aa/1*4R9fVrp-tUV0iVBiDYuK3Q.jpeg)
+![Photo by [Greek Forum of Refugees](https://www.facebook.com/Greekforumofrefugees/?hc_ref=ARSUOzuCaOCwHMmiTr3NrE6P1VR-DR9L4eCc2grKzJwVKIpj09L1-GLWtO6PSVRBa-8&fref=nf)](../assets/3ec1132f00aa/1*4R9fVrp-tUV0iVBiDYuK3Q.jpeg)
 
 Photo by [Greek Forum of Refugees](https://www.facebook.com/Greekforumofrefugees/?hc_ref=ARSUOzuCaOCwHMmiTr3NrE6P1VR-DR9L4eCc2grKzJwVKIpj09L1-GLWtO6PSVRBa-8&fref=nf)
 ### SEA
@@ -85,7 +85,7 @@ Photo by [Greek Forum of Refugees](https://www.facebook.com/Greekforumofrefugees
 The [Sea\-Eye](https://www.facebook.com/seaeyeorg/) rescue organization is fundraising for their life\-saving operations in the Mediterranean\. They released some photos from yesterday’s rescues, a vivid reminder of the importance of their work\.
 
 
-![Photo by S [ea\-Eye](https://www.facebook.com/seaeyeorg/)](assets/3ec1132f00aa/1*tUuyTpcXes-Ebxl7HTVNHg.jpeg)
+![Photo by S [ea\-Eye](https://www.facebook.com/seaeyeorg/)](../assets/3ec1132f00aa/1*tUuyTpcXes-Ebxl7HTVNHg.jpeg)
 
 Photo by S [ea\-Eye](https://www.facebook.com/seaeyeorg/)
 
@@ -115,7 +115,7 @@ Photo by S [ea\-Eye](https://www.facebook.com/seaeyeorg/)
 
 
 
-![Photo by S [ea\-Eye](https://www.facebook.com/seaeyeorg/)](assets/3ec1132f00aa/1*aaAjgKcvI8KPVWL-t4RBmQ.jpeg)
+![Photo by S [ea\-Eye](https://www.facebook.com/seaeyeorg/)](../assets/3ec1132f00aa/1*aaAjgKcvI8KPVWL-t4RBmQ.jpeg)
 
 Photo by S [ea\-Eye](https://www.facebook.com/seaeyeorg/)
 
@@ -149,7 +149,7 @@ As the group stated:
 
 
 
-![Photo by [Break the Borders](http://Break The Borders)](assets/3ec1132f00aa/1*bX7GCvGTF3dwvGOIblAahQ.jpeg)
+![Photo by [Break the Borders](http://Break The Borders)](../assets/3ec1132f00aa/1*bX7GCvGTF3dwvGOIblAahQ.jpeg)
 
 Photo by [Break the Borders](http://Break The Borders)
 
@@ -169,23 +169,23 @@ Today the [Holes in the Borders](https://www.facebook.com/RefugiadosenAtenas/?hc
 
 
 
-![](assets/3ec1132f00aa/1*kU47rUv9ehyw8yA2roJP_A.jpeg)
+![](../assets/3ec1132f00aa/1*kU47rUv9ehyw8yA2roJP_A.jpeg)
 
 
 
-![](assets/3ec1132f00aa/1*-bH_X469F-iaV0BajZo2VQ.jpeg)
+![](../assets/3ec1132f00aa/1*-bH_X469F-iaV0BajZo2VQ.jpeg)
 
 
 
-![](assets/3ec1132f00aa/1*DcqPL5w5-Q4x_xqbMOEQOQ.jpeg)
+![](../assets/3ec1132f00aa/1*DcqPL5w5-Q4x_xqbMOEQOQ.jpeg)
 
 
 
-![](assets/3ec1132f00aa/1*FyQLosvQ1SJuCab-uPCaBg.jpeg)
+![](../assets/3ec1132f00aa/1*FyQLosvQ1SJuCab-uPCaBg.jpeg)
 
 
 
-![Photos taken during the destruction of the Ventimiglia camp \(Photos by [Holes in the Borders](https://www.facebook.com/RefugiadosenAtenas/?hc_ref=ART8J7jaO2nSwNe2T43VhVU6bQwA8z2rmSgvQBDM1y9b11xUKLEHo4f-p77CxZ4ZN5g&fref=nf) \)](assets/3ec1132f00aa/1*pFs3o3etbRNnbZOs_428Tw.jpeg)
+![Photos taken during the destruction of the Ventimiglia camp \(Photos by [Holes in the Borders](https://www.facebook.com/RefugiadosenAtenas/?hc_ref=ART8J7jaO2nSwNe2T43VhVU6bQwA8z2rmSgvQBDM1y9b11xUKLEHo4f-p77CxZ4ZN5g&fref=nf) \)](../assets/3ec1132f00aa/1*pFs3o3etbRNnbZOs_428Tw.jpeg)
 
 Photos taken during the destruction of the Ventimiglia camp \(Photos by [Holes in the Borders](https://www.facebook.com/RefugiadosenAtenas/?hc_ref=ART8J7jaO2nSwNe2T43VhVU6bQwA8z2rmSgvQBDM1y9b11xUKLEHo4f-p77CxZ4ZN5g&fref=nf) \)
 ### GREECE
@@ -195,7 +195,7 @@ Photos taken during the destruction of the Ventimiglia camp \(Photos by [Holes i
 #### UNHCR Samos weekly snapshot
 
 
-![](assets/3ec1132f00aa/1*QmgqAxqZdBYsGBJ3mdGRrA.jpeg)
+![](../assets/3ec1132f00aa/1*QmgqAxqZdBYsGBJ3mdGRrA.jpeg)
 
 #### Demonstration in Athens against the Moria 35 and Petrou 8 trials
 
@@ -220,7 +220,7 @@ The demonstration is happening on April 20th at noon, click [here](https://www.f
 The [NoBorders](https://www.facebook.com/nobordersnetwork/) network announced a solidarity demonstration to occur outside the courthouse on Chios, more information [here](https://www.facebook.com/nobordersnetwork/photos/a.660787423989153.1073741828.657905327610696/1722251014509450/?type=3&theater) \.
 
 
-![“We call all our friends in Chios to be present tomorrow at Chios Court at in solidarity with the 35 refugees of Moria, Lesvos\.”](assets/3ec1132f00aa/1*u4Xdd03qK7P42cIaWeGVWQ.jpeg)
+![“We call all our friends in Chios to be present tomorrow at Chios Court at in solidarity with the 35 refugees of Moria, Lesvos\.”](../assets/3ec1132f00aa/1*u4Xdd03qK7P42cIaWeGVWQ.jpeg)
 
 “We call all our friends in Chios to be present tomorrow at Chios Court at in solidarity with the 35 refugees of Moria, Lesvos\.”
 
@@ -269,7 +269,7 @@ The [Utopia 56](https://www.facebook.com/asso.utopia56/) volunteer group along w
 You can read the full text in French [here](https://www.facebook.com/asso.utopia56/photos/a.1086224878075970.1073741829.1059730054058786/1870272726337844/?type=3&theater) \.
 
 
-![Photo by [Esperance SP](http://Espérance SP‎)](assets/3ec1132f00aa/1*1GZrwyN8PmH6AZBr5KkwiQ.jpeg)
+![Photo by [Esperance SP](http://Espérance SP‎)](../assets/3ec1132f00aa/1*1GZrwyN8PmH6AZBr5KkwiQ.jpeg)
 
 Photo by [Esperance SP](http://Espérance SP‎)
 #### Roots calls for donations
@@ -277,7 +277,7 @@ Photo by [Esperance SP](http://Espérance SP‎)
 The [Roots](https://www.facebook.com/charitableroots/?hc_location=group_dialog) aid group is looking for people to help them collect old laptop batteries so they can turn them into power banks for refugees in Calais\. You can contact them on their page [here](https://www.facebook.com/pg/charitableroots/about/?ref=page_internal) \.
 
 
-![](assets/3ec1132f00aa/1*i6xHYd5OboW1nPYcrrjzvQ.jpeg)
+![](../assets/3ec1132f00aa/1*i6xHYd5OboW1nPYcrrjzvQ.jpeg)
 
 
 

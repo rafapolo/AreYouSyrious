@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL FROM CHIOS: A story from one of the forgotten islands
+title: "AYS SPECIAL FROM CHIOS: A story from one of the forgotten islands"
 author: Are You Syrious?
 date: 2019-01-02T10:21:15.195+0000
 last_modified_at: 2019-01-02T10:21:15.195+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,chios,greece,special,european-union]
 description: I have returned to Chios after two years, and I want to share with you how shocked I am at the situation here. Europe seems to have…
 image:
-  path: assets/9e7885b49702/1*93ZzPAvxFVMelRhYusZe5A.jpeg
+  path: ../assets/9e7885b49702/1*93ZzPAvxFVMelRhYusZe5A.jpeg
 ---
 
 ### AYS SPECIAL FROM CHIOS: A story from one of the forgotten islands
@@ -15,7 +15,7 @@ image:
 _I have returned to Chios after two years, and I want to share with you how shocked I am at the situation here\. Europe seems to have forgotten the Greek Islands; the media is silent and the boats are still coming\._
 
 
-![](assets/9e7885b49702/1*93ZzPAvxFVMelRhYusZe5A.jpeg)
+![](../assets/9e7885b49702/1*93ZzPAvxFVMelRhYusZe5A.jpeg)
 
 
 As the plane touched down last week, I glanced out of the window astounded, yet again, at how easy it is for me to arrive and leave Chios island, Greece\. Passport in hand, I stepped onto the tiny runway, smelling the sea\. Not so simple for the refugees trapped here\.
@@ -23,7 +23,7 @@ As the plane touched down last week, I glanced out of the window astounded, yet 
 On Samos, over 5000 refugees live in squalid conditions\. Here in Chios, refugees have more support from volunteers, but life on the small island is far from comfortable, as new problems of stagnation arise\.
 
 
-![](assets/9e7885b49702/1*p5LpZZ_gDdMWykehWJgG1w.jpeg)
+![](../assets/9e7885b49702/1*p5LpZZ_gDdMWykehWJgG1w.jpeg)
 
 
 Over 1100 people now live in Vial Camp, far more than its capacity allows\. Resources are stretched and there are not enough containers and tents for new arrivals\.
@@ -39,7 +39,7 @@ I remember the far right fascist attack, and watching the camp burn while the Gr
 When Souda closed all the residents were transferred to Vial Camp, a ‘hotspot’ run by the Army and the Greek government\. It is a 30\-minute drive from the city surrounded by views of mountains and barbed wire fences\. Now out of sight, out of mind\.
 
 
-![](assets/9e7885b49702/1*1paudDIK6yiG2ZbobSNrSA.jpeg)
+![](../assets/9e7885b49702/1*1paudDIK6yiG2ZbobSNrSA.jpeg)
 
 
 There is limited transport, so most people cannot leave and don’t feel welcome in the town anyway\.
@@ -55,7 +55,7 @@ It is true not so many boats arrive now\. In the winter of 2015 when I first arr
 Some will not get their first asylum interview until 2020, forcing them to stay living in inadequate conditions in an overrun, dirty, crowded and stagnant camp\. People face the constant risk of deportation back to Turkey or their unsafe home countries\. Stagnation creates an increase in mental health issues and unaddressed medical problems\.
 
 
-![](assets/9e7885b49702/1*NxecgVmtnUAUp3-1umU3cw.jpeg)
+![](../assets/9e7885b49702/1*NxecgVmtnUAUp3-1umU3cw.jpeg)
 
 
 Babies grow up in noisy, overcrowded containers unconsciously learning what trauma and fear is\. Teenagers miss out on vital development to find their place in the world and learn the difference between right and wrong\. Fun, play, and normal child development is overshadowed by the fence of the camp\. Children pick up sticks and metal bars to mirror the violence they witnessed back home and now in the camp\.

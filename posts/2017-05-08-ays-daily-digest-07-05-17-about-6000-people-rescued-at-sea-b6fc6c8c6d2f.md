@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 07/05/17: About 6000 people rescued at sea
+title: "AYS Daily Digest 07/05/17: About 6000 people rescued at sea"
 author: Are You Syrious?
 date: 2017-05-08T03:20:22.318+0100
 last_modified_at: 2017-05-08T03:22:05.323+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,greece,italy,serbia]
 description: Decrease in relocation numbers from Greece in April // Barrack in Belgrade to be demolished soon // Suicide in Milan // EU plans…
 image:
-  path: assets/b6fc6c8c6d2f/1*Q3khn9Spuo_UG4SItrRDRw.jpeg
+  path: ../assets/b6fc6c8c6d2f/1*Q3khn9Spuo_UG4SItrRDRw.jpeg
 ---
 
 ### AYS Daily Digest 07/05/17: About 6000 people rescued at sea
 #### Decrease in relocation numbers from Greece in April // Barrack in Belgrade to be demolished soon // Suicide in Milan // EU plans deportations to Iraq
 
 
-![Photo by [**SOS MEDITERRANEE France**](https://www.facebook.com/sosmedfrance/)](assets/b6fc6c8c6d2f/1*Q3khn9Spuo_UG4SItrRDRw.jpeg)
+![Photo by [**SOS MEDITERRANEE France**](https://www.facebook.com/sosmedfrance/)](../assets/b6fc6c8c6d2f/1*Q3khn9Spuo_UG4SItrRDRw.jpeg)
 
 Photo by [**SOS MEDITERRANEE France**](https://www.facebook.com/sosmedfrance/)
 ### Feature
@@ -24,7 +24,7 @@ Between Friday and Saturday the Italian coastguard has coordinated dozens of res
 [**Sea\-Watch**](https://www.facebook.com/seawatchprojekt/?fref=nf) is one of the NGOs that has been involved in the operations over the weekend and despite the good work they showed some frustration as it was impossible to attend everyone\.
 
 
-![image by [**Sea\-Watch**](https://www.facebook.com/seawatchprojekt/?fref=nf)](assets/b6fc6c8c6d2f/1*zrMz6yna9__nCnhEuksarQ.jpeg)
+![image by [**Sea\-Watch**](https://www.facebook.com/seawatchprojekt/?fref=nf)](../assets/b6fc6c8c6d2f/1*zrMz6yna9__nCnhEuksarQ.jpeg)
 
 image by [**Sea\-Watch**](https://www.facebook.com/seawatchprojekt/?fref=nf)
 
@@ -43,12 +43,12 @@ They we also very critical about the lack of support from the European Union and
 [**MSF Sea**](https://twitter.com/MSF_Sea) has also been very busy as usual and in cooperation with Seawatch they attended hundreds of refugees taking them to firm land in Italy\. The rescues they did were difficult because of the sea conditions but everyone was reportedly well\.
 
 
-![Photo by [**MSF Sea**](https://twitter.com/MSF_Sea)](assets/b6fc6c8c6d2f/1*1IhQMdj8rX1VokqwYPXPqQ.jpeg)
+![Photo by [**MSF Sea**](https://twitter.com/MSF_Sea)](../assets/b6fc6c8c6d2f/1*1IhQMdj8rX1VokqwYPXPqQ.jpeg)
 
 Photo by [**MSF Sea**](https://twitter.com/MSF_Sea)
 
 
-![Photo by [**MSF Sea**](https://twitter.com/MSF_Sea) **\-** After a 2nd transfer from [@seawatchcrew](https://twitter.com/seawatchcrew) the [\#Prudence](https://twitter.com/hashtag/Prudence?src=hash) now has 572 men, women & kids on board\. Thank goodness they’re all safe\.](assets/b6fc6c8c6d2f/1*v_vqldH-BbjkG7H2NJ1NqQ.jpeg)
+![Photo by [**MSF Sea**](https://twitter.com/MSF_Sea) **\-** After a 2nd transfer from [@seawatchcrew](https://twitter.com/seawatchcrew) the [\#Prudence](https://twitter.com/hashtag/Prudence?src=hash) now has 572 men, women & kids on board\. Thank goodness they’re all safe\.](../assets/b6fc6c8c6d2f/1*v_vqldH-BbjkG7H2NJ1NqQ.jpeg)
 
 Photo by [**MSF Sea**](https://twitter.com/MSF_Sea) **\-** After a 2nd transfer from [@seawatchcrew](https://twitter.com/seawatchcrew) the [\#Prudence](https://twitter.com/hashtag/Prudence?src=hash) now has 572 men, women & kids on board\. Thank goodness they’re all safe\.
 ### Turkey
@@ -89,7 +89,7 @@ In the northern camp of Alexandria, the army catering has been stopped and [**Re
 Also in the north of Greece, a new project called [**TruckShop**](https://www.facebook.com/mobileclothesproject/) **\-Social\-Shop is about to be set up in Thessaloniki** \. The cash program is working well, but non\-food items such as new clothes are still inaccessible due to the cost for many so volunteers hope that this free shop will promote independence while also filling a gap of the cash program\. If you would like to support their work please follow the [link](https://www.betterplace.org/…/50552-truckshop-a-free-shop-f…) \.
 
 
-![Photo by [**TruckShop**](https://www.facebook.com/mobileclothesproject/)](assets/b6fc6c8c6d2f/1*fJ6QHYoUE-RTBtCXSNEUHA.jpeg)
+![Photo by [**TruckShop**](https://www.facebook.com/mobileclothesproject/)](../assets/b6fc6c8c6d2f/1*fJ6QHYoUE-RTBtCXSNEUHA.jpeg)
 
 Photo by [**TruckShop**](https://www.facebook.com/mobileclothesproject/)
 
@@ -105,19 +105,19 @@ The Commissariat for Refugees and Migration of the Republic of Serbia has told t
 They asked for the collaboration of volunteers and NGOs in the field to make the work easier and the plan is, reportedly, to register everyone and get refugees into the Serbian asylum claim sending them to camps although is likely that many refugees wont accept this fate\.
 
 
-![Back of the Barracks area viewing the construction site — Photo by [**No Name Kitchen**](https://www.facebook.com/NoNameKitchenBelgrade/)](assets/b6fc6c8c6d2f/1*Ks9_VVgxqfnTDtINR69HmA.jpeg)
+![Back of the Barracks area viewing the construction site — Photo by [**No Name Kitchen**](https://www.facebook.com/NoNameKitchenBelgrade/)](../assets/b6fc6c8c6d2f/1*Ks9_VVgxqfnTDtINR69HmA.jpeg)
 
 Back of the Barracks area viewing the construction site — Photo by [**No Name Kitchen**](https://www.facebook.com/NoNameKitchenBelgrade/)
 
 At the same time volunteers continue to work hard to provide better conditions to the residents of the barracks and [**SoulWelders**](https://www.facebook.com/SoulWelders/) has continued to work on the shower service installed 3 weeks ago setting up the ramps so that the truck has the perfect elevation for the water to drain, improve the drainage system\. In collaboration with [Help\-Na](https://www.facebook.com/HelpNa/) , they have been also doing medical treatments while the showers take place\.
 
 
-![Photo by [**SoulWelders**](https://www.facebook.com/SoulWelders/)](assets/b6fc6c8c6d2f/1*SBymI8lDuZkZiVQor4fjbQ.jpeg)
+![Photo by [**SoulWelders**](https://www.facebook.com/SoulWelders/)](../assets/b6fc6c8c6d2f/1*SBymI8lDuZkZiVQor4fjbQ.jpeg)
 
 Photo by [**SoulWelders**](https://www.facebook.com/SoulWelders/)
 
 
-![Photo by [**SoulWelders**](https://www.facebook.com/SoulWelders/)](assets/b6fc6c8c6d2f/1*g801f-19qN2xOTKwpnk_HA.jpeg)
+![Photo by [**SoulWelders**](https://www.facebook.com/SoulWelders/)](../assets/b6fc6c8c6d2f/1*g801f-19qN2xOTKwpnk_HA.jpeg)
 
 Photo by [**SoulWelders**](https://www.facebook.com/SoulWelders/)
 ### Germany
@@ -136,7 +136,7 @@ Calais Migrant Solidarity has done an update about the situation in Calais that 
 
 
 
-![Photo by [Calais Migrant Solidarity \(No Borders\)](https://www.facebook.com/groups/calaismigrantssolidarity/)](assets/b6fc6c8c6d2f/1*yv4BGU8oMb-7Q0H6WxAODA.jpeg)
+![Photo by [Calais Migrant Solidarity \(No Borders\)](https://www.facebook.com/groups/calaismigrantssolidarity/)](../assets/b6fc6c8c6d2f/1*yv4BGU8oMb-7Q0H6WxAODA.jpeg)
 
 Photo by [Calais Migrant Solidarity \(No Borders\)](https://www.facebook.com/groups/calaismigrantssolidarity/)
 ### Italy
@@ -152,14 +152,14 @@ You can download the new guides following the links below in [Italian](http://ww
 There is also a new medical support service in Naples for free\.
 
 
-![](assets/b6fc6c8c6d2f/1*N-VJmWTIvghf6ECV80jPOg.jpeg)
+![](../assets/b6fc6c8c6d2f/1*N-VJmWTIvghf6ECV80jPOg.jpeg)
 
 ### Donating
 
 Now it’s easy to send phone credit for refugees from far away, just follow the instructions:
 
 
-![Image by [**Phone Credit For Refugees**](https://www.facebook.com/top.ups.for.refugees/?fref=nf)](assets/b6fc6c8c6d2f/1*KFWIcIa19Fllc8QjsvHeyA.jpeg)
+![Image by [**Phone Credit For Refugees**](https://www.facebook.com/top.ups.for.refugees/?fref=nf)](../assets/b6fc6c8c6d2f/1*KFWIcIa19Fllc8QjsvHeyA.jpeg)
 
 Image by [**Phone Credit For Refugees**](https://www.facebook.com/top.ups.for.refugees/?fref=nf)
 ### EU

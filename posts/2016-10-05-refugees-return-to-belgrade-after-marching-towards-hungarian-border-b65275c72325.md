@@ -1,5 +1,5 @@
 ---
-title: AYS Digest 04/10: Refugees return to Belgrade after marching towards Hungarian border
+title: "AYS Digest 04/10: Refugees return to Belgrade after marching towards Hungarian border"
 author: Are You Syrious?
 date: 2016-10-05T03:08:50.628+0100
 last_modified_at: 2016-10-05T13:42:51.601+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,migration,belgrade,mediterranean]
 description: Between 150 and 300 of the refugees who tried to walk towards the Serbian border with Hungary are returning to Belgrade. More than 1,800…
 image:
-  path: assets/b65275c72325/0*hRkKDL5rJV9OCl6k.
+  path: ../assets/b65275c72325/0*hRkKDL5rJV9OCl6k.
 ---
 
 ### AYS Digest 04/10: Refugees return to Belgrade after marching towards Hungarian border
@@ -15,7 +15,7 @@ image:
 _Between 150 and 300 of the refugees who tried to walk towards the Serbian border with Hungary are returning to Belgrade\. More than 1,800 refugees rescued off the Libyan coast\. 280 new refugees registered in Greece and camps remain overcrowded\. Donations needed in Calais, especially for unaccompanied minors\._
 
 
-![Photo by Patricia Otuka\-Karner](assets/b65275c72325/0*hRkKDL5rJV9OCl6k.)
+![Photo by Patricia Otuka\-Karner](../assets/b65275c72325/0*hRkKDL5rJV9OCl6k.)
 
 Photo by Patricia Otuka\-Karner
 
@@ -26,12 +26,12 @@ It all started in the morning\. After the protest in Belgrade park, one group de
 During the march, the Serbian Red Cross quickly began providing food, water and raincoats, while MSF provided primary health care\. Two international activists marched with the refugees and live\-Tweeted about the protest\.
 
 
-![Photo by Caroline Haga](assets/b65275c72325/0*HELv7CR-krlr2iQa.)
+![Photo by Caroline Haga](../assets/b65275c72325/0*HELv7CR-krlr2iQa.)
 
 Photo by Caroline Haga
 
 
-![Photo by Patricia Otuka\-Karner](assets/b65275c72325/0*Jagk4vym3ojseE1d.jpg)
+![Photo by Patricia Otuka\-Karner](../assets/b65275c72325/0*Jagk4vym3ojseE1d.jpg)
 
 Photo by Patricia Otuka\-Karner
 
@@ -42,7 +42,7 @@ Local organizations and several long\-term volunteers from Belgrade have express
 UNHCR says that around 5,700 refugees are stuck in Serbia at the moment, up from 3,000 during the last protest in July\. Many refugees are sleeping rough in the streets of Belgrade, with UNHCR stating that at least 700 stay in the city during the day\. Their living conditions have deteriorated as well, with the city of Belgrade destroying squatted facilities, while official camps are often overcrowded\. There is a serious concern this protest will be further used against the refugees and volunteers in the Park\.
 
 
-![Photo by Mette Flansmose](assets/b65275c72325/0*UTo1xwDOb6n_CSTy.jpg)
+![Photo by Mette Flansmose](../assets/b65275c72325/0*UTo1xwDOb6n_CSTy.jpg)
 
 Photo by Mette Flansmose
 
@@ -55,19 +55,19 @@ More than 6,000 refugees were rescued off the coast of Libya on Monday\. The ves
 Seawatch says that refugees are trying to reach Europe before the coming winter and reports that it participated in the rescue of 281 people, many in critical condition\.
 
 
-![Photos by Seawatch](assets/b65275c72325/0*rbfmAYCJVaOsMDnd.jpg)
+![Photos by Seawatch](../assets/b65275c72325/0*rbfmAYCJVaOsMDnd.jpg)
 
 Photos by Seawatch
 
 
-![Photos by Seawatch](assets/b65275c72325/0*THTmsXj6ZLtmR61H.jpg)
+![Photos by Seawatch](../assets/b65275c72325/0*THTmsXj6ZLtmR61H.jpg)
 
 Photos by Seawatch
 
 Rescues continued today, with the Italian coastguard says it helped 1,800 people on 16 different boats\. An AFP journalist says he counted at least 22 dead in a wooden boat with around 1,000 refugees on board\. Seawatch assisted at least 120 people on nine different rubber boats today, providing life vests and medical help\. No other rescue boats were in sight and the crew was working at full capacity\.
 
 
-![Photo by Seawatch](assets/b65275c72325/0*sSyoJU6aU5QFMnwt.jpg)
+![Photo by Seawatch](../assets/b65275c72325/0*sSyoJU6aU5QFMnwt.jpg)
 
 Photo by Seawatch
 #### Greece
@@ -82,7 +82,7 @@ In Samos, there are currently 1,704 refugees despite a maximum capacity of only 
 Samos Volunteers has provided a full set of clothes and new underwear for each of the new arrivals and continues to provide clothes for those who are already living in the camp\.
 
 
-![New clothes and items for refugees\. Photo by Samos Volunteers](assets/b65275c72325/0*mjx9p8n0DhWGZCS1.)
+![New clothes and items for refugees\. Photo by Samos Volunteers](../assets/b65275c72325/0*mjx9p8n0DhWGZCS1.)
 
 New clothes and items for refugees\. Photo by Samos Volunteers
 
@@ -105,7 +105,7 @@ French media, including [Le Point](http://www.lepoint.fr/societe/calais-ou-iront
 Other organisations say systems are being put in place to host unaccompanied minors in France, with the president of the Pas\-de\-Calais region Michel Dagbert saying a “national platform for the distribution \(of unaccompanied minors\) across France is being considered”\.
 
 
-![Photo by Belgium Kitchen](assets/b65275c72325/0*z9P-4s4smkSNITIK.)
+![Photo by Belgium Kitchen](../assets/b65275c72325/0*z9P-4s4smkSNITIK.)
 
 Photo by Belgium Kitchen
 

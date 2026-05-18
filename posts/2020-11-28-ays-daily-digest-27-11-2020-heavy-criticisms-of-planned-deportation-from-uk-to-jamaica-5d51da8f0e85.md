@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,home-office,deportations]
 description: 132 Deaths in the Central Mediterranean This Month//Head of Spanish Navy Emphasizes Legal and Moral Obligation to Rescue
 image:
-  path: assets/5d51da8f0e85/0*qqoeQX43WbblmfKx.jpg
+  path: ../assets/5d51da8f0e85/0*qqoeQX43WbblmfKx.jpg
 ---
 
 ### AYS Daily Digest 27/11/2020 — Heavy Criticisms of Planned Deportation from UK to Jamaica
 ### 132 Deaths in the Central Mediterranean This Month//Head of Spanish Navy Emphasizes Legal and Moral Obligation to Rescue
 
 
-![](assets/5d51da8f0e85/0*L-Tk_F7tEpGkSKXO.jpeg)
+![](../assets/5d51da8f0e85/0*L-Tk_F7tEpGkSKXO.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----b3d6d09c0e28--------------------------------)
@@ -22,11 +22,11 @@ image:
 [Nov 28](ays-daily-digest-27-11-2020-heavy-criticisms-of-planned-deportation-from-uk-to-jamaica-b3d6d09c0e28?source=post_page-----b3d6d09c0e28--------------------------------) · 6 min read
 
 
-![](assets/5d51da8f0e85/0*pDE8cFpIU7-kIZPL)
+![](../assets/5d51da8f0e85/0*pDE8cFpIU7-kIZPL)
 
 
 
-![](assets/5d51da8f0e85/0*qqoeQX43WbblmfKx.jpg)
+![](../assets/5d51da8f0e85/0*qqoeQX43WbblmfKx.jpg)
 
 
 UK

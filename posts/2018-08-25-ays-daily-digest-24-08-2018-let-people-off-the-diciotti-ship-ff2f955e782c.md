@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 24/08/2018: Let people off the Diciotti ship
+title: "AYS DAILY DIGEST 24/08/2018: Let people off the Diciotti ship"
 author: Are You Syrious?
 date: 2018-08-25T11:51:59.371+0100
 last_modified_at: 2018-08-25T15:00:29.964+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [europe,digest]
 description: No solution has been found for the 150 people aboard the Italian Coast Guard ship Diciotti//Moroccan authorities continue crackdown on…
 image:
-  path: assets/ff2f955e782c/0*WYdU1yjNl4DnNb_2
+  path: ../assets/ff2f955e782c/0*WYdU1yjNl4DnNb_2
 ---
 
 ### AYS DAILY DIGEST 24/08/2018: Let people off the Diciotti ship
@@ -15,7 +15,7 @@ image:
 _No solution has been found for the 150 people aboard the Italian Coast Guard ship Diciotti//Moroccan authorities continue crackdown on people in Nador//New testimonies of police violence in Croatia//_
 
 
-![Image provided by Pilotes Volontaires](assets/ff2f955e782c/0*WYdU1yjNl4DnNb_2)
+![Image provided by Pilotes Volontaires](../assets/ff2f955e782c/0*WYdU1yjNl4DnNb_2)
 
 Image provided by Pilotes Volontaires
 #### Feature
@@ -33,7 +33,7 @@ As the minors were evacuated from the ship, journalists have been able to discov
 ### Police violence at the French border
 
 
-![](assets/ff2f955e782c/0*aUFCFZ6pGK1_NO9r)
+![](../assets/ff2f955e782c/0*aUFCFZ6pGK1_NO9r)
 
 
 [Chez Jesus](https://www.facebook.com/Chez-Jesus-Rifugio-Autogestito-362786637540072) says police violence is intensifying in the village of Claviere, two kilometers away from the French border\. People walking along mountain paths are being arrested, and police are even threatening with their guns \. The military has now joined them as well\. The border police is also using violence in order to force refugees to record their fingerprints\. One 16\-year\-old boy has given his testimony:
@@ -50,13 +50,13 @@ From the 19th to the 23rd of September, [Camp Passamontagna](http://www.passamon
 The camp is meant to be completely self\-organized, a place for activists to discuss together in a horizontal manner and to share practices of struggle, of organizing, reflections and perspectives, and to keep on fighting against all the tentacles of the border control system\.
 
 
-![](assets/ff2f955e782c/0*loNayx6YQi1NmGDv)
+![](../assets/ff2f955e782c/0*loNayx6YQi1NmGDv)
 
 #### Morocco
 ### Crackdown on people in Nador continues
 
 
-![](assets/ff2f955e782c/0*NAu1AoOxpG-5iU4k)
+![](../assets/ff2f955e782c/0*NAu1AoOxpG-5iU4k)
 
 
 The [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/) says arrests of migrants are continuing at the Moroccan coast, with eight buses leaving Tangier for the south of Morocco this morning, as the country tries to prevent people from leaving for Europe\. 70 people were arrested in total\. Two buses left Nador at 9PM; the passengers on board included migrants who have a Moroccan residence card\.
@@ -68,7 +68,7 @@ Meanwhile, [El Pais](https://elpais.com/elpais/2018/08/23/inenglish/1535032545_7
 ### 140 people arrive on Lesvos
 
 
-![Photo by [Refugee Rescue / ‘Mo Chara’](https://www.facebook.com/RefugeeRescueUK/?tn-str=k%2AF)](assets/ff2f955e782c/0*1v_3lmPbvvKQZPXT)
+![Photo by [Refugee Rescue / ‘Mo Chara’](https://www.facebook.com/RefugeeRescueUK/?tn-str=k%2AF)](../assets/ff2f955e782c/0*1v_3lmPbvvKQZPXT)
 
 Photo by [Refugee Rescue / ‘Mo Chara’](https://www.facebook.com/RefugeeRescueUK/?tn-str=k%2AF)
 
@@ -88,7 +88,7 @@ Photo by [Refugee Rescue / ‘Mo Chara’](https://www.facebook.com/RefugeeRescu
 
 
 
-![](assets/ff2f955e782c/0*bsEJpZh1Ynr-QD6p)
+![](../assets/ff2f955e782c/0*bsEJpZh1Ynr-QD6p)
 
 
 More cases of police violence at the border can be found [here](ays-special-violent-push-backs-continues-across-the-balkans-c14eab172c52) \.

@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 17/7/2018: The situation in Bosnia — from bad to worse
+title: "AYS DAILY DIGEST 17/7/2018: The situation in Bosnia — from bad to worse"
 author: Are You Syrious?
 date: 2018-07-18T12:00:48.593+0100
 last_modified_at: 2018-07-18T12:00:48.593+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,digest,velika-kladusa,bosnia,austria]
 description: Thousands of people left in inhumane living conditions in Bosnia and Herzegovina // Over 200 illegal push-backs from Bosnia to Serbia in…
 image:
-  path: assets/d31cdf4f75ba/1*kZ0P55Sk5_Am5Lppz63ahQ.jpeg
+  path: ../assets/d31cdf4f75ba/1*kZ0P55Sk5_Am5Lppz63ahQ.jpeg
 ---
 
 ### AYS DAILY DIGEST 17/7/2018: The situation in Bosnia — from bad to worse
@@ -15,7 +15,7 @@ image:
 _Thousands of people left in inhumane living conditions in Bosnia and Herzegovina // Over 200 illegal push\-backs from Bosnia to Serbia in one week // “Almost emergency” situation in Greece with close to 65\.000 asylum seekers registered at the moment // Appeals from Austria and Bosnia_
 
 
-![After the storm\. Velika Kladuša\. Photo by [Gabriel Tizon](https://www.facebook.com/gabrieltizonfotografo/?hc_ref=ARTrlGlOKvb_JwxQe_UfzN56mex3C3AkUMOk_Lq1zDa7uyHdHctbE4gyfVxeiKd5Yoc&fref=nf)](assets/d31cdf4f75ba/1*kZ0P55Sk5_Am5Lppz63ahQ.jpeg)
+![After the storm\. Velika Kladuša\. Photo by [Gabriel Tizon](https://www.facebook.com/gabrieltizonfotografo/?hc_ref=ARTrlGlOKvb_JwxQe_UfzN56mex3C3AkUMOk_Lq1zDa7uyHdHctbE4gyfVxeiKd5Yoc&fref=nf)](../assets/d31cdf4f75ba/1*kZ0P55Sk5_Am5Lppz63ahQ.jpeg)
 
 After the storm\. Velika Kladuša\. Photo by [Gabriel Tizon](https://www.facebook.com/gabrieltizonfotografo/?hc_ref=ARTrlGlOKvb_JwxQe_UfzN56mex3C3AkUMOk_Lq1zDa7uyHdHctbE4gyfVxeiKd5Yoc&fref=nf)
 ### Feature
@@ -27,18 +27,18 @@ Out of over 8\.000 people on the move who are currently in Bosnia, less than 500
 In Bihać, since yesterday around 800 people are crowded in a building that is not safe, has no windows, roof, doors or anything\. Many are sleeping in the surrounding forest area\.
 
 
-![Photo by One Bridge to Idomeni](assets/d31cdf4f75ba/1*PwxOD80X4DbcB3qGTkDbiQ.jpeg)
+![Photo by One Bridge to Idomeni](../assets/d31cdf4f75ba/1*PwxOD80X4DbcB3qGTkDbiQ.jpeg)
 
 Photo by One Bridge to Idomeni
 
 On Monday, state authorities, with no prior agreement with any of the existing organizations, evicted squat where about 200 people lived\. No alternative accommodation is provided for them, but many of them also moved to the Đački dom and forest around\. The UNHCR provided plastic tents, and the Red Cross put mattresses on the ground where people are supposed to sleep now creating the place for about 40 people altogether\.
 
 
-![](assets/d31cdf4f75ba/1*-eHxuQ988MNQNdtdu-INCQ.jpeg)
+![](../assets/d31cdf4f75ba/1*-eHxuQ988MNQNdtdu-INCQ.jpeg)
 
 
 
-![Photos by One Bridge to Idomeni](assets/d31cdf4f75ba/1*ZgZwvLtOn_iW5jT6l4Jgcg.jpeg)
+![Photos by One Bridge to Idomeni](../assets/d31cdf4f75ba/1*ZgZwvLtOn_iW5jT6l4Jgcg.jpeg)
 
 Photos by One Bridge to Idomeni
 
@@ -49,22 +49,22 @@ The others will be simply left out in the open\.
 The situation is even more precarious in Velika Kladuša, the second city close to the border with Croatia, where about 1000 people are staying, and about 400 of them are living in a field area\.
 
 
-![](assets/d31cdf4f75ba/1*8_9nTU_7p6wuxvkcCHMHEQ.jpeg)
+![](../assets/d31cdf4f75ba/1*8_9nTU_7p6wuxvkcCHMHEQ.jpeg)
 
 
 
-![](assets/d31cdf4f75ba/1*9x7TEAdr-Cjxajaz0jzWeg.jpeg)
+![](../assets/d31cdf4f75ba/1*9x7TEAdr-Cjxajaz0jzWeg.jpeg)
 
 
 
-![Photos by No Name Kitchen in Velika Kladuša\.](assets/d31cdf4f75ba/1*WAuZaYLQ8lbN68PTINHTqw.jpeg)
+![Photos by No Name Kitchen in Velika Kladuša\.](../assets/d31cdf4f75ba/1*WAuZaYLQ8lbN68PTINHTqw.jpeg)
 
 Photos by No Name Kitchen in Velika Kladuša\.
 
 The tents they use are made by volunteers, while help is mostly coming from the locals and volunteers in the area\. Over the last couple of days, the weather in this area of Bosnia is very bad, with constant rain\. On Monday, a storm left the catastrophic situation in this camp\.
 
 
-![Photo by SOS Team Kladuša](assets/d31cdf4f75ba/1*XhhCBBJHTxgP0Tvv6YPDqg.jpeg)
+![Photo by SOS Team Kladuša](../assets/d31cdf4f75ba/1*XhhCBBJHTxgP0Tvv6YPDqg.jpeg)
 
 Photo by SOS Team Kladuša
 
@@ -202,7 +202,7 @@ Referring to the last EU summit on migration, Kurz is welcoming an increased num
 As mentioned above, the Austrian officials have a hard stance on migration\. For more details and to sign the call for solidarity, read more here\.
 
 
-![Photo: [Caritas: Wir helfen\.](https://www.facebook.com/caritas.wir.helfen/?hc_ref=ARR9BoVCljB_wMaCgzLmTcFrxITHP0TpwmlCV4uIRkfJ8JfcEdj9QlLKYDJi6M5h-iY&fref=nf)](assets/d31cdf4f75ba/1*qfSGqzgYtT-6tB6__GGQ1Q.jpeg)
+![Photo: [Caritas: Wir helfen\.](https://www.facebook.com/caritas.wir.helfen/?hc_ref=ARR9BoVCljB_wMaCgzLmTcFrxITHP0TpwmlCV4uIRkfJ8JfcEdj9QlLKYDJi6M5h-iY&fref=nf)](../assets/d31cdf4f75ba/1*qfSGqzgYtT-6tB6__GGQ1Q.jpeg)
 
 Photo: [Caritas: Wir helfen\.](https://www.facebook.com/caritas.wir.helfen/?hc_ref=ARR9BoVCljB_wMaCgzLmTcFrxITHP0TpwmlCV4uIRkfJ8JfcEdj9QlLKYDJi6M5h-iY&fref=nf)
 #### **Sweden**
@@ -220,7 +220,7 @@ Previously this year the government gave the municipalities 195 million SEK \(20
 We have no further information about what will happen next for the young man who currently remains in Sweden, but will update as soon as, and if, we know more\.
 
 
-![The deportation of a 19\-year old man was stopped\. Photo: [Welcome To Denmark](https://www.facebook.com/welcome2dk/?hc_ref=ARQRycfTc_ogNKRJyMoHNSwRl-exFa7HJZeViMCC9YAZ8ixuwYoOxEX5y5tsEN-TxtI)](assets/d31cdf4f75ba/1*Xcim53wls6BISOpZMOYsCQ.jpeg)
+![The deportation of a 19\-year old man was stopped\. Photo: [Welcome To Denmark](https://www.facebook.com/welcome2dk/?hc_ref=ARQRycfTc_ogNKRJyMoHNSwRl-exFa7HJZeViMCC9YAZ8ixuwYoOxEX5y5tsEN-TxtI)](../assets/d31cdf4f75ba/1*Xcim53wls6BISOpZMOYsCQ.jpeg)
 
 The deportation of a 19\-year old man was stopped\. Photo: [Welcome To Denmark](https://www.facebook.com/welcome2dk/?hc_ref=ARQRycfTc_ogNKRJyMoHNSwRl-exFa7HJZeViMCC9YAZ8ixuwYoOxEX5y5tsEN-TxtI)
 

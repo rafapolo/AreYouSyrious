@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 28/1/2019: The Odyssee continues
+title: "AYS DAILY DIGEST 28/1/2019: The Odyssee continues"
 author: Are You Syrious?
 date: 2019-01-29T02:59:12.621+0000
 last_modified_at: 2019-01-29T13:21:49.615+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,sea-watch,mediterranean,greece,digest]
 description: Sea Watch 3 left alone for nine days now / Evacuation from Libya and new arrivals in Greece / Spain wants to almost double deportations
 image:
-  path: assets/1f01a9ad72d/1*4r9D4KuTA5sHwDmqAzWP3A.jpeg
+  path: ../assets/1f01a9ad72d/1*4r9D4KuTA5sHwDmqAzWP3A.jpeg
 ---
 
 ### AYS DAILY DIGEST 28/1/2019: The Odyssey continues
 #### Sea Watch 3 left alone for nine days now / Evacuation from Libya and new arrivals in Greece / Spain wants to almost double deportations
 
 
-![One of Sea Watch’s guests\. Credits: [Federico Scoppa](https://twitter.com/federicoscoppa/status/1089861340498485249?s=21&fbclid=IwAR354Kj4DKeGL3uHv9KknNi7GqbPSJ1X2V_d5mOtiWByQbOwQndLDUD1J3E)](assets/1f01a9ad72d/1*4r9D4KuTA5sHwDmqAzWP3A.jpeg)
+![One of Sea Watch’s guests\. Credits: [Federico Scoppa](https://twitter.com/federicoscoppa/status/1089861340498485249?s=21&fbclid=IwAR354Kj4DKeGL3uHv9KknNi7GqbPSJ1X2V_d5mOtiWByQbOwQndLDUD1J3E)](../assets/1f01a9ad72d/1*4r9D4KuTA5sHwDmqAzWP3A.jpeg)
 
 One of Sea Watch’s guests\. Credits: [Federico Scoppa](https://twitter.com/federicoscoppa/status/1089861340498485249?s=21&fbclid=IwAR354Kj4DKeGL3uHv9KknNi7GqbPSJ1X2V_d5mOtiWByQbOwQndLDUD1J3E)
 ### Feature

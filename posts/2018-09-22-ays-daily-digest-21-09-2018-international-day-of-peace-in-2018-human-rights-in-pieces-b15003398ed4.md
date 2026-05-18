@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 21/09/2018: International Day of Peace in 2018, Human Rights in Pieces.
+title: "AYS DAILY DIGEST 21/09/2018: International Day of Peace in 2018, Human Rights in Pieces."
 author: Are You Syrious?
 date: 2018-09-22T10:07:49.071+0100
 last_modified_at: 2018-09-22T21:32:20.020+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,human-rights,migration,volunteering,digest]
 description: The “right to peace” versus the reality // The evacuation of Chios begins with 100 people // over 100 arrive in Greece // New Squat in…
 image:
-  path: assets/b15003398ed4/1*3CIeEv2CNTguLmsXZGTwcg.jpeg
+  path: ../assets/b15003398ed4/1*3CIeEv2CNTguLmsXZGTwcg.jpeg
 ---
 
 ### AYS DAILY DIGEST 21/09/2018: International Day of Peace in 2018, Human Rights in Pieces\.
@@ -15,7 +15,7 @@ image:
 _The “right to peace” versus the reality // The evacuation of Chios begins with 100 people // over 100 arrive in Greece // New Squat in Athens // Everyday Activism: Citizens of Tuzla supporting people in Bosnia // Right\-wingers take to the streets in Germany // Urgent needs in France_
 
 
-![Photo Credit: Gabriel Tizon](assets/b15003398ed4/1*3CIeEv2CNTguLmsXZGTwcg.jpeg)
+![Photo Credit: Gabriel Tizon](../assets/b15003398ed4/1*3CIeEv2CNTguLmsXZGTwcg.jpeg)
 
 Photo Credit: Gabriel Tizon
 ### FEATURE: On International Day of Peace, Human Rights are in Pieces
@@ -29,7 +29,7 @@ The International Day of Peace saw it’s 70th year of “celebration\.” The y
 
 
 
-![Photo Credit: [Federazione del Sociale USB](https://www.facebook.com/FederazionedelSociale/?tn-str=k%2AF&hc_location=group_dialog)](assets/b15003398ed4/1*0l-h3cLsGz1ia7LkePsq7w.jpeg)
+![Photo Credit: [Federazione del Sociale USB](https://www.facebook.com/FederazionedelSociale/?tn-str=k%2AF&hc_location=group_dialog)](../assets/b15003398ed4/1*0l-h3cLsGz1ia7LkePsq7w.jpeg)
 
 Photo Credit: [Federazione del Sociale USB](https://www.facebook.com/FederazionedelSociale/?tn-str=k%2AF&hc_location=group_dialog)
 
@@ -193,7 +193,7 @@ Lifting Hands International needs a new Warehouse Coordinator in Serres\. Please
 People continue arriving to Bosnia from the direction of Serbia and Montenegro\. Some of them are coming from Greece after crossing the land border; some were in Bulgaria or Serbia for a long time, and now want to try one again to reach Europe\. All over Bosnia, citizens are coming out to help \- in small villages, as well as towns and cities\. One of the cities where more and more people are stopping, before continuing to Sarajevo or Bihac, is Tuzla\. People in the city organize through the Facebook page “ [Izbjeglice dobrodošle u Tuzlu](https://www.facebook.com/groups/459851131106164/?__xts__[0]=68.ARBB5UuT5J8Z3qvlsngoe3k22fwJlPJv3mxxASQ93LEh2rWqJRdelwv9RonvVOwxkRDKWsZKZLEesIqfHsoVkbkMEQOwB1uH_jb3kU51TZOhg46fgv9a4_g2jQ4JlrCslaLh5WETF5xZNv2Kw1cz20HPEdvAJXPwcOgc7o3DmbU0wOlGOOeFRA&__tn__=HH-R) ” \(“Refugees welcome to Tuzla”\): they try to provide basic support for those who stop in the town\.
 
 
-![People sleeeping rough in Bosnia](assets/b15003398ed4/1*vlSCsAlYpSN6WUMMtRbJVw.jpeg)
+![People sleeeping rough in Bosnia](../assets/b15003398ed4/1*vlSCsAlYpSN6WUMMtRbJVw.jpeg)
 
 People sleeeping rough in Bosnia
 

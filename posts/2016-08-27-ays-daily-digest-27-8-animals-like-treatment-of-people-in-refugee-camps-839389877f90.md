@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 27/8: Animal-like treatment of people in refugee camps
+title: "AYS DAILY DIGEST 27/8: Animal-like treatment of people in refugee camps"
 author: Are You Syrious?
 date: 2016-08-27T22:49:34.958+0100
 last_modified_at: 2016-08-28T09:50:01.413+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,greece,hungary,police-brutality]
 description: List of all appointments by the Greek Asylum Service released. Government in Greece announced opening of new centers that will have better…
 image:
-  path: assets/839389877f90/1*Ff7VFWM9uaWZf98hkuRREw.jpeg
+  path: ../assets/839389877f90/1*Ff7VFWM9uaWZf98hkuRREw.jpeg
 ---
 
 ### AYS DAILY DIGEST 27/8: Animal\-like treatment of people in refugee camps
@@ -15,7 +15,7 @@ image:
 _List of all appointments by the Greek Asylum Service released\. Government in Greece announced opening of new centers that will have better living conditions, but no details are known to the public\. Meanwhile, more people are arriving to Greece and help is needed\. Police brutality in Hungary continues\. In Macedonia, around 70 people still stacked in Tabanovici with no freedom of movement\._
 
 
-![“No one can take my smile away from me”\. By [Through Refugee Eyes](https://www.facebook.com/throughrefugeeeyes/photos/a.267469110309533.1073741828.266986607024450/321356258254151/?type=3&theater) \.](assets/839389877f90/1*Ff7VFWM9uaWZf98hkuRREw.jpeg)
+![“No one can take my smile away from me”\. By [Through Refugee Eyes](https://www.facebook.com/throughrefugeeeyes/photos/a.267469110309533.1073741828.266986607024450/321356258254151/?type=3&theater) \.](../assets/839389877f90/1*Ff7VFWM9uaWZf98hkuRREw.jpeg)
 
 “No one can take my smile away from me”\. By [Through Refugee Eyes](https://www.facebook.com/throughrefugeeeyes/photos/a.267469110309533.1073741828.266986607024450/321356258254151/?type=3&theater) \.
 ### Greece
@@ -44,7 +44,7 @@ A team of volunteers offers psychological help in some camps in the North and th
 
 
 
-![Softex camp one of the most dangerous camps in Northern Greece, where mafia rules and police and military close their eyes\. Women more than anybody are afraid to walk freely around the camp\. Photo AYS\.](assets/839389877f90/1*3D7qzll1w4WRxTIjJv9FTg.jpeg)
+![Softex camp one of the most dangerous camps in Northern Greece, where mafia rules and police and military close their eyes\. Women more than anybody are afraid to walk freely around the camp\. Photo AYS\.](../assets/839389877f90/1*3D7qzll1w4WRxTIjJv9FTg.jpeg)
 
 Softex camp one of the most dangerous camps in Northern Greece, where mafia rules and police and military close their eyes\. Women more than anybody are afraid to walk freely around the camp\. Photo AYS\.
 ### Distracting attention from real issues
@@ -69,18 +69,18 @@ Their center at Nea Kavala is still up and running\. Recently, the Spanish theat
 
 
 
-![](assets/839389877f90/1*FthDZ56Ov3IMLJfaFlWdaQ.jpeg)
+![](../assets/839389877f90/1*FthDZ56Ov3IMLJfaFlWdaQ.jpeg)
 
 
 
-![Plasters on a wound, but important plasters\. Photo by We Are Here — Community Center\.](assets/839389877f90/1*88rD0MMdIAvXSNE0D9_aSA.jpeg)
+![Plasters on a wound, but important plasters\. Photo by We Are Here — Community Center\.](../assets/839389877f90/1*88rD0MMdIAvXSNE0D9_aSA.jpeg)
 
 Plasters on a wound, but important plasters\. Photo by We Are Here — Community Center\.
 
 A new issue of Rumors is out
 
 
-![](assets/839389877f90/1*dc9Mqdjpk9mwbzcjBtvBAQ.jpeg)
+![](../assets/839389877f90/1*dc9Mqdjpk9mwbzcjBtvBAQ.jpeg)
 
 
 To access in other languages, go [here](https://drive.google.com/drive/folders/0Byu3WazuFNLidHhVdGhKNEc1eHM) \.
@@ -89,18 +89,18 @@ To access in other languages, go [here](https://drive.google.com/drive/folders/0
 [Soul Food Kitchen](https://www.facebook.com/dirtybunch/?fref=ts) is a new project in Thessaloniki area that Are Your Syrious supported, together with [The Distant Horizon](https://www.facebook.com/thedistanthorizon/?fref=ts) group from Sarajevo, Bosnia, [Graz Spendenkonvoi](https://www.facebook.com/groups/1706328169613315/) , Austria, Catch a Smile from Luxembourg, and many others are helping\. It aims to bring food for about 250–400 people who are sleeping in parks, being refugees or homeless people\. They also provide water and necessities\.
 
 
-![Park near Thessaloniki train station, people waiting for food\. Photo AYS\.](assets/839389877f90/1*P4edfhDhYbjfsFmvJ_PhUw.jpeg)
+![Park near Thessaloniki train station, people waiting for food\. Photo AYS\.](../assets/839389877f90/1*P4edfhDhYbjfsFmvJ_PhUw.jpeg)
 
 Park near Thessaloniki train station, people waiting for food\. Photo AYS\.
 
 The cook is Pixi, a long\-term volunteer, who is cooking on Balkan Route since Sept 2015\. He cooked in Croatia, Serbia, Eko camp and Idomeni, and helped to establish and cooked in the Kalochori community kitchen\.
 
 
-![](assets/839389877f90/1*e_-_rCr0nX-DtJnswDtbBg.jpeg)
+![](../assets/839389877f90/1*e_-_rCr0nX-DtJnswDtbBg.jpeg)
 
 
 
-![Photo by Soul Food Kitchen\.](assets/839389877f90/1*G7KPhxlzR6njp7gqnxtkYQ.jpeg)
+![Photo by Soul Food Kitchen\.](../assets/839389877f90/1*G7KPhxlzR6njp7gqnxtkYQ.jpeg)
 
 Photo by Soul Food Kitchen\.
 
@@ -203,11 +203,11 @@ Not many, but still significant numbers of people gathered today in London, Traf
 
 
 
-![](assets/839389877f90/1*zPh3dOYPpd5Mpr1PVYcZ1Q.jpeg)
+![](../assets/839389877f90/1*zPh3dOYPpd5Mpr1PVYcZ1Q.jpeg)
 
 
 
-![](assets/839389877f90/1*E6boQMUXAbRDkv25dg1UJg.jpeg)
+![](../assets/839389877f90/1*E6boQMUXAbRDkv25dg1UJg.jpeg)
 
 ### GENERAL
 #### Calls for protests
@@ -231,7 +231,7 @@ Mass demonstrations are announced for August 29, at 18\.00 at Propylaea in Athen
 Meanwhile, in Australia thousands of people marched in solidarity with refugees\.
 
 
-![](assets/839389877f90/1*ZrLQXTiliL7rVP4MIYMTFg.jpeg)
+![](../assets/839389877f90/1*ZrLQXTiliL7rVP4MIYMTFg.jpeg)
 
 
 

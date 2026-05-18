@@ -7,13 +7,13 @@ categories:
 tags: [syria,refugees]
 description: SYRIA
 image:
-  path: assets/377dfdeb755c/1*ot9CxorzScY4vq6f5jZkcg.jpeg
+  path: ../assets/377dfdeb755c/1*ot9CxorzScY4vq6f5jZkcg.jpeg
 ---
 
 ### AYS DAILY NEWS DIGEST 6\.5\.2016\.
 
 
-![Credits: The Flying Seagull Project](assets/377dfdeb755c/1*ot9CxorzScY4vq6f5jZkcg.jpeg)
+![Credits: The Flying Seagull Project](../assets/377dfdeb755c/1*ot9CxorzScY4vq6f5jZkcg.jpeg)
 
 Credits: The Flying Seagull Project
 #### SYRIA
@@ -33,7 +33,7 @@ Credits: The Flying Seagull Project
 
 
 
-![Credits: Anadolu Agency](assets/377dfdeb755c/1*zRpS4xY67TJh6tsPTZVjEA.jpeg)
+![Credits: Anadolu Agency](../assets/377dfdeb755c/1*zRpS4xY67TJh6tsPTZVjEA.jpeg)
 
 Credits: Anadolu Agency
 ### Prison Siege in Hama
@@ -64,7 +64,7 @@ Credits: Anadolu Agency
 
 
 
-![Credits: The Independent](assets/377dfdeb755c/1*UrNcyXv3rMtO0ytIi10A3Q.jpeg)
+![Credits: The Independent](../assets/377dfdeb755c/1*UrNcyXv3rMtO0ytIi10A3Q.jpeg)
 
 Credits: The Independent
 #### JORDAN
@@ -158,17 +158,17 @@ Credits: The Independent
 
 
 
-![Credits: The Flying Seagull Project](assets/377dfdeb755c/1*ZdZZ1QTelVckFdj9sMvwnQ.jpeg)
+![Credits: The Flying Seagull Project](../assets/377dfdeb755c/1*ZdZZ1QTelVckFdj9sMvwnQ.jpeg)
 
 Credits: The Flying Seagull Project
 
 
-![Credits: The Flying Seagull Project](assets/377dfdeb755c/1*lrb6vm-FVZant0CdZ1w00A.jpeg)
+![Credits: The Flying Seagull Project](../assets/377dfdeb755c/1*lrb6vm-FVZant0CdZ1w00A.jpeg)
 
 Credits: The Flying Seagull Project
 
 
-![Credits: The Flying Seagull Project](assets/377dfdeb755c/1*WyfdGwFyj2AeA_QyxbiEag.jpeg)
+![Credits: The Flying Seagull Project](../assets/377dfdeb755c/1*WyfdGwFyj2AeA_QyxbiEag.jpeg)
 
 Credits: The Flying Seagull Project
 ### Greek Entrepreneur Couple Starts First Free Refugee School in Athens
@@ -187,7 +187,7 @@ Credits: The Flying Seagull Project
 
 
 
-[![The First Refugee School In Athens](assets/377dfdeb755c/b35b_hqdefault.jpg "The First Refugee School In Athens")](https://www.youtube.com/watch?v=mTHrgiiQaPU)
+[![The First Refugee School In Athens](../assets/377dfdeb755c/b35b_hqdefault.jpg "The First Refugee School In Athens")](https://www.youtube.com/watch?v=mTHrgiiQaPU)
 
 ### Interview with S\. who is living in the camp in Chalkero
 
@@ -218,17 +218,17 @@ Credits: The Flying Seagull Project
 ### SpiderMan caps for the kids to protect them from the sun
 
 
-![Credits: Team Humanity](assets/377dfdeb755c/1*o3vQqWAYpi61arSC0YFcMw.jpeg)
+![Credits: Team Humanity](../assets/377dfdeb755c/1*o3vQqWAYpi61arSC0YFcMw.jpeg)
 
 Credits: Team Humanity
 
 
-![Credits: Team Humanity](assets/377dfdeb755c/1*-KtNKrz-7wFHrwj-zFrlDw.jpeg)
+![Credits: Team Humanity](../assets/377dfdeb755c/1*-KtNKrz-7wFHrwj-zFrlDw.jpeg)
 
 Credits: Team Humanity
 
 
-![Credits: Team Humanity](assets/377dfdeb755c/1*Z-hDliHy9BKmlBYt_rvkbQ.jpeg)
+![Credits: Team Humanity](../assets/377dfdeb755c/1*Z-hDliHy9BKmlBYt_rvkbQ.jpeg)
 
 Credits: Team Humanity
 #### BULGARIA
@@ -271,11 +271,11 @@ Credits: Team Humanity
 
 
 
-![](assets/377dfdeb755c/1*GTJduVvbRWKrTIZ0HdHxVw.png)
+![](../assets/377dfdeb755c/1*GTJduVvbRWKrTIZ0HdHxVw.png)
 
 
 
-![Credits: Refugee Aid Serbia](assets/377dfdeb755c/1*lkV_NDCotcMD8X6p-ZZMqg.jpeg)
+![Credits: Refugee Aid Serbia](../assets/377dfdeb755c/1*lkV_NDCotcMD8X6p-ZZMqg.jpeg)
 
 Credits: Refugee Aid Serbia
 #### SLOVENIA
@@ -343,7 +343,7 @@ Credits: Refugee Aid Serbia
 
 
 
-![Credits: End Detention Now movement](assets/377dfdeb755c/1*Y6mTuFzpp3k1rRNtbIODrA.jpeg)
+![Credits: End Detention Now movement](../assets/377dfdeb755c/1*Y6mTuFzpp3k1rRNtbIODrA.jpeg)
 
 Credits: End Detention Now movement
 

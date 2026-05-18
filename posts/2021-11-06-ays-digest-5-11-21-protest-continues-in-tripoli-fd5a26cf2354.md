@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,libya,mediterranean,refugees,europe]
 description: Group of Palestinians disappeared in Greece / Deaths at Evros and on Crete / People Missing in the Aegean / MEP at pushback site
 image:
-  path: assets/fd5a26cf2354/1*M2261AF29M656Nw3YYrTNg.jpeg
+  path: ../assets/fd5a26cf2354/1*M2261AF29M656Nw3YYrTNg.jpeg
 ---
 
 ### AYS Digest 5/11/21 — Protest Continues in Tripoli
@@ -15,7 +15,7 @@ image:
 Group of Palestinians disappeared in Greece / Deaths at Evros and on Crete / People Missing in the Aegean / MEP witnesses attempted pushback / Arrivals in Rome / Tension at Poland\-Belarus border / Lithuania starts border fence build / Montenegro will not take Afghanis / Protests in Germany / Deaths in Calais / Syrian returnees report torture / Violent evictions in DK and more…
 
 
-![FRANCE: Tuesday, 552 tents were distributed in Calais by 6 associations\. However, since the beginning of the year, HRO has already observed the seizing and destruction of at least 5,855 tents and tarpaulins by French authorities\. How long will the absurdity of this situation last? \(Photo and info by: [Human Rights Observers](https://twitter.com/HumanRightsObs/status/1456607517216317446) \)](assets/fd5a26cf2354/1*M2261AF29M656Nw3YYrTNg.jpeg)
+![FRANCE: Tuesday, 552 tents were distributed in Calais by 6 associations\. However, since the beginning of the year, HRO has already observed the seizing and destruction of at least 5,855 tents and tarpaulins by French authorities\. How long will the absurdity of this situation last? \(Photo and info by: [Human Rights Observers](https://twitter.com/HumanRightsObs/status/1456607517216317446) \)](../assets/fd5a26cf2354/1*M2261AF29M656Nw3YYrTNg.jpeg)
 
 FRANCE: Tuesday, 552 tents were distributed in Calais by 6 associations\. However, since the beginning of the year, HRO has already observed the seizing and destruction of at least 5,855 tents and tarpaulins by French authorities\. How long will the absurdity of this situation last? \(Photo and info by: [Human Rights Observers](https://twitter.com/HumanRightsObs/status/1456607517216317446) \)
 #### FEATURE: Protest continues in Tripoli
@@ -180,7 +180,7 @@ GERMANY
 #### Seebrücke demonstration Sunday on the German/Polish border
 
 
-![[BUILD BRIDGES NOT FENCES\!](https://www.facebook.com/SeebrueckeSchafftsichereHaefen/photos/a.646401742398679/1510484679323710/) After finding a way across Poland in the increasingly cold temperatures, people on the move encounter a climate of hostility in Germany\. Fascist and far\-right groups are mobilising to use violence against fleeing people and prevent them from crossing the border\. Now the AfD wants to hold a hostile rally directly at the border in Frankfurt \(Oder\) this coming Sunday\. We must oppose the AfD\! Come to Frankfurt \(Oder\) on Sunday to make a statement in favour of an open society and oppose the hatred of the AfD\. Our solidarity against their hate\! Tear down fortress Europe\!](assets/fd5a26cf2354/1*yjnoag6_ZowwJa5Cjwxe1g.jpeg)
+![[BUILD BRIDGES NOT FENCES\!](https://www.facebook.com/SeebrueckeSchafftsichereHaefen/photos/a.646401742398679/1510484679323710/) After finding a way across Poland in the increasingly cold temperatures, people on the move encounter a climate of hostility in Germany\. Fascist and far\-right groups are mobilising to use violence against fleeing people and prevent them from crossing the border\. Now the AfD wants to hold a hostile rally directly at the border in Frankfurt \(Oder\) this coming Sunday\. We must oppose the AfD\! Come to Frankfurt \(Oder\) on Sunday to make a statement in favour of an open society and oppose the hatred of the AfD\. Our solidarity against their hate\! Tear down fortress Europe\!](../assets/fd5a26cf2354/1*yjnoag6_ZowwJa5Cjwxe1g.jpeg)
 
 [BUILD BRIDGES NOT FENCES\!](https://www.facebook.com/SeebrueckeSchafftsichereHaefen/photos/a.646401742398679/1510484679323710/) After finding a way across Poland in the increasingly cold temperatures, people on the move encounter a climate of hostility in Germany\. Fascist and far\-right groups are mobilising to use violence against fleeing people and prevent them from crossing the border\. Now the AfD wants to hold a hostile rally directly at the border in Frankfurt \(Oder\) this coming Sunday\. We must oppose the AfD\! Come to Frankfurt \(Oder\) on Sunday to make a statement in favour of an open society and oppose the hatred of the AfD\. Our solidarity against their hate\! Tear down fortress Europe\!
 

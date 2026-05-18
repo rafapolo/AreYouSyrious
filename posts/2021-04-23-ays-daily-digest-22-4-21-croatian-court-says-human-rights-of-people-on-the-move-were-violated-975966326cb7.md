@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 22/4/21: Croatian court says human rights of people-on-the-move were violated
+title: "AYS Daily Digest 22/4/21: Croatian court says human rights of people-on-the-move were violated"
 author: Are You Syrious?
 date: 2021-04-23T10:27:50.933+0100
 last_modified_at: 2021-04-23T10:27:50.933+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,migration,search-and-rescue,asylum]
 description: 130 lives lost at sea // Reports on pushbacks from Greece // Mobilizations in Italy // On-the-ground report from Serbia // Last relocation…
 image:
-  path: assets/975966326cb7/1*SXUuCMd5n7tTngumiGX68w.jpeg
+  path: ../assets/975966326cb7/1*SXUuCMd5n7tTngumiGX68w.jpeg
 ---
 
 ### AYS Daily Digest 22/4/21: Croatian court says human rights of people\-on\-the\-move were violated
@@ -15,7 +15,7 @@ image:
 ### FEATURE: Constitutional Court of Croatia rules in favor of family of little girl killed by train, saying their human rights were violated
 
 
-![A comic depicting the events that led to Madina’s death on the night of November 21, 2017 \( [Center for Peace Studies](http://welcome.cms.hr/index.php/2020/11/20/poziv-dan-madine-hussiny-pravdazamadinu/) \)](assets/975966326cb7/1*SXUuCMd5n7tTngumiGX68w.jpeg)
+![A comic depicting the events that led to Madina’s death on the night of November 21, 2017 \( [Center for Peace Studies](http://welcome.cms.hr/index.php/2020/11/20/poziv-dan-madine-hussiny-pravdazamadinu/) \)](../assets/975966326cb7/1*SXUuCMd5n7tTngumiGX68w.jpeg)
 
 A comic depicting the events that led to Madina’s death on the night of November 21, 2017 \( [Center for Peace Studies](http://welcome.cms.hr/index.php/2020/11/20/poziv-dan-madine-hussiny-pravdazamadinu/) \)
 
@@ -63,7 +63,7 @@ Of course, in the years since Avramopoulos’ response, not much has changed, an
 #### 130 human lives lost in the Central Mediterranean
 
 
-![Flavio Gasperini / SOS MEDITERRANEE](assets/975966326cb7/1*7W3xZdQZxEwWUWvGLvkKcg.png)
+![Flavio Gasperini / SOS MEDITERRANEE](../assets/975966326cb7/1*7W3xZdQZxEwWUWvGLvkKcg.png)
 
 Flavio Gasperini / SOS MEDITERRANEE
 

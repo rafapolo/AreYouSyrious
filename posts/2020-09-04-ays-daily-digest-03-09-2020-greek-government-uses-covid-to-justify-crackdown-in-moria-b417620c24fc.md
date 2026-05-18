@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: []
 description: Sea-Watch 4 in Quarantine in Palermo///Greek Minister of Shipping Admits to “Preventing Entry” of People on the Move///Protest in Sicilian…
 image:
-  path: assets/b417620c24fc/0*HrHkMuNLgWVVnt7K
+  path: ../assets/b417620c24fc/0*HrHkMuNLgWVVnt7K
 ---
 
 ### AYS Daily Digest 03/09/2020 — Greek Government Uses COVID to Justify Crackdown in Moria
@@ -18,7 +18,7 @@ image:
 [Sep 3](ays-daily-digest-03-09-2020-greek-government-uses-covid-to-excuse-crackdown-in-moria-10e5116ef30c?source=post_page-----10e5116ef30c----------------------) · 10 min read
 
 
-![](assets/b417620c24fc/0*HrHkMuNLgWVVnt7K)
+![](../assets/b417620c24fc/0*HrHkMuNLgWVVnt7K)
 
 
 A drawing of life in Moria\. From [Dunya Collective](https://www.facebook.com/DunyaCollective/posts/116800380149100)
@@ -80,7 +80,7 @@ The Hungarian government’s racist propaganda machine has turned its sights on 
 There is [an ongoing protest](https://palermo.repubblica.it/cronaca/2020/09/03/news/siculiana_protesta_dei_migranti_al_centro_di_accoglienza_alcuni_fuggono_sulla_statale-266152362/?fbclid=IwAR1SsW1_ErYPJxJSz_v0XNUw_aCzQKf11xwzZCLF3fY7f19lFV7PYVjzRmg) in the reception center “Villa Sikania” in the Sicilian town of Siculiana\. People are protesting against overcrowded conditions in the center, which is also badly in need of repairs; not even its [broken windows](http://www.mediterraneocronaca.it/2020/09/03/siculiana-villa-sikania-di-nuovo-nella-bufera-per-una-rivolta-foto-e-video/?fbclid=IwAR1vruRKh47CZuAp9vcCqw4jVH_gHxVubG-q74Q0B_3sK9yJZvLrCR0SOhU) were fixed before people were moved in a few months ago\. Many people have climbed onto the roof or fled from the center\. There are more and more police and carabinieri on the scene — hopefully they will not use excessive violence against the protesters\.
 
 
-![](assets/b417620c24fc/0*nurDHifyfW-_E5l7.jpg)
+![](../assets/b417620c24fc/0*nurDHifyfW-_E5l7.jpg)
 
 
 Protest in Villa Sikania\. Photographer: Alessio Tricani Source: [Mediterraneo Cronaca](http://www.mediterraneocronaca.it/2020/09/03/siculiana-villa-sikania-di-nuovo-nella-bufera-per-una-rivolta-foto-e-video/?fbclid=IwAR1vruRKh47CZuAp9vcCqw4jVH_gHxVubG-q74Q0B_3sK9yJZvLrCR0SOhU)

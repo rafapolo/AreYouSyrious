@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest: 21/05/20: Hungarian Transit Zones closed
+title: "AYS Daily Digest: 21/05/20: Hungarian Transit Zones closed"
 author: Are You Syrious?
 date: 2020-05-22T22:27:25.024+0100
 last_modified_at: 2020-05-22T22:27:25.024+0100

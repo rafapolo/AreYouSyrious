@@ -1,5 +1,5 @@
 ---
-title: AYS Special from Greece: Protests on Samos CCAC shed light on procedural violations
+title: "AYS Special from Greece: Protests on Samos CCAC shed light on procedural violations"
 author: Are You Syrious?
 date: 2022-10-02T09:37:00.984+0100
 last_modified_at: 2022-10-02T09:37:00.984+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [special,greece,samos,asylum-seekers,european-union]
 description: On Monday 5th September, asylum seekers in the EU-funded Closed Control Access Centre (CCAC) on Samos held a protest against their…
 image:
-  path: assets/d5e7bf509c40/1*bfUoqebzHSq1R_F_rYN87A.png
+  path: ../assets/d5e7bf509c40/1*bfUoqebzHSq1R_F_rYN87A.png
 ---
 
 ### AYS Special from Greece: **Protests on Samos CCAC shed light on procedural violations**
 #### On Monday 5th September, asylum seekers in the EU\-funded Closed Control Access Centre \(CCAC\) on Samos held a protest against their treatment by the Greek authorities\. Holding a banner that reads “Samos Camp — There is no Human Rights \#saynorejections” the group demanded their human rights be respected, which includes having their claims for asylum fairly considered\.
 
 
-![](assets/d5e7bf509c40/1*bfUoqebzHSq1R_F_rYN87A.png)
+![](../assets/d5e7bf509c40/1*bfUoqebzHSq1R_F_rYN87A.png)
 
 
 The protest was sparked by the Greek authorities issuing, in one day, 40 rejections of the asylum claims of 40 people held in the CCAC, most of whom are from Sierra Leone\.
@@ -34,7 +34,7 @@ The [EU Asylum Procedure Directive \(2013/32/EU\)](https://home-affairs.ec.europ
 Such procedural rights are **essential to ensure fair access to asylum** \. In particular, the Directive requires that each asylum seeker undergo an assessment to determine possible vulnerabilities \( [Directive \(2013/32/EU\)](https://home-affairs.ec.europa.eu/policies/migration-and-asylum/common-european-asylum-system/asylum-procedures_en) [Art\. 8 and 24](https://home-affairs.ec.europa.eu/policies/migration-and-asylum/common-european-asylum-system/asylum-procedures_en) \), and where such vulnerabilities are identified, applicants are entitled to “special procedural guarantees” \( [Directive \(2013/32/EU\)](https://home-affairs.ec.europa.eu/policies/migration-and-asylum/common-european-asylum-system/asylum-procedures_en) [Art\. 24 \(3\)](https://home-affairs.ec.europa.eu/policies/migration-and-asylum/common-european-asylum-system/asylum-procedures_en) \) \.
 
 
-![](assets/d5e7bf509c40/1*fX27gwFSkw-DoF74TPivsA.png)
+![](../assets/d5e7bf509c40/1*fX27gwFSkw-DoF74TPivsA.png)
 
 
 On [Samos](https://medium.com/are-you-syrious/search?q=samos) , as on all the five Greek ‘hotspot islands’ \(Lesvos, Samos, Chios, Leros, Rhodes and Kos\), the so\-called “fast track procedure” is applied\. This procedure aims at issuing decisions in a short period of time\. It has been [heavily criticised](https://asylumineurope.org/reports/country/greece/asylum-procedure/procedures/fast-track-border-procedure-eastern-aegean/) for resulting in violations of asylum seekers’ procedural rights\. Over the past weeks the already shortened “fast track border procedure” on Samos has been further accelerated, with severe consequences for applicants, as procedural protections, which are essential to a fair asylum system, are being eroded and passed over in favour of rapid decisions\.
@@ -95,7 +95,7 @@ By not providing the legally required interview conditions and by pressuring asy
 **This systematic violation of the procedural rights of applicants is another step towards undermining the rights of asylum seekers** in the CCAC on Samos\. By denying access to information and counselling, proper assessment of vulnerability and interview conditions that allow asylum seekers to fully present their claim, the Greek authorities are creating unlawful obstacles to fair access to asylum\.
 
 
-![](assets/d5e7bf509c40/1*AIqyj5EXnj1YWCe22j8jow.png)
+![](../assets/d5e7bf509c40/1*AIqyj5EXnj1YWCe22j8jow.png)
 
 
 Protests in the camp are an example of asylum seekers standing up for their right to be heard and their right to asylum\. IHR condemns the increasing procedural violations and stands in solidarity with those demanding fair access to asylum\.

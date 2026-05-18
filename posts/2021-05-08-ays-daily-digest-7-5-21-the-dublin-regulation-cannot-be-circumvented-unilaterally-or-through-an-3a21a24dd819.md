@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 7/5/21: The Dublin Regulation cannot be circumvented unilaterally or through an…
+title: "AYS Daily Digest 7/5/21: The Dublin Regulation cannot be circumvented unilaterally or through an…"
 author: Are You Syrious?
 date: 2021-05-08T15:33:35.129+0100
 last_modified_at: 2021-05-08T17:42:32.334+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,europe,human-rights,germany]
 description: German court says recently popular bilateral deals can’t work for ad hoc deportations / New arrival points in Italy / From poor to worse —…
 image:
-  path: assets/3a21a24dd819/1*Z-Se20Py1fPz25v4WISH7g.jpeg
+  path: ../assets/3a21a24dd819/1*Z-Se20Py1fPz25v4WISH7g.jpeg
 ---
 
 ### AYS Daily Digest 7/5/21: The Dublin Regulation cannot be circumvented unilaterally or through an agreement between two member states, court says
 #### German court says recently popular bilateral deals can’t work for ad hoc deportations / New arrival points in Italy / From poor to worse — Greek reception management / Joint statement by Syrian NGOs rejecting Denmark’s decision to revoke residency permits of Syrian refugees / recommended reads and more
 
 
-![Paris police \(Photo: Alexandra Henry\)](assets/3a21a24dd819/1*Z-Se20Py1fPz25v4WISH7g.jpeg)
+![Paris police \(Photo: Alexandra Henry\)](../assets/3a21a24dd819/1*Z-Se20Py1fPz25v4WISH7g.jpeg)
 
 Paris police \(Photo: Alexandra Henry\)
 #### FEATURED
@@ -60,7 +60,7 @@ A group of people landed on the coast of Menfi, but reportedly there was no trac
 The population at the new site has continued to grow over the last two weeks, with new arrivals every day, [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?__cft__[0]=AZVIImO0E5sULOA3XIm7xQhGUiVFteobXPlu_DcJr_-yps-Za3Z4ZtxofNwZW7unAwD-1lD3xZzroBFjLL4_p3XJ1gtHoHMJL_DMbtKlJ3cmnf2qAp-xdumhJx_hZDJd1jwbdVQI7exh3-1LQZJU5xpy&__tn__=-UC%2CP-R) reports\.
 
 
-![Photos: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?__cft__[0]=AZVIImO0E5sULOA3XIm7xQhGUiVFteobXPlu_DcJr_-yps-Za3Z4ZtxofNwZW7unAwD-1lD3xZzroBFjLL4_p3XJ1gtHoHMJL_DMbtKlJ3cmnf2qAp-xdumhJx_hZDJd1jwbdVQI7exh3-1LQZJU5xpy&__tn__=-UC%2CP-R)](assets/3a21a24dd819/0*B_zwroHZXpYfCES1)
+![Photos: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?__cft__[0]=AZVIImO0E5sULOA3XIm7xQhGUiVFteobXPlu_DcJr_-yps-Za3Z4ZtxofNwZW7unAwD-1lD3xZzroBFjLL4_p3XJ1gtHoHMJL_DMbtKlJ3cmnf2qAp-xdumhJx_hZDJd1jwbdVQI7exh3-1LQZJU5xpy&__tn__=-UC%2CP-R)](../assets/3a21a24dd819/0*B_zwroHZXpYfCES1)
 
 Photos: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?__cft__[0]=AZVIImO0E5sULOA3XIm7xQhGUiVFteobXPlu_DcJr_-yps-Za3Z4ZtxofNwZW7unAwD-1lD3xZzroBFjLL4_p3XJ1gtHoHMJL_DMbtKlJ3cmnf2qAp-xdumhJx_hZDJd1jwbdVQI7exh3-1LQZJU5xpy&__tn__=-UC%2CP-R)
 
@@ -69,11 +69,11 @@ Although time\-consuming, this method is easy to understand and fair, while stil
 With summer now around the corner and the chance of receiving festival salvage still uncertain, we are once again trying to stockpile tents in preparation for the yearly surge in numbers\.
 
 
-![](assets/3a21a24dd819/0*x7WNrz7OXXxrLkQH)
+![](../assets/3a21a24dd819/0*x7WNrz7OXXxrLkQH)
 
 
 
-![](assets/3a21a24dd819/0*BIlMQAKRElgL_0tE)
+![](../assets/3a21a24dd819/0*BIlMQAKRElgL_0tE)
 
 ### Intentional complicity in **destruction, degradation and deterioration of property**
 
@@ -94,11 +94,11 @@ It is based on dozens of testimonies \(elected officials, asylum seekers and vol
 
 
 
-![](assets/3a21a24dd819/0*pPfQPS4n7e6xf2nP)
+![](../assets/3a21a24dd819/0*pPfQPS4n7e6xf2nP)
 
 
 
-![During the fourth occupation demanding housing for people on the move in Paris, the main issue of the French asylum system was addressed, as we reported in yesterday’s Daily News Digest\. “No asylum without dignified reception\!” — action by [Utopia 56 Paris et Ile\-de\-France](https://www.facebook.com/U56ParisIDF/?__cft__[0]=AZXM5mYe3bv5hmUH-JvFGhp8f0mQdLQOvdBJnr-xdGeFdaW5k2NbtRaQpdZueXuThDJ6R5pYn1QQ0xo56J2D5rPtBvo-msVQXgQ-QgvA4DiSS-ONWeLOzDeK8OoUZv4kMQvQG0fHCrom5DC_6WRRZKw3&__tn__=-UC%2CP-R)](assets/3a21a24dd819/0*jUWIJHlUonM7TjtF)
+![During the fourth occupation demanding housing for people on the move in Paris, the main issue of the French asylum system was addressed, as we reported in yesterday’s Daily News Digest\. “No asylum without dignified reception\!” — action by [Utopia 56 Paris et Ile\-de\-France](https://www.facebook.com/U56ParisIDF/?__cft__[0]=AZXM5mYe3bv5hmUH-JvFGhp8f0mQdLQOvdBJnr-xdGeFdaW5k2NbtRaQpdZueXuThDJ6R5pYn1QQ0xo56J2D5rPtBvo-msVQXgQ-QgvA4DiSS-ONWeLOzDeK8OoUZv4kMQvQG0fHCrom5DC_6WRRZKw3&__tn__=-UC%2CP-R)](../assets/3a21a24dd819/0*jUWIJHlUonM7TjtF)
 
 During the fourth occupation demanding housing for people on the move in Paris, the main issue of the French asylum system was addressed, as we reported in yesterday’s Daily News Digest\. “No asylum without dignified reception\!” — action by [Utopia 56 Paris et Ile\-de\-France](https://www.facebook.com/U56ParisIDF/?__cft__[0]=AZXM5mYe3bv5hmUH-JvFGhp8f0mQdLQOvdBJnr-xdGeFdaW5k2NbtRaQpdZueXuThDJ6R5pYn1QQ0xo56J2D5rPtBvo-msVQXgQ-QgvA4DiSS-ONWeLOzDeK8OoUZv4kMQvQG0fHCrom5DC_6WRRZKw3&__tn__=-UC%2CP-R)
 

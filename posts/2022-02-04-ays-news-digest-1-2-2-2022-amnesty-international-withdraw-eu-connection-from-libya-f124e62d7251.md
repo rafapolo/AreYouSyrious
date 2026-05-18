@@ -1,13 +1,13 @@
 ---
-title: AYS News Digest: 1–2.2.2022 Amnesty International: Withdraw EU connection from Libya
+title: "AYS News Digest: 1–2.2.2022 Amnesty International: Withdraw EU connection from Libya"
 author: Are You Syrious?
 date: 2022-02-04T13:30:50.747+0000
 last_modified_at: 2022-02-04T13:30:50.747+0000
 categories: Are You Syrious?
 tags: [digest,eu,human-rights,libya]
-description: Amnesty International: Drop charges against El Hiblu 3 // Twelve people found dead at the Greek/Turkish border // 48 people have arrived in…
+description: "Amnesty International: Drop charges against El Hiblu 3 // Twelve people found dead at the Greek/Turkish border // 48 people have arrived in…"
 image:
-  path: assets/f124e62d7251/0*TPZ8sxdjxbhInCM6.png
+  path: ../assets/f124e62d7251/0*TPZ8sxdjxbhInCM6.png
 ---
 
 ### AYS News Digest: 1–2\.2\.2022 Amnesty International: Withdraw EU connection from Libya
@@ -15,11 +15,11 @@ image:
 ### FEATURE
 
 
-![](assets/f124e62d7251/0*MDdgk5RNXWEmE0uv)
+![](../assets/f124e62d7251/0*MDdgk5RNXWEmE0uv)
 
 
 
-![](assets/f124e62d7251/0*TPZ8sxdjxbhInCM6.png)
+![](../assets/f124e62d7251/0*TPZ8sxdjxbhInCM6.png)
 
 ### Amnesty International: Withdraw EU connection from Libya
 
@@ -104,7 +104,7 @@ Footage of [evictions in Calais](https://twitter.com/HumanRightsObs/status/14884
 ### [£1\.2 million is being spent every day on housing people in hotels](https://www.independent.co.uk/news/uk/home-news/asylum-seeker-hotels-refugees-afghanistan-b2005910.html?fbclid=IwAR1DYrZR09lgoDLQEqgjcoUAbE0q2FoWbwAD156Qomv8mmas1vH5fp2M8Cg) \.
 
 
-![](assets/f124e62d7251/0*QmzXWs3h9LvLUUPL)
+![](../assets/f124e62d7251/0*QmzXWs3h9LvLUUPL)
 
 
 Photo Credit: [Freemovement](https://twitter.com/ColinYeo1/status/1488897749714092034?fbclid=IwAR2CADR9Pb6iizKPWA0yTbzVMQnZLjc5G1X91FDx8XcuQRnRvDXJkxJL5M8)

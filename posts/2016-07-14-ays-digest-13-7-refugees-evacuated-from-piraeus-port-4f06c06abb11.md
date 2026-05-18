@@ -1,13 +1,13 @@
 ---
-title: AYS Digest 13/7: Refugees evacuated from Piraeus port
+title: "AYS Digest 13/7: Refugees evacuated from Piraeus port"
 author: Are You Syrious?
 date: 2016-07-14T03:29:17.433+0100
 last_modified_at: 2016-07-14T07:37:32.737+0100
 categories: 
 tags: [refugees,europe,leros,piraeus-port]
-description: In today’s digest: The EU decides on a new resettlement framework and harmonization of asylum rules. At least four people died, including…
+description: "In today’s digest: The EU decides on a new resettlement framework and harmonization of asylum rules. At least four people died, including…"
 image:
-  path: assets/4f06c06abb11/0*1Nz23_pHdzrLehuP.
+  path: ../assets/4f06c06abb11/0*1Nz23_pHdzrLehuP.
 ---
 
 ### AYS Digest 13/7: Refugees evacuated from Piraeus port
@@ -41,7 +41,7 @@ The proposal also wants to standardize conditions at reception facilities by mak
 
 ![This is Bahar, she is 91 and traveled from Iraq to Greece\. 
  She wants to rejoin her daughter in Germany\. Photo and text by 
-María Serrano Martin\.](assets/4f06c06abb11/0*1Nz23_pHdzrLehuP.)
+María Serrano Martin\.](../assets/4f06c06abb11/0*1Nz23_pHdzrLehuP.)
 
 This is Bahar, she is 91 and traveled from Iraq to Greece\. 
  She wants to rejoin her daughter in Germany\. Photo and text by 
@@ -52,32 +52,32 @@ María Serrano Martin\.
 Today around around 1am, a three meter wooden boat left Turkey for Lesvos and flipped 45 min later on the Greek side of the border because of high waves\. People swam for over 8h until they got rescued by a boat\. The boat had 13 people on it and six people were rescued, while one family of four died, including a four year old girl and a young boy\. Only two people on the boat had a life vest and three men are still missing\. One boat with 25 people was picked up off the north east coast and brought into Mitilini harbor and one boat with 45 people was able to land safely in the South of Lesvos\.
 
 
-![More than 45 Syrian refugees safely landed on Katia Beach in South Lesvos this morning\. Photo by ERCI](assets/4f06c06abb11/0*_PfO9kWwi4jtLRyR.)
+![More than 45 Syrian refugees safely landed on Katia Beach in South Lesvos this morning\. Photo by ERCI](../assets/4f06c06abb11/0*_PfO9kWwi4jtLRyR.)
 
 More than 45 Syrian refugees safely landed on Katia Beach in South Lesvos this morning\. Photo by ERCI
 
 
-![More than 45 Syrian refugees safely landed on Katia Beach in South Lesvos this morning\. Photo by ERCI](assets/4f06c06abb11/0*1Z44H0EB2CeoW0_8.)
+![More than 45 Syrian refugees safely landed on Katia Beach in South Lesvos this morning\. Photo by ERCI](../assets/4f06c06abb11/0*1Z44H0EB2CeoW0_8.)
 
 More than 45 Syrian refugees safely landed on Katia Beach in South Lesvos this morning\. Photo by ERCI
 
 To prevent these kind of tragedies and ensure a safe landing, please try to spread this safety flyer among your contacts\. Tell people who are trying to cross and find themselves in a difficult situation to call the United Rescue Alarm Phone\.
 
 
-![](assets/4f06c06abb11/0*kmzeNSE6MsozpK1R.)
+![](../assets/4f06c06abb11/0*kmzeNSE6MsozpK1R.)
 
 ### Leros locals continue to confront refugees
 
 ‘Golden Dawn’ fascists gathered outside Pikpa Lerou, a house in Leros that hosts refugee women and children\. Local activists say the house was ‘under siege’ but protests have now ended without major incidents\.
 
 
-![](assets/4f06c06abb11/0*XL_AnOlRkhAqCAc4.)
+![](../assets/4f06c06abb11/0*XL_AnOlRkhAqCAc4.)
 
 
 Meanwhile, a source from the camp tells us that police is registering refugees to understand how many are still there, as many left the island on their own\. Since Saturday, a group of 20–30 Leros residents has started attacking and threatening refugees\. Previously, a group of Yazidis had left the refugee camp after recent fights inside the camp but got attacked outside the camp by locals\. They were forced to return by police, despite fearing for their safety\. Many volunteers have left the island, after several threats and attacks\.
 
 
-![Photo of registration in Leros\.](assets/4f06c06abb11/0*sHlCXbqWaI1iKnLH.)
+![Photo of registration in Leros\.](../assets/4f06c06abb11/0*sHlCXbqWaI1iKnLH.)
 
 Photo of registration in Leros\.
 ### Remaining refugees are being evacuated from Piraeus port
@@ -97,12 +97,12 @@ One Afghan refugee managed to get permission to go to the restroom and didn’t 
 Police officers yelled at the refugees not to leave the area with their tents\. Eventually they brought in a crane with which they crushed the tents, blankets, clothes and paperwork inside\. They also used knives to slash the tents and snapped poles so they couldn’t be used again\.
 
 
-![Police officers yelled at the refugees not to leave the area with their tents\. Eventually they brought in a crane with which they crushed the tents, blankets, clothes and paperwork inside\.](assets/4f06c06abb11/0*8DE7TjCI3jX9JV7H.)
+![Police officers yelled at the refugees not to leave the area with their tents\. Eventually they brought in a crane with which they crushed the tents, blankets, clothes and paperwork inside\.](../assets/4f06c06abb11/0*8DE7TjCI3jX9JV7H.)
 
 Police officers yelled at the refugees not to leave the area with their tents\. Eventually they brought in a crane with which they crushed the tents, blankets, clothes and paperwork inside\.
 
 
-![Photo by Joao Pequeno](assets/4f06c06abb11/0*QTGLoo6J59j4ltFD.)
+![Photo by Joao Pequeno](../assets/4f06c06abb11/0*QTGLoo6J59j4ltFD.)
 
 Photo by Joao Pequeno
 
@@ -137,7 +137,7 @@ Blazkova emphasized that no one was injured in the operation\. One witness repor
 Blazkova will meet with port police in order to try to recover passports, ID cards and papers confiscated in the operation\.
 
 
-![Eviction was done without prior notice, and people who weren’t at the camp returned to find the building shuttered and their possessions gone\.](assets/4f06c06abb11/0*Y3H5yxCiwZKstpc3.)
+![Eviction was done without prior notice, and people who weren’t at the camp returned to find the building shuttered and their possessions gone\.](../assets/4f06c06abb11/0*Y3H5yxCiwZKstpc3.)
 
 Eviction was done without prior notice, and people who weren’t at the camp returned to find the building shuttered and their possessions gone\.
 ### Pre\-registration for people not residing in camps
@@ -155,14 +155,14 @@ The place will be very busy and it is advised to come early\. If you come from o
 “Basel hilft mit” has purchased a hospital bed and will participate in paying the wages of two doctors as well as the purchase of necessary drugs in Petra camp\. The camp continues to grow, as Yazidis continue to get attacked in other camps and are transferred to Petra were they are safer\.
 
 
-![Photo by “Basel hilft mit”](assets/4f06c06abb11/0*JJ6Ar9bjY4xpeQvw.)
+![Photo by “Basel hilft mit”](../assets/4f06c06abb11/0*JJ6Ar9bjY4xpeQvw.)
 
 Photo by “Basel hilft mit”
 
 Meanwhile, Borderfree has started the construction of a school, a project it already managed very successfully in Idomeni\.
 
 
-![Photo by Borderfree](assets/4f06c06abb11/1*mK3s07jl8f6KhWh_jaWe9g.png)
+![Photo by Borderfree](../assets/4f06c06abb11/1*mK3s07jl8f6KhWh_jaWe9g.png)
 
 Photo by Borderfree
 #### Serbia
@@ -184,7 +184,7 @@ One of those no\-mans lands is the Kelebija camp, situated before the Tompa tran
 Care4Calais says 7,000 refugees are currently in Calais and about 100 arrive per day — nevertheless, the warehouse is almost empty, as Calais has disappeared from the collective consciousness\. Almost everything is needed right now and you can check out the most urgent needs as well as ways to donate on their website [http://care4calais\.org/donate/](http://care4calais.org/donate/) \.
 
 
-![Photo by Care4Calais — featuring motivated volunteers and an empty warehouse\.](assets/4f06c06abb11/0*W_Ly3lOagvLx6X7p.)
+![Photo by Care4Calais — featuring motivated volunteers and an empty warehouse\.](../assets/4f06c06abb11/0*W_Ly3lOagvLx6X7p.)
 
 Photo by Care4Calais — featuring motivated volunteers and an empty warehouse\.
 ### 62 shelters to be destroyed in Grand Synthe
@@ -196,16 +196,16 @@ The Refugee Info Bus however notes that with the constant arrival of new refugee
 It goes on to say that the authorities have started to, and plan to destroy 62 of the 125 shelters that he claims are empty, by the 30th of July\. It is too bad that these shelters need to be destroyed and cannot be used to host refugees that will otherwise be forced to sleep in tents\.
 
 
-![In March 2016, 40 disposable cameras were distributed to residents of the Jungle, these are some of their photos\. Cameras provided by “The Worldwide Tribe” and coordination by Beatrice Lily Lorigan\.](assets/4f06c06abb11/0*gP3bzSRjeL0lHLY8.)
+![In March 2016, 40 disposable cameras were distributed to residents of the Jungle, these are some of their photos\. Cameras provided by “The Worldwide Tribe” and coordination by Beatrice Lily Lorigan\.](../assets/4f06c06abb11/0*gP3bzSRjeL0lHLY8.)
 
 In March 2016, 40 disposable cameras were distributed to residents of the Jungle, these are some of their photos\. Cameras provided by “The Worldwide Tribe” and coordination by Beatrice Lily Lorigan\.
 
 
-![](assets/4f06c06abb11/0*Md3ojGcqahf8chca.)
+![](../assets/4f06c06abb11/0*Md3ojGcqahf8chca.)
 
 
 
-![](assets/4f06c06abb11/0*0qm_oeKCAjVFPU90.)
+![](../assets/4f06c06abb11/0*0qm_oeKCAjVFPU90.)
 
 
 

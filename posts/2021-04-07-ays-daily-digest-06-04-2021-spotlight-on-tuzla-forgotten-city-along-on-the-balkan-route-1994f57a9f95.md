@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 06/04/2021: Spotlight on Tuzla, forgotten city along on the Balkan Route
+title: "AYS Daily Digest 06/04/2021: Spotlight on Tuzla, forgotten city along on the Balkan Route"
 author: Are You Syrious?
 date: 2021-04-07T10:57:57.671+0100
 last_modified_at: 2021-04-07T16:58:24.832+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,migration,deportation,migrants]
 description: Protests against conditions in Libya // Landings in Italy, Spain // Police crackdown on the Canaries // Deportation protests in Germany //…
 image:
-  path: assets/1994f57a9f95/1*kWpQq2QxkNAhpXC5iIioxQ.jpeg
+  path: ../assets/1994f57a9f95/1*kWpQq2QxkNAhpXC5iIioxQ.jpeg
 ---
 
 ### AYS Daily Digest 06/04/2021: Spotlight on Tuzla, forgotten city along on the Balkan Route
@@ -15,11 +15,11 @@ image:
 ### FEATURE — Tuzla: A little\-known way\-station in Bosnia\-Herzegovina
 
 
-![](assets/1994f57a9f95/1*kWpQq2QxkNAhpXC5iIioxQ.jpeg)
+![](../assets/1994f57a9f95/1*kWpQq2QxkNAhpXC5iIioxQ.jpeg)
 
 
 
-![Photo credit: volunteers from Tuzla](assets/1994f57a9f95/1*w426Hf4IJqcZOZE5ckmoQg.jpeg)
+![Photo credit: volunteers from Tuzla](../assets/1994f57a9f95/1*w426Hf4IJqcZOZE5ckmoQg.jpeg)
 
 Photo credit: volunteers from Tuzla
 
@@ -351,7 +351,7 @@ The German TV channel ZDF accompanied the Turkish Coast Guard and documented how
 From the Paris Institute for Critical Thinking, a new podcast episode, “Moria Revisited,” featuring French\-Afghan journalist Mortaza Behboudi who has long reported on the situation on Lesvos\.
 
 
-[![PICT Voices #27: Mortaza Behboudi, Moria Revisited](assets/1994f57a9f95/abf9_hqdefault.jpg "PICT Voices #27: Mortaza Behboudi, Moria Revisited")](https://www.youtube.com/watch?v=j8btFKdIbXs)
+[![PICT Voices #27: Mortaza Behboudi, Moria Revisited](../assets/1994f57a9f95/abf9_hqdefault.jpg "PICT Voices #27: Mortaza Behboudi, Moria Revisited")](https://www.youtube.com/watch?v=j8btFKdIbXs)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,police-brutality,police,greece,croatia]
 description: 6 people died in car crash in Greece // military heightened in Morocco // music from Libyan detention centre // police arrests in Croatia
 image:
-  path: assets/3941c5119e19/1*uIHxrcDVthnkE15iD8tWqA.jpeg
+  path: ../assets/3941c5119e19/1*uIHxrcDVthnkE15iD8tWqA.jpeg
 ---
 
 ### AYS Daily Digest 26/8/19: Police raids displace 143 people in Exarcheia, Athens
 #### _6 people died in car crash in Greece // Military heightened in Morocco // Music from Libyan detention centre // Police in Croatia continue to detain people in the infamous garage before pushing them back to Bosnia and Herzegovina_
 
 
-![Photo by [Spirou Trikoupi 17](https://www.facebook.com/spiroutrikoupi17/?__xts__%5B0%5D=68.ARBPhXD1rC3czgbGAlP4-J-s4-rxHMFR3znfDjiLkhRRSLIvMRd3cBKCvdXRYfZzaVLfbJ-9usjd-93y5zI5NVF8Rr-Omq_rnMqNlklju5Ff8EJCzPITyyCl7p5tD9NgsyLFIUJwV6SMsNLsYgEUVIfNRHiPjGmcAAczXuTVlT_lFDITjaKw_HHJ0IP6SfNZUMGkCFwd7ieQHDzwaxbH2sfGfMeeHuFMUOMHe-OfTc2CoDmpK3NSk0A99MbXTYLQT0adsQP8wvfs9FH7_-LI1Y9Yizr9beBtErifePRJsHEv5KWep8TFkevdr_MbtbL2W7RTXgh2ZdySaWzp3KuOAHU&__tn__=k%2AF&tn-str=k%2AF)](assets/3941c5119e19/1*uIHxrcDVthnkE15iD8tWqA.jpeg)
+![Photo by [Spirou Trikoupi 17](https://www.facebook.com/spiroutrikoupi17/?__xts__%5B0%5D=68.ARBPhXD1rC3czgbGAlP4-J-s4-rxHMFR3znfDjiLkhRRSLIvMRd3cBKCvdXRYfZzaVLfbJ-9usjd-93y5zI5NVF8Rr-Omq_rnMqNlklju5Ff8EJCzPITyyCl7p5tD9NgsyLFIUJwV6SMsNLsYgEUVIfNRHiPjGmcAAczXuTVlT_lFDITjaKw_HHJ0IP6SfNZUMGkCFwd7ieQHDzwaxbH2sfGfMeeHuFMUOMHe-OfTc2CoDmpK3NSk0A99MbXTYLQT0adsQP8wvfs9FH7_-LI1Y9Yizr9beBtErifePRJsHEv5KWep8TFkevdr_MbtbL2W7RTXgh2ZdySaWzp3KuOAHU&__tn__=k%2AF&tn-str=k%2AF)](../assets/3941c5119e19/1*uIHxrcDVthnkE15iD8tWqA.jpeg)
 
 Photo by [Spirou Trikoupi 17](https://www.facebook.com/spiroutrikoupi17/?__xts__%5B0%5D=68.ARBPhXD1rC3czgbGAlP4-J-s4-rxHMFR3znfDjiLkhRRSLIvMRd3cBKCvdXRYfZzaVLfbJ-9usjd-93y5zI5NVF8Rr-Omq_rnMqNlklju5Ff8EJCzPITyyCl7p5tD9NgsyLFIUJwV6SMsNLsYgEUVIfNRHiPjGmcAAczXuTVlT_lFDITjaKw_HHJ0IP6SfNZUMGkCFwd7ieQHDzwaxbH2sfGfMeeHuFMUOMHe-OfTc2CoDmpK3NSk0A99MbXTYLQT0adsQP8wvfs9FH7_-LI1Y9Yizr9beBtErifePRJsHEv5KWep8TFkevdr_MbtbL2W7RTXgh2ZdySaWzp3KuOAHU&__tn__=k%2AF&tn-str=k%2AF)
 ### Feature: Police Raids displace 143 people in Exarcheia, Athens
@@ -22,15 +22,15 @@ Photo by [Spirou Trikoupi 17](https://www.facebook.com/spiroutrikoupi17/?__xts__
 Monday morning, police raided squats in Exarcheia, Athens; [the desired effect](https://twitter.com/exiledarizona/status/1165873714568867840) was to remove anyone without identification in order to clear out refugees and destabilize the anarchist movement\. The brutal outcome was that [143 people](https://www.keeptalkinggreece.com/2019/08/26/exarchia-police-refugees-squats) , including a large number of children, were forced to leave their homes and were sent to Aliens Directorate\.
 
 
-![](assets/3941c5119e19/1*uuWKmKlunmrTcUgN7888Gw.jpeg)
+![](../assets/3941c5119e19/1*uuWKmKlunmrTcUgN7888Gw.jpeg)
 
 
 
-![](assets/3941c5119e19/1*5ePKGuUqicNB3Z_MnkdcGQ.jpeg)
+![](../assets/3941c5119e19/1*5ePKGuUqicNB3Z_MnkdcGQ.jpeg)
 
 
 
-![Photos by [Spirou Trikoupi 17](https://www.facebook.com/spiroutrikoupi17/?__xts__%5B0%5D=68.ARBPhXD1rC3czgbGAlP4-J-s4-rxHMFR3znfDjiLkhRRSLIvMRd3cBKCvdXRYfZzaVLfbJ-9usjd-93y5zI5NVF8Rr-Omq_rnMqNlklju5Ff8EJCzPITyyCl7p5tD9NgsyLFIUJwV6SMsNLsYgEUVIfNRHiPjGmcAAczXuTVlT_lFDITjaKw_HHJ0IP6SfNZUMGkCFwd7ieQHDzwaxbH2sfGfMeeHuFMUOMHe-OfTc2CoDmpK3NSk0A99MbXTYLQT0adsQP8wvfs9FH7_-LI1Y9Yizr9beBtErifePRJsHEv5KWep8TFkevdr_MbtbL2W7RTXgh2ZdySaWzp3KuOAHU&__tn__=k%2AF&tn-str=k%2AF)](assets/3941c5119e19/1*FlwV3m5BwYBGy66vfz3KGw.jpeg)
+![Photos by [Spirou Trikoupi 17](https://www.facebook.com/spiroutrikoupi17/?__xts__%5B0%5D=68.ARBPhXD1rC3czgbGAlP4-J-s4-rxHMFR3znfDjiLkhRRSLIvMRd3cBKCvdXRYfZzaVLfbJ-9usjd-93y5zI5NVF8Rr-Omq_rnMqNlklju5Ff8EJCzPITyyCl7p5tD9NgsyLFIUJwV6SMsNLsYgEUVIfNRHiPjGmcAAczXuTVlT_lFDITjaKw_HHJ0IP6SfNZUMGkCFwd7ieQHDzwaxbH2sfGfMeeHuFMUOMHe-OfTc2CoDmpK3NSk0A99MbXTYLQT0adsQP8wvfs9FH7_-LI1Y9Yizr9beBtErifePRJsHEv5KWep8TFkevdr_MbtbL2W7RTXgh2ZdySaWzp3KuOAHU&__tn__=k%2AF&tn-str=k%2AF)](../assets/3941c5119e19/1*FlwV3m5BwYBGy66vfz3KGw.jpeg)
 
 Photos by [Spirou Trikoupi 17](https://www.facebook.com/spiroutrikoupi17/?__xts__%5B0%5D=68.ARBPhXD1rC3czgbGAlP4-J-s4-rxHMFR3znfDjiLkhRRSLIvMRd3cBKCvdXRYfZzaVLfbJ-9usjd-93y5zI5NVF8Rr-Omq_rnMqNlklju5Ff8EJCzPITyyCl7p5tD9NgsyLFIUJwV6SMsNLsYgEUVIfNRHiPjGmcAAczXuTVlT_lFDITjaKw_HHJ0IP6SfNZUMGkCFwd7ieQHDzwaxbH2sfGfMeeHuFMUOMHe-OfTc2CoDmpK3NSk0A99MbXTYLQT0adsQP8wvfs9FH7_-LI1Y9Yizr9beBtErifePRJsHEv5KWep8TFkevdr_MbtbL2W7RTXgh2ZdySaWzp3KuOAHU&__tn__=k%2AF&tn-str=k%2AF)
 
@@ -67,13 +67,13 @@ Also, you can still apply for asylum while in detention\! Learn more [here](http
 Finally, the solidarity assembly held on Monday evening had a great turnout, but more work needs to be done in order to prevent future evictions and protect the people affected\. Follow [Spirou Trikoupi](https://www.facebook.com/spiroutrikoupi17/posts/711168992663237?hc_location=ufi) to find out more\.
 
 
-![“They can’t evict a movement” Photo by [Spirou Trikoupi 17](https://www.facebook.com/spiroutrikoupi17/posts/711460082634128?hc_location=ufi)](assets/3941c5119e19/1*GgN-mo65qm515xjFOSrh7w.jpeg)
+![“They can’t evict a movement” Photo by [Spirou Trikoupi 17](https://www.facebook.com/spiroutrikoupi17/posts/711460082634128?hc_location=ufi)](../assets/3941c5119e19/1*GgN-mo65qm515xjFOSrh7w.jpeg)
 
 “They can’t evict a movement” Photo by [Spirou Trikoupi 17](https://www.facebook.com/spiroutrikoupi17/posts/711460082634128?hc_location=ufi)
 ### Morocco
 
 
-![“Visiting the Bekoya camp of migrants in Nador, AMDH Nador has found that the humanitarian situation is getting worse every day despite the fact that Ngos are providing important funding to help of migrants\. We found this migrant alone very sick with a very manifest fever\. He was shaking in the middle of the summer and received no help from the migration delegation in Nador” Yet he did receive help afterwards\. Photo by [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/photos/a.1693125780899690/2398864460325815/?type=3&theater)](assets/3941c5119e19/1*2XKjcyJFfC0ufYWocom0ow.jpeg)
+![“Visiting the Bekoya camp of migrants in Nador, AMDH Nador has found that the humanitarian situation is getting worse every day despite the fact that Ngos are providing important funding to help of migrants\. We found this migrant alone very sick with a very manifest fever\. He was shaking in the middle of the summer and received no help from the migration delegation in Nador” Yet he did receive help afterwards\. Photo by [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/photos/a.1693125780899690/2398864460325815/?type=3&theater)](../assets/3941c5119e19/1*2XKjcyJFfC0ufYWocom0ow.jpeg)
 
 “Visiting the Bekoya camp of migrants in Nador, AMDH Nador has found that the humanitarian situation is getting worse every day despite the fact that Ngos are providing important funding to help of migrants\. We found this migrant alone very sick with a very manifest fever\. He was shaking in the middle of the summer and received no help from the migration delegation in Nador” Yet he did receive help afterwards\. Photo by [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/photos/a.1693125780899690/2398864460325815/?type=3&theater)
 
@@ -125,11 +125,11 @@ _“Three boats have been reported arrived on Simi, unfortunately no further inf
 Worrying images confirm what had earlier been reported about the practice of unlawful detention by the Croatian police in places that are unfit to host humans\. They use these secret locations as part of the process of collective expulsions to Bosnia and Herzegovina\. People are held for a day \(or even longer\) locked up in a filthy garage, without any access to hygiene facilities, place to rest, proper ventilation, food, not to mention legal aid and information, or mechanism of demanding international protection\. What is the difference between this, what the EU is doing, and the same sights in Libya that the EU is so shocked by?
 
 
-![](assets/3941c5119e19/1*Y1P-EJIE4PR05g6mCwIs6Q.jpeg)
+![](../assets/3941c5119e19/1*Y1P-EJIE4PR05g6mCwIs6Q.jpeg)
 
 
 
-![Crotian police put these people in prison for 15 hours, including the children\. Photo by [Lorena Fornasir](https://www.facebook.com/lorena.fornasir/posts/2339943216122762?hc_location=ufi)](assets/3941c5119e19/1*MfPcCeFsS1nGEeNBHqLX5Q.jpeg)
+![Crotian police put these people in prison for 15 hours, including the children\. Photo by [Lorena Fornasir](https://www.facebook.com/lorena.fornasir/posts/2339943216122762?hc_location=ufi)](../assets/3941c5119e19/1*MfPcCeFsS1nGEeNBHqLX5Q.jpeg)
 
 Crotian police put these people in prison for 15 hours, including the children\. Photo by [Lorena Fornasir](https://www.facebook.com/lorena.fornasir/posts/2339943216122762?hc_location=ufi)
 

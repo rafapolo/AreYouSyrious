@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 24/07/17: Terror and uncertainty on Lesvos
+title: "AYS Daily Digest 24/07/17: Terror and uncertainty on Lesvos"
 author: Are You Syrious?
 date: 2017-07-24T23:01:00.538+0100
 last_modified_at: 2017-08-29T17:47:05.384+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,moria,lesvos,paris,ventimiglia]
 description: Police violence at Lesvos, again / Human rights groups are warning about the situation at Lesvos / Hunger strike continues for 27th day /…
 image:
-  path: assets/d8f7de15942b/1*jj_UigtN6ot0JNvMLjjYMw.jpeg
+  path: ../assets/d8f7de15942b/1*jj_UigtN6ot0JNvMLjjYMw.jpeg
 ---
 
 ### AYS Daily Digest 24/07/17: Terror and uncertainty on Lesvos
@@ -15,7 +15,7 @@ image:
 _Police violence at Lesvos, again / Human rights groups are warning about the situation at Lesvos / Hunger strike continues for 27th day / More people in Syria forced to leave their homes / Shameful police acting in Ventimiglia, Italy / Authorities in Paris neglect their duty to provide basic conditions for people who are forced to live on streets / And more news…_
 
 
-![Moria, Lesvos\. @MigrnatVoiceUK](assets/d8f7de15942b/1*jj_UigtN6ot0JNvMLjjYMw.jpeg)
+![Moria, Lesvos\. @MigrnatVoiceUK](../assets/d8f7de15942b/1*jj_UigtN6ot0JNvMLjjYMw.jpeg)
 
 Moria, Lesvos\. @MigrnatVoiceUK
 ### Feature
@@ -49,11 +49,11 @@ NGOs on Lesbos have identified at least 60 people registered as adults who claim
 Luckily, people all over the world care much more for humanity than their leaders\. On Monday it was the 27th day of a hunger strike by imprisoned asylum seekers on the island, and Day 6 of the Solidarity Activists Lesvos \#freedomstrikelesvos in solidarity with their call for justice, freedom and dignity\. Join the action and show the solidarity still exists\.
 
 
-![](assets/d8f7de15942b/1*TrFcvNIMy_T1OhdILaRpRw.jpeg)
+![](../assets/d8f7de15942b/1*TrFcvNIMy_T1OhdILaRpRw.jpeg)
 
 
 
-![Solidarity still exists\. \#freedomstrikelesvos](assets/d8f7de15942b/1*TZqrgjpe97LdSheZsTz8TA.jpeg)
+![Solidarity still exists\. \#freedomstrikelesvos](../assets/d8f7de15942b/1*TZqrgjpe97LdSheZsTz8TA.jpeg)
 
 Solidarity still exists\. \#freedomstrikelesvos
 ### Syria
@@ -87,11 +87,11 @@ Yet, we have to remind you about the insane group called the Identitarians’ wh
 This is an extreme right\-wing group who is willing to kill people, perhaps not with weapons but simply by dumping their boats\.
 
 
-![](assets/d8f7de15942b/1*W1Pd8Uym4XSMqaJCMn9stQ.jpeg)
+![](../assets/d8f7de15942b/1*W1Pd8Uym4XSMqaJCMn9stQ.jpeg)
 
 
 
-![Identitarians](assets/d8f7de15942b/1*kos8bqSbMNGKLTUNmz7LtQ.jpeg)
+![Identitarians](../assets/d8f7de15942b/1*kos8bqSbMNGKLTUNmz7LtQ.jpeg)
 
 Identitarians
 ### Italy
@@ -110,11 +110,11 @@ _“Ventimiglia is this: a territory crossed by violations and injustice\. At th
 The situation is not much better in France\. One of the volunteers from Paris shared today photos from Saint Denis showing conditions of sanitary provisions in this area\. Authorities have the obligation to provide decent conditions, but they fail to do so\. The authorities place 6 toilets for the use of over 550 people\.
 
 
-![](assets/d8f7de15942b/1*XlxAHxCe_w1oNSKc_hLfMg.jpeg)
+![](../assets/d8f7de15942b/1*XlxAHxCe_w1oNSKc_hLfMg.jpeg)
 
 
 
-![](assets/d8f7de15942b/1*dH3sUkEgzWwTJoQeM6mu-A.jpeg)
+![](../assets/d8f7de15942b/1*dH3sUkEgzWwTJoQeM6mu-A.jpeg)
 
 
 A number of people at Porte de la Chapelle is rising again and help is needed\.

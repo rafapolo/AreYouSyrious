@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 28/9/20: A ruling that could pave the way for thousands of unlawfully deported…
+title: "AYS Daily Digest 28/9/20: A ruling that could pave the way for thousands of unlawfully deported…"
 author: Are You Syrious?
 date: 2020-09-29T16:27:05.531+0100
 last_modified_at: 2020-09-29T20:31:34.334+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,europe,uk,refugees,migration]
 description: On the situation in Greece / Italy — after the landing of the 125 on board Alana Kurdi / France — police evicted a squat in Montpellier /…
 image:
-  path: assets/f5b5436bf837/1*BWjYNu-0z9LRbZqIVnS4BA.jpeg
+  path: ../assets/f5b5436bf837/1*BWjYNu-0z9LRbZqIVnS4BA.jpeg
 ---
 
 ### AYS Daily Digest 28/9/20: A ruling that could pave the way for thousands of unlawfully deported from the UK
 #### On the situation in Greece / Italy — after the landing of the 125 on board Alan Kurdi / France — police evicted a squat in Montpellier / Home Office Under Scrutiny for eviction plans / The Cognitive Dimensions of the New EU Pact on Migration and Asylum and other recommended reads
 
 
-![](assets/f5b5436bf837/1*BWjYNu-0z9LRbZqIVnS4BA.jpeg)
+![](../assets/f5b5436bf837/1*BWjYNu-0z9LRbZqIVnS4BA.jpeg)
 
 #### FEATURED
 
@@ -35,7 +35,7 @@ There were 1,212 asylum [applications lodged](https://l.facebook.com/l.php?u=htt
 #### LIBYA
 
 
-![](assets/f5b5436bf837/0*wk8Aj_5_E5JwfpBy)
+![](../assets/f5b5436bf837/0*wk8Aj_5_E5JwfpBy)
 
 
 

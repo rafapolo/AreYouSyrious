@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 11/05/18: More than 3,000 people came to Bosnia since January
+title: "AYS Daily Digest 11/05/18: More than 3,000 people came to Bosnia since January"
 author: Are You Syrious?
 date: 2018-05-12T10:39:19.085+0100
 last_modified_at: 2018-11-30T19:09:45.494+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,balkans,bosnia-and-herzegovina,belgium]
 description: Albania, Montenegro, and Bosnia and Herzegovina new routes // Most of the people coming to Greece over the river Evros are Kurds from Afrin…
 image:
-  path: assets/67ea45ec12d7/1*EolL5Gwe1rrPETLJynfZWg.jpeg
+  path: ../assets/67ea45ec12d7/1*EolL5Gwe1rrPETLJynfZWg.jpeg
 ---
 
 ### AYS Daily Digest 11/05/18: More than 3,000 people came to Bosnia since January
@@ -15,11 +15,11 @@ image:
 _Albania, Montenegro, and Bosnia and Herzegovina new routes // Most of the people coming to Greece over the river Evros are Kurds from Afrin region // Deaths and injuries by borders at the EU borders // Help needed in Belgium and France // Call for action in the UK // And more news…_
 
 
-![](assets/67ea45ec12d7/1*EolL5Gwe1rrPETLJynfZWg.jpeg)
+![](../assets/67ea45ec12d7/1*EolL5Gwe1rrPETLJynfZWg.jpeg)
 
 
 
-![Bihać and Sarajevo\. Over 3000 people arrived to Bosnia this year\. Photo Red Cross Bihac and AYS\.](assets/67ea45ec12d7/1*81isRAccWxwqPvzLmHCtZQ.jpeg)
+![Bihać and Sarajevo\. Over 3000 people arrived to Bosnia this year\. Photo Red Cross Bihac and AYS\.](../assets/67ea45ec12d7/1*81isRAccWxwqPvzLmHCtZQ.jpeg)
 
 Bihać and Sarajevo\. Over 3000 people arrived to Bosnia this year\. Photo Red Cross Bihac and AYS\.
 ### FEATURE
@@ -31,7 +31,7 @@ On the way to Bosnia from Greece, people pass through Albania, where they are ra
 “We noticed a group of young men one evening, and after we approached them we learned that they are coming from Syria, over Turkey, Greece, and Albania,” Sabina Talović from Bona Fide told AYS\.
 
 
-![Photo by Bona Fide](assets/67ea45ec12d7/1*FKQ8RIuJAGvG4cyEROHLWg.jpeg)
+![Photo by Bona Fide](../assets/67ea45ec12d7/1*FKQ8RIuJAGvG4cyEROHLWg.jpeg)
 
 Photo by Bona Fide
 
@@ -46,7 +46,7 @@ The other route for people to enter Bosnia is from Serbia\. Some of the new arri
 The official figure for Bosnia is over 3,500 registered asylum\-seekers since the beginning of this year\. Authorities are saying that, on average, between 80 and 120 people enter the country each day\. However, the state provides a mere 150 places in the only asylum centre, near Sarajevo\. The local population, UNHCR, and IOM are providing hostel accommodation for those they categorize as the most vulnerable\. The others are simply left to sleep in the street and in parks all over the country\.
 
 
-![Park in Velika Kladuša\. Photo AYS\.](assets/67ea45ec12d7/1*O-jvKTKiD6qoASVTmaj5Fw.jpeg)
+![Park in Velika Kladuša\. Photo AYS\.](../assets/67ea45ec12d7/1*O-jvKTKiD6qoASVTmaj5Fw.jpeg)
 
 Park in Velika Kladuša\. Photo AYS\.
 
@@ -60,15 +60,15 @@ Police in Bosnia are still relatively friendly towards people who are coming\. A
 In the outskirts of Beirut, according to the [Mediterranean Hope](https://www.facebook.com/permalink.php?story_fbid=831684070354001&id=252231521632595) group, there are people who are waiting to be part of the program for relocation to Italy via the humanitarian corridor, currently accommodated in crumbling buildings, with no windows, in high humidity\.
 
 
-![](assets/67ea45ec12d7/1*LjR9P0Hnpa2kFAAAMOiGng.jpeg)
+![](../assets/67ea45ec12d7/1*LjR9P0Hnpa2kFAAAMOiGng.jpeg)
 
 
 
-![](assets/67ea45ec12d7/1*NIyzRLiq2bsSb_t1C7SgEg.jpeg)
+![](../assets/67ea45ec12d7/1*NIyzRLiq2bsSb_t1C7SgEg.jpeg)
 
 
 
-![Photo by [Mediterranean hope](https://www.facebook.com/permalink.php?story_fbid=831684070354001&id=252231521632595)](assets/67ea45ec12d7/1*9cGQr5YB-h4sm1zZfQdQ_w.jpeg)
+![Photo by [Mediterranean hope](https://www.facebook.com/permalink.php?story_fbid=831684070354001&id=252231521632595)](../assets/67ea45ec12d7/1*9cGQr5YB-h4sm1zZfQdQ_w.jpeg)
 
 Photo by [Mediterranean hope](https://www.facebook.com/permalink.php?story_fbid=831684070354001&id=252231521632595)
 ### GREECE
@@ -114,11 +114,11 @@ See the UNHCR [legal analysis](http://www.unhcr.org/dach/wp-content/uploads/site
 
 
 
-![](assets/67ea45ec12d7/1*AYxPpKRw8DofoA-BAooicQ.jpeg)
+![](../assets/67ea45ec12d7/1*AYxPpKRw8DofoA-BAooicQ.jpeg)
 
 
 
-![](assets/67ea45ec12d7/1*0qxM3O1_ZkqSjIF4k_m_Yg.jpeg)
+![](../assets/67ea45ec12d7/1*0qxM3O1_ZkqSjIF4k_m_Yg.jpeg)
 
 #### Call for volunteers
 
@@ -171,7 +171,7 @@ The amendment, proposed by Lord Dubs, passed the House of Lords and now it is ne
 “Take action\. These three simple steps will make sure your MP gets our message\.”
 
 
-![](assets/67ea45ec12d7/1*G5rXran2Q-mr8hBHfqTHGQ.jpeg)
+![](../assets/67ea45ec12d7/1*G5rXran2Q-mr8hBHfqTHGQ.jpeg)
 
 
 **We strive to echo correct news from the ground through collaboration and fairness\.**

@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 27/6/2022: UK Government hides exact numbers of asylum seeker deaths in Home Office…
+title: "AYS News Digest 27/6/2022: UK Government hides exact numbers of asylum seeker deaths in Home Office…"
 author: Are You Syrious?
 date: 2022-06-27T23:15:53.731+0100
 last_modified_at: 2022-06-27T23:15:53.731+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,home-office,spain,borders,refugees]
 description: Greece plans to extend border fence with Turkey/ Deaths of asylum seekers in Home Office Accommodation/Update on the situation on…
 image:
-  path: assets/7044fd222609/0*-zqNkheI_2JBr_bh.jpg
+  path: ../assets/7044fd222609/0*-zqNkheI_2JBr_bh.jpg
 ---
 
 ### **AYS News Digest 27/6/2022: UK Government hides exact numbers of asylum seeker deaths in Home Office accommodation**
@@ -15,7 +15,7 @@ image:
 Greece plans to extend border fence with Turkey/ Deaths of asylum seekers in Home Office Accommodation/Update on the situation on Morocco\-Spain border/Violence and racism against Syrian refugees in Turkey worsens/EP Justice Committee meeting with Notis Mitarachi/2 bodies found on Lesbos beach/Refugee children in Calais prevented from accessing school/ AYS looking for volunteers in Croatia\!/Much more…\.
 
 
-![Source:VOA, 26/6/2022](assets/7044fd222609/0*-zqNkheI_2JBr_bh.jpg)
+![Source:VOA, 26/6/2022](../assets/7044fd222609/0*-zqNkheI_2JBr_bh.jpg)
 
 Source:VOA, 26/6/2022
 ### TURKEY
@@ -128,7 +128,7 @@ Europol has issued a warning to host countries, urging them to be vigilant and e
 3\.2 million have been granted temporary protection in the EU, with central and eastern european countries hosting a significantly larger proportion of Ukrainians compared to western european countries\.
 
 
-![Source: The Washington Post, 27/6/2022](assets/7044fd222609/1*msuqTM7x-DN2QUc45u9lsw.png)
+![Source: The Washington Post, 27/6/2022](../assets/7044fd222609/1*msuqTM7x-DN2QUc45u9lsw.png)
 
 Source: The Washington Post, 27/6/2022
 ### SERBIA
@@ -255,7 +255,7 @@ Ylva Johansson further stated that she was deeply concerned with the loss of lif
 **\*CAUTION: The videos below show extremely disturbing images that could be triggering\***
 
 
-[![Maroc-Melilla : violences contre des migrants à la frontière de l'enclave espagnole](assets/7044fd222609/dd07_hqdefault.jpg "Maroc-Melilla : violences contre des migrants à la frontière de l'enclave espagnole")](https://www.youtube.com/watch?v=3p1DYLA1l24)
+[![Maroc-Melilla : violences contre des migrants à la frontière de l'enclave espagnole](../assets/7044fd222609/dd07_hqdefault.jpg "Maroc-Melilla : violences contre des migrants à la frontière de l'enclave espagnole")](https://www.youtube.com/watch?v=3p1DYLA1l24)
 
 
 
@@ -265,7 +265,7 @@ Ylva Johansson further stated that she was deeply concerned with the loss of lif
 Despite a call for an investigation into this disaster, photos have emerged of Moroccan officials digging graves\. Autopsies are also not being carried out\. [The Spanish government have not stated whether they will open an investigation](https://www.diariovasco.com/politica/marruecos-prepara-entierro-20220626151756-ntrc.html?ref=https%3A%2F%2Ft.co%2F) and they have not provided any explanations for what happened\.
 
 
-![Source: El Diario Vasco, June 26th 2022](assets/7044fd222609/0*8TCQFcc07IqjvAzR.jpg)
+![Source: El Diario Vasco, June 26th 2022](../assets/7044fd222609/0*8TCQFcc07IqjvAzR.jpg)
 
 Source: El Diario Vasco, June 26th 2022
 

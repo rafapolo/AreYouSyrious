@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 15/10/20: Clandestine hospital pickups and pushbacks from Croatia continue
+title: "AYS Daily Digest 15/10/20: Clandestine hospital pickups and pushbacks from Croatia continue"
 author: Are You Syrious?
 date: 2020-10-16T16:31:33.580+0100
 last_modified_at: 2020-10-16T23:25:27.780+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,spain,migration,refugees,europe]
 description: New border fence in Melilla / reports of dire living conditions in camps across Greece mount up / Vial camp in Chios has been put under…
 image:
-  path: assets/fc6c9276cd1c/0*_tfqtt-C_ODfuD0A
+  path: ../assets/fc6c9276cd1c/0*_tfqtt-C_ODfuD0A
 ---
 
 ### AYS Daily Digest 15/10/20: Clandestine hospital pickups and pushbacks from Croatia continue
 #### New border fence in Melilla / reports of dire living conditions in camps across Greece mount / Vial camp in Chios has been put under quarantine for the second time this year / & more news
 
 
-![Melilla, photo via: [CEAR](https://www.facebook.com/CEARefugiado/?__cft__[0]=AZUBpn-fmHIxdgGZl7sUQKqRpVFoWvCkmBhWYTTr3zbPZ5X-1Y8qtL0ppLE-1jAJpCEa3oIUuXPodmcLYQIBPumYM-vdoZ1Lh8YBpVaBDN-Ayboo8i4Zhm0oLYULf72F15B1Uq-1zbHUcMi09bJ0h4DNjPacfEQ-Rm1Ax0FVEDXyis30uijpB7mnW3oDMHlxN4kju1JASjbmTDlWMvqgIiapcyfD6qMwnPkFkCuNryd3gRV03LCr9sW84_YgM3177U4&__tn__=-UC*F)](assets/fc6c9276cd1c/0*_tfqtt-C_ODfuD0A)
+![Melilla, photo via: [CEAR](https://www.facebook.com/CEARefugiado/?__cft__[0]=AZUBpn-fmHIxdgGZl7sUQKqRpVFoWvCkmBhWYTTr3zbPZ5X-1Y8qtL0ppLE-1jAJpCEa3oIUuXPodmcLYQIBPumYM-vdoZ1Lh8YBpVaBDN-Ayboo8i4Zhm0oLYULf72F15B1Uq-1zbHUcMi09bJ0h4DNjPacfEQ-Rm1Ax0FVEDXyis30uijpB7mnW3oDMHlxN4kju1JASjbmTDlWMvqgIiapcyfD6qMwnPkFkCuNryd3gRV03LCr9sW84_YgM3177U4&__tn__=-UC*F)](../assets/fc6c9276cd1c/0*_tfqtt-C_ODfuD0A)
 
 Melilla, photo via: [CEAR](https://www.facebook.com/CEARefugiado/?__cft__[0]=AZUBpn-fmHIxdgGZl7sUQKqRpVFoWvCkmBhWYTTr3zbPZ5X-1Y8qtL0ppLE-1jAJpCEa3oIUuXPodmcLYQIBPumYM-vdoZ1Lh8YBpVaBDN-Ayboo8i4Zhm0oLYULf72F15B1Uq-1zbHUcMi09bJ0h4DNjPacfEQ-Rm1Ax0FVEDXyis30uijpB7mnW3oDMHlxN4kju1JASjbmTDlWMvqgIiapcyfD6qMwnPkFkCuNryd3gRV03LCr9sW84_YgM3177U4&__tn__=-UC*F)
 #### FEATURED
@@ -44,7 +44,7 @@ For the whole report, see [here](https://alarmphone.org/en/2020/10/14/aegean-reg
 The inhumane living conditions of the vast majority of the 4,500 people on Samos are only becoming worse\. [Reportedly](https://taz.de/Fluechtlingslager-im-griechischen-Samos/!5717602/) , only 650 are hosted in proper structures, while the remaining nearly 4,000 people live in make\-shift barracks in the open\-air “forest”\. The situation has been further aggravated by the Covid\-19 crisis, as most of the activities provided in the camp have been discontinued\.
 
 
-![For more stories about people stuck in Greece, and the heavy emotional, psychological, and financial toll their journey has taken on them, see the story of Samuel, an Eritrean stuck [in Greece](https://www.infomigrants.net/en/post/27940/for-samuel-asylum-in-greece-is-not-worth-waiting-for) and seeking opportunities for his studies and family reunification\. — Samuel\* in Platia Koliatsou in Athens \(Photo: InfoMigrants / Private\)](assets/fc6c9276cd1c/1*_szEaDrxGK9knQaBEe1OdA.jpeg)
+![For more stories about people stuck in Greece, and the heavy emotional, psychological, and financial toll their journey has taken on them, see the story of Samuel, an Eritrean stuck [in Greece](https://www.infomigrants.net/en/post/27940/for-samuel-asylum-in-greece-is-not-worth-waiting-for) and seeking opportunities for his studies and family reunification\. — Samuel\* in Platia Koliatsou in Athens \(Photo: InfoMigrants / Private\)](../assets/fc6c9276cd1c/1*_szEaDrxGK9knQaBEe1OdA.jpeg)
 
 For more stories about people stuck in Greece, and the heavy emotional, psychological, and financial toll their journey has taken on them, see the story of Samuel, an Eritrean stuck [in Greece](https://www.infomigrants.net/en/post/27940/for-samuel-asylum-in-greece-is-not-worth-waiting-for) and seeking opportunities for his studies and family reunification\. — Samuel\* in Platia Koliatsou in Athens \(Photo: InfoMigrants / Private\)
 ### Lesvos

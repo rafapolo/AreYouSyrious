@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,italy,protest]
 description: Human Traffickers Sentenced to Prison in Ethiopia//Twenty Steps to Protect People at Sea//People Lodge Complaint with European Commission…
 image:
-  path: assets/92c728275d76/0*ztDcXhRSrP7yUeO_.jpg
+  path: ../assets/92c728275d76/0*ztDcXhRSrP7yUeO_.jpg
 ---
 
 ### AYS Daily Digest 16/06/21 — Demonstration Thursday for regularization in Naples
 #### Human traffickers sentenced to prison in Ethiopia//Twenty steps to protect people at sea//People lodge complaint with European Commission against Greece
 
 
-![Graphic credit: [Movimento Migranti e Rifugiati Napoli](https://www.facebook.com/MovimentoMigrantieRifugiatiNapoli) , via [Melting Pot Europa](https://www.meltingpot.org/Le-nostre-vite-non-possono-piu-aspettare.html?var_mode=recalcul&fbclid=IwAR3Q9U5A_vE9laWCNaouGzMzogsOQAtla5aS8GC4TJHBRDxDl4xlHugHjFI#.YMroU5Mzbu2)](assets/92c728275d76/0*ztDcXhRSrP7yUeO_.jpg)
+![Graphic credit: [Movimento Migranti e Rifugiati Napoli](https://www.facebook.com/MovimentoMigrantieRifugiatiNapoli) , via [Melting Pot Europa](https://www.meltingpot.org/Le-nostre-vite-non-possono-piu-aspettare.html?var_mode=recalcul&fbclid=IwAR3Q9U5A_vE9laWCNaouGzMzogsOQAtla5aS8GC4TJHBRDxDl4xlHugHjFI#.YMroU5Mzbu2)](../assets/92c728275d76/0*ztDcXhRSrP7yUeO_.jpg)
 
 Graphic credit: [Movimento Migranti e Rifugiati Napoli](https://www.facebook.com/MovimentoMigrantieRifugiatiNapoli) , via [Melting Pot Europa](https://www.meltingpot.org/Le-nostre-vite-non-possono-piu-aspettare.html?var_mode=recalcul&fbclid=IwAR3Q9U5A_vE9laWCNaouGzMzogsOQAtla5aS8GC4TJHBRDxDl4xlHugHjFI#.YMroU5Mzbu2)
 #### FEATURE
@@ -109,7 +109,7 @@ No Name Kitchen is continuing their program called Vouchers 4 Food, which would 
 #### More horrific pushbacks
 
 
-![Photo credit: [Asylum Protection in Serbia](https://twitter.com/APC_CZA/status/1405114606985650177/photo/1)](assets/92c728275d76/0*B3F8EuWpTjpQm1KT)
+![Photo credit: [Asylum Protection in Serbia](https://twitter.com/APC_CZA/status/1405114606985650177/photo/1)](../assets/92c728275d76/0*B3F8EuWpTjpQm1KT)
 
 Photo credit: [Asylum Protection in Serbia](https://twitter.com/APC_CZA/status/1405114606985650177/photo/1)
 

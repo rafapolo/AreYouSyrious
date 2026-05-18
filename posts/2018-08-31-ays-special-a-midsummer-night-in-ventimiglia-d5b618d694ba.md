@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: A midsummer night in Ventimiglia.
+title: "AYS SPECIAL: A midsummer night in Ventimiglia."
 author: Are You Syrious?
 date: 2018-08-31T10:36:37.976+0100
 last_modified_at: 2018-08-31T10:36:37.976+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [europe,ventimiglia,italy,special,borders]
 description: An atypical update from the border inside of the European Union
 image:
-  path: assets/d5b618d694ba/1*QDQ4IL2OjpA3eWRXbzNVng.jpeg
+  path: ../assets/d5b618d694ba/1*QDQ4IL2OjpA3eWRXbzNVng.jpeg
 ---
 
 ### AYS SPECIAL: **A midsummer night in Ventimiglia\.**
@@ -15,7 +15,7 @@ image:
 _An atypical update from the border inside of the European Union_
 
 
-![_Ventimiglia, August 2018, Modena City Ramblers on stage_](assets/d5b618d694ba/1*QDQ4IL2OjpA3eWRXbzNVng.jpeg)
+![_Ventimiglia, August 2018, Modena City Ramblers on stage_](../assets/d5b618d694ba/1*QDQ4IL2OjpA3eWRXbzNVng.jpeg)
 
 _Ventimiglia, August 2018, Modena City Ramblers on stage_
 
@@ -26,7 +26,7 @@ An Italian band is playing on the stage, and in front of them, a large group of 
 I see hands of any color up in the air\.
 
 
-![_Ventimiglia, August 2018, Joy_](assets/d5b618d694ba/1*UjLJUgkIPvJ5GdnM4vEkXA.jpeg)
+![_Ventimiglia, August 2018, Joy_](../assets/d5b618d694ba/1*UjLJUgkIPvJ5GdnM4vEkXA.jpeg)
 
 _Ventimiglia, August 2018, Joy_
 
@@ -37,7 +37,7 @@ Those faces I don’t take pictures of, out of respect, in order not to leave in
 Those faces in this moment reflect the joy of being able to do a very normal thing, for kids of their age: stay out at night when it’s summer, singing, dancing, having fun\. So I get my camera out and start taking pictures\. Because their joy is beautiful and contagious, because this situation, in Ventimiglia, it’s all but normal\.
 
 
-![_Ventimiglia, August 2018, Isolation and new walls_](assets/d5b618d694ba/1*S8fR7xR38HDnr2c6dT1vGg.jpeg)
+![_Ventimiglia, August 2018, Isolation and new walls_](../assets/d5b618d694ba/1*S8fR7xR38HDnr2c6dT1vGg.jpeg)
 
 _Ventimiglia, August 2018, Isolation and new walls_
 
@@ -54,7 +54,7 @@ What happened? Locals applauding a volunteer? Were are the ladies and gents with
 Obviously, they are not the same people, so where have they been all this time? They clearly are not racists, but still, they never moved or acted towards refugees or migrants, we have never seen them, and there must be a reason\.
 
 
-![_Ventimiglia, August 2018, Under the Bridge_](assets/d5b618d694ba/1*UKQ0UPUJ2YSma3QZ_g375A.jpeg)
+![_Ventimiglia, August 2018, Under the Bridge_](../assets/d5b618d694ba/1*UKQ0UPUJ2YSma3QZ_g375A.jpeg)
 
 _Ventimiglia, August 2018, Under the Bridge_
 
@@ -71,7 +71,7 @@ A new born European non profit organisation, [More in Common](https://www.morein
 As we know, numbers and statistics are not flawless, but to support such data, some groups of scouts who came to see the border during these weeks, got more or less the same idea, and they spent few days among the population of Ventimiglia, asking questions about migrants and volunteers\. For sure it wasn’t a proper analysis with method, but the picture which came out, is surprisingly consistent with the numbers\.
 
 
-![_Ventimiglia, August 2018, Out loud\._](assets/d5b618d694ba/1*3Nyo0Z23B3vSZLuwZSlbCA.jpeg)
+![_Ventimiglia, August 2018, Out loud\._](../assets/d5b618d694ba/1*3Nyo0Z23B3vSZLuwZSlbCA.jpeg)
 
 _Ventimiglia, August 2018, Out loud\._
 
@@ -84,7 +84,7 @@ The same group of scouts, all in the age between 16 and 18, were composed in the
 Others, more sensitive from the start, understood better the importance of action, and were pushed to start something concrete in their territory once back\. The contact with the real situation, which is quite different from media coverage, with volunteers, and the answers we gave to their questions, generated doubts, curiosity, pushed them to open their eyes\.
 
 
-![_Ventimiglia, August 2018, Talking about the change_](assets/d5b618d694ba/1*jEc7WtxtBx9FtXUFCqCE7g.jpeg)
+![_Ventimiglia, August 2018, Talking about the change_](../assets/d5b618d694ba/1*jEc7WtxtBx9FtXUFCqCE7g.jpeg)
 
 _Ventimiglia, August 2018, Talking about the change_
 

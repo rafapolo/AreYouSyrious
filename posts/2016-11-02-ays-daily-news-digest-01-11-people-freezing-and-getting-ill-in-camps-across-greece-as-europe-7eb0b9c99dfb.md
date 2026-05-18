@@ -1,5 +1,5 @@
 ---
-title: AYS Daily News Digest 01/11: People freezing and getting ill in camps across Greece as Europe…
+title: "AYS Daily News Digest 01/11: People freezing and getting ill in camps across Greece as Europe…"
 author: Are You Syrious?
 date: 2016-11-02T02:47:19.712+0000
 last_modified_at: 2016-11-02T07:16:04.692+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,greece,uk-politics,germany]
 description: Saudi Arabia announces continuation of attacks — more victims of war and famine in Yemen / People kept in military area without help in…
 image:
-  path: assets/7eb0b9c99dfb/1*CnzX0j1-yOQuvBw19mtfYA.jpeg
+  path: ../assets/7eb0b9c99dfb/1*CnzX0j1-yOQuvBw19mtfYA.jpeg
 ---
 
 ### AYS Daily News Digest 01/11: People freezing and getting ill in camps across Greece as Europe dwells on relocation
@@ -15,7 +15,7 @@ image:
 _Saudi Arabia announces continuation of attacks — more victims of war and famine in Yemen / People kept in military area without help in Derecik, Turkey / New arrivals and old problems pile up on Greek islands / More problems in overcrowded camps with the winter getting closer / Serbian volunteers can’t cope alone anymore with growing number of refugees in need — help\! / Youngest Jungle residents to be evacuated in the morning / The British social workers and coaches on stand by to collect young refugees from France / Germany sets the bar low for the social care of the youngest refugees_
 
 
-![on a sunny day in a Greek camp\. \. \(Photo: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/?hc_ref=PAGES_TIMELINE&fref=nf) **\)**](assets/7eb0b9c99dfb/1*CnzX0j1-yOQuvBw19mtfYA.jpeg)
+![on a sunny day in a Greek camp\. \. \(Photo: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/?hc_ref=PAGES_TIMELINE&fref=nf) **\)**](../assets/7eb0b9c99dfb/1*CnzX0j1-yOQuvBw19mtfYA.jpeg)
 
 on a sunny day in a Greek camp\. \. \(Photo: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/?hc_ref=PAGES_TIMELINE&fref=nf) **\)**
 #### YEMEN
@@ -31,7 +31,7 @@ The war and restrictions of aid getting through causes most of the people in dif
 
 
 
-![One of the only ways to get aid into Taiz is trough the dangerous mountain paths\. If they don’t use donkeys, it’s by hand\. \(Photo: [**Brendan Woodhouse**](https://www.facebook.com/brendan.woodhouse.18) **\)**](assets/7eb0b9c99dfb/1*HRDPWfK3teztpeKGKCIAOg.jpeg)
+![One of the only ways to get aid into Taiz is trough the dangerous mountain paths\. If they don’t use donkeys, it’s by hand\. \(Photo: [**Brendan Woodhouse**](https://www.facebook.com/brendan.woodhouse.18) **\)**](../assets/7eb0b9c99dfb/1*HRDPWfK3teztpeKGKCIAOg.jpeg)
 
 One of the only ways to get aid into Taiz is trough the dangerous mountain paths\. If they don’t use donkeys, it’s by hand\. \(Photo: [**Brendan Woodhouse**](https://www.facebook.com/brendan.woodhouse.18) **\)**
 #### TURKEY
@@ -46,11 +46,11 @@ They don’t have access to informations, how they could leave the place or can 
 This camp consist of military barracks\. The people sleep in dormitories, nevertheless they have to pay for rooms, which are estimated at more than 10 US dollars per night, at a overcrowded place with many other refugees in the building\. A large part of them is sleeping outdoors without blankets\. The camp governor prevents Syrian refugees from leaving the barracks\. They have to wait for more than a month to be registered\. Additionally humanitarian missions or any NGOs are not allowed to enter the camp as a military zone\. This inhumane situation requires special and immediate attentions\.
 
 
-![](assets/7eb0b9c99dfb/1*XwMljGYAfsnAKx_wL8QNVw.jpeg)
+![](../assets/7eb0b9c99dfb/1*XwMljGYAfsnAKx_wL8QNVw.jpeg)
 
 
 
-![Derecik at the Turkis, Iraqi and Iranian border](assets/7eb0b9c99dfb/1*2tP6CbqIq90kOl6G0eRE9g.jpeg)
+![Derecik at the Turkis, Iraqi and Iranian border](../assets/7eb0b9c99dfb/1*2tP6CbqIq90kOl6G0eRE9g.jpeg)
 
 Derecik at the Turkis, Iraqi and Iranian border
 #### GREECE
@@ -76,12 +76,12 @@ A sailboat issued a distress signal several hours before the Greek coastal patro
 Overall, the number of refugees trapped in the islands of the northern Aegean amounts to 11\.789\.
 
 
-![Families, women and men stranded at the Greek island of Lesvos march in protest \(Photo: [**No Border Kitchen Lesvos**](https://www.facebook.com/NBKLesvos/) \)](assets/7eb0b9c99dfb/1*oyAdBmgp6tonFZ3QC6Sbzg.jpeg)
+![Families, women and men stranded at the Greek island of Lesvos march in protest \(Photo: [**No Border Kitchen Lesvos**](https://www.facebook.com/NBKLesvos/) \)](../assets/7eb0b9c99dfb/1*oyAdBmgp6tonFZ3QC6Sbzg.jpeg)
 
 Families, women and men stranded at the Greek island of Lesvos march in protest \(Photo: [**No Border Kitchen Lesvos**](https://www.facebook.com/NBKLesvos/) \)
 
 
-![Protest of the refugees kept at the refugee camp on Lesvos \(Photo: [**No Border Kitchen Lesvos**](https://www.facebook.com/NBKLesvos/) **\)**](assets/7eb0b9c99dfb/1*0pD3_-70t_cTww0_BeDAyw.jpeg)
+![Protest of the refugees kept at the refugee camp on Lesvos \(Photo: [**No Border Kitchen Lesvos**](https://www.facebook.com/NBKLesvos/) **\)**](../assets/7eb0b9c99dfb/1*0pD3_-70t_cTww0_BeDAyw.jpeg)
 
 Protest of the refugees kept at the refugee camp on Lesvos \(Photo: [**No Border Kitchen Lesvos**](https://www.facebook.com/NBKLesvos/) **\)**
 #### New arrivals putting pressure on Samos
@@ -89,7 +89,7 @@ Protest of the refugees kept at the refugee camp on Lesvos \(Photo: [**No Border
 The island of Samos has seen a deterioration in conditions at the camp\. The camp is currently hosting 3 times the official capacity of the camp and new residents are still arriving daily\. In the midst of the difficult situation, much needed new and creative activities are still provided at the camp, while the circumstances allow them to organize it\.
 
 
-![Photo: [**Pru Waldorf**](https://www.facebook.com/pru.waldorf)](assets/7eb0b9c99dfb/1*zLYVuzR8lVWqcdyr-qcNag.jpeg)
+![Photo: [**Pru Waldorf**](https://www.facebook.com/pru.waldorf)](../assets/7eb0b9c99dfb/1*zLYVuzR8lVWqcdyr-qcNag.jpeg)
 
 Photo: [**Pru Waldorf**](https://www.facebook.com/pru.waldorf)
 ### The everlasting relocation process
@@ -115,7 +115,7 @@ The Greek Deputy Minister of Migration Policy, Yiannis Mouzalas, was at the airp
 Apart from the lengthy procedures and interlocked interests from all sides involved in the relocation process and along with the worrying [MSF report](https://medium.com/@AreYouSyrious/ays-digest-31-10-msf-tells-it-like-it-is-stories-from-greece-and-beyond-4971a69c8a83#.qxjrbc62r) about the health damaging living conditions of the refugees in Greek camps, another inevitable problem has arrived — the cold\.
 
 
-![Night at the Petra Olympus camp \(Photo: Fouad Alfaqer\)](assets/7eb0b9c99dfb/1*6q2FczIThCWil447mcOwWQ.jpeg)
+![Night at the Petra Olympus camp \(Photo: Fouad Alfaqer\)](../assets/7eb0b9c99dfb/1*6q2FczIThCWil447mcOwWQ.jpeg)
 
 Night at the Petra Olympus camp \(Photo: Fouad Alfaqer\)
 
@@ -125,7 +125,7 @@ It is the only refugee camp in Greece exclusively for Yazidis, who have suffered
 Conditions at Petra are extremely rough\. The canvas tents that were too hot in the summer are now getting really too cold\. Snakes and scorpions were a constant threat during the summer months and now the cold ground is making it hard to fall asleep and refugees are patiently finding ways to warm up during nights that are getting colder day by day\.
 
 
-![So far this has been the only “heating system” in the camp \(Photo: Fouad Alfaqer\)](assets/7eb0b9c99dfb/1*Sl1FCwRKwkrR10nFhLvXqw.jpeg)
+![So far this has been the only “heating system” in the camp \(Photo: Fouad Alfaqer\)](../assets/7eb0b9c99dfb/1*Sl1FCwRKwkrR10nFhLvXqw.jpeg)
 
 So far this has been the only “heating system” in the camp \(Photo: Fouad Alfaqer\)
 
@@ -135,7 +135,7 @@ We’ve visited and [written about the Yazidis](https://medium.com/@AreYouSyriou
 Recent possibility and invitation from the Portuguese to quickly [relocate 450 Yazidis](http://theportugalnews.com/news/greeks-blocking-resettlement-of-yazidi-in-portugal/38756) from Greece to Portugal was not met with approval in Greece\. Portugal stated they didn’t want this gesture to be seen as giving privilege to anyone, recalling that the resettlement process had so start somewhere\. Although the Yazidi feared the relocation process, as they thought it would disperse the already diminished minority accross the European countries, now they patiently wait for the interview appointments and hope to finally reach a safe, warm, friendly place — together\.
 
 
-![Petra, the camp that is home to Yazidi refugees in the Thessaloniki area \(Photo: Fouad Alfaqer\)](assets/7eb0b9c99dfb/1*lAdWUJAR0fl-UoiKGFS86g.jpeg)
+![Petra, the camp that is home to Yazidi refugees in the Thessaloniki area \(Photo: Fouad Alfaqer\)](../assets/7eb0b9c99dfb/1*lAdWUJAR0fl-UoiKGFS86g.jpeg)
 
 Petra, the camp that is home to Yazidi refugees in the Thessaloniki area \(Photo: Fouad Alfaqer\)
 #### UNHCR promises all the sites on mainland and on the islands will receive winter items by the end of this week
@@ -149,11 +149,11 @@ Praksis [invites](http://www.praksis.gr/assets/Hosting_Households_%CF%80%CF%81%C
 As the winter draws near, the need for warm clothes and shoes becomes even greater in centres where most of the refugees gather to get food, clothes and information\. Volunteers in Belgrade are sending out a special call for men’s, women’s and children’s shoes\. If you have some shoes you would like to donate, but can’t come yourself, [contact](http://Maja Vrbanovic) the volunteers who will pick it up and give it to the feet in need\!
 
 
-![](assets/7eb0b9c99dfb/1*q8dRqVpjTPkYyHHtAiA31g.jpeg)
+![](../assets/7eb0b9c99dfb/1*q8dRqVpjTPkYyHHtAiA31g.jpeg)
 
 
 
-![Refugee boys on the streets of Belgrade without warm shoes or socks \(Photo: [**Maja Vrbanovic**](https://www.facebook.com/maja.bulajic.9) **\)**](assets/7eb0b9c99dfb/1*oKeZfzI7C28uPEui6fAeYw.jpeg)
+![Refugee boys on the streets of Belgrade without warm shoes or socks \(Photo: [**Maja Vrbanovic**](https://www.facebook.com/maja.bulajic.9) **\)**](../assets/7eb0b9c99dfb/1*oKeZfzI7C28uPEui6fAeYw.jpeg)
 
 Refugee boys on the streets of Belgrade without warm shoes or socks \(Photo: [**Maja Vrbanovic**](https://www.facebook.com/maja.bulajic.9) **\)**
 ### No food distribution at Refugee Aid Miksalište
@@ -161,11 +161,11 @@ Refugee boys on the streets of Belgrade without warm shoes or socks \(Photo: [**
 Due to the pressure created from the large amount of refugees coming to the center, Refugee Aid Miksaliste has had to halt its food distribution starting tomorrow, the 2nd of November\. The last few days, Hot Food Idomeni distributed over 1600 meals a day\. Due to the security risks from the presence of so many people, as well as the need to distribute so many meals while respecting all sanitary and communal requirements, RAM has to stop distributing this kind of help from today\. Considering that the number of refugees in Savamala keeps growing, they are appealing to both the government, as well as non\-governmental organizations, to help in finding a solution and securing future food distribution to people in need\.
 
 
-![](assets/7eb0b9c99dfb/1*4EXKDIJboXbKrWgc7TLSAw.jpeg)
+![](../assets/7eb0b9c99dfb/1*4EXKDIJboXbKrWgc7TLSAw.jpeg)
 
 
 
-![Images of people waiting for the food distribution \(Photos: Refugee Aid Miksalište\)](assets/7eb0b9c99dfb/1*dqNvn47KVe97hHDOErK07A.jpeg)
+![Images of people waiting for the food distribution \(Photos: Refugee Aid Miksalište\)](../assets/7eb0b9c99dfb/1*dqNvn47KVe97hHDOErK07A.jpeg)
 
 Images of people waiting for the food distribution \(Photos: Refugee Aid Miksalište\)
 #### **FRANCE**
@@ -180,7 +180,7 @@ Those with family in the UK, or who have specific vulnerabilities that may make 
 Flyers explaining the operation in different languages were distributed to the children\.
 
 
-![Flyers distributed to the young refugees in Calais \(Photo: [**Riaz Ahmad**](https://www.facebook.com/riaz.ahmad.58367) **\)**](assets/7eb0b9c99dfb/1*NvFZOsOnO9-9kdzi4XRhuA.jpeg)
+![Flyers distributed to the young refugees in Calais \(Photo: [**Riaz Ahmad**](https://www.facebook.com/riaz.ahmad.58367) **\)**](../assets/7eb0b9c99dfb/1*NvFZOsOnO9-9kdzi4XRhuA.jpeg)
 
 Flyers distributed to the young refugees in Calais \(Photo: [**Riaz Ahmad**](https://www.facebook.com/riaz.ahmad.58367) **\)**
 
@@ -203,7 +203,7 @@ Children will be given wristbands with the number of the bus they will have to g
 
 
 
-![Drawings and paper art by the last young Calais residents as a part of the C4C art project \(Photo: [**Care4Calais**](https://www.facebook.com/care4calais/) **\)**](assets/7eb0b9c99dfb/1*6o54pSEOffUugGynvgTArw.jpeg)
+![Drawings and paper art by the last young Calais residents as a part of the C4C art project \(Photo: [**Care4Calais**](https://www.facebook.com/care4calais/) **\)**](../assets/7eb0b9c99dfb/1*6o54pSEOffUugGynvgTArw.jpeg)
 
 Drawings and paper art by the last young Calais residents as a part of the C4C art project \(Photo: [**Care4Calais**](https://www.facebook.com/care4calais/) **\)**
 
@@ -218,7 +218,7 @@ The Calais Action team forwards the latest figures for the family reunification:
 UNHCR has requested a particular care for young UASC \(under 14\) \. They also contacted a representative of the French Ministry of the Interior in order to organise the support to the operation\. For the time being, the Sous\-Préfet asks UNHCR to provide information to the UASC during the operation\.
 
 
-![Photo: [Miguel Amortegui Photography](https://www.facebook.com/Miguelamorteguiphotography/)](assets/7eb0b9c99dfb/1*Hqm7kiL5AcQD6cx5ufWcuA.jpeg)
+![Photo: [Miguel Amortegui Photography](https://www.facebook.com/Miguelamorteguiphotography/)](../assets/7eb0b9c99dfb/1*Hqm7kiL5AcQD6cx5ufWcuA.jpeg)
 
 Photo: [Miguel Amortegui Photography](https://www.facebook.com/Miguelamorteguiphotography/)
 #### UK

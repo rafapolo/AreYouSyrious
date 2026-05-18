@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 13/03/20: People removed from Greek islands without a chance to seek asylum
+title: "AYS Daily Digest 13/03/20: People removed from Greek islands without a chance to seek asylum"
 author: Are You Syrious?
 date: 2020-03-14T14:37:47.471+0000
 last_modified_at: 2020-03-14T14:37:47.471+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [digest,greece,refugees,migrant-crisis,turkey]
 description: Are You Syrious?
 image:
-  path: assets/4fae47cfd0c4/0*yPKqHl-0vo32AwZ2.jpeg
+  path: ../assets/4fae47cfd0c4/0*yPKqHl-0vo32AwZ2.jpeg
 ---
 
 ### AYS Daily Digest 13/03/20: People removed from Greek islands without a chance to seek asylum
 
 
-![](assets/4fae47cfd0c4/0*UsxIszfZzNGTkWTc.jpeg)
+![](../assets/4fae47cfd0c4/0*UsxIszfZzNGTkWTc.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----93d1ea05091----------------------)
@@ -23,11 +23,11 @@ image:
 Growing Concerns about the Spread of Coronavirus // Illegal Returns in Greece // The Criminalization of Giving Assistance to People on the Move in Bosnia // Disastrous Conditions for Deported Afghans // & More
 
 
-![](assets/4fae47cfd0c4/0*9Lok3_MQzvbKrAWD)
+![](../assets/4fae47cfd0c4/0*9Lok3_MQzvbKrAWD)
 
 
 
-![](assets/4fae47cfd0c4/0*yPKqHl-0vo32AwZ2.jpeg)
+![](../assets/4fae47cfd0c4/0*yPKqHl-0vo32AwZ2.jpeg)
 
 ### FEATURE:
 ### Refugees on Lesvos asked to sign documents in Greek, leading to their “voluntary returns”
@@ -46,11 +46,11 @@ Sources from Brussels tell AYS that people on the move are being asked to sign t
 Under section 6, it clearly states that by signing this document, the person has been informed, in a language s/he understands, of their rights and the reasons of their detention\. Section 8 states that the person has not appealed the return decision within the 48 hour deadline\.
 
 
-![](assets/4fae47cfd0c4/0*ZgUAe9gHocT0dPOr)
+![](../assets/4fae47cfd0c4/0*ZgUAe9gHocT0dPOr)
 
 
 
-![](assets/4fae47cfd0c4/0*4paJSr2sd8aQTKqV.png)
+![](../assets/4fae47cfd0c4/0*4paJSr2sd8aQTKqV.png)
 
 
 There are serious concerns among people on the ground that detained refugees were **NOT** informed of anything regarding their detention, expulsion or of their ability to appeal the decision\. It appears they are not even informed about what this specific document states\. Sources say they are sure that the detained people concerned have not been given _any_ actual means to appeal their return decision\.
@@ -106,11 +106,11 @@ In Chios, the situation is appalling as new arrivals are housed out in the open\
 Volunteers are not allowed to help or approach\. It seems these people may be transferred to a closed deportation center on the mainland on Wednesday\.
 
 
-![](assets/4fae47cfd0c4/0*hht70ysGVx_1Han0)
+![](../assets/4fae47cfd0c4/0*hht70ysGVx_1Han0)
 
 
 
-![](assets/4fae47cfd0c4/0*vhDVJ56uwoQbhayH.jpeg)
+![](../assets/4fae47cfd0c4/0*vhDVJ56uwoQbhayH.jpeg)
 
 
 In the Amygdaleza detention center, a police officer tested positive for the coronavirus, becoming the first confirmed case in Antynomia\. Apparently, the officer traveled to Vienna several days ago and returned showing symptoms\. While she does not work directly in the detention centers, there were refugees in her office and fears are growing that some may have contracted the virus\.
@@ -146,11 +146,11 @@ Danish citizens and foreigners working in Denmark will still be free to enter an
 In the midst of these new travel restrictions, the populist Danish People’s Party \(Dansk Folkeparti\) is exploiting the situation to re\-demand a total stop for asylums as well as restrictions for the existing asylum centers as a means of “limiting the spreading of the virus\.”
 
 
-![](assets/4fae47cfd0c4/0*TqmU3LqI6vKkaa8P)
+![](../assets/4fae47cfd0c4/0*TqmU3LqI6vKkaa8P)
 
 
 
-![](assets/4fae47cfd0c4/0*pIKl-xZlosSupp8u.png)
+![](../assets/4fae47cfd0c4/0*pIKl-xZlosSupp8u.png)
 
 
 ITALY

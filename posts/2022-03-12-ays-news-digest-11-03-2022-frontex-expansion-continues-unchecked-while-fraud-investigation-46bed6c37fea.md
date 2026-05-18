@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 11/03/2022: Frontex expansion continues unchecked while fraud investigation…
+title: "AYS News Digest 11/03/2022: Frontex expansion continues unchecked while fraud investigation…"
 author: Are You Syrious?
 date: 2022-03-12T19:08:20.729+0000
 last_modified_at: 2022-03-12T19:08:20.729+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest]
 description: Death of young man in Tripoli // Safe Port needed for 111 people on GeoBarents // Oligarchs yachts for Sea Rescue // Children locked out of…
 image:
-  path: assets/46bed6c37fea/0*5JEUatBbpTa0w9cP
+  path: ../assets/46bed6c37fea/0*5JEUatBbpTa0w9cP
 ---
 
 ### AYS News Digest 11/03/2022: Frontex expansion continues unchecked while fraud investigation findings are censored
@@ -15,7 +15,7 @@ image:
 _Death of young man in Tripoli // Safe Port needed for 111 people on GeoBarents // Oligarchs yachts for Sea Rescue // Children locked out of Church in Cyprus // Greece in numbers // Racism persists at Danish border // The continued deterioration of asylum in the UK, if you live long enough to claim it, and much more…_
 
 
-![](assets/46bed6c37fea/0*j-OZvNB27sJ84WDC.jpeg)
+![](../assets/46bed6c37fea/0*j-OZvNB27sJ84WDC.jpeg)
 
 
 \(Photo Credit: [Open Arms](https://twitter.com/openarms_fund/status/1502358600911663104/photo/2) \)
@@ -166,7 +166,7 @@ UK
 [19 people died](https://thecivilfleet.wordpress.com/2022/03/11/19-people-died-in-home-office-asylum-seeker-accommodation-in-2021/?fbclid=IwAR3JWOhxJdiD3XmeBhRTpNMRu0Il9cNzmNLdiu6osTgisL3ffhXubkaxWbM) in asylum seeker accommodation in 2021\.
 
 
-![](assets/46bed6c37fea/0*5JEUatBbpTa0w9cP)
+![](../assets/46bed6c37fea/0*5JEUatBbpTa0w9cP)
 
 
 \(Photo Credit: [The Civil Fleet](https://thecivilfleet.wordpress.com/2022/03/11/19-people-died-in-home-office-asylum-seeker-accommodation-in-2021/?fbclid=IwAR3JWOhxJdiD3XmeBhRTpNMRu0Il9cNzmNLdiu6osTgisL3ffhXubkaxWbM) \)

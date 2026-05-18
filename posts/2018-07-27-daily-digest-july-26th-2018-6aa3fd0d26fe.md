@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 26/7/18: Spain with the largest number of new arrivals in 2018, police clashes at…
+title: "AYS DAILY DIGEST 26/7/18: Spain with the largest number of new arrivals in 2018, police clashes at…"
 author: Are You Syrious?
 date: 2018-07-27T08:06:26.914+0100
 last_modified_at: 2018-07-28T08:55:02.231+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [spain,refugees,european-union,help-refugees]
 description: The reason for Libyan Coast Guard’s increase in captures, videos of pregnant women on board Sarost 5, Turkish political activist Turgut…
 image:
-  path: assets/6aa3fd0d26fe/1*2ism6lNQUhjBBz99XQ8J2A.jpeg
+  path: ../assets/6aa3fd0d26fe/1*2ism6lNQUhjBBz99XQ8J2A.jpeg
 ---
 
 ### AYS DAILY DIGEST 26/7/18: Spain with the largest number of new arrivals in 2018, police clashes at North African enclave
@@ -15,7 +15,7 @@ image:
 _The reason for Libyan Coast Guard’s increase in captures, videos of pregnant women on board Sarost 5, Turkish political activist Turgut Kaya recognized as a refugee, activists in UK want country to accept unaccompanied minors, and so much more…_
 
 
-![People rescued in Tarifa PC: Marcos Morino](assets/6aa3fd0d26fe/1*2ism6lNQUhjBBz99XQ8J2A.jpeg)
+![People rescued in Tarifa PC: Marcos Morino](../assets/6aa3fd0d26fe/1*2ism6lNQUhjBBz99XQ8J2A.jpeg)
 
 People rescued in Tarifa PC: Marcos Morino
 ### Feature
@@ -52,7 +52,7 @@ Also, as [Watch the Med](https://www.facebook.com/watchthemed.alarmphone/photos/
 The Turkish political activist [Turgut Kaya](https://twitter.com/rspaegean/status/1022097390482989056) has ended his hunger strike\. He is officially a recognized refugee, but remains in detention\. RSA is calling for his immediate release in protection of his human rights\.
 
 
-![PC: [RSA](https://twitter.com/rspaegean/status/1022097390482989056)](assets/6aa3fd0d26fe/1*3xijZsO-RmWaGmdZqaYnHA.jpeg)
+![PC: [RSA](https://twitter.com/rspaegean/status/1022097390482989056)](../assets/6aa3fd0d26fe/1*3xijZsO-RmWaGmdZqaYnHA.jpeg)
 
 PC: [RSA](https://twitter.com/rspaegean/status/1022097390482989056)
 
@@ -62,7 +62,7 @@ Movement on the Ground on Lesvos is looking for more volunteers, especially Engl
 ### Bosnia
 
 
-![A little girl comforts her father after they lose their belongings to the latest downpour of rain\. Lack of protection has devastating consequences\. PC: [Gabriel Tizón](https://twitter.com/GabrielTizonf1)](assets/6aa3fd0d26fe/1*ffXAnYxuzrl8x6-vyQA0nQ.jpeg)
+![A little girl comforts her father after they lose their belongings to the latest downpour of rain\. Lack of protection has devastating consequences\. PC: [Gabriel Tizón](https://twitter.com/GabrielTizonf1)](../assets/6aa3fd0d26fe/1*ffXAnYxuzrl8x6-vyQA0nQ.jpeg)
 
 A little girl comforts her father after they lose their belongings to the latest downpour of rain\. Lack of protection has devastating consequences\. PC: [Gabriel Tizón](https://twitter.com/GabrielTizonf1)
 ### Austria
@@ -73,7 +73,7 @@ A Petition was signed by various Austrian NGOs calling on the Presidency to prot
 Many [people](https://www.facebook.com/paul.scho.5/posts/2085050251569429) protested today at a film university concerning the visit of Markus Söder \(CSU, minister president of Bavaria\), who is in support of criminalizing rescue missions and the current EU policy in the Mediterranean\. They wore life rescue jackets and laid wet on the ground motionless\.
 
 
-![PC: [Paul Scholten](https://www.facebook.com/paul.scho.5?hc_ref=ARSO-XIOWvE8rJ9IFLPXop7KLl_l4xe1M1IcqOXjU2X6WvjziYDPV9Y94WCwnF9X8zw&hc_location=group)](assets/6aa3fd0d26fe/1*LMuvbNSTujMrtM03hjbz6A.jpeg)
+![PC: [Paul Scholten](https://www.facebook.com/paul.scho.5?hc_ref=ARSO-XIOWvE8rJ9IFLPXop7KLl_l4xe1M1IcqOXjU2X6WvjziYDPV9Y94WCwnF9X8zw&hc_location=group)](../assets/6aa3fd0d26fe/1*LMuvbNSTujMrtM03hjbz6A.jpeg)
 
 PC: [Paul Scholten](https://www.facebook.com/paul.scho.5?hc_ref=ARSO-XIOWvE8rJ9IFLPXop7KLl_l4xe1M1IcqOXjU2X6WvjziYDPV9Y94WCwnF9X8zw&hc_location=group)
 ### Sweden
@@ -88,7 +88,7 @@ PC: [Paul Scholten](https://www.facebook.com/paul.scho.5?hc_ref=ARSO-XIOWvE8rJ9I
 The government still hasn’t filled the promised 480 spots and the discussion on Thursday was [adjourned](https://www.facebook.com/HelpRefugeesUK/photos/a.123267671367248.1073741830.111893659171316/665339100493433/?type=3&theater) \. The time to act is now\.
 
 
-![PC: [Help Refugees](https://www.facebook.com/HelpRefugeesUK/photos/a.123267671367248.1073741830.111893659171316/665339100493433/?type=3&theater)](assets/6aa3fd0d26fe/1*APPkfFJtoZDXiNH6RFTMnw.jpeg)
+![PC: [Help Refugees](https://www.facebook.com/HelpRefugeesUK/photos/a.123267671367248.1073741830.111893659171316/665339100493433/?type=3&theater)](../assets/6aa3fd0d26fe/1*APPkfFJtoZDXiNH6RFTMnw.jpeg)
 
 PC: [Help Refugees](https://www.facebook.com/HelpRefugeesUK/photos/a.123267671367248.1073741830.111893659171316/665339100493433/?type=3&theater)
 

@@ -1,5 +1,5 @@
 ---
-title: Frontex and Human Rights 2021: A reading list
+title: "Frontex and Human Rights 2021: A reading list"
 author: Are You Syrious?
 date: 2022-01-02T11:17:25.627+0000
 last_modified_at: 2022-01-02T11:17:25.627+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [special,frontex,human-rights,2021,refugees]
 description: Are You Syrious?
 image:
-  path: assets/7c2d5cf132a9/0*yNXHh7nf597WPNR9.jpeg
+  path: ../assets/7c2d5cf132a9/0*yNXHh7nf597WPNR9.jpeg
 ---
 
 ### Frontex and Human Rights 2021: A reading list
 
 
-![](assets/7c2d5cf132a9/0*UPH0yWzpIgYPpzYj.jpeg)
+![](../assets/7c2d5cf132a9/0*UPH0yWzpIgYPpzYj.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----576962d73853-----------------------------------)
@@ -23,7 +23,7 @@ image:
 During 2021, millions of words were written on Frontex\. Activist groups, monitoring networks, investigative journalists, NGOs… many groups have looked closely at the track record of the EU Border and Coast Guard Agency, at its ambiguous position somewhere between Brussels and the external borders of the EU, at the numerous criminal allegations against it\. Here is a selection of some of the year’s best, month by month\.
 
 
-![](assets/7c2d5cf132a9/0*yNXHh7nf597WPNR9.jpeg)
+![](../assets/7c2d5cf132a9/0*yNXHh7nf597WPNR9.jpeg)
 
 
 Credit: [Privacy International](https://privacyinternational.org/advocacy/3289/privacywins-eu-border-guards-cancel-plans-spy-social-media-now)

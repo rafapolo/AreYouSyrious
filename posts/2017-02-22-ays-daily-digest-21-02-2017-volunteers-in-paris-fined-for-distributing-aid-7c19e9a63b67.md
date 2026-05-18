@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 21/02/2017: Volunteers in Paris fined for distributing aid
+title: "AYS DAILY DIGEST 21/02/2017: Volunteers in Paris fined for distributing aid"
 author: Are You Syrious?
 date: 2017-02-22T01:54:31.978+0000
 last_modified_at: 2017-02-22T02:18:12.790+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,greece,germany,sweden]
 description: German The Higher Administrative Court says not every Syrian must be recognized as refugee. / 74 people found dead on the coast of Libya. /…
 image:
-  path: assets/7c19e9a63b67/1*KXTipMMm2YwW_RaT-CD8CQ.jpeg
+  path: ../assets/7c19e9a63b67/1*KXTipMMm2YwW_RaT-CD8CQ.jpeg
 ---
 
 ### AYS DAILY DIGEST 21/02/2017: Volunteers in Paris fined for distributing aid
@@ -15,7 +15,7 @@ image:
 _German The Higher Administrative Court says not every Syrian must be recognized as refugee\. / 74 people found dead on the coast of Libya\. / British House of Commons passes law to transfer unaccompanied minors\. / Volunteers in Slovenia and Greece provide essential needs\. / Sweden doesn’t want to come back to more permissive migration politics\. / Exhibition in Belgrade_
 
 
-![Volunteers distributing essential needs\. Credits: [Solidarité migrants Wilson](https://www.facebook.com/598228360377940/photos/pcb.638021239731985/638021046398671/?type=3&theater)](assets/7c19e9a63b67/1*KXTipMMm2YwW_RaT-CD8CQ.jpeg)
+![Volunteers distributing essential needs\. Credits: [Solidarité migrants Wilson](https://www.facebook.com/598228360377940/photos/pcb.638021239731985/638021046398671/?type=3&theater)](../assets/7c19e9a63b67/1*KXTipMMm2YwW_RaT-CD8CQ.jpeg)
 
 Volunteers distributing essential needs\. Credits: [Solidarité migrants Wilson](https://www.facebook.com/598228360377940/photos/pcb.638021239731985/638021046398671/?type=3&theater)
 ### France
@@ -37,7 +37,7 @@ As Help Refugees reports, Lord Alf Dubs’ amendment to allow unaccompanied chil
 It may be a small number of people seeking refuge in Slovenia, but there are\. And volunteers are taking care of them\. In a musical workshop in Maribor new and old residents were experiencing Slovenian, Arabic and Tigrinyan songs\.
 
 
-![Culturual exchange in Maribor\. Credits: [Slovenska filantropija](https://www.facebook.com/Slovenskafilantropija/photos/a.583302148418298.1073741827.583293701752476/1289639184451254/?type=3&theater)](assets/7c19e9a63b67/1*xoyB6-FBPZBVC18jTypeFg.jpeg)
+![Culturual exchange in Maribor\. Credits: [Slovenska filantropija](https://www.facebook.com/Slovenskafilantropija/photos/a.583302148418298.1073741827.583293701752476/1289639184451254/?type=3&theater)](../assets/7c19e9a63b67/1*xoyB6-FBPZBVC18jTypeFg.jpeg)
 
 Culturual exchange in Maribor\. Credits: [Slovenska filantropija](https://www.facebook.com/Slovenskafilantropija/photos/a.583302148418298.1073741827.583293701752476/1289639184451254/?type=3&theater)
 ### Turkey
@@ -62,14 +62,14 @@ In Katsikas camp volunteers of Refugee Support Greece managed to change the old 
 Meanwhile camp Veria received a nutrition program by Bridge2Refugees supported by Help Refugees\. In an art project the children created this sign\. To continue their work, Help Refugees is looking for two coordinators\. If you are interested in volunteering with them, check the [announcement](http://www.helprefugees.org.uk/news/were-recruiting/) \.
 
 
-![Nutrition programme in Veria\. Credits: [Help Refugees](https://www.facebook.com/HelpRefugeesUK/photos/a.123267671367248.1073741830.111893659171316/389258374768175/?type=3&theater)](assets/7c19e9a63b67/1*_RMD949ez60CrRsvXTVL6Q.jpeg)
+![Nutrition programme in Veria\. Credits: [Help Refugees](https://www.facebook.com/HelpRefugeesUK/photos/a.123267671367248.1073741830.111893659171316/389258374768175/?type=3&theater)](../assets/7c19e9a63b67/1*_RMD949ez60CrRsvXTVL6Q.jpeg)
 
 Nutrition programme in Veria\. Credits: [Help Refugees](https://www.facebook.com/HelpRefugeesUK/photos/a.123267671367248.1073741830.111893659171316/389258374768175/?type=3&theater)
 
 The Home project managed to open it’s second shelter in Athens and is ready to accomodate 20 children\. “ The kids will live in a healing environment and receive support, protection, education and social integration services,” they say\.
 
 
-![A shelter for children\. Credits: [The home project](https://www.facebook.com/HomeProjectOrg/photos/a.1582650538429714.1073741828.1523394214355347/1621156461245788/?type=3&theater)](assets/7c19e9a63b67/1*6h7zurCa4C6wTVubkksJeg.jpeg)
+![A shelter for children\. Credits: [The home project](https://www.facebook.com/HomeProjectOrg/photos/a.1582650538429714.1073741828.1523394214355347/1621156461245788/?type=3&theater)](../assets/7c19e9a63b67/1*6h7zurCa4C6wTVubkksJeg.jpeg)
 
 A shelter for children\. Credits: [The home project](https://www.facebook.com/HomeProjectOrg/photos/a.1582650538429714.1073741828.1523394214355347/1621156461245788/?type=3&theater)
 ### Sweden

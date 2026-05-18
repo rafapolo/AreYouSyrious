@@ -1,5 +1,5 @@
 ---
-title: AYS Special —  Sentinels of the Sea: why NGOs like Mare Liberum are important now more than ever
+title: "AYS Special —  Sentinels of the Sea: why NGOs like Mare Liberum are important now more than ever"
 author: Are You Syrious?
 date: 2019-11-21T11:01:01.331+0000
 last_modified_at: 2019-11-21T11:36:40.397+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,special,greece,aegean-sea]
 description: A legal comment following a mission with Mare Liberum in the Aegean Sea
 image:
-  path: assets/5bb592656c0a/1*-6BGar9gMlpMER8GRv8jZw.png
+  path: ../assets/5bb592656c0a/1*-6BGar9gMlpMER8GRv8jZw.png
 ---
 
 ### AYS Special — **Sentinels of the Sea: why NGOs like Mare Liberum are important now more than ever**
 #### A legal comment following a mission with Mare Liberum in the Aegean Sea
 
 
-![Credit: Andrea Panico\.](assets/5bb592656c0a/1*-6BGar9gMlpMER8GRv8jZw.png)
+![Credit: Andrea Panico\.](../assets/5bb592656c0a/1*-6BGar9gMlpMER8GRv8jZw.png)
 
 Credit: Andrea Panico\.
 
@@ -45,11 +45,11 @@ In other cases, the Hellenic Coast Guard has been documented as coercively block
 According to official data,\[11\] since the first of January 2017 to today 4,028 boats were stopped by the TCG and the Turkish Police capturing a total of 142,438 people\. Of these, thus far in 2019 the TCG intercepted 2,560 boats at sea, for a total of 84,166 people\.
 
 
-![](assets/5bb592656c0a/1*HCIpFBWYvDx5t30e-Mcx-A.png)
+![](../assets/5bb592656c0a/1*HCIpFBWYvDx5t30e-Mcx-A.png)
 
 
 
-![Migrant Arrivals In Greece in 2019\. Source: UNHCR\.](assets/5bb592656c0a/1*c6qxy9GEte1sw8wBZaKAxQ.png)
+![Migrant Arrivals In Greece in 2019\. Source: UNHCR\.](../assets/5bb592656c0a/1*c6qxy9GEte1sw8wBZaKAxQ.png)
 
 Migrant Arrivals In Greece in 2019\. Source: UNHCR\.
 
@@ -72,7 +72,7 @@ Mare Liberum, as well as other organizations involved in SAR and monitoring oper
 Raise the anchor again\. Hold the ship’s wheel firmly\. Take to the sea\. Whether in the Central Mediteranian or in the Aegean Sea, saving a single life is equivalent to saving the whole world\.
 
 
-![Credit: Andrea Panico\.](assets/5bb592656c0a/1*eyHDMbMCXH-vw2NOhdpbhA.png)
+![Credit: Andrea Panico\.](../assets/5bb592656c0a/1*eyHDMbMCXH-vw2NOhdpbhA.png)
 
 Credit: Andrea Panico\.
 

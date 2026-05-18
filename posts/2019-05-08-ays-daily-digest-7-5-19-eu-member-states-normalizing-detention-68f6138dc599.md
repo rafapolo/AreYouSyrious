@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 7/5/19: EU member states normalizing detention
+title: "AYS Daily Digest 7/5/19: EU member states normalizing detention"
 author: Are You Syrious?
 date: 2019-05-08T15:50:02.426+0100
 last_modified_at: 2019-05-08T16:01:54.069+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,europe,human-rights,legal,violence]
 description: Detention in Greece and Bulgaria / Sea Watch wins in court against the Netherlands / French associations file a lawsuit against the French…
 image:
-  path: assets/68f6138dc599/1*H64Vw-5hVzpDjm07RSd-tw.jpeg
+  path: ../assets/68f6138dc599/1*H64Vw-5hVzpDjm07RSd-tw.jpeg
 ---
 
 ### AYS Daily Digest 7/5/19: EU member states normalizing detention
@@ -17,7 +17,7 @@ image:
 ![Sea\-Watch wins in court in DenHaag — The new Dutch regulation, which has kept the Sea\-Watch 3 in port for a month is not to be enforced without a transitional period, the court stated\. The Sea\-Watch 3 will thus be able to resume their activities\.
 The organisation claims that one in ten people die trying to flee, crossing the Mediterranean\. 
 “The Dutch Government is to blame for this, as it has unlawfully prevented rescue in recent months,” they clearly state\. 
-The Sea\-Watch 3 will continue as soon as possible to prevent further deaths\.](assets/68f6138dc599/1*H64Vw-5hVzpDjm07RSd-tw.jpeg)
+The Sea\-Watch 3 will continue as soon as possible to prevent further deaths\.](../assets/68f6138dc599/1*H64Vw-5hVzpDjm07RSd-tw.jpeg)
 
 Sea\-Watch wins in court in DenHaag — The new Dutch regulation, which has kept the Sea\-Watch 3 in port for a month is not to be enforced without a transitional period, the court stated\. The Sea\-Watch 3 will thus be able to resume their activities\.
 The organisation claims that one in ten people die trying to flee, crossing the Mediterranean\. 
@@ -120,11 +120,11 @@ At the end of March, four associations directed an observation of living conditi
 The [Refugee Women’s Centre](https://www.facebook.com/refugeewomenscentre/?tn-str=k%2AF&hc_location=group_dialog) , along with eight other organisations, have submitted a lawsuit against the state, specifically against the Sous\-Préfecture of Dunkirk, regarding the deplorable living conditions experienced by refugees\. On Monday there was a hearing in Lille, the result of which they should have later this week\.
 
 
-![](assets/68f6138dc599/1*8nNNh-kosawV7T5fDpAhgw.jpeg)
+![](../assets/68f6138dc599/1*8nNNh-kosawV7T5fDpAhgw.jpeg)
 
 
 
-![](assets/68f6138dc599/1*mq8Q3LKOdzELUjzhknXkcw.jpeg)
+![](../assets/68f6138dc599/1*mq8Q3LKOdzELUjzhknXkcw.jpeg)
 
 #### SWEDEN
 ### Deportation

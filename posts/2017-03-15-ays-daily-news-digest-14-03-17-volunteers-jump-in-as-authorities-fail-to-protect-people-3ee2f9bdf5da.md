@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY NEWS DIGEST 14/03/17: Volunteers jump in as authorities fail to do their job
+title: "AYS DAILY NEWS DIGEST 14/03/17: Volunteers jump in as authorities fail to do their job"
 author: Are You Syrious?
 date: 2017-03-15T00:54:31.323+0000
 last_modified_at: 2017-03-15T10:56:44.465+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,hungary,greece,squatting]
 description: People evicted from squat moved to other squats / New arrivals in Nea Kavala / ECHR slams Hungary — what’s the consequence? / Several…
 image:
-  path: assets/3ee2f9bdf5da/1*6nkbi8rivadImyWwKZd__g.jpeg
+  path: ../assets/3ee2f9bdf5da/1*6nkbi8rivadImyWwKZd__g.jpeg
 ---
 
 ### AYS DAILY NEWS DIGEST 14/03/17: Volunteers jump in as authorities fail to do their job
@@ -15,7 +15,7 @@ image:
 _People evicted from squat moved to other squats / New arrivals in Nea Kavala / ECHR slams Hungary — what’s the consequence? / Several reports of inhuman deportations to Afghanistan / UK Home Office releases new guidlines for Dubs Scheme / MSF reports on health issues of people after the Turkey deal_
 
 
-![After the forced eviction, riot police throw all the personal belonging of refugees our on the street\. Refugees risk their lives to enter EU to escape war and terror, with the hope for better days\. Photo by [Marios Lolos\. Art Against](https://www.facebook.com/artagainstproject/posts/1309427632440001) \.](assets/3ee2f9bdf5da/1*6nkbi8rivadImyWwKZd__g.jpeg)
+![After the forced eviction, riot police throw all the personal belonging of refugees our on the street\. Refugees risk their lives to enter EU to escape war and terror, with the hope for better days\. Photo by [Marios Lolos\. Art Against](https://www.facebook.com/artagainstproject/posts/1309427632440001) \.](../assets/3ee2f9bdf5da/1*6nkbi8rivadImyWwKZd__g.jpeg)
 
 After the forced eviction, riot police throw all the personal belonging of refugees our on the street\. Refugees risk their lives to enter EU to escape war and terror, with the hope for better days\. Photo by [Marios Lolos\. Art Against](https://www.facebook.com/artagainstproject/posts/1309427632440001) \.
 ### Feature
@@ -27,14 +27,14 @@ Those with no papers were taken to a detention centre Minidi to process their re
 People who lived in squat came back to pick up there belongings day after the raid, but were prevented by the police\. Last night they could not take almost anything, only to found their stuff on the street day after\. People tried to pick up stuff from the pile, some managed to find some things, some not, but police decided to stop that at certain moment and to throw all the stuff in garbage bins that were taken away\. All the stuff are personal, including documents, and for many people this is another huge lost\.
 
 
-![People returning to the raided squats\. Photo by Marios Lolos\. [Art Against](https://www.facebook.com/artagainstproject/)](assets/3ee2f9bdf5da/1*UDAMl8MbsNS-TSgDNtyzXw.jpeg)
+![People returning to the raided squats\. Photo by Marios Lolos\. [Art Against](https://www.facebook.com/artagainstproject/)](../assets/3ee2f9bdf5da/1*UDAMl8MbsNS-TSgDNtyzXw.jpeg)
 
 People returning to the raided squats\. Photo by Marios Lolos\. [Art Against](https://www.facebook.com/artagainstproject/)
 
 The Acharnon squat, Alkiviadou Street, was raided after the Red Cross, that own the place, claimed it\. This is, unfortunately, another example among many of authorities and large INGOs failing to treat people in need appropriately\. Police raided the squat and detained some of the residents, including vulnerable ones\.
 
 
-![People trying to find their belongins\. Foto: [Khora](https://www.facebook.com/KhoraAthens/photos/a.534472740058672.1073741829.531581440347802/674494056056539/?type=3&theater)](assets/3ee2f9bdf5da/1*6VZn3s0Ahp6H95jbdm9uNA.jpeg)
+![People trying to find their belongins\. Foto: [Khora](https://www.facebook.com/KhoraAthens/photos/a.534472740058672.1073741829.531581440347802/674494056056539/?type=3&theater)](../assets/3ee2f9bdf5da/1*6VZn3s0Ahp6H95jbdm9uNA.jpeg)
 
 People trying to find their belongins\. Foto: [Khora](https://www.facebook.com/KhoraAthens/photos/a.534472740058672.1073741829.531581440347802/674494056056539/?type=3&theater)
 
@@ -56,7 +56,7 @@ Nevertheless, the new camp does not appear on the current list of camp sites of 
 Following a drop of several hundred people, who were transferred to houses and hotel rooms, the Nea Kavala camp in Polykastro, Northern Greece, saw an increase of the numbers again\. While the first group left fast, the We Are Here Community Center prepared a welcome meeting for the new arrivals and offered activites while people registered with Red Cross and got basic equipment\. Volunteers keep their activities in the camp running and offer the residents some entertainment\.
 
 
-![Volunteers entertain kids in Nea Kavala\. Credits: [We Are Here Community Center](https://www.facebook.com/WeAreHereCentre/posts/1964718640416398)](assets/3ee2f9bdf5da/1*i7jlD1a6Xpgaeo_oCxSYRA.jpeg)
+![Volunteers entertain kids in Nea Kavala\. Credits: [We Are Here Community Center](https://www.facebook.com/WeAreHereCentre/posts/1964718640416398)](../assets/3ee2f9bdf5da/1*i7jlD1a6Xpgaeo_oCxSYRA.jpeg)
 
 Volunteers entertain kids in Nea Kavala\. Credits: [We Are Here Community Center](https://www.facebook.com/WeAreHereCentre/posts/1964718640416398)
 
@@ -118,7 +118,7 @@ If you are able to make use of some of these items please can you let her know t
 The European Court of Human Rights \(ECHR\) today made in important ruling against the Hungarian government\. In the case of two Bangladeshians they decided, that it was unlawful to send them back a transit center at the Serbian border in September 2015 and detained there for 23 days\. The judges see a risk, that the people will be returned to another country from there, where they will be detained or face inhumane treatment\. Hungary was sentenced to pay the two victims a compensation of 10\.000 Euros and 8, for costs and expenses each\. The full text can be found [here](http://hudoc.echr.coe.int/eng-press#%20) \.
 
 
-![Transit zone between Serbia and Hungary\. Credits: Signal of Solidarity](assets/3ee2f9bdf5da/1*qEg-K6ZgdEl3h4fjPxqJ8Q.jpeg)
+![Transit zone between Serbia and Hungary\. Credits: Signal of Solidarity](../assets/3ee2f9bdf5da/1*qEg-K6ZgdEl3h4fjPxqJ8Q.jpeg)
 
 Transit zone between Serbia and Hungary\. Credits: Signal of Solidarity
 
@@ -142,7 +142,7 @@ As of today 15\.852 people have arrived in Italy this year, including 2\.230 una
 Another assumably unlawful deportation to Afghanistan has been recorded in Norway today\. As [Afghanistan Migrants Advice & Support Org](https://www.facebook.com/Afghanistan-Migrants-Advice-Support-Org-195295217167437/) reports, authorities have sent back an 17 year old asylum seeker who is mentally ill\. Aswell as the others he has nowhere to go in Afghanistan and noone to take care of him\.
 
 
-![Deportation Update Norway\. Credits: [Afghanistan Migrants Advice & Support Org](https://www.facebook.com/Afghanistan-Migrants-Advice-Support-Org-195295217167437/)](assets/3ee2f9bdf5da/1*Rr398TRKA8R-ADXARoDLnQ.jpeg)
+![Deportation Update Norway\. Credits: [Afghanistan Migrants Advice & Support Org](https://www.facebook.com/Afghanistan-Migrants-Advice-Support-Org-195295217167437/)](../assets/3ee2f9bdf5da/1*Rr398TRKA8R-ADXARoDLnQ.jpeg)
 
 Deportation Update Norway\. Credits: [Afghanistan Migrants Advice & Support Org](https://www.facebook.com/Afghanistan-Migrants-Advice-Support-Org-195295217167437/)
 ### UK

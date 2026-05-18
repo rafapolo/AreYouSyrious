@@ -1,5 +1,5 @@
 ---
-title: AYS Digest 28/5/2017: 10,000 refugees rescued over the last four days
+title: "AYS Digest 28/5/2017: 10,000 refugees rescued over the last four days"
 author: Are You Syrious?
 date: 2017-05-29T06:43:13.970+0100
 last_modified_at: 2017-05-29T11:03:23.772+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,greece,samos,italy,turkey]
 description: 275 people arrive on Samos over the past six days//Donations needed in Calais as police destroys tents and sleeping bags//New building…
 image:
-  path: assets/faa8bbf1096f/1*swr2b_dM5HVxm1hLd8bxFQ.png
+  path: ../assets/faa8bbf1096f/1*swr2b_dM5HVxm1hLd8bxFQ.png
 ---
 
 ### AYS Digest 28/5/2017: 10,000 refugees rescued over the last four days
@@ -17,7 +17,7 @@ _275 people arrive on Samos over the past six days//Donations needed in Calais a
 
 ![Moria graffiti: “”Inside are bakers, nurses, dads, mums, nurses, musicians\.
 And doctors, lawyers, dentists\.”
-Photo by [Dirty Girls of Lesvos](https://www.facebook.com/dirtygirlslesvos/)](assets/faa8bbf1096f/1*swr2b_dM5HVxm1hLd8bxFQ.png)
+Photo by [Dirty Girls of Lesvos](https://www.facebook.com/dirtygirlslesvos/)](../assets/faa8bbf1096f/1*swr2b_dM5HVxm1hLd8bxFQ.png)
 
 Moria graffiti: “”Inside are bakers, nurses, dads, mums, nurses, musicians\.
 And doctors, lawyers, dentists\.”
@@ -64,7 +64,7 @@ Refugees in the camp of Agia Eleni worry about the massive presence of scorpions
 Additionally, they complained about the lack of access to doctors and lawyers in the area, saying that there are no volunteers in the camp at all but one NGO that is in charge for running the camp\.
 
 
-![](assets/faa8bbf1096f/1*6e619FW1_zpA4oP8x3zS7Q.png)
+![](../assets/faa8bbf1096f/1*6e619FW1_zpA4oP8x3zS7Q.png)
 
 
 The first refugees arrived to this camp from Chios, Lesvos and Samos at the beginning of May\. The camp is a former orphanage that ceased to operate in 2006 and was later renovated\. UNHCR said children made up about half of the first group to move in and described the camp as a “collection of 20 spacious stone buildings”, adding that additional work was carried out in the surrounding area to make Agia Eleni safe and accessible to all\. UNHCR also noted that Alternate Minister Theano Fotiou praised the camp as a “model facility”\. Currently, there are around 140 people inside\.
@@ -80,14 +80,14 @@ Bordermonitoring Serbia says authorities are trying to lock up all exits of the 
 Care4Calais says it urgently needs donations, especially tarpaulins, sleeping bags and clothes\. The group visited a group of refugees who are sleeping rough and who told them that the police knows where they are and that they get no rest, as every night they are continuously tear gassed and pepper sprayed\. They also say that “ _a couple of nights ago the police went into these woods on a mission, a mission to destroy the beginnings of a new jungle in Calais, throwing belongings out of tents and slashing tents and sleeping bags, leaving people cold, damp and sleepless”_ \.
 
 
-![Photo by Care4Calais](assets/faa8bbf1096f/0*WdiW3Yvl68ybLVhk.)
+![Photo by Care4Calais](../assets/faa8bbf1096f/0*WdiW3Yvl68ybLVhk.)
 
 Photo by Care4Calais
 
 The Refugee Community Kitchen says it now serves 1,300 people a day at four different distributions points and also provides 1,000 liters of water in Calais, “ _where the conditions that people are living are beyond bleak with no facilities at all_ ”\. They need volunteers and you can find out more on how to do so by emailing refugeecommunitykitchen@gmail\.com\.
 
 
-![Photo by Refugee Community Kitchen](assets/faa8bbf1096f/0*JIS0UloQwwvlHJNk.)
+![Photo by Refugee Community Kitchen](../assets/faa8bbf1096f/0*JIS0UloQwwvlHJNk.)
 
 Photo by Refugee Community Kitchen
 #### Italy
@@ -98,7 +98,7 @@ A week ago we wrote on the situation in Gorizia, with around 150 refugees left o
 ### New building squatted in Amsterdam
 
 
-![Photo by “We are Here”](assets/faa8bbf1096f/0*OpyZqVJQNzrGMYA9.)
+![Photo by “We are Here”](../assets/faa8bbf1096f/0*OpyZqVJQNzrGMYA9.)
 
 Photo by “We are Here”
 

@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 27/9/2018: With the winter approaching, help is need all over Europe
+title: "AYS DAILY DIGEST 27/9/2018: With the winter approaching, help is need all over Europe"
 author: Are You Syrious?
 date: 2018-09-28T11:31:19.853+0100
 last_modified_at: 2018-09-28T21:07:32.256+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,balkans,bosnia,digest,greece]
 description: 80,602 people entered Europe by sea in 2018 while 1,730 died at sea whle trying // Over 11.900 people entered Bosnia this year // Police in…
 image:
-  path: assets/17644056aa16/1*nZvuZQDTa_26NoNLjbgg5Q.jpeg
+  path: ../assets/17644056aa16/1*nZvuZQDTa_26NoNLjbgg5Q.jpeg
 ---
 
 ### AYS DAILY DIGEST 27/9/2018: With the winter approaching, help is need all over Europe
@@ -15,7 +15,7 @@ image:
 _80,602 people entered Europe by sea in 2018 while 1,730 died at sea whle trying // Over 11\.900 people entered Bosnia this year // Police in Bihac is harassing refugees and locals who are helping // Two trials for war crimes in Syria ended in Germany // Help is needed all over Europe_
 
 
-![By Gabriel Tizon](assets/17644056aa16/1*nZvuZQDTa_26NoNLjbgg5Q.jpeg)
+![By Gabriel Tizon](../assets/17644056aa16/1*nZvuZQDTa_26NoNLjbgg5Q.jpeg)
 
 By Gabriel Tizon
 #### Morocco
@@ -30,7 +30,7 @@ In July, the EU allocated 55 million Euro for Morocco and Tunisia to fight “il
 The [Aquarius](https://www.facebook.com/1620638098209175/posts/2277846182488360/) ship is stuck off Malta, unable to disembark due to bad weather, which is not expected to improve in the next few days\.
 
 
-![](assets/17644056aa16/1*nr-TTgMtE_0vhyWFhzXDTg.jpeg)
+![](../assets/17644056aa16/1*nr-TTgMtE_0vhyWFhzXDTg.jpeg)
 
 
 According to [some sources](https://twitter.com/rose_catb/status/1045220364438171648) , after Panama revoked permission to the Aquarius to use their flag, Ireland and Switzerland are considering giving their flag to the ship so that it can continue its mission of saving lives\.
@@ -75,7 +75,7 @@ WEATHER WARNING:
 Among the children in Moria, there are many newborn babies\.
 
 
-![Two days old baby sleeping in the forest above Moria\. Photo by [Because We Care](https://www.facebook.com/391316364400310/posts/861932340672041/) \.](assets/17644056aa16/1*qZS0qT53C_hFxWVJepd20Q.jpeg)
+![Two days old baby sleeping in the forest above Moria\. Photo by [Because We Care](https://www.facebook.com/391316364400310/posts/861932340672041/) \.](../assets/17644056aa16/1*qZS0qT53C_hFxWVJepd20Q.jpeg)
 
 Two days old baby sleeping in the forest above Moria\. Photo by [Because We Care](https://www.facebook.com/391316364400310/posts/861932340672041/) \.
 #### Western Balkans
@@ -87,7 +87,7 @@ The number of asylum\-seekers in the Balkans has also increased with over 5,600 
 However, most of the people who are in Bosnia now do not have decent accommodation, or indeed any accommodation at all\. In Bihac, north Bosnia, close to the border with Croatia, there is still the biggest concentration of people\. Some are staying in houses in the city or nearby villages, some in a semi\-official camp in Djacki dom, and most of the people are out in the open\. Even though there are no exact numbers, according to some estimates at least 20 percent of those in Bihac are minors, most of them traveling without any adult\. So far, neither the state nor any of the international agencies present there are providing enough support for these children, and they remain exposed to all types of violence, and potentially even to becoming victims of human trafficking\.
 
 
-![Bihac, make\-shift camp Borici\. Photo by AYS\.](assets/17644056aa16/1*Zi5z7Nc8Y3j5SW3DJqczng.jpeg)
+![Bihac, make\-shift camp Borici\. Photo by AYS\.](../assets/17644056aa16/1*Zi5z7Nc8Y3j5SW3DJqczng.jpeg)
 
 Bihac, make\-shift camp Borici\. Photo by AYS\.
 
@@ -121,7 +121,7 @@ _“The mobile barber shop is an amazing sight\. A crowd will gather to watch as
 “Winter is steadily approaching and there seems to be, once again, no government plan for the thousands of refugees sleeping outside, in summer tents for the lucky ones, and under a couple of blankets stretched between trees for the others\.
 
 
-![](assets/17644056aa16/1*xtixRYEoHmzNxbhPzBCj0Q.jpeg)
+![](../assets/17644056aa16/1*xtixRYEoHmzNxbhPzBCj0Q.jpeg)
 
 
 “We are raising money to help them and you can make a huge impact: FOR THE PRICE OF YOUR TICKET WE CAN PROVIDE A FAMILY OF 4 WITH A TENT AND WARM SLEEPING BAGS\.

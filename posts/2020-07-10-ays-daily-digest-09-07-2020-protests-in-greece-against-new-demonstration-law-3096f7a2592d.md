@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 09/07/2020: Protests in Greece against New Demonstration Law
+title: "AYS DAILY DIGEST 09/07/2020: Protests in Greece against New Demonstration Law"
 author: Are You Syrious?
 date: 2020-07-10T21:15:17.253+0100
 last_modified_at: 2020-07-10T21:15:17.253+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: []
 description: First aid trainings in Moria // Report on discriminatory practices by Blue Star Ferries // News from the Sea // Von der Leyens reaction to…
 image:
-  path: assets/3096f7a2592d/0*xc-49d6EP5i0-MJX.jpeg
+  path: ../assets/3096f7a2592d/0*xc-49d6EP5i0-MJX.jpeg
 ---
 
 ### AYS DAILY DIGEST 09/07/2020: Protests in Greece against New Demonstration Law
 ### First aid trainings in Moria // Report on discriminatory practices by Blue Star Ferries // News from the Sea // Von der Leyens reaction to investigation into March shooting at Turkish\-Greek border
 
 
-![young boy at Victoria Square in Athens](assets/3096f7a2592d/0*xc-49d6EP5i0-MJX.jpeg)
+![young boy at Victoria Square in Athens](../assets/3096f7a2592d/0*xc-49d6EP5i0-MJX.jpeg)
 
 young boy at Victoria Square in Athens
 ### FEATURE: NEW DEMONSTRATION LAW IN GREECE

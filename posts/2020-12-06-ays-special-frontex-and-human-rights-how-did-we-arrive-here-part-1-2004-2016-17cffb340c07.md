@@ -1,5 +1,5 @@
 ---
-title: AYS Special: Frontex and human rights — How did we arrive here? PART 1 (2004–2016)
+title: "AYS Special: Frontex and human rights — How did we arrive here? PART 1 (2004–2016)"
 author: Are You Syrious?
 date: 2020-12-06T15:17:21.232+0000
 last_modified_at: 2021-02-05T15:30:20.943+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [special,frontex,pushback,european-union,militarization]
 description: Working on an article about Frontex is not an easy task. Information and allegations about the agency are piling up on a daily basis. The…
 image:
-  path: assets/17cffb340c07/1*NpAtaXvAK6g6EN6CXasJfg.jpeg
+  path: ../assets/17cffb340c07/1*NpAtaXvAK6g6EN6CXasJfg.jpeg
 ---
 
 ### AYS Special: Frontex and human rights — How did we arrive here? PART 1 \(2004–2016\)
@@ -20,7 +20,7 @@ _This is the first part of the Frontex timeline, from the establishment of the a
 **Personnel:** 355 — **Budget:** €251m
 
 
-![July 2016, Protest in front of the European Parliament \(Photo by S\. Lösing\)](assets/17cffb340c07/1*NpAtaXvAK6g6EN6CXasJfg.jpeg)
+![July 2016, Protest in front of the European Parliament \(Photo by S\. Lösing\)](../assets/17cffb340c07/1*NpAtaXvAK6g6EN6CXasJfg.jpeg)
 
 July 2016, Protest in front of the European Parliament \(Photo by S\. Lösing\)
 
@@ -71,7 +71,7 @@ The FRO concludes suggesting the revision of the Agency’s support “in operat
 **September 14:** Major extension of mandate of Frontex\. The 2004 Regulation is repealed and substituted by the [2016/1624](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R1624) \. Frontex is now renamed the European Border and Coast Guard Agency, which is responsible of the Integrated Border Management of the Union\. The agency “keeps and enhances its operative — i\.e\., coordinating operations — and regulatory roles — i\.e\., supporting the Commission in the application of legislation relating to the borders\.” The new regulation introduces a new monitoring role for Frontex, providing the Agency with the ability to monitor EU member states’ management of external borders and with the right to intervene, in case a member state fails to comply with Frontex recommendations\. Coordination between Frontex, Europol, Eurosur, and national authorities are strengthened\. The new regulation integrates the Sea Border 2014 regulation, giving Frontex the right to patrol external sea borders\. It also integrates the 2006 Schengen Borders Code Regulation \(then revised in November 2016\) \. Frontex is now allowed to expand its activities to “pre\-frontier areas” \(third countries\) \. Frontex is able to require EU member states to collectively provide up to 1,500 border guards for its Joint Operations\. Frontex Consultative Forum was asked to [provide inputs](https://frontex.europa.eu/assets/Partners/Consultative_Forum_files/Frontex_Consultative_Forum_annual_report_2015.pdf) \(p\.41\) regarding to the safeguarding of fundamental rights, but such [inputs were ignored](https://frontex.europa.eu/assets/Partners/Consultative_Forum_files/Frontex_Consultative_Forum_annual_report_2016.pdf) \(p\.19\) by Frontex Management Board when it submitted recommendations related to the amendment of the 2004 Frontex Regulation\.
 
 
-![Breakdown of EBCG tasks, by [Frontex](https://frontex.europa.eu/assets/Images_News/2016/European_Border_and_Coast_Guard_Agency_Main_Tasks.pdf)](assets/17cffb340c07/1*apAV7z2eeOuGvsTW4Wxo8Q.png)
+![Breakdown of EBCG tasks, by [Frontex](https://frontex.europa.eu/assets/Images_News/2016/European_Border_and_Coast_Guard_Agency_Main_Tasks.pdf)](../assets/17cffb340c07/1*apAV7z2eeOuGvsTW4Wxo8Q.png)
 
 Breakdown of EBCG tasks, by [Frontex](https://frontex.europa.eu/assets/Images_News/2016/European_Border_and_Coast_Guard_Agency_Main_Tasks.pdf)
 
@@ -139,7 +139,7 @@ Breakdown of EBCG tasks, by [Frontex](https://frontex.europa.eu/assets/Images_Ne
 **Personnel:** 309 — **Budget:** €143\.3m
 
 
-![December 13, 2015 \(Artwork by [Vagelis Papvasiliou](https://twitter.com/vagpapavasiliou/status/676082800286679041) \)](assets/17cffb340c07/1*RjiqreqhB-bIi_A8aPktxQ.jpeg)
+![December 13, 2015 \(Artwork by [Vagelis Papvasiliou](https://twitter.com/vagpapavasiliou/status/676082800286679041) \)](../assets/17cffb340c07/1*RjiqreqhB-bIi_A8aPktxQ.jpeg)
 
 December 13, 2015 \(Artwork by [Vagelis Papvasiliou](https://twitter.com/vagpapavasiliou/status/676082800286679041) \)
 
@@ -193,7 +193,7 @@ December 13, 2015 \(Artwork by [Vagelis Papvasiliou](https://twitter.com/vagpapa
 **Personnel:** 311 — **Budget:** €93\.4m
 
 
-![June 1, 2014 — The March For Freedom arrives in Schengen, Luxembourg \(Photo by [Carole Reckinger](https://carolereckinger.com/2014/06/01/make-music-not-borders-schengen-open-mic-concert-to-welcome-the-march-for-freedom/) \)](assets/17cffb340c07/1*T7K2EgfaN03u5gz4h12btQ.jpeg)
+![June 1, 2014 — The March For Freedom arrives in Schengen, Luxembourg \(Photo by [Carole Reckinger](https://carolereckinger.com/2014/06/01/make-music-not-borders-schengen-open-mic-concert-to-welcome-the-march-for-freedom/) \)](../assets/17cffb340c07/1*T7K2EgfaN03u5gz4h12btQ.jpeg)
 
 June 1, 2014 — The March For Freedom arrives in Schengen, Luxembourg \(Photo by [Carole Reckinger](https://carolereckinger.com/2014/06/01/make-music-not-borders-schengen-open-mic-concert-to-welcome-the-march-for-freedom/) \)
 
@@ -245,7 +245,7 @@ As the Frontex Consultative Forum \(CF\) highlighted in their [report](https://f
 **Personnel:** 302 — **Budget:** €94m
 
 
-![[Frontexit](https://www.frontexit.org/) Campaign](assets/17cffb340c07/1*mR2lIViicxRJuzINYQll6A.jpeg)
+![[Frontexit](https://www.frontexit.org/) Campaign](../assets/17cffb340c07/1*mR2lIViicxRJuzINYQll6A.jpeg)
 
 [Frontexit](https://www.frontexit.org/) Campaign
 
@@ -352,7 +352,7 @@ Further proof was [provided](https://www.proasyl.de/en/material/pushed-back-syst
 **Personnel:** 303 — **Budget:** €89\.6m
 
 
-![December 18, Action against Frontex and CIE in Madrid \(Photo by [Ricardo Cana](https://twitter.com/rcana/status/281128131174211585) \)](assets/17cffb340c07/1*-JTiXiU5COjFy_E-MR8Mtw.jpeg)
+![December 18, Action against Frontex and CIE in Madrid \(Photo by [Ricardo Cana](https://twitter.com/rcana/status/281128131174211585) \)](../assets/17cffb340c07/1*-JTiXiU5COjFy_E-MR8Mtw.jpeg)
 
 December 18, Action against Frontex and CIE in Madrid \(Photo by [Ricardo Cana](https://twitter.com/rcana/status/281128131174211585) \)
 
@@ -394,7 +394,7 @@ On the one hand, the 2011 Regulation states that it “shall have access to all 
 **Personnel:** 304 — **Budget:** €118\.2m
 
 
-![March 1, 2011 — Hamburg\-Stop Frontex in the Mediterranean and Solidarity to the 300 hunger\-strikers in Greece \(Photo by [busy shadows](https://busyshadows.blogspot.com/2011/03/stop-frontex-in-mediteranean-and.html) \)](assets/17cffb340c07/1*cI17DCPzvkhDw18uuEnUKQ.jpeg)
+![March 1, 2011 — Hamburg\-Stop Frontex in the Mediterranean and Solidarity to the 300 hunger\-strikers in Greece \(Photo by [busy shadows](https://busyshadows.blogspot.com/2011/03/stop-frontex-in-mediteranean-and.html) \)](../assets/17cffb340c07/1*cI17DCPzvkhDw18uuEnUKQ.jpeg)
 
 March 1, 2011 — Hamburg\-Stop Frontex in the Mediterranean and Solidarity to the 300 hunger\-strikers in Greece \(Photo by [busy shadows](https://busyshadows.blogspot.com/2011/03/stop-frontex-in-mediteranean-and.html) \)
 
@@ -462,7 +462,7 @@ _Member States remain primarily responsible for the implementation of the releva
 **Personnel:** 294 — **Budget:** €92\.8m
 
 
-![August 28, 2010, Samos, Greece \(Photo by [FrontExplode](http://frontexplode.eu/2010/08/28/bye-bye-frontex/) \)](assets/17cffb340c07/1*isaqGpWZ-fVszc2SZEURoA.jpeg)
+![August 28, 2010, Samos, Greece \(Photo by [FrontExplode](http://frontexplode.eu/2010/08/28/bye-bye-frontex/) \)](../assets/17cffb340c07/1*isaqGpWZ-fVszc2SZEURoA.jpeg)
 
 August 28, 2010, Samos, Greece \(Photo by [FrontExplode](http://frontexplode.eu/2010/08/28/bye-bye-frontex/) \)
 
@@ -480,7 +480,7 @@ This is the first year in which Frontex emphatically addresses its commitment to
 **Personnel:** 226 — **Budget:** €88\.3m
 
 
-![August 29, 2009 — Mytilene, Lesvos — Frontex Kills](assets/17cffb340c07/1*HJWkODE42xZkROZqlrD_-Q.jpeg)
+![August 29, 2009 — Mytilene, Lesvos — Frontex Kills](../assets/17cffb340c07/1*HJWkODE42xZkROZqlrD_-Q.jpeg)
 
 August 29, 2009 — Mytilene, Lesvos — Frontex Kills
 
@@ -498,7 +498,7 @@ August 29, 2009 — Mytilene, Lesvos — Frontex Kills
 **Personnel:** 181 — **Budget:** €80\.4m
 
 
-![June 8, 2008 — Warsaw, action against Frontex \(Photo by [FrontExplode](http://frontexplode.eu/action/) \)](assets/17cffb340c07/1*pMsR-C02-pbEIEpqm4B53w.jpeg)
+![June 8, 2008 — Warsaw, action against Frontex \(Photo by [FrontExplode](http://frontexplode.eu/action/) \)](../assets/17cffb340c07/1*pMsR-C02-pbEIEpqm4B53w.jpeg)
 
 June 8, 2008 — Warsaw, action against Frontex \(Photo by [FrontExplode](http://frontexplode.eu/action/) \)
 
@@ -522,7 +522,7 @@ June 8, 2008 — Warsaw, action against Frontex \(Photo by [FrontExplode](http:/
 **Personnel:** 128 — **Budget:** €42\.1m
 
 
-![September 20–22, No Border Camp, Gatwick, UK\(Photo by [Indymedia UK](https://www.indymedia.org.uk/en/2007/08/379163.html) \)](assets/17cffb340c07/1*pEQgyLmvpJCL-s5XtjJZng.png)
+![September 20–22, No Border Camp, Gatwick, UK\(Photo by [Indymedia UK](https://www.indymedia.org.uk/en/2007/08/379163.html) \)](../assets/17cffb340c07/1*pEQgyLmvpJCL-s5XtjJZng.png)
 
 September 20–22, No Border Camp, Gatwick, UK\(Photo by [Indymedia UK](https://www.indymedia.org.uk/en/2007/08/379163.html) \)
 
@@ -540,7 +540,7 @@ September 20–22, No Border Camp, Gatwick, UK\(Photo by [Indymedia UK](https://
 **Personnel:** 70 — **Budget:** €19\.2m
 
 
-![Papers and right for all \(From [Crossing Borders Newsletter](http://noborder.org/crossing_borders/) , October 2006\)](assets/17cffb340c07/1*1U2sJzfJiMGcp5t04z-jag.png)
+![Papers and right for all \(From [Crossing Borders Newsletter](http://noborder.org/crossing_borders/) , October 2006\)](../assets/17cffb340c07/1*1U2sJzfJiMGcp5t04z-jag.png)
 
 Papers and right for all \(From [Crossing Borders Newsletter](http://noborder.org/crossing_borders/) , October 2006\)
 
@@ -587,7 +587,7 @@ As stated in the [report](https://www.ceps.eu/ceps-publications/eu-border-manage
 [**Personnel:** 45 — **Budget:** €5\.5m](https://frontex.europa.eu/assets/Key_Documents/Annual_report/2005/general_report_2005_en1.pdf)
 
 
-![Shilpa Gupta, There is no border here, 2005/06](assets/17cffb340c07/1*wZpnEHpX0U7qKgPd8jFKgA.jpeg)
+![Shilpa Gupta, There is no border here, 2005/06](../assets/17cffb340c07/1*wZpnEHpX0U7qKgPd8jFKgA.jpeg)
 
 Shilpa Gupta, There is no border here, 2005/06
 
@@ -597,11 +597,11 @@ Shilpa Gupta, There is no border here, 2005/06
 ### 2004
 
 
-![](assets/17cffb340c07/1*uoE75ZIajkgJhdtbKYWZ3w.jpeg)
+![](../assets/17cffb340c07/1*uoE75ZIajkgJhdtbKYWZ3w.jpeg)
 
 
 
-![January 31, 2004 — European day of migrant struggles — Brussels \(left\) and Doncaster, UK \(right\) \(Photos by [noborder\.org](http://www.noborder.org/actionday2004/display.php%3Fid=288.html) \)](assets/17cffb340c07/1*R0u4SYGs_oo_A2TpbZmbIA.jpeg)
+![January 31, 2004 — European day of migrant struggles — Brussels \(left\) and Doncaster, UK \(right\) \(Photos by [noborder\.org](http://www.noborder.org/actionday2004/display.php%3Fid=288.html) \)](../assets/17cffb340c07/1*R0u4SYGs_oo_A2TpbZmbIA.jpeg)
 
 January 31, 2004 — European day of migrant struggles — Brussels \(left\) and Doncaster, UK \(right\) \(Photos by [noborder\.org](http://www.noborder.org/actionday2004/display.php%3Fid=288.html) \)
 

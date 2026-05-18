@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 11/01/18: EuroRelief: Evangelical organisation providing more harm than aid to…
+title: "AYS DAILY DIGEST 11/01/18: EuroRelief: Evangelical organisation providing more harm than aid to…"
 author: Are You Syrious?
 date: 2018-01-12T09:24:39.369+0000
 last_modified_at: 2018-01-12T10:37:06.670+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,greece,human-rights,human-rights-violations,refugee-crisis]
 description: A inside look into the operations of Eurorelief //Ghouta civilians dying from preventable diseases // Arrests and deportations in Libya //…
 image:
-  path: assets/807717ec51f8/1*mJVuMVXeJ9Q-anVmQM2l2g.jpeg
+  path: ../assets/807717ec51f8/1*mJVuMVXeJ9Q-anVmQM2l2g.jpeg
 ---
 
 ### AYS DAILY DIGEST 11/01/18: EuroRelief: Evangelical organisation providing more harm than aid to refugees
@@ -15,7 +15,7 @@ image:
 A inside look into the operations of Eurorelief //Ghouta civilians dying from preventable diseases // Arrests and deportations in Libya // Rescues at Sea // Demonstrations in Cyprus// News from Greece// Serbia//Italy// Hungary// France and more…
 
 
-![Moria bad\. Moria prison\. Photo by **Kevin McElvaney**](assets/807717ec51f8/1*mJVuMVXeJ9Q-anVmQM2l2g.jpeg)
+![Moria bad\. Moria prison\. Photo by **Kevin McElvaney**](../assets/807717ec51f8/1*mJVuMVXeJ9Q-anVmQM2l2g.jpeg)
 
 Moria bad\. Moria prison\. Photo by **Kevin McElvaney**
 ### Feature: A look into the main Organisation providing “aid” to refugees in Greece’s most notorious detention centre\.
@@ -66,7 +66,7 @@ From the way they make things sounds, you would assume that they are a Greek Org
 Last year, Hellenic Ministries invested a lot of time and money into a project named Operation Joshua, a project whose aim was to distribute millions of copies of the bible across rural households in Greece\.
 
 
-[![Operation Joshua 2016](assets/807717ec51f8/c69d_hqdefault.jpg "Operation Joshua 2016")](http://www.youtube.com/watch?v=9gS6U5x3rbs)
+[![Operation Joshua 2016](../assets/807717ec51f8/c69d_hqdefault.jpg "Operation Joshua 2016")](http://www.youtube.com/watch?v=9gS6U5x3rbs)
 
 
 Operation Joshua required millions of dollars to execute\. With that much money at their disposal… surely over 6000 people shouldn’t be living in a prison camp that has the capacity to host 1800 people throughout the winter? Surely families with children shouldn’t be forced to sleep outside in summer tents in the snow? Surely the rubbish could be cleared? Surely safe and hygienic facilities could be established? Surely people should not be dying from preventable illnesses?
@@ -74,19 +74,19 @@ Operation Joshua required millions of dollars to execute\. With that much money 
 With that much money surely Moria shouldn’t look like this 2 years on…
 
 
-![](assets/807717ec51f8/1*7YUQCNNNqq_jC4csuAG8bw.jpeg)
+![](../assets/807717ec51f8/1*7YUQCNNNqq_jC4csuAG8bw.jpeg)
 
 
 
-![](assets/807717ec51f8/1*F_bAIclWxBVf8h4BCJcTww.jpeg)
+![](../assets/807717ec51f8/1*F_bAIclWxBVf8h4BCJcTww.jpeg)
 
 
 
-![](assets/807717ec51f8/1*P0ed2mRGYX5BL6S4jiQGjQ.jpeg)
+![](../assets/807717ec51f8/1*P0ed2mRGYX5BL6S4jiQGjQ.jpeg)
 
 
 
-![**Moria is a hell\. Moria is a Prison\. People are living in filth\. Families with children are sleeping outside in the middle of winter in summer tents\. Last winter seven people died in Moria due to the cold\.** Photos by **Kevin McElvaney**](assets/807717ec51f8/1*iqcO1dleFaAl6WhuQTKz6g.jpeg)
+![**Moria is a hell\. Moria is a Prison\. People are living in filth\. Families with children are sleeping outside in the middle of winter in summer tents\. Last winter seven people died in Moria due to the cold\.** Photos by **Kevin McElvaney**](../assets/807717ec51f8/1*iqcO1dleFaAl6WhuQTKz6g.jpeg)
 
 **Moria is a hell\. Moria is a Prison\. People are living in filth\. Families with children are sleeping outside in the middle of winter in summer tents\. Last winter seven people died in Moria due to the cold\.** Photos by **Kevin McElvaney**
 
@@ -163,7 +163,7 @@ A day in the life of a EuroRelief Coordinator from their blog which you can [rea
 
 
 
-![Housing boards showing the breakdown of housing units\. As you can see nationalities of residents are shown\. Source: peacepapergirl\.wordpress\.com](assets/807717ec51f8/1*0BfOz0TIDBj0S1lH3myIwg.jpeg)
+![Housing boards showing the breakdown of housing units\. As you can see nationalities of residents are shown\. Source: peacepapergirl\.wordpress\.com](../assets/807717ec51f8/1*0BfOz0TIDBj0S1lH3myIwg.jpeg)
 
 Housing boards showing the breakdown of housing units\. As you can see nationalities of residents are shown\. Source: peacepapergirl\.wordpress\.com
 
@@ -251,7 +251,7 @@ Ahmed is a Syrian refugee currently in Cyprus who attempted to cross the border 
 
 
 
-![Source: Ομάδα αλληλεγγύης για τον Άχμετ / Ahmed solidarity group](assets/807717ec51f8/1*WRN5NwYvXhMrk6lbmMckXg.jpeg)
+![Source: Ομάδα αλληλεγγύης για τον Άχμετ / Ahmed solidarity group](../assets/807717ec51f8/1*WRN5NwYvXhMrk6lbmMckXg.jpeg)
 
 Source: Ομάδα αλληλεγγύης για τον Άχμετ / Ahmed solidarity group
 ### The EU:
@@ -273,7 +273,7 @@ To see a list of most needed items please [follow this link\.](https://www.faceb
 #### Volunteers are needed on Lesvos:
 
 
-![](assets/807717ec51f8/1*Z-rlu8Vg-yhv4R2sBqI_NQ.jpeg)
+![](../assets/807717ec51f8/1*Z-rlu8Vg-yhv4R2sBqI_NQ.jpeg)
 
 #### Refugee Info Bus provides crucial information on AMKA: Greek social security card\. Please watch and share this video\.
 
@@ -285,7 +285,7 @@ To see a list of most needed items please [follow this link\.](https://www.faceb
 96 New arrivals in the early hours of this morning\. 30 from Chios and 69 from Lesvos\.
 
 
-![Source: Refugee Support Europe](assets/807717ec51f8/1*I9A59XD1gxscKAugsH6QOA.jpeg)
+![Source: Refugee Support Europe](../assets/807717ec51f8/1*I9A59XD1gxscKAugsH6QOA.jpeg)
 
 Source: Refugee Support Europe
 #### The Idira Centre in Thessaloniki is now open — and looking for support
@@ -293,11 +293,11 @@ Source: Refugee Support Europe
 The Idira centre provides many interesting and engaging activities for refugees stuck in Thessaloniki\. These include zumba, yoga, making a recycled bags, cooking and socialisation\. You can [support them here\.](https://intervolvegr.com/get-involved/donate/)
 
 
-![](assets/807717ec51f8/1*rfB2DniNqfVcz2s-TYGNqA.jpeg)
+![](../assets/807717ec51f8/1*rfB2DniNqfVcz2s-TYGNqA.jpeg)
 
 
 
-![](assets/807717ec51f8/1*jI_5PH6EYBEak3ZtbcyvTg.jpeg)
+![](../assets/807717ec51f8/1*jI_5PH6EYBEak3ZtbcyvTg.jpeg)
 
 #### Reports that police plan to evict 46 occupied buildings in Athens
 
@@ -380,7 +380,7 @@ Please [follow this link](http://(https://helprefugees.org/calais/needs-list/)) 
 [**The ‘Unofficial’ Women and Children’s Centre**](https://www.facebook.com/The-Unofficial-Women-and-Childrens-Centre-160982470942565/?hc_ref=ARQ6LHBn8nP12_hKgw7lC6SLGCHlUl6C2x0GOpfNkz5HNBS4jFegmewVcsH1RpONJdg&fref=nf) are looking for volunteers\. If you are in Birmingham and are interested you can email meena\.volunteers@gmail\.com for information\.
 
 
-![](assets/807717ec51f8/1*J6IzDTf5URmu16tIY4DWTA.png)
+![](../assets/807717ec51f8/1*J6IzDTf5URmu16tIY4DWTA.png)
 
 
 

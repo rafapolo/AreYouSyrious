@@ -1,5 +1,5 @@
 ---
-title: AYS Special from Europe: Top Picks from 2021.
+title: "AYS Special from Europe: Top Picks from 2021."
 author: Are You Syrious?
 date: 2022-01-06T17:06:12.835+0000
 last_modified_at: 2022-01-06T20:57:18.809+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [special,european-union,fortress-europe,refugees,borders]
 description: Now, we’d like to take a moment to look back on the stories we covered over the last 12 months. A journey through our Specials
 image:
-  path: assets/69911643f2a4/1*quTWHkfQ71KrvEiJet03Ow.jpeg
+  path: ../assets/69911643f2a4/1*quTWHkfQ71KrvEiJet03Ow.jpeg
 ---
 
 ### AYS Special from Europe: Top Picks from 2021
@@ -15,7 +15,7 @@ image:
 _2021 is finally over and as we peer into 2022, our eyes screwed up against all the many potential difficulties and abuses of the year to come, we’d like to take a moment to look back on the stories we covered over the last 12 months\. This journey has been written by collectives across Europe and has taken us through Turkey, Libya, the Med, Greece, Spain, Poland, Lithuania and Belarus, France and Italy, Denmark and the UK\._
 
 
-![\(Image Credit: By Miguel Morales Madrigal via [Art Against](https://www.facebook.com/artagainstproject) \)](assets/69911643f2a4/1*quTWHkfQ71KrvEiJet03Ow.jpeg)
+![\(Image Credit: By Miguel Morales Madrigal via [Art Against](https://www.facebook.com/artagainstproject) \)](../assets/69911643f2a4/1*quTWHkfQ71KrvEiJet03Ow.jpeg)
 
 \(Image Credit: By Miguel Morales Madrigal via [Art Against](https://www.facebook.com/artagainstproject) \)
 

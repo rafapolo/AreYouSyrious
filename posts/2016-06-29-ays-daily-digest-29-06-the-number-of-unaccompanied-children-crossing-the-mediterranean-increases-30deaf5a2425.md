@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 29/06: The number of unaccompanied children crossing the Mediterranean increases
+title: "AYS DAILY DIGEST 29/06: The number of unaccompanied children crossing the Mediterranean increases"
 author: Are You Syrious?
 date: 2016-06-29T22:52:59.645+0100
 last_modified_at: 2016-06-30T03:39:20.737+0100
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe,mediterranean,european-commission,greece]
 description: While the Mediterranean route is becoming increasingly busy, two organizations are warning about unaccompanied children arriving in Italy…
 image:
-  path: assets/30deaf5a2425/1*Xmc84tfIgrTtdqiGPcdttw.jpeg
+  path: ../assets/30deaf5a2425/1*Xmc84tfIgrTtdqiGPcdttw.jpeg
 ---
 
 ### AYS DAILY DIGEST 29/06: The number of unaccompanied children crossing the Mediterranean increases
 
 
-![MSF Sea photo](assets/30deaf5a2425/1*Xmc84tfIgrTtdqiGPcdttw.jpeg)
+![MSF Sea photo](../assets/30deaf5a2425/1*Xmc84tfIgrTtdqiGPcdttw.jpeg)
 
 MSF Sea photo
 
@@ -81,27 +81,27 @@ According to the latest data from the Greek government, out of this number, 23,6
 Volunteers and refugees in many of the places are doing their best to make life in camp easier\. In the camp Karamalis, Sindos, Ali, the 55\-year\-old tailor from Aleppo, for several weeks now have opened a shop in front of the Refugee center\. He provides clothes, free of charge, for refugees who are currently living in there\.
 
 
-![By Youth for Refugees](assets/30deaf5a2425/1*_dW2BpWVxIJNQDcVjz4xdw.jpeg)
+![By Youth for Refugees](../assets/30deaf5a2425/1*_dW2BpWVxIJNQDcVjz4xdw.jpeg)
 
 By Youth for Refugees
 
 In camp Sounio there is a library built by and for refugees, and in Cherso today they had a new group of volunteers who provided workshops in balancing slack line, guitar, and taking care of the garden\.
 
 
-![](assets/30deaf5a2425/1*kxYzY5vfa4CFJIVv6lTVpw.jpeg)
+![](../assets/30deaf5a2425/1*kxYzY5vfa4CFJIVv6lTVpw.jpeg)
 
 
 
-![Open Cultural Center Idomeni](assets/30deaf5a2425/1*DZ0Ko5kYRy6Bg440tKpEHQ.jpeg)
+![Open Cultural Center Idomeni](../assets/30deaf5a2425/1*DZ0Ko5kYRy6Bg440tKpEHQ.jpeg)
 
 Open Cultural Center Idomeni
 
 
-![](assets/30deaf5a2425/1*bJHQbzodzlWjTo2y1MJyCw.jpeg)
+![](../assets/30deaf5a2425/1*bJHQbzodzlWjTo2y1MJyCw.jpeg)
 
 
 
-![](assets/30deaf5a2425/1*suCLNd-j-kTMdbHIZTgHMw.jpeg)
+![](../assets/30deaf5a2425/1*suCLNd-j-kTMdbHIZTgHMw.jpeg)
 
 ### HELP NEEDED\! QUESTIONNAIRE ON CAMP ACCESS FOR VOLUNTEERS
 
@@ -127,14 +127,14 @@ We repeat our warning about mosquitos in camps\. Distressingly high numbers of m
 In 2015, the range of areas afflicted by West Nile Virus in Greece only expanded, and as mosquito season continues, we can expect to see cases showing up in the camp\. The symptoms of West Nile Virus include fever, headache, body aches, rash, and swollen lymph nodes\. Severe symptoms include stiff neck, sleepiness, disorientation, coma, convulsions, and paralysis\. Individuals who suspect they may have West Nile are encouraged to report to medical care immediately\.
 
 
-![Picture from one of the tents in Cherso camp](assets/30deaf5a2425/1*epS6BwJ0dtmAcgC5zB1EAA.jpeg)
+![Picture from one of the tents in Cherso camp](../assets/30deaf5a2425/1*epS6BwJ0dtmAcgC5zB1EAA.jpeg)
 
 Picture from one of the tents in Cherso camp
 #### Serbia
 ### Urgent help needed for Miksaliste
 
 
-![Photo by Miksaliste](assets/30deaf5a2425/1*AvgxKCv-p7EMKN90lPyM4Q.jpeg)
+![Photo by Miksaliste](../assets/30deaf5a2425/1*AvgxKCv-p7EMKN90lPyM4Q.jpeg)
 
 Photo by Miksaliste
 
@@ -143,7 +143,7 @@ Photo by Miksaliste
 They need your help\. Any help is welcome since they, again, help over 500 people daily\.
 
 
-![Over 500 people arrives daily to Miksaliste](assets/30deaf5a2425/1*2o5KGf0ANbsJSl0UWyiwKg.jpeg)
+![Over 500 people arrives daily to Miksaliste](../assets/30deaf5a2425/1*2o5KGf0ANbsJSl0UWyiwKg.jpeg)
 
 Over 500 people arrives daily to Miksaliste
 ### Volunteers are needed on the border of Hungary and Serbia

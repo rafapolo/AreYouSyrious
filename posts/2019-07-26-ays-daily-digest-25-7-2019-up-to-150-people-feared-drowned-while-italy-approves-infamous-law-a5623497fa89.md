@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 25/7/2019: Up to 150 people feared drowned, while Italy approves infamous law
+title: "AYS Daily Digest 25/7/2019: Up to 150 people feared drowned, while Italy approves infamous law"
 author: Are You Syrious?
 date: 2019-07-26T11:03:04.503+0100
 last_modified_at: 2019-07-26T12:54:05.853+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,mediterranean-sea,human-rights,sex-trafficking]
 description: New report on minors victims of sex trafficking in Italy//Violence against migrants in Morocco//Creative measures to be adopted by Frontex…
 image:
-  path: assets/a5623497fa89/1*PzKl4g98MLnoPHkBD8j1Nw.jpeg
+  path: ../assets/a5623497fa89/1*PzKl4g98MLnoPHkBD8j1Nw.jpeg
 ---
 
 ### AYS Daily Digest 25/7/2019: Up to 150 people feared drowned, while Italy approves infamous law
 #### New report on victims of sex trafficking against minors in Italy//Violence against migrants in Morocco//Creative measures to be adopted by Frontex in Samos to patrol the sea//Racist attacks in Athens//Hungary referred to the Court of Justice for its treatment of people on the move//Slovenia to add 40 km barbed wire fence to its border with Croatia//New arrivals in Malta and Lampedusa//Deteriorating living conditions of migrant workers in Italian fields//Racist attack in Italy against field workers…
 
 
-![Credit: Angela Caponnetto](assets/a5623497fa89/1*PzKl4g98MLnoPHkBD8j1Nw.jpeg)
+![Credit: Angela Caponnetto](../assets/a5623497fa89/1*PzKl4g98MLnoPHkBD8j1Nw.jpeg)
 
 Credit: Angela Caponnetto
 ### FEATURED STORIES
@@ -135,7 +135,7 @@ Mobile Info Team has published [information](https://www.facebook.com/mobileinfo
 **_Volunteering Possibilities_**
 
 
-![Credit: Action for women](assets/a5623497fa89/1*IwfKC2h7A31Ytaf3BHHLxg.jpeg)
+![Credit: Action for women](../assets/a5623497fa89/1*IwfKC2h7A31Ytaf3BHHLxg.jpeg)
 
 Credit: Action for women
 
@@ -225,11 +225,11 @@ Big question marks remain job possibilities, housing solutions, work contracts, 
 Read more on the situation and context [here](https://openmigration.org/analisi/la-difficile-situazione-dei-braccianti-di-saluzzo/?fbclid=IwAR0pcXVm77qznS1Qq546ZEfCW-YLMC7WAJ-HZRUMvPphEGmP7-PXCe6oiKs) \(in Italian\) \.
 
 
-![](assets/a5623497fa89/1*BMTT-P9fcAiD_DLqudsGUA.jpeg)
+![](../assets/a5623497fa89/1*BMTT-P9fcAiD_DLqudsGUA.jpeg)
 
 
 
-![Credit: Csoa Gabrio](assets/a5623497fa89/1*Mk7ATYlhXVRWG7nslB6BXw.jpeg)
+![Credit: Csoa Gabrio](../assets/a5623497fa89/1*Mk7ATYlhXVRWG7nslB6BXw.jpeg)
 
 Credit: Csoa Gabrio
 ### AYS and the Daily News Digest — how to get involved?

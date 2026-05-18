@@ -1,5 +1,5 @@
 ---
-title: AYS Special: Updates from Baghdad (2)
+title: "AYS Special: Updates from Baghdad (2)"
 author: Are You Syrious?
 date: 2019-12-15T20:12:53.360+0000
 last_modified_at: 2019-12-15T20:12:53.360+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [iraq,special,revolution,tahrir-square,freedom]
 description: Main events and news concerning the uprisings for the week 8th –15th December
 image:
-  path: assets/aa711055b5c5/1*0zUD1xmC37cofonr9wkLcA.jpeg
+  path: ../assets/aa711055b5c5/1*0zUD1xmC37cofonr9wkLcA.jpeg
 ---
 
 ### AYS Special: Updates from Baghdad \(2\)
 #### Main events and news concerning the uprisings for the week 8th –15th December
 
 
-![Credit: Ali Dab Dab\.](assets/aa711055b5c5/1*0zUD1xmC37cofonr9wkLcA.jpeg)
+![Credit: Ali Dab Dab\.](../assets/aa711055b5c5/1*0zUD1xmC37cofonr9wkLcA.jpeg)
 
 Credit: Ali Dab Dab\.
 #### Repression, kidnapping, torture, killing and intimidation of activists in demonstrations\.

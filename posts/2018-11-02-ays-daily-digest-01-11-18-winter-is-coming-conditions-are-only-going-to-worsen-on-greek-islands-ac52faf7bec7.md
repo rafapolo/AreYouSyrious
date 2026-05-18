@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 01/11/18: Winter is coming: Conditions are only going to worsen on Greek Islands
+title: "AYS Daily Digest 01/11/18: Winter is coming: Conditions are only going to worsen on Greek Islands"
 author: Are You Syrious?
 date: 2018-11-02T08:05:35.853+0000
 last_modified_at: 2018-11-02T08:05:35.853+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,winter,greece,germany,turkey]
 description: October report on Greek islands // Deals between Greece and Germany // New block aids from Croatia // Updates from Serbia and Bosnia //…
 image:
-  path: assets/ac52faf7bec7/1*z0L1lI2TIOv48fVr51osYg.jpeg
+  path: ../assets/ac52faf7bec7/1*z0L1lI2TIOv48fVr51osYg.jpeg
 ---
 
 ### AYS Daily Digest 01/11/18: Winter is coming: Conditions are only going to worsen on Greek Islands
@@ -40,7 +40,7 @@ One story coming from a refugee on Lesvos this week seems to capture the feeling
 ### SEA
 
 
-![[**Born at Sea**](https://www.facebook.com/artagainstproject/photos/a.639651369417634/1924532514262840/?type=3&theater) **:** “ Nazgul Rahimi from Afghanistan, who was caught as she was trying to cross from Dikili to Greece\.and was turned back to Izmir, holds her baby, who was born inside a coastguard boat\. Open EU borders\!” Photo by Mahmut Serdar Alakuş](assets/ac52faf7bec7/1*z0L1lI2TIOv48fVr51osYg.jpeg)
+![[**Born at Sea**](https://www.facebook.com/artagainstproject/photos/a.639651369417634/1924532514262840/?type=3&theater) **:** “ Nazgul Rahimi from Afghanistan, who was caught as she was trying to cross from Dikili to Greece\.and was turned back to Izmir, holds her baby, who was born inside a coastguard boat\. Open EU borders\!” Photo by Mahmut Serdar Alakuş](../assets/ac52faf7bec7/1*z0L1lI2TIOv48fVr51osYg.jpeg)
 
 [**Born at Sea**](https://www.facebook.com/artagainstproject/photos/a.639651369417634/1924532514262840/?type=3&theater) **:** “ Nazgul Rahimi from Afghanistan, who was caught as she was trying to cross from Dikili to Greece\.and was turned back to Izmir, holds her baby, who was born inside a coastguard boat\. Open EU borders\!” Photo by Mahmut Serdar Alakuş
 #### Call for donations
@@ -51,7 +51,7 @@ Sea\-Watch is in need of donations to keep their ever crucial life\-saving work 
 The Administrative Arrangement between Greece’s migration ministry and Germany’s Interior Ministry has already been implemented across four cases so far\. This means that Germany is fast\-tracking its Dublin returns and denying any legal “safeguards” to the refugees affected\. The document was kept secret for far too long, indicating that the two countries are not interested in transparency and serving the public good\.
 
 
-![Photo by [RSA](http://rsaegean.org/the-administrative-arrangement-between-greece-and-germany/?fbclid=IwAR1xb8fZ0XALlRe4IACNrp3UCvLa_Y69BMBf2791ZFaIPcQWuccjGPEIBvE)](assets/ac52faf7bec7/1*l3JHbTEoCbM4fhRijMQqqQ.png)
+![Photo by [RSA](http://rsaegean.org/the-administrative-arrangement-between-greece-and-germany/?fbclid=IwAR1xb8fZ0XALlRe4IACNrp3UCvLa_Y69BMBf2791ZFaIPcQWuccjGPEIBvE)](../assets/ac52faf7bec7/1*l3JHbTEoCbM4fhRijMQqqQ.png)
 
 Photo by [RSA](http://rsaegean.org/the-administrative-arrangement-between-greece-and-germany/?fbclid=IwAR1xb8fZ0XALlRe4IACNrp3UCvLa_Y69BMBf2791ZFaIPcQWuccjGPEIBvE)
 #### New arrivals
@@ -81,7 +81,7 @@ The Mare\-Jonio, the first Italian\-flagged rescue ship to sail in recent years,
 In an update from [No Name Kitchen in Belgrade](https://www.facebook.com/NoNameKitchenBelgrade/posts/614192328979055) , deportations from Croatia are continuing every day\. The group is preparing to accommodate people with hot water for showers and clothes, especially with the drop of temperatures\. Between 90–100 refugees come to their center per day, where the center can guarantee them one hot meal, bread, and a cup of tea\.
 
 
-![Photo by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/pcb.614192328979055/614194892312132/?type=3&theater)](assets/ac52faf7bec7/1*VkpmO-xKx-l_4vOMKJnoRw.jpeg)
+![Photo by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/pcb.614192328979055/614194892312132/?type=3&theater)](../assets/ac52faf7bec7/1*VkpmO-xKx-l_4vOMKJnoRw.jpeg)
 
 Photo by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/pcb.614192328979055/614194892312132/?type=3&theater)
 ### BOSNIA
@@ -90,7 +90,7 @@ Photo by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos
 Many refugees are walking in the area of Velika\-Kladusa, near the Croatian\-Bosnian border, since the police have been preventing people on the move from taking buses\.
 
 
-![Photo Credit: AYS](assets/ac52faf7bec7/1*EWmOK4B54531rGX8Z1r8ug.jpeg)
+![Photo Credit: AYS](../assets/ac52faf7bec7/1*EWmOK4B54531rGX8Z1r8ug.jpeg)
 
 Photo Credit: AYS
 
@@ -117,7 +117,7 @@ A solidarity fundraiser for the Gap 7 will be held in Paris on November 3rd and 
 #### Dunkirk police confiscate a child’s wheelchair
 
 
-![Photo Credit: [Care 4 Calais](https://www.facebook.com/care4calais/photos/a.1046164975416459/2162102387156040/?type=3&theater) \. “I met Siya a few months ago, a notable and sweet girl who races over to you in her wheelchair\. Meeting her once means you’re fast friends in her eyes\. I had hoped I wouldn’t see her again in the Dunkirk camp as it’s being continuously cleared, and the situation is more desperate and insecure than ever\. But there she was, yesterday in the drizzle, a big beaming smile throwing her arms out for a hug\. Smiling, she offered me some of her dinner\. But she was no longer able to race towards me for a hug as her wheelchair was nowhere to be seen\. Instead a pushchair is Siya’s mode of support as, according to her family, her wheelchair was ‘cleared’ by authorities\. How does this sweet young girl find time to smile and to offer what little food she has, when her situation is getting worse?”](assets/ac52faf7bec7/1*LqerUPQOCQcazOCw_YGXOQ.jpeg)
+![Photo Credit: [Care 4 Calais](https://www.facebook.com/care4calais/photos/a.1046164975416459/2162102387156040/?type=3&theater) \. “I met Siya a few months ago, a notable and sweet girl who races over to you in her wheelchair\. Meeting her once means you’re fast friends in her eyes\. I had hoped I wouldn’t see her again in the Dunkirk camp as it’s being continuously cleared, and the situation is more desperate and insecure than ever\. But there she was, yesterday in the drizzle, a big beaming smile throwing her arms out for a hug\. Smiling, she offered me some of her dinner\. But she was no longer able to race towards me for a hug as her wheelchair was nowhere to be seen\. Instead a pushchair is Siya’s mode of support as, according to her family, her wheelchair was ‘cleared’ by authorities\. How does this sweet young girl find time to smile and to offer what little food she has, when her situation is getting worse?”](../assets/ac52faf7bec7/1*LqerUPQOCQcazOCw_YGXOQ.jpeg)
 
 Photo Credit: [Care 4 Calais](https://www.facebook.com/care4calais/photos/a.1046164975416459/2162102387156040/?type=3&theater) \. “I met Siya a few months ago, a notable and sweet girl who races over to you in her wheelchair\. Meeting her once means you’re fast friends in her eyes\. I had hoped I wouldn’t see her again in the Dunkirk camp as it’s being continuously cleared, and the situation is more desperate and insecure than ever\. But there she was, yesterday in the drizzle, a big beaming smile throwing her arms out for a hug\. Smiling, she offered me some of her dinner\. But she was no longer able to race towards me for a hug as her wheelchair was nowhere to be seen\. Instead a pushchair is Siya’s mode of support as, according to her family, her wheelchair was ‘cleared’ by authorities\. How does this sweet young girl find time to smile and to offer what little food she has, when her situation is getting worse?”
 

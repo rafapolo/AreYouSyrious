@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 24–25/7/21: New walls at EU’s borders.
+title: "AYS Weekend Digest 24–25/7/21: New walls at EU’s borders."
 author: Are You Syrious?
 date: 2021-07-26T10:34:38.287+0100
 last_modified_at: 2021-07-26T11:41:28.641+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,belarus,lithuania,refugees,borders]
 description: Walls and armoured vehicles between Belarus and Lithuania // Busy weekend in the central Med // Tunisia on the brink of authoritarianism //…
 image:
-  path: assets/ad133f520e71/1*HPE86h3bo0LnJ7KrwVhJtw.jpeg
+  path: ../assets/ad133f520e71/1*HPE86h3bo0LnJ7KrwVhJtw.jpeg
 ---
 
 ### AYS Weekend Digest 24–25/7/21: New walls at EU’s borders\.
@@ -15,7 +15,7 @@ image:
 Walls and armoured vehicles between Belarus and Lithuania // Busy weekend in the central Med // Tunisia on the brink of authoritarianism // More from Greece, Italy, Ceuta, France and the UK\.
 
 
-![From Thursday 22 the resistant camp & caravan ‘Por la vida’ in the French\-Italian Western Alps is taking place\. Six days of camping, talks, events and discussions\. A 2\-day march crossed the border with more than 300 people passing through Alpine paths, reaching Briancon and Gap in France\. \(Credit: [Vallées en lutte](https://valleesenlutte.org/spip.php?article141) \),](assets/ad133f520e71/1*HPE86h3bo0LnJ7KrwVhJtw.jpeg)
+![From Thursday 22 the resistant camp & caravan ‘Por la vida’ in the French\-Italian Western Alps is taking place\. Six days of camping, talks, events and discussions\. A 2\-day march crossed the border with more than 300 people passing through Alpine paths, reaching Briancon and Gap in France\. \(Credit: [Vallées en lutte](https://valleesenlutte.org/spip.php?article141) \),](../assets/ad133f520e71/1*HPE86h3bo0LnJ7KrwVhJtw.jpeg)
 
 From Thursday 22 the resistant camp & caravan ‘Por la vida’ in the French\-Italian Western Alps is taking place\. Six days of camping, talks, events and discussions\. A 2\-day march crossed the border with more than 300 people passing through Alpine paths, reaching Briancon and Gap in France\. \(Credit: [Vallées en lutte](https://valleesenlutte.org/spip.php?article141) \),
 #### Featured: More walls and military at the EU’s border
@@ -109,7 +109,7 @@ GREECE
 Iasonas Apostolopoulos, the Greek sea rescuer who has spent years onboard Aquarius, as a member of SOS Mediterranee, was to be awarded by the Greek President of the Republic Katerina Sakellaropoulou for his humanitarian work during the upcoming celebrations for the 47th anniversary of the restoration of the Republic\.
 
 
-[![Iasonas Apostolopoulos - Greek rescuer onboard Aquarius](assets/ad133f520e71/a80b_hqdefault.jpg "Iasonas Apostolopoulos - Greek rescuer onboard Aquarius")](https://www.youtube.com/watch?v=yz1UdmDsIWI)
+[![Iasonas Apostolopoulos - Greek rescuer onboard Aquarius](../assets/ad133f520e71/a80b_hqdefault.jpg "Iasonas Apostolopoulos - Greek rescuer onboard Aquarius")](https://www.youtube.com/watch?v=yz1UdmDsIWI)
 
 
 However, only a few hours before the ceremony, a Neo Demokratia MP [stated](https://thepressproject.gr/exeftelistiki-akyrosi-vravefsis-epithetikou-epikriti-tis-kyvernisis-apo-tin-ptd-stin-epeteio-tis-dimokratias) that Apostolopoulos’ aggressive criticism of the “political defence of the borders of the Hellenic Republic and the Security Forces as a whole, will NOT be honoured tomorrow by president, as originally announced”\. Apostolopoulos was reached by phone by the Foreign Affair ministry, which informed him of the cancellation of the award\.
@@ -135,7 +135,7 @@ SPAIN
 #### Demonstration in Ceuta
 
 
-![17 July 2021, Ceuta \(Photo by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/1283032818761666) \)](assets/ad133f520e71/1*fxyDOBrTczBQL-13pLRbwg.jpeg)
+![17 July 2021, Ceuta \(Photo by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/1283032818761666) \)](../assets/ad133f520e71/1*fxyDOBrTczBQL-13pLRbwg.jpeg)
 
 17 July 2021, Ceuta \(Photo by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/1283032818761666) \)
 

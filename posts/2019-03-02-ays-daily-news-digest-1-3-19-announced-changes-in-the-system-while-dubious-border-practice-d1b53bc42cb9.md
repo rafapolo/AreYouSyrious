@@ -1,5 +1,5 @@
 ---
-title: AYS Daily News Digest 1/3/19: Announced changes in the system, while dubious border practice…
+title: "AYS Daily News Digest 1/3/19: Announced changes in the system, while dubious border practice…"
 author: Are You Syrious?
 date: 2019-03-02T11:24:35.907+0000
 last_modified_at: 2019-03-02T11:24:35.907+0000

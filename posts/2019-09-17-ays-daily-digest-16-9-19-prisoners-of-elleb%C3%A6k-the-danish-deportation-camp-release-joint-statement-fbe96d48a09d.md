@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,denmark,greece,italy,digest]
 description: 90 people saved from drowning // update from OceanViking // new arrivals in Greece // donations needed for Lesvos // top Italian officials…
 image:
-  path: assets/fbe96d48a09d/1*QC3WMRKdwKsiypLYA9gQDg.jpeg
+  path: ../assets/fbe96d48a09d/1*QC3WMRKdwKsiypLYA9gQDg.jpeg
 ---
 
 ### AYS Daily Digest 16/9/19 Prisoners of Ellebæk, the Danish deportation camp, release joint statement
@@ -25,23 +25,23 @@ It was read out loud to the activists outside Ellebaek prison doing a [48 hour p
 The statement is important, these are human beings behind the fence, the inmates, have fled from their country of origin to Denmark\. They have been denied safety and basic human rights by the government of Denmark\.
 
 
-![](assets/fbe96d48a09d/1*QC3WMRKdwKsiypLYA9gQDg.jpeg)
+![](../assets/fbe96d48a09d/1*QC3WMRKdwKsiypLYA9gQDg.jpeg)
 
 
 
-![](assets/fbe96d48a09d/1*04vwhyxburqWlbqnOZT2vw.jpeg)
+![](../assets/fbe96d48a09d/1*04vwhyxburqWlbqnOZT2vw.jpeg)
 
 
 
-![](assets/fbe96d48a09d/1*vlrKPjY3KYLWN6srKFU3yQ.jpeg)
+![](../assets/fbe96d48a09d/1*vlrKPjY3KYLWN6srKFU3yQ.jpeg)
 
 
 
-![](assets/fbe96d48a09d/1*yz8OJt2a-pBqE-tRfDB7rw.jpeg)
+![](../assets/fbe96d48a09d/1*yz8OJt2a-pBqE-tRfDB7rw.jpeg)
 
 
 
-![Joint Statement photos provided to AYS](assets/fbe96d48a09d/1*jAAwRlyOccKURCMiJbBrjA.jpeg)
+![Joint Statement photos provided to AYS](../assets/fbe96d48a09d/1*jAAwRlyOccKURCMiJbBrjA.jpeg)
 
 Joint Statement photos provided to AYS
 
@@ -167,7 +167,7 @@ UAMs 800+ Pre removal center ( prison inside moria) 44. #RefugeesGr #opentheisla
 
 
 
-![Attika Human Support issued an emergency request for volunteers and supplies for their warehouses on Lesvos, Samos, and Chios\. Find out how you help\. Photo provided by [Attika](https://www.facebook.com/AttikaHumanSupport/photos/a.506310123057981/959057237783265/?type=1&theater)](assets/fbe96d48a09d/1*oksv_Bd7Mj-k-2wGqYpiAQ.jpeg)
+![Attika Human Support issued an emergency request for volunteers and supplies for their warehouses on Lesvos, Samos, and Chios\. Find out how you help\. Photo provided by [Attika](https://www.facebook.com/AttikaHumanSupport/photos/a.506310123057981/959057237783265/?type=1&theater)](../assets/fbe96d48a09d/1*oksv_Bd7Mj-k-2wGqYpiAQ.jpeg)
 
 Attika Human Support issued an emergency request for volunteers and supplies for their warehouses on Lesvos, Samos, and Chios\. Find out how you help\. Photo provided by [Attika](https://www.facebook.com/AttikaHumanSupport/photos/a.506310123057981/959057237783265/?type=1&theater)
 

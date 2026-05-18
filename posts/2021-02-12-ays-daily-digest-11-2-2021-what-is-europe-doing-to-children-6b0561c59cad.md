@@ -5,9 +5,9 @@ date: 2021-02-12T21:53:46.428+0000
 last_modified_at: 2021-02-12T21:53:46.428+0000
 categories: Are You Syrious?
 tags: []
-description: Evidence of Government Attacks Against Civilians in Tigray // Mare Liberum Report: 9,000 People Pushed Back in Aegean in 2020 // Hate…
+description: "Evidence of Government Attacks Against Civilians in Tigray // Mare Liberum Report: 9,000 People Pushed Back in Aegean in 2020 // Hate…"
 image:
-  path: assets/6b0561c59cad/0*dGODeSLVqMGtjGyx
+  path: ../assets/6b0561c59cad/0*dGODeSLVqMGtjGyx
 ---
 
 ### AYS Daily Digest 11/2/2021 — What is Europe Doing to Children?
@@ -16,7 +16,7 @@ image:
 [Are You Syrious?](?source=post_page-----64f2e4154c7d--------------------------------) [Feb 11](ays-daily-digest-11-2-2021-what-is-europe-doing-to-children-64f2e4154c7d?source=post_page-----64f2e4154c7d--------------------------------) · 9 min read
 
 
-![](assets/6b0561c59cad/0*dGODeSLVqMGtjGyx)
+![](../assets/6b0561c59cad/0*dGODeSLVqMGtjGyx)
 
 
 Current situation in Lipa, BiH\. Photo credit: [Inaki Agirre](https://twitter.com/ikiagirre/status/1359927278583611397?fbclid=IwAR2-X5jgiOG6GP7jJe-RjSMZQT6Mgw9rMq1vfG6Nx6PCL_SeKLYT5tgrG-M)

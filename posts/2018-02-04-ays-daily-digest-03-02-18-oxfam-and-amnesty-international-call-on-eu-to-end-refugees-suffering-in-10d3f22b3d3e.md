@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 03/02/18: Oxfam and Amnesty International call on EU to end refugees’ suffering in…
+title: "AYS Daily Digest 03/02/18: Oxfam and Amnesty International call on EU to end refugees’ suffering in…"
 author: Are You Syrious?
 date: 2018-02-04T11:41:26.942+0000
 last_modified_at: 2018-03-01T13:38:28.263+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,oxfam,amnesty-international,libya,digest]
 description: Hungary allows only two refugees per day to cross the border//Returnees face violence in Afghanistan///Border guards shoot fleeing Syrians…
 image:
-  path: assets/10d3f22b3d3e/1*wN2EsEKpgYMKYuBmt9Zi9A.png
+  path: ../assets/10d3f22b3d3e/1*wN2EsEKpgYMKYuBmt9Zi9A.png
 ---
 
 ### AYS Daily Digest 03/02/18: Oxfam and Amnesty International call on EU to end refugees’ suffering in Libya
 #### _Hungary allows only two refugees per day to cross the border//Returnees face violence in Afghanistan///Border guards shoot fleeing Syrians at the Turkish border_
 
 
-![SAR mission of a team in the Mediterranean — Photo: [**Maydayterraneo — Proyecto AitaMari**](https://www.facebook.com/MAYDAYTERRANEO/)](assets/10d3f22b3d3e/1*wN2EsEKpgYMKYuBmt9Zi9A.png)
+![SAR mission of a team in the Mediterranean — Photo: [**Maydayterraneo — Proyecto AitaMari**](https://www.facebook.com/MAYDAYTERRANEO/)](../assets/10d3f22b3d3e/1*wN2EsEKpgYMKYuBmt9Zi9A.png)
 
 SAR mission of a team in the Mediterranean — Photo: [**Maydayterraneo — Proyecto AitaMari**](https://www.facebook.com/MAYDAYTERRANEO/)
 ### EU
@@ -46,7 +46,7 @@ The EU has essentially allowed Libya to detain refugees fleeing their country an
 IOM says nearly 250 died in the Mediterranean in January, nearly all on route to Italy—the worst month since June\. Meanwhile, the Spanish coastguard saved four children in an inflatable toy boat\.
 
 
-![](assets/10d3f22b3d3e/1*FJ3kPBLtmQPrM2lx--RDEA.png)
+![](../assets/10d3f22b3d3e/1*FJ3kPBLtmQPrM2lx--RDEA.png)
 
 #### Greece
 ### Better garbage disposal in Moria
@@ -54,7 +54,7 @@ IOM says nearly 250 died in the Mediterranean in January, nearly all on route to
 Help Refugees reports the watershed foundation has doubled the number of garbage trucks coming to Moria, Lesvos, from three to six per day and installed 20 new garbage bins\. This has already made a massive difference in the camp, making living here just that little bit more bearable\. The overcrowded camp squeezes in more than 6,000 people, in a place meant for one\-third that amount\. The conditions there are unhygienic, with a lack of running water and inadequate sanitary facilities\.
 
 
-![](assets/10d3f22b3d3e/1*npo9aB9_hbiP7dHvVPNXIw.png)
+![](../assets/10d3f22b3d3e/1*npo9aB9_hbiP7dHvVPNXIw.png)
 
 #### Inadequate reception for unaccompanied children in Greece and Italy
 
@@ -72,7 +72,7 @@ TIMMY, a group working with unaccompanied minors in Paris, has taken part in the
 Care4Calais has updated its needs list for 2018 and drop off points can be found [here](https://www.google.com/maps/d/viewer?ll=47.63592467028903%2C2.3729749750000337&z=4&mid=1bqc9Lc5uOE0o8lXPYmLc2RwGn7zNSxdh) \.
 
 
-![](assets/10d3f22b3d3e/1*6Cx276C13e-tqK_8B4vaHg.png)
+![](../assets/10d3f22b3d3e/1*6Cx276C13e-tqK_8B4vaHg.png)
 
 #### Afghanistan
 ### Returnees face violence, discrimination in their home country

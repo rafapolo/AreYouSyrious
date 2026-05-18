@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 22/09/21: Testimony on dead people at Belarus border
+title: "AYS Daily Digest 22/09/21: Testimony on dead people at Belarus border"
 author: Are You Syrious?
 date: 2021-09-23T08:32:42.346+0100
 last_modified_at: 2021-09-25T10:39:25.781+0100
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [digest,belarus,refugees,poland,europe]
 description: Greece
 image:
-  path: assets/c5ad8f920527/1*eOuqh2yCe5cl8e3nD4EONQ.jpeg
+  path: ../assets/c5ad8f920527/1*eOuqh2yCe5cl8e3nD4EONQ.jpeg
 ---
 
 ### AYS Daily Digest 22/09/21: Testimony on dead people at Belarus border
 
 
-![Credits: Twitter/@ [HannaLiubakova](https://twitter.com/HannaLiubakova)](assets/c5ad8f920527/1*eOuqh2yCe5cl8e3nD4EONQ.jpeg)
+![Credits: Twitter/@ [HannaLiubakova](https://twitter.com/HannaLiubakova)](../assets/c5ad8f920527/1*eOuqh2yCe5cl8e3nD4EONQ.jpeg)
 
 Credits: Twitter/@ [HannaLiubakova](https://twitter.com/HannaLiubakova)
 ### Greece

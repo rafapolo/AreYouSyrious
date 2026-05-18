@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,calais,yemen,greece]
 description: Today 1500 children enrolled in afternoon school programs in Greece, but over 18,000 still await placement/ New routes from Turkey emerging…
 image:
-  path: assets/9b4168764b20/1*iFcX0X3v_pYl-LNQD9WpqQ.jpeg
+  path: ../assets/9b4168764b20/1*iFcX0X3v_pYl-LNQD9WpqQ.jpeg
 ---
 
 ### AYS DIGEST DOUBLE FEATURE 09–10/10 — America condemns the brutal attack that killed at least 140 in Yemen, but let’s not forget who supplies the weapons\.
@@ -15,7 +15,7 @@ image:
 _Today 1500 children enrolled in afternoon school programs in Greece, but over 18,000 still await placement/ New routes from Turkey emerging / Schedule change for those who have appointments on 12th of December / With the cold and rain here again, donations needed in Greece, France and Hungary / Kelebija community center coming along / France mkes a list of children living in the Jungle — which Britain has previously called upon them to do as a condition of accepting them into the UK / 100 people rescued off the coast of Spain on Saturday_
 
 
-![The aftermath of Saturday’s attack\. Photo Credit; AFP](assets/9b4168764b20/1*iFcX0X3v_pYl-LNQD9WpqQ.jpeg)
+![The aftermath of Saturday’s attack\. Photo Credit; AFP](../assets/9b4168764b20/1*iFcX0X3v_pYl-LNQD9WpqQ.jpeg)
 
 The aftermath of Saturday’s attack\. Photo Credit; AFP
 #### Feature: Yemen
@@ -33,7 +33,7 @@ Rarely a week passes without news of a new atrocity coming out of Yemen\. Saturd
 There are fears within the US government that its stout backing of Saudi efforts may constitute a war crime, and open up routes of legal action against it\. Although US government lawyers have stopped short of reaching such a conclusion, the writing on the wall is clear\. Reuters reports that one email references the results of the 2013 war crime ruling against Liberian president Charles Taylor\. It does not need to be proven that the defendant participated in a particular crime to be deemed liable for war crimes\. Simply, “practical assistance, encouragement, or moral support,” is sufficient\.
 
 
-![Children in Lavirio camp going to school\. Photo: Earth refugee](assets/9b4168764b20/1*ODIUfnTYnyywlFCqTZZH9g.jpeg)
+![Children in Lavirio camp going to school\. Photo: Earth refugee](../assets/9b4168764b20/1*ODIUfnTYnyywlFCqTZZH9g.jpeg)
 
 Children in Lavirio camp going to school\. Photo: Earth refugee
 #### Feature: Greece
@@ -47,20 +47,20 @@ In comments to the state television network ERT on Sunday, Education Minister Ni
 In order to not paint an overly dark picture of the current situation, we bring you footage from one of Greek schools where teachers and students wholeheartedly welcomed their new schoolmates\. Beware, such lovely solidarity can bring a bit of a tear in your eye\.
 
 
-[![THESSNEWS: Ελληνόπουλα υποδέχθηκαν με χειροκροτήματα τα προσφυγόπουλα](assets/9b4168764b20/6253_hqdefault.jpg "THESSNEWS: Ελληνόπουλα υποδέχθηκαν με χειροκροτήματα τα προσφυγόπουλα")](http://www.youtube.com/watch?v=umB_3rsHDLw)
+[![THESSNEWS: Ελληνόπουλα υποδέχθηκαν με χειροκροτήματα τα προσφυγόπουλα](../assets/9b4168764b20/6253_hqdefault.jpg "THESSNEWS: Ελληνόπουλα υποδέχθηκαν με χειροκροτήματα τα προσφυγόπουλα")](http://www.youtube.com/watch?v=umB_3rsHDLw)
 
 
 
 ![“We should all love each other\!” says the heart
 “⁠⁠⁠Can I have a pencil please?” says one child
-“Yes, why not, here you go\!” says the other](assets/9b4168764b20/1*oxmVLMqf8MHx4Y2BjfTWow.jpeg)
+“Yes, why not, here you go\!” says the other](../assets/9b4168764b20/1*oxmVLMqf8MHx4Y2BjfTWow.jpeg)
 
 “We should all love each other\!” says the heart
 “⁠⁠⁠Can I have a pencil please?” says one child
 “Yes, why not, here you go\!” says the other
 
 
-![“Welcome to our country\. “](assets/9b4168764b20/1*LSDCNBc4UygPHaKVpZQZNA.jpeg)
+![“Welcome to our country\. “](../assets/9b4168764b20/1*LSDCNBc4UygPHaKVpZQZNA.jpeg)
 
 “Welcome to our country\. “
 
@@ -87,7 +87,7 @@ THIS INFO COMES FROM AN INFORMED RELIABLE SOURCE\. TAKE IT SERIOUSLY PLEASE\.”
 #### Greece
 
 
-![Refugee woman who landed in Lesvos calls her loved ones to let them know that she safely made the crossing\. Photo Credit: Giorgos Kosmopoulos](assets/9b4168764b20/1*WlWi0fDeV1O3hIcHNKfUBA.jpeg)
+![Refugee woman who landed in Lesvos calls her loved ones to let them know that she safely made the crossing\. Photo Credit: Giorgos Kosmopoulos](../assets/9b4168764b20/1*WlWi0fDeV1O3hIcHNKfUBA.jpeg)
 
 Refugee woman who landed in Lesvos calls her loved ones to let them know that she safely made the crossing\. Photo Credit: Giorgos Kosmopoulos
 ### **New routes from Turkey emerging**
@@ -107,7 +107,7 @@ Kos: 9
 Kalymnos: 17
 
 
-![Refugees stranded in Greece celebrate a wedding\. Photo Credit: Abdulaziz Dukhan](assets/9b4168764b20/1*OJY7IV2yKtU2OjuF0RHpYQ.jpeg)
+![Refugees stranded in Greece celebrate a wedding\. Photo Credit: Abdulaziz Dukhan](../assets/9b4168764b20/1*OJY7IV2yKtU2OjuF0RHpYQ.jpeg)
 
 Refugees stranded in Greece celebrate a wedding\. Photo Credit: Abdulaziz Dukhan
 ### **Important: schedule change for appointments on the 12th of December**
@@ -120,12 +120,12 @@ For all of us who remember the rainy days of last fall and winter, it’s safe t
 Please donate if you are able to\.
 
 
-![Softex](assets/9b4168764b20/1*mH-Mv_pO0KddJn2b33C81w.jpeg)
+![Softex](../assets/9b4168764b20/1*mH-Mv_pO0KddJn2b33C81w.jpeg)
 
 Softex
 
 
-![Softex](assets/9b4168764b20/1*Q_47lFg3rHzifLTJm0bEqw.jpeg)
+![Softex](../assets/9b4168764b20/1*Q_47lFg3rHzifLTJm0bEqw.jpeg)
 
 Softex
 #### Serbia
@@ -134,12 +134,12 @@ Softex
 In more constructive news, North Star is hard at work constructing a cultural centre in Kelebija\. They also thank MSF for their help\. If we were to judge by the pictures, things seem to be progressing nicely\. All the best, guys\!
 
 
-![Kelebija cultural community center](assets/9b4168764b20/1*w4BGQFl4OsiU8xRao7EmVw.jpeg)
+![Kelebija cultural community center](../assets/9b4168764b20/1*w4BGQFl4OsiU8xRao7EmVw.jpeg)
 
 Kelebija cultural community center
 
 
-![Kelebijy cultural community center](assets/9b4168764b20/1*E_Tj80dECC1TwKlCJhQ2Kw.jpeg)
+![Kelebijy cultural community center](../assets/9b4168764b20/1*E_Tj80dECC1TwKlCJhQ2Kw.jpeg)
 
 Kelebijy cultural community center
 ### Info Park is forced to evacuate the park following permit cancellation\.
@@ -161,7 +161,7 @@ As the weather worsens, especially in the northern sections of the migrant route
 ### **No country for children — France made a list, Britain to act on it**
 
 
-![Jungle, February this year](assets/9b4168764b20/1*_koupTHzya7BoDR8QVY5OA.jpeg)
+![Jungle, February this year](../assets/9b4168764b20/1*_koupTHzya7BoDR8QVY5OA.jpeg)
 
 Jungle, February this year
 

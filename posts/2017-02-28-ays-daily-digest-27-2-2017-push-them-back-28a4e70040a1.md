@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,human-rights-watch,greece,asylum-seekers]
 description: Volunteers needed in Greece / New plans for deportations / Information guide for volunteers in Serbia / A concerning new draft bill…
 image:
-  path: assets/28a4e70040a1/1*4FsmkY82SUD0iswTvIg79A.jpeg
+  path: ../assets/28a4e70040a1/1*4FsmkY82SUD0iswTvIg79A.jpeg
 ---
 
 ### AYS DAILY DIGEST 27/2/2017 — Push them back
@@ -16,7 +16,7 @@ _Volunteers needed in Greece / New plans for deportations / Information guide fo
 
 
 ![Cold Sunday morning\. For the first time after December, I saw an almost empty warehouse\. The first and the worst one of the three existing\. With no fires and no smoke, and sun only, leaking through the broken windows and roof\. With an army of volunteers walking all around\. Outside, there are mobile toilets, regular firewood, but hell remains hell, after all\. Ruins of one hell of a winter, with the worst possible scenes of human devastation, where human life became the most worthless thing in this world\. 
-“People went to the borders” said a sleepy refugee hidden under a blanket, explaining this emptiness… Belgrade, February 2017\. ; photo/text by Igor Čoko [www\.igorcoko\.net](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.igorcoko.net%2F&h=ATPK933-5ex0bg3sl6phZu9SdniBUek0zuFeAiSJahwev7daXYm2lwZ3bt662pW4vFPUv57HSlt1075zt5PT8l56mOLOStwDcIMEcYvGwZCbPzWqdt-0KY_CJkmxe6XTBx4&enc=AZN3nEmGs9yh5_bT6BJxFKXBIaNHJBIj-C7zwUOZdZY8YhNQl8ZH_4nVDBcVyUVBpVR_uXdT6MAaqCbzbnCm5vFMctRlsajM9ZiOyNvV0JVrj-1eR3moZ7eb1C7l80Y7IobpQsxrx08SWA8o8tFyKdzN&s=1)](assets/28a4e70040a1/1*4FsmkY82SUD0iswTvIg79A.jpeg)
+“People went to the borders” said a sleepy refugee hidden under a blanket, explaining this emptiness… Belgrade, February 2017\. ; photo/text by Igor Čoko [www\.igorcoko\.net](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.igorcoko.net%2F&h=ATPK933-5ex0bg3sl6phZu9SdniBUek0zuFeAiSJahwev7daXYm2lwZ3bt662pW4vFPUv57HSlt1075zt5PT8l56mOLOStwDcIMEcYvGwZCbPzWqdt-0KY_CJkmxe6XTBx4&enc=AZN3nEmGs9yh5_bT6BJxFKXBIaNHJBIj-C7zwUOZdZY8YhNQl8ZH_4nVDBcVyUVBpVR_uXdT6MAaqCbzbnCm5vFMctRlsajM9ZiOyNvV0JVrj-1eR3moZ7eb1C7l80Y7IobpQsxrx08SWA8o8tFyKdzN&s=1)](../assets/28a4e70040a1/1*4FsmkY82SUD0iswTvIg79A.jpeg)
 
 Cold Sunday morning\. For the first time after December, I saw an almost empty warehouse\. The first and the worst one of the three existing\. With no fires and no smoke, and sun only, leaking through the broken windows and roof\. With an army of volunteers walking all around\. Outside, there are mobile toilets, regular firewood, but hell remains hell, after all\. Ruins of one hell of a winter, with the worst possible scenes of human devastation, where human life became the most worthless thing in this world\. 
 “People went to the borders” said a sleepy refugee hidden under a blanket, explaining this emptiness… Belgrade, February 2017\. ; photo/text by Igor Čoko [www\.igorcoko\.net](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.igorcoko.net%2F&h=ATPK933-5ex0bg3sl6phZu9SdniBUek0zuFeAiSJahwev7daXYm2lwZ3bt662pW4vFPUv57HSlt1075zt5PT8l56mOLOStwDcIMEcYvGwZCbPzWqdt-0KY_CJkmxe6XTBx4&enc=AZN3nEmGs9yh5_bT6BJxFKXBIaNHJBIj-C7zwUOZdZY8YhNQl8ZH_4nVDBcVyUVBpVR_uXdT6MAaqCbzbnCm5vFMctRlsajM9ZiOyNvV0JVrj-1eR3moZ7eb1C7l80Y7IobpQsxrx08SWA8o8tFyKdzN&s=1)
@@ -40,7 +40,7 @@ Volunteers are needed to join the north shore response group as part of the dail
 
 
 
-![photo from [**Octopus Volunteer Team Lesvos**](https://www.facebook.com/Octopus-Volunteer-Team-Lesvos-593864180791265/)](assets/28a4e70040a1/1*kCzJjq6Spa9j0wb1cYSiuA.jpeg)
+![photo from [**Octopus Volunteer Team Lesvos**](https://www.facebook.com/Octopus-Volunteer-Team-Lesvos-593864180791265/)](../assets/28a4e70040a1/1*kCzJjq6Spa9j0wb1cYSiuA.jpeg)
 
 photo from [**Octopus Volunteer Team Lesvos**](https://www.facebook.com/Octopus-Volunteer-Team-Lesvos-593864180791265/)
 #### Lesvos — arrests and deportations
@@ -111,7 +111,7 @@ A draft bill proposed by the Hungarian government would allow the authorities to
 A bizarre, yet indicative video from a carnival school event, brought to attention by [index\.hu](http://index.hu/mindekozben/poszt/2017/02/27/cuki_gyerekek_mutatjak_be_milyen_sikeres_volt_a_menekultellenes_hiszteriakampany._farsang_migranssal_es_rendorrel./) \. Two kids presenting “a cop” holding a gun and “a migrant woman” holding a baby recreating the humiliations refugees go through while parents chuckle in the background\. No mention of the war in Syria or the hardships refugees face daily in their country\. The most bizarre part of the show is the happy end when the refugee seems to bribe the corrupt policeman and they begin their merry dance\.
 
 
-![screenshot from [index\.hu](http://index.hu/mindekozben/poszt/2017/02/27/cuki_gyerekek_mutatjak_be_milyen_sikeres_volt_a_menekultellenes_hiszteriakampany._farsang_migranssal_es_rendorrel./)](assets/28a4e70040a1/1*YXpkH-QecVKTTWUKrRCS_w.png)
+![screenshot from [index\.hu](http://index.hu/mindekozben/poszt/2017/02/27/cuki_gyerekek_mutatjak_be_milyen_sikeres_volt_a_menekultellenes_hiszteriakampany._farsang_migranssal_es_rendorrel./)](../assets/28a4e70040a1/1*YXpkH-QecVKTTWUKrRCS_w.png)
 
 screenshot from [index\.hu](http://index.hu/mindekozben/poszt/2017/02/27/cuki_gyerekek_mutatjak_be_milyen_sikeres_volt_a_menekultellenes_hiszteriakampany._farsang_migranssal_es_rendorrel./)
 
@@ -207,25 +207,25 @@ Below are parts of a report on the current situation in Paris, from a recent vis
 
 
 
-![](assets/28a4e70040a1/1*MqXLieZnFLNFsHUIyb03Kw.jpeg)
+![](../assets/28a4e70040a1/1*MqXLieZnFLNFsHUIyb03Kw.jpeg)
 
 
 
-![Sitting and waiting here is sometimes tolerated, sometimes not\. Clothes distribution by the Utopia 56 team inside the camp\.](assets/28a4e70040a1/1*3XnohHxdLtzaxxZ36njKmg.jpeg)
+![Sitting and waiting here is sometimes tolerated, sometimes not\. Clothes distribution by the Utopia 56 team inside the camp\.](../assets/28a4e70040a1/1*3XnohHxdLtzaxxZ36njKmg.jpeg)
 
 Sitting and waiting here is sometimes tolerated, sometimes not\. Clothes distribution by the Utopia 56 team inside the camp\.
 
 
-![](assets/28a4e70040a1/1*YOlV4OZ8jW_o21moaXeasw.jpeg)
+![](../assets/28a4e70040a1/1*YOlV4OZ8jW_o21moaXeasw.jpeg)
 
 
 
-![Dormitories inside a warehouse with a 20ft by 30ft hole in the wall\. The official camp sleeping area\. The reception centre at the official camp\. Photos by Solidarité migrants Wilson/text by James Cartwright](assets/28a4e70040a1/1*HqvJINwS2wfwuNGkvLMbRQ.jpeg)
+![Dormitories inside a warehouse with a 20ft by 30ft hole in the wall\. The official camp sleeping area\. The reception centre at the official camp\. Photos by Solidarité migrants Wilson/text by James Cartwright](../assets/28a4e70040a1/1*HqvJINwS2wfwuNGkvLMbRQ.jpeg)
 
 Dormitories inside a warehouse with a 20ft by 30ft hole in the wall\. The official camp sleeping area\. The reception centre at the official camp\. Photos by Solidarité migrants Wilson/text by James Cartwright
 
 
-![Seen in Greece](assets/28a4e70040a1/1*JSYOtZ7K3_MCpoqgxVBQ4w.jpeg)
+![Seen in Greece](../assets/28a4e70040a1/1*JSYOtZ7K3_MCpoqgxVBQ4w.jpeg)
 
 Seen in Greece
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 23/9/21: Securitisation in all pores of the border and reception system
+title: "AYS Daily Digest 23/9/21: Securitisation in all pores of the border and reception system"
 author: Are You Syrious?
 date: 2021-09-24T14:59:50.841+0100
 last_modified_at: 2021-09-25T06:00:43.922+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,greece,france,refugees,europe]
 description: Detructive cleanups in the north of France continue / CloseGreece and Denmark draw the common line on migration with emphasis on the need…
 image:
-  path: assets/dd815970d56/0*YMFHivnkNUtHNo8I
+  path: ../assets/dd815970d56/0*YMFHivnkNUtHNo8I
 ---
 
 ### AYS Daily Digest 23/9/21: Securitisation in all pores of the border and reception system
 #### Detructive cleanups in the north of France continue / Closed up on Samos / Greece and Denmark draw the common line on migration with emphasis on the need to protect borders and strengthen deportation as well as return procedures / A rise in the number of people crossing the English Channel / recommended reads & more
 
 
-![Samos camp, Greece, photo: [**msfgreece**](https://twitter.com/MSFgreece)](assets/dd815970d56/0*YMFHivnkNUtHNo8I)
+![Samos camp, Greece, photo: [**msfgreece**](https://twitter.com/MSFgreece)](../assets/dd815970d56/0*YMFHivnkNUtHNo8I)
 
 Samos camp, Greece, photo: [**msfgreece**](https://twitter.com/MSFgreece)
 #### FEATURED

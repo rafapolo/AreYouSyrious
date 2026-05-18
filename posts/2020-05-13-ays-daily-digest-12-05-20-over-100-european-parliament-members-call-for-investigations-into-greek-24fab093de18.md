@@ -5,9 +5,9 @@ date: 2020-05-13T11:27:53.607+0100
 last_modified_at: 2020-05-13T11:27:53.607+0100
 categories: Are You Syrious?
 tags: [newsletter,greece,bosnia-and-herzegovina,refugees]
-description: FEATURE: More than 100 European Parliament members have called for investigations into the shooting of migrants on the Greek-Turkish border
+description: "FEATURE: More than 100 European Parliament members have called for investigations into the shooting of migrants on the Greek-Turkish border"
 image:
-  path: assets/24fab093de18/1*b31hiO4ynbDLRrXWEFF4aQ.png
+  path: ../assets/24fab093de18/1*b31hiO4ynbDLRrXWEFF4aQ.png
 ---
 
 ### AYS Daily Digest 12/05/20 Over 100 European Parliament members call for investigations into Greek shootings
@@ -52,28 +52,28 @@ Most of the signatories are from left\-leaning parties, while more conservative 
 
 
 
-![](assets/24fab093de18/1*b31hiO4ynbDLRrXWEFF4aQ.png)
+![](../assets/24fab093de18/1*b31hiO4ynbDLRrXWEFF4aQ.png)
 
 
 
-![](assets/24fab093de18/1*b31hiO4ynbDLRrXWEFF4aQ.png)
+![](../assets/24fab093de18/1*b31hiO4ynbDLRrXWEFF4aQ.png)
 
 ### GREECE
 
 
-![](assets/24fab093de18/1*b31hiO4ynbDLRrXWEFF4aQ.png)
+![](../assets/24fab093de18/1*b31hiO4ynbDLRrXWEFF4aQ.png)
 
 
 
-![](assets/24fab093de18/1*b31hiO4ynbDLRrXWEFF4aQ.png)
+![](../assets/24fab093de18/1*b31hiO4ynbDLRrXWEFF4aQ.png)
 
 
 
-![](assets/24fab093de18/1*b31hiO4ynbDLRrXWEFF4aQ.png)
+![](../assets/24fab093de18/1*b31hiO4ynbDLRrXWEFF4aQ.png)
 
 
 
-![](assets/24fab093de18/1*b31hiO4ynbDLRrXWEFF4aQ.png)
+![](../assets/24fab093de18/1*b31hiO4ynbDLRrXWEFF4aQ.png)
 
 
 [Samos Volunteers](/@communications_72867/three-fires-in-samos-camp-open-letter-to-the-european-commission-566e737c9d75) along with 15 other NGOs have signed and written a letter to the European Commission calling for a serious response to the chaos after the three fires in Samos camp\. They report:
@@ -101,11 +101,11 @@ Most of the signatories are from left\-leaning parties, while more conservative 
 
 
 
-![](assets/24fab093de18/1*b31hiO4ynbDLRrXWEFF4aQ.png)
+![](../assets/24fab093de18/1*b31hiO4ynbDLRrXWEFF4aQ.png)
 
 
 
-![](assets/24fab093de18/1*b31hiO4ynbDLRrXWEFF4aQ.png)
+![](../assets/24fab093de18/1*b31hiO4ynbDLRrXWEFF4aQ.png)
 
 
 Here is an insightful piece from Mare Liberum’s new interview with activists from Welcome2Europe titled “Lesvos 2020 — A retrospective on the developments on the island over the past few months” \(check out in full [here](https://mare-liberum.org/en/news/lesbos-2020-ein-rueckblick-auf-die-entwicklungen-der-letzten-monate) \) \.

@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 1/4/22: Approved interim measures for people stuck between Turkey and Greece, but…
+title: "AYS News Digest 1/4/22: Approved interim measures for people stuck between Turkey and Greece, but…"
 author: Are You Syrious?
 date: 2022-04-02T20:27:30.508+0100
 last_modified_at: 2022-04-02T21:28:01.230+0100
@@ -7,21 +7,21 @@ categories: Are You Syrious?
 tags: [digest,report,refugees,europe,migration]
 description: BVMN and AlarmPhone demand immediate evacuation to Greece of 34 people who were stuck on the islet in Evros between Turkey and Greece /…
 image:
-  path: assets/182bf88cf5c9/0*OSJcLwzCz-KpK3_w.jpg
+  path: ../assets/182bf88cf5c9/0*OSJcLwzCz-KpK3_w.jpg
 ---
 
 ### AYS News Digest 1/4/22: Approved interim measures for people stuck between Turkey and Greece, but what happens next time?
 #### BVMN and AlarmPhone demand immediate evacuation to Greece of 34 people who were stuck on the islet in Evros between Turkey and Greece / Report on access to social and economic rights in Greece / EP blocks Frontex’s report, now what? / Analysis: increased immigration does not result in increased terrorism rates caused by the immigrants themselves / more reports on the European hypocrisy in refugee reception & other news
 
 
-![_Photo credit: Migrants and Refugees Movement Naples_](assets/182bf88cf5c9/0*OSJcLwzCz-KpK3_w.jpg)
+![_Photo credit: Migrants and Refugees Movement Naples_](../assets/182bf88cf5c9/0*OSJcLwzCz-KpK3_w.jpg)
 
 _Photo credit: Migrants and Refugees Movement Naples_
 
 Together with [Alarm Phone](https://twitter.com/alarm_phone) , our network Border Violence Monitoring Network has demanded the immediate evacuation to Greece of 34 people who were stuck on the islet in Evros between Turkey and Greece\.
 
 
-![](assets/182bf88cf5c9/1*uVImZQepKosbven7wgziVg.jpeg)
+![](../assets/182bf88cf5c9/1*uVImZQepKosbven7wgziVg.jpeg)
 
 
 This resulted in the interim measure request being granted\. 
@@ -103,7 +103,7 @@ A majority of lawmakers sitting on the budget control committee [voted](https://
 The updated report on the situation of beneficiaries of international protection in Greece, published today by [RSA](https://rsaegean.org/en/beneficiaries-of-international-protection-in-greece-report/?fbclid=IwAR2fiMO6_4x0gfiuuRQl54dAgYLdddOZzatw1d_i3Hjs5eUHGQBL-u7bDhc) and Stiftung PRO ASYL, highlights chronic legal and practical barriers excluding them from the basic documents and socio\-economic rights needed to rebuild their lives\.
 
 
-![](assets/182bf88cf5c9/0*rpw0HPb1pYdUNGfi)
+![](../assets/182bf88cf5c9/0*rpw0HPb1pYdUNGfi)
 
 
 Seven cases of refugees granted status by Greece and readmitted thereto by other European Union countries in the last two years illustrate the particular impact of these systemic obstacles on people returned to Greece\.

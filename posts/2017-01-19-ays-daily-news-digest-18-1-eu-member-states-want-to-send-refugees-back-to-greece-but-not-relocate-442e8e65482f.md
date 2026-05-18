@@ -1,5 +1,5 @@
 ---
-title: AYS Daily News Digest 18/1: EU member states want to send refugees back to Greece but not relocate…
+title: "AYS Daily News Digest 18/1: EU member states want to send refugees back to Greece but not relocate…"
 author: Are You Syrious?
 date: 2017-01-19T06:13:50.666+0000
 last_modified_at: 2017-01-19T12:11:18.707+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,immigration]
 description: While EU member states want to start sending back refugees to Greece under the Dublin agreement by March, they are slow to accept…
 image:
-  path: assets/442e8e65482f/1*uGs9ZDv9NRJN9tF4Ekj-lA.jpeg
+  path: ../assets/442e8e65482f/1*uGs9ZDv9NRJN9tF4Ekj-lA.jpeg
 ---
 
 ### AYS Daily News Digest 18/1: EU member states want to send refugees back to Greece but not relocate them from there
@@ -15,7 +15,7 @@ image:
 _While EU member states want to start sending back refugees to Greece under the Dublin agreement by March, they are slow to accept relocation and family reunion requests / New emergency center close to Belgrade opened, but still many people sleep in warhouses and makeshift camps / EU Commissioner Avramopoulos sees the problem on Greek islands but not the cause / Refugees being abandoned in mainland camp in terrible conditions_
 
 
-![Refugees in Belgrade lining up for food distribution\. Photo: [Mikel Konate](https://twitter.com/mikelkonate) / [Santi Palacios](https://twitter.com/SantiPalacios)](assets/442e8e65482f/1*uGs9ZDv9NRJN9tF4Ekj-lA.jpeg)
+![Refugees in Belgrade lining up for food distribution\. Photo: [Mikel Konate](https://twitter.com/mikelkonate) / [Santi Palacios](https://twitter.com/SantiPalacios)](../assets/442e8e65482f/1*uGs9ZDv9NRJN9tF4Ekj-lA.jpeg)
 
 Refugees in Belgrade lining up for food distribution\. Photo: [Mikel Konate](https://twitter.com/mikelkonate) / [Santi Palacios](https://twitter.com/SantiPalacios)
 ### Dublin deportations yes, promised relocations no
@@ -30,7 +30,7 @@ The report reveals that in more than 44 percent \(5144 out of 11,511\) of the in
 Around 1200 refugees were still sleeping rough in the streets of Belgrade last night\. Some 200 were transferred with buses to a new emergency center in Obrenovac, around 30 kilometers away from the Serbian capital\. Meanwhile MSF set up tents in Belgrade and will provide an improvised sheler for at least up to 100 people\.
 
 
-![Leaving Belgrade to Obrenov\. Photo: [Refugee Aid Serbia](https://www.facebook.com/refugeeaidserbia/photos/pcb.1774709796185538/1774709616185556/?type=3&theater)](assets/442e8e65482f/1*wQkCPqxbtI3qezgo7laToQ.jpeg)
+![Leaving Belgrade to Obrenov\. Photo: [Refugee Aid Serbia](https://www.facebook.com/refugeeaidserbia/photos/pcb.1774709796185538/1774709616185556/?type=3&theater)](../assets/442e8e65482f/1*wQkCPqxbtI3qezgo7laToQ.jpeg)
 
 Leaving Belgrade to Obrenov\. Photo: [Refugee Aid Serbia](https://www.facebook.com/refugeeaidserbia/photos/pcb.1774709796185538/1774709616185556/?type=3&theater)
 
@@ -48,7 +48,7 @@ Leaving Belgrade to Obrenov\. Photo: [Refugee Aid Serbia](https://www.facebook.c
 Also Borderfree Association arrived in Belgrade to support the people living in the streets\. They found some 70 homeless, sleeping unprotected in a car park in temperatures of zero degrees\. Volunteers distributed the first sleeping bags and ordered 300 more which should arrive in the next few days\. Other volunteers managed to deliver donations especially for vulnerable children, as well as winter clothes for men and women and emergency blankets to Serbia, which will be distributed in the coming days\. Refugee Foundation Serbia has already brought some items to Krnjača, where 1000 people, among them 550 children, live\. RFS is still looking for volunteers for English classes and to animate the kids\. If you want to join them, [please contact them](https://www.facebook.com/izbegliceusrbiji/) \.
 
 
-![It’s what they call their shelter and bed: a car park\. Photo: [Borderfree Association](https://www.facebook.com/borderfreeassociation/photos/pcb.1620720354611956/1620717241278934/?type=3&theater)](assets/442e8e65482f/1*wCzzIqLJ1o8AnpZb2XTBGQ.jpeg)
+![It’s what they call their shelter and bed: a car park\. Photo: [Borderfree Association](https://www.facebook.com/borderfreeassociation/photos/pcb.1620720354611956/1620717241278934/?type=3&theater)](../assets/442e8e65482f/1*wCzzIqLJ1o8AnpZb2XTBGQ.jpeg)
 
 It’s what they call their shelter and bed: a car park\. Photo: [Borderfree Association](https://www.facebook.com/borderfreeassociation/photos/pcb.1620720354611956/1620717241278934/?type=3&theater)
 
@@ -58,7 +58,7 @@ At the moment there are around 300 children in the city, Help Refugees [reports]
 On Lesvos today 20 people arrived: eight men, four women and eight children, no medical cases\. Up to the morning no new registrations were reported\. During his visit to Lesvos, Dimitris Avramopoulos, the EU Commissioner for Migration and Home Affairs, [said](http://europa.eu/rapid/press-release_SPEECH-17-87_en.htm) , “It simply cannot be that refugees are left out in the cold, to brave the worst of winter without a roof over their heads\. Solutions must be found today, not tomorrow, not next week, but now\.” While underlining that the “EU\-Turkey statement is what allowed us to put a stop to the tragic loss of life at sea, but managing the biggest refugee crisis Europe has ever seen remains a collective European responsibility”, he did not mention that the EU\-Turkey statement is what created the desperate situation on the islands and that the people stuck there have been waiting for solutions not since today but for months\. Nevertheless he is “confident that space will be found for the winterised UNHCR tents, financed by the European Union, to be set up as a temporary, humanitarian action\.” He also did not see that it’s still volunteer efforts that often make a difference in the field, like Movement on the Ground working tirelessly to improve conditions\.
 
 
-![The situation on Lesvos and other islands is still desperate\. Photo: [Movement On The Ground](https://www.facebook.com/movementontheground/posts/768510313325283)](assets/442e8e65482f/1*4ek5wPaWoAEgL_5ijBfREA.jpeg)
+![The situation on Lesvos and other islands is still desperate\. Photo: [Movement On The Ground](https://www.facebook.com/movementontheground/posts/768510313325283)](../assets/442e8e65482f/1*4ek5wPaWoAEgL_5ijBfREA.jpeg)
 
 The situation on Lesvos and other islands is still desperate\. Photo: [Movement On The Ground](https://www.facebook.com/movementontheground/posts/768510313325283)
 
@@ -67,14 +67,14 @@ Meanwhile the Greek Ministry of Health published an updated map with sites in th
 As volunteers on the mainland report, they visited a shelter on Sunday and found terrible conditions\. People are left alone without proper supplies and with frozen water pipes and toilets, no electricity, no heating in apartment blocks in Northern Greece\. To get water, they have to go to the sea\. Most of the people have left and gone back to freezing camps, but there are still about 20 families inside\. All the children are sick\.
 
 
-![No kitchen, no water, no heat in Northern Greece\. Photo: [Geo Messmer](https://www.facebook.com/photo.php?fbid=10210176366239443&set=pcb.10210176403760381&type=3&theater)](assets/442e8e65482f/1*X1Mqwis8VYaE4KdewEQIJQ.jpeg)
+![No kitchen, no water, no heat in Northern Greece\. Photo: [Geo Messmer](https://www.facebook.com/photo.php?fbid=10210176366239443&set=pcb.10210176403760381&type=3&theater)](../assets/442e8e65482f/1*X1Mqwis8VYaE4KdewEQIJQ.jpeg)
 
 No kitchen, no water, no heat in Northern Greece\. Photo: [Geo Messmer](https://www.facebook.com/photo.php?fbid=10210176366239443&set=pcb.10210176403760381&type=3&theater)
 
 After days of being abandoned by the UNHCR and other NGOs “due to bad weather”, in which they did not have running water or information about what would happen to them, the relocation to Athens and Thessaloniki started when the sun came out again, Eko Project [reports](https://www.facebook.com/Ekommunity/posts/1650281921932884) \. The [600 residents of Alexandreia](https://www.facebook.com/groups/donate4refugees/permalink/1055327231244194/) were not that lucky\. The temperatures may be around zero, but they are expecting new arrivals\.
 
 
-![Vasillika\. Photo: [Eco Project](https://www.facebook.com/Ekommunity/photos/pcb.1650281921932884/1650269418600801/?type=3&theater)](assets/442e8e65482f/1*Nq6-r4YGPcv3dX3S2imqmg.jpeg)
+![Vasillika\. Photo: [Eco Project](https://www.facebook.com/Ekommunity/photos/pcb.1650281921932884/1650269418600801/?type=3&theater)](../assets/442e8e65482f/1*Nq6-r4YGPcv3dX3S2imqmg.jpeg)
 
 Vasillika\. Photo: [Eco Project](https://www.facebook.com/Ekommunity/photos/pcb.1650281921932884/1650269418600801/?type=3&theater)
 
@@ -90,7 +90,7 @@ A few days ago the French authorities launched “Operation Big Cold”, promisi
 Furthermore, the 1000 Red Cross volunteers promised by the Mayor have not been seen on the ground so far\.
 
 
-![People still sleeping in the streets of Paris\. Photo: [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/photos/pcb.1852812404998871/1852810888332356/?type=3&theater)](assets/442e8e65482f/1*J9bOKW6LsEb0zzNrOxa3XQ.jpeg)
+![People still sleeping in the streets of Paris\. Photo: [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/photos/pcb.1852812404998871/1852810888332356/?type=3&theater)](../assets/442e8e65482f/1*J9bOKW6LsEb0zzNrOxa3XQ.jpeg)
 
 People still sleeping in the streets of Paris\. Photo: [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/photos/pcb.1852812404998871/1852810888332356/?type=3&theater)
 ### Netherlands

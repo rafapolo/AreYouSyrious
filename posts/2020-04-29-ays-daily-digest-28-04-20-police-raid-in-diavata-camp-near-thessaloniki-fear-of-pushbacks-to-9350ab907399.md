@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,newsletter,digest,covid-19,greece]
 description: update on Samos fires // deportations in Sweden slowing // deadly shooting in Turkey under curfew // and more…
 image:
-  path: assets/9350ab907399/1*xhn5kQI4WflsA7AlTPk89Q.jpeg
+  path: ../assets/9350ab907399/1*xhn5kQI4WflsA7AlTPk89Q.jpeg
 ---
 
 ### AYS Daily Digest 28/04/20 Police raid in Diavata camp near Thessaloniki, fear of pushbacks to Turkey
 #### _update on Samos fires // deportations in Sweden slowing // deadly shooting in Turkey under curfew // and more…_
 
 
-![Diavata, Greece — Photo by camp residents](assets/9350ab907399/1*xhn5kQI4WflsA7AlTPk89Q.jpeg)
+![Diavata, Greece — Photo by camp residents](../assets/9350ab907399/1*xhn5kQI4WflsA7AlTPk89Q.jpeg)
 
 Diavata, Greece — Photo by camp residents
 #### FEATURED
@@ -25,7 +25,7 @@ They took over 30 people to an unknown location, after entering the camp in riot
 There is serious concern that new legislation for the Covid\-19 pandemic, as well as the recent asylum suspension, has resulted in an increase of people being removed from camps in Greece in April, and more pushbacks being conducted to Turkey\. It is expected that this is the probable fate for 30 people from Tuesday morning\.
 
 
-[![Police taking people from Diavata camp to unknown location](assets/9350ab907399/f4c9_hqdefault.jpg "Police taking people from Diavata camp to unknown location")](https://www.youtube.com/watch?v=o4LM49u-Qh0)
+[![Police taking people from Diavata camp to unknown location](../assets/9350ab907399/f4c9_hqdefault.jpg "Police taking people from Diavata camp to unknown location")](https://www.youtube.com/watch?v=o4LM49u-Qh0)
 
 
 Eye witnesses inside Diavata camp report the use of violence to arrest those 30 people\. Many others in the camp fled fearing capture and possible removal\. Volunteers spoke to one man who alleges his friend was taken and had still not heard from him\.
@@ -45,11 +45,11 @@ This underscores the problem with refugees’ precarious situation, many of whom
 ### Update on fires in Samos
 
 
-![](assets/9350ab907399/1*MV-Esi0_JGOIZjWZjSfvEA.jpeg)
+![](../assets/9350ab907399/1*MV-Esi0_JGOIZjWZjSfvEA.jpeg)
 
 
 
-![Photos by [Europe Must Act](https://www.facebook.com/europemustact/posts/134097271536309?hc_location=ufi)](assets/9350ab907399/1*YAQ3SpCE5nMGKnLDzIvm6w.jpeg)
+![Photos by [Europe Must Act](https://www.facebook.com/europemustact/posts/134097271536309?hc_location=ufi)](../assets/9350ab907399/1*YAQ3SpCE5nMGKnLDzIvm6w.jpeg)
 
 Photos by [Europe Must Act](https://www.facebook.com/europemustact/posts/134097271536309?hc_location=ufi)
 
@@ -77,7 +77,7 @@ On Sunday, fires broke out in Samos’s Vathy camp\. Frances, a volunteer for Ac
 In an update from Samos Volunteers, they say the causes of the fires are still unclear, but tensions between various communities living in the camp have risen due to overcrowding conditions on top of Covid\-19 fears\. More [here](https://www.facebook.com/samosvolunteers/posts/1556830701161751?hc_location=ufi) \.
 
 
-![Photo by [Europe Must Act](https://www.facebook.com/europemustact/posts/134097271536309?hc_location=ufi)](assets/9350ab907399/1*1ExoQ3KsbgDTZbEPAUTWeg.jpeg)
+![Photo by [Europe Must Act](https://www.facebook.com/europemustact/posts/134097271536309?hc_location=ufi)](../assets/9350ab907399/1*1ExoQ3KsbgDTZbEPAUTWeg.jpeg)
 
 Photo by [Europe Must Act](https://www.facebook.com/europemustact/posts/134097271536309?hc_location=ufi)
 

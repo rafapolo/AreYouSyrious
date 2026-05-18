@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [migrants,refugees,france,canary-islands]
 description: Zintan Detention Center in Libya Is Closing///Italy Vows to Increase Border, ID Controls///Crisis Brewing on Canary Islands
 image:
-  path: assets/e3373f674df8/0*XZ7h115ZJIYuESSk
+  path: ../assets/e3373f674df8/0*XZ7h115ZJIYuESSk
 ---
 
 ### AYS Daily Digest 10/11/2020 — Breaking Point in Saint\-Denis Camp
 #### Zintan Detention Center in Libya Is Closing///Italy Vows to Increase Border, ID Controls///Crisis Brewing on Canary Islands
 
 
-![Conditions in Saint\-Denis, where people are living in a crowded tent city with no ways to stay safe from the pandemic\. Source: [Mortaza Behboudi](https://twitter.com/MortazaBehboudi/status/1326193396906602496/photo/3)](assets/e3373f674df8/0*XZ7h115ZJIYuESSk)
+![Conditions in Saint\-Denis, where people are living in a crowded tent city with no ways to stay safe from the pandemic\. Source: [Mortaza Behboudi](https://twitter.com/MortazaBehboudi/status/1326193396906602496/photo/3)](../assets/e3373f674df8/0*XZ7h115ZJIYuESSk)
 
 Conditions in Saint\-Denis, where people are living in a crowded tent city with no ways to stay safe from the pandemic\. Source: [Mortaza Behboudi](https://twitter.com/MortazaBehboudi/status/1326193396906602496/photo/3)
 #### FEATURE

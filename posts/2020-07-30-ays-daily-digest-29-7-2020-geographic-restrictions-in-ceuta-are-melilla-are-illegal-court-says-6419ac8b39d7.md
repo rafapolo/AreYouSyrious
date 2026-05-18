@@ -5,9 +5,9 @@ date: 2020-07-30T09:21:03.634+0100
 last_modified_at: 2020-07-30T11:03:51.455+0100
 categories: Are You Syrious?
 tags: [digest,refugees,banksy,ceuta,melilla]
-description: GERMANY: Federal interior minister halts Berin state plan to welcome refugees from Greece / SLOVENIA: Protest in Postojna detention centre
+description: "GERMANY: Federal interior minister halts Berin state plan to welcome refugees from Greece / SLOVENIA: Protest in Postojna detention centre"
 image:
-  path: assets/6419ac8b39d7/1*DJmxTehGP6t4h0ti9XJIbA.jpeg
+  path: ../assets/6419ac8b39d7/1*DJmxTehGP6t4h0ti9XJIbA.jpeg
 ---
 
 ### AYS Daily Digest 29/7/2020 — Geographic restrictions in Ceuta and Melilla are illegal, says court
@@ -15,7 +15,7 @@ image:
 GERMANY: Federal interior minister halts Berlin state plan to welcome refugees from Greece / SLOVENIA: Protest in Postojna detention centre / Two new search and rescue organisations are fundraising to provide support in the Central Mediterranean / Evictions in Paris
 
 
-![“Mediterranean Sea View 2017”, a trio of found seascape paintings that Banksy reworked into a pointed response to the refugee crisis was [sold](https://news.artnet.com/market/banksy-donates-refugee-paintings-bethlehem-hospital-fundraiser-1897367?fbclid=IwAR32mf4P-tpF5g0eQF3oGynnwPfSaUmxL1S8r9T51PiJzKmsvZFzFfVsMHE) on Monday to raise money for _BASR hospital in Bethlehem for 2,235,000£_](assets/6419ac8b39d7/1*DJmxTehGP6t4h0ti9XJIbA.jpeg)
+![“Mediterranean Sea View 2017”, a trio of found seascape paintings that Banksy reworked into a pointed response to the refugee crisis was [sold](https://news.artnet.com/market/banksy-donates-refugee-paintings-bethlehem-hospital-fundraiser-1897367?fbclid=IwAR32mf4P-tpF5g0eQF3oGynnwPfSaUmxL1S8r9T51PiJzKmsvZFzFfVsMHE) on Monday to raise money for _BASR hospital in Bethlehem for 2,235,000£_](../assets/6419ac8b39d7/1*DJmxTehGP6t4h0ti9XJIbA.jpeg)
 
 “Mediterranean Sea View 2017”, a trio of found seascape paintings that Banksy reworked into a pointed response to the refugee crisis was [sold](https://news.artnet.com/market/banksy-donates-refugee-paintings-bethlehem-hospital-fundraiser-1897367?fbclid=IwAR32mf4P-tpF5g0eQF3oGynnwPfSaUmxL1S8r9T51PiJzKmsvZFzFfVsMHE) on Monday to raise money for _BASR hospital in Bethlehem for 2,235,000£_
 #### Featured — Spanish supreme court ruled against geographic restrictions in Ceuta and Melilla
@@ -155,11 +155,11 @@ SLOVENIA
 No Name Kitchen [shared](https://www.facebook.com/NoNameKitchenBelgrade/posts/1035509443514006) images they receive from people involved in an ongoing protest within the Detention Centre for Foreigners in Postojna, Slovenia\.
 
 
-![](assets/6419ac8b39d7/1*8si_RUdseJb0cYDyQjc5Bw.jpeg)
+![](../assets/6419ac8b39d7/1*8si_RUdseJb0cYDyQjc5Bw.jpeg)
 
 
 
-![Protest at the Detention Centre for Foreigners in Postojna, Slovenia \(Photo via [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/1035509443514006) \)](assets/6419ac8b39d7/1*moVUOl8P2NAIdnCOLkEGcw.jpeg)
+![Protest at the Detention Centre for Foreigners in Postojna, Slovenia \(Photo via [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/1035509443514006) \)](../assets/6419ac8b39d7/1*moVUOl8P2NAIdnCOLkEGcw.jpeg)
 
 Protest at the Detention Centre for Foreigners in Postojna, Slovenia \(Photo via [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/1035509443514006) \)
 
@@ -200,7 +200,7 @@ Volunteers from Migrants Solidarite Wilson and other groups [were onsite](https:
 One more eviction in planned for tomorrow, 30 Thursday, of a camp that has been housing around 100 minors since 29 June\.
 
 
-![For a real protection of minors\. Thursday, h15:30, Metro Palais Royal \(Image by [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__cft__[0]=AZUnofgLgkJcF1ZpUbKwyPVrp0dgvthKRv4DBjNDk3-j3-DN03zrSUF90qXKe9yR1_Cxp9frR0fKJLFG4PG6CmbmRbXsoc9IY01HAHqHng7nzO3JZX_Z5NUBV2VTT3P6XxisS6YwfO-KKWdhZIAVXMSqkmVdBsyCVBgC3uBCL6C29g&__tn__=-UC*F) \)](assets/6419ac8b39d7/1*vu7Vp8xGombnmtezkFeo1w.jpeg)
+![For a real protection of minors\. Thursday, h15:30, Metro Palais Royal \(Image by [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__cft__[0]=AZUnofgLgkJcF1ZpUbKwyPVrp0dgvthKRv4DBjNDk3-j3-DN03zrSUF90qXKe9yR1_Cxp9frR0fKJLFG4PG6CmbmRbXsoc9IY01HAHqHng7nzO3JZX_Z5NUBV2VTT3P6XxisS6YwfO-KKWdhZIAVXMSqkmVdBsyCVBgC3uBCL6C29g&__tn__=-UC*F) \)](../assets/6419ac8b39d7/1*vu7Vp8xGombnmtezkFeo1w.jpeg)
 
 For a real protection of minors\. Thursday, h15:30, Metro Palais Royal \(Image by [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__cft__[0]=AZUnofgLgkJcF1ZpUbKwyPVrp0dgvthKRv4DBjNDk3-j3-DN03zrSUF90qXKe9yR1_Cxp9frR0fKJLFG4PG6CmbmRbXsoc9IY01HAHqHng7nzO3JZX_Z5NUBV2VTT3P6XxisS6YwfO-KKWdhZIAVXMSqkmVdBsyCVBgC3uBCL6C29g&__tn__=-UC*F) \)
 

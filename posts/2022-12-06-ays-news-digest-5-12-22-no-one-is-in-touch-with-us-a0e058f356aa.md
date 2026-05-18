@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 5/12/22: “No one is in touch with us. We’re hopeless.” UK fails to resettle Afghans
+title: "AYS News Digest 5/12/22: “No one is in touch with us. We’re hopeless.” UK fails to resettle Afghans"
 author: Are You Syrious?
 date: 2022-12-06T21:26:11.171+0000
 last_modified_at: 2022-12-07T18:05:59.781+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,ays,europe,uk]
 description: Afghans promised resettlement by the UK nearly a year ago have suffered torture and death awaiting relocation // Reports on pushbacks at…
 image:
-  path: assets/a0e058f356aa/0*DFBlA0stXQ-v4ymD.png
+  path: ../assets/a0e058f356aa/0*DFBlA0stXQ-v4ymD.png
 ---
 
 ### AYS News Digest 5/12/22: “No one is in touch with us\. We’re hopeless\.” UK fails to resettle Afghans
 #### Afghans promised resettlement by the UK nearly a year ago have suffered torture and death awaiting relocation // Reports on pushbacks at sea // Human Rights Watch’s critique on the European Commission’s Action Plan // The UNHCR has challenged the UK’s attempts to classify the entry of refugees as illegal
 
 
-![Photo: Lighthouse Reports](assets/a0e058f356aa/0*DFBlA0stXQ-v4ymD.png)
+![Photo: Lighthouse Reports](../assets/a0e058f356aa/0*DFBlA0stXQ-v4ymD.png)
 
 Photo: Lighthouse Reports
 #### FEATURE
@@ -62,7 +62,7 @@ Among other cases, they outline the example of a two year old who died because o
 
 
 
-![“Zaid, who worked for the British embassy for 11yrs, was brutally beaten by the Taliban\. They ‘tortured’ him, said a witness\. Forensic analysis of Zaid’s injuries in photos found they ‘cd be from kicking’ or ‘other blunt force means such as a hard object & were ‘typical of an assault’”](assets/a0e058f356aa/0*b8nlsJ0SSGcJ0Nsc)
+![“Zaid, who worked for the British embassy for 11yrs, was brutally beaten by the Taliban\. They ‘tortured’ him, said a witness\. Forensic analysis of Zaid’s injuries in photos found they ‘cd be from kicking’ or ‘other blunt force means such as a hard object & were ‘typical of an assault’”](../assets/a0e058f356aa/0*b8nlsJ0SSGcJ0Nsc)
 
 “Zaid, who worked for the British embassy for 11yrs, was brutally beaten by the Taliban\. They ‘tortured’ him, said a witness\. Forensic analysis of Zaid’s injuries in photos found they ‘cd be from kicking’ or ‘other blunt force means such as a hard object & were ‘typical of an assault’”
 
@@ -93,7 +93,7 @@ Please, take the time to read the entire report [here](https://www.lighthouserep
 A coalition of civil society SAR NGOs has compiled a joint document providing rebuttal of the main ‘fake news’ points that are often levelled against them by right wing media sources\.
 
 
-![](assets/a0e058f356aa/0*MYBWCg91aMBtZXCs.png)
+![](../assets/a0e058f356aa/0*MYBWCg91aMBtZXCs.png)
 
 
 

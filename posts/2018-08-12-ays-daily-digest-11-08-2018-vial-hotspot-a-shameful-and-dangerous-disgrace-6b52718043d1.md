@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 11/08/2018: Vial Hotspot: A Shameful and Dangerous Disgrace.
+title: "AYS Daily Digest 11/08/2018: Vial Hotspot: A Shameful and Dangerous Disgrace."
 author: Are You Syrious?
 date: 2018-08-12T09:51:20.052+0100
 last_modified_at: 2018-08-12T10:58:28.297+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,libya,human-rights]
 description: 30 People Arrested in Morocco During Raids//Unrecognised corpses ending up in Nador// Half the People Saved by the Aquarius are Under 18//…
 image:
-  path: assets/6b52718043d1/1*UW5Mh9JBQWIuoKPdKsnVdQ.jpeg
+  path: ../assets/6b52718043d1/1*UW5Mh9JBQWIuoKPdKsnVdQ.jpeg
 ---
 
 ### AYS Daily Digest 11/08/2018: Vial Hotspot: A Shameful and Dangerous Disgrace\.
 #### 30 People Arrested in Morocco During Raids//Unrecognised corpses ending up in Nador// Half the People Saved by the Aquarius are Under 18// Arrivals in Greece// News from Bosnia// Croatia// Italy// Austria France and more…
 
 
-![Source: Olmo Calvo](assets/6b52718043d1/1*UW5Mh9JBQWIuoKPdKsnVdQ.jpeg)
+![Source: Olmo Calvo](../assets/6b52718043d1/1*UW5Mh9JBQWIuoKPdKsnVdQ.jpeg)
 
 Source: Olmo Calvo
 #### FEATURE: This Week an Open Letter was Issued to the EU Commission, Urging it to Take Responsibility for the Despicable and Stagnant Situation on the Island of Chios\.
@@ -63,7 +63,7 @@ The main points included in the letter are:
 They were taken on this bus\.
 
 
-![](assets/6b52718043d1/1*CPmi09YottPPk6BTzYSmaQ.jpeg)
+![](../assets/6b52718043d1/1*CPmi09YottPPk6BTzYSmaQ.jpeg)
 
 #### Nador Hospital Received 60 Unrecognised Corpses During the First Half of 2018
 
@@ -83,11 +83,11 @@ This Saturday morning, attacks against migrant camps continue in Nador\.
 Arrests and destruction of migrant shelters\.
 
 
-![](assets/6b52718043d1/1*i8iRO6L0ymWfFhCEB2Ghew.jpeg)
+![](../assets/6b52718043d1/1*i8iRO6L0ymWfFhCEB2Ghew.jpeg)
 
 
 
-![Source: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/)](assets/6b52718043d1/1*fCTXdHpxRwtkrTyVlgTJCQ.jpeg)
+![Source: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/)](../assets/6b52718043d1/1*fCTXdHpxRwtkrTyVlgTJCQ.jpeg)
 
 Source: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/)
 ### SEA
@@ -183,7 +183,7 @@ Boat 2: 37 people at 06\.25
 
 
 
-![](assets/6b52718043d1/1*ZDdZ_9dm10mBs2jQA_T16g.jpeg)
+![](../assets/6b52718043d1/1*ZDdZ_9dm10mBs2jQA_T16g.jpeg)
 
 ### BOSNIA
 #### Rigardu to Begin New Project in Bosnia: Volunteers Needed\!
@@ -214,15 +214,15 @@ A major cleaning took place over the last two days to clean up the temporary set
 
 
 
-![](assets/6b52718043d1/1*YPV63-58ZuKnk5HjRmQM3A.jpeg)
+![](../assets/6b52718043d1/1*YPV63-58ZuKnk5HjRmQM3A.jpeg)
 
 
 
-![](assets/6b52718043d1/1*M2VcVd97eJ-0E9WYi360UA.jpeg)
+![](../assets/6b52718043d1/1*M2VcVd97eJ-0E9WYi360UA.jpeg)
 
 
 
-![Source: No Name Kitchen](assets/6b52718043d1/1*zodlBvlVLScEkd6VU0aAXA.jpeg)
+![Source: No Name Kitchen](../assets/6b52718043d1/1*zodlBvlVLScEkd6VU0aAXA.jpeg)
 
 Source: No Name Kitchen
 ### CROATIA
@@ -231,7 +231,7 @@ Source: No Name Kitchen
 Bikes are needed at the camp in Kladuši for transportation of food supplies\. If you have a bike that you would like to donate, send through a message to [Biciklopopravljaona](https://www.facebook.com/Biciklopopravljaona/) on their Facebook Page\.
 
 
-![](assets/6b52718043d1/1*2f66YLXJP2Gccznsx0YOtg.jpeg)
+![](../assets/6b52718043d1/1*2f66YLXJP2Gccznsx0YOtg.jpeg)
 
 ### AUSTRIA
 #### A Demonstration to be Held on September 20
@@ -267,15 +267,15 @@ _‘Today was a good breakfast\. Today law enforcement did not show up,’_ they
 
 
 
-![](assets/6b52718043d1/1*NyveRr4HsigdRB412yvb2w.jpeg)
+![](../assets/6b52718043d1/1*NyveRr4HsigdRB412yvb2w.jpeg)
 
 
 
-![](assets/6b52718043d1/1*fcCMEfuHsUqNYowAQwhogw.jpeg)
+![](../assets/6b52718043d1/1*fcCMEfuHsUqNYowAQwhogw.jpeg)
 
 
 
-![](assets/6b52718043d1/1*8lbiG997lxxV34Bvqa_AjA.jpeg)
+![](../assets/6b52718043d1/1*8lbiG997lxxV34Bvqa_AjA.jpeg)
 
 #### 12,688 People intercepted by the Libyan Coast Guard \(LCC\) in 2018
 
@@ -310,7 +310,7 @@ Despite having distributed 9,299 ‘rescue kits,’ and ‘1,317 primary healthc
 CARE4CALAIS Drop of Points can be found [via this Link](https://goo.gl/ULD9dG.)
 
 
-![](assets/6b52718043d1/1*3gclkNnodm2CLtz7XLNPjg.jpeg)
+![](../assets/6b52718043d1/1*3gclkNnodm2CLtz7XLNPjg.jpeg)
 
 #### [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/) Report on Police Harassing Volunteers
 

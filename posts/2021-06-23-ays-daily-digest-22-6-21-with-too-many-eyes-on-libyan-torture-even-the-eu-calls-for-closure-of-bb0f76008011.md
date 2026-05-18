@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 22/6/21: With too many eyes on Libyan torture, even the EU calls for closure of…
+title: "AYS Daily Digest 22/6/21: With too many eyes on Libyan torture, even the EU calls for closure of…"
 author: Are You Syrious?
 date: 2021-06-23T16:34:32.393+0100
 last_modified_at: 2021-06-23T16:34:32.393+0100
 categories: Are You Syrious?
 tags: [digest,refugees,libya,europe,human-rights]
-description: AI’s Pushback report calls out Frontex / Greece: Dutch journalist arrested for “facilitating illegal residence to an asylum seeker” /…
+description: "AI’s Pushback report calls out Frontex / Greece: Dutch journalist arrested for “facilitating illegal residence to an asylum seeker” /…"
 image:
-  path: assets/bb0f76008011/0*npM3WcynkZE591xc
+  path: ../assets/bb0f76008011/0*npM3WcynkZE591xc
 ---
 
 ### AYS Daily Digest 22/6/21: With too many eyes on Libyan torture, even the EU calls for closure of detention centres
 #### AI’s Pushback report calls out Frontex / Greece: Dutch journalist arrested for “facilitating illegal residence to an asylum seeker” / France: intimidation of activist in the heart of Paris / more news, reports and recommended reads
 
 
-![Photo: Sara Creta](assets/bb0f76008011/0*npM3WcynkZE591xc)
+![Photo: Sara Creta](../assets/bb0f76008011/0*npM3WcynkZE591xc)
 
 Photo: Sara Creta
 #### FEATURED
@@ -70,7 +70,7 @@ _One of the many reports documented speaks about people who were forced off the 
 ### Excause for violation — the infamous ‘administrative detention’
 
 
-![](assets/bb0f76008011/0*Brg42a0c-kmx71Ql.png)
+![](../assets/bb0f76008011/0*Brg42a0c-kmx71Ql.png)
 
 
 Greece is intensifying its detention policy under the hypocritical and tolerating gaze of the EU\. More specifically, on Kos and — during the operation of the pre\-removal centre — in Evros the authorities apply a policy of generalised and systematic detention of newly arrived asylum seekers subject to a few exceptions, whereas even vulnerable people are detained for prolonged periods, RSA [report](https://rsaegean.org/en/administrative-detention-a-human-rights-black-hole/?fbclid=IwAR0jvhJVhHfvS4TJqvPTblsbw750W74O9tectfnAGnJwJXK-HGsF7BjIRpw) demonstrates\. On the mainland, persons without documentation continue to be detained for the purpose of removal, including persons that overwhelmingly wish to seek international protection without having had a prior possibility to make an application\.
@@ -138,11 +138,11 @@ Our friend from No Name Kitchen give an update from Patras and a note about powe
 New evictions of temporary placed tents have been reported and video documented in the north\.
 
 
-![](assets/bb0f76008011/0*s0D9fPSGvSaIV0-T)
+![](../assets/bb0f76008011/0*s0D9fPSGvSaIV0-T)
 
 
 
-![Photos: [Fleur Ali](https://web.facebook.com/fleur.ali.5?__tn__=-UC*F)](assets/bb0f76008011/0*n9vP0_rU0wuWlKya)
+![Photos: [Fleur Ali](https://web.facebook.com/fleur.ali.5?__tn__=-UC*F)](../assets/bb0f76008011/0*n9vP0_rU0wuWlKya)
 
 Photos: [Fleur Ali](https://web.facebook.com/fleur.ali.5?__tn__=-UC*F)
 

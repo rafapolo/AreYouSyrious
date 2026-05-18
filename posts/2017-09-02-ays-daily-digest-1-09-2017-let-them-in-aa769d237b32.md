@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 01/09/17: Let them in!
+title: "AYS Daily Digest 01/09/17: Let them in!"
 author: Are You Syrious?
 date: 2017-09-02T01:32:46.562+0100
 last_modified_at: 2017-09-02T10:50:51.324+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,mediterranean,greece,sweden,uk]
 description: Possible drownings but more rescues at sea / More arrivals in Greece / Protest in Sweden moving but continues / Abuse of immigrants in UK /…
 image:
-  path: assets/aa769d237b32/1*QKu33VOBcTPlsZDbacFnhA.jpeg
+  path: ../assets/aa769d237b32/1*QKu33VOBcTPlsZDbacFnhA.jpeg
 ---
 
 ### AYS Daily Digest 01/09/17: Let them in\!
@@ -15,7 +15,7 @@ image:
 _Possible drownings but more rescues at sea / More arrivals in Greece / Protest in Sweden moving but continues / Abuse of immigrants in UK / Thousands of refugees try to leave Myanmar / And more news…_
 
 
-![Photo by [**Gegen das Sterben im Mittelmeer**](https://www.facebook.com/StopTheDying/)](assets/aa769d237b32/1*QKu33VOBcTPlsZDbacFnhA.jpeg)
+![Photo by [**Gegen das Sterben im Mittelmeer**](https://www.facebook.com/StopTheDying/)](../assets/aa769d237b32/1*QKu33VOBcTPlsZDbacFnhA.jpeg)
 
 Photo by [**Gegen das Sterben im Mittelmeer**](https://www.facebook.com/StopTheDying/)
 ### Feature
@@ -31,7 +31,7 @@ A study published by [Amnesty International](https://www.amnesty.org/en/latest/n
 According to the Global Shapers Annual Survey, the vast majority \(72\.6%\) of people aged 18–35 would welcome refugees into their countries\. More than a quarter \(27\.3%\) say they would even take refugees into their own homes\.
 
 
-![](assets/aa769d237b32/1*Yhohr0uGXzEXk8l9ueuDGA.jpeg)
+![](../assets/aa769d237b32/1*Yhohr0uGXzEXk8l9ueuDGA.jpeg)
 
 
 In the same study more than half of respondents \(55%\) say they believe that governments should try to include refugees in the national workforce with only 3\.5% believing that governments should “expel/deport” refugees\. Significantly, in the US a huge 85% of young people say they would welcome refugees to their country, an increase of more than 10% on last year’s survey\. It may seem that everywhere around the world people are closing themselves down in fear but reports like this give us hope that, not only in the future will we give a truly humane response to a crisis like this one, but that right now we could all do more to pressure our governments to change their ways and really care for and look after the most vulnerable people among us\.
@@ -122,7 +122,7 @@ Can you organise a group to put together SNUG packs \(Socks, Neckwear, Underwear
 If you can, please get in touch at calaisdonations@gmail\.com\.
 
 
-![Photo by [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/?ref=gs&hc_ref=ARQlgewm0pJ7uxNDX2wX3LEFGoWQ3rG7L5DzcVPOVL5y77OZNrDQVqpLHWCZwXZ6amg&fref=gs&hc_location=group)](assets/aa769d237b32/1*YD6HDIPXDkHR6VPMANzELg.jpeg)
+![Photo by [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/?ref=gs&hc_ref=ARQlgewm0pJ7uxNDX2wX3LEFGoWQ3rG7L5DzcVPOVL5y77OZNrDQVqpLHWCZwXZ6amg&fref=gs&hc_location=group)](../assets/aa769d237b32/1*YD6HDIPXDkHR6VPMANzELg.jpeg)
 
 Photo by [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/?ref=gs&hc_ref=ARQlgewm0pJ7uxNDX2wX3LEFGoWQ3rG7L5DzcVPOVL5y77OZNrDQVqpLHWCZwXZ6amg&fref=gs&hc_location=group)
 ### Sweden

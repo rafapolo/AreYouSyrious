@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,greece,libya,iceland,children]
 description: New arrivals on Lesvos // more detainees in Libya possibly tortured // suicide attempts in Iceland // protests in UK // and more…
 image:
-  path: assets/ce9c0aca3fba/1*aM0haoNrfFPZ1p4KmGvszg.jpeg
+  path: ../assets/ce9c0aca3fba/1*aM0haoNrfFPZ1p4KmGvszg.jpeg
 ---
 
 ### AYS Daily Digest 4/3/19 New children’s book for children refugees published
@@ -15,7 +15,7 @@ image:
 _New arrivals on Lesvos // more detainees in Libya possibly tortured // suicide attempts in Iceland // protests in UK // and more…_
 
 
-![Photo By [Refugee Accommodation and Solidarity Space City Plaza](https://www.facebook.com/sol2refugeesen/posts/2041811776111155?__xts__[0]=68.ARBMFNJf7DNRieYCIU1Y3C2IMZUKiHPKM2vMncr6U-ceMAiB1R1DXszUQjzdgWuLMSrXaRSf6DScgD16z4VGdNhnR7KcMryl6Qe2i5z5QNzkR5LXdZlwcCWH4AyRb7TTByYzJtudtr15lG7fhdR8P7dTsqB-ko2Np_kQTguD9h-yF1v-Y2LVvaulWb6kXp6wMjkM-47iTf0uJOBZDhqOlwLg0DLI5BgmyUgLGsUkxjW9l-vWVyH-Y__XMG7NbYQd7C4eM1sISeA-R2ZhGlVRtUGkLtbtXCtc1aTB1ERvBADCKtvSPEqVjCC9QXGe4TPenaVox2j2QJ0DAtSLc_pfWEgOgRxw&__tn__=-R)](assets/ce9c0aca3fba/1*aM0haoNrfFPZ1p4KmGvszg.jpeg)
+![Photo By [Refugee Accommodation and Solidarity Space City Plaza](https://www.facebook.com/sol2refugeesen/posts/2041811776111155?__xts__[0]=68.ARBMFNJf7DNRieYCIU1Y3C2IMZUKiHPKM2vMncr6U-ceMAiB1R1DXszUQjzdgWuLMSrXaRSf6DScgD16z4VGdNhnR7KcMryl6Qe2i5z5QNzkR5LXdZlwcCWH4AyRb7TTByYzJtudtr15lG7fhdR8P7dTsqB-ko2Np_kQTguD9h-yF1v-Y2LVvaulWb6kXp6wMjkM-47iTf0uJOBZDhqOlwLg0DLI5BgmyUgLGsUkxjW9l-vWVyH-Y__XMG7NbYQd7C4eM1sISeA-R2ZhGlVRtUGkLtbtXCtc1aTB1ERvBADCKtvSPEqVjCC9QXGe4TPenaVox2j2QJ0DAtSLc_pfWEgOgRxw&__tn__=-R)](../assets/ce9c0aca3fba/1*aM0haoNrfFPZ1p4KmGvszg.jpeg)
 
 Photo By [Refugee Accommodation and Solidarity Space City Plaza](https://www.facebook.com/sol2refugeesen/posts/2041811776111155?__xts__[0]=68.ARBMFNJf7DNRieYCIU1Y3C2IMZUKiHPKM2vMncr6U-ceMAiB1R1DXszUQjzdgWuLMSrXaRSf6DScgD16z4VGdNhnR7KcMryl6Qe2i5z5QNzkR5LXdZlwcCWH4AyRb7TTByYzJtudtr15lG7fhdR8P7dTsqB-ko2Np_kQTguD9h-yF1v-Y2LVvaulWb6kXp6wMjkM-47iTf0uJOBZDhqOlwLg0DLI5BgmyUgLGsUkxjW9l-vWVyH-Y__XMG7NbYQd7C4eM1sISeA-R2ZhGlVRtUGkLtbtXCtc1aTB1ERvBADCKtvSPEqVjCC9QXGe4TPenaVox2j2QJ0DAtSLc_pfWEgOgRxw&__tn__=-R)
 ### Feature
@@ -36,7 +36,7 @@ The author Emilia Plati was inspired to write this book while performing story\-
 All book sales are donated to City Plaza to cover their distribution of basic needs\. Find out how to purchase or support [here](https://www.facebook.com/sol2refugeesen/posts/2041811776111155) \.
 
 
-![Photo By [Refugee Accommodation and Solidarity Space City Plaza](https://www.facebook.com/sol2refugeesen/posts/2041811776111155?__xts__[0]=68.ARBMFNJf7DNRieYCIU1Y3C2IMZUKiHPKM2vMncr6U-ceMAiB1R1DXszUQjzdgWuLMSrXaRSf6DScgD16z4VGdNhnR7KcMryl6Qe2i5z5QNzkR5LXdZlwcCWH4AyRb7TTByYzJtudtr15lG7fhdR8P7dTsqB-ko2Np_kQTguD9h-yF1v-Y2LVvaulWb6kXp6wMjkM-47iTf0uJOBZDhqOlwLg0DLI5BgmyUgLGsUkxjW9l-vWVyH-Y__XMG7NbYQd7C4eM1sISeA-R2ZhGlVRtUGkLtbtXCtc1aTB1ERvBADCKtvSPEqVjCC9QXGe4TPenaVox2j2QJ0DAtSLc_pfWEgOgRxw&__tn__=-R)](assets/ce9c0aca3fba/1*dJFDz3hyORcmZHOE71g7RQ.jpeg)
+![Photo By [Refugee Accommodation and Solidarity Space City Plaza](https://www.facebook.com/sol2refugeesen/posts/2041811776111155?__xts__[0]=68.ARBMFNJf7DNRieYCIU1Y3C2IMZUKiHPKM2vMncr6U-ceMAiB1R1DXszUQjzdgWuLMSrXaRSf6DScgD16z4VGdNhnR7KcMryl6Qe2i5z5QNzkR5LXdZlwcCWH4AyRb7TTByYzJtudtr15lG7fhdR8P7dTsqB-ko2Np_kQTguD9h-yF1v-Y2LVvaulWb6kXp6wMjkM-47iTf0uJOBZDhqOlwLg0DLI5BgmyUgLGsUkxjW9l-vWVyH-Y__XMG7NbYQd7C4eM1sISeA-R2ZhGlVRtUGkLtbtXCtc1aTB1ERvBADCKtvSPEqVjCC9QXGe4TPenaVox2j2QJ0DAtSLc_pfWEgOgRxw&__tn__=-R)](../assets/ce9c0aca3fba/1*dJFDz3hyORcmZHOE71g7RQ.jpeg)
 
 Photo By [Refugee Accommodation and Solidarity Space City Plaza](https://www.facebook.com/sol2refugeesen/posts/2041811776111155?__xts__[0]=68.ARBMFNJf7DNRieYCIU1Y3C2IMZUKiHPKM2vMncr6U-ceMAiB1R1DXszUQjzdgWuLMSrXaRSf6DScgD16z4VGdNhnR7KcMryl6Qe2i5z5QNzkR5LXdZlwcCWH4AyRb7TTByYzJtudtr15lG7fhdR8P7dTsqB-ko2Np_kQTguD9h-yF1v-Y2LVvaulWb6kXp6wMjkM-47iTf0uJOBZDhqOlwLg0DLI5BgmyUgLGsUkxjW9l-vWVyH-Y__XMG7NbYQd7C4eM1sISeA-R2ZhGlVRtUGkLtbtXCtc1aTB1ERvBADCKtvSPEqVjCC9QXGe4TPenaVox2j2QJ0DAtSLc_pfWEgOgRxw&__tn__=-R)
 ### Libya
@@ -91,11 +91,11 @@ For ABR’s weekly statistics for 25th Feb — 3rd March you can find them [here
 _Mainland_
 
 
-![](assets/ce9c0aca3fba/1*8DpjX073Bw-LJWY8kNE18g.jpeg)
+![](../assets/ce9c0aca3fba/1*8DpjX073Bw-LJWY8kNE18g.jpeg)
 
 
 
-![Photos by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/680374869027467?__xts__[0]=68.ARBv6iDd04Bcgb_rAiCiALw8B_tkUkjPai-VVwS9pE3hM2hRkOHFcQHzluVantSR8y9ZyKztOB0K1FjIsnEPADBe8_OD6Ue8wa7XpHaVzMVfXPQVGS1oYM2hoKEsKHSoybcUGhVq_aZNJALdO2DfbGgX-kxG3KDZlg3X3jbVx63FuruBCKNE0u4E3sWAkQqyybmaLWdrdPoQoK5Mm0mxNBI6XmWI34LTIvafP-Q_8u8BiDb0o2Fd3NeaK3QEVekgWQifjouDGfrvb8OSoI_7LCBioIRdc3mEEa_OWMBAS8d_XaHMLbkCZ2vRRcMB9IB8LkbzTxNo94mG0fYtFNgSRzM&__tn__=-R) in Petras: “ The situation is complicated, many of the guys who live in the factories are unaccompanied minors\. They are here to do ‘the game\.’ Every day we see them jump the fences of the port to try to get between the tyres of a truck\. When they do, they hide there for hours\. The trucks are getting ready to enter a ferry and cross the Ionian Sea and the Adriatic Sea to reach an Italian port\. The Patras game is dangerous and exhausting\. We’re here to make each one of those people in transit feel more human\.”](assets/ce9c0aca3fba/1*Dm8Sb0I7Kws6XqB0i4a3zQ.jpeg)
+![Photos by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/680374869027467?__xts__[0]=68.ARBv6iDd04Bcgb_rAiCiALw8B_tkUkjPai-VVwS9pE3hM2hRkOHFcQHzluVantSR8y9ZyKztOB0K1FjIsnEPADBe8_OD6Ue8wa7XpHaVzMVfXPQVGS1oYM2hoKEsKHSoybcUGhVq_aZNJALdO2DfbGgX-kxG3KDZlg3X3jbVx63FuruBCKNE0u4E3sWAkQqyybmaLWdrdPoQoK5Mm0mxNBI6XmWI34LTIvafP-Q_8u8BiDb0o2Fd3NeaK3QEVekgWQifjouDGfrvb8OSoI_7LCBioIRdc3mEEa_OWMBAS8d_XaHMLbkCZ2vRRcMB9IB8LkbzTxNo94mG0fYtFNgSRzM&__tn__=-R) in Petras: “ The situation is complicated, many of the guys who live in the factories are unaccompanied minors\. They are here to do ‘the game\.’ Every day we see them jump the fences of the port to try to get between the tyres of a truck\. When they do, they hide there for hours\. The trucks are getting ready to enter a ferry and cross the Ionian Sea and the Adriatic Sea to reach an Italian port\. The Patras game is dangerous and exhausting\. We’re here to make each one of those people in transit feel more human\.”](../assets/ce9c0aca3fba/1*Dm8Sb0I7Kws6XqB0i4a3zQ.jpeg)
 
 Photos by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/680374869027467?__xts__[0]=68.ARBv6iDd04Bcgb_rAiCiALw8B_tkUkjPai-VVwS9pE3hM2hRkOHFcQHzluVantSR8y9ZyKztOB0K1FjIsnEPADBe8_OD6Ue8wa7XpHaVzMVfXPQVGS1oYM2hoKEsKHSoybcUGhVq_aZNJALdO2DfbGgX-kxG3KDZlg3X3jbVx63FuruBCKNE0u4E3sWAkQqyybmaLWdrdPoQoK5Mm0mxNBI6XmWI34LTIvafP-Q_8u8BiDb0o2Fd3NeaK3QEVekgWQifjouDGfrvb8OSoI_7LCBioIRdc3mEEa_OWMBAS8d_XaHMLbkCZ2vRRcMB9IB8LkbzTxNo94mG0fYtFNgSRzM&__tn__=-R) in Petras: “ The situation is complicated, many of the guys who live in the factories are unaccompanied minors\. They are here to do ‘the game\.’ Every day we see them jump the fences of the port to try to get between the tyres of a truck\. When they do, they hide there for hours\. The trucks are getting ready to enter a ferry and cross the Ionian Sea and the Adriatic Sea to reach an Italian port\. The Patras game is dangerous and exhausting\. We’re here to make each one of those people in transit feel more human\.”
 
@@ -125,7 +125,7 @@ Moderately to predominantly cloudy, rain and along the coast showers with thunde
 On March 16th in London there will be a “Refugees Welcome Bloc at UN Anti\-Racism Day Demonstration”\. Find out more about how you can make your voice heard and say that the UK can do more for refugees [here](https://www.facebook.com/groups/PeopletoPeopleSmallCamps/permalink/1030971977073424/) \.
 
 
-![\#NoBorders, art by [Kamiran Shemdin](https://www.facebook.com/artagainstproject/photos/a.639651369417634/2095699987146091/?type=3&theater)](assets/ce9c0aca3fba/1*rEmNU_ymVBnWPXx-bCIbKQ.jpeg)
+![\#NoBorders, art by [Kamiran Shemdin](https://www.facebook.com/artagainstproject/photos/a.639651369417634/2095699987146091/?type=3&theater)](../assets/ce9c0aca3fba/1*rEmNU_ymVBnWPXx-bCIbKQ.jpeg)
 
 \#NoBorders, art by [Kamiran Shemdin](https://www.facebook.com/artagainstproject/photos/a.639651369417634/2095699987146091/?type=3&theater)
 

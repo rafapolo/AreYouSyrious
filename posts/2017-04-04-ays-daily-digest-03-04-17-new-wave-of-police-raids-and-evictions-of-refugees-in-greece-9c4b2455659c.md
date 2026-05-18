@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 03/04/17: New wave of police raids and evictions of refugees in Greece
+title: "AYS Daily Digest 03/04/17: New wave of police raids and evictions of refugees in Greece"
 author: Are You Syrious?
 date: 2017-04-04T02:37:40.437+0100
 last_modified_at: 2017-04-04T06:58:53.599+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,greece,germany,uk-politics]
 description: Police raided refugee squats on Lesvos, same actions expected in Athens | Protests on Greek islands as desperation grows | Lebanese PM…
 image:
-  path: assets/9c4b2455659c/1*HtND_FwwBKmx5wzhJArpdw.jpeg
+  path: ../assets/9c4b2455659c/1*HtND_FwwBKmx5wzhJArpdw.jpeg
 ---
 
 ### AYS Daily Digest 03/04/17: New wave of police raids and evictions of refugees in Greece
 #### Police raided refugee squats on Lesvos, same actions expected in Athens \| Protests on Greek islands as desperation grows \| Lebanese PM urges for help from the international community \| Italy to close the deal with Libya \| Germany closes school halls, but many still live in collective accommodation \| Horrible scenario develops in Calais and Dunkirk \| UK groups look for more hosts
 
 
-![A wall at the warehouse in Belgrade that hosts young refugees \(Photo: [Mabel Montero](https://www.facebook.com/mabel.monterohernandez) \)](assets/9c4b2455659c/1*HtND_FwwBKmx5wzhJArpdw.jpeg)
+![A wall at the warehouse in Belgrade that hosts young refugees \(Photo: [Mabel Montero](https://www.facebook.com/mabel.monterohernandez) \)](../assets/9c4b2455659c/1*HtND_FwwBKmx5wzhJArpdw.jpeg)
 
 A wall at the warehouse in Belgrade that hosts young refugees \(Photo: [Mabel Montero](https://www.facebook.com/mabel.monterohernandez) \)
 #### FEATURE
@@ -79,11 +79,11 @@ One boat landed on the north east coast of Lesvos with **26 people** on board: 8
 Over the last month, **236** new arrivals were registered on **Lesvos, 596 on Chios and 318 on Samos\.**
 
 
-![](assets/9c4b2455659c/1*2I2xAN8GleIbYRQ9qbfYJw.jpeg)
+![](../assets/9c4b2455659c/1*2I2xAN8GleIbYRQ9qbfYJw.jpeg)
 
 
 
-![](assets/9c4b2455659c/1*pj7vfW3vfsvQdP_je_049A.jpeg)
+![](../assets/9c4b2455659c/1*pj7vfW3vfsvQdP_je_049A.jpeg)
 
 ### Protests
 
@@ -104,7 +104,7 @@ On Thursday, April 20, and Friday, April 21, it will again be open from 11:00h t
 New issue if Rumors is out with answers to rumors about deportations, protection cards, asylum requests, cash cards, relocation to Sweden, …
 
 
-![News That Moves and Translators without Borders bring new answers to the current rumours](assets/9c4b2455659c/1*Qo05T-JugfnDvE7M9gBWbw.jpeg)
+![News That Moves and Translators without Borders bring new answers to the current rumours](../assets/9c4b2455659c/1*Qo05T-JugfnDvE7M9gBWbw.jpeg)
 
 News That Moves and Translators without Borders bring new answers to the current rumours
 
@@ -119,7 +119,7 @@ Asylum Service App is available for download now on a trial moth period\. It was
 
 
 
-![](assets/9c4b2455659c/1*dp4uIt0nzWvHhndyi6J0WA.jpeg)
+![](../assets/9c4b2455659c/1*dp4uIt0nzWvHhndyi6J0WA.jpeg)
 
 #### SERBIA
 ### Belgrade
@@ -180,7 +180,7 @@ Tuesday and Friday
 Porte de la Chapelle
 
 
-![Paris information map by [**Solidarithé**](https://www.facebook.com/solidarithe/)](assets/9c4b2455659c/1*sxgAZmbCHFZTRrlH896y0g.jpeg)
+![Paris information map by [**Solidarithé**](https://www.facebook.com/solidarithe/)](../assets/9c4b2455659c/1*sxgAZmbCHFZTRrlH896y0g.jpeg)
 
 Paris information map by [**Solidarithé**](https://www.facebook.com/solidarithe/)
 #### UK
@@ -208,7 +208,7 @@ With the closure of the winter shelters, there is more and more need for hosts a
 
 
 
-![](assets/9c4b2455659c/1*pFId60Hoh01LqKzVw4sMyQ.png)
+![](../assets/9c4b2455659c/1*pFId60Hoh01LqKzVw4sMyQ.png)
 
 
 

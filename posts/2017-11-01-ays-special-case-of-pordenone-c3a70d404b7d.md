@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Case of Pordenone
+title: "AYS SPECIAL: Case of Pordenone"
 author: Are You Syrious?
 date: 2017-11-01T07:01:04.380+0000
 last_modified_at: 2018-03-01T13:59:18.617+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,italy,pordenone,human-rights-violations,special]
 description: Three years ago, people in Pordenone area in Italy noticed increase in number of people arriving from the Balkans and heading toward…
 image:
-  path: assets/c3a70d404b7d/1*5Yzo-bt7rGx1wSheRJ-4Mw.jpeg
+  path: ../assets/c3a70d404b7d/1*5Yzo-bt7rGx1wSheRJ-4Mw.jpeg
 ---
 
 ### AYS SPECIAL: Case of Pordenone
@@ -15,7 +15,7 @@ image:
 _Three years ago, people in Pordenone area in Italy noticed increase in number of people arriving from the Balkans and heading toward northern Europe\. Since than, local volunteers Lorena Fornasir and Gian Andrea Franchi are collecting data on treatment and issues people who are going this way are facing up until now\._
 
 
-![](assets/c3a70d404b7d/1*5Yzo-bt7rGx1wSheRJ-4Mw.jpeg)
+![](../assets/c3a70d404b7d/1*5Yzo-bt7rGx1wSheRJ-4Mw.jpeg)
 
 
 **2014/2015: First arrivals**
@@ -27,7 +27,7 @@ Between summer and winter of the same year, the emergency broke out due to the l
 **2015/2016: “Genovesi” case**
 
 
-![](assets/c3a70d404b7d/1*QiW-MKq3oWMtLK9-wrAnFA.jpeg)
+![](../assets/c3a70d404b7d/1*QiW-MKq3oWMtLK9-wrAnFA.jpeg)
 
 
 Towards the end of 2016, after the last clearance of the church’s arcade, between 40 and 60 refugees were moved and “hosted” inside a big industrial warehouse, managed by a co\-operative\. The reception inside the CAS was not sufficient and therefore it happened that buses from Gorizia, already full of people, stopped in Pordenone to collect more migrants and to take them to an unknown destination\.
@@ -45,7 +45,7 @@ From autumn 2016, an average of 40–60 asylum seekers \(with peaks of 80\) had 
 On the 20th April 2017, 70 migrants were evacuated with a great presence of police officers, local police staff, Carabinieri and Guardia di Finanza \(finance police\) \. Those 70 people were mainly asylum seekers awaiting to complete the procedure for their asylum claims\. From then on, asylum seekers, all identified at the Questura, are living on the streets, waiting to obtain a place inside the Caserma Monti, the local hub\. They sleep in the ditch in front of the Caserma, in the most dangerous, squalid and hidden garage or basement\.
 
 
-![](assets/c3a70d404b7d/1*t37Fl1r1d3tVKZ0BvD3a2g.jpeg)
+![](../assets/c3a70d404b7d/1*t37Fl1r1d3tVKZ0BvD3a2g.jpeg)
 
 
 The procedure they have to face is a long one, consisting of these steps:
@@ -64,7 +64,7 @@ The time span to complete these steps varies between a month and a month and a h
 Vulnerable people or people with pathologies, documented by the A&E, with significant or suspected diseases \(suspected TB cases\), don’t have any particular treatment\. Often they are left by themselves unless activists take care of them\. By doing so, however, they are replacing the public Institutions and Services, covering a serious failure of the public entity\.
 
 
-![](assets/c3a70d404b7d/1*XpZu0RQSVU3OwWfYPDfBFQ.jpeg)
+![](../assets/c3a70d404b7d/1*XpZu0RQSVU3OwWfYPDfBFQ.jpeg)
 
 
 The current administration, represented by Mayor Alessandro Ciriani, on October 3rd, 2017, publicly stated to be authorised to use public funding, destined to refugees, to strengthen local police actions to “disturb” the “misfit”, i\.e\. refugees\.
@@ -78,7 +78,7 @@ The year can be divided into some phases\.
 Between January and February, the “emergency\-cold” was declared, therefore refugees were hosted in some parishes, only for the night and always with a volunteer around\. Every three nights they had to be moved to another church in order to avoid the charge of “hospitality” at the Questura \(with continuous moving around of blankets\) \.
 
 
-![](assets/c3a70d404b7d/1*KQjpRv-sqi0o7SQnpGVbWw.jpeg)
+![](../assets/c3a70d404b7d/1*KQjpRv-sqi0o7SQnpGVbWw.jpeg)
 
 
 The Red Cross \(CRI\) secured the evening meal and in June, with the end of the school and the start of the summer recreational activities, it continued the distribution inside its headquarters, in a room used as storage and ambulance garage\.
@@ -100,7 +100,7 @@ At least 12 people sleep and eat in an old, crumbling and dangerous cotton mill,
 Another small group of 3–4 people, usually _fuori progetto_ \(migrants who find themselves outside the reception system\) or awaiting the renewal of their residence permit, sleep occasionally in a container managed by the parish of Vallenoncello, 4 km from Pordenone\.
 
 
-![](assets/c3a70d404b7d/1*JrAWhPnL-FADZlrIv7Aq6A.jpeg)
+![](../assets/c3a70d404b7d/1*JrAWhPnL-FADZlrIv7Aq6A.jpeg)
 
 
 Regarding the issue of documents by the Questura \(residence permit and renewal\), refugees who can not prove to have legal residence in the city are in fact stuck in a wearying wait that lasts for months, trapped in the paradox of a non\-receivable renewal right\.

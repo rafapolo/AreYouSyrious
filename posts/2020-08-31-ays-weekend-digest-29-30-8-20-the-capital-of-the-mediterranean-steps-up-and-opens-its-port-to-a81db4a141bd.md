@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 29–30/8/20: The ‘Capital of the Mediterranean’ steps up and opens its port to…
+title: "AYS Weekend Digest 29–30/8/20: The ‘Capital of the Mediterranean’ steps up and opens its port to…"
 author: Are You Syrious?
 date: 2020-08-31T14:17:14.983+0100
 last_modified_at: 2020-08-31T15:48:24.820+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,europe,migration,un]
 description: Marseille opens its port / Bosnia and Herzegovina’s anti-people treatment funded and supported by the international community; shooting at…
 image:
-  path: assets/a81db4a141bd/1*vjwx6m312nQds4QWwl7Gqg.jpeg
+  path: ../assets/a81db4a141bd/1*vjwx6m312nQds4QWwl7Gqg.jpeg
 ---
 
 ### AYS Weekend Digest 29–30/8/20: The ‘Capital of the Mediterranean’ steps up and opens its port to Louise Michel
 #### Marseille opens its port / Bosnia and Herzegovina’s anti\-people treatment funded and supported by the international community; shooting at people reported in Bihać / In Italy, unrest grows with the number of arrivals to Lampedusa / North of France still in need of support as people struggle; a report / recommended stories & more news
 
 
-![Photo\. [Sea\-Watch](https://www.facebook.com/seawatchprojekt/?tn-str=k%2AF&hc_location=group_dialog)](assets/a81db4a141bd/1*vjwx6m312nQds4QWwl7Gqg.jpeg)
+![Photo\. [Sea\-Watch](https://www.facebook.com/seawatchprojekt/?tn-str=k%2AF&hc_location=group_dialog)](../assets/a81db4a141bd/1*vjwx6m312nQds4QWwl7Gqg.jpeg)
 
 Photo\. [Sea\-Watch](https://www.facebook.com/seawatchprojekt/?tn-str=k%2AF&hc_location=group_dialog)
 #### FEATURE: BVMN Visual Investigation \- analysis of video footage showing Bosnian special support unit engaged in violent behavior near Miral camp
@@ -53,7 +53,7 @@ The official cantonal policies regarding refugees and migrants have shifted, esp
 
 
 
-[![[Enlarged] Violence from USK-MUP Special Support Unit near Miral Camp on August 19th](assets/a81db4a141bd/1e0d_hqdefault.jpg "[Enlarged] Violence from USK-MUP Special Support Unit near Miral Camp on August 19th")](https://www.youtube.com/watch?v=1xEi_FJXkHU)
+[![[Enlarged] Violence from USK-MUP Special Support Unit near Miral Camp on August 19th](../assets/a81db4a141bd/1e0d_hqdefault.jpg "[Enlarged] Violence from USK-MUP Special Support Unit near Miral Camp on August 19th")](https://www.youtube.com/watch?v=1xEi_FJXkHU)
 
 
 Geolocating the video using satellite imagery, stitching together the scene with compiled images, and conducting research on the origins of the vehicle parked at the scene brought the BVMN team to come interesting findings\.
@@ -166,7 +166,7 @@ Since beginning of March, #Greece has been unable to carry out deportations to #
 ### Chios
 
 
-![](assets/a81db4a141bd/1*EGQPSA8Vi1A4NH16aOR2Uw.jpeg)
+![](../assets/a81db4a141bd/1*EGQPSA8Vi1A4NH16aOR2Uw.jpeg)
 
 
 26 people arrived on two boats outside Ag\. Ermioni, Chios, early Saturday afternoon\. All Turkish nationals, they were onboard two old wooden fishing boats\. They have all claimed political asylum, and have been transported to the quarantine structure in Lefkonia, ABR says\.
@@ -231,7 +231,7 @@ Locals report that late in the evening on Sunday shots were heard and, reportedl
 #### Measures for the people against the people
 
 
-![Text and photo by Hannah Parry, NNK](assets/a81db4a141bd/1*tbOFlalMkzdDp4AYQy2EHA.jpeg)
+![Text and photo by Hannah Parry, NNK](../assets/a81db4a141bd/1*tbOFlalMkzdDp4AYQy2EHA.jpeg)
 
 Text and photo by Hannah Parry, NNK
 
@@ -363,7 +363,7 @@ Through short audio recordings, independent volunteers and volunteers working fo
 The objective of this project is to help give visibility to what is \(still\) happening at our borders, providing weekly updates of the situation\.
 
 
-[![ENS MOVEM - From 24/08/2020 to 30/08/2020](assets/a81db4a141bd/2cf3_hqdefault.jpg "ENS MOVEM - From 24/08/2020 to 30/08/2020")](https://www.youtube.com/watch?v=KU9fSBCW0xc)
+[![ENS MOVEM - From 24/08/2020 to 30/08/2020](../assets/a81db4a141bd/2cf3_hqdefault.jpg "ENS MOVEM - From 24/08/2020 to 30/08/2020")](https://www.youtube.com/watch?v=KU9fSBCW0xc)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 27/08/2022: Worsening conditions for refugees in Ter Apel reception centre led to…
+title: "AYS News Digest 27/08/2022: Worsening conditions for refugees in Ter Apel reception centre led to…"
 author: Are You Syrious?
 date: 2022-08-27T14:22:04.305+0100
 last_modified_at: 2022-08-27T15:30:59.916+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest]
 description: A dead man was found inside a truck in Italy/ Eighty-five people rescued near Zakynthos coasts and 87 in the Maltese area/ UK has announced…
 image:
-  path: assets/1675f6014bbb/1*_1dvRnZlqx99trmLlBDv1g.jpeg
+  path: ../assets/1675f6014bbb/1*_1dvRnZlqx99trmLlBDv1g.jpeg
 ---
 
 ### AYS News Digest 27/08/2022: Worsening conditions for refugees in Ter Apel reception centre led to the death of a three\-month\-old baby in the Netherlands
 #### A dead man was found inside a truck in Italy/ Eighty\-five people rescued near Zakynthos coasts and 87 in the Maltese area/ UK has announced a plan to speed up deportations to Albania/ Pushbacks, deportations and raids in the new Border Violence Monitoring Network report/ Upcoming eviction of Eleonas camp in Greece
 
 
-![People waiting outside Ter Apel refugee center\. Photo via [Netherlands English Post](https://netherlands.postsen.com/news/59923/Doctors-Without-Borders-to-Ter-Apel-%E2%80%98Government-is-failing%E2%80%99.html)](assets/1675f6014bbb/1*_1dvRnZlqx99trmLlBDv1g.jpeg)
+![People waiting outside Ter Apel refugee center\. Photo via [Netherlands English Post](https://netherlands.postsen.com/news/59923/Doctors-Without-Borders-to-Ter-Apel-%E2%80%98Government-is-failing%E2%80%99.html)](../assets/1675f6014bbb/1*_1dvRnZlqx99trmLlBDv1g.jpeg)
 
 People waiting outside Ter Apel refugee center\. Photo via [Netherlands English Post](https://netherlands.postsen.com/news/59923/Doctors-Without-Borders-to-Ter-Apel-%E2%80%98Government-is-failing%E2%80%99.html)
 #### FEATURE
@@ -85,7 +85,7 @@ This is an alarm pinting to the general political scenario\. The situation has r
 Last Friday, a demonstration was held in Amsterdam to demand humane treatment of people left in the administrative void\. The platform Stop Racism [had led protests](https://twitter.com/Pl_Stop_Racisme/status/1561670689689686016?s=20&t=n1IND0ZbSRweMTBYXbvoKA&fbclid=IwAR2vGBTdlfoFgDHgJPEY2rH9NJpp5qRaURxv0h3QoThCPaOtksenfTaEKO8) in the days before, deconstructing the idea that the issue is linked to arrival numbers\.
 
 
-![Protest led by Platform Stop Racisme \(picture via [Platform’s twitter](https://twitter.com/Pl_Stop_Racisme/status/1562106126682013697?s=20&t=n1IND0ZbSRweMTBYXbvoKA&fbclid=IwAR003JpuGEwiupV9HSrkwLS77zR14kvD2t1nPrjy9baFJKU3SS8bwC9MJms) \)](assets/1675f6014bbb/1*pYW_v7Tdm3e-hiabBW0qHw.jpeg)
+![Protest led by Platform Stop Racisme \(picture via [Platform’s twitter](https://twitter.com/Pl_Stop_Racisme/status/1562106126682013697?s=20&t=n1IND0ZbSRweMTBYXbvoKA&fbclid=IwAR003JpuGEwiupV9HSrkwLS77zR14kvD2t1nPrjy9baFJKU3SS8bwC9MJms) \)](../assets/1675f6014bbb/1*pYW_v7Tdm3e-hiabBW0qHw.jpeg)
 
 Protest led by Platform Stop Racisme \(picture via [Platform’s twitter](https://twitter.com/Pl_Stop_Racisme/status/1562106126682013697?s=20&t=n1IND0ZbSRweMTBYXbvoKA&fbclid=IwAR003JpuGEwiupV9HSrkwLS77zR14kvD2t1nPrjy9baFJKU3SS8bwC9MJms) \)
 
@@ -101,7 +101,7 @@ The party BIJ1, which joined the demonstration, [said](https://twitter.com/Polit
 
 
 
-![Credit: [Platform Stop Racisme](https://twitter.com/Pl_Stop_Racisme/status/1562104984182857729?s=20&t=n1IND0ZbSRweMTBYXbvoKA&fbclid=IwAR18JU8ZF2HMEBWJe2e0SRRoLOYAXjKC1mMcvJJRxofpZ1OPFVpuZRlLEd8)](assets/1675f6014bbb/1*0G_0nmJ29HB7NlM28rcepA.jpeg)
+![Credit: [Platform Stop Racisme](https://twitter.com/Pl_Stop_Racisme/status/1562104984182857729?s=20&t=n1IND0ZbSRweMTBYXbvoKA&fbclid=IwAR18JU8ZF2HMEBWJe2e0SRRoLOYAXjKC1mMcvJJRxofpZ1OPFVpuZRlLEd8)](../assets/1675f6014bbb/1*0G_0nmJ29HB7NlM28rcepA.jpeg)
 
 Credit: [Platform Stop Racisme](https://twitter.com/Pl_Stop_Racisme/status/1562104984182857729?s=20&t=n1IND0ZbSRweMTBYXbvoKA&fbclid=IwAR18JU8ZF2HMEBWJe2e0SRRoLOYAXjKC1mMcvJJRxofpZ1OPFVpuZRlLEd8)
 
@@ -110,7 +110,7 @@ The cause of the crisis in Ter Apel is the result of the entire approach to asyl
 ### Eighty\-five people saved around Zakynthos after hours of distress
 
 
-![People waiting to be rescued\. Credit: [Agean Boat Report](https://aegeanboatreport.com/2022/08/26/%e2%9a%a0%ef%b8%8fboat-carrying-85-people-in-distress-south-west-of-zakynthos-30-of-them-children%e2%9a%a0%ef%b8%8f/)](assets/1675f6014bbb/1*xhHFfRbPJn0X5009Bb7hyw.jpeg)
+![People waiting to be rescued\. Credit: [Agean Boat Report](https://aegeanboatreport.com/2022/08/26/%e2%9a%a0%ef%b8%8fboat-carrying-85-people-in-distress-south-west-of-zakynthos-30-of-them-children%e2%9a%a0%ef%b8%8f/)](../assets/1675f6014bbb/1*xhHFfRbPJn0X5009Bb7hyw.jpeg)
 
 People waiting to be rescued\. Credit: [Agean Boat Report](https://aegeanboatreport.com/2022/08/26/%e2%9a%a0%ef%b8%8fboat-carrying-85-people-in-distress-south-west-of-zakynthos-30-of-them-children%e2%9a%a0%ef%b8%8f/)
 
@@ -162,7 +162,7 @@ After a sea rescue of 37 people from Syria, five of them were arrested by Cyprio
 ### Call for solidarity on 30th August to stand against the eviction of Eleonas refugee camp
 
 
-![Demostration in solidarity with Eleonas camp residents\. Credit: [Solidarity with migrants](https://twitter.com/MigrantsSoli/status/1562848626467958784)](assets/1675f6014bbb/1*N8IF9wzJTwq8MgACxUyF0Q.jpeg)
+![Demostration in solidarity with Eleonas camp residents\. Credit: [Solidarity with migrants](https://twitter.com/MigrantsSoli/status/1562848626467958784)](../assets/1675f6014bbb/1*N8IF9wzJTwq8MgACxUyF0Q.jpeg)
 
 Demostration in solidarity with Eleonas camp residents\. Credit: [Solidarity with migrants](https://twitter.com/MigrantsSoli/status/1562848626467958784)
 
@@ -173,7 +173,7 @@ The [eviction](https://www.infomigrants.net/en/post/42751/police-violently-dispe
 Here is [our digest](ays-news-digest-20-8-22-violent-of-eviction-of-eleonas-camp-begins-in-athens-9db56d106a4a) about the start of the clearance process
 
 
-![Via [Solidarity with migrants](https://twitter.com/MigrantsSoli/status/1563166037797142530)](assets/1675f6014bbb/1*yB6H1v0jvJNTc-dIKUrdwg.jpeg)
+![Via [Solidarity with migrants](https://twitter.com/MigrantsSoli/status/1563166037797142530)](../assets/1675f6014bbb/1*yB6H1v0jvJNTc-dIKUrdwg.jpeg)
 
 Via [Solidarity with migrants](https://twitter.com/MigrantsSoli/status/1563166037797142530)
 

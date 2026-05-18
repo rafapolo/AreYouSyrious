@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 13/3/18: Croatia continues with push backs of children, while tacitly accepting…
+title: "AYS Daily Digest 13/3/18: Croatia continues with push backs of children, while tacitly accepting…"
 author: Are You Syrious?
 date: 2018-03-14T10:55:38.650+0000
 last_modified_at: 2018-03-14T12:18:34.934+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,syria,human-rights,volunteering]
 description: In 2017 50% more children have died in Syria than in 2016 / A man dies of hunger in Sicily / Lampedusa temporarily closing / Croatia…
 image:
-  path: assets/5937bf8b26f9/1*ktVEiHf1-OK4shzLF2L3KA.jpeg
+  path: ../assets/5937bf8b26f9/1*ktVEiHf1-OK4shzLF2L3KA.jpeg
 ---
 
 ### AYS Daily Digest 13/3/18: Croatia continues with push backs of children, while tacitly accepting expired deportation cases
 #### In 2017 50% more children have died in Syria than in 2016 / A man dies of hunger in Sicily / Lampedusa temporarily closing / Croatia tacitly accepted and Austria deported the family whose deadline for Dublin deportation expired on October 25 last year / Volunteers and aid needed in Greece and Bosnia and Herzegovina / more news and updates
 
 
-![](assets/5937bf8b26f9/1*ktVEiHf1-OK4shzLF2L3KA.jpeg)
+![](../assets/5937bf8b26f9/1*ktVEiHf1-OK4shzLF2L3KA.jpeg)
 
 #### FEATURE
 
@@ -48,11 +48,11 @@ Please read the entire text including the questions, demands and recommendations
 “No sieges have been lifted … To our knowledge, not one critically sick or wounded person has yet been evacuated,” UN Secretary\-General Antonio Guterres said on Monday\. He [also said](http://aje.io/vyfdv) that the suffering must end and that he was disappointed on the parties involved in the continuing violence in Ghouta\.
 
 
-![](assets/5937bf8b26f9/1*orfEyiO1IQHan23p_42KVQ.jpeg)
+![](../assets/5937bf8b26f9/1*orfEyiO1IQHan23p_42KVQ.jpeg)
 
 
 
-![According to news reports, the regime has succeeded in taking over parts of the towns of Shifoniya, Beit Sawa, Al\-Reihan, Misraba, and Madira \(these are mostly agricultural areas which provided most of the inadequate food supply of the besieged area\) \. This is a grave threat to the food security of the areas\. The regime has also succeeded in dividing Ghouta into three areas — the Douma area, the Harasta area and the central area\. Harasta is the smallest of these areas geographically but it is now densely populated\. There are approximately 5500 families, most of them living either in homes or underground cellars\. These areas are in danger of being overrun by the regime\. — by [Ghouta](https://www.facebook.com/ActForGhouta/)](assets/5937bf8b26f9/1*qRP2jEIlirPOw7oIN0WklQ.jpeg)
+![According to news reports, the regime has succeeded in taking over parts of the towns of Shifoniya, Beit Sawa, Al\-Reihan, Misraba, and Madira \(these are mostly agricultural areas which provided most of the inadequate food supply of the besieged area\) \. This is a grave threat to the food security of the areas\. The regime has also succeeded in dividing Ghouta into three areas — the Douma area, the Harasta area and the central area\. Harasta is the smallest of these areas geographically but it is now densely populated\. There are approximately 5500 families, most of them living either in homes or underground cellars\. These areas are in danger of being overrun by the regime\. — by [Ghouta](https://www.facebook.com/ActForGhouta/)](../assets/5937bf8b26f9/1*qRP2jEIlirPOw7oIN0WklQ.jpeg)
 
 According to news reports, the regime has succeeded in taking over parts of the towns of Shifoniya, Beit Sawa, Al\-Reihan, Misraba, and Madira \(these are mostly agricultural areas which provided most of the inadequate food supply of the besieged area\) \. This is a grave threat to the food security of the areas\. The regime has also succeeded in dividing Ghouta into three areas — the Douma area, the Harasta area and the central area\. Harasta is the smallest of these areas geographically but it is now densely populated\. There are approximately 5500 families, most of them living either in homes or underground cellars\. These areas are in danger of being overrun by the regime\. — by [Ghouta](https://www.facebook.com/ActForGhouta/)
 
@@ -65,7 +65,7 @@ According to news reports, the regime has succeeded in taking over parts of the 
 In their [recent report](http://unicef.org.tr/files/bilgimerkezi/doc/Hitting%20Rock%20Bottom%20How%202016%20Became%20the%20Worst%20Year%20for%20Syrias%20Children.pdf) , UNICEF says that 900 children were killed in 2017 as a result of the war in Syria\. This is the highest number since the war started in 2011, and marks a 50 percent increase from 2016\. Children with disabilities have been facing a very real risk of exclusion, neglect and stigmatization in the midst of bombing, bullets, expulsion, famine, and deaths of relatives and friends, threatening all children daily with becoming left alone\.
 
 
-![Photo: [**Live Updates From Syria**](https://www.facebook.com/liveupdatesfromsyria/?hc_location=group_dialog)](assets/5937bf8b26f9/1*wDpf97VbMPBVKwvuCjWvUw.jpeg)
+![Photo: [**Live Updates From Syria**](https://www.facebook.com/liveupdatesfromsyria/?hc_location=group_dialog)](../assets/5937bf8b26f9/1*wDpf97VbMPBVKwvuCjWvUw.jpeg)
 
 Photo: [**Live Updates From Syria**](https://www.facebook.com/liveupdatesfromsyria/?hc_location=group_dialog)
 #### GREECE
@@ -94,7 +94,7 @@ Authorities arrested 760 people hiding in trucks or carrying forged travel docum
 On 17 March, people will come together all over the world to show solidarity with refugees and migrants who are imprisoned, who are mistreated and tortured, and who lost their lives as a result of EU’s dirty anti\-migration deals\.
 
 
-![](assets/5937bf8b26f9/1*UsS6i9bAq7TXqb30VFH9sQ.jpeg)
+![](../assets/5937bf8b26f9/1*UsS6i9bAq7TXqb30VFH9sQ.jpeg)
 
 
 
@@ -102,7 +102,7 @@ On 17 March, people will come together all over the world to show solidarity wit
 
 
 
-![](assets/5937bf8b26f9/1*Hfp8ns8d1beOq6eM1un-xQ.jpeg)
+![](../assets/5937bf8b26f9/1*Hfp8ns8d1beOq6eM1un-xQ.jpeg)
 
 ### Volunteering
 
@@ -230,11 +230,11 @@ In the light of recent protests, arsons and previous similar events, they decide
 #### FRANCE
 
 
-![](assets/5937bf8b26f9/1*j3CoSn3QC4M2FhIxqUkdkg.jpeg)
+![](../assets/5937bf8b26f9/1*j3CoSn3QC4M2FhIxqUkdkg.jpeg)
 
 
 
-![This is what is given to unaccompanied minors in Paris, before being thrown in the streets, with no support whatsoever and completely vulnerable\. — [Faces Before Numbers](https://www.facebook.com/FacesBeforeNumbers/?hc_ref=ARQT9iiQwfqYx5WBuqsB5QA53x78VkDaVoUrpLXJHscbDDscTYtQoq6MqM-9vME-gE8)](assets/5937bf8b26f9/1*-a6aFMHqdKCXwYgYHfJG1A.jpeg)
+![This is what is given to unaccompanied minors in Paris, before being thrown in the streets, with no support whatsoever and completely vulnerable\. — [Faces Before Numbers](https://www.facebook.com/FacesBeforeNumbers/?hc_ref=ARQT9iiQwfqYx5WBuqsB5QA53x78VkDaVoUrpLXJHscbDDscTYtQoq6MqM-9vME-gE8)](../assets/5937bf8b26f9/1*-a6aFMHqdKCXwYgYHfJG1A.jpeg)
 
 This is what is given to unaccompanied minors in Paris, before being thrown in the streets, with no support whatsoever and completely vulnerable\. — [Faces Before Numbers](https://www.facebook.com/FacesBeforeNumbers/?hc_ref=ARQT9iiQwfqYx5WBuqsB5QA53x78VkDaVoUrpLXJHscbDDscTYtQoq6MqM-9vME-gE8)
 ### Calais area — call for action
@@ -250,7 +250,7 @@ This is what is given to unaccompanied minors in Paris, before being thrown in t
 
 
 
-![Protests all around Europe are announced for March 17, see more about [French](https://autonomiedeclasse.wordpress.com/2018/03/13/partout-en-europe-toutes-dans-la-rue-le-17-mars/) action](assets/5937bf8b26f9/1*rzZ3W9TOm6oQFmwKXAl9wQ.jpeg)
+![Protests all around Europe are announced for March 17, see more about [French](https://autonomiedeclasse.wordpress.com/2018/03/13/partout-en-europe-toutes-dans-la-rue-le-17-mars/) action](../assets/5937bf8b26f9/1*rzZ3W9TOm6oQFmwKXAl9wQ.jpeg)
 
 Protests all around Europe are announced for March 17, see more about [French](https://autonomiedeclasse.wordpress.com/2018/03/13/partout-en-europe-toutes-dans-la-rue-le-17-mars/) action
 #### GERMANY
@@ -305,20 +305,20 @@ Danish media is reporting that people who are forced to live in Kærshovedgård 
 Protest outside the Israeli embassy in London 12th March 2018\. Protesters demand an immediate end to the unfair policy depriving African migrants of the rights and dignity they deserve\. Stop the deportation of refugees and migrants in Israel\.
 
 
-![](assets/5937bf8b26f9/1*Px4tjCpAt7f-UgkmcD_3mQ.jpeg)
+![](../assets/5937bf8b26f9/1*Px4tjCpAt7f-UgkmcD_3mQ.jpeg)
 
 
 
-![](assets/5937bf8b26f9/1*ouG2_pEo-iXZ_fBDxxmyMg.jpeg)
+![](../assets/5937bf8b26f9/1*ouG2_pEo-iXZ_fBDxxmyMg.jpeg)
 
 
 
-![Photos — source: [Help Refugees Worldwide](https://www.facebook.com/HelpRefugeesWorldwide/?hc_ref=ARTaitHRkfMDmFwtIGqrZzwmXJiNqXAgQo-I6_N3Kdaw-hwDbK7ZGZxwJ8HowXDkSgQ&hc_location=group)](assets/5937bf8b26f9/1*4EaLx0IZQEjc8CjUZ53Egw.jpeg)
+![Photos — source: [Help Refugees Worldwide](https://www.facebook.com/HelpRefugeesWorldwide/?hc_ref=ARTaitHRkfMDmFwtIGqrZzwmXJiNqXAgQo-I6_N3Kdaw-hwDbK7ZGZxwJ8HowXDkSgQ&hc_location=group)](../assets/5937bf8b26f9/1*4EaLx0IZQEjc8CjUZ53Egw.jpeg)
 
 Photos — source: [Help Refugees Worldwide](https://www.facebook.com/HelpRefugeesWorldwide/?hc_ref=ARTaitHRkfMDmFwtIGqrZzwmXJiNqXAgQo-I6_N3Kdaw-hwDbK7ZGZxwJ8HowXDkSgQ&hc_location=group)
 
 
-![](assets/5937bf8b26f9/1*c4FonNnZg1vRvttP97wlLw.jpeg)
+![](../assets/5937bf8b26f9/1*c4FonNnZg1vRvttP97wlLw.jpeg)
 
 
 

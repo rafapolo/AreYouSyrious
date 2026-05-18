@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [spain,refugees,immigration,digest,germany]
 description: 
 image:
-  path: assets/73b66c0edf1e/0*eULXUxMg1EQa3r3K
+  path: ../assets/73b66c0edf1e/0*eULXUxMg1EQa3r3K
 ---
 
 ### AYS Daily Digest 24/05/21 — 36 rescued by helicopter south of Gran Canaria
@@ -17,7 +17,7 @@ _New rules in Lesvos // more on the suicide in Italian CPR // woman and toddler 
 
 
 ![Photo by 
-[Borja Suarez Melian](https://twitter.com/borjasuarez_gc/status/1396741803009847296)](assets/73b66c0edf1e/0*eULXUxMg1EQa3r3K)
+[Borja Suarez Melian](https://twitter.com/borjasuarez_gc/status/1396741803009847296)](../assets/73b66c0edf1e/0*eULXUxMg1EQa3r3K)
 
 Photo by 
 [Borja Suarez Melian](https://twitter.com/borjasuarez_gc/status/1396741803009847296)
@@ -168,7 +168,7 @@ As we reported in our Weekend Digest, more are coming out in solidarity after th
 #### SPAIN
 
 
-![“Refugee crisis in Ceuta and Melilla” Illustration by [Anne Derenne — Adenecartoon](https://www.facebook.com/photo/?fbid=169741528489226&set=a.131957405600972)](assets/73b66c0edf1e/0*BBvpIh-mQ2msCxDQ)
+![“Refugee crisis in Ceuta and Melilla” Illustration by [Anne Derenne — Adenecartoon](https://www.facebook.com/photo/?fbid=169741528489226&set=a.131957405600972)](../assets/73b66c0edf1e/0*BBvpIh-mQ2msCxDQ)
 
 “Refugee crisis in Ceuta and Melilla” Illustration by [Anne Derenne — Adenecartoon](https://www.facebook.com/photo/?fbid=169741528489226&set=a.131957405600972)
 ### Please support No Name Kitchen’s work in Ceuta

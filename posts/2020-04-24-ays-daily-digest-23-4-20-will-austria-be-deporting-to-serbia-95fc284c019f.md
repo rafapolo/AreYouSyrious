@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 23/4/20: Will Austria be deporting to Serbia?
+title: "AYS Daily Digest 23/4/20: Will Austria be deporting to Serbia?"
 author: Are You Syrious?
 date: 2020-04-24T16:08:18.532+0100
 last_modified_at: 2020-04-24T16:08:18.532+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,human-rights,greece,austria]
 description: The Netherlands refuses to take in children from Greek camps / Additional dangers of confinement in times of pandemic / Court ruling in…
 image:
-  path: assets/95fc284c019f/0*VtY536P7UChXzW3J.jpeg
+  path: ../assets/95fc284c019f/0*VtY536P7UChXzW3J.jpeg
 ---
 
 ### AYS Daily Digest 23/4/20: Will Austria be deporting to Serbia?
 ### The Netherlands refuses to take in children from Greek camps / Additional dangers of confinement in times of pandemic / Court ruling in Germany in favour of people in asylum centres being allowed to leave if centres don’t respect physical distancing during coronavirus / Denmark sending financial support to minors in Greece
 
 
-![](assets/95fc284c019f/0*V_i-wgvuj0tazJD-.jpeg)
+![](../assets/95fc284c019f/0*V_i-wgvuj0tazJD-.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----5e65d5c1b22e----------------------)
@@ -22,11 +22,11 @@ image:
 [Apr 24](ays-daily-digest-23-4-20-will-austria-be-deporting-to-serbia-5e65d5c1b22e?source=post_page-----5e65d5c1b22e----------------------) · 7 min read
 
 
-![](assets/95fc284c019f/0*zoyFrbILuoTqUqRm)
+![](../assets/95fc284c019f/0*zoyFrbILuoTqUqRm)
 
 
 
-![](assets/95fc284c019f/0*VtY536P7UChXzW3J.jpeg)
+![](../assets/95fc284c019f/0*VtY536P7UChXzW3J.jpeg)
 
 ### FEATURED
 

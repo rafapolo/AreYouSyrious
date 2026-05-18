@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Story about nightmares and children who do not have dreams
+title: "AYS SPECIAL: Story about nightmares and children who do not have dreams"
 author: Are You Syrious?
 date: 2017-06-18T21:40:28.521+0100
 last_modified_at: 2018-03-01T14:21:35.408+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,child-labor,gaziantep,eu-turkey-deal,special]
 description: In another special, AYS brings an extraordinary story by Andrea Panico about the exploitation of children in Gaziantep, Turkey, textile…
 image:
-  path: assets/e633399e0c98/1*zIAcBy_pCrtWX_mCEoAzDA.jpeg
+  path: ../assets/e633399e0c98/1*zIAcBy_pCrtWX_mCEoAzDA.jpeg
 ---
 
 ### AYS SPECIAL: Story about nightmares and children who do not have dreams
@@ -15,7 +15,7 @@ image:
 _In another special, AYS brings an extraordinary story by Andrea Panico about the exploitation of children in Gaziantep, Turkey, textile factories\. The material was produced during the Meltingpot/ Overthefortress investigation in Turkey with the title [“I don’t have dreams”, and is part of the publication with the same name](http://www.meltingpot.org/IMG/pdf/andrea_panico_-_childhood_lost.pdf) \. Panico writes about his nightmares and feeling of blame concluding that our only chance of redemption can be through fighting, telling, acting\. In resistance, to everything and everyone if necessary\._
 
 
-![Photo by Andrea Panico\.](assets/e633399e0c98/1*zIAcBy_pCrtWX_mCEoAzDA.jpeg)
+![Photo by Andrea Panico\.](../assets/e633399e0c98/1*zIAcBy_pCrtWX_mCEoAzDA.jpeg)
 
 Photo by Andrea Panico\.
 
@@ -62,39 +62,39 @@ _Their faces hunted me down for weeks, months\._
 _With the time I realise it\. We are the failure that others have planned and that we have accepted\._
 
 
-![](assets/e633399e0c98/1*qcNrMR5ha_9A7K8g_yv39w.jpeg)
+![](../assets/e633399e0c98/1*qcNrMR5ha_9A7K8g_yv39w.jpeg)
 
 
 
-![](assets/e633399e0c98/1*BegBIGMdINDNigMgjU7_BQ.jpeg)
+![](../assets/e633399e0c98/1*BegBIGMdINDNigMgjU7_BQ.jpeg)
 
 
 
-![](assets/e633399e0c98/1*MTIiV436KLzL9meGLKjM3g.jpeg)
+![](../assets/e633399e0c98/1*MTIiV436KLzL9meGLKjM3g.jpeg)
 
 
 
-![](assets/e633399e0c98/1*XtjVOiBvqfMDSZJp0dF-HQ.jpeg)
+![](../assets/e633399e0c98/1*XtjVOiBvqfMDSZJp0dF-HQ.jpeg)
 
 
 
-![](assets/e633399e0c98/1*ngOu7XeihT_7BS4Gkao1Aw.jpeg)
+![](../assets/e633399e0c98/1*ngOu7XeihT_7BS4Gkao1Aw.jpeg)
 
 
 
-![](assets/e633399e0c98/1*wEzlT4WLYdWvS9KBAUEeTg.jpeg)
+![](../assets/e633399e0c98/1*wEzlT4WLYdWvS9KBAUEeTg.jpeg)
 
 
 
-![](assets/e633399e0c98/1*vcsuG7gVZSDDLXDcANwfLA.jpeg)
+![](../assets/e633399e0c98/1*vcsuG7gVZSDDLXDcANwfLA.jpeg)
 
 
 
-![](assets/e633399e0c98/1*r2SOl1dcEjoXMNCaMAZCpA.jpeg)
+![](../assets/e633399e0c98/1*r2SOl1dcEjoXMNCaMAZCpA.jpeg)
 
 
 
-![](assets/e633399e0c98/1*QIaZOrQTJ4YYYHDU7AG5Xg.jpeg)
+![](../assets/e633399e0c98/1*QIaZOrQTJ4YYYHDU7AG5Xg.jpeg)
 
 
 **_\(The author Andrea Panico give a permission to AYS to use all the photos, while the article was written for AYS by Panico\)_**

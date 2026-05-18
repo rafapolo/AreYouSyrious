@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 05–06/9/20: The Mare Liberum must not be silenced!
+title: "AYS Weekend Digest 05–06/9/20: The Mare Liberum must not be silenced!"
 author: Are You Syrious?
 date: 2020-09-07T10:25:39.944+0100
 last_modified_at: 2020-09-07T10:25:39.944+0100
@@ -7,18 +7,18 @@ categories: Are You Syrious?
 tags: [digest,europe,refugees,migrants,migration]
 description: Video of illegal pushback from Croatia // Far-right anti-migrant protests in the UK // Death of three children in Syrian refugee camp //…
 image:
-  path: assets/5cfb38db9db/0*D-X1nYm9vNeyA7Zp.jpeg
+  path: ../assets/5cfb38db9db/0*D-X1nYm9vNeyA7Zp.jpeg
 ---
 
 ### AYS Weekend Digest 05–06/9/20: The Mare Liberum must not be silenced\!
 #### Video of illegal pushback from Croatia // Far\-right anti\-migrant protests in the UK // Death of three children in Syrian refugee camp // Transfer of 800 people from overcrowded Italian refugee centres // Two new coronavirus cases in Moria
 
 
-![](assets/5cfb38db9db/0*Tf5WHi0h-4PkBSJd)
+![](../assets/5cfb38db9db/0*Tf5WHi0h-4PkBSJd)
 
 
 
-![](assets/5cfb38db9db/0*D-X1nYm9vNeyA7Zp.jpeg)
+![](../assets/5cfb38db9db/0*D-X1nYm9vNeyA7Zp.jpeg)
 
 
 The Mare Liberum \(Photo Credit: [https://mare\-liberum\.org/en/mare\-liberum/](https://mare-liberum.org/en/mare-liberum/) \)
@@ -142,19 +142,19 @@ On Saturday, the Italian government transferred an estimated 800 migrants to a f
 ### Greece
 
 
-![](assets/5cfb38db9db/0*6sDRkT8htWHaTdNl)
+![](../assets/5cfb38db9db/0*6sDRkT8htWHaTdNl)
 
 
 
-![](assets/5cfb38db9db/0*5DMEX3RGB2xYO3AE.jpeg)
+![](../assets/5cfb38db9db/0*5DMEX3RGB2xYO3AE.jpeg)
 
 
 
-![](assets/5cfb38db9db/0*hFJ5KJwEawSLgzuw)
+![](../assets/5cfb38db9db/0*hFJ5KJwEawSLgzuw)
 
 
 
-![](assets/5cfb38db9db/0*fvIsBSITugotvl5e.jpeg)
+![](../assets/5cfb38db9db/0*fvIsBSITugotvl5e.jpeg)
 
 
 [No Name Kitchen have shared](https://www.facebook.com/NoNameKitchenBelgrade/posts/1066073537124263) how in recent weeks testimonies have emerged from Patras of inhuman and degrading treatment inflicted by the police and private security forces operating in the port area\.

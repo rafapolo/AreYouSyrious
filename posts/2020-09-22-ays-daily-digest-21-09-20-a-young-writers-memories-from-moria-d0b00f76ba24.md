@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 21/09/20: A young writer’s memories from Moria
+title: "AYS Daily Digest 21/09/20: A young writer’s memories from Moria"
 author: Are You Syrious?
 date: 2020-09-22T13:30:27.577+0100
 last_modified_at: 2020-09-22T16:11:03.186+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,greece,uk]
 description: Updates from the new camp in Kara Tepe // A baby born on a boat off the caost of Lampedusa // 125 people on ALAN KURDI in need of a safe…
 image:
-  path: assets/d0b00f76ba24/1*w8jvefwm6YukciSm0bWpig.jpeg
+  path: ../assets/d0b00f76ba24/1*w8jvefwm6YukciSm0bWpig.jpeg
 ---
 
 ### AYS Daily Digest 21/09/20: A young writer’s memories of Moria
 #### Updates from the new camp in Kara Tepe // A baby born on a boat off the coast of Lampedusa // 125 people on ALAN KURDI in need of a safe port // More police violence at BiH border, people drowning every week // New Protests in Postojna camp in Slovenia // Updates from UK
 
 
-![The new Kara Tepe camp\. Copyright: Refocus Media Lab](assets/d0b00f76ba24/1*w8jvefwm6YukciSm0bWpig.jpeg)
+![The new Kara Tepe camp\. Copyright: Refocus Media Lab](../assets/d0b00f76ba24/1*w8jvefwm6YukciSm0bWpig.jpeg)
 
 The new Kara Tepe camp\. Copyright: Refocus Media Lab
 ### FEATURE: My pen won’t break, but borders will

@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,macron,syria,balkan-route]
 description: Heavy Rain continues in Syria /// TB outbreak in Triq al Sikka detention centre /// 17,000 Turkish citizens sought asylum in EU in 2018…
 image:
-  path: assets/becd0c54801e/1*S7OpoLfcbJrxJPxURQsg6g.jpeg
+  path: ../assets/becd0c54801e/1*S7OpoLfcbJrxJPxURQsg6g.jpeg
 ---
 
 ### AYS Weekend Digest 29–30/12/2018: French state “deliberately endangers” people on the move
@@ -15,7 +15,7 @@ image:
 _Heavy rain continues in Syria // TB outbreak in Triq al Sikka detention centre // 17,000 Turkish citizens sought asylum in EU in 2018 // At least 72 people lost at sea // 155 people arrive on Greek islands over weekend // ECRE complaint against Greece’s treatment of unaccompanied children // And more news…_
 
 
-![The number increased to [4503](https://missingmigrants.iom.int/) \(Drawing by By Mikail Çiftçi\)](assets/becd0c54801e/1*S7OpoLfcbJrxJPxURQsg6g.jpeg)
+![The number increased to [4503](https://missingmigrants.iom.int/) \(Drawing by By Mikail Çiftçi\)](../assets/becd0c54801e/1*S7OpoLfcbJrxJPxURQsg6g.jpeg)
 
 The number increased to [4503](https://missingmigrants.iom.int/) \(Drawing by By Mikail Çiftçi\)
 ### FEATURE: The French state “deliberately endangers” people on the move
@@ -38,7 +38,7 @@ In the letter they reminded Macron of his public commitment not to have people s
 
 
 
-![\( [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/photos/a.1806267829653329/2274160436197397/?type=3&theater) \)](assets/becd0c54801e/1*QPP0TTxZ1nPId38JaYmjpQ.jpeg)
+![\( [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/photos/a.1806267829653329/2274160436197397/?type=3&theater) \)](../assets/becd0c54801e/1*QPP0TTxZ1nPId38JaYmjpQ.jpeg)
 
 \( [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/photos/a.1806267829653329/2274160436197397/?type=3&theater) \)
 
@@ -51,7 +51,7 @@ In the letter they reminded Macron of his public commitment not to have people s
 
 
 ![“ **The weather in Paris for the last 6 weeks fluctuates quickly between torrential rain and freezing temperatures\.** 
-**Tonight it’s zero degrees\.** ” \( [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/photos/a.1806267829653329/2274160436197397/?type=3&theater) \)](assets/becd0c54801e/1*x-ywYgFba3-IQvCynp9F-Q.jpeg)
+**Tonight it’s zero degrees\.** ” \( [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/photos/a.1806267829653329/2274160436197397/?type=3&theater) \)](../assets/becd0c54801e/1*x-ywYgFba3-IQvCynp9F-Q.jpeg)
 
 “ **The weather in Paris for the last 6 weeks fluctuates quickly between torrential rain and freezing temperatures\.** 
 **Tonight it’s zero degrees\.** ” \( [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/photos/a.1806267829653329/2274160436197397/?type=3&theater) \)
@@ -59,7 +59,7 @@ In the letter they reminded Macron of his public commitment not to have people s
 Despite the efforts of the police, who every morning evict as many makeshift camps as they can, these camps grow day after day, “in basketball courts, under highway bridges and in parks\.”
 
 
-![Photo by [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/photos/a.1806267829653329/2274160436197397/?type=3&theater)](assets/becd0c54801e/1*2OwMCKyBWpWfdR40a61fqA.jpeg)
+![Photo by [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/photos/a.1806267829653329/2274160436197397/?type=3&theater)](../assets/becd0c54801e/1*2OwMCKyBWpWfdR40a61fqA.jpeg)
 
 Photo by [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/photos/a.1806267829653329/2274160436197397/?type=3&theater)
 
@@ -68,11 +68,11 @@ From a [volunteer](https://www.facebook.com/groups/119648878605821/permalink/376
 “Many spend months and months living like this\. What photos can’t show is the cold, the lack of dignity when washing in the street in full view of tourists, the danger from gangs and the huge psychological trauma many struggle with\.”
 
 
-![](assets/becd0c54801e/1*t2JV8I4rZ3pOEUhe4G5_vA.jpeg)
+![](../assets/becd0c54801e/1*t2JV8I4rZ3pOEUhe4G5_vA.jpeg)
 
 
 
-![\(Photo by Sarah Fenby\-Dixon\)](assets/becd0c54801e/1*roMzXqzB2-e8Z9AM0VBA7A.jpeg)
+![\(Photo by Sarah Fenby\-Dixon\)](../assets/becd0c54801e/1*roMzXqzB2-e8Z9AM0VBA7A.jpeg)
 
 \(Photo by Sarah Fenby\-Dixon\)
 
@@ -99,7 +99,7 @@ The associations active in the field underline the inaction of the authorities:
 
 
 
-![Photo by [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/photos/a.1806267829653329/2274160436197397/?type=3&theater)](assets/becd0c54801e/1*sNP8Eja36f3x4_YH5gTz5Q.jpeg)
+![Photo by [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/photos/a.1806267829653329/2274160436197397/?type=3&theater)](../assets/becd0c54801e/1*sNP8Eja36f3x4_YH5gTz5Q.jpeg)
 
 Photo by [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/photos/a.1806267829653329/2274160436197397/?type=3&theater)
 
@@ -237,7 +237,7 @@ If you are interested please contact: alexandra@northernlightsaid\.org
 #### Border violence continues despite statements to the contrary
 
 
-![The collective expulsion and violent return of asylum seekers to the to non\-EU borders surrounding Croatia is a routine occurrence\. Over the past two years, men, women, and even children have returned to Bosnia\-Herzegovina and Serbia from Croatia with split lips, black eyes, and broken bones\. \[…\] As winter continues in northwestern Bosnia and reports of deaths from exposure and coldness trickle back to us, we are reminded of the precarious position that these individuals are already in\. Violence along the borders and collective expulsions only serve to push these individuals towards even more dangerous and risky transit routes\. \(by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/a.312076942523930/646407325757555/?type=3&theater) \)](assets/becd0c54801e/1*lGUbn1pK6ITYlKjsIXEcqQ.jpeg)
+![The collective expulsion and violent return of asylum seekers to the to non\-EU borders surrounding Croatia is a routine occurrence\. Over the past two years, men, women, and even children have returned to Bosnia\-Herzegovina and Serbia from Croatia with split lips, black eyes, and broken bones\. \[…\] As winter continues in northwestern Bosnia and reports of deaths from exposure and coldness trickle back to us, we are reminded of the precarious position that these individuals are already in\. Violence along the borders and collective expulsions only serve to push these individuals towards even more dangerous and risky transit routes\. \(by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/a.312076942523930/646407325757555/?type=3&theater) \)](../assets/becd0c54801e/1*lGUbn1pK6ITYlKjsIXEcqQ.jpeg)
 
 The collective expulsion and violent return of asylum seekers to the to non\-EU borders surrounding Croatia is a routine occurrence\. Over the past two years, men, women, and even children have returned to Bosnia\-Herzegovina and Serbia from Croatia with split lips, black eyes, and broken bones\. \[…\] As winter continues in northwestern Bosnia and reports of deaths from exposure and coldness trickle back to us, we are reminded of the precarious position that these individuals are already in\. Violence along the borders and collective expulsions only serve to push these individuals towards even more dangerous and risky transit routes\. \(by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/a.312076942523930/646407325757555/?type=3&theater) \)
 #### Balkan Weather Forecast for Monday 31/12

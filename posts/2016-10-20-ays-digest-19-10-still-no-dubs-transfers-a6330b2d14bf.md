@@ -1,5 +1,5 @@
 ---
-title: AYS Digest 19/10: Still no Dubs Transfers
+title: "AYS Digest 19/10: Still no Dubs Transfers"
 author: Are You Syrious?
 date: 2016-10-20T02:39:03.844+0100
 last_modified_at: 2016-10-20T12:40:36.398+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: The EU-Turkey deal — a blueprint to control migration from Africa. EU plans to accelerate returns to Turkey. Relocation process still…
 image:
-  path: assets/a6330b2d14bf/0*Xcvj9smyGfG-XZv_.
+  path: ../assets/a6330b2d14bf/0*Xcvj9smyGfG-XZv_.
 ---
 
 ### AYS Digest 19/10: Still no Dubs Transfers
@@ -15,7 +15,7 @@ image:
 _The EU\-Turkey deal — a blueprint to control migration from Africa\. EU plans to accelerate returns to Turkey\. Relocation process still extremely slow\. Some kids transferred to the UK under the Dublin Regulation but not a single child brought over under Dubs\._
 
 
-![Photo by Calais Action](assets/a6330b2d14bf/0*Xcvj9smyGfG-XZv_.)
+![Photo by Calais Action](../assets/a6330b2d14bf/0*Xcvj9smyGfG-XZv_.)
 
 Photo by Calais Action
 ### EU
@@ -33,7 +33,7 @@ During Thursday’s summit, EU leaders are expected to decide that they want to 
 **High Representative Mogherini adds that rules on the relocation of refugees within the EU must be respected according to agreed quotas** \. In an interview with AYS however, Portuguese MEP Ana Gomes insists that several countries, such as Portugal, are willing to accept refugees more rapidly, but are unable to do so\. She points out several problems, including the difficult cooperation between EASO and Greek authorities\. She adds that the European Commission has the political authority to speed up the process and could allocate more resources and staff to solve the issue\. She also insists she “cannot understand why this takes so long, especially since countries like mine are open to take in refugees”\. We will post the full interview soon\. In the meantime, her intervention before the European Parliament explains her frustration well\.
 
 
-[![MEP Ana Gomes - Refugees and Relocation in Portugal](assets/a6330b2d14bf/d0cf_hqdefault.jpg "MEP Ana Gomes - Refugees and Relocation in Portugal")](http://www.youtube.com/watch?v=Q3QMkdF_aM8)
+[![MEP Ana Gomes - Refugees and Relocation in Portugal](../assets/a6330b2d14bf/d0cf_hqdefault.jpg "MEP Ana Gomes - Refugees and Relocation in Portugal")](http://www.youtube.com/watch?v=Q3QMkdF_aM8)
 
 
 _As of now, only 4,814 refugees have been transferred from Greece to the rest of Europe\._
@@ -63,14 +63,14 @@ Calais Action says “ _we must make sure that our governments do not confuse th
 _We call upon this Government to enact the spirit of the Dubs Amendment and bring over Dubs children as well as Dublin children — ALL children in the camp are worthy of our protection\.”_
 
 
-![Photo by Calais Action](assets/a6330b2d14bf/0*zYhNHpJ1EYAGVbYt.)
+![Photo by Calais Action](../assets/a6330b2d14bf/0*zYhNHpJ1EYAGVbYt.)
 
 Photo by Calais Action
 
 Help Refugees says “ **_whilst we welcome the arrival of so many children who qualify under the Dublin III amendment it is important to remember the most vulnerable demographics in camp — the girls and the under 13s who would qualify under the Alf Dubs Amendment are still there_** _not knowing what is going to happen to them\. At present not one child who qualifies under this amendment has been officially registered let alone brought to safety\. Demolition is due to start Monday\. In the last eviction 129 children went missing_ \.”
 
 
-![Photo by Help Refugees](assets/a6330b2d14bf/0*ieiuEKkDPl6xMdoH.)
+![Photo by Help Refugees](../assets/a6330b2d14bf/0*ieiuEKkDPl6xMdoH.)
 
 Photo by Help Refugees
 ### Syria
@@ -79,7 +79,7 @@ Photo by Help Refugees
 Inhabitants of the Damascus suburb of Moaddamieh have been forcibly evacuated today, following a local truce which will return the district to the Syrian regime\. Around 3,000 local rebel fighters and residents will leave their homes and head north to opposition\-held Idlib province\. [Al Araby](https://www.alaraby.co.uk/english/news/2016/10/19/another-opposition-held-damascus-suburb-to-be-evacuated-on-wednesday) says the neighborhood has been besieged by regime forces since 2013, with residents enduring chemical attacks, barrel bombing, and starvation\.
 
 
-![Photo provided by “Marvin Gate”](assets/a6330b2d14bf/0*uvIv7FIjKinoZKRp.)
+![Photo provided by “Marvin Gate”](../assets/a6330b2d14bf/0*uvIv7FIjKinoZKRp.)
 
 Photo provided by “Marvin Gate”
 #### Iraq
@@ -94,7 +94,7 @@ Photo provided by “Marvin Gate”
 As we reported earlier, systematic push\-backs of people from Presevo camp has been confirmed by both Serbian and Macedonian volunteers\. Refugees who have been locked up for months in Presevo are allegedly being returned to Macedonia without a legal procedure, in groups of 30–40 people per day, most probably over the green border\. Refugees who are still in Presevo say they are very afraid because they don’t have any information about whether or not they too will be pushed back to Macedonia\.
 
 
-![Arrival of people from Northern Serbia to Presevo\. Photo by a volunteer\.](assets/a6330b2d14bf/0*DYF49hMhIN-7sUqE.jpg)
+![Arrival of people from Northern Serbia to Presevo\. Photo by a volunteer\.](../assets/a6330b2d14bf/0*DYF49hMhIN-7sUqE.jpg)
 
 Arrival of people from Northern Serbia to Presevo\. Photo by a volunteer\.
 #### Hungary
@@ -123,12 +123,12 @@ The organization is still looking for people to translate the text into Somali, 
 The 23rd roundup of refugees since the 31rd of July took place today in Paris\. Today, around 50 refugees were arrested, with many tents, sleeping bags, and personal belongings destroyed in the process\.
 
 
-![Photo by Collectif La Chappelle Debout](assets/a6330b2d14bf/0*oKISNyROEi_qQVEG.)
+![Photo by Collectif La Chappelle Debout](../assets/a6330b2d14bf/0*oKISNyROEi_qQVEG.)
 
 Photo by Collectif La Chappelle Debout
 
 
-![Photo by Collectif La Chappelle Debout](assets/a6330b2d14bf/0*nxPo9kFr1jAxrfvI.)
+![Photo by Collectif La Chappelle Debout](../assets/a6330b2d14bf/0*nxPo9kFr1jAxrfvI.)
 
 Photo by Collectif La Chappelle Debout
 
@@ -142,7 +142,7 @@ During these arrests, many refugees are notified with an “obligation to leave 
 [Baobab Experience](https://www.facebook.com/BaobabExperience) in Rome continues to fight for the rights of refugees, even after being evicted by police from their center in via Cupa\. They urgently need biscuits, blankets, and sleeping bags\.
 
 
-![Photo by Baobab Experience](assets/a6330b2d14bf/0*NHHRZxEZ9mHrfGLR.)
+![Photo by Baobab Experience](../assets/a6330b2d14bf/0*NHHRZxEZ9mHrfGLR.)
 
 Photo by Baobab Experience
 

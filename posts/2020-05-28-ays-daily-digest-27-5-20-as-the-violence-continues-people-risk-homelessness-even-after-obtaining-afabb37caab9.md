@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 27/5/20: As the violence continues, people risk homelessness even after obtaining…
+title: "AYS Daily Digest 27/5/20: As the violence continues, people risk homelessness even after obtaining…"
 author: Are You Syrious?
 date: 2020-05-28T13:18:03.171+0100
 last_modified_at: 2020-05-28T15:19:43.249+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,humanitarian,refugees,police-brutality,migration]
 description: Police and border violence on the rise / Contribute to the fight to support families in Croatia affected by the Covid19 and cosequences of…
 image:
-  path: assets/afabb37caab9/1*wbAtSMcwT_fN4TfW0uN7GQ.jpeg
+  path: ../assets/afabb37caab9/1*wbAtSMcwT_fN4TfW0uN7GQ.jpeg
 ---
 
 ### AYS Daily Digest 27/5/20: As the violence continues, people risk homelessness even after obtaining international protection
 #### Police and border violence on the rise / Contribute to the fight to support families in Croatia affected by COVID\-19 and consequences of the recent earthquake / Eviction in Rome / Why would someone board a dangerous raft and head across the Channel? / & more
 
 
-![Go to: [areyousyrious\.eu](https://hr.areyousyrious.eu/)](assets/afabb37caab9/1*wbAtSMcwT_fN4TfW0uN7GQ.jpeg)
+![Go to: [areyousyrious\.eu](https://hr.areyousyrious.eu/)](../assets/afabb37caab9/1*wbAtSMcwT_fN4TfW0uN7GQ.jpeg)
 
 Go to: [areyousyrious\.eu](https://hr.areyousyrious.eu/)
 #### FEATURED
@@ -33,7 +33,7 @@ However, solidarity continues unabated for those without the means to use public
 As implausible it might sound to many bureaucratic and political minds, you really cannot kill solidarity, people’s will to help and support their fellow humans who are in a more difficult place in life…
 
 
-![This is a photo of one of the people from a group of badly beaten young men who arrived at Miral camp in Velika Kladuša\. Many other sources, from locals to people themselves, claim border violence has been on a rise in the past days \(Photo via: [Bejza Kudic](https://www.facebook.com/profile.php?id=100010319738101&__tn__=%2Cd%2AF%2AF-R&eid=ARD8Nts-uj3BVUxizT2KY6v8YHZCYwyGrjkfwFM2w5bfffPGw_6NWL2g-PBOttjM6V1ddLc5nK8SNk9V&tn-str=%2AF) \)](assets/afabb37caab9/1*elfhEn8TfmK1H-L9XD2t9g.jpeg)
+![This is a photo of one of the people from a group of badly beaten young men who arrived at Miral camp in Velika Kladuša\. Many other sources, from locals to people themselves, claim border violence has been on a rise in the past days \(Photo via: [Bejza Kudic](https://www.facebook.com/profile.php?id=100010319738101&__tn__=%2Cd%2AF%2AF-R&eid=ARD8Nts-uj3BVUxizT2KY6v8YHZCYwyGrjkfwFM2w5bfffPGw_6NWL2g-PBOttjM6V1ddLc5nK8SNk9V&tn-str=%2AF) \)](../assets/afabb37caab9/1*elfhEn8TfmK1H-L9XD2t9g.jpeg)
 
 This is a photo of one of the people from a group of badly beaten young men who arrived at Miral camp in Velika Kladuša\. Many other sources, from locals to people themselves, claim border violence has been on a rise in the past days \(Photo via: [Bejza Kudic](https://www.facebook.com/profile.php?id=100010319738101&__tn__=%2Cd%2AF%2AF-R&eid=ARD8Nts-uj3BVUxizT2KY6v8YHZCYwyGrjkfwFM2w5bfffPGw_6NWL2g-PBOttjM6V1ddLc5nK8SNk9V&tn-str=%2AF) \)
 
@@ -69,7 +69,7 @@ AIforGood Simulator project \( [aiforgoodsimulator\.com](http://aiforgoodsimulat
 ### Weekly arrivals
 
 
-![](assets/afabb37caab9/1*hNEl6QeYuZP1T4n3FDEFHA.jpeg)
+![](../assets/afabb37caab9/1*hNEl6QeYuZP1T4n3FDEFHA.jpeg)
 
 
 For more detailed statistics go to [aegeanboatreport\.com\.](https://l.facebook.com/l.php?u=http%3A%2F%2Faegeanboatreport.com%2F%3Ffbclid%3DIwAR0x8PjZuqUC2NxXbXcMNrWalcpHeDv8JF7_73flLqFlvsm5igtD-dg9odc&h=AT09aaU5vXaCMYyYpCybyyP6kWdtLS2G7YKKQ9QalraKtjcJxsCl6tmt5-4JN0nYPv-h0cswvEBbuwUjAzxKIB0q7aWKA1UwVbAvfG_XDek-zPJ25VcJLnwjSC5GVn3XLlfZZ6MRfRLx0gVYb_HWhWaPUG0L6ASer7BHzS1ifrG9ojvRj1H9Pq-_PxQs9o4reV1RaboGST6aoMOTNEvohDxWhkCPKnmT7hHYZBVI7eVLJuu7eKZJYdbLdcsn7ZeXpaVMEdzrZciiiAcdd2lj7GqAwTmiNx9q9-t5iCaYCMdJv6wvI5w3kvGUD0qCFeSYrXMSJCZo49XKqRVOkNFAMjYfNsgHTQn7yyxFEue1iAXETr6g-s5VHT5Ux9nBdN_HdhJKHkkGX8-2Qawv8l9KDBnOOE0-wPkQYwTiw3k3pqhEbNMMJtOfKBdbBNoX55BJUmQ9EQWrety6oIPV5EhuGttlTRNNqU3qFX0JzZsKQdiDDZ5p89Cqe_LLvdyVwSsAsjVGYTHtPGFytzr3VxCc4i0P7Eg9cgLg5nqDecfjuv4zkXLZbx2Ss7ID1ikMzcr2JcCd06NsoeUoj1-dsMQ4qrsSCIpmuvbPN290LG6OTDXXRbSmdeHxjR7Sh4YAEY8) / ABR Statistics\.

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 23/6/20: Deaths along the Balkan Route go overlooked
+title: "AYS Daily Digest 23/6/20: Deaths along the Balkan Route go overlooked"
 author: Are You Syrious?
 date: 2020-06-24T20:27:31.855+0100
 last_modified_at: 2020-06-24T20:27:31.855+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [newsletter,refugees,balkans,greece]
 description: People whose stories will never be heard have been losing lives across the so-called Balkan Route even more in the past weeks and months…
 image:
-  path: assets/7bb258367ef4/1*HyH2KjymMBgRNP49MNP8Eg.jpeg
+  path: ../assets/7bb258367ef4/1*HyH2KjymMBgRNP49MNP8Eg.jpeg
 ---
 
 ### AYS Daily Digest 23/6/20: Deaths along the Balkan Route go overlooked
 #### People whose stories will never be heard have been losing lives across the so\-called Balkan Route even more in the past weeks and months, but somehow these tragedies draw little outrage and less action / more cases of collective expulsion in Greece; extensive reports / Sweden and Germany deport to Afghanistan in spite of reports of the “deadliest week in the 19 years of armed conflict in the country” / recommended reads from now on in each News Digest for getting deeper into what’s going on
 
 
-![Velčevo, Bosnia and Herzegovina — Photo by Selma Dzafic](assets/7bb258367ef4/1*HyH2KjymMBgRNP49MNP8Eg.jpeg)
+![Velčevo, Bosnia and Herzegovina — Photo by Selma Dzafic](../assets/7bb258367ef4/1*HyH2KjymMBgRNP49MNP8Eg.jpeg)
 
 Velčevo, Bosnia and Herzegovina — Photo by Selma Dzafic
 #### FEATURED
@@ -26,18 +26,18 @@ In the meantime, two more cases of serious self\-inflicted injuring have occurre
 At the same time, the authorities in other areas also cling onto their ridiculous and illegal decisions: for example, the horrible practice of kicking people out of buses and trains near Ključ, where people are then left to the local team of the Red Cross of Ključ who try to help and shelter the people until they can move on to the border areas of the Una\-Sana canton in Bihać, where another dreadful chapter begins…
 
 
-![](assets/7bb258367ef4/1*6Ya5QTWE69HSxJ9B6PJEww.jpeg)
+![](../assets/7bb258367ef4/1*6Ya5QTWE69HSxJ9B6PJEww.jpeg)
 
 
 
-![Velčevo, forcibly interrupted travel of families ends up with the few good people taking care of them until they can move on\. IN THE MIDDLE OF NOWHERE\. \(Photos: [Selma Dzafic](https://www.facebook.com/selma.duhovic?fref=gs&__tn__=%2Cd%2AF%2AF-R&eid=ARAbhwXChd_N4aXLEdgDhZwqxajbkNFAef3fygjH8wyrrIlnvEf5F-eP4icfcKGZzl8uXqL2BBPs4IK9&tn-str=%2AF&dti=2379336965459224&hc_location=group_dialog) \)](assets/7bb258367ef4/1*ntQ2jYb-jjOpYqigRSBjig.jpeg)
+![Velčevo, forcibly interrupted travel of families ends up with the few good people taking care of them until they can move on\. IN THE MIDDLE OF NOWHERE\. \(Photos: [Selma Dzafic](https://www.facebook.com/selma.duhovic?fref=gs&__tn__=%2Cd%2AF%2AF-R&eid=ARAbhwXChd_N4aXLEdgDhZwqxajbkNFAef3fygjH8wyrrIlnvEf5F-eP4icfcKGZzl8uXqL2BBPs4IK9&tn-str=%2AF&dti=2379336965459224&hc_location=group_dialog) \)](../assets/7bb258367ef4/1*ntQ2jYb-jjOpYqigRSBjig.jpeg)
 
 Velčevo, forcibly interrupted travel of families ends up with the few good people taking care of them until they can move on\. IN THE MIDDLE OF NOWHERE\. \(Photos: [Selma Dzafic](https://www.facebook.com/selma.duhovic?fref=gs&__tn__=%2Cd%2AF%2AF-R&eid=ARAbhwXChd_N4aXLEdgDhZwqxajbkNFAef3fygjH8wyrrIlnvEf5F-eP4icfcKGZzl8uXqL2BBPs4IK9&tn-str=%2AF&dti=2379336965459224&hc_location=group_dialog) \)
 
 AYS has received more calls by people in Croatia who have encountered wounded people or speak of more victims at the borders\. The most recent call was as recent as today, from a woman in Croatia who is claiming they hosted a group of young, possibly underage people — two of the group are suspected to have drowned in the river Mrežnica\. Countless such reports often go ‘beyond the radar’ to the point that we are left wondering how many lives were lost and never identified due to fear and lack of basic human care for people, for human lives\. Unidentified people at the morgues, traumatized young boys who have experienced multiple beatings and violent treatment at the border, only to have seen their friends drown or dissappear… We hope sooner than later, the pressure by everyone who refuses to see this practice as normal, changes our policies and the common struggle results in more than a mock case of a single police officer, among so many who are forced to follow orders that go against any human rights or the basic urge to help others\.
 
 
-![](assets/7bb258367ef4/1*YT7tb_92BnhWVPJGT2BSxw.jpeg)
+![](../assets/7bb258367ef4/1*YT7tb_92BnhWVPJGT2BSxw.jpeg)
 
 
 In Austria, [Plattform für eine menschliche Asylpolitik](https://www.facebook.com/menschliche.asylpolitik/?__tn__=%2CdKH-R-R&eid=ARC946YayJuyCQPnp1HsWotd7D5mE0aC95cw4bWSp8kF3TI5SPh-tGakyiEari9TlMAVJ6zO2B9zE5dv&fref=tag&hc_location=group) has organized a protest [Weltflüchtlingstag\-Solidarisch durch jede Krise\!](https://www.facebook.com/events/2572909476294958/?acontext=%7B%22source%22%3A4%2C%22action_history%22%3A%22%5B%7B%5C%22surface%5C%22%3A%5C%22group%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22surface%5C%22%2C%5C%22extra_data%5C%22%3A%5B%5D%7D%5D%22%2C%22has_source%22%3Atrue%7D&source=4&action_history=%5B%7B%22surface%22%3A%22group%22%2C%22mechanism%22%3A%22surface%22%2C%22extra_data%22%3A%5B%5D%7D%5D&has_source=1&__tn__=%2CdKH-R-R&eid=ARDA-o4FThKOUPWW4l-CEwTfFU1mT1moU7fscqI0RneFPik7kx_mZp09cnJgWKRvIwju4n6sCG_CMenZ&hc_location=group) against the violent practices across the Balkans\.
@@ -55,7 +55,7 @@ Many sources confirm those in detention are tricked into signing papers that ind
 At the same time, the people returned to the country face a dangerous backlash for leaving by the system, as well as the growing number of escalations of violence across the country\. Official reports from Afghanistan claim that the Taliban carried out 422 attacks in 32 provinces during the past 2 weeks alone, “killing 291 security force personnel and wounding 550 others\.”
 
 
-![Photo: [SOS Balkanroute](https://www.facebook.com/SOSBalkanroute/?tn-str=k%2AF&hc_location=group_dialog)](assets/7bb258367ef4/1*1fWhimuNr4mK05x6L_SIGA.jpeg)
+![Photo: [SOS Balkanroute](https://www.facebook.com/SOSBalkanroute/?tn-str=k%2AF&hc_location=group_dialog)](../assets/7bb258367ef4/1*1fWhimuNr4mK05x6L_SIGA.jpeg)
 
 Photo: [SOS Balkanroute](https://www.facebook.com/SOSBalkanroute/?tn-str=k%2AF&hc_location=group_dialog)
 
@@ -104,7 +104,7 @@ Photo: [SOS Balkanroute](https://www.facebook.com/SOSBalkanroute/?tn-str=k%2AF&h
 ### Volunteering
 
 
-![](assets/7bb258367ef4/1*u105d_qtaXmYMHfJW3Jpfw.jpeg)
+![](../assets/7bb258367ef4/1*u105d_qtaXmYMHfJW3Jpfw.jpeg)
 
 
 
@@ -203,7 +203,7 @@ Closed to new arrivals since April 18, the Roya transit camp in Ventimiglia has 
 ### Milano: Press conference on the Balkans, by Italian groups and initiatives
 
 
-![For more information, see: [RiVolti ai Balcani](https://www.facebook.com/RiVoltiAiBalcani/?tn-str=k%2AF&hc_location=group_dialog)](assets/7bb258367ef4/1*zNGFlGBORy7WeVbeG3Fx9w.png)
+![For more information, see: [RiVolti ai Balcani](https://www.facebook.com/RiVoltiAiBalcani/?tn-str=k%2AF&hc_location=group_dialog)](../assets/7bb258367ef4/1*zNGFlGBORy7WeVbeG3Fx9w.png)
 
 For more information, see: [RiVolti ai Balcani](https://www.facebook.com/RiVoltiAiBalcani/?tn-str=k%2AF&hc_location=group_dialog)
 #### SWITZERLAND

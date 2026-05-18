@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 30/6/2021: EUAA, a new European asylum agency
+title: "AYS Daily Digest 30/6/2021: EUAA, a new European asylum agency"
 author: Are You Syrious?
 date: 2021-07-01T12:46:13.176+0100
 last_modified_at: 2021-07-02T18:06:31.559+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,hirak,refugees,search-and-rescue,modern-slavery]
 description: More people die in the Mediterranean // Prominent Algerian protestor among 14 people intercepted at sea and returned // Work for free or…
 image:
-  path: assets/7558d1be15e1/1*zSEVdu20dGOfQ_CnVwZPdA.jpeg
+  path: ../assets/7558d1be15e1/1*zSEVdu20dGOfQ_CnVwZPdA.jpeg
 ---
 
 ### AYS Daily Digest 30/6/2021: EUAA, a new European asylum agency
@@ -15,7 +15,7 @@ image:
 _More people die in the Mediterranean // Prominent Algerian protestor among 14 people intercepted at sea and returned // Work for free or leave the camp in Serbia // Worsening situation in Melilla // & more…_
 
 
-![“Twelve evictions in two months\. The routine of exiled persons surviving in Grande Synthe should not obscure the violence of these acts: it is part of this violence\. Law enforcement by dozens, heavy weapons, entrapment techniques and the theft of people’s property: the arguments for sheltering operations no longer stand in the face of disproportionate harassment and dehumanising actions\. Every day on the ground, our volunteers witness your strategies, that climate of terror and tension you try at all costs to put in place\. This is a failure both of strategy and for human rights and the dignity of our society\.” \(Utopia 56 Grande Synthe\)](assets/7558d1be15e1/1*zSEVdu20dGOfQ_CnVwZPdA.jpeg)
+![“Twelve evictions in two months\. The routine of exiled persons surviving in Grande Synthe should not obscure the violence of these acts: it is part of this violence\. Law enforcement by dozens, heavy weapons, entrapment techniques and the theft of people’s property: the arguments for sheltering operations no longer stand in the face of disproportionate harassment and dehumanising actions\. Every day on the ground, our volunteers witness your strategies, that climate of terror and tension you try at all costs to put in place\. This is a failure both of strategy and for human rights and the dignity of our society\.” \(Utopia 56 Grande Synthe\)](../assets/7558d1be15e1/1*zSEVdu20dGOfQ_CnVwZPdA.jpeg)
 
 “Twelve evictions in two months\. The routine of exiled persons surviving in Grande Synthe should not obscure the violence of these acts: it is part of this violence\. Law enforcement by dozens, heavy weapons, entrapment techniques and the theft of people’s property: the arguments for sheltering operations no longer stand in the face of disproportionate harassment and dehumanising actions\. Every day on the ground, our volunteers witness your strategies, that climate of terror and tension you try at all costs to put in place\. This is a failure both of strategy and for human rights and the dignity of our society\.” \(Utopia 56 Grande Synthe\)
 #### Featured — EUAA, a new European agency for asylum

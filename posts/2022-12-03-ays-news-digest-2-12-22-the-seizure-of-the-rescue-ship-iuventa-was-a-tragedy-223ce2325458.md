@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 2/12/22: The seizure of the rescue ship IUVENTA was a tragedy
+title: "AYS News Digest 2/12/22: The seizure of the rescue ship IUVENTA was a tragedy"
 author: Are You Syrious?
 date: 2022-12-03T10:38:51.085+0000
 last_modified_at: 2022-12-03T14:57:59.531+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,iuventa,solidarity,refugees,italy]
 description: Louise Michel is back at sea//Volunteers Needed in Rijeka//Interim Measures Issued in 100 cases at Polish//Belarussian Border//Solidarity…
 image:
-  path: assets/223ce2325458/1*stItph9_v-iOF-rq7bi2xA.jpeg
+  path: ../assets/223ce2325458/1*stItph9_v-iOF-rq7bi2xA.jpeg
 ---
 
 ### AYS News Digest 2/12/22: The seizure of the rescue ship IUVENTA was a tragedy — but the trial against the crew members is a farce\!
@@ -15,7 +15,7 @@ image:
 **Louise Michel is back at sea//Volunteers needed in Rijeka//Interim measures issued in 100 cases at Polish//Belarussian border//Solidarity call at Spielfeld**
 
 
-![\( [RALLY TUESDAY December 6 at 4 p\.m](https://www.facebook.com/photo/?fbid=508720414627549&set=a.459198466246411) \. in front of the NATIONAL ASSEMBLY at the call of the Solidarity March against the new immigration bill >>> let’s be numerous and numerous, indignant and determined\!](assets/223ce2325458/1*stItph9_v-iOF-rq7bi2xA.jpeg)
+![\( [RALLY TUESDAY December 6 at 4 p\.m](https://www.facebook.com/photo/?fbid=508720414627549&set=a.459198466246411) \. in front of the NATIONAL ASSEMBLY at the call of the Solidarity March against the new immigration bill >>> let’s be numerous and numerous, indignant and determined\!](../assets/223ce2325458/1*stItph9_v-iOF-rq7bi2xA.jpeg)
 
 \( [RALLY TUESDAY December 6 at 4 p\.m](https://www.facebook.com/photo/?fbid=508720414627549&set=a.459198466246411) \. in front of the NATIONAL ASSEMBLY at the call of the Solidarity March against the new immigration bill >>> let’s be numerous and numerous, indignant and determined\!
 #### FEATURE: The seizure of the rescue ship IUVENTA was a tragedy — but the trial against the crew members is a farce
@@ -45,7 +45,7 @@ Meanwhile, the Louise Michel is back at sea\.
 #### Volunteers needed in Rijeka
 
 
-![](assets/223ce2325458/1*55yeTaDJlAjs9FbuWNOjYA.jpeg)
+![](../assets/223ce2325458/1*55yeTaDJlAjs9FbuWNOjYA.jpeg)
 
 #### POLAND
 
@@ -54,11 +54,11 @@ Meanwhile, the Louise Michel is back at sea\.
 The European Court of Human Rights has issued interim measures in 100 cases at the border between Poland and Belarus on the grounds that the individuals’ fundamental rights cannot be guaranteed in Belarus\. [Grupa Granica](https://www.facebook.com/grupagranica?__cft__[0]=AZU3HtRD5WYd2IQprsa_WrP8Jev9JD9rEwFHQATpQoY5hwnXeifBi3XOkUoNhoisQohz7LgYKMJuBTqkyg-U5452XhvTznz6giIHjV6hX27XlsRvgGs_VOYVca8asXeqBhvYNKN6PXKPNXbKv6Q7vS_0&__tn__=-UC%2CP-R) [have raised concerns about the border guards’ basic understanding of human rights law in this regard](https://www.facebook.com/grupagranica/posts/pfbid02L952xLWnPNJ1NuNZFPuugKrooNV4PxjYJn5pRcCq3qrKhJMHrLVdrxHyC5ouVPTel) \. Pushbacks are still a common practice at the border, including of disabled people and pregnant women leading to miscarriage\. Pushbacks of all people remain illegal under international law\.
 
 
-![](assets/223ce2325458/1*NQ3PdQcfYGadaDAlTNRkgA.jpeg)
+![](../assets/223ce2325458/1*NQ3PdQcfYGadaDAlTNRkgA.jpeg)
 
 
 
-![](assets/223ce2325458/1*lX_W-IokNzPqpflE8Xz_BQ.jpeg)
+![](../assets/223ce2325458/1*lX_W-IokNzPqpflE8Xz_BQ.jpeg)
 
 #### AUSTRIA
 #### Solidarity call at Spielfeld
@@ -66,7 +66,7 @@ The European Court of Human Rights has issued interim measures in 100 cases at t
 Today \(3\.12\.22\) many artists and cultural workers will gather at Spielfeld for a solidarity action to highlight the difficulties faced by people forced to live in the “waiting zone”\.
 
 
-![](assets/223ce2325458/1*36UvcFM9m1blIG_ZXAC0IQ.png)
+![](../assets/223ce2325458/1*36UvcFM9m1blIG_ZXAC0IQ.png)
 
 
 

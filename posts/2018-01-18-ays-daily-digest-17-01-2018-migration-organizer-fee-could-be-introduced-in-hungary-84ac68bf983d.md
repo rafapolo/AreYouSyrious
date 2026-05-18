@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 17/01/2018: “Migration organizer fee” could be introduced in Hungary
+title: "AYS DAILY DIGEST 17/01/2018: “Migration organizer fee” could be introduced in Hungary"
 author: Are You Syrious?
 date: 2018-01-18T10:48:38.071+0000
 last_modified_at: 2018-01-18T11:58:21.253+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,hungary,soros,greece,spain]
 description: Weather alert for the Mediterranean // Reports from Lesvos and Chios // Conditions in Spain for new arrivals not much better than in Greece…
 image:
-  path: assets/84ac68bf983d/1*Ix6VdvxXUWWfwa-G8FP51Q.jpeg
+  path: ../assets/84ac68bf983d/1*Ix6VdvxXUWWfwa-G8FP51Q.jpeg
 ---
 
 ### AYS DAILY DIGEST 17/01/2018: “Migration organizer fee” could be introduced in Hungary
@@ -15,7 +15,7 @@ image:
 _Weather alert for the Mediterranean // Reports from Lesvos and Chios // Conditions in Spain for new arrivals not much better than in Greece // Art for and by people on the move // Calls for protests and actions against deportation in Germany and the US_
 
 
-![Photo by Keegan Nashan for AYS](assets/84ac68bf983d/1*Ix6VdvxXUWWfwa-G8FP51Q.jpeg)
+![Photo by Keegan Nashan for AYS](../assets/84ac68bf983d/1*Ix6VdvxXUWWfwa-G8FP51Q.jpeg)
 
 Photo by Keegan Nashan for AYS
 ### Feature
@@ -85,7 +85,7 @@ With the weather so cold, please review these guidelines for dealing with hypoth
 It is critical to distinguish between degrees of hypothermia, because the treatment is very different, and if you apply treatment for mild hypothermia to someone with acute symptoms, they could die\.
 
 
-![](assets/84ac68bf983d/1*Llch1IUoWTtmsbwML--a9Q.jpeg)
+![](../assets/84ac68bf983d/1*Llch1IUoWTtmsbwML--a9Q.jpeg)
 
 
 Overview:
@@ -97,7 +97,7 @@ Slides about CPR and AED for hypothermia patients:
 These and other useful links live at [http://greecevol\.info/notes\.list\.php](http://greecevol.info/notes.list.php) \.
 
 
-![By Eric Gerhardsson, AYS](assets/84ac68bf983d/1*0dfasqRUNzqgbttT_OoFXA.jpeg)
+![By Eric Gerhardsson, AYS](../assets/84ac68bf983d/1*0dfasqRUNzqgbttT_OoFXA.jpeg)
 
 By Eric Gerhardsson, AYS
 
@@ -113,11 +113,11 @@ UNHCR published its [latest data](https://data2.unhcr.org/en/documents/download/
 After the arrival, people are placed endlessly in appalling conditions in overcrowded camps on the islands\. [FotoMovimento 15m](https://www.facebook.com/Fotomovimiento.org/) , who are at Lesvos presently, report about people who are sick, pregnant women and newborn babies in the Moria camp\.
 
 
-![](assets/84ac68bf983d/1*rwflvORAAWk4a5AOSyTegg.jpeg)
+![](../assets/84ac68bf983d/1*rwflvORAAWk4a5AOSyTegg.jpeg)
 
 
 
-![A family of the field that has adopted a dog that was abandoned\. They have built a beautiful and warm house\. \#Europe does not take care of people but they take care of the animal as if it were a child\. How much to learn from all these people\.](assets/84ac68bf983d/1*l4BgwbNcbVVrjAqjPbvxCg.jpeg)
+![A family of the field that has adopted a dog that was abandoned\. They have built a beautiful and warm house\. \#Europe does not take care of people but they take care of the animal as if it were a child\. How much to learn from all these people\.](../assets/84ac68bf983d/1*l4BgwbNcbVVrjAqjPbvxCg.jpeg)
 
 A family of the field that has adopted a dog that was abandoned\. They have built a beautiful and warm house\. \#Europe does not take care of people but they take care of the animal as if it were a child\. How much to learn from all these people\.
 
@@ -137,11 +137,11 @@ If you can help them to continue with this winterization project in Moria, pleas
 The situation remains dire in the Vial camp on Chios, too\. “Conditions are subhuman,” volunteers are reporting\.
 
 
-![](assets/84ac68bf983d/1*qC0LxYyUQui3vbdJFDCnGw.jpeg)
+![](../assets/84ac68bf983d/1*qC0LxYyUQui3vbdJFDCnGw.jpeg)
 
 
 
-![Photo Holes in the Borders](assets/84ac68bf983d/1*B4B1k3EA46yxmRUMM_-g0g.jpeg)
+![Photo Holes in the Borders](../assets/84ac68bf983d/1*B4B1k3EA46yxmRUMM_-g0g.jpeg)
 
 Photo Holes in the Borders
 
@@ -163,7 +163,7 @@ Please send an email to [khora\.education@gmail\.com](mailto:khora.education@gma
 [On Saturday at 13:00 a demo](https://www.facebook.com/nobordersnetwork/photos/a.659757107425518.1073741827.657905327610696/1626613300739889/?type=1&theater) in memory of 27\-year\-old Shehzad Loukman, a Pakistani asylum seeker who was killed 5 years ago by two persons with a connection to the neo\-Nazi Golden Dawn party, will be held in Athens\.
 
 
-![Phoot by Katja Lihtenvalner\.](assets/84ac68bf983d/1*7NFxt3oNFI-qdOT34r7-pA.jpeg)
+![Phoot by Katja Lihtenvalner\.](../assets/84ac68bf983d/1*7NFxt3oNFI-qdOT34r7-pA.jpeg)
 
 Phoot by Katja Lihtenvalner\.
 
@@ -174,7 +174,7 @@ The two, who denied Golden Dawn membership, were riding a motorbike and claimed 
 The accused men were arrested a few hours after the murder when a taxi driver who witnessed the attack reported their motorbike numberplate to police\. During the reading of its verdict, the court did not classify the act as a “racist crime”\. However, the presiding magistrate said the court’s judgment will become obvious from the published version of the decision\.
 
 
-![By No Border Athens](assets/84ac68bf983d/1*66QCAYAEsr5WduummtQHIA.jpeg)
+![By No Border Athens](../assets/84ac68bf983d/1*66QCAYAEsr5WduummtQHIA.jpeg)
 
 By No Border Athens
 ### Spain
@@ -224,14 +224,14 @@ Again, people are different than their governments\.
 [Care4Calais](http://www.care4calais.org) volunteers visited an elderly French couple who have converted their house into a day center for refugees who sleep rough locally\. Around 30 people, mostly Sudanese, come each day to rest, wash and eat at this place near a small French village\.
 
 
-![By Care4Calais](assets/84ac68bf983d/1*BozWn6WezKGHDUaiHq3Zyg.jpeg)
+![By Care4Calais](../assets/84ac68bf983d/1*BozWn6WezKGHDUaiHq3Zyg.jpeg)
 
 By Care4Calais
 
 Paris remains a nightmare for many people\. [Volunteer Zeborah Zeb](https://m.facebook.com/story.php) brings a short story and photos about one night in the streets of the capital of France\.
 
 
-![](assets/84ac68bf983d/1*EdQ68y2iNqOT1coTETla-Q.jpeg)
+![](../assets/84ac68bf983d/1*EdQ68y2iNqOT1coTETla-Q.jpeg)
 
 
 
@@ -257,11 +257,11 @@ Girls from [SolidariTea](https://www.facebook.com/refugeesolidaritea/posts/12472
 
 
 
-![](assets/84ac68bf983d/1*FOOZPDinqkqSEpy4Qskqrw.jpeg)
+![](../assets/84ac68bf983d/1*FOOZPDinqkqSEpy4Qskqrw.jpeg)
 
 
 
-![Photo by SolidariTea](assets/84ac68bf983d/1*eZ3lqcstsIFeJ-ZGvTKYXQ.jpeg)
+![Photo by SolidariTea](../assets/84ac68bf983d/1*eZ3lqcstsIFeJ-ZGvTKYXQ.jpeg)
 
 Photo by SolidariTea
 
@@ -317,7 +317,7 @@ It is the third part of an international theatre project aimed at showing the li
 11 people were deported to their home countries, even though they were seriously ill\. The foreigners and integration minister Inger Støjberg admitted this mistake, and agreed in a consultation that her ministry had wrongly treated asylum cases for people who are ill\. The first person, 30\-year\-old Naser Hosseini from Afghanistan, is now back\.
 
 
-![“Everything was hard down there,” says Naser Hosseini at Copenhagen Airport\.](assets/84ac68bf983d/1*Kt8Fh8dn-ZBNWrX-8yCaDw.jpeg)
+![“Everything was hard down there,” says Naser Hosseini at Copenhagen Airport\.](../assets/84ac68bf983d/1*Kt8Fh8dn-ZBNWrX-8yCaDw.jpeg)
 
 “Everything was hard down there,” says Naser Hosseini at Copenhagen Airport\.
 
@@ -327,7 +327,7 @@ He was deported last February after being given humanitarian residence in Denmar
 The US is considering removing protection for Syrian refugees, possibly sending nearly 7000 people back to Syria\. [This is the call for action](https://www.facebook.com/events/389231364867886) \.
 
 
-![](assets/84ac68bf983d/1*vFloM06AvCzh470yzcSv4A.png)
+![](../assets/84ac68bf983d/1*vFloM06AvCzh470yzcSv4A.png)
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 18/7/17: Another day of violence in Moria
+title: "AYS Daily Digest 18/7/17: Another day of violence in Moria"
 author: Are You Syrious?
 date: 2017-07-19T00:57:31.206+0100
 last_modified_at: 2017-07-19T15:03:47.500+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,greece,lebanon,italy,france]
 description: Lebanese Army accused of torturing refugees / Hunger strike continues in Lesbos / Volunteers and donations needed in Greece / Violent…
 image:
-  path: assets/a52a354458bf/1*ckfp1W10A3rnn-z4ulhVdg.jpeg
+  path: ../assets/a52a354458bf/1*ckfp1W10A3rnn-z4ulhVdg.jpeg
 ---
 
 ### AYS Daily Digest 18/7/17: Another day of violence in Moria
@@ -15,7 +15,7 @@ image:
 _Lebanese Army accused of torturing refugees / Hunger strike continues in Lesbos / Volunteers and donations needed in Greece / Violent pushbacks in Macedonia / Hundreds of refugees queue up for asylum in Paris / Austria furious with Italy’s visa proposition / Deportations stopped in Denmark / Belgium wants to stop rescue mission at sea / And more news…_
 
 
-![A lone child caught up in the riot in Moria texts “\[Police\] threw many kind of bombs like this \[teargas & stun grenades\] behind our room” — Photo by [**Eva Cossé**](https://twitter.com/Eva_Cosse)](assets/a52a354458bf/1*ckfp1W10A3rnn-z4ulhVdg.jpeg)
+![A lone child caught up in the riot in Moria texts “\[Police\] threw many kind of bombs like this \[teargas & stun grenades\] behind our room” — Photo by [**Eva Cossé**](https://twitter.com/Eva_Cosse)](../assets/a52a354458bf/1*ckfp1W10A3rnn-z4ulhVdg.jpeg)
 
 A lone child caught up in the riot in Moria texts “\[Police\] threw many kind of bombs like this \[teargas & stun grenades\] behind our room” — Photo by [**Eva Cossé**](https://twitter.com/Eva_Cosse)
 ### Feature
@@ -31,7 +31,7 @@ The protest started this morning in front of the EASO offices mainly by African 
 Nevertheless the peaceful protest continued and at one point the police decided to throw tear gas at the refugees\. A move that only made the situation worse, with the protest evolving into a riot\. Reports say that refugees then responded by throwing rocks at the police who ended up storming the interior of the detention centre\.
 
 
-![Photo by [**United Rescue Aid**](https://www.facebook.com/unitedrescueaid/?hc_ref=ARR4XbDFW_7xjgU9LdKksYMooAne3WW3IeHLbjHVdjOe1Z4X6Omx_kdblKJe1NhIq_E)](assets/a52a354458bf/1*tj1iSgs4r3PUmWAi37w-6w.jpeg)
+![Photo by [**United Rescue Aid**](https://www.facebook.com/unitedrescueaid/?hc_ref=ARR4XbDFW_7xjgU9LdKksYMooAne3WW3IeHLbjHVdjOe1Z4X6Omx_kdblKJe1NhIq_E)](../assets/a52a354458bf/1*tj1iSgs4r3PUmWAi37w-6w.jpeg)
 
 Photo by [**United Rescue Aid**](https://www.facebook.com/unitedrescueaid/?hc_ref=ARR4XbDFW_7xjgU9LdKksYMooAne3WW3IeHLbjHVdjOe1Z4X6Omx_kdblKJe1NhIq_E)
 
@@ -58,19 +58,19 @@ A community leader living in Moria made this statement after the events happened
 During the riot a fire was also started that spread to the olive groves around Moria but this doesn’t seem to have caused too much damage this time\.
 
 
-![Photo by [**United Rescue Aid**](https://www.facebook.com/unitedrescueaid/?hc_ref=ARR4XbDFW_7xjgU9LdKksYMooAne3WW3IeHLbjHVdjOe1Z4X6Omx_kdblKJe1NhIq_E)](assets/a52a354458bf/1*DqVpRag0thdIGUDcNSKbHw.jpeg)
+![Photo by [**United Rescue Aid**](https://www.facebook.com/unitedrescueaid/?hc_ref=ARR4XbDFW_7xjgU9LdKksYMooAne3WW3IeHLbjHVdjOe1Z4X6Omx_kdblKJe1NhIq_E)](../assets/a52a354458bf/1*DqVpRag0thdIGUDcNSKbHw.jpeg)
 
 Photo by [**United Rescue Aid**](https://www.facebook.com/unitedrescueaid/?hc_ref=ARR4XbDFW_7xjgU9LdKksYMooAne3WW3IeHLbjHVdjOe1Z4X6Omx_kdblKJe1NhIq_E)
 
 [**Legal Centre Lesbos**](https://www.facebook.com/LesvosLegal/?hc_ref=ARTiuGFEv3-JmKiIhQW4GfMjWr7nyQWcWf5jG2EV8pOMDfnlZsrY3xaVHc6ePODlNNc) **, [United Rescue Aid](https://www.facebook.com/unitedrescueaid/?hc_ref=ARRWxf2jCVF8AL_spbETLCAfZ1kAjHGTM_zuSRilwNwiU4H1-BysOUv_BS_Ybw8HlDM&fref=nf)** and [**ERCI — Emergency Response Centre International**](https://www.facebook.com/ercintl/?hc_ref=ARRLo1VQP2B2CYPcA5-1A1R5gmY2cAETt-mnEuvFDOwU2GxB9qdRDHPyPHwGFvtU1z0) were monitoring the situation on the ground and the last named also reported that this afternoon some residents, volunteers and staff were evacuated from Moria camp after the protest took a different turn\. Their Lesvos team has set up an emergency clinic helping people with general medical aid and have referred one suspected heart attack in an ambulance to the hospital\. The rest of the Lesvos team were also preparing to support the emergency shelter\. You can support them following the [link](http://ercintl.org/donate/) \.
 
 
-![Photo by ‎ [**مهاجر immigrant**](https://www.facebook.com/riadh04/?hc_ref=ARTAHvql4S8LnWBewt70y5raJWZrvYMWRQ7qffmXOiXHqXh9ni6GmRl7FbAF7Qtg2ac) ‎](assets/a52a354458bf/1*a-JaKiP0kFdlu7cX8UadAQ.jpeg)
+![Photo by ‎ [**مهاجر immigrant**](https://www.facebook.com/riadh04/?hc_ref=ARTAHvql4S8LnWBewt70y5raJWZrvYMWRQ7qffmXOiXHqXh9ni6GmRl7FbAF7Qtg2ac) ‎](../assets/a52a354458bf/1*a-JaKiP0kFdlu7cX8UadAQ.jpeg)
 
 Photo by ‎ [**مهاجر immigrant**](https://www.facebook.com/riadh04/?hc_ref=ARTAHvql4S8LnWBewt70y5raJWZrvYMWRQ7qffmXOiXHqXh9ni6GmRl7FbAF7Qtg2ac) ‎
 
 
-![Photo by ‎ [**مهاجر immigrant**](https://www.facebook.com/riadh04/?hc_ref=ARTAHvql4S8LnWBewt70y5raJWZrvYMWRQ7qffmXOiXHqXh9ni6GmRl7FbAF7Qtg2ac) ‎](assets/a52a354458bf/1*AiY1umCEB3_aUXaJGUkxHg.jpeg)
+![Photo by ‎ [**مهاجر immigrant**](https://www.facebook.com/riadh04/?hc_ref=ARTAHvql4S8LnWBewt70y5raJWZrvYMWRQ7qffmXOiXHqXh9ni6GmRl7FbAF7Qtg2ac) ‎](../assets/a52a354458bf/1*AiY1umCEB3_aUXaJGUkxHg.jpeg)
 
 Photo by ‎ [**مهاجر immigrant**](https://www.facebook.com/riadh04/?hc_ref=ARTAHvql4S8LnWBewt70y5raJWZrvYMWRQ7qffmXOiXHqXh9ni6GmRl7FbAF7Qtg2ac) ‎
 
@@ -86,7 +86,7 @@ The victims were left tied with plastic handcuffs for days on end, “to the poi
 A second source with extensive experience of examining images of torture victims said the pictures showed enough evidence of clear signs of torture\.
 
 
-![](assets/a52a354458bf/1*fhBQOQcBtJ-oZWVNLg6eRA.png)
+![](../assets/a52a354458bf/1*fhBQOQcBtJ-oZWVNLg6eRA.png)
 
 
 An army investigation into what happened continues, but it has already dismissed the claims of torture and it has not responded to requests from MEE to confirm the total death toll after the Arsal raid, say how many men were still in custody, or explain if there were plans to improve transparency\.
@@ -124,7 +124,7 @@ Arash Hampay has been on his own hunger strike in solidarity with them and it is
 
 
 
-![Photo by [**Arash Hampay**](https://www.facebook.com/arashampay?hc_ref=ART32fQDrl0B9QTcvqUMswnuy42g6NQB5UO7LKOPdui-ilOWkn6mGok6QRmDdj9ZBk0)](assets/a52a354458bf/1*9IN-mn326ToVRFDHKsLtiA.jpeg)
+![Photo by [**Arash Hampay**](https://www.facebook.com/arashampay?hc_ref=ART32fQDrl0B9QTcvqUMswnuy42g6NQB5UO7LKOPdui-ilOWkn6mGok6QRmDdj9ZBk0)](../assets/a52a354458bf/1*9IN-mn326ToVRFDHKsLtiA.jpeg)
 
 Photo by [**Arash Hampay**](https://www.facebook.com/arashampay?hc_ref=ART32fQDrl0B9QTcvqUMswnuy42g6NQB5UO7LKOPdui-ilOWkn6mGok6QRmDdj9ZBk0)
 #### Numbers
@@ -135,7 +135,7 @@ According to official figures, 935 refugees & migrants arrived in Greece by sea 
 Contrary to what we reported on the 14th, when we got the information that there were no facilities for disabled people at Kara Tepe camp, we are glad to publish the information that these facilities do exist there, as has been reported by volunteers on the ground in the last few days\.
 
 
-![](assets/a52a354458bf/1*Dpb11ylnXtkNiogb-JZtUw.jpeg)
+![](../assets/a52a354458bf/1*Dpb11ylnXtkNiogb-JZtUw.jpeg)
 
 
 Nevertheless mobility in the camps is, in general, reduced since the ground is often uneven or covered with gravel, which creates many problems for disabled people who have to rely on others to help them move around\.
@@ -153,7 +153,7 @@ Today, according to volunteers on the ground, one refugee boat arrived at the is
 Many children continue to arrive in Greece and [**No more borders, No more tears**](https://www.facebook.com/No-more-borders-No-more-tears-1254181771265187/?hc_ref=ARTL4d3P9DFbRJRfR-v5Ke_b4dLha6JO0jDzIcmNKuZwyAS321IunaH5KW7CbjgA-RQ&fref=nf) are concentrating on helping unaccompanied minors, mostly in the camp on Samos\. They need more protection than the little safety, security, attention and proper assistance they receive from NGOs and the UN assigned \(and paid\) to provide it\.
 
 
-![](assets/a52a354458bf/1*H3XAHZ0HirK7E41KL7JBUg.jpeg)
+![](../assets/a52a354458bf/1*H3XAHZ0HirK7E41KL7JBUg.jpeg)
 
 
 We, all of us, need to do much more for these children, alone, scared, hurt, lonely, some as young as 10 years old\. To support them please follow the link [here](https://www.gofundme.com/https-no-more-borders-no-more-tears-2tuhg) \.
@@ -164,7 +164,7 @@ We, all of us, need to do much more for these children, alone, scared, hurt, lon
 The **5th School squat** in Athens is in need of donations and has published an updated list of needs:
 
 
-![](assets/a52a354458bf/1*0Zb86aPRwsjPI_3EOyGgVA.jpeg)
+![](../assets/a52a354458bf/1*0Zb86aPRwsjPI_3EOyGgVA.jpeg)
 
 ### Macedonia
 
@@ -191,12 +191,12 @@ There are still many refugees on the streets of Paris despite the recent evacuat
 Today an Afghan refugee was taken away by the police and although an elderly woman tried to intervene, she was reportedly rebuffed very rudely\.
 
 
-![Photo by [**LaMeute**](https://www.facebook.com/LaMeutePhotographie/?hc_ref=ARSk_u7Gd7XGQ5xpyQQbynjK62N7hwZxzgb6S_83cxVxpA6KOSBnTbsLqxdtA7BqkDA&fref=nf)](assets/a52a354458bf/1*qeBCme9DuQoewycnKsOKxQ.jpeg)
+![Photo by [**LaMeute**](https://www.facebook.com/LaMeutePhotographie/?hc_ref=ARSk_u7Gd7XGQ5xpyQQbynjK62N7hwZxzgb6S_83cxVxpA6KOSBnTbsLqxdtA7BqkDA&fref=nf)](../assets/a52a354458bf/1*qeBCme9DuQoewycnKsOKxQ.jpeg)
 
 Photo by [**LaMeute**](https://www.facebook.com/LaMeutePhotographie/?hc_ref=ARSk_u7Gd7XGQ5xpyQQbynjK62N7hwZxzgb6S_83cxVxpA6KOSBnTbsLqxdtA7BqkDA&fref=nf)
 
 
-![Photo by [**LaMeute**](https://www.facebook.com/LaMeutePhotographie/?hc_ref=ARSk_u7Gd7XGQ5xpyQQbynjK62N7hwZxzgb6S_83cxVxpA6KOSBnTbsLqxdtA7BqkDA&fref=nf)](assets/a52a354458bf/1*O5Jfvxddn_d_vh6eIjKdcQ.jpeg)
+![Photo by [**LaMeute**](https://www.facebook.com/LaMeutePhotographie/?hc_ref=ARSk_u7Gd7XGQ5xpyQQbynjK62N7hwZxzgb6S_83cxVxpA6KOSBnTbsLqxdtA7BqkDA&fref=nf)](../assets/a52a354458bf/1*O5Jfvxddn_d_vh6eIjKdcQ.jpeg)
 
 Photo by [**LaMeute**](https://www.facebook.com/LaMeutePhotographie/?hc_ref=ARSk_u7Gd7XGQ5xpyQQbynjK62N7hwZxzgb6S_83cxVxpA6KOSBnTbsLqxdtA7BqkDA&fref=nf)
 
@@ -214,7 +214,7 @@ In **Como** there was a demonstration at the same time as the new mayor was taki
 In **Monselice** \(Padua\) there has been an initiative today to give voice to those hosted at the Bagnoli centre \(hub\) \. All the migrants hosted denounce bad sanitary and education conditions as well as the food and clothes\. Horrible management by the cooperative and the reception system \(Prefettura in the first place\) and a need for a legal assistance team\.
 
 
-![Photo by [**Bios Lab**](https://www.facebook.com/bios.lab.padova/)](assets/a52a354458bf/1*TIOLLi1TX9JoML4EQKbQVg.jpeg)
+![Photo by [**Bios Lab**](https://www.facebook.com/bios.lab.padova/)](../assets/a52a354458bf/1*TIOLLi1TX9JoML4EQKbQVg.jpeg)
 
 Photo by [**Bios Lab**](https://www.facebook.com/bios.lab.padova/)
 ### Germany
@@ -232,7 +232,7 @@ Another worrying fact is that, since the German embassy in Afghanistan is still 
 In **Stuttgart** activists placed a 100 meter banner in memory of the dead at sea or at border crossings\.
 
 
-![Photo by [**chris**](https://twitter.com/chris_vd_post)](assets/a52a354458bf/1*dpsSw1z-31sI1xMw4yWUzA.jpeg)
+![Photo by [**chris**](https://twitter.com/chris_vd_post)](../assets/a52a354458bf/1*dpsSw1z-31sI1xMw4yWUzA.jpeg)
 
 Photo by [**chris**](https://twitter.com/chris_vd_post)
 ### Denmark
@@ -244,7 +244,7 @@ Awareness and information is what stopped the last deportation together with hum
 Tomorrow we will know if Zolmai’s deportation was cancelled or not\.
 
 
-![](assets/a52a354458bf/1*jK8rglx1zR7H1WZWoSoYpQ.jpeg)
+![](../assets/a52a354458bf/1*jK8rglx1zR7H1WZWoSoYpQ.jpeg)
 
 ### Belgium
 
@@ -262,7 +262,7 @@ To date, the UK has only taken in 200 children of the 350 it promised to take in
 If you are from the UK, please sign the [Safe Passage](https://www.facebook.com/charlotte.morris.90857?fref=mentions) petition to ask the government to open safe and Legal routes for child refugees [here](http://safepassage.org.uk/petition/) \.
 
 
-![](assets/a52a354458bf/1*HOksc8oStpzqsQohQx9Thw.png)
+![](../assets/a52a354458bf/1*HOksc8oStpzqsQohQx9Thw.png)
 
 
 

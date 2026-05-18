@@ -1,13 +1,13 @@
 ---
-title: AYS Daily Digest 7/8/20: As informal networks keep others alive, the official policies oppose…
+title: "AYS Daily Digest 7/8/20: As informal networks keep others alive, the official policies oppose…"
 author: Are You Syrious?
 date: 2020-08-08T13:30:24.719+0100
 last_modified_at: 2020-08-08T13:39:06.881+0100
 categories: Are You Syrious?
 tags: []
-description: Support networks for Lebanon /// Sexual abuse at Petrou Ralli /// An overview of the situation at Victoria square /// Spain: “Slavery has…
+description: "Support networks for Lebanon /// Sexual abuse at Petrou Ralli /// An overview of the situation at Victoria square /// Spain: “Slavery has…"
 image:
-  path: assets/5790897a6922/0*d1GhisJAyunxZVq1
+  path: ../assets/5790897a6922/0*d1GhisJAyunxZVq1
 ---
 
 ### AYS Daily Digest 7/8/20: As informal networks keep others alive, the official policies oppose solidarity projects
@@ -130,7 +130,7 @@ The report says:
 ### Action for Women invite you to support the pomegranate project
 
 
-![[Action for Women](https://www.facebook.com/actionforwomenCH/?__tn__=kC-R&eid=ARCA6dsh8_Ddbvp1uv6VnQD3vWMD-r_zMaHzIKEvCVXQJT7niflnvxuHZaI692NMKUEruMspVYscoYxd&hc_ref=ARSyEWBAKOgU5TU2rNMV1rN7cMonLTP8h8qYbVe3iwTFL5-NLVZMx8Hn_gt9vOqN7a4&fref=nf&__xts__%5B0%5D=68.ARDlrYDBNK3u5tKfXRW6uD8pDiZKid4bHisHznqFB4z2NmA5V6BgmI_rSiRvSLpIDNDu67f6pOCGJJf6MotzTsLPmqwWhK1U12LvFuzgY9VjMS2EBK21FBLAO9JT4j6hpWpYLlLdH9JaYhVbYwyCQQVOIxHj7pGMrtxob5kV0VP67Mu0m4JxIahre4Fboqarm9py9n99bVn3xhSHTMPIty6w9NiSNDWEeCzLErBZ6ssY4gBSOl_dMsZ_fkReuhI8k9jRZ_9z3uVfmitd-25uzKXGpulj5U7glzk1i6GaZs-N0_9EJZiWK2qW9YCxV1lGjJkOVfb94wtMgTslLd83zv-omg)](assets/5790897a6922/0*d1GhisJAyunxZVq1)
+![[Action for Women](https://www.facebook.com/actionforwomenCH/?__tn__=kC-R&eid=ARCA6dsh8_Ddbvp1uv6VnQD3vWMD-r_zMaHzIKEvCVXQJT7niflnvxuHZaI692NMKUEruMspVYscoYxd&hc_ref=ARSyEWBAKOgU5TU2rNMV1rN7cMonLTP8h8qYbVe3iwTFL5-NLVZMx8Hn_gt9vOqN7a4&fref=nf&__xts__%5B0%5D=68.ARDlrYDBNK3u5tKfXRW6uD8pDiZKid4bHisHznqFB4z2NmA5V6BgmI_rSiRvSLpIDNDu67f6pOCGJJf6MotzTsLPmqwWhK1U12LvFuzgY9VjMS2EBK21FBLAO9JT4j6hpWpYLlLdH9JaYhVbYwyCQQVOIxHj7pGMrtxob5kV0VP67Mu0m4JxIahre4Fboqarm9py9n99bVn3xhSHTMPIty6w9NiSNDWEeCzLErBZ6ssY4gBSOl_dMsZ_fkReuhI8k9jRZ_9z3uVfmitd-25uzKXGpulj5U7glzk1i6GaZs-N0_9EJZiWK2qW9YCxV1lGjJkOVfb94wtMgTslLd83zv-omg)](../assets/5790897a6922/0*d1GhisJAyunxZVq1)
 
 [Action for Women](https://www.facebook.com/actionforwomenCH/?__tn__=kC-R&eid=ARCA6dsh8_Ddbvp1uv6VnQD3vWMD-r_zMaHzIKEvCVXQJT7niflnvxuHZaI692NMKUEruMspVYscoYxd&hc_ref=ARSyEWBAKOgU5TU2rNMV1rN7cMonLTP8h8qYbVe3iwTFL5-NLVZMx8Hn_gt9vOqN7a4&fref=nf&__xts__%5B0%5D=68.ARDlrYDBNK3u5tKfXRW6uD8pDiZKid4bHisHznqFB4z2NmA5V6BgmI_rSiRvSLpIDNDu67f6pOCGJJf6MotzTsLPmqwWhK1U12LvFuzgY9VjMS2EBK21FBLAO9JT4j6hpWpYLlLdH9JaYhVbYwyCQQVOIxHj7pGMrtxob5kV0VP67Mu0m4JxIahre4Fboqarm9py9n99bVn3xhSHTMPIty6w9NiSNDWEeCzLErBZ6ssY4gBSOl_dMsZ_fkReuhI8k9jRZ_9z3uVfmitd-25uzKXGpulj5U7glzk1i6GaZs-N0_9EJZiWK2qW9YCxV1lGjJkOVfb94wtMgTslLd83zv-omg)
 
@@ -154,7 +154,7 @@ This comprehensive approach is the much needed response that requires significan
 
 
 ![After having passed through the Balkan Route, people who manage to arrive in Italy, reach Trieste in very bad health condition, local groups keep reporting\. “Symbol of cruelty of rejections,
-The story of this boy tortured by Croatian police in September 2019, miraculously arrived at TS in February 2020, has no end\.” — Photo report by [Lorena Fornasir](https://www.facebook.com/lorena.fornasir?__tn__=%2CdCH-R-R&eid=ARCXMTEchb0wucncu11D3tosPazrhT4TcOhzF-1bxeaIlKdQqtAKbxfYT92hhRb5RqFR5Oq9Fnm2etZO&hc_ref=ARSQNDzBjS_qWr0W73u1JjibL2TEJKP9Y4Qa6c0a0hC77VmxYHvCnuLDu8yy6J0ZA4I&fref=nf&hc_location=group)](assets/5790897a6922/1*gHMKkHPyyyU_t0g4gm78Ig.jpeg)
+The story of this boy tortured by Croatian police in September 2019, miraculously arrived at TS in February 2020, has no end\.” — Photo report by [Lorena Fornasir](https://www.facebook.com/lorena.fornasir?__tn__=%2CdCH-R-R&eid=ARCXMTEchb0wucncu11D3tosPazrhT4TcOhzF-1bxeaIlKdQqtAKbxfYT92hhRb5RqFR5Oq9Fnm2etZO&hc_ref=ARSQNDzBjS_qWr0W73u1JjibL2TEJKP9Y4Qa6c0a0hC77VmxYHvCnuLDu8yy6J0ZA4I&fref=nf&hc_location=group)](../assets/5790897a6922/1*gHMKkHPyyyU_t0g4gm78Ig.jpeg)
 
 After having passed through the Balkan Route, people who manage to arrive in Italy, reach Trieste in very bad health condition, local groups keep reporting\. “Symbol of cruelty of rejections,
 The story of this boy tortured by Croatian police in September 2019, miraculously arrived at TS in February 2020, has no end\.” — Photo report by [Lorena Fornasir](https://www.facebook.com/lorena.fornasir?__tn__=%2CdCH-R-R&eid=ARCXMTEchb0wucncu11D3tosPazrhT4TcOhzF-1bxeaIlKdQqtAKbxfYT92hhRb5RqFR5Oq9Fnm2etZO&hc_ref=ARSQNDzBjS_qWr0W73u1JjibL2TEJKP9Y4Qa6c0a0hC77VmxYHvCnuLDu8yy6J0ZA4I&fref=nf&hc_location=group)

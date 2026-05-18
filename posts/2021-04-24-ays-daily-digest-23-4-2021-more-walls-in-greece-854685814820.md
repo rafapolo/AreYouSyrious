@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 23/4/2021: More Walls in Greece
+title: "AYS Daily Digest 23/4/2021: More Walls in Greece"
 author: Are You Syrious?
 date: 2021-04-24T08:01:26.322+0100
 last_modified_at: 2021-04-24T09:11:37.868+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,greece,deportations,search-and-rescue,refugees]
 description: 130 people drowned in the Central Med. Dangerous routes through east Turkey. Danish ‘Syrian policy’ is disproportionally impacting women.
 image:
-  path: assets/854685814820/0*hokWT811_OTcf8m7
+  path: ../assets/854685814820/0*hokWT811_OTcf8m7
 ---
 
 ### AYS Daily Digest 23/4/2021: More Walls in Greece
@@ -15,7 +15,7 @@ image:
 _130 people drowned in the Central Med\. Dangerous routes through east Turkey\. Danish ‘Syrian policy’ is disproportionately impacting women\. UK Home Office faces another lawsuit over its ‘hostile environment’\._
 
 
-![One of the new walls in Greek camps\. Photo via [EfSyn](https://www.efsyn.gr/ellada/dikaiomata/291264_teihi-tis-ntropis-se-prosfygikes-domes)](assets/854685814820/0*hokWT811_OTcf8m7)
+![One of the new walls in Greek camps\. Photo via [EfSyn](https://www.efsyn.gr/ellada/dikaiomata/291264_teihi-tis-ntropis-se-prosfygikes-domes)](../assets/854685814820/0*hokWT811_OTcf8m7)
 
 One of the new walls in Greek camps\. Photo via [EfSyn](https://www.efsyn.gr/ellada/dikaiomata/291264_teihi-tis-ntropis-se-prosfygikes-domes)
 #### FEATURED — Walls around mainland camps in Greece, creating de\-facto closed camps
@@ -41,7 +41,7 @@ Many are not able to support themselves in Turkey, so they continue trying to cr
 Sadly, 130 people have died in the Central Mediterranean because no authorities came to their rescue\. The people perished in [a terrible storm](https://sosmediterranee.com/log/log-entry-91-our-120-dead-or-130/?fbclid=IwAR2o1MfPovdJwb6KrsUjBn0m8WwKwFXZ8PB3c-F3f81C3KH9biSyeBRJlE8) that wrecked the small, overcrowded dinghy they were traveling on\. The Italian government, Maltese authorities, and Frontex knew about the people in distress, who had contacted Alarm Phone for help, but the [authorities remained silent all night](https://twitter.com/France24_fr/status/1385540069302448130?fbclid=IwAR14tmINr-lGd2H4IM9QbPBxhGQJf2idGS8BtwzJsh6lygw-yhVwgGVkhCQ) \. A search by the [Ocean Viking and several merchant ships](https://www.zeit.de/gesellschaft/zeitgeschehen/2021-04/mittelmeer-fluechtlinge-ertrunken-libyen-sos-mediterranee-ocean-viking?fbclid=IwAR0VayCENNuiWBkeiiviAjKo0HeOyzZuH0CzwnrxO6N1MUsL2h810YkSloU&utm_referrer=https%3A%2F%2Fl.facebook.com%2F) was unsuccessful in finding survivors\. Instead, they only uncovered the saddening remains of the rubber dinghy where so many people lost their lives\. “We literally found ourselves navigating among the corpses,” Alessandro Porro, a rescuer from the Ocean Viking [said](https://www.repubblica.it/cronaca/2021/04/23/news/migranti_la_foto_choc_dell_ultima_strage_noi_soccorritori_in_mezzo_a_un_mare_di_cadaveri_-297709835/) \.
 
 
-![One of the photos of the shipwreck\. Photo credit: [Flavio Gasperini/SOS MEDITERRANEE](https://www.facebook.com/SOSMEDITERRANEE/photos/pcb.3926099504163995/3926098004164145/)](assets/854685814820/0*LStTeNVb2Ayw8ZCd)
+![One of the photos of the shipwreck\. Photo credit: [Flavio Gasperini/SOS MEDITERRANEE](https://www.facebook.com/SOSMEDITERRANEE/photos/pcb.3926099504163995/3926098004164145/)](../assets/854685814820/0*LStTeNVb2Ayw8ZCd)
 
 One of the photos of the shipwreck\. Photo credit: [Flavio Gasperini/SOS MEDITERRANEE](https://www.facebook.com/SOSMEDITERRANEE/photos/pcb.3926099504163995/3926098004164145/)
 
@@ -155,11 +155,11 @@ The Home Office’s deportations to Vietnam have also come [under legal scrutiny
 During the meeting of the LIBE Committee, EU Commission Vice President Margaritis Schinas made [several untruthful statements](https://www.facebook.com/europemustact/photos/pcb.284522963160405/284515876494447) about conditions for people on the move on the Greek islands\. His claims included the idea that COVID\-19 is not a risk for people in camps, despite their crowded conditions\. He also said that there are no more unaccompanied minors on the islands, that the situation has improved since 2015, and that people’s mental health will improve once they are transferred to the new closed facilities\.
 
 
-![](assets/854685814820/1*vXdzkHJCg1-PJYwLz9e1Hw.png)
+![](../assets/854685814820/1*vXdzkHJCg1-PJYwLz9e1Hw.png)
 
 
 
-![Credit: [Europe Must Act](https://www.facebook.com/europemustact/photos/pcb.284522963160405/284515896494445)](assets/854685814820/1*jFu9D7XB3rWiQHZ9_rDd5A.png)
+![Credit: [Europe Must Act](https://www.facebook.com/europemustact/photos/pcb.284522963160405/284515896494445)](../assets/854685814820/1*jFu9D7XB3rWiQHZ9_rDd5A.png)
 
 Credit: [Europe Must Act](https://www.facebook.com/europemustact/photos/pcb.284522963160405/284515896494445)
 
@@ -170,7 +170,7 @@ Read [HERE](https://05cd942b-77f4-4d21-b3ea-797e75ad39b3.filesusr.com/ugd/0d6197
 #### Today is World Book Day
 
 
-![Photo via [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/a.312076942523930/1223990714665877/) \. Original caption: Photo taken in the north of Bosnia and Herzegovina, very near EU borders, few days ago\. No books here, but the wish to have \[some\] \. Many children spend years at those borders created by European Union institutions without access to education\. More books, less fences\. More schools, less camps\.](assets/854685814820/0*w17kb-DctVlH4Hfe)
+![Photo via [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/a.312076942523930/1223990714665877/) \. Original caption: Photo taken in the north of Bosnia and Herzegovina, very near EU borders, few days ago\. No books here, but the wish to have \[some\] \. Many children spend years at those borders created by European Union institutions without access to education\. More books, less fences\. More schools, less camps\.](../assets/854685814820/0*w17kb-DctVlH4Hfe)
 
 Photo via [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/a.312076942523930/1223990714665877/) \. Original caption: Photo taken in the north of Bosnia and Herzegovina, very near EU borders, few days ago\. No books here, but the wish to have \[some\] \. Many children spend years at those borders created by European Union institutions without access to education\. More books, less fences\. More schools, less camps\.
 #### WORTH READING

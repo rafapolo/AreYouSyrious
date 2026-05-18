@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 28.06.19: EU and Morocco to intensify partnership
+title: "AYS Daily Digest 28.06.19: EU and Morocco to intensify partnership"
 author: Are You Syrious?
 date: 2019-06-29T00:28:56.187+0100
 last_modified_at: 2019-06-29T16:06:57.576+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,morocco,germany,digest,europe]
 description: New joint declartion published to fight migration / Protestant Church in Germany wants to send a rescue ship / Greece to be taken to ECHR…
 image:
-  path: assets/2a610a685b14/1*VvIzivf_hFodrK7zhDAf6Q.jpeg
+  path: ../assets/2a610a685b14/1*VvIzivf_hFodrK7zhDAf6Q.jpeg
 ---
 
 ### AYS Daily Digest 28\.06\.19: EU and Morocco to intensify partnership
 #### New joint declartion published to fight migration / Protestant Church in Germany wants to send a rescue ship / Greece to be taken to ECHR / Surge of arrivals in Tuzla, with no UN aid groups in sight / Investigation against Sea Watch captain
 
 
-![Credits: [Amany Al\-ali/Art Against](https://www.facebook.com/artagainstproject/photos/a.639651369417634/2278637518852336/?type=3&theater)](assets/2a610a685b14/1*VvIzivf_hFodrK7zhDAf6Q.jpeg)
+![Credits: [Amany Al\-ali/Art Against](https://www.facebook.com/artagainstproject/photos/a.639651369417634/2278637518852336/?type=3&theater)](../assets/2a610a685b14/1*VvIzivf_hFodrK7zhDAf6Q.jpeg)
 
 Credits: [Amany Al\-ali/Art Against](https://www.facebook.com/artagainstproject/photos/a.639651369417634/2278637518852336/?type=3&theater)
 #### FEATURED STORIES
@@ -38,18 +38,18 @@ In an [analysis](https://www.ispionline.it/sites/default/files/pubblicazioni/out
 Bosnia and Herzegovina — The local volunteers in Tuzla have reported an increased number of people who have arrived in the town\.
 
 
-![](assets/2a610a685b14/1*bVn6L9byyulShnVUoIhUvg.jpeg)
+![](../assets/2a610a685b14/1*bVn6L9byyulShnVUoIhUvg.jpeg)
 
 
 
-![Photos: Tuzla volunteers](assets/2a610a685b14/1*bk0XHMaAr18hyTxUjQGb7Q.jpeg)
+![Photos: Tuzla volunteers](../assets/2a610a685b14/1*bk0XHMaAr18hyTxUjQGb7Q.jpeg)
 
 Photos: Tuzla volunteers
 
 During the night they reported about 40 people waiting in front of the Foreigners’ Office and at least about 50 people were seen at the station, along with many others scattered around the city in the parks\. They met a dozen children sleeping rough, and among the families there was a pregnant woman\.
 
 
-![Photo: Tuzla volunteers](assets/2a610a685b14/1*FS14x3X1qvNMCS0wV7ywbw.jpeg)
+![Photo: Tuzla volunteers](../assets/2a610a685b14/1*FS14x3X1qvNMCS0wV7ywbw.jpeg)
 
 Photo: Tuzla volunteers
 
@@ -58,7 +58,7 @@ Quite a few people have asked for medical help, many are tired and bruised, with
 The locals keep trying to provide the basic amenities to the newly arrived people, disappointed at the inert and negative attitudes of both the officials and their fellow citizens\.
 
 
-![Photo: Tuzla volunteers](assets/2a610a685b14/1*tduZNlVTL0eRWj-tlkZESA.jpeg)
+![Photo: Tuzla volunteers](../assets/2a610a685b14/1*tduZNlVTL0eRWj-tlkZESA.jpeg)
 
 Photo: Tuzla volunteers
 

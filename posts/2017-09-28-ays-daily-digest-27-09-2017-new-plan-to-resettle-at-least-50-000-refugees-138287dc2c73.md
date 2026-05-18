@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 27/09/17: New plan to resettle at least 50,000 refugees
+title: "AYS Daily Digest 27/09/17: New plan to resettle at least 50,000 refugees"
 author: Are You Syrious?
 date: 2017-09-28T00:56:08.856+0100
 last_modified_at: 2017-09-28T13:16:10.707+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,refugeeswelcome,european-union,greece,italy]
 description: At least 50,000 new resettlements planned / Italy launches National Plan for integration of refugees / Two refugees from Burkina Faso die…
 image:
-  path: assets/138287dc2c73/1*JWy3WdAznQ8Y6K6gfijiGA.jpeg
+  path: ../assets/138287dc2c73/1*JWy3WdAznQ8Y6K6gfijiGA.jpeg
 ---
 
 ### AYS Daily Digest 27/09/17: New plan to resettle at least 50,000 refugees
@@ -15,7 +15,7 @@ image:
 _At least 50,000 new resettlements planned / Italy launches National Plan for integration of refugees / Two refugees from Burkina Faso die on Moroccan\-Spanish border / Situation in centres, along borders and in transit zones in Hungary / Physical rehabilitation centre targeted and completely destroyed in East Ghouta, Syria / And more news…_
 
 
-![The Physical Rehabilitation Centre for Spinal Cord Injuries was targeted and completely destroyed in an aerial attack carried out today in Syria\. Health workers are [\#NotATarget](https://www.facebook.com/hashtag/notatarget?source=feed_text&story_id=1472001566182973) \. Patients seeking care are \#NotATarget\. \(Photo by Abdulmonam Eassa/Syrian American Medical Society\)](assets/138287dc2c73/1*JWy3WdAznQ8Y6K6gfijiGA.jpeg)
+![The Physical Rehabilitation Centre for Spinal Cord Injuries was targeted and completely destroyed in an aerial attack carried out today in Syria\. Health workers are [\#NotATarget](https://www.facebook.com/hashtag/notatarget?source=feed_text&story_id=1472001566182973) \. Patients seeking care are \#NotATarget\. \(Photo by Abdulmonam Eassa/Syrian American Medical Society\)](../assets/138287dc2c73/1*JWy3WdAznQ8Y6K6gfijiGA.jpeg)
 
 The Physical Rehabilitation Centre for Spinal Cord Injuries was targeted and completely destroyed in an aerial attack carried out today in Syria\. Health workers are [\#NotATarget](https://www.facebook.com/hashtag/notatarget?source=feed_text&story_id=1472001566182973) \. Patients seeking care are \#NotATarget\. \(Photo by Abdulmonam Eassa/Syrian American Medical Society\)
 ### FEATURE: At least 50,000 new resettlement places planned
@@ -42,15 +42,15 @@ Yesterday in East Ghouta, at 5pm local time, a Physical Rehabilitation Center fo
 The Director of the Rehabilitation department, as well as two patients, were killed in the attack\. The center is now out of service\. This tragic loss happened against the backdrop of East Ghouta’s crippling, four year long siege, they write\.
 
 
-![](assets/138287dc2c73/1*Kro9zSc-3Yp3tyGDf6ctjw.jpeg)
+![](../assets/138287dc2c73/1*Kro9zSc-3Yp3tyGDf6ctjw.jpeg)
 
 
 
-![](assets/138287dc2c73/1*Cz5uszM7NbtLdlTFYDlwfA.jpeg)
+![](../assets/138287dc2c73/1*Cz5uszM7NbtLdlTFYDlwfA.jpeg)
 
 
 
-![Photos by Abdulmonam Eassa/Syrian American Medical Society](assets/138287dc2c73/1*l0F39vQkPw1KRgCDZiv77g.jpeg)
+![Photos by Abdulmonam Eassa/Syrian American Medical Society](../assets/138287dc2c73/1*l0F39vQkPw1KRgCDZiv77g.jpeg)
 
 Photos by Abdulmonam Eassa/Syrian American Medical Society
 #### SEA
@@ -79,7 +79,7 @@ Libyan Coast Guard reacted by [saying](https://www.yahoo.com/news/libya-threaten
 We are waiting for reactions from Brussels and Berlin and will do all we can to ensure that the responsible persons are held accountable while ensuring the saving of human lives in the Mediterranean, Lifeline concluded\.
 
 
-![30 miles from the island of Sicily, many hours of sailing off the coast of Libya, we have just located these 2 fragile boats with 20 people, impregnated with salt and a terrible fear\. Governments should know that there are no sufficiently high or dangerous borders, when fleeing from slavery, persecution or war\. Just the promise to know that on the other side there is a safe place matters\. The risk of dying on the journey is assumed\. — [Proactiva Open Arms](https://www.facebook.com/proactivaservice/)](assets/138287dc2c73/1*hwZGmEDm4mAuAkitMv5s_A.jpeg)
+![30 miles from the island of Sicily, many hours of sailing off the coast of Libya, we have just located these 2 fragile boats with 20 people, impregnated with salt and a terrible fear\. Governments should know that there are no sufficiently high or dangerous borders, when fleeing from slavery, persecution or war\. Just the promise to know that on the other side there is a safe place matters\. The risk of dying on the journey is assumed\. — [Proactiva Open Arms](https://www.facebook.com/proactivaservice/)](../assets/138287dc2c73/1*hwZGmEDm4mAuAkitMv5s_A.jpeg)
 
 30 miles from the island of Sicily, many hours of sailing off the coast of Libya, we have just located these 2 fragile boats with 20 people, impregnated with salt and a terrible fear\. Governments should know that there are no sufficiently high or dangerous borders, when fleeing from slavery, persecution or war\. Just the promise to know that on the other side there is a safe place matters\. The risk of dying on the journey is assumed\. — [Proactiva Open Arms](https://www.facebook.com/proactivaservice/)
 

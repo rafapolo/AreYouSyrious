@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [greece,digest,germany,spain,refugees]
 description: The Arguineguín camp is emptied // Germany’s debate on whether to deport to Syria // Home Office still saying migrants are traffickers…
 image:
-  path: assets/52f4cc9ce14e/1*y7fXO9L-OFwEPHyCL5JEkA.jpeg
+  path: ../assets/52f4cc9ce14e/1*y7fXO9L-OFwEPHyCL5JEkA.jpeg
 ---
 
 ### AYS Daily Digest 30/11/20 What was old is new again with new map for Moria 2\.0
@@ -15,7 +15,7 @@ image:
 _The Arguineguín camp is emptied // Germany’s debate on whether to deport to Syria // Home Office still saying migrants are traffickers, even after Judge says no // and more…_
 
 
-![Photo by [Stonsi Gr\.](https://www.stonisi.gr/post/13325/kai-epishma-o-xarths-ths-neas-domhs?fbclid=IwAR1pvZbcinyzCblJnXdaC9dKXfbFPSfeya2SbnlGOoookHhgPPHZV0E_HAA)](assets/52f4cc9ce14e/1*y7fXO9L-OFwEPHyCL5JEkA.jpeg)
+![Photo by [Stonsi Gr\.](https://www.stonisi.gr/post/13325/kai-epishma-o-xarths-ths-neas-domhs?fbclid=IwAR1pvZbcinyzCblJnXdaC9dKXfbFPSfeya2SbnlGOoookHhgPPHZV0E_HAA)](../assets/52f4cc9ce14e/1*y7fXO9L-OFwEPHyCL5JEkA.jpeg)
 
 Photo by [Stonsi Gr\.](https://www.stonisi.gr/post/13325/kai-epishma-o-xarths-ths-neas-domhs?fbclid=IwAR1pvZbcinyzCblJnXdaC9dKXfbFPSfeya2SbnlGOoookHhgPPHZV0E_HAA)
 ### FEATURE: New map of camp/RIC for Lesvos
@@ -47,31 +47,31 @@ Only two and a half months after Moria burned down, this is what is coming\. AYS
 #### SEA
 
 
-![[Look here](https://sea-watch.org/airborne_factsheet_merchant_vessels/?fbclid=IwAR3_J0zxxdjd_FGlVXR5GGkcyVn8sU-43tMgUc2jkgHEfRaWGiHpHyLsKSA) to find Sea\-Watch’s Airborne Factsheet Merchant Vessels 2020\. “Merchant ships are being left alone by European authorities\. When their crews rescue people in distress, they are denied the help they need\. Our factsheet gives an overview of a selection of cases from 2020 where merchant ships were involved\.” Photo by [Sea\-Watch](https://www.facebook.com/seawatchprojekt/posts/2706688992882498)](assets/52f4cc9ce14e/1*_KtGeth0zSyxRneSIyhUXw.jpeg)
+![[Look here](https://sea-watch.org/airborne_factsheet_merchant_vessels/?fbclid=IwAR3_J0zxxdjd_FGlVXR5GGkcyVn8sU-43tMgUc2jkgHEfRaWGiHpHyLsKSA) to find Sea\-Watch’s Airborne Factsheet Merchant Vessels 2020\. “Merchant ships are being left alone by European authorities\. When their crews rescue people in distress, they are denied the help they need\. Our factsheet gives an overview of a selection of cases from 2020 where merchant ships were involved\.” Photo by [Sea\-Watch](https://www.facebook.com/seawatchprojekt/posts/2706688992882498)](../assets/52f4cc9ce14e/1*_KtGeth0zSyxRneSIyhUXw.jpeg)
 
 [Look here](https://sea-watch.org/airborne_factsheet_merchant_vessels/?fbclid=IwAR3_J0zxxdjd_FGlVXR5GGkcyVn8sU-43tMgUc2jkgHEfRaWGiHpHyLsKSA) to find Sea\-Watch’s Airborne Factsheet Merchant Vessels 2020\. “Merchant ships are being left alone by European authorities\. When their crews rescue people in distress, they are denied the help they need\. Our factsheet gives an overview of a selection of cases from 2020 where merchant ships were involved\.” Photo by [Sea\-Watch](https://www.facebook.com/seawatchprojekt/posts/2706688992882498)
 #### GREECE
 ### Updates from Lesvos
 
 
-![](assets/52f4cc9ce14e/1*Rdu6qNJH23gARfWgQK9oVQ.jpeg)
+![](../assets/52f4cc9ce14e/1*Rdu6qNJH23gARfWgQK9oVQ.jpeg)
 
 
 
-![Photos by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/981511512371953)](assets/52f4cc9ce14e/1*kjgDcvl06QMUf4D2XcbB4w.jpeg)
+![Photos by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/981511512371953)](../assets/52f4cc9ce14e/1*kjgDcvl06QMUf4D2XcbB4w.jpeg)
 
 Photos by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/981511512371953)
 
 ABR on landings: “ _A boat carrying approximately 27 people landed south of Agrielia Kratigou, Lesvos south 22\.00 \(Sunday\) night\. They are scattered in small groups in the area, hiding in the woods because they are afraid that the Greek coast guard will illegally return them to Turkey\. Aegean Boat Report have obtained pictures, videos and location data, so that we can positively confirm that they are in fact on Lesvos\. Port police has been informed of their whereabouts, and that we have documented their arrival on Lesvos, to try to discourage them from violating their right to seek asylum and trying to return them to Turkey_ \.” [Alarm Phone](https://twitter.com/alarm_phone/status/1333441172174491650]) said they received a call from nine people this night as well\.
 
 
-![](assets/52f4cc9ce14e/1*HYcgTE29Aq5a5evPI71DGA.jpeg)
+![](../assets/52f4cc9ce14e/1*HYcgTE29Aq5a5evPI71DGA.jpeg)
 
 
 
 ![Update from [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/posts/214829573493443) : “Today electrician team from us join to fix electricity in the Rd Zone\.
 This is a new project and new idea and we like it too much\. Skilled electricians from inside camp help the electrical department to fix the problems\. It’s not from NGO or outside, we do it together\. This gives refugees the feeling they are respected and their profession also counts, it’s a fast way to work before winter comes and it’s a good co\-operation with the Greek employees of the camp\. We really hope this becomes an example and we and hundreds of refugees here in camp are ready and happy to do more\. Hard work is much better than just sitting and waiting and watching how others do things\. This happens very often in the past\. We want to show we are useful people, we are not just beggars who ask for food and help\. We can manage\. We also managed our lifes in the countries we had to flee\.
-Thank you for trusting us\.” Now 28 tents have new electricity\! Pictures by [Abu Noor and Raid al Obeed/MWH](https://www.facebook.com/MoriaWhiteHelmets/posts/215109663465434)](assets/52f4cc9ce14e/1*hiWMO1wpLV-S7gu4edJXAg.jpeg)
+Thank you for trusting us\.” Now 28 tents have new electricity\! Pictures by [Abu Noor and Raid al Obeed/MWH](https://www.facebook.com/MoriaWhiteHelmets/posts/215109663465434)](../assets/52f4cc9ce14e/1*hiWMO1wpLV-S7gu4edJXAg.jpeg)
 
 Update from [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/posts/214829573493443) : “Today electrician team from us join to fix electricity in the Rd Zone\.
 This is a new project and new idea and we like it too much\. Skilled electricians from inside camp help the electrical department to fix the problems\. It’s not from NGO or outside, we do it together\. This gives refugees the feeling they are respected and their profession also counts, it’s a fast way to work before winter comes and it’s a good co\-operation with the Greek employees of the camp\. We really hope this becomes an example and we and hundreds of refugees here in camp are ready and happy to do more\. Hard work is much better than just sitting and waiting and watching how others do things\. This happens very often in the past\. We want to show we are useful people, we are not just beggars who ask for food and help\. We can manage\. We also managed our lifes in the countries we had to flee\.
@@ -81,7 +81,7 @@ Thank you for trusting us\.” Now 28 tents have new electricity\! Pictures by [
 ![Update and photo from [Moria Corona Awareness Team](https://www.facebook.com/MoriaCoronaAwarenessTeam/posts/203040581325120) : “These days we receive a lot of encouraging messages and many people offer us their help and give awareness to us and our teams\. And everyday we learn more thanks to these contacts\. Our Media Team also had some trainings how to make pictures in a dignity way, for example not to take children’s picture standing, not to show crying kids or too much misery of people\. And also to never make men more important than women or foreigners or Greeks more important than refugees but to show all humans are equal\.
 Today e received a letter from a female Afghan political analyst in France and she wrote us some encouraging words and the explained why in Europe still there is a tendency to show men more important than women and Europeans more important than refugees and used this example\.
 She writes us and we like to share here:
-‘This picture I saw on Facebook today can be taken as a striking example of an iconography that puts white Western males above POC\-Women and children\. It solidifies a patriarchal order taken for granted by numerous actors in the humanitarian field, likely without any bad intention they reproduce viewing patterns deeply embedded in European culture about social hierarchies seen as “natural” and not violently created during the course of history\. It amazes me how often this discourse is reproduced within the Moria narrative of helpless and needy refugees, who need white saviors\. With the male helper from Western Europe watching over the mother and daughter \(smiling and thus portrayed as a benevolent protector\), it solidifies a patriarchal order\.’”](assets/52f4cc9ce14e/1*ch2srNc-BY2FW13BCiZA5A.png)
+‘This picture I saw on Facebook today can be taken as a striking example of an iconography that puts white Western males above POC\-Women and children\. It solidifies a patriarchal order taken for granted by numerous actors in the humanitarian field, likely without any bad intention they reproduce viewing patterns deeply embedded in European culture about social hierarchies seen as “natural” and not violently created during the course of history\. It amazes me how often this discourse is reproduced within the Moria narrative of helpless and needy refugees, who need white saviors\. With the male helper from Western Europe watching over the mother and daughter \(smiling and thus portrayed as a benevolent protector\), it solidifies a patriarchal order\.’”](../assets/52f4cc9ce14e/1*ch2srNc-BY2FW13BCiZA5A.png)
 
 Update and photo from [Moria Corona Awareness Team](https://www.facebook.com/MoriaCoronaAwarenessTeam/posts/203040581325120) : “These days we receive a lot of encouraging messages and many people offer us their help and give awareness to us and our teams\. And everyday we learn more thanks to these contacts\. Our Media Team also had some trainings how to make pictures in a dignity way, for example not to take children’s picture standing, not to show crying kids or too much misery of people\. And also to never make men more important than women or foreigners or Greeks more important than refugees but to show all humans are equal\.
 Today e received a letter from a female Afghan political analyst in France and she wrote us some encouraging words and the explained why in Europe still there is a tendency to show men more important than women and Europeans more important than refugees and used this example\.
@@ -108,7 +108,7 @@ From [the Yellow Days](https://www.facebook.com/theyellowdays/posts/277845251243
 
 ![“Since we formally ceased our operations on Lesvos, our Emergency Response \(ER\) team has been working tirelessly to pivot our operations to meet increased needs on the Greek mainland\. Today, we are excited to share a new phase of our ER programme with you\!
 …our team has designed a pilot project deploying a skilled streetwork team to provide support to refugees at this critical point in their journeys\. We will be covering material needs — such as clothes, hygiene items for COVID — while also offering vital information and referrals to other actors in Athens\. We are also thrilled to partner with the amazing Emfasis Foundation, who have been conducting streetwork outreach since 2013, to deliver part of these services\. 
-Tomorrow, on Giving Tuesday, we need your help to get this new project off the ground\! For 24 hours, starting tomorrow at 12 am EST/7 am EET, your donations can go further by helping us tap into GlobalGiving’s incentive fund\.” Photo and Info by Lighthouse Relief → Please donate [here](https://www.facebook.com/lighthouserelief/posts/3477105715745278) \.](assets/52f4cc9ce14e/1*CRhNLzS8YfRwP9XtWIDS2Q.jpeg)
+Tomorrow, on Giving Tuesday, we need your help to get this new project off the ground\! For 24 hours, starting tomorrow at 12 am EST/7 am EET, your donations can go further by helping us tap into GlobalGiving’s incentive fund\.” Photo and Info by Lighthouse Relief → Please donate [here](https://www.facebook.com/lighthouserelief/posts/3477105715745278) \.](../assets/52f4cc9ce14e/1*CRhNLzS8YfRwP9XtWIDS2Q.jpeg)
 
 “Since we formally ceased our operations on Lesvos, our Emergency Response \(ER\) team has been working tirelessly to pivot our operations to meet increased needs on the Greek mainland\. Today, we are excited to share a new phase of our ER programme with you\!
 …our team has designed a pilot project deploying a skilled streetwork team to provide support to refugees at this critical point in their journeys\. We will be covering material needs — such as clothes, hygiene items for COVID — while also offering vital information and referrals to other actors in Athens\. We are also thrilled to partner with the amazing Emfasis Foundation, who have been conducting streetwork outreach since 2013, to deliver part of these services\. 
@@ -116,7 +116,7 @@ Tomorrow, on Giving Tuesday, we need your help to get this new project off the g
 
 
 ![Update and photo by [Action of Women](https://www.facebook.com/actionforwomenCH/posts/2198917553586055) : “We are proud and excited to introduce The Pomegranate Project brand\! In Greece, recent changes in Government policies have meant that one month after being successfully recognised as refugees, all financial and housing assistance is stopped, resulting in an increased urgency to find work…It takes time to acquire the necessary language skills and for women who have experienced gender\-based violence, trauma creates an additional barrier to absorbing new skills and many feel uncomfortable or even unable to work alongside men in a mixed\-sex environment\. 
-This is why The Pomegranate Project has worked with our participants who are a mix of refugee and asylum\-seeking women to design and produce a range of beautiful products that can be produced in our women\-only safe space and create a sustainable source of income\.”](assets/52f4cc9ce14e/1*qASfEio-Nd_ES97CtnsEKA.jpeg)
+This is why The Pomegranate Project has worked with our participants who are a mix of refugee and asylum\-seeking women to design and produce a range of beautiful products that can be produced in our women\-only safe space and create a sustainable source of income\.”](../assets/52f4cc9ce14e/1*qASfEio-Nd_ES97CtnsEKA.jpeg)
 
 Update and photo by [Action of Women](https://www.facebook.com/actionforwomenCH/posts/2198917553586055) : “We are proud and excited to introduce The Pomegranate Project brand\! In Greece, recent changes in Government policies have meant that one month after being successfully recognised as refugees, all financial and housing assistance is stopped, resulting in an increased urgency to find work…It takes time to acquire the necessary language skills and for women who have experienced gender\-based violence, trauma creates an additional barrier to absorbing new skills and many feel uncomfortable or even unable to work alongside men in a mixed\-sex environment\. 
 This is why The Pomegranate Project has worked with our participants who are a mix of refugee and asylum\-seeking women to design and produce a range of beautiful products that can be produced in our women\-only safe space and create a sustainable source of income\.”
@@ -135,22 +135,22 @@ Publico is reporting that after three months and nine days, the “untenable” 
 Read more [here](https://www.publico.es/sociedad/migracion-canarias-campamento-arguineguin-queda-vacio-tres-meses-nueve-dias-despues.html?utm_source=facebook&utm_medium=social&utm_campaign=publico&fbclid=IwAR32T8BV1vh5It9xGUfZnRnwZ8HHVJ1cDd00srDb5DiYxoxGU1DcnZyuy40) \.
 
 
-![Open Arms is heading back to rescue → [Leaving Sicily](https://www.infomigrants.net/en/post/28824/resuce-ship-open-arms-to-head-back-to-mediterranean?fbclid=IwAR35J5wIsjCZcxVIkAxXtmrR-89MK5hIlNH5WFviSX3V6pAiT5hrgmTjQIU) after 2 weeks of quarantine, making a pit stop in Barcelona to change its crew, then heading out on its 79th mission to be exact\. Photo by [Open Arms](https://twitter.com/openarms_fund/status/1333022306533249030?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1333022306533249030%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.infomigrants.net%2Fen%2Fpost%2F28824%2Fresuce-ship-open-arms-to-head-back-to-mediterranean)](assets/52f4cc9ce14e/1*SkU91qG3uthMvtgQjD_EEg.jpeg)
+![Open Arms is heading back to rescue → [Leaving Sicily](https://www.infomigrants.net/en/post/28824/resuce-ship-open-arms-to-head-back-to-mediterranean?fbclid=IwAR35J5wIsjCZcxVIkAxXtmrR-89MK5hIlNH5WFviSX3V6pAiT5hrgmTjQIU) after 2 weeks of quarantine, making a pit stop in Barcelona to change its crew, then heading out on its 79th mission to be exact\. Photo by [Open Arms](https://twitter.com/openarms_fund/status/1333022306533249030?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1333022306533249030%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.infomigrants.net%2Fen%2Fpost%2F28824%2Fresuce-ship-open-arms-to-head-back-to-mediterranean)](../assets/52f4cc9ce14e/1*SkU91qG3uthMvtgQjD_EEg.jpeg)
 
 Open Arms is heading back to rescue → [Leaving Sicily](https://www.infomigrants.net/en/post/28824/resuce-ship-open-arms-to-head-back-to-mediterranean?fbclid=IwAR35J5wIsjCZcxVIkAxXtmrR-89MK5hIlNH5WFviSX3V6pAiT5hrgmTjQIU) after 2 weeks of quarantine, making a pit stop in Barcelona to change its crew, then heading out on its 79th mission to be exact\. Photo by [Open Arms](https://twitter.com/openarms_fund/status/1333022306533249030?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1333022306533249030%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.infomigrants.net%2Fen%2Fpost%2F28824%2Fresuce-ship-open-arms-to-head-back-to-mediterranean)
 #### BALKANS
 
 
-![](assets/52f4cc9ce14e/1*VD6WsF7U4DUdQQIOWv1GlA.jpeg)
+![](../assets/52f4cc9ce14e/1*VD6WsF7U4DUdQQIOWv1GlA.jpeg)
 
 
 
-![](assets/52f4cc9ce14e/1*yPygvxL0m1V-Qtk7f-UnWw.jpeg)
+![](../assets/52f4cc9ce14e/1*yPygvxL0m1V-Qtk7f-UnWw.jpeg)
 
 
 
 ![“Many thanks to the people who have made this possible: 100 people have received medical care in three months thanks to other people who decided to support\. If you would like to know more about the project, please write to [info@nonamekitchen\.org](mailto:info@nonamekitchen.org) \.
-If you would like to donate to this project, which, in addition to medical treatments, invests in hygiene products for people, you can donate at [www\.nonamekitchen\.org/ayudanos/](http://www.nonamekitchen.org/ayudanos/) and indicate that your help is for “health”\.” Photos by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/1133788087019474)](assets/52f4cc9ce14e/1*_r9-FP2f_RsZKi9UCZ_BWw.jpeg)
+If you would like to donate to this project, which, in addition to medical treatments, invests in hygiene products for people, you can donate at [www\.nonamekitchen\.org/ayudanos/](http://www.nonamekitchen.org/ayudanos/) and indicate that your help is for “health”\.” Photos by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/1133788087019474)](../assets/52f4cc9ce14e/1*_r9-FP2f_RsZKi9UCZ_BWw.jpeg)
 
 “Many thanks to the people who have made this possible: 100 people have received medical care in three months thanks to other people who decided to support\. If you would like to know more about the project, please write to [info@nonamekitchen\.org](mailto:info@nonamekitchen.org) \.
 If you would like to donate to this project, which, in addition to medical treatments, invests in hygiene products for people, you can donate at [www\.nonamekitchen\.org/ayudanos/](http://www.nonamekitchen.org/ayudanos/) and indicate that your help is for “health”\.” Photos by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/1133788087019474)
@@ -159,7 +159,7 @@ If you would like to donate to this project, which, in addition to medical treat
 
 ![“Protesters gathered this weekend in Berlin’s Platz der Republik under the slogan “Europas Herzversagen stoppen” \(Stop Europe’s Heart Failure\) \. They sang together and raised their voices against a cruel European migration policy in this demonstration organized by [@wir\_packen\_s\_an](http://twitter.com/wir_packen_s_an) on the first Advent Sunday\. 
 Musicians, choirs and various German advocacy groups came together to demand through song the evacuation of refugee camps at European borders and a fundamental change to the EU’s Migration and Asylum Policy\. 
-One member of Europe Must Act stated: “a new policy must ensure human rights are respected and not allow people to be forgotten in camps like Moria”\. The campaigners also sought to draw attention to the impact of Covid\-19 on the lives of people living in the Aegean camps\. Candles were lit as a memorial to those who have died as a result of Europe’s border regime and in solidarity with those who still suffer daily in the camps\.” Photo by [Europe Must Act](https://www.facebook.com/europemustact/posts/198414948437874)](assets/52f4cc9ce14e/1*3CnOusco6WZn-5tINW2jiQ.jpeg)
+One member of Europe Must Act stated: “a new policy must ensure human rights are respected and not allow people to be forgotten in camps like Moria”\. The campaigners also sought to draw attention to the impact of Covid\-19 on the lives of people living in the Aegean camps\. Candles were lit as a memorial to those who have died as a result of Europe’s border regime and in solidarity with those who still suffer daily in the camps\.” Photo by [Europe Must Act](https://www.facebook.com/europemustact/posts/198414948437874)](../assets/52f4cc9ce14e/1*3CnOusco6WZn-5tINW2jiQ.jpeg)
 
 “Protesters gathered this weekend in Berlin’s Platz der Republik under the slogan “Europas Herzversagen stoppen” \(Stop Europe’s Heart Failure\) \. They sang together and raised their voices against a cruel European migration policy in this demonstration organized by [@wir\_packen\_s\_an](http://twitter.com/wir_packen_s_an) on the first Advent Sunday\. 
 Musicians, choirs and various German advocacy groups came together to demand through song the evacuation of refugee camps at European borders and a fundamental change to the EU’s Migration and Asylum Policy\. 

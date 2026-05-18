@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 11/06/17: Another tragedy in the Mediterranean
+title: "AYS Daily Digest 11/06/17: Another tragedy in the Mediterranean"
 author: Are You Syrious?
 date: 2017-06-12T05:41:31.420+0100
 last_modified_at: 2017-08-29T17:18:54.757+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees]
 description: Police violence at Hungarian border / Distributions continue in Calais despite police pressure / Young returnee reportedly killed in Kabul…
 image:
-  path: assets/e82eebcd639b/1*s7lIjs8lsw9gyql_NVdNQw.png
+  path: ../assets/e82eebcd639b/1*s7lIjs8lsw9gyql_NVdNQw.png
 ---
 
 ### AYS Daily Digest 11/06/17: Another tragedy in the Mediterranean
@@ -15,7 +15,7 @@ image:
 _Police violence at Hungarian border / Distributions continue in Calais despite police pressure / Young returnee reportedly killed in Kabul / And more news…_
 
 
-![The capacity on board two ships off the coast of Libyan coast was so insufficient that people were forced to take to life rafts \(Photo by Jugend Rettet\)](assets/e82eebcd639b/1*s7lIjs8lsw9gyql_NVdNQw.png)
+![The capacity on board two ships off the coast of Libyan coast was so insufficient that people were forced to take to life rafts \(Photo by Jugend Rettet\)](../assets/e82eebcd639b/1*s7lIjs8lsw9gyql_NVdNQw.png)
 
 The capacity on board two ships off the coast of Libyan coast was so insufficient that people were forced to take to life rafts \(Photo by Jugend Rettet\)
 ### SEA
@@ -59,14 +59,14 @@ Housing consists of wooden trailers with no air conditioning and the camp is in 
 Given the rising temperatures, Timber Project will start building shade structures at the Koutsochero camp near Larissa, including a community space and a shaded area around the children’s library\.
 
 
-![The Timber Project](assets/e82eebcd639b/1*bLBgiXGzRCMdk5V7tfSpzQ.png)
+![The Timber Project](../assets/e82eebcd639b/1*bLBgiXGzRCMdk5V7tfSpzQ.png)
 
 The Timber Project
 ### SERBIA
 #### Refugees violently brought from Obrenovac to Presevo
 
 
-![Conditions in Presevo](assets/e82eebcd639b/1*EKI2yuhv7QWWDe7XzXryUQ.png)
+![Conditions in Presevo](../assets/e82eebcd639b/1*EKI2yuhv7QWWDe7XzXryUQ.png)
 
 Conditions in Presevo
 
@@ -77,11 +77,11 @@ Refugees were transported from Obrenovac to Presevo yesterday\. Police came at 5
 Volunteers from Subotica sent us the pictures below, mentioning that people are once again trying to cross into Hungary\. On Thursday and Friday, two groups—one of 20 people and the other with 15 to 17 members—were stopped by the police and badly beaten\. The first group was pepper sprayed repeatedly\. All of those involved were pushed back into Serbia\.
 
 
-![](assets/e82eebcd639b/1*GcV7kiOcDfycTZOZKOJi0w.jpeg)
+![](../assets/e82eebcd639b/1*GcV7kiOcDfycTZOZKOJi0w.jpeg)
 
 
 
-![](assets/e82eebcd639b/1*l_9k_sE1QZzNA7jbCKE3Dw.jpeg)
+![](../assets/e82eebcd639b/1*l_9k_sE1QZzNA7jbCKE3Dw.jpeg)
 
 ### FRANCE
 #### Distributions continue despite police pressure
@@ -93,7 +93,7 @@ Despite this week’s intimidation, Help Refugees say they are continuing distri
 The Refugee Community Kitchen meanwhile is producing over 2,000 portions of food every day during lunch, dinner, and even through the night for those observing Ramadan\.
 
 
-![Photo by Help Refugees](assets/e82eebcd639b/1*yzAap7TTTd-T8l3h2fAB-Q.png)
+![Photo by Help Refugees](../assets/e82eebcd639b/1*yzAap7TTTd-T8l3h2fAB-Q.png)
 
 Photo by Help Refugees
 #### Scabies in Paris
@@ -103,7 +103,7 @@ While scabies has always been a problem in Paris, MSF seems concerned about a re
 Yesterday, refugees protested in Paris, denouncing police harassment and the lack of dignified living conditions\.
 
 
-![Photo by Solidarité migrants Wilson](assets/e82eebcd639b/1*Tb4HKUpbXjCs_3DOppZjDA.png)
+![Photo by Solidarité migrants Wilson](../assets/e82eebcd639b/1*Tb4HKUpbXjCs_3DOppZjDA.png)
 
 Photo by Solidarité migrants Wilson
 

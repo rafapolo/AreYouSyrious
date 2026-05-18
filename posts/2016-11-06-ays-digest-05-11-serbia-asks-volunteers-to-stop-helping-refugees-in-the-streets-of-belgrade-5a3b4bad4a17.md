@@ -1,5 +1,5 @@
 ---
-title: AYS Digest 05/11: Serbia asks volunteers to stop helping refugees in the streets of Belgrade
+title: "AYS Digest 05/11: Serbia asks volunteers to stop helping refugees in the streets of Belgrade"
 author: Are You Syrious?
 date: 2016-11-06T05:24:50.440+0000
 last_modified_at: 2016-11-06T20:45:19.758+0000
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe]
 description: In an “open letter”, the Serbian government says support for refugees in the streets of Belgrade should be stopped. Refugees remain hidden…
 image:
-  path: assets/5a3b4bad4a17/0*_2fbzEx5tlASjY7s.
+  path: ../assets/5a3b4bad4a17/0*_2fbzEx5tlASjY7s.
 ---
 
 ### AYS Digest 05/11: Serbia asks volunteers to stop helping refugees in the streets of Belgrade
 
 
-![Photo by Refugee’s Anthem](assets/5a3b4bad4a17/0*_2fbzEx5tlASjY7s.)
+![Photo by Refugee’s Anthem](../assets/5a3b4bad4a17/0*_2fbzEx5tlASjY7s.)
 
 Photo by Refugee’s Anthem
 
@@ -34,12 +34,12 @@ Several organisations working with refugees in the streets were already pressure
 However, asking volunteers to stop providing essential services to refugees living in the city’s streets only hides and dismisses the problem\. Belgrade remains a big transit spot for refugees trying to reach western Europe and refugees do not plan to stay in the country\. More than 1,000 people sleep in unsanitary and unheated abandoned warehouses behind Belgrade’s main bus station, while temperatures continue to drop\. Street support therefore remains essential, as the lack of help will not incentivize refugees to leave for camps but will only degrade their living conditions even further\. Hygiene and health conditions are already terrible and temperatures will continue to worsen\.
 
 
-![The old warehouse behind the central train station in Belgrade were refugees sleep\. Photo by Refugee’s Anthem](assets/5a3b4bad4a17/0*_2fbzEx5tlASjY7s.)
+![The old warehouse behind the central train station in Belgrade were refugees sleep\. Photo by Refugee’s Anthem](../assets/5a3b4bad4a17/0*_2fbzEx5tlASjY7s.)
 
 The old warehouse behind the central train station in Belgrade were refugees sleep\. Photo by Refugee’s Anthem
 
 
-![Photo by Kimmie Whicher](assets/5a3b4bad4a17/0*1DkJzV2Z1RLVZ0vi.)
+![Photo by Kimmie Whicher](../assets/5a3b4bad4a17/0*1DkJzV2Z1RLVZ0vi.)
 
 Photo by Kimmie Whicher
 #### France
@@ -74,7 +74,7 @@ Many will not want to claim asylum in France and will therefore return to Calais
 The NGO MOAS says 2,200 people crossed the Mediterranean today in 16 different vessel and ten bodies were sadly recovered during the mass search and rescue operations coordinated by the Italian Coast Guard\. The boat “Responder” rescued over 700 people & assisted another 130 on a rubber boat while further assistance was called for\.
 
 
-![](assets/5a3b4bad4a17/0*RTXA9J3wwqMTpjLF.)
+![](../assets/5a3b4bad4a17/0*RTXA9J3wwqMTpjLF.)
 
 
 Yesterday, MOAS rescued 575 people on four different rubber dinghies\.
@@ -104,18 +104,18 @@ Two mobile projects have \(re\) \-started operations , providing several camps w
 The DocMobile team is on the road again, with completely new staff, and has had a lot of sick people arrive with respiratory problems\. Colds are also spreading “like a running fire” given the camp environment\. The [group](https://www.facebook.com/docmobile.org/) is constantly looking for donations and new help on the ground\.
 
 
-![](assets/5a3b4bad4a17/0*Rn9L-0_v_c94rPVR.)
+![](../assets/5a3b4bad4a17/0*Rn9L-0_v_c94rPVR.)
 
 
 The Echo Mobile Library has made its first stop in Elpida\. “ _Ali was the first to take the Duolingo placement test in English and requested to learn about English literature in exchange for knowledge on Arabic literature\. Amer started a course about film\-making and cinema on Coursera and Rana eagerly devoured the pages of a love story she checked out\.”_ The Mobile Library will be in Elpida every Tuesday and Friday afternoon\.
 
 
-![Photo by [ECHO Refugee Library](https://www.facebook.com/refugeelibrary/?ref=page_internal)](assets/5a3b4bad4a17/0*8Y3gBul1Axp5twEU.)
+![Photo by [ECHO Refugee Library](https://www.facebook.com/refugeelibrary/?ref=page_internal)](../assets/5a3b4bad4a17/0*8Y3gBul1Axp5twEU.)
 
 Photo by [ECHO Refugee Library](https://www.facebook.com/refugeelibrary/?ref=page_internal)
 
 
-![Photo by [ECHO Refugee Library](https://www.facebook.com/refugeelibrary/?ref=page_internal)](assets/5a3b4bad4a17/0*AesEXTD-vQ2PpBGL.)
+![Photo by [ECHO Refugee Library](https://www.facebook.com/refugeelibrary/?ref=page_internal)](../assets/5a3b4bad4a17/0*AesEXTD-vQ2PpBGL.)
 
 Photo by [ECHO Refugee Library](https://www.facebook.com/refugeelibrary/?ref=page_internal)
 #### Syria

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 20/3/19: More than 220 people arrived on Greek islands over the last 24 hours
+title: "AYS Daily Digest 20/3/19: More than 220 people arrived on Greek islands over the last 24 hours"
 author: Are You Syrious?
 date: 2019-03-21T10:07:51.807+0000
 last_modified_at: 2019-03-21T12:28:50.835+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,eu-turkey-deal,bosnia,europe]
 description: Three years of the EU-Turkey deal and nothing new to say / Over 6.600 people arrived in Spain this year / New racist attacks in Greece and…
 image:
-  path: assets/f56bd03cd359/1*Q-hZlyVKKV7m47rMPaVCqA.jpeg
+  path: ../assets/f56bd03cd359/1*Q-hZlyVKKV7m47rMPaVCqA.jpeg
 ---
 
 ### AYS Daily Digest 20/3/19: More than 220 people arrived on Greek islands over the last 24 hours
 #### _Three years of the EU\-Turkey deal and nothing new to say / Over 6,600 people arrived in Spain this year / New racist attacks in Greece and new big assembly in Athens / More people passing through Serbia again / Germany to cut the budget for refugees as of 2020 / Police pressure on people sleeping rough in Paris_
 
 
-![Photo by [Alarm Phone](https://alarmphone.org/en/2019/03/20/the-european-refoulement-industry-at-sea-alarm-phone/?post_type_release_type=post)](assets/f56bd03cd359/1*Q-hZlyVKKV7m47rMPaVCqA.jpeg)
+![Photo by [Alarm Phone](https://alarmphone.org/en/2019/03/20/the-european-refoulement-industry-at-sea-alarm-phone/?post_type_release_type=post)](../assets/f56bd03cd359/1*Q-hZlyVKKV7m47rMPaVCqA.jpeg)
 
 Photo by [Alarm Phone](https://alarmphone.org/en/2019/03/20/the-european-refoulement-industry-at-sea-alarm-phone/?post_type_release_type=post)
 ### Feature
@@ -171,7 +171,7 @@ No good news from Bosnia\. Living conditions are deteriorating rapidly, and thos
 “You don’t even have to open your eyes to know you arrived in a place where humanity has been abandoned\.” This is how they described camp BIRA in Bihac where about 2000 people are trapped\.
 
 
-![](assets/f56bd03cd359/1*0U09xU39wFBGwj_EsedwzQ.jpeg)
+![](../assets/f56bd03cd359/1*0U09xU39wFBGwj_EsedwzQ.jpeg)
 
 
 “The first thing picked up by your senses is the noise\. The reverberating echo of voices jumping back and forth across the cold walls of the huge factory halls\. You can tell there’s never silence\. You can tell Bira never sleeps\. Then comes the smell\. It is pungent and strong and immediately invades your nose and mouth\. As I enter the camp, an IOM operator gives me a mask and gloves to wear\. It’s protocol\. All visitors and operators wear them\. It’s for security\. I sense the plastic cover on my skin and on my face and I realise that this treatment is my privilege as a European woman entering a refugee camp\. They are responsible for me, they have the duty to protect me\. They don’t want me to talk to the people there, they don’t want me to be near them\. The plastic barrier is imposed upon me and them, tracing the perimeter that divides my skin from the 2000 bodies that are walking around me\.”
@@ -179,11 +179,11 @@ No good news from Bosnia\. Living conditions are deteriorating rapidly, and thos
 [Benedetta Zocchi and Gabriele Proglio](https://m.facebook.com/story.php?story_fbid=10216405740367696&id=1581444444) encountered many people who left for “the game”, another attempt to cross the EU border\. They followed their trail only to find traces of life\.
 
 
-![](assets/f56bd03cd359/1*vbTugZ-iPVDoHXPsh3Y0eA.jpeg)
+![](../assets/f56bd03cd359/1*vbTugZ-iPVDoHXPsh3Y0eA.jpeg)
 
 
 
-![](assets/f56bd03cd359/1*UGXzz0Ja0aOWQ4BRl8lXjw.jpeg)
+![](../assets/f56bd03cd359/1*UGXzz0Ja0aOWQ4BRl8lXjw.jpeg)
 
 
 “Shoes, clothes, sleeping bags, and hundreds of empty cans of energy drinks\. Detritus that trace the pattern to a denied dreamland\. The skeletons of a commanded exodus\. They remain\. They are stuck among the trees in their awkward misplacement\. They don’t belong here\. They tell a story that shall not be told, they hold a secret that must not be shared…
@@ -215,7 +215,7 @@ Volunteers are calling for gatherings at the level of the 139 Avenue of Presiden
 
 
 
-![Photo: [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/?ref=gs&tn-str=k%2AF&fref=gs&dti=1006253006128240&hc_location=group_dialog) ‎](assets/f56bd03cd359/1*HCec_5qtJVJpDSrSaq7CWQ.jpeg)
+![Photo: [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/?ref=gs&tn-str=k%2AF&fref=gs&dti=1006253006128240&hc_location=group_dialog) ‎](../assets/f56bd03cd359/1*HCec_5qtJVJpDSrSaq7CWQ.jpeg)
 
 Photo: [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/?ref=gs&tn-str=k%2AF&fref=gs&dti=1006253006128240&hc_location=group_dialog) ‎
 

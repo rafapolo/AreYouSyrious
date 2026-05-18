@@ -7,7 +7,7 @@ categories:
 tags: [refugees,chios,european-commission,vial,greece]
 description: EU Commission must take responsibility for inhumanity of Greek hotspots
 image:
-  path: assets/40fb64bde0bf/1*9yKEsPDsAR42-AbdBsysLg.jpeg
+  path: ../assets/40fb64bde0bf/1*9yKEsPDsAR42-AbdBsysLg.jpeg
 ---
 
 ### **Open Letter to the European Commission from Chios**
@@ -15,7 +15,7 @@ image:
 EU Commission must take responsibility for inhumanity of Greek hotspots
 
 
-![Chios\. Photo by [**Chios Eastern Shore Response Team**](https://www.facebook.com/groups/421759534684819/)](assets/40fb64bde0bf/1*9yKEsPDsAR42-AbdBsysLg.jpeg)
+![Chios\. Photo by [**Chios Eastern Shore Response Team**](https://www.facebook.com/groups/421759534684819/)](../assets/40fb64bde0bf/1*9yKEsPDsAR42-AbdBsysLg.jpeg)
 
 Chios\. Photo by [**Chios Eastern Shore Response Team**](https://www.facebook.com/groups/421759534684819/)
 
@@ -27,7 +27,7 @@ In particular, we would like to draw your attention to the following issues:
 
 
 
-![Vial, October 2017\. Photo by Abdullah Ali Darwish\.](assets/40fb64bde0bf/1*vV3YMe1yAaOqILDzPlZkag.jpeg)
+![Vial, October 2017\. Photo by Abdullah Ali Darwish\.](../assets/40fb64bde0bf/1*vV3YMe1yAaOqILDzPlZkag.jpeg)
 
 Vial, October 2017\. Photo by Abdullah Ali Darwish\.
 - **Lack of medical care** : there continues to be a lack of medical support for the population residing in Vial\. During the day, there are currently only two doctors available for the entire camp population\. Between 5–9pm there is only one nurse onsite\. There is no medical staff operating beyond 9pm inside the camp and medical emergencies rest on the response of the understaffed and underfunded hospital that only has one ambulance\.
@@ -38,7 +38,7 @@ Vial, October 2017\. Photo by Abdullah Ali Darwish\.
 The situation on Chios is critical and, with weather rapidly conditions deteriorating and severe rain forecast this week, demands an immediate response from local, national and European authorities\. We hereby add our voice to a [recent call by more than 100 grassroots civil society organisations](https://opentheislands.wordpress.com/statement/) and leading [international NGOs](https://www.hrw.org/news/2017/10/23/joint-letter-prime-minister-tsipras-re-deteriorating-conditions-asylum-seekers) to promptly **close the hotspots** and **decongest the islands** by ending restrictions on the freedom of movement of asylum\-seekers arriving on the Greek islands and provide them with **adequate reception on the mainland** outside of detention facilities\.
 
 
-![Vial, October 2017\. Photo by Abdullah Ali Darwish\.](assets/40fb64bde0bf/1*lHmmnHP1gs7vCInhZ1q56g.jpeg)
+![Vial, October 2017\. Photo by Abdullah Ali Darwish\.](../assets/40fb64bde0bf/1*lHmmnHP1gs7vCInhZ1q56g.jpeg)
 
 Vial, October 2017\. Photo by Abdullah Ali Darwish\.
 

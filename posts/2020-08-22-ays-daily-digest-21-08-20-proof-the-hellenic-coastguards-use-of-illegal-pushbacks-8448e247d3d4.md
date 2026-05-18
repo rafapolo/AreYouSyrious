@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 21/08/20: Proof -The Hellenic Coastguard’s use of Illegal Pushbacks
+title: "AYS Daily Digest 21/08/20: Proof -The Hellenic Coastguard’s use of Illegal Pushbacks"
 author: Are You Syrious?
 date: 2020-08-22T10:21:46.407+0100
 last_modified_at: 2020-08-23T05:25:23.873+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,europe,dover]
 description: Visual investgation of maritime pushbacks // Plans to increase deportations from the EU //Attack on MSF clinic in Moria // Death in Melilla
 image:
-  path: assets/8448e247d3d4/1*6otY7gNLQbkjShCoctw6Jg.png
+  path: ../assets/8448e247d3d4/1*6otY7gNLQbkjShCoctw6Jg.png
 ---
 
 ### AYS Daily Digest 21/08/20: Proof \-The Hellenic Coastguard’s use of Illegal Pushbacks
@@ -26,14 +26,14 @@ The investigation conducted by _Josoor and No Name Kitchen_ focuses on a series 
 Using the distinct mountain lines featured in the background in two of the clips and Google Earth’s topographic satellite renders of the Aegean Sea, the investigators were able to geolocate the incident and demonstrate that the dinghy was being chased east towards Diliki, Turkey as it was intercepted by the HCG vessel\. This geolocated area matches with information [posted](https://en.sg.gov.tr/current-operations-10-13-july-2020) from Turkish Coast Guard of a rescue operation on 11 July at 10:00 am off the coast of Dikili, Turkey\. It was their only reported rescue of that day\.
 
 
-![_Photo\-stitch panorama of the first video taken of the incident on 11 July, 2020\. \(Photo credit: [BVMN](https://www.borderviolence.eu/bvmn-investigations-analysis-of-video-footage-showing-involvement-of-hellenic-coast-guard-in-maritime-pushback/?fbclid=IwAR0rkzUjMIrqNP3wCCEQURvb0QoMS96eiSND72uXbDWcPq6rDTR-BqI4VXo) \)_](assets/8448e247d3d4/1*ECcgqI0PAu-KKsLbS-mOPA.png)
+![_Photo\-stitch panorama of the first video taken of the incident on 11 July, 2020\. \(Photo credit: [BVMN](https://www.borderviolence.eu/bvmn-investigations-analysis-of-video-footage-showing-involvement-of-hellenic-coast-guard-in-maritime-pushback/?fbclid=IwAR0rkzUjMIrqNP3wCCEQURvb0QoMS96eiSND72uXbDWcPq6rDTR-BqI4VXo) \)_](../assets/8448e247d3d4/1*ECcgqI0PAu-KKsLbS-mOPA.png)
 
 _Photo\-stitch panorama of the first video taken of the incident on 11 July, 2020\. \(Photo credit: [BVMN](https://www.borderviolence.eu/bvmn-investigations-analysis-of-video-footage-showing-involvement-of-hellenic-coast-guard-in-maritime-pushback/?fbclid=IwAR0rkzUjMIrqNP3wCCEQURvb0QoMS96eiSND72uXbDWcPq6rDTR-BqI4VXo) \)_
 
 Within the investigation, the team at Josoor and No Name Kitchen were also able to identify the HCG vessel involved in the incident\. Through analysing the distinct colouration and markings of the boat, they ascertained that the boat in question is one of two [Faiakas](http://en.c4defence.com/Archive/turkish-coast-guard-vessel-intercepted-hellenic-cg-boat/9457/1) \-class fast patrol crafts \(FPCs\) currently operated by the Hellenic Coast Guard — this one being the ΛΣ\-618 and the other being ΛΣ\-617\. By identifying the vehicles use, they were also able to demonstrate that the acquisition of these vessels by the HCG was majority financed via the European Commission’s External Borders Fund, which provided for 75% of the cost, with the rest consisting of domestic funding\.
 
 
-![_Photo\-stitch of the vessel ΛΣ\-618 shown in the video footage, with identified men present\. \(Photo credit: [BVMN](https://www.borderviolence.eu/bvmn-investigations-analysis-of-video-footage-showing-involvement-of-hellenic-coast-guard-in-maritime-pushback/?fbclid=IwAR0rkzUjMIrqNP3wCCEQURvb0QoMS96eiSND72uXbDWcPq6rDTR-BqI4VXo) \)_](assets/8448e247d3d4/1*6otY7gNLQbkjShCoctw6Jg.png)
+![_Photo\-stitch of the vessel ΛΣ\-618 shown in the video footage, with identified men present\. \(Photo credit: [BVMN](https://www.borderviolence.eu/bvmn-investigations-analysis-of-video-footage-showing-involvement-of-hellenic-coast-guard-in-maritime-pushback/?fbclid=IwAR0rkzUjMIrqNP3wCCEQURvb0QoMS96eiSND72uXbDWcPq6rDTR-BqI4VXo) \)_](../assets/8448e247d3d4/1*6otY7gNLQbkjShCoctw6Jg.png)
 
 _Photo\-stitch of the vessel ΛΣ\-618 shown in the video footage, with identified men present\. \(Photo credit: [BVMN](https://www.borderviolence.eu/bvmn-investigations-analysis-of-video-footage-showing-involvement-of-hellenic-coast-guard-in-maritime-pushback/?fbclid=IwAR0rkzUjMIrqNP3wCCEQURvb0QoMS96eiSND72uXbDWcPq6rDTR-BqI4VXo) \)_
 

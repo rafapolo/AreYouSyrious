@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 19/03/2021: How Many More Deaths at Sea?
+title: "AYS Daily Digest 19/03/2021: How Many More Deaths at Sea?"
 author: Are You Syrious?
 date: 2021-03-20T01:54:27.501+0000
 last_modified_at: 2021-03-20T11:28:15.971+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,mediterranean,shipwreck]
 description: Report in Situation for Afghans in Turkey//What Happened in the Aegean Last Night//& Other Stories
 image:
-  path: assets/9966da42f48c/0*SvLlocsBYyg_jxVR.jpg
+  path: ../assets/9966da42f48c/0*SvLlocsBYyg_jxVR.jpg
 ---
 
 ### AYS Daily Digest 19/03/2021: How Many More Deaths at Sea?
 #### Report on situation for Afghans in Turkey//What happened in the Aegean last night//& other stories
 
 
-![A Salvamento Maritimo vessel, EP\. Via [Andalucia Informacion](https://andaluciainformacion.es/rota/958598/rescatada-una-patera-con-25-personas-entre-ellas-2-menores-en-aguas-cercanas-a-lanzarote/?fbclid=IwAR2N0Vze_9j9jIei0BYQTEDeT8hTWFQDjIxDVpHTKO5hw48zLG_TVsDMjqw)](assets/9966da42f48c/0*SvLlocsBYyg_jxVR.jpg)
+![A Salvamento Maritimo vessel, EP\. Via [Andalucia Informacion](https://andaluciainformacion.es/rota/958598/rescatada-una-patera-con-25-personas-entre-ellas-2-menores-en-aguas-cercanas-a-lanzarote/?fbclid=IwAR2N0Vze_9j9jIei0BYQTEDeT8hTWFQDjIxDVpHTKO5hw48zLG_TVsDMjqw)](../assets/9966da42f48c/0*SvLlocsBYyg_jxVR.jpg)
 
 A Salvamento Maritimo vessel, EP\. Via [Andalucia Informacion](https://andaluciainformacion.es/rota/958598/rescatada-una-patera-con-25-personas-entre-ellas-2-menores-en-aguas-cercanas-a-lanzarote/?fbclid=IwAR2N0Vze_9j9jIei0BYQTEDeT8hTWFQDjIxDVpHTKO5hw48zLG_TVsDMjqw)
 #### FEATURE

@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Violent year for refugees at the EU borders
+title: "AYS SPECIAL: Violent year for refugees at the EU borders"
 author: Are You Syrious?
 date: 2018-12-31T08:46:55.479+0000
 last_modified_at: 2018-12-31T08:46:55.479+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [refugees,border-violence,special,bosnia-and-herzegovina,european-union]
 description: Velika Kladuša, Bosnia and Herzegovina —  Hundreds of people passed through 2018 sleeping under plastic sheet shelters in north-western…
 image:
-  path: assets/c1def23f7173/1*0CiNgSbYuvty2SxOSXtkBQ.jpeg
+  path: ../assets/c1def23f7173/1*0CiNgSbYuvty2SxOSXtkBQ.jpeg
 ---
 
 ### AYS SPECIAL: **Violent year for refugees at the EU borders**
 
 
-![A man wrapping himself into a blanket to keep warm in the makeshift Trnovi camp that lies just on the northern Bosnian border with Croatia\. Photo by Luca Bonaventura](assets/c1def23f7173/1*0CiNgSbYuvty2SxOSXtkBQ.jpeg)
+![A man wrapping himself into a blanket to keep warm in the makeshift Trnovi camp that lies just on the northern Bosnian border with Croatia\. Photo by Luca Bonaventura](../assets/c1def23f7173/1*0CiNgSbYuvty2SxOSXtkBQ.jpeg)
 
 A man wrapping himself into a blanket to keep warm in the makeshift Trnovi camp that lies just on the northern Bosnian border with Croatia\. Photo by Luca Bonaventura
 
@@ -22,7 +22,7 @@ A man wrapping himself into a blanket to keep warm in the makeshift Trnovi camp 
 _“I hate this sound,”_ said Farhan \(27, Algeria\), pointing at a helicopter flying under the spring sky above the camp\. “ _My heartbeat always speeds up and I get flashbacks of the “game”; walking in a forest in Croatia and trying to cross to Italy\. I never reached, just got beaten and robbed by Croatian police and ended up back here\. But they can beat me again, I will never stop trying because I have no other choice; walk or die\.”_
 
 
-![For many, border crossing games ended up deadly while they drown in a river or froze to death\. Most deaths remain undetected or ignored by authorities\. Those detected are often buried without names along the Balkan route, like a 19 years old Chakib from Algeria who was buried in Zvornik\. Photo by Luca Bonaventura](assets/c1def23f7173/1*55dLTui-iuhgrNKSDaf6Kg.jpeg)
+![For many, border crossing games ended up deadly while they drown in a river or froze to death\. Most deaths remain undetected or ignored by authorities\. Those detected are often buried without names along the Balkan route, like a 19 years old Chakib from Algeria who was buried in Zvornik\. Photo by Luca Bonaventura](../assets/c1def23f7173/1*55dLTui-iuhgrNKSDaf6Kg.jpeg)
 
 For many, border crossing games ended up deadly while they drown in a river or froze to death\. Most deaths remain undetected or ignored by authorities\. Those detected are often buried without names along the Balkan route, like a 19 years old Chakib from Algeria who was buried in Zvornik\. Photo by Luca Bonaventura
 
@@ -35,7 +35,7 @@ Violent push\-backs are the product of a border doctrine which systematically de
 _“After every hit he was laughing\. I was begging them, please, I am alone woman, just with my son\. I need your country to help me\!”_ she said while showing the bruises and scratches around her body and crying\.
 
 
-![Fatima sitting in her tent in the Bosnian makeshift camp Trnovi, after she and her son were push\-back from Croatia\. Her 15 years old son lying next to her is what kept her walking towards Europe\. Photo by Enzo Tomasiello](assets/c1def23f7173/1*gitQduqORUz4pjRMH3jtHA.jpeg)
+![Fatima sitting in her tent in the Bosnian makeshift camp Trnovi, after she and her son were push\-back from Croatia\. Her 15 years old son lying next to her is what kept her walking towards Europe\. Photo by Enzo Tomasiello](../assets/c1def23f7173/1*gitQduqORUz4pjRMH3jtHA.jpeg)
 
 Fatima sitting in her tent in the Bosnian makeshift camp Trnovi, after she and her son were push\-back from Croatia\. Her 15 years old son lying next to her is what kept her walking towards Europe\. Photo by Enzo Tomasiello
 
@@ -50,7 +50,7 @@ After each violent episode at the border, people return with new bruises, fractu
 Some have reported being pushed twenty or thirty times in 2018 alone\.
 
 
-![Men leaving for their next game after the first snow fell in Velika Kladuša\. Photo by Luca Bonaventura](assets/c1def23f7173/1*gAC8qXTWn-y-nlIVkscMlw.jpeg)
+![Men leaving for their next game after the first snow fell in Velika Kladuša\. Photo by Luca Bonaventura](../assets/c1def23f7173/1*gAC8qXTWn-y-nlIVkscMlw.jpeg)
 
 Men leaving for their next game after the first snow fell in Velika Kladuša\. Photo by Luca Bonaventura
 
@@ -65,7 +65,7 @@ EU support has also arrived on the other side of the border, in Bosnia\. In 2018
 In December, the makeshift Trnovi camp was demolished and its residents were given the option to move to the newly opened [Miral accommodation centre\.](ays-daily-digest-26-12-2018-humiliating-living-conditions-in-iom-run-centre-in-bosnia-174c30250862) Many viewed this camp with apprehension, given its reputation for no privacy and lack of autonomy, leading to inter\-communal violence\. Instead, around 200 moved to abandoned houses in town\.
 
 
-![The makeshift camp in Trnovi has been fully demolished 5 December 2018 and its last inhabitants have been encouraged to leave to newly opened accommodation centre Miral\. Photo by Luca Bonaventura](assets/c1def23f7173/1*oqp6ElCcSFZnuyBGfJbl6g.jpeg)
+![The makeshift camp in Trnovi has been fully demolished 5 December 2018 and its last inhabitants have been encouraged to leave to newly opened accommodation centre Miral\. Photo by Luca Bonaventura](../assets/c1def23f7173/1*oqp6ElCcSFZnuyBGfJbl6g.jpeg)
 
 The makeshift camp in Trnovi has been fully demolished 5 December 2018 and its last inhabitants have been encouraged to leave to newly opened accommodation centre Miral\. Photo by Luca Bonaventura
 
@@ -78,7 +78,7 @@ The plan of violent Fortress Europe started already in 2016 when Hungary and Bul
 But Europe should ask now, whether the real threat is an asylum seeker in need of help or brutal and militarised border?
 
 
-![Group of men from Algeria remain living in privacy of abandoned house in Velika Kladuš\. They want to have a rest before they try to walk again to reach their destination in Europe\. Photo by Luca Bonaventura](assets/c1def23f7173/1*G_rcdCLC55f-5VSi09WaPw.jpeg)
+![Group of men from Algeria remain living in privacy of abandoned house in Velika Kladuš\. They want to have a rest before they try to walk again to reach their destination in Europe\. Photo by Luca Bonaventura](../assets/c1def23f7173/1*G_rcdCLC55f-5VSi09WaPw.jpeg)
 
 Group of men from Algeria remain living in privacy of abandoned house in Velika Kladuš\. They want to have a rest before they try to walk again to reach their destination in Europe\. Photo by Luca Bonaventura
 

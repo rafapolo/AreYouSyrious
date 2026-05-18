@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [spain,greece,covid-19,refugees,digest]
 description: mental health crisis on Greek islands in numbers // update on police conduct on French-Italian border // update on Italian new decrees and…
 image:
-  path: assets/5d218838c94c/1*t3TO1J-67x-WNwgAqlmGeQ.jpeg
+  path: ../assets/5d218838c94c/1*t3TO1J-67x-WNwgAqlmGeQ.jpeg
 ---
 
 ### AYS Daily Digest 22/12/20 Over 10,000 people arrived to Canary Islands since Nov\. 1st
@@ -15,7 +15,7 @@ image:
 _Mental health crisis on Greek islands in numbers // update on police conduct on French\-Italian border // update on Italian new decrees and pushbacks // and more…_
 
 
-![Arrivals in November\. Photo by [QUIQUE CURBELO/EPA](https://www.thetimes.co.uk/article/migrant-surge-stretches-canary-islands-t9ftpjnps)](assets/5d218838c94c/1*t3TO1J-67x-WNwgAqlmGeQ.jpeg)
+![Arrivals in November\. Photo by [QUIQUE CURBELO/EPA](https://www.thetimes.co.uk/article/migrant-surge-stretches-canary-islands-t9ftpjnps)](../assets/5d218838c94c/1*t3TO1J-67x-WNwgAqlmGeQ.jpeg)
 
 Arrivals in November\. Photo by [QUIQUE CURBELO/EPA](https://www.thetimes.co.uk/article/migrant-surge-stretches-canary-islands-t9ftpjnps)
 ### FEATURE: Over 10,000 people have arrived on the Canary Islands in November and December so far
@@ -49,7 +49,7 @@ The International Rescue Committee’s report last week showed that since March 
 
 
 
-![“The European Commission will allocate 25 million euros to Greece under the Emergency Support Instrument to support medical services in migrant reception facilities on the Greek mainland and on the islands, it said on Tuesday…The funding will reinforce the medical infrastructure in the reception centres and support public hospitals in host communities in Greece which facing increased demand due to the coronavirus pandemic\.” Photo by [AMNA Greece](https://www.amna.gr/en/article/515541/EU-approves-more-funding-to-support-medical-services-at-reception-facilities-in-Greece)](assets/5d218838c94c/1*xuvtybLfqI4jNfE-o0TOcQ.png)
+![“The European Commission will allocate 25 million euros to Greece under the Emergency Support Instrument to support medical services in migrant reception facilities on the Greek mainland and on the islands, it said on Tuesday…The funding will reinforce the medical infrastructure in the reception centres and support public hospitals in host communities in Greece which facing increased demand due to the coronavirus pandemic\.” Photo by [AMNA Greece](https://www.amna.gr/en/article/515541/EU-approves-more-funding-to-support-medical-services-at-reception-facilities-in-Greece)](../assets/5d218838c94c/1*xuvtybLfqI4jNfE-o0TOcQ.png)
 
 “The European Commission will allocate 25 million euros to Greece under the Emergency Support Instrument to support medical services in migrant reception facilities on the Greek mainland and on the islands, it said on Tuesday…The funding will reinforce the medical infrastructure in the reception centres and support public hospitals in host communities in Greece which facing increased demand due to the coronavirus pandemic\.” Photo by [AMNA Greece](https://www.amna.gr/en/article/515541/EU-approves-more-funding-to-support-medical-services-at-reception-facilities-in-Greece)
 ### 11,000 to face homelessness this winter due to the global pandemic
@@ -70,7 +70,7 @@ Choose Love and 73 other organizations have signed a statement regarding homeles
 
 
 
-[![Οι άθλιες συνθήκες διαβίωσης για τους δεκάδες πρόσφυγες και μετανάστες στα πρώην σφαγεία στη Ρόδο](assets/5d218838c94c/df58_hqdefault.jpg "Οι άθλιες συνθήκες διαβίωσης για τους δεκάδες πρόσφυγες και μετανάστες στα πρώην σφαγεία στη Ρόδο")](https://www.youtube.com/watch?v=Mmo5VkbZ37s)
+[![Οι άθλιες συνθήκες διαβίωσης για τους δεκάδες πρόσφυγες και μετανάστες στα πρώην σφαγεία στη Ρόδο](../assets/5d218838c94c/df58_hqdefault.jpg "Οι άθλιες συνθήκες διαβίωσης για τους δεκάδες πρόσφυγες και μετανάστες στα πρώην σφαγεία στη Ρόδο")](https://www.youtube.com/watch?v=Mmo5VkbZ37s)
 
 #### ITALY
 
@@ -81,7 +81,7 @@ A new security degree was passed on Friday that modifies some decrees written in
 
 
 
-![**Update on Italian\-French border from last week\. Kesha Niya provides a very comprehensive and long overview\. Read it in full here but for now here is an excerpt:** “It is official now: The procedure which French police has been following during the last years has been declared illegal\. Since migration flows started to go trough Italy to France, the usual way to reject people by means of the French border police was to stop them from entering France, take them on the French side in trains, in the mountains or on the streets of the cities until 30 km after the border \(Menton, Monaco, Nice,…\) Then they are put in a “container” over night or for several hours during the day and finally sent back to Italy with the “refus d’entrée” \(a paper just saying that entry is denied to this person\) \. **The Conseil d’Etat, the highest court in France, now decided on the 27th of November that this in fact is not following European laws, as the concerned border is an internal border of the Schengen countries, not external\. This means that preventing people from crossing through this procedure \(handing out a refus d’entrée without any further communication or the possibility to ask for asylum\) has no legal ground, and never had\.** Since this day, we expected changes to appear in the way state forces are working and reacting — they did not\. We started to collect photos of the “refus d’entrée” that people got since the court decided over the illegal status of these documents\. They have not decreased or changed, and neither has the controls of people on their way\. We are keeping track of this treatment, so that there will be proves for a legal action against the French border police in the future\.” Photo by [Kesha Niya](https://www.facebook.com/KeshaNiyaProject/posts/1410941182584078)](assets/5d218838c94c/1*M49pMI4vhGGzAlK7O9sWJw.jpeg)
+![**Update on Italian\-French border from last week\. Kesha Niya provides a very comprehensive and long overview\. Read it in full here but for now here is an excerpt:** “It is official now: The procedure which French police has been following during the last years has been declared illegal\. Since migration flows started to go trough Italy to France, the usual way to reject people by means of the French border police was to stop them from entering France, take them on the French side in trains, in the mountains or on the streets of the cities until 30 km after the border \(Menton, Monaco, Nice,…\) Then they are put in a “container” over night or for several hours during the day and finally sent back to Italy with the “refus d’entrée” \(a paper just saying that entry is denied to this person\) \. **The Conseil d’Etat, the highest court in France, now decided on the 27th of November that this in fact is not following European laws, as the concerned border is an internal border of the Schengen countries, not external\. This means that preventing people from crossing through this procedure \(handing out a refus d’entrée without any further communication or the possibility to ask for asylum\) has no legal ground, and never had\.** Since this day, we expected changes to appear in the way state forces are working and reacting — they did not\. We started to collect photos of the “refus d’entrée” that people got since the court decided over the illegal status of these documents\. They have not decreased or changed, and neither has the controls of people on their way\. We are keeping track of this treatment, so that there will be proves for a legal action against the French border police in the future\.” Photo by [Kesha Niya](https://www.facebook.com/KeshaNiyaProject/posts/1410941182584078)](../assets/5d218838c94c/1*M49pMI4vhGGzAlK7O9sWJw.jpeg)
 
 **Update on Italian\-French border from last week\. Kesha Niya provides a very comprehensive and long overview\. Read it in full here but for now here is an excerpt:** “It is official now: The procedure which French police has been following during the last years has been declared illegal\. Since migration flows started to go trough Italy to France, the usual way to reject people by means of the French border police was to stop them from entering France, take them on the French side in trains, in the mountains or on the streets of the cities until 30 km after the border \(Menton, Monaco, Nice,…\) Then they are put in a “container” over night or for several hours during the day and finally sent back to Italy with the “refus d’entrée” \(a paper just saying that entry is denied to this person\) \. **The Conseil d’Etat, the highest court in France, now decided on the 27th of November that this in fact is not following European laws, as the concerned border is an internal border of the Schengen countries, not external\. This means that preventing people from crossing through this procedure \(handing out a refus d’entrée without any further communication or the possibility to ask for asylum\) has no legal ground, and never had\.** Since this day, we expected changes to appear in the way state forces are working and reacting — they did not\. We started to collect photos of the “refus d’entrée” that people got since the court decided over the illegal status of these documents\. They have not decreased or changed, and neither has the controls of people on their way\. We are keeping track of this treatment, so that there will be proves for a legal action against the French border police in the future\.” Photo by [Kesha Niya](https://www.facebook.com/KeshaNiyaProject/posts/1410941182584078)
 #### GERMANY
@@ -105,11 +105,11 @@ Social Democrats’ human rights spokesman, Frank Schwabe said “The Ministry o
 #### FRANCE
 
 
-![](assets/5d218838c94c/1*p7uWoobIsWEJYiu4xehjNg.jpeg)
+![](../assets/5d218838c94c/1*p7uWoobIsWEJYiu4xehjNg.jpeg)
 
 
 
-![“Today at Grande Synthe **the 83rd forced eviction of 2020** took place: **around 100 tents destroyed** \. These evictions cannot be dissociated from police violence: they participate in the exhaustion \+ the physical & moral harassment that people suffer at the border\.” Info by [Human Rights Observers](https://twitter.com/HumanRightsObs/status/1341134260607070212) , photos by Mobile Refugee Support](assets/5d218838c94c/1*c2kzh-xbh30IYyvW3eyjdQ.jpeg)
+![“Today at Grande Synthe **the 83rd forced eviction of 2020** took place: **around 100 tents destroyed** \. These evictions cannot be dissociated from police violence: they participate in the exhaustion \+ the physical & moral harassment that people suffer at the border\.” Info by [Human Rights Observers](https://twitter.com/HumanRightsObs/status/1341134260607070212) , photos by Mobile Refugee Support](../assets/5d218838c94c/1*c2kzh-xbh30IYyvW3eyjdQ.jpeg)
 
 “Today at Grande Synthe **the 83rd forced eviction of 2020** took place: **around 100 tents destroyed** \. These evictions cannot be dissociated from police violence: they participate in the exhaustion \+ the physical & moral harassment that people suffer at the border\.” Info by [Human Rights Observers](https://twitter.com/HumanRightsObs/status/1341134260607070212) , photos by Mobile Refugee Support
 
@@ -120,7 +120,7 @@ News about the decision to close the border from France to the UK, due to a more
 #### EU
 
 
-[![Who Does the EU's Migration Pact Really Benefit?](assets/5d218838c94c/9e4a_hqdefault.jpg "Who Does the EU's Migration Pact Really Benefit?")](https://www.youtube.com/watch?v=wd3urbZdYe4)
+[![Who Does the EU's Migration Pact Really Benefit?](../assets/5d218838c94c/9e4a_hqdefault.jpg "Who Does the EU's Migration Pact Really Benefit?")](https://www.youtube.com/watch?v=wd3urbZdYe4)
 
 #### WORTH READING
 - [Politics\.co\.uk](https://www.politics.co.uk/comment-analysis/2020/12/22/migration-the-missing-media-voice?fbclid=IwAR0dWGLkl-zMfmfOHUCWQEwPOfa_Tu9LUYw_T3Y8H3vyJFNI6Z33bK9rmPY) just published **Migration: The missing media voice\.** “ _In a society where two\-thirds of migrants say that media and political discourse has an impact on their sense of belonging, it’s important that the media landscape is constantly scrutinised, including the question of who gets to speak_ \.”

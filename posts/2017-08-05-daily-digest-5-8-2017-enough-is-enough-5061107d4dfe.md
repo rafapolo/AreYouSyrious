@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 05/08/17: Enough is enough!
+title: "AYS Daily Digest 05/08/17: Enough is enough!"
 author: Are You Syrious?
 date: 2017-08-05T22:22:13.634+0100
 last_modified_at: 2017-08-12T19:26:17.860+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,moria,lesvos,solidarity,hungary]
 description: People seeking refuge and freedom surviving in European limbo / Solidarity with people in detention in Greece, across Europe / European…
 image:
-  path: assets/5061107d4dfe/1*tYwwUjtJ3oqtcwsjO2UZ3w.jpeg
+  path: ../assets/5061107d4dfe/1*tYwwUjtJ3oqtcwsjO2UZ3w.jpeg
 ---
 
 ### AYS Daily Digest 05/08/17: Enough is enough\!
@@ -15,7 +15,7 @@ image:
 _People seeking refuge and freedom surviving in European limbo / Solidarity with people in detention in Greece, across Europe / European Absurdistan — fascists act freely while rescuers scrutinized / About 700 people in Calais / Make shift camp with over 700 people in Mezt / And more news…_
 
 
-![It is one of the basic human right\. Yet, so many people are in detentions or just left in limbo because they dared to ask for asylum \(Photo by City Plaza Athens\)](assets/5061107d4dfe/1*tYwwUjtJ3oqtcwsjO2UZ3w.jpeg)
+![It is one of the basic human right\. Yet, so many people are in detentions or just left in limbo because they dared to ask for asylum \(Photo by City Plaza Athens\)](../assets/5061107d4dfe/1*tYwwUjtJ3oqtcwsjO2UZ3w.jpeg)
 
 It is one of the basic human right\. Yet, so many people are in detentions or just left in limbo because they dared to ask for asylum \(Photo by City Plaza Athens\)
 ### FEATURE: Stay safe, stay angry, stay united\!
@@ -32,7 +32,7 @@ What remains is for us, the people, to unite in solidarity\. With that idea,
 [No Border Kitchen Lesvos](https://www.facebook.com/NBKLesvos/?hc_ref=ARSuoIi0PhVXWo2ExABoIXAqnmT8MYQDvi0xvED3y2zLmw9ks8oyhdbzE4YxsasJDW8&fref=nf) will join Arash Hampay on his 39th day of hunger strike and protest against arbitrary imprisonment, and dehumanizing treatment of people in detention\. For those in Lesvos, call to join them\.
 
 
-![](assets/5061107d4dfe/1*Wm1RFYnbrGAADje9i-jphg.jpeg)
+![](../assets/5061107d4dfe/1*Wm1RFYnbrGAADje9i-jphg.jpeg)
 
 
 _“Friends and comrades, a reminder to meet together at 5\.30 sharp in Sappho Square or 6\.30, directly in front of Moria, to protest the continued detention of the brave hunger strikers Bahrooz Arash and Khozhin Hossein, and the illicit detention and abuse of all refugees and political prisoners in Lesvos and across the world\.”_
@@ -54,7 +54,7 @@ Absurdistan\.
 [United Rescue Aid](https://www.facebook.com/unitedrescueaid/?hc_ref=ARSyxwrWHWj9t09jCtnlpe9Fbl5yM2RA85EKiU5T-LRiytiHFecqMN4aLI0Snv1MY2M&fref=nf) team remind us one more that that sea rescue is not a crime, but the mandatory duty for all those at the sea\.
 
 
-![Photo by United Rescue Aid\.](assets/5061107d4dfe/1*w4rsLH9FeUNbBHCNxhuk6w.jpeg)
+![Photo by United Rescue Aid\.](../assets/5061107d4dfe/1*w4rsLH9FeUNbBHCNxhuk6w.jpeg)
 
 Photo by United Rescue Aid\.
 
@@ -82,7 +82,7 @@ Meanwhile, North African collective issued an statement against racist ship C\- 
 This is C\-star crew\.
 
 
-[![The Crew of the C-Star](assets/5061107d4dfe/e87d_hqdefault.jpg "The Crew of the C-Star")](http://www.youtube.com/watch?v=8jhdFU-7jsY)
+[![The Crew of the C-Star](../assets/5061107d4dfe/e87d_hqdefault.jpg "The Crew of the C-Star")](http://www.youtube.com/watch?v=8jhdFU-7jsY)
 
 
 _“Their discourse is infused with racist ideology and paranoid delirium, behind the humanitarian screen of pretending to save migrants from drowning; according to them Europe should be protected from the “invasion”, the “tidal wave of massive immigration”, while Europe is locking itself behind its walls, is restricting the access to visas through degrading processes, and is welcoming or rather tolerating only a small number of refugees on its territory… They try to defy those who cannot have the same freedom of movement or resources with their “Stay at Home” banners\. That’s why we send back to them their slogan: « Defend Europe, Go Home\! You are not welcome here\!” the_ North African collective wrote in their statement calling for a massive mobilization to stop C\-star\.
@@ -128,7 +128,7 @@ Apparently, people who sought international protection more than five years ago,
 [Refugee\.Info team](https://www.facebook.com/refugee.info/?hc_ref=ARSac9jATPz90EoYErUOP262-ylM-r-F3qpzDVXYqUGuDkJBOSMnjRDD3mc_dZBviFM&fref=nf) posted data about the chances for people seeking asylum in Hungary stressing that it is amongst the lowest in Europe\.
 
 
-![](assets/5061107d4dfe/1*GNh4uNJ2b4ve6b1SmiKcNw.jpeg)
+![](../assets/5061107d4dfe/1*GNh4uNJ2b4ve6b1SmiKcNw.jpeg)
 
 
 According to the official data, since the start of this year, only 321 people have been granted protection in Hungary, while 2,417 people have been rejected\. Only 10 people are allowed to enter every day\. They are forced to live in prison like facilities, where they are treated in most degrading way\. And that is the norm in the EU\.
@@ -137,7 +137,7 @@ According to the official data, since the start of this year, only 321 people ha
 In Gorizia people are also uniting and trying to find solution to present sinking of the Europe\. As we were informed, people gathered and they will continue to meet and try to coordinate the work on the ground\.
 
 
-![Photo of Gorizia last night, by One Bridge to Idomeni](assets/5061107d4dfe/1*nQ1fXqsd5yN8SVlwiDj_aw.jpeg)
+![Photo of Gorizia last night, by One Bridge to Idomeni](../assets/5061107d4dfe/1*nQ1fXqsd5yN8SVlwiDj_aw.jpeg)
 
 Photo of Gorizia last night, by One Bridge to Idomeni
 ### France

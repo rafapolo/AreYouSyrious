@@ -1,13 +1,13 @@
 ---
-title: AYS News Digest 9/11/2022: Rescue ships finally permitted to disembark passengers
+title: "AYS News Digest 9/11/2022: Rescue ships finally permitted to disembark passengers"
 author: Are You Syrious?
 date: 2022-11-10T17:44:30.004+0000
 last_modified_at: 2022-11-10T18:05:50.696+0000
 categories: Are You Syrious?
 tags: [digest,newsdigest,asylum-seekers,refugees,pushback]
-description: Polish border guards speak out // Spain demanded to investigate Melilla deaths // Investigation called for: UK Heathrow Detention Camps //…
+description: "Polish border guards speak out // Spain demanded to investigate Melilla deaths // Investigation called for: UK Heathrow Detention Camps //…"
 image:
-  path: assets/be88e1825115/0*gy3z1f1c98bUeQZ_
+  path: ../assets/be88e1825115/0*gy3z1f1c98bUeQZ_
 ---
 
 ### AYS News Digest 9/11/2022: Rescue ships finally permitted to disembark passengers
@@ -15,7 +15,7 @@ image:
 #### FEATURE
 
 
-![Photo Credit: [SOS Humanity via Twitter](https://twitter.com/soshumanity_en/status/1590118171755040768/photo/2)](assets/be88e1825115/0*gy3z1f1c98bUeQZ_)
+![Photo Credit: [SOS Humanity via Twitter](https://twitter.com/soshumanity_en/status/1590118171755040768/photo/2)](../assets/be88e1825115/0*gy3z1f1c98bUeQZ_)
 
 Photo Credit: [SOS Humanity via Twitter](https://twitter.com/soshumanity_en/status/1590118171755040768/photo/2)
 #### Rescue ships finally permitted to disembark passengers

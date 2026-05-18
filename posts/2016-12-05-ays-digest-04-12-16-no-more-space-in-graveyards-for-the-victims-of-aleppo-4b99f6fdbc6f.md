@@ -1,5 +1,5 @@
 ---
-title: AYS DIGEST 04/12/16: No more space in graveyards for the victims of Aleppo
+title: "AYS DIGEST 04/12/16: No more space in graveyards for the victims of Aleppo"
 author: Are You Syrious?
 date: 2016-12-05T04:44:31.761+0000
 last_modified_at: 2016-12-05T10:49:46.154+0000
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,greece,france]
 description: Terrible conditions at Serres camp; Two women die of hypothermia after being rescued; New camp in Paris grows; UN to make biggest aid…
 image:
-  path: assets/4b99f6fdbc6f/1*Nu04P1P8AbTdC1aR_l3MBg.jpeg
+  path: ../assets/4b99f6fdbc6f/1*Nu04P1P8AbTdC1aR_l3MBg.jpeg
 ---
 
 ### AYS DIGEST 04/12/16: No more space in graveyards for the victims of Aleppo
 #### Terrible conditions at Serres camp; Two women die of hypothermia after being rescued; New camp in Paris grows; UN to make biggest aid appeal ever; Pro\-refugee demonstrations across Europe; More requests for donations from different groups
 
 
-![Unhealthy conditions and Serres camp](assets/4b99f6fdbc6f/1*Nu04P1P8AbTdC1aR_l3MBg.jpeg)
+![Unhealthy conditions and Serres camp](../assets/4b99f6fdbc6f/1*Nu04P1P8AbTdC1aR_l3MBg.jpeg)
 
 Unhealthy conditions and Serres camp
 ### Syria
@@ -55,7 +55,7 @@ Médecins Sans Frontières bring us a story of another innocent trapped in Alepp
 ### Mediterranean
 
 
-![Refugees being rescued](assets/4b99f6fdbc6f/1*fksLqU72DYqdSHVUKzTpcA.jpeg)
+![Refugees being rescued](../assets/4b99f6fdbc6f/1*fksLqU72DYqdSHVUKzTpcA.jpeg)
 
 Refugees being rescued
 
@@ -69,7 +69,7 @@ The camps of Greece are once more news for the wrong reasons\. This time Serres 
 It is reported now as a serious health hazard, there is a large puddle of grey water coming from the bathrooms that everyone walks through to reach the tent area and it has also reached the children’s play tent making it unusable\. The bathrooms are said to be also not usable\.
 
 
-![Photo by Shahab Kalo](assets/4b99f6fdbc6f/1*Nu04P1P8AbTdC1aR_l3MBg.jpeg)
+![Photo by Shahab Kalo](../assets/4b99f6fdbc6f/1*Nu04P1P8AbTdC1aR_l3MBg.jpeg)
 
 Photo by Shahab Kalo
 
@@ -80,7 +80,7 @@ This camp, one of the most northern in Greece accommodates almost 500 people and
 Some refugees have even said they might leave the camp in protest of the poor conditions\.
 
 
-![Photo by Shahab Kalo](assets/4b99f6fdbc6f/1*fYrc61_fUn3DAdgzBc297A.jpeg)
+![Photo by Shahab Kalo](../assets/4b99f6fdbc6f/1*fYrc61_fUn3DAdgzBc297A.jpeg)
 
 Photo by Shahab Kalo
 #### Lesvos
@@ -145,7 +145,7 @@ Other
 The temperatures on the Serbian\-Hungarian borders will drop to \-7 degrees tonight\. There are still dozens of refugee families living out there along the fence, just in camping tents\. It is one of our most important tasks — to help in these freezing days to people fleeing war, especially children\. In cooperation with [SIRIUS\.HELP](https://www.facebook.com/sirius.help/) , volunteers are every week distributing food, clothes, shoes and wood brickets in the transit zones\. Please consider contributing\.
 
 
-![Volunteers from [Fresh response](https://www.facebook.com/freshresponseserbia/)](assets/4b99f6fdbc6f/1*dRThzbYSjXJoCZ79ocOQzA.jpeg)
+![Volunteers from [Fresh response](https://www.facebook.com/freshresponseserbia/)](../assets/4b99f6fdbc6f/1*dRThzbYSjXJoCZ79ocOQzA.jpeg)
 
 Volunteers from [Fresh response](https://www.facebook.com/freshresponseserbia/)
 
@@ -162,31 +162,31 @@ In Paris the new makeshift camp is growing day by day\. The new camp is at St\. 
 There are now 129 tents with an average of 2 to 3 people in a tent\. Volunteers on the ground will do a more accurate census soon\.
 
 
-![Photo by [kevinWidanel](https://www.facebook.com/muttleydawg)](assets/4b99f6fdbc6f/1*OCOewfFDpK6WwRFDrjXv8A.jpeg)
+![Photo by [kevinWidanel](https://www.facebook.com/muttleydawg)](../assets/4b99f6fdbc6f/1*OCOewfFDpK6WwRFDrjXv8A.jpeg)
 
 Photo by [kevinWidanel](https://www.facebook.com/muttleydawg)
 
 
-![Photo by [**Agathe Nadimi**](https://www.facebook.com/agathe.nadimi)](assets/4b99f6fdbc6f/1*ETao0dnYdtLcyOWqJeRTFA.jpeg)
+![Photo by [**Agathe Nadimi**](https://www.facebook.com/agathe.nadimi)](../assets/4b99f6fdbc6f/1*ETao0dnYdtLcyOWqJeRTFA.jpeg)
 
 Photo by [**Agathe Nadimi**](https://www.facebook.com/agathe.nadimi)
 
 
-![Photo by [**Agathe Nadimi**](https://www.facebook.com/agathe.nadimi)](assets/4b99f6fdbc6f/1*FPDuE9GWU0JbGZ4Xz48hpQ.jpeg)
+![Photo by [**Agathe Nadimi**](https://www.facebook.com/agathe.nadimi)](../assets/4b99f6fdbc6f/1*FPDuE9GWU0JbGZ4Xz48hpQ.jpeg)
 
 Photo by [**Agathe Nadimi**](https://www.facebook.com/agathe.nadimi)
 
 The camp now has a compost toilet\.
 
 
-![Photo by [KevinWidanel](https://www.facebook.com/muttleydawg)](assets/4b99f6fdbc6f/1*hfqmWhiqqxzX_6x7h5HuCg.jpeg)
+![Photo by [KevinWidanel](https://www.facebook.com/muttleydawg)](../assets/4b99f6fdbc6f/1*hfqmWhiqqxzX_6x7h5HuCg.jpeg)
 
 Photo by [KevinWidanel](https://www.facebook.com/muttleydawg)
 
 A Swiss group who were in Dunkirk has been in Paris for a few days now and have been cooking for the camp for the last few days\. They are called [Rastplatz](https://www.facebook.com/rastplatz/?fref=ts) \.
 
 
-![Photo by [KevinWidanel](https://www.facebook.com/muttleydawg)](assets/4b99f6fdbc6f/1*vNMEY5nDxZW5xd0pTqe42A.jpeg)
+![Photo by [KevinWidanel](https://www.facebook.com/muttleydawg)](../assets/4b99f6fdbc6f/1*vNMEY5nDxZW5xd0pTqe42A.jpeg)
 
 Photo by [KevinWidanel](https://www.facebook.com/muttleydawg)
 
@@ -209,7 +209,7 @@ There were, around Europe, several demonstrations and protests against the poor 
 Activists protested against the most recent wall built in Calais with the purpose of trying to stop refugees from reaching the UK\.
 
 
-![Photo by [**Rosie Strickland**](https://www.facebook.com/profile.php?id=582590426)](assets/4b99f6fdbc6f/1*Rr-FJSkofbc6gjWvo6wQDA.jpeg)
+![Photo by [**Rosie Strickland**](https://www.facebook.com/profile.php?id=582590426)](../assets/4b99f6fdbc6f/1*Rr-FJSkofbc6gjWvo6wQDA.jpeg)
 
 Photo by [**Rosie Strickland**](https://www.facebook.com/profile.php?id=582590426)
 
@@ -222,14 +222,14 @@ On the other side of the channel, another protest took place in Bedford, site of
 On the 3rd December 2016, nearly two thousand protesters travelled to the isolated site to stand for several hours in the 10th protest organised here by Movement for Justice calling for the closure of Yarl’s Wood and all immigration detention centres, waving and shouting support to the women asylum seekers held indefinitely inside Yarl’s Wood\.
 
 
-![Photo by [**No Border Network**](https://www.facebook.com/freefighters/)](assets/4b99f6fdbc6f/1*0yQ0ZjVG0n3fjwNSiQaMWQ.jpeg)
+![Photo by [**No Border Network**](https://www.facebook.com/freefighters/)](../assets/4b99f6fdbc6f/1*0yQ0ZjVG0n3fjwNSiQaMWQ.jpeg)
 
 Photo by [**No Border Network**](https://www.facebook.com/freefighters/)
 
 They responded enthusiastically by shouting and waving back from the prison blocks behind the high fence, hindered by windows that open only a small crack\.
 
 
-![Photo by [**No Border Network**](https://www.facebook.com/freefighters/)](assets/4b99f6fdbc6f/1*jvW9XGiwfYwhioYmVoRlLA.jpeg)
+![Photo by [**No Border Network**](https://www.facebook.com/freefighters/)](../assets/4b99f6fdbc6f/1*jvW9XGiwfYwhioYmVoRlLA.jpeg)
 
 Photo by [**No Border Network**](https://www.facebook.com/freefighters/)
 #### In Vienna many people held a demonstration in support of the Syrian people\.
@@ -242,7 +242,7 @@ Photo by [**No Border Network**](https://www.facebook.com/freefighters/)
 
 
 
-![Photo by [**Free Syria — Salam**](https://www.facebook.com/Free.SyriaSalam/)](assets/4b99f6fdbc6f/1*QfBBS8Jni72dgOSZYQLpWA.jpeg)
+![Photo by [**Free Syria — Salam**](https://www.facebook.com/Free.SyriaSalam/)](../assets/4b99f6fdbc6f/1*QfBBS8Jni72dgOSZYQLpWA.jpeg)
 
 Photo by [**Free Syria — Salam**](https://www.facebook.com/Free.SyriaSalam/)
 ### Calls for help

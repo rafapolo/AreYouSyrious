@@ -1,5 +1,5 @@
 ---
-title: AYS Special from France under Lockdown: Refugees systematically failed by authorities
+title: "AYS Special from France under Lockdown: Refugees systematically failed by authorities"
 author: Are You Syrious?
 date: 2020-06-06T12:35:33.489+0100
 last_modified_at: 2020-06-06T12:35:33.489+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [special,france,refugees,europe,migration]
 description: Abandoned to the risk of Coronavirus, France thoroughly failed to provide a safe environment for people on the move throughout two months…
 image:
-  path: assets/78835a8de472/1*R8dH062tlEcI7CU5uR5xmg.jpeg
+  path: ../assets/78835a8de472/1*R8dH062tlEcI7CU5uR5xmg.jpeg
 ---
 
 ### AYS Special from France under Lockdown: Refugees systematically failed by authorities
 #### Abandoned to the risk of Coronavirus, France thoroughly failed to provide a safe environment for people on the move throughout two months of lockdown\. With no shelter and nowhere to go, they still are facing the “invisible enemy”, as President Macron has called it, without sufficient protection
 
 
-![Photo courtesy of Collective Aid in Calais](assets/78835a8de472/1*R8dH062tlEcI7CU5uR5xmg.jpeg)
+![Photo courtesy of Collective Aid in Calais](../assets/78835a8de472/1*R8dH062tlEcI7CU5uR5xmg.jpeg)
 
 Photo courtesy of Collective Aid in Calais
 
@@ -73,7 +73,7 @@ Tensions among the people escalated and culminated in an attack on police in [Ca
 The constant upheaval and lack of consistency makes it obviously difficult to enforce social distancing or any kind of preventative measures\. There have been revolts in several French detention centres, with one man testing positive for the virus\. “The health and life of the people detained are endangered in these centres, where the health measures for prevention and protection against Covid\-19 are not, and cannot be put in place” says one NGO, which exercised its right to withdraw last month to protest against the continued detention against the backdrop of the pandemic, but which continues to operate “remotely”\.
 
 
-![Photo courtesy of Collective Aid in Calais](assets/78835a8de472/1*TgwSGxh53g4LvFwi7l4ktg.jpeg)
+![Photo courtesy of Collective Aid in Calais](../assets/78835a8de472/1*TgwSGxh53g4LvFwi7l4ktg.jpeg)
 
 Photo courtesy of Collective Aid in Calais
 ### **What are the NGOs doing?**

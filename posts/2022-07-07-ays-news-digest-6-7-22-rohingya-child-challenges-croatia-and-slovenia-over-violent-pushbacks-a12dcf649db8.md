@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 6/7/22: Rohingya child challenges Croatia and Slovenia over violent pushbacks
+title: "AYS News Digest 6/7/22: Rohingya child challenges Croatia and Slovenia over violent pushbacks"
 author: Are You Syrious?
 date: 2022-07-07T20:11:13.242+0100
 last_modified_at: 2022-07-07T20:11:13.242+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,croatia,europe,migration]
 description: Hungary remains firm they only respect Ukranians’ right to seek protection, and nobody else’s / While a child suees Croatia, its…
 image:
-  path: assets/a12dcf649db8/1*_jxv4rN7VF_q4KqWqaYyTw.jpeg
+  path: ../assets/a12dcf649db8/1*_jxv4rN7VF_q4KqWqaYyTw.jpeg
 ---
 
 ### AYS News Digest 6/7/22: Rohingya child challenges Croatia and Slovenia over violent pushbacks
 #### Hungary remains firm they only respect Ukranians’ right to seek protection, and nobody else’s / While a child suees Croatia, its ‘independent border mechanism’ finds no wrongdoings / The huge issue of GPS tagging in the case of UK / Geermany’s capital left without accommodation / & more news, information and good reads for you to share and read
 
 
-![](assets/a12dcf649db8/1*_jxv4rN7VF_q4KqWqaYyTw.jpeg)
+![](../assets/a12dcf649db8/1*_jxv4rN7VF_q4KqWqaYyTw.jpeg)
 
 #### FEATURE
 
@@ -96,7 +96,7 @@ _Greek authorities abduct refugees_ _on the Greek coast_ _and then throw them in
 However, after the recent court decisions, he posed the question to them — who is now the one defaming thee country abroad?
 
 
-![](assets/a12dcf649db8/0*Bs-a8zN4sLEIU-BB)
+![](../assets/a12dcf649db8/0*Bs-a8zN4sLEIU-BB)
 
 
 

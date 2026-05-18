@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 15/07/17: Dangerous game for returnees to Afghanistan
+title: "AYS Daily Digest 15/07/17: Dangerous game for returnees to Afghanistan"
 author: Are You Syrious?
 date: 2017-07-15T22:21:59.225+0100
 last_modified_at: 2017-07-17T10:27:38.554+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,sweden,afghanistan,solidarity,human-rights]
 description: New volunteer opportunities in Turkey / Moria being rebuilt after fire / Call for solidarity with refugee from Uganda / More police…
 image:
-  path: assets/5f4f778a46a7/1*LWXDcKeVwnqrFNTvEchLFw.jpeg
+  path: ../assets/5f4f778a46a7/1*LWXDcKeVwnqrFNTvEchLFw.jpeg
 ---
 
 ### AYS Daily Digest 15/07/17: Dangerous game for returnees to Afghanistan
@@ -15,7 +15,7 @@ image:
 _New volunteer opportunities in Turkey / Moria being rebuilt after fire / Call for solidarity with refugee from Uganda / More police violence at Serbian\-Croatian border / Solidarity in Spain against EU treatment of refugees / More women and children in extreme need in Calais and Dunkirk / Danish rally around 20\-year\-old deportee / And more news…_
 
 
-![Photo credit: Causascomuns](assets/5f4f778a46a7/1*LWXDcKeVwnqrFNTvEchLFw.jpeg)
+![Photo credit: Causascomuns](../assets/5f4f778a46a7/1*LWXDcKeVwnqrFNTvEchLFw.jpeg)
 
 Photo credit: Causascomuns
 ### FEATURE: Returns from Sweden to Afghanistan present dangerous game to refugees\.
@@ -85,7 +85,7 @@ Contact [Tamer Altaiar](https://www.facebook.com/ishak.altaiar?hc_ref=ARQSqy8zqs
 Millions of Syrian refugees remain in Turkey and Lebanon, therefore support for them is also crucial, albeit often overlooked\.
 
 
-![Photo credit: Tamer Altaier](assets/5f4f778a46a7/1*g4cecZbNwlSbj_qSSNIp1Q.jpeg)
+![Photo credit: Tamer Altaier](../assets/5f4f778a46a7/1*g4cecZbNwlSbj_qSSNIp1Q.jpeg)
 
 Photo credit: Tamer Altaier
 ### GREECE
@@ -103,12 +103,12 @@ New registrations for the 15th:
 Photos of the aftermath of the large fire in Moria camp\. There was restoration and rebuilding\.
 
 
-![Photo credit: ‎ [**مهاجر immigrant**](https://www.facebook.com/riadh04/?hc_ref=ARTDNVclRDp_0wZWfwSt0iZTm3k0yeHxd06s7horWfhCtT5DcQdx1FKwLZWbeTc3UAg)](assets/5f4f778a46a7/1*G6yLaZqp_PyLia5x57Srig.jpeg)
+![Photo credit: ‎ [**مهاجر immigrant**](https://www.facebook.com/riadh04/?hc_ref=ARTDNVclRDp_0wZWfwSt0iZTm3k0yeHxd06s7horWfhCtT5DcQdx1FKwLZWbeTc3UAg)](../assets/5f4f778a46a7/1*G6yLaZqp_PyLia5x57Srig.jpeg)
 
 Photo credit: ‎ [**مهاجر immigrant**](https://www.facebook.com/riadh04/?hc_ref=ARTDNVclRDp_0wZWfwSt0iZTm3k0yeHxd06s7horWfhCtT5DcQdx1FKwLZWbeTc3UAg)
 
 
-![Photo credit: ‎ [**مهاجر immigrant**](https://www.facebook.com/riadh04/?hc_ref=ARTDNVclRDp_0wZWfwSt0iZTm3k0yeHxd06s7horWfhCtT5DcQdx1FKwLZWbeTc3UAg)](assets/5f4f778a46a7/1*Pr2uRdQxfni0i2Tcj0VrRg.jpeg)
+![Photo credit: ‎ [**مهاجر immigrant**](https://www.facebook.com/riadh04/?hc_ref=ARTDNVclRDp_0wZWfwSt0iZTm3k0yeHxd06s7horWfhCtT5DcQdx1FKwLZWbeTc3UAg)](../assets/5f4f778a46a7/1*Pr2uRdQxfni0i2Tcj0VrRg.jpeg)
 
 Photo credit: ‎ [**مهاجر immigrant**](https://www.facebook.com/riadh04/?hc_ref=ARTDNVclRDp_0wZWfwSt0iZTm3k0yeHxd06s7horWfhCtT5DcQdx1FKwLZWbeTc3UAg)
 
@@ -192,14 +192,14 @@ Read more [here](https://euobserver.com/migration/138520) \.
 Two days ago on the 13th in the wee hours of the morning, two men from Pakistan who were attempting to cross into Croatia were intercepted in the back of a truck\. Croatian police \(two at first, then joined by three for a total of five\) removed them from the vehicle and beat one of them viciously — leaving him with seriously bruised lips\. They were told to “go back to Serbia\!” Thanks to the Rigardu team for this report\.
 
 
-![Man beaten by Croatian police\.](assets/5f4f778a46a7/1*LjDmNEtNjdS9Ps_BKndL3g.jpeg)
+![Man beaten by Croatian police\.](../assets/5f4f778a46a7/1*LjDmNEtNjdS9Ps_BKndL3g.jpeg)
 
 Man beaten by Croatian police\.
 
 [Causascomuns](https://www.facebook.com/asociacioncausascomuns/?hc_ref=ARQn_J-uqMM6NzuRlUEKAjE42Y2abMP_nJ1HHVBMh4n5-l8fonmf3OMvvFMhAJzPnmU&fref=nf) is working with No Name Kitchen in meal distribution at the Serbian\-Croatian border\. They provide breakfast and one daily meal to around 150 people per day\. If you wish to support their work, go [here](http://www.causascomuns.org/) \.
 
 
-![Photo credit: Causascomuns](assets/5f4f778a46a7/1*JYJB8DXxMhQKh60aEe60FQ.jpeg)
+![Photo credit: Causascomuns](../assets/5f4f778a46a7/1*JYJB8DXxMhQKh60aEe60FQ.jpeg)
 
 Photo credit: Causascomuns
 ### SPAIN
@@ -207,7 +207,7 @@ Photo credit: Causascomuns
 There were protests across Spain today against the EU border control\. This photo was from Melilla
 
 
-![Photo credit: Enough is Enough](assets/5f4f778a46a7/1*uqxoEPEiMy3pR1LR2ut7bw.jpeg)
+![Photo credit: Enough is Enough](../assets/5f4f778a46a7/1*uqxoEPEiMy3pR1LR2ut7bw.jpeg)
 
 Photo credit: Enough is Enough
 ### FRANCE
@@ -215,7 +215,7 @@ Photo credit: Enough is Enough
 According to a post in [Refugee First Aid & Support Team](https://www.facebook.com/groups/RefugeeSupportFirstAidTeam/permalink/1940869689526205/) , support is greatly needed in both Dunkirk and Calais, although Dunkirk is slightly more neglected\. There is an increase in women and children everywhere\.
 
 
-![Photo credit: [**Hassan Khalid Chaudhry**](https://www.facebook.com/hassan.k.chaudhry.3) ‎](assets/5f4f778a46a7/1*1pIosZh8vkBcIV-M_njN-g.jpeg)
+![Photo credit: [**Hassan Khalid Chaudhry**](https://www.facebook.com/hassan.k.chaudhry.3) ‎](../assets/5f4f778a46a7/1*1pIosZh8vkBcIV-M_njN-g.jpeg)
 
 Photo credit: [**Hassan Khalid Chaudhry**](https://www.facebook.com/hassan.k.chaudhry.3) ‎
 

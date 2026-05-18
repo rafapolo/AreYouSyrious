@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,serbia,digest,sea,italy]
 description: Harsh weather conditions continue in Syria, Lebanon, Greece, and the Balkans // 54 people still missing in the Alboran Sea // increased…
 image:
-  path: assets/7bbd4db15025/1*WfsHUWyXsA4LbzM9l7Iarg.png
+  path: ../assets/7bbd4db15025/1*WfsHUWyXsA4LbzM9l7Iarg.png
 ---
 
 ### AYS Weekend Digest 12–13/1/19 Italian Minister of Interior reports fake numbers of those who died at sea in 2018
@@ -15,7 +15,7 @@ image:
 _Harsh weather conditions continue in Syria, Lebanon, Greece, and the Balkans // 54 people still missing in the Alboran Sea // Increased police intervention in France and Serbia // and more…_
 
 
-![With all of the doom and gloom coming from these harsh winter conditions and governments refusing to protect human rights, there is still hope and heartwarming care to be found\. Photo by [Refugee Support Europe](https://www.facebook.com/RefugeeSupportEurope/?tn-str=k*F)](assets/7bbd4db15025/1*WfsHUWyXsA4LbzM9l7Iarg.png)
+![With all of the doom and gloom coming from these harsh winter conditions and governments refusing to protect human rights, there is still hope and heartwarming care to be found\. Photo by [Refugee Support Europe](https://www.facebook.com/RefugeeSupportEurope/?tn-str=k*F)](../assets/7bbd4db15025/1*WfsHUWyXsA4LbzM9l7Iarg.png)
 
 With all of the doom and gloom coming from these harsh winter conditions and governments refusing to protect human rights, there is still hope and heartwarming care to be found\. Photo by [Refugee Support Europe](https://www.facebook.com/RefugeeSupportEurope/?tn-str=k*F)
 ### Feature
@@ -56,7 +56,7 @@ His report notes how women and children are particularly vulnerable to rape and 
 Continuing their measures against humanitarian sea rescue, the Maltese government has rejected a request by sea rescuers to exchange 10 crew members for four new volunteers\. The government gave no reason for the denial\. NGO vessel _Professor Albrecht Penck_ has been barred from entering ports in Malta\.
 
 
-![The crew of _Professor Albrecht Penck, just trying to save lives\._ Photo: [Alexander Draheim](https://www.timesofmalta.com/articles/view/20190112/local/malta-rejects-ngo-rescue-ship-crew-exchange.699039) sea\-eye\.org](assets/7bbd4db15025/1*oqTDbAmHed3tPF2q3bYDCQ.jpeg)
+![The crew of _Professor Albrecht Penck, just trying to save lives\._ Photo: [Alexander Draheim](https://www.timesofmalta.com/articles/view/20190112/local/malta-rejects-ngo-rescue-ship-crew-exchange.699039) sea\-eye\.org](../assets/7bbd4db15025/1*oqTDbAmHed3tPF2q3bYDCQ.jpeg)
 
 The crew of _Professor Albrecht Penck, just trying to save lives\._ Photo: [Alexander Draheim](https://www.timesofmalta.com/articles/view/20190112/local/malta-rejects-ngo-rescue-ship-crew-exchange.699039) sea\-eye\.org
 ### Greece
@@ -84,11 +84,11 @@ Our House is making **an emergency appeal** for funds to shelter a pregnant woma
 A series of public health guides for Athens can be found [here](https://www.facebook.com/groups/PAMPIRAIKI/permalink/807555329588573/?hc_location=ufi) in English, French, Arabic and Farsi\. Finding access to health care is an enormous struggle for every refugee in a foreign land, please spread the word\!
 
 
-![](assets/7bbd4db15025/1*0uIbxuUoomvXVICXK5sG0Q.jpeg)
+![](../assets/7bbd4db15025/1*0uIbxuUoomvXVICXK5sG0Q.jpeg)
 
 
 
-![Malakassa Refugee camp, north of Athens\. Heavy snowfall and freezing temperatures in refugees camps make unbearable conditions worse\. Photos by [Stelios Misinas](https://twitter.com/sol2refugees/status/1083094006156967936?fbclid=IwAR2vna5jidfR9EYRFXyyqFqEfYe3_D8USWBuYOLLw5qumsKKhguRDefQkJs)](assets/7bbd4db15025/1*OUt7EJFdYjn4L8n3xaRJsg.jpeg)
+![Malakassa Refugee camp, north of Athens\. Heavy snowfall and freezing temperatures in refugees camps make unbearable conditions worse\. Photos by [Stelios Misinas](https://twitter.com/sol2refugees/status/1083094006156967936?fbclid=IwAR2vna5jidfR9EYRFXyyqFqEfYe3_D8USWBuYOLLw5qumsKKhguRDefQkJs)](../assets/7bbd4db15025/1*OUt7EJFdYjn4L8n3xaRJsg.jpeg)
 
 Malakassa Refugee camp, north of Athens\. Heavy snowfall and freezing temperatures in refugees camps make unbearable conditions worse\. Photos by [Stelios Misinas](https://twitter.com/sol2refugees/status/1083094006156967936?fbclid=IwAR2vna5jidfR9EYRFXyyqFqEfYe3_D8USWBuYOLLw5qumsKKhguRDefQkJs)
 
@@ -108,11 +108,11 @@ Conditions in the North in the Diavata camp are coming forward in staggering rep
 
 
 
-![](assets/7bbd4db15025/1*gyi5wOCy1rObv7vacRO1Ew.jpeg)
+![](../assets/7bbd4db15025/1*gyi5wOCy1rObv7vacRO1Ew.jpeg)
 
 
 
-![Inhumane, winter conditions in Diavata camp in Northern Greece\. Photos by [RSA](https://twitter.com/rspaegean/status/1084033546602401794?s=19&fbclid=IwAR0NLNGFYfUKNGwVhuakObBVckc9uYlJF2Vav6a1E0DJbY9TDWT0Z6pcUeo)](assets/7bbd4db15025/1*3uTO32VNKnhKnuJb-A9YJg.jpeg)
+![Inhumane, winter conditions in Diavata camp in Northern Greece\. Photos by [RSA](https://twitter.com/rspaegean/status/1084033546602401794?s=19&fbclid=IwAR0NLNGFYfUKNGwVhuakObBVckc9uYlJF2Vav6a1E0DJbY9TDWT0Z6pcUeo)](../assets/7bbd4db15025/1*3uTO32VNKnhKnuJb-A9YJg.jpeg)
 
 Inhumane, winter conditions in Diavata camp in Northern Greece\. Photos by [RSA](https://twitter.com/rspaegean/status/1084033546602401794?s=19&fbclid=IwAR0NLNGFYfUKNGwVhuakObBVckc9uYlJF2Vav6a1E0DJbY9TDWT0Z6pcUeo)
 ### Italy
@@ -149,11 +149,11 @@ During the night cloudy with rain, sleet and snow inland where precipitation cou
 [The police in Paris](https://www.facebook.com/permalink.php?story_fbid=2238867093106584&id=100009499466124) have started slashing tents with people in them in order to destroy the only shelter they have left\. [2,039 people](http://www.infomigrants.net/fr/post/14458/a-paris-plus-de-2-000-migrants-dorment-sur-les-trottoirs?fbclid=IwAR0hNRh17d5f6mtSBYVVnLTFbu5Pb3I8LSBosV81bXRbDz-BfTJdbk-EE_I) are forced to live in tents across the city, without access to proper shelter, announced on Wednesday by the association France Terre d’asile\. The government is promising that 1,200 places of shelter for migrants will open soon\.
 
 
-![](assets/7bbd4db15025/1*-blz1Dh49C5eIxmUVRBv2g.jpeg)
+![](../assets/7bbd4db15025/1*-blz1Dh49C5eIxmUVRBv2g.jpeg)
 
 
 
-![Photos by [Danika Jurisic](https://www.facebook.com/permalink.php?story_fbid=2238867093106584&id=100009499466124)](assets/7bbd4db15025/1*oQ4UY_GfY5QRTaTh8DCUCA.jpeg)
+![Photos by [Danika Jurisic](https://www.facebook.com/permalink.php?story_fbid=2238867093106584&id=100009499466124)](../assets/7bbd4db15025/1*oQ4UY_GfY5QRTaTh8DCUCA.jpeg)
 
 Photos by [Danika Jurisic](https://www.facebook.com/permalink.php?story_fbid=2238867093106584&id=100009499466124)
 ### Denmark

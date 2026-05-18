@@ -1,5 +1,5 @@
 ---
-title: AYS Daily News Digest 02/01: Hundreds saved in freezing seas at the start of 2017
+title: "AYS Daily News Digest 02/01: Hundreds saved in freezing seas at the start of 2017"
 author: Are You Syrious?
 date: 2017-01-03T04:14:58.933+0000
 last_modified_at: 2017-01-03T16:02:54.304+0000
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,greece,germany,france]
 description: Syrian truce broken|Hundreds saved in the Mediterranean|1443 unaccompanied children are on a waiting list for shelter in Greece|Asylum…
 image:
-  path: assets/900ff0d97142/1*pmdPDL5uml-ux62VeYg3xQ.jpeg
+  path: ../assets/900ff0d97142/1*pmdPDL5uml-ux62VeYg3xQ.jpeg
 ---
 
 ### AYS Daily News Digest 02/01: Hundreds saved in freezing seas at the start of 2017
 #### Syrian truce broken\|Hundreds saved in the Mediterranean\|1443 unaccompanied children are on a waiting list for shelter in Greece\|Asylum seekers attacked in Croatia on New Year’s eve\|France deports Sudanese, evicts refugees who are 2 weeks in line to spend a night at a shelter \|Swedish fast lane asylum solving \|Guterres in a tough mission to restore trust in the UN
 
 
-![Photo by Proactiva](assets/900ff0d97142/1*pmdPDL5uml-ux62VeYg3xQ.jpeg)
+![Photo by Proactiva](../assets/900ff0d97142/1*pmdPDL5uml-ux62VeYg3xQ.jpeg)
 
 Photo by Proactiva
 #### Weather forecast — warning\!
@@ -22,7 +22,7 @@ Photo by Proactiva
 Extreme cold over the weekend is announced for the Balkan peninsula, with temperatures reaching \-20°C in the mornings of Saturday 7th and Sunday 8th January, [Severe Weather Europe](https://www.facebook.com/severeweatherEU/) warns\.
 
 
-![Source: [Meteociel](https://www.facebook.com/Meteociel.fr/)](assets/900ff0d97142/1*mV2oziQ1UC85EInxhsI-xQ.jpeg)
+![Source: [Meteociel](https://www.facebook.com/Meteociel.fr/)](../assets/900ff0d97142/1*mV2oziQ1UC85EInxhsI-xQ.jpeg)
 
 Source: [Meteociel](https://www.facebook.com/Meteociel.fr/)
 #### SYRIA
@@ -31,7 +31,7 @@ Source: [Meteociel](https://www.facebook.com/Meteociel.fr/)
 Thirteen Syrian civil society organizations have appealed for a single version of the ceasefire agreement, to be made public\. They said the violations, including the 10 airstrikes targeting Wadi Barada northwest of Syria’s capital Damascus on Monday morning, prove “the lack of seriousness of the regime”, and called for “the continuous and unhindered delivery of humanitarian and medical aid to all Syrian territories and primarily to the besieged areas” as “the real test on the willingness of the regime and its allies to abide by UN Security Council resolutions”\.
 
 
-![**Official statement on the situation in Wadi Barada that was released by Syrian civil society groups**](assets/900ff0d97142/1*BOCgG2g8XDcTV5DVVnCs0A.jpeg)
+![**Official statement on the situation in Wadi Barada that was released by Syrian civil society groups**](../assets/900ff0d97142/1*BOCgG2g8XDcTV5DVVnCs0A.jpeg)
 
 **Official statement on the situation in Wadi Barada that was released by Syrian civil society groups**
 #### Mediterranean
@@ -40,7 +40,7 @@ More than a hundred people, among them four children and three pregnant women, w
 MSF also reports the first rescue of this year went well, with more than 100 people safely evacuated from the vessels\.
 
 
-![Photo: MSF Sea \(Twitter\)](assets/900ff0d97142/1*QsNhcCU_LVh06WyTW50FSg.jpeg)
+![Photo: MSF Sea \(Twitter\)](../assets/900ff0d97142/1*QsNhcCU_LVh06WyTW50FSg.jpeg)
 
 Photo: MSF Sea \(Twitter\)
 #### GREECE
@@ -50,7 +50,7 @@ Along with the 46 refugees we reported as arriving on Chios, another 66 people a
 Speaking about the overcrowded camps on the Aegean islands, Greek deputy minister Yannis Mouzalas offered an explanation that “if the refugees currently on the islands would move to the mainland, the EU\-Turkey refugee relocation deal might be put at risk”, [media](http://greece.greekreporter.com/2017/01/02/refugees-in-greece-will-receive-cash-instead-of-meals/) report\.
 
 
-![Banners in Souda Camp on Chios](assets/900ff0d97142/1*d9D4mDALbzXIrqGYxoa4Aw.jpeg)
+![Banners in Souda Camp on Chios](../assets/900ff0d97142/1*d9D4mDALbzXIrqGYxoa4Aw.jpeg)
 
 Banners in Souda Camp on Chios
 
@@ -62,14 +62,14 @@ A new food program will be implemented in March for the refugees in mainland Gre
 While many refugees from mainland Greece have recently been moved from camps to more decent accommodation, volunteer groups like Team Bananas and Soul Food Kitchen have been providing food for those on the streets of Thessaloniki, refugees and homeless, and camps in the area\. Recently help also came from the [Graz:Spendenkonvoi](https://www.facebook.com/GrazSpendenkonvoi/) team, who have been present and active in Greece before, having come two times with substantial financial support and donations for the Thessaloniki area camps, but most importantly — coming personally to help and assist those working in the area\. To those on the streets of Thessaloniki, in severe weather conditions, [Soul Food Kitchen](https://www.facebook.com/dirtybunch/?fref=ts) provides two meals a day, hot tea and together with other volunteer groups they hand out blankets and sleeping bags\.
 
 
-![spices shelf of the Soul Food Kitchen \(Photo: [Ulrike Kabosch](https://www.facebook.com/ulrike.kabosch?fref=nf) , [Graz:Spendenkonvoi](https://www.facebook.com/GrazSpendenkonvoi/) \)](assets/900ff0d97142/1*H0AzMhA1KvZwHrDHqFnbEA.jpeg)
+![spices shelf of the Soul Food Kitchen \(Photo: [Ulrike Kabosch](https://www.facebook.com/ulrike.kabosch?fref=nf) , [Graz:Spendenkonvoi](https://www.facebook.com/GrazSpendenkonvoi/) \)](../assets/900ff0d97142/1*H0AzMhA1KvZwHrDHqFnbEA.jpeg)
 
 spices shelf of the Soul Food Kitchen \(Photo: [Ulrike Kabosch](https://www.facebook.com/ulrike.kabosch?fref=nf) , [Graz:Spendenkonvoi](https://www.facebook.com/GrazSpendenkonvoi/) \)
 
 Thankfully, a great number of volunteers staying for different lengths of time come to give a hand at the kitchen where the cooking coordinator Piksi and the team always welcome everyone willing to help\. Together with [Team Bananas](https://www.facebook.com/TBananita/?fref=nf) they try to provide food also to those in the more remote and less well equipped camps, like Vagiochori, 40 km away from Thessaloniki\.
 
 
-![Vagiochori camp \(Photo: [Ulrike Kabosch](https://www.facebook.com/ulrike.kabosch?fref=nf) \)](assets/900ff0d97142/1*YnbwW1CLO9Wy6SjZwXY0Og.jpeg)
+![Vagiochori camp \(Photo: [Ulrike Kabosch](https://www.facebook.com/ulrike.kabosch?fref=nf) \)](../assets/900ff0d97142/1*YnbwW1CLO9Wy6SjZwXY0Og.jpeg)
 
 Vagiochori camp \(Photo: [Ulrike Kabosch](https://www.facebook.com/ulrike.kabosch?fref=nf) \)
 
@@ -81,11 +81,11 @@ Vagiochori camp \(Photo: [Ulrike Kabosch](https://www.facebook.com/ulrike.kabosc
 
 
 
-![](assets/900ff0d97142/1*wzmTT_oQuzd4BqHaRk8QVA.jpeg)
+![](../assets/900ff0d97142/1*wzmTT_oQuzd4BqHaRk8QVA.jpeg)
 
 
 
-![Photos: Team Bananas](assets/900ff0d97142/1*tuOWovcxiCNPQXjm0_XIeQ.png)
+![Photos: Team Bananas](../assets/900ff0d97142/1*tuOWovcxiCNPQXjm0_XIeQ.png)
 
 Photos: Team Bananas
 ### Athens
@@ -115,12 +115,12 @@ Clothes distributed through Samaritans Purse
 
 
 
-![Statistical data of the number of refugee children in Greece, infographics by [Government of Greece](http://reliefweb.int/organization/govt-greece) & [UN Children’s Fund](http://reliefweb.int/organization/unicef)](assets/900ff0d97142/1*wTtYXVpYouG81TgkJfSHYw.png)
+![Statistical data of the number of refugee children in Greece, infographics by [Government of Greece](http://reliefweb.int/organization/govt-greece) & [UN Children’s Fund](http://reliefweb.int/organization/unicef)](../assets/900ff0d97142/1*wTtYXVpYouG81TgkJfSHYw.png)
 
 Statistical data of the number of refugee children in Greece, infographics by [Government of Greece](http://reliefweb.int/organization/govt-greece) & [UN Children’s Fund](http://reliefweb.int/organization/unicef)
 
 
-![infographics by [Government of Greece](http://reliefweb.int/organization/govt-greece) & [UN Children’s Fund](http://reliefweb.int/organization/unicef)](assets/900ff0d97142/1*XV2Tbi00EcMPNBzXUO3LTQ.png)
+![infographics by [Government of Greece](http://reliefweb.int/organization/govt-greece) & [UN Children’s Fund](http://reliefweb.int/organization/unicef)](../assets/900ff0d97142/1*XV2Tbi00EcMPNBzXUO3LTQ.png)
 
 infographics by [Government of Greece](http://reliefweb.int/organization/govt-greece) & [UN Children’s Fund](http://reliefweb.int/organization/unicef)
 #### MACEDONIA
@@ -138,12 +138,12 @@ For the second year running, [Refugee Aid Serbia](https://www.facebook.com/refug
 Meanwhile, in Belgrade and the surrounding area, harsh living conditions continue for many stuck in limbo on their way to a refuge\.
 
 
-![On the first days of the year the sun brought many of the refugees, residents of the abandoned sold warehouses, out to enjoy a bit of much needed warmth\. Some spent time together playing cricket\. \(Photo: [Refugee’s Anthem](https://www.facebook.com/refugeesanthem/) \)](assets/900ff0d97142/1*XofM1ZGDuiZZyJYCAZ-6GA.jpeg)
+![On the first days of the year the sun brought many of the refugees, residents of the abandoned sold warehouses, out to enjoy a bit of much needed warmth\. Some spent time together playing cricket\. \(Photo: [Refugee’s Anthem](https://www.facebook.com/refugeesanthem/) \)](../assets/900ff0d97142/1*XofM1ZGDuiZZyJYCAZ-6GA.jpeg)
 
 On the first days of the year the sun brought many of the refugees, residents of the abandoned sold warehouses, out to enjoy a bit of much needed warmth\. Some spent time together playing cricket\. \(Photo: [Refugee’s Anthem](https://www.facebook.com/refugeesanthem/) \)
 
 
-![showering in the winter sun \(Photo: [Refugee’s Anthem](https://www.facebook.com/refugeesanthem/) \)](assets/900ff0d97142/1*sFvULN_WbAl8inq1t0Ck_w.jpeg)
+![showering in the winter sun \(Photo: [Refugee’s Anthem](https://www.facebook.com/refugeesanthem/) \)](../assets/900ff0d97142/1*sFvULN_WbAl8inq1t0Ck_w.jpeg)
 
 showering in the winter sun \(Photo: [Refugee’s Anthem](https://www.facebook.com/refugeesanthem/) \)
 #### CROATIA
@@ -152,18 +152,18 @@ showering in the winter sun \(Photo: [Refugee’s Anthem](https://www.facebook.c
 The Croatian capital did not send out a nice message on the first day of the new year\. While on their way home from the city centre, on the night of December 31/January 1, a young man and a woman, both residents of the Porin reception centre, were attacked by an unknown group of four masked men who got on the 109 city line bus at the main train station\. Right after that, according to the statements of those attacked, another bus arrived with a group of Porin residents on board\. The driver reportedly let the masked men get on the second bus despite their obviously agressive intentions\. The unknown masked men then attacked the four asylum seekers, only to get off the bus later and wait for them at the end station, attacking them again, beating them with baseball bats, while according to their statements, a female person seemed to have been recording everything from a nearby car that the attackers later used to drive off\. According to the asylum seekers’ statements, they reported the incident to the police, but the police did not investigate any further, not having even asked the names of the assailants\. Also, only upon insisting they needed to go to the hospital in the morning, after having received first aid in Porin in the night, the group from the second bus went to the hospital\. Two of them have medical documents to prove it, contrary to police claims that only one person accepted their invitation to seek medical help\. The medical papers document injuries to the head and extremities\.
 
 
-![](assets/900ff0d97142/1*i0rBwYFN5tgsFiy4SG4h5g.jpeg)
+![](../assets/900ff0d97142/1*i0rBwYFN5tgsFiy4SG4h5g.jpeg)
 
 
 
-![some of the injuries \(Photos: Sara Benceković, AYS\)](assets/900ff0d97142/1*LQ1RxjujAzTF5lvNutZImw.jpeg)
+![some of the injuries \(Photos: Sara Benceković, AYS\)](../assets/900ff0d97142/1*LQ1RxjujAzTF5lvNutZImw.jpeg)
 
 some of the injuries \(Photos: Sara Benceković, AYS\)
 
 In the [statement](https://www.mup.hr/novosti/325/prosvjed-trazitelja-azila) issued by the police, they insist the police officers did follow up and that the refugees and asylum seekers in Croatia are given the rights they are entitled to, including the right to protection, mentioning that the Porin reception centre is constantly under police protection\. These reactions came after Porin residents held a [protest](http://hr.n1info.com/a171461/Vijesti/Prosvjed-trazitelja-azila-ispred-Porina-zbog-napada.html) in front of the reception centre today, receiving a lot of media attention and the media insisting on police clarification\.
 
 
-![Protest in front of the reception centre Porin](assets/900ff0d97142/1*s3ZNaMCtLqzH1-1saWi2hA.jpeg)
+![Protest in front of the reception centre Porin](../assets/900ff0d97142/1*s3ZNaMCtLqzH1-1saWi2hA.jpeg)
 
 Protest in front of the reception centre Porin
 
@@ -177,11 +177,11 @@ However, due to the discrepancies in the claims of both sides, AYS volunteers �
 Activists gathered in the group Progetto 20K, together with the French citizens of Val Roja, shared food and drinks with refugees on New Year’s eve in a remote parking lot\.
 
 
-![](assets/900ff0d97142/1*Cs5PyFkPJLq30WgZTMi3pw.jpeg)
+![](../assets/900ff0d97142/1*Cs5PyFkPJLq30WgZTMi3pw.jpeg)
 
 
 
-![“there is nothing to toast for if it is not solidarity, a world without borders, the fight to tear them down and the joy of doing it every day\.” \(Photo: [Progetto20k](https://www.facebook.com/progetto20k/?ref=page_internal) \)](assets/900ff0d97142/1*hNAUnnQnS106isIWpwOe7g.jpeg)
+![“there is nothing to toast for if it is not solidarity, a world without borders, the fight to tear them down and the joy of doing it every day\.” \(Photo: [Progetto20k](https://www.facebook.com/progetto20k/?ref=page_internal) \)](../assets/900ff0d97142/1*hNAUnnQnS106isIWpwOe7g.jpeg)
 
 “there is nothing to toast for if it is not solidarity, a world without borders, the fight to tear them down and the joy of doing it every day\.” \(Photo: [Progetto20k](https://www.facebook.com/progetto20k/?ref=page_internal) \)
 #### SWITZERLAND
@@ -194,20 +194,20 @@ A dozen police vehicles forcibly evicted the large number of people who had spen
 As one of the Parisian volunteers wrote, “good decisions of a more humane world are not visibly put into practice by most of the world”\.
 
 
-![](assets/900ff0d97142/1*KGvNP5nmNtA-CXPWKmF06Q.jpeg)
+![](../assets/900ff0d97142/1*KGvNP5nmNtA-CXPWKmF06Q.jpeg)
 
 
 
-![Paris Photos: [**Agathe Nadimi**](https://www.facebook.com/agathe.nadimi)](assets/900ff0d97142/1*xCjnQMECOMQEP35vano08A.jpeg)
+![Paris Photos: [**Agathe Nadimi**](https://www.facebook.com/agathe.nadimi)](../assets/900ff0d97142/1*xCjnQMECOMQEP35vano08A.jpeg)
 
 Paris Photos: [**Agathe Nadimi**](https://www.facebook.com/agathe.nadimi)
 
 
-![](assets/900ff0d97142/1*_ybNg5dsfQ4efFPXDBMMBg.jpeg)
+![](../assets/900ff0d97142/1*_ybNg5dsfQ4efFPXDBMMBg.jpeg)
 
 
 
-![](assets/900ff0d97142/1*mGfPISOSvzziCBkaWHk4FQ.jpeg)
+![](../assets/900ff0d97142/1*mGfPISOSvzziCBkaWHk4FQ.jpeg)
 
 #### Two new deportations scheduled for Sudan
 

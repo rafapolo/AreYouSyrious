@@ -1,19 +1,19 @@
 ---
-title: AYS Daily Digest 03/02/2021: Good News: First Syrian National is running for German parliament
+title: "AYS Daily Digest 03/02/2021: Good News: First Syrian National is running for German parliament"
 author: Are You Syrious?
 date: 2021-02-04T12:22:43.786+0000
 last_modified_at: 2021-02-04T15:21:28.455+0000
 categories: Are You Syrious?
 tags: [refugees,digest,europe,germany,france]
-description: FEATURE: Tareq Alaows: First Syrian national is running for a seat in the German parliament!
+description: "FEATURE: Tareq Alaows: First Syrian national is running for a seat in the German parliament!"
 image:
-  path: assets/855655b58ca7/1*jAWHhxNmcDyQY1_lSWB3jQ.png
+  path: ../assets/855655b58ca7/1*jAWHhxNmcDyQY1_lSWB3jQ.png
 ---
 
 ### AYS Daily Digest 03/02/2021: Good News: First Syrian national is running for German parliament
 
 
-![Tareq Alaows\. Screenshot from his campaign video\. Copyright: Tareq Alaows](assets/855655b58ca7/1*jAWHhxNmcDyQY1_lSWB3jQ.png)
+![Tareq Alaows\. Screenshot from his campaign video\. Copyright: Tareq Alaows](../assets/855655b58ca7/1*jAWHhxNmcDyQY1_lSWB3jQ.png)
 
 Tareq Alaows\. Screenshot from his campaign video\. Copyright: Tareq Alaows
 ### FEATURE: Tareq Alaows: First Syrian national is running for a seat in the German parliament\!
@@ -72,11 +72,11 @@ Moria White Helmets continue supporting the camp electrician department with fix
 Most tents now have electricity, thanks to the continuing efforts of the residents\.
 
 
-![](assets/855655b58ca7/1*RJhTbS57DKHmEted06bQ4A.jpeg)
+![](../assets/855655b58ca7/1*RJhTbS57DKHmEted06bQ4A.jpeg)
 
 
 
-![working hard to bring electricity to the whole camp\. Copyright: White Helmets Moria](assets/855655b58ca7/1*Mk8UjmKKPiyMjzh4jtg5sA.png)
+![working hard to bring electricity to the whole camp\. Copyright: White Helmets Moria](../assets/855655b58ca7/1*Mk8UjmKKPiyMjzh4jtg5sA.png)
 
 working hard to bring electricity to the whole camp\. Copyright: White Helmets Moria
 #### Locals Protest against planned closed controlled structure on Chios
@@ -195,7 +195,7 @@ The new tank is permanently in place and will be refilled each day — at least 
 While clean water is scarce, rain water and mud are abundant\. The north of France is muddy and cold these days\. The Mobile Refugee Support NGO that provides support in and around Calais posted pictures of camps, flooded with water\.
 
 
-![Copyright: Mobile Refugee Support](assets/855655b58ca7/1*4VhbZxpQ8buwEwP63Rl2Jg.jpeg)
+![Copyright: Mobile Refugee Support](../assets/855655b58ca7/1*4VhbZxpQ8buwEwP63Rl2Jg.jpeg)
 
 Copyright: Mobile Refugee Support
 
@@ -213,11 +213,11 @@ Meanwhile, [footage has appeared that shows an police officer](https://www.kentl
 Care4Calais started a campaign in solidarity with the people in the barracks\.
 
 
-![](assets/855655b58ca7/1*pvJISxjiXan4TQKwtOC57Q.jpeg)
+![](../assets/855655b58ca7/1*pvJISxjiXan4TQKwtOC57Q.jpeg)
 
 
 
-![Solidarity with the people trapped in Napier Barracks\. Copyright: Care4Calais](assets/855655b58ca7/1*IREfIbeahBjAAEuM-20FaA.jpeg)
+![Solidarity with the people trapped in Napier Barracks\. Copyright: Care4Calais](../assets/855655b58ca7/1*IREfIbeahBjAAEuM-20FaA.jpeg)
 
 Solidarity with the people trapped in Napier Barracks\. Copyright: Care4Calais
 

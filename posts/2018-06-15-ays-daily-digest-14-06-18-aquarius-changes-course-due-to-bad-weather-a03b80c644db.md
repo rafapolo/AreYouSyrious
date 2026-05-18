@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 14/06/18: Aquarius changes course due to bad weather
+title: "AYS Daily Digest 14/06/18: Aquarius changes course due to bad weather"
 author: Are You Syrious?
 date: 2018-06-15T09:20:45.082+0100
 last_modified_at: 2018-06-15T15:22:19.834+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,sea,dunkirk,volunteering]
 description: US Navy ship seeks to disembark refugees / Legal Centre Lesbos reports on rights violations / Paris University 8 occupation could end this…
 image:
-  path: assets/a03b80c644db/0*2cj8m4yrKpOJe3op
+  path: ../assets/a03b80c644db/0*2cj8m4yrKpOJe3op
 ---
 
 ### AYS Daily Digest 14/06/18: Aquarius changes course due to bad weather
@@ -15,12 +15,12 @@ image:
 _US Navy ship seeks to disembark refugees / Legal Centre Lesbos reports on rights violations / Paris University 8 occupation could end this Sunday / And more news…_
 
 
-![](assets/a03b80c644db/0*2cj8m4yrKpOJe3op)
+![](../assets/a03b80c644db/0*2cj8m4yrKpOJe3op)
 
 ### FEATURE: Aquarius’ troubles signals larger problem for rescue boats in Mediterranean
 
 
-![Photo by Fotomovimiento](assets/a03b80c644db/0*MpStXyWfrsPscKyp)
+![Photo by Fotomovimiento](../assets/a03b80c644db/0*MpStXyWfrsPscKyp)
 
 Photo by Fotomovimiento
 
@@ -67,11 +67,11 @@ Regarding the Moria 35, the Legal Centre Lesbos says that **“there has been a 
 Non\-Schengen Zone countries’ nationals are being denied access to Mytilini beach according to this flyer, effectively discriminating against refugees\.
 
 
-![](assets/a03b80c644db/0*J3OzWbqWP22ig7lj.jpg)
+![](../assets/a03b80c644db/0*J3OzWbqWP22ig7lj.jpg)
 
 
 
-![Photos by Legal Centre Lesbos](assets/a03b80c644db/0*HrOabQ0xcS38SD6k.jpg)
+![Photos by Legal Centre Lesbos](../assets/a03b80c644db/0*HrOabQ0xcS38SD6k.jpg)
 
 Photos by Legal Centre Lesbos
 #### Asylum office in Athens opened on Sunday to issue residence permits and travel documents
@@ -81,7 +81,7 @@ Photos by Legal Centre Lesbos
 #### News from Dunkirk
 
 
-![Photo by Mobile Refugee Support](assets/a03b80c644db/0*A2lSlLuRIuz5YUHC)
+![Photo by Mobile Refugee Support](../assets/a03b80c644db/0*A2lSlLuRIuz5YUHC)
 
 Photo by Mobile Refugee Support
 
@@ -91,7 +91,7 @@ After the eviction of 336 refugees from a camp in Dunkirk on Monday, a new locat
 The occupation of Building A of the University of Paris 8 is under threat\. 150 refugees were able to escape the bitter Paris cold and the occupation also continued as a protest against the racist and stringent refugee and migration policies of France and Europe as a whole\. Negotiations between the university’s presidency and the French government have stopped\. The presidency has now said that the people have until June 17th to leave the university or be forcibly evicted\. The refugees [ask](https://lundi.am/Depuis-plus-de-4-mois-l-Universite-Paris-8-Saint-Denis-est-occupee-par-des) for papers, decent housing, French classes and the ability to continue their studies, an improvement of the situation for unaccompanied minors, and the end of deportations\.
 
 
-[![Les habitants de Paris 8](assets/a03b80c644db/9a45_hqdefault.jpg "Les habitants de Paris 8")](http://www.youtube.com/watch?v=Su-4vTme3GU)
+[![Les habitants de Paris 8](../assets/a03b80c644db/9a45_hqdefault.jpg "Les habitants de Paris 8")](http://www.youtube.com/watch?v=Su-4vTme3GU)
 
 ### ITALY
 #### Another case of exploitation of field workers

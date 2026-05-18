@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 15/1/21: “Laye has been regularised”
+title: "AYS Daily Digest 15/1/21: “Laye has been regularised”"
 author: Are You Syrious?
 date: 2021-01-16T12:42:57.236+0000
 last_modified_at: 2021-01-16T13:16:42.310+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugee,france,serbia]
 description: Baker’s apprentice gets residence permit in France // Disturbingly poor conditions in official camps in Serbia // More UK detainment places
 image:
-  path: assets/8cc3f314b16a/1*YHpB5KdluPLoxDodvUKCJg.jpeg
+  path: ../assets/8cc3f314b16a/1*YHpB5KdluPLoxDodvUKCJg.jpeg
 ---
 
 ### AYS Daily Digest 15/1/21: “Laye has been regularised”
 #### Baker’s apprentice gets residence permit in France // Disturbingly poor conditions in official camps across Serbia // More places of detainment and despair in UK
 
 
-![Stéphan Ravacley and Laye Fodé Traoré will bake together in future\. Mr\. Traoré has now got a residence permit\. Credits: [Twitter/Africaisthefuture](https://twitter.com/Mokobe113/status/1347064843707281415/photo/1)](assets/8cc3f314b16a/1*YHpB5KdluPLoxDodvUKCJg.jpeg)
+![Stéphan Ravacley and Laye Fodé Traoré will bake together in future\. Mr\. Traoré has now got a residence permit\. Credits: [Twitter/Africaisthefuture](https://twitter.com/Mokobe113/status/1347064843707281415/photo/1)](../assets/8cc3f314b16a/1*YHpB5KdluPLoxDodvUKCJg.jpeg)
 
 Stéphan Ravacley and Laye Fodé Traoré will bake together in future\. Mr\. Traoré has now got a residence permit\. Credits: [Twitter/Africaisthefuture](https://twitter.com/Mokobe113/status/1347064843707281415/photo/1)
 #### FEATURED
@@ -69,7 +69,7 @@ The BVMN has published a new report documenting and analysing pushbacks, among o
 In Serbia, very poor conditions are constantly documented in the official camps across the country\. These reports often have little practical impact, apart from groups sometimes being moved from more crowded to the less full camps in different regions\. Unfortunately, not much is being done to change the current conditions\.
 
 
-![Photo: APC](assets/8cc3f314b16a/0*W6q9sySGoggAgs6L)
+![Photo: APC](../assets/8cc3f314b16a/0*W6q9sySGoggAgs6L)
 
 Photo: APC
 

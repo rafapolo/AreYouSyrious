@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,police-violence,germany]
 description: 57 People Adrift for 40 Hours Before Rescue///Young Man Dies Due to Police Violence in Greece///Republika Srpska Police Forcibly Transport…
 image:
-  path: assets/70488b4e2839/0*fQX-5CVEumQbAs3I
+  path: ../assets/70488b4e2839/0*fQX-5CVEumQbAs3I
 ---
 
 ### AYS Daily Digest 14/07/2020 — Suffocating Conditions in Munich Shelters, Temperatures Up to 50 **°** Celsius
 #### 57 People Adrift for 40 Hours Before Rescue///Young Man Dies Due to Police Violence in Greece///Republika Srpska Police Forcibly Transport People to Federation Territory///& More
 
 
-![The radio barracks that serve as accommodation for asylum seekers\. Photo credit: Robert Haas via [Suddeutsche Zeitung](https://www.sueddeutsche.de/muenchen/muenchen-coronavirus-fluechtlingsunterkuenfte-quarantaene-1.4965958?fbclid=IwAR3VqIFQ6HuxIyJ4OWRZZh7p1fHZioMPz4VuAMivZKLZqu27D6kvIX_iFQM)](assets/70488b4e2839/0*fQX-5CVEumQbAs3I)
+![The radio barracks that serve as accommodation for asylum seekers\. Photo credit: Robert Haas via [Suddeutsche Zeitung](https://www.sueddeutsche.de/muenchen/muenchen-coronavirus-fluechtlingsunterkuenfte-quarantaene-1.4965958?fbclid=IwAR3VqIFQ6HuxIyJ4OWRZZh7p1fHZioMPz4VuAMivZKLZqu27D6kvIX_iFQM)](../assets/70488b4e2839/0*fQX-5CVEumQbAs3I)
 
 The radio barracks that serve as accommodation for asylum seekers\. Photo credit: Robert Haas via [Suddeutsche Zeitung](https://www.sueddeutsche.de/muenchen/muenchen-coronavirus-fluechtlingsunterkuenfte-quarantaene-1.4965958?fbclid=IwAR3VqIFQ6HuxIyJ4OWRZZh7p1fHZioMPz4VuAMivZKLZqu27D6kvIX_iFQM)
 
@@ -121,7 +121,7 @@ After an interception by the Libyan Coast Guard, [86 people were returned](https
 Medico International published a report on the troubling outsourcing of EU borders to Libya and Niger, which is often tied up with aid money in one big, unethical package\. You can read the report [here in English](https://www.medico.de/fileadmin/user_upload/media/rueckkehr-studie-en.pdf?fbclid=IwAR2Xk_bSRzUFWoLA2RyHZQ8V4ddfdYuVblyGAp5HpXcwkeLkeghYpOm_VhM) and [here in German\.](https://www.medico.de/neue-studie-zur-migrationspolitik-der-eu-17818/?fbclid=IwAR2_frhQt0nrJKLdHSTqkhHSKkX_80Xkb0Bg_Un_CHdzGK2XYlJa_rAaPfI)
 
 
-![Maritime Update from [IOM Libya](https://twitter.com/IOM_Libya/status/1282683226901938177/photo/1)](assets/70488b4e2839/0*nU_w7wD5YTEae5SW)
+![Maritime Update from [IOM Libya](https://twitter.com/IOM_Libya/status/1282683226901938177/photo/1)](../assets/70488b4e2839/0*nU_w7wD5YTEae5SW)
 
 Maritime Update from [IOM Libya](https://twitter.com/IOM_Libya/status/1282683226901938177/photo/1)
 

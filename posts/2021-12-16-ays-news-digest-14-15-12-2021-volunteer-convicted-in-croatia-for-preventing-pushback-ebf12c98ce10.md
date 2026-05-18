@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 14–15/12/2021: Volunteer convicted in Croatia for preventing pushback
+title: "AYS News Digest 14–15/12/2021: Volunteer convicted in Croatia for preventing pushback"
 author: Are You Syrious?
 date: 2021-12-16T13:48:45.527+0000
 last_modified_at: 2021-12-17T14:40:21.161+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,eu,humanrights,croatia]
 description: Evidence of pushbacks from Greece to Turkey are published as camps are criticized / Further evictions in Northern France, are they legal? /…
 image:
-  path: assets/ebf12c98ce10/0*dga-aTFbLfZEoW6_
+  path: ../assets/ebf12c98ce10/0*dga-aTFbLfZEoW6_
 ---
 
 ### AYS News Digest 14–15/12/2021: Volunteer convicted in Croatia for preventing pushback
@@ -17,7 +17,7 @@ Evidence of pushbacks from Greece to Turkey are published as camps are criticize
 #### Volunteer convicted in Croatia for preventing pushback
 
 
-![Photo Credit: [Borderline Europe](https://twitter.com/BorderlineEurop/status/1471101627218202629)](assets/ebf12c98ce10/0*dga-aTFbLfZEoW6_)
+![Photo Credit: [Borderline Europe](https://twitter.com/BorderlineEurop/status/1471101627218202629)](../assets/ebf12c98ce10/0*dga-aTFbLfZEoW6_)
 
 Photo Credit: [Borderline Europe](https://twitter.com/BorderlineEurop/status/1471101627218202629)
 
@@ -34,7 +34,7 @@ Please help us with payment to our IBAN HR6824020061100765183 \(for Overseas pay
 In solidarity with Dragan, yours AYS\.
 
 
-![](assets/ebf12c98ce10/0*McL7K0LT0GMgboqs)
+![](../assets/ebf12c98ce10/0*McL7K0LT0GMgboqs)
 
 #### LIBYA
 
@@ -50,7 +50,7 @@ Rescue ships meet for the first time\. [United4Rescue vessels Sea Watch 4 and Se
 #### Evidence of pushbacks from Greece to Turkey are published as camps are criticized\.
 
 
-![Photo Credit: [Malakasa Camp, north of Athens](https://twitter.com/daphnetoli/status/1470718713288695810?fbclid=IwAR1uHWkjZRWav-DYCOngPnrDQVnXUM98VL9qv0hGFFhzcwrcCBlMgTD4Wps)](assets/ebf12c98ce10/0*Xj5XswbdzgTT9-o0)
+![Photo Credit: [Malakasa Camp, north of Athens](https://twitter.com/daphnetoli/status/1470718713288695810?fbclid=IwAR1uHWkjZRWav-DYCOngPnrDQVnXUM98VL9qv0hGFFhzcwrcCBlMgTD4Wps)](../assets/ebf12c98ce10/0*Xj5XswbdzgTT9-o0)
 
 Photo Credit: [Malakasa Camp, north of Athens](https://twitter.com/daphnetoli/status/1470718713288695810?fbclid=IwAR1uHWkjZRWav-DYCOngPnrDQVnXUM98VL9qv0hGFFhzcwrcCBlMgTD4Wps)
 
@@ -85,7 +85,7 @@ But whilst the number of people both arriving and currently in Belarus is droppi
 #### SPAIN
 
 
-![](assets/ebf12c98ce10/0*8pELzAQ3xWKYVtsd)
+![](../assets/ebf12c98ce10/0*8pELzAQ3xWKYVtsd)
 
 
 [Images of the conditions for seasonal workers](https://twitter.com/InfoMigrants/status/1470810063874912261?fbclid=IwAR3o9V2Ob3PEbBemW1ap2oD94CbwSEsnI9kBtJJfTyHUgMYJsplGovBJa3k) in Spain have been shared in order to demonstrate the reality of life for them in Spain\.
@@ -185,7 +185,7 @@ Professor M [ichelel Ancione](https://twitter.com/michelelancione) of the Polyte
 [Reframing Migration Narratives Toolkit — for Greece](https://www.humanrights360.org/reframing-migration-narratives-toolikit/?fbclid=IwAR2c-WNreCdjPkWfUcNwp6qLohWDLC8a8t0FH-Pbz87_V5cDzvSh_pxA3V0) — has been released\. Resources for those involved in campaigning\.
 
 
-![](assets/ebf12c98ce10/0*Jr2TWEn-LPFKGHnk)
+![](../assets/ebf12c98ce10/0*Jr2TWEn-LPFKGHnk)
 
 
 Friday evening will see an information event in Berlin with the organisation Passamontagna and No Borders Truck\. [Full details here\.](https://www.facebook.com/nonationtruck/posts/633903698023699)

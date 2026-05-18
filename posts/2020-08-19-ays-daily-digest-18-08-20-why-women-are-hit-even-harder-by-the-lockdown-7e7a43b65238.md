@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 18/08/20: Why women are hit even harder by the lockdown
+title: "AYS Daily Digest 18/08/20: Why women are hit even harder by the lockdown"
 author: Are You Syrious?
 date: 2020-08-19T16:57:50.814+0100
 last_modified_at: 2020-08-19T16:57:50.814+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [newsletter,refugees,greece]
 description: Report highlights the struggles of women on the move during the pandemic // Arrivals in Greece, Italy and UK increase // UNHCR warns that 1…
 image:
-  path: assets/7e7a43b65238/0*Q6YlHR26sV3APSs3.jpeg
+  path: ../assets/7e7a43b65238/0*Q6YlHR26sV3APSs3.jpeg
 ---
 
 ### AYS Daily Digest 18/08/20: Why women are hit even harder by the lockdown
 ### Report highlights the struggles of women on the move during the pandemic // Arrivals in Greece, Italy and UK increase // UNHCR warns that 1 million displaced people in Burkina Faso lack of support
 
 
-![](assets/7e7a43b65238/0*e4CUZUcmL_l3BzhH.jpeg)
+![](../assets/7e7a43b65238/0*e4CUZUcmL_l3BzhH.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----3c85c782fd7a----------------------)
@@ -24,11 +24,11 @@ Follow
 [Aug 19](ays-daily-digest-18-08-20-why-women-are-hit-even-harder-by-the-lockdown-3c85c782fd7a?source=post_page-----3c85c782fd7a----------------------) · 6 min read
 
 
-![](assets/7e7a43b65238/0*sokzetlc5NiuJmjQ)
+![](../assets/7e7a43b65238/0*sokzetlc5NiuJmjQ)
 
 
 
-![](assets/7e7a43b65238/0*Q6YlHR26sV3APSs3.jpeg)
+![](../assets/7e7a43b65238/0*Q6YlHR26sV3APSs3.jpeg)
 
 
 Due to the lockdown in Greek camps, women became even more vulnerable\. Credits: Thomas Andre Syvertsen/ Norwegian Red Cross \(via [Flickr](https://www.flickr.com/photos/ifrc/21019934472/in/photolist-y2sEcj-y41rVe-x6suWk-xKHzku-xKJtgb-y126jA-y128uY-FfjSB4-T7mpBb-y3kCX6-x6jg5u-y12bJd-xKQhB4-y128Mm-y3kEHF-x6ssXk-x6jjPJ-xKJFaS-y3kzjp-y129su-xKQjSM-xKHFib-x6jkb5-EkytoQ-x6jmGS-D1Wuv4-Ffju48-EhPWEa-F4D14W-Ffk6d6-xKJEAL-EMKbfE-EMKCMh-F4D6c1-EhWLTH-H3zxmT-ABLaSy-zxjyRe-EhBkMQ-EMJM8s-FfjBC6-EhWzFn-F4CHB7-HjGRK8-F6UQQF-Ffiku6-McVLeU-EMJQNy-PUyi2z-23REra1) \)

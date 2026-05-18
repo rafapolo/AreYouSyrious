@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 10/06/2017: Pregnant woman and 31 children among those rescued at sea
+title: "AYS Daily Digest 10/06/2017: Pregnant woman and 31 children among those rescued at sea"
 author: Are You Syrious?
 date: 2017-06-10T22:32:38.829+0100
 last_modified_at: 2017-06-13T21:06:51.615+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,rescue-operation,msf,greece,chios]
 description: More than 100 people missing after boat sinks near the Libyan border / Boat with 31 children under 5 years old on board saved at sea / New…
 image:
-  path: assets/e3f150486621/1*lxMun-MTFvudyUR2I4w6RA.jpeg
+  path: ../assets/e3f150486621/1*lxMun-MTFvudyUR2I4w6RA.jpeg
 ---
 
 ### AYS Daily Digest 10/06/2017: Pregnant woman and 31 children among those rescued at sea
@@ -15,7 +15,7 @@ image:
 _More than 100 people missing after boat sinks near the Libyan border / Boat with 31 children under 5 years old on board saved at sea / New deportations from Greece / Pan\-European far\-right group strengthening its network in Europe / Traffickers indicted in Bulgaria / Alarming situation in camp at Hungarian border / France continues deportations to Afghanistan_
 
 
-![\#noborder](assets/e3f150486621/1*lxMun-MTFvudyUR2I4w6RA.jpeg)
+![\#noborder](../assets/e3f150486621/1*lxMun-MTFvudyUR2I4w6RA.jpeg)
 
 \#noborder
 ### FEATURE
@@ -57,7 +57,7 @@ This year, over 72,000 people attempted the dangerous route from North Africa to
 Most of the new arrivals are in Italy, one among several countries struggling to find ways to accommodate everyone\. While many locals are trying to help new arrivals, every day we are receiving news about those who are instead finding ways to harm refugees and migrants\. [According to our latest information](https://www.facebook.com/lorena.fornasir/posts/1296567773793650) , starting this Monday, in Pordenone, in the north of Italy, parishes along with local offices of the left wing party will no longer be permitted to house new arrivals\. If this decision is implemented, over 50 more people are destined to sleep in the street\.
 
 
-![Photo by @SeaWatch](assets/e3f150486621/1*7sPYpNsrwnydf8Q4fgF9Pg.jpeg)
+![Photo by @SeaWatch](../assets/e3f150486621/1*7sPYpNsrwnydf8Q4fgF9Pg.jpeg)
 
 Photo by @SeaWatch
 
@@ -119,7 +119,7 @@ The group La Cimade strongly denounces deportations and calls on France to stop 
 #### Socks are needed\!
 
 
-![People in Motion](assets/e3f150486621/1*EIKyA6_FqEFDTZoJUS81RQ.jpeg)
+![People in Motion](../assets/e3f150486621/1*EIKyA6_FqEFDTZoJUS81RQ.jpeg)
 
 People in Motion
 

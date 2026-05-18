@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 12/10/2018: 800 people arrived in October to Samos
+title: "AYS DAILY DIGEST 12/10/2018: 800 people arrived in October to Samos"
 author: Are You Syrious?
 date: 2018-10-13T10:01:47.797+0100
 last_modified_at: 2018-10-13T11:19:41.901+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,bosnia,italy,samos]
 description: One person died or went missing for every 48 people who came to Europe this year // 16 per cent of individuals who came cross the sea…
 image:
-  path: assets/9aaee6d21265/1*Z00nQfSjAbjKfyr81kvnjg.jpeg
+  path: ../assets/9aaee6d21265/1*Z00nQfSjAbjKfyr81kvnjg.jpeg
 ---
 
 ### AYS DAILY DIGEST 12/10/2018: 800 people arrived in October to Samos
@@ -15,7 +15,7 @@ image:
 _One person died or went missing for every 48 people who came to Europe this year // 16 per cent of individuals who came cross the sea since the beginning of the year are unaccompanied and separated children //Alarming calls for help from Thiva camp in Greece // Help needed for people on the move but also for the local population in Bosnia and France_
 
 
-![Mostar, camp Salakovac\. About 1oo people are living in this camp, and none of them has valid documents despite it is official camp\. Photo AYS](assets/9aaee6d21265/1*Z00nQfSjAbjKfyr81kvnjg.jpeg)
+![Mostar, camp Salakovac\. About 1oo people are living in this camp, and none of them has valid documents despite it is official camp\. Photo AYS](../assets/9aaee6d21265/1*Z00nQfSjAbjKfyr81kvnjg.jpeg)
 
 Mostar, camp Salakovac\. About 1oo people are living in this camp, and none of them has valid documents despite it is official camp\. Photo AYS
 #### Feature
@@ -37,7 +37,7 @@ In Greece, the situation on the islands is not getting better despite the fact t
 Despite the Greek government’s promise to ease the situation on the Aegean islands, as you can already calculate above, the situation has worsened\. Officially, there were 19,328 people present on the Aegean islands as of 30th September — compared to 19,111 at the end of August\.
 
 
-![Photo by Knut Bry](assets/9aaee6d21265/1*YRX6E6jkkboGIrTHqbMMtA.jpeg)
+![Photo by Knut Bry](../assets/9aaee6d21265/1*YRX6E6jkkboGIrTHqbMMtA.jpeg)
 
 Photo by Knut Bry
 
@@ -80,7 +80,7 @@ Photo by Knut Bry
 Over 7,000 children arrived on the Greek islands between January and August this year\.
 
 
-![Latest official updated from Greek government Island situation 11\.10\.2018\.](assets/9aaee6d21265/1*ccDHBP9hC8Zf-LgFaPnLnw.jpeg)
+![Latest official updated from Greek government Island situation 11\.10\.2018\.](../assets/9aaee6d21265/1*ccDHBP9hC8Zf-LgFaPnLnw.jpeg)
 
 Latest official updated from Greek government Island situation 11\.10\.2018\.
 
@@ -151,14 +151,14 @@ For more info, [see this link](https://www.helsinki.hu/en/refugeeprogramme-inter
 They plan to put containers in one factory that was closed down years ago\. It seems that they are taking a very similar approach to that taken in Greece, suggesting that they have not learnt from past failings\.
 
 
-![Food distro in Đački dom, place where about 1000 people live\. This building has no windows or doors, and the roof has been built only recently\. Phoot AYS\.](assets/9aaee6d21265/1*fco5UJCVANM3P-eOBpuNeQ.jpeg)
+![Food distro in Đački dom, place where about 1000 people live\. This building has no windows or doors, and the roof has been built only recently\. Phoot AYS\.](../assets/9aaee6d21265/1*fco5UJCVANM3P-eOBpuNeQ.jpeg)
 
 Food distro in Đački dom, place where about 1000 people live\. This building has no windows or doors, and the roof has been built only recently\. Phoot AYS\.
 
 Bosnia is not an expensive country, and the money that is being spent on creating ugly camps, could be spent in a much better way, to provide decent accommodation\. Unfortunately, even when they choose hotels in which to place people, strange choices are made\. Hotel Sedra, near Bihać, where about 350 people have been living since August, is one example\.
 
 
-![Entrance to hotel Sedra\. Who is in charge? Photo AYS](assets/9aaee6d21265/1*Q1od3DTV0kNfARZV8m7CxA.jpeg)
+![Entrance to hotel Sedra\. Who is in charge? Photo AYS](../assets/9aaee6d21265/1*Q1od3DTV0kNfARZV8m7CxA.jpeg)
 
 Entrance to hotel Sedra\. Who is in charge? Photo AYS
 
@@ -180,7 +180,7 @@ _Volunteers in the field need help_
 [**Paris Refugee Ground Support**](https://www.facebook.com/PRGS.team/?__tn__=%2CdkCH-R-R&eid=ARDwJXTthUaSwkPMGpuUxUvuQlwlYjWYqkc8VaE8EYdSWNWZ5JFRr8iDA5vIHPQlmSRemaQS06ApNQqV&hc_ref=ARQ1tjsIDylo_paW9s_S1KqeLA4d2KBMn1Rm5s4blvlMLBN8ioA0HVCFteDZZyLVq7c&fref=nf) **continues with their night distributions throughout the poorer areas of the city\.**
 
 
-![](assets/9aaee6d21265/1*EjfZLFGb1-CXSBSwfdZQ8A.jpeg)
+![](../assets/9aaee6d21265/1*EjfZLFGb1-CXSBSwfdZQ8A.jpeg)
 
 
 “ _We mainly find men and boys between the ages of 14 and 60\. We’ve seen this homeless family of a mother with her 4 kids, her baby and her husband in 2 separate places now\. We’ve seen them sleeping under swings and slides in a children’s play park, parents barely sleeping as they are so alert to the sounds of the night\-time capital city\. Tonight it’s rained and where they would have previously slept, now lies puddles\. On this night, we found them huddled under cover in this happy street doorway\.”_

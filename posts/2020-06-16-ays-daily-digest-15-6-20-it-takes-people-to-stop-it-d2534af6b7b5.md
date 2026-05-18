@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 15/6/20: “It takes people to stop it!”
+title: "AYS Daily Digest 15/6/20: “It takes people to stop it!”"
 author: Are You Syrious?
 date: 2020-06-16T21:00:14.284+0100
 last_modified_at: 2020-06-16T21:00:14.284+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,europe,human-rights,refugees,borders]
 description: Hundreds show solidarity with those evicted and those without homes in the centre of Athens / European Commission tacitly sides with…
 image:
-  path: assets/d2534af6b7b5/0*bfdobnRIIkZysFg6.jpeg
+  path: ../assets/d2534af6b7b5/0*bfdobnRIIkZysFg6.jpeg
 ---
 
 ### AYS Daily Digest 15/6/20: “It takes people to stop it\!”
 ### Hundreds show solidarity with those evicted and those without homes in the centre of Athens / European Commission tacitly sides with Croatia’s misuse of funds intended for independent monitoring of the border, in the meantime — the tortures continue with the blessing of the entire EU / MSF halts psychological exams in Athens / AYS campaign for refugee families closing soon / Berlin Senate plans to accept a total of 300 people by next July / & more news
 
 
-![](assets/d2534af6b7b5/0*JKD2iK1q9HfDFqTH.jpeg)
+![](../assets/d2534af6b7b5/0*JKD2iK1q9HfDFqTH.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----de933755c4fe----------------------)
@@ -22,11 +22,11 @@ image:
 [Jun 16](ays-daily-digest-15-6-20-it-takes-people-to-stop-it-de933755c4fe?source=post_page-----de933755c4fe----------------------) · 8 min read
 
 
-![](assets/d2534af6b7b5/0*aE3t3F9MCEMFQX-Z)
+![](../assets/d2534af6b7b5/0*aE3t3F9MCEMFQX-Z)
 
 
 
-![](assets/d2534af6b7b5/0*bfdobnRIIkZysFg6.jpeg)
+![](../assets/d2534af6b7b5/0*bfdobnRIIkZysFg6.jpeg)
 
 ### FEATURED
 
@@ -74,11 +74,11 @@ Refugee organizations and solidarity groups warn that the current situation in c
 
 
 
-![](assets/d2534af6b7b5/0*M50zMlUFoc5o9RhG)
+![](../assets/d2534af6b7b5/0*M50zMlUFoc5o9RhG)
 
 
 
-![](assets/d2534af6b7b5/0*bYdpkT8lLpNgyns6.jpeg)
+![](../assets/d2534af6b7b5/0*bYdpkT8lLpNgyns6.jpeg)
 
 
 Further on, the bizzare situation people find themselves in is described:
@@ -91,11 +91,11 @@ Further on, the bizzare situation people find themselves in is described:
 
 
 
-![](assets/d2534af6b7b5/0*DeQ5LBsQhlhH9ObS)
+![](../assets/d2534af6b7b5/0*DeQ5LBsQhlhH9ObS)
 
 
 
-![](assets/d2534af6b7b5/0*3x7z8x0uZ6aIeDZ1.jpeg)
+![](../assets/d2534af6b7b5/0*3x7z8x0uZ6aIeDZ1.jpeg)
 
 
 In order to obtain a tax number, these people are required to have a house contract\. The very program they go to to find a home tells them that they must have a VAT number, as the Greek Refugee Forum director notes, adding that they basically must have “at least 800 euros to rent a house, get the contract, get a VAT number and in the end get the subsidy from the HELIOS program\.”
@@ -110,11 +110,11 @@ In order to obtain a tax number, these people are required to have a house contr
 Many children are among those who have gathered in the capital’s central square\. People who are in solidarity with them try to gather basic goods and water, and to organise activities for the children in the square while demanding a solution\.
 
 
-![](assets/d2534af6b7b5/0*MKNpdABksz9xLGfT)
+![](../assets/d2534af6b7b5/0*MKNpdABksz9xLGfT)
 
 
 
-![](assets/d2534af6b7b5/0*RYeWsYO1JNKe_jYz.jpeg)
+![](../assets/d2534af6b7b5/0*RYeWsYO1JNKe_jYz.jpeg)
 
 
 [Greek Forum of Refugees](https://www.facebook.com/Greekforumofrefugees/?__tn__=K-R&eid=ARCN3EWUFivnQlXRhlq1GLsV4h6vsLBXdZWuSztNbKQ3BKlILRobpx_a3W7BJDtPaWIKRpFFLq6Uj2B-&fref=mentions&__xts__%5B0%5D=68.ARC766wmu_Dl3rD25EglJxom6_3jk_BBr5gkL950pzJ2qzfDM6iGaiZtUTk10W2owLrqIMueYydkO8BI8e3laiM_mqk4cXqzh66Ph5uS-lTRoAySrBUg9VMN5mTm38_DEG_GM6oEuWeOhTPWCRIvkWwcg9WevvNf6F07Kb_9z3FbAljb8jRR-aLDsY5_ix9J4jAcYFIqSeZYf39oL1C9PdPpoANIOwGIb0sUYDO8Q3u2cPRWEl4jWCvHnfdag2piFC347nFMp7TKNisNEfj38p0e2MRtzSsX4YjpeBxf4U33SQqGqW2bJkf6FP_7sHBwutkRznmhPwXkSX8y3nWBNoj2RyjjRYFIc9Sz1ZsAxdDeNHjaP76RHmKo4Dnj-8sHfHhYnhhiAR3QdDiLiZlpK2NN3_dmHrkTkkXroX7tEe-hSBx5uzYPS6humNycfndg62RmHVfitjDCFv24LqX9hvP33iW_VawWi2d5fQx2UHTgd2wWK5r2zUd7) along with its friends took part in the sit — in protest that was hold in Kypseli, Athens\.
@@ -127,11 +127,11 @@ Many children are among those who have gathered in the capital’s central squar
 
 
 
-![](assets/d2534af6b7b5/0*j1e7HvT5T2THRjk4)
+![](../assets/d2534af6b7b5/0*j1e7HvT5T2THRjk4)
 
 
 
-![](assets/d2534af6b7b5/0*6q7B3DfIlykFVJUT.jpeg)
+![](../assets/d2534af6b7b5/0*6q7B3DfIlykFVJUT.jpeg)
 
 ### LIBYA
 ### A surge in crossings and lost lives
@@ -181,11 +181,11 @@ In the meantime, PRO ASYL, state refugee councils and young people without borde
 #### [l\.facebook\.com](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.proasyl.de%2Fpressemitteilung%2Fkein-business-as-usual-bei-abschiebungen-waehrend-einer-pandemie%2F%3Ffbclid%3DIwAR2FiIUWipMmTqjt9Rz3-v31kASKTGIeFmzQulHu49XzaxJl7G2NEeFd0YI&h=AT1djUQDWQxuB1zvoAXK_ohx73eep0pGysRnxcC_ciw2rYcn6bMLl_bCq00iN36ktChpHm5ePOu5mFwc08KoZh0VDFHS73eYTpwLSQ3vkULgaWjqGmVkzRHTpRQed9BzLiuuv_JMA6NkfQ)
 
 
-![](assets/d2534af6b7b5/0*_qjtPQw38ONLFpov)
+![](../assets/d2534af6b7b5/0*_qjtPQw38ONLFpov)
 
 
 
-![](assets/d2534af6b7b5/0*HOCvjmKxzR_Bk7PW.jpeg)
+![](../assets/d2534af6b7b5/0*HOCvjmKxzR_Bk7PW.jpeg)
 
 ### Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest: 1/5/18: Active in solidarity
+title: "AYS Daily Digest: 1/5/18: Active in solidarity"
 author: Are You Syrious?
 date: 2018-05-02T11:41:02.276+0100
 last_modified_at: 2018-05-02T11:41:02.276+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,europe,portugal]
 description: Indignation in protests and antifascist gatherings on the Greek islands, solidarity march from Italy to UK, protests in France / Medical…
 image:
-  path: assets/e3f656972fb7/1*Ll3Ym9Ic6qYvYdk1mliWFA.png
+  path: ../assets/e3f656972fb7/1*Ll3Ym9Ic6qYvYdk1mliWFA.png
 ---
 
 ### AYS Daily Digest: 1/5/18: Active in solidarity
 #### Indignation in protests and antifascist gatherings on the Greek islands, solidarity march from Italy to UK, protests in France / Medical staff needed on Lesvos / Intervention and changes in the bill on immigration in Greece / anti\-trafficking training in Macedonia / surge of newly arrived people in April, according to IOM / detention centres in Portugal / …
 
 
-![Protest announcement for the May 1 \(Photo: [Act Up\-Paris](https://www.facebook.com/actupparis/) \)](assets/e3f656972fb7/1*Ll3Ym9Ic6qYvYdk1mliWFA.png)
+![Protest announcement for the May 1 \(Photo: [Act Up\-Paris](https://www.facebook.com/actupparis/) \)](../assets/e3f656972fb7/1*Ll3Ym9Ic6qYvYdk1mliWFA.png)
 
 Protest announcement for the May 1 \(Photo: [Act Up\-Paris](https://www.facebook.com/actupparis/) \)
 #### FEATURE
@@ -43,7 +43,7 @@ This march will be a chance for many to meet French locals, to educate and expos
 says the [UN Policy](https://www.unicef.org/emergencies/childrenonthemove/files/Refugees_Summit_policy_asks.pdf) ahead of the September Summit, but how come it the UN agencies who are among those being quiet many times after some people actually put in practice what they write, when their acts f solidarity — that went in accordance with the UN plea mentioned above — end up \(more and more\) with — criminal charges?
 
 
-![Here are the planned stations of the March, join if you can: Please click here to register [https://www\.laubergedesmigrants\.fr/fr/la\-marche\-citoyenne/](https://www.laubergedesmigrants.fr/fr/la-marche-citoyenne/)](assets/e3f656972fb7/1*xU20eSBeALbU2nkx_vXDdA.png)
+![Here are the planned stations of the March, join if you can: Please click here to register [https://www\.laubergedesmigrants\.fr/fr/la\-marche\-citoyenne/](https://www.laubergedesmigrants.fr/fr/la-marche-citoyenne/)](../assets/e3f656972fb7/1*xU20eSBeALbU2nkx_vXDdA.png)
 
 Here are the planned stations of the March, join if you can: Please click here to register [https://www\.laubergedesmigrants\.fr/fr/la\-marche\-citoyenne/](https://www.laubergedesmigrants.fr/fr/la-marche-citoyenne/)
 #### GREECE
@@ -58,7 +58,7 @@ Apart from the 107 people, together with several members of his cabinet, the Gre
 We call everyone who understands the vulgarity, the hate and the violence of this pogrom to vigorously react and resist against the fascist threat\.”
 **Sapfous square** 
 **Tuesday, 08 of May** 
-**19:00**](assets/e3f656972fb7/1*MtBLaDYNv5rLB0MsFdoQkQ.jpeg)
+**19:00**](../assets/e3f656972fb7/1*MtBLaDYNv5rLB0MsFdoQkQ.jpeg)
 
 “The pogrom of the 22nd of April took place after the collaboration between right\-wind and fascist groups, football hooligans, and the tolerance of the Police and the Coast\-guards\. Facing these criminal actions, and having in mind that silence, fear, or approval of such actions are complicity, we shall not stay passive or inactive\.
 We call everyone who understands the vulgarity, the hate and the violence of this pogrom to vigorously react and resist against the fascist threat\.”
@@ -85,7 +85,7 @@ We support their fight and hope for a positive outcome of the legal battle\.
 
 
 
-![â€œHelp us provide urgently needed medical care to the many residents of Moria Camp on Lesvos Island\. A minimum stay of 2 weeks is requested and we will provide accomodation and rides to and from shift\. â€œâ€Šâ€”â€ŠERCIâ€Šâ€”â€ŠEmergency Response Centre International](assets/e3f656972fb7/1*dV_ysGwgqrhf_KnaVU5H1Q.png)
+![â€œHelp us provide urgently needed medical care to the many residents of Moria Camp on Lesvos Island\. A minimum stay of 2 weeks is requested and we will provide accomodation and rides to and from shift\. â€œâ€Šâ€”â€ŠERCIâ€Šâ€”â€ŠEmergency Response Centre International](../assets/e3f656972fb7/1*dV_ysGwgqrhf_KnaVU5H1Q.png)
 
 â€œHelp us provide urgently needed medical care to the many residents of Moria Camp on Lesvos Island\. A minimum stay of 2 weeks is requested and we will provide accomodation and rides to and from shift\. â€œâ€Šâ€”â€ŠERCIâ€Šâ€”â€ŠEmergency Response Centre International
 ### Intervention on the bill on immigration
@@ -146,16 +146,16 @@ According to the available data from the UN organization for migration, in the p
 ### Solidarity without borders
 
 
-![](assets/e3f656972fb7/1*LsbuXErglJ_rsSRb4rLjEA.jpeg)
+![](../assets/e3f656972fb7/1*LsbuXErglJ_rsSRb4rLjEA.jpeg)
 
 #### FRANCE
 
 
-![](assets/e3f656972fb7/1*mHqylXUwRn-gSX0CBaDGpA.jpeg)
+![](../assets/e3f656972fb7/1*mHqylXUwRn-gSX0CBaDGpA.jpeg)
 
 
 
-![](assets/e3f656972fb7/1*FPz_saIeHHgaai0mMDG7hg.jpeg)
+![](../assets/e3f656972fb7/1*FPz_saIeHHgaai0mMDG7hg.jpeg)
 
 ### Paris
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 20/04/17: Racist attacks on Chios
+title: "AYS Daily Digest 20/04/17: Racist attacks on Chios"
 author: Are You Syrious?
 date: 2017-04-21T04:54:04.580+0100
 last_modified_at: 2017-04-21T09:34:33.943+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,greece,hungary,france]
 description: Aircraft surveillance on the Mediterranean sea // Hungary to stop feeding refugees in camp // Evictions and violence in France
 image:
-  path: assets/9b8f92b2d5ae/1*e4sB9cX16GG3_bBbfw8C6A.jpeg
+  path: ../assets/9b8f92b2d5ae/1*e4sB9cX16GG3_bBbfw8C6A.jpeg
 ---
 
 ### AYS Daily Digest 20/04/17: Racist attacks on Chios
 #### Aircraft surveillance on the Mediterranean sea // Hungary to stop feeding refugees in camp // Evictions and violence in France
 
 
-![By a 16 years old Syrian Boy living in Samos Refugee Camp, Samos Island, Greece\. His Today](assets/9b8f92b2d5ae/1*e4sB9cX16GG3_bBbfw8C6A.jpeg)
+![By a 16 years old Syrian Boy living in Samos Refugee Camp, Samos Island, Greece\. His Today](../assets/9b8f92b2d5ae/1*e4sB9cX16GG3_bBbfw8C6A.jpeg)
 
 By a 16 years old Syrian Boy living in Samos Refugee Camp, Samos Island, Greece\. His Today
 ### Feature
@@ -31,14 +31,14 @@ Two NGOs have got together and managed to get and start using a plane to help in
 [Sea\-Watch](https://www.facebook.com/seawatchprojekt/) together with the [Humanitarian Pilots Initiative — HPI](https://www.facebook.com/humanitarianpilotsinitiative/) deployed a small airplane in the area of the Mediterranean where most shipwrecks happen in order to patrol the Mediterranean graveyard as well from the air\. “The “moonbird” will be operating the whole summer to help coordinate rescue missions, to reinforce the pressure on the EU which is letting people die in the Mediterranean and to prevent more shipwrecks from happening, as happened during this Eastern weekend\.
 
 
-![Photo by [**Humanitarian Pilots Initiative — HPI**](https://www.facebook.com/humanitarianpilotsinitiative/)](assets/9b8f92b2d5ae/1*DZghy7bfmz2t_WYoSQsUmA.jpeg)
+![Photo by [**Humanitarian Pilots Initiative — HPI**](https://www.facebook.com/humanitarianpilotsinitiative/)](../assets/9b8f92b2d5ae/1*DZghy7bfmz2t_WYoSQsUmA.jpeg)
 
 Photo by [**Humanitarian Pilots Initiative — HPI**](https://www.facebook.com/humanitarianpilotsinitiative/)
 
 The NGOs have been using the patrol aircraft for a week now and thinks to it they were able to find and rescue more than 100 refugees in trouble at see on Easter Sunday\. The dinghy was spotted far away from any other rescue vessel and the situation was critic for all those people as the boat was already sinking but the majority was able to be saved\. Unfortunately 7 people had already drowned by the time the rescue boats arrived at the site\.
 
 
-![Photo by [**Humanitarian Pilots Initiative — HPI**](https://www.facebook.com/humanitarianpilotsinitiative/)](assets/9b8f92b2d5ae/1*Em0zgEZ90KBQV59hw_VGbQ.jpeg)
+![Photo by [**Humanitarian Pilots Initiative — HPI**](https://www.facebook.com/humanitarianpilotsinitiative/)](../assets/9b8f92b2d5ae/1*Em0zgEZ90KBQV59hw_VGbQ.jpeg)
 
 Photo by [**Humanitarian Pilots Initiative — HPI**](https://www.facebook.com/humanitarianpilotsinitiative/)
 
@@ -50,7 +50,7 @@ Photo by [**Humanitarian Pilots Initiative — HPI**](https://www.facebook.com/h
 
 
 
-![Photo by [**Humanitarian Pilots Initiative — HPI**](https://www.facebook.com/humanitarianpilotsinitiative/)](assets/9b8f92b2d5ae/1*kSCaQz-6ak7Bsnr2Y33niQ.jpeg)
+![Photo by [**Humanitarian Pilots Initiative — HPI**](https://www.facebook.com/humanitarianpilotsinitiative/)](../assets/9b8f92b2d5ae/1*kSCaQz-6ak7Bsnr2Y33niQ.jpeg)
 
 Photo by [**Humanitarian Pilots Initiative — HPI**](https://www.facebook.com/humanitarianpilotsinitiative/)
 
@@ -59,7 +59,7 @@ It’s a great effort by these two groups to get together and increase their cap
 [**MSF Sea**](https://twitter.com/MSF_Sea) also brings us good news from their missions today stating they had a quiet day yesterday and and managed to rescue 143 refugees that they will be taking to Italy on board of Prudence, one of their boats\.
 
 
-![Photo by [**MSF Sea**](https://twitter.com/MSF_Sea)](assets/9b8f92b2d5ae/1*QjQiuHcwCd1L3ABgvgXpBQ.jpeg)
+![Photo by [**MSF Sea**](https://twitter.com/MSF_Sea)](../assets/9b8f92b2d5ae/1*QjQiuHcwCd1L3ABgvgXpBQ.jpeg)
 
 Photo by [**MSF Sea**](https://twitter.com/MSF_Sea)
 ### Greece
@@ -100,7 +100,7 @@ Unfortunately, the reception in the centres on the islands aren’t very welcomi
 
 
 
-![Photo on [Midnight Helpers](https://www.facebook.com/groups/ROYartsaveslives/)](assets/9b8f92b2d5ae/1*xEKY8fKYh4iraZZIw4pjbg.jpeg)
+![Photo on [Midnight Helpers](https://www.facebook.com/groups/ROYartsaveslives/)](../assets/9b8f92b2d5ae/1*xEKY8fKYh4iraZZIw4pjbg.jpeg)
 
 Photo on [Midnight Helpers](https://www.facebook.com/groups/ROYartsaveslives/)
 
@@ -109,7 +109,7 @@ According to reports of a refugee the police didn’t let them get in and wasn�
 We also get pictures that show how unwelcoming is the other camp, Souda where the facilities are very basic and in some cases are run down and represent a real danger for guests of the camp\.
 
 
-![Water and electricity — the municipality seems to have its own standards for hygiene and safety — photo by [**Miss Montag**](https://twitter.com/miss_montag)](assets/9b8f92b2d5ae/1*llbebXEC8DZvB4AbPqoChw.jpeg)
+![Water and electricity — the municipality seems to have its own standards for hygiene and safety — photo by [**Miss Montag**](https://twitter.com/miss_montag)](../assets/9b8f92b2d5ae/1*llbebXEC8DZvB4AbPqoChw.jpeg)
 
 Water and electricity — the municipality seems to have its own standards for hygiene and safety — photo by [**Miss Montag**](https://twitter.com/miss_montag)
 #### Registrations
@@ -168,7 +168,7 @@ This time at a sunny evening food distribution done by [**Care4Calais**](https:/
 One of the boys arrested was about 16 years old and was pinned down to the ground and dragged whilst being kicked and screamed at towards the police van\. The kid had a broken wrist and was already in pain to start with\. It’s difficult to imagine that law officers that are supposed to protect everyone, especially the most vulnerable, do such things to someone that has done nothing except look for food, shelter and human contact\.
 
 
-![Photo by [**Care4Calais**](https://www.facebook.com/care4calais/)](assets/9b8f92b2d5ae/1*i2AyN00Wb2X0iKw6l7zmLg.jpeg)
+![Photo by [**Care4Calais**](https://www.facebook.com/care4calais/)](../assets/9b8f92b2d5ae/1*i2AyN00Wb2X0iKw6l7zmLg.jpeg)
 
 Photo by [**Care4Calais**](https://www.facebook.com/care4calais/)
 ### Italy
@@ -176,7 +176,7 @@ Photo by [**Care4Calais**](https://www.facebook.com/care4calais/)
 In another report of abuse of power, [Baobab Experience](https://www.facebook.com/BaobabExperience/?ref=page_internal) told us how the police in Rome took 60 refugees to the station while their belongings were put in the trash\.
 
 
-![Photo by [Baobab Experience](https://www.facebook.com/BaobabExperience/?ref=page_internal)](assets/9b8f92b2d5ae/1*0FTvoN6dVjHR1-qAMhj9vA.jpeg)
+![Photo by [Baobab Experience](https://www.facebook.com/BaobabExperience/?ref=page_internal)](../assets/9b8f92b2d5ae/1*0FTvoN6dVjHR1-qAMhj9vA.jpeg)
 
 Photo by [Baobab Experience](https://www.facebook.com/BaobabExperience/?ref=page_internal)
 

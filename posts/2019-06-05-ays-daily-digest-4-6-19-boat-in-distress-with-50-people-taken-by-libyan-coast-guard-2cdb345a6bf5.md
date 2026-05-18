@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,greece,libya,sudan,digest]
 description: Many new arrivals in Greece // more on Sudan’s paramilitary assaults // Libyan police brutality in Zawiya // situation in Montenegro…
 image:
-  path: assets/2cdb345a6bf5/1*RaNH0VCqaG_OG0xmE25drA.jpeg
+  path: ../assets/2cdb345a6bf5/1*RaNH0VCqaG_OG0xmE25drA.jpeg
 ---
 
 ### AYS Daily Digest 4/6/19: Boat in distress with 50 people taken by Libyan Coast Guard
 #### _Many new arrivals in Greece // more on Sudan’s paramilitary assaults // Libyan police brutality in Zawiya // situation in Montenegro detention centers // and more…_
 
 
-![“Refugees from \#Moria hotspot wish Eid Mubarak” Photo by [RSA](https://twitter.com/rspaegean/status/1135985288772227072?fbclid=IwAR3LXe3k7JxhUYjVXdwUkorTei1ZroRi2VBfMEf6Bj8kegs-nuIDisrzsgc)](assets/2cdb345a6bf5/1*RaNH0VCqaG_OG0xmE25drA.jpeg)
+![“Refugees from \#Moria hotspot wish Eid Mubarak” Photo by [RSA](https://twitter.com/rspaegean/status/1135985288772227072?fbclid=IwAR3LXe3k7JxhUYjVXdwUkorTei1ZroRi2VBfMEf6Bj8kegs-nuIDisrzsgc)](../assets/2cdb345a6bf5/1*RaNH0VCqaG_OG0xmE25drA.jpeg)
 
 “Refugees from \#Moria hotspot wish Eid Mubarak” Photo by [RSA](https://twitter.com/rspaegean/status/1135985288772227072?fbclid=IwAR3LXe3k7JxhUYjVXdwUkorTei1ZroRi2VBfMEf6Bj8kegs-nuIDisrzsgc)
 ### Sudan
@@ -86,14 +86,14 @@ In a separate but continuing statement today [UNHCR reported](https://twitter.co
 [Since departures](https://twitter.com/MSF_Sea/status/1135881387268091904?fbclid=IwAR26OnZ4IJuBUbSR1Tj_nvHh-9J0-1NYLN4zfdyevNzTHHWt1kGtP8fC420) from Libya are coming daily now, much more needs to be done to insure that Europe isn’t dehumanizing lives and breaking international law by keeping people in Libya\.
 
 
-![Where the call of 50 people, 2 of which were unconscious, met their captors\. Photo provided by [Sergio Scandura](https://twitter.com/scandura/status/1135868702220529664)](assets/2cdb345a6bf5/1*IMAFjLFEHa3rfXRdcNh9kw.jpeg)
+![Where the call of 50 people, 2 of which were unconscious, met their captors\. Photo provided by [Sergio Scandura](https://twitter.com/scandura/status/1135868702220529664)](../assets/2cdb345a6bf5/1*IMAFjLFEHa3rfXRdcNh9kw.jpeg)
 
 Where the call of 50 people, 2 of which were unconscious, met their captors\. Photo provided by [Sergio Scandura](https://twitter.com/scandura/status/1135868702220529664)
 
 [MSF](https://www.infomigrants.net/en/post/17294/msf-says-tunisia-not-place-of-safety-for-refugees) is still urging that Tunisia is not a safe place for refugees, with no functioning asylum procedures in place\. The Maridive 601 vessel carrying 75 people is still being refused at the port of Zarzis, Tunisia\. There are at least 5 critical health conditions on board\.
 
 
-![The Maridive 601 vessel Photo by [Forum Tunisien pour les Droits Economiques et Sociaux \(Ftdes\)](https://www.infomigrants.net/en/post/17294/msf-says-tunisia-not-place-of-safety-for-refugees)](assets/2cdb345a6bf5/1*eCZGF1PptBJyzO51CgBdoQ.jpeg)
+![The Maridive 601 vessel Photo by [Forum Tunisien pour les Droits Economiques et Sociaux \(Ftdes\)](https://www.infomigrants.net/en/post/17294/msf-says-tunisia-not-place-of-safety-for-refugees)](../assets/2cdb345a6bf5/1*eCZGF1PptBJyzO51CgBdoQ.jpeg)
 
 The Maridive 601 vessel Photo by [Forum Tunisien pour les Droits Economiques et Sociaux \(Ftdes\)](https://www.infomigrants.net/en/post/17294/msf-says-tunisia-not-place-of-safety-for-refugees)
 
@@ -102,7 +102,7 @@ The Maridive 601 vessel Photo by [Forum Tunisien pour les Droits Economiques et 
 [Almería Red Cross](https://twitter.com/CruzRojaAlmeria/status/1135941023484526602?fbclid=IwAR2Li56oDa6P9XZFeYlebAlmW8zCjrfL5LoYGMCbL5cpg7Te5e4yUi8v1xM) also reports that that 15 people were brought to the port in Almería\.
 
 
-![Photo by [Almería Red Cross](https://twitter.com/CruzRojaAlmeria/status/1135941023484526602?fbclid=IwAR2Li56oDa6P9XZFeYlebAlmW8zCjrfL5LoYGMCbL5cpg7Te5e4yUi8v1xM)](assets/2cdb345a6bf5/1*8faMjbUxitpiy3J0xdMlbg.jpeg)
+![Photo by [Almería Red Cross](https://twitter.com/CruzRojaAlmeria/status/1135941023484526602?fbclid=IwAR2Li56oDa6P9XZFeYlebAlmW8zCjrfL5LoYGMCbL5cpg7Te5e4yUi8v1xM)](../assets/2cdb345a6bf5/1*8faMjbUxitpiy3J0xdMlbg.jpeg)
 
 Photo by [Almería Red Cross](https://twitter.com/CruzRojaAlmeria/status/1135941023484526602?fbclid=IwAR2Li56oDa6P9XZFeYlebAlmW8zCjrfL5LoYGMCbL5cpg7Te5e4yUi8v1xM)
 ### Greece
@@ -117,15 +117,15 @@ New arrivals according to Aegean Boat Report:
 
 
 
-![](assets/2cdb345a6bf5/1*0Oc3rvSzUiliTztj8VyumA.jpeg)
+![](../assets/2cdb345a6bf5/1*0Oc3rvSzUiliTztj8VyumA.jpeg)
 
 
 
-![](assets/2cdb345a6bf5/1*C-T1KtuX7kNpa_AbX_f0Fw.jpeg)
+![](../assets/2cdb345a6bf5/1*C-T1KtuX7kNpa_AbX_f0Fw.jpeg)
 
 
 
-![Photos by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/586663665190075?__xts__[0]=68.ARCBo2dGr1JKHjftJsbydExqrd0_mXDf3kra2TxHrR47lAhcJ7ZiEh-8NpL5SU1nSanEVcSN_RfOJiKWMtBukX7TAKmdqOJZOtkZ0kYlP3ztB4xFK9GxdHr2cfdJmIKpoy1cUC025labcZnaB5aW7A1pAq9QAbOF22ECoQeyLXHEZjKcX8fFO4N48ecB86R017X2z-k7pWOf3ANhFg7cJApr5FUEbu3GBFilTDdQe-V0UtcZFUckmxZm4guqCxvqGyEYZyKsx8Si17s1BE3fR9iYe-Q0ArOpXxSufMlFUsM98i-nTXZN73Hus3DsE1V7PPW57VdNtTx8W_BECwH6C98&__tn__=-R)](assets/2cdb345a6bf5/1*r2ZtiLSlxqnmidcUOEWI9Q.jpeg)
+![Photos by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/586663665190075?__xts__[0]=68.ARCBo2dGr1JKHjftJsbydExqrd0_mXDf3kra2TxHrR47lAhcJ7ZiEh-8NpL5SU1nSanEVcSN_RfOJiKWMtBukX7TAKmdqOJZOtkZ0kYlP3ztB4xFK9GxdHr2cfdJmIKpoy1cUC025labcZnaB5aW7A1pAq9QAbOF22ECoQeyLXHEZjKcX8fFO4N48ecB86R017X2z-k7pWOf3ANhFg7cJApr5FUEbu3GBFilTDdQe-V0UtcZFUckmxZm4guqCxvqGyEYZyKsx8Si17s1BE3fR9iYe-Q0ArOpXxSufMlFUsM98i-nTXZN73Hus3DsE1V7PPW57VdNtTx8W_BECwH6C98&__tn__=-R)](../assets/2cdb345a6bf5/1*r2ZtiLSlxqnmidcUOEWI9Q.jpeg)
 
 Photos by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/586663665190075?__xts__[0]=68.ARCBo2dGr1JKHjftJsbydExqrd0_mXDf3kra2TxHrR47lAhcJ7ZiEh-8NpL5SU1nSanEVcSN_RfOJiKWMtBukX7TAKmdqOJZOtkZ0kYlP3ztB4xFK9GxdHr2cfdJmIKpoy1cUC025labcZnaB5aW7A1pAq9QAbOF22ECoQeyLXHEZjKcX8fFO4N48ecB86R017X2z-k7pWOf3ANhFg7cJApr5FUEbu3GBFilTDdQe-V0UtcZFUckmxZm4guqCxvqGyEYZyKsx8Si17s1BE3fR9iYe-Q0ArOpXxSufMlFUsM98i-nTXZN73Hus3DsE1V7PPW57VdNtTx8W_BECwH6C98&__tn__=-R)
 
@@ -168,7 +168,7 @@ Salvini needed to be told by a doctor that migrants don’t bring disease; pover
 ### Montenegro
 
 
-![A refugee in a camp in Podgorica says the conditions are prison like and people are forgetting that they are there\. Photo by [Aldar Aldar](https://www.facebook.com/groups/1157824667713728/permalink/1186051594891035/)](assets/2cdb345a6bf5/1*hG2E-Bi80av98whequxF-A.jpeg)
+![A refugee in a camp in Podgorica says the conditions are prison like and people are forgetting that they are there\. Photo by [Aldar Aldar](https://www.facebook.com/groups/1157824667713728/permalink/1186051594891035/)](../assets/2cdb345a6bf5/1*hG2E-Bi80av98whequxF-A.jpeg)
 
 A refugee in a camp in Podgorica says the conditions are prison like and people are forgetting that they are there\. Photo by [Aldar Aldar](https://www.facebook.com/groups/1157824667713728/permalink/1186051594891035/)
 
@@ -209,7 +209,7 @@ The European Commission does not agree with the 245\-page report brought in fron
 In the words of a detainee currently in Libya:
 
 
-![Photo by [Sally Hayden](https://twitter.com/sallyhayd/status/1135942726283866113?fbclid=IwAR2Rfhs5y4lE_ZuArlmgzmKbI_xj_ZcCUB1aNJLIzCWf3uVeXqS0_SyjZfA)](assets/2cdb345a6bf5/1*f9-aIfvzI4f2F9vDe9pPeg.jpeg)
+![Photo by [Sally Hayden](https://twitter.com/sallyhayd/status/1135942726283866113?fbclid=IwAR2Rfhs5y4lE_ZuArlmgzmKbI_xj_ZcCUB1aNJLIzCWf3uVeXqS0_SyjZfA)](../assets/2cdb345a6bf5/1*f9-aIfvzI4f2F9vDe9pPeg.jpeg)
 
 Photo by [Sally Hayden](https://twitter.com/sallyhayd/status/1135942726283866113?fbclid=IwAR2Rfhs5y4lE_ZuArlmgzmKbI_xj_ZcCUB1aNJLIzCWf3uVeXqS0_SyjZfA)
 

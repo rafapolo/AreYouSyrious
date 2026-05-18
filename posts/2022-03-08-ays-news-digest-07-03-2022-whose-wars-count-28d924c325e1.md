@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 07/03/2022: Whose wars count?
+title: "AYS News Digest 07/03/2022: Whose wars count?"
 author: Are You Syrious?
 date: 2022-03-08T16:05:38.352+0000
 last_modified_at: 2022-03-08T16:05:38.352+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,ukraine,uk,europe]
 description: How did a grassroots campaign take on one of the world’s biggest holiday firms and win? / The UK’s Marine Accident Investigation Branch has…
 image:
-  path: assets/28d924c325e1/0*8-VgCjb12kbx3Ucm.jpg
+  path: ../assets/28d924c325e1/0*8-VgCjb12kbx3Ucm.jpg
 ---
 
 ### AYS News Digest 07/03/2022: Whose wars count?
 #### How did a grassroots campaign take on one of the world’s biggest holiday firms and win? / The UK’s Marine Accident Investigation Branch has launched a probe into the emergency response to the tragedy “on the assumption that some part of the accident occurred in UK waters” / Mixed Migration update & some good read material curated by our team
 
 
-![_Streets of Berlin, by Arte Vilu @Art Against_](assets/28d924c325e1/0*8-VgCjb12kbx3Ucm.jpg)
+![_Streets of Berlin, by Arte Vilu @Art Against_](../assets/28d924c325e1/0*8-VgCjb12kbx3Ucm.jpg)
 
 _Streets of Berlin, by Arte Vilu @Art Against_
 
@@ -61,7 +61,7 @@ There were [50 deaths in one shipwreck](https://twitter.com/alarm_phone/status/1
 MSF aboard the Geobarents rescued 31 people on the 5th of March\.
 
 
-![\(Photo Credit: [MSF Sea](https://twitter.com/MSF_Sea/status/1500442687077601280?fbclid=IwAR1rvGpV43rfl9iUIflN9Y7a9zjBfPygihF3cbbc-ZLbrFK49Q4aVDLnqJk) \)](assets/28d924c325e1/1*On5Cj80muOL6oOfnaCqgvw.jpeg)
+![\(Photo Credit: [MSF Sea](https://twitter.com/MSF_Sea/status/1500442687077601280?fbclid=IwAR1rvGpV43rfl9iUIflN9Y7a9zjBfPygihF3cbbc-ZLbrFK49Q4aVDLnqJk) \)](../assets/28d924c325e1/1*On5Cj80muOL6oOfnaCqgvw.jpeg)
 
 \(Photo Credit: [MSF Sea](https://twitter.com/MSF_Sea/status/1500442687077601280?fbclid=IwAR1rvGpV43rfl9iUIflN9Y7a9zjBfPygihF3cbbc-ZLbrFK49Q4aVDLnqJk) \)
 #### GREECE
@@ -95,7 +95,7 @@ The UK has so far managed to issue a whopping [50 visas](https://www.dailymail.c
 On the 24th of November last year [the tragic death of 27 people](https://inews.co.uk/news/channel-migrants-dinghy-sank-deaths-uk-waters-1484702?fbclid=IwAR3KuCXQIKsk2EEKLlFVA7AR_50maKkHKs60c5UY6djalAGDhtjX-8uHW-A) became evident as their bodies started to be discovered in French Maritime waters\. What was not revealed at the time was that these young people had made it to British waters after all and likely died there\. People who die at this stage of their journey have often survived many difficulties and dangers already, have made friends and helped out other people, have taken part in projects and worked or volunteered along their route\. Their loss is felt right the way along it, through all of Europe, all the way back to the place where they started\.
 
 
-![Research by [i](https://inews.co.uk/news/channel-migrants-dinghy-sank-deaths-uk-waters-1484702?fbclid=IwAR3GcY3oAfQzkuk4OpKLSkKOLXzq3Hsccu-NXD_LnjSmCD0VJxhucDPHmWQ) puts the location of the dinghy given by the smuggler at 2\.03am UK time within the search area of the HM Coastguard helicopter, which took off around one hour and 20 minutes later\. It is to the north east of a mayday alert raised by the French coastguard inside French waters at 1\.03pm\. i has been unable to independently verify the origin of the image\. \(Data analysis and mapping by Thomas Saunders, i data reporter\)](assets/28d924c325e1/0*OChKSVRW9Mhc6OHu.jpg)
+![Research by [i](https://inews.co.uk/news/channel-migrants-dinghy-sank-deaths-uk-waters-1484702?fbclid=IwAR3GcY3oAfQzkuk4OpKLSkKOLXzq3Hsccu-NXD_LnjSmCD0VJxhucDPHmWQ) puts the location of the dinghy given by the smuggler at 2\.03am UK time within the search area of the HM Coastguard helicopter, which took off around one hour and 20 minutes later\. It is to the north east of a mayday alert raised by the French coastguard inside French waters at 1\.03pm\. i has been unable to independently verify the origin of the image\. \(Data analysis and mapping by Thomas Saunders, i data reporter\)](../assets/28d924c325e1/0*OChKSVRW9Mhc6OHu.jpg)
 
 Research by [i](https://inews.co.uk/news/channel-migrants-dinghy-sank-deaths-uk-waters-1484702?fbclid=IwAR3GcY3oAfQzkuk4OpKLSkKOLXzq3Hsccu-NXD_LnjSmCD0VJxhucDPHmWQ) puts the location of the dinghy given by the smuggler at 2\.03am UK time within the search area of the HM Coastguard helicopter, which took off around one hour and 20 minutes later\. It is to the north east of a mayday alert raised by the French coastguard inside French waters at 1\.03pm\. i has been unable to independently verify the origin of the image\. \(Data analysis and mapping by Thomas Saunders, i data reporter\)
 
@@ -175,7 +175,7 @@ However, even in the midst of such a tragedy, EU institutions and border police 
 The French collective [L’Auberge des Migrants](https://www.facebook.com/AubergeMigrants/?__cft__[0]=AZV5KLpKq8auUWt82rDLi7yIvdPE-yeqJzxy2Fn3YU_eKYpOCf4raRhAFXbBglaCEkG4CwSqKkuCeJrnmeO-SbCJJPp6fVKwkpNtG78SCR-1K2K8jeMghs7V8rKtuZ3087eSl2h53AsKhER_ke_Xdi25&__tn__=-UC%2CP-R) also [stresses](https://www.facebook.com/AubergeMigrants/posts/10159430945370339) the difference in the approach:
 
 
-![](assets/28d924c325e1/0*5iQL3EbvepZn6BnZ)
+![](../assets/28d924c325e1/0*5iQL3EbvepZn6BnZ)
 
 
 According to several media reports, a little more than 500 Ukrainian refugees have appeared in the port or tunnel in Calais to enter the UK\. More than half have been refilled by the Border Force\. About 150 have stayed in Calais, the others have probably gone to Paris to attempt to get a UK visa\. For now no news of the “British Consulate in Calais” hoped by Darmanin\.

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 29/06/17: EU funds for refugee support in Turkey are used to detain and deport…
+title: "AYS Daily Digest 29/06/17: EU funds for refugee support in Turkey are used to detain and deport…"
 author: Are You Syrious?
 date: 2017-06-30T01:14:03.718+0100
 last_modified_at: 2017-07-14T15:01:02.862+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,mediterranean,afghanistan,italy,france]
 description: Sweden insists on deporting Afghans / Thousands stuck in Raqqa / The Hague investigates Libyan coastguard / Arrivals to Crete / Protest at…
 image:
-  path: assets/b9f02cead802/1*1paBnj1JdkC5E1RRyve-sg.jpeg
+  path: ../assets/b9f02cead802/1*1paBnj1JdkC5E1RRyve-sg.jpeg
 ---
 
 ### AYS Daily Digest 29/06/17: EU funds for refugee support in Turkey are used to detain and deport them
@@ -15,7 +15,7 @@ image:
 _Sweden insists on deporting Afghans / Thousands stuck in Raqqa / The Hague investigates Libyan coastguard / Arrivals to Crete / Protest at Cara di Mineo camp / Abuse in Calais continues despite court ruling / And more news…_
 
 
-![“Build bridges, not walls\!” \(Photo by [Sea\-Watch](https://www.facebook.com/seawatchprojekt/) \)](assets/b9f02cead802/1*1paBnj1JdkC5E1RRyve-sg.jpeg)
+![“Build bridges, not walls\!” \(Photo by [Sea\-Watch](https://www.facebook.com/seawatchprojekt/) \)](../assets/b9f02cead802/1*1paBnj1JdkC5E1RRyve-sg.jpeg)
 
 “Build bridges, not walls\!” \(Photo by [Sea\-Watch](https://www.facebook.com/seawatchprojekt/) \)
 ### FEATURE: Greece and Turkey moving forward
@@ -60,7 +60,7 @@ The International Criminal Court in The Hague is investigating the so\-called Li
 At the same time, today about 5000 refugees landed in Italian ports\. This was one day after Italy threatened it might close it´s ports to ships bringing in refugees due to the high numbers already in the country\. One of those ports of landing was Calabria and almost one quarter of those disembarking the [Aquarius](https://twitter.com/hashtag/Aquarius?src=hash) from MSF today were unaccompanied children aged under 18 years\.
 
 
-![Photo by [**MSF Sea** ‏](https://twitter.com/MSF_Sea)](assets/b9f02cead802/1*0-UaXP3jo__ao24MVKB-vQ.jpeg)
+![Photo by [**MSF Sea** ‏](https://twitter.com/MSF_Sea)](../assets/b9f02cead802/1*0-UaXP3jo__ao24MVKB-vQ.jpeg)
 
 Photo by [**MSF Sea** ‏](https://twitter.com/MSF_Sea)
 ### Greece
@@ -74,7 +74,7 @@ The were also 62 new registration on Samos and 4 on the group under “other isl
 According to the ERCC, there has been 78756 arrivals in Italy this year and 8778 in Greece\.
 
 
-![ECHO Daily Map](assets/b9f02cead802/1*o92-5UmTsd0SB3d1BrIPdw.png)
+![ECHO Daily Map](../assets/b9f02cead802/1*o92-5UmTsd0SB3d1BrIPdw.png)
 
 ECHO Daily Map
 
@@ -102,7 +102,7 @@ Beyond 10\-foot razor wire fences, migrants divided by ethnicity and religion li
 Also today, in Milan, a fascist group entered in the council hall and attacked a stand and a delegation of “No One is Illegal” that was there as well to give the mayor a letter about citizenship law proposal, a document for the council about “residenza”, for the acknowledgement of living in a city or town and allow people to access schools, free healthcare, etc\.
 
 
-![Photo by [Nessuna Persona è Illegale](https://www.facebook.com/NooneisillegalMilano/)](assets/b9f02cead802/1*1pm55ZrH2LzgC2nlZdlMYA.jpeg)
+![Photo by [Nessuna Persona è Illegale](https://www.facebook.com/NooneisillegalMilano/)](../assets/b9f02cead802/1*1pm55ZrH2LzgC2nlZdlMYA.jpeg)
 
 Photo by [Nessuna Persona è Illegale](https://www.facebook.com/NooneisillegalMilano/)
 ### France
@@ -133,19 +133,19 @@ With blankets and sleeping bags continually thrown away, there´s need for more 
 Volunteers report that there are about 800 refugees living around the “Bubble” in La Capelle area\. There are some portable toilets and water for washing on the street but with so many people living in the open the tension are rising\. Refugees haven´t had much food since the end of Ramadan and on Monday there was a mini protest at La Chapelle that blocked the traffic in the area for about 3 hours that caught some media attention\. The numbers are close to what they were when the last evacuation took place so it´s also possible that authorities might be thinking of moving people away from the area but so far nothing happened\.
 
 
-![](assets/b9f02cead802/1*j5o-IqnZIFPbqEgEY-BD1A.jpeg)
+![](../assets/b9f02cead802/1*j5o-IqnZIFPbqEgEY-BD1A.jpeg)
 
 
 
-![](assets/b9f02cead802/1*eD2uUhRwC8rGgfUEeOsNSQ.jpeg)
+![](../assets/b9f02cead802/1*eD2uUhRwC8rGgfUEeOsNSQ.jpeg)
 
 
 
-![](assets/b9f02cead802/1*QfmugCAx0P3pwGlowZw6Ow.jpeg)
+![](../assets/b9f02cead802/1*QfmugCAx0P3pwGlowZw6Ow.jpeg)
 
 
 
-![Photos by volunteers on the ground](assets/b9f02cead802/1*wrNIi9lp6Ijbfh7MkDxQKA.jpeg)
+![Photos by volunteers on the ground](../assets/b9f02cead802/1*wrNIi9lp6Ijbfh7MkDxQKA.jpeg)
 
 Photos by volunteers on the ground
 

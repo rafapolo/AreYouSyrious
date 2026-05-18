@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe,syria,eu,greece]
 description: Feature
 image:
-  path: assets/764bd49751af/1*81e0D7AOS3ONG1Aj9Var4g.jpeg
+  path: ../assets/764bd49751af/1*81e0D7AOS3ONG1Aj9Var4g.jpeg
 ---
 
 ### AYS NEWS DIGEST 13/10 — “EU\-Turkey Deal 2\.0” with African states? A no\-go\.
 
 
-![A man displays the phone numbers of his loved ones which he has written on his shirt so that they may be informed of his death\. Photo Credit: MSF Sea](assets/764bd49751af/1*81e0D7AOS3ONG1Aj9Var4g.jpeg)
+![A man displays the phone numbers of his loved ones which he has written on his shirt so that they may be informed of his death\. Photo Credit: MSF Sea](../assets/764bd49751af/1*81e0D7AOS3ONG1Aj9Var4g.jpeg)
 
 A man displays the phone numbers of his loved ones which he has written on his shirt so that they may be informed of his death\. Photo Credit: MSF Sea
 #### Feature
@@ -45,7 +45,7 @@ The plan will cover 25 of 29 designated besieged and hard to reach places, but A
 As the Syrian regime’s siege around rebel\-occupied areas in Aleppo tightens, all kinds of goods are difficult to come by\. Hospitals and clinics are in especially bad shape, as they are regularly targeted by Russian and Syrian airstrikes and the shortages\. As such, if the regime does not weaken its grasp, other means of delivery will be necessary\.
 
 
-![](assets/764bd49751af/1*yh5rHBnqYqSCCp7O2dFwWw.jpeg)
+![](../assets/764bd49751af/1*yh5rHBnqYqSCCp7O2dFwWw.jpeg)
 
 #### Greece
 ### Refugees are increasingly resorting to making a land crossing from Turkey to Greece\.

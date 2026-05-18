@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: Pictures and video footage were sent to AYS, revealing the squalor and the shameful conditions that refugees are forced to endure. They are…
 image:
-  path: assets/70ba8b9ab89f/1*6GaUO5eGv9mL3zk8swyjjg.jpeg
+  path: ../assets/70ba8b9ab89f/1*6GaUO5eGv9mL3zk8swyjjg.jpeg
 ---
 
 ### AYS NEWS DIGEST 16/9 — Refugee at Adavasci Transit Center on the border with Hungary reveals horrid conditions\.
@@ -46,11 +46,11 @@ Living conditions in the Adasevci Transit Center near the Serbian border with Cr
 Over the past couple of weeks, AYS received disturbing reports from refugees, volunteers, and activists in Serbia regarding this center\. According to refugees, the center management restricts their freedom of movement\. While during a day they are all free to leave the center, they have to be back in the evening for a roll call\. If somebody is not present, they are threatened with the possibility of losing their place in the camp, but more importantly losing the opportunity to receive a number that will allow them to cross the Hungarian to continue their journey\.
 
 
-![](assets/70ba8b9ab89f/1*6GaUO5eGv9mL3zk8swyjjg.jpeg)
+![](../assets/70ba8b9ab89f/1*6GaUO5eGv9mL3zk8swyjjg.jpeg)
 
 
 
-![Photos sent to us by a refugee\.](assets/70ba8b9ab89f/1*4yq_tRCqeDyuXOs0q_1Nxg.jpeg)
+![Photos sent to us by a refugee\.](../assets/70ba8b9ab89f/1*4yq_tRCqeDyuXOs0q_1Nxg.jpeg)
 
 Photos sent to us by a refugee\.
 

@@ -7,14 +7,14 @@ categories:
 tags: [europe,immigration,refugees]
 description: The Syrian people continues to face casualties in spite of the ceasefire. EU Parliament passes a symbolic resolution condemning current…
 image:
-  path: assets/bdb695ef9239/1*gxfb3BN3jvW4ADMJbx7bkw.jpeg
+  path: ../assets/bdb695ef9239/1*gxfb3BN3jvW4ADMJbx7bkw.jpeg
 ---
 
 ### AYS DAILY NEWS DIGEST 12\.4\.2016
 #### The Syrian people continues to face casualties in spite of the ceasefire\. EU Parliament passes a symbolic resolution condemning current EU\-Turkey deal, while simultaneously voting to allow intervention in EU countries not stringent enough in preventing refugees from flowing into Europe\.
 
 
-![Refugees left stranded at Piraeus port, near Athens\. Photographer: Savvas Karmaniolas\.](assets/bdb695ef9239/1*gxfb3BN3jvW4ADMJbx7bkw.jpeg)
+![Refugees left stranded at Piraeus port, near Athens\. Photographer: Savvas Karmaniolas\.](../assets/bdb695ef9239/1*gxfb3BN3jvW4ADMJbx7bkw.jpeg)
 
 Refugees left stranded at Piraeus port, near Athens\. Photographer: Savvas Karmaniolas\.
 #### **Syria**
@@ -143,7 +143,7 @@ Refugees left stranded at Piraeus port, near Athens\. Photographer: Savvas Karma
 
 
 
-![Warehouses are in desperate need of organizing\.](assets/bdb695ef9239/1*Wt1kHp5iWa-g5Dggl38GVw.jpeg)
+![Warehouses are in desperate need of organizing\.](../assets/bdb695ef9239/1*Wt1kHp5iWa-g5Dggl38GVw.jpeg)
 
 Warehouses are in desperate need of organizing\.
 ### Volunteers needed in Polykastro warehouse
@@ -356,7 +356,7 @@ Warehouses are in desperate need of organizing\.
 #### **Croatia**
 
 
-![Children spend their last day in Slavonski Brod camp playing \. Photographer: Gabriela Banic](assets/bdb695ef9239/1*ucw75u8lC9_mcY7LZT0N9w.jpeg)
+![Children spend their last day in Slavonski Brod camp playing \. Photographer: Gabriela Banic](../assets/bdb695ef9239/1*ucw75u8lC9_mcY7LZT0N9w.jpeg)
 
 Children spend their last day in Slavonski Brod camp playing \. Photographer: Gabriela Banic
 ### Slavonski Brod Camp scheduled to close tomorrow morning

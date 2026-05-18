@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 9/5/17: Large-scale evacuations of makeshift camps
+title: "AYS Daily Digest 9/5/17: Large-scale evacuations of makeshift camps"
 author: Are You Syrious?
 date: 2017-05-10T00:30:44.915+0100
 last_modified_at: 2017-05-10T10:28:42.941+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,greece,belgrade-eviction,paris-evictions]
 description: Hunger strike and evacuation in Belgrade / IOM reports from the sea / Pre-departure centre to be opened on Chios / 77% more people deported…
 image:
-  path: assets/a1349184bbbb/1*nyvLKP4ZDrlLXTE1BdXF0A.jpeg
+  path: ../assets/a1349184bbbb/1*nyvLKP4ZDrlLXTE1BdXF0A.jpeg
 ---
 
 ### AYS Daily Digest 9/5/17: Large\-scale evacuations of makeshift camps
 #### Hunger strike and evacuation in Belgrade / IOM reports from the sea / Pre\-departure centre to be opened on Chios / 77% more people deported from Austria this year comparing to 2016 / Permanent Centres for Repatriation in Italy / Evacuation at the Porte de La Chapelle in Paris
 
 
-![Belgrade, photo by [Ruhi Loren Akhtar](https://www.facebook.com/ruhi.akhtar.7)](assets/a1349184bbbb/1*nyvLKP4ZDrlLXTE1BdXF0A.jpeg)
+![Belgrade, photo by [Ruhi Loren Akhtar](https://www.facebook.com/ruhi.akhtar.7)](../assets/a1349184bbbb/1*nyvLKP4ZDrlLXTE1BdXF0A.jpeg)
 
 Belgrade, photo by [Ruhi Loren Akhtar](https://www.facebook.com/ruhi.akhtar.7)
 #### FEATURE
@@ -37,7 +37,7 @@ The idea that the authorities started applying with some of the approximately 2,
 The Info Park volunteers [report](https://www.facebook.com/infoparkserbia/posts/1305730352814559?hc_location=ufi) that 37 minors were moved to Krnjača during the day, while 55 adult refugees were taken to Sombor\. Some of the refugees might leave the camps to go back to the Belgrade city centre, individuals claim\.
 
 
-![Photo: [Info Park](https://www.facebook.com/infoparkserbia/)](assets/a1349184bbbb/1*UfOIitOn_E3i2WwkecJxvA.jpeg)
+![Photo: [Info Park](https://www.facebook.com/infoparkserbia/)](../assets/a1349184bbbb/1*UfOIitOn_E3i2WwkecJxvA.jpeg)
 
 Photo: [Info Park](https://www.facebook.com/infoparkserbia/)
 
@@ -110,7 +110,7 @@ IOM Libya reported this week that since last Friday morning \(5 May\), 685 peopl
 
 
 
-![](assets/a1349184bbbb/1*T_Jm0I0KVSamS0B589uonA.png)
+![](../assets/a1349184bbbb/1*T_Jm0I0KVSamS0B589uonA.png)
 
 
 IOM’s latest detailed Mediterranean infographics is available [here](http://migration.iom.int/docs/MMP/090517_Mediterranean_Update.pdf) \.
@@ -175,7 +175,7 @@ Ship Vos Hestia [arrived in the harbor](http://viveremilano.biz/2017/05/09/migra
 The national plan foresees the transferring of 100 migrants to Lumbardy, 100 to Campania, 100 to Lazio, 50 to Veneto, 50 to Puglia, 50 to Emilia Romagna and 50 to Calabria\.
 
 
-![IOM chart displays that Nigeria, as was the case last year, represents the largest single nationality of migrants arriving in Italy, followed by Bangladesh, Guinea, Cote d’Ivoire and Gambia](assets/a1349184bbbb/1*wqdnFPEixJMlXiNfPzqTdw.jpeg)
+![IOM chart displays that Nigeria, as was the case last year, represents the largest single nationality of migrants arriving in Italy, followed by Bangladesh, Guinea, Cote d’Ivoire and Gambia](../assets/a1349184bbbb/1*wqdnFPEixJMlXiNfPzqTdw.jpeg)
 
 IOM chart displays that Nigeria, as was the case last year, represents the largest single nationality of migrants arriving in Italy, followed by Bangladesh, Guinea, Cote d’Ivoire and Gambia
 
@@ -192,16 +192,16 @@ Around a thousand of refugees staying in makeshift camps at the Porte de La Chap
 350 members of the police force performed the operation removing the people staying there, mostly of Afghan and different African nationalities\. A total of 1609 people, including 75 women and unaccompanied minors, were taken from the area and sent to the officially provided lodging\. Officials claim that the temporary accommodation will be the place where the people’s legal and other needs will be met and they would be given advice on what to do next, according to particular cases, the [authorities claim](http://mobile.lemonde.fr/immigration-et-diversite/article/2017/05/09/operation-d-evacuation-de-campements-de-migrants-installes-porte-de-la-chapelle-a-paris_5124523_1654200.html) at the moment\.
 
 
-![Photo: [**Faty Tiah**](https://www.facebook.com/fatma.tiah)](assets/a1349184bbbb/1*40cL3eT1Y13dvDACzpccTQ.jpeg)
+![Photo: [**Faty Tiah**](https://www.facebook.com/fatma.tiah)](../assets/a1349184bbbb/1*40cL3eT1Y13dvDACzpccTQ.jpeg)
 
 Photo: [**Faty Tiah**](https://www.facebook.com/fatma.tiah)
 
 
-![](assets/a1349184bbbb/1*1Fa4HYooa7GR1P4lt-ugWA.jpeg)
+![](../assets/a1349184bbbb/1*1Fa4HYooa7GR1P4lt-ugWA.jpeg)
 
 
 
-![Photos: Faty Tiah](assets/a1349184bbbb/1*AfZkOhEWnAHSlRb-FHZfQA.jpeg)
+![Photos: Faty Tiah](../assets/a1349184bbbb/1*AfZkOhEWnAHSlRb-FHZfQA.jpeg)
 
 Photos: Faty Tiah
 

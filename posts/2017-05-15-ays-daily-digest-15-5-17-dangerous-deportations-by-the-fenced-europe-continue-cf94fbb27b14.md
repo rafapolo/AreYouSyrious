@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 15/5/17: Dangerous deportations by the ‘fenced’ Europe continue
+title: "AYS Daily Digest 15/5/17: Dangerous deportations by the ‘fenced’ Europe continue"
 author: Are You Syrious?
 date: 2017-05-15T23:45:19.998+0100
 last_modified_at: 2017-05-16T00:07:55.565+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,afghanistan,europe,human-rights,greece]
 description: Deportations to danger and absence of responsibility for the resulting deaths / New arrivals on crowded Greek islands; doctors wanted on…
 image:
-  path: assets/cf94fbb27b14/1*RoGN1hhdyCSvuM1DiPfnCA.png
+  path: ../assets/cf94fbb27b14/1*RoGN1hhdyCSvuM1DiPfnCA.png
 ---
 
 ### AYS Daily Digest 15/5/17: Dangerous deportations by the ‘fenced’ Europe continue
 #### Deportations to danger and absence of responsibility for the resulting deaths / New arrivals on crowded Greek islands; doctors wanted on Lesvos; new local racist attacks / Europe urges Hungary to pull back the infamous Bill / millions of asylum funds in the hands of the mafia and Church charities in Italy / Europe’s fences damage wildlife
 
 
-![Source of the infographic: [article](http://journals.plos.org/plosbiology/article?id=10.1371%2Fjournal.pbio.1002483)](assets/cf94fbb27b14/1*RoGN1hhdyCSvuM1DiPfnCA.png)
+![Source of the infographic: [article](http://journals.plos.org/plosbiology/article?id=10.1371%2Fjournal.pbio.1002483)](../assets/cf94fbb27b14/1*RoGN1hhdyCSvuM1DiPfnCA.png)
 
 Source of the infographic: [article](http://journals.plos.org/plosbiology/article?id=10.1371%2Fjournal.pbio.1002483)
 ### Afghanistan — Deportations to insecurity and death threats continue
@@ -30,11 +30,11 @@ This sparked outrage and [reactions](https://www.change.org/p/bundeskanzlerin-an
 A group of organizations in Vienna are also organizing [demonstrations](https://www.facebook.com/events/192914171218341/) against the forced deportations to Afghanistan practiced by the Austrian government\.
 
 
-![](assets/cf94fbb27b14/1*8zqD0i4kBMSFnlvN_f5Vjg.jpeg)
+![](../assets/cf94fbb27b14/1*8zqD0i4kBMSFnlvN_f5Vjg.jpeg)
 
 
 
-![](assets/cf94fbb27b14/1*P9NXftXVFZliwJXzKo6CeA.jpeg)
+![](../assets/cf94fbb27b14/1*P9NXftXVFZliwJXzKo6CeA.jpeg)
 
 
 The [Poverty Status Update report](http://documents.worldbank.org/curated/en/667181493794491292/Afghanistan-poverty-status-update-progress-at-risk) shows that Afghan households have been negatively affected by the crisis triggered by the security risk and political transition\. Poverty increased substantially from 36 percent in 2011–12 to 39 percent in 2013–14\. As a result, 1\.3 million more Afghans were unable to satisfy their basic needs\.
@@ -65,7 +65,7 @@ The potential doctors who could apply should speak English, additional knowledge
 Accommodation and transport will be provided\. Those interested in this opportunity please write to aid@ercintl\.org, with MEDICAL in subject of the email\.
 
 
-![[**ERCI — Emergency Response Centre International**](https://www.facebook.com/ercintl/)](assets/cf94fbb27b14/1*Vqi9qjOaZBX9sorBJfuSFw.jpeg)
+![[**ERCI — Emergency Response Centre International**](https://www.facebook.com/ercintl/)](../assets/cf94fbb27b14/1*Vqi9qjOaZBX9sorBJfuSFw.jpeg)
 
 [**ERCI — Emergency Response Centre International**](https://www.facebook.com/ercintl/)
 ### Greeks protest the new austerity package measures with a 24\-hour general strike
@@ -103,7 +103,7 @@ The number of asylum seekers at the Serbian\-Hungarian transit zones is constant
 
 
 
-![Photo: [SIRIUS\.HELP](https://www.facebook.com/sirius.help/)](assets/cf94fbb27b14/1*HtBa6zm6Zum77DLdWjJzsA.jpeg)
+![Photo: [SIRIUS\.HELP](https://www.facebook.com/sirius.help/)](../assets/cf94fbb27b14/1*HtBa6zm6Zum77DLdWjJzsA.jpeg)
 
 Photo: [SIRIUS\.HELP](https://www.facebook.com/sirius.help/)
 

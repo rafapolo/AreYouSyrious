@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 24–25/11/22: Vigils held for people who died in the Channel
+title: "AYS News Digest 24–25/11/22: Vigils held for people who died in the Channel"
 author: Are You Syrious?
 date: 2022-11-26T13:31:36.784+0000
 last_modified_at: 2022-11-26T18:01:17.981+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,channel,borders,uk]
 description: A person in Distress in Northern Greece — rescue needed now! // Shipwreck off Grand Canaria // Criminalisation of Human Rights Defender in…
 image:
-  path: assets/b22d118d5503/1*7wLuPUz0OJxNpwpmq9SseQ.jpeg
+  path: ../assets/b22d118d5503/1*7wLuPUz0OJxNpwpmq9SseQ.jpeg
 ---
 
 ### AYS News Digest 24–25/11/22: Vigils held for people who died in the Channel
@@ -15,7 +15,7 @@ image:
 A person in distress in northern Greece — rescue needed now\! // Shipwreck off Grand Canaria // Criminalisation of human rights defender in Greece // Updates from Serbia // SAR in the Med // Worth reading and more…
 
 
-![\(Image Credit: @ChannelRescue\)](assets/b22d118d5503/1*7wLuPUz0OJxNpwpmq9SseQ.jpeg)
+![\(Image Credit: @ChannelRescue\)](../assets/b22d118d5503/1*7wLuPUz0OJxNpwpmq9SseQ.jpeg)
 
 \(Image Credit: @ChannelRescue\)
 #### FEATURE: Vigils held for people who died in the Channel
@@ -108,7 +108,7 @@ C [ontinued delays in disembarking people](https://www.middleeasteye.net/news/me
 A person with a severely injured leg is in need of assistance in the north of Greece\. [Alarm Phone have contacted the Hellenic police](https://twitter.com/alarm_phone/status/1596141974641577985) but have lost contact with the individual and have not received word from the authorities\. Where is he?
 
 
-![\(Photo Credit: @alarm\_phone\)](assets/b22d118d5503/0*ruQWabft6GnCE5uL)
+![\(Photo Credit: @alarm\_phone\)](../assets/b22d118d5503/0*ruQWabft6GnCE5uL)
 
 \(Photo Credit: @alarm\_phone\)
 

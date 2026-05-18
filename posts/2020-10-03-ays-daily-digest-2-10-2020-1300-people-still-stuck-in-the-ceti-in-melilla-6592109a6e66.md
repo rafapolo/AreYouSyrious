@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 2/10/2020: 1300 people still stuck in the CETI in Melilla
+title: "AYS Daily Digest 2/10/2020: 1300 people still stuck in the CETI in Melilla"
 author: Are You Syrious?
 date: 2020-10-03T13:09:08.843+0100
 last_modified_at: 2020-10-03T14:20:38.692+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [kara-tepe,moria,melilla,lead-poisoning,digest]
 description: Kara Tepe new camp may have been built on toxic soil / Repatriations from Spanish enclaves to Morocco after month of border closure / more
 image:
-  path: assets/6592109a6e66/1*IeWtNqXqVAT98LNKm55qRw.jpeg
+  path: ../assets/6592109a6e66/1*IeWtNqXqVAT98LNKm55qRw.jpeg
 ---
 
 ### AYS Daily Digest 2/10/2020: 1300 people still stuck in the CETI in Melilla
@@ -15,7 +15,7 @@ image:
 Kara Tepe new camp may have been built on toxic soil / Repatriations from Spanish enclaves to Morocco after month of border closure / Italy and Tunisia agree on doubling deportations / New police raid in Calais / Updates from the Med, Greece, Bosnia…
 
 
-![Child playing with ammunition cases found on the ground at Kara Tepe new camp \(Photo by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/934839927039112) \)](assets/6592109a6e66/1*IeWtNqXqVAT98LNKm55qRw.jpeg)
+![Child playing with ammunition cases found on the ground at Kara Tepe new camp \(Photo by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/934839927039112) \)](../assets/6592109a6e66/1*IeWtNqXqVAT98LNKm55qRw.jpeg)
 
 Child playing with ammunition cases found on the ground at Kara Tepe new camp \(Photo by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/934839927039112) \)
 #### FEATURED — 1300 people still stuck in the CETI in Melilla, despite supreme court ruling
@@ -63,11 +63,11 @@ GREECE
 We have already reported about the possible contamination of the area in which the so\-called ‘Moria 2’ was hastily built\. Until last year, the area was used as an active shooting range for the Greek Army\. Mission Lifeline [reported](https://twitter.com/SEENOTRETTUNG/status/1310141074925654016) about sighting soldiers checking the ground with metal detectors, and unearthing operations to retrieve what seemed to be a mine\.
 
 
-![](assets/6592109a6e66/1*pEsuJXOZPIdgZ3SPrF_DAA.jpeg)
+![](../assets/6592109a6e66/1*pEsuJXOZPIdgZ3SPrF_DAA.jpeg)
 
 
 
-![New camp in Kara Tepe \(Photos by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/934839927039112) \)](assets/6592109a6e66/1*1z_GFMI4yFiCuHxcHiKrUw.jpeg)
+![New camp in Kara Tepe \(Photos by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/934839927039112) \)](../assets/6592109a6e66/1*1z_GFMI4yFiCuHxcHiKrUw.jpeg)
 
 New camp in Kara Tepe \(Photos by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/934839927039112) \)
 
@@ -226,7 +226,7 @@ Local media [report](https://radiosarajevo.ba/vijesti/bosna-i-hercegovina/cikoti
 
 
 
-![Lipa Camp, photo by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/a.312076942523930/1086203985111218/)](assets/6592109a6e66/1*m7kiOkg1wN4PA32f8_29Aw.jpeg)
+![Lipa Camp, photo by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/a.312076942523930/1086203985111218/)](../assets/6592109a6e66/1*m7kiOkg1wN4PA32f8_29Aw.jpeg)
 
 Lipa Camp, photo by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/a.312076942523930/1086203985111218/)
 
@@ -260,7 +260,7 @@ Care4Calais [report](https://www.facebook.com/care4calais/posts/3695122660520664
 
 
 
-![Photo by [Care4Calais](https://www.facebook.com/care4calais/posts/3695122660520664)](assets/6592109a6e66/1*TCuzcMZs9eYa-jSx3Bi6dQ.jpeg)
+![Photo by [Care4Calais](https://www.facebook.com/care4calais/posts/3695122660520664)](../assets/6592109a6e66/1*TCuzcMZs9eYa-jSx3Bi6dQ.jpeg)
 
 Photo by [Care4Calais](https://www.facebook.com/care4calais/posts/3695122660520664)
 

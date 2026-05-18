@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe,syria,libya,france]
 description: Feature
 image:
-  path: assets/9d9f828e37b0/1*6t4fkV368UdYWlrCHFlKqw.png
+  path: ../assets/9d9f828e37b0/1*6t4fkV368UdYWlrCHFlKqw.png
 ---
 
 ### AYS DAILY DIGEST 03\.11\.2016 — Ultimatum hangs over the heads of East Aleppo rebels\.
 
 
-![A demolished building in rebel\-held East Aleppo\. Photo Credit: Getty Images](assets/9d9f828e37b0/1*6t4fkV368UdYWlrCHFlKqw.png)
+![A demolished building in rebel\-held East Aleppo\. Photo Credit: Getty Images](../assets/9d9f828e37b0/1*6t4fkV368UdYWlrCHFlKqw.png)
 
 A demolished building in rebel\-held East Aleppo\. Photo Credit: Getty Images
 #### Feature
@@ -21,7 +21,7 @@ A demolished building in rebel\-held East Aleppo\. Photo Credit: Getty Images
 Russia has announced that a ‘humanitarian pause’ is to take place in Aleppo on November 4, from 9am to 7pm, to give civilians and rebels one last chance to leave the besieged eastern districts of the city\. The plan includes a total of eight corridors, 6 for civilians and 2 for rebels, that will allow those wishing to leave a final chance to do so before what will be a massive military push to bring the rebel\-controlled districts under the Syrian regime’s control\.
 
 
-[![Drone footage shows damage in besieged Aleppo](assets/9d9f828e37b0/1df5_hqdefault.jpg "Drone footage shows damage in besieged Aleppo")](http://www.youtube.com/watch?v=Lou4sP9VnUc)
+[![Drone footage shows damage in besieged Aleppo](../assets/9d9f828e37b0/1df5_hqdefault.jpg "Drone footage shows damage in besieged Aleppo")](http://www.youtube.com/watch?v=Lou4sP9VnUc)
 
 
 Russia says that the assault will consist of a massive bombing campaign which will proceed to level what’s left of the city which has been the site of battle for almost 5 years\. People on the ground however are questioning the very existence of these supposed routes to safety\. Mistrust of regime forces and their Russian allies is incredibly high owing to their indiscriminate bombings of civilian targets such as hospitals and schools under the guise of so\-called anti\-terrorism operations\. Regime promises of amnesty are cause for much skepticism for who might otherwise consider laying down arms\. Indeed, what guarantee exists that there won’t be reprisals?
@@ -53,7 +53,7 @@ The story of the camp’s siege is unfortunately not new\. The camp has been und
 ### SNHR releases numbers of dead for the month\.
 
 
-![](assets/9d9f828e37b0/1*UBjYsnasEhKdOtdYeC1C7g.png)
+![](../assets/9d9f828e37b0/1*UBjYsnasEhKdOtdYeC1C7g.png)
 
 
 The SNHR shows yet again that the government and its Russian allies have been responsible for the greatest civilian casualties\. The two were responsible for nearly 72% of the deaths that have occurred in October, followed by ISIS with 12% of casualties\. These figures go to show that while opposition forces have been behind some of the grisly crimes committed during this bloody war, one cannot simply place a sign of equivalence between the regime and those who oppose it\. All war crimes are to be condemned equally, and yet it is clear who the biggest perpetrator is\.
@@ -143,7 +143,7 @@ The attackers were arrested on Wednesday after they had attacked a group of refu
 ### Project Hope 4 Kids asks for applicants to teaching positions in Filippiada
 
 
-![](assets/9d9f828e37b0/1*NEydhcLoG979X2uvPtdYGg.png)
+![](../assets/9d9f828e37b0/1*NEydhcLoG979X2uvPtdYGg.png)
 
 
 
@@ -203,7 +203,7 @@ The attackers were arrested on Wednesday after they had attacked a group of refu
 ### Donations needed to buy clothing for refugees\!
 
 
-![](assets/9d9f828e37b0/1*qtJSsrTVkIqow9QiLXZRsQ.png)
+![](../assets/9d9f828e37b0/1*qtJSsrTVkIqow9QiLXZRsQ.png)
 
 
 
@@ -235,7 +235,7 @@ The quality of the camps are said to vary widely, some reporting that they have 
 #### Libya
 
 
-![Some of the 605 refugees rescued today by MOAS vessels\. Photo Credit: Francesco Malavolta\.](assets/9d9f828e37b0/1*D403uBklHqC2aPBZRudr2g.png)
+![Some of the 605 refugees rescued today by MOAS vessels\. Photo Credit: Francesco Malavolta\.](../assets/9d9f828e37b0/1*D403uBklHqC2aPBZRudr2g.png)
 
 Some of the 605 refugees rescued today by MOAS vessels\. Photo Credit: Francesco Malavolta\.
 ### At least 239 refugees were killed after two boats capsized\.
@@ -298,7 +298,7 @@ In response to the shocking report, the European Commission denied responsibilit
 ### Demonstration staged outside of Russian embassy in London\.
 
 
-![](assets/9d9f828e37b0/1*52DUgWIn_HqqF3Iwmf1wPQ.png)
+![](../assets/9d9f828e37b0/1*52DUgWIn_HqqF3Iwmf1wPQ.png)
 
 
 Masses of mannequin arms [were left outside](https://www.facebook.com/ramijarah/posts/10154791134982873) of the Russian embassy in London by activists working with The Syria Campaign, in protest against the violence of the ongoing bloodshed on East Aleppo and the coming escalation\. The Russian embassy war targeted owing to the country’s central role in the ongoing war tearing the country apart\.

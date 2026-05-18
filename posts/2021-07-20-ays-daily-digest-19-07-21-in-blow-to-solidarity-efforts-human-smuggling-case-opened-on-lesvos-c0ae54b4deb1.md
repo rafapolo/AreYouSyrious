@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 19/07/21: In Blow to Solidarity Efforts, Human Smuggling Case Opened on Lesvos
+title: "AYS Daily Digest 19/07/21: In Blow to Solidarity Efforts, Human Smuggling Case Opened on Lesvos"
 author: Are You Syrious?
 date: 2021-07-20T14:40:19.753+0100
 last_modified_at: 2021-07-20T15:18:00.930+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,migration,refugees,racism,frontex]
 description: Rescue off Spain // Frontex in Evros // Hunger striker in bad health in Belgium // Racist attack in Germany // Ylva Johansson responds to…
 image:
-  path: assets/c0ae54b4deb1/1*JmsnsxKA03-MkSHjuti6-g.png
+  path: ../assets/c0ae54b4deb1/1*JmsnsxKA03-MkSHjuti6-g.png
 ---
 
 ### AYS Daily Digest 19/07/21: In Blow to Solidarity Efforts, Human Smuggling Case Opened on Lesvos
@@ -15,7 +15,7 @@ image:
 ### FEATURE — 10 people, including 4 NGO workers, are caught up in legal case designed to criminalize their work on Lesvos
 
 
-![A screenshot from an article by Stonisi, a local news outlet, which erroneously stated that the 10 individuals had already been arrested\. The article has since been changed\. \(Source: [Lena K\., Twitter](https://twitter.com/lk2015r/status/1417073032456294400/photo/1) \)](assets/c0ae54b4deb1/1*JmsnsxKA03-MkSHjuti6-g.png)
+![A screenshot from an article by Stonisi, a local news outlet, which erroneously stated that the 10 individuals had already been arrested\. The article has since been changed\. \(Source: [Lena K\., Twitter](https://twitter.com/lk2015r/status/1417073032456294400/photo/1) \)](../assets/c0ae54b4deb1/1*JmsnsxKA03-MkSHjuti6-g.png)
 
 A screenshot from an article by Stonisi, a local news outlet, which erroneously stated that the 10 individuals had already been arrested\. The article has since been changed\. \(Source: [Lena K\., Twitter](https://twitter.com/lk2015r/status/1417073032456294400/photo/1) \)
 

@@ -1,5 +1,5 @@
 ---
-title: AYS News 18/10: Calais eviction sprouts new “Jungles” across France
+title: "AYS News 18/10: Calais eviction sprouts new “Jungles” across France"
 author: Are You Syrious?
 date: 2016-10-18T22:42:29.649+0100
 last_modified_at: 2016-10-19T10:56:11.754+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,syria,afghanistan,refugee-camps]
 description: The Calais eviction will start on the October 24th, what does that mean for refugees? France has yet to build spaces where to receive the…
 image:
-  path: assets/9e307db3225d/0*70R4raiX5grDoHH3.
+  path: ../assets/9e307db3225d/0*70R4raiX5grDoHH3.
 ---
 
 ### AYS News 18/10: Calais eviction sprouts new “Jungles” across France
@@ -19,7 +19,7 @@ image:
 
 
 
-![Credits: Alpkhan Photography](assets/9e307db3225d/0*70R4raiX5grDoHH3.)
+![Credits: Alpkhan Photography](../assets/9e307db3225d/0*70R4raiX5grDoHH3.)
 
 Credits: Alpkhan Photography
 #### France
@@ -36,7 +36,7 @@ In the first two days, the Nouvelle\-Aquitaine, Hauts\-de\-France and Grand\-Est
 The Calais eviction will fill all the existing CAOs, and this will in turn delay the building of a camp in Paris, as well as the processing of refugees’ asylum claims\. This is horrific, seeing the already long lines in front of processing centres, where people start lining up at 5 p\.m\., spend the night in lines to possibly be able to be registered the following day\.
 
 
-![Refugees sleeping in front of the asylum processing centre\.](assets/9e307db3225d/0*LFnx919bJSoEfQmE.)
+![Refugees sleeping in front of the asylum processing centre\.](../assets/9e307db3225d/0*LFnx919bJSoEfQmE.)
 
 Refugees sleeping in front of the asylum processing centre\.
 
@@ -57,7 +57,7 @@ The UK group, Langar Aid, an organization that provides food and water to people
 #### Greece
 
 
-![Suda camp, Chios island\. Credits: [**Asa Sulima**](https://www.facebook.com/asa.sulima.7)](assets/9e307db3225d/0*50Kfw_jymghxURR9.)
+![Suda camp, Chios island\. Credits: [**Asa Sulima**](https://www.facebook.com/asa.sulima.7)](../assets/9e307db3225d/0*50Kfw_jymghxURR9.)
 
 Suda camp, Chios island\. Credits: [**Asa Sulima**](https://www.facebook.com/asa.sulima.7)
 ### Arrivals
@@ -99,7 +99,7 @@ After spending months outdoors, refugees are finally receiving firm living space
 Refugees have been using these blankets for six months without having a place to wash them\. Such blankets are the most fertile ground for spread of diseases and epidemics\. Great job, Dirty Girls\!
 
 
-![Credits: [**Dirty Girls Of Lesvos Island**](https://www.facebook.com/dirtygirlslesvos/?fref=nf)](assets/9e307db3225d/0*ZkqPbrMmNQHuKWQv.)
+![Credits: [**Dirty Girls Of Lesvos Island**](https://www.facebook.com/dirtygirlslesvos/?fref=nf)](../assets/9e307db3225d/0*ZkqPbrMmNQHuKWQv.)
 
 Credits: [**Dirty Girls Of Lesvos Island**](https://www.facebook.com/dirtygirlslesvos/?fref=nf)
 
@@ -108,17 +108,17 @@ Elpida herb garden is growing and adding some nice flavours to refugee lives
 The Elpida herb garden is a beautiful collaboration between residents and volunteers\. Not only does it look beautiful at the entrance to Elpida, it also adds colour and taste to the food\. Parsley is quickly being transformed into delicious tabbouleh, lemon balm and mint become tea, and sage finds it’s way into sauces and garnishings\. The kitchen has never smelt this good, volunteers say\.
 
 
-![Credits: [**Together for Better Days**](https://www.facebook.com/betterdays.ngo/)](assets/9e307db3225d/0*jSA0aq4lU_eAP5BZ.)
+![Credits: [**Together for Better Days**](https://www.facebook.com/betterdays.ngo/)](../assets/9e307db3225d/0*jSA0aq4lU_eAP5BZ.)
 
 Credits: [**Together for Better Days**](https://www.facebook.com/betterdays.ngo/)
 
 
-![Credits: [**Together for Better Days**](https://www.facebook.com/betterdays.ngo/)](assets/9e307db3225d/0*9QAm5Kn-2S77lF4y.)
+![Credits: [**Together for Better Days**](https://www.facebook.com/betterdays.ngo/)](../assets/9e307db3225d/0*9QAm5Kn-2S77lF4y.)
 
 Credits: [**Together for Better Days**](https://www.facebook.com/betterdays.ngo/)
 
 
-![Credits: [**Together for Better Days**](https://www.facebook.com/betterdays.ngo/)](assets/9e307db3225d/0*iXvXLOyUTOr9zC5K.)
+![Credits: [**Together for Better Days**](https://www.facebook.com/betterdays.ngo/)](../assets/9e307db3225d/0*iXvXLOyUTOr9zC5K.)
 
 Credits: [**Together for Better Days**](https://www.facebook.com/betterdays.ngo/)
 ### Doctors needed in Athens
@@ -126,7 +126,7 @@ Credits: [**Together for Better Days**](https://www.facebook.com/betterdays.ngo/
 Athens is in urgent need of specialists’ medical support by: doctor specialized in chondrosarcoma and malignant cancer, thorax surgeon, neurosurgeon, orthopedician, opthalmologist, diabetes type I specialist, endocrinologist\. Please contact [Electra Leda Koutra](https://www.facebook.com/electra.koutra?fref=ts) if you can help\.
 
 
-![Credits: Alpkhan Photography](assets/9e307db3225d/0*bym-APCFOIwHGVnM.)
+![Credits: Alpkhan Photography](../assets/9e307db3225d/0*bym-APCFOIwHGVnM.)
 
 Credits: Alpkhan Photography
 ### Information on registration process in Greece in Arabic

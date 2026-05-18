@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 30/11/18: Denmark unveils plan for Nauru-style deportation center on Lindholm…
+title: "AYS Daily Digest 30/11/18: Denmark unveils plan for Nauru-style deportation center on Lindholm…"
 author: Are You Syrious?
 date: 2018-12-01T08:49:03.901+0000
 last_modified_at: 2018-12-05T09:15:44.567+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,nauru,denmark,asylum-seekers]
 description: Traffickers arrested in Morocco // On-the-ground reports from Bosnia // Humanitarian Corridor brings 70 more refugees to Rome // Salvini…
 image:
-  path: assets/51e6d236cc09/1*ou1U4eTxDcXqALhJPwoyRw.jpeg
+  path: ../assets/51e6d236cc09/1*ou1U4eTxDcXqALhJPwoyRw.jpeg
 ---
 
 ### AYS Daily Digest 30/11/18: Denmark unveils plan for Nauru\-style deportation center on Lindholm island
@@ -15,7 +15,7 @@ image:
 _Traffickers arrested in Morocco // On\-the\-ground reports from Bosnia // Humanitarian Corridor brings 70 more refugees to Rome // Salvini Decree goes into effect // Anti\-deportation demonstrations in Rennes // Unaccompanied minors at high risk of sexual abuse in Paris_ // _Photos from Tijuana, where asylum seekers wait under heavy rains // And more…_
 
 
-![The island where the detention center will be held\. Source: [Nyheder](http://nyheder.tv2.dk/politik/2018-11-30-udviste-kriminelle-udlaendinge-skal-ud-paa-en-oe?fbclid=IwAR1sbruDMM5xmiwdcz8l7tEM2x6WIFnvYFhlAYQV-5FbkuMBIxIayukitrE)](assets/51e6d236cc09/1*ou1U4eTxDcXqALhJPwoyRw.jpeg)
+![The island where the detention center will be held\. Source: [Nyheder](http://nyheder.tv2.dk/politik/2018-11-30-udviste-kriminelle-udlaendinge-skal-ud-paa-en-oe?fbclid=IwAR1sbruDMM5xmiwdcz8l7tEM2x6WIFnvYFhlAYQV-5FbkuMBIxIayukitrE)](../assets/51e6d236cc09/1*ou1U4eTxDcXqALhJPwoyRw.jpeg)
 
 The island where the detention center will be held\. Source: [Nyheder](http://nyheder.tv2.dk/politik/2018-11-30-udviste-kriminelle-udlaendinge-skal-ud-paa-en-oe?fbclid=IwAR1sbruDMM5xmiwdcz8l7tEM2x6WIFnvYFhlAYQV-5FbkuMBIxIayukitrE)
 #### FEATURE —
@@ -29,7 +29,7 @@ Australia’s Nauru Island has been a travesty — first and foremost for the pe
 Though the plan has not yet passed into law, it is supported by Denmark’s second\-most powerful political party, the populist DPP\. The budget could be rejected, which would trigger parliamentary elections, but this has never happened before\. It appears that this ill\-conceived, dehumanizing plan is all but guaranteed to be put into action — the only thing left to do is register dissent\.
 
 
-![Nauru Island, home to a brutal detention center\. Source: [Free the Children NAURU](https://www.facebook.com/childrennauru/photos/a.930616530389206/973018722815653/?type=3)](assets/51e6d236cc09/1*yePkvvY6Z7DwExfZNIhSmg.jpeg)
+![Nauru Island, home to a brutal detention center\. Source: [Free the Children NAURU](https://www.facebook.com/childrennauru/photos/a.930616530389206/973018722815653/?type=3)](../assets/51e6d236cc09/1*yePkvvY6Z7DwExfZNIhSmg.jpeg)
 
 Nauru Island, home to a brutal detention center\. Source: [Free the Children NAURU](https://www.facebook.com/childrennauru/photos/a.930616530389206/973018722815653/?type=3)
 #### Morocco
@@ -128,11 +128,11 @@ The 3 rescue boats currently operational in the Mediterranean have released a jo
 There are 17,500 refugees now on the Greek Islands, according to the Aegean Boat Report’s latest figures\.
 
 
-![](assets/51e6d236cc09/1*i21HnKdCklmot6N1dl-EHg.jpeg)
+![](../assets/51e6d236cc09/1*i21HnKdCklmot6N1dl-EHg.jpeg)
 
 
 
-![Torrential rains flooded the Olive Grove, next to Moria\. Source: [Anna Pantelia](https://www.facebook.com/pantelia.anna/posts/2080559915329643)](assets/51e6d236cc09/1*mdOQmoshm30uq0EnCxYztQ.jpeg)
+![Torrential rains flooded the Olive Grove, next to Moria\. Source: [Anna Pantelia](https://www.facebook.com/pantelia.anna/posts/2080559915329643)](../assets/51e6d236cc09/1*mdOQmoshm30uq0EnCxYztQ.jpeg)
 
 Torrential rains flooded the Olive Grove, next to Moria\. Source: [Anna Pantelia](https://www.facebook.com/pantelia.anna/posts/2080559915329643)
 
@@ -183,7 +183,7 @@ A lot of news from Italy today, by turns hopeful and sobering\.
 **No Name Kitchen released a new statement on the group’s expulsion from Rome\.**
 
 
-![Unloading crates of apples\. Source: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/pcb.629667964098158/629664497431838/?type=3&theater)](assets/51e6d236cc09/1*aspUN_0mKo8uJmyBOX9niA.jpeg)
+![Unloading crates of apples\. Source: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/pcb.629667964098158/629664497431838/?type=3&theater)](../assets/51e6d236cc09/1*aspUN_0mKo8uJmyBOX9niA.jpeg)
 
 Unloading crates of apples\. Source: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/pcb.629667964098158/629664497431838/?type=3&theater)
 
@@ -210,7 +210,7 @@ The law also includes measures that facilitate the following: asylum revocation 
 **Finally, a new calendar featuring the images from \#Medfaces campaign was released\.**
 
 
-![The 2019 calendar\. Source: [Medu](https://www.facebook.com/MEDUonlus/photos/pcb.10156813174879817/10156813174129817/?type=3&theater)](assets/51e6d236cc09/1*HXkAOv2NePS6YpuO_kmgIA.jpeg)
+![The 2019 calendar\. Source: [Medu](https://www.facebook.com/MEDUonlus/photos/pcb.10156813174879817/10156813174129817/?type=3&theater)](../assets/51e6d236cc09/1*HXkAOv2NePS6YpuO_kmgIA.jpeg)
 
 The 2019 calendar\. Source: [Medu](https://www.facebook.com/MEDUonlus/photos/pcb.10156813174879817/10156813174129817/?type=3&theater)
 
@@ -239,7 +239,7 @@ Sunday will be partly sunny and warmer\. More cloudy alongside the coast with a 
 #### Bosnia
 
 
-![A volunteer bandages a refugee’s feet\. Source: [Gypsy Kokè](https://www.facebook.com/GipsyKoke/)](assets/51e6d236cc09/1*rLyK8hcvFaZRQ1n8afIGWQ.jpeg)
+![A volunteer bandages a refugee’s feet\. Source: [Gypsy Kokè](https://www.facebook.com/GipsyKoke/)](../assets/51e6d236cc09/1*rLyK8hcvFaZRQ1n8afIGWQ.jpeg)
 
 A volunteer bandages a refugee’s feet\. Source: [Gypsy Kokè](https://www.facebook.com/GipsyKoke/)
 
@@ -254,7 +254,7 @@ _Still not enough to feed the people and keep them from freezing_ \.”
 See the original post [here](https://www.facebook.com/GipsyKoke/posts/818905995118454) \.
 
 
-![Sarajevo on a winter’s night\. Source: AYS](assets/51e6d236cc09/1*JhHCcUt3RN9N5hsXIZKW7A.jpeg)
+![Sarajevo on a winter’s night\. Source: AYS](../assets/51e6d236cc09/1*JhHCcUt3RN9N5hsXIZKW7A.jpeg)
 
 Sarajevo on a winter’s night\. Source: AYS
 
@@ -297,27 +297,27 @@ The Refugee Info Bus provides wifi, phone charging stations, and information to 
 Finally, in Tijuana, over 5,000 asylum seekers waited in heavy rains after U\.S forces engaged in violent pushbacks this past week\. Carlos Verela, a photographer from the city, went to talk with some of them\. “They have a dream,” Verela reported, but “they’re trapped\.” See a selection of his stunning photos below\.
 
 
-![](assets/51e6d236cc09/1*Gu_pbuOIj358kOtT6n9fYQ.jpeg)
+![](../assets/51e6d236cc09/1*Gu_pbuOIj358kOtT6n9fYQ.jpeg)
 
 
 
-![](assets/51e6d236cc09/1*DNijleMc0PFzGxPMxdcOOA.jpeg)
+![](../assets/51e6d236cc09/1*DNijleMc0PFzGxPMxdcOOA.jpeg)
 
 
 
-![](assets/51e6d236cc09/1*Pt6ZyOjO0EZa1bl-_ncYwg.jpeg)
+![](../assets/51e6d236cc09/1*Pt6ZyOjO0EZa1bl-_ncYwg.jpeg)
 
 
 
-![](assets/51e6d236cc09/1*4creXu-zWjTTgnarVwDCSA.jpeg)
+![](../assets/51e6d236cc09/1*4creXu-zWjTTgnarVwDCSA.jpeg)
 
 
 
-![](assets/51e6d236cc09/1*efgcIAx1UOyw2KbKvwkGCg.jpeg)
+![](../assets/51e6d236cc09/1*efgcIAx1UOyw2KbKvwkGCg.jpeg)
 
 
 
-![](assets/51e6d236cc09/1*SzJOHkx5MRi4VZO1nlXQZw.jpeg)
+![](../assets/51e6d236cc09/1*SzJOHkx5MRi4VZO1nlXQZw.jpeg)
 
 
 **We strive to echo correct news from the ground through collaboration and fairness\.**

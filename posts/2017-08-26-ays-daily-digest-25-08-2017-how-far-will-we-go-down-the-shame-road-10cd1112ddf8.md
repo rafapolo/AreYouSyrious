@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 25/08/17: How far will we go down the shame road?
+title: "AYS Daily Digest 25/08/17: How far will we go down the shame road?"
 author: Are You Syrious?
 date: 2017-08-26T02:24:55.151+0100
 last_modified_at: 2017-08-29T17:45:54.019+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,libya,greece,italy,france]
 description: Jugend Rettet update / More arrivals in Greece and new asylum figures / Solidarity with refugees in Italy / Paris still with little support…
 image:
-  path: assets/10cd1112ddf8/1*IIWjnKC3f2lg5zy2DMP06g.jpeg
+  path: ../assets/10cd1112ddf8/1*IIWjnKC3f2lg5zy2DMP06g.jpeg
 ---
 
 ### AYS Daily Digest 25/08/17: How far will we go down the shame road?
@@ -15,7 +15,7 @@ image:
 _Jugend Rettet update / More arrivals in Greece and new asylum figures / Solidarity with refugees in Italy / Paris still with little support allowed after fivedays / Festival recoveries in the UK / Volunteers needed / And more news…_
 
 
-![Da Ventimiglia a Roma: i diritti non hanno confini — From Ventimiglia to Rome: rights have no boundaries: [**Progetto20k**](https://www.facebook.com/progetto20k/)](assets/10cd1112ddf8/1*IIWjnKC3f2lg5zy2DMP06g.jpeg)
+![Da Ventimiglia a Roma: i diritti non hanno confini — From Ventimiglia to Rome: rights have no boundaries: [**Progetto20k**](https://www.facebook.com/progetto20k/)](../assets/10cd1112ddf8/1*IIWjnKC3f2lg5zy2DMP06g.jpeg)
 
 Da Ventimiglia a Roma: i diritti non hanno confini — From Ventimiglia to Rome: rights have no boundaries: [**Progetto20k**](https://www.facebook.com/progetto20k/)
 ### Feature
@@ -51,7 +51,7 @@ These guys, among others groups, deserve our full support since without them out
 Recently, IOM published another report on the numbers around the Mediterranean sea\.
 
 
-![Image by [**IOM‏**](https://twitter.com/UNmigration)](assets/10cd1112ddf8/1*4SemX1H3XT0eQODPZtP5qQ.jpeg)
+![Image by [**IOM‏**](https://twitter.com/UNmigration)](../assets/10cd1112ddf8/1*4SemX1H3XT0eQODPZtP5qQ.jpeg)
 
 Image by [**IOM‏**](https://twitter.com/UNmigration)
 ### Greece
@@ -67,7 +67,7 @@ To add to this Greek tragedy, other European countries are due to start sending 
 [**Mobile Info Team for refugees in Greece — الفريق المتنقل لمعلومات اللاجئين**](https://www.facebook.com/mobileinfoteam/?hc_ref=ARTeHuNP7FPQ8Mdzk07_-m6NoSwnniJ6Pw0es_1Ssx1BTTiehDp9adWBTbSH86aW7GQ&fref=nf) has published the Asylum Application Statistics in Greece between July 2013 and July 217\.
 
 
-![Photo by [**Mobile Info Team for refugees in Greece — الفريق المتنقل لمعلومات اللاجئين**](https://www.facebook.com/mobileinfoteam/)](assets/10cd1112ddf8/1*oIQVIc2qttLTPXYdn1d6DA.jpeg)
+![Photo by [**Mobile Info Team for refugees in Greece — الفريق المتنقل لمعلومات اللاجئين**](https://www.facebook.com/mobileinfoteam/)](../assets/10cd1112ddf8/1*oIQVIc2qttLTPXYdn1d6DA.jpeg)
 
 Photo by [**Mobile Info Team for refugees in Greece — الفريق المتنقل لمعلومات اللاجئين**](https://www.facebook.com/mobileinfoteam/)
 
@@ -106,7 +106,7 @@ Residents have rejected alternatives offered over the past few days because they
 
 
 
-![Photo by [Progetto20k](https://www.facebook.com/progetto20k/)](assets/10cd1112ddf8/1*bpQjUWt2FBego-EoNzNfmA.jpeg)
+![Photo by [Progetto20k](https://www.facebook.com/progetto20k/)](../assets/10cd1112ddf8/1*bpQjUWt2FBego-EoNzNfmA.jpeg)
 
 Photo by [Progetto20k](https://www.facebook.com/progetto20k/)
 
@@ -150,12 +150,12 @@ In Ventimiglia the situation continues to be very difficult, and a group called 
 
 
 
-![Photo by [**Opentheborders\. Storie oltre muri, recinti e confini**](https://www.facebook.com/opentheborders3/?hc_ref=ARQWQMZbiIwpZTfPQiI4eYYUtgnlJPIi7g3CmCbMqJeQx_Giep5MD63KnQCOyAW94Sk)](assets/10cd1112ddf8/1*Esa6YTxLbnYRA0Rp7tevHw.jpeg)
+![Photo by [**Opentheborders\. Storie oltre muri, recinti e confini**](https://www.facebook.com/opentheborders3/?hc_ref=ARQWQMZbiIwpZTfPQiI4eYYUtgnlJPIi7g3CmCbMqJeQx_Giep5MD63KnQCOyAW94Sk)](../assets/10cd1112ddf8/1*Esa6YTxLbnYRA0Rp7tevHw.jpeg)
 
 Photo by [**Opentheborders\. Storie oltre muri, recinti e confini**](https://www.facebook.com/opentheborders3/?hc_ref=ARQWQMZbiIwpZTfPQiI4eYYUtgnlJPIi7g3CmCbMqJeQx_Giep5MD63KnQCOyAW94Sk)
 
 
-![Photo by [**Opentheborders\. Storie oltre muri, recinti e confini**](https://www.facebook.com/opentheborders3/?hc_ref=ARQWQMZbiIwpZTfPQiI4eYYUtgnlJPIi7g3CmCbMqJeQx_Giep5MD63KnQCOyAW94Sk)](assets/10cd1112ddf8/1*mMsnLq80WQzUMIQfDOQu1w.jpeg)
+![Photo by [**Opentheborders\. Storie oltre muri, recinti e confini**](https://www.facebook.com/opentheborders3/?hc_ref=ARQWQMZbiIwpZTfPQiI4eYYUtgnlJPIi7g3CmCbMqJeQx_Giep5MD63KnQCOyAW94Sk)](../assets/10cd1112ddf8/1*mMsnLq80WQzUMIQfDOQu1w.jpeg)
 
 Photo by [**Opentheborders\. Storie oltre muri, recinti e confini**](https://www.facebook.com/opentheborders3/?hc_ref=ARQWQMZbiIwpZTfPQiI4eYYUtgnlJPIi7g3CmCbMqJeQx_Giep5MD63KnQCOyAW94Sk)
 

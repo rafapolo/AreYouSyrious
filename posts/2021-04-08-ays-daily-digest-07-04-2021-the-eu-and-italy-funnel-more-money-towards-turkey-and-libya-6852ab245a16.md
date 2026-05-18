@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,italy,libya,spain,uk]
 description: The UK Home Office has been reported to plan on moving people in the Napier Barracks, after earlier this year they were declared unfit to…
 image:
-  path: assets/6852ab245a16/1*MzXO3ElYEyT4hUIAqBh4bQ.png
+  path: ../assets/6852ab245a16/1*MzXO3ElYEyT4hUIAqBh4bQ.png
 ---
 
 ### AYS Daily Digest 07/04/2021 — The EU and Italy funnel more money towards Turkey and Libya, disregarding human rights violations
@@ -29,7 +29,7 @@ The EU is also financing “ [Operation Irini](http://The EU operation monitorin
 ### ITALY
 
 
-![](assets/6852ab245a16/1*MzXO3ElYEyT4hUIAqBh4bQ.png)
+![](../assets/6852ab245a16/1*MzXO3ElYEyT4hUIAqBh4bQ.png)
 
 
 The Italian Prime Minister Mario Draghi [met his Libyan counterpart](http://www.ansamed.info/ansamed/en/news/nations/libya/2021/04/06/draghi-in-libya-says-unique-time-for-rebuilding-friendship_ecda8e25-ca9d-479a-b657-ae37de04ff8f.html?fbclid=IwAR0wmlPlMcXovgwCYtWgA_7pv2QNPSMRtRXJGc8zQZq4r1hsE8uPEReWl_A) two days ago \(6 April\) in his first official visit abroad\. He has thanked the Libyan coast guard, expressed satisfaction with Libya’s operations in the Mediterranean, and committed to assist the country further in its efforts to curb illegal migration\.
@@ -71,7 +71,7 @@ In an interview, [migration lawyer Serena Romano](https://www.ildubbio.news/2021
 ### SEA
 
 
-![](assets/6852ab245a16/1*0eeJYREhD19bbloowIxGPw.jpeg)
+![](../assets/6852ab245a16/1*0eeJYREhD19bbloowIxGPw.jpeg)
 
 
 Further news on Libya has been reported [by the IOM](https://twitter.com/IOM_Libya/status/1379805010616270849?fbclid=IwAR0oQ2vUlasCPRoaCSkXrCdsb8YcVouzxU_zHsunEWdQNg3-PxONtkaT6J8) \.
@@ -87,7 +87,7 @@ Further news on Libya has been reported [by the IOM](https://twitter.com/IOM_Lib
 ### SPAIN
 
 
-![](assets/6852ab245a16/1*kMn0XjDX8g70CG47iN2_-Q.jpeg)
+![](../assets/6852ab245a16/1*kMn0XjDX8g70CG47iN2_-Q.jpeg)
 
 
 This photo documents three young men [being kicked out](https://twitter.com/PalazonOsma/status/1379562565882241024?fbclid=IwAR33o-NxLmIBcmvPyYlJWR7Y6eEJISgkdVSvTWb19QMWayWQl1jfLUjbKDU) of a centre for unaccompanied minors after being assessed that they are not minors, near Melilla\.
@@ -122,7 +122,7 @@ After much debate over the inhumane conditions faced by migrants at the Napier B
 
 
 
-![](assets/6852ab245a16/0*ip1BOqN3szZbq-KP)
+![](../assets/6852ab245a16/0*ip1BOqN3szZbq-KP)
 
 
 Tomorrow is a day of action against a contractor developing a new detention centre\. Follow it [_here_](https://twitter.com/wallsmustfall/status/1379747307802013699?fbclid=IwAR2YN8gXucJ0gxF6MXN3z8-Gh9FKxhUIvDJywBKqVOvJVkPQI7pIgDx6GII) \.
@@ -229,7 +229,7 @@ A [thread on the use of detention for Syrian refugees](https://twitter.com/Alysi
 ### **BALKAN ROUTE**
 
 
-![](assets/6852ab245a16/1*MJqRpoPhy4vc-MvVHuW38A.jpeg)
+![](../assets/6852ab245a16/1*MJqRpoPhy4vc-MvVHuW38A.jpeg)
 
 
 Helicopters are in use along Croatia’s EU borders, as recent data suggests\.These are used for border\-area securitization efforts: read — pushbacks\.

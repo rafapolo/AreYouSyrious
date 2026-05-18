@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 16/04/2018: Free at last!
+title: "AYS DAILY DIGEST 16/04/2018: Free at last!"
 author: Are You Syrious?
 date: 2018-04-17T08:59:36.165+0100
 last_modified_at: 2018-04-17T08:59:36.165+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,justice,solidarity,eu]
 description: Proactiva Open Arms has been released//Arrivals in Greece//Demo in Mytilini on Tuesday in solidarity with the Moria35//Donations and…
 image:
-  path: assets/c46b2e189cef/1*963kWbQjpeJ7rU48TEQJSQ.jpeg
+  path: ../assets/c46b2e189cef/1*963kWbQjpeJ7rU48TEQJSQ.jpeg
 ---
 
 ### AYS DAILY DIGEST 16/04/2018: Free at last\!
@@ -15,7 +15,7 @@ image:
 _Proactiva Open Arms has been released//Arrivals in Greece//Demo in Mytilini on Tuesday in solidarity with the Moria35//Donations and volunteers needed in Rhodes and Lesvos//Solidarity with the firefighters accused of saving lives at sea//2 years birthday party of City Plaza//Travel agency been accused of delays in buying tickets for family reunification has now been removed from offering the service//Refugees who can and received documents for family reunification, need to buy tickets on their own before the 6 months deadline//Demo in Paris against the new immigration bill//New self\-managed shelter opened on the French\-Italian border_
 
 
-![Credit: Inaki y Frenchy](assets/c46b2e189cef/1*963kWbQjpeJ7rU48TEQJSQ.jpeg)
+![Credit: Inaki y Frenchy](../assets/c46b2e189cef/1*963kWbQjpeJ7rU48TEQJSQ.jpeg)
 
 Credit: Inaki y Frenchy
 
@@ -114,7 +114,7 @@ Please, sustain the incredible work done by Refugee Women’s Centre to support 
 **French\-Italian border**
 
 
-![Credit: Briser les Frontières](assets/c46b2e189cef/1*FA55Yx2T6DCAjN75gtfqSA.jpeg)
+![Credit: Briser les Frontières](../assets/c46b2e189cef/1*FA55Yx2T6DCAjN75gtfqSA.jpeg)
 
 Credit: Briser les Frontières
 

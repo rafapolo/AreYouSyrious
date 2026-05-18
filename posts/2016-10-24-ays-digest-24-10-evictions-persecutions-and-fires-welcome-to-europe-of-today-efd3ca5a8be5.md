@@ -1,5 +1,5 @@
 ---
-title: AYS digest 24/10: Evictions, persecutions and fires — welcome to Europe of today
+title: "AYS digest 24/10: Evictions, persecutions and fires — welcome to Europe of today"
 author: Are You Syrious?
 date: 2016-10-24T23:31:14.994+0100
 last_modified_at: 2016-10-24T23:46:24.755+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: First day of “final” eviction of the Jungle / Confusion as to where people are going especially when it comes to unaccompanied minors /…
 image:
-  path: assets/efd3ca5a8be5/1*kyYlqqcKkr9QRtCdnyMEzg.jpeg
+  path: ../assets/efd3ca5a8be5/1*kyYlqqcKkr9QRtCdnyMEzg.jpeg
 ---
 
 ### AYS digest 24/10: Evictions, persecutions and fires — welcome to Europe of today
@@ -15,7 +15,7 @@ image:
 First day of “final” eviction of the Jungle / Confusion as to where people are going especially when it comes to unaccompanied minors / Fire in Moria camp, EASO staff left the camp, unclear when the procedure will continue / Info park kiosk closing, but organization is continuing the work in the streets of Belgrade / Ahmad H\. trial to begin soon, if you were at Rozske — you can help with additional video materials and testimonies
 
 
-![First day of evictions in Calais, 1200 police depoloyed](assets/efd3ca5a8be5/1*kyYlqqcKkr9QRtCdnyMEzg.jpeg)
+![First day of evictions in Calais, 1200 police depoloyed](../assets/efd3ca5a8be5/1*kyYlqqcKkr9QRtCdnyMEzg.jpeg)
 
 First day of evictions in Calais, 1200 police depoloyed
 ### **First day of “final” clearing of “The Jungle”**
@@ -25,7 +25,7 @@ As we have been reporting, today the announced final eviction of the Jungle has 
 Around 1200 police officers have been deployed for this action and total of 60 buses are driving around the clock in an action to relocate those who have stayed \(by some reports 6500\) \. Many have moved by them selves \(around 3500\) and around 200 unaccompanied minors that have been allowed to go to U\.K\. out of more than a 1000 that have been registered by September census\. As we have reported tensions were high yesterday, but today it seems that today most of the people left peacefully\.
 
 
-![Leaving the Jungle](assets/efd3ca5a8be5/1*dkVxUTJq7nNKcroVvodzZg.jpeg)
+![Leaving the Jungle](../assets/efd3ca5a8be5/1*dkVxUTJq7nNKcroVvodzZg.jpeg)
 
 Leaving the Jungle
 
@@ -38,7 +38,7 @@ As Calais Action reports many of them are tired of the horrible conditions in th
 Calais is a place that seems as if it is the end of the world, probably the worst place one can find themselves at, but as Refugee info bus reports — many do not know where they are being taken away since authorities have not provided this information and the only thing people have to go on are leaflets distributed by the mentioned organization\. In a move so familiar to all of those on the move, as to us working with them — authorities did not consider that they are dealing with people with their own dignity and rights and did not see fit to properly inform about where people are going to after the Jungle\.
 
 
-![Refugee Info Bus](assets/efd3ca5a8be5/1*DkiUGgBMnX-7YPUBKWqeGQ.jpeg)
+![Refugee Info Bus](../assets/efd3ca5a8be5/1*DkiUGgBMnX-7YPUBKWqeGQ.jpeg)
 
 Refugee Info Bus
 ### **Info on the eviction procedure**
@@ -47,7 +47,7 @@ Depending on the aimed destination, the refugees get a colored wrist\. If 50 per
 ### **Unaccompanied minors**
 
 
-![](assets/efd3ca5a8be5/1*slteEsaTxm4UD6eFgr6uEg.jpeg)
+![](../assets/efd3ca5a8be5/1*slteEsaTxm4UD6eFgr6uEg.jpeg)
 
 
 The confusion becomes really alarming when it comes to unaccompanied minors\. It seems that 49 of them are still kept in the Jungle in order for world forces to decide what to do with them\. We bring you the report about the situation with unaccompanied minors from Help refugees in full:
@@ -69,14 +69,14 @@ UK Home Secretary Amber Ruud defends the slow process to bring unaccompanied min
 ### Fire in Moria
 
 
-![Moria camp](assets/efd3ca5a8be5/1*n9JtqybOhkZHJe0LJlDbSA.jpeg)
+![Moria camp](../assets/efd3ca5a8be5/1*n9JtqybOhkZHJe0LJlDbSA.jpeg)
 
 Moria camp
 
 There was 92 new arrivals at Greek island in the last 24 hours\. As for the numbers game situation remains pretty much the same, but, or precisely because of that fact the fire broke out in the Moria center on Lesvos where over 6000 people wait for months to have their claim processed\. As Kathimerini news reports “Asylum\-seekers attacked the premises of the European Asylum Support Office \(EASO\) on the island of Lesvos on Monday, protesting against delays in dealing with asylum claims, Greek and EU authorities said\. About 70 people, most from Pakistan and Bangladesh, threw rocks and burning blankets at EASO containers inside the Moria migrant camp, damaging three of those, a Greek police spokesman for the island said\.” EASO staff has evacuated the camp and have announced that the process will be halted for unforeseeable time\.
 
 
-![Fire in Moria](assets/efd3ca5a8be5/1*MAjYrKtQ-dHnXTID7TzdFQ.jpeg)
+![Fire in Moria](../assets/efd3ca5a8be5/1*MAjYrKtQ-dHnXTID7TzdFQ.jpeg)
 
 Fire in Moria
 ### Portugal wants to relocate 450 Yazidis, Greek administration says its discrimination
@@ -91,7 +91,7 @@ In more helpful news, a dietitian who has recently volunteered in Greece with th
 ### Mini market opened in Filippiada
 
 
-![](assets/efd3ca5a8be5/1*ECB2jBMS5hRvSOgnCl1_VQ.jpeg)
+![](../assets/efd3ca5a8be5/1*ECB2jBMS5hRvSOgnCl1_VQ.jpeg)
 
 
 Also, Refugee support group from Greece reports Big news in Filippiada: “our free mini\-market has opened\! Our volunteers have created a pleasant, calm shop environment and we are using a unique points system so that refugees can choose what they need rather than being given a set basket\. This is a huge leap in dignity\. Thank you to all our donors who made this possible and to [Live for Lives foundation](https://www.facebook.com/liveforlivesfoundation/) whose lovely volunteers emptied shelves from the local supermarket so that we can offer great choices on our first day”
@@ -99,7 +99,7 @@ Also, Refugee support group from Greece reports Big news in Filippiada: “our f
 ### Info Park closing
 
 
-![](assets/efd3ca5a8be5/1*HVfwWKs3XuIKZ7itoRF--w.jpeg)
+![](../assets/efd3ca5a8be5/1*HVfwWKs3XuIKZ7itoRF--w.jpeg)
 
 
 With around 1000 refugees on the streets of Belgrade, Info park has been moved from the park next to Bristol hotel\. As the organization has pointed out — they will distribute help around the places where people currently settle, but also will move into new place starting October 1st\. There they will have other activities besides the ones they were doing up until now\.

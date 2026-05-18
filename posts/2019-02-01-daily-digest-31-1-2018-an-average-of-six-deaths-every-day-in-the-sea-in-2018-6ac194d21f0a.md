@@ -1,5 +1,5 @@
 ---
-title: DAILY DIGEST 31/1/2018: An average of six deaths every day in the sea in 2018
+title: "DAILY DIGEST 31/1/2018: An average of six deaths every day in the sea in 2018"
 author: Are You Syrious?
 date: 2019-02-01T10:49:16.298+0000
 last_modified_at: 2019-02-01T23:11:11.542+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,unhcr,greece,european-union]
 description: Since 2015, 640 children died while trying to reach safety in the EU // Pushbacks and violence is what EU was made from in 2018 // The…
 image:
-  path: assets/6ac194d21f0a/1*9VVVut7OiXK_4XXUj1AQDg.jpeg
+  path: ../assets/6ac194d21f0a/1*9VVVut7OiXK_4XXUj1AQDg.jpeg
 ---
 
 ### AYS Daily Digest 31/01/2018: An average of six deaths every day in the sea in 2018
@@ -15,7 +15,7 @@ image:
 _Since 2015, 640 children died while trying to reach safety in the EU // Pushbacks and violence are what EU is made from in 2018 // The situation in Yemen is getting worse every day // People housed with the help of ESTIA program in Greece will have to leave their houses soon // Dutch Protestant church ended a non\-stop service for asylum seekers // And more news…_
 
 
-![2019 by Sherif Arafa](assets/6ac194d21f0a/1*9VVVut7OiXK_4XXUj1AQDg.jpeg)
+![2019 by Sherif Arafa](../assets/6ac194d21f0a/1*9VVVut7OiXK_4XXUj1AQDg.jpeg)
 
 2019 by Sherif Arafa
 ### FEATURE
@@ -29,7 +29,7 @@ People were dying while trying to cross land routes, too\. **At least 136 deaths
 **At least 57 people died** **after arriving in Europe and travelling onwards** from one state to another\. This included **32 deaths in the Western Balkans** , as well as seven deaths as people tried to move on from Italy and five as people tried to cross from France to England\.
 
 
-![](assets/6ac194d21f0a/1*MmBagvK6u4FFkI2PZ_ji8w.png)
+![](../assets/6ac194d21f0a/1*MmBagvK6u4FFkI2PZ_ji8w.png)
 
 
 At the borders between Morocco and the Spanish enclaves of Ceuta and Melilla, **at least six deaths** were reported of which four took place during or after attempts to cross the fence\.
@@ -146,7 +146,7 @@ The [Campus Bus](https://www.facebook.com/campusbus/?__tn__=%2CdKH-R-R&eid=ARBbe
 ### ITALY
 
 
-![](assets/6ac194d21f0a/1*LlKpzhTxoOpNJ0E78KlpNg.jpeg)
+![](../assets/6ac194d21f0a/1*LlKpzhTxoOpNJ0E78KlpNg.jpeg)
 
 
 [Along the Balkan Route](https://www.facebook.com/lungolarottabalcanica/?__tn__=%2CdkCH-R-R&eid=ARDQyi46UUk56Qp4EVRo44tTUWYmQ7y0RFh1vTvKKJJ7EI8k9FgZj57ld4qiNyapITLr-zDzws6ZbAmG&hc_ref=ARQjgJzlGDRiihxyQCDgwb7wH3rzUBzWCXxpjtYeck-kY_G32rJfi6Q8UO1bZNMR90M&fref=nf&hc_location=group) organizes a series of talks after eight months spent in Bosnia and Greece\.
@@ -181,7 +181,7 @@ In the letter co\-signed by PRO ASYL to Federal Minister of Justice Barley and F
 [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__xts__%5B0%5D=68.ARA-mwTJIELGyE01Ax2wCNlxWR-nVbuykd9xroBZ_6UryTrRMFlI9MsMi37sMnkGQA8TWHckqts6WqiQQEUZvsuHSMjBhkwo2-Pm7tSgeTsgyT6sHiDa5rolJ9ZKmcRAbC3bAHSLaS-v5prDcY1_KtWQLwwFIJXZEXUPXZa1vbv-vJ4n3cIeA-9NLSWwZjmPYgXc4LIFLr5O0OQyo35axiGFtU8stisk5Lq2gQ5ZaQlaDPR-fhc89R5JKM4HlwkH0riaXvqVJxazyKBF4ySxCC_98KjxByM1HAhj5D9ZuauiT1QAvdF22zdqqvHK_bo_dW-MSB0Tw2JK37VvbbzonZ_0xoY1IzxYV079vfBDU9Vvy7uD&__tn__=%2CdkCH-R-R&eid=ARAdT1lmXW0iwqBHXcD50PLIrXqeqZJrDfWiyqKzTZmqrYAslWObIZ1AIdA0Yt2ygEDx92x-wrPf1hQU&hc_ref=ARQp-pbCt6gibqoEMj7nSRji63jdxBN1ZAv9D4zgMOdqeARsU8vka1n77domoPleqK0&fref=nf&hc_location=group) reports about more evictions in the camp Porte de la villette, Paris\.
 
 
-![](assets/6ac194d21f0a/1*ib8PucxTcBRWXNAo2X5QJA.jpeg)
+![](../assets/6ac194d21f0a/1*ib8PucxTcBRWXNAo2X5QJA.jpeg)
 
 
 Follow their Facebook page to get more information, and help if you can\.
@@ -190,7 +190,7 @@ Follow their Facebook page to get more information, and help if you can\.
 New drop off points for France:
 
 
-![](assets/6ac194d21f0a/1*qe2kuUcduw_Rd69JTN-Szg.jpeg)
+![](../assets/6ac194d21f0a/1*qe2kuUcduw_Rd69JTN-Szg.jpeg)
 
 
 **We also publish weekly summaries of some of the most important news reported during the past week in our Daily News Digest: here are the [Arabic](%D8%AA%D9%85%D9%88%D9%8A%D9%84-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A-%D9%8A%D9%85%D9%86%D8%B9-%D8%A5%D9%86%D9%82%D8%A7%D8%B0-%D8%A7%D9%84%D8%A3%D8%B1%D9%88%D8%A7%D8%AD-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1-%D8%A8%D9%8A%D9%86%D9%85%D8%A7-%D9%8A%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D9%85%D8%AE%D9%8A%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%84%D8%A7%D8%A5%D9%86%D8%B3%D8%A7%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D9%82%D8%A7%D9%86-a7dc22e7bf7f) and [Persian](%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%A7%D8%B2-%D9%BE%D8%B1%D8%AF%D8%A7%D8%AE%D8%AA-%D9%87%D8%B2%DB%8C%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%86%D8%AC%D8%A7%D8%AA-%D9%85%D8%B1%D8%AF%D9%85-%D8%AF%D8%B1-%D8%AF%D8%B1%DB%8C%D8%A7-%D8%AC%D9%84%D9%88%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF-%D8%AF%D8%B1-%D8%AD%D8%A7%D9%84%DB%8C-%DA%A9%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%A9%D9%85%D9%BE-%D9%87%D8%A7%DB%8C-%D9%86%D8%A7%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%AF%D8%B1-586506d64ef8) editions for the week of January 21–28\.**

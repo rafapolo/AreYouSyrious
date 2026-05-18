@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 19/9/19: Families evicted from squats in Athens
+title: "AYS Daily Digest 19/9/19: Families evicted from squats in Athens"
 author: Are You Syrious?
 date: 2019-09-20T11:16:31.340+0100
 last_modified_at: 2019-09-20T13:55:56.845+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,migration,greece,balkans,squatting]
 description: 225 people have been evicted from Acharnes 22 and Jasmine School squats, including 46 families and 98 minors / Evicted refugees have been…
 image:
-  path: assets/4fbfc4144a79/1*9_cVZP09IX9nSGPIW59qvA.jpeg
+  path: ../assets/4fbfc4144a79/1*9_cVZP09IX9nSGPIW59qvA.jpeg
 ---
 
 ### AYS Daily Digest 19/9/19: Families evicted from squats in Athens
 #### 269 people have been evicted from Acharnes 22 and Jasmine School squats, including 46 families and 98 minors / Evicted refugees have been transferred to the new Corinthos camp which is not equipped to host human beings / Big influx of new arrivals to Greek islands: more than 500 people in the last 24 hours / Refugees sleeping rough in Bosnian city of Tuzla, local authorities ignoring the approaching winter / Families manage to ask for asylum in Croatia, but no one can guarantee that new arrivals won’t be pushed back / Sudanese man killed by guards after forcible return to Libyan coast / Volunteers needed in Italy, where numbers of new arrivals are rising / Far\-right groups patrolling the Dover coast to intercept migrant boats
 
 
-![There were 30 babies and small children among evicted refugees / Photo: Nasim Lomani](assets/4fbfc4144a79/1*9_cVZP09IX9nSGPIW59qvA.jpeg)
+![There were 30 babies and small children among evicted refugees / Photo: Nasim Lomani](../assets/4fbfc4144a79/1*9_cVZP09IX9nSGPIW59qvA.jpeg)
 
 There were 30 babies and small children among evicted refugees / Photo: Nasim Lomani
 #### Feature story:
@@ -30,7 +30,7 @@ Solidarity groups have shared their outrage following two coordinated police rai
 Soon afterwards, 67 men, 50 women and 62 minors were evicted from the Jasmine School squat, at the nearby junction of Sourmeli, Acharnon and Mayer street\. The Jasmine School squat has been one of the beating hearts of solidarity in Athens\. Refugees have been living in it since 2016, when volunteers and future residents transformed a worn\-out, abandoned school into a place of solidarity and dignity\. Unlike the squat on 22 Acharnon street, Jasmine School is a public property with no plan for other use in the near future, which makes the eviction even more unnecessary\.
 
 
-![No children’s laughter anymore: empty Jasmine School squat in Athens\.](assets/4fbfc4144a79/1*1Pxq7WD9EnuDMhAajmEoNg.jpeg)
+![No children’s laughter anymore: empty Jasmine School squat in Athens\.](../assets/4fbfc4144a79/1*1Pxq7WD9EnuDMhAajmEoNg.jpeg)
 
 No children’s laughter anymore: empty Jasmine School squat in Athens\.
 
@@ -56,7 +56,7 @@ Long\-term volunteer and AYS member Leslie Meral Schick found the best words to 
 
 
 
-![Workers sealing the doors with concrete blocks to prevent return of the people\.](assets/4fbfc4144a79/1*G8W8qL8Mhulj3MIiqUn4Lg.jpeg)
+![Workers sealing the doors with concrete blocks to prevent return of the people\.](../assets/4fbfc4144a79/1*G8W8qL8Mhulj3MIiqUn4Lg.jpeg)
 
 Workers sealing the doors with concrete blocks to prevent return of the people\.
 
@@ -74,7 +74,7 @@ After the raid, most of the evicted refugees have been transferred by buses to t
 According to volunteers present on site, cooking areas and decent showers are missing from the camp, comparable to the notorious Malakasa camp\. With winter approaching, this is far from the acceptable solution for any human being, let alone the most vulnerable ones\.
 
 
-![Removed from the urban area and transferred to the middle of nowhere\. Photo: [Patricia Colón](https://www.facebook.com/patricia.colon)](assets/4fbfc4144a79/1*cGgSVRR7p8Up6XL6wm01Qg.jpeg)
+![Removed from the urban area and transferred to the middle of nowhere\. Photo: [Patricia Colón](https://www.facebook.com/patricia.colon)](../assets/4fbfc4144a79/1*cGgSVRR7p8Up6XL6wm01Qg.jpeg)
 
 Removed from the urban area and transferred to the middle of nowhere\. Photo: [Patricia Colón](https://www.facebook.com/patricia.colon)
 
@@ -86,7 +86,7 @@ According to the [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/
 According to the latest official figures, a total of 28,176 refugees are being hosted on Greek islands, roughly 26,600 of them on Lesvos, Chios and Samos\.
 
 
-![Six new boats arriving to Lesvos today brought mostly children and women\. Photo: ABR](assets/4fbfc4144a79/1*ntBbRp-g5DErbJBPGeXL4g.jpeg)
+![Six new boats arriving to Lesvos today brought mostly children and women\. Photo: ABR](../assets/4fbfc4144a79/1*ntBbRp-g5DErbJBPGeXL4g.jpeg)
 
 Six new boats arriving to Lesvos today brought mostly children and women\. Photo: ABR
 
@@ -106,7 +106,7 @@ In the Bosnian city of Tuzla, accommodation remains the biggest problem for refu
 
 
 
-![At the bus station alone, at least 150 refugees sleep rough every night\. Photo: Senad Cupo](assets/4fbfc4144a79/1*aOfX6WY9Ubj2KOMV6PVvtg.jpeg)
+![At the bus station alone, at least 150 refugees sleep rough every night\. Photo: Senad Cupo](../assets/4fbfc4144a79/1*aOfX6WY9Ubj2KOMV6PVvtg.jpeg)
 
 At the bus station alone, at least 150 refugees sleep rough every night\. Photo: Senad Cupo
 
@@ -122,7 +122,7 @@ The police have been present at the station every day for the past month and are
 During the day, the only restroom that refugees can use is at a nearby restaurant\. When office hours are over and that toilet is locked, there’s no decent place where physiological needs can be met\. Bathing seems like a distant dream for people who sleep on concrete floor\.
 
 
-![Local solidarity groups are making a huge difference for refugees in Tuzla\. Photo: Senad Cupo](assets/4fbfc4144a79/1*px2cWvA5-Ni43Nntgk4YAQ.jpeg)
+![Local solidarity groups are making a huge difference for refugees in Tuzla\. Photo: Senad Cupo](../assets/4fbfc4144a79/1*px2cWvA5-Ni43Nntgk4YAQ.jpeg)
 
 Local solidarity groups are making a huge difference for refugees in Tuzla\. Photo: Senad Cupo
 
@@ -144,7 +144,7 @@ AYS volunteers have noticed a small, but relevant increase of people who were al
 With the recently renewed access to Porin camp in Croatia, where we have been the only volunteer\-run NGO systematically working with children and minors since early 2016, we’re also noticing many new children who have obviously spent some time in the Balkans, because they know basics of Bosnian/Serbian language and they seem to have been involved in some educational activities in their previous locations\.
 
 
-![New kids have arrived to AYS classroom in Porin camp, many of them from Bosnia\. Photo: AYS](assets/4fbfc4144a79/1*LIMJt3OUwmqc3sMuEFtREg.jpeg)
+![New kids have arrived to AYS classroom in Porin camp, many of them from Bosnia\. Photo: AYS](../assets/4fbfc4144a79/1*LIMJt3OUwmqc3sMuEFtREg.jpeg)
 
 New kids have arrived to AYS classroom in Porin camp, many of them from Bosnia\. Photo: AYS
 #### **NGOs Can’t Guarantee Access to Asylum Procedure**
@@ -164,7 +164,7 @@ This tragedy comes two months after 53 migrants, among them six minors, were kil
 The Italian Ministry of the Interior has published [new statistical data](http://www.interno.gov.it/it/sala-stampa/dati-e-statistiche/sbarchi-e-accoglienza-dei-migranti-tutti-i-dati) showing that a total of 1,200 migrants had arrived by sea in September to date, most of them arriving on the islands of Lampedusa and Sardinia\. The majority of the migrants who arrived in Italy in September have come from Tunisia \(1,665\) followed by Pakistan \(862\) and then the Ivory Coast \(676\) \.
 
 
-![_The disembarkation of 10 Tunisian migrants at the port of Lampedusa \| Photo: ANSA_](assets/4fbfc4144a79/1*RtOPpz5LDtIJUqix5AR8Kg.jpeg)
+![_The disembarkation of 10 Tunisian migrants at the port of Lampedusa \| Photo: ANSA_](../assets/4fbfc4144a79/1*RtOPpz5LDtIJUqix5AR8Kg.jpeg)
 
 _The disembarkation of 10 Tunisian migrants at the port of Lampedusa \| Photo: ANSA_
 
@@ -177,17 +177,17 @@ With many new people who have just recently arrived in Italy by sea or land, med
 Right\-wing governments and populists have been claiming for a long time that SAR missions act as the “pull\-factor” for the new arrivals of refugees to European shores\. This has been debunked as nonsense too many times, but they seem pretty resilient to common sense arguments\. Therefore we encourage any spreading of the hard data which provides counter\-arguments for the toxic narratives that harm both refugees and SAR missions\.
 
 
-![](assets/4fbfc4144a79/1*GrxI2eNgta_vcqVZNQOfvw.png)
+![](../assets/4fbfc4144a79/1*GrxI2eNgta_vcqVZNQOfvw.png)
 
 
 
-![](assets/4fbfc4144a79/1*SuWaCtEHv20z08TF98-JHw.png)
+![](../assets/4fbfc4144a79/1*SuWaCtEHv20z08TF98-JHw.png)
 
 
 Twitter user [Matteo Villa](https://twitter.com/emmevilla) has shared a series of graphs showing the number of new arrivals from Lybia to Italy has not been affected by the presence of rescue ships\. However, the number of new arrivals has correlated significally with weather conditions that allow travel by the sea\. In the first 18 days of September alone, there were 75 new boat departures from Libya to Italy with no SAR vessels present in the area, while 44 boats have departed while SAR vessels were present on their route towards Italy\.
 
 
-![](assets/4fbfc4144a79/1*QTJvKtF2a6My24l2XQ3L6w.png)
+![](../assets/4fbfc4144a79/1*QTJvKtF2a6My24l2XQ3L6w.png)
 
 #### Denmark
 ### Minister of Integration: Foreign Criminals are Not Welcome Here, They Have to Go Home
@@ -206,7 +206,7 @@ Obviously not a decision taken from reasons of humanity, but solely from a vanta
 ### Far\-right Groups Patrolling the Dover Coast to Intercept Potential Migrant Arrivals
 
 
-![A Britain First member on beach patrol in Dover / Photo: Britain First](assets/4fbfc4144a79/1*aXCaIK31p0lJkzKPGQCj0w.jpeg)
+![A Britain First member on beach patrol in Dover / Photo: Britain First](../assets/4fbfc4144a79/1*aXCaIK31p0lJkzKPGQCj0w.jpeg)
 
 A Britain First member on beach patrol in Dover / Photo: Britain First
 

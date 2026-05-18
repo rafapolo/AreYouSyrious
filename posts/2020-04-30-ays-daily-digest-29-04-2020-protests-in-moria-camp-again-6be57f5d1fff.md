@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,moria,lesvos,digest,migrants]
 description: Illegal Pushbacks and Abuse of Power in Greece/// Another Ship Missing at Sea/// Slovenia & Portugal to Accept Unaccompanied Minors///…
 image:
-  path: assets/6be57f5d1fff/0*1D3SVY7p1ZiZCE_g
+  path: ../assets/6be57f5d1fff/0*1D3SVY7p1ZiZCE_g
 ---
 
 ### AYS Daily Digest 29/04/2020\- Protests in Moria Camp…Again
 ### Illegal Pushbacks and Abuse of Power in Greece/// Another Ship Missing at Sea/// Slovenia & Portugal to Accept Unaccompanied Minors/// Former OPM Operative Coordinated Deadly Pushback From Malta/// & More
 
 
-![](assets/6be57f5d1fff/0*AVD4C73mkn49XI5u.jpeg)
+![](../assets/6be57f5d1fff/0*AVD4C73mkn49XI5u.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----12638f897e6f----------------------)
@@ -22,11 +22,11 @@ image:
 [Apr 30](protests-in-moria-camp-again-12638f897e6f?source=post_page-----12638f897e6f----------------------) · 9 min read
 
 
-![](assets/6be57f5d1fff/0*annVm4uSUQwJsY8I)
+![](../assets/6be57f5d1fff/0*annVm4uSUQwJsY8I)
 
 
 
-![](assets/6be57f5d1fff/0*1D3SVY7p1ZiZCE_g)
+![](../assets/6be57f5d1fff/0*1D3SVY7p1ZiZCE_g)
 
 
 Photographers: Mohammed Essan and Ata Mustafawi for [Moria Corona Awareness Team](https://www.facebook.com/MoriaCoronaAwarenessTeam/posts/131560571806455?hc_location=ufi)
@@ -37,11 +37,11 @@ FEATURE
 Early Wednesday morning, a group of Moria residents [protested](https://stonisi.gr/post/8658/metra-prostasias-apo-ton-koronoio?fbclid=IwAR12RvNe563ux63pzOPG4XiviUZ7lVd1jhqcbLfNZzHiWa67SF3xS1RoGhU) in front of the gates of the camp\. The protest is part of a series of [weekly demonstrations](https://www.facebook.com/MoriaCoronaAwarenessTeam/posts/131560571806455?hc_location=ufi) against the conditions in the camps, which have always been unsanitary but now become even more potentially deadly in the face of the global coronavirus pandemic\. The organizers and participants are international — last week the demonstration was made up mostly of Afghan residents, while this week it was mostly residents from Africa who turned out\.
 
 
-![](assets/6be57f5d1fff/0*zi3blbfRkqgQZkzH)
+![](../assets/6be57f5d1fff/0*zi3blbfRkqgQZkzH)
 
 
 
-![](assets/6be57f5d1fff/0*bYLtTGdYh8YPm94m)
+![](../assets/6be57f5d1fff/0*bYLtTGdYh8YPm94m)
 
 
 Photographers: Mohammed Essan and Ata Mustafawi [Moria Corona Awareness Team](https://www.facebook.com/MoriaCoronaAwarenessTeam/photos/pcb.131560571806455/131559781806534/?type=3&theater)
@@ -55,11 +55,11 @@ Instead of improving conditions in the camps or addressing the concerns of resid
 There are many examples of International organizations and NGOs are trying to help, such as by [donating medical equipment](https://rsaegean.org/en/every-life-counts-donation-of-medical-and-technical-equipment-to-lesvos-vostaneio-hospital/?fbclid=IwAR1UQO_LJ3T2Cx8WEDP8jKnGwnHVro3FFuAF2J5kzQpk-icIiFRq7_r6bXA) to the hospital on Lesvos, but it is not enough\.
 
 
-![](assets/6be57f5d1fff/0*AUEgVw5qXJr9yHNc)
+![](../assets/6be57f5d1fff/0*AUEgVw5qXJr9yHNc)
 
 
 
-![](assets/6be57f5d1fff/0*6eiEXvUO8J1YR0sK)
+![](../assets/6be57f5d1fff/0*6eiEXvUO8J1YR0sK)
 
 
 Photographer: Ali from [Refocus Media Labs](https://www.facebook.com/refocusmedialabs/photos/a.2011908262372726/2876061419290735/?type=1&theater)

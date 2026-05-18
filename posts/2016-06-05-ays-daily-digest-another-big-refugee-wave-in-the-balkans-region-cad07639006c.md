@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,balkan]
 description: While the so-called Balkan Route remains officially closed, more people are finding their way across the Balkans. More people are in…
 image:
-  path: assets/cad07639006c/1*IMkY-hJnKiPEnmpZE70S0g.jpeg
+  path: ../assets/cad07639006c/1*IMkY-hJnKiPEnmpZE70S0g.jpeg
 ---
 
 ### AYS DAILY DIGEST — Another big refugee wave in the Balkans region
 #### While the so\-called Balkan Route remains officially closed, more people are finding their way across the Balkans\. More people are in Bulgaria as well as Serbia\. In Belgrade, volunteers are asking for help while exhausted and dehydrated people are arriving in significant numbers\. At the same time, Austria’s right wing politician suggests that the EUshould keep refugees offshore rather than allow them on to the continent\. Meanwhile, no signs of peace in Syria\.
 
 
-![Youngest members of Porin sports group, coached by Marko Deša of AYS](assets/cad07639006c/1*IMkY-hJnKiPEnmpZE70S0g.jpeg)
+![Youngest members of Porin sports group, coached by Marko Deša of AYS](../assets/cad07639006c/1*IMkY-hJnKiPEnmpZE70S0g.jpeg)
 
 Youngest members of Porin sports group, coached by Marko Deša of AYS
 #### Feature Story
@@ -134,11 +134,11 @@ Youngest members of Porin sports group, coached by Marko Deša of AYS
 ### Reusable cups and tea for all at Kara Tepe
 
 
-![](assets/cad07639006c/1*-OPyDsThDdmdNwH5T_VmuQ.jpeg)
+![](../assets/cad07639006c/1*-OPyDsThDdmdNwH5T_VmuQ.jpeg)
 
 
 
-![Photo by HSA](assets/cad07639006c/1*xVX85DhIgZcm2GBiIEpPyg.jpeg)
+![Photo by HSA](../assets/cad07639006c/1*xVX85DhIgZcm2GBiIEpPyg.jpeg)
 
 Photo by HSA
 
@@ -234,7 +234,7 @@ East Aegean weather reports for potential passengers and volunteers\. A collabor
 ### Help needed in Miksaliste
 
 
-![Photo by Misaliste, Belgrade](assets/cad07639006c/1*6pNwcUD8hDCDhg1rdV7yDw.jpeg)
+![Photo by Misaliste, Belgrade](../assets/cad07639006c/1*6pNwcUD8hDCDhg1rdV7yDw.jpeg)
 
 Photo by Misaliste, Belgrade
 
@@ -255,7 +255,7 @@ Photo by Misaliste, Belgrade
 
 
 
-![AYS vs Porin wolleyball tournament](assets/cad07639006c/1*aYTq3tyobwL1k4PE50sRyw.jpeg)
+![AYS vs Porin wolleyball tournament](../assets/cad07639006c/1*aYTq3tyobwL1k4PE50sRyw.jpeg)
 
 AYS vs Porin wolleyball tournament
 

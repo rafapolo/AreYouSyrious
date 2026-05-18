@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 26/2: Court ruling provides promising update to Dublin enforcement.
+title: "AYS DAILY DIGEST 26/2: Court ruling provides promising update to Dublin enforcement."
 author: Are You Syrious?
 date: 2017-02-26T23:57:27.188+0000
 last_modified_at: 2017-02-27T01:28:57.020+0000
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe]
 description: FEATURE
 image:
-  path: assets/c0e16d1b4662/1*fDBgdyulXjIhzGafgVytqw.jpeg
+  path: ../assets/c0e16d1b4662/1*fDBgdyulXjIhzGafgVytqw.jpeg
 ---
 
 ### AYS DAILY DIGEST 26/2: Court ruling provides promising update to Dublin enforcement\.
 
 
-![Photo Courtesy: One Light Global](assets/c0e16d1b4662/1*fDBgdyulXjIhzGafgVytqw.jpeg)
+![Photo Courtesy: One Light Global](../assets/c0e16d1b4662/1*fDBgdyulXjIhzGafgVytqw.jpeg)
 
 Photo Courtesy: One Light Global
 ### FEATURE
@@ -41,7 +41,7 @@ Safe Passage provides assistance to individuals interested in applying for this 
 
 
 
-![Photo Credit: White Helmets](assets/c0e16d1b4662/1*Q1hr_9kIWNrOWFSuMF9_BQ.jpeg)
+![Photo Credit: White Helmets](../assets/c0e16d1b4662/1*Q1hr_9kIWNrOWFSuMF9_BQ.jpeg)
 
 Photo Credit: White Helmets
 
@@ -50,7 +50,7 @@ Although Dr\. Hamza is specifically referring to the case of Syrian children, al
 The suffering of many of these children does not end when they leave the war zone; instead, they are exposed to additional risk and exploitation in refugee camps, enclaves, and on the route to a marginally safer life\. Even if that destination is reached, the the horror will continue to echo through their lives, only highlighting the need for a comprehensive system of support for people who have seen more in a short time than any human should have to in a lifetime\.
 
 
-![Man with dislocated arm near Adana, Turkey\. Photo courtesy of Jennie Östland](assets/c0e16d1b4662/1*5puNcAVZ1ZDTpp9EGI119g.jpeg)
+![Man with dislocated arm near Adana, Turkey\. Photo courtesy of Jennie Östland](../assets/c0e16d1b4662/1*5puNcAVZ1ZDTpp9EGI119g.jpeg)
 
 Man with dislocated arm near Adana, Turkey\. Photo courtesy of Jennie Östland
 ### TURKEY
@@ -58,7 +58,7 @@ Man with dislocated arm near Adana, Turkey\. Photo courtesy of Jennie Östland
 Refugee camps around Adana are in great need of doctors and other support as Khalsa Aid and other ancillary groups have scouted around 8 camps with over 8,000 people along the border between Syria and Turkey\. Although the constant presence of medics is most urgently needed, food, clothes, toilets, water, and more is all needed for the region\. Khalsa Aid has experienced volunteers and contacts on the ground and is happy to liase with any group that wishes to come\. Contact Jennie Östland [here](https://twitter.com/OstlundJennie) for more information\.
 
 
-![Open Cultural Center with a successful week of language classes\. Photo Courtesy of Open Cultural Center](assets/c0e16d1b4662/1*T0iBMJLUqcVlTektq9CXSA.jpeg)
+![Open Cultural Center with a successful week of language classes\. Photo Courtesy of Open Cultural Center](../assets/c0e16d1b4662/1*T0iBMJLUqcVlTektq9CXSA.jpeg)
 
 Open Cultural Center with a successful week of language classes\. Photo Courtesy of Open Cultural Center
 ### GREECE
@@ -80,7 +80,7 @@ Mobile Info Team posted a comprehensive guide to asylum for LGBT asylum seekers 
 
 
 
-![Children from Krnjača Camp, Serbia ata playground for the first time too long\. Event & photo courtesy of One Light Global](assets/c0e16d1b4662/1*cYkg8YPH9Hr0dqy2JX3rAg.jpeg)
+![Children from Krnjača Camp, Serbia ata playground for the first time too long\. Event & photo courtesy of One Light Global](../assets/c0e16d1b4662/1*cYkg8YPH9Hr0dqy2JX3rAg.jpeg)
 
 Children from Krnjača Camp, Serbia ata playground for the first time too long\. Event & photo courtesy of One Light Global
 ### SERBIA
@@ -126,7 +126,7 @@ The show\-trial for Ahmed H\. and Yamen A\. and their families \(of the famous [
 
 
 
-![Residents of Krnjača on an excursion\. Courtesy of One Light Global](assets/c0e16d1b4662/1*BLfltELpV-jMObAG1rUI9g.jpeg)
+![Residents of Krnjača on an excursion\. Courtesy of One Light Global](../assets/c0e16d1b4662/1*BLfltELpV-jMObAG1rUI9g.jpeg)
 
 Residents of Krnjača on an excursion\. Courtesy of One Light Global
 ### GERMANY

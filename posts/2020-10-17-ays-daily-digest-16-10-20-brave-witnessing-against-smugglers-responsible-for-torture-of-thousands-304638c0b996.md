@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 16/10/20: Brave witnessing against smugglers responsible for torture of thousands
+title: "AYS Daily Digest 16/10/20: Brave witnessing against smugglers responsible for torture of thousands"
 author: Are You Syrious?
 date: 2020-10-17T18:33:30.506+0100
 last_modified_at: 2020-10-17T18:33:30.506+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,migration,refugees,libya,human-rights]
 description: Stored like cargo in compounds, starved, sometimes tortured to death — new testimonies in a trial to smuggler / Calls for an independent…
 image:
-  path: assets/304638c0b996/0*3PIkDS9Rp_ChsW4q
+  path: ../assets/304638c0b996/0*3PIkDS9Rp_ChsW4q
 ---
 
 ### AYS Daily Digest 16/10/20: Brave witnessing against smugglers responsible for torture of thousands
 ### Stored like cargo in compounds, starved, sometimes tortured to death — new testimonies in a trial to smuggler / Calls for an independent investigation on a case of a minor / Denmark wants to take in people from Moria / Recommended reads & more news
 
 
-![](assets/304638c0b996/0*wBrx7szLwIG14Li9.jpeg)
+![](../assets/304638c0b996/0*wBrx7szLwIG14Li9.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----2cffacfeed78--------------------------------)
@@ -22,11 +22,11 @@ image:
 [Oct 17](ays-daily-digest-16-10-20-brave-witnessing-against-smugglers-responsible-for-torture-of-thousands-2cffacfeed78?source=post_page-----2cffacfeed78--------------------------------) · 7 min read
 
 
-![](assets/304638c0b996/0*RlZAr3tZ0Jkjhp4f)
+![](../assets/304638c0b996/0*RlZAr3tZ0Jkjhp4f)
 
 
 
-![](assets/304638c0b996/0*3PIkDS9Rp_ChsW4q)
+![](../assets/304638c0b996/0*3PIkDS9Rp_ChsW4q)
 
 
 Back in court this afternoon to hear from the next five witnesses against Welid & his co\-defendant\. \(Photo and reporting on the case by: [Sally Hayden](https://twitter.com/sallyhayd) \)
@@ -50,11 +50,11 @@ _“In Khartoum, I went to an Eritrean called Zeki\. I paid 1,600 USD from Khart
 The journalist Sally Hayden is following the case of one of the most notorious smuggler/traffickers and she has been reporting from Addis Ababa Federal Court, as she watched brave victims testify against [infamous smugglers](https://www.irishtimes.com/news/world/africa/inside-the-smuggler-s-warehouse-africa-s-21st-century-slave-trade-1.4224073) Welid & Kidane, “who terrorised refugees/migrants in Libya\. Both were present, dressed in orange prison uniforms and later led away in handcuffs\.”
 
 
-![](assets/304638c0b996/0*2U2WK0Vd8z14d0Yl)
+![](../assets/304638c0b996/0*2U2WK0Vd8z14d0Yl)
 
 
 
-![](assets/304638c0b996/0*VbQS0BuksUhklu5u)
+![](../assets/304638c0b996/0*VbQS0BuksUhklu5u)
 
 
 We will continue reporting on this case and the issue of [the UK’s](http://www.harnnet.org/index.php/articles-corner/english-articles?fontstyle=f-larger&start=620) and EU’s part in the suffering of people in Eritrea, as well as the “green light” they have been giving to Libya in the midst of human rights violations accusations and reports\.

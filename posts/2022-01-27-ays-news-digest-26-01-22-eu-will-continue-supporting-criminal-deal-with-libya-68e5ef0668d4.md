@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 26/01/22: EU will continue supporting criminal deal with Libya
+title: "AYS News Digest 26/01/22: EU will continue supporting criminal deal with Libya"
 author: Are You Syrious?
 date: 2022-01-27T17:21:12.190+0000
 last_modified_at: 2022-01-27T17:21:12.190+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,libya,pushback,samos,hunger]
 description: 3 children die in Morocco / criminalisation of SAR / Struggles of people trapped on Samos / Hunger crisis continues in Greece and more …
 image:
-  path: assets/68e5ef0668d4/1*mDp9Zd_vziNvCPRAWlD-vQ.jpeg
+  path: ../assets/68e5ef0668d4/1*mDp9Zd_vziNvCPRAWlD-vQ.jpeg
 ---
 
 ### AYS News Digest 26/01/22: EU will continue supporting criminal deal with Libya
 #### 3 children die in Morocco / criminalisation of SAR / Struggles of people trapped on Samos / Hunger crisis continues in Greece / Extradition from Serbia to Bahrain against ECHR ruling / Croatian Interior Ministry receives Black Book of Pushbacks / Evictions in Calais and more…
 
 
-![\(Photo Credit: [Sea Watch](https://twitter.com/seawatch_intl/status/1486022879514877958/photo/1) \)](assets/68e5ef0668d4/1*mDp9Zd_vziNvCPRAWlD-vQ.jpeg)
+![\(Photo Credit: [Sea Watch](https://twitter.com/seawatch_intl/status/1486022879514877958/photo/1) \)](../assets/68e5ef0668d4/1*mDp9Zd_vziNvCPRAWlD-vQ.jpeg)
 
 \(Photo Credit: [Sea Watch](https://twitter.com/seawatch_intl/status/1486022879514877958/photo/1) \)
 #### LIBYA
@@ -169,7 +169,7 @@ Ms Ernst visited all important sites and stake holders, spoke to people on the m
 ### New Deportation Centre Planned and Actions Against it
 
 
-![](assets/68e5ef0668d4/1*lUpDcHWoBXH5mThqdtzwfA.jpeg)
+![](../assets/68e5ef0668d4/1*lUpDcHWoBXH5mThqdtzwfA.jpeg)
 
 
 The Ministry of the Interior of Brandenburg have announced a so called “entry and exit centre at BER airport” in Schönefeld to be completed by 2025\.

@@ -7,18 +7,18 @@ categories: Are You Syrious?
 tags: [digest,refugees,coronavirus,greece,italy]
 description: Updates from France, Serbia, Germany and more…
 image:
-  path: assets/f90461d3fe37/1*mGotJDyvtdY7CqFGpQBu_A.jpeg
+  path: ../assets/f90461d3fe37/1*mGotJDyvtdY7CqFGpQBu_A.jpeg
 ---
 
 ### AYS Daily Digest 22/04/20 ~300 people protest in Moria for safety against COVID\-19
 #### Updates from France, Serbia, Germany and more…
 
 
-![](assets/f90461d3fe37/1*MdSSkBCu26oVGbIm05HRVg.jpeg)
+![](../assets/f90461d3fe37/1*MdSSkBCu26oVGbIm05HRVg.jpeg)
 
 
 
-![Protest in Moria on Wednesday\. Photos by [Mare Liberum e\.V\.](https://twitter.com/teammareliberum/status/1252942109293850624?fbclid=IwAR1L4OC_sp7aykr6LIjufoOcvzeAB4x051jEodjmr6S-HnbbD0MuLDlF5bE)](assets/f90461d3fe37/1*mGotJDyvtdY7CqFGpQBu_A.jpeg)
+![Protest in Moria on Wednesday\. Photos by [Mare Liberum e\.V\.](https://twitter.com/teammareliberum/status/1252942109293850624?fbclid=IwAR1L4OC_sp7aykr6LIjufoOcvzeAB4x051jEodjmr6S-HnbbD0MuLDlF5bE)](../assets/f90461d3fe37/1*mGotJDyvtdY7CqFGpQBu_A.jpeg)
 
 Protest in Moria on Wednesday\. Photos by [Mare Liberum e\.V\.](https://twitter.com/teammareliberum/status/1252942109293850624?fbclid=IwAR1L4OC_sp7aykr6LIjufoOcvzeAB4x051jEodjmr6S-HnbbD0MuLDlF5bE)
 ### FEATURE: About 300 people took to the streets of Moria on Wednesday to protest for their safety
@@ -174,7 +174,7 @@ I hope this 'solution' has nothing to do with an old idea proposed by Italy ➡�
 #### SERBIA
 
 
-![Photo by [NoName Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/960278791037072?__xts__[0]=68.ARC2fdLoKHiZneWEYxFuSlHUrIuPG-0y93n5WpDilCXFVIJ3XS1N4K0Ivs3uFDAp-_okXgSRq8xDpTqiM0j2syQmhnKRq4l9iMkQxA9QCp83bhrW5sH2fqQqxq1Xe3_hCgDBNUkGjUyA_ttt6coSTRf4hnZgQ9WgQWPTjxexZg_xFrgh8tjXaYlI9-BKKQyr9nMdGyIC3JZGI-9ewxO-25x2NJJguop6x6WLo2k2JnJkVbV2yTzbyFJ_Zc7P_xQmOssvbHVXngoYZeKgqjiwXc7Bk5M7xZ4xg2-EoAJtF2EpOEaFuWiXYq9Ycdxf4g7rNn_zsz3MwVT6hsQUvyyksxM&__tn__=-R) of their food distribution in Velika Kladuša](assets/f90461d3fe37/1*1YFOIO1oSnsQ9w2Ofd0faA.jpeg)
+![Photo by [NoName Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/960278791037072?__xts__[0]=68.ARC2fdLoKHiZneWEYxFuSlHUrIuPG-0y93n5WpDilCXFVIJ3XS1N4K0Ivs3uFDAp-_okXgSRq8xDpTqiM0j2syQmhnKRq4l9iMkQxA9QCp83bhrW5sH2fqQqxq1Xe3_hCgDBNUkGjUyA_ttt6coSTRf4hnZgQ9WgQWPTjxexZg_xFrgh8tjXaYlI9-BKKQyr9nMdGyIC3JZGI-9ewxO-25x2NJJguop6x6WLo2k2JnJkVbV2yTzbyFJ_Zc7P_xQmOssvbHVXngoYZeKgqjiwXc7Bk5M7xZ4xg2-EoAJtF2EpOEaFuWiXYq9Ycdxf4g7rNn_zsz3MwVT6hsQUvyyksxM&__tn__=-R) of their food distribution in Velika Kladuša](../assets/f90461d3fe37/1*1YFOIO1oSnsQ9w2Ofd0faA.jpeg)
 
 Photo by [NoName Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/960278791037072?__xts__[0]=68.ARC2fdLoKHiZneWEYxFuSlHUrIuPG-0y93n5WpDilCXFVIJ3XS1N4K0Ivs3uFDAp-_okXgSRq8xDpTqiM0j2syQmhnKRq4l9iMkQxA9QCp83bhrW5sH2fqQqxq1Xe3_hCgDBNUkGjUyA_ttt6coSTRf4hnZgQ9WgQWPTjxexZg_xFrgh8tjXaYlI9-BKKQyr9nMdGyIC3JZGI-9ewxO-25x2NJJguop6x6WLo2k2JnJkVbV2yTzbyFJ_Zc7P_xQmOssvbHVXngoYZeKgqjiwXc7Bk5M7xZ4xg2-EoAJtF2EpOEaFuWiXYq9Ycdxf4g7rNn_zsz3MwVT6hsQUvyyksxM&__tn__=-R) of their food distribution in Velika Kladuša
 
@@ -205,7 +205,7 @@ The government is changing one of its labor laws to allow asylum seekers the abi
 
 
 ![Took a few packs to a small site with no government food, showers, toilets\. They were playing cricket and welcomed the food with joy\. One man said he told his aunt back home and she wept that someone cared so much to do that for him\.
-[Our appeal is here](https://care4calais.org/emergency-appeal/) \! Photo by [Care4Calais](https://twitter.com/Care4Calais/status/1253017072315097088?fbclid=IwAR2CTgFEDB1Xs9qTlhumJMat1_-1-XD3zzpzUE9DhJZ02kWOFV3zTv0fNKU)](assets/f90461d3fe37/1*-IxGzAKiCaRZvr_sWpC0kQ.jpeg)
+[Our appeal is here](https://care4calais.org/emergency-appeal/) \! Photo by [Care4Calais](https://twitter.com/Care4Calais/status/1253017072315097088?fbclid=IwAR2CTgFEDB1Xs9qTlhumJMat1_-1-XD3zzpzUE9DhJZ02kWOFV3zTv0fNKU)](../assets/f90461d3fe37/1*-IxGzAKiCaRZvr_sWpC0kQ.jpeg)
 
 Took a few packs to a small site with no government food, showers, toilets\. They were playing cricket and welcomed the food with joy\. One man said he told his aunt back home and she wept that someone cared so much to do that for him\.
 [Our appeal is here](https://care4calais.org/emergency-appeal/) \! Photo by [Care4Calais](https://twitter.com/Care4Calais/status/1253017072315097088?fbclid=IwAR2CTgFEDB1Xs9qTlhumJMat1_-1-XD3zzpzUE9DhJZ02kWOFV3zTv0fNKU)

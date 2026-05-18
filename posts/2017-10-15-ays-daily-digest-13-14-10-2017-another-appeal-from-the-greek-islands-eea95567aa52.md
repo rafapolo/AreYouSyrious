@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 13–14.10.2017: Another appeal from the Greek islands
+title: "AYS DAILY DIGEST 13–14.10.2017: Another appeal from the Greek islands"
 author: Are You Syrious?
 date: 2017-10-15T01:11:56.307+0100
 last_modified_at: 2017-10-15T02:46:00.066+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,greek-islands,samos,levo,chios]
 description: Situation on islands is getting worse every day // Urgent action needed // ICRC downsizes its operation in unsafe Afghanistan // Help…
 image:
-  path: assets/eea95567aa52/1*_tegPhFyga4GtW6RJ7fbug.jpeg
+  path: ../assets/eea95567aa52/1*_tegPhFyga4GtW6RJ7fbug.jpeg
 ---
 
 ### AYS DAILY DIGEST 13–14\.10\.2017: Another appeal from the Greek islands
@@ -15,7 +15,7 @@ image:
 _Situation on islands is getting worse every day // Urgent action needed // ICRC downsizes its operation in unsafe Afghanistan // Help needed in Italy and France // Hunger strike in Denmark_
 
 
-![Photo by NBKL](assets/eea95567aa52/1*_tegPhFyga4GtW6RJ7fbug.jpeg)
+![Photo by NBKL](../assets/eea95567aa52/1*_tegPhFyga4GtW6RJ7fbug.jpeg)
 
 Photo by NBKL
 ### Feature
@@ -108,7 +108,7 @@ Activists from the islands are asking all people to join them in their calls for
 The letter calls on all of us to be part of the action\. If you want to join, write to Arash or [No Border Kitchen Lesvos](https://www.facebook.com/NBKLesvos/) \.
 
 
-![By Greek Asylum Service](assets/eea95567aa52/1*NRXzPCAKrT81mEVtWMpAtA.jpeg)
+![By Greek Asylum Service](../assets/eea95567aa52/1*NRXzPCAKrT81mEVtWMpAtA.jpeg)
 
 By Greek Asylum Service
 ### Afghanistan
@@ -141,7 +141,7 @@ The vast majority depart from the southern coast of Turkey before landing in Apu
 New arrivals are still being registered even at the end of this week\.
 
 
-![By [**Erik Gerhardsson**](https://www.facebook.com/erik.gerhardsson.7?hc_ref=ARRXKTast6nyQTXGvXPBlXQvE06hUNVBPkU0j2N2nrFCFjZHrSPM0KvcuthFsD3Cju0)](assets/eea95567aa52/1*nKUzMdOStavQ8bEpHIG7dw.jpeg)
+![By [**Erik Gerhardsson**](https://www.facebook.com/erik.gerhardsson.7?hc_ref=ARRXKTast6nyQTXGvXPBlXQvE06hUNVBPkU0j2N2nrFCFjZHrSPM0KvcuthFsD3Cju0)](../assets/eea95567aa52/1*nKUzMdOStavQ8bEpHIG7dw.jpeg)
 
 By [**Erik Gerhardsson**](https://www.facebook.com/erik.gerhardsson.7?hc_ref=ARRXKTast6nyQTXGvXPBlXQvE06hUNVBPkU0j2N2nrFCFjZHrSPM0KvcuthFsD3Cju0)
 
@@ -181,7 +181,7 @@ More images from Gorizia where about 90 people, mostly boys, are sleeping in a t
 In Como, the situation is a bit better and so far nobody is out on the street\. The parish of Rebbio, however, can now host only children and women, so those men who can’t get into the camp managed by the Red Cross are taken care of by Como Senza Frontiere\. They managed to find an open space where migrants can sleep but the area needs to be cleared out every morning in order to protect the decency of the town\.
 
 
-![Photo by Baobab\.](assets/eea95567aa52/1*LEZdEjzZ-cU7OFZy0DUDNg.jpeg)
+![Photo by Baobab\.](../assets/eea95567aa52/1*LEZdEjzZ-cU7OFZy0DUDNg.jpeg)
 
 Photo by Baobab\.
 
@@ -221,7 +221,7 @@ One of the groups in Calais is [L’Auberge des Migrants](https://www.facebook.c
 They express their serious concern about the coming months\.
 
 
-![Photo by [L’Auberge des Migrants](https://www.facebook.com/permalink.php?story_fbid=10155486215670339&id=358496450338)](assets/eea95567aa52/1*Q_nAEtO4bkHb9MEnvRUcnw.jpeg)
+![Photo by [L’Auberge des Migrants](https://www.facebook.com/permalink.php?story_fbid=10155486215670339&id=358496450338)](../assets/eea95567aa52/1*Q_nAEtO4bkHb9MEnvRUcnw.jpeg)
 
 Photo by [L’Auberge des Migrants](https://www.facebook.com/permalink.php?story_fbid=10155486215670339&id=358496450338)
 ### Denmark
@@ -229,11 +229,11 @@ Photo by [L’Auberge des Migrants](https://www.facebook.com/permalink.php?story
 A group of rejected refugees in Denmark has commenced a hunger strike saying that the Kærshovedgård camp where they are living is truly bad and extremely remote\.
 
 
-![](assets/eea95567aa52/1*tVlmtFUjgAzBJgi-UqtDOA.jpeg)
+![](../assets/eea95567aa52/1*tVlmtFUjgAzBJgi-UqtDOA.jpeg)
 
 
 
-![Photo Jhanbkhsh Najafi](assets/eea95567aa52/1*K70J2Rx6v9wg1zp2Clryow.jpeg)
+![Photo Jhanbkhsh Najafi](../assets/eea95567aa52/1*K70J2Rx6v9wg1zp2Clryow.jpeg)
 
 Photo Jhanbkhsh Najafi
 
@@ -243,7 +243,7 @@ The camp is an old Danish prison\. Unlike prisoners, the refugees are allowed to
 To mark the one year anniversary of the closing of the Calais jungle, Safe Passage UK will be going to the Houses of Parliament on 24 October to ask the Government to let in more child refugees\.
 
 
-![](assets/eea95567aa52/1*fZdEmDDs-m2tCyf2mmXYrA.jpeg)
+![](../assets/eea95567aa52/1*fZdEmDDs-m2tCyf2mmXYrA.jpeg)
 
 
 Safe Passage is asking for support from UK citizens who may write to their MPs or attend the event\.

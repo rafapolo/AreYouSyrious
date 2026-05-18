@@ -5,16 +5,16 @@ date: 2016-05-26T00:21:49.752+0100
 last_modified_at: 2016-05-28T02:45:58.785+0100
 categories: 
 tags: [refugees,europe]
-description: 25.5.2016: 500 migrants rescued off the Libyan coast today — over 1,000 migrants arrived in Italy and over 1,000 expected tomorrow. Idomeni…
+description: "25.5.2016: 500 migrants rescued off the Libyan coast today — over 1,000 migrants arrived in Italy and over 1,000 expected tomorrow. Idomeni…"
 image:
-  path: assets/c62090d33878/0*FhwO_XpOBBZUItDC.jpg
+  path: ../assets/c62090d33878/0*FhwO_XpOBBZUItDC.jpg
 ---
 
 ### AYS News Digest — Idomeni evacuation continues
 #### 25\.5\.2016: 500 migrants rescued off the Libyan coast today — over 1,000 migrants arrived in Italy and over 1,000 expected tomorrow\. Idomeni evacuation slows down\. New Miksalište center opens soon\. German integration law presented by Merkel\.
 
 
-![New Vagiochori camp\. Photo Credit: Giorgos Christides](assets/c62090d33878/0*FhwO_XpOBBZUItDC.jpg)
+![New Vagiochori camp\. Photo Credit: Giorgos Christides](../assets/c62090d33878/0*FhwO_XpOBBZUItDC.jpg)
 
 New Vagiochori camp\. Photo Credit: Giorgos Christides
 #### Turkey
@@ -29,7 +29,7 @@ A project called [Drop Earrings Not Bomb](http://www.dropearringsnotbombs.org.) 
 ### Idomeni Evacuation
 
 
-![Photo Credit: Paul Carr](assets/c62090d33878/0*3n54wuwe301fkUtD.)
+![Photo Credit: Paul Carr](../assets/c62090d33878/0*3n54wuwe301fkUtD.)
 
 Photo Credit: Paul Carr
 
@@ -48,7 +48,7 @@ MSF says those that remain are anxious about what will happen to them\. Those wi
 Volunteers organized protests later in the evening over the evacuation, blocking the highway for around half an hour\.
 
 
-![Photo Credit: MSF](assets/c62090d33878/0*aGu_ZN-xtLGr9Z4E.jpg)
+![Photo Credit: MSF](../assets/c62090d33878/0*aGu_ZN-xtLGr9Z4E.jpg)
 
 Photo Credit: MSF
 ### Volunteer digest
@@ -69,7 +69,7 @@ Asylum seekers with a “protection card” — given to persons who have applie
 Refugees marched in Lesvos today, protesting against the living conditions in the Moria detention center\.
 
 
-![Photo Credit: No Borders](assets/c62090d33878/0*fGx5TMcfkBDwKRNL.)
+![Photo Credit: No Borders](../assets/c62090d33878/0*fGx5TMcfkBDwKRNL.)
 
 Photo Credit: No Borders
 #### Bulgaria
@@ -86,7 +86,7 @@ Refugee Aid Miksalište got the award for the “ _Contribution of the Year to E
 After obtaining official permission to work in the Porin Centre for asylum seekers in Zagreb, the AYS team is spreading its activities on many new levels\. Two fantastic events happened today\. Our volunteers planted a vegetable garden next to the Porin centre, allowing asylum seekers to grow tomatoes, peppers, chilli peppers and strawberries\. The Žitnjak primary school also invited refugee children to participate in their annual performance for parents\. One girl from Iran played guitar and a little choir made of kids from Iran Afghanistan and Somalia sang\. They were warmly welcomed by students, teachers and parents\.
 
 
-![Photo Credit: Karolina Rugle](assets/c62090d33878/0*fQ9_eWQbTpkWm8WW.)
+![Photo Credit: Karolina Rugle](../assets/c62090d33878/0*fQ9_eWQbTpkWm8WW.)
 
 Photo Credit: Karolina Rugle
 #### Germany

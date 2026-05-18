@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,migrants,refugees,sweden,eu]
 description: 14 People Killed Off the Spanish Coast, 3 More Ships Missing///More Arrivals in Bihać///EU Under Fire for Naval Mission
 image:
-  path: assets/11b5a22fb09b/0*1qIUOI6JHZ0_Wpnp.jpg
+  path: ../assets/11b5a22fb09b/0*1qIUOI6JHZ0_Wpnp.jpg
 ---
 
 ### AYS Daily Digest 19/02/2020 — Iranian Asylum Seekers on Hunger Strike in Sweden
 #### 14 People Killed Off the Spanish Coast, Three More Ships Missing///More Arrivals in Bihać///EU Under Fire for Naval Mission
 
 
-![Iranian asylum seekers on hunger strike in Gothenburg\. Photography credit: [Hor var rost](https://www.facebook.com/H%C3%B6r-v%C3%A5r-r%C3%B6st-104164667675685/?epa=SEARCH_BOX)](assets/11b5a22fb09b/0*1qIUOI6JHZ0_Wpnp.jpg)
+![Iranian asylum seekers on hunger strike in Gothenburg\. Photography credit: [Hor var rost](https://www.facebook.com/H%C3%B6r-v%C3%A5r-r%C3%B6st-104164667675685/?epa=SEARCH_BOX)](../assets/11b5a22fb09b/0*1qIUOI6JHZ0_Wpnp.jpg)
 
 Iranian asylum seekers on hunger strike in Gothenburg\. Photography credit: [Hor var rost](https://www.facebook.com/H%C3%B6r-v%C3%A5r-r%C3%B6st-104164667675685/?epa=SEARCH_BOX)
 ### FEATURE — Iranian Asylum Seekers on Strike to Protest Unequal Treatment in Asylum Process
@@ -64,7 +64,7 @@ BOSNIA & HERZEGOVINA
 ### More Arrivals in Bihać
 
 
-![People forced to sleep rough\. Photography credit: [L’Altra Voce](https://www.facebook.com/1245970425495921/photos/a.1266360583456905/2795660523860229/?type=3&theater)](assets/11b5a22fb09b/0*lrR06eI_aXZfSO-b)
+![People forced to sleep rough\. Photography credit: [L’Altra Voce](https://www.facebook.com/1245970425495921/photos/a.1266360583456905/2795660523860229/?type=3&theater)](../assets/11b5a22fb09b/0*lrR06eI_aXZfSO-b)
 
 People forced to sleep rough\. Photography credit: [L’Altra Voce](https://www.facebook.com/1245970425495921/photos/a.1266360583456905/2795660523860229/?type=3&theater)
 
@@ -75,7 +75,7 @@ Last night, a group of about 50 people arrived in Bihać from Serbia\. They arri
 Already there are 2,000 people living in Bira camp, of which 500 are minors\.
 
 
-![Conditions in Bira\. Photo credits: [L’Altra Voce](https://www.facebook.com/1245970425495921/photos/a.1266360583456905/2795221060570842/?type=3&theater)](assets/11b5a22fb09b/1*CiZ8nXhHCsVBVBTCSjzlUA.jpeg)
+![Conditions in Bira\. Photo credits: [L’Altra Voce](https://www.facebook.com/1245970425495921/photos/a.1266360583456905/2795221060570842/?type=3&theater)](../assets/11b5a22fb09b/1*CiZ8nXhHCsVBVBTCSjzlUA.jpeg)
 
 Conditions in Bira\. Photo credits: [L’Altra Voce](https://www.facebook.com/1245970425495921/photos/a.1266360583456905/2795221060570842/?type=3&theater)
 

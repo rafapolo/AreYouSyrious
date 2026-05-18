@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 11/4/22: The Council of Europe to member states’ governments: Stop pushbacks at EU…
+title: "AYS News Digest 11/4/22: The Council of Europe to member states’ governments: Stop pushbacks at EU…"
 author: Are You Syrious?
 date: 2022-04-12T22:03:35.650+0100
 last_modified_at: 2022-04-12T22:03:35.650+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,europe,refugees,ukraine,germany]
 description: A lot of SAR activities, some tragic deaths, and inevitable pushbacks reported by SAR NGOs / intimidation, evictions and arbitrary…
 image:
-  path: assets/b4dd01037cf9/0*6R2mOPY9boMZ-oB8.jpg
+  path: ../assets/b4dd01037cf9/0*6R2mOPY9boMZ-oB8.jpg
 ---
 
 ### AYS News Digest 11/4/22: **The Council of Europe to member states’ governments: Stop pushbacks at EU borders**
 #### A lot of SAR activities, some tragic deaths, and inevitable pushbacks reported by SAR NGOs / intimidation, evictions and arbitrary confiscation continues in and around Calais / worrying treatment of refugees in Berlin / a number of really good reads in the “worth reading” section & more
 
 
-![At the same time while the Commissioner warns, Croatia keeps some people detained in garages, organised and orchestrated by the Ministry of Interior, Zoran Pehar of N1 [reports](https://hr.n1info.com/vijesti/garaze-za-migrante/) \(Photo: N1, Zran Pehar\)](assets/b4dd01037cf9/0*6R2mOPY9boMZ-oB8.jpg)
+![At the same time while the Commissioner warns, Croatia keeps some people detained in garages, organised and orchestrated by the Ministry of Interior, Zoran Pehar of N1 [reports](https://hr.n1info.com/vijesti/garaze-za-migrante/) \(Photo: N1, Zran Pehar\)](../assets/b4dd01037cf9/0*6R2mOPY9boMZ-oB8.jpg)
 
 At the same time while the Commissioner warns, Croatia keeps some people detained in garages, organised and orchestrated by the Ministry of Interior, Zoran Pehar of N1 [reports](https://hr.n1info.com/vijesti/garaze-za-migrante/) \(Photo: N1, Zran Pehar\)
 

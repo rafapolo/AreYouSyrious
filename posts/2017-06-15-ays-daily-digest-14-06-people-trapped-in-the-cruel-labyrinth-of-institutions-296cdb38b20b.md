@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 14/06/17: People trapped in the cruel labyrinth of institutions
+title: "AYS Daily Digest 14/06/17: People trapped in the cruel labyrinth of institutions"
 author: Are You Syrious?
 date: 2017-06-15T07:20:27.677+0100
 last_modified_at: 2017-08-29T17:19:18.166+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,sweden,chios,italy,volunteers]
 description: Hundreds of civilians being attacked in Syria / An impassioned call out of failing support on Chios / New refugee camps open in Greece /…
 image:
-  path: assets/296cdb38b20b/1*mmwBeLqP6geMMB84ptoI-w.jpeg
+  path: ../assets/296cdb38b20b/1*mmwBeLqP6geMMB84ptoI-w.jpeg
 ---
 
 ### AYS Daily Digest 14/06/17: People trapped in the cruel labyrinth of institutions
@@ -15,7 +15,7 @@ image:
 _Hundreds of civilians being attacked in Syria / An impassioned call out of failing support on Chios / New refugee camps open in Greece / More volunteers documenting systematic violence designed to terrorize at Croatian\- and Hungarian\-Serbian borders / Italian institutional support apathetic and crumbling, according to journalists and activists / French Ombudsman condemns police violence against refugees\! / Guinean man receives asylum in Belgium due to far right persecution in Greece / And more news…_
 
 
-![Souda, Chios\. Photo credit: [Giorgos Moutafis](https://www.facebook.com/giorgos.moutafis.5)](assets/296cdb38b20b/1*mmwBeLqP6geMMB84ptoI-w.jpeg)
+![Souda, Chios\. Photo credit: [Giorgos Moutafis](https://www.facebook.com/giorgos.moutafis.5)](../assets/296cdb38b20b/1*mmwBeLqP6geMMB84ptoI-w.jpeg)
 
 Souda, Chios\. Photo credit: [Giorgos Moutafis](https://www.facebook.com/giorgos.moutafis.5)
 ### SYRIA
@@ -202,7 +202,7 @@ Although it is good news to see more camps opening, it is clear they are not kee
 Delivering Dignity Worldwide/Octopus Volunteers needs volunteers\! This organization is in need of Doctors, Nurses and Teachers\. Check out their [post](https://www.facebook.com/593864180791265/photos/a.593881730789510.1073741828.593864180791265/864497187061295/?type=3&hc_location=ufi) for more information\.
 
 
-![Photo credit DINIT](assets/296cdb38b20b/1*isA_FkwSMXplAztRUt2dww.jpeg)
+![Photo credit DINIT](../assets/296cdb38b20b/1*isA_FkwSMXplAztRUt2dww.jpeg)
 
 Photo credit DINIT
 
@@ -213,7 +213,7 @@ Drapen i Havet needs books\! Read below\.
 The library lacks books in Farsi and Dari, languages spoken in Afghanistan\. If you have books in these languages that you want to donate to our library, please send an email to post@drapenihavet\.no”
 
 
-![Photo courtesy of Drapen i Havet](assets/296cdb38b20b/1*H2BKDanRlpdfmmG1_OTC0A.jpeg)
+![Photo courtesy of Drapen i Havet](../assets/296cdb38b20b/1*H2BKDanRlpdfmmG1_OTC0A.jpeg)
 
 Photo courtesy of Drapen i Havet
 ### SERBIA
@@ -287,7 +287,7 @@ Il Viminale \(Italian Interior Ministry\) has responded to the letter Mayor Ragg
 This is an edited translation\. The original is available in Italian, [here](http://siciliamigranti.blogspot.hr/2017/06/le-morti-che-aiutano-ad-accaparrare-voti.html?spref=fb&m=1) \.
 
 
-![Photo credit: Refugee Youth Service](assets/296cdb38b20b/1*yT9vejhcayp17m17hEvOFw.jpeg)
+![Photo credit: Refugee Youth Service](../assets/296cdb38b20b/1*yT9vejhcayp17m17hEvOFw.jpeg)
 
 Photo credit: Refugee Youth Service
 
@@ -329,7 +329,7 @@ Report via [No Borders News](https://www.facebook.com/NoBordersNews/posts/146480
 Below is a video of his testimony\.
 
 
-[![Asylum granted to Guinean man in Belgium after threats in Greece](assets/296cdb38b20b/14c0_hqdefault.jpg "Asylum granted to Guinean man in Belgium after threats in Greece")](http://www.youtube.com/watch?v=FpSNBDaJRPw)
+[![Asylum granted to Guinean man in Belgium after threats in Greece](../assets/296cdb38b20b/14c0_hqdefault.jpg "Asylum granted to Guinean man in Belgium after threats in Greece")](http://www.youtube.com/watch?v=FpSNBDaJRPw)
 
 ### FRANCE
 

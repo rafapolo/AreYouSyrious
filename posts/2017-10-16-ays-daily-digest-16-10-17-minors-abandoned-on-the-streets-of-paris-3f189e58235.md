@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 16/10/17: Minors Abandoned on the Streets of Paris
+title: "AYS Daily Digest 16/10/17: Minors Abandoned on the Streets of Paris"
 author: Are You Syrious?
 date: 2017-10-16T23:59:05.455+0100
 last_modified_at: 2017-10-17T06:58:04.731+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,paris,greece,calais,police-brutality]
 description: //Unsafe drinking water in Calais and donation drives//Volunteer groups prepare for cold across the Aegean//Overcrowding in…
 image:
-  path: assets/3f189e58235/1*ngXslHLsU-S16wARwTaQ_g.jpeg
+  path: ../assets/3f189e58235/1*ngXslHLsU-S16wARwTaQ_g.jpeg
 ---
 
 ### AYS Daily Digest 16/10/17: Minors Abandoned on the Streets of Paris
@@ -15,7 +15,7 @@ image:
 _//Unsafe drinking water in Calais and donation drives//Volunteer groups prepare for cold across the Aegean//Overcrowding in Moria//Volunteering in Turkey//Lack of translators in Bulgaria//Police violence on Serbia\-Croatia border//Forced deportations from Germany_
 
 
-![Refugees in Paris\. Photo credit R [astplatz](https://www.facebook.com/rastplatz/?fref=gs&hc_location=group_dialog) \.](assets/3f189e58235/1*ngXslHLsU-S16wARwTaQ_g.jpeg)
+![Refugees in Paris\. Photo credit R [astplatz](https://www.facebook.com/rastplatz/?fref=gs&hc_location=group_dialog) \.](../assets/3f189e58235/1*ngXslHLsU-S16wARwTaQ_g.jpeg)
 
 Refugees in Paris\. Photo credit R [astplatz](https://www.facebook.com/rastplatz/?fref=gs&hc_location=group_dialog) \.
 #### FEATURE: Abandoned on the Streets of Paris
@@ -38,7 +38,7 @@ The volunteer group [Paris Refugee Ground Support](https://www.facebook.com/PRGS
 
 
 
-![Photo credit [Paris Refugee Ground Support](https://www.facebook.com/pg/PRGS.team/photos/?ref=page_internal)](assets/3f189e58235/1*6r-XEN8Lv_Knca28hNz62A.jpeg)
+![Photo credit [Paris Refugee Ground Support](https://www.facebook.com/pg/PRGS.team/photos/?ref=page_internal)](../assets/3f189e58235/1*6r-XEN8Lv_Knca28hNz62A.jpeg)
 
 Photo credit [Paris Refugee Ground Support](https://www.facebook.com/pg/PRGS.team/photos/?ref=page_internal)
 
@@ -66,7 +66,7 @@ Also in Paris, the group Utopia 64 has opened up a new temporary collection poin
 In Calais, refugees continue to live in the woods since the destruction of the Jungle\. There are approximately 700 refugees living in the area who are struggling to find temporary shelter amid frequent police evictions and attacks\. Since the activist group [L’Auberge des Migrants](https://www.facebook.com/LAuberge-des-Migrants-358496450338/) sent a request to UN officals concerning access to safe drinking water, France has been officially advised by a group of UN Human Rights experts to provide long\-term access to potable water and sanitation for refugees in Calais and elsewhere along the Northern coast\. [According to the UN](http://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=22240&LangID=E) , migrants in most camps along the coast have inadequate access to drinking water and showers, and these issues are being addressed almost entirely by volunteers\.
 
 
-![Refugees in Calais\. Photo credit [Care4Calais](https://www.facebook.com/care4calais/)](assets/3f189e58235/1*kvYnSvpp6X8xYVXf0AhBxA.jpeg)
+![Refugees in Calais\. Photo credit [Care4Calais](https://www.facebook.com/care4calais/)](../assets/3f189e58235/1*kvYnSvpp6X8xYVXf0AhBxA.jpeg)
 
 Refugees in Calais\. Photo credit [Care4Calais](https://www.facebook.com/care4calais/)
 
@@ -89,7 +89,7 @@ As we all know by now, a primary factor causing people to leave camps and head n
 The group Care4Calais is organizing a winter coat drive, find details and where to donate [here](https://www.facebook.com/care4calais/posts/1695398640493086?hc_location=ufi) \.
 
 
-![Photo credit [Care4Calais](https://www.facebook.com/care4calais/)](assets/3f189e58235/1*u3Px1F6pUF0NBxfzeAn9Vg.jpeg)
+![Photo credit [Care4Calais](https://www.facebook.com/care4calais/)](../assets/3f189e58235/1*u3Px1F6pUF0NBxfzeAn9Vg.jpeg)
 
 Photo credit [Care4Calais](https://www.facebook.com/care4calais/)
 
@@ -116,7 +116,7 @@ The [City Plaza Solidarity Space](https://www.facebook.com/sol2refugeesen/) has 
 With winter fast approaching, NGO’s and volunteer groups are working to help refugees stuck in hotspots across the Aegean prepare for the cold\. On Lesvos, the Organization “ [Movement on the Ground](http://movementontheground.com) ” has purchased tent heaters for the cold months, and is continuing to prepare hot meals for people on the island\. The group reports that while conditions for refugees are worsening on the island, many NGO’s have been leaving or cutting funding\.
 
 
-![Tent heaters purchased by Movement on the Ground\.](assets/3f189e58235/1*ItKVjUo1sBAtJeuelTgGDQ.jpeg)
+![Tent heaters purchased by Movement on the Ground\.](../assets/3f189e58235/1*ItKVjUo1sBAtJeuelTgGDQ.jpeg)
 
 Tent heaters purchased by Movement on the Ground\.
 
@@ -146,7 +146,7 @@ The Refugees 4 Refugees group is looking for volunteers in Skala Sikamineas on L
 According to the NGO Boat Refugee Foundation, there are currently over 1,000 children on the island of Moria\. This is the island where [only one week ago](ays-daily-digest-8-10-2017-another-child-died-in-greece-in-less-than-one-month-e3d08ec5b9df) a child died after failing to get adequate treatment for health issues, and which has recently been condemned by Human Rights Watch advocates as a “ [concentration camp](http://greece.greekreporter.com/2017/10/06/migrant-camp-in-lesvos-a-concentration-camp-says-human-rights-watch/) \.”
 
 
-![Photo Credit [Boat Refugee Foundation](https://www.facebook.com/pg/stichtingbootvluchteling/photos/?tab=album&album_id=1380423092287734)](assets/3f189e58235/1*7vfCynVkGORRjPOY8cMxvA.jpeg)
+![Photo Credit [Boat Refugee Foundation](https://www.facebook.com/pg/stichtingbootvluchteling/photos/?tab=album&album_id=1380423092287734)](../assets/3f189e58235/1*7vfCynVkGORRjPOY8cMxvA.jpeg)
 
 Photo Credit [Boat Refugee Foundation](https://www.facebook.com/pg/stichtingbootvluchteling/photos/?tab=album&album_id=1380423092287734)
 
@@ -159,14 +159,14 @@ The Bulgarian State Agency for Refugees \(SAR\) does not have nearly enough tran
 ### SERBIA
 
 
-![Beating and broken phones dealt out by the Croatian Police\.](assets/3f189e58235/1*2fJKBMd_eB5WjGHbqt9z_Q.jpeg)
+![Beating and broken phones dealt out by the Croatian Police\.](../assets/3f189e58235/1*2fJKBMd_eB5WjGHbqt9z_Q.jpeg)
 
 Beating and broken phones dealt out by the Croatian Police\.
 
 The activist group [Soul Welders](https://www.facebook.com/SoulWelders/) reports that illegal pushbacks continue to occur on the Serbia\-Croatia border, with refugees being frequently beaten and robbed by the Croatian police\. Volunteers on the ground report that “we are completely overwhelmed by the number of push backs we see every day, which include violence, broken phones and stolen money by the Croatian police\.” Refugees trapped in Serbia are another example of those suffering at the edges of the EU border, which in the past decade has become the deadliest border on Earth\. These refugees demonstrate the often fatal consequences of a hardline approach to border “security”\.
 
 
-![Photo credit [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?fref=gs&hc_location=group_dialog)](assets/3f189e58235/1*qS5-wam4nnBSFpTYI0F3Kw.png)
+![Photo credit [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?fref=gs&hc_location=group_dialog)](../assets/3f189e58235/1*qS5-wam4nnBSFpTYI0F3Kw.png)
 
 Photo credit [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?fref=gs&hc_location=group_dialog)
 ### GERMANY
@@ -174,7 +174,7 @@ Photo credit [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?f
 The Asylum Seeker’s Movement has announced that there will be a mass deportation of refugees to Afghanistan on the 24th of October\. The flight has reportedly been scheduled from Leipzig/Halle Airport \(LEJ\) with the destination Kabul\. According to activists, “at this point it is not clear from which federal states persons will be deported and if people from Saxonia are in danger\.”
 
 
-![Photo credit: Asylum Seekers’ Movement](assets/3f189e58235/1*uh-f77_GZZBP-I3N2Yn-DA.png)
+![Photo credit: Asylum Seekers’ Movement](../assets/3f189e58235/1*uh-f77_GZZBP-I3N2Yn-DA.png)
 
 Photo credit: Asylum Seekers’ Movement
 

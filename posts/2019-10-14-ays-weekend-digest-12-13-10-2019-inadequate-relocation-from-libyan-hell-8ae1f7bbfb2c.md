@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 12–13/10/2019: Inadequate relocation from Libyan hell
+title: "AYS Weekend Digest 12–13/10/2019: Inadequate relocation from Libyan hell"
 author: Are You Syrious?
 date: 2019-10-14T11:30:50.591+0100
 last_modified_at: 2019-10-14T11:30:50.591+0100
@@ -7,18 +7,18 @@ categories: Are You Syrious?
 tags: [refugees,digest,libya,rojava,ocean-viking]
 description: New tragedy off the Turkish coast /// 176 people rescued by Ocean Viking /// 110 people forcibly returned to Tunisia /// Critical…
 image:
-  path: assets/8ae1f7bbfb2c/0*benkAGHx_ye5V-Sy.jpeg
+  path: ../assets/8ae1f7bbfb2c/0*benkAGHx_ye5V-Sy.jpeg
 ---
 
 ### AYS Weekend Digest 12–13/10/2019: Inadequate relocation from Libyan hell
 #### New tragedy off the Turkish coast /// 176 people rescued by Ocean Viking /// 110 people forcibly returned to Tunisia /// Critical conditions in Messina hotspot /// Another “code of conduct” for NGOs in the Central Med?
 
 
-![](assets/8ae1f7bbfb2c/0*zT-_bQ3CPWkVDNNB)
+![](../assets/8ae1f7bbfb2c/0*zT-_bQ3CPWkVDNNB)
 
 
 
-![](assets/8ae1f7bbfb2c/0*benkAGHx_ye5V-Sy.jpeg)
+![](../assets/8ae1f7bbfb2c/0*benkAGHx_ye5V-Sy.jpeg)
 
 
 Today is the 7th day since the start of the Turkish invasion in Northern Syria\. While many European countries still sell weapons to Erdogan’s regime, the military operation has already forced more than 130,000 people to flee their homes, killed more than 200 people, targeted camp hospitals, doctors and civilian convoys, and allowed more than 800 ISIS prisoners to escape\. Turkish\-backed Syrian paramilitary groups are already suspected of war crimes\. \(Artwork by by Mikail Çiftçi\)

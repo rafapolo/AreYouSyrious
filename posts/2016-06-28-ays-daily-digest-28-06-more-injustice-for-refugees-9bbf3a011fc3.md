@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 28/06: More Injustice for Refugees
+title: "AYS DAILY DIGEST 28/06: More Injustice for Refugees"
 author: Are You Syrious?
 date: 2016-06-28T23:06:51.233+0100
 last_modified_at: 2016-06-29T10:28:37.747+0100
@@ -7,7 +7,7 @@ categories:
 tags: [europe,refugees,iceland,hungary,mediterranean-route]
 description: The route into Europe crossing the central Mediterranean is ‘as busy as ever” with 222,291 refugees entering Europe in 2016. More people…
 image:
-  path: assets/9bbf3a011fc3/1*lbd2MIF_2B6HNJVhZWDbWA.jpeg
+  path: ../assets/9bbf3a011fc3/1*lbd2MIF_2B6HNJVhZWDbWA.jpeg
 ---
 
 ### AYS DAILY DIGEST 28/06: More Injustice for Refugees
@@ -15,11 +15,11 @@ image:
 _The route into Europe crossing the central Mediterranean is ‘as busy as ever” with 222,291 refugees entering Europe in 2016\. More people are coming on a daily base from Libya to Italy\. This morning another ship with 578 refugees was saved at the sea\. Closed borders and imposed restrictions are helping only to a smuggler who increased their prices\. At the same time, attacks on migrants all over Europe are increasing\. Today’s suicide\-bomb attack at the Istanbul Ataturk airport just adds more fuel to the fire\._
 
 
-![](assets/9bbf3a011fc3/1*lbd2MIF_2B6HNJVhZWDbWA.jpeg)
+![](../assets/9bbf3a011fc3/1*lbd2MIF_2B6HNJVhZWDbWA.jpeg)
 
 
 
-![Credits: [Benjamin Julian](https://benjaminjulian.wordpress.com/)](assets/9bbf3a011fc3/1*OahsDyfzNAsPoiqs8hAX9w.jpeg)
+![Credits: [Benjamin Julian](https://benjaminjulian.wordpress.com/)](../assets/9bbf3a011fc3/1*OahsDyfzNAsPoiqs8hAX9w.jpeg)
 
 Credits: [Benjamin Julian](https://benjaminjulian.wordpress.com/)
 #### General
@@ -39,11 +39,11 @@ Reports that the Italian coast guards are confirming that the number of people c
 In Vibo Valentia, the Italian coast guard just landed carrying 762 migrants; among them, 153 women and 71 minors\. From Vibo, the migrants will be transferred to other regions: 25 in Abruzzo, 25 in Basilicata, 100 in Calabria, 50 in Campania, 50 in Emilia, 50 in Lazio, 100 in Liguria, 100 in Lombardy, 100 in Piedmont, 50 in Tuscany, 50 in Umbria, 50 in Veneto\.
 
 
-![](assets/9bbf3a011fc3/1*U2zhb2uBvMgSh9UtnuaDrQ.jpeg)
+![](../assets/9bbf3a011fc3/1*U2zhb2uBvMgSh9UtnuaDrQ.jpeg)
 
 
 
-![SOS Mediterranean](assets/9bbf3a011fc3/1*xd1WEwNVnXXHMsEmRGzqzQ.jpeg)
+![SOS Mediterranean](../assets/9bbf3a011fc3/1*xd1WEwNVnXXHMsEmRGzqzQ.jpeg)
 
 SOS Mediterranean
 
@@ -93,11 +93,11 @@ In 2015, the range of areas afflicted by West Nile Virus in Greece only expanded
 ### Protest in support of refugees in Thessaloniki
 
 
-![](assets/9bbf3a011fc3/1*w2TawU2LRbJgEkECy77zAg.jpeg)
+![](../assets/9bbf3a011fc3/1*w2TawU2LRbJgEkECy77zAg.jpeg)
 
 
 
-![Refugee TV](assets/9bbf3a011fc3/1*rcnTQhHvjoPYxfZJ3gghrA.jpeg)
+![Refugee TV](../assets/9bbf3a011fc3/1*rcnTQhHvjoPYxfZJ3gghrA.jpeg)
 
 Refugee TV
 #### Bulgaria
@@ -117,11 +117,11 @@ The driver of the bus, a 34\-year\-old man from the village of Aldomirovtsi in t
 Alarming reports are still coming from the Serbian\-Hungarian border\. Volunteers are asking for any kind of help\. The storms which occurred the last night drastically affected the camp at Kelebija, and presumably Horgoš “transit zones\.” Everything is not very muddy\.
 
 
-![](assets/9bbf3a011fc3/1*JP9iAZX0HlLJribrRUXBJg.jpeg)
+![](../assets/9bbf3a011fc3/1*JP9iAZX0HlLJribrRUXBJg.jpeg)
 
 
 
-![Thank you Amien Essif](assets/9bbf3a011fc3/1*Ke2bzxilNI0Qk6muBr_pqQ.jpeg)
+![Thank you Amien Essif](../assets/9bbf3a011fc3/1*Ke2bzxilNI0Qk6muBr_pqQ.jpeg)
 
 Thank you Amien Essif
 

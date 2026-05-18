@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,covid-19,greece,germany]
 description: Bodies found in Croatia // Volunteers needed in France and Lebanon // refugees suing German authorities // and more…
 image:
-  path: assets/843aea9f02d1/1*A8AmOtjzab2Wpp8wPFHcpQ.jpeg
+  path: ../assets/843aea9f02d1/1*A8AmOtjzab2Wpp8wPFHcpQ.jpeg
 ---
 
 ### AYS Daily Digest 25/06/20 Greece is set to assemble “2,7 km long floating fence” in Aegean
 #### Bodies found in Croatia // Volunteers needed in France and Lebanon // refugees suing German authorities // and more…
 
 
-![Life jackets left on Lesvos\. Photo by [Jim Black](https://www.dezeen.com/2020/02/10/greece-floating-sea-border-wall-news/)](assets/843aea9f02d1/1*A8AmOtjzab2Wpp8wPFHcpQ.jpeg)
+![Life jackets left on Lesvos\. Photo by [Jim Black](https://www.dezeen.com/2020/02/10/greece-floating-sea-border-wall-news/)](../assets/843aea9f02d1/1*A8AmOtjzab2Wpp8wPFHcpQ.jpeg)
 
 Life jackets left on Lesvos\. Photo by [Jim Black](https://www.dezeen.com/2020/02/10/greece-floating-sea-border-wall-news/)
 ### FEATURE: On July 6th, the “floating Stefanis dam” to keep people from crossing into Greece from Turkey will become a reality
@@ -80,17 +80,17 @@ An expert says these are only the official numbers, the real number of people is
 ### 118 people are onboard the Ocean Viking
 
 
-![](assets/843aea9f02d1/1*mUwZkZXtL-fkSaZ4WSJp3A.jpeg)
+![](../assets/843aea9f02d1/1*mUwZkZXtL-fkSaZ4WSJp3A.jpeg)
 
 
 
-![“On a second mission in the afternoon in the SAR zone in Malta, 67 more people were saved by our teams\. 118 people are now on board the [\#OceanViking](https://twitter.com/hashtag/OceanViking?src=hashtag_click) \. All of them are currently being looked after by our care and medical team and their health is being closely monitored\.” Photo by [SOS Mediterranee Germany](https://twitter.com/SOSMedGermany/status/1276236773912436738)](assets/843aea9f02d1/1*p1mvmqEt5jUAdcFVR5iJog.jpeg)
+![“On a second mission in the afternoon in the SAR zone in Malta, 67 more people were saved by our teams\. 118 people are now on board the [\#OceanViking](https://twitter.com/hashtag/OceanViking?src=hashtag_click) \. All of them are currently being looked after by our care and medical team and their health is being closely monitored\.” Photo by [SOS Mediterranee Germany](https://twitter.com/SOSMedGermany/status/1276236773912436738)](../assets/843aea9f02d1/1*p1mvmqEt5jUAdcFVR5iJog.jpeg)
 
 “On a second mission in the afternoon in the SAR zone in Malta, 67 more people were saved by our teams\. 118 people are now on board the [\#OceanViking](https://twitter.com/hashtag/OceanViking?src=hashtag_click) \. All of them are currently being looked after by our care and medical team and their health is being closely monitored\.” Photo by [SOS Mediterranee Germany](https://twitter.com/SOSMedGermany/status/1276236773912436738)
 #### GREECE
 
 
-![Moria’s water access problem\. Photo by Watershed Foundation](assets/843aea9f02d1/1*2QdOb4T-MbL3BG5ycFzHWg.jpeg)
+![Moria’s water access problem\. Photo by Watershed Foundation](../assets/843aea9f02d1/1*2QdOb4T-MbL3BG5ycFzHWg.jpeg)
 
 Moria’s water access problem\. Photo by Watershed Foundation
 
@@ -110,7 +110,7 @@ The [Watershed Foundation](https://www.facebook.com/groups/informationpointforle
 
 
 
-![Violence and pushbacks in Greece\. Photo by [Philippe Dam](https://twitter.com/philippe_dam/status/1276095609582374912)](assets/843aea9f02d1/1*fwk7VW2d7K_6CwLFg6wfmA.jpeg)
+![Violence and pushbacks in Greece\. Photo by [Philippe Dam](https://twitter.com/philippe_dam/status/1276095609582374912)](../assets/843aea9f02d1/1*fwk7VW2d7K_6CwLFg6wfmA.jpeg)
 
 Violence and pushbacks in Greece\. Photo by [Philippe Dam](https://twitter.com/philippe_dam/status/1276095609582374912)
 
@@ -146,7 +146,7 @@ Philippe Dam of Human Rights Watch writes about what was wrong with the EU Home 
 
 
 
-![In an antifascist protest on Lesvos on Thursday utside of the tax offices of Mytilini: “No to the deprivation of AFM to the refugees\. Accommodation and work for everyone\.” Photo by [Black Racoon](https://twitter.com/blackracoon16/status/1276091360882425857)](assets/843aea9f02d1/1*nt7riuibGgJc1xcOo1Gcxg.jpeg)
+![In an antifascist protest on Lesvos on Thursday utside of the tax offices of Mytilini: “No to the deprivation of AFM to the refugees\. Accommodation and work for everyone\.” Photo by [Black Racoon](https://twitter.com/blackracoon16/status/1276091360882425857)](../assets/843aea9f02d1/1*nt7riuibGgJc1xcOo1Gcxg.jpeg)
 
 In an antifascist protest on Lesvos on Thursday utside of the tax offices of Mytilini: “No to the deprivation of AFM to the refugees\. Accommodation and work for everyone\.” Photo by [Black Racoon](https://twitter.com/blackracoon16/status/1276091360882425857)
 
@@ -203,7 +203,7 @@ Usually, after 6 months, people are no longer at risk for deportation\. But sinc
 #### FRANCE
 
 
-![**Utopia is looking for volunteers\!** “Because it is important for us to promote the social rights and dignity of all\. you\. s, Utopia Grande\-Synthe teams cross the various camps of the city to offer social side and provide water, food, hygiene kits or access to legal and health services to the exilé\.e\.s\. 👉 Do you want to get involved? 👉 Do you have at least a month ahead of you? JOIN US\!” Photo by [Utopia 56 Grande\-Synthe](https://www.facebook.com/utopia56grandesynthe/photos/a.100522954994259/135123051534249/?type=3&theater)](assets/843aea9f02d1/1*ngAUuZgJZjBnl4anf0J2oA.jpeg)
+![**Utopia is looking for volunteers\!** “Because it is important for us to promote the social rights and dignity of all\. you\. s, Utopia Grande\-Synthe teams cross the various camps of the city to offer social side and provide water, food, hygiene kits or access to legal and health services to the exilé\.e\.s\. 👉 Do you want to get involved? 👉 Do you have at least a month ahead of you? JOIN US\!” Photo by [Utopia 56 Grande\-Synthe](https://www.facebook.com/utopia56grandesynthe/photos/a.100522954994259/135123051534249/?type=3&theater)](../assets/843aea9f02d1/1*ngAUuZgJZjBnl4anf0J2oA.jpeg)
 
 **Utopia is looking for volunteers\!** “Because it is important for us to promote the social rights and dignity of all\. you\. s, Utopia Grande\-Synthe teams cross the various camps of the city to offer social side and provide water, food, hygiene kits or access to legal and health services to the exilé\.e\.s\. 👉 Do you want to get involved? 👉 Do you have at least a month ahead of you? JOIN US\!” Photo by [Utopia 56 Grande\-Synthe](https://www.facebook.com/utopia56grandesynthe/photos/a.100522954994259/135123051534249/?type=3&theater)
 

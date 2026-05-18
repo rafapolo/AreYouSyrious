@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 10/9/17: Another life lost on the “closed” Route
+title: "AYS Daily Digest 10/9/17: Another life lost on the “closed” Route"
 author: Are You Syrious?
 date: 2017-09-11T01:23:25.334+0100
 last_modified_at: 2017-09-12T09:36:55.042+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,italy,greece,europe,germany]
 description: A late surge of arrivals continues on Aegean islands / Difficult situation continues on Samos / many volunteers needed in different places…
 image:
-  path: assets/db7f9f2777f7/1*kh4yLln3tQPTbGEB-eX7tQ.jpeg
+  path: ../assets/db7f9f2777f7/1*kh4yLln3tQPTbGEB-eX7tQ.jpeg
 ---
 
 ### AYS Daily Digest 10/9/17: Another life lost on the “closed” Route
 #### A late surge of arrivals continues on Aegean islands / Difficult situation continues on Samos / many volunteers needed in different places / a man died trying to go from Serbia to Croatia / Protesting the deportations in Germany
 
 
-![Samos](assets/db7f9f2777f7/1*kh4yLln3tQPTbGEB-eX7tQ.jpeg)
+![Samos](../assets/db7f9f2777f7/1*kh4yLln3tQPTbGEB-eX7tQ.jpeg)
 
 Samos
 #### FEATURE
@@ -40,21 +40,21 @@ People are getting desperate and wonder what is next if these are the acceptable
 Scenes we’ve seen in emergency aid tents during the outbreak of the refugee crisis in 2015 are back: children sleeping on the floor on the infamous grey blankets, today, 2 years afterwards, in a camp in the EU\.
 
 
-![](assets/db7f9f2777f7/1*FuqqBrYU5VurgFY6SfJ7hQ.jpeg)
+![](../assets/db7f9f2777f7/1*FuqqBrYU5VurgFY6SfJ7hQ.jpeg)
 
 
 It seems that what we are offering as a “refuge” does not even satisfy the minimum standard for personal living space in prison establishments established by the European Committee for the Prevention of Torture and Inhuman or Degrading Treatment or Punishment\.
 
 
-![](assets/db7f9f2777f7/1*JIEtafLp0ktcYlKZli3Qiw.jpeg)
+![](../assets/db7f9f2777f7/1*JIEtafLp0ktcYlKZli3Qiw.jpeg)
 
 
 
-![](assets/db7f9f2777f7/1*tw4EiXSuStm97bduDTBVug.jpeg)
+![](../assets/db7f9f2777f7/1*tw4EiXSuStm97bduDTBVug.jpeg)
 
 
 
-![](assets/db7f9f2777f7/1*NyKVGc-t72F9JZu_AOWlAg.jpeg)
+![](../assets/db7f9f2777f7/1*NyKVGc-t72F9JZu_AOWlAg.jpeg)
 
 #### Arrivals
 ### Lesvos
@@ -72,11 +72,11 @@ In spite of the difficulties and the serious circumstances surrounding the loss 
 All our support to the fellow volunteers\!
 
 
-![](assets/db7f9f2777f7/1*FjbpQWsvMyiZ5Y_pLLd5Ow.jpeg)
+![](../assets/db7f9f2777f7/1*FjbpQWsvMyiZ5Y_pLLd5Ow.jpeg)
 
 
 
-![Photos: [En Red SOS refugiados](https://www.facebook.com/sosrefugiados/)](assets/db7f9f2777f7/1*czzaNSKh8K4lwWbZcBE7_w.jpeg)
+![Photos: [En Red SOS refugiados](https://www.facebook.com/sosrefugiados/)](../assets/db7f9f2777f7/1*czzaNSKh8K4lwWbZcBE7_w.jpeg)
 
 Photos: [En Red SOS refugiados](https://www.facebook.com/sosrefugiados/)
 ### Volunteering in Athens and surrounding area
@@ -90,7 +90,7 @@ Nurses and paramedics also welcome to apply\.
 Please contact [Kai Wittstock](https://www.facebook.com/kai.hamburg.9?fref=mentions) or at the following email address :verein@docmobile\.org
 
 
-![](assets/db7f9f2777f7/1*kPnKTf5yv-NKkLlWka7McQ.jpeg)
+![](../assets/db7f9f2777f7/1*kPnKTf5yv-NKkLlWka7McQ.jpeg)
 
 
 Volunteers are needed also on [Help Refugees](https://www.facebook.com/HelpRefugeesUK/?hc_ref=ARTtE53eoLfN3Re09zAVGA-7EtL25fPV26cJlI-UgIl4epejo5XwG5r4PqCZHOh8WV4&fref=nf) projects across Greece\. They are especially in need of doctors and dentists, as well as people with experience of teaching, construction or carpentry\.
@@ -117,11 +117,11 @@ The flights will depart from Düsseldorf, and the local activists have [announce
 
 
 
-![](assets/db7f9f2777f7/1*QoTwz1zHC1T--Eur60rvXA.jpeg)
+![](../assets/db7f9f2777f7/1*QoTwz1zHC1T--Eur60rvXA.jpeg)
 
 
 
-![Protests in Bochum \(Photo [source](https://enoughisenough14.org/2017/09/10/welcomeunited-mass-deportation-alert-in-germany-protests-announced/#jp-carousel-33769) \)](assets/db7f9f2777f7/1*nSt__Kp8eVJIRS4flkh5nQ.jpeg)
+![Protests in Bochum \(Photo [source](https://enoughisenough14.org/2017/09/10/welcomeunited-mass-deportation-alert-in-germany-protests-announced/#jp-carousel-33769) \)](../assets/db7f9f2777f7/1*nSt__Kp8eVJIRS4flkh5nQ.jpeg)
 
 Protests in Bochum \(Photo [source](https://enoughisenough14.org/2017/09/10/welcomeunited-mass-deportation-alert-in-germany-protests-announced/#jp-carousel-33769) \)
 #### BELGIUM
@@ -130,11 +130,11 @@ Protests in Bochum \(Photo [source](https://enoughisenough14.org/2017/09/10/welc
 “In Brussels refugees are being systematically arrested by police, only two days ago 40 arrests were made in the streets\. Most refugees do not have a clear understanding or knowledge of their legal rights and as a result the state can advantage of them and their situation\. For this reason, it is important that refugees know and understand their legal rights through access to information; in order to defend themselves and have proper legal representation, this is a human right,” [volunteer](https://www.facebook.com/isis.mera?fref=gs&hc_ref=ARQc7XeQs05oi1ADy6jM3eswH-LWIuOwIfrmZMepNqvdHmx7vb2Rxh54vtsSwNWbPa4&hc_location=group) groups say\.
 
 
-![](assets/db7f9f2777f7/1*XoYs3n_CW72l5h-nute4fg.jpeg)
+![](../assets/db7f9f2777f7/1*XoYs3n_CW72l5h-nute4fg.jpeg)
 
 
 
-![Photos: [Plateforme citoyenne de soutien aux réfugiés Bruxelles](https://www.facebook.com/plateformerefugiesbxl/)](assets/db7f9f2777f7/1*7v9gvcDWSeDoL2Z6jluUDA.jpeg)
+![Photos: [Plateforme citoyenne de soutien aux réfugiés Bruxelles](https://www.facebook.com/plateformerefugiesbxl/)](../assets/db7f9f2777f7/1*7v9gvcDWSeDoL2Z6jluUDA.jpeg)
 
 Photos: [Plateforme citoyenne de soutien aux réfugiés Bruxelles](https://www.facebook.com/plateformerefugiesbxl/)
 
@@ -155,7 +155,7 @@ Photos: [Plateforme citoyenne de soutien aux réfugiés Bruxelles](https://www.f
 
 
 
-![[Care4Calais](https://www.facebook.com/care4calais/) distributing over 200 jackets today in Brussels \(Photo: [Care4Calais](https://www.facebook.com/care4calais/) \)](assets/db7f9f2777f7/1*nLcBsm9IDOJzuT1Tr71fMw.jpeg)
+![[Care4Calais](https://www.facebook.com/care4calais/) distributing over 200 jackets today in Brussels \(Photo: [Care4Calais](https://www.facebook.com/care4calais/) \)](../assets/db7f9f2777f7/1*nLcBsm9IDOJzuT1Tr71fMw.jpeg)
 
 [Care4Calais](https://www.facebook.com/care4calais/) distributing over 200 jackets today in Brussels \(Photo: [Care4Calais](https://www.facebook.com/care4calais/) \)
 

@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 17/3/21: Serbia — The number of total decisions on asylum lowest in the past four…
+title: "AYS Daily Digest 17/3/21: Serbia — The number of total decisions on asylum lowest in the past four…"
 author: Are You Syrious?
 date: 2021-03-18T18:18:51.582+0000
 last_modified_at: 2021-03-18T18:44:43.948+0000
 categories: Are You Syrious?
 tags: [digest,europe,refugees,serbia,croatia]
-description: 2020 report on Serbia / Greece: an indictment of reception conditions in Lesvos / Official Croatia ignoring its Ombudswoman / Sea —…
+description: "2020 report on Serbia / Greece: an indictment of reception conditions in Lesvos / Official Croatia ignoring its Ombudswoman / Sea —…"
 image:
-  path: assets/3cc0cf399016/0*c3kGn2D7z3W2n0fp
+  path: ../assets/3cc0cf399016/0*c3kGn2D7z3W2n0fp
 ---
 
 ### AYS Daily Digest 17/3/21: Serbia — The number of total decisions on asylum lowest in the past four years
 #### 2020 report on Serbia / Greece: an indictment of reception conditions on Lesvos / Official Croatia ignoring its ombudswoman / Sea — international fundraising campaign in support of Mediterranea / Recommended reads on the anniversary of the EU\-Turkey deal & more
 
 
-![APC teams reported from Sombor, Serbia, some days ago, where the conditions remain poor, safety questionable and access to hygiene scarce\.](assets/3cc0cf399016/0*c3kGn2D7z3W2n0fp)
+![APC teams reported from Sombor, Serbia, some days ago, where the conditions remain poor, safety questionable and access to hygiene scarce\.](../assets/3cc0cf399016/0*c3kGn2D7z3W2n0fp)
 
 APC teams reported from Sombor, Serbia, some days ago, where the conditions remain poor, safety questionable and access to hygiene scarce\.
 #### FEATURED
@@ -106,11 +106,11 @@ The treatment of the ombudswoman’s recommendations, her role and consideration
 The volunteer teams active in the north of France have been under pressure from the same officials who keep evicting people from the area\. [Utopia 56](https://twitter.com/Utopia_56) reports that they have received two additional fines to bringing the number fa total of 72 fines as of now — for non\-compliance with the curfew in Calais, while in front of the police station\. However, the teams have still been working as they have every night, the team accompanies a minor in order to request a shelter for him\. All their certificates are in order, states the team\.
 
 
-![](assets/3cc0cf399016/0*OjFYnJqmQQePZhvQ)
+![](../assets/3cc0cf399016/0*OjFYnJqmQQePZhvQ)
 
 
 
-![](assets/3cc0cf399016/0*c1EhnxwbKFo3Ul5F)
+![](../assets/3cc0cf399016/0*c1EhnxwbKFo3Ul5F)
 
 #### SPAIN
 ### Children in critical condition upon arrival in Spain
@@ -121,7 +121,7 @@ They left Dakhla, in the south of the Sahara, and they had been between four or 
 ### Warning of new deportations
 
 
-![](assets/3cc0cf399016/0*LdICdcTniw1GyHHG)
+![](../assets/3cc0cf399016/0*LdICdcTniw1GyHHG)
 
 
 According to current information, the [Flüchtlingsrat Bay](https://twitter.com/BFR_089) team warns that the next collective deportation to Afghanistan will probably take place on Wednesday, 7 April 2021, from Berlin\-Schönefeld Airport\. You can find warnings and also which people are NOT affected on their main profile\.
@@ -132,14 +132,14 @@ As we have been reporting, Denmark is embarking on a mission to send people back
 Here is another interesting thing pointed out on [Twitter](https://twitter.com/joeyayoub/status/1372134701524205569/photo/1) : the Danish embassy in Syria is referring Syrians to the Danish embassy in Lebanon because it is not safe for them to work in Syria:
 
 
-![](assets/3cc0cf399016/0*MJCg5Xrg2y7w0gjU)
+![](../assets/3cc0cf399016/0*MJCg5Xrg2y7w0gjU)
 
 #### UK
 
 Most immigration detainees across the UK are now being held in prisons, where, despite operating under extraordinarily severe and harmful lockdown conditions, people are still at greater risk from COVID\-19, reported [AVID](https://twitter.com/AVIDdetention) \.
 
 
-![](assets/3cc0cf399016/0*nt_VCpmwmwYG4VlA)
+![](../assets/3cc0cf399016/0*nt_VCpmwmwYG4VlA)
 
 
 118 deaths related to COVID\-19 among people in prisons in England and Wales between March 2020 and February 2021, representing a risk of dying that is more than three times higher than that of people of the same age and sex outside secure environments, [found](https://www.theguardian.com/society/2021/mar/16/covid-death-rate-in-prisons-three-times-higher-than-outside) the research team at University College London \(UCL\) \.

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 03/08/17: Are all Dublin deportees a security threat?
+title: "AYS Daily Digest 03/08/17: Are all Dublin deportees a security threat?"
 author: Are You Syrious?
 date: 2017-08-03T22:43:03.438+0100
 last_modified_at: 2017-08-04T06:23:57.407+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,greece,serbia,croatia,denmark]
 description: Refugees have limited access to Greek labour market / Volunteer in Calais abused by police / Violence in Serbian camp / Asylum seeking…
 image:
-  path: assets/6fdd5cd0553/1*IEGY9TkXz6lBKjAc9LtZSA.jpeg
+  path: ../assets/6fdd5cd0553/1*IEGY9TkXz6lBKjAc9LtZSA.jpeg
 ---
 
 ### AYS Daily Digest 03/08/17: Are all Dublin deportees a security threat? Croatia’s Security and Intelligence Agency thinks so\.
@@ -15,7 +15,7 @@ image:
 _Refugees have limited access to Greek labour market / Volunteer in Calais abused by police / Violence in Serbian camp / Asylum seeking couple in huge mental stress in Denmark due to upcoming deportation_
 
 
-![Porin asylum center in Zagreb\. Photo: libela\.org](assets/6fdd5cd0553/1*IEGY9TkXz6lBKjAc9LtZSA.jpeg)
+![Porin asylum center in Zagreb\. Photo: libela\.org](../assets/6fdd5cd0553/1*IEGY9TkXz6lBKjAc9LtZSA.jpeg)
 
 Porin asylum center in Zagreb\. Photo: libela\.org
 #### Feature
@@ -190,7 +190,7 @@ Total of 24 [\#REGISTRATIONS](https://www.facebook.com/hashtag/registrations?hc_
 The hungerstike in Moria continues and today volunteers from [No Border Kitchen Lesvos](https://www.facebook.com/NBKLesvos/?hc_ref=ARRDqFOP1Q1CTUYXi1KkdFFtXD9yY22X1XjyulROthYe70amTk3DIR0ejL9sE1LgOiw) joined in for 24 hours\.
 
 
-![Photo: [No Border Kitchen Lesvos](https://www.facebook.com/NBKLesvos/?hc_ref=ARRDqFOP1Q1CTUYXi1KkdFFtXD9yY22X1XjyulROthYe70amTk3DIR0ejL9sE1LgOiw)](assets/6fdd5cd0553/1*Rzf2E2xHM1ZKwxhXujEosQ.jpeg)
+![Photo: [No Border Kitchen Lesvos](https://www.facebook.com/NBKLesvos/?hc_ref=ARRDqFOP1Q1CTUYXi1KkdFFtXD9yY22X1XjyulROthYe70amTk3DIR0ejL9sE1LgOiw)](../assets/6fdd5cd0553/1*Rzf2E2xHM1ZKwxhXujEosQ.jpeg)
 
 Photo: [No Border Kitchen Lesvos](https://www.facebook.com/NBKLesvos/?hc_ref=ARRDqFOP1Q1CTUYXi1KkdFFtXD9yY22X1XjyulROthYe70amTk3DIR0ejL9sE1LgOiw)
 
@@ -204,14 +204,14 @@ In Vathy a baby was borned this Saturday, which is the youngest resident in the 
 They ask for [support](http://wp.me/PsaGo-1by) as the them is volunteers and they are funded only by [donations](https://www.gofundme.com/https-no-more-borders-no-more-tear…) \.
 
 
-![Photo: Organization Earth](assets/6fdd5cd0553/1*l-3meTwsiN6N4KOOWsg61Q.jpeg)
+![Photo: Organization Earth](../assets/6fdd5cd0553/1*l-3meTwsiN6N4KOOWsg61Q.jpeg)
 
 Photo: Organization Earth
 
 **Samos update from UNHCR**
 
 
-![Source: UNHCR](assets/6fdd5cd0553/1*h9RsSEtm50_a-GT6BDD1CQ.jpeg)
+![Source: UNHCR](../assets/6fdd5cd0553/1*h9RsSEtm50_a-GT6BDD1CQ.jpeg)
 
 Source: UNHCR
 ### Bulgaria
@@ -225,7 +225,7 @@ Source: UNHCR
 All NGO’s working with this have suggested to open special accommodations for the unaccompanied minors in order to grant them better protection, but this has yet not been done\. Staff from IOM says that Bulgarian homes for orphans are neglecting refugee children as well\. IOM are in a process of opening a center, but no further details are yet known\.
 
 
-![Photo: [Art Against](https://www.facebook.com/artagainstproject/)](assets/6fdd5cd0553/1*0lxf3qTKwjTHSXSrproVrw.jpeg)
+![Photo: [Art Against](https://www.facebook.com/artagainstproject/)](../assets/6fdd5cd0553/1*0lxf3qTKwjTHSXSrproVrw.jpeg)
 
 Photo: [Art Against](https://www.facebook.com/artagainstproject/)
 ### Serbia
@@ -242,7 +242,7 @@ Now the man is in hospital\. The refugees don’t feel safe anymore and want mor
 Volunteers wonder, what good the moving of 75 individuals will do, since more people will continue to arrive today, tomorrow and the day after that\. Italy is a stepping point for moving on further, and people are arriving here from the so called “closed” Balkan route\.
 
 
-![The situation in Gorizia, photo: [Mauro Chiarabba](https://www.facebook.com/mauro.chiarabba)](assets/6fdd5cd0553/1*TTMP1fyrABIaFnX22GLf2g.jpeg)
+![The situation in Gorizia, photo: [Mauro Chiarabba](https://www.facebook.com/mauro.chiarabba)](../assets/6fdd5cd0553/1*TTMP1fyrABIaFnX22GLf2g.jpeg)
 
 The situation in Gorizia, photo: [Mauro Chiarabba](https://www.facebook.com/mauro.chiarabba)
 
@@ -252,7 +252,7 @@ The situation in Gorizia, photo: [Mauro Chiarabba](https://www.facebook.com/maur
 [L’Auberge des Migrants](https://www.facebook.com/LAuberge-des-Migrants-358496450338/?hc_ref=ARRz32G8m105F7cccZex-Fr_KWP9ckZfYb35e27JbtnODlbQuiqRNT7ONMxz9jsOUHw&fref=nf) [is updating from France](https://www.facebook.com/358496450338/photos/a.10152514841565339.1073741825.358496450338/10155302585340339/?type=3&theater) \. They have reached their goal for donations to be able to build a roof\. The recent images of [the rain](https://www.facebook.com/358496450338/photos/a.10152514841565339.1073741825.358496450338/10155302585340339/?type=3&theater) confirm the big need for a roof to be installed\.
 
 
-![Photo: [L’Auberge des Migrants](https://www.facebook.com/LAuberge-des-Migrants-358496450338/)](assets/6fdd5cd0553/1*ULarmJkfo0UacXlSeE-sKA.jpeg)
+![Photo: [L’Auberge des Migrants](https://www.facebook.com/LAuberge-des-Migrants-358496450338/)](../assets/6fdd5cd0553/1*ULarmJkfo0UacXlSeE-sKA.jpeg)
 
 Photo: [L’Auberge des Migrants](https://www.facebook.com/LAuberge-des-Migrants-358496450338/)
 

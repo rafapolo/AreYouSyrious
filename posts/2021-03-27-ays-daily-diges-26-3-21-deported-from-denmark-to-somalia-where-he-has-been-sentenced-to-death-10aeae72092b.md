@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Diges 26/3/21: Deported from Denmark to Somalia, where he has been sentenced to death
+title: "AYS Daily Diges 26/3/21: Deported from Denmark to Somalia, where he has been sentenced to death"
 author: Are You Syrious?
 date: 2021-03-27T18:03:37.254+0000
 last_modified_at: 2021-03-27T19:57:09.161+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,europe,greece,human-rights]
 description: French protest results in finding temporary shelter / Families struggling to reach their loved ones after tragic accident in Croatia /…
 image:
-  path: assets/10aeae72092b/0*p6FWjLPCchC9GYVP
+  path: ../assets/10aeae72092b/0*p6FWjLPCchC9GYVP
 ---
 
 ### AYS Daily Digest 26/3/21: Deported from Denmark to Somalia, where he has been sentenced to death
 #### French protest results in finding temporary shelter / Families struggling to reach their loved ones after tragic accident in Croatia / Austria still in denial and closed to those suffering on Lesvos / Legal: at which a person’s ‘minor’ status is assessed in order to determine whether that minor and another person are ‘family members’ / recommended reads & more
 
 
-![Place de la République, Paris, 480 women, men and children protesting for protection from the state received shelter\. Read more under “France” \(Photo: [Utopia 56 Paris et Ile\-de\-France](https://www.facebook.com/U56ParisIDF/?__cft__[0]=AZV1b3dFpyHfrUy-hR-89LfqLbgAGpmWKDCVZcUqShuxGY3XfAkO5BKZKaYtE8kN29bu1xfi6m0bg1nCAe8gOzdmBjDH7yqsTDy41Vv_J1CPdgIYZ7Nr9KTtDEDHB3d4q9ffql5fqcKJw76SMXhHZRdi9Y45AvmBR6YCyDalm1lQmg-Ex1R0vzjoOEs2YD2vOeiwxKiKl3q_JkEFeMcblfYv&__tn__=-UC*F) \)](assets/10aeae72092b/0*p6FWjLPCchC9GYVP)
+![Place de la République, Paris, 480 women, men and children protesting for protection from the state received shelter\. Read more under “France” \(Photo: [Utopia 56 Paris et Ile\-de\-France](https://www.facebook.com/U56ParisIDF/?__cft__[0]=AZV1b3dFpyHfrUy-hR-89LfqLbgAGpmWKDCVZcUqShuxGY3XfAkO5BKZKaYtE8kN29bu1xfi6m0bg1nCAe8gOzdmBjDH7yqsTDy41Vv_J1CPdgIYZ7Nr9KTtDEDHB3d4q9ffql5fqcKJw76SMXhHZRdi9Y45AvmBR6YCyDalm1lQmg-Ex1R0vzjoOEs2YD2vOeiwxKiKl3q_JkEFeMcblfYv&__tn__=-UC*F) \)](../assets/10aeae72092b/0*p6FWjLPCchC9GYVP)
 
 Place de la République, Paris, 480 women, men and children protesting for protection from the state received shelter\. Read more under “France” \(Photo: [Utopia 56 Paris et Ile\-de\-France](https://www.facebook.com/U56ParisIDF/?__cft__[0]=AZV1b3dFpyHfrUy-hR-89LfqLbgAGpmWKDCVZcUqShuxGY3XfAkO5BKZKaYtE8kN29bu1xfi6m0bg1nCAe8gOzdmBjDH7yqsTDy41Vv_J1CPdgIYZ7Nr9KTtDEDHB3d4q9ffql5fqcKJw76SMXhHZRdi9Y45AvmBR6YCyDalm1lQmg-Ex1R0vzjoOEs2YD2vOeiwxKiKl3q_JkEFeMcblfYv&__tn__=-UC*F) \)
 #### FEATURED
@@ -53,11 +53,11 @@ With official Europe criminalizing refugees and disregarding human rights, [the 
 A number of organisations have signed a common statement in support of the three:
 
 
-![](assets/10aeae72092b/0*Tgfjb-W6M8NlIqlD)
+![](../assets/10aeae72092b/0*Tgfjb-W6M8NlIqlD)
 
 
 
-![](assets/10aeae72092b/0*YZ0zpUnIg-4__gfK)
+![](../assets/10aeae72092b/0*YZ0zpUnIg-4__gfK)
 
 
 Support is also getting stronger in other places across Europe:
@@ -144,7 +144,7 @@ A 10\-year old girl, victim of a mine explosion in Afghanistan, was deterred fro
 ### Call for mobilisation in support
 
 
-![It is unacceptable that in this time of health crisis and lockdown this solidary place hosting families, students, precarious workers be threatened\! — [Au Landy Sauvage](https://www.facebook.com/clossauvage/?__cft__[0]=AZWY2fVcRFuJ_93W5d9NUZYP2pyxr-ChLG4pgSPstoYPjac-QrSJ1VizY2humJgCvOIfrHwR8Uk3mCK53o7r5Se4hIcTctpmD3-0qdynuQ0zu4zSTZzXREcY15KaOckQ1y1nUulvJMzqj5eArBemzc-GnFxS6tNtImVcDcfp7csNKw&__tn__=-UC%2CP-y-R)](assets/10aeae72092b/0*yv-QY2FxOdpjhlzG)
+![It is unacceptable that in this time of health crisis and lockdown this solidary place hosting families, students, precarious workers be threatened\! — [Au Landy Sauvage](https://www.facebook.com/clossauvage/?__cft__[0]=AZWY2fVcRFuJ_93W5d9NUZYP2pyxr-ChLG4pgSPstoYPjac-QrSJ1VizY2humJgCvOIfrHwR8Uk3mCK53o7r5Se4hIcTctpmD3-0qdynuQ0zu4zSTZzXREcY15KaOckQ1y1nUulvJMzqj5eArBemzc-GnFxS6tNtImVcDcfp7csNKw&__tn__=-UC%2CP-y-R)](../assets/10aeae72092b/0*yv-QY2FxOdpjhlzG)
 
 It is unacceptable that in this time of health crisis and lockdown this solidary place hosting families, students, precarious workers be threatened\! — [Au Landy Sauvage](https://www.facebook.com/clossauvage/?__cft__[0]=AZWY2fVcRFuJ_93W5d9NUZYP2pyxr-ChLG4pgSPstoYPjac-QrSJ1VizY2humJgCvOIfrHwR8Uk3mCK53o7r5Se4hIcTctpmD3-0qdynuQ0zu4zSTZzXREcY15KaOckQ1y1nUulvJMzqj5eArBemzc-GnFxS6tNtImVcDcfp7csNKw&__tn__=-UC%2CP-y-R)
 ### Hosted after Nuit de la solidarité
@@ -240,7 +240,7 @@ A dinghy with more than 50 migrants on board has overturned\. A rescue was carri
 #### UK
 
 
-![[Source](https://commonslibrary.parliament.uk/research-briefings/sn01403/)](assets/10aeae72092b/0*9rT2bHDsN78CVVOe)
+![[Source](https://commonslibrary.parliament.uk/research-briefings/sn01403/)](../assets/10aeae72092b/0*9rT2bHDsN78CVVOe)
 
 [Source](https://commonslibrary.parliament.uk/research-briefings/sn01403/)
 
@@ -312,7 +312,7 @@ Greeks protesting against the hard\-right government have been confronted with v
 
 
 
-[![Interview With An Activist About Torture By The Greek Police](assets/10aeae72092b/f13c_hqdefault.jpg "Interview With An Activist About Torture By The Greek Police")](https://www.youtube.com/watch?v=6-nG2FvrORU)
+[![Interview With An Activist About Torture By The Greek Police](../assets/10aeae72092b/f13c_hqdefault.jpg "Interview With An Activist About Torture By The Greek Police")](https://www.youtube.com/watch?v=6-nG2FvrORU)
 
 - Nearly three in four bodies of those who have perished in the Central Mediterranean remain lost at sea, meaning tens of thousands of families are searching endlessly for those lost:
 

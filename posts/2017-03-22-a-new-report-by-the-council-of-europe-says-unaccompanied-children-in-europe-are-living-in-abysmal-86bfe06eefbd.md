@@ -1,5 +1,5 @@
 ---
-title: AYS DIGEST 22/03: Refugee children live in “abysmal conditions”
+title: "AYS DIGEST 22/03: Refugee children live in “abysmal conditions”"
 author: Are You Syrious?
 date: 2017-03-22T23:30:26.275+0000
 last_modified_at: 2017-03-23T07:13:43.725+0000
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe]
 description: Family deported from Slovenia to Croatia//Refugees flee Hungary before new legislation is enacted//Court suspends ban on food distributions…
 image:
-  path: assets/86bfe06eefbd/1*HJ79XUVmEMi4gbLd0_STPQ.png
+  path: ../assets/86bfe06eefbd/1*HJ79XUVmEMi4gbLd0_STPQ.png
 ---
 
 ### AYS DIGEST 22/03: Refugee children live in “abysmal conditions”
 
 
-![Photo by Joao Pequeno](assets/86bfe06eefbd/1*HJ79XUVmEMi4gbLd0_STPQ.png)
+![Photo by Joao Pequeno](../assets/86bfe06eefbd/1*HJ79XUVmEMi4gbLd0_STPQ.png)
 
 Photo by Joao Pequeno
 
@@ -49,14 +49,14 @@ In the same article, a spokesperson for the Ministry of Citizen Protection has c
 InterEuropean Human Aid Association \(IHA\) and Truckshop sent a team to Lesvos and were able to build a permanent clothing store in Moria camp in just a few days, thanks to the help of residents\. The shop allowed them to complete a mass distribution of clothing items and undergarments, while providing residents with choice\.
 
 
-![Photo by IHA/Truckshop](assets/86bfe06eefbd/1*Eax5JCtPJgIroQseyV7HTg.png)
+![Photo by IHA/Truckshop](../assets/86bfe06eefbd/1*Eax5JCtPJgIroQseyV7HTg.png)
 
 Photo by IHA/Truckshop
 
 They say the situation inside Moria remains quite challenging but the situation is more stable now with a smaller population and the weather conditions being much milder\. They also say that more and more people are resorting to so\-called “voluntary returns”, with staff asking detainees in Moria daily whether they would like to volunteer\.
 
 
-![Photo by IHA/Truckshop](assets/86bfe06eefbd/1*3hSiKXX_myMRVhqNaKa0WA.png)
+![Photo by IHA/Truckshop](../assets/86bfe06eefbd/1*3hSiKXX_myMRVhqNaKa0WA.png)
 
 Photo by IHA/Truckshop
 
@@ -66,14 +66,14 @@ The clothing store Truckshop set up in a 40 ft container in Moria continues to r
 As reported yesterday, with many new nationalities in Nea Kavala , the group “We are Here” says it hopes to adapt to the new situation and will need new book donations to give refugees, not matter the language, a chance to read\. Workshops were also organised to paint the walls of Drop in the Ocean’s “Drop Shop”, where refugees can exchange tokens for clothes\.
 
 
-![Photo by We are Here](assets/86bfe06eefbd/1*u9W6Dxr1vRHgcWFfhNubrg.png)
+![Photo by We are Here](../assets/86bfe06eefbd/1*u9W6Dxr1vRHgcWFfhNubrg.png)
 
 Photo by We are Here
 
 Finally, the Women’s Space has a new creche — a “domo tent” were young children are entertained while mothers are busy with activities inside the Women’s Space\.
 
 
-![The new creche\. Photo by We are Here](assets/86bfe06eefbd/1*dqet4Vak8FzEu8QJPIBs4Q.png)
+![The new creche\. Photo by We are Here](../assets/86bfe06eefbd/1*dqet4Vak8FzEu8QJPIBs4Q.png)
 
 The new creche\. Photo by We are Here
 ### City Plaza statement on EU\-Turkey deal march
@@ -91,7 +91,7 @@ The refugees cited in the article expect to receive negative asylum decisions on
 Sources inside the Kiskunhalas refugee camp estimate that of the camp’s current 30 residents, only eight to ten will stay at the camp after the new law comes into effect\.
 
 
-![Photo by Syrious Help](assets/86bfe06eefbd/1*lm_DNwZVti_ns9AqpXN9pQ.png)
+![Photo by Syrious Help](../assets/86bfe06eefbd/1*lm_DNwZVti_ns9AqpXN9pQ.png)
 
 Photo by Syrious Help
 
@@ -104,14 +104,14 @@ Hungarian authorities admitted 43 asylum seekers, mostly families from Afghanist
 A Syrian family was deported from Ljubljana, Slovania, to Croatia this morning under the Dublin agreement\. They had arrived to Croatia by plane a year and a half ago and proceeded to Slovenia where they applied for asylum\. Their 1\-year old boy was born in Slovenia and the mother is severely depressed due to their situation\. Protests were organized in Ljubljana and there were clashes with police\.
 
 
-![Photo by Protirasistična fronta brez meja](assets/86bfe06eefbd/1*J-1P8DA5gkxAI07m9Jb51w.png)
+![Photo by Protirasistična fronta brez meja](../assets/86bfe06eefbd/1*J-1P8DA5gkxAI07m9Jb51w.png)
 
 Photo by Protirasistična fronta brez meja
 
 The Slovenian rapper N’toko has described this “ _soul crushing experience_ ”, saying that after “ _an exhausting legal battle, the Slovenian high court chose to ignore the warnings of the European courts, ombudswoman and human rights groups, telling the family to fuck off to Croatia despite the mother’s health problems_ ”\.
 
 
-![Photo by N’Toko](assets/86bfe06eefbd/1*YRvNcjzEEQrE3k7C5WhIjQ.png)
+![Photo by N’Toko](../assets/86bfe06eefbd/1*YRvNcjzEEQrE3k7C5WhIjQ.png)
 
 Photo by N’Toko
 
@@ -126,7 +126,7 @@ François Guennoc, of l’Auberge des migrants, says he will ask authorities to 
 Care4Calais notes that there is no evidence that the distribution of meals made since the beginning of 2017 is the cause of serious disturbances to public order\. The group also says that refugees do not go to Calais because of the prospect of finding a minimal amount of humanitarian aid, but because they want to join the UK — therefore, measures which have the effect of depriving a very vulnerable population of vital food aid are neither necessary nor proportionate to the objectives pursed by the mayor\.
 
 
-![Distribution goes on\. Photo by Help Refugees](assets/86bfe06eefbd/1*Tse3pLnl8c1dGgENh4Fd0w.png)
+![Distribution goes on\. Photo by Help Refugees](../assets/86bfe06eefbd/1*Tse3pLnl8c1dGgENh4Fd0w.png)
 
 Distribution goes on\. Photo by Help Refugees
 #### Italy
@@ -135,7 +135,7 @@ Distribution goes on\. Photo by Help Refugees
 Migrants and seasonal workers living in the makeshift camp of Rosarno started marching towards the city of San Ferdinando today, to demand legal documents and to protest against the repressive operations of the police in the past few weeks\. They are blocking the major routes of the city until the Prefecture and the Interior Ministry gives them an answer\.
 
 
-![Photo by Comitato Lavoratori delle Campagne](assets/86bfe06eefbd/1*UYdJCGxvo1VJyRYfSf3nwg.png)
+![Photo by Comitato Lavoratori delle Campagne](../assets/86bfe06eefbd/1*UYdJCGxvo1VJyRYfSf3nwg.png)
 
 Photo by Comitato Lavoratori delle Campagne
 ### Suicide attempt in Ventimiglia

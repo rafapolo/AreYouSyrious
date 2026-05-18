@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 28/11/22: Tougher asylum rules in Austria, while EU approves plan to coordinate new…
+title: "AYS News Digest 28/11/22: Tougher asylum rules in Austria, while EU approves plan to coordinate new…"
 author: Are You Syrious?
 date: 2022-11-29T11:54:04.466+0000
 last_modified_at: 2022-11-30T00:29:47.832+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: []
 description: Austrian parliament passes stricter asylum rules // Prosecutor of Criminal Court requests arrest warrants against crimes in Libya // Court…
 image:
-  path: assets/9b4eb48bc2da/1*cNGgbLa-88QjJmepPc7hUw.jpeg
+  path: ../assets/9b4eb48bc2da/1*cNGgbLa-88QjJmepPc7hUw.jpeg
 ---
 
 ### AYS News Digest 28/11/22: Tougher asylum rules in Austria, while EU approves plan to coordinate new arrivals
@@ -15,7 +15,7 @@ image:
 Austrian parliament passes stricter asylum rules // Prosecutor of Criminal Court requests arrest warrants against crimes in Libya // Court hearing this Friday on NGO registry in Greece // Belgium reception crisis continues // UK Home Office changes the birth dates of asylum seeker minors, and more…
 
 
-![Refugees in Libya\. Via [EuroMed Rights](https://twitter.com/EuroMedRights/status/1594692132173848576)](assets/9b4eb48bc2da/1*cNGgbLa-88QjJmepPc7hUw.jpeg)
+![Refugees in Libya\. Via [EuroMed Rights](https://twitter.com/EuroMedRights/status/1594692132173848576)](../assets/9b4eb48bc2da/1*cNGgbLa-88QjJmepPc7hUw.jpeg)
 
 Refugees in Libya\. Via [EuroMed Rights](https://twitter.com/EuroMedRights/status/1594692132173848576)
 #### FEATURE

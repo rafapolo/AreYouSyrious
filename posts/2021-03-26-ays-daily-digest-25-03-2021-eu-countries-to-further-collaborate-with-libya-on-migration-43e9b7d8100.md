@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: []
 description: More unsafe and risky attempts to cross the Mediterranean in order to reach Spain, Italy, and Greece // Police violence in Greece //…
 image:
-  path: assets/43e9b7d8100/0*SU3icICXJ293x9v1.jpeg
+  path: ../assets/43e9b7d8100/0*SU3icICXJ293x9v1.jpeg
 ---
 
 ### AYS Daily Digest 25/03/2021 — EU countries to further collaborate with Libya on migration management
@@ -16,7 +16,7 @@ image:
 [Are You Syrious?](?source=post_page-----5f5d6a23eb0e--------------------------------) · [Mar 26](ays-daily-digest-25-03-2021-eu-countries-to-further-collaborate-with-libya-on-migration-5f5d6a23eb0e?source=post_page-----5f5d6a23eb0e--------------------------------) · 8 min read
 
 
-![FRANCE: Occupation of Place de la République in Paris\. More than 300 women, men and children are sleeping in tents in the central square to demand immediate, stable and decent shelter for all\. [Photo By Utopia 56](https://t.co/eAdITk7t7e?amp=1)](assets/43e9b7d8100/0*SU3icICXJ293x9v1.jpeg)
+![FRANCE: Occupation of Place de la République in Paris\. More than 300 women, men and children are sleeping in tents in the central square to demand immediate, stable and decent shelter for all\. [Photo By Utopia 56](https://t.co/eAdITk7t7e?amp=1)](../assets/43e9b7d8100/0*SU3icICXJ293x9v1.jpeg)
 
 FRANCE: Occupation of Place de la République in Paris\. More than 300 women, men and children are sleeping in tents in the central square to demand immediate, stable and decent shelter for all\. [Photo By Utopia 56](https://t.co/eAdITk7t7e?amp=1)
 ### EU

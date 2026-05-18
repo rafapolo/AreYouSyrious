@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 29/07/17: First wedding of Syrians to take place on Lesbos
+title: "AYS Daily Digest 29/07/17: First wedding of Syrians to take place on Lesbos"
 author: Are You Syrious?
 date: 2017-07-30T02:20:30.302+0100
 last_modified_at: 2017-07-30T08:23:25.593+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,greece,hungary,italy,france]
 description: Pushbacks from Greece and France reported / Police on Chios destroys tents of 50 people / Hungary apparently defies court orders / Germany…
 image:
-  path: assets/2ffda0da5c79/1*d63-AM24bKr1pox70y4eDA.jpeg
+  path: ../assets/2ffda0da5c79/1*d63-AM24bKr1pox70y4eDA.jpeg
 ---
 
 ### AYS Daily Digest 29/07/17: First wedding of Syrians to take place on Lesbos
@@ -15,7 +15,7 @@ image:
 _Pushbacks from Greece and France reported / Police on Chios destroys tents of 50 people / Hungary apparently defies court orders / Germany introduces new asylum identify technology / 140 people sleeping rough in Italy / Netherlands continues deportations to Afghanistan_
 
 
-![Today some good news at the beginning, enough bad are to follow\. Credits: [Art Against/](https://www.facebook.com/artagainstproject/) [Lora Zombie](https://www.facebook.com/LoraZombie/)](assets/2ffda0da5c79/1*d63-AM24bKr1pox70y4eDA.jpeg)
+![Today some good news at the beginning, enough bad are to follow\. Credits: [Art Against/](https://www.facebook.com/artagainstproject/) [Lora Zombie](https://www.facebook.com/LoraZombie/)](../assets/2ffda0da5c79/1*d63-AM24bKr1pox70y4eDA.jpeg)
 
 Today some good news at the beginning, enough bad are to follow\. Credits: [Art Against/](https://www.facebook.com/artagainstproject/) [Lora Zombie](https://www.facebook.com/LoraZombie/)
 ### First wedding of Syrian refugees on Greek soil
@@ -37,7 +37,7 @@ Meanwhile the [hunger strikers](https://www.facebook.com/arashampay/posts/502150
 [Humans 4 Humanity](https://www.facebook.com/Humans4HumanityOrg/) are looking for volunteers, especially with building, carpentry, gardening skills\. Over the next period of time, they want to install the existing materials in their new house in Mytilene\. Additionally they need support to set up their clothing shop and to mange other tasks\. If you have time to assist them, please contact them on Facebook\.
 
 
-![Humans 4 Humanity is setting up a new house\. Credits: [Neda Kadri](https://www.facebook.com/groups/informationpointforlesvosvolunteers/permalink/736076069933176/)](assets/2ffda0da5c79/1*0g5zYTY7TEc5-fk28VuGlA.jpeg)
+![Humans 4 Humanity is setting up a new house\. Credits: [Neda Kadri](https://www.facebook.com/groups/informationpointforlesvosvolunteers/permalink/736076069933176/)](../assets/2ffda0da5c79/1*0g5zYTY7TEc5-fk28VuGlA.jpeg)
 
 Humans 4 Humanity is setting up a new house\. Credits: [Neda Kadri](https://www.facebook.com/groups/informationpointforlesvosvolunteers/permalink/736076069933176/)
 
@@ -70,14 +70,14 @@ In the last days a couple of meetings concerning the situation in die Mediterran
 At the port of Catania activists protested the expected arrival of the “C Star”, the chartered boat of the right\-wing extremist from “Defend Europe”\. The boat left Cyprus and is now on it’s way to Italy to block rescue NGOs in the Mediterranean Sea\.
 
 
-![“Stop the attack on refugees”, the activists claim\. Credits: [Globalproject\.info](https://www.facebook.com/globalproject.info/)](assets/2ffda0da5c79/1*6G4v4vaIzsdcopoz4Mibjg.jpeg)
+![“Stop the attack on refugees”, the activists claim\. Credits: [Globalproject\.info](https://www.facebook.com/globalproject.info/)](../assets/2ffda0da5c79/1*6G4v4vaIzsdcopoz4Mibjg.jpeg)
 
 “Stop the attack on refugees”, the activists claim\. Credits: [Globalproject\.info](https://www.facebook.com/globalproject.info/)
 
 In Gorizia some 140 people are now sleeping rough and in two days they won’t even have the chance to sleep in the park anymore, volunteers report\. They need donations and human solidarity\.
 
 
-![Soon they won’t be even able to sleep in the park\. Credits: [Mauro Chiarabba](https://www.facebook.com/mauro.chiarabba)](assets/2ffda0da5c79/1*IpUEOgeCilWDpSVlAy70oQ.jpeg)
+![Soon they won’t be even able to sleep in the park\. Credits: [Mauro Chiarabba](https://www.facebook.com/mauro.chiarabba)](../assets/2ffda0da5c79/1*IpUEOgeCilWDpSVlAy70oQ.jpeg)
 
 Soon they won’t be even able to sleep in the park\. Credits: [Mauro Chiarabba](https://www.facebook.com/mauro.chiarabba)
 

@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: EU BORDER VIOLENCE (Update from Bosnian-Croatian border fro September)
+title: "AYS SPECIAL: EU BORDER VIOLENCE (Update from Bosnian-Croatian border fro September)"
 author: Are You Syrious?
 date: 2018-10-05T08:06:33.252+0100
 last_modified_at: 2018-10-05T22:55:51.534+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,special,bosnia,eu,border-violence]
 description: The violence, war and persecution prevalent in the areas they flee is well documented. But this article considers the relatively untold…
 image:
-  path: assets/3f2a6227d383/1*pgebgnAnfony8YOfcffaww.jpeg
+  path: ../assets/3f2a6227d383/1*pgebgnAnfony8YOfcffaww.jpeg
 ---
 
 ### **AYS SPECIAL: EU BORDER VIOLENCE \(Update from Bosnian\-Croatian border for September\)**
@@ -15,7 +15,7 @@ image:
 _The authors of this article, two solidarity workers in the Balkans, want to tell the relatively untold story of the violence being perpetrated against refugees on the fringes of Europe\. Their research shared here reveals the depth of abuse being carried out by member states at the behest of Brussels and suggests that we reconsider our perception of dangerous actors\. What is more dangerous? Refugees fleeing conflict, or a continentally militarised border?_
 
 
-![Camp in Velika Kladusa](assets/3f2a6227d383/1*pgebgnAnfony8YOfcffaww.jpeg)
+![Camp in Velika Kladusa](../assets/3f2a6227d383/1*pgebgnAnfony8YOfcffaww.jpeg)
 
 Camp in Velika Kladusa
 
@@ -33,11 +33,11 @@ Walking around the small Bosnian town, one can immediately notice the hallmarks 
 Spending time on the ground, volunteers from [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/) & [SOS Kladuša](https://www.facebook.com/SOSTeamKladusa/) \(with Balkan Info Van\) are witnessing the physical and psychological cost of the pushbacks, whereby migrants who are caught in the interior and frontier zones of Croatia and Slovenia are conveyed systematically back to rural border spots and beaten to within an inch of their lives\.
 
 
-![](assets/3f2a6227d383/1*_Z0Qo4sD8FmZ2ooi5i9bNA.jpeg)
+![](../assets/3f2a6227d383/1*_Z0Qo4sD8FmZ2ooi5i9bNA.jpeg)
 
 
 
-![](assets/3f2a6227d383/1*JI-ALzd1ga0C0lLm10p9mA.jpeg)
+![](../assets/3f2a6227d383/1*JI-ALzd1ga0C0lLm10p9mA.jpeg)
 
 #### **Making the Case**
 
@@ -60,7 +60,7 @@ In September, our teams covered 25 different incidents, accounting for 212 victi
 As before, the pushbacks continue to occur in only a handful of semi\-rural border locations, away from habitation in order to minimise the risk of witnesses\. Looking at the times in which the most violent cases occur it is also clear that the Croatian police use the cover of night, delivering people to the border with Bosnia more frequently between the hours of 10pm and 6am\. In the dark, the officers waiting to brutalise the migrants can’t be seen, making it easier for the perpetrators to retain anonymity \(alternatively, during the day time it is common for them to use face masks\) \.
 
 
-![](assets/3f2a6227d383/1*m_8qYoM0hp3iICm5CwiIQw.jpeg)
+![](../assets/3f2a6227d383/1*m_8qYoM0hp3iICm5CwiIQw.jpeg)
 
 
 Extreme violence is a consistent aspect of the pushbacks\. It is the physical attacks and injuries sustained that separate these deportations out as particularly important\. Not only are people denied safe sanctuary, but the Croatian police are actively engaged in the production of a racialised border\. Everyday a line is drawn in the sand around Velika Kladuša\. It is a line implicitly sanctioned by the European Union, via its presence through Frontex officials\.
@@ -90,7 +90,7 @@ Unfortunately, the cases bear out too many similarities to list here\. Our team 
 Alongside this, cases often involve the perpetual theft of money, the breaking of phones \(and thus GPS connections\) and the removal of personal belongings\. While some isolated incidents occur without either theft or beating, it can be summarised that all pushbacks bear the hallmarks of structural violence simply by the basic denial of access to asylum process\.
 
 
-![](assets/3f2a6227d383/1*xmV6rsW4heTtmRBvK4QSGA.jpeg)
+![](../assets/3f2a6227d383/1*xmV6rsW4heTtmRBvK4QSGA.jpeg)
 
 #### **A** **Parallel System**
 

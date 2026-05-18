@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 13/12/21: 4 years after the infamous cake, ex Danish Minister jailed
+title: "AYS News Digest 13/12/21: 4 years after the infamous cake, ex Danish Minister jailed"
 author: Are You Syrious?
 date: 2021-12-16T17:21:21.790+0000
 last_modified_at: 2021-12-16T17:21:21.790+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,ngo,denmark,greece]
 description: Greek Ombudsman intervenes in the case of rejection of Refugee Support Aegean to register in the NGO registry / How the far right in Italy…
 image:
-  path: assets/f1c80210608a/0*xmq_1-hj3QBWdjdn
+  path: ../assets/f1c80210608a/0*xmq_1-hj3QBWdjdn
 ---
 
 ### AYS News Digest 13/12/21: 4 years after the infamous cake, ex Danish Minister jailed
 #### Greek Ombudsman intervenes in the case of rejection of Refugee Support Aegean to register in the NGO registry / How the far right in Italy builds support in areas with refugee centres / updates from Belarus / recommended reads & more
 
 
-![“Unfortunately Santa did not pass from here the last 5 years…” — [Dr\. Apostolos Veizis](https://twitter.com/AVeizis)](assets/f1c80210608a/0*xmq_1-hj3QBWdjdn)
+![“Unfortunately Santa did not pass from here the last 5 years…” — [Dr\. Apostolos Veizis](https://twitter.com/AVeizis)](../assets/f1c80210608a/0*xmq_1-hj3QBWdjdn)
 
 “Unfortunately Santa did not pass from here the last 5 years…” — [Dr\. Apostolos Veizis](https://twitter.com/AVeizis)
 
@@ -115,7 +115,7 @@ So, the opening of a center increases the chances by 8\.5% that the far\-right c
 
 
 
-![](assets/f1c80210608a/0*x71S0esOKzgLiG9T)
+![](../assets/f1c80210608a/0*x71S0esOKzgLiG9T)
 
 #### FRANCE
 ### “We are in danger, we are all very afraid”
@@ -140,7 +140,7 @@ Due to heavy rains, the level of the Garonne River rose sharply, disturbing the 
 ### Detention in Melilla
 
 
-![Photo: [**Solidary Wheels**](https://twitter.com/SolidaryW)](assets/f1c80210608a/0*Gf2x0JM54_2vEDYn)
+![Photo: [**Solidary Wheels**](https://twitter.com/SolidaryW)](../assets/f1c80210608a/0*Gf2x0JM54_2vEDYn)
 
 Photo: [**Solidary Wheels**](https://twitter.com/SolidaryW)
 

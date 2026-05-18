@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 01/10/21: While EU Tussles with Poland over Pushbacks, Commission Makes Deal with…
+title: "AYS Daily Digest 01/10/21: While EU Tussles with Poland over Pushbacks, Commission Makes Deal with…"
 author: Are You Syrious?
 date: 2021-10-02T16:24:10.616+0100
 last_modified_at: 2021-10-02T16:52:37.923+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,migration,human-rights,migrants]
 description: Mass arrests in Libya // Inside Samos camp // ‘Hunting’ people at night in Calais // 700 try to scale Melilla fence
 image:
-  path: assets/598e369c4bb0/1*z7DkUDaAQohVxlIoWyMdiA.jpeg
+  path: ../assets/598e369c4bb0/1*z7DkUDaAQohVxlIoWyMdiA.jpeg
 ---
 
 ### AYS Daily Digest 01/10/21: While EU Tussles with Poland over Pushbacks, Commission Makes Deal with Iraq to Deport People From Lithuania
@@ -15,7 +15,7 @@ image:
 ### FEATURE — The EU’s Two Pushback Wars in Poland and Lithuania
 
 
-![\[EPA\-EFE/ ARTUR RESZKO\]](assets/598e369c4bb0/1*z7DkUDaAQohVxlIoWyMdiA.jpeg)
+![\[EPA\-EFE/ ARTUR RESZKO\]](../assets/598e369c4bb0/1*z7DkUDaAQohVxlIoWyMdiA.jpeg)
 
 \[EPA\-EFE/ ARTUR RESZKO\]
 
@@ -214,7 +214,7 @@ Immigration advocates are concerned about the risks to Afghans who give up on th
 #### Event: A firm hand — Denmark’s policy on rejected asylum seekers and return\.
 
 
-![](assets/598e369c4bb0/1*GPCsCurRgCIV-v64KWaZ_w.jpeg)
+![](../assets/598e369c4bb0/1*GPCsCurRgCIV-v64KWaZ_w.jpeg)
 
 
 More information can be found [here](https://refugeeswelcome.dk/rapporter/pdf/?fbclid=IwAR1MJ3toMCSW2IJ_sMwliOoUA_qviYb02VcT9nx2Hdjr_RNxo6AFkMyqhWE) \.

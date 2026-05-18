@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,serbia,croatia,bosnia-and-herzegovina,digest]
 description: Housing takeovers in Greece // border violence in Serbia // Denmark Immigration Services reassessing Syrian asylum claims // demands from…
 image:
-  path: assets/b090fb89091a/1*JEiK1hIDFI7Nr8_HMvFS4A.jpeg
+  path: ../assets/b090fb89091a/1*JEiK1hIDFI7Nr8_HMvFS4A.jpeg
 ---
 
 ### AYS Daily Digest 12/3/19: Amnesty International demanding accountability from Croatian government
@@ -15,7 +15,7 @@ image:
 _Housing takeovers in Greece // border violence in Serbia // Denmark Immigration Services reassessing Syrian asylum claims // demands from Iceland protests // police surveillance in France // and more…_
 
 
-![Trapped\. By Admir Delić Stiki, Tuzla\.](assets/b090fb89091a/1*JEiK1hIDFI7Nr8_HMvFS4A.jpeg)
+![Trapped\. By Admir Delić Stiki, Tuzla\.](../assets/b090fb89091a/1*JEiK1hIDFI7Nr8_HMvFS4A.jpeg)
 
 Trapped\. By Admir Delić Stiki, Tuzla\.
 ### Feature: Thousands have been violently pushed back from Croatia, while police harass local NGOs, including AYS, cites new Amnesty International Report
@@ -71,7 +71,7 @@ It still seems no international org has managed to access them.
 This reminder comes on Tuesday when the H\.E Mr\. Mark Harbers, Dutch Minister for Migration, visited UNHCR’s Gathering & Departure Facility in Tripoli\. The Netherlands’ official policy aims to help for the eventual closing of these centers\.
 
 
-![Mr\. Mark Harbers, Dutch Minister for Migration, visited UNHCR’s Gathering & Departure Facility in Tripoli\. Photo by [UNCHR Libya](https://twitter.com/unhcrlibya/status/1105504953815261186?s=21)](assets/b090fb89091a/1*faXyTvS1QRJv_6wYVq2eIw.jpeg)
+![Mr\. Mark Harbers, Dutch Minister for Migration, visited UNHCR’s Gathering & Departure Facility in Tripoli\. Photo by [UNCHR Libya](https://twitter.com/unhcrlibya/status/1105504953815261186?s=21)](../assets/b090fb89091a/1*faXyTvS1QRJv_6wYVq2eIw.jpeg)
 
 Mr\. Mark Harbers, Dutch Minister for Migration, visited UNHCR’s Gathering & Departure Facility in Tripoli\. Photo by [UNCHR Libya](https://twitter.com/unhcrlibya/status/1105504953815261186?s=21)
 
@@ -134,7 +134,7 @@ CAMO is reporting of increased police harassment and violence towards young refu
 
 
 
-![Photo by [Care 4 Calais](https://www.facebook.com/care4calais/photos/a.1046164975416459/2357676634265280/?type=3&theater&ifg=1)](assets/b090fb89091a/1*-YlKnLaOLgNXnhdJv1cUvQ.jpeg)
+![Photo by [Care 4 Calais](https://www.facebook.com/care4calais/photos/a.1046164975416459/2357676634265280/?type=3&theater&ifg=1)](../assets/b090fb89091a/1*-YlKnLaOLgNXnhdJv1cUvQ.jpeg)
 
 Photo by [Care 4 Calais](https://www.facebook.com/care4calais/photos/a.1046164975416459/2357676634265280/?type=3&theater&ifg=1)
 
@@ -176,7 +176,7 @@ The organization Refugees in Iceland is continuing to try and spread the word ab
 You can find their demands and more information [here](https://www.facebook.com/watch/?v=390946401701295) \. **Help spread the word in solidarity\! \! \!**
 
 
-![Photo by [Refugees in Iceland](https://www.facebook.com/refugeesiniceland/photos/pcb.350142355599091/350141572265836/?type=3&theater)](assets/b090fb89091a/1*ziRlDmLMqyCTZEA_oDQINA.jpeg)
+![Photo by [Refugees in Iceland](https://www.facebook.com/refugeesiniceland/photos/pcb.350142355599091/350141572265836/?type=3&theater)](../assets/b090fb89091a/1*ziRlDmLMqyCTZEA_oDQINA.jpeg)
 
 Photo by [Refugees in Iceland](https://www.facebook.com/refugeesiniceland/photos/pcb.350142355599091/350141572265836/?type=3&theater)
 

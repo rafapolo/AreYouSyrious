@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 5–6.01.19: The Abuse of the Powerless
+title: "AYS Weekend Digest 5–6.01.19: The Abuse of the Powerless"
 author: Are You Syrious?
 date: 2019-01-07T00:34:31.764+0000
 last_modified_at: 2019-01-07T23:02:23.060+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,libya,greece,germany,denmark]
 description: Summary of our recently published specials and updates from all over
 image:
-  path: assets/4dc39dd85f3d/1*KhasZZ4kJwL1OSH8oKpzkQ.jpeg
+  path: ../assets/4dc39dd85f3d/1*KhasZZ4kJwL1OSH8oKpzkQ.jpeg
 ---
 
 ### AYS Weekend Digest 5–6\.01\.19: The Abuse of the Powerless
 #### Summary of our recently published specials and updates from all over Europe
 
 
-![Photo: [Mohammad Alkaseem](https://www.facebook.com/mohammad.alkaseem.77?__tn__=%2Cd%2AF%2AF-R&eid=ARC-xE98qj_S6ORkjEi5tbPWFhY7G7mqTYPav14jX_iEUA3h0z21E8LZmlQzQU-r1RWFDP7J8okV6phE&tn-str=%2AF&hc_location=group_dialog)](assets/4dc39dd85f3d/1*KhasZZ4kJwL1OSH8oKpzkQ.jpeg)
+![Photo: [Mohammad Alkaseem](https://www.facebook.com/mohammad.alkaseem.77?__tn__=%2Cd%2AF%2AF-R&eid=ARC-xE98qj_S6ORkjEi5tbPWFhY7G7mqTYPav14jX_iEUA3h0z21E8LZmlQzQU-r1RWFDP7J8okV6phE&tn-str=%2AF&hc_location=group_dialog)](../assets/4dc39dd85f3d/1*KhasZZ4kJwL1OSH8oKpzkQ.jpeg)
 
 Photo: [Mohammad Alkaseem](https://www.facebook.com/mohammad.alkaseem.77?__tn__=%2Cd%2AF%2AF-R&eid=ARC-xE98qj_S6ORkjEi5tbPWFhY7G7mqTYPav14jX_iEUA3h0z21E8LZmlQzQU-r1RWFDP7J8okV6phE&tn-str=%2AF&hc_location=group_dialog)
 ### Feature: The Abuse of the Powerless
@@ -56,7 +56,7 @@ Since October 2017 he has been locked up in one of the many Libyan detention cen
 And once again he tells me about his friends and inmates with TB, who get no treatment or medicine\. He tells me how people are dying of TB, and that he too might have the deathly illness\.”
 
 
-![](assets/4dc39dd85f3d/0*gbBlFhFawRKC4TBd)
+![](../assets/4dc39dd85f3d/0*gbBlFhFawRKC4TBd)
 
 
 There is an urgent appeal campaign going on to write to [UNHCR authorities in Libya](https://www.facebook.com/groups/30614536012/permalink/10156659415356013/?hc_location=ufi) , who are standing idly by as people sell humans into slavery, straight from detention, as they are not being registered by UNHCR and therefore do not exist\. This horrific practice is being encouraged and financed by the EU, who is talking tough about their desire to crack down on human trafficking\! Repulsive…
@@ -103,7 +103,7 @@ No bathroom, no hot water. No blankets enough. #samos https://t.co/gBOlmvBiGL
 Over 30 people slept out in the open by the road on the way from Sarajevo to Bihac after police took them off a bus\. IOM claims there is no place in Bihac for more people, and they do not help\. The police quotes IOM\. Good people are there to provide basics, but so far there is no solution\. The entire process is not legal, but looks like nobody cares what is happening to people on the move\.
 
 
-![](assets/4dc39dd85f3d/0*y2oCTQf8wXwfq_qj)
+![](../assets/4dc39dd85f3d/0*y2oCTQf8wXwfq_qj)
 
 
 Photo Credit: Sanella Lepirica

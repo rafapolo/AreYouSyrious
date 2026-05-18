@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 21/06/21: 21,000 Syrians in Jordan lose food assistance
+title: "AYS Daily Digest 21/06/21: 21,000 Syrians in Jordan lose food assistance"
 author: Are You Syrious?
 date: 2021-06-22T10:12:52.552+0100
 last_modified_at: 2021-06-22T10:12:52.552+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,jordan,libya,greece]
 description: Two women killed in Idlib // Up to two million child laborers in Turkey // Israel struggles to reexamine asylum applications // Teeange…
 image:
-  path: assets/9a90a9841bd6/1*c8mmfw0gJrvljHCXqYCVmQ.jpeg
+  path: ../assets/9a90a9841bd6/1*c8mmfw0gJrvljHCXqYCVmQ.jpeg
 ---
 
 ### AYS Daily Digest 21/06/21: 21,000 Syrians in Jordan lose food assistance
 #### Two women killed in Idlib // Up to two million child laborers in Turkey // Israel struggles to reexamine asylum applications // Teeange girls in Libya report sexual abuse in EU\-funded camp // Hundreds of children in Greece need psychological care // French police changes raid tactics in Calais // Germany reunites fewer and fewer families
 
 
-![WFP Jordan needs to end it’s food assistance to Thousands of people due to budget problems\. Credits: [Twitter/@WFP](https://twitter.com/WFP/status/1400436655358627847/photo/1)](assets/9a90a9841bd6/1*c8mmfw0gJrvljHCXqYCVmQ.jpeg)
+![WFP Jordan needs to end it’s food assistance to Thousands of people due to budget problems\. Credits: [Twitter/@WFP](https://twitter.com/WFP/status/1400436655358627847/photo/1)](../assets/9a90a9841bd6/1*c8mmfw0gJrvljHCXqYCVmQ.jpeg)
 
 WFP Jordan needs to end it’s food assistance to Thousands of people due to budget problems\. Credits: [Twitter/@WFP](https://twitter.com/WFP/status/1400436655358627847/photo/1)
 ### Syria

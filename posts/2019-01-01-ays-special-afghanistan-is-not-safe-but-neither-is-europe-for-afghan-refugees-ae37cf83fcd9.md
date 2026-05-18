@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Afghanistan is Not Safe — But Neither Is Europe for Afghan Refugees
+title: "AYS SPECIAL: Afghanistan is Not Safe — But Neither Is Europe for Afghan Refugees"
 author: Are You Syrious?
 date: 2019-01-01T13:03:34.728+0000
 last_modified_at: 2019-04-03T23:19:56.003+0100
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [refugees,bosnia-and-herzegovina,afghanistan,special,european-union]
 description: For over forty years Afghanistan has been overwhelmed by wars. Wars, that if not created, were at the very least funded and supported by…
 image:
-  path: assets/ae37cf83fcd9/1*OMplvOsK5BK3L_ZjO4bu-A.jpeg
+  path: ../assets/ae37cf83fcd9/1*OMplvOsK5BK3L_ZjO4bu-A.jpeg
 ---
 
 ### AYS SPECIAL: Afghanistan is Not Safe — But Neither Is Europe for Afghan Refugees
 
 
-![All photos by Nevia Elezovic from [No Borders Photography](https://www.facebook.com/NoBordersPh/)](assets/ae37cf83fcd9/1*OMplvOsK5BK3L_ZjO4bu-A.jpeg)
+![All photos by Nevia Elezovic from [No Borders Photography](https://www.facebook.com/NoBordersPh/)](../assets/ae37cf83fcd9/1*OMplvOsK5BK3L_ZjO4bu-A.jpeg)
 
 All photos by Nevia Elezovic from [No Borders Photography](https://www.facebook.com/NoBordersPh/)
 
@@ -28,7 +28,7 @@ Abdul is a 57 years old and is from Kabul, Afghanistan\. He is a husband, a fath
 Wars, that if not created, where at the very least funded and supported by western democratic countries\. And much in the same way that western democratic countries played a role in dictating Abdul’s past, so too now, will they dictate his future\. As well as the future of his family, and of so many families like his, searching for protection in Europe\.
 
 
-![](assets/ae37cf83fcd9/1*85yHvX6lp3sjQmCZ4fM1AQ.jpeg)
+![](../assets/ae37cf83fcd9/1*85yHvX6lp3sjQmCZ4fM1AQ.jpeg)
 
 
 On one of the afternoons I spent talking with Abdul, I had the pleasure of meeting his family\. As we sat on his makeshift bed, he dialed a phone number using the free Wi\-Fi from the café next door\. The network intentionally left open by the cafe’s owners, as a sign of compassion for the new, temporary inhabitants of their small town\.
@@ -44,7 +44,7 @@ His daughter took the phone and greeted her dad, she too with a solute\. ‘ _Th
 Abdul’s wife joined her youngest son on the phone\. She was a beautiful woman, but you could tell on her face that she was tired\. She didn’t solute her husband, but instead just gazed at him through the camera lens\. Abdul finally took his hand down from his forehead\. Not once in all the time that he spoke to his children did it waver\. He and his wife spoke a few words, and then he hung up the phone\.
 
 
-![](assets/ae37cf83fcd9/1*5a4k_AJMmuQCmA1noMl21Q.jpeg)
+![](../assets/ae37cf83fcd9/1*5a4k_AJMmuQCmA1noMl21Q.jpeg)
 
 
 He threw it onto the other side of the mattress\. The warmth of the last few moments was gone, and very suddenly we were back in Velika Kladuša, mid winter, very far from the most important people in this man’s life\.He began to breathe slowly and deeply\. ‘ _My family,_ ’ he said\. ‘ _Problem, problem problem\. Taliban problem, Afghanistan problem, religion problem\._ ’ He began to breath even deeper\. And then came the blows\. Once\. Twice\. Three times to his head, before he regathered himself\.
@@ -78,7 +78,7 @@ It is thirteen months since Abdul left Afghanistan\. His journey from Afghanista
 From Afghanistan he made the overland journey to Iran, where he worked for some months in Tehran to save some money\. From Iran he went to Turkey and spent another few months working odd jobs there\. From Turkey he went to Greece, where he spent fifty\-two days, and from Greece to Macedonia, then to Serbia and finally to Bosnia, where I met him\. For five months now he has been living in a town close to the border of Bosnia and Croatia\. Each evening, speaking to his family through the lens of a telephone camera\.
 
 
-![](assets/ae37cf83fcd9/1*y50NFVUVLiaX3GRi4rWKNw.jpeg)
+![](../assets/ae37cf83fcd9/1*y50NFVUVLiaX3GRi4rWKNw.jpeg)
 
 
 Like all Afghani Refugees, Abdul faces many difficulties in Europe\. This begins first with making it to a safe country, continues with receiving protection and often ends with chain deportations back to the very place they fled\.
@@ -104,7 +104,7 @@ For Abdul, his only realistic chance at bringing his family to Europe is if he i
 As he shows me photos of his children, Abdul tells me of a different Afghanistan, one he still remembers A place free of Western and Soviet intervention, where there was peace and children went to school\. Numerous times during our conversations, he highlights to me how much he wishes his children had the chance to go to school\.
 
 
-![](assets/ae37cf83fcd9/1*K5D-5RPTpKXTEa3gBAKn1w.jpeg)
+![](../assets/ae37cf83fcd9/1*K5D-5RPTpKXTEa3gBAKn1w.jpeg)
 
 
 I ask Abdul a typical question that I ask most people I speak to — ‘ _If you had one hope for the future, what would it be?’_ He doesn’t need any longer than a second to deliberate his answer\.

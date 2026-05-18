@@ -1,5 +1,5 @@
 ---
-title: AYS daily digest 1/7/2018: Norway deports a journalist to Kabul, he comes back only to be beaten by…
+title: "AYS daily digest 1/7/2018: Norway deports a journalist to Kabul, he comes back only to be beaten by…"
 author: Are You Syrious?
 date: 2018-07-02T02:36:41.508+0100
 last_modified_at: 2018-07-02T10:20:21.922+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,greece,croatia,police-brutality,solidarity]
 description: Minister Salvini calls European nationalists to unite against refugees // Lifeline captain to appear in court, could be facing imprisonment…
 image:
-  path: assets/df6044c2eee8/1*Op85jPru5bQHO69AxB1LfA.jpeg
+  path: ../assets/df6044c2eee8/1*Op85jPru5bQHO69AxB1LfA.jpeg
 ---
 
 ### AYS daily digest 1/7/2018: Norway deports a journalist to Kabul, he comes back only to be beaten by Croatian police
 #### Minister Salvini calls European nationalists to unite against refugees // Lifeline captain to appear in court, could be facing imprisonment // Refugees evicted from Sarajevo train station area // Afghans complain to the European Commission against Dublin deportations to Bulgaria // Food distribution denied in Dunkirk // Refugee children held in detention in Switzerland
 
 
-![He paid 200 euros for this phone in Greece\. Police in Croatia destroyed it mercilessly\. Photo: AYS](assets/df6044c2eee8/1*Op85jPru5bQHO69AxB1LfA.jpeg)
+![He paid 200 euros for this phone in Greece\. Police in Croatia destroyed it mercilessly\. Photo: AYS](../assets/df6044c2eee8/1*Op85jPru5bQHO69AxB1LfA.jpeg)
 
 He paid 200 euros for this phone in Greece\. Police in Croatia destroyed it mercilessly\. Photo: AYS
 #### Feature: Croatian police find new ways to torture refugees
@@ -74,7 +74,7 @@ J and his friend were so dirty after this incident that they washed in the river
 The police in both Neum and Chapljina checked J’s and his friend’s papers, but they did not help them at all\. J told them what had happened in Croatia but despite that, they did not do anything\. They slept outdoors one night in Chapljina and early in the morning after they went to the station and asked local people for money for train tickets back to Sarajevo, where AYS met J\.
 
 
-![J\. shows AYS volunteers where he was before being caught by Croatian police\. Photo: AYS](assets/df6044c2eee8/1*lD6wBg8oz62hhfjir1B_yA.jpeg)
+![J\. shows AYS volunteers where he was before being caught by Croatian police\. Photo: AYS](../assets/df6044c2eee8/1*lD6wBg8oz62hhfjir1B_yA.jpeg)
 
 J\. shows AYS volunteers where he was before being caught by Croatian police\. Photo: AYS
 
@@ -141,7 +141,7 @@ New Arrivals
 Ten people arrived on Chios last night — 4 women, 4 men, and two children\.
 
 
-![This is the boat that the ten people used to get to Chios\. Photo Credit: AYS](assets/df6044c2eee8/1*OQaIps0ZFI5HpAnblBlM8w.jpeg)
+![This is the boat that the ten people used to get to Chios\. Photo Credit: AYS](../assets/df6044c2eee8/1*OQaIps0ZFI5HpAnblBlM8w.jpeg)
 
 This is the boat that the ten people used to get to Chios\. Photo Credit: AYS
 
@@ -209,7 +209,7 @@ Five days ago, in the presence of the Green/EFA group co\-chair Ska Keller, the 
 Today everyone staying at and hanging out in the area surrounding the train station in Sarajevo was evicted by the police\. It was peaceful, but still caused stress among people who now had to find another place to sleep and also just to exist\. It started in the morning, with police telling people to leave and taking their blankets away\. Volunteers quickly went there and brought all blankets they could with them instead, so that they could be washed and re\-used\. After the lunch distribution which took place at the station, volunteers spent the afternoon informing people that they cannot be at the station for at least three days ahead and that food will be distributed elsewhere\. A new ad hoc place for distribution was found right away, but a more sustainable solution is needed for the upcoming days\.
 
 
-![Empty train station awaits the opening ceremony for the new train track towards Bihać\. Photo: AYS](assets/df6044c2eee8/1*tu81QQ-KpoYI6ef5rAm4tA.jpeg)
+![Empty train station awaits the opening ceremony for the new train track towards Bihać\. Photo: AYS](../assets/df6044c2eee8/1*tu81QQ-KpoYI6ef5rAm4tA.jpeg)
 
 Empty train station awaits the opening ceremony for the new train track towards Bihać\. Photo: AYS
 
@@ -217,7 +217,7 @@ The reason behind the eviction is that a new railway line will be opened tomorro
 #### Head of Federal police visits Bihać and Velika Kladuša: “Security is not a problem, humanitarian situation is a problem”
 
 
-![Dragan Lukać \(left\) ensured local people that they won’t be left alone in this crisis\. Photo: volunteers](assets/df6044c2eee8/1*yZORyfBTdMP_alEjXY2a9g.png)
+![Dragan Lukać \(left\) ensured local people that they won’t be left alone in this crisis\. Photo: volunteers](../assets/df6044c2eee8/1*yZORyfBTdMP_alEjXY2a9g.png)
 
 Dragan Lukać \(left\) ensured local people that they won’t be left alone in this crisis\. Photo: volunteers
 
@@ -232,7 +232,7 @@ Dragan Lukać, Director of the Federal Police Administration of Bosnia and Herce
 There are currently more than 7000 people in Bosnia, most of them gravitating towards makeshift camps in Velika Kladuša and Bihać in order to enter Croatia\. There is no legal way to enter Croatia, whose police officers are acting extremely violently against unarmed people who want to seek safety in the European Union\. Many people, including families with small children and other vulnerable groups, are expelled from Croatia and forced to sleep in the dirt while waiting for another opportunity to reach their final destination\. Volunteers are doing their best to provide as much as they can in order to make their everyday life bearable\.
 
 
-![Many families are forced to sleep in makeshift camps at Bosnian side of the Border\. Photo: volunteers](assets/df6044c2eee8/1*RkAYcDFc-UC4L4f8BdTfLA.jpeg)
+![Many families are forced to sleep in makeshift camps at Bosnian side of the Border\. Photo: volunteers](../assets/df6044c2eee8/1*RkAYcDFc-UC4L4f8BdTfLA.jpeg)
 
 Many families are forced to sleep in makeshift camps at Bosnian side of the Border\. Photo: volunteers
 ### **ITALY**
@@ -252,7 +252,7 @@ We could add many things here, but we decided to remain polite\. :\)
 #### Food distribution denied in Dunkirk
 
 
-![Police officers denying access to volunteers in Grand Synth \(Dunkirk\) \. Photo: Refugee Community Kitchen](assets/df6044c2eee8/1*9Utorx4G9ooZMF34WPc7Fw.png)
+![Police officers denying access to volunteers in Grand Synth \(Dunkirk\) \. Photo: Refugee Community Kitchen](../assets/df6044c2eee8/1*9Utorx4G9ooZMF34WPc7Fw.png)
 
 Police officers denying access to volunteers in Grand Synth \(Dunkirk\) \. Photo: Refugee Community Kitchen
 
@@ -294,7 +294,7 @@ Grand Synth \(Dunkirk\) over the last 3 days according to reports of almost all 
 
 
 
-![L’Auberge des Migrants and Médecins du Monde France stepped up and served food on Friday\. Photo: Refugee Community Kitchen](assets/df6044c2eee8/1*qvcRnsCGyiCnNW5T9iAwvQ.jpeg)
+![L’Auberge des Migrants and Médecins du Monde France stepped up and served food on Friday\. Photo: Refugee Community Kitchen](../assets/df6044c2eee8/1*qvcRnsCGyiCnNW5T9iAwvQ.jpeg)
 
 L’Auberge des Migrants and Médecins du Monde France stepped up and served food on Friday\. Photo: Refugee Community Kitchen
 
@@ -304,7 +304,7 @@ Almost all groups and NGOs on site report similar problems: [L’Auberge des Mig
 A nasty fight happened in the streets of Paris tonight, after a group of Afghani refugees decided to react against a small group that was stealing and intimidating all other refugees for weeks\. Volunteers intervened in order to prevent any escalation of the conflict\. Police arrived and arrested the original perpetrators \(those who were causing trouble for weeks\), while warning all others against taking matters in their own hands\. This escalation, however, was a symptom of a bigger issue: the fact that French police officers rarely intervene in matters among refugees, even when it would make sense for them to step in and make things safer for everyone\.
 
 
-![Only after 30 people decided to take matter in their own hands, French police decided to appear\. Photo: D\.H\.](assets/df6044c2eee8/1*tJcHfJjr44DV6AnNN0mQ0w.jpeg)
+![Only after 30 people decided to take matter in their own hands, French police decided to appear\. Photo: D\.H\.](../assets/df6044c2eee8/1*tJcHfJjr44DV6AnNN0mQ0w.jpeg)
 
 Only after 30 people decided to take matter in their own hands, French police decided to appear\. Photo: D\.H\.
 

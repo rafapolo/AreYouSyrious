@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 20/02: Discrimination, expulsion and denial of rights — is this the best we can do?
+title: "AYS Daily Digest 20/02: Discrimination, expulsion and denial of rights — is this the best we can do?"
 author: Are You Syrious?
 date: 2017-02-21T00:51:55.668+0000
 last_modified_at: 2017-02-23T20:46:48.102+0000
@@ -7,7 +7,7 @@ categories:
 tags: [europe,refugees,human-rights,serbia,greece]
 description: Right wing party members protested against refugee children in Oreokastro | Bulgaria — a Syrian family granted humanitarian status, but…
 image:
-  path: assets/267df132530b/1*g4BY6oq0_ihklWboyDGanA.jpeg
+  path: ../assets/267df132530b/1*g4BY6oq0_ihklWboyDGanA.jpeg
 ---
 
 ### AYS Daily Digest 20/02: Discrimination, expulsion and denial of rights — is this the best we can do?
@@ -15,7 +15,7 @@ image:
 
 
 ![Refugees were picked up off the Libyan coast north of Sabratha by the rescue boat Golfo Azzurro of Proactiva Open Arms, on February 17 — [Art Against](https://www.facebook.com/artagainstproject/) 
-Photography by David Ramos](assets/267df132530b/1*g4BY6oq0_ihklWboyDGanA.jpeg)
+Photography by David Ramos](../assets/267df132530b/1*g4BY6oq0_ihklWboyDGanA.jpeg)
 
 Refugees were picked up off the Libyan coast north of Sabratha by the rescue boat Golfo Azzurro of Proactiva Open Arms, on February 17 — [Art Against](https://www.facebook.com/artagainstproject/) 
 Photography by David Ramos
@@ -25,7 +25,7 @@ Photography by David Ramos
 43 people were officially registered on the Aegean islands on the morning of Monday, February 20\.
 
 
-![Thanks to Translators without Borders, this weekly newsletter is available in Arabic, English, Farsi and Greek\. Please find all versions at [this link](https://drive.google.com/drive/folders/0B-_rJ_0o5IZIVnJpSUctNS1WOWc) \.](assets/267df132530b/1*0om0LMnymtmgdVdHtj0lyA.jpeg)
+![Thanks to Translators without Borders, this weekly newsletter is available in Arabic, English, Farsi and Greek\. Please find all versions at [this link](https://drive.google.com/drive/folders/0B-_rJ_0o5IZIVnJpSUctNS1WOWc) \.](../assets/267df132530b/1*0om0LMnymtmgdVdHtj0lyA.jpeg)
 
 Thanks to Translators without Borders, this weekly newsletter is available in Arabic, English, Farsi and Greek\. Please find all versions at [this link](https://drive.google.com/drive/folders/0B-_rJ_0o5IZIVnJpSUctNS1WOWc) \.
 ### Reminder: the cash card system \(of control\)
@@ -41,7 +41,7 @@ The previously published information on the cash card program is available [here
 Recently opened accommodation for women and children provides free, secure accommodation\. There are also cooking and laundry facilities and social spaces\. The [Jafra R2R](https://www.facebook.com/JafraGreeceR2R/?ref=page_internal) team plans to approach each of the women individually so as to assist them in accessing the appropriate services\.
 
 
-![Photos by: J [afra Team R2R in Greece — فريق جفرا في اليونان](https://www.facebook.com/JafraGreeceR2R/?ref=page_internal) ‎](assets/267df132530b/1*ypjG81j2bKj-wMksGOQYKA.jpeg)
+![Photos by: J [afra Team R2R in Greece — فريق جفرا في اليونان](https://www.facebook.com/JafraGreeceR2R/?ref=page_internal) ‎](../assets/267df132530b/1*ypjG81j2bKj-wMksGOQYKA.jpeg)
 
 Photos by: J [afra Team R2R in Greece — فريق جفرا في اليونان](https://www.facebook.com/JafraGreeceR2R/?ref=page_internal) ‎
 
@@ -56,7 +56,7 @@ Teaching Resources
 They have an account for photocopies at CopyCat, Stournari 20, Exarcheia, where you can support them\. If you come to the school with materials from the list, please leave it at the housing squat for refugees and immigrants at Notara 26 \(Navarchou Notara 26 Exarchia\) \.
 
 
-![Illustration by: Mahnaz Yazdani via [Art Against](https://www.facebook.com/artagainstproject/)](assets/267df132530b/1*kqo1e9yVQZJ2Eyvp-iuLkw.jpeg)
+![Illustration by: Mahnaz Yazdani via [Art Against](https://www.facebook.com/artagainstproject/)](../assets/267df132530b/1*kqo1e9yVQZJ2Eyvp-iuLkw.jpeg)
 
 Illustration by: Mahnaz Yazdani via [Art Against](https://www.facebook.com/artagainstproject/)
 ### Local men threatening children who fled war?\!
@@ -67,7 +67,7 @@ A group of right\-wing men, calling themselves “Patriotic Union”, gathered a
 
 
 ![Neonazis of a so called “Patriotic Union” attacked an elementary school with refugee children in Oreokastro today\.
-Reports say they were yelling “Death to immigrants” and “Say hello to Pavlos Fyssas \(antifascist rapper, murdered by Golden Dawn members in 2013\)” — by: [NoBorders](https://www.facebook.com/nobordersnetwork/?ref=page_internal&hc_ref=PAGES_TIMELINE)](assets/267df132530b/1*FaehyURopX122o_qOmMh-g.jpeg)
+Reports say they were yelling “Death to immigrants” and “Say hello to Pavlos Fyssas \(antifascist rapper, murdered by Golden Dawn members in 2013\)” — by: [NoBorders](https://www.facebook.com/nobordersnetwork/?ref=page_internal&hc_ref=PAGES_TIMELINE)](../assets/267df132530b/1*FaehyURopX122o_qOmMh-g.jpeg)
 
 Neonazis of a so called “Patriotic Union” attacked an elementary school with refugee children in Oreokastro today\.
 Reports say they were yelling “Death to immigrants” and “Say hello to Pavlos Fyssas \(antifascist rapper, murdered by Golden Dawn members in 2013\)” — by: [NoBorders](https://www.facebook.com/nobordersnetwork/?ref=page_internal&hc_ref=PAGES_TIMELINE)
@@ -101,40 +101,40 @@ Those eligible and interested should prepare and send their CVs and cover letter
 The situation in [Belgrade warehouses](https://lookaside.fbsbx.com/file/belgrade_map_version_1.pdf?token=AWxsvEzXeoBJgI132FPEpPbD09ZL56Aj6JykuUqjN7_nU1_shCZkwq7XP2VQv3MVLHszKRu04QaC0r3BY-ttmFQ6axyxsgYHQo_AZC3E7TB7_MSo7Vn2Q4RI3ergp5qXvoMY0Of1kj_9qQuZAbhWAQI2) is slowly improving due to warmer temperatures and independent teams, such as [SoulWelders](https://www.facebook.com/SoulWelders/?fref=ts) , who have provided much needed firewood and stoves\. Before their arrival, as many as 1,000 people were sleeping rough in abandoned warehouses near the Belgrade train station and using old wood from train tracks, covered with toxic chemicals, to heat up their makeshift homes\. This desperate practice exposed them to many health hazards\. \(The number of people affected fluctuates, depending on people’s movement towards Croatia and Hungary\. \) In warehouses, where the sanitary situation is still far from acceptable, the toxic smell of burnt tar and plastic has now been replaced by the comforting smell of real firewood crackling in proper stoves and heaters\. A simple but effective system of distribution has been put in place, so that everyone can get proper firewood\.
 
 
-![](assets/267df132530b/1*aruHzNEa8f0Y1RRI62Bhwg.jpeg)
+![](../assets/267df132530b/1*aruHzNEa8f0Y1RRI62Bhwg.jpeg)
 
 
 
-![“Dunkirk Pirate,“ Dylan from SoulWelders, distributing firewood \(Photo: AYS\)](assets/267df132530b/1*g02O-dOTxxaELDRrPVrXIA.jpeg)
+![“Dunkirk Pirate,“ Dylan from SoulWelders, distributing firewood \(Photo: AYS\)](../assets/267df132530b/1*g02O-dOTxxaELDRrPVrXIA.jpeg)
 
 “Dunkirk Pirate,“ Dylan from SoulWelders, distributing firewood \(Photo: AYS\)
 
 In addition to the AYS kitchen trailer, operated by [Hot Food Idomeni](https://www.facebook.com/Hotfoodidomeni/?fref=ts) every day around lunchtime, [NoName Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?fref=ts) is providing around 600 dinners each evening\. The atmosphere in the kitchen, which is located inside one of the warehouses, is wonderful, and provides much\-needed communal feeling\.
 
 
-![](assets/267df132530b/1*DoarhwntgLWI0kv5_rXsuA.jpeg)
+![](../assets/267df132530b/1*DoarhwntgLWI0kv5_rXsuA.jpeg)
 
 
 
-![](assets/267df132530b/1*k5VfdM7NBTbXtxE8cHCvFg.jpeg)
+![](../assets/267df132530b/1*k5VfdM7NBTbXtxE8cHCvFg.jpeg)
 
 
 
-![Photos: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/)](assets/267df132530b/1*L-5Rv-bJEpN_mgsWNdDJ4g.jpeg)
+![Photos: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/)](../assets/267df132530b/1*L-5Rv-bJEpN_mgsWNdDJ4g.jpeg)
 
 Photos: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/)
 
 Further down the train tracks, MSF has three heated tents where minors and ill people can rest during the night\. The distribution of clothes and other necessities on site still seems to be problematic\. Since Komesariat has discouraged local groups and NGOs from providing direct help in the warehouses, most of the work on site is done by international teams\.
 
 
-![Lunch distribution by the Hot Food Idomeni team with a little support from AYS in the form of a kitchen trailer\. \(Photo: AYS\)](assets/267df132530b/1*E68HdqjOuuVywJkZkNihhA.jpeg)
+![Lunch distribution by the Hot Food Idomeni team with a little support from AYS in the form of a kitchen trailer\. \(Photo: AYS\)](../assets/267df132530b/1*E68HdqjOuuVywJkZkNihhA.jpeg)
 
 Lunch distribution by the Hot Food Idomeni team with a little support from AYS in the form of a kitchen trailer\. \(Photo: AYS\)
 
 Local groups such as [Info Park](https://www.facebook.com/infoparkserbia/?fref=ts) and [Refugees Foundation](https://www.facebook.com/izbegliceusrbiji/?fref=ts) have adjusted their activities to avoid pressure from the state, but are still contributing significantly\. [Miksaliste](https://www.facebook.com/RefugeeAidMiksaliste/?hc_ref=SEARCH&fref=nf) is located few minutes from the warehouses and offers electrical outlets for charging mobile phones and other infrastructural benefits\.
 
 
-![Photo: [Refugee Aid Miksalište](https://www.facebook.com/RefugeeAidMiksaliste/)](assets/267df132530b/1*kqVxDtjMpIZvsuAnq8WIqQ.jpeg)
+![Photo: [Refugee Aid Miksalište](https://www.facebook.com/RefugeeAidMiksaliste/)](../assets/267df132530b/1*kqVxDtjMpIZvsuAnq8WIqQ.jpeg)
 
 Photo: [Refugee Aid Miksalište](https://www.facebook.com/RefugeeAidMiksaliste/)
 
@@ -175,7 +175,7 @@ Whether you are an expert in insuring cars in France, have a laser printer/tea u
 After about 500 migrants breached the fence between Morocco and the Spanish enclave of Ceuta on Friday, 359 people from different African countries broke through the border fence earlier today\. These people now have to wait to be transferred to the mainland to have their papers processed\. Most are likely going to be returned to Morocco or their country of origin, Reuters [claims](http://www.reuters.com/article/us-europe-migrants-spain-idUSKBN15Z0PL) \.
 
 
-![A film that tells the story of the realities of the refugees in Greece, filmed by a member of the rescue team Salvamento Maritimo Humanitaio \(active on Chios\), will be shown at various locations in Spain\. Screenings start this Wednesday, February 22, in Oviedo\. \(by [Salvamento Marítimo Humanitario](https://www.facebook.com/smhumanitario/) \)](assets/267df132530b/1*L19ZlQca-n0KXS9lYTCcNQ.jpeg)
+![A film that tells the story of the realities of the refugees in Greece, filmed by a member of the rescue team Salvamento Maritimo Humanitaio \(active on Chios\), will be shown at various locations in Spain\. Screenings start this Wednesday, February 22, in Oviedo\. \(by [Salvamento Marítimo Humanitario](https://www.facebook.com/smhumanitario/) \)](../assets/267df132530b/1*L19ZlQca-n0KXS9lYTCcNQ.jpeg)
 
 A film that tells the story of the realities of the refugees in Greece, filmed by a member of the rescue team Salvamento Maritimo Humanitaio \(active on Chios\), will be shown at various locations in Spain\. Screenings start this Wednesday, February 22, in Oviedo\. \(by [Salvamento Marítimo Humanitario](https://www.facebook.com/smhumanitario/) \)
 ### This Week’s Solidarity Events in Europe

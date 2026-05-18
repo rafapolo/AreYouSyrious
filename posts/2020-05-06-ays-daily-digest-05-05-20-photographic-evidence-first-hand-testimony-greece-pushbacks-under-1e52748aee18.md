@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 05/05/20 Photographic evidence & first hand testimony: Greece pushbacks under…
+title: "AYS Daily Digest 05/05/20 Photographic evidence & first hand testimony: Greece pushbacks under…"
 author: Are You Syrious?
 date: 2020-05-06T05:00:55.837+0100
 last_modified_at: 2020-05-06T11:11:43.326+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,covid-19,greece,digest,germany]
 description: Libyan detention fear during COVID-19 // looming fate of camp in Tunisia // hunger in UK during COVID-19 // privacy concerns in Germany //…
 image:
-  path: assets/1e52748aee18/1*jR2mshGYG0bLPoWpPIFWQA.jpeg
+  path: ../assets/1e52748aee18/1*jR2mshGYG0bLPoWpPIFWQA.jpeg
 ---
 
 ### AYS Daily Digest 05/05/20 Photographic evidence & first hand testimony: Greece pushbacks under COVID\-19
@@ -15,7 +15,7 @@ image:
 _Libyan detention fear during COVID\-19 // looming fate of camp in Tunisia // hunger in UK during COVID\-19 // privacy concerns in Germany // and more…_
 
 
-![April 16th, 2020 “Lateral bruising left from assault by batons inflicted by Greek authorities\.” Photo by [Border Violence Monitoring Network](https://www.borderviolence.eu/violence-reports/april-16-2020-0000-meric-river-grk-tur/)](assets/1e52748aee18/1*jR2mshGYG0bLPoWpPIFWQA.jpeg)
+![April 16th, 2020 “Lateral bruising left from assault by batons inflicted by Greek authorities\.” Photo by [Border Violence Monitoring Network](https://www.borderviolence.eu/violence-reports/april-16-2020-0000-meric-river-grk-tur/)](../assets/1e52748aee18/1*jR2mshGYG0bLPoWpPIFWQA.jpeg)
 
 April 16th, 2020 “Lateral bruising left from assault by batons inflicted by Greek authorities\.” Photo by [Border Violence Monitoring Network](https://www.borderviolence.eu/violence-reports/april-16-2020-0000-meric-river-grk-tur/)
 ### FEATURE: Releasing first hand testimony and photographic evidence indicating the existence of violent collective expulsions
@@ -38,7 +38,7 @@ Border Violence Monitoring Network, Wave\-Thessaloniki and Mobile Info Team have
 The collected evidence comes from cases on 31st March 2020, 16th April 2020, 17th April 2020, 23rd April 2020, and two separate cases on 28th April 2020\. Many of the cases involved people being pushed into vans from Diavata camp and driven to the Turkish border to be expelled\.
 
 
-![Detention in Drama Paranesti\. Photo by [Anek Flouz](https://twitter.com/hashtag/paranesti)](assets/1e52748aee18/1*xWqCA4IfqENdEK3RS3LWrw.jpeg)
+![Detention in Drama Paranesti\. Photo by [Anek Flouz](https://twitter.com/hashtag/paranesti)](../assets/1e52748aee18/1*xWqCA4IfqENdEK3RS3LWrw.jpeg)
 
 Detention in Drama Paranesti\. Photo by [Anek Flouz](https://twitter.com/hashtag/paranesti)
 
@@ -68,7 +68,7 @@ The situation in the detention centers is at crisis point, particularly because 
 #### TUNISIA
 
 
-![Fatnassia Camp\. Photo by [EuroActiv](https://www.euractiv.com/section/global-europe/opinion/fatnassia-camp-is-a-time-bomb-that-threatens-whole-of-north-africa/?fbclid=IwAR09mx4q7E0wNJ_gt-GwPUws7iGG0th0P326FMb0YnJ_J1OEwPeLrTvg9hc)](assets/1e52748aee18/1*Pt7vJqV-MTb8VzikiqpqFQ.jpeg)
+![Fatnassia Camp\. Photo by [EuroActiv](https://www.euractiv.com/section/global-europe/opinion/fatnassia-camp-is-a-time-bomb-that-threatens-whole-of-north-africa/?fbclid=IwAR09mx4q7E0wNJ_gt-GwPUws7iGG0th0P326FMb0YnJ_J1OEwPeLrTvg9hc)](../assets/1e52748aee18/1*Pt7vJqV-MTb8VzikiqpqFQ.jpeg)
 
 Fatnassia Camp\. Photo by [EuroActiv](https://www.euractiv.com/section/global-europe/opinion/fatnassia-camp-is-a-time-bomb-that-threatens-whole-of-north-africa/?fbclid=IwAR09mx4q7E0wNJ_gt-GwPUws7iGG0th0P326FMb0YnJ_J1OEwPeLrTvg9hc)
 
@@ -106,7 +106,7 @@ AlarmPhone has seen an increase in racist attacks against their organization dur
 ### Residents in northern Greece protest arrival of 300 vulnerable asylum seekers to hotel, transfer oversaw by IOM
 
 
-![“ **Residents of Mouries village in northern Greece** are protesting the arrival of around 300 asylum seekers deemed vulnerable by Greek authorities\. They were transferred from the crowded site in \#Moria on \#Lesvos in order to be housed in a currently disused hotel run by [@IOMGREECE](http://twitter.com/IOMGREECE) ” [There is also a video here of](https://twitter.com/daphnetoli/status/1257738850958442500) “Residents from a village near Pella in Central Macedonia gathered to protest the transfer of vulnerable asylum seekers from Moria, Lesvos, to a Greek hotel rented by IOM\. In the early hrs of Tuesday, locals started a fire, blocked the roads and threatened to burn down the hotel\.” Photo by [Daphne Tolis](https://twitter.com/daphnetoli/status/1257367874928336903)](assets/1e52748aee18/1*Lmt4DBa_dqlxrrH1ymxQWg.jpeg)
+![“ **Residents of Mouries village in northern Greece** are protesting the arrival of around 300 asylum seekers deemed vulnerable by Greek authorities\. They were transferred from the crowded site in \#Moria on \#Lesvos in order to be housed in a currently disused hotel run by [@IOMGREECE](http://twitter.com/IOMGREECE) ” [There is also a video here of](https://twitter.com/daphnetoli/status/1257738850958442500) “Residents from a village near Pella in Central Macedonia gathered to protest the transfer of vulnerable asylum seekers from Moria, Lesvos, to a Greek hotel rented by IOM\. In the early hrs of Tuesday, locals started a fire, blocked the roads and threatened to burn down the hotel\.” Photo by [Daphne Tolis](https://twitter.com/daphnetoli/status/1257367874928336903)](../assets/1e52748aee18/1*Lmt4DBa_dqlxrrH1ymxQWg.jpeg)
 
 “ **Residents of Mouries village in northern Greece** are protesting the arrival of around 300 asylum seekers deemed vulnerable by Greek authorities\. They were transferred from the crowded site in \#Moria on \#Lesvos in order to be housed in a currently disused hotel run by [@IOMGREECE](http://twitter.com/IOMGREECE) ” [There is also a video here of](https://twitter.com/daphnetoli/status/1257738850958442500) “Residents from a village near Pella in Central Macedonia gathered to protest the transfer of vulnerable asylum seekers from Moria, Lesvos, to a Greek hotel rented by IOM\. In the early hrs of Tuesday, locals started a fire, blocked the roads and threatened to burn down the hotel\.” Photo by [Daphne Tolis](https://twitter.com/daphnetoli/status/1257367874928336903)
 
@@ -179,7 +179,7 @@ Food scarcity for refugees and asylum seekers is a huge issue during the COVID\-
 Some aslyum seekers are suing the Home Office to provide more aid per week and to “fill the support gap” to account for the change in conditions\. Many people are skipping meals in order to feed their children\. Learn more [here](https://www.independent.co.uk/news/uk/home-news/coronavirus-job-losses-laid-off-domestic-workers-carers-homeless-visa-a9498581.html) \.
 
 
-![“We have written to the Prime Minister asking that the government grant a period of “Leave to Remain” to everyone with insecure immigration status\. We are joined by over 30 front\-line facing organisations working with asylum seekers, refugees, and those with irregular immigration status\. A period of ‘leave to remain’ is the most effective way of ensuring people can access support they need during this crisis, such as accommodation and healthcare, and thereby protecting society as a whole\.” [Find out more here](https://www.jrsuk.net/statusforall/) \. Photo by JRS](assets/1e52748aee18/1*MLKRbrmHMkV7jeNkrg08eg.png)
+![“We have written to the Prime Minister asking that the government grant a period of “Leave to Remain” to everyone with insecure immigration status\. We are joined by over 30 front\-line facing organisations working with asylum seekers, refugees, and those with irregular immigration status\. A period of ‘leave to remain’ is the most effective way of ensuring people can access support they need during this crisis, such as accommodation and healthcare, and thereby protecting society as a whole\.” [Find out more here](https://www.jrsuk.net/statusforall/) \. Photo by JRS](../assets/1e52748aee18/1*MLKRbrmHMkV7jeNkrg08eg.png)
 
 “We have written to the Prime Minister asking that the government grant a period of “Leave to Remain” to everyone with insecure immigration status\. We are joined by over 30 front\-line facing organisations working with asylum seekers, refugees, and those with irregular immigration status\. A period of ‘leave to remain’ is the most effective way of ensuring people can access support they need during this crisis, such as accommodation and healthcare, and thereby protecting society as a whole\.” [Find out more here](https://www.jrsuk.net/statusforall/) \. Photo by JRS
 

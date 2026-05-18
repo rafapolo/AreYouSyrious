@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 6/1/20: Can Croatia’s new president help refugees?
+title: "AYS Daily Digest 6/1/20: Can Croatia’s new president help refugees?"
 author: Are You Syrious?
 date: 2020-01-07T10:01:33.801+0000
 last_modified_at: 2020-01-09T06:29:19.122+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,zoran-milanović,croatia,bosnia-and-herzegovina,digest]
 description: Feature
 image:
-  path: assets/8fee1862ad4d/1*ch4JRkbbxkwdLkIO112yNQ.jpeg
+  path: ../assets/8fee1862ad4d/1*ch4JRkbbxkwdLkIO112yNQ.jpeg
 ---
 
 ### AYS Daily Digest 6/1/20: Can Croatia’s new president help refugees?
 #### Young men who’ve been deported back from EU countries face street violence in Kabul / Tragedy in Moria: a 31\-year old man found hanged in the removal center / 50 women intimidated and humiliated in Petrou Ralli detention center in Attica / Research: Turkish media violate privacy and reinforce negative stereotypes about refugees / A dramatic decrease in successful crossings of the central Mediterranean / Footage shows violence against refugees in an IOM\-ran Bira camp / Spanish government tries to cover up a pushback / Denmark introduces a new deadline for family reunification of children
 
 
-![A victim of Croatian border violence\. Photo: Border Violence Monitoring](assets/8fee1862ad4d/1*ch4JRkbbxkwdLkIO112yNQ.jpeg)
+![A victim of Croatian border violence\. Photo: Border Violence Monitoring](../assets/8fee1862ad4d/1*ch4JRkbbxkwdLkIO112yNQ.jpeg)
 
 A victim of Croatian border violence\. Photo: Border Violence Monitoring
 #### Feature
@@ -23,7 +23,7 @@ A victim of Croatian border violence\. Photo: Border Violence Monitoring
 Following a five\-year presidential term of the conservative Kolinda Grabar Kitarović, Croatia elected a new president, social democrat Zoran Milanović\. Milanović was Croatian prime minister in 2015, when the refugee route shifted from Hungary towards Croatia\. His government kept a “fast forward” policy, allowing thousands of people to enter the country on daily basis\. They were put on trains at the border with Serbia and taken to Slovenia, strategically discouraging their longer stay on Croatian soil to avoid “becoming a hot spot”\. In this period, Zoran Milanović’s government kept insisting on having a safe humanitarian corridor from Greece through ex\-Yugoslavian countries towards Germany\. They seldomly added anyone’s fingerprints to Eurodac, in order to prevent future Dublin returns to Croatia\.
 
 
-![Then Prime Minister Zoran Milanović visiting a transit centre in Croatia, 2015\.](assets/8fee1862ad4d/1*SfM64YXRFc0VDeNu1gvl9g.jpeg)
+![Then Prime Minister Zoran Milanović visiting a transit centre in Croatia, 2015\.](../assets/8fee1862ad4d/1*SfM64YXRFc0VDeNu1gvl9g.jpeg)
 
 Then Prime Minister Zoran Milanović visiting a transit centre in Croatia, 2015\.
 
@@ -48,7 +48,7 @@ In the campaign, Zoran Milanović insisted that keeping the border open was a go
 Presidential duties in Croatia are largely representative, while most of decision\-making is in the hands of the center\-right PM Andrej Plenković\. When he assumes presidential office, Zoran Milanović will become commander in\-chief of the military and chief representative of the Republic of Croatia both within the country and abroad\. Having in mind he is an experienced diplomat, he may try to negotiate a new migration deal with European counterparts\. Milanović already announced he intends to cooperate with the current government, but the PM said it will be a “hard cohabitation”\.
 
 
-![Illegal pushbacks are happening daily at Croatian borders\. Photo: BVM](assets/8fee1862ad4d/1*3XVdCaYszp3a7JcqqCj9eA.jpeg)
+![Illegal pushbacks are happening daily at Croatian borders\. Photo: BVM](../assets/8fee1862ad4d/1*3XVdCaYszp3a7JcqqCj9eA.jpeg)
 
 Illegal pushbacks are happening daily at Croatian borders\. Photo: BVM
 
@@ -61,7 +61,7 @@ According to [Abdul Ghafoor](https://www.facebook.com/abdul.ghafoor.378?__tn__=%
 Street crimes has become one of the biggest challenges along with the fear of explosions and suicide attacks in Kabul\. Police have failed to provide protection to the citizens and are often helping the robbers carry out their operations\. Even if they are caught, they are released the following day because of the non\-existence of a law to follow up such crimes, Ghafoor says\.
 
 
-![A student was killed after he tried to resist robbery in Kabul\. Photo: Afghanistan Migrants Advice & Support Org](assets/8fee1862ad4d/1*UlSkhIyMXeQUgMlcK2be6g.jpeg)
+![A student was killed after he tried to resist robbery in Kabul\. Photo: Afghanistan Migrants Advice & Support Org](../assets/8fee1862ad4d/1*UlSkhIyMXeQUgMlcK2be6g.jpeg)
 
 A student was killed after he tried to resist robbery in Kabul\. Photo: Afghanistan Migrants Advice & Support Org
 #### Turkey
@@ -88,7 +88,7 @@ A 31\-year\-old asylum seeker from Iran was found hanged in the pre\-removal det
 ### 50 women intimidated and humiliated in Petrou Ralli detention center in Attica
 
 
-![“Notary women themselves having experienced uprooting, persecution, and oppression until they came here to shout out the idea of ​​emancipation, expressed their sympathy for the refugees and migrant women held in Peter Ralli’s abyss\.” Photo by [Maria Louka](https://twitter.com/maria_louka/status/1214120846635229184?fbclid=IwAR2q6CwNbY0wVeRn44u-qhFtOrHtlIFlbJ_1U1G-LGibUri10YFVvEPWmB0)](assets/8fee1862ad4d/1*ppglibcNoCOXkIkwoHejIA.jpeg)
+![“Notary women themselves having experienced uprooting, persecution, and oppression until they came here to shout out the idea of ​​emancipation, expressed their sympathy for the refugees and migrant women held in Peter Ralli’s abyss\.” Photo by [Maria Louka](https://twitter.com/maria_louka/status/1214120846635229184?fbclid=IwAR2q6CwNbY0wVeRn44u-qhFtOrHtlIFlbJ_1U1G-LGibUri10YFVvEPWmB0)](../assets/8fee1862ad4d/1*ppglibcNoCOXkIkwoHejIA.jpeg)
 
 “Notary women themselves having experienced uprooting, persecution, and oppression until they came here to shout out the idea of ​​emancipation, expressed their sympathy for the refugees and migrant women held in Peter Ralli’s abyss\.” Photo by [Maria Louka](https://twitter.com/maria_louka/status/1214120846635229184?fbclid=IwAR2q6CwNbY0wVeRn44u-qhFtOrHtlIFlbJ_1U1G-LGibUri10YFVvEPWmB0)
 
@@ -127,7 +127,7 @@ The Spanish NGO Caminando Fronteras accused Spanish authorities in a statement t
 There is photographic evidence, however, from Helena Maleno, a member of Caminando Fronteras, of a man shivering under plastic, trying to protect himself from the wind after landing\. More [here](https://www.infomigrants.net/en/post/21912/spanish-ngos-accuse-spain-of-illegal-migrant-push-back?fbclid=IwAR14soMLj285zopxYcBeQzl4wCItRImbSCMZPnk7mJaYVkHrADXBzyXe044) \.
 
 
-![Photo by [Helena Maleno Garzón](https://twitter.com/HelenaMaleno/status/1213118183865044992/photo/1?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1213118183865044992&ref_url=https%3A%2F%2Fwww.infomigrants.net%2Fen%2Fpost%2F21912%2Fspanish-ngos-accuse-spain-of-illegal-migrant-push-back)](assets/8fee1862ad4d/1*Kegdc4KhNprbZdN3VKxfuQ.jpeg)
+![Photo by [Helena Maleno Garzón](https://twitter.com/HelenaMaleno/status/1213118183865044992/photo/1?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1213118183865044992&ref_url=https%3A%2F%2Fwww.infomigrants.net%2Fen%2Fpost%2F21912%2Fspanish-ngos-accuse-spain-of-illegal-migrant-push-back)](../assets/8fee1862ad4d/1*Kegdc4KhNprbZdN3VKxfuQ.jpeg)
 
 Photo by [Helena Maleno Garzón](https://twitter.com/HelenaMaleno/status/1213118183865044992/photo/1?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1213118183865044992&ref_url=https%3A%2F%2Fwww.infomigrants.net%2Fen%2Fpost%2F21912%2Fspanish-ngos-accuse-spain-of-illegal-migrant-push-back)
 #### Denmark

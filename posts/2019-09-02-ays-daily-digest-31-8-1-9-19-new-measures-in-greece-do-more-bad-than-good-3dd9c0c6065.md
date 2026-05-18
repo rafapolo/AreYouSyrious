@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 31/8- 1/9/19: New measures in Greece do more bad than good
+title: "AYS Daily Digest 31/8- 1/9/19: New measures in Greece do more bad than good"
 author: Are You Syrious?
 date: 2019-09-02T12:18:14.773+0100
 last_modified_at: 2019-09-02T15:15:17.798+0100
 categories: Are You Syrious?
 tags: [refugees,digest,europe,moria-lesvos,sea-rescue]
-description: new measures in Greece // conditions in Moria // demonstrations in Exarchia // shipwreck Canari Island: 25 people dead //News from Alan…
+description: "new measures in Greece // conditions in Moria // demonstrations in Exarchia // shipwreck Canari Island: 25 people dead //News from Alan…"
 image:
-  path: assets/3dd9c0c6065/1*W8gpVKWoW0p3_OhHih0GXg.jpeg
+  path: ../assets/3dd9c0c6065/1*W8gpVKWoW0p3_OhHih0GXg.jpeg
 ---
 
 ### AYS Daily Digest 31/8\- 1/9/19: New Measures in Greece do more bad than good
 #### New measures in Greece // Conditions in Moria, Lesvos // Demonstrations in Exarchia, Athens // Shipwreck Canari Island: 25 people dead // News from Alan Kurdi, Eleonore, and Mare Jonio // Calls for support from France // Demonstration held in Ellebaek // Worrying situation in UK in case of no\-deal Brexit for unaccompanied minors
 
 
-![credit: Déguène and Aram Mbow](assets/3dd9c0c6065/1*W8gpVKWoW0p3_OhHih0GXg.jpeg)
+![credit: Déguène and Aram Mbow](../assets/3dd9c0c6065/1*W8gpVKWoW0p3_OhHih0GXg.jpeg)
 
 credit: Déguène and Aram Mbow
 ### FEATURE
@@ -51,7 +51,7 @@ Finally, the problems of acquiring tax numbers \(ΑΦΜ\) for refugees seem to b
 News from the **Moria Camp on Lesvos** is getting worse every day, although one would think the worst was been reached a long time ago\. As the numbers of arrivals are increasing dramatically, new people have no shelter anymore in the overcrowded tents but instead have to sleep rough on the street\. Limited access to water, completely inadequate sanitary infrastructure, and long waiting queues for food distribution are still not solved\.
 
 
-![People sleeping on the street in Moria\. Photo credit: Refugee Support Aegean \(RSA\)](assets/3dd9c0c6065/1*V2J3LHcto0H8Wbe8Y0rXmA.jpeg)
+![People sleeping on the street in Moria\. Photo credit: Refugee Support Aegean \(RSA\)](../assets/3dd9c0c6065/1*V2J3LHcto0H8Wbe8Y0rXmA.jpeg)
 
 People sleeping on the street in Moria\. Photo credit: Refugee Support Aegean \(RSA\)
 
@@ -79,7 +79,7 @@ On the weekend, 3 boats arrived in Lesvos carrying a total of 122 persons\.
 In **Exarchia in Athens** demonstrations with 1500 to 2000 people were held against the evictions, raids and police attacks of the last days\.
 
 
-![Photo : Savvas Karmaniolas](assets/3dd9c0c6065/1*PZOMccY8AkHDQSvQ_Wpogg.jpeg)
+![Photo : Savvas Karmaniolas](../assets/3dd9c0c6065/1*PZOMccY8AkHDQSvQ_Wpogg.jpeg)
 
 Photo : Savvas Karmaniolas
 
@@ -107,7 +107,7 @@ The Sea\-Eye ship Alan Kurdi spotted in the early hours of Sunday morning a boat
 As for Sunday, the Eleonore was carrying 104 rescued persons and the Mare Jonio another 34\. Three of the 34 people on the Mare Jonio were allowed to disembark due to serious health conditions\.
 
 
-![Fotos: Nick Jaussi, seacoverage](assets/3dd9c0c6065/1*dkKWhmJPHT-dAGWXdymeEg.jpeg)
+![Fotos: Nick Jaussi, seacoverage](../assets/3dd9c0c6065/1*dkKWhmJPHT-dAGWXdymeEg.jpeg)
 
 Fotos: Nick Jaussi, seacoverage
 ### ITALY

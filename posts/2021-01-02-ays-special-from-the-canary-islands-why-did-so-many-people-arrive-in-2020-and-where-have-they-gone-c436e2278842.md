@@ -1,13 +1,13 @@
 ---
-title: AYS Special from the Canary Islands: Why did so many people arrive in 2020 and where have they gone?
+title: "AYS Special from the Canary Islands: Why did so many people arrive in 2020 and where have they gone?"
 author: Are You Syrious?
 date: 2021-01-02T08:12:07.663+0000
 last_modified_at: 2021-01-03T08:03:53.535+0000
 categories: Are You Syrious?
 tags: [canary-islands,spain,special,eastern-mediterranean,refugees]
-description: 2020 saw the highest number of arrivals to the Canary Islands since 2006: approx. 22,000 people, including around 2,500 children.
+description: "2020 saw the highest number of arrivals to the Canary Islands since 2006: approx. 22,000 people, including around 2,500 children."
 image:
-  path: assets/c436e2278842/1*NcUahbxbCLko9eIW8_1XlQ.jpeg
+  path: ../assets/c436e2278842/1*NcUahbxbCLko9eIW8_1XlQ.jpeg
 ---
 
 ### AYS Special from the Canary Islands: Why did so many people arrive in 2020 and where have they gone?
@@ -15,7 +15,7 @@ image:
 _This year saw the highest number of arrivals on the Canary Islands since 2006\. Approximately 22,000 people, including around [2,500 unaccompanied children](https://www.infomigrants.net/en/post/29357/a-child-needs-more-than-food-and-shelter-the-fate-of-unaccompanied-minors-on-the-canary-islands) , have made this perilous journey in 2020, an increase of over 800% from 2019\._
 
 
-![\(Image credit: Jason deCaires Taylor, Museo Atlantico \(2016\) Lanzarote\)](assets/c436e2278842/1*NcUahbxbCLko9eIW8_1XlQ.jpeg)
+![\(Image credit: Jason deCaires Taylor, Museo Atlantico \(2016\) Lanzarote\)](../assets/c436e2278842/1*NcUahbxbCLko9eIW8_1XlQ.jpeg)
 
 \(Image credit: Jason deCaires Taylor, Museo Atlantico \(2016\) Lanzarote\)
 
@@ -78,7 +78,7 @@ Of course, all measures which effectively close safer routes and force people to
 The controversial pier camp was set up in August as an emergency camp for medical screening, including COVID\-19 testing, and police identification and registration procedures\. By November 10, more than 2,000 people were being kept in this makeshift camp for days and weeks\. As HRW [reported](https://www.hrw.org/news/2020/11/11/spain-respect-rights-people-arriving-sea-canary-islands) , the government had blocked access to journalists, photographers, and television cameras, citing privacy issues and ensuring that very limited information on the conditions within the camp were available to the public\. Spanish authorities likely intended to prevent videos such as the two below from going public:
 
 
-[![Más de mil migrantes siguen hacinados en el muelle de Arguineguín](assets/c436e2278842/8dc2_hqdefault.jpg "Más de mil migrantes siguen hacinados en el muelle de Arguineguín")](https://www.youtube.com/watch?v=7yyo_EnX2tU)
+[![Más de mil migrantes siguen hacinados en el muelle de Arguineguín](../assets/c436e2278842/8dc2_hqdefault.jpg "Más de mil migrantes siguen hacinados en el muelle de Arguineguín")](https://www.youtube.com/watch?v=7yyo_EnX2tU)
 
 
 

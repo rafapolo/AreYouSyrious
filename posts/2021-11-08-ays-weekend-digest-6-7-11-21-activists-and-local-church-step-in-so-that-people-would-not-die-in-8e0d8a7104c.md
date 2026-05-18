@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 6–7/11/21: Activists and local church step in so that people would not die in…
+title: "AYS Weekend Digest 6–7/11/21: Activists and local church step in so that people would not die in…"
 author: Are You Syrious?
 date: 2021-11-08T17:26:14.169+0000
 last_modified_at: 2021-11-08T19:26:38.999+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,france,humanitarian,italy]
 description: Report from the French-Italian border // What is happening with UNHCR in Libya // Safe corridors provided consistently by the Italian…
 image:
-  path: assets/8e0d8a7104c/0*oKpFZHegMWpGW-UA
+  path: ../assets/8e0d8a7104c/0*oKpFZHegMWpGW-UA
 ---
 
 ### AYS Weekend Digest 6–7/11/21: Activists and local church step in so that people would not die in the Alps
 #### Report from the French\-Italian border // What is happening with UNHCR in Libya // Safe corridors provided consistently by the Italian community work better than any EU programme so far // UK border forces refuse pushbacks // & some good reads and recommended podcasts
 
 
-![Photo: [Paris d’Exil](https://twitter.com/paris_dexil)](assets/8e0d8a7104c/0*oKpFZHegMWpGW-UA)
+![Photo: [Paris d’Exil](https://twitter.com/paris_dexil)](../assets/8e0d8a7104c/0*oKpFZHegMWpGW-UA)
 
 Photo: [Paris d’Exil](https://twitter.com/paris_dexil)
 #### FEATURED
@@ -36,11 +36,11 @@ A group of volunteers spent Sunday morning trying to stop the eviction in Calais
 As soon as the CRS arrived, and without even talking to them, the forces started pushing the people away and pepper\-sprayed them\.
 
 
-![](assets/8e0d8a7104c/0*nDAS4WS0oGwl-FPt)
+![](../assets/8e0d8a7104c/0*nDAS4WS0oGwl-FPt)
 
 
 
-![Documented and here published with the permission of [Abdul Saboor](https://www.facebook.com/profile.php?id=100007864985647&__tn__=-UC*F)](assets/8e0d8a7104c/0*ug22GUUtAdhb6287)
+![Documented and here published with the permission of [Abdul Saboor](https://www.facebook.com/profile.php?id=100007864985647&__tn__=-UC*F)](../assets/8e0d8a7104c/0*ug22GUUtAdhb6287)
 
 Documented and here published with the permission of [Abdul Saboor](https://www.facebook.com/profile.php?id=100007864985647&__tn__=-UC*F)
 

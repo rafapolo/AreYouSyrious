@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 05/12/2017: Volunteers are being prosecuted all over Europe
+title: "AYS DAILY DIGEST 05/12/2017: Volunteers are being prosecuted all over Europe"
 author: Are You Syrious?
 date: 2016-12-05T22:51:12.847+0000
 last_modified_at: 2016-12-06T12:21:28.821+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,volunteers,volunteer-day,greece]
 description: Volunteers from Spain and Germany arrested for helping people in need // List of spots in Athens where volunteers are providing food and…
 image:
-  path: assets/c1b60317fd56/1*kABYDaV3Oy67JlNbe-O1QQ.jpeg
+  path: ../assets/c1b60317fd56/1*kABYDaV3Oy67JlNbe-O1QQ.jpeg
 ---
 
 ### AYS DAILY DIGEST 05/12/2017: Volunteers are being prosecuted all over Europe
@@ -15,7 +15,7 @@ image:
 _Volunteers from Spain and Germany arrested for helping people in need // List of spots in Athens where volunteers are providing food and clothes // New camp in Paris is growing with dozens of new tents daily // Sweden is calling people to come, while at the same time finding ways to deport recent arrivals // List of calls for help from all over Europe_
 
 
-![Photo by Refugee Support Greece](assets/c1b60317fd56/1*kABYDaV3Oy67JlNbe-O1QQ.jpeg)
+![Photo by Refugee Support Greece](../assets/c1b60317fd56/1*kABYDaV3Oy67JlNbe-O1QQ.jpeg)
 
 Photo by Refugee Support Greece
 
@@ -48,7 +48,7 @@ The [Migreurop](http://www.migreurop.org/?lang=en) group created a map of all th
 Aleppo remains under heavy fire\. Today, 32 civilians were killed and 115 injured\. We could not find even one story in the international media saying that somebody talked about peace in Syria today\.
 
 
-![By [NOIRE](https://www.facebook.com/STENCIL.NOIRE/)](assets/c1b60317fd56/1*iUPS2A_JZpigxAY55rRpqw.jpeg)
+![By [NOIRE](https://www.facebook.com/STENCIL.NOIRE/)](../assets/c1b60317fd56/1*iUPS2A_JZpigxAY55rRpqw.jpeg)
 
 By [NOIRE](https://www.facebook.com/STENCIL.NOIRE/)
 ### Greece
@@ -141,7 +141,7 @@ According to official numbers, from 28 November to 4 December 592 people were st
 Once they arrive, many people are forced to sleep on the streets\. Volunteers from [Baobab](https://www.facebook.com/BaobabExperience/) report that a group of young people who reached Rome last night, aged 18 and 25, had to sleep on the pavement near the train station, an area which is already full of people\. Volunteers offered food, help and other necessities\.
 
 
-![By Baobab](assets/c1b60317fd56/1*NRT4d5q00tYNKlotwhOV2A.jpeg)
+![By Baobab](../assets/c1b60317fd56/1*NRT4d5q00tYNKlotwhOV2A.jpeg)
 
 By Baobab
 
@@ -149,7 +149,7 @@ Volunteers and activists from Baobab are calling on everyone to join them for ma
 ### France
 
 
-![Photo [Rastplatz](https://www.facebook.com/rastplatz/photos/pb.134599573554179.-2207520000.1480977632./381452105535590/?type=3&theater)](assets/c1b60317fd56/1*t5dXTD500SttQYCK4oHwyA.jpeg)
+![Photo [Rastplatz](https://www.facebook.com/rastplatz/photos/pb.134599573554179.-2207520000.1480977632./381452105535590/?type=3&theater)](../assets/c1b60317fd56/1*t5dXTD500SttQYCK4oHwyA.jpeg)
 
 Photo [Rastplatz](https://www.facebook.com/rastplatz/photos/pb.134599573554179.-2207520000.1480977632./381452105535590/?type=3&theater)
 

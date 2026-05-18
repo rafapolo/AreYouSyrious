@@ -7,7 +7,7 @@ categories:
 tags: [refugees,venice,thessaloniki,netherlands,greece]
 description: Refugees from Cona reception centre in march to Venice /// Attempted march to the Macedonian Border from Thessaloniki /// Journalist…
 image:
-  path: assets/4833322e7505/1*rsX-w_h74AOCC2y-eTrfIA.jpeg
+  path: ../assets/4833322e7505/1*rsX-w_h74AOCC2y-eTrfIA.jpeg
 ---
 
 ### **AYS Daily Digest 15/11/2017 2 Years of EU “achievements”**
@@ -16,7 +16,7 @@ Refugees from Cona reception centre in march to Venice /// Attempted march to th
 
 
 ![Soon The Free way to Europe By Marian Kamensky \(Art Against\)
-[\#openeuborders](https://web.facebook.com/hashtag/openeuborders) — [\#noborders](https://web.facebook.com/hashtag/noborders)](assets/4833322e7505/1*rsX-w_h74AOCC2y-eTrfIA.jpeg)
+[\#openeuborders](https://web.facebook.com/hashtag/openeuborders) — [\#noborders](https://web.facebook.com/hashtag/noborders)](../assets/4833322e7505/1*rsX-w_h74AOCC2y-eTrfIA.jpeg)
 
 Soon The Free way to Europe By Marian Kamensky \(Art Against\)
 [\#openeuborders](https://web.facebook.com/hashtag/openeuborders) — [\#noborders](https://web.facebook.com/hashtag/noborders)
@@ -103,7 +103,7 @@ After the tragic flooding that caused 15 deaths in Mandra, Attica today, more se
 #### Arrivals
 
 
-![Image by Eric Gerhardsson](assets/4833322e7505/1*7XOuw2UeI41z6PhxatsbGA.jpeg)
+![Image by Eric Gerhardsson](../assets/4833322e7505/1*7XOuw2UeI41z6PhxatsbGA.jpeg)
 
 Image by Eric Gerhardsson
 
@@ -118,7 +118,7 @@ With a total local population of 32,000 people, there are at the moment around 8
 #### Protest in Thessaloniki
 
 
-![Photo by Parallaxi](assets/4833322e7505/1*EOGS22c8U2RDIr9Ojbi1kQ.jpeg)
+![Photo by Parallaxi](../assets/4833322e7505/1*EOGS22c8U2RDIr9Ojbi1kQ.jpeg)
 
 Photo by Parallaxi
 
@@ -141,7 +141,7 @@ The majority of them are young men, but there are also women and children\. The 
 _“Even though the so called Balkan Corridor is closed, they are committed to reach Northern and Central Europe, where their relatives live\.”_
 
 
-![Photo by Parallaxi](assets/4833322e7505/1*KxaOPt1etlDdUZgQGvUkDg.jpeg)
+![Photo by Parallaxi](../assets/4833322e7505/1*KxaOPt1etlDdUZgQGvUkDg.jpeg)
 
 Photo by Parallaxi
 
@@ -199,7 +199,7 @@ Yesterday a group of 300 refugees left the reception centre in the ex\-military 
 
 
 
-![Photo by Melting Pot Europa](assets/4833322e7505/1*UzsWCPp50O4Y-zanMutPng.jpeg)
+![Photo by Melting Pot Europa](../assets/4833322e7505/1*UzsWCPp50O4Y-zanMutPng.jpeg)
 
 Photo by Melting Pot Europa
 
@@ -210,7 +210,7 @@ From [Melting Pot Europa](https://web.facebook.com/meltingpoteuropa/) ’s [acco
 At the same time, in Cona, the centre was occupied by the refugees who stayed there\. Workers are outside\.
 
 
-![Photo by Melting Pot Europa](assets/4833322e7505/1*IP5syJza-oGT9s5X9FbpAA.jpeg)
+![Photo by Melting Pot Europa](../assets/4833322e7505/1*IP5syJza-oGT9s5X9FbpAA.jpeg)
 
 Photo by Melting Pot Europa
 
@@ -248,7 +248,7 @@ The prefect and the head of local police said that they don’t have _technical 
 
 
 
-![Photo by Melting Pot Europa](assets/4833322e7505/1*rifVu9ICu138zawT5X2cxA.jpeg)
+![Photo by Melting Pot Europa](../assets/4833322e7505/1*rifVu9ICu138zawT5X2cxA.jpeg)
 
 Photo by Melting Pot Europa
 
@@ -315,7 +315,7 @@ Read more [here](https://web.facebook.com/pedro.p.naranjo/posts/1015538187942853
 We Are Here will resist the eviction of a squat housing refugees on Friday 17th of November from 07\.30am at Nienoord 2, Diemen, Netherlands\.
 
 
-![](assets/4833322e7505/1*XoDF8UwPfawgTb1H6vxQ3g.jpeg)
+![](../assets/4833322e7505/1*XoDF8UwPfawgTb1H6vxQ3g.jpeg)
 
 
 
@@ -355,7 +355,7 @@ The Irish Government has passed a bill to allow refugees already settled in Irel
 The John Hopkins center for humanitarian health offers a full scholarship for its Master of Public Health graduate program to a refugee for 2018/19\.
 
 
-![](assets/4833322e7505/1*Ohn-MgPIVxFPlM8cz0XGVg.jpeg)
+![](../assets/4833322e7505/1*Ohn-MgPIVxFPlM8cz0XGVg.jpeg)
 
 
 

@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,frontex,human-rights,caravan-of-hope]
 description: Conflict escalates in Libya /// People gathered in Northern Greece are returning to their accommodation /// 950 people arrested in Turkey…
 image:
-  path: assets/8de3ba5bad8c/1*IevaRaieXXsbNXPhV4-ekw.jpeg
+  path: ../assets/8de3ba5bad8c/1*IevaRaieXXsbNXPhV4-ekw.jpeg
 ---
 
 ### AYS Weekend Digest 6–7/4/2019 — Border regime or human rights?
@@ -15,7 +15,7 @@ image:
 Conflict escalates in Libya /// People gathered in Northern Greece are returning to their accommodation /// 950 people arrested in Turkey /// Updates from the Central Med /// A man took his own life in Turin, Italy /// Statement from people on the move in Calais /// Report on the criminalisation of aid workers
 
 
-![‘An infinite pain — For the innocent victims of wars, terrorism and migration’ was the book Gaye Demba was reading\. He took his own life in Turin, while living in an underfunded reception centre, with no healthcare services provided \(Photo by [Federico Maria Savia](https://www.facebook.com/photo.php?fbid=10218305216004438&set=a.4365295893220&type=3&theater) \)](assets/8de3ba5bad8c/1*IevaRaieXXsbNXPhV4-ekw.jpeg)
+![‘An infinite pain — For the innocent victims of wars, terrorism and migration’ was the book Gaye Demba was reading\. He took his own life in Turin, while living in an underfunded reception centre, with no healthcare services provided \(Photo by [Federico Maria Savia](https://www.facebook.com/photo.php?fbid=10218305216004438&set=a.4365295893220&type=3&theater) \)](../assets/8de3ba5bad8c/1*IevaRaieXXsbNXPhV4-ekw.jpeg)
 
 ‘An infinite pain — For the innocent victims of wars, terrorism and migration’ was the book Gaye Demba was reading\. He took his own life in Turin, while living in an underfunded reception centre, with no healthcare services provided \(Photo by [Federico Maria Savia](https://www.facebook.com/photo.php?fbid=10218305216004438&set=a.4365295893220&type=3&theater) \)
 #### FEATURE — BORDER REGIME OR HUMAN RIGHTS?
@@ -198,7 +198,7 @@ Please read [A right to hope is one of the basic human rights](ays-special-a-rig
 #### On Estia evictions
 
 
-![](assets/8de3ba5bad8c/1*ti2kjcDuY_6QC71vfW9K2g.png)
+![](../assets/8de3ba5bad8c/1*ti2kjcDuY_6QC71vfW9K2g.png)
 
 
 [Refugee Support Aegean](https://rsaegean.org/en) published a statement on the announced eviction of recognised refugees from accommodation in ESTIA flats and official refugee camps\.
@@ -219,7 +219,7 @@ On April 4th, the state government issued a statement announcing the possibility
 According to official numbers, in March this year, 482 people registered with the state authorities\. At the same time, 459 expressed their intention to seek asylum in Bosnia, while 5 people submitted their asylum request\. So far this year, over 3,800 people have entered Bosnia\.
 
 
-![Sunday night at the bus station in Senad Cupo, Tuzla\. \(Photo by AYS\)](assets/8de3ba5bad8c/1*-TIbAtaotx-cbtQZP6TJEg.jpeg)
+![Sunday night at the bus station in Senad Cupo, Tuzla\. \(Photo by AYS\)](../assets/8de3ba5bad8c/1*-TIbAtaotx-cbtQZP6TJEg.jpeg)
 
 Sunday night at the bus station in Senad Cupo, Tuzla\. \(Photo by AYS\)
 
@@ -233,7 +233,7 @@ FRANCE
 #### Collectif Appel d’air have share [a text written by people in exile](https://www.facebook.com/410515849777705/photos/a.411337703028853/417250585770898/?type=3) in Calais\.
 
 
-![Calais \(Photo by [Collectif Appel d’air](https://www.facebook.com/410515849777705/photos/a.411337703028853/417250585770898/?type=3&theater) \)](assets/8de3ba5bad8c/1*xhZPhrIOBH0vak9Q-zQS-A.jpeg)
+![Calais \(Photo by [Collectif Appel d’air](https://www.facebook.com/410515849777705/photos/a.411337703028853/417250585770898/?type=3&theater) \)](../assets/8de3ba5bad8c/1*xhZPhrIOBH0vak9Q-zQS-A.jpeg)
 
 Calais \(Photo by [Collectif Appel d’air](https://www.facebook.com/410515849777705/photos/a.411337703028853/417250585770898/?type=3&theater) \)
 

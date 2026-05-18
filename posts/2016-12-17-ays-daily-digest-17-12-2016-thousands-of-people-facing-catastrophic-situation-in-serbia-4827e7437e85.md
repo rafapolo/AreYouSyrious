@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST: 17/12/2016: Thousands of people facing catastrophic situation in Serbia
+title: "AYS DAILY DIGEST: 17/12/2016: Thousands of people facing catastrophic situation in Serbia"
 author: Are You Syrious?
 date: 2016-12-17T22:14:11.916+0000
 last_modified_at: 2016-12-18T11:38:41.970+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,belgrade-squats,evacuation-of-civilians,syria]
 description: Urgent plan needed for all the people sleeping rough in Serbia // Refugees suffer violence and abuse in the Balkans // 63 people found in a…
 image:
-  path: assets/4827e7437e85/1*h0iqu6yVwHU7XyP8G_et8g.jpeg
+  path: ../assets/4827e7437e85/1*h0iqu6yVwHU7XyP8G_et8g.jpeg
 ---
 
 ### AYS DAILY DIGEST: 17/12/2016: Thousands of people facing catastrophic situation in Serbia
@@ -15,7 +15,7 @@ image:
 _Urgent plan needed for all the people sleeping rough in Serbia // Refugees suffer violence and abuse in the Balkans // 63 people found in a burning van on a highway in Croatia // Evacuation of civilians from Aleppo still under negotiation // A quarter of refugee children in Lebanon are working between 11 and 15 hours per day // People in Oreokastro with no electricity for days // Austrian police controls trains from Italy in search of people who are trying to find their way through the fortress Europe_
 
 
-![Play it again Hazizi… One of the rear moment of rest for people who are living in overcrowded wear\-house in Belgrade\. Photo [Igor Čoko](http://igorcoko.net) , Belgrade\.](assets/4827e7437e85/1*h0iqu6yVwHU7XyP8G_et8g.jpeg)
+![Play it again Hazizi… One of the rear moment of rest for people who are living in overcrowded wear\-house in Belgrade\. Photo [Igor Čoko](http://igorcoko.net) , Belgrade\.](../assets/4827e7437e85/1*h0iqu6yVwHU7XyP8G_et8g.jpeg)
 
 Play it again Hazizi… One of the rear moment of rest for people who are living in overcrowded wear\-house in Belgrade\. Photo [Igor Čoko](http://igorcoko.net) , Belgrade\.
 #### Serbian government without a plan to help homeless refugees
@@ -29,7 +29,7 @@ People who are trying to cross by them selves, usually do not make it that easil
 People who are staying out in the open are very vulnerable\. Many of them are very young, some unaccompanied minors\. They are more likely to get sick and contract respiratory tract infections, flu, and frostbite, MSF, which offers help to them, claims\. People also have no or very limited access to sanitation and hygiene, which makes them even more exposed to different skin diseases such as scabies and body lice\.
 
 
-![Taking care of hygiene in \-4\. Photo [Igor Coko](http://www.igorcoko.net)](assets/4827e7437e85/1*ZHYV6iv9iToSCRZz110GTw.jpeg)
+![Taking care of hygiene in \-4\. Photo [Igor Coko](http://www.igorcoko.net)](../assets/4827e7437e85/1*ZHYV6iv9iToSCRZz110GTw.jpeg)
 
 Taking care of hygiene in \-4\. Photo [Igor Coko](http://www.igorcoko.net)
 
@@ -47,7 +47,7 @@ Additionally, MSF reminds about the fact that many refugees and migrants are exp
 Most of the people who are in such a dire situation in Serbia are from Afghanistan\. However, there are more and more people from Turkey on the so called Balkan route\.
 
 
-![“When you are 10, with no body to take care of you, alone, in far away Serbia you came from Afghanistan, an you have to take care of everything and have no idea what tomorrow will bring\. This is a story about the youngest refugee in a wear\-house in Serbia where people are living\.” By [Igor Coko](http://www.igorcoko.net) \.](assets/4827e7437e85/1*ZxGUutRM3YlILFyOm6Iq9g.jpeg)
+![“When you are 10, with no body to take care of you, alone, in far away Serbia you came from Afghanistan, an you have to take care of everything and have no idea what tomorrow will bring\. This is a story about the youngest refugee in a wear\-house in Serbia where people are living\.” By [Igor Coko](http://www.igorcoko.net) \.](../assets/4827e7437e85/1*ZxGUutRM3YlILFyOm6Iq9g.jpeg)
 
 “When you are 10, with no body to take care of you, alone, in far away Serbia you came from Afghanistan, an you have to take care of everything and have no idea what tomorrow will bring\. This is a story about the youngest refugee in a wear\-house in Serbia where people are living\.” By [Igor Coko](http://www.igorcoko.net) \.
 
@@ -71,24 +71,24 @@ Finally, the [UN High Commissioner for Refugees Filippo Grandi spoke](http://www
 Solidarity marches are still going on all around the world
 
 
-![](assets/4827e7437e85/1*Iggc1BT1Cd2ZbngM0jgW_g.jpeg)
+![](../assets/4827e7437e85/1*Iggc1BT1Cd2ZbngM0jgW_g.jpeg)
 
 
 
-![](assets/4827e7437e85/1*afDprRi8aNpBFiSdH2KHGA.jpeg)
+![](../assets/4827e7437e85/1*afDprRi8aNpBFiSdH2KHGA.jpeg)
 
 
 
-![](assets/4827e7437e85/1*ZKa8-V04XCHrxtcuJZZ-3g.jpeg)
+![](../assets/4827e7437e85/1*ZKa8-V04XCHrxtcuJZZ-3g.jpeg)
 
 
 
-![London \(Syria Solidarity UK\), Rim \(Baobab Experience\), Melbourne \(Jess Davis\), Hannover \(Syrisches Haus Hannover SHH\)](assets/4827e7437e85/1*f0zIIne3m4Qjo0WH5vCrkw.jpeg)
+![London \(Syria Solidarity UK\), Rim \(Baobab Experience\), Melbourne \(Jess Davis\), Hannover \(Syrisches Haus Hannover SHH\)](../assets/4827e7437e85/1*f0zIIne3m4Qjo0WH5vCrkw.jpeg)
 
 London \(Syria Solidarity UK\), Rim \(Baobab Experience\), Melbourne \(Jess Davis\), Hannover \(Syrisches Haus Hannover SHH\)
 
 
-![Photo by Through Refugee Eyes\.](assets/4827e7437e85/1*SMB2i5jmdsDMasM1bfOG-A.jpeg)
+![Photo by Through Refugee Eyes\.](../assets/4827e7437e85/1*SMB2i5jmdsDMasM1bfOG-A.jpeg)
 
 Photo by Through Refugee Eyes\.
 ### Lebanon
@@ -138,7 +138,7 @@ Good news from Polikastro\. Our friend from the Open Cultural Center, which oper
 Many refugees were moved from the camp to private and hotel accommodation to Polikastro\. Green Light has been given by Ministry of Education to OCC to run this project\. Before the new center is open, the OCC volunteers are teaching in the family houses\.
 
 
-![Photo by OCC\.](assets/4827e7437e85/1*7GpsFGTEoJ-AI2AyLuUgSA.jpeg)
+![Photo by OCC\.](../assets/4827e7437e85/1*7GpsFGTEoJ-AI2AyLuUgSA.jpeg)
 
 Photo by OCC\.
 ### Italy
@@ -176,11 +176,11 @@ Since early November, police in the Tyrol have picked up around 90 people headin
 
 
 
-![](assets/4827e7437e85/1*MkF8iBUdIeiT0em_htQM2Q.jpeg)
+![](../assets/4827e7437e85/1*MkF8iBUdIeiT0em_htQM2Q.jpeg)
 
 
 
-![Poor conditions people at St Denise were living in\. Photo by People in Motion](assets/4827e7437e85/1*_n5zUelbIs3TWvpLietVTQ.jpeg)
+![Poor conditions people at St Denise were living in\. Photo by People in Motion](../assets/4827e7437e85/1*_n5zUelbIs3TWvpLietVTQ.jpeg)
 
 Poor conditions people at St Denise were living in\. Photo by People in Motion
 

@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,libya,italy]
 description: Greek Migration Ministry Boasts of Decreasing Migration Numbers, Doesn’t Say Why//BVMN Report for March//More Arrivals in Romania
 image:
-  path: assets/ceb3d4d5ce75/0*2IcPPc8ctoAQwUTC
+  path: ../assets/ceb3d4d5ce75/0*2IcPPc8ctoAQwUTC
 ---
 
 ### AYS Daily Digest 16/04/2021 — European Officials Made Deals With Libyan Coast Guard Knowing People Would Be Left to Die
 ### Greek Migration Ministry Boasts of Decreasing Migration Numbers, Doesn’t Say Why//BVMN Report for March//More Arrivals in Romania
 
 
-![](assets/ceb3d4d5ce75/0*uesEGVd2Ph-TRIr-.jpeg)
+![](../assets/ceb3d4d5ce75/0*uesEGVd2Ph-TRIr-.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----3836d81ff250--------------------------------)
@@ -22,11 +22,11 @@ image:
 [Apr 17](ays-daily-digest-16-04-2021-european-officials-made-deals-with-libyan-coast-guard-knowing-people-3836d81ff250?source=post_page-----3836d81ff250--------------------------------) · 9 min read
 
 
-![](assets/ceb3d4d5ce75/0*nUaWxXaqHOyvsyC4)
+![](../assets/ceb3d4d5ce75/0*nUaWxXaqHOyvsyC4)
 
 
 
-![](assets/ceb3d4d5ce75/0*2IcPPc8ctoAQwUTC)
+![](../assets/ceb3d4d5ce75/0*2IcPPc8ctoAQwUTC)
 
 ### FEATURE
 ### Leaked recordings show Italian officials aware of Libyan Coast Guard’s indifference, cooperated anyway
@@ -72,11 +72,11 @@ Dr\. Martin Binder from Germany has been volunteering in the Kara Tepe camp for 
 Starfish Foundation is hosting a library in the camp\. Learn more about their work [here](https://www.facebook.com/starfishfoundation.org/posts/1420985121569674) \.
 
 
-![](assets/ceb3d4d5ce75/0*rigyDbvltX4KQbzX)
+![](../assets/ceb3d4d5ce75/0*rigyDbvltX4KQbzX)
 
 
 
-![](assets/ceb3d4d5ce75/0*I_kd6BziI2qP4Zne)
+![](../assets/ceb3d4d5ce75/0*I_kd6BziI2qP4Zne)
 
 ### BALKANS
 ### BVMN March report is out
@@ -107,11 +107,11 @@ After arriving, instead of transferring to the mainland, people are trapped in o
 Of course, many people do not make it to the Canary Islands at all\.
 
 
-![](assets/ceb3d4d5ce75/0*7D10pPYGiMu_b_cw)
+![](../assets/ceb3d4d5ce75/0*7D10pPYGiMu_b_cw)
 
 
 
-![](assets/ceb3d4d5ce75/0*QIQNGwiB4lID8zYX)
+![](../assets/ceb3d4d5ce75/0*QIQNGwiB4lID8zYX)
 
 ### GERMANY
 ### Confusion for people coming from Greece

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 02/03/2021: Sea Watch 4 released from blockade and safe port found for Sea Watch 3
+title: "AYS Daily Digest 02/03/2021: Sea Watch 4 released from blockade and safe port found for Sea Watch 3"
 author: Are You Syrious?
 date: 2021-03-03T14:59:52.340+0000
 last_modified_at: 2021-03-03T14:59:52.340+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [europe,libya,mediterranean,italy,afghanistan]
 description: Safe port for 363 survivors on Sea Watch 3 // Sea Watch 4 will finally be back in the Mediterranean // New research shows Afghanistan is…
 image:
-  path: assets/34c928ec035f/1*6MccKliXeQrhWlNrOLcSkQ.jpeg
+  path: ../assets/34c928ec035f/1*6MccKliXeQrhWlNrOLcSkQ.jpeg
 ---
 
 ### AYS Daily Digest 02/03/2021: Sea Watch 4 released from blockade and safe port found for Sea Watch 3
 #### Safe port for 363 survivors on Sea Watch 3 // Sea Watch 4 will finally be back in the Mediterranean // New research shows Afghanistan is not safe for returnees // Libya: main suspects of killing of 30 people arrested // Hungary: ECtHR says Transit zones were unlawful detention // Italy: Updates from Mediterranea — Mare Jonio // & much more …
 
 
-![Copyright: MSF Sea](assets/34c928ec035f/1*6MccKliXeQrhWlNrOLcSkQ.jpeg)
+![Copyright: MSF Sea](../assets/34c928ec035f/1*6MccKliXeQrhWlNrOLcSkQ.jpeg)
 
 Copyright: MSF Sea
 ### Good News\! Safe port found for Sea Watch 3 and end of blockade for Sea Watch 4
@@ -149,7 +149,7 @@ I faced violence of speech from police!
 Two years ago today, the Reuter’s photojournalist Yannis Behrakis died after a long battle with cancer\. He took many of the most touching and humane pictures of people arriving by boat on the Aegean Islands or struggling to make their way to central Europe\. In 2016 he won the Pulitzer Prize for Breaking News Photography\. In this video below he speaks in moving words about his profession, about the ethical aspects of it and about what years of documenting pain and fear means to him\.
 
 
-[![Yannis Behrakis Exclusive Interview on Documenting the Refugee Crisis](assets/34c928ec035f/1f31_hqdefault.jpg "Yannis Behrakis Exclusive Interview on Documenting the Refugee Crisis")](https://www.youtube.com/watch?v=LT_zKa7bxEM)
+[![Yannis Behrakis Exclusive Interview on Documenting the Refugee Crisis](../assets/34c928ec035f/1f31_hqdefault.jpg "Yannis Behrakis Exclusive Interview on Documenting the Refugee Crisis")](https://www.youtube.com/watch?v=LT_zKa7bxEM)
 
 ### HUNGARY
 #### European Court of Human Rights finally ruled that placement in the Hungarian transit zones qualifies as unlawful detention

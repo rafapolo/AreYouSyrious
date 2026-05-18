@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,immigration]
 description: The Greek government plans to end the relocation of people from Idomeni camp by the end of May. Refugees stranded in this camp are…
 image:
-  path: assets/e7f59ad845bc/1*I7T_pHewaV_LgCKt-wp3lw.jpeg
+  path: ../assets/e7f59ad845bc/1*I7T_pHewaV_LgCKt-wp3lw.jpeg
 ---
 
 ### AYS DAILY NEWS DIGEST 5\.5\.2016\.
 #### The Greek government plans to end the relocation of people from Idomeni camp by the end of May\. Refugees stranded in this camp are beginning a new wave of hunger strikes, four of them have sewn up their mouthes\. In Syria, attacks on civilians continue with as many as being 30 killed in one camp near the border with Turkey\. The situation is critical at Vial camp\. Volunteers are needed in Belgrade, where more and more refugees are coming every day\.
 
 
-![Photo by Refugee TV at Idomeni](assets/e7f59ad845bc/1*I7T_pHewaV_LgCKt-wp3lw.jpeg)
+![Photo by Refugee TV at Idomeni](../assets/e7f59ad845bc/1*I7T_pHewaV_LgCKt-wp3lw.jpeg)
 
 Photo by Refugee TV at Idomeni
 #### FEATURE STORY
@@ -31,7 +31,7 @@ The minister also promised that people whose papers have expired \(and around 70
 Currently, 10,124 refugees are living in Idomeni in desperate conditions\. There is no possibility that the border will be open any time soon\. Today, one group of the refugees held a protest again trying to draw attention to the horrible situation in the camp\.
 
 
-![Photo Refugee TV Idomeni](assets/e7f59ad845bc/1*R45Rtfl67yC0oAcCl78EGg.jpeg)
+![Photo Refugee TV Idomeni](../assets/e7f59ad845bc/1*R45Rtfl67yC0oAcCl78EGg.jpeg)
 
 Photo Refugee TV Idomeni
 #### Syria
@@ -40,7 +40,7 @@ Photo Refugee TV Idomeni
 Another deadly attack is reported in Syria\. This time victims are refugees in the al\-Camouna camp near Sarmada in Idlib province, in the northern part of the country\. The Syrian Observatory for Human Rights, a UK\-based monitoring group, reported that 28 people had been killed\. The number of killed could be even higher\.
 
 
-![Activists in the city of Aleppo dye the Martyrs River formerly known \(Queiq\) RED, photo by [Laurent Dan Moeri](https://www.facebook.com/SayitLoud?fref=photo)](assets/e7f59ad845bc/1*OQ2A40w8hsfZ81umgui0zg.jpeg)
+![Activists in the city of Aleppo dye the Martyrs River formerly known \(Queiq\) RED, photo by [Laurent Dan Moeri](https://www.facebook.com/SayitLoud?fref=photo)](../assets/e7f59ad845bc/1*OQ2A40w8hsfZ81umgui0zg.jpeg)
 
 Activists in the city of Aleppo dye the Martyrs River formerly known \(Queiq\) RED, photo by [Laurent Dan Moeri](https://www.facebook.com/SayitLoud?fref=photo)
 ### Jesuit Refugee Service to leave Aleppo due to danger\.
@@ -77,11 +77,11 @@ Volunteers are needed, but organizations are also raising funds to pay for the e
 A free border school under one of the tents near the main camp at Idomeni, opened its “doors” today\. Many of the children who are stranded at this camp stopped their schooling months ago, and this is the first chance for them to go back\. In addition to the school, the tent serves as a room for playing, and also as a space where psychosocial care and trauma management can take place\. The school is run by [Borderfree Association](https://www.facebook.com/borderfreeassociation/?fref=photo) \.
 
 
-![](assets/e7f59ad845bc/1*QqHgGXr2AoMHLaNLZQmpAw.jpeg)
+![](../assets/e7f59ad845bc/1*QqHgGXr2AoMHLaNLZQmpAw.jpeg)
 
 
 
-![Photo by Borderfree Association](assets/e7f59ad845bc/1*gedIqcy3rx8oaN2FLpKSsg.jpeg)
+![Photo by Borderfree Association](../assets/e7f59ad845bc/1*gedIqcy3rx8oaN2FLpKSsg.jpeg)
 
 Photo by Borderfree Association
 

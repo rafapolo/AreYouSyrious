@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 15/5/18: Commissioner for Human Rights addresses authorities of Bosnia and…
+title: "AYS Daily Digest 15/5/18: Commissioner for Human Rights addresses authorities of Bosnia and…"
 author: Are You Syrious?
 date: 2018-05-16T10:58:04.207+0100
 last_modified_at: 2018-05-16T10:58:04.207+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,greece,migration]
 description: Commissioner Mijatović expresses concern over the situation in BiH / Cyprus unfit to accept refugees and welcome asylum seekers / New…
 image:
-  path: assets/524789efccc8/1*8napgnONFJmcNR_cvamWZw.jpeg
+  path: ../assets/524789efccc8/1*8napgnONFJmcNR_cvamWZw.jpeg
 ---
 
 ### AYS Daily Digest 15/5/18: Commissioner for Human Rights addresses authorities of Bosnia and Herzegovina
 #### Commissioner Mijatović expresses concern over the situation in BiH / Cyprus unfit to accept refugees and welcome asylum seekers / New deaths in the Aegean / Greek forum of refugees: the law ignores the people on the islands / Information for refugees in Paris / Detailed info in 7 languages for asylum process in the UK / Aid and volunteers needed / more news and updates
 
 
-![“Moria camp which is expanding every day\. Every day more and more people live there\. Every day more and more people are exposed to appalling conditions thanks to the EU and the Greek government\. Every day more and more vulnerable people will have to wait for months to visit the doctor\. Every day the situation is worsening\. Every day it is becoming more difficult to live there\. The already overcrowded facilities will have to face more and more arrivals and those people will be held there for an indefinite period of time\.” — Photo: [Greek Forum of Refugees](https://www.facebook.com/Greekforumofrefugees/)](assets/524789efccc8/1*8napgnONFJmcNR_cvamWZw.jpeg)
+![“Moria camp which is expanding every day\. Every day more and more people live there\. Every day more and more people are exposed to appalling conditions thanks to the EU and the Greek government\. Every day more and more vulnerable people will have to wait for months to visit the doctor\. Every day the situation is worsening\. Every day it is becoming more difficult to live there\. The already overcrowded facilities will have to face more and more arrivals and those people will be held there for an indefinite period of time\.” — Photo: [Greek Forum of Refugees](https://www.facebook.com/Greekforumofrefugees/)](../assets/524789efccc8/1*8napgnONFJmcNR_cvamWZw.jpeg)
 
 “Moria camp which is expanding every day\. Every day more and more people live there\. Every day more and more people are exposed to appalling conditions thanks to the EU and the Greek government\. Every day more and more vulnerable people will have to wait for months to visit the doctor\. Every day the situation is worsening\. Every day it is becoming more difficult to live there\. The already overcrowded facilities will have to face more and more arrivals and those people will be held there for an indefinite period of time\.” — Photo: [Greek Forum of Refugees](https://www.facebook.com/Greekforumofrefugees/)
 #### FEATURE
@@ -188,11 +188,11 @@ Last week we went to Lesvos\. We visited the Moria camp which is expanding every
 For this, today at 6:30 we will participate at the demonstration in Syntagma\. Join us to make them understand that we are talking about people’s lives, not just numbers\. No one should receive this degrading treatment\.”
 
 
-![](assets/524789efccc8/1*pL_ZGMgqVwbxnM04Aknjeg.jpeg)
+![](../assets/524789efccc8/1*pL_ZGMgqVwbxnM04Aknjeg.jpeg)
 
 
 
-![Photos: [Greek Forum of Refugees](https://www.facebook.com/Greekforumofrefugees/)](assets/524789efccc8/1*CgjnEF7Mw77e8soUrId_fA.jpeg)
+![Photos: [Greek Forum of Refugees](https://www.facebook.com/Greekforumofrefugees/)](../assets/524789efccc8/1*CgjnEF7Mw77e8soUrId_fA.jpeg)
 
 Photos: [Greek Forum of Refugees](https://www.facebook.com/Greekforumofrefugees/)
 ### Volunteering
@@ -273,7 +273,7 @@ While the EU is systematically closing all the possible legal ways for people to
 Starting with 13% of all sea rescues that the volunteer and SAR NGOs have done in the 2015, [it is estimated](https://elpais.com/internacional/2018/05/13/actualidad/1526242362_443394.html?platform=hootsuite) that they completed more than 40% of all sea rescues in 2017\. As much as the NGOs are in need — and asking for — a clear MO on how to approach rescues in the sea \(as it turned out, several were detained after following the maritime law to the letter\), the officials remain focused on their collaboration with Libya, shifting always more responsibility towards their end with the hope they would take over the major part of the operations in the Mediterranean\. Unfortunately, that shows the obvious preoccupation and priority \(just like the Triton, Sophia and Themis have\), which is to be vigilant over borders and movement, not to do everything in order to save lives\.
 
 
-![Photo: [Sea\-Watch](https://www.facebook.com/seawatchprojekt/)](assets/524789efccc8/1*tTmNmuspIWRY2iJLPz2GZA.jpeg)
+![Photo: [Sea\-Watch](https://www.facebook.com/seawatchprojekt/)](../assets/524789efccc8/1*tTmNmuspIWRY2iJLPz2GZA.jpeg)
 
 Photo: [Sea\-Watch](https://www.facebook.com/seawatchprojekt/)
 
@@ -340,11 +340,11 @@ It is necessary to have a telephone, preferably of a local network\.
 For those who do not have a telephone themselves, it is difficult to arrange everything, since a telephone number as a contact is needed, so if nobody can provide them with a mobile phone, they should be directed straight to the host centres \(see the info leaflet below\) \. There are 3 for men and 1 for women and families\. There the people can try to get themselves sent to CAEs, followed by going to prefecture to start their asylum process\. The reception centres are quite full as it is and people are usually sleeping outside the centres as well\.
 
 
-![](assets/524789efccc8/1*cxdJ0iEiWYrnX4b67oBIXQ.jpeg)
+![](../assets/524789efccc8/1*cxdJ0iEiWYrnX4b67oBIXQ.jpeg)
 
 
 
-![](assets/524789efccc8/1*9R86E710NKmB38FRskd4rg.jpeg)
+![](../assets/524789efccc8/1*9R86E710NKmB38FRskd4rg.jpeg)
 
 
 Find a link to the leaflet that can be printed and distributed: [**HERE** \.](https://www.lacimade.org/wp-content/uploads/2018/04/Fiche-maraude-migrants-75-accueils-de-jour.pdf)

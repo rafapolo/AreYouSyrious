@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 08/08/2018: Damning report on huge increase in deaths at sea and detention in…
+title: "AYS Daily Digest 08/08/2018: Damning report on huge increase in deaths at sea and detention in…"
 author: Are You Syrious?
 date: 2018-08-09T11:05:33.128+0100
 last_modified_at: 2018-08-09T11:05:33.128+0100
 categories: Are You Syrious?
 tags: [refugees,digest,human-rights,asylum-seekers,are-you-syrious]
-description: Mass arrests in Morocco / Malta continues to block sea rescues / Libya : Fears and risks of trafficking in 7th most dangerous country in…
+description: "Mass arrests in Morocco / Malta continues to block sea rescues / Libya : Fears and risks of trafficking in 7th most dangerous country in…"
 image:
-  path: assets/6bdf4e6bca0a/1*uHas4ubuCaynYXtQd8CumQ.jpeg
+  path: ../assets/6bdf4e6bca0a/1*uHas4ubuCaynYXtQd8CumQ.jpeg
 ---
 
 ### AYS Daily Digest 08/08/2018: Damning report on huge increase in deaths at sea and detention in Libya
 #### Mass arrests in Morocco / Malta continues to block sea rescues / Libya : Fears and risks of trafficking in 7th most dangerous country in world / Germany creates first refugee deportation agreement with Spain
 
 
-![Photo: Gabriel Tizon on Twitter — “A few days ago we had to help a Syrian woman when she was giving birth in a store in Bosnia\. This is Anisse, a beautiful girl who for her parents symbolizes “to continue fighting for a dignified life”](assets/6bdf4e6bca0a/1*uHas4ubuCaynYXtQd8CumQ.jpeg)
+![Photo: Gabriel Tizon on Twitter — “A few days ago we had to help a Syrian woman when she was giving birth in a store in Bosnia\. This is Anisse, a beautiful girl who for her parents symbolizes “to continue fighting for a dignified life”](../assets/6bdf4e6bca0a/1*uHas4ubuCaynYXtQd8CumQ.jpeg)
 
 Photo: Gabriel Tizon on Twitter — “A few days ago we had to help a Syrian woman when she was giving birth in a store in Bosnia\. This is Anisse, a beautiful girl who for her parents symbolizes “to continue fighting for a dignified life”
 #### [Amnesty International calls on European leaders to take responsibility in light of surging death toll\.](https://www.amnesty.org/en/press-releases/2018/08/responsibility-for-surging-death-toll-in-central-med/)
@@ -114,7 +114,7 @@ Many of those detained are refugees and asylum seekers who should, according to 
 Watch the Med [report mass arrests in Nador](https://www.facebook.com/watchthemed.alarmphone/?hc_ref=ARSczR_oJQSXW0d1oq4odVgE0htYVAyzNONccjT1X35LjIdHvt-15SAK9v2Rn7jDqB8&fref=nf&hc_location=group) \. 500 arrested and 15 vans planned to move migrants to south of country\.
 
 
-![Watch the Med report that 500 Sub\-Saharan migrants have been detained at a police station in Nador\.](assets/6bdf4e6bca0a/1*MFPPGE8JT3gsGUZfbliJ8w.jpeg)
+![Watch the Med report that 500 Sub\-Saharan migrants have been detained at a police station in Nador\.](../assets/6bdf4e6bca0a/1*MFPPGE8JT3gsGUZfbliJ8w.jpeg)
 
 Watch the Med report that 500 Sub\-Saharan migrants have been detained at a police station in Nador\.
 ### SEA

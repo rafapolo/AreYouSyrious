@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 20/10/2017: High tension on Greek islands.. continues
+title: "AYS Daily Digest 20/10/2017: High tension on Greek islands.. continues"
 author: Are You Syrious?
 date: 2017-10-21T02:49:41.382+0100
 last_modified_at: 2017-10-21T10:02:58.893+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,greece,france,european-union,turkey]
 description: Refugees sleeping at the ports again // Protests on Lesvos and Chios // Volunteers needed on the islands // UNHCR failed refugees on trial…
 image:
-  path: assets/764af48ba44/1*iJDu1rf205TI75abmx2UAA.jpeg
+  path: ../assets/764af48ba44/1*iJDu1rf205TI75abmx2UAA.jpeg
 ---
 
 ### AYS Daily Digest 20/10/2017: High tension on Greek islands\. \. continues
@@ -15,7 +15,7 @@ image:
 Refugees sleeping at the ports again // Protests on Lesvos and Chios // Volunteers needed on the islands // UNHCR failed refugees on trial // Almost 900 refugees reach Italy in 4 days // France speeding up deportations // Many on the streets in Paris // EU wants more money for borders // and more
 
 
-![Picture by [**Art Against**](https://www.facebook.com/artagainstproject/?hc_ref=ARTKTi3R5lcOijpIfHxolno1nNChQhQVf9agyo5zcmOTJv4hYvJjO-YhxwCcu2-RDgs&fref=nf)](assets/764af48ba44/1*iJDu1rf205TI75abmx2UAA.jpeg)
+![Picture by [**Art Against**](https://www.facebook.com/artagainstproject/?hc_ref=ARTKTi3R5lcOijpIfHxolno1nNChQhQVf9agyo5zcmOTJv4hYvJjO-YhxwCcu2-RDgs&fref=nf)](../assets/764af48ba44/1*iJDu1rf205TI75abmx2UAA.jpeg)
 
 Picture by [**Art Against**](https://www.facebook.com/artagainstproject/?hc_ref=ARTKTi3R5lcOijpIfHxolno1nNChQhQVf9agyo5zcmOTJv4hYvJjO-YhxwCcu2-RDgs&fref=nf)
 ### Feature
@@ -25,7 +25,7 @@ The last few months since the summer started have seen a new surge of arrivals o
 Continuing the trend of high numbers of arrivals, today Chios saw two boats arriving, the first with 56 people and the second with 80 \(23 men, 20 women and 37 children\), making 136 in total\. In the last two days, more that 400 refugees have arrived on the island, and with the all the space taken already there is little option for the newcomers other than trying to find a place around the premises of VIAL or somewhere else on the street\. Volunteers report that there are so many refugees on the island now that more than 100 will have to sleep at the port, a situation that has not been seen since shortly after the EU\-Turkey agreement came into force\.
 
 
-![New arrivals on Chios — [**FEOX rescue team**](https://www.facebook.com/FEOX-rescue-team-1584119558539350/?hc_ref=ART9DLbbYM4W4vu0ElAXteYzfwNjkip5UfVxqK3B36hcw2hIt68aZNP4suzt7tYrvK0)](assets/764af48ba44/1*C-BADYRwBsaFqASIHaqqpw.jpeg)
+![New arrivals on Chios — [**FEOX rescue team**](https://www.facebook.com/FEOX-rescue-team-1584119558539350/?hc_ref=ART9DLbbYM4W4vu0ElAXteYzfwNjkip5UfVxqK3B36hcw2hIt68aZNP4suzt7tYrvK0)](../assets/764af48ba44/1*C-BADYRwBsaFqASIHaqqpw.jpeg)
 
 New arrivals on Chios — [**FEOX rescue team**](https://www.facebook.com/FEOX-rescue-team-1584119558539350/?hc_ref=ART9DLbbYM4W4vu0ElAXteYzfwNjkip5UfVxqK3B36hcw2hIt68aZNP4suzt7tYrvK0)
 
@@ -59,7 +59,7 @@ The high tensions on VIAL, the hotspot on the island, also led to a protest arou
 On Lesvos, the situation escalated even more and riots erupted in Moria, resulting in the evacuation of NGO personnel\. It was a tense night in Moria and there are reports of people gathering around EASO offices and fights between Syrians and Afghans during the night\.
 
 
-![Photo by **‎ [Mehdi Shams](https://www.facebook.com/profile.php?id=100009192213736&hc_ref=ARQLBIG-AIcEjc4HIdvQ7hZqodAbikRFIMyKHBvF6gHs4XHvMTrGzqP_3uEbmpgGP9k&fref=nf) ‎**](assets/764af48ba44/1*s9UonzvWxqFC1amyY9S9LA.jpeg)
+![Photo by **‎ [Mehdi Shams](https://www.facebook.com/profile.php?id=100009192213736&hc_ref=ARQLBIG-AIcEjc4HIdvQ7hZqodAbikRFIMyKHBvF6gHs4XHvMTrGzqP_3uEbmpgGP9k&fref=nf) ‎**](../assets/764af48ba44/1*s9UonzvWxqFC1amyY9S9LA.jpeg)
 
 Photo by **‎ [Mehdi Shams](https://www.facebook.com/profile.php?id=100009192213736&hc_ref=ARQLBIG-AIcEjc4HIdvQ7hZqodAbikRFIMyKHBvF6gHs4XHvMTrGzqP_3uEbmpgGP9k&fref=nf) ‎**
 
@@ -125,7 +125,7 @@ A new report describes the conditions refugees face when they are sent back to T
 Today it has been a very complicated day on the Greek islands, as reported above, with so many refugees continuing to arrive\. The breakdown of the arrivals for today is:
 
 
-![](assets/764af48ba44/1*K0jPmm64OQ_JnHlEB4-0UA.jpeg)
+![](../assets/764af48ba44/1*K0jPmm64OQ_JnHlEB4-0UA.jpeg)
 
 
 The registrations for today published by the government, which correspond generally to the previous day’s arrivals, are:
@@ -140,7 +140,7 @@ Transfers to the mainland \(total\): 54 \(the day before 246\)
 There are reports also of 20 refugees being sent back to Turkey today\.
 
 
-![[**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/)](assets/764af48ba44/1*I9b43amIyQeFLuaY6P3K6A.png)
+![[**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/)](../assets/764af48ba44/1*I9b43amIyQeFLuaY6P3K6A.png)
 
 [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/)
 
@@ -161,7 +161,7 @@ Due to the situation on the islands, an increasing amount of work is needed to s
 [FEOX rescue team](https://www.facebook.com/FEOX-rescue-team-1584119558539350/) is another group helping on Chios and they also need more volunteers:
 
 
-![](assets/764af48ba44/1*QFaaNX16kaHYAu3N4J6I5w.png)
+![](../assets/764af48ba44/1*QFaaNX16kaHYAu3N4J6I5w.png)
 
 
 **RSA** \(Refugee Support Aegean\) has issued a statement saying that UNHCR failed to stand up for refugees’ rights during what they call the EU\-Turkey deal judgment\.
@@ -329,7 +329,7 @@ EU executive European Commission told the group they needed to immediately chip 
 In the real world what happens is what IOM publishes regularly on the graphs and the last one puts the number of arrivals to Europe this year ay almost 150 thousand\.
 
 
-![](assets/764af48ba44/1*eLEn7pKX_Yrr-829cTzJFw.jpeg)
+![](../assets/764af48ba44/1*eLEn7pKX_Yrr-829cTzJFw.jpeg)
 
 
 

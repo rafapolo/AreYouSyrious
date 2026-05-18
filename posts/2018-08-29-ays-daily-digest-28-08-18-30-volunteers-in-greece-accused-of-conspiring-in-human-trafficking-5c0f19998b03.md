@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 28/08/18: 30 volunteers in Greece accused of conspiring in human trafficking…
+title: "AYS Daily Digest 28/08/18: 30 volunteers in Greece accused of conspiring in human trafficking…"
 author: Are You Syrious?
 date: 2018-08-29T04:47:13.939+0100
 last_modified_at: 2018-08-29T04:47:13.939+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,germany,fascism,greece,human-trafficking]
 description: Over 500 people arrived on the coast of Andalusia this weekend / new arrivals number in Greece and Italy / bloody fascist protest in…
 image:
-  path: assets/5c0f19998b03/1*HGNNxtP-CXVhkj1SzTOd6A.jpeg
+  path: ../assets/5c0f19998b03/1*HGNNxtP-CXVhkj1SzTOd6A.jpeg
 ---
 
 ### AYS Daily Digest 28/08/18: 30 volunteers in Greece accused of conspiring in human trafficking criminal network
@@ -26,7 +26,7 @@ The [3 volunteers](http://www.dailystar.com.lb/News/World/2018/Aug-28/461484-gre
 [One of the volunteers arrested](https://www.independent.co.uk/news/people/yusra-mardini-rio-2016-olympics-womens-swimming-the-syrian-refugee-competing-in-the-olympics-who-a7173546.html) was Sarah Mardini, who made headlines in August 2015 for saving 20 people when she and her sister swam for 3 hours pulling an inflatable boat to shore\. She now attends [Bard College](https://www.protagon.gr/themata/focus/i-istoria-tis-sara-katigoreitai-gia-diakinisi-to-koritsi-pou-eswse-18-metanastes-44341678316) in Berlin, and has many alibis to attest to her taking exams and attending events in Germany during the timeline when she has been accused of trafficking on Lesvos\.
 
 
-![Sarah in Lesvos in 2016 Photo By [Protagon](https://www.protagon.gr/themata/focus/i-istoria-tis-sara-katigoreitai-gia-diakinisi-to-koritsi-pou-eswse-18-metanastes-44341678316)](assets/5c0f19998b03/1*_mCOkEzpvXd14lKVpYpQfA.jpeg)
+![Sarah in Lesvos in 2016 Photo By [Protagon](https://www.protagon.gr/themata/focus/i-istoria-tis-sara-katigoreitai-gia-diakinisi-to-koritsi-pou-eswse-18-metanastes-44341678316)](../assets/5c0f19998b03/1*_mCOkEzpvXd14lKVpYpQfA.jpeg)
 
 Sarah in Lesvos in 2016 Photo By [Protagon](https://www.protagon.gr/themata/focus/i-istoria-tis-sara-katigoreitai-gia-diakinisi-to-koritsi-pou-eswse-18-metanastes-44341678316)
 
@@ -36,7 +36,7 @@ In a downward spiral happening across Europe, Greece seems to be taking more dra
 [In a statement](https://sosmediterranee.com/press/statement-the-aquarius-in-marseille-for-a-technical-port-call/) from SOS Mediterranee, on Monday the Aquarius arrived in Marseille for a technical port call and will sail under a new Panamanian flag\. The formal registration is still being completed at port, which SOS Mediterranee fully supports\. They are planning for the Aquarius to be equipped and ready to leave by the end of next week to continue saving lives\.
 
 
-![Photo By AFP, contributed by [Alarmphone](https://www.facebook.com/watchthemed.alarmphone/photos/a.1526182797655958/2207768552830709/?type=3&theater&ifg=1)](assets/5c0f19998b03/1*6jAfsT2YisuSdE0v7IRbYA.png)
+![Photo By AFP, contributed by [Alarmphone](https://www.facebook.com/watchthemed.alarmphone/photos/a.1526182797655958/2207768552830709/?type=3&theater&ifg=1)](../assets/5c0f19998b03/1*6jAfsT2YisuSdE0v7IRbYA.png)
 
 Photo By AFP, contributed by [Alarmphone](https://www.facebook.com/watchthemed.alarmphone/photos/a.1526182797655958/2207768552830709/?type=3&theater&ifg=1)
 
@@ -50,7 +50,7 @@ In the latest figures from [IOM](https://twitter.com/UNmigration/status/10343400
 [Over 500 people](http://www.ansamed.info/ansamed/it/notizie/rubriche/cronaca/2018/08/28/migranti-spagna-tendopoli-esercito-per-emergenza-sbarchi_af0e0d17-c82f-4571-bdfd-4219dac9d997.html?idPhoto=1) arrived on the coast of Andalusia this weekend in 18 boats\. The Spanish government has set up 17 temporary large army tents as camps to accommodate the increased flow, with 80 military units from the Emergencies Military Unit \(UME\) \. Of the 500 people, around 50% were of Sub\-Saharan African and 18 were minors\.
 
 
-![Photo By [Ansa Med](http://www.ansamed.info/ansamed/it/notizie/rubriche/cronaca/2018/08/28/migranti-spagna-tendopoli-esercito-per-emergenza-sbarchi_af0e0d17-c82f-4571-bdfd-4219dac9d997.html?idPhoto=1)](assets/5c0f19998b03/1*zVxi5CR-1AydKcwDFCjfCw.jpeg)
+![Photo By [Ansa Med](http://www.ansamed.info/ansamed/it/notizie/rubriche/cronaca/2018/08/28/migranti-spagna-tendopoli-esercito-per-emergenza-sbarchi_af0e0d17-c82f-4571-bdfd-4219dac9d997.html?idPhoto=1)](../assets/5c0f19998b03/1*zVxi5CR-1AydKcwDFCjfCw.jpeg)
 
 Photo By [Ansa Med](http://www.ansamed.info/ansamed/it/notizie/rubriche/cronaca/2018/08/28/migranti-spagna-tendopoli-esercito-per-emergenza-sbarchi_af0e0d17-c82f-4571-bdfd-4219dac9d997.html?idPhoto=1)
 ### **Greece**
@@ -71,22 +71,22 @@ New Arrivals to Islands:
 [In UNHCR’s latest data](https://data2.unhcr.org/en/documents/details/65340) , 19,590 people have arrived to Italy from Jan 1 to Aug 26 2018\. The daily average of new arrivals to Italy in august has been 42 and the number of arrivals in the last week as been 316\.
 
 
-![](assets/5c0f19998b03/1*iyXHmDLfJByHIsBdzuTneg.jpeg)
+![](../assets/5c0f19998b03/1*iyXHmDLfJByHIsBdzuTneg.jpeg)
 
 
 
-![Photos By [Caritas Italiana](https://twitter.com/CaritasItaliana/status/1034403035856945152) reporting on the preparation of the reception of 100 people from the Diciotti](assets/5c0f19998b03/1*WsI4ycA2JQtwJ7tffOyz8w.jpeg)
+![Photos By [Caritas Italiana](https://twitter.com/CaritasItaliana/status/1034403035856945152) reporting on the preparation of the reception of 100 people from the Diciotti](../assets/5c0f19998b03/1*WsI4ycA2JQtwJ7tffOyz8w.jpeg)
 
 Photos By [Caritas Italiana](https://twitter.com/CaritasItaliana/status/1034403035856945152) reporting on the preparation of the reception of 100 people from the Diciotti
 
 [Melting Pot Europa](https://www.facebook.com/meltingpoteuropa/posts/2054276641270719?__xts__[0]=68.ARAVwiRx39LzC5aeIwye0QcJ5S_2KlM6YF1epHav1tAicuTy9QYmuzzsaHZhQHewusK4YYotffn7OZaCyFD7ca8MIiLgbleMlI3hjKkuiKAQm3oIdrmu0cmxQWm85W_RkWqzdm0&__tn__=-R) is confirming that the first of the Somali and Eritrian people who were trapped on the Diciotti ship have arrived at the centre for accoglielri, in rocca di papa in Rome\. Fascist protesters were outside of the facility, law enforcement keeping them at bay\. Rocca di papa is still wait for the second bus to arrive from Sicily\.
 
 
-![](assets/5c0f19998b03/1*ttPZOYZhpHxCUfcGAs1g_A.jpeg)
+![](../assets/5c0f19998b03/1*ttPZOYZhpHxCUfcGAs1g_A.jpeg)
 
 
 
-![Opposite messages received at once\. Photo By [Melting Pot Europa](https://www.facebook.com/meltingpoteuropa/posts/2054276641270719?__xts__[0]=68.ARAVwiRx39LzC5aeIwye0QcJ5S_2KlM6YF1epHav1tAicuTy9QYmuzzsaHZhQHewusK4YYotffn7OZaCyFD7ca8MIiLgbleMlI3hjKkuiKAQm3oIdrmu0cmxQWm85W_RkWqzdm0&__tn__=-R)](assets/5c0f19998b03/1*DIZQk2z_JP9XwpXkAiTJNg.jpeg)
+![Opposite messages received at once\. Photo By [Melting Pot Europa](https://www.facebook.com/meltingpoteuropa/posts/2054276641270719?__xts__[0]=68.ARAVwiRx39LzC5aeIwye0QcJ5S_2KlM6YF1epHav1tAicuTy9QYmuzzsaHZhQHewusK4YYotffn7OZaCyFD7ca8MIiLgbleMlI3hjKkuiKAQm3oIdrmu0cmxQWm85W_RkWqzdm0&__tn__=-R)](../assets/5c0f19998b03/1*DIZQk2z_JP9XwpXkAiTJNg.jpeg)
 
 Opposite messages received at once\. Photo By [Melting Pot Europa](https://www.facebook.com/meltingpoteuropa/posts/2054276641270719?__xts__[0]=68.ARAVwiRx39LzC5aeIwye0QcJ5S_2KlM6YF1epHav1tAicuTy9QYmuzzsaHZhQHewusK4YYotffn7OZaCyFD7ca8MIiLgbleMlI3hjKkuiKAQm3oIdrmu0cmxQWm85W_RkWqzdm0&__tn__=-R)
 ### Albania
@@ -105,11 +105,11 @@ In a turn of events, [the Albanian Minister for Europe and Foreign Affairs Ditmi
 [The police](https://www.facebook.com/beyondeurope/posts/1826281687450357?__xts__[0]=68.ARCBI5xJxstax3xmPmm6Diug_UDi_9PLwghCiAmnKvA3JImoLgz5LVMunaZmJUcP6qM5q9_lK_kJBYlsWfUfDcY9QnjUL9279qChrI9PAJKZV-8VLfvTQR1SIOKqOaZMCi-mrPg&__tn__=-R) were not expecting such a huge crowd in response, since only a few cops were on the ground\. The crowd also started tracking down migrants in the streets while journalists had to stop reporting for safety\. Many injuries were reported but nothing severe\.
 
 
-![](assets/5c0f19998b03/1*HGNNxtP-CXVhkj1SzTOd6A.jpeg)
+![](../assets/5c0f19998b03/1*HGNNxtP-CXVhkj1SzTOd6A.jpeg)
 
 
 
-![Photos By [Enough is Enough](https://enoughisenough14.org/2018/08/28/two-nights-of-fascist-terror-in-chemnitz-germany/) this first is from after a man was attacked by fascists](assets/5c0f19998b03/1*n4Q0dq5PgdaOei6vj_9EDA.jpeg)
+![Photos By [Enough is Enough](https://enoughisenough14.org/2018/08/28/two-nights-of-fascist-terror-in-chemnitz-germany/) this first is from after a man was attacked by fascists](../assets/5c0f19998b03/1*n4Q0dq5PgdaOei6vj_9EDA.jpeg)
 
 Photos By [Enough is Enough](https://enoughisenough14.org/2018/08/28/two-nights-of-fascist-terror-in-chemnitz-germany/) this first is from after a man was attacked by fascists
 ### **Switzerland**

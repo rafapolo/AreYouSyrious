@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 28/12/17: 10,000 children are missing in Europe
+title: "AYS Daily Digest 28/12/17: 10,000 children are missing in Europe"
 author: Are You Syrious?
 date: 2017-12-29T00:05:50.090+0000
 last_modified_at: 2017-12-29T00:40:43.576+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,unaccompanied-children,missing-persons,greece,austria]
 description: 1000 children reported missing in Germany this year / Donation needs in Turkey / Rescues at sea / Greek migration minister lies / Transfers…
 image:
-  path: assets/1dce6a5fa884/1*76hVhiXsePfA57MivzIo5Q.jpeg
+  path: ../assets/1dce6a5fa884/1*76hVhiXsePfA57MivzIo5Q.jpeg
 ---
 
 ### AYS Daily Digest 28/12/17: 10,000 children are missing in Europe
@@ -15,7 +15,7 @@ image:
 _1000 children reported missing in Germany this year / Donation needs in Turkey / Rescues at sea / Greek migration minister lies / Transfers to the Greek mainland / Italy sends troops to Niger / Austrians fight deportations / And more news…_
 
 
-![A young Iraqi boy on the island of Lesbos\. How many of these refugee children will become one of the missing in Europe? \(Photo credit: MSF Sea\)](assets/1dce6a5fa884/1*76hVhiXsePfA57MivzIo5Q.jpeg)
+![A young Iraqi boy on the island of Lesbos\. How many of these refugee children will become one of the missing in Europe? \(Photo credit: MSF Sea\)](../assets/1dce6a5fa884/1*76hVhiXsePfA57MivzIo5Q.jpeg)
 
 A young Iraqi boy on the island of Lesbos\. How many of these refugee children will become one of the missing in Europe? \(Photo credit: MSF Sea\)
 ### FEATURE: Over 1000 refugee children reported missing in Germany
@@ -72,7 +72,7 @@ The MSF vessel _Aquarius_ rescued over [1000 people](http://www.sosmediterranee.
 Despite dropping temperatures, and increasingly dangerous conditions, the sea crossings continue\. As Francis Vallat, the president of SOS MEDITERRANEE, the rescue organization that operates the _Aquarius_ alongside MSF, explained, “The crossings of the central Mediterranean continue under conditions of extreme danger in the middle of winter\. Escape by sea remains unfortunately the only option for thousands of people detained in Libya in deplorable conditions\. Faced with this humanitarian tragedy that has claimed more than 3000 lives this year, rescue at sea remains an absolute priority\.”
 
 
-![Photo credit: [Federica Mameli](http://www.federicamameli.com) for SOS MEDITERRANEE\.](assets/1dce6a5fa884/1*pBIR8Sz_8x1bH9Mu3mIKqA.jpeg)
+![Photo credit: [Federica Mameli](http://www.federicamameli.com) for SOS MEDITERRANEE\.](../assets/1dce6a5fa884/1*pBIR8Sz_8x1bH9Mu3mIKqA.jpeg)
 
 Photo credit: [Federica Mameli](http://www.federicamameli.com) for SOS MEDITERRANEE\.
 
@@ -99,7 +99,7 @@ The Greek Minister of Migration, Mr\. Mouzalas, paid a visit to the Moria camp o
 
 
 
-![Refugees trying to warm themselves outside the Moria camp on Lesbos on 21/12/17\. Does anything about this scene look “silly” or “overblown?” \(Photo credit: [Daphne Tolis](https://twitter.com/daphnetoli?lang=en) \)](assets/1dce6a5fa884/1*0UXgnwgnDhQnZ8q6Bh3tIg.jpeg)
+![Refugees trying to warm themselves outside the Moria camp on Lesbos on 21/12/17\. Does anything about this scene look “silly” or “overblown?” \(Photo credit: [Daphne Tolis](https://twitter.com/daphnetoli?lang=en) \)](../assets/1dce6a5fa884/1*0UXgnwgnDhQnZ8q6Bh3tIg.jpeg)
 
 Refugees trying to warm themselves outside the Moria camp on Lesbos on 21/12/17\. Does anything about this scene look “silly” or “overblown?” \(Photo credit: [Daphne Tolis](https://twitter.com/daphnetoli?lang=en) \)
 
@@ -115,7 +115,7 @@ In cooperation with the “ [Sick of Waiting](https://www.facebook.com/SickOfWai
 The [Second Tree](https://www.facebook.com/pg/SecondTree/about/?ref=page_internal) volunteer group has reported the arrival of 127 refugees in the isolated Katsikas camp in northern Greece\. The camp reopened last night for these new arrivals, and has beeen set up for the incoming refugees with the help of volunteers\. While the camp is better and safer than the Moria camp on Lesbos, those on the ground remind us that “a container guarded by the military is not a home\.” The camp is expected to receive another group of people tomorrow, and has a capacity of 500\.
 
 
-![A child by the edge of the Katsikas camp\. \(Photo credit: Second Tree\)](assets/1dce6a5fa884/1*BTBwN68yqTNVqhUs-3Hrfg.jpeg)
+![A child by the edge of the Katsikas camp\. \(Photo credit: Second Tree\)](../assets/1dce6a5fa884/1*BTBwN68yqTNVqhUs-3Hrfg.jpeg)
 
 A child by the edge of the Katsikas camp\. \(Photo credit: Second Tree\)
 
@@ -205,7 +205,7 @@ The [First Aid Support Team](https://www.facebook.com/groups/www.fast.eu/permali
 To support them with material donations, please contact [Joram Melissant](https://www.facebook.com/joram.melissant?fref=gs&hc_ref=ARTS6ZNKT-4EnObKmv7gifzf_85HQ83uos0mlYK3PKlwyz8tIGsBQlPf5wLxGIdogA8&dti=1628341497445694&hc_location=group) , or donate online [here](https://mydonate.bt.com/fundraisers/firstaidsupportteam) \.
 
 
-![The FAST team at work in northern France\. \(Photo credit: FAST\)](assets/1dce6a5fa884/1*0qU-vrqJDFChaDSdh_50uw.jpeg)
+![The FAST team at work in northern France\. \(Photo credit: FAST\)](../assets/1dce6a5fa884/1*0qU-vrqJDFChaDSdh_50uw.jpeg)
 
 The FAST team at work in northern France\. \(Photo credit: FAST\)
 ### AUSTRIA

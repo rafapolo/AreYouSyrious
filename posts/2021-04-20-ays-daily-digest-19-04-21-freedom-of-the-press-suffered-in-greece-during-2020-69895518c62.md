@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,press-freedom,libya]
 description: Are You Syrious?
 image:
-  path: assets/69895518c62/0*Bqyw0vFD4j316T1J
+  path: ../assets/69895518c62/0*Bqyw0vFD4j316T1J
 ---
 
 ### AYS Daily Digest 19/04/21 Freedom of the press suffered in Greece during 2020
 
 
-![](assets/69895518c62/0*yFHagz9OEONszpP1.jpeg)
+![](../assets/69895518c62/0*yFHagz9OEONszpP1.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----778f0f25ea2b--------------------------------)
@@ -23,11 +23,11 @@ image:
 _Bodies returned to Libya // human trafficking by municipalities in Turkey // insight into the revoked resident permits of Syrians in Denmark // and more…_
 
 
-![](assets/69895518c62/0*rpGLUbe8K4SYYPoX)
+![](../assets/69895518c62/0*rpGLUbe8K4SYYPoX)
 
 
 
-![](assets/69895518c62/0*Bqyw0vFD4j316T1J)
+![](../assets/69895518c62/0*Bqyw0vFD4j316T1J)
 
 ### FEATURE: Freedom of the press suffered in Greece during 2020
 

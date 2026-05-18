@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 20/07/2018: Bodies of Woman and Child Abandoned at Sea by Libyan Coast Guard to be…
+title: "AYS Daily Digest 20/07/2018: Bodies of Woman and Child Abandoned at Sea by Libyan Coast Guard to be…"
 author: Are You Syrious?
 date: 2018-07-21T12:28:33.342+0100
 last_modified_at: 2018-07-21T14:49:11.585+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,human-rights,italy,libya]
 description: 69 people arrested in Morocco// The Libyan Government rejects proposal to build migrant centres in Libya// Italian Coast Guard uneasy about…
 image:
-  path: assets/7268f4c84d27/1*EVWLXNsJ2PNfTsEF-6at5w.jpeg
+  path: ../assets/7268f4c84d27/1*EVWLXNsJ2PNfTsEF-6at5w.jpeg
 ---
 
 ### AYS Daily Digest 20/07/2018: Bodies of Woman and Child Abandoned at Sea by Libyan Coast Guard to be disembarked in Mallorca
@@ -15,7 +15,7 @@ image:
 69 people arrested in Morocco// The Libyan Government rejects proposal to build migrant centres in Libya// Italian Coast Guard uneasy about closure of ports// Salvamento Maritimo has rescued 450 persons at sea// SOS Mediterranee is preparing for new mission and changed conditions in the Mediterranean//News from Greece// Bosnia// Italy// France and more…
 
 
-![Source: [Gabriel Tizon](https://www.facebook.com/gabrieltizonfotografo/?hc_ref=ARQljA1M8Q92xvxwiuFT4ViqZ2ovuKwPD1HWeZMPFliDi_cstDBN-WsoiloCRBSIeyo&fref=nf)](assets/7268f4c84d27/1*EVWLXNsJ2PNfTsEF-6at5w.jpeg)
+![Source: [Gabriel Tizon](https://www.facebook.com/gabrieltizonfotografo/?hc_ref=ARQljA1M8Q92xvxwiuFT4ViqZ2ovuKwPD1HWeZMPFliDi_cstDBN-WsoiloCRBSIeyo&fref=nf)](../assets/7268f4c84d27/1*EVWLXNsJ2PNfTsEF-6at5w.jpeg)
 
 Source: [Gabriel Tizon](https://www.facebook.com/gabrieltizonfotografo/?hc_ref=ARQljA1M8Q92xvxwiuFT4ViqZ2ovuKwPD1HWeZMPFliDi_cstDBN-WsoiloCRBSIeyo&fref=nf)
 ### Feature:
@@ -313,11 +313,11 @@ Breakdown:
 An additional five people were dropped off with a speed boat on Samos\.
 
 
-![](assets/7268f4c84d27/1*OBchylRMidBV3TeoJqhp9Q.jpeg)
+![](../assets/7268f4c84d27/1*OBchylRMidBV3TeoJqhp9Q.jpeg)
 
 
 
-![Source: [Salvamento Marítimo Humanitario](https://www.facebook.com/smhumanitario/)](assets/7268f4c84d27/1*Pld7gsFlUunIpauYcwbHOA.jpeg)
+![Source: [Salvamento Marítimo Humanitario](https://www.facebook.com/smhumanitario/)](../assets/7268f4c84d27/1*Pld7gsFlUunIpauYcwbHOA.jpeg)
 
 Source: [Salvamento Marítimo Humanitario](https://www.facebook.com/smhumanitario/)
 #### Greece to change the way it handles migration:
@@ -337,11 +337,11 @@ The ministry is also said to create a new department whose focus will be on hast
 
 
 
-![](assets/7268f4c84d27/1*DYjhrZNqJ6ZAErjrac-XOw.jpeg)
+![](../assets/7268f4c84d27/1*DYjhrZNqJ6ZAErjrac-XOw.jpeg)
 
 
 
-![](assets/7268f4c84d27/1*tqkFPYNTW4XGnOU8uDCRNg.jpeg)
+![](../assets/7268f4c84d27/1*tqkFPYNTW4XGnOU8uDCRNg.jpeg)
 
 #### Mozaic house in need of a new volunteer coordinator to join their team
 
@@ -442,11 +442,11 @@ In addition, the organisation reports that dozens of people are being treated ev
 #### Fence being built in Ventimiglia to prevent people even from sleeping under the bridge
 
 
-![](assets/7268f4c84d27/1*e7tltGbU4ay0vEyFLCEsnQ.jpeg)
+![](../assets/7268f4c84d27/1*e7tltGbU4ay0vEyFLCEsnQ.jpeg)
 
 
 
-![Source: [Progetto20k](https://www.facebook.com/progetto20k/?hc_ref=ARTf06ZvA8jm1jnYR2PRNkfSzT_Ks-yvQ_5YVkfdW0_n_4TfPk0rKAEc_dzpRpbfkMk&fref=nf&hc_location=group)](assets/7268f4c84d27/1*uPewuYWw2i4WUcRJzNtxaw.jpeg)
+![Source: [Progetto20k](https://www.facebook.com/progetto20k/?hc_ref=ARTf06ZvA8jm1jnYR2PRNkfSzT_Ks-yvQ_5YVkfdW0_n_4TfPk0rKAEc_dzpRpbfkMk&fref=nf&hc_location=group)](../assets/7268f4c84d27/1*uPewuYWw2i4WUcRJzNtxaw.jpeg)
 
 Source: [Progetto20k](https://www.facebook.com/progetto20k/?hc_ref=ARTf06ZvA8jm1jnYR2PRNkfSzT_Ks-yvQ_5YVkfdW0_n_4TfPk0rKAEc_dzpRpbfkMk&fref=nf&hc_location=group)
 ### France:
@@ -460,20 +460,20 @@ Source: [Progetto20k](https://www.facebook.com/progetto20k/?hc_ref=ARTf06ZvA8jm1
 
 
 
-![](assets/7268f4c84d27/1*cjFnwbL_9b5wnCbvEqy5ow.jpeg)
+![](../assets/7268f4c84d27/1*cjFnwbL_9b5wnCbvEqy5ow.jpeg)
 
 
 
-![](assets/7268f4c84d27/1*7WQI_6tNp5IWpwGdiALp8Q.jpeg)
+![](../assets/7268f4c84d27/1*7WQI_6tNp5IWpwGdiALp8Q.jpeg)
 
 
 
-![](assets/7268f4c84d27/1*AyrVHhK74BGip1F1VICMHg.jpeg)
+![](../assets/7268f4c84d27/1*AyrVHhK74BGip1F1VICMHg.jpeg)
 
 #### Please read and sign [this petition](http://---  http://petitions.care4calais.org/   ---) by Care4Calais to stop preventable deaths on the Mediterranean
 
 
-![](assets/7268f4c84d27/1*qlQryd94VCNnykQvO8xZiQ.jpeg)
+![](../assets/7268f4c84d27/1*qlQryd94VCNnykQvO8xZiQ.jpeg)
 
 
 

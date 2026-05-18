@@ -1,5 +1,5 @@
 ---
-title: AYS Special from Turkey: Increasing Hate Speech Towards Refugees
+title: "AYS Special from Turkey: Increasing Hate Speech Towards Refugees"
 author: Are You Syrious?
 date: 2021-08-08T15:37:57.677+0100
 last_modified_at: 2021-08-08T16:07:50.932+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [special,turkey,refugees,hate-speech,racism]
 description: Immigration, which has been on Turkey’s agenda since 2011, is being discussed once again with the withdrawal of US soldiers
 image:
-  path: assets/5793753d9c8/1*aDAzITWbrJ6FL3EG55KSTg.jpeg
+  path: ../assets/5793753d9c8/1*aDAzITWbrJ6FL3EG55KSTg.jpeg
 ---
 
 ### **AYS Special from Turkey: Increasing Hate Speech Towards Refugees**
@@ -15,7 +15,7 @@ image:
 _Immigration, which has been on Turkey’s agenda since 2011, is being discussed once again with the withdrawal of US soldiers from Afghanistan leading to the arrival of people fleeing from the Taliban to Turkey\. Unfortunately, this discussion is being carried out with a discourse that focuses on hatred and discrimination\._
 
 
-![\(“People Before Borders”\)](assets/5793753d9c8/1*aDAzITWbrJ6FL3EG55KSTg.jpeg)
+![\(“People Before Borders”\)](../assets/5793753d9c8/1*aDAzITWbrJ6FL3EG55KSTg.jpeg)
 
 \(“People Before Borders”\)
 
@@ -39,14 +39,14 @@ The most important tool in the spread of hate speech in Turkey [is the media](ht
 The main discourse regarding refugees in the media and by politicians is not based on why people have to come to Turkey or whether there is a safe country to which they can return\. Instead, an attempt is made to create a perception that everyone who crosses the border is almost without exception a terrorist, that those who live here stay for arbitrary reasons and that they can return home if they wish with no fear of persecution\.
 
 
-![\(“Afghan invasion in Datca City\.”\)](assets/5793753d9c8/1*M81KoX-LwP4yxOaxpmlLrQ.png)
+![\(“Afghan invasion in Datca City\.”\)](../assets/5793753d9c8/1*M81KoX-LwP4yxOaxpmlLrQ.png)
 
 \(“Afghan invasion in Datca City\.”\)
 
 On the other hand, those who try to build a foundation of shared knowledge based on the facts are told they display an aggressive attitude because they are refugee lobbyists, because they are on the side of refugees, because they receive funding, and even because they are simply humanitarians\. In general, a culture of fear is created on all sides and arrivals are discussed using the language of invasion\.
 
 
-![\(“6\.5 million Afghans may come to Turkey\! Our borders have collapsed\! Around 5 million Syrians came to Turkey very easily\. Now, Afghans are doing the same from the Iranian border\.”\)](assets/5793753d9c8/1*JfbaCS5uvTV3Tg7MmygYIg.png)
+![\(“6\.5 million Afghans may come to Turkey\! Our borders have collapsed\! Around 5 million Syrians came to Turkey very easily\. Now, Afghans are doing the same from the Iranian border\.”\)](../assets/5793753d9c8/1*JfbaCS5uvTV3Tg7MmygYIg.png)
 
 \(“6\.5 million Afghans may come to Turkey\! Our borders have collapsed\! Around 5 million Syrians came to Turkey very easily\. Now, Afghans are doing the same from the Iranian border\.”\)
 #### **UNREALISTIC PROMISES AND FORTHCOMİNG CONFLICTS**
@@ -58,14 +58,14 @@ At the same time, with the effect of conservative and Neo\-Ottoman _ist_ policie
 The promises made are that the refugees will be sent back to their countries without explaining the process, the laws, or the dangers they may face\. Even putting aside the non\-refoulement rule in international conventions, many people have now been in Turkey for up to 10 years, whether they have a place to return to or whether there are still existing security threats in their home country, their stay should be regularised\. No tangible plan has yet been seen on how to safely send millions of people to a partially devastated country where conflict continues, because it is an impossible and immoral task\. Yet the existence of this rhetoric will lead to inevitable conflicts between refugees and local people\.
 
 
-![\(“In our government, we will say goodbye to our Syrian guests and bid them farewell to their hometowns in two years\. This is one of the five most important priorities of our government\. Our plans and programs are ready\. I wanted this video to stay here as well\.” — [Kemal Kılıçdaroğlu](https://l.facebook.com/l.php?u=https%3A%2F%2Ftwitter.com%2Fkilicdarogluk%3Ffbclid%3DIwAR3V1Zg8V7IobN2xyP-wkADPt-6InuJ3p-wx2KPc7AbkJAJZtBpGQAiPlDw&h=AT0rmpoE7tk3ygjlCV3yA37jmrHmx06sRfeWn3Qr32j7HiYMAis32UoXd8PULUaopdbgK-FQX0LIVgze2fHKu7YCrjY_Skyzn90newudWzMi8I_w7__d668kcIs1f7vUWXc) , leader of the CHP, “Republican People’s Party”, and has been Leader of the Main Opposition in Turkey since 2010\)](assets/5793753d9c8/1*Vsa0yZ-2vagWyre2QVTbxA.png)
+![\(“In our government, we will say goodbye to our Syrian guests and bid them farewell to their hometowns in two years\. This is one of the five most important priorities of our government\. Our plans and programs are ready\. I wanted this video to stay here as well\.” — [Kemal Kılıçdaroğlu](https://l.facebook.com/l.php?u=https%3A%2F%2Ftwitter.com%2Fkilicdarogluk%3Ffbclid%3DIwAR3V1Zg8V7IobN2xyP-wkADPt-6InuJ3p-wx2KPc7AbkJAJZtBpGQAiPlDw&h=AT0rmpoE7tk3ygjlCV3yA37jmrHmx06sRfeWn3Qr32j7HiYMAis32UoXd8PULUaopdbgK-FQX0LIVgze2fHKu7YCrjY_Skyzn90newudWzMi8I_w7__d668kcIs1f7vUWXc) , leader of the CHP, “Republican People’s Party”, and has been Leader of the Main Opposition in Turkey since 2010\)](../assets/5793753d9c8/1*Vsa0yZ-2vagWyre2QVTbxA.png)
 
 \(“In our government, we will say goodbye to our Syrian guests and bid them farewell to their hometowns in two years\. This is one of the five most important priorities of our government\. Our plans and programs are ready\. I wanted this video to stay here as well\.” — [Kemal Kılıçdaroğlu](https://l.facebook.com/l.php?u=https%3A%2F%2Ftwitter.com%2Fkilicdarogluk%3Ffbclid%3DIwAR3V1Zg8V7IobN2xyP-wkADPt-6InuJ3p-wx2KPc7AbkJAJZtBpGQAiPlDw&h=AT0rmpoE7tk3ygjlCV3yA37jmrHmx06sRfeWn3Qr32j7HiYMAis32UoXd8PULUaopdbgK-FQX0LIVgze2fHKu7YCrjY_Skyzn90newudWzMi8I_w7__d668kcIs1f7vUWXc) , leader of the CHP, “Republican People’s Party”, and has been Leader of the Main Opposition in Turkey since 2010\)
 
 After the leader of the main opposition party, Kemal Kılıçdaroğlu, shared a video in which he said that he will send refugees back, hate speech and attacks on refugees increased in the country with key public figures amplifying the message of hate speech\.
 
 
-![\(“I don’t want refugees in my country stop the silent invasion It is said that those who go to their country for the holiday have security of life\. \. Then it should stay there\.” — [Arzu Sabancı](https://www.instagram.com/arzusabanci/) , Turkish fashion designer and influencer\)](assets/5793753d9c8/1*e1lVkXYMRTdGRT7MaCZCXQ.png)
+![\(“I don’t want refugees in my country stop the silent invasion It is said that those who go to their country for the holiday have security of life\. \. Then it should stay there\.” — [Arzu Sabancı](https://www.instagram.com/arzusabanci/) , Turkish fashion designer and influencer\)](../assets/5793753d9c8/1*e1lVkXYMRTdGRT7MaCZCXQ.png)
 
 \(“I don’t want refugees in my country stop the silent invasion It is said that those who go to their country for the holiday have security of life\. \. Then it should stay there\.” — [Arzu Sabancı](https://www.instagram.com/arzusabanci/) , Turkish fashion designer and influencer\)
 #### **THE MAGNITUDE OF RACISM AND HATRED IN TURKEY**

@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 19/02/2017: A glimpse hope for some minors stuck in France
+title: "AYS DAILY DIGEST 19/02/2017: A glimpse hope for some minors stuck in France"
 author: Are You Syrious?
 date: 2017-02-20T00:11:13.033+0000
 last_modified_at: 2017-02-20T12:00:08.320+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,france,greece,italy]
 description: Britsh Home Office announces review of new information regarding potential family reunion cases under the Dublin scheme in France / After…
 image:
-  path: assets/e0b255a251a9/1*6ErxGPGWZg2BD7pO43ZfLA.jpeg
+  path: ../assets/e0b255a251a9/1*6ErxGPGWZg2BD7pO43ZfLA.jpeg
 ---
 
 ### AYS DAILY DIGEST 19/02/2017: A glimpse hope for some minors stuck in France
@@ -15,7 +15,7 @@ image:
 _Britsh Home Office announces review of new information regarding potential family reunion cases under the Dublin scheme in France / After the eviction in Paris people were reportedly only hosted for one night and are now back on the streets / Greek authorities want to install pre\-detention centers on Aegean islands and EU’s special envoy on migration wants to reduce number of people there by 50 percent / Sudanese citizens appeal against repatriation from Italy / Smugglers operating in Como arrested / Germany thinks about checking smartphones of asylum seekers without their consent / 9 Afghans, including one woman, deported from Norway\._
 
 
-![Minors playing football with volunteers in Calais\. Credits: [Signal of Solidarity](https://www.facebook.com/SignalofSolidarity/photos/pcb.1878423772395040/1878423695728381/?type=3&theater)](assets/e0b255a251a9/1*6ErxGPGWZg2BD7pO43ZfLA.jpeg)
+![Minors playing football with volunteers in Calais\. Credits: [Signal of Solidarity](https://www.facebook.com/SignalofSolidarity/photos/pcb.1878423772395040/1878423695728381/?type=3&theater)](../assets/e0b255a251a9/1*6ErxGPGWZg2BD7pO43ZfLA.jpeg)
 
 Minors playing football with volunteers in Calais\. Credits: [Signal of Solidarity](https://www.facebook.com/SignalofSolidarity/photos/pcb.1878423772395040/1878423695728381/?type=3&theater)
 
@@ -29,14 +29,14 @@ Organisers of a [petition](https://www.change.org/p/home-secretary-amber-rudd-re
 Reacting to the increasing number of people in Calais, Care4Calais wants to extend its activities and provide art workshops, English and French classes, sports, music and other activities\. If you are interested in joining them or want more information, write an E\-Mail to clare@care4calais\.org\.
 
 
-![Activities for minores\. Credits: [Care4Calais](https://www.facebook.com/care4calais/photos/pcb.1446600265372926/1446600222039597/?type=3&theater)](assets/e0b255a251a9/1*q87S4doJ7kk-eGDpyjdZ4w.jpeg)
+![Activities for minores\. Credits: [Care4Calais](https://www.facebook.com/care4calais/photos/pcb.1446600265372926/1446600222039597/?type=3&theater)](../assets/e0b255a251a9/1*q87S4doJ7kk-eGDpyjdZ4w.jpeg)
 
 Activities for minores\. Credits: [Care4Calais](https://www.facebook.com/care4calais/photos/pcb.1446600265372926/1446600222039597/?type=3&theater)
 
 The Refugee Community Kitchen also sees an increasing number in and around Calais\. Nowadays they distribute between 180 and 200 meals on the ground and additional 160 to 200 meals daily at Secours Catholique, a charity which provides ongoing legal and educational support to refugees in the area\. In Dunkirk their daily distribution remains steady at 500 to 600 meals a day\.
 
 
-![Volunteers preparing food for people in Calais and Dunkirk\. Credits: [Sam Jones](https://www.facebook.com/groups/RefugeeCommunityKitchen/permalink/1331949143539252/)](assets/e0b255a251a9/1*AyfN-bRewsLCfTB9wmmQjQ.jpeg)
+![Volunteers preparing food for people in Calais and Dunkirk\. Credits: [Sam Jones](https://www.facebook.com/groups/RefugeeCommunityKitchen/permalink/1331949143539252/)](../assets/e0b255a251a9/1*AyfN-bRewsLCfTB9wmmQjQ.jpeg)
 
 Volunteers preparing food for people in Calais and Dunkirk\. Credits: [Sam Jones](https://www.facebook.com/groups/RefugeeCommunityKitchen/permalink/1331949143539252/)
 
@@ -83,7 +83,7 @@ In a draft “‎for better enforcement of the ‎obligation to leave” the int
 Only yesterday SouldWelders in Belgrade distributed ten cubic meters of firewood\. Further they built up three grills and made a barbecue for the people stuck in capital of Serbia\. “ We created a great atmosphere with Afghani and Pakistani music, 3 grills burning to cook chicken for everybody and a lot of volunteers and refugees working together to feed people with meat,” they report\.
 
 
-![Barbecue for Belgrade\. Credits: [SoulWelders](https://www.facebook.com/SoulWelders/posts/706100299592006)](assets/e0b255a251a9/1*aPwiGpmECibB2FxLiaowVQ.jpeg)
+![Barbecue for Belgrade\. Credits: [SoulWelders](https://www.facebook.com/SoulWelders/posts/706100299592006)](../assets/e0b255a251a9/1*aPwiGpmECibB2FxLiaowVQ.jpeg)
 
 Barbecue for Belgrade\. Credits: [SoulWelders](https://www.facebook.com/SoulWelders/posts/706100299592006)
 

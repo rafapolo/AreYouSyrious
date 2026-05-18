@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest: 28/04/17 Walls on top of walls
+title: "AYS Daily Digest: 28/04/17 Walls on top of walls"
 author: Are You Syrious?
 date: 2017-04-29T05:18:13.533+0100
 last_modified_at: 2017-04-29T10:02:53.280+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,hungary,turkey,france]
 description: Three hospitals bombed in Idlib // EU expects to finish payments to Turkey this year // Squat evicted on Lesvos // Declaration from…
 image:
-  path: assets/af525d13ad64/1*DHzENJlgufX4iPINkETdUA.jpeg
+  path: ../assets/af525d13ad64/1*DHzENJlgufX4iPINkETdUA.jpeg
 ---
 
 ### AYS Daily Digest: 28/04/17 Walls on top of walls
 #### Three hospitals bombed in Idlib // EU expects to finish payments to Turkey this year // Squat evicted on Lesvos // Declaration from Dodecanese groups // Donations needed in France and Italy
 
 
-![Photo by Elena Seina](assets/af525d13ad64/1*DHzENJlgufX4iPINkETdUA.jpeg)
+![Photo by Elena Seina](../assets/af525d13ad64/1*DHzENJlgufX4iPINkETdUA.jpeg)
 
 Photo by Elena Seina
 ### Feature
@@ -22,7 +22,7 @@ Photo by Elena Seina
 Only two days after it was announced that Turkey had completed the first phase of the projected 900\-km\-long wall with Syria, today Hungary told the world they have finished a second fence along the border with Serbia to prevent refugees from entering the country\. Hungarian Interior Ministry State Secretary Karoly Kontrat stated that the newly completed fence was a way to defend not only Hungary but also the European Union, saying Hungary was only defending its borders and Schengen zone at the same time\.
 
 
-![](assets/af525d13ad64/1*QBSkxYbBBx4g2PfmXZyDjw.jpeg)
+![](../assets/af525d13ad64/1*QBSkxYbBBx4g2PfmXZyDjw.jpeg)
 
 
 This second layer of “defence” includes motion and heat sensors, night cameras and speakers shouting warnings in five languages and it’s portrayed as a “smart fence”\. It’s quite remarkable how a multi\-million euro fence built on another one, using national and European funds, with the only purpose of keeping out a potential working and wealth force that is only looking for a little space to rebuild their lives can be called smart\. Insane racism at its best\.
@@ -60,7 +60,7 @@ Anadolu news agency said 35 people have been caught in western Turkey attempting
 [**MSF Sea**](https://twitter.com/MSF_Sea) reported today that they had rescued 92 people from two small boats at sea\. Some were weak and some fainted, but everyone was rescued safely and all of them recovered in the end\.
 
 
-![Photo by [**MSF Sea**](https://twitter.com/MSF_Sea)](assets/af525d13ad64/1*rVKIe3w35dBrSPNjCEpRag.jpeg)
+![Photo by [**MSF Sea**](https://twitter.com/MSF_Sea)](../assets/af525d13ad64/1*rVKIe3w35dBrSPNjCEpRag.jpeg)
 
 Photo by [**MSF Sea**](https://twitter.com/MSF_Sea)
 
@@ -69,7 +69,7 @@ The team is looking for a medic to join the team in Rome and oversee their migra
 IOM has published a new updated table with the numbers of arrivals in Europe in 2017\.
 
 
-![](assets/af525d13ad64/1*9uK92RCYB2_ODkBWSdorIQ.png)
+![](../assets/af525d13ad64/1*9uK92RCYB2_ODkBWSdorIQ.png)
 
 
 IOM Greece reported on Thursday that authorities have no new information about as many as 12 missing migrants who were believed to have been on a boat that capsized off Lesvos earlier this week\.
@@ -91,7 +91,7 @@ After the meeting, the hunger strike was stopped\. This is the statement from on
 In better news from the island, volunteers and refugees announced today that OHF radio is on air now and they will be playing musical programs\.
 
 
-![Photo by [**OHF Radio**](https://www.facebook.com/ohfradio/)](assets/af525d13ad64/1*Me15e394ralYPqlHerv4mg.jpeg)
+![Photo by [**OHF Radio**](https://www.facebook.com/ohfradio/)](../assets/af525d13ad64/1*Me15e394ralYPqlHerv4mg.jpeg)
 
 Photo by [**OHF Radio**](https://www.facebook.com/ohfradio/)
 #### Chios
@@ -99,7 +99,7 @@ Photo by [**OHF Radio**](https://www.facebook.com/ohfradio/)
 There were 60 arrivals on the island today in the afternoon, including 33 children as reported by Drop in the Ocean\. They have been providing solid bags with wheels to refugees so that they can take their belongings with them to their next temporary destination\.
 
 
-![Photo by [**Dråpen i Havet**](https://www.facebook.com/drapenihavet/)](assets/af525d13ad64/1*eKLDfJwnMwRiXourwKTzLw.jpeg)
+![Photo by [**Dråpen i Havet**](https://www.facebook.com/drapenihavet/)](../assets/af525d13ad64/1*eKLDfJwnMwRiXourwKTzLw.jpeg)
 
 Photo by [**Dråpen i Havet**](https://www.facebook.com/drapenihavet/)
 
@@ -159,12 +159,12 @@ For more information, please follow the link above\.
 [A Drop in the Ocean](http://Dråpen i Havet) are really busy at the moment building a a free marketplace within Skaramagas camp, with the aim of providing regular distribution of clothing for approximately 3000 residents\. Once completed, this much\-needed service will offer Skaramagas residents a regular opportunity to spend their virtual currency — ‘Drops’ — on ‘purchasing’ what they need from a range of clothes on offer\.
 
 
-![Photo by [**Dråpen i Havet**](https://www.facebook.com/drapenihavet/)](assets/af525d13ad64/1*rtS627ImOBAVPe5i0p9AWg.jpeg)
+![Photo by [**Dråpen i Havet**](https://www.facebook.com/drapenihavet/)](../assets/af525d13ad64/1*rtS627ImOBAVPe5i0p9AWg.jpeg)
 
 Photo by [**Dråpen i Havet**](https://www.facebook.com/drapenihavet/)
 
 
-![Photo by [**Dråpen i Havet**](https://www.facebook.com/drapenihavet/)](assets/af525d13ad64/1*Pc1yh8qSHE7TqcFUv0tWow.jpeg)
+![Photo by [**Dråpen i Havet**](https://www.facebook.com/drapenihavet/)](../assets/af525d13ad64/1*Pc1yh8qSHE7TqcFUv0tWow.jpeg)
 
 Photo by [**Dråpen i Havet**](https://www.facebook.com/drapenihavet/)
 

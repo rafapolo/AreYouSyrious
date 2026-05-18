@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 28/10/20: A traumatic wake up for hundreds forcibly moved to a camp in the south…
+title: "AYS Daily Digest 28/10/20: A traumatic wake up for hundreds forcibly moved to a camp in the south…"
 author: Are You Syrious?
 date: 2020-10-29T16:09:12.240+0000
 last_modified_at: 2020-10-29T17:47:14.706+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,europe,serbia,refugees,migration]
 description: Worrying developments in Serbia / In spite of criticism and inhumane treatment by the police, Croatia and Greece receive big support for…
 image:
-  path: assets/87ddfc5aad08/0*cFSYA9VrN7A6sof1
+  path: ../assets/87ddfc5aad08/0*cFSYA9VrN7A6sof1
 ---
 
 ### AYS Daily Digest 28/10/20: A traumatic wake\-up for hundreds forcibly moved to a camp in the south of Serbia
 #### Worrying developments in Serbia / In spite of criticism and inhumane treatment by the police, Croatia and Greece receive big support for the border regime / More on the tragedy of the Iranian family who drowned / Court decides Belgium breached international law when it deported a Sudanese person to Khartoum / Locked up on Samos / & more news
 
 
-![“A group was returned from Hungary to Serbia\. Among them is the 19\-year old who has received multiple blows with a bat to his head and legs\. With the assistance of the APC team, he was later admitted to the ER, where his head wound was stitched”, reported Asylum Protection Centre\.](assets/87ddfc5aad08/0*cFSYA9VrN7A6sof1)
+![“A group was returned from Hungary to Serbia\. Among them is the 19\-year old who has received multiple blows with a bat to his head and legs\. With the assistance of the APC team, he was later admitted to the ER, where his head wound was stitched”, reported Asylum Protection Centre\.](../assets/87ddfc5aad08/0*cFSYA9VrN7A6sof1)
 
 “A group was returned from Hungary to Serbia\. Among them is the 19\-year old who has received multiple blows with a bat to his head and legs\. With the assistance of the APC team, he was later admitted to the ER, where his head wound was stitched”, reported Asylum Protection Centre\.
 #### FEATURE
@@ -48,15 +48,15 @@ In the early hours of Wednesday morning, members of the Border Violence Monitori
 On one of the buses, a member of the group asked officers where they were being taken, andthey were told “to Turkey”\. One individual from the group, a Moroccan male, reports that he has been the **victim of a chain pushback from Austria to Hungary to Serbia** , and sent us images of severe injuries perpetrated by officers\.
 
 
-![](assets/87ddfc5aad08/0*lWkpucrqWPGVShRX)
+![](../assets/87ddfc5aad08/0*lWkpucrqWPGVShRX)
 
 
 
-![](assets/87ddfc5aad08/0*KGulCx4_qmWiduq-)
+![](../assets/87ddfc5aad08/0*KGulCx4_qmWiduq-)
 
 
 
-![](assets/87ddfc5aad08/0*SbhsOSulGehCARAd)
+![](../assets/87ddfc5aad08/0*SbhsOSulGehCARAd)
 
 
 Eventually the buses reached Preševo camp where they were met by large groups of paramilitarised officers who moved them from the buses into large rooms; they were told that they should not leave these rooms, essentially **placing them in de facto detention** \. Whilst some of our contacts on the inside report optimistically that they hope to get papers regularising their stay and be released in the coming days or weeks, others are under extreme stress and fearful of a pushback to Macedonia, which could result in a chain that eventually takes them back into Turkey\.
@@ -77,7 +77,7 @@ There is not enough accommodation for everyone in Serbia at the moment\. The asy
 As reported earlier, there are radical groups who have an agenda regarding the people on the move, organising protests and “people’s patrols”\.
 
 
-![Photo and info from No Name Kitchen](assets/87ddfc5aad08/1*zIO3bQnV1-pi03PQCQEhZQ.jpeg)
+![Photo and info from No Name Kitchen](../assets/87ddfc5aad08/1*zIO3bQnV1-pi03PQCQEhZQ.jpeg)
 
 Photo and info from No Name Kitchen
 
@@ -96,7 +96,7 @@ NNK is still running the _Health on the Move_ project, identifying cases of peop
 First Reception and police officers are now in PIKPA to start eviction of the camps and a move of the residents to the “old” Kara Tepe\. Two buses and one military truck \(to take the residents’ luggage\) are at PIKPA for this reason\. Lawyers and press are informed\.
 
 
-![](assets/87ddfc5aad08/0*HguaPABl9UuC7Cl0)
+![](../assets/87ddfc5aad08/0*HguaPABl9UuC7Cl0)
 
 
 — AYS will report more about this, and will be publishing a Special on the topic\.
@@ -171,7 +171,7 @@ How much more does it take to end this?
 ### Too many life vests aboard these ships
 
 
-![Photo: [Mediterranea Saving Humans](https://www.facebook.com/Mediterranearescue/?__cft__[0]=AZW06bt7gMlfmMVQovXt3-w3jmvJQeHwgvDEpNzsQ69fSzwO55lrANL2XyCtBmdtnjYkFDXYIkXv2xWYUHMOllVbKqkg6R-dDH6xHtXrnTKf_Ycx_Q3N62pskBuxgh3ZFfiC99j_5UTbpAKPs2NfhJxA_kFIqPk8Q34Y-Tq35RxlyvS_xpaK3c3MtxGj94dI22POyCMiR4yMJA2BWOQ7qZ7w&__tn__=-UC%2CP-y-R)](assets/87ddfc5aad08/0*b1Z7OBXE7M_oZvDV)
+![Photo: [Mediterranea Saving Humans](https://www.facebook.com/Mediterranearescue/?__cft__[0]=AZW06bt7gMlfmMVQovXt3-w3jmvJQeHwgvDEpNzsQ69fSzwO55lrANL2XyCtBmdtnjYkFDXYIkXv2xWYUHMOllVbKqkg6R-dDH6xHtXrnTKf_Ycx_Q3N62pskBuxgh3ZFfiC99j_5UTbpAKPs2NfhJxA_kFIqPk8Q34Y-Tq35RxlyvS_xpaK3c3MtxGj94dI22POyCMiR4yMJA2BWOQ7qZ7w&__tn__=-UC%2CP-y-R)](../assets/87ddfc5aad08/0*b1Z7OBXE7M_oZvDV)
 
 Photo: [Mediterranea Saving Humans](https://www.facebook.com/Mediterranearescue/?__cft__[0]=AZW06bt7gMlfmMVQovXt3-w3jmvJQeHwgvDEpNzsQ69fSzwO55lrANL2XyCtBmdtnjYkFDXYIkXv2xWYUHMOllVbKqkg6R-dDH6xHtXrnTKf_Ycx_Q3N62pskBuxgh3ZFfiC99j_5UTbpAKPs2NfhJxA_kFIqPk8Q34Y-Tq35RxlyvS_xpaK3c3MtxGj94dI22POyCMiR4yMJA2BWOQ7qZ7w&__tn__=-UC%2CP-y-R)
 
@@ -221,11 +221,11 @@ Read more on the case [here\.](https://www.amnesty.org/en/latest/news/2020/10/be
 ### Call for school supplies for Melilla
 
 
-![](assets/87ddfc5aad08/0*R7EZ79xZ_Ompk_kv)
+![](../assets/87ddfc5aad08/0*R7EZ79xZ_Ompk_kv)
 
 
 
-![](assets/87ddfc5aad08/0*QREJ_o0DOEspW4GS)
+![](../assets/87ddfc5aad08/0*QREJ_o0DOEspW4GS)
 
 #### EU
 ### Saying one thing, paying for the other

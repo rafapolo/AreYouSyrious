@@ -1,5 +1,5 @@
 ---
-title: AYS DIGEST: 29/12 —Are the camps prepared for the cold?
+title: "AYS DIGEST: 29/12 —Are the camps prepared for the cold?"
 author: Are You Syrious?
 date: 2016-12-30T03:39:50.183+0000
 last_modified_at: 2016-12-30T15:22:50.357+0000
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,greece,serbia,austria]
 description: New ceasefire in Syria to start at midnight/Widespread support for arrested volunteers/Austria threatens refugee homelands with…
 image:
-  path: assets/5e931d1e502f/1*RhS9bNhc-RrzSEHi-uzhfQ.jpeg
+  path: ../assets/5e931d1e502f/1*RhS9bNhc-RrzSEHi-uzhfQ.jpeg
 ---
 
 ### AYS DIGEST: 29/12 —Are the camps prepared for the cold?
 ### New ceasefire in Syria to start at midnight/Widespread support for arrested volunteers/Austria threatens refugee homelands with sanctions/Bavarian lawmakers want to return boats to Africa
 
 
-![Photo by [**Art Against**](https://www.facebook.com/artagainstproject/?hc_ref=PAGES_TIMELINE&fref=nf)](assets/5e931d1e502f/1*RhS9bNhc-RrzSEHi-uzhfQ.jpeg)
+![Photo by [**Art Against**](https://www.facebook.com/artagainstproject/?hc_ref=PAGES_TIMELINE&fref=nf)](../assets/5e931d1e502f/1*RhS9bNhc-RrzSEHi-uzhfQ.jpeg)
 
 Photo by [**Art Against**](https://www.facebook.com/artagainstproject/?hc_ref=PAGES_TIMELINE&fref=nf)
 ### Syria
@@ -30,7 +30,7 @@ On one side of the deal are Syrian government forces, their factional allies and
 This deal does not include the Kurdish Popular Protection Units \(YPG\) which, along with other Kurdish militias, control a large area of northern Syria on the Turkish border\. The YPG is regarded by Turkey as a terrorist organisation and an extension of the banned Kurdistan Workers’ Party \(PKK\) \.
 
 
-![](assets/5e931d1e502f/1*fpIrZZLlUAYl5FT3gNt1Ag.png)
+![](../assets/5e931d1e502f/1*fpIrZZLlUAYl5FT3gNt1Ag.png)
 
 
 According to Putin, the agreement has 3 key points: the ceasefire itself, measures for overseeing the truce, and the start of peace talks between both sides\. Under the terms of the deal, the peace talks would begin within a month of the ceasefire taking effect and would be held in the capital of Kazakhstan, Astana\.
@@ -40,7 +40,7 @@ Although conditions on the ground have changed since previous ceasefire attempts
 In the interim, fighting continues to rage in the country; we recently received reports of 14 people being killed and many more injured in east Ghouda after Russian airstrikes and mortar fire\.
 
 
-![Photo by [**Free Syria — Salam**](https://www.facebook.com/Free.SyriaSalam/)](assets/5e931d1e502f/1*mtMNgyVNbGX5c0y8ROuTsQ.jpeg)
+![Photo by [**Free Syria — Salam**](https://www.facebook.com/Free.SyriaSalam/)](../assets/5e931d1e502f/1*mtMNgyVNbGX5c0y8ROuTsQ.jpeg)
 
 Photo by [**Free Syria — Salam**](https://www.facebook.com/Free.SyriaSalam/)
 
@@ -58,87 +58,87 @@ These are some examples of how **wrong and uninformed** the minister is about th
 Derveni\-Alexi \(Northern Greece\)
 
 
-![Photo by [**Ruhi Loren Akhtar**](https://www.facebook.com/ruhi.akhtar.7)](assets/5e931d1e502f/1*JIiZ7dMJo9L4-UCsS2ou0g.jpeg)
+![Photo by [**Ruhi Loren Akhtar**](https://www.facebook.com/ruhi.akhtar.7)](../assets/5e931d1e502f/1*JIiZ7dMJo9L4-UCsS2ou0g.jpeg)
 
 Photo by [**Ruhi Loren Akhtar**](https://www.facebook.com/ruhi.akhtar.7)
 
 Vagiohori \(Northern Greece\)
 
 
-![Photo by [**Ruhi Loren Akhtar**](https://www.facebook.com/ruhi.akhtar.7)](assets/5e931d1e502f/1*J5CNxz3hlcrHkPHLLptcMg.jpeg)
+![Photo by [**Ruhi Loren Akhtar**](https://www.facebook.com/ruhi.akhtar.7)](../assets/5e931d1e502f/1*J5CNxz3hlcrHkPHLLptcMg.jpeg)
 
 Photo by [**Ruhi Loren Akhtar**](https://www.facebook.com/ruhi.akhtar.7)
 
 Vasilika \(Northern Greece\)
 
 
-![Photo by [**Chania Helps Refugees**](https://www.facebook.com/groups/ChaniaHelpsRefugees/permalink/1446205585506012/)](assets/5e931d1e502f/1*MFNubkgi5QfZhPpe4lB12g.jpeg)
+![Photo by [**Chania Helps Refugees**](https://www.facebook.com/groups/ChaniaHelpsRefugees/permalink/1446205585506012/)](../assets/5e931d1e502f/1*MFNubkgi5QfZhPpe4lB12g.jpeg)
 
 Photo by [**Chania Helps Refugees**](https://www.facebook.com/groups/ChaniaHelpsRefugees/permalink/1446205585506012/)
 
 
-![Photo by [**Chania Helps Refugees**](https://www.facebook.com/groups/ChaniaHelpsRefugees/permalink/1446205585506012/)](assets/5e931d1e502f/1*pLiO6O_5ExT54BppIWpAHA.jpeg)
+![Photo by [**Chania Helps Refugees**](https://www.facebook.com/groups/ChaniaHelpsRefugees/permalink/1446205585506012/)](../assets/5e931d1e502f/1*pLiO6O_5ExT54BppIWpAHA.jpeg)
 
 Photo by [**Chania Helps Refugees**](https://www.facebook.com/groups/ChaniaHelpsRefugees/permalink/1446205585506012/)
 
 Softex \(Northern Greece\)
 
 
-![Photo by [**Sainab Abdi**](https://www.facebook.com/sainab.abdi)](assets/5e931d1e502f/1*6-zaFVLsHRC-Peyi67TmDw.jpeg)
+![Photo by [**Sainab Abdi**](https://www.facebook.com/sainab.abdi)](../assets/5e931d1e502f/1*6-zaFVLsHRC-Peyi67TmDw.jpeg)
 
 Photo by [**Sainab Abdi**](https://www.facebook.com/sainab.abdi)
 
 Oreokastro \- with regular power cuts \(Northern Greece\)
 
 
-![Photo by [**Ruhi Loren Akhtar**](https://www.facebook.com/ruhi.akhtar.7)](assets/5e931d1e502f/1*Cjjh4ahp_6JHn2tOFids0g.jpeg)
+![Photo by [**Ruhi Loren Akhtar**](https://www.facebook.com/ruhi.akhtar.7)](../assets/5e931d1e502f/1*Cjjh4ahp_6JHn2tOFids0g.jpeg)
 
 Photo by [**Ruhi Loren Akhtar**](https://www.facebook.com/ruhi.akhtar.7)
 
 Some refugees have to use rudimentary ways to generate heat\.
 
 
-![Photo by [**Ruhi Loren Akhtar**](https://www.facebook.com/ruhi.akhtar.7)](assets/5e931d1e502f/1*xVSOtoodBCh8xJ0r_6Qz0Q.jpeg)
+![Photo by [**Ruhi Loren Akhtar**](https://www.facebook.com/ruhi.akhtar.7)](../assets/5e931d1e502f/1*xVSOtoodBCh8xJ0r_6Qz0Q.jpeg)
 
 Photo by [**Ruhi Loren Akhtar**](https://www.facebook.com/ruhi.akhtar.7)
 
 Malakasa \(Southern Greece\)
 
 
-![Photo by [**HeimatsternMünchen**](https://twitter.com/Heimatstern_org)](assets/5e931d1e502f/1*W6BgqPQ6xe0uNBpRBAVTuw.jpeg)
+![Photo by [**HeimatsternMünchen**](https://twitter.com/Heimatstern_org)](../assets/5e931d1e502f/1*W6BgqPQ6xe0uNBpRBAVTuw.jpeg)
 
 Photo by [**HeimatsternMünchen**](https://twitter.com/Heimatstern_org)
 
 Oinofita \(Southern Greece\)
 
 
-![Photo by [**Art Against**](https://www.facebook.com/artagainstproject/)](assets/5e931d1e502f/1*gLLevq779Fm9hprAS5N9tQ.jpeg)
+![Photo by [**Art Against**](https://www.facebook.com/artagainstproject/)](../assets/5e931d1e502f/1*gLLevq779Fm9hprAS5N9tQ.jpeg)
 
 Photo by [**Art Against**](https://www.facebook.com/artagainstproject/)
 
 Moria \(Lesvos\)
 
 
-![Photo by [@MSF\_Sea](https://twitter.com/MSF_Sea)](assets/5e931d1e502f/1*ENu2pO-UHzvIpUhXlosQrw.jpeg)
+![Photo by [@MSF\_Sea](https://twitter.com/MSF_Sea)](../assets/5e931d1e502f/1*ENu2pO-UHzvIpUhXlosQrw.jpeg)
 
 Photo by [@MSF\_Sea](https://twitter.com/MSF_Sea)
 
 Souda \(Chios\)
 
 
-![Photo by [**Leslie Meral Schick**](https://www.facebook.com/leslie.schick?fref=nf)](assets/5e931d1e502f/1*KsX5uoS2Xy1hlhyj0BeIvg.jpeg)
+![Photo by [**Leslie Meral Schick**](https://www.facebook.com/leslie.schick?fref=nf)](../assets/5e931d1e502f/1*KsX5uoS2Xy1hlhyj0BeIvg.jpeg)
 
 Photo by [**Leslie Meral Schick**](https://www.facebook.com/leslie.schick?fref=nf)
 
 Samos
 
 
-![Photo by [**Samos Volunteers**](https://www.facebook.com/samosvolunteers/)](assets/5e931d1e502f/1*eXIdyOL4KOrbBbXbrUZ2cA.jpeg)
+![Photo by [**Samos Volunteers**](https://www.facebook.com/samosvolunteers/)](../assets/5e931d1e502f/1*eXIdyOL4KOrbBbXbrUZ2cA.jpeg)
 
 Photo by [**Samos Volunteers**](https://www.facebook.com/samosvolunteers/)
 
 
-![Photo by [**Samos Volunteers**](https://www.facebook.com/samosvolunteers/)](assets/5e931d1e502f/1*qcHvUA6SXO7M2pM2UpCFKQ.jpeg)
+![Photo by [**Samos Volunteers**](https://www.facebook.com/samosvolunteers/)](../assets/5e931d1e502f/1*qcHvUA6SXO7M2pM2UpCFKQ.jpeg)
 
 Photo by [**Samos Volunteers**](https://www.facebook.com/samosvolunteers/)
 
@@ -147,7 +147,7 @@ It’s difficult to understand where the minister is getting his updates from, b
 Even the **evacuation of the Katsikas camp today** and the transfer of all the refugees to a hotel gives us another example of the inaccurate information Mr\. Mouzalas delivered yesterday\. At that time almost 200 refugees were living in tents like these:
 
 
-![Photo by [**KatsikasLive**](https://www.facebook.com/muhammadalisyria/)](assets/5e931d1e502f/1*MUHNuNNMNfHALOC4xQF2Cw.jpeg)
+![Photo by [**KatsikasLive**](https://www.facebook.com/muhammadalisyria/)](../assets/5e931d1e502f/1*MUHNuNNMNfHALOC4xQF2Cw.jpeg)
 
 Photo by [**KatsikasLive**](https://www.facebook.com/muhammadalisyria/)
 
@@ -297,12 +297,12 @@ In better news, there has been some great work done throughout Greece, with grou
 [Intervolve](http://InterVolve - International Volunteers) have been distributing shoes and diapers to hundreds of refugees at Softex camp\.
 
 
-![Photo by [**InterVolve — International Volunteers**](https://www.facebook.com/InterVolve-International-Volunteers-219418945063168/)](assets/5e931d1e502f/1*5KypEvFBNwHE6wVoMm7-jQ.jpeg)
+![Photo by [**InterVolve — International Volunteers**](https://www.facebook.com/InterVolve-International-Volunteers-219418945063168/)](../assets/5e931d1e502f/1*5KypEvFBNwHE6wVoMm7-jQ.jpeg)
 
 Photo by [**InterVolve — International Volunteers**](https://www.facebook.com/InterVolve-International-Volunteers-219418945063168/)
 
 
-![Photo by [**InterVolve — International Volunteers**](https://www.facebook.com/InterVolve-International-Volunteers-219418945063168/)](assets/5e931d1e502f/1*2v3t4Pwh2JNf4tH6wMKhmA.jpeg)
+![Photo by [**InterVolve — International Volunteers**](https://www.facebook.com/InterVolve-International-Volunteers-219418945063168/)](../assets/5e931d1e502f/1*2v3t4Pwh2JNf4tH6wMKhmA.jpeg)
 
 Photo by [**InterVolve — International Volunteers**](https://www.facebook.com/InterVolve-International-Volunteers-219418945063168/)
 
@@ -349,7 +349,7 @@ To continue this important work in 2017, they need help to purchase the material
 
 
 
-![Photo by [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGreece/)](assets/5e931d1e502f/1*7ljIZwAoaQrnG0ZC8fpwuQ.jpeg)
+![Photo by [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGreece/)](../assets/5e931d1e502f/1*7ljIZwAoaQrnG0ZC8fpwuQ.jpeg)
 
 Photo by [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGreece/)
 ### Serbia

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 1/2/2021: “Crimes against humanity” in the Mediterranean
+title: "AYS Daily Digest 1/2/2021: “Crimes against humanity” in the Mediterranean"
 author: Are You Syrious?
 date: 2021-02-02T12:46:37.671+0000
 last_modified_at: 2021-02-02T13:45:23.632+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,balkan-route,mediterranean,afghanistan]
 description: Because We Carry NGO under fire again on Lesvos. Call for Action on the Balkan route. EU-Afghanistan deportation deal to be renewed…
 image:
-  path: assets/6eecdf43df9d/1*VvA5U-RNh_cGT7Fg-Av_Jw.jpeg
+  path: ../assets/6eecdf43df9d/1*VvA5U-RNh_cGT7Fg-Av_Jw.jpeg
 ---
 
 ### AYS Daily Digest 1/2/2021: “Crimes against humanity” in the Mediterranean
@@ -15,7 +15,7 @@ image:
 Because We Carry NGO under fire again on Lesvos\. Call for action on the Balkan route\. EU\-Afghanistan deportation deal to be renewed\. Investigation launched in Spain against anti\-migrant violence\.
 
 
-![Ocean Viking, artwork by [Hippolyte Art](https://www.facebook.com/hippolyteart/photos/a.536272619815252/3485201604922324/)](assets/6eecdf43df9d/1*VvA5U-RNh_cGT7Fg-Av_Jw.jpeg)
+![Ocean Viking, artwork by [Hippolyte Art](https://www.facebook.com/hippolyteart/photos/a.536272619815252/3485201604922324/)](../assets/6eecdf43df9d/1*VvA5U-RNh_cGT7Fg-Av_Jw.jpeg)
 
 Ocean Viking, artwork by [Hippolyte Art](https://www.facebook.com/hippolyteart/photos/a.536272619815252/3485201604922324/)
 #### FEATURED — “ _Crimes against humanity”_ in the Mediterranean
@@ -62,7 +62,7 @@ No further comments\.
 #### CENTRE — Another forgotten shipwreck
 
 
-![“January 2021 ended with at least 68 people who had lost their lives in the waves of the central Mediterranean\. European states need to return to rescuing people in distress and to free NGO ships to avoid further predictable deaths\.” \( [Sea\-Watch](https://www.facebook.com/seawatchprojekt/posts/2752594791625251) \)](assets/6eecdf43df9d/1*IPAhQTEotZlWEN7H2WS1fg.png)
+![“January 2021 ended with at least 68 people who had lost their lives in the waves of the central Mediterranean\. European states need to return to rescuing people in distress and to free NGO ships to avoid further predictable deaths\.” \( [Sea\-Watch](https://www.facebook.com/seawatchprojekt/posts/2752594791625251) \)](../assets/6eecdf43df9d/1*IPAhQTEotZlWEN7H2WS1fg.png)
 
 “January 2021 ended with at least 68 people who had lost their lives in the waves of the central Mediterranean\. European states need to return to rescuing people in distress and to free NGO ships to avoid further predictable deaths\.” \( [Sea\-Watch](https://www.facebook.com/seawatchprojekt/posts/2752594791625251) \)
 
@@ -95,7 +95,7 @@ AlarmPhone [report](https://alarmphone.org/en/2021/01/31/another-forgotten-shipw
 
 
 
-![\(via [Alarm Phone](https://alarmphone.org/en/2021/01/31/another-forgotten-shipwreck-off-libya/?fbclid=IwAR0ivfRIH_fsOhWrk_xWbma0Rvk_j0gCY-38H0pYPrCAmi8OsVEkqvC4Lhs) \)](assets/6eecdf43df9d/1*Of3bhFEUCNW_lw6BW8SfmQ.jpeg)
+![\(via [Alarm Phone](https://alarmphone.org/en/2021/01/31/another-forgotten-shipwreck-off-libya/?fbclid=IwAR0ivfRIH_fsOhWrk_xWbma0Rvk_j0gCY-38H0pYPrCAmi8OsVEkqvC4Lhs) \)](../assets/6eecdf43df9d/1*Of3bhFEUCNW_lw6BW8SfmQ.jpeg)
 
 \(via [Alarm Phone](https://alarmphone.org/en/2021/01/31/another-forgotten-shipwreck-off-libya/?fbclid=IwAR0ivfRIH_fsOhWrk_xWbma0Rvk_j0gCY-38H0pYPrCAmi8OsVEkqvC4Lhs) \)
 
@@ -297,11 +297,11 @@ Lesvos Calling campaign, Linea d’ombra ODV, and Strada Si\.Cura have launched 
 
 
 
-![](assets/6eecdf43df9d/1*I4rMC9mezi4m3BHPj-8lDA.jpeg)
+![](../assets/6eecdf43df9d/1*I4rMC9mezi4m3BHPj-8lDA.jpeg)
 
 
 
-![\#BalkanRouteEurope — Velika Kladusa, February 1st, 2021 — “Walking past the container that one year ago was a shelter for three people, with Miral camp on the background” \(Photo and text by [Lorena Fornasir](https://www.facebook.com/lorena.fornasir/posts/3626431854140552) \)](assets/6eecdf43df9d/1*2ymPN9WJ_OqfItIINcILcA.jpeg)
+![\#BalkanRouteEurope — Velika Kladusa, February 1st, 2021 — “Walking past the container that one year ago was a shelter for three people, with Miral camp on the background” \(Photo and text by [Lorena Fornasir](https://www.facebook.com/lorena.fornasir/posts/3626431854140552) \)](../assets/6eecdf43df9d/1*2ymPN9WJ_OqfItIINcILcA.jpeg)
 
 \#BalkanRouteEurope — Velika Kladusa, February 1st, 2021 — “Walking past the container that one year ago was a shelter for three people, with Miral camp on the background” \(Photo and text by [Lorena Fornasir](https://www.facebook.com/lorena.fornasir/posts/3626431854140552) \)
 

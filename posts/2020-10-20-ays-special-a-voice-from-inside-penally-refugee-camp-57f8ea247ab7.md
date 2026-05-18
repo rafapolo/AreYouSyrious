@@ -1,5 +1,5 @@
 ---
-title: AYS Special: A Voice from inside Penally Refugee Camp
+title: "AYS Special: A Voice from inside Penally Refugee Camp"
 author: Are You Syrious?
 date: 2020-10-20T18:30:53.583+0100
 last_modified_at: 2020-10-21T14:11:29.482+0100
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [refugees,special,united-kingdom,refugee-camps,penally]
 description: The Pembrokeshire Coast in Wales is famous for many things, the long sandy beaches, the clear water, and the new refugee camp opened…
 image:
-  path: assets/57f8ea247ab7/1*F0OZeCmKQvbpF0JSkXxWpw.jpeg
+  path: ../assets/57f8ea247ab7/1*F0OZeCmKQvbpF0JSkXxWpw.jpeg
 ---
 
 ### **AYS Special: A Voice from inside Penally Refugee Camp**
 
 
-![\(Photo Credit: @PembsR\)](assets/57f8ea247ab7/1*F0OZeCmKQvbpF0JSkXxWpw.jpeg)
+![\(Photo Credit: @PembsR\)](../assets/57f8ea247ab7/1*F0OZeCmKQvbpF0JSkXxWpw.jpeg)
 
 \(Photo Credit: @PembsR\)
 
@@ -28,13 +28,13 @@ When John arrived to Penally, he was given a box with a clean sheet, a plate, a 
 “putting us in a camp to make us feel like there was nowhere else for us to stay, that this was a last resort, it’s racist, it’s systematic, it’s anti migration, it’s everything…”
 
 
-[![Penally refugee camp, October 2020 Part 1](assets/57f8ea247ab7/4291_hqdefault.jpg "Penally refugee camp, October 2020 Part 1")](https://www.youtube.com/watch?v=PiEnw9oqOok)
+[![Penally refugee camp, October 2020 Part 1](../assets/57f8ea247ab7/4291_hqdefault.jpg "Penally refugee camp, October 2020 Part 1")](https://www.youtube.com/watch?v=PiEnw9oqOok)
 
 
 Penally is a former army training camp and still looks like one, a militarised and unwelcoming space\. Each room houses 6 people, making it impossible to maintain social distancing\. The kitchen is only accessible during meal times and residents have no cash allowance to supplement their food or buy other necessities\. Yet, they are not allowed to work and earn an income\. Due to the poor quality, some people have stopped taking meals altogether\.
 
 
-[![Penally refugee camp, October 2020, Part 2](assets/57f8ea247ab7/d6f0_hqdefault.jpg "Penally refugee camp, October 2020, Part 2")](https://www.youtube.com/watch?v=6W9my6lBO38)
+[![Penally refugee camp, October 2020, Part 2](../assets/57f8ea247ab7/d6f0_hqdefault.jpg "Penally refugee camp, October 2020, Part 2")](https://www.youtube.com/watch?v=6W9my6lBO38)
 
 
 Complaints are permitted but interpreters are not always provided leaving the residents to translate for each other, if they are lucky enough to find another person who speaks their language and English\. Residents are not provided with clothes and they have no money to buy them\. Charities are not permitted to distribute directly but some friends of those inside did manage to campaign for clothes and shoes more appropriate to the winter weather\.

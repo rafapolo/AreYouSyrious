@@ -1,5 +1,5 @@
 ---
-title: AYS 11/10: Calais: The fear of eviction constantly looming
+title: "AYS 11/10: Calais: The fear of eviction constantly looming"
 author: Are You Syrious?
 date: 2016-10-12T00:39:31.714+0100
 last_modified_at: 2016-10-13T00:56:17.100+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,refugee-camps,refugee-crisis,calais]
 description: Arrests, demolitions and evictions in Calais have started, refugees are largely not offered any other shelter. Push-backs from Serbia to…
 image:
-  path: assets/15c4d0375349/0*hDlF2fWa5tfA2P6x.
+  path: ../assets/15c4d0375349/0*hDlF2fWa5tfA2P6x.
 ---
 
 ### AYS 11/10: Calais: The fear of **eviction** constantly looming
@@ -19,7 +19,7 @@ image:
 
 
 
-![Credits: [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/)](assets/15c4d0375349/0*hDlF2fWa5tfA2P6x.)
+![Credits: [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/)](../assets/15c4d0375349/0*hDlF2fWa5tfA2P6x.)
 
 Credits: [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/)
 ### What the life in Calais camp looks like with demolitions and evictions on the horizon
@@ -31,28 +31,28 @@ The organisation [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/?fr
 Arrests of refugees and demolitions of their Calais bussinesses has already started\. Namely, police in camp arrested volenteers from Kids cafe, as well as they smashed the door of the Jungle Books store room\.
 
 
-![Refugees from Kids cafe arrested\. [**Refugee Info Bus**](https://www.facebook.com/RefugeeInfoBus/)](assets/15c4d0375349/0*0x2wEoLXwU-m1-3Z.)
+![Refugees from Kids cafe arrested\. [**Refugee Info Bus**](https://www.facebook.com/RefugeeInfoBus/)](../assets/15c4d0375349/0*0x2wEoLXwU-m1-3Z.)
 
 Refugees from Kids cafe arrested\. [**Refugee Info Bus**](https://www.facebook.com/RefugeeInfoBus/)
 
 In addition to these, [**Kesha Niya Kitchen**](https://www.facebook.com/keshaniya/?fref=nf) reports that two tents, which were housing over 15 Afghani refugees, were taken down today, thus leaving two families without any shelter\. Moreover, two businesses were closed and demolished, namely the barbershop and the sandwich shop, while other businesses were forcibly closed\.
 
 
-![Refugees from Kids cafe arrested\. [**Refugee Info Bus**](https://www.facebook.com/RefugeeInfoBus/)](assets/15c4d0375349/0*Bb2g6T6OelMXY60S.)
+![Refugees from Kids cafe arrested\. [**Refugee Info Bus**](https://www.facebook.com/RefugeeInfoBus/)](../assets/15c4d0375349/0*Bb2g6T6OelMXY60S.)
 
 Refugees from Kids cafe arrested\. [**Refugee Info Bus**](https://www.facebook.com/RefugeeInfoBus/)
 
 While the British Home Secretary Rt Hon Amber Rudd and the French Interior Minister Bernard Cazeneuve claim that they are working together to ensure the successful dismantling of the Calais camp, the Emmaus president Thierry Kuhn says the conditions for an efficient evacuation of the camp are not fulfilled and that, furthermore, Interior Minister Cazeneuve seems to be doing everything so that the evacuation leads to a violent confrontation\. The Secours Catholique says “This is a security operation that is only humanitarian by name”\.
 
 
-![Smashed doors of the Jungle Book store room\. Credits: [**Refugee Info Bus**](https://www.facebook.com/RefugeeInfoBus/)](assets/15c4d0375349/0*hrF64sVXgsZidJfN.)
+![Smashed doors of the Jungle Book store room\. Credits: [**Refugee Info Bus**](https://www.facebook.com/RefugeeInfoBus/)](../assets/15c4d0375349/0*hrF64sVXgsZidJfN.)
 
 Smashed doors of the Jungle Book store room\. Credits: [**Refugee Info Bus**](https://www.facebook.com/RefugeeInfoBus/)
 
 **At 8:30 a\.m\. on Monday, CRS and plain\-clothed police blocked two Parisian avenues and the metro exits in order to prevent refugees from fleeing** \. After rounding them up and looking at their papers, 75% of them were placed outside of the security cordon, waiting and hoping for housing\. The avenue was once more cleaned up and a lot of things were thrown away, despite the cold of the last days\. 25 people were brought to the police station and around 10 people were granted a shelter for a couple of days, yet that this 10 out of about 100 people that were rounded\-up during this day\. This is the 20th round\-up since the 31th of July in Paris\.
 
 
-![Credits: [**Rose Lecat**](https://www.facebook.com/rose.lecat)](assets/15c4d0375349/0*3NOdJal7ekTRQnBf.)
+![Credits: [**Rose Lecat**](https://www.facebook.com/rose.lecat)](../assets/15c4d0375349/0*3NOdJal7ekTRQnBf.)
 
 Credits: [**Rose Lecat**](https://www.facebook.com/rose.lecat)
 ### Push\-backs of refugees from Serbia to Macedonia
@@ -89,7 +89,7 @@ Earth Refugees needs volunteers to help their work in camp Sounio, located two h
 ### Locals of Profitis village place Greek flags and a locker on the main door of the school where refugee children were due to start lesson
 
 
-![Credits: [Dimitris Tosidis](https://twitter.com/d_tosidis)](assets/15c4d0375349/0*4kcfIIH80g9CrVHs.jpg)
+![Credits: [Dimitris Tosidis](https://twitter.com/d_tosidis)](../assets/15c4d0375349/0*4kcfIIH80g9CrVHs.jpg)
 
 Credits: [Dimitris Tosidis](https://twitter.com/d_tosidis)
 ### Greek authorities have opened a new reception center for unaccompanied refugee children near Athens
@@ -102,19 +102,19 @@ Mouzalas said some 2,200 unaccompanied minors are currently in Greece, of whom 1
 Feel free to drop by and give your solidarity supplies, including toys, books, and everything else a kindergarden needs\.
 
 
-![Credits: [City Plaza Squat](https://twitter.com/sol2refugees)](assets/15c4d0375349/0*MLkvQ7Cd4Wh64TZZ.jpg)
+![Credits: [City Plaza Squat](https://twitter.com/sol2refugees)](../assets/15c4d0375349/0*MLkvQ7Cd4Wh64TZZ.jpg)
 
 Credits: [City Plaza Squat](https://twitter.com/sol2refugees)
 ### More rain and hail fell on Katsikas camp, reminding us that the winter is coming
 
 
-![Credits: [**KatsikasLive**](https://www.facebook.com/KatsikasLive-1747980202123076/)](assets/15c4d0375349/0*Lr_IhbD_oWduy3o-.)
+![Credits: [**KatsikasLive**](https://www.facebook.com/KatsikasLive-1747980202123076/)](../assets/15c4d0375349/0*Lr_IhbD_oWduy3o-.)
 
 Credits: [**KatsikasLive**](https://www.facebook.com/KatsikasLive-1747980202123076/)
 ### For the first time there are now more than 15,000 refugees on the islands \(official capacity is 7903\)
 
 
-![Helping new arrivals\. Credits: [**Salvamento Marítimo Humanitario**](https://www.facebook.com/smhumanitario/)](assets/15c4d0375349/0*cFjcQfuOVUDYL38e.)
+![Helping new arrivals\. Credits: [**Salvamento Marítimo Humanitario**](https://www.facebook.com/smhumanitario/)](../assets/15c4d0375349/0*cFjcQfuOVUDYL38e.)
 
 Helping new arrivals\. Credits: [**Salvamento Marítimo Humanitario**](https://www.facebook.com/smhumanitario/)
 
@@ -130,7 +130,7 @@ Helping new arrivals\. Credits: [**Salvamento Marítimo Humanitario**](https://w
 **Voluntary returns: 1**
 
 
-![Comparison of arrivals in the last three months\. Credits: [**Niklas Golitschek**](https://www.facebook.com/Niklas.golitschek)](assets/15c4d0375349/0*r6B6xjBHGISK4IWO.)
+![Comparison of arrivals in the last three months\. Credits: [**Niklas Golitschek**](https://www.facebook.com/Niklas.golitschek)](../assets/15c4d0375349/0*r6B6xjBHGISK4IWO.)
 
 Comparison of arrivals in the last three months\. Credits: [**Niklas Golitschek**](https://www.facebook.com/Niklas.golitschek)
 #### Bulgaria
@@ -168,7 +168,7 @@ For more information, please contact:
 
 
 
-![Credits: Green Jobs for Refugees](assets/15c4d0375349/0*YmEF7WfssGSZBOXQ.)
+![Credits: Green Jobs for Refugees](../assets/15c4d0375349/0*YmEF7WfssGSZBOXQ.)
 
 Credits: Green Jobs for Refugees
 #### Kenya
@@ -189,7 +189,7 @@ Niger is a key transit point for people from sub\-Saharan Africa who try to cros
 Find an answer [here](https://www.facebook.com/mobileinfoteam/posts/1851806471714740:0?hc_location=ufi) \.
 
 
-![Credits: [**Mobile Info Team for refugees in Greece — الفريق المتنقل لمعلومات اللاجئين**](https://www.facebook.com/mobileinfoteam/)](assets/15c4d0375349/0*gSosNKKf14kuJ6WQ.)
+![Credits: [**Mobile Info Team for refugees in Greece — الفريق المتنقل لمعلومات اللاجئين**](https://www.facebook.com/mobileinfoteam/)](../assets/15c4d0375349/0*gSosNKKf14kuJ6WQ.)
 
 Credits: [**Mobile Info Team for refugees in Greece — الفريق المتنقل لمعلومات اللاجئين**](https://www.facebook.com/mobileinfoteam/)
 

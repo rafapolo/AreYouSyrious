@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 17/06/21: More than 13,000 illegal pullbacks to Libya
+title: "AYS Daily Digest 17/06/21: More than 13,000 illegal pullbacks to Libya"
 author: Are You Syrious?
 date: 2021-06-18T20:47:47.875+0100
 last_modified_at: 2021-06-18T20:47:47.875+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: []
 description: Lebanese bank burns 250 million USD in UN aid // New footage from Malakasa camp // New vaccination campaign in Sicily
 image:
-  path: assets/1cfb9d8866ef/0*fIMw9KQdkAacLy_V.jpeg
+  path: ../assets/1cfb9d8866ef/0*fIMw9KQdkAacLy_V.jpeg
 ---
 
 ### AYS Daily Digest 17/06/21: More than 13,000 illegal pullbacks to Libya
@@ -16,7 +16,7 @@ image:
 [Are You Syrious?](?source=post_page-----344ec813d0b7--------------------------------) · [Jun 18](ays-daily-digest-17-06-21-more-than-13-000-illegal-pullbacks-to-libya-344ec813d0b7?source=post_page-----344ec813d0b7--------------------------------) · 3 min read
 
 
-![](assets/1cfb9d8866ef/0*fIMw9KQdkAacLy_V.jpeg)
+![](../assets/1cfb9d8866ef/0*fIMw9KQdkAacLy_V.jpeg)
 
 
 More than 13,000 people were pulled back to Libya in 2021 — a place that is not safe for them\. Credits: Twitter/@TilleyMarc

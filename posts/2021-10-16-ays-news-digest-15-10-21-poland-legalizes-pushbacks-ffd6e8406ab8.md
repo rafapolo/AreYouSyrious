@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 15/10/21: Poland legalizes pushbacks
+title: "AYS News Digest 15/10/21: Poland legalizes pushbacks"
 author: Are You Syrious?
 date: 2021-10-16T15:27:55.095+0100
 last_modified_at: 2021-10-17T08:18:35.127+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,migration,refugees,migrants,poland]
 description: Turkey-Iran pushbacks highlighted // Hundreds don’t have food in Greek camps // Italian ship captain sentenced for pushback // Serbian man…
 image:
-  path: assets/ffd6e8406ab8/1*bgMK4sbIxFvsNrdeLh7hmQ.jpeg
+  path: ../assets/ffd6e8406ab8/1*bgMK4sbIxFvsNrdeLh7hmQ.jpeg
 ---
 
 ### AYS News Digest 15/10/21: Poland legalizes pushbacks
@@ -15,7 +15,7 @@ image:
 ### FEATURE — Poland legalizes pushbacks in a move that violates international law
 
 
-![Polish soldiers in front of the border guard headquarters in Michalowo, Poland on October 11\. \(Photo: [CNN](https://www.cnn.com/2021/10/15/europe/poland-border-pushback-legislation-intl/index.html) \)](assets/ffd6e8406ab8/1*bgMK4sbIxFvsNrdeLh7hmQ.jpeg)
+![Polish soldiers in front of the border guard headquarters in Michalowo, Poland on October 11\. \(Photo: [CNN](https://www.cnn.com/2021/10/15/europe/poland-border-pushback-legislation-intl/index.html) \)](../assets/ffd6e8406ab8/1*bgMK4sbIxFvsNrdeLh7hmQ.jpeg)
 
 Polish soldiers in front of the border guard headquarters in Michalowo, Poland on October 11\. \(Photo: [CNN](https://www.cnn.com/2021/10/15/europe/poland-border-pushback-legislation-intl/index.html) \)
 
@@ -159,7 +159,7 @@ Police are investigating the incidents, but for now Sevo has been forced to clos
 #### No Name Kitchen warns of daily, large\-scale evictions in northern Serbia
 
 
-![\(Photo: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/1337693583295589) \)](assets/ffd6e8406ab8/1*_dsGRFjA4rJsXR0W19yLTQ.jpeg)
+![\(Photo: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/1337693583295589) \)](../assets/ffd6e8406ab8/1*_dsGRFjA4rJsXR0W19yLTQ.jpeg)
 
 \(Photo: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/1337693583295589) \)
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 19/11/2018: The Mediterranean remains the deadliest route
+title: "AYS Daily Digest 19/11/2018: The Mediterranean remains the deadliest route"
 author: Are You Syrious?
 date: 2018-12-20T00:59:40.781+0000
 last_modified_at: 2018-12-20T13:29:13.688+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,mediterranean,greece,france]
 description: 2200 people died at the sea this year / Reports of violent push-backs from Greece to Turkey / Winter coming to Serbia / French ombudsman…
 image:
-  path: assets/7ae5af119684/1*pnAAl9D5mbyxgJ0fu9Depg.jpeg
+  path: ../assets/7ae5af119684/1*pnAAl9D5mbyxgJ0fu9Depg.jpeg
 ---
 
 ### AYS Daily Digest 19/11/2018: The Mediterranean remains the deadliest route
 #### 2200 people died at the sea this year / Reports of violent push\-backs from Greece to Turkey / Winter coming to Serbia / French ombudsman for human rights criticizes treatment of people
 
 
-![Credits: [Nador New](https://www.facebook.com/Nador.new2019/photos/a.152984038796994/366300704131992/?type=3&theater)](assets/7ae5af119684/1*pnAAl9D5mbyxgJ0fu9Depg.jpeg)
+![Credits: [Nador New](https://www.facebook.com/Nador.new2019/photos/a.152984038796994/366300704131992/?type=3&theater)](../assets/7ae5af119684/1*pnAAl9D5mbyxgJ0fu9Depg.jpeg)
 
 Credits: [Nador New](https://www.facebook.com/Nador.new2019/photos/a.152984038796994/366300704131992/?type=3&theater)
 ### Feature: The Mediterranean remains the deadliest route
@@ -22,7 +22,7 @@ Credits: [Nador New](https://www.facebook.com/Nador.new2019/photos/a.15298403879
 More than 111,000 people have made it to Europe by sea as of 16 December, the IOM reports \(via [InfoMigrants](http://www.infomigrants.net/en/post/14000/more-than-110-000-migrants-arrived-in-europe-via-mediterranean-in-2018) \) \. At the same time, around 2200 deaths were recorded\. According to its Missing Migrants Project, this equals almost half of the 4400 deaths worldwide\. But both numbers are assumed likely to be higher, as it is hard to keep track or even find out about about every incident\. A huge increase in deaths could be seen at the route between North Africa and Spain this year\. While 224 were reported in 2017 to have died trying to cross the sea here, there have been 744 in 2018 so far\. Compared to the previous years, the number of people arriving in Europe dropped from 358,000 in 2016 \(5000 deaths\) and 168,000 in 2017 \(3100 deaths\) to now 111,000\.
 
 
-![Deaths in the Mediterranean in 2018\. Credits: [Missing Migrants](http://missingmigrants.iom.int/region/mediterranean) \(Screenshot\)](assets/7ae5af119684/1*zyCnZH6KCMU3-offlCCb6w.png)
+![Deaths in the Mediterranean in 2018\. Credits: [Missing Migrants](http://missingmigrants.iom.int/region/mediterranean) \(Screenshot\)](../assets/7ae5af119684/1*zyCnZH6KCMU3-offlCCb6w.png)
 
 Deaths in the Mediterranean in 2018\. Credits: [Missing Migrants](http://missingmigrants.iom.int/region/mediterranean) \(Screenshot\)
 
@@ -38,7 +38,7 @@ But at the same time it should be noted, that more than 6600 people on the move 
 Adding both numbers, it means that 3600 out of 4400 — 80 percent — of the people, who die while migrating, leave from African countries\. Just yesterday, Nador [reported](https://www.facebook.com/Nador.new2019/photos/a.152984038796994/366300704131992/?type=3&theater) another incident off the shore of Morocco and more than 230 people attempting to reach Europe\.
 
 
-![Number of recorded deaths in Africa\. Source: [IOM](https://www.iom.int/news/gmdac-over-6600-migration-deaths-recorded-africa-2013-just-tip-iceberg) \.](assets/7ae5af119684/1*I1YalHliSEqvim7vlC3Pqw.jpeg)
+![Number of recorded deaths in Africa\. Source: [IOM](https://www.iom.int/news/gmdac-over-6600-migration-deaths-recorded-africa-2013-just-tip-iceberg) \.](../assets/7ae5af119684/1*I1YalHliSEqvim7vlC3Pqw.jpeg)
 
 Number of recorded deaths in Africa\. Source: [IOM](https://www.iom.int/news/gmdac-over-6600-migration-deaths-recorded-africa-2013-just-tip-iceberg) \.
 ### Syria
@@ -118,7 +118,7 @@ Solidarité migrants Wilson in France is looking for volunteers to help with the
 Up to 2000 people came together in Copenhagen as the Financial Act of 2019 was passed in Parliament\. This includes, that all refugees should be only temporarily accommodated in Denmark\. The day before they’d given out Christmas letters in more than 30 out of 52 municipalities all over Denmark: Christmas letters to fellow humans saying: “All we want for Christmas is a future for our children”\.
 
 
-![Children watched the parliament passing the financial act\. Credits: [Erik Storrud](https://www.facebook.com/photo.php?fbid=10156832640035138&set=a.10150091873210138&type=3&theater)](assets/7ae5af119684/1*KHmrIjCifk0z6MLzpd5jQA.jpeg)
+![Children watched the parliament passing the financial act\. Credits: [Erik Storrud](https://www.facebook.com/photo.php?fbid=10156832640035138&set=a.10150091873210138&type=3&theater)](../assets/7ae5af119684/1*KHmrIjCifk0z6MLzpd5jQA.jpeg)
 
 Children watched the parliament passing the financial act\. Credits: [Erik Storrud](https://www.facebook.com/photo.php?fbid=10156832640035138&set=a.10150091873210138&type=3&theater)
 

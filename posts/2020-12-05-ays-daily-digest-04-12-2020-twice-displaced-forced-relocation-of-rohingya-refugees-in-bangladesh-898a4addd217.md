@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,rohingya,frontex,uk,spain]
 description: MEPs calling of Frontex head to resign// Mental health crisis in UK detention centers as NGOs forced to sign a non-disclosure agreement //…
 image:
-  path: assets/898a4addd217/1*wuJlzVvY0cAumvf82kfXHw.jpeg
+  path: ../assets/898a4addd217/1*wuJlzVvY0cAumvf82kfXHw.jpeg
 ---
 
 ### AYS Daily Digest 04/12/2020 — Twice displaced? Forced relocation of Rohingya refugees in Bangladesh
 #### MEPs calling on Frontex head to resign// Mental health crisis in UK detention centres as NGOs forced to sign a non\-disclosure agreement // Harsh conditions in Spain, Greece and Bosnia
 
 
-![Hundreds of Rohingya refugees relocated to the island of Bhasan Char — credits:CNN](assets/898a4addd217/1*wuJlzVvY0cAumvf82kfXHw.jpeg)
+![Hundreds of Rohingya refugees relocated to the island of Bhasan Char — credits:CNN](../assets/898a4addd217/1*wuJlzVvY0cAumvf82kfXHw.jpeg)
 
 Hundreds of Rohingya refugees relocated to the island of Bhasan Char — credits:CNN
 ### BANGLADESH
@@ -63,7 +63,7 @@ Check out the whole recording [here](https://www.guengl.eu/events/the-migration-
 MOAS, the very first Search And Rescue NGO to operate in the Mediterranean starting in 2014, has [announced its return to the Central Mediterranean](https://www.moas.eu/moas-returns-to-sea-to-save-lives-in-partnership-with-the-ngo-sea-eye/?fbclid=IwAR2fxF3vfILwGRR2JkNB9icK8JNFfAIUKaRJYsL6NfKzI2Ciyg08UevdY5s) , alongside its new partner Sea\-Eye, to conduct Search and Rescue \(SAR\) operations that will save lives at sea and raise awareness of the ongoing tragedy unfolding on Europe’s doorstep\. MOAS will be operating on board the new rescue ship Sea\-Eye 4, and will be providing personnel, resources, strategic input and expertise\.
 
 
-![Napier Barracks — courtesy of [HelpRefugees](https://helprefugees.org/news/a-message-from-a-refugee-stuck-in-the-napier-barracks/)](assets/898a4addd217/1*kFJhP9RHmI1wRgfZ0exeRA.jpeg)
+![Napier Barracks — courtesy of [HelpRefugees](https://helprefugees.org/news/a-message-from-a-refugee-stuck-in-the-napier-barracks/)](../assets/898a4addd217/1*kFJhP9RHmI1wRgfZ0exeRA.jpeg)
 
 Napier Barracks — courtesy of [HelpRefugees](https://helprefugees.org/news/a-message-from-a-refugee-stuck-in-the-napier-barracks/)
 ### UK
@@ -162,7 +162,7 @@ These are attempts to change the narrative following the latest disclosures of p
 #### Life rafts in the Aegean Sea
 
 
-![Life rafts — courtesy of Aegean Boat Report](assets/898a4addd217/1*Jm9xBfS26n9mFyStggQasQ.jpeg)
+![Life rafts — courtesy of Aegean Boat Report](../assets/898a4addd217/1*Jm9xBfS26n9mFyStggQasQ.jpeg)
 
 Life rafts — courtesy of Aegean Boat Report
 

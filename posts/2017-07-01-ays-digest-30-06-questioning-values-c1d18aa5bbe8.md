@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 30/06/17: Questioning values…
+title: "AYS Daily Digest 30/06/17: Questioning values…"
 author: Are You Syrious?
 date: 2017-07-01T09:06:25.375+0100
 last_modified_at: 2017-07-02T23:06:28.002+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,european-values,greece,france,serbia]
 description: Water shortage stings Samos and Chios / Half a million remain without access to aid in Syria / Suicide bombing in refugee camp in Lebanon /…
 image:
-  path: assets/c1d18aa5bbe8/1*dnrNCNk_HUkfwB7BwwSfLg.jpeg
+  path: ../assets/c1d18aa5bbe8/1*dnrNCNk_HUkfwB7BwwSfLg.jpeg
 ---
 
 ### AYS Daily Digest 30/06/17: Questioning values…
@@ -15,7 +15,7 @@ image:
 _Water shortage stings Samos and Chios / Half a million remain without access to aid in Syria / Suicide bombing in refugee camp in Lebanon / Hunger strike on Lesbos / Volunteer activities to relieve heat / Spain accepts new refugees / Situation in France continues to escalate / And more news…_
 
 
-![Photo Credit: [**Life on the ground — Greece Camps**](https://www.facebook.com/lifeonthegroundgreececamps/)](assets/c1d18aa5bbe8/1*XsMsWNut6UH5q7z9ACSy6g.jpeg)
+![Photo Credit: [**Life on the ground — Greece Camps**](https://www.facebook.com/lifeonthegroundgreececamps/)](../assets/c1d18aa5bbe8/1*XsMsWNut6UH5q7z9ACSy6g.jpeg)
 
 Photo Credit: [**Life on the ground — Greece Camps**](https://www.facebook.com/lifeonthegroundgreececamps/)
 ### FEATURE: The question backwards\.
@@ -47,7 +47,7 @@ Arrivals to Europe have dropped by more than half \(from 230,230 in 2016 to 95,7
 Throughout the crisis, the term European Values has been bandied about so often that it becomes almost an empty word — one that’s skipped over like boring little functional words \(“and”, “but”, “with”\) \. The migration crisis, we are told, is a crisis of European Values\. Those in opposition to opening the borders ostensibly are defending them\. Those in favour are fighting for them\. But what do they even mean at this point? And if it doesn’t mean anything in the face of its first real test, then did it mean anything to begin with?
 
 
-![Photo from participant in Moria Hunger Strike\. Credit: [**United Rescue Aid**](https://www.facebook.com/unitedrescueaid/)](assets/c1d18aa5bbe8/1*lCNM5LZP0N9OMNqcbc2BEA.jpeg)
+![Photo from participant in Moria Hunger Strike\. Credit: [**United Rescue Aid**](https://www.facebook.com/unitedrescueaid/)](../assets/c1d18aa5bbe8/1*lCNM5LZP0N9OMNqcbc2BEA.jpeg)
 
 Photo from participant in Moria Hunger Strike\. Credit: [**United Rescue Aid**](https://www.facebook.com/unitedrescueaid/)
 
@@ -89,17 +89,17 @@ Total: 162
 Summary of arrivals and deportations as documented by meticulous research by volunteers\.
 
 
-![](assets/c1d18aa5bbe8/1*zLeETdiQao3-Leso0udEgQ.jpeg)
+![](../assets/c1d18aa5bbe8/1*zLeETdiQao3-Leso0udEgQ.jpeg)
 
 
 
-![](assets/c1d18aa5bbe8/1*dnrNCNk_HUkfwB7BwwSfLg.jpeg)
+![](../assets/c1d18aa5bbe8/1*dnrNCNk_HUkfwB7BwwSfLg.jpeg)
 
 
 It is a hopeful sign that perhaps some of the burden facing Chios will be distributed to other facilities that are a bit further from breaking points; however, it remains imperative that individuals are moved forward, off of the islands at a much faster pace\.
 
 
-![](assets/c1d18aa5bbe8/1*U2uWiAdjfQkQKMDthRSaXg.jpeg)
+![](../assets/c1d18aa5bbe8/1*U2uWiAdjfQkQKMDthRSaXg.jpeg)
 
 
 In addition to the heat wave affecting all of the southern Balkans \(with Athens clocking in at 43c\), water shortages affecting all of Greece, including refugees, are taking an immense toll\.
@@ -167,7 +167,7 @@ The hunger strike in Moria is ongoing, with participants making their demands kn
 
 
 
-![Photo credit: [**Life on the ground — Greece Camps**](https://www.facebook.com/lifeonthegroundgreececamps/)](assets/c1d18aa5bbe8/1*EN6VtscRaaq2vbon8aNEjg.jpeg)
+![Photo credit: [**Life on the ground — Greece Camps**](https://www.facebook.com/lifeonthegroundgreececamps/)](../assets/c1d18aa5bbe8/1*EN6VtscRaaq2vbon8aNEjg.jpeg)
 
 Photo credit: [**Life on the ground — Greece Camps**](https://www.facebook.com/lifeonthegroundgreececamps/)
 
@@ -202,7 +202,7 @@ _Yesterday, I also transferred more than 40 “residents” from Nea Kavala to P
 _This took me round about 13 times to drive there and back, because the car has not more space than for maximum 5 persons\._
 
 
-![Splashing around\. Photo credit: Maritta Gudrun](assets/c1d18aa5bbe8/1*b8qkhUV0LOQ7WSBezL0AKg.jpeg)
+![Splashing around\. Photo credit: Maritta Gudrun](../assets/c1d18aa5bbe8/1*b8qkhUV0LOQ7WSBezL0AKg.jpeg)
 
 Splashing around\. Photo credit: Maritta Gudrun
 
@@ -217,7 +217,7 @@ Please consider donating to the groups active near the Serbian\-Croatian border\
 184 Refugees arrived in Spain from Greece to be resettled in 15 cities across spain, reports Holes in the Borders\. The refugees were 52 min, 44 women, and 88 minors\. Good luck in your new life, all\!
 
 
-![Photo Credit: Diego Montalbo](assets/c1d18aa5bbe8/1*wBAEP2TvHx5sxav4rvXZZw.jpeg)
+![Photo Credit: Diego Montalbo](../assets/c1d18aa5bbe8/1*wBAEP2TvHx5sxav4rvXZZw.jpeg)
 
 Photo Credit: Diego Montalbo
 ### FRANCE

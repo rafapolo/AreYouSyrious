@@ -1,13 +1,13 @@
 ---
-title: AYS Daily Digest 06/01/2018: The sad end of good work
+title: "AYS Daily Digest 06/01/2018: The sad end of good work"
 author: Are You Syrious?
 date: 2018-01-07T02:01:25.903+0000
 last_modified_at: 2018-01-07T11:00:03.262+0000
 categories: 
 tags: [refugees,greece,veria,idlib,syria]
-description: Why Bridge2 had to leave the Veria camp / After new fighting: more than 60,000 displaced people in the Idlib region of Syria since November…
+description: "Why Bridge2 had to leave the Veria camp / After new fighting: more than 60,000 displaced people in the Idlib region of Syria since November…"
 image:
-  path: assets/29698b8ac1e3/1*BuAsWLLqimC2CeSquD6fIg.jpeg
+  path: ../assets/29698b8ac1e3/1*BuAsWLLqimC2CeSquD6fIg.jpeg
 ---
 
 ### AYS Daily Digest 06/01/2018: The sad end of good work
@@ -15,7 +15,7 @@ image:
 _Why Bridge2 had to leave the Veria camp / After new fighting: more than 60,000 displaced people in the Idlib region of Syria since November / OHF and Hope Project need support / Eight women die in shipwreck in the Mediterranean / and updates from Serbia, France and Belgium_
 
 
-![Bridge2 was active in Veria for 18 months\. Credits: Kuba Kaliszewski/Refugees Foundation](assets/29698b8ac1e3/1*BuAsWLLqimC2CeSquD6fIg.jpeg)
+![Bridge2 was active in Veria for 18 months\. Credits: Kuba Kaliszewski/Refugees Foundation](../assets/29698b8ac1e3/1*BuAsWLLqimC2CeSquD6fIg.jpeg)
 
 Bridge2 was active in Veria for 18 months\. Credits: Kuba Kaliszewski/Refugees Foundation
 ### Feature: Why Bridge2 had to leave the Veria camp
@@ -23,7 +23,7 @@ Bridge2 was active in Veria for 18 months\. Credits: Kuba Kaliszewski/Refugees F
 Requested by the military like many other teams after the eviction of Idomeni, Bridge2 started their work at Veria camp, a disused army space, in Northern Greece in October 2016\. Their activities included a clothing store, shoe store, supermarket\. They also created an individual women’s and men’s space, a kitchen with two cookers, and installed a 13\-piece playground, paid for Wifi as service at the camp was weak at best\. Additionally, they provided 57 bikes for the residents amongst many other projects each week, as stated by Bridge2 founder Sarah Griffith\.
 
 
-![One of the corridors at Veria\. Credits: Sarah Griffith](assets/29698b8ac1e3/1*EfCXX5SmhtPmT4xv1tN4Kw.jpeg)
+![One of the corridors at Veria\. Credits: Sarah Griffith](../assets/29698b8ac1e3/1*EfCXX5SmhtPmT4xv1tN4Kw.jpeg)
 
 One of the corridors at Veria\. Credits: Sarah Griffith
 
@@ -34,7 +34,7 @@ As this entails huge costs, she decided to not go along with this practice anymo
 Her organization is not the only one that is forced to stop its activities now\. The founder of Bridge2 assumes that the government wants to push small NGOS out the camps and run things by themselves\.
 
 
-![The goodbye party in early December ’17\. Credits: [Bridge2Refugees](https://www.facebook.com/bridge2refugees/)](assets/29698b8ac1e3/1*53Yt96TVGU_V-fC6rm6CeQ.jpeg)
+![The goodbye party in early December ’17\. Credits: [Bridge2Refugees](https://www.facebook.com/bridge2refugees/)](../assets/29698b8ac1e3/1*53Yt96TVGU_V-fC6rm6CeQ.jpeg)
 
 The goodbye party in early December ’17\. Credits: [Bridge2Refugees](https://www.facebook.com/bridge2refugees/)
 
@@ -85,21 +85,21 @@ The large number of babies has become a challenge for the volunteers on the isla
 The One Happy Family Community Center on Lesvos is looking to replenish its library\. They are looking for novels, dictionaries, kids’ books, Farsi\-English dictionaries, Arabic\-English dictionaries, French\-English dictionaries\. If you know how to find these kinds of books, please leave them a message on [Facebook](https://www.facebook.com/OHFLesvos/posts/391078308002731) \.
 
 
-![The OHF Community Center library\. Credits: [One Happy Family — Community Center, Lesvos](https://www.facebook.com/OHFLesvos/)](assets/29698b8ac1e3/1*YQXE1N53GmZlLjRabVeSTA.jpeg)
+![The OHF Community Center library\. Credits: [One Happy Family — Community Center, Lesvos](https://www.facebook.com/OHFLesvos/)](../assets/29698b8ac1e3/1*YQXE1N53GmZlLjRabVeSTA.jpeg)
 
 The OHF Community Center library\. Credits: [One Happy Family — Community Center, Lesvos](https://www.facebook.com/OHFLesvos/)
 
 In Athens the Victoria Square project offers Dramatherapy\. It takes place at 13 Elpidos Str\. every Monday and Wednesday from 5:00 to 6:30 pm between January and June and is designed for women, parents and teens\. Volunteers who would like to help can send an email to elpidosstation1@gmail\.com until 22 January\.
 
 
-![](assets/29698b8ac1e3/1*gPs6VXbwi8XJOWvVDYaK2w.jpeg)
+![](../assets/29698b8ac1e3/1*gPs6VXbwi8XJOWvVDYaK2w.jpeg)
 
 ### Serbia
 
 Rigardu needs new volunteers for their projects in Serbia\. From mid\-January on, but also in February and March they need people who can stay for at least one month\. If you are interested, leave them a message on Facebook or send an email to projekte@rigardu\.de\. More information about them can be found on their [homepage](https://rigardu.de/en/aboutus/) \.
 
 
-![The mobile shower of Rigardu\. Credits: [Rigardu e\.V\.](https://www.facebook.com/rigardu/)](assets/29698b8ac1e3/1*hagDUadLox2Aczf9WEQXTg.jpeg)
+![The mobile shower of Rigardu\. Credits: [Rigardu e\.V\.](https://www.facebook.com/rigardu/)](../assets/29698b8ac1e3/1*hagDUadLox2Aczf9WEQXTg.jpeg)
 
 The mobile shower of Rigardu\. Credits: [Rigardu e\.V\.](https://www.facebook.com/rigardu/)
 ### Sea
@@ -109,7 +109,7 @@ The first shipwreck of 2018 took place on the Mediterranean Sea on Saturday morn
 A spokesman for the Italian Coast Guard said that eight women died\. It seems that the boat deflated\. Earlier the Libyan Coast Guard reported 25 deaths, which have not been confirmed so far\. 86 people were rescued, while survivors told the rescuers there were probably between 120 and 150 people on the boat when it departed\. According to the Spanish NGO Proactiva Arms, when the first rescuers arrived they estimated that the migrants must have spent hours in the water before the rescue\.
 
 
-![The people rescued on board the Coast Guard’s rescue ship\. Credits: [CISOM](https://twitter.com/CIS0M)](assets/29698b8ac1e3/1*b_54EjibxCXaRrUNPqoMZA.jpeg)
+![The people rescued on board the Coast Guard’s rescue ship\. Credits: [CISOM](https://twitter.com/CIS0M)](../assets/29698b8ac1e3/1*b_54EjibxCXaRrUNPqoMZA.jpeg)
 
 The people rescued on board the Coast Guard’s rescue ship\. Credits: [CISOM](https://twitter.com/CIS0M)
 ### France

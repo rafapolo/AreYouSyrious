@@ -1,5 +1,5 @@
 ---
-title: AYS Digest — 10/12/2020: On Human Rights Day, the number of forcibly displaced people keeps…
+title: "AYS Digest — 10/12/2020: On Human Rights Day, the number of forcibly displaced people keeps…"
 author: Are You Syrious?
 date: 2020-12-11T14:22:59.322+0000
 last_modified_at: 2020-12-11T19:40:07.635+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,greece,bosnia,uk,spain]
 description: Humanitarian emergency in Bosnia and Herzegovina// Demonstrations and illegal pushbacks in Greece // New changes in UK immigration rules
 image:
-  path: assets/f0f70d3bfa79/1*4Y-YvAdH1w_lbP-LdHkzsQ.jpeg
+  path: ../assets/f0f70d3bfa79/1*4Y-YvAdH1w_lbP-LdHkzsQ.jpeg
 ---
 
 ### AYS Digest — 10/12/2020: On Human Rights Day, the number of forcibly displaced people keeps growing at an alarming rate
@@ -16,7 +16,7 @@ image:
 Thursday, December 10th has marked the 72nd anniversary of the Universal Declaration of Human Rights, adopted on this day in 1948\. You can find the full document, available in a wide variety of languages, [here\.](https://www.ohchr.org/EN/UDHR/Pages/SearchByLang.aspx)
 
 
-![_The IOM distributes relief items to IDPs in Ngala town, Borno \| Credit: IOM_](assets/f0f70d3bfa79/1*4Y-YvAdH1w_lbP-LdHkzsQ.jpeg)
+![_The IOM distributes relief items to IDPs in Ngala town, Borno \| Credit: IOM_](../assets/f0f70d3bfa79/1*4Y-YvAdH1w_lbP-LdHkzsQ.jpeg)
 
 _The IOM distributes relief items to IDPs in Ngala town, Borno \| Credit: IOM_
 
@@ -37,7 +37,7 @@ Over 2,000 migrants and refugees in Bosnia and Herzegovina are currently sleepin
 This [video illustrates](https://twitter.com/InfoMigrants/status/1336667917384097793?s=20&fbclid=IwAR3eRFpKQ8dXCHP2CqxHvYCQQTw506XaXF7d6vv8F5cRjPd2Vj1EkQZZOvE) the harsh situation in Bosnia, with people sleeping rough in the cold of the fast\-approaching winter\.
 
 
-![Credits: Muhammed/SOSBihac](assets/f0f70d3bfa79/1*6tpCSOuVjmt7_5rD4P9JJA.jpeg)
+![Credits: Muhammed/SOSBihac](../assets/f0f70d3bfa79/1*6tpCSOuVjmt7_5rD4P9JJA.jpeg)
 
 Credits: Muhammed/SOSBihac
 
@@ -141,7 +141,7 @@ The CCAR \(Catalunian Commission for Aid to Refugees\) [asks the administrations
 We happily forward this [interesting initiative from Utopia 5](https://www.facebook.com/asso.utopia56/posts/3812176442147453) 6, in collaboration with MSF:
 
 
-![](assets/f0f70d3bfa79/1*vf3m_QlYzOLvXbWF8fLXvQ.png)
+![](../assets/f0f70d3bfa79/1*vf3m_QlYzOLvXbWF8fLXvQ.png)
 
 
 If interested, you can find out more [here\.](http://www.utopia56.com/fr/hebergement-solidaire-mineures-non-accompagnees?fbclid=IwAR26ncc27Vn5OshnAwUOHOnH7ONKeHddxTEw-a6z2Gfts1uxCNAqsp6aFTA)

@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [greece,refugees,immigration,digest,libya]
 description: Are You Syrious?
 image:
-  path: assets/b5fc50d04406/0*U3BECuPKgVOTx_pO.jpeg
+  path: ../assets/b5fc50d04406/0*U3BECuPKgVOTx_pO.jpeg
 ---
 
 ### AYS Daily Digest 03/05/21 ~ 50 people drown off Libyan coast
 
 
-![](assets/b5fc50d04406/0*B-Be2sSSR9p2eMaB.jpeg)
+![](../assets/b5fc50d04406/0*B-Be2sSSR9p2eMaB.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----eecf017f8ccd--------------------------------)
@@ -96,28 +96,28 @@ Alarm Phone and Mediterranea Saving Humans released a joint statement with a tim
 
 
 
-![](assets/b5fc50d04406/0*He5t5r5jhGQHLT2I)
+![](../assets/b5fc50d04406/0*He5t5r5jhGQHLT2I)
 
 
 
-![](assets/b5fc50d04406/0*U3BECuPKgVOTx_pO.jpeg)
+![](../assets/b5fc50d04406/0*U3BECuPKgVOTx_pO.jpeg)
 
 
 
-![](assets/b5fc50d04406/0*ppuSLNVt6gRBUff_)
+![](../assets/b5fc50d04406/0*ppuSLNVt6gRBUff_)
 
 
 
-![](assets/b5fc50d04406/0*qXQ2PZeabmoWRXQe.jpeg)
+![](../assets/b5fc50d04406/0*qXQ2PZeabmoWRXQe.jpeg)
 
 ### GREECE
 
 
-![](assets/b5fc50d04406/0*GwcnDD6-2IYAqhgs)
+![](../assets/b5fc50d04406/0*GwcnDD6-2IYAqhgs)
 
 
 
-![](assets/b5fc50d04406/0*COw-nF7qpyBA7tOB.jpg)
+![](../assets/b5fc50d04406/0*COw-nF7qpyBA7tOB.jpg)
 
 ### On Monday 182 people arrived in the port of Kalamata
 
@@ -186,27 +186,27 @@ Who is to say that a new Danish asylum processing centre will not become a new t
 ### FRANCE
 
 
-![](assets/b5fc50d04406/0*fzIRlZ01UdzBNE5D)
+![](../assets/b5fc50d04406/0*fzIRlZ01UdzBNE5D)
 
 
 
-![](assets/b5fc50d04406/0*81B-B306nJJGjGpp.jpeg)
+![](../assets/b5fc50d04406/0*81B-B306nJJGjGpp.jpeg)
 
 
 
-![](assets/b5fc50d04406/0*KJgjQrtgkQD68HBx)
+![](../assets/b5fc50d04406/0*KJgjQrtgkQD68HBx)
 
 
 
-![](assets/b5fc50d04406/0*gv5ZKoH3UlJIrThz.jpeg)
+![](../assets/b5fc50d04406/0*gv5ZKoH3UlJIrThz.jpeg)
 
 
 
-![](assets/b5fc50d04406/0*OA4vBacgQ8u5hEY4)
+![](../assets/b5fc50d04406/0*OA4vBacgQ8u5hEY4)
 
 
 
-![](assets/b5fc50d04406/0*j5os0loyQWQFJ0um.jpeg)
+![](../assets/b5fc50d04406/0*j5os0loyQWQFJ0um.jpeg)
 
 ### UK
 ### Right to stay = right to be homeless?

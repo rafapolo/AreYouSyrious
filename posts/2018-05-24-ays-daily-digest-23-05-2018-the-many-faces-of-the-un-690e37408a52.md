@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,paris,greece,germany]
 description: 50 people arrested in Morocco /// Protests in Northern Greece /// One person drowned on the Croatian-Slovenian border /// Eviction threats…
 image:
-  path: assets/690e37408a52/1*CIhBMKc_4v5efltG4rr1nQ.jpeg
+  path: ../assets/690e37408a52/1*CIhBMKc_4v5efltG4rr1nQ.jpeg
 ---
 
 ### AYS Daily Digest 23/05/2018 The many faces of the UN
@@ -15,7 +15,7 @@ image:
 50 people arrested in Morocco /// Protests in Northern Greece /// One person drowned on the Croatian\-Slovenian border /// Eviction threats for Parisian Camps /// Police abuse in Germany
 
 
-![Same shit different island\. “The future depends on our ability to come together across painful divides, and to take leadership from those who traditionally have been most excluded\. We have reached the limits of siloed politics, where everyone fights in their own corner without mapping the connections between our various struggles, and without a clear idea of the concepts and values that must form the moral foundation of the future we need”\. Naomi Klein, No is not enough \(by [The Welcome Tent](https://www.facebook.com/thewelcometent/) \)](assets/690e37408a52/1*CIhBMKc_4v5efltG4rr1nQ.jpeg)
+![Same shit different island\. “The future depends on our ability to come together across painful divides, and to take leadership from those who traditionally have been most excluded\. We have reached the limits of siloed politics, where everyone fights in their own corner without mapping the connections between our various struggles, and without a clear idea of the concepts and values that must form the moral foundation of the future we need”\. Naomi Klein, No is not enough \(by [The Welcome Tent](https://www.facebook.com/thewelcometent/) \)](../assets/690e37408a52/1*CIhBMKc_4v5efltG4rr1nQ.jpeg)
 
 Same shit different island\. “The future depends on our ability to come together across painful divides, and to take leadership from those who traditionally have been most excluded\. We have reached the limits of siloed politics, where everyone fights in their own corner without mapping the connections between our various struggles, and without a clear idea of the concepts and values that must form the moral foundation of the future we need”\. Naomi Klein, No is not enough \(by [The Welcome Tent](https://www.facebook.com/thewelcometent/) \)
 #### Feature — The many faces of the UN
@@ -224,7 +224,7 @@ The present condition is a direct consequence of the deterrence policies of the 
 A coalition of collectives and associations [launched](https://blogs.mediapart.fr/marche-des-solidarites/blog/230518/manifestation-contre-la-loi-asile-immigration-le-2-juin?utm_source=facebook&utm_medium=social&utm_campaign=Sharing&xtor=CS3-66) a demonstration in Paris against the new immigration bill\.
 
 
-![[Marche des solidarites](https://blogs.mediapart.fr/marche-des-solidarites/blog/230518/manifestation-contre-la-loi-asile-immigration-le-2-juin?utm_source=facebook&utm_medium=social&utm_campaign=Sharing&xtor=CS3-66)](assets/690e37408a52/1*jaMayDMQxrZpxqkbuDvENg.jpeg)
+![[Marche des solidarites](https://blogs.mediapart.fr/marche-des-solidarites/blog/230518/manifestation-contre-la-loi-asile-immigration-le-2-juin?utm_source=facebook&utm_medium=social&utm_campaign=Sharing&xtor=CS3-66)](../assets/690e37408a52/1*jaMayDMQxrZpxqkbuDvENg.jpeg)
 
 [Marche des solidarites](https://blogs.mediapart.fr/marche-des-solidarites/blog/230518/manifestation-contre-la-loi-asile-immigration-le-2-juin?utm_source=facebook&utm_medium=social&utm_campaign=Sharing&xtor=CS3-66)
 #### Update from Paris
@@ -232,11 +232,11 @@ A coalition of collectives and associations [launched](https://blogs.mediapart.f
 From a Volunteer of Care4Calais:
 
 
-![](assets/690e37408a52/1*XbWeLp_nMpOuqMCyg8rLOA.jpeg)
+![](../assets/690e37408a52/1*XbWeLp_nMpOuqMCyg8rLOA.jpeg)
 
 
 
-![Care4Calais](assets/690e37408a52/1*mXAy0wiU0DTYI0aAk5MovQ.jpeg)
+![Care4Calais](../assets/690e37408a52/1*mXAy0wiU0DTYI0aAk5MovQ.jpeg)
 
 Care4Calais
 

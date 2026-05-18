@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 28/2/17: Hungary to “Build that wall” making us all pay
+title: "AYS Daily Digest 28/2/17: Hungary to “Build that wall” making us all pay"
 author: Are You Syrious?
 date: 2017-02-28T22:43:36.926+0000
 last_modified_at: 2017-03-01T21:12:00.116+0000
@@ -7,13 +7,13 @@ categories:
 tags: [europe,refugees,turkey,italy,human-rights]
 description: Hungary to build another wall / Relocation numbers slightly increased, but still not meeting the quota / Privacy lessons for all of us /…
 image:
-  path: assets/b37ae77bd880/1*xSlON7CzIaoe-NDLZXlh2g.jpeg
+  path: ../assets/b37ae77bd880/1*xSlON7CzIaoe-NDLZXlh2g.jpeg
 ---
 
 ### AYS Daily Digest 28/2/17: Hungary to “Build that wall” making us all pay
 
 
-![Life on the border\. Photo: Umino](assets/b37ae77bd880/1*xSlON7CzIaoe-NDLZXlh2g.jpeg)
+![Life on the border\. Photo: Umino](../assets/b37ae77bd880/1*xSlON7CzIaoe-NDLZXlh2g.jpeg)
 
 Life on the border\. Photo: Umino
 
@@ -49,14 +49,14 @@ Education is more than just opening a book and learning ABC\. These are skills w
 ### **Improvising showers near the border**
 
 
-![Life on the border\. Photo: Umino](assets/b37ae77bd880/1*vBEFWLelI7rFRtc_MvsSfg.jpeg)
+![Life on the border\. Photo: Umino](../assets/b37ae77bd880/1*vBEFWLelI7rFRtc_MvsSfg.jpeg)
 
 Life on the border\. Photo: Umino
 
 While Hungary plans to build a double wall so that not even a breath of fresh air could enter, people that are stuck in northern Serbia live in conditions that are hard to describe with words\. In an effort to make a day a little bit easier Fresh Response initiated improvised showers so the people don’t can access a bit of basic hygiene\. Landowners and police seem to be skeptical but didn’t intervene by now\.
 
 
-![Life on the border\. Photo: Umino](assets/b37ae77bd880/1*KE3qTeltwDtufWRfSU9hKg.jpeg)
+![Life on the border\. Photo: Umino](../assets/b37ae77bd880/1*KE3qTeltwDtufWRfSU9hKg.jpeg)
 
 Life on the border\. Photo: Umino
 #### Italy
@@ -69,7 +69,7 @@ It is always good to hear when people are organizing with progressive intentions
 ### **Theater for the oppressed**
 
 
-![Teatro San Carlo di Napoli](assets/b37ae77bd880/1*Dtyk4Hayq4Bf5V1yUOjkng.jpeg)
+![Teatro San Carlo di Napoli](../assets/b37ae77bd880/1*Dtyk4Hayq4Bf5V1yUOjkng.jpeg)
 
 Teatro San Carlo di Napoli
 
@@ -80,7 +80,7 @@ Continuing with worthy initiatives happening in Italy, San Carlo Theatre, in Nap
 Picture bellow shows Refugee community Kitchen \(RCK\) packing the meals that Utopia56 will hand out in Calais tonight\. All those meals, about 200, will be eaten tonight, and odds are it won’t suffice\. RCK’s total meals per day are over 1000 again\. Therefore RCK need donations of money, food and time\! If you can help in any of those three departments, please email refugeecommunitykitchen@gmail\.com
 
 
-![RCK](assets/b37ae77bd880/1*s2-_6L9ONC-vhc5R1ozx6A.jpeg)
+![RCK](../assets/b37ae77bd880/1*s2-_6L9ONC-vhc5R1ozx6A.jpeg)
 
 RCK
 

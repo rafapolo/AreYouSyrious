@@ -1,5 +1,5 @@
 ---
-title: Idomeni Special: Around 2,000 people moved out from the camp during the first day of eviction
+title: "Idomeni Special: Around 2,000 people moved out from the camp during the first day of eviction"
 author: Are You Syrious?
 date: 2016-05-24T17:48:22.306+0100
 last_modified_at: 2017-01-06T19:48:11.158+0000
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe,idomeni]
 description: After more than three months, the improvised refugee camp in Idomeni, at the Greek — Macedonian border, is closing down. Relocation of…
 image:
-  path: assets/f10d33b84e4d/1*DtBvDJg2ycCo9A6c5VgL2w.jpeg
+  path: ../assets/f10d33b84e4d/1*DtBvDJg2ycCo9A6c5VgL2w.jpeg
 ---
 
 ### Idomeni Special: Around 2,000 people moved out from the camp during the first day of eviction
 
 
-![Photo by Anezka Polaskova](assets/f10d33b84e4d/1*DtBvDJg2ycCo9A6c5VgL2w.jpeg)
+![Photo by Anezka Polaskova](../assets/f10d33b84e4d/1*DtBvDJg2ycCo9A6c5VgL2w.jpeg)
 
 Photo by Anezka Polaskova
 
@@ -22,20 +22,20 @@ After more than three months, the improvised refugee camp in Idomeni, at the Gre
 According to Petros Tanos, press officer for the local police, 42 buses that left Idomeni went to camps in the Thessaloniki area and two buses with 96 Yazidi people are going to a camp in Petra, near Mount Olympus\.
 
 
-![](assets/f10d33b84e4d/1*Cc5ddkbdEdo8nwKL5Qxtrg.jpeg)
+![](../assets/f10d33b84e4d/1*Cc5ddkbdEdo8nwKL5Qxtrg.jpeg)
 
 
 
-![Refugees TV](assets/f10d33b84e4d/1*59sHF6cYlh7GmBEJyqrwjQ.jpeg)
+![Refugees TV](../assets/f10d33b84e4d/1*59sHF6cYlh7GmBEJyqrwjQ.jpeg)
 
 Refugees TV
 
 
-![](assets/f10d33b84e4d/1*K18e4CfVKdZ5pIDs_R5uXw.jpeg)
+![](../assets/f10d33b84e4d/1*K18e4CfVKdZ5pIDs_R5uXw.jpeg)
 
 
 
-![Refugees TV](assets/f10d33b84e4d/1*RsuGSw9HUhjKMURZjo5NIQ.jpeg)
+![Refugees TV](../assets/f10d33b84e4d/1*RsuGSw9HUhjKMURZjo5NIQ.jpeg)
 
 Refugees TV
 
@@ -50,7 +50,7 @@ Meanwhile, tents and other temporary structures, like the cultural center or ind
 In the late afternoon, a group of volunteers organized protests against the eviction\. They say their protest is directed toward the Europe\. Other that that, everything remains calm, even though there are many people who believe that if they stay at Idomeni, there is a hope that the border will open eventually for them\. Unfortunately, it is not expected that this will happen any time soon\.
 
 
-[![Greece: Aerial footage shows riot police evacuating Idomeni refugee camp](assets/f10d33b84e4d/5021_hqdefault.jpg "Greece: Aerial footage shows riot police evacuating Idomeni refugee camp")](http://www.youtube.com/watch?v=U1GvBLdo8zk)
+[![Greece: Aerial footage shows riot police evacuating Idomeni refugee camp](../assets/f10d33b84e4d/5021_hqdefault.jpg "Greece: Aerial footage shows riot police evacuating Idomeni refugee camp")](http://www.youtube.com/watch?v=U1GvBLdo8zk)
 
 
 During the eviction, police guarded busses that were taking refugees to other camps, dividing people by their nationalities in order to keep people coming from the same countries together in the same camps not only in order to more easily facilitate the asylum process, but also to avoid inter\-nationality hostilities that are occurring occasionally in camps in Greece\.
@@ -58,21 +58,21 @@ During the eviction, police guarded busses that were taking refugees to other ca
 Greek government decided to move people from Idomeni in order to open the rail\-tracks\. Previously, the Greek minister of Infrastructure and Transportation said that the economic impact of the railway blockade is “dramatic\.” Nevertheless, the impact it had on the over 12,000 people that were stranded here after so\-called Balkan route was closed, is much more dramatic, but not enough to make those responsible — not only Greek government — react humanely, people having been left freezing in the snow and rain, sleeping on the ground, eating only what volunteers were providing, for months\.
 
 
-![](assets/f10d33b84e4d/1*0oisgvTeAEAPzFFWmqsQvw.jpeg)
+![](../assets/f10d33b84e4d/1*0oisgvTeAEAPzFFWmqsQvw.jpeg)
 
 
 
-![Volunteers in Idomeni](assets/f10d33b84e4d/1*pV_hGLfWuE481WMT39IllQ.jpeg)
+![Volunteers in Idomeni](../assets/f10d33b84e4d/1*pV_hGLfWuE481WMT39IllQ.jpeg)
 
 Volunteers in Idomeni
 
 
-![Farewell, Idomeni, Photo by [Ana Carolina Moreno](https://www.facebook.com/anacarolinamoreno/)](assets/f10d33b84e4d/1*4Es_ap4lSg1yF_7zTZFzVA.jpeg)
+![Farewell, Idomeni, Photo by [Ana Carolina Moreno](https://www.facebook.com/anacarolinamoreno/)](../assets/f10d33b84e4d/1*4Es_ap4lSg1yF_7zTZFzVA.jpeg)
 
 Farewell, Idomeni, Photo by [Ana Carolina Moreno](https://www.facebook.com/anacarolinamoreno/)
 
 
-![Farewell Europe, Idomeni, Photo by [Ana Carolina Moreno](https://www.facebook.com/anacarolinamoreno/)](assets/f10d33b84e4d/1*WPH3QRHPUjIdXFqPcg792A.jpeg)
+![Farewell Europe, Idomeni, Photo by [Ana Carolina Moreno](https://www.facebook.com/anacarolinamoreno/)](../assets/f10d33b84e4d/1*WPH3QRHPUjIdXFqPcg792A.jpeg)
 
 Farewell Europe, Idomeni, Photo by [Ana Carolina Moreno](https://www.facebook.com/anacarolinamoreno/)
 

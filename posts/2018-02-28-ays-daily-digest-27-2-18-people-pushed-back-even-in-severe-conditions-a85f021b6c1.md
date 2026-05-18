@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 27/2/18: People pushed back even in severe conditions
+title: "AYS Daily Digest 27/2/18: People pushed back even in severe conditions"
 author: Are You Syrious?
 date: 2018-02-28T16:19:18.774+0000
 last_modified_at: 2018-03-01T13:24:17.909+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,bosnia,croatia,serbia,digest]
 description: Women have systematically been abused by aid workers across Syrian areas in desperate need of help — report / New reports of push backs…
 image:
-  path: assets/a85f021b6c1/1*ZzgQbJDlRuTmpWj_iqqF_w.jpeg
+  path: ../assets/a85f021b6c1/1*ZzgQbJDlRuTmpWj_iqqF_w.jpeg
 ---
 
 ### AYS Daily Digest 27/2/18: People pushed back even in severe conditions
 #### Women have systematically been abused by aid workers across Syrian areas in desperate need of help — report / New reports of push backs along the remaining ‘Balkan Route’ / Details on the situation in Turkey / Lawyers oppose detainment on Greek islands / Many calls for help for across Europe / and more news and updates
 
 
-![In the area of the provisional refugee camp in Rome \(Photo: [Baobab Experience](https://www.facebook.com/BaobabExperience/?fref=mentions) \)](assets/a85f021b6c1/1*ZzgQbJDlRuTmpWj_iqqF_w.jpeg)
+![In the area of the provisional refugee camp in Rome \(Photo: [Baobab Experience](https://www.facebook.com/BaobabExperience/?fref=mentions) \)](../assets/a85f021b6c1/1*ZzgQbJDlRuTmpWj_iqqF_w.jpeg)
 
 In the area of the provisional refugee camp in Rome \(Photo: [Baobab Experience](https://www.facebook.com/BaobabExperience/?fref=mentions) \)
 #### FEATURE — Violent push backs in the Balkans
@@ -49,7 +49,7 @@ Are You Syrious, Center for Peace Studies and Welcome Initiative together with N
 **Read more on the cases, reactions of the officials and the report in tomorrow’s AYS Special\.**
 
 
-![](assets/a85f021b6c1/1*vOO4orOf3fj040v-ym4aOg.jpeg)
+![](../assets/a85f021b6c1/1*vOO4orOf3fj040v-ym4aOg.jpeg)
 
 #### SYRIA
 ### Systematic abuse of Syrian women in war zones
@@ -130,7 +130,7 @@ Addressing a joint [pres](http://www.ekathimerini.com/226238/article/ekathimerin
 Apart from undermining their dignity, detaining people on the islands has also prevented them from attending the hearings of their asylum claims in Athens\.
 
 
-![lawyer of [\#KillahP](https://www.facebook.com/hashtag/killahp) was injured after GD fascist attack against Favela free social center at Piraeus on Sunday](assets/a85f021b6c1/1*CcXT583FIcUGm1lmSEIH1g.jpeg)
+![lawyer of [\#KillahP](https://www.facebook.com/hashtag/killahp) was injured after GD fascist attack against Favela free social center at Piraeus on Sunday](../assets/a85f021b6c1/1*CcXT583FIcUGm1lmSEIH1g.jpeg)
 
 lawyer of [\#KillahP](https://www.facebook.com/hashtag/killahp) was injured after GD fascist attack against Favela free social center at Piraeus on Sunday
 

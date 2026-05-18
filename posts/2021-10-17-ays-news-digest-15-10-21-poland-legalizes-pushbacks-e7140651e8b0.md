@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 15/10/21: Poland legalizes pushbacks
+title: "AYS News Digest 15/10/21: Poland legalizes pushbacks"
 author: Are You Syrious?
 date: 2021-10-17T08:22:09.289+0100
 last_modified_at: 2021-10-17T08:22:09.289+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,migration,refugees,migrants,poland]
 description: Turkey-Iran pushbacks highlighted // Hundreds don’t have food in Greek camps // Italian ship captain sentenced for pushback // Serbian man…
 image:
-  path: assets/e7140651e8b0/0*uN3OYpu-AfH7hiTu.jpeg
+  path: ../assets/e7140651e8b0/0*uN3OYpu-AfH7hiTu.jpeg
 ---
 
 ### AYS News Digest 15/10/21: Poland legalizes pushbacks
@@ -15,11 +15,11 @@ image:
 ### FEATURE — Poland legalizes pushbacks in a move that violates international law
 
 
-![](assets/e7140651e8b0/0*bpxpix8olNPP0ixi)
+![](../assets/e7140651e8b0/0*bpxpix8olNPP0ixi)
 
 
 
-![](assets/e7140651e8b0/0*uN3OYpu-AfH7hiTu.jpeg)
+![](../assets/e7140651e8b0/0*uN3OYpu-AfH7hiTu.jpeg)
 
 
 Polish soldiers in front of the border guard headquarters in Michalowo, Poland on October 11\. \(Photo: [CNN](https://www.cnn.com/2021/10/15/europe/poland-border-pushback-legislation-intl/index.html) \)
@@ -117,11 +117,11 @@ Police are investigating the incidents, but for now Sevo has been forced to clos
 ### No Name Kitchen warns of daily, large\-scale evictions in northern Serbia
 
 
-![](assets/e7140651e8b0/0*OVr9vhIPGPTbzc8O)
+![](../assets/e7140651e8b0/0*OVr9vhIPGPTbzc8O)
 
 
 
-![](assets/e7140651e8b0/0*KWlgvwdML2C7pxpT.jpeg)
+![](../assets/e7140651e8b0/0*KWlgvwdML2C7pxpT.jpeg)
 
 
 \(Photo: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/1337693583295589) \)

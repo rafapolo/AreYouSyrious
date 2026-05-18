@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 20–21/10/18: Starvation on Samos
+title: "AYS Weekend Digest 20–21/10/18: Starvation on Samos"
 author: Are You Syrious?
 date: 2018-10-22T10:11:33.987+0100
 last_modified_at: 2018-10-24T12:29:40.418+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,greece,samos,bihac,starvation]
 description: Refugees are being denied food in the Aegean camps as overcrowding worsens.
 image:
-  path: assets/f4fac652c0d3/1*8-_XkVPDedwnQmH-AEDglA.jpeg
+  path: ../assets/f4fac652c0d3/1*8-_XkVPDedwnQmH-AEDglA.jpeg
 ---
 
 ### AYS Weekend Digest 20–21/10/18: Starvation on Samos
 #### Refugees are being denied food in the Aegean camps as overcrowding worsens\.
 
 
-![A tent outside of the camp on Samos\. Photo Credit: AYS](assets/f4fac652c0d3/1*8-_XkVPDedwnQmH-AEDglA.jpeg)
+![A tent outside of the camp on Samos\. Photo Credit: AYS](../assets/f4fac652c0d3/1*8-_XkVPDedwnQmH-AEDglA.jpeg)
 
 A tent outside of the camp on Samos\. Photo Credit: AYS
 ### Feature
@@ -26,7 +26,7 @@ The camp is massively overcrowded, and authorities have not made the minimum eff
 According to the latest figures made available by the UNHCR, there are currently 3,748 people living in the camp, but some people working on the ground have cast doubt on these numbers, claiming they could be much higher\. Certainly the numbers are higher as of today, with a week of many new arrivals on the island\.
 
 
-![](assets/f4fac652c0d3/1*Xn3v0xVxbbkc6Eq7o2G5Dg.png)
+![](../assets/f4fac652c0d3/1*Xn3v0xVxbbkc6Eq7o2G5Dg.png)
 
 
 At the moment, there is simply not enough food being sent to feed all of the people in the camp\. Considering the massive resources and funding that the UNHCR has, and the money sent to Greek authorities by the EC, this is beyond outrageous\.
@@ -44,7 +44,7 @@ In East and West Ghouta, Syrian security forces have been carrying out operation
 According to the Moroccan Association for Human Rights \(AMDH\), 30 people who crossed into Melilla on Friday were denied the chance to apply for asylum and forcibly returned to Morocco on Saturday\. Among the people returned were 4 women and 4 children\.
 
 
-![People waiting to be forcibly returned to Morocco\. Photo Credit: [AMDH](https://www.facebook.com/AmdhNador/photos/pcb.2203704493175147/2203704346508495/?type=3&theater&ifg=1)](assets/f4fac652c0d3/1*rtbhaLe5n-KkJ6Of1I_F1Q.jpeg)
+![People waiting to be forcibly returned to Morocco\. Photo Credit: [AMDH](https://www.facebook.com/AmdhNador/photos/pcb.2203704493175147/2203704346508495/?type=3&theater&ifg=1)](../assets/f4fac652c0d3/1*rtbhaLe5n-KkJ6Of1I_F1Q.jpeg)
 
 People waiting to be forcibly returned to Morocco\. Photo Credit: [AMDH](https://www.facebook.com/AmdhNador/photos/pcb.2203704493175147/2203704346508495/?type=3&theater&ifg=1)
 
@@ -93,18 +93,18 @@ On Saturday, over 200 people attempted to cross over the heavily fortified fence
 
 
 ![Photo Credit: [AMDH](https://www.facebook.com/AmdhNador/posts/2204211723124424) \. “This is the result of the barriers built between Melilla and Nador
-Most of the injuries in the ranks of migrants received today at nador hospital were caused by these sharp steel blades\. Yet the Spanish Prime Minister said he wanted to eliminate these sharp barriers\. While we are waiting for this to happen, migrants suffer: one dead and 20 injured on the Moroccan side, 4 of whom are still in treatment\.”](assets/f4fac652c0d3/1*6fNSuoaC8kxJz-FVfhGZ1w.jpeg)
+Most of the injuries in the ranks of migrants received today at nador hospital were caused by these sharp steel blades\. Yet the Spanish Prime Minister said he wanted to eliminate these sharp barriers\. While we are waiting for this to happen, migrants suffer: one dead and 20 injured on the Moroccan side, 4 of whom are still in treatment\.”](../assets/f4fac652c0d3/1*6fNSuoaC8kxJz-FVfhGZ1w.jpeg)
 
 Photo Credit: [AMDH](https://www.facebook.com/AmdhNador/posts/2204211723124424) \. “This is the result of the barriers built between Melilla and Nador
 Most of the injuries in the ranks of migrants received today at nador hospital were caused by these sharp steel blades\. Yet the Spanish Prime Minister said he wanted to eliminate these sharp barriers\. While we are waiting for this to happen, migrants suffer: one dead and 20 injured on the Moroccan side, 4 of whom are still in treatment\.”
 
 
-![Photo Credit: AMDH](assets/f4fac652c0d3/1*DgbcMxZ8ajlvAChmsAOXBw.jpeg)
+![Photo Credit: AMDH](../assets/f4fac652c0d3/1*DgbcMxZ8ajlvAChmsAOXBw.jpeg)
 
 Photo Credit: AMDH
 
 
-![Photo Credit: AMDH](assets/f4fac652c0d3/1*AXSDjaTx8LNlLRVdgGAhSg.jpeg)
+![Photo Credit: AMDH](../assets/f4fac652c0d3/1*AXSDjaTx8LNlLRVdgGAhSg.jpeg)
 
 Photo Credit: AMDH
 ### Italy
@@ -156,7 +156,7 @@ The Iris Center on Chios is looking for volunteers for their ongoing work suppor
 Volunteers on Chios are gathering jackets for the winter, you can contact [Jenny Kali](https://www.facebook.com/jenny.kali.1?__tn__=%2Cd*F*F-R&eid=ARCrS6HB-L8RLPdJonk5BUjjhES8fPdCXMWok1SM0GjEqMlwxsszkgbfxBZk0pQACzqsjI9ezPYSrNHQ&tn-str=*F) to donate\.
 
 
-![Photo Credit: [Giorgos Moutafis](https://www.facebook.com/giorgos.moutafis.5?__tn__=%2CdCH-R-R&eid=ARAhLNUL38da8quwE7RuTMTQgcWUDT5vyaMjcrPcSZ893ltPzn2QwavkfM_4qS0PSBm05jQQseFjMCOz&hc_ref=ARQTpY8sAmf27jC_p4pwDfYEcgQHGN37G6sS-bYraRMJT1kOrLCmhQqEua2fwE7ay4I&fref=nf) \. “A female refugee from Afghanistan’s Kontoúz is cooking with her daughter at the impromptu camp outside the hot spot of Mória\. They have lived in the last 2 months of the summer heat with minimal access to running water, toilet and electric\.”](assets/f4fac652c0d3/1*fFe3fUz05y85WYzNhuOXJQ.jpeg)
+![Photo Credit: [Giorgos Moutafis](https://www.facebook.com/giorgos.moutafis.5?__tn__=%2CdCH-R-R&eid=ARAhLNUL38da8quwE7RuTMTQgcWUDT5vyaMjcrPcSZ893ltPzn2QwavkfM_4qS0PSBm05jQQseFjMCOz&hc_ref=ARQTpY8sAmf27jC_p4pwDfYEcgQHGN37G6sS-bYraRMJT1kOrLCmhQqEua2fwE7ay4I&fref=nf) \. “A female refugee from Afghanistan’s Kontoúz is cooking with her daughter at the impromptu camp outside the hot spot of Mória\. They have lived in the last 2 months of the summer heat with minimal access to running water, toilet and electric\.”](../assets/f4fac652c0d3/1*fFe3fUz05y85WYzNhuOXJQ.jpeg)
 
 Photo Credit: [Giorgos Moutafis](https://www.facebook.com/giorgos.moutafis.5?__tn__=%2CdCH-R-R&eid=ARAhLNUL38da8quwE7RuTMTQgcWUDT5vyaMjcrPcSZ893ltPzn2QwavkfM_4qS0PSBm05jQQseFjMCOz&hc_ref=ARQTpY8sAmf27jC_p4pwDfYEcgQHGN37G6sS-bYraRMJT1kOrLCmhQqEua2fwE7ay4I&fref=nf) \. “A female refugee from Afghanistan’s Kontoúz is cooking with her daughter at the impromptu camp outside the hot spot of Mória\. They have lived in the last 2 months of the summer heat with minimal access to running water, toilet and electric\.”
 #### Mainland

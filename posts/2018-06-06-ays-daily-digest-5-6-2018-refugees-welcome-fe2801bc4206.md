@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,are-you-syrious,sarajevo,italy]
 description: New rescues in the Med /// Protests and strikes in Italy /// Deportations planned in Austria and Finland /// Updates from Turkish camps ///…
 image:
-  path: assets/fe2801bc4206/1*Vfae1fo4v6wp_V_eYAOHug.jpeg
+  path: ../assets/fe2801bc4206/1*Vfae1fo4v6wp_V_eYAOHug.jpeg
 ---
 
 ### AYS Daily Digest 5/6/2018 Refugees Welcome
@@ -15,7 +15,7 @@ image:
 New rescues in the Med /// Protests and strikes in Italy /// Deportations planned in Austria and Finland /// Updates from Turkish camps /// Updates from the Bosnian\-Croatian border /// New reports on Amygdaleza camp /// More info, news and updates from Greece, Italy, Hungary and the UK
 
 
-![Refugees Welcome event in Sarajevo \(Photo by AYS\)](assets/fe2801bc4206/1*CebNnIruaOEaZ0ktPN7KnA.jpeg)
+![Refugees Welcome event in Sarajevo \(Photo by AYS\)](../assets/fe2801bc4206/1*CebNnIruaOEaZ0ktPN7KnA.jpeg)
 
 Refugees Welcome event in Sarajevo \(Photo by AYS\)
 #### FEATURE: REFUGEES WELCOME
@@ -153,7 +153,7 @@ According to the [Missing Migrants Project](https://missingmigrants.iom.int/regi
 Salvamento Maritimo [report](https://twitter.com/salvamentogob/status/1003906831092199425) that 11 people were rescued on their way to Spain\. They were disembarked safely in Tarifa last night\.ù
 
 
-![Rescue in the Central Mediterranean \(photo by [Sea Watch](https://www.facebook.com/seawatchprojekt) \)](assets/fe2801bc4206/1*Vfae1fo4v6wp_V_eYAOHug.jpeg)
+![Rescue in the Central Mediterranean \(photo by [Sea Watch](https://www.facebook.com/seawatchprojekt) \)](../assets/fe2801bc4206/1*Vfae1fo4v6wp_V_eYAOHug.jpeg)
 
 Rescue in the Central Mediterranean \(photo by [Sea Watch](https://www.facebook.com/seawatchprojekt) \)
 
@@ -304,7 +304,7 @@ On Monday a strike was organised by the USB, organisation of which Sumaila Sacko
 More protests were launched for the next days and weeks:
 
 
-![\(A migrant\. A farm worker\. An oppressed\. A union activist\. A brother\. A man\. Soumaila Sacko, one of us\! \#neverslaves\)](assets/fe2801bc4206/1*P3NoN3bhSog95z3Kf2uEhQ.jpeg)
+![\(A migrant\. A farm worker\. An oppressed\. A union activist\. A brother\. A man\. Soumaila Sacko, one of us\! \#neverslaves\)](../assets/fe2801bc4206/1*P3NoN3bhSog95z3Kf2uEhQ.jpeg)
 
 \(A migrant\. A farm worker\. An oppressed\. A union activist\. A brother\. A man\. Soumaila Sacko, one of us\! \#neverslaves\)
 
@@ -314,7 +314,7 @@ Protests outside the local police headquarters have been launched for Thursday J
 The [Caritas Intemelia](https://www.facebook.com/caritasventimiglia/) group, working in Ventimiglia, published an updates on the numbers of people they served in May\.
 
 
-![](assets/fe2801bc4206/1*V57h17z2bDPoC_Iwm5Oy5Q.jpeg)
+![](../assets/fe2801bc4206/1*V57h17z2bDPoC_Iwm5Oy5Q.jpeg)
 
 #### Services for LGBT migrants
 
@@ -330,7 +330,7 @@ BOSNIA
 More than 1000 people gathered in Sarajevo for the Refugees Welcome event organized by a group of citizens and volunteers\. Two photo exhibitions were part of the event, as well as a concert\. One of the exhibitions is called People of Sarajevo and it shows series of photos of people on the move who are currently in Sarajevo\. This is another way to show they are welcome in Sarajevo and Bosnia\.
 
 
-![Photo by AYS](assets/fe2801bc4206/1*yhmnXTIF9UKuHlRAOrc-YA.jpeg)
+![Photo by AYS](../assets/fe2801bc4206/1*yhmnXTIF9UKuHlRAOrc-YA.jpeg)
 
 Photo by AYS
 #### A few thoughts after Bosnia: activist’s report from the Bosnian/Croatian border
@@ -394,7 +394,7 @@ Read the full article [here](https://enoughisenough14.org/2018/06/05/a-few-thoug
 One Bridge to Idomeni [published](https://www.facebook.com/1Bridge2Idomeni/posts/1125699897572538) an update from their mission in Bihac\.
 
 
-![Bihac \(Photo by [One Bridge To I](https://www.facebook.com/1Bridge2Idomeni/) domeni\)](assets/fe2801bc4206/1*bnJJKxrkOIKC30wTuClwFg.jpeg)
+![Bihac \(Photo by [One Bridge To I](https://www.facebook.com/1Bridge2Idomeni/) domeni\)](../assets/fe2801bc4206/1*bnJJKxrkOIKC30wTuClwFg.jpeg)
 
 Bihac \(Photo by [One Bridge To I](https://www.facebook.com/1Bridge2Idomeni/) domeni\)
 

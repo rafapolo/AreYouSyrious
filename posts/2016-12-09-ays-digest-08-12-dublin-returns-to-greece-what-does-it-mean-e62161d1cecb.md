@@ -1,5 +1,5 @@
 ---
-title: AYS DIGEST 08/12: Dublin returns to Greece — what does it mean?
+title: "AYS DIGEST 08/12: Dublin returns to Greece — what does it mean?"
 author: Are You Syrious?
 date: 2016-12-09T00:22:18.113+0000
 last_modified_at: 2016-12-09T08:06:28.076+0000
@@ -7,13 +7,13 @@ categories:
 tags: [europe,refugees,european-union,greece]
 description: Protests over bad conditions in camps once more/Refugees write letter to Hungarian government/Danish MP suggests shooting at boats with…
 image:
-  path: assets/e62161d1cecb/1*KCpGqU4QsxZ7qwtd16B-RA.jpeg
+  path: ../assets/e62161d1cecb/1*KCpGqU4QsxZ7qwtd16B-RA.jpeg
 ---
 
 ### AYS DIGEST 08/12: Dublin returns to Greece — what does it mean?
 
 
-![Photo by [**Samos Volunteers**](https://www.facebook.com/samosvolunteers/?fref=nf)](assets/e62161d1cecb/1*KCpGqU4QsxZ7qwtd16B-RA.jpeg)
+![Photo by [**Samos Volunteers**](https://www.facebook.com/samosvolunteers/?fref=nf)](../assets/e62161d1cecb/1*KCpGqU4QsxZ7qwtd16B-RA.jpeg)
 
 Photo by [**Samos Volunteers**](https://www.facebook.com/samosvolunteers/?fref=nf)
 #### **Protests over bad conditions in camps once more/Refugees write letter to Hungarian government/Danish MP suggests shooting at boats with refugees/8162 people relocated from Italy and Greece so far**
@@ -97,12 +97,12 @@ Discussions about air\-dropping food into Aleppo and other besieged enclaves hav
 On Wednesday about 150 civilians, most either disabled or in need of urgent care, were evacuated from a hospital in Aleppo’s Old City — the first major medical evacuation from the eastern sector\. They had been trapped there for days by nearby fighting, a spokeswoman for the International Committee of the Red Cross said\.
 
 
-![Photo by Fred Pleitgen](assets/e62161d1cecb/1*XOBcDTfEu1LtzBZEIpiA9g.jpeg)
+![Photo by Fred Pleitgen](../assets/e62161d1cecb/1*XOBcDTfEu1LtzBZEIpiA9g.jpeg)
 
 Photo by Fred Pleitgen
 
 
-![Photo by Fred Pleitgen](assets/e62161d1cecb/1*WqmgtL71JuPKydpSp4BA6g.jpeg)
+![Photo by Fred Pleitgen](../assets/e62161d1cecb/1*WqmgtL71JuPKydpSp4BA6g.jpeg)
 
 Photo by Fred Pleitgen
 ### Greece
@@ -122,7 +122,7 @@ Refugees at the recently re\-opened Koutsohero camp blocked the road in front of
 After having lived in Greece for more than 8 months, the community from Katsikas Camp would like to host you and make you discover the richness of their countries\. From painting and art crafts over traditional clothing to culinary arts, the exhibition allows you to experience the variety of their cultures and traditions\.
 
 
-![Photo by [**Bubbles of Hope**](https://www.facebook.com/Bubbles-of-Hope-1572917856059618/)](assets/e62161d1cecb/1*qVzTNzqSbv0NJeyffXEG0g.jpeg)
+![Photo by [**Bubbles of Hope**](https://www.facebook.com/Bubbles-of-Hope-1572917856059618/)](../assets/e62161d1cecb/1*qVzTNzqSbv0NJeyffXEG0g.jpeg)
 
 Photo by [**Bubbles of Hope**](https://www.facebook.com/Bubbles-of-Hope-1572917856059618/)
 #### Athens
@@ -164,7 +164,7 @@ From Hungary we have news of a desperate appeal\.
 We got a cry for help from Körmend where 20 people were transferred yesterday\.
 
 
-![Photo by [MigSzol Csoport](https://www.facebook.com/migszolcsoport/)](assets/e62161d1cecb/1*_j-VsJQX9FMpJX7CdCVBZA.png)
+![Photo by [MigSzol Csoport](https://www.facebook.com/migszolcsoport/)](../assets/e62161d1cecb/1*_j-VsJQX9FMpJX7CdCVBZA.png)
 
 Photo by [MigSzol Csoport](https://www.facebook.com/migszolcsoport/)
 ### Denmark

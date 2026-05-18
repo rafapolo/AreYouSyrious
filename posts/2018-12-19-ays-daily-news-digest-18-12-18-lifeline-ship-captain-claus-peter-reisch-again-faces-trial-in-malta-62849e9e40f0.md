@@ -1,5 +1,5 @@
 ---
-title: AYS Daily News Digest 18/12/18: Lifeline ship captain Claus-Peter Reisch again faces trial in Malta
+title: "AYS Daily News Digest 18/12/18: Lifeline ship captain Claus-Peter Reisch again faces trial in Malta"
 author: Are You Syrious?
 date: 2018-12-19T13:10:52.012+0000
 last_modified_at: 2018-12-19T13:30:33.268+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,digest]
 description: Human Rights Watch files report on bordr violence in Evros// Paris protest against handling of refugees and unaccompanied minors//Centre…
 image:
-  path: assets/62849e9e40f0/0*PtBoIwNrXnWvgS0q
+  path: ../assets/62849e9e40f0/0*PtBoIwNrXnWvgS0q
 ---
 
 ### AYS Daily News Digest 18/12/18: Lifeline ship captain Claus\-Peter Reisch again faces trial in Malta
@@ -15,7 +15,7 @@ image:
 _Human Rights Watch files report on border violence in Evros// Paris protest against handling of refugees and unaccompanied minors//Centre for Peace Studies files complaint over illegal pushbacks//_
 
 
-![Photo by Mission Lifeline](assets/62849e9e40f0/0*PtBoIwNrXnWvgS0q)
+![Photo by Mission Lifeline](../assets/62849e9e40f0/0*PtBoIwNrXnWvgS0q)
 
 Photo by Mission Lifeline
 
@@ -39,7 +39,7 @@ After the permission to disembark in Mata “w _e were given a berth & the Malte
 ### Boat arrives to Samos
 
 
-![Photo provided by [City Plaza](https://www.facebook.com/sol2refugeesen/?tn-str=k%2AF)](assets/62849e9e40f0/0*BRgfHKWBDkykDE5P)
+![Photo provided by [City Plaza](https://www.facebook.com/sol2refugeesen/?tn-str=k%2AF)](../assets/62849e9e40f0/0*BRgfHKWBDkykDE5P)
 
 Photo provided by [City Plaza](https://www.facebook.com/sol2refugeesen/?tn-str=k%2AF)
 
@@ -49,7 +49,7 @@ Photo provided by [City Plaza](https://www.facebook.com/sol2refugeesen/?tn-str=k
 [20minutos](https://www.20minutos.es/noticia/3519156/0/condenada-activista-lola-gutierrez-17meses-tentativa-contrabando-personas-ayudar-menor-refugiado/) reports the Spanish activist and trade unionist Lola Gutiérrez was sentenced on Tuesday in Athens to a suspended sentence of 17 months, for attempted smuggling of persons and use of improper documentation, after trying to help a refugee minor leave the country in 2016\. Her lawyer Panayiotis Papayeoryiu said “it’s a very low penalty, just our target\. The judge has accepted the humanitarian motives that led Lola to act like this”\. A solidarity gathering took place in front of the court that same day\.
 
 
-![Photo by City Plaza](assets/62849e9e40f0/0*kSYijP5jB9yg7snS)
+![Photo by City Plaza](../assets/62849e9e40f0/0*kSYijP5jB9yg7snS)
 
 Photo by City Plaza
 ### Border violence in Evros
@@ -59,18 +59,18 @@ Photo by City Plaza
 ### International day of migrants in Paris
 
 
-![](assets/62849e9e40f0/0*7mMRBtaMqQkMVq3B)
+![](../assets/62849e9e40f0/0*7mMRBtaMqQkMVq3B)
 
 
 A rally took place on Tuesday for the international day of migrants in Paris, to protest against rising nationalism and in memory of all those who died while trying to reach Europe\. Banners were also installed in front of the Red Cross, where minors are being evaluated and often rejected, forcing them to continue living in the streets\.
 
 
-![Photo by [Accceuil de Merde](https://blogs.mediapart.fr/accueil-de-merde/blog/171218/letat-fait-une-croix-rouge-sur-les-droits-de-lenfant)](assets/62849e9e40f0/0*ruXueyt_tbvME-r0)
+![Photo by [Accceuil de Merde](https://blogs.mediapart.fr/accueil-de-merde/blog/171218/letat-fait-une-croix-rouge-sur-les-droits-de-lenfant)](../assets/62849e9e40f0/0*ruXueyt_tbvME-r0)
 
 Photo by [Accceuil de Merde](https://blogs.mediapart.fr/accueil-de-merde/blog/171218/letat-fait-une-croix-rouge-sur-les-droits-de-lenfant)
 
 
-![Photo by SAJE\.](assets/62849e9e40f0/0*lAAa-fr2gB5BNH9S)
+![Photo by SAJE\.](../assets/62849e9e40f0/0*lAAa-fr2gB5BNH9S)
 
 Photo by SAJE\.
 
@@ -79,7 +79,7 @@ Food and hygiene item distributions continue everyday for minors waiting near th
 ### Protest agains living conditions in detention centre
 
 
-![Photo by Susane Schwicker](assets/62849e9e40f0/0*Y6qR735UrppogYeV)
+![Photo by Susane Schwicker](../assets/62849e9e40f0/0*Y6qR735UrppogYeV)
 
 Photo by Susane Schwicker
 
@@ -90,7 +90,7 @@ A demonstration took place in front of the UN, asking for human rights to be res
 The [Centre for Peace Studies](https://www.cms.hr/hr/azil-i-integracijske-politike/medunarodni-dan-migranata-nova-kaznena-prijava-zbog-sumnje-na-nezakonito-postupanje-policijskih-sluzbenika?fbclid=IwAR3eTwMX5ekvOMzg8_s8OxmhEXMm_uKiNT0kxs2EBbfHobNoZVrPWWKOO7s) filed a complaint to the State Attorney, urging them to examine the evidence in the recently documented and widely published case of mass expulsion by the Croatian police\. Border Violence Monitoring had published more than 130 recordings, showing illegal and often violent pushbacks by Croatian police into Bosnian territory\. Asja Korbar from Are You Syrious was a guest at the [regional TV station N1](http://hr.n1info.com/Vijesti/a356232/Asja-Korbar-Vracanje-izbjeglica-iz-Hrvatske-sve-je-nasilnije.html?fbclid=IwAR1qKDX6z4MLkYXMauP8wFaIE_LO07AV-TvoDpe-YG3PQd9-qz4yMQGo5Uw) , speaking about the recent expulsions\. Korbar notes that organisations have warned of illegal and increasingly violent return of refugees from the Croatian territory since 2016 and criticises that the refugees’ cases are not assessed individually, but that they are collectively returned to the territory of another state\.
 
 
-![Photo by [Border Violence Monitoring](https://www.facebook.com/borderviolencemonitoring/?tn-str=k%2AF)](assets/62849e9e40f0/0*W_Nei_zvDQsX1CL7)
+![Photo by [Border Violence Monitoring](https://www.facebook.com/borderviolencemonitoring/?tn-str=k%2AF)](../assets/62849e9e40f0/0*W_Nei_zvDQsX1CL7)
 
 Photo by [Border Violence Monitoring](https://www.facebook.com/borderviolencemonitoring/?tn-str=k%2AF)
 

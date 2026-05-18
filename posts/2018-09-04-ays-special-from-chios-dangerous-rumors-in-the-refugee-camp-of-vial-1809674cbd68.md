@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL from Chios: Dangerous rumors in the refugee camp of Vial
+title: "AYS SPECIAL from Chios: Dangerous rumors in the refugee camp of Vial"
 author: Are You Syrious?
 date: 2018-09-04T12:01:42.200+0100
 last_modified_at: 2018-09-05T11:42:53.267+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,vials,chios,special,rlca]
 description: Dangerous rumors are spreading in refugee camps like Vial due to, among other things, the lack of legal information and the length of the…
 image:
-  path: assets/1809674cbd68/1*njvCWTM9ve6Czd4yeAz77A.jpeg
+  path: ../assets/1809674cbd68/1*njvCWTM9ve6Czd4yeAz77A.jpeg
 ---
 
 ### AYS SPECIAL from Chios: Dangerous rumors in the refugee camp of Vial
@@ -15,7 +15,7 @@ image:
 _Dangerous rumors are spreading in refugee camps like Vial due to, among other things, the lack of legal information and the length of the procedures\. In order to avoid far\-reaching consequences on the asylum procedures of the applicants, it is imperative that these falsehoods are identified, denied and explained to asylum seekers\. Hanna Umecka and Kenya Pigneret from the [Refugee Law Clinics Abroad \(RLCA\)](https://refugeelawclinicsabroad.org/) on Chios help to debunk some of these rumors_
 
 
-![Drawing from **Margot Van Kerckhove**](assets/1809674cbd68/1*njvCWTM9ve6Czd4yeAz77A.jpeg)
+![Drawing from **Margot Van Kerckhove**](../assets/1809674cbd68/1*njvCWTM9ve6Czd4yeAz77A.jpeg)
 
 Drawing from **Margot Van Kerckhove**
 
@@ -48,7 +48,7 @@ In order to understand how false this rumor is, a brief recap of procedures on C
 By way of derogation, vulnerable individuals of all categories \(Syrian, low recognition and high recognition\) are excluded from the aforementioned border procedure\. Accordingly, they are referred to the normal procedure and are transferred to the mainland, even though in practice the transfer from Chios to the mainland is not effectively taking place for the moment due to unknown practical reasons\. Moreover, people recognised as vulnerable may enjoy other special procedural guarantees\. For vulnerable people from Syria and from other countries with a high European recognition rate, being as such excluded from the border procedure also means being exempted from the admissibility assessment\. Hence, they are not assessed on whether Turkey is a safe country for them\.
 
 
-![Vial\. Photo by the independent volunteer in Chios](assets/1809674cbd68/1*wZANxS8luYSJtVQjwfuqaA.jpeg)
+![Vial\. Photo by the independent volunteer in Chios](../assets/1809674cbd68/1*wZANxS8luYSJtVQjwfuqaA.jpeg)
 
 Vial\. Photo by the independent volunteer in Chios
 

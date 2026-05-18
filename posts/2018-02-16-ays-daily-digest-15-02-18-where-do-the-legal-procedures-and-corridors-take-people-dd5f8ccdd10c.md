@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 15/02/18: Where do the legal procedures and corridors take people?
+title: "AYS Daily Digest 15/02/18: Where do the legal procedures and corridors take people?"
 author: Are You Syrious?
 date: 2018-02-16T14:15:50.210+0000
 last_modified_at: 2018-03-01T13:30:32.466+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,human-rights,libya,europe,digest]
 description: Unclear situation on providing support to people in need of international protection in eastern Croatia / Casualties after a big accident…
 image:
-  path: assets/dd5f8ccdd10c/1*KkKUMDP9nmXFMhV2xIE9FA.jpeg
+  path: ../assets/dd5f8ccdd10c/1*KkKUMDP9nmXFMhV2xIE9FA.jpeg
 ---
 
 ### AYS Daily Digest 15/02/18: Where do the legal procedures and corridors take people?
@@ -15,7 +15,7 @@ image:
 _Unclear situation on providing support to people in need of international protection in eastern Croatia / Casualties after a big accident in Libya / If planning to volunteer in the Balkans, consider coming to Bosnia and Herzegovina / NGOs in France demand prolongation of winter shelters / Barcelona collecting aid for refugees in Serbia / And more news…_
 
 
-![Photo by AYS](assets/dd5f8ccdd10c/1*KkKUMDP9nmXFMhV2xIE9FA.jpeg)
+![Photo by AYS](../assets/dd5f8ccdd10c/1*KkKUMDP9nmXFMhV2xIE9FA.jpeg)
 
 Photo by AYS
 ### FEATURE: A border patrol inside the country?
@@ -121,7 +121,7 @@ The newly\-released [Refugee Rights Europe report](http://refugeerights.org.uk/w
 #### 401 people have died this year attempting to cross the Mediterranean
 
 
-![A family member of a missing relative holds up a sign containing the contact information of the person in question \(Photo by Missing Migrants\)](assets/dd5f8ccdd10c/1*LndhsJ8ZRviHSpJrIdvUww.jpeg)
+![A family member of a missing relative holds up a sign containing the contact information of the person in question \(Photo by Missing Migrants\)](../assets/dd5f8ccdd10c/1*LndhsJ8ZRviHSpJrIdvUww.jpeg)
 
 A family member of a missing relative holds up a sign containing the contact information of the person in question \(Photo by Missing Migrants\)
 ### SPAIN
@@ -130,7 +130,7 @@ A family member of a missing relative holds up a sign containing the contact inf
 No Name Kitchen has organized a winter clothing collection in Barcelona\. Items brought in will be taken to Serbia and distributed to refugees in the country, where many people are sleeping rough and receive minimal assistance from the government\. If you are in Barcelona and would like to help out, see the poster below for the items needed as well as the collection points\.
 
 
-![](assets/dd5f8ccdd10c/1*YPWCcfUor4WREmRTujyrOA.jpeg)
+![](../assets/dd5f8ccdd10c/1*YPWCcfUor4WREmRTujyrOA.jpeg)
 
 ### AFGHANISTAN
 #### ‘Safe country’ had 10,000 civilian casualties in 2017

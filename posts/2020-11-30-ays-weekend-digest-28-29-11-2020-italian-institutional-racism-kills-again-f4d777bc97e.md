@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,italy,frontex,jamaica50]
 description: Greek minister Mitarakis visits Lesvos / New commission to investigate Frontex / Updates on the #Jamaica50 deportation flight from the UK…
 image:
-  path: assets/f4d777bc97e/1*nKKRXK9grPDqo9uAL1qPBg.jpeg
+  path: ../assets/f4d777bc97e/1*nKKRXK9grPDqo9uAL1qPBg.jpeg
 ---
 
 ### AYS Weekend Digest 28–29/11/2020 — Italian institutional racism kills again
@@ -15,7 +15,7 @@ image:
 Greek minister Mitarakis visits Lesvos // New commission to investigate Frontex // Updates on the \#Jamaica50 deportation flight from the UK // Updates from the Tigray region, Ethiopia
 
 
-![FRONTEX — Frontiers, Racism, Opacity, \(N\)business, Trap, Exclusion, Xenofobia — Over the weekend, protests against EU migration policy took place in the Canary Islands\. This is in Las Palmas \(Photo by [niksupertrampp](https://twitter.com/niksupertrampp) \)](assets/f4d777bc97e/1*nKKRXK9grPDqo9uAL1qPBg.jpeg)
+![FRONTEX — Frontiers, Racism, Opacity, \(N\)business, Trap, Exclusion, Xenofobia — Over the weekend, protests against EU migration policy took place in the Canary Islands\. This is in Las Palmas \(Photo by [niksupertrampp](https://twitter.com/niksupertrampp) \)](../assets/f4d777bc97e/1*nKKRXK9grPDqo9uAL1qPBg.jpeg)
 
 FRONTEX — Frontiers, Racism, Opacity, \(N\)business, Trap, Exclusion, Xenofobia — Over the weekend, protests against EU migration policy took place in the Canary Islands\. This is in Las Palmas \(Photo by [niksupertrampp](https://twitter.com/niksupertrampp) \)
 #### Featured — Italian institutional racism kills again
@@ -164,7 +164,7 @@ Also, Franziska Grillmaier [reported](https://twitter.com/f_grillmeier/status/13
 The [Solidarity with Migrants collective](https://web.facebook.com/solidaritymigrants) called for the “establishment of a health support network for immigrants\. This call is addressed to the healthcare movement as a whole, whether it is for associations of doctors, health groups, social clinics / pharmacies, collectives active in the field of health, or for individual colleagues \(regardless of speciality or employment relationship\) and others that can assist\.”
 
 
-![](assets/f4d777bc97e/1*bJAwIh7NtJQEXDlr0j27OQ.png)
+![](../assets/f4d777bc97e/1*bJAwIh7NtJQEXDlr0j27OQ.png)
 
 
 

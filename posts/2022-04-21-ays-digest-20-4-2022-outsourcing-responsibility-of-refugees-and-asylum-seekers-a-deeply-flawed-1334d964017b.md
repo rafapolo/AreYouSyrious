@@ -1,5 +1,5 @@
 ---
-title: AYS Digest 20/4/2022: Outsourcing responsibility of refugees and asylum seekers — a deeply flawed…
+title: "AYS Digest 20/4/2022: Outsourcing responsibility of refugees and asylum seekers — a deeply flawed…"
 author: Are You Syrious?
 date: 2022-04-21T00:36:28.180+0100
 last_modified_at: 2022-04-21T15:32:18.710+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,uk,refugees,greece,policy]
 description: #FreetheSamos2/Development of electronic surveillance system in Cyprus/Protests outside UNHCR building in Tunisia/A poem to GeoBarents/UK…
 image:
-  path: assets/1334d964017b/0*KlTZRqQGMthVq4ky
+  path: ../assets/1334d964017b/0*KlTZRqQGMthVq4ky
 ---
 
 ### AYS Digest 20/4/2022: Outsourcing responsibility of refugees and asylum seekers — a deeply flawed, inhumane and dangerous approach
@@ -15,7 +15,7 @@ image:
 \#FreetheSamos2/Development of electronic surveillance system in Cyprus/Protests outside UNHCR building in Tunisia/A poem to GeoBarents/UK looking towards Israel and Australia, as well as Greece, in its approach to asylum seekers and refugees/Denmark considering offshoring asylum seekers to Rwanda/An asylum seeker shot trying to cross from Turkey to Greece/Further resources and podcasts…
 
 
-![Source: The New Arab — Hundreds protest outside the UK Home Office](assets/1334d964017b/0*KlTZRqQGMthVq4ky)
+![Source: The New Arab — Hundreds protest outside the UK Home Office](../assets/1334d964017b/0*KlTZRqQGMthVq4ky)
 
 Source: The New Arab — Hundreds protest outside the UK Home Office
 
@@ -68,7 +68,7 @@ This UNHCR statistic and statement by the Middle East Eye is further supported b
 
 
 
-![Source: The Independent — The UK Home Secretary looks at plans for the closed camp on Samos](assets/1334d964017b/0*hQtIglJVFBWNaKYE)
+![Source: The Independent — The UK Home Secretary looks at plans for the closed camp on Samos](../assets/1334d964017b/0*hQtIglJVFBWNaKYE)
 
 Source: The Independent — The UK Home Secretary looks at plans for the closed camp on Samos
 
@@ -86,7 +86,7 @@ Despite policies being implemented to improve the immigration system, in 2015, t
 Since 2019, there has been another change towards slowing the movement of asylum seekers and decongesting the Aegean islands\. This has led to the construction of high\-tech, closed camps, which are once again being funded by the European Union\. The camps on Samos, Leros and Kos are already up and running\.
 
 
-![Source: IOM \(October 2019\)](assets/1334d964017b/0*BfZazC6jIc8HX6BX)
+![Source: IOM \(October 2019\)](../assets/1334d964017b/0*BfZazC6jIc8HX6BX)
 
 Source: IOM \(October 2019\)
 
@@ -223,7 +223,7 @@ Furthermore, a [n asylum seeker was shot dead trying to cross into Greece from T
 **CYPRUS**
 
 
-![Source: AP News — Migrants walk, near the Pournara Emergency Reception center, in Kokkinotrimithia, on the outskirts of the capital Nicosia, Cyprus, Monday, April 18, 2022\.](assets/1334d964017b/1*oSYc-Rl4BmbKcEhh7hpQhw.png)
+![Source: AP News — Migrants walk, near the Pournara Emergency Reception center, in Kokkinotrimithia, on the outskirts of the capital Nicosia, Cyprus, Monday, April 18, 2022\.](../assets/1334d964017b/1*oSYc-Rl4BmbKcEhh7hpQhw.png)
 
 Source: AP News — Migrants walk, near the Pournara Emergency Reception center, in Kokkinotrimithia, on the outskirts of the capital Nicosia, Cyprus, Monday, April 18, 2022\.
 
@@ -340,7 +340,7 @@ It's better to hear it than to explain it. https://t.co/RrMYz6Gkbq
 The president of Baobab Experience, an organisation assisting migrants in Rome, is [currently on trial](https://www.infomigrants.net/en/post/39983/italy-baobab-leader-on-trial-for-favoring-illegal-immigration?fbclid=IwAR01Yad08gWIh1xPt9cKlbkKfLkuL_6Q6bBh95CT0upmAg7yxHKokVOOl0U) connecting him to human traffickers and smugglers\.
 
 
-![Source: InfoMigrants — Andrea Costa, the President of Baobab Experience](assets/1334d964017b/0*pSYS6A8uhf-7luVg.jpg)
+![Source: InfoMigrants — Andrea Costa, the President of Baobab Experience](../assets/1334d964017b/0*pSYS6A8uhf-7luVg.jpg)
 
 Source: InfoMigrants — Andrea Costa, the President of Baobab Experience
 
@@ -349,7 +349,7 @@ Source: InfoMigrants — Andrea Costa, the President of Baobab Experience
 Following a discussion with the Mayor of Molenbeek, Catherine Moureaux, the 70 KBC undocumented migrants have taken in action at 10 Port Avenue, Molenbeek\.
 
 
-![](assets/1334d964017b/0*Ya5RB2OYLNuUncz7)
+![](../assets/1334d964017b/0*Ya5RB2OYLNuUncz7)
 
 
 
@@ -359,7 +359,7 @@ Following a discussion with the Mayor of Molenbeek, Catherine Moureaux, the 70 K
 **FRANCE**
 
 
-![Source: InfoMigrants](assets/1334d964017b/0*AmEWaU5-HKKCykv4.jpg)
+![Source: InfoMigrants](../assets/1334d964017b/0*AmEWaU5-HKKCykv4.jpg)
 
 Source: InfoMigrants
 

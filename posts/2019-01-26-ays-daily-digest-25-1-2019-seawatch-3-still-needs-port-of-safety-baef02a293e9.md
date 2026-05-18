@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 25/1/2019: SeaWatch 3 still needs port of safety
+title: "AYS DAILY DIGEST 25/1/2019: SeaWatch 3 still needs port of safety"
 author: Are You Syrious?
 date: 2019-01-26T11:48:54.658+0000
 last_modified_at: 2019-01-26T14:17:14.610+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,italy,bosnia,iom]
 description: Libyan coastguard intercepts 473 people over the course of 72 hours// 15-year-old girl killed in hate attack in Turkey // Violance in IOM…
 image:
-  path: assets/baef02a293e9/0*7N3P2cqCIK5br2Wn
+  path: ../assets/baef02a293e9/0*7N3P2cqCIK5br2Wn
 ---
 
 ### AYS DAILY DIGEST 25/1/2019: SeaWatch 3 still needs port of safety
@@ -15,7 +15,7 @@ image:
 _Libyan coastguard intercepts 473 people over the course of 72 hours// 15\-year\-old girl killed in hate attack in Turkey // Violance in IOM run camp in Bosnia // More than 300 people evacuated from St Denis camp//Police continues destruction of belongings in Calais//_
 
 
-![Photo by Mediterranea](assets/baef02a293e9/0*7N3P2cqCIK5br2Wn)
+![Photo by Mediterranea](../assets/baef02a293e9/0*7N3P2cqCIK5br2Wn)
 
 Photo by Mediterranea
 
@@ -55,7 +55,7 @@ The power cuts in Moria continue\. Refugees have to live in the same miserable s
 The average daily arrivals on all islands was 91 in this time\.
 
 
-![By Refugee Info Bus](assets/baef02a293e9/1*TwHeySAmlpbps7wPxKyxqg.jpeg)
+![By Refugee Info Bus](../assets/baef02a293e9/1*TwHeySAmlpbps7wPxKyxqg.jpeg)
 
 By Refugee Info Bus
 
@@ -66,7 +66,7 @@ In the hotspot of Moria, children are still not attending formal Greek education
 On Friday night, we recived a very disturbing video from Miral, one of the IOM run camps in Bosnia, showing a security guard in this camp beating up one of the residents\.
 
 
-[![Violence Against Residents in IOM Run Refugee Camp in Bosnia](assets/baef02a293e9/bc99_hqdefault.jpg "Violence Against Residents in IOM Run Refugee Camp in Bosnia")](http://www.youtube.com/watch?v=jWmwACRlhRQ)
+[![Violence Against Residents in IOM Run Refugee Camp in Bosnia](../assets/baef02a293e9/bc99_hqdefault.jpg "Violence Against Residents in IOM Run Refugee Camp in Bosnia")](http://www.youtube.com/watch?v=jWmwACRlhRQ)
 
 
 In Miral camp, the presence of the UN agencies, as well as their associates and partners, is very visible\. Additionally, representatives of the Bosnian Ministry for Security, responsible for asylum seekers, is also present\.
@@ -78,14 +78,14 @@ Read more about living conditions in Miral in our special: [Killing solidarity i
 #### More than 300 people evacuated in St Denis
 
 
-![Photo by Solidarité migrants Wilson](assets/baef02a293e9/0*B9W-EcLXjkD5AXMU)
+![Photo by Solidarité migrants Wilson](../assets/baef02a293e9/0*B9W-EcLXjkD5AXMU)
 
 Photo by Solidarité migrants Wilson
 
 More than 300 people have been evacuated from the St Denis camp, just outside of Paris\. The people have been brought mostly to temporary shelters \(hotels, gyms and schools\) \. [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/) says that 40 people were not able to get aboard a bus\. They found temporary shelter in a nearby church\.
 
 
-![Photo by Utopia 56](assets/baef02a293e9/0*lpeVI1al3ic9iOak)
+![Photo by Utopia 56](../assets/baef02a293e9/0*lpeVI1al3ic9iOak)
 
 Photo by Utopia 56
 
@@ -95,7 +95,7 @@ _“Hundreds of blankets, sleeping bags and tents are being sent to an industria
 #### Police evicts refugees in Calais
 
 
-![Photo by Refugee Info Bus](assets/baef02a293e9/0*pkxErE6196vwf35K)
+![Photo by Refugee Info Bus](../assets/baef02a293e9/0*pkxErE6196vwf35K)
 
 Photo by Refugee Info Bus
 

@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,greece,digest,libya,germany]
 description: Over 450 people arrive in Lampedusa in 24 hours // 8 organizations in Calais take legal action // child reunification shot down in UK //…
 image:
-  path: assets/1b21b60cb141/1*cdrvefE1PlKTES5K07DZ2g.jpeg
+  path: ../assets/1b21b60cb141/1*cdrvefE1PlKTES5K07DZ2g.jpeg
 ---
 
 ### AYS Daily Digest 4/11/20 Mytilini Mayor wants Moria\.2 to be a closed camp
@@ -15,7 +15,7 @@ image:
 _Over 450 people arrive in Lampedusa in 24 hours // Eight organizations in Calais take legal action // Child reunification shot down in UK // Over 1000 people back in Libya // and more…_
 
 
-![Moria\.2 Photo by [Dunya Collective](https://twitter.com/DunyaCollective/status/1324016158429925377?fbclid=IwAR2w-tq2rR5qRcRkeeiIjQlI5QUDU-Nj9rnQu9H2UeQUpnBTYTVEnZTXj3c)](assets/1b21b60cb141/1*cdrvefE1PlKTES5K07DZ2g.jpeg)
+![Moria\.2 Photo by [Dunya Collective](https://twitter.com/DunyaCollective/status/1324016158429925377?fbclid=IwAR2w-tq2rR5qRcRkeeiIjQlI5QUDU-Nj9rnQu9H2UeQUpnBTYTVEnZTXj3c)](../assets/1b21b60cb141/1*cdrvefE1PlKTES5K07DZ2g.jpeg)
 
 Moria\.2 Photo by [Dunya Collective](https://twitter.com/DunyaCollective/status/1324016158429925377?fbclid=IwAR2w-tq2rR5qRcRkeeiIjQlI5QUDU-Nj9rnQu9H2UeQUpnBTYTVEnZTXj3c)
 ### FEATURE: Mayor of Mytilini wants to make Moria\.2 a closed camp
@@ -43,7 +43,7 @@ Cold water is finally coming in “buckets” to the people who have been withou
 #### LIBYA
 
 
-![People in Khoms after being intercepted on 3/11/20\. Photo by [Ayman Al\-Sahili/Reuters](https://www.infomigrants.net/en/post/28284/libya-nearly-1-000-migrants-intercepted-at-sea-and-returned-to-libya-in-3-days?fbclid=IwAR3qFOqUumX9_0JdehPr07COtrQjKYbq7Kz1fN16yszywduBzjGI9Ebi0j8)](assets/1b21b60cb141/1*rRoOatSQam2ZX2KbrojDPw.jpeg)
+![People in Khoms after being intercepted on 3/11/20\. Photo by [Ayman Al\-Sahili/Reuters](https://www.infomigrants.net/en/post/28284/libya-nearly-1-000-migrants-intercepted-at-sea-and-returned-to-libya-in-3-days?fbclid=IwAR3qFOqUumX9_0JdehPr07COtrQjKYbq7Kz1fN16yszywduBzjGI9Ebi0j8)](../assets/1b21b60cb141/1*rRoOatSQam2ZX2KbrojDPw.jpeg)
 
 People in Khoms after being intercepted on 3/11/20\. Photo by [Ayman Al\-Sahili/Reuters](https://www.infomigrants.net/en/post/28284/libya-nearly-1-000-migrants-intercepted-at-sea-and-returned-to-libya-in-3-days?fbclid=IwAR3qFOqUumX9_0JdehPr07COtrQjKYbq7Kz1fN16yszywduBzjGI9Ebi0j8)
 ### Nearly 1,000 people intercepted by the LCG from Sunday to Tuesday this week
@@ -85,7 +85,7 @@ On Sunday 144 people were intercepted, on Monday 413 people were intercepted, an
 
 
 
-![“We’re super excited to announce our next charity lesson campaign\! The campaign will run from 06\.11 until 29\.11\. Donate a minimum of 30€ and book a lesson with one of our incredible teachers\! \!” Donations will go to Lesvos Pikpa Camp Photo by [Musicians for Solidarity](https://www.facebook.com/musiciansforsolidarity/posts/184420229917353)](assets/1b21b60cb141/1*07jOYyD-sMeBcyzyDmGqnQ.jpeg)
+![“We’re super excited to announce our next charity lesson campaign\! The campaign will run from 06\.11 until 29\.11\. Donate a minimum of 30€ and book a lesson with one of our incredible teachers\! \!” Donations will go to Lesvos Pikpa Camp Photo by [Musicians for Solidarity](https://www.facebook.com/musiciansforsolidarity/posts/184420229917353)](../assets/1b21b60cb141/1*07jOYyD-sMeBcyzyDmGqnQ.jpeg)
 
 “We’re super excited to announce our next charity lesson campaign\! The campaign will run from 06\.11 until 29\.11\. Donate a minimum of 30€ and book a lesson with one of our incredible teachers\! \!” Donations will go to Lesvos Pikpa Camp Photo by [Musicians for Solidarity](https://www.facebook.com/musiciansforsolidarity/posts/184420229917353)
 
@@ -126,7 +126,7 @@ According to the Times of Malta “ _The asylum seekers have filed constitutiona
 #### ITALY
 
 
-![Arrivals to Lampedusa on 1/11/20\. Photo by [ANSA](https://www.infomigrants.net/en/post/28296/lampedusa-hotspot-near-collapse-as-hundreds-of-migrants-arrive-in-less-than-a-day?fbclid=IwAR0vzEK6NNsqHveyx3bo70MOWsBN9ch683DYdsWOM7jKxjKTbzTuHnG8O_U)](assets/1b21b60cb141/1*X5CJSVLmIXw-u9tAVFDccQ.jpeg)
+![Arrivals to Lampedusa on 1/11/20\. Photo by [ANSA](https://www.infomigrants.net/en/post/28296/lampedusa-hotspot-near-collapse-as-hundreds-of-migrants-arrive-in-less-than-a-day?fbclid=IwAR0vzEK6NNsqHveyx3bo70MOWsBN9ch683DYdsWOM7jKxjKTbzTuHnG8O_U)](../assets/1b21b60cb141/1*X5CJSVLmIXw-u9tAVFDccQ.jpeg)
 
 Arrivals to Lampedusa on 1/11/20\. Photo by [ANSA](https://www.infomigrants.net/en/post/28296/lampedusa-hotspot-near-collapse-as-hundreds-of-migrants-arrive-in-less-than-a-day?fbclid=IwAR0vzEK6NNsqHveyx3bo70MOWsBN9ch683DYdsWOM7jKxjKTbzTuHnG8O_U)
 ### 460 people arrived at Lampedusa in less than 24 hours
@@ -135,7 +135,7 @@ Arrivals to Lampedusa on 1/11/20\. Photo by [ANSA](https://www.infomigrants.net/
 #### SPAIN
 
 
-![“The OpenArms sails now from the port of Barcelona in Mission 78\. And today all allegations fail again\. It has been reaffirmed that we respect international law even ‘in a state of emergency\.’ Whether or not they like it, the HDHH are inalienable\.” Photo by [Proactiva Open Arms](https://www.facebook.com/proactivaservice)](assets/1b21b60cb141/1*nuClU_GukqrYsFKfVwA8-g.jpeg)
+![“The OpenArms sails now from the port of Barcelona in Mission 78\. And today all allegations fail again\. It has been reaffirmed that we respect international law even ‘in a state of emergency\.’ Whether or not they like it, the HDHH are inalienable\.” Photo by [Proactiva Open Arms](https://www.facebook.com/proactivaservice)](../assets/1b21b60cb141/1*nuClU_GukqrYsFKfVwA8-g.jpeg)
 
 “The OpenArms sails now from the port of Barcelona in Mission 78\. And today all allegations fail again\. It has been reaffirmed that we respect international law even ‘in a state of emergency\.’ Whether or not they like it, the HDHH are inalienable\.” Photo by [Proactiva Open Arms](https://www.facebook.com/proactivaservice)
 
@@ -145,7 +145,7 @@ This news comes with how one person died while 71 people were rescued trying to 
 #### GERMANY
 
 
-![“ **Warning: Next deportation from Germany to Afghanistan probably on 16\.November 2020\! \! \!** According to current information, we assume that the next deportation to Afghanistan will probably take place on Monday, 16 November\. We advise all Afghans who are obliged to leave the country to urgently visit a counselling centre or a lawyer\. In particular, we recommend that the immigration authorities be informed about existing illnesses, upcoming training admissions and other integration services\.” Photo by [Refugees — info for and about refugees](https://www.facebook.com/infoforrefugees/posts/3534326466647001)](assets/1b21b60cb141/1*vJq1GbxyLfmpXwYyL965Cg.jpeg)
+![“ **Warning: Next deportation from Germany to Afghanistan probably on 16\.November 2020\! \! \!** According to current information, we assume that the next deportation to Afghanistan will probably take place on Monday, 16 November\. We advise all Afghans who are obliged to leave the country to urgently visit a counselling centre or a lawyer\. In particular, we recommend that the immigration authorities be informed about existing illnesses, upcoming training admissions and other integration services\.” Photo by [Refugees — info for and about refugees](https://www.facebook.com/infoforrefugees/posts/3534326466647001)](../assets/1b21b60cb141/1*vJq1GbxyLfmpXwYyL965Cg.jpeg)
 
 “ **Warning: Next deportation from Germany to Afghanistan probably on 16\.November 2020\! \! \!** According to current information, we assume that the next deportation to Afghanistan will probably take place on Monday, 16 November\. We advise all Afghans who are obliged to leave the country to urgently visit a counselling centre or a lawyer\. In particular, we recommend that the immigration authorities be informed about existing illnesses, upcoming training admissions and other integration services\.” Photo by [Refugees — info for and about refugees](https://www.facebook.com/infoforrefugees/posts/3534326466647001)
 #### FRANCE
@@ -170,7 +170,7 @@ Read more [here](https://www.streetpress.com/sujet/1604434557-associations-aide-
 #### BELGIUM
 
 
-![“Belgium has reinstated physical registrations for political asylum just in time to avoid hefty penalties for failing to shelter applicants after registrations were moved online during the pandemic\. State Secretary for Asylum Sammy Mahdi announced the resumption of the on\-site procedures on Tuesday, following a test day held on 30 October\.” Photo by [Belga](https://www.brusselstimes.com/belgium/139002/belgium-resumes-physical-applications-for-asylum-seekers-daily-2500e-fine-brussels-court-klein-kasteeltje-sammy-mahdi-migration-applications-housing-online/?fbclid=IwAR3SIOdbbDzCbagRxJ2i8aRwUf-A1xVDlPDm-_plNLB23owxs6r_ytxUPlw)](assets/1b21b60cb141/1*JURUoh7cfsMZwyf902zWrg.jpeg)
+![“Belgium has reinstated physical registrations for political asylum just in time to avoid hefty penalties for failing to shelter applicants after registrations were moved online during the pandemic\. State Secretary for Asylum Sammy Mahdi announced the resumption of the on\-site procedures on Tuesday, following a test day held on 30 October\.” Photo by [Belga](https://www.brusselstimes.com/belgium/139002/belgium-resumes-physical-applications-for-asylum-seekers-daily-2500e-fine-brussels-court-klein-kasteeltje-sammy-mahdi-migration-applications-housing-online/?fbclid=IwAR3SIOdbbDzCbagRxJ2i8aRwUf-A1xVDlPDm-_plNLB23owxs6r_ytxUPlw)](../assets/1b21b60cb141/1*JURUoh7cfsMZwyf902zWrg.jpeg)
 
 “Belgium has reinstated physical registrations for political asylum just in time to avoid hefty penalties for failing to shelter applicants after registrations were moved online during the pandemic\. State Secretary for Asylum Sammy Mahdi announced the resumption of the on\-site procedures on Tuesday, following a test day held on 30 October\.” Photo by [Belga](https://www.brusselstimes.com/belgium/139002/belgium-resumes-physical-applications-for-asylum-seekers-daily-2500e-fine-brussels-court-klein-kasteeltje-sammy-mahdi-migration-applications-housing-online/?fbclid=IwAR3SIOdbbDzCbagRxJ2i8aRwUf-A1xVDlPDm-_plNLB23owxs6r_ytxUPlw)
 #### UK

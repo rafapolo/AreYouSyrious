@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 6/12/19: Swedish municipalities warn about the potential housing crisis
+title: "AYS Daily Digest 6/12/19: Swedish municipalities warn about the potential housing crisis"
 author: Are You Syrious?
 date: 2019-12-07T17:27:09.011+0000
 last_modified_at: 2019-12-07T17:27:09.011+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,sweden,migration,europe]
 description: As a result of the so-called School Act, many young Afghans face possible evictions / Lack of will to solve basic issues of people stuck…
 image:
-  path: assets/a81d95c191ec/0*8NUMNILOVvMQc9Yz.jpeg
+  path: ../assets/a81d95c191ec/0*8NUMNILOVvMQc9Yz.jpeg
 ---
 
 ### AYS Daily Digest 6/12/19: Swedish municipalities warn about the potential housing crisis
 ### As a result of the so\-called School Act, many young Afghans face possible evictions / Lack of will to solve basic issues of people stuck outside any reception facilities across Bosnia and Herzegovina / hotspot in Lampedusa in worse condition than before / Hundreds of vulnerable refugees were taken and are now making their way back to Calais through the rain, wind, and freezing cold, medical workers warn
 
 
-![](assets/a81d95c191ec/0*VlevbJvH2MbAFH7I.jpeg)
+![](../assets/a81d95c191ec/0*VlevbJvH2MbAFH7I.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----6d634e19d74b----------------------)
@@ -22,11 +22,11 @@ image:
 [Dec 7](ays-daily-digest-6-12-19-swedish-municipalities-warn-about-the-potential-housing-crisis-6d634e19d74b?source=post_page-----6d634e19d74b----------------------) · 6 min read
 
 
-![](assets/a81d95c191ec/0*b6KOk8oHci_Sfjt9)
+![](../assets/a81d95c191ec/0*b6KOk8oHci_Sfjt9)
 
 
 
-![](assets/a81d95c191ec/0*8NUMNILOVvMQc9Yz.jpeg)
+![](../assets/a81d95c191ec/0*8NUMNILOVvMQc9Yz.jpeg)
 
 
 Vučjak, photo source: [Dirk Planert](https://www.facebook.com/dirk.planert?__tn__=%2Cd%2AF%2AF-R&eid=ARCvGkTXjVsAHoWIricYmN9zlfQjRGKJIQ7ld9mEwPv5TnxaWf0EttY72xHz5fSR4vrTqVM_cutLdTwP&tn-str=%2AF&hc_location=group_dialog)
@@ -45,11 +45,11 @@ BiH — The power games across Bosnia and Herzegovina are continuing, both betwe
 The public was led to believe the Vučjak camps would close and people would be transferred to different locations in Sarajevo until the Blažuj army barracks in Sarajevo were prepared\. However, in the meantime, another solution was proposed, that extra containers and beds would be prepared and added inside the Bira camp in Bihać, which, according to our sources, is not completely full in spite of IOM’s statements\. But, in these games of stubbornness and power, the local authorities and police did not allow the technical equipment to be installed in the camp, so now another operational plan is in place for the early morning on Monday\. All of these solutions are harming those most vulnerable, who are in no position to exercise their rights, make decisions about their lives or move freely\.
 
 
-![](assets/a81d95c191ec/0*qgCGnZg4MK-Jx9aA)
+![](../assets/a81d95c191ec/0*qgCGnZg4MK-Jx9aA)
 
 
 
-![](assets/a81d95c191ec/0*A20A5elkkx1M1Spa.jpeg)
+![](../assets/a81d95c191ec/0*A20A5elkkx1M1Spa.jpeg)
 
 ### GREECE
 
@@ -69,19 +69,19 @@ Doctors have come out against the new law and said they will continue to treat n
 Though the media are reporting there will be no camp in Tuzla, the camp is already here\. A ‘silent deal’ between the state, canton and the city has resulted in a place for the camp, to be opened in the shortest possible time\. The citizens have once again shown great solidarity, having brought pallets, insulation material, tents, blankets, and three meals a day, which are secured for all the people in need\.
 
 
-![](assets/a81d95c191ec/0*x6U5eI5xEhWIM0HA)
+![](../assets/a81d95c191ec/0*x6U5eI5xEhWIM0HA)
 
 
 
-![](assets/a81d95c191ec/0*sOqaWKkYOnGdkXlr.jpeg)
+![](../assets/a81d95c191ec/0*sOqaWKkYOnGdkXlr.jpeg)
 
 
 
-![](assets/a81d95c191ec/0*EpeBPE-rWCc6A42A)
+![](../assets/a81d95c191ec/0*EpeBPE-rWCc6A42A)
 
 
 
-![](assets/a81d95c191ec/0*f2yBhRbO0kEmXec_.jpeg)
+![](../assets/a81d95c191ec/0*f2yBhRbO0kEmXec_.jpeg)
 
 
 Photos: Senad Pirić
@@ -90,11 +90,11 @@ Photos: Senad Pirić
 Volunteers around Trieste in Italy report meeting people they had previously encountered while volunteering in Tuzla and in Velika Kladuša, Bosnia and Herzegovina\. The wounds on their bodies depict the realities they face along the route leading them through difficult terrain and many violent rejections by the ‘EU’s guards’, the Croatian police\.
 
 
-![](assets/a81d95c191ec/0*LrCoWQFB35FH8RnZ)
+![](../assets/a81d95c191ec/0*LrCoWQFB35FH8RnZ)
 
 
 
-![](assets/a81d95c191ec/0*vXqGA7lNFTl2wcZe.jpeg)
+![](../assets/a81d95c191ec/0*vXqGA7lNFTl2wcZe.jpeg)
 
 
 Photo: [Lorena Fornasir](https://www.facebook.com/lorena.fornasir?__tn__=%2Cd%2AF%2AF-R&eid=ARBaYNV4i0kyByNrYGqjC8DEYclaiI4QZYhsdYgAJteY7PKv5Sv6fJQlWPeAWVubpClIZugp_vTlOWhL&tn-str=%2AF)

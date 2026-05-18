@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,mckinsey,eu]
 description: Violent Pushbacks From Greece Again///Xenophobic Rhetoric From Bosnian Politicians///What Is the EU’s New Pact on Migration and Asylum?
 image:
-  path: assets/bb8121207a6/0*XZTo_tF4DrCSx1BT
+  path: ../assets/bb8121207a6/0*XZTo_tF4DrCSx1BT
 ---
 
 ### AYS Daily Digest 22/06/2020 — EU Hired McKinsey to Work on Asylum Process
 ### Violent Pushbacks From Greece Again///Xenophobic Rhetoric From Bosnian Politicians///What Is the EU’s New Pact on Migration and Asylum?
 
 
-![](assets/bb8121207a6/0*BACLiRLgdSn4o7RG.jpeg)
+![](../assets/bb8121207a6/0*BACLiRLgdSn4o7RG.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----b4b37354cf1c----------------------)
@@ -22,11 +22,11 @@ image:
 [Jun 23](ays-daily-digest-22-06-2020-eu-hired-mckinsey-to-work-on-asylum-process-b4b37354cf1c?source=post_page-----b4b37354cf1c----------------------) · 10 min read
 
 
-![](assets/bb8121207a6/0*3AmwODSsyF7bJ2dO)
+![](../assets/bb8121207a6/0*3AmwODSsyF7bJ2dO)
 
 
 
-![](assets/bb8121207a6/0*XZTo_tF4DrCSx1BT)
+![](../assets/bb8121207a6/0*XZTo_tF4DrCSx1BT)
 
 
 FEATURE

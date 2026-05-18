@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 22/08/2018: FRONTEX celebrates as people suffer
+title: "AYS DAILY DIGEST 22/08/2018: FRONTEX celebrates as people suffer"
 author: Are You Syrious?
 date: 2018-08-23T11:19:16.351+0100
 last_modified_at: 2018-08-23T15:42:42.855+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [europe,italy,frontex,security,france]
 description: Frontex heralds better border control as reducing migration to a “manageable” level while giving a tacit nod of approval to sadistic…
 image:
-  path: assets/2db7e3d40d03/1*MBkZ8tK1IFaUHuFq79dd7g.jpeg
+  path: ../assets/2db7e3d40d03/1*MBkZ8tK1IFaUHuFq79dd7g.jpeg
 ---
 
 ### AYS DAILY DIGEST 22/08/2018: FRONTEX celebrates as people suffer
@@ -15,7 +15,7 @@ image:
 _Frontex heralds better border control as reducing migration to a “manageable” level while giving a tacit nod of approval to sadistic policies // Deals between Greece and Germany // MSF confirms violence against refugees in Bosnia by Croatian Police pushbacks // Salvini risks charges of kidnapping for latest ship stunt // Supplies needed in France // More…_
 
 
-![Photo Credit: Watch the Med, Alarm Phone](assets/2db7e3d40d03/1*MBkZ8tK1IFaUHuFq79dd7g.jpeg)
+![Photo Credit: Watch the Med, Alarm Phone](../assets/2db7e3d40d03/1*MBkZ8tK1IFaUHuFq79dd7g.jpeg)
 
 Photo Credit: Watch the Med, Alarm Phone
 ### FEATURE

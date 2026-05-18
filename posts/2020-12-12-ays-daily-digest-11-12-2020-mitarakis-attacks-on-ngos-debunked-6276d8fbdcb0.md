@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,greece,ngos]
 description: Extreme Weather Forecast for Greece//Berlin Public Prosecutor Issues Injunction Against AfD Politician//& More
 image:
-  path: assets/6276d8fbdcb0/0*hxek9GdzaQOTdSrN
+  path: ../assets/6276d8fbdcb0/0*hxek9GdzaQOTdSrN
 ---
 
 ### AYS Daily Digest 11/12/2020—Mitarakis’ Attacks on NGOs, Debunked
 #### Extreme weather forecast for Greece//Berlin Public Prosecutor issues injunction against AfD politician//& more
 
 
-![A photo of Lipa camp in Bosnia & Herzegovina\. Photo credit: Damir Sagolj/ [Council of Europe Commissioner of Human Rights](https://www.coe.int/en/web/commissioner/-/bosnia-and-herzegovina-must-urgently-improve-its-migrant-reception-capacities-improve-access-to-asylum-and-protect-unaccompanied-migrant-children?fbclid=IwAR2txwAOGni5Ubzst1YULjjJgBdJsmibcVKwWCVDAuN5RcCguiKqSV0rTls)](assets/6276d8fbdcb0/0*hxek9GdzaQOTdSrN)
+![A photo of Lipa camp in Bosnia & Herzegovina\. Photo credit: Damir Sagolj/ [Council of Europe Commissioner of Human Rights](https://www.coe.int/en/web/commissioner/-/bosnia-and-herzegovina-must-urgently-improve-its-migrant-reception-capacities-improve-access-to-asylum-and-protect-unaccompanied-migrant-children?fbclid=IwAR2txwAOGni5Ubzst1YULjjJgBdJsmibcVKwWCVDAuN5RcCguiKqSV0rTls)](../assets/6276d8fbdcb0/0*hxek9GdzaQOTdSrN)
 
 A photo of Lipa camp in Bosnia & Herzegovina\. Photo credit: Damir Sagolj/ [Council of Europe Commissioner of Human Rights](https://www.coe.int/en/web/commissioner/-/bosnia-and-herzegovina-must-urgently-improve-its-migrant-reception-capacities-improve-access-to-asylum-and-protect-unaccompanied-migrant-children?fbclid=IwAR2txwAOGni5Ubzst1YULjjJgBdJsmibcVKwWCVDAuN5RcCguiKqSV0rTls)
 #### FEATURE

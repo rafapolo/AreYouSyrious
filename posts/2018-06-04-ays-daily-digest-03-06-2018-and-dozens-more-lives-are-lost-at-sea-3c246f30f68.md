@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 03/06/2018: And dozens more lives are lost at sea...
+title: "AYS Daily Digest 03/06/2018: And dozens more lives are lost at sea..."
 author: Are You Syrious?
 date: 2018-06-04T11:40:07.128+0100
 last_modified_at: 2018-06-04T13:52:06.502+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,tunisia,human-rights,greece]
 description: At least 48 people drowned off Tunisian Coast // 9 others drowned off Turkish coast // Over 200 people rescued off Spanish coast over the…
 image:
-  path: assets/3c246f30f68/1*_ha1NuVSWaOPcPUFw7xjyQ.jpeg
+  path: ../assets/3c246f30f68/1*_ha1NuVSWaOPcPUFw7xjyQ.jpeg
 ---
 
 ### AYS Daily Digest 03/06/2018: And dozens more lives are lost at sea\. \. \.
@@ -15,7 +15,7 @@ image:
 At least 48 people drowned off Tunisian Coast // 9 others drowned off Turkish coast // Over 200 people rescued off Spanish coast over the weekend // News from Greece // Somalian refugee killed in racist attack in Italy // News from Bosnia // Slovenia // France and more…
 
 
-![Source: [SOS Refugiados](https://www.facebook.com/sosrefugiados/)](assets/3c246f30f68/1*_ha1NuVSWaOPcPUFw7xjyQ.jpeg)
+![Source: [SOS Refugiados](https://www.facebook.com/sosrefugiados/)](../assets/3c246f30f68/1*_ha1NuVSWaOPcPUFw7xjyQ.jpeg)
 
 Source: [SOS Refugiados](https://www.facebook.com/sosrefugiados/)
 ### Feature:
@@ -122,7 +122,7 @@ Volunteers attempted to walk new arrivals off the beach, but were prohibited to 
 
 
 
-![Source: Philippa Kempson](assets/3c246f30f68/1*Pld7gsFlUunIpauYcwbHOA.jpeg)
+![Source: Philippa Kempson](../assets/3c246f30f68/1*Pld7gsFlUunIpauYcwbHOA.jpeg)
 
 Source: Philippa Kempson
 #### [Action for Education](https://www.facebook.com/ActionforEdu/) in need of experienced volunteers from August onwards
@@ -142,15 +142,15 @@ Forest Protection and Health Inspection Services visited the small camp last wee
 On Thursday morning the Forest Protection Services came to the camp to check if we had cut any trees, after they had received reports that we had\. They checked the camp and confirmed that no trees had been cut and the trees in Pikpa camp are all intact\.
 
 
-![](assets/3c246f30f68/1*xZtbOJEYrRgzbM9SSfJcuw.jpeg)
+![](../assets/3c246f30f68/1*xZtbOJEYrRgzbM9SSfJcuw.jpeg)
 
 
 
-![](assets/3c246f30f68/1*07Zoj2htU_IN61Fa1ubPvQ.jpeg)
+![](../assets/3c246f30f68/1*07Zoj2htU_IN61Fa1ubPvQ.jpeg)
 
 
 
-![Source: Pipka](assets/3c246f30f68/1*RqG8X5r0ckunSxnlXFg3_w.jpeg)
+![Source: Pipka](../assets/3c246f30f68/1*RqG8X5r0ckunSxnlXFg3_w.jpeg)
 
 Source: Pipka
 ### Italy:
@@ -165,7 +165,7 @@ The victim was shot by a white man\. Police are trying to locate the attacker\. 
 There are over 4000 migrant workers currently living in the area working in the fields\. They are distributed across a number of settlements\.
 
 
-![Sacko Soumaila\. Source: [Refugee Accommodation and Solidarity Space City Plaza](https://www.facebook.com/sol2refugeesen/?hc_ref=ARQuJM9Q_KrDIFme2ALhKM2pt5pdF8VzRgtbT3H0w0TC-ENegYUfVr_ktGsqsJCGxbU&fref=nf)](assets/3c246f30f68/1*lGeg-z_M7y1XdQaPKCuFoQ.jpeg)
+![Sacko Soumaila\. Source: [Refugee Accommodation and Solidarity Space City Plaza](https://www.facebook.com/sol2refugeesen/?hc_ref=ARQuJM9Q_KrDIFme2ALhKM2pt5pdF8VzRgtbT3H0w0TC-ENegYUfVr_ktGsqsJCGxbU&fref=nf)](../assets/3c246f30f68/1*lGeg-z_M7y1XdQaPKCuFoQ.jpeg)
 
 Sacko Soumaila\. Source: [Refugee Accommodation and Solidarity Space City Plaza](https://www.facebook.com/sol2refugeesen/?hc_ref=ARQuJM9Q_KrDIFme2ALhKM2pt5pdF8VzRgtbT3H0w0TC-ENegYUfVr_ktGsqsJCGxbU&fref=nf)
 
@@ -207,19 +207,19 @@ Fewer and fewer people are staying by the canals due to the frequent evacuations
 
 
 
-![](assets/3c246f30f68/1*5cVU8Xu6VO_t5VRP_ARcqQ.jpeg)
+![](../assets/3c246f30f68/1*5cVU8Xu6VO_t5VRP_ARcqQ.jpeg)
 
 
 
-![](assets/3c246f30f68/1*67cFlZD7ZGHFWNMnE5zWiw.jpeg)
+![](../assets/3c246f30f68/1*67cFlZD7ZGHFWNMnE5zWiw.jpeg)
 
 
 
-![](assets/3c246f30f68/1*GjrWFkRKIsc2cz7-QmbBgg.jpeg)
+![](../assets/3c246f30f68/1*GjrWFkRKIsc2cz7-QmbBgg.jpeg)
 
 
 
-![Source: People to People Solidarity](assets/3c246f30f68/1*po39AHmsd1ZnF8eKy0DatA.jpeg)
+![Source: People to People Solidarity](../assets/3c246f30f68/1*po39AHmsd1ZnF8eKy0DatA.jpeg)
 
 Source: People to People Solidarity
 #### Acceleration of asylum procedure tested in Guiana
@@ -267,27 +267,27 @@ The French Government aims to t [est an acceleration of the asylum procedure in 
 On Sunday the third of June, more than 500 people came to Sète to participate in a regional march in solidarity with refugees and migrants and against the Asylum and Immigration Bill\. The rally was organised by the Collectif Terre Collective\.
 
 
-![](assets/3c246f30f68/1*7X2JSAVeO-lRFSWHA-jFvg.jpeg)
+![](../assets/3c246f30f68/1*7X2JSAVeO-lRFSWHA-jFvg.jpeg)
 
 
 
-![](assets/3c246f30f68/1*6xkCSvqCafAYC66zDhHo5Q.jpeg)
+![](../assets/3c246f30f68/1*6xkCSvqCafAYC66zDhHo5Q.jpeg)
 
 
 
-![](assets/3c246f30f68/1*XQM3DhM68es9zG5aAEjJjA.jpeg)
+![](../assets/3c246f30f68/1*XQM3DhM68es9zG5aAEjJjA.jpeg)
 
 
 
-![](assets/3c246f30f68/1*Rdostp6U2XKcWOB6XmR0Hw.jpeg)
+![](../assets/3c246f30f68/1*Rdostp6U2XKcWOB6XmR0Hw.jpeg)
 
 
 
-![](assets/3c246f30f68/1*1Oo-mMp4XIedmKWIJ5_lWw.jpeg)
+![](../assets/3c246f30f68/1*1Oo-mMp4XIedmKWIJ5_lWw.jpeg)
 
 
 
-![Source: [Salam quand même مرحبا بكم على أي حال](https://www.facebook.com/salamquandmeme/)](assets/3c246f30f68/1*jz569J6j_a6bzq5g6SNGCw.jpeg)
+![Source: [Salam quand même مرحبا بكم على أي حال](https://www.facebook.com/salamquandmeme/)](../assets/3c246f30f68/1*jz569J6j_a6bzq5g6SNGCw.jpeg)
 
 Source: [Salam quand même مرحبا بكم على أي حال](https://www.facebook.com/salamquandmeme/)
 

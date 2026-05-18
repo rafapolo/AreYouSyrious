@@ -1,5 +1,5 @@
 ---
-title: AYS Special from Denmark: Women Without Rights
+title: "AYS Special from Denmark: Women Without Rights"
 author: Are You Syrious?
 date: 2021-09-26T11:02:20.124+0100
 last_modified_at: 2021-09-26T11:02:20.124+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [special,denmark,detention,women,refugees]
 description: During the last weeks, the Danish author and human rights activist AnneLise Marstrand-Jørgensen published on her Facebook wall five stories…
 image:
-  path: assets/d4aa8f782789/1*FgMzsCfELI-YsapSowdKAw.jpeg
+  path: ../assets/d4aa8f782789/1*FgMzsCfELI-YsapSowdKAw.jpeg
 ---
 
 ### AYS Special from Denmark: Women Without Rights
@@ -15,14 +15,14 @@ image:
 _During the last weeks, the Danish author and human rights activist AnneLise Marstrand\-Jørgensen published on her Facebook wall five stories under the common headline “Women without rights” \(Kvinder uden rettigheder\) \. The common theme and thread in these stories is the Danish asylum system and the practices and conditions for women who have had their residence permit revoked\._
 
 
-![\(‘We are kidnapped by danish police’\. Photo Credit: Ole Jakobsen / TV 2\)](assets/d4aa8f782789/1*FgMzsCfELI-YsapSowdKAw.jpeg)
+![\(‘We are kidnapped by danish police’\. Photo Credit: Ole Jakobsen / TV 2\)](../assets/d4aa8f782789/1*FgMzsCfELI-YsapSowdKAw.jpeg)
 
 \(‘We are kidnapped by danish police’\. Photo Credit: Ole Jakobsen / TV 2\)
 
 At the beginning of the week, at least seven women were picked up by the police early in the morning from the family departure centres at Avnstrup, Sjælsmark and Kærshovedgaard around Denmark\. Some of them with children and husbands, one of the women is pregnant with her third child\.
 
 
-![\(AnneLise Marstrand\-Jørgensen — photo from FB\)](assets/d4aa8f782789/1*9R6Ov74SvsIFSXsvuAtHSQ.png)
+![\(AnneLise Marstrand\-Jørgensen — photo from FB\)](../assets/d4aa8f782789/1*9R6Ov74SvsIFSXsvuAtHSQ.png)
 
 \(AnneLise Marstrand\-Jørgensen — photo from FB\)
 #### Xafsa from Somalia\.
@@ -40,7 +40,7 @@ A few weeks ago, Xafsa received the mail attached below\. Informing her that she
 Doesn’t make much sense, does it?
 
 
-![\(Photo credit: [AnneLise Marstrand\-Jørgensen](https://www.facebook.com/permalink.php?story_fbid=10159722115602299&id=536777298) \)](assets/d4aa8f782789/1*VtNZ9gIkneI0NpdzgJu0XA.jpeg)
+![\(Photo credit: [AnneLise Marstrand\-Jørgensen](https://www.facebook.com/permalink.php?story_fbid=10159722115602299&id=536777298) \)](../assets/d4aa8f782789/1*VtNZ9gIkneI0NpdzgJu0XA.jpeg)
 
 \(Photo credit: [AnneLise Marstrand\-Jørgensen](https://www.facebook.com/permalink.php?story_fbid=10159722115602299&id=536777298) \)
 #### Regini from Iraq
@@ -50,7 +50,7 @@ Doesn’t make much sense, does it?
 Now Regini has been detained and locked up without her family in the departure center Ellebæk\. She has not committed any offences\. That is, other than being scared to travel back to a very insecure and unstable country that she saw last when she was a girl and to be horrified at the thought of being separated from her husband and children\.
 
 
-![\(Ellebaek Prison\. Photo credit: Refugees\.dk\)](assets/d4aa8f782789/1*sOvQ34fMoec1_EL1eieKHQ.png)
+![\(Ellebaek Prison\. Photo credit: Refugees\.dk\)](../assets/d4aa8f782789/1*sOvQ34fMoec1_EL1eieKHQ.png)
 
 \(Ellebaek Prison\. Photo credit: Refugees\.dk\)
 
@@ -89,7 +89,7 @@ The bottom has disappeared, that’s the truth\. We should raise a monument of s
 #### Nagham from Iraq
 
 
-![\(Nagham\)](assets/d4aa8f782789/1*C_GoQezXjaieSHpXFrE7gw.png)
+![\(Nagham\)](../assets/d4aa8f782789/1*C_GoQezXjaieSHpXFrE7gw.png)
 
 \(Nagham\)
 

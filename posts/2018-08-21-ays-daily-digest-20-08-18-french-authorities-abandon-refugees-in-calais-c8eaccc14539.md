@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 20.08.18: Italian Government Blocks its own Coastguard from Disembarking Refugees
+title: "AYS Daily Digest 20.08.18: Italian Government Blocks its own Coastguard from Disembarking Refugees"
 author: Are You Syrious?
 date: 2018-08-21T01:56:56.499+0100
 last_modified_at: 2018-08-21T09:51:37.125+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,france,still-i-rise,calais]
 description: Rescues at sea//New arrivals in Greece//School Opens on Samos//Overcrowding at all time worst on Lesvos//Border patrols increase in…
 image:
-  path: assets/c8eaccc14539/1*bjX2oSAAJe5LOvnoCHa4Xw.jpeg
+  path: ../assets/c8eaccc14539/1*bjX2oSAAJe5LOvnoCHa4Xw.jpeg
 ---
 
 ### AYS Daily Digest 20\.08\.18: Italian Government Blocks its own Coastguard from Disembarking Refugees
 #### Rescues at sea//New arrivals in Greece//School Opens on Samos//Overcrowding at all time worst on Lesvos//Border patrols increase in Montenegro//Cost of the Austrian border//Refugees blocked from landing in Italy//and more…
 
 
-![“Interior Minister salvini refuses to allow the Italian coastguard ship Diciotti to enter a safe port and threatens to return 177 people aboard to Libya\. If European values mean anything, the EU must put a stop to this madness\!” Photo Credit: Sea\-Watch](assets/c8eaccc14539/1*bjX2oSAAJe5LOvnoCHa4Xw.jpeg)
+![“Interior Minister salvini refuses to allow the Italian coastguard ship Diciotti to enter a safe port and threatens to return 177 people aboard to Libya\. If European values mean anything, the EU must put a stop to this madness\!” Photo Credit: Sea\-Watch](../assets/c8eaccc14539/1*bjX2oSAAJe5LOvnoCHa4Xw.jpeg)
 
 “Interior Minister salvini refuses to allow the Italian coastguard ship Diciotti to enter a safe port and threatens to return 177 people aboard to Libya\. If European values mean anything, the EU must put a stop to this madness\!” Photo Credit: Sea\-Watch
 ### Italy
@@ -34,7 +34,7 @@ With four civil rescue ships still impounded, the Sea\-Watch NGO released a stat
 
 
 
-![“A person rescued Saturday walks offshore in Malta\.” Photo Credit: Sea\-Watch](assets/c8eaccc14539/1*_5g5Xoi7g6446mhwVqQxMA.jpeg)
+![“A person rescued Saturday walks offshore in Malta\.” Photo Credit: Sea\-Watch](../assets/c8eaccc14539/1*_5g5Xoi7g6446mhwVqQxMA.jpeg)
 
 “A person rescued Saturday walks offshore in Malta\.” Photo Credit: Sea\-Watch
 ### Greece
@@ -57,14 +57,14 @@ While the refugee camp on Samos has only become more overcrowded in the past mon
 Despite EU law that every child has the right to an education, Greece provides education to almost no refugee children\. The number of refugee children who are allowed to attend Greek school on the Aegean islands can usually be counted on one hand at any given time\. The UNHCR has failed to advocate for refugee children in this regard\. While many volunteer groups and community centers across Greece are working to provide education for refugee children, these programs typically fall short of being full time schools\.
 
 
-![Students putting up decorations in the new school\. Photo Credit: [Still I Rise](https://www.facebook.com/pg/stilliriseNGO/posts/?ref=page_internal)](assets/c8eaccc14539/1*PYnC9_p7lzqUflI9sJ69MQ.jpeg)
+![Students putting up decorations in the new school\. Photo Credit: [Still I Rise](https://www.facebook.com/pg/stilliriseNGO/posts/?ref=page_internal)](../assets/c8eaccc14539/1*PYnC9_p7lzqUflI9sJ69MQ.jpeg)
 
 Students putting up decorations in the new school\. Photo Credit: [Still I Rise](https://www.facebook.com/pg/stilliriseNGO/posts/?ref=page_internal)
 
 Yet in the face of institutional failure, certain people stand up\. The Still I Rise education center, called “Mazi,” is working to provide a full\-time, regular schooling program for refugee children and adolescents\. The program not only covers normal school subjects, but adresses social and psychological issues, and aims to empower refugee youth\. You can support the project here\.
 
 
-![A child sleeps in a tent in the Moria camp, Lesvos\. Photo Credit: Omar Alshakal](assets/c8eaccc14539/1*35TbDNCdGonN9hLV0Wh7fQ.jpeg)
+![A child sleeps in a tent in the Moria camp, Lesvos\. Photo Credit: Omar Alshakal](../assets/c8eaccc14539/1*35TbDNCdGonN9hLV0Wh7fQ.jpeg)
 
 A child sleeps in a tent in the Moria camp, Lesvos\. Photo Credit: Omar Alshakal
 
@@ -74,7 +74,7 @@ It has been reported that last week, the memorial to those who lost their lives 
 Today the Hope Project on Lesvos posted a video showing conditions inside the Moria camp on Lesvos, where over 10,000 people are now detained\. You can watch it [here](https://www.facebook.com/HopeProjectKempsons/videos/280420849452027/) \. Sometime this week, Refugee Rights Europe will be releasing a report on conditions in the Moria camp\. Among the findings they have already published are the fact that 47\.4% of residents in the camp have been victims of police violence\. Out of the people reporting police violence, 84\.9% described being exposed to tear gas at least once\.
 
 
-![Graphic Credit: Refugee Rights Europe](assets/c8eaccc14539/1*8KglBiuj9YDAd8oy-FGD-A.png)
+![Graphic Credit: Refugee Rights Europe](../assets/c8eaccc14539/1*8KglBiuj9YDAd8oy-FGD-A.png)
 
 Graphic Credit: Refugee Rights Europe
 #### Mainland
@@ -89,7 +89,7 @@ Montenegro has been increasing border patrols and cooperating with Albanian bord
 ### Bosnia
 
 
-![“Young refugees walk close to the Bosnian\-Croatian border, where hundreds of people remain trapped\.” Photo Credit: [Gabriel Tizon](https://www.facebook.com/gabrieltizonfotografo/?hc_location=group_dialog) \.](assets/c8eaccc14539/1*jJjEpfCWzuZJF3jbpVh3Kw.jpeg)
+![“Young refugees walk close to the Bosnian\-Croatian border, where hundreds of people remain trapped\.” Photo Credit: [Gabriel Tizon](https://www.facebook.com/gabrieltizonfotografo/?hc_location=group_dialog) \.](../assets/c8eaccc14539/1*jJjEpfCWzuZJF3jbpVh3Kw.jpeg)
 
 “Young refugees walk close to the Bosnian\-Croatian border, where hundreds of people remain trapped\.” Photo Credit: [Gabriel Tizon](https://www.facebook.com/gabrieltizonfotografo/?hc_location=group_dialog) \.
 ### Austria
@@ -99,7 +99,7 @@ The Austrian effort to militarize the 160km border between the country and Slove
 ### France
 
 
-![An encampment in Calais\. Photo Credit: [Refugee Rights Europe](https://www.facebook.com/RefugeeRightsEurope/?hc_location=group_dialog)](assets/c8eaccc14539/1*pYzbbCbAZHK5_90ctTaiMg.jpeg)
+![An encampment in Calais\. Photo Credit: [Refugee Rights Europe](https://www.facebook.com/RefugeeRightsEurope/?hc_location=group_dialog)](../assets/c8eaccc14539/1*pYzbbCbAZHK5_90ctTaiMg.jpeg)
 
 An encampment in Calais\. Photo Credit: [Refugee Rights Europe](https://www.facebook.com/RefugeeRightsEurope/?hc_location=group_dialog)
 #### Refugee Rights Europe reports from Calais
@@ -122,7 +122,7 @@ During Macron’s presidential campaign, and his first months in office, the Fre
 #### Rescued refugees left on street upon arrival
 
 
-![“”Arrival in Barcelona of migrants to be relocated after their arrival in boats to Spanish shores\. Many were left on the street\.” Photo Credit: Fotomovimiento](assets/c8eaccc14539/1*Ernfnrr24n9ule3kYzX_wA.jpeg)
+![“”Arrival in Barcelona of migrants to be relocated after their arrival in boats to Spanish shores\. Many were left on the street\.” Photo Credit: Fotomovimiento](../assets/c8eaccc14539/1*Ernfnrr24n9ule3kYzX_wA.jpeg)
 
 “”Arrival in Barcelona of migrants to be relocated after their arrival in boats to Spanish shores\. Many were left on the street\.” Photo Credit: Fotomovimiento
 

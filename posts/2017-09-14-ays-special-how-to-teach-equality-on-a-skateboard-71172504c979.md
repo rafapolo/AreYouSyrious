@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: How to teach equality on a skateboard
+title: "AYS SPECIAL: How to teach equality on a skateboard"
 author: Are You Syrious?
 date: 2017-09-14T07:55:42.091+0100
 last_modified_at: 2018-03-01T14:12:12.860+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [skateboarding,refugees,athens,greece,special]
 description: Free Movement Skateboarding teaches kids in Athens how to skate. It sounds like a very simple task, not very important, but what they…
 image:
-  path: assets/71172504c979/1*MHiXmsRvOsMYIja4vsLTYg.jpeg
+  path: ../assets/71172504c979/1*MHiXmsRvOsMYIja4vsLTYg.jpeg
 ---
 
 ### AYS SPECIAL: How to teach equality on a skateboard
@@ -15,7 +15,7 @@ image:
 _Free Movement Skateboarding teaches kids in Athens how to skate\. It sounds like a very simple task, not very important, but what they achieve through it is much more than one can expect\. Their story is about how to teach gender equality, solidarity, comradeship, feminism, about how to break the borders… and all of that while jumping and cruising on a skateboard\._
 
 
-![Photo AYS](assets/71172504c979/1*MHiXmsRvOsMYIja4vsLTYg.jpeg)
+![Photo AYS](../assets/71172504c979/1*MHiXmsRvOsMYIja4vsLTYg.jpeg)
 
 Photo AYS
 
@@ -26,7 +26,7 @@ They saw there the incredibly positive impact that skateboarding can have, not o
 Straight after Palestine, Will came to Athens to volunteer at [Khora Community Centre](https://www.facebook.com/KhoraAthens/) , and within the first week had called Ruby to tell her this was the place\. Back in England they put together a proposal for their project and gained the support of UK\-based charity Help Refugees to make it all happen\. Since then, five days a week, sometimes multiple sessions a day, Ruby, Will and other volunteers from the local and refugee communities are skating with kids in camps and public spaces around Athens\. Girls and boys together, Greeks, Syrians, Afghans, Pakistanis… or as Ruby told us, sometimes they have over half a dozen different nationalities in one class\.
 
 
-![Photo FMS](assets/71172504c979/1*OJdwBAms0LR_f2Y7dil6HA.png)
+![Photo FMS](../assets/71172504c979/1*OJdwBAms0LR_f2Y7dil6HA.png)
 
 Photo FMS
 
@@ -48,7 +48,7 @@ But in Athens, it is much more than just everybody skating together\. _“We mad
 _“Quite often, it is something that Middle Eastern cultures have not come across, therefore there are no preconceptions of skateboarding being a male\-dominated activity\. There are very few Greek local girl skaters here in Athens, but now we have almost one hundred girls signed up to our sessions\!”_
 
 
-![Photo FMS](assets/71172504c979/1*_XMvBpGxMeWO5Uwy08xcNg.jpeg)
+![Photo FMS](../assets/71172504c979/1*_XMvBpGxMeWO5Uwy08xcNg.jpeg)
 
 Photo FMS
 
@@ -59,7 +59,7 @@ Ruby believes that what they do is far from just skating, and she adds that many
 Back in Palestine, the skate park acts as a community hub for the children and adults from the surrounding towns to come together and enjoy skating, socializing and the like\. Here in Athens, their operations are different: _“Unlike in Palestine, here we travel a lot because people are spread all over, some living in squats, some coming to community centers, and some are in camps far away with very bad access to the city… We want to reach out to as many as we can\. We have built a mobile skate park which fits perfectly together with all the equipment into the back of our van, and we take this to all the sessions we teach\.”_ Ruby explains\.
 
 
-![Photo AYS](assets/71172504c979/1*xBdlts93HxrAuJpjJhKRJA.jpeg)
+![Photo AYS](../assets/71172504c979/1*xBdlts93HxrAuJpjJhKRJA.jpeg)
 
 Photo AYS
 
@@ -72,7 +72,7 @@ _“In our experience, the sessions we teach in the camps are a lot more stressf
 The team now plans to seek extra funds so that they can expand their team and reach out to more camps\. They need more people, and a permanent space in Athens to be able to hold sessions in the winter\. The permanent space will then act as a hub, just like the skate park in Palestine, so people all over the city can come to skate together anytime they like\. In this way, they will also have more time to reach further afield to different camps each day of the week\.
 
 
-![Photo AYS](assets/71172504c979/1*ezNqi20jvrEC-V-Cm26fjA.jpeg)
+![Photo AYS](../assets/71172504c979/1*ezNqi20jvrEC-V-Cm26fjA.jpeg)
 
 Photo AYS
 

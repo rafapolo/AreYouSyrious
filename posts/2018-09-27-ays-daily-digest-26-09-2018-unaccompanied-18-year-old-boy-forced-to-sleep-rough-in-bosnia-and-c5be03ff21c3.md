@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 26/09/2018: Unaccompanied 18 year-old boy forced to sleep rough in Bosnia and…
+title: "AYS DAILY DIGEST 26/09/2018: Unaccompanied 18 year-old boy forced to sleep rough in Bosnia and…"
 author: Are You Syrious?
 date: 2018-09-27T09:43:42.630+0100
 last_modified_at: 2018-09-27T14:58:07.024+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,bosnia,libya,mental-health]
 description: Video witnessing inhumane violence at Tangier detention centre//192,000 people are in need of protection in Libya, as clashes intensify…
 image:
-  path: assets/c5be03ff21c3/1*TU5usgh4HqMPc-7ieNpkkg.jpeg
+  path: ../assets/c5be03ff21c3/1*TU5usgh4HqMPc-7ieNpkkg.jpeg
 ---
 
 ### AYS DAILY DIGEST 26/09/2018: Unaccompanied 18 year\-old boy forced to sleep rough in Bosnia and prevented from entering a reception centre, after being separated from his only companions
@@ -15,7 +15,7 @@ image:
 _Video witnessing inhumane violence at Tangier detention centre//192,000 people are in need of protection in Libya, as clashes intensify every day//Storm is approaching Lesvos//IRC released a report on mental health conditions inside Moria//Worrying news on the living conditions just outside the detention centre in Lesvos//Field workers organise and occupy building in Italy//Donations needed in Dunkirk//ECTHR held court case against Spain for illegal push\-backs procedure//More news from Germany, the UK…_
 
 
-![Credit: AYS](assets/c5be03ff21c3/1*TU5usgh4HqMPc-7ieNpkkg.jpeg)
+![Credit: AYS](../assets/c5be03ff21c3/1*TU5usgh4HqMPc-7ieNpkkg.jpeg)
 
 Credit: AYS
 #### **FEATURE**
@@ -118,7 +118,7 @@ Please, support the work of the small NGOs operating on the ground as it fundame
 Not to mention that, even though thousands of people will be moved to the mainland, the IRC and other NGOs on the ground warned of a [spreading mental health emergency](http://www.ekathimerini.com/232971/article/ekathimerini/news/irc-warns-of-mental-health-crisis-on-lesvos-as-greece-moves-asylum-seekers) , with 30% of the residents at Moria having attempted suicide and 60% having contemplated the possibility\.
 
 
-![Credit: IRC](assets/c5be03ff21c3/1*JKpnIm6gbyuVUkEb253amw.png)
+![Credit: IRC](../assets/c5be03ff21c3/1*JKpnIm6gbyuVUkEb253amw.png)
 
 Credit: IRC
 

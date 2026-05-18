@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 25–26/5/19: Protestors on Samos met with Batons and Tear Gas
+title: "AYS Weekend Digest 25–26/5/19: Protestors on Samos met with Batons and Tear Gas"
 author: Are You Syrious?
 date: 2019-05-27T08:43:11.983+0100
 last_modified_at: 2019-05-27T10:02:17.455+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,samos,human-rights,digest,volunteer]
 description: Syrian refugees deported from Beirut airport // Arbitrary detention of refugees in Nador // More people left outside the official…
 image:
-  path: assets/228f072376b0/1*xtA-zadu3yBuaFJTPjOczA.jpeg
+  path: ../assets/228f072376b0/1*xtA-zadu3yBuaFJTPjOczA.jpeg
 ---
 
 ### AYS Weekend Digest 25–26/5/19: Protestors on Samos met with Batons and Tear Gas
 #### Syrian refugees deported from Beirut airport // Arbitrary detention of refugees in Nador // More people left outside the official accommodation in Bosnia // Deportation warning in Austria // Rescues off coast of Malta // 21 missing in Alboran sea // And more…
 
 
-![Refugees protesting in Vathy, Samos\. Photo Credit: © Jérôme Fourcade / Abisto](assets/228f072376b0/1*xtA-zadu3yBuaFJTPjOczA.jpeg)
+![Refugees protesting in Vathy, Samos\. Photo Credit: © Jérôme Fourcade / Abisto](../assets/228f072376b0/1*xtA-zadu3yBuaFJTPjOczA.jpeg)
 
 Refugees protesting in Vathy, Samos\. Photo Credit: © Jérôme Fourcade / Abisto
 #### Feature: Police Brutality on Greek island of Samos
@@ -31,7 +31,7 @@ The Samos camp is considered to be one of the worst refugee camps in Greece, and
 ### Morocco
 
 
-![A group of young refugees being detained by the Moroccan police\. Photo Credit: [AMDH Nador](https://www.facebook.com/AmdhNador/photos/a.1693125780899690/2337214049824190/?type=3&theater&ifg=1)](assets/228f072376b0/1*kn6DsdimsszkFHnMs_Eg_g.jpeg)
+![A group of young refugees being detained by the Moroccan police\. Photo Credit: [AMDH Nador](https://www.facebook.com/AmdhNador/photos/a.1693125780899690/2337214049824190/?type=3&theater&ifg=1)](../assets/228f072376b0/1*kn6DsdimsszkFHnMs_Eg_g.jpeg)
 
 A group of young refugees being detained by the Moroccan police\. Photo Credit: [AMDH Nador](https://www.facebook.com/AmdhNador/photos/a.1693125780899690/2337214049824190/?type=3&theater&ifg=1)
 
@@ -40,7 +40,7 @@ A group of approximately 60 young refugees were arrested without cause over the 
 #### Sea\-Eye fundraises for repairs to “Alan Kurdi” rescue ship
 
 
-![A volunteer at work aboard the Sea\-Eye\. Photo Credit: [Sea\-Eye](https://www.facebook.com/seaeyeorg/photos/pcb.1942978005808087/1942972909141930/?type=3&theater&ifg=1)](assets/228f072376b0/1*buo2K1zqQP5LEBd9L9qC4g.jpeg)
+![A volunteer at work aboard the Sea\-Eye\. Photo Credit: [Sea\-Eye](https://www.facebook.com/seaeyeorg/photos/pcb.1942978005808087/1942972909141930/?type=3&theater&ifg=1)](../assets/228f072376b0/1*buo2K1zqQP5LEBd9L9qC4g.jpeg)
 
 A volunteer at work aboard the Sea\-Eye\. Photo Credit: [Sea\-Eye](https://www.facebook.com/seaeyeorg/photos/pcb.1942978005808087/1942972909141930/?type=3&theater&ifg=1)
 
@@ -98,7 +98,7 @@ A sixth boat also arrived on Samos, reported to be carrying 51 people\.
 #### No Happy Ramadan
 
 
-![People outside the Bira camp in Bihać \(Photo Credit: [Udruženje Solidarnost — Bosnia](https://www.facebook.com/solidarnostbosnia/?__tn__=%2CdkCH-R-R&eid=ARCcnvC49YTIQ4FiDVnWPSMZ1BFcAFoGOcYoAq3LZcU_pTGXVN0DLoiRHCBogzOLyJItlxg549bypQk-&hc_ref=ARQvGZrskbIQdawD9OuoA4215N84i4E11Ps_BIAas8hxZ3cpk6uCdzW1jkHt83TmkeY&hc_location=group) \)](assets/228f072376b0/1*pTo3qvBB8vuZE_pawu0YPA.jpeg)
+![People outside the Bira camp in Bihać \(Photo Credit: [Udruženje Solidarnost — Bosnia](https://www.facebook.com/solidarnostbosnia/?__tn__=%2CdkCH-R-R&eid=ARCcnvC49YTIQ4FiDVnWPSMZ1BFcAFoGOcYoAq3LZcU_pTGXVN0DLoiRHCBogzOLyJItlxg549bypQk-&hc_ref=ARQvGZrskbIQdawD9OuoA4215N84i4E11Ps_BIAas8hxZ3cpk6uCdzW1jkHt83TmkeY&hc_location=group) \)](../assets/228f072376b0/1*pTo3qvBB8vuZE_pawu0YPA.jpeg)
 
 People outside the Bira camp in Bihać \(Photo Credit: [Udruženje Solidarnost — Bosnia](https://www.facebook.com/solidarnostbosnia/?__tn__=%2CdkCH-R-R&eid=ARCcnvC49YTIQ4FiDVnWPSMZ1BFcAFoGOcYoAq3LZcU_pTGXVN0DLoiRHCBogzOLyJItlxg549bypQk-&hc_ref=ARQvGZrskbIQdawD9OuoA4215N84i4E11Ps_BIAas8hxZ3cpk6uCdzW1jkHt83TmkeY&hc_location=group) \)
 
@@ -194,7 +194,7 @@ A 23 year old Eritrean refugee who was living in France died this past week on t
 #### Protest against the Dublin agreement in Paris
 
 
-![Photo Credit: [Utopia 56](https://www.facebook.com/U56ParisIDF/photos/pcb.2107526476213468/2107525389546910/?type=3&theater)](assets/228f072376b0/1*EsuvMzGSGojmre9wb8pVtw.jpeg)
+![Photo Credit: [Utopia 56](https://www.facebook.com/U56ParisIDF/photos/pcb.2107526476213468/2107525389546910/?type=3&theater)](../assets/228f072376b0/1*EsuvMzGSGojmre9wb8pVtw.jpeg)
 
 Photo Credit: [Utopia 56](https://www.facebook.com/U56ParisIDF/photos/pcb.2107526476213468/2107525389546910/?type=3&theater)
 

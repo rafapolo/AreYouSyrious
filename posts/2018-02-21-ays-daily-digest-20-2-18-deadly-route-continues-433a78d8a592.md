@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 20/02/18: Deadly route continues
+title: "AYS Daily Digest 20/02/18: Deadly route continues"
 author: Are You Syrious?
 date: 2018-02-21T11:42:57.425+0000
 last_modified_at: 2018-03-01T13:27:45.244+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,greece,turkey,syria,digest]
 description: New boats with people intercepted by the coast guard// evidence of illegal pushbacks at the deadly crossing in Evros// Bosnia and…
 image:
-  path: assets/433a78d8a592/1*-9rHILBWAyBMUPHxRB99QQ.jpeg
+  path: ../assets/433a78d8a592/1*-9rHILBWAyBMUPHxRB99QQ.jpeg
 ---
 
 ### AYS Daily Digest 20/02/18: Deadly route continues
@@ -15,7 +15,7 @@ image:
 _New boats with people intercepted by the coast guard// evidence of illegal pushbacks at the deadly crossing in Evros// Bosnia and Herzegovina have an increasing number of refugees this year// Weather report for people in the Balkan area// French organizations fight the new law// Germany continues deportations// more news and calls for help_
 
 
-![](assets/433a78d8a592/1*-9rHILBWAyBMUPHxRB99QQ.jpeg)
+![](../assets/433a78d8a592/1*-9rHILBWAyBMUPHxRB99QQ.jpeg)
 
 #### FEATURE PHOTO STORY
 
@@ -23,19 +23,19 @@ These screenshots show images of some of the incredible — and to most people u
 The images are from the Patras area, where people have often tried to cross to Italy, but similar scenarios have taken lives in the Balkan route, in the Italian Ventimiglia crossings, and especially on the way from Calais to the UK\. The reasons for attempting the crossing, and the severity of the situation for these people, are unfortunately beyond understanding for some of the media and officials “dealing” with the situation\.
 
 
-![](assets/433a78d8a592/1*I6pi3sX4mLc7aXO5AkCxtA.jpeg)
+![](../assets/433a78d8a592/1*I6pi3sX4mLc7aXO5AkCxtA.jpeg)
 
 
 
-![](assets/433a78d8a592/1*ooOqdEoNTzSoZHQg2VDyEA.jpeg)
+![](../assets/433a78d8a592/1*ooOqdEoNTzSoZHQg2VDyEA.jpeg)
 
 
 
-![](assets/433a78d8a592/1*2IVSmDlSE-vwcxEqlGwwPA.jpeg)
+![](../assets/433a78d8a592/1*2IVSmDlSE-vwcxEqlGwwPA.jpeg)
 
 
 
-![](assets/433a78d8a592/1*RmxjTQY5IxMGrZZx6HfvPQ.jpeg)
+![](../assets/433a78d8a592/1*RmxjTQY5IxMGrZZx6HfvPQ.jpeg)
 
 ### EU sounds a reaction to massacres in Syria
 
@@ -205,7 +205,7 @@ An excerpt from the statement of a volunteer in Calais:
 
 
 
-![Photo: [**Care4Calais**](https://www.facebook.com/care4calais/)](assets/433a78d8a592/1*IG3eRSt-HPd1CtSjXDEzIA.jpeg)
+![Photo: [**Care4Calais**](https://www.facebook.com/care4calais/)](../assets/433a78d8a592/1*IG3eRSt-HPd1CtSjXDEzIA.jpeg)
 
 Photo: [**Care4Calais**](https://www.facebook.com/care4calais/)
 #### GERMANY

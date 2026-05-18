@@ -7,14 +7,14 @@ categories:
 tags: [refugees,immigration,europe]
 description: The situation in Aleppo worse than ever, the UN warns. Help is desperately needed on the border between Serbia and Hungary. Help is needed…
 image:
-  path: assets/7dec5fc22b9a/1*BlzowBWDO7w8Ox_HI7DlZA.jpeg
+  path: ../assets/7dec5fc22b9a/1*BlzowBWDO7w8Ox_HI7DlZA.jpeg
 ---
 
 ### AYS DAILY NEWS DIGEST 28\.4\.2016\.
 #### _The situation in Aleppo worse than ever, the UN warns\. Help is desperately needed on the border between Serbia and Hungary\. Help is needed in Greece, too\. AYS registered around 20 people who have been returned from different EU countries to Croatia over the last couple of days\. UN General Secretary very critical about Austrian new law which restricts refugees further more\. Neo\-Nazis on rise in Germany\._
 
 
-![King Day 2016 — Amsterdam](assets/7dec5fc22b9a/1*BlzowBWDO7w8Ox_HI7DlZA.jpeg)
+![King Day 2016 — Amsterdam](../assets/7dec5fc22b9a/1*BlzowBWDO7w8Ox_HI7DlZA.jpeg)
 
 King Day 2016 — Amsterdam
 
@@ -47,7 +47,7 @@ King Day 2016 — Amsterdam
 
 
 
-![Photo: Sirius\.Help](assets/7dec5fc22b9a/1*n2gv76X9hoEfL6t0szuT4Q.jpeg)
+![Photo: Sirius\.Help](../assets/7dec5fc22b9a/1*n2gv76X9hoEfL6t0szuT4Q.jpeg)
 
 Photo: Sirius\.Help
 
@@ -71,7 +71,7 @@ Photo: Sirius\.Help
 
 
 
-![Photo: Sirius\.Help](assets/7dec5fc22b9a/1*C4Q7XQONIsLtih405F5Iug.jpeg)
+![Photo: Sirius\.Help](../assets/7dec5fc22b9a/1*C4Q7XQONIsLtih405F5Iug.jpeg)
 
 Photo: Sirius\.Help
 
@@ -224,7 +224,7 @@ Photo: Sirius\.Help
 
 
 
-![Photo: Europe Says Oxi](assets/7dec5fc22b9a/1*ad6vt42KTsxE7AMmBXtsjA.jpeg)
+![Photo: Europe Says Oxi](../assets/7dec5fc22b9a/1*ad6vt42KTsxE7AMmBXtsjA.jpeg)
 
 Photo: Europe Says Oxi
 #### Macedonia
@@ -266,7 +266,7 @@ Photo: Europe Says Oxi
 
 
 
-![Photo: InfoPark](assets/7dec5fc22b9a/1*yFaTRDOVCSuTLcScY-80wg.jpeg)
+![Photo: InfoPark](../assets/7dec5fc22b9a/1*yFaTRDOVCSuTLcScY-80wg.jpeg)
 
 Photo: InfoPark
 
@@ -284,7 +284,7 @@ Photo: InfoPark
 
 
 
-![Photo: InfoPark](assets/7dec5fc22b9a/1*TY7y2VasUeQgtiZ4OLDgzg.jpeg)
+![Photo: InfoPark](../assets/7dec5fc22b9a/1*TY7y2VasUeQgtiZ4OLDgzg.jpeg)
 
 Photo: InfoPark
 #### Croatia
@@ -358,7 +358,7 @@ Photo: InfoPark
 
 
 
-![](assets/7dec5fc22b9a/1*1tLws_ApV7Z6Fkf7yCbfjg.jpeg)
+![](../assets/7dec5fc22b9a/1*1tLws_ApV7Z6Fkf7yCbfjg.jpeg)
 
 #### Denmark
 

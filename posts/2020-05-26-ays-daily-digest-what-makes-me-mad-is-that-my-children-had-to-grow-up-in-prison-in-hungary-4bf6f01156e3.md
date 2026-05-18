@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,covid-19,hungary,greece]
 description: Reminder of critical shortages of vaccines in Libya // BBC reporting of 91 people missing at sea // fear of serious COVID-19 spread in…
 image:
-  path: assets/4bf6f01156e3/1*gpqvqSIepxzSRYh6onj4Qg.jpeg
+  path: ../assets/4bf6f01156e3/1*gpqvqSIepxzSRYh6onj4Qg.jpeg
 ---
 
 ### AYS Daily Digest 25/05/20 “What makes me mad is that my children had to grow up in prison” in Hungary
 #### Reminder of critical shortages of vaccines in Libya // 91 people missing at sea // fear of serious COVID\-19 spread in German shelters // Support AYS campaign // and more…
 
 
-![Hungarian transit zone Photo by Bődey János](assets/4bf6f01156e3/1*gpqvqSIepxzSRYh6onj4Qg.jpeg)
+![Hungarian transit zone Photo by Bődey János](../assets/4bf6f01156e3/1*gpqvqSIepxzSRYh6onj4Qg.jpeg)
 
 Hungarian transit zone Photo by Bődey János
 ### FEATURE “What makes me mad is that my children had to grow up in prison”
@@ -42,7 +42,7 @@ According to a lawyer from the Hungarian Helsinki Committee, they were trapped w
 ### **Losing jobs they had to work hard to get as refugees in the country, during the pandemic — if we don’t help them, they lose home for the second time**
 
 
-![](assets/4bf6f01156e3/1*wbAtSMcwT_fN4TfW0uN7GQ.jpeg)
+![](../assets/4bf6f01156e3/1*wbAtSMcwT_fN4TfW0uN7GQ.jpeg)
 
 
 **Along with a number of problems they already had to face in a foreign country, the pandemic was the last straw because many lost their jobs because of it, and were left without a place to live due to the earthquake that hit Croatian capital\. Now they face losing jobs, homes and potentially being separated from their children\.**
@@ -135,11 +135,11 @@ One person is dead and six are still missing after a shipwreck off the coast, ne
 #### SEA
 
 
-![](assets/4bf6f01156e3/1*M-moEbWmeNZQ7cFsWvtjCw.jpeg)
+![](../assets/4bf6f01156e3/1*M-moEbWmeNZQ7cFsWvtjCw.jpeg)
 
 
 
-![Screenshots of [Stephanie Hegarty’s](https://twitter.com/stephhegarty/status/1264800064880422912) reporting for BBC](assets/4bf6f01156e3/1*bcoS_3uSG0WokKcGgmxFjA.jpeg)
+![Screenshots of [Stephanie Hegarty’s](https://twitter.com/stephhegarty/status/1264800064880422912) reporting for BBC](../assets/4bf6f01156e3/1*bcoS_3uSG0WokKcGgmxFjA.jpeg)
 
 Screenshots of [Stephanie Hegarty’s](https://twitter.com/stephhegarty/status/1264800064880422912) reporting for BBC
 
@@ -156,7 +156,7 @@ Please [check out this reporting](https://www.bbc.co.uk/news/extra/vdb6u1mrrv/th
 After a Monday meeting between Alternate Minister of Migration & Asylum Giorgos Koumoutsakos and French Ambassador to Greece Patrick Maisonnave, the decision was announced for France to take in 400 asylum seekers and 350 unaccompanied minors\. The first 50 of the unaccompanied minors are not set to leave until July\. France also said it wants to ramp up its support for Frontex\. More [here](https://www.amna.gr/en/article/460474/France-to-relocate-750-asylum-seekers-and-unaccompanied-minors-from-Greece?fbclid=IwAR2F4OFg_JreZIPCcZ4TcysfLckg0wWIAzsNERPtIlrG6TXmMCWe1wULDcI) \.
 
 
-![Photo by Πανελλαδική Δικτύωση Αντιρατσιστικών & Μεταναστευτικών Συλλογικοτήτων](assets/4bf6f01156e3/1*Zsypaz2prSzXoAMSwUqYRg.jpeg)
+![Photo by Πανελλαδική Δικτύωση Αντιρατσιστικών & Μεταναστευτικών Συλλογικοτήτων](../assets/4bf6f01156e3/1*Zsypaz2prSzXoAMSwUqYRg.jpeg)
 
 Photo by Πανελλαδική Δικτύωση Αντιρατσιστικών & Μεταναστευτικών Συλλογικοτήτων
 ### Apparently, the Regional Authority of the North Aegean is trying to sue Moria Corona Virus Awareness Team for using the term “Greek side of the island”
@@ -211,7 +211,7 @@ In an update from [Franziska Grillmeier](https://twitter.com/f_grillmeier/status
 
 
 
-![“PLATEIA EXARHIA — FRIDAY MAY 29–20:00 Solidarity with the residents Themistocleous 58 Squat\. Hands off the squats — Cops out of our homes and neighborhoods\.” Photo by [Enough is Enough 14](https://enoughisenough14.org/2020/05/25/athens-demo-against-state-terrorism-and-the-anti-immigration-war/?fbclid=IwAR1aAW59Kp4vVE-fBzSZnYd0sn1h7djj_VkofRZDj2UQpULUgSHz0994Jpc)](assets/4bf6f01156e3/1*Z3M6Zts618_n_ZsgPujM-A.png)
+![“PLATEIA EXARHIA — FRIDAY MAY 29–20:00 Solidarity with the residents Themistocleous 58 Squat\. Hands off the squats — Cops out of our homes and neighborhoods\.” Photo by [Enough is Enough 14](https://enoughisenough14.org/2020/05/25/athens-demo-against-state-terrorism-and-the-anti-immigration-war/?fbclid=IwAR1aAW59Kp4vVE-fBzSZnYd0sn1h7djj_VkofRZDj2UQpULUgSHz0994Jpc)](../assets/4bf6f01156e3/1*Z3M6Zts618_n_ZsgPujM-A.png)
 
 “PLATEIA EXARHIA — FRIDAY MAY 29–20:00 Solidarity with the residents Themistocleous 58 Squat\. Hands off the squats — Cops out of our homes and neighborhoods\.” Photo by [Enough is Enough 14](https://enoughisenough14.org/2020/05/25/athens-demo-against-state-terrorism-and-the-anti-immigration-war/?fbclid=IwAR1aAW59Kp4vVE-fBzSZnYd0sn1h7djj_VkofRZDj2UQpULUgSHz0994Jpc)
 #### MALTA
@@ -244,7 +244,7 @@ Italian news media is reporting that there was a _“second landing of \(people\
 #### SPAIN
 
 
-![“The mosque in the cemetery has set up a room for those most in need, but there is no space for everyone, so some sleep in vans\.” Photo by [ROSA SOTO](https://m.publico.es/sociedad/2783715/los-camiones-de-un-cementerio-cobijo-de-las-marroquies-varadas-en-melilla/amp?utm_source=twitter&utm_medium=social&utm_campaign=web&__twitter_impression=true)](assets/4bf6f01156e3/1*zabY07Nt3SCjsuxM4VnD8A.jpeg)
+![“The mosque in the cemetery has set up a room for those most in need, but there is no space for everyone, so some sleep in vans\.” Photo by [ROSA SOTO](https://m.publico.es/sociedad/2783715/los-camiones-de-un-cementerio-cobijo-de-las-marroquies-varadas-en-melilla/amp?utm_source=twitter&utm_medium=social&utm_campaign=web&__twitter_impression=true)](../assets/4bf6f01156e3/1*zabY07Nt3SCjsuxM4VnD8A.jpeg)
 
 “The mosque in the cemetery has set up a room for those most in need, but there is no space for everyone, so some sleep in vans\.” Photo by [ROSA SOTO](https://m.publico.es/sociedad/2783715/los-camiones-de-un-cementerio-cobijo-de-las-marroquies-varadas-en-melilla/amp?utm_source=twitter&utm_medium=social&utm_campaign=web&__twitter_impression=true)
 

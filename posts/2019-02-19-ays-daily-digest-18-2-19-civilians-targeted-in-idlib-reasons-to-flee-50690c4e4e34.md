@@ -7,26 +7,26 @@ categories: Are You Syrious?
 tags: [refugees,syria,greece,europe,digest]
 description: New arrivals in Greece // “the Cemetery of the Unknown” in Tunisia // bone examinations of asylum seeking children in France // prison…
 image:
-  path: assets/50690c4e4e34/1*LnjlgY1wn4pLY1Y3J_zSpQ.jpeg
+  path: ../assets/50690c4e4e34/1*LnjlgY1wn4pLY1Y3J_zSpQ.jpeg
 ---
 
 ### AYS Daily Digest 18/2/19 Civilians targeted in Idlib, reasons to flee
 #### _New arrivals in Greece / “the Cemetery of the Unknown” in Tunisia / bone examinations of asylum seeking children in France / prison time for deportation whistle blowers in Germany / more news…_
 
 
-![](assets/50690c4e4e34/1*aUi-U5a2wrkvm4hZusv3uw.jpeg)
+![](../assets/50690c4e4e34/1*aUi-U5a2wrkvm4hZusv3uw.jpeg)
 
 #### FEATURE
 
 Another reminder of what too many people must flee from:
 
 
-![16 civilians were killed and 85 injured in Idlib City Monday afternoon\. The regime’s forces are targeting civilians\. Photo by [Syria Civil Defense — The White Helmets](https://www.facebook.com/SyriaCivilDef/posts/2289629898028072?__xts__[0]=68.ARBEJJuihGjWff9SOPXE3nWkWbRUTm15Xf_rMB-VrUW2zg-dhsfPaWkypQ6DFO5YfNdt452bdQoV9ZbcY5l3FJ1x-TJ7aXK0i27KZ2BjbqxO2BB3WaL_MgIjVjIUhQb8WyLfojg_31P6eZ2BU4yCOdniBb0s8JxEY2vTBSACdhqY4naHkc7Ns3wIETC3oQEkYvDTkCOMQBE1hreYDWhB1HB_Lyd8o64Hw9Ho5-hK_ycUgAM_DyFaYqaO620cZ1Wg4UxgVGEP3QGmmAXlfWWYv2kVQmH6-cVRRrw1gTmMTQmuo65jOHFqgDhIf0fFRUz7i6iAdwNccy6wbwn29tA-llZSySjM&__tn__=-R)](assets/50690c4e4e34/1*LnjlgY1wn4pLY1Y3J_zSpQ.jpeg)
+![16 civilians were killed and 85 injured in Idlib City Monday afternoon\. The regime’s forces are targeting civilians\. Photo by [Syria Civil Defense — The White Helmets](https://www.facebook.com/SyriaCivilDef/posts/2289629898028072?__xts__[0]=68.ARBEJJuihGjWff9SOPXE3nWkWbRUTm15Xf_rMB-VrUW2zg-dhsfPaWkypQ6DFO5YfNdt452bdQoV9ZbcY5l3FJ1x-TJ7aXK0i27KZ2BjbqxO2BB3WaL_MgIjVjIUhQb8WyLfojg_31P6eZ2BU4yCOdniBb0s8JxEY2vTBSACdhqY4naHkc7Ns3wIETC3oQEkYvDTkCOMQBE1hreYDWhB1HB_Lyd8o64Hw9Ho5-hK_ycUgAM_DyFaYqaO620cZ1Wg4UxgVGEP3QGmmAXlfWWYv2kVQmH6-cVRRrw1gTmMTQmuo65jOHFqgDhIf0fFRUz7i6iAdwNccy6wbwn29tA-llZSySjM&__tn__=-R)](../assets/50690c4e4e34/1*LnjlgY1wn4pLY1Y3J_zSpQ.jpeg)
 
 16 civilians were killed and 85 injured in Idlib City Monday afternoon\. The regime’s forces are targeting civilians\. Photo by [Syria Civil Defense — The White Helmets](https://www.facebook.com/SyriaCivilDef/posts/2289629898028072?__xts__[0]=68.ARBEJJuihGjWff9SOPXE3nWkWbRUTm15Xf_rMB-VrUW2zg-dhsfPaWkypQ6DFO5YfNdt452bdQoV9ZbcY5l3FJ1x-TJ7aXK0i27KZ2BjbqxO2BB3WaL_MgIjVjIUhQb8WyLfojg_31P6eZ2BU4yCOdniBb0s8JxEY2vTBSACdhqY4naHkc7Ns3wIETC3oQEkYvDTkCOMQBE1hreYDWhB1HB_Lyd8o64Hw9Ho5-hK_ycUgAM_DyFaYqaO620cZ1Wg4UxgVGEP3QGmmAXlfWWYv2kVQmH6-cVRRrw1gTmMTQmuo65jOHFqgDhIf0fFRUz7i6iAdwNccy6wbwn29tA-llZSySjM&__tn__=-R)
 
 
-![“ A child has been killed after an attack by regime’s forces w/cluster bombs targeting Deir Al\-Sharqi village eastern of [\#Idlib](https://www.facebook.com/hashtag/idlib?epa=HASHTAG) \.” Photo by [Syria Civil Defense — The White Helmets](https://www.facebook.com/SyriaCivilDef/photos/a.1712251465765921/2289619814695747/?type=3&theater)](assets/50690c4e4e34/1*672p1izla3vm6CQMYa3b3g.jpeg)
+![“ A child has been killed after an attack by regime’s forces w/cluster bombs targeting Deir Al\-Sharqi village eastern of [\#Idlib](https://www.facebook.com/hashtag/idlib?epa=HASHTAG) \.” Photo by [Syria Civil Defense — The White Helmets](https://www.facebook.com/SyriaCivilDef/photos/a.1712251465765921/2289619814695747/?type=3&theater)](../assets/50690c4e4e34/1*672p1izla3vm6CQMYa3b3g.jpeg)
 
 “ A child has been killed after an attack by regime’s forces w/cluster bombs targeting Deir Al\-Sharqi village eastern of [\#Idlib](https://www.facebook.com/hashtag/idlib?epa=HASHTAG) \.” Photo by [Syria Civil Defense — The White Helmets](https://www.facebook.com/SyriaCivilDef/photos/a.1712251465765921/2289619814695747/?type=3&theater)
 
@@ -81,7 +81,7 @@ _Second boat_ \- 43 people; no breakdown for both\)
 → Which means **152 people were arrested** by the Turkish Coastguard
 
 
-![](assets/50690c4e4e34/1*AsJc6hj4lEDx7noxGr-cNw.jpeg)
+![](../assets/50690c4e4e34/1*AsJc6hj4lEDx7noxGr-cNw.jpeg)
 
 
 FEOX rescue team on Chios needs help supporting their accommodation house which is currently helping a young woman with thyroid cancer\. Find out more [here](https://www.facebook.com/permalink.php?story_fbid=2319884028296229&id=1584119558539350&__xts__[0]=68.ARD8I_uDRrE1aHsAGtUmqHrZvHuJGzzb2iAt2hv3ooEz6Brm-T6GuxGK9hzNiQhjBvHD0BlAr-TQFq3TxqhA6DJuz7xcALsJ5QlMY4_su5ug3dGvW19FurRl-5zGsnl_TiGzPeyIafD7YB1q0f-c0GtQ8B6YS23mM5Sobv_MHheMtkXgv8p8MmlukYfVflqlDFXVUQBofGklzeArLeFMXRJrVuLCWn33QhdUc-JZeA3IO0DrdP3jgKdM3kswa1oVLpiSQalN5s1oR-ZN2WCIv8o_WxpF7ItmG8zeLkhUgp4JTp1jxrw2oJb23Herv9ERKphBWjWhXhYnUIF4-IRLhNgvQhRF&__tn__=-R) \.
@@ -89,7 +89,7 @@ FEOX rescue team on Chios needs help supporting their accommodation house which 
 Stand Up for Refugees desperately needs a translator for English/French who can finance themselves in the hospital on Samos\. Learn more [here](https://www.facebook.com/sufr.ch/posts/2312233655763718) \.
 
 
-![Hoping to deal with trauma in an appropriate and safe way\. MSF psychologists helping children express their thoughts\. Photo by [MSF Sea](https://twitter.com/MSF_Sea/status/1097505351468048384?fbclid=IwAR2CwYD4-LTYhe6CpSOLDYSiGJyu--LCtKQNLUznhEXuxurAwEVdek31RaM)](assets/50690c4e4e34/1*YN1MxKFB40Sne6obOp-LNw.jpeg)
+![Hoping to deal with trauma in an appropriate and safe way\. MSF psychologists helping children express their thoughts\. Photo by [MSF Sea](https://twitter.com/MSF_Sea/status/1097505351468048384?fbclid=IwAR2CwYD4-LTYhe6CpSOLDYSiGJyu--LCtKQNLUznhEXuxurAwEVdek31RaM)](../assets/50690c4e4e34/1*YN1MxKFB40Sne6obOp-LNw.jpeg)
 
 Hoping to deal with trauma in an appropriate and safe way\. MSF psychologists helping children express their thoughts\. Photo by [MSF Sea](https://twitter.com/MSF_Sea/status/1097505351468048384?fbclid=IwAR2CwYD4-LTYhe6CpSOLDYSiGJyu--LCtKQNLUznhEXuxurAwEVdek31RaM)
 ### Athens
@@ -115,7 +115,7 @@ Predominantly sunny with the possibility of short periods of fog\. Inland, incre
 #### BOSNIA AND HERZEGOVINA
 
 
-![“Entrance to the city of Bihac…why can’t institutions in charge at least prevent such scenes?” Photo by [UskDanas](https://www.facebook.com/UskDanas/posts/1031498683714794?__xts__[0]=68.ARCgsE421mCFXHst8X3q1y6FVdAzdu4uUKCWZkfWQ78KVVPOBf8_fDHJmYHmbIN6EYhmRATDAI0kMP-pfej24hyMy8VgUUASXhiO_ycFC1rPY0d4l21zrmi0F417aPCiFDWN5pMamv7rR-7fUnZKzdZ-O5ZJ2SLf6vVgJrYi1DqJlAgIMkKq4h6FdkZJpwtSlmx4K6_ZIpYquTalrjDWIoPF2t-wpyyh3U04JOHNvCuJMVJOCkTExxp1DcE7bEXrkTxmWfXBfEBncTK6jPR0o3hUEZpIarrrrk0k08PrcBll1rkEuNJ_DWL5xe8tXNV_0lzne3XThiIOvwk-uGDu6elreA8xzgf_p2Srg4DKWxKKKkmAwUmE4cao52-BHeSp1f5v8dPdNz3Bje--g0xOhFx_OXrAk250Btm6P3_IQaNpisI&__tn__=-R)](assets/50690c4e4e34/1*sADbSFdswpMJIAcN1BaTHA.jpeg)
+![“Entrance to the city of Bihac…why can’t institutions in charge at least prevent such scenes?” Photo by [UskDanas](https://www.facebook.com/UskDanas/posts/1031498683714794?__xts__[0]=68.ARCgsE421mCFXHst8X3q1y6FVdAzdu4uUKCWZkfWQ78KVVPOBf8_fDHJmYHmbIN6EYhmRATDAI0kMP-pfej24hyMy8VgUUASXhiO_ycFC1rPY0d4l21zrmi0F417aPCiFDWN5pMamv7rR-7fUnZKzdZ-O5ZJ2SLf6vVgJrYi1DqJlAgIMkKq4h6FdkZJpwtSlmx4K6_ZIpYquTalrjDWIoPF2t-wpyyh3U04JOHNvCuJMVJOCkTExxp1DcE7bEXrkTxmWfXBfEBncTK6jPR0o3hUEZpIarrrrk0k08PrcBll1rkEuNJ_DWL5xe8tXNV_0lzne3XThiIOvwk-uGDu6elreA8xzgf_p2Srg4DKWxKKKkmAwUmE4cao52-BHeSp1f5v8dPdNz3Bje--g0xOhFx_OXrAk250Btm6P3_IQaNpisI&__tn__=-R)](../assets/50690c4e4e34/1*sADbSFdswpMJIAcN1BaTHA.jpeg)
 
 “Entrance to the city of Bihac…why can’t institutions in charge at least prevent such scenes?” Photo by [UskDanas](https://www.facebook.com/UskDanas/posts/1031498683714794?__xts__[0]=68.ARCgsE421mCFXHst8X3q1y6FVdAzdu4uUKCWZkfWQ78KVVPOBf8_fDHJmYHmbIN6EYhmRATDAI0kMP-pfej24hyMy8VgUUASXhiO_ycFC1rPY0d4l21zrmi0F417aPCiFDWN5pMamv7rR-7fUnZKzdZ-O5ZJ2SLf6vVgJrYi1DqJlAgIMkKq4h6FdkZJpwtSlmx4K6_ZIpYquTalrjDWIoPF2t-wpyyh3U04JOHNvCuJMVJOCkTExxp1DcE7bEXrkTxmWfXBfEBncTK6jPR0o3hUEZpIarrrrk0k08PrcBll1rkEuNJ_DWL5xe8tXNV_0lzne3XThiIOvwk-uGDu6elreA8xzgf_p2Srg4DKWxKKKkmAwUmE4cao52-BHeSp1f5v8dPdNz3Bje--g0xOhFx_OXrAk250Btm6P3_IQaNpisI&__tn__=-R)
 #### GERMANY

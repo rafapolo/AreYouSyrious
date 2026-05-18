@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [schengen,croatia,pushback,human-rights,special]
 description: Open letter signed by groups and NGOs working with the victims of border violence in Bosnia, Serbia and Croatia strongly indicates that…
 image:
-  path: assets/6062df8ccb14/1*y3D6T1NCyXVTrRq72Y7J2w.jpeg
+  path: ../assets/6062df8ccb14/1*y3D6T1NCyXVTrRq72Y7J2w.jpeg
 ---
 
 ### **NGOs: Croatia’s Schengen membership should be halted until human rights are respected**
 #### Open letter signed by groups and NGOs working with the victims of border violence in Bosnia, Serbia and Croatia strongly indicates that Croatia is still not ready to maintain its borders while observing international legal standards and the Schengen aquis
 
 
-![Marks from strangling after the violent push\-back from Croatia, green\-lighted by the European Comission to become Schengen area member\. Photo: No Name Kitchen](assets/6062df8ccb14/1*y3D6T1NCyXVTrRq72Y7J2w.jpeg)
+![Marks from strangling after the violent push\-back from Croatia, green\-lighted by the European Comission to become Schengen area member\. Photo: No Name Kitchen](../assets/6062df8ccb14/1*y3D6T1NCyXVTrRq72Y7J2w.jpeg)
 
 Marks from strangling after the violent push\-back from Croatia, green\-lighted by the European Comission to become Schengen area member\. Photo: No Name Kitchen
 
@@ -23,7 +23,7 @@ Today, Croatia recieved the green light from the European Commission to enter th
 For the past three years, civil society organisations and activists from Croatia \(Welcome Initiative, Are You Syrious, Centre for Peace Studies\), institutions such as the Ombudsperson’s Office together with many international governmental and non\-governmental actors \( [UN Special Rapporteur on the human rights of migrants](https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=25088&LangID=E) , [Council for Europe Commissioner for Human Rights](https://rm.coe.int/09000016808d7db3) , [Human Rights Watch](https://www.hrw.org/news/2018/12/11/croatia-migrants-pushed-back-bosnia-and-herzegovina) , [Amnesty International](https://www.amnesty.org/en/documents/eur05/9964/2019/en/) , [Medecins Sans Frontieres](https://www.msf.org/sites/msf.org/files/serbia-games-of-violence-3.10.17.pdf) , [Asylum Protection Center](http://www.apc-cza.org/en/apc-cza-publikacije.html) \) have been warning about the illegal and violent police practices towards refugees and migrants trying to enter Croatia from the borders with Serbia and Bosnia and Herzegovina\. Activists and volunteers of [Border Violence Monitoring Network](https://www.borderviolence.eu/about/) present in the border areas in Serbia and Bosnia and Herzegovina are collecting testimonies from refugees and migrants, and publishing reports — which describe these illegal actions and define trends\. These are planned, structural and intentional actions of the police who is denying people entry to the territory of the Republic of Croatia and is pushing them back to neighbouring countries outside of any established procedures or access to international protection system, often using force and violence\. There are no monitoring mechanisms of police conduct in place, there exists a total lack of official supervision of officer behavior and the [National Preventive Mechanism](https://www.ombudsman.hr/en/ombudswoman-warned-the-mi-to-grant-npm-access-to-data-on-irregular-migrants-treatment/) has been essentially disabled\. The police practice remains unsanctioned by the responsible bodies, even after [published letter](https://www.ombudsman.hr/en/no-institutional-reaction-to-alleged-illegal-police-treatment-of-migrants/) of anonymous police officers that have, from their own experience, confirmed illegal practice\.
 
 
-![A letter to the Ombudsperson signed by Croatian police officers\. Photo: ombudsman\.hr](assets/6062df8ccb14/1*8akZq4htGJZaGPoSTfpG8Q.jpeg)
+![A letter to the Ombudsperson signed by Croatian police officers\. Photo: ombudsman\.hr](../assets/6062df8ccb14/1*8akZq4htGJZaGPoSTfpG8Q.jpeg)
 
 A letter to the Ombudsperson signed by Croatian police officers\. Photo: ombudsman\.hr
 
@@ -32,7 +32,7 @@ However, mentioned practice has been taken into consideration within a more inte
 These should be taken into consideration upon reaching the decision whether Croatia has fulfilled all conditions to join the Schengen area\. As a country candidate, one must undergo the Schengen evaluation which includes all parts of the Schengen _acquis_ \. Croatia is not respecting nor applying relevant international law standards and the Schengen Border Code \(SBC\) \. In particular, Croatia is violating Article 13 of the SBC which provisions: “A person who has crossed a border illegally and who has no right to stay on the territory of the Member State concerned shall be apprehended and made subject to procedures respecting Directive 2008/115/EC”\.
 
 
-![Madina Hussiny, a 6\-year old Afghan girl who died minutes after she was pushed back from Croatia\. Photo: AYS](assets/6062df8ccb14/1*lGDEaZxHVYkEI4X7uveTVQ.jpeg)
+![Madina Hussiny, a 6\-year old Afghan girl who died minutes after she was pushed back from Croatia\. Photo: AYS](../assets/6062df8ccb14/1*lGDEaZxHVYkEI4X7uveTVQ.jpeg)
 
 Madina Hussiny, a 6\-year old Afghan girl who died minutes after she was pushed back from Croatia\. Photo: AYS
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 21–22/3/2020 France: More people in detention despite pandemic measures
+title: "AYS Weekend Digest 21–22/3/2020 France: More people in detention despite pandemic measures"
 author: Are You Syrious?
 date: 2020-03-23T12:51:26.979+0000
 last_modified_at: 2020-03-23T12:51:47.849+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: []
 description: Are You Syrious?
 image:
-  path: assets/da3da3516e5e/1*b31hiO4ynbDLRrXWEFF4aQ.png
+  path: ../assets/da3da3516e5e/1*b31hiO4ynbDLRrXWEFF4aQ.png
 ---
 
 ### AYS Weekend Digest 21–22/3/2020 France: More people in detention despite pandemic measures
 
 
-![](assets/da3da3516e5e/1*b31hiO4ynbDLRrXWEFF4aQ.png)
+![](../assets/da3da3516e5e/1*b31hiO4ynbDLRrXWEFF4aQ.png)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----82936c0ad8ee----------------------)
@@ -23,11 +23,11 @@ image:
 Greece in total lockdown from Monday 23rd\. Report from Turkish/Bulgarian border\. Concerns over healthcare access for people on the move in Bosnia\. Police chase homeless people in Brussels\.
 
 
-![](assets/da3da3516e5e/1*b31hiO4ynbDLRrXWEFF4aQ.png)
+![](../assets/da3da3516e5e/1*b31hiO4ynbDLRrXWEFF4aQ.png)
 
 
 
-![](assets/da3da3516e5e/1*b31hiO4ynbDLRrXWEFF4aQ.png)
+![](../assets/da3da3516e5e/1*b31hiO4ynbDLRrXWEFF4aQ.png)
 
 
 On Sunday morning a 5\.3 magnitude earthquake hit Zagreb, causing widespread damage and the evacuation of hospitals\. A 15\-year\-old is in a critical condition and 16 others were injured as a result of the quake\. More tremors followed and are still shaking the earth\. This is a message from AYS: “Dear friends, we hope everyone is ok after this morning’s earthquake\.
@@ -66,7 +66,7 @@ TURKEY
 ### It’s still winter at the border
 
 
-![](assets/da3da3516e5e/1*b31hiO4ynbDLRrXWEFF4aQ.png)
+![](../assets/da3da3516e5e/1*b31hiO4ynbDLRrXWEFF4aQ.png)
 
 
 \(Photo Credit: Anonymous\)

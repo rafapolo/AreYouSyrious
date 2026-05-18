@@ -1,20 +1,20 @@
 ---
-title: AYS Digest 11/8: Camps continue to stagnate.
+title: "AYS Digest 11/8: Camps continue to stagnate."
 author: Are You Syrious?
 date: 2016-08-12T00:18:13.424+0100
 last_modified_at: 2016-08-13T00:51:51.054+0100
 categories: 
 tags: [refugees,europe]
-description: AYS wants to hear about: more projects led by refugees! Severe water shortage in Aleppo. Athens prepares emergency plan for “sudden…
+description: "AYS wants to hear about: more projects led by refugees! Severe water shortage in Aleppo. Athens prepares emergency plan for “sudden…"
 image:
-  path: assets/890464bcc122/1*IU-bJ5lpkALvcEeT7VJP5g.jpeg
+  path: ../assets/890464bcc122/1*IU-bJ5lpkALvcEeT7VJP5g.jpeg
 ---
 
 ### AYS Digest 11/8: Camps continue to stagnate\.
 #### AYS wants to hear about: more projects led by refugees\! Severe water shortage in Aleppo\. Athens prepares emergency plan for “sudden short\-term influx\.” More horrifying food problems in Vial\. Vasilika camp housing reaches 45 celsius in the summer heat, report says\. New reports from inside Serbia\-Hungary transit zones\. Baobab reports from Rome\. France promises more beds, but threatens refugee businesses in Calais\.
 
 
-![](assets/890464bcc122/1*IU-bJ5lpkALvcEeT7VJP5g.jpeg)
+![](../assets/890464bcc122/1*IU-bJ5lpkALvcEeT7VJP5g.jpeg)
 
 ### GENERAL
 
@@ -51,7 +51,7 @@ Devastating news out of Syria as a face that many got to know worldwide as the m
 
 
 
-![Photo courtesy of The White Helmets](assets/890464bcc122/1*lTCRIyJJqkRPfhNKvbDA4A.png)
+![Photo courtesy of The White Helmets](../assets/890464bcc122/1*lTCRIyJJqkRPfhNKvbDA4A.png)
 
 Photo courtesy of The White Helmets
 ### GREECE
@@ -93,11 +93,11 @@ Food standards fall short in nutritional value, and around 60% of the food is th
 Refugee Aid Miksaliste reports that despite having to reduce operational time in order to repair their roof, they were still able to provide some hot meals and rain coats to help deal with the cold snap that’s happened in Belgrade\.
 
 
-![](assets/890464bcc122/1*C0_8xXnybn8RCsRUtyackw.jpeg)
+![](../assets/890464bcc122/1*C0_8xXnybn8RCsRUtyackw.jpeg)
 
 
 
-![Distribution in Miksalište](assets/890464bcc122/1*U-NVCXmfFJJhxMYGH1Z-uQ.jpeg)
+![Distribution in Miksalište](../assets/890464bcc122/1*U-NVCXmfFJJhxMYGH1Z-uQ.jpeg)
 
 Distribution in Miksalište
 

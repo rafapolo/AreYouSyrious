@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 21/09/21 — We Wish Foucault Were Here: The New Surveillance State in Greek Camps
+title: "AYS Daily Digest 21/09/21 — We Wish Foucault Were Here: The New Surveillance State in Greek Camps"
 author: Are You Syrious?
 date: 2021-09-23T12:57:35.483+0100
 last_modified_at: 2021-09-23T12:57:35.483+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,europe,migration,surveillance]
 description: Turkey Displaces Syrians in Ankara // Horror on Polish-Belarusian Border in Wake of Deaths // Info for Afghans in Germany // Napier…
 image:
-  path: assets/3df19bd2cbb3/1*vK4Z6uO8CQzUEVjs40bmGg.jpeg
+  path: ../assets/3df19bd2cbb3/1*vK4Z6uO8CQzUEVjs40bmGg.jpeg
 ---
 
 ### AYS Daily Digest 21/09/21 — We Wish Foucault Were Here: The New Surveillance State in Greek Camps
@@ -15,18 +15,18 @@ image:
 ### FEATURE — The Violent, Wild ‘Centaur’: Surveillance, Knowledge and Power in Greece’s New Refugee Camps
 
 
-![A panopticon prison \(Photo: [CC\-BY\-SA\-4\.0](https://commons.wikimedia.org/wiki/File:Panopticon_prison.jpg) \)](assets/3df19bd2cbb3/1*vK4Z6uO8CQzUEVjs40bmGg.jpeg)
+![A panopticon prison \(Photo: [CC\-BY\-SA\-4\.0](https://commons.wikimedia.org/wiki/File:Panopticon_prison.jpg) \)](../assets/3df19bd2cbb3/1*vK4Z6uO8CQzUEVjs40bmGg.jpeg)
 
 A panopticon prison \(Photo: [CC\-BY\-SA\-4\.0](https://commons.wikimedia.org/wiki/File:Panopticon_prison.jpg) \)
 
 In yesterday’s digest we reported on the recent opening of the highly\-criticized new camp on Samos\. Located in the Zervou area of the island, far from Samos town and any resources, the prison\-like camp is designed to host up to 3,000 people\. The facility is surrounded by barbed wire, and the entry and exit points are controlled by metal detectors; indeed, camp residents can enter only by scanning their electronic ID card and their fingerprints\. The camp’s opening this week was met with protests from camp residents, solidarity workers and local residents\. Still, of course, [transfers to the new facility continue](https://www.facebook.com/24samos/posts/4232942090167666) \.
 
 
-![](assets/3df19bd2cbb3/1*s9elR1b3x5-odT9V6dJNsQ.jpeg)
+![](../assets/3df19bd2cbb3/1*s9elR1b3x5-odT9V6dJNsQ.jpeg)
 
 
 
-![Protests against the new camp on Samos \(Photo credit: [Europe Must Act](https://www.facebook.com/europemustact/posts/376887340590633) \)](assets/3df19bd2cbb3/1*Rq-ay9T9Go2hkd5smEaYdw.jpeg)
+![Protests against the new camp on Samos \(Photo credit: [Europe Must Act](https://www.facebook.com/europemustact/posts/376887340590633) \)](../assets/3df19bd2cbb3/1*Rq-ay9T9Go2hkd5smEaYdw.jpeg)
 
 Protests against the new camp on Samos \(Photo credit: [Europe Must Act](https://www.facebook.com/europemustact/posts/376887340590633) \)
 
@@ -35,7 +35,7 @@ The Samos camp, however, is just the first of many new, high\-tech facilities th
 In the Samos camp, and in the other camps to follow, Greek Ministry of Migration and Asylum is deploying a partly\-automated surveillance system called ‘Centaur’, named after the mythical Greek creature, part\-horse, part\-man, that roams the mountains of Thessaly and Arcadia\.
 
 
-![A centaur with Cupid \(Photo: [CC BY 4\.0](https://www.lookandlearn.com/history-images/YW035938VEL/A-centaur-with-Cupid) \)](assets/3df19bd2cbb3/1*u1aT7CAutsqqrkXXhxJ5xQ.jpeg)
+![A centaur with Cupid \(Photo: [CC BY 4\.0](https://www.lookandlearn.com/history-images/YW035938VEL/A-centaur-with-Cupid) \)](../assets/3df19bd2cbb3/1*u1aT7CAutsqqrkXXhxJ5xQ.jpeg)
 
 A centaur with Cupid \(Photo: [CC BY 4\.0](https://www.lookandlearn.com/history-images/YW035938VEL/A-centaur-with-Cupid) \)
 

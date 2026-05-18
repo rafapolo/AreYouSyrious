@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 25/9/20: German court stopped deportation back to Greece due to Moria conditions
+title: "AYS Daily Digest 25/9/20: German court stopped deportation back to Greece due to Moria conditions"
 author: Are You Syrious?
 date: 2020-09-26T21:21:25.625+0100
 last_modified_at: 2020-09-26T21:21:25.625+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,human-rights,europe,migration]
 description: In Libya, the militia of General Khalifa Haftar has forcibly expelled more than 5,000 people since the start of this year / Trieste…
 image:
-  path: assets/c4a7d906e1c1/0*YCska3ssTjARYoZl.jpeg
+  path: ../assets/c4a7d906e1c1/0*YCska3ssTjARYoZl.jpeg
 ---
 
 ### AYS Daily Digest 25/9/20: German court stopped deportation back to Greece due to Moria conditions
 ### In Libya, the militia of General Khalifa Haftar has forcibly expelled more than 5,000 people since the start of this year / Trieste documents the suffering of people who came via the Balkan Route / Condemnation of Spain’s reopening of CIES centres / recommended reads & more updates
 
 
-![](assets/c4a7d906e1c1/0*39ghdFx42z_RN9uB.jpeg)
+![](../assets/c4a7d906e1c1/0*39ghdFx42z_RN9uB.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----6044f5d283fe--------------------------------)
@@ -22,11 +22,11 @@ image:
 [Sep 26](ays-daily-digest-25-9-20-german-court-stopped-deportation-back-to-greece-due-to-moria-conditions-6044f5d283fe?source=post_page-----6044f5d283fe--------------------------------) · 6 min read
 
 
-![](assets/c4a7d906e1c1/0*h-8ASBSMnay12rUI)
+![](../assets/c4a7d906e1c1/0*h-8ASBSMnay12rUI)
 
 
 
-![](assets/c4a7d906e1c1/0*YCska3ssTjARYoZl.jpeg)
+![](../assets/c4a7d906e1c1/0*YCska3ssTjARYoZl.jpeg)
 
 ### FEATURED
 
@@ -124,11 +124,11 @@ The Spanish Government has ordered deprivation of liberty of people by reopening
 
 
 
-![](assets/c4a7d906e1c1/0*iXQ4lXD39h46RhpU)
+![](../assets/c4a7d906e1c1/0*iXQ4lXD39h46RhpU)
 
 
 
-![](assets/c4a7d906e1c1/0*1wISDEpqps2gwCpZ.jpg)
+![](../assets/c4a7d906e1c1/0*1wISDEpqps2gwCpZ.jpg)
 
 ### Events
 ### [Live For Moria: Relief for the refugees of Lesvos, Greece](https://l.facebook.com/l.php?u=https%3A%2F%2Fgogetfunding.com%2Fliveformoria%3Ffbclid%3DIwAR2HdYPe6fXrxMRwazoTtaUDiAp2g8XbCqX1DqS3hRs_aP1rK5Uo5PEl0EY&h=AT3Pu5Ggq-8eHaW_0UbpvYP8GB71FqWZAbFzG6fTsEYL7JPmF52bMapc1ObzsQxFPECSHmEb00O7qGmDcWhzkQc2hN91xcaxoSFsYmrkqeJJnBz6MNfpQPTQV-G5m3dbHTFknUOV10c_gQ)

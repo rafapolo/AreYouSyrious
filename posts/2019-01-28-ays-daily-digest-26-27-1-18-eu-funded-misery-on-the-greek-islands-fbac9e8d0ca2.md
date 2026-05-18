@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 26–27/1/18: EU-funded misery on the Greek islands
+title: "AYS Daily Digest 26–27/1/18: EU-funded misery on the Greek islands"
 author: Are You Syrious?
 date: 2019-01-28T14:53:28.772+0000
 last_modified_at: 2019-01-28T14:53:28.772+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,europe,digest,greece,italy]
 description: Unbearable situation continues in the Aegean / Solidarity protests and international pressure over Italy / Spain proposes increase in…
 image:
-  path: assets/fbac9e8d0ca2/1*7QdO4tT-keulGiXLBsfFjw.jpeg
+  path: ../assets/fbac9e8d0ca2/1*7QdO4tT-keulGiXLBsfFjw.jpeg
 ---
 
 ### AYS Daily Digest 26–27/1/18: EU\-funded misery on the Greek islands
 #### Unbearable situation continues in the Aegean / Solidarity protests and international pressure over Italy / Spain proposes increase in deportations and detention / New deportations from Germany to Afghanistan announced / A legislative change in Iceland announces equal reception conditions for resettled refugees and asylum seekers / more news and updates
 
 
-![](assets/fbac9e8d0ca2/1*Tx1u1RSutf5fWmPbOOmJVA.jpeg)
+![](../assets/fbac9e8d0ca2/1*Tx1u1RSutf5fWmPbOOmJVA.jpeg)
 
 
 [Are You Syrious?](https://medium.com/@AreYouSyrious)
@@ -22,17 +22,17 @@ image:
 Jan 28
 
 
-![Samos, Greece \(Photo: [Nicoletta Novara](https://www.facebook.com/nicoletta.novara.3?__tn__=%2CdKH-R-R&eid=ARAWwAtfTUEkj7qPJeJH7ledbzRrTYCIaFOw5xYs7ljNI2SAwjLzQ5_LFMFjnM3NjInO6XoMcZXCU3-g&fref=mentions) \)](assets/fbac9e8d0ca2/1*7QdO4tT-keulGiXLBsfFjw.jpeg)
+![Samos, Greece \(Photo: [Nicoletta Novara](https://www.facebook.com/nicoletta.novara.3?__tn__=%2CdKH-R-R&eid=ARAWwAtfTUEkj7qPJeJH7ledbzRrTYCIaFOw5xYs7ljNI2SAwjLzQ5_LFMFjnM3NjInO6XoMcZXCU3-g&fref=mentions) \)](../assets/fbac9e8d0ca2/1*7QdO4tT-keulGiXLBsfFjw.jpeg)
 
 Samos, Greece \(Photo: [Nicoletta Novara](https://www.facebook.com/nicoletta.novara.3?__tn__=%2CdKH-R-R&eid=ARAWwAtfTUEkj7qPJeJH7ledbzRrTYCIaFOw5xYs7ljNI2SAwjLzQ5_LFMFjnM3NjInO6XoMcZXCU3-g&fref=mentions) \)
 #### FEATURE
 
 
-![](assets/fbac9e8d0ca2/1*M9XHxdHqepBdM-Q3rNnuRQ.jpeg)
+![](../assets/fbac9e8d0ca2/1*M9XHxdHqepBdM-Q3rNnuRQ.jpeg)
 
 
 
-![Photos: [Nicoletta Novara](https://www.facebook.com/nicoletta.novara.3?__tn__=%2CdKH-R-R&eid=ARAWwAtfTUEkj7qPJeJH7ledbzRrTYCIaFOw5xYs7ljNI2SAwjLzQ5_LFMFjnM3NjInO6XoMcZXCU3-g&fref=mentions)](assets/fbac9e8d0ca2/1*UsIlLWs-hBcpW7zC5kVugw.jpeg)
+![Photos: [Nicoletta Novara](https://www.facebook.com/nicoletta.novara.3?__tn__=%2CdKH-R-R&eid=ARAWwAtfTUEkj7qPJeJH7ledbzRrTYCIaFOw5xYs7ljNI2SAwjLzQ5_LFMFjnM3NjInO6XoMcZXCU3-g&fref=mentions)](../assets/fbac9e8d0ca2/1*UsIlLWs-hBcpW7zC5kVugw.jpeg)
 
 Photos: [Nicoletta Novara](https://www.facebook.com/nicoletta.novara.3?__tn__=%2CdKH-R-R&eid=ARAWwAtfTUEkj7qPJeJH7ledbzRrTYCIaFOw5xYs7ljNI2SAwjLzQ5_LFMFjnM3NjInO6XoMcZXCU3-g&fref=mentions)
 
@@ -95,15 +95,15 @@ Photos: [Nicoletta Novara](https://www.facebook.com/nicoletta.novara.3?__tn__=%2
 
 
 
-![](assets/fbac9e8d0ca2/1*_xRjhUM6d7FkzEjE1HnOGA.jpeg)
+![](../assets/fbac9e8d0ca2/1*_xRjhUM6d7FkzEjE1HnOGA.jpeg)
 
 
 
-![](assets/fbac9e8d0ca2/1*NRfW-d83kImYL1PYdX-Tbg.jpeg)
+![](../assets/fbac9e8d0ca2/1*NRfW-d83kImYL1PYdX-Tbg.jpeg)
 
 
 
-![Photos: [Nicoletta Novara](https://www.facebook.com/nicoletta.novara.3?__tn__=%2CdKH-R-R&eid=ARAWwAtfTUEkj7qPJeJH7ledbzRrTYCIaFOw5xYs7ljNI2SAwjLzQ5_LFMFjnM3NjInO6XoMcZXCU3-g&fref=mentions)](assets/fbac9e8d0ca2/1*z8lGsZdJOzW1A9qvQI_z0A.jpeg)
+![Photos: [Nicoletta Novara](https://www.facebook.com/nicoletta.novara.3?__tn__=%2CdKH-R-R&eid=ARAWwAtfTUEkj7qPJeJH7ledbzRrTYCIaFOw5xYs7ljNI2SAwjLzQ5_LFMFjnM3NjInO6XoMcZXCU3-g&fref=mentions)](../assets/fbac9e8d0ca2/1*z8lGsZdJOzW1A9qvQI_z0A.jpeg)
 
 Photos: [Nicoletta Novara](https://www.facebook.com/nicoletta.novara.3?__tn__=%2CdKH-R-R&eid=ARAWwAtfTUEkj7qPJeJH7ledbzRrTYCIaFOw5xYs7ljNI2SAwjLzQ5_LFMFjnM3NjInO6XoMcZXCU3-g&fref=mentions)
 
@@ -121,15 +121,15 @@ Photos: [Nicoletta Novara](https://www.facebook.com/nicoletta.novara.3?__tn__=%2
 
 
 
-![](assets/fbac9e8d0ca2/1*KXBbq_1fIRxmLNikp8u0Yw.jpeg)
+![](../assets/fbac9e8d0ca2/1*KXBbq_1fIRxmLNikp8u0Yw.jpeg)
 
 
 
-![](assets/fbac9e8d0ca2/1*Ww9xpN0fqUqvz7ejvOgyhg.jpeg)
+![](../assets/fbac9e8d0ca2/1*Ww9xpN0fqUqvz7ejvOgyhg.jpeg)
 
 
 
-![Photos: [Nicoletta Novara](https://www.facebook.com/nicoletta.novara.3?__tn__=%2CdKH-R-R&eid=ARAWwAtfTUEkj7qPJeJH7ledbzRrTYCIaFOw5xYs7ljNI2SAwjLzQ5_LFMFjnM3NjInO6XoMcZXCU3-g&fref=mentions)](assets/fbac9e8d0ca2/1*bBCFv7RAqqGj2F1EFxs_HA.jpeg)
+![Photos: [Nicoletta Novara](https://www.facebook.com/nicoletta.novara.3?__tn__=%2CdKH-R-R&eid=ARAWwAtfTUEkj7qPJeJH7ledbzRrTYCIaFOw5xYs7ljNI2SAwjLzQ5_LFMFjnM3NjInO6XoMcZXCU3-g&fref=mentions)](../assets/fbac9e8d0ca2/1*bBCFv7RAqqGj2F1EFxs_HA.jpeg)
 
 Photos: [Nicoletta Novara](https://www.facebook.com/nicoletta.novara.3?__tn__=%2CdKH-R-R&eid=ARAWwAtfTUEkj7qPJeJH7ledbzRrTYCIaFOw5xYs7ljNI2SAwjLzQ5_LFMFjnM3NjInO6XoMcZXCU3-g&fref=mentions)
 
@@ -157,11 +157,11 @@ As we reported yesterday, the power cuts in Moria continue and so does the ongoi
 
 
 
-![](assets/fbac9e8d0ca2/1*JjlD6DIhZJR2i3tsw_pZCw.jpeg)
+![](../assets/fbac9e8d0ca2/1*JjlD6DIhZJR2i3tsw_pZCw.jpeg)
 
 
 
-![Photo: Anna Alboth](assets/fbac9e8d0ca2/1*C15x6OEGwWZ7P1s0AnolXg.jpeg)
+![Photo: Anna Alboth](../assets/fbac9e8d0ca2/1*C15x6OEGwWZ7P1s0AnolXg.jpeg)
 
 Photo: Anna Alboth
 
@@ -170,11 +170,11 @@ Photo: Anna Alboth
 
 
 
-![](assets/fbac9e8d0ca2/1*lnIqCd2xEcnAP43ANViQHA.jpeg)
+![](../assets/fbac9e8d0ca2/1*lnIqCd2xEcnAP43ANViQHA.jpeg)
 
 
 
-![Moria, Lesvos \(Photos: Anna Alboth\)](assets/fbac9e8d0ca2/1*LzP75LdcMGRzZ75gboChfA.jpeg)
+![Moria, Lesvos \(Photos: Anna Alboth\)](../assets/fbac9e8d0ca2/1*LzP75LdcMGRzZ75gboChfA.jpeg)
 
 Moria, Lesvos \(Photos: Anna Alboth\)
 ### Athens

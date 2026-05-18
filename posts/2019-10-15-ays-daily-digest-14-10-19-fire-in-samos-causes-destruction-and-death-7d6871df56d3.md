@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 14/10/19: Residents in Samos evacuated after intense fire breaks up
+title: "AYS Daily Digest 14/10/19: Residents in Samos evacuated after intense fire breaks up"
 author: Are You Syrious?
 date: 2019-10-15T01:10:35.012+0100
 last_modified_at: 2019-10-17T10:50:56.458+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,samos,fire,greece]
 description: More children losing their lives while trying to reach Europe//Videos of horrible living conditions in Chios//Rising number of people…
 image:
-  path: assets/7d6871df56d3/1*FAKzIrMWIs2vOGp4MSozEg.jpeg
+  path: ../assets/7d6871df56d3/1*FAKzIrMWIs2vOGp4MSozEg.jpeg
 ---
 
 ### AYS Daily Digest 14/10/19: Residents in Samos evacuated after intense fire breaks out
 #### More children losing their lives while trying to reach Europe// Videos of horrible living conditions in Chios// Rising number of people transiting through western Serbia// Safe port assigned to Ocean Viking// 285 people reached Italian coasts\. \.
 
 
-![Credit: Omar Alshakal\.](assets/7d6871df56d3/1*FAKzIrMWIs2vOGp4MSozEg.jpeg)
+![Credit: Omar Alshakal\.](../assets/7d6871df56d3/1*FAKzIrMWIs2vOGp4MSozEg.jpeg)
 
 Credit: Omar Alshakal\.
 #### FEATURED STORIES
@@ -168,11 +168,11 @@ Border Violence Monitoring has published today their [September report](https://
 Shoes siezed 40 to 45 and socks are needed in **_Tuzla_** \. [Get in touch](https://www.facebook.com/permalink.php?story_fbid=108986593850646&id=108916427190996&hc_location=ufi) if you can help\.
 
 
-![](assets/7d6871df56d3/1*qoAOHF8TxrXZr1k2WJ-L3g.jpeg)
+![](../assets/7d6871df56d3/1*qoAOHF8TxrXZr1k2WJ-L3g.jpeg)
 
 
 
-![Tuzla in the morning of 15/10\. Credit: Senad Cupo\.](assets/7d6871df56d3/1*8nS0l9IbqtnMIh9OLA70Nw.jpeg)
+![Tuzla in the morning of 15/10\. Credit: Senad Cupo\.](../assets/7d6871df56d3/1*8nS0l9IbqtnMIh9OLA70Nw.jpeg)
 
 Tuzla in the morning of 15/10\. Credit: Senad Cupo\.
 #### CENTRAL MEDITERRANEAN

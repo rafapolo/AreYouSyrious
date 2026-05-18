@@ -1,19 +1,19 @@
 ---
-title: AYS DAILY NEWS DIGEST 03.03.2017: Civil Society Talks Back
+title: "AYS DAILY NEWS DIGEST 03.03.2017: Civil Society Talks Back"
 author: Are You Syrious?
 date: 2017-03-04T03:16:29.808+0000
 last_modified_at: 2017-03-04T11:50:50.145+0000
 categories: 
 tags: [europe,refugees]
-description: FEATURE: Civil Society Talks Back
+description: "FEATURE: Civil Society Talks Back"
 image:
-  path: assets/fc2559ff29e/1*zl4GmTL1NttiC2ZdCA2uaQ.jpeg
+  path: ../assets/fc2559ff29e/1*zl4GmTL1NttiC2ZdCA2uaQ.jpeg
 ---
 
 ### AYS DAILY NEWS DIGEST 03\.03\.2017: Civil Society Talks Back
 
 
-![Food prep in Belgrade: Hot Food Idomeni\. Photo Credit: Zoe Wild](assets/fc2559ff29e/1*zl4GmTL1NttiC2ZdCA2uaQ.jpeg)
+![Food prep in Belgrade: Hot Food Idomeni\. Photo Credit: Zoe Wild](../assets/fc2559ff29e/1*zl4GmTL1NttiC2ZdCA2uaQ.jpeg)
 
 Food prep in Belgrade: Hot Food Idomeni\. Photo Credit: Zoe Wild
 ### FEATURE: Civil Society Talks Back
@@ -100,7 +100,7 @@ On Friday, a suspected Greek\-British smuggling ring was busted by authorities\.
 Ariel Ricker of Advocates Abroad [reported](https://www.facebook.com/ariel314159/posts/10102234497141806?hc_location=ufi) on a horrific story of a minor suffering terrible abuse at the hands of the system on Samos\.
 
 
-![Minor, chained to a chair\. Photo courtesy of Advocates Abroad](assets/fc2559ff29e/1*DslKj_ROUI7UJyhFPqh0uw.jpeg)
+![Minor, chained to a chair\. Photo courtesy of Advocates Abroad](../assets/fc2559ff29e/1*DslKj_ROUI7UJyhFPqh0uw.jpeg)
 
 Minor, chained to a chair\. Photo courtesy of Advocates Abroad
 
@@ -132,7 +132,7 @@ Minor, chained to a chair\. Photo courtesy of Advocates Abroad
 Updated release from News that Moves addressing refugee responses\! Check it out below\.
 
 
-![Credit: NewsThatMoves](assets/fc2559ff29e/1*Afhkg00sCfC-SQzrp2mFsA.jpeg)
+![Credit: NewsThatMoves](../assets/fc2559ff29e/1*Afhkg00sCfC-SQzrp2mFsA.jpeg)
 
 Credit: NewsThatMoves
 ### SERBIA
@@ -169,7 +169,7 @@ Around 200 unregistered migrant men from North Africa, Pakistan and Afghanistan 
 NewsThatMoves reports that [children](https://newsthatmoves.org/en/informal-classes-for-children-in-presevo/) in Preševo Reception Center are now receiving 2\.5 hours of informal classes per day, starting at 9 am\. The children are divided into small groups by age, and they study Mathematics, Serbian and foreign languages, art, biology and geography\.
 
 
-![Makeshift camp similar to the one that recently burned in Italy\. Photo credit: Collettivo Mamadou](assets/fc2559ff29e/1*pFFKly0KdQ5eXF7qDD0E4A.jpeg)
+![Makeshift camp similar to the one that recently burned in Italy\. Photo credit: Collettivo Mamadou](../assets/fc2559ff29e/1*pFFKly0KdQ5eXF7qDD0E4A.jpeg)
 
 Makeshift camp similar to the one that recently burned in Italy\. Photo credit: Collettivo Mamadou
 ### ITALY

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest: 01/10/20: evictions everywhere
+title: "AYS Daily Digest: 01/10/20: evictions everywhere"
 author: Are You Syrious?
 date: 2020-10-02T13:44:23.924+0100
 last_modified_at: 2020-10-02T18:59:53.547+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,europe,digest,eviction,pushback]
 description: Eviction of the official UN-run Bira camp in BiH // illegal eviction of inofficial camp in Calais // Pushback from Spanish islet to…
 image:
-  path: assets/5d8eaf67d294/1*wM-KIBlBJLjYgINLsuUIMQ.jpeg
+  path: ../assets/5d8eaf67d294/1*wM-KIBlBJLjYgINLsuUIMQ.jpeg
 ---
 
 ### AYS Daily Digest: 01/10/20: Evictions and pushbacks all over Europe
 #### Eviction of the official UN\-run Bira camp in BiH // Illegal eviction of unofficial camp in Calais // Pushback from Spanish islet to Morocco // large\-scale pushbacks from Cyprus to Lebanon // 7300 pushbacks monitored in Aegean since March // What is it like to be a refugee child in Greece? // Solidarity with PIKPA
 
 
-![Large\-scale eviction in Calais on September 29\. Copyright: Human Rights Observers](assets/5d8eaf67d294/1*wM-KIBlBJLjYgINLsuUIMQ.jpeg)
+![Large\-scale eviction in Calais on September 29\. Copyright: Human Rights Observers](../assets/5d8eaf67d294/1*wM-KIBlBJLjYgINLsuUIMQ.jpeg)
 
 Large\-scale eviction in Calais on September 29\. Copyright: Human Rights Observers
 ### FEATURE: As winter approaches, the situation of refugees in Bosnia\-Herzegovina is deteriorating
@@ -313,7 +313,7 @@ Regardless, an eviction would have to be announced in advance, which did not hap
 On Saturday, a protest march of migrants, Calais residents, and volunteers set off from the now evicted area next to the hospital and made its way in the pouring rain to the city centre\. The participants protested against the Council of States’ decision not to suspend a prefectural decree from 11 September that prohibits humanitarian aid workers from distributing food to migrants in the city centre\.
 
 
-![from Saturday’s demonstration, Copyright: enough14](assets/5d8eaf67d294/1*4poIcGloJB9xyuOakcoPrA.jpeg)
+![from Saturday’s demonstration, Copyright: enough14](../assets/5d8eaf67d294/1*4poIcGloJB9xyuOakcoPrA.jpeg)
 
 from Saturday’s demonstration, Copyright: enough14
 

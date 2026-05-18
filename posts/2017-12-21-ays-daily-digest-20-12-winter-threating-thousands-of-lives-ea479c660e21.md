@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 20/12: Winter threatening thousands of lives
+title: "AYS Daily Digest 20/12: Winter threatening thousands of lives"
 author: Are You Syrious?
 date: 2017-12-21T10:11:01.058+0000
 last_modified_at: 2017-12-21T10:30:03.099+0000
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,greece,europe,italy,france]
 description: Denmark ignores the recent studies and decides to say “no” / Refugees no longer need to pay for flights to reunite with families / Islands…
 image:
-  path: assets/ea479c660e21/1*6QjZ91Te2r7jhPnLOfrKMw.jpeg
+  path: ../assets/ea479c660e21/1*6QjZ91Te2r7jhPnLOfrKMw.jpeg
 ---
 
 ### AYS Daily Digest 20/12: Winter threatening thousands of lives
 #### Denmark ignores the recent studies and decides to say “no” / Refugees no longer need to pay for flights to reunite with families / Islands on the verge of disaster, officials either using force, casting blames or ignoring / Grand Synthe’s shelter inadequate and reflects state measures / Calais police cruelty continues / Switzerland funds missing people project / UK looking for hosts, volunteer groups in Greece looking for help and aid, …
 
 
-![by: [NoBorders](https://www.facebook.com/nobordersnetwork/?ref=gs&fref=gs&hc_location=group_dialog)](assets/ea479c660e21/1*6QjZ91Te2r7jhPnLOfrKMw.jpeg)
+![by: [NoBorders](https://www.facebook.com/nobordersnetwork/?ref=gs&fref=gs&hc_location=group_dialog)](../assets/ea479c660e21/1*6QjZ91Te2r7jhPnLOfrKMw.jpeg)
 
 by: [NoBorders](https://www.facebook.com/nobordersnetwork/?ref=gs&fref=gs&hc_location=group_dialog)
 #### FEATURE
@@ -67,7 +67,7 @@ Over the course of the day, 4 boats arrived on Lesvos carrying 226 people\.
 The [mayor of Lesvos filed a lawsuit](http://www.ekathimerini.com/224330/article/ekathimerini/news/lesvos-mayor-files-suit-over-conditions-at-moria-migrant-camp#item-comments) in the island’s Court of Misdemeanors, claiming that the law is being broken at the government\-run facility at Moria, which is supervised by the military\.
 
 
-![“ Stage 2 right now with 59 people just arrived to the south and the bring them here because Moria camp closed until the fix the problem from last night\.” — Photo: [Refugee 4 Refugees](https://www.facebook.com/Refugee4Refugees/)](assets/ea479c660e21/1*67bwu9p38FM8cULYJB2t3Q.jpeg)
+![“ Stage 2 right now with 59 people just arrived to the south and the bring them here because Moria camp closed until the fix the problem from last night\.” — Photo: [Refugee 4 Refugees](https://www.facebook.com/Refugee4Refugees/)](../assets/ea479c660e21/1*67bwu9p38FM8cULYJB2t3Q.jpeg)
 
 “ Stage 2 right now with 59 people just arrived to the south and the bring them here because Moria camp closed until the fix the problem from last night\.” — Photo: [Refugee 4 Refugees](https://www.facebook.com/Refugee4Refugees/)
 
@@ -146,7 +146,7 @@ The Olive Grove is a separate makeshift camp outside the gates of the Moria hots
 ### Chios
 
 
-![Chios, photo: [Ruhi Loren](https://www.facebook.com/ruhi.akhtar.7)](assets/ea479c660e21/1*8UaAzOhKL3-fNmvtDDKjWQ.jpeg)
+![Chios, photo: [Ruhi Loren](https://www.facebook.com/ruhi.akhtar.7)](../assets/ea479c660e21/1*8UaAzOhKL3-fNmvtDDKjWQ.jpeg)
 
 Chios, photo: [Ruhi Loren](https://www.facebook.com/ruhi.akhtar.7)
 
@@ -188,7 +188,7 @@ For more information please contact them on links from the text\.
 Khora Community Centre in Athens is in dire need of first aid materials, if you have a possibility to come with some supplies or to organize a delivery, please contact them beforehand\.
 
 
-![A special day for the kids of CityPlaza that took their certificates from the public schools\! Solidarity win\! — [**Refugee Accommodation and Solidarity Space City Plaza**](https://www.facebook.com/sol2refugeesen/)](assets/ea479c660e21/1*B8EYl8ea_XlrGS36L70i-A.jpeg)
+![A special day for the kids of CityPlaza that took their certificates from the public schools\! Solidarity win\! — [**Refugee Accommodation and Solidarity Space City Plaza**](https://www.facebook.com/sol2refugeesen/)](../assets/ea479c660e21/1*B8EYl8ea_XlrGS36L70i-A.jpeg)
 
 A special day for the kids of CityPlaza that took their certificates from the public schools\! Solidarity win\! — [**Refugee Accommodation and Solidarity Space City Plaza**](https://www.facebook.com/sol2refugeesen/)
 ### Ministry of the Migration Policy issued an announcement regarding those to whom the Dublin III regulation applies…
@@ -219,16 +219,16 @@ PLEASE NOTE: **No one should call Zorpidis Travel\!** Only the Greek Asylum Serv
 ### Ventimiglia
 
 
-![](assets/ea479c660e21/1*OzxFiUvdYTICg2sftzK41w.jpeg)
+![](../assets/ea479c660e21/1*OzxFiUvdYTICg2sftzK41w.jpeg)
 
 
 
-![Photos: [**Make Aid Happen**](https://www.facebook.com/MakeAidHappen/)](assets/ea479c660e21/1*0n5rvPjg6QF26CDMjUQ67g.jpeg)
+![Photos: [**Make Aid Happen**](https://www.facebook.com/MakeAidHappen/)](../assets/ea479c660e21/1*0n5rvPjg6QF26CDMjUQ67g.jpeg)
 
 Photos: [**Make Aid Happen**](https://www.facebook.com/MakeAidHappen/)
 
 
-![](assets/ea479c660e21/1*qg-4K0xZz8pc5ZVL6mZMkQ.jpeg)
+![](../assets/ea479c660e21/1*qg-4K0xZz8pc5ZVL6mZMkQ.jpeg)
 
 
 [Safe Passage UK](https://www.facebook.com/SafePassage2/?ref=gs&fref=gs&hc_location=group) have written a joint letter, alongside 5 Italian NGOs, calling on authorities to take urgent action to uphold the rights of child refugees in Ventimiglia\.
@@ -291,7 +291,7 @@ The Italian SAR mountain teams warn of the danger of walking through the mountai
 ### Grand Synthe
 
 
-![Photo: [**Médecins du Monde Hauts\-de\-France**](https://www.facebook.com/M%C3%A9decins-du-Monde-Hauts-de-France-850170168369696/)](assets/ea479c660e21/1*sbO2Qqepj5ozmZ8UV2hJ6A.jpeg)
+![Photo: [**Médecins du Monde Hauts\-de\-France**](https://www.facebook.com/M%C3%A9decins-du-Monde-Hauts-de-France-850170168369696/)](../assets/ea479c660e21/1*sbO2Qqepj5ozmZ8UV2hJ6A.jpeg)
 
 Photo: [**Médecins du Monde Hauts\-de\-France**](https://www.facebook.com/M%C3%A9decins-du-Monde-Hauts-de-France-850170168369696/)
 
@@ -340,20 +340,20 @@ Volunteers report from Calais area —
 
 
 
-![](assets/ea479c660e21/1*eawh-ujvFfjl8n9jjalF5g.jpeg)
+![](../assets/ea479c660e21/1*eawh-ujvFfjl8n9jjalF5g.jpeg)
 
 
 
-![Photos: [Nastassia Kantorowicz Torres](https://www.facebook.com/nastassia.kantorowicztorres?fref=gs&hc_location=group) / [Yahya Bennett](https://www.facebook.com/yahya.bennett?fref=gs&hc_ref=ARQFqAFmXHVPDEjoeHGfC9svM9AkrZV_nbN9nVKEP1tIM5PSEq2_yvbQtKvcAlGJDhU&hc_location=group)](assets/ea479c660e21/1*hORiIbCRFUZf8ppt44nbAQ.jpeg)
+![Photos: [Nastassia Kantorowicz Torres](https://www.facebook.com/nastassia.kantorowicztorres?fref=gs&hc_location=group) / [Yahya Bennett](https://www.facebook.com/yahya.bennett?fref=gs&hc_ref=ARQFqAFmXHVPDEjoeHGfC9svM9AkrZV_nbN9nVKEP1tIM5PSEq2_yvbQtKvcAlGJDhU&hc_location=group)](../assets/ea479c660e21/1*hORiIbCRFUZf8ppt44nbAQ.jpeg)
 
 Photos: [Nastassia Kantorowicz Torres](https://www.facebook.com/nastassia.kantorowicztorres?fref=gs&hc_location=group) / [Yahya Bennett](https://www.facebook.com/yahya.bennett?fref=gs&hc_ref=ARQFqAFmXHVPDEjoeHGfC9svM9AkrZV_nbN9nVKEP1tIM5PSEq2_yvbQtKvcAlGJDhU&hc_location=group)
 
 
-![](assets/ea479c660e21/1*KD9Cqu9XepK_isugCtPTuA.jpeg)
+![](../assets/ea479c660e21/1*KD9Cqu9XepK_isugCtPTuA.jpeg)
 
 
 
-![](assets/ea479c660e21/1*MpEzvJ6vMNjhlwzRnjToNg.jpeg)
+![](../assets/ea479c660e21/1*MpEzvJ6vMNjhlwzRnjToNg.jpeg)
 
 #### SWITZERLAND
 

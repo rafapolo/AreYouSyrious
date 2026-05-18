@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 31/07/17: MSF and Jugend Rettet refuses to sign NGO code of conduct
+title: "AYS Daily Digest 31/07/17: MSF and Jugend Rettet refuses to sign NGO code of conduct"
 author: Are You Syrious?
 date: 2017-08-01T01:34:17.943+0100
 last_modified_at: 2017-08-29T17:50:32.525+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,mediterranean,moria,yezidi,lgbtq]
 description: Afghanistan still not safe / Syria short of medical supplies / Arash Hampay threatened with a knife / Demonstration planned in Serres camp…
 image:
-  path: assets/e86aaea9749d/1*zhiVHtyU0I_TOUT6WxBf5g.jpeg
+  path: ../assets/e86aaea9749d/1*zhiVHtyU0I_TOUT6WxBf5g.jpeg
 ---
 
 ### AYS Daily Digest 31/07/17: MSF and Jugend Rettet refuses to sign NGO code of conduct
@@ -16,7 +16,7 @@ Afghanistan still not safe / Syria short of medical supplies / Arash Hampay thre
 ### **FEATURE: MSF and Jugend Rettet refuse to sign the Code of Conduct**
 
 
-![@MSF\_Sea](assets/e86aaea9749d/1*HTwNF16SksrZl-7_aghNCg.jpeg)
+![@MSF\_Sea](../assets/e86aaea9749d/1*HTwNF16SksrZl-7_aghNCg.jpeg)
 
 @MSF\_Sea
 
@@ -57,7 +57,7 @@ According to the [UN weekly report](http://l.facebook.com/l.php?u=http%3A%2F%2Fr
 The [World Health Organisation](http://reliefweb.int/report/syrian-arab-republic/syria-crisis-ar-raqqa-response-donor-alert-july-2017) reports that over 200,000 people have been displaced since April 2017 in north\-east Syria and have limited access to healthcare\.
 
 
-![\(Syrian American Medical Society\)](assets/e86aaea9749d/1*13fFXosfnFFuAdX-tE9aaw.jpeg)
+![\(Syrian American Medical Society\)](../assets/e86aaea9749d/1*13fFXosfnFFuAdX-tE9aaw.jpeg)
 
 \(Syrian American Medical Society\)
 
@@ -99,7 +99,7 @@ One boat arrived in the north of Lesvos this morning carrying 30 people\. On boa
 [Arash Hampay](https://mobile.facebook.com/story.php?story_fbid=502675610078530&id=100010082855510&hc_location=ufi&_rdc=1&_rdr) has reported that he was threatened with a knife at around 12am on the 31st Day of his hunger strike by a group of people who turned up on motorcycles\. He is asking for the release of Behrooz Aresh and Kozhin Hussein who were both of day 33 of their hunger strike in prison\.
 
 
-![Human rights for refugees\. Photo by Kini Von Teesdale](assets/e86aaea9749d/1*zhiVHtyU0I_TOUT6WxBf5g.jpeg)
+![Human rights for refugees\. Photo by Kini Von Teesdale](../assets/e86aaea9749d/1*zhiVHtyU0I_TOUT6WxBf5g.jpeg)
 
 Human rights for refugees\. Photo by Kini Von Teesdale
 
@@ -123,7 +123,7 @@ Volunteers report that today was the last lunch given out by the Norwegian Refug
 #### **Mainland:** Serres Camp
 
 
-![We are here, Serres](assets/e86aaea9749d/1*9rKGmGlPM8GDdoMJX2qXzA.jpeg)
+![We are here, Serres](../assets/e86aaea9749d/1*9rKGmGlPM8GDdoMJX2qXzA.jpeg)
 
 We are here, Serres
 
@@ -173,7 +173,7 @@ There is a meeting at Milan airport to support Moustafa, Hamdan and Abdallha\.
 #### **Rosarno under eviction threat**
 
 
-![Collettivo Mamadou](assets/e86aaea9749d/1*U6KRDYLFPRidLMTckhWMRA.jpeg)
+![Collettivo Mamadou](../assets/e86aaea9749d/1*U6KRDYLFPRidLMTckhWMRA.jpeg)
 
 Collettivo Mamadou
 
@@ -189,7 +189,7 @@ Human Rights Watch have released a [report](https://www.hrw.org/news/2017/07/31/
 Day 30: [Hunger Strike of a Ukrainian LGBT asylum seeker](https://web.facebook.com/LGBTAsylumSupport/photos/a.500855286756362.1073741828.498383330336891/816995041809050/?type=3&fref=mentions) without criminal record in Dutch prison\.
 
 
-![LGBT Asylum Support](assets/e86aaea9749d/1*nplPPvS0vOqr2fzS3RQwCw.jpeg)
+![LGBT Asylum Support](../assets/e86aaea9749d/1*nplPPvS0vOqr2fzS3RQwCw.jpeg)
 
 LGBT Asylum Support
 

@@ -5,91 +5,91 @@ date: 2019-10-07T10:51:46.461+0100
 last_modified_at: 2019-10-07T10:51:46.461+0100
 categories: Are You Syrious?
 tags: [refugees,digest,mediterranean,moria,tuzla]
-description: Another tragedy in the Mediterranean: a6-year-old lost his life in the Alboran sea /// Ahmed H. is finally allowed back home to Cyprus ///…
+description: "Another tragedy in the Mediterranean: a6-year-old lost his life in the Alboran sea /// Ahmed H. is finally allowed back home to Cyprus ///…"
 image:
-  path: assets/cbc1caa1496a/0*WnPpneJC7wJORSGr.jpeg
+  path: ../assets/cbc1caa1496a/0*WnPpneJC7wJORSGr.jpeg
 ---
 
 ### AYS Weekend digest 5–6/10/2019 People arriving in Tuzla are abandoned by authorities
 #### Another tragedy in the Mediterranean: a6\-year\-old lost his life in the Alboran sea /// Ahmed H\. is finally allowed back home to Cyprus /// Protests in Lesvos and Malakasa /// Report from Leros and Corinthos /// Racist attacks in Greece /// Disquieting change in management of reception centre in Udine /// Winter donations needed in Dunkirk
 
 
-![](assets/cbc1caa1496a/0*tJThfnIJANcMkd5s)
+![](../assets/cbc1caa1496a/0*tJThfnIJANcMkd5s)
 
 
 
-![](assets/cbc1caa1496a/0*WnPpneJC7wJORSGr.jpeg)
+![](../assets/cbc1caa1496a/0*WnPpneJC7wJORSGr.jpeg)
 
 
 Photo by [Off the Couch](https://twitter.com/.../status/1180467079700455424/photo/1)
 ### Photo feature — People keep arriving in Tuzla, abandoned by authorities
 
 
-![](assets/cbc1caa1496a/0*8wNVtBvei38lS99M)
+![](../assets/cbc1caa1496a/0*8wNVtBvei38lS99M)
 
 
 
-![](assets/cbc1caa1496a/0*n6OB2hb74fMjO6pw.jpeg)
+![](../assets/cbc1caa1496a/0*n6OB2hb74fMjO6pw.jpeg)
 
 
 
-![](assets/cbc1caa1496a/0*eepVVXEKkiZEcdhR)
+![](../assets/cbc1caa1496a/0*eepVVXEKkiZEcdhR)
 
 
 
-![](assets/cbc1caa1496a/0*xpQMklNuTJ6qWFD1.jpeg)
+![](../assets/cbc1caa1496a/0*xpQMklNuTJ6qWFD1.jpeg)
 
 
 
-![](assets/cbc1caa1496a/0*3l_U4iN65Jfwq8Ua)
+![](../assets/cbc1caa1496a/0*3l_U4iN65Jfwq8Ua)
 
 
 
-![](assets/cbc1caa1496a/0*rsIeVeiIIJu9gPuO.jpeg)
+![](../assets/cbc1caa1496a/0*rsIeVeiIIJu9gPuO.jpeg)
 
 
 Local volunteer doing food distribution in Tuzla, photos by [Senad Cupo](https://www.facebook.com/groups/144469886266984/permalink/423102061737097/?hc_location=ufi)
 
 
-![](assets/cbc1caa1496a/0*QO4t4TLKUCOY-uZ-)
+![](../assets/cbc1caa1496a/0*QO4t4TLKUCOY-uZ-)
 
 
 
-![](assets/cbc1caa1496a/0*StUFI93kTePTMTFT.jpeg)
+![](../assets/cbc1caa1496a/0*StUFI93kTePTMTFT.jpeg)
 
 
 
-![](assets/cbc1caa1496a/0*BYWwmy8aqWgATNgB)
+![](../assets/cbc1caa1496a/0*BYWwmy8aqWgATNgB)
 
 
 
-![](assets/cbc1caa1496a/0*AgTBXb5FZszY0Ugp.jpeg)
+![](../assets/cbc1caa1496a/0*AgTBXb5FZszY0Ugp.jpeg)
 
 
 
-![](assets/cbc1caa1496a/0*C352q7ooY5SIfpgD)
+![](../assets/cbc1caa1496a/0*C352q7ooY5SIfpgD)
 
 
 
-![](assets/cbc1caa1496a/0*URIGC4k_kMpwo7zC.jpeg)
+![](../assets/cbc1caa1496a/0*URIGC4k_kMpwo7zC.jpeg)
 
 
 Families finding shelter where they can, Tuzla, photos by [Suada Muratovic](https://www.facebook.com/suada.muratovic.315?__tn__=%2Cd%2AF%2AF-R&eid=ARAgAimz5JfukkFfDxdSwHTUAxFVPV8_byrmL5zSiMjPjQ6ZTsYcnFcerJ3FDuhh20pAsdNUf1FjGadP&tn-str=%2AF) and [Selma Dzafic](https://www.facebook.com/photo.php?fbid=10219731140445776&set=gm.2582177008508551&type=3&theater&ifg=1)
 
 
-![](assets/cbc1caa1496a/0*Yoq8-nj5t48IhNMf)
+![](../assets/cbc1caa1496a/0*Yoq8-nj5t48IhNMf)
 
 
 
-![](assets/cbc1caa1496a/0*NkcOTSuoYdiAD1np.jpeg)
+![](../assets/cbc1caa1496a/0*NkcOTSuoYdiAD1np.jpeg)
 
 
 
-![](assets/cbc1caa1496a/0*8xZ7Hc4GI0cRCN0f)
+![](../assets/cbc1caa1496a/0*8xZ7Hc4GI0cRCN0f)
 
 
 
-![](assets/cbc1caa1496a/0*xJ_DM9Jgtogx_lDj.jpeg)
+![](../assets/cbc1caa1496a/0*xJ_DM9Jgtogx_lDj.jpeg)
 
 
 More people queuing at a food distribution in Tuzla, photos by [Senad Cupo](https://www.facebook.com/groups/144469886266984/permalink/423102061737097/?hc_location=ufi)
@@ -161,19 +161,19 @@ Find more info and sign up [HERE](https://bootvluchteling.nl/en/volunteering/sup
 A few hundred people gathered in solidarity with refugees and migrants on Saturday afternoon in Mytilene\. They were reportedly stopped by the police on their way to Moria, and prevented from reaching the hotspot\.
 
 
-![](assets/cbc1caa1496a/0*-T4P1T64dzutyGfg)
+![](../assets/cbc1caa1496a/0*-T4P1T64dzutyGfg)
 
 
 
-![](assets/cbc1caa1496a/0*RlzPDNeWVaj8stZT.jpeg)
+![](../assets/cbc1caa1496a/0*RlzPDNeWVaj8stZT.jpeg)
 
 
 
-![](assets/cbc1caa1496a/0*ZfeZycBiVDYnx6pP)
+![](../assets/cbc1caa1496a/0*ZfeZycBiVDYnx6pP)
 
 
 
-![](assets/cbc1caa1496a/0*E6IzLGX4qMWhHZuV.jpeg)
+![](../assets/cbc1caa1496a/0*E6IzLGX4qMWhHZuV.jpeg)
 
 
 Protest on Lesvos, photos by [Paco Nevado](https://twitter.com/PacoSnowed/status/1180447840109244418) and [No Borders](https://twitter.com/Refugees_Gr/status/1180440111445692416/photo/1)
@@ -198,11 +198,11 @@ Moreover, in the front building of the hospital there are nursing wings where 15
 Residents in Malakasa camp, some 50km north of Athens, [have organised a protest on Saturday](https://twitter.com/Refugees_Gr/status/1180521500174159874) \. It was triggered by the decision of the police to stop a lorry from entering the camp\. The lorry, which goes to the camp regularly, is used to deliver much needed aid and food to the residents\.
 
 
-![](assets/cbc1caa1496a/0*GZqjQAy6ahiARlMy)
+![](../assets/cbc1caa1496a/0*GZqjQAy6ahiARlMy)
 
 
 
-![](assets/cbc1caa1496a/0*TxFWsRbtfxTU6010.jpeg)
+![](../assets/cbc1caa1496a/0*TxFWsRbtfxTU6010.jpeg)
 
 
 Photo by a resident of Malakasa
@@ -212,11 +212,11 @@ Conditions in Malakasa have worsened over the summer, with many new arrivals, wh
 Having their only source of food distribution stopped has compelled some residents to act\. They blocked the lorry from leaving, whilst police insist that the lorry should be impounded and its contents ‘processed’\.
 
 
-![](assets/cbc1caa1496a/0*ytIipkKI5ohNQ_NB)
+![](../assets/cbc1caa1496a/0*ytIipkKI5ohNQ_NB)
 
 
 
-![](assets/cbc1caa1496a/0*dWMMboZApRPv2gh7.jpeg)
+![](../assets/cbc1caa1496a/0*dWMMboZApRPv2gh7.jpeg)
 
 
 Photo by a resident of Malakasa
@@ -250,19 +250,19 @@ The camp in Corinthos was opened recently after police evicted 550 people from s
 
 
 
-![](assets/cbc1caa1496a/0*6tsEdXe8v3tRzUwe)
+![](../assets/cbc1caa1496a/0*6tsEdXe8v3tRzUwe)
 
 
 
-![](assets/cbc1caa1496a/0*PwDQg75RVZpWZPJ1.jpeg)
+![](../assets/cbc1caa1496a/0*PwDQg75RVZpWZPJ1.jpeg)
 
 
 
-![](assets/cbc1caa1496a/0*vy5n3NlWZ_nemILr)
+![](../assets/cbc1caa1496a/0*vy5n3NlWZ_nemILr)
 
 
 
-![](assets/cbc1caa1496a/0*CUUYmh20NWCmgzl6.jpeg)
+![](../assets/cbc1caa1496a/0*CUUYmh20NWCmgzl6.jpeg)
 
 
 Corinthos transit camp, photos by a resident in the camp via [Ruhi Loren](https://www.facebook.com/photo.php?fbid=2936703463013209&set=pcb.2936722883011267&type=3&theater)

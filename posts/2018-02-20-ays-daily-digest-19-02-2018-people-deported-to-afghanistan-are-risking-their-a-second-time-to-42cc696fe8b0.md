@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 19/02/2018: People deported to Afghanistan are risking their lives again to reach…
+title: "AYS DAILY DIGEST 19/02/2018: People deported to Afghanistan are risking their lives again to reach…"
 author: Are You Syrious?
 date: 2018-02-20T09:47:07.082+0000
 last_modified_at: 2018-03-01T13:28:10.310+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,afghanistan,greece,migration,digest]
 description: Stop deportations to Afghanistan! // numerous rescues at sea// News from EU/New arrivals and information from Greece// Balkan Weather…
 image:
-  path: assets/42cc696fe8b0/1*Le5eGzoJxaCcHUB7yTmcAw.jpeg
+  path: ../assets/42cc696fe8b0/1*Le5eGzoJxaCcHUB7yTmcAw.jpeg
 ---
 
 ### AYS DAILY DIGEST 19/02/2018: People deported to Afghanistan are risking their lives again to reach Europe
@@ -15,7 +15,7 @@ image:
 Stop deportations to Afghanistan\! // numerous rescues at sea// News from EU/New arrivals and information from Greece// Balkan Weather Forecast//Serbia//New laws proposed in Hungary target Civil society groups// News from Italy//Spain//France//Finland// Norway
 
 
-![](assets/42cc696fe8b0/1*Le5eGzoJxaCcHUB7yTmcAw.jpeg)
+![](../assets/42cc696fe8b0/1*Le5eGzoJxaCcHUB7yTmcAw.jpeg)
 
 ### Feature: New evidence finds that a large number of people who have been deported to Afghanistan are forced to flee a second time
 
@@ -72,23 +72,23 @@ Here you find the most important information for Afghans in Farsi:
 Pressure has been building across Europe to stop deportations to Afghanistan\. This week saw a number of collective protests take place across many member states\.
 
 
-![](assets/42cc696fe8b0/1*lmY2aW5LV7zdrBRfwtecug.jpeg)
+![](../assets/42cc696fe8b0/1*lmY2aW5LV7zdrBRfwtecug.jpeg)
 
 
 
-![](assets/42cc696fe8b0/1*5q5bkPUqndavgmIOtPEkGg.jpeg)
+![](../assets/42cc696fe8b0/1*5q5bkPUqndavgmIOtPEkGg.jpeg)
 
 
 
-![](assets/42cc696fe8b0/1*MElgEtAbYt6UR7edH59RMA.jpeg)
+![](../assets/42cc696fe8b0/1*MElgEtAbYt6UR7edH59RMA.jpeg)
 
 
 
-![](assets/42cc696fe8b0/1*4zpeSIhK40WHeeWfQdGlTg.jpeg)
+![](../assets/42cc696fe8b0/1*4zpeSIhK40WHeeWfQdGlTg.jpeg)
 
 
 
-![](assets/42cc696fe8b0/1*w3Qo2FdPTYV8lbsHH3FfsQ.jpeg)
+![](../assets/42cc696fe8b0/1*w3Qo2FdPTYV8lbsHH3FfsQ.jpeg)
 
 #### New data states that 2017 was the deadliest year on record of civilian casualties in Afghanistan
 
@@ -125,11 +125,11 @@ Proactiva Open Arms in the night rescued 101 persons who are due to arrive in It
 
 
 
-![](assets/42cc696fe8b0/1*MzkEqPPwXXjzDd-NSN6sYA.jpeg)
+![](../assets/42cc696fe8b0/1*MzkEqPPwXXjzDd-NSN6sYA.jpeg)
 
 
 
-![Source: Proactiva Open Arms](assets/42cc696fe8b0/1*gzFdPSQ-hL3Cp5xaKTLG4A.jpeg)
+![Source: Proactiva Open Arms](../assets/42cc696fe8b0/1*gzFdPSQ-hL3Cp5xaKTLG4A.jpeg)
 
 Source: Proactiva Open Arms
 
@@ -220,17 +220,17 @@ A boat with 17 Turkish citizens \(7 men, 5 women, 5 children\) landed on the sma
 Dirty Girls have washed nearly one ton of blankets that would otherwise have been sent to landfill\. So far during their time working they have saved 600 tons of material that otherwise the government and International NGOs would have discarded\. They urge that this sort of response makes no economical or environmental sense in humanitarian aid\.
 
 
-![Blankets washed and ready for re\-use\. Source: Dirty Girls Lesvos](assets/42cc696fe8b0/1*y2o3DxRVzzzxg3cVMVjdqw.jpeg)
+![Blankets washed and ready for re\-use\. Source: Dirty Girls Lesvos](../assets/42cc696fe8b0/1*y2o3DxRVzzzxg3cVMVjdqw.jpeg)
 
 Blankets washed and ready for re\-use\. Source: Dirty Girls Lesvos
 #### Zaatar — Non Profit Organisation has released a schedule for their classes this week
 
 
-![](assets/42cc696fe8b0/1*NXf8w1kf8klRZ7_Mpcc2PQ.jpeg)
+![](../assets/42cc696fe8b0/1*NXf8w1kf8klRZ7_Mpcc2PQ.jpeg)
 
 
 
-![](assets/42cc696fe8b0/1*C80olmBBACoNi3qodEJ_qA.jpeg)
+![](../assets/42cc696fe8b0/1*C80olmBBACoNi3qodEJ_qA.jpeg)
 
 #### EU commission will extend funding of apartments in Greece for Refugees until end of 2019
 
@@ -262,11 +262,11 @@ Cloudy weather is expected, and in the mountains there will be snow\. Alongside 
 Make Aid Happen report that the Situation in Sid is deteriorating and people trying to cross the borders in Europe are losing hope\.
 
 
-![](assets/42cc696fe8b0/1*02Y4h-n7RWOAiilEvjKMQQ.jpeg)
+![](../assets/42cc696fe8b0/1*02Y4h-n7RWOAiilEvjKMQQ.jpeg)
 
 
 
-![Temperatures in Sid remain below 0 degrees celsius](assets/42cc696fe8b0/1*3kRuZcY_d8h1jLFO9V_1HQ.jpeg)
+![Temperatures in Sid remain below 0 degrees celsius](../assets/42cc696fe8b0/1*3kRuZcY_d8h1jLFO9V_1HQ.jpeg)
 
 Temperatures in Sid remain below 0 degrees celsius
 ### Hungary:
@@ -317,11 +317,11 @@ As Viktor Orban competes for his third term in office, he stirs fear by saying *
 
 
 
-![](assets/42cc696fe8b0/1*0bmANWKxmMLipBKAFpKTCQ.jpeg)
+![](../assets/42cc696fe8b0/1*0bmANWKxmMLipBKAFpKTCQ.jpeg)
 
 
 
-![Source: Mauro Chiarabba](assets/42cc696fe8b0/1*yISC1G_JrqCYIRj_tbwK9A.jpeg)
+![Source: Mauro Chiarabba](../assets/42cc696fe8b0/1*yISC1G_JrqCYIRj_tbwK9A.jpeg)
 
 Source: Mauro Chiarabba
 #### Walk of Solidarity to French Border
@@ -329,11 +329,11 @@ Source: Mauro Chiarabba
 Yesterday 150 people took part in a walk of solidarity along the path that people take to reach France \.
 
 
-![](assets/42cc696fe8b0/1*vOjdpnv8FO1bWqnvhOuSXA.jpeg)
+![](../assets/42cc696fe8b0/1*vOjdpnv8FO1bWqnvhOuSXA.jpeg)
 
 
 
-![Source: Ape Milano](assets/42cc696fe8b0/1*agsIevuP8VPv7JVGb3k8yQ.jpeg)
+![Source: Ape Milano](../assets/42cc696fe8b0/1*agsIevuP8VPv7JVGb3k8yQ.jpeg)
 
 Source: Ape Milano
 #### Italian Refugee Iris Database is looking for translators to join their team\.
@@ -434,25 +434,25 @@ You can read more [via this link](https://oplatz.net/you-cant-evict-a-movement-l
 The occupiers have released a statement outlining their needs which incorporate various supplies for cooking\.
 
 
-![](assets/42cc696fe8b0/1*DO96stwVEHIRCVfiGGHEig.png)
+![](../assets/42cc696fe8b0/1*DO96stwVEHIRCVfiGGHEig.png)
 
 #### Refugee Community Kitchen is in [need of your support](https://www.facebook.com/refugeeCkitchen/photos/a.1224302977587070.1073741828.1214750961875605/2067944253222934/?type=3&theater) \.
 
 
-![](assets/42cc696fe8b0/1*frs2xBnkY1-oMVIMfH84kA.jpeg)
+![](../assets/42cc696fe8b0/1*frs2xBnkY1-oMVIMfH84kA.jpeg)
 
 #### Photos of the living conditions in Calais
 
 
-![](assets/42cc696fe8b0/1*BM1zF8P7kfskAPAYuUK09Q.jpeg)
+![](../assets/42cc696fe8b0/1*BM1zF8P7kfskAPAYuUK09Q.jpeg)
 
 
 
-![](assets/42cc696fe8b0/1*s3JKD70axARoX2PGjMhYAg.jpeg)
+![](../assets/42cc696fe8b0/1*s3JKD70axARoX2PGjMhYAg.jpeg)
 
 
 
-![](assets/42cc696fe8b0/1*clRHni7Wke00kYsa9ABnAg.jpeg)
+![](../assets/42cc696fe8b0/1*clRHni7Wke00kYsa9ABnAg.jpeg)
 
 ### Finland:
 #### Family reunification numbers increasing in Finland

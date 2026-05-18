@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 5/12/2017: Children of Moria
+title: "AYS DAILY DIGEST 5/12/2017: Children of Moria"
 author: Are You Syrious?
 date: 2017-12-06T09:42:54.892+0000
 last_modified_at: 2017-12-06T20:45:42.090+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,moria,lesvos,greek-islands,croatia]
 description: Over the last 2 days over 260 people arrived to Greek islands // Deportation to Turkey continue // Number of people in Serbia is increasing…
 image:
-  path: assets/26b5bf83f03b/1*qrvZPIU1mrCbAge5c8zRVg.jpeg
+  path: ../assets/26b5bf83f03b/1*qrvZPIU1mrCbAge5c8zRVg.jpeg
 ---
 
 ### AYS DAILY DIGEST 5/12/2017: Children of Moria
@@ -15,7 +15,7 @@ image:
 _Over the last 2 days over 260 people arrived to Greek islands // Deportation to Turkey continue // Number of people in Serbia is increasing // Suicide attempt in Croatia // Help needed in Serbia, Greece, Italy, France…_
 
 
-![No Borders Community](assets/26b5bf83f03b/1*qrvZPIU1mrCbAge5c8zRVg.jpeg)
+![No Borders Community](../assets/26b5bf83f03b/1*qrvZPIU1mrCbAge5c8zRVg.jpeg)
 
 No Borders Community
 ### Feature
@@ -25,31 +25,31 @@ Usually, we avoid showing pictures of children, but there is a need to remind al
 One of the residents of Moria found a way to send us photos from the camp this week\. This is their story\. \#opentheislands
 
 
-![](assets/26b5bf83f03b/1*oReHnbahBhIfu908DEsuNw.jpeg)
+![](../assets/26b5bf83f03b/1*oReHnbahBhIfu908DEsuNw.jpeg)
 
 
 
-![](assets/26b5bf83f03b/1*04wXqVUkPRy0IhodYm5QIQ.jpeg)
+![](../assets/26b5bf83f03b/1*04wXqVUkPRy0IhodYm5QIQ.jpeg)
 
 
 
-![](assets/26b5bf83f03b/1*h9HxosISfCqROCmm9GJVLg.jpeg)
+![](../assets/26b5bf83f03b/1*h9HxosISfCqROCmm9GJVLg.jpeg)
 
 
 
-![](assets/26b5bf83f03b/1*ZYtz8oG5SpaTE4QqoA_4Tw.jpeg)
+![](../assets/26b5bf83f03b/1*ZYtz8oG5SpaTE4QqoA_4Tw.jpeg)
 
 
 
-![](assets/26b5bf83f03b/1*tj_W9gto0FTNLawBGgX99A.jpeg)
+![](../assets/26b5bf83f03b/1*tj_W9gto0FTNLawBGgX99A.jpeg)
 
 
 
-![](assets/26b5bf83f03b/1*oo_Q9W8y4DzRAt4fd87uaQ.jpeg)
+![](../assets/26b5bf83f03b/1*oo_Q9W8y4DzRAt4fd87uaQ.jpeg)
 
 
 
-![](assets/26b5bf83f03b/1*2A01QmT1pNKAZn99QFATyA.jpeg)
+![](../assets/26b5bf83f03b/1*2A01QmT1pNKAZn99QFATyA.jpeg)
 
 ### Greece
 
@@ -66,7 +66,7 @@ Over the last two days, 6 boats have arrived on the islands, with a total of 266
 Only 16 days are left until the official start of the winter, and so far no solution for all the people living on the islands exist\. The situation for all the people living in tents and shelters they build for themselves is getting worse\.
 
 
-![Lesvos](assets/26b5bf83f03b/1*INxeC_r3PFqqDOOTDJjsBg.jpeg)
+![Lesvos](../assets/26b5bf83f03b/1*INxeC_r3PFqqDOOTDJjsBg.jpeg)
 
 Lesvos
 
@@ -102,7 +102,8 @@ There are currently more than 15,000 migrants living in state\-run camps in Lesv
 ■■■■■■■■■■■■■■ 
 > **[Eva Cossé](https://twitter.com/Eva_Cosse) @ Twitter Says:** 
 
-> > “We ask someone to come with us, or we don’t wash ourselves.” –15 yr old asylum-seeking girl. Stuck on Greek islands, as weather worsens &amp; 17 days before winter starts, w/no access 2 
+> > “We ask someone to come with us, or we don’t wash ourselves.” –15 yr old asylum-seeking 
+girl. Stuck on Greek islands, as weather worsens &amp; 17 days before winter starts, w/no access 2 
 secure toilet or shower. Gov’t &amp; EU leaders shld #opentheislands [hrw.org/opentheislands](http://www.hrw.org/opentheislands) https://t.co/lRDEdONQ4g 
 
 > **Tweeted at [2017-12-04 15:46:54](https://twitter.com/eva_cosse/status/937709805636149249).** 
@@ -127,7 +128,7 @@ The Hero Centre at Chios supports five apartments which have so far been home to
 In order to do that, they need help\.
 
 
-[![Housing Heroes ❤️✌️](assets/26b5bf83f03b/a6f6_hqdefault.jpg "Housing Heroes ❤️✌️")](http://www.youtube.com/watch?v=xP-GmZ8fGm4)
+[![Housing Heroes ❤️✌️](../assets/26b5bf83f03b/a6f6_hqdefault.jpg "Housing Heroes ❤️✌️")](http://www.youtube.com/watch?v=xP-GmZ8fGm4)
 
 ### Serbia
 
@@ -155,7 +156,7 @@ AYS is especially worried because this would not be the first case of a person w
 [Jesuit Refugee Service for Refugees](https://www.facebook.com/JRSizbjeglice/?hc_ref=ARSJZETlJIc_VLW1r6t48pzjQxN40PjBUEAsnqGhbx7oEpw7rdaLPvjzY1BuAvsk1lg&fref=nf) \(JRS\) plans a Christmas lunch with refugees, inviting local population to join and invite to their home refugees and asylum seekers\.
 
 
-![](assets/26b5bf83f03b/1*ssiE-tcL8pxjHDViTO1TmA.jpeg)
+![](../assets/26b5bf83f03b/1*ssiE-tcL8pxjHDViTO1TmA.jpeg)
 
 
 _“With this act of good will, we show respect for the others, and taking care for those who do need our help\.”_

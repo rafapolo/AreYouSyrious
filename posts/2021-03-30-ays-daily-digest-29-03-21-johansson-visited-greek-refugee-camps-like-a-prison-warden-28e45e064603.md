@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [greece,refugees,digest,germany,european-union]
 description: Are You Syrious?
 image:
-  path: assets/28e45e064603/0*xNS95Rz19iG6uAIm.jpeg
+  path: ../assets/28e45e064603/0*xNS95Rz19iG6uAIm.jpeg
 ---
 
 ### AYS Daily Digest 29/03/21 Johansson visited Greek refugee camps like a prison warden
 
 
-![](assets/28e45e064603/0*gr_dTGT_6vpoFRJm.jpeg)
+![](../assets/28e45e064603/0*gr_dTGT_6vpoFRJm.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----8bf86d4eec64--------------------------------)
@@ -23,11 +23,11 @@ image:
 _Also pushback reports in Greece // new rescues at sea // deportations from Sweden // low asylum approvals in Germany // and more…_
 
 
-![](assets/28e45e064603/0*MCZcDwKKhhJl0dIl)
+![](../assets/28e45e064603/0*MCZcDwKKhhJl0dIl)
 
 
 
-![](assets/28e45e064603/0*xNS95Rz19iG6uAIm.jpeg)
+![](../assets/28e45e064603/0*xNS95Rz19iG6uAIm.jpeg)
 
 ### FEATURE: EU home affairs commissioner Ylva Johansson visited Greek refugee camps like a prison warden
 
@@ -45,19 +45,19 @@ As we detailed in [AYS’s Weekend digest](ays-weekend-digest-27-28-3-2021-itali
 
 
 
-![](assets/28e45e064603/0*iRsLNNXIHYOin11Y)
+![](../assets/28e45e064603/0*iRsLNNXIHYOin11Y)
 
 
 
-![](assets/28e45e064603/0*9E_PvaWRyKYWb8lZ.jpeg)
+![](../assets/28e45e064603/0*9E_PvaWRyKYWb8lZ.jpeg)
 
 
 
-![](assets/28e45e064603/0*-BXzDjThaTRB-QTc)
+![](../assets/28e45e064603/0*-BXzDjThaTRB-QTc)
 
 
 
-![](assets/28e45e064603/0*TPVegSFii3TKnAtV.jpeg)
+![](../assets/28e45e064603/0*TPVegSFii3TKnAtV.jpeg)
 
 
 **LESVOS VISIT:** Then Johansson went to Lesvos where [reports say](https://twitter.com/f_grillmeier/status/1376485874943340546) all the residents in the camp were screaming “Freedom\! Freedom\!” after she arrived at Mavrovouni’s “temporary” camp\. Yousif Al Shewaili, a photographer from Iraq, witnessed her arrival and reported on [his IG](https://www.instagram.com/p/CNAAlH6pOh7/) :
@@ -113,19 +113,19 @@ Journalist [Giorgos Christides](https://twitter.com/g_christides/status/13764707
 
 
 
-![](assets/28e45e064603/0*ilKmgkgBLgGxu4UJ)
+![](../assets/28e45e064603/0*ilKmgkgBLgGxu4UJ)
 
 
 
-![](assets/28e45e064603/0*ooUTDaWOUvaR3rtE.jpeg)
+![](../assets/28e45e064603/0*ooUTDaWOUvaR3rtE.jpeg)
 
 
 
-![](assets/28e45e064603/0*gPGOGraBZTOZIzdD)
+![](../assets/28e45e064603/0*gPGOGraBZTOZIzdD)
 
 
 
-![](assets/28e45e064603/0*44Hpcxk_O8Ql3HL5.jpeg)
+![](../assets/28e45e064603/0*44Hpcxk_O8Ql3HL5.jpeg)
 
 
 **OVERALL:** In an open letter to Johansson, [MSF](https://www.msf.org/letter-ylva-johansson-she-visits-lesbos-greece?fbclid=IwAR3Np-bBcn0mhsTeCeeyAP1BurLOa5D3FJbA6ZpRaI8lS_0B_F0YPDc7NTg) summed up a prevailing human rights perspective on her visit:
@@ -188,11 +188,11 @@ Read in full [here](https://www.migazin.de/2021/03/29/abschiebepate-deutschland-
 ### SWEDEN
 
 
-![](assets/28e45e064603/0*xZj1PrpLPqi0qV0c)
+![](../assets/28e45e064603/0*xZj1PrpLPqi0qV0c)
 
 
 
-![](assets/28e45e064603/0*dhPDKEzlXLmci03K)
+![](../assets/28e45e064603/0*dhPDKEzlXLmci03K)
 
 ### EU/FRONTEX
 

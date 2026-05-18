@@ -1,5 +1,5 @@
 ---
-title: AYS Digest 08/10/21: Six shot dead in Tripoli detention centre
+title: "AYS Digest 08/10/21: Six shot dead in Tripoli detention centre"
 author: Are You Syrious?
 date: 2021-10-09T16:51:38.037+0100
 last_modified_at: 2021-10-09T16:51:38.037+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migration,pushback,migrants]
 description: Eighth person dies on Polish border // Croatia admits pushbacks, fires officers // Serbian lawyer defending pushback victims wins UN prize…
 image:
-  path: assets/80b99c33d57c/0*rc_MXO-TBZDQQm2D.jpeg
+  path: ../assets/80b99c33d57c/0*rc_MXO-TBZDQQm2D.jpeg
 ---
 
 ### AYS Digest 08/10/21: Six shot dead in Tripoli detention centre
 ### Eighth person dies on Polish border // Croatia admits pushbacks, fires officers // Serbian lawyer defending pushback victims wins UN prize // Greece’s ‘Turkey is a safe country’ decision brought to high court
 
 
-![](assets/80b99c33d57c/0*-wwTm01ekeWZ0cYv.jpeg)
+![](../assets/80b99c33d57c/0*-wwTm01ekeWZ0cYv.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----7154dd1a6d85--------------------------------)
@@ -23,11 +23,11 @@ image:
 ### FEATURE — Six people shot dead in Tripoli detention centre, thousands escape
 
 
-![](assets/80b99c33d57c/0*EdCi-jU2sMYP5NcW)
+![](../assets/80b99c33d57c/0*EdCi-jU2sMYP5NcW)
 
 
 
-![](assets/80b99c33d57c/0*eYSy9IyuT4JjOoGF.jpeg)
+![](../assets/80b99c33d57c/0*eYSy9IyuT4JjOoGF.jpeg)
 
 
 Armed guards at the Al\-Mabani detention centre in Tripoli killed six people and injured at least 24 others when they opened fire on those detained there during an apparent “riot” and “escape attempt,” the IOM said in a [press release](https://www.iom.int/news/iom-condemns-killing-six-migrants-detention-centre-tripoli) \. Thousands of people have been arbitrarily rounded up in recent weeks across Libya and held in abysmal conditions in overcrowded detention centres, where they are subjected to random acts of violence by those guarding them\.
@@ -110,11 +110,11 @@ RSA further noted that the decision has already led to the “mass, rapid reject
 ### Greece unveils new ‘eye in the sky’ drone for surveillance, security
 
 
-![](assets/80b99c33d57c/0*XPSr7p1Hh0KdZAlx)
+![](../assets/80b99c33d57c/0*XPSr7p1Hh0KdZAlx)
 
 
 
-![](assets/80b99c33d57c/0*A8J-y6nlpOno5IvH.jpeg)
+![](../assets/80b99c33d57c/0*A8J-y6nlpOno5IvH.jpeg)
 
 
 The Greek Ministry of Defense unveiled its first vertical take\-off and landing drone during a military exercise in the eastern Aegean in late September, [media](https://greekreporter.com/2021/10/08/greece-unveils-prototype-vertical-take-off-landing-drone/?fbclid=IwAR3mTiTft3UF5qPZq1ZJDWFHuUctCKE3-vI3T8d4k3QbySUmBIohWgTGKn0) reported\.
@@ -168,7 +168,7 @@ At the 2021 awards event for the Nike prize, one of the Poland’s top literary 
 ### Little Amal, Syrian refugee puppet, arrives in Belgium
 
 
-![](assets/80b99c33d57c/0*rc_MXO-TBZDQQm2D.jpeg)
+![](../assets/80b99c33d57c/0*rc_MXO-TBZDQQm2D.jpeg)
 
 
 Amal and her supporters\. \(Source: [yenisafak\.com](https://www.yenisafak.com/en/world/little-amal-symbol-of-child-refugees-reaches-brussels-3581825?fbclid=IwAR07UBvwg5P7eVILAlL9myi3MV0nZjSYeYaHJeDP0B6kmwAT9tVMMFkrqCU) \)

@@ -1,5 +1,5 @@
 ---
-title: AYS 22/10: Refugee mothers cut open, stitched up and sent back to filthy camps
+title: "AYS 22/10: Refugee mothers cut open, stitched up and sent back to filthy camps"
 author: Are You Syrious?
 date: 2016-10-23T01:26:04.404+0100
 last_modified_at: 2016-12-21T23:14:46.928+0000
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,refugee-camps,migration,womens-rights]
 description: Research reveals systematic mistreatment of pregnant women and mothers with newborns in Greek camps. Children from Ritsona finally enter…
 image:
-  path: assets/22c5bfcfb838/1*Kz7MHEX4slu-HUT9D8Mnpw.jpeg
+  path: ../assets/22c5bfcfb838/1*Kz7MHEX4slu-HUT9D8Mnpw.jpeg
 ---
 
 ### AYS 22/10: Refugee mothers cut open, stitched up and sent back to filthy camps
 #### Research reveals systematic mistreatment of pregnant women and mothers with newborns in Greek camps\. Children from Ritsona finally enter Greek school system\. Another tragic day on the Mediterranean\. Family with a newborn baby held in detention in Croatia\. A group of 54 unaccompanied girls from Calais arrives to the UK according to the Dubs amendment\.
 
 
-![Refugee mothers are one of the most vulnerable groups in Greece, but often not treated as such\. Photo: A\. Konstantinidis](assets/22c5bfcfb838/1*Kz7MHEX4slu-HUT9D8Mnpw.jpeg)
+![Refugee mothers are one of the most vulnerable groups in Greece, but often not treated as such\. Photo: A\. Konstantinidis](../assets/22c5bfcfb838/1*Kz7MHEX4slu-HUT9D8Mnpw.jpeg)
 
 Refugee mothers are one of the most vulnerable groups in Greece, but often not treated as such\. Photo: A\. Konstantinidis
 
@@ -23,7 +23,7 @@ The reproductive rights of refugees are firmly rooted in international law, but 
 **Many interviewed refugees have reported potentially life\-threatening complications for both mother and child resulting from living conditions \(including journey to reach Greece\) or denied/insufficient assistance\. In some cases, miscarriage resulted from denied assistance\.**
 
 
-![](assets/22c5bfcfb838/1*mcry3IGnK8CfIqqXU_jZIw.png)
+![](../assets/22c5bfcfb838/1*mcry3IGnK8CfIqqXU_jZIw.png)
 
 
 
@@ -36,7 +36,7 @@ The reproductive rights of refugees are firmly rooted in international law, but 
 This research also reveals that 60% of refugee birthing mothers were subjected to C\-section without them being informed and providing valid consent\. None of the women interviewed by the volunteers were invited to question any form or decision being made for her\. **One of them underwent a removal of the uterus after the C\-section, without ever being informed about the reason why\.**
 
 
-![](assets/22c5bfcfb838/1*6-5Zi6HM33Oik5y-mevS_A.jpeg)
+![](../assets/22c5bfcfb838/1*6-5Zi6HM33Oik5y-mevS_A.jpeg)
 
 
 
@@ -51,7 +51,7 @@ No pain medication was given to women who did not have a CS\. Among the women wh
 **Almost all of the interviewed women faced discrimination during gestation or birth\. Among many reported issues, most of them have talked about inadequate accommodation, lack of safety, sanitation and hygiene, insufficient medical support, lack of female doctor personnel, no legal assistance and the worrying lack of information or inability to access information, including denied access or lack of translator\.**
 
 
-![](assets/22c5bfcfb838/1*Qp7VlwskczFDDmGbGHLClw.png)
+![](../assets/22c5bfcfb838/1*Qp7VlwskczFDDmGbGHLClw.png)
 
 
 Women are finding it extremely difficult to convince NGOs operating on camp to call an ambulance for their transfer to the hospital\. 100% report finding it extremely difficult to return to the camp or squat, since they had no money and no relative social support\. Risks and information about any interventions was never given\. No information was given on possible psychosocial support and “medical directions” upon exit from hospital\. Lack of interpreters is directly linked to the lack of informed consent\. Women have no practical and effective remedy at hand to achieve their information during labour\.
@@ -63,7 +63,7 @@ The problems they face in their place of accommodation after birth remain the sa
 ### Heavy rain hits Greece: refugees report floods, cold weather and wind, calls for winterization of camps
 
 
-![Distrubing photo of flooded Katsikas camp taken by Muhammad Ali from Damascus / [KatsikasLive](https://www.facebook.com/KatsikasLive-1747980202123076/?ref=page_internal)](assets/22c5bfcfb838/1*HKc6RvC7KawBA_GebUAryA.jpeg)
+![Distrubing photo of flooded Katsikas camp taken by Muhammad Ali from Damascus / [KatsikasLive](https://www.facebook.com/KatsikasLive-1747980202123076/?ref=page_internal)](../assets/22c5bfcfb838/1*HKc6RvC7KawBA_GebUAryA.jpeg)
 
 Distrubing photo of flooded Katsikas camp taken by Muhammad Ali from Damascus / [KatsikasLive](https://www.facebook.com/KatsikasLive-1747980202123076/?ref=page_internal)
 
@@ -72,7 +72,7 @@ The storm had hit the western mainland and flooded the south of Aitoloakarnania 
 On their FB page, refugees from Katsikas camp have been posting regular updates, often describing the worsening of the situation due to the rain, wind and cold\. Their posts included a report about an inadequate concrete structure collapsing on the baby stroller \(the kid miraculously survived\) due to recent heavy winds in the camp\. Page administrators warn that many vulnerable cases are still living in the camp while the weather is getting worse and worse\. You can find their valuable updates [here](https://www.facebook.com/KatsikasLive-1747980202123076/) \.
 
 
-![Makeshift refugee shelters like these won’t survive heavier winds and rain\. Photo: Lisa Campbell](assets/22c5bfcfb838/1*yQrUEfnW0I77F6_uzrBOiA.jpeg)
+![Makeshift refugee shelters like these won’t survive heavier winds and rain\. Photo: Lisa Campbell](../assets/22c5bfcfb838/1*yQrUEfnW0I77F6_uzrBOiA.jpeg)
 
 Makeshift refugee shelters like these won’t survive heavier winds and rain\. Photo: Lisa Campbell
 
@@ -89,7 +89,7 @@ In order to prevent further humanitarian catastrophe, refugees should be moved t
 After months of preparation the Greek government is finally able to offer formal education for refugee children in Greek school\. Ritsona camp is the sixth camp involved in the schooling program\. Greek school is now running afternoons from Monday through Friday\. The lessons are Greek, English, Maths, Arts and IT\. The students will receive a certificate outlining how many hours they have done and this will be accepted by any European education system\. Therefore they can continue when they leave Greece\.
 
 
-![](assets/22c5bfcfb838/1*RNpeMYh9gAXH6wOe6UHGtQ.jpeg)
+![](../assets/22c5bfcfb838/1*RNpeMYh9gAXH6wOe6UHGtQ.jpeg)
 
 
 
@@ -114,7 +114,7 @@ After months of preparation the Greek government is finally able to offer formal
 **Donation of 100 parcels from Starfish Foundation** was brought today to HSA warehouse in Kara Tepe\. Congratulations to all of the donors and volunteers who made this [big action](https://www.facebook.com/groups/Humanitarian.Support.Agency/permalink/941566145986731/) possible\!
 
 
-![100 valuable parcels have arrived to HSA warehouse in Kara Tepe today\. Photo: Fred Morlet](assets/22c5bfcfb838/1*_zkK3dwbcEJMxks8mmLp1w.jpeg)
+![100 valuable parcels have arrived to HSA warehouse in Kara Tepe today\. Photo: Fred Morlet](../assets/22c5bfcfb838/1*_zkK3dwbcEJMxks8mmLp1w.jpeg)
 
 100 valuable parcels have arrived to HSA warehouse in Kara Tepe today\. Photo: Fred Morlet
 #### MEDITERRANEAN
@@ -132,7 +132,7 @@ Volunteers are still assessing yesterdays violent attack by the Libyan coast gua
 
 
 
-![The refugees were attacked on their way across the Mediterranean sea towards Italy\. Photo: Sea Watch](assets/22c5bfcfb838/1*EcFmkMh-2urUIgxVKzzfEw.jpeg)
+![The refugees were attacked on their way across the Mediterranean sea towards Italy\. Photo: Sea Watch](../assets/22c5bfcfb838/1*EcFmkMh-2urUIgxVKzzfEw.jpeg)
 
 The refugees were attacked on their way across the Mediterranean sea towards Italy\. Photo: Sea Watch
 
@@ -151,7 +151,7 @@ The refugees were attacked on their way across the Mediterranean sea towards Ita
 Ježevo detention center — AYS volunteers have visited the closed detention center Ježevo, a 20 minute drive from Zagreb\. In this center people who are considered to be ‘illegal migrants’ are detained until the deportation or until they seek asylum in Croatia\. AYS volunteers managed to see the newly built \(2016\) structure within the center the construction of which is funded by EU funds money — this new structure is intended for vulnerable groups — families and unattended minors\. The structure is clean and almost empty — besides a Kurdish family with 3 children age 9 y, 6y and 7 days old baby\.
 
 
-![Jezevo has improved facilities for families and vulnerable groups, but it’s still a prison\. Photo: M\.P\./PXL](assets/22c5bfcfb838/1*OlWIYc2LRVlu7DT4h-GRdw.jpeg)
+![Jezevo has improved facilities for families and vulnerable groups, but it’s still a prison\. Photo: M\.P\./PXL](../assets/22c5bfcfb838/1*OlWIYc2LRVlu7DT4h-GRdw.jpeg)
 
 Jezevo has improved facilities for families and vulnerable groups, but it’s still a prison\. Photo: M\.P\./PXL
 
@@ -171,7 +171,7 @@ Today [The ‘Unofficial’ Women and Children’s Centre](https://www.facebook.
 According to Refugee Info Bus, extra police and buses have been called to Calais today\. The prefecture have informed NGO’s that the total eviction of the Jungle will start on Monday\. In camp, there is an atmosphere of fear, resignation and frustration, at not knowing what will happen\.
 
 
-![Hundreds of makeshift shops, community centres and houses will be torn down as of Monday\. Photo: Refugee Info Bus](assets/22c5bfcfb838/1*40fMeqWFhE1Ax_atQsFLTg.jpeg)
+![Hundreds of makeshift shops, community centres and houses will be torn down as of Monday\. Photo: Refugee Info Bus](../assets/22c5bfcfb838/1*40fMeqWFhE1Ax_atQsFLTg.jpeg)
 
 Hundreds of makeshift shops, community centres and houses will be torn down as of Monday\. Photo: Refugee Info Bus
 

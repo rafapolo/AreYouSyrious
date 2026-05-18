@@ -1,5 +1,5 @@
 ---
-title: News Digest: 22.11.2021 Lukashenko Interview
+title: "News Digest: 22.11.2021 Lukashenko Interview"
 author: Are You Syrious?
 date: 2021-11-23T19:22:09.529+0000
 last_modified_at: 2021-11-23T19:22:09.529+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [eu,digest,belarus]
 description: Are You Syrious?
 image:
-  path: assets/bff876be4c75/0*SnsF3oOD5bx-Uwy-
+  path: ../assets/bff876be4c75/0*SnsF3oOD5bx-Uwy-
 ---
 
 ### News Digest: 22\.11\.2021 Lukashenko Interview
 
 
-![](assets/bff876be4c75/0*2HpIoV-ngz9BSmMm.jpeg)
+![](../assets/bff876be4c75/0*2HpIoV-ngz9BSmMm.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----c1c56a46ca0c-----------------------------------)
@@ -25,11 +25,11 @@ image:
 ### Lukashenko talks to the BBC whilst the dead are being buried
 
 
-![](assets/bff876be4c75/0*xNcTSritdwWTaoXJ)
+![](../assets/bff876be4c75/0*xNcTSritdwWTaoXJ)
 
 
 
-![](assets/bff876be4c75/0*SnsF3oOD5bx-Uwy-)
+![](../assets/bff876be4c75/0*SnsF3oOD5bx-Uwy-)
 
 
 Photo Credit: [Jana Shnipelson](https://unsplash.com/@shnipelson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/belarus?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
@@ -105,11 +105,11 @@ Criticism of the language learning system used in Slovenia, among other things, 
 ### Thousands protest across France
 
 
-![](assets/bff876be4c75/0*Exm_-xoeUJMs6XHj)
+![](../assets/bff876be4c75/0*Exm_-xoeUJMs6XHj)
 
 
 
-![](assets/bff876be4c75/0*U38lmPUj7xkk51ur)
+![](../assets/bff876be4c75/0*U38lmPUj7xkk51ur)
 
 
 Photo Credit: [Utopia 56](https://www.facebook.com/U56ParisIDF/posts/2780858972213545)
@@ -125,11 +125,11 @@ Also in Northern France, police are [being equipped with high\-tech equipment](h
 ### UK Home Office under fire
 
 
-![](assets/bff876be4c75/0*fCiClUvOWZOkqbsQ)
+![](../assets/bff876be4c75/0*fCiClUvOWZOkqbsQ)
 
 
 
-![](assets/bff876be4c75/0*hM22FHznySqIeEr0)
+![](../assets/bff876be4c75/0*hM22FHznySqIeEr0)
 
 
 Rachel Lowden and Jane Grimshaw, welcoming refugees to the UK Photo Credit: [Hastings Community of Sanctuary](https://twitter.com/HastSanctuary/status/1462581253731926018?fbclid=IwAR3xGx9ULGeueBbuhvs4KAY5z7FeFYkbhU08GbKw4ApW7NiFb8cNnamAv_I)
@@ -145,11 +145,11 @@ Outlandish and cruel methods are being suggested in order to deter people from w
 ### Frontex figures
 
 
-![](assets/bff876be4c75/0*_p9DyM6PyETMXoGl)
+![](../assets/bff876be4c75/0*_p9DyM6PyETMXoGl)
 
 
 
-![](assets/bff876be4c75/0*fETM1CjRPJ9PNVQP)
+![](../assets/bff876be4c75/0*fETM1CjRPJ9PNVQP)
 
 
 Photo Credit: [Frontex via Twitter](https://twitter.com/dgatopoulos/status/1462894078232825861?fbclid=IwAR2XFismvKYb9nqpcFubMFrp5z1UhGBYYsfPMj36OT5YfTTKHfH089nY1Bw)

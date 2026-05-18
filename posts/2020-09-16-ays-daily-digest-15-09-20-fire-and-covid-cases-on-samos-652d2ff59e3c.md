@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [greece,covid-19,digest,refugees,germany]
 description: Updates on Moria // shipwreck off Libya // Germany to take in more people from all 5 islands // Lithuania refuses to take in people from…
 image:
-  path: assets/652d2ff59e3c/1*a7ls88xIY4FD9fI_PIqyvw.jpeg
+  path: ../assets/652d2ff59e3c/1*a7ls88xIY4FD9fI_PIqyvw.jpeg
 ---
 
 ### AYS Daily Digest 15/09/20 Fire and COVID cases on Samos
@@ -15,7 +15,7 @@ image:
 _Updates on Moria // shipwreck off Libya // Germany to take in more people from all 5 islands // Lithuania refuses to take in people from Greece // new asylum suggestions in Sweden // and more…_
 
 
-![Photo by [Anne Derenne — Adenecartoon](https://www.facebook.com/Adenecartoon/posts/1712536902228780)](assets/652d2ff59e3c/1*a7ls88xIY4FD9fI_PIqyvw.jpeg)
+![Photo by [Anne Derenne — Adenecartoon](https://www.facebook.com/Adenecartoon/posts/1712536902228780)](../assets/652d2ff59e3c/1*a7ls88xIY4FD9fI_PIqyvw.jpeg)
 
 Photo by [Anne Derenne — Adenecartoon](https://www.facebook.com/Adenecartoon/posts/1712536902228780)
 ### Fire and COVID\-19 in Vathy camp on Samos
@@ -106,7 +106,7 @@ One sign reads: “Its better to die for freedom when you spent the whole life &
 
 
 
-![This is what civilization and has come to: homeless and foodless refugees are sleeping outside a Lidl grocery store packed with water, food, and supplies\. Photo by [Mehdi Chebil for InfoMigrants](https://www.infomigrants.net/en/post/27271/in-pictures-one-week-after-the-moria-blaze-homeless-migrants-face-squalid-conditions?fbclid=IwAR09kc16JxAq2hx4BK8Z136G7c6ArLYtFEBwfojBzb9-xZkTtrI1f1fTGVQ)](assets/652d2ff59e3c/1*dU0wjuONXlQsxsD_Y0Xg5Q.jpeg)
+![This is what civilization and has come to: homeless and foodless refugees are sleeping outside a Lidl grocery store packed with water, food, and supplies\. Photo by [Mehdi Chebil for InfoMigrants](https://www.infomigrants.net/en/post/27271/in-pictures-one-week-after-the-moria-blaze-homeless-migrants-face-squalid-conditions?fbclid=IwAR09kc16JxAq2hx4BK8Z136G7c6ArLYtFEBwfojBzb9-xZkTtrI1f1fTGVQ)](../assets/652d2ff59e3c/1*dU0wjuONXlQsxsD_Y0Xg5Q.jpeg)
 
 This is what civilization and has come to: homeless and foodless refugees are sleeping outside a Lidl grocery store packed with water, food, and supplies\. Photo by [Mehdi Chebil for InfoMigrants](https://www.infomigrants.net/en/post/27271/in-pictures-one-week-after-the-moria-blaze-homeless-migrants-face-squalid-conditions?fbclid=IwAR09kc16JxAq2hx4BK8Z136G7c6ArLYtFEBwfojBzb9-xZkTtrI1f1fTGVQ)
 
@@ -140,7 +140,7 @@ The government does not want to evacuate everyone from Moria, for fear that it w
 **THE FAR RIGHT ON LESVOS** : From [Europe Must Act](https://www.europemustact.org/post/moria-fire-daily-update-15-09-20?fbclid=IwAR09kc16JxAq2hx4BK8Z136G7c6ArLYtFEBwfojBzb9-xZkTtrI1f1fTGVQ) : “The Greek City Times is reporting an interview with German right wing activist Rebecca Somer just returned from Lesvos, claiming that fires were set by refugees assisted by German NGOs, presence of armed jihadists amongst the camp residents, refugees obstructing firefighters & being extremely aggressive towards the police\. This has been widely circulated on social media\.” Also check out this really important reporting on the far right networking coming to Lesvos from all over Europe \(particularly western Europe\):
 
 
-[![How One Greek Island Reveals Europe's Far-Right Nationalist Network](assets/652d2ff59e3c/2a60_hqdefault.jpg "How One Greek Island Reveals Europe's Far-Right Nationalist Network")](https://www.youtube.com/watch?v=MY5aeuag_f4)
+[![How One Greek Island Reveals Europe's Far-Right Nationalist Network](../assets/652d2ff59e3c/2a60_hqdefault.jpg "How One Greek Island Reveals Europe's Far-Right Nationalist Network")](https://www.youtube.com/watch?v=MY5aeuag_f4)
 
 
 **WAYS TO HELP** : Please support Menstrual hygiene for Lesvos — a project of Feminist Support Lesvos\. Their goal is to provide more menstrual hygiene products for those in need, especially considering the severe lack of access to running water and other hygiene needs/services right now\. Find out more [here](https://www.betterplace.org/en/projects/84301-menstrualhygiene-for-lesvos?fbclid=IwAR3FQGgk9bMaQwAcG3wwfvM45PTZ4iP9hNeWy4twLElOpnx4N7dRrAZ947s) \.
@@ -150,7 +150,7 @@ The government does not want to evacuate everyone from Moria, for fear that it w
 We were notified of the woman by our colleagues from Because We Carry\. 
 Together, we helped as much as we could whilst waiting for an ambulance to arrive\. Our volunteer Thomas, who happens to be a fifth year medical student, checked the woman’s contractions while our other volunteer Caterina was holding her with Inger, a colleague from Because We Carry\. 
 In the end, a baby was born yesterday and is in good health\!
-They say the moment a baby is born, a mother is born too\. What if this can be a re\-birth, a beginning of a new safe and dignified life for the other 12,999 human beings?” Photo by Giorgios Moutafis](assets/652d2ff59e3c/1*dFzyXwDu9fZbJ30CRtah1g.png)
+They say the moment a baby is born, a mother is born too\. What if this can be a re\-birth, a beginning of a new safe and dignified life for the other 12,999 human beings?” Photo by Giorgios Moutafis](../assets/652d2ff59e3c/1*dFzyXwDu9fZbJ30CRtah1g.png)
 
 Message from [Movement on the Ground](https://www.facebook.com/movementontheground/posts/1825516910957946) : “Yesterday morning, the screams of a woman in labour paused time on \#Lesvos\. The screams, a reminder that pregnant women in need of medical treatment and attention are now displaced on the street\.
 We were notified of the woman by our colleagues from Because We Carry\. 
@@ -170,19 +170,19 @@ On Monday, 5 people were handed over to the Slovenian authorities after crossing
 #### BALKANS
 
 
-![](assets/652d2ff59e3c/1*UPlFcwpGLDSo36rvW2s_ng.jpeg)
+![](../assets/652d2ff59e3c/1*UPlFcwpGLDSo36rvW2s_ng.jpeg)
 
 
 
 ![“\#BalkanRouteEurope Trieste September 15th Linea d’Ombra ODV
-Afghans, small and large, minors and older, many injured, the first thing they ask you is: ′′ mom, food please mom “\. They drank the mud of water, they didn’t eat for 4 or 5 days , are cooled by cold nights in the woods\. Almost no one wants to stay, they’ll leave tomorrow\. At night forwarded, after Goga and Marianna’s food and wound care, we manage to give the shoes and the minimum clothes to take the earth off\. Turning your back on the square of the world to return home is the hardest gesture to do\.” Photo by [Lorena Fornasir](https://www.facebook.com/lorena.fornasir/posts/3250043401779401)](assets/652d2ff59e3c/1*H2GsPe5xtyxsdc_7bfXiNA.jpeg)
+Afghans, small and large, minors and older, many injured, the first thing they ask you is: ′′ mom, food please mom “\. They drank the mud of water, they didn’t eat for 4 or 5 days , are cooled by cold nights in the woods\. Almost no one wants to stay, they’ll leave tomorrow\. At night forwarded, after Goga and Marianna’s food and wound care, we manage to give the shoes and the minimum clothes to take the earth off\. Turning your back on the square of the world to return home is the hardest gesture to do\.” Photo by [Lorena Fornasir](https://www.facebook.com/lorena.fornasir/posts/3250043401779401)](../assets/652d2ff59e3c/1*H2GsPe5xtyxsdc_7bfXiNA.jpeg)
 
 “\#BalkanRouteEurope Trieste September 15th Linea d’Ombra ODV
 Afghans, small and large, minors and older, many injured, the first thing they ask you is: ′′ mom, food please mom “\. They drank the mud of water, they didn’t eat for 4 or 5 days , are cooled by cold nights in the woods\. Almost no one wants to stay, they’ll leave tomorrow\. At night forwarded, after Goga and Marianna’s food and wound care, we manage to give the shoes and the minimum clothes to take the earth off\. Turning your back on the square of the world to return home is the hardest gesture to do\.” Photo by [Lorena Fornasir](https://www.facebook.com/lorena.fornasir/posts/3250043401779401)
 
 
 ![“POSTCARD TO EU FROM THE BORDER: Velika Kladuša
-For five days in a row, four families from Afghanistan, including a pregnant woman who is in eight months, a nine\-Month\-old baby and seven young children, sleep in front of camp miral\. Last night, the locals found an abandoned house where they provided them with such a shelter, only that they were not under the open sky\. Food and basics are brought to them by organizations that dare to do so\. Some time ago the usk authorities made a decision \(not the law\) to prevent the share of aid\. Such a decision is not in line with the existing laws, however the police and institutions, using various methods, from fear to punishment of helpers, and does everything to prevent anyone who wants to help\. Also, the fine police violence that has become everyday in this part of bih is sending a scary message to citizens and citizens of Bosnia and Herzegovina, and many are trying to help, at least public\.” Photo by [Transbalkanska solidarnost](https://www.facebook.com/groups/144469886266984/permalink/637040770343224/)](assets/652d2ff59e3c/1*aaXfqkLgpbPImkZs5iKZSA.jpeg)
+For five days in a row, four families from Afghanistan, including a pregnant woman who is in eight months, a nine\-Month\-old baby and seven young children, sleep in front of camp miral\. Last night, the locals found an abandoned house where they provided them with such a shelter, only that they were not under the open sky\. Food and basics are brought to them by organizations that dare to do so\. Some time ago the usk authorities made a decision \(not the law\) to prevent the share of aid\. Such a decision is not in line with the existing laws, however the police and institutions, using various methods, from fear to punishment of helpers, and does everything to prevent anyone who wants to help\. Also, the fine police violence that has become everyday in this part of bih is sending a scary message to citizens and citizens of Bosnia and Herzegovina, and many are trying to help, at least public\.” Photo by [Transbalkanska solidarnost](https://www.facebook.com/groups/144469886266984/permalink/637040770343224/)](../assets/652d2ff59e3c/1*aaXfqkLgpbPImkZs5iKZSA.jpeg)
 
 “POSTCARD TO EU FROM THE BORDER: Velika Kladuša
 For five days in a row, four families from Afghanistan, including a pregnant woman who is in eight months, a nine\-Month\-old baby and seven young children, sleep in front of camp miral\. Last night, the locals found an abandoned house where they provided them with such a shelter, only that they were not under the open sky\. Food and basics are brought to them by organizations that dare to do so\. Some time ago the usk authorities made a decision \(not the law\) to prevent the share of aid\. Such a decision is not in line with the existing laws, however the police and institutions, using various methods, from fear to punishment of helpers, and does everything to prevent anyone who wants to help\. Also, the fine police violence that has become everyday in this part of bih is sending a scary message to citizens and citizens of Bosnia and Herzegovina, and many are trying to help, at least public\.” Photo by [Transbalkanska solidarnost](https://www.facebook.com/groups/144469886266984/permalink/637040770343224/)
@@ -274,7 +274,7 @@ Read their whole critic and thoughts [here](https://sweref.org/forslagen-till-ny
 #### UK
 
 
-![One of Care4Calias volunteers who organized a drive “We’ve raised almost £1,200 and my living room is quickly filling up with bags of good\-quality, clean, sensible clothes\. At a time when the far right is making so much unpleasant noise, friends and neighbours have been only too happy to be able to contribute to something positive\.” To join one of the Care4Calais local groups in the UK please email annie@care4calais\.org Photo by [Care4Calias](https://www.facebook.com/care4calais/posts/3640232492676348)](assets/652d2ff59e3c/1*t81jOsPqS4Wywa4l5K5uZw.jpeg)
+![One of Care4Calias volunteers who organized a drive “We’ve raised almost £1,200 and my living room is quickly filling up with bags of good\-quality, clean, sensible clothes\. At a time when the far right is making so much unpleasant noise, friends and neighbours have been only too happy to be able to contribute to something positive\.” To join one of the Care4Calais local groups in the UK please email annie@care4calais\.org Photo by [Care4Calias](https://www.facebook.com/care4calais/posts/3640232492676348)](../assets/652d2ff59e3c/1*t81jOsPqS4Wywa4l5K5uZw.jpeg)
 
 One of Care4Calias volunteers who organized a drive “We’ve raised almost £1,200 and my living room is quickly filling up with bags of good\-quality, clean, sensible clothes\. At a time when the far right is making so much unpleasant noise, friends and neighbours have been only too happy to be able to contribute to something positive\.” To join one of the Care4Calais local groups in the UK please email annie@care4calais\.org Photo by [Care4Calias](https://www.facebook.com/care4calais/posts/3640232492676348)
 
@@ -282,7 +282,7 @@ The Guardian is reporting that _“ **the government is planning to “opt out�
 #### GENERAL
 
 
-![Check out this protest\! Photo by [Europe Must Act](https://www.facebook.com/europemustact/posts/173557690923600)](assets/652d2ff59e3c/1*36ylf2bSYa_yCNe5AoI8aQ.jpeg)
+![Check out this protest\! Photo by [Europe Must Act](https://www.facebook.com/europemustact/posts/173557690923600)](../assets/652d2ff59e3c/1*36ylf2bSYa_yCNe5AoI8aQ.jpeg)
 
 Check out this protest\! Photo by [Europe Must Act](https://www.facebook.com/europemustact/posts/173557690923600)
 

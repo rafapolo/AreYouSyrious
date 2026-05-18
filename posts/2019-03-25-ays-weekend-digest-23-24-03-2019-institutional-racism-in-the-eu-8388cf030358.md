@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,institutional-racism,sudan,european-union]
 description: Borders keep killing in Calais, in Libyan detention, in the Western Med and on the Evros River /// Boat in distress in the Central Med///…
 image:
-  path: assets/8388cf030358/1*AO5tji5DVUuLDoxVXyUTmQ.jpeg
+  path: ../assets/8388cf030358/1*AO5tji5DVUuLDoxVXyUTmQ.jpeg
 ---
 
 ### AYS Weekend Digest 23–24/03/19: Institutional racism in the EU
@@ -15,7 +15,7 @@ image:
 Borders keep killing in Calais, in Libyan detention, in the Western Med and on the Evros River /// Boat in distress in the Central Med /// Demonstration on Tuesday in Athens against Italian policies of criminalisation of sea rescue /// Advice to resist deportation in Switzerland /// France complicit with Sudanese dictatorship, claim ASUAD /// Updates from Italy, Croatia, France
 
 
-![\#NoBorders — \#OpenEUborders — An immigrant drowned\! by [Ali Divandari](https://www.facebook.com/ali.divandari.official/) / [ArtAgainst](https://www.facebook.com/artagainstproject/photos/a.639651369417634/2111772902205466/?type=3&theater)](assets/8388cf030358/1*AO5tji5DVUuLDoxVXyUTmQ.jpeg)
+![\#NoBorders — \#OpenEUborders — An immigrant drowned\! by [Ali Divandari](https://www.facebook.com/ali.divandari.official/) / [ArtAgainst](https://www.facebook.com/artagainstproject/photos/a.639651369417634/2111772902205466/?type=3&theater)](../assets/8388cf030358/1*AO5tji5DVUuLDoxVXyUTmQ.jpeg)
 
 \#NoBorders — \#OpenEUborders — An immigrant drowned\! by [Ali Divandari](https://www.facebook.com/ali.divandari.official/) / [ArtAgainst](https://www.facebook.com/artagainstproject/photos/a.639651369417634/2111772902205466/?type=3&theater)
 #### FEATURE — INSTITUTIONAL RACISM IN THE EU
@@ -67,11 +67,11 @@ LIBYA
 InfoMigrants have written [a short report](https://www.infomigrants.net/en/post/15815/warning-strong-images-in-libya-s-zintan-center-migrants-starve-to-death?ref=tw&fbclid=IwAR2CCf8QIkaucxJTu6DZ_pZ0xxocovUPYP6jczrQyFMjNl6lYVVp6w_wiQ0) having received photographs of emaciated bodies and testimonies stating that several people have died from starvation in Zintan detention centre in the last weeks\. NGOs have repeatedly raised the alarm about the situation in Libyan detention and [MSF reported](https://www.msf.org/alarming-rates-malnutrition-and-inhumane-conditions-tripoli-detention-centre-libya) on high levels of malnutrition only last week\.
 
 
-![](assets/8388cf030358/1*k2UCCkPqcUbbEemQrK-VeQ.jpeg)
+![](../assets/8388cf030358/1*k2UCCkPqcUbbEemQrK-VeQ.jpeg)
 
 
 
-![1\. The crammed Zintan center in March, 2019\. Photo: DR — 2\. A starved migrant depicted in Libya’s Zintan center\. Photo: DR \(Source: [InfoMigrants](https://www.infomigrants.net/en/post/15815/warning-strong-images-in-libya-s-zintan-center-migrants-starve-to-death?ref=tw&fbclid=IwAR2CCf8QIkaucxJTu6DZ_pZ0xxocovUPYP6jczrQyFMjNl6lYVVp6w_wiQ0) \)](assets/8388cf030358/1*H1VnhyDXVihUd2BWDWkCUA.jpeg)
+![1\. The crammed Zintan center in March, 2019\. Photo: DR — 2\. A starved migrant depicted in Libya’s Zintan center\. Photo: DR \(Source: [InfoMigrants](https://www.infomigrants.net/en/post/15815/warning-strong-images-in-libya-s-zintan-center-migrants-starve-to-death?ref=tw&fbclid=IwAR2CCf8QIkaucxJTu6DZ_pZ0xxocovUPYP6jczrQyFMjNl6lYVVp6w_wiQ0) \)](../assets/8388cf030358/1*H1VnhyDXVihUd2BWDWkCUA.jpeg)
 
 1\. The crammed Zintan center in March, 2019\. Photo: DR — 2\. A starved migrant depicted in Libya’s Zintan center\. Photo: DR \(Source: [InfoMigrants](https://www.infomigrants.net/en/post/15815/warning-strong-images-in-libya-s-zintan-center-migrants-starve-to-death?ref=tw&fbclid=IwAR2CCf8QIkaucxJTu6DZ_pZ0xxocovUPYP6jczrQyFMjNl6lYVVp6w_wiQ0) \)
 
@@ -136,7 +136,7 @@ SEA
 #### 41 people in distress in the central Med
 
 
-![by [Mediterranea — Saving Humans](https://twitter.com/RescueMed/status/1109538464427577346)](assets/8388cf030358/1*FNH1Kz0UZX4l257x4QbK0A.jpeg)
+![by [Mediterranea — Saving Humans](https://twitter.com/RescueMed/status/1109538464427577346)](../assets/8388cf030358/1*FNH1Kz0UZX4l257x4QbK0A.jpeg)
 
 by [Mediterranea — Saving Humans](https://twitter.com/RescueMed/status/1109538464427577346)
 
@@ -148,7 +148,7 @@ GREECE
 #### Athens, Tuesday 26/03 — Demonstration in front of the Italian Embassy
 
 
-![](assets/8388cf030358/1*4FHMLv6TX_Bmkso0qHgb4g.jpeg)
+![](../assets/8388cf030358/1*4FHMLv6TX_Bmkso0qHgb4g.jpeg)
 
 
 [Refugee accommodation and solidarity space City Plaza](https://www.facebook.com/sol2refugeesen) is organising a [demonstration in front of the Italian Embassy](https://www.facebook.com/events/649131245538048/) \(Sekeri 2\) in Athens, in solidarity with the \#MareJonio, impounded by Italian authorities after the rescue of 49 people last week\.
@@ -240,7 +240,7 @@ Read the [full country report here](http://www.asylumineurope.org/sites/default/
 #### Another death in Calais
 
 
-![[Photo by Refugee Rights Europe](https://www.facebook.com/RefugeeRightsEurope/posts/2005944256379076)](assets/8388cf030358/1*YJSkwstR8OuQYBEfSC_QAg.jpeg)
+![[Photo by Refugee Rights Europe](https://www.facebook.com/RefugeeRightsEurope/posts/2005944256379076)](../assets/8388cf030358/1*YJSkwstR8OuQYBEfSC_QAg.jpeg)
 
 [Photo by Refugee Rights Europe](https://www.facebook.com/RefugeeRightsEurope/posts/2005944256379076)
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Slovenia Special: Protest breaks out in detention centre Postojna a week after court decision…
+title: "AYS Slovenia Special: Protest breaks out in detention centre Postojna a week after court decision…"
 author: Are You Syrious?
 date: 2020-08-05T07:35:22.786+0100
 last_modified_at: 2020-08-05T07:37:13.279+0100

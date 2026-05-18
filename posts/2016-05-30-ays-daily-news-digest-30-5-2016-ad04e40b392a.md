@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe]
 description: Many more are coming through Mediterranean route — deal with it! , UN chief tells the EU, all the while UN seems to be backing out of the…
 image:
-  path: assets/ad04e40b392a/1*xAnsub7tKsSLzfZvQtyy9g.jpeg
+  path: ../assets/ad04e40b392a/1*xAnsub7tKsSLzfZvQtyy9g.jpeg
 ---
 
 ### [AYS DAILY NEWS DIGEST 30\.5\.2016\.](ays-daily-news-digest-28-5-2016-4215d9f1d6b8)
 #### Many more are coming through Mediterranean route — deal with it\! , UN chief tells the EU, all the while UN seems to be backing out of the aid airdrops to besieged cities in Syria\. Hostility towards new arrivals of the coast of Greece\. Greek government plans to move settlements around gas station near Idomeni\. New donations needed, with old ones put to good use\. Number of refugees rising in Italy and Serbia with Hungary reinforcing its fences\. Heightened hostility towards refugees and volunteers in both Austria and Germany\.
 
 
-![[Cultural Center](https://twitter.com/hashtag/CulturalCenter?src=hash) in [Cherso](https://twitter.com/hashtag/Cherso?src=hash) takes shape\. If you want to help, see links below\. Photo Credit: IHA\.](assets/ad04e40b392a/1*xAnsub7tKsSLzfZvQtyy9g.jpeg)
+![[Cultural Center](https://twitter.com/hashtag/CulturalCenter?src=hash) in [Cherso](https://twitter.com/hashtag/Cherso?src=hash) takes shape\. If you want to help, see links below\. Photo Credit: IHA\.](../assets/ad04e40b392a/1*xAnsub7tKsSLzfZvQtyy9g.jpeg)
 
 [Cultural Center](https://twitter.com/hashtag/CulturalCenter?src=hash) in [Cherso](https://twitter.com/hashtag/Cherso?src=hash) takes shape\. If you want to help, see links below\. Photo Credit: IHA\.
 #### GENERAL
@@ -47,7 +47,7 @@ Same newspaper is reporting that in one of those camps a Syrian refugee has been
 ### **Drop in the Ocean team would like to thank everybody who donated for their efforts in Greece and more donations needed\.**
 
 
-![Nea Kavala camp\. Action of printing and distributing pictures of people from the camp honoring their personalities brings smile to many faces\. Photo credit: Aktionsrb\.](assets/ad04e40b392a/1*eZrHVdH5Yaau1J4Hc72XYg.jpeg)
+![Nea Kavala camp\. Action of printing and distributing pictures of people from the camp honoring their personalities brings smile to many faces\. Photo credit: Aktionsrb\.](../assets/ad04e40b392a/1*eZrHVdH5Yaau1J4Hc72XYg.jpeg)
 
 Nea Kavala camp\. Action of printing and distributing pictures of people from the camp honoring their personalities brings smile to many faces\. Photo credit: Aktionsrb\.
 

@@ -1,5 +1,5 @@
 ---
-title: AYS DIGEST 21/12: Refugee women’s rights at risk in Greece
+title: "AYS DIGEST 21/12: Refugee women’s rights at risk in Greece"
 author: Are You Syrious?
 date: 2016-12-22T02:20:51.620+0000
 last_modified_at: 2016-12-22T02:38:48.805+0000
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe]
 description: Protection of women’s health and rights remains an issue in Greece. The European Commission sets ambitious relocation targets but many…
 image:
-  path: assets/51599c09c43f/0*AbEPZ7pLMTYZLmEl.jpg
+  path: ../assets/51599c09c43f/0*AbEPZ7pLMTYZLmEl.jpg
 ---
 
 ### AYS DIGEST 21/12: Refugee women’s rights at risk in Greece
 
 
-![Photo by David Lohmueller\. Part of [Out of sight, out of mind](http://davidlohmueller.com/en/refugee-camps-greece/#more-4516) story\.](assets/51599c09c43f/0*AbEPZ7pLMTYZLmEl.jpg)
+![Photo by David Lohmueller\. Part of [Out of sight, out of mind](http://davidlohmueller.com/en/refugee-camps-greece/#more-4516) story\.](../assets/51599c09c43f/0*AbEPZ7pLMTYZLmEl.jpg)
 
 Photo by David Lohmueller\. Part of [Out of sight, out of mind](http://davidlohmueller.com/en/refugee-camps-greece/#more-4516) story\.
 
@@ -41,7 +41,7 @@ It also admits that to achieve this goal, member states should already be reloca
 **However, in November, only 1,005 people were relocated to 13 EU member states, as well as to Switzerland and Norway\.**
 
 
-![](assets/51599c09c43f/1*snngP3iXLV2WnSuJqZg1bQ.png)
+![](../assets/51599c09c43f/1*snngP3iXLV2WnSuJqZg1bQ.png)
 
 
 For the Commission, this is a clear signal that the relocation targets can be achieved if _all_ EU countries participate in the effort — in reality, several countries are still refusing to participate at all\. At the time of publication, Bulgaria, Croatia, the Czech Republic and Luxembourg had not made any relocation pledges for more than three months , while Austria and Hungary have not relocated anyone since the beginning of the programme\. The Czech Republic has not relocated anyone since August and Poland has not pledged nor relocated any refugees since April\.
@@ -49,7 +49,7 @@ For the Commission, this is a clear signal that the relocation targets can be ac
 The EC also notes that while the acceptance rate of relocation requests is high \(around 93%\), some of the rejections are still based on nationality, even if the person belongs to one of the nationalities eligible for relocation\.
 
 
-![Photo taken in Soud camp, Chios\. By Almwuostafaa Alkhtyipe](assets/51599c09c43f/0*5O5A1432lIw4hvRM.)
+![Photo taken in Soud camp, Chios\. By Almwuostafaa Alkhtyipe](../assets/51599c09c43f/0*5O5A1432lIw4hvRM.)
 
 Photo taken in Soud camp, Chios\. By Almwuostafaa Alkhtyipe
 
@@ -65,7 +65,7 @@ In Lesvos, the _Office of Displaced Designers_ needs support to build a Maker Sp
 Please check out their [website](http://www.displaceddesigners.org/) and appeal for donations for more info\.
 
 
-[![oddvideo1080HDfinalupload](assets/51599c09c43f/3edc_hqdefault.jpg "oddvideo1080HDfinalupload")](http://www.youtube.com/watch?v=7DDuoMimoNk)
+[![oddvideo1080HDfinalupload](../assets/51599c09c43f/3edc_hqdefault.jpg "oddvideo1080HDfinalupload")](http://www.youtube.com/watch?v=7DDuoMimoNk)
 
 #### Bulgaria
 
@@ -101,7 +101,7 @@ Today, [_Human Rights Watch_](https://www.hrw.org/news/2016/12/21/france/uk-lone
 In Como, 79 people were sleeping in the street last night, including two unaccompanied minors\.
 
 
-![Image by Como Senza Frontiere](assets/51599c09c43f/0*KyeNOIUV-WSzaH6_.)
+![Image by Como Senza Frontiere](../assets/51599c09c43f/0*KyeNOIUV-WSzaH6_.)
 
 Image by Como Senza Frontiere
 
@@ -119,12 +119,12 @@ Around 85% try to cross into the country using the train, while some cross on fo
 In Syria, internally displaced persons are suffering from the cold and the snow\. A total of 148 people \(26 families, more than 100 children and two elderly people over 80 years old, many people with significant medical conditions\) are sheltering in an abandoned school with no windows and no heating, after fleeing from ISIS\. These families are in urgent need due to harsh living conditions in damp and sub\-zero temperatures\. Samara’s Aid Appeal is planning to send them food, clothing, bedding and carpets as well as windows and medical care\. If you would like to join them, please download their [information pack](https://static1.squarespace.com/static/53766570e4b003ad46561710/t/5842017137c581d99d802756/1480720768432/CHRISTMAS+%26+NEW+YEAR+AID+APPEAL+INFORMATION+PACK+2016-2017.pdf) \.
 
 
-![Photo by Samara’s Aid Appeal](assets/51599c09c43f/0*9-WM1k3chKgM7mVR.)
+![Photo by Samara’s Aid Appeal](../assets/51599c09c43f/0*9-WM1k3chKgM7mVR.)
 
 Photo by Samara’s Aid Appeal
 
 
-![Photo by Samara’s Aid Appeal](assets/51599c09c43f/0*gJnm_UztaKo8kVmn.)
+![Photo by Samara’s Aid Appeal](../assets/51599c09c43f/0*gJnm_UztaKo8kVmn.)
 
 Photo by Samara’s Aid Appeal
 

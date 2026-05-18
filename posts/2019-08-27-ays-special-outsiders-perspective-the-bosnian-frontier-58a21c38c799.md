@@ -1,5 +1,5 @@
 ---
-title: AYS Special — Outsiders perspective: The Bosnian Frontier
+title: "AYS Special — Outsiders perspective: The Bosnian Frontier"
 author: Are You Syrious?
 date: 2019-08-27T10:50:20.054+0100
 last_modified_at: 2019-08-27T15:36:11.428+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,special,bosnia,balkans,europe]
 description: The passage between Bosnia and Croatia is one of the most difficult on the Balkan route. Usually people cross it on foot, walking and…
 image:
-  path: assets/58a21c38c799/1*xcPhTS2bFQchoe0h54SlGg.jpeg
+  path: ../assets/58a21c38c799/1*xcPhTS2bFQchoe0h54SlGg.jpeg
 ---
 
 ### AYS SPECIAL: Outsiders’ perspective \- The Bosnian Frontier
 #### The passage between Bosnia and Croatia is one of the most difficult on the Balkan route\. Usually people cross it on foot, walking and sleeping in the woods, far away from urban centres, invisible and silent\. Because of the continuous and increasingly violent expulsions by Croatian border police, those who arrive in Bihać and Velika Kladuša remain blocked in this area for months in a temporary status, constantly attempting the long mountain walk that connects the two cities to the Croatian border\. ‘The game’ is all a matter of chance and few make it at the first attempt\. We met people who have been trying for a year and could count more than 20 attempts …
 
 
-![**All photos by: Emanuela Zampa**](assets/58a21c38c799/1*xcPhTS2bFQchoe0h54SlGg.jpeg)
+![**All photos by: Emanuela Zampa**](../assets/58a21c38c799/1*xcPhTS2bFQchoe0h54SlGg.jpeg)
 
 **All photos by: Emanuela Zampa**
 
@@ -52,14 +52,14 @@ Samira is the mother of two little girls, one and three years old\. She told us 
 The game is violent both in a physical and in a psychological way\. On the one hand, the violence of the police, on the other, the acknowledgment of having struggled for nothing\. Because of the constant pushbacks, people remain stuck in this territory for months not knowing when and how they will succeed in reaching their final destination\. And so they wait, in the towns of Bihać and Velika Kladuša\.
 
 
-![A detail from Bihać](assets/58a21c38c799/1*QmR_JlWeYutCUug-TL1PiQ.jpeg)
+![A detail from Bihać](../assets/58a21c38c799/1*QmR_JlWeYutCUug-TL1PiQ.jpeg)
 
 A detail from Bihać
 
 In this general atmosphere of fear and displacement, IOM decided to address the crisis by setting up four ‘camps for migrants’ temporary permanence’\. The situation in the camps is always very dubious\. It is almost impossible to have a clear idea of how many people are actually there\. Sometimes, the camps might look half\-empty because a high number of people are in the game\. It is impossible to understand how many will return, as well as how many new arrivals there will be\.
 
 
-![Inside Bira, Bihać](assets/58a21c38c799/1*-aagflKTbKzL7ud-qoA4tA.jpeg)
+![Inside Bira, Bihać](../assets/58a21c38c799/1*-aagflKTbKzL7ud-qoA4tA.jpeg)
 
 Inside Bira, Bihać
 
@@ -68,18 +68,18 @@ The largest camp, **Bira** , was set up in a former refrigerator factory in Biha
 There is neither light nor air\. The smell of urine and sweat immediately pervades your nose\. The high ceiling echoes the voices of the thousands of men walking beneath it\. The voices mingle with the sound of the rain, creating a disturbing and constant background noise\. It never stops, not even at night\. Obviously, Bira never sleeps\. A few rays of sunshine struggle to pass through the few windows that open in the ceiling’s metal plates, but they do not reach the floor, nor the human beings walking on it\. They appear like zombies, de\-humanised shadows that live in a constant state of waiting\.
 
 
-![People inside the camp, queueing for lunch](assets/58a21c38c799/1*Q3Ghc75yWLSQV5d44Idjlw.jpeg)
+![People inside the camp, queueing for lunch](../assets/58a21c38c799/1*Q3Ghc75yWLSQV5d44Idjlw.jpeg)
 
 People inside the camp, queueing for lunch
 
 There are dozens of white tents and containers filled with bunk beds\. All of them are marked with the Turkish Red Crescent symbol\. For single men in Bira, there is nothing to do other than sitting, walking and waiting for food\. There is no mechanism of cohabitation or communication between those who live in the camp\. The only activity besides walking, sitting and queueing for lunch is that of the hairdresser\.
 
 
-![](assets/58a21c38c799/1*PkTBVEcIqXhNn6BJPk9kWw.jpeg)
+![](../assets/58a21c38c799/1*PkTBVEcIqXhNn6BJPk9kWw.jpeg)
 
 
 
-![](assets/58a21c38c799/1*NwwLKSpqdNHoqBcByJQe4Q.jpeg)
+![](../assets/58a21c38c799/1*NwwLKSpqdNHoqBcByJQe4Q.jpeg)
 
 
 There are two of them, and they organised two working tables on the two opposite sides of the single men’s section\. A small organisation from Italy managed to set up a sort of socialisation corner, where beverages are served, people play table tennis and cards\. Apart from this small space of serenity,
@@ -93,7 +93,7 @@ There are two of them, and they organised two working tables on the two opposite
 The IOM camp of Borići, sited in the homonymous park, was originally built to provide accommodation for students\. Because of the war in the 1990s, it was never actually completed, nor inhabited\. Last summer, hundreds of migrants occupied the abandoned building\.
 
 
-![Borići](assets/58a21c38c799/1*ciObMANnUOWUc_D_3l8QRg.jpeg)
+![Borići](../assets/58a21c38c799/1*ciObMANnUOWUc_D_3l8QRg.jpeg)
 
 Borići
 
@@ -110,7 +110,7 @@ While in Bira the sense of dehumanisation is transparent and direct, Borići sho
 Camp Sedra is sited in the woods near the area of Cazin, a few kilometres from Bihać\. It used to be a hotel, which now hosts around 400 migrants, among them many families and minors\. This place is different from both Borići and Bira, as it was actually inhabited before\. Consequently, it presents most of the ‘comforts’ you expect for a place designed to host human beings — there is a real kitchen, rooms for children to play in, and spaces designed for people to socialize\. There is light\. Sedra can be considered the least terrible of the camps in the area, but for as much as it has a ‘golden’ surface, **it remains a cage\.** Entering such a contradictory space is almost surreal\.
 
 
-![](assets/58a21c38c799/1*GpRX276QMWOyT8Reldt7-Q.jpeg)
+![](../assets/58a21c38c799/1*GpRX276QMWOyT8Reldt7-Q.jpeg)
 
 
 Kimia, 7 years old, is dancing to a YouTube video tutorial\. She is preparing for the dance\-off that will take place in the afternoon\. Mohammed and Arya, 8 and 9 years old, are playing hide and seek\. When Arya finds Mohammed, he starts running around the room screaming _‘you don’t catch me police’\._
@@ -137,32 +137,32 @@ They immediately surrounded us and asked for help\.
 Today, the place looks as if there are fewer people on the move in town\. But this apparent re\-establishing of the urban _status quo_ is nothing but fake\. Following a number of public complaints and some violent incidents, the municipality decided to take drastic measures\. The police in the town started to round up migrants staying outside the camps and taking them to a new ‘camp’ close to the border with Croatia, in the area of Vučjak\. Here, people are supposed to live on the landfill in the middle of the woods, completely isolated from urban centres\.
 
 
-![Vučjak](assets/58a21c38c799/1*5Pk03k-ignXOivd0m8kSJQ.jpeg)
+![Vučjak](../assets/58a21c38c799/1*5Pk03k-ignXOivd0m8kSJQ.jpeg)
 
 Vučjak
 
 Those who have been deported there started to call it the ‘jungle camp’ and one can easily see why\. The place used to be a garbage dump\. Bihać municipality wanted to turn it into a kennel, but the project did not pass muster because of the unhealthy and polluted condition of the area\. But this didn’t prevent the authorities from transferring these people to the same toxic piece of land\.
 
 
-![](assets/58a21c38c799/1*PnpP6-pZnKYiiNzArIr9oA.jpeg)
+![](../assets/58a21c38c799/1*PnpP6-pZnKYiiNzArIr9oA.jpeg)
 
 
 
-![Vučjak](assets/58a21c38c799/1*Avhp3ePO0UZIHGS2aRVIZw.jpeg)
+![Vučjak](../assets/58a21c38c799/1*Avhp3ePO0UZIHGS2aRVIZw.jpeg)
 
 Vučjak
 
 The mechanism is easy: the Bihać police \(quite literally\) catches them in the city and transfers them here, a place designed to host rubbish, not animals, not humans\. The camp is situated close to the the mountains, 15 minutes by car from the town\. It is managed by the city government and run by the police\. Meals and facilities are provided by the local Red Cross and there is no EU funding involved\. This is a sort of a ‘protest camp’ against the federal government who, according to the locals, keeps undermining the situation\. But this protest is once again affecting the life of men, the real “wretched of the earth”, hidden in the polluted forest\. Voiceless, nameless, removed from other people’s sight\.
 
 
-![Returned people with wounds as a consequence of the police pushbacks](assets/58a21c38c799/1*3SUDGKVTj8-yY2a2SU0drg.jpeg)
+![Returned people with wounds as a consequence of the police pushbacks](../assets/58a21c38c799/1*3SUDGKVTj8-yY2a2SU0drg.jpeg)
 
 Returned people with wounds as a consequence of the police pushbacks
 
 What we witnessed during our trips in the Una Sana canton is a situation that keeps changing and getting worse\. The result of years of buck passing, bad management and silencing of the refugee crisis, which have, once again, turned this land into a land of despair, violence, and disappointment with the international community\.
 
 
-![](assets/58a21c38c799/1*PGFhVgrxPdbEE_p-vpryTA.jpeg)
+![](../assets/58a21c38c799/1*PGFhVgrxPdbEE_p-vpryTA.jpeg)
 
 
 **Written by: Gabriele Proglio and Benedetta Zocchi** 

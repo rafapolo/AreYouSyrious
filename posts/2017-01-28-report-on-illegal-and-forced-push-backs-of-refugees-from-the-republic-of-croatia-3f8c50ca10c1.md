@@ -7,18 +7,18 @@ categories:
 tags: [refugees,europe,croatia,police-brutality,human-rights]
 description: Zagreb, January 24, 2017
 image:
-  path: assets/3f8c50ca10c1/1*e-TmJegpFh7YXWiKQLclfw.jpeg
+  path: ../assets/3f8c50ca10c1/1*e-TmJegpFh7YXWiKQLclfw.jpeg
 ---
 
 ### **Report on illegal and forced push backs of refugees from the Republic of Croatia**
 #### Zagreb, January 24, 2017
 
 
-![](assets/3f8c50ca10c1/1*e-TmJegpFh7YXWiKQLclfw.jpeg)
+![](../assets/3f8c50ca10c1/1*e-TmJegpFh7YXWiKQLclfw.jpeg)
 
 
 
-![](assets/3f8c50ca10c1/1*H_EikaATILG_m_PDylReNQ.jpeg)
+![](../assets/3f8c50ca10c1/1*H_EikaATILG_m_PDylReNQ.jpeg)
 
 
 Published reports of intergovernmental organizations such as UNHCR \(reports about Serbia, e\.g\. from [November](https://www.google.hr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&ved=0ahUKEwjO9diU2dbRAhUlOpoKHR9dBNIQFghFMAY&url=https%3A%2F%2Fdata.unhcr.org%2Fmediterranean%2Fdownload.php%3Fid%3D2175&usg=AFQjCNECfTwGdXQ01PE2_BZs3WvaFcigYg&sig2=hp076C9b38i5dGyWOu7JFg) and [December](https://www.google.hr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=0ahUKEwjlo_WDsNXRAhVEzRQKHecUB6EQFggvMAM&url=https%3A%2F%2Fdata.unhcr.org%2Fmediterranean%2Fdownload.php%3Fid%3D2242&usg=AFQjCNG5eXgu8A41HtfRkIBh6un6-CG28Q&sig2=_9wWwjlOrJGMczNZIgVFgA&bvm=bv.144224172,d.bGs) 2016, a press release from [January](http://www.unhcr.rs/dokumenti/saopstenja-za-medije/izbeglice-i-migranti-suoceni-sa-visokim-rizicima-po-zimi-u-evropi.html) 2017\), as well as recent publications and statements by representatives of organizations that work directly with refugees \(such as [JRS](http://hr.n1info.com/a171650/Vijesti/Tvrtko-Barun-Znamo-za-slucajeve-kada-je-Hrvatska-ilegalno-deportirala-trazitelje-azila.html) — Jesuit Refugee Service, [Are You Syrious?](https://www.facebook.com/hrvatskauzivo/videos/1874913726078656/) , [the Welcome\! Initiative](http://welcome.cms.hr/index.php/hr/2017/01/22/sve-vise-izvjestaja-o-grubom-krsenju-prava-izbjeglica-u-hrvatskoj/) \), and articles and statements in [local](http://www.portalnovosti.com/ovo-je-pasji-zivot) and [foreign](http://www.dw.com/en/refugees-in-serbia-stranded-in-a-warehouse/a-37167779) media, refer to individual or collective illegal push backs of refugees who were found on Croatian territory and/or expressed their intention to seek international protection in the Republic of Croatia\.

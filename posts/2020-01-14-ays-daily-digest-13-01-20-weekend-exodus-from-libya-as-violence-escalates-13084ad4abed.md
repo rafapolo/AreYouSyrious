@@ -7,7 +7,7 @@ categories:
 tags: [refugees,digest,libya,greece,human-rights]
 description: Seawatch 3, with 119 People On Board, Denied Port of Safety///Greek Government Lost on Humanitarian Policy///French Strikes Hurting People…
 image:
-  path: assets/13084ad4abed/0*oxH5t48FLvkm4Ynf
+  path: ../assets/13084ad4abed/0*oxH5t48FLvkm4Ynf
 ---
 
 ### AYS Daily Digest 13/01/20 — Weekend Exodus from Libya as Violence Escalates
@@ -15,7 +15,7 @@ image:
 Seawatch 3, with 119 People On Board, Denied Port of Safety///Greek Government Lost on Humanitarian Policy///French Strikes Hurting People on the Move
 
 
-![People who were detained in Abu Salim protest the murder of two of their own Credit: [Sally Hayden](https://twitter.com/sallyhayd/status/1216373554029219840)](assets/13084ad4abed/0*oxH5t48FLvkm4Ynf)
+![People who were detained in Abu Salim protest the murder of two of their own Credit: [Sally Hayden](https://twitter.com/sallyhayd/status/1216373554029219840)](../assets/13084ad4abed/0*oxH5t48FLvkm4Ynf)
 
 People who were detained in Abu Salim protest the murder of two of their own Credit: [Sally Hayden](https://twitter.com/sallyhayd/status/1216373554029219840)
 ### Feature: Violence in Libya Causes Mass Exodus, Protests Over the Murder of Two Eritreans
@@ -50,7 +50,7 @@ Their friends and acquaintances, former Abu Salim detainees as well, organized a
 SAR
 
 
-![119 people wait on the Seawatch 3 for a safe port\. Photographer: Federico Scoppa](assets/13084ad4abed/0*J9PenBB18m_p2yhF)
+![119 people wait on the Seawatch 3 for a safe port\. Photographer: Federico Scoppa](../assets/13084ad4abed/0*J9PenBB18m_p2yhF)
 
 119 people wait on the Seawatch 3 for a safe port\. Photographer: Federico Scoppa
 

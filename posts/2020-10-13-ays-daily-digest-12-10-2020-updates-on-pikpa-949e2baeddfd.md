@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,greece,pikpa]
 description: Militia in Libya Holding 60 People on the Move Hostage///13 Bodies Found Off Tunisian Coast///Greek Migration Minister Talks About Seven…
 image:
-  path: assets/949e2baeddfd/0*JzNEkdJiflmeOBrz
+  path: ../assets/949e2baeddfd/0*JzNEkdJiflmeOBrz
 ---
 
 ### AYS Daily Digest 12/10/2020 — Updates on Pikpa
 #### Militia in Libya Holding 60 People on the Move Hostage///13 Bodies Found Off Tunisian Coast///Greek Migration Minister Talks About Seven Policy Changes, Neglects to Mention the Cruelty///& More
 
 
-![Photo Credit: [Dunya Collective](https://twitter.com/DunyaCollective/status/1315553231183978496/photo/)](assets/949e2baeddfd/0*JzNEkdJiflmeOBrz)
+![Photo Credit: [Dunya Collective](https://twitter.com/DunyaCollective/status/1315553231183978496/photo/)](../assets/949e2baeddfd/0*JzNEkdJiflmeOBrz)
 
 Photo Credit: [Dunya Collective](https://twitter.com/DunyaCollective/status/1315553231183978496/photo/)
 #### FEATURE
@@ -39,7 +39,7 @@ MSF notified the Libyan government after the abduction, but nothing concrete was
 And the pushbacks to Libya continue, despite even more evidence that the country is unsafe…
 
 
-![Maritime Update via [IOM Libya](https://www.facebook.com/IOMLibya/posts/1804177583076524)](assets/949e2baeddfd/0*6cg9o_xs6G0XC29-)
+![Maritime Update via [IOM Libya](https://www.facebook.com/IOMLibya/posts/1804177583076524)](../assets/949e2baeddfd/0*6cg9o_xs6G0XC29-)
 
 Maritime Update via [IOM Libya](https://www.facebook.com/IOMLibya/posts/1804177583076524)
 #### SEA
@@ -102,7 +102,7 @@ Finally, [here is a great story](https://wearesolomon.com/mag/community/bringing
 #### Tough Conditions for People Sleeping Outdoors
 
 
-![Photo credit: [Azil u Srbiji](https://twitter.com/APC_CZA/status/1315653037365616640/photo/1)](assets/949e2baeddfd/0*DDjZ2xEO61IgVy-J)
+![Photo credit: [Azil u Srbiji](https://twitter.com/APC_CZA/status/1315653037365616640/photo/1)](../assets/949e2baeddfd/0*DDjZ2xEO61IgVy-J)
 
 Photo credit: [Azil u Srbiji](https://twitter.com/APC_CZA/status/1315653037365616640/photo/1)
 

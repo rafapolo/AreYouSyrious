@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 30/6/20: EU, let the children reunite with family!
+title: "AYS Daily Digest 30/6/20: EU, let the children reunite with family!"
 author: Are You Syrious?
 date: 2020-07-01T14:13:49.414+0100
 last_modified_at: 2020-07-01T15:05:47.922+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,sweden,refugees,europe,human-rights]
 description: Dozens of people of sub-Saharan origin arrested and forcefully confined / Along the Balkan Route a surge in deaths by drowning / The UN…
 image:
-  path: assets/98290e6fc96f/1*ddraVHHLSROrMKYEK5TwMw.jpeg
+  path: ../assets/98290e6fc96f/1*ddraVHHLSROrMKYEK5TwMw.jpeg
 ---
 
 ### AYS Daily Digest 30/6/20: EU, let the children reunite with family\!
 #### Dozens of people of sub\-Saharan origin arrested and forcefully confined / Along the Balkan Route a surge in deaths by drowning / The UN urges Hungarian government to withdraw the act and bring its asylum system in line with international human rights laws and EU law / Sweden: Deportation of a girl whose family died in the Aegean once she turned 18 / & more news
 
 
-![Trieste, photo by: [Lorena Fornasir](https://www.facebook.com/lorena.fornasir?__tn__=%2Cd%2AF%2AF-R&eid=ARAS6KpOf7za5OLsHUTfN1orfadhaxlYyJ8s2Q4jHkntkKCVM_PbAaG8q4EjCuka4hJFzygLrv5QRbt0&tn-str=%2AF)](assets/98290e6fc96f/1*ddraVHHLSROrMKYEK5TwMw.jpeg)
+![Trieste, photo by: [Lorena Fornasir](https://www.facebook.com/lorena.fornasir?__tn__=%2Cd%2AF%2AF-R&eid=ARAS6KpOf7za5OLsHUTfN1orfadhaxlYyJ8s2Q4jHkntkKCVM_PbAaG8q4EjCuka4hJFzygLrv5QRbt0&tn-str=%2AF)](../assets/98290e6fc96f/1*ddraVHHLSROrMKYEK5TwMw.jpeg)
 
 Trieste, photo by: [Lorena Fornasir](https://www.facebook.com/lorena.fornasir?__tn__=%2Cd%2AF%2AF-R&eid=ARAS6KpOf7za5OLsHUTfN1orfadhaxlYyJ8s2Q4jHkntkKCVM_PbAaG8q4EjCuka4hJFzygLrv5QRbt0&tn-str=%2AF)
 #### FEATURED
@@ -112,7 +112,7 @@ We are relieved that the 47 people are not in distress anymore but were rescued 
 
 
 
-![](assets/98290e6fc96f/1*vatV1szOhlzhCWYaS5vqFw.jpeg)
+![](../assets/98290e6fc96f/1*vatV1szOhlzhCWYaS5vqFw.jpeg)
 
 
 Also, find UNHCR’s Aegean Islands Weekly Snapshot [here](https://data2.unhcr.org/en/documents/download/77379?fbclid=IwAR3AVzViiaE9FCUkPfhN86iFzSJcSlfC_Fv5jq78YTvZ_8cwMJy8od-fL-w) \.
@@ -178,7 +178,7 @@ Associations, including Utopia 56, ask the City Hall of Grande\-Synthe and the P
 Find more on this [here](http://www.utopia56.com/fr/actualite/grande-synthe-mairie-prefecture-doivent-retablir-garantir-acces-a-leau-lhygiene-pour?fbclid=IwAR1znhG20B8mK9XT2Ul4FllSBT7oFSglLfPzJ3sInF-16mI8phOLc4YUU7c) \.
 
 
-![[Care4Calais](https://www.facebook.com/care4calais/?__xts__%5B0%5D=68.ARBW_iKUpZd6KkU3Yrn_fVtBk6fGZ9frjMETql7GejcbpPPA8pnmW7EUqmVHtKiPMiEwIW6i_Xwi8Ha7WqvBeNaKe94JW80iR429j7uI_8msTqQNERxOLW3W9o4BOqhJi0NfMukjX_zt4SdR6HY5Cd0EPi2Omo7M25jckALLhkYgIAeolOc1a6ne_PT7ah2h1BsYiyjJ2u9wPss2qc1wpkLryw2QsOWl7tsphApccyGandTtC-a-2oPP-ETdjcQgtzIQ65Jl-gHcOGM69UGZj0vJpE4NWc6_d-qOi4f-f1hKamMI7lWSzyV0kIer-gGPhVVHNxPyiEx4APDadN4TWMhCDXLb&__tn__=k%2AF&tn-str=k%2AF) report on their work in the area: Because the guys are sleeping rough they rarely get to change their clothes, so jogging bottoms are great as they are much easier to hand\-wash than jeans\. “We need your support to continue distributing the clothes that refugees desperately need\. A new pair of joggers costs just £5\. If you can, please chip in at [care4calais\.org/donate](http://care4calais.org/donate?fbclid=IwAR1cF7ihwfVDdK5gc8JiOCLt55DHTRZLU81h3J-VGpfZhS8DTRj4zWk7xCg) ”](assets/98290e6fc96f/1*p3zIEmQyJDbRcR2YOblfnQ.jpeg)
+![[Care4Calais](https://www.facebook.com/care4calais/?__xts__%5B0%5D=68.ARBW_iKUpZd6KkU3Yrn_fVtBk6fGZ9frjMETql7GejcbpPPA8pnmW7EUqmVHtKiPMiEwIW6i_Xwi8Ha7WqvBeNaKe94JW80iR429j7uI_8msTqQNERxOLW3W9o4BOqhJi0NfMukjX_zt4SdR6HY5Cd0EPi2Omo7M25jckALLhkYgIAeolOc1a6ne_PT7ah2h1BsYiyjJ2u9wPss2qc1wpkLryw2QsOWl7tsphApccyGandTtC-a-2oPP-ETdjcQgtzIQ65Jl-gHcOGM69UGZj0vJpE4NWc6_d-qOi4f-f1hKamMI7lWSzyV0kIer-gGPhVVHNxPyiEx4APDadN4TWMhCDXLb&__tn__=k%2AF&tn-str=k%2AF) report on their work in the area: Because the guys are sleeping rough they rarely get to change their clothes, so jogging bottoms are great as they are much easier to hand\-wash than jeans\. “We need your support to continue distributing the clothes that refugees desperately need\. A new pair of joggers costs just £5\. If you can, please chip in at [care4calais\.org/donate](http://care4calais.org/donate?fbclid=IwAR1cF7ihwfVDdK5gc8JiOCLt55DHTRZLU81h3J-VGpfZhS8DTRj4zWk7xCg) ”](../assets/98290e6fc96f/1*p3zIEmQyJDbRcR2YOblfnQ.jpeg)
 
 [Care4Calais](https://www.facebook.com/care4calais/?__xts__%5B0%5D=68.ARBW_iKUpZd6KkU3Yrn_fVtBk6fGZ9frjMETql7GejcbpPPA8pnmW7EUqmVHtKiPMiEwIW6i_Xwi8Ha7WqvBeNaKe94JW80iR429j7uI_8msTqQNERxOLW3W9o4BOqhJi0NfMukjX_zt4SdR6HY5Cd0EPi2Omo7M25jckALLhkYgIAeolOc1a6ne_PT7ah2h1BsYiyjJ2u9wPss2qc1wpkLryw2QsOWl7tsphApccyGandTtC-a-2oPP-ETdjcQgtzIQ65Jl-gHcOGM69UGZj0vJpE4NWc6_d-qOi4f-f1hKamMI7lWSzyV0kIer-gGPhVVHNxPyiEx4APDadN4TWMhCDXLb&__tn__=k%2AF&tn-str=k%2AF) report on their work in the area: Because the guys are sleeping rough they rarely get to change their clothes, so jogging bottoms are great as they are much easier to hand\-wash than jeans\. “We need your support to continue distributing the clothes that refugees desperately need\. A new pair of joggers costs just £5\. If you can, please chip in at [care4calais\.org/donate](http://care4calais.org/donate?fbclid=IwAR1cF7ihwfVDdK5gc8JiOCLt55DHTRZLU81h3J-VGpfZhS8DTRj4zWk7xCg) ”
 ### Paris
@@ -205,16 +205,16 @@ She reported:
 
 
 
-![](assets/98290e6fc96f/1*bMTHj9B0ome49zkDOJb_uA.jpeg)
+![](../assets/98290e6fc96f/1*bMTHj9B0ome49zkDOJb_uA.jpeg)
 
 
 
-![Photos: [Danika Jurisic](https://www.facebook.com/profile.php?id=100009499466124&__tn__=%2Cd%2AF%2AF-R&eid=ARB32ctZ3bOp4OrDaJ_pZirri8lMGWAJ96yoe90hdtxAfhCToWSNF8zVXywt5W4xqR9RBoadHAbfCDP-&tn-str=%2AF) — contact her if you can lend a hand, donate or help in any other way \(connect people to legal aid workers etc\)](assets/98290e6fc96f/1*ZG8NbDlkHRNQ7VeINQ8q-g.jpeg)
+![Photos: [Danika Jurisic](https://www.facebook.com/profile.php?id=100009499466124&__tn__=%2Cd%2AF%2AF-R&eid=ARB32ctZ3bOp4OrDaJ_pZirri8lMGWAJ96yoe90hdtxAfhCToWSNF8zVXywt5W4xqR9RBoadHAbfCDP-&tn-str=%2AF) — contact her if you can lend a hand, donate or help in any other way \(connect people to legal aid workers etc\)](../assets/98290e6fc96f/1*ZG8NbDlkHRNQ7VeINQ8q-g.jpeg)
 
 Photos: [Danika Jurisic](https://www.facebook.com/profile.php?id=100009499466124&__tn__=%2Cd%2AF%2AF-R&eid=ARB32ctZ3bOp4OrDaJ_pZirri8lMGWAJ96yoe90hdtxAfhCToWSNF8zVXywt5W4xqR9RBoadHAbfCDP-&tn-str=%2AF) — contact her if you can lend a hand, donate or help in any other way \(connect people to legal aid workers etc\)
 
 
-![](assets/98290e6fc96f/1*36cpSqpV9Qh1MinXp3WI2A.jpeg)
+![](../assets/98290e6fc96f/1*36cpSqpV9Qh1MinXp3WI2A.jpeg)
 
 ### “Stop the confinement of undocumented migrants”: mobilization against the reopening of the Rennes detention center
 

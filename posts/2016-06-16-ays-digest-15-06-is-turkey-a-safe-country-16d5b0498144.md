@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,migration]
 description: WatchTheMed reports an illegal pushback of refugees to Turkey. EU tries to bury report that is likely to say Turkey is unfit for asylum…
 image:
-  path: assets/16d5b0498144/0*UVNNGHAE2aG3FWNt.
+  path: ../assets/16d5b0498144/0*UVNNGHAE2aG3FWNt.
 ---
 
 ### AYS Digest 15/06 — Is Turkey a safe country for refugees?
 #### WatchTheMed reports an illegal pushback of refugees to Turkey\. EU tries to bury report that is likely to say Turkey is unfit for asylum seekers\. Asylum\-seekers challenge EU\-Turkey deal in court\. Supplies needed in Calais and London\-Calais convoy starts this Saturday\.
 
 
-![Photography workshop for children in Izmir\. Photo by Marta Vidal](assets/16d5b0498144/0*UVNNGHAE2aG3FWNt.)
+![Photography workshop for children in Izmir\. Photo by Marta Vidal](../assets/16d5b0498144/0*UVNNGHAE2aG3FWNt.)
 
 Photography workshop for children in Izmir\. Photo by Marta Vidal
 #### Latest
@@ -50,7 +50,7 @@ Die Zeit says that 800 refugees were granted asylum in the past few weeks in Gre
 According to AYS volunteers on site, yesterday UNHCR was able to register 1,568 refugees in only three hours in a “good atmosphere”, and plans on registering the rest today\. One refugee however said that problems could arise once people who are not in the camp but are accommodated nearby start arriving\. UNHCR has allegedly requested that families accommodated nearby come the camp this morning \(16\.6\.2016\. \), as registration is almost complete and should end at 15:00\.
 
 
-![Pre\-registration in Cherso\. Photo by Azra Ayyash](assets/16d5b0498144/0*v1w0PbOcup7fifHy.)
+![Pre\-registration in Cherso\. Photo by Azra Ayyash](../assets/16d5b0498144/0*v1w0PbOcup7fifHy.)
 
 Pre\-registration in Cherso\. Photo by Azra Ayyash
 ### Update on BP and Hara
@@ -58,7 +58,7 @@ Pre\-registration in Cherso\. Photo by Azra Ayyash
 BP station and Hara are now empty, but allegedly some people are hiding in the surrounding area as they are unwilling to go to official camps\. Some people who were evicted from BP and Hara and moved to the official Vasilika camp have apparently moved back and installed new independent camps near BP station\. A coordinator for ‘Mums without borders’ says many kids and pregnant women were at Eko station and are now in camps with bad living conditions\.
 
 
-![](assets/16d5b0498144/0*CnPno2MJTfnPWqM0.)
+![](../assets/16d5b0498144/0*CnPno2MJTfnPWqM0.)
 
 ### Hope Centre Elpis forced to close
 
@@ -68,7 +68,7 @@ The Licensing Committee in Lesvos has forbidden the Elpis Hotel site to be used 
 [Refugee Rescue](http://www.refugeerescue.co.uk/) is looking for experienced sea rescue, skipper and life guard crew in Lesvos\. In addition, you can find volunteering opportunities all across Grecce on [http://greecevol\.info/](http://greecevol.info/) \.
 
 
-![The first joint art exhibition between Samos Academy and the Greek Committee for International Detente and Peace allowed children living in the camps and children from local schools to show their art\. Photo by Samos Volunteers\.](assets/16d5b0498144/0*qF2hGfFdvM7FI8ie.)
+![The first joint art exhibition between Samos Academy and the Greek Committee for International Detente and Peace allowed children living in the camps and children from local schools to show their art\. Photo by Samos Volunteers\.](../assets/16d5b0498144/0*qF2hGfFdvM7FI8ie.)
 
 The first joint art exhibition between Samos Academy and the Greek Committee for International Detente and Peace allowed children living in the camps and children from local schools to show their art\. Photo by Samos Volunteers\.
 #### Serbia
@@ -77,7 +77,7 @@ The first joint art exhibition between Samos Academy and the Greek Committee for
 Funds are needed to support Refugee Aid Serbia in its distribution of warm meals and other items\. The group says “the amount of people is the same, the need is the same, nothing is changing”\.
 
 
-![Photo by Refugee Aid Serbia](assets/16d5b0498144/0*B_1vmD28bim92xy4.)
+![Photo by Refugee Aid Serbia](../assets/16d5b0498144/0*B_1vmD28bim92xy4.)
 
 Photo by Refugee Aid Serbia
 ### 1,800 refugees in transit
@@ -104,12 +104,12 @@ Supplies are urgently needed\. You can check out the full list on [Calaidipedia]
 A convoy to help the refugees in Calais is planned on the 18th of June\. The convoy will provide material help but will also be a huge demonstration of solidarity with refugees\. To help, you can drop off aid donations, join the convoy with you own mode of transportation or collect money yourself\. More information is available [here](http://www.convoytocalais.org/) \.
 
 
-![Reconstruction of the Sudanese tent after the recent fires\. Photo by Clara Moseley](assets/16d5b0498144/0*QlKx5cEWVqMn9RD7.)
+![Reconstruction of the Sudanese tent after the recent fires\. Photo by Clara Moseley](../assets/16d5b0498144/0*QlKx5cEWVqMn9RD7.)
 
 Reconstruction of the Sudanese tent after the recent fires\. Photo by Clara Moseley
 
 
-![The tent was rebuilt in five days and now includes a separate kitchen and a rat proof food storage area\. Photo by Clara Moseley](assets/16d5b0498144/0*JCvuBlTMShavRUdy.)
+![The tent was rebuilt in five days and now includes a separate kitchen and a rat proof food storage area\. Photo by Clara Moseley](../assets/16d5b0498144/0*JCvuBlTMShavRUdy.)
 
 The tent was rebuilt in five days and now includes a separate kitchen and a rat proof food storage area\. Photo by Clara Moseley
 

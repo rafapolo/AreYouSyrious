@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 24/10/2019: Proposed legislation further endangers people in Greece
+title: "AYS DAILY DIGEST 24/10/2019: Proposed legislation further endangers people in Greece"
 author: Are You Syrious?
 date: 2019-10-25T11:26:04.325+0100
 last_modified_at: 2019-10-25T13:12:06.434+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,asylum,bosnia,digest,human-rights]
 description: Grassroots support in Tuzla, Bosnia // Increased collaboration between Italy and Libya
 image:
-  path: assets/1f627e60e0c4/1*qPZ_S2MmK226_MHAT6ixKw.jpeg
+  path: ../assets/1f627e60e0c4/1*qPZ_S2MmK226_MHAT6ixKw.jpeg
 ---
 
 ### AYS DAILY DIGEST 24/10/2019: Proposed legislation further endangers people in Greece
@@ -37,7 +37,7 @@ All of the children are unaccompanied minors currently in squalid island camps a
 Tuzla Volunteers in partnership with Merhamet continue to feed the hundreds of people passing through or waiting\. Volunteers stated that authorities showed up for a brief period to “survey” the situation, but did nothing of substance\.
 
 
-![Photo Credit: Tuzlanski Volonteri](assets/1f627e60e0c4/1*qPZ_S2MmK226_MHAT6ixKw.jpeg)
+![Photo Credit: Tuzlanski Volonteri](../assets/1f627e60e0c4/1*qPZ_S2MmK226_MHAT6ixKw.jpeg)
 
 Photo Credit: Tuzlanski Volonteri
 

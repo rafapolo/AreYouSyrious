@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 18/02/22: Two men thrown overboard by Hellenic coastguard and drowned highlight a…
+title: "AYS News Digest 18/02/22: Two men thrown overboard by Hellenic coastguard and drowned highlight a…"
 author: Are You Syrious?
 date: 2022-02-19T14:25:14.103+0000
 last_modified_at: 2022-02-19T15:56:28.340+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,greece,refugees,afghanistan,borders]
 description: Frontex to assist in Cypriot deportations / Inhabitants of Białowieża Forest denounce a “lawless zone” / Afghans facing destitution and…
 image:
-  path: assets/228ca567c017/1*Hf7452b08UnXCyQk5XP1SQ.jpeg
+  path: ../assets/228ca567c017/1*Hf7452b08UnXCyQk5XP1SQ.jpeg
 ---
 
 ### AYS News Digest 18/02/22: Two men thrown overboard by Hellenic coastguard and drowned highlight a new brutal pushback practice
 #### **Frontex to assist in Cypriot deportations / Inhabitants of Białowieża Forest denounce a “lawless zone” / Afghans facing destitution and uncertainty / News and recommended reads from our Info Team members**
 
 
-![The stormy Aegean sea, with Turkey on the horizon](assets/228ca567c017/1*Hf7452b08UnXCyQk5XP1SQ.jpeg)
+![The stormy Aegean sea, with Turkey on the horizon](../assets/228ca567c017/1*Hf7452b08UnXCyQk5XP1SQ.jpeg)
 
 The stormy Aegean sea, with Turkey on the horizon
 ### **FEATURE**

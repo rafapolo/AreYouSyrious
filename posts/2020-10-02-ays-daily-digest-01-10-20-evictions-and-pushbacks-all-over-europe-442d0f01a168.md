@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest: 01/10/20: Evictions and pushbacks all over Europe
+title: "AYS Daily Digest: 01/10/20: Evictions and pushbacks all over Europe"
 author: Are You Syrious?
 date: 2020-10-02T19:04:02.317+0100
 last_modified_at: 2020-10-02T19:04:02.317+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: []
 description: Eviction of the official UN-run Bira camp in BiH // Illegal eviction of unofficial camp in Calais // Pushback from Spanish islet to…
 image:
-  path: assets/442d0f01a168/0*2_HEnfa0mbezbiMJ.jpeg
+  path: ../assets/442d0f01a168/0*2_HEnfa0mbezbiMJ.jpeg
 ---
 
 ### AYS Daily Digest: 01/10/20: Evictions and pushbacks all over Europe
@@ -18,7 +18,7 @@ image:
 [Oct 2](ays-daily-digest-01-10-20-evictions-everywhere-5d8eaf67d294?source=post_page-----5d8eaf67d294--------------------------------) · 13 min read
 
 
-![](assets/442d0f01a168/0*2_HEnfa0mbezbiMJ.jpeg)
+![](../assets/442d0f01a168/0*2_HEnfa0mbezbiMJ.jpeg)
 
 
 Large\-scale eviction in Calais on September 29\. Copyright: Human Rights Observers
@@ -231,11 +231,11 @@ Regardless, an eviction would have to be announced in advance, which did not hap
 On Saturday, a protest march of migrants, Calais residents, and volunteers set off from the now evicted area next to the hospital and made its way in the pouring rain to the city centre\. The participants protested against the Council of States’ decision not to suspend a prefectural decree from 11 September that prohibits humanitarian aid workers from distributing food to migrants in the city centre\.
 
 
-![](assets/442d0f01a168/0*JOImIz8HWriYG2D9)
+![](../assets/442d0f01a168/0*JOImIz8HWriYG2D9)
 
 
 
-![](assets/442d0f01a168/0*fco1Tgw7S28DyoNm.jpeg)
+![](../assets/442d0f01a168/0*fco1Tgw7S28DyoNm.jpeg)
 
 
 from Saturday’s demonstration, Copyright: enough14

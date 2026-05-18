@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 28/01/2017: The events of today are so absurd that it is hard to believe this day…
+title: "AYS DAILY DIGEST 28/01/2017: The events of today are so absurd that it is hard to believe this day…"
 author: Are You Syrious?
 date: 2017-01-28T23:55:21.970+0000
 last_modified_at: 2017-01-29T00:51:43.268+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,trump-order,paris,italy]
 description: Five refugees died on European soil during this week // No cash cards for people in squats in Athens // Streets of Paris covered with…
 image:
-  path: assets/9ec774f14e22/1*RuKBXfyy76DMy_9i-Fe-xw.jpeg
+  path: ../assets/9ec774f14e22/1*RuKBXfyy76DMy_9i-Fe-xw.jpeg
 ---
 
 ### AYS DAILY DIGEST 28/01/2017: The events of today are so absurd that it is hard to believe this day ever really happened
@@ -15,7 +15,7 @@ image:
 _Five refugees died on European soil during this week // No cash cards for people in squats in Athens // Streets of Paris covered with homeless refugees // Some of the EU member states plans to tighten their already very tight borders // Help is needed in Italy, Serbia and France // Solidarity needed all over the world_
 
 
-![“Bombing our country, Earning money by selling your guns, Destroying our houses, killing our families\. and after all of that, closing your borders in front of us\. Who is the real terrorists?” By Abdulazez Dukhan](assets/9ec774f14e22/1*RuKBXfyy76DMy_9i-Fe-xw.jpeg)
+![“Bombing our country, Earning money by selling your guns, Destroying our houses, killing our families\. and after all of that, closing your borders in front of us\. Who is the real terrorists?” By Abdulazez Dukhan](../assets/9ec774f14e22/1*RuKBXfyy76DMy_9i-Fe-xw.jpeg)
 
 “Bombing our country, Earning money by selling your guns, Destroying our houses, killing our families\. and after all of that, closing your borders in front of us\. Who is the real terrorists?” By Abdulazez Dukhan
 ### Greece
@@ -46,7 +46,7 @@ According to volunteers info, the cash card amount depends on the household size
 The situation is not much better in Italy, another EU member country where only on this Friday, around one thousand \(1000\) people arrived after being rescued from the sea\. One dead body was recovered, the Italian coastguard told the media\.
 
 
-![Photo MSF Sea Kevin McElvaney](assets/9ec774f14e22/1*KZkxvlm7o_wzaQiADHziHw.jpeg)
+![Photo MSF Sea Kevin McElvaney](../assets/9ec774f14e22/1*KZkxvlm7o_wzaQiADHziHw.jpeg)
 
 Photo MSF Sea Kevin McElvaney
 
@@ -57,7 +57,7 @@ Volunteers are reporting from different Italian cities claiming that people are 
 Meanwhile, group of activist tried to draw attention to this protesting and saying that nobody deserves to sleep on the street\.
 
 
-![By [Rete Solidale Pordenone](https://www.facebook.com/retesolidalepn/)](assets/9ec774f14e22/1*rTwXIYYxc_Mso1mSd73T6g.jpeg)
+![By [Rete Solidale Pordenone](https://www.facebook.com/retesolidalepn/)](../assets/9ec774f14e22/1*rTwXIYYxc_Mso1mSd73T6g.jpeg)
 
 By [Rete Solidale Pordenone](https://www.facebook.com/retesolidalepn/)
 ### Serbia
@@ -66,7 +66,7 @@ By [Rete Solidale Pordenone](https://www.facebook.com/retesolidalepn/)
 Despite all the media attention and appeals, people are still out in the open in Serbia, among them children not older than 12 years\. We are receiving calls for help from Belgrade, but also from Subotica where people are waiting and hoping to cross to the EU\.
 
 
-![Photo [John Refugee\.](https://www.facebook.com/John-refugee-747163385440090/)](assets/9ec774f14e22/1*WNOyn0jjEBUkiAUAVbyEqQ.jpeg)
+![Photo [John Refugee\.](https://www.facebook.com/John-refugee-747163385440090/)](../assets/9ec774f14e22/1*WNOyn0jjEBUkiAUAVbyEqQ.jpeg)
 
 Photo [John Refugee\.](https://www.facebook.com/John-refugee-747163385440090/)
 
@@ -97,7 +97,7 @@ The EU allowed Austria, Germany, Denmark, Sweden and Norway to continue the curr
 However, citizens are much better than the governments\. Today in Cologne, hundreds marched against ongoing deportations of people from Afghanistan saying what everybody knows — it is not the safe country\.
 
 
-![Photo by [Forum Afghanischer Migraten](https://www.facebook.com/Forum-afghanischer-Migranten-193026784462210/)](assets/9ec774f14e22/1*qtVzXY0zrStMzrZwNQXv5g.jpeg)
+![Photo by [Forum Afghanischer Migraten](https://www.facebook.com/Forum-afghanischer-Migranten-193026784462210/)](../assets/9ec774f14e22/1*qtVzXY0zrStMzrZwNQXv5g.jpeg)
 
 Photo by [Forum Afghanischer Migraten](https://www.facebook.com/Forum-afghanischer-Migranten-193026784462210/)
 ### France
@@ -108,7 +108,7 @@ While tourists are taking pictures under the Eiffel Tower, down the road, about 
 _“I saw designer shops and people lining in fancy outfits waiting for theater and then people queuing many days out in the cold for a chance at life to get into a ‘Humanitarian Centre’?,”_ volunteers are reporting\. _“We are here to do our bit to provide comfort and support to refugees in Paris\. They’ve crossed oceans and mountains only to find a society that didn’t want them\.”_
 
 
-![Photo by Refugee Biriyani and Bananas team\.](assets/9ec774f14e22/1*_ynZ4-FMQZOF8mXclWrzDw.jpeg)
+![Photo by Refugee Biriyani and Bananas team\.](../assets/9ec774f14e22/1*_ynZ4-FMQZOF8mXclWrzDw.jpeg)
 
 Photo by Refugee Biriyani and Bananas team\.
 
@@ -125,7 +125,7 @@ And finally, the most absurd information of the day: the new president closed th
 _“We don’t want them here,”_ US president simplified his decision\. _“We want to ensure that we are not admitting into our country the very threats our soldiers are fighting overseas,”_ he said reminding of the important fact that in some of the countries where people who are banned are coming from, there are US soldiers fighting for years\. Those countries are Iraq, Syria, Iran, Sudan, Libya, Somalia, and Yemen\.
 
 
-![](assets/9ec774f14e22/1*Ddryw7p8DOxJbgMIIw3S9A.jpeg)
+![](../assets/9ec774f14e22/1*Ddryw7p8DOxJbgMIIw3S9A.jpeg)
 
 
 At the beginning, it was believed that the ban will affect only refugees, but people are being detained at the airports including students and those who live for a very long time in the US\. Human rights groups are claiming that some legal permanent residents who hold green cards were being stopped as they sought to return\.

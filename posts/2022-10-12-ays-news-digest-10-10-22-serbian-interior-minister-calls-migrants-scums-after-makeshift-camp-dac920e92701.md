@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 10/10/22: Serbian Interior Minister calls migrants ‘scum’ after makeshift camp…
+title: "AYS News Digest 10/10/22: Serbian Interior Minister calls migrants ‘scum’ after makeshift camp…"
 author: Are You Syrious?
 date: 2022-10-12T23:18:51.747+0100
 last_modified_at: 2022-10-13T11:13:27.023+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,frontex,serbia,greece,european-union]
 description: Greece has called for Turkey to stop allowing asylum seekers to depart from Turkish shores/15 bodies found on a beach in Libya after an…
 image:
-  path: assets/dac920e92701/1*Oow-1diGDNzdZAYKuGXs0w.png
+  path: ../assets/dac920e92701/1*Oow-1diGDNzdZAYKuGXs0w.png
 ---
 
 ### AYS News Digest 10/10/22: Serbian Interior Minister calls migrants ‘scum’ after makeshift camp raids
@@ -15,7 +15,7 @@ image:
 Greece has called for Turkey to stop allowing asylum seekers to depart from Turkish shores/15 bodies found on a beach in Libya after an altercation between two trafficking gangs/Sea Watch International reports on a boat carrying 50 people pulled back to Libya/ No Borders Team on Tour — Fight Fortress Europe/Front\-Lex takes FRONTEX to court/Information on travel documents for Refugees in Greece/Serbia’s interior minister, Aleksandar Vulin, has referred to migrants as ‘scum’/and much more…
 
 
-![Serbian special police raided a camp on the banks of the Tisza River near the Hungarian border on Wednesday, October 5 \| Source: Screenshot YouTube Serbian Interior Ministry \(InfoMigrants\)](assets/dac920e92701/1*Oow-1diGDNzdZAYKuGXs0w.png)
+![Serbian special police raided a camp on the banks of the Tisza River near the Hungarian border on Wednesday, October 5 \| Source: Screenshot YouTube Serbian Interior Ministry \(InfoMigrants\)](../assets/dac920e92701/1*Oow-1diGDNzdZAYKuGXs0w.png)
 
 Serbian special police raided a camp on the banks of the Tisza River near the Hungarian border on Wednesday, October 5 \| Source: Screenshot YouTube Serbian Interior Ministry \(InfoMigrants\)
 #### FRONTEX
@@ -78,7 +78,7 @@ There is obviously no mention of Greece’s role in the high death rates in the 
 He has vowed to crack down on smugglers as he visited a makeshift camp near the Hungarian border\. He posted a video of police raiding a makeshift camp near the Hungarian border\.
 
 
-[![Ministar Vulin prisustvovao akciji sprečavanja krijumčarenja iregularnih migranata](assets/dac920e92701/c326_hqdefault.jpg "Ministar Vulin prisustvovao akciji sprečavanja krijumčarenja iregularnih migranata")](https://www.youtube.com/watch?v=WX3aaHCgjsI)
+[![Ministar Vulin prisustvovao akciji sprečavanja krijumčarenja iregularnih migranata](../assets/dac920e92701/c326_hqdefault.jpg "Ministar Vulin prisustvovao akciji sprečavanja krijumčarenja iregularnih migranata")](https://www.youtube.com/watch?v=WX3aaHCgjsI)
 
 
 The video shows mobile phones and cash being siezed, despite the Minister claiming they had siezed weapons\.
@@ -181,7 +181,7 @@ Most of the group had been burned in a charred boat, which the UN mission in Lib
 [The individuals had been shot after an altercation between two rival trafficking gangs](https://www.infomigrants.net/en/post/43870/heinous-killing-of-migrants-in-libya?fbclid=IwAR3kuiPq1g1uxixF5OOqk_ztShGVMiExcCZM7mXinhraknsUSINMXW0Ihsk) \. The boat was then set on fire\.
 
 
-![_Authorities reportedly discovered the bodies of 15 migrants, many in a charred boat, on a beach at Sabratha early on Friday, October 7 \| Source: Twitter \(@RefugeesinLibya\)_](assets/dac920e92701/0*Endh20rgwoxlsOp1.png)
+![_Authorities reportedly discovered the bodies of 15 migrants, many in a charred boat, on a beach at Sabratha early on Friday, October 7 \| Source: Twitter \(@RefugeesinLibya\)_](../assets/dac920e92701/0*Endh20rgwoxlsOp1.png)
 
 _Authorities reportedly discovered the bodies of 15 migrants, many in a charred boat, on a beach at Sabratha early on Friday, October 7 \| Source: Twitter \(@RefugeesinLibya\)_
 ### Sea Watch International reports on a boat carrying 50 people pulled back to Libya
@@ -212,7 +212,7 @@ The situation became critical onboard, as passengers became more and more distre
 The ship ended up trying to disembark at a port without permission\. They luckily received permission as they were arriving at the port\.
 
 
-![Source: The Civil Fleet](assets/dac920e92701/0*LqbvcZ26D48H62zQ)
+![Source: The Civil Fleet](../assets/dac920e92701/0*LqbvcZ26D48H62zQ)
 
 Source: The Civil Fleet
 

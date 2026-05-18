@@ -1,13 +1,13 @@
 ---
-title: AYS Daily Digest: 15.04.21 — Greece, where has all the money gone?
+title: "AYS Daily Digest: 15.04.21 — Greece, where has all the money gone?"
 author: Are You Syrious?
 date: 2021-04-16T16:10:14.508+0100
 last_modified_at: 2021-04-16T16:10:14.508+0100
 categories: Are You Syrious?
 tags: [digest,corruption,madina,calais,refugees]
-description: Greece: People face homelessness upon transfer from the islands. Croatia: No Justice for Madina. UK: New report on the barbarism of the HO
+description: "Greece: People face homelessness upon transfer from the islands. Croatia: No Justice for Madina. UK: New report on the barbarism of the HO"
 image:
-  path: assets/9746460bc391/1*B3Fl7tqhBoCTj6P0Rzhsag.jpeg
+  path: ../assets/9746460bc391/1*B3Fl7tqhBoCTj6P0Rzhsag.jpeg
 ---
 
 ### AYS Daily Digest: 15/04/21 — Greece: Where has all the money gone?
@@ -15,7 +15,7 @@ image:
 People face homelessness on the Greek mainland upon transfer from the islands\. Croatia: No Justice for Madina Hosseini\. New report on the barbarism of the UK Home Office
 
 
-![Photo by [Sea Watch International](https://twitter.com/seawatch_intl/status/1382738260309475345/photo/1) , read the story in the digest](assets/9746460bc391/1*B3Fl7tqhBoCTj6P0Rzhsag.jpeg)
+![Photo by [Sea Watch International](https://twitter.com/seawatch_intl/status/1382738260309475345/photo/1) , read the story in the digest](../assets/9746460bc391/1*B3Fl7tqhBoCTj6P0Rzhsag.jpeg)
 
 Photo by [Sea Watch International](https://twitter.com/seawatch_intl/status/1382738260309475345/photo/1) , read the story in the digest
 #### FEATURED: WHERE HAS ALL THE MONEY GONE?

@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 24/6/22: Deaths at the border with Spain
+title: "AYS News Digest 24/6/22: Deaths at the border with Spain"
 author: Are You Syrious?
 date: 2022-06-25T13:14:42.477+0100
 last_modified_at: 2022-06-25T21:07:15.462+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,spain,africa,europe]
 description: The situation of foreigners in guarded centres in the time of crisis on the border between Poland and Belarus / A briefing on pushbacks…
 image:
-  path: assets/44683109e846/0*7wSqc7AT83VXLK-3
+  path: ../assets/44683109e846/0*7wSqc7AT83VXLK-3
 ---
 
 ### AYS News Digest 24/6/22: Deaths at the border with Spain
 #### The situation of foreigners in guarded centres in the time of crisis on the border between Poland and Belarus / A briefing on pushbacks submitted to LIBE Committee / Urgent support needed in Afghanistan / a former RNLI lifeboat is prevented by the British coast guard from saving people in the Mediterranean / recommended reads, reports and personal accounts
 
 
-![Morroco — a photo by [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?__cft__[0]=AZXFvR6DuFKfaypAyjqfBXco7EDd6NQJ7qziBvjyMzDvh97HGRR_VV36L9sfvv_bd0kAzNksWzgnMb8kxjgdUTQ9DPjdqAdjtehjpQPh5P2N_lLjvwNyQjwGcQ9yDYmeqEPbasDXg-ksp5Jei3TIjKEnK3YRGhSk4wUpL9aWJlb1He-M5v1v4yigva4dRviaDY4&__tn__=-UC%2CP-R)](assets/44683109e846/0*7wSqc7AT83VXLK-3)
+![Morroco — a photo by [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?__cft__[0]=AZXFvR6DuFKfaypAyjqfBXco7EDd6NQJ7qziBvjyMzDvh97HGRR_VV36L9sfvv_bd0kAzNksWzgnMb8kxjgdUTQ9DPjdqAdjtehjpQPh5P2N_lLjvwNyQjwGcQ9yDYmeqEPbasDXg-ksp5Jei3TIjKEnK3YRGhSk4wUpL9aWJlb1He-M5v1v4yigva4dRviaDY4&__tn__=-UC%2CP-R)](../assets/44683109e846/0*7wSqc7AT83VXLK-3)
 
 Morroco — a photo by [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?__cft__[0]=AZXFvR6DuFKfaypAyjqfBXco7EDd6NQJ7qziBvjyMzDvh97HGRR_VV36L9sfvv_bd0kAzNksWzgnMb8kxjgdUTQ9DPjdqAdjtehjpQPh5P2N_lLjvwNyQjwGcQ9yDYmeqEPbasDXg-ksp5Jei3TIjKEnK3YRGhSk4wUpL9aWJlb1He-M5v1v4yigva4dRviaDY4&__tn__=-UC%2CP-R)
 

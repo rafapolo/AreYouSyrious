@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 02/11/2018: For refugees, mental health care access is crucial
+title: "AYS Daily Digest 02/11/2018: For refugees, mental health care access is crucial"
 author: Are You Syrious?
 date: 2018-11-03T12:43:06.896+0000
 last_modified_at: 2018-11-03T19:22:00.660+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [newsletter,refugees,bosnia,mental-health]
 description: Chaos in Idlib Province // Nearly 100,000 people have made the crossing to Europe this year // Refugee children’s access to school //…
 image:
-  path: assets/60f9b2c16916/1*b0yniftivL_8n6tRlQcaqg.jpeg
+  path: ../assets/60f9b2c16916/1*b0yniftivL_8n6tRlQcaqg.jpeg
 ---
 
 ### AYS Daily Digest 02/11/2018: For refugees, mental health care access is crucial
@@ -15,7 +15,7 @@ image:
 _Chaos in Idlib Province // Nearly 100,000 people have made the crossing to Europe this year // Refugee children’s access to school // Solidarity rally at Petrou Ralli Detention Center // New and informal camps in Bosnia // Storm devastates Roman encampment // Reunited in Belgium, against all odds //_
 
 
-![La Pietà\. Source: [Gabriel Tizon\.](https://www.facebook.com/gabrieltizonfotografo/photos/a.213760148669815/1957770030935476/?type=3&theater&ifg=1)](assets/60f9b2c16916/1*b0yniftivL_8n6tRlQcaqg.jpeg)
+![La Pietà\. Source: [Gabriel Tizon\.](https://www.facebook.com/gabrieltizonfotografo/photos/a.213760148669815/1957770030935476/?type=3&theater&ifg=1)](../assets/60f9b2c16916/1*b0yniftivL_8n6tRlQcaqg.jpeg)
 
 La Pietà\. Source: [Gabriel Tizon\.](https://www.facebook.com/gabrieltizonfotografo/photos/a.213760148669815/1957770030935476/?type=3&theater&ifg=1)
 ### Feature —
@@ -75,7 +75,7 @@ He also notes the lack of proper food and registration procedures in the detenti
 ### Sea
 
 
-![A map of arrivals to Europe this year, and the dead left behind\. Source: IOM\.](assets/60f9b2c16916/1*qaMs-_6heiP1bg9iI94keg.jpeg)
+![A map of arrivals to Europe this year, and the dead left behind\. Source: IOM\.](../assets/60f9b2c16916/1*qaMs-_6heiP1bg9iI94keg.jpeg)
 
 A map of arrivals to Europe this year, and the dead left behind\. Source: IOM\.
 
@@ -104,7 +104,7 @@ IOM has released a new [survey](http://www.iom.int/news/access-school-aids-socia
 On the Greek islands, the educational situation is particularly dire\. The isolation of the hotspots — combined with a lack of public transportation and [local hostility](http://www.ekathimerini.com/233298/article/ekathimerini/news/chios-parents-oppose-refugee-kids-at-school) to the idea — makes it nearly impossible for refugees to attend school\. Action for Education, the only independent educational organization on Chios and the reason that countless refugee children and young adults have been able to attend school while stuck on the island, has launched its 2019 fundraising campaign\. “For as long as it’s needed, we are fighting day after day to uphold the rights and dignity of youth, as they arrive into terrible conditions and abysmal camps in Europe,” they write\. Find out more about the campaign [here](https://www.facebook.com/ActionforEdu/posts/777141519298566) , and please consider donating if you have the money\.
 
 
-![A man holds his refugee identification, or “white card\.” Source: Mobile Info Team](assets/60f9b2c16916/1*gU28FqiXmh9rdN06LRS8nw.jpeg)
+![A man holds his refugee identification, or “white card\.” Source: Mobile Info Team](../assets/60f9b2c16916/1*gU28FqiXmh9rdN06LRS8nw.jpeg)
 
 A man holds his refugee identification, or “white card\.” Source: Mobile Info Team
 
@@ -118,18 +118,18 @@ This Saturday, November 3, there will be a rally held starting at 4pm at the Pet
 As we reported previously, a new camp is open near Sarajevo, in Ušivak\. Even though it opened just last week, there are already over 450 people living inside, which means it is now full capacity\. Many more are still in the streets of Sarajevo\.
 
 
-![](assets/60f9b2c16916/1*UTOK_p5u0AMQf1wVPU9yXw.jpeg)
+![](../assets/60f9b2c16916/1*UTOK_p5u0AMQf1wVPU9yXw.jpeg)
 
 
 
-![Photos from the informal camp in Trnovi\. Source: [Refugees in Velika Kladusa\.](https://www.facebook.com/izbjeglickeprice/photos/pcb.716597715386993/716595695387195/?type=3&theater)](assets/60f9b2c16916/1*yc-wDk5cZIOkziFttyQ0IA.jpeg)
+![Photos from the informal camp in Trnovi\. Source: [Refugees in Velika Kladusa\.](https://www.facebook.com/izbjeglickeprice/photos/pcb.716597715386993/716595695387195/?type=3&theater)](../assets/60f9b2c16916/1*yc-wDk5cZIOkziFttyQ0IA.jpeg)
 
 Photos from the informal camp in Trnovi\. Source: [Refugees in Velika Kladusa\.](https://www.facebook.com/izbjeglickeprice/photos/pcb.716597715386993/716595695387195/?type=3&theater)
 
 Meanwhile, volunteers estimate that up to 400 people are living in the informal Trnovi camp in Kladusa, which is located on unstable ground and could be entirely washed away during the first heavy rains of the winter\.
 
 
-![Another image of Trnovi\. Source: AYS](assets/60f9b2c16916/1*CJL4qQbDO26QK03l3nCvUw.jpeg)
+![Another image of Trnovi\. Source: AYS](../assets/60f9b2c16916/1*CJL4qQbDO26QK03l3nCvUw.jpeg)
 
 Another image of Trnovi\. Source: AYS
 ### Italy
@@ -137,15 +137,15 @@ Another image of Trnovi\. Source: AYS
 A storm blew through a temporary encampment in Rome last night, flattening tents and rendering bedding unusable, No Name Kitchen reports\.
 
 
-![](assets/60f9b2c16916/1*coW3tvpoLMbzvkiScRFwDA.jpeg)
+![](../assets/60f9b2c16916/1*coW3tvpoLMbzvkiScRFwDA.jpeg)
 
 
 
-![](assets/60f9b2c16916/1*eQq02p4ioDhSQtzcji9P9Q.jpeg)
+![](../assets/60f9b2c16916/1*eQq02p4ioDhSQtzcji9P9Q.jpeg)
 
 
 
-![The aftermath of the storm\. Source: [No Name Kitchen\.](https://www.facebook.com/NoNameKitchenBelgrade/posts/614751052256516)](assets/60f9b2c16916/1*o7S9e3DC_HGwCgK1eAxQ7A.jpeg)
+![The aftermath of the storm\. Source: [No Name Kitchen\.](https://www.facebook.com/NoNameKitchenBelgrade/posts/614751052256516)](../assets/60f9b2c16916/1*o7S9e3DC_HGwCgK1eAxQ7A.jpeg)
 
 The aftermath of the storm\. Source: [No Name Kitchen\.](https://www.facebook.com/NoNameKitchenBelgrade/posts/614751052256516)
 
@@ -157,7 +157,7 @@ The latest data on government housing for asylum seekers and sea arrivals to Ita
 ### Belgium
 
 
-![Nora reunited with her family\. Source: Krishna van Lierde](assets/60f9b2c16916/1*6mCK0VtBHjLUeS5eTlKvHg.jpeg)
+![Nora reunited with her family\. Source: Krishna van Lierde](../assets/60f9b2c16916/1*6mCK0VtBHjLUeS5eTlKvHg.jpeg)
 
 Nora reunited with her family\. Source: Krishna van Lierde
 

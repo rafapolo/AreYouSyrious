@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 24/12: Refugees and volunteers share the joy of Christmas creatively together…
+title: "AYS DAILY DIGEST 24/12: Refugees and volunteers share the joy of Christmas creatively together…"
 author: Are You Syrious?
 date: 2016-12-25T16:37:05.569+0000
 last_modified_at: 2016-12-28T13:12:38.913+0000
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe,syria,christmas,art]
 description: SYRIA
 image:
-  path: assets/4b0e1c4e6ba9/1*D_6NpdpGdnPiM3cxOeFMWA.jpeg
+  path: ../assets/4b0e1c4e6ba9/1*D_6NpdpGdnPiM3cxOeFMWA.jpeg
 ---
 
 ### AYS DAILY DIGEST 24/12: Refugees and volunteers share the joy of Christmas creatively together while still fellow humans suffering
 
 
-![Christmas tree in Douma City, Akram Abo Alfoz](assets/4b0e1c4e6ba9/1*D_6NpdpGdnPiM3cxOeFMWA.jpeg)
+![Christmas tree in Douma City, Akram Abo Alfoz](../assets/4b0e1c4e6ba9/1*D_6NpdpGdnPiM3cxOeFMWA.jpeg)
 
 Christmas tree in Douma City, Akram Abo Alfoz
 ### SYRIA
@@ -22,27 +22,27 @@ Christmas tree in Douma City, Akram Abo Alfoz
 Photos: Bassam Khabieh
 
 
-![We love peace\.](assets/4b0e1c4e6ba9/1*0MFIU43Va7JwWjLiAK2opA.jpeg)
+![We love peace\.](../assets/4b0e1c4e6ba9/1*0MFIU43Va7JwWjLiAK2opA.jpeg)
 
 We love peace\.
 
 
-![We convert the death into the life\.](assets/4b0e1c4e6ba9/1*jRsxB73diq2ILFd2Tj0whg.jpeg)
+![We convert the death into the life\.](../assets/4b0e1c4e6ba9/1*jRsxB73diq2ILFd2Tj0whg.jpeg)
 
 We convert the death into the life\.
 
 
-![These are different kinds of weapons which Assad and Russia dropped on our houses to terminate us\.](assets/4b0e1c4e6ba9/1*Y5sH7MnsLHaUMYgURPIrqQ.jpeg)
+![These are different kinds of weapons which Assad and Russia dropped on our houses to terminate us\.](../assets/4b0e1c4e6ba9/1*Y5sH7MnsLHaUMYgURPIrqQ.jpeg)
 
 These are different kinds of weapons which Assad and Russia dropped on our houses to terminate us\.
 
 
-![We have just proved that the life is more power than death](assets/4b0e1c4e6ba9/1*KoBRvCW3ZIJha-y5wqp0Ng.jpeg)
+![We have just proved that the life is more power than death](../assets/4b0e1c4e6ba9/1*KoBRvCW3ZIJha-y5wqp0Ng.jpeg)
 
 We have just proved that the life is more power than death
 
 
-![Syria deserves peace … 24/12/2016](assets/4b0e1c4e6ba9/1*xDb9msZt2VRNDW2m3mDMyQ.jpeg)
+![Syria deserves peace … 24/12/2016](../assets/4b0e1c4e6ba9/1*xDb9msZt2VRNDW2m3mDMyQ.jpeg)
 
 Syria deserves peace … 24/12/2016
 #### \#PrayForSyria
@@ -57,7 +57,7 @@ Lesvos 1, Leros 34, Kos 2\. It makes a total of 37 persons\.
 Ellinikon Camps, The Schoolbox Project, Project Elea in the Eleonas camp, ArmandoAid at the Oinofyta camp, Skaramangas with Drop in the Ocean and Organisation Earth, which is also working in the Sounio Camp in Lavrio are calling out for volunteers\. Please follow the [details here](https://www.facebook.com/groups/AthensVolunteersInformation/permalink/998812063584424/) \.
 
 
-![Photo: Refugee Support Greece](assets/4b0e1c4e6ba9/1*_LrynB7cRiONH8Z8ieqx7A.jpeg)
+![Photo: Refugee Support Greece](../assets/4b0e1c4e6ba9/1*_LrynB7cRiONH8Z8ieqx7A.jpeg)
 
 Photo: Refugee Support Greece
 
@@ -76,7 +76,7 @@ Sarah Griffith in the camp Veria with [Help Refugees](https://www.facebook.com/H
 
 
 
-![Photo: Refugee\.Info team](assets/4b0e1c4e6ba9/1*91jHKapkUqZPepgyyJbDMw.jpeg)
+![Photo: Refugee\.Info team](../assets/4b0e1c4e6ba9/1*91jHKapkUqZPepgyyJbDMw.jpeg)
 
 Photo: Refugee\.Info team
 
@@ -94,19 +94,19 @@ from Belgrade resumes todays numbers as: 71 men, 18 women, 243 children, make 33
 held a pre\-christmas creative workshop in Presevo and could gain a high interest among refugee ladies in the camp\. [Decent gloves, friendship bracelets and beautiful paintings were the results](https://www.facebook.com/borderfreeassociation/posts/1593619353988723) \. The team tribute wholehearted thanks to donors and volunteers, who spend the Christmas time in the camp with fleeing people\. \(Photos: Borderfree Association\)
 
 
-![](assets/4b0e1c4e6ba9/1*Z3wKf8trEIiZCKlW1uoHoQ.jpeg)
+![](../assets/4b0e1c4e6ba9/1*Z3wKf8trEIiZCKlW1uoHoQ.jpeg)
 
 
 
-![](assets/4b0e1c4e6ba9/1*4vQs5t6p-pArtf6Kc1mj_g.jpeg)
+![](../assets/4b0e1c4e6ba9/1*4vQs5t6p-pArtf6Kc1mj_g.jpeg)
 
 
 
-![](assets/4b0e1c4e6ba9/1*0UomVAtY9uaKBliMrEFmBg.jpeg)
+![](../assets/4b0e1c4e6ba9/1*0UomVAtY9uaKBliMrEFmBg.jpeg)
 
 
 
-![](assets/4b0e1c4e6ba9/1*G8whtJhPXaYA8vuFCAzcGw.jpeg)
+![](../assets/4b0e1c4e6ba9/1*G8whtJhPXaYA8vuFCAzcGw.jpeg)
 
 #### ART AGAINST PROJECT
 
@@ -121,7 +121,7 @@ held a pre\-christmas creative workshop in Presevo and could gain a high interes
 
 
 
-![Photo: Marko Djurica](assets/4b0e1c4e6ba9/1*DVowhJ2ZKt9anKbikOp8Ew.jpeg)
+![Photo: Marko Djurica](../assets/4b0e1c4e6ba9/1*DVowhJ2ZKt9anKbikOp8Ew.jpeg)
 
 Photo: Marko Djurica
 ### FRANCE
@@ -130,7 +130,7 @@ Photo: Marko Djurica
 Refugee Community Kitchen and Calais Kitchens, [Care 4 Calais](https://www.facebook.com/care4calais/posts/1390362450996708) and Help Refugees all need you NOW\! If you would like to be a crucial member of their teams, helping the most vulnerable people this winter please get in contact\. If you have a spare room this winter in the UK or France and would like to host please get in contact with us and we can pass your details on discreetly\.
 
 
-![Photo: Imagine Calais](assets/4b0e1c4e6ba9/1*pia-x8DCqxIvV-dlK5fyRA.jpeg)
+![Photo: Imagine Calais](../assets/4b0e1c4e6ba9/1*pia-x8DCqxIvV-dlK5fyRA.jpeg)
 
 Photo: Imagine Calais
 
@@ -143,7 +143,7 @@ won a signification first step in their law suit against the British Government 
 [Help Refugees said](https://www.facebook.com/HelpRefugeesUK/posts/359639447730068) : ‘The Government already owed legal duties under EU law since 2013 to unaccompanied children with close family ties in the UK\. Dubs is additional to that — it is about the vulnerable and isolated children who have no family ties\. Many of these children are in desperate situations and at serious risk of abuse and trafficking\. With the blurring by the Government of the distinction between Dubs and Dublin, too little was happening on implementing the Dubs Amendment\. We hope that this much needed clarification will ensure more transfers of Dubs children take place urgently\.’
 
 
-![Photo: Inca Sorell](assets/4b0e1c4e6ba9/1*3MwkfV078VCrp5mxpp0_vQ.jpeg)
+![Photo: Inca Sorell](../assets/4b0e1c4e6ba9/1*3MwkfV078VCrp5mxpp0_vQ.jpeg)
 
 Photo: Inca Sorell
 ### NETHERLANDS
@@ -152,14 +152,14 @@ Photo: Inca Sorell
 [have launched](https://www.facebook.com/movementontheground/posts/747726658736982) a new offical fundraising campagne to convert the former prison Bijlmer Bajes to a inspiring place hosting more than 600 refugees, while linking the new Amsterdamers living at the Bijlmer to employment\. Please visit the [detailed project descriptions here](https://www.pifworld.com/en/projects/SRQ3a2zxZ-A/bijlmer-bajes-an-inspiring-hub-f/about) and contribute\.
 
 
-![Photo: Movement On The Ground](assets/4b0e1c4e6ba9/1*ypg8RJjf_-ZnRBAa8revHQ.jpeg)
+![Photo: Movement On The Ground](../assets/4b0e1c4e6ba9/1*ypg8RJjf_-ZnRBAa8revHQ.jpeg)
 
 Photo: Movement On The Ground
 ### SWEDEN
 #### [Info from Viomis Aid Sverige, a small ngo](https://www.facebook.com/ViomisAidSweden/posts/1919588714936078)
 
 
-![Photo: Viomis Aid Sverige](assets/4b0e1c4e6ba9/1*BRh8Y8kFTu0UdgEEjhX-Zw.jpeg)
+![Photo: Viomis Aid Sverige](../assets/4b0e1c4e6ba9/1*BRh8Y8kFTu0UdgEEjhX-Zw.jpeg)
 
 Photo: Viomis Aid Sverige
 

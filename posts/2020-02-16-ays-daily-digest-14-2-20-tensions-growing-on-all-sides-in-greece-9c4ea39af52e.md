@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 14/2/20: Tensions growing on all sides in Greece
+title: "AYS Daily Digest 14/2/20: Tensions growing on all sides in Greece"
 author: Are You Syrious?
 date: 2020-02-16T10:13:02.608+0000
 last_modified_at: 2020-02-16T19:10:42.421+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,greece,europe,migration]
 description: Protests in Athens // Growing Fascist Violence // Migrants stranded at Sea // Changing Rights for Refugees in Switzerland & More news
 image:
-  path: assets/9c4ea39af52e/1*ws5lVdCbrLzfHztJKMzrJA.jpeg
+  path: ../assets/9c4ea39af52e/1*ws5lVdCbrLzfHztJKMzrJA.jpeg
 ---
 
 ### AYS Daily Digest 14/2/20: Tensions growing on all sides in Greece
@@ -15,7 +15,7 @@ image:
 
 
 ![You might think that you are prepared to go to Moria, you have been there many times before, you have seen children playing around garbage and mud, you have seen the sheds people call home made out of tarpaulin and plastic bags, the smell\. \. But it hits you like a hammer, it literally takes your breath away\. To see vulnerable people, children, old, sick, living like this in Europe in 2020, makes me want to scream\! Everyone knows this is wrong, it’s totally fucked up, signed and approved by our governments, my government\. \. how can we be this cruel? Even prisoners of war get better treatment than this, they are protected by the Geneva Convention, refugees in Europe seems to have lost all rights\. This can only be seen as a crime against humanity, sanctioned by Europe\. How far can we go and still call ourselves humans, at what point are we nothing but animals\. \. Wake The Fuck Up\! — — — 
-Aegean Boat Report](assets/9c4ea39af52e/1*ws5lVdCbrLzfHztJKMzrJA.jpeg)
+Aegean Boat Report](../assets/9c4ea39af52e/1*ws5lVdCbrLzfHztJKMzrJA.jpeg)
 
 You might think that you are prepared to go to Moria, you have been there many times before, you have seen children playing around garbage and mud, you have seen the sheds people call home made out of tarpaulin and plastic bags, the smell\. \. But it hits you like a hammer, it literally takes your breath away\. To see vulnerable people, children, old, sick, living like this in Europe in 2020, makes me want to scream\! Everyone knows this is wrong, it’s totally fucked up, signed and approved by our governments, my government\. \. how can we be this cruel? Even prisoners of war get better treatment than this, they are protected by the Geneva Convention, refugees in Europe seems to have lost all rights\. This can only be seen as a crime against humanity, sanctioned by Europe\. How far can we go and still call ourselves humans, at what point are we nothing but animals\. \. Wake The Fuck Up\! — — — 
 Aegean Boat Report

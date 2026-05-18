@@ -1,5 +1,5 @@
 ---
-title: AYS Digest 26/10/22: Call for Italy to revoke the 2017 Memorandum between the Libyan and Italian…
+title: "AYS Digest 26/10/22: Call for Italy to revoke the 2017 Memorandum between the Libyan and Italian…"
 author: Are You Syrious?
 date: 2022-10-26T23:02:13.073+0100
 last_modified_at: 2022-10-29T17:21:25.105+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,libya,refugees,human-rights,policy]
 description: Serbia has halted visa-free travel from Tunisia and Burundi/ Between 25th and 26th October, more than 1100 individuals were rescued in the…
 image:
-  path: assets/c84b456a4a36/0*NKjTvc_EJxbqJ20y.jpg
+  path: ../assets/c84b456a4a36/0*NKjTvc_EJxbqJ20y.jpg
 ---
 
 ### AYS Digest 26/10/22: Call for Italy to revoke the 2017 Memorandum between the Libyan and Italian Governments
@@ -15,7 +15,7 @@ image:
 Serbia has halted visa\-free travel from Tunisia and Burundi/ Between 25th and 26th October, more than 1100 individuals were rescued in the Mediterranean/ NGOs and trade unions call for Italy to revoke the 2017 Memorandum between Libya and Italy/ An individual who desperately attempted to swim across the Channel was brought back to Calais, suffering from severe hypothermia/ Suella Braverman back in office/ and much more…
 
 
-![Source: InfoMigrants — Des embarcations de migrants en mer Mediterranee \(archive\) \. Credit: Reuters\.](assets/c84b456a4a36/0*NKjTvc_EJxbqJ20y.jpg)
+![Source: InfoMigrants — Des embarcations de migrants en mer Mediterranee \(archive\) \. Credit: Reuters\.](../assets/c84b456a4a36/0*NKjTvc_EJxbqJ20y.jpg)
 
 Source: InfoMigrants — Des embarcations de migrants en mer Mediterranee \(archive\) \. Credit: Reuters\.
 #### GREECE
@@ -103,7 +103,7 @@ The Italian government has until 2nd November to issue a suspension before it is
 The collective of NGOs and unions have also questioned the European funds that are financing the Libyan coast guards\.
 
 
-![_Source: InfoMigrants; African migrants, some of them injured, sleep on the ground during a sit\-in to ask the international community to take them out of Libya, outside the UNHRC office in Tripoli, Libya, in October 2021 \| Photo: EPA_](assets/c84b456a4a36/0*2VoDywhvENR5KI8Q.jpg)
+![_Source: InfoMigrants; African migrants, some of them injured, sleep on the ground during a sit\-in to ask the international community to take them out of Libya, outside the UNHRC office in Tripoli, Libya, in October 2021 \| Photo: EPA_](../assets/c84b456a4a36/0*2VoDywhvENR5KI8Q.jpg)
 
 _Source: InfoMigrants; African migrants, some of them injured, sleep on the ground during a sit\-in to ask the international community to take them out of Libya, outside the UNHRC office in Tripoli, Libya, in October 2021 \| Photo: EPA_
 
@@ -140,7 +140,7 @@ Another individual had previously attempted to do the same thing in September an
 Only a few days after Suella Braverman resigned for breaching the ministerial code, [Rishi Sunak has reinstated the hard\-right politician in her previous position of Home Secretary](https://www.independent.co.uk/news/uk/politics/suella-braverman-home-secretary-cruelty-b2210409.html) \.
 
 
-![Source: The Independent; Suella Braverman’s surprise return to Home Secretary was announced Tuesday evening](assets/c84b456a4a36/0*mDHBhgYOAr4pjDpV)
+![Source: The Independent; Suella Braverman’s surprise return to Home Secretary was announced Tuesday evening](../assets/c84b456a4a36/0*mDHBhgYOAr4pjDpV)
 
 Source: The Independent; Suella Braverman’s surprise return to Home Secretary was announced Tuesday evening
 

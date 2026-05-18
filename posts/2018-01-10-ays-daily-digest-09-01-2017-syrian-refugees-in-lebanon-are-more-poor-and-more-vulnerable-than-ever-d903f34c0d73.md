@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 09/01/2018: Syrian refugees in Lebanon are poorer and more vulnerable than ever
+title: "AYS Daily Digest 09/01/2018: Syrian refugees in Lebanon are poorer and more vulnerable than ever"
 author: Are You Syrious?
 date: 2018-01-10T08:03:48.515+0000
 last_modified_at: 2018-01-11T02:57:18.443+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,bulgaria,lebanon,rukban,deportations]
 description: Aid delivery in Rukban camp /// 116 people already dead or missing in the Mediterranean in 2018 /// Illegal detention of a Turkish soldier…
 image:
-  path: assets/d903f34c0d73/1*gIHjixNwg-XJtNvsQjzLRQ.jpeg
+  path: ../assets/d903f34c0d73/1*gIHjixNwg-XJtNvsQjzLRQ.jpeg
 ---
 
 ### AYS Daily Digest 09/01/2018: Syrian refugees in Lebanon are poorer and more vulnerable than ever
@@ -15,7 +15,7 @@ image:
 Aid delivery in Rukban camp /// 116 people already dead or missing in the Mediterranean in 2018 /// Illegal detention of a Turkish soldier denounced in Greece /// 21 people charged for 2016 Harmanli camp riots in Bulgaria /// Family Reunification to be resumed in March 2018 in Germany /// Another death in Calais /// Proposals to speed up deportations to Iraq from EU Commission
 
 
-![from: Vulernability assessment of Syrian refugees in Lebanon \(VASyR 2017\)](assets/d903f34c0d73/1*gIHjixNwg-XJtNvsQjzLRQ.jpeg)
+![from: Vulernability assessment of Syrian refugees in Lebanon \(VASyR 2017\)](../assets/d903f34c0d73/1*gIHjixNwg-XJtNvsQjzLRQ.jpeg)
 
 from: Vulernability assessment of Syrian refugees in Lebanon \(VASyR 2017\)
 #### FEATURE
@@ -25,14 +25,14 @@ UNHCR spokesperson for Lebanon, William Spindler, told the press the results of 
 It reveals that 58 per cent of households are now living in extreme poverty — on less than US$2\.87 per person per day\. This is some 5 per cent more than a year ago\. And the number of households living below the overall poverty line — less than US $3\.84 per day — has also continued to rise\. 76 per cent of refugee households are living below this level\.
 
 
-![from: Vulernability assessment of Syrian refugees in Lebanon \(VASyR 2017\)](assets/d903f34c0d73/1*hu6eR6RrCvSXK6PcHFAJVw.jpeg)
+![from: Vulernability assessment of Syrian refugees in Lebanon \(VASyR 2017\)](../assets/d903f34c0d73/1*hu6eR6RrCvSXK6PcHFAJVw.jpeg)
 
 from: Vulernability assessment of Syrian refugees in Lebanon \(VASyR 2017\)
 
 Borrowing money for food, to cover health expenses and pay rent continues to be extremely common, with almost nine out of every 10 refugees saying they are in debt\. This underlines the vulnerabilities facing most Syrian refugees in Lebanon\.
 
 
-![from: Vulernability assessment of Syrian refugees in Lebanon \(VASyR 2017\)](assets/d903f34c0d73/1*pt9_75Cdb4fKLN5twMbZZQ.jpeg)
+![from: Vulernability assessment of Syrian refugees in Lebanon \(VASyR 2017\)](../assets/d903f34c0d73/1*pt9_75Cdb4fKLN5twMbZZQ.jpeg)
 
 from: Vulernability assessment of Syrian refugees in Lebanon \(VASyR 2017\)
 
@@ -43,15 +43,15 @@ Only 19 per cent of families reported that all members had legal residency, down
 The survey also revealed that only 17 per cent of refugee parents managed to complete all the steps of the birth registration process for their children\.
 
 
-![](assets/d903f34c0d73/1*ZBFKMocTxt57SRzNOCrVAw.jpeg)
+![](../assets/d903f34c0d73/1*ZBFKMocTxt57SRzNOCrVAw.jpeg)
 
 
 
-![](assets/d903f34c0d73/1*1cPsESzuyjGAxiZDu60hFg.jpeg)
+![](../assets/d903f34c0d73/1*1cPsESzuyjGAxiZDu60hFg.jpeg)
 
 
 
-![from: Vulernability assessment of Syrian refugees in Lebanon \(VASyR 2017\)](assets/d903f34c0d73/1*F5dGaOJ8rOnNK1peTAFlZw.jpeg)
+![from: Vulernability assessment of Syrian refugees in Lebanon \(VASyR 2017\)](../assets/d903f34c0d73/1*F5dGaOJ8rOnNK1peTAFlZw.jpeg)
 
 from: Vulernability assessment of Syrian refugees in Lebanon \(VASyR 2017\)
 
@@ -64,7 +64,7 @@ External funding is insufficient to keep up with the growing needs; In 2017, onl
 A further US$2\.7 billion is needed to meet needs in 2018, under the Lebanon Crisis Response Plan\.
 
 
-![from: Vulernability assessment of Syrian refugees in Lebanon \(VASyR 2017\)](assets/d903f34c0d73/1*t9u_vmS46xFpERMl5iFBEg.jpeg)
+![from: Vulernability assessment of Syrian refugees in Lebanon \(VASyR 2017\)](../assets/d903f34c0d73/1*t9u_vmS46xFpERMl5iFBEg.jpeg)
 
 from: Vulernability assessment of Syrian refugees in Lebanon \(VASyR 2017\)
 
@@ -167,7 +167,7 @@ Total: 125 / 36
 The islands are still over double their capacity with multiple deadlines to reduce the congestion and relieve the terrible living conditions at hotspots in the Aegean having been missed\.
 
 
-![](assets/d903f34c0d73/1*BkS7GlscHMTVtkD1bqTf7A.jpeg)
+![](../assets/d903f34c0d73/1*BkS7GlscHMTVtkD1bqTf7A.jpeg)
 
 #### **THE GREEK COUNCIL FOR REFUGEES DENOUNCES THE ILLEGAL DETENTION OF TURKISH SOLDIER**
 
@@ -304,11 +304,11 @@ L’Auberge des Migrants and Safe Passage have started a petition to end deaths 
 [Paris Refugee Ground Support](https://m.facebook.com/story.php?story_fbid=2029079877372122&id=1806225229657589&hc_location=ufi) state that there are now 1,500 sleeping rough in Paris\.
 
 
-![](assets/d903f34c0d73/1*aEYRXoqUo-f26n2poLuYrA.jpeg)
+![](../assets/d903f34c0d73/1*aEYRXoqUo-f26n2poLuYrA.jpeg)
 
 
 
-![Photos by [Paris Refugee Ground Support](https://m.facebook.com/story.php?story_fbid=2029079877372122&id=1806225229657589&hc_location=ufi)](assets/d903f34c0d73/1*GqUirWJNVTb4YA4dSzvo-w.jpeg)
+![Photos by [Paris Refugee Ground Support](https://m.facebook.com/story.php?story_fbid=2029079877372122&id=1806225229657589&hc_location=ufi)](../assets/d903f34c0d73/1*GqUirWJNVTb4YA4dSzvo-w.jpeg)
 
 Photos by [Paris Refugee Ground Support](https://m.facebook.com/story.php?story_fbid=2029079877372122&id=1806225229657589&hc_location=ufi)
 #### ASYLUM STATS FOR 2017

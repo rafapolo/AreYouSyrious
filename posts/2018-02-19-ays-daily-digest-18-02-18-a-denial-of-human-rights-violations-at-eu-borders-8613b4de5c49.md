@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [europe,refugees,digest,eu,human-rights]
 description: EU countries are denying Human Rights violations at border crossings despite evidence// Reports that Syrian males are forbidden from…
 image:
-  path: assets/8613b4de5c49/1*zC-8aLUNIuawn_2zWUq-TA.jpeg
+  path: ../assets/8613b4de5c49/1*zC-8aLUNIuawn_2zWUq-TA.jpeg
 ---
 
 ### AYS Daily Digest 18/02/18 — EU member states deny Human Rights violations at EU borders
@@ -15,7 +15,7 @@ image:
 _EU countries are denying Human Rights violations at border crossings despite evidence// Reports that Syrian males are forbidden from marrying Lebanese women// Boat stopped by TCG // Death toll on Mediterranean for 2018 surpasses 400 // Protests across EU against deportations to Afghanistan// News from Greece// Balkan weather forecast // News from Serbia, Hungary, Austria and France_
 
 
-![Source: No Name Kitchen](assets/8613b4de5c49/1*zC-8aLUNIuawn_2zWUq-TA.jpeg)
+![Source: No Name Kitchen](../assets/8613b4de5c49/1*zC-8aLUNIuawn_2zWUq-TA.jpeg)
 
 Source: No Name Kitchen
 ### Feature:
@@ -68,7 +68,7 @@ Based on their official complaints, they have concluded the EU has little intere
 Reports are emerging from Lebanon that authroities within the country are forcing male Syrian refugees who want to attend university to sign a document promising that they will not marry Lebanese women\.
 
 
-![A copy of the “pledge” Syrian students are being forced to sign\. Provided by [Free Syria Salam\.](https://www.facebook.com/Free.SyriaSalam/)](assets/8613b4de5c49/1*a9SUJWUbn2ggINYwzEGaNg.jpeg)
+![A copy of the “pledge” Syrian students are being forced to sign\. Provided by [Free Syria Salam\.](https://www.facebook.com/Free.SyriaSalam/)](../assets/8613b4de5c49/1*a9SUJWUbn2ggINYwzEGaNg.jpeg)
 
 A copy of the “pledge” Syrian students are being forced to sign\. Provided by [Free Syria Salam\.](https://www.facebook.com/Free.SyriaSalam/)
 ### Turkey
@@ -79,7 +79,7 @@ A boat carrying 55 persons: 11 children, 16 women and 28 men has been stopped by
 So far in 2018, 401 people have died crossing the Mediterranean in search of safety\.
 
 
-![Source: Safe Passage](assets/8613b4de5c49/1*pad4EDM42sXS09iDK3FPhg.png)
+![Source: Safe Passage](../assets/8613b4de5c49/1*pad4EDM42sXS09iDK3FPhg.png)
 
 Source: Safe Passage
 
@@ -93,12 +93,12 @@ Proactiva Open Arms has rescued 101 persons from a rubber boat 100km off the coa
 There were protests across the EU today against deportations to Afghanistan\. As the organizers of these protests wrote, “With this action, we express our solidarity with all refugees\. We call for resistance against the Austrian policy and the European border\. Both deportations and European border security endanger and kill people who are looking for safety and a better life\. Under the current övp / fpö government there is a further tightening of the asylum procedures and an increase in deportations\. That is why we are demanding that all deportations to Afghanistan stop immediately\!”
 
 
-![Photo Credit: [Refugee Protest Camp Vienna](https://www.facebook.com/RefugeeCampVienna/)](assets/8613b4de5c49/1*ixOekt_hwQm6zM4YVkBoMw.jpeg)
+![Photo Credit: [Refugee Protest Camp Vienna](https://www.facebook.com/RefugeeCampVienna/)](../assets/8613b4de5c49/1*ixOekt_hwQm6zM4YVkBoMw.jpeg)
 
 Photo Credit: [Refugee Protest Camp Vienna](https://www.facebook.com/RefugeeCampVienna/)
 
 
-![Protest In Stockholm, Sweden\. Photo Credit: [Ung i Sverige](https://www.facebook.com/ungisverige.nu/) \.](assets/8613b4de5c49/1*L4Fs444XCRTrddrEbJm4-Q.jpeg)
+![Protest In Stockholm, Sweden\. Photo Credit: [Ung i Sverige](https://www.facebook.com/ungisverige.nu/) \.](../assets/8613b4de5c49/1*L4Fs444XCRTrddrEbJm4-Q.jpeg)
 
 Protest In Stockholm, Sweden\. Photo Credit: [Ung i Sverige](https://www.facebook.com/ungisverige.nu/) \.
 ### Greece
@@ -148,7 +148,7 @@ In his annual state of the nation address, Hungarian PM Viktor Orban delivered a
 There were protests in Vienna today against the deportation of Afghan migrants\. As the organizers of these protests wrote, “With this action we express our solidarity with all refugees\. We call for resistance against the Austrian policy and the European border security\. Both deportations and European border security endanger and kill people who are looking for safety and a better life\. Under the current övp / fpö government there is a further tightening of the asylum procedures and an increase in deportations\. That is why we are demanding that all deportations to Afghanistan stop immediately\!”
 
 
-![Photo Credit: [Refugee Protest Camp Vienna](https://www.facebook.com/RefugeeCampVienna/)](assets/8613b4de5c49/1*ixOekt_hwQm6zM4YVkBoMw.jpeg)
+![Photo Credit: [Refugee Protest Camp Vienna](https://www.facebook.com/RefugeeCampVienna/)](../assets/8613b4de5c49/1*ixOekt_hwQm6zM4YVkBoMw.jpeg)
 
 Photo Credit: [Refugee Protest Camp Vienna](https://www.facebook.com/RefugeeCampVienna/)
 ### Netherlands
@@ -159,7 +159,7 @@ A protest has been announced for this coming Tuesday in the Netherlands \(20\.02
 Many people have arrived in Paris in the past three days, as our contact in the capital has reported\. After a few quieter days with some people getting accommodation, there have been around 40–50 arriving each day this week\. Yesterday volunteers estimated that there are about 80 refugees split among the main camp areas, St\. Denis canal, Jaures and Poissoniers\. “In one of the places we are getting now also many minors and families, with the age range of the children going from only a few motnhs old to 15–16\. Many are unaccompanied,” our contact reports\. Volunteers have been trying to get younger children and families to hotels for more comfort and safety but with higher numbers and little assitance from the authorities this is getting more difficult\. The weather is due to become colder again next week, posing additional risks for those sleeping rough\.
 
 
-![Sleeping rough in Paris\. 18\.02\.18\. Photo Credit: [Worldwide Tribe](https://www.facebook.com/theworldwidetribe/)](assets/8613b4de5c49/1*52kuUbhQRrdejRI6NwrbAg.jpeg)
+![Sleeping rough in Paris\. 18\.02\.18\. Photo Credit: [Worldwide Tribe](https://www.facebook.com/theworldwidetribe/)](../assets/8613b4de5c49/1*52kuUbhQRrdejRI6NwrbAg.jpeg)
 
 Sleeping rough in Paris\. 18\.02\.18\. Photo Credit: [Worldwide Tribe](https://www.facebook.com/theworldwidetribe/)
 
@@ -172,7 +172,7 @@ Volunteers in Paris are looking for assistance with clothing sorting and distrib
 In Caen more than 1000 people demonstrated to show solidarity with refugees, and in protest against human rights violations in the country\.
 
 
-![“We will not close our eyes to human rights violations”\. Photo Credit: [Phillippe Rifflet](https://twitter.com/prifflet?lang=en)](assets/8613b4de5c49/1*9YKnYj9tb-Hg0BrDM0Pefw.jpeg)
+![“We will not close our eyes to human rights violations”\. Photo Credit: [Phillippe Rifflet](https://twitter.com/prifflet?lang=en)](../assets/8613b4de5c49/1*9YKnYj9tb-Hg0BrDM0Pefw.jpeg)
 
 “We will not close our eyes to human rights violations”\. Photo Credit: [Phillippe Rifflet](https://twitter.com/prifflet?lang=en)
 

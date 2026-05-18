@@ -5,16 +5,16 @@ date: 2019-06-03T12:10:20.829+0100
 last_modified_at: 2019-06-04T20:43:31.222+0100
 categories: Are You Syrious?
 tags: [refugees,croatia,balkan-route,migration,digest]
-description: AYS faces further backlash from Croatian government: our teams of teachers and psychologists expelled from Porin center iz Zagreb //…
+description: "AYS faces further backlash from Croatian government: our teams of teachers and psychologists expelled from Porin center iz Zagreb //…"
 image:
-  path: assets/70b921b1167b/1*8SNbma4MDUr702hP5wXtqA.jpeg
+  path: ../assets/70b921b1167b/1*8SNbma4MDUr702hP5wXtqA.jpeg
 ---
 
 ### AYS Weekend Digest 1\. \-2\./06/19 Teachers banned from tutoring refugee children
 #### AYS faces further backlash from Croatian government: our teams of teachers and psychologists expelled from the Porin centre in Zagreb // Aftermath of fire in the Miral reception centre in Bosnia: 30 wounded, IOM claims all necessary safety procedures were in place // Masked renegades filmed while intercepting boats in the Aegean, forcing them back to Turkey
 
 
-![AYS has been the only volunteer NGO systematically mentoring children in the reception camp since early 2016\. Our program was recognized as such by schools and other relevant professionals\.](assets/70b921b1167b/1*8SNbma4MDUr702hP5wXtqA.jpeg)
+![AYS has been the only volunteer NGO systematically mentoring children in the reception camp since early 2016\. Our program was recognized as such by schools and other relevant professionals\.](../assets/70b921b1167b/1*8SNbma4MDUr702hP5wXtqA.jpeg)
 
 AYS has been the only volunteer NGO systematically mentoring children in the reception camp since early 2016\. Our program was recognized as such by schools and other relevant professionals\.
 #### FEATURE STORY
@@ -25,7 +25,7 @@ As most of our readers know, Are You Syrious is a volunteer\-run NGO that has be
 In the Reception Centre, Are You Syrious founded the Big Sister/Big Brother programme through which every child or family got their personal volunteer to make their integration into Croatian society easier\. These volunteers were often a bridge between families and schools, in moments when, because of language barriers or other obstacles, they could not establish or maintain direct communication with teachers and other school staff\. So far we have provided around 5,000 hours of tutoring and supervision to refugee children in the Porin camp\. Eventually, when a family is granted international protection, our volunteers continue assisting the children in the aforementioned learning activities outside Porin\.
 
 
-![Through the Big Sister/Big Brother program every child or family got their personal volunteer to make their integration into Croatian society easier\. Photo: AYS](assets/70b921b1167b/1*e1v_9r8CIReRTgTsrg4C0w.jpeg)
+![Through the Big Sister/Big Brother program every child or family got their personal volunteer to make their integration into Croatian society easier\. Photo: AYS](../assets/70b921b1167b/1*e1v_9r8CIReRTgTsrg4C0w.jpeg)
 
 Through the Big Sister/Big Brother program every child or family got their personal volunteer to make their integration into Croatian society easier\. Photo: AYS
 
@@ -38,7 +38,7 @@ At the beginning of 2019, the contract Are You Syrious had with the Croatian Min
 Almost immediately after we had to pause our activities inside Porin, we received numerous cries for help from children, but also their families and their teachers\. All of them said the same: if this programme were to end due to the non\-extension of the contract, it would have dire consequences for the education and integration of child refugees\. And the end of the school year, which is the most intense period for kids who are attending schools together with their local peers, is approaching in only two weeks\.
 
 
-![Almost immediately after we had to pause our activities inside Porin, we’ve received numerous cries for help from children, their families, and their teachers, who had relied on our volunteers\. Photo: AYS](assets/70b921b1167b/1*4toB5gCi7pqxJ_JPokiG4g.jpeg)
+![Almost immediately after we had to pause our activities inside Porin, we’ve received numerous cries for help from children, their families, and their teachers, who had relied on our volunteers\. Photo: AYS](../assets/70b921b1167b/1*4toB5gCi7pqxJ_JPokiG4g.jpeg)
 
 Almost immediately after we had to pause our activities inside Porin, we’ve received numerous cries for help from children, their families, and their teachers, who had relied on our volunteers\. Photo: AYS
 
@@ -90,7 +90,7 @@ On Monday morning, IOM staff confiscated all electrical devices from residents o
 An AYS volunteer who was present near Miral when the fire broke out spoke to the residents of the camp, who have shared their frustraton about the situation at the Croatian border, where police violence remains high and seems to be of less interest to the international and local media\.
 
 
-![Scars from the border: around 10,000 people were pushed back from Croatia in the last year alone, many of them violently, according to AYS and other public sources\. Photo: AYS](assets/70b921b1167b/1*G9UBdW9owX-gaOFg8cnEaA.jpeg)
+![Scars from the border: around 10,000 people were pushed back from Croatia in the last year alone, many of them violently, according to AYS and other public sources\. Photo: AYS](../assets/70b921b1167b/1*G9UBdW9owX-gaOFg8cnEaA.jpeg)
 
 Scars from the border: around 10,000 people were pushed back from Croatia in the last year alone, many of them violently, according to AYS and other public sources\. Photo: AYS
 
@@ -112,7 +112,7 @@ According to the new Red Cross / Red Crescent [report](https://media.ifrc.org/if
 
 
 
-![Many refugees are made to get off public transport near the town of Kljuc, Bosnia, and are then faced with a 90km walk to reach the nearest reception center in Bihac\. Photo: IFRC](assets/70b921b1167b/1*F0qNs0yQ76-4KOk3m8owLg.jpeg)
+![Many refugees are made to get off public transport near the town of Kljuc, Bosnia, and are then faced with a 90km walk to reach the nearest reception center in Bihac\. Photo: IFRC](../assets/70b921b1167b/1*F0qNs0yQ76-4KOk3m8owLg.jpeg)
 
 Many refugees are made to get off public transport near the town of Kljuc, Bosnia, and are then faced with a 90km walk to reach the nearest reception center in Bihac\. Photo: IFRC
 
@@ -128,7 +128,7 @@ An especially disturbing incident happened on May 17, at 4\.25 am, when the Alar
 This time, the armed men who are intercepting boats have been filmed and the footage will be submitted to the authorities\.
 
 
-[![عاجل : فديو مقنعين ومسلحين يتم اعتراضهم لقارب المهاجرين وتم تصويرهم وسط البحر](assets/70b921b1167b/69b6_hqdefault.jpg "عاجل : فديو مقنعين ومسلحين يتم اعتراضهم لقارب المهاجرين وتم تصويرهم وسط البحر")](http://www.youtube.com/watch?v=_482cfm2JBU)
+[![عاجل : فديو مقنعين ومسلحين يتم اعتراضهم لقارب المهاجرين وتم تصويرهم وسط البحر](../assets/70b921b1167b/69b6_hqdefault.jpg "عاجل : فديو مقنعين ومسلحين يتم اعتراضهم لقارب المهاجرين وتم تصويرهم وسط البحر")](http://www.youtube.com/watch?v=_482cfm2JBU)
 
 
 At 4:39 am the people told the Alarm Phone that they could still see the boat with the masked men\. At 4:54 am the Alarmphone lost contact with the boat\. Later, the people informed them that the Turkish coastguard arrived after sunrise, shortly after the masked men had left, with a larger boat, intercepted them and pulled them back to Turkey\.

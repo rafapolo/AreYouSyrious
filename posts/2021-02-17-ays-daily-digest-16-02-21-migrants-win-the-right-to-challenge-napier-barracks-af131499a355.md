@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [uk,refugees,digest,greece,migration]
 description: Snow storm coming for the Levant // Hunger strikes and self harm in Canary Islands // Freezing conditions in Aegean and lawyers call on…
 image:
-  path: assets/af131499a355/1*pA2cnLIlhGoibWfAraEl9w.jpeg
+  path: ../assets/af131499a355/1*pA2cnLIlhGoibWfAraEl9w.jpeg
 ---
 
 ### AYS Daily Digest 16/02/21 Migrants win the right to challenge Napier Barracks
@@ -15,7 +15,7 @@ image:
 _Snow storm coming for the Levant // Hunger strikes and self harm in Canary Islands // Freezing conditions in Aegean and lawyers call on Frontex to stop Aegean operations // and more…_
 
 
-![Napier Barracks\. Photo provided by reporter [Simon Jones](http://Simon Jones)](assets/af131499a355/1*pA2cnLIlhGoibWfAraEl9w.jpeg)
+![Napier Barracks\. Photo provided by reporter [Simon Jones](http://Simon Jones)](../assets/af131499a355/1*pA2cnLIlhGoibWfAraEl9w.jpeg)
 
 Napier Barracks\. Photo provided by reporter [Simon Jones](http://Simon Jones)
 ### FEATURE: Migrants win the right to challenge the use of Napier Barracks
@@ -87,7 +87,7 @@ On Tuesday, Russian Special Presidential Envoy for Syria Alexander Lavrentyev sa
 #### SEA
 
 
-![“United4Rescue across continents: The Evangelical Lutheran Church in America donates 20,000$ for the 2nd rescue ship we are sending to the Central Mediterranean\! Thank you for your strong solidarity & generous support for Sea\-Eye 4, dear ELCA\! Together we will save lives\.” Photo and Info by [United4Rescue](https://www.facebook.com/united4rescue/posts/445226216929013)](assets/af131499a355/1*Ccd1MgmyJUuJ6DkSbzs0ZQ.jpeg)
+![“United4Rescue across continents: The Evangelical Lutheran Church in America donates 20,000$ for the 2nd rescue ship we are sending to the Central Mediterranean\! Thank you for your strong solidarity & generous support for Sea\-Eye 4, dear ELCA\! Together we will save lives\.” Photo and Info by [United4Rescue](https://www.facebook.com/united4rescue/posts/445226216929013)](../assets/af131499a355/1*Ccd1MgmyJUuJ6DkSbzs0ZQ.jpeg)
 
 “United4Rescue across continents: The Evangelical Lutheran Church in America donates 20,000$ for the 2nd rescue ship we are sending to the Central Mediterranean\! Thank you for your strong solidarity & generous support for Sea\-Eye 4, dear ELCA\! Together we will save lives\.” Photo and Info by [United4Rescue](https://www.facebook.com/united4rescue/posts/445226216929013)
 
@@ -167,12 +167,12 @@ Similar horrific winter scenes were playing out in Eleonas and Schistos refugee 
 **Update from Athens and Ritsona Camp:**
 
 
-![](assets/af131499a355/1*usBOxbN3OhHr0tE8I3fonQ.jpeg)
+![](../assets/af131499a355/1*usBOxbN3OhHr0tE8I3fonQ.jpeg)
 
 
 
 ![“Almost overnight, Athens and Ritsona Camp have been blanketed in snow\. The exceptional spell of snow shuttered public transport in Athens and left some areas without electricity\. For isolated and under\-resourced camps in the Athens area, heavy snowfall can worsen already difficult living conditions, as roads are closed and the snow and falling trees can damage existing infrastructure\. Agîd, a resident of Ritsona Camp, shared with us this photo of Lighthouse Relief’s spaces, surrounded by snowbanks\. For the moment, our team in Ritsona Camp is not able to access the camp due to the weather, but will be on site once the snow subsides to resume our programming and assess and repair the damages to our spaces\. 
-Meanwhile in Athens, snow means that people experiencing homelessness face an even more urgent need to find shelters\. Our team is continuing their work to find accommodation for those who need it, and so far this week have been able to secure shelters for two urgent cases\. Although the snow will melt in the coming days, the housing situation will remain dire for many refugees and asylum seekers navigating Athens with little support\. Our team in Athens is committed to support them in this difficult period\.” Photos and Update by [Lighthouse Relief](https://www.facebook.com/lighthouserelief/posts/3677738609015320)](assets/af131499a355/1*Ah60ZZxsFi-JPZaPkDfbzg.jpeg)
+Meanwhile in Athens, snow means that people experiencing homelessness face an even more urgent need to find shelters\. Our team is continuing their work to find accommodation for those who need it, and so far this week have been able to secure shelters for two urgent cases\. Although the snow will melt in the coming days, the housing situation will remain dire for many refugees and asylum seekers navigating Athens with little support\. Our team in Athens is committed to support them in this difficult period\.” Photos and Update by [Lighthouse Relief](https://www.facebook.com/lighthouserelief/posts/3677738609015320)](../assets/af131499a355/1*Ah60ZZxsFi-JPZaPkDfbzg.jpeg)
 
 “Almost overnight, Athens and Ritsona Camp have been blanketed in snow\. The exceptional spell of snow shuttered public transport in Athens and left some areas without electricity\. For isolated and under\-resourced camps in the Athens area, heavy snowfall can worsen already difficult living conditions, as roads are closed and the snow and falling trees can damage existing infrastructure\. Agîd, a resident of Ritsona Camp, shared with us this photo of Lighthouse Relief’s spaces, surrounded by snowbanks\. For the moment, our team in Ritsona Camp is not able to access the camp due to the weather, but will be on site once the snow subsides to resume our programming and assess and repair the damages to our spaces\. 
 Meanwhile in Athens, snow means that people experiencing homelessness face an even more urgent need to find shelters\. Our team is continuing their work to find accommodation for those who need it, and so far this week have been able to secure shelters for two urgent cases\. Although the snow will melt in the coming days, the housing situation will remain dire for many refugees and asylum seekers navigating Athens with little support\. Our team in Athens is committed to support them in this difficult period\.” Photos and Update by [Lighthouse Relief](https://www.facebook.com/lighthouserelief/posts/3677738609015320)
@@ -229,7 +229,7 @@ Learn more [here](https://www.elsaltodiario.com/refugiados/-supremo-fallar-derec
 
 ![Graveyard in Bihac: “Many of those buried here were reportedly found on the icy hills of the Bosnian\-Croatian borderland while searching for a life with a better future\. 
 Just two days ago, the body of a Turkish citizen was recovered by the Bosnian border police in the river Glina, who tried to ask for asylum in Croatia, after making his way with 6 other asylum seekers from Bosnia\-Herzegowina to Croatia in the night between the 11th and 12th of February\. The case is still investigated\.
-Most people buried in the nameless green graves were around 18 years old\. Some carried a name\. Most did not\. Yet, all have lived a life and have left someone behind\.” Photo and Info by [Franziska Grillmeier](https://www.facebook.com/franzi.grillmeier/posts/3718150071638301)](assets/af131499a355/1*ckm_ZXTiR5aX_NPTGfkJag.jpeg)
+Most people buried in the nameless green graves were around 18 years old\. Some carried a name\. Most did not\. Yet, all have lived a life and have left someone behind\.” Photo and Info by [Franziska Grillmeier](https://www.facebook.com/franzi.grillmeier/posts/3718150071638301)](../assets/af131499a355/1*ckm_ZXTiR5aX_NPTGfkJag.jpeg)
 
 Graveyard in Bihac: “Many of those buried here were reportedly found on the icy hills of the Bosnian\-Croatian borderland while searching for a life with a better future\. 
 Just two days ago, the body of a Turkish citizen was recovered by the Bosnian border police in the river Glina, who tried to ask for asylum in Croatia, after making his way with 6 other asylum seekers from Bosnia\-Herzegowina to Croatia in the night between the 11th and 12th of February\. The case is still investigated\.
@@ -250,7 +250,7 @@ Many cases of scabies are reported daily due to sanitary conditions, as well as 
 #### FRANCE
 
 
-![**Update on Dunkirk** : “Wills and I were in Dunkirk this week with Care4Calais\. It was absolutely freezing, which wasn’t helped by the constant snow and already waterlogged ground\. I was asked by a refugee to take photos of the conditions\. He wants you to know how people are being made to live because he believes “the UK is good”\. He hopes you will help\. As seems to be the pattern, amongst all the sadness and cold there is humour and warmth\. Men help each other to set up shelters, laughing and singing in the bleakest conditions\. I spoke to a young man who is a lawyer\. He showed me pictures of his life before, appearing desperate to make me understand what he had to give up and who he was before becoming a refugee\. Because he is Kurdish, he was forced to leave a home and life he loved\. His wife and baby are already in the UK, but he is struggling to get there and he misses them both desperately\. He was such a lovely young person, and it broke my heart that all I could do was listen to his stories and wish him well\.” Photo by [Care4Calais](https://care4calais.org/news/stories-shared-as-weather-worsens-in-dunkirk/?fbclid=IwAR0Qsvn9ZJS0rROYZpE9qXdUhBBX1r3qbkg8cyLvF4pZjrOUXxdPITjGyAw)](assets/af131499a355/1*th062UUV15IpU-eNOD6TOQ.jpeg)
+![**Update on Dunkirk** : “Wills and I were in Dunkirk this week with Care4Calais\. It was absolutely freezing, which wasn’t helped by the constant snow and already waterlogged ground\. I was asked by a refugee to take photos of the conditions\. He wants you to know how people are being made to live because he believes “the UK is good”\. He hopes you will help\. As seems to be the pattern, amongst all the sadness and cold there is humour and warmth\. Men help each other to set up shelters, laughing and singing in the bleakest conditions\. I spoke to a young man who is a lawyer\. He showed me pictures of his life before, appearing desperate to make me understand what he had to give up and who he was before becoming a refugee\. Because he is Kurdish, he was forced to leave a home and life he loved\. His wife and baby are already in the UK, but he is struggling to get there and he misses them both desperately\. He was such a lovely young person, and it broke my heart that all I could do was listen to his stories and wish him well\.” Photo by [Care4Calais](https://care4calais.org/news/stories-shared-as-weather-worsens-in-dunkirk/?fbclid=IwAR0Qsvn9ZJS0rROYZpE9qXdUhBBX1r3qbkg8cyLvF4pZjrOUXxdPITjGyAw)](../assets/af131499a355/1*th062UUV15IpU-eNOD6TOQ.jpeg)
 
 **Update on Dunkirk** : “Wills and I were in Dunkirk this week with Care4Calais\. It was absolutely freezing, which wasn’t helped by the constant snow and already waterlogged ground\. I was asked by a refugee to take photos of the conditions\. He wants you to know how people are being made to live because he believes “the UK is good”\. He hopes you will help\. As seems to be the pattern, amongst all the sadness and cold there is humour and warmth\. Men help each other to set up shelters, laughing and singing in the bleakest conditions\. I spoke to a young man who is a lawyer\. He showed me pictures of his life before, appearing desperate to make me understand what he had to give up and who he was before becoming a refugee\. Because he is Kurdish, he was forced to leave a home and life he loved\. His wife and baby are already in the UK, but he is struggling to get there and he misses them both desperately\. He was such a lovely young person, and it broke my heart that all I could do was listen to his stories and wish him well\.” Photo by [Care4Calais](https://care4calais.org/news/stories-shared-as-weather-worsens-in-dunkirk/?fbclid=IwAR0Qsvn9ZJS0rROYZpE9qXdUhBBX1r3qbkg8cyLvF4pZjrOUXxdPITjGyAw)
 #### EU

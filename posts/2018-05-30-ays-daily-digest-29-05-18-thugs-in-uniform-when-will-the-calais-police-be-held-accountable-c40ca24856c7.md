@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 29/05/18: Thugs in Uniform — When will the Calais police be held accountable?
+title: "AYS Daily Digest 29/05/18: Thugs in Uniform — When will the Calais police be held accountable?"
 author: Are You Syrious?
 date: 2018-05-30T02:56:01.210+0100
 last_modified_at: 2018-05-30T05:32:19.639+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,police-brutality,rescue,lesvos]
 description: Refugee Poverty In Jordan//Deaths at Sea//Sea Rescues//Camp Raided in Morocco//Update from Lesvos//Protest at Oinofyta camp//Families…
 image:
-  path: assets/c40ca24856c7/1*6P9aNtXqWj2L_gMqRTCKtw.jpeg
+  path: ../assets/c40ca24856c7/1*6P9aNtXqWj2L_gMqRTCKtw.jpeg
 ---
 
 ### AYS Daily Digest 29/05/18: Thugs in Uniform — When will the Calais police be held accountable?
@@ -15,7 +15,7 @@ image:
 _Refugee Poverty In Jordan//Deaths at Sea//Sea Rescues//Camp Raided in Morocco//Update from Lesvos//Protest at Oinofyta camp//Families Abandoned in Elefsina//Update form Ventimiglia//Donation needs IN Dunkirk// And more…_
 
 
-![Graphic Credit: [SOS Refugiados](https://www.facebook.com/sosrefugiados/photos/a.991804800860852.1073741828.991768987531100/2016718955036093/?type=3&theater&ifg=1)](assets/c40ca24856c7/1*6P9aNtXqWj2L_gMqRTCKtw.jpeg)
+![Graphic Credit: [SOS Refugiados](https://www.facebook.com/sosrefugiados/photos/a.991804800860852.1073741828.991768987531100/2016718955036093/?type=3&theater&ifg=1)](../assets/c40ca24856c7/1*6P9aNtXqWj2L_gMqRTCKtw.jpeg)
 
 Graphic Credit: [SOS Refugiados](https://www.facebook.com/sosrefugiados/photos/a.991804800860852.1073741828.991768987531100/2016718955036093/?type=3&theater&ifg=1)
 ### Feature — Police Brutality in Calais
@@ -25,14 +25,14 @@ Once again, police officers in Calais are acting like the worst kind of criminal
 A [volunteer group](https://www.facebook.com/RefugeeInfoBus/) working in the area reported that a group of police stole a single shoe each from a group of young refugee men\. “This kind of calculated, extra\-judicial punishment is wholly unacceptable, and we call upon the French state to stamp out these cruel acts of violence and provide refugees with the protection they are legally entitled to\.”
 
 
-![Photo Credit: [Refugee Info Bus](https://www.facebook.com/RefugeeInfoBus/)](assets/c40ca24856c7/1*vxYhzakIeRJiVRVhgnI1JQ.jpeg)
+![Photo Credit: [Refugee Info Bus](https://www.facebook.com/RefugeeInfoBus/)](../assets/c40ca24856c7/1*vxYhzakIeRJiVRVhgnI1JQ.jpeg)
 
 Photo Credit: [Refugee Info Bus](https://www.facebook.com/RefugeeInfoBus/)
 
 In yet another instance of pointless brutality, the Calais police slashed refugees tents at the same time as a state\-provided breakfast was being provided on a road a few hundred meters from the encampment\. Why do the forces of “law and order” act so lawlessly way in Calais? How long will they allowed be allowed to abuse refugees with impunity?
 
 
-![Tents slashed by the police in Calais\. Photo Credit: [Refugee Info Bus](https://www.facebook.com/RefugeeInfoBus/)](assets/c40ca24856c7/1*UP5N8vCPZ-n1it019jmx5g.jpeg)
+![Tents slashed by the police in Calais\. Photo Credit: [Refugee Info Bus](https://www.facebook.com/RefugeeInfoBus/)](../assets/c40ca24856c7/1*UP5N8vCPZ-n1it019jmx5g.jpeg)
 
 Tents slashed by the police in Calais\. Photo Credit: [Refugee Info Bus](https://www.facebook.com/RefugeeInfoBus/)
 ### Jordan
@@ -56,7 +56,7 @@ Eventually the Libyan ship left the scene, and the Sea\-Watch crew asssesed that
 
 
 
-![Photo Credit: Sea\-Watch](assets/c40ca24856c7/1*tbg8dJaI7NuyHGqVJmigIQ.jpeg)
+![Photo Credit: Sea\-Watch](../assets/c40ca24856c7/1*tbg8dJaI7NuyHGqVJmigIQ.jpeg)
 
 Photo Credit: Sea\-Watch
 
@@ -98,27 +98,27 @@ Humans 4 Humanity provided an update on their efforts as well: “H4H is hosting
 We try to help with everything we can: food, distribution, night shifts, security, transportation, etc\. But we can’t do this without your support\! Please help us helping the people by donating through [https://refugee4refugees\.org/donate/](https://refugee4refugees.org/donate/) ”
 
 
-![People walking to the Humans 4 Humanity encampment from Moria, 29\.05\.18\. Photo Credit: Refugee 4 Refugees](assets/c40ca24856c7/1*tFaQUQ7uhYXbou4ivhlz2A.jpeg)
+![People walking to the Humans 4 Humanity encampment from Moria, 29\.05\.18\. Photo Credit: Refugee 4 Refugees](../assets/c40ca24856c7/1*tFaQUQ7uhYXbou4ivhlz2A.jpeg)
 
 People walking to the Humans 4 Humanity encampment from Moria, 29\.05\.18\. Photo Credit: Refugee 4 Refugees
 #### Mainland
 
 
-![The outside of Oinofyta camp, 29\.05\.18\. Photo Credit: Lisa Campbell](assets/c40ca24856c7/1*unObItp95PY6VzLPA2oipQ.jpeg)
+![The outside of Oinofyta camp, 29\.05\.18\. Photo Credit: Lisa Campbell](../assets/c40ca24856c7/1*unObItp95PY6VzLPA2oipQ.jpeg)
 
 The outside of Oinofyta camp, 29\.05\.18\. Photo Credit: Lisa Campbell
 
 According to volunteers on the ground, there were protests today outside fo the Oinofyta camp on the mainland\. People from the camp were blocking a road, and demanding to speak to journalists and government representatives, so their voices could be heard\. Their main demand was for the most vulnerable persons to be moved to housing\. While promises have been made along these lines, we have yet to see them be kept\.
 
 
-![Protestors outside the Oinofyta camp, 29\.05\.18\. Photo Credit: [Lisa Campbell](https://www.facebook.com/photo.php?fbid=10216101621350346&set=pcb.10216101625990462&type=3&theater&ifg=1)](assets/c40ca24856c7/1*ziIuPKxj2d6BWl0jV2eqoQ.jpeg)
+![Protestors outside the Oinofyta camp, 29\.05\.18\. Photo Credit: [Lisa Campbell](https://www.facebook.com/photo.php?fbid=10216101621350346&set=pcb.10216101625990462&type=3&theater&ifg=1)](../assets/c40ca24856c7/1*ziIuPKxj2d6BWl0jV2eqoQ.jpeg)
 
 Protestors outside the Oinofyta camp, 29\.05\.18\. Photo Credit: [Lisa Campbell](https://www.facebook.com/photo.php?fbid=10216101621350346&set=pcb.10216101625990462&type=3&theater&ifg=1)
 
 Tents are once again, being set up in Malakasa outside of Athens\. How can the UNHCR continue to justify the distribution of tents? The agency repsonsible for the protection of refugees needs to advocate for real accommodation, and real integretation\. We don’t need any more tent cities\.
 
 
-![Photo Credit: Arash Hampay\. “Tent to tent, camp to camp, it’s just a repetition that [\#refugees](https://www.facebook.com/hashtag/refugees?source=feed_text) believe it as a life\. Preparing hundreds of tent in Malakasa camp and some other camps for the new refugees who will move to Athens from different Islands\. Even if it is like their biggest wish for the refugees to move to Athens, but in reality nothing is going to change for them\. Again tent, again camp and repetition…”](assets/c40ca24856c7/1*PkKpC8u855ZWM-RQtjbDVw.jpeg)
+![Photo Credit: Arash Hampay\. “Tent to tent, camp to camp, it’s just a repetition that [\#refugees](https://www.facebook.com/hashtag/refugees?source=feed_text) believe it as a life\. Preparing hundreds of tent in Malakasa camp and some other camps for the new refugees who will move to Athens from different Islands\. Even if it is like their biggest wish for the refugees to move to Athens, but in reality nothing is going to change for them\. Again tent, again camp and repetition…”](../assets/c40ca24856c7/1*PkKpC8u855ZWM-RQtjbDVw.jpeg)
 
 Photo Credit: Arash Hampay\. “Tent to tent, camp to camp, it’s just a repetition that [\#refugees](https://www.facebook.com/hashtag/refugees?source=feed_text) believe it as a life\. Preparing hundreds of tent in Malakasa camp and some other camps for the new refugees who will move to Athens from different Islands\. Even if it is like their biggest wish for the refugees to move to Athens, but in reality nothing is going to change for them\. Again tent, again camp and repetition…”
 
@@ -127,7 +127,7 @@ Volunteers working in the Elefsina camp have published an open letter describing
 There are currently 220 refugees living in the camp, which is located in a building “literally in the middle of nowhere”, according to [the Greek solidarity group](https://www.facebook.com/keerfapage/photos/pcb.2367071619984798/2367069873318306/?type=3&theater) \. The camp is under a highway, near a number of chemical refineries, and far away from any town or village\. Among the people living there are 78 children who have no access to education\. From the volunteers open letter:
 
 
-![The view inside fo the Elefsina camp\. Photo Credit: [Keerfa](https://www.facebook.com/keerfapage/photos/pcb.2367071619984798/2367069873318306/?type=3&theater)](assets/c40ca24856c7/1*s4Jp56vfy6b3A0etCzV2DA.jpeg)
+![The view inside fo the Elefsina camp\. Photo Credit: [Keerfa](https://www.facebook.com/keerfapage/photos/pcb.2367071619984798/2367069873318306/?type=3&theater)](../assets/c40ca24856c7/1*s4Jp56vfy6b3A0etCzV2DA.jpeg)
 
 The view inside fo the Elefsina camp\. Photo Credit: [Keerfa](https://www.facebook.com/keerfapage/photos/pcb.2367071619984798/2367069873318306/?type=3&theater)
 

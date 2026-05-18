@@ -1,5 +1,5 @@
 ---
-title: AYS Special: Frontex and Human Rights — How did we arrive here? Part 4 (2021)
+title: "AYS Special: Frontex and Human Rights — How did we arrive here? Part 4 (2021)"
 author: Are You Syrious?
 date: 2022-01-01T17:09:23.193+0000
 last_modified_at: 2022-01-01T17:09:23.193+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [frontex,human-rights,european-union,abolishfrontex,special]
 description: Are You Syrious?
 image:
-  path: assets/7fb861cce232/0*fKccFyHBys4eBu5Y.jpeg
+  path: ../assets/7fb861cce232/0*fKccFyHBys4eBu5Y.jpeg
 ---
 
 ### AYS Special: Frontex and Human Rights — How did we arrive here? Part 4 \(2021\)
 
 
-![](assets/7fb861cce232/0*xyvCzbOUmirvnc1d.jpeg)
+![](../assets/7fb861cce232/0*xyvCzbOUmirvnc1d.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----a357275afc3f-----------------------------------)
@@ -28,7 +28,7 @@ _Check out [PART 1 \(2004–2016\)](ays-special-frontex-and-human-rights-how-did
 ### 2021
 
 
-![](assets/7fb861cce232/0*fKccFyHBys4eBu5Y.jpeg)
+![](../assets/7fb861cce232/0*fKccFyHBys4eBu5Y.jpeg)
 
 
 Helsinki, December 2021 \(Credit: [Balkanbrücke](https://twitter.com/balkanbruecke/status/1472844388917477378/photo/1) \)
@@ -37,11 +37,11 @@ Helsinki, December 2021 \(Credit: [Balkanbrücke](https://twitter.com/balkanbrue
 **Staff:** It was [envisaged](http://provisional%20estimate%20of%20budget/) that Frontex staff numbers will reach 2,000 in 2021, with 1,000 headquarters staff and 1,000 members of the agency’s standing corps\. \(See table below\) \. As of 17 December 2021, 500 Standing corps officers \(statutory staff\) were deployed\.
 
 
-![](assets/7fb861cce232/0*dgRipSNq34-0unrZ)
+![](../assets/7fb861cce232/0*dgRipSNq34-0unrZ)
 
 
 
-![](assets/7fb861cce232/0*atWmAEd0P0JdMV3Z.png)
+![](../assets/7fb861cce232/0*atWmAEd0P0JdMV3Z.png)
 
 
 [Single Programming Document 2021–2023](https://frontex.europa.eu/assets/Key_Documents/MB_Decision/2021/MB_Decision_1_2021_adopting_SPD_2021-2023.pdf)
@@ -63,7 +63,7 @@ Helsinki, December 2021 \(Credit: [Balkanbrücke](https://twitter.com/balkanbrue
 ### December
 
 
-![](assets/7fb861cce232/0*k1m5A0HtmmXlE9YS.jpeg)
+![](../assets/7fb861cce232/0*k1m5A0HtmmXlE9YS.jpeg)
 
 
 Pireaus Port, Athens \(Credit: [Abolish Frontex Athens](https://www.facebook.com/AbolishFrontexAthens/posts/109219618285824) \)
@@ -122,7 +122,7 @@ While the use of force by Frontex staff is governed by the [2019/1896 Regulation
 ### November
 
 
-![](assets/7fb861cce232/0*FaJXku6orygn2g2Q.jpeg)
+![](../assets/7fb861cce232/0*FaJXku6orygn2g2Q.jpeg)
 
 
 Credit: [Sara Montesinos](https://twitter.com/SaraMMP/status/1459491904412868611/photo/1)
@@ -160,7 +160,7 @@ _The ICC Prosecutor to open an investigation into the widespread and systematic 
 ### October
 
 
-![](assets/7fb861cce232/0*kageJp1aMTSSGcJR.jpeg)
+![](../assets/7fb861cce232/0*kageJp1aMTSSGcJR.jpeg)
 
 
 [Credit: ValK\.](https://twitter.com/ValKphotos/status/1451895258409799685/photo/1)
@@ -294,7 +294,7 @@ In a [written answer](https://www.europarl.europa.eu/doceo/document/P-9-2021-003
 ### SEPTEMBER
 
 
-![](assets/7fb861cce232/0*zHp0QhJ7B2p-7maZ.png)
+![](../assets/7fb861cce232/0*zHp0QhJ7B2p-7maZ.png)
 
 
 Credit: [Abolish Frontex](https://abolishfrontex.org/)
@@ -311,7 +311,7 @@ The operation led to the arrest of 144 suspected people smugglers; the detection
 ### AUGUST
 
 
-![](assets/7fb861cce232/0*RMhWKIjTlb93t-LN.png)
+![](../assets/7fb861cce232/0*RMhWKIjTlb93t-LN.png)
 
 
 Logo of the [Defund Frontex campaign](https://sea-watch.org/wp-content/uploads/2021/08/DefundFrontex_briefingpaper.pdf)
@@ -362,7 +362,7 @@ Read our Special about it: [The First Frontex Fundamental Rights Report, only 10
 ### JULY
 
 
-![](assets/7fb861cce232/0*NtfDkejmjCQvLuMs.jpeg)
+![](../assets/7fb861cce232/0*NtfDkejmjCQvLuMs.jpeg)
 
 
 July 2021, Brussels \(Photo by: [Agir pour la paix](https://twitter.com/agirpourlapaix_/status/1414569175692021763) \)
@@ -399,7 +399,7 @@ The FSWG’s report focused on the [managerial mismanagement](https://twitter.co
 ### JUNE
 
 
-![](assets/7fb861cce232/0*vYwDSTNffn6GB5sU.jpeg)
+![](../assets/7fb861cce232/0*vYwDSTNffn6GB5sU.jpeg)
 
 
 19 June 2021\. The Balkanroute calling caravan reach Maljevac, on the Croatian / Bosnian border\. \(Photo by: [Lesvos Calling](https://twitter.com/abolishfrontex/status/1406331004038565888) \)
@@ -446,7 +446,7 @@ Regarding the expansion in staff and budget set in motion with the 2019 Regulati
 ### MAY
 
 
-![](assets/7fb861cce232/0*hFsAgStqwE9qkh0s.jpeg)
+![](../assets/7fb861cce232/0*hFsAgStqwE9qkh0s.jpeg)
 
 
 7 May 2021\. Mytilene, Lesvos\. Photo by [No Border Kitchen](https://twitter.com/noborderkitchen/status/1390607382426828804)
@@ -457,7 +457,7 @@ Regarding the expansion in staff and budget set in motion with the 2019 Regulati
 ### APRIL
 
 
-![](assets/7fb861cce232/0*VuuT91hCGb2iswKE.jpeg)
+![](../assets/7fb861cce232/0*VuuT91hCGb2iswKE.jpeg)
 
 
 Brussels, Belgium — May Day Demonstration, 1 May 2021 \( [by Sans Papiers TV, via Carola Rackete](https://twitter.com/CaroRackete/status/1388548360068603909/photo/1) \)
@@ -519,18 +519,18 @@ Brussels, Belgium — May Day Demonstration, 1 May 2021 \( [by Sans Papiers TV, 
 **1 April:** In an internal email to Frontex Management Board, German Federal Interior Minister Horst Seehofer pushes against the setting up of a new internal working group to carry on the investigation on pushbacks in the Aegean\. The email was later on published by [EMP Erik Marquardt](https://twitter.com/ErikMarquardt/status/1383396199525339136/photo/1) and [Der Spiegel](https://www.spiegel.de/politik/ausland/griechenland-wie-horst-seehofer-die-aufklaerung-im-frontex-skandal-behindert-a-042669cd-5d44-4060-a7ca-62efb60355fc) \.
 
 
-![](assets/7fb861cce232/0*Of9vBSjuug2yZb2z)
+![](../assets/7fb861cce232/0*Of9vBSjuug2yZb2z)
 
 
 
-![](assets/7fb861cce232/0*gcJy6ULe8p4bnhs2.jpeg)
+![](../assets/7fb861cce232/0*gcJy6ULe8p4bnhs2.jpeg)
 
 
 Credit: [Erik Marquardt](https://twitter.com/ErikMarquardt/status/1383396199525339136/photo/1)
 ### MARCH
 
 
-![](assets/7fb861cce232/0*GdjmHh9NchZZDuNd.jpeg)
+![](../assets/7fb861cce232/0*GdjmHh9NchZZDuNd.jpeg)
 
 
 Photo by Bernd Sauer\-Dieter
@@ -628,7 +628,7 @@ The working group called on the EU to clarify the legal framework regarding bord
 ### FEBRUARY
 
 
-![](assets/7fb861cce232/0*fPifojxDsnzzEWet.png)
+![](../assets/7fb861cce232/0*fPifojxDsnzzEWet.png)
 
 
 Photo by [Ines Pousadela](https://twitter.com/inespousadela/status/1367488451340357640/photo/1)
@@ -723,7 +723,7 @@ Commenting the decision, Statewatch argued that it makes no sense because “it 
 ### JANUARY
 
 
-![](assets/7fb861cce232/0*e4gRpetAOdXRI_Ou.jpeg)
+![](../assets/7fb861cce232/0*e4gRpetAOdXRI_Ou.jpeg)
 
 
 **29 January:** Extremely busy day for Frontex\.

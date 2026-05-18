@@ -1,5 +1,5 @@
 ---
-title: AYS New Year Special: This is what we wish for in 2017.
+title: "AYS New Year Special: This is what we wish for in 2017."
 author: Are You Syrious?
 date: 2016-12-31T19:43:40.604+0000
 last_modified_at: 2018-03-01T14:33:02.906+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [2017,refugees,new-year,volunteers,special]
 description: Our volunteers and collaborators share expectations on how their countries should treat refugees in the year to come.
 image:
-  path: assets/106066f0bf74/1*L_T2tFSsEup1lCp5BbYxiw.jpeg
+  path: ../assets/106066f0bf74/1*L_T2tFSsEup1lCp5BbYxiw.jpeg
 ---
 
 ### AYS New Year Special: This is what we wish for in 2017\.
@@ -15,7 +15,7 @@ image:
 _Our volunteers and collaborators share expectations on how their countries should treat refugees in the year to come\._
 
 
-![Athens, Greece, Helping Hand, Atek Art\. From Art Against\.](assets/106066f0bf74/1*L_T2tFSsEup1lCp5BbYxiw.jpeg)
+![Athens, Greece, Helping Hand, Atek Art\. From Art Against\.](../assets/106066f0bf74/1*L_T2tFSsEup1lCp5BbYxiw.jpeg)
 
 Athens, Greece, Helping Hand, Atek Art\. From Art Against\.
 #### Intro
@@ -25,7 +25,7 @@ When people say 2016 was the deadliest year so far, they too often say it in rel
 ### Dear 2017, I hope you will be better
 
 
-![](assets/106066f0bf74/1*C8HLeCab_7h5ErunLt3Hbw.jpeg)
+![](../assets/106066f0bf74/1*C8HLeCab_7h5ErunLt3Hbw.jpeg)
 
 
 Dear 2016,
@@ -59,7 +59,7 @@ I wish for Greece to stop pretending it respects refugee rights, admit its syste
 _Electra Leda Koutra / Pleiades — Hellenic Action for Human Rights_
 
 
-![“ Here we close our eyes every night and here we open it again, some of us like their dream more than the reality, some of us would like to keep sleeping and dreaming more than waking up to find them selves here\.” Through refugee eyes](assets/106066f0bf74/1*1yXLwHP7u3qcbChV8JEOTQ.jpeg)
+![“ Here we close our eyes every night and here we open it again, some of us like their dream more than the reality, some of us would like to keep sleeping and dreaming more than waking up to find them selves here\.” Through refugee eyes](../assets/106066f0bf74/1*1yXLwHP7u3qcbChV8JEOTQ.jpeg)
 
 “ Here we close our eyes every night and here we open it again, some of us like their dream more than the reality, some of us would like to keep sleeping and dreaming more than waking up to find them selves here\.” Through refugee eyes
 ### Empowerment is a powerful thing
@@ -97,7 +97,7 @@ When the Balkan route opened last year, many people from Bosnia and Herzegovina,
 _Nidžara Ahmetašević, AYS editor_
 
 
-![Afghan refugees in Belgrade\. By [Igor Čoko](https://www.facebook.com/antonio.cimavica) \.](assets/106066f0bf74/1*B-Ru0pAjADUvcz-ejqUVCQ.jpeg)
+![Afghan refugees in Belgrade\. By [Igor Čoko](https://www.facebook.com/antonio.cimavica) \.](../assets/106066f0bf74/1*B-Ru0pAjADUvcz-ejqUVCQ.jpeg)
 
 Afghan refugees in Belgrade\. By [Igor Čoko](https://www.facebook.com/antonio.cimavica) \.
 #### Serbia
@@ -129,7 +129,7 @@ _Salome Schaerer, MigSzol_
 In 2015, Croatia was one of the first ex\-Yugoslavian countries to offer humanitarian transit support for refugees on Balkan route\. In 2016, it was one of the first countries to deny it\. While noticeable progress has been made in providing decent living conditions to those who are stuck in Croatia, we still refuse to accept the reality of constant migration through our country\. Smuggler activity has replaced government\-led, NGO\-supported humanitarian response which made us so proud in the past\.
 
 
-![AYS volunteers Sanja Miskovic and Dzenana Dzaferagic playing with children in Porin refugee hotel\. Photo: Sanja San](assets/106066f0bf74/1*JBSevst9HzvWRpCHtPq6EQ.jpeg)
+![AYS volunteers Sanja Miskovic and Dzenana Dzaferagic playing with children in Porin refugee hotel\. Photo: Sanja San](../assets/106066f0bf74/1*JBSevst9HzvWRpCHtPq6EQ.jpeg)
 
 AYS volunteers Sanja Miskovic and Dzenana Dzaferagic playing with children in Porin refugee hotel\. Photo: Sanja San
 
@@ -142,7 +142,7 @@ _Milena Zajović, AYS editor_
 For Austria I wish refugees to be treated as human beings rather than numbers by political decision makers, and hope for the spirit of the Geneva Convention to be upheld and reinforced; I hope victims of war and displacement won’t be stereotyped any longer in the public debate; I wish asylum seekers won’t have to wait one and a half years or longer to be able to explain their reasons for seeking international protection in Austria\.
 
 
-![Sentilj/Spielfeld border crossing, the main gateway to Austria from Sept 2015 to March 2016\. Photo: Petra Leschanz](assets/106066f0bf74/1*sVHM1kwEgRGhYQBrMwnmDQ.jpeg)
+![Sentilj/Spielfeld border crossing, the main gateway to Austria from Sept 2015 to March 2016\. Photo: Petra Leschanz](../assets/106066f0bf74/1*sVHM1kwEgRGhYQBrMwnmDQ.jpeg)
 
 Sentilj/Spielfeld border crossing, the main gateway to Austria from Sept 2015 to March 2016\. Photo: Petra Leschanz
 
@@ -157,7 +157,7 @@ My wish isn’t just for 2017 but for 2018, 2019, 2020\. It is for as long as th
 _Gabrielle Tan, Action from Switzerland_
 
 
-![In 2016, Switzerland rejected three quarters of asylum applications received\. Photo: Anna Bleibe](assets/106066f0bf74/1*cgR592IglTdsz66Lu0E4TA.jpeg)
+![In 2016, Switzerland rejected three quarters of asylum applications received\. Photo: Anna Bleibe](../assets/106066f0bf74/1*cgR592IglTdsz66Lu0E4TA.jpeg)
 
 In 2016, Switzerland rejected three quarters of asylum applications received\. Photo: Anna Bleibe
 #### Germany
@@ -168,7 +168,7 @@ In 2016 we saw huge efforts in integrating refugees\. More and more were able to
 _Niklas Golitschek, AYS contributor \(Brian Miller and Lena Reiner contributed\)_
 
 
-![Volunteers are also working tirelessly to make integration as smooth as possible\.](assets/106066f0bf74/1*7xo2mVzBciiHt3uH6PJKGg.jpeg)
+![Volunteers are also working tirelessly to make integration as smooth as possible\.](../assets/106066f0bf74/1*7xo2mVzBciiHt3uH6PJKGg.jpeg)
 
 Volunteers are also working tirelessly to make integration as smooth as possible\.
 #### Italy
@@ -207,7 +207,7 @@ We want human rights to be the program of all political parties in Europe\.
 _Richi Valderrama, independent volunteer_
 
 
-![“We’ve come across some incredible people this year; we’re thankful to have met & learned from their strength & resilience\.” Photo by Jason Florio/MOAS](assets/106066f0bf74/1*HaF_thZEbwiC1EFhV5mBXg.jpeg)
+![“We’ve come across some incredible people this year; we’re thankful to have met & learned from their strength & resilience\.” Photo by Jason Florio/MOAS](../assets/106066f0bf74/1*HaF_thZEbwiC1EFhV5mBXg.jpeg)
 
 “We’ve come across some incredible people this year; we’re thankful to have met & learned from their strength & resilience\.” Photo by Jason Florio/MOAS
 #### Portugal
@@ -250,7 +250,7 @@ So on the dawn of a new year lets take a moment to reflect on article 2; “Ever
 _Aida Kristina Ničija, AYS info gatherer_
 
 
-![Message from a recent solidarity protest in Amsterdam\. Photo: Aida Kristina Ničija / AYS](assets/106066f0bf74/1*xL8izXdRgItGh7X4qQMtEQ.jpeg)
+![Message from a recent solidarity protest in Amsterdam\. Photo: Aida Kristina Ničija / AYS](../assets/106066f0bf74/1*xL8izXdRgItGh7X4qQMtEQ.jpeg)
 
 Message from a recent solidarity protest in Amsterdam\. Photo: Aida Kristina Ničija / AYS
 #### Sweden
@@ -271,7 +271,7 @@ In the other hand, I never thought to meet and work with hundreds of internation
 The third — I wish peace, warmth and happiness to all the suffering people, I wish you are reunited with your family soon as possible, I wish you life,however and wherever you feel the best\. As migrant myself, I feel the best in Norway\. This country has been known as one of the richest and most peaceful countries in the world\. However it revealed also to be one of the most profiting nations over oil related conflicts\. The Nobel prize host is one of the country with the strictest and most unwelcoming policies regarding asylum seekers\.
 
 
-![Øistein Norum Monsen / NRK](assets/106066f0bf74/1*RRl2fkvWj5hp93wK2s7L7g.png)
+![Øistein Norum Monsen / NRK](../assets/106066f0bf74/1*RRl2fkvWj5hp93wK2s7L7g.png)
 
 Øistein Norum Monsen / NRK
 
@@ -284,7 +284,7 @@ _Ana Jorge, AYS collaborator / Greecevol\.info_
 Many more authors, researchers and collaborators have greatly contributed to AYS info team in the past year\. It’s been a hard year and we’d like to use this opportunity to warmly thank all volunteers who have sacrificed their own private lives to help the others\. **You make this world a better place\.**
 
 
-![The Future, Noor\-17, Syria, Nea Kavala, Art Without Borders](assets/106066f0bf74/1*bOaenUKAMvnYu9zG2TiFDQ.jpeg)
+![The Future, Noor\-17, Syria, Nea Kavala, Art Without Borders](../assets/106066f0bf74/1*bOaenUKAMvnYu9zG2TiFDQ.jpeg)
 
 The Future, Noor\-17, Syria, Nea Kavala, Art Without Borders
 

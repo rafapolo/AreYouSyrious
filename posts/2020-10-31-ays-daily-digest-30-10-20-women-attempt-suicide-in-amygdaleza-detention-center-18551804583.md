@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 30/10/20: Women attempt suicide in Amygdaleza detention center
+title: "AYS Daily Digest 30/10/20: Women attempt suicide in Amygdaleza detention center"
 author: Are You Syrious?
 date: 2020-10-31T15:54:01.439+0000
 last_modified_at: 2020-10-31T18:44:25.260+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,migrants,greece,balkan-route,detention]
 description: A hunger strike started after the two suicide attempts in detention, unconscious woman waited for help for almost two hours / Residents…
 image:
-  path: assets/18551804583/1*zMpP2pfU3PH6KIJp3rR_qg.jpeg
+  path: ../assets/18551804583/1*zMpP2pfU3PH6KIJp3rR_qg.jpeg
 ---
 
 ### AYS Daily Digest 30/10/20: Women attempt suicide in Amygdaleza detention centre
 #### A hunger strike started after the two suicide attempts in detention, where an unconscious woman waited for help for almost two hours / Residents and activists sharing accounts of eviction from the Pikpa camp / At least 140 people drown off Senegalese coast / Girls, underage, arriving alone in Melilla / UNHCR Calling for the re\-opening of UK’s global resettlement scheme
 
 
-![Nine women, seven of them being detained for over five months, have started a hunger strike in support of fellow inmates who didn’t receive much needed urgent medical help](assets/18551804583/1*zMpP2pfU3PH6KIJp3rR_qg.jpeg)
+![Nine women, seven of them being detained for over five months, have started a hunger strike in support of fellow inmates who didn’t receive much needed urgent medical help](../assets/18551804583/1*zMpP2pfU3PH6KIJp3rR_qg.jpeg)
 
 Nine women, seven of them being detained for over five months, have started a hunger strike in support of fellow inmates who didn’t receive much needed urgent medical help
 #### FEATURED
@@ -137,11 +137,11 @@ As we [previously reported in our earlier News Digest](ays-daily-digest-28-10-20
 This is how 99% people in transit who are stuck in Velika Kladuša “live” at the moment\. For most of the year, this is how the men, wormen and children across the country are forced to survive\. The sunny weather in the past days is most likely the only reason why these people have not frozen by now, [Bosnian volunteer](https://web.facebook.com/dzeneta.armin?__cft__[0]=AZUS32yj9UYLAn-iohJmh9Hr4O9a7QPLnwyyq9eggydy0_xxCU6TERaSImh4F-Gc_HfJ7iE1oakIyM-tfd4ghx0t_t5sBuS-YKAjtnCCiRm4Ie_Eje06e1-hFW44qof1QKTi-RWxQI_LLKs0RmhVmpJiiLNJhVd69gz5uxS5X-3k9kavI2VgHNZKUDy0kYwUOUNv1F8wSbhcYqRw4caKqiBq&__tn__=-UC%2CP-y-R) writes\.
 
 
-![](assets/18551804583/0*YZW1usBtS3595RLb)
+![](../assets/18551804583/0*YZW1usBtS3595RLb)
 
 
 
-![Photos: [Dženeta Delić Sadiković](https://web.facebook.com/dzeneta.armin?__tn__=-UC*F)](assets/18551804583/0*5cwtu7woalSNqSJD)
+![Photos: [Dženeta Delić Sadiković](https://web.facebook.com/dzeneta.armin?__tn__=-UC*F)](../assets/18551804583/0*5cwtu7woalSNqSJD)
 
 Photos: [Dženeta Delić Sadiković](https://web.facebook.com/dzeneta.armin?__tn__=-UC*F)
 #### THE MEDITERRANEAN ROUTE
@@ -150,7 +150,7 @@ Photos: [Dženeta Delić Sadiković](https://web.facebook.com/dzeneta.armin?__tn
 This video — filmed by local fishermen — shows thick black smoke in the distance and two survivors swimming up to the side of a boat\.
 
 
-[![Sénégal : une pirogue transportant des candidats à l'émigration prend feu](assets/18551804583/c957_hqdefault.jpg "Sénégal : une pirogue transportant des candidats à l'émigration prend feu")](https://www.youtube.com/watch?v=EPdAVBzolLE)
+[![Sénégal : une pirogue transportant des candidats à l'émigration prend feu](../assets/18551804583/c957_hqdefault.jpg "Sénégal : une pirogue transportant des candidats à l'émigration prend feu")](https://www.youtube.com/watch?v=EPdAVBzolLE)
 
 
 The continuing push for the externalisation of borders and the asylum system has been made evident in the recent EU decisions, and especially the Migration Pact\. In a report to the EU Council, Frontex announced that the Hera mission [reportedl](https://l.facebook.com/l.php?u=https%3A%2F%2Ftwitter.com%2Fsaracreta%2Fstatus%2F1322236071514689536%3Ffbclid%3DIwAR0gca2hT6-KyBu8mIkDgo6BF6eNjgQxgcVeQaydYPg1Lc1i5J_W4_q_jbo&h=AT0QQEhuoJuHblveY_plmlH-RR98uKS3i3R4N8ofXVZXwrlxAonVbRwjKOTfs0lKA_5fd6CNVQTPuBIr1mWd8yig7bfwfOnmepr4LNPgQXaJ0X8_IJJxNTzXMd-1RLkfdYl4JD2UqhUkuA&__tn__=R]-R&c[0]=AT2IcbLAr7b6ZKPOhrfsu3pg5tGkKCEFBknAMVQ8hL71Ku2R7MRfvelEWi6CrzqGhqvaig2zYfF2sv_f1rvNOoWjFFS6GtjAbNRQkh0p8rHf5leIWOa_40i8U-ctRhhUoDcPahTmypovpG0nTXuf093ZUDgVXbWik_r26f4h8yxvTC_SygFtiq06CJFJRHcu6Hvk9TYpjq9ufYkaDQ) y includes the possibility of disembarking in [S](https://web.facebook.com/hashtag/senegal?__eep__=6&__cft__[0]=AZVy32ThIzidHM915fFRnwhFd2UofK8Fl0uQpLp1DsSkaGg_8X74lplUHrbOw5qM67zQ7gD86IhqmfYvhivVuSN5MW2olZdQ4uEM7DThsDOLQ9hKxkj5vbR0l1KBnoMYJ1C8T0D0e6JLYKm9VjowNtaD0oPjhA9C04WC8r5O0MU1E144HzC9v0qvxHIKvxFYDLk&__tn__=R]-R) enegal foreign citizens intercepted at sea during naval and air patrol operations\.

@@ -1,5 +1,5 @@
 ---
-title: AYS Special from Greece: “I cannot swim.”
+title: "AYS Special from Greece: “I cannot swim.”"
 author: Are You Syrious?
 date: 2022-02-06T11:18:41.140+0000
 last_modified_at: 2022-02-06T12:50:28.272+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [special,pushback,refugees,greece,borders]
 description: Today is a global day of CommemorAction for people who have died, gone missing or become forcibly disappeared on their journeys.
 image:
-  path: assets/bf1b1bd091eb/1*vsv1PDc0S-TLs-DTYCzZRQ.jpeg
+  path: ../assets/bf1b1bd091eb/1*vsv1PDc0S-TLs-DTYCzZRQ.jpeg
 ---
 
 ### AYS Special from Greece: “I cannot swim\.”
@@ -15,7 +15,7 @@ image:
 _Today is a global day of [CommemorAction](https://twitter.com/alarm_phone/status/1486981418626527232) for people who have died, gone missing or forcibly disappeared on their journeys across borders\. In Greece and throughout the world there will be acts of commemoration and resistance at the end of a week that has seen two further reports of violent deaths at the border\._
 
 
-![\(Banner in Athens\. Photo Credit: [International Kurdistan Committee](https://twitter.com/StopPushbacks) \)](assets/bf1b1bd091eb/1*vsv1PDc0S-TLs-DTYCzZRQ.jpeg)
+![\(Banner in Athens\. Photo Credit: [International Kurdistan Committee](https://twitter.com/StopPushbacks) \)](../assets/bf1b1bd091eb/1*vsv1PDc0S-TLs-DTYCzZRQ.jpeg)
 
 \(Banner in Athens\. Photo Credit: [International Kurdistan Committee](https://twitter.com/StopPushbacks) \)
 
@@ -44,11 +44,11 @@ Further reports of [19 deaths](https://www.aa.com.tr/en/europe/germany-urges-pro
 
 
 
-![](assets/bf1b1bd091eb/1*St8YBZeAOHp5zjkT0X8Ahg.jpeg)
+![](../assets/bf1b1bd091eb/1*St8YBZeAOHp5zjkT0X8Ahg.jpeg)
 
 
 
-![\(The hilly areas of Evros, between the villages of Aisymi and Megalo Dereio, in mid\-January\. Photo Credit: [Lena K\.](https://twitter.com/lk2015r/status/1489254605712068609/photo/2) \)](assets/bf1b1bd091eb/1*shwURjuncHo5EDBcXzQDiQ.jpeg)
+![\(The hilly areas of Evros, between the villages of Aisymi and Megalo Dereio, in mid\-January\. Photo Credit: [Lena K\.](https://twitter.com/lk2015r/status/1489254605712068609/photo/2) \)](../assets/bf1b1bd091eb/1*shwURjuncHo5EDBcXzQDiQ.jpeg)
 
 \(The hilly areas of Evros, between the villages of Aisymi and Megalo Dereio, in mid\-January\. Photo Credit: [Lena K\.](https://twitter.com/lk2015r/status/1489254605712068609/photo/2) \)
 

@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 2/10: Humanity wins in Hungary
+title: "AYS DAILY DIGEST 2/10: Humanity wins in Hungary"
 author: Are You Syrious?
 date: 2016-10-02T22:00:10.178+0100
 last_modified_at: 2016-10-02T22:00:10.178+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,viktor-orban,referendum-in-hungary,como-refugee-center]
 description: People in Hungary said no to hate and xenophobia. Orban promissed to resign if referendum fails. We hope he is a man of word. Almost 1000…
 image:
-  path: assets/26455e44497f/1*J4HyXl6U-4YP86ti5P891g.jpeg
+  path: ../assets/26455e44497f/1*J4HyXl6U-4YP86ti5P891g.jpeg
 ---
 
 ### AYS DAILY DIGEST 2/10: Humanity wins in Hungary
@@ -15,7 +15,7 @@ image:
 _People in Hungary said no to hate and xenophobia\. Orban promissed to resign if referendum fails\. We hope he is a man of word\. Almost 1000 people arrived to Greece during September\. Volunteers needed in Athens\. New rules for new commers in Como refugee center\. Help needed in France\._
 
 
-![Nationally, 6 percent of the ballots were spoiled\. Voters answered the satirical Two Tailed Dog Party campaign caling on voters to spoil their ballost\.](assets/26455e44497f/1*J4HyXl6U-4YP86ti5P891g.jpeg)
+![Nationally, 6 percent of the ballots were spoiled\. Voters answered the satirical Two Tailed Dog Party campaign caling on voters to spoil their ballost\.](../assets/26455e44497f/1*J4HyXl6U-4YP86ti5P891g.jpeg)
 
 Nationally, 6 percent of the ballots were spoiled\. Voters answered the satirical Two Tailed Dog Party campaign caling on voters to spoil their ballost\.
 ### Feature story
@@ -28,7 +28,7 @@ The morning before the referendum, [Hungarian leader Viktor Orban promised publi
 The referendum question was _“Are you are in favor of the EU being allowed to make the settlement of non\-Hungarians obligatory in Hungary even if the parliament does not agree?”_ Interestingly, turnout was highest in more affluent districts \(also within Budapest\) \.
 
 
-![](assets/26455e44497f/1*IIKOG_9dO3lCZgHTRJ7eZg.jpeg)
+![](../assets/26455e44497f/1*IIKOG_9dO3lCZgHTRJ7eZg.jpeg)
 
 
 Low turnout is also a victory for the opposition parties and human rights groups which called on Hungarians to boycott the referendum describing it as illegitimate\. _“The question is unconstitutional,”_ argued opposition leader Viktor Szigetvári, _“And it’s a sign of our illiberal democracy that such a formally illegal question can be put on the ballot paper\.”_ Rights campaigners described the pre\-referendum atmosphere as dark and scary\. _“The mood is quite reminiscent of the 1930s,”_ Márta Pardavi, co\-chair of the _Hungarian Helsinki Committee_ , told the media\.
@@ -42,7 +42,7 @@ Eastern European countries, including Hungary, Slovakia and Poland have vehement
 MSF boat crew were busy last night and today saving over 200 people from the sea\. All the people are transferred to the safe places\. 40 percent of those rescued were unaccompanied kids\.
 
 
-![Photo by MSF Sea\.](assets/26455e44497f/1*LmaEn80gH5QcwLrBnDQCEA.jpeg)
+![Photo by MSF Sea\.](../assets/26455e44497f/1*LmaEn80gH5QcwLrBnDQCEA.jpeg)
 
 Photo by MSF Sea\.
 ### Greece
@@ -176,26 +176,26 @@ When you are offering your help and agreeing to a date and time, please do honor
 Men’s space in [**Elpida**](https://www.facebook.com/elpidafactory/) is complete and today they celebrated the opening with lots of tea and delicious chocolate cake\.
 
 
-![](assets/26455e44497f/1*b4RzMT5CUKblxIVtRnb2rw.jpeg)
+![](../assets/26455e44497f/1*b4RzMT5CUKblxIVtRnb2rw.jpeg)
 
 
 
-![](assets/26455e44497f/1*vsiHrCDcNzo9V6ea_8_sUw.jpeg)
+![](../assets/26455e44497f/1*vsiHrCDcNzo9V6ea_8_sUw.jpeg)
 
 
 
-![Photo by Together for Better Days\.](assets/26455e44497f/1*H2aqrD0MkFyyXQb2GTHhUg.jpeg)
+![Photo by Together for Better Days\.](../assets/26455e44497f/1*H2aqrD0MkFyyXQb2GTHhUg.jpeg)
 
 Photo by Together for Better Days\.
 
 Also, a group of women in Elpida joined a sewing group\. They are making school bags for the children, pajamas, dresses and mending and altering the clothes they already have\.
 
 
-![](assets/26455e44497f/1*ArNs6u_-QpoVQMEaiJfQCA.jpeg)
+![](../assets/26455e44497f/1*ArNs6u_-QpoVQMEaiJfQCA.jpeg)
 
 
 
-![Photo by Together for Better Days\.](assets/26455e44497f/1*MUmK7Ftn2HF2WQ8z7QBimg.jpeg)
+![Photo by Together for Better Days\.](../assets/26455e44497f/1*MUmK7Ftn2HF2WQ8z7QBimg.jpeg)
 
 Photo by Together for Better Days\.
 #### People at Samos needs your help
@@ -216,16 +216,16 @@ For more info about situation in Como area, follow FB page by [**WelCome Osserva
 ### France
 
 
-![](assets/26455e44497f/1*SJjl-rgQSXbaRpeBjG4lLw.jpeg)
+![](../assets/26455e44497f/1*SJjl-rgQSXbaRpeBjG4lLw.jpeg)
 
 
 
-![It became cold all over Europe\. In Paris, people live on the streets\. Many don’t have tents, a coat or a jumper\. They have built shelters from whatever they can find\. Is this Europe?](assets/26455e44497f/1*EQCSJiKrh6dOHgIb5ZkhIA.jpeg)
+![It became cold all over Europe\. In Paris, people live on the streets\. Many don’t have tents, a coat or a jumper\. They have built shelters from whatever they can find\. Is this Europe?](../assets/26455e44497f/1*EQCSJiKrh6dOHgIb5ZkhIA.jpeg)
 
 It became cold all over Europe\. In Paris, people live on the streets\. Many don’t have tents, a coat or a jumper\. They have built shelters from whatever they can find\. Is this Europe?
 
 
-[![[Shortcut] Manif interdite à Calais : affrontements avec la police - 1er octobre 2016](assets/26455e44497f/8ab1_hqdefault.jpg "[Shortcut] Manif interdite à Calais : affrontements avec la police - 1er octobre 2016")](http://www.youtube.com/watch?v=iequ5u9Outc)
+[![[Shortcut] Manif interdite à Calais : affrontements avec la police - 1er octobre 2016](../assets/26455e44497f/8ab1_hqdefault.jpg "[Shortcut] Manif interdite à Calais : affrontements avec la police - 1er octobre 2016")](http://www.youtube.com/watch?v=iequ5u9Outc)
 
 #### LIFE\-SAVING PHONE CREDIT NEEDED
 

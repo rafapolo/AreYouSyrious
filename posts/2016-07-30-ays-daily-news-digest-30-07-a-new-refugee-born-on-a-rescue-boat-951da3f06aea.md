@@ -1,5 +1,5 @@
 ---
-title: AYS Daily News Digest 30/07: A new refugee born on a rescue boat
+title: "AYS Daily News Digest 30/07: A new refugee born on a rescue boat"
 author: Are You Syrious?
 date: 2016-07-30T22:13:09.662+0100
 last_modified_at: 2016-07-31T21:58:48.707+0100
@@ -7,7 +7,7 @@ categories:
 tags: [syria,refugees,refugee-crisis]
 description: Aylan Kurdi’s father says his son ‘died for nothing’ as refugee disasters put 2016 on course to be deadliest year ever. Another refugee…
 image:
-  path: assets/951da3f06aea/1*KRDiEQlsTeof0ZWmYt3wCg.jpeg
+  path: ../assets/951da3f06aea/1*KRDiEQlsTeof0ZWmYt3wCg.jpeg
 ---
 
 ### AYS Daily News Digest 30/07: A new refugee born on a rescue boat
@@ -19,7 +19,7 @@ image:
 
 
 
-![The beautiful message sent by [**No Border Kitchen Lesvos**](https://www.facebook.com/NBKLesvos/)](assets/951da3f06aea/1*KRDiEQlsTeof0ZWmYt3wCg.jpeg)
+![The beautiful message sent by [**No Border Kitchen Lesvos**](https://www.facebook.com/NBKLesvos/)](../assets/951da3f06aea/1*KRDiEQlsTeof0ZWmYt3wCg.jpeg)
 
 The beautiful message sent by [**No Border Kitchen Lesvos**](https://www.facebook.com/NBKLesvos/)
 #### Mediterranean
@@ -125,7 +125,7 @@ The beautiful message sent by [**No Border Kitchen Lesvos**](https://www.faceboo
 
 
 
-![[**No Border Kitchen Lesvos**](https://www.facebook.com/NBKLesvos/) **’ new housing, after they were evicted from their previous home by a bank\. Credits: [No Border Kitchen Lesvos](https://www.facebook.com/NBKLesvos/)**](assets/951da3f06aea/1*nCmNFWXapGZu5_5IpLDVxQ.jpeg)
+![[**No Border Kitchen Lesvos**](https://www.facebook.com/NBKLesvos/) **’ new housing, after they were evicted from their previous home by a bank\. Credits: [No Border Kitchen Lesvos](https://www.facebook.com/NBKLesvos/)**](../assets/951da3f06aea/1*nCmNFWXapGZu5_5IpLDVxQ.jpeg)
 
 [**No Border Kitchen Lesvos**](https://www.facebook.com/NBKLesvos/) **’ new housing, after they were evicted from their previous home by a bank\. Credits: [No Border Kitchen Lesvos](https://www.facebook.com/NBKLesvos/)**
 ### Please help putting shoes on children’s bare feet
@@ -184,44 +184,44 @@ The beautiful message sent by [**No Border Kitchen Lesvos**](https://www.faceboo
 
 
 
-![](assets/951da3f06aea/1*qk-fftt62pPM8a3UKlxWTg.jpeg)
+![](../assets/951da3f06aea/1*qk-fftt62pPM8a3UKlxWTg.jpeg)
 
 
 
-![Credits: **‎ [Kayra Martinez](https://www.facebook.com/kayra.martinez?fref=nf)**](assets/951da3f06aea/1*UMfGscBHywzOE8Msmm8y_Q.jpeg)
-
-Credits: **‎ [Kayra Martinez](https://www.facebook.com/kayra.martinez?fref=nf)**
-
-
-![](assets/951da3f06aea/1*Ow9Yz6IpC1Kl4BGzHUdkpw.jpeg)
-
-
-
-![Credits: **‎ [Kayra Martinez](https://www.facebook.com/kayra.martinez?fref=nf)**](assets/951da3f06aea/1*HMbeTkd-eYpkdg1WI3GF-A.jpeg)
+![Credits: **‎ [Kayra Martinez](https://www.facebook.com/kayra.martinez?fref=nf)**](../assets/951da3f06aea/1*UMfGscBHywzOE8Msmm8y_Q.jpeg)
 
 Credits: **‎ [Kayra Martinez](https://www.facebook.com/kayra.martinez?fref=nf)**
 
 
-![Credits: **‎ [Kayra Martinez](https://www.facebook.com/kayra.martinez?fref=nf)**](assets/951da3f06aea/1*_6obEZHJLaMbgpTmYNMbDw.jpeg)
+![](../assets/951da3f06aea/1*Ow9Yz6IpC1Kl4BGzHUdkpw.jpeg)
+
+
+
+![Credits: **‎ [Kayra Martinez](https://www.facebook.com/kayra.martinez?fref=nf)**](../assets/951da3f06aea/1*HMbeTkd-eYpkdg1WI3GF-A.jpeg)
 
 Credits: **‎ [Kayra Martinez](https://www.facebook.com/kayra.martinez?fref=nf)**
 
 
-![](assets/951da3f06aea/1*MqJBlZ78Uy9XNNvTYmlXnA.jpeg)
-
-
-
-![Credits: **‎ [Kayra Martinez](https://www.facebook.com/kayra.martinez?fref=nf)**](assets/951da3f06aea/1*696M-IfUUz7AgdDD8FTF1g.jpeg)
+![Credits: **‎ [Kayra Martinez](https://www.facebook.com/kayra.martinez?fref=nf)**](../assets/951da3f06aea/1*_6obEZHJLaMbgpTmYNMbDw.jpeg)
 
 Credits: **‎ [Kayra Martinez](https://www.facebook.com/kayra.martinez?fref=nf)**
 
 
-![Credits: **‎ [Kayra Martinez](https://www.facebook.com/kayra.martinez?fref=nf)**](assets/951da3f06aea/1*S5NaJr86Pf8gpIQ3EV3yQg.jpeg)
+![](../assets/951da3f06aea/1*MqJBlZ78Uy9XNNvTYmlXnA.jpeg)
+
+
+
+![Credits: **‎ [Kayra Martinez](https://www.facebook.com/kayra.martinez?fref=nf)**](../assets/951da3f06aea/1*696M-IfUUz7AgdDD8FTF1g.jpeg)
 
 Credits: **‎ [Kayra Martinez](https://www.facebook.com/kayra.martinez?fref=nf)**
 
 
-![Credits: **‎ [Kayra Martinez](https://www.facebook.com/kayra.martinez?fref=nf)**](assets/951da3f06aea/1*UuZ1LGG0h6HYMFaQTVAz5A.jpeg)
+![Credits: **‎ [Kayra Martinez](https://www.facebook.com/kayra.martinez?fref=nf)**](../assets/951da3f06aea/1*S5NaJr86Pf8gpIQ3EV3yQg.jpeg)
+
+Credits: **‎ [Kayra Martinez](https://www.facebook.com/kayra.martinez?fref=nf)**
+
+
+![Credits: **‎ [Kayra Martinez](https://www.facebook.com/kayra.martinez?fref=nf)**](../assets/951da3f06aea/1*UuZ1LGG0h6HYMFaQTVAz5A.jpeg)
 
 Credits: **‎ [Kayra Martinez](https://www.facebook.com/kayra.martinez?fref=nf)**
 #### Italy

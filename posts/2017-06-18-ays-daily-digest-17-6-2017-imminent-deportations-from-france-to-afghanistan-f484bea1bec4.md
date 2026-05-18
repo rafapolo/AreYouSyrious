@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 17/06/17: Imminent deportations from France to Afghanistan
+title: "AYS Daily Digest 17/06/17: Imminent deportations from France to Afghanistan"
 author: Are You Syrious?
 date: 2017-06-18T04:35:56.332+0100
 last_modified_at: 2017-08-29T17:18:18.709+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,paris,ngo,libya,hungary]
 description: More rescue operation in the Central Mediterranean / Demonstrations in Athens and Madrid / Updates from Porte de La Chapelle / Testimonies…
 image:
-  path: assets/f484bea1bec4/1*enqNgMa79BkYd-REPcpdQA.jpeg
+  path: ../assets/f484bea1bec4/1*enqNgMa79BkYd-REPcpdQA.jpeg
 ---
 
 ### AYS Daily Digest 17/06/17: Imminent deportations from France to Afghanistan
@@ -150,7 +150,7 @@ A 5\.0 magnitude earthquake with epicentre in the Sea between the islands of Chi
 ### ARRIVALS AND REGISTRATIONS
 
 
-![Chios Today [\(Marianna Karakoulaki](https://medium.com/u/3f4f20a51309) \)](assets/f484bea1bec4/1*9eVEABJGncX8IIWtYjPCng.jpeg)
+![Chios Today [\(Marianna Karakoulaki](https://medium.com/u/3f4f20a51309) \)](../assets/f484bea1bec4/1*9eVEABJGncX8IIWtYjPCng.jpeg)
 
 Chios Today [\(Marianna Karakoulaki](https://medium.com/u/3f4f20a51309) \)
 
@@ -166,7 +166,7 @@ Official registration were 52 today: 23 on Lesvos and 29 on others islands\.
 ### DEMONSTRATIONS IN ATHENS
 
 
-![](assets/f484bea1bec4/1*nnWrIIyFD0tUWyeDoUaLFQ.jpeg)
+![](../assets/f484bea1bec4/1*nnWrIIyFD0tUWyeDoUaLFQ.jpeg)
 
 
 Demonstrations have been held today in Athens\. At 13\.00 around 100 people gathered in Platia Victoria to protest against detention centres in Greece and about the miserable living condition inside Petro Ralli, Athens detention centre\. This appointment was launched by the [Coordination of groups and individuals against detention centres](http://ssaekk.espivblogs.net/) \. The next appointment is launched for Friday June 23rd, h\.22\.50, at the Aliens Directorate in Petrou Ralli\.
@@ -262,7 +262,7 @@ volunteer@zaatarngo\.org — [http://zaatarngo\.org/](https://l.facebook.com/l.p
 ### DEMONSTRATION FOR REFUGEES IN MADRID
 
 
-![\(Refugiados Bienvenidos Espana\)](assets/f484bea1bec4/1*enqNgMa79BkYd-REPcpdQA.jpeg)
+![\(Refugiados Bienvenidos Espana\)](../assets/f484bea1bec4/1*enqNgMa79BkYd-REPcpdQA.jpeg)
 
 \(Refugiados Bienvenidos Espana\)
 
@@ -340,15 +340,15 @@ A volunteer [reports](https://web.facebook.com/profile.php?id=100009499466124) o
 Refugees are rising in numbers in Porte de La Chapelle\. I would guess 800 by now\. Camp is now claiming a long part of sidewalk, every inch of space under and around the highway, bridge, and rest of the green patches that one might find\. It looks a lot like Avenue de Flandres from last summer\.
 
 
-![](assets/f484bea1bec4/1*7vB3NAWgh0xRY_U36qAdww.jpeg)
+![](../assets/f484bea1bec4/1*7vB3NAWgh0xRY_U36qAdww.jpeg)
 
 
 
-![](assets/f484bea1bec4/1*22O08r3siTu7k_WCUgfdeA.jpeg)
+![](../assets/f484bea1bec4/1*22O08r3siTu7k_WCUgfdeA.jpeg)
 
 
 
-![Porte de La Chapelle \(Danika Jurisic\)](assets/f484bea1bec4/1*cDLF1PiOZiJ2ja2OYEOogA.jpeg)
+![Porte de La Chapelle \(Danika Jurisic\)](../assets/f484bea1bec4/1*cDLF1PiOZiJ2ja2OYEOogA.jpeg)
 
 Porte de La Chapelle \(Danika Jurisic\)
 ### ANOTHER UPDATE FROM PARIS:

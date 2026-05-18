@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 6/7/21: Rescuing Afghans, deporting Afghans
+title: "AYS Daily Digest 6/7/21: Rescuing Afghans, deporting Afghans"
 author: Are You Syrious?
 date: 2021-07-07T10:10:53.003+0100
 last_modified_at: 2021-07-07T10:10:53.003+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,afghanistan,europe,greece]
 description: Uzbekistan opens tent camp // More than 700 civil deaths in Syrian war in first half of 2021 // Doctor describes mental condition of Moria…
 image:
-  path: assets/f2a9409ba5af/1*An5d695rvrS0nXsWqGWuLg.jpeg
+  path: ../assets/f2a9409ba5af/1*An5d695rvrS0nXsWqGWuLg.jpeg
 ---
 
 ### AYS Daily Digest 6/7/21: Rescuing Afghans, deporting Afghans
 #### Uzbekistan opens tent camp // More than 700 civil deaths in Syrian war in first half of 2021 // Doctor describes mental condition of Moria 2 residents // UK Home Office criticized for new bill
 
 
-![While war emerges in Afghanistan and people keep fleeing the violence, European countries still deport refugees there\. Credits: [Twitter/@mic\_tra](https://twitter.com/mic_tra/status/1412504888848834571/photo/1)](assets/f2a9409ba5af/1*An5d695rvrS0nXsWqGWuLg.jpeg)
+![While war emerges in Afghanistan and people keep fleeing the violence, European countries still deport refugees there\. Credits: [Twitter/@mic\_tra](https://twitter.com/mic_tra/status/1412504888848834571/photo/1)](../assets/f2a9409ba5af/1*An5d695rvrS0nXsWqGWuLg.jpeg)
 
 While war emerges in Afghanistan and people keep fleeing the violence, European countries still deport refugees there\. Credits: [Twitter/@mic\_tra](https://twitter.com/mic_tra/status/1412504888848834571/photo/1)
 ### Uzbekistan/Afghanistan

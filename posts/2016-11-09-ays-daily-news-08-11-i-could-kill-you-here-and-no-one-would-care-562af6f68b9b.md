@@ -1,5 +1,5 @@
 ---
-title: AYS Daily News 08/11: “I could kill you here and no one would care”
+title: "AYS Daily News 08/11: “I could kill you here and no one would care”"
 author: Are You Syrious?
 date: 2016-11-09T00:52:34.931+0000
 last_modified_at: 2016-11-10T13:55:17.586+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,syria,refugee-camps,refugee-crisis]
 description: Hungarian state putting border control before human life. Only a handful of volunteers to help refugees in Hungary and Serbia, often…
 image:
-  path: assets/562af6f68b9b/1*JRgWhDvzy9XEZTdBpnaOdQ.jpeg
+  path: ../assets/562af6f68b9b/1*JRgWhDvzy9XEZTdBpnaOdQ.jpeg
 ---
 
 ### AYS Daily News 08/11: “I could kill you here and **no** one would care”
@@ -19,28 +19,28 @@ image:
 
 
 
-![Credits: Sara Benceković \(AYS\)](assets/562af6f68b9b/1*JRgWhDvzy9XEZTdBpnaOdQ.jpeg)
+![Credits: Sara Benceković \(AYS\)](../assets/562af6f68b9b/1*JRgWhDvzy9XEZTdBpnaOdQ.jpeg)
 
 Credits: Sara Benceković \(AYS\)
 #### Serbia
 ### The hunting of refugees in Serbia
 
 
-![Credits: Sara Benceković \(AYS\)](assets/562af6f68b9b/1*i11_GcXd-oVIY8xM08Njww.jpeg)
+![Credits: Sara Benceković \(AYS\)](../assets/562af6f68b9b/1*i11_GcXd-oVIY8xM08Njww.jpeg)
 
 Credits: Sara Benceković \(AYS\)
 
 Are You Syrious? team visited Kelebija transit zone camp at the Serbian\-Hungarian border this past weekend\. The night of our arrival, two Pakistani refugees entered the Kelebija independent volunteers\-ran community centre, severely wounded with bites coming from Hungarian police dogs that attacked them in the nearby forest\. The morning after, we were sent a video by a refugee that showed a cross\-fire between police and smugglers in the same forest\. Three gunshots were fired between them\.
 
 
-![Route of the “refugee hunters”\. Credits: [**Péli Zsolt**](https://www.facebook.com/peli.zsolt.1)](assets/562af6f68b9b/0*AWa4PCYBVnt4iysC.)
+![Route of the “refugee hunters”\. Credits: [**Péli Zsolt**](https://www.facebook.com/peli.zsolt.1)](../assets/562af6f68b9b/0*AWa4PCYBVnt4iysC.)
 
 Route of the “refugee hunters”\. Credits: [**Péli Zsolt**](https://www.facebook.com/peli.zsolt.1)
 
 Kelebija is, all in all, a very dangerous place for refugees\. The living conditions there are made unbearable with a goal of cleansing Serbia of refugees\. As it seems, the attempt is successful, as Kelebija transit zone camp is by all our estimates unfit even for rats\. According to some estimations, there are around 100 refugees in Kelebija camp, but more are wandering around and hiding in the forest\. Nearby border camp Horgos is estimated to around 60 refugees, and official Subotica camp currently has 100–150 refugees\.
 
 
-![Credits: Sara Bencekovic \(AYS\)](assets/562af6f68b9b/1*aQRg7smmZQ4p9i7QsCogmA.jpeg)
+![Credits: Sara Bencekovic \(AYS\)](../assets/562af6f68b9b/1*aQRg7smmZQ4p9i7QsCogmA.jpeg)
 
 Credits: Sara Bencekovic \(AYS\)
 #### Hunger
@@ -52,7 +52,7 @@ Those who are accepted into the camp have some although very poor meal ensured\.
 Fresh Response is one organization organized by independent volunteers which provides Kelebija refugees with fresh vegetables three times a week, thus allowing them to cook some meals for themselves\. This is a really beautiful and effective initiative, which we fear will need to stop following the Serbian state decision to forbid meal distribution to refugees due to, allegedly, hygiene reasons\. That being said, we deem this allegation ridiculous, seeing the extremely unsanitary conditions in which refugees in thi area are forced to live\.
 
 
-![Hand\-washing station\. Credits: Sara Bencekovic \(AYS\)](assets/562af6f68b9b/1*zVIKS0xeqU0XVQH-Q6r_oQ.jpeg)
+![Hand\-washing station\. Credits: Sara Bencekovic \(AYS\)](../assets/562af6f68b9b/1*zVIKS0xeqU0XVQH-Q6r_oQ.jpeg)
 
 Hand\-washing station\. Credits: Sara Bencekovic \(AYS\)
 #### Hygiene
@@ -60,31 +60,31 @@ Hand\-washing station\. Credits: Sara Bencekovic \(AYS\)
 Kelebija camp doesn’t have enough toilets\. Refugees are forced to defecate in the nearby forests, which makes the smell of feces spread all around the area\. Not even the Kelebija community centre was able to organize toilets for refugees, which is extremely problematic seeing that this centre is built on a plot in between houses; this means that refugees defecate in front of local people’s fences and homes, causing an extreme mental and health disturbance for the locals living in the area\. Refugees have told us that neighbours sometimes throw stones at them while they defecate, in order to keep them away from their fences\. For example, one of the neighbours, after building the higher fence towards the Kelebija transit zone camp, put up the sign bellow on the fence:
 
 
-![Credits: Northstar](assets/562af6f68b9b/0*hcRiF18CsUmvLHQz.)
+![Credits: Northstar](../assets/562af6f68b9b/0*hcRiF18CsUmvLHQz.)
 
 Credits: Northstar
 
 Likewise, Kelebija doesn’t have showers for refugees, except from a single, barely usable shower in the Kelebija community centre\. This shower forces a refugee to shower in cold water on temperatures that sometimes reach close to zero at this time of the year, while also standing on the bare ground, in the mud \(Please see the shower cabin of the Kebelija community centre bellow\) \. At the same time, Kelebija camp has zero showers of any kind\.
 
 
-![Credits: Sara Benceković \(AYS\)](assets/562af6f68b9b/1*8QbHbznzfR1oStdyCYtOLg.jpeg)
+![Credits: Sara Benceković \(AYS\)](../assets/562af6f68b9b/1*8QbHbznzfR1oStdyCYtOLg.jpeg)
 
 Credits: Sara Benceković \(AYS\)
 
 Refugees’ clothes are predominantly very dirty and their shoes are inadequate, largely sandals; however, it seemed as if though we were more concerned about this problem than refugees themselves\. The first day of our work, we were shocked by the amount of refugees wearing open shoes while out in the cold; thereafter, we went out and bought 5 pairs of new shoes for those in the greatest need and the day after, all of these people were again wearing their old shoes\. Turns out that refugees sold their new shoes\. Although we were disappointed at first, we soon realized that we made a mistake in our response to needs of refugees — more than shoes, refugees needed money to buy food\. This was, indeed, a good lesson for us to pay closer attention to what refugees say their greatest need is at any one time, as well as to accept that selling donated shoes is sometimes of greater aid to refugees than merely accepting and wearing them\. By our current estimation, no donations in clothes are necessary, though this may change very easily\.
 
 
-![Credits: Sara Bencekovic \(AYS\)](assets/562af6f68b9b/1*zt-spPeIk051A2Ny3c9jnQ.jpeg)
+![Credits: Sara Bencekovic \(AYS\)](../assets/562af6f68b9b/1*zt-spPeIk051A2Ny3c9jnQ.jpeg)
 
 Credits: Sara Bencekovic \(AYS\)
 
 
-![Credits: Sara Bencekovic \(AYS\)](assets/562af6f68b9b/1*uckxWKfKK_tS_nRVZiOFnw.jpeg)
+![Credits: Sara Bencekovic \(AYS\)](../assets/562af6f68b9b/1*uckxWKfKK_tS_nRVZiOFnw.jpeg)
 
 Credits: Sara Bencekovic \(AYS\)
 
 
-![Credits: Sara Bencekovic \(AYS\)](assets/562af6f68b9b/1*n3TxWzTSyc-pd7aUcIEQ-w.jpeg)
+![Credits: Sara Bencekovic \(AYS\)](../assets/562af6f68b9b/1*n3TxWzTSyc-pd7aUcIEQ-w.jpeg)
 
 Credits: Sara Bencekovic \(AYS\)
 #### Services
@@ -92,56 +92,56 @@ Credits: Sara Bencekovic \(AYS\)
 There are no services provided for refugees in Kelebija camp, however, the Kelebija community centre provides some services, such as free WiFi hotspot provided by Mercy Corps and managed by Northstar and cell phone charging stations\. There is also a kitchen provided by Northstar and built through cooperation between volunteers and refugees themselves, which provides warm tea and coffee for refugees, which is of tremendous help for the cold evenings\. The Kelebija community centre remains open until 10 p\.m\., after which refugees retreat to Subotica or the official camp\.
 
 
-![Kitchen\. Credits: Sara Bencekovic \(AYS\)](assets/562af6f68b9b/1*q0YCGBub_To_QjJouZhgrA.jpeg)
+![Kitchen\. Credits: Sara Bencekovic \(AYS\)](../assets/562af6f68b9b/1*q0YCGBub_To_QjJouZhgrA.jpeg)
 
 Kitchen\. Credits: Sara Bencekovic \(AYS\)
 
 
-![Credits: Sara Bencekovic \(AYS\)](assets/562af6f68b9b/1*B2DRhFsgKIeJKeB5c7qFdQ.jpeg)
+![Credits: Sara Bencekovic \(AYS\)](../assets/562af6f68b9b/1*B2DRhFsgKIeJKeB5c7qFdQ.jpeg)
 
 Credits: Sara Bencekovic \(AYS\)
 
 Volunteers continuously try makes refugee lives a bit happier through a variety of activities, though none of these are well organized and systematic\. We were told that there are English lessons for refugees in the centre, but none happened during our time there, which indicates that these are non\-fixed and depend on the availability of volunteers\.
 
 
-![](assets/562af6f68b9b/1*ETNMqDgJNt2x16VlV9s1Eg.jpeg)
+![](../assets/562af6f68b9b/1*ETNMqDgJNt2x16VlV9s1Eg.jpeg)
 
 
 
-![Credits: Sara Bencekovic \(AYS\)](assets/562af6f68b9b/1*6Btsz1wrGCIuqehs5xBy8g.jpeg)
+![Credits: Sara Bencekovic \(AYS\)](../assets/562af6f68b9b/1*6Btsz1wrGCIuqehs5xBy8g.jpeg)
 
 Credits: Sara Bencekovic \(AYS\)
 
 
-![Candies\! Credits: Sara Bencekovic \(AYS\)](assets/562af6f68b9b/1*f0eFkZUh8rz3ZUwaHjSz3w.jpeg)
+![Candies\! Credits: Sara Bencekovic \(AYS\)](../assets/562af6f68b9b/1*f0eFkZUh8rz3ZUwaHjSz3w.jpeg)
 
 Candies\! Credits: Sara Bencekovic \(AYS\)
 
 During our time there, we organized a small drawing workshop with materials provided by the Northstar, which brought some joy and colour into the transit centre\.
 
 
-![Credits: Sara Bencekovic \(AYS\)](assets/562af6f68b9b/1*0RU7kYpu6eBFXxwHFQnzjg.jpeg)
+![Credits: Sara Bencekovic \(AYS\)](../assets/562af6f68b9b/1*0RU7kYpu6eBFXxwHFQnzjg.jpeg)
 
 Credits: Sara Bencekovic \(AYS\)
 
 
-![Credits: Sara Bencekovic \(AYS\)](assets/562af6f68b9b/1*KacFnruUUoCpNo7KSpEGdQ.jpeg)
+![Credits: Sara Bencekovic \(AYS\)](../assets/562af6f68b9b/1*KacFnruUUoCpNo7KSpEGdQ.jpeg)
 
 Credits: Sara Bencekovic \(AYS\)
 
 
-![Credits: Sara Bencekovic \(AYS\)](assets/562af6f68b9b/1*r6zxTPNrfHVJBgJzaJ7vGw.jpeg)
+![Credits: Sara Bencekovic \(AYS\)](../assets/562af6f68b9b/1*r6zxTPNrfHVJBgJzaJ7vGw.jpeg)
 
 Credits: Sara Bencekovic \(AYS\)
 #### Here are few messages refugees have for you\.
 
 
-![Credits: Sara Bencekovic \(AYS\)](assets/562af6f68b9b/1*CUi5Rai8a56EVdrLtxUNgw.jpeg)
+![Credits: Sara Bencekovic \(AYS\)](../assets/562af6f68b9b/1*CUi5Rai8a56EVdrLtxUNgw.jpeg)
 
 Credits: Sara Bencekovic \(AYS\)
 
 
-![Credits: Sara Bencekovic \(AYS\)](assets/562af6f68b9b/1*WV_UH9QMJd3Hy6cCadpaRg.jpeg)
+![Credits: Sara Bencekovic \(AYS\)](../assets/562af6f68b9b/1*WV_UH9QMJd3Hy6cCadpaRg.jpeg)
 
 Credits: Sara Bencekovic \(AYS\)
 ### Numbers
@@ -156,21 +156,21 @@ previously\), while there were no admissions over the weekend \(05–06 November
 ### Another massacre today
 
 
-![Credits: [**Syrian Civil Defence Idlib WhiteHelmets**](https://www.facebook.com/Syrian-Civil-Defence-Idlib-WhiteHelmets-1489609321340242/)](assets/562af6f68b9b/0*ALQQLrQnrZivLyWO.)
+![Credits: [**Syrian Civil Defence Idlib WhiteHelmets**](https://www.facebook.com/Syrian-Civil-Defence-Idlib-WhiteHelmets-1489609321340242/)](../assets/562af6f68b9b/0*ALQQLrQnrZivLyWO.)
 
 Credits: [**Syrian Civil Defence Idlib WhiteHelmets**](https://www.facebook.com/Syrian-Civil-Defence-Idlib-WhiteHelmets-1489609321340242/)
 
 10 martyrs, mostly children, in targeted Barbo village in the southern countryside of Idlib\.
 
 
-![Credits: [**Syrian Organization for the Defense of Human Rights**](https://www.facebook.com/Syrian.Organization4Human.Rights.Defence/)](assets/562af6f68b9b/0*PRq4VY_0fl5GRZ_6.)
+![Credits: [**Syrian Organization for the Defense of Human Rights**](https://www.facebook.com/Syrian.Organization4Human.Rights.Defence/)](../assets/562af6f68b9b/0*PRq4VY_0fl5GRZ_6.)
 
 Credits: [**Syrian Organization for the Defense of Human Rights**](https://www.facebook.com/Syrian.Organization4Human.Rights.Defence/)
 
 [https://www\.youtube\.com/shared?ci=0xOu1plv8Fk](https://www.youtube.com/shared?ci=0xOu1plv8Fk)
 
 
-![Scenes from Syria\. Credits: [**Children of SYRIA**](https://www.facebook.com/marcheforsyria/)](assets/562af6f68b9b/0*wJDKZXzBFsbQf0y8.)
+![Scenes from Syria\. Credits: [**Children of SYRIA**](https://www.facebook.com/marcheforsyria/)](../assets/562af6f68b9b/0*wJDKZXzBFsbQf0y8.)
 
 Scenes from Syria\. Credits: [**Children of SYRIA**](https://www.facebook.com/marcheforsyria/)
 ### Regime forces progress
@@ -178,7 +178,7 @@ Scenes from Syria\. Credits: [**Children of SYRIA**](https://www.facebook.com/ma
 Assad forces take control on the full 1070 project in west south of Aleppo\.
 
 
-![Credits: [**Free Syria — Salam**](https://www.facebook.com/Free.SyriaSalam/)](assets/562af6f68b9b/0*fNXbZOyM-B6XApMG.)
+![Credits: [**Free Syria — Salam**](https://www.facebook.com/Free.SyriaSalam/)](../assets/562af6f68b9b/0*fNXbZOyM-B6XApMG.)
 
 Credits: [**Free Syria — Salam**](https://www.facebook.com/Free.SyriaSalam/)
 ### Russia to launch new assault on Aleppo
@@ -200,12 +200,12 @@ We thank Reporters Without Borders and warmly congratulate هادي العبدا
 In Iraq, WAHA is setting up containers in two camps near Hasansham in the South of Mossul\. They will soon be able to provide reproductive health in two semi\-fixed clinics which will be open six days a week Many internally displaced people arrived recently in this village\.
 
 
-![Credits: WAHA](assets/562af6f68b9b/0*ytMxAADqeWGacU11.)
+![Credits: WAHA](../assets/562af6f68b9b/0*ytMxAADqeWGacU11.)
 
 Credits: WAHA
 
 
-![Credits: WAHA](assets/562af6f68b9b/0*e90Nz2P9XetGqTYW.jpg)
+![Credits: WAHA](../assets/562af6f68b9b/0*e90Nz2P9XetGqTYW.jpg)
 
 Credits: WAHA
 #### Greece
@@ -214,7 +214,7 @@ Credits: WAHA
 
 
 
-![Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)](assets/562af6f68b9b/0*cPdF6i97OWK2xkdC.jpg)
+![Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)](../assets/562af6f68b9b/0*cPdF6i97OWK2xkdC.jpg)
 
 Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)
 ### Registration numbers
@@ -229,7 +229,7 @@ Total: 130
 ### Work after registration
 
 
-![Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)](assets/562af6f68b9b/0*lRuzINFjS89ykD8W.jpg)
+![Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)](../assets/562af6f68b9b/0*lRuzINFjS89ykD8W.jpg)
 
 Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)
 
@@ -237,7 +237,7 @@ A refugee can work legally in Greece once they have full registration card\. The
 ### Chios news following the meeting of the island’s officials
 
 
-![Credits: Eva Avdeliodi](assets/562af6f68b9b/0*AnakypcZC0vLgO7O.)
+![Credits: Eva Avdeliodi](../assets/562af6f68b9b/0*AnakypcZC0vLgO7O.)
 
 Credits: Eva Avdeliodi
 ### Fight between refugees and police at Chios
@@ -245,12 +245,12 @@ Credits: Eva Avdeliodi
 There was trouble today in the refugee camp on chios\. \. a fight broke out between refugees and the police\. All volunteers had to leave the place\. One women had to get assistance for possible kidney problems but without any volunteers inside the camp, refugees had to get in touch with friend volunteers to get this women medical attention\.
 
 
-![Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)](assets/562af6f68b9b/0*DtC3tzN54EimwQ1p.jpg)
+![Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)](../assets/562af6f68b9b/0*DtC3tzN54EimwQ1p.jpg)
 
 Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)
 
 
-![Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)](assets/562af6f68b9b/0*CpevZ0HEzaArkhEa.jpg)
+![Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)](../assets/562af6f68b9b/0*CpevZ0HEzaArkhEa.jpg)
 
 Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)
 ### False rumour\!
@@ -269,12 +269,12 @@ Children can get a certificate if they have attended school\. This may come in u
 You should not be scared that sending your children to school will affect your asylum options\.
 
 
-![Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)](assets/562af6f68b9b/0*QWpQpLpqS7F8pqZj.jpg)
+![Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)](../assets/562af6f68b9b/0*QWpQpLpqS7F8pqZj.jpg)
 
 Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)
 
 
-![Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)](assets/562af6f68b9b/0*0rUifTyxJ7y3p3xE.jpg)
+![Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)](../assets/562af6f68b9b/0*0rUifTyxJ7y3p3xE.jpg)
 
 Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)
 ### Call for builders and warehouse volunteers in Northern Greece
@@ -290,7 +290,7 @@ Message the Bras not bombs [here](https://www.facebook.com/groups/10865253513918
 #### Mediterranean
 
 
-![An exhausted refugee after she was rescued from an overcrowded boat off the coast of Libya\. Credits: Andreas Solaro](assets/562af6f68b9b/0*a3WZFiDpMaX06ck0.jpg)
+![An exhausted refugee after she was rescued from an overcrowded boat off the coast of Libya\. Credits: Andreas Solaro](../assets/562af6f68b9b/0*a3WZFiDpMaX06ck0.jpg)
 
 An exhausted refugee after she was rescued from an overcrowded boat off the coast of Libya\. Credits: Andreas Solaro
 ### Numbers
@@ -302,7 +302,7 @@ According to most up\-to\-date Italian Ministry of Interior figures, the 163,989
 ### Direct volunteer reports on post\-Calais Paris
 
 
-![Credits: [**Paris Refugee Ground Support**](https://www.facebook.com/PRGS.team/)](assets/562af6f68b9b/0*yRgCdXC7_sJklegX.jpg)
+![Credits: [**Paris Refugee Ground Support**](https://www.facebook.com/PRGS.team/)](../assets/562af6f68b9b/0*yRgCdXC7_sJklegX.jpg)
 
 Credits: [**Paris Refugee Ground Support**](https://www.facebook.com/PRGS.team/)
 
@@ -353,7 +353,7 @@ Credits: [**Paris Refugee Ground Support**](https://www.facebook.com/PRGS.team/)
 
 
 
-![Credits: [**Paris Refugee Ground Support**](https://www.facebook.com/PRGS.team/)](assets/562af6f68b9b/0*VR_sI3Qd_i9aiXqh.)
+![Credits: [**Paris Refugee Ground Support**](https://www.facebook.com/PRGS.team/)](../assets/562af6f68b9b/0*VR_sI3Qd_i9aiXqh.)
 
 Credits: [**Paris Refugee Ground Support**](https://www.facebook.com/PRGS.team/)
 
@@ -388,7 +388,7 @@ While refugees coming from Calais will be able to stay, the French government is
 ### Permission granted by the high court to judicially review Amber Rudd over the Dubs Amendment \(s\.67 Immigration Act 2016\)
 
 
-![Credits: [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/)](assets/562af6f68b9b/0*JOEDOMUH0oC_tW2X.jpg)
+![Credits: [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/)](../assets/562af6f68b9b/0*JOEDOMUH0oC_tW2X.jpg)
 
 Credits: [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/)
 

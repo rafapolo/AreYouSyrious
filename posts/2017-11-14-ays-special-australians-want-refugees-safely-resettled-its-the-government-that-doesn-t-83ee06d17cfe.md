@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Australians want refugees safely resettled — it’s the government that doesn’t.
+title: "AYS SPECIAL: Australians want refugees safely resettled — it’s the government that doesn’t."
 author: Are You Syrious?
 date: 2017-11-14T22:16:12.631+0000
 last_modified_at: 2018-03-01T13:49:40.391+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,manus-island,australia,nauru,special]
 description: AYS volunteers are in Australia and report about refugees on Manus and Nauru explaining history of the camps, problems and what can be done…
 image:
-  path: assets/83ee06d17cfe/1*j766cssurg5GsNvKvfdDhg.jpeg
+  path: ../assets/83ee06d17cfe/1*j766cssurg5GsNvKvfdDhg.jpeg
 ---
 
 ### AYS SPECIAL: Australians want refugees safely resettled — it’s the government that doesn’t\.
@@ -15,7 +15,7 @@ image:
 AYS volunteers are in Australia and report about refugees on Manus and Nauru explaining history of the camps, problems and what can be done to help\.
 
 
-![By Refugee Action Collective Victoria\.](assets/83ee06d17cfe/1*j766cssurg5GsNvKvfdDhg.jpeg)
+![By Refugee Action Collective Victoria\.](../assets/83ee06d17cfe/1*j766cssurg5GsNvKvfdDhg.jpeg)
 
 By Refugee Action Collective Victoria\.
 
@@ -46,7 +46,7 @@ Australians are joining together in protest against recent horrific acts against
 **What is happening on Manus?**
 
 
-![By Refugee Action Collective Victoria\.](assets/83ee06d17cfe/1*1anmImGWZ_JXBVtl-BkD-Q.jpeg)
+![By Refugee Action Collective Victoria\.](../assets/83ee06d17cfe/1*1anmImGWZ_JXBVtl-BkD-Q.jpeg)
 
 By Refugee Action Collective Victoria\.
 
@@ -59,15 +59,15 @@ On October 31, the Australian government continued their streak of irresponsibil
 Their fears of personal safety on Manus is in no way unwarranted\. There have been [numerous reports](https://www.theguardian.com/australia-news/2016/aug/14/manus-island-photos-show-aftermath-of-violent-attack-afghan-refugees) of extreme violence against refugees by the local populations of Papua New Guinea\. Last month [Human Rights Watch released a report stating](https://www.hrw.org/news/2017/10/25/australia/png-refugees-face-unchecked-violence) that groups of young locals, often intoxicated and armed with various weapons, have frequently assaulted and robbed refugees on Manus Island\. In three serious attacks since June this year, some refugees had required emergency medical attention in Australia\.
 
 
-![](assets/83ee06d17cfe/1*xbaqnTgI2XVHpVjYDUOYOQ.jpeg)
+![](../assets/83ee06d17cfe/1*xbaqnTgI2XVHpVjYDUOYOQ.jpeg)
 
 
 
-![](assets/83ee06d17cfe/1*lSq4qhVNHJfgW2AGdO2BnA.jpeg)
+![](../assets/83ee06d17cfe/1*lSq4qhVNHJfgW2AGdO2BnA.jpeg)
 
 
 
-![Victim of one of the attacks\. By Behrous Boochani\.](assets/83ee06d17cfe/1*6LRgqHIYvbOiW4KLmGaMxg.jpeg)
+![Victim of one of the attacks\. By Behrous Boochani\.](../assets/83ee06d17cfe/1*6LRgqHIYvbOiW4KLmGaMxg.jpeg)
 
 Victim of one of the attacks\. By Behrous Boochani\.
 
@@ -80,7 +80,7 @@ Many refugees now refuse to leave the centre out of fear for their safety, only 
 Anticipating the government’s said closure of the detention centre, the men joined together [in daily peaceful protests that have now surpassed their hundredth day](http://www.radionz.co.nz/international/pacific-news/343354/100-days-of-protest-on-manus-island) \. However, their attempts to draw attention have been futile in persuading the government to take any reasonable action\.
 
 
-![By Refugee Action Collective Victoria\.](assets/83ee06d17cfe/1*5HTJW4R7rDHrgx0cKnsIJg.jpeg)
+![By Refugee Action Collective Victoria\.](../assets/83ee06d17cfe/1*5HTJW4R7rDHrgx0cKnsIJg.jpeg)
 
 By Refugee Action Collective Victoria\.
 
@@ -103,7 +103,7 @@ Since the barricade began, men have been without water for nearly two weeks and 
 Recently, a class of graduating doctors in Australia [wrote an open letter](https://www.buzzfeed.com/aliceworkman/we-are-watching?utm_term=.ccXJy6aGlR#.mibgyl9845) to the government decrying their actions on Manus as “willful neglect”\.
 
 
-![By Whistleblowers, Activists and Citizens Alliance\.](assets/83ee06d17cfe/1*E8Ye4hxsHNdPhhmvDQp-NQ.png)
+![By Whistleblowers, Activists and Citizens Alliance\.](../assets/83ee06d17cfe/1*E8Ye4hxsHNdPhhmvDQp-NQ.png)
 
 By Whistleblowers, Activists and Citizens Alliance\.
 
@@ -114,7 +114,7 @@ And it’s not just ordinary people who are supporting these claims, but large i
 However, this too has been futile in causing any reasonable action by Australian leaders\. In recent days, the PNG Navy has moved in to forcibly remove the men, with many of them continuing to resist the transfer\. _“Police and immigration came in again\. They are destroying our shelters in Delta\. They destroyed the rubbish bins where we have been collecting water too,”_ revealed Behrouz Boochani, a Manus detainee on Twitter\.
 
 
-![By Walid Zazai](assets/83ee06d17cfe/1*3gK4rP4ZiO9MwjqZSPXa7A.png)
+![By Walid Zazai](../assets/83ee06d17cfe/1*3gK4rP4ZiO9MwjqZSPXa7A.png)
 
 By Walid Zazai
 
@@ -155,7 +155,7 @@ These past inhumane policies that were at the time considered lawful include the
 RISE, an organisation initiated and run purely by ex\-detainees and Asylum seekers, has set up a campaign called [**Sanction Australia** \.](http://riserefugee.org/sanctionaustralia/) The campaign states that _“Australia should be excluded in participating in international humanitarian and human rights until mandatory detention and refoulement of asylum seekers is abolished in this country, and the obligatory international rights and protections that Australia has agreed to, in regards to refugees, are implemented, and adhered to domestically\.”_
 
 
-![](assets/83ee06d17cfe/1*kaU3OMGaiv_Zt5Aa8dl8bQ.png)
+![](../assets/83ee06d17cfe/1*kaU3OMGaiv_Zt5Aa8dl8bQ.png)
 
 
 **We are speaking out**
@@ -167,7 +167,7 @@ Even the campaign launched by previous governments to ‘stop the boats’ which
 The recent events on Manus that have caused a horrifying humanitarian emergency only exemplify this fact\. The question being asked is ‘what is the point of stopping deaths at sea, just to cause deaths to occur on land?’
 
 
-![By Refugee Action Colletive Victoria\.](assets/83ee06d17cfe/1*b_jmYC6DSMMTCyMaIF9taA.png)
+![By Refugee Action Colletive Victoria\.](../assets/83ee06d17cfe/1*b_jmYC6DSMMTCyMaIF9taA.png)
 
 By Refugee Action Colletive Victoria\.
 
@@ -178,19 +178,19 @@ The Australian Council of Trade Unions, Australia’s peak body for unions which
 Some inspiration that things won’t be like this in Australia for too much longer can be gained from the young community that has been especially vocal and angry, both about the gay marriage postal survey and the government’s treatment of asylum seekers on Manus and Nauru\. [Last week alone saw](https://www.theguardian.com/australia-news/2017/nov/13/australian-activists-vow-to-press-on-with-pro-refugee-manus-protests) Australians climbing the Sydney Opera House, blocking a busy train line with a car, disrupting the ‘Melbourne Cup’ a huge yearly event and barricading the doors of Border Force, refusing entry or exit of workers\.
 
 
-![](assets/83ee06d17cfe/1*W2-pK5UeQko1WTA8vkfPeg.png)
+![](../assets/83ee06d17cfe/1*W2-pK5UeQko1WTA8vkfPeg.png)
 
 
 
-![](assets/83ee06d17cfe/1*2rhC1i0TJuieDiRQw9y27Q.png)
+![](../assets/83ee06d17cfe/1*2rhC1i0TJuieDiRQw9y27Q.png)
 
 
 
-![](assets/83ee06d17cfe/1*Bh3YTjBScHd8Pkn1gHazSQ.png)
+![](../assets/83ee06d17cfe/1*Bh3YTjBScHd8Pkn1gHazSQ.png)
 
 
 
-![By Whistleblowers, Activists and Citizens Alliance](assets/83ee06d17cfe/1*yRlIR0rKq4kZA_4BBdSCRw.png)
+![By Whistleblowers, Activists and Citizens Alliance](../assets/83ee06d17cfe/1*yRlIR0rKq4kZA_4BBdSCRw.png)
 
 By Whistleblowers, Activists and Citizens Alliance
 
@@ -205,7 +205,7 @@ In late April 2016, the government refused an offer from New Zealand to resettle
 New Zealand’s new Prime Minister Jacinda Arden met with Malcolm Turnball this month, again announcing that New Zealand’s offer stands\. _“I see the human face of this and I see the need and the role New Zealand needs to play\. I think it’s clear that we don’t see what’s happening there as acceptable, that’s why the offer’s there,”_ she said\.
 
 
-![By Refugee Action Collective Victoria](assets/83ee06d17cfe/1*7C6kHcGUDamqvk1y6Pa6JA.png)
+![By Refugee Action Collective Victoria](../assets/83ee06d17cfe/1*7C6kHcGUDamqvk1y6Pa6JA.png)
 
 By Refugee Action Collective Victoria
 

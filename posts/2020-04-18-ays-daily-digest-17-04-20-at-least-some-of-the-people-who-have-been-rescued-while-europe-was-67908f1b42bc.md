@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 17/04/20: At least some of the people who have been rescued while Europe was…
+title: "AYS Daily Digest 17/04/20: At least some of the people who have been rescued while Europe was…"
 author: Are You Syrious?
 date: 2020-04-18T15:12:54.790+0100
 last_modified_at: 2020-04-18T15:12:54.790+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,europe,digest,sea-rescue,greece]
 description: People rescued by ALAN KURDI transferred to a bigger ship for quarantine // No safe harbour assigned for AITA MARI yet // IOM Statement on…
 image:
-  path: assets/67908f1b42bc/0*C1qdt9sJNqRFMTU2.jpeg
+  path: ../assets/67908f1b42bc/0*C1qdt9sJNqRFMTU2.jpeg
 ---
 
 ### AYS Daily Digest 17/04/20: At least some of the people who have been rescued while Europe was celebrating Easter are finally allowed to disembark
 ### People rescued by ALAN KURDI transferred to a bigger ship for quarantine // No safe harbour assigned for AITA MARI yet // IOM Statement on the case of the unanswered calls from boats in distress in Maltese SAR zone // End of cooperation between MSF and SOS Mediteranee // Greek emergency plans for Covid\-19 pandemic in camps // threats against journalist by Greek politician // letter to EU from Moria Corona Awareness Team and Moria White Helmets // More News from Slovenia, Croatia, BH, Austria, UK, Spain
 
 
-![](assets/67908f1b42bc/0*jaV_RVBloByHWLyn.jpeg)
+![](../assets/67908f1b42bc/0*jaV_RVBloByHWLyn.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----68f7c7c0687----------------------)
@@ -22,11 +22,11 @@ image:
 [Apr 18](ays-daily-digest-17-04-20-at-least-some-of-the-people-who-have-been-rescued-while-europe-was-68f7c7c0687?source=post_page-----68f7c7c0687----------------------) · 13 min read
 
 
-![](assets/67908f1b42bc/0*QfVufSO1RbK58tXs)
+![](../assets/67908f1b42bc/0*QfVufSO1RbK58tXs)
 
 
 
-![](assets/67908f1b42bc/0*C1qdt9sJNqRFMTU2.jpeg)
+![](../assets/67908f1b42bc/0*C1qdt9sJNqRFMTU2.jpeg)
 
 ### FEATURE: GOOD NEWS, finally\!
 
@@ -53,11 +53,11 @@ Press release:
 In non\-pandemic times the group Mediterranea Saving Humans Palermo would have been in the port to give a warm welcome to the arrivals\. These days they decided to at least send a virtual welcome card:
 
 
-![](assets/67908f1b42bc/0*TdGZk3uX7To4EtNK)
+![](../assets/67908f1b42bc/0*TdGZk3uX7To4EtNK)
 
 
 
-![](assets/67908f1b42bc/0*bbgxZTlRQab5Hili.png)
+![](../assets/67908f1b42bc/0*bbgxZTlRQab5Hili.png)
 
 
 The people who were rescued by the ALAN KURDI had been on one of several boats in distress, drifting for days in the Mediterranean Sea, at times within the Maltese SAR zone and under surveillance by Frontex planes\. One other boat has been rescued by the Spanish rescue ship Aita Mari\. One has been returned to Libya\. On this boat five people died and another seven have gone missing and have most probably drowned\. The survivors are now back in Libya, where they have probably been, and they are likely to be subject to torture and inhuman treatment\. Apparently they are locked up in the Tarik al Sikka detention Centre in Tripoli, a city that is regularly hit by shelling and whose port was attacked not long ago\.
@@ -165,35 +165,35 @@ See the article in German:
 
 
 
-![](assets/67908f1b42bc/0*Hy-Slk3oukI5CXkt)
+![](../assets/67908f1b42bc/0*Hy-Slk3oukI5CXkt)
 
 
 
-![](assets/67908f1b42bc/0*xBn7Gu0elotSThhK.jpeg)
+![](../assets/67908f1b42bc/0*xBn7Gu0elotSThhK.jpeg)
 
 
 
-![](assets/67908f1b42bc/0*s0zKyadrxhon700c)
+![](../assets/67908f1b42bc/0*s0zKyadrxhon700c)
 
 
 
-![](assets/67908f1b42bc/0*2IFvvvSzkP20T8Gz.jpeg)
+![](../assets/67908f1b42bc/0*2IFvvvSzkP20T8Gz.jpeg)
 
 
 
-![](assets/67908f1b42bc/0*MnN_uCgSqdwK71gg)
+![](../assets/67908f1b42bc/0*MnN_uCgSqdwK71gg)
 
 
 
-![](assets/67908f1b42bc/0*COs54ce_4Jamd_md.jpeg)
+![](../assets/67908f1b42bc/0*COs54ce_4Jamd_md.jpeg)
 
 
 
-![](assets/67908f1b42bc/0*11oozl_D-4VigCCV)
+![](../assets/67908f1b42bc/0*11oozl_D-4VigCCV)
 
 
 
-![](assets/67908f1b42bc/0*ofHDsh_CzUrk0PTL.jpeg)
+![](../assets/67908f1b42bc/0*ofHDsh_CzUrk0PTL.jpeg)
 
 
 **Three groups of people are still camping rough on the northern coast of Lesvos, without any substantial aid or support\.** They have been there for some 25 days now\. The people told Mare Liberum: “different people tell us different things, and that changes day by day”\. Apparently it is clear now that they will stay on the island and will eventually be able to apply for asylum\. The local authorities are apparently fighting about who should take care of them\. According to a new law, the communes in which the people are should take care of them, but they seem to be lacking the political will\.
@@ -205,11 +205,11 @@ The **journalist Mortaza Behboudi** , who is an indispensable source on the grou
 Movement on the Ground donated 8,000 pieces of essential soap to the Vathy camp management on Samos\. About 6,900 people live in and around the camp\. The soap was distributed to all of them during the week\.
 
 
-![](assets/67908f1b42bc/0*sRAuyUJOLmFgJgar)
+![](../assets/67908f1b42bc/0*sRAuyUJOLmFgJgar)
 
 
 
-![](assets/67908f1b42bc/0*1Dt1lDqfdLMMZSEd.jpeg)
+![](../assets/67908f1b42bc/0*1Dt1lDqfdLMMZSEd.jpeg)
 
 
 Recognized refugees in Greece face big challenges after their asylum process is completed\. The UNHCR ESTIA program \(Emergency Support to Integration and Accomodation\) is not designed for recognized refugees\. Since it is very difficult for them to find a job or receive state benefits, many of them become homeless\. This is especially problematic for families, as homeless shelters do not accept them at all\.

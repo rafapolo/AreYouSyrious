@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 12/11/2020: More than 100 lives lost in the Mediterranean Sea
+title: "AYS Daily Digest 12/11/2020: More than 100 lives lost in the Mediterranean Sea"
 author: Are You Syrious?
 date: 2020-11-13T14:11:07.608+0000
 last_modified_at: 2020-11-16T08:07:01.729+0000
 categories: Are You Syrious?
 tags: [europe,refugees,digest,mediterranean,syria]
-description: 4 shipwrecks in the last two days // Syrians say: No Return With Assad // Updates from the group stranded on the island in Evros river //…
+description: "4 shipwrecks in the last two days // Syrians say: No Return With Assad // Updates from the group stranded on the island in Evros river //…"
 image:
-  path: assets/66fb7f2de604/1*GMn7BW70IAzuB2OOBCwNqw.jpeg
+  path: ../assets/66fb7f2de604/1*GMn7BW70IAzuB2OOBCwNqw.jpeg
 ---
 
 ### AYS Daily Digest 12/11/2020: More than 100 lives lost in the Mediterranean Sea
 #### 4 shipwrecks in the last two days // Syrians say: No Return With Assad // Updates from group stranded on Evros river island // Situation on the Canary Islands // Updates from Melilla // Policy analysis from BVMN about New Pact on Migration
 
 
-![Latest Open Arms rescue mission, in which six people died\. Copyright: Jean Marc Joseph](assets/66fb7f2de604/1*GMn7BW70IAzuB2OOBCwNqw.jpeg)
+![Latest Open Arms rescue mission, in which six people died\. Copyright: Jean Marc Joseph](../assets/66fb7f2de604/1*GMn7BW70IAzuB2OOBCwNqw.jpeg)
 
 Latest Open Arms rescue mission, in which six people died\. Copyright: Jean Marc Joseph
 ### FEATURE: Again, Europe has decided not to save lives
@@ -59,7 +59,7 @@ We do not know if it is the same child, but we know that one 6\-month\-old baby 
 On Twitter, Frotenx tried to get credit for “playing a key role in the rescue”\. The picture they posted with the statement speaks volumes: Through the camera lens of a European agency we see a rubber dingy overloaded with people and a speed boat of a civilian rescue group trying to help\. **At the risk of repeating ourselves endlessly: Frontex is complicit in pushbacks from Greece while EU authorities try their best to prevent civilian rescue missions\. There is really nothing to give Frontex credit for\.**
 
 
-![Copyright: Frontex](assets/66fb7f2de604/1*p4-hbX9R5Y-2gRoXmKoZ1w.jpeg)
+![Copyright: Frontex](../assets/66fb7f2de604/1*p4-hbX9R5Y-2gRoXmKoZ1w.jpeg)
 
 Copyright: Frontex
 

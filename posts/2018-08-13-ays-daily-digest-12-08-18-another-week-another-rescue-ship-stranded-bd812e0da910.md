@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 12/08/18: Another Week, Another Rescue Ship Stranded
+title: "AYS Daily Digest 12/08/18: Another Week, Another Rescue Ship Stranded"
 author: Are You Syrious?
 date: 2018-08-13T11:08:10.267+0100
 last_modified_at: 2018-08-13T11:08:10.267+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [aquarius,mediterranean,refugees,greece]
 description: Rescues at sea // Border police violence in Morocco, EU turns away // New arrivals in Greece // Refugees protest UNHCR in Athens //…
 image:
-  path: assets/bd812e0da910/1*roRPC0QyHBVtcZv431qbqg.jpeg
+  path: ../assets/bd812e0da910/1*roRPC0QyHBVtcZv431qbqg.jpeg
 ---
 
 ### AYS Daily Digest 12/08/18: Another Week, Another Rescue Ship Stranded
@@ -15,7 +15,7 @@ image:
 _Rescues at sea // Border police violence in Morocco, EU turns away // New arrivals in Greece // Refugees protest UNHCR in Athens // Unaccompanied minors in Athens // and more…_
 
 
-![Photo by Humanity House](assets/bd812e0da910/1*roRPC0QyHBVtcZv431qbqg.jpeg)
+![Photo by Humanity House](../assets/bd812e0da910/1*roRPC0QyHBVtcZv431qbqg.jpeg)
 
 Photo by Humanity House
 ### Feature
@@ -70,7 +70,7 @@ MSF provided an update today, and said that the Libyan authorities informed the 
 Earlier this week, AYS reported on the violent attacks and mass evictions of refugee encampments in Nador carried out by auxiliary forces\. The violent evictions are ongoing this week, and the Moroccan Association for Human Rights \(AMDH\) published a story today from an eviction that occurred on Saturday\. The police were destroying shelters in the “Lakhmis Akdim” camp when they were confronted by a woman with a very sick infant\. They refused to give her any assistance, and carried on to destroy her shelter, leaving her alone in an isolated area without any way to reach a hospital\. According to [AMDH](https://www.facebook.com/AmdhNador/?hc_ref=ARSQHPTuFHZ2qolAbRwPaX78nH2wrzz6pvhcl5ujrtdRmHxwUzTEFsE-WpuwRl4CW2c&fref=nf&hc_location=group) :
 
 
-![The infant that auxiliary forces abandoned\. Photo Credit: AMDH](assets/bd812e0da910/1*JlowSa2UvLyQP2HcCZ0eGg.jpeg)
+![The infant that auxiliary forces abandoned\. Photo Credit: AMDH](../assets/bd812e0da910/1*JlowSa2UvLyQP2HcCZ0eGg.jpeg)
 
 The infant that auxiliary forces abandoned\. Photo Credit: AMDH
 

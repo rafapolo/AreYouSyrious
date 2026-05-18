@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,solidarity,unhcr,refugee-camps]
 description: UNHCR has limited access to Syrian refugees in Turkey / Call for solidarity march in Athens / Campaign urging protection of children…
 image:
-  path: assets/101827ae66fd/1*95BgKmsqh3jFWjvTZvLfyQ.jpeg
+  path: ../assets/101827ae66fd/1*95BgKmsqh3jFWjvTZvLfyQ.jpeg
 ---
 
 ### AYS Daily Digest 19/1 — Calls for help and solidarity all over Europe
@@ -15,7 +15,7 @@ image:
 _UNHCR has limited access to Syrian refugees in Turkey / Call for solidarity march in Athens / Campaign urging protection of children refugees / Help needed for the upcoming winter conditions in Greece / Emergency center in Obrenovac near Belgrade now full / Austrian minister calls for strengthening border controls / Criminalization of solidarity at the border between France and Italy_
 
 
-![Morning at the Belgrade bus station, the temperature was around \-1º c and it was snowing\. Photo credit: NuuNoo Felicio](assets/101827ae66fd/1*95BgKmsqh3jFWjvTZvLfyQ.jpeg)
+![Morning at the Belgrade bus station, the temperature was around \-1º c and it was snowing\. Photo credit: NuuNoo Felicio](../assets/101827ae66fd/1*95BgKmsqh3jFWjvTZvLfyQ.jpeg)
 
 Morning at the Belgrade bus station, the temperature was around \-1º c and it was snowing\. Photo credit: NuuNoo Felicio
 #### TURKEY
@@ -37,7 +37,7 @@ In addition to the lack of information about the legal status and location of re
 
 
 
-![\#FreeMohamedA](assets/101827ae66fd/1*uoS1k6s04g9F42LMlMVFig.jpeg)
+![\#FreeMohamedA](../assets/101827ae66fd/1*uoS1k6s04g9F42LMlMVFig.jpeg)
 
 \#FreeMohamedA
 ### “Mention the unmentioned” urges ministers to take action for refugee children
@@ -64,19 +64,19 @@ Call on the representatives of authorities to acknowledge these children and rea
 [**The Timber Project**](https://www.facebook.com/thetimberproject.org/) is back on track and working hard on building a school at the Nea Kavala Refugee Camp\.
 
 
-![](assets/101827ae66fd/1*Ut-27zWyrKU6QNJtaZi5PA.jpeg)
+![](../assets/101827ae66fd/1*Ut-27zWyrKU6QNJtaZi5PA.jpeg)
 
 
 
-![](assets/101827ae66fd/1*nnQD8P4UvKillD3mSOqDug.jpeg)
+![](../assets/101827ae66fd/1*nnQD8P4UvKillD3mSOqDug.jpeg)
 
 
 
-![](assets/101827ae66fd/1*jNrSqt17cHj4qPQs2loMbA.jpeg)
+![](../assets/101827ae66fd/1*jNrSqt17cHj4qPQs2loMbA.jpeg)
 
 
 
-![photos by The Timber Project](assets/101827ae66fd/1*1o_lnWIB5Qkvy3SpVR6JMg.jpeg)
+![photos by The Timber Project](../assets/101827ae66fd/1*1o_lnWIB5Qkvy3SpVR6JMg.jpeg)
 
 photos by The Timber Project
 
@@ -162,15 +162,15 @@ The Refugee Commission says they are working on constantly improving the conditi
 
 
 
-![](assets/101827ae66fd/1*yjvbSytQuqyb81OR-aSYmQ.jpeg)
+![](../assets/101827ae66fd/1*yjvbSytQuqyb81OR-aSYmQ.jpeg)
 
 
 
-![](assets/101827ae66fd/1*Yo40Xp6vqB1hrnfNr_cTNQ.jpeg)
+![](../assets/101827ae66fd/1*Yo40Xp6vqB1hrnfNr_cTNQ.jpeg)
 
 
 
-![Photos by MigSzol Szeged](assets/101827ae66fd/1*pbHNjiVpcdqklCCxQdvdOg.jpeg)
+![Photos by MigSzol Szeged](../assets/101827ae66fd/1*pbHNjiVpcdqklCCxQdvdOg.jpeg)
 
 Photos by MigSzol Szeged
 #### GERMANY
@@ -192,7 +192,7 @@ For the second week of the initiative they are looking for “help from someone 
  If you are able to help e\-mail them at **info@refugeechildrenscentres\.org**
 
 
-![Photo by Dunkirk Refugee Children’s Centre](assets/101827ae66fd/1*GdOW6NJlMAsuoFd0HXF2MA.jpeg)
+![Photo by Dunkirk Refugee Children’s Centre](../assets/101827ae66fd/1*GdOW6NJlMAsuoFd0HXF2MA.jpeg)
 
 Photo by Dunkirk Refugee Children’s Centre
 
@@ -228,7 +228,7 @@ A list of **current court processes** under charge of helping migrants at the bo
 ### Getting people out of the cold
 
 
-![Photo by Paris Refugee Ground Support](assets/101827ae66fd/1*un8Ux0TTABGMh0LgnlIMqQ.jpeg)
+![Photo by Paris Refugee Ground Support](../assets/101827ae66fd/1*un8Ux0TTABGMh0LgnlIMqQ.jpeg)
 
 Photo by Paris Refugee Ground Support
 

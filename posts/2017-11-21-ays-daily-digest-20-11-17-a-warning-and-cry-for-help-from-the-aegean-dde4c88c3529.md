@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 20/11/17: A warning and cry for help from the Aegean
+title: "AYS Daily Digest 20/11/17: A warning and cry for help from the Aegean"
 author: Are You Syrious?
 date: 2017-11-21T09:52:21.202+0000
 last_modified_at: 2017-11-21T09:52:21.202+0000
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,greece,italy,france,europe]
 description: tensions rise on the overcrowded underprepared Greek islands / Bulgaria doubles its refusals / Indignation of the refugees in the north of…
 image:
-  path: assets/dde4c88c3529/1*sqoXOYYTRyPupwTD9qbAKA.jpeg
+  path: ../assets/dde4c88c3529/1*sqoXOYYTRyPupwTD9qbAKA.jpeg
 ---
 
 ### AYS Daily Digest 20/11/17: A warning and cry for help from the Aegean
 #### tensions rise on the overcrowded underprepared Greek islands / Bulgaria doubles its refusals / Indignation of the refugees in the north of Italy due to unbearable state of the reception centres / The only reliable help in the north of France / Late surge of arrivals from the sea — prison in Spain as a provisional reception centre / Solidarity protest in Berlin / Another suicide in Morton Hall / …
 
 
-![Children in a refugee camp on a Greek island, November 2017\. They are not playing to live there\. \(Photo taken from: [1951RefugeeConvention](https://www.facebook.com/1951RefugeeConvention/) \)](assets/dde4c88c3529/1*sqoXOYYTRyPupwTD9qbAKA.jpeg)
+![Children in a refugee camp on a Greek island, November 2017\. They are not playing to live there\. \(Photo taken from: [1951RefugeeConvention](https://www.facebook.com/1951RefugeeConvention/) \)](../assets/dde4c88c3529/1*sqoXOYYTRyPupwTD9qbAKA.jpeg)
 
 Children in a refugee camp on a Greek island, November 2017\. They are not playing to live there\. \(Photo taken from: [1951RefugeeConvention](https://www.facebook.com/1951RefugeeConvention/) \)
 #### FEATURE
@@ -35,7 +35,7 @@ Imprisonment of the people who have managed to survive the perilous journey acro
 
 
 
-![by [United Rescue Aid](https://www.facebook.com/unitedrescueaid/)](assets/dde4c88c3529/1*dD1RJ1Utu_fsP9hVWKWZkQ.jpeg)
+![by [United Rescue Aid](https://www.facebook.com/unitedrescueaid/)](../assets/dde4c88c3529/1*dD1RJ1Utu_fsP9hVWKWZkQ.jpeg)
 
 by [United Rescue Aid](https://www.facebook.com/unitedrescueaid/)
 
@@ -67,7 +67,7 @@ It has been 20 days since the begining of the hunger strike by a group of refuge
 
 
 
-[![Lesvos, 20.11.2017. (By Pieter MJ Wittenberg)](assets/dde4c88c3529/2d29_hqdefault.jpg "Lesvos, 20.11.2017. (By Pieter MJ Wittenberg)")](http://www.youtube.com/watch?v=xxALZwXK87M)
+[![Lesvos, 20.11.2017. (By Pieter MJ Wittenberg)](../assets/dde4c88c3529/2d29_hqdefault.jpg "Lesvos, 20.11.2017. (By Pieter MJ Wittenberg)")](http://www.youtube.com/watch?v=xxALZwXK87M)
 
 
 It seems like none of the responsibles in Moria Camp are prepared for any kind of emergency situation or alternative shelters\. Amidst rain and tear gas, several families were brought to the nearby community centre of Humans 4 Humanity\.
@@ -301,7 +301,7 @@ This year, about 3400 people had been newly registered, had sought protection an
 [BelgrAid](https://www.facebook.com/belgraid/?hc_ref=ARRBToF04n5_MJnoEBDXWph0QacrpeIo5Tf0wahwsHXCKpnTxipMe4GLCWlpoDEXkm0&fref=nf) team is looking for volunteers to join them working in food service\. If you have such experience and/or would like to help out, please email them at: volunteer@belgraid\.org
 
 
-![“ To all our refugee friends in Serbia, this Saturday we are launching our gardening project\! RAS got allocated a plot in [Baštalište](https://www.facebook.com/Bastaliste/?fref=gs&hc_location=group_dialog) , the community garden of Belgrade\. This Saturday 25th of november, we will garden together and prepare the plot for the winter\. It’s an excellent chance to meet people, we will have food together and a small party\. We are meeting in the morning and go to the garden together\. If you want to come, please contact Cesar on \+381 61 16 57 048 \(Also whatsapp\) \. We hope to see you there\!” — [Refugee Aid Serbia](https://www.facebook.com/refugeeaidserbia/?ref=gs&fref=gs&hc_location=group_dialog)](assets/dde4c88c3529/1*TzTukb-4KymcqNiwSSy29g.png)
+![“ To all our refugee friends in Serbia, this Saturday we are launching our gardening project\! RAS got allocated a plot in [Baštalište](https://www.facebook.com/Bastaliste/?fref=gs&hc_location=group_dialog) , the community garden of Belgrade\. This Saturday 25th of november, we will garden together and prepare the plot for the winter\. It’s an excellent chance to meet people, we will have food together and a small party\. We are meeting in the morning and go to the garden together\. If you want to come, please contact Cesar on \+381 61 16 57 048 \(Also whatsapp\) \. We hope to see you there\!” — [Refugee Aid Serbia](https://www.facebook.com/refugeeaidserbia/?ref=gs&fref=gs&hc_location=group_dialog)](../assets/dde4c88c3529/1*TzTukb-4KymcqNiwSSy29g.png)
 
 “ To all our refugee friends in Serbia, this Saturday we are launching our gardening project\! RAS got allocated a plot in [Baštalište](https://www.facebook.com/Bastaliste/?fref=gs&hc_location=group_dialog) , the community garden of Belgrade\. This Saturday 25th of november, we will garden together and prepare the plot for the winter\. It’s an excellent chance to meet people, we will have food together and a small party\. We are meeting in the morning and go to the garden together\. If you want to come, please contact Cesar on \+381 61 16 57 048 \(Also whatsapp\) \. We hope to see you there\!” — [Refugee Aid Serbia](https://www.facebook.com/refugeeaidserbia/?ref=gs&fref=gs&hc_location=group_dialog)
 
@@ -320,23 +320,23 @@ Refugees in the north of Italy are experiencing a very harsh reality, both in th
 A number of people who arrived by sea and were later on settled in some of the centres for the first reception have later on entered some of the other facilities \(as a part of the official reception programs or independently\) and in the end ended up outside again, while the others had been living in other EU member states, where their asylum claim was denied and they came to Italy to try again\. Many are different, yet similar stories of suffering and struggle to obtain a _status_ considered worthy of care and respect by the system\.
 
 
-![](assets/dde4c88c3529/1*3KW7nP9r47Esqm90LFwSLQ.jpeg)
+![](../assets/dde4c88c3529/1*3KW7nP9r47Esqm90LFwSLQ.jpeg)
 
 
 
-![](assets/dde4c88c3529/1*7izZHDVqneSCm7nbp-HHHg.jpeg)
+![](../assets/dde4c88c3529/1*7izZHDVqneSCm7nbp-HHHg.jpeg)
 
 
 
-![](assets/dde4c88c3529/1*O4moka8Bo-DZRIfzUNotgw.jpeg)
+![](../assets/dde4c88c3529/1*O4moka8Bo-DZRIfzUNotgw.jpeg)
 
 
 
-![](assets/dde4c88c3529/1*6HBduNTiTD0y4cNySFhpew.jpeg)
+![](../assets/dde4c88c3529/1*6HBduNTiTD0y4cNySFhpew.jpeg)
 
 
 
-![Gorizia, area close to the border with Slovenia \(Photos: Mauro Chiarabba\)](assets/dde4c88c3529/1*z1V9ruzGV8vyioHyiEf1YQ.jpeg)
+![Gorizia, area close to the border with Slovenia \(Photos: Mauro Chiarabba\)](../assets/dde4c88c3529/1*z1V9ruzGV8vyioHyiEf1YQ.jpeg)
 
 Gorizia, area close to the border with Slovenia \(Photos: Mauro Chiarabba\)
 
@@ -354,15 +354,15 @@ Most of the rooms are without heating and the facility is largely with no hot wa
 
 
 
-![](assets/dde4c88c3529/1*FR7SlJL8TwyQW3_fPIpylQ.jpeg)
+![](../assets/dde4c88c3529/1*FR7SlJL8TwyQW3_fPIpylQ.jpeg)
 
 
 
-![](assets/dde4c88c3529/1*Iq0uYpfckOe2WZMUPTcngQ.jpeg)
+![](../assets/dde4c88c3529/1*Iq0uYpfckOe2WZMUPTcngQ.jpeg)
 
 
 
-![Photos: Mauro Chiarabba](assets/dde4c88c3529/1*qjs2cF_-5S9lnmPB3EsWAA.jpeg)
+![Photos: Mauro Chiarabba](../assets/dde4c88c3529/1*qjs2cF_-5S9lnmPB3EsWAA.jpeg)
 
 Photos: Mauro Chiarabba
 
@@ -371,7 +371,7 @@ Food is one of the main problems as well\. Volunteers report that both in
 Gorizia \(the photo of pasta portions given to the residents of Nazarene centre\) and in other centres the food is the same and not nearly good enough in quality or quantity to suffice and be given as a daily meal, so the groups providing food in these areas struggle with that as well\.
 
 
-![](assets/dde4c88c3529/1*s1nskMEfRhpFTKlEVrbdlA.jpeg)
+![](../assets/dde4c88c3529/1*s1nskMEfRhpFTKlEVrbdlA.jpeg)
 
 #### Desperation driving refugees in the streets
 
@@ -416,7 +416,7 @@ The [Refugee Community Kitchen](https://www.facebook.com/refugeeCkitchen/) are p
 5L Olive Oil
 8kg Spices & chilli
 100kg Salad Veg
-100kg Veg \+ Potatoes for Curry — That’s A LOT of food\! Please [share & give what you can](http://bit.ly/rckdonate) so that we can keep serving nourishing meals to people in need\!” — RCK](assets/dde4c88c3529/1*hczUCMtUKeVsCke0WBAgGg.jpeg)
+100kg Veg \+ Potatoes for Curry — That’s A LOT of food\! Please [share & give what you can](http://bit.ly/rckdonate) so that we can keep serving nourishing meals to people in need\!” — RCK](../assets/dde4c88c3529/1*hczUCMtUKeVsCke0WBAgGg.jpeg)
 
 “Every day we use: 75–100kg Dried Beans/Pulses
 180kg Basmati Rice or Pasta or 250kg Potatoes
@@ -459,15 +459,15 @@ Here’s a recent feedback from a group health professionals who provide First A
 
 
 
-![](assets/dde4c88c3529/1*xNlrhXV2EZ92njQjkEaOew.jpeg)
+![](../assets/dde4c88c3529/1*xNlrhXV2EZ92njQjkEaOew.jpeg)
 
 
 
-![](assets/dde4c88c3529/1*0zsaiz2CH5StipOZ3P7QTw.jpeg)
+![](../assets/dde4c88c3529/1*0zsaiz2CH5StipOZ3P7QTw.jpeg)
 
 
 
-![Photos and quoted comment: [Raid Ali](https://www.facebook.com/raid.abdul)](assets/dde4c88c3529/1*QhUBFtvF06o642-iARGJZw.jpeg)
+![Photos and quoted comment: [Raid Ali](https://www.facebook.com/raid.abdul)](../assets/dde4c88c3529/1*QhUBFtvF06o642-iARGJZw.jpeg)
 
 Photos and quoted comment: [Raid Ali](https://www.facebook.com/raid.abdul)
 #### Connecting
@@ -486,19 +486,19 @@ Photos and quoted comment: [Raid Ali](https://www.facebook.com/raid.abdul)
 
 
 
-![](assets/dde4c88c3529/1*qBuBmzH0OSatyfQ_fkSn5g.jpeg)
+![](../assets/dde4c88c3529/1*qBuBmzH0OSatyfQ_fkSn5g.jpeg)
 
 
 
-![](assets/dde4c88c3529/1*1RfAPaaJGwB-xSvtggR6CQ.jpeg)
+![](../assets/dde4c88c3529/1*1RfAPaaJGwB-xSvtggR6CQ.jpeg)
 
 
 
-![](assets/dde4c88c3529/1*NiANZxj8YoTbvlMGqUwRwg.jpeg)
+![](../assets/dde4c88c3529/1*NiANZxj8YoTbvlMGqUwRwg.jpeg)
 
 
 
-![Photos: [L’Auberge des Migrants](https://www.facebook.com/LAuberge-des-Migrants-358496450338/)](assets/dde4c88c3529/1*yQ25S3GRN-SboY-CxiPZ5A.jpeg)
+![Photos: [L’Auberge des Migrants](https://www.facebook.com/LAuberge-des-Migrants-358496450338/)](../assets/dde4c88c3529/1*yQ25S3GRN-SboY-CxiPZ5A.jpeg)
 
 Photos: [L’Auberge des Migrants](https://www.facebook.com/LAuberge-des-Migrants-358496450338/)
 #### BELGIUM

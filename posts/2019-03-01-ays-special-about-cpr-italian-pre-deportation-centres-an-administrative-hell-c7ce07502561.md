@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL ABOUT CPR — Italian pre-deportation centres: An administrative hell
+title: "AYS SPECIAL ABOUT CPR — Italian pre-deportation centres: An administrative hell"
 author: Are You Syrious?
 date: 2019-03-01T07:57:07.195+0000
 last_modified_at: 2019-03-01T07:57:07.195+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,italy,special,migrants,european-union]
 description: T., a man in hunger strike in the CPR (Italian pre-deportation centre) of Turin, contacted Radio Blackout (1, 2), an activist radio based…
 image:
-  path: assets/c7ce07502561/1*ctZiW8vVXmU-7qA-kPiWeg.jpeg
+  path: ../assets/c7ce07502561/1*ctZiW8vVXmU-7qA-kPiWeg.jpeg
 ---
 
 ### AYS SPECIAL ABOUT CPR — Italian pre\-deportation centres: An administrative hell
@@ -15,7 +15,7 @@ image:
 _T\., a man in hunger strike in the CPR \(Italian pre\-deportation centre\) of Turin, contacted Radio Blackout \( [1](https://radioblackout.org/podcast/diretta-con-un-recluso-nel-cpr-di-torino/) , [2](https://radioblackout.org/podcast/diretta-con-due-reclusi-nel-cpr-di-torino-25-02-19/) \), an activist radio based in the same city\. By Monday 25th of February, T\. was at his 16th day of hunger strike to demand his freedom and to enlighten the public about the brutal conditions people are forced to suffer in the centre\._
 
 
-![CPR in Turin \(photo by [Hurriya](https://twitter.com/hurriya_blog/status/1075785792927207425) \)](assets/c7ce07502561/1*ctZiW8vVXmU-7qA-kPiWeg.jpeg)
+![CPR in Turin \(photo by [Hurriya](https://twitter.com/hurriya_blog/status/1075785792927207425) \)](../assets/c7ce07502561/1*ctZiW8vVXmU-7qA-kPiWeg.jpeg)
 
 CPR in Turin \(photo by [Hurriya](https://twitter.com/hurriya_blog/status/1075785792927207425) \)
 #### The other side of Schengen
@@ -25,7 +25,7 @@ Italian CPRs \(Centri di Permanenza per il Rimpatrio\) are the renovated version
 The detention of people who did not commit any crime, and whose only fault is trying to find better living conditions in Italy or in the rest of Europe is strictly connected with “free movement”, as it was thought of by European politicians at the time of the Schengen agreements\. One of the clauses of the agreements was to identify those people who did not benefit from such freedom, and to introduce new ways to limit their rights\.
 
 
-![“Bars and barbwire\.” “Imagine if we had committed a real crime\.” \( [Vermi di Rouge](https://www.vermidirouge.com/) \)](assets/c7ce07502561/1*RB2ACMEdd93xk_Up-4jpbA.jpeg)
+![“Bars and barbwire\.” “Imagine if we had committed a real crime\.” \( [Vermi di Rouge](https://www.vermidirouge.com/) \)](../assets/c7ce07502561/1*RB2ACMEdd93xk_Up-4jpbA.jpeg)
 
 “Bars and barbwire\.” “Imagine if we had committed a real crime\.” \( [Vermi di Rouge](https://www.vermidirouge.com/) \)
 
@@ -85,7 +85,7 @@ As T\. explains, one of the main problems regards the quality of food and the hu
 #### **Protests outside and inside**
 
 
-![](assets/c7ce07502561/1*wdG57hkda8s0bob-rWX7sQ.jpeg)
+![](../assets/c7ce07502561/1*wdG57hkda8s0bob-rWX7sQ.jpeg)
 
 
 Small and large protests often happen in Italian CPRs, but they are only rarely reported\. Breakout attempts, [revolts](https://www.autistici.org/macerie/?p=33236) and hunger strikes\. In the last six months the centre has been [damaged](https://www.autistici.org/macerie/?p=33207) several times and areas have been burned by the prisoners in a desperate attempt to be noticed by the outside world\. More recently some prisoners managed to [reach the roof of the centre](https://hurriya.noblogs.org/post/2018/12/20/torino-proteste-nel-cpr-di-corso-brunelleschi/) in protest against their living conditions\.

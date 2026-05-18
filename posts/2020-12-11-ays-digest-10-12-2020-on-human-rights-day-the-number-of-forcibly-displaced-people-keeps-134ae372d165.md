@@ -1,5 +1,5 @@
 ---
-title: AYS Digest — 10/12/2020: On Human Rights Day, the number of forcibly displaced people keeps…
+title: "AYS Digest — 10/12/2020: On Human Rights Day, the number of forcibly displaced people keeps…"
 author: Are You Syrious?
 date: 2020-12-11T19:42:30.294+0000
 last_modified_at: 2020-12-11T19:42:30.294+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: []
 description: Humanitarian emergency in Bosnia and Herzegovina// Demonstrations and illegal pushbacks in Greece // New changes to UK immigration rules
 image:
-  path: assets/134ae372d165/0*wXASJcWYaOh29ede.jpeg
+  path: ../assets/134ae372d165/0*wXASJcWYaOh29ede.jpeg
 ---
 
 ### AYS Digest — 10/12/2020: On Human Rights Day, the number of forcibly displaced people keeps growing at an alarming rate
@@ -16,7 +16,7 @@ image:
 Thursday, December 10th has marked the 72nd anniversary of the Universal Declaration of Human Rights, adopted on this day in 1948\. You can find the full document, available in a wide variety of languages, [here\.](https://www.ohchr.org/EN/UDHR/Pages/SearchByLang.aspx)
 
 
-![](assets/134ae372d165/0*wXASJcWYaOh29ede.jpeg)
+![](../assets/134ae372d165/0*wXASJcWYaOh29ede.jpeg)
 
 
 The IOM distributes relief items to IDPs in Ngala town, Borno \| Credit: IOM
@@ -38,7 +38,7 @@ Over 2,000 migrants and refugees in Bosnia and Herzegovina are currently sleepin
 This [video illustrates](https://twitter.com/InfoMigrants/status/1336667917384097793?s=20&fbclid=IwAR3eRFpKQ8dXCHP2CqxHvYCQQTw506XaXF7d6vv8F5cRjPd2Vj1EkQZZOvE) the harsh situation in Bosnia, with people sleeping rough in the cold of the fast\-approaching winter\.
 
 
-![](assets/134ae372d165/0*pGEkpTiijXO8yZeF)
+![](../assets/134ae372d165/0*pGEkpTiijXO8yZeF)
 
 
 Credits: Muhammed/SOSBihac
@@ -143,7 +143,7 @@ The CCAR \(Catalunian Commission for Aid to Refugees\) [asks the administrations
 We happily forward this [interesting initiative from Utopia 5](https://www.facebook.com/asso.utopia56/posts/3812176442147453) 6, in collaboration with MSF:
 
 
-![](assets/134ae372d165/0*dlXDLvxdYATtF4zm)
+![](../assets/134ae372d165/0*dlXDLvxdYATtF4zm)
 
 
 If interested, you can find out more [here\.](http://www.utopia56.com/fr/hebergement-solidaire-mineures-non-accompagnees?fbclid=IwAR26ncc27Vn5OshnAwUOHOnH7ONKeHddxTEw-a6z2Gfts1uxCNAqsp6aFTA)
@@ -205,7 +205,7 @@ We’re happy to share a new Dutch podcast, “ **The Cities of Refuge Podcast�
 ### [Are You Syrious?](https://medium.com/are-you-syrious?source=post_sidebar--------------------------post_sidebar-----------)
 
 
-![](assets/134ae372d165/0*7d3KbwPR3qzQGIB3.jpeg)
+![](../assets/134ae372d165/0*7d3KbwPR3qzQGIB3.jpeg)
 
 
 

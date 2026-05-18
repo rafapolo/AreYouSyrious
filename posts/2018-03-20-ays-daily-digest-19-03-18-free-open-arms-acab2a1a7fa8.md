@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,rescue,paris]
 description: Rescue ship seized in Italy//Civilians massacred in East Ghouta//Overcrowding on the Islands//Update from Samos//Rights Groups Investigate…
 image:
-  path: assets/acab2a1a7fa8/1*rxbrccBogs5ZQkbpm4HHxQ.jpeg
+  path: ../assets/acab2a1a7fa8/1*rxbrccBogs5ZQkbpm4HHxQ.jpeg
 ---
 
 ### AYS Daily Digest 19/03/18 — Free Open Arms
@@ -15,7 +15,7 @@ image:
 _Rescue ship seized in Italy//Civilians massacred in East Ghouta//Overcrowding on the Islands//Update from Samos//Rights Groups Investigate Asylum Process in Greece//Donations needed on Lesvos and in Paris//Rescue on the Evros River//Abuse of Refugees in Paris//and more…_
 
 
-![Graphic Credit: [FOTOMOVIMIENTO 15M](https://www.facebook.com/Fotomovimiento.org/)](assets/acab2a1a7fa8/1*rxbrccBogs5ZQkbpm4HHxQ.jpeg)
+![Graphic Credit: [FOTOMOVIMIENTO 15M](https://www.facebook.com/Fotomovimiento.org/)](../assets/acab2a1a7fa8/1*rxbrccBogs5ZQkbpm4HHxQ.jpeg)
 
 Graphic Credit: [FOTOMOVIMIENTO 15M](https://www.facebook.com/Fotomovimiento.org/)
 #### Feature — Sea Rescue is Not a Crime
@@ -29,7 +29,7 @@ A Sicilian court impounded the ship on charges that the group had “helped ille
 Proactiva reported that during the rescue operation the LCG [threatened to shoot at the dinghies](https://www.telegraph.co.uk/news/2018/03/19/italy-impounds-rescue-vessel-crew-refuses-hand-migrants-libya/) if they did not hand the refugees over to them\. After a tense three hour negotiation with the LCG, Proactiva defied their orders and headed to the port of Pozzallo in Sicily\.
 
 
-![The [Proactiva Open Arms](https://www.facebook.com/proactivaservice/photos/a.232810050083187.63417.111995985497928/1827202577310585/?type=3&theater) crew after a mission, 14\.03\.18\. “Nothing has been easy for this team who, after a difficult break, have rescued more than 200 people in the Mediterranean, with bearing the terrifying scars of extreme suffering in Libya\. Thank you for being light in the most inhuman darkness\.”](assets/acab2a1a7fa8/1*O98nsyUj7cZjmCVM-rvrJw.jpeg)
+![The [Proactiva Open Arms](https://www.facebook.com/proactivaservice/photos/a.232810050083187.63417.111995985497928/1827202577310585/?type=3&theater) crew after a mission, 14\.03\.18\. “Nothing has been easy for this team who, after a difficult break, have rescued more than 200 people in the Mediterranean, with bearing the terrifying scars of extreme suffering in Libya\. Thank you for being light in the most inhuman darkness\.”](../assets/acab2a1a7fa8/1*O98nsyUj7cZjmCVM-rvrJw.jpeg)
 
 The [Proactiva Open Arms](https://www.facebook.com/proactivaservice/photos/a.232810050083187.63417.111995985497928/1827202577310585/?type=3&theater) crew after a mission, 14\.03\.18\. “Nothing has been easy for this team who, after a difficult break, have rescued more than 200 people in the Mediterranean, with bearing the terrifying scars of extreme suffering in Libya\. Thank you for being light in the most inhuman darkness\.”
 
@@ -42,7 +42,7 @@ As the sea rescue group [MoChara wrote today](https://www.facebook.com/RefugeeRe
 
 
 
-![A Proactiva rescue operation in the Mediterranean, 20\.03\.18\. Photo Credit: [Proactiva Open Arms](https://www.facebook.com/proactivaservice/?hc_location=group_dialog)](assets/acab2a1a7fa8/1*1bAH-EMNxDE2r0dspcYoEg.jpeg)
+![A Proactiva rescue operation in the Mediterranean, 20\.03\.18\. Photo Credit: [Proactiva Open Arms](https://www.facebook.com/proactivaservice/?hc_location=group_dialog)](../assets/acab2a1a7fa8/1*1bAH-EMNxDE2r0dspcYoEg.jpeg)
 
 A Proactiva rescue operation in the Mediterranean, 20\.03\.18\. Photo Credit: [Proactiva Open Arms](https://www.facebook.com/proactivaservice/?hc_location=group_dialog)
 
@@ -98,7 +98,7 @@ These are just some of the consequences of this bloody deal\. Thousands and thou
 It is time to end this brutal agreement and open the islands\.
 
 
-![Photo Credit: Aegean Boat Report](assets/acab2a1a7fa8/1*BS37STjCEC9UvG450Prc3Q.jpeg)
+![Photo Credit: Aegean Boat Report](../assets/acab2a1a7fa8/1*BS37STjCEC9UvG450Prc3Q.jpeg)
 
 Photo Credit: Aegean Boat Report
 
@@ -173,7 +173,7 @@ We are forwarding a message from the [Khora](https://www.facebook.com/KhoraAthen
 According to the [City Plaza](https://www.facebook.com/cityplazaathens/photos/a.1558667751094726.1073741830.1546516778976490/1782378518723647/?type=3&theater) group, a group of Kurdish political refugees have announced that they will begin a hunger strike today in solidarity with Afrin\. The strike will take place opposite the Greek parliament\. From the statement of the strikers:
 
 
-![Photo Credit: [City Plaza](https://www.facebook.com/cityplazaathens/photos/a.1558667751094726.1073741830.1546516778976490/1782378518723647/?type=3&theater)](assets/acab2a1a7fa8/1*1ShwsItoRamWpifikgiryA.jpeg)
+![Photo Credit: [City Plaza](https://www.facebook.com/cityplazaathens/photos/a.1558667751094726.1073741830.1546516778976490/1782378518723647/?type=3&theater)](../assets/acab2a1a7fa8/1*1ShwsItoRamWpifikgiryA.jpeg)
 
 Photo Credit: [City Plaza](https://www.facebook.com/cityplazaathens/photos/a.1558667751094726.1073741830.1546516778976490/1782378518723647/?type=3&theater)
 
@@ -199,7 +199,7 @@ Photo Credit: [City Plaza](https://www.facebook.com/cityplazaathens/photos/a.155
 The [NoBorders](https://www.facebook.com/nobordersnetwork/) network reported today that 18 refugees were rescued from the Evros river on the Greek\-Turkish land border due to the intervention of some fireman\. The vehicle they were crossing in had become stuck in the water\.
 
 
-![Photo Credit: [No Borders](https://www.facebook.com/nobordersnetwork/)](assets/acab2a1a7fa8/1*SpjJc4STaChanmW2ngRKHg.jpeg)
+![Photo Credit: [No Borders](https://www.facebook.com/nobordersnetwork/)](../assets/acab2a1a7fa8/1*SpjJc4STaChanmW2ngRKHg.jpeg)
 
 Photo Credit: [No Borders](https://www.facebook.com/nobordersnetwork/)
 
@@ -208,7 +208,7 @@ Today Mobile Info Team Greece published a guide to purchasing family reunificati
 The Zaatar Social Center just released their new schedule of classes \(including guitar lessons and Greek language classes\) \. Click [here](https://www.facebook.com/zaatarngo/posts/1735311793155823) \.
 
 
-![Photo Credit: Lifting Hands International](assets/acab2a1a7fa8/1*YwjfOuWB2_ahC5CF_iLVhQ.jpeg)
+![Photo Credit: Lifting Hands International](../assets/acab2a1a7fa8/1*YwjfOuWB2_ahC5CF_iLVhQ.jpeg)
 
 Photo Credit: Lifting Hands International
 
@@ -256,7 +256,7 @@ Refugees from the Pordenone region are reporting unbearable conditions on the gr
 
 
 ![A refugee living in the Pordenone area shows his breaking shoes\. Photo Credit: 
-Lorena Fornasir\.](assets/acab2a1a7fa8/1*Urd2G-zCxkxEcnGL5qzxRQ.jpeg)
+Lorena Fornasir\.](../assets/acab2a1a7fa8/1*Urd2G-zCxkxEcnGL5qzxRQ.jpeg)
 
 A refugee living in the Pordenone area shows his breaking shoes\. Photo Credit: 
 Lorena Fornasir\.
@@ -296,7 +296,7 @@ There were sub\-zero temperatures in Paris tonight, making life for the more tha
 The UK\-based human rights organisation [Refugee Rights Europe](http://refugeerights.org.uk) released a shocking report, “ [Still on the Streets](http://refugeerights.org.uk/wp-content/uploads/2018/03/RRDP_StillOnTheStreets.pdf) ”, describing the abuse refugees in Paris face\. Among their findings:
 
 
-![Graphic Credit: [Safe Passage](https://www.facebook.com/SafePassageInt/)](assets/acab2a1a7fa8/1*CAP2M8VAi1LMhzctPkwvOg.png)
+![Graphic Credit: [Safe Passage](https://www.facebook.com/SafePassageInt/)](../assets/acab2a1a7fa8/1*CAP2M8VAi1LMhzctPkwvOg.png)
 
 Graphic Credit: [Safe Passage](https://www.facebook.com/SafePassageInt/)
 
@@ -311,7 +311,7 @@ Graphic Credit: [Safe Passage](https://www.facebook.com/SafePassageInt/)
 **— 86% said they had been tear gassed by the police at least once**
 
 
-![Paris, 20\.03\.18\. Photo Credit: [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/)](assets/acab2a1a7fa8/1*sBZuJhqjsUYd-kuYLqFBtQ.jpeg)
+![Paris, 20\.03\.18\. Photo Credit: [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/)](../assets/acab2a1a7fa8/1*sBZuJhqjsUYd-kuYLqFBtQ.jpeg)
 
 Paris, 20\.03\.18\. Photo Credit: [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/)
 
@@ -321,7 +321,7 @@ The Norwegian based volunteer group [Drop in the Ocean](https://www.facebook.com
 ### Netherlands
 
 
-![“Watch The Med Alarm Phone Netherlands transfers the EU’s external borders to the ‘government pond’ in The Hague\. Around 30 people installed thousands of life\-vests in the pond next to the Dutch parliament\. The vests come from the Greek island Lesvos and were used by those on their way to Europe\. With this action we demand freedom of movement for all, two years after the EU\-Turkey deal\. We call on the European Commission, the EU Parliament and member states to end the drowning of migrants in the Mediterranean\.” Photo Credit: [Watch the Med — Alarmphone](https://www.facebook.com/watchthemed.alarmphone/)](assets/acab2a1a7fa8/1*TFizlnxNKpMWuxbasZT0zw.jpeg)
+![“Watch The Med Alarm Phone Netherlands transfers the EU’s external borders to the ‘government pond’ in The Hague\. Around 30 people installed thousands of life\-vests in the pond next to the Dutch parliament\. The vests come from the Greek island Lesvos and were used by those on their way to Europe\. With this action we demand freedom of movement for all, two years after the EU\-Turkey deal\. We call on the European Commission, the EU Parliament and member states to end the drowning of migrants in the Mediterranean\.” Photo Credit: [Watch the Med — Alarmphone](https://www.facebook.com/watchthemed.alarmphone/)](../assets/acab2a1a7fa8/1*TFizlnxNKpMWuxbasZT0zw.jpeg)
 
 “Watch The Med Alarm Phone Netherlands transfers the EU’s external borders to the ‘government pond’ in The Hague\. Around 30 people installed thousands of life\-vests in the pond next to the Dutch parliament\. The vests come from the Greek island Lesvos and were used by those on their way to Europe\. With this action we demand freedom of movement for all, two years after the EU\-Turkey deal\. We call on the European Commission, the EU Parliament and member states to end the drowning of migrants in the Mediterranean\.” Photo Credit: [Watch the Med — Alarmphone](https://www.facebook.com/watchthemed.alarmphone/)
 ### UK

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 5/6/17: Recurring police beatings at the Croatian border
+title: "AYS Daily Digest 5/6/17: Recurring police beatings at the Croatian border"
 author: Are You Syrious?
 date: 2017-06-06T01:23:47.263+0100
 last_modified_at: 2017-06-07T00:03:53.704+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,greece,police-brutality,croatia,europe]
 description: Croatian police accused of new violent episodes / 10 deaths in a van smuggling people from Bulgaria / new initiatives to help sea rescue…
 image:
-  path: assets/1d30c1d9538b/1*lARc3q1vA8dT1k2-Piy58g.jpeg
+  path: ../assets/1d30c1d9538b/1*lARc3q1vA8dT1k2-Piy58g.jpeg
 ---
 
 ### AYS Daily Digest 5/6/17: Recurring police beatings at the Croatian border
 #### Croatian police accused of new violent episodes / 10 deaths in a van smuggling people from Bulgaria / new initiatives to help sea rescue teams / Greek schools — enrolment deadline / fluctuating situation in Serbian camps / petition for the protection of refugee minors in Sweden / asylum centres in Norway closing
 
 
-![14 volunteers saved about 400 people from the Mediterranean, including many children who woke up to safety this morning \(Photo: [PROACTIVA OPEN ARMS](https://twitter.com/openarms_fund) \)](assets/1d30c1d9538b/1*lARc3q1vA8dT1k2-Piy58g.jpeg)
+![14 volunteers saved about 400 people from the Mediterranean, including many children who woke up to safety this morning \(Photo: [PROACTIVA OPEN ARMS](https://twitter.com/openarms_fund) \)](../assets/1d30c1d9538b/1*lARc3q1vA8dT1k2-Piy58g.jpeg)
 
 14 volunteers saved about 400 people from the Mediterranean, including many children who woke up to safety this morning \(Photo: [PROACTIVA OPEN ARMS](https://twitter.com/openarms_fund) \)
 #### FEATURE — Police violence continues in Croatia
@@ -64,7 +64,7 @@ The second case involved about 10 people from Afghanistan—3 them minors—caug
 
 
 
-![one of the lighter wounds on the boys recently beaten by the police](assets/1d30c1d9538b/1*TSyN3ke8mPunTBBt2Aff3w.jpeg)
+![one of the lighter wounds on the boys recently beaten by the police](../assets/1d30c1d9538b/1*TSyN3ke8mPunTBBt2Aff3w.jpeg)
 
 one of the lighter wounds on the boys recently beaten by the police
 
@@ -94,7 +94,7 @@ A [campaig](http://m.abola.pt/noticia.aspx?id=676010) n aimed at raising funds t
 This initiative follows a media [report](https://www.google.hr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwi41OHF1qfUAhWLhSwKHaiUCvoQqOcBCCYwAA&url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2017%2Fjun%2F03%2Ffar-right-raises-50000-target-refugee-rescue-boats-med&usg=AFQjCNGzTvmFeSPxSOXCso_J-EuVscirQA&sig2=lLNeeNDjoDte-ea0hk7B-g) that far\-right activists are collecting funds for a campaign to sabotage refugee rescue operations\. According to the report this xenophobic group has raised more than €50,000 in two weeks, all intended to pay for vessels, expenses, and film equipment towards the ultimate end of preventing authorities from saving refugees who arrive in Europe\.
 
 
-![by: [**MSF Sea** ‏](https://twitter.com/MSF_Sea)](assets/1d30c1d9538b/1*AhP5-PxDJt_aCjqjgMR_6A.jpeg)
+![by: [**MSF Sea** ‏](https://twitter.com/MSF_Sea)](../assets/1d30c1d9538b/1*AhP5-PxDJt_aCjqjgMR_6A.jpeg)
 
 by: [**MSF Sea** ‏](https://twitter.com/MSF_Sea)
 
@@ -140,7 +140,7 @@ TEC\-Lab will additionally provide workshops and courses teaching a variety of v
 Among the project’s goals is tackling the severe psychological degradation among asylum seekers on Lesvos by providing a healing and tranquil environment\.
 
 
-![Photo: [Together for Better Days](https://www.facebook.com/betterdays.ngo/)](assets/1d30c1d9538b/1*_Ikq41XGZcpyJqvIMmeO7w.jpeg)
+![Photo: [Together for Better Days](https://www.facebook.com/betterdays.ngo/)](../assets/1d30c1d9538b/1*_Ikq41XGZcpyJqvIMmeO7w.jpeg)
 
 Photo: [Together for Better Days](https://www.facebook.com/betterdays.ngo/)
 ### **Not Another Wall Against the World**
@@ -150,7 +150,7 @@ An Athens\-based art collective, Not Another Wall Against the World \(NAWAW\) un
 “On Monday, June 5th, artists Blaqk, RTM1, Azimi, Emal, Madina and Nakamfrom Greece, Afghanistan, Syria and Iraq—will create a collective art piece at Falirou Street in Koukaki, just right across BelRay Bar\. At the same time, the public will have the opportunity to create a second collective artwork on the same wall\. Both art pieces will be painted on wooden surfaces, in order for it to travel in other places as well, transmitting its message\. After 18:00 a big celebration will be held on the street, after the completion of the mural\.”
 
 
-![Photo: [Generation 2\.0](http://g2red.org/not-another-wall-world-special-mural-streets-athens/)](assets/1d30c1d9538b/1*IH-rVhYnXow4yTIRv3_JBQ.jpeg)
+![Photo: [Generation 2\.0](http://g2red.org/not-another-wall-world-special-mural-streets-athens/)](../assets/1d30c1d9538b/1*IH-rVhYnXow4yTIRv3_JBQ.jpeg)
 
 Photo: [Generation 2\.0](http://g2red.org/not-another-wall-world-special-mural-streets-athens/)
 #### BULGARIA
@@ -164,15 +164,15 @@ At least 10 people were killed and 7 others injured on Sunday when a minibus [sm
 Reports regarding conditions in the camps are pouring in from independent volunteers working in the country\. Contrary to what the officials seem to want the public to believe, the conditions in the camps in Obrenovac and Preševo—the others were not mentioned—are especially heinous\. Access to hot water and other amenities is made difficult or is simply not present on site, so the people from the camp must leave the premises to go to the nearby river to bathe, cook their meals, etc\. Those staying in the camps have no way of travelling to the cities—apart from paying for the regular bus tickets—and yet, the city is the only place where they can access their money to endure these same costs\. Some refugees have been targeted by local mafia members who are especially aggressive to those who leave the camp space to move around freely\.
 
 
-![](assets/1d30c1d9538b/1*y50orbwaeXenPwpgwuFwyQ.jpeg)
+![](../assets/1d30c1d9538b/1*y50orbwaeXenPwpgwuFwyQ.jpeg)
 
 
 
-![](assets/1d30c1d9538b/1*xqK6XGQ_QPXsYazuyyhoCg.jpeg)
+![](../assets/1d30c1d9538b/1*xqK6XGQ_QPXsYazuyyhoCg.jpeg)
 
 
 
-![Film stills by: [Ana Perpétuo](https://www.facebook.com/ana.perpetuo)](assets/1d30c1d9538b/1*H89Y-uzVbXcSOFSkUh80eA.jpeg)
+![Film stills by: [Ana Perpétuo](https://www.facebook.com/ana.perpetuo)](../assets/1d30c1d9538b/1*H89Y-uzVbXcSOFSkUh80eA.jpeg)
 
 Film stills by: [Ana Perpétuo](https://www.facebook.com/ana.perpetuo)
 

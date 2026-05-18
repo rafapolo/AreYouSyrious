@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [greece,refugees,digest,covid-19,netherlands]
 description: Are You Syrious?
 image:
-  path: assets/f624aaf459d2/0*Lhpny73Eg2nJ8-Bm.jpeg
+  path: ../assets/f624aaf459d2/0*Lhpny73Eg2nJ8-Bm.jpeg
 ---
 
 ### AYS Daily Digest 18/01/21 Flooded tent living in freezing weather during a pandemic in Greece
 
 
-![](assets/f624aaf459d2/0*A3-g9xVWiKMBvYSi.jpeg)
+![](../assets/f624aaf459d2/0*A3-g9xVWiKMBvYSi.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----f7c89d96657--------------------------------)
@@ -23,19 +23,19 @@ image:
 _Germany preparing for Syria deportations // 9\-year\-old dies off Spanish coast // not a single child has arrived in the Netherlands from Moria // and more…_
 
 
-![](assets/f624aaf459d2/0*O30wrwGZSQ_H7U4s)
+![](../assets/f624aaf459d2/0*O30wrwGZSQ_H7U4s)
 
 
 
-![](assets/f624aaf459d2/0*OD0f1XQT_YM5BVz1.jpeg)
+![](../assets/f624aaf459d2/0*OD0f1XQT_YM5BVz1.jpeg)
 
 
 
-![](assets/f624aaf459d2/0*kFGJMSVHOTJlCUAw)
+![](../assets/f624aaf459d2/0*kFGJMSVHOTJlCUAw)
 
 
 
-![](assets/f624aaf459d2/0*XWEjVWulCpOVe-2f.jpeg)
+![](../assets/f624aaf459d2/0*XWEjVWulCpOVe-2f.jpeg)
 
 ### FEATURE: Freezing temperatures, snow, inhumane sanitation conditions, living in a tent during Greece’s winter
 
@@ -119,11 +119,11 @@ Three corpses were also rescued on Monday\. They died after their boat was overt
 ### GREECE
 
 
-![](assets/f624aaf459d2/0*UJNrmAdvs0mGtKgj)
+![](../assets/f624aaf459d2/0*UJNrmAdvs0mGtKgj)
 
 
 
-![](assets/f624aaf459d2/0*yTGq08Q-Ralqmpar.jpeg)
+![](../assets/f624aaf459d2/0*yTGq08Q-Ralqmpar.jpeg)
 
 ### ITALY
 ### 26 people found in containers Salerno port
@@ -206,11 +206,11 @@ In a report by VICE World News:
 ### NETHERLANDS
 
 
-![](assets/f624aaf459d2/0*lZ54vBfKJAtGUoUy)
+![](../assets/f624aaf459d2/0*lZ54vBfKJAtGUoUy)
 
 
 
-![](assets/f624aaf459d2/0*Q_DH1dTJ8_WyifhI.jpeg)
+![](../assets/f624aaf459d2/0*Q_DH1dTJ8_WyifhI.jpeg)
 
 ### “Not a single child” was evacuated to the Netherlands after Moria fire
 
@@ -266,11 +266,11 @@ In new reporting by [the Independent](https://www.independent.co.uk/news/uk/home
 According to [InfoMigrants](https://www.infomigrants.net/en/post/29699/more-migrants-prevented-from-crossing-channel-report-british-and-french-police?fbclid=IwAR2as-tfkRIydCWe2Mzl9c1zOuxFfM27k1zYpq7lQBYagU3mjBOXDrOQZI4) “ _More than 60 migrants were prevented from crossing the English Channel between France and the UK at the weekend\. British police said they detained 36 people, and the French authorities arrested 27 people on Saturday\. A further 134 were prevented from crossing over the last week\._ ”
 
 
-![](assets/f624aaf459d2/0*HO8KbTh-BwI17WqK)
+![](../assets/f624aaf459d2/0*HO8KbTh-BwI17WqK)
 
 
 
-![](assets/f624aaf459d2/0*Lhpny73Eg2nJ8-Bm.jpeg)
+![](../assets/f624aaf459d2/0*Lhpny73Eg2nJ8-Bm.jpeg)
 
 ### WORTH READING
 - [We Are Solomon](https://store.wearesolomon.com/notes-from-the-field/refugee-minor-in-patras-see-you-in-another-country/?fbclid=IwAR2XPRK3wnejrxdy9CEEx9HXwOYX7m9dDLSkU5sBk_adpYtLmbPy_sPpycw) just published a new Notes from the Field on **Refugee minor in Patras: “See you in another country\.”** If you want a recent look into the Patras sea route, this is a good read\.

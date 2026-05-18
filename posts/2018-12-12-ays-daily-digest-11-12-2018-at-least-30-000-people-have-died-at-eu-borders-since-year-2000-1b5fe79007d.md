@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 11/12/2018: At Least 30,000 people have Died at EU Borders since year 2000
+title: "AYS Daily Digest 11/12/2018: At Least 30,000 people have Died at EU Borders since year 2000"
 author: Are You Syrious?
 date: 2018-12-12T09:15:06.253+0000
 last_modified_at: 2018-12-12T21:03:48.743+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,libya,human-rights]
 description: Libyan Navy praises suspension of Aquarius SAR// Reports that 20 people detained in Libya attempted suicide// Conditions on Samos are…
 image:
-  path: assets/1b5fe79007d/0*l4123DOveliLLPO0
+  path: ../assets/1b5fe79007d/0*l4123DOveliLLPO0
 ---
 
 ### AYS Daily Digest 11/12/2018: At Least 30,000 people have died at EU Borders since 2000
@@ -15,7 +15,7 @@ image:
 Libyan Navy praises suspension of Aquarius SAR// Reports that 20 people detained in Libya attempted suicide// Conditions on Samos are critical// Solidarity in Athens and Thessaloniki// Boats continue to depart from France to the UK — 6 people rescued// News from Italy//Austria//France//UK
 
 
-![Source: Refugees Welcome International](assets/1b5fe79007d/0*l4123DOveliLLPO0)
+![Source: Refugees Welcome International](../assets/1b5fe79007d/0*l4123DOveliLLPO0)
 
 Source: Refugees Welcome International
 #### FEATURE: Humanitarian Visa Proposal to Combat Inexcusable Death toll at European Borders \#SafePassage
@@ -103,7 +103,7 @@ According to a report from AMNA news — Stratis Balaskas, on Lesvos this past S
 The Regional Asylum Office of Pireaus \(106 Navarhou Notara Street\) will be closed on 12/12/2018 because of a local holiday\.
 
 
-![](assets/1b5fe79007d/0*oi1nLA8dZkHxW4GW)
+![](../assets/1b5fe79007d/0*oi1nLA8dZkHxW4GW)
 
 
 **Volunteers Needed:**

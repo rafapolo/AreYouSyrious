@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,serbia,asylum-seekers,italy]
 description: Volunteers needed on multiple positions in Greece / BelgrAid volunteers needed / Arrests and relocations in Serbia / New boat rescues bring…
 image:
-  path: assets/e9a796c142b6/1*xpuyic8NdSM7qaefi1EoFg.jpeg
+  path: ../assets/e9a796c142b6/1*xpuyic8NdSM7qaefi1EoFg.jpeg
 ---
 
 ### AYS DAILY DIGEST 17\.04\.2017 — Possible relocations from Serbian Šid camp?
@@ -15,7 +15,7 @@ image:
 _Volunteers needed on multiple positions in Greece / BelgrAid volunteers needed / Arrests and relocations in Serbia / New boat rescues bring thousands to Italy / ERCI reports on relocation and resettlement_
 
 
-![Refugee window in Krnjača, Serbia, photo by Žarka Radoja](assets/e9a796c142b6/1*xpuyic8NdSM7qaefi1EoFg.jpeg)
+![Refugee window in Krnjača, Serbia, photo by Žarka Radoja](../assets/e9a796c142b6/1*xpuyic8NdSM7qaefi1EoFg.jpeg)
 
 Refugee window in Krnjača, Serbia, photo by Žarka Radoja
 
@@ -108,7 +108,7 @@ InterVolve will be hosting the Softex Olympics tomorrow\.
 
 
 
-![](assets/e9a796c142b6/1*rluWyG80eR7YINcKtFqBUQ.jpeg)
+![](../assets/e9a796c142b6/1*rluWyG80eR7YINcKtFqBUQ.jpeg)
 
 #### Truck Shop looking for interns
 
@@ -172,11 +172,11 @@ After a long time, new people were placed in camp Gevgelija\. Five people from S
 The new centre with an industrial kitchen and distribution center is looking for cooks, drivers and team leaders\. Experience is helpful but not necessary\. Accommodation is available to volunteers who are staying one month or longer\. Numerous volunteers are needed starting from April 19th, but as this is a long\-term project you can start whenever you’d like\. For more information please email Miranda at volunteer@belgraid\.org
 
 
-![](assets/e9a796c142b6/1*DL0ef65OC2MJi0Ld7knHcA.jpeg)
+![](../assets/e9a796c142b6/1*DL0ef65OC2MJi0Ld7knHcA.jpeg)
 
 
 
-![“In the NoNameKitchen we open the mouth not only to eat … In this kitchen we also speak, shout, denounce\! The NNK feels we may report on the political and social situation of migrants in Belgrade and around the world, to denounce the responsibles for this problem, and to make visible the violations of human rights suffered by migrants\. We believe that in order to change the situation, we have to be critical and offer you all the information we have the privilege to know\. We want to be aware of what is happening in the world\. We are hunger for change\. We are hunger for peace\. We leave you some photos of the international demonstration in which we participated yesterday, in the border of Hungary with Serbia, denouncing the closing of the borders, the torture and police violence\.” — No Name Kitchen](assets/e9a796c142b6/1*rTwl_PWWUvGC0u5wNNKnHg.jpeg)
+![“In the NoNameKitchen we open the mouth not only to eat … In this kitchen we also speak, shout, denounce\! The NNK feels we may report on the political and social situation of migrants in Belgrade and around the world, to denounce the responsibles for this problem, and to make visible the violations of human rights suffered by migrants\. We believe that in order to change the situation, we have to be critical and offer you all the information we have the privilege to know\. We want to be aware of what is happening in the world\. We are hunger for change\. We are hunger for peace\. We leave you some photos of the international demonstration in which we participated yesterday, in the border of Hungary with Serbia, denouncing the closing of the borders, the torture and police violence\.” — No Name Kitchen](../assets/e9a796c142b6/1*rTwl_PWWUvGC0u5wNNKnHg.jpeg)
 
 “In the NoNameKitchen we open the mouth not only to eat … In this kitchen we also speak, shout, denounce\! The NNK feels we may report on the political and social situation of migrants in Belgrade and around the world, to denounce the responsibles for this problem, and to make visible the violations of human rights suffered by migrants\. We believe that in order to change the situation, we have to be critical and offer you all the information we have the privilege to know\. We want to be aware of what is happening in the world\. We are hunger for change\. We are hunger for peace\. We leave you some photos of the international demonstration in which we participated yesterday, in the border of Hungary with Serbia, denouncing the closing of the borders, the torture and police violence\.” — No Name Kitchen
 #### ITALY
@@ -205,11 +205,11 @@ Baobab Experience write about a meet up with Cédric Herrou and the French activ
 
 
 
-![](assets/e9a796c142b6/1*UUn0LqKI7-PV0Uow-WPV9Q.jpeg)
+![](../assets/e9a796c142b6/1*UUn0LqKI7-PV0Uow-WPV9Q.jpeg)
 
 
 
-![photos from [Baobab Experience](https://www.facebook.com/BaobabExperience/)](assets/e9a796c142b6/1*16nHrz0qv_pIPurXtLbdbg.jpeg)
+![photos from [Baobab Experience](https://www.facebook.com/BaobabExperience/)](../assets/e9a796c142b6/1*16nHrz0qv_pIPurXtLbdbg.jpeg)
 
 photos from [Baobab Experience](https://www.facebook.com/BaobabExperience/)
 #### UK
@@ -238,7 +238,7 @@ Green and Labour councillors in Brighton and Hove are calling on the Government 
 
 
 
-![16,3 K persons relocated & 15\.5K resettled by EU States \(ERCI\)](assets/e9a796c142b6/1*EWXUvPuAPinRheMEL3scPQ.jpeg)
+![16,3 K persons relocated & 15\.5K resettled by EU States \(ERCI\)](../assets/e9a796c142b6/1*EWXUvPuAPinRheMEL3scPQ.jpeg)
 
 16,3 K persons relocated & 15\.5K resettled by EU States \(ERCI\)
 

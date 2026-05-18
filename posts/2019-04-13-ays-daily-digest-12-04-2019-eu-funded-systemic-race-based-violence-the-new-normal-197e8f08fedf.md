@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 12/04/2019: EU Funded-Systemic-Race-Based Violence — The New Normal
+title: "AYS Daily Digest 12/04/2019: EU Funded-Systemic-Race-Based Violence — The New Normal"
 author: Are You Syrious?
 date: 2019-04-13T22:54:28.465+0100
 last_modified_at: 2019-04-13T22:54:28.465+0100

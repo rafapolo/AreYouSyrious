@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 11/03/2022: Frontex fraud investigation findings are censored
+title: "AYS News Digest 11/03/2022: Frontex fraud investigation findings are censored"
 author: Are You Syrious?
 date: 2022-03-12T15:38:52.961+0000
 last_modified_at: 2022-03-12T19:04:24.489+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,frontex,refugees,libya,ukraine]
 description: Death of young man in Tripoli // Safe Port needed for 111 people on GeoBarents // Oligarchs yachts for Sea Rescue // Children locked out…
 image:
-  path: assets/6bab0f12c672/1*uKw7d9FtTFG1xlpOjcJrBQ.jpeg
+  path: ../assets/6bab0f12c672/1*uKw7d9FtTFG1xlpOjcJrBQ.jpeg
 ---
 
 ### AYS News Digest 11/03/2022: Frontex expansion continues unchecked while fraud investigation findings are censored
@@ -15,7 +15,7 @@ image:
 _Death of young man in Tripoli // Safe Port needed for 111 people on GeoBarents // Oligarchs yachts for Sea Rescue // Children locked out of Church in Cyprus // Greece in numbers // Racism persists at Danish border // The continued deterioration of asylum in the UK, if you live long enough to claim it, and much more…_
 
 
-![\(Photo Credit: [Open Arms](https://twitter.com/openarms_fund/status/1502358600911663104/photo/2) \)](assets/6bab0f12c672/1*uKw7d9FtTFG1xlpOjcJrBQ.jpeg)
+![\(Photo Credit: [Open Arms](https://twitter.com/openarms_fund/status/1502358600911663104/photo/2) \)](../assets/6bab0f12c672/1*uKw7d9FtTFG1xlpOjcJrBQ.jpeg)
 
 \(Photo Credit: [Open Arms](https://twitter.com/openarms_fund/status/1502358600911663104/photo/2) \)
 #### FEATURE: Frontex expansion continues unchecked while fraud investigation findings are censored
@@ -189,7 +189,7 @@ UK
 [19 people died](https://thecivilfleet.wordpress.com/2022/03/11/19-people-died-in-home-office-asylum-seeker-accommodation-in-2021/?fbclid=IwAR3JWOhxJdiD3XmeBhRTpNMRu0Il9cNzmNLdiu6osTgisL3ffhXubkaxWbM) in asylum seeker accommodation in 2021\.
 
 
-![\(Photo Credit: [The Civil Fleet](https://thecivilfleet.wordpress.com/2022/03/11/19-people-died-in-home-office-asylum-seeker-accommodation-in-2021/?fbclid=IwAR3JWOhxJdiD3XmeBhRTpNMRu0Il9cNzmNLdiu6osTgisL3ffhXubkaxWbM) \)](assets/6bab0f12c672/0*8m6Jid8HjD70-GdC)
+![\(Photo Credit: [The Civil Fleet](https://thecivilfleet.wordpress.com/2022/03/11/19-people-died-in-home-office-asylum-seeker-accommodation-in-2021/?fbclid=IwAR3JWOhxJdiD3XmeBhRTpNMRu0Il9cNzmNLdiu6osTgisL3ffhXubkaxWbM) \)](../assets/6bab0f12c672/0*8m6Jid8HjD70-GdC)
 
 \(Photo Credit: [The Civil Fleet](https://thecivilfleet.wordpress.com/2022/03/11/19-people-died-in-home-office-asylum-seeker-accommodation-in-2021/?fbclid=IwAR3JWOhxJdiD3XmeBhRTpNMRu0Il9cNzmNLdiu6osTgisL3ffhXubkaxWbM) \)
 

@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 17/09/22: Murder in the Aegean
+title: "AYS News Digest 17/09/22: Murder in the Aegean"
 author: Are You Syrious?
 date: 2022-09-17T23:07:15.770+0100
 last_modified_at: 2022-09-18T13:37:28.497+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,european-union,greece,borders]
 description: Murder in the Aegean // Sea-Watch 3 finally granted POS // Residency permit advice in Greece from Mobile Info Team // EU commission to fund…
 image:
-  path: assets/b74caf71c797/0*TgVau2TS8uj3HqJy
+  path: ../assets/b74caf71c797/0*TgVau2TS8uj3HqJy
 ---
 
 ### AYS News Digest 17/09/22: Murder in the Aegean
@@ -15,7 +15,7 @@ image:
 Murder in the Aegean // Sea\-Watch 3 finally granted POS // Residency permit advice in Greece from Mobile Info Team // EU commission to fund Egypt’s Coast Guard €80 million // A report on the Melilla massacre // Border fence under construction in Latvia & Frontex stonewalls FOI requests…
 
 
-![The survivors of a pushback north of Rhodes, their life raft on the verge of sinking\. Source: Aegean Boat Report](assets/b74caf71c797/0*TgVau2TS8uj3HqJy)
+![The survivors of a pushback north of Rhodes, their life raft on the verge of sinking\. Source: Aegean Boat Report](../assets/b74caf71c797/0*TgVau2TS8uj3HqJy)
 
 The survivors of a pushback north of Rhodes, their life raft on the verge of sinking\. Source: Aegean Boat Report
 #### FEATURE
@@ -47,7 +47,7 @@ Notis Mitarachi, Greek Minister of Migration and Asylum, continues to try and un
 [Aegean Boat Report has pointed out that the life rafts used in this particular violation](https://twitter.com/ABoatReport/status/1569787463006146560) , as well as in 850 other documented pushbacks, are manufactured by the Greek company Lalizas\. Years of documentation and investigations have proven Greece’s culpability for pushbacks, yet the authorities continue to lie through their teeth, and the rest of Europe looks away as “the shield of Europe” continues to violate international maritime law and human rights\.
 
 
-![An infant is rescued from a life raft made by a Greek company\. \. \. Source: ABR](assets/b74caf71c797/0*lTGIfGwuRcV1_XSa.png)
+![An infant is rescued from a life raft made by a Greek company\. \. \. Source: ABR](../assets/b74caf71c797/0*lTGIfGwuRcV1_XSa.png)
 
 An infant is rescued from a life raft made by a Greek company\. \. \. Source: ABR
 
@@ -60,7 +60,7 @@ _“Always apply to renew your residence permit at least 30 days before it expir
 They advise that people apply to renew their residence permits **three months before its expiry date** , as shown circled in red below:
 
 
-![](assets/b74caf71c797/0*Y8CNkSr3mTIonFD_)
+![](../assets/b74caf71c797/0*Y8CNkSr3mTIonFD_)
 
 
 Also important to know:
@@ -116,7 +116,7 @@ Fri:
 #### The European Commission is set to fund the Egyptian coast guard to the tune of €80 million
 
 
-![Photo by [Colin Lloyd](https://unsplash.com/@onthesearchforpineapples?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](assets/b74caf71c797/0*agvSaowRkpmz_koL)
+![Photo by [Colin Lloyd](https://unsplash.com/@onthesearchforpineapples?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](../assets/b74caf71c797/0*agvSaowRkpmz_koL)
 
 Photo by [Colin Lloyd](https://unsplash.com/@onthesearchforpineapples?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 

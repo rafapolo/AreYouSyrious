@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 14/06/21: Trial against ‘Moria Six’ not up to legal standards
+title: "AYS Daily Digest 14/06/21: Trial against ‘Moria Six’ not up to legal standards"
 author: Are You Syrious?
 date: 2021-06-15T16:30:24.662+0100
 last_modified_at: 2021-06-15T22:44:53.743+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [greece,refugees,immigration,austria,digest]
 description: Watch out for Austria externalizing borders // conviction of smuggler in Libya // updates in Serbia and France // lots of government…
 image:
-  path: assets/7c0f4f67b8af/0*pcVNrYi5nLSbVNsZ.jpg
+  path: ../assets/7c0f4f67b8af/0*pcVNrYi5nLSbVNsZ.jpg
 ---
 
 ### AYS Daily Digest 14/06/21: Trial against ‘Moria Six’ not up to legal standards
 #### _Watch out for Austria externalizing borders // conviction of smuggler in Libya // updates in Serbia and France // lots of government problems in the UK // and more…_
 
 
-![Photo by Freedom for the Moria 6 who said in a press release 13/06/21 “Yesterday’s verdict came as no surprise to international trial observers who criticized the lack of evidence and spoke of an unfair trial procedure\. Only 15 people were allowed in the courtroom\. The public, including journalists, a delegation of international observers, and a representative of the UNHCR, was prevented from observing proceedings\. At least six police officers were in the room — a disproportionate number that was not necessary to secure the court\. A strong crowd of people showed their support for the defendants in the front of the court building\.” More [here](https://freethemoria6.noblogs.org/) \.](assets/7c0f4f67b8af/0*pcVNrYi5nLSbVNsZ.jpg)
+![Photo by Freedom for the Moria 6 who said in a press release 13/06/21 “Yesterday’s verdict came as no surprise to international trial observers who criticized the lack of evidence and spoke of an unfair trial procedure\. Only 15 people were allowed in the courtroom\. The public, including journalists, a delegation of international observers, and a representative of the UNHCR, was prevented from observing proceedings\. At least six police officers were in the room — a disproportionate number that was not necessary to secure the court\. A strong crowd of people showed their support for the defendants in the front of the court building\.” More [here](https://freethemoria6.noblogs.org/) \.](../assets/7c0f4f67b8af/0*pcVNrYi5nLSbVNsZ.jpg)
 
 Photo by Freedom for the Moria 6 who said in a press release 13/06/21 “Yesterday’s verdict came as no surprise to international trial observers who criticized the lack of evidence and spoke of an unfair trial procedure\. Only 15 people were allowed in the courtroom\. The public, including journalists, a delegation of international observers, and a representative of the UNHCR, was prevented from observing proceedings\. At least six police officers were in the room — a disproportionate number that was not necessary to secure the court\. A strong crowd of people showed their support for the defendants in the front of the court building\.” More [here](https://freethemoria6.noblogs.org/) \.
 ### FEATURE: “Lawyers and activists slam Greek court’s proceedings and decision to sentence four teenage Afghan refugees to 10\-years in an adult jail”
@@ -81,7 +81,7 @@ Credit: Seabird/Sea-Watch https://t.co/sViVeluTZp
 
 
 
-![Photo by [IOM](https://www.facebook.com/IOMLibya/photos/a.596682760492685/2024392947721652/)](assets/7c0f4f67b8af/0*yJGKDr5jrVdjPKW8)
+![Photo by [IOM](https://www.facebook.com/IOMLibya/photos/a.596682760492685/2024392947721652/)](../assets/7c0f4f67b8af/0*yJGKDr5jrVdjPKW8)
 
 Photo by [IOM](https://www.facebook.com/IOMLibya/photos/a.596682760492685/2024392947721652/)
 #### GREECE
@@ -135,7 +135,7 @@ Also, since March 2020, Turkey refuses to accept returns of asylum-seekers under
 
 
 
-![Photo by [Velos Youth](https://www.facebook.com/velosyouthathens/posts/2656077604689859)](assets/7c0f4f67b8af/0*CIAMUZ5VtwM6QbLw)
+![Photo by [Velos Youth](https://www.facebook.com/velosyouthathens/posts/2656077604689859)](../assets/7c0f4f67b8af/0*CIAMUZ5VtwM6QbLw)
 
 Photo by [Velos Youth](https://www.facebook.com/velosyouthathens/posts/2656077604689859)
 #### SERBIA
@@ -144,7 +144,7 @@ Photo by [Velos Youth](https://www.facebook.com/velosyouthathens/posts/265607760
 ![“News from Šid:
 Here the situation seems to be getting worse week after week, despite the strength and the resistance of the people on the move we meet are extremely impressive\. The people on the move keep stuck here\. There are no safe ways to move on in order to ask for asylum\. They Tell It is very difficult crossing any border\. Also It is complicarse for them to move inside the country\. 
 Some of the people who are here in Serbia since weeks or months, after being repeatedly pushed\-back by the Croatian border forces, as they explain, they are telling how they are looking to try to seek path and try to reach a place where to apply for asylum by different ways\. Serbia is not really an option to stay: if you look the data, very few asylum protections are give every year\. The EU does not offer a way to people so they can migrate safely\. And around Serbia people on the move find very hostiles borders\.
-The border with Bosnia, where the way leads through the Drina river, which has become famous for the death of dozens of people who tried to cross it swimming or with barely floating dinghies\. In the east and north of Serbia there are the borders with Romania and Hungary\. In this last country a metal fence stands along all the border with Serbia\. It has been erected in 2015 when Victor Orban, the PM of the Hungarian government, claimed that the EU is not doing enough to solve the “migration crisis” and stop the ‘influx of illegal migrants\.’” Read Update by No Name Kitchen in full [here\.](https://www.facebook.com/NoNameKitchenBelgrade/posts/1257407821324166) Photo by Erica Castiglione](assets/7c0f4f67b8af/0*L5MzuRyJheN8kTJc)
+The border with Bosnia, where the way leads through the Drina river, which has become famous for the death of dozens of people who tried to cross it swimming or with barely floating dinghies\. In the east and north of Serbia there are the borders with Romania and Hungary\. In this last country a metal fence stands along all the border with Serbia\. It has been erected in 2015 when Victor Orban, the PM of the Hungarian government, claimed that the EU is not doing enough to solve the “migration crisis” and stop the ‘influx of illegal migrants\.’” Read Update by No Name Kitchen in full [here\.](https://www.facebook.com/NoNameKitchenBelgrade/posts/1257407821324166) Photo by Erica Castiglione](../assets/7c0f4f67b8af/0*L5MzuRyJheN8kTJc)
 
 “News from Šid:
 Here the situation seems to be getting worse week after week, despite the strength and the resistance of the people on the move we meet are extremely impressive\. The people on the move keep stuck here\. There are no safe ways to move on in order to ask for asylum\. They Tell It is very difficult crossing any border\. Also It is complicarse for them to move inside the country\. 
@@ -181,7 +181,7 @@ Naceur continues _“ **ICMPD’s expansion substantially accelerates since its 
 4 pm: Around 4 people call us following a wreck\. They had to swim the coast\. They need dry clothes, blankets and emergency food\.
 4: An exiled person sends us his location, in the middle of the Channel, somewhere between France and England\. Her phone is cutting off\. Utopia 56 team is asking for coastguards, but they won’t find any boat… Since then, no more news\.
 \*
-Tonight, like every night on the northern coast of France, hundreds of people tried their luck to flee France and join England\. Sadly some find themselves in distress while crossing\. Utopia 56 Grande\-Synthe teams are present every night to provide emergency assistance\.” Photo and Info by [Utopia 56 Grande\-Synthe](https://www.facebook.com/utopia56grandesynthe/posts/333136725066213)](assets/7c0f4f67b8af/0*x9Udsme_EVxVQjg_)
+Tonight, like every night on the northern coast of France, hundreds of people tried their luck to flee France and join England\. Sadly some find themselves in distress while crossing\. Utopia 56 Grande\-Synthe teams are present every night to provide emergency assistance\.” Photo and Info by [Utopia 56 Grande\-Synthe](https://www.facebook.com/utopia56grandesynthe/posts/333136725066213)](../assets/7c0f4f67b8af/0*x9Udsme_EVxVQjg_)
 
 “Night from June 13th to 14th,
 23 pm: Two exiled people, one being minor, call us Gravelines as they are lost after jumping out of a truck that was heading the wrong direction\. After 7 hours of walking and a night without sleeping or eating, they can’t move on\. They are asking for our help\.
@@ -266,7 +266,7 @@ Huck mag reports: “A Home Office error over a new card changeover has left tho
 [Read in full here\.](https://www.huckmag.com/art-and-culture/the-asylum-seekers-left-to-go-hungry-after-cash-card-delays/?fbclid=IwAR1TA-mOwU_3GSsoCHYL6KDOJoq2mOG0tAw7x8dwxpa3ZoD2hD_s907PeAo)
 
 
-![“The Cheshire, Halton & Warrington Race & Equality Centre \(CHAWREC\) hold a weekly drop\-in session where they provide, English classes, food, clothing, support and advice for asylum seekers and refugees in the area\. They are in ‘desperate need of funds’ to continue their work\.” Please learn how you can help here\! Photo by [CHAWREC](https://www.cheshire-live.co.uk/news/chester-cheshire-news/group-supports-asylum-seekers-cheshire-20783772?fbclid=IwAR0R0yw7iuijo8AW7XECOQX7AScpBSeIDXDLHNZsCAeYHs8BiMOK03Ypew4)](assets/7c0f4f67b8af/0*FTvYjXFLBzq8hlLv.jpg)
+![“The Cheshire, Halton & Warrington Race & Equality Centre \(CHAWREC\) hold a weekly drop\-in session where they provide, English classes, food, clothing, support and advice for asylum seekers and refugees in the area\. They are in ‘desperate need of funds’ to continue their work\.” Please learn how you can help here\! Photo by [CHAWREC](https://www.cheshire-live.co.uk/news/chester-cheshire-news/group-supports-asylum-seekers-cheshire-20783772?fbclid=IwAR0R0yw7iuijo8AW7XECOQX7AScpBSeIDXDLHNZsCAeYHs8BiMOK03Ypew4)](../assets/7c0f4f67b8af/0*FTvYjXFLBzq8hlLv.jpg)
 
 “The Cheshire, Halton & Warrington Race & Equality Centre \(CHAWREC\) hold a weekly drop\-in session where they provide, English classes, food, clothing, support and advice for asylum seekers and refugees in the area\. They are in ‘desperate need of funds’ to continue their work\.” Please learn how you can help here\! Photo by [CHAWREC](https://www.cheshire-live.co.uk/news/chester-cheshire-news/group-supports-asylum-seekers-cheshire-20783772?fbclid=IwAR0R0yw7iuijo8AW7XECOQX7AScpBSeIDXDLHNZsCAeYHs8BiMOK03Ypew4)
 ### What’s going to happen to unaccompanied minors arriving in Kent now?

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily News Digest 25/12/18: We bring no good tidings this year
+title: "AYS Daily News Digest 25/12/18: We bring no good tidings this year"
 author: Are You Syrious?
 date: 2018-12-26T11:05:31.370+0000
 last_modified_at: 2018-12-26T11:51:35.570+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,children,human-rights]
 description: Detained by both smugglers and officials; abuses of power and funds; evictions and confiscations of the few belongings people on the move…
 image:
-  path: assets/31728603bde0/1*oe7BbCaykdSrRJbBrWfGjw.jpeg
+  path: ../assets/31728603bde0/1*oe7BbCaykdSrRJbBrWfGjw.jpeg
 ---
 
 ### AYS Daily News Digest 25/12/18: We bring no good tidings this year
 #### Detained by both smugglers and officials; abuses of power and funds; evictions and confiscations of the few belongings people on the move have with them; lack of basic human of children’s rights — in short, this is the summary of this day, too\. Here’s news
 
 
-![Illustration by: Javi Royo](assets/31728603bde0/1*oe7BbCaykdSrRJbBrWfGjw.jpeg)
+![Illustration by: Javi Royo](../assets/31728603bde0/1*oe7BbCaykdSrRJbBrWfGjw.jpeg)
 
 Illustration by: Javi Royo
 #### FEATURE
@@ -39,7 +39,7 @@ According to [reports](https://ariananews.af/o-uuou-99/?lang=ps&fbclid=IwAR2GtYT
 For single Afghan men seeking refuge in Turkey has always been a challenge, but in recent months, it has become all but impossible\.
 
 
-[![Afghan refugees are heading to Turkey on foot](assets/31728603bde0/4d2e_hqdefault.jpg "Afghan refugees are heading to Turkey on foot")](http://www.youtube.com/watch?v=s9AGeN7UzkU)
+[![Afghan refugees are heading to Turkey on foot](../assets/31728603bde0/4d2e_hqdefault.jpg "Afghan refugees are heading to Turkey on foot")](http://www.youtube.com/watch?v=s9AGeN7UzkU)
 
 
 Dozens of Afghan men and boys describe how the Turkish authorities now refuse to register them as asylum seekers\. Nor will the authorities issue them a kimlik — the Turkish identity card that gives refugees access to healthcare, education and work permits\. Read more [here](http://souciant.com/2018/12/turkey-must-not-ignore-non-syrian-refugees/?fbclid=IwAR1mkbE33jYKcVdz5pxCXcZRZx-SdtTsETqP5YnPxSH_-dLw0K85ZUrc4ic) \.
@@ -115,19 +115,19 @@ Local authorities in Una Sana Canton are increasing their pressure on Internatio
 ### Sights from Velika Kladuša factory turned camp
 
 
-![](assets/31728603bde0/1*OV0aclWol4G3DH5yReSyrA.jpeg)
+![](../assets/31728603bde0/1*OV0aclWol4G3DH5yReSyrA.jpeg)
 
 
 
-![](assets/31728603bde0/1*_7pYk7rPnM6G1N15w8LwzQ.jpeg)
+![](../assets/31728603bde0/1*_7pYk7rPnM6G1N15w8LwzQ.jpeg)
 
 
 
-![](assets/31728603bde0/1*834IPeM8tLWCh0nUfH881A.jpeg)
+![](../assets/31728603bde0/1*834IPeM8tLWCh0nUfH881A.jpeg)
 
 
 
-![Photos: [Zarka Radoja](https://www.facebook.com/zarka.radoja?__tn__=%2CdlCH-R-R&eid=ARC3MV1WVq4oIKn0NIHBwBJu9YG9_njYOZcaz8q4pBHikfab18DKu9UzFolobo0xS6Oc23BPTGvJInTG&hc_ref=ARSkb-nquY_aoHpD8qxTAcbtoMXxyF5nFB5eIpiNSKZ4HXObTUYOeY8hZ08t4sagemU&hc_location=group) , today, from the ex\-factory falicities of [Miral](https://www.facebook.com/miralpvc/?ref=stream)](assets/31728603bde0/1*91Jp3v4-pKbxw5ze_L_gAQ.jpeg)
+![Photos: [Zarka Radoja](https://www.facebook.com/zarka.radoja?__tn__=%2CdlCH-R-R&eid=ARC3MV1WVq4oIKn0NIHBwBJu9YG9_njYOZcaz8q4pBHikfab18DKu9UzFolobo0xS6Oc23BPTGvJInTG&hc_ref=ARSkb-nquY_aoHpD8qxTAcbtoMXxyF5nFB5eIpiNSKZ4HXObTUYOeY8hZ08t4sagemU&hc_location=group) , today, from the ex\-factory falicities of [Miral](https://www.facebook.com/miralpvc/?ref=stream)](../assets/31728603bde0/1*91Jp3v4-pKbxw5ze_L_gAQ.jpeg)
 
 Photos: [Zarka Radoja](https://www.facebook.com/zarka.radoja?__tn__=%2CdlCH-R-R&eid=ARC3MV1WVq4oIKn0NIHBwBJu9YG9_njYOZcaz8q4pBHikfab18DKu9UzFolobo0xS6Oc23BPTGvJInTG&hc_ref=ARSkb-nquY_aoHpD8qxTAcbtoMXxyF5nFB5eIpiNSKZ4HXObTUYOeY8hZ08t4sagemU&hc_location=group) , today, from the ex\-factory falicities of [Miral](https://www.facebook.com/miralpvc/?ref=stream)
 #### FRANCE
@@ -140,7 +140,7 @@ Volunteers documented eviction and confiscation of people’s belongings in the 
 Tents, sleeping bags, blankets and wood for fire was taken away from the people who find themselves in the Calais area, stressing dramatic difference in treatment of people across Europe\.
 
 
-![Photo: [Utopia56 Calais & Grand Littoral](https://www.facebook.com/Utopia56-Calais-Grand-Littoral-258099198180444/?tn-str=k%2AF&hc_location=group_dialog)](assets/31728603bde0/1*wENwNCQ6i1m6PgxE0GrQ0Q.jpeg)
+![Photo: [Utopia56 Calais & Grand Littoral](https://www.facebook.com/Utopia56-Calais-Grand-Littoral-258099198180444/?tn-str=k%2AF&hc_location=group_dialog)](../assets/31728603bde0/1*wENwNCQ6i1m6PgxE0GrQ0Q.jpeg)
 
 Photo: [Utopia56 Calais & Grand Littoral](https://www.facebook.com/Utopia56-Calais-Grand-Littoral-258099198180444/?tn-str=k%2AF&hc_location=group_dialog)
 
@@ -157,13 +157,13 @@ Photo: [Utopia56 Calais & Grand Littoral](https://www.facebook.com/Utopia56-Cala
 
 
 
-![](assets/31728603bde0/1*wD8wpbflygqM7YeraJlVzA.jpeg)
+![](../assets/31728603bde0/1*wD8wpbflygqM7YeraJlVzA.jpeg)
 
 
 
 ![“The Christmas trees in Paris are decked with people’s belongings\. 
 To keep the public from not seeing the extent of the refugee crisis, the refugee camps are allowed to form at night\. 
-Every morning the police come to the camps and make all the people pack their tents, blankets, sleeping bags, and personal belongings away\. As the 300 odd people in this camp have nowhere safe to put their stuff, they put it out of harms way in the trees\.” — [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/?__tn__=%2CdkCH-R-R&eid=ARCcDhJpvFLZObnJsUsOHNQhU-C44PO0jdGcC4ZP4nB1RbMmymQdE8d0PtBYrzxsTquChTqK6PDMi87u&hc_ref=ARTyjHfzVratWUNUR7oeySbMnnONHceBpehmLdUB46Xdx9CmlCoVqUGQ_OludKgpGeE&fref=nf)](assets/31728603bde0/1*eYv58KtDrf04_6IamYtcWA.jpeg)
+Every morning the police come to the camps and make all the people pack their tents, blankets, sleeping bags, and personal belongings away\. As the 300 odd people in this camp have nowhere safe to put their stuff, they put it out of harms way in the trees\.” — [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/?__tn__=%2CdkCH-R-R&eid=ARCcDhJpvFLZObnJsUsOHNQhU-C44PO0jdGcC4ZP4nB1RbMmymQdE8d0PtBYrzxsTquChTqK6PDMi87u&hc_ref=ARTyjHfzVratWUNUR7oeySbMnnONHceBpehmLdUB46Xdx9CmlCoVqUGQ_OludKgpGeE&fref=nf)](../assets/31728603bde0/1*eYv58KtDrf04_6IamYtcWA.jpeg)
 
 “The Christmas trees in Paris are decked with people’s belongings\. 
 To keep the public from not seeing the extent of the refugee crisis, the refugee camps are allowed to form at night\. 

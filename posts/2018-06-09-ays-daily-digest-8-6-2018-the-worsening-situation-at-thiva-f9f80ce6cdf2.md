@@ -1,20 +1,20 @@
 ---
-title: AYS DAILY DIGEST 8/6/2018: The worsening situation at Thiva
+title: "AYS DAILY DIGEST 8/6/2018: The worsening situation at Thiva"
 author: Are You Syrious?
 date: 2018-06-09T10:25:20.823+0100
 last_modified_at: 2018-06-09T12:49:31.126+0100
 categories: Are You Syrious?
 tags: [refugees,thiva,greece,mediterranean,bosnia]
-description: Once one of the nicer camps, it turned into a nightmare last week, AYS source says / Report: Turkey carries out increased security…
+description: "Once one of the nicer camps, it turned into a nightmare last week, AYS source says / Report: Turkey carries out increased security…"
 image:
-  path: assets/f9f80ce6cdf2/1*8CB_YdoQzGkO5WVuC5AuZg.jpeg
+  path: ../assets/f9f80ce6cdf2/1*8CB_YdoQzGkO5WVuC5AuZg.jpeg
 ---
 
 ### AYS DAILY DIGEST 8/6/2018: The worsening situation at Thiva
 #### Once one of the nicer camps, it turned into a nightmare last week, AYS source says / Report: Turkey carries out increased security operations / People in Sarajevo are not allowed to sit in parks / Tough day in the central Mediterranean / UK conces to Dub’s scheme
 
 
-![View on the Thiva camp\. Credits: [Dimitra Kyranoudi](https://twitter.com/KyranoudiD/status/933815923152211970)](assets/f9f80ce6cdf2/1*8CB_YdoQzGkO5WVuC5AuZg.jpeg)
+![View on the Thiva camp\. Credits: [Dimitra Kyranoudi](https://twitter.com/KyranoudiD/status/933815923152211970)](../assets/f9f80ce6cdf2/1*8CB_YdoQzGkO5WVuC5AuZg.jpeg)
 
 View on the Thiva camp\. Credits: [Dimitra Kyranoudi](https://twitter.com/KyranoudiD/status/933815923152211970)
 ### Feature: The abandoned camp of Thiva
@@ -90,7 +90,7 @@ The Kurdish people who are currently living at Pikpa on Lesvos have released a s
 With the increasing number of people who are again arriving in Greece by sea and especially by land, the camps in Northern Greece remain fully stretched\. In Diavata camp, once again camping tents were set up\. “It’s as if we have a smaller Idomeni camp\. Unregistered people waiting and waiting without support or a cash card, trying to call Skype to register: no answer\! Poor food supplied by officials\. No electricity and no lights”, [Refugee Biriyani & Bananas](https://www.facebook.com/RefugeeBiriyaniAndBananas/?hc_ref=ARTqcUfikpyUjfoZA5uhjEIsXD59qX7j4Bob37LQeGXk9Ps5QZrSGBrfX9V55FUz0lM&fref=nf) explains the situation in Diavata\. To support their work on the ground, check the [fundraiser](https://mydonate.bt.com/fundraisers/humanitariancrisisgreece) \.
 
 
-![Impressions from Diavata\. Credits: [Refugee Biriyani & Bananas](https://www.facebook.com/RefugeeBiriyaniAndBananas/)](assets/f9f80ce6cdf2/1*cpL9V-xCUHKmo0vKO2AJkQ.jpeg)
+![Impressions from Diavata\. Credits: [Refugee Biriyani & Bananas](https://www.facebook.com/RefugeeBiriyaniAndBananas/)](../assets/f9f80ce6cdf2/1*cpL9V-xCUHKmo0vKO2AJkQ.jpeg)
 
 Impressions from Diavata\. Credits: [Refugee Biriyani & Bananas](https://www.facebook.com/RefugeeBiriyaniAndBananas/)
 
@@ -134,7 +134,7 @@ Meanwhile, the European Comission has [announced](http://europa.eu/rapid/press-r
 People from various Bavarian cities gathered in Regensburg today to protest against deportations and racism\.
 
 
-![The demonstration in Regensburg\. Credits: [Refugee struggle for freedom](https://www.facebook.com/refugeestruggle/?hc_ref=ARRRB616LTOvizurba1uAkJZDiOneeH5aLxFqXkNzGBFJK47LMEHLPWK8eQDrlk9wjA&fref=nf)](assets/f9f80ce6cdf2/1*m07SiKKy0xEhfGIhys18Kg.jpeg)
+![The demonstration in Regensburg\. Credits: [Refugee struggle for freedom](https://www.facebook.com/refugeestruggle/?hc_ref=ARRRB616LTOvizurba1uAkJZDiOneeH5aLxFqXkNzGBFJK47LMEHLPWK8eQDrlk9wjA&fref=nf)](../assets/f9f80ce6cdf2/1*m07SiKKy0xEhfGIhys18Kg.jpeg)
 
 The demonstration in Regensburg\. Credits: [Refugee struggle for freedom](https://www.facebook.com/refugeestruggle/?hc_ref=ARRRB616LTOvizurba1uAkJZDiOneeH5aLxFqXkNzGBFJK47LMEHLPWK8eQDrlk9wjA&fref=nf)
 

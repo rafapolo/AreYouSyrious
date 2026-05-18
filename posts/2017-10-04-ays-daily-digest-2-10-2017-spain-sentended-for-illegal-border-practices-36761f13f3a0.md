@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 3/10/2017: Spain sentenced for illegal border practices
+title: "AYS DAILY DIGEST 3/10/2017: Spain sentenced for illegal border practices"
 author: Are You Syrious?
 date: 2017-10-04T00:26:40.358+0100
 last_modified_at: 2017-10-04T07:56:29.219+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,echr,spain,greece,lesvos]
 description: European Court of Human Rights judges immediate pushbacks as unlawful / Situation in Greek hotspots remains desperate / Arbitrary detention…
 image:
-  path: assets/36761f13f3a0/1*80cqxNOMwVXNeTRDSErTAw.jpeg
+  path: ../assets/36761f13f3a0/1*80cqxNOMwVXNeTRDSErTAw.jpeg
 ---
 
 ### AYS DAILY DIGEST 3/10/2017: Spain sentenced for illegal border practices
@@ -15,7 +15,7 @@ image:
 European Court of Human Rights judges immediate pushbacks as unlawful / Situation in Greek hotspots remains desperate / Arbitrary detention on Greek islands / More than 15,000 deaths in the Mediterranean since the Lampedua shipwreck in 2013 / French volunteers need support / AYS needs your help\!
 
 
-![“Refugees Welcome”\. Credits: Flickr/ [Johan Barbarà](https://www.flickr.com/photos/jbarbara/) \(CC BY\-SA 2\.0\)](assets/36761f13f3a0/1*80cqxNOMwVXNeTRDSErTAw.jpeg)
+![“Refugees Welcome”\. Credits: Flickr/ [Johan Barbarà](https://www.flickr.com/photos/jbarbara/) \(CC BY\-SA 2\.0\)](../assets/36761f13f3a0/1*80cqxNOMwVXNeTRDSErTAw.jpeg)
 
 “Refugees Welcome”\. Credits: Flickr/ [Johan Barbarà](https://www.flickr.com/photos/jbarbara/) \(CC BY\-SA 2\.0\)
 ### Feature: Push\-backs at the external EU\-borders are unlawful, the European Court of Human Rights rules
@@ -36,7 +36,7 @@ There are currently some 600 people stranded in Ceuta\. Recently, 55 people have
 Even though the Greek authorities have transferred hundreds of people from the islands to mainland over the past few weeks, the hotspots remain overcrowded\. Autumn is on its way and still people, even vulnerable ones, have to sleep rough in summer tents\. To give further support, Help Refugees is requesting more [funds](http://bit.ly/HelpRefugeesDonate) \.
 
 
-![Moria camp on Levos\. Credits: [Help Refugees](https://www.facebook.com/HelpRefugeesUK/photos/a.123267671367248.1073741830.111893659171316/497512567276088/?type=3&ifg=1)](assets/36761f13f3a0/1*auEgvsfc2CLHpDPSem1ZBg.jpeg)
+![Moria camp on Levos\. Credits: [Help Refugees](https://www.facebook.com/HelpRefugeesUK/photos/a.123267671367248.1073741830.111893659171316/497512567276088/?type=3&ifg=1)](../assets/36761f13f3a0/1*auEgvsfc2CLHpDPSem1ZBg.jpeg)
 
 Moria camp on Levos\. Credits: [Help Refugees](https://www.facebook.com/HelpRefugeesUK/photos/a.123267671367248.1073741830.111893659171316/497512567276088/?type=3&ifg=1)
 
@@ -47,7 +47,7 @@ There are more than 13,500 people stranded on the islands, while the official ca
 
 
 
-![New registrations on Lesvos, Chios and Samos in 2017\.](assets/36761f13f3a0/1*j5ejxBEkNUs_sDTqSKXDrQ.png)
+![New registrations on Lesvos, Chios and Samos in 2017\.](../assets/36761f13f3a0/1*j5ejxBEkNUs_sDTqSKXDrQ.png)
 
 New registrations on Lesvos, Chios and Samos in 2017\.
 
@@ -125,7 +125,7 @@ In Rome, Baobab is requesting 20 sleeping bags a week to support people sleeping
 The Refugee Community Kitchen has been obligated to meet restaurant standards if they want to continue their work\. They are serving more than 2,500 warm meals a day for people in Northern France and now want to build a new kitchen\. For that purpose they are raising funds and have also published a recipe in their [newsletter](http://mailchi.mp/6e9712521092/newslettershoutout-126837) \. They have distributed more than 1\.5 million meals since they were founded in 2015\.
 
 
-![RCK at work\. Credits: [Refugee Community Kitchen](https://www.facebook.com/refugeeCkitchen/?hc_ref=ARS0rBZD-izSCAlWE951Kszcib8vn4WQTcKzJIvyk4VAeqop-Qe0xSmP0RCDjSAoYB0)](assets/36761f13f3a0/1*ldfxPLpr756STq0EYWOnAw.jpeg)
+![RCK at work\. Credits: [Refugee Community Kitchen](https://www.facebook.com/refugeeCkitchen/?hc_ref=ARS0rBZD-izSCAlWE951Kszcib8vn4WQTcKzJIvyk4VAeqop-Qe0xSmP0RCDjSAoYB0)](../assets/36761f13f3a0/1*ldfxPLpr756STq0EYWOnAw.jpeg)
 
 RCK at work\. Credits: [Refugee Community Kitchen](https://www.facebook.com/refugeeCkitchen/?hc_ref=ARS0rBZD-izSCAlWE951Kszcib8vn4WQTcKzJIvyk4VAeqop-Qe0xSmP0RCDjSAoYB0)
 

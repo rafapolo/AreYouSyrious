@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,greece,lesvos]
 description: Bangladesh Moves Rohingya to Island//Frontex Chief Caught in a Lie//&More
 image:
-  path: assets/48c606171dee/0*-5_toP4HZ9Xacobj
+  path: ../assets/48c606171dee/0*-5_toP4HZ9Xacobj
 ---
 
 ### AYS Daily Digest 03/12/2020 — New Reception Center on Lesvos by September 2021
 #### Bangladesh Moves Rohingya People to Low\-lying Island//Frontex Chief Caught in a Lie//&More
 
 
-![Barbed wire in Moria 2\.0\. Image courtesy of [Katy Fallon](https://twitter.com/katymfallon/status/1334519132419727361?fbclid=IwAR0p72z0BfzN50LOCdBLH94HU2huJ6yQO5hyt4favOMaIDLbFnRDyBG6YE0)](assets/48c606171dee/0*-5_toP4HZ9Xacobj)
+![Barbed wire in Moria 2\.0\. Image courtesy of [Katy Fallon](https://twitter.com/katymfallon/status/1334519132419727361?fbclid=IwAR0p72z0BfzN50LOCdBLH94HU2huJ6yQO5hyt4favOMaIDLbFnRDyBG6YE0)](../assets/48c606171dee/0*-5_toP4HZ9Xacobj)
 
 Barbed wire in Moria 2\.0\. Image courtesy of [Katy Fallon](https://twitter.com/katymfallon/status/1334519132419727361?fbclid=IwAR0p72z0BfzN50LOCdBLH94HU2huJ6yQO5hyt4favOMaIDLbFnRDyBG6YE0)
 #### FEATURE

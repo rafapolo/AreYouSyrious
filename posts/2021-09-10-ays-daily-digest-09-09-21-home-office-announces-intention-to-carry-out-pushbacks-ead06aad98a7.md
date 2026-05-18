@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [refugees,migrants,digest,home-office,pushbacks]
 description: Are You Syrious?
 image:
-  path: assets/ead06aad98a7/0*0dvWSbcmnIiQ5AUC.jpeg
+  path: ../assets/ead06aad98a7/0*0dvWSbcmnIiQ5AUC.jpeg
 ---
 
 ### AYS Daily Digest 09/09/21 — Home Office Announces Intention To Carry Out Pushbacks
 
 
-![](assets/ead06aad98a7/0*jQITRrOASRa-w49a.jpeg)
+![](../assets/ead06aad98a7/0*jQITRrOASRa-w49a.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----6e6d28fa3091--------------------------------)
@@ -23,7 +23,7 @@ image:
 Who Is Really “Instrumentalizing” Migration?//Dramatic Rescue Off Lampedusa Coast//Briançon 7 Win Appeal
 
 
-![](assets/ead06aad98a7/0*0dvWSbcmnIiQ5AUC.jpeg)
+![](../assets/ead06aad98a7/0*0dvWSbcmnIiQ5AUC.jpeg)
 
 
 Remnants of the Moria fire, one year ago\. Photo credit: [Petros Giannakouris/AP Photos](https://apnews.com/article/europe-middle-east-fires-greece-migration-9eaae26f819998065aa68b56125352db?utm_campaign=SocialFlow&utm_medium=AP_Europe&utm_source=Twitter&fbclid=IwAR0kEiSMoc--lLcNpx9oFA8Vm4m3ulTOorDEPCdk29xes6hgwCEkZ_aBYDA)

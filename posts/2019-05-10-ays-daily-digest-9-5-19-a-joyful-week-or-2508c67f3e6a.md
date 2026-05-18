@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 9/5/19: A joyful week, or?
+title: "AYS Daily Digest 9/5/19: A joyful week, or?"
 author: Are You Syrious?
 date: 2019-05-10T09:25:50.883+0100
 last_modified_at: 2019-05-10T13:44:24.054+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,libya,syria,greece]
 description: Europe must do more to protect people / Fights in Libya and Syria intensify — hundred thousands of people at risk of being displaced / 100…
 image:
-  path: assets/2508c67f3e6a/1*oJYCPv0dKCviYWQtdEvV3g.jpeg
+  path: ../assets/2508c67f3e6a/1*oJYCPv0dKCviYWQtdEvV3g.jpeg
 ---
 
 ### AYS Daily Digest 9/5/19: A joyful week, or?
 #### Europe must do more to protect people / Fights in Libya and Syria intensify — hundred thousands of people at risk of being displaced / 100 people on Lesvos face up to two years in prison for protests / Support to Miguel Rolden in London
 
 
-![People at risk need to be evacuated\. Credits: [MSF Sea/Twitter](https://twitter.com/MSF_Sea/status/1123105758634229760)](assets/2508c67f3e6a/1*oJYCPv0dKCviYWQtdEvV3g.jpeg)
+![People at risk need to be evacuated\. Credits: [MSF Sea/Twitter](https://twitter.com/MSF_Sea/status/1123105758634229760)](../assets/2508c67f3e6a/1*oJYCPv0dKCviYWQtdEvV3g.jpeg)
 
 People at risk need to be evacuated\. Credits: [MSF Sea/Twitter](https://twitter.com/MSF_Sea/status/1123105758634229760)
 #### FEATURED STORY
@@ -100,7 +100,7 @@ Dom’Asile Association published tutorial videos which show how to ask for asyl
 A powerful scene where around 100 firefighters held a demonstration under the Italian embassy for Miguel Roldan, one of the Iuventa10, and against any criminalization of migrations and solidarity took place in London\.
 
 
-![Photo: [Iuventa10](https://www.facebook.com/iuventa10/?tn-str=k%2AF)](assets/2508c67f3e6a/1*iHZ8JWWzO0n_5fAHs6oc_g.jpeg)
+![Photo: [Iuventa10](https://www.facebook.com/iuventa10/?tn-str=k%2AF)](../assets/2508c67f3e6a/1*iHZ8JWWzO0n_5fAHs6oc_g.jpeg)
 
 Photo: [Iuventa10](https://www.facebook.com/iuventa10/?tn-str=k%2AF)
 

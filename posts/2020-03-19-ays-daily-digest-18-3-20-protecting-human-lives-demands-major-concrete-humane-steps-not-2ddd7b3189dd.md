@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 18/3/20: Protecting human lives demands major concrete humane steps, not…
+title: "AYS Daily Digest 18/3/20: Protecting human lives demands major concrete humane steps, not…"
 author: Are You Syrious?
 date: 2020-03-19T15:32:03.541+0000
 last_modified_at: 2020-03-19T16:46:43.168+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,coronavirus,refugees,human-rights,europe]
 description: Covid-19 state measures ignore the realities of tens of thousands of people / more information on the current situation in different…
 image:
-  path: assets/2ddd7b3189dd/1*FCNiF8VYaxlk6F7BVy8zbg.jpeg
+  path: ../assets/2ddd7b3189dd/1*FCNiF8VYaxlk6F7BVy8zbg.jpeg
 ---
 
 ### AYS Daily Digest 18/3/20: Protecting human lives demands major concrete humane steps, not imprisonment
 #### Covid\-19 state measures ignore the realities of tens of thousands of people / More information on the current situation in different countries, measures taken, warnings and available teams on site
 
 
-![Chios\. Today\. Tents in which some of the people are staying\. \(Photo: [Jenny Zinovia Kali](https://www.facebook.com/jenny.kali.1?fref=gs&__tn__=%2Cd%2AF%2AF-R&eid=ARBHsIY4valLup899ZGd4yx1gaK1gtccbdggXBks7hDdejdUbQgwLYsU_cg_hXyoCZ6bbLnlH6yAK2W1&tn-str=%2AF&dti=1508309029486384&hc_location=group_dialog) ‎\)](assets/2ddd7b3189dd/1*FCNiF8VYaxlk6F7BVy8zbg.jpeg)
+![Chios\. Today\. Tents in which some of the people are staying\. \(Photo: [Jenny Zinovia Kali](https://www.facebook.com/jenny.kali.1?fref=gs&__tn__=%2Cd%2AF%2AF-R&eid=ARBHsIY4valLup899ZGd4yx1gaK1gtccbdggXBks7hDdejdUbQgwLYsU_cg_hXyoCZ6bbLnlH6yAK2W1&tn-str=%2AF&dti=1508309029486384&hc_location=group_dialog) ‎\)](../assets/2ddd7b3189dd/1*FCNiF8VYaxlk6F7BVy8zbg.jpeg)
 
 Chios\. Today\. Tents in which some of the people are staying\. \(Photo: [Jenny Zinovia Kali](https://www.facebook.com/jenny.kali.1?fref=gs&__tn__=%2Cd%2AF%2AF-R&eid=ARBHsIY4valLup899ZGd4yx1gaK1gtccbdggXBks7hDdejdUbQgwLYsU_cg_hXyoCZ6bbLnlH6yAK2W1&tn-str=%2AF&dti=1508309029486384&hc_location=group_dialog) ‎\)
 
@@ -48,7 +48,7 @@ Far\-right groups supported by neo\-Nazis from the rest of Europe took over cont
 
 
 
-![](assets/2ddd7b3189dd/1*Poro5TvvgmG2J_Qx4AIZ2g.jpeg)
+![](../assets/2ddd7b3189dd/1*Poro5TvvgmG2J_Qx4AIZ2g.jpeg)
 
 
 
@@ -172,7 +172,7 @@ In a video from the site, posted by the ABR, the people on the boat are heard sa
 ### Closed deportation centre erected
 
 
-![The closed deportation center at the Klidi site in Sintiki Serres, northern Greece is under construction\. This new temporary center can accommodate up to 500 people\. We prefer calling it a concentration camp, which it is\.](assets/2ddd7b3189dd/1*F1BpmBTRxQkD_l4nNyshwQ.jpeg)
+![The closed deportation center at the Klidi site in Sintiki Serres, northern Greece is under construction\. This new temporary center can accommodate up to 500 people\. We prefer calling it a concentration camp, which it is\.](../assets/2ddd7b3189dd/1*F1BpmBTRxQkD_l4nNyshwQ.jpeg)
 
 The closed deportation center at the Klidi site in Sintiki Serres, northern Greece is under construction\. This new temporary center can accommodate up to 500 people\. We prefer calling it a concentration camp, which it is\.
 
@@ -196,7 +196,7 @@ The new arrivals after 1 March, who are still on the Aegean islands, will be tak
 The people were supposed to be transferred to the already infamous closed detention center mentioned earlier, but the government announced they will be transferred on Friday\.
 
 
-![Chios \(Photo: [Jenny Zinovia Kali](https://www.facebook.com/jenny.kali.1?fref=gs&__tn__=%2Cd%2AF%2AF-R&eid=ARBHsIY4valLup899ZGd4yx1gaK1gtccbdggXBks7hDdejdUbQgwLYsU_cg_hXyoCZ6bbLnlH6yAK2W1&tn-str=%2AF&dti=1508309029486384&hc_location=group_dialog) ‎\)](assets/2ddd7b3189dd/1*kAd697Pr_cnhRvOwOA1Skg.jpeg)
+![Chios \(Photo: [Jenny Zinovia Kali](https://www.facebook.com/jenny.kali.1?fref=gs&__tn__=%2Cd%2AF%2AF-R&eid=ARBHsIY4valLup899ZGd4yx1gaK1gtccbdggXBks7hDdejdUbQgwLYsU_cg_hXyoCZ6bbLnlH6yAK2W1&tn-str=%2AF&dti=1508309029486384&hc_location=group_dialog) ‎\)](../assets/2ddd7b3189dd/1*kAd697Pr_cnhRvOwOA1Skg.jpeg)
 
 Chios \(Photo: [Jenny Zinovia Kali](https://www.facebook.com/jenny.kali.1?fref=gs&__tn__=%2Cd%2AF%2AF-R&eid=ARBHsIY4valLup899ZGd4yx1gaK1gtccbdggXBks7hDdejdUbQgwLYsU_cg_hXyoCZ6bbLnlH6yAK2W1&tn-str=%2AF&dti=1508309029486384&hc_location=group_dialog) ‎\)
 ### Athens
@@ -282,7 +282,7 @@ Find the entire document with the possibility to sign it on the following link: 
 Although some of the media have reported in a sensationalist way that people staying at the reception centre Porin in Zagreb have been infected, the [Ministry of Interior has confirmed](https://www.koronavirus.hr/trazitelji-medjunarodne-zastite-nisu-zarazeni-koronavirusom/171?fbclid=IwAR0UOMrreHTnB0CP6MHfMN9u-xWF-Wlvva6JghMLrXVV8ylaaG3sxDkMeKM) that nobody has coronavirus inside Porin and in order to prevent bringing in possible infection from outside, following the measures declared by the crisis council for civil protection, the language, integration and socialisation activities by some of the organisations, including AYS, have been temporary halted, while medical support and vital daily support provided by Medecins du Monde and part of the Red Cross team continue during the announced 30 days of special measures at a national level\. People staying in Porin have the usual practice of free movement, but are instructed as are all other citizens to stay in as much as possible and to limit participation in larger gatherings, as well as to pay special attention to the stated self\-protection measures that have also been published in Arabic and Persian by the JRS\.
 
 
-![](assets/2ddd7b3189dd/0*SNrV8LfJqIhZNayg)
+![](../assets/2ddd7b3189dd/0*SNrV8LfJqIhZNayg)
 
 
 On the JRS Facebook page you can find a video explanation, following [this link\.](https://www.facebook.com/JRSizbjeglice/videos/201780901103084/) 

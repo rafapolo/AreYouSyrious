@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 17/08/2018: Asylum-seekers with inadmissibility claims denied food in Hungarian…
+title: "AYS DAILY DIGEST 17/08/2018: Asylum-seekers with inadmissibility claims denied food in Hungarian…"
 author: Are You Syrious?
 date: 2018-08-18T10:57:03.321+0100
 last_modified_at: 2018-08-18T15:47:31.024+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,hungary,bosnia,greece]
 description: 203 people arrive to Lesvos // Mission Lifeline has a new boat // People in Morocco bused away from the coast // Italian Coastguard ship…
 image:
-  path: assets/85df8a72ee7b/1*TIps6tnMjbJCep8iyQ7r1A.jpeg
+  path: ../assets/85df8a72ee7b/1*TIps6tnMjbJCep8iyQ7r1A.jpeg
 ---
 
 ### AYS DAILY DIGEST 17/08/2018: Asylum\-seekers with inadmissibility claims denied food in Hungarian transit zones
@@ -15,7 +15,7 @@ image:
 _203 people arrive to Lesvos // Mission Lifeline has a new boat // People in Morocco bused away from the coast // Italian Coastguard ship stranded at sea // News from Greece, Bosnia & France…_
 
 
-![Photo by Keegan Nashan](assets/85df8a72ee7b/1*TIps6tnMjbJCep8iyQ7r1A.jpeg)
+![Photo by Keegan Nashan](../assets/85df8a72ee7b/1*TIps6tnMjbJCep8iyQ7r1A.jpeg)
 
 Photo by Keegan Nashan
 ### Feature: Asylum\-seekers denied food in transit zones
@@ -27,7 +27,7 @@ The inadmissibility decisions are based on a new provision, according to which p
 #### People bused away from the coast
 
 
-![Photo by [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/)](assets/85df8a72ee7b/0*eYb5yjP9jYJ44AaC)
+![Photo by [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/)](../assets/85df8a72ee7b/0*eYb5yjP9jYJ44AaC)
 
 Photo by [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/)
 
@@ -38,14 +38,14 @@ As Spain and the EU ask Morocco to prevent people from leaving for Europe, polic
 #### Lifeline has a new boat, needs funds
 
 
-![](assets/85df8a72ee7b/0*Yo-hGRq2-C3adWHy)
+![](../assets/85df8a72ee7b/0*Yo-hGRq2-C3adWHy)
 
 
 As of 17 August, the Libyan Coast Guard has intercepted 12,747 refugees at sea during 91 operations\. To prevent the loss of further lives, Mission Lifeline has bought a new ship and is now looking for [donations](https://mission-lifeline.de/) \. It still needs around €175,000 to finance the ship\.
 #### Coastguard ship Diciotti stuck between Italy and Malta
 
 
-![Photo by [Mediterranean hope](https://www.facebook.com/Mediterranean-hope-252231521632595/?hc_ref=ARSJeWhHx77_Pgo5iwSVy81RYmVkh5Axx-q3mqM0IqwHfh1QmasVnnJn1d9iTAbCA1c&fref=nf&hc_location=group&__xts__%5B0%5D=68.ARDJQ5oxrXbWP45C8qKHGUQv9zFaSFtwl6oT0z2shIx8A_dzDpcOBBtyDoBAZbQ150akbhYAXCb3ylXS5LdE7ZfhXwlt0Zyq51QA5ov6fNG1vv_FlfzClF7R7TqclP8U1AeCscAtw0VM&__tn__=kCH-R)](assets/85df8a72ee7b/0*tK_uirOXuvnO79qo)
+![Photo by [Mediterranean hope](https://www.facebook.com/Mediterranean-hope-252231521632595/?hc_ref=ARSJeWhHx77_Pgo5iwSVy81RYmVkh5Axx-q3mqM0IqwHfh1QmasVnnJn1d9iTAbCA1c&fref=nf&hc_location=group&__xts__%5B0%5D=68.ARDJQ5oxrXbWP45C8qKHGUQv9zFaSFtwl6oT0z2shIx8A_dzDpcOBBtyDoBAZbQ150akbhYAXCb3ylXS5LdE7ZfhXwlt0Zyq51QA5ov6fNG1vv_FlfzClF7R7TqclP8U1AeCscAtw0VM&__tn__=kCH-R)](../assets/85df8a72ee7b/0*tK_uirOXuvnO79qo)
 
 Photo by [Mediterranean hope](https://www.facebook.com/Mediterranean-hope-252231521632595/?hc_ref=ARSJeWhHx77_Pgo5iwSVy81RYmVkh5Axx-q3mqM0IqwHfh1QmasVnnJn1d9iTAbCA1c&fref=nf&hc_location=group&__xts__%5B0%5D=68.ARDJQ5oxrXbWP45C8qKHGUQv9zFaSFtwl6oT0z2shIx8A_dzDpcOBBtyDoBAZbQ150akbhYAXCb3ylXS5LdE7ZfhXwlt0Zyq51QA5ov6fNG1vv_FlfzClF7R7TqclP8U1AeCscAtw0VM&__tn__=kCH-R)
 
@@ -64,7 +64,7 @@ In addition, the Hellenic Coastguard rescued a boat carrying 36 people off the c
 #### Fear of deteriorating living conditions for refugees in Bosnia
 
 
-![Photo by Adis Imamovic](assets/85df8a72ee7b/0*0oZR6ecJ3c0orO2B)
+![Photo by Adis Imamovic](../assets/85df8a72ee7b/0*0oZR6ecJ3c0orO2B)
 
 Photo by Adis Imamovic
 

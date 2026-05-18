@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 24–25/09: #borderscankill
+title: "AYS DAILY DIGEST 24–25/09: #borderscankill"
 author: Are You Syrious?
 date: 2016-09-25T20:39:05.502+0100
 last_modified_at: 2016-09-26T09:05:32.266+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,borderscankill,vienna-summit,legis-macedonia,röszke]
 description: European officials more concerned about crisis situation than actual victims of the refugee crisis. Horror in both Syria and Yemen as death…
 image:
-  path: assets/bddfb7acd057/1*EynbWj16qTfpOmpOPQlAgA.jpeg
+  path: ../assets/bddfb7acd057/1*EynbWj16qTfpOmpOPQlAgA.jpeg
 ---
 
 ### AYS DAILY DIGEST 24–25/09: \#borderscankill
@@ -37,11 +37,11 @@ Austrian Chancellor Christian Kern, called for “massively improving” the sec
 People on the street of Vienna were sending different messages saying refugees are welcome\.
 
 
-![](assets/bddfb7acd057/1*EynbWj16qTfpOmpOPQlAgA.jpeg)
+![](../assets/bddfb7acd057/1*EynbWj16qTfpOmpOPQlAgA.jpeg)
 
 
 
-![Photo by Karin T\.](assets/bddfb7acd057/1*26P4ZVMVHocYagOw4Bw-tQ.jpeg)
+![Photo by Karin T\.](../assets/bddfb7acd057/1*26P4ZVMVHocYagOw4Bw-tQ.jpeg)
 
 Photo by Karin T\.
 
@@ -64,7 +64,7 @@ Refugees spoke, too\. Our friend and photographer Abdulaziz started thecampaign 
 
 
 
-![“Abdulrahaman became quiet, he said I’d like to add something : “I feel as if we are being judged\. I’d wish someone would talk to us before passing judgment on us\. We are regular humans with ethics\. We don’t wish harm upon anyone\. Is that what people think? That we are dangerous? I don’t know what to believe anymore\.” Photo and story by Through Refugee Eyes](assets/bddfb7acd057/1*XWP7xw4viqw0kbOD--mWqw.jpeg)
+![“Abdulrahaman became quiet, he said I’d like to add something : “I feel as if we are being judged\. I’d wish someone would talk to us before passing judgment on us\. We are regular humans with ethics\. We don’t wish harm upon anyone\. Is that what people think? That we are dangerous? I don’t know what to believe anymore\.” Photo and story by Through Refugee Eyes](../assets/bddfb7acd057/1*XWP7xw4viqw0kbOD--mWqw.jpeg)
 
 “Abdulrahaman became quiet, he said I’d like to add something : “I feel as if we are being judged\. I’d wish someone would talk to us before passing judgment on us\. We are regular humans with ethics\. We don’t wish harm upon anyone\. Is that what people think? That we are dangerous? I don’t know what to believe anymore\.” Photo and story by Through Refugee Eyes
 
@@ -72,7 +72,7 @@ Follow the campaign and contribute by tagging \#borderscankill and liking “Thr
 ### SYRIA
 
 
-![A UN aid convoy going into an Aleppo neighborhood\.](assets/bddfb7acd057/1*m5XIVtR_iWBjm29wi3aleg.jpeg)
+![A UN aid convoy going into an Aleppo neighborhood\.](../assets/bddfb7acd057/1*m5XIVtR_iWBjm29wi3aleg.jpeg)
 
 A UN aid convoy going into an Aleppo neighborhood\.
 
@@ -93,7 +93,7 @@ Saudi Arabia has been brutally bombing Yemen for almost two years, and the resul
 ### GREECE
 
 
-![A Syrian man sits in a tent in Ritsona Camp\. Photo Credit: Petros Giannakouris](assets/bddfb7acd057/1*S-hKiRk-SA94KOGpkurETw.jpeg)
+![A Syrian man sits in a tent in Ritsona Camp\. Photo Credit: Petros Giannakouris](../assets/bddfb7acd057/1*S-hKiRk-SA94KOGpkurETw.jpeg)
 
 A Syrian man sits in a tent in Ritsona Camp\. Photo Credit: Petros Giannakouris
 
@@ -129,7 +129,7 @@ In this spirit, the Khora Community Center in Athens will be opening on October 
 Emergency Response Centre International wrapped up week two in their educational initiative projects in northern Greece\. The pupils were very eager and are greatly enjoying this return to some normalcy\.
 
 
-![Photo Credit: ERCI](assets/bddfb7acd057/1*xM5_80clYFxtD_cDEKbMXg.jpeg)
+![Photo Credit: ERCI](../assets/bddfb7acd057/1*xM5_80clYFxtD_cDEKbMXg.jpeg)
 
 Photo Credit: ERCI
 ### MACEDONIA
@@ -172,14 +172,14 @@ The situation in Serbia is still off the radar of big international media, but a
 At the same time, more people arrived today to Belgrade\.
 
 
-![Miksaliste](assets/bddfb7acd057/1*SzYeMIYyYoTjlhTURYn_Bw.jpeg)
+![Miksaliste](../assets/bddfb7acd057/1*SzYeMIYyYoTjlhTURYn_Bw.jpeg)
 
 Miksaliste
 
 Disturbing updates from Preševo camp in Serbia where reports of food contamination or rot resulted in refugees refusing food\. At least one individual reported eating the chicken that smelled horrible anyway, but then reported serious sickness shortly after consumption\. Unlike other camps in Serbia, residents in Preševo Camp are not allowed to leave the camp\. Refugees are given promises of being let outside of the camp, to be allowed to go to the market, but faith in these promises wane as people are continued to be penned up inside the walls\.
 
 
-![Possibly contaminated chicken in Preševo Camp\.](assets/bddfb7acd057/1*VttiFb7AV46YuYPStQZ9XQ.jpeg)
+![Possibly contaminated chicken in Preševo Camp\.](../assets/bddfb7acd057/1*VttiFb7AV46YuYPStQZ9XQ.jpeg)
 
 Possibly contaminated chicken in Preševo Camp\.
 ### HUNGARY
@@ -190,11 +190,11 @@ An activist from Hungary are still following the trial of Ahmed H\. On Friday it
 “After over four hours of testimonies that mainly proved nobody was sure of what happened that day in Röszke, that everything was chaotic, and that the witnesses couldn’t be sure of who is guilty because “all migrants look quite the same as they have a beard and black hair”, Ahmed is now charged with a life sentence, instead of 20 years of jail\. His next court hearing will happen on October 28th\. This trial is ridiculing what we call a juridical system and is the ultimate political toy of fear mongering, aiming to prove by force and fault that “migrants” are terrorists\. We will not let this go, we will spread the word and support Ahmed H stronger than ever from now on\! Join us in showing that this is not justice, this is a show trial\!”
 
 
-![](assets/bddfb7acd057/1*fJLbIAQcDUB8EktoVDgIGQ.jpeg)
+![](../assets/bddfb7acd057/1*fJLbIAQcDUB8EktoVDgIGQ.jpeg)
 
 
 
-[![The Röszke 11](assets/bddfb7acd057/0ee1_hqdefault.jpg "The Röszke 11")](http://www.youtube.com/watch?v=rpG3Z4KfQCg)
+[![The Röszke 11](../assets/bddfb7acd057/0ee1_hqdefault.jpg "The Röszke 11")](http://www.youtube.com/watch?v=rpG3Z4KfQCg)
 
 
 Please watch the above short documentary for the full information on the Röszke 11, who continue in this fight\.
@@ -210,7 +210,7 @@ The rise of far\-right wing parties is widespread throughout Europe, having rece
 Hundreds of Afghans gathered in Hamburg today to demonstrate against discriminatory behavior of German authority in processing their asylum claims in Germany\. They also called on the Afghan government to withdraw the decision of signing MOU that will encourage forced return of Afghan refugees back to Afghanistan\.
 
 
-![Photo Abdul Ghafoor](assets/bddfb7acd057/1*3R4aKYbCqgMKGPpUwC4u4g.jpeg)
+![Photo Abdul Ghafoor](../assets/bddfb7acd057/1*3R4aKYbCqgMKGPpUwC4u4g.jpeg)
 
 Photo Abdul Ghafoor
 ### DENMARK
@@ -223,7 +223,7 @@ A disturbing new development has come from Denmark which has officially convicte
 In the aftermath of the death of a man at the hands of neo\-Nazi radicals, 15 thousand have taken to the streets of Helsinki in a protest against fascist violence\. Thousands more participated in similar demonstrations across the country\. Among the participants is the current Premier of the country, Juha Sipila, who vowed that the government will soon be tackling such groups\.
 
 
-![](assets/bddfb7acd057/1*MRb_FvKdFy65X4cFeOx5dA.jpeg)
+![](../assets/bddfb7acd057/1*MRb_FvKdFy65X4cFeOx5dA.jpeg)
 
 
 

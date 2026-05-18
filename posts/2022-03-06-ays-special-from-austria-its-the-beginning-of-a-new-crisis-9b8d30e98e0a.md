@@ -1,5 +1,5 @@
 ---
-title: AYS Special from Austria: “It’s the beginning of a new crisis”
+title: "AYS Special from Austria: “It’s the beginning of a new crisis”"
 author: Are You Syrious?
 date: 2022-03-06T16:04:00.472+0000
 last_modified_at: 2022-03-06T19:45:22.186+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [special,austria,refugees,unaccompanied-children,borders]
 description: In Austria, asylum applications by unaccompanied children shot up last year.
 image:
-  path: assets/9b8d30e98e0a/1*_rF5Pzc1g2ke23Cah-TVSg.jpeg
+  path: ../assets/9b8d30e98e0a/1*_rF5Pzc1g2ke23Cah-TVSg.jpeg
 ---
 
 ### AYS Special from Austria: **“It’s the beginning of a new crisis\.”**
@@ -15,7 +15,7 @@ image:
 _In Austria, asylum applications by unaccompanied children shot up last year\. Between incapacity and lack of political will, the country seems unable to cater for these children\. Left with little hope, a lot of them end up “disappearing”\._
 
 
-![An Afghan family walks through the rain in Velika Kladuša, northwest Bosnia, on their way to Western Europe in December 2020\. \(Photo: Lucy Papachristou\)](assets/9b8d30e98e0a/1*_rF5Pzc1g2ke23Cah-TVSg.jpeg)
+![An Afghan family walks through the rain in Velika Kladuša, northwest Bosnia, on their way to Western Europe in December 2020\. \(Photo: Lucy Papachristou\)](../assets/9b8d30e98e0a/1*_rF5Pzc1g2ke23Cah-TVSg.jpeg)
 
 An Afghan family walks through the rain in Velika Kladuša, northwest Bosnia, on their way to Western Europe in December 2020\. \(Photo: Lucy Papachristou\)
 
@@ -28,7 +28,7 @@ Mohammed is just one of thousands of unaccompanied minors, or UAMs, who have sou
 While just over 150 children applied for asylum there in January 2021, by November that number had reached 1,060 children — a roughly 600% increase\. Other EU countries saw only minor increases in such applications\. \( [Europe\-wide data](https://ec.europa.eu/eurostat/databrowser/view/MIGR_ASYUMACTM__custom_2002825/default/table?lang=en) is only available through November 2021\. \) All asylum applications in the EU [increased slightly](https://ec.europa.eu/info/strategy/priorities-2019-2024/promoting-our-european-way-life/statistics-migration-europe_en#developmentsin20192018) last year after slumping in 2020 due to Covid\-19\.
 
 
-![](assets/9b8d30e98e0a/1*qDSJQZcdMrVPJDIcF7kbzA.png)
+![](../assets/9b8d30e98e0a/1*qDSJQZcdMrVPJDIcF7kbzA.png)
 
 
 Amid the sharp rise in refugee children arrivals, asylum experts in Austria fear that the vulnerable youths are arriving to a country that is ill\-equipped to care for and integrate them, and at a time when the political winds have shifted against migration as Europe [shores up its borders](https://www.aljazeera.com/news/2022/1/25/poland-begins-work-on-400m-belarus-border-wall-against-migrants) against incoming refugees\.

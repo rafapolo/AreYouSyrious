@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,covid-19,digest,greece,france]
 description: 175 people stranded in waters near Cyprus // Salvamento Maritimo says 8 year old girl traveled 4 days alone across Med // horrible…
 image:
-  path: assets/1b1c43be1eb2/1*KsUDR9hAP-dumiJEsC5Reg.jpeg
+  path: ../assets/1b1c43be1eb2/1*KsUDR9hAP-dumiJEsC5Reg.jpeg
 ---
 
 ### AYS Daily Digest 31/03/2020 Refugee woman who gave birth in Athens tests COVID\-19 positive
@@ -15,7 +15,7 @@ image:
 _175 people stranded in waters near Cyprus // Salvamento Maritimo says 8 year old girl traveled 4 days alone across Med // horrible conditions in closed camps in Bosnia due to COIVD\-19 fears // update on Calais // and more…_
 
 
-![Photo by [Καμιά Ανοχή](https://www.facebook.com/KamiaAnohi/?tn-str=k%2AF)](assets/1b1c43be1eb2/1*TPbpGc1D8_RPuGox9nSdtQ.jpeg)
+![Photo by [Καμιά Ανοχή](https://www.facebook.com/KamiaAnohi/?tn-str=k%2AF)](../assets/1b1c43be1eb2/1*TPbpGc1D8_RPuGox9nSdtQ.jpeg)
 
 Photo by [Καμιά Ανοχή](https://www.facebook.com/KamiaAnohi/?tn-str=k%2AF)
 ### FEATURE: A woman who gave birth on Sunday at a hospital in Athens, tests positive for COVID\-19\. She was living in a refugee camp in Ritsona, northeast of Athens\.
@@ -58,12 +58,12 @@ The Middle East Monitor is reporting that the Tunisian Foreign Minister Noureddi
 #### GREECE
 
 
-![“This morning at 01\.30, **two life rafts carrying 39 people, 7 children, 12 women and 20 men** , was found drifting close to the Greek sea boarder outside Dikili\. **According to the statement from the passengers, obtained by TCG, Greek coast guard had put them in the rafts and left them at the Turkish sea border\.** In one week six life rafts carrying refugees has been detected by TCG, similar statement has been given in all six cases\. The rafts have been found from Datça in the south to Dikili in the north, a stretch of 170 miles\. To pick up people from boats heading to Greece, inside Greek waters, force them in to life rafts and leave them in a helpless state at the border, would be a violation of international maritime law, if this in fact is the case\. The last two incidents was most likely heading to Lesvos south\.” Photo by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/801935850329521?hc_location=ufi)](assets/1b1c43be1eb2/1*Q0oirGVNuNxK6rWzFiwvbg.jpeg)
+![“This morning at 01\.30, **two life rafts carrying 39 people, 7 children, 12 women and 20 men** , was found drifting close to the Greek sea boarder outside Dikili\. **According to the statement from the passengers, obtained by TCG, Greek coast guard had put them in the rafts and left them at the Turkish sea border\.** In one week six life rafts carrying refugees has been detected by TCG, similar statement has been given in all six cases\. The rafts have been found from Datça in the south to Dikili in the north, a stretch of 170 miles\. To pick up people from boats heading to Greece, inside Greek waters, force them in to life rafts and leave them in a helpless state at the border, would be a violation of international maritime law, if this in fact is the case\. The last two incidents was most likely heading to Lesvos south\.” Photo by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/801935850329521?hc_location=ufi)](../assets/1b1c43be1eb2/1*Q0oirGVNuNxK6rWzFiwvbg.jpeg)
 
 “This morning at 01\.30, **two life rafts carrying 39 people, 7 children, 12 women and 20 men** , was found drifting close to the Greek sea boarder outside Dikili\. **According to the statement from the passengers, obtained by TCG, Greek coast guard had put them in the rafts and left them at the Turkish sea border\.** In one week six life rafts carrying refugees has been detected by TCG, similar statement has been given in all six cases\. The rafts have been found from Datça in the south to Dikili in the north, a stretch of 170 miles\. To pick up people from boats heading to Greece, inside Greek waters, force them in to life rafts and leave them in a helpless state at the border, would be a violation of international maritime law, if this in fact is the case\. The last two incidents was most likely heading to Lesvos south\.” Photo by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/801935850329521?hc_location=ufi)
 
 
-![](assets/1b1c43be1eb2/1*mbfCVX3AEsd1_5rh6etvFA.jpeg)
+![](../assets/1b1c43be1eb2/1*mbfCVX3AEsd1_5rh6etvFA.jpeg)
 
 
 Please let people know about [the Greek Council for Refugees Online Helpdesk](https://www.facebook.com/groups/AthensVolunteersInformation/permalink/2035585186573768/?hc_location=ufi) \. They can send online messages to them about:
@@ -118,11 +118,11 @@ Human Rights Watch said in a report on Tuesday:
 _“If the government is serious about preventing COVID\-19 transmission and illness among migrants and asylum seekers, it needs to scale up testing, provide more tents, and give people enough toilets, water, and soap, and put in place prevention interventions,” said Belkis Wille, senior Crisis and Conflict researcher at Human Rights Watch\. “Forcing people, some of whom are at high risk of severe disease or death, to live in dirty and unsanitary conditions, cramped together in close quarters, is a recipe for spreading the virus, not to mention is degrading and inhumane\.”_ [Read the full report here\.](https://www.hrw.org/news/2020/03/31/greece-nearly-2000-new-arrivals-detained-overcrowded-mainland-camps?fbclid=IwAR3MOSCPTcMkvwE98SgyLaD--AGkww18SIA398uNeC4GPyN0IEQh49XaxkY#)
 
 
-![](assets/1b1c43be1eb2/1*rM8JzFhsVSh73Q8Cyiz9wA.jpeg)
+![](../assets/1b1c43be1eb2/1*rM8JzFhsVSh73Q8Cyiz9wA.jpeg)
 
 
 
-![“Sharing \#HopeBags in times of \#Corona in Athen \#Greece\! Since last week we start to share Hope Bags which include: toilet paper, macaroni, pampers, disinfecting \(materials\) and mask etc… As we started we become more messages, than we expected from \#homeless families and single people in \#Athens\. We looking forward too help this people everyday with our Hope Bags\. As you know we need support from you to \#support the \#people\. You can send us a private message for the PayPal link or you order online by a supermarket some stuff for our Hope Bags to \#cafe\_patogh\. In Times of Corona \#Soldarity is more needed than ever before\! Please we don’t leave no one Behind\! We stand with Homeless people\.” Photo by [Our House](https://www.facebook.com/ourhousegr/posts/2579686722283158)](assets/1b1c43be1eb2/1*cdlUkXUDytSkMLIbC2WyBw.jpeg)
+![“Sharing \#HopeBags in times of \#Corona in Athen \#Greece\! Since last week we start to share Hope Bags which include: toilet paper, macaroni, pampers, disinfecting \(materials\) and mask etc… As we started we become more messages, than we expected from \#homeless families and single people in \#Athens\. We looking forward too help this people everyday with our Hope Bags\. As you know we need support from you to \#support the \#people\. You can send us a private message for the PayPal link or you order online by a supermarket some stuff for our Hope Bags to \#cafe\_patogh\. In Times of Corona \#Soldarity is more needed than ever before\! Please we don’t leave no one Behind\! We stand with Homeless people\.” Photo by [Our House](https://www.facebook.com/ourhousegr/posts/2579686722283158)](../assets/1b1c43be1eb2/1*cdlUkXUDytSkMLIbC2WyBw.jpeg)
 
 “Sharing \#HopeBags in times of \#Corona in Athen \#Greece\! Since last week we start to share Hope Bags which include: toilet paper, macaroni, pampers, disinfecting \(materials\) and mask etc… As we started we become more messages, than we expected from \#homeless families and single people in \#Athens\. We looking forward too help this people everyday with our Hope Bags\. As you know we need support from you to \#support the \#people\. You can send us a private message for the PayPal link or you order online by a supermarket some stuff for our Hope Bags to \#cafe\_patogh\. In Times of Corona \#Soldarity is more needed than ever before\! Please we don’t leave no one Behind\! We stand with Homeless people\.” Photo by [Our House](https://www.facebook.com/ourhousegr/posts/2579686722283158)
 
@@ -157,7 +157,7 @@ Suspending asylum now is against international law\. We must protect the most vu
 #### ITALY
 
 
-![Update and Photo by [L’ ALTRA VOCE](https://www.facebook.com/1245970425495921/photos/a.1266360583456905/2883870161705931/?type=3&theater) : GRADISCA \(Gorizia\) Italy\. Our thoughts often goes out to the kids at Cara camp\. Now there are 180\. They too \(like all of us\) forced to be within four walls\. But a camp doesn’t have the comforts we can have at our home, it’s not a “nest”\. Loneliness and boredom get heavier\. Let’s think of them, the refugees in the various structures and of those who don’t have a home, Italians and foreigners\. Exposed more to the dangers\. And also to those who are in even closer places, such as prisons and CPR\. We virtually embrace all of them\.](assets/1b1c43be1eb2/1*e4aGfBckZWv2qmvNMZEQaw.jpeg)
+![Update and Photo by [L’ ALTRA VOCE](https://www.facebook.com/1245970425495921/photos/a.1266360583456905/2883870161705931/?type=3&theater) : GRADISCA \(Gorizia\) Italy\. Our thoughts often goes out to the kids at Cara camp\. Now there are 180\. They too \(like all of us\) forced to be within four walls\. But a camp doesn’t have the comforts we can have at our home, it’s not a “nest”\. Loneliness and boredom get heavier\. Let’s think of them, the refugees in the various structures and of those who don’t have a home, Italians and foreigners\. Exposed more to the dangers\. And also to those who are in even closer places, such as prisons and CPR\. We virtually embrace all of them\.](../assets/1b1c43be1eb2/1*e4aGfBckZWv2qmvNMZEQaw.jpeg)
 
 Update and Photo by [L’ ALTRA VOCE](https://www.facebook.com/1245970425495921/photos/a.1266360583456905/2883870161705931/?type=3&theater) : GRADISCA \(Gorizia\) Italy\. Our thoughts often goes out to the kids at Cara camp\. Now there are 180\. They too \(like all of us\) forced to be within four walls\. But a camp doesn’t have the comforts we can have at our home, it’s not a “nest”\. Loneliness and boredom get heavier\. Let’s think of them, the refugees in the various structures and of those who don’t have a home, Italians and foreigners\. Exposed more to the dangers\. And also to those who are in even closer places, such as prisons and CPR\. We virtually embrace all of them\.
 #### SPAIN
@@ -169,7 +169,7 @@ Update and Photo by [L’ ALTRA VOCE](https://www.facebook.com/1245970425495921/
 ![“To whom it may concern
 I am a migrant, living in Bira camp of Behac City of B&H since last year, Camp run by IOM\.We are in a closed camp not for health reasons, but we get unhealthy and Sick just because we can’t get vitamin D and other supplements, even we don’t have toothpastes and brushes for washing mouth, Soap and Shampoo for body wash, nail cutter, razors or hair cut machine, Medicine and treatment and so on… we are deprived from these basic things\.
 I do not blaming or complaining about anyone, just telling the truth, we are human, should be treated like other human beings\!
-Since past 2 or 3 months the situation gets worse than ever because of COVID\-19 crises started, IOM Staff is just thinking and taking care of their selves\. They have gloves, Hand sanitizer gels, masks and … which is not for us\.” Photo by [L’ ALTRA VOCE](https://www.facebook.com/L-ALTRA-VOCE-1245970425495921/?__xts__%5B0%5D=68.ARA31BQYpXJAo2uZLgskbhZxnrFoXQzLzWr88khTgCZfZwRGBznt7H2nyvPmuBYNsJN9Ju9-OmjnvftqPeCsqz4Eb4F7u4zYb5Rv9xpWu5a7U8znBnJYn5MSDgWK8VMhqq00NV5R3DMzYywaFoan1N2KwBfK4YqbVONO5FguoTFAoDH9Mj7czH-QtCmvl9aAP5wXcIPsHKMzNjB5vYNMK4xSQN4Yct7Z4PcJb-3yPsdTj_Sgc7KvrW0Vb0S0DtalprKmdv6QK1Nkhq5_S7jKLSt9E4COncUE9InHe3sF67ztGeK7aLKqw5Mz7C30N17uPlufpPHR1PqWulCIojt0zuFSwi0K&__tn__=k%2AF&tn-str=k%2AF)](assets/1b1c43be1eb2/1*9PzqU5j3pXaUxk_NjS7Ehw.jpeg)
+Since past 2 or 3 months the situation gets worse than ever because of COVID\-19 crises started, IOM Staff is just thinking and taking care of their selves\. They have gloves, Hand sanitizer gels, masks and … which is not for us\.” Photo by [L’ ALTRA VOCE](https://www.facebook.com/L-ALTRA-VOCE-1245970425495921/?__xts__%5B0%5D=68.ARA31BQYpXJAo2uZLgskbhZxnrFoXQzLzWr88khTgCZfZwRGBznt7H2nyvPmuBYNsJN9Ju9-OmjnvftqPeCsqz4Eb4F7u4zYb5Rv9xpWu5a7U8znBnJYn5MSDgWK8VMhqq00NV5R3DMzYywaFoan1N2KwBfK4YqbVONO5FguoTFAoDH9Mj7czH-QtCmvl9aAP5wXcIPsHKMzNjB5vYNMK4xSQN4Yct7Z4PcJb-3yPsdTj_Sgc7KvrW0Vb0S0DtalprKmdv6QK1Nkhq5_S7jKLSt9E4COncUE9InHe3sF67ztGeK7aLKqw5Mz7C30N17uPlufpPHR1PqWulCIojt0zuFSwi0K&__tn__=k%2AF&tn-str=k%2AF)](../assets/1b1c43be1eb2/1*9PzqU5j3pXaUxk_NjS7Ehw.jpeg)
 
 “To whom it may concern
 I am a migrant, living in Bira camp of Behac City of B&H since last year, Camp run by IOM\.We are in a closed camp not for health reasons, but we get unhealthy and Sick just because we can’t get vitamin D and other supplements, even we don’t have toothpastes and brushes for washing mouth, Soap and Shampoo for body wash, nail cutter, razors or hair cut machine, Medicine and treatment and so on… we are deprived from these basic things\.
@@ -204,24 +204,24 @@ In an update from GRADBIHAC:
 
 
 
-![](assets/1b1c43be1eb2/1*8KBDR8S1MDnjmAgQhEmtbw.jpeg)
+![](../assets/1b1c43be1eb2/1*8KBDR8S1MDnjmAgQhEmtbw.jpeg)
 
 
 
-![Photos by GRADBIHAC](assets/1b1c43be1eb2/1*P03ltKx1UjpkpaJ4PMCQ9A.jpeg)
+![Photos by GRADBIHAC](../assets/1b1c43be1eb2/1*P03ltKx1UjpkpaJ4PMCQ9A.jpeg)
 
 Photos by GRADBIHAC
 
 
-![](assets/1b1c43be1eb2/1*XYBN7oN4OrU9ZdUFC_KNBA.jpeg)
+![](../assets/1b1c43be1eb2/1*XYBN7oN4OrU9ZdUFC_KNBA.jpeg)
 
 
 
-![](assets/1b1c43be1eb2/1*3cENR7b5pMpXFjbCfu1h-Q.jpeg)
+![](../assets/1b1c43be1eb2/1*3cENR7b5pMpXFjbCfu1h-Q.jpeg)
 
 
 
-![“Camp Blazuj, Anna Domini 2020 \(28\. March 2020\. \) While they convince us that roses bloom in the camps, we get pictures of horror\. We have information to beat people and everyone complain about getting very little food\. Some of the people told us they took their phones away, so we are aware that we might be getting the last pictures from the camp so the truth wouldn’t come out\. Our moral duty is to share this because we are their only voice, and if they cut off our contacts, we can only guess that the situation is getting worse\. We are their only voice, we must not be silent\. Around 3000 people are expected to “fit” in this camp\.” Photos by [Pomoć izbjeglicama u BiH/Help for people on the move in Bosnia](https://www.facebook.com/groups/144469886266984/permalink/535533293827306/)](assets/1b1c43be1eb2/1*-vqGrlk1rDsbeq-H5TMnnQ.jpeg)
+![“Camp Blazuj, Anna Domini 2020 \(28\. March 2020\. \) While they convince us that roses bloom in the camps, we get pictures of horror\. We have information to beat people and everyone complain about getting very little food\. Some of the people told us they took their phones away, so we are aware that we might be getting the last pictures from the camp so the truth wouldn’t come out\. Our moral duty is to share this because we are their only voice, and if they cut off our contacts, we can only guess that the situation is getting worse\. We are their only voice, we must not be silent\. Around 3000 people are expected to “fit” in this camp\.” Photos by [Pomoć izbjeglicama u BiH/Help for people on the move in Bosnia](https://www.facebook.com/groups/144469886266984/permalink/535533293827306/)](../assets/1b1c43be1eb2/1*-vqGrlk1rDsbeq-H5TMnnQ.jpeg)
 
 “Camp Blazuj, Anna Domini 2020 \(28\. March 2020\. \) While they convince us that roses bloom in the camps, we get pictures of horror\. We have information to beat people and everyone complain about getting very little food\. Some of the people told us they took their phones away, so we are aware that we might be getting the last pictures from the camp so the truth wouldn’t come out\. Our moral duty is to share this because we are their only voice, and if they cut off our contacts, we can only guess that the situation is getting worse\. We are their only voice, we must not be silent\. Around 3000 people are expected to “fit” in this camp\.” Photos by [Pomoć izbjeglicama u BiH/Help for people on the move in Bosnia](https://www.facebook.com/groups/144469886266984/permalink/535533293827306/)
 #### CROATIA
@@ -327,7 +327,7 @@ The Danish MEP Margrethe Auken calls in the [daily Information publication](http
 #### NORWAY
 
 
-![Photo by [Morten Uglum](https://www.aftenposten.no/norge/i/RReyM8/plasserte-ut-7499-par-sko-paa-strand-i-oslo-for-demonstrere-for-barn-paa-lesbos?fbclid=IwAR3JlT7YwrXBOqEJ7hOp5Zx2hmeiQThIvyIsbfLOOg09LHKI9GODXK1BJCM)](assets/1b1c43be1eb2/1*KsUDR9hAP-dumiJEsC5Reg.jpeg)
+![Photo by [Morten Uglum](https://www.aftenposten.no/norge/i/RReyM8/plasserte-ut-7499-par-sko-paa-strand-i-oslo-for-demonstrere-for-barn-paa-lesbos?fbclid=IwAR3JlT7YwrXBOqEJ7hOp5Zx2hmeiQThIvyIsbfLOOg09LHKI9GODXK1BJCM)](../assets/1b1c43be1eb2/1*KsUDR9hAP-dumiJEsC5Reg.jpeg)
 
 Photo by [Morten Uglum](https://www.aftenposten.no/norge/i/RReyM8/plasserte-ut-7499-par-sko-paa-strand-i-oslo-for-demonstrere-for-barn-paa-lesbos?fbclid=IwAR3JlT7YwrXBOqEJ7hOp5Zx2hmeiQThIvyIsbfLOOg09LHKI9GODXK1BJCM)
 ### In a demonstration outside of Oslo on Tuesday, 7499 pairs of shoes were placed on Ulvøya beach\.
@@ -337,13 +337,13 @@ Photo by [Morten Uglum](https://www.aftenposten.no/norge/i/RReyM8/plasserte-ut-7
 Originally, the shoes were going to be placed in front of the Norwegian parliament, but plans changed due to the pandemic\. One single pair of shoes will be placed the capital’s steps on Wednesday in solidarity\. An online demonstration will be happening at the same time in the afternoon\. 9,000 people are counting have signed up for the demonstration on Facebook\. Find it [here\.](https://www.facebook.com/events/344419563122996/)
 
 
-![Photo by [Morten Uglum](https://www.aftenposten.no/norge/i/RReyM8/plasserte-ut-7499-par-sko-paa-strand-i-oslo-for-demonstrere-for-barn-paa-lesbos?fbclid=IwAR3JlT7YwrXBOqEJ7hOp5Zx2hmeiQThIvyIsbfLOOg09LHKI9GODXK1BJCM)](assets/1b1c43be1eb2/1*uPeCPGUSwvRWaJSyoPxLFg.jpeg)
+![Photo by [Morten Uglum](https://www.aftenposten.no/norge/i/RReyM8/plasserte-ut-7499-par-sko-paa-strand-i-oslo-for-demonstrere-for-barn-paa-lesbos?fbclid=IwAR3JlT7YwrXBOqEJ7hOp5Zx2hmeiQThIvyIsbfLOOg09LHKI9GODXK1BJCM)](../assets/1b1c43be1eb2/1*uPeCPGUSwvRWaJSyoPxLFg.jpeg)
 
 Photo by [Morten Uglum](https://www.aftenposten.no/norge/i/RReyM8/plasserte-ut-7499-par-sko-paa-strand-i-oslo-for-demonstrere-for-barn-paa-lesbos?fbclid=IwAR3JlT7YwrXBOqEJ7hOp5Zx2hmeiQThIvyIsbfLOOg09LHKI9GODXK1BJCM)
 #### GENERAL
 
 
-![Helpful map showing various virus spreading constraints countries are enacting\. Photo by [Frontex](https://frontex.europa.eu/media-centre/news-release/covid-19-restrictions-4IdY3J?fbclid=IwAR25cjpBK3IN3JcnLuLhudEJDyecCi0DD26GF8ivzuxcp4VG2BeIobQgVyk)](assets/1b1c43be1eb2/1*S0WS6PWWYivOojhhSfUASQ.png)
+![Helpful map showing various virus spreading constraints countries are enacting\. Photo by [Frontex](https://frontex.europa.eu/media-centre/news-release/covid-19-restrictions-4IdY3J?fbclid=IwAR25cjpBK3IN3JcnLuLhudEJDyecCi0DD26GF8ivzuxcp4VG2BeIobQgVyk)](../assets/1b1c43be1eb2/1*S0WS6PWWYivOojhhSfUASQ.png)
 
 Helpful map showing various virus spreading constraints countries are enacting\. Photo by [Frontex](https://frontex.europa.eu/media-centre/news-release/covid-19-restrictions-4IdY3J?fbclid=IwAR25cjpBK3IN3JcnLuLhudEJDyecCi0DD26GF8ivzuxcp4VG2BeIobQgVyk)
 

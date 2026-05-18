@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 28/6/17: They decide, the others die
+title: "AYS Daily Digest 28/6/17: They decide, the others die"
 author: Are You Syrious?
 date: 2017-06-29T01:03:43.952+0100
 last_modified_at: 2017-07-02T22:57:34.367+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,greece,human-rights,europe,italy]
 description: Greek minister “managed the crisis just fine”/ Islands worried over water shortages and heat wave / Poor conditions in some of the camps /…
 image:
-  path: assets/277e82b42baa/1*2I5fbhcJRidvqxSZDdDa0w.jpeg
+  path: ../assets/277e82b42baa/1*2I5fbhcJRidvqxSZDdDa0w.jpeg
 ---
 
 ### AYS Daily Digest 28/6/17: They decide, the others die
@@ -15,12 +15,12 @@ image:
 _Greek minister “managed the crisis just fine”/ Islands worried over water shortages and heat wave / Poor conditions in some of the camps / Preparation for school / Reality in Serbian camps / French activists delay deportation / Protests in Germany against deportations to Afghanistan / And other news…_
 
 
-![_“They decide, the others die\.” \(Photo by Sea\-Watch\)_](assets/277e82b42baa/1*2I5fbhcJRidvqxSZDdDa0w.jpeg)
+![_“They decide, the others die\.” \(Photo by Sea\-Watch\)_](../assets/277e82b42baa/1*2I5fbhcJRidvqxSZDdDa0w.jpeg)
 
 _“They decide, the others die\.” \(Photo by Sea\-Watch\)_
 
 
-![Among the 1,032 people saved by the Aquarius today were two new born babies and many children\. \(Photo by [SOS MEDITERRANEE France](https://www.facebook.com/sosmedfrance/) \)](assets/277e82b42baa/1*FMHHC7YBXEFFPgYZdtQgFQ.jpeg)
+![Among the 1,032 people saved by the Aquarius today were two new born babies and many children\. \(Photo by [SOS MEDITERRANEE France](https://www.facebook.com/sosmedfrance/) \)](../assets/277e82b42baa/1*FMHHC7YBXEFFPgYZdtQgFQ.jpeg)
 
 Among the 1,032 people saved by the Aquarius today were two new born babies and many children\. \(Photo by [SOS MEDITERRANEE France](https://www.facebook.com/sosmedfrance/) \)
 ### FEATURE: The situation in Greece
@@ -69,7 +69,7 @@ Mr\. Mouzalas also said a large and important part of resolving the issues at ha
 Today we received worrying footage showing a cordon of policemen surrounding people going to the meal distribution area, standing in a line right next to them in the tight passage area\. If you have any information as to why this practice occurs, we appreciate it\.
 
 
-![Conditions in Moria camp\.](assets/277e82b42baa/1*0xrBOIohVxbwKGJS8TFlLg.jpeg)
+![Conditions in Moria camp\.](../assets/277e82b42baa/1*0xrBOIohVxbwKGJS8TFlLg.jpeg)
 
 Conditions in Moria camp\.
 
@@ -117,11 +117,11 @@ For more information, contact the Social Services of the Centre:
 tel\. 210 5225659 or email address: pappa\.caritas@gmail\.com
 
 
-![](assets/277e82b42baa/1*fLlqO5brqJ5hWM5SqNLWRA.jpeg)
+![](../assets/277e82b42baa/1*fLlqO5brqJ5hWM5SqNLWRA.jpeg)
 
 
 
-![Refugee Support Greece is moving their warehouse from Alexandreia to Ioannina to be closer to the camps where they work\. \(Photos by [Refugee Support Greece](https://www.facebook.com/RefugeeSupportGreece/) \)](assets/277e82b42baa/1*Zua5v6RpC4u9o14lMLdfpA.jpeg)
+![Refugee Support Greece is moving their warehouse from Alexandreia to Ioannina to be closer to the camps where they work\. \(Photos by [Refugee Support Greece](https://www.facebook.com/RefugeeSupportGreece/) \)](../assets/277e82b42baa/1*Zua5v6RpC4u9o14lMLdfpA.jpeg)
 
 Refugee Support Greece is moving their warehouse from Alexandreia to Ioannina to be closer to the camps where they work\. \(Photos by [Refugee Support Greece](https://www.facebook.com/RefugeeSupportGreece/) \)
 ### SERBIA
@@ -182,14 +182,14 @@ However, the temporary nature of reception — it lasts for only 6 months — le
 Although a person can begin to work in Italy once 60 days have passed since they made their asylum request, the reality is that many people end up jobless, in informal squatted barracks, in large military compounds, on the street, or trying to cross to another country to seek protection if they are denied asylum in Italy, even if they spent a length of time in a CAS centre or passed one of SPRAR program’s\.
 
 
-![A Temporary Reception Centre \(CAS\) \. \(Photo by AYS\)](assets/277e82b42baa/1*5HjrHw79GBTxXi_bR3Bg9w.jpeg)
+![A Temporary Reception Centre \(CAS\) \. \(Photo by AYS\)](../assets/277e82b42baa/1*5HjrHw79GBTxXi_bR3Bg9w.jpeg)
 
 A Temporary Reception Centre \(CAS\) \. \(Photo by AYS\)
 
 In the Temporary Reception Centres \(CAS\), things very much depend on the organization implementing the project and running the centre\. In the case of the organization of one of the houses that serves as a CAS centre in Treviso, there is a strong engagement from both the volunteers running the place as well as those asylum seekers who are living there, with several working in close collaboration with the management\.
 
 
-![A CAS\. \(Photo by AYS\)](assets/277e82b42baa/1*WMjYsOZpL-PUEn39hd5dPw.jpeg)
+![A CAS\. \(Photo by AYS\)](../assets/277e82b42baa/1*WMjYsOZpL-PUEn39hd5dPw.jpeg)
 
 A CAS\. \(Photo by AYS\)
 
@@ -202,7 +202,7 @@ There are other such examples of successful programs, but unfortunately they are
 As thousands of people arrive in the south of Italy and European countries, most of whom have shown not enough solidarity even with their EU family countries, authorities continue to be slow in relocating them\. If nothing is done, welcoming people will remain an interlocking pattern of good and poor practice, while refugees’ lives will remain a side thought\.
 
 
-![“Let’s beat the walls of ignorance\!” \(Photo by AYS\)](assets/277e82b42baa/1*dza4Z9Yagd9YyCLrxxBfnw.jpeg)
+![“Let’s beat the walls of ignorance\!” \(Photo by AYS\)](../assets/277e82b42baa/1*dza4Z9Yagd9YyCLrxxBfnw.jpeg)
 
 “Let’s beat the walls of ignorance\!” \(Photo by AYS\)
 ### FRANCE
@@ -213,7 +213,7 @@ French activists hurried to the airport, talked to passengers in the check\-in q
 The man who was to be deported had been put in a mask and handcuffs, but he started shouting when the plane was moving, so the other passengers stood up and insisted he be taken off the aircraft\.
 
 
-![Infographic courtesy of [Bente Jæger](https://www.facebook.com/bente.jaeger) \.](assets/277e82b42baa/1*3OwncOemMjespiZRdvW3DA.jpeg)
+![Infographic courtesy of [Bente Jæger](https://www.facebook.com/bente.jaeger) \.](../assets/277e82b42baa/1*3OwncOemMjespiZRdvW3DA.jpeg)
 
 Infographic courtesy of [Bente Jæger](https://www.facebook.com/bente.jaeger) \.
 ### GERMANY
@@ -222,7 +222,7 @@ Infographic courtesy of [Bente Jæger](https://www.facebook.com/bente.jaeger) \.
 [Young Germans](https://www.facebook.com/Berliner-B%C3%BCndnis-gegen-Abschiebungen-nach-Afghanistan-1238755006209666/) gathered yesterday in Berlin to demonstrate their clear stance against deportations from Germany to Afghanistan\.
 
 
-![Young Germans speak out against the deportation of Afghani nationals\. \(Photo by [Berliner Bündnis gegen Abschiebungen nach Afghanistan](https://www.facebook.com/Berliner-B%C3%BCndnis-gegen-Abschiebungen-nach-Afghanistan-1238755006209666/) \)](assets/277e82b42baa/1*i419NqelK9EBHXoxMb4XIg.jpeg)
+![Young Germans speak out against the deportation of Afghani nationals\. \(Photo by [Berliner Bündnis gegen Abschiebungen nach Afghanistan](https://www.facebook.com/Berliner-B%C3%BCndnis-gegen-Abschiebungen-nach-Afghanistan-1238755006209666/) \)](../assets/277e82b42baa/1*i419NqelK9EBHXoxMb4XIg.jpeg)
 
 Young Germans speak out against the deportation of Afghani nationals\. \(Photo by [Berliner Bündnis gegen Abschiebungen nach Afghanistan](https://www.facebook.com/Berliner-B%C3%BCndnis-gegen-Abschiebungen-nach-Afghanistan-1238755006209666/) \)
 

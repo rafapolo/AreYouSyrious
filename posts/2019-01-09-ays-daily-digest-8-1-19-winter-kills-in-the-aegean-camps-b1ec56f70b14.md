@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,greece,human-rights,lesvos,borders]
 description: Refugees still stuck on Sea-Watch 3// Pakistani man dies on Rhodes//Police brutality in Petrou Ralli// Elderly woman living in tent camp…
 image:
-  path: assets/b1ec56f70b14/1*QGsONeccrZvTt9S8T_p7sg.jpeg
+  path: ../assets/b1ec56f70b14/1*QGsONeccrZvTt9S8T_p7sg.jpeg
 ---
 
 ### AYS Daily Digest 8/1/19 — Winter Kills in the Aegean Camps
@@ -15,7 +15,7 @@ image:
 
 
 ![Vial camp on Chios, 8/1/19\. Photo Credit: Heidi Mogstad\. “In the tent to the left of the picture lives a newly arrived family from Syria\. The father of the family has only one leg and was limping around on crutches when I met him\. While naturally distressed about the situation, he nevertheless smiled to us and joked with his beautiful 3 years old daughter, who had joined us making bracelets\. His wife is nearly 9
-months pregnant, he told us, so he wanted to ask the authorities if the family could move into a container\. ‘Can you help me?’ he asked me\. Shameful, I had to tell him no, but we promised to save a bag of toiletries for the family and a fellow volunteer decided to look for a twin stroller\.”](assets/b1ec56f70b14/1*QGsONeccrZvTt9S8T_p7sg.jpeg)
+months pregnant, he told us, so he wanted to ask the authorities if the family could move into a container\. ‘Can you help me?’ he asked me\. Shameful, I had to tell him no, but we promised to save a bag of toiletries for the family and a fellow volunteer decided to look for a twin stroller\.”](../assets/b1ec56f70b14/1*QGsONeccrZvTt9S8T_p7sg.jpeg)
 
 Vial camp on Chios, 8/1/19\. Photo Credit: Heidi Mogstad\. “In the tent to the left of the picture lives a newly arrived family from Syria\. The father of the family has only one leg and was limping around on crutches when I met him\. While naturally distressed about the situation, he nevertheless smiled to us and joked with his beautiful 3 years old daughter, who had joined us making bracelets\. His wife is nearly 9
 months pregnant, he told us, so he wanted to ask the authorities if the family could move into a container\. ‘Can you help me?’ he asked me\. Shameful, I had to tell him no, but we promised to save a bag of toiletries for the family and a fellow volunteer decided to look for a twin stroller\.”
@@ -39,7 +39,7 @@ Life is similarly precarious in the Moria camp on Lesbos, where a young Cameroon
 
 
 
-![An Afghan friend who is in the field of Moria: “A week ago we have no electricity, today a boy has died\. In Europe you don’t see us or hear us\. How can it be?” Photo Credit: [Fotomovimiento](https://www.facebook.com/Fotomovimiento.org/posts/2132200566847513)](assets/b1ec56f70b14/1*i5yFmnRPHO1Kxstn480XRQ.jpeg)
+![An Afghan friend who is in the field of Moria: “A week ago we have no electricity, today a boy has died\. In Europe you don’t see us or hear us\. How can it be?” Photo Credit: [Fotomovimiento](https://www.facebook.com/Fotomovimiento.org/posts/2132200566847513)](../assets/b1ec56f70b14/1*i5yFmnRPHO1Kxstn480XRQ.jpeg)
 
 An Afghan friend who is in the field of Moria: “A week ago we have no electricity, today a boy has died\. In Europe you don’t see us or hear us\. How can it be?” Photo Credit: [Fotomovimiento](https://www.facebook.com/Fotomovimiento.org/posts/2132200566847513)
 
@@ -47,12 +47,12 @@ On Samos, thousands of people are also sleeping in flimsy tents, exposed to the 
 ### Sea
 
 
-![Photo Credit: Brendan Woodhouse\. “Today a baby is learning to walk on the Seawatch 3\. She should be learning to walk on land\. End her incarceration on the sea now\. Open the ports\!” \(Photo taken and used with permission from her mother\. \)](assets/b1ec56f70b14/1*ILN3LCsmD0vMJPLKCqVu9g.jpeg)
+![Photo Credit: Brendan Woodhouse\. “Today a baby is learning to walk on the Seawatch 3\. She should be learning to walk on land\. End her incarceration on the sea now\. Open the ports\!” \(Photo taken and used with permission from her mother\. \)](../assets/b1ec56f70b14/1*ILN3LCsmD0vMJPLKCqVu9g.jpeg)
 
 Photo Credit: Brendan Woodhouse\. “Today a baby is learning to walk on the Seawatch 3\. She should be learning to walk on land\. End her incarceration on the sea now\. Open the ports\!” \(Photo taken and used with permission from her mother\. \)
 
 
-![A family stuck aboard the Sea\-Watch 3\. Photo Credit: [Federico Scoppa](https://federicoscoppa.photoshelter.com/index) \.](assets/b1ec56f70b14/1*HcaiWzq7-yJevGkRw8HhNQ.jpeg)
+![A family stuck aboard the Sea\-Watch 3\. Photo Credit: [Federico Scoppa](https://federicoscoppa.photoshelter.com/index) \.](../assets/b1ec56f70b14/1*HcaiWzq7-yJevGkRw8HhNQ.jpeg)
 
 A family stuck aboard the Sea\-Watch 3\. Photo Credit: [Federico Scoppa](https://federicoscoppa.photoshelter.com/index) \.
 #### Day 18 at sea for the Sea\-Watch 3

@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 15/06/2017: Another chance for justice in Hungary to win — retrial of Ahmed H.
+title: "AYS DAILY DIGEST 15/06/2017: Another chance for justice in Hungary to win — retrial of Ahmed H."
 author: Are You Syrious?
 date: 2017-06-15T22:49:50.157+0100
 last_modified_at: 2017-06-16T08:22:03.901+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,hungary,ahmedh,rome,chios]
 description: Ahmed H. is still in prisons despite the court decision about the inconsistent evidence during the first instance trial // Second instance…
 image:
-  path: assets/5118635b3cb1/1*xSRAJ_eCjPaIfHCcsJpztA.jpeg
+  path: ../assets/5118635b3cb1/1*xSRAJ_eCjPaIfHCcsJpztA.jpeg
 ---
 
 ### AYS DAILY DIGEST 15/06/2017: Another chance for justice in Hungary to win — retrial of Ahmed H\.
@@ -15,7 +15,7 @@ image:
 _Ahmed H\. is still in prisons despite the court decision about the inconsistent evidence during the first instance trial // Second instance trial for Ahmed H\. started today // 820 arrived in Greece so far in June // Dreadful living conditions for refugees in Italy and France // More reports about police violence in Hungary_
 
 
-![Photo by Migszol](assets/5118635b3cb1/1*xSRAJ_eCjPaIfHCcsJpztA.jpeg)
+![Photo by Migszol](../assets/5118635b3cb1/1*xSRAJ_eCjPaIfHCcsJpztA.jpeg)
 
 Photo by Migszol
 ### Feature
@@ -42,7 +42,7 @@ Officially, 151 new arrivals were registered during a day: Lesvos 54, Chios 74, 
 Despite numerous new arrivals, today the UNHCR decided to stop the buses from Vial to Chios town and the opposite in the end of the month\. We do not have details about this decision yet\. The day before, the municipality of Chios began clearing 137 tents on the beach\.
 
 
-![By [**@** gfabf\_info](https://twitter.com/gfabf_info)](assets/5118635b3cb1/1*L9di864LVAAaklnxFnuRcg.jpeg)
+![By [**@** gfabf\_info](https://twitter.com/gfabf_info)](../assets/5118635b3cb1/1*L9di864LVAAaklnxFnuRcg.jpeg)
 
 By [**@** gfabf\_info](https://twitter.com/gfabf_info)
 
@@ -161,15 +161,15 @@ In another conversation, the boss is heard saying “It cannot happen that \[the
 The situation in Rome is degrading rapidly\. [A friends from Baobab are reporting](https://www.facebook.com/BaobabExperience/posts/1364729323603816) about the men, women, and children who are staying in two run\-down buildings in Via Vannina, given no other available structure\.
 
 
-![](assets/5118635b3cb1/1*d3NEQfpEyobMg6tphPND9Q.jpeg)
+![](../assets/5118635b3cb1/1*d3NEQfpEyobMg6tphPND9Q.jpeg)
 
 
 
-![](assets/5118635b3cb1/1*uXCxhRACufVriNBN_73OBw.jpeg)
+![](../assets/5118635b3cb1/1*uXCxhRACufVriNBN_73OBw.jpeg)
 
 
 
-![Photos Baobab](assets/5118635b3cb1/1*VOIUW8OMPiYI0Pd8YfYQ2g.jpeg)
+![Photos Baobab](../assets/5118635b3cb1/1*VOIUW8OMPiYI0Pd8YfYQ2g.jpeg)
 
 Photos Baobab
 
@@ -207,7 +207,7 @@ For more, in French, see [here](https://www.defenseurdesdroits.fr/node/23871...)
 [Care4Calais announces](https://www.facebook.com/care4calais/posts/1574513022581649:0) that the will stop with their activities on the ground in Calais for a couple of weeks\. The reason is, as they said, “the complicated political and security situation there at the moment”\. In the statement on their FB page, they wrote that the foundings will be used in Belgium and Paris\.
 
 
-![](assets/5118635b3cb1/1*m6ul3UoA6bm6Mi5A_tA0Wg.jpeg)
+![](../assets/5118635b3cb1/1*m6ul3UoA6bm6Mi5A_tA0Wg.jpeg)
 
 
 For all of those who already have plans to volunteer in Calais in the immediate future, see other groups who are operating in the field, including [Utopia56](http://www.utopia56.com/en) \.

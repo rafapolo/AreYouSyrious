@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 27/09/19: Deprived of rights, now also of basic assistance — who has the stamina…
+title: "AYS Daily Digest 27/09/19: Deprived of rights, now also of basic assistance — who has the stamina…"
 author: Are You Syrious?
 date: 2019-09-28T14:38:58.209+0100
 last_modified_at: 2019-09-28T14:38:58.209+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,bosnia-and-herzegovina,human-rights,migration]
 description: Medical team expelled from Vučjak camp // five children and two women drowned in Aegean // Aegean boat report // Voluntary Return Programme…
 image:
-  path: assets/89f62b9e4b88/0*XmmsscwlwKeDBSPA.jpeg
+  path: ../assets/89f62b9e4b88/0*XmmsscwlwKeDBSPA.jpeg
 ---
 
 ### AYS Daily Digest 27/09/19: Deprived of rights, now also of basic assistance — who has the stamina to invoke the rule of law in Vučjak?
 ### Medical team expelled from Vučjak camp // five children and two women drowned in Aegean // Aegean boat report // Voluntary Return Programme is running again // Updates from the situation in Dunkirk
 
 
-![](assets/89f62b9e4b88/0*S0PKDFbk7nJRMX-1.jpeg)
+![](../assets/89f62b9e4b88/0*S0PKDFbk7nJRMX-1.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----e3bdfebe32a7----------------------)
@@ -22,11 +22,11 @@ image:
 [Sep 28](ays-daily-digest-27-09-19-deprived-of-rights-now-also-of-the-basic-assistance-who-has-the-e3bdfebe32a7?source=post_page-----e3bdfebe32a7----------------------) · 7 min read
 
 
-![](assets/89f62b9e4b88/0*_TWmICaYLyQEMXIN)
+![](../assets/89f62b9e4b88/0*_TWmICaYLyQEMXIN)
 
 
 
-![](assets/89f62b9e4b88/0*XmmsscwlwKeDBSPA.jpeg)
+![](../assets/89f62b9e4b88/0*XmmsscwlwKeDBSPA.jpeg)
 
 ### FEATURED
 

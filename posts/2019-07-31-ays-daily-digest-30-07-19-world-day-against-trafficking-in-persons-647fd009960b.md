@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 30/07/19: World day against trafficking in persons
+title: "AYS Daily Digest 30/07/19: World day against trafficking in persons"
 author: Are You Syrious?
 date: 2019-07-31T11:45:21.094+0100
 last_modified_at: 2019-07-31T11:45:21.094+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,libya,trafficking,europe]
 description: Human trafficking and deportations to Libya // arrests in Greece // information and support for people in French centres of administrative…
 image:
-  path: assets/647fd009960b/1*pALbIj5359jnnZyV1yIqoQ.jpeg
+  path: ../assets/647fd009960b/1*pALbIj5359jnnZyV1yIqoQ.jpeg
 ---
 
 ### AYS Daily Digest 30/07/19: World day against trafficking in persons
 #### Human trafficking and deportations to Libya // arrests in Greece // information and support for people in French centres of administrative detention // SAR operations
 
 
-![Peace by Arcadio Esquivel](assets/647fd009960b/1*pALbIj5359jnnZyV1yIqoQ.jpeg)
+![Peace by Arcadio Esquivel](../assets/647fd009960b/1*pALbIj5359jnnZyV1yIqoQ.jpeg)
 
 Peace by Arcadio Esquivel
 #### FEATURED
@@ -65,7 +65,7 @@ Sea Watch team writes:
 
 
 
-![by [Sea\-Watch](https://www.facebook.com/seawatchprojekt/?tn-str=k%2AF&hc_location=group_dialog)](assets/647fd009960b/1*awiLbXcWtEFqhjrE_2oaEw.jpeg)
+![by [Sea\-Watch](https://www.facebook.com/seawatchprojekt/?tn-str=k%2AF&hc_location=group_dialog)](../assets/647fd009960b/1*awiLbXcWtEFqhjrE_2oaEw.jpeg)
 
 by [Sea\-Watch](https://www.facebook.com/seawatchprojekt/?tn-str=k%2AF&hc_location=group_dialog)
 #### GREECE
@@ -112,7 +112,7 @@ Many people are worried about their friends and family in France who are in the 
 
 
 
-![Text and photo: No Name Kitchen](assets/647fd009960b/1*o-yxOCrkVZxc4FtHmVVFbQ.jpeg)
+![Text and photo: No Name Kitchen](../assets/647fd009960b/1*o-yxOCrkVZxc4FtHmVVFbQ.jpeg)
 
 Text and photo: No Name Kitchen
 ### AYS and the Daily News Digest — how to get involved?

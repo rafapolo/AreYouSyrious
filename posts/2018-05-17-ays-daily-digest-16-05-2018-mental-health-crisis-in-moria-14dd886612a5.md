@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 16/05/2018: Mental health crisis in Moria
+title: "AYS Daily Digest 16/05/2018: Mental health crisis in Moria"
 author: Are You Syrious?
 date: 2018-05-17T09:14:55.410+0100
 last_modified_at: 2018-05-18T05:21:53.533+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,bosnia,asylum-seekers,volunteering]
 description: About 14,200 refugees and migrants reside on the islands / Charges against the captain of Proactiva Open Arms dropped / Between 50 and 100…
 image:
-  path: assets/14dd886612a5/1*Oxc_feHBjpiBMUadkTMPnQ.jpeg
+  path: ../assets/14dd886612a5/1*Oxc_feHBjpiBMUadkTMPnQ.jpeg
 ---
 
 ### AYS Daily Digest 16/05/2018: Mental health crisis in Moria
@@ -15,7 +15,7 @@ image:
 _About 14,200 refugees and migrants reside on the islands / Charges against the captain of Proactiva Open Arms dropped / Between 50 and 100 people pushed back from Croatia to Bosnia / Authorities set to open first camps in Bosnia / And more news…_
 
 
-![One of the make shift camps in Bosnia and Herzegovina\. Soon, the first camps should be open after more then 4,000 people came to the country in a five months period\. \(Photo taken in Velika Kladusa by Adis Imamović Piksi\)](assets/14dd886612a5/1*aVwHo2InMf_tuZltuxAHyw.png)
+![One of the make shift camps in Bosnia and Herzegovina\. Soon, the first camps should be open after more then 4,000 people came to the country in a five months period\. \(Photo taken in Velika Kladusa by Adis Imamović Piksi\)](../assets/14dd886612a5/1*aVwHo2InMf_tuZltuxAHyw.png)
 
 One of the make shift camps in Bosnia and Herzegovina\. Soon, the first camps should be open after more then 4,000 people came to the country in a five months period\. \(Photo taken in Velika Kladusa by Adis Imamović Piksi\)
 ### SEA
@@ -23,7 +23,7 @@ One of the make shift camps in Bosnia and Herzegovina\. Soon, the first camps sh
 A total of **222 people were [rescued](https://www.facebook.com/smhumanitario/posts/1706711936087316) on Wednesday in the Alborán Strait between Spain and North Africa** \. Some of the boats were in serious danger of sinking\.
 
 
-![Photo by [Salvamento Marítimo](https://www.facebook.com/salvamentomaritimo.es/)](assets/14dd886612a5/1*Oxc_feHBjpiBMUadkTMPnQ.jpeg)
+![Photo by [Salvamento Marítimo](https://www.facebook.com/salvamentomaritimo.es/)](../assets/14dd886612a5/1*Oxc_feHBjpiBMUadkTMPnQ.jpeg)
 
 Photo by [Salvamento Marítimo](https://www.facebook.com/salvamentomaritimo.es/)
 ### GREECE
@@ -43,7 +43,7 @@ They live in overcrowded camps, compared by different human rights activists to 
 Living conditions are not much better on the mainland\. Residents of the camp Katsikas have been [protesting](https://www.facebook.com/RefugeeSupportEurope/posts/2012629125723222) for the last two days due to the conditions they are forced to live in\. They say that with 450 people in the camp, the need for a medical team is urgent and that over 200 children need some form of education\.
 
 
-![Photo by [Refugee Support Europe](https://www.facebook.com/RefugeeSupportEurope/)](assets/14dd886612a5/1*U9G1hS2te8JMI1zQ1SF-QA.jpeg)
+![Photo by [Refugee Support Europe](https://www.facebook.com/RefugeeSupportEurope/)](../assets/14dd886612a5/1*U9G1hS2te8JMI1zQ1SF-QA.jpeg)
 
 Photo by [Refugee Support Europe](https://www.facebook.com/RefugeeSupportEurope/)
 
@@ -82,7 +82,7 @@ The [court in Sicily dropped charge](https://www.facebook.com/proactivaservice/p
 Saving lives is not a crime\.
 
 
-![Photo by Proactive Open Arms](assets/14dd886612a5/1*LqVDg157vYuRJaCQty1IXw.jpeg)
+![Photo by Proactive Open Arms](../assets/14dd886612a5/1*LqVDg157vYuRJaCQty1IXw.jpeg)
 
 Photo by Proactive Open Arms
 #### Fire hits Rome squat
@@ -90,7 +90,7 @@ Photo by Proactive Open Arms
 A fire hit an [informal occupation in Rome](https://m.facebook.com/story.php?story_fbid=1322862814524965&id=917394635071787) , where over 600 people live in total discomfort…
 
 
-![](assets/14dd886612a5/1*u2GPO75MqYGbLRtTc0l1KQ.jpeg)
+![](../assets/14dd886612a5/1*u2GPO75MqYGbLRtTc0l1KQ.jpeg)
 
 
 The fires developed due to the amount of garbage\. Nobody was hurt, but many people lost their documents in the fire\.
@@ -104,11 +104,11 @@ The group started out around 11pm or 12am and were returned around 5pm\.
 The large group left after hearing rumours that the border would be opened today\. They were stopped by police and held for several hours at the border crossing of Maljevac\.
 
 
-![](assets/14dd886612a5/1*RaytW97Poq0XQ-u6AdMSKA.jpeg)
+![](../assets/14dd886612a5/1*RaytW97Poq0XQ-u6AdMSKA.jpeg)
 
 
 
-![One attendant showing where they were before they were pushed back\. \(Photo by AYS\)](assets/14dd886612a5/1*z96O9QlhMfJmQL4EUL8cfA.jpeg)
+![One attendant showing where they were before they were pushed back\. \(Photo by AYS\)](../assets/14dd886612a5/1*z96O9QlhMfJmQL4EUL8cfA.jpeg)
 
 One attendant showing where they were before they were pushed back\. \(Photo by AYS\)
 

@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 4/12/17: Syrian Man Attempts the Sea Crossing Alone
+title: "AYS DAILY DIGEST 4/12/17: Syrian Man Attempts the Sea Crossing Alone"
 author: Are You Syrious?
 date: 2017-12-05T02:49:46.943+0000
 last_modified_at: 2017-12-05T09:13:09.938+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,rescue,libya,human-rights,germany]
 description: //Rescues at Sea//attacks on press in Greece//Illegal arrests on Lesbos//Donation needs in Athens//Activist faces bogus charges in…
 image:
-  path: assets/768f7b6d701d/1*-EwaeeE52UjL713xoHJATA.jpeg
+  path: ../assets/768f7b6d701d/1*-EwaeeE52UjL713xoHJATA.jpeg
 ---
 
 ### AYS DAILY DIGEST 4/12/17: Syrian Man Attempts the Sea Crossing Alone
@@ -15,7 +15,7 @@ image:
 //Rescues at Sea//attacks on press in Greece//Illegal arrests on Lesbos//Donation needs in Athens//Activist faces bogus charges in Morocco//Sleeping rough in France//German pilots resist deportations\!//and more\. \. \.
 
 
-![A night rescue in the Mediterranean\. Photo Credit: [SMH](https://www.facebook.com/smhumanitario/)](assets/768f7b6d701d/1*-EwaeeE52UjL713xoHJATA.jpeg)
+![A night rescue in the Mediterranean\. Photo Credit: [SMH](https://www.facebook.com/smhumanitario/)](../assets/768f7b6d701d/1*-EwaeeE52UjL713xoHJATA.jpeg)
 
 A night rescue in the Mediterranean\. Photo Credit: [SMH](https://www.facebook.com/smhumanitario/)
 ### SEA
@@ -77,13 +77,13 @@ Today the journalist and photographer Patrick Strickland released some images fr
 ECRI put out a call for support for there work in Moria today\. You can donate [here](https://ercimed.causevox.com) \.
 
 
-![](assets/768f7b6d701d/1*IzK7xpaOu4sQbaw15gbBiQ.jpeg)
+![](../assets/768f7b6d701d/1*IzK7xpaOu4sQbaw15gbBiQ.jpeg)
 
 
 The activist Arash Hampay reported today that tonight 30 refugees from the Moria camp on Lesbos went to protest in the town square\. All of them were arrested shortly thereafter\. Hampay [wrote](https://www.facebook.com/photo.php?fbid=555105734835517&set=a.543629595983131.1073741843.100010082855510&type=3&theater) , “We need legal advice because we can expect the [\#police](https://www.facebook.com/hashtag/police) to act in an illegal manner\. This was evident in the way in which they treated my brother — threatening to [\#deport](https://www.facebook.com/hashtag/deport) him\!”
 
 
-![Police illegally detaining refugees, 4/12/17, Lesbos\. Photo Credit: [No Borders Kitchen](https://www.facebook.com/NBKLesvos/)](assets/768f7b6d701d/1*b9SJ3fHw8jlUv_0inInZ2g.jpeg)
+![Police illegally detaining refugees, 4/12/17, Lesbos\. Photo Credit: [No Borders Kitchen](https://www.facebook.com/NBKLesvos/)](../assets/768f7b6d701d/1*b9SJ3fHw8jlUv_0inInZ2g.jpeg)
 
 Police illegally detaining refugees, 4/12/17, Lesbos\. Photo Credit: [No Borders Kitchen](https://www.facebook.com/NBKLesvos/)
 
@@ -94,7 +94,7 @@ The [Hope Project](https://www.facebook.com/HopeProjectKempsons/) on Lesbos has 
 The [NoBorders](https://www.facebook.com/nobordersnetwork/) network has put out a call for solidarity for a young Syrian facing deportation on the island of Rhodes\. From their statement:
 
 
-![Ahmet Satuff\. Photo Credit: [NoBorders](https://www.facebook.com/nobordersnetwork/)](assets/768f7b6d701d/1*fFWLdnYno9WwYGov9z1Kag.png)
+![Ahmet Satuff\. Photo Credit: [NoBorders](https://www.facebook.com/nobordersnetwork/)](../assets/768f7b6d701d/1*fFWLdnYno9WwYGov9z1Kag.png)
 
 Ahmet Satuff\. Photo Credit: [NoBorders](https://www.facebook.com/nobordersnetwork/)
 
@@ -134,7 +134,7 @@ The mayor, police chief, and religious leaders in Como [announced](https://ecoin
 The Spanish journalist and human rights defender Helena Maleno Garzon has been requested to appear before a Moroccan court \(her country of residence\) \. While the charges against her are forthcoming, the international human rights organization [FIDH has surmised](https://www.fidh.org/en/issues/human-rights-defenders/shrinking-space-for-civil-society/defendingmaleno?var_mode=calcul) from the court documents that she is being charged with involvement in human trafficking\. This charge appears to stem from the fact that, because of her long standing work as an advocate, she is a frequent point of contact for refugees crossing the Mediterranean\. In particular, she has been called by many refugees requiring emergency rescue at sea\.
 
 
-![Photo from Helena Garzon’s facebook\.](assets/768f7b6d701d/1*hyDXdUL0naDcw6-xVkJNww.jpeg)
+![Photo from Helena Garzon’s facebook\.](../assets/768f7b6d701d/1*hyDXdUL0naDcw6-xVkJNww.jpeg)
 
 Photo from Helena Garzon’s facebook\.
 
@@ -153,7 +153,7 @@ While the Utopia group has had great success with their initiative, there are st
 
 
 
-![Photo Credit: [Care4Calais](https://www.facebook.com/care4calais/)](assets/768f7b6d701d/1*ejRV8rcez3NYx-pZKDCmpg.jpeg)
+![Photo Credit: [Care4Calais](https://www.facebook.com/care4calais/)](../assets/768f7b6d701d/1*ejRV8rcez3NYx-pZKDCmpg.jpeg)
 
 Photo Credit: [Care4Calais](https://www.facebook.com/care4calais/)
 

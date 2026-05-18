@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 16/06: This is why men flee war.
+title: "AYS News Digest 16/06: This is why men flee war."
 author: Are You Syrious?
 date: 2016-06-16T22:55:52.486+0100
 last_modified_at: 2016-06-17T10:42:48.677+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,migration,greece,syria]
 description: New testimonies of torture in Fallujah. Ceasefire doomed, MSF hospital shut down after attacks on Aleppo. Greece passed legislation to…
 image:
-  path: assets/5396c542bb55/1*vLxrgaherVD8bZI6QWtKvw.jpeg
+  path: ../assets/5396c542bb55/1*vLxrgaherVD8bZI6QWtKvw.jpeg
 ---
 
 ### AYS News Digest 16/06: This is why men flee war\.
@@ -16,7 +16,7 @@ image:
 ### Fallujah civillians describe torture under both ISIS and Iraqi government regime
 
 
-![Three men say they have been tortured while held captive by sectarian militia\. Photo: Salam Khoder/Al Jazeera](assets/5396c542bb55/1*vLxrgaherVD8bZI6QWtKvw.jpeg)
+![Three men say they have been tortured while held captive by sectarian militia\. Photo: Salam Khoder/Al Jazeera](../assets/5396c542bb55/1*vLxrgaherVD8bZI6QWtKvw.jpeg)
 
 Three men say they have been tortured while held captive by sectarian militia\. Photo: Salam Khoder/Al Jazeera
 
@@ -36,7 +36,7 @@ Unfortunately, MSF\-supported Omar Bin Abdulaziz hospital in Aleppo is out of se
 ### Government helicopters have dropped 32 barrel bombs on the besieged city of Daraya
 
 
-[![شاهد لحظة سقوط البراميل المتفجرة على مدينة داريا من الطائرات المروحية](assets/5396c542bb55/0c6f_hqdefault.jpg "شاهد لحظة سقوط البراميل المتفجرة على مدينة داريا من الطائرات المروحية")](http://www.youtube.com/watch?v=FmZEOA8-ur8)
+[![شاهد لحظة سقوط البراميل المتفجرة على مدينة داريا من الطائرات المروحية](../assets/5396c542bb55/0c6f_hqdefault.jpg "شاهد لحظة سقوط البراميل المتفجرة على مدينة داريا من الطائرات المروحية")](http://www.youtube.com/watch?v=FmZEOA8-ur8)
 
 
 According to Daraya Council, regime helicopters have dropped 32 barrel bombs to the beseiged city of Daraya\. This attack comes only a week after the the first delivery of aid since the start of a siege in 2012\. was allowed to enter Daraya\. Donated food will be sufficient only for the next three weeks\.
@@ -65,7 +65,7 @@ US military ship Grapple set sail from Souda Bay in Greece, with the primary mis
 Following suprisingly fast pre\-registration procedure in Cherso, all of the 3,987 refugees in Cherso camp have got their pre\-registration bracelets\. First registrations in Thessaloniki will start tomorrow, with bus shuttles for refugees pre\-registered in Cherso, according to AYS volunteers on site\.
 
 
-![Suprisingly fast: pre\-registered two days ago, interview scheduled for tomorrow\. Photo: Azra Ayyash, AYS](assets/5396c542bb55/1*dgIIMahFytp60fHeTjQFUQ.jpeg)
+![Suprisingly fast: pre\-registered two days ago, interview scheduled for tomorrow\. Photo: Azra Ayyash, AYS](../assets/5396c542bb55/1*dgIIMahFytp60fHeTjQFUQ.jpeg)
 
 Suprisingly fast: pre\-registered two days ago, interview scheduled for tomorrow\. Photo: Azra Ayyash, AYS
 
@@ -80,7 +80,7 @@ According to the [News That Moves](https://newsthatmoves.org/en/no-pre-registrat
 Yesterday, the decision was made by the EOT Ministry of Culture and Tourism \(Licensing Committee\) that never, under any circumstances, will they allow the Hope Centre Elpis to be used to assist the refugees on Lesvos, not even as a warehouse\. They made it perfectly clear in the meeting that the officials in Molyvos will do everything within their power to destroy any volunteer efforts to support the refugees, as reported by The Hope Centre volunteers\. In addition to the ban, they are being personally sued for 10,000 Euros by the Hotel Licensing committee for “running a hotel without a licence”\.
 
 
-![Volunteers have spent months renovating the abandoned facility\. Photo: The Hope Centre](assets/5396c542bb55/1*uHDODG_SNVr8rzJhMuOmEg.jpeg)
+![Volunteers have spent months renovating the abandoned facility\. Photo: The Hope Centre](../assets/5396c542bb55/1*uHDODG_SNVr8rzJhMuOmEg.jpeg)
 
 Volunteers have spent months renovating the abandoned facility\. Photo: The Hope Centre
 
@@ -97,7 +97,7 @@ The Hope Centre was envisioned as a safe, warm space offering dignified support 
 The City Plaza is a hotel located in the heart of Athens\. It was a symbol of the Greek crisis\. For years it was closed because the owner could no longer pay out wages\. The hotel was occupied in April by an activist group and it currently houses 400 refugees, including 185 children\.
 
 
-[![The best hotel in Europe](assets/5396c542bb55/8934_hqdefault.jpg "The best hotel in Europe")](http://www.youtube.com/watch?v=bqsWqFGQiss)
+[![The best hotel in Europe](../assets/5396c542bb55/8934_hqdefault.jpg "The best hotel in Europe")](http://www.youtube.com/watch?v=bqsWqFGQiss)
 
 
 Volunteers of City Plaza have started a [fundraising campaign](http://best-hotel-in-europe.eu/) , allowing you to “book a room” or make an individual donation to support their efforts\.

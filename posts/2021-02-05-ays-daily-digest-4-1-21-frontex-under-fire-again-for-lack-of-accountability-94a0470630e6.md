@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 4/1/21: Frontex Under Fire (Again) for Lack of Accountability
+title: "AYS Daily Digest 4/1/21: Frontex Under Fire (Again) for Lack of Accountability"
 author: Are You Syrious?
 date: 2021-02-05T15:41:27.038+0000
 last_modified_at: 2021-02-05T15:41:27.038+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,europe,refugees,borders,human-rights]
 description: Frontex failed to provide information on three incidents identified by the Working Group / on the misconceptions about asylum seekers on…
 image:
-  path: assets/94a0470630e6/0*tu0g2ly_-Zzo41JA
+  path: ../assets/94a0470630e6/0*tu0g2ly_-Zzo41JA
 ---
 
 ### AYS Daily Digest 4/1/21: Frontex Under Fire \(Again\) for Lack of Accountability
 #### Frontex failed to provide information on three incidents identified by the Working Group / on the misconceptions about asylum seekers on the Canary islands/ After an 11 year battle with the Home Office, an activist wins fight to stay / Info on workshops, screenings, reports & more
 
 
-![Photo source: Frontex Twitter](assets/94a0470630e6/0*tu0g2ly_-Zzo41JA)
+![Photo source: Frontex Twitter](../assets/94a0470630e6/0*tu0g2ly_-Zzo41JA)
 
 Photo source: Frontex Twitter
 #### **FEATURE:** Frontex working group urges transparency
@@ -22,7 +22,7 @@ Photo source: Frontex Twitter
 The civil liberties monitor ‘Statewatch’ [published](https://www.statewatch.org/news/2021/february/frontex-management-board-pushes-back-against-secrecy-proposals-in-preliminary-report/?fbclid=IwAR1iRVsy8QDQEOxInhJORopyPFrvcSE8f9kt__JxJ4ONpofEzR0yDuSOnzw) the preliminary report of Frontex’s Working Group as the EU border agency finds itself under fire for alleged involvement in pushbacks of asylum\-seekers in the Aegean Sea\.
 
 
-![Photo: Statewatch](assets/94a0470630e6/1*KwG2b5Mko_WXPw4d6KdvRw.jpeg)
+![Photo: Statewatch](../assets/94a0470630e6/1*KwG2b5Mko_WXPw4d6KdvRw.jpeg)
 
 Photo: Statewatch
 
@@ -115,7 +115,7 @@ There is much more to protest on Lesvos today\. The municipal council of Mytilen
 According to the local media outlet [Stonisi](https://www.stonisi.gr/post/14750/gyrw-gyrw-dasos-kai-sto-meson-kyt?fbclid=IwAR3s2XN_QEzcpQvaPr-qm-AvJs0Cjqx9Kuu8v6uYfbGm0fmHKqBHOj6W2VA) , the new RIC will be built in a forested area\. The article also reported the structure will accommodate 5000\+ guests in an area of ​​600 acres\.
 
 
-![Forested area where the new RIC will supposedly be built\. \(Source: Stonisi\)](assets/94a0470630e6/1*ZXrevarIjOHM5viUErOEaQ.jpeg)
+![Forested area where the new RIC will supposedly be built\. \(Source: Stonisi\)](../assets/94a0470630e6/1*ZXrevarIjOHM5viUErOEaQ.jpeg)
 
 Forested area where the new RIC will supposedly be built\. \(Source: Stonisi\)
 
@@ -219,7 +219,7 @@ The Spanish head of Migration explained that “a very high percentage of those 
 ### Deportation flights
 
 
-![Source: Wikimedia Commons](assets/94a0470630e6/1*BnnrPAf86uKimWPs7g_h5w.png)
+![Source: Wikimedia Commons](../assets/94a0470630e6/1*BnnrPAf86uKimWPs7g_h5w.png)
 
 Source: Wikimedia Commons
 
@@ -228,7 +228,7 @@ Deportation flights continue in the EU\. One special deportation flight flew fro
 In Germany, a deportation flight to Nigeria is [planned](https://www.facebook.com/Bayerischer.Fluechtlingsrat/photos/a.111278812226514/3924780264209664/) for February 12\.
 
 
-![Source: Bayerischer Flüchtlingsrat \(Facebook\)](assets/94a0470630e6/1*Gfaw_2z6FNGuhI7b0h5F6Q.jpeg)
+![Source: Bayerischer Flüchtlingsrat \(Facebook\)](../assets/94a0470630e6/1*Gfaw_2z6FNGuhI7b0h5F6Q.jpeg)
 
 Source: Bayerischer Flüchtlingsrat \(Facebook\)
 #### FRANCE
@@ -246,7 +246,7 @@ Although the associations appealed to the Mayor to open accommodation centres, n
 ### An activist wins right to stay in UK after an 11\-year battle
 
 
-![](assets/94a0470630e6/0*eP3LtQ5kByeyVRDI)
+![](../assets/94a0470630e6/0*eP3LtQ5kByeyVRDI)
 
 
 Sheffield’s Victor Mujakachi has won his right to remain after an 11 year battle with the Home Office\.
@@ -266,7 +266,7 @@ A series of online Q\+A sessions about the hostile ground policy and creation of
 Tickets are FREE but please book your place in advance by [clicking here](https://tickets.royalandderngate.co.uk/76269/76270) \.
 
 
-![](assets/94a0470630e6/0*kJTTEHEp7V4cloCC.jpg)
+![](../assets/94a0470630e6/0*kJTTEHEp7V4cloCC.jpg)
 
 
 

@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,libya,spain,greece,uk]
 description: Harrassment of activist in Spain and Italy // Greece to close yet another camp // UK’s dangerous precedent for breach of refugee laws//…
 image:
-  path: assets/4ee97d4fe6fa/1*YgQpJmdJw4uLagBgd4wQCQ.jpeg
+  path: ../assets/4ee97d4fe6fa/1*YgQpJmdJw4uLagBgd4wQCQ.jpeg
 ---
 
 ### AYS Daily Digest 12/04/2021 — Libyan authorities release its most wanted human trafficker
@@ -60,7 +60,7 @@ Follow [this podcast](https://twitter.com/scandura/status/1381626520259674113?fb
 
 
 
-![](assets/4ee97d4fe6fa/1*YgQpJmdJw4uLagBgd4wQCQ.jpeg)
+![](../assets/4ee97d4fe6fa/1*YgQpJmdJw4uLagBgd4wQCQ.jpeg)
 
 ### SEA
 
@@ -131,7 +131,7 @@ As [The Independent](https://www.independent.co.uk/news/uk/home-news/refugees-im
 ### SPAIN
 
 
-![](assets/4ee97d4fe6fa/1*c2LX8WML9Y4SSJ4FJxIOpg.jpeg)
+![](../assets/4ee97d4fe6fa/1*c2LX8WML9Y4SSJ4FJxIOpg.jpeg)
 
 
 [Helena Maleno](https://twitter.com/HelenaMaleno/status/1381493097574567936?fbclid=IwAR2j_9GTptdRF5Ju3wEUG8_hKw_x3Wt14O2kANzQPBgTQPdUug_nxpiQHhE) , an activist for migrants’ rights in Spain and Morocco, has accused authorities in both countries of trying to silence her by barring her from returning to the northern African country where she has worked for two decades\.

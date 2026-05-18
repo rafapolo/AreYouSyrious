@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,syria,uk,italy,greece]
 description: International day against police brutality // New reports of illegal pushbacks in the Mediterranean // Protests amongst people on…
 image:
-  path: assets/9ee02b5803d3/0*y6iWJK3QstcmL1c-.jpeg
+  path: ../assets/9ee02b5803d3/0*y6iWJK3QstcmL1c-.jpeg
 ---
 
 ### AYS Daily Digest 15/03/2021 — A decade later, the war on Syria’s civilians is far from over
 ### International day against police brutality // New reports of illegal pushbacks in the Mediterranean // Protests amongst people on quarantine ships in Italy // UK to curb access to domestic abuse support for migrant women…and more
 
 
-![](assets/9ee02b5803d3/0*5QjJzdSnx9FqJipU.jpeg)
+![](../assets/9ee02b5803d3/0*5QjJzdSnx9FqJipU.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----c47acfeec5ba--------------------------------)
@@ -23,11 +23,11 @@ image:
 ### SYRIA
 
 
-![](assets/9ee02b5803d3/0*LWoEmeNpKJcXuLqo)
+![](../assets/9ee02b5803d3/0*LWoEmeNpKJcXuLqo)
 
 
 
-![](assets/9ee02b5803d3/0*y6iWJK3QstcmL1c-.jpeg)
+![](../assets/9ee02b5803d3/0*y6iWJK3QstcmL1c-.jpeg)
 
 
 It’s been ten years since the first peaceful demonstrations in Syria erupted to topple the Assad regime, which responded with brutal violence and repression and, later, armed conflict\.
@@ -59,11 +59,11 @@ In this conversation, Joey tells us of some of the history of Lebanon, since the
 The voices of many protesters, journalists, activists, and survivors are collected in this [thread\.](https://twitter.com/ejbeals/status/1371430186118475776?fbclid=IwAR0zKtlA8PtxHZ16fWgk_oBV54oFaFF2okjv23IFVDqGzsLtzESej18fCKA)
 
 
-![](assets/9ee02b5803d3/0*Xhpx03KORcy7rqS-)
+![](../assets/9ee02b5803d3/0*Xhpx03KORcy7rqS-)
 
 
 
-![](assets/9ee02b5803d3/0*j1lpIeeoS5iPxh3e.jpeg)
+![](../assets/9ee02b5803d3/0*j1lpIeeoS5iPxh3e.jpeg)
 
 
 AlJazeera has this compelling [photo essay](https://interactive.aljazeera.com/aje/2021/syria-10-years-by-syrian-photographers/index.html?fbclid=IwAR07UMynEfAghlyBTvCPk0eDLI5QzzUumkycarypuQWcwiEZrguos-5CYIg) about the conflict, seen through the eyes of 16 photographers and their testimony\. The collection highlights the cost of the crisis while shining a light on the strength of Syria’s people and their hopes for a future without conflict\.
@@ -89,11 +89,11 @@ The new Moria is built on an old military shooting range, where the soil is cont
 INTERNATIONAL DAY AGAINST POLICE BRUTALITY
 
 
-![](assets/9ee02b5803d3/0*OoFVpnf2CMbbHB7I)
+![](../assets/9ee02b5803d3/0*OoFVpnf2CMbbHB7I)
 
 
 
-![](assets/9ee02b5803d3/0*-ABBHbUYgvMewME1.jpeg)
+![](../assets/9ee02b5803d3/0*-ABBHbUYgvMewME1.jpeg)
 
 ### BALKANS
 
@@ -106,11 +106,11 @@ Repression at all costs at the [closed centre of Merksplas](https://www.gettingt
 UNITED KINGDOM
 
 
-![](assets/9ee02b5803d3/0*buNBOd9CyNMaQ8-S)
+![](../assets/9ee02b5803d3/0*buNBOd9CyNMaQ8-S)
 
 
 
-![](assets/9ee02b5803d3/0*rNO4PieAGii_vw4F.jpeg)
+![](../assets/9ee02b5803d3/0*rNO4PieAGii_vw4F.jpeg)
 
 
 [Refugee Council reports](https://twitter.com/refugeecouncil/status/1371392700742832129?fbclid=IwAR1g3AOqLjf5s1-Jh2Y2XWUzzNNOrMGZwxauYLef7lGPqjf5sM24bc6-1YA) on the Domestic Abuse Bill, debated today in Parliament, which excludes migrant women, who still cannot access life\-saving services\.
@@ -143,11 +143,11 @@ The immigration authorities do not deny that the Pakistani is entitled to a resi
 ITALY
 
 
-![](assets/9ee02b5803d3/0*gKV3lZj7K0xAqLc6)
+![](../assets/9ee02b5803d3/0*gKV3lZj7K0xAqLc6)
 
 
 
-![](assets/9ee02b5803d3/0*hBTF3O4XGf9ijup4.jpeg)
+![](../assets/9ee02b5803d3/0*hBTF3O4XGf9ijup4.jpeg)
 
 
 Deportations and illegal detentions in Italy\.
@@ -159,11 +159,11 @@ The number of [migrant arrivals](https://t.co/M1dmADsERa?amp=1) on Italian shore
 LIBYA
 
 
-![](assets/9ee02b5803d3/0*KendxHZxod92AJbC)
+![](../assets/9ee02b5803d3/0*KendxHZxod92AJbC)
 
 
 
-![](assets/9ee02b5803d3/0*udJpTyRLkpUBxW4m.jpeg)
+![](../assets/9ee02b5803d3/0*udJpTyRLkpUBxW4m.jpeg)
 
 
 [IOM’s infographic](https://twitter.com/IOM_Libya/status/1371467757599006721?fbclid=IwAR0ReZ5AqjcVg6pjcYF4CmNZhrVwD34yxlqLe8VVqYopY8lfvwWJGyOCYP8) on returns to Libya\. Interceptions of people fleeing by sea are increasing as [EUBAM Libya](https://statewatch.org/news/2021/march/libya-interceptions-of-people-fleeing-by-sea-increase-as-eu-border-mission-seeks-two-year-extension/) , the EU border mission, seeks a two\-year extension to continue support for the Libyan coast guard

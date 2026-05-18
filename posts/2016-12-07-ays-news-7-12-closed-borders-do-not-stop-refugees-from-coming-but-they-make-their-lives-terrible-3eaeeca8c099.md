@@ -1,5 +1,5 @@
 ---
-title: AYS News 7/12: Closed borders do not stop refugees from coming, but they make their lives terrible
+title: "AYS News 7/12: Closed borders do not stop refugees from coming, but they make their lives terrible"
 author: Are You Syrious?
 date: 2016-12-07T23:11:03.394+0000
 last_modified_at: 2016-12-08T00:44:02.504+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,refugee-crisis,syrian-refugees,refugee-camps]
 description: Closed borders, as research shows, do not stop refugees, but they make their journeys more dangerous. A Kurdish refugee whose toes and part…
 image:
-  path: assets/3eaeeca8c099/0*Fl7rbBHlmsfQYjes.
+  path: ../assets/3eaeeca8c099/0*Fl7rbBHlmsfQYjes.
 ---
 
 ### AYS News 7/12: Closed borders do not stop refugees from coming, but they make their lives terrible
@@ -19,13 +19,13 @@ image:
 
 
 
-![Credits: [**Legis**](https://www.facebook.com/legis.mk/)](assets/3eaeeca8c099/0*Fl7rbBHlmsfQYjes.)
+![Credits: [**Legis**](https://www.facebook.com/legis.mk/)](../assets/3eaeeca8c099/0*Fl7rbBHlmsfQYjes.)
 
 Credits: [**Legis**](https://www.facebook.com/legis.mk/)
 ### Is Hungary really Western Europe’s gatekeeper?
 
 
-![Credits: NG/AYS](assets/3eaeeca8c099/0*JDJ2kzgrwfohfq6s.)
+![Credits: NG/AYS](../assets/3eaeeca8c099/0*JDJ2kzgrwfohfq6s.)
 
 Credits: NG/AYS
 
@@ -85,7 +85,7 @@ The implementation of the hotspots in Greece paints a much more confusing and te
 ### An identity of a woman from another famous “Syrian crisis” image revealed: A mother of 7 killed children, died out of sickness due to lack of doctors in Aleppo
 
 
-![Credits: [Memet Aksakal](https://twitter.com/Fixer_Turkey)](assets/3eaeeca8c099/0*MyarzE-Np54fM9yl.jpg)
+![Credits: [Memet Aksakal](https://twitter.com/Fixer_Turkey)](../assets/3eaeeca8c099/0*MyarzE-Np54fM9yl.jpg)
 
 Credits: [Memet Aksakal](https://twitter.com/Fixer_Turkey)
 ### Syrian\-American Medical Society announces that its facilities and staff can no longer operate in Eastern Aleppo
@@ -100,7 +100,7 @@ More Syrians have fled eastern Aleppo, with reports of about 800 arriving in the
 ### Canada, France, Germany, Italy, United Kingdom and United States Leaders’ Statement on the situation in Aleppo
 
 
-![Credits: [U\.S\. Embassy Syria](https://twitter.com/USEmbassySyria)](assets/3eaeeca8c099/0*yFiZS-ZU1fpXViQC.jpg)
+![Credits: [U\.S\. Embassy Syria](https://twitter.com/USEmbassySyria)](../assets/3eaeeca8c099/0*yFiZS-ZU1fpXViQC.jpg)
 
 Credits: [U\.S\. Embassy Syria](https://twitter.com/USEmbassySyria)
 ### An official statement released by Aleppo rebels who call for five\-day ceasefire; decision yet to be made
@@ -110,12 +110,12 @@ Syrian rebels in besieged eastern Aleppo called for an immediate five\-day cease
 A Turkey\-based rebel official told Reuters the plan had been sent to international parties which had yet to respond\.
 
 
-![Credits: [**Syria Solidarity Campaign**](https://www.facebook.com/SyriaSolidarityCampaign/)](assets/3eaeeca8c099/0*nj5eeciesbT9RoIp.)
+![Credits: [**Syria Solidarity Campaign**](https://www.facebook.com/SyriaSolidarityCampaign/)](../assets/3eaeeca8c099/0*nj5eeciesbT9RoIp.)
 
 Credits: [**Syria Solidarity Campaign**](https://www.facebook.com/SyriaSolidarityCampaign/)
 
 
-![Credits: [**Syria Solidarity Campaign**](https://www.facebook.com/SyriaSolidarityCampaign/)](assets/3eaeeca8c099/0*JJPUDM2yeYL4wkLX.)
+![Credits: [**Syria Solidarity Campaign**](https://www.facebook.com/SyriaSolidarityCampaign/)](../assets/3eaeeca8c099/0*JJPUDM2yeYL4wkLX.)
 
 Credits: [**Syria Solidarity Campaign**](https://www.facebook.com/SyriaSolidarityCampaign/)
 #### Jordan
@@ -126,12 +126,12 @@ MSF’s facility in Zaatari stands nearly empty despite the growing medical need
 ### Hundreds of blankets arrive to Turkey to help shelter refugees in winter conditions
 
 
-![Credits: [The Worldwide Tribe](https://twitter.com/worldwide_tribe)](assets/3eaeeca8c099/0*L-zEBv-q6Kh_mLva.jpg)
+![Credits: [The Worldwide Tribe](https://twitter.com/worldwide_tribe)](../assets/3eaeeca8c099/0*L-zEBv-q6Kh_mLva.jpg)
 
 Credits: [The Worldwide Tribe](https://twitter.com/worldwide_tribe)
 
 
-![Credits: [The Worldwide Tribe](https://twitter.com/worldwide_tribe)](assets/3eaeeca8c099/0*1GXGnkdgihEiEQ_F.jpg)
+![Credits: [The Worldwide Tribe](https://twitter.com/worldwide_tribe)](../assets/3eaeeca8c099/0*1GXGnkdgihEiEQ_F.jpg)
 
 Credits: [The Worldwide Tribe](https://twitter.com/worldwide_tribe)
 ### Smuggler Gets 63 Years In Prison
@@ -146,12 +146,12 @@ The migrants, many ill due to the bad weather, were taken to tents near the harb
 Following are the 1951 Convention’s artivcles that IOM is breaking\.
 
 
-![Credits: [Ali Borsan](https://twitter.com/AliMBorsan)](assets/3eaeeca8c099/0*M_wyByN86FmkNhBI.jpg)
+![Credits: [Ali Borsan](https://twitter.com/AliMBorsan)](../assets/3eaeeca8c099/0*M_wyByN86FmkNhBI.jpg)
 
 Credits: [Ali Borsan](https://twitter.com/AliMBorsan)
 
 
-![Credits: [Ali Borsan](https://twitter.com/AliMBorsan)](assets/3eaeeca8c099/0*7JESV952pgurgLPM.jpg)
+![Credits: [Ali Borsan](https://twitter.com/AliMBorsan)](../assets/3eaeeca8c099/0*7JESV952pgurgLPM.jpg)
 
 Credits: [Ali Borsan](https://twitter.com/AliMBorsan)
 
@@ -159,25 +159,25 @@ Refugees were told that, if they don’t accept to move, the IOM will tomorrow c
 ### Many refugees are being transferred out of Serres camp
 
 
-![Serres camp\. Credits: [**Saad Kasem**](https://www.facebook.com/profile.php?id=100007841867374)](assets/3eaeeca8c099/0*tR6yaCPrkchLUL9J.)
+![Serres camp\. Credits: [**Saad Kasem**](https://www.facebook.com/profile.php?id=100007841867374)](../assets/3eaeeca8c099/0*tR6yaCPrkchLUL9J.)
 
 Serres camp\. Credits: [**Saad Kasem**](https://www.facebook.com/profile.php?id=100007841867374)
 
 70 refugees with approved asylum were transferred out of Serres camp yesterday\. Another 100 refugees were transferred today\. Refugees are being taken to apartments in Thessaloniki\. 340 refugees are still in tents and waiting to be transferred soon\.
 
 
-![Serres camp\. Credits: [**Saad Kasem**](https://www.facebook.com/profile.php?id=100007841867374)](assets/3eaeeca8c099/0*4_kV_uWfo0Yzmfrp.)
+![Serres camp\. Credits: [**Saad Kasem**](https://www.facebook.com/profile.php?id=100007841867374)](../assets/3eaeeca8c099/0*4_kV_uWfo0Yzmfrp.)
 
 Serres camp\. Credits: [**Saad Kasem**](https://www.facebook.com/profile.php?id=100007841867374)
 
 
-![Serres camp\. Credits: [**Saad Kasem**](https://www.facebook.com/profile.php?id=100007841867374)](assets/3eaeeca8c099/0*LJNUSmDCC_GmDa97.)
+![Serres camp\. Credits: [**Saad Kasem**](https://www.facebook.com/profile.php?id=100007841867374)](../assets/3eaeeca8c099/0*LJNUSmDCC_GmDa97.)
 
 Serres camp\. Credits: [**Saad Kasem**](https://www.facebook.com/profile.php?id=100007841867374)
 ### A group of refugees from Fillippiada was moved by UNHCR to hotels or apartements due to their especially vulnerable status
 
 
-![Camps are started to be emptied as refugees are increasingly relocated to apartments and hotels\. Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)](assets/3eaeeca8c099/0*Qm4qxmkoo8GVFrOb.)
+![Camps are started to be emptied as refugees are increasingly relocated to apartments and hotels\. Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)](../assets/3eaeeca8c099/0*Qm4qxmkoo8GVFrOb.)
 
 Camps are started to be emptied as refugees are increasingly relocated to apartments and hotels\. Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)
 ### Update on conditions of living for refugees in Chios
@@ -187,7 +187,7 @@ Currently, only 300 refugees \(out of the official figures of 2100\) are accommo
 ### Volunteer story of the day: Saving a Syrian family, round 2
 
 
-![Credits: [**Charity United Refugee Aid**](https://www.facebook.com/charityunitedrefugeeaid/)](assets/3eaeeca8c099/0*MvGNdKG-vK-XDoFG.)
+![Credits: [**Charity United Refugee Aid**](https://www.facebook.com/charityunitedrefugeeaid/)](../assets/3eaeeca8c099/0*MvGNdKG-vK-XDoFG.)
 
 Credits: [**Charity United Refugee Aid**](https://www.facebook.com/charityunitedrefugeeaid/)
 
@@ -231,7 +231,7 @@ Credits: [**Charity United Refugee Aid**](https://www.facebook.com/charityunited
 Update…
 
 
-![Credits: [**Charity United Refugee Aid**](https://www.facebook.com/charityunitedrefugeeaid/)](assets/3eaeeca8c099/0*Tcb1zbeH3TkgHT_O.)
+![Credits: [**Charity United Refugee Aid**](https://www.facebook.com/charityunitedrefugeeaid/)](../assets/3eaeeca8c099/0*Tcb1zbeH3TkgHT_O.)
 
 Credits: [**Charity United Refugee Aid**](https://www.facebook.com/charityunitedrefugeeaid/)
 
@@ -282,23 +282,23 @@ Good listening\!
 ### Art and activities with children in Fillippiada
 
 
-![Credits: [**Project Hope 4 Kids**](https://www.facebook.com/projecthope4kids/)](assets/3eaeeca8c099/0*qPK6HzHGkYWPaZsh.)
+![Credits: [**Project Hope 4 Kids**](https://www.facebook.com/projecthope4kids/)](../assets/3eaeeca8c099/0*qPK6HzHGkYWPaZsh.)
 
 Credits: [**Project Hope 4 Kids**](https://www.facebook.com/projecthope4kids/)
 
 
-![Credits: [**Project Hope 4 Kids**](https://www.facebook.com/projecthope4kids/)](assets/3eaeeca8c099/0*E3-CGhkxxB6FAm2r.)
+![Credits: [**Project Hope 4 Kids**](https://www.facebook.com/projecthope4kids/)](../assets/3eaeeca8c099/0*E3-CGhkxxB6FAm2r.)
 
 Credits: [**Project Hope 4 Kids**](https://www.facebook.com/projecthope4kids/)
 ### [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGreece/?fref=nf) **Toy Shop is a big hit among refugee children\!**
 
 
-![Credits: [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGreece/)](assets/3eaeeca8c099/0*e1H_WaQcffKOTu3D.)
+![Credits: [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGreece/)](../assets/3eaeeca8c099/0*e1H_WaQcffKOTu3D.)
 
 Credits: [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGreece/)
 
 
-![Credits: [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGreece/)](assets/3eaeeca8c099/0*9-CaVapZtFxDmAcM.)
+![Credits: [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGreece/)](../assets/3eaeeca8c099/0*9-CaVapZtFxDmAcM.)
 
 Credits: [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGreece/)
 ### Thank you, donors\!
@@ -306,12 +306,12 @@ Credits: [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGre
 Someone is well happy with their new hat\. Thank you to whoever donated it and thank you to whoever donated this hoodie\!
 
 
-![Credits: [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGreece/)](assets/3eaeeca8c099/0*0wPpND1KkkF_exdj.)
+![Credits: [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGreece/)](../assets/3eaeeca8c099/0*0wPpND1KkkF_exdj.)
 
 Credits: [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGreece/)
 
 
-![Credits: [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGreece/)](assets/3eaeeca8c099/0*1SniOXxC6wxAl8cS.)
+![Credits: [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGreece/)](../assets/3eaeeca8c099/0*1SniOXxC6wxAl8cS.)
 
 Credits: [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGreece/)
 ### Today’s arrivals
@@ -321,7 +321,7 @@ Credits: [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGre
 
 
 
-![Credits: NG/AYS](assets/3eaeeca8c099/0*5_WGFUNZVGFMx8Fo.)
+![Credits: NG/AYS](../assets/3eaeeca8c099/0*5_WGFUNZVGFMx8Fo.)
 
 Credits: NG/AYS
 
@@ -344,7 +344,7 @@ Nov: 862
 ### Managing diabetes as a refugee
 
 
-![Credits: MSF Sea](assets/3eaeeca8c099/0*Y8yKeSixEY9S5k4V.jpg)
+![Credits: MSF Sea](../assets/3eaeeca8c099/0*Y8yKeSixEY9S5k4V.jpg)
 
 Credits: MSF Sea
 
@@ -352,7 +352,7 @@ Imagine trying to manage your diabetes as a refugee — on the street or in a ca
 ### Skin diseases continue to be a problem in Serbian refugee camps
 
 
-![Credits: MSF Sea](assets/3eaeeca8c099/0*6kxc0DQbDfkKWNcM.jpg)
+![Credits: MSF Sea](../assets/3eaeeca8c099/0*6kxc0DQbDfkKWNcM.jpg)
 
 Credits: MSF Sea
 
@@ -368,43 +368,43 @@ This is the queue for MSF Belgrade clinic this morning\.They are treating lots o
 This is where Ryzzeq sleeps:
 
 
-![Credits: MSF Sea](assets/3eaeeca8c099/0*8AnNJT24J7nLzqrx.jpg)
+![Credits: MSF Sea](../assets/3eaeeca8c099/0*8AnNJT24J7nLzqrx.jpg)
 
 Credits: MSF Sea
 ### A Kurdish refugee whose toes and part of the foot were amputated due to frost\-bites he got during his journey receives a prosthesis and individualized orthotic shoes
 
 
-![Credits: [**Borderfree Association**](https://www.facebook.com/borderfreeassociation/)](assets/3eaeeca8c099/0*s-qwsKvKdoIKv3gJ.)
+![Credits: [**Borderfree Association**](https://www.facebook.com/borderfreeassociation/)](../assets/3eaeeca8c099/0*s-qwsKvKdoIKv3gJ.)
 
 Credits: [**Borderfree Association**](https://www.facebook.com/borderfreeassociation/)
 
 
-![Credits: [**Borderfree Association**](https://www.facebook.com/borderfreeassociation/)](assets/3eaeeca8c099/0*Atz414VXJIZjHRsy.)
+![Credits: [**Borderfree Association**](https://www.facebook.com/borderfreeassociation/)](../assets/3eaeeca8c099/0*Atz414VXJIZjHRsy.)
 
 Credits: [**Borderfree Association**](https://www.facebook.com/borderfreeassociation/)
 ### A barefoot man was waiting in a line for tea in Fresh Response’s refugee day center in Subotica…
 
 
-![Credits: [**Fresh Response**](https://www.facebook.com/freshresponseserbia/)](assets/3eaeeca8c099/0*h3ywR3JlwhBkUR5D.)
+![Credits: [**Fresh Response**](https://www.facebook.com/freshresponseserbia/)](../assets/3eaeeca8c099/0*h3ywR3JlwhBkUR5D.)
 
 Credits: [**Fresh Response**](https://www.facebook.com/freshresponseserbia/)
 
 He lost his shoes at night and with no money and almost no assistance provided for the unregistered ones he couldn’t get any help\. He survived the night\. As it is impossible to transport shoes through the borders to Serbia \(unless they are new and with a receipt\), Fresh Response needs resources to buy them here\. Please consider donating\. They have helped the man by wrapping his feet in emergency blankets\.
 
 
-![Credits: [**Fresh Response**](https://www.facebook.com/freshresponseserbia/)](assets/3eaeeca8c099/0*bA8jCr5gUi_7WMAH.)
+![Credits: [**Fresh Response**](https://www.facebook.com/freshresponseserbia/)](../assets/3eaeeca8c099/0*bA8jCr5gUi_7WMAH.)
 
 Credits: [**Fresh Response**](https://www.facebook.com/freshresponseserbia/)
 
 
-![Credits: [**Fresh Response**](https://www.facebook.com/freshresponseserbia/)](assets/3eaeeca8c099/0*kv9v2U1pbEd9fS7j.)
+![Credits: [**Fresh Response**](https://www.facebook.com/freshresponseserbia/)](../assets/3eaeeca8c099/0*kv9v2U1pbEd9fS7j.)
 
 Credits: [**Fresh Response**](https://www.facebook.com/freshresponseserbia/)
 #### Hungary
 ### Refugees moved to freezing tent\-camp in Körmend
 
 
-![Körmend camp\. Credits: [Migszol Csoport](https://twitter.com/MigSzolCsop)](assets/3eaeeca8c099/0*JjAShVtArMnZd8Yb.jpg)
+![Körmend camp\. Credits: [Migszol Csoport](https://twitter.com/MigSzolCsop)](../assets/3eaeeca8c099/0*JjAShVtArMnZd8Yb.jpg)
 
 Körmend camp\. Credits: [Migszol Csoport](https://twitter.com/MigSzolCsop)
 
@@ -423,17 +423,17 @@ In the last six weeks, Germany made nearly 1000 Relocation places available\. Ge
 ### Today’s protest in front of the Russian embassy in Berlin condemned the ongoing bombing of civilians in Syria
 
 
-![Credits: [**Rami Jarrah**](https://www.facebook.com/ramijarah)](assets/3eaeeca8c099/0*IRldX8FM-XxPjjlg.jpg)
+![Credits: [**Rami Jarrah**](https://www.facebook.com/ramijarah)](../assets/3eaeeca8c099/0*IRldX8FM-XxPjjlg.jpg)
 
 Credits: [**Rami Jarrah**](https://www.facebook.com/ramijarah)
 
 
-![Credits: [**Rami Jarrah**](https://www.facebook.com/ramijarah)](assets/3eaeeca8c099/0*ccSyk4LBjJXb2LQ1.jpg)
+![Credits: [**Rami Jarrah**](https://www.facebook.com/ramijarah)](../assets/3eaeeca8c099/0*ccSyk4LBjJXb2LQ1.jpg)
 
 Credits: [**Rami Jarrah**](https://www.facebook.com/ramijarah)
 
 
-![Credits: [**Rami Jarrah**](https://www.facebook.com/ramijarah)](assets/3eaeeca8c099/0*4LgJXx7Xp6QSDDpA.jpg)
+![Credits: [**Rami Jarrah**](https://www.facebook.com/ramijarah)](../assets/3eaeeca8c099/0*4LgJXx7Xp6QSDDpA.jpg)
 
 Credits: [**Rami Jarrah**](https://www.facebook.com/ramijarah)
 ### **Chancellor Angela Merkel insisted on Wednesday that Germany’s record refugee influx last year had not led to a surge in violent crime**
@@ -444,7 +444,7 @@ Asked about the [rape\-murder of a German student](http://www.thelocal.de/201612
 #### France
 
 
-![A tent which belongs to a refugee in Paris; this is where he sleeps along with 4 otherrefugees\. The temperature is freezing; it will reach up to \-5 tonnight\. Credits: Help Refugees Worldwide](assets/3eaeeca8c099/0*5fVCOo4IPdjEUM3u.)
+![A tent which belongs to a refugee in Paris; this is where he sleeps along with 4 otherrefugees\. The temperature is freezing; it will reach up to \-5 tonnight\. Credits: Help Refugees Worldwide](../assets/3eaeeca8c099/0*5fVCOo4IPdjEUM3u.)
 
 A tent which belongs to a refugee in Paris; this is where he sleeps along with 4 otherrefugees\. The temperature is freezing; it will reach up to \-5 tonnight\. Credits: Help Refugees Worldwide
 ### 3 Eritreans in France are facing deportation

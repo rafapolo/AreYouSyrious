@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 08/06/21: Repressions and other struggles
+title: "AYS Daily Digest 08/06/21: Repressions and other struggles"
 author: Are You Syrious?
 date: 2021-06-09T17:16:39.572+0100
 last_modified_at: 2021-06-09T17:16:39.572+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,ireland,united-kingdom,europe,human-rights]
 description: European politics focuses on preventing new arrivals, stops journalists from reporting and disrespects Human Rights// Ireland takes…
 image:
-  path: assets/795e75d7673b/1*pzKIS0vXRoyJ9Kt0aDivlg.jpeg
+  path: ../assets/795e75d7673b/1*pzKIS0vXRoyJ9Kt0aDivlg.jpeg
 ---
 
 ### AYS Daily Digest 08/06/21: Repressions and other struggles
 #### European politics focuses on preventing new arrivals, stops journalists from reporting and disrespects Human Rights// Ireland takes encouraging step to end inhumane Direct Provision\.
 
 
-![[Politics with walls, fences, violence and pushbacks: The new Zervou camp on Samos\. Credits: Twitter/@gemmakristina](https://twitter.com/gemmakristina/status/1402277504690405376?fbclid=IwAR12iQHj8fTDHPLY-FsxEC5jQ8Zd-CyGmwvAOCr-Geb_7HoPTKv8aL4bJtM)](assets/795e75d7673b/1*pzKIS0vXRoyJ9Kt0aDivlg.jpeg)
+![[Politics with walls, fences, violence and pushbacks: The new Zervou camp on Samos\. Credits: Twitter/@gemmakristina](https://twitter.com/gemmakristina/status/1402277504690405376?fbclid=IwAR12iQHj8fTDHPLY-FsxEC5jQ8Zd-CyGmwvAOCr-Geb_7HoPTKv8aL4bJtM)](../assets/795e75d7673b/1*pzKIS0vXRoyJ9Kt0aDivlg.jpeg)
 
 [Politics with walls, fences, violence and pushbacks: The new Zervou camp on Samos\. Credits: Twitter/@gemmakristina](https://twitter.com/gemmakristina/status/1402277504690405376?fbclid=IwAR12iQHj8fTDHPLY-FsxEC5jQ8Zd-CyGmwvAOCr-Geb_7HoPTKv8aL4bJtM)
 #### Syria

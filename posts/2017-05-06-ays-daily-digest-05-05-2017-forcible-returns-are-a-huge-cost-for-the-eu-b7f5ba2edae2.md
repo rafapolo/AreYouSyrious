@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 05/05/2017: Forcible returns are a huge cost for the EU
+title: "AYS Daily Digest 05/05/2017: Forcible returns are a huge cost for the EU"
 author: Are You Syrious?
 date: 2017-05-06T02:14:11.240+0100
 last_modified_at: 2017-05-06T10:40:38.390+0100
@@ -7,14 +7,14 @@ categories:
 tags: [europe,refugees,asylum-seekers,european-union,refugeeswelcome]
 description: Update on border controls / EU is spending millions on forcible returns / refugees from the center of Belgrade should soon be moved…
 image:
-  path: assets/b7f5ba2edae2/1*LVDwjCReqpuAXBRzpSrexQ.jpeg
+  path: ../assets/b7f5ba2edae2/1*LVDwjCReqpuAXBRzpSrexQ.jpeg
 ---
 
 ### AYS Daily Digest 05/05/2017: Forcible returns are a huge cost for the EU
 #### Update on border controls / EU is spending millions on forcible returns / refugees from the center of Belgrade should soon be moved elsewhere / EC struggling with Hungary over asylum policy / Rome demo after the death of Nian Maguette
 
 
-![Source [HelpRefugeesWorldwide](https://www.facebook.com/HelpRefugeesWorldwide/)](assets/b7f5ba2edae2/1*LVDwjCReqpuAXBRzpSrexQ.jpeg)
+![Source [HelpRefugeesWorldwide](https://www.facebook.com/HelpRefugeesWorldwide/)](../assets/b7f5ba2edae2/1*LVDwjCReqpuAXBRzpSrexQ.jpeg)
 
 Source [HelpRefugeesWorldwide](https://www.facebook.com/HelpRefugeesWorldwide/)
 #### EU — update on border controls
@@ -83,7 +83,7 @@ Rescuers picked up 560 people from unsafe boats off the coast of Libya yesterday
 
 
 
-![See text in Arabic [here](https://www.facebook.com/mobileinfoteam/photos/a.1800063030222418.1073741830.1796286800600041/1956500567911996/?type=3&hc_location=ufi) \.](assets/b7f5ba2edae2/1*sRCfkOtpIdijvEAu_B_W-w.jpeg)
+![See text in Arabic [here](https://www.facebook.com/mobileinfoteam/photos/a.1800063030222418.1073741830.1796286800600041/1956500567911996/?type=3&hc_location=ufi) \.](../assets/b7f5ba2edae2/1*sRCfkOtpIdijvEAu_B_W-w.jpeg)
 
 See text in Arabic [here](https://www.facebook.com/mobileinfoteam/photos/a.1800063030222418.1073741830.1796286800600041/1956500567911996/?type=3&hc_location=ufi) \.
 
@@ -107,11 +107,11 @@ A new clinic on Lesvos, situated across the street from Kara Tepe camp \(populat
 
 
 
-![](assets/b7f5ba2edae2/1*pewTC99IM3GYEIKFvsVESw.jpeg)
+![](../assets/b7f5ba2edae2/1*pewTC99IM3GYEIKFvsVESw.jpeg)
 
 
 
-![Source: [**DocMobile — Medical Help e\.V\.**](https://www.facebook.com/docmobile.org/)](assets/b7f5ba2edae2/1*S2edXbL3ccdJ49Xu3lz_2g.jpeg)
+![Source: [**DocMobile — Medical Help e\.V\.**](https://www.facebook.com/docmobile.org/)](../assets/b7f5ba2edae2/1*S2edXbL3ccdJ49Xu3lz_2g.jpeg)
 
 Source: [**DocMobile — Medical Help e\.V\.**](https://www.facebook.com/docmobile.org/)
 #### Chios
@@ -198,7 +198,7 @@ Hungary has charged 11 people responsible for the death of 71 migrants, who all 
 A demonstration and a sit\-in at Santi Apostoli square in Rome was held today after the death of Nian Maguette, a 53\-years\-old worker from Senegal, occurring after a municipal police \(vigili urbani\) raid in the Trastevere neighborhood two days ago, which we wrote about [here](ays-daily-digest-03-05-2017-families-held-in-kalamata-6ff2c68c5880) \. The Senegalese community along with other refugees and part of the local community protested against the raids and for a in\-depth inquiry into the circumstances of Nian’s death\. “Justice for Maguette,” said many signs raised by protesters\. They are waiting for autopsy results which will help determine the causaes of Niam’s death, that is to say whether he suffered a heart attack or his death was due to other causes, as some representatives of the Senegalese community claimed two days ago\. They also asked for the dismissal of Antonio Di Maggio, the head of Roman local police\.
 
 
-![Justice for Nian Maguette, Rome demo 5\.5\.2017\. , source: [@bpm\_roma](https://twitter.com/bpm_roma)](assets/b7f5ba2edae2/1*AWUpy04hVlvT5j463BRqpw.jpeg)
+![Justice for Nian Maguette, Rome demo 5\.5\.2017\. , source: [@bpm\_roma](https://twitter.com/bpm_roma)](../assets/b7f5ba2edae2/1*AWUpy04hVlvT5j463BRqpw.jpeg)
 
 Justice for Nian Maguette, Rome demo 5\.5\.2017\. , source: [@bpm\_roma](https://twitter.com/bpm_roma)
 #### FRANCE

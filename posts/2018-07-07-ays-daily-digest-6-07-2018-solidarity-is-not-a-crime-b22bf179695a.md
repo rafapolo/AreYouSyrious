@@ -1,13 +1,13 @@
 ---
-title: AYS DAILY DIGEST 6/07/2018: Solidarity is not a crime!
+title: "AYS DAILY DIGEST 6/07/2018: Solidarity is not a crime!"
 author: Are You Syrious?
 date: 2018-07-07T09:19:17.039+0100
 last_modified_at: 2018-07-07T10:43:28.560+0100
 categories: Are You Syrious?
 tags: [europe,digest,refugees,solidarity,borders]
-description: Two-faced Europe: €90.5 million given to the EU Trust Fund for Africa to implement border controls, while releasing a resolution that will…
+description: "Two-faced Europe: €90.5 million given to the EU Trust Fund for Africa to implement border controls, while releasing a resolution that will…"
 image:
-  path: assets/b22bf179695a/1*1QUww8gnj4LOjcH10x6cqA.jpeg
+  path: ../assets/b22bf179695a/1*1QUww8gnj4LOjcH10x6cqA.jpeg
 ---
 
 ### AYS DAILY DIGEST 6/07/2018: Solidarity is not a crime\! But Fortress Europe keeps strengthening its border regime
@@ -15,7 +15,7 @@ image:
 _Two\-faced Europe: €90\.5 million given to the EU Trust Fund for Africa to implement border controls, while releasing a resolution that will make it illegal to prosecute acts of solidarity//New data on deaths and rescues in the Mediterranean//New report on conditions of LGBTIQ migrant community in Hungary//\#savepikpa campaign needs supporters//Neo\-nazi demo approved in Italy//Discrimination against foreign volunteers in France//Demos in solidarity happening in Europe\. \._
 
 
-![Credit: Joanne Coutts, \#savepikpa](assets/b22bf179695a/1*1QUww8gnj4LOjcH10x6cqA.jpeg)
+![Credit: Joanne Coutts, \#savepikpa](../assets/b22bf179695a/1*1QUww8gnj4LOjcH10x6cqA.jpeg)
 
 Credit: Joanne Coutts, \#savepikpa
 

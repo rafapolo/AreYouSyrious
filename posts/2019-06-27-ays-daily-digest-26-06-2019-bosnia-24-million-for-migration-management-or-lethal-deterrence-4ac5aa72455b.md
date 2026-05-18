@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 26/06/2019: Bosnia… €24 Million for ‘Migration Management’ or ‘Lethal Deterrence?’
+title: "AYS Daily Digest 26/06/2019: Bosnia… €24 Million for ‘Migration Management’ or ‘Lethal Deterrence?’"
 author: Are You Syrious?
 date: 2019-06-27T12:11:22.060+0100
 last_modified_at: 2019-06-27T13:13:46.332+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,human-rights]
 description: Sea Watch 3 Finally Enters Italian Waters but still unable to Disembark//10 dead and 30 injured in Turkey as Vehicle Loses control//UNHCR…
 image:
-  path: assets/4ac5aa72455b/1*b31hiO4ynbDLRrXWEFF4aQ.png
+  path: ../assets/4ac5aa72455b/1*b31hiO4ynbDLRrXWEFF4aQ.png
 ---
 
 ### AYS Daily Digest 26/06/2019: Bosnia… €24 Million for ‘Migration Management’ or ‘Lethal Deterrence?’
 #### Sea Watch 3 finally enters Italian waters but still unable to disembark//10 dead and 30 injured in Turkey as vehicle loses control//UNHCR requests $220 Million to ‘combat smuggling’ in the Mediterranean// // New Danish government scraps plans for deserted island deportation centre
 
 
-![By Enrico Bertuccioli](assets/4ac5aa72455b/1*b31hiO4ynbDLRrXWEFF4aQ.png)
+![By Enrico Bertuccioli](../assets/4ac5aa72455b/1*b31hiO4ynbDLRrXWEFF4aQ.png)
 
 By Enrico Bertuccioli
 #### FEATURE: The EU to give a further €14\.8 million to fund the [IOM — UN Migration](https://medium.com/u/664cb26312d4) for Bosnia
@@ -60,11 +60,11 @@ An appeal against the European Court decision on Tuesday that ruled against Sea\
 Hundreds of people all over Italy have slept outdoors in protest of their governments’ inhumane treatment of those on board as well as the captain and crew of the NGO, who will undoubtedly face a hefty fine and expensive legal fees\.
 
 
-![](assets/4ac5aa72455b/0*ulOJO3UUbxEe44j-)
+![](../assets/4ac5aa72455b/0*ulOJO3UUbxEe44j-)
 
 
 
-![Protest Across Italy in Support of Sea\-Watch 3](assets/4ac5aa72455b/0*wmGIymkpJJ3rQVDK)
+![Protest Across Italy in Support of Sea\-Watch 3](../assets/4ac5aa72455b/0*wmGIymkpJJ3rQVDK)
 
 Protest Across Italy in Support of Sea\-Watch 3
 

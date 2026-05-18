@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 23/09/22: Shipwreck off Syria
+title: "AYS News Digest 23/09/22: Shipwreck off Syria"
 author: Are You Syrious?
 date: 2022-09-26T22:43:50.683+0100
 last_modified_at: 2022-09-26T22:43:50.683+0100
@@ -7,21 +7,21 @@ categories:
 tags: [digest,refugees,syria,lebanon,europe]
 description: Shipwreck off the Syrian Coast // Sea-Watch 3 detained in Italy against an ECJ ruling // Open Arms disembarks finally // ECJ ruled that…
 image:
-  path: assets/4ed90a64de8f/0*YBIs7Qj72GSpCKMO
+  path: ../assets/4ed90a64de8f/0*YBIs7Qj72GSpCKMO
 ---
 
 ### AYS News Digest 23/09/22: Shipwreck off Syria
 #### Shipwreck off the Syrian Coast // Sea\-Watch 3 detained in Italy against an ECJ ruling // Open Arms disembarks finally // ECJ ruled that suspensions because of the pandemic do not extend the 6\-months Dublin regulations rule // long reads & and investigations
 
 
-![Photo by [Stormseeker](https://unsplash.com/ja/@sseeker?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](assets/4ed90a64de8f/0*YBIs7Qj72GSpCKMO)
+![Photo by [Stormseeker](https://unsplash.com/ja/@sseeker?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](../assets/4ed90a64de8f/0*YBIs7Qj72GSpCKMO)
 
 Photo by [Stormseeker](https://unsplash.com/ja/@sseeker?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 #### FEATURE
 #### A boat sailing from Lebanon to Italy sunk off the coast of Tartus, Syria on Thursday 22nd September\. At least 94 people are confirmed to have lost their lives
 
 
-![Source: [Al Jazeera](https://www.aljazeera.com/news/2022/9/24/death-toll-from-lebanon-migrant-shipwreck-rises-to-89)](assets/4ed90a64de8f/0*zFWs_bZXq2AWCslS)
+![Source: [Al Jazeera](https://www.aljazeera.com/news/2022/9/24/death-toll-from-lebanon-migrant-shipwreck-rises-to-89)](../assets/4ed90a64de8f/0*zFWs_bZXq2AWCslS)
 
 Source: [Al Jazeera](https://www.aljazeera.com/news/2022/9/24/death-toll-from-lebanon-migrant-shipwreck-rises-to-89)
 
@@ -54,7 +54,7 @@ Lebanon hosts a population of 1 million Syrian refugees, and tens of thousands o
 Accused of rescuing too many people, Sea\-Watch 3 has been held in the Italian port of Reggio Calabria\.
 
 
-![](assets/4ed90a64de8f/0*b6B2mrblW3J_8Inn.jpg)
+![](../assets/4ed90a64de8f/0*b6B2mrblW3J_8Inn.jpg)
 
 
 

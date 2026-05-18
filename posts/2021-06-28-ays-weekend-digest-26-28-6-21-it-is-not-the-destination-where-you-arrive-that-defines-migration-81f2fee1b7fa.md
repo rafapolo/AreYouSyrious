@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 26–28/6/21: “It is not the destination where you arrive that defines migration…
+title: "AYS Weekend Digest 26–28/6/21: “It is not the destination where you arrive that defines migration…"
 author: Are You Syrious?
 date: 2021-06-28T17:53:50.574+0100
 last_modified_at: 2021-06-28T17:53:50.574+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,europe,human-rights,solidarity]
 description: A personal story / Minor refugee children enrolled in a school in Athens denied entry to the National Archaeological Museums / Initiatives…
 image:
-  path: assets/81f2fee1b7fa/0*sdHd6_zCI1N0upIm
+  path: ../assets/81f2fee1b7fa/0*sdHd6_zCI1N0upIm
 ---
 
 ### AYS Weekend Digest 26–28/6/21: “It is not the destination where you arrive that defines migration, but the journey toward resistance\.”
 #### A personal story / Minor refugee children enrolled in a school in Athens denied entry to the National Archaeological Museums / Initiatives against pushbacks / Reports and analysis, and other essential reads…
 
 
-![](assets/81f2fee1b7fa/0*sdHd6_zCI1N0upIm)
+![](../assets/81f2fee1b7fa/0*sdHd6_zCI1N0upIm)
 
 
 More images from the Samos protest against pushbacks \(Photo: Samos Advocacy Collective\) Read our previous Digest for more information
@@ -55,11 +55,11 @@ Ameneh Ebrahimi, 45, Agrin Pardehdar, 27, Rangin Hassannejad, 28, Sarveh Ebrahim
 
 
 
-![](assets/81f2fee1b7fa/0*AaUYhu6DYmiCqVmr)
+![](../assets/81f2fee1b7fa/0*AaUYhu6DYmiCqVmr)
 
 
 
-![](assets/81f2fee1b7fa/0*6icRvrTB25mTH2yM)
+![](../assets/81f2fee1b7fa/0*6icRvrTB25mTH2yM)
 
 ### GREECE
 
@@ -98,11 +98,11 @@ Find archived reports and documented testimonies of people on the move across th
 Fellow activists from Utopia and others active in the northern area have protested the decisions that came to power on September 11 last year, prohibiting the distribution of food and water to people on the move in the city:
 
 
-![](assets/81f2fee1b7fa/0*Bjkl5kmIVuJjgZT2)
+![](../assets/81f2fee1b7fa/0*Bjkl5kmIVuJjgZT2)
 
 
 
-![](assets/81f2fee1b7fa/0*DvJTYjM_gppA0sKX)
+![](../assets/81f2fee1b7fa/0*DvJTYjM_gppA0sKX)
 
 
 Photos: [Utopia\_56](https://twitter.com/Utopia_56)

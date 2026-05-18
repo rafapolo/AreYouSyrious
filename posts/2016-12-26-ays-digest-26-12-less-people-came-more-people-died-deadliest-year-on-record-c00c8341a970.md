@@ -1,5 +1,5 @@
 ---
-title: AYS digest 26/12: Less people came, more people died — deadliest year on record
+title: "AYS digest 26/12: Less people came, more people died — deadliest year on record"
 author: Are You Syrious?
 date: 2016-12-26T22:06:35.268+0000
 last_modified_at: 2016-12-27T16:44:11.987+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: 5,011 deaths in the Mediterranean this year — the deadliest year on record / Heavy snowstorms and freezing temperatures hit Idlib…
 image:
-  path: assets/c00c8341a970/1*w2_2zso1frm7f54uLgMwkA.jpeg
+  path: ../assets/c00c8341a970/1*w2_2zso1frm7f54uLgMwkA.jpeg
 ---
 
 ### AYS digest 26/12: Less people came, more people died — deadliest year on record
@@ -15,7 +15,7 @@ image:
 _5,011 deaths in the Mediterranean this year — the deadliest year on record / Heavy snowstorms and freezing temperatures hit Idlib, especially hurting new camps where those that fled Aleppo have settled / 41 new arrivals in Greece / Lawyers, translators and donations needed in Greece / 80 people found in containers and vans in Serbia on Monday, three smugglers arrested / MSF will support migrants in Como and Ventimiglia waiting to cross the border / Important information when dealing with Italian immigration and asylum system / Civil march to Aleppo / Holiday thank you notes from France_
 
 
-![Photo: MOAS](assets/c00c8341a970/1*w2_2zso1frm7f54uLgMwkA.jpeg)
+![Photo: MOAS](../assets/c00c8341a970/1*w2_2zso1frm7f54uLgMwkA.jpeg)
 
 Photo: MOAS
 #### Mediterranean
@@ -28,7 +28,7 @@ For more statistics, see the [Open migration report](http://openmigration.org/en
 ### **Heavy snow hits Idlib and the vulnerable displaced population that fled Aleppo over recent days\.**
 
 
-![Snow in Idlib\. Photo: AFP Mohamed al — Bakour](assets/c00c8341a970/1*5xPJsQsnOXXhR3toepcWdQ.jpeg)
+![Snow in Idlib\. Photo: AFP Mohamed al — Bakour](../assets/c00c8341a970/1*5xPJsQsnOXXhR3toepcWdQ.jpeg)
 
 Snow in Idlib\. Photo: AFP Mohamed al — Bakour
 
@@ -42,7 +42,7 @@ Snow is reaching Idlib, but water is not making it to Damascus\. As Deutsche Wel
 With people still arriving in the Greek islands, volunteers and organizations continue to work to keep them safe\. One such organization is United Rescue Aid, who aims to inform those crossing the sea how to be safe and who to call if in trouble\. Basic guidelines are explained in the picture below\.
 
 
-![United Rescue Aid](assets/c00c8341a970/1*m4JMuj4hAEWss4jSDhY6XA.jpeg)
+![United Rescue Aid](../assets/c00c8341a970/1*m4JMuj4hAEWss4jSDhY6XA.jpeg)
 
 United Rescue Aid
 ### **Lawyers and translators needed on Lesvos**
@@ -53,7 +53,7 @@ Lesvos Legal Centre is looking for lawyers, legal professionals, recent graduate
 Another way to get involved is by supporting City Plaza Hotel, which is soliciting donations and has published their needs on their [Twitter page](https://twitter.com/sol2refugees/status/813313499900289024) \. If you are able, please donate and/or share the link\.
 
 
-![](assets/c00c8341a970/1*MTmTYf95JzNTGQ-VAA27Gg.jpeg)
+![](../assets/c00c8341a970/1*MTmTYf95JzNTGQ-VAA27Gg.jpeg)
 
 ### **Khora Community Centre monthly assembly**
 
@@ -124,7 +124,7 @@ _Mayor of Grande\-Synth_
 Other thank you note is from Dunkirk children’s centre who wish “Merry Christmas to all the children in Dunkirk\!” and sent thanks “to everyone who donated the shoe boxes, teddies and treats that were delivered by Father Christmas himself\! The children were thrilled with their gifts\! And most of all a great BIG THANK YOU to the fab team of volunteers who have spent their Christmas spreading hope, love and laughter\. As we go to sleep safe in our cozy warm beds tonight, with our bellies full of food, we think of all the children in Dunkirk, and of the millions of children worldwide who have been displaced by war and conflict who will be going to sleep cold and hungry\. Here’s to hoping 2017 is a better year for everyone\.”
 
 
-![Dunkirk](assets/c00c8341a970/1*3_hj3sKM_9uKs1c8pZ2dGg.jpeg)
+![Dunkirk](../assets/c00c8341a970/1*3_hj3sKM_9uKs1c8pZ2dGg.jpeg)
 
 Dunkirk
 ### **Donate your socks, neck wear, underwear and/or gloves that you received as a present for Christmas, but do not need**
@@ -132,7 +132,7 @@ Dunkirk
 Also, Help refugees would like to ask you do donate the unwanted or unneeded gifts such as socks, neck wear, underwear, gloves \(SNUG\) and to organise a group to put together 50 or more SNUG packs? If you can send some SNUG packs their way, email them on calaisdonations@gmail\.com
 
 
-![SNUG ;\)](assets/c00c8341a970/1*BFspCRJBnEYi6MbYdosBWQ.gif)
+![SNUG ;\)](../assets/c00c8341a970/1*BFspCRJBnEYi6MbYdosBWQ.gif)
 
 SNUG ;\)
 

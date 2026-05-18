@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,eu,libya,spain,greece]
 description: More unsafe and risky attempts to cross the Mediterranean in attempts to reach Spain, Italy, and Greece // Police violence in Greece //…
 image:
-  path: assets/5f5d6a23eb0e/1*7D_bJhzphNEcrrP76_ZMcg.jpeg
+  path: ../assets/5f5d6a23eb0e/1*7D_bJhzphNEcrrP76_ZMcg.jpeg
 ---
 
 ### AYS Daily Digest 25/03/21 — EU countries to further collaborate with Libya on migration management
 #### More unsafe and risky attempts to cross the Mediterranean in order to reach Spain, Italy, and Greece // Police violence in Greece // Criticisms towards inhumane new immigration policies in the UK…
 
 
-![FRANCE: Occupation of Place de la République in Paris\. More than 300 women, men and children are sleeping in tents in the central square to demand immediate, stable and decent shelter for all\. [Photo By Utopia 56](https://t.co/eAdITk7t7e?amp=1)](assets/5f5d6a23eb0e/1*7D_bJhzphNEcrrP76_ZMcg.jpeg)
+![FRANCE: Occupation of Place de la République in Paris\. More than 300 women, men and children are sleeping in tents in the central square to demand immediate, stable and decent shelter for all\. [Photo By Utopia 56](https://t.co/eAdITk7t7e?amp=1)](../assets/5f5d6a23eb0e/1*7D_bJhzphNEcrrP76_ZMcg.jpeg)
 
 FRANCE: Occupation of Place de la République in Paris\. More than 300 women, men and children are sleeping in tents in the central square to demand immediate, stable and decent shelter for all\. [Photo By Utopia 56](https://t.co/eAdITk7t7e?amp=1)
 ### EU
@@ -70,7 +70,7 @@ Find out more [here\.](https://www.facebook.com/SOSMEDITERRANEE/photos/a.8066631
 ### GREECE
 
 
-![Aegean Boat Report](assets/5f5d6a23eb0e/1*wS8Ilqw9WicapaTIJ-jvuw.jpeg)
+![Aegean Boat Report](../assets/5f5d6a23eb0e/1*wS8Ilqw9WicapaTIJ-jvuw.jpeg)
 
 Aegean Boat Report
 

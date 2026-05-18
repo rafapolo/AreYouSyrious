@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 6/8/20: New testimony of Frontex involved in pushbacks
+title: "AYS Daily Digest 6/8/20: New testimony of Frontex involved in pushbacks"
 author: Are You Syrious?
 date: 2020-08-07T10:01:03.287+0100
 last_modified_at: 2020-08-07T13:00:10.650+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,diges,albania,fronte,greec]
 description: NNK reveals illegal action at the Albanian-Greek border // First “voluntary return” flight leaves Greece // Locals stage racist protest on…
 image:
-  path: assets/3fd986491188/1*Qihxw4GSoCGBZjLnsge3mw.jpeg
+  path: ../assets/3fd986491188/1*Qihxw4GSoCGBZjLnsge3mw.jpeg
 ---
 
 ### AYS Daily Digest 6/8/20: New testimony of Frontex involved in pushbacks
 #### NNK reveals illegal action at the Albanian\-Greek border // First “voluntary return” flight leaves Greece // Locals stage racist protest on Gran Canaria // 50 people drowned in 24 hours // Italy resumes deportations to Tunisia // Increasing violence of smugglers in Northern France
 
 
-![A group was deported from Albania to Greece in late May, NNK reports\. Credits: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/pcb.1041869792877971/1041869616211322/?type=3&theater&ifg=1)](assets/3fd986491188/1*Qihxw4GSoCGBZjLnsge3mw.jpeg)
+![A group was deported from Albania to Greece in late May, NNK reports\. Credits: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/pcb.1041869792877971/1041869616211322/?type=3&theater&ifg=1)](../assets/3fd986491188/1*Qihxw4GSoCGBZjLnsge3mw.jpeg)
 
 A group was deported from Albania to Greece in late May, NNK reports\. Credits: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/pcb.1041869792877971/1041869616211322/?type=3&theater&ifg=1)
 ### Feature: Pushback by Frontex officers

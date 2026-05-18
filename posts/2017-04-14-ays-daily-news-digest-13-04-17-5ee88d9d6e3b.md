@@ -1,5 +1,5 @@
 ---
-title: AYS Daily News Digest 13.04.17:
+title: "AYS Daily News Digest 13.04.17:"
 author: Are You Syrious?
 date: 2017-04-14T08:08:13.457+0100
 last_modified_at: 2017-04-15T18:47:10.569+0100
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe,afghanistan,denmark,lebanon]
 description: US deploys its most powerful non-nuclear bomb in Afghanistan // 97 missing, likely dead, off the coast of Libya // Syrian refugees serve as…
 image:
-  path: assets/5ee88d9d6e3b/1*Kr-5aUKbXkSyfYCOKIceLw.jpeg
+  path: ../assets/5ee88d9d6e3b/1*Kr-5aUKbXkSyfYCOKIceLw.jpeg
 ---
 
 ### AYS Daily News Digest 13\.04\.17: US uses ‘safe country’ Afghanistan as a testing ground for its strongest non\-nuclear bomb
 
 
-![The smoke following the detonation of the weapon\. If anything screams ‘safety’ it’s definitely an enormous mushroom cloud seen from several miles away\.](assets/5ee88d9d6e3b/1*Kr-5aUKbXkSyfYCOKIceLw.jpeg)
+![The smoke following the detonation of the weapon\. If anything screams ‘safety’ it’s definitely an enormous mushroom cloud seen from several miles away\.](../assets/5ee88d9d6e3b/1*Kr-5aUKbXkSyfYCOKIceLw.jpeg)
 
 The smoke following the detonation of the weapon\. If anything screams ‘safety’ it’s definitely an enormous mushroom cloud seen from several miles away\.
 
@@ -27,7 +27,7 @@ Although chaos continues to reign in the country as a result of warring factions
 The MOAB is the strongest non\-nuclear weapon currently in the US arsenal, and its impact is deadly\. First developed shortly before the invasion of Iraq, the MOAB explodes with a deadly force equivalent to 11 tons of TNT\. Until now it had only been tested, but today it was first used in combat against a local ISIS affiliate known as Khorasan, in the Nangarhar province\. The bomb was detonated near a mountain complex which the group was believed to be using as a training camp and tunnel complex\.
 
 
-![](assets/5ee88d9d6e3b/1*IWQ7v_DVgWQRJK7HghZE6w.jpeg)
+![](../assets/5ee88d9d6e3b/1*IWQ7v_DVgWQRJK7HghZE6w.jpeg)
 
 
 The MOAB delivers a powerful shockwave which covers a radius of 150 meters, but its impact extends beyond that\. The detonation of such a weapon is extremely careless at best, as it is by its very nature imprecise\. In using this weapon, it is simply impossible to account for everything that can possibly go wrong\. Civilians are almost guaranteed to be caught within such a large zone of impact\.

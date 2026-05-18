@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 20/6/2022: Has the Rwanda Deal made a difference in France?
+title: "AYS News Digest 20/6/2022: Has the Rwanda Deal made a difference in France?"
 author: Are You Syrious?
 date: 2022-06-21T11:15:05.365+0100
 last_modified_at: 2022-06-21T11:15:05.365+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,newsdigest,worldrefugeeday,migration]
 description: World Refugee Day — Ten thousand protest in Italy // Four missing following shipwreck near Mykonos // Afghan Activist Speaks Out Against…
 image:
-  path: assets/a07955faef15/0*ktbjO4HaDrbIKbQN
+  path: ../assets/a07955faef15/0*ktbjO4HaDrbIKbQN
 ---
 
 ### AYS News Digest 20/6/2022: Has the Rwanda Deal made a difference in France?
@@ -16,7 +16,7 @@ image:
 ### Changing Perspectives: has the Rwanda Deal made a difference in France?
 
 
-![Photo Credit: [Lewis Goodall via Twitter](https://twitter.com/lewis_goodall/status/1463106096336363521/photo/2)](assets/a07955faef15/0*ktbjO4HaDrbIKbQN)
+![Photo Credit: [Lewis Goodall via Twitter](https://twitter.com/lewis_goodall/status/1463106096336363521/photo/2)](../assets/a07955faef15/0*ktbjO4HaDrbIKbQN)
 
 Photo Credit: [Lewis Goodall via Twitter](https://twitter.com/lewis_goodall/status/1463106096336363521/photo/2)
 
@@ -102,7 +102,7 @@ Joya spoke at the invitation of the Spanish Commissioner for Refugee Aid at El C
 Protests outside the Foreigners Office in Madrid are taking place due to the lack of appointments available\. Without appointments it’s not possible for people to access their rights\.
 
 
-![Photo Credit: [San Carlos Borromeo](https://twitter.com/EntreBorromeos) [\#SinCitasNOhayDerechos](https://twitter.com/hashtag/SinCitasNOhayDerechos?src=hashtag_click)](assets/a07955faef15/0*GwDIGQVXVUg76lCJ)
+![Photo Credit: [San Carlos Borromeo](https://twitter.com/EntreBorromeos) [\#SinCitasNOhayDerechos](https://twitter.com/hashtag/SinCitasNOhayDerechos?src=hashtag_click)](../assets/a07955faef15/0*GwDIGQVXVUg76lCJ)
 
 Photo Credit: [San Carlos Borromeo](https://twitter.com/EntreBorromeos) [\#SinCitasNOhayDerechos](https://twitter.com/hashtag/SinCitasNOhayDerechos?src=hashtag_click)
 
@@ -123,7 +123,7 @@ As reported in [this previous news digest](ays-news-digest-15-06-2022-uk-rwanda-
 Meanwhile, on the same day that the Rwanda was first announced, an [art installation at the White Cliffs of Dover](https://www.theguardian.com/artanddesign/2022/jun/20/im-appalled-the-artist-who-put-up-a-giant-sign-for-refugees-at-sea-to-read?fbclid=IwAR3w1udZeps3xcgKeoTwDAuYikrE_lPOKOoCJhs3UJ35WT7eTnZOO4RQnhA) was illuminated as a beacon of hope\. Artist Nathan Coley has erected the sign that reads: “You Imagine What you Desire” and he discusses [this piece here\.](https://www.theguardian.com/artanddesign/2022/jun/20/im-appalled-the-artist-who-put-up-a-giant-sign-for-refugees-at-sea-to-read?fbclid=IwAR3w1udZeps3xcgKeoTwDAuYikrE_lPOKOoCJhs3UJ35WT7eTnZOO4RQnhA)
 
 
-![**Photo** Credit: Nathan Coley’s You Imagine What You Desire at Newhaven\. [Photograph: Keith Hunter](https://www.theguardian.com/artanddesign/2022/jun/20/im-appalled-the-artist-who-put-up-a-giant-sign-for-refugees-at-sea-to-read?fbclid=IwAR3w1udZeps3xcgKeoTwDAuYikrE_lPOKOoCJhs3UJ35WT7eTnZOO4RQnhA)](assets/a07955faef15/0*xUUwhYJcANo6QXXg)
+![**Photo** Credit: Nathan Coley’s You Imagine What You Desire at Newhaven\. [Photograph: Keith Hunter](https://www.theguardian.com/artanddesign/2022/jun/20/im-appalled-the-artist-who-put-up-a-giant-sign-for-refugees-at-sea-to-read?fbclid=IwAR3w1udZeps3xcgKeoTwDAuYikrE_lPOKOoCJhs3UJ35WT7eTnZOO4RQnhA)](../assets/a07955faef15/0*xUUwhYJcANo6QXXg)
 
 **Photo** Credit: Nathan Coley’s You Imagine What You Desire at Newhaven\. [Photograph: Keith Hunter](https://www.theguardian.com/artanddesign/2022/jun/20/im-appalled-the-artist-who-put-up-a-giant-sign-for-refugees-at-sea-to-read?fbclid=IwAR3w1udZeps3xcgKeoTwDAuYikrE_lPOKOoCJhs3UJ35WT7eTnZOO4RQnhA)
 #### SEA — SAR

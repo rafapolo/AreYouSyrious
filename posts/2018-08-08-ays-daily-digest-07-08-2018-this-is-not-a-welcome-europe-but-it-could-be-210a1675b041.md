@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 07/08/2018: This is not a welcome Europe — but it could be
+title: "AYS Daily Digest 07/08/2018: This is not a welcome Europe — but it could be"
 author: Are You Syrious?
 date: 2018-08-08T01:39:07.863+0100
 last_modified_at: 2018-08-08T15:23:09.680+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,germany,italy,samos,digest]
 description: AYS publishes its 1000th story on Medium / Libya receives more ships from Italy / Samos hotspot at 600% of its capacity / Another report of…
 image:
-  path: assets/210a1675b041/1*KrJP0JTT9bGcWc66gRl6Hw.jpeg
+  path: ../assets/210a1675b041/1*KrJP0JTT9bGcWc66gRl6Hw.jpeg
 ---
 
 ### AYS Daily Digest 07/08/2018: This is not a welcome Europe — but it could be
 #### AYS publishes its 1000th story on Medium / Libya receives more ships from Italy / Samos hotspot at 600% of its capacity / Another report of police violence and pushbacks in Croatia / More Turkish citizens seek asylum in Germany / Protests in Sweden continue
 
 
-![A scene from the Italian\-French border in July\. Credits: [Twitter/Oxfam Italia](https://twitter.com/OxfamItalia/status/1017029762471120896)](assets/210a1675b041/1*KrJP0JTT9bGcWc66gRl6Hw.jpeg)
+![A scene from the Italian\-French border in July\. Credits: [Twitter/Oxfam Italia](https://twitter.com/OxfamItalia/status/1017029762471120896)](../assets/210a1675b041/1*KrJP0JTT9bGcWc66gRl6Hw.jpeg)
 
 A scene from the Italian\-French border in July\. Credits: [Twitter/Oxfam Italia](https://twitter.com/OxfamItalia/status/1017029762471120896)
 

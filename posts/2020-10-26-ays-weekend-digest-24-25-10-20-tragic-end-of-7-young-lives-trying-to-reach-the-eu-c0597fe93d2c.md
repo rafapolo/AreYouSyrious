@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 24–25/10/20: Tragic end of 7 young lives trying to reach the EU
+title: "AYS Weekend Digest 24–25/10/20: Tragic end of 7 young lives trying to reach the EU"
 author: Are You Syrious?
 date: 2020-10-26T17:12:14.971+0000
 last_modified_at: 2020-10-26T19:40:07.639+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,europe,migration,refugees,serbia]
 description: / The remains of seven people in an advanced stage of decomposition found in a container of fertilizer that arrived to Paraguay in from…
 image:
-  path: assets/c0597fe93d2c/0*Hx4-p7qbmb3o60t_
+  path: ../assets/c0597fe93d2c/0*Hx4-p7qbmb3o60t_
 ---
 
 ### AYS Weekend Digest 24–25/10/20: Tragic end of 7 young lives trying to reach the EU
 #### The remains of seven people found in a container of fertilizer that arrived to Paraguay from Serbia / State\-sponsored separation of mothers and children in Denmark / News, recommended reads & more updates
 
 
-![“Moria 2” — Photo: [moria 2 refugees](https://twitter.com/moria_camp_2) — See contribution under “Worth reading” for another story from Moria2…](assets/c0597fe93d2c/0*Hx4-p7qbmb3o60t_)
+![“Moria 2” — Photo: [moria 2 refugees](https://twitter.com/moria_camp_2) — See contribution under “Worth reading” for another story from Moria2…](../assets/c0597fe93d2c/0*Hx4-p7qbmb3o60t_)
 
 “Moria 2” — Photo: [moria 2 refugees](https://twitter.com/moria_camp_2) — See contribution under “Worth reading” for another story from Moria2…
 #### FEATURED
@@ -28,7 +28,7 @@ The camps are full and poorly run\. Reportedly, more than 6,000 people are stayi
 At the same time, pushbacks to Serbia from Romania, Hungary and Croatia continue, and so does people’s desperate struggle to reach the EU by all means\. Seven more people lost their lives in a tragic way\.
 
 
-![](assets/c0597fe93d2c/1*4kSPcon9EkgAyVoWECvt0g.jpeg)
+![](../assets/c0597fe93d2c/1*4kSPcon9EkgAyVoWECvt0g.jpeg)
 
 
 Paraguayan police found the remains of seven people, reportedly in an advanced stage of decomposition, in a container of fertilizer that arrived from Serbia\. Asphyxiation was the likely cause of death\. The container had left Serbia in July, passing through Croatia, the first country in the EU — their likely destination — before it continued through Egypt, Spain and Argentina on its way to Paraguay\.
@@ -59,7 +59,7 @@ From the Alarm Phone team:
 ### Collective pushback by the Greek coast guard
 
 
-![Photo: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?__cft__[0]=AZUYuQ2h3-Qc4Dh1tOSoSzGDwMaoj2IZX6XJdA93wZ7zCDe-PFFBFy0T4V_2KA8tnaLhk1r4Fy8qs9b4xSdLNUAtUtnRVgAjimm-MCC2z9m5MUKOhWlnkJwa4INDs0tPaoOD-Z3er5pasBjC53ngxpkgmYfWZQa1iec-1any1Q7Z2D7FaGDjKXa0kD9BKNKWOLQ&__tn__=-UC%2CP-R)](assets/c0597fe93d2c/1*PCdmOn0n_r9e3Onh4vj8WA.jpeg)
+![Photo: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?__cft__[0]=AZUYuQ2h3-Qc4Dh1tOSoSzGDwMaoj2IZX6XJdA93wZ7zCDe-PFFBFy0T4V_2KA8tnaLhk1r4Fy8qs9b4xSdLNUAtUtnRVgAjimm-MCC2z9m5MUKOhWlnkJwa4INDs0tPaoOD-Z3er5pasBjC53ngxpkgmYfWZQa1iec-1any1Q7Z2D7FaGDjKXa0kD9BKNKWOLQ&__tn__=-UC%2CP-R)](../assets/c0597fe93d2c/1*PCdmOn0n_r9e3Onh4vj8WA.jpeg)
 
 Photo: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?__cft__[0]=AZUYuQ2h3-Qc4Dh1tOSoSzGDwMaoj2IZX6XJdA93wZ7zCDe-PFFBFy0T4V_2KA8tnaLhk1r4Fy8qs9b4xSdLNUAtUtnRVgAjimm-MCC2z9m5MUKOhWlnkJwa4INDs0tPaoOD-Z3er5pasBjC53ngxpkgmYfWZQa1iec-1any1Q7Z2D7FaGDjKXa0kD9BKNKWOLQ&__tn__=-UC%2CP-R)
 
@@ -83,7 +83,7 @@ The recently published Migration pact is getting increasingly criticised from di
 This is what the future might look like for even more people… :
 
 
-![](assets/c0597fe93d2c/0*2KIC0fjVd7uG8m0j)
+![](../assets/c0597fe93d2c/0*2KIC0fjVd7uG8m0j)
 
 #### FRANCE
 
@@ -93,19 +93,19 @@ Activists report that 4 expulsions were documented in the Calais area, they incl
 Mobile teams urgently need phones to distribute to people in Calais and Dunkirk\. As they point out, “a phone is a real lifeline for the people we support but our stocks are currently very low so we are launching our campaign, asking you to organise collections in your local areas\.”
 
 
-![](assets/c0597fe93d2c/1*6b-WqAXTzl2H402BrHjzfQ.jpeg)
+![](../assets/c0597fe93d2c/1*6b-WqAXTzl2H402BrHjzfQ.jpeg)
 
 
 
-![](assets/c0597fe93d2c/1*8p5hrwu7Cb2WPwsPvr5_Qw.jpeg)
+![](../assets/c0597fe93d2c/1*8p5hrwu7Cb2WPwsPvr5_Qw.jpeg)
 
 
 
-![](assets/c0597fe93d2c/1*aHSehxOdSxiOcxNoK620Zw.jpeg)
+![](../assets/c0597fe93d2c/1*aHSehxOdSxiOcxNoK620Zw.jpeg)
 
 
 
-![](assets/c0597fe93d2c/1*4hnsIK3y48VfNaML6Wow-A.jpeg)
+![](../assets/c0597fe93d2c/1*4hnsIK3y48VfNaML6Wow-A.jpeg)
 
 
 
@@ -204,7 +204,7 @@ In collaboration with [Jeunes Journalistes Sans Frontières](https://www.faceboo
 
 
 
-![](assets/c0597fe93d2c/0*N926FKoQnINTGOFx)
+![](../assets/c0597fe93d2c/0*N926FKoQnINTGOFx)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

@@ -1,13 +1,13 @@
 ---
-title: AYS Weekend Digest 4–5/4/2020: Protests in German reception centres
+title: "AYS Weekend Digest 4–5/4/2020: Protests in German reception centres"
 author: Are You Syrious?
 date: 2020-04-06T12:39:32.389+0100
 last_modified_at: 2020-04-06T14:14:40.454+0100
 categories: Are You Syrious?
 tags: [digest,covid-19,lockdown,refugees,mediterranean]
-description: GREECE: Malakasa camp in lockdown. LIBYA: people detained in Khoms left with no food. SEA: Rescues and returns in the Western Med. And…
+description: "GREECE: Malakasa camp in lockdown. LIBYA: people detained in Khoms left with no food. SEA: Rescues and returns in the Western Med. And…"
 image:
-  path: assets/fb632f5ad5f8/1*kXnJfgns_RffHzbrE3A8MQ.jpeg
+  path: ../assets/fb632f5ad5f8/1*kXnJfgns_RffHzbrE3A8MQ.jpeg
 ---
 
 ### AYS Weekend Digest 4–5/4/2020: Protests in German reception centres
@@ -15,7 +15,7 @@ image:
 Greece: Malakasa is the second camp in lockdown after one resident tested positive / Libya: people detained in Khoms left with no food / SEA: Rescues and returns in the Western Med / More from Germany, The Netherlands and Luxemburg
 
 
-![“Stay Home” by Mahmoud Abbas](assets/fb632f5ad5f8/1*kXnJfgns_RffHzbrE3A8MQ.jpeg)
+![“Stay Home” by Mahmoud Abbas](../assets/fb632f5ad5f8/1*kXnJfgns_RffHzbrE3A8MQ.jpeg)
 
 “Stay Home” by Mahmoud Abbas
 #### FEATURE — Protests in German reception centres as more residents test positive
@@ -148,15 +148,15 @@ The same [local source states](https://web.facebook.com/iasonas.apos/posts/10163
 “Surely the state’s job?” I hear you ask, “aren’t they in charge of Moria? Didn’t you only [recently report](ays-daily-digest-02-04-2020-greek-ban-on-asylum-applications-overturned-774c42f072f0) that the EU were giving the Greek Government financial support to prevent the spread of COVID\-19 in camps?” Well… instead it is the residents themselves and [Team Humanity](https://web.facebook.com/sk.aldeen.3/posts/1654637514694738?hc_location=ufi) who have undertaken this task\.
 
 
-![](assets/fb632f5ad5f8/1*6CyNu9LVQBi1pYPVgLmfGg.jpeg)
+![](../assets/fb632f5ad5f8/1*6CyNu9LVQBi1pYPVgLmfGg.jpeg)
 
 
 
-![](assets/fb632f5ad5f8/1*IM5DNL74TSKO7g8-kvpgwg.jpeg)
+![](../assets/fb632f5ad5f8/1*IM5DNL74TSKO7g8-kvpgwg.jpeg)
 
 
 
-![\(Photo Credit: [Salam Aldeen](https://web.facebook.com/sk.aldeen.3/posts/1654637514694738?hc_location=ufi) \)](assets/fb632f5ad5f8/1*LGq9qeflmRWWLMBqYUc7mA.jpeg)
+![\(Photo Credit: [Salam Aldeen](https://web.facebook.com/sk.aldeen.3/posts/1654637514694738?hc_location=ufi) \)](../assets/fb632f5ad5f8/1*LGq9qeflmRWWLMBqYUc7mA.jpeg)
 
 \(Photo Credit: [Salam Aldeen](https://web.facebook.com/sk.aldeen.3/posts/1654637514694738?hc_location=ufi) \)
 
@@ -174,11 +174,11 @@ The same [local source states](https://web.facebook.com/iasonas.apos/posts/10163
 [**Moria Corona Awareness Team**](https://web.facebook.com/MoriaCoronaAwarenessTeam/photos/a.113457933616719/121079319521247/?type=3&__tn__=-R&hc_location=ufi) **Posters for Camps**
 
 
-![](assets/fb632f5ad5f8/1*DtlvyeDaZfAJ0szhpp2oaQ.jpeg)
+![](../assets/fb632f5ad5f8/1*DtlvyeDaZfAJ0szhpp2oaQ.jpeg)
 
 
 
-![](assets/fb632f5ad5f8/1*ocBeJ6Yks1ziHD964ooRdw.jpeg)
+![](../assets/fb632f5ad5f8/1*ocBeJ6Yks1ziHD964ooRdw.jpeg)
 
 
 **Leros Corona Awareness Team**
@@ -211,19 +211,19 @@ The same [local source states](https://web.facebook.com/iasonas.apos/posts/10163
 
 
 
-![](assets/fb632f5ad5f8/1*UxjRRWG7LvwLmu2HQRWOGw.jpeg)
+![](../assets/fb632f5ad5f8/1*UxjRRWG7LvwLmu2HQRWOGw.jpeg)
 
 
 
-![](assets/fb632f5ad5f8/1*Bm7aafevalKqusjcVbHoGA.jpeg)
+![](../assets/fb632f5ad5f8/1*Bm7aafevalKqusjcVbHoGA.jpeg)
 
 
 
-![](assets/fb632f5ad5f8/1*l-KueJsQ3DBX3KfzQ2MH6w.jpeg)
+![](../assets/fb632f5ad5f8/1*l-KueJsQ3DBX3KfzQ2MH6w.jpeg)
 
 
 
-![\(Photo Credit: [Stand by me Lesvos](https://web.facebook.com/www.standbymelesvos.gr/posts/606119249981101?hc_location=ufi) \)](assets/fb632f5ad5f8/1*pjlFOqLy-UAEwToMF6ekvw.jpeg)
+![\(Photo Credit: [Stand by me Lesvos](https://web.facebook.com/www.standbymelesvos.gr/posts/606119249981101?hc_location=ufi) \)](../assets/fb632f5ad5f8/1*pjlFOqLy-UAEwToMF6ekvw.jpeg)
 
 \(Photo Credit: [Stand by me Lesvos](https://web.facebook.com/www.standbymelesvos.gr/posts/606119249981101?hc_location=ufi) \)
 
@@ -266,11 +266,11 @@ Get involved in the action day! https://t.co/LGkq9kcMWh
 
 
 
-![](assets/fb632f5ad5f8/1*jfXOc3jubbO4vVwqpWauSg.jpeg)
+![](../assets/fb632f5ad5f8/1*jfXOc3jubbO4vVwqpWauSg.jpeg)
 
 
 
-![\(Photo Credit: [Moria White Helmets](https://web.facebook.com/permalink.php?story_fbid=121050579538010&id=106807430962325&hc_location=ufi) \)](assets/fb632f5ad5f8/1*3EPO9kepKupdwWPJAYe8GA.jpeg)
+![\(Photo Credit: [Moria White Helmets](https://web.facebook.com/permalink.php?story_fbid=121050579538010&id=106807430962325&hc_location=ufi) \)](../assets/fb632f5ad5f8/1*3EPO9kepKupdwWPJAYe8GA.jpeg)
 
 \(Photo Credit: [Moria White Helmets](https://web.facebook.com/permalink.php?story_fbid=121050579538010&id=106807430962325&hc_location=ufi) \)
 
@@ -377,7 +377,7 @@ Given the slowness and the intricacy of the EU machine, we will keep updating yo
 This is what the “distribution” of 1,600 minors from the greek islands’ RICs to eight European countries looks like:
 
 
-![by [Europe Must Act](https://www.facebook.com/europemustact/photos/a.104489524497084/125780295701340/?type=3&theater)](assets/fb632f5ad5f8/1*D5C2cN4O2MlP5v28dAibwQ.jpeg)
+![by [Europe Must Act](https://www.facebook.com/europemustact/photos/a.104489524497084/125780295701340/?type=3&theater)](../assets/fb632f5ad5f8/1*D5C2cN4O2MlP5v28dAibwQ.jpeg)
 
 by [Europe Must Act](https://www.facebook.com/europemustact/photos/a.104489524497084/125780295701340/?type=3&theater)
 

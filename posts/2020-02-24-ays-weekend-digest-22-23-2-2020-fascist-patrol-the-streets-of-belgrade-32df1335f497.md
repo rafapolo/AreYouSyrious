@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 22–23/2/2020: Fascist patrol the streets of Belgrade
+title: "AYS Weekend Digest 22–23/2/2020: Fascist patrol the streets of Belgrade"
 author: Are You Syrious?
 date: 2020-02-24T10:09:30.643+0000
 last_modified_at: 2020-02-24T11:44:51.082+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,europe,serbia,refugee,far-right]
 description: Far-right activity in Serbia / Anti-fascist protest across Greece / Finnish Governments plans to accept 175 refugees / Update from the…
 image:
-  path: assets/32df1335f497/1*jFxI3MC6cCNjiyPmzj6Q2g.jpeg
+  path: ../assets/32df1335f497/1*jFxI3MC6cCNjiyPmzj6Q2g.jpeg
 ---
 
 ### AYS Weekend Digest 22–23/2/2020: Fascists patrol the streets of Belgrade
@@ -15,7 +15,7 @@ image:
 Far\-right activity in Serbia / Anti\-fascist protests across Greece / Finnish governments plans to accept 175 refugees / Update from the Latitude Adjustment Podcast\.
 
 
-![Credit: Marios Lolos](assets/32df1335f497/1*jFxI3MC6cCNjiyPmzj6Q2g.jpeg)
+![Credit: Marios Lolos](../assets/32df1335f497/1*jFxI3MC6cCNjiyPmzj6Q2g.jpeg)
 
 Credit: Marios Lolos
 ### **Feature**
@@ -28,7 +28,7 @@ Within the video description, it states that pamphlets were distributed to refug
 The Serbian Interior Ministry \(MUP\) has informed the prosecution of the so\-called “national patrols” by the organisation, and have been instructed to examine the facts surrounding the case\.
 
 
-[![Narodne patrole u centru Beograda - pogledajte njihov razgovor sa emigrantima](assets/32df1335f497/4893_hqdefault.jpg "Narodne patrole u centru Beograda - pogledajte njihov razgovor sa emigrantima")](https://www.youtube.com/watch?v=T4P_l6pvUmA)
+[![Narodne patrole u centru Beograda - pogledajte njihov razgovor sa emigrantima](../assets/32df1335f497/4893_hqdefault.jpg "Narodne patrole u centru Beograda - pogledajte njihov razgovor sa emigrantima")](https://www.youtube.com/watch?v=T4P_l6pvUmA)
 
 ### Serbia
 
@@ -46,7 +46,7 @@ In Mytilene, it was reported that the rally was called with announcements by the
 Additionally, in an apparent attempt to curb the ongoing protests occurring around Greece, this weekend it was [announced](https://twitter.com/BrunoTersago/status/1231623769992704000?s=19&fbclid=IwAR1I1CEGXn8MVQuZLzbPmGhKIFxCrW5BfQrlYRw5IagH0LkQukoxRSlLgqA) that the Greek government will send 14 squads of riot police from Athens and Thessaloniki to Chios \(7 squads\) and Lesvos \(7 squads\) as part of its plan to immediately begin construction work on the new detention centres\.
 
 
-[![Αντιρατσιστική πορεία αλληλεγγύης](assets/32df1335f497/3994_hqdefault.jpg "Αντιρατσιστική πορεία αλληλεγγύης")](https://www.youtube.com/watch?v=RVvwGHBSLJ4)
+[![Αντιρατσιστική πορεία αλληλεγγύης](../assets/32df1335f497/3994_hqdefault.jpg "Αντιρατσιστική πορεία αλληλεγγύης")](https://www.youtube.com/watch?v=RVvwGHBSLJ4)
 
 
 
@@ -61,11 +61,11 @@ The UNHCR is concerned that hundreds of unaccompanied children in Greece –alre
 
 
 
-![](assets/32df1335f497/1*x9E7LSZw919bRy-RpSU3Zg.jpeg)
+![](../assets/32df1335f497/1*x9E7LSZw919bRy-RpSU3Zg.jpeg)
 
 
 
-![Broken and unsanitary bathroom facilities at Amygdaleza\. Credit: [The Crisis Isn't Over](https://medium.com/u/943d9fd29334)](assets/32df1335f497/1*waK3fkGNzImD8gg__M8CGQ.jpeg)
+![Broken and unsanitary bathroom facilities at Amygdaleza\. Credit: [The Crisis Isn't Over](https://medium.com/u/943d9fd29334)](../assets/32df1335f497/1*waK3fkGNzImD8gg__M8CGQ.jpeg)
 
 Broken and unsanitary bathroom facilities at Amygdaleza\. Credit: [The Crisis Isn't Over](https://medium.com/u/943d9fd29334)
 
@@ -134,7 +134,7 @@ Mazen Alhummanda, Syrian political activist and former detainee, returned to Syr
 Eric Maddox, from Latitude Adjustment Podcast, posted a walkthrough of Moria refugee camp, highlighting the terrible conditions and overcrowding that its residents are forced to endure\. Are You Syrious and the Latitude Adjustment Podcast are working on an upcoming five\-episode special set to be released later this year\.
 
 
-[![Come Walk Through The Moria Refugee Camp "Olive Grove"](assets/32df1335f497/c3ef_hqdefault.jpg "Come Walk Through The Moria Refugee Camp "Olive Grove"")](https://www.youtube.com/watch?v=Ez_U2jXX4jI)
+[![Come Walk Through The Moria Refugee Camp "Olive Grove"](../assets/32df1335f497/c3ef_hqdefault.jpg "Come Walk Through The Moria Refugee Camp "Olive Grove"")](https://www.youtube.com/watch?v=Ez_U2jXX4jI)
 
 
 

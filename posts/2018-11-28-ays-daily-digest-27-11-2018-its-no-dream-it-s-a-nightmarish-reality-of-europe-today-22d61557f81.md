@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 27/11/2018: It’s no dream, it’s a nightmarish reality of Europe today!
+title: "AYS DAILY DIGEST 27/11/2018: It’s no dream, it’s a nightmarish reality of Europe today!"
 author: Are You Syrious?
 date: 2018-11-28T16:51:57.484+0000
 last_modified_at: 2018-11-30T09:10:13.106+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: []
 description: Volunteers describing the situation in Samos, in Velika Kladuša, in Calais, Paris, Brussels // The EU does not want to give up on the idea…
 image:
-  path: assets/22d61557f81/1*xEJJI_Dez3twAXd4dTw3_A.jpeg
+  path: ../assets/22d61557f81/1*xEJJI_Dez3twAXd4dTw3_A.jpeg
 ---
 
 ### AYS DAILY DIGEST 27/11/2018: It’s no dream, it’s a nightmarish reality of Europe today\!
@@ -15,7 +15,7 @@ image:
 _Volunteers describing the situation in Samos, in Velika Kladuša, in Calais, Paris, Brussels // The EU does not want to give up on the idea of disembarkation platforms // People coming back from Bosnia to Serbia…// AYS weekly digest now in Arabic and Farsi\!_
 
 
-![Dunkirk on Saturday the 24th of November\. Photo by [VZWGent4Humanity refugee support](https://www.facebook.com/BelgiumGent4Humanity/?__tn__=%2CdkCH-R-R&eid=ARCSRQ6G2-g62Th4jJTekHclRoc_Okj_ZdQMl1eTDbuAK2Wu3E45t4n7jhCdCo3l9Ryhlf1NI3U1bNN8&hc_ref=ARROkSzMX_VPaj1QPatg8SgdGWVhTryUkQvZCMnVzzoYRJ8nD8tWAh93bzDrUwrJMDc&fref=nf)](assets/22d61557f81/1*xEJJI_Dez3twAXd4dTw3_A.jpeg)
+![Dunkirk on Saturday the 24th of November\. Photo by [VZWGent4Humanity refugee support](https://www.facebook.com/BelgiumGent4Humanity/?__tn__=%2CdkCH-R-R&eid=ARCSRQ6G2-g62Th4jJTekHclRoc_Okj_ZdQMl1eTDbuAK2Wu3E45t4n7jhCdCo3l9Ryhlf1NI3U1bNN8&hc_ref=ARROkSzMX_VPaj1QPatg8SgdGWVhTryUkQvZCMnVzzoYRJ8nD8tWAh93bzDrUwrJMDc&fref=nf)](../assets/22d61557f81/1*xEJJI_Dez3twAXd4dTw3_A.jpeg)
 
 Dunkirk on Saturday the 24th of November\. Photo by [VZWGent4Humanity refugee support](https://www.facebook.com/BelgiumGent4Humanity/?__tn__=%2CdkCH-R-R&eid=ARCSRQ6G2-g62Th4jJTekHclRoc_Okj_ZdQMl1eTDbuAK2Wu3E45t4n7jhCdCo3l9Ryhlf1NI3U1bNN8&hc_ref=ARROkSzMX_VPaj1QPatg8SgdGWVhTryUkQvZCMnVzzoYRJ8nD8tWAh93bzDrUwrJMDc&fref=nf)
 ### Feature: Statement from a volunteer on Samos
@@ -76,7 +76,7 @@ During November, 110 people are known to have lost their lives in the Western Me
 With winter here, the number of people who will die on the road, in the front of the closed borders, could easily increase\.
 
 
-![[sea\-eye](https://www.facebook.com/seaeyeorg/?__tn__=%2CdkCH-R-R&eid=ARBUT7XeXHYRqGnMrdKwBy2fwvjYR9bhp2yIDnfvkBtnidXHQBPGV5FnqdYQun8fGQqlkuyeQKJCuTxp&hc_ref=ARSoYSN-GxMYYHlXFzAevHmuxBJnnhKRYvL-85tCo54oo0agyQbJWpJwoVPxiKJ-bIA&fref=nf&hc_location=group)](assets/22d61557f81/1*3K9mrcggtdk2PqepOZweMw.jpeg)
+![[sea\-eye](https://www.facebook.com/seaeyeorg/?__tn__=%2CdkCH-R-R&eid=ARBUT7XeXHYRqGnMrdKwBy2fwvjYR9bhp2yIDnfvkBtnidXHQBPGV5FnqdYQun8fGQqlkuyeQKJCuTxp&hc_ref=ARSoYSN-GxMYYHlXFzAevHmuxBJnnhKRYvL-85tCo54oo0agyQbJWpJwoVPxiKJ-bIA&fref=nf&hc_location=group)](../assets/22d61557f81/1*3K9mrcggtdk2PqepOZweMw.jpeg)
 
 [sea\-eye](https://www.facebook.com/seaeyeorg/?__tn__=%2CdkCH-R-R&eid=ARBUT7XeXHYRqGnMrdKwBy2fwvjYR9bhp2yIDnfvkBtnidXHQBPGV5FnqdYQun8fGQqlkuyeQKJCuTxp&hc_ref=ARSoYSN-GxMYYHlXFzAevHmuxBJnnhKRYvL-85tCo54oo0agyQbJWpJwoVPxiKJ-bIA&fref=nf&hc_location=group)
 ### ITALY
@@ -128,15 +128,15 @@ One story — which we are publishing a bit late — illustrates the alarming co
 Winter has begun in Bosnia\.
 
 
-![](assets/22d61557f81/1*RbSxXDVOZmbZnLQFUY4UZA.jpeg)
+![](../assets/22d61557f81/1*RbSxXDVOZmbZnLQFUY4UZA.jpeg)
 
 
 
-![](assets/22d61557f81/1*mMFj8o2-BUur8_OgHvPVWQ.jpeg)
+![](../assets/22d61557f81/1*mMFj8o2-BUur8_OgHvPVWQ.jpeg)
 
 
 
-![Makeshift camp in Velika Kladusa\. Photo AYS](assets/22d61557f81/1*Xnk_I_Q1FWTuqmrij4kKAw.jpeg)
+![Makeshift camp in Velika Kladusa\. Photo AYS](../assets/22d61557f81/1*Xnk_I_Q1FWTuqmrij4kKAw.jpeg)
 
 Makeshift camp in Velika Kladusa\. Photo AYS
 
@@ -149,13 +149,13 @@ In Kladuša, the recently established transit center in the Miral factory is bec
 Due to this unbearable situation, some people, even families, have left the camp and returned to the makeshift camp in Velika Kladuša\. Here, conditions are less than humane, but still, there are once again around 100 people staying in shelters they constructed themselves\.
 
 
-[![Velika Kladusa, morning, November 28th](assets/22d61557f81/ffca_hqdefault.jpg "Velika Kladusa, morning, November 28th")](http://www.youtube.com/watch?v=SdNhYGc9ptc)
+[![Velika Kladusa, morning, November 28th](../assets/22d61557f81/ffca_hqdefault.jpg "Velika Kladusa, morning, November 28th")](http://www.youtube.com/watch?v=SdNhYGc9ptc)
 
 
 [SOS Team Kladuša](https://www.facebook.com/SOSTeamKladusa/) and [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/) teams are providing basic help\. While NNK runs NFI and showers, SOS Team helps in the local restaurant where every day about 350 people come to eat\. They also provide first aid help daily, treating on average 25 patients per day with wounds from border violence, flu, diarrhea etc\.
 
 
-![Photo by SOS Team Kladusa](assets/22d61557f81/1*hgNiOroYS26maFLYbj0SOQ.jpeg)
+![Photo by SOS Team Kladusa](../assets/22d61557f81/1*hgNiOroYS26maFLYbj0SOQ.jpeg)
 
 Photo by SOS Team Kladusa
 
@@ -179,7 +179,7 @@ You can buy a snug pack to keep a refugee warm for just £5, and even get some C
 [VZWGent4Humanity refugee support](https://www.facebook.com/BelgiumGent4Humanity/?__tn__=%2CdkCH-R-R&eid=ARCSRQ6G2-g62Th4jJTekHclRoc_Okj_ZdQMl1eTDbuAK2Wu3E45t4n7jhCdCo3l9Ryhlf1NI3U1bNN8&hc_ref=ARROkSzMX_VPaj1QPatg8SgdGWVhTryUkQvZCMnVzzoYRJ8nD8tWAh93bzDrUwrJMDc&fref=nf) went to Dunkirk on Saturday the 24th of November\.
 
 
-![](assets/22d61557f81/1*tILUvNiDLMzOkj2Itq7G_w.jpeg)
+![](../assets/22d61557f81/1*tILUvNiDLMzOkj2Itq7G_w.jpeg)
 
 
 “Refugees were risking dangerous burns trying to keep warm\. Some had created makeshift shacks as a protection against the cold, and our first aid team did what they could to help a refugee in a tiny tent because it was the only way for him to have any privacy when being examined and treated\.
@@ -192,7 +192,7 @@ It is amazing what people can do when they get together\. One of the examples is
 [Serve the City Brussels](https://www.facebook.com/stcbrussels/?__tn__=%2CdkCH-R-R&eid=ARBANTg0GJp1nihVkmNKu8zhrZJOpcH93VA4vyWhY_mAiWpOsXTYivXeIj_i1BdIeVY5p78TMRQmJbkW&hc_ref=ARRgozL_H8rddf3uypdvli6YtiRJszGN3lL2IbLSn43z_CtZFV9ZgS2dDypxUK-ir8g&fref=nf&hc_location=group) serves an average of 350 breakfasts and dinners every day\. You can [join them](https://doodle.com/poll/wv5mfv4awb3ytwq3) if you want\. The Centre is located at Blue Star, 6 rue du Planeur, 1130 Evere \(near Bordet Station\) \.
 
 
-![](assets/22d61557f81/1*nd_65In9bvwYHZQVlTkOJQ.jpeg)
+![](../assets/22d61557f81/1*nd_65In9bvwYHZQVlTkOJQ.jpeg)
 
 
 From this week on, we are publishing a **weekly overview in Arabic and in Persian** of some of the most important stories we covered during the previous week\. Share it with your Arabic and Persian\-speaking friends\. 

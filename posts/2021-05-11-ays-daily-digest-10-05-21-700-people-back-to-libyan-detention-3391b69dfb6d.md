@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,greece,immigration,digest,libya]
 description: Man detained illegally for 4 years in UK // UNHCR condemns UK’s new asylum plan // evictions in Calais // and more…
 image:
-  path: assets/3391b69dfb6d/0*DF4MtCcLDcPYEw_b
+  path: ../assets/3391b69dfb6d/0*DF4MtCcLDcPYEw_b
 ---
 
 ### AYS Daily Digest 10/05/21–700 people back to Libyan detention
@@ -15,7 +15,7 @@ image:
 _Man detained illegally for 4 years in UK // UNHCR condemns UK’s new asylum plan // evictions in Calais // and more…_
 
 
-![Photo by [UNHCR Libya](https://twitter.com/UNHCRLibya/status/1391763343162200064?fbclid=IwAR36ekTQRaeO6Ag9PD7FIdqA1ehTWZ6zZtvru8F0NITQB7cgUaMLeJ6ke2Y)](assets/3391b69dfb6d/0*DF4MtCcLDcPYEw_b)
+![Photo by [UNHCR Libya](https://twitter.com/UNHCRLibya/status/1391763343162200064?fbclid=IwAR36ekTQRaeO6Ag9PD7FIdqA1ehTWZ6zZtvru8F0NITQB7cgUaMLeJ6ke2Y)](../assets/3391b69dfb6d/0*DF4MtCcLDcPYEw_b)
 
 Photo by [UNHCR Libya](https://twitter.com/UNHCRLibya/status/1391763343162200064?fbclid=IwAR36ekTQRaeO6Ag9PD7FIdqA1ehTWZ6zZtvru8F0NITQB7cgUaMLeJ6ke2Y)
 ### FEATURE: Shipwrecks, distress calls, deaths, rescues, arrivals, and 700 people back to Libyan detention, all below
@@ -195,7 +195,7 @@ Aujourd'hui: 28 tentes, 18 bâches, 10 sacs de couchages et 5 couvertures. https
 Check out this event for housing is a right: 12/05 at 13:00, place de la République\.
 
 
-![Photo and Info by [Paris d’Exil](https://twitter.com/paris_dexil/status/1391687924639576066)](assets/3391b69dfb6d/0*ZCDk36YIFnTNI3ql)
+![Photo and Info by [Paris d’Exil](https://twitter.com/paris_dexil/status/1391687924639576066)](../assets/3391b69dfb6d/0*ZCDk36YIFnTNI3ql)
 
 Photo and Info by [Paris d’Exil](https://twitter.com/paris_dexil/status/1391687924639576066)
 #### UK

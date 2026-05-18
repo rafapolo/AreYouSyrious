@@ -1,5 +1,5 @@
 ---
-title: AYS Special: Updates from Baghdad (5)
+title: "AYS Special: Updates from Baghdad (5)"
 author: Are You Syrious?
 date: 2020-01-08T15:49:50.733+0000
 last_modified_at: 2020-01-08T15:50:55.277+0000
@@ -7,20 +7,20 @@ categories: Are You Syrious?
 tags: [iraq,freedom,iran,usa,special]
 description: Main events concerning the uprisings for the week 1st–7th January.
 image:
-  path: assets/e09336254498/1*jlrHVE3DjOD_aoh9QNZUOQ.jpeg
+  path: ../assets/e09336254498/1*jlrHVE3DjOD_aoh9QNZUOQ.jpeg
 ---
 
 ### AYS Special: Updates from Baghdad \(5\)
 #### Main events concerning the uprisings for the week 1st–7th January\.
 
 
-![“1/1 our response is homeland and 10/1 the homeland wants us”\. Credit: Ali Dab Dab\.](assets/e09336254498/1*jlrHVE3DjOD_aoh9QNZUOQ.jpeg)
+![“1/1 our response is homeland and 10/1 the homeland wants us”\. Credit: Ali Dab Dab\.](../assets/e09336254498/1*jlrHVE3DjOD_aoh9QNZUOQ.jpeg)
 
 “1/1 our response is homeland and 10/1 the homeland wants us”\. Credit: Ali Dab Dab\.
 #### The killing of Soleimani is a new turn that revealed a lot about the true face of the Iraqi government and created tension and division in the region\. It has become the greatest threat to the ongoing Iraq uprising and has prevented its goals from being achieved\.
 
 
-![A car burning after the missile strike that killed Soleimani\. Re\-post from local activists\.](assets/e09336254498/1*Mgpn1vWJjwH6KgHH5Nv0_Q.png)
+![A car burning after the missile strike that killed Soleimani\. Re\-post from local activists\.](../assets/e09336254498/1*Mgpn1vWJjwH6KgHH5Nv0_Q.png)
 
 A car burning after the missile strike that killed Soleimani\. Re\-post from local activists\.
 
@@ -37,7 +37,7 @@ Qais Khazali, founder of the AAH, now part of the Popular Mobilization Forces, a
 Iraqis felt liberated by the Iranian domination to a certain extent, celebrating the death of Soleimani\. However, Sadrist Movement’s and militias’ leader Muqtada al\-Sadr, stated his loyalty to Soleimani as a figure of leadership and power\. In his statement, he referred to him as “martyr” \(“shahid”\) \.
 
 
-![The statement of Muqtada al\-Sadr\.](assets/e09336254498/1*_AwBZzDUnVIq86_3KG0ldg.png)
+![The statement of Muqtada al\-Sadr\.](../assets/e09336254498/1*_AwBZzDUnVIq86_3KG0ldg.png)
 
 The statement of Muqtada al\-Sadr\.
 
@@ -57,7 +57,7 @@ President Trump stated that US had identified 52 Iranian sites that could be tar
 **The Iraqi parliament held its session in the presence of the resigned Prime Minister and the absence of Kurds and Sunnis from the sessions\. They proposed a law to cancel Iraqi\-American security agreement and to end the presence of US forces in Iraq\.** Subsequently, experts and independent government officials stated that this pronouncement to vote to cancel the security agreement was a complete mistake, as it included actions and policies to fight ISIS in Iraq, benefiting the country and its citizens\. Also, even if the Americans would be notified by the government to leave the country, it would still take a year to implement the decision\. But, given the circumstances and the resigning government, there were attempts by different politicians to re\-nominate Adel Abdel Mahdi as Prime Minister\. Hundreds of victims and wounded are apparently not enough to change the order of things\.
 
 
-![Credit: ICSSI Solidarity Initiative\.](assets/e09336254498/1*cX1tD4v_PYM-JCEZtAqbnA.jpeg)
+![Credit: ICSSI Solidarity Initiative\.](../assets/e09336254498/1*cX1tD4v_PYM-JCEZtAqbnA.jpeg)
 
 Credit: ICSSI Solidarity Initiative\.
 #### January 5th\.

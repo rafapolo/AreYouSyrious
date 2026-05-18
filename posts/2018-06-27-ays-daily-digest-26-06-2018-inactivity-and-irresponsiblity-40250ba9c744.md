@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 26/06/2018: Inactivity and irresponsiblity
+title: "AYS Daily Digest 26/06/2018: Inactivity and irresponsiblity"
 author: Are You Syrious?
 date: 2018-06-27T01:38:16.063+0100
 last_modified_at: 2018-06-27T13:10:12.700+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,syria,bosnia,italy]
 description: The EU’s irresponsible policy continues / Lifeline still waiting to sail to a safe harbor / Aquarius heading to Marseille / Deportation…
 image:
-  path: assets/40250ba9c744/1*1v0ESpkn3kXO2X8zgCP4Qg.jpeg
+  path: ../assets/40250ba9c744/1*1v0ESpkn3kXO2X8zgCP4Qg.jpeg
 ---
 
 ### AYS Daily Digest 26/06/2018: Inactivity and irresponsiblity
 #### The EU’s irresponsible policy continues / Lifeline still waiting to sail to a safe harbor / Aquarius heading to Marseille / Deportation warning from Germany and Sweden / 45,000 people flee Daraa due to new fights / Two people died by car accident in Macedonia / and much more…
 
 
-![The Lifeline is still waiting to disembark the people at a safe harbor\. Credits: [Mission Lifeline](https://twitter.com/SEENOTRETTUNG/status/1011211391989100544)](assets/40250ba9c744/1*1v0ESpkn3kXO2X8zgCP4Qg.jpeg)
+![The Lifeline is still waiting to disembark the people at a safe harbor\. Credits: [Mission Lifeline](https://twitter.com/SEENOTRETTUNG/status/1011211391989100544)](../assets/40250ba9c744/1*1v0ESpkn3kXO2X8zgCP4Qg.jpeg)
 
 The Lifeline is still waiting to disembark the people at a safe harbor\. Credits: [Mission Lifeline](https://twitter.com/SEENOTRETTUNG/status/1011211391989100544)
 ### Feature: Inactivity and irresponsiblity
@@ -172,7 +172,7 @@ Spanish Foreign Ministers Josep Borrell, Interior Minister Fernando Grande\-Marl
 The police in Paris tried today to evict the around 170 people at Paris 8 violently from the university, several activists confirmed\. The last available info is, that the people went into gyms\. But it is not known where\. The building has been occupied on 30 January\. More than 20 people have been arrested\.
 
 
-![A bus waiting in front of the university\. Credits: [Les Exilé\.e\.s Occupent P8](https://twitter.com/ExileesOccupP8)](assets/40250ba9c744/1*1Chgwr0BOyctO1JZKrazGg.jpeg)
+![A bus waiting in front of the university\. Credits: [Les Exilé\.e\.s Occupent P8](https://twitter.com/ExileesOccupP8)](../assets/40250ba9c744/1*1Chgwr0BOyctO1JZKrazGg.jpeg)
 
 A bus waiting in front of the university\. Credits: [Les Exilé\.e\.s Occupent P8](https://twitter.com/ExileesOccupP8)
 
@@ -199,7 +199,7 @@ A bus waiting in front of the university\. Credits: [Les Exilé\.e\.s Occupent P
 
 
 
-[![#Expulsion par la police de l'occupation des exilés à l'université #Paris8 - 26 juin 2018](assets/40250ba9c744/5368_hqdefault.jpg "#Expulsion par la police de l'occupation des exilés à l'université #Paris8 - 26 juin 2018")](http://www.youtube.com/watch?v=Jtowu0Pa0t8)
+[![#Expulsion par la police de l'occupation des exilés à l'université #Paris8 - 26 juin 2018](../assets/40250ba9c744/5368_hqdefault.jpg "#Expulsion par la police de l'occupation des exilés à l'université #Paris8 - 26 juin 2018")](http://www.youtube.com/watch?v=Jtowu0Pa0t8)
 
 
 In other areas of Paris, people are still forced to sleep rough\. The police still does not allow them to set up tents\. Hence, they have to sleep on the ground only with a blanket on a cardboard or a tarpaulin, Faces Before Numbers reports\. “ In the past few days, a lot of new people arrived, amongst which minors — both girls & boys\.” As the city is not cleaning the spots and no bins are available, the volunteers together with the homeless people teamed up to clean it\.

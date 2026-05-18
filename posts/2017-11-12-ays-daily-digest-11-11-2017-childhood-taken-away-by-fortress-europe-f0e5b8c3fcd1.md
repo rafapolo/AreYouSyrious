@@ -1,5 +1,5 @@
 ---
-title: #AYS DAILY DIGEST 11/11/2017: Childhood taken away by fortress Europe
+title: "#AYS DAILY DIGEST 11/11/2017: Childhood taken away by fortress Europe"
 author: Are You Syrious?
 date: 2017-11-12T11:16:36.889+0000
 last_modified_at: 2017-11-12T12:29:11.509+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,lesvos,children,greece,calais]
 description: A wall runs through the sea built on the bodies of 14,000 people // Medical teams are warning about the weakness of people who are on…
 image:
-  path: assets/f0e5b8c3fcd1/1*DSrww34-69SYxyriGJqXxg.jpeg
+  path: ../assets/f0e5b8c3fcd1/1*DSrww34-69SYxyriGJqXxg.jpeg
 ---
 
 ### \#AYS DAILY DIGEST 11/11/2017: Childhood taken away by fortress Europe
@@ -15,7 +15,7 @@ image:
 _A wall runs through the sea built on the bodies of 14,000 people // Medical teams are warning about the weakness of people who are on hunger strike in Athens // Investigation into death of 26 girls found near Italy // 251 saved near Spain_
 
 
-![Photo Arash Hampay\.](assets/f0e5b8c3fcd1/1*DSrww34-69SYxyriGJqXxg.jpeg)
+![Photo Arash Hampay\.](../assets/f0e5b8c3fcd1/1*DSrww34-69SYxyriGJqXxg.jpeg)
 
 Photo Arash Hampay\.
 ### Feature
@@ -90,11 +90,11 @@ The increasing numbers of “incidents” and attacks upon refugees and solidari
 In the last 48 hours, four boats arrived at Lesvos carrying over 180 people on board\. All of them will be forced to live on this island endlessly, in conditions that defy description, with no freedom of movement or speech\.
 
 
-![](assets/f0e5b8c3fcd1/1*ixWSVElOYE_tsCk6bx6MLg.jpeg)
+![](../assets/f0e5b8c3fcd1/1*ixWSVElOYE_tsCk6bx6MLg.jpeg)
 
 
 
-![Moria camp, Lesvos\. Photo by [Open Borders](https://www.facebook.com/openeuborders/) \.](assets/f0e5b8c3fcd1/1*5GkAEMNmk1PPF4Y3_lAZRA.jpeg)
+![Moria camp, Lesvos\. Photo by [Open Borders](https://www.facebook.com/openeuborders/) \.](../assets/f0e5b8c3fcd1/1*5GkAEMNmk1PPF4Y3_lAZRA.jpeg)
 
 Moria camp, Lesvos\. Photo by [Open Borders](https://www.facebook.com/openeuborders/) \.
 
@@ -110,7 +110,7 @@ Today is the 11th day since the hunger strike began in Athens\. The m [edical te
 The doctors are calling on the governments to hear the demands of the people in Greece and do something\. So far no response from the Greek or Germany governments\.
 
 
-![](assets/f0e5b8c3fcd1/1*CsDCy-GXGtCaATKoOW2asQ.jpeg)
+![](../assets/f0e5b8c3fcd1/1*CsDCy-GXGtCaATKoOW2asQ.jpeg)
 
 
 The strikers are demanding a faster process for reunification with their families in Germany\.
@@ -120,7 +120,7 @@ Reunification and the relocation program are still very slow\. During October, 8
 Help is needed for people on Lesvos\. [A group of NGOs](https://needslist.co/lesvos.) and grass\-roots initiatives are collecting basic items to distribute\. At the moment, the most needed are sleeping bags\.
 
 
-![](assets/f0e5b8c3fcd1/1*94_Ym03CNL0UN1ejx82Wlg.png)
+![](../assets/f0e5b8c3fcd1/1*94_Ym03CNL0UN1ejx82Wlg.png)
 
 
 After the borders were closed, a number of organizations issued reports and a warning that the conditions under which people are living in Greece, especially on the islands, violate basic human rights\. However, those responsible are not reading these warnings and they are thereby putting people in life danger\.
@@ -134,7 +134,7 @@ Any day now, Camp Derveni should be closed, as announced earlier\. People are al
 Currently, there are over 200 people in this camp\.
 
 
-![\#opentheislands](assets/f0e5b8c3fcd1/1*0fdE1GzcJEvH_Px1ONAuLQ.jpeg)
+![\#opentheislands](../assets/f0e5b8c3fcd1/1*0fdE1GzcJEvH_Px1ONAuLQ.jpeg)
 
 \#opentheislands
 ### Italy
@@ -148,7 +148,7 @@ So far this year, 15,585 people have arrived in Spain\.
 ### France
 
 
-![By Care4Calais\.](assets/f0e5b8c3fcd1/1*wVFQ5M_U8L_w4gyAicjgrQ.jpeg)
+![By Care4Calais\.](../assets/f0e5b8c3fcd1/1*wVFQ5M_U8L_w4gyAicjgrQ.jpeg)
 
 By Care4Calais\.
 

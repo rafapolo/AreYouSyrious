@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 29/10/2018: Calais, 2 years after the eviction of the Jungle
+title: "AYS Daily Digest 29/10/2018: Calais, 2 years after the eviction of the Jungle"
 author: Are You Syrious?
 date: 2018-10-30T13:20:55.667+0000
 last_modified_at: 2018-10-30T13:20:55.667+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,calais,borders,moria,darfur]
 description: More people die at the Lebanese-Turkish border /// The EU-Turkey deal is an insult to human life and dignity /// Mental health situation…
 image:
-  path: assets/6d79c78a2463/1*gP-vwBzZO0upG2RCdY_FCQ.jpeg
+  path: ../assets/6d79c78a2463/1*gP-vwBzZO0upG2RCdY_FCQ.jpeg
 ---
 
 ### AYS Daily Digest 29/10/2018: Calais, 2 years after the eviction of the Jungle
@@ -15,7 +15,7 @@ image:
 More people die at the Lebanese\-Turkish border /// The EU\-Turkey deal is an insult to human life and dignity /// Mental health situation deteriorating in France /// The odyssey of the refugees from Via Scorticabove in Rome continues /// Bosnian/Croatian border still closed /// Migrants attacked in Morocco and in Germany /// Child deported from Denmark
 
 
-![Moria, Lesvos, refugee camp, October 2018\. Always the same question: how can you do this? Really, how can you? \(Photo by [Marios Lolos](https://twitter.com/lolosmarios) \)](assets/6d79c78a2463/1*gP-vwBzZO0upG2RCdY_FCQ.jpeg)
+![Moria, Lesvos, refugee camp, October 2018\. Always the same question: how can you do this? Really, how can you? \(Photo by [Marios Lolos](https://twitter.com/lolosmarios) \)](../assets/6d79c78a2463/1*gP-vwBzZO0upG2RCdY_FCQ.jpeg)
 
 Moria, Lesvos, refugee camp, October 2018\. Always the same question: how can you do this? Really, how can you? \(Photo by [Marios Lolos](https://twitter.com/lolosmarios) \)
 #### FEATURE — Calais, 2 years after the eviction of the Jungle
@@ -154,7 +154,7 @@ MOROCCO
 Migrants are attacked in Nador, while authorities do nothing\.
 
 
-![Photo by [NADOR](https://www.facebook.com/AmdhNador/?tn-str=k%2AF)](assets/6d79c78a2463/1*6I-engCgB3mwilWjKoVvCQ.jpeg)
+![Photo by [NADOR](https://www.facebook.com/AmdhNador/?tn-str=k%2AF)](../assets/6d79c78a2463/1*6I-engCgB3mwilWjKoVvCQ.jpeg)
 
 Photo by [NADOR](https://www.facebook.com/AmdhNador/?tn-str=k%2AF)
 
@@ -176,7 +176,7 @@ In an update on the shipwreck which happened on Saturday in the western Mediterr
 #### Sea Rescue Is Not A Crime — The Iuventa Call For Support To Continue Their Fight To Save Lives
 
 
-![Iuventa \(Photo by [Jugend Rettet](https://www.facebook.com/JugendRettet/photos/a.418621685013737/952825481593352/?type=3&theater) \)](assets/6d79c78a2463/1*2WJ1RoyiV6XJaJqsdyMofg.jpeg)
+![Iuventa \(Photo by [Jugend Rettet](https://www.facebook.com/JugendRettet/photos/a.418621685013737/952825481593352/?type=3&theater) \)](../assets/6d79c78a2463/1*2WJ1RoyiV6XJaJqsdyMofg.jpeg)
 
 Iuventa \(Photo by [Jugend Rettet](https://www.facebook.com/JugendRettet/photos/a.418621685013737/952825481593352/?type=3&theater) \)
 
@@ -291,7 +291,7 @@ They will soon launch a crowdfunding campaign for the medical support of the vul
 One happy family will start offering radio workshops every Wednesday afternoon between 14\.00 and 16\.00\.
 
 
-![](assets/6d79c78a2463/1*x5uPZRKw7MoVcP7AiHtISw.jpeg)
+![](../assets/6d79c78a2463/1*x5uPZRKw7MoVcP7AiHtISw.jpeg)
 
 
 MAINLAND
@@ -344,31 +344,31 @@ Find more information in English [here](http://www.mobileinfoteam.org/residence-
 Volunteers at [Refugee support Europe](https://www.facebook.com/RefugeeSupportEurope) have renewed the spaces in both the LM Village, by Killini, on the mainland west coast, and in Katsikas camp, in the Ioannina area, northern Greece\.
 
 
-![](assets/6d79c78a2463/1*EquQ2wQSJth0hzQgpcWr4Q.jpeg)
+![](../assets/6d79c78a2463/1*EquQ2wQSJth0hzQgpcWr4Q.jpeg)
 
 
 
-![](assets/6d79c78a2463/1*qQ4uWV53jtJ4I9-mXEcPOw.jpeg)
+![](../assets/6d79c78a2463/1*qQ4uWV53jtJ4I9-mXEcPOw.jpeg)
 
 
 
-![The freshly renewed freeshop in Katsikas and the garden in LM Village \(photos by Refugee Support Europe\)](assets/6d79c78a2463/1*ilBe_8AAYeulFuZn7bPHVg.jpeg)
+![The freshly renewed freeshop in Katsikas and the garden in LM Village \(photos by Refugee Support Europe\)](../assets/6d79c78a2463/1*ilBe_8AAYeulFuZn7bPHVg.jpeg)
 
 The freshly renewed freeshop in Katsikas and the garden in LM Village \(photos by Refugee Support Europe\)
 #### Weekly schedule @ Victoria Square Project, Athens
 
 
-![[Victoria Square Project](https://www.facebook.com/VictoriaSquareProject/posts/571656883303095?hc_location=ufi)](assets/6d79c78a2463/1*OsFHPOLSyZDus-4fOECp7w.jpeg)
+![[Victoria Square Project](https://www.facebook.com/VictoriaSquareProject/posts/571656883303095?hc_location=ufi)](../assets/6d79c78a2463/1*OsFHPOLSyZDus-4fOECp7w.jpeg)
 
 [Victoria Square Project](https://www.facebook.com/VictoriaSquareProject/posts/571656883303095?hc_location=ufi)
 #### Weekly schedule @ Zaatar, Athens
 
 
-![](assets/6d79c78a2463/1*3hMUjajBcLOFQlE-OfVFRQ.png)
+![](../assets/6d79c78a2463/1*3hMUjajBcLOFQlE-OfVFRQ.png)
 
 
 
-![[Orange house, Zaatar](https://www.facebook.com/zaatarngo/) — \*Please note that Stretching and Aerobics/Dance classes are for women only](assets/6d79c78a2463/1*79T7MutI7wbnr9JbEM-cag.png)
+![[Orange house, Zaatar](https://www.facebook.com/zaatarngo/) — \*Please note that Stretching and Aerobics/Dance classes are for women only](../assets/6d79c78a2463/1*79T7MutI7wbnr9JbEM-cag.png)
 
 [Orange house, Zaatar](https://www.facebook.com/zaatarngo/) — \*Please note that Stretching and Aerobics/Dance classes are for women only
 #### Support needed and volunteer opportunity
@@ -379,12 +379,12 @@ ITALY
 #### Arrivals
 
 
-![](assets/6d79c78a2463/1*zSPLKNGDHCIbrFBWQFMIOA.jpeg)
+![](../assets/6d79c78a2463/1*zSPLKNGDHCIbrFBWQFMIOA.jpeg)
 
 #### The struggle of the Sudanese refugees from via Scorticabove, Rome, continues
 
 
-![Where is our International Protection? \(Photo by [Rifugiati di Via Scorticabove](https://www.facebook.com/scorticabove) \)](assets/6d79c78a2463/1*r_M9CrQVJ54a_lO0Wab3YQ.jpeg)
+![Where is our International Protection? \(Photo by [Rifugiati di Via Scorticabove](https://www.facebook.com/scorticabove) \)](../assets/6d79c78a2463/1*r_M9CrQVJ54a_lO0Wab3YQ.jpeg)
 
 Where is our International Protection? \(Photo by [Rifugiati di Via Scorticabove](https://www.facebook.com/scorticabove) \)
 
@@ -473,7 +473,7 @@ They welcome people to bring water, fruit juices and fruit and/or participate fi
 The Self\-managed refuge Chez Jesus published an appeal to support the \#Briancon7 on November 8th in front of the Court in Gap\.
 
 
-![](assets/6d79c78a2463/1*ZkstRRhNttHk9MEwQEFhtw.jpeg)
+![](../assets/6d79c78a2463/1*ZkstRRhNttHk9MEwQEFhtw.jpeg)
 
 
 

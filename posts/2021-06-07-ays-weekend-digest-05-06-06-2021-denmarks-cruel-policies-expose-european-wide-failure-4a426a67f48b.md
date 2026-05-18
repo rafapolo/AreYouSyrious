@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,denmark,asylum-policy]
 description: Turkey Bombs Kurdish Refugee Camp in Iraq // Sea-Eye 4 Detained in Italy // Another Pushback From Lesvos
 image:
-  path: assets/4a426a67f48b/0*8VQgLwm2HY_V3kLi
+  path: ../assets/4a426a67f48b/0*8VQgLwm2HY_V3kLi
 ---
 
 ### AYS Weekend Digest 05–06\.06\.2021—Denmark’s Cruel Policies Expose European\-Wide Failure
 #### Turkey Bombs Kurdish Refugee Camp in Iraq // Sea\-Eye 4 Detained in Italy // Another Pushback From Lesvos
 
 
-![Photos from No Name Kitchen and SOS Refugiados’ distribution campaign\. Photo credit: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/1252215948510020)](assets/4a426a67f48b/0*8VQgLwm2HY_V3kLi)
+![Photos from No Name Kitchen and SOS Refugiados’ distribution campaign\. Photo credit: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/1252215948510020)](../assets/4a426a67f48b/0*8VQgLwm2HY_V3kLi)
 
 Photos from No Name Kitchen and SOS Refugiados’ distribution campaign\. Photo credit: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/1252215948510020)
 #### FEATURE
@@ -70,7 +70,7 @@ No Name Kitchen is looking for donations to continue their Health on the Move pr
 #### Food distribution in Trieste
 
 
-![Photo Credit: [Lorena Fornasir](https://www.facebook.com/photo/?fbid=3979132468870487&set=a.309992879117816)](assets/4a426a67f48b/0*PDHfvBOUTvGxGU6n)
+![Photo Credit: [Lorena Fornasir](https://www.facebook.com/photo/?fbid=3979132468870487&set=a.309992879117816)](../assets/4a426a67f48b/0*PDHfvBOUTvGxGU6n)
 
 Photo Credit: [Lorena Fornasir](https://www.facebook.com/photo/?fbid=3979132468870487&set=a.309992879117816)
 #### SPAIN

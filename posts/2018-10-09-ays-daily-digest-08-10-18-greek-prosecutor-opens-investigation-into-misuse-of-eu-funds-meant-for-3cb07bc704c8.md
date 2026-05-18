@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 08/10/18: Greek Prosecutor opens investigation into misuse of EU funds meant for…
+title: "AYS DAILY DIGEST 08/10/18: Greek Prosecutor opens investigation into misuse of EU funds meant for…"
 author: Are You Syrious?
 date: 2018-10-09T11:28:23.903+0100
 last_modified_at: 2018-10-09T11:28:23.903+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,greece,deportations,fraud,asylum-seekers]
 description: Aquarius needs your help // Arrivals on Greek islands up this week // Now between 1,500 and 1,700 people in Grande-Synthe Region //…
 image:
-  path: assets/3cb07bc704c8/1*TGL6OTykYoHw9arXG3C6OQ.jpeg
+  path: ../assets/3cb07bc704c8/1*TGL6OTykYoHw9arXG3C6OQ.jpeg
 ---
 
 ### AYS DAILY DIGEST 08/10/18: Greek Prosecutor opens investigation into misuse of EU funds meant for refugees
@@ -15,7 +15,7 @@ image:
 _Aquarius needs your help // Arrivals on Greek islands up this week // Now between 1,500 and 1,700 people in Grande\-Synthe Region // Deportations from Austria to Afghanistan…_
 
 
-![Born a refugee\. Credit: Gabriel Tizon\. See more of his arresting images [here](https://www.facebook.com/gabrieltizonfotografo/photos/pcb.1923619324350547/1923618357683977/?type=3&theater) \.](assets/3cb07bc704c8/1*TGL6OTykYoHw9arXG3C6OQ.jpeg)
+![Born a refugee\. Credit: Gabriel Tizon\. See more of his arresting images [here](https://www.facebook.com/gabrieltizonfotografo/photos/pcb.1923619324350547/1923618357683977/?type=3&theater) \.](../assets/3cb07bc704c8/1*TGL6OTykYoHw9arXG3C6OQ.jpeg)
 
 Born a refugee\. Credit: Gabriel Tizon\. See more of his arresting images [here](https://www.facebook.com/gabrieltizonfotografo/photos/pcb.1923619324350547/1923618357683977/?type=3&theater) \.
 ### Feature
@@ -47,7 +47,7 @@ Aegean Boat report also made public statistics on arrivals on the Greek islands 
 On Monday, people from Malakasa camp, neat Athens, [went on protest](https://twitter.com/Refugees_Gr/status/1049386271171366912?s=19) at the Ministry of Immigration claiming their right to live in the cities\. Refugees emphasize that the death of a refugee from Syria in Malakasa, after a conflict showed that living conditions are inhuman and their lives may be in danger\.
 
 
-![](assets/3cb07bc704c8/1*ysYryoqthZ8cwrLINZ4jlQ.jpeg)
+![](../assets/3cb07bc704c8/1*ysYryoqthZ8cwrLINZ4jlQ.jpeg)
 
 ### France
 

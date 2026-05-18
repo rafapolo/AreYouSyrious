@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 30/01/20: “Moria is hell” Women take to the streets in Lesvos
+title: "AYS Daily Digest 30/01/20: “Moria is hell” Women take to the streets in Lesvos"
 author: Are You Syrious?
 date: 2020-01-31T11:09:31.018+0000
 last_modified_at: 2020-01-31T12:21:00.211+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,europe,greece,women,refugees]
 description: 17 people stranded in the Mediterranean // 10 killed in Syria hospital bombing // Italian Secret Service Exposed // Plans for New Refugee…
 image:
-  path: assets/b70e7d5bbeac/1*b4AM2IUZJPO9dnv9tapaHg.jpeg
+  path: ../assets/b70e7d5bbeac/1*b4AM2IUZJPO9dnv9tapaHg.jpeg
 ---
 
 ### **AYS Daily Digest 30/01/20: “Moria is hell” Women take to the streets in Lesvos**
 #### 17 people stranded in the Mediterranean // 10 killed in Syria hospital bombing // Italian Secret Service Exposed // Plans for New Refugee Center in Belgium // & more news
 
 
-![Women’s protest in Lesvos \(Photo: [Latitude Podcast](https://www.latitudeadjustmentpod.com/) \)](assets/b70e7d5bbeac/1*b4AM2IUZJPO9dnv9tapaHg.jpeg)
+![Women’s protest in Lesvos \(Photo: [Latitude Podcast](https://www.latitudeadjustmentpod.com/) \)](../assets/b70e7d5bbeac/1*b4AM2IUZJPO9dnv9tapaHg.jpeg)
 
 Women’s protest in Lesvos \(Photo: [Latitude Podcast](https://www.latitudeadjustmentpod.com/) \)
 #### **GREECE**
@@ -24,15 +24,15 @@ Around 300 women participated in a protest against the conditions of the Moria R
 Their demands include being transferred out of the Moria hotspot and improving safety for women inside the camp\. Moria was originally built with a capacity to _temporarily_ hold 2,000 people, yet is now currently inhabited by more than 19,500\.
 
 
-![](assets/b70e7d5bbeac/1*dKTwPC7AIPITBDsyXczqbw.jpeg)
+![](../assets/b70e7d5bbeac/1*dKTwPC7AIPITBDsyXczqbw.jpeg)
 
 
 
-![](assets/b70e7d5bbeac/1*WiNtOSZdU46ETKiwtTo8dw.jpeg)
+![](../assets/b70e7d5bbeac/1*WiNtOSZdU46ETKiwtTo8dw.jpeg)
 
 
 
-![Photos: [Latitude Podcast](https://www.latitudeadjustmentpod.com/)](assets/b70e7d5bbeac/1*jqZjO2Oeq9k5eC1FkjJfAg.jpeg)
+![Photos: [Latitude Podcast](https://www.latitudeadjustmentpod.com/)](../assets/b70e7d5bbeac/1*jqZjO2Oeq9k5eC1FkjJfAg.jpeg)
 
 Photos: [Latitude Podcast](https://www.latitudeadjustmentpod.com/)
 
@@ -44,7 +44,7 @@ Photos: [Latitude Podcast](https://www.latitudeadjustmentpod.com/)
 
 
 
-![Photo: [Latitude Podcast](https://www.latitudeadjustmentpod.com/)](assets/b70e7d5bbeac/1*R5P1wna_kwwbUIhAljpNjQ.jpeg)
+![Photo: [Latitude Podcast](https://www.latitudeadjustmentpod.com/)](../assets/b70e7d5bbeac/1*R5P1wna_kwwbUIhAljpNjQ.jpeg)
 
 Photo: [Latitude Podcast](https://www.latitudeadjustmentpod.com/)
 
@@ -64,15 +64,15 @@ Photo: [Latitude Podcast](https://www.latitudeadjustmentpod.com/)
 In the coming weeks, follow his podcast for more insights into the lives and thoughts of people in Moria and on Lesvos\.
 
 
-![](assets/b70e7d5bbeac/1*iiWN8DaRY9K_CEgH95L2_g.jpeg)
+![](../assets/b70e7d5bbeac/1*iiWN8DaRY9K_CEgH95L2_g.jpeg)
 
 
 
-![](assets/b70e7d5bbeac/1*_Kn9I2LDUf6bJ4bT4LGI-w.jpeg)
+![](../assets/b70e7d5bbeac/1*_Kn9I2LDUf6bJ4bT4LGI-w.jpeg)
 
 
 
-![Photo: [Latitude Podcast](https://www.latitudeadjustmentpod.com/)](assets/b70e7d5bbeac/1*Ia5B5mVgn3Qq_t6aa8CwKA.jpeg)
+![Photo: [Latitude Podcast](https://www.latitudeadjustmentpod.com/)](../assets/b70e7d5bbeac/1*Ia5B5mVgn3Qq_t6aa8CwKA.jpeg)
 
 Photo: [Latitude Podcast](https://www.latitudeadjustmentpod.com/)
 
@@ -105,7 +105,7 @@ In other news, the police officer responsible for shooting 2 year old Mawda has 
 #### **MOROCCO**
 
 
-![[Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?tn-str=k%2AF&hc_location=group_dialog)](assets/b70e7d5bbeac/1*3q-nMCd1q2ng13LloXyCTA.jpeg)
+![[Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?tn-str=k%2AF&hc_location=group_dialog)](../assets/b70e7d5bbeac/1*3q-nMCd1q2ng13LloXyCTA.jpeg)
 
 [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?tn-str=k%2AF&hc_location=group_dialog)
 

@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 04/03/2022: Temporary Protection Directive reveals double-standard refugee law
+title: "AYS News Digest 04/03/2022: Temporary Protection Directive reveals double-standard refugee law"
 author: Are You Syrious?
 date: 2022-03-05T14:56:36.805+0000
 last_modified_at: 2022-03-05T16:56:07.503+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,ukraine,refugees,pushback,melilla]
 description: Updates from the Ukrainian Borders / Pushbacks in Greece and Romania / Violence against new arrivals in Melilla / UK Govt failings…
 image:
-  path: assets/6eb92d0432eb/1*R3NeF58uKzT3xW4-Za8pNw.jpeg
+  path: ../assets/6eb92d0432eb/1*R3NeF58uKzT3xW4-Za8pNw.jpeg
 ---
 
 ### AYS News Digest 04/03/2022: Temporary Protection Directive reveals double\-standard refugee law
@@ -15,7 +15,7 @@ image:
 Updates from the Ukrainian borders / Pushbacks in Greece and Romania / Violence against new arrivals in Melilla / UK Government failings / Updates from France and Germany and more\.
 
 
-![Border control, Emad Hajjaj, 2 March 2022, [Cartoon Movement](https://cartoonmovement.com/cartoon/border-control-0)](assets/6eb92d0432eb/1*R3NeF58uKzT3xW4-Za8pNw.jpeg)
+![Border control, Emad Hajjaj, 2 March 2022, [Cartoon Movement](https://cartoonmovement.com/cartoon/border-control-0)](../assets/6eb92d0432eb/1*R3NeF58uKzT3xW4-Za8pNw.jpeg)
 
 Border control, Emad Hajjaj, 2 March 2022, [Cartoon Movement](https://cartoonmovement.com/cartoon/border-control-0)
 #### FEATURED: Temporary Protection Directive reveals racialised double\-standard refugee law
@@ -36,7 +36,7 @@ According to UNICEF, 10 days into the conflict, the Russian invasion has already
 
 
 
-![Refugee arrivals from Ukraine \(since 24 February 2022\), By Country and By Date \(Source: [UNHCR](https://data2.unhcr.org/en/situations/ukraine) \)](assets/6eb92d0432eb/1*2s7sz0m25Dv8agRyH-f1Xg.png)
+![Refugee arrivals from Ukraine \(since 24 February 2022\), By Country and By Date \(Source: [UNHCR](https://data2.unhcr.org/en/situations/ukraine) \)](../assets/6eb92d0432eb/1*2s7sz0m25Dv8agRyH-f1Xg.png)
 
 Refugee arrivals from Ukraine \(since 24 February 2022\), By Country and By Date \(Source: [UNHCR](https://data2.unhcr.org/en/situations/ukraine) \)
 
@@ -143,7 +143,7 @@ As InfoMigrants report, people of many nationalities have been [forced to stay](
 #### Updates from the borders
 
 
-![](assets/6eb92d0432eb/1*Xm1AV1Ilg2ufPbYktx58OQ.jpeg)
+![](../assets/6eb92d0432eb/1*Xm1AV1Ilg2ufPbYktx58OQ.jpeg)
 
 
 A constantly updated document on the situation at each border crossing in the country is available [HERE](https://docs.google.com/spreadsheets/d/e/2PACX-1vTmKNAxZn2cPpBqPHnRx9Hc_GPzfi7U92h05hkNuES6pA8l7IcbfdRELMkTBWGcBFoRkUdwlnfX889X/pubhtml?gid=0&single=true) \.

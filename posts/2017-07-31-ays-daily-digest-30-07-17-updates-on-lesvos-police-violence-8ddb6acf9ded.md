@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 30/07/17: Updates on Lesvos police violence
+title: "AYS Daily Digest 30/07/17: Updates on Lesvos police violence"
 author: Are You Syrious?
 date: 2017-07-31T05:28:41.131+0100
 last_modified_at: 2017-08-29T17:09:11.225+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees]
 description: Reports of police violence on Lesvos / Italian code of conduct could reduce NGOs capacity to operate rescues / New report on police…
 image:
-  path: assets/8ddb6acf9ded/1*InzCkSEUeD6mbPbbTuDL-w.png
+  path: ../assets/8ddb6acf9ded/1*InzCkSEUeD6mbPbbTuDL-w.png
 ---
 
 ### AYS Daily Digest 30/07/17: Updates on Lesvos police violence
@@ -15,7 +15,7 @@ image:
 _Reports of police violence on Lesvos / Italian code of conduct could reduce NGOs capacity to operate rescues / New report on police violence in Croatia / And more news…_
 
 
-![“If the tables are turned we will treat you with kindness\.” \(Photo by Dirty Girls of Lesvos\)](assets/8ddb6acf9ded/1*InzCkSEUeD6mbPbbTuDL-w.png)
+![“If the tables are turned we will treat you with kindness\.” \(Photo by Dirty Girls of Lesvos\)](../assets/8ddb6acf9ded/1*InzCkSEUeD6mbPbbTuDL-w.png)
 
 “If the tables are turned we will treat you with kindness\.” \(Photo by Dirty Girls of Lesvos\)
 #### Greece
@@ -63,7 +63,7 @@ Refugees are not accepted in the Souda camp of Chios any longer and are instead 
 Yesterday, authorities allegedly removed the tents of some 50 people in Souda, telling residents to share with others or move to Vial camp\.
 
 
-![](assets/8ddb6acf9ded/1*_0dAz7RoZ3-dhxJHAyLu6w.png)
+![](../assets/8ddb6acf9ded/1*_0dAz7RoZ3-dhxJHAyLu6w.png)
 
 #### Croatia
 ### New report on police violence at the border
@@ -82,11 +82,11 @@ A [report](http://welcome.cms.hr/wp-content/uploads/2017/05/Izvje%C5%A1taj-o-nov
 ### Police continues stealing blankets
 
 
-![](assets/8ddb6acf9ded/1*5lLnwVCFRcuiHx-ZSUxCGA.png)
+![](../assets/8ddb6acf9ded/1*5lLnwVCFRcuiHx-ZSUxCGA.png)
 
 
 
-![](assets/8ddb6acf9ded/1*8bppqbsmaQ3NQ2lmGoS1hQ.png)
+![](../assets/8ddb6acf9ded/1*8bppqbsmaQ3NQ2lmGoS1hQ.png)
 
 
 The Refugee Info Bus says this place was home to a group of 20 Ethiopian men, women and children in a nearby forest, offering them shelter from rain and wind\. As is so often the case, blankets and personal items were stolen by police\.

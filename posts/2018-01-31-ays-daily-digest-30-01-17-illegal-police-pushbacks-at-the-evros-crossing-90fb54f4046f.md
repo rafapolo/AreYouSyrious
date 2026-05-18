@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 30/01/18: Illegal police pushbacks at the Evros crossing
+title: "AYS Daily Digest 30/01/18: Illegal police pushbacks at the Evros crossing"
 author: Are You Syrious?
 date: 2018-01-31T11:09:19.557+0000
 last_modified_at: 2018-01-31T16:22:45.625+0000
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,uk,france,europe,turkey]
 description: Evros illegal practices — why are they able to continue? / New arrivals on Chios / Police pressure on those standing up to injustice in…
 image:
-  path: assets/90fb54f4046f/1*xjZ5NJcInq7twSuXZuQ8fA.jpeg
+  path: ../assets/90fb54f4046f/1*xjZ5NJcInq7twSuXZuQ8fA.jpeg
 ---
 
 ### AYS Daily Digest 30/01/18: Illegal police pushbacks at the Evros crossing
 #### Evros illegal practices — why are they able to continue? / New arrivals on Chios / Police pressure on those standing up to injustice in Athens / Croatia: Dubious ways of integration nobody except IOM knows about / Humanitarian corridor brought new people to Italy and France / Help Refugees needs support to help Dubs minors / more news
 
 
-![Photo by: [Sol Carrillo](https://www.facebook.com/msolcarrillo?hc_ref=ARQCZzsQfBID3fu2GZjxnTzwfSbObUjx17ZAY5MsHR_jBFp9FkTa1HZBbyFwxNvEbHk)](assets/90fb54f4046f/1*xjZ5NJcInq7twSuXZuQ8fA.jpeg)
+![Photo by: [Sol Carrillo](https://www.facebook.com/msolcarrillo?hc_ref=ARQCZzsQfBID3fu2GZjxnTzwfSbObUjx17ZAY5MsHR_jBFp9FkTa1HZBbyFwxNvEbHk)](../assets/90fb54f4046f/1*xjZ5NJcInq7twSuXZuQ8fA.jpeg)
 
 Photo by: [Sol Carrillo](https://www.facebook.com/msolcarrillo?hc_ref=ARQCZzsQfBID3fu2GZjxnTzwfSbObUjx17ZAY5MsHR_jBFp9FkTa1HZBbyFwxNvEbHk)
 #### FEATURE
@@ -95,7 +95,7 @@ Missing Migrants Project tracks incidents involving migrants, including refugees
 #### GREECE
 
 
-![](assets/90fb54f4046f/1*9zk006jAI-4d_gg2hy57TA.jpeg)
+![](../assets/90fb54f4046f/1*9zk006jAI-4d_gg2hy57TA.jpeg)
 
 
 Official figures from the islands as from January 29 document the following:
@@ -119,18 +119,18 @@ The weather on Chios is still making lives of those staying in the canvas tents 
 ### Lesvos
 
 
-![“After stormy and bad weather, more than 200 people arrived in less than 24 hours\. Most of them had been waiting on the Turkish border to cross over for some time\. We report and share data to keep track of the overall situation\.” \(by [**Refugee Rescue / ‘Mo Chara’**](https://www.facebook.com/RefugeeRescueUK/?hc_ref=ARSn2dZmjvjIGzSr_F1TLxnRRFoySchrqaGDUpR01jMfXBmlckUfwNHB4STb3BdtwL4&fref=nf) **\)**](assets/90fb54f4046f/1*KD17DHrlSr-6KBCSQ10jKA.jpeg)
+![“After stormy and bad weather, more than 200 people arrived in less than 24 hours\. Most of them had been waiting on the Turkish border to cross over for some time\. We report and share data to keep track of the overall situation\.” \(by [**Refugee Rescue / ‘Mo Chara’**](https://www.facebook.com/RefugeeRescueUK/?hc_ref=ARSn2dZmjvjIGzSr_F1TLxnRRFoySchrqaGDUpR01jMfXBmlckUfwNHB4STb3BdtwL4&fref=nf) **\)**](../assets/90fb54f4046f/1*KD17DHrlSr-6KBCSQ10jKA.jpeg)
 
 “After stormy and bad weather, more than 200 people arrived in less than 24 hours\. Most of them had been waiting on the Turkish border to cross over for some time\. We report and share data to keep track of the overall situation\.” \(by [**Refugee Rescue / ‘Mo Chara’**](https://www.facebook.com/RefugeeRescueUK/?hc_ref=ARSn2dZmjvjIGzSr_F1TLxnRRFoySchrqaGDUpR01jMfXBmlckUfwNHB4STb3BdtwL4&fref=nf) **\)**
 ### Samos
 
 
-![“The leakage of sewage from the main sewage pipe at the entrance to Samos camp\. The foul smell and the dirty water are indescribable” \(Photo: [عشتار للهجرة واللجوء](https://www.facebook.com/%D8%B9%D8%B4%D8%AA%D8%A7%D8%B1-%D9%84%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D9%84%D8%AC%D9%88%D8%A1-687993924641223/?hc_ref=ARRauTSi2aLfcKuYe4BLpUIx_WJggQnYsdOCsPq30FxrLTFqbhyNJgMeAsrZn7495LY&fref=nf) \)](assets/90fb54f4046f/1*cOM--zW-7KGuAtJdDum2dQ.jpeg)
+![“The leakage of sewage from the main sewage pipe at the entrance to Samos camp\. The foul smell and the dirty water are indescribable” \(Photo: [عشتار للهجرة واللجوء](https://www.facebook.com/%D8%B9%D8%B4%D8%AA%D8%A7%D8%B1-%D9%84%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D9%84%D8%AC%D9%88%D8%A1-687993924641223/?hc_ref=ARRauTSi2aLfcKuYe4BLpUIx_WJggQnYsdOCsPq30FxrLTFqbhyNJgMeAsrZn7495LY&fref=nf) \)](../assets/90fb54f4046f/1*cOM--zW-7KGuAtJdDum2dQ.jpeg)
 
 “The leakage of sewage from the main sewage pipe at the entrance to Samos camp\. The foul smell and the dirty water are indescribable” \(Photo: [عشتار للهجرة واللجوء](https://www.facebook.com/%D8%B9%D8%B4%D8%AA%D8%A7%D8%B1-%D9%84%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D9%84%D8%AC%D9%88%D8%A1-687993924641223/?hc_ref=ARRauTSi2aLfcKuYe4BLpUIx_WJggQnYsdOCsPq30FxrLTFqbhyNJgMeAsrZn7495LY&fref=nf) \)
 
 
-![[https://www\.facebook\.com/refugee\.info/](https://www.facebook.com/refugee.info/)](assets/90fb54f4046f/1*ia_N4Rh0dd5vMX5-CR7F_w.jpeg)
+![[https://www\.facebook\.com/refugee\.info/](https://www.facebook.com/refugee.info/)](../assets/90fb54f4046f/1*ia_N4Rh0dd5vMX5-CR7F_w.jpeg)
 
 [https://www\.facebook\.com/refugee\.info/](https://www.facebook.com/refugee.info/)
 
@@ -189,7 +189,7 @@ In the upcoming months, the french government is gonna vote for the asylum and i
 \- The freedom of circulation and housing for everyone 
 \- \[ \] The right to housing, education and formation
 \- public apologies to the thousands of destroyed lives\.
-Were inviting you to join and support us on the place of occupatio \(materially, physically and financially\) and to participate to the march of solidarity on march 17th everywhere in France\. We’re joining the call of lyon and nantes\. University should be a political place and open to everyone\. We defend a free and collective university against the elitist and selective one that the government wants\. And especially, we’re calling you on occupying universities and all other place everywhere you can\.](assets/90fb54f4046f/1*ys-Ui2JfMOmLfp4f9P9cmg.jpeg)
+Were inviting you to join and support us on the place of occupatio \(materially, physically and financially\) and to participate to the march of solidarity on march 17th everywhere in France\. We’re joining the call of lyon and nantes\. University should be a political place and open to everyone\. We defend a free and collective university against the elitist and selective one that the government wants\. And especially, we’re calling you on occupying universities and all other place everywhere you can\.](../assets/90fb54f4046f/1*ys-Ui2JfMOmLfp4f9P9cmg.jpeg)
 
 One of the buildings of Paris 8 in Saint Denis is inhabited by migrants since tuesday january 30th 2018\. 
 The committee of support to migrants are joining the protests of the general movement against european migrant politics and are mobilizing against the shameful and disastrous treatment of migrants in europe\. From the horrible situation in libya to the welcoming conditions in the schengen zone, the tens of thousands of drowned people in the Mediterranean sea, to the harrassment of migrants by the police in porte de la chapelle and villette etc the migration policies of europe are racist and inhumane\. The Dublin Regulation is responsible for the expulsion of exiled people to the peripheries of europe and forces these people to sleep on the streets and suffer from the weather and harrassment\. 
@@ -265,7 +265,7 @@ A coalition of MPs, lawyers and celebrities are teaming up with charity Help Ref
 Stop Europe’s funding of slavery in Libya\! 
 Stop Wars on Migrants\!
 For freedom of movement and safe passages\!
- [https://18m\.commonstruggle\.eu/](https://18m.commonstruggle.eu/)](assets/90fb54f4046f/1*4hd6NoigG50yhyQ0ClB7jQ.png)
+ [https://18m\.commonstruggle\.eu/](https://18m.commonstruggle.eu/)](../assets/90fb54f4046f/1*4hd6NoigG50yhyQ0ClB7jQ.png)
 
 Stand up against the criminal regime of Fortress Europe\!
 Stop Europe’s funding of slavery in Libya\! 

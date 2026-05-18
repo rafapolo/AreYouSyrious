@@ -1,13 +1,13 @@
 ---
-title: AYS Weekend Digest 14–15/8/21: For Afghanistan
+title: "AYS Weekend Digest 14–15/8/21: For Afghanistan"
 author: Are You Syrious?
 date: 2021-08-16T10:41:10.841+0100
 last_modified_at: 2021-08-16T13:14:14.032+0100
 categories: Are You Syrious?
 tags: [digest,afghanistan,racism,hostile-environment,refugees]
-description: Central Med: more than 350 people rescued by MSF and ResQ / Pushback attempt on Samos / Racist attack on Crete / new ‘reception’ centre…
+description: "Central Med: more than 350 people rescued by MSF and ResQ / Pushback attempt on Samos / Racist attack on Crete / new ‘reception’ centre…"
 image:
-  path: assets/8df34415cf4c/1*xpIHvlmmflQIDZHwj0NIwg.jpeg
+  path: ../assets/8df34415cf4c/1*xpIHvlmmflQIDZHwj0NIwg.jpeg
 ---
 
 ### AYS Weekend Digest 14–15/8/21: For Afghanistan
@@ -15,7 +15,7 @@ image:
 Central Med: more than 350 people rescued by MSF and ResQ / Pushback attempt on Samos / Racist attack on Crete / new ‘reception’ centre planned in UK and more …
 
 
-![Kabul, Monday 16 August 2021 \(Credit: [Lotfullah Najafizada](https://twitter.com/LNajafizada/status/1426852794175270915) \)](assets/8df34415cf4c/1*xpIHvlmmflQIDZHwj0NIwg.jpeg)
+![Kabul, Monday 16 August 2021 \(Credit: [Lotfullah Najafizada](https://twitter.com/LNajafizada/status/1426852794175270915) \)](../assets/8df34415cf4c/1*xpIHvlmmflQIDZHwj0NIwg.jpeg)
 
 Kabul, Monday 16 August 2021 \(Credit: [Lotfullah Najafizada](https://twitter.com/LNajafizada/status/1426852794175270915) \)
 #### FEATURED — For Afghanistan
@@ -23,7 +23,7 @@ Kabul, Monday 16 August 2021 \(Credit: [Lotfullah Najafizada](https://twitter.co
 Over the last hours, all major media have been [reporting live](https://www.theguardian.com/world/live/2021/aug/16/afghanistan-taliban-kabul-evacuation-live-news-updates) on the situation in Afghanistan, with the Taliban entering first Kabul and then the presidential palace, western embassies rushing out of the country, and Afghan president Ghani leaving the country to a so\-far\-unknown location\. Reports from Kandahar and Herat point to violent actions against [Hazara minority political leaders](https://twitter.com/asranarshism/status/1427151042920157185) , activists and [journalists](https://twitter.com/SonaliDhawan_/status/1426635174167580682) \(especially [women journalists](https://twitter.com/asranarshism/status/1427051004957126656) \) \.
 
 
-![PHOTO1: Kabul Airport, civilians hoping to be able to board flights \(Credit: [Aisha Ahmad](https://twitter.com/AishaTaIks/status/1427072003463331842) \)](assets/8df34415cf4c/1*cMdbBxEPNEQZu8N4hjQcWA.jpeg)
+![PHOTO1: Kabul Airport, civilians hoping to be able to board flights \(Credit: [Aisha Ahmad](https://twitter.com/AishaTaIks/status/1427072003463331842) \)](../assets/8df34415cf4c/1*cMdbBxEPNEQZu8N4hjQcWA.jpeg)
 
 PHOTO1: Kabul Airport, civilians hoping to be able to board flights \(Credit: [Aisha Ahmad](https://twitter.com/AishaTaIks/status/1427072003463331842) \)
 
@@ -54,7 +54,7 @@ The [Afghan\-American Women’s Association](https://twitter.com/aawa_us/status/
 
 
 
-![US soldier preventing civilians to board planes to leave Afghanistan at Kabul airport \(credit: [Sowaibah Hanifie](https://twitter.com/SowaibahH) \)](assets/8df34415cf4c/1*Kp7N76Mr_I6fbFnNreQ2pg.jpeg)
+![US soldier preventing civilians to board planes to leave Afghanistan at Kabul airport \(credit: [Sowaibah Hanifie](https://twitter.com/SowaibahH) \)](../assets/8df34415cf4c/1*Kp7N76Mr_I6fbFnNreQ2pg.jpeg)
 
 US soldier preventing civilians to board planes to leave Afghanistan at Kabul airport \(credit: [Sowaibah Hanifie](https://twitter.com/SowaibahH) \)
 
@@ -90,7 +90,7 @@ SEA
 Between Friday and Sunday, ResQ\-People Saving People [rescued](https://twitter.com/resqpeople/status/1426934175509188609) 165 people from four boats, one on Friday and three on Sunday\.
 
 
-[![Resq - 15 agosto 2021](assets/8df34415cf4c/81fb_hqdefault.jpg "Resq - 15 agosto 2021")](https://www.youtube.com/watch?v=Wi5MdLkvoUQ)
+[![Resq - 15 agosto 2021](../assets/8df34415cf4c/81fb_hqdefault.jpg "Resq - 15 agosto 2021")](https://www.youtube.com/watch?v=Wi5MdLkvoUQ)
 
 
 On Sunday night, MSF’s Geo Barents [rescued](https://twitter.com/MSF_Sea/status/1427037674414690306) 189 people from an overcrowded, double decked wooden boat\. There was limited oxygen on the lower deck\. Everyone is now safe on board the Geo Barents, which now has 214 people on board\.

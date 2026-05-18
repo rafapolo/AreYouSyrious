@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 17/9/19: Eviction in Dunkirk — once again, no long term solution in sight
+title: "AYS Daily Digest 17/9/19: Eviction in Dunkirk — once again, no long term solution in sight"
 author: Are You Syrious?
 date: 2019-09-18T11:22:32.118+0100
 last_modified_at: 2019-09-18T11:22:32.118+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,france,balkans,europe]
 description: Eviction of emergency center in Dunkirk // many arrivals on Greek islands // Border Violence Report released // ahead of winter in Bosnia…
 image:
-  path: assets/f709d030b7f4/1*mj0wxkZ208y1giMdfxWgGw.jpeg
+  path: ../assets/f709d030b7f4/1*mj0wxkZ208y1giMdfxWgGw.jpeg
 ---
 
 ### AYS Daily Digest 17/9/19: Eviction in Dunkirk — once again, no long term solution in sight
 #### Eviction of emergency center in Dunkirk // many arrivals on Greek islands // Border Violence Report released // ahead of winter in Bosnia, no permanent lodging or consistent help // More people drowned, some rescued in the Mediterranean
 
 
-![copyright: Mobile Refugee Support](assets/f709d030b7f4/1*mj0wxkZ208y1giMdfxWgGw.jpeg)
+![copyright: Mobile Refugee Support](../assets/f709d030b7f4/1*mj0wxkZ208y1giMdfxWgGw.jpeg)
 
 copyright: Mobile Refugee Support
 #### **FEATURED**
@@ -83,7 +83,7 @@ A bit before midnight a new group of people arrived to Tuzla, among them 3 unacc
 Apart from the bus station, some slept in a nearby park in front of a school\.
 
 
-![](assets/f709d030b7f4/1*1PbBKJXFV7MwYWsm7t9Zyg.jpeg)
+![](../assets/f709d030b7f4/1*1PbBKJXFV7MwYWsm7t9Zyg.jpeg)
 
 
 Also, one of the local mosques is a shelter to many people in the evening\. From time to time the police asks them to leave, but they come back very soon\. During the night, newly arrived people are gathering in front of the Foreigners’ office\. It has become very difficult to count them all because they are dispersed in different locations, the Tuzla volunteer group says\.
@@ -95,7 +95,7 @@ It has been 17 months that the authorities have been ignoring this problem\. All
 After crossing the border from Serbia to Bosnia and Herzegovina, it takes 3 to 4 days of walking for people to arrive to Tuzla\. They arrive exhausted, hungry and tired\. They usually stay a couple of days to rest\.
 
 
-![](assets/f709d030b7f4/1*pFpDZ0V8XJW2aR-fbrlK_A.jpeg)
+![](../assets/f709d030b7f4/1*pFpDZ0V8XJW2aR-fbrlK_A.jpeg)
 
 
 The volunteers report a big number of those who returned from Bihać, people who tried to cross into Croatia/the EU multiple times\. Most of them return without anything as they belongings get confiscated during the attempt to cross\. There are more and more reports of violent treatment and thefts by the Croatian police, but also the police in Bihać and Velika Kladuša\. They also warn of a staggering number of hate speech accounts all across the Una\-Sana canton, claiming they are not allowed to enter many of the public places like bars, cafes, restaurants etc\.
@@ -103,7 +103,7 @@ The volunteers report a big number of those who returned from Bihać, people who
 Among people in Tuzla, most of the people originate from Pakistan, Bangladesh, Algeria, Iraq, Marocco, Eritrea, Somalia, etc\., so the language barrier remains a problem when assessing health issues and other needs of the people\.
 
 
-![Photos: Senad Cupo](assets/f709d030b7f4/1*xig9TgFHw4INHYNZcm0smg.jpeg)
+![Photos: Senad Cupo](../assets/f709d030b7f4/1*xig9TgFHw4INHYNZcm0smg.jpeg)
 
 Photos: Senad Cupo
 

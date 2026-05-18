@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 28/11/19: Two people shot by Croatian police in less than 2 weeks
+title: "AYS Daily Digest 28/11/19: Two people shot by Croatian police in less than 2 weeks"
 author: Are You Syrious?
 date: 2019-11-29T12:13:58.397+0000
 last_modified_at: 2019-11-29T12:40:16.481+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,croatia,migrants,border-violence,border-control]
 description: Croatian Ministry of Interior blames the victim, says he was “disabling police officers of performing their duties” / UNHCR accused of…
 image:
-  path: assets/52179785c7f9/1*jvMQ8a4dG_AKvYxPtyGyuw.jpeg
+  path: ../assets/52179785c7f9/1*jvMQ8a4dG_AKvYxPtyGyuw.jpeg
 ---
 
 ### AYS Daily Digest 28/11/19: Two people shot by Croatian police in less than 2 weeks
 #### Croatian Ministry of Interior blames the victim, says he was “disabling police officers of performing their duties” / UNHCR accused of starving people in Libya / Aegean mayors reject governmental plan for the islands / Mental health crisis, suicide attempts on the rise in Malta
 
 
-![Croatian police are increasing their operations in Gorski Kotar area\. Photo: Pixabay](assets/52179785c7f9/1*jvMQ8a4dG_AKvYxPtyGyuw.jpeg)
+![Croatian police are increasing their operations in Gorski Kotar area\. Photo: Pixabay](../assets/52179785c7f9/1*jvMQ8a4dG_AKvYxPtyGyuw.jpeg)
 
 Croatian police are increasing their operations in Gorski Kotar area\. Photo: Pixabay
 #### FEATURED
@@ -28,7 +28,7 @@ At the moment, the hospital in Rijeka is treating both victims\. The first man, 
 In both cases, the Ministry of Interior tried to spin the news by portraying perpetrators as heroes and describing the events as, “accidental, isolated incidents with no intention to cause any harm\.”
 
 
-![Police officers with long guns are regularly patrolling the area\. Photo: Anonnymous source](assets/52179785c7f9/1*b4b3FcWPx3bvRSPsUCRo2g.jpeg)
+![Police officers with long guns are regularly patrolling the area\. Photo: Anonnymous source](../assets/52179785c7f9/1*b4b3FcWPx3bvRSPsUCRo2g.jpeg)
 
 Police officers with long guns are regularly patrolling the area\. Photo: Anonnymous source
 
@@ -49,7 +49,7 @@ The Ministry of Interior says they are, “carrying out intensified activities i
 According to independent security experts, situation in Croatian police, “is as bad as during the wartime period in the 1990s\.” They are describing total chaos, especially among those who are sent to “prevent illegal migration” at all cost\. They are even returning 2000 retired police officers to service, just to have enough people who would be willing to perpetrate push\-backs at Croatian borders with Bosnia, Serbia and Montenegro\.
 
 
-![17 new thermal imaging systems are deployed to borders\. Photo: MUP](assets/52179785c7f9/1*Jv9lWOVFsX9jSGaoasWfrA.jpeg)
+![17 new thermal imaging systems are deployed to borders\. Photo: MUP](../assets/52179785c7f9/1*Jv9lWOVFsX9jSGaoasWfrA.jpeg)
 
 17 new thermal imaging systems are deployed to borders\. Photo: MUP
 
@@ -106,7 +106,7 @@ The doctor on board Alan Kurdi wrote:
 Last week the government announced it will shut down the three largest of its overcrowded migrant camps on islands facing Turkey, and replace them with new closed facilities with much larger capacity\.
 
 
-![Conditions remain difficult in the overcrowded Moria refugee camp in Greece with winter fast approaching\. Photo: Amir Karimi](assets/52179785c7f9/1*KnCVuEAUc98ma_6WP0_YQA.jpeg)
+![Conditions remain difficult in the overcrowded Moria refugee camp in Greece with winter fast approaching\. Photo: Amir Karimi](../assets/52179785c7f9/1*KnCVuEAUc98ma_6WP0_YQA.jpeg)
 
 Conditions remain difficult in the overcrowded Moria refugee camp in Greece with winter fast approaching\. Photo: Amir Karimi
 
@@ -150,7 +150,7 @@ Since 2016, the groups have together brought over 3,000 Syrians to Italy, France
 Evacuation of the provisional camps took part on Thursday 28th, in the area of Aubervilliers on the outskirts of Paris\. A number of buses had arrived in place to evacuate and “place in shelter about 200 to 300 people,” as the official police statement said\. According to authorities, around 2000 people live around the Porte d’Aubervilliers\. A month ago, the camp close to the Chapelle has already been evacuated\. According to volunteers on site, around 500 men could not access the buses\. Those who did will be put in shelters or returned to streets, depending on their administrative status\.
 
 
-![Photo: [Utopia 56](https://web.facebook.com/asso.utopia56/?__xts__%5B0%5D=68.ARDmWosEmc3jVSVEeDuB__CwPBk4cdXEroEnQSflx1gvqrs0JGOEK8-7WeyWVtTSmY-CNPTlZgR6W4vqXhFBLOG3CE4hnFxRMbSu96M6QfUNOZb-fRtqEz-MUsp9P8sl9tROHq6Oe6rC2NYA9dTC8kZ04ZYoiEc8qf6WEabNQNH8Gpt-oIvWUPuDCkkKqXUbzM1iW0rYs0soBm1hIIZUaK2s1yQLW7U0PbjAI2R135bv-SdqRZxuxjjzauAk1ACiqQRLImAAFra8xNBfG6M-4ehZw28BJDk5yMVr88le5NA1q2ftoDxpm4_m1My9H_nlYneUotWjeQOI3-R35YfmtAMqCxDp&__tn__=k%2AF&tn-str=k%2AF)](assets/52179785c7f9/1*vPItCmz3MDFzT7vPzQEXCg.jpeg)
+![Photo: [Utopia 56](https://web.facebook.com/asso.utopia56/?__xts__%5B0%5D=68.ARDmWosEmc3jVSVEeDuB__CwPBk4cdXEroEnQSflx1gvqrs0JGOEK8-7WeyWVtTSmY-CNPTlZgR6W4vqXhFBLOG3CE4hnFxRMbSu96M6QfUNOZb-fRtqEz-MUsp9P8sl9tROHq6Oe6rC2NYA9dTC8kZ04ZYoiEc8qf6WEabNQNH8Gpt-oIvWUPuDCkkKqXUbzM1iW0rYs0soBm1hIIZUaK2s1yQLW7U0PbjAI2R135bv-SdqRZxuxjjzauAk1ACiqQRLImAAFra8xNBfG6M-4ehZw28BJDk5yMVr88le5NA1q2ftoDxpm4_m1My9H_nlYneUotWjeQOI3-R35YfmtAMqCxDp&__tn__=k%2AF&tn-str=k%2AF)](../assets/52179785c7f9/1*vPItCmz3MDFzT7vPzQEXCg.jpeg)
 
 Photo: [Utopia 56](https://web.facebook.com/asso.utopia56/?__xts__%5B0%5D=68.ARDmWosEmc3jVSVEeDuB__CwPBk4cdXEroEnQSflx1gvqrs0JGOEK8-7WeyWVtTSmY-CNPTlZgR6W4vqXhFBLOG3CE4hnFxRMbSu96M6QfUNOZb-fRtqEz-MUsp9P8sl9tROHq6Oe6rC2NYA9dTC8kZ04ZYoiEc8qf6WEabNQNH8Gpt-oIvWUPuDCkkKqXUbzM1iW0rYs0soBm1hIIZUaK2s1yQLW7U0PbjAI2R135bv-SdqRZxuxjjzauAk1ACiqQRLImAAFra8xNBfG6M-4ehZw28BJDk5yMVr88le5NA1q2ftoDxpm4_m1My9H_nlYneUotWjeQOI3-R35YfmtAMqCxDp&__tn__=k%2AF&tn-str=k%2AF)
 ### Highway Checks on the Rise

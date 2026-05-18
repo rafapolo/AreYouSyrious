@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL from Chios: Truth about hotspot Vial
+title: "AYS SPECIAL from Chios: Truth about hotspot Vial"
 author: Are You Syrious?
 date: 2018-07-03T14:06:38.065+0100
 last_modified_at: 2018-07-03T14:06:38.065+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,special,vial,chios,greece]
 description: We received an letter from resident of Vial camp who describes it as “the long term holding facilities”. This is everday life in one of the…
 image:
-  path: assets/616a5e852a80/1*YAcgnnoplsuwgVZIvvs8rw.jpeg
+  path: ../assets/616a5e852a80/1*YAcgnnoplsuwgVZIvvs8rw.jpeg
 ---
 
 ### AYS SPECIAL from Chios: Truth about hotspot Vial
@@ -15,7 +15,7 @@ image:
 _We received an letter from resident of Vial camp who describes it as “the long term holding facilities”\. This is everday life in one of the overcrowded camps in Greece_
 
 
-![Vial, Chios\.](assets/616a5e852a80/1*YAcgnnoplsuwgVZIvvs8rw.jpeg)
+![Vial, Chios\.](../assets/616a5e852a80/1*YAcgnnoplsuwgVZIvvs8rw.jpeg)
 
 Vial, Chios\.
 
@@ -26,19 +26,19 @@ Soon after they arrive, they discover the truth about the hotspot: this is not a
 Despite the abundance of trees around Vial, you can detect the stench of dirt from a distance\. And you wonder, “what is this strange smell”? When you enter the camp you will find that there is a warehouse containing garbage, just by the place where food is distributed\.
 
 
-![](assets/616a5e852a80/1*TCPAgPQWPglzi6zbL3BsAg.jpeg)
+![](../assets/616a5e852a80/1*TCPAgPQWPglzi6zbL3BsAg.jpeg)
 
 
 It appears that the waste comes from outside the camp, to get processed for recycling in Vial and then shipped to another place\.
 
 
-![](assets/616a5e852a80/1*NNkilKi3flThqIgEL4GXeA.jpeg)
+![](../assets/616a5e852a80/1*NNkilKi3flThqIgEL4GXeA.jpeg)
 
 
 How sad this is; the waste has a building, while asylum seekers are sleeping in tents\.
 
 
-![](assets/616a5e852a80/1*5p4YdTCslbS2W1u9-ZLbzg.jpeg)
+![](../assets/616a5e852a80/1*5p4YdTCslbS2W1u9-ZLbzg.jpeg)
 
 
 To the refugees’ misfortune, they arrive to Greece to find a widespread disregard for their lives, their health, and their general well\-being\. But particularly shocking is the lack of awareness regarding the irresponsibility of allowing refugees to live alongside mass amounts of refuse\.

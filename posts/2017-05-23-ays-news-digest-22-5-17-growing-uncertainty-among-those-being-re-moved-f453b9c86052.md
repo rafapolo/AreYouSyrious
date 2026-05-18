@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 22/5/17: Growing uncertainty among those being (re)moved
+title: "AYS News Digest 22/5/17: Growing uncertainty among those being (re)moved"
 author: Are You Syrious?
 date: 2017-05-23T00:26:16.624+0100
 last_modified_at: 2017-05-23T09:27:06.543+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,greece,germany,italy,united-nations]
 description: Evacuation of Elliniko leaves many refugees wondering and worrying / Situation on Chios deteriorating, conditions “worse than ever” /…
 image:
-  path: assets/f453b9c86052/1*Z5EC_tg6PdN5GxUy1QdWwg.jpeg
+  path: ../assets/f453b9c86052/1*Z5EC_tg6PdN5GxUy1QdWwg.jpeg
 ---
 
 ### AYS News Digest 22/5/17: Growing uncertainty among those being \(re\)moved
 #### Evacuation of Elliniko leaves many refugees wondering and worrying / Situation on Chios deteriorating, conditions “worse than ever” / Urgent help needed in Gorizia / Swiss people reject the plan to house minors in proper centres / Protests in Germany / Minors missing in Norway
 
 
-![Credits: [Stefan Simanowitz‏](https://twitter.com/StefSimanowitz)](assets/f453b9c86052/1*Z5EC_tg6PdN5GxUy1QdWwg.jpeg)
+![Credits: [Stefan Simanowitz‏](https://twitter.com/StefSimanowitz)](../assets/f453b9c86052/1*Z5EC_tg6PdN5GxUy1QdWwg.jpeg)
 
 Credits: [Stefan Simanowitz‏](https://twitter.com/StefSimanowitz)
 #### FEATURE — GREECE
@@ -41,16 +41,16 @@ The 50 new arrivals of yesterday have been registered today on Chios, island tha
 
 
 
-![Chios \(Photo: Leslie Meral Schick\)](assets/f453b9c86052/1*lKql6WkepersLD83bkfluA.jpeg)
+![Chios \(Photo: Leslie Meral Schick\)](../assets/f453b9c86052/1*lKql6WkepersLD83bkfluA.jpeg)
 
 Chios \(Photo: Leslie Meral Schick\)
 
 
-![](assets/f453b9c86052/1*VxE5kJcvmp0cILZSD-Ub6A.jpeg)
+![](../assets/f453b9c86052/1*VxE5kJcvmp0cILZSD-Ub6A.jpeg)
 
 
 
-![](assets/f453b9c86052/1*mgjum9DwH8tDO9KGXLNgwQ.jpeg)
+![](../assets/f453b9c86052/1*mgjum9DwH8tDO9KGXLNgwQ.jpeg)
 
 ### Elliniko evacuation
 
@@ -97,11 +97,11 @@ Amnesty International’s request to visit the camps between May 21 and 23 was r
 The [SIRIUS\.HELP](https://www.facebook.com/sirius.help/) volunteers have started handing out donations in the transits in a new way\. All families staying there are given an individual card with all the necessary information for the process\. After the card is registered, the relevant information \(name, nationality, age, shoe and dress sizes\) of all family members is available to the volunteers\. Those who need something simply send a message or contact someone at the transit zone and provide the card number and say what they need\. Everything is then packed, marked with the card number, and the volunteers deliver the package to the transit, where the families receive the items\.
 
 
-![](assets/f453b9c86052/1*6TuonAYm4kVpKAW0oO_tBg.jpeg)
+![](../assets/f453b9c86052/1*6TuonAYm4kVpKAW0oO_tBg.jpeg)
 
 
 
-![Photos: [SIRIUS\.HELP](https://www.facebook.com/sirius.help/)](assets/f453b9c86052/1*VEtIgDU56cJ3gjcGSio1ig.jpeg)
+![Photos: [SIRIUS\.HELP](https://www.facebook.com/sirius.help/)](../assets/f453b9c86052/1*VEtIgDU56cJ3gjcGSio1ig.jpeg)
 
 Photos: [SIRIUS\.HELP](https://www.facebook.com/sirius.help/)
 #### ITALY
@@ -139,11 +139,11 @@ Life at the camp at Briener Str\. 16 in Berlin has become unsustainable, local a
 Their protest was stopped by the authorities and tents, sleeping bags and other belongings of those sleeping in the backyard were confiscated by the police\.
 
 
-![](assets/f453b9c86052/1*57MUbNbEID46bNUVc6NZsA.jpeg)
+![](../assets/f453b9c86052/1*57MUbNbEID46bNUVc6NZsA.jpeg)
 
 
 
-![Berlin district administration office forced them to throw out their tents cause law says that, and Now they have to sleep without anything outside of their former camp Infront of briennerstr\.16 in Berlin\. But still they will continue their strike” \(Photos: [Refugees Welcome](https://www.facebook.com/RefugeesWellcome/) \)](assets/f453b9c86052/1*sEN8ya9rvdR1ujkr6ApExg.jpeg)
+![Berlin district administration office forced them to throw out their tents cause law says that, and Now they have to sleep without anything outside of their former camp Infront of briennerstr\.16 in Berlin\. But still they will continue their strike” \(Photos: [Refugees Welcome](https://www.facebook.com/RefugeesWellcome/) \)](../assets/f453b9c86052/1*sEN8ya9rvdR1ujkr6ApExg.jpeg)
 
 Berlin district administration office forced them to throw out their tents cause law says that, and Now they have to sleep without anything outside of their former camp Infront of briennerstr\.16 in Berlin\. But still they will continue their strike” \(Photos: [Refugees Welcome](https://www.facebook.com/RefugeesWellcome/) \)
 
@@ -160,7 +160,7 @@ Another protest in the line of anti\-deportation protests and actions happening 
 
 
 
-![Photo: [Refugee struggle for freedom](https://www.facebook.com/refugeestruggle/)](assets/f453b9c86052/1*dgfpuRo1yD3dozdvlOnYQg.jpeg)
+![Photo: [Refugee struggle for freedom](https://www.facebook.com/refugeestruggle/)](../assets/f453b9c86052/1*dgfpuRo1yD3dozdvlOnYQg.jpeg)
 
 Photo: [Refugee struggle for freedom](https://www.facebook.com/refugeestruggle/)
 #### NORWAY
@@ -182,7 +182,7 @@ A three\-metre border fence with barbed wire, motion sensors and surveillance ca
 
 
 ![My soul is free — انا روحي حره
-Digital Art by Julie Larah](assets/f453b9c86052/1*1FBjYKrDnm0c2zf0dAVFIA.jpeg)
+Digital Art by Julie Larah](../assets/f453b9c86052/1*1FBjYKrDnm0c2zf0dAVFIA.jpeg)
 
 My soul is free — انا روحي حره
 Digital Art by Julie Larah

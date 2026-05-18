@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 28/10/19: ‘Welcome to Croatia — Croatia Full of Torture’ billboards “welcoming”…
+title: "AYS Daily Digest 28/10/19: ‘Welcome to Croatia — Croatia Full of Torture’ billboards “welcoming”…"
 author: Are You Syrious?
 date: 2019-10-29T11:57:19.671+0000
 last_modified_at: 2019-10-29T12:57:23.343+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,libya,sweden,europe]
 description: Horrid examples of the EU’s failed choice in collaborations, employment and trust put in organisations and officials dealing with people…
 image:
-  path: assets/15c5bb833a7b/1*7PImV8ZiXCJP_AJSUISD3Q.jpeg
+  path: ../assets/15c5bb833a7b/1*7PImV8ZiXCJP_AJSUISD3Q.jpeg
 ---
 
 ### AYS Daily Digest 28/10/19: ‘ _Welcome to Croatia_ — _Croatia Full of Torture’ billboards “_ welcoming” people along the border
 #### Horrid examples of the EU’s failed choice in collaborations, employment and trust put in organisations and officials dealing with people on the move / Calls for help and action / SAR actions continue / New laws in Sweden complicate matters even more, changes in education laws affecting people’s right to work and stay / & more news
 
 
-![](assets/15c5bb833a7b/1*7PImV8ZiXCJP_AJSUISD3Q.jpeg)
+![](../assets/15c5bb833a7b/1*7PImV8ZiXCJP_AJSUISD3Q.jpeg)
 
 #### FEATURED
 
@@ -31,7 +31,7 @@ In the name of joining Schengen, Croatia has normalized and institutionalized vi
 
 
 
-![](assets/15c5bb833a7b/1*ElJnusrUXDAYtlUD2kNKIw.jpeg)
+![](../assets/15c5bb833a7b/1*ElJnusrUXDAYtlUD2kNKIw.jpeg)
 
 
 **Egypt** — The UN\-backed government in Libya has ordered the arrest of a man described as one of the world’s most notorious human traffickers, who was this month revealed to have attended meetings between Italian officials and a Libyan delegation to discuss controls on migration flows from north Africa, well\-informed sources confirm\.
@@ -104,7 +104,7 @@ Was die Besatzung der #AlanKurdi erlebte. https://t.co/21adJooVI4
 
 
 
-[![„Alan Kurdi": Seenotretter bei Einsatz bedroht](assets/15c5bb833a7b/3ab7_hqdefault.jpg "„Alan Kurdi": Seenotretter bei Einsatz bedroht")](https://www.youtube.com/watch?v=rMU33mG4Zkg)
+[![„Alan Kurdi": Seenotretter bei Einsatz bedroht](../assets/15c5bb833a7b/3ab7_hqdefault.jpg "„Alan Kurdi": Seenotretter bei Einsatz bedroht")](https://www.youtube.com/watch?v=rMU33mG4Zkg)
 
 
 

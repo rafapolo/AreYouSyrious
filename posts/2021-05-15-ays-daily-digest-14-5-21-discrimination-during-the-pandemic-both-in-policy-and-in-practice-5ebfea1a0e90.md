@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 14/5/21: Discrimination during the pandemic, both in policy and in practice
+title: "AYS Daily Digest 14/5/21: Discrimination during the pandemic, both in policy and in practice"
 author: Are You Syrious?
 date: 2021-05-15T16:26:05.965+0100
 last_modified_at: 2021-05-15T19:13:48.260+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,croatia,covid-19,italy]
 description: In Greece, double COVID-19 standards towards people on the move on the one side, and everyone else on the other side & How does Europe care…
 image:
-  path: assets/5ebfea1a0e90/0*3XSggFbb9JIHLEIO
+  path: ../assets/5ebfea1a0e90/0*3XSggFbb9JIHLEIO
 ---
 
 ### AYS Daily Digest 14/5/21: Discrimination during the pandemic, both in policy and in practice
 #### In Greece, double COVID\-19 standards towards people on the move on the one side, and everyone else on the other side & How does Europe care for asylum seekers when it comes to protection against COVID\-19? / Frontex still complicit in returns to inhumane conditions in Libya / Activists in France need support to be able to provide food to people on the move / Indignation in Germany / online talks and conferences, recommended reads & more
 
 
-![Holding a candlelight virgil for the victims of the Kabul school attack, raising a voice in the worst of the worst EU refugee camp, “Moria2”— Let us live\! Afghanistan is not safe\! \(Photo report by: [**Franziska Grillmeier**](https://twitter.com/f_grillmeier) **\)**](assets/5ebfea1a0e90/0*3XSggFbb9JIHLEIO)
+![Holding a candlelight virgil for the victims of the Kabul school attack, raising a voice in the worst of the worst EU refugee camp, “Moria2”— Let us live\! Afghanistan is not safe\! \(Photo report by: [**Franziska Grillmeier**](https://twitter.com/f_grillmeier) **\)**](../assets/5ebfea1a0e90/0*3XSggFbb9JIHLEIO)
 
 Holding a candlelight virgil for the victims of the Kabul school attack, raising a voice in the worst of the worst EU refugee camp, “Moria2”— Let us live\! Afghanistan is not safe\! \(Photo report by: [**Franziska Grillmeier**](https://twitter.com/f_grillmeier) **\)**
 #### FEATURED
@@ -47,7 +47,7 @@ Do you know what is the situation like for people in your country?
 #### REPORTING
 
 
-![](assets/5ebfea1a0e90/0*fIZ8zbmBG0lwpz_1.jpg)
+![](../assets/5ebfea1a0e90/0*fIZ8zbmBG0lwpz_1.jpg)
 
 
 A total of 42 pushbacks, impacting 1,125 people at borders across the Balkans, are documented in the latest report of the Border Violence Monitoring Network\.
@@ -123,7 +123,7 @@ The number of hot meals Solidarity Migrants Wilson has been serving every Tuesda
 AE Act, a transnational network of grassroots initiatives in Africa and Europe fighting for freedom of movement, equal rights and self\-determined development, is organising a protest ‘tour’ in Berlin, in front of several embassies, demanding an end to the support of deportations\.
 
 
-![](assets/5ebfea1a0e90/0*I1mHPn4paKGYa0Da)
+![](../assets/5ebfea1a0e90/0*I1mHPn4paKGYa0Da)
 
 
 At the same time, while the federal government continues to pursue a restrictive course, more and more municipalities are becoming safe harbours and are prepared to welcome people in need of international protection\.

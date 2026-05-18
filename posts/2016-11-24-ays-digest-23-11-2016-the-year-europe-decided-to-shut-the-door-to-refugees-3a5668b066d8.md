@@ -1,5 +1,5 @@
 ---
-title: AYS Digest 23/11: 2016, the year Europe “decided to shut the door to refugees”
+title: "AYS Digest 23/11: 2016, the year Europe “decided to shut the door to refugees”"
 author: Are You Syrious?
 date: 2016-11-24T04:55:21.968+0000
 last_modified_at: 2016-11-24T09:40:09.271+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: Europe focuses on preventing arrivals and outsources responsibility for refugees. Changes in Greek camps. Children disappear after Calais…
 image:
-  path: assets/3a5668b066d8/1*zfvH3V0O2KaXWcQjjxhDiQ.jpeg
+  path: ../assets/3a5668b066d8/1*zfvH3V0O2KaXWcQjjxhDiQ.jpeg
 ---
 
 ### AYS Digest 23/11: 2016, the year Europe “decided to shut the door to refugees”
@@ -15,7 +15,7 @@ image:
 _Europe focuses on preventing arrivals and outsources responsibility for refugees\. Changes in Greek camps\. Children disappear after Calais eviction\._
 
 
-![Demonstration for peace in Chios\. Photo by Lefki Pavlidis](assets/3a5668b066d8/1*zfvH3V0O2KaXWcQjjxhDiQ.jpeg)
+![Demonstration for peace in Chios\. Photo by Lefki Pavlidis](../assets/3a5668b066d8/1*zfvH3V0O2KaXWcQjjxhDiQ.jpeg)
 
 Demonstration for peace in Chios\. Photo by Lefki Pavlidis
 #### Europe
@@ -41,7 +41,7 @@ A German state court has ruled that Syrians can be granted “subsidiary protect
 ### Refugees moved to other camps
 
 
-![Photo by Said Bilal](assets/3a5668b066d8/0*Bv-spd-X296gT7f9.)
+![Photo by Said Bilal](../assets/3a5668b066d8/0*Bv-spd-X296gT7f9.)
 
 Photo by Said Bilal
 
@@ -63,7 +63,7 @@ Ritsona meanwhile, was refurbished according to [The Greek Reporter](http://gree
 The page [Katsikas Live](https://www.facebook.com/muhammadalisyria/) , reports on problems within the camp, saying the organisation Olvidados was forced out, despite being present for eight months and organising the valuable distribution of milk, pampers, food and clothing during that time\. Olvidados was previously forced out of Filipiada, were according to the NGO itself, ‘relations with the military were not always easy’\.
 
 
-![Photo by Katsikas Live](assets/3a5668b066d8/0*QnW0GDfA4G7klNjV.)
+![Photo by Katsikas Live](../assets/3a5668b066d8/0*QnW0GDfA4G7klNjV.)
 
 Photo by Katsikas Live
 ### Calls for donations
@@ -72,7 +72,7 @@ Photo by Katsikas Live
 
 
 
-![Photo by Lifeguard Hellas](assets/3a5668b066d8/0*JwZXR5sA883QClMX.)
+![Photo by Lifeguard Hellas](../assets/3a5668b066d8/0*JwZXR5sA883QClMX.)
 
 Photo by Lifeguard Hellas
 ### Legal Info Sessions for Refugees
@@ -81,7 +81,7 @@ Mobile Info Team organizes a [Legal Info Session](https://www.facebook.com/event
 ### Some good news out of Greece
 
 
-![Photo by Adb Hlal](assets/3a5668b066d8/0*98osui7lHfKtuaRE.)
+![Photo by Adb Hlal](../assets/3a5668b066d8/0*98osui7lHfKtuaRE.)
 
 Photo by Adb Hlal
 
@@ -92,7 +92,7 @@ This is also a good opportunity to mention a new Facebook group, [en route / e\-
 [Amurtel](https://www.facebook.com/AmurtelHellasforRefugeeMothersandBabies/) was able to gift one of its first baby kits, for a mother and her baby that is expected to be born next week\. They are still looking new clothes given the cooler weather, especially outdoor baby suits, warm socks and hats and baby sleeping bags\.
 
 
-![Photo by Amurtel](assets/3a5668b066d8/0*4r0ke5Jq5SZvDckc.)
+![Photo by Amurtel](../assets/3a5668b066d8/0*4r0ke5Jq5SZvDckc.)
 
 Photo by Amurtel
 ### Soul Food Kitchen still working in the streets of Thessaloniki
@@ -100,12 +100,12 @@ Photo by Amurtel
 Our comrades from Soul Food kitchen are still doing a great job on the streets of Thessaloniki\. We are happy and proud we got to support them in the initial phase of the project that has proved to be a reliable source of warm, nutritious meals for thousands who have passed through Thessaloniki in the past months\.
 
 
-![Photo by Adis Imamovic](assets/3a5668b066d8/0*vNCONxuurFS5KZ6g.jpg)
+![Photo by Adis Imamovic](../assets/3a5668b066d8/0*vNCONxuurFS5KZ6g.jpg)
 
 Photo by Adis Imamovic
 
 
-![Photo by Adis Imamovic](assets/3a5668b066d8/0*otRzSvlFIgi4Y0t4.)
+![Photo by Adis Imamovic](../assets/3a5668b066d8/0*otRzSvlFIgi4Y0t4.)
 
 Photo by Adis Imamovic
 #### Serbia
@@ -114,7 +114,7 @@ Photo by Adis Imamovic
 On Twitter, MSF says a young Afghan is in serious condition at the hospital, after being electrocuted, trying to cross from Serbia into Hungary\. MSF says refugees are trapped in Serbia in extremely poor living conditions, forcing them to take deadly risks\.
 
 
-![Photo by [MSF Sea](https://twitter.com/MSF_Sea)](assets/3a5668b066d8/0*g_YEqYk913ZLnEob.jpg)
+![Photo by [MSF Sea](https://twitter.com/MSF_Sea)](../assets/3a5668b066d8/0*g_YEqYk913ZLnEob.jpg)
 
 Photo by [MSF Sea](https://twitter.com/MSF_Sea)
 

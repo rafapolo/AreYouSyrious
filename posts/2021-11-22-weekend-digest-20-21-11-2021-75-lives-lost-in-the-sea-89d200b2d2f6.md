@@ -1,5 +1,5 @@
 ---
-title: Weekend Digest 20–21/11/2021: Seventy-five lives lost at sea
+title: "Weekend Digest 20–21/11/2021: Seventy-five lives lost at sea"
 author: Are You Syrious?
 date: 2021-11-22T16:49:38.418+0000
 last_modified_at: 2021-11-22T18:33:44.541+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [poland,digest,refugees,europe,sea]
 description: Last week and over the weekend, over 75 people lost their lives in the Mediterranean Sea // Many others were rescued // Libyan Coast Guards…
 image:
-  path: assets/89d200b2d2f6/1*-9OxFNNbGCzYQi41VK34eQ.jpeg
+  path: ../assets/89d200b2d2f6/1*-9OxFNNbGCzYQi41VK34eQ.jpeg
 ---
 
 ### Weekend Digest 20–21/11/2021: Seventy\-five lives lost at sea
 #### Last week and over the weekend, over 75 people lost their lives in the Mediterranean Sea // Many others were rescued // Libyan Coast Guards threaten rescue crew during operation // Crete: Seventy people rescued from distress // Updates from the Belarusian border
 
 
-![Polish people protesting against the situation along the border\. Copyright: Sara Cincurova](assets/89d200b2d2f6/1*-9OxFNNbGCzYQi41VK34eQ.jpeg)
+![Polish people protesting against the situation along the border\. Copyright: Sara Cincurova](../assets/89d200b2d2f6/1*-9OxFNNbGCzYQi41VK34eQ.jpeg)
 
 Polish people protesting against the situation along the border\. Copyright: Sara Cincurova
 #### Feature: Many lives lost in the Mediterranean
@@ -269,7 +269,7 @@ This is also why Poland has kept the media out. So we can’t show you the despe
 Solidarité Migrants Wilson is looking for volunteers to support food distribution in Paris\. Please consider joining them, if you can\!
 
 
-![](assets/89d200b2d2f6/1*NfWFLQ_5u5cH8IgVf0Y3vg.jpeg)
+![](../assets/89d200b2d2f6/1*NfWFLQ_5u5cH8IgVf0Y3vg.jpeg)
 
 #### WORTH WATCHING
 

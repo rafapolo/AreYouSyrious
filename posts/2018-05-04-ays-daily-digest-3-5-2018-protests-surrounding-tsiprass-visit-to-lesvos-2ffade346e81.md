@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 03/05/2018: Protests surrounding Tsipras’s visit to Lesvos
+title: "AYS Daily Digest 03/05/2018: Protests surrounding Tsipras’s visit to Lesvos"
 author: Are You Syrious?
 date: 2018-05-04T10:44:03.106+0100
 last_modified_at: 2018-05-04T14:09:58.632+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,lesvos,greece,france,germany]
 description: Protests against refugees on Lesvos turn violent / Volunteer calls and new arrivals to Greece / Increased pushbacks along the Balkan route…
 image:
-  path: assets/2ffade346e81/1*zA-QfidEga9pp5MGfPp9Fg.jpeg
+  path: ../assets/2ffade346e81/1*zA-QfidEga9pp5MGfPp9Fg.jpeg
 ---
 
 ### AYS Daily Digest 03/05/2018: Protests surrounding Tsipras’s visit to Lesvos
@@ -15,7 +15,7 @@ image:
 _Protests against refugees on Lesvos turn violent / Volunteer calls and new arrivals to Greece / Increased pushbacks along the Balkan route / Report on dire conditions in airport detention facilities / Resistance and solidarity in France / Increased hostility towards asylum seekers in Germany at the institutional level / And more news…_
 
 
-![Photo by The Welcome Tent](assets/2ffade346e81/1*zA-QfidEga9pp5MGfPp9Fg.jpeg)
+![Photo by The Welcome Tent](../assets/2ffade346e81/1*zA-QfidEga9pp5MGfPp9Fg.jpeg)
 
 Photo by The Welcome Tent
 ### FEATURE
@@ -59,7 +59,7 @@ Many residents of the camps, of course, would much rather be on the mainland, bu
 Why do the authorities take so little action to protect those most vulnerable — under pressure from both the local community and trapped in a system that won’t let them out? This is an additional layer of inhumane treatment of people on the island\.
 
 
-![Photo by Sea\-Watch](assets/2ffade346e81/1*cTSuai1fMb8BeuBU2uOQBg.jpeg)
+![Photo by Sea\-Watch](../assets/2ffade346e81/1*cTSuai1fMb8BeuBU2uOQBg.jpeg)
 
 Photo by Sea\-Watch
 ### SEA

@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,felix-croft,sid,obrenovac]
 description: Felix Croft acquitted of all the charges / Concerns over equipping Libyan coast guard / Deportations and arrests in Greece / Eviction of…
 image:
-  path: assets/df1327b601ad/1*v1YluK6dv-XbC_4VhnKW3w.jpeg
+  path: ../assets/df1327b601ad/1*v1YluK6dv-XbC_4VhnKW3w.jpeg
 ---
 
 ### AYS Daily News Digest 27/4/2017 Solidarity is not a crime
@@ -15,7 +15,7 @@ image:
 Felix Croft acquitted of all the charges / Concerns over equipping Libyan coast guard / Deportations and arrests in Greece / Eviction of informal camps in Rome / Updates from Obrenovac and the dismantling of Sid
 
 
-![Ventimiglia \(Comité de soutien à Félix Croft\)](assets/df1327b601ad/1*v1YluK6dv-XbC_4VhnKW3w.jpeg)
+![Ventimiglia \(Comité de soutien à Félix Croft\)](../assets/df1327b601ad/1*v1YluK6dv-XbC_4VhnKW3w.jpeg)
 
 Ventimiglia \(Comité de soutien à Félix Croft\)
 
@@ -42,7 +42,7 @@ The European union is backing the agreement signed between Italy and Libya in or
 REFUCOMM NEEDS VOLUNTEER TRANSLATORS
 
 
-![](assets/df1327b601ad/1*dwn04M9q1Te7zy9s7B61Rg.jpeg)
+![](../assets/df1327b601ad/1*dwn04M9q1Te7zy9s7B61Rg.jpeg)
 
 
 
@@ -120,11 +120,11 @@ New Project for Andravidas Camp
 After three days of hard work, today Refugee Support Greece and Signal of Solidarity set up a shop in LM Village \(Andravidas Camp\), around 60 km south of Patras\. It will be run by RSG\. Today the first 14 households did their shopping, some 200 people live in the camp\. Every family gets points depending on the number and age of people and can spend them on the items they want\. The items are entirely funded and therefore people don’t have to pay to get their points\. Once a week they can visit the shop and buy supplies themselves\.
 
 
-![](assets/df1327b601ad/1*Z8BJF7w5SVA_JFZO1WoC5g.jpeg)
+![](../assets/df1327b601ad/1*Z8BJF7w5SVA_JFZO1WoC5g.jpeg)
 
 
 
-![New shop at LM Village](assets/df1327b601ad/1*f4M3AyaB1iahpwF_w8pzrQ.jpeg)
+![New shop at LM Village](../assets/df1327b601ad/1*f4M3AyaB1iahpwF_w8pzrQ.jpeg)
 
 New shop at LM Village
 
@@ -143,7 +143,7 @@ Two men from Chios were [arrested for smuggling](http://www.amna.gr/english/arti
 Urgent call for volunteers by CESRT \(Chios eastern shore response team\)
 
 
-![](assets/df1327b601ad/1*FA2Gt5UvCexo4YB6oXzpMw.jpeg)
+![](../assets/df1327b601ad/1*FA2Gt5UvCexo4YB6oXzpMw.jpeg)
 
 
 LESVOS
@@ -151,7 +151,7 @@ LESVOS
 Ten people were deported to Turkey today from Lesvos\. Ten minutes before the boat’s departure police released an Iranian refugee that was about to be deported despite the fact that his appeal was still pending, thanks to the fervent protests of his lawyer\. \(more info on the [Legal Centre Lesbos facebook page](https://www.facebook.com/LesvosLegal/) \)
 
 
-![Boat used for today’s deportation \(Legal Center Lesbos\)](assets/df1327b601ad/1*cF2D-mVxPWrjTbmBrbpDbg.jpeg)
+![Boat used for today’s deportation \(Legal Center Lesbos\)](../assets/df1327b601ad/1*cF2D-mVxPWrjTbmBrbpDbg.jpeg)
 
 Boat used for today’s deportation \(Legal Center Lesbos\)
 
@@ -166,11 +166,11 @@ Today 67 highly vulnerable people arrived from Lebanon at Rome airport Fiumicino
 These flight are made possible through [humanitarian corridors](https://www.facebook.com/Mediterranean-hope-252231521632595/) promoted by FCEI \(Federation of Evangelic Churches in Italy\), Tavola Valdese and the community of Sant’Egidio\. Asylum requests processes already started in the airport\.
 
 
-![](assets/df1327b601ad/1*wDTTVjPssFbzUsl5KsEgiQ.jpeg)
+![](../assets/df1327b601ad/1*wDTTVjPssFbzUsl5KsEgiQ.jpeg)
 
 
 
-![Arriving of Syrian refugees from Lebanon at the Fiumicino Airport in Rome, Italy \(Mediterranean hope\)](assets/df1327b601ad/1*w8mMHpGOylBz_QwTbteVQQ.jpeg)
+![Arriving of Syrian refugees from Lebanon at the Fiumicino Airport in Rome, Italy \(Mediterranean hope\)](../assets/df1327b601ad/1*w8mMHpGOylBz_QwTbteVQQ.jpeg)
 
 Arriving of Syrian refugees from Lebanon at the Fiumicino Airport in Rome, Italy \(Mediterranean hope\)
 
@@ -179,11 +179,11 @@ Arriving of Syrian refugees from Lebanon at the Fiumicino Airport in Rome, Italy
 “Instead of finding a solution, politicians keep turning their backs and worse, they frustrate the efforts of citizens who decided not to remain indifferent\.”
 
 
-![](assets/df1327b601ad/1*K_PscyW3aMa-o6AFq9No0Q.jpeg)
+![](../assets/df1327b601ad/1*K_PscyW3aMa-o6AFq9No0Q.jpeg)
 
 
 
-![Eviction of makeshift camp in Rome \(Baobab Experience\)](assets/df1327b601ad/1*b-S7THHdjpixu9ysMh_7xQ.jpeg)
+![Eviction of makeshift camp in Rome \(Baobab Experience\)](../assets/df1327b601ad/1*b-S7THHdjpixu9ysMh_7xQ.jpeg)
 
 Eviction of makeshift camp in Rome \(Baobab Experience\)
 
@@ -246,7 +246,7 @@ This division between two groups who are equally vulnerable has to stop but it s
 COME SERVE TEA IN PARIS WITH US\!
 
 
-![](assets/df1327b601ad/1*-7CXwr4dv7JaIFyfDkvrKA.png)
+![](../assets/df1327b601ad/1*-7CXwr4dv7JaIFyfDkvrKA.png)
 
 
 

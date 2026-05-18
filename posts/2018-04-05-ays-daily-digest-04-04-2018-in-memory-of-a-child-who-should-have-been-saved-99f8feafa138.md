@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 04/04/2018: “In Memory of a Child Who Should Have Been Saved.”
+title: "AYS DAILY DIGEST 04/04/2018: “In Memory of a Child Who Should Have Been Saved.”"
 author: Are You Syrious?
 date: 2018-04-05T10:33:27.756+0100
 last_modified_at: 2018-04-05T14:24:37.000+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,france,austria]
 description: Protestors demand accountability in horrific shipwreck // Arrivals have increased, transfers have decreased…we’ve heard this story before…
 image:
-  path: assets/99f8feafa138/1*x6duxROhfiFmyoAQyL9NDw.jpeg
+  path: ../assets/99f8feafa138/1*x6duxROhfiFmyoAQyL9NDw.jpeg
 ---
 
 ### AYS DAILY DIGEST 04/04/2018: “In Memory of a Child Who Should Have Been Saved\.”
@@ -15,7 +15,7 @@ image:
 Protestors demand accountability in horrific shipwreck // Arrivals have increased, transfers have decreased…we’ve heard this story before // Call for volunteers in Greece and Serbia // Police targeting refugees for restrictions or deportations in Austria and Bulgaria // After the “winter truce”, refugees under attack again in France // And more…
 
 
-![Photo Credit: [Marios Lolos](https://www.facebook.com/marios.lolos.1)](assets/99f8feafa138/1*x6duxROhfiFmyoAQyL9NDw.jpeg)
+![Photo Credit: [Marios Lolos](https://www.facebook.com/marios.lolos.1)](../assets/99f8feafa138/1*x6duxROhfiFmyoAQyL9NDw.jpeg)
 
 Photo Credit: [Marios Lolos](https://www.facebook.com/marios.lolos.1)
 ### FEATURE: Right to Answers\!
@@ -41,7 +41,7 @@ Testimony of another survivor
 See footage of the protest here:
 
 
-[![Protesters denounce criminal negligence of the Greek Coast Guard](assets/99f8feafa138/a1a7_hqdefault.jpg "Protesters denounce criminal negligence of the Greek Coast Guard")](http://www.youtube.com/watch?v=0dBlKrgfAco)
+[![Protesters denounce criminal negligence of the Greek Coast Guard](../assets/99f8feafa138/a1a7_hqdefault.jpg "Protesters denounce criminal negligence of the Greek Coast Guard")](http://www.youtube.com/watch?v=0dBlKrgfAco)
 
 
 The boat was carrying a total of 21 people, many of them children\. Five individuals survived, but two disappeared, suspected of being the smugglers who organized the trip\. Two weeks ago, two ministers who possibly bear political responsibility for the disaster and negligence, arrived on Samos and met with the survivors, but a formal investigation seems yet to be launched\.
@@ -105,19 +105,19 @@ The Aegean Boat Report notes that 177 people arrived yesterday to Chios\.
 For March, there were a total of 2437 newly registered people and only 1075 transfers to mainland\. There have been large increases on Lesvos and Samos\. Greek authorities counted 356 people who were registered as new arrivals between 30 March and 2 April on Samos\. See the statistics below for more\!
 
 
-![](assets/99f8feafa138/1*LJUNckhzSvbANdxFbcMf1g.jpeg)
+![](../assets/99f8feafa138/1*LJUNckhzSvbANdxFbcMf1g.jpeg)
 
 
 
-![](assets/99f8feafa138/1*RvoZ21pcaWcWcCFWQ4L1SA.jpeg)
+![](../assets/99f8feafa138/1*RvoZ21pcaWcWcCFWQ4L1SA.jpeg)
 
 
 
-![](assets/99f8feafa138/1*MlQd7gswvPcIGSPV9QCo9g.jpeg)
+![](../assets/99f8feafa138/1*MlQd7gswvPcIGSPV9QCo9g.jpeg)
 
 
 
-![](assets/99f8feafa138/1*zSmdixH2NzYXycKbfQKPsg.jpeg)
+![](../assets/99f8feafa138/1*zSmdixH2NzYXycKbfQKPsg.jpeg)
 
 #### Mainland: Athens
 
@@ -146,7 +146,7 @@ Volunteers have put together an immensely helpful pinned post on how to voluntee
 Rigardu e\.v\. is looking for volunteers to support their project in Subotica\!
 
 
-![Photo credit: Rigardu e\.v\.](assets/99f8feafa138/1*XJJSUZoVMnounsNJghFCow.jpeg)
+![Photo credit: Rigardu e\.v\.](../assets/99f8feafa138/1*XJJSUZoVMnounsNJghFCow.jpeg)
 
 Photo credit: Rigardu e\.v\.
 
@@ -203,14 +203,14 @@ After the so\-called “winter truce” wherein some emergency shelters were ope
 [SALAM Nord/Pas\-de\-Calais](https://www.facebook.com/salamnordpasdecalais/?hc_ref=ARRJwZkc-y3m0YOZbOpU8Qqfq1GbhmmfVMezgUiavpcLvEhx1T96NiFDzxgMvltisNI) provided an update on the new clearings of Calais which occurred on the 3rd and the 4th\. Not a single tent was able to be recovered, and many belongings were lost\.
 
 
-![Photo credit: [SALAM Nord/Pas\-de\-Calais](https://www.facebook.com/salamnordpasdecalais/)](assets/99f8feafa138/1*WnpRIolyhztrpN6npLXe7g.jpeg)
+![Photo credit: [SALAM Nord/Pas\-de\-Calais](https://www.facebook.com/salamnordpasdecalais/)](../assets/99f8feafa138/1*WnpRIolyhztrpN6npLXe7g.jpeg)
 
 Photo credit: [SALAM Nord/Pas\-de\-Calais](https://www.facebook.com/salamnordpasdecalais/)
 
 UN Human Rights representatives issued a statement calling on the French government to do more to secure safe drinking water and protection for refugees along the [northern coast of France](http://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=22917&LangID=E) \. The office decried the inhumane and increasingly violent and horrible treatment of refugees and asylum seekers, many of whom are force to clean themselves and drink from polluted water sources\. Recall earlier reports of chemical burns on refugees who had to wash in a polluted stream\.
 
 
-![Photo Credit: Safe Passage](assets/99f8feafa138/1*wrD1u4H69UWN3frlpukJJg.png)
+![Photo Credit: Safe Passage](../assets/99f8feafa138/1*wrD1u4H69UWN3frlpukJJg.png)
 
 Photo Credit: Safe Passage
 

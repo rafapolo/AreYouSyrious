@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 24.10.2020:
+title: "AYS DAILY DIGEST 24.10.2020:"
 author: Are You Syrious?
 date: 2020-01-25T11:55:06.804+0000
 last_modified_at: 2020-01-25T16:06:35.042+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,police-brutality,digest,italy,greece]
 description: Details emerge in the wake of police brutaliaty in Italy // More horrific testimony from Lesvos // Rescue at Sea // Hunger Strike in France
 image:
-  path: assets/ebb6adfce954/1*9-denKf2ZWwgNFjGIq6gKA.jpeg
+  path: ../assets/ebb6adfce954/1*9-denKf2ZWwgNFjGIq6gKA.jpeg
 ---
 
 ### AYS DAILY DIGEST 24\.01\.2020: Witness to Beating Murder of Man in Italian Detention Centre Deported — A Coverup at Hand?
@@ -15,7 +15,7 @@ image:
 _Details emerge in the wake of police brutaliaty in Italy // More horrific testimony from Lesvos // Rescue at Sea // Hunger Strike in France_
 
 
-![[Photo Credits: Kayra Martinez](https://www.facebook.com/photo.php?fbid=10156508294676829&set=pcb.10156508295126829&type=3&theater)](assets/ebb6adfce954/1*9-denKf2ZWwgNFjGIq6gKA.jpeg)
+![[Photo Credits: Kayra Martinez](https://www.facebook.com/photo.php?fbid=10156508294676829&set=pcb.10156508295126829&type=3&theater)](../assets/ebb6adfce954/1*9-denKf2ZWwgNFjGIq6gKA.jpeg)
 
 [Photo Credits: Kayra Martinez](https://www.facebook.com/photo.php?fbid=10156508294676829&set=pcb.10156508295126829&type=3&theater)
 ### FEATURE: Sudden deportation of witness to beating murder of inmate in Gorizia
@@ -237,7 +237,7 @@ There is ongoing contention and discussion about evacuating unaccompanied minors
 However, in spite of this horror, some people are creating beauty\. Longtime volunteer Kayra Martinez shared some of the work at an installation at the Moria Refugee Camp organized by Zekria Farzad\.
 
 
-![](assets/ebb6adfce954/1*EavdIQNMYnC-csiDEGQHhA.jpeg)
+![](../assets/ebb6adfce954/1*EavdIQNMYnC-csiDEGQHhA.jpeg)
 
 
 [Photo Credits: Kayra Martinez](https://www.facebook.com/photo.php?fbid=10156508294676829&set=pcb.10156508295126829&type=3&theater)

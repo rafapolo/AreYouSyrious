@@ -1,13 +1,13 @@
 ---
-title: AYS Weekend Digest 7–8/11/2020: No rights and no criteria for Tunisian people in Italy
+title: "AYS Weekend Digest 7–8/11/2020: No rights and no criteria for Tunisian people in Italy"
 author: Are You Syrious?
 date: 2020-11-09T12:22:03.053+0000
 last_modified_at: 2020-11-09T13:03:22.875+0000
 categories: Are You Syrious?
 tags: [refugees,digest,tunisia-italy,trump,deportations]
-description: AYS comments on US Presidential election / Shipwreck off Samos: 1 boy dies / Deportations from Cape Town, South Africa. More info and…
+description: "AYS comments on US Presidential election / Shipwreck off Samos: 1 boy dies / Deportations from Cape Town, South Africa. More info and…"
 image:
-  path: assets/ee310705b701/1*PXUFGJtVzEfcVmsftC1jLA.jpeg
+  path: ../assets/ee310705b701/1*PXUFGJtVzEfcVmsftC1jLA.jpeg
 ---
 
 ### AYS Weekend Digest 7–8/11/2020: No rights and no criteria for Tunisian people in Italy
@@ -15,7 +15,7 @@ image:
 AYS comments on US Presidential election // Shipwreck off Samos: 1 boy dies // Deportations from Cape Town, South Africa // Updates from Greece, Spain, Serbia, Sweden, UK…
 
 
-![Moria 2\.0, November 2020 \(Photo by [moria2refugees](https://twitter.com/moria2_gr/status/1325536903291150338/photo/4) \)](assets/ee310705b701/1*PXUFGJtVzEfcVmsftC1jLA.jpeg)
+![Moria 2\.0, November 2020 \(Photo by [moria2refugees](https://twitter.com/moria2_gr/status/1325536903291150338/photo/4) \)](../assets/ee310705b701/1*PXUFGJtVzEfcVmsftC1jLA.jpeg)
 
 Moria 2\.0, November 2020 \(Photo by [moria2refugees](https://twitter.com/moria2_gr/status/1325536903291150338/photo/4) \)
 #### Featured — Italy: No rights and no criteria for Tunisian people in Italy
@@ -229,7 +229,7 @@ While arrivals are so high, the government has cut funding for search and rescue
 As we reported on Friday, 4 people died in a sewage pipe trying to access the Spanish enclave of Melilla from Morocco\. [No Name Kitchen and Solidary Wheels](https://twitter.com/NoNameKitchen1/status/1325387542338867200) published a story from Husna, who survived the same route\.
 
 
-![](assets/ee310705b701/1*pBvapx5dZ9FaFQBb-surpQ.png)
+![](../assets/ee310705b701/1*pBvapx5dZ9FaFQBb-surpQ.png)
 
 
 SERBIA
@@ -247,7 +247,7 @@ CZECH REPUBLIC
 #### **48 people found travelling hidden in a truck**
 
 
-![\(Photo Credit: Imago Images\)](assets/ee310705b701/1*cVElDHQFo3GBqABJeysEkQ.jpeg)
+![\(Photo Credit: Imago Images\)](../assets/ee310705b701/1*cVElDHQFo3GBqABJeysEkQ.jpeg)
 
 \(Photo Credit: Imago Images\)
 

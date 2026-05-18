@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 04–05/5/2019: Border agreement with Albania now operational
+title: "AYS Weekend Digest 04–05/5/2019: Border agreement with Albania now operational"
 author: Are You Syrious?
 date: 2019-05-06T00:49:42.980+0100
 last_modified_at: 2019-05-06T11:26:12.560+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [europe,refugees,digest,frontex,mediterranean]
 description: Frontex to be deployed at the border with Greece / Protest march against deportations in Iceland / Update from the Mediterranean
 image:
-  path: assets/cef3237366b5/1*7ZvR29MH8p8FGOt2tIunKw.jpeg
+  path: ../assets/cef3237366b5/1*7ZvR29MH8p8FGOt2tIunKw.jpeg
 ---
 
 ### AYS Weekend Digest 04–05/5/19: Border agreement with Albania now operational
 #### Frontex to be deployed at the border with Greece / Surge of arrivals to the northwest Bosnia and Herzegovina, still no adequate official response / Turkish bar association letter / Protest march against deportations in Iceland / Update from the Mediterranean
 
 
-![By the end of May, Frontex staff will be deployed at the Greek\-Albanian border\. Photo: [Frontex](https://www.facebook.com/frontex/photos/a.449361672224673/539438209883685/?type=3&theater)](assets/cef3237366b5/1*7ZvR29MH8p8FGOt2tIunKw.jpeg)
+![By the end of May, Frontex staff will be deployed at the Greek\-Albanian border\. Photo: [Frontex](https://www.facebook.com/frontex/photos/a.449361672224673/539438209883685/?type=3&theater)](../assets/cef3237366b5/1*7ZvR29MH8p8FGOt2tIunKw.jpeg)
 
 By the end of May, Frontex staff will be deployed at the Greek\-Albanian border\. Photo: [Frontex](https://www.facebook.com/frontex/photos/a.449361672224673/539438209883685/?type=3&theater)
 ### FEATURED STORIES
@@ -38,11 +38,11 @@ The nearest camp is the one in Bihać \(100 km away\) and people are not allowed
 
 
 
-![](assets/cef3237366b5/1*Z71bvjAnrcmUA5LzXhkcsA.jpeg)
+![](../assets/cef3237366b5/1*Z71bvjAnrcmUA5LzXhkcsA.jpeg)
 
 
 
-![Photos: Crveni Križ Općine Ključ](assets/cef3237366b5/1*dGFsowjMzVoiL-BMeXiozw.jpeg)
+![Photos: Crveni Križ Općine Ključ](../assets/cef3237366b5/1*dGFsowjMzVoiL-BMeXiozw.jpeg)
 
 Photos: Crveni Križ Općine Ključ
 
@@ -51,11 +51,11 @@ There are more and more people arriving in Tuzla, more young people and families
 On Sunday evening, sometime after midnight, three babies arrived among the latecomers…
 
 
-![](assets/cef3237366b5/1*RYJouFxdPQCMAmKS5UIwbA.jpeg)
+![](../assets/cef3237366b5/1*RYJouFxdPQCMAmKS5UIwbA.jpeg)
 
 
 
-![Photos by N\.M\., volunteer from Tuzla’s Refugees Welcome citizens group](assets/cef3237366b5/1*4chl3aztfEaUmrYW1ASCdQ.jpeg)
+![Photos by N\.M\., volunteer from Tuzla’s Refugees Welcome citizens group](../assets/cef3237366b5/1*4chl3aztfEaUmrYW1ASCdQ.jpeg)
 
 Photos by N\.M\., volunteer from Tuzla’s Refugees Welcome citizens group
 

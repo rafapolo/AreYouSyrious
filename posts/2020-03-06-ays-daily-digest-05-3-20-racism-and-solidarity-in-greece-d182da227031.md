@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 05/3/20: Racism and Solidarity in Greece
+title: "AYS Daily Digest 05/3/20: Racism and Solidarity in Greece"
 author: Are You Syrious?
 date: 2020-03-06T13:28:27.852+0000
 last_modified_at: 2020-03-06T13:28:27.852+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,greece,europe,turkey]
 description: Updates on the current situation in Greece // death toll in Mediterranean reaches 20.000 since 2014 //  European cities open for…
 image:
-  path: assets/d182da227031/1*ym8nsqYeH4fwDh1bLYNPyw.jpeg
+  path: ../assets/d182da227031/1*ym8nsqYeH4fwDh1bLYNPyw.jpeg
 ---
 
 ### AYS Daily Digest 05/3/20: Racism and Solidarity in Greece
 #### Updates on the current situation in Greece // death toll in Mediterranean reaches 20\.000 since 2014 // European cities open for integration of more refugees from Greece, but governments still blocking // Swedish right wing party member in Greece
 
 
-![by Mir Suhail, political cartonist from Kashmir\. The picture shows Greece represented by the mythological figure of Medusa as she is welcoming syrian refugees with arms\.](assets/d182da227031/1*ym8nsqYeH4fwDh1bLYNPyw.jpeg)
+![by Mir Suhail, political cartonist from Kashmir\. The picture shows Greece represented by the mythological figure of Medusa as she is welcoming syrian refugees with arms\.](../assets/d182da227031/1*ym8nsqYeH4fwDh1bLYNPyw.jpeg)
 
 by Mir Suhail, political cartonist from Kashmir\. The picture shows Greece represented by the mythological figure of Medusa as she is welcoming syrian refugees with arms\.
 ### FEATURE: UPDATES FROM GREECE
@@ -40,12 +40,12 @@ And the Austrian Sellner is not alone\. Jimmie Åkesson, leader of the right win
 But amidst all this dramatic events Greek people show that the majority of them supports the rights of refugees and stands in solidarity with them\. All over the country demonstrations have been held yesterday in order to show solidarity\. About 7000 people joined the peaceful protest in Athens\.
 
 
-![Demonstration in Athens, copyright Marios Lolos](assets/d182da227031/1*aq4tCySg2AklYoymsbioqQ.jpeg)
+![Demonstration in Athens, copyright Marios Lolos](../assets/d182da227031/1*aq4tCySg2AklYoymsbioqQ.jpeg)
 
 Demonstration in Athens, copyright Marios Lolos
 
 
-![Demonstration in Thessaloniki, copyright No Border Network](assets/d182da227031/1*OLxCgY06WuH6xv9r-QGs-A.jpeg)
+![Demonstration in Thessaloniki, copyright No Border Network](../assets/d182da227031/1*OLxCgY06WuH6xv9r-QGs-A.jpeg)
 
 Demonstration in Thessaloniki, copyright No Border Network
 

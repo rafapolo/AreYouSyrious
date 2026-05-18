@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY NEWS DIGEST 1/7: When Europe treats refugees as criminals
+title: "AYS DAILY NEWS DIGEST 1/7: When Europe treats refugees as criminals"
 author: Are You Syrious?
 date: 2016-07-01T21:53:48.023+0100
 last_modified_at: 2016-07-02T10:40:56.474+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe]
 description: Refugees are being arrested and imprisoned at several places along the route. Elsewhere, they are enclosed in camps with little food. New…
 image:
-  path: assets/d6b3fe032b90/1*q6ZlXs-bin8iJeD8amNumg.jpeg
+  path: ../assets/d6b3fe032b90/1*q6ZlXs-bin8iJeD8amNumg.jpeg
 ---
 
 ### AYS DAILY NEWS DIGEST 1/7: When Europe treats refugees as criminals
 #### Refugees are being arrested and imprisoned at several places along the route\. Elsewhere, they are enclosed in camps with little food\. New camps are being built, especially in Italy where thousands and thousands of refugees are coming by boat every single day\. Donations are needed urgently\.
 
 
-![Credits: Help Refugees](assets/d6b3fe032b90/1*q6ZlXs-bin8iJeD8amNumg.jpeg)
+![Credits: Help Refugees](../assets/d6b3fe032b90/1*q6ZlXs-bin8iJeD8amNumg.jpeg)
 
 Credits: Help Refugees
 #### General
@@ -52,27 +52,27 @@ Credits: Help Refugees
 ### A costume party in Sounio camp
 
 
-![Credits: [**Open Cultural Center — OCC — former Idomeni Cultural Center**](https://www.facebook.com/Open-Cultural-Center-OCC-former-Idomeni-Cultural-Center-1302471973114551/?fref=photo)](assets/d6b3fe032b90/1*gjcC-SIa2Enttonr1VWoWw.jpeg)
+![Credits: [**Open Cultural Center — OCC — former Idomeni Cultural Center**](https://www.facebook.com/Open-Cultural-Center-OCC-former-Idomeni-Cultural-Center-1302471973114551/?fref=photo)](../assets/d6b3fe032b90/1*gjcC-SIa2Enttonr1VWoWw.jpeg)
 
 Credits: [**Open Cultural Center — OCC — former Idomeni Cultural Center**](https://www.facebook.com/Open-Cultural-Center-OCC-former-Idomeni-Cultural-Center-1302471973114551/?fref=photo)
 
 
-![Credits: [**Open Cultural Center — OCC — former Idomeni Cultural Center**](https://www.facebook.com/Open-Cultural-Center-OCC-former-Idomeni-Cultural-Center-1302471973114551/?fref=photo)](assets/d6b3fe032b90/1*r4dKnpPtdVWeySRQbxb8ag.jpeg)
+![Credits: [**Open Cultural Center — OCC — former Idomeni Cultural Center**](https://www.facebook.com/Open-Cultural-Center-OCC-former-Idomeni-Cultural-Center-1302471973114551/?fref=photo)](../assets/d6b3fe032b90/1*r4dKnpPtdVWeySRQbxb8ag.jpeg)
 
 Credits: [**Open Cultural Center — OCC — former Idomeni Cultural Center**](https://www.facebook.com/Open-Cultural-Center-OCC-former-Idomeni-Cultural-Center-1302471973114551/?fref=photo)
 
 
-![Credits: [**Open Cultural Center — OCC — former Idomeni Cultural Center**](https://www.facebook.com/Open-Cultural-Center-OCC-former-Idomeni-Cultural-Center-1302471973114551/?fref=photo)](assets/d6b3fe032b90/1*SL7w_PcU4bIos9v2-1WvsQ.jpeg)
+![Credits: [**Open Cultural Center — OCC — former Idomeni Cultural Center**](https://www.facebook.com/Open-Cultural-Center-OCC-former-Idomeni-Cultural-Center-1302471973114551/?fref=photo)](../assets/d6b3fe032b90/1*SL7w_PcU4bIos9v2-1WvsQ.jpeg)
 
 Credits: [**Open Cultural Center — OCC — former Idomeni Cultural Center**](https://www.facebook.com/Open-Cultural-Center-OCC-former-Idomeni-Cultural-Center-1302471973114551/?fref=photo)
 
 
-![Credits: [**Open Cultural Center — OCC — former Idomeni Cultural Center**](https://www.facebook.com/Open-Cultural-Center-OCC-former-Idomeni-Cultural-Center-1302471973114551/?fref=photo)](assets/d6b3fe032b90/1*NR4wW5CkswpwrDXiU-IiYg.jpeg)
+![Credits: [**Open Cultural Center — OCC — former Idomeni Cultural Center**](https://www.facebook.com/Open-Cultural-Center-OCC-former-Idomeni-Cultural-Center-1302471973114551/?fref=photo)](../assets/d6b3fe032b90/1*NR4wW5CkswpwrDXiU-IiYg.jpeg)
 
 Credits: [**Open Cultural Center — OCC — former Idomeni Cultural Center**](https://www.facebook.com/Open-Cultural-Center-OCC-former-Idomeni-Cultural-Center-1302471973114551/?fref=photo)
 
 
-![Credits: [**Open Cultural Center — OCC — former Idomeni Cultural Center**](https://www.facebook.com/Open-Cultural-Center-OCC-former-Idomeni-Cultural-Center-1302471973114551/?fref=photo)](assets/d6b3fe032b90/1*WjzgYfeEd-inmVv3BVOBuw.jpeg)
+![Credits: [**Open Cultural Center — OCC — former Idomeni Cultural Center**](https://www.facebook.com/Open-Cultural-Center-OCC-former-Idomeni-Cultural-Center-1302471973114551/?fref=photo)](../assets/d6b3fe032b90/1*WjzgYfeEd-inmVv3BVOBuw.jpeg)
 
 Credits: [**Open Cultural Center — OCC — former Idomeni Cultural Center**](https://www.facebook.com/Open-Cultural-Center-OCC-former-Idomeni-Cultural-Center-1302471973114551/?fref=photo)
 ### Violence towards unaccompanied minors in Moria, Lesvos
@@ -152,17 +152,17 @@ Credits: [**Open Cultural Center — OCC — former Idomeni Cultural Center**](h
 
 
 
-![Credits: [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/?fref=photo)](assets/d6b3fe032b90/1*q6ZlXs-bin8iJeD8amNumg.jpeg)
+![Credits: [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/?fref=photo)](../assets/d6b3fe032b90/1*q6ZlXs-bin8iJeD8amNumg.jpeg)
 
 Credits: [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/?fref=photo)
 
 
-![Credits: [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/?fref=photo)](assets/d6b3fe032b90/1*uOpzJ2nUgln5c80KWbdyYA.jpeg)
+![Credits: [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/?fref=photo)](../assets/d6b3fe032b90/1*uOpzJ2nUgln5c80KWbdyYA.jpeg)
 
 Credits: [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/?fref=photo)
 
 
-![Credits: [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/?fref=photo)](assets/d6b3fe032b90/1*86a1rpCRR-4Dl3iHLhKkXQ.jpeg)
+![Credits: [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/?fref=photo)](../assets/d6b3fe032b90/1*86a1rpCRR-4Dl3iHLhKkXQ.jpeg)
 
 Credits: [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/?fref=photo)
 #### Ireland

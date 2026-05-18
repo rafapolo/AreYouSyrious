@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 27–28/4/19: At least 16 people died trying to reach the port of departure in…
+title: "AYS News Digest 27–28/4/19: At least 16 people died trying to reach the port of departure in…"
 author: Are You Syrious?
 date: 2019-04-29T12:26:36.751+0100
 last_modified_at: 2019-04-29T14:02:01.157+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,bosnia,migrants,europe]
 description: A truck accident causes deaths and serious injuries in Morocco / Volunteers needed in Greece / Pressure piles up on Bosnian local…
 image:
-  path: assets/e4026dbe7132/1*oyeDK2I9l9BPedY9OU6Qew.jpeg
+  path: ../assets/e4026dbe7132/1*oyeDK2I9l9BPedY9OU6Qew.jpeg
 ---
 
 ### AYS News Digest 27–28/4/19: At least 16 people died trying to reach the port of departure in Morocco
 #### A truck accident causes deaths and serious injuries in Morocco // Volunteers needed in Greece // Pressure builds up on Bosnian local communities, clear strategies and human approach not in sight // Dunkirk awaits for new surge of arrivals, with no drinking water and fears of evictions // Join the protest in the Mediterranean // & more news and updates
 
 
-![By Panos Zacharis, via ArtAgainst](assets/e4026dbe7132/1*oyeDK2I9l9BPedY9OU6Qew.jpeg)
+![By Panos Zacharis, via ArtAgainst](../assets/e4026dbe7132/1*oyeDK2I9l9BPedY9OU6Qew.jpeg)
 
 By Panos Zacharis, via ArtAgainst
 ### FEATURED STORIES
@@ -33,7 +33,7 @@ A tragic death happened on the road as a truck with about 50 people of Sub\-Saha
 
 
 
-![Photo: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?tn-str=k%2AF)](assets/e4026dbe7132/1*eF54JtL5zy5I6sPEJSJejA.jpeg)
+![Photo: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?tn-str=k%2AF)](../assets/e4026dbe7132/1*eF54JtL5zy5I6sPEJSJejA.jpeg)
 
 Photo: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?tn-str=k%2AF)
 
@@ -50,14 +50,14 @@ According to a study by the International Organization for Migration, people on 
 **Bosnia and Herzegovina** — In spite of constant calls for some sort of strategy or at least support in provisional solutions to the late surge of people on the move passing through Tuzla, there seem to be no plans or announcements that some official support might come any time soon\. It seems that neither the regional government, nor the local politicians, and above all \(most likely due to their own strategies\) the international organisations, have done anything concrete, solid and sustainable to support the self organized locals in providing support to those in need\. With the weather getting warmer, there are more and more people arriving and, especially during the weekends when the offices don’t work, people spend the nights outside, sometimes for several nights\.
 
 
-![symbolic support of the local orthodox church on the occasion of their Easter celebrations](assets/e4026dbe7132/1*PmkeLF6KR4o6VjfmyV_xzQ.jpeg)
+![symbolic support of the local orthodox church on the occasion of their Easter celebrations](../assets/e4026dbe7132/1*PmkeLF6KR4o6VjfmyV_xzQ.jpeg)
 
 symbolic support of the local orthodox church on the occasion of their Easter celebrations
 
 Locals are organised in terms of providing food, clothes, blankets and such but the absence of decent toilets \(and showers\) has become a growing problem that is difficult to address without the support of the officials\.
 
 
-![Shoes and blankets are among the most needed items there — Photo by: S\.C\.](assets/e4026dbe7132/1*qjF79CuaHN45Mwg3dSMUgA.jpeg)
+![Shoes and blankets are among the most needed items there — Photo by: S\.C\.](../assets/e4026dbe7132/1*qjF79CuaHN45Mwg3dSMUgA.jpeg)
 
 Shoes and blankets are among the most needed items there — Photo by: S\.C\.
 
@@ -71,7 +71,7 @@ The local people coordinating everything have now arranged to rent a floor of on
 It is a matter of urgency to **at least** prolong the working hours of the office for foreigners and to create decent conditions for the people, firstly in regards to hygiene conditions and the reception site\.
 
 
-![](assets/e4026dbe7132/1*AGPVZwFZhyN7UI1IV3LD3w.jpeg)
+![](../assets/e4026dbe7132/1*AGPVZwFZhyN7UI1IV3LD3w.jpeg)
 
 #### LIBYA
 ### Forced to fight on front lines
@@ -111,7 +111,7 @@ Nothing justifies such a violent assault on civilians who are trapped in a confl
 Some statistics that speak of the situation in Libya can be seen from the UNHCR \(promo\) leaflet in response to the current situation in the country\.
 
 
-![](assets/e4026dbe7132/1*cO35V2LLVhcX6yTnLBzCqw.jpeg)
+![](../assets/e4026dbe7132/1*cO35V2LLVhcX6yTnLBzCqw.jpeg)
 
 
 
@@ -127,7 +127,7 @@ Some statistics that speak of the situation in Libya can be seen from the UNHCR 
 #### THE MEDITERRANEAN — Search and rescue
 
 
-![](assets/e4026dbe7132/1*UrqDzfkHoeUkkGO3IbWBYw.jpeg)
+![](../assets/e4026dbe7132/1*UrqDzfkHoeUkkGO3IbWBYw.jpeg)
 
 ### Protest in the Mediterranean
 
@@ -207,7 +207,7 @@ A boat with 15 people \(6 minors among them\) [successfully landed](https://cade
 **\- a nurse needed in Thessaloniki from May 2nd to May 15th** 
 **\- a doctor needed in Athens from May 14th onwards** 
 **\- nurses needed in Athens from May 12th onwards** 
-**\- a doctor needed on Lesvos from May 5th to May 31st**](assets/e4026dbe7132/1*wsE72Rm-pRJi3XnxO4jXkg.jpeg)
+**\- a doctor needed on Lesvos from May 5th to May 31st**](../assets/e4026dbe7132/1*wsE72Rm-pRJi3XnxO4jXkg.jpeg)
 
 \- **1–2 doctors needed in Thessaloniki from this weekend to May 12th** 
 **\- a nurse needed in Thessaloniki from May 2nd to May 15th** 
@@ -251,7 +251,7 @@ With numbers of displaced people increasing at the rate they are, those on the g
 The group invites potential volunteers to contact them and/or support their work on the ground through donations\.
 
 
-![Photo: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?tn-str=k%2AF&hc_location=group_dialog)](assets/e4026dbe7132/1*i-1aMR7F-CypCnvEqduU8Q.jpeg)
+![Photo: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?tn-str=k%2AF&hc_location=group_dialog)](../assets/e4026dbe7132/1*i-1aMR7F-CypCnvEqduU8Q.jpeg)
 
 Photo: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?tn-str=k%2AF&hc_location=group_dialog)
 #### AYS and the Daily News Digest — how to get involved?

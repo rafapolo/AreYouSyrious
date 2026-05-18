@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 16/8/19: Land in sight but still no allowance to dock
+title: "AYS Daily Digest 16/8/19: Land in sight but still no allowance to dock"
 author: Are You Syrious?
 date: 2019-08-17T13:25:09.189+0100
 last_modified_at: 2019-08-17T15:00:03.388+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,open-arms,border-violence]
 description: Open Arms and Ocean Viking still at sea with about 500 rescued person // overcrowding on Greek islands // Sole survivor from Malta talks…
 image:
-  path: assets/3a87f3db41db/1*it_rZmlSQLKfpXQRp0Snbg.jpeg
+  path: ../assets/3a87f3db41db/1*it_rZmlSQLKfpXQRp0Snbg.jpeg
 ---
 
 ### AYS Daily Digest 16/8/19: Land in sight but still no allowance to dock
 #### Open Arms and Ocean Viking still at sea with about 500 rescued people // Overcrowding on Greek islands // Sole survivor from Malta talks about 11 days at sea // People return to Bosnia and Herzegovina with wounds consistent to beatings // Racist statements from politicians of Croatia and Serbia // & more news
 
 
-![Day 16 on board of Open Arms for the 135 recued persons\. Copyright: SOS Mediterranee](assets/3a87f3db41db/1*it_rZmlSQLKfpXQRp0Snbg.jpeg)
+![Day 16 on board of Open Arms for the 135 recued persons\. Copyright: SOS Mediterranee](../assets/3a87f3db41db/1*it_rZmlSQLKfpXQRp0Snbg.jpeg)
 
 Day 16 on board of Open Arms for the 135 recued persons\. Copyright: SOS Mediterranee
 #### FEATURED
@@ -24,11 +24,11 @@ Three people were urgently evacuated from **Open Arms’** vessel, together with
 Urgent and immediate evacuation is requested for all people on board\. The conditions of both adults and minors are critical\. According to the psychologist who examined four of the minors on board, the safety of all on board is at risk\. She stated that there a total of 28 minors, aged between 16 and 17\. They are already are classed as vulnerable due to their age, but also because of their traumatic journey, the things that they have experienced and lived through, and as they are demonstrating signs of depression and anxiety\. They should, along with everyone else on board the vessel, be disembarked to safety, and treated according to their needs and rights:
 
 
-![](assets/3a87f3db41db/1*VMV6XtR3_xQDKUgq7HcLkg.jpeg)
+![](../assets/3a87f3db41db/1*VMV6XtR3_xQDKUgq7HcLkg.jpeg)
 
 
 
-![](assets/3a87f3db41db/1*mslyavQUmn2LS7Aw8HgAfw.jpeg)
+![](../assets/3a87f3db41db/1*mslyavQUmn2LS7Aw8HgAfw.jpeg)
 
 
 The Palermo juvenile prosecutor has since appointed the guardians for all of the minors aboard Open Arms’ rescue vessel\. As they state, it’s an important step, but we agree they must land as soon as possible\.
@@ -175,7 +175,7 @@ In [this article](https://www.newyorker.com/magazine/2017/12/04/the-french-origi
 This video dismantles the arguments from Lauren Southern, an alt\-right activist, about the “great replacement” in great detail\.
 
 
-[![The Great Replacement Isn't Real - ft. Lauren Southern](assets/3a87f3db41db/4939_hqdefault.jpg "The Great Replacement Isn't Real - ft. Lauren Southern")](https://www.youtube.com/watch?v=VUbxVfSqtt8)
+[![The Great Replacement Isn't Real - ft. Lauren Southern](../assets/3a87f3db41db/4939_hqdefault.jpg "The Great Replacement Isn't Real - ft. Lauren Southern")](https://www.youtube.com/watch?v=VUbxVfSqtt8)
 
 
 The Border Violence Monitoring Network in collaboration with No Name Kitchen published a new report on the situation at the EU\-borders in July 2019\. Again, it reports of massive use of violence and pushbacks\. Among other things, the report covers:
@@ -221,11 +221,11 @@ It can be found here:
 Volunteer doctors in Bosnia and Herzegovina report people coming \(back\) to Tuzla with injuries consistent with beatings:
 
 
-![](assets/3a87f3db41db/1*xni06HGVdYT9T_FbSAuuLQ.jpeg)
+![](../assets/3a87f3db41db/1*xni06HGVdYT9T_FbSAuuLQ.jpeg)
 
 
 
-![Photos: Danijel Vasilj](assets/3a87f3db41db/1*X2LRPqRGe10YZ6Q2SYAGjg.jpeg)
+![Photos: Danijel Vasilj](../assets/3a87f3db41db/1*X2LRPqRGe10YZ6Q2SYAGjg.jpeg)
 
 Photos: Danijel Vasilj
 

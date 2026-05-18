@@ -1,5 +1,5 @@
 ---
-title: AYS digest 16/8: Slovenia and Bulgaria trying to cut off refugee routes
+title: "AYS digest 16/8: Slovenia and Bulgaria trying to cut off refugee routes"
 author: Are You Syrious?
 date: 2016-08-17T00:17:39.899+0100
 last_modified_at: 2016-08-17T14:06:48.151+0100
@@ -7,14 +7,14 @@ categories:
 tags: [europe,refugees,migration,balkans]
 description: Number of refugees in Greek camps declining every day. Balkan countries putting their reception facilities on standby after the rise of…
 image:
-  path: assets/e1a0f6f049ed/1*KtZtdvrSwedVgQ6am-zTbQ.jpeg
+  path: ../assets/e1a0f6f049ed/1*KtZtdvrSwedVgQ6am-zTbQ.jpeg
 ---
 
 ### AYS digest 16/8: Slovenia and Bulgaria trying to cut off refugee routes
 #### Number of refugees in Greek camps declining every day\. Balkan countries putting their reception facilities on standby after the rise of irregular crossings\. Donations needed in Serbia and France\.
 
 
-![Slovenian military is now reinforcing the razor wire fence on its border with Croatia\. The fence was set up last November, in a failed attempt to stop the crossings\. Photo: PXL](assets/e1a0f6f049ed/1*KtZtdvrSwedVgQ6am-zTbQ.jpeg)
+![Slovenian military is now reinforcing the razor wire fence on its border with Croatia\. The fence was set up last November, in a failed attempt to stop the crossings\. Photo: PXL](../assets/e1a0f6f049ed/1*KtZtdvrSwedVgQ6am-zTbQ.jpeg)
 
 Slovenian military is now reinforcing the razor wire fence on its border with Croatia\. The fence was set up last November, in a failed attempt to stop the crossings\. Photo: PXL
 
@@ -24,14 +24,14 @@ Slovenian military is now reinforcing the razor wire fence on its border with Cr
 According to AYS volunteers on the ground, number of refugees in Greek camps, especially in the North, is on the sharp decline, while the number of people sleeping in the streets is rising\. Official numbers are also showing significant decline of the numbers in several camps, especially Cherso and Nea Kavala\. In the last week only, Cherso camp went from 3730 to 2560 people, and Nea Kavala from 3697 to 2378 people\. At the same time, the number of “self settled” refugees has risen “self settled population increased from 2,200 to 4,450 officially registered people living outside of the camps\.
 
 
-![Even the small children are sleeping in the open in Thessaloniki\. Photo: Nidzara Ahmetasevic of AYS](assets/e1a0f6f049ed/1*LfrmuZQmg7fK41Vmp29uCQ.jpeg)
+![Even the small children are sleeping in the open in Thessaloniki\. Photo: Nidzara Ahmetasevic of AYS](../assets/e1a0f6f049ed/1*LfrmuZQmg7fK41Vmp29uCQ.jpeg)
 
 Even the small children are sleeping in the open in Thessaloniki\. Photo: Nidzara Ahmetasevic of AYS
 
 On Monday, AYS volunteers have encountered about 200 refugees roaming around Thessaloniki\. Yesterday it was more than 400, while today more than 500 refugees were encountered\. At least half of the refugees in the streets of Thessaloniki are reported to be children and even very small babies\. Food is being delivered by volunteers, as well as medical help\.
 
 
-![Dr\. Karin Tschare\-Fehr helping the refugees on the streets of Thessaloniki](assets/e1a0f6f049ed/1*2MSwmjd9vwt0XtVBShamZw.jpeg)
+![Dr\. Karin Tschare\-Fehr helping the refugees on the streets of Thessaloniki](../assets/e1a0f6f049ed/1*2MSwmjd9vwt0XtVBShamZw.jpeg)
 
 Dr\. Karin Tschare\-Fehr helping the refugees on the streets of Thessaloniki
 
@@ -40,7 +40,7 @@ In Cherso, volunteers say the number of residents has declined from last months�
 Same goes for Nea Kavala camp, where the number of the refugees is now 1,200 according to volunteers on the ground, again much less than official numbers \. Unbearable heat with no decent shade remains one of the biggest problems in Nea Kavala, forcing people to seek better places for their families\.
 
 
-![Refugees trying to grow crops in order to improve their nutrition in Nea Karvala camp\. Photo: AYS](assets/e1a0f6f049ed/1*kqzx6hxe-XOCXU6ALX7MJA.jpeg)
+![Refugees trying to grow crops in order to improve their nutrition in Nea Karvala camp\. Photo: AYS](../assets/e1a0f6f049ed/1*kqzx6hxe-XOCXU6ALX7MJA.jpeg)
 
 Refugees trying to grow crops in order to improve their nutrition in Nea Karvala camp\. Photo: AYS
 ### Housings projects bringing hope to refugees
@@ -51,7 +51,7 @@ As the situation in the official camps seems hopeless, it is important to rememb
 While many refugees and volunteers share their stories about terrible living conditions in Softex camp, we are happy to present a rare nice photo from the site: first day of school for little refugees\! The school was built from the scratch up and will be run by InterVolve — International Volunteers\. They deserve all congratulations on their tremendous work\!
 
 
-![First day of school in Softex\. Photo:InterVolve — International Volunteers](assets/e1a0f6f049ed/1*KgFMcgBiiK0MAiPKWoTvSA.jpeg)
+![First day of school in Softex\. Photo:InterVolve — International Volunteers](../assets/e1a0f6f049ed/1*KgFMcgBiiK0MAiPKWoTvSA.jpeg)
 
 First day of school in Softex\. Photo:InterVolve — International Volunteers
 ### Frontex sending more officers to Bulgarian borders, new patrol veichles and dog teams announced
@@ -70,7 +70,7 @@ Frontex will also strengthen its presence at the border crossing points to help 
 Following few very very bad months for the refugees stranded in Northern Serbia, volunteer efforts have made situation in Subotica area, including Kelebija and Horgos border crossings with Hungary, much better\. Basic facilities have been set up and food distribution is working, but with hundreds of families waiting in a hope to be admitted to Hungary, which still accepts only 30 people per day \(15 at each crossing\), volunteers can run out of funds quite fast\. That’s why we’d like to ask you to consider donating to valuable teams who are already there instead of spending that money on travelling to Serbia, because it seems there are enough volunteers at the moment\.
 
 
-![Makeshift infrastructure is improving in Kelebija and Horgos camps\. Photo: IHO](assets/e1a0f6f049ed/1*QRkcMAi6xDzEz-Ir56l9ZQ.jpeg)
+![Makeshift infrastructure is improving in Kelebija and Horgos camps\. Photo: IHO](../assets/e1a0f6f049ed/1*QRkcMAi6xDzEz-Ir56l9ZQ.jpeg)
 
 Makeshift infrastructure is improving in Kelebija and Horgos camps\. Photo: IHO
 
@@ -80,7 +80,7 @@ Some \(but not all\) of the teams and groups worth donating to are [IHO](https:/
 Last week, Croatian Ministry of Interior has published [first photos](http://Tranzitni%20prihvatni%20centar%20za%20strance%20Tovarnik) of the new reception facility in Tovarnik, near the border with Serbia\. This is where irregular migrants caught on Croatian soil might be brought in the future\. According to announced police plans, people caught in irregular border crossings will first be forwarded to Tovarnik facility, and then forwarded to asylum seeker’s facilities in Zagreb or being pushed back to Serbia\.
 
 
-![New reception center for irregular migrants in Tovarnik\. Photo: Croatian Ministry of Interior](assets/e1a0f6f049ed/1*J8r2Qi8kRQIXE8evW5BcyQ.jpeg)
+![New reception center for irregular migrants in Tovarnik\. Photo: Croatian Ministry of Interior](../assets/e1a0f6f049ed/1*J8r2Qi8kRQIXE8evW5BcyQ.jpeg)
 
 New reception center for irregular migrants in Tovarnik\. Photo: Croatian Ministry of Interior
 ### Several groups of smugglers and irregular migrants caught on Croatian\-Slovenian border
@@ -95,7 +95,7 @@ Two people from Serbia and Kosovo, one of them charged for facilitating illegal 
 Slovenian authorities have announced they will reinforce the wire fence along the border with Croatia, following the reported increase of irregular refugee arrivals\. According to unnamed government official cited in local newspapers, several smuggling attempts and irregular border crossings have been detected recently\. Some of the refugees who were caught were pushed back to Croatia, while others have asked for asylum in Slovenia\.
 
 
-![Humanitarian collapse on Croatian\-Slovenian border last October\. Photo: Tinka Kalajdzic of AYS](assets/e1a0f6f049ed/1*QwYOj50GKIAZoWVFrGMxeg.jpeg)
+![Humanitarian collapse on Croatian\-Slovenian border last October\. Photo: Tinka Kalajdzic of AYS](../assets/e1a0f6f049ed/1*QwYOj50GKIAZoWVFrGMxeg.jpeg)
 
 Humanitarian collapse on Croatian\-Slovenian border last October\. Photo: Tinka Kalajdzic of AYS
 ### Slovenian reception centres on standby in preparation for possible further increase of arrivals
@@ -109,7 +109,7 @@ In an attempt to sensibilise locals about the needs and struggles of the refugee
 ### Situation in Paris declining: food, blankets and sleeping bags urgently needed for the newcomers
 
 
-![More newcomers are forced to sleep in the streets of Paris\. Photo: Christine Dolan](assets/e1a0f6f049ed/1*oluA8vD15oN42saOuXnvng.jpeg)
+![More newcomers are forced to sleep in the streets of Paris\. Photo: Christine Dolan](../assets/e1a0f6f049ed/1*oluA8vD15oN42saOuXnvng.jpeg)
 
 More newcomers are forced to sleep in the streets of Paris\. Photo: Christine Dolan
 

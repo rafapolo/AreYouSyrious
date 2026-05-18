@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 29/1/22: Court case reveals how tourist boats were turned into “floating prisons”…
+title: "AYS News Digest 29/1/22: Court case reveals how tourist boats were turned into “floating prisons”…"
 author: Are You Syrious?
 date: 2022-01-29T15:11:19.367+0000
 last_modified_at: 2022-01-29T18:42:49.970+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,libya,malta,refugees,europe]
 description: Libyan “female migrant center” a “media stunt”/ Polish border wall to cut through protected forest/ Greek locals challenge prison camps…
 image:
-  path: assets/31da275ab953/1*B6n7ZDKgM2d5nHUgpyy9uA.jpeg
+  path: ../assets/31da275ab953/1*B6n7ZDKgM2d5nHUgpyy9uA.jpeg
 ---
 
 ### **AYS News Digest 29/1/22: Court case reveals how tourist boats were turned into “floating prisons” in the pandemic**
 #### Libyan “female migrant center” a “media stunt”/ Polish border wall to cut through protected forest/ Greek locals challenge prison camps narrative/ / Alleged “smugglers” sentenced in Spain / “Smoking Guns” report / Updates on SAR missions
 
 
-![An Italian quarantine ship, in September 2020\. Credits: Chris Grodotzki, Sea\-Watch](assets/31da275ab953/1*B6n7ZDKgM2d5nHUgpyy9uA.jpeg)
+![An Italian quarantine ship, in September 2020\. Credits: Chris Grodotzki, Sea\-Watch](../assets/31da275ab953/1*B6n7ZDKgM2d5nHUgpyy9uA.jpeg)
 
 An Italian quarantine ship, in September 2020\. Credits: Chris Grodotzki, Sea\-Watch
 #### FEATURE

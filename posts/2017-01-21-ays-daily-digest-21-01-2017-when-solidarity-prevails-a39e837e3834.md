@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 21/01/2017: When solidarity prevails
+title: "AYS DAILY DIGEST 21/01/2017: When solidarity prevails"
 author: Are You Syrious?
 date: 2017-01-21T23:01:52.922+0000
 last_modified_at: 2017-01-22T19:03:53.742+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,pamperaki,solidarity,baobab]
 description: The most important lesson for Negia Milian, learned after years of volunteering, is that we, ordinary people, have the power to change the…
 image:
-  path: assets/a39e837e3834/1*IrHZ9FNxdJ2j4MDYGTzpvg.jpeg
+  path: ../assets/a39e837e3834/1*IrHZ9FNxdJ2j4MDYGTzpvg.jpeg
 ---
 
 ### AYS DAILY DIGEST 21/01/2017: When solidarity prevails
@@ -15,7 +15,7 @@ image:
 _The most important lesson for Negia Milian, learned after years of volunteering, is that we, ordinary people, have the power to change the world // Out of crisis a new movement is being born // A group of volunteers from Spain are helping Afghan refugees in Belgrade to stay warm // In Italy, a humanitarian corridor for refugees from Eritrea, South Sudan and Somalia soon to be open // People are coming back to Calais_
 
 
-![Photo from the march in Athes\. AYS\.](assets/a39e837e3834/1*IrHZ9FNxdJ2j4MDYGTzpvg.jpeg)
+![Photo from the march in Athes\. AYS\.](../assets/a39e837e3834/1*IrHZ9FNxdJ2j4MDYGTzpvg.jpeg)
 
 Photo from the march in Athes\. AYS\.
 ### Feature
@@ -24,7 +24,7 @@ Photo from the march in Athes\. AYS\.
 Everybody who volunteered in Athens knows about Pamperaki warehouse in Piraeus Port and two ladies — Negia Milian and Katerina Rouniou — who are running it\. From this warehouse, all the squats in Athens — 10 at the moment with about 2000 people — as well as different community centers, private accommodations and other places where refugees are living, are supplied\. But also many Greeks who are in need\.
 
 
-![Donations are coming from all the the world and stored and later distributed \. Negia Milian and the team of volunteers run the place trying to help to as many people as it is possible\.](assets/a39e837e3834/1*m_IEHHaYYGTF1Yuo0bAiYg.jpeg)
+![Donations are coming from all the the world and stored and later distributed \. Negia Milian and the team of volunteers run the place trying to help to as many people as it is possible\.](../assets/a39e837e3834/1*m_IEHHaYYGTF1Yuo0bAiYg.jpeg)
 
 Donations are coming from all the the world and stored and later distributed \. Negia Milian and the team of volunteers run the place trying to help to as many people as it is possible\.
 
@@ -33,7 +33,7 @@ This enormous place is in the same building where the basketball stadium was dur
 Negia has been in the Port every day since September 2015, when refugees started coming in big numbers to Greece\. And she is still there, determined to stay as long as there is a need for help\.
 
 
-![Photo by AYS\.](assets/a39e837e3834/1*Y653RzODFXx1cZPNNf9xLA.jpeg)
+![Photo by AYS\.](../assets/a39e837e3834/1*Y653RzODFXx1cZPNNf9xLA.jpeg)
 
 Photo by AYS\.
 
@@ -42,7 +42,7 @@ She is an immigrant herself who came from Cuba 30 years ago after marrying her G
 As the donations were coming to Greece, the need for storage was enormous\. _“At the beginning, it was just people coming and bringing stuff,”_ she recalls those days\. _“At the beginning of December we got containers from Holland and asked for more space inside the stadium\. Soon, two containers from Are You Syrious? arrived, right before Christmas\. At the same time, more people were arriving in Greece and soon, we were getting help from everywhere\. But the borders closed and suddenly people were not just passing through the Port but many lived here and needed help, like they need it until today\.”_
 
 
-![Photo AYS\.](assets/a39e837e3834/1*ThBt2MUG8LE2JsRsXtji3Q.jpeg)
+![Photo AYS\.](../assets/a39e837e3834/1*ThBt2MUG8LE2JsRsXtji3Q.jpeg)
 
 Photo AYS\.
 
@@ -55,7 +55,7 @@ Looking back on almost two years of volunteering in the Port, Negia sees some ch
 _“I feel that a lot of the major organizations have not really sat down to see what they can do or how they can even coordinate their efforts\. People will always want to give something, to contribute, but you cannot base help only on that\. If you do that, you are not really addressing the problem\.”_
 
 
-![Negia’s day in Pamperatki starts around 10 and soon it gets very busy leaving no time to rest for any of the volunteers\.](assets/a39e837e3834/1*M8iL2p6ZepDVY850kFlYpA.jpeg)
+![Negia’s day in Pamperatki starts around 10 and soon it gets very busy leaving no time to rest for any of the volunteers\.](../assets/a39e837e3834/1*M8iL2p6ZepDVY850kFlYpA.jpeg)
 
 Negia’s day in Pamperatki starts around 10 and soon it gets very busy leaving no time to rest for any of the volunteers\.
 
@@ -69,11 +69,11 @@ Today, 47 people were registered as new arrivals in Greece\.
 In Athens, big groups of people marched through the city protesting against racism, xenophobia, and closed borders\. They ended their march in front of the US Embassy where they joined the Women’s March\. Together, people from Greece, refugees and many volunteers, called again for borders to be opened\.
 
 
-![](assets/a39e837e3834/1*DWk3BsgS9797kugpIYs_IQ.jpeg)
+![](../assets/a39e837e3834/1*DWk3BsgS9797kugpIYs_IQ.jpeg)
 
 
 
-![Photo AYS\.](assets/a39e837e3834/1*D2cr1EUgPTN-XdX8qOqOUg.jpeg)
+![Photo AYS\.](../assets/a39e837e3834/1*D2cr1EUgPTN-XdX8qOqOUg.jpeg)
 
 Photo AYS\.
 ### Serbia
@@ -81,19 +81,19 @@ Photo AYS\.
 As in Greece, in Serbia people come to help other people when the government remains cruel and ignorant and incapable of acting\. Spanish volunteers from the group [Holes in the Borders](https://www.facebook.com/RefugiadosenAtenas/) have been in Belgrade for several days and today they finished their big project that will help people who are living in the warehouse in Belgrade to stay warmer\.
 
 
-![](assets/a39e837e3834/1*elMppLTD0-nSAod-pfe6AQ.jpeg)
+![](../assets/a39e837e3834/1*elMppLTD0-nSAod-pfe6AQ.jpeg)
 
 
 
-![](assets/a39e837e3834/1*ur8qaC3rZoxF6SWirpnnbQ.jpeg)
+![](../assets/a39e837e3834/1*ur8qaC3rZoxF6SWirpnnbQ.jpeg)
 
 
 
-![](assets/a39e837e3834/1*9SPJJgSJ8vroJcbPk9GucA.jpeg)
+![](../assets/a39e837e3834/1*9SPJJgSJ8vroJcbPk9GucA.jpeg)
 
 
 
-![Photo by Holes in the Borders\.](assets/a39e837e3834/1*EaB_n1z_C0I8oFuOd2wP0w.jpeg)
+![Photo by Holes in the Borders\.](../assets/a39e837e3834/1*EaB_n1z_C0I8oFuOd2wP0w.jpeg)
 
 Photo by Holes in the Borders\.
 
@@ -118,11 +118,11 @@ This is the first death of refugees on the motorway since the dismantling of the
 In the meantime, volunteers are reporting that people have started coming back to Calais\.
 
 
-![](assets/a39e837e3834/1*CDHm_w1Bql0SycAOhisvag.jpeg)
+![](../assets/a39e837e3834/1*CDHm_w1Bql0SycAOhisvag.jpeg)
 
 
 
-![Photo by Rachel Mantell\.](assets/a39e837e3834/1*-d6W5jADvm1AQHKRGfnDnQ.jpeg)
+![Photo by Rachel Mantell\.](../assets/a39e837e3834/1*-d6W5jADvm1AQHKRGfnDnQ.jpeg)
 
 Photo by Rachel Mantell\.
 

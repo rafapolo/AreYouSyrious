@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 2/12/19: Left-to-Die Trial: a reminder that many are left to die tonight, too
+title: "AYS Daily Digest 2/12/19: Left-to-Die Trial: a reminder that many are left to die tonight, too"
 author: Are You Syrious?
 date: 2019-12-03T12:45:01.778+0000
 last_modified_at: 2019-12-03T19:18:26.444+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,human-rights,borders,migration]
 description: Despair at the borders of the European Union grows — thousands freezing across fields and streets / Commissioner for Human Rights visits…
 image:
-  path: assets/1ac48e89cce2/1*RxP7b14-MKQN4uT0CXeB7A.jpeg
+  path: ../assets/1ac48e89cce2/1*RxP7b14-MKQN4uT0CXeB7A.jpeg
 ---
 
 ### AYS Daily Digest 2/12/19: Left\-to\-Die Trial: a reminder that many are left to die tonight, too
 #### Despair at the borders of the European Union grows — thousands freezing across fields and streets / Commissioner for Human Rights visits Vučjak and IOM run camps in BiH / Beatings in Vial, electric fence to be placed along Evros / Documented brutality at the French\-Italian border / & more news
 
 
-![Tuzla, Bosnia and Herzegovina — December 2, 2019 \(Photo: Senad Pirić\)](assets/1ac48e89cce2/1*RxP7b14-MKQN4uT0CXeB7A.jpeg)
+![Tuzla, Bosnia and Herzegovina — December 2, 2019 \(Photo: Senad Pirić\)](../assets/1ac48e89cce2/1*RxP7b14-MKQN4uT0CXeB7A.jpeg)
 
 Tuzla, Bosnia and Herzegovina — December 2, 2019 \(Photo: Senad Pirić\)
 #### FEATURED
@@ -156,31 +156,31 @@ An ongoing disaster of growing proportions is unraveling in Europe, at the doors
 In Tuzla, with the arrival of snow, the local citizens volunteering since the first days when people on the move started passing through their town are now receiving people in their homes, bringing blankets, warm clothes and tents to those still outside in the cold during the entire night, only to find the people and everything they had provided completely wet in the morning\. There were more than 150 people outside around the bus and train stations spending the night sleeping rough in temperatures far below zero\. There is absolutely no adequate way of protecting the people from the wind, rain and snow\.
 
 
-![](assets/1ac48e89cce2/1*Z7LKdDenrsg88gB7YL3o5Q.jpeg)
+![](../assets/1ac48e89cce2/1*Z7LKdDenrsg88gB7YL3o5Q.jpeg)
 
 
 People are understandably very frustrated, disappointed and worried\. Many are also ill and all are very sleep deprived\. In these conditions, it is beyond unacceptable and impossible to expect anything from these people, as they are literally fighting to stay alive\. 
 There is still no concrete answer or action of help from the authorities and the city officials\. Due to the lack of political will to overcome the general dispersion of responsibility, it is very likely more and more people will become ill, the emergency unit will be overwhelmed with work, as will the local hospital\.
 
 
-![](assets/1ac48e89cce2/1*RQw9b5-KT50vSwgMKhRw3g.jpeg)
+![](../assets/1ac48e89cce2/1*RQw9b5-KT50vSwgMKhRw3g.jpeg)
 
 
 On the morning of this publication, Tuesday 02\.11\.19, the Red cross distributed breakfast at 9:00 a\.m\., while at noon small organisations distribute lunch, and at 4:15 p\.m\. local volunteers and Merhamet kitchen prepare and distribute dinner\. None of this is right\. 
 Furthermore, it evident that the lack of no strong international pressure on the Bosnia and Herzegonvina government, allows them to continue to stand idley by\.
 
 
-![](assets/1ac48e89cce2/1*j8kLhN13hOBccO7DTA-Aeg.jpeg)
+![](../assets/1ac48e89cce2/1*j8kLhN13hOBccO7DTA-Aeg.jpeg)
 
 
 In the meantime, people who are on the verge of exhaustion and freezing each night await for the authorities to act, or for a more serious episode to begin start unraveling… it’s only when lives are lost that any action is taken, only then the funds begin to find their way to helping the people\. Action is required right now\.
 
 
-![](assets/1ac48e89cce2/1*s8rPvIZ_G2HS_zairIFDLA.jpeg)
+![](../assets/1ac48e89cce2/1*s8rPvIZ_G2HS_zairIFDLA.jpeg)
 
 
 
-![Photos: Tuzla volunteers](assets/1ac48e89cce2/1*hpPkVtwXKZR7-kEYNjvrTw.jpeg)
+![Photos: Tuzla volunteers](../assets/1ac48e89cce2/1*hpPkVtwXKZR7-kEYNjvrTw.jpeg)
 
 Photos: Tuzla volunteers
 

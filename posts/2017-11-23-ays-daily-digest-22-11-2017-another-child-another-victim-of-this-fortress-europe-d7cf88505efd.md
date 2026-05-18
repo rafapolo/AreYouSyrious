@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 22/11/2017: Another child, another victim of this Fortress Europe
+title: "AYS DAILY DIGEST 22/11/2017: Another child, another victim of this Fortress Europe"
 author: Are You Syrious?
 date: 2017-11-23T01:26:13.850+0000
 last_modified_at: 2017-11-23T05:43:15.432+0000
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,fortress-europe,protest,donations,solidarity]
 description: A 6 year old girl is the latest victim of this closed border policy / Clashes between refugees and far right activists in Lesvos / 20…
 image:
-  path: assets/d7cf88505efd/1*zkn1XIxLxaIR82fkLsQfxw.jpeg
+  path: ../assets/d7cf88505efd/1*zkn1XIxLxaIR82fkLsQfxw.jpeg
 ---
 
 ### AYS DAILY DIGEST 22/11/2017: Another child, another victim of this Fortress Europe
 #### A 6 year old girl is the latest victim of this closed border policy / Clashes between refugees and far right activists in Lesvos / 20 organisations are sending Tsipras an Open Letter to demand the transfer of refugees from the islands / Video series to inform migrants on various rumours / Twitter campaign needed to raise awareness on conditions in Lavrio / Rumours on the closure of the Galleria Bombi in Gorizia / France urged UN Security Council to meet and discuss the slave trade in Libya / Donations needed in Paris / Hundreds of people rescued in the Mediterranean / More news from Croatia, Slovenia, Italy, Spain\. \.
 
 
-![Credit: MSF Sea](assets/d7cf88505efd/1*zkn1XIxLxaIR82fkLsQfxw.jpeg)
+![Credit: MSF Sea](../assets/d7cf88505efd/1*zkn1XIxLxaIR82fkLsQfxw.jpeg)
 
 Credit: MSF Sea
 
@@ -47,7 +47,7 @@ _Lesvos_
 **Arrivals**
 
 
-![Credit: Erik Gerhardsson](assets/d7cf88505efd/1*jOkwIh2KpdkllOQ9gH9j1A.jpeg)
+![Credit: Erik Gerhardsson](../assets/d7cf88505efd/1*jOkwIh2KpdkllOQ9gH9j1A.jpeg)
 
 Credit: Erik Gerhardsson
 

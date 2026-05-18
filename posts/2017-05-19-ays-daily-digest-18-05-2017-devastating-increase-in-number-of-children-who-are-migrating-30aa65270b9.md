@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 18/05/2017: Devastating increase in number of children who are migrating
+title: "AYS Daily Digest 18/05/2017: Devastating increase in number of children who are migrating"
 author: Are You Syrious?
 date: 2017-05-19T00:33:11.617+0100
 last_modified_at: 2017-05-19T00:34:37.728+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,adasevci,refugees-in-serbia,unicef,elliniko-camp]
 description: 140 people saved on rubber boat in the Mediterranean / Update on returns from Greece to Turkey / Eliniko to be emptied and residents moved…
 image:
-  path: assets/30aa65270b9/1*HL715i21ZRkK5ED6dyqDtg.jpeg
+  path: ../assets/30aa65270b9/1*HL715i21ZRkK5ED6dyqDtg.jpeg
 ---
 
 ### AYS Daily Digest 18/05/2017: Devastating increase in number of children who are migrating
@@ -15,7 +15,7 @@ image:
 _140 people saved on rubber boat in the Mediterranean / Update on returns from Greece to Turkey / Eliniko to be emptied and residents moved to remote camp / Unofficial camp in Dunkirk evicted / Women’s empowerment project in Italy needs funding / Adasevic camp in Serbia is a nightmare / And more news…_
 
 
-![Photo by ProActiva Open Arms](assets/30aa65270b9/1*HL715i21ZRkK5ED6dyqDtg.jpeg)
+![Photo by ProActiva Open Arms](../assets/30aa65270b9/1*HL715i21ZRkK5ED6dyqDtg.jpeg)
 
 Photo by ProActiva Open Arms
 
@@ -109,7 +109,7 @@ Senegal 1
 For more details, [see here](https://docs.google.com/spreadsheets/d/1xWVKJMQ3z90m8CsZMNFC7TAyjRgA3puRHFbwZ8YIjUk/edit#gid=733488171) \.
 
 
-![](assets/30aa65270b9/1*KHGRzASZhVu0066pm-Zz2g.jpeg)
+![](../assets/30aa65270b9/1*KHGRzASZhVu0066pm-Zz2g.jpeg)
 
 
 **Update from Eliniko camp**
@@ -119,11 +119,11 @@ On their FB page, the [Refugee Info Bus](https://www.facebook.com/RefugeeInfoBus
 “Eliniko is a limbo,” Refugee Info Bus writes in their update\. A limbo built up in an old airport, hockey\- and football stadium\. People are just waiting\. Since it is mainly Afghan families here, they are even more stuck than other nationalities, since the European Union don’t seem to think that Afghanistan is that bad of a home country\.
 
 
-![](assets/30aa65270b9/1*BoCUPfh-vqouYN24G3xnuw.jpeg)
+![](../assets/30aa65270b9/1*BoCUPfh-vqouYN24G3xnuw.jpeg)
 
 
 
-![Photo by Refugee Info Bus](assets/30aa65270b9/1*edJpoJBXbyOHLdWNA0WF0g.jpeg)
+![Photo by Refugee Info Bus](../assets/30aa65270b9/1*edJpoJBXbyOHLdWNA0WF0g.jpeg)
 
 Photo by Refugee Info Bus
 
@@ -186,7 +186,7 @@ If your baby was born in Greece but the father is in another country, he has to 
 A micro farming project to empower women previously stuck in trafficing is running at [Donne Di Benin City, Sicily\. The project also includes catering and it is organic](https://mydonate.bt.com/events/donnedibenincity) \. The first harvest have kept them busy and it is soon time for their first big music and food event\. The aim is to help the women to run their own business and the funding is used to get them up and running\.
 
 
-![Photo by Donne Di Benin City](assets/30aa65270b9/1*a-JIybrEEuQ0SjcraMvrQQ.jpeg)
+![Photo by Donne Di Benin City](../assets/30aa65270b9/1*a-JIybrEEuQ0SjcraMvrQQ.jpeg)
 
 Photo by Donne Di Benin City
 
@@ -200,15 +200,15 @@ Most of the people here are living in big tents, and only a part of them in the 
 In the tents entire families are crowded together and are sleeping on camp cot that are so close to each other that there in some cases there is not even smallest space between them\. The only separation are ugly grey blankets\. The camp is full of rats and the food is scarce and monotone\. There are the same not over\-exciting dishes served almost every day\. People aren’t allowed to bring food into the camp, and as if that wasn’t enough measures of control towards the residents the staff at least once every week do raids in the camp where they throw away all the food they find\. To get some privacy and to get out of the camp for a while people are going out to the nearby forest\. People also cook in the forest, but people from Komesarijat come and throw away their food\.
 
 
-![](assets/30aa65270b9/1*fzQQQzvWQV16fLeLuUNc1w.jpeg)
+![](../assets/30aa65270b9/1*fzQQQzvWQV16fLeLuUNc1w.jpeg)
 
 
 
-![](assets/30aa65270b9/1*gkgBm_aPk_DS_2ypn23JKg.jpeg)
+![](../assets/30aa65270b9/1*gkgBm_aPk_DS_2ypn23JKg.jpeg)
 
 
 
-![Adasevci camp\. Photo AYS\.](assets/30aa65270b9/1*Do6k4FuxBR6PZwl0J2RYbQ.jpeg)
+![Adasevci camp\. Photo AYS\.](../assets/30aa65270b9/1*Do6k4FuxBR6PZwl0J2RYbQ.jpeg)
 
 Adasevci camp\. Photo AYS\.
 
@@ -234,7 +234,7 @@ The informal camp Grande Synthe in Dunkirk is emptied\. On the evening of May 18
 The police that was closing down the camp confiscated peoples belongings, such as sleeping bags, tents, tarps and other things\.
 
 
-![Photo by Help Refugees](assets/30aa65270b9/1*fdhG04BCeZ0sSEvw0L6XgQ.png)
+![Photo by Help Refugees](../assets/30aa65270b9/1*fdhG04BCeZ0sSEvw0L6XgQ.png)
 
 Photo by Help Refugees
 

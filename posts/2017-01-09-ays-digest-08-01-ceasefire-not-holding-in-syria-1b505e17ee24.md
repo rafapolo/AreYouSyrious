@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,greece,serbia,germany]
 description: Calls for help as refugees keep freezing in Greece/ Donations needed in Serbia/ 801 refugees sent to Turkey / 900 human traffickers…
 image:
-  path: assets/1b505e17ee24/1*KKDOY6lqTbvNTlb54rVUSQ.jpeg
+  path: ../assets/1b505e17ee24/1*KKDOY6lqTbvNTlb54rVUSQ.jpeg
 ---
 
 ### AYS DIGEST 08/01 — Ceasefire not holding in Syria
 #### Calls for help as refugees keep freezing in Greece/ Donations needed in Serbia/ 801 refugees sent to Turkey / 900 human traffickers detained in Germany last year/ Police deliberately threaten refugees lives
 
 
-![Photo by Gabriel Tizon/ [**Art Against**](https://www.facebook.com/artagainstproject/)](assets/1b505e17ee24/1*KKDOY6lqTbvNTlb54rVUSQ.jpeg)
+![Photo by Gabriel Tizon/ [**Art Against**](https://www.facebook.com/artagainstproject/)](../assets/1b505e17ee24/1*KKDOY6lqTbvNTlb54rVUSQ.jpeg)
 
 Photo by Gabriel Tizon/ [**Art Against**](https://www.facebook.com/artagainstproject/)
 ### Syria
@@ -42,22 +42,22 @@ United Nation’s refugee agency \(UNHCR\) urged authorities to speed up the rel
 
 
 
-![Photo by [**MSF Sea**](https://twitter.com/MSF_Sea)](assets/1b505e17ee24/1*hRV8hMnwZ9TNGepOczhiow.jpeg)
+![Photo by [**MSF Sea**](https://twitter.com/MSF_Sea)](../assets/1b505e17ee24/1*hRV8hMnwZ9TNGepOczhiow.jpeg)
 
 Photo by [**MSF Sea**](https://twitter.com/MSF_Sea)
 
 
-![Photo by Gabriel Tizon/ [**Art Against**](https://www.facebook.com/artagainstproject/)](assets/1b505e17ee24/1*LxeHnmadO6fcffQU4PTKzw.jpeg)
+![Photo by Gabriel Tizon/ [**Art Against**](https://www.facebook.com/artagainstproject/)](../assets/1b505e17ee24/1*LxeHnmadO6fcffQU4PTKzw.jpeg)
 
 Photo by Gabriel Tizon/ [**Art Against**](https://www.facebook.com/artagainstproject/)
 
 
-![Photo by Gabriel Tizon/ [**Art Against**](https://www.facebook.com/artagainstproject/)](assets/1b505e17ee24/1*7B6MA_TNKdQ9ya-pEbHcTw.jpeg)
+![Photo by Gabriel Tizon/ [**Art Against**](https://www.facebook.com/artagainstproject/)](../assets/1b505e17ee24/1*7B6MA_TNKdQ9ya-pEbHcTw.jpeg)
 
 Photo by Gabriel Tizon/ [**Art Against**](https://www.facebook.com/artagainstproject/)
 
 
-![Photo by Gabriel Tizon/ [**Art Against**](https://www.facebook.com/artagainstproject/)](assets/1b505e17ee24/1*5QdrwOGCI05icDat4LGmag.jpeg)
+![Photo by Gabriel Tizon/ [**Art Against**](https://www.facebook.com/artagainstproject/)](../assets/1b505e17ee24/1*5QdrwOGCI05icDat4LGmag.jpeg)
 
 Photo by Gabriel Tizon/ [**Art Against**](https://www.facebook.com/artagainstproject/)
 
@@ -86,7 +86,7 @@ From the capital there’s also requests for volunteers\. [METAdrasi](https://ww
 Arabic, Farsi/Dari, Sorani Kurdish, Kurmanji Kurdish, Urdu/Punjabi, Pashto, Georgian, Mandarin Chinese, Somali, Sinhala, Berber, Bengali, Lingala, Swahili, Tamil, Hindi, Tigrinya, Albanian\.
 
 
-![](assets/1b505e17ee24/1*lVApMy3cnVMWdEtSD93TKg.jpeg)
+![](../assets/1b505e17ee24/1*lVApMy3cnVMWdEtSD93TKg.jpeg)
 
 
 [Athens Volunteers Information and Co\-ordination Group](https://www.facebook.com/groups/AthensVolunteersInformation/permalink/1008950035903960/) has published a series of useful orientations to be used in possible situations involving refugees healthcare:
@@ -151,12 +151,12 @@ European officials deported 801 people to Turkey in 2016, and over half of the d
 Refugees continue to endure very hard conditions in Belgrade\. Near the bus station \(Afghans park\) on Saturday at 8 am, the temperature was \-17\. Refugees suffer cold, hunger, alienation and an unknown fate\.
 
 
-![Photo by Esam M Esam](assets/1b505e17ee24/1*KhQuti7W58oWwg0aEeZi4g.jpeg)
+![Photo by Esam M Esam](../assets/1b505e17ee24/1*KhQuti7W58oWwg0aEeZi4g.jpeg)
 
 Photo by Esam M Esam
 
 
-![Photo by Esam M Esam](assets/1b505e17ee24/1*YygNVJUhdRwvATk66FlBsA.jpeg)
+![Photo by Esam M Esam](../assets/1b505e17ee24/1*YygNVJUhdRwvATk66FlBsA.jpeg)
 
 Photo by Esam M Esam
 
@@ -209,7 +209,7 @@ Also [Refugee Aid Miksalište](https://www.facebook.com/RefugeeAidMiksaliste/) t
 At Como 58 refugees are sleeping rough, 2 of them are minors\.
 
 
-![Photo by [**Como senza frontiere**](https://www.facebook.com/comosenzafrontiere/)](assets/1b505e17ee24/1*w3N2ZdqacxgPxFWPr9Ya9Q.png)
+![Photo by [**Como senza frontiere**](https://www.facebook.com/comosenzafrontiere/)](../assets/1b505e17ee24/1*w3N2ZdqacxgPxFWPr9Ya9Q.png)
 
 Photo by [**Como senza frontiere**](https://www.facebook.com/comosenzafrontiere/)
 ### Germany

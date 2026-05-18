@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 28/10/22: People handcuffed and injured in Lesvos
+title: "AYS News Digest 28/10/22: People handcuffed and injured in Lesvos"
 author: Are You Syrious?
 date: 2022-10-29T14:57:38.909+0100
 last_modified_at: 2022-10-29T14:57:38.909+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: []
 description: Msf team found abused people on the Greek island of Lesvos//Lebanon started new “voluntary return” program to Syria//The Italian government…
 image:
-  path: assets/53016c7274af/1*CDZYi471ZaYiIwDKSy7yYw.jpeg
+  path: ../assets/53016c7274af/1*CDZYi471ZaYiIwDKSy7yYw.jpeg
 ---
 
 ### AYS News Digest 28/10/22: People handcuffed and injured in Lesvos
@@ -15,7 +15,7 @@ image:
 Msf team found abused people on the Greek island of Lesvos//Lebanon started new “voluntary return” program to Syria//The Italian government to the test after new arrivals// Rescues at Mediterranean and Agean sea// Czech Republic extended the deadline for extraordinary controls along Slovakia border// Eviction in Paris// Manston reception centre in UK crowded and in poor condition// and much more
 
 
-![Asylum seekers handcuffed in Lesbos\. Credit: [MSF](https://www.msf.org/people-found-handcuffed-and-injured-aegean-island-lesvos-greece?fbclid=IwAR0bfLmfdHcD_5BWUu6cwtHnpPT4Cp-Q3IHQi6L04lcf7wUEvZvlFh5ztmM)](assets/53016c7274af/1*CDZYi471ZaYiIwDKSy7yYw.jpeg)
+![Asylum seekers handcuffed in Lesbos\. Credit: [MSF](https://www.msf.org/people-found-handcuffed-and-injured-aegean-island-lesvos-greece?fbclid=IwAR0bfLmfdHcD_5BWUu6cwtHnpPT4Cp-Q3IHQi6L04lcf7wUEvZvlFh5ztmM)](../assets/53016c7274af/1*CDZYi471ZaYiIwDKSy7yYw.jpeg)
 
 Asylum seekers handcuffed in Lesbos\. Credit: [MSF](https://www.msf.org/people-found-handcuffed-and-injured-aegean-island-lesvos-greece?fbclid=IwAR0bfLmfdHcD_5BWUu6cwtHnpPT4Cp-Q3IHQi6L04lcf7wUEvZvlFh5ztmM)
 #### FEATURE
@@ -76,7 +76,7 @@ Read here more:
 ### Lebanon starts a ‘voluntary return’ programme for refugees in Syria, with NGOs concerned about human rights
 
 
-![Refugees camp in Lebanon\. Credit: [Famagusta Gazette](http://famagusta-gazette.com/2022/10/27/500000-syrian-refugees-register-for-their-voluntary-return-home-from-lebanon/?fbclid=IwAR1GlqAKX9ZCcj9UwRO2BwUplEbcx_HE86KjKOaYHXahOQhzm4kqk2fVCvU)](assets/53016c7274af/1*nXmH7Qwbt5Xo6aSun1rXMA.jpeg)
+![Refugees camp in Lebanon\. Credit: [Famagusta Gazette](http://famagusta-gazette.com/2022/10/27/500000-syrian-refugees-register-for-their-voluntary-return-home-from-lebanon/?fbclid=IwAR1GlqAKX9ZCcj9UwRO2BwUplEbcx_HE86KjKOaYHXahOQhzm4kqk2fVCvU)](../assets/53016c7274af/1*nXmH7Qwbt5Xo6aSun1rXMA.jpeg)
 
 Refugees camp in Lebanon\. Credit: [Famagusta Gazette](http://famagusta-gazette.com/2022/10/27/500000-syrian-refugees-register-for-their-voluntary-return-home-from-lebanon/?fbclid=IwAR1GlqAKX9ZCcj9UwRO2BwUplEbcx_HE86KjKOaYHXahOQhzm4kqk2fVCvU)
 
@@ -101,7 +101,7 @@ People on the move attempting the sea crossing from Turkey are on the rise, as a
 ### MSF Sea rescued many people in distress over the past days
 
 
-![People in distress in Mediterranean Sea\. Credit: [MSF Sea](https://twitter.com/MSF_Sea/status/1585703948719165465?fbclid=IwAR0v3ENzDurKqwmlSw2Bj3ixyQpfPKU1E9MSnl2cuNOAhvFtnppQk094lU0)](assets/53016c7274af/1*KuhqjyMax0PhX9AyAwsbWw.jpeg)
+![People in distress in Mediterranean Sea\. Credit: [MSF Sea](https://twitter.com/MSF_Sea/status/1585703948719165465?fbclid=IwAR0v3ENzDurKqwmlSw2Bj3ixyQpfPKU1E9MSnl2cuNOAhvFtnppQk094lU0)](../assets/53016c7274af/1*KuhqjyMax0PhX9AyAwsbWw.jpeg)
 
 People in distress in Mediterranean Sea\. Credit: [MSF Sea](https://twitter.com/MSF_Sea/status/1585703948719165465?fbclid=IwAR0v3ENzDurKqwmlSw2Bj3ixyQpfPKU1E9MSnl2cuNOAhvFtnppQk094lU0)
 
@@ -276,7 +276,7 @@ Meanwhile 37 Syrian refugees arrived in Rome with the humanitarian corridors
 ### Violent eviction in Paris
 
 
-![People sleeping in the street after being evicted\. Credit: [Utopia 56](https://twitter.com/Utopia_56/status/1585743050608766978?fbclid=IwAR3qrN-IHcAfOW3ClOJ0O_E8ri-Aiuf3fqaL9xZWsBO-Jrjsrziy9Ze2V84)](assets/53016c7274af/1*m4zyTXxPJKgnH0d-AnkA5w.jpeg)
+![People sleeping in the street after being evicted\. Credit: [Utopia 56](https://twitter.com/Utopia_56/status/1585743050608766978?fbclid=IwAR3qrN-IHcAfOW3ClOJ0O_E8ri-Aiuf3fqaL9xZWsBO-Jrjsrziy9Ze2V84)](../assets/53016c7274af/1*m4zyTXxPJKgnH0d-AnkA5w.jpeg)
 
 People sleeping in the street after being evicted\. Credit: [Utopia 56](https://twitter.com/Utopia_56/status/1585743050608766978?fbclid=IwAR3qrN-IHcAfOW3ClOJ0O_E8ri-Aiuf3fqaL9xZWsBO-Jrjsrziy9Ze2V84)
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 30/03/17: Young Syrian attempts suicide in a Chios camp
+title: "AYS Daily Digest 30/03/17: Young Syrian attempts suicide in a Chios camp"
 author: Are You Syrious?
 date: 2017-03-30T21:28:40.724+0100
 last_modified_at: 2017-04-03T09:29:02.360+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,syrian-refugees,european-union,asylum-seekers]
 description: More than 5 million Syrians have now fled their country / 29 year old set on fire in Vial camp in Chios / Volunteers with…
 image:
-  path: assets/547648862932/1*i-HJ9nPQi8YC_9OmI28EHw.jpeg
+  path: ../assets/547648862932/1*i-HJ9nPQi8YC_9OmI28EHw.jpeg
 ---
 
 ### AYS Daily Digest 30/03/17: Young Syrian attempts suicide in a Chios camp
@@ -15,7 +15,7 @@ image:
 _More than 5 million Syrians have now fled their country /_ _29 year old set on fire in Vial camp in Chios / Volunteers with medical/logistical/technical skills needed for an Iraq mission/ Update on Hungarian border detention camp / 23 migrants held captive by smugglers freed by Greek police / Arabic speaking translators needed in Greece / Mass deportation rescheduled for tonight in UK_
 
 
-![Vial camp inChios ; Photo by Alkis Konstantinidis/Reuters](assets/547648862932/1*i-HJ9nPQi8YC_9OmI28EHw.jpeg)
+![Vial camp inChios ; Photo by Alkis Konstantinidis/Reuters](../assets/547648862932/1*i-HJ9nPQi8YC_9OmI28EHw.jpeg)
 
 Vial camp inChios ; Photo by Alkis Konstantinidis/Reuters
 #### Another attempted suicide at Vial camp in Chios today
@@ -39,11 +39,11 @@ Volunteers with medical/logistical/technical skills needed for a new mission in 
 
 
 
-![](assets/547648862932/1*g7K-l0E25mNKuIS75FSgiA.jpeg)
+![](../assets/547648862932/1*g7K-l0E25mNKuIS75FSgiA.jpeg)
 
 
 
-![[Calais Action](https://www.facebook.com/calaisaction/posts/1471752446210589)](assets/547648862932/1*4u-SMTcMhJ1FBCwX65vhOw.jpeg)
+![[Calais Action](https://www.facebook.com/calaisaction/posts/1471752446210589)](../assets/547648862932/1*4u-SMTcMhJ1FBCwX65vhOw.jpeg)
 
 [Calais Action](https://www.facebook.com/calaisaction/posts/1471752446210589)
 #### HUNGARY
@@ -54,22 +54,22 @@ Tuesday was the first day when those asylum seeking families who had been let in
 Refugees waiting on the Serbian side have mixed feelings about their near future\. Some are afraid of the new law and what awaits them\. Others are jokingly telling that they will start to learn Hungarian, since they will have to spend months in Hungarian the transit\.
 
 
-![](assets/547648862932/1*dMi_zPIBOBCFkkb0Ixq_rg.jpeg)
+![](../assets/547648862932/1*dMi_zPIBOBCFkkb0Ixq_rg.jpeg)
 
 
 
-![](assets/547648862932/1*bwzKa8SYy6XhKkjd0iA_rQ.jpeg)
+![](../assets/547648862932/1*bwzKa8SYy6XhKkjd0iA_rQ.jpeg)
 
 
 
-![[Sirius\.Help](https://www.facebook.com/sirius.help/)](assets/547648862932/1*3G4OPRw6lIDJTd9Xm2eUbA.jpeg)
+![[Sirius\.Help](https://www.facebook.com/sirius.help/)](../assets/547648862932/1*3G4OPRw6lIDJTd9Xm2eUbA.jpeg)
 
 [Sirius\.Help](https://www.facebook.com/sirius.help/)
 
 [MigSzol Csoport](https://www.facebook.com/migszolcsoport/) stands in solidarity with Hungarian CEU in the light of yesterday’s proposed amendments on National Higher Education, tabled in Hungarian Parliament, which would make it impossible for the University to continue its work in Budapest\. CEU [responded](https://www.ceu.edu/article/2017-03-28/ceu-responds-proposed-amendments-hungarian-higher-education-law) today by saying the proposed legislation targets CEU directly and is therefore discriminatory and unacceptable\. You can send a [letter of solidarity](https://www.ceu.edu/node/17842) \.
 
 
-![The attacks on CEU hit us hard too\. For almost one and a half years we have been co\-running OLIve with the university\. Since then several universities across Europe have initiated the same model — a model which provides a space of community experience and a push toward joining higher education for refugees and asylum seekers in Europe\. Lets stand with CEU\! — write MigSzol Csoport](assets/547648862932/1*F5usiTqBWRi80xKhRdEJvQ.jpeg)
+![The attacks on CEU hit us hard too\. For almost one and a half years we have been co\-running OLIve with the university\. Since then several universities across Europe have initiated the same model — a model which provides a space of community experience and a push toward joining higher education for refugees and asylum seekers in Europe\. Lets stand with CEU\! — write MigSzol Csoport](../assets/547648862932/1*F5usiTqBWRi80xKhRdEJvQ.jpeg)
 
 The attacks on CEU hit us hard too\. For almost one and a half years we have been co\-running OLIve with the university\. Since then several universities across Europe have initiated the same model — a model which provides a space of community experience and a push toward joining higher education for refugees and asylum seekers in Europe\. Lets stand with CEU\! — write MigSzol Csoport
 #### GREECE

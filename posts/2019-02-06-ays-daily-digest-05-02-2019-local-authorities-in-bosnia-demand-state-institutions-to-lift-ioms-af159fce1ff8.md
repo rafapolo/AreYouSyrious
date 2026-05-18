@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 05/02/2019: Local authorities in Bosnia demand State institutions to lift IOM’s…
+title: "AYS Daily Digest 05/02/2019: Local authorities in Bosnia demand State institutions to lift IOM’s…"
 author: Are You Syrious?
 date: 2019-02-06T00:50:16.996+0000
 last_modified_at: 2019-02-07T11:11:58.901+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [europe,refugees,digest,bosnia,greece]
 description: New arrivals in the Mediterranean and in Greece//People disembarked from Sea Watch 3 can finally meet their lawyers//Migrants forced to…
 image:
-  path: assets/af159fce1ff8/1*AL1qZlO8AVbXwTP5vhy3cQ.jpeg
+  path: ../assets/af159fce1ff8/1*AL1qZlO8AVbXwTP5vhy3cQ.jpeg
 ---
 
 ### AYS Daily Digest 05/02/2019: Local authorities in Bosnia demand State institutions to lift IOM’s responsibility about migrants
 #### New arrivals in the Mediterranean and in Greece//People disembarked from Sea Watch 3 can finally meet their lawyers//Migrants forced to sleep among garbage as Diavata camp is too full//A family with 4 children is in desperate need of accommodation in Athens//Donations needed in Greece, Bosnia and France//Another migrant dies in Sarajevo//New data from Serbia and Spain//Baobab again under attack//LGBTQI\+ asylum seeker beaten in reception centre in the Netherlands\. \.
 
 
-![Life goes on in Moria camp\. \. Children continue to play, mothers continue to cook and men continue to cut their hair\. But don’t get confused, these are not normal living conditions\. In Europe, in 2019, these families should not live in tents\. February 4th, 2019\. Credit: Anna Pantelia](assets/af159fce1ff8/1*AL1qZlO8AVbXwTP5vhy3cQ.jpeg)
+![Life goes on in Moria camp\. \. Children continue to play, mothers continue to cook and men continue to cut their hair\. But don’t get confused, these are not normal living conditions\. In Europe, in 2019, these families should not live in tents\. February 4th, 2019\. Credit: Anna Pantelia](../assets/af159fce1ff8/1*AL1qZlO8AVbXwTP5vhy3cQ.jpeg)
 
 Life goes on in Moria camp\. \. Children continue to play, mothers continue to cook and men continue to cut their hair\. But don’t get confused, these are not normal living conditions\. In Europe, in 2019, these families should not live in tents\. February 4th, 2019\. Credit: Anna Pantelia
 ### FEATURE

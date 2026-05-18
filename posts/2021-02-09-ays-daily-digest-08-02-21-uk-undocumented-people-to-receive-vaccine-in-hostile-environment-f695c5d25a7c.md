@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 08/02/21 UK: Undocumented people to receive vaccine in hostile environment
+title: "AYS Daily Digest 08/02/21 UK: Undocumented people to receive vaccine in hostile environment"
 author: Are You Syrious?
 date: 2021-02-09T18:09:02.890+0000
 last_modified_at: 2021-02-09T18:09:02.890+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [uk,refugees,digest,greece,covid-19]
 description: Are You Syrious?
 image:
-  path: assets/f695c5d25a7c/0*e-dvTGu68lM8_QUa.png
+  path: ../assets/f695c5d25a7c/0*e-dvTGu68lM8_QUa.png
 ---
 
 ### AYS Daily Digest 08/02/21 UK: Undocumented people to receive vaccine in hostile environment
 
 
-![](assets/f695c5d25a7c/0*m_phbAhMqXAFW7zt.jpeg)
+![](../assets/f695c5d25a7c/0*m_phbAhMqXAFW7zt.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----b99d3035b087--------------------------------)
@@ -23,11 +23,11 @@ image:
 _Big weekend for people trying to escape Libya // Important message from Babel: Migrants’ mental health // Canary Islands camp flooded with sewage // more…_
 
 
-![](assets/f695c5d25a7c/0*yqOKJcTOsgEaqgjj)
+![](../assets/f695c5d25a7c/0*yqOKJcTOsgEaqgjj)
 
 
 
-![](assets/f695c5d25a7c/0*e-dvTGu68lM8_QUa.png)
+![](../assets/f695c5d25a7c/0*e-dvTGu68lM8_QUa.png)
 
 ### FEATURE: Hostile environment stands in the way of undocumented people receiving COVID\-19 vaccine in UK
 
@@ -97,19 +97,19 @@ Migrant rights lawyer [Jacqueline Mckenzie](https://twitter.com/JacquiMckenzie6/
 Many people were trying to escape the horrors of detention in Libya over the weekend\. While 422 people made it safely to Italy, many more did not\. As many as10 boats were intercepted by the Libyan Coast Guard and brought back\. [IOM Libya](https://twitter.com/IOM_Libya/status/1358835553848934411) said _“In the period of 2–8 February, 1,487 migrants were rescued/intercepted at sea and returned to Libya\.”_ Learn more [here](https://thecivilfleet.wordpress.com/2021/02/08/422-refugees-make-it-to-safety-in-italy-after-a-weekend-of-mass-escape-attempts-from-libya/?fbclid=IwAR0UlLt8mCnhH3MkkHQi6GKPDZQQLjzhZVYEk7Y5pwatvX3QClBjTb4CGNA) \.
 
 
-![](assets/f695c5d25a7c/0*rhvB8Z3tvLvf62rv)
+![](../assets/f695c5d25a7c/0*rhvB8Z3tvLvf62rv)
 
 
 
-![](assets/f695c5d25a7c/0*GUojlZeB3krGdRvV.jpeg)
+![](../assets/f695c5d25a7c/0*GUojlZeB3krGdRvV.jpeg)
 
 
 
-![](assets/f695c5d25a7c/0*HRCnoq8WV8VHx8fr)
+![](../assets/f695c5d25a7c/0*HRCnoq8WV8VHx8fr)
 
 
 
-![](assets/f695c5d25a7c/0*ynLWZwkxHF6LM4ew.jpeg)
+![](../assets/f695c5d25a7c/0*ynLWZwkxHF6LM4ew.jpeg)
 
 
 Update from [SOS MEDITERRANEE](https://www.facebook.com/SOSMEDITERRANEE/posts/3712559745517973) : _“Italian health authorities have started testing /those/ rescued on Ocean Viking for coronavirus before going ashore in Augusta, Sicily\. Ocean Viking crew will be heading into a mandatory 14 day quarantine starting today\.”_
@@ -132,11 +132,11 @@ If you feel fear, anxiety, sadness or irritability and these negative feelings p
 • At **210–8616266** \(Monday to Friday, 09\.00–17\.00\)”
 
 
-![](assets/f695c5d25a7c/0*D6DVnFPaOEIlUjXe)
+![](../assets/f695c5d25a7c/0*D6DVnFPaOEIlUjXe)
 
 
 
-![](assets/f695c5d25a7c/0*BM04nIVO-uahGqTV.jpeg)
+![](../assets/f695c5d25a7c/0*BM04nIVO-uahGqTV.jpeg)
 
 
 Manos Moschopoulos, who works for the Open Society, continues with a very informative thread about the political situation in Evros:
@@ -163,11 +163,11 @@ Manos Moschopoulos, who works for the Open Society, continues with a very inform
 Here are [some videos](https://twitter.com/maledictus/status/1358792857713319955) of the minister having problems upon arrival\.
 
 
-![](assets/f695c5d25a7c/0*knMB93S0-Kx0Jlfr)
+![](../assets/f695c5d25a7c/0*knMB93S0-Kx0Jlfr)
 
 
 
-![](assets/f695c5d25a7c/0*MsZs0r4I02vBWQSr.jpeg)
+![](../assets/f695c5d25a7c/0*MsZs0r4I02vBWQSr.jpeg)
 
 ### ITALY
 
@@ -178,19 +178,19 @@ Two quick updates from Info Migrants:
 ### SPAIN
 
 
-![](assets/f695c5d25a7c/0*O__7XtrOtGBN8Nvc)
+![](../assets/f695c5d25a7c/0*O__7XtrOtGBN8Nvc)
 
 
 
-![](assets/f695c5d25a7c/0*-HXmsrBLWs89K08D.jpeg)
+![](../assets/f695c5d25a7c/0*-HXmsrBLWs89K08D.jpeg)
 
 
 
-![](assets/f695c5d25a7c/0*YlXrUNGwVQpPhcWF)
+![](../assets/f695c5d25a7c/0*YlXrUNGwVQpPhcWF)
 
 
 
-![](assets/f695c5d25a7c/0*uEnQocu7S110HG7B.jpeg)
+![](../assets/f695c5d25a7c/0*uEnQocu7S110HG7B.jpeg)
 
 ### Canary Islands’ camp flooded with sewage
 
@@ -215,19 +215,19 @@ According to Info Migrants _“On Saturday, February 6, the French operational a
 ### UK
 
 
-![](assets/f695c5d25a7c/0*Ic_KwBPa14ivWYqJ)
+![](../assets/f695c5d25a7c/0*Ic_KwBPa14ivWYqJ)
 
 
 
-![](assets/f695c5d25a7c/0*5QYGwOlw1VgvLp0u.jpeg)
+![](../assets/f695c5d25a7c/0*5QYGwOlw1VgvLp0u.jpeg)
 
 
 
-![](assets/f695c5d25a7c/0*OsVlIJDcIRZNoiVy)
+![](../assets/f695c5d25a7c/0*OsVlIJDcIRZNoiVy)
 
 
 
-![](assets/f695c5d25a7c/0*T9GMuWwks68e-zA4.jpeg)
+![](../assets/f695c5d25a7c/0*T9GMuWwks68e-zA4.jpeg)
 
 ### Worth Checking Out
 - Check out [this event](https://www.facebook.com/events/3691224820966442/) **“How will COVID\-19 transform the global governance of migration and refugees?”** on Thursday, 11am CST\.

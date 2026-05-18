@@ -1,5 +1,5 @@
 ---
-title: AYS Digest 02/04/17: Greece looks to accelerate returns of refugees to Turkey
+title: "AYS Digest 02/04/17: Greece looks to accelerate returns of refugees to Turkey"
 author: Are You Syrious?
 date: 2017-04-03T04:39:20.596+0100
 last_modified_at: 2017-04-04T22:54:12.045+0100
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe]
 description: Asylum-seekers waiving their right to appeal could receive €500 “cash bonus” for repatriation. Europe keeps its boats far from the rescue…
 image:
-  path: assets/943ae7d0453b/1*r-PV4-QHBn8ynez4PPTJ-g.png
+  path: ../assets/943ae7d0453b/1*r-PV4-QHBn8ynez4PPTJ-g.png
 ---
 
 ### AYS Digest 02/04/17: Greece looks to accelerate returns of refugees to Turkey
 
 
-![Large mosaic depicting people arriving on Lesvos by sea\. Photo by Dirty Girls of Lesvos](assets/943ae7d0453b/1*r-PV4-QHBn8ynez4PPTJ-g.png)
+![Large mosaic depicting people arriving on Lesvos by sea\. Photo by Dirty Girls of Lesvos](../assets/943ae7d0453b/1*r-PV4-QHBn8ynez4PPTJ-g.png)
 
 Large mosaic depicting people arriving on Lesvos by sea\. Photo by Dirty Girls of Lesvos
 
@@ -43,7 +43,7 @@ Again, we strongly oppose the decision not to distribute cash cards to people li
 Swisscross has started to organise beach trips for 32 refugees who previously slept in the streets of Athens and are now sheltered by the organization\. The trips allows the families to have some fun and to bring back a little bit of “normalcy” in their lives\. The group can always use donations and support to continue organizing these trips\.
 
 
-![Photo by schwizerchrüz\.ch Michael Räber](assets/943ae7d0453b/1*0qefGLyCuWHQMzzAjXgRBA.png)
+![Photo by schwizerchrüz\.ch Michael Räber](../assets/943ae7d0453b/1*0qefGLyCuWHQMzzAjXgRBA.png)
 
 Photo by schwizerchrüz\.ch Michael Räber
 #### Bulgaria
@@ -62,15 +62,15 @@ All of the residents have limited freedom of movement, meaning that they can lea
 As residents we were in touch with told us, they did not have access to anything for three days after arriving in the camp, including food or blankets\.
 
 
-![](assets/943ae7d0453b/1*lrOl9DJ7jad2o4k4sDbWzQ.jpeg)
+![](../assets/943ae7d0453b/1*lrOl9DJ7jad2o4k4sDbWzQ.jpeg)
 
 
 
-![](assets/943ae7d0453b/1*mgAbGJx4cBcGwQNcNtxp6w.jpeg)
+![](../assets/943ae7d0453b/1*mgAbGJx4cBcGwQNcNtxp6w.jpeg)
 
 
 
-![](assets/943ae7d0453b/1*hJoO36s_v0oepyXjQepDOg.jpeg)
+![](../assets/943ae7d0453b/1*hJoO36s_v0oepyXjQepDOg.jpeg)
 
 
 [News Deeply](https://www.newsdeeply.com/refugees/articles/2016/12/01/refugees-relocated-by-e-u-struggle-to-get-by-in-romania) says that while their exact numbers are unknown, around 5,000 people have been granted refugee protection by Romania since 1991 — one of the smallest refugee populations in Europe — and only 2,584 people with protected status currently hold Romanian residency permits, according to UNHCR\. This suggests at least half of Romania’s refugees left at some point\. It also notes that many relocated under the EU scheme consider leaving due to a lack of jobs and poor language classes\.

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 31/5/2021: Another new bill to further curb rights to asylum in Greece
+title: "AYS Daily Digest 31/5/2021: Another new bill to further curb rights to asylum in Greece"
 author: Are You Syrious?
 date: 2021-06-01T10:44:37.766+0100
 last_modified_at: 2021-06-01T14:16:56.897+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,greece,moria,paris]
 description: More deaths feared in the Central Med in what the Libyan Coast Guard calls a ‘successful rescue’. Further evidence of Pushbacks…
 image:
-  path: assets/7f2f971c1af0/1*3UIgQD5TPVhDw5ddxIyi0Q.jpeg
+  path: ../assets/7f2f971c1af0/1*3UIgQD5TPVhDw5ddxIyi0Q.jpeg
 ---
 
 ### AYS Daily Digest 31/5/2021 **: Another new bill to further curb rights to asylum in Greece**
@@ -15,7 +15,7 @@ image:
 More deaths feared in the Central Med in what the Libyan Coast Guard calls a ‘successful rescue’\. Further evidence of pushbacks\. 3,000 people take to the streets in Paris\. Updates from Ceuta\. EU accused of complicity in deaths at sea by UN\.
 
 
-![\(Moria Corona Awareness Team teaching classes in how to make art from what people have thrown away\. Photo Credit: [Moria Corona Awareness Team](https://www.facebook.com/MoriaCoronaAwarenessTeam) \)](assets/7f2f971c1af0/1*3UIgQD5TPVhDw5ddxIyi0Q.jpeg)
+![\(Moria Corona Awareness Team teaching classes in how to make art from what people have thrown away\. Photo Credit: [Moria Corona Awareness Team](https://www.facebook.com/MoriaCoronaAwarenessTeam) \)](../assets/7f2f971c1af0/1*3UIgQD5TPVhDw5ddxIyi0Q.jpeg)
 
 \(Moria Corona Awareness Team teaching classes in how to make art from what people have thrown away\. Photo Credit: [Moria Corona Awareness Team](https://www.facebook.com/MoriaCoronaAwarenessTeam) \)
 
@@ -53,7 +53,7 @@ More deaths feared, as Alarm Phone reported having been informed on Monday about
 UNHCR Libya [report](https://twitter.com/UNHCRLibya/status/1399448735172730888) that 274 persons were brought back to Tripoli on Monday afternoon in two different operations by the Libyan Coast Guard\.
 
 
-![A Libyan Coast Guard vessel returning people to Tripoli, spotted by MSF’s GeoBarents \(Photo: [Ed Ou/The Outlaw Ocean Project](https://twitter.com/MSF_Sea/status/1399403986302783498/photo/1) \)](assets/7f2f971c1af0/1*cyskGLiDy6K-wnjmVgN04A.jpeg)
+![A Libyan Coast Guard vessel returning people to Tripoli, spotted by MSF’s GeoBarents \(Photo: [Ed Ou/The Outlaw Ocean Project](https://twitter.com/MSF_Sea/status/1399403986302783498/photo/1) \)](../assets/7f2f971c1af0/1*cyskGLiDy6K-wnjmVgN04A.jpeg)
 
 A Libyan Coast Guard vessel returning people to Tripoli, spotted by MSF’s GeoBarents \(Photo: [Ed Ou/The Outlaw Ocean Project](https://twitter.com/MSF_Sea/status/1399403986302783498/photo/1) \)
 
@@ -120,7 +120,7 @@ FRANCE
 #### Paris: 3,000 people take to the streets
 
 
-![[Sunday, 30 May 2021 — Paris \(Credit: Utopia 56\)](https://twitter.com/Utopia_56/status/1399474610811420672/photo/1)](assets/7f2f971c1af0/1*D9PHNWXNsN4z6LaXkpdHAQ.jpeg)
+![[Sunday, 30 May 2021 — Paris \(Credit: Utopia 56\)](https://twitter.com/Utopia_56/status/1399474610811420672/photo/1)](../assets/7f2f971c1af0/1*D9PHNWXNsN4z6LaXkpdHAQ.jpeg)
 
 [Sunday, 30 May 2021 — Paris \(Credit: Utopia 56\)](https://twitter.com/Utopia_56/status/1399474610811420672/photo/1)
 

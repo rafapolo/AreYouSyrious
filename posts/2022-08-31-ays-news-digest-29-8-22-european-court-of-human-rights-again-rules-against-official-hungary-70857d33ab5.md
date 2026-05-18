@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 29/8/22: European Court of Human Rights (again) rules against officials in Hungary
+title: "AYS News Digest 29/8/22: European Court of Human Rights (again) rules against officials in Hungary"
 author: Are You Syrious?
 date: 2022-08-31T01:03:22.825+0100
 last_modified_at: 2022-08-31T16:41:37.067+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,hungar,refugees,europe,germany]
 description: European Court of Human Rights ruled in the case of young asylum-seeking children and their parents in favor of the family // Bulgaria…
 image:
-  path: assets/70857d33ab5/0*8meHCangfEzaFdzI.jpg
+  path: ../assets/70857d33ab5/0*8meHCangfEzaFdzI.jpg
 ---
 
 ### AYS News Digest 29/8/22: European Court of Human Rights \(again\) rules against officials in Hungary
 #### European Court of Human Rights ruled in the case of young asylum\-seeking children and their parents in favor of the family // Bulgaria: More than 140 Afghans detained near Burgas on the Black Sea coast // Official pressure on free journalist continues in Greece // Germany’s commemoration marked by an arson attack// & more news
 
 
-![Illustration via HHC](assets/70857d33ab5/0*8meHCangfEzaFdzI.jpg)
+![Illustration via HHC](../assets/70857d33ab5/0*8meHCangfEzaFdzI.jpg)
 
 Illustration via HHC
 #### FEATURE
@@ -119,7 +119,7 @@ The alert was sent yesterday by the @[alarm_phone](https://twitter.com/alarm_pho
 A man has [reportedly](https://twitter.com/PaggioI/status/1563596227672805376) been apprehended by the police and people who have tried to reach out to him since, including his lawyer, have failed to do so\.
 
 
-![](assets/70857d33ab5/0*V0u2XgVamPXe9j1N)
+![](../assets/70857d33ab5/0*V0u2XgVamPXe9j1N)
 
 
 

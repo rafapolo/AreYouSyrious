@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 29/11/19: What is happening in the UNHCR facility in Tripoli?
+title: "AYS Daily Digest 29/11/19: What is happening in the UNHCR facility in Tripoli?"
 author: Are You Syrious?
 date: 2019-11-30T12:39:20.999+0000
 last_modified_at: 2019-11-30T12:39:20.999+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [refugees,europe,digest,libya,unhcr]
 description: Are You Syrious?
 image:
-  path: assets/87be3ef5855e/0*0MYtGHtEGIrSgUxp.jpeg
+  path: ../assets/87be3ef5855e/0*0MYtGHtEGIrSgUxp.jpeg
 ---
 
 ### AYS Daily Digest 29/11/19: What is happening in the UNHCR facility in Tripoli?
 
 
-![](assets/87be3ef5855e/0*OjHzFfF7ez9ZxUuQ.jpeg)
+![](../assets/87be3ef5855e/0*OjHzFfF7ez9ZxUuQ.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----70ee767cd2e7----------------------)
@@ -21,11 +21,11 @@ image:
 [Nov 30](ays-daily-digest-29-11-19-what-is-happening-in-unhcr-facility-in-tripoli-70ee767cd2e7?source=post_page-----70ee767cd2e7----------------------) · 7 min read
 
 
-![](assets/87be3ef5855e/0*Hi1U-SVbeWbinide)
+![](../assets/87be3ef5855e/0*Hi1U-SVbeWbinide)
 
 
 
-![](assets/87be3ef5855e/0*0MYtGHtEGIrSgUxp.jpeg)
+![](../assets/87be3ef5855e/0*0MYtGHtEGIrSgUxp.jpeg)
 
 
 By Panos Zacharis

@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,european-union,aquarius,moria35]
 description: Updates from SAR operations /// Demonstration launched in Paris /// New evictions in Calais /// 2 of the Moria35 deported to Turkey ///…
 image:
-  path: assets/3539327eaa96/1*GucaSnI8J9YcqKbIJT5pnA.jpeg
+  path: ../assets/3539327eaa96/1*GucaSnI8J9YcqKbIJT5pnA.jpeg
 ---
 
 ### AYS Daily Digest 13/06/2018 EU’s disturbing priorities
@@ -15,7 +15,7 @@ image:
 Updates from SAR operations /// Demonstration launched in Paris /// New evictions in Calais /// 2 of the Moria35 deported to Turkey /// Updates from Bihac and Sarajevo /// Education projects in Sofia
 
 
-![Ever saw your friends drowning next to you and being stuck on a ship, waiting for a solution and an assigned port of safety? That’s happening to 41 survivors of yesterday’s rescue, which left 12 dead\. They need a decision now\! [\#apriteiporti](https://twitter.com/hashtag/apriteiporti?src=hash) \(photo by [Sea\-Watch](https://twitter.com/seawatchcrew/status/1006839584775434240) \)](assets/3539327eaa96/1*GucaSnI8J9YcqKbIJT5pnA.jpeg)
+![Ever saw your friends drowning next to you and being stuck on a ship, waiting for a solution and an assigned port of safety? That’s happening to 41 survivors of yesterday’s rescue, which left 12 dead\. They need a decision now\! [\#apriteiporti](https://twitter.com/hashtag/apriteiporti?src=hash) \(photo by [Sea\-Watch](https://twitter.com/seawatchcrew/status/1006839584775434240) \)](../assets/3539327eaa96/1*GucaSnI8J9YcqKbIJT5pnA.jpeg)
 
 Ever saw your friends drowning next to you and being stuck on a ship, waiting for a solution and an assigned port of safety? That’s happening to 41 survivors of yesterday’s rescue, which left 12 dead\. They need a decision now\! [\#apriteiporti](https://twitter.com/hashtag/apriteiporti?src=hash) \(photo by [Sea\-Watch](https://twitter.com/seawatchcrew/status/1006839584775434240) \)
 #### FEATURE \- EU’s disturbing priorities: Border Defence Budget
@@ -73,7 +73,7 @@ During the day the Aquarius received rather inadequate food supplies:
 #### **937 people arrived in Catania**
 
 
-![Catania port \(photo by [Flavio di Giacomo](https://twitter.com/fladig) \)](assets/3539327eaa96/1*oyVHlNu8M_5fvcomQlBDvQ.jpeg)
+![Catania port \(photo by [Flavio di Giacomo](https://twitter.com/fladig) \)](../assets/3539327eaa96/1*oyVHlNu8M_5fvcomQlBDvQ.jpeg)
 
 Catania port \(photo by [Flavio di Giacomo](https://twitter.com/fladig) \)
 
@@ -125,7 +125,7 @@ Por otra parte, a las 11.30h el buque Luz de Mar rescató a 22 hombres y 1 mujer
 **3 years of rescue operations for Sea Watch**
 
 
-![[3 years of Sea\-Watch \(photo by Sea\-Watch](https://twitter.com/seawatchcrew) \)](assets/3539327eaa96/1*A37OZ657Zcmz3Vr9UGy64g.jpeg)
+![[3 years of Sea\-Watch \(photo by Sea\-Watch](https://twitter.com/seawatchcrew) \)](../assets/3539327eaa96/1*A37OZ657Zcmz3Vr9UGy64g.jpeg)
 
 [3 years of Sea\-Watch \(photo by Sea\-Watch](https://twitter.com/seawatchcrew) \)
 
@@ -192,7 +192,7 @@ TURKEY
 UNHCR has published the [numbers](https://data2.unhcr.org/en/documents/download/64013) of registered refuges and asylum seekers in Turkey\.
 
 
-![](assets/3539327eaa96/1*U7V-tEeLroF8ksgAK22zNA.jpeg)
+![](../assets/3539327eaa96/1*U7V-tEeLroF8ksgAK22zNA.jpeg)
 
 
 The [Turkish coast guard report](https://www.facebook.com/cell122/posts/1951994981689580) s that they picked up one boat outside Altinova at 3:32 a\.m\., on its way towards east Lesvos carrying 43 people and another outside Kadirga Burnu, Ayvacik distrikt, at 5:30 a\.m\., on its way towards north Lesvos also carrying 43 people including one Turkish national\.

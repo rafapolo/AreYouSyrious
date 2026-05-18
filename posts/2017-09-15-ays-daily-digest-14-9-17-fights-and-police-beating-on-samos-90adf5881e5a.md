@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 14/9/17: Fights and police beating on Samos
+title: "AYS Daily Digest 14/9/17: Fights and police beating on Samos"
 author: Are You Syrious?
 date: 2017-09-15T02:16:25.065+0100
 last_modified_at: 2017-09-15T02:25:57.491+0100
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,greece,europe,turkey,human-rights]
 description: FEATURE
 image:
-  path: assets/90adf5881e5a/1*tuK6WnHDZoKR8kD2LYpP6Q.jpeg
+  path: ../assets/90adf5881e5a/1*tuK6WnHDZoKR8kD2LYpP6Q.jpeg
 ---
 
 ### AYS Daily Digest 14/9/17: Fights and police beating on Samos
 
 
-![**Chios, Photo: [Muhamed Albakur](https://www.facebook.com/muhamed.albakur.5)**](assets/90adf5881e5a/1*tuK6WnHDZoKR8kD2LYpP6Q.jpeg)
+![**Chios, Photo: [Muhamed Albakur](https://www.facebook.com/muhamed.albakur.5)**](../assets/90adf5881e5a/1*tuK6WnHDZoKR8kD2LYpP6Q.jpeg)
 
 **Chios, Photo: [Muhamed Albakur](https://www.facebook.com/muhamed.albakur.5)**
 #### FEATURE
@@ -39,26 +39,26 @@ All of them stay in the _hot spot_ in containers\. The place that has the capaci
 The Vial camp on **Chios** is an inadequate place to stay, regardless of how long as the conditions seem to be seriously bad, according to all accounts\.
 
 
-![](assets/90adf5881e5a/1*CPlcPTiGVvgsOt8PvZFljA.jpeg)
+![](../assets/90adf5881e5a/1*CPlcPTiGVvgsOt8PvZFljA.jpeg)
 
 
 
-![](assets/90adf5881e5a/1*rbiSEd0znd5-b9jQW1dW4w.jpeg)
+![](../assets/90adf5881e5a/1*rbiSEd0znd5-b9jQW1dW4w.jpeg)
 
 
 
-![Vial camp photos by [**Muhamed Albakur**](https://www.facebook.com/muhamed.albakur.5)](assets/90adf5881e5a/1*D3wYZ9xK0pSZH_xjjZv4PQ.jpeg)
+![Vial camp photos by [**Muhamed Albakur**](https://www.facebook.com/muhamed.albakur.5)](../assets/90adf5881e5a/1*D3wYZ9xK0pSZH_xjjZv4PQ.jpeg)
 
 Vial camp photos by [**Muhamed Albakur**](https://www.facebook.com/muhamed.albakur.5)
 
 Situation in the crowded Moria camp on Lesvos:
 
 
-![](assets/90adf5881e5a/1*voSJEi7u3CaavE64RvlECg.jpeg)
+![](../assets/90adf5881e5a/1*voSJEi7u3CaavE64RvlECg.jpeg)
 
 
 
-![Photos by [Rafat Al\-hamoud](https://www.facebook.com/rafat.hammoud?hc_ref=ARRt1eUFIQsCZz840_YY8LSbnvNOvbx2yN9OOkINCNsxa8PpqrHZ2qDW6pFlpgJwD7k)](assets/90adf5881e5a/1*7yklCDSwSbYgHD0n7U03uQ.jpeg)
+![Photos by [Rafat Al\-hamoud](https://www.facebook.com/rafat.hammoud?hc_ref=ARRt1eUFIQsCZz840_YY8LSbnvNOvbx2yN9OOkINCNsxa8PpqrHZ2qDW6pFlpgJwD7k)](../assets/90adf5881e5a/1*7yklCDSwSbYgHD0n7U03uQ.jpeg)
 
 Photos by [Rafat Al\-hamoud](https://www.facebook.com/rafat.hammoud?hc_ref=ARRt1eUFIQsCZz840_YY8LSbnvNOvbx2yN9OOkINCNsxa8PpqrHZ2qDW6pFlpgJwD7k)
 
@@ -90,7 +90,7 @@ The second boat came with 70 people: 32 children, 14 women and 24 men\.
 The third boat arrived on south east coast of Lesvos with 33 people on board\.
 
 
-![[“](https://www.facebook.com/pikpalesvos/) Join us tomorrow Friday 15 September at 20\.00 in [Mosaik Support Center](https://www.facebook.com/mosaiksupportcenter/?fref=mentions) for a talk with Sheila Romen about the ongoing crisis in the Democratic Republic of Congo and its impact on the region\. Sheila has been living and working in Congo for the past 6,5 years\. The talk will be in English, with translations to Greek and French\. Μετάφραση στα Ελληνικά\. Interprétation en français\.” — — [Lesvos Solidarity — Pikpa](https://www.facebook.com/pikpalesvos/)](assets/90adf5881e5a/1*xuNVsV-fP9MVmfNFYuGqyg.jpeg)
+![[“](https://www.facebook.com/pikpalesvos/) Join us tomorrow Friday 15 September at 20\.00 in [Mosaik Support Center](https://www.facebook.com/mosaiksupportcenter/?fref=mentions) for a talk with Sheila Romen about the ongoing crisis in the Democratic Republic of Congo and its impact on the region\. Sheila has been living and working in Congo for the past 6,5 years\. The talk will be in English, with translations to Greek and French\. Μετάφραση στα Ελληνικά\. Interprétation en français\.” — — [Lesvos Solidarity — Pikpa](https://www.facebook.com/pikpalesvos/)](../assets/90adf5881e5a/1*xuNVsV-fP9MVmfNFYuGqyg.jpeg)
 
 [“](https://www.facebook.com/pikpalesvos/) Join us tomorrow Friday 15 September at 20\.00 in [Mosaik Support Center](https://www.facebook.com/mosaiksupportcenter/?fref=mentions) for a talk with Sheila Romen about the ongoing crisis in the Democratic Republic of Congo and its impact on the region\. Sheila has been living and working in Congo for the past 6,5 years\. The talk will be in English, with translations to Greek and French\. Μετάφραση στα Ελληνικά\. Interprétation en français\.” — — [Lesvos Solidarity — Pikpa](https://www.facebook.com/pikpalesvos/)
 ### Crete
@@ -158,7 +158,7 @@ The third boat arrived on south east coast of Lesvos with 33 people on board\.
 
 
 
-![Photo: [NoBorders](https://www.facebook.com/nobordersnetwork/)](assets/90adf5881e5a/1*hxqKz3UxEf9ZA-eCkYj8MA.jpeg)
+![Photo: [NoBorders](https://www.facebook.com/nobordersnetwork/)](../assets/90adf5881e5a/1*hxqKz3UxEf9ZA-eCkYj8MA.jpeg)
 
 Photo: [NoBorders](https://www.facebook.com/nobordersnetwork/)
 ### Lavrio
@@ -249,7 +249,7 @@ Do you have an education background and experience working with displaced or tra
 \- Cooking pots
 
 
-![](assets/90adf5881e5a/1*0T97Lb7cuMNXxgZTJAN6vA.jpeg)
+![](../assets/90adf5881e5a/1*0T97Lb7cuMNXxgZTJAN6vA.jpeg)
 
 ### The Corfu meeting
 
@@ -283,16 +283,16 @@ As for these “accommodated” people, AYS has had a number of encounters with 
 A protest in solidarity and against deportations to Afghanistan and other dangerous countries was organized today in Salzburg\.
 
 
-![Photo: [Plattform für eine menschliche Asylpolitik](https://www.facebook.com/menschliche.asylpolitik/?ref=gs&fref=gs&hc_location=group_dialog)](assets/90adf5881e5a/1*Bmbu691PySJ_W0wuBODG6A.jpeg)
+![Photo: [Plattform für eine menschliche Asylpolitik](https://www.facebook.com/menschliche.asylpolitik/?ref=gs&fref=gs&hc_location=group_dialog)](../assets/90adf5881e5a/1*Bmbu691PySJ_W0wuBODG6A.jpeg)
 
 Photo: [Plattform für eine menschliche Asylpolitik](https://www.facebook.com/menschliche.asylpolitik/?ref=gs&fref=gs&hc_location=group_dialog)
 
 
-![](assets/90adf5881e5a/1*CplEy5fzRhXGm2eHtk2qJA.jpeg)
+![](../assets/90adf5881e5a/1*CplEy5fzRhXGm2eHtk2qJA.jpeg)
 
 
 
-![Photos: [Plattform für eine menschliche Asylpolitik](https://www.facebook.com/menschliche.asylpolitik/?ref=gs&fref=gs&hc_location=group_dialog)](assets/90adf5881e5a/1*QwKKH7We3GWP0IXESxJXSA.jpeg)
+![Photos: [Plattform für eine menschliche Asylpolitik](https://www.facebook.com/menschliche.asylpolitik/?ref=gs&fref=gs&hc_location=group_dialog)](../assets/90adf5881e5a/1*QwKKH7We3GWP0IXESxJXSA.jpeg)
 
 Photos: [Plattform für eine menschliche Asylpolitik](https://www.facebook.com/menschliche.asylpolitik/?ref=gs&fref=gs&hc_location=group_dialog)
 #### GERMANY
@@ -329,15 +329,15 @@ The call is available [here](http://www.welcome-united.org/en/call-to-action/) \
 For more information and contact, please see [this profile](https://www.facebook.com/zain.khalish?hc_ref=ARRDKs7jvjxyV8AuFGgW0topZLo7xHGRvpF2Nahy53fd_ODhY1fdLzla8Bd95fZxOwQ&fref=nf) \.
 
 
-![](assets/90adf5881e5a/1*nyfiJ8kenctVUJ8c8ZOJkg.jpeg)
+![](../assets/90adf5881e5a/1*nyfiJ8kenctVUJ8c8ZOJkg.jpeg)
 
 
 
-![](assets/90adf5881e5a/1*FDmjCz-aPdEsdXIcOx_pNw.jpeg)
+![](../assets/90adf5881e5a/1*FDmjCz-aPdEsdXIcOx_pNw.jpeg)
 
 
 
-![](assets/90adf5881e5a/1*mF3gB1aL5SheIENN4fPUbA.jpeg)
+![](../assets/90adf5881e5a/1*mF3gB1aL5SheIENN4fPUbA.jpeg)
 
 #### BELGIUM
 ### Friday 15, [protest](https://www.facebook.com/events/2036651686360926/?acontext=%7B%22ref%22%3A%223%22%2C%22ref_newsfeed_story_type%22%3A%22regular%22%2C%22action_history%22%3A%22null%22%7D) in Brussels

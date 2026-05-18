@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 04/01/2019 Italy, 2018: record of asylum claim responses, record of rejections
+title: "AYS Daily Digest 04/01/2019 Italy, 2018: record of asylum claim responses, record of rejections"
 author: Are You Syrious?
 date: 2019-01-05T12:11:25.550+0000
 last_modified_at: 2019-01-05T12:11:25.550+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [newsletter]
 description: 14 days and counting without a safe port for people on the SeaWatch3 and SeaEye /// Bosnian police keep illegally harassing people on the…
 image:
-  path: assets/ddae31d13c69/1*y5qy_vwMD-jhfZ55NJOSPQ.jpeg
+  path: ../assets/ddae31d13c69/1*y5qy_vwMD-jhfZ55NJOSPQ.jpeg
 ---
 
 ### AYS Daily Digest 04/01/2019 Italy, 2018: record of asylum claim responses, record of rejections
@@ -15,13 +15,13 @@ image:
 14 days and counting without a safe port for people on the SeaWatch3 and SeaEye /// Bosnian police keep illegally harassing people on the move /// Migrants left outside of winter shelter in Rome /// Video from Danish detention centre /// More on pushbacks from Greece to Turkey /// Setting the record straight on the Channel crossing towards the UK
 
 
-![NO BORDERS — Protest in Palermo, Sicily \(Photo by [Irene di Stefano](https://www.facebook.com/irenuccia.di.stefano?__tn__=%2Cd%2AF%2AF-R&eid=ARAXws2XgxSFq-W2Gh2hl7IF2TSkb6X0raq3Mc19lhDZ5X3erjQNyWau1eEEwJ9xL1DJPjbDa2UDF6nh&tn-str=%2AF) \)](assets/ddae31d13c69/1*y5qy_vwMD-jhfZ55NJOSPQ.jpeg)
+![NO BORDERS — Protest in Palermo, Sicily \(Photo by [Irene di Stefano](https://www.facebook.com/irenuccia.di.stefano?__tn__=%2Cd%2AF%2AF-R&eid=ARAXws2XgxSFq-W2Gh2hl7IF2TSkb6X0raq3Mc19lhDZ5X3erjQNyWau1eEEwJ9xL1DJPjbDa2UDF6nh&tn-str=%2AF) \)](../assets/ddae31d13c69/1*y5qy_vwMD-jhfZ55NJOSPQ.jpeg)
 
 NO BORDERS — Protest in Palermo, Sicily \(Photo by [Irene di Stefano](https://www.facebook.com/irenuccia.di.stefano?__tn__=%2Cd%2AF%2AF-R&eid=ARAXws2XgxSFq-W2Gh2hl7IF2TSkb6X0raq3Mc19lhDZ5X3erjQNyWau1eEEwJ9xL1DJPjbDa2UDF6nh&tn-str=%2AF) \)
 #### FEATURE — Italy, 2018: Record of asylum claims responses, record of rejections
 
 
-![Responses to protection claims examined in 2018 — by [Vie di Fuga](http://viedifuga.org/richiedenti-asilo-ed-esiti-in-italia-2018-lanno-dei-record/?fbclid=IwAR1V4g2_tU_kRBGEN7gBOxb_mdq_vB55gVT3LbwRUYlg8-RnQ-rOdIg3WSA) , on provisional data from the Interior Ministry](assets/ddae31d13c69/1*24e3Zhd14LJaqZ8EnAouSw.jpeg)
+![Responses to protection claims examined in 2018 — by [Vie di Fuga](http://viedifuga.org/richiedenti-asilo-ed-esiti-in-italia-2018-lanno-dei-record/?fbclid=IwAR1V4g2_tU_kRBGEN7gBOxb_mdq_vB55gVT3LbwRUYlg8-RnQ-rOdIg3WSA) , on provisional data from the Interior Ministry](../assets/ddae31d13c69/1*24e3Zhd14LJaqZ8EnAouSw.jpeg)
 
 Responses to protection claims examined in 2018 — by [Vie di Fuga](http://viedifuga.org/richiedenti-asilo-ed-esiti-in-italia-2018-lanno-dei-record/?fbclid=IwAR1V4g2_tU_kRBGEN7gBOxb_mdq_vB55gVT3LbwRUYlg8-RnQ-rOdIg3WSA) , on provisional data from the Interior Ministry
 
@@ -164,7 +164,7 @@ From [Baobab Experience](https://www.facebook.com/BaobabExperience/posts/1984822
 
 
 
-![Tiburtina Station shelter, Roma \(Photo by [Giovanna Maria Seddaiu](https://www.facebook.com/giovanna.seddaiu?__tn__=%2Cd%2AF%2AF-R&eid=ARDO_XrXC8isqHDhpIhpb8YzWZTZjphMnCRkHXCT4CN0wvZi-P7uRWIlvD8mG_0rkdivQH7VHfq8XCU4&tn-str=%2AF) \)](assets/ddae31d13c69/1*lMnKg3f1qvI0fFhJHelz1Q.jpeg)
+![Tiburtina Station shelter, Roma \(Photo by [Giovanna Maria Seddaiu](https://www.facebook.com/giovanna.seddaiu?__tn__=%2Cd%2AF%2AF-R&eid=ARDO_XrXC8isqHDhpIhpb8YzWZTZjphMnCRkHXCT4CN0wvZi-P7uRWIlvD8mG_0rkdivQH7VHfq8XCU4&tn-str=%2AF) \)](../assets/ddae31d13c69/1*lMnKg3f1qvI0fFhJHelz1Q.jpeg)
 
 Tiburtina Station shelter, Roma \(Photo by [Giovanna Maria Seddaiu](https://www.facebook.com/giovanna.seddaiu?__tn__=%2Cd%2AF%2AF-R&eid=ARDO_XrXC8isqHDhpIhpb8YzWZTZjphMnCRkHXCT4CN0wvZi-P7uRWIlvD8mG_0rkdivQH7VHfq8XCU4&tn-str=%2AF) \)
 
@@ -190,7 +190,7 @@ Rome, January 2019, no “winter plan” for homeless people has been activated 
 
 
 
-![Tiburtina Station shelter, Roma \(Photo by [Giovanna Maria Seddaiu](https://www.facebook.com/giovanna.seddaiu?__tn__=%2Cd%2AF%2AF-R&eid=ARDO_XrXC8isqHDhpIhpb8YzWZTZjphMnCRkHXCT4CN0wvZi-P7uRWIlvD8mG_0rkdivQH7VHfq8XCU4&tn-str=%2AF) \)](assets/ddae31d13c69/1*hWkE1jGSssnpTIwWFo-GbA.jpeg)
+![Tiburtina Station shelter, Roma \(Photo by [Giovanna Maria Seddaiu](https://www.facebook.com/giovanna.seddaiu?__tn__=%2Cd%2AF%2AF-R&eid=ARDO_XrXC8isqHDhpIhpb8YzWZTZjphMnCRkHXCT4CN0wvZi-P7uRWIlvD8mG_0rkdivQH7VHfq8XCU4&tn-str=%2AF) \)](../assets/ddae31d13c69/1*hWkE1jGSssnpTIwWFo-GbA.jpeg)
 
 Tiburtina Station shelter, Roma \(Photo by [Giovanna Maria Seddaiu](https://www.facebook.com/giovanna.seddaiu?__tn__=%2Cd%2AF%2AF-R&eid=ARDO_XrXC8isqHDhpIhpb8YzWZTZjphMnCRkHXCT4CN0wvZi-P7uRWIlvD8mG_0rkdivQH7VHfq8XCU4&tn-str=%2AF) \)
 
@@ -208,11 +208,11 @@ Tiburtina Station shelter, Roma \(Photo by [Giovanna Maria Seddaiu](https://www.
 
 
 
-![](assets/ddae31d13c69/1*YLurobCgcf8mnb9IcxiRPw.jpeg)
+![](../assets/ddae31d13c69/1*YLurobCgcf8mnb9IcxiRPw.jpeg)
 
 
 
-![Tiburtina Station shelter, Roma \(Photo by [Giovanna Maria Seddaiu](https://www.facebook.com/giovanna.seddaiu?__tn__=%2Cd%2AF%2AF-R&eid=ARDO_XrXC8isqHDhpIhpb8YzWZTZjphMnCRkHXCT4CN0wvZi-P7uRWIlvD8mG_0rkdivQH7VHfq8XCU4&tn-str=%2AF) \)](assets/ddae31d13c69/1*kCOv3aiX45r8ntxJW6WHnQ.jpeg)
+![Tiburtina Station shelter, Roma \(Photo by [Giovanna Maria Seddaiu](https://www.facebook.com/giovanna.seddaiu?__tn__=%2Cd%2AF%2AF-R&eid=ARDO_XrXC8isqHDhpIhpb8YzWZTZjphMnCRkHXCT4CN0wvZi-P7uRWIlvD8mG_0rkdivQH7VHfq8XCU4&tn-str=%2AF) \)](../assets/ddae31d13c69/1*kCOv3aiX45r8ntxJW6WHnQ.jpeg)
 
 Tiburtina Station shelter, Roma \(Photo by [Giovanna Maria Seddaiu](https://www.facebook.com/giovanna.seddaiu?__tn__=%2Cd%2AF%2AF-R&eid=ARDO_XrXC8isqHDhpIhpb8YzWZTZjphMnCRkHXCT4CN0wvZi-P7uRWIlvD8mG_0rkdivQH7VHfq8XCU4&tn-str=%2AF) \)
 
@@ -257,11 +257,11 @@ Read more on the effects of the law in [yesterday’s digest](ays-daily-digest-0
 In Palermo citizens held a protest in solidarity with the city’s mayor and the other mayors who are opposing the new Law on migration\.
 
 
-![](assets/ddae31d13c69/1*lxYmEl8Hd0VZVEhNZmHGOw.jpeg)
+![](../assets/ddae31d13c69/1*lxYmEl8Hd0VZVEhNZmHGOw.jpeg)
 
 
 
-![[P](https://www.facebook.com/irenuccia.di.stefano?__tn__=%2Cd%2AF%2AF-R&eid=ARAXws2XgxSFq-W2Gh2hl7IF2TSkb6X0raq3Mc19lhDZ5X3erjQNyWau1eEEwJ9xL1DJPjbDa2UDF6nh&tn-str=%2AF) alermo \(Photo by [Irene di Stefano](https://www.facebook.com/irenuccia.di.stefano?__tn__=%2Cd%2AF%2AF-R&eid=ARAXws2XgxSFq-W2Gh2hl7IF2TSkb6X0raq3Mc19lhDZ5X3erjQNyWau1eEEwJ9xL1DJPjbDa2UDF6nh&tn-str=%2AF) \)](assets/ddae31d13c69/1*egEUCIz4YbaZt289S0y2Qw.jpeg)
+![[P](https://www.facebook.com/irenuccia.di.stefano?__tn__=%2Cd%2AF%2AF-R&eid=ARAXws2XgxSFq-W2Gh2hl7IF2TSkb6X0raq3Mc19lhDZ5X3erjQNyWau1eEEwJ9xL1DJPjbDa2UDF6nh&tn-str=%2AF) alermo \(Photo by [Irene di Stefano](https://www.facebook.com/irenuccia.di.stefano?__tn__=%2Cd%2AF%2AF-R&eid=ARAXws2XgxSFq-W2Gh2hl7IF2TSkb6X0raq3Mc19lhDZ5X3erjQNyWau1eEEwJ9xL1DJPjbDa2UDF6nh&tn-str=%2AF) \)](../assets/ddae31d13c69/1*egEUCIz4YbaZt289S0y2Qw.jpeg)
 
 [P](https://www.facebook.com/irenuccia.di.stefano?__tn__=%2Cd%2AF%2AF-R&eid=ARAXws2XgxSFq-W2Gh2hl7IF2TSkb6X0raq3Mc19lhDZ5X3erjQNyWau1eEEwJ9xL1DJPjbDa2UDF6nh&tn-str=%2AF) alermo \(Photo by [Irene di Stefano](https://www.facebook.com/irenuccia.di.stefano?__tn__=%2Cd%2AF%2AF-R&eid=ARAXws2XgxSFq-W2Gh2hl7IF2TSkb6X0raq3Mc19lhDZ5X3erjQNyWau1eEEwJ9xL1DJPjbDa2UDF6nh&tn-str=%2AF) \)
 
@@ -276,7 +276,7 @@ BOSNIA AND HERZEGOVINA
 As we have reported many times, Bosnian police keep stopping people trying to access the border area of Bihac, and forcing them to go back to Sarajevo\. Internal push backs are against the law, but it has become an everyday practice in the last few months\.
 
 
-![Velecevo, Bosnia and Herzegovina \(Photo by [Crveni Križ Općine Ključ](https://www.facebook.com/profile.php?id=100009318317491&__tn__=%2Cd%2AF%2AF-R&eid=ARCqI361DeiNvR3oVpYDbmw-ty4RLB71eA5zjf-q40EkJXWD1Bz-tDVxqGL2k-fRz-y_prAlD2UZfY5H&tn-str=%2AF) \)](assets/ddae31d13c69/1*cQH7-AbLfDY4I_PZtIbgKA.jpeg)
+![Velecevo, Bosnia and Herzegovina \(Photo by [Crveni Križ Općine Ključ](https://www.facebook.com/profile.php?id=100009318317491&__tn__=%2Cd%2AF%2AF-R&eid=ARCqI361DeiNvR3oVpYDbmw-ty4RLB71eA5zjf-q40EkJXWD1Bz-tDVxqGL2k-fRz-y_prAlD2UZfY5H&tn-str=%2AF) \)](../assets/ddae31d13c69/1*cQH7-AbLfDY4I_PZtIbgKA.jpeg)
 
 Velecevo, Bosnia and Herzegovina \(Photo by [Crveni Križ Općine Ključ](https://www.facebook.com/profile.php?id=100009318317491&__tn__=%2Cd%2AF%2AF-R&eid=ARCqI361DeiNvR3oVpYDbmw-ty4RLB71eA5zjf-q40EkJXWD1Bz-tDVxqGL2k-fRz-y_prAlD2UZfY5H&tn-str=%2AF) \)
 
@@ -285,15 +285,15 @@ Velecevo, Bosnia and Herzegovina \(Photo by [Crveni Križ Općine Ključ](https:
 The temperature reached \-12\.5 C\.
 
 
-![](assets/ddae31d13c69/1*-m7jbaAFOAY0Z0ubZPEwTg.jpeg)
+![](../assets/ddae31d13c69/1*-m7jbaAFOAY0Z0ubZPEwTg.jpeg)
 
 
 
-![](assets/ddae31d13c69/1*slxK9uvV-8UfyGcEv4zJuw.jpeg)
+![](../assets/ddae31d13c69/1*slxK9uvV-8UfyGcEv4zJuw.jpeg)
 
 
 
-![Velecevo, Bosnia and Herzegovina \(photos by [Sanella Leprica](https://www.facebook.com/sanela.lepirica?__tn__=%2CdC-R-R&eid=ARAlFWrz3FuAx_V29x-cb7TxlDyHcKadUCtS2F8SiIv_zKSRbMwJEdY8HAjYvXaBsRSCLUsNUH1j2i2K&hc_ref=ARRweKFnybcCLmdfcMu9L0b0LkS76XmIcj5n4IaIy-N-mpB8ixveRmsmoQZPhwE6MgA&fref=nf) \)](assets/ddae31d13c69/1*XmfzRB3GIoyMwT_yYnif8A.jpeg)
+![Velecevo, Bosnia and Herzegovina \(photos by [Sanella Leprica](https://www.facebook.com/sanela.lepirica?__tn__=%2CdC-R-R&eid=ARAlFWrz3FuAx_V29x-cb7TxlDyHcKadUCtS2F8SiIv_zKSRbMwJEdY8HAjYvXaBsRSCLUsNUH1j2i2K&hc_ref=ARRweKFnybcCLmdfcMu9L0b0LkS76XmIcj5n4IaIy-N-mpB8ixveRmsmoQZPhwE6MgA&fref=nf) \)](../assets/ddae31d13c69/1*XmfzRB3GIoyMwT_yYnif8A.jpeg)
 
 Velecevo, Bosnia and Herzegovina \(photos by [Sanella Leprica](https://www.facebook.com/sanela.lepirica?__tn__=%2CdC-R-R&eid=ARAlFWrz3FuAx_V29x-cb7TxlDyHcKadUCtS2F8SiIv_zKSRbMwJEdY8HAjYvXaBsRSCLUsNUH1j2i2K&hc_ref=ARRweKFnybcCLmdfcMu9L0b0LkS76XmIcj5n4IaIy-N-mpB8ixveRmsmoQZPhwE6MgA&fref=nf) \)
 

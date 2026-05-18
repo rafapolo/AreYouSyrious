@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 26/7/19: With each death, the soul of Europe dies a bit more
+title: "AYS Daily Digest 26/7/19: With each death, the soul of Europe dies a bit more"
 author: Are You Syrious?
 date: 2019-07-27T11:57:52.440+0100
 last_modified_at: 2019-07-27T13:27:07.616+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,deportations,libya]
 description: Reactions and UN statement on the shipwreck off the coast of Khoms / International indifference at the attacks in Syria / Sweden ignores…
 image:
-  path: assets/2136848d9cec/0*dn8-zbhVpSlx4-Zv
+  path: ../assets/2136848d9cec/0*dn8-zbhVpSlx4-Zv
 ---
 
 ### AYS Daily Digest 26/7/19: With each death, the soul of Europe dies a bit more
 #### Reactions and UN statement on the shipwreck off the coast of Khoms / International indifference to the attacks in Syria / Sweden ignores its responsibility over the deaths in the Mediterranean as a EU member state / deportation warnings / & more news
 
 
-![Detainees in Zintan dc say the centre’s manager has threatened to kick them out in ten days if UNHCR doesn’t evacuate or relocate them\. They’re weak & sick & far from any aid\. — Photo and report from Sally Hayden](assets/2136848d9cec/0*dn8-zbhVpSlx4-Zv)
+![Detainees in Zintan dc say the centre’s manager has threatened to kick them out in ten days if UNHCR doesn’t evacuate or relocate them\. They’re weak & sick & far from any aid\. — Photo and report from Sally Hayden](../assets/2136848d9cec/0*dn8-zbhVpSlx4-Zv)
 
 Detainees in Zintan dc say the centre’s manager has threatened to kick them out in ten days if UNHCR doesn’t evacuate or relocate them\. They’re weak & sick & far from any aid\. — Photo and report from Sally Hayden
 #### FEATURED
@@ -34,7 +34,7 @@ In **Libya** , following the worst Mediterranean tragedy of this year, it should
 The Humanitarian Actors, as the UN calls them, also call for the end of detention of refugees and migrants after being intercepted at sea and forcibly returned to Libya where they are subjected to abuse and ill\-treatment\.
 
 
-![](assets/2136848d9cec/1*AmVciGn2SU4sb7tz9cXNwg.jpeg)
+![](../assets/2136848d9cec/1*AmVciGn2SU4sb7tz9cXNwg.jpeg)
 
 
 As stated today by the Secretary\-General, “Libya is not a safe country of asylum \(…\) refugees must be treated with dignity and respect, and in accordance with international law\.”

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 13/05/2021: Somali father sentenced to 146 years in prison for trying to save…
+title: "AYS Daily Digest 13/05/2021: Somali father sentenced to 146 years in prison for trying to save…"
 author: Are You Syrious?
 date: 2021-05-14T14:00:04.437+0100
 last_modified_at: 2021-05-14T18:39:54.959+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,migration,search-and-rescue,greece]
 description: MSF returns to Central Med // Shipwrecks and returns to Libya // Greek petition to build schools — not walls // Great success story in…
 image:
-  path: assets/a02013048365/1*s94vlT6pFdYEsCb6PlLJ8Q.jpeg
+  path: ../assets/a02013048365/1*s94vlT6pFdYEsCb6PlLJ8Q.jpeg
 ---
 
 ### AYS Daily Digest 13/05/2021: Somali father sentenced to 146 years in prison for trying to save dozens of lives off Lesvos
@@ -15,7 +15,7 @@ image:
 ### FEATURE — The price of saving lives? Two lifetimes in prison
 
 
-![Photo: Borderline Europe](assets/a02013048365/1*s94vlT6pFdYEsCb6PlLJ8Q.jpeg)
+![Photo: Borderline Europe](../assets/a02013048365/1*s94vlT6pFdYEsCb6PlLJ8Q.jpeg)
 
 Photo: Borderline Europe
 

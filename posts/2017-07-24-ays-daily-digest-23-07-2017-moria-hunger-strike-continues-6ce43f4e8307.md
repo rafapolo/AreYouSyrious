@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 23/07/17: Moria Hunger Strike continues
+title: "AYS Daily Digest 23/07/17: Moria Hunger Strike continues"
 author: Are You Syrious?
 date: 2017-07-24T09:11:31.339+0100
 last_modified_at: 2017-08-29T17:47:26.485+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,moria,hunger-strike,hampay,sweden]
 description: Hunger strike in its 26th day / Activist joined the strike and calling other to do the same / #freedomstrikelesvos / Donations needed in…
 image:
-  path: assets/6ce43f4e8307/1*IHhGjzM6GmMQ7stIXWSb4Q.jpeg
+  path: ../assets/6ce43f4e8307/1*IHhGjzM6GmMQ7stIXWSb4Q.jpeg
 ---
 
 ### AYS Daily Digest 23/07/17: Moria Hunger Strike continues
@@ -15,7 +15,7 @@ image:
 _Hunger strike in its 26th day / Activist joined the strike and calling other to do the same /_ \#freedomstrikelesvos / _Donations needed in Calais / Police continues to harass volunteers / And more news…_
 
 
-![Arash and Amir Hampay, after Amir was released from prison\. Photo by Kini Von Teesdale](assets/6ce43f4e8307/1*IHhGjzM6GmMQ7stIXWSb4Q.jpeg)
+![Arash and Amir Hampay, after Amir was released from prison\. Photo by Kini Von Teesdale](../assets/6ce43f4e8307/1*IHhGjzM6GmMQ7stIXWSb4Q.jpeg)
 
 Arash and Amir Hampay, after Amir was released from prison\. Photo by Kini Von Teesdale
 ### Feature
@@ -51,7 +51,7 @@ A volunteer says that on Saturday, people tried to communicate with refugees ins
 Petrou Ralli is a detention centre in southern Athens for refugees whose temporary stay papers have expired and is “infamous for its brutality towards refugees”\.
 
 
-![[Original source](https://allilegioikratoumenonstanotia.wordpress.com/2017/01/22/paremvasi_petrou_ralli_20-01-2017/)](assets/6ce43f4e8307/1*mssqWzLqNHcPnnOXt1VVhw.png)
+![[Original source](https://allilegioikratoumenonstanotia.wordpress.com/2017/01/22/paremvasi_petrou_ralli_20-01-2017/)](../assets/6ce43f4e8307/1*mssqWzLqNHcPnnOXt1VVhw.png)
 
 [Original source](https://allilegioikratoumenonstanotia.wordpress.com/2017/01/22/paremvasi_petrou_ralli_20-01-2017/)
 #### France
@@ -62,7 +62,7 @@ Petrou Ralli is a detention centre in southern Athens for refugees whose tempora
 [Donations](https://mydonate.bt.com/events/kitchenbuildappeal/443692) are therefore needed to the build the new kitchen build and buy food donations\. Chefs and volunteers are also needed\.
 
 
-![Photo by Paula Gallardo‎](assets/6ce43f4e8307/1*GEInmbL4-tuOIeV_KdWXWw.png)
+![Photo by Paula Gallardo‎](../assets/6ce43f4e8307/1*GEInmbL4-tuOIeV_KdWXWw.png)
 
 Photo by Paula Gallardo‎
 
@@ -73,7 +73,7 @@ The group adds that an estimated 200 unaccompanied minors and 400 adults are sti
 If you can bring any donations, please email [calaisdonations@gmail\.com](mailto:calaisdonations@gmail.com) or buy supplies delivered straight to the warehouse [here](https://www.leisurefayre.com/section.php/86100/1/help_refugees) \.
 
 
-![Photo by Help Refugees](assets/6ce43f4e8307/1*d4ZFt1249nHdJIKxUT6Ueg.png)
+![Photo by Help Refugees](../assets/6ce43f4e8307/1*d4ZFt1249nHdJIKxUT6Ueg.png)
 
 Photo by Help Refugees
 ### Police continues to harass volunteers
@@ -81,7 +81,7 @@ Photo by Help Refugees
 A volunteer says police again prevented food distributions on Sunday\. [Franceinfo](http://www.francetvinfo.fr/monde/europe/migrants/c-est-de-l-abus-de-pouvoir-a-calais-les-benevoles-en-colere-face-aux-pressions-policieres_2294047.html) reports that the situation is deteriorating in Calais, with police spraying teargas inside a van on two separate occasions while another volunteer says he was hit in the head\. Volunteers continue to receive orders to stop distributions, without any legal justification, and police continues to look for any possible reason to fine them\.
 
 
-![Photo by “ [Loup Blaster](https://pbs.twimg.com/media/DFb7HSsXUAAr2Zl.jpg) ”](assets/6ce43f4e8307/1*ifmt45vZcXwLl33ILJ8r1A.png)
+![Photo by “ [Loup Blaster](https://pbs.twimg.com/media/DFb7HSsXUAAr2Zl.jpg) ”](../assets/6ce43f4e8307/1*ifmt45vZcXwLl33ILJ8r1A.png)
 
 Photo by “ [Loup Blaster](https://pbs.twimg.com/media/DFb7HSsXUAAr2Zl.jpg) ”
 ### Defender of Rights calls for creation of refugee centres
@@ -89,7 +89,7 @@ Photo by “ [Loup Blaster](https://pbs.twimg.com/media/DFb7HSsXUAAr2Zl.jpg) ”
 Around 450–500 people again sleep around Porte de la Chapelle, including some families with small children\. [_Le Monde_](http://abonnes.lemonde.fr/societe/article/2017/07/21/accueil-des-migrants-le-plan-du-gouvernement-ne-resout-rien-denonce-le-defenseur-des-droits_5163369_3224.html) reports France’s Defender of Rights, Jacques Toubon, has visited the area and argued the ‘government’s plan does not solve anything’, as it should have ‘suggested the creation of five to 10 refugee centres all over France to prevent refugees from sleeping outside, to give them food and respond to their health issues’\.
 
 
-![Photo by Kevin](assets/6ce43f4e8307/1*OYVHQWDPiN7LYbo_1AoJGA.png)
+![Photo by Kevin](../assets/6ce43f4e8307/1*OYVHQWDPiN7LYbo_1AoJGA.png)
 
 Photo by Kevin
 #### Sea

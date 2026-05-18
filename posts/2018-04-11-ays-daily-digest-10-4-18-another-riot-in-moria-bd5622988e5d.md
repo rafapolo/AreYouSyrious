@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 10/4/18: Another riot in Moria
+title: "AYS Daily Digest 10/4/18: Another riot in Moria"
 author: Are You Syrious?
 date: 2018-04-11T00:34:27.130+0100
 last_modified_at: 2018-04-11T00:34:27.130+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,moria,moria-35]
 description: New fights erupt, as the Lesvos hotspot gets more and more overcrowded / Trial of the Moria 35 begins soon / Aftermaths of a xenophobic…
 image:
-  path: assets/bd5622988e5d/1*Sqj8x3lTVmfDUikUP3BxDw.jpeg
+  path: ../assets/bd5622988e5d/1*Sqj8x3lTVmfDUikUP3BxDw.jpeg
 ---
 
 ### AYS Daily Digest 10/4/18: Another riot in Moria
 #### New fights erupt, as the Lesvos hotspot gets more and more overcrowded / Trial of the Moria 35 begins soon / Aftermaths of a xenophobic attack in Serbia / Three people rescued in a river in Croatia / Bad conditions for vulnerable groups in Dutch reception centres / New deportations from Denmark
 
 
-![The situation on the Greek islands gets more tense\. Credits: [NoBorders/Arash Hampay](https://www.facebook.com/nobordersnetwork/photos/a.660787423989153.1073741828.657905327610696/1713093958758489/?type=3&theater)](assets/bd5622988e5d/1*Sqj8x3lTVmfDUikUP3BxDw.jpeg)
+![The situation on the Greek islands gets more tense\. Credits: [NoBorders/Arash Hampay](https://www.facebook.com/nobordersnetwork/photos/a.660787423989153.1073741828.657905327610696/1713093958758489/?type=3&theater)](../assets/bd5622988e5d/1*Sqj8x3lTVmfDUikUP3BxDw.jpeg)
 
 The situation on the Greek islands gets more tense\. Credits: [NoBorders/Arash Hampay](https://www.facebook.com/nobordersnetwork/photos/a.660787423989153.1073741828.657905327610696/1713093958758489/?type=3&theater)
 ### Riot in Moria
@@ -43,7 +43,7 @@ The Women and Health Alliance [reports](https://www.facebook.com/wahainternation
 #### Solidarity with the Moria 35
 
 
-![Credits: [Lesvos Solidarity — Pikpa](https://www.facebook.com/pikpalesvos/photos/pcb.2066728616935892/2066727736935980/?type=3&theater)](assets/bd5622988e5d/1*0LaGpI7-n4D_gZyTJaDFWg.jpeg)
+![Credits: [Lesvos Solidarity — Pikpa](https://www.facebook.com/pikpalesvos/photos/pcb.2066728616935892/2066727736935980/?type=3&theater)](../assets/bd5622988e5d/1*0LaGpI7-n4D_gZyTJaDFWg.jpeg)
 
 Credits: [Lesvos Solidarity — Pikpa](https://www.facebook.com/pikpalesvos/photos/pcb.2066728616935892/2066727736935980/?type=3&theater)
 
@@ -64,7 +64,7 @@ Dental health care is a tough topic, especially in dire conditions like in Moria
 But luckily, there is not only pain, frustration and discrimination on the islands — mostly thanks to volunteer efforts\. The Flying Seagull Project [came](https://www.facebook.com/samosvolunteers/posts/958527444325416) a second time to Samos to entertain the children and draw some smiles in their faces\.
 
 
-![Entertainment for the kids on Samos\. Credits: [Samos Volunteers](https://www.facebook.com/samosvolunteers/photos/pcb.958527444325416/958534424324718/?type=3&theater)](assets/bd5622988e5d/1*lyk9NyVSuTmVVu-Padyvsw.jpeg)
+![Entertainment for the kids on Samos\. Credits: [Samos Volunteers](https://www.facebook.com/samosvolunteers/photos/pcb.958527444325416/958534424324718/?type=3&theater)](../assets/bd5622988e5d/1*lyk9NyVSuTmVVu-Padyvsw.jpeg)
 
 Entertainment for the kids on Samos\. Credits: [Samos Volunteers](https://www.facebook.com/samosvolunteers/photos/pcb.958527444325416/958534424324718/?type=3&theater)
 
@@ -80,7 +80,7 @@ Escuela Con Alma reports, that in the end of March a xenophobic attack on a grou
 Volunteers of the [Refugees Foundation Serbia](https://www.facebook.com/izbegliceusrbiji/posts/2125423214135311) used the last day of the spring holydays, to hike in the mountains with residents of a camp close to Belgrade: “For one day they were able to forget their worries, and that they live in the camp for far too long now\. Spending day in nature, hiking, volleyball, card games, and eating on the grass field brought smiles to the faces of our friends and warmth to our heart\.”
 
 
-![Forgetting the everyday worries in the nature\. Credits: [Refugees Foundation Serbia](https://www.facebook.com/izbegliceusrbiji/)](assets/bd5622988e5d/1*kyMijsN7tc0YZqhwBdmlVw.jpeg)
+![Forgetting the everyday worries in the nature\. Credits: [Refugees Foundation Serbia](https://www.facebook.com/izbegliceusrbiji/)](../assets/bd5622988e5d/1*kyMijsN7tc0YZqhwBdmlVw.jpeg)
 
 Forgetting the everyday worries in the nature\. Credits: [Refugees Foundation Serbia](https://www.facebook.com/izbegliceusrbiji/)
 ### Croatia
@@ -88,11 +88,11 @@ Forgetting the everyday worries in the nature\. Credits: [Refugees Foundation Se
 Three refugees got serously injured when jumping in the river Mrežnica near Generalski stol on Monday\. According to [Vecernji](https://www.vecernji.hr/vijesti/trojica-migranata-skocili-s-mosta-i-tesko-se-ozlijedili-1238152) , they were probably running away from police officers\. The three people were hospitalized in Karlovac and Ogulin\. One of them was in life danger, the two others have serious injuries as well\. The police said, it will give a report about the incident today\.
 
 
-![](assets/bd5622988e5d/1*EKubb7dmSylQvup4LViF7w.jpeg)
+![](../assets/bd5622988e5d/1*EKubb7dmSylQvup4LViF7w.jpeg)
 
 
 
-![HGSS Karlovac rescued the three people\. Credits: [HGSS Karlovac](https://www.facebook.com/HrvatskaGSSKarlovac/posts/1852188461740769)](assets/bd5622988e5d/1*onSkY96Tee2LJvQrb60v0A.jpeg)
+![HGSS Karlovac rescued the three people\. Credits: [HGSS Karlovac](https://www.facebook.com/HrvatskaGSSKarlovac/posts/1852188461740769)](../assets/bd5622988e5d/1*onSkY96Tee2LJvQrb60v0A.jpeg)
 
 HGSS Karlovac rescued the three people\. Credits: [HGSS Karlovac](https://www.facebook.com/HrvatskaGSSKarlovac/posts/1852188461740769)
 ### Austria
@@ -109,7 +109,7 @@ Volunteers in Austria are [invited](https://www.facebook.com/RefugeesSpielfeld/p
 L’Auberge des Migrants faces logistic problems as two of their vans broke and another already had collapsed\. To buy a new van for their distributions, transfers and logistic operations, they are now calling for 15,000 Euro\. A donor already promised them 10,000 Euro, so they need additional 5,000 Euro funding\. So far, only 380 Euro have been raised\. If you want to contribute, check their [fundraiser](https://www.helloasso.com/associations/l-auberge-des-migrants/collectes/recherche-de-fonds-pour-les-vehicules-de-l-auberge) \.
 
 
-![L’Auberge des Migrants needs a new van\. Credits: [L’Auberge des Migrants](https://www.facebook.com/AubergeMigrants/)](assets/bd5622988e5d/1*te3xgqkIIxhY-yCv0FgjYA.jpeg)
+![L’Auberge des Migrants needs a new van\. Credits: [L’Auberge des Migrants](https://www.facebook.com/AubergeMigrants/)](../assets/bd5622988e5d/1*te3xgqkIIxhY-yCv0FgjYA.jpeg)
 
 L’Auberge des Migrants needs a new van\. Credits: [L’Auberge des Migrants](https://www.facebook.com/AubergeMigrants/)
 

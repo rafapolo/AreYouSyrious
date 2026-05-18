@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 31/10/19: Ventimiglia, illegal pushbacks as a daily reality at the French-Italian…
+title: "AYS Daily Digest 31/10/19: Ventimiglia, illegal pushbacks as a daily reality at the French-Italian…"
 author: Are You Syrious?
 date: 2019-11-01T02:56:14.441+0000
 last_modified_at: 2019-11-01T13:10:20.084+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,france,greece,italy,digest]
 description: Body of a dead man recovered in Turkey//Horrible testimonies of abuses from the people on board of the Ocean Viking//Field workers…
 image:
-  path: assets/dc56fbbf90e5/1*7fHgGjgc3g_4rWpK6plE2A.jpeg
+  path: ../assets/dc56fbbf90e5/1*7fHgGjgc3g_4rWpK6plE2A.jpeg
 ---
 
 ### AYS Daily Digest 31/10/19: Ventimiglia, illegal pushbacks as a daily reality at the French\-Italian border
@@ -15,7 +15,7 @@ image:
 Body of a dead man recovered in Turkey//Horrible testimonies of abuses from the people on board of the Ocean Viking//Field workers abandoned by authorities in Southern Italy//More arrivals to Eastern Italy from the Balkan route…
 
 
-![Credit: Progetto 20K\.](assets/dc56fbbf90e5/1*7fHgGjgc3g_4rWpK6plE2A.jpeg)
+![Credit: Progetto 20K\.](../assets/dc56fbbf90e5/1*7fHgGjgc3g_4rWpK6plE2A.jpeg)
 
 Credit: Progetto 20K\.
 #### FEATURED
@@ -114,7 +114,7 @@ At the beginning of the week, 25 more people were taken to other reception centr
 #### BOSNIA AND HERZEGOVINA
 
 
-![Photo by Angélica Sánchez](assets/dc56fbbf90e5/1*E7rK3j_um_7Y3MRJ8m6QMg.jpeg)
+![Photo by Angélica Sánchez](../assets/dc56fbbf90e5/1*E7rK3j_um_7Y3MRJ8m6QMg.jpeg)
 
 Photo by Angélica Sánchez
 

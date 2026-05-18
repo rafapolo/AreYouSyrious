@@ -7,7 +7,7 @@ categories:
 tags: [refugees,italy,syria,greece,serbia]
 description: Civilian casualties in Syria /// Heavy rain endangers lives in camps and towns in Greece /// Data on deportations in Italy and Greece ///…
 image:
-  path: assets/ccc1ffe285ff/1*aLrbK7LhlDvZXTiOAz7FbA.png
+  path: ../assets/ccc1ffe285ff/1*aLrbK7LhlDvZXTiOAz7FbA.png
 ---
 
 ### AYS Digest 17/11/2017 **The march for dignity wins in Venice**
@@ -15,7 +15,7 @@ image:
 _Civilian casualties in Syria /// Heavy rain endangers lives in camps and towns in Greece /// Data on deportations in Italy and Greece /// Demonstration at Libyan embassy in Paris tomorrow /// Increasing controls at the Austrian/Italian border /// We are here squat evicted in The Netherlands_
 
 
-![\(Photo by Lesvos solidarity — Pikpa\)](assets/ccc1ffe285ff/1*aLrbK7LhlDvZXTiOAz7FbA.png)
+![\(Photo by Lesvos solidarity — Pikpa\)](../assets/ccc1ffe285ff/1*aLrbK7LhlDvZXTiOAz7FbA.png)
 
 \(Photo by Lesvos solidarity — Pikpa\)
 #### **Feature: The march for dignity wins in Venice**
@@ -23,15 +23,15 @@ _Civilian casualties in Syria /// Heavy rain endangers lives in camps and towns 
 As reported in the last two digests \( [15/11](https://medium.com/@AreYouSyrious/ays-daily-digest-15-11-2017-2-years-of-eu-achievements-4833322e7505?source=user_profile---------2----------------) , [16/11](ays-daily-digest-16-11-17-eu-defending-an-outrage-to-the-conscience-of-humanity-3c178b8d9fc4) \), and widely covered by [Progetto Melting Pot Europa](http://www.meltingpot.org/) , refugees hosted in the notorious reception centre in Cona \(in the Veneto region, north\-eastern Italy\) started marching on Tuesday to reach Venice\.
 
 
-![](assets/ccc1ffe285ff/1*TbSN5S-4Q7dnpe9tZKziHQ.jpeg)
+![](../assets/ccc1ffe285ff/1*TbSN5S-4Q7dnpe9tZKziHQ.jpeg)
 
 
 
-![](assets/ccc1ffe285ff/1*SqCbRxJhqV4TMMyRsPlCnA.jpeg)
+![](../assets/ccc1ffe285ff/1*SqCbRxJhqV4TMMyRsPlCnA.jpeg)
 
 
 
-![[Melting Pot Europa](http://www.meltingpot.org/La-marcia-per-la-dignita-e-i-diritti-un-racconto-per.html?var_mode=calcul) \(Photos by Carmen Sabello\)](assets/ccc1ffe285ff/1*sLlWL8wS4YGj7MVIz9pwxQ.jpeg)
+![[Melting Pot Europa](http://www.meltingpot.org/La-marcia-per-la-dignita-e-i-diritti-un-racconto-per.html?var_mode=calcul) \(Photos by Carmen Sabello\)](../assets/ccc1ffe285ff/1*sLlWL8wS4YGj7MVIz9pwxQ.jpeg)
 
 [Melting Pot Europa](http://www.meltingpot.org/La-marcia-per-la-dignita-e-i-diritti-un-racconto-per.html?var_mode=calcul) \(Photos by Carmen Sabello\)
 
@@ -46,11 +46,11 @@ After a first meeting with the Prefect on Wednesday, and two intense days last n
 Today their demands were met: they have all been transferred in groups of thirty people to different centres in the region, and 67 of them will stay in the area of Venice\.
 
 
-![](assets/ccc1ffe285ff/1*2Hn4j37S936hXX1YLbLcOA.jpeg)
+![](../assets/ccc1ffe285ff/1*2Hn4j37S936hXX1YLbLcOA.jpeg)
 
 
 
-![[Melting Pot Europa](http://www.meltingpot.org/Richiedenti-asilo-di-Cona-trasferiti-nei-centri-d.html)](assets/ccc1ffe285ff/1*QitK3vKSlRlaafNI8yHlVw.jpeg)
+![[Melting Pot Europa](http://www.meltingpot.org/Richiedenti-asilo-di-Cona-trasferiti-nei-centri-d.html)](../assets/ccc1ffe285ff/1*QitK3vKSlRlaafNI8yHlVw.jpeg)
 
 [Melting Pot Europa](http://www.meltingpot.org/Richiedenti-asilo-di-Cona-trasferiti-nei-centri-d.html)
 
@@ -126,7 +126,7 @@ Deportations for other dates:
 #### 30th day of the protest in Sappho Square
 
 
-![[1951RefugeeConvention](https://web.facebook.com/1951RefugeeConvention/)](assets/ccc1ffe285ff/1*nfXATzxaJR5WhbqxbZ1nvw.jpeg)
+![[1951RefugeeConvention](https://web.facebook.com/1951RefugeeConvention/)](../assets/ccc1ffe285ff/1*nfXATzxaJR5WhbqxbZ1nvw.jpeg)
 
 [1951RefugeeConvention](https://web.facebook.com/1951RefugeeConvention/)
 
@@ -164,7 +164,7 @@ All the members of the hunger strike have lost significant amounts of weight and
 
 
 
-![Contact [Theurgia\_Goetia](https://twitter.com/Theurgia_Goetia) on Twitter](assets/ccc1ffe285ff/1*yN-OqXdldsRqzkIezrIvDA.jpeg)
+![Contact [Theurgia\_Goetia](https://twitter.com/Theurgia_Goetia) on Twitter](../assets/ccc1ffe285ff/1*yN-OqXdldsRqzkIezrIvDA.jpeg)
 
 Contact [Theurgia\_Goetia](https://twitter.com/Theurgia_Goetia) on Twitter
 
@@ -219,7 +219,7 @@ Contact [Theurgia\_Goetia](https://twitter.com/Theurgia_Goetia) on Twitter
 **Co\-ordinator needed**
 
 
-![](assets/ccc1ffe285ff/1*hqxIcKBjftW4ldrHBr7MOg.jpeg)
+![](../assets/ccc1ffe285ff/1*hqxIcKBjftW4ldrHBr7MOg.jpeg)
 
 
 Bê Sînor, Sinatex Cultural Centre, work to provide education and cultural activities for Sinatex Camp\. They are looking for a long term co\-ordinator for approximately 4 months in Northern Greece\. More info on the role and how to apply [here](https://web.facebook.com/besinor/posts/368054250307059?hc_location=ufi) \.
@@ -254,11 +254,11 @@ An Austrian delegation from Bauren Helfen Bauern came today to visit refugees in
 **Serbia**
 
 
-![](assets/ccc1ffe285ff/1*1obIDiFLBl3r1kUSzq757Q.jpeg)
+![](../assets/ccc1ffe285ff/1*1obIDiFLBl3r1kUSzq757Q.jpeg)
 
 
 
-![No Name Kitchen](assets/ccc1ffe285ff/1*RsKV4wVDoguaQmRIjaR8pg.jpeg)
+![No Name Kitchen](../assets/ccc1ffe285ff/1*RsKV4wVDoguaQmRIjaR8pg.jpeg)
 
 No Name Kitchen
 
@@ -284,7 +284,7 @@ Collection in Graz for Gorizia
 The [Collectif pour un Nation Refuge](http://www.c-n-r.org/) \(CNR\) published a short movie “Refugiés” as part of their campaign [RESPECTS](http://www.c-n-r.org/le-manifeste-respects/manifesto/) , to raise awareness of the abuse of people in Europe\.
 
 
-[!["Refugiés" de Matthieu Tribes](assets/ccc1ffe285ff/3dc3_hqdefault.jpg ""Refugiés" de Matthieu Tribes")](http://www.youtube.com/watch?v=_7Oe5S2-CDw)
+[!["Refugiés" de Matthieu Tribes](../assets/ccc1ffe285ff/3dc3_hqdefault.jpg ""Refugiés" de Matthieu Tribes")](http://www.youtube.com/watch?v=_7Oe5S2-CDw)
 
 
 
@@ -358,16 +358,16 @@ The [Collectif contre l’Esclavage et les Camps de Concentration En Libye](http
 #### Dismantling of Blida camp in Metz
 
 
-![\#30HeuresDunDémantèlement \(Photo by [Mazou DeMetz](https://web.facebook.com/mazou.demetz?fref=gs&hc_location=group_dialog) \)](assets/ccc1ffe285ff/1*99a0rAp-5QNMwBUsb1o6EQ.jpeg)
+![\#30HeuresDunDémantèlement \(Photo by [Mazou DeMetz](https://web.facebook.com/mazou.demetz?fref=gs&hc_location=group_dialog) \)](../assets/ccc1ffe285ff/1*99a0rAp-5QNMwBUsb1o6EQ.jpeg)
 
 \#30HeuresDunDémantèlement \(Photo by [Mazou DeMetz](https://web.facebook.com/mazou.demetz?fref=gs&hc_location=group_dialog) \)
 
 
-![](assets/ccc1ffe285ff/1*UzRn0ffPn2ONiSOjI0BGdg.jpeg)
+![](../assets/ccc1ffe285ff/1*UzRn0ffPn2ONiSOjI0BGdg.jpeg)
 
 
 
-![\#30HeuresDunDémantèlement \(Photos by Mazou DeMetz\)](assets/ccc1ffe285ff/1*BRYd6heYetwyBNwE3LEI7A.jpeg)
+![\#30HeuresDunDémantèlement \(Photos by Mazou DeMetz\)](../assets/ccc1ffe285ff/1*BRYd6heYetwyBNwE3LEI7A.jpeg)
 
 \#30HeuresDunDémantèlement \(Photos by Mazou DeMetz\)
 

@@ -1,13 +1,13 @@
 ---
-title: AYS News Digest 4/8: Europe Let Me Down.
+title: "AYS News Digest 4/8: Europe Let Me Down."
 author: Are You Syrious?
 date: 2016-08-04T21:59:39.687+0100
 last_modified_at: 2016-08-05T10:42:14.213+0100
 categories: 
 tags: [refugees,europe]
-description: The EU and US reject UN refugee resettlement plan. Syrian doctor to NPR: Don’t forget Madaya. New Skype schedule in Greece. Small fire near…
+description: "The EU and US reject UN refugee resettlement plan. Syrian doctor to NPR: Don’t forget Madaya. New Skype schedule in Greece. Small fire near…"
 image:
-  path: assets/ee5ad77a2725/1*XvAMcXMIbDhNu-Y33Vlg1w.jpeg
+  path: ../assets/ee5ad77a2725/1*XvAMcXMIbDhNu-Y33Vlg1w.jpeg
 ---
 
 ### AYS News Digest 4/8: Europe Let Me Down\.
@@ -15,7 +15,7 @@ image:
 _The EU and US reject UN refugee resettlement plan\. Syrian doctor to NPR: Don’t forget Madaya\. New Skype schedule in Greece\. Small fire near Sindos mostly contained\. Syrian cat\-lover and rescuer nominated for Nobel Peace Prize\. Refugee parents forced to offer their children grass to eat in Austria\. Children’s Learning Center to be closed in Calais\._
 
 
-![Photo Credit: Nima Yaghmaei Photography](assets/ee5ad77a2725/1*XvAMcXMIbDhNu-Y33Vlg1w.jpeg)
+![Photo Credit: Nima Yaghmaei Photography](../assets/ee5ad77a2725/1*XvAMcXMIbDhNu-Y33Vlg1w.jpeg)
 
 Photo Credit: Nima Yaghmaei Photography
 ### _SYRIA_
@@ -26,7 +26,7 @@ In an interview on NPR, Syrian American Medical Society’s Ammar Ghanem revisit
 Meanwhile, as the struggle to break the government siege on Aleppo continues, the government forces continue to gain ground\. Despite UN calls for hope in Syria, it is clear that the situation for civilians will remain dire\.
 
 
-![Photo Credit Nima Yaghmaei Photography](assets/ee5ad77a2725/1*1zx69zgqIbc7_CaunpTSeQ.jpeg)
+![Photo Credit Nima Yaghmaei Photography](../assets/ee5ad77a2725/1*1zx69zgqIbc7_CaunpTSeQ.jpeg)
 
 Photo Credit Nima Yaghmaei Photography
 ### GENERAL
@@ -93,7 +93,7 @@ There is an ongoing effort to provide support to Yezidi refugees who routinely f
 Residents in Valisika camp collected over 200 liters of water for those in Softex after hearing word [that those in Softex were out of water](https://twitter.com/LaAnaIn) \. This story is a powerful reminder of the strength of those seeking asylum in Europe and the superiority of movements that celebrate and center this strength\.
 
 
-![Photo Credit: Nima Yaghmaei Photography](assets/ee5ad77a2725/1*x4dqYRTiGhQ4anX1Ja92Wg.jpeg)
+![Photo Credit: Nima Yaghmaei Photography](../assets/ee5ad77a2725/1*x4dqYRTiGhQ4anX1Ja92Wg.jpeg)
 
 Photo Credit: Nima Yaghmaei Photography
 ### SERBIA
@@ -101,11 +101,11 @@ Photo Credit: Nima Yaghmaei Photography
 ADRA Serbia has released a helpful series of info\-graphics for those transiting Serbia to refer to in order to preserve their safety and understand their options\. The infographics are available in multiple languages\. Below are those in English\. Follow [the link for the rest](https://www.facebook.com/ADRASerbia/photos/?tab=album&album_id=1834397953480899) \.
 
 
-![](assets/ee5ad77a2725/1*sKar0KP0wvaDfMgtw6SuYA.png)
+![](../assets/ee5ad77a2725/1*sKar0KP0wvaDfMgtw6SuYA.png)
 
 
 
-![Photo credit: ADRA Srbija](assets/ee5ad77a2725/1*p1KXKGx6iW1SAmgb1jKsGA.png)
+![Photo credit: ADRA Srbija](../assets/ee5ad77a2725/1*p1KXKGx6iW1SAmgb1jKsGA.png)
 
 Photo credit: ADRA Srbija
 
@@ -157,11 +157,11 @@ New initiatives to rescue people in the mediterranean\.
 As his application was forwarded by the relevant authorities, the facebook page [**Nobel Peace Prize to Alaa**](https://www.facebook.com/Nobel-Peace-Prize-to-Alaa-1170344739694440/) has been growing, reflecting on the heroism of the so\-called “Cat Man of Aleppo\.” Alaa has long been involved with the rescue efforts in Aleppo and also runs an animal shelter where he and a few others tend to the needs of over 130 cats and several dogs\. The largest support for his efforts comes from an Italian\-based social media campaign Il gattaro D’aleppo\.
 
 
-![](assets/ee5ad77a2725/1*HNa3bG1bEXI2DQVAwnuVRQ.jpeg)
+![](../assets/ee5ad77a2725/1*HNa3bG1bEXI2DQVAwnuVRQ.jpeg)
 
 
 
-![Photos courtesy of Il gattaro D’aleppo](assets/ee5ad77a2725/1*88f5S8Eauy1D1vGIA-xJZw.jpeg)
+![Photos courtesy of Il gattaro D’aleppo](../assets/ee5ad77a2725/1*88f5S8Eauy1D1vGIA-xJZw.jpeg)
 
 Photos courtesy of Il gattaro D’aleppo
 ### AUSTRIA
@@ -171,11 +171,11 @@ Aside from small\-scale volunteer efforts, many refugees in Austria have found t
 ### FRANCE
 
 
-![](assets/ee5ad77a2725/1*bPZPopbAPWnGVe3iJpSHwg.jpeg)
+![](../assets/ee5ad77a2725/1*bPZPopbAPWnGVe3iJpSHwg.jpeg)
 
 
 
-![Photos courtesy of Calais Action](assets/ee5ad77a2725/1*N7ESa8k7y8HAZIgsJV5Rew.jpeg)
+![Photos courtesy of Calais Action](../assets/ee5ad77a2725/1*N7ESa8k7y8HAZIgsJV5Rew.jpeg)
 
 Photos courtesy of Calais Action
 ### Children’s learning center in Calais may be closed according to Calais Action\.
@@ -183,11 +183,11 @@ Photos courtesy of Calais Action
 The Jungle Books Kids Cafe was stormed by police, recently, who informed the managers that all “businesses” inside of Calais will be required to close effective August 10th\. The closure is currently being contested, and those wishing to folow the story should follow the Calais Action page
 
 
-![](assets/ee5ad77a2725/1*E5TvvPFTbnmeX0XxfOr8Qw.jpeg)
+![](../assets/ee5ad77a2725/1*E5TvvPFTbnmeX0XxfOr8Qw.jpeg)
 
 
 
-![Photos courtesy of Danica Jurisic](assets/ee5ad77a2725/1*BIhOYpT7ZVxz7nY5BytVYg.jpeg)
+![Photos courtesy of Danica Jurisic](../assets/ee5ad77a2725/1*BIhOYpT7ZVxz7nY5BytVYg.jpeg)
 
 Photos courtesy of Danica Jurisic
 ### Horrific news as several refugee squats were evicted recently, with the total number of refugees being around 1000\.

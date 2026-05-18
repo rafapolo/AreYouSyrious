@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 19–20/06/2021: Rape and sexual violence in EU supported detention centres in…
+title: "AYS Weekend Digest 19–20/06/2021: Rape and sexual violence in EU supported detention centres in…"
 author: Are You Syrious?
 date: 2021-06-21T11:38:43.276+0100
 last_modified_at: 2021-06-21T13:33:44.383+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [europe,refugees,digest,world-refugee-day,libya]
 description: Handover of ‘Black Book on Pushbacks’ to Austrian Parliament // Rape and sexual violence in EU supported detention centres in Libya //…
 image:
-  path: assets/ae10acb65034/1*hoUcYxHQvkm9Iap9e1lZHQ.jpeg
+  path: ../assets/ae10acb65034/1*hoUcYxHQvkm9Iap9e1lZHQ.jpeg
 ---
 
 ### AYS Weekend Digest 19–20/06/2021: Rape and sexual violence in EU supported detention centres in Libya
 #### Handover of ‘Black Book on Pushbacks’ to Austrian Parliament // Rape and sexual violence in EU supported detention centres in Libya // Dismantling of rule of law and press freedom in Greece // Demonstration at the Croatian border // Updates on the fence at North Macedonian and Serbian border // 5th Frontex operation outside EU launched
 
 
-![Natalie Gruber and others raising awareness about Pushbacks in Vienna\. Copyright: Josoor](assets/ae10acb65034/1*hoUcYxHQvkm9Iap9e1lZHQ.jpeg)
+![Natalie Gruber and others raising awareness about Pushbacks in Vienna\. Copyright: Josoor](../assets/ae10acb65034/1*hoUcYxHQvkm9Iap9e1lZHQ.jpeg)
 
 Natalie Gruber and others raising awareness about Pushbacks in Vienna\. Copyright: Josoor
 
@@ -258,7 +258,7 @@ On Saturday, a group of human rights activists temporarily blocked Croatia’s b
 Members of the Serbian NGO KlikAktiv made a trip to the southern border areas with North\-Macedonia in order to see how the erecting of the border fence is going\. They were stopped by a Hungarian police car with both Hungarian and Serbian police inside\. According to a bilateral agreement from 2018, police forces of the two countries cooperate in the field of border enforcement\. The next day, the group managed to see the construction side of the border from a hill near Miratovac\.
 
 
-![The new border fence near Miratovac, Copyright: KlickAktiv](assets/ae10acb65034/1*7rSZNYU3Ttimt-7FEmp_Lw.jpeg)
+![The new border fence near Miratovac, Copyright: KlickAktiv](../assets/ae10acb65034/1*7rSZNYU3Ttimt-7FEmp_Lw.jpeg)
 
 The new border fence near Miratovac, Copyright: KlickAktiv
 
@@ -313,7 +313,7 @@ Solidarité Migrants Wilson, a Paris based NGO, started a bicycle repair worksho
 Solidarité Migrants Wilson is also looking for volunteers for their food distribution\. If interested, [please visit their call on facebook here](https://www.facebook.com/permalink.php?story_fbid=1748024425398322&id=598228360377940) \.
 
 
-![The new workshop\. Copyright: Solidarité Migrants Wilson](assets/ae10acb65034/1*VhPI0wVWe4ejShGqO3kH1g.jpeg)
+![The new workshop\. Copyright: Solidarité Migrants Wilson](../assets/ae10acb65034/1*VhPI0wVWe4ejShGqO3kH1g.jpeg)
 
 The new workshop\. Copyright: Solidarité Migrants Wilson
 ### Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.

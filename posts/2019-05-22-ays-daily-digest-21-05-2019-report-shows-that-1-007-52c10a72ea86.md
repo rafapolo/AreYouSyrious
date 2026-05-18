@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 21/05/2019: Report shows that 1.007
+title: "AYS Daily Digest 21/05/2019: Report shows that 1.007"
 author: Are You Syrious?
 date: 2019-05-22T10:22:53.527+0100
 last_modified_at: 2019-05-22T10:50:59.263+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,missing-children,children-rights]
 description: Four unconscious people found in a tanker in Serbia//Italy transforming former prison in pre deportation centre//More deaths and violence…
 image:
-  path: assets/52c10a72ea86/1*Oa5SSQhx8O7tADllu2C5eA.jpeg
+  path: ../assets/52c10a72ea86/1*Oa5SSQhx8O7tADllu2C5eA.jpeg
 ---
 
 ### AYS Daily Digest 21/05/19: Report shows that 1,007 children went missing in Greece between 2018 and 2019
@@ -15,7 +15,7 @@ image:
 
 
 ![Lesvos, Greece, 1 April 2019\.
-A refugee girl holds a puppy in the Moria refugee camp in the island of Lesvos\. Credit: Aris Messinis \-Art Against](assets/52c10a72ea86/1*Oa5SSQhx8O7tADllu2C5eA.jpeg)
+A refugee girl holds a puppy in the Moria refugee camp in the island of Lesvos\. Credit: Aris Messinis \-Art Against](../assets/52c10a72ea86/1*Oa5SSQhx8O7tADllu2C5eA.jpeg)
 
 Lesvos, Greece, 1 April 2019\.
 A refugee girl holds a puppy in the Moria refugee camp in the island of Lesvos\. Credit: Aris Messinis \-Art Against
@@ -183,11 +183,11 @@ Apparently, from June on, it will also be possible for foreigners, or their lega
 
 
 
-![](assets/52c10a72ea86/1*7D7-J4PS4sSVYWczQKhMrw.jpeg)
+![](../assets/52c10a72ea86/1*7D7-J4PS4sSVYWczQKhMrw.jpeg)
 
 
 
-![Credit: [فراس شامي](https://www.facebook.com/profile.php?id=100011544815460&fref=gs&__tn__=%2CdC-R-R&eid=ARD_ZKheQ1_gMiNShqmg0zN4tXFI0Kq6e12GVYK8-TINHGky4EdQJTfenJrGxIJFk9M-bzIOWhghkFK3&hc_ref=ARTZwJbv4fdqHouMpEuZipfbDHANn_DtpskvqhufH1JD2oRAGX6W4IDfD382dwqFs1k&dti=1157824667713728&hc_location=group) in refugee organisation in Montenegro](assets/52c10a72ea86/1*JGe42PUOk_bBwZHoGaMBcA.jpeg)
+![Credit: [فراس شامي](https://www.facebook.com/profile.php?id=100011544815460&fref=gs&__tn__=%2CdC-R-R&eid=ARD_ZKheQ1_gMiNShqmg0zN4tXFI0Kq6e12GVYK8-TINHGky4EdQJTfenJrGxIJFk9M-bzIOWhghkFK3&hc_ref=ARTZwJbv4fdqHouMpEuZipfbDHANn_DtpskvqhufH1JD2oRAGX6W4IDfD382dwqFs1k&dti=1157824667713728&hc_location=group) in refugee organisation in Montenegro](../assets/52c10a72ea86/1*JGe42PUOk_bBwZHoGaMBcA.jpeg)
 
 Credit: [فراس شامي](https://www.facebook.com/profile.php?id=100011544815460&fref=gs&__tn__=%2CdC-R-R&eid=ARD_ZKheQ1_gMiNShqmg0zN4tXFI0Kq6e12GVYK8-TINHGky4EdQJTfenJrGxIJFk9M-bzIOWhghkFK3&hc_ref=ARTZwJbv4fdqHouMpEuZipfbDHANn_DtpskvqhufH1JD2oRAGX6W4IDfD382dwqFs1k&dti=1157824667713728&hc_location=group) in refugee organisation in Montenegro
 #### BOSNIA
@@ -195,11 +195,11 @@ Credit: [فراس شامي](https://www.facebook.com/profile.php?id=100011544815
 New arrivals in Tuzla, people are sleeping rough all night\. \.
 
 
-![](assets/52c10a72ea86/1*sdXDvDDjs3m44JT6zZtc5A.jpeg)
+![](../assets/52c10a72ea86/1*sdXDvDDjs3m44JT6zZtc5A.jpeg)
 
 
 
-![Credit: Senad Cupo in [Pomoc izbjeglicama u BiH/Help to refugees in Bosnia and Herzegovina](https://www.facebook.com/groups/144469886266984/permalink/352874732093164/)](assets/52c10a72ea86/1*lqxaCwakrhC5vEdY_2tidA.jpeg)
+![Credit: Senad Cupo in [Pomoc izbjeglicama u BiH/Help to refugees in Bosnia and Herzegovina](https://www.facebook.com/groups/144469886266984/permalink/352874732093164/)](../assets/52c10a72ea86/1*lqxaCwakrhC5vEdY_2tidA.jpeg)
 
 Credit: Senad Cupo in [Pomoc izbjeglicama u BiH/Help to refugees in Bosnia and Herzegovina](https://www.facebook.com/groups/144469886266984/permalink/352874732093164/)
 ### ITALY

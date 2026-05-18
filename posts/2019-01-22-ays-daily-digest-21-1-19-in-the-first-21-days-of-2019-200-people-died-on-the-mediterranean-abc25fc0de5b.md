@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,human-rights,libya,digest,europe]
 description: New HRW report on Libya // disturbing distress calls to Alarmphone //possible deportation flight from Vienna to Afghanistan // volunteers…
 image:
-  path: assets/abc25fc0de5b/1*6rDndoHZREdDkV939A23Uw.jpeg
+  path: ../assets/abc25fc0de5b/1*6rDndoHZREdDkV939A23Uw.jpeg
 ---
 
 ### AYS Daily Digest 21/1/19: In the first 21 days of 2019, 200 people died in the Mediterranean
 #### _New HRW report on Libya // Disturbing distress calls to Alarmphone //Possible deportation flight from Vienna to Afghanistan // Volunteers needed in Greece and in the Balkans // and more…_
 
 
-![Photo from Qasr Bin Gashir detention centre in Libya\. Photo provided by [Sally Hayden](https://twitter.com/sallyhayd/status/1087394112695922688?fbclid=IwAR3BrFsNuBVSpA0Jw3ceX-ZB_0MKjBKmJgzEVvnWfDNOxPKL655syja3oZs) \.](assets/abc25fc0de5b/1*6rDndoHZREdDkV939A23Uw.jpeg)
+![Photo from Qasr Bin Gashir detention centre in Libya\. Photo provided by [Sally Hayden](https://twitter.com/sallyhayd/status/1087394112695922688?fbclid=IwAR3BrFsNuBVSpA0Jw3ceX-ZB_0MKjBKmJgzEVvnWfDNOxPKL655syja3oZs) \.](../assets/abc25fc0de5b/1*6rDndoHZREdDkV939A23Uw.jpeg)
 
 Photo from Qasr Bin Gashir detention centre in Libya\. Photo provided by [Sally Hayden](https://twitter.com/sallyhayd/status/1087394112695922688?fbclid=IwAR3BrFsNuBVSpA0Jw3ceX-ZB_0MKjBKmJgzEVvnWfDNOxPKL655syja3oZs) \.
 #### FEATURE —

@@ -1,5 +1,5 @@
 ---
-title: AYS Digest 18/8: What choices for Syrian children?
+title: "AYS Digest 18/8: What choices for Syrian children?"
 author: Are You Syrious?
 date: 2016-08-19T02:09:51.822+0100
 last_modified_at: 2016-08-19T06:58:47.200+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe]
 description: Harrowing accounts of torture in Syrian prisons. Refugees looking for smugglers while few are being relocated. Man with serious health…
 image:
-  path: assets/c40388a5e008/0*wz34A2HWkwS-Vu3H.
+  path: ../assets/c40388a5e008/0*wz34A2HWkwS-Vu3H.
 ---
 
 ### AYS Digest 18/8: What choices for Syrian children?
 #### Harrowing accounts of torture in Syrian prisons\. Refugees looking for smugglers while few are being relocated\. Man with serious health issues gets no help in Oreokastro\. More and more Syrians get subsidiary protection instead of refugee status in Germany\.
 
 
-![**Cartoon by [Khalid Albaih](https://www.facebook.com/KhalidAlbaih/)**](assets/c40388a5e008/0*wz34A2HWkwS-Vu3H.)
+![**Cartoon by [Khalid Albaih](https://www.facebook.com/KhalidAlbaih/)**](../assets/c40388a5e008/0*wz34A2HWkwS-Vu3H.)
 
 **Cartoon by [Khalid Albaih](https://www.facebook.com/KhalidAlbaih/)**
 #### Syria
@@ -23,12 +23,12 @@ image:
 [Amnesty International](https://www.amnesty.org/en/latest/news/2016/08/harrowing-accounts-of-torture-inhuman-conditions-and-mass-deaths-in-syrias-prisons/) says an estimated 17,723 people have died in custody in Syria since March 2011 and spoke to 65 survivors [to reconstruct the Saydnaya torture prison and their experiences of detention](https://saydnaya.amnesty.org/) \. Prisoners were held in darkness and experienced beatings, electric shocks, burns and other torture methods, with 50 prisoners often crammed together in a 9 square meter cell for months and sometimes years on end\.
 
 
-[![Inside Saydnaya: Syria's Torture Prison](assets/c40388a5e008/4680_hqdefault.jpg "Inside Saydnaya: Syria's Torture Prison")](http://www.youtube.com/watch?v=ysgnadic3Yo)
+[![Inside Saydnaya: Syria's Torture Prison](../assets/c40388a5e008/4680_hqdefault.jpg "Inside Saydnaya: Syria's Torture Prison")](http://www.youtube.com/watch?v=ysgnadic3Yo)
 
 ### Omran’s photo
 
 
-![Photo by Mahmoud Rislan](assets/c40388a5e008/0*Fy-6gKkhMgbKG6Pq.)
+![Photo by Mahmoud Rislan](../assets/c40388a5e008/0*Fy-6gKkhMgbKG6Pq.)
 
 Photo by Mahmoud Rislan
 
@@ -69,7 +69,7 @@ The eight refugees were sent to Turkey after reportedly withdrawing their claim 
 EU numbers show only 267 people have been relocated from Greece from the 31th of July to the 16th of August and only 3,002 out of 66,400 refugees that the EU wants to relocate until September 2017 have been relocated so far\. Belgium, Bulgaria, Cyprus, Croatia, the Czech Republic, Ireland and Spain have relocated nobody during this time frame— France has relocated one person, Germany five\. At this rate, it would take ten years, four months and 27 days to complete the relocation program\. UNHCR however reports that 400 pledges for Greece were opened by France on the 12th of August\.
 
 
-![Nea Kavala\. Photo by Aida Kristina Ničija](assets/c40388a5e008/0*-QvUyZiRLWxVHrEp.)
+![Nea Kavala\. Photo by Aida Kristina Ničija](../assets/c40388a5e008/0*-QvUyZiRLWxVHrEp.)
 
 Nea Kavala\. Photo by Aida Kristina Ničija
 
@@ -101,29 +101,29 @@ However, as far as we know, only two appeals so far were lost and went on to the
 The police continues to chase refugees away from parks and streets, arresting them and transferring them to different camps\. Despite this, refugees, including families with new born babies, keep coming back to wait for smugglers, as life in the camps has become unbearable\.
 
 
-![**Oreokastro camp\. Inadequate food remains an issue\. The heat is suffocating inside, with not enough fans or mosquito protection\. People sleep on floors or on wooden pallets and women in particular do not feel safe\.**](assets/c40388a5e008/0*wSW9p1uUONO5dfcS.)
+![**Oreokastro camp\. Inadequate food remains an issue\. The heat is suffocating inside, with not enough fans or mosquito protection\. People sleep on floors or on wooden pallets and women in particular do not feel safe\.**](../assets/c40388a5e008/0*wSW9p1uUONO5dfcS.)
 
 **Oreokastro camp\. Inadequate food remains an issue\. The heat is suffocating inside, with not enough fans or mosquito protection\. People sleep on floors or on wooden pallets and women in particular do not feel safe\.**
 
 
-![**Nea Kavala Camp\. The camp is in a remote area, in the middle of a field\. It is burning hot there and during the day it is completely silent as people prefer to stay in their tents\. There are no trees and no shade\. Until a couple of days ago they used to have running water restrictions and they are afraid it will happen again\.**](assets/c40388a5e008/0*OSy6Phw0SZq9LGRE.)
+![**Nea Kavala Camp\. The camp is in a remote area, in the middle of a field\. It is burning hot there and during the day it is completely silent as people prefer to stay in their tents\. There are no trees and no shade\. Until a couple of days ago they used to have running water restrictions and they are afraid it will happen again\.**](../assets/c40388a5e008/0*OSy6Phw0SZq9LGRE.)
 
 **Nea Kavala Camp\. The camp is in a remote area, in the middle of a field\. It is burning hot there and during the day it is completely silent as people prefer to stay in their tents\. There are no trees and no shade\. Until a couple of days ago they used to have running water restrictions and they are afraid it will happen again\.**
 
 Others are in the streets because of a lack of public assistance\. In one recent case, a woman was brought from a camp to the hospital because of her seven month old baby’s fever\. After one day she was told to leave the hospital, but was not offered any help, leading her to wander the streets of Thessaloniki for two days with her baby, lost and afraid, without money and without food\.
 
 
-![People sleeping in the streets and parks of Thessaloniki](assets/c40388a5e008/0*fKOJ3IPd5URxlrxl.)
+![People sleeping in the streets and parks of Thessaloniki](../assets/c40388a5e008/0*fKOJ3IPd5URxlrxl.)
 
 People sleeping in the streets and parks of Thessaloniki
 
 
-![Refugees getting ready to walk \(1/2\)](assets/c40388a5e008/0*e-Q-A-06O2Qf1LaX.)
+![Refugees getting ready to walk \(1/2\)](../assets/c40388a5e008/0*e-Q-A-06O2Qf1LaX.)
 
 Refugees getting ready to walk \(1/2\)
 
 
-![Refugees getting ready to walk \(2/2\)](assets/c40388a5e008/0*rs4X0uTf0H1QwCZc.)
+![Refugees getting ready to walk \(2/2\)](../assets/c40388a5e008/0*rs4X0uTf0H1QwCZc.)
 
 Refugees getting ready to walk \(2/2\)
 ### No help for man with serious health issues
@@ -139,12 +139,12 @@ Dear High Commissioner for Refugees, is this how you ensure, how you safeguard t
 If you, reader, see any possibility of helping Ibrahim, please contact us\.
 
 
-![Oreokastro\.](assets/c40388a5e008/0*6joL5jNO6c2elvK3.)
+![Oreokastro\.](../assets/c40388a5e008/0*6joL5jNO6c2elvK3.)
 
 Oreokastro\.
 
 
-![Self\-organization in the camp\.](assets/c40388a5e008/0*d2N1uTIkf1vVHCvM.)
+![Self\-organization in the camp\.](../assets/c40388a5e008/0*d2N1uTIkf1vVHCvM.)
 
 Self\-organization in the camp\.
 ### Isolated refugees at Kypselohori camp
@@ -162,12 +162,12 @@ On top of all this, the camp has insufficient access to medical care, a lack of 
 Shower units for 500 people and two handwash stations were completed in the Horgos refugee camp, while one Learning Centre and a Wifi station were built for Kelebija\. Quality of life has slightly improved for refugees living in what some call ‘the new Idomeni” — new makeshift camps provoked by the closure of borders\.
 
 
-![Kelebija — Photo by Timber Project](assets/c40388a5e008/0*hygv6xQ8TTo4VpjU.)
+![Kelebija — Photo by Timber Project](../assets/c40388a5e008/0*hygv6xQ8TTo4VpjU.)
 
 Kelebija — Photo by Timber Project
 
 
-![Horgos — Photo by Timber Project](assets/c40388a5e008/0*4k1ZgpFCwoxrj4oh.)
+![Horgos — Photo by Timber Project](../assets/c40388a5e008/0*4k1ZgpFCwoxrj4oh.)
 
 Horgos — Photo by Timber Project
 ### Germany

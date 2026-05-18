@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 07/07/17: 34th eviction at Porte de la Chapelle in Paris
+title: "AYS Daily Digest 07/07/17: 34th eviction at Porte de la Chapelle in Paris"
 author: Are You Syrious?
 date: 2017-07-08T00:31:48.489+0100
 last_modified_at: 2017-07-14T15:17:22.669+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,paris,moria,hunger-strike,porte-de-la-chapelle]
 description: More than 100 people arrive every day to Paris / French asylum system illogical and complicated / European Commission noticed the lack of…
 image:
-  path: assets/9f2256dbc13e/1*S-v43_1AlJ2gNi2298TJYg.jpeg
+  path: ../assets/9f2256dbc13e/1*S-v43_1AlJ2gNi2298TJYg.jpeg
 ---
 
 ### AYS Daily Digest 07/07/17: 34th eviction at Porte de la Chapelle in Paris
@@ -15,7 +15,7 @@ image:
 _More than 100 people arrive every day to Paris / French asylum system illogical and complicated / European Commission noticed the lack of solidarity in Europe / Code of Conduct for NGOs saving lives in the sea / Souda camp at the shore empty / Hunger strike in Moria continues / More people arrested in Bosnia / And more news…_
 
 
-![\(Photo by Solidarity Migrants Wilson\)](assets/9f2256dbc13e/1*S-v43_1AlJ2gNi2298TJYg.jpeg)
+![\(Photo by Solidarity Migrants Wilson\)](../assets/9f2256dbc13e/1*S-v43_1AlJ2gNi2298TJYg.jpeg)
 
 \(Photo by Solidarity Migrants Wilson\)
 ### Feature
@@ -79,7 +79,7 @@ They remind that this practice is against the international law and it violates 
 Four people who are in prison are on strike, and Arash Hampay, whose brother is one of those detained, joined them from Sappho Square\.
 
 
-![](assets/9f2256dbc13e/1*cIUNbsebYYCluq0IpYCarg.jpeg)
+![](../assets/9f2256dbc13e/1*cIUNbsebYYCluq0IpYCarg.jpeg)
 
 
 For the first time in over a year, part of the Souda camp at the shore was empty of tents today\. People, including kids and vulnerable people, were forced to stay in this camp — in some case over a year — where minimum living conditions existed\. Nevertheless, only small number of people who were in Souda are taken to other accommodation or send to the mainland, while the biggest majority are sent to the pre\-deportation center in Moria, and some are held at the Chios police station\.
@@ -112,7 +112,7 @@ Unfortunately, no good news from Serbia\. People who are living in camps are sen
 In Sid, city at the border with Croatia, several groups of amazing volunteers are every day there for all the people who need their help\. They not only provide them food, shower, tea, but also organize a cinema once a week, in the “jungle”\.
 
 
-![Photo by Rigardu](assets/9f2256dbc13e/1*z54s5ZzNvGTXpE_muwVMpA.jpeg)
+![Photo by Rigardu](../assets/9f2256dbc13e/1*z54s5ZzNvGTXpE_muwVMpA.jpeg)
 
 Photo by Rigardu
 
@@ -131,7 +131,7 @@ _A week and a half ago a hundred boys and young men were taken against their wil
 _“We learned about people’s lives at home, saw photos of their grandmothers, heard their aspirations, shared picnic food, tried to understand what had led them here\. One night, a huge electrical storm hit Sid, bringing with it a feeling of heightened release\. When the rain finally fell the small group of guys left at distribution seemed to go completely feral, dressed in hilarious yellow anoraks, dancing, and singing, united in a feeling of living in the moment and forgetting the journey behind them\. As we all danced together nothing else mattered\. A surreal moment of friendship and solidarity\.”_
 
 
-![Photo: Solidaritea](assets/9f2256dbc13e/1*rHD5mDAs3eVayDYh2CBq-w.jpeg)
+![Photo: Solidaritea](../assets/9f2256dbc13e/1*rHD5mDAs3eVayDYh2CBq-w.jpeg)
 
 Photo: Solidaritea
 ### Bosnia

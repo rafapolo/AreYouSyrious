@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 16/07/2020: Eritrean asylum claims systematically rejected in Slovenia
+title: "AYS Daily Digest 16/07/2020: Eritrean asylum claims systematically rejected in Slovenia"
 author: Are You Syrious?
 date: 2020-07-17T19:32:33.539+0100
 last_modified_at: 2020-07-17T19:32:33.539+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: []
 description: Short recap on events in Greece since New Democracy took power // New insights into EU’s cooperation with the Libyan Coast Guard //…
 image:
-  path: assets/97ed34f46086/0*oTiuYLovuqAYTXBA.jpeg
+  path: ../assets/97ed34f46086/0*oTiuYLovuqAYTXBA.jpeg
 ---
 
 ### AYS Daily Digest 16/07/2020: Eritrean asylum claims systematically rejected in Slovenia
@@ -21,7 +21,7 @@ image:
 
 
 
-![](assets/97ed34f46086/0*oTiuYLovuqAYTXBA.jpeg)
+![](../assets/97ed34f46086/0*oTiuYLovuqAYTXBA.jpeg)
 
 
 Paris, where around 800 migrants are living in tents along Canal Saint\-Denis\. Copyright: InfoMigrant
@@ -167,19 +167,19 @@ A German man faced trial for having promoted a “civil society asylum” \(Bür
 A protest took place on Wednesday in Belgium to demand regularization for paperless people\.
 
 
-![](assets/97ed34f46086/0*px-Gn0aaki-ksw4h)
+![](../assets/97ed34f46086/0*px-Gn0aaki-ksw4h)
 
 
 
-![](assets/97ed34f46086/0*fEzuh7RaDiyVxY1g.jpeg)
+![](../assets/97ed34f46086/0*fEzuh7RaDiyVxY1g.jpeg)
 
 
 
-![](assets/97ed34f46086/0*xtOWQax-XjyxUpXw)
+![](../assets/97ed34f46086/0*xtOWQax-XjyxUpXw)
 
 
 
-![](assets/97ed34f46086/0*hUg9jg6od8j4Wpnt.jpeg)
+![](../assets/97ed34f46086/0*hUg9jg6od8j4Wpnt.jpeg)
 
 
 copyrights: Sans\-Papiers TV

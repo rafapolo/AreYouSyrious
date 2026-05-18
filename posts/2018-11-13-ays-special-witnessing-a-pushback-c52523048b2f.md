@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Witnessing a pushback
+title: "AYS SPECIAL: Witnessing a pushback"
 author: Are You Syrious?
 date: 2018-11-13T12:41:38.516+0000
 last_modified_at: 2018-11-13T20:26:55.623+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,special,border-violence,eu,croatia]
 description: The Croatian authorities have been successfully denying the allegations of police violence and point to a lack of evidence corroborating…
 image:
-  path: assets/c52523048b2f/1*Se4HtfI72pAc284pDWHX7Q.jpeg
+  path: ../assets/c52523048b2f/1*Se4HtfI72pAc284pDWHX7Q.jpeg
 ---
 
 ### AYS SPECIAL: **Witnessing a pushback**
@@ -15,7 +15,7 @@ image:
 _The Croatian authorities have been successfully denying the allegations of police violence and point to a lack of evidence corroborating these stories\. Although hundreds of testimonies have been collected from victims of violent pushbacks at the hands of the Croatian border police so far, secondary witnesses remain quite rare and the denial of these crimes persists\. AYS and NNK obtain more proof, a video filmed during and immediately after the push back, and the story of people who survived\._
 
 
-![Camp Trnovi, Velika Kladuša\.](assets/c52523048b2f/1*Se4HtfI72pAc284pDWHX7Q.jpeg)
+![Camp Trnovi, Velika Kladuša\.](../assets/c52523048b2f/1*Se4HtfI72pAc284pDWHX7Q.jpeg)
 
 Camp Trnovi, Velika Kladuša\.
 
@@ -26,7 +26,7 @@ This changed last week after an unaccompanied minor from Syria returned to Velik
 NNK and AYS got this video\. We could hear the screams of people who are being beaten up, people calling each other after they got lost in the dark, and could see the people who are arriving to the safe place, greeting each other\.
 
 
-[![Border violence - EU - Bosnia border](assets/c52523048b2f/9d7d_hqdefault.jpg "Border violence - EU - Bosnia border")](http://www.youtube.com/watch?v=dh0XeKwMVwU)
+[![Border violence - EU - Bosnia border](../assets/c52523048b2f/9d7d_hqdefault.jpg "Border violence - EU - Bosnia border")](http://www.youtube.com/watch?v=dh0XeKwMVwU)
 
 
 Khalid \(name changed to protect anonymity\), had left some days prior with a group of four other people with the intention of crossing the Croatian border and continuing towards Italy\. Unintentionally, he stumbled upon the violent push\-back of two groups of men which he proceeded to document, step\-by\-step, on his smartphone\.
@@ -68,7 +68,7 @@ _“Yesterday, we got caught on the Slovenian\-Croatian border\. Croatian police
 _Why the European Union does not take any action? Why are they allowing them to beat us? This is history that the whole world is witnessing\. Refugees have been fleeing their countries for a long time, that is not a big deal\. We are facing problems in our country, we cannot stay and wait for our death there”_ \(Ferdous\*, Pakistan\) \.
 
 
-![](assets/c52523048b2f/1*EDoQGhWFI_OH-sZZMFhF7A.jpeg)
+![](../assets/c52523048b2f/1*EDoQGhWFI_OH-sZZMFhF7A.jpeg)
 
 
 Dozens of injured and tired people come back from the Croatian border to Velika Kladuša each day\. People who are asking for their right to claim asylum in the EU land are not only beaten but also have all of their possessions taken; money, mobile phones, and passports\. They come back to the precarious life in the field camp with nothing, confused and disappointed about human rights in Europe\.
@@ -84,11 +84,11 @@ Others report water deliberately dumped on the road from barrels, designed to ma
 We have been told that some of the physical attacks take several minutes, until the person’s bones are broken or their face bleeds\. In the end, many are pushed down a hill or into a river while being shouted at to go run back to Bosnia and being threatened by gun shots in the air\. People then try to walk with broken legs, arms, and open wounds back to the makeshift camp, where they often struggle to find adequate medical care\.
 
 
-![](assets/c52523048b2f/1*t1v-ZT2KdYGxK8f4EWfwTA.jpeg)
+![](../assets/c52523048b2f/1*t1v-ZT2KdYGxK8f4EWfwTA.jpeg)
 
 
 
-![](assets/c52523048b2f/1*bJ4CIXlkyVGCSsjquFgx_A.jpeg)
+![](../assets/c52523048b2f/1*bJ4CIXlkyVGCSsjquFgx_A.jpeg)
 
 
 **Brutal border deterrence is against the law**

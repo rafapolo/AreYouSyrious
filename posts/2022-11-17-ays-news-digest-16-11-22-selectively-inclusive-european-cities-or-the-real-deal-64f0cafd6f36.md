@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 16/11/22: Selectively “inclusive European cities” or the real deal?
+title: "AYS News Digest 16/11/22: Selectively “inclusive European cities” or the real deal?"
 author: Are You Syrious?
 date: 2022-11-17T20:08:30.512+0000
 last_modified_at: 2022-11-17T20:40:45.537+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,europe,refugees,cities,croatia]
 description: Some good news from the courts, bad news from the ground and tragic news from the sea…
 image:
-  path: assets/64f0cafd6f36/1*LA1SbWZytqyF1r4rdYAahw.jpeg
+  path: ../assets/64f0cafd6f36/1*LA1SbWZytqyF1r4rdYAahw.jpeg
 ---
 
 ### AYS News Digest 16/11/22: Selectively “inclusive European cities” or the real deal?
 #### Some good news from the courts, bad news from the ground and tragic news from the sea…
 
 
-![Photo: [Tinka Ines Kalajzic](https://www.facebook.com/tinka987?__tn__=-UC*F)](assets/64f0cafd6f36/1*LA1SbWZytqyF1r4rdYAahw.jpeg)
+![Photo: [Tinka Ines Kalajzic](https://www.facebook.com/tinka987?__tn__=-UC*F)](../assets/64f0cafd6f36/1*LA1SbWZytqyF1r4rdYAahw.jpeg)
 
 Photo: [Tinka Ines Kalajzic](https://www.facebook.com/tinka987?__tn__=-UC*F)
 #### FEATURE
@@ -36,7 +36,7 @@ This sounds like a nice initiative and starting point within the city officials,
 Since some months ago, as we have been reporting, Zagreb \(and Rijeka\) have been the most prominent points in the country for people who have been given what is referred to as seven\-days notice, a document that deprives them of any rights, options and possibilities and merely lets them know they must leave the European economic space within seven days\. In the meantime, these people in these friendly European cities are left with nothing but the kindness of strangers\.
 
 
-[![Troglas #6 - "7 days paper": Zagreb, Ogulin, Rijeka](assets/64f0cafd6f36/2409_hqdefault.jpg "Troglas #6 - "7 days paper": Zagreb, Ogulin, Rijeka")](https://www.youtube.com/watch?v=5_78acjoWBY)
+[![Troglas #6 - "7 days paper": Zagreb, Ogulin, Rijeka](../assets/64f0cafd6f36/2409_hqdefault.jpg "Troglas #6 - "7 days paper": Zagreb, Ogulin, Rijeka")](https://www.youtube.com/watch?v=5_78acjoWBY)
 
 
 Both the cities of Zagreb and Rijeka have said they will provide the basic containers for hygiene and some NFI provision, but that seems to have been halted and nothing, except citizens’ own initiatives, has so far appeared in reality\. We intend to publish a Special on this topic, but as this warmly [reported](https://www.themayor.eu/en/a/view/pesaro-vantaa-warsaw-and-zagreb-pledge-to-create-inclusive-cities-for-refugees-and-migrants-11214) event from Utrecht caught our attention, something had to be said \(again\) about the situation\.
@@ -44,7 +44,7 @@ Both the cities of Zagreb and Rijeka have said they will provide the basic conta
 Nothing will change without the political will and some concrete steps that don’t end with the hopes of the Red Cross doing something and the expectations that NGOs will take the lead\. There has been enough of that\.
 
 
-![](assets/64f0cafd6f36/1*yiPL6-DECPdS7RK4RUXtpA.jpeg)
+![](../assets/64f0cafd6f36/1*yiPL6-DECPdS7RK4RUXtpA.jpeg)
 
 
 “In addition to promoting transnational learning and fostering real change on the ground, the partners have produced four [toolkits](https://eurocities.eu/projects/connection/) to guide cities willing to develop integration strategies, improve the gender dimension of their integration activities, foster the labour market integration of migrants or set up a one\-stop shop,” says the report on the Utrecht meeting, and as a part of the community who put some of those things in place, we hope to see this systematically defined and put into practice in reality, too, very soon\.
@@ -122,7 +122,7 @@ They were the first NGO to be affected by the new measures taken against NGO shi
 reads part of their diary that explains in detail what happened on the waters, how they face growing pressure, but also how they resisted and persisted in doing everything they could\.
 
 
-![Photo: SOS Humanity](assets/64f0cafd6f36/0*yULpPp1SIHaZrelJ.jpg)
+![Photo: SOS Humanity](../assets/64f0cafd6f36/0*yULpPp1SIHaZrelJ.jpg)
 
 Photo: SOS Humanity
 
@@ -152,7 +152,7 @@ These people have all obtained a final domestic decision from the Brussels Labou
 The Court decided to enjoin the Belgian State to comply with the orders made by the Brussels Labour Court in respect of each of the applicants and to provide them with accommodation and material assistance to meet their basic needs for the duration of the proceedings before the Court\.
 
 
-![](assets/64f0cafd6f36/1*OA7lb2Oyqyb-k9I_Xmd4sg.jpeg)
+![](../assets/64f0cafd6f36/1*OA7lb2Oyqyb-k9I_Xmd4sg.jpeg)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

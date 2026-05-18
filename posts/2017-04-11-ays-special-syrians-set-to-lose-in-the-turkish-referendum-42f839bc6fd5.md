@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Syrians set to lose in the Turkish Referendum
+title: "AYS SPECIAL: Syrians set to lose in the Turkish Referendum"
 author: Are You Syrious?
 date: 2017-04-11T11:16:05.650+0100
 last_modified_at: 2018-03-01T14:01:52.178+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [turkey,turkey-referendum,syrian-refugees,refugees,special]
 description: A constitutional referendum will be held in Turkey on 16 of April. Voters will decide on amendments that could change the country from a…
 image:
-  path: assets/42f839bc6fd5/1*K3Wss4v59PMjUVGN-lrNrQ.jpeg
+  path: ../assets/42f839bc6fd5/1*K3Wss4v59PMjUVGN-lrNrQ.jpeg
 ---
 
 ### **AYS SPECIAL: Syrians set to lose in the Turkish Referendum**
@@ -15,7 +15,7 @@ image:
 A constitutional referendum will be held in Turkey on 16 of April\. Voters will decide on amendments that could change the country from a parliamentary democracy into a presidential system\. According to some, this referendum could be the most significant political development since the Turkish republic was declared in 1923\. Millions of Syrian refugees in this country could be affected by the vote\.
 
 
-![Camp in Turkey\. Photo AYS\.](assets/42f839bc6fd5/1*K3Wss4v59PMjUVGN-lrNrQ.jpeg)
+![Camp in Turkey\. Photo AYS\.](../assets/42f839bc6fd5/1*K3Wss4v59PMjUVGN-lrNrQ.jpeg)
 
 Camp in Turkey\. Photo AYS\.
 

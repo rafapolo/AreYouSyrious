@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,migrants,digest,home-office,pushbacks]
 description: Who Is Really “Instrumentalizing” Migration?//Dramatic Rescue Off Lampedusa Coast//Briançon 7 Win Appeal
 image:
-  path: assets/6e6d28fa3091/0*cx4_xSyCvnYVjIXE.jpeg
+  path: ../assets/6e6d28fa3091/0*cx4_xSyCvnYVjIXE.jpeg
 ---
 
 ### AYS Daily Digest 09/09/21 — Home Office Announces Intention To Carry Out Pushbacks
@@ -15,7 +15,7 @@ image:
 Who Is Really “Instrumentalizing” Migration?//Dramatic Rescue Off Lampedusa Coast//Briançon 7 Win Appeal
 
 
-![Remnants of the Moria fire, one year ago\. Photo credit: [Petros Giannakouris/AP Photos](https://apnews.com/article/europe-middle-east-fires-greece-migration-9eaae26f819998065aa68b56125352db?utm_campaign=SocialFlow&utm_medium=AP_Europe&utm_source=Twitter&fbclid=IwAR0kEiSMoc--lLcNpx9oFA8Vm4m3ulTOorDEPCdk29xes6hgwCEkZ_aBYDA)](assets/6e6d28fa3091/0*cx4_xSyCvnYVjIXE.jpeg)
+![Remnants of the Moria fire, one year ago\. Photo credit: [Petros Giannakouris/AP Photos](https://apnews.com/article/europe-middle-east-fires-greece-migration-9eaae26f819998065aa68b56125352db?utm_campaign=SocialFlow&utm_medium=AP_Europe&utm_source=Twitter&fbclid=IwAR0kEiSMoc--lLcNpx9oFA8Vm4m3ulTOorDEPCdk29xes6hgwCEkZ_aBYDA)](../assets/6e6d28fa3091/0*cx4_xSyCvnYVjIXE.jpeg)
 
 Remnants of the Moria fire, one year ago\. Photo credit: [Petros Giannakouris/AP Photos](https://apnews.com/article/europe-middle-east-fires-greece-migration-9eaae26f819998065aa68b56125352db?utm_campaign=SocialFlow&utm_medium=AP_Europe&utm_source=Twitter&fbclid=IwAR0kEiSMoc--lLcNpx9oFA8Vm4m3ulTOorDEPCdk29xes6hgwCEkZ_aBYDA)
 #### FEATURE

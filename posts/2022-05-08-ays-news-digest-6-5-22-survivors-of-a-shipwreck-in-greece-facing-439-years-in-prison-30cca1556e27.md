@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 6/5/22: Survivors of a shipwreck in Greece facing 439 years in prison
+title: "AYS News Digest 6/5/22: Survivors of a shipwreck in Greece facing 439 years in prison"
 author: Are You Syrious?
 date: 2022-05-08T20:05:42.931+0100
 last_modified_at: 2022-05-08T22:54:35.821+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,europe,greece,frontex]
 description: Frontex involved in serious crimes against people seeking protection with its drone operations since 2015/Tunisian coastguard retrieved 24…
 image:
-  path: assets/30cca1556e27/1*U7jfhlbwMOPXBSsfFn09YQ.jpeg
+  path: ../assets/30cca1556e27/1*U7jfhlbwMOPXBSsfFn09YQ.jpeg
 ---
 
 ### **AYS News Digest 6/5/22:** Survivors of a shipwreck in Greece facing **439 years in prison**
 #### Frontex involved in serious crimes against people seeking protection with its drone operations since 2015/Tunisian coastguard retrieved 24 more bodies of people drowned after boats sank in April, death toll reaches 67, more victims are feared/Worrying camp conditions in Preševo, south of Serbia/Inhumane conditions of detention, 2,500 asylum seekers in Lithuania continue to face for 9 months/ & more news
 
 
-![Photo: [Borderline Europe](https://twitter.com/BorderlineEurop/status/1522310668736774147?fbclid=IwAR3PDTwml5cQ4CladEghcWjIqoE4MTkbxU9mDEAr8rzHTv-TMqk7YuIwGpM)](assets/30cca1556e27/1*U7jfhlbwMOPXBSsfFn09YQ.jpeg)
+![Photo: [Borderline Europe](https://twitter.com/BorderlineEurop/status/1522310668736774147?fbclid=IwAR3PDTwml5cQ4CladEghcWjIqoE4MTkbxU9mDEAr8rzHTv-TMqk7YuIwGpM)](../assets/30cca1556e27/1*U7jfhlbwMOPXBSsfFn09YQ.jpeg)
 
 Photo: [Borderline Europe](https://twitter.com/BorderlineEurop/status/1522310668736774147?fbclid=IwAR3PDTwml5cQ4CladEghcWjIqoE4MTkbxU9mDEAr8rzHTv-TMqk7YuIwGpM)
 #### FEATURED
@@ -74,7 +74,7 @@ The Court has ordered the Greek government not to remove the refugees from the c
 ### Worrying camp conditions in Preševo
 
 
-![Photo: Transbalkanska Solidarnost Facebook](assets/30cca1556e27/1*4vclXMb0vuqjOOQDuHjDmA.jpeg)
+![Photo: Transbalkanska Solidarnost Facebook](../assets/30cca1556e27/1*4vclXMb0vuqjOOQDuHjDmA.jpeg)
 
 Photo: Transbalkanska Solidarnost Facebook
 
@@ -87,7 +87,7 @@ In striking contrast to this reality, UNHCR has evaluated the camp in Preševo a
 Tunisian coastguard retrieves 24 more bodies of people drowned after boats sank in April, death toll reaches 67, more victims are feared
 
 
-![Photo: Wahid Dahech/ Handout via REUTERS](assets/30cca1556e27/1*NBPR8Mc_RtuqFy1r5ZT0ZQ.jpeg)
+![Photo: Wahid Dahech/ Handout via REUTERS](../assets/30cca1556e27/1*NBPR8Mc_RtuqFy1r5ZT0ZQ.jpeg)
 
 Photo: Wahid Dahech/ Handout via REUTERS
 
@@ -227,7 +227,7 @@ On May 5, French authorities destroyed tents and left people on the streets in C
 At the same time in Paris, [27 young people were refused access to the Clichy accommodation centre and returned to the street](https://utopia56.org/27-jeunes-remis-a-la-rue-quelques-heures-apres-une-mise-a-labri/?fbclid=IwAR2bsfA3HLrQqfugIV4tuf6enVeOzxnls-Y0ht4zv2qbM7bbE31A_mbzvEI) while others see makeshift camps as the only solution\.
 
 
-![_Around 300 migrants are now staying in this informal camp on the edge of Paris \| Photo: Utopia56_](assets/30cca1556e27/1*FaDGTZzVvgVGQq-z4WHjww.jpeg)
+![_Around 300 migrants are now staying in this informal camp on the edge of Paris \| Photo: Utopia56_](../assets/30cca1556e27/1*FaDGTZzVvgVGQq-z4WHjww.jpeg)
 
 _Around 300 migrants are now staying in this informal camp on the edge of Paris \| Photo: Utopia56_
 
@@ -242,7 +242,7 @@ More than 40,000 Syrian children in northern Syria will be forced out of school 
 In other more positive news from Manchester, Afgan women enjoy cycling for the first time with the support of the Care4Calais organization and the British Cycling organisation\.
 
 
-![Photo: [Care4Calais](https://www.facebook.com/care4calais/?__tn__=-UC*F)](assets/30cca1556e27/1*Kb2ErC6TtvT6fS8U6B29Nw.jpeg)
+![Photo: [Care4Calais](https://www.facebook.com/care4calais/?__tn__=-UC*F)](../assets/30cca1556e27/1*Kb2ErC6TtvT6fS8U6B29Nw.jpeg)
 
 Photo: [Care4Calais](https://www.facebook.com/care4calais/?__tn__=-UC*F)
 #### Events

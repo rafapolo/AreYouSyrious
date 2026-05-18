@@ -1,5 +1,5 @@
 ---
-title: AYS Daily News Digest 30/1/19: Solidarity and support to everyone at Sea Watch 3
+title: "AYS Daily News Digest 30/1/19: Solidarity and support to everyone at Sea Watch 3"
 author: Are You Syrious?
 date: 2019-01-31T10:42:08.300+0000
 last_modified_at: 2019-01-31T13:44:55.819+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,europe,humanitarian,italy,digest]
 description: Changes in the treatment of minors in France / The Netherlands leaves so far expelled minors, but cuts on the refugee resettlement quota /…
 image:
-  path: assets/ff9f0e87060b/1*eSkdt_X1i25VBp2lpKkwgg.jpeg
+  path: ../assets/ff9f0e87060b/1*eSkdt_X1i25VBp2lpKkwgg.jpeg
 ---
 
 ### AYS Daily News Digest 30/1/19: Solidarity and support to everyone at Sea Watch 3
 #### Changes in the treatment of minors in France / The Netherlands leaves expelled minors so far, but cuts the refugee resettlement quota / All refugees in Denmark to be there temporarily, no matter the system they came through / &more info
 
 
-![on board the Sea Watch, photo by [Brendan Woodhouse](https://www.facebook.com/brendan.woodhouse.18?__tn__=%2CdlCH-R-R&eid=ARC_4fASByT1S1wE4tMeR5_O7TLoUdd-e7RY5onF4JAIPR4Dc-CYzeGA4dmVGIHTiEIeSp66iuSgLB_g&hc_ref=ARTrW-zr_b3-VnXKAysfzlRAOLsOMJU7C4W_cMBkSTCflMVRqvo_KQMv4uQwNr-Xeg4&hc_location=group)](assets/ff9f0e87060b/1*eSkdt_X1i25VBp2lpKkwgg.jpeg)
+![on board the Sea Watch, photo by [Brendan Woodhouse](https://www.facebook.com/brendan.woodhouse.18?__tn__=%2CdlCH-R-R&eid=ARC_4fASByT1S1wE4tMeR5_O7TLoUdd-e7RY5onF4JAIPR4Dc-CYzeGA4dmVGIHTiEIeSp66iuSgLB_g&hc_ref=ARTrW-zr_b3-VnXKAysfzlRAOLsOMJU7C4W_cMBkSTCflMVRqvo_KQMv4uQwNr-Xeg4&hc_location=group)](../assets/ff9f0e87060b/1*eSkdt_X1i25VBp2lpKkwgg.jpeg)
 
 on board the Sea Watch, photo by [Brendan Woodhouse](https://www.facebook.com/brendan.woodhouse.18?__tn__=%2CdlCH-R-R&eid=ARC_4fASByT1S1wE4tMeR5_O7TLoUdd-e7RY5onF4JAIPR4Dc-CYzeGA4dmVGIHTiEIeSp66iuSgLB_g&hc_ref=ARTrW-zr_b3-VnXKAysfzlRAOLsOMJU7C4W_cMBkSTCflMVRqvo_KQMv4uQwNr-Xeg4&hc_location=group)
 #### FEATURE
@@ -35,7 +35,7 @@ Sea Watch migrants to dock in Italy after seven countries agree to take them in\
 France, Germany, Malta, Portugal, Romania and Luxembourg have all now offered to accept some of the migrants who have been stuck on the Sea Watch 3 vessel since 19 January\. On the other hand, in a rather vendetta\-sounding scenario, Minister Salvini promised to sue Sea Watch\.
 
 
-![photo by: [Brendan Woodhouse](https://www.facebook.com/brendan.woodhouse.18?__tn__=%2CdlCH-R-R&eid=ARC_4fASByT1S1wE4tMeR5_O7TLoUdd-e7RY5onF4JAIPR4Dc-CYzeGA4dmVGIHTiEIeSp66iuSgLB_g&hc_ref=ARTrW-zr_b3-VnXKAysfzlRAOLsOMJU7C4W_cMBkSTCflMVRqvo_KQMv4uQwNr-Xeg4&hc_location=group)](assets/ff9f0e87060b/1*qtf5DFVP5Qc1rFPVlcxpZw.jpeg)
+![photo by: [Brendan Woodhouse](https://www.facebook.com/brendan.woodhouse.18?__tn__=%2CdlCH-R-R&eid=ARC_4fASByT1S1wE4tMeR5_O7TLoUdd-e7RY5onF4JAIPR4Dc-CYzeGA4dmVGIHTiEIeSp66iuSgLB_g&hc_ref=ARTrW-zr_b3-VnXKAysfzlRAOLsOMJU7C4W_cMBkSTCflMVRqvo_KQMv4uQwNr-Xeg4&hc_location=group)](../assets/ff9f0e87060b/1*qtf5DFVP5Qc1rFPVlcxpZw.jpeg)
 
 photo by: [Brendan Woodhouse](https://www.facebook.com/brendan.woodhouse.18?__tn__=%2CdlCH-R-R&eid=ARC_4fASByT1S1wE4tMeR5_O7TLoUdd-e7RY5onF4JAIPR4Dc-CYzeGA4dmVGIHTiEIeSp66iuSgLB_g&hc_ref=ARTrW-zr_b3-VnXKAysfzlRAOLsOMJU7C4W_cMBkSTCflMVRqvo_KQMv4uQwNr-Xeg4&hc_location=group)
 
@@ -128,7 +128,7 @@ We quote Sea Watch crew member [Brendan Woodhouse](https://www.facebook.com/bren
 
 
 
-![Photo by: [Brendan Woodhouse](https://www.facebook.com/brendan.woodhouse.18?__tn__=%2CdlCH-R-R&eid=ARC_4fASByT1S1wE4tMeR5_O7TLoUdd-e7RY5onF4JAIPR4Dc-CYzeGA4dmVGIHTiEIeSp66iuSgLB_g&hc_ref=ARTrW-zr_b3-VnXKAysfzlRAOLsOMJU7C4W_cMBkSTCflMVRqvo_KQMv4uQwNr-Xeg4&hc_location=group)](assets/ff9f0e87060b/1*CeYcZsjhuV6Nj2obb-SqQw.jpeg)
+![Photo by: [Brendan Woodhouse](https://www.facebook.com/brendan.woodhouse.18?__tn__=%2CdlCH-R-R&eid=ARC_4fASByT1S1wE4tMeR5_O7TLoUdd-e7RY5onF4JAIPR4Dc-CYzeGA4dmVGIHTiEIeSp66iuSgLB_g&hc_ref=ARTrW-zr_b3-VnXKAysfzlRAOLsOMJU7C4W_cMBkSTCflMVRqvo_KQMv4uQwNr-Xeg4&hc_location=group)](../assets/ff9f0e87060b/1*CeYcZsjhuV6Nj2obb-SqQw.jpeg)
 
 Photo by: [Brendan Woodhouse](https://www.facebook.com/brendan.woodhouse.18?__tn__=%2CdlCH-R-R&eid=ARC_4fASByT1S1wE4tMeR5_O7TLoUdd-e7RY5onF4JAIPR4Dc-CYzeGA4dmVGIHTiEIeSp66iuSgLB_g&hc_ref=ARTrW-zr_b3-VnXKAysfzlRAOLsOMJU7C4W_cMBkSTCflMVRqvo_KQMv4uQwNr-Xeg4&hc_location=group)
 #### MOROCCO
@@ -136,7 +136,7 @@ Photo by: [Brendan Woodhouse](https://www.facebook.com/brendan.woodhouse.18?__tn
 [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?__tn__=%2CdkCH-R-R&eid=ARCn7--UW4UsnRzCsQf7PSXkitHXfPEbaCun6SR01-kqmCxosojuGHy5GtW1JeE3UW2vA6R134CdCmdu&hc_ref=ARSuwTViB6oA97pP5lUe1pWYG1itv3NK2tSj9lQaMEO4yeElEoooObw5U9FkGZNWJK8&fref=nf&hc_location=group) reports they are still looking for 54 migrants missing since 12 January\.
 
 
-![](assets/ff9f0e87060b/1*99V6ctbf9cPHjqAa2G0SJA.jpeg)
+![](../assets/ff9f0e87060b/1*99V6ctbf9cPHjqAa2G0SJA.jpeg)
 
 
 Among the missing is this Cameroonian named Guy\. His family has no news of him since 12 January\. The suspected smuggler who was allegedly responsible for this convoy refuses to cooperate with the family and give them reliable information\. AMDH Nador launches this call for all those who have information to help Anthis family\.
@@ -147,13 +147,13 @@ Many are still complaining against the EU\-Turkey deal as its consequences fall 
 An estimated 71,200 people are stuck in Greece at the moment, according to the UNHCR statistics and based on a report they published in December\.
 
 
-![](assets/ff9f0e87060b/1*uuttl2Ql4WQpK-5ju_RsJw.jpeg)
+![](../assets/ff9f0e87060b/1*uuttl2Ql4WQpK-5ju_RsJw.jpeg)
 
 
 Here are last week’s stats on the newly arrived people:
 
 
-![](assets/ff9f0e87060b/1*t7_xnOU6mN3p3Dom0JeW7w.jpeg)
+![](../assets/ff9f0e87060b/1*t7_xnOU6mN3p3Dom0JeW7w.jpeg)
 
 ### Volunteering
 

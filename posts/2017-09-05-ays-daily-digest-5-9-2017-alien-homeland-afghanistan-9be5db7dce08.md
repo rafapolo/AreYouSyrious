@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 5/9/2017: Alien homeland: Afghanistan
+title: "AYS DAILY DIGEST 5/9/2017: Alien homeland: Afghanistan"
 author: Are You Syrious?
 date: 2017-09-05T23:41:25.419+0100
 last_modified_at: 2017-09-06T10:32:14.728+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,greece,serbia,afghanistan,italy]
 description: New report on the situation of returnees to Kabul / 223.000 people internally displaced in Afghanistan in 2017 alone/ Sea arrivals in…
 image:
-  path: assets/9be5db7dce08/1*vGhRuRnnMODIza8kN5ZJ9w.jpeg
+  path: ../assets/9be5db7dce08/1*vGhRuRnnMODIza8kN5ZJ9w.jpeg
 ---
 
 ### AYS DAILY DIGEST 5/9/2017: Alien homeland: Afghanistan
@@ -15,7 +15,7 @@ image:
 _New report on the situation of returnees to Kabul / 223\.000 people internally displaced in Afghanistan in 2017 alone/ Sea arrivals in Europe drop but in comparison remain high in Greece / Search of No Name Kitchen house in Belgrade / First asylum granted in Serbia in 2017 / Evacuations in Italy / Several calls for volunteers_
 
 
-![Activists from [City Plaza Refugees Hotel](https://www.facebook.com/groups/943355035786244/) in Athens show solidarity in front of Acropilis\. Credits: City Plaza\.](assets/9be5db7dce08/1*vGhRuRnnMODIza8kN5ZJ9w.jpeg)
+![Activists from [City Plaza Refugees Hotel](https://www.facebook.com/groups/943355035786244/) in Athens show solidarity in front of Acropilis\. Credits: City Plaza\.](../assets/9be5db7dce08/1*vGhRuRnnMODIza8kN5ZJ9w.jpeg)
 
 Activists from [City Plaza Refugees Hotel](https://www.facebook.com/groups/943355035786244/) in Athens show solidarity in front of Acropilis\. Credits: City Plaza\.
 ### Alien homeland: Afghanistan
@@ -44,14 +44,14 @@ Additionally, every newcomer family, even without registration, used to receive 
 [See our full report from Lebanon](ays-special-precarious-living-conditions-for-millions-of-refugees-in-lebanon-81f8845b6a9a) \.
 
 
-![](assets/9be5db7dce08/1*KnwYko9-2z2HSA8dekMmIA.jpeg)
+![](../assets/9be5db7dce08/1*KnwYko9-2z2HSA8dekMmIA.jpeg)
 
 ### Sea
 
 The number of people arriving in Europe through the central Mediterranean route remains lower than in the previous months\. According to IOM, last week fewer than 5000 people arrived\. As of 3rd September, almost 100\.000 arrived in Italy and more than 15\.000 in Greece\.
 
 
-![In Berlin activists rolled out a 100 meter long list with the names of more than 17\.000 people who died on the sea\. Credits: [Gegen das Sterben im Mittelmeer](https://www.facebook.com/StopTheDying/)](assets/9be5db7dce08/1*YFWGU267FZ0eYHwBdaWBog.jpeg)
+![In Berlin activists rolled out a 100 meter long list with the names of more than 17\.000 people who died on the sea\. Credits: [Gegen das Sterben im Mittelmeer](https://www.facebook.com/StopTheDying/)](../assets/9be5db7dce08/1*YFWGU267FZ0eYHwBdaWBog.jpeg)
 
 In Berlin activists rolled out a 100 meter long list with the names of more than 17\.000 people who died on the sea\. Credits: [Gegen das Sterben im Mittelmeer](https://www.facebook.com/StopTheDying/)
 ### Greece
@@ -59,7 +59,7 @@ In Berlin activists rolled out a 100 meter long list with the names of more than
 The number of people stuck on the Eastern Aegean islands is constantly dropping due to transfers to the mainland\. Nevertheless, numerous protection seekers still have to sleep rough on Samos\. The reception center only has an official capacity of 700, but more than 2,400 are being accomodated there\. This situation is forcing them to look for other, inhumane shelters\.
 
 
-![The makeshift camp on Samos\.](assets/9be5db7dce08/1*_l2UCIN8Jy8vllElSOx8Gw.jpeg)
+![The makeshift camp on Samos\.](../assets/9be5db7dce08/1*_l2UCIN8Jy8vllElSOx8Gw.jpeg)
 
 The makeshift camp on Samos\.
 
@@ -100,7 +100,7 @@ He came to Serbia in 2011 and applied for asylum in 2015\. First he got subsidia
 According to volunteers, today the police once again evacuated the Piazza Madonna di Loreto\. Reportedly they not only took blankets and mattresses, but also personal belongings\.
 
 
-![The evacuation at Piazza Madonna di Loreto\. Credits: [Progetto Degage](https://www.facebook.com/progettodegage/?hc_ref=ARS4FVAhDdFbmoqXstctem3AVl9BmoDc4ue-ND21-J0Iw6wuuWaMx19buZtOIPrlXzc)](assets/9be5db7dce08/1*eLAgqf-adqijU0BwYn0Ysg.jpeg)
+![The evacuation at Piazza Madonna di Loreto\. Credits: [Progetto Degage](https://www.facebook.com/progettodegage/?hc_ref=ARS4FVAhDdFbmoqXstctem3AVl9BmoDc4ue-ND21-J0Iw6wuuWaMx19buZtOIPrlXzc)](../assets/9be5db7dce08/1*eLAgqf-adqijU0BwYn0Ysg.jpeg)
 
 The evacuation at Piazza Madonna di Loreto\. Credits: [Progetto Degage](https://www.facebook.com/progettodegage/?hc_ref=ARS4FVAhDdFbmoqXstctem3AVl9BmoDc4ue-ND21-J0Iw6wuuWaMx19buZtOIPrlXzc)
 

@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 13.08.2018: Shell Games as 141 souls are kept on the Aquarius again.
+title: "AYS DAILY DIGEST 13.08.2018: Shell Games as 141 souls are kept on the Aquarius again."
 author: Are You Syrious?
 date: 2018-08-14T11:37:16.290+0100
 last_modified_at: 2018-08-14T11:37:16.290+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,sweden,greece,aquarius,msf]
 description: Guessing games and people’s lives in the Mediterranean // No decrease in asylum seekers in Greece, conditions remain deplorable // New…
 image:
-  path: assets/63059b8ba98c/1*7FckiS8ErJy6rJEQ415VYw.jpeg
+  path: ../assets/63059b8ba98c/1*7FckiS8ErJy6rJEQ415VYw.jpeg
 ---
 
 ### AYS DAILY DIGEST 13\.08\.2018: Shell Games as 141 souls are kept on the Aquarius again\.
@@ -15,7 +15,7 @@ image:
 _Guessing games and people’s lives in the Mediterranean // No decrease in asylum seekers in Greece, conditions remain deplorable // New ruling in Greece forbades term “Illegal/Smuggled migrant” // New volunteer/donation calls in Serbia and Bosnia // People trapped for hours on the Drina river // How to stop a deportation — more upcoming in Sweden\._
 
 
-![Photo Credit: SOS Mediterranee](assets/63059b8ba98c/1*7FckiS8ErJy6rJEQ415VYw.jpeg)
+![Photo Credit: SOS Mediterranee](../assets/63059b8ba98c/1*7FckiS8ErJy6rJEQ415VYw.jpeg)
 
 Photo Credit: SOS Mediterranee
 ### FEATURE: 141 lives stranded on Aquarius, again\.
@@ -23,7 +23,7 @@ Photo Credit: SOS Mediterranee
 SOS Mediteranee and MSF’s search and rescue ship Aquarius is again searching for safe harbour after rescuing 141 people, ten of them most recently from a small fibreglass boat\. [SOS Mediteranee has](https://web.facebook.com/asso.utopia56/posts/2028131617218620?hc_location=ufi) sent a call for the port in Nice, France to accept them, as they are the closest port available at this time\. Both of the rescues were coordinated with JRCC Libya, with the Aquarius following orders to first distribute life jackets and only later to take the people aboard, who had been waiting in the hot sun for hours\. The Aquarius did not enter territorial waters until given proper authorization\.
 
 
-![Photo Credit: Aquarius Log](assets/63059b8ba98c/1*fW8wk_UzaiP5Oyp8WYZxyQ.png)
+![Photo Credit: Aquarius Log](../assets/63059b8ba98c/1*fW8wk_UzaiP5Oyp8WYZxyQ.png)
 
 Photo Credit: Aquarius Log
 
@@ -69,7 +69,7 @@ Additionally the director for asylum services in Greece has noted there has been
 Open Cultural Centre in Greece posted a helpful infographic from UNHCR’s numbers in Greece to break down the status of most people in Greece currently\.
 
 
-![Source: OCC](assets/63059b8ba98c/1*DOSaoyHZYpusYiXcoq_Q8w.jpeg)
+![Source: OCC](../assets/63059b8ba98c/1*DOSaoyHZYpusYiXcoq_Q8w.jpeg)
 
 Source: OCC
 
@@ -107,7 +107,7 @@ Islands: Lesvos
 
 
 
-![Moria\. Credit: Mahyar Alami](assets/63059b8ba98c/1*N4cIgefIrdaG-eDJA-zBiA.jpeg)
+![Moria\. Credit: Mahyar Alami](../assets/63059b8ba98c/1*N4cIgefIrdaG-eDJA-zBiA.jpeg)
 
 Moria\. Credit: Mahyar Alami
 
@@ -137,14 +137,14 @@ A group of around 15 people, as according to the last update, were trapped on a 
 Refugee Aid Miksaliste is in need of volunteers\!
 
 
-![](assets/63059b8ba98c/1*_A7D56gUKTG1X-HfREZRlA.png)
+![](../assets/63059b8ba98c/1*_A7D56gUKTG1X-HfREZRlA.png)
 
 ### MALTA
 
 Sea\-watch remains detained in Malta for more than a month now\. With the death toll rising daily, it remains difficult to not see each day passing in a count of human lives\.
 
 
-![Photo credit sea\-watch\.org](assets/63059b8ba98c/1*tvgOFpfGR40qHYP8Fyg4hQ.jpeg)
+![Photo credit sea\-watch\.org](../assets/63059b8ba98c/1*tvgOFpfGR40qHYP8Fyg4hQ.jpeg)
 
 Photo credit sea\-watch\.org
 
@@ -160,7 +160,7 @@ Meanwhile, “on Monday, Malta’s armed forces said that it rescued 114 migrant
 Cars of Hope are doing many projects and are in need of donations\! In addition to providing power banks and other day to day necessities, two trailers are being renovated to provide emergency shelter\. Please [contact them](https://web.facebook.com/openeuborders/posts/2042876766041380?hc_location=ufi) here for more information on how to support their efforts in Velika Kladusa\.
 
 
-![Photo Credit: Cars of Hope\. Potential Shelter, need your help\!](assets/63059b8ba98c/1*sImv0Hewrh2PlzktS1wfZA.jpeg)
+![Photo Credit: Cars of Hope\. Potential Shelter, need your help\!](../assets/63059b8ba98c/1*sImv0Hewrh2PlzktS1wfZA.jpeg)
 
 Photo Credit: Cars of Hope\. Potential Shelter, need your help\!
 ### CROATIA
@@ -174,7 +174,7 @@ Over 300 people were rescued from 11 boats over the course of the previous day i
 With the announcement that an unspecified number of people will be deported to Sweden today, we wish to remind travellers who suspect there are deportees on their flight of their options\. This helpful flyer is circulating\.
 
 
-![Photo Credit: Abdul Ghafour](assets/63059b8ba98c/1*TOjativz84Z-nwEi8r9DZA.jpeg)
+![Photo Credit: Abdul Ghafour](../assets/63059b8ba98c/1*TOjativz84Z-nwEi8r9DZA.jpeg)
 
 Photo Credit: Abdul Ghafour
 

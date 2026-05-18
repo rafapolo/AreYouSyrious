@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 18/10/2021: Dramatic situation in the Mediterranean
+title: "AYS News Digest 18/10/2021: Dramatic situation in the Mediterranean"
 author: Are You Syrious?
 date: 2021-10-19T21:03:40.582+0100
 last_modified_at: 2021-10-19T21:03:40.582+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,poland,digest,rescue,europe]
 description: Sea Watch rescued over 400 people //so-called Libyan coast guards ram dinghy // at least 14 people dead, many more missing // Still no food…
 image:
-  path: assets/dd586259434/0*8bfSk-NQl_hsXT_p.jpeg
+  path: ../assets/dd586259434/0*8bfSk-NQl_hsXT_p.jpeg
 ---
 
 ### AYS News Digest 18/10/2021: Dramatic situation in the Mediterranean
 ### Sea Watch rescued over 400 people //so\-called Libyan coast guards ram dinghy // at least 14 people dead, many more missing // Still no food for thousands in Greek camps // BVMN submission to UN Committee on Pushbacks from Romania // signals of solidarity in Poland
 
 
-![](assets/dd586259434/0*GL2VzV7d7tjQQDOr.jpeg)
+![](../assets/dd586259434/0*GL2VzV7d7tjQQDOr.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----8c073d44eba3--------------------------------)
@@ -22,7 +22,7 @@ image:
 [Oct 19](ays-news-digest-18-10-2021-dramatic-situation-in-the-mediterranean-8c073d44eba3?source=post_page-----8c073d44eba3--------------------------------) · 8 min read
 
 
-![](assets/dd586259434/0*8bfSk-NQl_hsXT_p.jpeg)
+![](../assets/dd586259434/0*8bfSk-NQl_hsXT_p.jpeg)
 
 
 Sea Watch 3 in a rescue mission with people overboard, witnessed by Seabird\. Copyright: Sea Watch International

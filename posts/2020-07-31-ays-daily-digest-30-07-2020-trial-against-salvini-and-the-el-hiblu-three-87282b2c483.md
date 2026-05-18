@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 30/07/2020: Trial against Salvini and the El Hiblu Three
+title: "AYS Daily Digest 30/07/2020: Trial against Salvini and the El Hiblu Three"
 author: Are You Syrious?
 date: 2020-07-31T19:49:39.692+0100
 last_modified_at: 2020-07-31T19:49:39.692+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: []
 description: Italian senate votes to allow the prosecution of Salvini // Three young men face trial for their role in mediating a dispute on a merchant…
 image:
-  path: assets/87282b2c483/1*b31hiO4ynbDLRrXWEFF4aQ.png
+  path: ../assets/87282b2c483/1*b31hiO4ynbDLRrXWEFF4aQ.png
 ---
 
 ### AYS Daily Digest 30/07/2020: Trial against Salvini and the El Hiblu Three
 ### Italian senate votes to allow the prosecution of Salvini // Three young men face trial for their role in mediating a dispute on a merchant ship that rescued them // MSF forced to close its Covid\-19 facility after fines from local authorities // Unbearable conditions in Vial camp // many people remain homeless in Victoria Square in Athens // NNK needs financial support // No news from a boat that has been at sea for four days now // and more…
 
 
-![](assets/87282b2c483/1*b31hiO4ynbDLRrXWEFF4aQ.png)
+![](../assets/87282b2c483/1*b31hiO4ynbDLRrXWEFF4aQ.png)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----bf83204c6ec8----------------------)
@@ -22,11 +22,11 @@ image:
 [Jul 31](ays-daily-digest-30-07-2020-trial-against-salvini-and-the-elhiblu3-bf83204c6ec8?source=post_page-----bf83204c6ec8----------------------) · 12 min read
 
 
-![](assets/87282b2c483/1*b31hiO4ynbDLRrXWEFF4aQ.png)
+![](../assets/87282b2c483/1*b31hiO4ynbDLRrXWEFF4aQ.png)
 
 
 
-![](assets/87282b2c483/1*b31hiO4ynbDLRrXWEFF4aQ.png)
+![](../assets/87282b2c483/1*b31hiO4ynbDLRrXWEFF4aQ.png)
 
 
 copyright: Marios Lolos

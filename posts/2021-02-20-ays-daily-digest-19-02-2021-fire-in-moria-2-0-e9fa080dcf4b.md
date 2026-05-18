@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,greece]
 description: More returns to Libya//Hundreds in distress at sea//Fire in shanty town for seasonal workers in Spain//& more
 image:
-  path: assets/e9fa080dcf4b/0*ah1kcbbcEdEOGNA8
+  path: ../assets/e9fa080dcf4b/0*ah1kcbbcEdEOGNA8
 ---
 
 ### AYS Daily Digest 19/02/2021 — Fire in Moria 2\.0
 ### More returns to Libya//Hundreds in distress at sea//Fire in shanty town for seasonal workers in Spain//& more
 
 
-![](assets/e9fa080dcf4b/0*f9cg2giy3AqhvB0g.jpeg)
+![](../assets/e9fa080dcf4b/0*f9cg2giy3AqhvB0g.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----174c936a07a6--------------------------------)
@@ -22,11 +22,11 @@ image:
 [Feb 20](ays-daily-digest-19-02-2021-fire-in-moria-2-0-174c936a07a6?source=post_page-----174c936a07a6--------------------------------) · 10 min read
 
 
-![](assets/e9fa080dcf4b/0*_OVC-7AnY-DIY-Tt)
+![](../assets/e9fa080dcf4b/0*_OVC-7AnY-DIY-Tt)
 
 
 
-![](assets/e9fa080dcf4b/0*ah1kcbbcEdEOGNA8)
+![](../assets/e9fa080dcf4b/0*ah1kcbbcEdEOGNA8)
 
 ### FEATURE
 ### Fire on Lesvos again

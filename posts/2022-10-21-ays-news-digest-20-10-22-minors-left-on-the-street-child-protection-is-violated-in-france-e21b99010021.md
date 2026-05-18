@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 20/10/22 : Minors left on the street: child protection is violated in France
+title: "AYS News Digest 20/10/22 : Minors left on the street: child protection is violated in France"
 author: Are You Syrious?
 date: 2022-10-21T19:58:31.306+0100
 last_modified_at: 2022-10-21T21:40:54.600+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: []
 description: Unaccompanied minors are left sleeping on the streets in France// Families sapareted in Serbia// Worrying expectations in Sweden in the…
 image:
-  path: assets/e21b99010021/1*VOR_QejvYztxIYY-HM7G9w.jpeg
+  path: ../assets/e21b99010021/1*VOR_QejvYztxIYY-HM7G9w.jpeg
 ---
 
 ### AYS News Digest 20/10/22 : Minors left on the street: child protection is violated in France
@@ -15,7 +15,7 @@ image:
 Unaccompanied minors are left sleeping on the streets in France// Families separeted in Serbia// Worrying expectations in Sweden in the area of protection and asylum rights// Harsh conditions for people reaching Croatia, and more
 
 
-![Informal camp where unaccompained minors live in France\. Credit: [Les Midid du Mie](https://www.facebook.com/lesmidisdumie/posts/pfbid02X24YzwuqedFwSErPNVUdnHt6rXBuszSxWgBP6mysbnJEVDUPbY785eWysycS25Unl)](assets/e21b99010021/1*VOR_QejvYztxIYY-HM7G9w.jpeg)
+![Informal camp where unaccompained minors live in France\. Credit: [Les Midid du Mie](https://www.facebook.com/lesmidisdumie/posts/pfbid02X24YzwuqedFwSErPNVUdnHt6rXBuszSxWgBP6mysbnJEVDUPbY785eWysycS25Unl)](../assets/e21b99010021/1*VOR_QejvYztxIYY-HM7G9w.jpeg)
 
 Informal camp where unaccompained minors live in France\. Credit: [Les Midid du Mie](https://www.facebook.com/lesmidisdumie/posts/pfbid02X24YzwuqedFwSErPNVUdnHt6rXBuszSxWgBP6mysbnJEVDUPbY785eWysycS25Unl)
 #### FEATURE
@@ -24,7 +24,7 @@ Informal camp where unaccompained minors live in France\. Credit: [Les Midid du 
 Some of them have been there for four months\. They are people left on the street, forgotten and invisibilized, who have nowhere to sleep but that street, between two bridges\. They are from Palestine, Afghanistan, Liberia and other places\. They are people who don’t matter so much where they come from, but who are not welcomed by the French state\. They are unaccompanied minors under appeal to the courts in Paris, Créteil and Bobigny\.
 
 
-![Tents are between two bridges, in dangerous conditions for the minors sleeping there\. Credit: [Les Midid du Mie](https://www.facebook.com/lesmidisdumie/posts/pfbid02X24YzwuqedFwSErPNVUdnHt6rXBuszSxWgBP6mysbnJEVDUPbY785eWysycS25Unl)](assets/e21b99010021/1*8QOYQG5DqIDqCm1Y174Bqw.jpeg)
+![Tents are between two bridges, in dangerous conditions for the minors sleeping there\. Credit: [Les Midid du Mie](https://www.facebook.com/lesmidisdumie/posts/pfbid02X24YzwuqedFwSErPNVUdnHt6rXBuszSxWgBP6mysbnJEVDUPbY785eWysycS25Unl)](../assets/e21b99010021/1*8QOYQG5DqIDqCm1Y174Bqw.jpeg)
 
 Tents are between two bridges, in dangerous conditions for the minors sleeping there\. Credit: [Les Midid du Mie](https://www.facebook.com/lesmidisdumie/posts/pfbid02X24YzwuqedFwSErPNVUdnHt6rXBuszSxWgBP6mysbnJEVDUPbY785eWysycS25Unl)
 
@@ -35,7 +35,7 @@ They are minors seeking a dignified life\. Child protection is not guaranteed as
 ### Families have been separated at Sombor camp
 
 
-![An informal settlement in Sombor close to the istitutional camp fence\. Credit: [Klikaktiv](https://www.facebook.com/klikaktiv/posts/pfbid0exVYNcmq685ALDfFDXyDBZNVEcu8L2VnzyJWAYedCHEu4gcVoeTiTpD6VMsLHa9Zl)](assets/e21b99010021/1*2ZK9DzZ6KSJ21qWCLIRZ_Q.jpeg)
+![An informal settlement in Sombor close to the istitutional camp fence\. Credit: [Klikaktiv](https://www.facebook.com/klikaktiv/posts/pfbid0exVYNcmq685ALDfFDXyDBZNVEcu8L2VnzyJWAYedCHEu4gcVoeTiTpD6VMsLHa9Zl)](../assets/e21b99010021/1*2ZK9DzZ6KSJ21qWCLIRZ_Q.jpeg)
 
 An informal settlement in Sombor close to the istitutional camp fence\. Credit: [Klikaktiv](https://www.facebook.com/klikaktiv/posts/pfbid0exVYNcmq685ALDfFDXyDBZNVEcu8L2VnzyJWAYedCHEu4gcVoeTiTpD6VMsLHa9Zl)
 
@@ -53,7 +53,7 @@ The numbers of people in transit in Serbia are increasing, particularly families
 ### People on the move arriving in Croatia have no institutional support or shelter
 
 
-![People seeking asylum are sleeping on the street in Croatia\. Via: [Tinka Ines Kalajzic](https://www.facebook.com/tinka987/posts/pfbid033AdEX6cVcViKP9zBx6RCvjcSULLBDTZXoRFymqCLLR6wrFPYunpFHgx9F1JtmZJ1l)](assets/e21b99010021/1*ly_5OLjigaMEM2Ql0wXbWA.jpeg)
+![People seeking asylum are sleeping on the street in Croatia\. Via: [Tinka Ines Kalajzic](https://www.facebook.com/tinka987/posts/pfbid033AdEX6cVcViKP9zBx6RCvjcSULLBDTZXoRFymqCLLR6wrFPYunpFHgx9F1JtmZJ1l)](../assets/e21b99010021/1*ly_5OLjigaMEM2Ql0wXbWA.jpeg)
 
 People seeking asylum are sleeping on the street in Croatia\. Via: [Tinka Ines Kalajzic](https://www.facebook.com/tinka987/posts/pfbid033AdEX6cVcViKP9zBx6RCvjcSULLBDTZXoRFymqCLLR6wrFPYunpFHgx9F1JtmZJ1l)
 

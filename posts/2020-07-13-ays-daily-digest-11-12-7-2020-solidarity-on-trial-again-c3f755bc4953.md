@@ -1,20 +1,20 @@
 ---
-title: AYS Weekend Digest 11–12/7/2020: Solidarity on trial, again
+title: "AYS Weekend Digest 11–12/7/2020: Solidarity on trial, again"
 author: Are You Syrious?
 date: 2020-07-13T11:14:20.477+0100
 last_modified_at: 2020-07-13T18:58:06.113+0100
 categories: Are You Syrious?
 tags: [digest,solidarity,police-brutality,hunger-strike,refugees]
-description: GREECE: Hunger Strike on Kos comes to forced end. ITALY: Police brutality and self-harm in the CPR in Gradisca D’Isonzo. And more…
+description: "GREECE: Hunger Strike on Kos comes to forced end. ITALY: Police brutality and self-harm in the CPR in Gradisca D’Isonzo. And more…"
 image:
-  path: assets/c3f755bc4953/1*m5c_vZj3G2ffZZoiKB01aQ.jpeg
+  path: ../assets/c3f755bc4953/1*m5c_vZj3G2ffZZoiKB01aQ.jpeg
 ---
 
 ### AYS Weekend Digest 11–12/7/2020: Solidarity on trial, again
 #### GREECE: Hunger Strike on Kos comes to forced end\. ITALY: Police brutality and self\-harm in the CPR in Gradisca D’Isonzo\. And more…
 
 
-![“On July 11th there is not much we can say\. Just listen to our sisters and brothers in Bosnia and Herzegovina working for a better world and fighting to get justice\. Learn from them\. Our hearts are in Potočary today\. And learn from our history to never turn your back again when people are getting attacked because of their religion, culture or believes\. _Da ne se zaboravi i nikad ne ponovi_ \#NeverForget \(Text by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/a.312076942523930/1022848501446767) / Photo by [Aesthetics of Crisis](https://www.flickr.com/people/aestheticsofcrisis/) , Athens 2017\)](assets/c3f755bc4953/1*m5c_vZj3G2ffZZoiKB01aQ.jpeg)
+![“On July 11th there is not much we can say\. Just listen to our sisters and brothers in Bosnia and Herzegovina working for a better world and fighting to get justice\. Learn from them\. Our hearts are in Potočary today\. And learn from our history to never turn your back again when people are getting attacked because of their religion, culture or believes\. _Da ne se zaboravi i nikad ne ponovi_ \#NeverForget \(Text by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/a.312076942523930/1022848501446767) / Photo by [Aesthetics of Crisis](https://www.flickr.com/people/aestheticsofcrisis/) , Athens 2017\)](../assets/c3f755bc4953/1*m5c_vZj3G2ffZZoiKB01aQ.jpeg)
 
 “On July 11th there is not much we can say\. Just listen to our sisters and brothers in Bosnia and Herzegovina working for a better world and fighting to get justice\. Learn from them\. Our hearts are in Potočary today\. And learn from our history to never turn your back again when people are getting attacked because of their religion, culture or believes\. _Da ne se zaboravi i nikad ne ponovi_ \#NeverForget \(Text by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/a.312076942523930/1022848501446767) / Photo by [Aesthetics of Crisis](https://www.flickr.com/people/aestheticsofcrisis/) , Athens 2017\)
 #### Feature: Solidarity on trial, again
@@ -85,7 +85,7 @@ GREECE
 #### **Pushbacks in the Aegean continue**
 
 
-![\(Photo Credit: [Aegean Boat Report](https://web.facebook.com/AegeanBoatReport/posts/873490133174092) \)](assets/c3f755bc4953/1*66iQWWZb1FYOC08q4ZUDzw.jpeg)
+![\(Photo Credit: [Aegean Boat Report](https://web.facebook.com/AegeanBoatReport/posts/873490133174092) \)](../assets/c3f755bc4953/1*66iQWWZb1FYOC08q4ZUDzw.jpeg)
 
 \(Photo Credit: [Aegean Boat Report](https://web.facebook.com/AegeanBoatReport/posts/873490133174092) \)
 
@@ -146,7 +146,7 @@ However, according to eyewitness accounts gathered by solidarity citizens of the
 #### **Mask Distribution in Vathy, Samos**
 
 
-![\(Photo Credit: [Samos Volunteers](https://web.facebook.com/samosvolunteers/posts/1627310504113770?hc_location=ufi) \)](assets/c3f755bc4953/1*zqA9gycMjcO_M-qge8mETA.jpeg)
+![\(Photo Credit: [Samos Volunteers](https://web.facebook.com/samosvolunteers/posts/1627310504113770?hc_location=ufi) \)](../assets/c3f755bc4953/1*zqA9gycMjcO_M-qge8mETA.jpeg)
 
 \(Photo Credit: [Samos Volunteers](https://web.facebook.com/samosvolunteers/posts/1627310504113770?hc_location=ufi) \)
 
@@ -263,15 +263,15 @@ BELGIUM
 A national demonstration for effective regularisation policies for migrant workers and sans\-papiers was held on Saturday\. Read more [here](https://www.facebook.com/voixsp1/posts/3110474489035759) \(in French\)
 
 
-![](assets/c3f755bc4953/1*hs7-8UkSUkYyMaVcP7yRfA.jpeg)
+![](../assets/c3f755bc4953/1*hs7-8UkSUkYyMaVcP7yRfA.jpeg)
 
 
 
-![](assets/c3f755bc4953/1*R9R3-41XxCSipS1o9G4ZOQ.jpeg)
+![](../assets/c3f755bc4953/1*R9R3-41XxCSipS1o9G4ZOQ.jpeg)
 
 
 
-![Bruxelles, 12/7/2020 \(Photos by [Oscuro Diamante](https://www.facebook.com/natalia.galeano.58)](assets/c3f755bc4953/1*sAZ-CS9jFELjqzeRpHeNRA.jpeg)
+![Bruxelles, 12/7/2020 \(Photos by [Oscuro Diamante](https://www.facebook.com/natalia.galeano.58)](../assets/c3f755bc4953/1*sAZ-CS9jFELjqzeRpHeNRA.jpeg)
 
 Bruxelles, 12/7/2020 \(Photos by [Oscuro Diamante](https://www.facebook.com/natalia.galeano.58)
 

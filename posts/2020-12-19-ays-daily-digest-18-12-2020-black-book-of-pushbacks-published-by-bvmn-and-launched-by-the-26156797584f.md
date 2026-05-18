@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,border-violence,greece,european-union,libya]
 description: Shipwrecks and rescues in Greece and Spain // Germany to restart deportations to Afghanistan // Violence against migrants and activists in…
 image:
-  path: assets/26156797584f/0*UZAe06FXxUiIgN3S.jpeg
+  path: ../assets/26156797584f/0*UZAe06FXxUiIgN3S.jpeg
 ---
 
 ### AYS Daily Digest 18/12/2020 — “Black Book of Pushbacks” published by BVMN and launched by the United Left in the European Parliament
 ### Shipwrecks and rescues in Greece and Spain // Germany to restart deportations to Afghanistan // Violence against migrants and activists in Serbia and Bosnia // and more…
 
 
-![](assets/26156797584f/0*GOe9DrQ6cDbDK1WL.jpeg)
+![](../assets/26156797584f/0*GOe9DrQ6cDbDK1WL.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----a96a1622b796--------------------------------)
@@ -22,11 +22,11 @@ image:
 [Dec 19](ays-daily-digest-18-12-2020-black-book-of-pushbacks-published-by-bvmn-and-launched-by-the-left-a96a1622b796?source=post_page-----a96a1622b796--------------------------------) · 12 min read
 
 
-![](assets/26156797584f/0*eCPRvB0C_Ze597De)
+![](../assets/26156797584f/0*eCPRvB0C_Ze597De)
 
 
 
-![](assets/26156797584f/0*zII_18ydNiVTcgm7.jpeg)
+![](../assets/26156797584f/0*zII_18ydNiVTcgm7.jpeg)
 
 
 Today Border Violence Monitoring Network has released the ‘Black Book of Pushbacks’\. This 1,500\-page publication, in two volumes, has been compiled by the Border Violence Monitoring Network and it exposes in detail the illegal practice of violent pushbacks of migrants which have been taking place over many months at the EU’s external borders — with full impunity\.
@@ -46,11 +46,11 @@ _– many of the incidents documented could be clearly described as sadistic, me
 Fifteen organisations, including AYS, contributed to the book effort through collected testimonies as well as visuals and maps published in the book\. It is made in collaboration with the United Left \(GUE/NGL\) block of the European Parliament, that is why you can see it being presented by MEPs Miguel Urbán and Malin Björk\.
 
 
-![](assets/26156797584f/0*numVjQ26sIu7cViy)
+![](../assets/26156797584f/0*numVjQ26sIu7cViy)
 
 
 
-![](assets/26156797584f/0*Q5-rgW7bziYPGZM9.jpeg)
+![](../assets/26156797584f/0*Q5-rgW7bziYPGZM9.jpeg)
 
 
 According to Hope Barker, [BVMN spokesperson](https://thecivilfleet.wordpress.com/2020/12/18/activists-highlight-europes-mistreatment-of-refugees-this-international-migrants-day/?fbclid=IwAR3o5wxbu6nIOnfRa2GulwVBC5F2TJSHOpw1eeUk2VlRKQ3oSXdWzcPLc5w) :
@@ -58,11 +58,11 @@ According to Hope Barker, [BVMN spokesperson](https://thecivilfleet.wordpress.co
 “This book brings together four years of work by BVMN, collecting nearly 900 testimonies of violent pushbacks at European borders\. Although these accusations are met with denial from the perpetrating countries, what we provide within these pages is an analysis of patterns and photo evidence that reveal an ongoing systematic practice\. And these are just the stories that the Network has managed to record, the reality is much wider and more far\-reaching\.
 
 
-![](assets/26156797584f/0*7aOV_jacGOfEuY9O)
+![](../assets/26156797584f/0*7aOV_jacGOfEuY9O)
 
 
 
-![](assets/26156797584f/0*F8TnW8Fg0SZb07C6.jpeg)
+![](../assets/26156797584f/0*F8TnW8Fg0SZb07C6.jpeg)
 
 
 Khalid from Eritrea, who himself experienced numerous pushbacks including from Slovenia, delivered the Black Book of Pushbacks to the Ombudsperson’s office in Ljubljana, where he was received by the deputy Ombudsperson\. Khalid, who escaped slavery in Eritrea, has been denied asylum \(waiting for an appeal\) on the grounds that “there are NO REPORTS” regarding the conditions in Eritrea, so Slovenia cannot say for sure if he is eligible for asylum\.
@@ -96,11 +96,11 @@ For the full editorial, see [here\.](https://www.ecre.org/progress-on-the-pact-n
 GREECE
 
 
-![](assets/26156797584f/0*4PwK_CfObONF9O5P)
+![](../assets/26156797584f/0*4PwK_CfObONF9O5P)
 
 
 
-![](assets/26156797584f/0*UZAe06FXxUiIgN3S.jpeg)
+![](../assets/26156797584f/0*UZAe06FXxUiIgN3S.jpeg)
 
 
 A dead woman from Somalia [was found in the sea area southeast of Lesvos, today](https://www.politikalesvos.gr/nayagio-me-nekri-gynaika-sti-gera-kai-erotimatika/?fbclid=IwAR0RtBclktq0YDhlrtuMz6R3KZK0ZxDGIEMIuzWxu19-d86o3Gtu62esEqc) \. [This morning](https://www.facebook.com/AegeanBoatReport/posts/993853414471096) before first light, a boat believed to have been carrying 28 people approached land on Lesvos South, Katsinia bay\. Two more women of Somali origin were found alive by Coast Guard boats and are being transported to the Mytilene Hospital in order to be offered first aid\. A fourth man from Afghanistan is still missing, so the search and rescue operation is still trying to locate him\. Initially, the coastguard denied the shipwreck\.

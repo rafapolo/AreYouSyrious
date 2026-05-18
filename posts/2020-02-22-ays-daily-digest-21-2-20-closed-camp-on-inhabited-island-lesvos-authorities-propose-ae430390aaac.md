@@ -1,13 +1,13 @@
 ---
-title: AYS Daily Digest 21/2/20: Closed camp on uninhabited island, Lesvos authorities propose
+title: "AYS Daily Digest 21/2/20: Closed camp on uninhabited island, Lesvos authorities propose"
 author: Are You Syrious?
 date: 2020-02-22T10:12:35.155+0000
 last_modified_at: 2020-02-22T17:07:23.810+0000
 categories: Are You Syrious?
 tags: [digest,refugees,lesvos,nea-dimokratia,idlib]
-description: North Syria: civilians increasingly at risk. Croatia/BiH: Border fence built at border. UK: Protests against expansion of Heatrow…
+description: "North Syria: civilians increasingly at risk. Croatia/BiH: Border fence built at border. UK: Protests against expansion of Heatrow…"
 image:
-  path: assets/ae430390aaac/1*zw4f5tOQHVqXVzFpN_faaw.jpeg
+  path: ../assets/ae430390aaac/1*zw4f5tOQHVqXVzFpN_faaw.jpeg
 ---
 
 ### AYS Daily Digest 21/2/20: Lesvos authorities propose closed camp on uninhabited island
@@ -16,7 +16,7 @@ Syria: freedom of movement of civilians increasingly at risk /// Border fence bu
 
 
 ![“Syrian People Syrian War” By Yaser Ahmad \(via [Art Against](https://www.facebook.com/artagainstproject/photos/a.704384742944296/2752786191437464/?type=3&theater) \)
-[\#noborders](https://www.facebook.com/hashtag/noborders?epa=HASHTAG)](assets/ae430390aaac/1*zw4f5tOQHVqXVzFpN_faaw.jpeg)
+[\#noborders](https://www.facebook.com/hashtag/noborders?epa=HASHTAG)](../assets/ae430390aaac/1*zw4f5tOQHVqXVzFpN_faaw.jpeg)
 
 “Syrian People Syrian War” By Yaser Ahmad \(via [Art Against](https://www.facebook.com/artagainstproject/photos/a.704384742944296/2752786191437464/?type=3&theater) \)
 [\#noborders](https://www.facebook.com/hashtag/noborders?epa=HASHTAG)
@@ -26,11 +26,11 @@ Syria: freedom of movement of civilians increasingly at risk /// Border fence bu
 Several local media outlets are [reporting](https://www.keeptalkinggreece.com/2020/02/21/lesvos-migration-center-uninhabited-islet-tokmakia/) that authorities on Lesvos have sent a counter\-proposal to the central Greek government, regarding the construction of a closed centre on the island\. Instead they want the centre to be built on a small uninhabited inlet off the eastern coast of Lesvos called Tokmakia/Aspronisia, with an area of 560 acres \(around 2,266 sqm\) \.
 
 
-![](assets/ae430390aaac/1*BVQzWqrrXEbCXhZtNS9TkQ.png)
+![](../assets/ae430390aaac/1*BVQzWqrrXEbCXhZtNS9TkQ.png)
 
 
 
-![Lesvos \(left\) and Aspronisia \(right\), the uninhabited inlet selected by Lesvos authorities for imprisoning people on the move](assets/ae430390aaac/1*H8N8TkBRGPhHKZzIZcMK_Q.png)
+![Lesvos \(left\) and Aspronisia \(right\), the uninhabited inlet selected by Lesvos authorities for imprisoning people on the move](../assets/ae430390aaac/1*H8N8TkBRGPhHKZzIZcMK_Q.png)
 
 Lesvos \(left\) and Aspronisia \(right\), the uninhabited inlet selected by Lesvos authorities for imprisoning people on the move
 
@@ -56,7 +56,7 @@ GREECE
 Eric Maddox, from Latitude Adjustment Podcast, published some thoughts on Moria before leaving the island\.
 
 
-[![Reflections On My Last Visit To Moria Refugee Camp](assets/ae430390aaac/f38c_hqdefault.jpg "Reflections On My Last Visit To Moria Refugee Camp")](https://www.youtube.com/watch?v=M2Ek2aE9hhQ)
+[![Reflections On My Last Visit To Moria Refugee Camp](../assets/ae430390aaac/f38c_hqdefault.jpg "Reflections On My Last Visit To Moria Refugee Camp")](https://www.youtube.com/watch?v=M2Ek2aE9hhQ)
 
 
 Stay in touch for the five\-episode special collaboration between AYS and Latitude Adjustment\.

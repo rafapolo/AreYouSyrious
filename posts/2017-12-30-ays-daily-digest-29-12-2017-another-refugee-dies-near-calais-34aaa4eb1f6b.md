@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 29/12/2017: Another refugee dies near Calais
+title: "AYS DAILY DIGEST 29/12/2017: Another refugee dies near Calais"
 author: Are You Syrious?
 date: 2017-12-30T10:37:33.233+0000
 last_modified_at: 2017-12-30T11:14:39.412+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,serbia,no-name-kitchen,greece,lesvos]
 description: Second refugee dies in the Calais region in a matter of weeks//No Name Kitchen responds to accusations of being the root cause behind…
 image:
-  path: assets/34aaa4eb1f6b/1*7w8uU-CCn5_8Xz8zKBqjnQ.png
+  path: ../assets/34aaa4eb1f6b/1*7w8uU-CCn5_8Xz8zKBqjnQ.png
 ---
 
 ### AYS DAILY DIGEST 29/12/2017: Another refugee dies near Calais
@@ -15,7 +15,7 @@ image:
 _Second refugee dies in the Calais region in a matter of weeks//No Name Kitchen responds to accusations of being the root cause behind Christmas protests in Serbia_ // _Critical situation in the Malaga detention centre_ //
 
 
-![Calais before the eviction\. Photo by the Worldwide Tribe](assets/34aaa4eb1f6b/1*7w8uU-CCn5_8Xz8zKBqjnQ.png)
+![Calais before the eviction\. Photo by the Worldwide Tribe](../assets/34aaa4eb1f6b/1*7w8uU-CCn5_8Xz8zKBqjnQ.png)
 
 Calais before the eviction\. Photo by the Worldwide Tribe
 #### Feature
@@ -46,7 +46,7 @@ A vigil will be held for the latest victim this Saturday at 18:30 in front of Ri
 Help Refugees also calls on authorities to reopen the emergency accommodation centres in Calais which could shelter 260 people and has provided a [template email](https://www.facebook.com/HelpRefugeesUK/photos/a.123267671367248.1073741830.111893659171316/543386972688647/?type=3&theater) to send to the local Prefecture\. The Refugee Info Bus notes that authorities argued it is “not cold enough” to open the centres, despite freezing winds and heavy rain forecast overnight\.
 
 
-![Photo by Futuro Berg](assets/34aaa4eb1f6b/1*sNITKbgAMZKJRIP3EstDjA.png)
+![Photo by Futuro Berg](../assets/34aaa4eb1f6b/1*sNITKbgAMZKJRIP3EstDjA.png)
 
 Photo by Futuro Berg
 #### Greece
@@ -89,7 +89,7 @@ However, the Commissariat for Refugees \(KIRS\), the organisation responsible fo
 
 
 
-![Photo by [**Gabriel Tizon**](https://www.facebook.com/gabrieltizonfotografo/)](assets/34aaa4eb1f6b/1*7DhqkY4c_nVh8Gdb-YHD5w.png)
+![Photo by [**Gabriel Tizon**](https://www.facebook.com/gabrieltizonfotografo/)](../assets/34aaa4eb1f6b/1*7DhqkY4c_nVh8Gdb-YHD5w.png)
 
 Photo by [**Gabriel Tizon**](https://www.facebook.com/gabrieltizonfotografo/)
 #### Croatia

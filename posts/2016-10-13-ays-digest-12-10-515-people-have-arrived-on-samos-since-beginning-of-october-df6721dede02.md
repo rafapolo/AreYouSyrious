@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: 515 people have arrived on Samos since beginning of October — 2,089 refugees are on Samos despite capacity for only 850. Calais eviction…
 image:
-  path: assets/df6721dede02/0*ZnDydhE-3JucaYaN.
+  path: ../assets/df6721dede02/0*ZnDydhE-3JucaYaN.
 ---
 
 ### AYS Digest 12\.10 — _515 people have arrived on Samos since beginning of October_
@@ -15,14 +15,14 @@ image:
 _515 people have arrived on Samos since beginning of October — 2,089 refugees are on Samos despite capacity for only 850\. Calais eviction could be postponed by a week\. Concerns emerge over lack of plan for child refugees after Calais eviction\._
 
 
-![Arrival in Lesvos\. Photo by The Worldwide Tribe](assets/df6721dede02/0*ZnDydhE-3JucaYaN.)
+![Arrival in Lesvos\. Photo by The Worldwide Tribe](../assets/df6721dede02/0*ZnDydhE-3JucaYaN.)
 
 Arrival in Lesvos\. Photo by The Worldwide Tribe
 #### Greece
 ### 515 people have arrived on Samos since the beginning of October
 
 
-![Mosaic in Lesvos\. Photo by the Dirty Girls of Lesvos](assets/df6721dede02/0*5KFp1TTlK6b4iYui.jpg)
+![Mosaic in Lesvos\. Photo by the Dirty Girls of Lesvos](../assets/df6721dede02/0*5KFp1TTlK6b4iYui.jpg)
 
 Mosaic in Lesvos\. Photo by the Dirty Girls of Lesvos
 
@@ -38,21 +38,21 @@ According to volunteers, one boat with 42 people reached Chios and one boat with
 In the daily summary of refugee flows, the UNHCR accomodation places were shifted from the islands’ capacity to the one for UNHCR, mathematically dropping the official capacity of the islands from 7,903 to 7450\. With this change, there is now close to the double the refugees, as there is capacity in the camps\.
 
 
-![Movie night in Greece\. Photo by Northern Lights Aid](assets/df6721dede02/0*C-ge7Wq9kV-WYYHL.)
+![Movie night in Greece\. Photo by Northern Lights Aid](../assets/df6721dede02/0*C-ge7Wq9kV-WYYHL.)
 
 Movie night in Greece\. Photo by Northern Lights Aid
 
 The number of refugees in Cherso and Nea Kavala again dropped by a hundred people each, while 68 refugees were transferred to Filippiada\.
 
 
-![Arrival of refugees in Filippiada](assets/df6721dede02/0*WDgnMYfPJnY9YiD1.)
+![Arrival of refugees in Filippiada](../assets/df6721dede02/0*WDgnMYfPJnY9YiD1.)
 
 Arrival of refugees in Filippiada
 #### France
 ### Calais evacuation could be postponed by a week
 
 
-![Calais\. Photo by the Worldwide Tribe](assets/df6721dede02/0*oS-HpTTlJPNPnEEV.jpg)
+![Calais\. Photo by the Worldwide Tribe](../assets/df6721dede02/0*oS-HpTTlJPNPnEEV.jpg)
 
 Calais\. Photo by the Worldwide Tribe
 
@@ -82,7 +82,7 @@ _The easiest way to help and make sure this does not happen again?_
 Support the “Phone Credit for Refugees” project, that helps keep unaccompanied children safe and connected\.
 
 
-![](assets/df6721dede02/0*KufXSA0iD1VQAvdw.)
+![](../assets/df6721dede02/0*KufXSA0iD1VQAvdw.)
 
 #### Serbia
 ### Over 1,000 refugees sleep in the streets of Belgrade
@@ -92,7 +92,7 @@ IOM says some 4,992 migrants were stranded in Serbia as of the 5th of October, w
 The number of people sleeping rough in Belgrade could be much higher than official UNHCR numbers, as the Miksalište centre, which provides food, clothing, medical and psychological help for refugee families, says that today alone, 26 adults and 382 children used their services\.
 
 
-![Distribution of 600 meals in Refugee Aid Sebia\.](assets/df6721dede02/0*WFziMslU8fhxqkUY.)
+![Distribution of 600 meals in Refugee Aid Sebia\.](../assets/df6721dede02/0*WFziMslU8fhxqkUY.)
 
 Distribution of 600 meals in Refugee Aid Sebia\.
 ### 121 men transferred to Presevo while volunteers report push\-backs from Presevo to Macedonia

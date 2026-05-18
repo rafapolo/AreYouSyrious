@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 12/6/20: 53 people drown in the Mediterranean
+title: "AYS Daily Digest 12/6/20: 53 people drown in the Mediterranean"
 author: Are You Syrious?
 date: 2020-06-13T12:34:19.892+0100
 last_modified_at: 2020-06-13T12:34:19.892+0100
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: []
 description: Are You Syrious?
 image:
-  path: assets/6a02a8f24a3a/0*KMZIuGkwtj-KzjHz.jpeg
+  path: ../assets/6a02a8f24a3a/0*KMZIuGkwtj-KzjHz.jpeg
 ---
 
 ### AYS Daily Digest 12/6/20: 53 people drown in the Mediterranean
 
 
-![](assets/6a02a8f24a3a/0*HOjG7wW81Tcyg5eL.jpeg)
+![](../assets/6a02a8f24a3a/0*HOjG7wW81Tcyg5eL.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----e01bc2dbd419----------------------)
@@ -23,11 +23,11 @@ image:
 Update on the shipwreck off the coast of Tunisia // Harassment of Journalist in Bosnia // Ongoing confusion at the Greek port of Mytilene // Open letter to the EU Commission
 
 
-![](assets/6a02a8f24a3a/0*IBm4WphMYWGpgfE7)
+![](../assets/6a02a8f24a3a/0*IBm4WphMYWGpgfE7)
 
 
 
-![](assets/6a02a8f24a3a/0*KMZIuGkwtj-KzjHz.jpeg)
+![](../assets/6a02a8f24a3a/0*KMZIuGkwtj-KzjHz.jpeg)
 
 
 [https://www\.facebook\.com/alagooon/photos/a\.1676821635940903/2651392351817155/?type=3&theater&ifg=1](https://www.facebook.com/alagooon/photos/a.1676821635940903/2651392351817155/?type=3&theater&ifg=1)
@@ -60,19 +60,19 @@ Within the report, he speaks about multiple encounters with the Bosnian police:
 
 
 
-![](assets/6a02a8f24a3a/0*XB0ho9cPIAB3HE6w)
+![](../assets/6a02a8f24a3a/0*XB0ho9cPIAB3HE6w)
 
 
 
-![](assets/6a02a8f24a3a/0*9owc0Z7Du8aykKMP.jpeg)
+![](../assets/6a02a8f24a3a/0*9owc0Z7Du8aykKMP.jpeg)
 
 
 
-![](assets/6a02a8f24a3a/0*0Q61gALECIfQdtUX)
+![](../assets/6a02a8f24a3a/0*0Q61gALECIfQdtUX)
 
 
 
-![](assets/6a02a8f24a3a/0*C42XyhQPGy0TO3au.jpeg)
+![](../assets/6a02a8f24a3a/0*C42XyhQPGy0TO3au.jpeg)
 
 
 [https://media\.ba/bs/magazin\-novinarstvo/izvjestavanje\-sa\-terena\-tokom\-mjera\-zabrane\-rizici\-izazovi\-i\-prijetnje?fbclid=IwAR391qZTBRpygAW6Whm2VGNRYoRwSP27Lvptew1VZZgql7waBrk\-PDJcsM0](https://media.ba/bs/magazin-novinarstvo/izvjestavanje-sa-terena-tokom-mjera-zabrane-rizici-izazovi-i-prijetnje?fbclid=IwAR391qZTBRpygAW6Whm2VGNRYoRwSP27Lvptew1VZZgql7waBrk-PDJcsM0)

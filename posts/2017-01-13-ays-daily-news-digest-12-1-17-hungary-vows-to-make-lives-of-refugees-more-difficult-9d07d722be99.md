@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe,italy,paris,hungary]
 description: Feature
 image:
-  path: assets/9d07d722be99/1*LE9jY2E5DRU8s-KZC5ZQKg.jpeg
+  path: ../assets/9d07d722be99/1*LE9jY2E5DRU8s-KZC5ZQKg.jpeg
 ---
 
 ### AYS Daily News Digest 12\.1\.17 — Hungary vows to make lives of refugees more difficult
 
 
-![The snow is taking a harsh toll on refugees in the Balkans\. Arrivals on the Greek islands have ground to a halt\. Photo Credit: MSF International](assets/9d07d722be99/1*LE9jY2E5DRU8s-KZC5ZQKg.jpeg)
+![The snow is taking a harsh toll on refugees in the Balkans\. Arrivals on the Greek islands have ground to a halt\. Photo Credit: MSF International](../assets/9d07d722be99/1*LE9jY2E5DRU8s-KZC5ZQKg.jpeg)
 
 The snow is taking a harsh toll on refugees in the Balkans\. Arrivals on the Greek islands have ground to a halt\. Photo Credit: MSF International
 #### Feature
@@ -62,7 +62,7 @@ If you are available and would like to offer your services, please email them at
 ### Athens group provides medical services to those in need
 
 
-![](assets/9d07d722be99/1*H3lOswp5Qq8-6LARi5SDkg.jpeg)
+![](../assets/9d07d722be99/1*H3lOswp5Qq8-6LARi5SDkg.jpeg)
 
 #### Serbia
 
@@ -123,7 +123,7 @@ Finally, Medu calls for structural interventions to implement of systems that wi
 ### 123 were rescued today by MSF Sea
 
 
-![](assets/9d07d722be99/1*AxZj20e7BiRbRu7nCjwDzQ.jpeg)
+![](../assets/9d07d722be99/1*AxZj20e7BiRbRu7nCjwDzQ.jpeg)
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 14/7/18: The silent majority rises while Europe plans another anti-people project
+title: "AYS Daily Digest 14/7/18: The silent majority rises while Europe plans another anti-people project"
 author: Are You Syrious?
 date: 2018-07-15T12:20:15.622+0100
 last_modified_at: 2018-07-15T18:03:48.619+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [europe,refugees,germany,italy,digest]
 description: Out of sight, out of mind- Austria’s proposal for sending people back, in ‘Return Centres’, with new dubious collaborations / Protests in…
 image:
-  path: assets/2e8613ffb39e/1*nVq6jtsLV-n15Jq250ZmKQ.jpeg
+  path: ../assets/2e8613ffb39e/1*nVq6jtsLV-n15Jq250ZmKQ.jpeg
 ---
 
 ### AYS Daily Digest 14/7/18: The silent majority rises while Europe plans another anti\-people project
@@ -15,11 +15,11 @@ image:
 _Out of sight, out of mind\- Austria’s proposal for sending people back, in ‘Return Centres’, with new dubious collaborations / Protests in support of the sea rescue across Germany / Protests against the fascist policies in Italy / Greece\-Important reminder for those without documents / FR constitutional court hopes its decision reverberates across the EU during rising xenophobia, hostile anti\-immigration policies and closed borders / more news_
 
 
-![](assets/2e8613ffb39e/1*nVq6jtsLV-n15Jq250ZmKQ.jpeg)
+![](../assets/2e8613ffb39e/1*nVq6jtsLV-n15Jq250ZmKQ.jpeg)
 
 
 
-![Protests in support of the sea rescue happening across Germany, Cologne protest photo by: Jugend Rettet e\.V\. Nordrhein\-Westfalen / Protest in Ventimiglia, Italy; photo by: [Progetto20k](https://www.facebook.com/progetto20k/?hc_location=group_dialog)](assets/2e8613ffb39e/1*pi6blou-Uvb8ZGeEu77CXg.jpeg)
+![Protests in support of the sea rescue happening across Germany, Cologne protest photo by: Jugend Rettet e\.V\. Nordrhein\-Westfalen / Protest in Ventimiglia, Italy; photo by: [Progetto20k](https://www.facebook.com/progetto20k/?hc_location=group_dialog)](../assets/2e8613ffb39e/1*pi6blou-Uvb8ZGeEu77CXg.jpeg)
 
 Protests in support of the sea rescue happening across Germany, Cologne protest photo by: Jugend Rettet e\.V\. Nordrhein\-Westfalen / Protest in Ventimiglia, Italy; photo by: [Progetto20k](https://www.facebook.com/progetto20k/?hc_location=group_dialog)
 #### FEATURE — EU finding new ways to send people back to lands of danger and no perspective
@@ -80,7 +80,7 @@ Of the 104 people, 74 men and 13 women were from Eritrea, and the operation took
 #### SEA
 
 
-![Infographics by [Watch The Med — Alarmphone](https://www.facebook.com/watchthemed.alarmphone/?hc_location=group_dialog)](assets/2e8613ffb39e/1*xy5ceLidHjdrNre6nNCJng.jpeg)
+![Infographics by [Watch The Med — Alarmphone](https://www.facebook.com/watchthemed.alarmphone/?hc_location=group_dialog)](../assets/2e8613ffb39e/1*xy5ceLidHjdrNre6nNCJng.jpeg)
 
 Infographics by [Watch The Med — Alarmphone](https://www.facebook.com/watchthemed.alarmphone/?hc_location=group_dialog)
 
@@ -168,7 +168,7 @@ Between 5 and 10 thousand people from Italy, Spain, France and different African
 ### French constitutional court ruled that activist Cédric Herrou should not have been put on trial and prosecuted last year
 
 
-![Photo: [Landworkers’ Alliance](https://www.facebook.com/LandWorkersAlliance/?hc_location=group_dialog)](assets/2e8613ffb39e/1*gBYUqwB3_2RUaj8UyLcyrA.jpeg)
+![Photo: [Landworkers’ Alliance](https://www.facebook.com/LandWorkersAlliance/?hc_location=group_dialog)](../assets/2e8613ffb39e/1*gBYUqwB3_2RUaj8UyLcyrA.jpeg)
 
 Photo: [Landworkers’ Alliance](https://www.facebook.com/LandWorkersAlliance/?hc_location=group_dialog)
 
@@ -190,7 +190,7 @@ Herrou believed ‘he had a duty to provide food and shelter to desperate migran
 It also suggested, and we hope, that its ruling could reverberate across the Europe and the European Union at a time of deep divisions of it’s member states with rising xenophobia, hostile anti\-immigration policies and closed borders\.
 
 
-![Photo: [Landworkers’ Alliance](https://www.facebook.com/LandWorkersAlliance/?hc_location=group_dialog)](assets/2e8613ffb39e/1*eL2twJpN7GiqvCPpeyCqew.jpeg)
+![Photo: [Landworkers’ Alliance](https://www.facebook.com/LandWorkersAlliance/?hc_location=group_dialog)](../assets/2e8613ffb39e/1*eL2twJpN7GiqvCPpeyCqew.jpeg)
 
 Photo: [Landworkers’ Alliance](https://www.facebook.com/LandWorkersAlliance/?hc_location=group_dialog)
 #### GERMANY
@@ -212,7 +212,7 @@ While Germany [continues with deportations to Afghanistan](http://www.sueddeutsc
 Enough is Enough [reports](https://enoughisenough14.org/2018/07/14/reportback-seebruecke-thousands-took-the-streets-across-germany-to-protest-against-drownings-border-closures-criminalization-of-life-savers/) the demonstration in Cologne was one of many demonstrations across Germany\. In Hamburg 4500 people took the streets, in Essen around 1500\. In total about 14\.000 people took the streets last night, with [many demonstrations in other cities already announced for the coming days](https://seebruecke.org/wp/#aktionen) \. Next actions in support of the sea rescue have also been announced by the Seebrücke: [https://seebruecke\.org/wp/](https://seebruecke.org/wp/)
 
 
-![Photo: [Jugend Rettet e\.V\. Nordrhein\-Westfalen](https://www.facebook.com/JugendRettetNRW/)](assets/2e8613ffb39e/1*Msqie7Rf_C36YbC0SlYE3w.jpeg)
+![Photo: [Jugend Rettet e\.V\. Nordrhein\-Westfalen](https://www.facebook.com/JugendRettetNRW/)](../assets/2e8613ffb39e/1*Msqie7Rf_C36YbC0SlYE3w.jpeg)
 
 Photo: [Jugend Rettet e\.V\. Nordrhein\-Westfalen](https://www.facebook.com/JugendRettetNRW/)
 

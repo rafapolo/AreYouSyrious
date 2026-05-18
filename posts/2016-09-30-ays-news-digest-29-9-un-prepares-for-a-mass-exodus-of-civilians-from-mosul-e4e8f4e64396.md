@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe]
 description: Meanwhile, according to EU standards, Iraq is a “safe” country and refugees from Iraq have to jump through hoops to be considered for…
 image:
-  path: assets/e4e8f4e64396/1*aGrnu82fd614Vn_F6f0T6A.jpeg
+  path: ../assets/e4e8f4e64396/1*aGrnu82fd614Vn_F6f0T6A.jpeg
 ---
 
 ### AYS NEWS DIGEST 29/9 — UN prepares for a mass exodus of civilians from Mosul
 #### Meanwhile, according to EU standards, Iraq is a “safe” country and refugees from Iraq have to jump through hoops to be considered for asylum\. This, along with the shame of yesterday’s news of the EU blackmailing Afghanistan to take in refugees deported from Europe, shows that despite posturing, Europe remains morally corrupt and indifferent about the lives of people fleeing war\.
 
 
-![Children playing in a camp on the island of Chios\. Photo Credit: Louisa Gouiliamaki, AFP](assets/e4e8f4e64396/1*aGrnu82fd614Vn_F6f0T6A.jpeg)
+![Children playing in a camp on the island of Chios\. Photo Credit: Louisa Gouiliamaki, AFP](../assets/e4e8f4e64396/1*aGrnu82fd614Vn_F6f0T6A.jpeg)
 
 Children playing in a camp on the island of Chios\. Photo Credit: Louisa Gouiliamaki, AFP
 #### Iraq
@@ -45,7 +45,7 @@ In the last 24 hours, Megisti formerly housing 14 refugees has been removed from
 September has proven to be a rather slow month for refugee movement into Europe, as evidenced by the chart below\. The numbers continue to be higher than they were before the attempted coup in Turkey in July, but remain comparatively small\. Such results come as a result of the EU\-Turkey deal, which formally remains on the table but which seems to be coming to its end\. An end to the deal would mean an end to Turkish border control preventing refugees from making the crossing in larger numbers\.
 
 
-![](assets/e4e8f4e64396/1*xMKFPoOCik_w7HbpB_Q13A.png)
+![](../assets/e4e8f4e64396/1*xMKFPoOCik_w7HbpB_Q13A.png)
 
 ### In the Loop has published an excellent newsletter on the Moria Fire\.
 
@@ -53,7 +53,7 @@ The newsletter features the testimony of the camp’s inhabitants and may be acc
 #### Italy
 
 
-![Refugees staging a peaceful protest of conditions in ex\-barracks Serena in Treviso\. Photo Credit: Melting Pot Europa](assets/e4e8f4e64396/1*nDVpXHR0V0Vl0yQBbcNK1g.jpeg)
+![Refugees staging a peaceful protest of conditions in ex\-barracks Serena in Treviso\. Photo Credit: Melting Pot Europa](../assets/e4e8f4e64396/1*nDVpXHR0V0Vl0yQBbcNK1g.jpeg)
 
 Refugees staging a peaceful protest of conditions in ex\-barracks Serena in Treviso\. Photo Credit: Melting Pot Europa
 ### Refugees in Treviso protest living conditions\.

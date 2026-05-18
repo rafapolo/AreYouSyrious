@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 24/05/2019: Arrivals, Arrests, Closures, Confusion in Italy
+title: "AYS DAILY DIGEST 24/05/2019: Arrivals, Arrests, Closures, Confusion in Italy"
 author: Are You Syrious?
 date: 2019-05-25T15:19:11.423+0100
 last_modified_at: 2019-05-25T15:19:11.423+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [newsletter,refugees,human-rights-violations,italy]
 description: So they are hypocrites? Yes, and now what… // Fight in Diavata Camp // European Commission expresses concern over new deportation rules //…
 image:
-  path: assets/4a91051e4586/1*p6amAErGKEUakh63MePLsw.jpeg
+  path: ../assets/4a91051e4586/1*p6amAErGKEUakh63MePLsw.jpeg
 ---
 
 ### AYS DAILY DIGEST 24/05/2019: Arrivals, Arrests, Closures, Confusion in Italy
@@ -15,7 +15,7 @@ image:
 _So they are hypocrites? Yes, and now what… // Fight in Diavata Camp // European Commission expresses concern over new deportation rules // Support needed in Brussells // Fundraiser to help the family of a deceased man receive his body…_
 
 
-![PHoto Credit: Art Against](assets/4a91051e4586/1*p6amAErGKEUakh63MePLsw.jpeg)
+![PHoto Credit: Art Against](../assets/4a91051e4586/1*p6amAErGKEUakh63MePLsw.jpeg)
 
 PHoto Credit: Art Against
 
@@ -90,7 +90,7 @@ We should continue to highlight them in the hopes of bringing more people who ar
 Additionally there was a large fight between two groups of men in Diavata Camp yesterday\. There are no further updates as of yet, and any information is more than welcome — please contact us\. According to the eyewitness, the police did not intervene in any way\.
 
 
-![Police in the camp\. Photo Credit: [Lagkadikia Camp](https://www.facebook.com/lagkadikia.camp.12?__tn__=%2CdC-R-R&eid=ARBeJwNJ-8gIWIZzXhEmYntZbYVIJCkzyFVC2SIdibzcSXpKNL2kS6CBHz1rhCI0RCo2iWq6guH9nOKT&hc_ref=ARRd-w5xTKLl-ZujMSSXi2wCkAtraByWiHPCvlkXSxJOGoptEX4EeXs3lrarINKWU-c&fref=nf)](assets/4a91051e4586/1*zKnhw6d0977nzv-gPDMvwQ.jpeg)
+![Police in the camp\. Photo Credit: [Lagkadikia Camp](https://www.facebook.com/lagkadikia.camp.12?__tn__=%2CdC-R-R&eid=ARBeJwNJ-8gIWIZzXhEmYntZbYVIJCkzyFVC2SIdibzcSXpKNL2kS6CBHz1rhCI0RCo2iWq6guH9nOKT&hc_ref=ARRd-w5xTKLl-ZujMSSXi2wCkAtraByWiHPCvlkXSxJOGoptEX4EeXs3lrarINKWU-c&fref=nf)](../assets/4a91051e4586/1*zKnhw6d0977nzv-gPDMvwQ.jpeg)
 
 Police in the camp\. Photo Credit: [Lagkadikia Camp](https://www.facebook.com/lagkadikia.camp.12?__tn__=%2CdC-R-R&eid=ARBeJwNJ-8gIWIZzXhEmYntZbYVIJCkzyFVC2SIdibzcSXpKNL2kS6CBHz1rhCI0RCo2iWq6guH9nOKT&hc_ref=ARRd-w5xTKLl-ZujMSSXi2wCkAtraByWiHPCvlkXSxJOGoptEX4EeXs3lrarINKWU-c&fref=nf)
 ### FRANCE
@@ -124,7 +124,7 @@ Care4Calais posted an update on their work in Brussels\.
 
 
 
-![Photo Credit: Care4Calais](assets/4a91051e4586/1*dLXU-i7MOMk43Ypv88u-Jg.jpeg)
+![Photo Credit: Care4Calais](../assets/4a91051e4586/1*dLXU-i7MOMk43Ypv88u-Jg.jpeg)
 
 Photo Credit: Care4Calais
 ### GERMANY

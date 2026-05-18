@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,home-office,deportations]
 description: 132 Deaths in the Central Mediterranean This Month//Head of Spanish Navy Emphasizes Legal and Moral Obligation to Rescue
 image:
-  path: assets/b3d6d09c0e28/0*RW6QbKkQId8TTSuL.jpg
+  path: ../assets/b3d6d09c0e28/0*RW6QbKkQId8TTSuL.jpg
 ---
 
 ### AYS Daily Digest 27/11/2020 — Heavy Criticisms of Planned Deportation from UK to Jamaica
 #### 132 Deaths in the Central Mediterranean This Month//Head of Spanish Navy Emphasizes Legal and Moral Obligation to Rescue
 
 
-![The rescue ship Menkalinan brings people to Arguineguin in the Canary Islands\. Photo credit: Quique Curbelo \(EFE\) via [Cadena Ser](https://cadenaser.com/ser/2020/11/27/sociedad/1606458427_235488.html?fbclid=IwAR1rOObbDgLNH8WEdt3QM4qU8RlDZwPc7FbuGQUlR1hPw3Av9YkEw8F4LuA)](assets/b3d6d09c0e28/0*RW6QbKkQId8TTSuL.jpg)
+![The rescue ship Menkalinan brings people to Arguineguin in the Canary Islands\. Photo credit: Quique Curbelo \(EFE\) via [Cadena Ser](https://cadenaser.com/ser/2020/11/27/sociedad/1606458427_235488.html?fbclid=IwAR1rOObbDgLNH8WEdt3QM4qU8RlDZwPc7FbuGQUlR1hPw3Av9YkEw8F4LuA)](../assets/b3d6d09c0e28/0*RW6QbKkQId8TTSuL.jpg)
 
 The rescue ship Menkalinan brings people to Arguineguin in the Canary Islands\. Photo credit: Quique Curbelo \(EFE\) via [Cadena Ser](https://cadenaser.com/ser/2020/11/27/sociedad/1606458427_235488.html?fbclid=IwAR1rOObbDgLNH8WEdt3QM4qU8RlDZwPc7FbuGQUlR1hPw3Av9YkEw8F4LuA)
 

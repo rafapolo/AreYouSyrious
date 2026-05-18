@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,syria,uk,i̇taly,greece]
 description: International day against police brutality // New reports of illegal pushbacks in the Mediterranean // Protests amongst people on…
 image:
-  path: assets/c47acfeec5ba/1*jTUHaSMJ3-rrST_x7cOiiw.jpeg
+  path: ../assets/c47acfeec5ba/1*jTUHaSMJ3-rrST_x7cOiiw.jpeg
 ---
 
 ### AYS Daily Digest 15/03/2021 — A decade later, the war on Syria’s civilians is far from over
@@ -15,7 +15,7 @@ image:
 ### SYRIA
 
 
-![](assets/c47acfeec5ba/1*jTUHaSMJ3-rrST_x7cOiiw.jpeg)
+![](../assets/c47acfeec5ba/1*jTUHaSMJ3-rrST_x7cOiiw.jpeg)
 
 
 It’s been ten years since the first peaceful demonstrations in Syria erupted to topple the Assad regime, which responded with brutal violence and repression and, later, armed conflict\.
@@ -66,7 +66,7 @@ This week’s “The Final Straw” features a conversation with Joey Ayoub and 
 The voices of many protesters, journalists, activists, and survivors are collected in this [thread\.](https://twitter.com/ejbeals/status/1371430186118475776?fbclid=IwAR0zKtlA8PtxHZ16fWgk_oBV54oFaFF2okjv23IFVDqGzsLtzESej18fCKA)
 
 
-![](assets/c47acfeec5ba/1*K0r-em8detLH1MNqsr6D0g.jpeg)
+![](../assets/c47acfeec5ba/1*K0r-em8detLH1MNqsr6D0g.jpeg)
 
 
 AlJazeera has this compelling [photo essay](https://interactive.aljazeera.com/aje/2021/syria-10-years-by-syrian-photographers/index.html?fbclid=IwAR07UMynEfAghlyBTvCPk0eDLI5QzzUumkycarypuQWcwiEZrguos-5CYIg) about the conflict, seen through the eyes of 16 photographers and their testimony\. The collection highlights the cost of the crisis while shining a light on the strength of Syria’s people and their hopes for a future without conflict\.
@@ -105,7 +105,7 @@ Months ago, t [he European Commission promised there would be “No more Morias�
 ### INTERNATIONAL DAY AGAINST POLICE BRUTALITY
 
 
-![](assets/c47acfeec5ba/1*ociiCBPISoQYjXQJEtgGzA.jpeg)
+![](../assets/c47acfeec5ba/1*ociiCBPISoQYjXQJEtgGzA.jpeg)
 
 ### BALKANS
 
@@ -116,7 +116,7 @@ Repression at all costs at the [closed centre of Merksplas](https://www.gettingt
 ### UNITED KINGDOM
 
 
-![Artwork from Penally Camp artist](assets/c47acfeec5ba/1*SZP_3E3jI4kiJ0HsP004Jg.jpeg)
+![Artwork from Penally Camp artist](../assets/c47acfeec5ba/1*SZP_3E3jI4kiJ0HsP004Jg.jpeg)
 
 Artwork from Penally Camp artist
 
@@ -162,7 +162,7 @@ The immigration authorities do not deny that the Pakistani is entitled to a resi
 ### ITALY
 
 
-![](assets/c47acfeec5ba/1*BuCm1rE9cR5k_71v-ZNpNA.jpeg)
+![](../assets/c47acfeec5ba/1*BuCm1rE9cR5k_71v-ZNpNA.jpeg)
 
 
 Deportations and illegal detentions in Italy\.
@@ -173,7 +173,7 @@ The number of [migrant arrivals](https://t.co/M1dmADsERa?amp=1) on Italian shore
 ### LIBYA
 
 
-![](assets/c47acfeec5ba/1*Ekv1_25cqj2PV3gsDz4I7A.jpeg)
+![](../assets/c47acfeec5ba/1*Ekv1_25cqj2PV3gsDz4I7A.jpeg)
 
 
 [IOM’s infographic](https://twitter.com/IOM_Libya/status/1371467757599006721?fbclid=IwAR0ReZ5AqjcVg6pjcYF4CmNZhrVwD34yxlqLe8VVqYopY8lfvwWJGyOCYP8) on returns to Libya\. Interceptions of people fleeing by sea are increasing as [EUBAM Libya](https://statewatch.org/news/2021/march/libya-interceptions-of-people-fleeing-by-sea-increase-as-eu-border-mission-seeks-two-year-extension/) , the EU border mission, seeks a two\-year extension to continue support for the Libyan coast guard

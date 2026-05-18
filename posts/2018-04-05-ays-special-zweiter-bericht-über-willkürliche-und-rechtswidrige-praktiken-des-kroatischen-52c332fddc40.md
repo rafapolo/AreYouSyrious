@@ -7,17 +7,17 @@ categories: Are You Syrious?
 tags: [refugees,flüchtlinge,kroatien,asyl,special]
 description: Dieser Artikel wurde ursprünglich am 26. Juli 2017 veröffentlicht.
 image:
-  path: assets/52c332fddc40/1*EaonqfNrqzJSMfYe_nbHLw.jpeg
+  path: ../assets/52c332fddc40/1*EaonqfNrqzJSMfYe_nbHLw.jpeg
 ---
 
 ### AYS Special — **Zweiter Bericht über willkürliche und rechtswidrige Praktiken des kroatischen Innenministeriums \(MOI\) und des nationalen Sicherheits\- und Nachrichtendiensts \(SOA\) \***
 
 
-![](assets/52c332fddc40/1*EaonqfNrqzJSMfYe_nbHLw.jpeg)
+![](../assets/52c332fddc40/1*EaonqfNrqzJSMfYe_nbHLw.jpeg)
 
 
 
-![](assets/52c332fddc40/1*Hc5lLmO9pNhz4PBatuPggw.jpeg)
+![](../assets/52c332fddc40/1*Hc5lLmO9pNhz4PBatuPggw.jpeg)
 
 
 **Dieser Artikel wurde ursprünglich am 26\. Juli 2017 veröffentlicht\.**
@@ -75,12 +75,12 @@ Folglich ist erkennbar, dass die Institutionen nicht auf die Ergebnisse des vorg
 **Obwohl die Informationen des MOI immer auf die _Fälle_ verweisen, das heißt auf die Zahl der Beschlüsse, ist die Zahl der tatsächlich betroffenen Personen, d\.h\. der Asylbewerber, deutlich höher\. Das liegt daran, dass minderjährige Kinder im Asylantrag eines Elternteils mitgeführt werden \(meistens in jenem der Mutter\) \. Aus diesem Grund haben wir entschieden, beide Zahlen anzugeben: die Zahl der Fälle und die Zahl der betroffenen Personen, d\.h\. Asylbewerber, deren Leben von den Entscheidungen betroffen ist\. Dies ist besonders wichtig, da dies auch die Rechte der verwundbarsten Gruppe unter den Asylbewerbern betrifft: Kinder und Minderjährige\.**
 
 
-![**Tabelle 1:** Erfasste Informationen über die Zahl der negativen Entscheidungen durch das MOI \(entsprechend der Zahl getroffener und zugestellter MOI\-Entscheidungen\), **basierend auf geheim gehaltenen SOAStellungnahmen \(Art\. 41 SVA\)**](assets/52c332fddc40/1*bj6b-pFTducZni56K4l5yg.png)
+![**Tabelle 1:** Erfasste Informationen über die Zahl der negativen Entscheidungen durch das MOI \(entsprechend der Zahl getroffener und zugestellter MOI\-Entscheidungen\), **basierend auf geheim gehaltenen SOAStellungnahmen \(Art\. 41 SVA\)**](../assets/52c332fddc40/1*bj6b-pFTducZni56K4l5yg.png)
 
 **Tabelle 1:** Erfasste Informationen über die Zahl der negativen Entscheidungen durch das MOI \(entsprechend der Zahl getroffener und zugestellter MOI\-Entscheidungen\), **basierend auf geheim gehaltenen SOAStellungnahmen \(Art\. 41 SVA\)**
 
 
-![**Tabelle 2:** Erfasste Informationen über die Zahl der **Personen: Asylbewerber mit negativer Entscheidung durch das MOI, basierend auf geheim gehaltenen SOA\-Stellungnahmen \(Art\. 41 SVA\), inklusive Kinder der Asylbewerber, die in den Anträgen/Entscheidungen eines Elternteils aufgeführt sind\.**](assets/52c332fddc40/1*z693BepWePDvBTPBJyqO3g.png)
+![**Tabelle 2:** Erfasste Informationen über die Zahl der **Personen: Asylbewerber mit negativer Entscheidung durch das MOI, basierend auf geheim gehaltenen SOA\-Stellungnahmen \(Art\. 41 SVA\), inklusive Kinder der Asylbewerber, die in den Anträgen/Entscheidungen eines Elternteils aufgeführt sind\.**](../assets/52c332fddc40/1*z693BepWePDvBTPBJyqO3g.png)
 
 **Tabelle 2:** Erfasste Informationen über die Zahl der **Personen: Asylbewerber mit negativer Entscheidung durch das MOI, basierend auf geheim gehaltenen SOA\-Stellungnahmen \(Art\. 41 SVA\), inklusive Kinder der Asylbewerber, die in den Anträgen/Entscheidungen eines Elternteils aufgeführt sind\.**
 

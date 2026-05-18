@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,turke,izmir,volunteering,special]
 description: With nothing to live on, many Syrians are living on their own in the province of Izmir and have arranged a silent deal with Turkey.
 image:
-  path: assets/654d3f925141/1*Q_CJwJhdO9JCO6uCz-2lUA.jpeg
+  path: ../assets/654d3f925141/1*Q_CJwJhdO9JCO6uCz-2lUA.jpeg
 ---
 
 ### AYS Special from Turkey — Abandoned in the fields
 #### With nothing to live on, many Syrians are living on their own in the province of Izmir and have arranged a silent deal with Turkey\.
 
 
-![Many field camps are located far from the villages\.](assets/654d3f925141/1*Q_CJwJhdO9JCO6uCz-2lUA.jpeg)
+![Many field camps are located far from the villages\.](../assets/654d3f925141/1*Q_CJwJhdO9JCO6uCz-2lUA.jpeg)
 
 Many field camps are located far from the villages\.
 
@@ -33,20 +33,20 @@ _>Read also the first report from Turkey:_
 Of course, some of them are able to afford a flat and have found better work\. But many, including some of the poorest and most vulnerable groups, are living in these field camps\. The camps are neither official nor completely makeshift, as the landowners take rent\. Often they are located near poor Turkish districts or villages\. Officials tolerate them because there is not enough space to accommodate all the people elsewhere\. They just do not want to have too much attention focused on them\.
 
 
-![](assets/654d3f925141/1*b0LlyI7EY6hUz3gi0M9DOQ.jpeg)
+![](../assets/654d3f925141/1*b0LlyI7EY6hUz3gi0M9DOQ.jpeg)
 
 
 
-![On the right: One of the solid shelters\. Inside, they look as poor as the tents\.](assets/654d3f925141/1*alZ_YTwEoT7ObPSeDUi-Aw.jpeg)
+![On the right: One of the solid shelters\. Inside, they look as poor as the tents\.](../assets/654d3f925141/1*alZ_YTwEoT7ObPSeDUi-Aw.jpeg)
 
 On the right: One of the solid shelters\. Inside, they look as poor as the tents\.
 
 
-![](assets/654d3f925141/1*s0nh2oXqIrNBDcNHw-IQhg.jpeg)
+![](../assets/654d3f925141/1*s0nh2oXqIrNBDcNHw-IQhg.jpeg)
 
 
 
-![](assets/654d3f925141/1*XQJ_M7yMjfX0bq1piTO4uw.jpeg)
+![](../assets/654d3f925141/1*XQJ_M7yMjfX0bq1piTO4uw.jpeg)
 
 
 While there are scholarships and support programmes run by international and local NGOs, people living in the fields are abandoned\. Whether they are women or men\. Children or adult\. Vulnerable or not\. To clarify: they are registered, they have their Kimlik \(residence permit\) \. They are not hiding, they are trying to survive\. Some of them have been living like this for years — even though they escaped the bombings and violence in their home country\.
@@ -56,15 +56,15 @@ They share a tent with up to ten people because the rent of up to 90 Euros a mon
 Three months ago, the last time the German Refugees Foundation together with an AYS volunteer went to the province of Izmir, the pay for this work was around ten Euro a day\. In some camps, the last visit of the team was the last the community had had until the team came back at the end of March\.
 
 
-![](assets/654d3f925141/1*c91BFyC34eEi8QHYVdLJ8Q.jpeg)
+![](../assets/654d3f925141/1*c91BFyC34eEi8QHYVdLJ8Q.jpeg)
 
 
 
-![](assets/654d3f925141/1*KJXjrTsN9W7gUIUmSTmivg.jpeg)
+![](../assets/654d3f925141/1*KJXjrTsN9W7gUIUmSTmivg.jpeg)
 
 
 
-![Left: People working in the field, middle: Electric cables, right: A dug channel for the water\.](assets/654d3f925141/1*3Xa7n-phs8ou_VrI3XfXoA.jpeg)
+![Left: People working in the field, middle: Electric cables, right: A dug channel for the water\.](../assets/654d3f925141/1*3Xa7n-phs8ou_VrI3XfXoA.jpeg)
 
 Left: People working in the field, middle: Electric cables, right: A dug channel for the water\.
 
@@ -75,7 +75,7 @@ In these permanently dire conditions, even normal virus infections can cause ser
 Additionally, some cannot afford to be sick and take a day off from work \(if they can have work\) \. In the worst case, no money means no food\. Lack of money makes it harder to have regular meals and feed all family members appropriately\. Mothers have problems with breastfeeding their babies and many children face malnutrition\.
 
 
-![Hints of the big NGOs in the province of Izmir\.](assets/654d3f925141/1*O0OCju1UZOfjXXbOWCaK_A.jpeg)
+![Hints of the big NGOs in the province of Izmir\.](../assets/654d3f925141/1*O0OCju1UZOfjXXbOWCaK_A.jpeg)
 
 Hints of the big NGOs in the province of Izmir\.
 
@@ -94,7 +94,7 @@ However, back to the health situation\. While in these three cases help was poss
 Another aspect is the education of the children\. Only a few can attend regular classes due to high restrictions\. Some camps have managed to create their own schools with the support of international volunteers to educate children in Arabic\. The rest of the children are left on their own in their community and have almost no contacts with locals\. Especially if their camp is far from the next village\. This means they play with each other or the mud\. As soon as they are old enough, which here means maybe eleven, twelve years old, they start to work in the fields\. There are hardly any toys available for them\. This became obvious when the volunteers distributed toy cars, ponies and marbles\. Just the fact that they had a selection overstrained most of the children\.
 
 
-![Many children were overwhelmed by the selection of the toys\.](assets/654d3f925141/1*0nw7gM4yx4SL9XwP2OcKZQ.jpeg)
+![Many children were overwhelmed by the selection of the toys\.](../assets/654d3f925141/1*0nw7gM4yx4SL9XwP2OcKZQ.jpeg)
 
 Many children were overwhelmed by the selection of the toys\.
 
@@ -111,14 +111,14 @@ In order to support the people, the Refugees Foundation distributed 2800 liters 
 This time the volunteer team experienced that people do not always stay in the same camp all the time but move around, going wherever they find work\. Some have gone to other provinces, where the weather is already better and more field workers are needed, or have just moved elsewhere within the province\. Because the authorities do not want the camps to become too big, they sometimes force people to leave\. This has caused more smaller camps to spring up in the region now\. Some people even lose their residence permit for the province and are being re\-distributed to another one\.
 
 
-![The crowd during an oil distribution\.](assets/654d3f925141/1*N0l6BSKxfQJX0VorsJ9Qzw.jpeg)
+![The crowd during an oil distribution\.](../assets/654d3f925141/1*N0l6BSKxfQJX0VorsJ9Qzw.jpeg)
 
 The crowd during an oil distribution\.
 
 All in all, the situation leaves people in a permanent limbo\. They have lost their homes and are now in a country where they do not want to be and that does not really want to host but tolerates them\. Like a pact of silence and coexistence\. They are not welcome, but as long as they stay calm they are not threatened\. Being nobody\. Invisible\. A cheap worker\.
 
 
-![Air view: Agriculture is one of the biggest economy sectors in the province of Izmir\.](assets/654d3f925141/1*gQJxI3N7VgYcSOLyyfArnA.jpeg)
+![Air view: Agriculture is one of the biggest economy sectors in the province of Izmir\.](../assets/654d3f925141/1*gQJxI3N7VgYcSOLyyfArnA.jpeg)
 
 Air view: Agriculture is one of the biggest economy sectors in the province of Izmir\.
 

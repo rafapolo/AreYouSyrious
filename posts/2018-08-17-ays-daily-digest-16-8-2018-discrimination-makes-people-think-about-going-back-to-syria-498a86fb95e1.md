@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 16/08/2018: Discrimination makes people think about going back to Syria
+title: "AYS Daily Digest 16/08/2018: Discrimination makes people think about going back to Syria"
 author: Are You Syrious?
 date: 2018-08-17T14:54:25.168+0100
 last_modified_at: 2018-08-17T15:22:20.955+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,mediterranean,bosnia,migrations]
 description: We live in times when too often we have to remind ourselves of the basic human rights. Universal Declarations for Human Rights, Article 1…
 image:
-  path: assets/498a86fb95e1/1*h9Zg3grjJB1X0Ejh-_3hJg.jpeg
+  path: ../assets/498a86fb95e1/1*h9Zg3grjJB1X0Ejh-_3hJg.jpeg
 ---
 
 ### AYS Daily Digest 16/08/2018: **Discrimination makes people think about going back to Syria**
@@ -15,7 +15,7 @@ image:
 _We live in times when too often we have to remind ourselves of the basic human rights\. Universal Declarations for Human Rights, Article 1: “All human beings are born free and equal in dignity and rights\. They are endowed with reason and conscience and should act in a spirit of brotherhood\.”_
 
 
-![Málaga, Spain\. August 2018\. A refugee waits to disembark from a rescue boat after arriving at the port of Málaga\. \(Photo by [Jon Nazca](https://twitter.com/JonNazca) \)](assets/498a86fb95e1/1*h9Zg3grjJB1X0Ejh-_3hJg.jpeg)
+![Málaga, Spain\. August 2018\. A refugee waits to disembark from a rescue boat after arriving at the port of Málaga\. \(Photo by [Jon Nazca](https://twitter.com/JonNazca) \)](../assets/498a86fb95e1/1*h9Zg3grjJB1X0Ejh-_3hJg.jpeg)
 
 Málaga, Spain\. August 2018\. A refugee waits to disembark from a rescue boat after arriving at the port of Málaga\. \(Photo by [Jon Nazca](https://twitter.com/JonNazca) \)
 ### **FEATURE**
@@ -63,7 +63,7 @@ The patrol [Segura River](https://twitter.com/salvamentogob/status/1030055377465
 200 people arrived on Thursday to the Greek islands\.
 
 
-![](assets/498a86fb95e1/1*uq9v7VjeAkzjo0wyVnErSg.jpeg)
+![](../assets/498a86fb95e1/1*uq9v7VjeAkzjo0wyVnErSg.jpeg)
 
 
 **Help is needed\! \! \!**
@@ -95,7 +95,7 @@ Meanwhile, volunteers continue to provide help\. One group in Austria wants to c
 If you are are asylum seeker or asylum holder in the Netherlands and want to become a developer, [get in touch](https://www.facebook.com/hackyourfuturenow/posts/1675960575846737?__xts__%5B0%5D=68.ARC4cQFnFZtHK4s5Hb34vD0sXQfAHPsVToJLr28n_8UZ5P5OrSF--ckC8PnLRFUtInv_ZFozdrTZPccdrtQ6_QLJR7BndyVcoNW462nDGITJz4jYkj-Fhlg5S_R4bjFrM92oTb9r2qod&__tn__=H-R) \.
 
 
-![](assets/498a86fb95e1/1*wOB_Cw_EFc6u0AdRLoMSXA.jpeg)
+![](../assets/498a86fb95e1/1*wOB_Cw_EFc6u0AdRLoMSXA.jpeg)
 
 
 If you want to take part in an interesting project, check out this [website](https://bit.ly/2AumeG5) and you will find a call to an event that will take a place on Sunday, September 23rd from 2pm to 5pm on Museumplein in Amsterdam\.

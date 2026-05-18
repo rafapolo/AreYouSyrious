@@ -5,9 +5,9 @@ date: 2019-06-24T07:15:21.879+0100
 last_modified_at: 2019-06-24T09:02:25.892+0100
 categories: Are You Syrious?
 tags: [refugees,digest,bosnia-and-herzegovina,slovenia,porti-aperti]
-description: BiH: 1 week since the opening of Vucjak /// Western Med: 280 people rescued from 8 dinghies /// Italy: the price of 1 year of closed ports…
+description: "BiH: 1 week since the opening of Vucjak /// Western Med: 280 people rescued from 8 dinghies /// Italy: the price of 1 year of closed ports…"
 image:
-  path: assets/861bbc0f23dc/1*a6bphCwGpGJIHocmhEtrYg.jpeg
+  path: ../assets/861bbc0f23dc/1*a6bphCwGpGJIHocmhEtrYg.jpeg
 ---
 
 ### AYS Weekend Digest 22–23/06/2019 Slovenian authorities publish country’s first strategy on migration
@@ -15,7 +15,7 @@ image:
 Libya: protests and new reports from migrant detention centres /// BiH: 1 week since the opening of Vucjak /// Western Med: 280 people rescued from 8 dinghies /// Italy: the price of 1 year of closed ports /// Malta: 37 people rescued /// more…
 
 
-![Sea watch is now at its 10th day stranded in the central med — This is the track of the [SeaWatch 3](https://twitter.com/seawatch_intl/status/1142855755579703296) the last days\. **It draws the border between Italian territorial water and international water\. Can you see it?** 42 people are forcibly kept outside\. 42 people that Europe, a continent of over 500 million inhabitants, does not want\. **Forty\-two** \.](assets/861bbc0f23dc/1*a6bphCwGpGJIHocmhEtrYg.jpeg)
+![Sea watch is now at its 10th day stranded in the central med — This is the track of the [SeaWatch 3](https://twitter.com/seawatch_intl/status/1142855755579703296) the last days\. **It draws the border between Italian territorial water and international water\. Can you see it?** 42 people are forcibly kept outside\. 42 people that Europe, a continent of over 500 million inhabitants, does not want\. **Forty\-two** \.](../assets/861bbc0f23dc/1*a6bphCwGpGJIHocmhEtrYg.jpeg)
 
 Sea watch is now at its 10th day stranded in the central med — This is the track of the [SeaWatch 3](https://twitter.com/seawatch_intl/status/1142855755579703296) the last days\. **It draws the border between Italian territorial water and international water\. Can you see it?** 42 people are forcibly kept outside\. 42 people that Europe, a continent of over 500 million inhabitants, does not want\. **Forty\-two** \.
 
@@ -41,7 +41,7 @@ LIBYA
 For World Refugee Day, people detained in the Abu Salim migrant detention centre staged a protest\.
 
 
-![World Refugee Day: Protests in Abu Salim detetion centre \( [Giulia Tranchina](https://www.facebook.com/rastajuly/posts/10156740622943621) / [Sally Hayden](https://twitter.com/sallyhayd/status/1142397741131337728) \)](assets/861bbc0f23dc/1*kDCLb4v6Mze5md7gwzOjbg.jpeg)
+![World Refugee Day: Protests in Abu Salim detetion centre \( [Giulia Tranchina](https://www.facebook.com/rastajuly/posts/10156740622943621) / [Sally Hayden](https://twitter.com/sallyhayd/status/1142397741131337728) \)](../assets/861bbc0f23dc/1*kDCLb4v6Mze5md7gwzOjbg.jpeg)
 
 World Refugee Day: Protests in Abu Salim detetion centre \( [Giulia Tranchina](https://www.facebook.com/rastajuly/posts/10156740622943621) / [Sally Hayden](https://twitter.com/sallyhayd/status/1142397741131337728) \)
 
@@ -108,7 +108,7 @@ The International Federation of the Red Cross and Red Crescent Societies \(IFRC\
 \[…\]
 
 
-![Numbers of people in IOM run facilities](assets/861bbc0f23dc/1*nYt984wv11DXyCXgrm_0tQ.png)
+![Numbers of people in IOM run facilities](../assets/861bbc0f23dc/1*nYt984wv11DXyCXgrm_0tQ.png)
 
 Numbers of people in IOM run facilities
 
@@ -151,30 +151,30 @@ Read the full article [here](https://www.borderviolence.eu/for-a-week-now-in-vuc
 In Tuzla, AYS volunteers report that the asylum office has removed all electric plugs from communal spaces within its building, to stop people from charging their phones there\.
 
 
-![](assets/861bbc0f23dc/1*-jlkIG7h_HxAg_WtNdmsaw.jpeg)
+![](../assets/861bbc0f23dc/1*-jlkIG7h_HxAg_WtNdmsaw.jpeg)
 
 
 
-![Tuzla Asylum office \(Photos by AYS\)](assets/861bbc0f23dc/1*579CNtBfDFCGXU7Q79rcFw.jpeg)
+![Tuzla Asylum office \(Photos by AYS\)](../assets/861bbc0f23dc/1*579CNtBfDFCGXU7Q79rcFw.jpeg)
 
 Tuzla Asylum office \(Photos by AYS\)
 
 With an increasing number of people reaching this area in the last months, a lot of those lacking a place to sleep have used an empty building situated in front of the office\. Especially during the winter months, up to 200 people found shelter there\.
 
 
-![](assets/861bbc0f23dc/1*UC8hctF7EzcSyajxeOxMrw.jpeg)
+![](../assets/861bbc0f23dc/1*UC8hctF7EzcSyajxeOxMrw.jpeg)
 
 
 
-![](assets/861bbc0f23dc/1*ROjcBrunmPHff3cyKFQTng.jpeg)
+![](../assets/861bbc0f23dc/1*ROjcBrunmPHff3cyKFQTng.jpeg)
 
 
 
-![](assets/861bbc0f23dc/1*QaBjX1Aw8RSpuRgvC3OJqg.jpeg)
+![](../assets/861bbc0f23dc/1*QaBjX1Aw8RSpuRgvC3OJqg.jpeg)
 
 
 
-![Tuzla, squatted building that hosted up to 200 people during the winter \(Photo AYS\)](assets/861bbc0f23dc/1*N-MEvhU6sWMd8vvkriHdwA.jpeg)
+![Tuzla, squatted building that hosted up to 200 people during the winter \(Photo AYS\)](../assets/861bbc0f23dc/1*N-MEvhU6sWMd8vvkriHdwA.jpeg)
 
 Tuzla, squatted building that hosted up to 200 people during the winter \(Photo AYS\)
 

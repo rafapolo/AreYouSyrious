@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 14/01/2021: Contradicting Interior Minister, German authorities state no reason…
+title: "AYS Daily Digest 14/01/2021: Contradicting Interior Minister, German authorities state no reason…"
 author: Are You Syrious?
 date: 2021-01-15T20:49:12.053+0000
 last_modified_at: 2021-01-15T20:49:12.053+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: []
 description: Vaccination campaign for refugees started in Jordan // Greece requests return of 1.540 people to Turkey // Legal organizations on Lesvos…
 image:
-  path: assets/bb18266d729c/0*x2UleRKhoIweIbsG.jpeg
+  path: ../assets/bb18266d729c/0*x2UleRKhoIweIbsG.jpeg
 ---
 
 ### AYS Daily Digest 14/01/2021: Contradicting Interior Minister, German authorities state no reason to block Search and Rescue vessels
@@ -18,7 +18,7 @@ image:
 [Jan 15](ays-daily-digest-14-01-2021-german-authorities-see-no-reasons-for-blocking-sar-boats-3a682b18f626?source=post_page-----3a682b18f626--------------------------------) · 12 min read
 
 
-![](assets/bb18266d729c/0*x2UleRKhoIweIbsG.jpeg)
+![](../assets/bb18266d729c/0*x2UleRKhoIweIbsG.jpeg)
 
 
 Copyright: Matthias Monroy
@@ -162,7 +162,7 @@ This is what solidarity looks like\! In France, a baker went on a hunger strike 
 On Tuesday, the boy was granted a residence permit\.
 
 
-![](assets/bb18266d729c/0*E8xlEn44_O8p1k_T)
+![](../assets/bb18266d729c/0*E8xlEn44_O8p1k_T)
 
 
 Copyright: Solidarité Migrants Wilson
@@ -243,7 +243,7 @@ More information:
 Daily news digests from the field, for volunteers, people on the move, journalists, and the general public\.
 
 
-![](assets/bb18266d729c/0*TxveFQaMiQTzrFp4.jpeg)
+![](../assets/bb18266d729c/0*TxveFQaMiQTzrFp4.jpeg)
 
 
 

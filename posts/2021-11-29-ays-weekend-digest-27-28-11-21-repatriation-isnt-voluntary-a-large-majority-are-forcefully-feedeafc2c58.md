@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 27–28/11/21: “Repatriation isn’t voluntary, a large majority are forcefully…
+title: "AYS Weekend Digest 27–28/11/21: “Repatriation isn’t voluntary, a large majority are forcefully…"
 author: Are You Syrious?
 date: 2021-11-29T21:31:39.991+0000
 last_modified_at: 2021-11-29T21:31:39.991+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,poland,belarus,refugees,europe]
 description: Deaths, detention in bad conditions and forceful deportations for people at the border with Belarus // Reactions after the new…
 image:
-  path: assets/feedeafc2c58/0*DH_fp2bb9dgatll2
+  path: ../assets/feedeafc2c58/0*DH_fp2bb9dgatll2
 ---
 
 ### AYS Weekend Digest 27–28/11/21: “Repatriation isn’t voluntary, a large majority are forcefully dragged to the airport\.”
 #### Deaths, detention in bad conditions and forceful deportations for people at the border with Belarus // Reactions after the new concentration camp looking facilities are opened in Greece on behalf of the EU Commission // Reports from the north of France // Polish activists speak up against the conditions people are being held in // Recommended reads and more…
 
 
-![](assets/feedeafc2c58/0*DH_fp2bb9dgatll2)
+![](../assets/feedeafc2c58/0*DH_fp2bb9dgatll2)
 
 
 via [Ali Zoubeidi](https://twitter.com/DrAZoubeidi)

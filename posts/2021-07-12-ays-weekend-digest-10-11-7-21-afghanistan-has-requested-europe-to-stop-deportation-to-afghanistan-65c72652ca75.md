@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 10–11/7/21: Afghanistan has requested Europe to stop deportation to Afghanistan
+title: "AYS Weekend Digest 10–11/7/21: Afghanistan has requested Europe to stop deportation to Afghanistan"
 author: Are You Syrious?
 date: 2021-07-12T19:28:58.275+0100
 last_modified_at: 2021-07-12T19:28:58.275+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [europe,afghanistan,deportations,refugees,digest]
 description: A man takes his life in the Greek Schisto camp / SAR at sea / Volunteers wanted in Paris / How the UK’s play on semantics affect victims…
 image:
-  path: assets/65c72652ca75/0*bGb97fScQvRMvx6V.jpeg
+  path: ../assets/65c72652ca75/0*bGb97fScQvRMvx6V.jpeg
 ---
 
 ### AYS Weekend Digest 10–11/7/21: Afghanistan has requested Europe to stop deportation to Afghanistan
 #### A man takes his life in the Greek Schisto camp / SAR at sea / Volunteers wanted in Paris / How the UK’s play on semantics affect victims becoming criminals — a commentary / What the EU plans to spend on enforcing borders through Frontex / recommended reads & more
 
 
-![](assets/65c72652ca75/0*bGb97fScQvRMvx6V.jpeg)
+![](../assets/65c72652ca75/0*bGb97fScQvRMvx6V.jpeg)
 
 
 Awarded illustration by Iranian artist Saman Torabi
@@ -49,11 +49,11 @@ New arrivals from Afghanistan to Germany
 Survivors say a spark in the ammunition depot caused the blast at the centre in Gharyan and that there were several injuries, as well as possible death\.
 
 
-![](assets/65c72652ca75/0*f2HJmCTTHI_kOAdw)
+![](../assets/65c72652ca75/0*f2HJmCTTHI_kOAdw)
 
 
 
-![](assets/65c72652ca75/0*98poMNdT_W9TEbFx.jpg)
+![](../assets/65c72652ca75/0*98poMNdT_W9TEbFx.jpg)
 
 
 
@@ -87,11 +87,11 @@ FRANCE
 Volunteers wanted
 
 
-![](assets/65c72652ca75/0*Hm3YX52rG5CWaKkq)
+![](../assets/65c72652ca75/0*Hm3YX52rG5CWaKkq)
 
 
 
-![](assets/65c72652ca75/0*fe5pXVn25Tsxm1Vb)
+![](../assets/65c72652ca75/0*fe5pXVn25Tsxm1Vb)
 
 
 This week [Solidarité migrants Wilson](https://web.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__cft__[0]=AZVoUpZD2HnMWQbiv782IUxtXzCMxyzZSIVqJ9eI6BbdunXxQIvnC31G3LhT1yGm8ofhfnqXH0U6zXI5J75OnzVysZdQxf2Hb7RGEpAIO6qn1v19aBeBzuIKEvy4eoy3Q9vJzxvr_kOba1vRyGNdV_m9bPxLZe55TLWY_1suj3nmelgxGskUfGdsR21CIoAmVv2QwBCMNEdsqrOuyGw5p-IG&__tn__=-UC%2CP-y-R) is looking for people to help with cooking, food distribution \(on bikes, motorcycles, in cars and other vehicles, but also on foot\), arranging and cleaning the kitchen and filling the stock\.
@@ -107,11 +107,11 @@ A number of extremely clever lawyers have been puzzling over why the new immigra
 Since last year Priti Patel’s been crowing about ‘people smugglers’ she takes credit for jailing\. But many of them were actually refugees trying to cross the channel who at some point in the journey took control of the boat and were [filmed by drone](https://t.co/tqzCXIYdvc?amp=1) \. Those prosecutions aren’t brought by the Home Office though\. They are brought by the CPS\. There is a suspicion that Ministers or their aides put considerable pressure on the CPS or some part of the CPS to find a way to prosecute migrants crossing the channel last year\. The trouble for them was that UK law and international law protects asylum seekers from punishment if they cross a national border in order to claim asylum, for obvious reasons\. They can’t just prosecute people for entering without permission\. So they cast about for a solution\. They found s\. 25 of the Immigration Act 1971 which criminalises ‘facilitation’ of breaches of immigration law, and is designed to target people smugglers\. The trouble is that on a cursory look the wording is quite broad\.
 
 
-![](assets/65c72652ca75/0*d2-oFWJY9dRNVFlA)
+![](../assets/65c72652ca75/0*d2-oFWJY9dRNVFlA)
 
 
 
-![](assets/65c72652ca75/0*qgGsxVeTf3iKp6xD)
+![](../assets/65c72652ca75/0*qgGsxVeTf3iKp6xD)
 
 
 

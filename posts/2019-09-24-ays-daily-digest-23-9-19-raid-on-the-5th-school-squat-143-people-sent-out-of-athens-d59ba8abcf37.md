@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 23/9/19: Raid on the 5th School squat, 143 people sent out of Athens
+title: "AYS Daily Digest 23/9/19: Raid on the 5th School squat, 143 people sent out of Athens"
 author: Are You Syrious?
 date: 2019-09-24T11:29:07.525+0100
 last_modified_at: 2019-09-24T14:02:05.624+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,balkan-route,migration-policy,border-violence,asylum-seekers]
 description: The eviction happened only 4 days after 269 people have been evicted from Acharnes 22 and Jasmine School squats // Evicted families were…
 image:
-  path: assets/d59ba8abcf37/1*8xdROw-sQuDozIT7RDe6Sw.jpeg
+  path: ../assets/d59ba8abcf37/1*8xdROw-sQuDozIT7RDe6Sw.jpeg
 ---
 
 ### AYS Daily Digest 23/9/19: Raid on the 5th School squat, 143 people sent out of Athens
 #### The eviction happened only 4 days after 269 people have been evicted from Acharnes 22 and Jasmine School squats // Evicted families were sent to Corinthos camp, their cash cards reduced by half // Army to prevent new arrivals to Greek islands? // Malta, Italy, France and Germany agree to redistribute people rescued from the sea // A refugee dies of the long\-term consequences of being pushed back from Croatia // Solidarity movement in Tuzla, Bosnia, needs support // Refugees in Šid, Serbia intimidated by the police // People of Kent oppose right\-wing coastal patrols
 
 
-![130 people were taken from the city centre to the tent in the middle of nowhere\. / Photo: [Marios Lolos](https://www.facebook.com/marios.lolos.1?__tn__=CH-R&eid=ARDsrK6GdroWe0jGvEpjWkPjSDJh9ZmpOJXI9ZPZx9ucTZw1zevVbVs6vBJZXzc-RNbmgnp8tp0BIrnd&hc_ref=ARRKoxqGWRmun_bmBgjdynUygytCSS27h4bF9jJPEpzLeCWFRAgiKTcyKmQFxoqRCwU&fref=nf&__xts__%5B0%5D=68.ARBP7l8cF_maqzRQ9HfV0ttvGgQqLN0FRwSfI6VApD5BJnJYoCvtP1zyBF6pPPXVOjPSMFV4h7Cw-VobAjaIylp9oOUewSkGB3fvtUhmy5-iTUZFSgGNKZ6uYFx6Opx4P7-AgKCvhMl2ig7wbBsEOpU5yhxo4flIxWXlwJjvWQu-kUFj7TmACurBFSiJd_j6317y2mlcixZPW8fhPighw0395KIWeetzFPhnXzA_9WYY3lGIELlWDT6_vgsTx7jOFgT9KzQk7c5pb8pb7pEjlf2HN87cXABetGN6pVbAKYQg_JL7Al24gRODdkhJzQjevg6YMbkYmJboihOFnP_D2mSCqo22)](assets/d59ba8abcf37/1*8xdROw-sQuDozIT7RDe6Sw.jpeg)
+![130 people were taken from the city centre to the tent in the middle of nowhere\. / Photo: [Marios Lolos](https://www.facebook.com/marios.lolos.1?__tn__=CH-R&eid=ARDsrK6GdroWe0jGvEpjWkPjSDJh9ZmpOJXI9ZPZx9ucTZw1zevVbVs6vBJZXzc-RNbmgnp8tp0BIrnd&hc_ref=ARRKoxqGWRmun_bmBgjdynUygytCSS27h4bF9jJPEpzLeCWFRAgiKTcyKmQFxoqRCwU&fref=nf&__xts__%5B0%5D=68.ARBP7l8cF_maqzRQ9HfV0ttvGgQqLN0FRwSfI6VApD5BJnJYoCvtP1zyBF6pPPXVOjPSMFV4h7Cw-VobAjaIylp9oOUewSkGB3fvtUhmy5-iTUZFSgGNKZ6uYFx6Opx4P7-AgKCvhMl2ig7wbBsEOpU5yhxo4flIxWXlwJjvWQu-kUFj7TmACurBFSiJd_j6317y2mlcixZPW8fhPighw0395KIWeetzFPhnXzA_9WYY3lGIELlWDT6_vgsTx7jOFgT9KzQk7c5pb8pb7pEjlf2HN87cXABetGN6pVbAKYQg_JL7Al24gRODdkhJzQjevg6YMbkYmJboihOFnP_D2mSCqo22)](../assets/d59ba8abcf37/1*8xdROw-sQuDozIT7RDe6Sw.jpeg)
 
 130 people were taken from the city centre to the tent in the middle of nowhere\. / Photo: [Marios Lolos](https://www.facebook.com/marios.lolos.1?__tn__=CH-R&eid=ARDsrK6GdroWe0jGvEpjWkPjSDJh9ZmpOJXI9ZPZx9ucTZw1zevVbVs6vBJZXzc-RNbmgnp8tp0BIrnd&hc_ref=ARRKoxqGWRmun_bmBgjdynUygytCSS27h4bF9jJPEpzLeCWFRAgiKTcyKmQFxoqRCwU&fref=nf&__xts__%5B0%5D=68.ARBP7l8cF_maqzRQ9HfV0ttvGgQqLN0FRwSfI6VApD5BJnJYoCvtP1zyBF6pPPXVOjPSMFV4h7Cw-VobAjaIylp9oOUewSkGB3fvtUhmy5-iTUZFSgGNKZ6uYFx6Opx4P7-AgKCvhMl2ig7wbBsEOpU5yhxo4flIxWXlwJjvWQu-kUFj7TmACurBFSiJd_j6317y2mlcixZPW8fhPighw0395KIWeetzFPhnXzA_9WYY3lGIELlWDT6_vgsTx7jOFgT9KzQk7c5pb8pb7pEjlf2HN87cXABetGN6pVbAKYQg_JL7Al24gRODdkhJzQjevg6YMbkYmJboihOFnP_D2mSCqo22)
 #### Humiliating expulsion from the only home they had
@@ -28,7 +28,7 @@ Today at 6AM, Greek authorities have continued their raids of squats in Athens b
 
 
 
-![Young officers with sanitary masks escorting elderly resident out of the building\. / Photo: [Marios Lolos](https://www.facebook.com/marios.lolos.1?__tn__=CH-R&eid=ARDsrK6GdroWe0jGvEpjWkPjSDJh9ZmpOJXI9ZPZx9ucTZw1zevVbVs6vBJZXzc-RNbmgnp8tp0BIrnd&hc_ref=ARRKoxqGWRmun_bmBgjdynUygytCSS27h4bF9jJPEpzLeCWFRAgiKTcyKmQFxoqRCwU&fref=nf&__xts__%5B0%5D=68.ARBP7l8cF_maqzRQ9HfV0ttvGgQqLN0FRwSfI6VApD5BJnJYoCvtP1zyBF6pPPXVOjPSMFV4h7Cw-VobAjaIylp9oOUewSkGB3fvtUhmy5-iTUZFSgGNKZ6uYFx6Opx4P7-AgKCvhMl2ig7wbBsEOpU5yhxo4flIxWXlwJjvWQu-kUFj7TmACurBFSiJd_j6317y2mlcixZPW8fhPighw0395KIWeetzFPhnXzA_9WYY3lGIELlWDT6_vgsTx7jOFgT9KzQk7c5pb8pb7pEjlf2HN87cXABetGN6pVbAKYQg_JL7Al24gRODdkhJzQjevg6YMbkYmJboihOFnP_D2mSCqo22)](assets/d59ba8abcf37/1*SzltfMGmrdsEPQN1qv24WA.jpeg)
+![Young officers with sanitary masks escorting elderly resident out of the building\. / Photo: [Marios Lolos](https://www.facebook.com/marios.lolos.1?__tn__=CH-R&eid=ARDsrK6GdroWe0jGvEpjWkPjSDJh9ZmpOJXI9ZPZx9ucTZw1zevVbVs6vBJZXzc-RNbmgnp8tp0BIrnd&hc_ref=ARRKoxqGWRmun_bmBgjdynUygytCSS27h4bF9jJPEpzLeCWFRAgiKTcyKmQFxoqRCwU&fref=nf&__xts__%5B0%5D=68.ARBP7l8cF_maqzRQ9HfV0ttvGgQqLN0FRwSfI6VApD5BJnJYoCvtP1zyBF6pPPXVOjPSMFV4h7Cw-VobAjaIylp9oOUewSkGB3fvtUhmy5-iTUZFSgGNKZ6uYFx6Opx4P7-AgKCvhMl2ig7wbBsEOpU5yhxo4flIxWXlwJjvWQu-kUFj7TmACurBFSiJd_j6317y2mlcixZPW8fhPighw0395KIWeetzFPhnXzA_9WYY3lGIELlWDT6_vgsTx7jOFgT9KzQk7c5pb8pb7pEjlf2HN87cXABetGN6pVbAKYQg_JL7Al24gRODdkhJzQjevg6YMbkYmJboihOFnP_D2mSCqo22)](../assets/d59ba8abcf37/1*SzltfMGmrdsEPQN1qv24WA.jpeg)
 
 Young officers with sanitary masks escorting elderly resident out of the building\. / Photo: [Marios Lolos](https://www.facebook.com/marios.lolos.1?__tn__=CH-R&eid=ARDsrK6GdroWe0jGvEpjWkPjSDJh9ZmpOJXI9ZPZx9ucTZw1zevVbVs6vBJZXzc-RNbmgnp8tp0BIrnd&hc_ref=ARRKoxqGWRmun_bmBgjdynUygytCSS27h4bF9jJPEpzLeCWFRAgiKTcyKmQFxoqRCwU&fref=nf&__xts__%5B0%5D=68.ARBP7l8cF_maqzRQ9HfV0ttvGgQqLN0FRwSfI6VApD5BJnJYoCvtP1zyBF6pPPXVOjPSMFV4h7Cw-VobAjaIylp9oOUewSkGB3fvtUhmy5-iTUZFSgGNKZ6uYFx6Opx4P7-AgKCvhMl2ig7wbBsEOpU5yhxo4flIxWXlwJjvWQu-kUFj7TmACurBFSiJd_j6317y2mlcixZPW8fhPighw0395KIWeetzFPhnXzA_9WYY3lGIELlWDT6_vgsTx7jOFgT9KzQk7c5pb8pb7pEjlf2HN87cXABetGN6pVbAKYQg_JL7Al24gRODdkhJzQjevg6YMbkYmJboihOFnP_D2mSCqo22)
 
@@ -43,7 +43,7 @@ Registered refugees who were forced to leave the squat in central Athens were pr
 According to volunteers on site, the camp has electricity and the large tents which were completely empty last week are now divided up inside to ensure some basic privacy\. However, the camp still lacks infrastructure and is by no means suitable for long\-term hosting of refugees\.
 
 
-![Camp in the making: it is being set up while people are already there\.](assets/d59ba8abcf37/1*ILzd_neCh9SxGGW3CnJu1A.jpeg)
+![Camp in the making: it is being set up while people are already there\.](../assets/d59ba8abcf37/1*ILzd_neCh9SxGGW3CnJu1A.jpeg)
 
 Camp in the making: it is being set up while people are already there\.
 
@@ -57,7 +57,7 @@ In terms of additional facilities, allegedly there are some shops within walking
 
 
 
-![From the central urban area to the dusty plain: who would want to stay here? / Photo: Leslie Meral Schick](assets/d59ba8abcf37/1*WvLspwycfnOt2RtE3s4J0A.jpeg)
+![From the central urban area to the dusty plain: who would want to stay here? / Photo: Leslie Meral Schick](../assets/d59ba8abcf37/1*WvLspwycfnOt2RtE3s4J0A.jpeg)
 
 From the central urban area to the dusty plain: who would want to stay here? / Photo: Leslie Meral Schick
 #### Humanitarian assistance instead of solidarity
@@ -65,7 +65,7 @@ From the central urban area to the dusty plain: who would want to stay here? / P
 5th School was one of the two earliest squats in Athens; it has hosted thousands of people since its opening in 2016\. Its core purpose was to remove refugee families from the streets and provide them with safe and humane shelter\. According to our volunteers, it was a very spartan but joyful place, a community with a well organised structure, kids always playing in the courtyard, people commuting to schools, various trade and language programs, with access to the resources of central Athens\. This sort of support network is mostly found in the urban areas, while tent camps tend to be places of humanitarian assistance and cooperation of NGOs and governments instead of the basic people\-to\-people solidarity\.
 
 
-[![Video 5th School Squat](assets/d59ba8abcf37/023b_hqdefault.jpg "Video 5th School Squat")](http://www.youtube.com/watch?v=t_6suCbzc1A)
+[![Video 5th School Squat](../assets/d59ba8abcf37/023b_hqdefault.jpg "Video 5th School Squat")](http://www.youtube.com/watch?v=t_6suCbzc1A)
 
 
 Independent journalists in Athens claim that media outlets that support the current government are usually informed of such evictions beforehands\.
@@ -75,14 +75,14 @@ During this eviction, pro\-government journalists were allowed to film police of
 The Union of photojournalist Greece has publicly condemned the arrest\.
 
 
-![Photographer Alexandros Stamatiou taken from the site in handcuffs\. / Photo: Savvas Karmaniolas](assets/d59ba8abcf37/1*IR8pj65LnE1KYosThP5nOQ.jpeg)
+![Photographer Alexandros Stamatiou taken from the site in handcuffs\. / Photo: Savvas Karmaniolas](../assets/d59ba8abcf37/1*IR8pj65LnE1KYosThP5nOQ.jpeg)
 
 Photographer Alexandros Stamatiou taken from the site in handcuffs\. / Photo: Savvas Karmaniolas
 
 Volunteers who were supporting the residents of the 5th School squat have organised a protest in front of the Foreigners Direction in the afternoon after the evictions\. At the moment, authorities seem to be very determined to continue with evictions\. They consider the tent camp in Corinth a suitable alternative, but many evicted people are hoping to go back to Athens, even if it means sleeping in she streets\. Volunteers will again do their best to find any form of sustainable solution for them\. “Ideas aren’t evicted”, says the banner which was hanged on the window bars of the 5th School squat this morning\.
 
 
-![Final message for the authorities: Ideas aren’t evicted\! / Photo: Mano Aperta](assets/d59ba8abcf37/1*bb3O8WBAfx0PApe6BVldcQ.jpeg)
+![Final message for the authorities: Ideas aren’t evicted\! / Photo: Mano Aperta](../assets/d59ba8abcf37/1*bb3O8WBAfx0PApe6BVldcQ.jpeg)
 
 Final message for the authorities: Ideas aren’t evicted\! / Photo: Mano Aperta
 ### Army to prevent new arrivals to Greek islands?
@@ -110,7 +110,7 @@ Today, four EU countries have reached an agreement on redistribution of refugees
 
 
 
-![For years, EU member states have avoided taking their responsibility for refugees rescued from the sea\. / Photo: Sea Watch](assets/d59ba8abcf37/1*7JOl2h0kIWfKenXWV0HhtQ.jpeg)
+![For years, EU member states have avoided taking their responsibility for refugees rescued from the sea\. / Photo: Sea Watch](../assets/d59ba8abcf37/1*7JOl2h0kIWfKenXWV0HhtQ.jpeg)
 
 For years, EU member states have avoided taking their responsibility for refugees rescued from the sea\. / Photo: Sea Watch
 
@@ -136,7 +136,7 @@ Search and Rescue NGOs have applauded this meeting as the first step to finding 
 
 
 
-![Italian government was among those preventing SAR vessels from disembarking on its coast\. / Photo: Sea Watch](assets/d59ba8abcf37/1*ob8YD5IkgB0-WywCjex_4w.jpeg)
+![Italian government was among those preventing SAR vessels from disembarking on its coast\. / Photo: Sea Watch](../assets/d59ba8abcf37/1*ob8YD5IkgB0-WywCjex_4w.jpeg)
 
 Italian government was among those preventing SAR vessels from disembarking on its coast\. / Photo: Sea Watch
 
@@ -151,7 +151,7 @@ With her predecessor Matteo Salvini finally out of sight, it seems that the EU i
 Devastating news is coming from Bihać, Bosnian town where many of the refugees return after being forcibly pushed back from Croatia\. A man who lost his limbs, his sanity and his dignity after being humiliated and pushed back has died\. His name was Ali\.
 
 
-![Ali, crawling crippled on the concrete camp floor, weeks before his death\. Still from the video made by his friend who prefers to stay annonymous\.](assets/d59ba8abcf37/1*5Zzi5lMofkTHWPzpc4NAow.jpeg)
+![Ali, crawling crippled on the concrete camp floor, weeks before his death\. Still from the video made by his friend who prefers to stay annonymous\.](../assets/d59ba8abcf37/1*5Zzi5lMofkTHWPzpc4NAow.jpeg)
 
 Ali, crawling crippled on the concrete camp floor, weeks before his death\. Still from the video made by his friend who prefers to stay annonymous\.
 
@@ -168,7 +168,7 @@ In Tuzla, a Bosnian city on the route between Serbia to Croatia, around 100 peop
 One of the leaders of the solidarity movement is [Senad Cupo](https://www.facebook.com/profile.php?id=1032645245) , a reliable, dedicated man who is open to accepting donations, long term volunteers and other practical forms of support\. AYS can vouch for them and we highly recommend supporting the team in Tuzla, because they don’t have any form of constant funding and average income in Bosnia is hardly enough to cater bacis personal needs, let alone to support dozens of others\.
 
 
-![Simple distribution from a car supports up to 100 people per day\. / Photo: Medical Volunteers International e\.V\.](assets/d59ba8abcf37/1*4MDQII0jFMoB9m7ehjEXuA.jpeg)
+![Simple distribution from a car supports up to 100 people per day\. / Photo: Medical Volunteers International e\.V\.](../assets/d59ba8abcf37/1*4MDQII0jFMoB9m7ehjEXuA.jpeg)
 
 Simple distribution from a car supports up to 100 people per day\. / Photo: Medical Volunteers International e\.V\.
 
@@ -182,7 +182,7 @@ At the bus stop in Tuzla, there’s also a medical team which is treating betwee
 
 
 
-![Between 25 and 50 people are being treated daily in Tuzla\. / Photo: Medical Volunteers International e\.V\.](assets/d59ba8abcf37/1*6rdmEh-4r7H7-kuV67Hdew.jpeg)
+![Between 25 and 50 people are being treated daily in Tuzla\. / Photo: Medical Volunteers International e\.V\.](../assets/d59ba8abcf37/1*6rdmEh-4r7H7-kuV67Hdew.jpeg)
 
 Between 25 and 50 people are being treated daily in Tuzla\. / Photo: Medical Volunteers International e\.V\.
 
@@ -195,7 +195,7 @@ Dozens of refugee are residing in the abandoned factory in Šid, Serbia\. Most o
 Lately, Serbian police visits the abandoned factory in Šid more often\. They enter without warning, no matter if it’s day or night, and check every corner of the building\. They don’t usually find a lot of people\. The boys are running away as soon as they hear them, afraid of police violence and/ or deportation\.
 
 
-![The boys in the Šid factory are too afraid of the police, both Croatian and Serbian, so they ran away as soon as they hear the officers approaching\. / Photo: AYS](assets/d59ba8abcf37/1*DHQwjuiUmFiDW6a-5C_fRA.jpeg)
+![The boys in the Šid factory are too afraid of the police, both Croatian and Serbian, so they ran away as soon as they hear the officers approaching\. / Photo: AYS](../assets/d59ba8abcf37/1*DHQwjuiUmFiDW6a-5C_fRA.jpeg)
 
 The boys in the Šid factory are too afraid of the police, both Croatian and Serbian, so they ran away as soon as they hear the officers approaching\. / Photo: AYS
 
@@ -209,7 +209,7 @@ The boys in the Šid factory are too afraid of the police, both Croatian and Ser
 ### People of Kent oppose racist coastal patrols
 
 
-![People have gathered on Sunday to spread messages of love against hate / Photo: [Andy Aitchison](https://www.facebook.com/aitchisonphotography?__tn__=K-R&eid=ARA6Uvl0lAsv9gG7pNFcCCx7sm0qKEpddGPN7cITKzeo3l5dLVsi8xBe_xl5ecreraKPKgNqx5Cldbud&fref=mentions&__xts__%5B0%5D=68.ARBSdjhlPokzxfbkuXJWelNjZE6-VouaumW-fjJRplM_TcCS3FoivZK8x_xlBxklBblwHfsqCu9p5PSVWvmmPodr_aI4Xc5gZttoRVSrmWxFQVLx_XITJgkTlBD-iWNYHqd-z2DG6hbAsBHymkmn1r6Ponnmo_uUMLhOiDoOXeA9QUGJj77pAthQlfD3QRigOfV123o28YjdLQEld3u0ZwHxhRIpHKY6-3hl3fb2GFZLaor4aWKhHYrfBKTlU7JjuA98yx9DaVNYBQLfCFzACs8nuJEmt09pIQ)](assets/d59ba8abcf37/1*5VY5OZhYorg-u3BIBeA2Lg.jpeg)
+![People have gathered on Sunday to spread messages of love against hate / Photo: [Andy Aitchison](https://www.facebook.com/aitchisonphotography?__tn__=K-R&eid=ARA6Uvl0lAsv9gG7pNFcCCx7sm0qKEpddGPN7cITKzeo3l5dLVsi8xBe_xl5ecreraKPKgNqx5Cldbud&fref=mentions&__xts__%5B0%5D=68.ARBSdjhlPokzxfbkuXJWelNjZE6-VouaumW-fjJRplM_TcCS3FoivZK8x_xlBxklBblwHfsqCu9p5PSVWvmmPodr_aI4Xc5gZttoRVSrmWxFQVLx_XITJgkTlBD-iWNYHqd-z2DG6hbAsBHymkmn1r6Ponnmo_uUMLhOiDoOXeA9QUGJj77pAthQlfD3QRigOfV123o28YjdLQEld3u0ZwHxhRIpHKY6-3hl3fb2GFZLaor4aWKhHYrfBKTlU7JjuA98yx9DaVNYBQLfCFzACs8nuJEmt09pIQ)](../assets/d59ba8abcf37/1*5VY5OZhYorg-u3BIBeA2Lg.jpeg)
 
 People have gathered on Sunday to spread messages of love against hate / Photo: [Andy Aitchison](https://www.facebook.com/aitchisonphotography?__tn__=K-R&eid=ARA6Uvl0lAsv9gG7pNFcCCx7sm0qKEpddGPN7cITKzeo3l5dLVsi8xBe_xl5ecreraKPKgNqx5Cldbud&fref=mentions&__xts__%5B0%5D=68.ARBSdjhlPokzxfbkuXJWelNjZE6-VouaumW-fjJRplM_TcCS3FoivZK8x_xlBxklBblwHfsqCu9p5PSVWvmmPodr_aI4Xc5gZttoRVSrmWxFQVLx_XITJgkTlBD-iWNYHqd-z2DG6hbAsBHymkmn1r6Ponnmo_uUMLhOiDoOXeA9QUGJj77pAthQlfD3QRigOfV123o28YjdLQEld3u0ZwHxhRIpHKY6-3hl3fb2GFZLaor4aWKhHYrfBKTlU7JjuA98yx9DaVNYBQLfCFzACs8nuJEmt09pIQ)
 

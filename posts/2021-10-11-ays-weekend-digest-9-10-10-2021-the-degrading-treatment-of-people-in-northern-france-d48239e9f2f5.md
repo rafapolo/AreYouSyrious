@@ -1,13 +1,13 @@
 ---
-title: AYS Weekend Digest: 9–10.10.2021: The degrading treatment of people in Northern France
+title: "AYS Weekend Digest: 9–10.10.2021: The degrading treatment of people in Northern France"
 author: Are You Syrious?
 date: 2021-10-11T10:38:09.908+0100
 last_modified_at: 2021-10-11T17:04:53.924+0100
 categories: Are You Syrious?
 tags: [digest,humanrights,europeanunion,pushback]
-description: 10 people reported dead off the coast of Gran Canaria // Greek army division letter: requests not to ‘hunt refugees’ // Call for equal…
+description: "10 people reported dead off the coast of Gran Canaria // Greek army division letter: requests not to ‘hunt refugees’ // Call for equal…"
 image:
-  path: assets/d48239e9f2f5/0*HVKe_dq5iM8c1e6s
+  path: ../assets/d48239e9f2f5/0*HVKe_dq5iM8c1e6s
 ---
 
 ### AYS Weekend Digest: 9–10\.10\.2021: The degrading treatment of people in Northern France
@@ -17,7 +17,7 @@ image:
 ### The degrading treatment of migrant children and adults in northern France
 
 
-![Image credit [Abdul Saboor](https://www.facebook.com/profile.php?id=100007864985647&__cft__[0]=AZWL3SmXKyu_UyGWUMckAvDC4y5xauX194AEWJP5EpgGn_HS_X_gONjYBQ_IcUz6g_oaiVLpo4YPltjKVkCegHxKPaR-ewW4zSw-apZI_YXy68S_z4anPlT5PAXiWf1FqpMhh01X3mch4_onk9CWrn8o&__tn__=-]K-R)](assets/d48239e9f2f5/0*HVKe_dq5iM8c1e6s)
+![Image credit [Abdul Saboor](https://www.facebook.com/profile.php?id=100007864985647&__cft__[0]=AZWL3SmXKyu_UyGWUMckAvDC4y5xauX194AEWJP5EpgGn_HS_X_gONjYBQ_IcUz6g_oaiVLpo4YPltjKVkCegHxKPaR-ewW4zSw-apZI_YXy68S_z4anPlT5PAXiWf1FqpMhh01X3mch4_onk9CWrn8o&__tn__=-]K-R)](../assets/d48239e9f2f5/0*HVKe_dq5iM8c1e6s)
 
 Image credit [Abdul Saboor](https://www.facebook.com/profile.php?id=100007864985647&__cft__[0]=AZWL3SmXKyu_UyGWUMckAvDC4y5xauX194AEWJP5EpgGn_HS_X_gONjYBQ_IcUz6g_oaiVLpo4YPltjKVkCegHxKPaR-ewW4zSw-apZI_YXy68S_z4anPlT5PAXiWf1FqpMhh01X3mch4_onk9CWrn8o&__tn__=-]K-R)
 
@@ -43,7 +43,7 @@ The emphasis of the report is highlighting the current situation, whilst also pr
 #### SEA — SAR
 
 
-![Photo Credit: [Wesudnews](https://www.wesud.it/migranti-in-77-sbarcano-al-porto-di-crotone-erano-a-bordo-di-un-barcone-intercettato-dalla-guardia-costiera/?fbclid=IwAR2MwsQLc9VDa_t5SpAcdC7fctbd4jB3iJnDnknJE3WKclzJxeIzMd1nb48)](assets/d48239e9f2f5/0*-9A9xHQRB7Ih85vR)
+![Photo Credit: [Wesudnews](https://www.wesud.it/migranti-in-77-sbarcano-al-porto-di-crotone-erano-a-bordo-di-un-barcone-intercettato-dalla-guardia-costiera/?fbclid=IwAR2MwsQLc9VDa_t5SpAcdC7fctbd4jB3iJnDnknJE3WKclzJxeIzMd1nb48)](../assets/d48239e9f2f5/0*-9A9xHQRB7Ih85vR)
 
 Photo Credit: [Wesudnews](https://www.wesud.it/migranti-in-77-sbarcano-al-porto-di-crotone-erano-a-bordo-di-un-barcone-intercettato-dalla-guardia-costiera/?fbclid=IwAR2MwsQLc9VDa_t5SpAcdC7fctbd4jB3iJnDnknJE3WKclzJxeIzMd1nb48)
 
@@ -93,7 +93,7 @@ Of 170 evaluations carried out on children in the camps, 40 needed urgent psycho
 **Call for equal assistance for Afghan refugees in BiH**
 
 
-![Photo credit: [Transbalkanska Solidarnost](https://transbalkanskasolidarnost.home.blog/azil-za-izbjegle-iz-afganistana-na-balkanu-bez-iznimke/?fbclid=IwAR18FfjoLANx-OLtbxxK1DIeH0myDEeaj6xSZ8Ohqs06-2Yxd-WOYQ7aQYc)](assets/d48239e9f2f5/0*6ge98w2HNPYVJGMb)
+![Photo credit: [Transbalkanska Solidarnost](https://transbalkanskasolidarnost.home.blog/azil-za-izbjegle-iz-afganistana-na-balkanu-bez-iznimke/?fbclid=IwAR18FfjoLANx-OLtbxxK1DIeH0myDEeaj6xSZ8Ohqs06-2Yxd-WOYQ7aQYc)](../assets/d48239e9f2f5/0*6ge98w2HNPYVJGMb)
 
 Photo credit: [Transbalkanska Solidarnost](https://transbalkanskasolidarnost.home.blog/azil-za-izbjegle-iz-afganistana-na-balkanu-bez-iznimke/?fbclid=IwAR18FfjoLANx-OLtbxxK1DIeH0myDEeaj6xSZ8Ohqs06-2Yxd-WOYQ7aQYc)
 
@@ -128,7 +128,7 @@ There will be a concert in support of the work of Utopia 56 in Paris on 30th Oct
 **Frankfurt declared ‘safe haven’\.**
 
 
-![](assets/d48239e9f2f5/0*6GQtGFFOgZWiLmpN)
+![](../assets/d48239e9f2f5/0*6GQtGFFOgZWiLmpN)
 
 
 Frankfurt am Main has declared itself a [Safe Haven](https://www.facebook.com/SeebrueckeSchafftsichereHaefen/posts/1492085677830277) for refugees\. This has happened thanks to campaigning by local groups and NGO Seebrücke [offers support](https://www.facebook.com/SeebrueckeSchafftsichereHaefen/) for campaigners to make their city into a safe haven too\.
@@ -157,7 +157,7 @@ Additionally, the Home Office has wasted £3 million on plans and construction o
 
 
 
-![Photo Credit [Sally Hayd](https://twitter.com/sallyhayd/status/1447204284974735362?fbclid=IwAR3E_hmgchM1XaEzBvHQRIDbwaWivYIToAhCjowTTYS_gueQiFKqB6FcavI)](assets/d48239e9f2f5/0*dAc17l7IUp-SlihQ)
+![Photo Credit [Sally Hayd](https://twitter.com/sallyhayd/status/1447204284974735362?fbclid=IwAR3E_hmgchM1XaEzBvHQRIDbwaWivYIToAhCjowTTYS_gueQiFKqB6FcavI)](../assets/d48239e9f2f5/0*dAc17l7IUp-SlihQ)
 
 Photo Credit [Sally Hayd](https://twitter.com/sallyhayd/status/1447204284974735362?fbclid=IwAR3E_hmgchM1XaEzBvHQRIDbwaWivYIToAhCjowTTYS_gueQiFKqB6FcavI)
 
@@ -165,7 +165,7 @@ A [big protest](https://twitter.com/sallyhayd/status/1447204284974735362?fbclid=
 #### GENERAL
 
 
-![Infograph Credit: Josoor](assets/d48239e9f2f5/0*TtVTTangTTnnD123)
+![Infograph Credit: Josoor](../assets/d48239e9f2f5/0*TtVTTangTTnnD123)
 
 Infograph Credit: Josoor
 

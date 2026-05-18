@@ -1,5 +1,5 @@
 ---
-title: AYS Special from Greece: 6 problems with the EU-Turkey Deal
+title: "AYS Special from Greece: 6 problems with the EU-Turkey Deal"
 author: Are You Syrious?
 date: 2022-03-20T19:15:37.332+0000
 last_modified_at: 2022-03-20T19:15:37.332+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: []
 description: It is 6 years since the EU Turkey deal came into effect and for a brief moment in March 2016 arrivals completely stopped. Since that time…
 image:
-  path: assets/ff1ef0b14509/0*v-hnr1MAz-sgmgZf.jpeg
+  path: ../assets/ff1ef0b14509/0*v-hnr1MAz-sgmgZf.jpeg
 ---
 
 ### AYS Special from Greece: 6 problems with the EU\-Turkey Deal
@@ -15,7 +15,7 @@ image:
 _It is 6 years since the EU Turkey deal came into effect and for a brief moment in March 2016 arrivals completely stopped\. Since that time, however, thousands of people have arrived Greece and have been subject to the restrictive conditions imposed by the deal, reeking havoc with people’s lives\. As Europe has suddenly collectively realised, people fleeing war have already survived enough, they should not be subject to further trauma at the hands of the state from which they ask for protection, and yet this is exactly what happens\. Here are 6 of the main problems with it\._
 
 
-![](assets/ff1ef0b14509/0*v-hnr1MAz-sgmgZf.jpeg)
+![](../assets/ff1ef0b14509/0*v-hnr1MAz-sgmgZf.jpeg)
 
 
 \(Photo Credit: [Vassilis Tsarnas](https://twitter.com/VassilisTsarnas) \)

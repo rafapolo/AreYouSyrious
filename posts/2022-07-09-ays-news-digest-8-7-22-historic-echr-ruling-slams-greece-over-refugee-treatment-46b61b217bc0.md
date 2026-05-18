@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 8/7/22: “Historic” ECHR ruling slams Greece over refugee treatment
+title: "AYS News Digest 8/7/22: “Historic” ECHR ruling slams Greece over refugee treatment"
 author: Are You Syrious?
 date: 2022-07-09T10:47:41.262+0100
 last_modified_at: 2022-07-09T18:07:17.123+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,turkey,greece,uk]
 description: Authorities violated Human Rights in 2014 boat sinking incident / Currently 3.6 million Syrians in Turkey / 41 people rescued at sea / UK…
 image:
-  path: assets/46b61b217bc0/1*_4TpmT0f6HbSRqzEqjGD2w.jpeg
+  path: ../assets/46b61b217bc0/1*_4TpmT0f6HbSRqzEqjGD2w.jpeg
 ---
 
 ### AYS News Digest 8/7/22: “Historic” ECHR ruling slams Greece over refugee treatment
 #### Authorities violated Human Rights in 2014 boat sinking incident / Currently 3\.6 million Syrians in Turkey / 41 people rescued at sea / UK feared to continue unlawful Rwanda plan
 
 
-![Photo: Klikaktiv](assets/46b61b217bc0/1*_4TpmT0f6HbSRqzEqjGD2w.jpeg)
+![Photo: Klikaktiv](../assets/46b61b217bc0/1*_4TpmT0f6HbSRqzEqjGD2w.jpeg)
 
 Photo: Klikaktiv
 ### Türkiye
@@ -61,7 +61,7 @@ The Serbian collective Klikaktiv, active in advocacy and direct support to the r
 In order to get back to the north of Serba, they need at least 200 euro for transport, mostly taxis\. Some people we spoke to relived these returns several times and feel completely powerless and robbed because of it\.
 
 
-![Photos: Klikaktiv](assets/46b61b217bc0/1*c6RtlO9ebQBPLfSI8NCnmg.jpeg)
+![Photos: Klikaktiv](../assets/46b61b217bc0/1*c6RtlO9ebQBPLfSI8NCnmg.jpeg)
 
 Photos: Klikaktiv
 
@@ -74,7 +74,7 @@ The EU is paradoxically spreading and shrinking beyond its clear borders\. So, o
 In the end, after the people share with us their suffering, in the field, we remain with an unpleasant question: ‘Why are they doing this to us and will they stop any time soon?’”
 
 
-![](assets/46b61b217bc0/1*L_7UvXa9slK79gomQ2btWQ.jpeg)
+![](../assets/46b61b217bc0/1*L_7UvXa9slK79gomQ2btWQ.jpeg)
 
 #### SEARCH AND RESCUE AT SEA
 

@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: []
 description: 60 people feared dead in Turkey at border / Ethiopians and Eritreans at risk in Libya / Mass Deportation to Sudan / Italian tanker’s…
 image:
-  path: assets/6a72f51388f9/0*JQYv4HFl6HMUKCPo.jpeg
+  path: ../assets/6a72f51388f9/0*JQYv4HFl6HMUKCPo.jpeg
 ---
 
 ### AYS Weekend Digest 18–19/7/2020 Endemic Police Racism in Tuzla
 #### 60 people feared dead in Turkey at border / Ethiopians and Eritreans at risk in Libya **/** Mass Deportation to Sudan **/** Italian tanker’s captain and owner on trial for push\-back in 2018 / Extended lockdown on Greek Islands / Arrivals on Canary Islands / Protest in Madrid for regularisation and against detention centres and much, much more…
 
 
-![](assets/6a72f51388f9/0*JQYv4HFl6HMUKCPo.jpeg)
+![](../assets/6a72f51388f9/0*JQYv4HFl6HMUKCPo.jpeg)
 
 
 \(Photo Credit: AYS\. Sunday’s protest in Madrid asking for the regularization of migrant people in Spain and the closure of CIES\)
@@ -24,11 +24,11 @@ image:
 People whom the western police of Tuzla believe to physically “resemble the refugees” they’ve seen before, are being taken away in official cars of the Tuzla canton Ministry of the Interior towards Sarajevo\.
 
 
-![](assets/6a72f51388f9/0*obttgiyg6rRxfbS2)
+![](../assets/6a72f51388f9/0*obttgiyg6rRxfbS2)
 
 
 
-![](assets/6a72f51388f9/0*PXmxRqRqAPYVDTag.jpeg)
+![](../assets/6a72f51388f9/0*PXmxRqRqAPYVDTag.jpeg)
 
 
 Tuzla police loading people into vans to move them towards Sarajevo \(Photo by AYS\)
@@ -36,19 +36,19 @@ Tuzla police loading people into vans to move them towards Sarajevo \(Photo by A
 At first, these people were transported to Olovo, then Kladanj, and now they are being taken to Živinice, a small town in Tuzla canton\. Often, they are left across the road from the nearby woods\. There, the police leave them without anything and direct them towards Sarajevo \(as we reported earlier regarding the Republic of Srpska police directing people towards the Una Sana canton\) \.
 
 
-![](assets/6a72f51388f9/0*Ek9mNyu-291wkoaY)
+![](../assets/6a72f51388f9/0*Ek9mNyu-291wkoaY)
 
 
 
-![](assets/6a72f51388f9/0*j-wScZVplvl1O5l0.jpeg)
+![](../assets/6a72f51388f9/0*j-wScZVplvl1O5l0.jpeg)
 
 
 
-![](assets/6a72f51388f9/0*s0xTOgeclsZIDrWR)
+![](../assets/6a72f51388f9/0*s0xTOgeclsZIDrWR)
 
 
 
-![](assets/6a72f51388f9/0*8e9ozwF4wyOSyda-.jpeg)
+![](../assets/6a72f51388f9/0*8e9ozwF4wyOSyda-.jpeg)
 
 
 Photos by AYS
@@ -118,29 +118,29 @@ At the moment there are a total of 329 people in quarantine on Lesvos, 239 peopl
 [From Europe Must Act](https://www.facebook.com/europemustact/photos/a.107779454168091/158742592405110) — Yesterday Greek authorities extended the restrictive measures for refugees and asylum seekers living in the Aegean camps for the 6th time\. Now the measures will last until the 2nd of August\.
 
 
-![](assets/6a72f51388f9/0*WtgR-AbHHIRPCr_b)
+![](../assets/6a72f51388f9/0*WtgR-AbHHIRPCr_b)
 
 
 
-![](assets/6a72f51388f9/0*sUDmTQoRtR3FABIb.jpeg)
+![](../assets/6a72f51388f9/0*sUDmTQoRtR3FABIb.jpeg)
 
 
 This means that 14,431 people stuck in Moria, 4,380 in Vial, as well as those in Vathi, on Leros and on Kos still can’t access basic services and are in fact imprisoned in the camps\.
 
 
-![](assets/6a72f51388f9/0*jZRyjp3pj_eb-jqg)
+![](../assets/6a72f51388f9/0*jZRyjp3pj_eb-jqg)
 
 
 
-![](assets/6a72f51388f9/0*Q_DRD0FgI57SNQX_.jpeg)
+![](../assets/6a72f51388f9/0*Q_DRD0FgI57SNQX_.jpeg)
 
 
 
-![](assets/6a72f51388f9/0*EUGOeR7pRaJzxFlx)
+![](../assets/6a72f51388f9/0*EUGOeR7pRaJzxFlx)
 
 
 
-![](assets/6a72f51388f9/0*wet0ix43-zMYXgcL.jpeg)
+![](../assets/6a72f51388f9/0*wet0ix43-zMYXgcL.jpeg)
 
 
 Vial Camp, Chios\. \(Photos by [RSA](https://twitter.com/rspaegean/status/1284494411884310528) \)
@@ -243,27 +243,27 @@ On Friday, [60 people were rescued by the ‘Nizar’](https://www.europapress.e
 **Protests in Spain for the regularisation of people on the move**
 
 
-![](assets/6a72f51388f9/0*eyctcyEzcAvWOiYs)
+![](../assets/6a72f51388f9/0*eyctcyEzcAvWOiYs)
 
 
 
-![](assets/6a72f51388f9/0*XbClbAXGbG6S-Pj5.jpeg)
+![](../assets/6a72f51388f9/0*XbClbAXGbG6S-Pj5.jpeg)
 
 
 
-![](assets/6a72f51388f9/0*ibpfwvRoC0SAXUS6)
+![](../assets/6a72f51388f9/0*ibpfwvRoC0SAXUS6)
 
 
 
-![](assets/6a72f51388f9/0*xF633IH6zs01h2vR.jpeg)
+![](../assets/6a72f51388f9/0*xF633IH6zs01h2vR.jpeg)
 
 
 
-![](assets/6a72f51388f9/0*D4rNqH3hjG9fJt4C)
+![](../assets/6a72f51388f9/0*D4rNqH3hjG9fJt4C)
 
 
 
-![](assets/6a72f51388f9/0*cq3qicv-RrdbSP23.jpeg)
+![](../assets/6a72f51388f9/0*cq3qicv-RrdbSP23.jpeg)
 
 
 \(Photo Credit: [Papeles Para Todxs \#RegularizacionYa](https://web.facebook.com/permalink.php?story_fbid=151211743209922&id=103412274656536&hc_location=ufi) \)
@@ -291,19 +291,19 @@ On Friday, [60 people were rescued by the ‘Nizar’](https://www.europapress.e
 
 
 
-![](assets/6a72f51388f9/0*d_9GAO9fwPehc0jO)
+![](../assets/6a72f51388f9/0*d_9GAO9fwPehc0jO)
 
 
 
-![](assets/6a72f51388f9/0*_VDqqPgC9k5Y2LWh.jpeg)
+![](../assets/6a72f51388f9/0*_VDqqPgC9k5Y2LWh.jpeg)
 
 
 
-![](assets/6a72f51388f9/0*9b1V5SYTfnDCty78)
+![](../assets/6a72f51388f9/0*9b1V5SYTfnDCty78)
 
 
 
-![](assets/6a72f51388f9/0*u_fBwzyZLvMf7szN.jpeg)
+![](../assets/6a72f51388f9/0*u_fBwzyZLvMf7szN.jpeg)
 
 
 \(Photo Credit: [Papeles Para Todxs \#RegularizacionYa](https://web.facebook.com/permalink.php?story_fbid=151211743209922&id=103412274656536&hc_location=ufi) \)
@@ -317,11 +317,11 @@ BALKANS
 **No Name Kitchen still need support**
 
 
-![](assets/6a72f51388f9/0*jpCgIbstmyiJN-Y9)
+![](../assets/6a72f51388f9/0*jpCgIbstmyiJN-Y9)
 
 
 
-![](assets/6a72f51388f9/0*IlVzwfr6YD1MAHPr.jpeg)
+![](../assets/6a72f51388f9/0*IlVzwfr6YD1MAHPr.jpeg)
 
 
 The number of people they support has doubled in recent days to around 120 people, to whom they provide food, clothes, sleeping bags, tents, and basic health services in and around Šid, Serbia\.

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 15/12/17: More responsibility for Libya in sea rescues, Italy suggests
+title: "AYS Daily Digest 15/12/17: More responsibility for Libya in sea rescues, Italy suggests"
 author: Are You Syrious?
 date: 2017-12-16T02:25:21.148+0000
 last_modified_at: 2017-12-16T23:11:14.608+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,coast-guard,libya,moria]
 description: Number of transfers from Greek islands still lower than arrivals / HRW reports on the dire situation for women in Moria / Crossing via the…
 image:
-  path: assets/f00e694fe8fd/1*wbwrKERDsTNQxfzEtwfaGA.jpeg
+  path: ../assets/f00e694fe8fd/1*wbwrKERDsTNQxfzEtwfaGA.jpeg
 ---
 
 ### AYS Daily Digest 15/12/17: More responsibility for Libya in sea rescues, Italy suggests
@@ -15,7 +15,7 @@ image:
 _Number of transfers from Greek islands still lower than arrivals / HRW reports on the dire situation for women in Moria / Crossing via the Mediterranean Sea increasing again / Demonstration in Gorizia on Saturday / UK relocates first vulnerable child from Greece / Germany brings back unlawfully deported man / EU sets deadline for new relocation deal_
 
 
-![ProActiva during a rescue mission\. Credits: [ProActive Open Arms](https://www.facebook.com/proactivaservice/photos/a.232810050083187.63417.111995985497928/1732055910158586/?type=3&theater)](assets/f00e694fe8fd/1*wbwrKERDsTNQxfzEtwfaGA.jpeg)
+![ProActiva during a rescue mission\. Credits: [ProActive Open Arms](https://www.facebook.com/proactivaservice/photos/a.232810050083187.63417.111995985497928/1732055910158586/?type=3&theater)](../assets/f00e694fe8fd/1*wbwrKERDsTNQxfzEtwfaGA.jpeg)
 
 ProActiva during a rescue mission\. Credits: [ProActive Open Arms](https://www.facebook.com/proactivaservice/photos/a.232810050083187.63417.111995985497928/1732055910158586/?type=3&theater)
 ### Feature: Responsibility for the irresponsibles
@@ -61,7 +61,7 @@ The number of transfers from the Eastern Aegean Islands is still lower than the 
 Today 59 new arrivals were reported on Lesvos, 91 on Chios and 53 on Samos\.
 
 
-![For the people, who are still stuck on Moria, nothing has changed\. Credits: [Lesvos Solidarit — Pipka](https://www.facebook.com/pikpalesvos/photos/a.1650078085267616.1073741830.1650025878606170/2007513262857428/?type=3&theater&ifg=1)](assets/f00e694fe8fd/1*KyFLFZM2dDHEaZ1dxQV2GA.jpeg)
+![For the people, who are still stuck on Moria, nothing has changed\. Credits: [Lesvos Solidarit — Pipka](https://www.facebook.com/pikpalesvos/photos/a.1650078085267616.1073741830.1650025878606170/2007513262857428/?type=3&theater&ifg=1)](../assets/f00e694fe8fd/1*KyFLFZM2dDHEaZ1dxQV2GA.jpeg)
 
 For the people, who are still stuck on Moria, nothing has changed\. Credits: [Lesvos Solidarit — Pipka](https://www.facebook.com/pikpalesvos/photos/a.1650078085267616.1073741830.1650025878606170/2007513262857428/?type=3&theater&ifg=1)
 
@@ -110,7 +110,7 @@ Refugee Support Greece have finished setting up their clothes shop in Katsikas c
 The Mediterranean route seems to be more frequented recently\. Since the number of new arrivals dropped to less than 10,000 in August, they rose to almost 17,000 in November again, according to UNHCR data\. As of now, some 6000 people have arrived in December\. The rescue ship of ProActiva saved more than 600 people in the past week [according to their own account](https://www.facebook.com/proactivaservice/videos/1731780133519497/) , only 100 [today](https://www.facebook.com/proactivaservice/photos/a.232810050083187.63417.111995985497928/1732055910158586/?type=3) \. Salvamento Maritimo reported the rescue of five and 72 people with two of their boats\.
 
 
-![The Guardamar Concepción Arena rescueing people in distress\. Credits: [SALVAMENTO MARÍTIMO](https://twitter.com/salvamentogob)](assets/f00e694fe8fd/1*22JJsHWQWx-KACJfSdxetQ.jpeg)
+![The Guardamar Concepción Arena rescueing people in distress\. Credits: [SALVAMENTO MARÍTIMO](https://twitter.com/salvamentogob)](../assets/f00e694fe8fd/1*22JJsHWQWx-KACJfSdxetQ.jpeg)
 
 The Guardamar Concepción Arena rescueing people in distress\. Credits: [SALVAMENTO MARÍTIMO](https://twitter.com/salvamentogob)
 

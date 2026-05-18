@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 20/06/2018: International Day of Hypocrisy
+title: "AYS DAILY DIGEST 20/06/2018: International Day of Hypocrisy"
 author: Are You Syrious?
 date: 2018-06-21T09:07:42.646+0100
 last_modified_at: 2018-06-21T14:39:12.670+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,world-refugee-day,us,bosnia]
 description: Yesterday was World Refugee Day and a family of six from Kurdistan, including four children and a pregnant woman, was pushed back from…
 image:
-  path: assets/966c0b922c33/1*UVa_zvRru3mkULqATHGXmg.jpeg
+  path: ../assets/966c0b922c33/1*UVa_zvRru3mkULqATHGXmg.jpeg
 ---
 
 ### AYS DAILY DIGEST 20/06/2018: International Day of Hypocrisy
@@ -15,13 +15,13 @@ image:
 Yesterday was World Refugee Day and a family of six from Kurdistan, including four children and a pregnant woman, was pushed back from Croatia to Bosnia\. They asked for asylum\. After they were pushed back, the police left them in a field with one phone to call for help\. They called volunteers who picked them up and took to the city, where a local family is taking care of them\. Yesterday was World Refugee Day\.
 
 
-![Bihać, north Bosnia and Herzegovina, close to the border with Croatia\. Over 1\.500 refugees are estimated to be in this area\. There are no camps or any decent accommodation\. Photo: AYS](assets/966c0b922c33/1*UVa_zvRru3mkULqATHGXmg.jpeg)
+![Bihać, north Bosnia and Herzegovina, close to the border with Croatia\. Over 1\.500 refugees are estimated to be in this area\. There are no camps or any decent accommodation\. Photo: AYS](../assets/966c0b922c33/1*UVa_zvRru3mkULqATHGXmg.jpeg)
 
 Bihać, north Bosnia and Herzegovina, close to the border with Croatia\. Over 1\.500 refugees are estimated to be in this area\. There are no camps or any decent accommodation\. Photo: AYS
 ### Sea
 
 
-![](assets/966c0b922c33/1*OYenp1t0s0ofhBByTzC_Yw.jpeg)
+![](../assets/966c0b922c33/1*OYenp1t0s0ofhBByTzC_Yw.jpeg)
 
 ### Greece
 
@@ -33,39 +33,39 @@ Last week 33 boats have attempted the crossing to Greece, of which 16 have made 
 #### Moria, Lesvos
 
 
-![](assets/966c0b922c33/1*0FWFVmkRaBLARjgWZEnwMQ.jpeg)
+![](../assets/966c0b922c33/1*0FWFVmkRaBLARjgWZEnwMQ.jpeg)
 
 
 
-![](assets/966c0b922c33/1*0-an5m0KR6qapokjHw-OyA.jpeg)
+![](../assets/966c0b922c33/1*0-an5m0KR6qapokjHw-OyA.jpeg)
 
 
 
-![](assets/966c0b922c33/1*s-V7A3qFXg5wN3A837HeCw.jpeg)
+![](../assets/966c0b922c33/1*s-V7A3qFXg5wN3A837HeCw.jpeg)
 
 #### Patras
 
 
-![Photo AYS](assets/966c0b922c33/1*g4qWMs1_XQ0HkZWpdm_8Vg.jpeg)
+![Photo AYS](../assets/966c0b922c33/1*g4qWMs1_XQ0HkZWpdm_8Vg.jpeg)
 
 Photo AYS
 ### Italy
 
 
-![Photo by [Fight/Right — Diritti senza confini](https://www.facebook.com/Roma16Dicembre/?hc_ref=ARRY7goEe4YoG7wIc3ZmOjqsDI9Cjvthj1w6kuIrAQawHeQ8Rf4UqOUHmuu14BDsUNM&fref=nf)](assets/966c0b922c33/1*3nMoolcFwWrhLcr4H0wQQw.jpeg)
+![Photo by [Fight/Right — Diritti senza confini](https://www.facebook.com/Roma16Dicembre/?hc_ref=ARRY7goEe4YoG7wIc3ZmOjqsDI9Cjvthj1w6kuIrAQawHeQ8Rf4UqOUHmuu14BDsUNM&fref=nf)](../assets/966c0b922c33/1*3nMoolcFwWrhLcr4H0wQQw.jpeg)
 
 Photo by [Fight/Right — Diritti senza confini](https://www.facebook.com/Roma16Dicembre/?hc_ref=ARRY7goEe4YoG7wIc3ZmOjqsDI9Cjvthj1w6kuIrAQawHeQ8Rf4UqOUHmuu14BDsUNM&fref=nf)
 ### Bosnia
 #### Bihać
 
 
-![Photo AYS](assets/966c0b922c33/1*aGnffYy1iRcJ_VAmgs5Gnw.jpeg)
+![Photo AYS](../assets/966c0b922c33/1*aGnffYy1iRcJ_VAmgs5Gnw.jpeg)
 
 Photo AYS
 #### Sarajevo
 
 
-![Sarajevo train station, where a number of young men currently are sleeping rough\. Photo AYS\.](assets/966c0b922c33/1*ESM-saVjEaqyBG3J4xYEpw.jpeg)
+![Sarajevo train station, where a number of young men currently are sleeping rough\. Photo AYS\.](../assets/966c0b922c33/1*ESM-saVjEaqyBG3J4xYEpw.jpeg)
 
 Sarajevo train station, where a number of young men currently are sleeping rough\. Photo AYS\.
 ### Hungary
@@ -77,7 +77,7 @@ In a new report titled “The psychic suffering of exiles: a public health emerg
 Of the 580 cases of serious disorders diagnosed by MDM, 60 percent displayed psychological trauma, 22 percent had depressive symptoms, 8 percent had anxiety disorders, and 8 percent were cases of complex trauma\.
 
 
-![Photo by [Faces before numbers](https://www.facebook.com/FacesBeforeNumbers/photos/a.370049416799720.1073741829.368064216998240/443399666131361/?type=3&theater&ifg=1)](assets/966c0b922c33/1*rmZ--dLhyisw97wxNWSdxQ.jpeg)
+![Photo by [Faces before numbers](https://www.facebook.com/FacesBeforeNumbers/photos/a.370049416799720.1073741829.368064216998240/443399666131361/?type=3&theater&ifg=1)](../assets/966c0b922c33/1*rmZ--dLhyisw97wxNWSdxQ.jpeg)
 
 Photo by [Faces before numbers](https://www.facebook.com/FacesBeforeNumbers/photos/a.370049416799720.1073741829.368064216998240/443399666131361/?type=3&theater&ifg=1)
 
@@ -170,7 +170,7 @@ Photo by [Faces before numbers](https://www.facebook.com/FacesBeforeNumbers/phot
 #### Solidarity, Paris
 
 
-![Photo by Danika Jurisic](assets/966c0b922c33/1*X1I3ME86oIerCN9oJ7EWNQ.jpeg)
+![Photo by Danika Jurisic](../assets/966c0b922c33/1*X1I3ME86oIerCN9oJ7EWNQ.jpeg)
 
 Photo by Danika Jurisic
 ### Portugal

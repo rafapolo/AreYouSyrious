@@ -7,7 +7,7 @@ categories:
 tags: [refugees,lampedusa,chios,george-soros,right-to-education]
 description: Chios authorities still trying to halt Vial camp expansion /// More people to be settled in Ritsona camp/// Extradition from Croatia to…
 image:
-  path: assets/625226844336/1*XGnpW8HlOYydIyBELzonxQ.jpeg
+  path: ../assets/625226844336/1*XGnpW8HlOYydIyBELzonxQ.jpeg
 ---
 
 ### AYS Daily Digest 26/01/2018 Protesters sew their mouths shut in Lampedusa
@@ -15,7 +15,7 @@ image:
 Chios authorities still trying to halt Vial camp expansion /// More people to be settled in Ritsona camp/// Extradition from Croatia to Turkey of Kurdish refugee temporarily halted /// EU to delay discussion over refugee quotas /// Police brutality in France /// Court ruling towards school inclusion in Baviaria /// ‘Stop Soros’ draft laws internationally condemned /// more from Greece, Serbia, Germany, France, and the EU
 
 
-![No Homeland, deport fascist \(Photo by [Subversion \#1312](https://www.facebook.com/subanarchyshow/) \)](assets/625226844336/1*XGnpW8HlOYydIyBELzonxQ.jpeg)
+![No Homeland, deport fascist \(Photo by [Subversion \#1312](https://www.facebook.com/subanarchyshow/) \)](../assets/625226844336/1*XGnpW8HlOYydIyBELzonxQ.jpeg)
 
 No Homeland, deport fascist \(Photo by [Subversion \#1312](https://www.facebook.com/subanarchyshow/) \)
 #### **Feature — Lampedusa: Protesters sew their mouth shut against deportation**
@@ -111,7 +111,7 @@ Latest official data from the Eastern Aegean Islands:
 UNHCR data on the situation in Samos:
 
 
-![](assets/625226844336/1*xPx6yunin66q3SkvF2OPwQ.jpeg)
+![](../assets/625226844336/1*xPx6yunin66q3SkvF2OPwQ.jpeg)
 
 #### **Chios authorities appeal to block the expansion of Vial**
 
@@ -154,13 +154,13 @@ Read more [here](https://www.facebook.com/iamyourescue/posts/1879585825416470?hc
 [Khora Community Centre](https://www.facebook.com/KhoraAthens/) is to start Saturday language classes in Farsi, Arabic and Spanish\.
 
 
-![](assets/625226844336/1*NZbtqXjnODGPgsTPYJk8gw.jpeg)
+![](../assets/625226844336/1*NZbtqXjnODGPgsTPYJk8gw.jpeg)
 
 
 **Volunteer opportunities**
 
 
-![](assets/625226844336/1*iGa5H7bEi1pPyM7Ws_f8lw.jpeg)
+![](../assets/625226844336/1*iGa5H7bEi1pPyM7Ws_f8lw.jpeg)
 
 
 Take a look at [Greecevol](https://www.greecevol.info/task.list.php) to see where volunteers are most needed\.
@@ -177,7 +177,7 @@ If he was extradited back to Turkey, he would have to serve a 20\-year sentence\
 **Serbia**
 
 
-![Language classes timetable @ [The Workshop Belgrade](https://www.facebook.com/theworkshopbelgrade/photos/a.319187745229460.1073741828.312431265905108/346127359202165/?type=3&theater)](assets/625226844336/1*sYEYJag9CATWDa6YJZZ4Lg.jpeg)
+![Language classes timetable @ [The Workshop Belgrade](https://www.facebook.com/theworkshopbelgrade/photos/a.319187745229460.1073741828.312431265905108/346127359202165/?type=3&theater)](../assets/625226844336/1*sYEYJag9CATWDa6YJZZ4Lg.jpeg)
 
 Language classes timetable @ [The Workshop Belgrade](https://www.facebook.com/theworkshopbelgrade/photos/a.319187745229460.1073741828.312431265905108/346127359202165/?type=3&theater)
 
@@ -189,7 +189,7 @@ If you have any questions email them at: theworkshop@northstarserbia\.org
 #### ‘Stop Soros’ Draft Laws Widely Condemned
 
 
-![by the [European Centre for Non\-for\-profit Law \(ECNL\)](http://ecnl.org/)](assets/625226844336/1*bpYBI7sgPovaCQfhnNlIdA.png)
+![by the [European Centre for Non\-for\-profit Law \(ECNL\)](http://ecnl.org/)](../assets/625226844336/1*bpYBI7sgPovaCQfhnNlIdA.png)
 
 by the [European Centre for Non\-for\-profit Law \(ECNL\)](http://ecnl.org/)
 
@@ -211,7 +211,7 @@ These new laws are also in direct conflict with the [migration strategy](https:/
 A breakdown of Hungarian Government spending can be found below:
 
 
-![](assets/625226844336/1*Iy0OQ970H8VriDFqiDkvag.jpeg)
+![](../assets/625226844336/1*Iy0OQ970H8VriDFqiDkvag.jpeg)
 
 
 **Germany**

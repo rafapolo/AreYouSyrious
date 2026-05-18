@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 26/7/21: 75 people died crossing the Med, many more beaten, humiliated and pushed…
+title: "AYS Daily Digest 26/7/21: 75 people died crossing the Med, many more beaten, humiliated and pushed…"
 author: Are You Syrious?
 date: 2021-07-27T15:27:57.024+0100
 last_modified_at: 2021-07-27T20:10:29.519+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,greece,turkey,europe]
 description: Greek Asylum Service finally shares the “Opinion” on the basis of which Turkey was designated as a safe third country, proving the opposite…
 image:
-  path: assets/f5bb3ff9e4e8/0*tciWvlIjHoDKNwpT
+  path: ../assets/f5bb3ff9e4e8/0*tciWvlIjHoDKNwpT
 ---
 
 ### AYS Daily Digest 26/7/21: 75 people died crossing the Med, many more beaten, humiliated and pushed back
 #### Greek Asylum Service finally shares the “Opinion” on the basis of which Turkey was designated as a safe third country, proving the opposite / France asked Frontex to support French authorities in “stemming the increasing flow of irregular migrants trying to reach the UK” / Updated list of communities in Ireland looking to sponsor refugees / recommended reads and more
 
 
-![A wooden boat pulled back to Tunisia \(Photo: [Sea\-Watch International](https://twitter.com/seawatch_intl) \)](assets/f5bb3ff9e4e8/0*tciWvlIjHoDKNwpT)
+![A wooden boat pulled back to Tunisia \(Photo: [Sea\-Watch International](https://twitter.com/seawatch_intl) \)](../assets/f5bb3ff9e4e8/0*tciWvlIjHoDKNwpT)
 
 A wooden boat pulled back to Tunisia \(Photo: [Sea\-Watch International](https://twitter.com/seawatch_intl) \)
 
@@ -76,7 +76,7 @@ As the government’s pressure towards everyone who supports people on the move 
 ### Romanian pushbacks and humiliation at the borders continue
 
 
-![](assets/f5bb3ff9e4e8/0*q43X9NDNHCTsGsBc)
+![](../assets/f5bb3ff9e4e8/0*q43X9NDNHCTsGsBc)
 
 
 The Romanian police is continuing violent pushbacks on a daily basis, our Serbian fellow reporters from Asylum Protection Centre have reported\. They have documented the injuries of many people, the most recent one being a Palestinian young man, Ahmad, who was heavily beaten up with police batons, while the rest of his group were made to strip down and were humiliated and pushed back to Serbia\.

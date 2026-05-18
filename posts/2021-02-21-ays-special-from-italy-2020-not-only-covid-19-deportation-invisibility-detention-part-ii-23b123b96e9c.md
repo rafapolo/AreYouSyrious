@@ -1,5 +1,5 @@
 ---
-title: AYS Special from Italy: 2020, not only Covid-19. Deportation, invisibility, detention… PART II
+title: "AYS Special from Italy: 2020, not only Covid-19. Deportation, invisibility, detention… PART II"
 author: Are You Syrious?
 date: 2021-02-21T18:45:10.348+0000
 last_modified_at: 2021-02-21T18:45:10.348+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [special,italy,quarantine-ships,deportations,refugees]
 description: Second and final part of the report on the situation for people on the move in Italy in 2020, by LasciateCIEntrare.
 image:
-  path: assets/23b123b96e9c/0*UushmOsuAXkYHztr.jpeg
+  path: ../assets/23b123b96e9c/0*UushmOsuAXkYHztr.jpeg
 ---
 
 ### AYS Special from Italy: 2020, not only Covid\-19\. Deportation, invisibility, detention and lack of reception\. PART II
@@ -17,7 +17,7 @@ _The [LasciateCIEntrare](https://www.lasciatecientrare.it/) campaign was born in
 _Check out [PART I](ays-special-from-italy-2020-not-only-covid-19-deportation-invisibility-detention-part-i-e6b199a72f36) \._
 
 
-![](assets/23b123b96e9c/0*UushmOsuAXkYHztr.jpeg)
+![](../assets/23b123b96e9c/0*UushmOsuAXkYHztr.jpeg)
 
 #### Quarantine Ships
 
@@ -28,7 +28,7 @@ _Non\-places_ which enforce a _de facto_ deprivation of rights, such as those re
 Testimonies and cases we have followed with attorney Vitale and Maria Pasqualino point out the detention on board of vulnerable people and of people with family and relatives in Italy\. We have highlighted the overcrowding, the unsanitary conditions on board, the lack of protective equipment and of proper isolation facilities, and question the effectiveness of such ships in preventing the spread of Covid\-19\. For example, the conditions on board of the Rhapsody, anchored in the port of Bari, were so bad that positive cases were found among people who had been previously tested negative\.
 
 
-![Quarantine ship GNV Adriatica, October 2020](assets/23b123b96e9c/0*bfdxtz2a2AwJ7WDs.jpeg)
+![Quarantine ship GNV Adriatica, October 2020](../assets/23b123b96e9c/0*bfdxtz2a2AwJ7WDs.jpeg)
 
 Quarantine ship GNV Adriatica, October 2020
 
@@ -65,7 +65,7 @@ The deaths of [Abdallah Said](https://www.lasciatecientrare.it/verita-e-giustizi
 
 
 
-[![Nave quarantena Italy](assets/23b123b96e9c/9dd5_hqdefault.jpg "Nave quarantena Italy")](https://www.youtube.com/watch?v=Tt63tFjaxKU)
+[![Nave quarantena Italy](../assets/23b123b96e9c/9dd5_hqdefault.jpg "Nave quarantena Italy")](https://www.youtube.com/watch?v=Tt63tFjaxKU)
 
 
 The deprivation of rights on board quarantine ships is even more evident for Tunisian citizens\. They have organised protests and sent out videos and testimonies\. For them especially, this deprivation turns into a total lack of information about their future\. No information is given when they arrive on the ships, during their ‘stay’ on board or at the moment of being transferred back on land\. Some of them have been detained for 40 days, others for less, waiting for a negative COVID\-19 test, or for the second, the third…

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 25/09/19: A rise in deportations from Sweden
+title: "AYS Daily Digest 25/09/19: A rise in deportations from Sweden"
 author: Are You Syrious?
 date: 2019-09-26T12:24:56.842+0100
 last_modified_at: 2019-09-26T12:24:56.842+0100
@@ -7,18 +7,18 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,deportations,migration]
 description: Dreadful living conditions in camps made worse after rains hit Aegean islands // Increase in violence at the hands of Serbian police…
 image:
-  path: assets/ab03f1bcc0da/0*uO-BVhaq81_CLK2X.jpeg
+  path: ../assets/ab03f1bcc0da/0*uO-BVhaq81_CLK2X.jpeg
 ---
 
 ### AYS Daily Digest 25/09/19: A rise in deportations from Sweden
 #### Dreadful living conditions in camps made worse after rains hit Aegean islands // Increase in violence at the hands of Serbian police against people who have been pushed back to Macedonia // People violently returned from Croatia’s capital to Bosnia and Herzegovina, and with no paper trace or mention of international protection // Somalia a safe country — a single case in Denmark calls into question the entire basis of the former government’s return policy // & more news
 
 
-![](assets/ab03f1bcc0da/0*Q4tBV2jvOfidDSsf)
+![](../assets/ab03f1bcc0da/0*Q4tBV2jvOfidDSsf)
 
 
 
-![](assets/ab03f1bcc0da/0*uO-BVhaq81_CLK2X.jpeg)
+![](../assets/ab03f1bcc0da/0*uO-BVhaq81_CLK2X.jpeg)
 
 
 Moria, Lesvos \(Photo: [Ihab Abassi](https://www.facebook.com/ysalaam?__tn__=%2Cd%2AF%2AF-R&eid=ARD7bqSQ0eaXZOtAYHAAZcozHXp4QODV-bKNHUYEtgVVVjSnnjHvRdg9GScRwest3S3m_ScS5TPPJojU&tn-str=%2AF) \)
@@ -40,19 +40,19 @@ _“All the police work is based on a humane, compassionate and legal approach\.
 A temporary relocation mechanism can only be the first step towards a long\-term political solution to the deadlock in the Mediterranean\. For it to be fair and based on actual human needs, the [E](https://twitter.com/hashtag/EU?src=hashtag_click) U has to follow these legal and political guidelines, SAR organisations claim, as a reaction to the Malta conference:
 
 
-![](assets/ab03f1bcc0da/0*e83j8l4b98sKHmv-)
+![](../assets/ab03f1bcc0da/0*e83j8l4b98sKHmv-)
 
 
 
-![](assets/ab03f1bcc0da/0*wBc-wBMufe5Ahrqi.jpeg)
+![](../assets/ab03f1bcc0da/0*wBc-wBMufe5Ahrqi.jpeg)
 
 
 
-![](assets/ab03f1bcc0da/0*kUaJd0NUnpgbmSZy)
+![](../assets/ab03f1bcc0da/0*kUaJd0NUnpgbmSZy)
 
 
 
-![](assets/ab03f1bcc0da/0*ablxQXUoKbFoPhw9.jpeg)
+![](../assets/ab03f1bcc0da/0*ablxQXUoKbFoPhw9.jpeg)
 
 ### GREECE
 ### Islands
@@ -75,19 +75,19 @@ As the winter draws closer not much has changed in the border area of Bosnia and
 **This happens every day\.**
 
 
-![](assets/ab03f1bcc0da/0*EUv03Uw9AmTR3bOO)
+![](../assets/ab03f1bcc0da/0*EUv03Uw9AmTR3bOO)
 
 
 
-![](assets/ab03f1bcc0da/0*BKWmfnimhpjTgaWK.jpeg)
+![](../assets/ab03f1bcc0da/0*BKWmfnimhpjTgaWK.jpeg)
 
 
 
-![](assets/ab03f1bcc0da/0*OTdAYc3cyad1sCNf)
+![](../assets/ab03f1bcc0da/0*OTdAYc3cyad1sCNf)
 
 
 
-![](assets/ab03f1bcc0da/0*-kRfu3PpK5gKc9YH.jpeg)
+![](../assets/ab03f1bcc0da/0*-kRfu3PpK5gKc9YH.jpeg)
 
 
 Photos: [Lorena Fornasir](https://www.facebook.com/lorena.fornasir?__tn__=%2Cd%2AF%2AF-R&eid=ARD8p504DWW1s60sjYemEsVgDIaVBiPZ2Hsrr0hiRkjuGrdlWByYR9vdGw2Lqrqv4MRoJ-mygEyunaHo&tn-str=%2AF&hc_location=group_dialog)

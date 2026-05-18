@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 28/05/2020: New testimonies of violent push backs
+title: "AYS Daily Digest 28/05/2020: New testimonies of violent push backs"
 author: Are You Syrious?
 date: 2020-05-29T13:51:24.734+0100
 last_modified_at: 2020-05-29T13:51:24.734+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,europe,greece,digest,pushback]
 description: Boy gets bitten by a police dog during a push back // Indications of a push back after reaching Mytilene // Critic of Greek governments…
 image:
-  path: assets/47c6167286b3/1*43WRAAJlmKnTKtei_CHN4g.jpeg
+  path: ../assets/47c6167286b3/1*43WRAAJlmKnTKtei_CHN4g.jpeg
 ---
 
 ### AYS Daily Digest 28/05/2020: New testimonies of violent push backs
 #### Boy gets bitten by a police dog during a push back // Indications of a push back after reaching Mytilene // Critic of Greek governments behaviour in crisis // 11\.000 recognized refugees in Greece face homelessness as of next Monday // Apology by Moria Corona Awareness Team// More details on the pushbacks from Croatia that involved the spraying of people’s heads // Thirty people on the move massacred in Libya
 
 
-![Copytright: No Border Kitchen Lesvos](assets/47c6167286b3/1*43WRAAJlmKnTKtei_CHN4g.jpeg)
+![Copytright: No Border Kitchen Lesvos](../assets/47c6167286b3/1*43WRAAJlmKnTKtei_CHN4g.jpeg)
 
 Copytright: No Border Kitchen Lesvos
 ### FEATURE: Border Violence in Slovenia

@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Living in humanitarian nightmare
+title: "AYS SPECIAL: Living in humanitarian nightmare"
 author: Are You Syrious?
 date: 2017-03-20T09:56:55.316+0000
 last_modified_at: 2018-03-01T14:33:33.041+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,eu-turkey-deal,moria-lesvos,special,greece]
 description: The EU — Turkey deal created reality in which nobody feels safe. The consequences are violation of basic human rights and total abondonment…
 image:
-  path: assets/965c9c3f4a1d/1*m4_kscPInxIGZ8MlCbFIVg.jpeg
+  path: ../assets/965c9c3f4a1d/1*m4_kscPInxIGZ8MlCbFIVg.jpeg
 ---
 
 ### AYS SPECIAL: Living in humanitarian nightmare
@@ -15,7 +15,7 @@ image:
 _The EU — Turkey deal created reality in which nobody feels safe\. The consequences are violation of basic human rights and total abondonment of solidarity\. While people all over Europe keep repeating that the deal is not what they want, their leaders keep praising the deal because it decreased the number of arrivals on European soil\. Europe became fortress more than even in the recent history_
 
 
-![Year after EU — Turkey deal, people at the Greek islands are left to live in unbearable conditions often treated in inhumane way\. Photo by Mathew Cassel\.](assets/965c9c3f4a1d/1*m4_kscPInxIGZ8MlCbFIVg.jpeg)
+![Year after EU — Turkey deal, people at the Greek islands are left to live in unbearable conditions often treated in inhumane way\. Photo by Mathew Cassel\.](../assets/965c9c3f4a1d/1*m4_kscPInxIGZ8MlCbFIVg.jpeg)
 
 Year after EU — Turkey deal, people at the Greek islands are left to live in unbearable conditions often treated in inhumane way\. Photo by Mathew Cassel\.
 
@@ -39,20 +39,20 @@ In order to facilitate implementation of the EU\-Turkey deal, EU engaged in cost
 Since the EU\-Turkey deal was signed, over 30,000 people arrived to Greece\. All of them were automatically put in so\-called hotspots, that are run like [detention centers](https://medium.com/@AreYouSyrious/ays-special-from-migrant-crisis-to-detention-crisis-84941596fa26#.xr9gbojnb) \. A week before the first anniversary of the deal, photos from one of the hotspots emerged in public showing that people are treated in a most degrading way, held in a cage like constructions, wiht limited freedom of movement\. This is picture from Vial at Chios\.
 
 
-![People in Chios waiting to be “processed” are held in these cage\-like constructions, with limited freedom of movement\.](assets/965c9c3f4a1d/1*Qvyr9L_910wjb76m6z2Dow.jpeg)
+![People in Chios waiting to be “processed” are held in these cage\-like constructions, with limited freedom of movement\.](../assets/965c9c3f4a1d/1*Qvyr9L_910wjb76m6z2Dow.jpeg)
 
 People in Chios waiting to be “processed” are held in these cage\-like constructions, with limited freedom of movement\.
 
 The situation is not much better at other places\. In Kos, people are held in containers, guarded by rude police officers and with very limited freedom of movement\.
 
 
-![](assets/965c9c3f4a1d/1*Pr0OBWsW5Na0N0CjKBtCgQ.jpeg)
+![](../assets/965c9c3f4a1d/1*Pr0OBWsW5Na0N0CjKBtCgQ.jpeg)
 
 
 Moria, Lesvos, is described by many as a nightmare for all the residents, and some of them have lived there for a year\.
 
 
-![By Vassilis Mathiokadis\.](assets/965c9c3f4a1d/1*nZAcc7I-HiHV_bNgHNWSKQ.jpeg)
+![By Vassilis Mathiokadis\.](../assets/965c9c3f4a1d/1*nZAcc7I-HiHV_bNgHNWSKQ.jpeg)
 
 By Vassilis Mathiokadis\.
 
@@ -63,7 +63,7 @@ In order to leave an island, a person has to prove to be “vulnerable” or to 
 This is the rule imposed by the European Commission with the idea to stop people from traveling further on to Europe\.
 
 
-![HRW](assets/965c9c3f4a1d/1*0GYBbkhDzI_TenvgC5rcPg.jpeg)
+![HRW](../assets/965c9c3f4a1d/1*0GYBbkhDzI_TenvgC5rcPg.jpeg)
 
 HRW
 #### People treated like animals
@@ -75,7 +75,7 @@ Additionally, an unknown number, several thousand are assumed, are living in squ
 Camps are usually placed in remote areas, run by police or army, and for a very long time, \(in some cases deep in December\) people were living under tents, despite freezingly cold winter\. Food is the constant reason of complaints, but not much has been done to improve the quality\. As residents in some of the camps told AYS activists in the field, they are treated like animals, deprived of dignity and rights\.
 
 
-![Photo by No more borders, no more tears\. Samos\.](assets/965c9c3f4a1d/1*o_9Yvz8LYLUSSrbKfBIzFA.jpeg)
+![Photo by No more borders, no more tears\. Samos\.](../assets/965c9c3f4a1d/1*o_9Yvz8LYLUSSrbKfBIzFA.jpeg)
 
 Photo by No more borders, no more tears\. Samos\.
 
@@ -106,7 +106,7 @@ The same conclusion is stressed by the experts who are working with trauma, and 
 One of the most vulnerable categories are women\. Over the last year, AYS recorded many complaints about sexual harassment in different camps, and little to nothing has been done to prevent this\. One of the most notorious places is camp Softex in the north, but recently UNHCR reported about sexual harassment in Elliniko camp where over 1,000 people are living\.
 
 
-![Women’s toilet in Elliniko, on of four stadiums turned into refugee camps\. It is unsanitary and not safe\. Photo AYS](assets/965c9c3f4a1d/1*bwFtqB_ggOHqROn6-hyBxQ.jpeg)
+![Women’s toilet in Elliniko, on of four stadiums turned into refugee camps\. It is unsanitary and not safe\. Photo AYS](../assets/965c9c3f4a1d/1*bwFtqB_ggOHqROn6-hyBxQ.jpeg)
 
 Women’s toilet in Elliniko, on of four stadiums turned into refugee camps\. It is unsanitary and not safe\. Photo AYS
 
@@ -130,7 +130,7 @@ Despite all this, [the EU is planning a new similar deal with Libya](http://www.
 Unlike leaders, people in Europe still believe in solidarity\. Thousands are volunteering in Greece, and other countries, trying to help and show that refugees and migrants are welcome\. They are creating one different reality, and making space for a new Europe that will emerge, hopefully, with new generation\.
 
 
-![Photo by Licia Shirin Conn\.](assets/965c9c3f4a1d/1*JnFv4o3jaeXJKAG6ju-VIw.jpeg)
+![Photo by Licia Shirin Conn\.](../assets/965c9c3f4a1d/1*JnFv4o3jaeXJKAG6ju-VIw.jpeg)
 
 Photo by Licia Shirin Conn\.
 

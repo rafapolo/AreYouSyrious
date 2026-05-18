@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL — THE CASE OF OINOFYTA: From one hell to another — island to mainland
+title: "AYS SPECIAL — THE CASE OF OINOFYTA: From one hell to another — island to mainland"
 author: Are You Syrious?
 date: 2019-01-03T11:26:08.836+0000
 last_modified_at: 2019-01-03T11:26:08.836+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [greece,oinofyta,refugees,european-union]
 description: Oinofyta is a refugee camp run by IOM around 60 km from Athens, Greece. In November 2017 Oinofyta was closed, as conditions did not meet…
 image:
-  path: assets/ae38893f9cbc/1*EaOXBo4pKz61aBEL11o6sw.png
+  path: ../assets/ae38893f9cbc/1*EaOXBo4pKz61aBEL11o6sw.png
 ---
 
 ### AYS SPECIAL — THE CASE OF OINOFYTA: From one hell to another — island to mainland
@@ -15,7 +15,7 @@ image:
 _Oinofyta is a refugee camp run by IOM around 60 km from Athens, Greece\. In November 2017 Oinofyta was closed, as conditions did not meet the minimum legal standards\. It was re\-opened in March 2018, not because conditions had improved, but to meet demand\. An [AYS](ays-special-oinofyta-camp-the-overwhelming-sense-of-nothingness-c37d4037a65) team member visited the camp after it had reopened in the summer and noted that conditions were worse than when the camp was initially closed — 9 months later, people exist in the same hell\._
 
 
-![A child plays in the dust outside the camp\. _UN intergovernmental organisation ‘ [International Organisation for Migration \(IOM\)](https://greece.iom.int/en) ’ is accommodating refugees in conditions that are unlawful, unsanitary and unsafe\._](assets/ae38893f9cbc/1*EaOXBo4pKz61aBEL11o6sw.png)
+![A child plays in the dust outside the camp\. _UN intergovernmental organisation ‘ [International Organisation for Migration \(IOM\)](https://greece.iom.int/en) ’ is accommodating refugees in conditions that are unlawful, unsanitary and unsafe\._](../assets/ae38893f9cbc/1*EaOXBo4pKz61aBEL11o6sw.png)
 
 A child plays in the dust outside the camp\. _UN intergovernmental organisation ‘ [International Organisation for Migration \(IOM\)](https://greece.iom.int/en) ’ is accommodating refugees in conditions that are unlawful, unsanitary and unsafe\._
 
@@ -34,7 +34,7 @@ Oinofyta, like the hotspots on the islands, is unsafe and unsanitary; conditions
 When Oinofyta reopened earlier this year, it was under the pretence of it being a temporary, emergency measure\. But the camp and its residents look as if they’re here to stay\.
 
 
-![With no safe play areas children are left to amuse themselves amongst rubbish in the yard](assets/ae38893f9cbc/1*xryvVvYn07XHabE3jRaMtQ.png)
+![With no safe play areas children are left to amuse themselves amongst rubbish in the yard](../assets/ae38893f9cbc/1*xryvVvYn07XHabE3jRaMtQ.png)
 
 With no safe play areas children are left to amuse themselves amongst rubbish in the yard
 
@@ -43,7 +43,7 @@ These moves threaten to hide the problem as opposed to solving it, allowing the 
 The capacity of Oinofyta is [reported](https://rsaegean.org/en/reception-crisis-in-greece/) to be 424, though estimates by the UNHCR place the number of residents at [596](https://data2.unhcr.org/en/documents/download/66038) and residents themselves estimate that there are closer to 1000 people\.
 
 
-![Unsanitary waste facilities in the camp’s communal kitchen](assets/ae38893f9cbc/1*4Ta9WbkcDJVcsfKwpQsmKA.png)
+![Unsanitary waste facilities in the camp’s communal kitchen](../assets/ae38893f9cbc/1*4Ta9WbkcDJVcsfKwpQsmKA.png)
 
 Unsanitary waste facilities in the camp’s communal kitchen
 
@@ -54,15 +54,15 @@ They do however consider that Oinofyta has “sufficient” cooking facilities, 
 Human faeces smear the walls of Oinofyta\. The camp’s toilets have no doors and men and women’s sections are separated by makeshift curtains\. The water is not fit for drinking and the communal kitchen is flooded with dirty water and overflowing bins\.
 
 
-![](assets/ae38893f9cbc/1*0ivgHqCp_zsc2ohQYWeIxg.png)
+![](../assets/ae38893f9cbc/1*0ivgHqCp_zsc2ohQYWeIxg.png)
 
 
 
-![](assets/ae38893f9cbc/1*rlw68-iislT_Wu_sBMcyXQ.png)
+![](../assets/ae38893f9cbc/1*rlw68-iislT_Wu_sBMcyXQ.png)
 
 
 
-![Flooded toilets without doors for the women \(left\) and human faeces on the wall of the men’s toilets \(right\) \. Makeshift curtains separate male and female toilets\.](assets/ae38893f9cbc/1*7y1yxFim4kZ9Er5uZGL-bg.png)
+![Flooded toilets without doors for the women \(left\) and human faeces on the wall of the men’s toilets \(right\) \. Makeshift curtains separate male and female toilets\.](../assets/ae38893f9cbc/1*7y1yxFim4kZ9Er5uZGL-bg.png)
 
 Flooded toilets without doors for the women \(left\) and human faeces on the wall of the men’s toilets \(right\) \. Makeshift curtains separate male and female toilets\.
 
@@ -71,11 +71,11 @@ The surfaces are so unsanitary that residents spend what [meagre stipends](https
 Contrary to IOM’s public posts, there are no regular activities provided for residents at all\. Healthcare is almost non\-existent and the camp is left unstaffed at weekends and overnight\.
 
 
-![](assets/ae38893f9cbc/1*bwOQSELcdUS2CIVSZ8vT0w.png)
+![](../assets/ae38893f9cbc/1*bwOQSELcdUS2CIVSZ8vT0w.png)
 
 
 
-![Unsafe drinking water in the toilet areas and overflowing bins and dirty flooded floor in the communal kitchen](assets/ae38893f9cbc/1*UkYxcjkIOIQlIL9YcTbXZA.png)
+![Unsafe drinking water in the toilet areas and overflowing bins and dirty flooded floor in the communal kitchen](../assets/ae38893f9cbc/1*UkYxcjkIOIQlIL9YcTbXZA.png)
 
 Unsafe drinking water in the toilet areas and overflowing bins and dirty flooded floor in the communal kitchen
 
@@ -86,7 +86,7 @@ Only two NGOs are currently allowed into the camp, ‘Food Kind’, which cooks 
 The UNHCR notes that there are [no educational activities](https://data2.unhcr.org/en/documents/download/66038) within Oinofyta\.
 
 
-![Remains of life in the camp before its closure in 2017](assets/ae38893f9cbc/1*pOAe5uVMeVsSaWvBLB6SIg.png)
+![Remains of life in the camp before its closure in 2017](../assets/ae38893f9cbc/1*pOAe5uVMeVsSaWvBLB6SIg.png)
 
 Remains of life in the camp before its closure in 2017
 
@@ -115,7 +115,7 @@ Ronak from Kobane in Syrian Kurdistan was transferred from Moria just a day afte
 Ronak is not the only one losing weight at an alarming rate in Oinofyta\. Becka notes that around 30% of the children her NGO sees from Oinofyta are clinically underweight\. _“We are seeing 5 year olds who weigh as much as two\-year\-olds,”_ she tells us\.
 
 
-![Ronak, Ahmed and their two children light a fire to keep warm and cook food outside](assets/ae38893f9cbc/1*dH166-SxpMvh7n29V7AaZw.png)
+![Ronak, Ahmed and their two children light a fire to keep warm and cook food outside](../assets/ae38893f9cbc/1*dH166-SxpMvh7n29V7AaZw.png)
 
 Ronak, Ahmed and their two children light a fire to keep warm and cook food outside
 
@@ -134,7 +134,7 @@ Some choose death over life in this camp\. In July this year a man hung himself\
 His death was [reported in the local media](http://www.ekathimerini.com/230996/article/ekathimerini/news/refugee-found-dead-in-oinofyta-in-suspected-suicide) , but IOM did not investigate and nothing changed\.
 
 
-![IOM reality](assets/ae38893f9cbc/1*jJf_DipvM5-rGvDoF_cpdw.png)
+![IOM reality](../assets/ae38893f9cbc/1*jJf_DipvM5-rGvDoF_cpdw.png)
 
 IOM reality
 

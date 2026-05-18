@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 21/11/2018: Rome. Baobab evicted again by local authorities
+title: "AYS Daily Digest 21/11/2018: Rome. Baobab evicted again by local authorities"
 author: Are You Syrious?
 date: 2018-11-22T08:38:41.100+0000
 last_modified_at: 2018-11-22T13:07:28.171+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,italy,bosnia,greece]
 description: Around 50 people who found shelter in Piazzale Spadolini after the eviction of Piazzale Maslax in Rome are again evicted//Dire living…
 image:
-  path: assets/2dfc58768bd3/1*hcyhI9PJJIEK3wQH6ZmKMw.jpeg
+  path: ../assets/2dfc58768bd3/1*hcyhI9PJJIEK3wQH6ZmKMw.jpeg
 ---
 
 ### AYS Daily Digest 21/11/2018: Rome\. Baobab evicted again by local authorities
 #### Around 50 people who found shelter at Piazzale Spadolini after the eviction from Piazzale Maslax in Rome are evicted again//Dire living conditions in Moria reported by HRW//New squat to open in Athens needs donations//IOM and UNHCR finally moving people to an indoor shelter near Velika Kladuša//More and more people are being prevented from reaching border areas from Sarajevo//New web portal has been launched, with comprehensive information on asylum procedures\. \.
 
 
-![Credit: Baobab Experince](assets/2dfc58768bd3/1*hcyhI9PJJIEK3wQH6ZmKMw.jpeg)
+![Credit: Baobab Experince](../assets/2dfc58768bd3/1*hcyhI9PJJIEK3wQH6ZmKMw.jpeg)
 
 Credit: Baobab Experince
 #### FEATURE
@@ -24,11 +24,11 @@ It happened again\. Another eviction\. More frustration\. More anger\. More soli
 On Tuesday 20 November, the 41 people who found shelter from rain at Piazzale Spadolini in Rome, after the big eviction of Baobab centre from Piazzale Maslax just few days before, have again been [evicted](https://www.facebook.com/BaobabExperience/posts/1923677487708994?hc_location=ufi) , in what seems to be a ridiculous rush to destroy solidarity and a nonsensical fury to hurt the most vulnerable, who are not even allowed to find shelter from rain\.
 
 
-![](assets/2dfc58768bd3/1*VxKwZVafN2hNNdoCbNLXgg.jpeg)
+![](../assets/2dfc58768bd3/1*VxKwZVafN2hNNdoCbNLXgg.jpeg)
 
 
 
-![Credit: Baobab Experience](assets/2dfc58768bd3/1*YC3d5m3Xizpsz-B_0gyUQQ.jpeg)
+![Credit: Baobab Experience](../assets/2dfc58768bd3/1*YC3d5m3Xizpsz-B_0gyUQQ.jpeg)
 
 Credit: Baobab Experience
 
@@ -152,7 +152,7 @@ After their visit to the facility, two volunteers from Umino said lunch was serv
 The same organisation reported from Trnovi \(not far from Velika Kladuša\) that a camp opened in May this year, where people live in [inhumane conditions](https://www.facebook.com/umino.org/?tn-str=k*F&hc_location=ufi) and where mobile toilets have not been emptied and cleaned since the opening\!
 
 
-![Credit: Umino](assets/2dfc58768bd3/1*Tz1tnW75FXZmfDOKP8OMBg.jpeg)
+![Credit: Umino](../assets/2dfc58768bd3/1*Tz1tnW75FXZmfDOKP8OMBg.jpeg)
 
 Credit: Umino
 
@@ -176,19 +176,19 @@ In Sarajevo, where a camp has recently opened and is run by the IOM, people who 
 It is hard to tell how long the police in Bosnia will continue this unlawful practice, but what is clear is that a humanitarian catastrophe is in the making\.
 
 
-![](assets/2dfc58768bd3/1*ykIUWBuZQJ0oF6olqTF_Bg.jpeg)
+![](../assets/2dfc58768bd3/1*ykIUWBuZQJ0oF6olqTF_Bg.jpeg)
 
 
 
-![](assets/2dfc58768bd3/1*-bCTkDB7hDI3I7X9GRytqw.jpeg)
+![](../assets/2dfc58768bd3/1*-bCTkDB7hDI3I7X9GRytqw.jpeg)
 
 
 
-![](assets/2dfc58768bd3/1*LJCgXLSmVTBaY9h3YVj1yQ.jpeg)
+![](../assets/2dfc58768bd3/1*LJCgXLSmVTBaY9h3YVj1yQ.jpeg)
 
 
 
-![Photo: Red Cross Kljuc](assets/2dfc58768bd3/1*xBdqHrtIStIQf2VgIaorag.jpeg)
+![Photo: Red Cross Kljuc](../assets/2dfc58768bd3/1*xBdqHrtIStIQf2VgIaorag.jpeg)
 
 Photo: Red Cross Kljuc
 #### BALKAN WEATHER REPORT

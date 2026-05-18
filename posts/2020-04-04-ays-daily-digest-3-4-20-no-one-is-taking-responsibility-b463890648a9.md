@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 3/4/20: No one is taking responsibility.
+title: "AYS Daily Digest 3/4/20: No one is taking responsibility."
 author: Are You Syrious?
 date: 2020-04-04T19:25:02.932+0100
 last_modified_at: 2020-04-04T19:25:02.932+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,greece,turkey,europe,refugees]
 description: Updates and news from Greece / “Allegations of violence must be promptly and impartially investigated” — updates from the Turkey-Greek…
 image:
-  path: assets/b463890648a9/0*Bm4lYDzp6g6o4mnu
+  path: ../assets/b463890648a9/0*Bm4lYDzp6g6o4mnu
 ---
 
 ### AYS Daily Digest 3/4/20: No one is taking responsibility\.
 ### Updates and news from Greece / “Allegations of violence must be promptly and impartially investigated” — updates from the Turkey\-Greek border / News from Syria, Hungary, Italy and France / About 800 people barely surviving in the north of France / & more news
 
 
-![](assets/b463890648a9/0*hQKUEL4aVyuw41U-.jpeg)
+![](../assets/b463890648a9/0*hQKUEL4aVyuw41U-.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----2add07ad8bd1----------------------)
@@ -22,11 +22,11 @@ image:
 [Apr 4](ays-daily-digest-3-4-20-noone-is-taking-responsibility-2add07ad8bd1?source=post_page-----2add07ad8bd1----------------------) · 7 min read
 
 
-![](assets/b463890648a9/0*Lg6tei7yqzwgOD53)
+![](../assets/b463890648a9/0*Lg6tei7yqzwgOD53)
 
 
 
-![](assets/b463890648a9/0*Bm4lYDzp6g6o4mnu)
+![](../assets/b463890648a9/0*Bm4lYDzp6g6o4mnu)
 
 ### FEATURED
 

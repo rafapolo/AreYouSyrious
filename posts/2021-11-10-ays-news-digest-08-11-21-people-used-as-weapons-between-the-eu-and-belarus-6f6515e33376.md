@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 08/11/21: People used as weapons between the EU and Belarus
+title: "AYS News Digest 08/11/21: People used as weapons between the EU and Belarus"
 author: Are You Syrious?
 date: 2021-11-10T01:30:37.424+0000
 last_modified_at: 2021-11-10T01:30:37.424+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,europe,belarus,humanitarian]
 description: Developments from the Belarus border / news from Greece / arrivals by sea / Indignation in Italy / Deportations and detention remain a…
 image:
-  path: assets/6f6515e33376/0*GltOexizfr9FiJPL
+  path: ../assets/6f6515e33376/0*GltOexizfr9FiJPL
 ---
 
 ### AYS News Digest 08/11/21: People used as weapons between the EU and Belarus
 #### Developments from the Belarus border / news from Greece / arrivals by sea / Indignation in Italy / Deportations and detention remain a common practice in Bulgaria / News from Spain / Donations needed in Slovenia / recommended reads & more
 
 
-![Copenhagen, via [Radical Graffiti](https://twitter.com/GraffitiRadical)](assets/6f6515e33376/0*GltOexizfr9FiJPL)
+![Copenhagen, via [Radical Graffiti](https://twitter.com/GraffitiRadical)](../assets/6f6515e33376/0*GltOexizfr9FiJPL)
 
 Copenhagen, via [Radical Graffiti](https://twitter.com/GraffitiRadical)
 #### FEATURE: EU once again puts border enforcement over people's lives as the situation along the Polish border intensifies
@@ -232,7 +232,7 @@ Meanwhile the push\-backs seem to go on, the Bularian border monitoring group [r
 #### SLOVENIA
 
 
-![Call for donations\! Our warehouses are emptying\! We collect clean, whole and useful sportswear and footwear suitable for walking and keeping outdoors\. We will also be happy with sleeping bags, tents and pants belts\. Pick up by appointment\. — InfoKolpa](assets/6f6515e33376/1*03P9_FGZzM0WN81p2TYpIA.jpeg)
+![Call for donations\! Our warehouses are emptying\! We collect clean, whole and useful sportswear and footwear suitable for walking and keeping outdoors\. We will also be happy with sleeping bags, tents and pants belts\. Pick up by appointment\. — InfoKolpa](../assets/6f6515e33376/1*03P9_FGZzM0WN81p2TYpIA.jpeg)
 
 Call for donations\! Our warehouses are emptying\! We collect clean, whole and useful sportswear and footwear suitable for walking and keeping outdoors\. We will also be happy with sleeping bags, tents and pants belts\. Pick up by appointment\. — InfoKolpa
 #### ITALY
@@ -271,7 +271,7 @@ Activists from NNK in Ceuta, together with the organisations on the ground Andal
 The organisations on the ground demand:
 
 
-![](assets/6f6515e33376/0*NbbsaQQ536LkE6o9)
+![](../assets/6f6515e33376/0*NbbsaQQ536LkE6o9)
 
 
 \- Clarification of the reasons why asylum seekers are not being given copies of their files\.

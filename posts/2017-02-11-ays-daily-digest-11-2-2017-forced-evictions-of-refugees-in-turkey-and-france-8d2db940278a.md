@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 11/2/2017: Forced evictions of refugees in Turkey and France
+title: "AYS DAILY DIGEST 11/2/2017: Forced evictions of refugees in Turkey and France"
 author: Are You Syrious?
 date: 2017-02-11T23:44:52.833+0000
 last_modified_at: 2017-02-12T09:38:11.400+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,malakasa-camp,sweden,como]
 description: Military police forcing people from makeshift camps in Izmir area // Police in France continues to harass people who are forced to stay in…
 image:
-  path: assets/8d2db940278a/1*6lfikvcnvRPJrSqjDFikcQ.jpeg
+  path: ../assets/8d2db940278a/1*6lfikvcnvRPJrSqjDFikcQ.jpeg
 ---
 
 ### AYS DAILY DIGEST 11/2/2017: Forced evictions of refugees in Turkey and France
@@ -15,7 +15,7 @@ image:
 _Military police forcing people from makeshift camps in Izmir area // Police in France continues to harass people who are forced to stay in the streets // Nobody but group of volunteers cares about homeless refugees who are sleeping in the streets // Report from Malakasa camp in Athens area // Sweden government concerned about state of minors refugees in this country_
 
 
-![Berlin, Protest in solidarity with refugees [Kaltetod Europa — Not in my name](https://www.facebook.com/pg/kaeltetodeuropa/about/?ref=page_internal) \. Photo by Oliver Feldhaus\.](assets/8d2db940278a/1*6lfikvcnvRPJrSqjDFikcQ.jpeg)
+![Berlin, Protest in solidarity with refugees [Kaltetod Europa — Not in my name](https://www.facebook.com/pg/kaeltetodeuropa/about/?ref=page_internal) \. Photo by Oliver Feldhaus\.](../assets/8d2db940278a/1*6lfikvcnvRPJrSqjDFikcQ.jpeg)
 
 Berlin, Protest in solidarity with refugees [Kaltetod Europa — Not in my name](https://www.facebook.com/pg/kaeltetodeuropa/about/?ref=page_internal) \. Photo by Oliver Feldhaus\.
 ### Turkey
@@ -38,7 +38,7 @@ Currently, around 2\.8 million Syrians are stranded in Turkey\. Most of them are
 In [AYS Daily Digest from February 10](https://medium.com/@AreYouSyrious/ays-daily-digest-10-2-seeing-how-it-could-be-peaceful-evacuation-in-paris-99ea3ee14460#.y8lh0wz49) , we reported about the difficulties the residents of Malkasa camp have to face with every day\. Today, one of our volunteers, visited the camp and spoke with some of the residents\.
 
 
-![Malakasa camp\. Photo by AYS\.](assets/8d2db940278a/1*tDHYbwx5FV8kS1AvCet0Sg.jpeg)
+![Malakasa camp\. Photo by AYS\.](../assets/8d2db940278a/1*tDHYbwx5FV8kS1AvCet0Sg.jpeg)
 
 Malakasa camp\. Photo by AYS\.
 
@@ -47,7 +47,7 @@ Currently, there are around 600 people in this camp, but the number could increa
 Until two months ago, people in Malakasa were living in tents\. However, after the protests, some 200 families were moved to hotels, while for the a others containers with electricity and heaters were provided, something that should have been done long time ago\. Some residents complained that the bottom of their containers have holes, but we were informed that it is an issued that will be fixed soon\.
 
 
-![](assets/8d2db940278a/1*dh2I2m4o8cALHngFYflMbA.jpeg)
+![](../assets/8d2db940278a/1*dh2I2m4o8cALHngFYflMbA.jpeg)
 
 
 IOM, UNHCR, SIF and Safe the Children are present in this camp\.
@@ -63,11 +63,11 @@ There is much more to be improved in this camp in order to provide at least dece
 Unfortunately, with all the improvements that have been made and new arrivals, it does not look like there are even intentions for the camp to be closed down or people sent to live in more human conditions\.
 
 
-![](assets/8d2db940278a/1*w76m3aS7swPSy_cwS6zcPg.jpeg)
+![](../assets/8d2db940278a/1*w76m3aS7swPSy_cwS6zcPg.jpeg)
 
 
 
-![Photo by AYS\.](assets/8d2db940278a/1*aTC6FuYt8R8IuMg4vz0cyA.jpeg)
+![Photo by AYS\.](../assets/8d2db940278a/1*aTC6FuYt8R8IuMg4vz0cyA.jpeg)
 
 Photo by AYS\.
 #### Relocation nightmare continues
@@ -100,7 +100,7 @@ The relocation program is supported by EASO, IOM, and UNHCR, who are also not do
 The situation in Italy remains alarming, even though hardly anybody is talking about it\. [Volunteers operating in the area of Como are reporting](https://www.facebook.com/comosenzafrontiere/photos/a.634422403386490.1073741834.558043977691000/664898050338925/?type=3) about 80 persons who slept out in the open last night while the temperatures were 2°C\.
 
 
-![](assets/8d2db940278a/1*W938kO8GdF41zo09vU--Hg.png)
+![](../assets/8d2db940278a/1*W938kO8GdF41zo09vU--Hg.png)
 
 
 In Porderone, [local media are reporting](http://react-text: 138 http://messaggeroveneto.gelocal.it/.../il-dormitorio-del...) , people are sleeping in a parking lot, 11 of them\. Most of them are people who have gained refugee status, but their “reception time” is over and they find themselves on the street without roof or work\. The number of people with this status is increasing since the ways out of Italy are blocked by closed borders\.
@@ -120,7 +120,7 @@ The Italian government also announced the building of 18 Permanent Repatriation 
 Police in Paris is finding new ways to humiliate people who are sleeping in the streets because they have no other solution\. An v [olunteer](https://www.facebook.com/agathe.nadimi) took a picture of stones that have been put to prevent people from lying down to sleep under the bridges\. This has been done in the area of Port de la Chapelle where from people were forcibly evacuated on February 10\.
 
 
-![Photo by [Agathe Nadimi](https://www.facebook.com/agathe.nadimi) \.](assets/8d2db940278a/1*B0GNwbGcs_bVQqoorZWJhA.jpeg)
+![Photo by [Agathe Nadimi](https://www.facebook.com/agathe.nadimi) \.](../assets/8d2db940278a/1*B0GNwbGcs_bVQqoorZWJhA.jpeg)
 
 Photo by [Agathe Nadimi](https://www.facebook.com/agathe.nadimi) \.
 
@@ -156,7 +156,7 @@ However, [the local media](http://react-text: 148 http://sverigesradio.se/sida/a
 Even more warning [repor](http://react-text: 179 http://mobil.unt.se/.../heroinmissbruk-bland...) t comes from the police in Uppsala which estimates that around 90 unaccompanied minors who are living in this municipality are using heroin\. They are mostly young boys from Afghanistan\.
 
 
-![Photo by [Dylan Longman](https://www.facebook.com/dylan.longman) in Belgrade\.](assets/8d2db940278a/1*Idv3-bqelk4W0ixRM68tlg.jpeg)
+![Photo by [Dylan Longman](https://www.facebook.com/dylan.longman) in Belgrade\.](../assets/8d2db940278a/1*Idv3-bqelk4W0ixRM68tlg.jpeg)
 
 Photo by [Dylan Longman](https://www.facebook.com/dylan.longman) in Belgrade\.
 

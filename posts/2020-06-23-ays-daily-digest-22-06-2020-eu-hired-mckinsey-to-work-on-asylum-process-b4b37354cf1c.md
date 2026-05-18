@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,mckinsey,eu]
 description: FEATURE
 image:
-  path: assets/b4b37354cf1c/0*IhfTqnyClJioh8Fi
+  path: ../assets/b4b37354cf1c/0*IhfTqnyClJioh8Fi
 ---
 
 ### AYS Daily Digest 22/06/2020 — EU Hired McKinsey to Work on Asylum Process
 #### Violent Pushbacks From Greece Again///Xenophobic Rhetoric From Bosnian Politicians///What Is the EU’s New Pact on Migration and Asylum?
 
 
-![Cartoon by Flavita Banana via [Bienvenidos Refugiados Voluntariados Grecia](https://www.facebook.com/bienvenidosrefugiadosgrecia/photos/a.1492032224431746/2376832822618344/?type=3&theater)](assets/b4b37354cf1c/0*IhfTqnyClJioh8Fi)
+![Cartoon by Flavita Banana via [Bienvenidos Refugiados Voluntariados Grecia](https://www.facebook.com/bienvenidosrefugiadosgrecia/photos/a.1492032224431746/2376832822618344/?type=3&theater)](../assets/b4b37354cf1c/0*IhfTqnyClJioh8Fi)
 
 Cartoon by Flavita Banana via [Bienvenidos Refugiados Voluntariados Grecia](https://www.facebook.com/bienvenidosrefugiadosgrecia/photos/a.1492032224431746/2376832822618344/?type=3&theater)
 

@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,france,saint-denis]
 description: 1,700 People Tried to Escape Libya in November Already//GLAN Files Legal Action on Behalf of Syrian Asylum Recipient Deported from Greece…
 image:
-  path: assets/cb73df0e4c37/0*WuHitzcwTIiVjaak.jpg
+  path: ../assets/cb73df0e4c37/0*WuHitzcwTIiVjaak.jpg
 ---
 
 ### AYS Daily Digest 17/11/2020 — Violent Dismantling of Camp Saint\-Denis
 #### 1,700 People Tried to Escape Libya in November Already//GLAN Files Legal Action on Behalf of Syrian Asylum Recipient Deported from Greece to Turkey/& More
 
 
-![Tents installed on Museumplein in Amsterdam by activists rejecting the new Migration Pact and calling on the government to allow more people to enter the Netherlands\. Photo credit: ANP via [Al Khaleej Today](https://alkhaleejtoday.co/business/5368058/Symbolic-tent-camp-on-Museumplein-for-adjustment-of-migration-policy.html?fbclid=IwAR1oJXMwzxVnEOnyLLZ23jIiLBZ9TKaCEFyC-yOGQHhcX3lBoIKFH8z6jeM)](assets/cb73df0e4c37/0*WuHitzcwTIiVjaak.jpg)
+![Tents installed on Museumplein in Amsterdam by activists rejecting the new Migration Pact and calling on the government to allow more people to enter the Netherlands\. Photo credit: ANP via [Al Khaleej Today](https://alkhaleejtoday.co/business/5368058/Symbolic-tent-camp-on-Museumplein-for-adjustment-of-migration-policy.html?fbclid=IwAR1oJXMwzxVnEOnyLLZ23jIiLBZ9TKaCEFyC-yOGQHhcX3lBoIKFH8z6jeM)](../assets/cb73df0e4c37/0*WuHitzcwTIiVjaak.jpg)
 
 Tents installed on Museumplein in Amsterdam by activists rejecting the new Migration Pact and calling on the government to allow more people to enter the Netherlands\. Photo credit: ANP via [Al Khaleej Today](https://alkhaleejtoday.co/business/5368058/Symbolic-tent-camp-on-Museumplein-for-adjustment-of-migration-policy.html?fbclid=IwAR1oJXMwzxVnEOnyLLZ23jIiLBZ9TKaCEFyC-yOGQHhcX3lBoIKFH8z6jeM)
 #### FEATURE
@@ -146,7 +146,7 @@ Small Victories\! Solidarity Wheels was able to help Sami, a young man who has b
 #### Calais Authorities Uproot Trees
 
 
-![Photo via [L’Auberge des Migrants](https://www.facebook.com/AubergeMigrants/posts/10158447710175339)](assets/cb73df0e4c37/0*_yWcMm3EsRtwo0uk)
+![Photo via [L’Auberge des Migrants](https://www.facebook.com/AubergeMigrants/posts/10158447710175339)](../assets/cb73df0e4c37/0*_yWcMm3EsRtwo0uk)
 
 Photo via [L’Auberge des Migrants](https://www.facebook.com/AubergeMigrants/posts/10158447710175339)
 

@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,european-union,tajoura,search-and-rescue]
 description: More life rescued in the Med by #AlanKurdi /// Mediterranea blocked by political games between Malta and Italy /// Updates from Paris ///…
 image:
-  path: assets/33365ee75a36/1*Ld5sA9EjVyqyjH7wQeQHjQ.jpeg
+  path: ../assets/33365ee75a36/1*Ld5sA9EjVyqyjH7wQeQHjQ.jpeg
 ---
 
 ### AYS Daily Digest 5/7/2019 — Crocodile tears over Tajoura attack
@@ -15,7 +15,7 @@ image:
 More lives saved in the Med by \#AlanKurdi /// Mediterranea blocked by political games between Malta and Italy /// Updates from Paris /// New arrivals in Tuzla
 
 
-![\#Noborder — By [Mikail Çiftçi](https://mikailciftci.com/)](assets/33365ee75a36/1*Ld5sA9EjVyqyjH7wQeQHjQ.jpeg)
+![\#Noborder — By [Mikail Çiftçi](https://mikailciftci.com/)](../assets/33365ee75a36/1*Ld5sA9EjVyqyjH7wQeQHjQ.jpeg)
 
 \#Noborder — By [Mikail Çiftçi](https://mikailciftci.com/)
 ### Who cares about people dead in Libyan centre?
@@ -131,7 +131,7 @@ BOSNIA
 [Balkan Stories](https://balkanstories.net/) published a video on the Vucjak ‘camp’:
 
 
-[![Vučjak - Europe's Most Dangerous Refugee Camp](assets/33365ee75a36/7d59_hqdefault.jpg "Vučjak - Europe's Most Dangerous Refugee Camp")](http://www.youtube.com/watch?v=KC2YYWJHhfg)
+[![Vučjak - Europe's Most Dangerous Refugee Camp](../assets/33365ee75a36/7d59_hqdefault.jpg "Vučjak - Europe's Most Dangerous Refugee Camp")](http://www.youtube.com/watch?v=KC2YYWJHhfg)
 
 #### Media whitewash conditions in Bosnian centres
 
@@ -150,15 +150,15 @@ In the words of a [local activist and volunteer](https://www.facebook.com/groups
 A local volunteer [report](https://www.facebook.com/groups/144469886266984/permalink/374667353247235/?hc_location=ufi) s about new arrivals in Tuzla\.
 
 
-![](assets/33365ee75a36/1*-xduOZRw--ZH_19SoHKysg.jpeg)
+![](../assets/33365ee75a36/1*-xduOZRw--ZH_19SoHKysg.jpeg)
 
 
 
-![](assets/33365ee75a36/1*40llpp8Q3eEi9xIE5TgMlQ.jpeg)
+![](../assets/33365ee75a36/1*40llpp8Q3eEi9xIE5TgMlQ.jpeg)
 
 
 
-![New arrivals in Tuzla \(photos by [Senad Cupo](https://www.facebook.com/groups/144469886266984/permalink/374667353247235/?hc_location=ufi) \)](assets/33365ee75a36/1*0xZ4iqubkmYNDL6yiX-2yg.jpeg)
+![New arrivals in Tuzla \(photos by [Senad Cupo](https://www.facebook.com/groups/144469886266984/permalink/374667353247235/?hc_location=ufi) \)](../assets/33365ee75a36/1*0xZ4iqubkmYNDL6yiX-2yg.jpeg)
 
 New arrivals in Tuzla \(photos by [Senad Cupo](https://www.facebook.com/groups/144469886266984/permalink/374667353247235/?hc_location=ufi) \)
 
@@ -179,7 +179,7 @@ Find the guide [HERE](http://www.delinquantssolidaires.org/item/delit-de-solidar
 From a volunteer in Paris:
 
 
-![Paris \(photo by [Danika Jurisic](https://www.facebook.com/permalink.php?story_fbid=2361845847475374&id=100009499466124&hc_location=ufi) \)](assets/33365ee75a36/1*kCnvZ6-19h6ivwTMWNqWSw.jpeg)
+![Paris \(photo by [Danika Jurisic](https://www.facebook.com/permalink.php?story_fbid=2361845847475374&id=100009499466124&hc_location=ufi) \)](../assets/33365ee75a36/1*kCnvZ6-19h6ivwTMWNqWSw.jpeg)
 
 Paris \(photo by [Danika Jurisic](https://www.facebook.com/permalink.php?story_fbid=2361845847475374&id=100009499466124&hc_location=ufi) \)
 
@@ -200,11 +200,11 @@ Paris \(photo by [Danika Jurisic](https://www.facebook.com/permalink.php?story_f
 
 
 
-![](assets/33365ee75a36/1*CjveJVHuhWUnLZSW2cnO1g.jpeg)
+![](../assets/33365ee75a36/1*CjveJVHuhWUnLZSW2cnO1g.jpeg)
 
 
 
-![Paris \(photos by [Danika Jurisic](https://www.facebook.com/permalink.php?story_fbid=2361845847475374&id=100009499466124&hc_location=ufi) \)](assets/33365ee75a36/1*LUG3B6Bf4U7t8zFxNZOKSg.jpeg)
+![Paris \(photos by [Danika Jurisic](https://www.facebook.com/permalink.php?story_fbid=2361845847475374&id=100009499466124&hc_location=ufi) \)](../assets/33365ee75a36/1*LUG3B6Bf4U7t8zFxNZOKSg.jpeg)
 
 Paris \(photos by [Danika Jurisic](https://www.facebook.com/permalink.php?story_fbid=2361845847475374&id=100009499466124&hc_location=ufi) \)
 

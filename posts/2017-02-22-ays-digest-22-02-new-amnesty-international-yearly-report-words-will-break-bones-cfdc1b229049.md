@@ -1,5 +1,5 @@
 ---
-title: AYS digest 22/02: New Amnesty international yearly report — words will break bones
+title: "AYS digest 22/02: New Amnesty international yearly report — words will break bones"
 author: Are You Syrious?
 date: 2017-02-22T21:11:36.782+0000
 last_modified_at: 2017-02-22T21:11:36.782+0000
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe]
 description: No year for human rights — new Amnesty International report / Three people die while trying to cross the Maritza river between Turkey and…
 image:
-  path: assets/cfdc1b229049/1*h-UpB4mgymOconZJ0euKTQ.jpeg
+  path: ../assets/cfdc1b229049/1*h-UpB4mgymOconZJ0euKTQ.jpeg
 ---
 
 ### AYS digest 22/02: New Amnesty international yearly report — words will break bones
 
 
-![Chios today\. Photo: Salvamento Maritimo Humanitario](assets/cfdc1b229049/1*h-UpB4mgymOconZJ0euKTQ.jpeg)
+![Chios today\. Photo: Salvamento Maritimo Humanitario](../assets/cfdc1b229049/1*h-UpB4mgymOconZJ0euKTQ.jpeg)
 
 Chios today\. Photo: Salvamento Maritimo Humanitario
 
@@ -30,7 +30,7 @@ Three people have died today when a rubber dinghy, packed with eight passengers 
 In three separate events, overall number of 145 people reached shores of Chios today and one alleged smuggler has been arrested\. People mostly come from Iraq and Syria
 
 
-![Arrival of 127 people out of 145\.](assets/cfdc1b229049/1*zzLjiOHgifdp2FO3jOc1NQ.jpeg)
+![Arrival of 127 people out of 145\.](../assets/cfdc1b229049/1*zzLjiOHgifdp2FO3jOc1NQ.jpeg)
 
 Arrival of 127 people out of 145\.
 ### **Cleaning the shores on Chios — making it work in Berlin — Mimycri project**
@@ -44,7 +44,7 @@ There is a cleaning crew organized on Lesvos, too and Lighthouse ECO Relief stil
 Samos volunteers, on the other hand, reported that they have distributed many things this week and together with their smiles on the photos, they posted this message “We started with flashlights that recharge with solar energy or movement on Monday\. Tuesday, we distributed 627 hygiene kits\. Today we did 350 pairs of sandals, socks and hijabs\. Finally, tomorrow we will be distributing shampoo\. Thanks so much to our hard\-working team of volunteers\! Great job, you guys\!”
 
 
-![Happy Samos Volunteers](assets/cfdc1b229049/1*u3XscV1SQg53PKoZZPKsag.jpeg)
+![Happy Samos Volunteers](../assets/cfdc1b229049/1*u3XscV1SQg53PKoZZPKsag.jpeg)
 
 Happy Samos Volunteers
 ### **For Urdu speakers, RefuComm have prepared some info about the interview procedure**
@@ -109,7 +109,7 @@ Prime minister of Schleswig\-Holstein Torsten Albig \(SPD — Social Democratic 
 Federal states with red or green governments \(SPD or Green Party\) stand against deportations to Afghanistan, but usually all big parties unite against those actions\. 5 federal states already disagreed completely with any deportations to Afghanistan, while Bavaria will most probably deport approx\. 50 Afghani persons today from Munich Airport to Kabul\. Other states declared they want to have a close look at the legal base if they should have to proceed any deportations and decide based on it\. As Bavaria is not backing down on their deportation plan, activists are organizing protest actions in Munich airport\.
 
 
-![Munich airport today](assets/cfdc1b229049/1*VNOGhibb_WzBh4Dq46cq2w.jpeg)
+![Munich airport today](../assets/cfdc1b229049/1*VNOGhibb_WzBh4Dq46cq2w.jpeg)
 
 Munich airport today
 #### France
@@ -118,7 +118,7 @@ Munich airport today
 As if robbing refugees of their blankets was not enough, in a more heavy — to — carry — effort — Paris authorities have set up large rocks to safeguard the places such as under the bridge at Paris Metro Line at Boulevard de la Chapelle in Paris\. As people have no place to go, they just sleep between those rocks\.
 
 
-![Boulevard de la Chapelle in Paris\. Photo: The voice of refugees](assets/cfdc1b229049/1*Y1RhXQuKRZbB59e7yeh-3Q.jpeg)
+![Boulevard de la Chapelle in Paris\. Photo: The voice of refugees](../assets/cfdc1b229049/1*Y1RhXQuKRZbB59e7yeh-3Q.jpeg)
 
 Boulevard de la Chapelle in Paris\. Photo: The voice of refugees
 ### **Final farewell to John Sina**
@@ -126,7 +126,7 @@ Boulevard de la Chapelle in Paris\. Photo: The voice of refugees
 Help refugees has posted this message today that we bring in full:
 
 
-![Funeral\. Photo: Help refugees](assets/cfdc1b229049/1*Iavcgi9ogzGtu8nv3Rxu6A.jpeg)
+![Funeral\. Photo: Help refugees](../assets/cfdc1b229049/1*Iavcgi9ogzGtu8nv3Rxu6A.jpeg)
 
 Funeral\. Photo: Help refugees
 
@@ -135,7 +135,7 @@ Funeral\. Photo: Help refugees
 On their way back to the warehouse they witnessed 7 minors being arrested outside the [Secours Catholique — Caritas France](https://www.facebook.com/Secours.Catholique.Caritas.france/) warehouse, where the police have been targeting refugees hoping to shower\.
 
 
-![Stop and search\. Photo: Help refugees](assets/cfdc1b229049/1*_powvyUKN9m0GZoERA2m_g.jpeg)
+![Stop and search\. Photo: Help refugees](../assets/cfdc1b229049/1*_powvyUKN9m0GZoERA2m_g.jpeg)
 
 Stop and search\. Photo: Help refugees
 

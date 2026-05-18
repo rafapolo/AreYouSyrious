@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 25/04/2019: Postcard from the Balkans
+title: "AYS DAILY DIGEST 25/04/2019: Postcard from the Balkans"
 author: Are You Syrious?
 date: 2019-04-26T09:18:14.789+0100
 last_modified_at: 2019-04-26T23:53:43.385+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,bosnia,balkans,libya]
 description: Number of children among people who are arriving to Europe is increasing // In 2018, the EU member states granted protection status to…
 image:
-  path: assets/936a6e23e6c4/1*Fm3dsfoSFFikPOOAKaS-ZA.jpeg
+  path: ../assets/936a6e23e6c4/1*Fm3dsfoSFFikPOOAKaS-ZA.jpeg
 ---
 
 ### AYS Daily Digest 25/04/19: Postcard from the Balkans
@@ -15,22 +15,22 @@ image:
 _Number of children among those arriving to Europe is increasing / In 2018, the EU member states granted protection status to nearly 333,400 people / Amnesty International calls for war crimes investigation in Libya / IOM does not see a cage in Bosnia / Violent death of a child in a centre in Belgium_
 
 
-![Samos\. By [Ruhi Loren](https://www.facebook.com/donate/282895535963683/)](assets/936a6e23e6c4/1*Fm3dsfoSFFikPOOAKaS-ZA.jpeg)
+![Samos\. By [Ruhi Loren](https://www.facebook.com/donate/282895535963683/)](../assets/936a6e23e6c4/1*Fm3dsfoSFFikPOOAKaS-ZA.jpeg)
 
 Samos\. By [Ruhi Loren](https://www.facebook.com/donate/282895535963683/)
 
 
-![Pljevlja, Montenegro\. By Bona Fide Pljevlja](assets/936a6e23e6c4/1*OJW_JXcV4Wc4SBFRQN3D9Q.jpeg)
+![Pljevlja, Montenegro\. By Bona Fide Pljevlja](../assets/936a6e23e6c4/1*OJW_JXcV4Wc4SBFRQN3D9Q.jpeg)
 
 Pljevlja, Montenegro\. By Bona Fide Pljevlja
 
 
-![Tuzla, Bosnia\. By Samir Cupo](assets/936a6e23e6c4/1*P0pQCcn7dO37d-6X88rBRQ.jpeg)
+![Tuzla, Bosnia\. By Samir Cupo](../assets/936a6e23e6c4/1*P0pQCcn7dO37d-6X88rBRQ.jpeg)
 
 Tuzla, Bosnia\. By Samir Cupo
 
 
-![Velecevo, Bosnia\. By Sanella Lepirica](assets/936a6e23e6c4/1*iS9ZwV9FEoEb1Zv_uXpe7g.jpeg)
+![Velecevo, Bosnia\. By Sanella Lepirica](../assets/936a6e23e6c4/1*iS9ZwV9FEoEb1Zv_uXpe7g.jpeg)
 
 Velecevo, Bosnia\. By Sanella Lepirica
 

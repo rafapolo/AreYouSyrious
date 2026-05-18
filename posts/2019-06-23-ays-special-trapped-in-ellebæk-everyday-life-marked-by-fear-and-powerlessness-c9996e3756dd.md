@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Trapped in Ellebæk —  Everyday life marked by fear and powerlessness
+title: "AYS SPECIAL: Trapped in Ellebæk —  Everyday life marked by fear and powerlessness"
 author: Are You Syrious?
 date: 2019-06-23T12:29:51.459+0100
 last_modified_at: 2019-06-23T12:29:51.459+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,special,europe,denmark,detention]
 description: On the 4th of June 2019, a man hung himself in his cell after 3 months of detention in the Immigration Centre Ellebæk. This is not the…
 image:
-  path: assets/c9996e3756dd/1*Rr1NjAWD3Q-2iMxvO_6dDQ.jpeg
+  path: ../assets/c9996e3756dd/1*Rr1NjAWD3Q-2iMxvO_6dDQ.jpeg
 ---
 
 ### AYS SPECIAL: Trapped in Ellebæk — Everyday life marked by fear and powerlessness
 #### **On the 4th of June 2019, a man hung himself in his cell after 3 months of detention in the Immigration Centre Ellebæk\. This is not the first suicide in Ellebæk\. In June, the Ombudsman instructed the free\-hanging pipes attached to the cells’ ceiling to be covered, in order to prevent further suicide attempts\. At the time, there had been 7 suicides and suicide attempts in the last 5 years\.**
 
 
-![The entrance gate to Ellebæk](assets/c9996e3756dd/1*Rr1NjAWD3Q-2iMxvO_6dDQ.jpeg)
+![The entrance gate to Ellebæk](../assets/c9996e3756dd/1*Rr1NjAWD3Q-2iMxvO_6dDQ.jpeg)
 
 The entrance gate to Ellebæk
 
@@ -95,7 +95,7 @@ Andrew was in his bed in his cell when he heard prison guards and other inmates 
 When they managed to slightly open the door, the prison guards send an inmate, who was slender build, inside to open it from the inside\. What was waiting on the other side was the body of a man who had hung himself from the window\.
 
 
-![](assets/c9996e3756dd/1*AF--8YgL1jCyYD0unj3HqQ.jpeg)
+![](../assets/c9996e3756dd/1*AF--8YgL1jCyYD0unj3HqQ.jpeg)
 
 
 
@@ -170,7 +170,7 @@ The dead cannot speak, and we will never know exactly what lead to the suicide o
 The statistics show that many forced deportations from Ellebæk succeed\. 87 percent of the inmates in Ellebæk were deported last year according to the Police National Immigration Centre\. When the police come, unannounced, dressed in riot suits, ready to employ such harsh methods, that a forced deportation in 2017 ended with an Algerian man losing his life, _“they always win”,_ as Andrew puts it\.
 
 
-![](assets/c9996e3756dd/1*tIBeywyZbnNQhkxUaBlEMA.jpeg)
+![](../assets/c9996e3756dd/1*tIBeywyZbnNQhkxUaBlEMA.jpeg)
 
 
 Ellebæk prison, with 136 beds, does not occupy much space in media, the population or the politicians\.

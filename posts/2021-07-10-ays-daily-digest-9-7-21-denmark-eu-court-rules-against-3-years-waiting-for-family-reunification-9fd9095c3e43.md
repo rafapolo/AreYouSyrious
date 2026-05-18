@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 9/7/21 Denmark: EU Court Rules Against 3 Years of Waiting for Family Reunification
+title: "AYS Daily Digest 9/7/21 Denmark: EU Court Rules Against 3 Years of Waiting for Family Reunification"
 author: Are You Syrious?
 date: 2021-07-10T16:12:05.216+0100
 last_modified_at: 2021-07-10T17:55:05.707+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,denmark,echr,refugees,borders]
 description: Deportations and alerts in Germany and Denmark. Recordings of LCG activities hidden by EUNAVFOR MED? Fire in Samos.
 image:
-  path: assets/9fd9095c3e43/1*cEyR8U69bi-RZzu9IDIm6Q.jpeg
+  path: ../assets/9fd9095c3e43/1*cEyR8U69bi-RZzu9IDIm6Q.jpeg
 ---
 
 ### AYS Daily Digest 9/7/21 Denmark: EU Court Rules Against 3 Years of Waiting for Family Reunification
@@ -15,7 +15,7 @@ image:
 Deportations and alerts in Germany and Denmark\. Recordings of LCG activities hidden by EUNAVFOR MED? Fire in Samos\.
 
 
-![\(“These walls are deeply distressing to asylum seekers, who are grappling with growing challenges\. In addition to the psychological ramifications, walls are also a barrier to integration, severing connections between camps and the outside world\. Such policies represent a threat to the well\-being, safety, and human rights of refugees and asylum seekers across Greece\.” Read more and Photo Credit: [Lighthouse Relief](https://www.facebook.com/lighthouserelief/photos/a.773703872752156/4082468421875668/) \)](assets/9fd9095c3e43/1*cEyR8U69bi-RZzu9IDIm6Q.jpeg)
+![\(“These walls are deeply distressing to asylum seekers, who are grappling with growing challenges\. In addition to the psychological ramifications, walls are also a barrier to integration, severing connections between camps and the outside world\. Such policies represent a threat to the well\-being, safety, and human rights of refugees and asylum seekers across Greece\.” Read more and Photo Credit: [Lighthouse Relief](https://www.facebook.com/lighthouserelief/photos/a.773703872752156/4082468421875668/) \)](../assets/9fd9095c3e43/1*cEyR8U69bi-RZzu9IDIm6Q.jpeg)
 
 \(“These walls are deeply distressing to asylum seekers, who are grappling with growing challenges\. In addition to the psychological ramifications, walls are also a barrier to integration, severing connections between camps and the outside world\. Such policies represent a threat to the well\-being, safety, and human rights of refugees and asylum seekers across Greece\.” Read more and Photo Credit: [Lighthouse Relief](https://www.facebook.com/lighthouserelief/photos/a.773703872752156/4082468421875668/) \)
 #### FEATURED — EU Court rules against Denmark’s three years waiting time for family reunification

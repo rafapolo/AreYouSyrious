@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [sea-rescue,solidarity,frontex,greece,hungary]
 description: Disembarkations in Sicily // Lesvos locals stand in solidarity // Raid on solidarity workers in Trieste // Deportation protests in Austria…
 image:
-  path: assets/b1714740d70b/1*KWrQfW40_SxUk49Tj6D0nA.png
+  path: ../assets/b1714740d70b/1*KWrQfW40_SxUk49Tj6D0nA.png
 ---
 
 ### AYS Daily Digest 23/02/2021 — EU moves to check Hungary over anti\-solidarity legislation
 ### Disembarkations in Sicily // Lesvos locals stand in solidarity // Raid on solidarity workers in Trieste // Deportation protests in Austria // Desperate situation in Melilla // Frontex Scrutiny Working Group begins investigation
 
 
-![People\-on\-the\-move walking through Hungary in 2015 \(Photo source: [Flickr](https://www.flickr.com/photos/syriafreedom/21364003026) \)](assets/b1714740d70b/1*KWrQfW40_SxUk49Tj6D0nA.png)
+![People\-on\-the\-move walking through Hungary in 2015 \(Photo source: [Flickr](https://www.flickr.com/photos/syriafreedom/21364003026) \)](../assets/b1714740d70b/1*KWrQfW40_SxUk49Tj6D0nA.png)
 
 People\-on\-the\-move walking through Hungary in 2015 \(Photo source: [Flickr](https://www.flickr.com/photos/syriafreedom/21364003026) \)
 ### FEATURE: EU takes Hungary to court over anti\- solidarity law
@@ -54,7 +54,7 @@ We will follow these developments closely, but this news is certainly a positive
 #### New leader promises collaboration with Italy on migration
 
 
-![Libya’s new prime minister Abdul Hamid Dbeibah in Tripoli, Libya, on February 17, 2021 \| Photo: EPA/STR](assets/b1714740d70b/1*3qUmkSUhQkfNXo-954ngRA.jpeg)
+![Libya’s new prime minister Abdul Hamid Dbeibah in Tripoli, Libya, on February 17, 2021 \| Photo: EPA/STR](../assets/b1714740d70b/1*3qUmkSUhQkfNXo-954ngRA.jpeg)
 
 Libya’s new prime minister Abdul Hamid Dbeibah in Tripoli, Libya, on February 17, 2021 \| Photo: EPA/STR
 
@@ -232,7 +232,7 @@ Franziska Grillmeier shared a long thread \(in German\) about violent pushbacks 
 #### Threats and intimidation for local solidarity workers
 
 
-![Photo source: [https://www\.lineadombra\.org/](https://www.lineadombra.org/2021/02/23/lorena-e-gian-andrea-sotto-accusa-per-reato-di-solidarieta/?fbclid=IwAR3ZGbUwjFaAFsPfdbgbNcJIIRlczV_wEyOMPPqne4LuZL5vFU65JzUhGKM)](assets/b1714740d70b/1*qXr2kvUNj2FQkHFbsyVfuw.jpeg)
+![Photo source: [https://www\.lineadombra\.org/](https://www.lineadombra.org/2021/02/23/lorena-e-gian-andrea-sotto-accusa-per-reato-di-solidarieta/?fbclid=IwAR3ZGbUwjFaAFsPfdbgbNcJIIRlczV_wEyOMPPqne4LuZL5vFU65JzUhGKM)](../assets/b1714740d70b/1*qXr2kvUNj2FQkHFbsyVfuw.jpeg)
 
 Photo source: [https://www\.lineadombra\.org/](https://www.lineadombra.org/2021/02/23/lorena-e-gian-andrea-sotto-accusa-per-reato-di-solidarieta/?fbclid=IwAR3ZGbUwjFaAFsPfdbgbNcJIIRlczV_wEyOMPPqne4LuZL5vFU65JzUhGKM)
 
@@ -291,7 +291,7 @@ Nos negamos a que esta sea la Europa del Siglo XXI. La solidaridad no es un crim
 #### Protests against deportations
 
 
-![Photo source: Transbalkanska solidarnost](assets/b1714740d70b/1*rS-r0IRm9Dr1pzG4HrEPBQ.jpeg)
+![Photo source: Transbalkanska solidarnost](../assets/b1714740d70b/1*rS-r0IRm9Dr1pzG4HrEPBQ.jpeg)
 
 Photo source: Transbalkanska solidarnost
 
@@ -318,7 +318,7 @@ The government told Info Migrants that the Federal Office for Migration and Refu
 #### Undocumented people hold ongoing overnight protest in a church
 
 
-![Inside the church of the Béguinage, more than 200 mattresses are spread across the hall \(Photo source: Camille Gijs/POLITICO\)](assets/b1714740d70b/1*ainb24dALIYF0kiswI37Mw.jpeg)
+![Inside the church of the Béguinage, more than 200 mattresses are spread across the hall \(Photo source: Camille Gijs/POLITICO\)](../assets/b1714740d70b/1*ainb24dALIYF0kiswI37Mw.jpeg)
 
 Inside the church of the Béguinage, more than 200 mattresses are spread across the hall \(Photo source: Camille Gijs/POLITICO\)
 
@@ -387,7 +387,7 @@ Today the organization said the boy is stable and the process to transfer him to
 #### Join the petition campaign to Priti Patel
 
 
-![Photo source: [Privacy International](https://www.privacyinternational.org/call-action/4423/send-letter-priti-patel-demand-uk-home-office-stops-spying-asylum-seekers?fbclid=IwAR0rP6PD_TNGp9t-3lo7Om-BOvTMTBzU4nQVTARvyI3utDfmCv1gjEtqpRU)](assets/b1714740d70b/1*PkeSlCpmkLVQoqeoU5GNyw.png)
+![Photo source: [Privacy International](https://www.privacyinternational.org/call-action/4423/send-letter-priti-patel-demand-uk-home-office-stops-spying-asylum-seekers?fbclid=IwAR0rP6PD_TNGp9t-3lo7Om-BOvTMTBzU4nQVTARvyI3utDfmCv1gjEtqpRU)](../assets/b1714740d70b/1*PkeSlCpmkLVQoqeoU5GNyw.png)
 
 Photo source: [Privacy International](https://www.privacyinternational.org/call-action/4423/send-letter-priti-patel-demand-uk-home-office-stops-spying-asylum-seekers?fbclid=IwAR0rP6PD_TNGp9t-3lo7Om-BOvTMTBzU4nQVTARvyI3utDfmCv1gjEtqpRU)
 

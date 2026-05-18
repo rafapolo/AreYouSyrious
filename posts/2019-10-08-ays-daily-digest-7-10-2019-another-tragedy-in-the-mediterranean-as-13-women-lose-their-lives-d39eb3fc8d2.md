@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 7/10/2019: Another tragedy in the Mediterranean as 13 women lose their lives
+title: "AYS Daily Digest 7/10/2019: Another tragedy in the Mediterranean as 13 women lose their lives"
 author: Are You Syrious?
 date: 2019-10-08T09:37:24.664+0100
 last_modified_at: 2019-10-08T14:29:45.261+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,mediterranean,greece,turkey]
 description: Dire living conditions for people transferred to mainland Greece//Turkey to start attacking Northern Syria any minute now//Donations and…
 image:
-  path: assets/d39eb3fc8d2/1*6VtaxzCPvZV5NxODf80KqQ.jpeg
+  path: ../assets/d39eb3fc8d2/1*6VtaxzCPvZV5NxODf80KqQ.jpeg
 ---
 
 ### AYS Daily Digest 7/10/2019: Another tragedy in the Mediterranean as 13 women lose their lives
 #### Dire living conditions for people transferred to mainland Greece// Turkey to start attacking Northern Syria any minute now// Donations and volunteers needed in Greece and BiH// 44 people on board of Open Arms to be disembarked in Malta// Church asylum becomes more and more ineffective against deportations from Germany// More news from the Mediterranean, Italy, Sweden…
 
 
-![Credit: Anthony Jean, SOS Méditerranée\.](assets/d39eb3fc8d2/1*6VtaxzCPvZV5NxODf80KqQ.jpeg)
+![Credit: Anthony Jean, SOS Méditerranée\.](../assets/d39eb3fc8d2/1*6VtaxzCPvZV5NxODf80KqQ.jpeg)
 
 Credit: Anthony Jean, SOS Méditerranée\.
 #### FEATURED STORIES
@@ -24,7 +24,7 @@ In the night between Sunday 6th and Monday 7th October, another tragedy happened
 The survivors were accompanied by the ICG and Guardia di Finanza to the mainland\. As investigations continue, the public prosecutor of Agrigento stated that all the people on board were travelling without lifejackets, adding that this tragedy could have been avoided and that all of the credit is to be given to the ICG and Guardia di Finanza for their quick intervention, completely overlooking the role of those NGOs doing SAR operations in the Mediterranean and that could have eaily intervened, possibly saving the lives of those on board on time\.
 
 
-![Credit: Mediterranea Saving Humans\.](assets/d39eb3fc8d2/1*VV9QfUfz2BJN5ni8uFXiWw.jpeg)
+![Credit: Mediterranea Saving Humans\.](../assets/d39eb3fc8d2/1*VV9QfUfz2BJN5ni8uFXiWw.jpeg)
 
 Credit: Mediterranea Saving Humans\.
 
@@ -54,22 +54,22 @@ While tragedies are happening in the central Mediterranean, no better news is re
 However, conditions for those transferred from the islands or from evicted buildings in Athens are not better, as this testimony reaches AYS from Corinth, where residents of evicted 5th School in Athens were taken\.
 
 
-![These are refrigerators\. I’ve been seeing them since the day we got here \[3 weeks ago\. \] They have been sitting in that same spot since then, unopened, in their new packaging\. Credit: AYS\.](assets/d39eb3fc8d2/1*SGTJWVt4bJNX8YIAaJTTPg.jpeg)
+![These are refrigerators\. I’ve been seeing them since the day we got here \[3 weeks ago\. \] They have been sitting in that same spot since then, unopened, in their new packaging\. Credit: AYS\.](../assets/d39eb3fc8d2/1*SGTJWVt4bJNX8YIAaJTTPg.jpeg)
 
 These are refrigerators\. I’ve been seeing them since the day we got here \[3 weeks ago\. \] They have been sitting in that same spot since then, unopened, in their new packaging\. Credit: AYS\.
 
 
-![In this container I saw more than 10 washing machines\. Someone had opened the doors the other day, and I noticed them in there\. But we can’t use them\. Credit: AYS\.](assets/d39eb3fc8d2/1*-wTpPa8oGtAujWRrEuwLWQ.jpeg)
+![In this container I saw more than 10 washing machines\. Someone had opened the doors the other day, and I noticed them in there\. But we can’t use them\. Credit: AYS\.](../assets/d39eb3fc8d2/1*-wTpPa8oGtAujWRrEuwLWQ.jpeg)
 
 In this container I saw more than 10 washing machines\. Someone had opened the doors the other day, and I noticed them in there\. But we can’t use them\. Credit: AYS\.
 
 
-![And also there are these machines\. They seem to be heaters, but I don’t know whether they are water heaters or space heaters for the tents\. And these are parts for them\. They are here\. But I cannot understand why they are not being used\. We freeze at night\. At midnight, it’s feels like ice here\. Credit: AYS\.](assets/d39eb3fc8d2/1*UJXPbyz4nglfH6IiUXElVg.jpeg)
+![And also there are these machines\. They seem to be heaters, but I don’t know whether they are water heaters or space heaters for the tents\. And these are parts for them\. They are here\. But I cannot understand why they are not being used\. We freeze at night\. At midnight, it’s feels like ice here\. Credit: AYS\.](../assets/d39eb3fc8d2/1*UJXPbyz4nglfH6IiUXElVg.jpeg)
 
 And also there are these machines\. They seem to be heaters, but I don’t know whether they are water heaters or space heaters for the tents\. And these are parts for them\. They are here\. But I cannot understand why they are not being used\. We freeze at night\. At midnight, it’s feels like ice here\. Credit: AYS\.
 
 
-![These are the toilets\. They are placed very far away\. At night we run there, because we are so cold\. Credit: AYS\.](assets/d39eb3fc8d2/1*_P3tw4ZeMiw_g1_ShKi_Gg.jpeg)
+![These are the toilets\. They are placed very far away\. At night we run there, because we are so cold\. Credit: AYS\.](../assets/d39eb3fc8d2/1*_P3tw4ZeMiw_g1_ShKi_Gg.jpeg)
 
 These are the toilets\. They are placed very far away\. At night we run there, because we are so cold\. Credit: AYS\.
 
@@ -128,22 +128,22 @@ In **_Chios_** , [3 boats landed this morning](https://twitter.com/BrunoTersago/
 Bira, **_Bihać_** \. Conditions inside the camp\.
 
 
-![](assets/d39eb3fc8d2/1*t3BRLKEoyIZk3evvIXioHg.jpeg)
+![](../assets/d39eb3fc8d2/1*t3BRLKEoyIZk3evvIXioHg.jpeg)
 
 
 
-![Credit: Nidzara Ahmetasevic\.](assets/d39eb3fc8d2/1*c0pmR24CVHTeTcWgCvjFdA.jpeg)
+![Credit: Nidzara Ahmetasevic\.](../assets/d39eb3fc8d2/1*c0pmR24CVHTeTcWgCvjFdA.jpeg)
 
 Credit: Nidzara Ahmetasevic\.
 
 New arrivals in **_Tuzla, BiH_** , tonight\.
 
 
-![](assets/d39eb3fc8d2/1*-qM_i_5NzD6eFN2mvgczkQ.jpeg)
+![](../assets/d39eb3fc8d2/1*-qM_i_5NzD6eFN2mvgczkQ.jpeg)
 
 
 
-![Credit: Senad Cupo\.](assets/d39eb3fc8d2/1*iy4kfbr-MmJ0o7yRVZCc9g.jpeg)
+![Credit: Senad Cupo\.](../assets/d39eb3fc8d2/1*iy4kfbr-MmJ0o7yRVZCc9g.jpeg)
 
 Credit: Senad Cupo\.
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 21/12/17: Pace of transfers from the islands to the mainland needs to accelerate
+title: "AYS Daily Digest 21/12/17: Pace of transfers from the islands to the mainland needs to accelerate"
 author: Are You Syrious?
 date: 2017-12-22T09:38:03.040+0000
 last_modified_at: 2017-12-22T11:07:39.160+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,lesvos,islands,greece,sweden]
 description: Greek islands remain overcrowded / Refugees cross dangerous mountain path between Italy and France / City workers in Paris continue to…
 image:
-  path: assets/a18a3695c206/1*uMxGZ4gtVOFyjT4SPGYaKg.png
+  path: ../assets/a18a3695c206/1*uMxGZ4gtVOFyjT4SPGYaKg.png
 ---
 
 ### AYS Daily Digest 21/12/17: Pace of transfers from the islands to the mainland needs to accelerate
@@ -15,7 +15,7 @@ image:
 _Greek islands remain overcrowded / Refugees cross dangerous mountain path between Italy and France / City workers in Paris continue to throw away tents / Belgian government suspends deportation of Sudanese refugees amidst reports of torture / And more news…_
 
 
-![Photo by [One Happy Family — Community Center, Lesvos](https://www.facebook.com/OHFLesvos/)](assets/a18a3695c206/1*uMxGZ4gtVOFyjT4SPGYaKg.png)
+![Photo by [One Happy Family — Community Center, Lesvos](https://www.facebook.com/OHFLesvos/)](../assets/a18a3695c206/1*uMxGZ4gtVOFyjT4SPGYaKg.png)
 
 Photo by [One Happy Family — Community Center, Lesvos](https://www.facebook.com/OHFLesvos/)
 ### FEATURE: Greek islands remain overcrowded

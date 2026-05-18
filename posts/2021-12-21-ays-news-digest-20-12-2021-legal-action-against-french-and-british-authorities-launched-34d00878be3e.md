@@ -1,13 +1,13 @@
 ---
-title: AYS News Digest 20.12.2021: Legal Action Against French and British Authorities Launched
+title: "AYS News Digest 20.12.2021: Legal Action Against French and British Authorities Launched"
 author: Are You Syrious?
 date: 2021-12-21T11:07:10.914+0000
 last_modified_at: 2021-12-21T16:39:57.985+0000
 categories: Are You Syrious?
 tags: [digest,eu,englishchannel,human-rights]
-description: Accusations against Malta as hundreds remain on Sea Eye 4 / Greek NGO registry violating international law / Amnesty International: torture…
+description: "Accusations against Malta as hundreds remain on Sea Eye 4 / Greek NGO registry violating international law / Amnesty International: torture…"
 image:
-  path: assets/34d00878be3e/0*BJ8YEREykhqj0BzW
+  path: ../assets/34d00878be3e/0*BJ8YEREykhqj0BzW
 ---
 
 ### AYS News Digest 20\.12\.2021: Legal Action Against French and British Authorities Launched
@@ -16,7 +16,7 @@ image:
 #### Legal Action Against French and British Authorities Launched
 
 
-![Photo Credit: White Cliffs of Dover Photo by [Peter Mason](https://unsplash.com/@pmason303?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/dover?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](assets/34d00878be3e/0*BJ8YEREykhqj0BzW)
+![Photo Credit: White Cliffs of Dover Photo by [Peter Mason](https://unsplash.com/@pmason303?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/dover?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](../assets/34d00878be3e/0*BJ8YEREykhqj0BzW)
 
 Photo Credit: White Cliffs of Dover Photo by [Peter Mason](https://unsplash.com/@pmason303?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/dover?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
@@ -38,7 +38,7 @@ Following the report “ [**Inhumane and illegal practices against asylum seeker
 #### Accusations against Malta as hundreds remain on Sea Eye 4
 
 
-![Photo Credit: [**MISSION LIFELINE**](https://twitter.com/SEENOTRETTUNG/status/1472967798548803591?fbclid=IwAR2xkYN2g7TSqsyRiJZ4VuXjB1Vqz7UEs9jYWfOCbTp6ykTW8raqNmDPQ-A)](assets/34d00878be3e/0*aUtZrDAONf_BVwY7)
+![Photo Credit: [**MISSION LIFELINE**](https://twitter.com/SEENOTRETTUNG/status/1472967798548803591?fbclid=IwAR2xkYN2g7TSqsyRiJZ4VuXjB1Vqz7UEs9jYWfOCbTp6ykTW8raqNmDPQ-A)](../assets/34d00878be3e/0*aUtZrDAONf_BVwY7)
 
 Photo Credit: [**MISSION LIFELINE**](https://twitter.com/SEENOTRETTUNG/status/1472967798548803591?fbclid=IwAR2xkYN2g7TSqsyRiJZ4VuXjB1Vqz7UEs9jYWfOCbTp6ykTW8raqNmDPQ-A)
 
@@ -71,7 +71,7 @@ One of those organisations, the Moria Corona Awareness Team has [expressed conce
 #### Amnesty International: torture and abuse by authorities at Pol/Bel border
 
 
-![Photo Credit: [Avvenire Newspaper](https://twitter.com/nelloscavo/status/1473019885525639183?fbclid=IwAR0X85UFENGqUeL_Rjn4oWIF1IUM0OyAOXxazEoy4v4IMrqnQJWE4qXp3-M) lit green in solidarity\.](assets/34d00878be3e/0*1NK2kfa_mEEU1nor)
+![Photo Credit: [Avvenire Newspaper](https://twitter.com/nelloscavo/status/1473019885525639183?fbclid=IwAR0X85UFENGqUeL_Rjn4oWIF1IUM0OyAOXxazEoy4v4IMrqnQJWE4qXp3-M) lit green in solidarity\.](../assets/34d00878be3e/0*1NK2kfa_mEEU1nor)
 
 Photo Credit: [Avvenire Newspaper](https://twitter.com/nelloscavo/status/1473019885525639183?fbclid=IwAR0X85UFENGqUeL_Rjn4oWIF1IUM0OyAOXxazEoy4v4IMrqnQJWE4qXp3-M) lit green in solidarity\.
 

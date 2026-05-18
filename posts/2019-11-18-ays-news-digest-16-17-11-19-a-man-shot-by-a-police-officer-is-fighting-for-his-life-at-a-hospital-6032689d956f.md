@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 16–17/11/19: A man shot by a police officer is fighting for his life at a hospital…
+title: "AYS News Digest 16–17/11/19: A man shot by a police officer is fighting for his life at a hospital…"
 author: Are You Syrious?
 date: 2019-11-18T13:09:32.323+0000
 last_modified_at: 2019-11-18T13:09:32.323+0000
@@ -7,18 +7,18 @@ categories: Are You Syrious?
 tags: []
 description: Possibly shot in the back by a police officer, a man undergoes a long surgery with yet unknown results in Rijeka, Croatia / Another child’s…
 image:
-  path: assets/6032689d956f/0*Yiaw-lIZpNLgOlHP.jpeg
+  path: ../assets/6032689d956f/0*Yiaw-lIZpNLgOlHP.jpeg
 ---
 
 ### AYS News Digest 16–17/11/19: A man shot by a police officer is fighting for his life at a hospital in Croatia
 #### Possibly shot in the back by a police officer, a man undergoes a long surgery with yet unknown results in Rijeka, Croatia / Another child’s life lost in Moria / Institutions taking the Balkans as a place they no longer need to publish the same data / A report from the CPR in Torino, Italy — Horrible realities of detainees & more
 
 
-![](assets/6032689d956f/0*QQ2hVOvk_TnN2meU)
+![](../assets/6032689d956f/0*QQ2hVOvk_TnN2meU)
 
 
 
-![](assets/6032689d956f/0*Yiaw-lIZpNLgOlHP.jpeg)
+![](../assets/6032689d956f/0*Yiaw-lIZpNLgOlHP.jpeg)
 
 
 Athens, police raid against the gathered young people protesting and remembering\. Photo of November 17th\. Thousands of Greeks took to the streets peacefully on Sunday to commemorate the brutal suppression of a student uprising 46 years ago\. They marched in groups from the grounds of the Athens Polytechnic and some were again violently greeted by the police\. \(Photo: [Marios Lolos](https://www.facebook.com/marios.lolos.1?__tn__=%2CdC-R-R&eid=ARDPVtXm23PI5ey8rR-X17c-iS6kxdZptoesSqlE1Iyc3HjWGXXiFFWNSnCwPEpQ_ArqOOACx0j36ixA&hc_ref=ARSr_VZlYoR7njHVn_TzupLlqiC9dNNfiOLlepkZ1IfmEoL3oF8H7bevzIX4jf8_-HE&fref=nf) \)
@@ -65,35 +65,35 @@ NO HUMANITY
 NO HOPE
 
 
-![](assets/6032689d956f/0*Ojkcn_m11oAwRDCT)
+![](../assets/6032689d956f/0*Ojkcn_m11oAwRDCT)
 
 
 
-![](assets/6032689d956f/0*-T7mXkY-O49p_2si.jpeg)
+![](../assets/6032689d956f/0*-T7mXkY-O49p_2si.jpeg)
 
 
 
-![](assets/6032689d956f/0*2o1rQqfmxBdZUT4b)
+![](../assets/6032689d956f/0*2o1rQqfmxBdZUT4b)
 
 
 
-![](assets/6032689d956f/0*XtWlk5jo3ZPTJSNt.jpeg)
+![](../assets/6032689d956f/0*XtWlk5jo3ZPTJSNt.jpeg)
 
 
 
-![](assets/6032689d956f/0*fYPi7q8DWVQMHSOa)
+![](../assets/6032689d956f/0*fYPi7q8DWVQMHSOa)
 
 
 
-![](assets/6032689d956f/0*uUd3Dd5tLUeK_Gvb.jpeg)
+![](../assets/6032689d956f/0*uUd3Dd5tLUeK_Gvb.jpeg)
 
 
 
-![](assets/6032689d956f/0*l2o5zYaMmWsYSzl-)
+![](../assets/6032689d956f/0*l2o5zYaMmWsYSzl-)
 
 
 
-![](assets/6032689d956f/0*8KmD5sWcPecGgZvb.jpeg)
+![](../assets/6032689d956f/0*8KmD5sWcPecGgZvb.jpeg)
 
 
 In November so far, more than 8,000 people have arrived in the Aegean Islands, usually under adverse conditions\. The Turkish port and police, as well as Greece, did not allow the arrival of more than 6,000 who were returned to Turkey\.
@@ -114,11 +114,11 @@ Volunteers are urgently needed in the months of November, December and January t
 Antifacist movement stopped for the 3rd time far right groups from gathering against settlement of refugees in the town of Larissa\.
 
 
-![](assets/6032689d956f/0*f6ivsTpve4K-Xjv-)
+![](../assets/6032689d956f/0*f6ivsTpve4K-Xjv-)
 
 
 
-![](assets/6032689d956f/0*I7FamdIUCc-GCaqP.jpeg)
+![](../assets/6032689d956f/0*I7FamdIUCc-GCaqP.jpeg)
 
 
 Banner says “we are with refugees, against rascism, xenophobia and hate”

@@ -1,5 +1,5 @@
 ---
-title: AYS digest 13–14.10.2018: One rape a week in Moria camp
+title: "AYS digest 13–14.10.2018: One rape a week in Moria camp"
 author: Are You Syrious?
 date: 2018-10-15T10:37:23.591+0100
 last_modified_at: 2018-10-15T10:37:23.591+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,moria,greece,italy,digest]
 description: Women, men and pre-school children have been targeted by sexual abusers in Greece // Eleven refugees burnt alive in a car accident near…
 image:
-  path: assets/909b8024fba7/1*iKV_PcmT0iY52SXb3LsDiQ.jpeg
+  path: ../assets/909b8024fba7/1*iKV_PcmT0iY52SXb3LsDiQ.jpeg
 ---
 
 ### AYS digest 13–14\.10\.2018: One rape a week in Moria camp
 #### Women, men and pre\-school children have been targeted by sexual abusers in Greece // Eleven refugees burnt alive in a car accident near Kavala // Dozens of refugees arrested under vague smuggling charges in Bosnia // Salvini wants to move all refugees from Riace // 900 refugees under the age of 14 gone missing in Germany // 242,000 people march against fascism in Berlin
 
 
-![Children are exposed to hunger, sickness and potential abuse in the camp\. Photo: Through Refugee Eyes](assets/909b8024fba7/1*iKV_PcmT0iY52SXb3LsDiQ.jpeg)
+![Children are exposed to hunger, sickness and potential abuse in the camp\. Photo: Through Refugee Eyes](../assets/909b8024fba7/1*iKV_PcmT0iY52SXb3LsDiQ.jpeg)
 
 Children are exposed to hunger, sickness and potential abuse in the camp\. Photo: Through Refugee Eyes
 ### Feature
@@ -55,7 +55,7 @@ Earlier this month, MSF teams have reported seeing multiple cases each week of t
 This week, we publish a short video by the independent volunteer [Ania Domanska](https://www.facebook.com/ania.do.52) who went to Lesvos\. The video is showing a very touching moment of a father who tries to build a shelter for a family\. In European Union\.
 
 
-[![Notes from the Olive Grove](assets/909b8024fba7/ed09_hqdefault.jpg "Notes from the Olive Grove")](http://www.youtube.com/watch?v=KMj9NgBeuls)
+[![Notes from the Olive Grove](../assets/909b8024fba7/ed09_hqdefault.jpg "Notes from the Olive Grove")](http://www.youtube.com/watch?v=KMj9NgBeuls)
 
 #### Greece
 ### 11 refugees burnt alive in a car crash near Kavala
@@ -63,7 +63,7 @@ This week, we publish a short video by the independent volunteer [Ania Domanska]
 The head on collision between a truck and a mini van occurred shortly after 5am on Saturday near the village Sarakina by the town of Kavala\. The driver of the van was allegedly transferring refugees from the Evros border to Thessaloniki\. He had developed high speed in order to avoid the police patrol on the road and lost control of the vehicle\. We have decided not to post videos of the burning car out of respect for the victims and their families\.
 
 
-![](assets/909b8024fba7/1*aQHk4S5fd40kadvCMb0Tkw.jpeg)
+![](../assets/909b8024fba7/1*aQHk4S5fd40kadvCMb0Tkw.jpeg)
 
 
 This week, [we got the report from Samos](ays-daily-digest-12-10-2018-800-people-arrived-in-october-to-samos-9aaee6d21265) , one of the hot spots in Greece, saying that 800 people arrived there during October\. This is the current situation on the islands:
@@ -127,7 +127,7 @@ The Ministry of Interior have decided to terminate the SPRAR project in Riace\. 
 
 
 
-![_The Riace demonstration in support of Mayor Lucano after his arrest\. Photo: Republica_](assets/909b8024fba7/1*EwDO5ngvPAmi9mHz_Du0qg.jpeg)
+![_The Riace demonstration in support of Mayor Lucano after his arrest\. Photo: Republica_](../assets/909b8024fba7/1*EwDO5ngvPAmi9mHz_Du0qg.jpeg)
 
 _The Riace demonstration in support of Mayor Lucano after his arrest\. Photo: Republica_
 
@@ -156,7 +156,7 @@ According to the [TV report](http://www.rtcg.me/vijesti/drustvo/217377/vise-od-h
 ### Dozens arrested under vague smuggling charges
 
 
-![Arrests of refugees have especially increased in the last six weeks\.](assets/909b8024fba7/1*xtLqw6zu5HnH3WO6JXL50A.jpeg)
+![Arrests of refugees have especially increased in the last six weeks\.](../assets/909b8024fba7/1*xtLqw6zu5HnH3WO6JXL50A.jpeg)
 
 Arrests of refugees have especially increased in the last six weeks\.
 
@@ -170,7 +170,7 @@ The number of refugees under the age of 14 who are missing in Germany has increa
 ### 242,000 people protest against fascism in Berlin
 
 
-![“Refugees welcome” was one of the most common banners in the protest\. Photo: Uniteilbar](assets/909b8024fba7/1*PcYA-z2P300AS8tb2efvoQ.jpeg)
+![“Refugees welcome” was one of the most common banners in the protest\. Photo: Uniteilbar](../assets/909b8024fba7/1*PcYA-z2P300AS8tb2efvoQ.jpeg)
 
 “Refugees welcome” was one of the most common banners in the protest\. Photo: Uniteilbar
 

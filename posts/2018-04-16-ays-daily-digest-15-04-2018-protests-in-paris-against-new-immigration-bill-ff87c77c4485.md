@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 15/04/2018: Protests in Paris against new Immigration Bill
+title: "AYS Daily Digest 15/04/2018: Protests in Paris against new Immigration Bill"
 author: Are You Syrious?
 date: 2018-04-16T09:14:25.028+0100
 last_modified_at: 2018-04-16T12:05:00.432+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,france,syria,human-rights]
 description: French Immigration bill to be presented at National Assembly tomorrow// Thousands of rebel fighters and civilians leave Douma// Hospital…
 image:
-  path: assets/ff87c77c4485/1*5afdJQeszdO965yI255zwg.jpeg
+  path: ../assets/ff87c77c4485/1*5afdJQeszdO965yI255zwg.jpeg
 ---
 
 ### AYS Daily Digest 15/04/2018: Protests in Paris against new Immigration Bill
@@ -15,7 +15,7 @@ image:
 French Immigration bill to be presented at National Assembly tomorrow// Thousands of rebel fighters and civilians leave Douma// Hospital caring for displaced civilians from Eastern Ghouta under severe strain// Four rubber boats arrive on Lesvos over the weekend// Demo in solidarity with Moria 35 and more actions planned over the coming weeks// More news from Greece// Officers in Serbia set alight refugee living space// Help needed in Bosnia
 
 
-![Photo by Abdul Saboor](assets/ff87c77c4485/1*5afdJQeszdO965yI255zwg.jpeg)
+![Photo by Abdul Saboor](../assets/ff87c77c4485/1*5afdJQeszdO965yI255zwg.jpeg)
 
 Photo by Abdul Saboor
 ### Feature: Hundreds of people join together to protests in Paris against the new immigration bill
@@ -93,19 +93,19 @@ Financial assistance will be offered to rejected applicants who are willing to u
 
 
 
-![](assets/ff87c77c4485/1*D7qoIh5Z5M17ezgFumo-dw.jpeg)
+![](../assets/ff87c77c4485/1*D7qoIh5Z5M17ezgFumo-dw.jpeg)
 
 
 
-![](assets/ff87c77c4485/1*Ii8pQ7-DyY4bnZJSitPcug.jpeg)
+![](../assets/ff87c77c4485/1*Ii8pQ7-DyY4bnZJSitPcug.jpeg)
 
 
 
-![](assets/ff87c77c4485/1*Ssu8YyN0Ke_FKR0ZMPby_g.jpeg)
+![](../assets/ff87c77c4485/1*Ssu8YyN0Ke_FKR0ZMPby_g.jpeg)
 
 
 
-![Photos by Abdul Saboor](assets/ff87c77c4485/1*C1RT5iWzsxTUb_eIzosl6Q.jpeg)
+![Photos by Abdul Saboor](../assets/ff87c77c4485/1*C1RT5iWzsxTUb_eIzosl6Q.jpeg)
 
 Photos by Abdul Saboor
 
@@ -160,7 +160,7 @@ The facility scrambled to meet demand as 5,000 patients were dropped off at the 
 
 
 
-![](assets/ff87c77c4485/1*EXIMSUPL1UxpVIOKFvgtYg.jpeg)
+![](../assets/ff87c77c4485/1*EXIMSUPL1UxpVIOKFvgtYg.jpeg)
 
 ### Greece:
 #### Arrivals:
@@ -224,11 +224,11 @@ Mo Chara found an empty dinghy floating in the sea during a training session\. T
 
 
 
-![](assets/ff87c77c4485/1*cB0Fqo5c5v6gwH_r3d7Eew.jpeg)
+![](../assets/ff87c77c4485/1*cB0Fqo5c5v6gwH_r3d7Eew.jpeg)
 
 
 
-![Source: Giannis Skenderoglou](assets/ff87c77c4485/1*xlHtPmjrFKRC_eYzmi6dYQ.jpeg)
+![Source: Giannis Skenderoglou](../assets/ff87c77c4485/1*xlHtPmjrFKRC_eYzmi6dYQ.jpeg)
 
 Source: Giannis Skenderoglou
 #### Refugees4Refugees update
@@ -245,19 +245,19 @@ In addition, due to the huge amount of waste on the beaches they have begun doin
 
 
 
-![](assets/ff87c77c4485/1*E8p9kuBnd-htbPFsJGP-XQ.jpeg)
+![](../assets/ff87c77c4485/1*E8p9kuBnd-htbPFsJGP-XQ.jpeg)
 
 
 
-![](assets/ff87c77c4485/1*zdveqzMh6lA9z6APlEV6-w.jpeg)
+![](../assets/ff87c77c4485/1*zdveqzMh6lA9z6APlEV6-w.jpeg)
 
 
 
-![](assets/ff87c77c4485/1*mmo0BmbJUt7astunxBy7FA.jpeg)
+![](../assets/ff87c77c4485/1*mmo0BmbJUt7astunxBy7FA.jpeg)
 
 
 
-![Source: Refugees 4 Refugees](assets/ff87c77c4485/1*ERzWGnDRO7vFu1s4czJsMA.jpeg)
+![Source: Refugees 4 Refugees](../assets/ff87c77c4485/1*ERzWGnDRO7vFu1s4czJsMA.jpeg)
 
 Source: Refugees 4 Refugees
 #### FRONTEX reports a 30% rise in arrivals to Europe
@@ -295,15 +295,15 @@ Rigardu aims to bring attention to this incident and insists the authorities of 
 To read the full report please follow [this link](https://www.borderviolence.eu/violence-reports/march-15-2018-1100-close-to-the-serbian-hungarian-border/) \.
 
 
-![](assets/ff87c77c4485/1*rchbY2h_hqM_GDmMn7jm8Q.jpeg)
+![](../assets/ff87c77c4485/1*rchbY2h_hqM_GDmMn7jm8Q.jpeg)
 
 
 
-![](assets/ff87c77c4485/1*wDTNzjhN0xJ2_U83btvn-Q.jpeg)
+![](../assets/ff87c77c4485/1*wDTNzjhN0xJ2_U83btvn-Q.jpeg)
 
 
 
-![](assets/ff87c77c4485/1*CwNztBYtUdARf-xWAb612Q.jpeg)
+![](../assets/ff87c77c4485/1*CwNztBYtUdARf-xWAb612Q.jpeg)
 
 ### Bosnia:
 #### Men found sleeping in a park in Sarajevo
@@ -316,7 +316,7 @@ Approximately 350 people were in Velika Kladuša today, some of them single men 
 If you can help, please donate: Bank name: Intesa Sanpaolo Banka BiH; SWIFT CODE: UPBKBA22; IBAN: BA39 1541802008533048 Udruženje “Pomozi”, Dr\. Fetaha Bećirbegovića br\. 8, 71000 Sarajevo; Svrha \(Purpose\): for refugees; Paypal: paypal1@POMOZI\.BA\. If you can offer other types of help, or if you would like to come and volunteer, let us know\.
 
 
-[![Sarajevo, Velika Kladusa, 15-04-18](assets/ff87c77c4485/bfbe_hqdefault.jpg "Sarajevo, Velika Kladusa, 15-04-18")](http://www.youtube.com/watch?v=qlYVMK1EpyY)
+[![Sarajevo, Velika Kladusa, 15-04-18](../assets/ff87c77c4485/bfbe_hqdefault.jpg "Sarajevo, Velika Kladusa, 15-04-18")](http://www.youtube.com/watch?v=qlYVMK1EpyY)
 
 
 

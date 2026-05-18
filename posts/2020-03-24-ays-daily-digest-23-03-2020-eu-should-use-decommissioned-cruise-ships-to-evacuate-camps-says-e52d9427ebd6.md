@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,greece,germany,hungary]
 description: Calais abandoned during COVID-19 // Lesvos and others in Greece during new curfew // testing for COVID-19 in Idlib soon // Prime Minister…
 image:
-  path: assets/e52d9427ebd6/1*ZLI7r6gZqMW30_o_oDjrdw.jpeg
+  path: ../assets/e52d9427ebd6/1*ZLI7r6gZqMW30_o_oDjrdw.jpeg
 ---
 
 ### AYS Daily Digest 23/03/2020 EU should use decommissioned cruise ships to evacuate camps, says Sea\-Watch
@@ -15,13 +15,13 @@ image:
 _Calais abandoned during COVID\-19 // Lesvos and others in Greece during new curfew // Testing for COVID\-19 in Idlib soon // Prime Minister Orban seeking unlimited power in new pandemic bill // and more…_
 
 
-![Photo by [Abdulhkeem Alshater](https://www.facebook.com/abdulhkeem.alshater?__tn__=%2Cd%2AF%2AF-R&eid=ARBRX1ovVDB98nsw-DqxIZ6bAZh2H_eJymJhnrZ7_z9QoSJ1HuRqm-NYb0WEdD5d1-xESliAsCASb9sF&tn-str=%2AF&hc_location=group_dialog)](assets/e52d9427ebd6/1*ZLI7r6gZqMW30_o_oDjrdw.jpeg)
+![Photo by [Abdulhkeem Alshater](https://www.facebook.com/abdulhkeem.alshater?__tn__=%2Cd%2AF%2AF-R&eid=ARBRX1ovVDB98nsw-DqxIZ6bAZh2H_eJymJhnrZ7_z9QoSJ1HuRqm-NYb0WEdD5d1-xESliAsCASb9sF&tn-str=%2AF&hc_location=group_dialog)](../assets/e52d9427ebd6/1*ZLI7r6gZqMW30_o_oDjrdw.jpeg)
 
 Photo by [Abdulhkeem Alshater](https://www.facebook.com/abdulhkeem.alshater?__tn__=%2Cd%2AF%2AF-R&eid=ARBRX1ovVDB98nsw-DqxIZ6bAZh2H_eJymJhnrZ7_z9QoSJ1HuRqm-NYb0WEdD5d1-xESliAsCASb9sF&tn-str=%2AF&hc_location=group_dialog)
 ### FEATURE: Sea\-Watch makes the case for the EU to use decommissioned cruise ships to evacuate camps in Greece
 
 
-![Photo by Sea\-Watch](assets/e52d9427ebd6/1*ANBdpTjlPG4J-OBH8Edukg.jpeg)
+![Photo by Sea\-Watch](../assets/e52d9427ebd6/1*ANBdpTjlPG4J-OBH8Edukg.jpeg)
 
 Photo by Sea\-Watch
 
@@ -106,14 +106,14 @@ Please keep sharing this → [\(find the Arabic, Farsi, Urdu, Bengali, and Frenc
 The children who other EU countries recently agreed to evacuate from Greece and provide safe refuge aren’t going anywhere due to COVID\-19\. Administers are saying it is “impossible to provide them safe conditions at this time\.” More [here](https://www.infomigrants.net/en/post/23597/coronavirus-strands-refugee-children?fbclid=IwAR3mhif8Lf28cDL8skyelfvSHNUaN-6SvoG8W_ThhBfnn72WKiwLsRsXJEQ) \.
 
 
-![Photo by [NoBorder’s Greece](https://twitter.com/Refugees_Gr/status/1242207138170245122?s=19&fbclid=IwAR2wm0QFdUYZDZgp_aSD2Gl9_noMJcB_9FTWmEl_2fJ-868CtC_6Be7_GSw)](assets/e52d9427ebd6/1*BXiRTWRAs0j4siyfav-fEA.jpeg)
+![Photo by [NoBorder’s Greece](https://twitter.com/Refugees_Gr/status/1242207138170245122?s=19&fbclid=IwAR2wm0QFdUYZDZgp_aSD2Gl9_noMJcB_9FTWmEl_2fJ-868CtC_6Be7_GSw)](../assets/e52d9427ebd6/1*BXiRTWRAs0j4siyfav-fEA.jpeg)
 
 Photo by [NoBorder’s Greece](https://twitter.com/Refugees_Gr/status/1242207138170245122?s=19&fbclid=IwAR2wm0QFdUYZDZgp_aSD2Gl9_noMJcB_9FTWmEl_2fJ-868CtC_6Be7_GSw)
 
 The UN Special Rapporteur on the human rights of migrants is still very concerned about the violence taking place on the Greek\-Turkish border and says that Greece must take immediate action and reverse its decision to suspend new asylum applications\. Read his statement [here](https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=25736&LangID=E) \.
 
 
-![Photo by [AFP](https://twitter.com/UN_SPExperts/status/1242035926412468224?fbclid=IwAR0l_zjTKp_k54q6fV5Vgcbx1KqUCSBuj3JLUnBGBN_HULx9ILTgjF34GHk)](assets/e52d9427ebd6/1*WYJNla5jjCLDIVgfNn_QjQ.jpeg)
+![Photo by [AFP](https://twitter.com/UN_SPExperts/status/1242035926412468224?fbclid=IwAR0l_zjTKp_k54q6fV5Vgcbx1KqUCSBuj3JLUnBGBN_HULx9ILTgjF34GHk)](../assets/e52d9427ebd6/1*WYJNla5jjCLDIVgfNn_QjQ.jpeg)
 
 Photo by [AFP](https://twitter.com/UN_SPExperts/status/1242035926412468224?fbclid=IwAR0l_zjTKp_k54q6fV5Vgcbx1KqUCSBuj3JLUnBGBN_HULx9ILTgjF34GHk)
 
@@ -144,11 +144,11 @@ Update in from [the Moria Corona Awareness Team](https://www.facebook.com/MoriaC
 **Later on Monday [a third case](https://stonisi.gr/post/7898/trith-asthenhs-me-koronoio#.XnjYbCjmfCM.facebook) of an elderly Greek woman who had recently traveled to Athens, was reported\.**
 
 
-![](assets/e52d9427ebd6/1*_S-iRhkddusL2yZKa3vsXg.jpeg)
+![](../assets/e52d9427ebd6/1*_S-iRhkddusL2yZKa3vsXg.jpeg)
 
 
 
-![“For the residents of [\#Moria](https://www.facebook.com/hashtag/moria?source=feed_text&epa=HASHTAG) camp \( \) due to increased tensions on Lesvos and new lockdown measurements in relation to [\#COVID19](https://www.facebook.com/hashtag/covid19?source=feed_text&epa=HASHTAG) , the food line inside Moria camp has become increasingly more tense and chaotic\. As one of the few NGO’s still operating in and around Moria camp during these uncertain times, we decided to to relieve some of the food line\-related pressures by setting up a new food distribution point in Zone 9 of our Olive Grove [\#campUs](https://www.facebook.com/hashtag/campus?source=feed_text&epa=HASHTAG) outside Moria camp\. This new food line means we can now feed approximately 700 residents daily, and in combination with our existing food line in Zone 6, we can now safely feed around 1,500 people\. While this number is only a fraction of the total population of Moria camp, we hold hope that in the future we will be able to help feed many more residents\.” Photo by [Ali Shams Eddin](https://www.facebook.com/ali.mular.1/posts/855822968225029?hc_location=ufi)](assets/e52d9427ebd6/1*29cLk876bqer4Hf9gVvPgw.jpeg)
+![“For the residents of [\#Moria](https://www.facebook.com/hashtag/moria?source=feed_text&epa=HASHTAG) camp \( \) due to increased tensions on Lesvos and new lockdown measurements in relation to [\#COVID19](https://www.facebook.com/hashtag/covid19?source=feed_text&epa=HASHTAG) , the food line inside Moria camp has become increasingly more tense and chaotic\. As one of the few NGO’s still operating in and around Moria camp during these uncertain times, we decided to to relieve some of the food line\-related pressures by setting up a new food distribution point in Zone 9 of our Olive Grove [\#campUs](https://www.facebook.com/hashtag/campus?source=feed_text&epa=HASHTAG) outside Moria camp\. This new food line means we can now feed approximately 700 residents daily, and in combination with our existing food line in Zone 6, we can now safely feed around 1,500 people\. While this number is only a fraction of the total population of Moria camp, we hold hope that in the future we will be able to help feed many more residents\.” Photo by [Ali Shams Eddin](https://www.facebook.com/ali.mular.1/posts/855822968225029?hc_location=ufi)](../assets/e52d9427ebd6/1*29cLk876bqer4Hf9gVvPgw.jpeg)
 
 “For the residents of [\#Moria](https://www.facebook.com/hashtag/moria?source=feed_text&epa=HASHTAG) camp \( \) due to increased tensions on Lesvos and new lockdown measurements in relation to [\#COVID19](https://www.facebook.com/hashtag/covid19?source=feed_text&epa=HASHTAG) , the food line inside Moria camp has become increasingly more tense and chaotic\. As one of the few NGO’s still operating in and around Moria camp during these uncertain times, we decided to to relieve some of the food line\-related pressures by setting up a new food distribution point in Zone 9 of our Olive Grove [\#campUs](https://www.facebook.com/hashtag/campus?source=feed_text&epa=HASHTAG) outside Moria camp\. This new food line means we can now feed approximately 700 residents daily, and in combination with our existing food line in Zone 6, we can now safely feed around 1,500 people\. While this number is only a fraction of the total population of Moria camp, we hold hope that in the future we will be able to help feed many more residents\.” Photo by [Ali Shams Eddin](https://www.facebook.com/ali.mular.1/posts/855822968225029?hc_location=ufi)
 
@@ -174,17 +174,17 @@ In an update on the lockdown taking an effect on Lesvos from [No Border Lesvos K
 
 
 
-![Photo by [No Border Kitchen Lesvos](https://www.facebook.com/NBKLesvos/photos/a.722860677853724/1686034644869651/?type=1&theater)](assets/e52d9427ebd6/1*s9Xlob8XJFhe6PCzh1maZQ.jpeg)
+![Photo by [No Border Kitchen Lesvos](https://www.facebook.com/NBKLesvos/photos/a.722860677853724/1686034644869651/?type=1&theater)](../assets/e52d9427ebd6/1*s9Xlob8XJFhe6PCzh1maZQ.jpeg)
 
 Photo by [No Border Kitchen Lesvos](https://www.facebook.com/NBKLesvos/photos/a.722860677853724/1686034644869651/?type=1&theater)
 
 
-![](assets/e52d9427ebd6/1*a0u6XDSeFcHIWJ3N94H3VA.jpeg)
+![](../assets/e52d9427ebd6/1*a0u6XDSeFcHIWJ3N94H3VA.jpeg)
 
 
 
 ![**57 new arrivals to Lesvos** on Monday; trying to stay warm\. Photos by 
-[Franziska Grillmeier](https://twitter.com/FranziEire/status/1242103809796685825?fbclid=IwAR214uo7F4NNmyqhNHS8c6fqsGRkPle-RFd5v3Qi3Hsb-V1zwcdoACuYaIQ)](assets/e52d9427ebd6/1*6RI804BNCfUGDgYOBVSg-w.jpeg)
+[Franziska Grillmeier](https://twitter.com/FranziEire/status/1242103809796685825?fbclid=IwAR214uo7F4NNmyqhNHS8c6fqsGRkPle-RFd5v3Qi3Hsb-V1zwcdoACuYaIQ)](../assets/e52d9427ebd6/1*6RI804BNCfUGDgYOBVSg-w.jpeg)
 
 **57 new arrivals to Lesvos** on Monday; trying to stay warm\. Photos by 
 [Franziska Grillmeier](https://twitter.com/FranziEire/status/1242103809796685825?fbclid=IwAR214uo7F4NNmyqhNHS8c6fqsGRkPle-RFd5v3Qi3Hsb-V1zwcdoACuYaIQ)
@@ -205,19 +205,19 @@ In an update on sea rescue, Info Migrants reports: _“After authorities from EU
 #### ITALY
 
 
-![](assets/e52d9427ebd6/1*IMcGQukuBb2z7qJjQxR5XA.jpeg)
+![](../assets/e52d9427ebd6/1*IMcGQukuBb2z7qJjQxR5XA.jpeg)
 
 
 
 ![“TRIESTE \(Italy\)
-Volunteers have moved to the old port area \(zona “porto vecchio”\) and there they continue to distribute clothes food care to refugees arriving tired injured and hungry from the Balkan route\.” \(translation\)Photos by [L’ ALTRA VOCE](https://www.facebook.com/permalink.php?story_fbid=2866122606814020&id=1245970425495921)](assets/e52d9427ebd6/1*vMKrab3pn0H6MNUNhWBUGA.jpeg)
+Volunteers have moved to the old port area \(zona “porto vecchio”\) and there they continue to distribute clothes food care to refugees arriving tired injured and hungry from the Balkan route\.” \(translation\)Photos by [L’ ALTRA VOCE](https://www.facebook.com/permalink.php?story_fbid=2866122606814020&id=1245970425495921)](../assets/e52d9427ebd6/1*vMKrab3pn0H6MNUNhWBUGA.jpeg)
 
 “TRIESTE \(Italy\)
 Volunteers have moved to the old port area \(zona “porto vecchio”\) and there they continue to distribute clothes food care to refugees arriving tired injured and hungry from the Balkan route\.” \(translation\)Photos by [L’ ALTRA VOCE](https://www.facebook.com/permalink.php?story_fbid=2866122606814020&id=1245970425495921)
 #### BOSNIA AND HERZEGOVINA
 
 
-![“We have concerns regarding the health of refugees at Bihac Bihac Bira Camp\. Lines were made on the ground to outline the distance between one person and another during the distribution of meals\. What we don’t understand is: what exactly are they for? People in the field still sleep attacked in containers, eating attacked\. The times for food distribution are endless and many times it is not fed to everyone\. There are more important things that should be weighed to\. Lines are nothing, these kid’s health is in danger anyway\.” \(translation\) Photo by [L’ ALTRA VOCE](https://www.facebook.com/permalink.php?story_fbid=2865020653590882&id=1245970425495921&hc_location=ufi)](assets/e52d9427ebd6/1*3HATrbUNNoCFHOjkj4H9Gg.jpeg)
+![“We have concerns regarding the health of refugees at Bihac Bihac Bira Camp\. Lines were made on the ground to outline the distance between one person and another during the distribution of meals\. What we don’t understand is: what exactly are they for? People in the field still sleep attacked in containers, eating attacked\. The times for food distribution are endless and many times it is not fed to everyone\. There are more important things that should be weighed to\. Lines are nothing, these kid’s health is in danger anyway\.” \(translation\) Photo by [L’ ALTRA VOCE](https://www.facebook.com/permalink.php?story_fbid=2865020653590882&id=1245970425495921&hc_location=ufi)](../assets/e52d9427ebd6/1*3HATrbUNNoCFHOjkj4H9Gg.jpeg)
 
 “We have concerns regarding the health of refugees at Bihac Bihac Bira Camp\. Lines were made on the ground to outline the distance between one person and another during the distribution of meals\. What we don’t understand is: what exactly are they for? People in the field still sleep attacked in containers, eating attacked\. The times for food distribution are endless and many times it is not fed to everyone\. There are more important things that should be weighed to\. Lines are nothing, these kid’s health is in danger anyway\.” \(translation\) Photo by [L’ ALTRA VOCE](https://www.facebook.com/permalink.php?story_fbid=2865020653590882&id=1245970425495921&hc_location=ufi)
 
@@ -266,7 +266,7 @@ Volunteers have moved to the old port area \(zona “porto vecchio”\) and ther
 
 
 ![“BALKANIC ROKE — Sombor camp \(Serbia\)
-Now there are lots of people in this camp, maybe about 1000, and they keep moving more here from various camps and squats\. More than 600 live in tents \(and it’s snowing right now\) \. Food is not enough for everyone, you have to line up and wait a couple hours… sometimes for nothing\. Even blankets are scarce\. There is a doctor who visits one or two hours a day\. Too little\.” \(translation\) Photo by [L’ ALTRA VOCE](https://www.facebook.com/1245970425495921/photos/a.1266360583456905/2865425873550360/?type=3&theater)](assets/e52d9427ebd6/1*SeLmspgOhJoi2OCmOkXi3Q.jpeg)
+Now there are lots of people in this camp, maybe about 1000, and they keep moving more here from various camps and squats\. More than 600 live in tents \(and it’s snowing right now\) \. Food is not enough for everyone, you have to line up and wait a couple hours… sometimes for nothing\. Even blankets are scarce\. There is a doctor who visits one or two hours a day\. Too little\.” \(translation\) Photo by [L’ ALTRA VOCE](https://www.facebook.com/1245970425495921/photos/a.1266360583456905/2865425873550360/?type=3&theater)](../assets/e52d9427ebd6/1*SeLmspgOhJoi2OCmOkXi3Q.jpeg)
 
 “BALKANIC ROKE — Sombor camp \(Serbia\)
 Now there are lots of people in this camp, maybe about 1000, and they keep moving more here from various camps and squats\. More than 600 live in tents \(and it’s snowing right now\) \. Food is not enough for everyone, you have to line up and wait a couple hours… sometimes for nothing\. Even blankets are scarce\. There is a doctor who visits one or two hours a day\. Too little\.” \(translation\) Photo by [L’ ALTRA VOCE](https://www.facebook.com/1245970425495921/photos/a.1266360583456905/2865425873550360/?type=3&theater)
@@ -301,7 +301,7 @@ Follow the news outlet for daily info [here](https://www.proasyl.de/hintergrund/
 There are reported cases so far in the area, but tests have yet to be conducted\. People are forced by confinement not to leave the camp, but evictions in the field are continuing\. More [here](https://reporterre.net/Les-migrants-de-Calais-abandonnes-face-au-coronavirus?fbclid=IwAR1z9SjjngkfoA2tSHP9GdxZ5GyxVm3Wxlvxo7BwkYAYp92Jojk4ojsCirw) \.
 
 
-![“\[PARIS \* FOOD HELP\] Hello the capital, if possible, spread the message to people in need of food aid you meet: we organize in partnership with the City of Paris and the state and from Tuesday the daily distribution of 5000 Packed baskets from 9 am to 14 pm, in 3 neighborhoods of Paris including the Great Neighbors\! More sites will be opening soon\! Below the details” \(translation\) Photo by [William Dufourcq](https://www.facebook.com/photo.php?fbid=10158334755429225&set=a.10152525937979225&type=3&theater&ifg=1)](assets/e52d9427ebd6/1*Qui0QvMwo2XzIWB5SLE3Nw.jpeg)
+![“\[PARIS \* FOOD HELP\] Hello the capital, if possible, spread the message to people in need of food aid you meet: we organize in partnership with the City of Paris and the state and from Tuesday the daily distribution of 5000 Packed baskets from 9 am to 14 pm, in 3 neighborhoods of Paris including the Great Neighbors\! More sites will be opening soon\! Below the details” \(translation\) Photo by [William Dufourcq](https://www.facebook.com/photo.php?fbid=10158334755429225&set=a.10152525937979225&type=3&theater&ifg=1)](../assets/e52d9427ebd6/1*Qui0QvMwo2XzIWB5SLE3Nw.jpeg)
 
 “\[PARIS \* FOOD HELP\] Hello the capital, if possible, spread the message to people in need of food aid you meet: we organize in partnership with the City of Paris and the state and from Tuesday the daily distribution of 5000 Packed baskets from 9 am to 14 pm, in 3 neighborhoods of Paris including the Great Neighbors\! More sites will be opening soon\! Below the details” \(translation\) Photo by [William Dufourcq](https://www.facebook.com/photo.php?fbid=10158334755429225&set=a.10152525937979225&type=3&theater&ifg=1)
 #### GENERAL
@@ -327,7 +327,7 @@ Lighthouse Relief created this helpful list of things you can still do while soc
 
 
 
-![[Details here\.](https://www.facebook.com/photo.php?fbid=10218541954353232&set=gm.1378406739033436&type=3&theater&ifg=1) Photo by Stacy Brown](assets/e52d9427ebd6/1*bRG4WGcmsVmuSNGTgoUvmg.jpeg)
+![[Details here\.](https://www.facebook.com/photo.php?fbid=10218541954353232&set=gm.1378406739033436&type=3&theater&ifg=1) Photo by Stacy Brown](../assets/e52d9427ebd6/1*bRG4WGcmsVmuSNGTgoUvmg.jpeg)
 
 [Details here\.](https://www.facebook.com/photo.php?fbid=10218541954353232&set=gm.1378406739033436&type=3&theater&ifg=1) Photo by Stacy Brown
 #### Here is is helpful [COVID\-19 RESOURCE GUIDE BY DISTRIBUTE AID](https://www.facebook.com/groups/AthensVolunteersInformation/permalink/2027102594088694/?hc_location=ufi)

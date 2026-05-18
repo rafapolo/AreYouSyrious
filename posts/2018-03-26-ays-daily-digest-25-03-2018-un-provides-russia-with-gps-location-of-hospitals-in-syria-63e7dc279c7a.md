@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 25/03/2018: UN provides Russia with GPS location of hospitals in Syria
+title: "AYS Daily Digest 25/03/2018: UN provides Russia with GPS location of hospitals in Syria"
 author: Are You Syrious?
 date: 2018-03-26T13:29:17.534+0100
 last_modified_at: 2018-03-26T16:11:40.094+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,balkans,syria]
 description: Hospital bombed days after UN was provided with GPS location// Thousands of Syrians flee Eastern Ghouta// Turkey announces full control of…
 image:
-  path: assets/63e7dc279c7a/1*ef6_pCFubvDcxyyES4Cpmg.jpeg
+  path: ../assets/63e7dc279c7a/1*ef6_pCFubvDcxyyES4Cpmg.jpeg
 ---
 
 ### AYS Daily Digest 25/03/2018: UN provides Russia with GPS location of hospitals in Syria
@@ -15,7 +15,7 @@ image:
 _Hospital bombed days after UN was provided with GPS location// Thousands of Syrians flee Eastern Ghouta// Turkey announces full control of Afrin// Balkan Weather Report// Info from Libya// News from Greece// Italy//Germany// France_
 
 
-![Source: Art Against — Roses will grow after all the wounds by Tamer Turkmane](assets/63e7dc279c7a/1*ef6_pCFubvDcxyyES4Cpmg.jpeg)
+![Source: Art Against — Roses will grow after all the wounds by Tamer Turkmane](../assets/63e7dc279c7a/1*ef6_pCFubvDcxyyES4Cpmg.jpeg)
 
 Source: Art Against — Roses will grow after all the wounds by Tamer Turkmane
 ### Feature
@@ -179,7 +179,7 @@ It has been reported that [\#UNHCR](https://www.facebook.com/hashtag/unhcr?sourc
 
 
 
-![Source: Arash Hampay](assets/63e7dc279c7a/1*HXO3ka6pTaSfyx_Aj5c06Q.jpeg)
+![Source: Arash Hampay](../assets/63e7dc279c7a/1*HXO3ka6pTaSfyx_Aj5c06Q.jpeg)
 
 Source: Arash Hampay
 

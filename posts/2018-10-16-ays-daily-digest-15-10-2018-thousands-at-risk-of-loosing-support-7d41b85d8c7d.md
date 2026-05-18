@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 15/10/2018: Thousands at risk of loosing support
+title: "AYS DAILY DIGEST 15/10/2018: Thousands at risk of loosing support"
 author: Are You Syrious?
 date: 2018-10-16T00:16:13.248+0100
 last_modified_at: 2018-10-16T11:12:47.985+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,greece,lesvos,sea,bosnia]
 description: Recognized refugees in Greece will be entiteled to the same state assistance as low-income individuals / Why children in Moria do not…
 image:
-  path: assets/7d41b85d8c7d/1*ua0hTWQID9cP1jMk0G0CQA.jpeg
+  path: ../assets/7d41b85d8c7d/1*ua0hTWQID9cP1jMk0G0CQA.jpeg
 ---
 
 ### AYS DAILY DIGEST 15/10/2018: Thousands at risk of losing support
 #### Recognized refugees in Greece will be entitled to the same state assistance as low\-income individuals / Why children in Moria do not attend public schools / 80,000 people arrived Europe by sea this year / First asylum seeker becomes professional football player in Bosnia
 
 
-![2\.000 refugee children “living” inside Moria do not have access to education\. Credits: [NoBorders](https://twitter.com/refugees_gr/status/1051916593679216640?s=21)](assets/7d41b85d8c7d/1*ua0hTWQID9cP1jMk0G0CQA.jpeg)
+![2\.000 refugee children “living” inside Moria do not have access to education\. Credits: [NoBorders](https://twitter.com/refugees_gr/status/1051916593679216640?s=21)](../assets/7d41b85d8c7d/1*ua0hTWQID9cP1jMk0G0CQA.jpeg)
 
 2\.000 refugee children “living” inside Moria do not have access to education\. Credits: [NoBorders](https://twitter.com/refugees_gr/status/1051916593679216640?s=21)
 ### Feature: Thousands in Greece will be left on their own
@@ -100,7 +100,7 @@ The Greek Forum of Refugees released its weekly schedule for interpretation serv
 After activists of Chez Jesus occupied the square in Claviere and set up a tent to help people in need, the police came to evict the square\. The group refused to leave, despite threats of seizing all materials and ID controls\. After almost four hours they decided to dismantle their tent and leave for France after a couple of van controls\.
 
 
-![Police forcing the activists to leave the site\. Credits: [Chez Jesus](https://www.facebook.com/permalink.php?story_fbid=479350265883708&id=362786637540072&hc_location=ufi)](assets/7d41b85d8c7d/1*lwNGY2codnBC5t2_MF-gZA.jpeg)
+![Police forcing the activists to leave the site\. Credits: [Chez Jesus](https://www.facebook.com/permalink.php?story_fbid=479350265883708&id=362786637540072&hc_location=ufi)](../assets/7d41b85d8c7d/1*lwNGY2codnBC5t2_MF-gZA.jpeg)
 
 Police forcing the activists to leave the site\. Credits: [Chez Jesus](https://www.facebook.com/permalink.php?story_fbid=479350265883708&id=362786637540072&hc_location=ufi)
 ### Serbia

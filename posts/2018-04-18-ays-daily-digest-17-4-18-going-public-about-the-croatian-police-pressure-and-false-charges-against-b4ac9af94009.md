@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 17/4/18: Going public about the Croatian police pressure and false charges against…
+title: "AYS Daily Digest 17/4/18: Going public about the Croatian police pressure and false charges against…"
 author: Are You Syrious?
 date: 2018-04-18T11:23:17.790+0100
 last_modified_at: 2018-04-18T11:23:17.790+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,police,greece,europe]
 description: Protest was held on Lesvos to stand up against the mistreatment and denial of rights of the people held in Moria / The Council of State in…
 image:
-  path: assets/b4ac9af94009/1*pv-A0ahyKQqQjn7K6S8wKw.jpeg
+  path: ../assets/b4ac9af94009/1*pv-A0ahyKQqQjn7K6S8wKw.jpeg
 ---
 
 ### AYS Daily Digest 17/4/18: Going public about the Croatian police pressure and false charges against an AYS volunteer
 #### Protest was held on Lesvos to stand up against the mistreatment and denial of rights of the people held in Moria / The Council of State in Greece annulled geographical restrictions on asylum seekers’ freedom of movement in the Greek islands / AYS and CMS coming out with stories of ongoing intimidation from the police / More boats intercepted by the Libyan Coast Guard / …
 
 
-![Lesvos protest \(Photo: [NoBorders](https://www.facebook.com/nobordersnetwork/?hc_location=group_dialog) \)](assets/b4ac9af94009/1*pv-A0ahyKQqQjn7K6S8wKw.jpeg)
+![Lesvos protest \(Photo: [NoBorders](https://www.facebook.com/nobordersnetwork/?hc_location=group_dialog) \)](../assets/b4ac9af94009/1*pv-A0ahyKQqQjn7K6S8wKw.jpeg)
 
 Lesvos protest \(Photo: [NoBorders](https://www.facebook.com/nobordersnetwork/?hc_location=group_dialog) \)
 #### FEATURE
@@ -48,11 +48,11 @@ And we cannot accept the criminalization of our legal work for the protection of
 #### Sea
 
 
-![](assets/b4ac9af94009/1*xN2UXdGzATr6t8YncuJDWg.jpeg)
+![](../assets/b4ac9af94009/1*xN2UXdGzATr6t8YncuJDWg.jpeg)
 
 
 
-![Landing at Katarakis beach [— Salvamento Marítimo Humanitario](https://www.facebook.com/smhumanitario/)](assets/b4ac9af94009/1*sECBn3nfaBAarPDL4KSXVw.jpeg)
+![Landing at Katarakis beach [— Salvamento Marítimo Humanitario](https://www.facebook.com/smhumanitario/)](../assets/b4ac9af94009/1*sECBn3nfaBAarPDL4KSXVw.jpeg)
 
 Landing at Katarakis beach [— Salvamento Marítimo Humanitario](https://www.facebook.com/smhumanitario/)
 
@@ -64,7 +64,7 @@ Third boat landed on Katarraktis Beach on Chios, with 45 people on board:
 21 children, 10 women and 14 men\.
 
 
-![“The Greek islands are deeply unprepared for the expected annual surge in refugee numbers arriving this spring and summer\. “— [**Safe Passage**](https://www.facebook.com/SafePassageInt/)](assets/b4ac9af94009/1*MAwh1mHzwSmYbAHxxsdLPA.png)
+![“The Greek islands are deeply unprepared for the expected annual surge in refugee numbers arriving this spring and summer\. “— [**Safe Passage**](https://www.facebook.com/SafePassageInt/)](../assets/b4ac9af94009/1*MAwh1mHzwSmYbAHxxsdLPA.png)
 
 “The Greek islands are deeply unprepared for the expected annual surge in refugee numbers arriving this spring and summer\. “— [**Safe Passage**](https://www.facebook.com/SafePassageInt/)
 #### Land
@@ -82,11 +82,11 @@ Greek authorities [reportedly](http://www.ekathimerini.com/227739/article/ekathi
 A demonstration of about 400 people \(according to the [local media](http://www.lesvosnews.net/articles/news-categories/koinonia/diadilosi-prosfygon-sti-mytilini-9000-o-synolikos-arithmos-poy) \) heading to the Sappho Square, including many women and children from Syria, Iraq, Afghanistan and Pakistan began around 1 in the morning from Moria\. The rumour about a death of man whose cardiac health issues were supposedly not looked after was also denounced\. Still, his condition remains llife\-threatening as he is reportedly artificially being kept alive\.
 
 
-![](assets/b4ac9af94009/1*Ate5TJbaNE9W0MUJd5V1yQ.jpeg)
+![](../assets/b4ac9af94009/1*Ate5TJbaNE9W0MUJd5V1yQ.jpeg)
 
 
 
-![Photos: [Greek Forum of Refugees](https://www.facebook.com/Greekforumofrefugees/?hc_ref=ARTrSKD1PsUkMZ2mLHb4161cgCz2vr8GziitxdwoPktbM6oZudAGSoj_oYT5FOPhcmg)](assets/b4ac9af94009/1*dGJwo9AlMqJXkwSF69KOng.jpeg)
+![Photos: [Greek Forum of Refugees](https://www.facebook.com/Greekforumofrefugees/?hc_ref=ARTrSKD1PsUkMZ2mLHb4161cgCz2vr8GziitxdwoPktbM6oZudAGSoj_oYT5FOPhcmg)](../assets/b4ac9af94009/1*dGJwo9AlMqJXkwSF69KOng.jpeg)
 
 Photos: [Greek Forum of Refugees](https://www.facebook.com/Greekforumofrefugees/?hc_ref=ARTrSKD1PsUkMZ2mLHb4161cgCz2vr8GziitxdwoPktbM6oZudAGSoj_oYT5FOPhcmg)
 ### Freedom of movement for the newly arrived
@@ -106,14 +106,14 @@ You should bring to the travel agency you and your family’s asylum seeker card
 #### FRANCE
 
 
-![“For the latest English summaries of French case law on Afghanistan and the situation throughout the country amounting to an internal armed conflict see here: [https://bit\.ly/2H66fAX](https://bit.ly/2H66fAX) ” — [EDAL European Database of Asylum Law](https://www.facebook.com/asylumlawdatabase.eu/?hc_location=group_dialog)](assets/b4ac9af94009/1*uiaYGNuW8u9AhqC4wcW8MA.png)
+![“For the latest English summaries of French case law on Afghanistan and the situation throughout the country amounting to an internal armed conflict see here: [https://bit\.ly/2H66fAX](https://bit.ly/2H66fAX) ” — [EDAL European Database of Asylum Law](https://www.facebook.com/asylumlawdatabase.eu/?hc_location=group_dialog)](../assets/b4ac9af94009/1*uiaYGNuW8u9AhqC4wcW8MA.png)
 
 “For the latest English summaries of French case law on Afghanistan and the situation throughout the country amounting to an internal armed conflict see here: [https://bit\.ly/2H66fAX](https://bit.ly/2H66fAX) ” — [EDAL European Database of Asylum Law](https://www.facebook.com/asylumlawdatabase.eu/?hc_location=group_dialog)
 #### GERMANY
 
 
 ![There are persistant rumours that the next charter from Germany will leave next Tuesday, April 24th\. 
-Please stay aware and consult a lawyer immediately if you might be affected\. — [ECADA — European Citizens Against Deportation to Afghanistan](https://www.facebook.com/ecada2017/?hc_ref=ARR86-WpY4z-aGQVeP-cS0vEN5mRBB6hk2HlynDSIFmxnwl1MkqyPkWsibq7t3-d7H4&fref=nf)](assets/b4ac9af94009/1*sBLIXZiSZQUcVYrB8VTMgA.jpeg)
+Please stay aware and consult a lawyer immediately if you might be affected\. — [ECADA — European Citizens Against Deportation to Afghanistan](https://www.facebook.com/ecada2017/?hc_ref=ARR86-WpY4z-aGQVeP-cS0vEN5mRBB6hk2HlynDSIFmxnwl1MkqyPkWsibq7t3-d7H4&fref=nf)](../assets/b4ac9af94009/1*sBLIXZiSZQUcVYrB8VTMgA.jpeg)
 
 There are persistant rumours that the next charter from Germany will leave next Tuesday, April 24th\. 
 Please stay aware and consult a lawyer immediately if you might be affected\. — [ECADA — European Citizens Against Deportation to Afghanistan](https://www.facebook.com/ecada2017/?hc_ref=ARR86-WpY4z-aGQVeP-cS0vEN5mRBB6hk2HlynDSIFmxnwl1MkqyPkWsibq7t3-d7H4&fref=nf)
@@ -129,7 +129,7 @@ They urgently need:
 For questions and more detailed info, please contact the organization or write directly to [Christiane Beckmann](https://www.facebook.com/trallali.trallala?hc_location=group) \.
 
 
-![](assets/b4ac9af94009/1*gGtfaWS6Y7D64n0fR-IIXA.jpeg)
+![](../assets/b4ac9af94009/1*gGtfaWS6Y7D64n0fR-IIXA.jpeg)
 
 #### UK
 
@@ -140,7 +140,7 @@ ONE CHUCRH, Gloucester Place
 Sat, 21st from 3\.30 to 7\.30pm
 
 
-![](assets/b4ac9af94009/1*-nOHbecYpKhi2WRJ4cg4rw.jpeg)
+![](../assets/b4ac9af94009/1*-nOHbecYpKhi2WRJ4cg4rw.jpeg)
 
 #### SEA
 

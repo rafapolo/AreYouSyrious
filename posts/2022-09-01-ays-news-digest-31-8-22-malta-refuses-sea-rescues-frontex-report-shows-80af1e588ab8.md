@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 31/8/22: Malta refuses sea rescues — Frontex report shows
+title: "AYS News Digest 31/8/22: Malta refuses sea rescues — Frontex report shows"
 author: Are You Syrious?
 date: 2022-09-01T09:48:26.003+0100
 last_modified_at: 2022-09-01T21:21:25.814+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,malta,lithuania,united-kingdom]
 description: FEATURE
 image:
-  path: assets/80af1e588ab8/1*JhOguYM3yWobTeMTIsix3Q.jpeg
+  path: ../assets/80af1e588ab8/1*JhOguYM3yWobTeMTIsix3Q.jpeg
 ---
 
 ### AYS News Digest 31/8/22: Malta refuses sea rescues, Frontex report shows
 #### New evidence on how Maltese authorities neglect their duties // UK prepared for next round of Rwanda deportations // New pushbacks from Greece // MSF criticizes **discrimination** of certain nationalities in Lithuania // New limbo for non\-citizen Ukrainians in Germany
 
 
-![In the recent months, several incidents of pullbacks from Maltese SAR zone and their refusal to rescue have been documented\. Photo Credit: [Sea\-Watch via Twitter](https://twitter.com/seawatchcrew/status/1376552619192254470)](assets/80af1e588ab8/1*JhOguYM3yWobTeMTIsix3Q.jpeg)
+![In the recent months, several incidents of pullbacks from Maltese SAR zone and their refusal to rescue have been documented\. Photo Credit: [Sea\-Watch via Twitter](https://twitter.com/seawatchcrew/status/1376552619192254470)](../assets/80af1e588ab8/1*JhOguYM3yWobTeMTIsix3Q.jpeg)
 
 In the recent months, several incidents of pullbacks from Maltese SAR zone and their refusal to rescue have been documented\. Photo Credit: [Sea\-Watch via Twitter](https://twitter.com/seawatchcrew/status/1376552619192254470)
 ### FEATURE
@@ -64,13 +64,13 @@ The mild language and use of Fundamental Rights seems gravely at odds with the s
 [This article about the activities of women at the Tunisian\-Libyan border,](https://www.meltingpot.org/2022/08/la-resistenza-delle-donne-migranti-e-rifugiate-al-confine-tunisino-libico/?fbclid=IwAR1iIplQRKOh9aXNA7FgBt5SMK2un31IHpqTVxS0xrTee3xla8MS-g0Cy4E) highlights the horror that people are fleeing from when they leave Libya\. People from sub\-Saharan Africa who have reached Libya face racism, sexual exploitation, lack of healthcare and worse\. Women living in informal settlements have found an expression of this oppression through work with textile crafts\.
 
 
-![Photo Credit: _Silvia Di Meo via [meltingpot\.org](https://www.meltingpot.org/2022/08/la-resistenza-delle-donne-migranti-e-rifugiate-al-confine-tunisino-libico/?fbclid=IwAR1iIplQRKOh9aXNA7FgBt5SMK2un31IHpqTVxS0xrTee3xla8MS-g0Cy4E)_](assets/80af1e588ab8/0*N1TyqLBA-OXEGOUO)
+![Photo Credit: _Silvia Di Meo via [meltingpot\.org](https://www.meltingpot.org/2022/08/la-resistenza-delle-donne-migranti-e-rifugiate-al-confine-tunisino-libico/?fbclid=IwAR1iIplQRKOh9aXNA7FgBt5SMK2un31IHpqTVxS0xrTee3xla8MS-g0Cy4E)_](../assets/80af1e588ab8/0*N1TyqLBA-OXEGOUO)
 
 Photo Credit: _Silvia Di Meo via [meltingpot\.org](https://www.meltingpot.org/2022/08/la-resistenza-delle-donne-migranti-e-rifugiate-al-confine-tunisino-libico/?fbclid=IwAR1iIplQRKOh9aXNA7FgBt5SMK2un31IHpqTVxS0xrTee3xla8MS-g0Cy4E)_
 ### UNITED KINGDOM
 
 
-![Photo Credit: [JCWI via Twitter](https://twitter.com/JCWI_UK/status/1564947359007739904)](assets/80af1e588ab8/0*0Tzmq7UoI3C3d9qA)
+![Photo Credit: [JCWI via Twitter](https://twitter.com/JCWI_UK/status/1564947359007739904)](../assets/80af1e588ab8/0*0Tzmq7UoI3C3d9qA)
 
 Photo Credit: [JCWI via Twitter](https://twitter.com/JCWI_UK/status/1564947359007739904)
 

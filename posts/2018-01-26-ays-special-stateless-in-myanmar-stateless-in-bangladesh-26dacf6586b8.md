@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Stateless in Myanmar, stateless in Bangladesh
+title: "AYS SPECIAL: Stateless in Myanmar, stateless in Bangladesh"
 author: Are You Syrious?
 date: 2018-01-26T09:49:26.799+0000
 last_modified_at: 2018-03-01T14:13:37.652+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,rohingya,myanmar,bangladesh,special]
 description: Bilateral repatriation deal to return 750 000 Rohingya refugees temporarily postponed
 image:
-  path: assets/26dacf6586b8/1*oHS2bAZyFTnAfrJp0KkUgw.jpeg
+  path: ../assets/26dacf6586b8/1*oHS2bAZyFTnAfrJp0KkUgw.jpeg
 ---
 
 ### AYS SPECIAL: Stateless in Myanmar, stateless in Bangladesh
@@ -15,7 +15,7 @@ image:
 _Bilateral repatriation deal to return 750 000 Rohingya refugees temporarily postponed_
 
 
-![_Just one section of the massive expansion to Kutupalong refugee camp\. Prior to over 660,000 new arrivals since Aug 25th, this camp had 34,000 registered refugees\. This section alone now has 15,000 new arrivals\._](assets/26dacf6586b8/1*oHS2bAZyFTnAfrJp0KkUgw.jpeg)
+![_Just one section of the massive expansion to Kutupalong refugee camp\. Prior to over 660,000 new arrivals since Aug 25th, this camp had 34,000 registered refugees\. This section alone now has 15,000 new arrivals\._](../assets/26dacf6586b8/1*oHS2bAZyFTnAfrJp0KkUgw.jpeg)
 
 _Just one section of the massive expansion to Kutupalong refugee camp\. Prior to over 660,000 new arrivals since Aug 25th, this camp had 34,000 registered refugees\. This section alone now has 15,000 new arrivals\._
 
@@ -36,7 +36,7 @@ According to the UN over 900,000 Rohingya refugees now live in the Cox’s Bazar
 Despite multiple public statements honoring a voluntary process by several officials with the Refugee Relief and Repatriation Commissioner \(RRRC\) the Bangladeshi government has already declared the plan will cover everyone who fled Myanmar since October 2016\. This leaves no doubt that many would be forced to move against their will\.
 
 
-![_An entire generation of Rohingya has been born here\. 34,000 Rohingya refugees have been in Kutupalong since the 1990s\._](assets/26dacf6586b8/1*BFBw_apmS7DpOj2tpit71w.png)
+![_An entire generation of Rohingya has been born here\. 34,000 Rohingya refugees have been in Kutupalong since the 1990s\._](../assets/26dacf6586b8/1*BFBw_apmS7DpOj2tpit71w.png)
 
 _An entire generation of Rohingya has been born here\. 34,000 Rohingya refugees have been in Kutupalong since the 1990s\._
 
@@ -47,7 +47,7 @@ Still traumatized after unimaginable physical and psychological violence faced b
 Given the history of relations with Rohingya and the political situation in Myanmar, it seems unlikely any of these demands will be met any time soon\.
 
 
-![_As the camp expands, basic emergency shelters made of flimsy tarps and thin bamboo have taken over the countryside\. This house, which also isn’t prepared for the Monsoon season, represents what a permanent structure looks like in Kutupalong\._](assets/26dacf6586b8/1*BUTd9QLCyyDYX37snIziAQ.png)
+![_As the camp expands, basic emergency shelters made of flimsy tarps and thin bamboo have taken over the countryside\. This house, which also isn’t prepared for the Monsoon season, represents what a permanent structure looks like in Kutupalong\._](../assets/26dacf6586b8/1*BUTd9QLCyyDYX37snIziAQ.png)
 
 _As the camp expands, basic emergency shelters made of flimsy tarps and thin bamboo have taken over the countryside\. This house, which also isn’t prepared for the Monsoon season, represents what a permanent structure looks like in Kutupalong\._
 
@@ -58,7 +58,7 @@ For example, Rohingya couples in the northern towns of Maungdaw and Buthidaung a
 After major crackdowns on Rohingya civilians by the Army, two major influxes of refugees fled to Bangladesh in the 1970s and 1990s\. Despite receiving official asylum status, most who fled to Bangladesh continue to live in the camps built upon their arrival, with an entire generation having been born in exile\.
 
 
-![_New emergency shelters have been erected absolutely everywhere, including directly next to raw sewage\. The rains are yet to arrive, but these houses already deal with regular flooding\._](assets/26dacf6586b8/1*3xSVBHJ-wFcSBNc4nASM6w.png)
+![_New emergency shelters have been erected absolutely everywhere, including directly next to raw sewage\. The rains are yet to arrive, but these houses already deal with regular flooding\._](../assets/26dacf6586b8/1*3xSVBHJ-wFcSBNc4nASM6w.png)
 
 _New emergency shelters have been erected absolutely everywhere, including directly next to raw sewage\. The rains are yet to arrive, but these houses already deal with regular flooding\._
 
@@ -71,7 +71,7 @@ While the army claimed all were rebels, Doctors Without Borders reported 6,700 k
 French President Emmanuel Macron, who flatly called it “a genocide” at the UN General Assembly meeting in September, stated he would work with other members of the UN Security Council\.
 
 
-![_Rohingya are not legally allowed to work or pursue formal education in Bangladesh\. Distributions are far from adequate, so an intense and nonstop market informal economy has evolved\. Each bundle of wood costs 50 Taka \($0\.60\), and an average home needs at least 2 per day for cooking and heat\._](assets/26dacf6586b8/1*gLmeZw7ZXZNlU1omDulI-w.png)
+![_Rohingya are not legally allowed to work or pursue formal education in Bangladesh\. Distributions are far from adequate, so an intense and nonstop market informal economy has evolved\. Each bundle of wood costs 50 Taka \($0\.60\), and an average home needs at least 2 per day for cooking and heat\._](../assets/26dacf6586b8/1*gLmeZw7ZXZNlU1omDulI-w.png)
 
 _Rohingya are not legally allowed to work or pursue formal education in Bangladesh\. Distributions are far from adequate, so an intense and nonstop market informal economy has evolved\. Each bundle of wood costs 50 Taka \($0\.60\), and an average home needs at least 2 per day for cooking and heat\._
 
@@ -84,7 +84,7 @@ Lately Bangladesh’s foreign minister agreed with Macron’s statement, however
 From an economic point of view, Bangladesh simply can’t handle more than 660 000 new Rohingya to enter the labor market of a country that can’t secure stable employment for its own citizens\. Local NGO leaders, who have been building structures and providing services since September, believe the government has denied refugee status to avoid Rohingya from feeling that Bangladesh will host them for a longer time\.
 
 
-![_On the current outskirts of the main camp area, about a 45minute walk from the center of Kutupalong, some NGOs have banded together in a group called \#uniteforcharity\. They are deep into the process of building 700 family homes that will survive the Monsoons, and they employ Rohingya throughout the process\._](assets/26dacf6586b8/1*hobvcaK_Gzbt8vag0NgD0g.png)
+![_On the current outskirts of the main camp area, about a 45minute walk from the center of Kutupalong, some NGOs have banded together in a group called \#uniteforcharity\. They are deep into the process of building 700 family homes that will survive the Monsoons, and they employ Rohingya throughout the process\._](../assets/26dacf6586b8/1*hobvcaK_Gzbt8vag0NgD0g.png)
 
 _On the current outskirts of the main camp area, about a 45minute walk from the center of Kutupalong, some NGOs have banded together in a group called \#uniteforcharity\. They are deep into the process of building 700 family homes that will survive the Monsoons, and they employ Rohingya throughout the process\._
 
@@ -99,7 +99,7 @@ Currently, some 90,000 people have been enrolled in WFP’s new e\-voucher progr
 Few opportunities are available for Rohingya in the camp\. Sadly, the luckiest are those who have grown up here as registered refugees\.
 
 
-![80% Rohingya are relying on life\-saving assistance\. World Food Program is providing food and vouchers to more than 700,000 refugees in the area of Cox’s Bazar\. Food distributions consist of rice, vegetable oil and lentils\.](assets/26dacf6586b8/1*JAzLmhjBGVt5KpC3pTWmnw.jpeg)
+![80% Rohingya are relying on life\-saving assistance\. World Food Program is providing food and vouchers to more than 700,000 refugees in the area of Cox’s Bazar\. Food distributions consist of rice, vegetable oil and lentils\.](../assets/26dacf6586b8/1*JAzLmhjBGVt5KpC3pTWmnw.jpeg)
 
 80% Rohingya are relying on life\-saving assistance\. World Food Program is providing food and vouchers to more than 700,000 refugees in the area of Cox’s Bazar\. Food distributions consist of rice, vegetable oil and lentils\.
 

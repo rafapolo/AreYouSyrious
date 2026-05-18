@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 14/9: Refugee squat Notara 26 is open again
+title: "AYS News Digest 14/9: Refugee squat Notara 26 is open again"
 author: Are You Syrious?
 date: 2016-09-15T09:38:55.985+0100
 last_modified_at: 2016-09-15T12:09:43.421+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: Anti-refugee riots on Chios. Calls for medical professionals, volunteers and donations. Volunteers working hard on providing refugees with…
 image:
-  path: assets/5d8c700a38c2/1*KcBBYtNkYBByG7i_Qj7K6A.jpeg
+  path: ../assets/5d8c700a38c2/1*KcBBYtNkYBByG7i_Qj7K6A.jpeg
 ---
 
 ### AYS News Digest 14/9: Refugee squat Notara 26 is open again
@@ -19,7 +19,7 @@ image:
 
 
 
-![Credits: [**Refugee Accommodation and Solidarity Space City Plaza**](https://www.facebook.com/sol2refugeesen/)](assets/5d8c700a38c2/1*KcBBYtNkYBByG7i_Qj7K6A.jpeg)
+![Credits: [**Refugee Accommodation and Solidarity Space City Plaza**](https://www.facebook.com/sol2refugeesen/)](../assets/5d8c700a38c2/1*KcBBYtNkYBByG7i_Qj7K6A.jpeg)
 
 Credits: [**Refugee Accommodation and Solidarity Space City Plaza**](https://www.facebook.com/sol2refugeesen/)
 #### Turkey
@@ -68,30 +68,30 @@ That being said, more donations are needed and would be greatly appreicated\. He
 ### Refugee squat Notara 26 is open again
 
 
-![](assets/5d8c700a38c2/1*AVMDseLedkjhfab-P4gisw.jpeg)
+![](../assets/5d8c700a38c2/1*AVMDseLedkjhfab-P4gisw.jpeg)
 
 
 
-![Credits: [**Refugee Accommodation and Solidarity Space City Plaza**](https://www.facebook.com/sol2refugeesen/)](assets/5d8c700a38c2/1*KcBBYtNkYBByG7i_Qj7K6A.jpeg)
-
-Credits: [**Refugee Accommodation and Solidarity Space City Plaza**](https://www.facebook.com/sol2refugeesen/)
-
-
-![Credits: [**Refugee Accommodation and Solidarity Space City Plaza**](https://www.facebook.com/sol2refugeesen/)](assets/5d8c700a38c2/1*NcIvcRf0a5qc4RTXfZhWVA.jpeg)
+![Credits: [**Refugee Accommodation and Solidarity Space City Plaza**](https://www.facebook.com/sol2refugeesen/)](../assets/5d8c700a38c2/1*KcBBYtNkYBByG7i_Qj7K6A.jpeg)
 
 Credits: [**Refugee Accommodation and Solidarity Space City Plaza**](https://www.facebook.com/sol2refugeesen/)
 
 
-![Credits: [**Refugee Accommodation and Solidarity Space City Plaza**](https://www.facebook.com/sol2refugeesen/)](assets/5d8c700a38c2/1*7bljC5nbto6NTTjvLpqtVQ.jpeg)
+![Credits: [**Refugee Accommodation and Solidarity Space City Plaza**](https://www.facebook.com/sol2refugeesen/)](../assets/5d8c700a38c2/1*NcIvcRf0a5qc4RTXfZhWVA.jpeg)
 
 Credits: [**Refugee Accommodation and Solidarity Space City Plaza**](https://www.facebook.com/sol2refugeesen/)
 
 
-![](assets/5d8c700a38c2/1*d_a8ik2MNkl7nEaeE8Z4nA.jpeg)
+![Credits: [**Refugee Accommodation and Solidarity Space City Plaza**](https://www.facebook.com/sol2refugeesen/)](../assets/5d8c700a38c2/1*7bljC5nbto6NTTjvLpqtVQ.jpeg)
+
+Credits: [**Refugee Accommodation and Solidarity Space City Plaza**](https://www.facebook.com/sol2refugeesen/)
+
+
+![](../assets/5d8c700a38c2/1*d_a8ik2MNkl7nEaeE8Z4nA.jpeg)
 
 
 
-![Credits: [**Refugee Accommodation and Solidarity Space City Plaza**](https://www.facebook.com/sol2refugeesen/)](assets/5d8c700a38c2/1*SV2xfl-hlD8SC_FKyQ94Cg.jpeg)
+![Credits: [**Refugee Accommodation and Solidarity Space City Plaza**](https://www.facebook.com/sol2refugeesen/)](../assets/5d8c700a38c2/1*SV2xfl-hlD8SC_FKyQ94Cg.jpeg)
 
 Credits: [**Refugee Accommodation and Solidarity Space City Plaza**](https://www.facebook.com/sol2refugeesen/)
 ### The final touches on the kids playground at the Skaramangas Camp
@@ -99,12 +99,12 @@ Credits: [**Refugee Accommodation and Solidarity Space City Plaza**](https://www
 The number one challenge of the day was trying, with varying levels of success, to convince dozens of kids that the playground wasn’t quite open yet and that there was still work to do\!
 
 
-![Credits: [**David Ang**](https://www.facebook.com/david.ang.790)](assets/5d8c700a38c2/1*GivbEFukvs9VKbPtetc0Zw.jpeg)
+![Credits: [**David Ang**](https://www.facebook.com/david.ang.790)](../assets/5d8c700a38c2/1*GivbEFukvs9VKbPtetc0Zw.jpeg)
 
 Credits: [**David Ang**](https://www.facebook.com/david.ang.790)
 
 
-![Credits: [**David Ang**](https://www.facebook.com/david.ang.790)](assets/5d8c700a38c2/1*BEiX83lVYYT9TGQwTcKNyA.jpeg)
+![Credits: [**David Ang**](https://www.facebook.com/david.ang.790)](../assets/5d8c700a38c2/1*BEiX83lVYYT9TGQwTcKNyA.jpeg)
 
 Credits: [**David Ang**](https://www.facebook.com/david.ang.790)
 #### Romania
@@ -196,12 +196,12 @@ We will keep on demanding a structural solution\. Stop ignoring this issue, thus
 ### Refugee life in Rome
 
 
-![Credits: [**Baobab Experience**](https://www.facebook.com/BaobabExperience/)](assets/5d8c700a38c2/1*sqK0jpb6juAfwcLLdA0SFg.jpeg)
+![Credits: [**Baobab Experience**](https://www.facebook.com/BaobabExperience/)](../assets/5d8c700a38c2/1*sqK0jpb6juAfwcLLdA0SFg.jpeg)
 
 Credits: [**Baobab Experience**](https://www.facebook.com/BaobabExperience/)
 
 
-![Credits: [**Baobab Experience**](https://www.facebook.com/BaobabExperience/)](assets/5d8c700a38c2/1*iyf390Ng3Pe2R9j8CW_wEQ.jpeg)
+![Credits: [**Baobab Experience**](https://www.facebook.com/BaobabExperience/)](../assets/5d8c700a38c2/1*iyf390Ng3Pe2R9j8CW_wEQ.jpeg)
 
 Credits: [**Baobab Experience**](https://www.facebook.com/BaobabExperience/)
 #### Netherlands

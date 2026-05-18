@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 18–19/4/20: Vial fire latest in line to confirm that evacuation to safety is the…
+title: "AYS Weekend Digest 18–19/4/20: Vial fire latest in line to confirm that evacuation to safety is the…"
 author: Are You Syrious?
 date: 2020-04-20T18:43:49.561+0100
 last_modified_at: 2020-04-20T18:43:49.561+0100
@@ -7,18 +7,18 @@ categories: Are You Syrious?
 tags: []
 description: People detained in unsanitary prisons under the disguise of coronavirus protection / More people lost lives in Maltese SAR area…
 image:
-  path: assets/e4d326777807/0*DJzTO8wlrC6uyoa5.jpeg
+  path: ../assets/e4d326777807/0*DJzTO8wlrC6uyoa5.jpeg
 ---
 
 ### AYS Weekend Digest 18–19/4/20: Vial fire latest in line to confirm that evacuation to safety is the only solution
 #### People detained in unsanitary prisons under the disguise of coronavirus protection / More people lost lives in Maltese SAR area, Mediterranean neglected even more / Denmark to send people back to the dangers of countries of origin after the measures imposed due to Covid\-19 weaken / & more info from other areas
 
 
-![](assets/e4d326777807/0*xuG_sZ0ahZESlvBu)
+![](../assets/e4d326777807/0*xuG_sZ0ahZESlvBu)
 
 
 
-![](assets/e4d326777807/0*DJzTO8wlrC6uyoa5.jpeg)
+![](../assets/e4d326777807/0*DJzTO8wlrC6uyoa5.jpeg)
 
 ### FEATURED
 
@@ -48,11 +48,11 @@ The country has announced 10 days lockdown\. “The intensification of the war, 
 5 years after the largest massacre in the Mediterranean, with more than 750 deaths, the EU and Italy operate in the same way, turning their back to the tragedy of Libya’s concentration camps and war\. We demand a European search and rescue program\.
 
 
-![](assets/e4d326777807/0*hGk1YT1AqLGhaoPO)
+![](../assets/e4d326777807/0*hGk1YT1AqLGhaoPO)
 
 
 
-![](assets/e4d326777807/0*jRcu6rmsTMXdr5Ow)
+![](../assets/e4d326777807/0*jRcu6rmsTMXdr5Ow)
 
 
 After days with life at risk, all the people saved by the Aita Mari of [Salvamento Marítimo Humanitario](https://www.facebook.com/smhumanitario/?__tn__=KH-R0.g&eid=ARBjBwnLJT9Ng_otijDr9e5ZD6a6CwsDPPyZHpwTDggkeuAxZcLGuLY9Hd-6DnK1T5pnWW-qvN_EhxOF&fref=mentions&__xts__%5B0%5D=68.ARA_Df73P6r9nnzhFktTL_EXWAbOrmiBwqP8mEP3n0GyFMsJt3hqwJxW6QUq1koGHNxZIpYK5wdVyRnI2kIHclmVVp63oY6mVrH-KhrcQaLUzQCVre5ujYSENqYDMg5PNzCAWysrxcfftNpueJKfSYEO4KEGF6Hm9vA0BM9pIpaa4EQwr7bnqpDuuroo1sS_pRaaLEpWb-h4PpT90SGWjIBgq9MKUCYJTbARJV4Lb2zzQ87crw_4R7aUtE9s0RuvcH22EZUxp-cwtknTy4AEaO7jh9abeivFrBYLMSTj6Yg-lX5XSmIFEJRRCRg) have been finally transferred to the passenger ship Rubattino of Tirrenia\. Together with them and those rescued by the [sea\-eye](https://www.facebook.com/seaeyeorg/?__tn__=KH-R0.g&eid=ARAKFG7w9AzodlZEzNQIXzalXQ-z1aMmwv3sHFPi9gToa2Vdr9pM7kuoIfHpwJ7lj-hM62kKPLRWM93L&fref=mentions&__xts__%5B0%5D=68.ARA_Df73P6r9nnzhFktTL_EXWAbOrmiBwqP8mEP3n0GyFMsJt3hqwJxW6QUq1koGHNxZIpYK5wdVyRnI2kIHclmVVp63oY6mVrH-KhrcQaLUzQCVre5ujYSENqYDMg5PNzCAWysrxcfftNpueJKfSYEO4KEGF6Hm9vA0BM9pIpaa4EQwr7bnqpDuuroo1sS_pRaaLEpWb-h4PpT90SGWjIBgq9MKUCYJTbARJV4Lb2zzQ87crw_4R7aUtE9s0RuvcH22EZUxp-cwtknTy4AEaO7jh9abeivFrBYLMSTj6Yg-lX5XSmIFEJRRCRg) , the two crews of the civil society rescue ships, [Mediterranea Saving Humans](https://www.facebook.com/Mediterranearescue/?__tn__=%2CdkCH-R-R&eid=ARAJATJ6t78V5DzjgP1aR4gJodz7hFdcmdWE1iC_pOaq8u1UjajVQfGfStYW_u5RPfNTHS-sCJn98OwG&hc_ref=ARSXTv35HpneywqqqIWYWTVAvavNq_7ZyD6PWGCpmfikLx_D7X7TB4lOqrBO8cCAgrA&fref=nf&hc_location=group) reported\.
@@ -100,19 +100,19 @@ He points out that everyone in Denmark has the option of being tested and admitt
 **Follow [Demands from a Pandemic](https://twitter.com/pandemicdemands) for more information on :**
 
 
-![](assets/e4d326777807/0*E-akqLEL9PJ4NBwu)
+![](../assets/e4d326777807/0*E-akqLEL9PJ4NBwu)
 
 
 
-![](assets/e4d326777807/0*dCcE7By74URJDiDx)
+![](../assets/e4d326777807/0*dCcE7By74URJDiDx)
 
 
 
-![](assets/e4d326777807/0*b8-KBLw15APd1JVS)
+![](../assets/e4d326777807/0*b8-KBLw15APd1JVS)
 
 
 
-![](assets/e4d326777807/0*deGQB_Y-Q7UnScSH)
+![](../assets/e4d326777807/0*deGQB_Y-Q7UnScSH)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

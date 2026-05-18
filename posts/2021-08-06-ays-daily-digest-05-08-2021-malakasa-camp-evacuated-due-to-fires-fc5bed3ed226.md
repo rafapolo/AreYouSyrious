@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,greece,wildfires]
 description: Afghan People in Legal Limbo//800 People Still Waiting for Port of Safety//Demonstrations in Germany this Saturday for Sea Rescue
 image:
-  path: assets/fc5bed3ed226/0*2wgyahWDhGdhazH0
+  path: ../assets/fc5bed3ed226/0*2wgyahWDhGdhazH0
 ---
 
 ### AYS Daily Digest 05/08/2021 —Malakasa Camp Evacuated Due to Fires
 #### Afghan People in Legal Limbo//800 People Still Waiting for Port of Safety//Demonstrations in Germany this Saturday for Sea Rescue
 
 
-![Smoke draws closer to Amygdaleza camp\. Photo credit: [Solidarity with Migrants](https://www.facebook.com/solidaritymigrants/posts/358564645766071)](assets/fc5bed3ed226/0*2wgyahWDhGdhazH0)
+![Smoke draws closer to Amygdaleza camp\. Photo credit: [Solidarity with Migrants](https://www.facebook.com/solidaritymigrants/posts/358564645766071)](../assets/fc5bed3ed226/0*2wgyahWDhGdhazH0)
 
 Smoke draws closer to Amygdaleza camp\. Photo credit: [Solidarity with Migrants](https://www.facebook.com/solidaritymigrants/posts/358564645766071)
 #### FEATURE

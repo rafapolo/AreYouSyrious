@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [refugees,mediterranean,libya,digest,sea-rescue]
 description: Are You Syrious?
 image:
-  path: assets/8a540d45dba9/0*-samlOZPy6J4-IUc.jpeg
+  path: ../assets/8a540d45dba9/0*-samlOZPy6J4-IUc.jpeg
 ---
 
 ### AYS Daily Digest 20/09/2019 — Rescues and delays in the Central Med
 
 
-![](assets/8a540d45dba9/0*qiwa7xD798Nv3tCX.jpeg)
+![](../assets/8a540d45dba9/0*qiwa7xD798Nv3tCX.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----ac14cfa7f38b----------------------)
@@ -23,11 +23,11 @@ image:
 More on the man killed while resisting detention in Libya /// Another busy day in the central med /// A baby dies off the coast of Turkey /// Protests inside Italian CPRs /// Danish refugee board overrule Asylum service assessment
 
 
-![](assets/8a540d45dba9/0*tz0b7WdpdSyQINXv)
+![](../assets/8a540d45dba9/0*tz0b7WdpdSyQINXv)
 
 
 
-![](assets/8a540d45dba9/0*-samlOZPy6J4-IUc.jpeg)
+![](../assets/8a540d45dba9/0*-samlOZPy6J4-IUc.jpeg)
 
 
 The situation right now in the central Mediterranean is beyond mad and chaotic\. Libyan coast guard takes as many people back to Libya\. Alarm Phone has never received so many distress calls\. EU coast guards systematically delay their rescue operation, risking the lives of those at sea\. \(Photo published by [Maurice Stierl](https://www.facebook.com/maurice.stierl?__tn__=%2Cd%2AF%2AF-R&eid=ARA2v9XGwMfRT8ct0GJHFdXlInBrZr3ds3ulgR8oQPyuplZEsgwkc8PTnzCSwKjENs4Sr7eeiQE_Tt21&tn-str=%2AF) \)
@@ -51,11 +51,11 @@ There are currently believed to be [5,000 people in detention in Libya](https://
 MOROCCO
 
 
-![](assets/8a540d45dba9/0*Q_Q5JNUUHkeNg5NV)
+![](../assets/8a540d45dba9/0*Q_Q5JNUUHkeNg5NV)
 
 
 
-![](assets/8a540d45dba9/0*saLpYbnTM_5a1XE1.jpeg)
+![](../assets/8a540d45dba9/0*saLpYbnTM_5a1XE1.jpeg)
 
 
 [AMDH Nador report](https://web.facebook.com/AmdhNador/photos/a.1693125780899690/2418348375044090/?type=3&theater) that the 70 people arrested at sea by the Navy on 17th September are being held in a prison in Arekmane\. Ten people from the Comoros islands are thought to be included in this number and are being actively searched for by their families\.
@@ -64,11 +64,11 @@ TURKEY
 ### Baby dies at sea
 
 
-![](assets/8a540d45dba9/0*pm8t0-NrRQmEijKB)
+![](../assets/8a540d45dba9/0*pm8t0-NrRQmEijKB)
 
 
 
-![](assets/8a540d45dba9/0*vY_qox2a8Vo-FEEt.jpeg)
+![](../assets/8a540d45dba9/0*vY_qox2a8Vo-FEEt.jpeg)
 
 
 \(Photo Credit: [Aegean Boat Report](https://web.facebook.com/AegeanBoatReport/posts/653440635179044) \)
@@ -94,11 +94,11 @@ GREECE
 ### Arrivals
 
 
-![](assets/8a540d45dba9/0*T2cKLH3SPj7AFz9J)
+![](../assets/8a540d45dba9/0*T2cKLH3SPj7AFz9J)
 
 
 
-![](assets/8a540d45dba9/0*xdlOquXXm2IF2y_m.jpeg)
+![](../assets/8a540d45dba9/0*xdlOquXXm2IF2y_m.jpeg)
 
 
 [17 boats arrived](https://web.facebook.com/AegeanBoatReport/photos/a.285312485325196/653499208506520/?type=3&theater) on the Greek Aegean Islands in just one day, carrying 666 people, 9 of the boats arrived on Lesvos\.
@@ -150,11 +150,11 @@ BOSNIA
 As we reported in our digest yesterday, the situations in both the Velika Kladusa area and the town of Tuzla are worsening, with no plan in sight to provide dignified accommodation and to prepare for the incoming winter\.
 
 
-![](assets/8a540d45dba9/0*pNe6sriueR2k-oFH)
+![](../assets/8a540d45dba9/0*pNe6sriueR2k-oFH)
 
 
 
-![](assets/8a540d45dba9/0*y9rG-8xFvpJTCzOk.jpeg)
+![](../assets/8a540d45dba9/0*y9rG-8xFvpJTCzOk.jpeg)
 
 
 Photo by [Udruzenje Solidarnost Bosnia](https://www.facebook.com/solidarnostbosnia/photos/a.1862322253778951/2951768011501031/?type=3&theater&ifg=1)

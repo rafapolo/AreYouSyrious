@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 28/07/2021: No happy Anniversary for the Geneva Refugee Convention
+title: "AYS Daily Digest 28/07/2021: No happy Anniversary for the Geneva Refugee Convention"
 author: Are You Syrious?
 date: 2021-07-29T09:58:13.302+0100
 last_modified_at: 2021-07-29T09:58:13.302+0100
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [refugees,geneva-conventions,europe,digest,greece]
 description: 70 years ago, on the 28th of July in 1951, the Geneva Refugee Convention was written and implemented. In the years after the Second World…
 image:
-  path: assets/89977904d3b0/1*NYCfqKnUYtMSxkhO0fiAmw.jpeg
+  path: ../assets/89977904d3b0/1*NYCfqKnUYtMSxkhO0fiAmw.jpeg
 ---
 
 ### AYS Daily Digest 28/07/2021: No happy Anniversary for the Geneva Refugee Convention
 
 
-![Copyright: Sea Watch International](assets/89977904d3b0/1*NYCfqKnUYtMSxkhO0fiAmw.jpeg)
+![Copyright: Sea Watch International](../assets/89977904d3b0/1*NYCfqKnUYtMSxkhO0fiAmw.jpeg)
 
 Copyright: Sea Watch International
 
@@ -107,11 +107,11 @@ Die 4,200 Geflüchteten in #Mavrovouni bleiben durch ~ 320 Polizist:innen kontro
 The Moria White Helmets help the camp management in Moria 2\.0 with the vaccination campaing by visiting people and informing them about their appointment\.
 
 
-![](assets/89977904d3b0/1*1QzS69_nsUexs-ptyaNqkA.jpeg)
+![](../assets/89977904d3b0/1*1QzS69_nsUexs-ptyaNqkA.jpeg)
 
 
 
-![Copyright: White Helmets Moria](assets/89977904d3b0/1*FDxSr3vcSIIKBv4K84mXSw.png)
+![Copyright: White Helmets Moria](../assets/89977904d3b0/1*FDxSr3vcSIIKBv4K84mXSw.png)
 
 Copyright: White Helmets Moria
 #### Audio\-Weapons in Evros region

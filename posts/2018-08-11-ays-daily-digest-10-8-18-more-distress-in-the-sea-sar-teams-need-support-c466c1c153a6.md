@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 10/8/18: More distress at sea, SAR teams need support
+title: "AYS Daily Digest 10/8/18: More distress at sea, SAR teams need support"
 author: Are You Syrious?
 date: 2018-08-11T11:50:30.698+0100
 last_modified_at: 2018-08-11T17:06:28.089+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,europe,greece,digest,germany]
 description: Prolonged hand of the African and EU policies threatens lives in Morocco / New arrivals and old problems at the overcrowded facilities in…
 image:
-  path: assets/c466c1c153a6/1*mN_CNCz2zzXdDYbfHhJXgQ.jpeg
+  path: ../assets/c466c1c153a6/1*mN_CNCz2zzXdDYbfHhJXgQ.jpeg
 ---
 
 ### AYS Daily Digest 10/8/18: More distress at sea, SAR teams need support
 #### Prolonged hand of the African and EU policies threatens lives in Morocco / New arrivals and old problems at the overcrowded facilities in Greece / Protesting slavery practices in the south of Italy / France — dire conditions in the north of the “City of Lights”, help needed / What about the Germany\-Spain deal? / Protests in support of SAR missions and against forceful deportations in Germany and The Netherlands / more news
 
 
-![Support to SAR teams across the Mediterranean, Amsterdam \(Photo by: [Wij Zijn Hier](https://www.facebook.com/WijZijnHier/) \)](assets/c466c1c153a6/1*mN_CNCz2zzXdDYbfHhJXgQ.jpeg)
+![Support to SAR teams across the Mediterranean, Amsterdam \(Photo by: [Wij Zijn Hier](https://www.facebook.com/WijZijnHier/) \)](../assets/c466c1c153a6/1*mN_CNCz2zzXdDYbfHhJXgQ.jpeg)
 
 Support to SAR teams across the Mediterranean, Amsterdam \(Photo by: [Wij Zijn Hier](https://www.facebook.com/WijZijnHier/) \)
 #### FEATURE
@@ -58,7 +58,7 @@ Support to SAR teams across the Mediterranean, Amsterdam \(Photo by: [Wij Zijn H
 
 
 
-![[Safe Passage](https://www.facebook.com/SafePassageInt/)](assets/c466c1c153a6/1*FySQhSMLz3e0hPpHRBCP4Q.png)
+![[Safe Passage](https://www.facebook.com/SafePassageInt/)](../assets/c466c1c153a6/1*FySQhSMLz3e0hPpHRBCP4Q.png)
 
 [Safe Passage](https://www.facebook.com/SafePassageInt/)
 #### MOROCCO
@@ -67,7 +67,7 @@ Support to SAR teams across the Mediterranean, Amsterdam \(Photo by: [Wij Zijn H
 The hundreds of migrants arrested yesterday in Tangier and returned by bus were expelled to an area approx\. 5 km away from the city of Tiznit, [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?hc_ref=ARRqS1xfJsyi6kgOCEatrjc-NmeLOL079dqwhgKqVnNXqjEwfzmjqyy-XtJ21vq4XE0&fref=nf&hc_location=group) reports\.
 
 
-![](assets/c466c1c153a6/1*XGobP1ozf_h44XWMi1aeww.jpeg)
+![](../assets/c466c1c153a6/1*XGobP1ozf_h44XWMi1aeww.jpeg)
 
 
 _It’s 17:30h\. Two buses on which more than 60 Sub\-Saharan migrants leave Nador, Morocco\._ 
@@ -76,7 +76,7 @@ _Arrests and refoulement continue\._ — [_Association Marocaine des Droits Huma
 Along the way, in the bus, according to local volunteers, the people were handcuffed by the authorities, thus preventing basic movement of those who were literally being moved away from the area\.
 
 
-![Photo: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?hc_location=group_dialog)](assets/c466c1c153a6/1*QK_LqiM5jDzaaZh-gvKsyw.jpeg)
+![Photo: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?hc_location=group_dialog)](../assets/c466c1c153a6/1*QK_LqiM5jDzaaZh-gvKsyw.jpeg)
 
 Photo: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?hc_location=group_dialog)
 
@@ -90,11 +90,11 @@ Photo: [Association Marocaine des Droits Humains — Section Nador](https://www.
 Some intervention and forced expulsions were registered in Nador, against those staying in the provisional camps in the forest\. “This morning, the auxiliary forces attacked us\. They destroyed it, and destroyed it\. The few migrants who were still there have saved themselves, leaving in all directions\. Others have been stopped\.”
 
 
-![](assets/c466c1c153a6/1*vEvR_XvOnJNpiwzW2_-fSQ.jpeg)
+![](../assets/c466c1c153a6/1*vEvR_XvOnJNpiwzW2_-fSQ.jpeg)
 
 
 
-![Photo: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?hc_ref=ARRqS1xfJsyi6kgOCEatrjc-NmeLOL079dqwhgKqVnNXqjEwfzmjqyy-XtJ21vq4XE0&fref=nf&hc_location=group)](assets/c466c1c153a6/1*2mNCRkQxzk_Hrght_a14Ww.jpeg)
+![Photo: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?hc_ref=ARRqS1xfJsyi6kgOCEatrjc-NmeLOL079dqwhgKqVnNXqjEwfzmjqyy-XtJ21vq4XE0&fref=nf&hc_location=group)](../assets/c466c1c153a6/1*2mNCRkQxzk_Hrght_a14Ww.jpeg)
 
 Photo: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?hc_ref=ARRqS1xfJsyi6kgOCEatrjc-NmeLOL079dqwhgKqVnNXqjEwfzmjqyy-XtJ21vq4XE0&fref=nf&hc_location=group)
 #### GREECE
@@ -175,7 +175,7 @@ A common protest by the exploited workers in the south of Italy is a part of the
 
 
 
-![Foggia, Italy \(Photo: [Ri\-Make](https://www.facebook.com/Ri.make1/?hc_ref=ART7tQrQLKTEkiDrMvF7Mk_0dKs6M1RTUDXxqufF39AI4WJYs7SKgFtTMaprFcw7EcU&hc_location=group) \)](assets/c466c1c153a6/1*9JZPeSQ0t01noL3eMOLMHg.jpeg)
+![Foggia, Italy \(Photo: [Ri\-Make](https://www.facebook.com/Ri.make1/?hc_ref=ART7tQrQLKTEkiDrMvF7Mk_0dKs6M1RTUDXxqufF39AI4WJYs7SKgFtTMaprFcw7EcU&hc_location=group) \)](../assets/c466c1c153a6/1*9JZPeSQ0t01noL3eMOLMHg.jpeg)
 
 Foggia, Italy \(Photo: [Ri\-Make](https://www.facebook.com/Ri.make1/?hc_ref=ART7tQrQLKTEkiDrMvF7Mk_0dKs6M1RTUDXxqufF39AI4WJYs7SKgFtTMaprFcw7EcU&hc_location=group) \)
 #### THE NETHERLANDS
@@ -186,7 +186,7 @@ People are gathering across Europe to point to senseless policies of the EU memb
 One such protest was held in Amsterdam\.
 
 
-![Photo by: [Wij Zijn Hier](https://www.facebook.com/WijZijnHier/)](assets/c466c1c153a6/1*xeulmpq_VOu1ao8tCU3NWA.jpeg)
+![Photo by: [Wij Zijn Hier](https://www.facebook.com/WijZijnHier/)](../assets/c466c1c153a6/1*xeulmpq_VOu1ao8tCU3NWA.jpeg)
 
 Photo by: [Wij Zijn Hier](https://www.facebook.com/WijZijnHier/)
 
@@ -206,7 +206,7 @@ For those who are available this August, there are plenty of ways to give a hand
 \* Saint Bernard’s Vestiaire: they need volunteers to sort and distribute clothes\. Contact them by sms: 06 03 02 83 72
 
 
-![](assets/c466c1c153a6/1*e-X--E4HnfXFuLYR3FdKqw.jpeg)
+![](../assets/c466c1c153a6/1*e-X--E4HnfXFuLYR3FdKqw.jpeg)
 
 ### New evictions in the Calais area
 
@@ -236,11 +236,11 @@ For those who are available this August, there are plenty of ways to give a hand
 
 
 
-![](assets/c466c1c153a6/1*Ki2_BT07za8xlNubR9Ps_g.jpeg)
+![](../assets/c466c1c153a6/1*Ki2_BT07za8xlNubR9Ps_g.jpeg)
 
 
 
-![Photos: [Dunkirk / Dunkerque Refugee Women’s Centre](https://www.facebook.com/refugeewomenscentre/)](assets/c466c1c153a6/1*mXxqoswb_GzieVHsPBOFmA.jpeg)
+![Photos: [Dunkirk / Dunkerque Refugee Women’s Centre](https://www.facebook.com/refugeewomenscentre/)](../assets/c466c1c153a6/1*mXxqoswb_GzieVHsPBOFmA.jpeg)
 
 Photos: [Dunkirk / Dunkerque Refugee Women’s Centre](https://www.facebook.com/refugeewomenscentre/)
 #### GERMANY
@@ -258,7 +258,7 @@ German authorities have broken down data to see in which country there are match
 Against the policies of ignoring deaths at sea and the crisis regarding the SAR actions, there is a number of planned actions around Germany:
 
 
-![by [Seebrücke — Schafft sichere Häfen](https://www.facebook.com/SeebrueckeSchafftsichereHaefen/?hc_location=group_dialog)](assets/c466c1c153a6/1*i6bul3rBXBlJOOviG5q5MA.jpeg)
+![by [Seebrücke — Schafft sichere Häfen](https://www.facebook.com/SeebrueckeSchafftsichereHaefen/?hc_location=group_dialog)](../assets/c466c1c153a6/1*i6bul3rBXBlJOOviG5q5MA.jpeg)
 
 by [Seebrücke — Schafft sichere Häfen](https://www.facebook.com/SeebrueckeSchafftsichereHaefen/?hc_location=group_dialog)
 #### GENERAL

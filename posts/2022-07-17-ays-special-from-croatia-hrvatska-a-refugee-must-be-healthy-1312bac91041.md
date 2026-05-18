@@ -1,5 +1,5 @@
 ---
-title: AYS Special from Croatia — Hrvatska: A Refugee must be Healthy!
+title: "AYS Special from Croatia — Hrvatska: A Refugee must be Healthy!"
 author: Are You Syrious?
 date: 2022-07-17T10:44:41.650+0100
 last_modified_at: 2022-07-17T11:47:27.112+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [special,are-you-syrious,croatia,healthcare,refugees]
 description: Every day, people who have been granted international protection in Croatia are hindered from exercising their right to primary health…
 image:
-  path: assets/1312bac91041/0*dF3K0gBJnghT55Ci.jpg
+  path: ../assets/1312bac91041/0*dF3K0gBJnghT55Ci.jpg
 ---
 
 ### **AYS Special from Croatia: A Refugee must be Healthy\!**
 #### Every day, people who have been granted international protection in Croatia are hindered from exercising their right to primary health care — a right guaranteed them by law\. The obstacles are bureaucratic in nature\.
 
 
-![Ministry of Health of the Republic of Croatia](assets/1312bac91041/0*dF3K0gBJnghT55Ci.jpg)
+![Ministry of Health of the Republic of Croatia](../assets/1312bac91041/0*dF3K0gBJnghT55Ci.jpg)
 
 Ministry of Health of the Republic of Croatia
 ### **Neglected in a system which is not what it claims to be**
@@ -32,7 +32,7 @@ In practice, this means the following:
 Because doctors are not well informed and have to go through a very complicated procedure which requires them to send their bills to the Ministry of Health at the end of each month to be reimbursed, many doctors refuse to accept patients whose status is that of a person under international protection\.
 
 
-![](assets/1312bac91041/0*Zrm5JIhBku5385iu)
+![](../assets/1312bac91041/0*Zrm5JIhBku5385iu)
 
 
 A case in point, by no means exceptional, occurred a month ago\. We were informed by one of our volunteers who was supporting a refugee family which had moved to Zagreb that they had been trying for months to find a paediatrician for their child\. After experiencing countless rejections and being told that they could take the child to the emergency ward in case of need, a paediatrician agreed to take on their child, but did not know how to enter the child into the electronic system and how to deal with the paperwork\.
@@ -42,7 +42,7 @@ A case in point, by no means exceptional, occurred a month ago\. We were informe
 The parents, refugees from Syria, had arrived in Croatia through the process of resettlement from Turkey\. One of the reasons why **they decided to move to Croatia was that in Turkey, the family could not obtain adequate health care** , since they did not have that right as refugees\. Although in Croatia they enjoy the right to health care, exercising that right has proved to be extremely difficult\.
 
 
-![](assets/1312bac91041/0*ZQozOS3v8FJ7omsg)
+![](../assets/1312bac91041/0*ZQozOS3v8FJ7omsg)
 
 ### **Failure to include and inform physicians**
 
@@ -51,7 +51,7 @@ Although in the Action Plan for Integration of 2018 \(there has not been a new A
 The story of a young mother and her newborn baby illustrates yet again the way the system is failing to protect the most vulnerable\. Since the baby was premature, the mother tried to find a paediatrician as soon as possible so the child could be referred to specialists for the numerous specialist examinations needed\.
 
 
-![](assets/1312bac91041/0*gYzmapC9rzz9kiMC)
+![](../assets/1312bac91041/0*gYzmapC9rzz9kiMC)
 
 
 She found a paediatrician willing to take on the child, but because the doctor was unaware of the procedure, she told the mother to register the baby with the Croatian Health Insurance Fund because she could not register the child in the system without a health insurance number\. We spoke to the paediatrician and explained the procedure to her, but then another problem arose\. One of the documents required for persons under international protection to exercise the right to health care is a copy of their residence permit\.

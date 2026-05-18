@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 29/03/2019: Disillusioning Statistics — A Look At Greece in 2018.
+title: "AYS Daily Digest 29/03/2019: Disillusioning Statistics — A Look At Greece in 2018."
 author: Are You Syrious?
 date: 2019-03-30T09:44:53.090+0000
 last_modified_at: 2019-04-02T08:21:46.745+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,human-rights]
 description: 311 people reported drowned in Mediterranean so far this year//Operation Sophia to continue without Maritime presence//Frontex to be…
 image:
-  path: assets/c68c8b3b2d8a/0*i4X53f_eGjHOtg57
+  path: ../assets/c68c8b3b2d8a/0*i4X53f_eGjHOtg57
 ---
 
 ### AYS Daily Digest 29/03/2019: Disillusioning Statistics — A Look At Greece in 2018\.
 #### 311 people reported drowned in Mediterranean so far this year//Operation Sophia to continue without Maritime presence//Frontex to be granted more power in the future//News from the Balkans , France & more…
 
 
-![Source: Open Arms Australia](assets/c68c8b3b2d8a/0*i4X53f_eGjHOtg57)
+![Source: Open Arms Australia](../assets/c68c8b3b2d8a/0*i4X53f_eGjHOtg57)
 
 Source: Open Arms Australia
 #### Feature: Looking back on the developments \(and lack thereof\) in Greece in 2018…
@@ -26,7 +26,7 @@ Source: Open Arms Australia
 
 
 
-![A conversation AYS volunteers had with a man who was Pushed back at Evros River by Greek Police\. They stole his money, bag, phone and shoes\.](assets/c68c8b3b2d8a/0*3nTQLT07VggPrP6_)
+![A conversation AYS volunteers had with a man who was Pushed back at Evros River by Greek Police\. They stole his money, bag, phone and shoes\.](../assets/c68c8b3b2d8a/0*3nTQLT07VggPrP6_)
 
 A conversation AYS volunteers had with a man who was Pushed back at Evros River by Greek Police\. They stole his money, bag, phone and shoes\.
 - Average processing time in 2018 from the first moment of arrival in Greece was 8\.5 months\. Furthermore it is stated that out of the 58,793 asylum applications recorded in 2018, 80\.5% were yet to have had their first interview\.
@@ -41,7 +41,7 @@ A conversation AYS volunteers had with a man who was Pushed back at Evros River 
 
 
 
-![A photograph from Protests in Samos in January of 2019, where over 4500 people were accommodated in a place with a capacity for 700\.](assets/c68c8b3b2d8a/1*BBVWyjer2MsYABEI7wmxgA.jpeg)
+![A photograph from Protests in Samos in January of 2019, where over 4500 people were accommodated in a place with a capacity for 700\.](../assets/c68c8b3b2d8a/1*BBVWyjer2MsYABEI7wmxgA.jpeg)
 
 A photograph from Protests in Samos in January of 2019, where over 4500 people were accommodated in a place with a capacity for 700\.
 - People will be forced out of UNHCR’s \(ESTIA\) accommodation scheme 6 months after being granted international protection\. This is an **extremely concerning development,** which will see many people who are unable to find work being made homeless\.
@@ -74,7 +74,7 @@ A man is reported to have been deported from Samos back to Turkey on 27\.03\.201
 #### BOSNIA
 
 
-![Photo by Senad Kupo: People on the move standing in front of a travel agency\. A sign behind them reads ‘Summer 2019 — Albania, Croatia, Montenegro…Places many people on the move have passed on their journey\.](assets/c68c8b3b2d8a/1*a9aovz0WxPsqwBbk2MFaXw.jpeg)
+![Photo by Senad Kupo: People on the move standing in front of a travel agency\. A sign behind them reads ‘Summer 2019 — Albania, Croatia, Montenegro…Places many people on the move have passed on their journey\.](../assets/c68c8b3b2d8a/1*a9aovz0WxPsqwBbk2MFaXw.jpeg)
 
 Photo by Senad Kupo: People on the move standing in front of a travel agency\. A sign behind them reads ‘Summer 2019 — Albania, Croatia, Montenegro…Places many people on the move have passed on their journey\.
 
@@ -108,11 +108,11 @@ It is reported that approximately 700 people are sleeping in tents just 15 minut
 
 
 
-![](assets/c68c8b3b2d8a/0*3jhQ-5xCvnprIegg)
+![](../assets/c68c8b3b2d8a/0*3jhQ-5xCvnprIegg)
 
 
 
-![](assets/c68c8b3b2d8a/0*PACBKv8surp36qGk)
+![](../assets/c68c8b3b2d8a/0*PACBKv8surp36qGk)
 
 
 **Apart from daily news in English, we also publish weekly summaries in Arabic and Persian\. Click on those links to check out the ones about the week from the 25th to the 31st of March\.**

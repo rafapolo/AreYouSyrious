@@ -5,9 +5,9 @@ date: 2018-07-25T15:31:32.255+0100
 last_modified_at: 2018-07-25T15:31:32.255+0100
 categories: Are You Syrious?
 tags: [greece,solidarity,refugees,digest,european-union]
-description: AYS DAILY DIGEST 24/07/18: Wildfires and Solidarity in Greece
+description: "AYS DAILY DIGEST 24/07/18: Wildfires and Solidarity in Greece"
 image:
-  path: assets/997db1c452ea/1*Xy7MSV5k5Rbz3GTQdP6blA.jpeg
+  path: ../assets/997db1c452ea/1*Xy7MSV5k5Rbz3GTQdP6blA.jpeg
 ---
 
 ### AYS DAILY DIGEST
@@ -16,7 +16,7 @@ image:
 _People coming together in Greece, again // Visegrad four refuse to comply with relocation scheme // Danger in Afghanistan // Increased repression in Hungary// Terrifying police brutality in France // Hundreds rescued but at least ten dead off of Spain// and more…_
 
 
-![Photo Credit Musagumus, via Art Against](assets/997db1c452ea/1*Xy7MSV5k5Rbz3GTQdP6blA.jpeg)
+![Photo Credit Musagumus, via Art Against](../assets/997db1c452ea/1*Xy7MSV5k5Rbz3GTQdP6blA.jpeg)
 
 Photo Credit Musagumus, via Art Against
 ### FEATURE: Dozens of people killed in terrifying wildfires, new crisis to be faced with solidarity\.
@@ -53,7 +53,7 @@ Contact Intervolve for more information\.
 Additionally, activist Arash Hampay who has been involved in protesting and assisting protestors of unfair deportation and detention has been gathering a group to go assist those in need\. Hampay states that many refugees want to help, and that their group Our House, which currently provides aid to the homeless in addition to refugees, is now registered with the authorities to provide aid to victims of the fire\.
 
 
-![](assets/997db1c452ea/1*_DpEwV-nFR4yCqdItYbxkQ.png)
+![](../assets/997db1c452ea/1*_DpEwV-nFR4yCqdItYbxkQ.png)
 
 
 To find out more about how to help, go [here](https://www.facebook.com/100010082855510/posts/686776231668466/) \.

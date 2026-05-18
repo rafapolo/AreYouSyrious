@@ -1,19 +1,19 @@
 ---
-title: AYS Daily Digest 13/09/17: Life Vest Actions take place across Europe
+title: "AYS Daily Digest 13/09/17: Life Vest Actions take place across Europe"
 author: Are You Syrious?
 date: 2017-09-14T06:47:52.293+0100
 last_modified_at: 2017-09-14T18:11:33.650+0100
 categories: 
 tags: [refugees,greece,serbia,hungary,germany]
-description: FEATURE: Italian authorities impound ship Iuventa for not signing its maritime Code of Conduct
+description: "FEATURE: Italian authorities impound ship Iuventa for not signing its maritime Code of Conduct"
 image:
-  path: assets/823658c4e4a9/1*9g8p50RhT1cLq9TFXEDGmQ.jpeg
+  path: ../assets/823658c4e4a9/1*9g8p50RhT1cLq9TFXEDGmQ.jpeg
 ---
 
 ### AYS Daily Digest 13/09/17: Life Vest Actions take place across Europe
 
 
-![Life Vest Action on Lesvos](assets/823658c4e4a9/1*tRaOmN2uaze83If_JusgEA.jpeg)
+![Life Vest Action on Lesvos](../assets/823658c4e4a9/1*tRaOmN2uaze83If_JusgEA.jpeg)
 
 Life Vest Action on Lesvos
 ### FEATURE: Italian authorities impound ship Iuventa for not signing its maritime Code of Conduct
@@ -25,14 +25,14 @@ The Code of Conduct severely restricts the abilities of rescue missions in the M
 Europe is currently engaging in a project of propping up the so\-called Libyan Coastguard, which is in actuality a medley of militias who capture and imprison refugees in horrifying conditions\.
 
 
-![Life Vest Action in Bremen](assets/823658c4e4a9/1*TlxTMGa7MMGt23XKkf7SLQ.jpeg)
+![Life Vest Action in Bremen](../assets/823658c4e4a9/1*TlxTMGa7MMGt23XKkf7SLQ.jpeg)
 
 Life Vest Action in Bremen
 
 Public outcry about the ship has been rather large, with the hashtag \#freeiuventa gaining traction on Twitter\. All of this culminated today in numerous demonstrations across the continent\. From Germany to Italy to Greece, thousands of people have made it clear that they do not want these actions to be taken in their name\. These protests have been given the name ‘Life Vest Action’, as they often involve putting life vests onto historic monuments in their respective cities\. The visual effect is simultaneously powerful and yet absurd, and serves as a powerful indictment of European conduct against refugees\.
 
 
-![Life Vest Action in Göttingen](assets/823658c4e4a9/1*QzU-V15G6_Qq0-Jqd-nqgA.jpeg)
+![Life Vest Action in Göttingen](../assets/823658c4e4a9/1*QzU-V15G6_Qq0-Jqd-nqgA.jpeg)
 
 Life Vest Action in Göttingen
 
@@ -118,7 +118,7 @@ Mr\. Grandi noted that that since Hungary is able to provide good care for child
 #### First deportation since May has taken place
 
 
-![A protestor in Dusseldorf Airport holds a sign saying, “Afghanistan is not safe\.” \(Photo by B\. Thissen\)](assets/823658c4e4a9/1*9g8p50RhT1cLq9TFXEDGmQ.jpeg)
+![A protestor in Dusseldorf Airport holds a sign saying, “Afghanistan is not safe\.” \(Photo by B\. Thissen\)](../assets/823658c4e4a9/1*9g8p50RhT1cLq9TFXEDGmQ.jpeg)
 
 A protestor in Dusseldorf Airport holds a sign saying, “Afghanistan is not safe\.” \(Photo by B\. Thissen\)
 
@@ -129,7 +129,7 @@ There are currently 10,000 refugees from Afghanistan living in Germany whose asy
 #### Protest against deportations planned in Salzburg for tomorrow
 
 
-![](assets/823658c4e4a9/1*Q7asBHaafti14G1ZIiSrfA.jpeg)
+![](../assets/823658c4e4a9/1*Q7asBHaafti14G1ZIiSrfA.jpeg)
 
 
 Refugees and their allies are planning to stage a demonstration tomorrow against continued deportations to Afghanistan\. The demonstration will start at 3:30pm and last until 7pm in Mirabellplatz\.

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 24/7: While authorities strengthen surveillance, volunteers strengthening…
+title: "AYS Daily Digest 24/7: While authorities strengthen surveillance, volunteers strengthening…"
 author: Are You Syrious?
 date: 2016-07-25T00:54:50.374+0100
 last_modified_at: 2016-07-25T08:41:07.169+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,greece,lesvos,italy]
 description: Closed borders cannot stop people from hoping and trying to reach the country where they will have a chance for a normal life. 127 Afghani…
 image:
-  path: assets/5dac2cd6f80b/1*JOyVcr3dangw-p_8mtvgXg.jpeg
+  path: ../assets/5dac2cd6f80b/1*JOyVcr3dangw-p_8mtvgXg.jpeg
 ---
 
 ### AYS Daily Digest 24/7: While authorities strengthen surveillance, volunteers strengthening solidarity
@@ -15,7 +15,7 @@ image:
 _Closed borders cannot stop people from hoping and trying to reach the country where they will have a chance for a normal life\. 127 Afghani refugees arrived to Horgos border after over 100 km long march from Belgrade\. They are tired and hurt\. In Calais, one of the hardest days since December last year\. Help needed in Turkey, Greece, France, Italy… The wars are still raging and borders closed\._
 
 
-![No Border Social Center located on the main road from Moria to Mytilini is place where all the people are welcome\.](assets/5dac2cd6f80b/1*JOyVcr3dangw-p_8mtvgXg.jpeg)
+![No Border Social Center located on the main road from Moria to Mytilini is place where all the people are welcome\.](../assets/5dac2cd6f80b/1*JOyVcr3dangw-p_8mtvgXg.jpeg)
 
 No Border Social Center located on the main road from Moria to Mytilini is place where all the people are welcome\.
 #### Turkey
@@ -38,7 +38,7 @@ They also have plans to expand to other parts of Izmir\. For now, their work con
 To find out more about their activities, or to join the team, please [see their FB page](https://www.facebook.com/reviknitting) \.
 
 
-![FIUnited rescue flayer: Stay safe\.](assets/5dac2cd6f80b/1*QRhykRF8vUpBib0twbH5bA.jpeg)
+![FIUnited rescue flayer: Stay safe\.](../assets/5dac2cd6f80b/1*QRhykRF8vUpBib0twbH5bA.jpeg)
 
 FIUnited rescue flayer: Stay safe\.
 #### Weather
@@ -59,7 +59,7 @@ Two boats arrived, one north east of Lesvos one in the south, with 46 people in 
 Refugee rescue team members from Lesvos report witnessing abuse by the Greek coast guard, both verbal and physically threatening to the old people, women and men arriving on boats from the sea\. These and other accounts of similar behavior must not happen without alerting the organisations responsible for the well being of refugees\. We remain open for any information that could help protecting those fleeing war and violence in a hope for a safe place\.
 
 
-![PHOTO: “Lifeguards on Lesvos taking unaccompanied minors to swim & play in sea — so they won’t fear it after their journey\.” Lesvos photo by Rose Foran \(Twitter\)](assets/5dac2cd6f80b/1*8sd6HxJVvUYvXakM0p5utg.jpeg)
+![PHOTO: “Lifeguards on Lesvos taking unaccompanied minors to swim & play in sea — so they won’t fear it after their journey\.” Lesvos photo by Rose Foran \(Twitter\)](../assets/5dac2cd6f80b/1*8sd6HxJVvUYvXakM0p5utg.jpeg)
 
 PHOTO: “Lifeguards on Lesvos taking unaccompanied minors to swim & play in sea — so they won’t fear it after their journey\.” Lesvos photo by Rose Foran \(Twitter\)
 
@@ -82,7 +82,7 @@ We also received an urgent call for the Arabic speaking volunteers as of tomorro
 Refugees in the camp built their own oven to bake fresh bread, as they didn’t like the taste of the one served to them daily\.
 
 
-![PHOTO by Maik Meinhardt](assets/5dac2cd6f80b/1*1G6yLvVa0qslUR2sPu2vkA.jpeg)
+![PHOTO by Maik Meinhardt](../assets/5dac2cd6f80b/1*1G6yLvVa0qslUR2sPu2vkA.jpeg)
 
 PHOTO by Maik Meinhardt
 
@@ -99,7 +99,7 @@ Organization Earth is in need of new volunteers for youth football training at S
 Dirty Girls of Lesvos collected dirty laundry from the Malakasar Camp with the help of its residents of all ages\. The flush toilets and showers are reportedly kept locked at the discretion of the government camp administrator, so several portable toilets and showers were brought in for the 1000 residents in the camp\.
 
 
-![PHOTO Dirty girls](assets/5dac2cd6f80b/1*4ittUJDZRojKHCxxg9tBAw.jpeg)
+![PHOTO Dirty girls](../assets/5dac2cd6f80b/1*4ittUJDZRojKHCxxg9tBAw.jpeg)
 
 PHOTO Dirty girls
 
@@ -130,18 +130,18 @@ A group of 127 people, who were walking for two days from Belgrade, reached Horg
 
 
 
-![](assets/5dac2cd6f80b/1*42jlsbaDVCU1wS7DKmahEQ.jpeg)
+![](../assets/5dac2cd6f80b/1*42jlsbaDVCU1wS7DKmahEQ.jpeg)
 
 
 
-![Tired and exhosted after 100 km longer march\. Photo Info House](assets/5dac2cd6f80b/1*NBh8We5xzdvVLu_YA1LHHQ.jpeg)
+![Tired and exhosted after 100 km longer march\. Photo Info House](../assets/5dac2cd6f80b/1*NBh8We5xzdvVLu_YA1LHHQ.jpeg)
 
 Tired and exhosted after 100 km longer march\. Photo Info House
 
 Legal entry into Hungary is permitted only through the so\-called transit zones\. According to UNHCR, only 15–20 people a day are allowed to pass through these areas, leaving hundreds more in “difficult conditions” outside the zones\.
 
 
-![Miliana is a doctor who treats newly arrived refugees in Belgrade, Serbia\. She is treating the feet of a young man who has walked thousands of miles to get here and only arrived last night \(he had run out of money to take buses\) \. Her organization is a collection of doctors who go out with medical kits and treat refugees rather than wait for them to come to her\. A lot of people were able to get treatment for smaller issues that they normally wouldn’t wait in line at the medical tent for\. And you could see how soothing it was for them to just be cared for and to have some cream rubbed onto cramped legs and swollen ankles\. She made sure a diabetic patient was taking her daily dose of pills and then moved on to a boy who had a small but quite infected cut\. Many people in the park had some sort of gauze taped onto their arms or legs, thanks to her\! Photo by [Lifting Hands International](https://www.facebook.com/liftinghandsinternational/photos/a.170033390031093.1073741829.165551260479306/281774885523609/?type=3&theater) \.](assets/5dac2cd6f80b/1*QSXZyz5WoPTz8SZvQNwIIQ.jpeg)
+![Miliana is a doctor who treats newly arrived refugees in Belgrade, Serbia\. She is treating the feet of a young man who has walked thousands of miles to get here and only arrived last night \(he had run out of money to take buses\) \. Her organization is a collection of doctors who go out with medical kits and treat refugees rather than wait for them to come to her\. A lot of people were able to get treatment for smaller issues that they normally wouldn’t wait in line at the medical tent for\. And you could see how soothing it was for them to just be cared for and to have some cream rubbed onto cramped legs and swollen ankles\. She made sure a diabetic patient was taking her daily dose of pills and then moved on to a boy who had a small but quite infected cut\. Many people in the park had some sort of gauze taped onto their arms or legs, thanks to her\! Photo by [Lifting Hands International](https://www.facebook.com/liftinghandsinternational/photos/a.170033390031093.1073741829.165551260479306/281774885523609/?type=3&theater) \.](../assets/5dac2cd6f80b/1*QSXZyz5WoPTz8SZvQNwIIQ.jpeg)
 
 Miliana is a doctor who treats newly arrived refugees in Belgrade, Serbia\. She is treating the feet of a young man who has walked thousands of miles to get here and only arrived last night \(he had run out of money to take buses\) \. Her organization is a collection of doctors who go out with medical kits and treat refugees rather than wait for them to come to her\. A lot of people were able to get treatment for smaller issues that they normally wouldn’t wait in line at the medical tent for\. And you could see how soothing it was for them to just be cared for and to have some cream rubbed onto cramped legs and swollen ankles\. She made sure a diabetic patient was taking her daily dose of pills and then moved on to a boy who had a small but quite infected cut\. Many people in the park had some sort of gauze taped onto their arms or legs, thanks to her\! Photo by [Lifting Hands International](https://www.facebook.com/liftinghandsinternational/photos/a.170033390031093.1073741829.165551260479306/281774885523609/?type=3&theater) \.
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 08/03/2019: 54 persons granted refugee status and 74 subsidiary protection in…
+title: "AYS Daily Digest 08/03/2019: 54 persons granted refugee status and 74 subsidiary protection in…"
 author: Are You Syrious?
 date: 2019-03-09T12:02:33.321+0000
 last_modified_at: 2019-03-09T12:19:00.412+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,serbia,digest,bosnia,istanbul]
 description: 24 asylum applications were upheld in Serbia in 2018 // Under 10,000 people on the move arrived to Europe via the sea this year // Hate…
 image:
-  path: assets/a21b41045592/1*WSG5pr7hE5VGz3W7whyWTw.jpeg
+  path: ../assets/a21b41045592/1*WSG5pr7hE5VGz3W7whyWTw.jpeg
 ---
 
 ### AYS Daily Digest 08/03/2019: 54 persons granted refugee status and 74 subsidiary protection in Serbia since 2008
@@ -20,7 +20,7 @@ image:
 
 
 
-![Istanbul, March 8th\. Photo by Reuters\.](assets/a21b41045592/1*WSG5pr7hE5VGz3W7whyWTw.jpeg)
+![Istanbul, March 8th\. Photo by Reuters\.](../assets/a21b41045592/1*WSG5pr7hE5VGz3W7whyWTw.jpeg)
 
 Istanbul, March 8th\. Photo by Reuters\.
 ### Feature

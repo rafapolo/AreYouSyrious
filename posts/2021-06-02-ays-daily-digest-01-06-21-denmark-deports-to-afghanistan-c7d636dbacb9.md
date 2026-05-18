@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 01/06/21: Denmark deports to Afghanistan
+title: "AYS Daily Digest 01/06/21: Denmark deports to Afghanistan"
 author: Are You Syrious?
 date: 2021-06-02T17:18:08.442+0100
 last_modified_at: 2021-06-02T18:12:44.063+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,report,europe,refugees,migration]
 description: Vaccinations start in Kara Tepe// On the situation of people on the move in Bulgaria — BVMN report// Reflecting critically on the actions…
 image:
-  path: assets/c7d636dbacb9/0*nO4_TU-vnlVpxiLg
+  path: ../assets/c7d636dbacb9/0*nO4_TU-vnlVpxiLg
 ---
 
 ### AYS Daily Digest 01/06/21: Denmark deports to Afghanistan
 #### Vaccinations start in Kara Tepe// **On the situation of people on the move in Bulgaria — BVMN report//** Reflecting critically on the actions and instruments the EU has deployed to counter migrant smuggling — a study// Recommended analysis, reads and podcast
 
 
-![Belgium — 700 people start hunger strike to demand regularisation \(Photo: [Transnational Migrants Coordination](https://www.facebook.com/TransnationalMigrantsCoordination/?__cft__[0]=AZV9n9VJ1F5Z5cNrZT8ztwpUSatva4p19sXIZsg47NVF1fZPSrbFNR-4jK2A9h9LAwlFvSKs22fyUmk5S1idkEMWmvQlH87q4YAjYReZNAYx25ceYoQ2QbDRAYXkl8MH0BhsBQrks33xaxqj5X6WQ9xY93aGhpyZ4Q_8kGlG3DX6NsCWJBCYlJyVRiWTKey5-0txwpnfPrBZj7gfEZpDwYV6&__tn__=-UC%2CP-y-R) \)](assets/c7d636dbacb9/0*nO4_TU-vnlVpxiLg)
+![Belgium — 700 people start hunger strike to demand regularisation \(Photo: [Transnational Migrants Coordination](https://www.facebook.com/TransnationalMigrantsCoordination/?__cft__[0]=AZV9n9VJ1F5Z5cNrZT8ztwpUSatva4p19sXIZsg47NVF1fZPSrbFNR-4jK2A9h9LAwlFvSKs22fyUmk5S1idkEMWmvQlH87q4YAjYReZNAYx25ceYoQ2QbDRAYXkl8MH0BhsBQrks33xaxqj5X6WQ9xY93aGhpyZ4Q_8kGlG3DX6NsCWJBCYlJyVRiWTKey5-0txwpnfPrBZj7gfEZpDwYV6&__tn__=-UC%2CP-y-R) \)](../assets/c7d636dbacb9/0*nO4_TU-vnlVpxiLg)
 
 Belgium — 700 people start hunger strike to demand regularisation \(Photo: [Transnational Migrants Coordination](https://www.facebook.com/TransnationalMigrantsCoordination/?__cft__[0]=AZV9n9VJ1F5Z5cNrZT8ztwpUSatva4p19sXIZsg47NVF1fZPSrbFNR-4jK2A9h9LAwlFvSKs22fyUmk5S1idkEMWmvQlH87q4YAjYReZNAYx25ceYoQ2QbDRAYXkl8MH0BhsBQrks33xaxqj5X6WQ9xY93aGhpyZ4Q_8kGlG3DX6NsCWJBCYlJyVRiWTKey5-0txwpnfPrBZj7gfEZpDwYV6&__tn__=-UC%2CP-y-R) \)
 #### FEATURE
@@ -37,7 +37,7 @@ More deportations are expected soon for the other Afghan asylum seekers in Elleb
 #### LIBYA
 
 
-![](assets/c7d636dbacb9/0*2MqwqanZbFYy5N3f)
+![](../assets/c7d636dbacb9/0*2MqwqanZbFYy5N3f)
 
 
 Journalist [Sara Crete](https://twitter.com/saracreta/status/1399684983208415239) reports that:
@@ -79,7 +79,7 @@ A boat in distress reached out to us &amp; needs urgent rescue. The engine is no
 #### GREECE
 
 
-![“After we made training course our teams continue to desinfect the camp\. We all need to fight Corona together, it’s still a very big problem and also now in summer there are too many insects espeacially mosquitos in this area\. Our children suffer even more than we do\.” Photo in Info by [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/posts/332205928422473)](assets/c7d636dbacb9/0*tALQ9Dur8omrgoWL)
+![“After we made training course our teams continue to desinfect the camp\. We all need to fight Corona together, it’s still a very big problem and also now in summer there are too many insects espeacially mosquitos in this area\. Our children suffer even more than we do\.” Photo in Info by [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/posts/332205928422473)](../assets/c7d636dbacb9/0*tALQ9Dur8omrgoWL)
 
 “After we made training course our teams continue to desinfect the camp\. We all need to fight Corona together, it’s still a very big problem and also now in summer there are too many insects espeacially mosquitos in this area\. Our children suffer even more than we do\.” Photo in Info by [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/posts/332205928422473)
 ### Vaccinations will start in Kara Tepe on Thursday
@@ -89,12 +89,12 @@ According to the camp’s commander, Nikolaos Babakos, out of the 6,000 in Kara 
 There is a campaign to increase interest in the vaccine and soon the vaccine will be a requirement for “movement” of refugees and immigrants\. 83 people are still in quarantine for the virus\. More [here](https://www.emprosnet.gr/ygeia/ksekina-tin-pempti-o-emvoliasmos-ton-metanaston-ston-kara-tepe?fbclid=IwAR3NtC3W6eGAjxeawj7bESqJ9qP6_glUph49f1Qs80EJmScTotI5JkGS4S0) \.
 
 
-![](assets/c7d636dbacb9/1*4KNWkQM_x4lm_72IpvHbZw.jpeg)
+![](../assets/c7d636dbacb9/1*4KNWkQM_x4lm_72IpvHbZw.jpeg)
 
 
 
 ![“Today we continued with our Awareness campaign\. We visited the also singles section, which is very crowded, distributed flyers, spoke with the peoples and gave them desinfects and masks\. This is very important\. because now Corona is too much of a problem in Camp\.
-We want to thank The Hope Project and WADI for their support of this important campaign\.” Photos and Info by [Moria Corona Awareness Team](https://www.facebook.com/MoriaCoronaAwarenessTeam/posts/316133160015861)](assets/c7d636dbacb9/1*is56bI1ggmi1_-GfZH-X2w.png)
+We want to thank The Hope Project and WADI for their support of this important campaign\.” Photos and Info by [Moria Corona Awareness Team](https://www.facebook.com/MoriaCoronaAwarenessTeam/posts/316133160015861)](../assets/c7d636dbacb9/1*is56bI1ggmi1_-GfZH-X2w.png)
 
 “Today we continued with our Awareness campaign\. We visited the also singles section, which is very crowded, distributed flyers, spoke with the peoples and gave them desinfects and masks\. This is very important\. because now Corona is too much of a problem in Camp\.
 We want to thank The Hope Project and WADI for their support of this important campaign\.” Photos and Info by [Moria Corona Awareness Team](https://www.facebook.com/MoriaCoronaAwarenessTeam/posts/316133160015861)
@@ -117,11 +117,11 @@ We want to thank The Hope Project and WADI for their support of this important c
 
 
 
-![](assets/c7d636dbacb9/1*rDcMLqdVrTpdaybCRRr27g.jpeg)
+![](../assets/c7d636dbacb9/1*rDcMLqdVrTpdaybCRRr27g.jpeg)
 
 
 
-![Graphs by [BVMN](https://twitter.com/Border_Violence/status/1399715923901157380)](assets/c7d636dbacb9/1*UroOv1akiknSi0PzhFhFeA.jpeg)
+![Graphs by [BVMN](https://twitter.com/Border_Violence/status/1399715923901157380)](../assets/c7d636dbacb9/1*UroOv1akiknSi0PzhFhFeA.jpeg)
 
 Graphs by [BVMN](https://twitter.com/Border_Violence/status/1399715923901157380)
 
@@ -256,14 +256,14 @@ Border Monitoring EU just published a new report **Get Out\! On the Situation of
 #### FRANCE
 
 
-![](assets/c7d636dbacb9/1*1C_cFDHvFM_gh8rs8kGLtg.jpeg)
+![](../assets/c7d636dbacb9/1*1C_cFDHvFM_gh8rs8kGLtg.jpeg)
 
 
 
 ![**UPDATE by Transnational Migrants Coordination:** “For a week now, 700 undocumented women and men, who are occupying the ULB \(Université libre de Bruxelles\), the VUB \(Vrije Universiteit Brussel\) and the Beguinage church, have been on hunger strike to ask for their regularization and better living and working conditions especially in the context of the pandemic\. Some of them have already been hospitalized because of their serious health conditions\.
 The strikers have formed the Union of Undocumented Migrants for Regularization to organize their struggle against a racist legal and social system that wants to force upon them a life of precariousness, exploitation, and poverty under the constant blackmail of residence permits\.
 The struggle of our comrades in Belgium against institutional racism is part of the transnational struggle that migrants have been fighting in these months, within and outside the European Union, for an unlimited residence permit that does not depend on income, wage and family status\. This transnational struggle saw in the mobilization on May 1st an important moment of visibility and we must keep the attention high on the need of a transnational initiative\. That is why we demand an immediate answer to the claims raised by migrants in Belgium and an unconditional European residence permit\. Their struggle is our struggle and we want our freedom without having to risk our lives to obtain it\.”
-Photos by [Transnational Migrants Coordination](http://Transnational Migrants Coordination)](assets/c7d636dbacb9/1*zWz5ybxtD4ODub938kz7_w.jpeg)
+Photos by [Transnational Migrants Coordination](http://Transnational Migrants Coordination)](../assets/c7d636dbacb9/1*zWz5ybxtD4ODub938kz7_w.jpeg)
 
 **UPDATE by Transnational Migrants Coordination:** “For a week now, 700 undocumented women and men, who are occupying the ULB \(Université libre de Bruxelles\), the VUB \(Vrije Universiteit Brussel\) and the Beguinage church, have been on hunger strike to ask for their regularization and better living and working conditions especially in the context of the pandemic\. Some of them have already been hospitalized because of their serious health conditions\.
 The strikers have formed the Union of Undocumented Migrants for Regularization to organize their struggle against a racist legal and social system that wants to force upon them a life of precariousness, exploitation, and poverty under the constant blackmail of residence permits\.
@@ -307,7 +307,7 @@ The research study **Beyond Networks, Militias and Tribes: Rethinking EU Counter
 
 
 
-[![Beyond Networks, Militias and Tribes: Rethinking EU Counter-Smuggling Policy and Response](assets/c7d636dbacb9/b6d0_hqdefault.jpg "Beyond Networks, Militias and Tribes: Rethinking EU Counter-Smuggling Policy and Response")](https://www.youtube.com/watch?v=og3R3y3iXuI)
+[![Beyond Networks, Militias and Tribes: Rethinking EU Counter-Smuggling Policy and Response](../assets/c7d636dbacb9/b6d0_hqdefault.jpg "Beyond Networks, Militias and Tribes: Rethinking EU Counter-Smuggling Policy and Response")](https://www.youtube.com/watch?v=og3R3y3iXuI)
 
 #### UK
 
@@ -339,7 +339,7 @@ Their latest blog reviews the recently\-released detention trends from the last 
 
 
 
-[![The Olive Tree](assets/c7d636dbacb9/8601_hqdefault.jpg "The Olive Tree")](https://www.youtube.com/watch?v=UG_qX63-e3Q)
+[![The Olive Tree](../assets/c7d636dbacb9/8601_hqdefault.jpg "The Olive Tree")](https://www.youtube.com/watch?v=UG_qX63-e3Q)
 
 - Should refugees be grateful? [@DinaNayeri](https://twitter.com/DinaNayeri) talks about her book The Ungrateful Refugee, exploring the significance of waiting, dignity, gratitude and being believed:
 

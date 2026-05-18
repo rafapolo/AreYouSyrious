@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 2/3/22: The EU’s Emergency Plan to Support Ukrainian Refugees
+title: "AYS News Digest 2/3/22: The EU’s Emergency Plan to Support Ukrainian Refugees"
 author: Are You Syrious?
 date: 2022-03-02T23:52:19.989+0000
 last_modified_at: 2022-03-03T22:19:07.257+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [ukraine,refugees,digest,europe,frontex]
 description: The EU’s emergency plan to support Ukrainian refugees / Differences in the welcoming approach to Ukrainian refugees vs refugees from Middle…
 image:
-  path: assets/2bf2d7bfd972/1*mohVRID8nW-CoeNncRFK3w.jpeg
+  path: ../assets/2bf2d7bfd972/1*mohVRID8nW-CoeNncRFK3w.jpeg
 ---
 
 ### AYS News Digest 2/3/22: The EU’s Emergency Plan to Support Ukrainian Refugees
 #### The EU’s emergency plan to support Ukrainian refugees / Differences in the welcoming approach to Ukrainian refugees vs refugees from Middle Eastern countries / Calls for disciplinary action against senior Frontex officials who concealed pushbacks in Greece / 100 people evacuated from Libya to Italy
 
 
-![Queues at the Moldovan border with Ukraine at Palanca \(Source: [Erno Simon](https://twitter.com/Embrrrr/status/1499080272192720906/photo/2) \)](assets/2bf2d7bfd972/1*mohVRID8nW-CoeNncRFK3w.jpeg)
+![Queues at the Moldovan border with Ukraine at Palanca \(Source: [Erno Simon](https://twitter.com/Embrrrr/status/1499080272192720906/photo/2) \)](../assets/2bf2d7bfd972/1*mohVRID8nW-CoeNncRFK3w.jpeg)
 
 Queues at the Moldovan border with Ukraine at Palanca \(Source: [Erno Simon](https://twitter.com/Embrrrr/status/1499080272192720906/photo/2) \)
 #### **FEATURE**
@@ -132,7 +132,7 @@ UNHCR have [stated](http://en.people.cn/n3/2022/0302/c90000-9964572.html?fbclid=
 In the early morning of 1 March, the [Greek coast guard found four bodies on the shores of Lesvos](https://www.infomigrants.net/en/post/38875/six-migrants-found-dead-on-shore-of-lesbos?fbclid=IwAR0FRENiSyYcBRKu66kanM7nEKHx4ukeXrJPpMkYhoq1Fwf7ETR6wGVE5Mk) , near the island’s main town of Mytilene\. Two others were found at sea\.
 
 
-![](assets/2bf2d7bfd972/1*W_dygkyAoIrQbwND8Mi3kg.png)
+![](../assets/2bf2d7bfd972/1*W_dygkyAoIrQbwND8Mi3kg.png)
 
 
 [**Greece rejects asylum applications, and orders the readmission of asylum seekers to Turkey based on the “safe third country” concept**](https://rsaegean.org/en/turkey-safe-third-country/?fbclid=IwAR0gDY2CRr7C9jStnyqZ37T0PMeYi0tradizIq2AthYjp9qObceO8UlNtBo)

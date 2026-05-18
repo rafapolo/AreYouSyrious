@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,uk,greece,france,syria]
 description: Calais municipality’s strategies for eviction of migrants camps // Growing concern over Cyprus’s backlog of asylum applications //…
 image:
-  path: assets/649794f8c329/1*eLUvzQinGBWVSdPHmOqo9Q.jpeg
+  path: ../assets/649794f8c329/1*eLUvzQinGBWVSdPHmOqo9Q.jpeg
 ---
 
 ### AYS Weekend Digest 06–07/02/2021 Illegal detention of minors in UK
@@ -15,7 +15,7 @@ image:
 ### UK
 
 
-![Refugees in the Napier Barracks in Kent \(Pic: PA\)](assets/649794f8c329/1*F3vv69TBXQ2hxGHLOMXkeg.jpeg)
+![Refugees in the Napier Barracks in Kent \(Pic: PA\)](../assets/649794f8c329/1*F3vv69TBXQ2hxGHLOMXkeg.jpeg)
 
 Refugees in the Napier Barracks in Kent \(Pic: PA\)
 
@@ -92,7 +92,7 @@ Another study has [countered the myth about migrants](https://www.liverpoolecho.
 ### FRANCE
 
 
-![Credits: Care4Calais](assets/649794f8c329/1*eLUvzQinGBWVSdPHmOqo9Q.jpeg)
+![Credits: Care4Calais](../assets/649794f8c329/1*eLUvzQinGBWVSdPHmOqo9Q.jpeg)
 
 Credits: Care4Calais
 
@@ -302,7 +302,7 @@ Meanwhile, a new [agreement](https://www.statewatch.org/media/1801/eu-council-jo
 ### CROATIA
 
 
-![](assets/649794f8c329/1*u2KggQ8WzKc9cS-OJqtrfg.jpeg)
+![](../assets/649794f8c329/1*u2KggQ8WzKc9cS-OJqtrfg.jpeg)
 
 
 We share a shocking [post from NoName Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/a.312076942523930/1176734506058165?__cft__[0]=AZWm8LwM6cmL05U9tWvnHT5UWA661OLLjzGVnX2deIjNlhsZjU9vV4bnp_TGAjTZ-Fgj7NmmQ_yYMWUo5vGFG0RQDgmX3c3TUjq9kyAcC-mFFBUdu8e61D1EpWBiYWSz-MkhtEhp-7M9cEZPJzAQpJJbyHAKVGA9hj60coX7NRg_1umiokSjm_002ytfUnn6v6s3IqpES-sBPzLfwOLNbWzd&__tn__=-UK-R) , which once again documents the horrifying violence that a group of migrants was subjected to when trying to cross from Bosnia into Croatia\. This must stop\.
@@ -345,7 +345,7 @@ A few days ago, the eviction of AT Rog in Ljubljana left all activists shocked a
 ### AUSTRIA
 
 
-![Credit: DerStandard\.de](assets/649794f8c329/1*cGWjLuAwgijPclIG0ldHZw.jpeg)
+![Credit: DerStandard\.de](../assets/649794f8c329/1*cGWjLuAwgijPclIG0ldHZw.jpeg)
 
 Credit: DerStandard\.de
 

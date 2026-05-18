@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 16/06/2018: Protect People, Not Borders
+title: "AYS DAILY DIGEST 16/06/2018: Protect People, Not Borders"
 author: Are You Syrious?
 date: 2018-06-17T09:25:44.333+0100
 last_modified_at: 2018-06-17T09:35:13.323+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,france,bosnia-and-herzegovina,italy]
 description: Another day of struggle for Aquarius who is due to dock on Sunday morning in Valencia//New arrivals from sea to Spain//NGOs criminalised…
 image:
-  path: assets/1b8162f8c2d/1*TIn1G_AkrlEoDC3F7HYEqA.jpeg
+  path: ../assets/1b8162f8c2d/1*TIn1G_AkrlEoDC3F7HYEqA.jpeg
 ---
 
 ### AYS DAILY DIGEST 16/06/2018: Protect People, Not Borders
@@ -15,7 +15,7 @@ image:
 _Another day of struggle for Aquarius who is due to dock on Sunday morning in Valencia//New arrivals from sea to Spain//NGOs criminalised and threatened by fascist Italian Interior Ministry//The Kempsons must leave their house of 17 years//New arrivals in Chios//TCG prevents boats to reach Europe//Montenegro to stop putting up barbed wire at its borders//Blankets needed in Sarajevo//Horrible intimidatory act in Sacile, Italy, in front of refugee shelter//Oxfam’s report to describe details of illegal push backs of minors at the French\-Italian border//Solidarity actions in Paris//News from the UK, Belgium, Austria\. \._
 
 
-![Paris\. Credit: Solidaritè Migrants Wilson](assets/1b8162f8c2d/1*TIn1G_AkrlEoDC3F7HYEqA.jpeg)
+![Paris\. Credit: Solidaritè Migrants Wilson](../assets/1b8162f8c2d/1*TIn1G_AkrlEoDC3F7HYEqA.jpeg)
 
 Paris\. Credit: Solidaritè Migrants Wilson
 
@@ -104,7 +104,7 @@ _Please help us and people on the streets by donating, even the smallest amount 
 _PayPal_ : [https://www\.paypal\.me/isabelduich](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.paypal.me%2Fisabelduich&h=AT24Hk8cqP30i6K3aRHqcPTTdX_IPH8ppRSgjGnAehsf476cEJeigzWgWkxXQeV98w5t-TdqZxxRpF36MbaNg6-TtVJZ8nUS0KjSHY3NDjh4XAs8qyEhydlB3eocmGC4_xZxYW3JP2LwUVRvEaOkRiALkNo) ”
 
 
-![Several bags filled with dirty blankets for washing and redistributing\. Credit: AYS](assets/1b8162f8c2d/1*dl-DAH3P2Y3bYqcdjj2cFg.jpeg)
+![Several bags filled with dirty blankets for washing and redistributing\. Credit: AYS](../assets/1b8162f8c2d/1*dl-DAH3P2Y3bYqcdjj2cFg.jpeg)
 
 Several bags filled with dirty blankets for washing and redistributing\. Credit: AYS
 

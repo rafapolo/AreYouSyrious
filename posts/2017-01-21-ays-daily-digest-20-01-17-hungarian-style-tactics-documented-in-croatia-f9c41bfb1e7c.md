@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe]
 description: Feature
 image:
-  path: assets/f9c41bfb1e7c/1*GuzfX3JNkua2L2bJSi1ZOg.jpeg
+  path: ../assets/f9c41bfb1e7c/1*GuzfX3JNkua2L2bJSi1ZOg.jpeg
 ---
 
 ### AYS Daily Digest 20\.01\.17 — Hungarian\-style tactics documented in Croatia
 
 
-![](assets/f9c41bfb1e7c/1*GuzfX3JNkua2L2bJSi1ZOg.jpeg)
+![](../assets/f9c41bfb1e7c/1*GuzfX3JNkua2L2bJSi1ZOg.jpeg)
 
 #### Feature
 
@@ -31,7 +31,7 @@ Every such report speaks volumes to the cruelty that refugees are forced to endu
 #### Greece
 
 
-![Souda Refugee Camp on Chios\. Photo Credit: Jure Eržen](assets/f9c41bfb1e7c/1*2nwkM-BEpuhHVk2goVWx8w.jpeg)
+![Souda Refugee Camp on Chios\. Photo Credit: Jure Eržen](../assets/f9c41bfb1e7c/1*2nwkM-BEpuhHVk2goVWx8w.jpeg)
 
 Souda Refugee Camp on Chios\. Photo Credit: Jure Eržen
 ### Mayors of Greek islands seek to send refugees to the mainland
@@ -46,7 +46,7 @@ The mayors of Lesvos, Chios, Samos, Kos, and Leros have met with the European Co
 The sheet is also available [here](https://drive.google.com/drive/folders/0B-_rJ_0o5IZIWFpSeGRoVDBZWGs) in Arabic, Greek, and Farsi\.
 
 
-![](assets/f9c41bfb1e7c/1*U2cPumH7eHNW9UYj8DFk5w.jpeg)
+![](../assets/f9c41bfb1e7c/1*U2cPumH7eHNW9UYj8DFk5w.jpeg)
 
 ### Refugee\-related jobs compiled in one place
 

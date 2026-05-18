@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 28/06/2018: Is this the Europe that we want?
+title: "AYS Daily Digest 28/06/2018: Is this the Europe that we want?"
 author: Are You Syrious?
 date: 2018-06-29T07:56:40.381+0100
 last_modified_at: 2018-06-29T12:33:42.344+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [europe,digest,refugees,solidarity,human-rights-violations]
 description: First day of EU summit ends with no results / Libya creates its own SAR area / Malta to impede navigation to Lifeline / Proactiva impeded…
 image:
-  path: assets/9423bb214dfe/1*Qxsph1h7XEUHOEoSJau1Ew.jpeg
+  path: ../assets/9423bb214dfe/1*Qxsph1h7XEUHOEoSJau1Ew.jpeg
 ---
 
 ### AYS Daily Digest 28/06/2018: Is this the Europe that we want?
@@ -15,7 +15,7 @@ image:
 _First day of EU summit ends with no results / Libya creates its own SAR area / Malta to impede navigation to Lifeline / Proactiva impeded docking in Italy and Malta / Salvamento Maritímo carrying on Search and Rescue activities in the Western Mediterranean / Threat of Pikpa closure / Updates from Bosnia, Italy, and France / And more news…_
 
 
-![Photo by Proactiva Open Arms](assets/9423bb214dfe/1*Qxsph1h7XEUHOEoSJau1Ew.jpeg)
+![Photo by Proactiva Open Arms](../assets/9423bb214dfe/1*Qxsph1h7XEUHOEoSJau1Ew.jpeg)
 
 Photo by Proactiva Open Arms
 ### **EU**
@@ -171,11 +171,11 @@ Due to the conditions tensions are increasing among as well refugees but also fr
 Tomorrow a meeting will be held between UNHCR and other relevant parties, so, after that, more information about future developments \(or empty promises\) might be available\.
 
 
-![](assets/9423bb214dfe/1*wjyTclqjrXcwNO-VmBTZyA.jpeg)
+![](../assets/9423bb214dfe/1*wjyTclqjrXcwNO-VmBTZyA.jpeg)
 
 
 
-![Photo by AYS](assets/9423bb214dfe/1*JeSL3xffC--mWKmVo5FQ7A.jpeg)
+![Photo by AYS](../assets/9423bb214dfe/1*JeSL3xffC--mWKmVo5FQ7A.jpeg)
 
 Photo by AYS
 ### **ITALY**

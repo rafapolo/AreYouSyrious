@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 1/8/19: Libyan Authorities announce closing of detention centers
+title: "AYS Daily Digest 1/8/19: Libyan Authorities announce closing of detention centers"
 author: Are You Syrious?
 date: 2019-08-02T06:49:12.872+0100
 last_modified_at: 2019-08-02T13:02:35.023+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,libya,detention-centers,human-rights]
 description: Sea-Watch wins appeal case // Aylan Kurdi vessel rescues victims of Tajoura bombing // updates from Chios and Bosnia // Uncertain future…
 image:
-  path: assets/2781f95be9a1/1*rx7_2MIXFdsWnn4X_Ols7A.jpeg
+  path: ../assets/2781f95be9a1/1*rx7_2MIXFdsWnn4X_Ols7A.jpeg
 ---
 
 ### AYS Daily Digest 1/8/19: Libyan Authorities announce closing of detention centers
@@ -15,7 +15,7 @@ image:
 _Sea\-Watch wins appeal case // Aylan Kurdi vessel rescues victims of Tajoura bombing // Updates from Chios and Bosnia // Uncertain future for families in Danish detention center // ABR fundraiser // and more …_
 
 
-![Photo Credit: [Art Against](https://www.facebook.com/artagainstproject/)](assets/2781f95be9a1/1*rx7_2MIXFdsWnn4X_Ols7A.jpeg)
+![Photo Credit: [Art Against](https://www.facebook.com/artagainstproject/)](../assets/2781f95be9a1/1*rx7_2MIXFdsWnn4X_Ols7A.jpeg)
 
 Photo Credit: [Art Against](https://www.facebook.com/artagainstproject/)
 ### Libya
@@ -64,7 +64,7 @@ Another Eritrean refugee has died of a preventable condition in the Libyan deten
 
 
 
-![Photo from inside the Zintan detention center\. Provided by [Giulia Tranchina](https://www.facebook.com/rastajuly/posts/10156834998898621?hc_location=ufi) \.](assets/2781f95be9a1/1*DDkhXNxpzQHyIVYSDjGLTg.jpeg)
+![Photo from inside the Zintan detention center\. Provided by [Giulia Tranchina](https://www.facebook.com/rastajuly/posts/10156834998898621?hc_location=ufi) \.](../assets/2781f95be9a1/1*DDkhXNxpzQHyIVYSDjGLTg.jpeg)
 
 Photo from inside the Zintan detention center\. Provided by [Giulia Tranchina](https://www.facebook.com/rastajuly/posts/10156834998898621?hc_location=ufi) \.
 ### Sea
@@ -160,12 +160,12 @@ Aid groups and independent volunteers are reporting rapidly deteriorating condit
 #### Update from Vucjak
 
 
-![Refugees receiving medical care in the Vucjak camp\. Photo Credit: [Dirk Planert](https://www.facebook.com/dirk.planert?__tn__=%2CdCH-R-R&eid=ARAthPMK9L0V_OynZxA4UWI7c-4swZTxu_DgaUj03pMAT0nVw-CHhuW7c5WKp2D87jze_P_-gl94asqH&hc_ref=ARSyC23lBENzPLq6-zX9rIIlL09bBVGrKqAtQE2UYhvEmNvFFOV2liHP8oJ4Q-qV_lE&fref=nf&hc_location=group)](assets/2781f95be9a1/1*SSZPN3jFQ1RFNzgW41rwKw.jpeg)
+![Refugees receiving medical care in the Vucjak camp\. Photo Credit: [Dirk Planert](https://www.facebook.com/dirk.planert?__tn__=%2CdCH-R-R&eid=ARAthPMK9L0V_OynZxA4UWI7c-4swZTxu_DgaUj03pMAT0nVw-CHhuW7c5WKp2D87jze_P_-gl94asqH&hc_ref=ARSyC23lBENzPLq6-zX9rIIlL09bBVGrKqAtQE2UYhvEmNvFFOV2liHP8oJ4Q-qV_lE&fref=nf&hc_location=group)](../assets/2781f95be9a1/1*SSZPN3jFQ1RFNzgW41rwKw.jpeg)
 
 Refugees receiving medical care in the Vucjak camp\. Photo Credit: [Dirk Planert](https://www.facebook.com/dirk.planert?__tn__=%2CdCH-R-R&eid=ARAthPMK9L0V_OynZxA4UWI7c-4swZTxu_DgaUj03pMAT0nVw-CHhuW7c5WKp2D87jze_P_-gl94asqH&hc_ref=ARSyC23lBENzPLq6-zX9rIIlL09bBVGrKqAtQE2UYhvEmNvFFOV2liHP8oJ4Q-qV_lE&fref=nf&hc_location=group)
 
 
-![Photo Credit: [Dirk Planert](https://www.facebook.com/dirk.planert?__tn__=%2CdCH-R-R&eid=ARAthPMK9L0V_OynZxA4UWI7c-4swZTxu_DgaUj03pMAT0nVw-CHhuW7c5WKp2D87jze_P_-gl94asqH&hc_ref=ARSyC23lBENzPLq6-zX9rIIlL09bBVGrKqAtQE2UYhvEmNvFFOV2liHP8oJ4Q-qV_lE&fref=nf&hc_location=group)](assets/2781f95be9a1/1*5uI0QJXjtB4HNlODBaFM2w.jpeg)
+![Photo Credit: [Dirk Planert](https://www.facebook.com/dirk.planert?__tn__=%2CdCH-R-R&eid=ARAthPMK9L0V_OynZxA4UWI7c-4swZTxu_DgaUj03pMAT0nVw-CHhuW7c5WKp2D87jze_P_-gl94asqH&hc_ref=ARSyC23lBENzPLq6-zX9rIIlL09bBVGrKqAtQE2UYhvEmNvFFOV2liHP8oJ4Q-qV_lE&fref=nf&hc_location=group)](../assets/2781f95be9a1/1*5uI0QJXjtB4HNlODBaFM2w.jpeg)
 
 Photo Credit: [Dirk Planert](https://www.facebook.com/dirk.planert?__tn__=%2CdCH-R-R&eid=ARAthPMK9L0V_OynZxA4UWI7c-4swZTxu_DgaUj03pMAT0nVw-CHhuW7c5WKp2D87jze_P_-gl94asqH&hc_ref=ARSyC23lBENzPLq6-zX9rIIlL09bBVGrKqAtQE2UYhvEmNvFFOV2liHP8oJ4Q-qV_lE&fref=nf&hc_location=group)
 

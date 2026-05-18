@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 25/09/18: STATEMENT ON A UNJUST VERDICT AGAINST AYS VOLUNTEER
+title: "AYS DAILY DIGEST 25/09/18: STATEMENT ON A UNJUST VERDICT AGAINST AYS VOLUNTEER"
 author: Are You Syrious?
 date: 2018-09-26T10:38:28.144+0100
 last_modified_at: 2018-09-26T10:43:11.287+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,volunteering,croatia,police-brutality,corruption]
 description: Moroccan NGOs statement on pushbacks // EU anti-fraud watchdog investigating Greek misuse of refugee funds // Colibri patrols the…
 image:
-  path: assets/b91baab377ba/1*eVIzJMSw0bSVqBcUl6ubLA.jpeg
+  path: ../assets/b91baab377ba/1*eVIzJMSw0bSVqBcUl6ubLA.jpeg
 ---
 
 ### AYS DAILY DIGEST 25/09/18: STATEMENT ON A UNJUST VERDICT AGAINST AYS VOLUNTEER
@@ -15,7 +15,7 @@ image:
 Moroccan NGOs statement on pushbacks **//** EU anti\-fraud watchdog investigating Greek misuse of refugee funds // Colibri patrols the Mediterranean alone // Greek police strip asylum seekers naked in pushback to Turkey // Sudanese refugees’ statement after months of protest in Italy // Solidarity worker convicted for a tweet in Calais // Over 1000 asylum seekers back in Grande\-Synthe region // Sweden upholds “high school act” //
 
 
-![Madina, whose death at the hands of border guards last November has lead to an ongoing battle between AYS and the Croatian Government\.](assets/b91baab377ba/1*eVIzJMSw0bSVqBcUl6ubLA.jpeg)
+![Madina, whose death at the hands of border guards last November has lead to an ongoing battle between AYS and the Croatian Government\.](../assets/b91baab377ba/1*eVIzJMSw0bSVqBcUl6ubLA.jpeg)
 
 Madina, whose death at the hands of border guards last November has lead to an ongoing battle between AYS and the Croatian Government\.
 ### Feature — AYS statement on politically motivated, unjust guilty verdict for our volunteer
@@ -151,7 +151,7 @@ Once more, winter is coming and there is no concrete adaptation plan in place on
 ### Italy
 
 
-![Source: Melting Pot Europa\.](assets/b91baab377ba/1*q4Ffs9kqwSmy_hQ2h7DoIg.jpeg)
+![Source: Melting Pot Europa\.](../assets/b91baab377ba/1*q4Ffs9kqwSmy_hQ2h7DoIg.jpeg)
 
 Source: Melting Pot Europa\.
 
@@ -210,7 +210,7 @@ The Refugee Info Bus, which has worked with Loan, put out a [statement](https://
 
 
 
-![Two children amidst a makeshift camp in the woods of Grande\-Synthe\. Source: L’Auberge des Migrants\.](assets/b91baab377ba/1*mcqXyK6TgF8QwYzEp1H4nw.jpeg)
+![Two children amidst a makeshift camp in the woods of Grande\-Synthe\. Source: L’Auberge des Migrants\.](../assets/b91baab377ba/1*mcqXyK6TgF8QwYzEp1H4nw.jpeg)
 
 Two children amidst a makeshift camp in the woods of Grande\-Synthe\. Source: L’Auberge des Migrants\.
 
@@ -220,7 +220,7 @@ Meanwhile, in the Grande\-Synthe region, winter is coming and the situation is g
 As one of the countries with the highest rates of refugees eligible to bring family members under the EU’s family reunification mechanism, Germany continues to do everything it can to make the process more difficult for people\. After a two\-year time out on family reunification transfers for people with subsidiary protection \(a lower protection status than full refugee status\), an August 1 law, widely criticized by human rights organizations and activists, put a [monthly cap](https://www.dw.com/en/family-reunification-for-refugees-resumes-in-germany/a-44903743) on the amount of family reunification transfers for people with subsidiary protection\. Now, PRO ASYL [reports](https://www.proasyl.de/en/) that rights organizations’ fears about the implications of these quotas were well\-founded\. In August 2018, only 853 cases were examined, significantly less than the limit of 1000; only 42 visas were granted\. With 34,000 reunification requests already lodged after the new law was announced, it could take years and years for people who have been separated from their family members to see them again\.
 
 
-![By Omar Perez\. Source: [Art Against Borders\.](https://www.facebook.com/artagainstproject/photos/a.639651369417634/1874149665967792/?type=3&theater)](assets/b91baab377ba/1*ZNKE3GgZfwIZZeRNdlStvQ.jpeg)
+![By Omar Perez\. Source: [Art Against Borders\.](https://www.facebook.com/artagainstproject/photos/a.639651369417634/1874149665967792/?type=3&theater)](../assets/b91baab377ba/1*ZNKE3GgZfwIZZeRNdlStvQ.jpeg)
 
 By Omar Perez\. Source: [Art Against Borders\.](https://www.facebook.com/artagainstproject/photos/a.639651369417634/1874149665967792/?type=3&theater)
 ### Sweden

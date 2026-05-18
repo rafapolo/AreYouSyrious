@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 02/05/2019: Italy deporting vulnerable cases to inadequate centre
+title: "AYS Daily Digest 02/05/2019: Italy deporting vulnerable cases to inadequate centre"
 author: Are You Syrious?
 date: 2019-05-03T10:23:21.912+0100
 last_modified_at: 2019-05-03T13:26:41.308+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,italy,human-rights,libya]
 description: Rome not renewing permits to international protection holders//276 people brought back to Libyan hell in two days//More deaths in the…
 image:
-  path: assets/1ff892d073f0/1*7sJIGQKPZdbQah2-wM6bKw.jpeg
+  path: ../assets/1ff892d073f0/1*7sJIGQKPZdbQah2-wM6bKw.jpeg
 ---
 
 ### AYS Daily Digest 02/05/2019: Italy deporting vulnerable cases to inadequate centre
 #### Rome not renewing permits to international protection holders//276 people brought back to Libyan hell in two days//More deaths in the Mediterranean//Video showing disturbing living conditions of families between Croatia and Bosnia//German Federal Ministry of Transport blocked Mare Liberum from patrolling the Aegean//Unbelievable story from Serbia//Updates from France…
 
 
-![“The game\.” Credit: Emanuela Zampa](assets/1ff892d073f0/1*7sJIGQKPZdbQah2-wM6bKw.jpeg)
+![“The game\.” Credit: Emanuela Zampa](../assets/1ff892d073f0/1*7sJIGQKPZdbQah2-wM6bKw.jpeg)
 
 “The game\.” Credit: Emanuela Zampa
 ### **FEATURED STORIES**

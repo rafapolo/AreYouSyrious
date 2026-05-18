@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [greece,lesvos,refugees,digest,italy]
 description: Assault against union migrant workers in Italy // Deportations from Denmark // Open letter to Italian Prime Minister // more…
 image:
-  path: assets/92feb7d69851/0*G-ZjFL4BUhNSVRvq.jpeg
+  path: ../assets/92feb7d69851/0*G-ZjFL4BUhNSVRvq.jpeg
 ---
 
 ### AYS Daily Digest 26/04/21 Legal Centre Lesvos files case against Greece for massive pushback
 ### Assault against union migrant workers in Italy // Deportations from Denmark // Open letter to Italian Prime Minister // more…
 
 
-![](assets/92feb7d69851/0*fDucZ-N5uMpjsI1l.jpeg)
+![](../assets/92feb7d69851/0*fDucZ-N5uMpjsI1l.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----377fe09aece6--------------------------------)
@@ -25,11 +25,11 @@ image:
 Read [Legal Centre Lesvos’s](https://legalcentrelesvos.org/2021/04/26/new-case-filed-against-greece-in-european-court-for-massive-pushback-operation-of-over-180-migrants-caught-in-storm-near-crete/?fbclid=IwAR0M3Vvkq6DezSzx52RuC1ZhOkKssP-EV19SvmA3_akw2lpoSFB6D9ZSffo) full 26/04/21 Press Release:
 
 
-![](assets/92feb7d69851/0*pHVPhHlZ_W-33C1T)
+![](../assets/92feb7d69851/0*pHVPhHlZ_W-33C1T)
 
 
 
-![](assets/92feb7d69851/0*G-ZjFL4BUhNSVRvq.jpeg)
+![](../assets/92feb7d69851/0*G-ZjFL4BUhNSVRvq.jpeg)
 
 ### NEW CASE FILED AGAINST GREECE IN EUROPEAN COURT, FOR MASSIVE PUSHBACK OPERATION OF OVER 180 MIGRANTS CAUGHT IN STORM NEAR CRETE
 
@@ -189,11 +189,11 @@ _The Labor League, founded by the trade unionist and activist Aboubakar Soumahor
 ### SPAIN
 
 
-![](assets/92feb7d69851/0*KshgwVVJuAmUMIVB)
+![](../assets/92feb7d69851/0*KshgwVVJuAmUMIVB)
 
 
 
-![](assets/92feb7d69851/0*R1lGQhckXMB8APwR)
+![](../assets/92feb7d69851/0*R1lGQhckXMB8APwR)
 
 
 [Asamblea de Apoyo a Migrantes de Tenerife](https://twitter.com/AsambleaMigraTF/status/1386660293049262090) reported on Monday:

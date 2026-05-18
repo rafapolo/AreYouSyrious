@@ -1,19 +1,19 @@
 ---
-title: AYS Special from Turkey. KIDS RAINBOW IN GAZIANTEP: EDUCATION INSTEAD OF CHILD LABOUR
+title: "AYS Special from Turkey. KIDS RAINBOW IN GAZIANTEP: EDUCATION INSTEAD OF CHILD LABOUR"
 author: Are You Syrious?
 date: 2021-10-31T15:25:10.120+0000
 last_modified_at: 2021-11-01T21:08:26.297+0000
 categories: Are You Syrious?
 tags: [special,turkey,kids-rainbow,education,child-labor]
-description: School instead of work: This is the goal of the organization “Kids Rainbow” in Gaziantep.
+description: "School instead of work: This is the goal of the organization “Kids Rainbow” in Gaziantep."
 image:
-  path: assets/da4eef2772e6/1*DW3ZD_XE5WWHIwfbIOR6BA.jpeg
+  path: ../assets/da4eef2772e6/1*DW3ZD_XE5WWHIwfbIOR6BA.jpeg
 ---
 
 ### AYS Special from Turkey\. KIDS RAINBOW IN GAZIANTEP: EDUCATION INSTEAD OF CHILD LABOUR
 
 
-![\(Photo Credit: [Kids Rainbow](https://www.facebook.com/kidsrainbow.org) \)](assets/da4eef2772e6/1*DW3ZD_XE5WWHIwfbIOR6BA.jpeg)
+![\(Photo Credit: [Kids Rainbow](https://www.facebook.com/kidsrainbow.org) \)](../assets/da4eef2772e6/1*DW3ZD_XE5WWHIwfbIOR6BA.jpeg)
 
 \(Photo Credit: [Kids Rainbow](https://www.facebook.com/kidsrainbow.org) \)
 
@@ -64,7 +64,7 @@ The team has not yet found a promising strategy, also because the topic is enorm
 It’s really easy to get in touch with the families\. They can talk about their problems and more in Arabic\.
 
 
-![**\(Mustafa Karali: Project Manager at Kids Rainbow\)**](assets/da4eef2772e6/1*fPN1ZsMj1VJSKWD983TpZg.jpeg)
+![**\(Mustafa Karali: Project Manager at Kids Rainbow\)**](../assets/da4eef2772e6/1*fPN1ZsMj1VJSKWD983TpZg.jpeg)
 
 **\(Mustafa Karali: Project Manager at Kids Rainbow\)**
 
@@ -76,7 +76,7 @@ Prior to the coronavirus pandemic, Kids Rainbow’s neighbourhood centre was ope
 ### KIDS RAINBOW BUILDS NEW COMMUNITY CENTRE
 
 
-![](assets/da4eef2772e6/1*PPlvpaITXMh0tMlLMkULlQ.jpeg)
+![](../assets/da4eef2772e6/1*PPlvpaITXMh0tMlLMkULlQ.jpeg)
 
 
 The new community centre is currently under construction\. Karali leads us through the house, where painting and work is diligently done: From the — recently self\-roofed — courtyard, a staircase leads up to one of the rooms, next to it is the small kitchen\. An even narrower staircase leads up to a small room, which is intended to serve as a retreat for the children, a little higher is the attic\. While there are currently still gaps between the bricks, there are already big plans for the homely attic as soon as it is newly insulated and expanded: “This is where we want to set up our cinema\.”

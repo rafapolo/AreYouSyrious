@@ -1,5 +1,5 @@
 ---
-title: AYS DAIL DIGEST 2/2/2018: We demand that people in Calais are treated with humanity!
+title: "AYS DAIL DIGEST 2/2/2018: We demand that people in Calais are treated with humanity!"
 author: Are You Syrious?
 date: 2018-02-03T10:59:45.216+0000
 last_modified_at: 2018-03-01T13:39:01.438+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,calais,greece,croatia,digest]
 description: Aftermath of latest clashes in Calais // False promises for Syrian in Turkey // Another tragedy at the sea // Two persons died while trying…
 image:
-  path: assets/f61a56f633ec/1*rVahlZ6NYe1rZ4ztBINwEw.jpeg
+  path: ../assets/f61a56f633ec/1*rVahlZ6NYe1rZ4ztBINwEw.jpeg
 ---
 
 ### AYS DAIL DIGEST 2/2/2018: We demand that people in Calais are treated with humanity\!
@@ -15,7 +15,7 @@ image:
 _Aftermath of latest clashes in Calais // False promises for Syrian in Turkey // Another tragedy at the sea // Two persons died while trying to reach a better life in Europe, one in Greece and one in Croatia // Occupation in Paris…_
 
 
-![Winter can be icy in Europe\. Every year, people freeze to death by insufficient protection\. Photo: [Rigardu e\.V\.](https://www.facebook.com/rigardu/?hc_ref=ARReZJHohogfEkHkrVe09hS7VzC4VV4pX39cI8C5LdNoUj0q3tATzCLRCYLWy6vHuMA&fref=nf)](assets/f61a56f633ec/1*rVahlZ6NYe1rZ4ztBINwEw.jpeg)
+![Winter can be icy in Europe\. Every year, people freeze to death by insufficient protection\. Photo: [Rigardu e\.V\.](https://www.facebook.com/rigardu/?hc_ref=ARReZJHohogfEkHkrVe09hS7VzC4VV4pX39cI8C5LdNoUj0q3tATzCLRCYLWy6vHuMA&fref=nf)](../assets/f61a56f633ec/1*rVahlZ6NYe1rZ4ztBINwEw.jpeg)
 
 Winter can be icy in Europe\. Every year, people freeze to death by insufficient protection\. Photo: [Rigardu e\.V\.](https://www.facebook.com/rigardu/?hc_ref=ARReZJHohogfEkHkrVe09hS7VzC4VV4pX39cI8C5LdNoUj0q3tATzCLRCYLWy6vHuMA&fref=nf)
 ### Feature
@@ -42,7 +42,7 @@ According to this statement, a total of 22 people ended up in hospital with inju
 
 
 
-![Photo L’Auberge des Migrants](assets/f61a56f633ec/1*N92Ap5f0JPpI50caxyYPVA.jpeg)
+![Photo L’Auberge des Migrants](../assets/f61a56f633ec/1*N92Ap5f0JPpI50caxyYPVA.jpeg)
 
 Photo L’Auberge des Migrants
 
@@ -71,7 +71,7 @@ Another tragedy occured on February 1st near the coast of Libya\. Apparently,
 [According to the IOM](https://www.iom.int/news/bodies-wash-ashore-following-boat-capsize-libyan-coast) , the UN Migration Agency, 6,624 people had entered Europe by sea through 28 January\.
 
 
-![Photo: [Gabriel Tizon](https://www.facebook.com/gabrieltizonfotografo/photos/a.213760148669815.51627.213743695338127/1633798479999301/?type=3&theater)](assets/f61a56f633ec/1*mo58wZv_LYgGVBnt9JhIiQ.jpeg)
+![Photo: [Gabriel Tizon](https://www.facebook.com/gabrieltizonfotografo/photos/a.213760148669815.51627.213743695338127/1633798479999301/?type=3&theater)](../assets/f61a56f633ec/1*mo58wZv_LYgGVBnt9JhIiQ.jpeg)
 
 Photo: [Gabriel Tizon](https://www.facebook.com/gabrieltizonfotografo/photos/a.213760148669815.51627.213743695338127/1633798479999301/?type=3&theater)
 
@@ -110,7 +110,7 @@ The last rescue took place on January 28 when Salvamento Marítimo transferred 3
 More people are arriving on the Greek islands these days\. More specifically, in the last three days, 373 people arrived from Turkey\. Volunteers are reporting that in total, 35 boats have arrived on the Greek islands in January, with a total of 1,543 people\.
 
 
-![By [Aegean Boar Report](https://www.facebook.com/AegeanBoatReport/posts/301815493674895) \.](assets/f61a56f633ec/1*4wNNnxiHkdZZ_QvqQIDRWg.jpeg)
+![By [Aegean Boar Report](https://www.facebook.com/AegeanBoatReport/posts/301815493674895) \.](../assets/f61a56f633ec/1*4wNNnxiHkdZZ_QvqQIDRWg.jpeg)
 
 By [Aegean Boar Report](https://www.facebook.com/AegeanBoatReport/posts/301815493674895) \.
 
@@ -149,7 +149,7 @@ None of the refugees and immigrants arriving on the islands want to stay on Lesv
 Probably this man attempted to climb the ship as many refugees do, and fell into the sea\.
 
 
-![](assets/f61a56f633ec/1*5ekIv3LiBDKMvBbwpjdzKQ.jpeg)
+![](../assets/f61a56f633ec/1*5ekIv3LiBDKMvBbwpjdzKQ.jpeg)
 
 
 

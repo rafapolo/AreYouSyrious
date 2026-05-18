@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 28–29/9/19: Fire in Moria camp took mother and baby’s life
+title: "AYS Weekend Digest 28–29/9/19: Fire in Moria camp took mother and baby’s life"
 author: Are You Syrious?
 date: 2019-09-30T17:29:31.952+0100
 last_modified_at: 2019-10-01T11:45:13.978+0100
@@ -7,29 +7,29 @@ categories: Are You Syrious?
 tags: [refugees,digest,moria,mediterranean,libya]
 description: Families living rough in Paris /// EU coastguard refuse assistance in the central Med /// Tragedy in the western Med /// New plans to…
 image:
-  path: assets/57c10fc1cb10/0*Sxug8Qkpwb-ttxI7.jpeg
+  path: ../assets/57c10fc1cb10/0*Sxug8Qkpwb-ttxI7.jpeg
 ---
 
 ### AYS Weekend Digest 28–29/9/19: Fire in Moria camp took mother and baby’s life
 #### Families living rough in Paris /// EU coastguard refuse assistance in the central Med /// Tragedy in the western Med /// New plans to decongest the Greek islands /// Updates on Athens evictions /// No medical care in Vucjak /// Swiss court to decided if Croatia is safe for returns /// Suicide of rejected asylum seeker in Sweden /// and more…
 
 
-![](assets/57c10fc1cb10/0*vWjCtANZrADk9PiU)
+![](../assets/57c10fc1cb10/0*vWjCtANZrADk9PiU)
 
 
 
-![](assets/57c10fc1cb10/0*Sxug8Qkpwb-ttxI7.jpeg)
+![](../assets/57c10fc1cb10/0*Sxug8Qkpwb-ttxI7.jpeg)
 
 ### FEATURE — Fire in Moria camp, Lesvos
 
 As we reported on Sunday as soon as the news reached us, a large fire broke out within Moria camp, burning 7 to 10 houses \(plastic containers\) \. A second fire also broke out, apparently [outside](https://twitter.com/rspaegean/status/1178357291952857089?fbclid=IwAR14LP2uxAuiMW8mOAtxNTj03A8b63ZtlvpHDZ5dqFoeQsxqTvj_Q68nh5U) the camp\.
 
 
-![](assets/57c10fc1cb10/0*NeJ2D3S7BnYzmOVZ)
+![](../assets/57c10fc1cb10/0*NeJ2D3S7BnYzmOVZ)
 
 
 
-![](assets/57c10fc1cb10/0*E5a6k0BV8SksOtm4.jpeg)
+![](../assets/57c10fc1cb10/0*E5a6k0BV8SksOtm4.jpeg)
 
 
 Moria camp, Lesvos \(Photo by [Maurizio Lebanne](https://twitter.com/MaurizioDebanne/status/1178346607915483137/photo/1) \)
@@ -137,11 +137,11 @@ A [volunteer](http://Annerose Witzler) was in Grand\-Synthe during the weekend\.
 ### Updates from Paris camps
 
 
-![](assets/57c10fc1cb10/0*nISe7te0KGbbhGnt)
+![](../assets/57c10fc1cb10/0*nISe7te0KGbbhGnt)
 
 
 
-![](assets/57c10fc1cb10/0*8ZCotPObAz444KV4)
+![](../assets/57c10fc1cb10/0*8ZCotPObAz444KV4)
 
 
 Paris \(Photos by [Danika Jurisic](https://www.facebook.com/photo.php?fbid=2427844797542145&set=pcb.2427845184208773&type=3&theater) \)

@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,greece,libya,france,sea]
 description: Deadly interceptions by Libyan coast guard // New European Parliament watchdog on Frontex // Romania and Cyprus register record migration…
 image:
-  path: assets/9adc2fe28b83/1*2bMNPaa7RtorEFd-QM7Xkg.jpeg
+  path: ../assets/9adc2fe28b83/1*2bMNPaa7RtorEFd-QM7Xkg.jpeg
 ---
 
 ### AYS Daily Digest 22/02/2021 — Children along migrant routes endure mental health crisis and abuse
 #### Deadly interceptions by Libyan coast guard // New European Parliament watchdog on Frontex // Romania and Cyprus register record migration numbers // and much more…
 
 
-![A little boy from Afghanistan in Chios — credits to [Ruhi Akhtar](https://www.facebook.com/ruhi.akhtar.7/posts/4315521811798027)](assets/9adc2fe28b83/1*2bMNPaa7RtorEFd-QM7Xkg.jpeg)
+![A little boy from Afghanistan in Chios — credits to [Ruhi Akhtar](https://www.facebook.com/ruhi.akhtar.7/posts/4315521811798027)](../assets/9adc2fe28b83/1*2bMNPaa7RtorEFd-QM7Xkg.jpeg)
 
 A little boy from Afghanistan in Chios — credits to [Ruhi Akhtar](https://www.facebook.com/ruhi.akhtar.7/posts/4315521811798027)
 ### GREECE
@@ -72,7 +72,7 @@ The raid in the city of Kufra took place on February 16 after a migrant managed 
 ### SEA
 
 
-![Aita Mari — credits: InfoMigrants](assets/9adc2fe28b83/1*KgQhynePNF7RIyY3CJwo9Q.jpeg)
+![Aita Mari — credits: InfoMigrants](../assets/9adc2fe28b83/1*KgQhynePNF7RIyY3CJwo9Q.jpeg)
 
 Aita Mari — credits: InfoMigrants
 
@@ -139,7 +139,7 @@ As many as 77 % of Poles believe that Poland should support refugees fleeing the
 ### FRANCE
 
 
-![_Rally of the Generation Identitaire against its dissolution at Place Denfert\-Rochereau in Paris on 20 February 2021 \| Photo: Picture\-alliance/Renaud Khanh_](assets/9adc2fe28b83/1*cHQV8QbHlwtZ1NYaXXqkKQ.jpeg)
+![_Rally of the Generation Identitaire against its dissolution at Place Denfert\-Rochereau in Paris on 20 February 2021 \| Photo: Picture\-alliance/Renaud Khanh_](../assets/9adc2fe28b83/1*cHQV8QbHlwtZ1NYaXXqkKQ.jpeg)
 
 _Rally of the Generation Identitaire against its dissolution at Place Denfert\-Rochereau in Paris on 20 February 2021 \| Photo: Picture\-alliance/Renaud Khanh_
 

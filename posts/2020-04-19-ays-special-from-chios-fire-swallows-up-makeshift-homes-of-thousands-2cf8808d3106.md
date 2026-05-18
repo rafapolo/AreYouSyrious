@@ -1,5 +1,5 @@
 ---
-title: AYS Special from Chios: Fire swallows up makeshift homes of thousands
+title: "AYS Special from Chios: Fire swallows up makeshift homes of thousands"
 author: Are You Syrious?
 date: 2020-04-19T12:38:03.377+0100
 last_modified_at: 2020-04-19T17:32:41.601+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [chios,vial,refugees,migrants,special]
 description: The results of last night’s huge fires and damages in Vial camp are laid bare this morning. The protests happened after the tragic death…
 image:
-  path: assets/2cf8808d3106/1*gVk39Ypoh1kIZzc8Fs-fpg.jpeg
+  path: ../assets/2cf8808d3106/1*gVk39Ypoh1kIZzc8Fs-fpg.jpeg
 ---
 
 ### AYS Special from Chios: Fire swallows up makeshift homes of hundreds
 #### **The results of last night’s huge fires and damages in Vial camp are laid bare this morning\. The protests happened after the tragic death of a 47 year\-old who was locked up in a container\.** What has happened last night is the physical manifestation of the huge number of injustices conducted against the people living there\.
 
 
-![Trash, burnt down tents and despair: aftermath of last night’s riots\. Photo: camp resident](assets/2cf8808d3106/1*gVk39Ypoh1kIZzc8Fs-fpg.jpeg)
+![Trash, burnt down tents and despair: aftermath of last night’s riots\. Photo: camp resident](../assets/2cf8808d3106/1*gVk39Ypoh1kIZzc8Fs-fpg.jpeg)
 
 Trash, burnt down tents and despair: aftermath of last night’s riots\. Photo: camp resident
 
@@ -32,7 +32,7 @@ One was near the front of the camp where the shop, the police kiosk and at least
 There are rumours spreading through the camp that this death was a result of neglect\. While nothing can be confirmed until the autopsy is completed on Tuesday, the conditions and the lack of adequate medical support in the camp may very well have been a large contributing factor in the loss of her life\.
 
 
-[![Fire, riots in Vial camp on Chios island](assets/2cf8808d3106/d365_hqdefault.jpg "Fire, riots in Vial camp on Chios island")](https://www.youtube.com/watch?v=jSCjkyaoYiA)
+[![Fire, riots in Vial camp on Chios island](../assets/2cf8808d3106/d365_hqdefault.jpg "Fire, riots in Vial camp on Chios island")](https://www.youtube.com/watch?v=jSCjkyaoYiA)
 
 
 There are several reports that as the police arrived, they began using tear gas to break up the protests that were ongoing\. At this point some of the camp residents retaliated by throwing stones in the direction of the riot police\.
@@ -50,7 +50,7 @@ According to [local media](https://www.politischios.gr/koinonia/sullepseis-kai-p
 
 
 
-![Food trucks have been destroyed by fire\. Photo: camp resident](assets/2cf8808d3106/1*KzJiUFGfkSJiJRBlm34XgA.jpeg)
+![Food trucks have been destroyed by fire\. Photo: camp resident](../assets/2cf8808d3106/1*KzJiUFGfkSJiJRBlm34XgA.jpeg)
 
 Food trucks have been destroyed by fire\. Photo: camp resident
 #### The pictures tell a thousand words\.
@@ -62,7 +62,7 @@ The camp has an official capacity of 1014 people\. Even when the camp was at thi
 There are reports that sometimes there is not the legal minimum \(1\.5 Litres per person per day\) of drinking water provided to families in the camp\. There is no basic waste management, particularly of the so\-called ‘jungle’, the overspill of the official camp resident to approximately 4000 people\.
 
 
-![How to rebuild a life in a camp six times over its capacity? Photo: camp resident](assets/2cf8808d3106/1*hiV1JSYafNSD8NNX5cxamQ.jpeg)
+![How to rebuild a life in a camp six times over its capacity? Photo: camp resident](../assets/2cf8808d3106/1*hiV1JSYafNSD8NNX5cxamQ.jpeg)
 
 How to rebuild a life in a camp six times over its capacity? Photo: camp resident
 
@@ -75,7 +75,7 @@ There are snakes and scorpions in the fields and in the camp, one 9 month\-old b
 Only official camp actors have been able to work inside the camp, since the implementation of the COVID\-19 restrictions\. This means that all of the smaller NGOs have not been able to provide the important supports and gap filling services for many weeks\. This is in spite of the offers and willingness of these NGOs to compromise and support the authorities with supplies and volunteers\.
 
 
-![Lacking bare necessities and afraid to leave the camp: reality even before the fire\. Photo: camp resident](assets/2cf8808d3106/1*zIvS3_Dfc6_LDUHekE3dmA.jpeg)
+![Lacking bare necessities and afraid to leave the camp: reality even before the fire\. Photo: camp resident](../assets/2cf8808d3106/1*zIvS3_Dfc6_LDUHekE3dmA.jpeg)
 
 Lacking bare necessities and afraid to leave the camp: reality even before the fire\. Photo: camp resident
 
@@ -86,7 +86,7 @@ All of these pressures, one by one, day by day, with everything else make the ca
 The solidarity crisis encompasses not only the people on the move, but also the people of the Greek islands, who have been completely shut out by successive European governments, as well as their own\. For many locals on the Aegean islands the plan to build both very large and very permanent detention centres was one step too far\.
 
 
-![Chios People’s warehouse was burnt down on 3rd of March\. Photo: CPW](assets/2cf8808d3106/1*fyNtCj7qlWaJABBOlnKPWA.jpeg)
+![Chios People’s warehouse was burnt down on 3rd of March\. Photo: CPW](../assets/2cf8808d3106/1*fyNtCj7qlWaJABBOlnKPWA.jpeg)
 
 Chios People’s warehouse was burnt down on 3rd of March\. Photo: CPW
 
@@ -99,7 +99,7 @@ The overwhelming majority of the Chios community has utterly condemned this sens
 The road block from the locals lasted until late last month, although now it’s the police blocking due to COVID\-19 restrictions\.
 
 
-![Local people protest in support of refugees and volunteers after the Chios People’s warehouse was burnt down in early March 2020\. Photo: [Katerina Anastasiou](https://www.facebook.com/lll.KAT.lll?__tn__=%2Cd%2AF%2AF-R&eid=ARAQqnbxPe5V_vW5Dqq0I6uRSmDxZSXa5QNm9B4t04WMfFDEaglCx3Gsy8EshCjsSuSfkL1_7xrnFtB4&tn-str=%2AF)](assets/2cf8808d3106/1*FVUbfubnAMMwTsQ7XwfYJw.jpeg)
+![Local people protest in support of refugees and volunteers after the Chios People’s warehouse was burnt down in early March 2020\. Photo: [Katerina Anastasiou](https://www.facebook.com/lll.KAT.lll?__tn__=%2Cd%2AF%2AF-R&eid=ARAQqnbxPe5V_vW5Dqq0I6uRSmDxZSXa5QNm9B4t04WMfFDEaglCx3Gsy8EshCjsSuSfkL1_7xrnFtB4&tn-str=%2AF)](../assets/2cf8808d3106/1*FVUbfubnAMMwTsQ7XwfYJw.jpeg)
 
 Local people protest in support of refugees and volunteers after the Chios People’s warehouse was burnt down in early March 2020\. Photo: [Katerina Anastasiou](https://www.facebook.com/lll.KAT.lll?__tn__=%2Cd%2AF%2AF-R&eid=ARAQqnbxPe5V_vW5Dqq0I6uRSmDxZSXa5QNm9B4t04WMfFDEaglCx3Gsy8EshCjsSuSfkL1_7xrnFtB4&tn-str=%2AF)
 

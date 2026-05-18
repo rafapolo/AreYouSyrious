@@ -1,5 +1,5 @@
 ---
-title: AYS Special: Frontex and Human Rights — How did we arrive here? Part 3 (2020-Present)
+title: "AYS Special: Frontex and Human Rights — How did we arrive here? Part 3 (2020-Present)"
 author: Are You Syrious?
 date: 2020-12-26T16:15:34.433+0000
 last_modified_at: 2020-12-26T16:15:34.433+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [special,frontex,european-union,human-rights,pushback]
 description: Are You Syrious?
 image:
-  path: assets/3841f1a9e532/0*iSQWKfJ8RWEhjiO4.jpeg
+  path: ../assets/3841f1a9e532/0*iSQWKfJ8RWEhjiO4.jpeg
 ---
 
 ### AYS Special: Frontex and Human Rights — How did we arrive here? Part 3 \(2020\-Present\)
 
 
-![](assets/3841f1a9e532/0*TG_yT1e5cREuQuj9.jpeg)
+![](../assets/3841f1a9e532/0*TG_yT1e5cREuQuj9.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----706438d8e29--------------------------------)
@@ -26,11 +26,11 @@ _This is the third and last part of the Frontex timeline, from the beginning of 
 ### 2020
 
 
-![](assets/3841f1a9e532/0*wRttusF-TLql0Pjc)
+![](../assets/3841f1a9e532/0*wRttusF-TLql0Pjc)
 
 
 
-![](assets/3841f1a9e532/0*iSQWKfJ8RWEhjiO4.jpeg)
+![](../assets/3841f1a9e532/0*iSQWKfJ8RWEhjiO4.jpeg)
 
 
 **Budget:** €420\.6m \( [approved in August 2019](https://ec.europa.eu/commission/presscorner/detail/en/IP_19_2809) \) 
@@ -38,19 +38,19 @@ _This is the third and last part of the Frontex timeline, from the beginning of 
 **Frontex own’s standing corps** , as provided by the 2019 Regulation: as of [September 30](https://frontex.europa.eu/media-centre/news-release/frontex-welcomes-new-standing-corps-recruits-ILr9os) , a total of 433 people have been recruited and are undertaking a six\-month training\. The f [irst 265 recruits](https://frontex.europa.eu/media-centre/news-release/frontex-welcomes-first-standing-corps-recruits-h2LxJD) should finish training in December 2020\.
 
 
-![](assets/3841f1a9e532/0*17eSM2XD2T8hvx7Y)
+![](../assets/3841f1a9e532/0*17eSM2XD2T8hvx7Y)
 
 
 
-![](assets/3841f1a9e532/0*ffMsBw_JRLPf91Q3.jpeg)
+![](../assets/3841f1a9e532/0*ffMsBw_JRLPf91Q3.jpeg)
 
 
 
-![](assets/3841f1a9e532/0*D1l13049e16gd7ib)
+![](../assets/3841f1a9e532/0*D1l13049e16gd7ib)
 
 
 
-![](assets/3841f1a9e532/0*_kT_6WB5WVmHK2tI.png)
+![](../assets/3841f1a9e532/0*_kT_6WB5WVmHK2tI.png)
 
 
 **December 22:** A new [article](https://www.spiegel.de/politik/ausland/frontex-skandal-horst-seehofer-deckte-offenbar-griechische-verbrechen-a-bd062e3f-e016-4f43-98a1-98cfe9757529) by Der Spiegel shows the reluctance of German Interior Minister Seehofer to provide detailed information regarding the pushback off Samos island witnessed by a German federal police vessel on August 10, despite an internal document of the ministry proving that he had full knowledge of the events of that day\.

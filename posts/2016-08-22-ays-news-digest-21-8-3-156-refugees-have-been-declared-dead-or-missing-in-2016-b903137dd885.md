@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 21/8: 3,156 refugees have been declared dead or missing in 2016
+title: "AYS News Digest 21/8: 3,156 refugees have been declared dead or missing in 2016"
 author: Are You Syrious?
 date: 2016-08-22T09:09:42.255+0100
 last_modified_at: 2016-08-22T11:08:19.005+0100
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe,greece,volunteers,alexis-tsipras]
 description: At least 200 people saved from the sea. Regional alliance to prevent new flow of the refugees proposed. New arrivals to Greece. Family i…
 image:
-  path: assets/b903137dd885/1*lXTK4j6B74eCNYYeXj9GtA.jpeg
+  path: ../assets/b903137dd885/1*lXTK4j6B74eCNYYeXj9GtA.jpeg
 ---
 
 ### AYS News Digest 21/8: 3,156 refugees have been declared dead or missing in 2016
 
 
-![Eco kitchen: Together hand by hand refugees and volunteers we can do every thing\. Photo by Hassan Alhomse\.](assets/b903137dd885/1*lXTK4j6B74eCNYYeXj9GtA.jpeg)
+![Eco kitchen: Together hand by hand refugees and volunteers we can do every thing\. Photo by Hassan Alhomse\.](../assets/b903137dd885/1*lXTK4j6B74eCNYYeXj9GtA.jpeg)
 
 Eco kitchen: Together hand by hand refugees and volunteers we can do every thing\. Photo by Hassan Alhomse\.
 
@@ -35,7 +35,7 @@ As always, the numbers of refugees present according to the Greek government may
 Today a boat was picked up by Frontex to the southeast of Lesvos\. 37 people were onboard\.
 
 
-![Photo by Hassan Alhomse\.](assets/b903137dd885/1*8oWQMvCxnnJyiZcLxL56Qw.jpeg)
+![Photo by Hassan Alhomse\.](../assets/b903137dd885/1*8oWQMvCxnnJyiZcLxL56Qw.jpeg)
 
 Photo by Hassan Alhomse\.
 ### Tsipras seeks to form a regional alliance to tackle refugee migration
@@ -92,15 +92,15 @@ And finally, important information for volunteers regarding the squat situation:
 ### Team Banana in action
 
 
-![](assets/b903137dd885/1*URpK_ZbQ90deqeuQAdtCeA.jpeg)
+![](../assets/b903137dd885/1*URpK_ZbQ90deqeuQAdtCeA.jpeg)
 
 
 
-![](assets/b903137dd885/1*HmM99drmoxydyv9wna7DOA.jpeg)
+![](../assets/b903137dd885/1*HmM99drmoxydyv9wna7DOA.jpeg)
 
 
 
-![IHA and Team Banana distributing bananas in camp in Northern Greece\. Photo by IHA\.](assets/b903137dd885/1*BDzWhgww17vTRliGmugp7g.png)
+![IHA and Team Banana distributing bananas in camp in Northern Greece\. Photo by IHA\.](../assets/b903137dd885/1*BDzWhgww17vTRliGmugp7g.png)
 
 IHA and Team Banana distributing bananas in camp in Northern Greece\. Photo by IHA\.
 

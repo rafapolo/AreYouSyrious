@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,covid-19,germany,racism]
 description: Hundreds missing once returned to Libya // people put on ships in Lampedusa // racists attacks in several countries // UK failing at…
 image:
-  path: assets/915f4b9ad2b3/1*frRHqhBGAlL9pYZcElLvTw.jpeg
+  path: ../assets/915f4b9ad2b3/1*frRHqhBGAlL9pYZcElLvTw.jpeg
 ---
 
 ### AYS Daily Digest 5/8/20 German neo\-Nazi admits to murder of pro\-refugee politician
@@ -15,7 +15,7 @@ image:
 _Hundreds missing once returned to Libya // People put on ships in Lampedusa // Racist attacks in several countries // UK failing at refugee integration // & more…_
 
 
-![KSK was dispanded from the German armed forces this week for involvment with neo\-Nazi ideology\. Photo provided by [DW](https://www.dw.com/en/germany-to-overhaul-elite-army-force-tied-to-right-wing-extremism/a-54004898)](assets/915f4b9ad2b3/1*frRHqhBGAlL9pYZcElLvTw.jpeg)
+![KSK was dispanded from the German armed forces this week for involvment with neo\-Nazi ideology\. Photo provided by [DW](https://www.dw.com/en/germany-to-overhaul-elite-army-force-tied-to-right-wing-extremism/a-54004898)](../assets/915f4b9ad2b3/1*frRHqhBGAlL9pYZcElLvTw.jpeg)
 
 KSK was dispanded from the German armed forces this week for involvment with neo\-Nazi ideology\. Photo provided by [DW](https://www.dw.com/en/germany-to-overhaul-elite-army-force-tied-to-right-wing-extremism/a-54004898)
 ### FEATURE: On Wednesday the German neo\-Nazi Stephan Ernst admitted that he murdered pro\-refugee politician Walter Luebcke
@@ -75,18 +75,18 @@ ALSO FREE THE OCEAN VIKING\! Another ship that should not by immobilized\. Learn
 #### GREECE
 
 
-![](assets/915f4b9ad2b3/1*JNHlUQe8KgCFZtsVpR0ZTA.png)
+![](../assets/915f4b9ad2b3/1*JNHlUQe8KgCFZtsVpR0ZTA.png)
 
 
 
 ![“For months we have been trying to assist with first aid and emergency intervention for injured and sick in the camp\. Especially at night there is no medical service at the camp, so we have a system to bring people down from the jungle to ambulances or the hospitals in day time\. 
-We are very much supporting the first aid courses by BRF and [@Stand](http://twitter.com/Stand) By Me Lesvos because we believe refugees need to know how to find help in such situations and we will also push for some courses in fire protection\.” Photos by [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/posts/173429790966755)](assets/915f4b9ad2b3/1*4vVPtKMLwceR09PRLaMhRw.jpeg)
+We are very much supporting the first aid courses by BRF and [@Stand](http://twitter.com/Stand) By Me Lesvos because we believe refugees need to know how to find help in such situations and we will also push for some courses in fire protection\.” Photos by [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/posts/173429790966755)](../assets/915f4b9ad2b3/1*4vVPtKMLwceR09PRLaMhRw.jpeg)
 
 “For months we have been trying to assist with first aid and emergency intervention for injured and sick in the camp\. Especially at night there is no medical service at the camp, so we have a system to bring people down from the jungle to ambulances or the hospitals in day time\. 
 We are very much supporting the first aid courses by BRF and [@Stand](http://twitter.com/Stand) By Me Lesvos because we believe refugees need to know how to find help in such situations and we will also push for some courses in fire protection\.” Photos by [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/posts/173429790966755)
 
 
-![“When night falls in [\#Moria](https://twitter.com/hashtag/Moria?src=hashtag_click) , most people stay intents\. Lit fires to cook or create a source of light, since most of the surrounding wild camp is still without electricity\. Right now there are ~13,500 residents\. Daily violent incidents reported by [\#refugeesgr](https://twitter.com/hashtag/refugeesgr?src=hashtag_click) , mostly at night\.” Photo by [Franziska Grillmeier](https://twitter.com/f_grillmeier/status/1291085682111393792)](assets/915f4b9ad2b3/1*ci7isKcmHPwcdyorvXl0pg.jpeg)
+![“When night falls in [\#Moria](https://twitter.com/hashtag/Moria?src=hashtag_click) , most people stay intents\. Lit fires to cook or create a source of light, since most of the surrounding wild camp is still without electricity\. Right now there are ~13,500 residents\. Daily violent incidents reported by [\#refugeesgr](https://twitter.com/hashtag/refugeesgr?src=hashtag_click) , mostly at night\.” Photo by [Franziska Grillmeier](https://twitter.com/f_grillmeier/status/1291085682111393792)](../assets/915f4b9ad2b3/1*ci7isKcmHPwcdyorvXl0pg.jpeg)
 
 “When night falls in [\#Moria](https://twitter.com/hashtag/Moria?src=hashtag_click) , most people stay intents\. Lit fires to cook or create a source of light, since most of the surrounding wild camp is still without electricity\. Right now there are ~13,500 residents\. Daily violent incidents reported by [\#refugeesgr](https://twitter.com/hashtag/refugeesgr?src=hashtag_click) , mostly at night\.” Photo by [Franziska Grillmeier](https://twitter.com/f_grillmeier/status/1291085682111393792)
 
@@ -116,7 +116,7 @@ Italy is trying to house hundreds of migrants on a ship in Lampedusa\. With all 
 On Saturday a man was beaten in a racist attack on the beach simply for being black in Castiglione della Pescaia \(Tuscany region\) \. He sustained multiple injuries and there were two attackers\. He has been working in the region for four years\. Racism must be condemned, once and for all\. Learn more [here](https://www.infomigrants.net/en/post/26446/man-beaten-on-italian-beach-for-being-black?fbclid=IwAR2h_otUx3my3LjErZs5Js3tDggmt7YjTvxC6gvUDxK3vDV3e2hyPgXUdYI) \.
 
 
-![“The third lockdown started at the former Cavarzerani barracks\. The first one started in March, when by decree everyone had to respect the same rules, including asylum seekers, of whom there were, at the time, around 300\. The second one was begun about two weeks ago, because three positive cases were found inside the camp …\. The third lockdown started this week because another person tested positive\. Meanwhile there are now 500 people locked up in camp, overcoming the maximum capacity limit\.” Photo and info by [Ospiti in Arrivo](https://www.facebook.com/ospitinarrivo/posts/2718122068443889)](assets/915f4b9ad2b3/1*-PXo4ibPAxeoHll1qDFz8Q.png)
+![“The third lockdown started at the former Cavarzerani barracks\. The first one started in March, when by decree everyone had to respect the same rules, including asylum seekers, of whom there were, at the time, around 300\. The second one was begun about two weeks ago, because three positive cases were found inside the camp …\. The third lockdown started this week because another person tested positive\. Meanwhile there are now 500 people locked up in camp, overcoming the maximum capacity limit\.” Photo and info by [Ospiti in Arrivo](https://www.facebook.com/ospitinarrivo/posts/2718122068443889)](../assets/915f4b9ad2b3/1*-PXo4ibPAxeoHll1qDFz8Q.png)
 
 “The third lockdown started at the former Cavarzerani barracks\. The first one started in March, when by decree everyone had to respect the same rules, including asylum seekers, of whom there were, at the time, around 300\. The second one was begun about two weeks ago, because three positive cases were found inside the camp …\. The third lockdown started this week because another person tested positive\. Meanwhile there are now 500 people locked up in camp, overcoming the maximum capacity limit\.” Photo and info by [Ospiti in Arrivo](https://www.facebook.com/ospitinarrivo/posts/2718122068443889)
 

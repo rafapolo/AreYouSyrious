@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [france,paris,digest,afghanistan,refugees]
 description: Drownings off Rhodes // critical situation in Afghanistan // judge says “no criminal offense” at Arguinguin dock // Italy and Spain…
 image:
-  path: assets/d98295066562/1*1MJ_SqoxmwkbaGa72tYcSQ.jpeg
+  path: ../assets/d98295066562/1*1MJ_SqoxmwkbaGa72tYcSQ.jpeg
 ---
 
 ### AYS Daily Digest 23/11/20 Utopia 56 occupation of the Place de la République
@@ -15,7 +15,7 @@ image:
 _Drownings off Rhodes // critical situation in Afghanistan // judge says “no criminal offense” at Arguinguin dock // Italy and Spain negotiate with African countries // and more…_
 
 
-![“Occupation in progress of Place de la République in Paris by 450 exiled people, left in the street following the evacuation on Tuesday of the Saint\-Denis camp\. We are asking for the opening of accommodation places and a real reception system for exiles\.” Photo by [Utopia 56](https://twitter.com/Utopia_56/status/1330938852509437953)](assets/d98295066562/1*1MJ_SqoxmwkbaGa72tYcSQ.jpeg)
+![“Occupation in progress of Place de la République in Paris by 450 exiled people, left in the street following the evacuation on Tuesday of the Saint\-Denis camp\. We are asking for the opening of accommodation places and a real reception system for exiles\.” Photo by [Utopia 56](https://twitter.com/Utopia_56/status/1330938852509437953)](../assets/d98295066562/1*1MJ_SqoxmwkbaGa72tYcSQ.jpeg)
 
 “Occupation in progress of Place de la République in Paris by 450 exiled people, left in the street following the evacuation on Tuesday of the Saint\-Denis camp\. We are asking for the opening of accommodation places and a real reception system for exiles\.” Photo by [Utopia 56](https://twitter.com/Utopia_56/status/1330938852509437953)
 ### FEATURE: OCCUPATION OF THE PLACE DE LA RÉPUBLIQUE FOLLOWING PARIS EVICTIONS
@@ -77,7 +77,7 @@ Please continue to follow [Utopia 56](https://twitter.com/Utopia_56) for updates
 #### AFGHANISTAN
 
 
-![Photo by [NOORULLAH SHIRZADA/AFP/GETTY IMAGES](https://foreignpolicy.com/2019/05/09/for-afghan-refugees-pakistan-is-a-nightmare-but-also-home/)](assets/d98295066562/1*kyXiVEuL0pSH1_mU_wCSug.jpeg)
+![Photo by [NOORULLAH SHIRZADA/AFP/GETTY IMAGES](https://foreignpolicy.com/2019/05/09/for-afghan-refugees-pakistan-is-a-nightmare-but-also-home/)](../assets/d98295066562/1*kyXiVEuL0pSH1_mU_wCSug.jpeg)
 
 Photo by [NOORULLAH SHIRZADA/AFP/GETTY IMAGES](https://foreignpolicy.com/2019/05/09/for-afghan-refugees-pakistan-is-a-nightmare-but-also-home/)
 ### UNHCR: Displacement in Afghanistan needs solutions now
@@ -117,7 +117,7 @@ Find the full statement [here](https://www.facebook.com/AmasoAfg/posts/385020346
 #### GREECE
 
 
-![Samos during COVID\. Photo by [Samos Volunteers](https://www.opendemocracy.net/en/oureconomy/the-worst-mistake-of-my-life-how-covid-19-trapped-europes-asylum-seekers-in-lockdown-limbo/?fbclid=IwAR0GQhgdpOOiaeg0fu_bE9W8ikqKIGQM5W9Rqcthu6C4UtA2In0hDIID4L4)](assets/d98295066562/1*HqP6mMYOeYUHmByF7XnRCw.jpeg)
+![Samos during COVID\. Photo by [Samos Volunteers](https://www.opendemocracy.net/en/oureconomy/the-worst-mistake-of-my-life-how-covid-19-trapped-europes-asylum-seekers-in-lockdown-limbo/?fbclid=IwAR0GQhgdpOOiaeg0fu_bE9W8ikqKIGQM5W9Rqcthu6C4UtA2In0hDIID4L4)](../assets/d98295066562/1*HqP6mMYOeYUHmByF7XnRCw.jpeg)
 
 Samos during COVID\. Photo by [Samos Volunteers](https://www.opendemocracy.net/en/oureconomy/the-worst-mistake-of-my-life-how-covid-19-trapped-europes-asylum-seekers-in-lockdown-limbo/?fbclid=IwAR0GQhgdpOOiaeg0fu_bE9W8ikqKIGQM5W9Rqcthu6C4UtA2In0hDIID4L4)
 ### COVID response on Samos
@@ -168,7 +168,7 @@ Molenaar is sceptical of the idea that COVID cases have dramatically reduded sin
 
 
 
-![“Some good and unprecedented news from Greece: The prosecutor in Kalamata ordered the Municipality \-following a request by the local Roma community\- to provide water and electricity to a settlement, as they are obliged to do during the \#pandemic and they were brazenly denying\!” Quote by [Vassilis Tsarnas](https://twitter.com/VassilisTsarnas/status/1330891258009710593) , photo by [Tharros News](https://www.tharrosnews.gr/2020/11/paremvasi-eisangelea-zitisan-oi-roma-tis-agias-triadas-gia-nero-revma-kai-apochetefsi/)](assets/d98295066562/1*kdwzDmho-wV_u74MGRXqJg.jpeg)
+![“Some good and unprecedented news from Greece: The prosecutor in Kalamata ordered the Municipality \-following a request by the local Roma community\- to provide water and electricity to a settlement, as they are obliged to do during the \#pandemic and they were brazenly denying\!” Quote by [Vassilis Tsarnas](https://twitter.com/VassilisTsarnas/status/1330891258009710593) , photo by [Tharros News](https://www.tharrosnews.gr/2020/11/paremvasi-eisangelea-zitisan-oi-roma-tis-agias-triadas-gia-nero-revma-kai-apochetefsi/)](../assets/d98295066562/1*kdwzDmho-wV_u74MGRXqJg.jpeg)
 
 “Some good and unprecedented news from Greece: The prosecutor in Kalamata ordered the Municipality \-following a request by the local Roma community\- to provide water and electricity to a settlement, as they are obliged to do during the \#pandemic and they were brazenly denying\!” Quote by [Vassilis Tsarnas](https://twitter.com/VassilisTsarnas/status/1330891258009710593) , photo by [Tharros News](https://www.tharrosnews.gr/2020/11/paremvasi-eisangelea-zitisan-oi-roma-tis-agias-triadas-gia-nero-revma-kai-apochetefsi/)
 
@@ -182,7 +182,7 @@ Italian deputy foreign minister Emanuela Del Re held a conference last week wher
 #### SPAIN
 
 
-![**CANARY ISLANDS** “\(Journalist\) David Perdomo has been observing these developments for weeks — and he’s getting increasingly frustrated\. The Spanish journalist, who works for a local radio broadcaster, has personal experience of the way the authorities’ information policy has changed\. The more refugees arrive on the island, the more decisively the government has blocked all media inquiries\. Perdomo said the authorities were clearly using the strategy of ‘what we don’t see doesn’t exist\.’ But, he said, ‘the situation won’t change or get better if we can’t report about what’s going on here at the harbor\.’” Info by Info Migrants, photo by [Elvira Urquijo/Agencia EFE/Imago Images](https://www.infomigrants.net/en/post/28679/as-coronavirus-spreads-refugees-stuck-on-spain-s-canaries?fbclid=IwAR1Ksp4VIYyWYQ7w4S03Xyt-OSxtArl2FgaOiWVib-7zCrUMStRzIIDJuyU)](assets/d98295066562/1*T969gsJCTa9FAIxA8YIpqQ.jpeg)
+![**CANARY ISLANDS** “\(Journalist\) David Perdomo has been observing these developments for weeks — and he’s getting increasingly frustrated\. The Spanish journalist, who works for a local radio broadcaster, has personal experience of the way the authorities’ information policy has changed\. The more refugees arrive on the island, the more decisively the government has blocked all media inquiries\. Perdomo said the authorities were clearly using the strategy of ‘what we don’t see doesn’t exist\.’ But, he said, ‘the situation won’t change or get better if we can’t report about what’s going on here at the harbor\.’” Info by Info Migrants, photo by [Elvira Urquijo/Agencia EFE/Imago Images](https://www.infomigrants.net/en/post/28679/as-coronavirus-spreads-refugees-stuck-on-spain-s-canaries?fbclid=IwAR1Ksp4VIYyWYQ7w4S03Xyt-OSxtArl2FgaOiWVib-7zCrUMStRzIIDJuyU)](../assets/d98295066562/1*T969gsJCTa9FAIxA8YIpqQ.jpeg)
 
 **CANARY ISLANDS** “\(Journalist\) David Perdomo has been observing these developments for weeks — and he’s getting increasingly frustrated\. The Spanish journalist, who works for a local radio broadcaster, has personal experience of the way the authorities’ information policy has changed\. The more refugees arrive on the island, the more decisively the government has blocked all media inquiries\. Perdomo said the authorities were clearly using the strategy of ‘what we don’t see doesn’t exist\.’ But, he said, ‘the situation won’t change or get better if we can’t report about what’s going on here at the harbor\.’” Info by Info Migrants, photo by [Elvira Urquijo/Agencia EFE/Imago Images](https://www.infomigrants.net/en/post/28679/as-coronavirus-spreads-refugees-stuck-on-spain-s-canaries?fbclid=IwAR1Ksp4VIYyWYQ7w4S03Xyt-OSxtArl2FgaOiWVib-7zCrUMStRzIIDJuyU)
 ### Judge: no crime in the conditions of the migrants in Arguineguín
@@ -196,11 +196,11 @@ Spanish Foreign Minister Arancha Gonzalez Laya went to [Senegal](https://www.inf
 #### BOSNIA HERZEGOVINA
 
 
-![](assets/d98295066562/1*4vvec2R4acgIDOuLXYt-NA.jpeg)
+![](../assets/d98295066562/1*4vvec2R4acgIDOuLXYt-NA.jpeg)
 
 
 
-![“The Europe we are left with: Specifically it is the so\-called ‘Bangladeshi Forest,’ one of the various shack camps on the outskirts of Velika Kladuša, BiH\. It hosts about a hundred people, most of Bengali origin, waiting to cross the border, which can take weeks or months\. And it’s not to be dramatic, but in a few days all these leaves will be snow\.” Photos and Info by [Jon Giralt](https://twitter.com/jogiralt/status/1330810164488921095) , member of No Name Kitchen reporting the situation from Bosnia and Herzegovina](assets/d98295066562/1*4QE5UT6ypXo2HbM--QKiCA.jpeg)
+![“The Europe we are left with: Specifically it is the so\-called ‘Bangladeshi Forest,’ one of the various shack camps on the outskirts of Velika Kladuša, BiH\. It hosts about a hundred people, most of Bengali origin, waiting to cross the border, which can take weeks or months\. And it’s not to be dramatic, but in a few days all these leaves will be snow\.” Photos and Info by [Jon Giralt](https://twitter.com/jogiralt/status/1330810164488921095) , member of No Name Kitchen reporting the situation from Bosnia and Herzegovina](../assets/d98295066562/1*4QE5UT6ypXo2HbM--QKiCA.jpeg)
 
 “The Europe we are left with: Specifically it is the so\-called ‘Bangladeshi Forest,’ one of the various shack camps on the outskirts of Velika Kladuša, BiH\. It hosts about a hundred people, most of Bengali origin, waiting to cross the border, which can take weeks or months\. And it’s not to be dramatic, but in a few days all these leaves will be snow\.” Photos and Info by [Jon Giralt](https://twitter.com/jogiralt/status/1330810164488921095) , member of No Name Kitchen reporting the situation from Bosnia and Herzegovina
 #### SERBIA

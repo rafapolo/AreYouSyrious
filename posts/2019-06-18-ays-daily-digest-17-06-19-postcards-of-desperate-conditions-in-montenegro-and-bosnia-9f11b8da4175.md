@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 17/06/19: Postcards of desperate conditions in Montenegro and Bosnia
+title: "AYS Daily Digest 17/06/19: Postcards of desperate conditions in Montenegro and Bosnia"
 author: Are You Syrious?
 date: 2019-06-18T09:41:34.932+0100
 last_modified_at: 2019-06-18T16:24:17.530+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,borders,bosnia,europe]
 description: More deaths in the Aegean Sea//Message from Hermann on board of the Sea Watch//Women in pre-deportation centres in Italy//Deportation of…
 image:
-  path: assets/9f11b8da4175/1*_sy6yDhkTP2PitDbqx01qg.jpeg
+  path: ../assets/9f11b8da4175/1*_sy6yDhkTP2PitDbqx01qg.jpeg
 ---
 
 ### AYS Daily Digest 17/06/19: Postcards of desperate conditions in Montenegro and Bosnia
 #### Lebanese government moving Syrian refugees to a new area with no services//More deaths in the Aegean Sea//Message from Hermann on board the Sea Watch//Deportation of Afghan family from Norway//…
 
 
-![Warning signs in the area around Plješivica mountain, where people pass through on their way towards Croatia\. Near the ridge there is a hazardous area due to possible mine fields, these days used for expanding the criminal activities of smugglers posing as mine field guides\. \(Photo: AYS\)](assets/9f11b8da4175/1*_sy6yDhkTP2PitDbqx01qg.jpeg)
+![Warning signs in the area around Plješivica mountain, where people pass through on their way towards Croatia\. Near the ridge there is a hazardous area due to possible mine fields, these days used for expanding the criminal activities of smugglers posing as mine field guides\. \(Photo: AYS\)](../assets/9f11b8da4175/1*_sy6yDhkTP2PitDbqx01qg.jpeg)
 
 Warning signs in the area around Plješivica mountain, where people pass through on their way towards Croatia\. Near the ridge there is a hazardous area due to possible mine fields, these days used for expanding the criminal activities of smugglers posing as mine field guides\. \(Photo: AYS\)
 #### FEATURED
@@ -33,11 +33,11 @@ Warning signs in the area around Plješivica mountain, where people pass through
 
 
 
-![](assets/9f11b8da4175/1*H_F4MK2r6yZNTNwZwhNQTg.jpeg)
+![](../assets/9f11b8da4175/1*H_F4MK2r6yZNTNwZwhNQTg.jpeg)
 
 
 
-![Credit: Aldar Aldar in [refugee organization in Montenegro](https://www.facebook.com/groups/1157824667713728/permalink/1195137637315764/) \.](assets/9f11b8da4175/1*uIXlW7uvwchKyesQc0Gmlg.jpeg)
+![Credit: Aldar Aldar in [refugee organization in Montenegro](https://www.facebook.com/groups/1157824667713728/permalink/1195137637315764/) \.](../assets/9f11b8da4175/1*uIXlW7uvwchKyesQc0Gmlg.jpeg)
 
 Credit: Aldar Aldar in [refugee organization in Montenegro](https://www.facebook.com/groups/1157824667713728/permalink/1195137637315764/) \.
 
@@ -62,7 +62,7 @@ As we reported also in yesterday’s digest, [police is now raiding local houses
 Also, after storming a house in which about 80 people were staying, the police continued chasing the people who tried to flee towards Borići, as the local media reported\. Some have reportedly [willingly approached](https://youtu.be/FQERxVtilPA) the police forces in Bihać to be taken away\.
 
 
-[![POTJERA KROZ NOVU ČETVRT](assets/9f11b8da4175/6de6_hqdefault.jpg "POTJERA KROZ NOVU ČETVRT")](http://www.youtube.com/watch?v=BmlAAcZH7k8)
+[![POTJERA KROZ NOVU ČETVRT](../assets/9f11b8da4175/6de6_hqdefault.jpg "POTJERA KROZ NOVU ČETVRT")](http://www.youtube.com/watch?v=BmlAAcZH7k8)
 
 
 These people’s free movement has been restricted, they are given no options apart from being taken to the “camp” in Vučjak, in reality several tents and a place in the middle of nowhere that provides absolutely no conditions for a person to stay there for longer than a day, with no medical support, no ability to freely move, to reach any facility, shop or even a place where one could sit on a chair at least, with multiple security hazards etc\.
@@ -72,7 +72,7 @@ These people’s free movement has been restricted, they are given no options ap
 
 
 
-![Plješivica from the Bosnian side as seen from [Željava Air Base](https://en.wikipedia.org/wiki/%C5%BDeljava_Air_Base) \(the largest underground airbase in the SFRY\), located inside Plješevica \(Photo: AYS\)](assets/9f11b8da4175/1*zaPpbywbxXPKjPB0nJoM0Q.jpeg)
+![Plješivica from the Bosnian side as seen from [Željava Air Base](https://en.wikipedia.org/wiki/%C5%BDeljava_Air_Base) \(the largest underground airbase in the SFRY\), located inside Plješevica \(Photo: AYS\)](../assets/9f11b8da4175/1*zaPpbywbxXPKjPB0nJoM0Q.jpeg)
 
 Plješivica from the Bosnian side as seen from [Željava Air Base](https://en.wikipedia.org/wiki/%C5%BDeljava_Air_Base) \(the largest underground airbase in the SFRY\), located inside Plješevica \(Photo: AYS\)
 
@@ -124,7 +124,7 @@ A total of [75 people are still stranded off the Tunisian coast](https://www.fac
 A total of [45 people arrived](https://www.facebook.com/AegeanBoatReport/posts/595236437666131?hc_location=ufi) on the Greek islands today\.
 
 
-![Infographic on the asylum procedure, published by RefuComm\. Credit: RefuComm\.](assets/9f11b8da4175/1*-F6fFnn1uAx3--fEyqdOMg.jpeg)
+![Infographic on the asylum procedure, published by RefuComm\. Credit: RefuComm\.](../assets/9f11b8da4175/1*-F6fFnn1uAx3--fEyqdOMg.jpeg)
 
 Infographic on the asylum procedure, published by RefuComm\. Credit: RefuComm\.
 
@@ -159,7 +159,7 @@ See more on the Amnesty campaign [here](https://www.amnesty.org/en/latest/news/2
 #### UK
 
 
-![Credit: Freemovement\.](assets/9f11b8da4175/1*MEM4QxGq4P1a4E8DtGHvMA.jpeg)
+![Credit: Freemovement\.](../assets/9f11b8da4175/1*MEM4QxGq4P1a4E8DtGHvMA.jpeg)
 
 Credit: Freemovement\.
 

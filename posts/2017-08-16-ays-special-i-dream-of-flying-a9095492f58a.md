@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: “I dream of flying.”
+title: "AYS SPECIAL: “I dream of flying.”"
 author: Are You Syrious?
 date: 2017-08-16T09:29:29.389+0100
 last_modified_at: 2018-03-01T14:21:01.990+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,afghanistan,greece,mazar-el-sharif,special]
 description: Said Azim Karimi (18) is from Mazar-el-Sharif, Afghanistan, and he dreams of becoming a pilot. Probably like many boys of his age. But…
 image:
-  path: assets/a9095492f58a/1*Jgsq73Xz4dFCZhmc72S0TA.jpeg
+  path: ../assets/a9095492f58a/1*Jgsq73Xz4dFCZhmc72S0TA.jpeg
 ---
 
 ### AYS SPECIAL: “I dream of flying\.”
@@ -15,7 +15,7 @@ image:
 _Said Azim Karimi \(18\) is from Mazar\-el\-Sharif, Afghanistan, and he dreams of becoming a pilot\. Probably like many boys of his age\. But unlike the dreams of some others, his have been interrupted by closed borders and fortress Europe\._
 
 
-![Photo: Private archive](assets/a9095492f58a/1*Jgsq73Xz4dFCZhmc72S0TA.jpeg)
+![Photo: Private archive](../assets/a9095492f58a/1*Jgsq73Xz4dFCZhmc72S0TA.jpeg)
 
 Photo: Private archive
 
@@ -34,7 +34,7 @@ Finally, after those nine long months, they were transferred to Athens this wint
 In the meantime, he started going to places where volunteers are teaching him English, and he started taking music lessons — guitar and violin — fulfilling one more dream: to play an instrument\. And finally, on the night of big closing of the annual Hellenic Festival in Athens, he played with a big orchestra with students from El Sistema, a music school that exists in several countries around the world, and recently also in Greece\. Said Azim, after only three months of learning how to play the violin, was invited to play with the orchestra\. And he fitted in perfectly, playing in front of several thousand people in the Odeon Herodotus\.
 
 
-![Photo: Private archive](assets/a9095492f58a/1*Ep91ss_dJEIOFto9_j_3gQ.jpeg)
+![Photo: Private archive](../assets/a9095492f58a/1*Ep91ss_dJEIOFto9_j_3gQ.jpeg)
 
 Photo: Private archive
 

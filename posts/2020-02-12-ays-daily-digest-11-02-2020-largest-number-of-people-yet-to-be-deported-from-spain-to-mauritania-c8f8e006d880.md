@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [spain,digest,refugees,frontex,greece]
 description: Help needed on Lebanese/Syrian border camp // crucial updates on ongoing sea rescues // Greek gov to deport Syrian family // Finland to…
 image:
-  path: assets/c8f8e006d880/1*DyETmL1Tg_LBL_HccVw-uQ.jpeg
+  path: ../assets/c8f8e006d880/1*DyETmL1Tg_LBL_HccVw-uQ.jpeg
 ---
 
 ### AYS Daily Digest 11/02/2020 Largest number of people yet to be deported from Spain to Mauritania on Thursday
@@ -16,7 +16,7 @@ _Help needed on Lebanese/Syrian border camp // crucial updates on ongoing sea re
 #### FEATURE: Thursday is set to see the largest number of people deported to Mauritania from Spain
 
 
-![“On Thursday a new deportation flight will stop at \#Tenerife in order to deport the largest number of people to \#Mauritania \. As has happened on previous flights, deported people will not only be from that country but from Mali or Senegal\.” Photo from [Irene Ruano Blanco](https://twitter.com/irene_r_b/status/1227242368790753281)](assets/c8f8e006d880/1*WHuH0S3UPhsD8Kbwjhm_fA.jpeg)
+![“On Thursday a new deportation flight will stop at \#Tenerife in order to deport the largest number of people to \#Mauritania \. As has happened on previous flights, deported people will not only be from that country but from Mali or Senegal\.” Photo from [Irene Ruano Blanco](https://twitter.com/irene_r_b/status/1227242368790753281)](../assets/c8f8e006d880/1*WHuH0S3UPhsD8Kbwjhm_fA.jpeg)
 
 “On Thursday a new deportation flight will stop at \#Tenerife in order to deport the largest number of people to \#Mauritania \. As has happened on previous flights, deported people will not only be from that country but from Mali or Senegal\.” Photo from [Irene Ruano Blanco](https://twitter.com/irene_r_b/status/1227242368790753281)
 
@@ -42,7 +42,7 @@ Here in [The Migration Newsroom](https://www.mediapart.fr/journal/international/
 #### LEBANON
 
 
-![“In the past few days the temperature in the \#Arsal, located at the Syrian\-Lebanese border, has dropped to below zero, with heavy snowfall covering the shelters which currently host over 250,000 refugees\.” Photo by [SB OverSeas](https://twitter.com/sb_overseas/status/1227245790931779585?fbclid=IwAR2UcMvLzep4a6OM3jmYPwPIxQ1h2U3gFIlKhIqsCtF652yzu7jK6POh_Zs)](assets/c8f8e006d880/1*DyETmL1Tg_LBL_HccVw-uQ.jpeg)
+![“In the past few days the temperature in the \#Arsal, located at the Syrian\-Lebanese border, has dropped to below zero, with heavy snowfall covering the shelters which currently host over 250,000 refugees\.” Photo by [SB OverSeas](https://twitter.com/sb_overseas/status/1227245790931779585?fbclid=IwAR2UcMvLzep4a6OM3jmYPwPIxQ1h2U3gFIlKhIqsCtF652yzu7jK6POh_Zs)](../assets/c8f8e006d880/1*DyETmL1Tg_LBL_HccVw-uQ.jpeg)
 
 “In the past few days the temperature in the \#Arsal, located at the Syrian\-Lebanese border, has dropped to below zero, with heavy snowfall covering the shelters which currently host over 250,000 refugees\.” Photo by [SB OverSeas](https://twitter.com/sb_overseas/status/1227245790931779585?fbclid=IwAR2UcMvLzep4a6OM3jmYPwPIxQ1h2U3gFIlKhIqsCtF652yzu7jK6POh_Zs)
 
@@ -62,7 +62,7 @@ Look [here for their paypal and other information](https://www.facebook.com/SB.o
 91 people reported missing/drowned in the Med according to Alarm Phone on Monday\. This is an ongoing story, but new evidence brings hope that it is not the case:
 
 
-![**“Following data, sources the so\-called ‘91’ Alarm Phone should be among the landed in Malta\. The CCRs of Rome and Malta are silent, institutional switchboards off, Libya is a black hole even if full of fakes\. \(and the reporter asks for clemency, after the sleepless nights behind this chaos\)”** Photo by [Sergio Scandura](https://twitter.com/scandura/status/1227218818919010304)](assets/c8f8e006d880/1*QewiDSHKnTHunCu23PIafw.jpeg)
+![**“Following data, sources the so\-called ‘91’ Alarm Phone should be among the landed in Malta\. The CCRs of Rome and Malta are silent, institutional switchboards off, Libya is a black hole even if full of fakes\. \(and the reporter asks for clemency, after the sleepless nights behind this chaos\)”** Photo by [Sergio Scandura](https://twitter.com/scandura/status/1227218818919010304)](../assets/c8f8e006d880/1*QewiDSHKnTHunCu23PIafw.jpeg)
 
 **“Following data, sources the so\-called ‘91’ Alarm Phone should be among the landed in Malta\. The CCRs of Rome and Malta are silent, institutional switchboards off, Libya is a black hole even if full of fakes\. \(and the reporter asks for clemency, after the sleepless nights behind this chaos\)”** Photo by [Sergio Scandura](https://twitter.com/scandura/status/1227218818919010304)
 
@@ -112,7 +112,7 @@ An asylum seeker from Senegal had his case rejected in a 5 minute interview, sim
 More [here](https://www.efsyn.gr/ellada/dikaiomata/230665_aporripsi-asyloy-se-5-lepta-kai-me-7-lexeis) \.
 
 
-![“ **Last night at Notara26 Refugee/Migrant Housing squat we were attacked for the third time in the past six months by the state uniformed bullies** \. Around 4:30 am — only a few minutes after one more attempt by undercover police to intimidate one of our comrades who was on her way to our squat\- a riot squad, totally unprovoked, surrounded our squat twice\. The first time they were flashing their torches and laser pointers into our lobby persistently trying to see our faces and how many we were\. They then withdrew for about ten minutes but came back reinforced\. Τhis time apart from torches and laser pointers, they tried to force our squat’s door open\. These practices of the uniformed state terrorists DO NOT SCARE US\! We are here, we continue our everyday struggle against fascism, racism and repression\. We form strong solidarity and comradeship ties\. The only result this kind of bullying can have is to bring us even more together and our ranks closer\! \! \! ” Photo by [Κατάληψη Στέγης Προσφύγων/Μεταναστών Νοταρά 26](https://www.facebook.com/permalink.php?story_fbid=1647915188681754&id=645186555621294&hc_location=ufi)](assets/c8f8e006d880/1*Xqb9sY_PFhdNS4BS7LvXWw.jpeg)
+![“ **Last night at Notara26 Refugee/Migrant Housing squat we were attacked for the third time in the past six months by the state uniformed bullies** \. Around 4:30 am — only a few minutes after one more attempt by undercover police to intimidate one of our comrades who was on her way to our squat\- a riot squad, totally unprovoked, surrounded our squat twice\. The first time they were flashing their torches and laser pointers into our lobby persistently trying to see our faces and how many we were\. They then withdrew for about ten minutes but came back reinforced\. Τhis time apart from torches and laser pointers, they tried to force our squat’s door open\. These practices of the uniformed state terrorists DO NOT SCARE US\! We are here, we continue our everyday struggle against fascism, racism and repression\. We form strong solidarity and comradeship ties\. The only result this kind of bullying can have is to bring us even more together and our ranks closer\! \! \! ” Photo by [Κατάληψη Στέγης Προσφύγων/Μεταναστών Νοταρά 26](https://www.facebook.com/permalink.php?story_fbid=1647915188681754&id=645186555621294&hc_location=ufi)](../assets/c8f8e006d880/1*Xqb9sY_PFhdNS4BS7LvXWw.jpeg)
 
 “ **Last night at Notara26 Refugee/Migrant Housing squat we were attacked for the third time in the past six months by the state uniformed bullies** \. Around 4:30 am — only a few minutes after one more attempt by undercover police to intimidate one of our comrades who was on her way to our squat\- a riot squad, totally unprovoked, surrounded our squat twice\. The first time they were flashing their torches and laser pointers into our lobby persistently trying to see our faces and how many we were\. They then withdrew for about ten minutes but came back reinforced\. Τhis time apart from torches and laser pointers, they tried to force our squat’s door open\. These practices of the uniformed state terrorists DO NOT SCARE US\! We are here, we continue our everyday struggle against fascism, racism and repression\. We form strong solidarity and comradeship ties\. The only result this kind of bullying can have is to bring us even more together and our ranks closer\! \! \! ” Photo by [Κατάληψη Στέγης Προσφύγων/Μεταναστών Νοταρά 26](https://www.facebook.com/permalink.php?story_fbid=1647915188681754&id=645186555621294&hc_location=ufi)
 #### A Doctors Without Borders staff member was attack Saturday night on Lesvos\.
@@ -128,7 +128,7 @@ Doctors Without Borders said in a statement:
 #### SPAIN
 
 
-![“On Thursday a new deportation flight will stop at \#Tenerife in order to deport the largest number of people to \#Mauritania \. As has happened on previous flights, deported people will not only be from that country but from Mali or Senegal\.” Photo from [Irene Ruano Blanco](https://twitter.com/irene_r_b/status/1227242368790753281)](assets/c8f8e006d880/1*WHuH0S3UPhsD8Kbwjhm_fA.jpeg)
+![“On Thursday a new deportation flight will stop at \#Tenerife in order to deport the largest number of people to \#Mauritania \. As has happened on previous flights, deported people will not only be from that country but from Mali or Senegal\.” Photo from [Irene Ruano Blanco](https://twitter.com/irene_r_b/status/1227242368790753281)](../assets/c8f8e006d880/1*WHuH0S3UPhsD8Kbwjhm_fA.jpeg)
 
 “On Thursday a new deportation flight will stop at \#Tenerife in order to deport the largest number of people to \#Mauritania \. As has happened on previous flights, deported people will not only be from that country but from Mali or Senegal\.” Photo from [Irene Ruano Blanco](https://twitter.com/irene_r_b/status/1227242368790753281)
 #### Thursday is set to see the largest number of people deported to Mauritania from Spain\.
@@ -152,7 +152,7 @@ In another rescue: _“ [At least two dead](https://twitter.com/HelenaMaleno/sta
 #### FINLAND
 
 
-![“One Afghan asylum seeker was deported from Finland to Afghanistan this evening\. Finland is one of the few European countries that deports a limited number of Afghans in compare to other countries like Sweden, Austria and Germany\.” Photo by [Afghanistan Migrants Advice and Support Organization](https://www.facebook.com/AmasoAfg/photos/a.1419588361404777/3069599413070322/?type=3)](assets/c8f8e006d880/1*7mimrZkRlidAE75lWUu2tw.jpeg)
+![“One Afghan asylum seeker was deported from Finland to Afghanistan this evening\. Finland is one of the few European countries that deports a limited number of Afghans in compare to other countries like Sweden, Austria and Germany\.” Photo by [Afghanistan Migrants Advice and Support Organization](https://www.facebook.com/AmasoAfg/photos/a.1419588361404777/3069599413070322/?type=3)](../assets/c8f8e006d880/1*7mimrZkRlidAE75lWUu2tw.jpeg)
 
 “One Afghan asylum seeker was deported from Finland to Afghanistan this evening\. Finland is one of the few European countries that deports a limited number of Afghans in compare to other countries like Sweden, Austria and Germany\.” Photo by [Afghanistan Migrants Advice and Support Organization](https://www.facebook.com/AmasoAfg/photos/a.1419588361404777/3069599413070322/?type=3)
 #### EU

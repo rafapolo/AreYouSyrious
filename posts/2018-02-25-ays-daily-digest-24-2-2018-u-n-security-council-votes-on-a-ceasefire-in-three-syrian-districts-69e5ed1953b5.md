@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 24/2/2018: U.N. Security Council votes on a ceasefire in three Syrian districts
+title: "AYS DAILY DIGEST 24/2/2018: U.N. Security Council votes on a ceasefire in three Syrian districts"
 author: Are You Syrious?
 date: 2018-02-25T03:14:36.016+0000
 last_modified_at: 2018-03-01T13:25:25.361+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,syria,greece,france,digest]
 description: Around 500 people died in East-Ghouta last week / People with second rejection on Chios struggle to get legal support / Open letters from…
 image:
-  path: assets/69e5ed1953b5/1*Kih8UTWp2vSgYQ36BV_k2g.jpeg
+  path: ../assets/69e5ed1953b5/1*Kih8UTWp2vSgYQ36BV_k2g.jpeg
 ---
 
 ### AYS DAILY DIGEST 24/2/2018: U\.N\. Security Council votes on a ceasefire in three Syrian districts
@@ -15,7 +15,7 @@ image:
 _Around 500 people died in East\-Ghouta last week / People with second rejection on Chios struggle to get legal support / Open letters from detainees in Greece and the UK / Italian province Caserta uses confiscated Mafia houses to accommodate people in need / Ireland welcomes 50 people from Greece / Help needed in France_
 
 
-![Will action follow on the Security Council’s vote on a ceasefire in Syria? Credits: [La France à l’ONU](https://twitter.com/franceonu/status/967573616538865664)](assets/69e5ed1953b5/1*Kih8UTWp2vSgYQ36BV_k2g.jpeg)
+![Will action follow on the Security Council’s vote on a ceasefire in Syria? Credits: [La France à l’ONU](https://twitter.com/franceonu/status/967573616538865664)](../assets/69e5ed1953b5/1*Kih8UTWp2vSgYQ36BV_k2g.jpeg)
 
 Will action follow on the Security Council’s vote on a ceasefire in Syria? Credits: [La France à l’ONU](https://twitter.com/franceonu/status/967573616538865664)
 ### Syria
@@ -115,7 +115,7 @@ More then 500 people are currently sleeping on the streets of Calais, when the t
 Donate here: [https://goo\.gl/jmkx7A](https://goo.gl/jmkx7A)
 
 
-![In Calais and Paris the temperatures will be dropping over the next days\. Credits: [Fotomovimiento](https://twitter.com/Fotomovimiento/status/967526933373255690)](assets/69e5ed1953b5/1*tzclMd0aLHtSOMc6WWwPrA.jpeg)
+![In Calais and Paris the temperatures will be dropping over the next days\. Credits: [Fotomovimiento](https://twitter.com/Fotomovimiento/status/967526933373255690)](../assets/69e5ed1953b5/1*tzclMd0aLHtSOMc6WWwPrA.jpeg)
 
 In Calais and Paris the temperatures will be dropping over the next days\. Credits: [Fotomovimiento](https://twitter.com/Fotomovimiento/status/967526933373255690)
 

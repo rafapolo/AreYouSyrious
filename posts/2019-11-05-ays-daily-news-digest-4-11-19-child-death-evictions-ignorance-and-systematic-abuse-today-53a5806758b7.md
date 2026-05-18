@@ -1,5 +1,5 @@
 ---
-title: AYS Daily News Digest 4/11/19: Child death, evictions, ignorance and systematic abuse — today…
+title: "AYS Daily News Digest 4/11/19: Child death, evictions, ignorance and systematic abuse — today…"
 author: Are You Syrious?
 date: 2019-11-05T11:07:10.293+0000
 last_modified_at: 2019-11-05T12:44:22.118+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,uk,migration]
 description: A UK report criticizing the European response to the “migration crisis”, and sends strong and clear messages / Out of 4,800, 1,178…
 image:
-  path: assets/53a5806758b7/1*Wiq4aHrUxrZ5RQghw37vAg.jpeg
+  path: ../assets/53a5806758b7/1*Wiq4aHrUxrZ5RQghw37vAg.jpeg
 ---
 
 ### AYS Daily News Digest 4/11/19: Child death, evictions, ignorance and systematic abuse — today, around us\.
 #### A UK report criticizing the European response to the “migration crisis”, and sends strong and clear messages / Out of 4,800, 1,178 unaccompanied minors have gone missing in Greece / How to help and support in Bosnia and Herzegovina or in France
 
 
-![Tuzla, Bosnia and Herzegovina — Due to an overcrowded bus station, people are currently staying in secluded areas, but also in plain sight of those whose one decision could change everything for their physical and mental health\. \(Photo: [Portal Tuzlarije\.net](https://www.facebook.com/Tuzlarije/?__xts__%5B0%5D=68.ARCeZC5PJ0iOkrldp3kNgPVQ8Cs0ox1vYhxAFSU7oKl6CszupU66BMORgeAb4fJe2BbeVyqavvT7T8GbHJ_CisDpVaJi3u36od4Ee9IyVLD6Knmp8AKxN9skxwWMJYCZvplc2jEwLB5AdGqPE4CETwhJzGj6UaKOQVSoJTtKiKUS6_5XqwXqIkykRxmTg8_iR142iYLt3GBftmuzIjb4TrE3v_4bOyx1aPy--u9O8VxVmDBjbqp5Mfri39_fzOCYQKgtXGoAg2iLRcegxsKeEuqqFmaqdilX9Po-p2sJXZrmnc945J2p20vZP_COCiggtyZE8Z2Vm_qaeD7QJ3oEmGUk8w&__tn__=k%2AF&tn-str=k%2AF) \)](assets/53a5806758b7/1*Wiq4aHrUxrZ5RQghw37vAg.jpeg)
+![Tuzla, Bosnia and Herzegovina — Due to an overcrowded bus station, people are currently staying in secluded areas, but also in plain sight of those whose one decision could change everything for their physical and mental health\. \(Photo: [Portal Tuzlarije\.net](https://www.facebook.com/Tuzlarije/?__xts__%5B0%5D=68.ARCeZC5PJ0iOkrldp3kNgPVQ8Cs0ox1vYhxAFSU7oKl6CszupU66BMORgeAb4fJe2BbeVyqavvT7T8GbHJ_CisDpVaJi3u36od4Ee9IyVLD6Knmp8AKxN9skxwWMJYCZvplc2jEwLB5AdGqPE4CETwhJzGj6UaKOQVSoJTtKiKUS6_5XqwXqIkykRxmTg8_iR142iYLt3GBftmuzIjb4TrE3v_4bOyx1aPy--u9O8VxVmDBjbqp5Mfri39_fzOCYQKgtXGoAg2iLRcegxsKeEuqqFmaqdilX9Po-p2sJXZrmnc945J2p20vZP_COCiggtyZE8Z2Vm_qaeD7QJ3oEmGUk8w&__tn__=k%2AF&tn-str=k%2AF) \)](../assets/53a5806758b7/1*Wiq4aHrUxrZ5RQghw37vAg.jpeg)
 
 Tuzla, Bosnia and Herzegovina — Due to an overcrowded bus station, people are currently staying in secluded areas, but also in plain sight of those whose one decision could change everything for their physical and mental health\. \(Photo: [Portal Tuzlarije\.net](https://www.facebook.com/Tuzlarije/?__xts__%5B0%5D=68.ARCeZC5PJ0iOkrldp3kNgPVQ8Cs0ox1vYhxAFSU7oKl6CszupU66BMORgeAb4fJe2BbeVyqavvT7T8GbHJ_CisDpVaJi3u36od4Ee9IyVLD6Knmp8AKxN9skxwWMJYCZvplc2jEwLB5AdGqPE4CETwhJzGj6UaKOQVSoJTtKiKUS6_5XqwXqIkykRxmTg8_iR142iYLt3GBftmuzIjb4TrE3v_4bOyx1aPy--u9O8VxVmDBjbqp5Mfri39_fzOCYQKgtXGoAg2iLRcegxsKeEuqqFmaqdilX9Po-p2sJXZrmnc945J2p20vZP_COCiggtyZE8Z2Vm_qaeD7QJ3oEmGUk8w&__tn__=k%2AF&tn-str=k%2AF) \)
 #### FEATURED
@@ -91,7 +91,7 @@ Each of the 41 people who were found yesterday in a refrigerator truck in Xanthi
 ### Islands
 
 
-![](assets/53a5806758b7/1*jW1-Lh918Yfy_8EcxFmEDg.jpeg)
+![](../assets/53a5806758b7/1*jW1-Lh918Yfy_8EcxFmEDg.jpeg)
 
 
 The Aita Mari has arrived in lesbos and is now waiting for the trucks to unload the 8 tons of aids for the Greek Islands\.
@@ -117,11 +117,11 @@ Jackets, shoes \(hiking and sport shoes\), socks, hats, scarfs, pullovers, jumpe
 If you wish to support them, the best way is to send funds to the local activists who can best decide what is most needed and buy it for an incomparably lower price in BiH than anywhere else across the EU\. If, however, you already have some help\-in\-kind, make sure not to send XL and L sized clothes as most of the people need smaller sized clothes and shoes\. Always try to contact people on the ground before starting an action, so you can support the situation in the best possible way\. If you need direct contacts in different areas, write to us and we will connect you to the right people\.
 
 
-![](assets/53a5806758b7/1*kqPJktzZmDBVqFej69nZdQ.jpeg)
+![](../assets/53a5806758b7/1*kqPJktzZmDBVqFej69nZdQ.jpeg)
 
 
 
-![Photos from Bira camp in Bihać and of the packages prepared for the people there: Udruženje Solidarnost — Bosnia](assets/53a5806758b7/1*6gT2Aq93OrACk__8kE9D-g.jpeg)
+![Photos from Bira camp in Bihać and of the packages prepared for the people there: Udruženje Solidarnost — Bosnia](../assets/53a5806758b7/1*6gT2Aq93OrACk__8kE9D-g.jpeg)
 
 Photos from Bira camp in Bihać and of the packages prepared for the people there: Udruženje Solidarnost — Bosnia
 #### FRANCE

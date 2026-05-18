@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 11/06/20: Greek Government’s plans to evict recognized refugees leads to chaos…
+title: "AYS DAILY DIGEST 11/06/20: Greek Government’s plans to evict recognized refugees leads to chaos…"
 author: Are You Syrious?
 date: 2020-06-12T13:12:39.736+0100
 last_modified_at: 2020-06-12T21:45:54.907+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,europe,digest,greece,croatia]
 description: Situation of unregistered refugees in Turkey // Extension of Greek residence permits // IOM concerned about the push-backs in Aegean Sea…
 image:
-  path: assets/a6f5f9370811/1*K4dmOjtOwEiK2O0FBydUYA.jpeg
+  path: ../assets/a6f5f9370811/1*K4dmOjtOwEiK2O0FBydUYA.jpeg
 ---
 
 ### AYS DAILY DIGEST 11/06/20: Greek Government’s plans to evict recognized refugees leads to chaos, homelessness, and protests
 #### Situation for unregistered refugees in Turkey // Extension of Greek residence permits // IOM concerned about the push\-backs in Aegean Sea // Shocking new report on Croatian border violence // Two rescue ships in the Mediterranean again //
 
 
-![Movement On The Ground installed floodlights across the Olive Grove CampUs to increase safety\. Copyrights: Movement On The Ground](assets/a6f5f9370811/1*K4dmOjtOwEiK2O0FBydUYA.jpeg)
+![Movement On The Ground installed floodlights across the Olive Grove CampUs to increase safety\. Copyrights: Movement On The Ground](../assets/a6f5f9370811/1*K4dmOjtOwEiK2O0FBydUYA.jpeg)
 
 Movement On The Ground installed floodlights across the Olive Grove CampUs to increase safety\. Copyrights: Movement On The Ground
 ### FEATURE: Chaos at the port of Mytilene

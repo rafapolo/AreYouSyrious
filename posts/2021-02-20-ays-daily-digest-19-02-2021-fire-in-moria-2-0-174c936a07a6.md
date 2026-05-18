@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,greece,moria]
 description: More Returns to Libya//Hundreds in Distress at Sea//Fire in Shanty Town for Seasonal Workers in Spain//& More
 image:
-  path: assets/174c936a07a6/0*HYNkci-ZyHQoHo2k
+  path: ../assets/174c936a07a6/0*HYNkci-ZyHQoHo2k
 ---
 
 ### AYS Daily Digest 19/02/2021—Fire in Moria 2\.0
 #### More returns to Libya//Hundreds in distress at sea//Fire in shanty town for seasonal workers in Spain//& more
 
 
-![The fire in Moria 2\.0\. Photo via [Moria Corona Awareness Team](https://www.facebook.com/MoriaCoronaAwarenessTeam/)](assets/174c936a07a6/0*HYNkci-ZyHQoHo2k)
+![The fire in Moria 2\.0\. Photo via [Moria Corona Awareness Team](https://www.facebook.com/MoriaCoronaAwarenessTeam/)](../assets/174c936a07a6/0*HYNkci-ZyHQoHo2k)
 
 The fire in Moria 2\.0\. Photo via [Moria Corona Awareness Team](https://www.facebook.com/MoriaCoronaAwarenessTeam/)
 #### FEATURE
@@ -230,7 +230,7 @@ We want to end this digest on a note of remembrance\. The Serbian singer\-songwr
 Here is his song, “Samo Da Rata Ne Bude” \(Just Don’t Let There Be a War\) \. Laka ti bila zemlja, velikane\.
 
 
-[![Djordje Balasevic - Samo da rata ne bude - (Audio 1987) HD](assets/174c936a07a6/4a1a_hqdefault.jpg "Djordje Balasevic - Samo da rata ne bude - (Audio 1987) HD")](https://www.youtube.com/watch?v=nkNTAvYLwxw)
+[![Djordje Balasevic - Samo da rata ne bude - (Audio 1987) HD](../assets/174c936a07a6/4a1a_hqdefault.jpg "Djordje Balasevic - Samo da rata ne bude - (Audio 1987) HD")](https://www.youtube.com/watch?v=nkNTAvYLwxw)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

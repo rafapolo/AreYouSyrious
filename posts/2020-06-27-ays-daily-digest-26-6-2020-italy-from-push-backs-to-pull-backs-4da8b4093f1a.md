@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 26/6/2020 — Italy: From push-backs to pull-backs
+title: "AYS Daily Digest 26/6/2020 — Italy: From push-backs to pull-backs"
 author: Are You Syrious?
 date: 2020-06-27T22:59:34.558+0100
 last_modified_at: 2020-06-27T22:59:34.558+0100

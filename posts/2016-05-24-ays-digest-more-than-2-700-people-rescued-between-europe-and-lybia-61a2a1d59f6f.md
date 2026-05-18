@@ -5,16 +5,16 @@ date: 2016-05-24T21:38:02.404+0100
 last_modified_at: 2016-05-28T02:45:22.096+0100
 categories: 
 tags: [refugees,europe,mediterranean]
-description: 24.5.2016: Over 400 people, including many children and pregnant women, were rescued by one boat from the Mediterranean sea. More than…
+description: "24.5.2016: Over 400 people, including many children and pregnant women, were rescued by one boat from the Mediterranean sea. More than…"
 image:
-  path: assets/61a2a1d59f6f/1*FLcUp7XcJIDK3Sl-8vLdzw.jpeg
+  path: ../assets/61a2a1d59f6f/1*FLcUp7XcJIDK3Sl-8vLdzw.jpeg
 ---
 
 ### AYS DAILY DIGEST More than 2,700 people rescued between Europe and Lybia
 #### 24\.5\.2016: Over 400 people, including many children and pregnant women, were rescued by one boat from the Mediterranean sea\. More than 2,000 people moved today from Idomeni\. Attempted eviction of a refugee shelter in Prague\. Help needed in Calais, again\. 191,134 migrants and refugees entered Europe by sea in 2016, IOM estimates\.
 
 
-![](assets/61a2a1d59f6f/1*FLcUp7XcJIDK3Sl-8vLdzw.jpeg)
+![](../assets/61a2a1d59f6f/1*FLcUp7XcJIDK3Sl-8vLdzw.jpeg)
 
 #### Weather Forecast // Wednesday May 25th & Thursday May 26th//
 #### WARNING\! HIGH WAVES VARIABLE \+0\.3 TO \+0\.9 METERS WEDNESDAY THROUGH THURSDAY\. Waves over 0\.5 meters are considered dangerous\. The waves are generally moving Northward both days\. Leaving from Turkish coast of Canakkale to Lesvos, waves at your front both days\. Leaving from the west coast of Turkey to the Greek islands, waves at your left both days\. Winds: variable between 7 and 29 kph, with gusts up to 38 kph, blowing mostly Eastward\. Temperature in the Balkans from 9 in Idomeni to 25 at Hungary\-Serbia border\.
@@ -36,11 +36,11 @@ image:
 
 
 
-![](assets/61a2a1d59f6f/1*sB808oVfLyUKxFkMMEVasQ.jpeg)
+![](../assets/61a2a1d59f6f/1*sB808oVfLyUKxFkMMEVasQ.jpeg)
 
 
 
-![SOS Mediterrain](assets/61a2a1d59f6f/1*6gWjqn3Nq1NGfsBtwnHESg.jpeg)
+![SOS Mediterrain](../assets/61a2a1d59f6f/1*6gWjqn3Nq1NGfsBtwnHESg.jpeg)
 
 SOS Mediterrain
 
@@ -67,23 +67,23 @@ SOS Mediterrain
 
 
 
-![](assets/61a2a1d59f6f/1*gY0-Cy7pG8ZD0TlOpmG8mA.jpeg)
+![](../assets/61a2a1d59f6f/1*gY0-Cy7pG8ZD0TlOpmG8mA.jpeg)
 
 
 
-![](assets/61a2a1d59f6f/1*2MriDFDjdtlflUwBEzw_Jw.jpeg)
+![](../assets/61a2a1d59f6f/1*2MriDFDjdtlflUwBEzw_Jw.jpeg)
 
 
 
-![](assets/61a2a1d59f6f/1*3XSqXNU08cJDZdrI0h4nyw.jpeg)
+![](../assets/61a2a1d59f6f/1*3XSqXNU08cJDZdrI0h4nyw.jpeg)
 
 
 
-![](assets/61a2a1d59f6f/1*8EI2BJtR6-MpWfgfnM78_A.jpeg)
+![](../assets/61a2a1d59f6f/1*8EI2BJtR6-MpWfgfnM78_A.jpeg)
 
 
 
-![](assets/61a2a1d59f6f/1*M5gi27RfsU6C64ZpA2zgLA.jpeg)
+![](../assets/61a2a1d59f6f/1*M5gi27RfsU6C64ZpA2zgLA.jpeg)
 
 #### Greece
 
@@ -165,15 +165,15 @@ SOS Mediterrain
 
 
 
-![](assets/61a2a1d59f6f/1*J2Q3XFxFyNkYUjLpOETCiw.jpeg)
+![](../assets/61a2a1d59f6f/1*J2Q3XFxFyNkYUjLpOETCiw.jpeg)
 
 
 
-![](assets/61a2a1d59f6f/1*Z_YvONCrOWgJSKkSyTm2vg.jpeg)
+![](../assets/61a2a1d59f6f/1*Z_YvONCrOWgJSKkSyTm2vg.jpeg)
 
 
 
-![Photo by Klinika Center](assets/61a2a1d59f6f/1*Kybg65tRecLey9qEAv3_rw.jpeg)
+![Photo by Klinika Center](../assets/61a2a1d59f6f/1*Kybg65tRecLey9qEAv3_rw.jpeg)
 
 Photo by Klinika Center
 #### France

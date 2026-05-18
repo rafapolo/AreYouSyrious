@@ -1,5 +1,5 @@
 ---
-title: AYS Special: Choose Love?— but not in France
+title: "AYS Special: Choose Love?— but not in France"
 author: Are You Syrious?
 date: 2022-01-08T12:18:17.005+0000
 last_modified_at: 2022-01-08T13:34:20.251+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [special,choose-love,uk,calais,refugees]
 description: In 2021 Choose Love pulled funding from all but two of their Calais partners. Here’s the story from the ground.
 image:
-  path: assets/b4a301b1c26e/1*5iyi98aimeqzLXAEPT7uJQ.png
+  path: ../assets/b4a301b1c26e/1*5iyi98aimeqzLXAEPT7uJQ.png
 ---
 
 ### AYS Special: Choose Love?— but not in France
@@ -15,7 +15,7 @@ image:
 _UK\-registered charity Choose Love was started under the name ‘Help Refugees’ by three well\-connected campaigners\. Coldplay’s Chris Martin and actors Olivia Colman and Phoebe Waller\-Bridge are among the celebrity supporters, and millions of pounds of funding is raised in part via their trendy pop\-up\-shop on central London’s Carnaby Street\. The charity funds partner organisations in various countries, but recently announced a huge reduction in funding for groups in Northern France\. Helen Tennyson explains how and what happened\._
 
 
-![Pop\-up Shop on Carnaby Street\. Photo Credit: [Choose Love on Instagram](https://www.instagram.com/p/CV1Levwo6M2/?utm_source=ig_web_copy_link)](assets/b4a301b1c26e/1*5iyi98aimeqzLXAEPT7uJQ.png)
+![Pop\-up Shop on Carnaby Street\. Photo Credit: [Choose Love on Instagram](https://www.instagram.com/p/CV1Levwo6M2/?utm_source=ig_web_copy_link)](../assets/b4a301b1c26e/1*5iyi98aimeqzLXAEPT7uJQ.png)
 
 Pop\-up Shop on Carnaby Street\. Photo Credit: [Choose Love on Instagram](https://www.instagram.com/p/CV1Levwo6M2/?utm_source=ig_web_copy_link)
 
@@ -29,7 +29,7 @@ Since 1st January 2022, Choose Love has withdrawn funding from almost every orga
 
 
 
-![\(Photo Credit: [Choose Love Instagram](https://www.instagram.com/p/CVv6M_SM7B5/?utm_source=ig_web_copy_link) \)](assets/b4a301b1c26e/1*Y4vvQB5JcJHsvDQaC8gktQ.jpeg)
+![\(Photo Credit: [Choose Love Instagram](https://www.instagram.com/p/CVv6M_SM7B5/?utm_source=ig_web_copy_link) \)](../assets/b4a301b1c26e/1*Y4vvQB5JcJHsvDQaC8gktQ.jpeg)
 
 \(Photo Credit: [Choose Love Instagram](https://www.instagram.com/p/CVv6M_SM7B5/?utm_source=ig_web_copy_link) \)
 
@@ -55,7 +55,7 @@ Any link, no matter how tenuous, to government policy or preference that shapes 
 One thing we all wonder is why they waited so long between the decision to pull funding and their public announcement\. I, along with almost everyone working on the ground in Northern France at the time, knew of the decision in summer\. It was common knowledge that it was common knowledge, but also common knowledge that no\-one was supposed to know\. The charities affected launched the ‘ [Calais Appeal](https://www.calaisappeal.co.uk/) ’ after the announcement on 1st November; an intelligent and united effort to find a way to replace those funds\. An appeal of this size and planning takes a long time to coordinate, and yet was ready to launch immediately after the announcement was made public\. The organisations knew before, but were explicitly told not to publicise the information for fear of having their funding cut before the deadline of December 31st\. This meant they couldn’t seek alternative funding sooner, essentially cutting their preparation time from six months to two\. Choose Love is now using the same model in Greece\. They are exploiting the relationship of trust that it has fostered with organisations on the ground, and this exploits the relationship between itself and its donors as well\.
 
 
-![Photo Credit: [Calais Appeal on Instagram](https://www.instagram.com/p/CYLy00ooDeR/)](assets/b4a301b1c26e/1*gQ7e1tb3_2DOHDiFe_JgpQ.png)
+![Photo Credit: [Calais Appeal on Instagram](https://www.instagram.com/p/CYLy00ooDeR/)](../assets/b4a301b1c26e/1*gQ7e1tb3_2DOHDiFe_JgpQ.png)
 
 Photo Credit: [Calais Appeal on Instagram](https://www.instagram.com/p/CYLy00ooDeR/)
 

@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 17/6/20: Manipulations and police pressure across the Balkans
+title: "AYS Daily Digest 17/6/20: Manipulations and police pressure across the Balkans"
 author: Are You Syrious?
 date: 2020-06-18T10:24:02.227+0100
 last_modified_at: 2020-06-18T13:45:18.225+0100
 categories: Are You Syrious?
 tags: [digest,refugees,greece,germany,europe]
-description: Germany: Eritreans under international protection can’t bring their families / Endless way from Moria to humane housing continues for…
+description: "Germany: Eritreans under international protection can’t bring their families / Endless way from Moria to humane housing continues for…"
 image:
-  path: assets/d8ceb017446b/1*eXUIDphiyyGjWUMzSJ_YXA.jpeg
+  path: ../assets/d8ceb017446b/1*eXUIDphiyyGjWUMzSJ_YXA.jpeg
 ---
 
 ### AYS Daily Digest 17/6/20: Manipulations and police pressure across the Balkans
 #### Germany: Eritreans under international protection can’t bring their families / Endless way from Moria to humane housing continues for people ‘from Victoria Square’ / Boats in distress in EU waters end up in Turkey — again / Como: People from Caritas housing left homeless for 10 days now / France: Precarious households fear homelessness across the country / & more news and updates
 
 
-![Eleonas camp, Greece — photo: [Solidarity With Migrants](https://www.facebook.com/solidaritymigrants/?__tn__=kC-R&eid=ARCZ9PRqU6B3O03vp87UAtAjdXudIjCEUJEpAMumzm3cJB0N1tcypC2ZbY3xZCKnnLqIG1CONBX6jKLG&hc_ref=ARToSMAljNG3pqaQ_N_GtcKDKIGnn8mkuxpwvEmS9-O2CmiWUN-cAsM2Bev92-9pK2g&ref=nf_target&__xts__%5B0%5D=68.ARDJ5iIQpfQqXJfyR5txH2Ldyr8-X7WQre20VLbsRu4Ilv4j97Te6oMaFBY4No6zk5Q0Ri2DoxskbRxMdwmcdy6hSsHFnE2hSEixDNbXn_JwDjF7_PSoARo6HtW8nmdXU8tn4tA4PqwWGv3SK_YY9bgvq-qMC92xTBfFUg8GFsK_lOxR8kJRgoAMsvnLB_eif3rU5nF0o5k86JpKhWyRcbV-dm4qo9nsk9yb7WfwfCKPScrvbx33lwigJelv5DhgWzs40OTk8GieEoBDI1oaA6oqu5E0mbkwK1gqbQ8w0pZyfQfIauHUGXhak98ih12sjAWZPJ7RagIcU45zCg6SLOVWm_UA-RyOWPjf3vHMvzrqOeX6DRrxXoOG3UNTJtT5iN2Zq05U79hu0ox2_ykFt2A_r-QE6zEIzzIyNEJNJSKr)](assets/d8ceb017446b/1*eXUIDphiyyGjWUMzSJ_YXA.jpeg)
+![Eleonas camp, Greece — photo: [Solidarity With Migrants](https://www.facebook.com/solidaritymigrants/?__tn__=kC-R&eid=ARCZ9PRqU6B3O03vp87UAtAjdXudIjCEUJEpAMumzm3cJB0N1tcypC2ZbY3xZCKnnLqIG1CONBX6jKLG&hc_ref=ARToSMAljNG3pqaQ_N_GtcKDKIGnn8mkuxpwvEmS9-O2CmiWUN-cAsM2Bev92-9pK2g&ref=nf_target&__xts__%5B0%5D=68.ARDJ5iIQpfQqXJfyR5txH2Ldyr8-X7WQre20VLbsRu4Ilv4j97Te6oMaFBY4No6zk5Q0Ri2DoxskbRxMdwmcdy6hSsHFnE2hSEixDNbXn_JwDjF7_PSoARo6HtW8nmdXU8tn4tA4PqwWGv3SK_YY9bgvq-qMC92xTBfFUg8GFsK_lOxR8kJRgoAMsvnLB_eif3rU5nF0o5k86JpKhWyRcbV-dm4qo9nsk9yb7WfwfCKPScrvbx33lwigJelv5DhgWzs40OTk8GieEoBDI1oaA6oqu5E0mbkwK1gqbQ8w0pZyfQfIauHUGXhak98ih12sjAWZPJ7RagIcU45zCg6SLOVWm_UA-RyOWPjf3vHMvzrqOeX6DRrxXoOG3UNTJtT5iN2Zq05U79hu0ox2_ykFt2A_r-QE6zEIzzIyNEJNJSKr)](../assets/d8ceb017446b/1*eXUIDphiyyGjWUMzSJ_YXA.jpeg)
 
 Eleonas camp, Greece — photo: [Solidarity With Migrants](https://www.facebook.com/solidaritymigrants/?__tn__=kC-R&eid=ARCZ9PRqU6B3O03vp87UAtAjdXudIjCEUJEpAMumzm3cJB0N1tcypC2ZbY3xZCKnnLqIG1CONBX6jKLG&hc_ref=ARToSMAljNG3pqaQ_N_GtcKDKIGnn8mkuxpwvEmS9-O2CmiWUN-cAsM2Bev92-9pK2g&ref=nf_target&__xts__%5B0%5D=68.ARDJ5iIQpfQqXJfyR5txH2Ldyr8-X7WQre20VLbsRu4Ilv4j97Te6oMaFBY4No6zk5Q0Ri2DoxskbRxMdwmcdy6hSsHFnE2hSEixDNbXn_JwDjF7_PSoARo6HtW8nmdXU8tn4tA4PqwWGv3SK_YY9bgvq-qMC92xTBfFUg8GFsK_lOxR8kJRgoAMsvnLB_eif3rU5nF0o5k86JpKhWyRcbV-dm4qo9nsk9yb7WfwfCKPScrvbx33lwigJelv5DhgWzs40OTk8GieEoBDI1oaA6oqu5E0mbkwK1gqbQ8w0pZyfQfIauHUGXhak98ih12sjAWZPJ7RagIcU45zCg6SLOVWm_UA-RyOWPjf3vHMvzrqOeX6DRrxXoOG3UNTJtT5iN2Zq05U79hu0ox2_ykFt2A_r-QE6zEIzzIyNEJNJSKr)
 #### FEATURED
@@ -45,15 +45,15 @@ Still, many Eritreans encounter a lack of understanding and access to internatio
 The local team of the Red Cross in Ključ [Crveni Križ Općine Ključ](https://www.facebook.com/profile.php?id=100009318317491&__tn__=%2Cd%2AF%2AF-R&eid=ARBlDFzVlPquXqOBJEgA-4LcH0xra0jo2v57WgGVUpXt3nyISSvE_WWe6k9JQeHp8tka-Vu2Utk_ydXu&tn-str=%2AF&hc_location=group_dialog) , working alone and with some side support, has been reporting a surge in arrivals of families and other people to the spot where people have been kicked out from the public transport and left out there for many months now and, in spite of some futile words by the Ombudsman and some reporting, nothing much has changed\.
 
 
-![](assets/d8ceb017446b/1*4scN3sJNRIlq9DU8jhCvVw.jpeg)
+![](../assets/d8ceb017446b/1*4scN3sJNRIlq9DU8jhCvVw.jpeg)
 
 
 
-![](assets/d8ceb017446b/1*c3-fzOCFY3CW65rC65WyTg.jpeg)
+![](../assets/d8ceb017446b/1*c3-fzOCFY3CW65rC65WyTg.jpeg)
 
 
 
-![Photos: [Crveni Križ Općine Ključ](https://www.facebook.com/profile.php?id=100009318317491&__tn__=%2Cd%2AF%2AF-R&eid=ARBlDFzVlPquXqOBJEgA-4LcH0xra0jo2v57WgGVUpXt3nyISSvE_WWe6k9JQeHp8tka-Vu2Utk_ydXu&tn-str=%2AF&hc_location=group_dialog)](assets/d8ceb017446b/1*ddkEX2BzZkODePufG693mQ.jpeg)
+![Photos: [Crveni Križ Općine Ključ](https://www.facebook.com/profile.php?id=100009318317491&__tn__=%2Cd%2AF%2AF-R&eid=ARBlDFzVlPquXqOBJEgA-4LcH0xra0jo2v57WgGVUpXt3nyISSvE_WWe6k9JQeHp8tka-Vu2Utk_ydXu&tn-str=%2AF&hc_location=group_dialog)](../assets/d8ceb017446b/1*ddkEX2BzZkODePufG693mQ.jpeg)
 
 Photos: [Crveni Križ Općine Ključ](https://www.facebook.com/profile.php?id=100009318317491&__tn__=%2Cd%2AF%2AF-R&eid=ARBlDFzVlPquXqOBJEgA-4LcH0xra0jo2v57WgGVUpXt3nyISSvE_WWe6k9JQeHp8tka-Vu2Utk_ydXu&tn-str=%2AF&hc_location=group_dialog)
 
@@ -74,7 +74,7 @@ A bit later, they published this update:
 
 
 
-![](assets/d8ceb017446b/1*usNbky6CD2UNqwgTVX912g.jpeg)
+![](../assets/d8ceb017446b/1*usNbky6CD2UNqwgTVX912g.jpeg)
 
 
 In another part of the Mediterranean, similar situations have been reported by the Sea Watch:
@@ -141,7 +141,7 @@ On the other hand, [Solidarity With Migrants](https://www.facebook.com/solidarit
 
 
 
-![Eleonas, photo by: [NoBorders](https://www.facebook.com/nobordersnetwork/?__xts__%5B0%5D=68.ARA8D9JCkSr1y3aaTKWywKAGkX3-OHryPXvgn6Y-tbPjt7K1W85ZK7SHdAA3XR-cYi28apnJZRdg99nQtQuMVadjK4GgIwWJmDwvBMTszeEb47g1EGKpTEzvBQIfmQ6LKlbWm7f0pL5qpAQ28_9dVhM_gvl8NjKbmmMZ_TZuSoa5aA12P468heMM7_--vduqKJDhL_Ct-bDvpKB_q992KhGS0jpiBlp48bBHmqM6oSsyqorj43YNaKjtsx0CHkXeMpFErYs1L9rkv1VKsQqtP5QANdbpJvNnem0kgBuD4XMVdcN18OdE_hmI_ng-ifdMGlp4Nd-2B7O1Q5gLi6dtTujUfg&__tn__=k%2AF&tn-str=k%2AF)](assets/d8ceb017446b/1*iQC0nw5rX-wPJZxaTJYe8w.jpeg)
+![Eleonas, photo by: [NoBorders](https://www.facebook.com/nobordersnetwork/?__xts__%5B0%5D=68.ARA8D9JCkSr1y3aaTKWywKAGkX3-OHryPXvgn6Y-tbPjt7K1W85ZK7SHdAA3XR-cYi28apnJZRdg99nQtQuMVadjK4GgIwWJmDwvBMTszeEb47g1EGKpTEzvBQIfmQ6LKlbWm7f0pL5qpAQ28_9dVhM_gvl8NjKbmmMZ_TZuSoa5aA12P468heMM7_--vduqKJDhL_Ct-bDvpKB_q992KhGS0jpiBlp48bBHmqM6oSsyqorj43YNaKjtsx0CHkXeMpFErYs1L9rkv1VKsQqtP5QANdbpJvNnem0kgBuD4XMVdcN18OdE_hmI_ng-ifdMGlp4Nd-2B7O1Q5gLi6dtTujUfg&__tn__=k%2AF&tn-str=k%2AF)](../assets/d8ceb017446b/1*iQC0nw5rX-wPJZxaTJYe8w.jpeg)
 
 Eleonas, photo by: [NoBorders](https://www.facebook.com/nobordersnetwork/?__xts__%5B0%5D=68.ARA8D9JCkSr1y3aaTKWywKAGkX3-OHryPXvgn6Y-tbPjt7K1W85ZK7SHdAA3XR-cYi28apnJZRdg99nQtQuMVadjK4GgIwWJmDwvBMTszeEb47g1EGKpTEzvBQIfmQ6LKlbWm7f0pL5qpAQ28_9dVhM_gvl8NjKbmmMZ_TZuSoa5aA12P468heMM7_--vduqKJDhL_Ct-bDvpKB_q992KhGS0jpiBlp48bBHmqM6oSsyqorj43YNaKjtsx0CHkXeMpFErYs1L9rkv1VKsQqtP5QANdbpJvNnem0kgBuD4XMVdcN18OdE_hmI_ng-ifdMGlp4Nd-2B7O1Q5gLi6dtTujUfg&__tn__=k%2AF&tn-str=k%2AF)
 

@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 15/01/20: Greece reintroduces Migration Ministry
+title: "AYS Daily Digest 15/01/20: Greece reintroduces Migration Ministry"
 author: Are You Syrious?
 date: 2020-01-16T00:34:55.724+0000
 last_modified_at: 2020-01-16T15:02:34.319+0000
 categories: Are You Syrious?
 tags: [refugees,digest,greece,germany,belgium]
-description: Belgium restricts accomodation for asylum seekers / Germany: How to criminalize people / South Africa restricts political activities of…
+description: "Belgium restricts accomodation for asylum seekers / Germany: How to criminalize people / South Africa restricts political activities of…"
 image:
-  path: assets/ce4880fe4d64/1*RDOaMYpajbHTyOuzkMIRHQ.jpeg
+  path: ../assets/ce4880fe4d64/1*RDOaMYpajbHTyOuzkMIRHQ.jpeg
 ---
 
 ### AYS Daily Digest 15/01/20: Greece Reintroduces Migration Ministry
 #### Belgium restricts accommodation for asylum seekers / Germany: How to criminalize people / South Africa restricts political activities of refugees / UNHCR demands more funds for support in Sudan / Protests in Denmark
 
 
-![Credits: [Twitter/Katia Davis](https://twitter.com/katiadavis/status/1216985680909348864)](assets/ce4880fe4d64/1*RDOaMYpajbHTyOuzkMIRHQ.jpeg)
+![Credits: [Twitter/Katia Davis](https://twitter.com/katiadavis/status/1216985680909348864)](../assets/ce4880fe4d64/1*RDOaMYpajbHTyOuzkMIRHQ.jpeg)
 
 Credits: [Twitter/Katia Davis](https://twitter.com/katiadavis/status/1216985680909348864)
 #### FEATURED: Greek Migration Ministry reintroduced

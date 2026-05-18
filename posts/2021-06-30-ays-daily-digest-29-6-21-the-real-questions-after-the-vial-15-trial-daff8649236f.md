@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 29/6/21: The real questions after the Vial 15 trial
+title: "AYS Daily Digest 29/6/21: The real questions after the Vial 15 trial"
 author: Are You Syrious?
 date: 2021-06-30T16:07:41.100+0100
 last_modified_at: 2021-06-30T17:20:47.756+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,greece,human-rights,europe]
 description: News from the Med// A 92-year old woman with dementia dies in Danish pre-deportation detention centre// Hunger strike in Belgium//…
 image:
-  path: assets/daff8649236f/0*kPt4IBSYuyD7EVsa.png
+  path: ../assets/daff8649236f/0*kPt4IBSYuyD7EVsa.png
 ---
 
 ### AYS Daily Digest 29/6/21: The real questions after the Vial 15 trial
 #### News from the Med// A 92\-year old woman with dementia dies in Danish pre\-deportation detention centre// Hunger strike in Belgium// Restrictions on food and water distributions to people on the move in Calais continue// & reports from Serbia, France, Denmark, announcements and recommended reads
 
 
-![_Photo credit: Politischios\.gr_](assets/daff8649236f/0*kPt4IBSYuyD7EVsa.png)
+![_Photo credit: Politischios\.gr_](../assets/daff8649236f/0*kPt4IBSYuyD7EVsa.png)
 
 _Photo credit: Politischios\.gr_
 #### FEATURED
@@ -113,11 +113,11 @@ As the shipping company Vroon is accused of being complicit in forced return in 
 ### \#FreeTheFootballers\!
 
 
-![](assets/daff8649236f/0*4YskboPzuxp9J1JH)
+![](../assets/daff8649236f/0*4YskboPzuxp9J1JH)
 
 
 
-![[\#FreeTheFootballers](https://web.facebook.com/hashtag/freethefootballers?__eep__=6&__cft__[0]=AZVtzDODdTPHTOwgQd_AEYkOWwPfk4zHAomClSTeCX6Nu8zXtFDVei3QYjzqjG9JKs46rCnspSs5kBWL-dLChCGk9p0EUB11DyrMzxsmw9wbql4m73a4GjrcOIp-VeFjYzDiALDuuu-ZMdp7skFUuSVq&__tn__=*NK-R) — Campaign by [borderline europe — Menschenrechte ohne Grenzen e\.V\.](https://web.facebook.com/borderlineeurope/?__cft__[0]=AZVtzDODdTPHTOwgQd_AEYkOWwPfk4zHAomClSTeCX6Nu8zXtFDVei3QYjzqjG9JKs46rCnspSs5kBWL-dLChCGk9p0EUB11DyrMzxsmw9wbql4m73a4GjrcOIp-VeFjYzDiALDuuu-ZMdp7skFUuSVq&__tn__=kK-R)](assets/daff8649236f/0*WvOc9bdb0_pbg3EV)
+![[\#FreeTheFootballers](https://web.facebook.com/hashtag/freethefootballers?__eep__=6&__cft__[0]=AZVtzDODdTPHTOwgQd_AEYkOWwPfk4zHAomClSTeCX6Nu8zXtFDVei3QYjzqjG9JKs46rCnspSs5kBWL-dLChCGk9p0EUB11DyrMzxsmw9wbql4m73a4GjrcOIp-VeFjYzDiALDuuu-ZMdp7skFUuSVq&__tn__=*NK-R) — Campaign by [borderline europe — Menschenrechte ohne Grenzen e\.V\.](https://web.facebook.com/borderlineeurope/?__cft__[0]=AZVtzDODdTPHTOwgQd_AEYkOWwPfk4zHAomClSTeCX6Nu8zXtFDVei3QYjzqjG9JKs46rCnspSs5kBWL-dLChCGk9p0EUB11DyrMzxsmw9wbql4m73a4GjrcOIp-VeFjYzDiALDuuu-ZMdp7skFUuSVq&__tn__=kK-R)](../assets/daff8649236f/0*WvOc9bdb0_pbg3EV)
 
 [\#FreeTheFootballers](https://web.facebook.com/hashtag/freethefootballers?__eep__=6&__cft__[0]=AZVtzDODdTPHTOwgQd_AEYkOWwPfk4zHAomClSTeCX6Nu8zXtFDVei3QYjzqjG9JKs46rCnspSs5kBWL-dLChCGk9p0EUB11DyrMzxsmw9wbql4m73a4GjrcOIp-VeFjYzDiALDuuu-ZMdp7skFUuSVq&__tn__=*NK-R) — Campaign by [borderline europe — Menschenrechte ohne Grenzen e\.V\.](https://web.facebook.com/borderlineeurope/?__cft__[0]=AZVtzDODdTPHTOwgQd_AEYkOWwPfk4zHAomClSTeCX6Nu8zXtFDVei3QYjzqjG9JKs46rCnspSs5kBWL-dLChCGk9p0EUB11DyrMzxsmw9wbql4m73a4GjrcOIp-VeFjYzDiALDuuu-ZMdp7skFUuSVq&__tn__=kK-R)
 
@@ -198,7 +198,7 @@ Their presidency, which begins next month, will strive in pushing the legislativ
 Since 2018, Slovenia has been involved in massive and systemic denials of asylum rights and collective expulsion to Croatia\. This webinar will discuss the guise of legality used to initiate chain pushbacks, and the numerous reports and court judgements that have exposed the subsequent risks of torture during pushback from Croatia, as well as the inhuman conditions in Bosnia and Herzegovina\.
 
 
-![](assets/daff8649236f/0*F7sAdUEioPUF1BsK)
+![](../assets/daff8649236f/0*F7sAdUEioPUF1BsK)
 
 
 
@@ -218,7 +218,7 @@ Mainly from Tunisia, Morocco, Algeria, Egypt and Pakistan, the hunger strikers a
 ### Calais
 
 
-![via [**Utopia 56**](https://twitter.com/Utopia_56)](assets/daff8649236f/0*KwUIke7OwINVhhpd)
+![via [**Utopia 56**](https://twitter.com/Utopia_56)](../assets/daff8649236f/0*KwUIke7OwINVhhpd)
 
 via [**Utopia 56**](https://twitter.com/Utopia_56)
 
@@ -227,7 +227,7 @@ Once again, restrictions on food and water distributions to people on the move i
 ### Outrage over the death of a 92\-year old woman who was to be deported to Afghanistan
 
 
-![Rest in peace, Bibi — Photo by [Lene Kjær](https://web.facebook.com/lenekjj?__cft__[0]=AZUYU4Lbbt65QHwPZQjCHuSqiOSmMMX0FZHqno6MQtSQQRzL8D7dSGBHtoKH55eqnUCaMVkFHiblwGGRcs7QqtPLhgWczpZ0uolBvoUhhejiuNGq14OpKQ2tDmXkxXti13c&__tn__=-UC%2CP-R)](assets/daff8649236f/0*vma6xvEwFv9oJUMT)
+![Rest in peace, Bibi — Photo by [Lene Kjær](https://web.facebook.com/lenekjj?__cft__[0]=AZUYU4Lbbt65QHwPZQjCHuSqiOSmMMX0FZHqno6MQtSQQRzL8D7dSGBHtoKH55eqnUCaMVkFHiblwGGRcs7QqtPLhgWczpZ0uolBvoUhhejiuNGq14OpKQ2tDmXkxXti13c&__tn__=-UC%2CP-R)](../assets/daff8649236f/0*vma6xvEwFv9oJUMT)
 
 Rest in peace, Bibi — Photo by [Lene Kjær](https://web.facebook.com/lenekjj?__cft__[0]=AZUYU4Lbbt65QHwPZQjCHuSqiOSmMMX0FZHqno6MQtSQQRzL8D7dSGBHtoKH55eqnUCaMVkFHiblwGGRcs7QqtPLhgWczpZ0uolBvoUhhejiuNGq14OpKQ2tDmXkxXti13c&__tn__=-UC%2CP-R)
 

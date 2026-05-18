@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,greece,turkey]
 description: Official Justification for Safe Third Country Status Inadequate, NGOs Say//Shipwreck Between Turkey and Greece//Caravan For Equal Rights…
 image:
-  path: assets/1c2172e42422/0*UnAY63B0koj1fgLJ
+  path: ../assets/1c2172e42422/0*UnAY63B0koj1fgLJ
 ---
 
 ### AYS Daily Digest 23/07/2021 — Greek Rationale for Declaring Turkey “Safe Third Country” Finally Released
 #### Official justification for safe third country status inadequate, NGOs say//Shipwreck between Turkey and Greece//Caravan for equal rights on Canary Islands
 
 
-![One of the distress cases in the Mediterranean over the past 24 hours\. Photo credit: [Proactiva Open Arms](https://www.facebook.com/proactivaservice/photos/pcb.4406333739397443/4406333646064119/)](assets/1c2172e42422/0*UnAY63B0koj1fgLJ)
+![One of the distress cases in the Mediterranean over the past 24 hours\. Photo credit: [Proactiva Open Arms](https://www.facebook.com/proactivaservice/photos/pcb.4406333739397443/4406333646064119/)](../assets/1c2172e42422/0*UnAY63B0koj1fgLJ)
 
 One of the distress cases in the Mediterranean over the past 24 hours\. Photo credit: [Proactiva Open Arms](https://www.facebook.com/proactivaservice/photos/pcb.4406333739397443/4406333646064119/)
 #### FEATURE

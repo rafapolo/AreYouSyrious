@@ -1,5 +1,5 @@
 ---
-title: AYS Digest 8/10: Souda fire triggers new tragedies
+title: "AYS Digest 8/10: Souda fire triggers new tragedies"
 author: Are You Syrious?
 date: 2016-10-09T00:49:34.462+0100
 last_modified_at: 2016-10-09T09:41:23.342+0100
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe]
 description: FEATURE
 image:
-  path: assets/b901d1d7a70c/1*npAkDn0XyfrVVMfx9-H-Pg.jpeg
+  path: ../assets/b901d1d7a70c/1*npAkDn0XyfrVVMfx9-H-Pg.jpeg
 ---
 
 ### AYS Digest 8/10: Souda fire triggers new tragedies
 
 
-![Souda Fire\. Photo Credit: Sana À Dada](assets/b901d1d7a70c/1*npAkDn0XyfrVVMfx9-H-Pg.jpeg)
+![Souda Fire\. Photo Credit: Sana À Dada](../assets/b901d1d7a70c/1*npAkDn0XyfrVVMfx9-H-Pg.jpeg)
 
 Souda Fire\. Photo Credit: Sana À Dada
 ### FEATURE
@@ -23,7 +23,7 @@ The stormy Friday night was punctured by an additional disruption on Souda, Chio
 In addition to destroying containers that had aid prepared for distribution, the fire displaced many residents of the camp as well, and response teams have been scrambling to find ways to house and tend to not only the new arrivals to the island, but the newly\-re\-displaced people\. [Salvamento Marítimo Humanitario](https://www.facebook.com/smhumanitario/?hc_ref=PAGES_TIMELINE) [humanitarian rescue](https://www.facebook.com/smhumanitario) was able to set up emergency medical facilities in order to respond to the crisis\.
 
 
-![Photo Credit: Gabrielle Tan/Action from Switzerland](assets/b901d1d7a70c/1*wvL3zkHLPY-qg51Ge4HmQw.jpeg)
+![Photo Credit: Gabrielle Tan/Action from Switzerland](../assets/b901d1d7a70c/1*wvL3zkHLPY-qg51Ge4HmQw.jpeg)
 
 Photo Credit: Gabrielle Tan/Action from Switzerland
 
@@ -32,18 +32,18 @@ Organizations report urgent need for tents \(four\-person minimum\) and jogging 
 The photos below shows the extent of the damage\.
 
 
-![Photo Credit: [**Pothiti Kitromilidi**](https://www.facebook.com/pothiti.kitromilidi)](assets/b901d1d7a70c/1*JrviLOayp-_RtfHF7iu90w.jpeg)
+![Photo Credit: [**Pothiti Kitromilidi**](https://www.facebook.com/pothiti.kitromilidi)](../assets/b901d1d7a70c/1*JrviLOayp-_RtfHF7iu90w.jpeg)
 
 Photo Credit: [**Pothiti Kitromilidi**](https://www.facebook.com/pothiti.kitromilidi)
 
 
-![](assets/b901d1d7a70c/1*krhI9T-dAqoiFGGTSHaVrA.jpeg)
+![](../assets/b901d1d7a70c/1*krhI9T-dAqoiFGGTSHaVrA.jpeg)
 
 
 The recent disaster gives the opportunity to be reminded resist normalizing these kinds of tragedies\. Although frustration and desperation in the light of the catastrophic failure of bureaucracy is the most likely motivator for this event, we must abstain from our answers and explanations from becoming too quick and too regular\. Even if the explanations do not change over time, it is dismissive to provide knee\-jerk responses these situations\. A crucial part of affirming humanity is taking the time to contextualize events that occur in the complex realities of the world\.
 
 
-![Photo Credit: The Worldwide Tribe](assets/b901d1d7a70c/1*MdqVkn8kP9C2kqMugGAT1Q.jpeg)
+![Photo Credit: The Worldwide Tribe](../assets/b901d1d7a70c/1*MdqVkn8kP9C2kqMugGAT1Q.jpeg)
 
 Photo Credit: The Worldwide Tribe
 
@@ -88,7 +88,7 @@ Former French President, who is eyeing a return to power, is advocating that a r
 [Villagers of Pierrefeu](http://m.france24.com/en/20161008-french-towns-protest-plan-relocate-calais-jungle-migrants-pierrefeu-refugees) , a southeastern French town slated for becoming relocation spots for former residents of Calais camp, have staged protests against this action\. The government plans to house refugees in the abandoned ward of a psychiatric hospital; however a few hundred protestors, including the mayor voiced their opposition\. Sadly, far\-right demonstrators plan another “anti\-migrant” protest soon as well\.
 
 
-![Photo Credit: The Worldwide Tribe](assets/b901d1d7a70c/1*9_F-l6poUl4CwMWYqNHl4g.jpeg)
+![Photo Credit: The Worldwide Tribe](../assets/b901d1d7a70c/1*9_F-l6poUl4CwMWYqNHl4g.jpeg)
 
 Photo Credit: The Worldwide Tribe
 

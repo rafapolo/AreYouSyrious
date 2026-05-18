@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [greece,digest,germany,spain,refugees]
 description: Are You Syrious?
 image:
-  path: assets/97c49f379634/0*KfEciooeXEkCap3U.jpeg
+  path: ../assets/97c49f379634/0*KfEciooeXEkCap3U.jpeg
 ---
 
 ### AYS Daily Digest 30/11/20 What was old is new again with new map for Moria 2\.0
 
 
-![](assets/97c49f379634/0*nIBH0nX3yJQRXghM.jpeg)
+![](../assets/97c49f379634/0*nIBH0nX3yJQRXghM.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----52f4cc9ce14e--------------------------------)
@@ -23,11 +23,11 @@ image:
 _The Arguineguín camp is emptied // Germany’s debate on whether to deport to Syria // Home Office still saying migrants are traffickers, even after Judge says no // and more…_
 
 
-![](assets/97c49f379634/0*sZD8JOEaX2youHey)
+![](../assets/97c49f379634/0*sZD8JOEaX2youHey)
 
 
 
-![](assets/97c49f379634/0*KfEciooeXEkCap3U.jpeg)
+![](../assets/97c49f379634/0*KfEciooeXEkCap3U.jpeg)
 
 ### FEATURE: New map of camp/RIC for Lesvos
 
@@ -45,55 +45,55 @@ Only two and a half months after Moria burned down, this is what is coming\. AYS
 ### SEA
 
 
-![](assets/97c49f379634/0*42HUMgRa-gO8z4Be)
+![](../assets/97c49f379634/0*42HUMgRa-gO8z4Be)
 
 
 
-![](assets/97c49f379634/0*_yp3cCaO7plOsfeC.jpeg)
+![](../assets/97c49f379634/0*_yp3cCaO7plOsfeC.jpeg)
 
 ### GREECE
 ### Updates from Lesvos
 
 
-![](assets/97c49f379634/0*acG-gq4b75ZSofwU)
+![](../assets/97c49f379634/0*acG-gq4b75ZSofwU)
 
 
 
-![](assets/97c49f379634/0*oB1KyXlG9hauyCHl.jpeg)
+![](../assets/97c49f379634/0*oB1KyXlG9hauyCHl.jpeg)
 
 
 
-![](assets/97c49f379634/0*teKMaE2fY-wHbIHt)
+![](../assets/97c49f379634/0*teKMaE2fY-wHbIHt)
 
 
 
-![](assets/97c49f379634/0*5EXhQY3yrQkdkzO5.jpeg)
+![](../assets/97c49f379634/0*5EXhQY3yrQkdkzO5.jpeg)
 
 
 ABR on landings: “ _A boat carrying approximately 27 people landed south of Agrielia Kratigou, Lesvos south 22\.00 \(Sunday\) night\. They are scattered in small groups in the area, hiding in the woods because they are afraid that the Greek coast guard will illegally return them to Turkey\. Aegean Boat Report have obtained pictures, videos and location data, so that we can positively confirm that they are in fact on Lesvos\. Port police has been informed of their whereabouts, and that we have documented their arrival on Lesvos, to try to discourage them from violating their right to seek asylum and trying to return them to Turkey_ \.” [Alarm Phone](https://twitter.com/alarm_phone/status/1333441172174491650]) said they received a call from nine people this night as well\.
 
 
-![](assets/97c49f379634/0*gjhh5lpRVA9dzCpB)
+![](../assets/97c49f379634/0*gjhh5lpRVA9dzCpB)
 
 
 
-![](assets/97c49f379634/0*bCMcp-dMThMoWpQJ.jpeg)
+![](../assets/97c49f379634/0*bCMcp-dMThMoWpQJ.jpeg)
 
 
 
-![](assets/97c49f379634/0*0T_EeS_GURHpPqYY)
+![](../assets/97c49f379634/0*0T_EeS_GURHpPqYY)
 
 
 
-![](assets/97c49f379634/0*7X7QE73VIrV8mdFJ.jpeg)
+![](../assets/97c49f379634/0*7X7QE73VIrV8mdFJ.jpeg)
 
 
 
-![](assets/97c49f379634/0*h7GxEGH2FptORhuU)
+![](../assets/97c49f379634/0*h7GxEGH2FptORhuU)
 
 
 
-![](assets/97c49f379634/0*Zi2YeT5Mg8Ifhmdc.png)
+![](../assets/97c49f379634/0*Zi2YeT5Mg8Ifhmdc.png)
 
 ### Updates from Samos
 ### Update from Leros
@@ -102,19 +102,19 @@ From [the Yellow Days](https://www.facebook.com/theyellowdays/posts/277845251243
 ### Updates from Mainland
 
 
-![](assets/97c49f379634/0*MflF9GME3FTkyc7B)
+![](../assets/97c49f379634/0*MflF9GME3FTkyc7B)
 
 
 
-![](assets/97c49f379634/0*8Z4L7vv5zol4oUhN.jpeg)
+![](../assets/97c49f379634/0*8Z4L7vv5zol4oUhN.jpeg)
 
 
 
-![](assets/97c49f379634/0*TVGr18blx7p7uRg3)
+![](../assets/97c49f379634/0*TVGr18blx7p7uRg3)
 
 
 
-![](assets/97c49f379634/0*JA9oLZkM7HtywNCC.jpeg)
+![](../assets/97c49f379634/0*JA9oLZkM7HtywNCC.jpeg)
 
 ### SPAIN
 ### The Arguineguín camp has been emptied
@@ -131,45 +131,45 @@ Publico is reporting that after three months and nine days, the “untenable” 
 Read more [here](https://www.publico.es/sociedad/migracion-canarias-campamento-arguineguin-queda-vacio-tres-meses-nueve-dias-despues.html?utm_source=facebook&utm_medium=social&utm_campaign=publico&fbclid=IwAR32T8BV1vh5It9xGUfZnRnwZ8HHVJ1cDd00srDb5DiYxoxGU1DcnZyuy40) \.
 
 
-![](assets/97c49f379634/0*-kBnsbcB7mNv_jQx)
+![](../assets/97c49f379634/0*-kBnsbcB7mNv_jQx)
 
 
 
-![](assets/97c49f379634/0*flMyNDCpr2-K2pdR.jpeg)
+![](../assets/97c49f379634/0*flMyNDCpr2-K2pdR.jpeg)
 
 ### BALKANS
 
 
-![](assets/97c49f379634/0*c4mdZPXK-L3upRh0)
+![](../assets/97c49f379634/0*c4mdZPXK-L3upRh0)
 
 
 
-![](assets/97c49f379634/0*tWGimvPDQvTRQo5p.jpeg)
+![](../assets/97c49f379634/0*tWGimvPDQvTRQo5p.jpeg)
 
 
 
-![](assets/97c49f379634/0*kQtQ4D05MDSTLlDZ)
+![](../assets/97c49f379634/0*kQtQ4D05MDSTLlDZ)
 
 
 
-![](assets/97c49f379634/0*vWLrbUm1073Hz9S_.jpeg)
+![](../assets/97c49f379634/0*vWLrbUm1073Hz9S_.jpeg)
 
 
 
-![](assets/97c49f379634/0*Ko8NjqhqUeP9_217)
+![](../assets/97c49f379634/0*Ko8NjqhqUeP9_217)
 
 
 
-![](assets/97c49f379634/0*WWzVSgqx64fkODZf.jpeg)
+![](../assets/97c49f379634/0*WWzVSgqx64fkODZf.jpeg)
 
 ### GERMANY
 
 
-![](assets/97c49f379634/0*CC3HY3zwvjxk4mD7)
+![](../assets/97c49f379634/0*CC3HY3zwvjxk4mD7)
 
 
 
-![](assets/97c49f379634/0*P-zlOV8fQTY6QvOo.jpeg)
+![](../assets/97c49f379634/0*P-zlOV8fQTY6QvOo.jpeg)
 
 ### Germany still debating on whether it is “safe” to deport to Northern Syria
 

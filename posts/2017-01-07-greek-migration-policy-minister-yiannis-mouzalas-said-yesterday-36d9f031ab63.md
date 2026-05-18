@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: Preparations for the winter not completed in the Aegean Islands. Refugees, including children, still sleeping in Belgrade’s abandoned…
 image:
-  path: assets/36d9f031ab63/0*qA6s6Sxkd9A7Pt1p.
+  path: ../assets/36d9f031ab63/0*qA6s6Sxkd9A7Pt1p.
 ---
 
 ### AYS DAILY DIGEST 06\.01\.17 — Refugees endure harsh winter in Europe
@@ -15,7 +15,7 @@ image:
 _Preparations for the winter not completed in the Aegean Islands\. Refugees, including children, still sleeping in Belgrade’s abandoned buildings\._
 
 
-![Photo by Eric Kempson](assets/36d9f031ab63/0*qA6s6Sxkd9A7Pt1p.)
+![Photo by Eric Kempson](../assets/36d9f031ab63/0*qA6s6Sxkd9A7Pt1p.)
 
 Photo by Eric Kempson
 #### Greece
@@ -47,7 +47,7 @@ For the MSF head in Greece, Clément Perrin, talking to the Athens\-Macedonian N
 #### Lesvos
 
 
-![Lesvos\. Photo by Eric Kempson](assets/36d9f031ab63/0*ABefCubQnwS6Fr8V.)
+![Lesvos\. Photo by Eric Kempson](../assets/36d9f031ab63/0*ABefCubQnwS6Fr8V.)
 
 Lesvos\. Photo by Eric Kempson
 
@@ -61,23 +61,23 @@ Lesvos\. Photo by Eric Kempson
 #### Chios
 
 
-![Chios\. Photo by [Salvamento Marítimo Humanitario](https://www.facebook.com/smhumanitario/)](assets/36d9f031ab63/0*AQDViEKSfHEx6mhK.)
+![Chios\. Photo by [Salvamento Marítimo Humanitario](https://www.facebook.com/smhumanitario/)](../assets/36d9f031ab63/0*AQDViEKSfHEx6mhK.)
 
 Chios\. Photo by [Salvamento Marítimo Humanitario](https://www.facebook.com/smhumanitario/)
 
 
-![Chios\. Photo by [Salvamento Marítimo Humanitario](https://www.facebook.com/smhumanitario/)](assets/36d9f031ab63/0*1RcpSKdPX8UQ3AaX.)
+![Chios\. Photo by [Salvamento Marítimo Humanitario](https://www.facebook.com/smhumanitario/)](../assets/36d9f031ab63/0*1RcpSKdPX8UQ3AaX.)
 
 Chios\. Photo by [Salvamento Marítimo Humanitario](https://www.facebook.com/smhumanitario/)
 
 
-![Chios\. Photo by [Salvamento Marítimo Humanitario](https://www.facebook.com/smhumanitario/)](assets/36d9f031ab63/0*hFCPfPvtoX2pre1r.)
+![Chios\. Photo by [Salvamento Marítimo Humanitario](https://www.facebook.com/smhumanitario/)](../assets/36d9f031ab63/0*hFCPfPvtoX2pre1r.)
 
 Chios\. Photo by [Salvamento Marítimo Humanitario](https://www.facebook.com/smhumanitario/)
 #### Samos
 
 
-![“Rain, cold, tents, wet clothes, sickness, sogging blankets, puddles, ruined belongings again, more rain” Photo by [No more borders, No more tears](https://www.facebook.com/No-more-borders-No-more-tears-1254181771265187/)](assets/36d9f031ab63/0*8Vqok1D5L7lOI8qA.)
+![“Rain, cold, tents, wet clothes, sickness, sogging blankets, puddles, ruined belongings again, more rain” Photo by [No more borders, No more tears](https://www.facebook.com/No-more-borders-No-more-tears-1254181771265187/)](../assets/36d9f031ab63/0*8Vqok1D5L7lOI8qA.)
 
 “Rain, cold, tents, wet clothes, sickness, sogging blankets, puddles, ruined belongings again, more rain” Photo by [No more borders, No more tears](https://www.facebook.com/No-more-borders-No-more-tears-1254181771265187/)
 
@@ -102,7 +102,7 @@ A volunteer, Gerhild Salzer, describes the situation in the camp saying
 #### **Meanwhile, small organisations are trying to fill the gaps\.**
 
 
-![Photo by Intervolve](assets/36d9f031ab63/0*ggRyQXzXDRKl-AgR.)
+![Photo by Intervolve](../assets/36d9f031ab63/0*ggRyQXzXDRKl-AgR.)
 
 Photo by Intervolve
 
@@ -111,7 +111,7 @@ In Softex for example, [Intervolve,](https://www.facebook.com/InterVolve-2194189
 They also plan to provide snow suits for children and blankets tomorrow, well knowing that these are only temporary solutions, but hoping that it will at least somewhat improve their lives\.
 
 
-![Photo by Intervolve](assets/36d9f031ab63/0*pOHdWTInTak2lZeC.)
+![Photo by Intervolve](../assets/36d9f031ab63/0*pOHdWTInTak2lZeC.)
 
 Photo by Intervolve
 
@@ -172,7 +172,7 @@ Unaccompanied children are also sleeping in the Belgrade warehouse, which is [de
 ### Refugees in hospital due to exposure to the cold
 
 
-![Photo by Lorena Fornasir](assets/36d9f031ab63/0*1nCMkY4HE8miOIFL.)
+![Photo by Lorena Fornasir](../assets/36d9f031ab63/0*1nCMkY4HE8miOIFL.)
 
 Photo by Lorena Fornasir
 
@@ -204,7 +204,7 @@ The farmer Cédric Herrou meanwhile, was in court on Wednesday for helping refug
 Some good news out of Dunkirk, as Peshawa Mahmood, a talented Kurdish artist who has volunteered his time as an art teacher inside the camp, opens his first French art exhibition near Avignon\. If you live in the region, the exhibition is open until the 20th of January, at “ **Le Renc’Arts”** 275 Rue du Grand Montagné, 30133 Les Angles\.
 
 
-![Photo by [Dunkirk Refugee Children’s Centre](https://www.facebook.com/dunkirkrefugeechildrenscentre/)](assets/36d9f031ab63/0*_7oD7d26FVhyacQJ.)
+![Photo by [Dunkirk Refugee Children’s Centre](https://www.facebook.com/dunkirkrefugeechildrenscentre/)](../assets/36d9f031ab63/0*_7oD7d26FVhyacQJ.)
 
 Photo by [Dunkirk Refugee Children’s Centre](https://www.facebook.com/dunkirkrefugeechildrenscentre/)
 #### UK

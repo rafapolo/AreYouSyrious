@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 10/05/2019: 70 People Died at Sea, 100 Others Sent to Death in Libya.
+title: "AYS Daily Digest 10/05/2019: 70 People Died at Sea, 100 Others Sent to Death in Libya."
 author: Are You Syrious?
 date: 2019-05-11T11:30:18.384+0100
 last_modified_at: 2019-05-11T12:39:42.396+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,libya,children]
 description: At least 70 people have died in a shipwreck off the coast of Tunisia// Airstrikes are hitting close to detention centre in Libya//420…
 image:
-  path: assets/16095f4e81a1/0*mykwMErc3Ru5yHAd
+  path: ../assets/16095f4e81a1/0*mykwMErc3Ru5yHAd
 ---
 
 ### AYS Daily Digest 10/05/2019: 70 People Died at Sea, 100 Others Sent to Death in Libya\.
 #### At least 70 people have died in a shipwreck off the coast of Tunisia// Airstrikes are hitting close to detention centres in Libya// 420 people arrested in Turkey as they attempt to flee to Greece// 70 people rescued at sea disembarked in Italy// Croatian Interior Minister still denying push\-backs// Complicated Swedish laws leave children without food
 
 
-![Source: Samos Volunteers](assets/16095f4e81a1/0*mykwMErc3Ru5yHAd)
+![Source: Samos Volunteers](../assets/16095f4e81a1/0*mykwMErc3Ru5yHAd)
 
 Source: Samos Volunteers
 #### FEATURE
@@ -22,7 +22,7 @@ Source: Samos Volunteers
 At least 70 people have died in the Mediterranean, off the coast of Tunisia today\. It is the deadliest incident in the Mediterranean since January\. 443 deaths have been recorded in the Mediterranean in 2019, but unfortunately the actual figure is much higher\. It should be noted that the proportion of deaths versus attempted crossings has risen from 1\.2% in 2018 to 1\.6% in 2019, as reported by The Missing Migrants project\.
 
 
-![](assets/16095f4e81a1/1*9UgGcAXW4LQRSD5szIk2pA.png)
+![](../assets/16095f4e81a1/1*9UgGcAXW4LQRSD5szIk2pA.png)
 
 
 Alarm Phone reports that the boat most likely departed from Libya and the numbers of deceased are likely to rise\. 16 people were saved by fishermen\.
@@ -36,7 +36,7 @@ In this report, Dimitris Avramopolous, the EU Migration Commissioner has admitte
 UNHCR and IOM are quick to denounce the conditions in Libya and deaths in the Mediterranean, but fail to offer any practical solutions that are of much value to the people affected\. Their outrage on social media platforms is no consolation to the people who die at sea while trying to flee Libya, while rescue boats are criminalized and prevented from saving lives by EU Authorities\. Are these genuine advocacy efforts or well\-developed government approved PR stunts?
 
 
-![](assets/16095f4e81a1/1*6K1Fj80IX_XHFHwMH-3dAw.png)
+![](../assets/16095f4e81a1/1*6K1Fj80IX_XHFHwMH-3dAw.png)
 
 #### LIBYA
 

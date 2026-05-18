@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 03/03/2021: Iuventa crew and others may face legal charges for SAR work
+title: "AYS Daily Digest 03/03/2021: Iuventa crew and others may face legal charges for SAR work"
 author: Are You Syrious?
 date: 2021-03-04T10:49:03.027+0000
 last_modified_at: 2021-03-04T18:47:01.447+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,search-and-rescue,mediterranean,frontex,refugees]
 description: Anti-racism group in Cyprus faces closure // Desperation after evictions in Greece // Rescues off Canaries // Calls for volunteers in…
 image:
-  path: assets/d7f644f671e4/1*fHyFwolbYmewKkx5VRm0bQ.jpeg
+  path: ../assets/d7f644f671e4/1*fHyFwolbYmewKkx5VRm0bQ.jpeg
 ---
 
 ### AYS Daily Digest 03/03/2021: Iuventa crew and others may face legal charges for SAR work
 #### Anti\-racism group in Cyprus faces closure // Desperation after evictions in Greece // Rescues off the Canaries // Calls for volunteers in France // First meeting of Frontex working group // New judicial cooperation over human trafficking
 
 
-![Photo source: [Twitter](https://twitter.com/iuventa10/status/1367167149492613125)](assets/d7f644f671e4/1*fHyFwolbYmewKkx5VRm0bQ.jpeg)
+![Photo source: [Twitter](https://twitter.com/iuventa10/status/1367167149492613125)](../assets/d7f644f671e4/1*fHyFwolbYmewKkx5VRm0bQ.jpeg)
 
 Photo source: [Twitter](https://twitter.com/iuventa10/status/1367167149492613125)
 ### FEATURE — Under fire for search and rescue in the central Med, 1,309 days later

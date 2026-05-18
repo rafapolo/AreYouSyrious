@@ -1,5 +1,5 @@
 ---
-title: AYS Special from Greece: 6 problems with the EU-Turkey Deal
+title: "AYS Special from Greece: 6 problems with the EU-Turkey Deal"
 author: Are You Syrious?
 date: 2022-03-20T09:28:26.502+0000
 last_modified_at: 2022-03-20T19:13:42.062+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [special,eu-turkey-deal,ukraine,greece,refugees]
 description: It is 6 years since the EU Turkey deal came into effect, and for a brief moment in March 2016 arrivals stopped completely. Since that time…
 image:
-  path: assets/c7b06703df8a/1*sr4qpLJ9-EUamJwXqoUrLw.jpeg
+  path: ../assets/c7b06703df8a/1*sr4qpLJ9-EUamJwXqoUrLw.jpeg
 ---
 
 ### AYS Special from Greece: 6 problems with the EU\-Turkey Deal
@@ -15,7 +15,7 @@ image:
 _It is 6 years since the EU Turkey deal came into effect, and for a brief moment in March 2016 arrivals stopped completely\. Since that time, however, thousands of people have arrived in Greece and have been subject to the restrictive conditions imposed by the deal, wreaking havoc with people’s lives\. As Europe has suddenly collectively realised, people fleeing war have already survived enough, they should not be subject to further trauma at the hands of the state from which they ask for protection, and yet this is exactly what happens\. Here are 6 of the main problems with it\._
 
 
-![\(Photo Credit: [Vassilis Tsarnas](https://twitter.com/VassilisTsarnas) \)](assets/c7b06703df8a/1*sr4qpLJ9-EUamJwXqoUrLw.jpeg)
+![\(Photo Credit: [Vassilis Tsarnas](https://twitter.com/VassilisTsarnas) \)](../assets/c7b06703df8a/1*sr4qpLJ9-EUamJwXqoUrLw.jpeg)
 
 \(Photo Credit: [Vassilis Tsarnas](https://twitter.com/VassilisTsarnas) \)
 #### It’s Racist

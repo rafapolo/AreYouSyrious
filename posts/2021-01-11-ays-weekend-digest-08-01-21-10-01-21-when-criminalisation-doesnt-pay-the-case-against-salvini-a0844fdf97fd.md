@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 08/01/21–10/01/21: When criminalisation doesn’t pay — the case against Salvini
+title: "AYS Weekend Digest 08/01/21–10/01/21: When criminalisation doesn’t pay — the case against Salvini"
 author: Are You Syrious?
 date: 2021-01-11T12:30:16.012+0000
 last_modified_at: 2021-01-11T12:30:16.012+0000
@@ -7,18 +7,18 @@ categories: Are You Syrious?
 tags: [digest,salvini,pushback,moria,balkans]
 description: 5 year old dies in Malakasa camp // 3 bodies wash up in Morocco // 35 people in distress at sea // Floods in Moria 2.0 // Winter in the…
 image:
-  path: assets/a0844fdf97fd/0*MjgkhsBQtj4n7bBC.jpeg
+  path: ../assets/a0844fdf97fd/0*MjgkhsBQtj4n7bBC.jpeg
 ---
 
 ### AYS Weekend Digest 08/01/21–10/01/21: When criminalisation doesn’t pay — the case against Salvini
 #### 5 year old dies in Malakasa camp // 3 bodies wash up in Morocco // 35 people in distress at sea // Floods in Moria 2\.0 // Winter in the Balkans // Updates from UK camps and much more…
 
 
-![](assets/a0844fdf97fd/0*QnxO-yyDpMV0yWCP)
+![](../assets/a0844fdf97fd/0*QnxO-yyDpMV0yWCP)
 
 
 
-![](assets/a0844fdf97fd/0*MjgkhsBQtj4n7bBC.jpeg)
+![](../assets/a0844fdf97fd/0*MjgkhsBQtj4n7bBC.jpeg)
 
 
 \(Credit: Via [Art Against](https://www.facebook.com/artagainstproject/photos/a.704384742944296/3581426595240082/) — Hundreds of Migrants Left Freezing in Heavy Snow After Their Camp is Torched in Bosnia
@@ -82,27 +82,27 @@ Salvini faces up to [15 years in prison](https://www.politico.eu/article/matteo-
 
 
 
-![](assets/a0844fdf97fd/0*oYG_uLv9fOt_Xgrs)
+![](../assets/a0844fdf97fd/0*oYG_uLv9fOt_Xgrs)
 
 
 
-![](assets/a0844fdf97fd/0*qAxpUDYVz3vYgmS2.jpeg)
+![](../assets/a0844fdf97fd/0*qAxpUDYVz3vYgmS2.jpeg)
 
 
 
-![](assets/a0844fdf97fd/0*raBd7HAG7_81RAT6)
+![](../assets/a0844fdf97fd/0*raBd7HAG7_81RAT6)
 
 
 
-![](assets/a0844fdf97fd/0*YBW85xAVxVru8E4P.jpeg)
+![](../assets/a0844fdf97fd/0*YBW85xAVxVru8E4P.jpeg)
 
 
 
-![](assets/a0844fdf97fd/0*agap3tNPHfiWVKa4)
+![](../assets/a0844fdf97fd/0*agap3tNPHfiWVKa4)
 
 
 
-![](assets/a0844fdf97fd/0*prRd5qkSx0GzWAA7.png)
+![](../assets/a0844fdf97fd/0*prRd5qkSx0GzWAA7.png)
 
 
 \(Photo Credit: [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/posts/242688264040907) \)
@@ -162,7 +162,7 @@ This of course makes the Helios programme sound like something that actually wor
 ### Update from Patras
 
 
-![](assets/a0844fdf97fd/0*PJW7hxJhAhobb3rL)
+![](../assets/a0844fdf97fd/0*PJW7hxJhAhobb3rL)
 
 
 Update and Photo by No Name Kitchen: “ ‘Sleep, eat, jump, jail, repeat\.’ For the guys, life in Patras means sleeping in old, wet and cold factories, eating food that they buy themselves from the supermarket or from donated food that we distribute\. Almost every day people go for ‘the game’, which means to try to jump over the fences in front of the port, and hide inside or beneath the trucks which will embark the ferry to Italy\. It takes many times until one succeeds\. Often, port authorities catch them during the game, and sometimes, they are even sent to jail, or they are pushed by the Italian authorities back to Greece\. This week in Patras we reported one pushback and that three guys were released from jail after several weeks\.” Read more [here](https://www.facebook.com/NoNameKitchenBelgrade/posts/1159232934474989) \.
@@ -192,43 +192,43 @@ Almost a hundred activists met in front of the Croatian Consulate in Piazza Gold
 Approximately 900 people are still present in the ruins of the camp\.
 
 
-![](assets/a0844fdf97fd/0*_XI-Hex4rbiWlvZL)
+![](../assets/a0844fdf97fd/0*_XI-Hex4rbiWlvZL)
 
 
 
-![](assets/a0844fdf97fd/0*wvXWYGSTmnNEPBIC.jpeg)
+![](../assets/a0844fdf97fd/0*wvXWYGSTmnNEPBIC.jpeg)
 
 
 
-![](assets/a0844fdf97fd/0*AHXwbxnONVFdUosD)
+![](../assets/a0844fdf97fd/0*AHXwbxnONVFdUosD)
 
 
 
-![](assets/a0844fdf97fd/0*TACy76sxJ8rhSSql.jpeg)
+![](../assets/a0844fdf97fd/0*TACy76sxJ8rhSSql.jpeg)
 
 
 
-![](assets/a0844fdf97fd/0*nJ051CKkXI_94R4_)
+![](../assets/a0844fdf97fd/0*nJ051CKkXI_94R4_)
 
 
 
-![](assets/a0844fdf97fd/0*Wv8mZNf0F6LK4LMc)
+![](../assets/a0844fdf97fd/0*Wv8mZNf0F6LK4LMc)
 
 
 
-![](assets/a0844fdf97fd/0*32iDgJvE0dUAiyVf)
+![](../assets/a0844fdf97fd/0*32iDgJvE0dUAiyVf)
 
 
 
-![](assets/a0844fdf97fd/0*ApTKIunPErDUp3Ub.jpeg)
+![](../assets/a0844fdf97fd/0*ApTKIunPErDUp3Ub.jpeg)
 
 
 
-![](assets/a0844fdf97fd/0*vJKJindiMDUPoiXn)
+![](../assets/a0844fdf97fd/0*vJKJindiMDUPoiXn)
 
 
 
-![](assets/a0844fdf97fd/0*DdbreilebrIEmCQJ.jpeg)
+![](../assets/a0844fdf97fd/0*DdbreilebrIEmCQJ.jpeg)
 
 
 Photo Credits: Nidzara Ahmetasevic and No Name Kitchen — “‘It is not a living here, but everyday is a survival under these conditions\.’ Eddie, photographer in his country, now stuck in Lipa\. January 2021\. Europe\.”
@@ -249,7 +249,7 @@ On Friday, [a fire](https://balkans.aljazeera.net/news/balkan/2021/1/8/gori-migr
 ### Velika Kladuša
 
 
-![](assets/a0844fdf97fd/0*jqPXdBqLPGsWJ9L6)
+![](../assets/a0844fdf97fd/0*jqPXdBqLPGsWJ9L6)
 
 
 UPDATE & photo by Wir packen’s an e\.V\. → “The \#HungerGames by Velika Kladuša: We are on the EU external border in Bosnia \. Thousands wait here for months for a chance to get into the rich zone, the only thing they have to do is to overcome the \#FestungEuropa, guarded by a highly armed police\. Many people who have made it this far vegetate in the forest under miserable conditions\. The residents of the muddy forest on the hillside have put together a kind of tent as a makeshift\. The slope is extremely slippery\. We distribute sleeping bags\. Some people don’t even have shoes when the temperature is around 0°\. You dream of making it to the rich EU, try 1x, 2x, 50x\. Most of them are picked up again and again, mistreated in violation of international law and sent back\. Human dignity is inviolable?\! You can read the full report of our first day in Velika Kladuša on our website\.”

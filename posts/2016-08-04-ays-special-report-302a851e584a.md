@@ -5,9 +5,9 @@ date: 2016-08-04T09:57:12.303+0100
 last_modified_at: 2018-03-01T14:08:02.199+0000
 categories: Are You Syrious?
 tags: [refugees,oinofyta,refugee-camps,greece,special]
-description: Pining for Piraeus?: The Oinofyta Refugee Camp
+description: "Pining for Piraeus?: The Oinofyta Refugee Camp"
 image:
-  path: assets/302a851e584a/1*DhKTLZtfPZGFzNQpu5IkEA.jpeg
+  path: ../assets/302a851e584a/1*DhKTLZtfPZGFzNQpu5IkEA.jpeg
 ---
 
 ### AYS Special Report
@@ -16,7 +16,7 @@ image:
 By: L\. Mertes
 
 
-![Photo by L\. Mertes](assets/302a851e584a/1*DhKTLZtfPZGFzNQpu5IkEA.jpeg)
+![Photo by L\. Mertes](../assets/302a851e584a/1*DhKTLZtfPZGFzNQpu5IkEA.jpeg)
 
 Photo by L\. Mertes
 
@@ -29,12 +29,12 @@ Many now look back with longing to their time in the port of Piraeus; in a hasti
 “I hoped to find peace here but me and my friends are depressed,” says Nahid, a former Piraeus resident originally from a village near Herat\.
 
 
-![Industrial area turned into refugee camp\.](assets/302a851e584a/1*QCD2blvw4-7mlhmpMU4e1Q.jpeg)
+![Industrial area turned into refugee camp\.](../assets/302a851e584a/1*QCD2blvw4-7mlhmpMU4e1Q.jpeg)
 
 Industrial area turned into refugee camp\.
 
 
-![Residents must use the water stored here when the taps are turned off\.](assets/302a851e584a/1*1_fuYmQ32rQxPvXXTjmt1w.jpeg)
+![Residents must use the water stored here when the taps are turned off\.](../assets/302a851e584a/1*1_fuYmQ32rQxPvXXTjmt1w.jpeg)
 
 Residents must use the water stored here when the taps are turned off\.
 
@@ -47,7 +47,7 @@ It’s not clear whether the river has been cleaned up\.
 For camp residents, their immediate concern is the trash that overflows from the dumpsters\.
 
 
-![Residents of the camp are worried because of the trash that overflows from the dumpsters\.](assets/302a851e584a/1*GaiCaASKaekzRGIbslzFBQ.jpeg)
+![Residents of the camp are worried because of the trash that overflows from the dumpsters\.](../assets/302a851e584a/1*GaiCaASKaekzRGIbslzFBQ.jpeg)
 
 Residents of the camp are worried because of the trash that overflows from the dumpsters\.
 
@@ -56,20 +56,20 @@ Residents of the camp are worried because of the trash that overflows from the d
 Refugees who arrived first, months ago now, are living in cloth tents in the parking lot\. More recent arrivals sleep in the warehouse, crowded into noisy rooms with shower curtains for doors and no security\.
 
 
-![](assets/302a851e584a/1*Fd7vRgZPXdFkiD9jjuJLWw.jpeg)
+![](../assets/302a851e584a/1*Fd7vRgZPXdFkiD9jjuJLWw.jpeg)
 
 
 
-![Space where refugees are living, no privacy and no security\.](assets/302a851e584a/1*CdL7qiadLvV1JpD6bxbhkw.jpeg)
+![Space where refugees are living, no privacy and no security\.](../assets/302a851e584a/1*CdL7qiadLvV1JpD6bxbhkw.jpeg)
 
 Space where refugees are living, no privacy and no security\.
 
 
-![](assets/302a851e584a/1*GIET6mlr7w5XFWETSU6QQg.jpeg)
+![](../assets/302a851e584a/1*GIET6mlr7w5XFWETSU6QQg.jpeg)
 
 
 
-![](assets/302a851e584a/1*HyIJGGlD2pQg-GJreJVKPg.jpeg)
+![](../assets/302a851e584a/1*HyIJGGlD2pQg-GJreJVKPg.jpeg)
 
 
 “We can’t get to sleep until 4 a\.m\. because of the heat and the noise, and then we get up at 7a\.m\.,” Nahid said\.
@@ -127,7 +127,7 @@ The Oinofyta Community School with 85 students is the brainchild of Faiz Mohamma
 He hasn’t had a day off since\.
 
 
-![The Oinofyta Community School with 85 students is the brainchild of Faiz Mohammad Khanzai, a school principal in Kabul before he came to Greece six months ago\.](assets/302a851e584a/1*7vXPgbaIhqeRlfrAlpi9eQ.jpeg)
+![The Oinofyta Community School with 85 students is the brainchild of Faiz Mohammad Khanzai, a school principal in Kabul before he came to Greece six months ago\.](../assets/302a851e584a/1*7vXPgbaIhqeRlfrAlpi9eQ.jpeg)
 
 The Oinofyta Community School with 85 students is the brainchild of Faiz Mohammad Khanzai, a school principal in Kabul before he came to Greece six months ago\.
 
@@ -136,7 +136,7 @@ His students study English and geography\. He is still working as he had to in K
 “We have some students \[back home in Afghanistan\] who want to go to school and have a pen and paper in their hands, but their parents don’t want them to\. They are pigeon keepers and spend money on the pigeons but don’t want to spend money on a notebook,” Khanzai said\.
 
 
-![School with 85 students, all refugees\.](assets/302a851e584a/1*Y-FfCL5lNA8ODrA9EVOC9g.jpeg)
+![School with 85 students, all refugees\.](../assets/302a851e584a/1*Y-FfCL5lNA8ODrA9EVOC9g.jpeg)
 
 School with 85 students, all refugees\.
 
@@ -153,7 +153,7 @@ He delayed the school’s start time by 30 minutes\. He gave juice at the end of
 The next day the family sent both their children to school for the first time\. More followed\.
 
 
-![](assets/302a851e584a/1*0CphDPaHOQJzAHvyTuYHug.jpeg)
+![](../assets/302a851e584a/1*0CphDPaHOQJzAHvyTuYHug.jpeg)
 
 
 Khanzai believes Europe is the best place for his students, even as he has watched the continent become a less welcoming place for Afghans all of ages since the crisis began\.

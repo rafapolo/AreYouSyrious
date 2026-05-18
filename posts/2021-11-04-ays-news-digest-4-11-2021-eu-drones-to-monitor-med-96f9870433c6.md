@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest: 4/11/2021 EU drones to monitor the Mediterranean
+title: "AYS News Digest: 4/11/2021 EU drones to monitor the Mediterranean"
 author: Are You Syrious?
 date: 2021-11-04T10:32:06.337+0000
 last_modified_at: 2021-11-04T10:53:27.836+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,frontex,eu,humanrights]
 description: Press conference held by group outside Libya UNHCR//Concerns over evacuations and winter conditions in Afghanistan//Four infants lost lives…
 image:
-  path: assets/96f9870433c6/0*Blq_bXikotDqAhkB.jpg
+  path: ../assets/96f9870433c6/0*Blq_bXikotDqAhkB.jpg
 ---
 
 ### AYS News Digest: 4/11/2021 EU drones to monitor the Mediterranean
@@ -16,7 +16,7 @@ image:
 ### EU Drones to monitor the Mediterranean
 
 
-![Photo Credit: Drone Footage with life raft\. All rights reserved by [Tekever](https://www.navalnews.com/naval-news/2021/10/tekever-signs-maritime-surveillance-contract-with-emsa/)](assets/96f9870433c6/0*Blq_bXikotDqAhkB.jpg)
+![Photo Credit: Drone Footage with life raft\. All rights reserved by [Tekever](https://www.navalnews.com/naval-news/2021/10/tekever-signs-maritime-surveillance-contract-with-emsa/)](../assets/96f9870433c6/0*Blq_bXikotDqAhkB.jpg)
 
 Photo Credit: Drone Footage with life raft\. All rights reserved by [Tekever](https://www.navalnews.com/naval-news/2021/10/tekever-signs-maritime-surveillance-contract-with-emsa/)
 
@@ -42,7 +42,7 @@ This comes as the sanctions imposed by Western nations [are criticised](https://
 #### Concerns over evacuations and winter conditions in Afghanistan
 
 
-![Photo Credit: _Infomigrants [Reuters/M\. Ismail](https://www.infomigrants.net/en/post/36213/afghanistan-evacuation-efforts-to-germany-remain-challenging?fbclid=IwAR1qc_bDHng1x2MBa9eZ6E9W6xd_kCspyCa1tH30r5aw-svXkP8etnE7D2A)_](assets/96f9870433c6/0*DcDm-oSiOUepypmf)
+![Photo Credit: _Infomigrants [Reuters/M\. Ismail](https://www.infomigrants.net/en/post/36213/afghanistan-evacuation-efforts-to-germany-remain-challenging?fbclid=IwAR1qc_bDHng1x2MBa9eZ6E9W6xd_kCspyCa1tH30r5aw-svXkP8etnE7D2A)_](../assets/96f9870433c6/0*DcDm-oSiOUepypmf)
 
 Photo Credit: _Infomigrants [Reuters/M\. Ismail](https://www.infomigrants.net/en/post/36213/afghanistan-evacuation-efforts-to-germany-remain-challenging?fbclid=IwAR1qc_bDHng1x2MBa9eZ6E9W6xd_kCspyCa1tH30r5aw-svXkP8etnE7D2A)_
 
@@ -74,7 +74,7 @@ In June 2018, the search and rescue vessel Sea Watch 3 was detained in the port 
 #### Three\-point action report for MEPs from Greek groups
 
 
-![Photo Credit: [_AP Photo / Alexander Zemlianichenko_](https://www.efsyn.gr/stiles/ano-kato/317501_ergaleiopoiisi)](assets/96f9870433c6/0*6djq-9W_zTwLOgNM)
+![Photo Credit: [_AP Photo / Alexander Zemlianichenko_](https://www.efsyn.gr/stiles/ano-kato/317501_ergaleiopoiisi)](../assets/96f9870433c6/0*6djq-9W_zTwLOgNM)
 
 Photo Credit: [_AP Photo / Alexander Zemlianichenko_](https://www.efsyn.gr/stiles/ano-kato/317501_ergaleiopoiisi)
 
@@ -89,11 +89,11 @@ Context is given in t [his video report](https://www.france24.com/en/video/20211
 Meanwhile, t [his Twitter](https://twitter.com/samoslgbtqi/status/1455948436562399241?fbclid=IwAR18kmvKV1CiYL2hQhuzw8CU9Dp9avG-rsF0cMB7ASifSB-CBYaMfOpQRME) thread explores the experiences of LGBTQI\+ identifying people in the new Samos camp\. The group [Samos LGBTQI\+ Group](https://twitter.com/samoslgbtqi) calls for the following changes:
 
 
-![](assets/96f9870433c6/0*9w27SzK5-SFHaGvw)
+![](../assets/96f9870433c6/0*9w27SzK5-SFHaGvw)
 
 
 
-[![Why don't you let us go to school?](assets/96f9870433c6/3c5b_hqdefault.jpg "Why don't you let us go to school?")](https://www.youtube.com/watch?v=uv17GCutN7U)
+[![Why don't you let us go to school?](../assets/96f9870433c6/3c5b_hqdefault.jpg "Why don't you let us go to school?")](https://www.youtube.com/watch?v=uv17GCutN7U)
 
 
 The residents of ‘Moira 2’ on Lesvos are being denied education\. School\-age residents are only permitted to leave the camp for three hours per week, making school attendance impossible\.
@@ -155,7 +155,7 @@ One of the NGOs affected, Refugee Info Bus, said:
 
 
 
-![[Choose Love Instagram Page](https://www.instagram.com/p/CVv6M_SM7B5/?fbclid=IwAR1MSzoafvx_5K41WmkSlAaGA6Y8TNbSlIQFvLj_FZF87AcmozMeAcO-S54)](assets/96f9870433c6/1*brJELzVvSyGC7_gJc8bKKQ.png)
+![[Choose Love Instagram Page](https://www.instagram.com/p/CVv6M_SM7B5/?fbclid=IwAR1MSzoafvx_5K41WmkSlAaGA6Y8TNbSlIQFvLj_FZF87AcmozMeAcO-S54)](../assets/96f9870433c6/1*brJELzVvSyGC7_gJc8bKKQ.png)
 
 [Choose Love Instagram Page](https://www.instagram.com/p/CVv6M_SM7B5/?fbclid=IwAR1MSzoafvx_5K41WmkSlAaGA6Y8TNbSlIQFvLj_FZF87AcmozMeAcO-S54)
 

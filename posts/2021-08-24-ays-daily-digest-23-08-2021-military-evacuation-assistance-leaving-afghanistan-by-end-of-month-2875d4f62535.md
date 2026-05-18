@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,afghanistan,eu]
 description: Countless People Still in Distress as Europe Drags Its Feet on Humanitarian Corridor//Is Frontex Still Funding Missions in the…
 image:
-  path: assets/2875d4f62535/0*5zmwuw-3TJCx6CfA
+  path: ../assets/2875d4f62535/0*5zmwuw-3TJCx6CfA
 ---
 
 ### AYS Daily Digest 23/08/2021 — Military Evacuation Assistance Leaving Afghanistan by End of Month
 #### Countless People Still in Distress as Europe Drags Its Feet on Humanitarian Corridor//Is Frontex Still Funding Missions in the Aegean?//Deportation of Single Mother, Children from Austria Stopped
 
 
-![French police guarding a bridge to prevent houseless people on the move from taking shelter there\. Photo via [Solidarite migrants Wilson](https://www.facebook.com/permalink.php?story_fbid=1794837160717048&id=598228360377940)](assets/2875d4f62535/0*5zmwuw-3TJCx6CfA)
+![French police guarding a bridge to prevent houseless people on the move from taking shelter there\. Photo via [Solidarite migrants Wilson](https://www.facebook.com/permalink.php?story_fbid=1794837160717048&id=598228360377940)](../assets/2875d4f62535/0*5zmwuw-3TJCx6CfA)
 
 French police guarding a bridge to prevent houseless people on the move from taking shelter there\. Photo via [Solidarite migrants Wilson](https://www.facebook.com/permalink.php?story_fbid=1794837160717048&id=598228360377940)
 #### FEATURE
@@ -39,7 +39,7 @@ Many Western nations are clamoring about how they cannot “cope” with more pe
 #### Updates on Pullbacks and Deaths
 
 
-![Graphic from [IOM Libya](https://www.facebook.com/IOMLibya/photos/a.596682760492685/2083038605190419/)](assets/2875d4f62535/0*vIQEgwg4dOuRf9bq)
+![Graphic from [IOM Libya](https://www.facebook.com/IOMLibya/photos/a.596682760492685/2083038605190419/)](../assets/2875d4f62535/0*vIQEgwg4dOuRf9bq)
 
 Graphic from [IOM Libya](https://www.facebook.com/IOMLibya/photos/a.596682760492685/2083038605190419/)
 #### SEA

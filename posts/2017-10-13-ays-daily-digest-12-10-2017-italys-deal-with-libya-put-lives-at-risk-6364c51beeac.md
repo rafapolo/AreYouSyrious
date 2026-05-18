@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 12/10/17: Italy’s deal with Libya puts lives at risk
+title: "AYS Daily Digest 12/10/17: Italy’s deal with Libya puts lives at risk"
 author: Are You Syrious?
 date: 2017-10-13T00:12:49.503+0100
 last_modified_at: 2017-10-13T00:59:42.873+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,libia,mediterranean,deportations,opentheislands]
 description: Souda camp to close tomorrow / Greek islands overcrowding persists / #opentheborder issue joint statement / Afghan family illegally…
 image:
-  path: assets/6364c51beeac/1*N08RYvxie8FCfwLLQxmCCg.jpeg
+  path: ../assets/6364c51beeac/1*N08RYvxie8FCfwLLQxmCCg.jpeg
 ---
 
 ### AYS Daily Digest 12/10/17: Italy’s deal with Libya puts lives at risk
@@ -15,7 +15,7 @@ image:
 _Souda camp to close tomorrow / Greek islands overcrowding persists / \#opentheborder issue joint statement / Afghan family illegally deported to Finland / “Fantasy papers” given to refugees in Germany / And more news…_
 
 
-![Where is Europe? Missing in the Mediterranean \(Artwork by Marilena Nardi \[Art Against\] \)](assets/6364c51beeac/1*N08RYvxie8FCfwLLQxmCCg.jpeg)
+![Where is Europe? Missing in the Mediterranean \(Artwork by Marilena Nardi \[Art Against\] \)](../assets/6364c51beeac/1*N08RYvxie8FCfwLLQxmCCg.jpeg)
 
 Where is Europe? Missing in the Mediterranean \(Artwork by Marilena Nardi \[Art Against\] \)
 ### FEATURE: Italy’s deal with Libya in contravention of Article 3 of Human Rights Convention
@@ -78,7 +78,7 @@ SOS MEDITERRANEE have issued a [press release](http://sosmediterranee.org/sos-me
 #### Support for SAR operation
 
 
-![\(Photo by Maydayterraneo — Proyecto AitaMari\)](assets/6364c51beeac/1*-M08Dp7pjodiID8dTS8rwQ.jpeg)
+![\(Photo by Maydayterraneo — Proyecto AitaMari\)](../assets/6364c51beeac/1*-M08Dp7pjodiID8dTS8rwQ.jpeg)
 
 \(Photo by Maydayterraneo — Proyecto AitaMari\)
 
@@ -87,7 +87,7 @@ SOS MEDITERRANEE have issued a [press release](http://sosmediterranee.org/sos-me
 #### New arrivals
 
 
-![\( [Erik Gerhardsson](https://www.facebook.com/photo.php?fbid=10210399357199583&set=p.10210399357199583&type=3&theater&ifg=1) \)](assets/6364c51beeac/1*OIcsrkic_9KjMOBIBsbe1w.jpeg)
+![\( [Erik Gerhardsson](https://www.facebook.com/photo.php?fbid=10210399357199583&set=p.10210399357199583&type=3&theater&ifg=1) \)](../assets/6364c51beeac/1*OIcsrkic_9KjMOBIBsbe1w.jpeg)
 
 \( [Erik Gerhardsson](https://www.facebook.com/photo.php?fbid=10210399357199583&set=p.10210399357199583&type=3&theater&ifg=1) \)
 #### **Registrations**
@@ -106,7 +106,7 @@ The daily average so far this month stands at 149\.
 Volunteers only found this group of refugees when they saw the fire they had made from their lifejackets\.
 
 
-![\(Photo by Ariel Ricker\)](assets/6364c51beeac/1*2nH7xEOXi4HeDIRtrFh4EQ.jpeg)
+![\(Photo by Ariel Ricker\)](../assets/6364c51beeac/1*2nH7xEOXi4HeDIRtrFh4EQ.jpeg)
 
 \(Photo by Ariel Ricker\)
 #### Lack of mental health services on Lesvos persists
@@ -155,7 +155,7 @@ According to [local media](http://astraparis.gr/se-mia-skini-xorese-o-kataulismo
 \#opentheislands have released a joint [statement](https://opentheislands.wordpress.com/statement/) signed by over 40 solidarity groups condemning the situation on the Greek islands and demanding change\.
 
 
-![\#opentheislands \(Legal centre Lesbos\)](assets/6364c51beeac/1*03HHyj859P-T6gx2qGWAaQ.jpeg)
+![\#opentheislands \(Legal centre Lesbos\)](../assets/6364c51beeac/1*03HHyj859P-T6gx2qGWAaQ.jpeg)
 
 \#opentheislands \(Legal centre Lesbos\)
 
@@ -272,7 +272,7 @@ According to [local media](http://astraparis.gr/se-mia-skini-xorese-o-kataulismo
 According to official sources there are now 14,036 refugees on the Eastern Aegean Islands—nearly three times the capacity of the detention centres there\.
 
 
-![](assets/6364c51beeac/1*qjwW1IbTJBq49SKXIoai_w.jpeg)
+![](../assets/6364c51beeac/1*qjwW1IbTJBq49SKXIoai_w.jpeg)
 
 ### MAINLAND GREECE
 #### Fascist attack: update
@@ -306,7 +306,7 @@ Another two people have [reportedly](http://www.ekathimerini.com/222384/article/
 ### **SERBIA**
 
 
-![\(Photo by BelgrAid\)](assets/6364c51beeac/1*UK4l9xfOwSi6uQuQr0PK-Q.jpeg)
+![\(Photo by BelgrAid\)](../assets/6364c51beeac/1*UK4l9xfOwSi6uQuQr0PK-Q.jpeg)
 
 \(Photo by BelgrAid\)
 

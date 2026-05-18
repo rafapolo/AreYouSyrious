@@ -1,5 +1,5 @@
 ---
-title: AYS Special: It is proven, Croatian police regularly shoots at people
+title: "AYS Special: It is proven, Croatian police regularly shoots at people"
 author: Are You Syrious?
 date: 2019-11-19T14:55:51.868+0000
 last_modified_at: 2019-11-19T14:55:51.868+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,croatia,borders,migrants,special]
 description: Border Violence Monitoring Network shared a huge database of incidents involving 1279 refugees who were shot at or threatened with guns by…
 image:
-  path: assets/45f2308ce0a1/1*-oP51OMXCnhmFRcGl1FCDw.jpeg
+  path: ../assets/45f2308ce0a1/1*-oP51OMXCnhmFRcGl1FCDw.jpeg
 ---
 
 ### AYS Special: It is proven, Croatian police regularly shoots at people
 #### Border Violence Monitoring Network shared a huge database of incidents involving 1279 refugees who were shot at or threatened with guns by Croatian police officers, in addition to evidence previously gathered by AYS and other groups
 
 
-![Father showing us a photo of the bullet hole on his daughter’s face in Zagreb, Croatia\. Photo: AYS](assets/45f2308ce0a1/1*-oP51OMXCnhmFRcGl1FCDw.jpeg)
+![Father showing us a photo of the bullet hole on his daughter’s face in Zagreb, Croatia\. Photo: AYS](../assets/45f2308ce0a1/1*-oP51OMXCnhmFRcGl1FCDw.jpeg)
 
 Father showing us a photo of the bullet hole on his daughter’s face in Zagreb, Croatia\. Photo: AYS
 
@@ -66,7 +66,7 @@ Today, The Border Violence Monitoring Network have shared their dataset of firea
 
 
 
-![Location of the first incident, as recorded by the BVMN](assets/45f2308ce0a1/1*ZnmkFE0PtaEBZBHnefmqfw.png)
+![Location of the first incident, as recorded by the BVMN](../assets/45f2308ce0a1/1*ZnmkFE0PtaEBZBHnefmqfw.png)
 
 Location of the first incident, as recorded by the BVMN
 
@@ -90,7 +90,7 @@ You can read the full report on this incident [here](https://www.borderviolence.
 
 
 
-![Location of the police station where they were held\. Photo: BVMN](assets/45f2308ce0a1/1*2SyPgcbDlflYTcYuoh3fjQ.png)
+![Location of the police station where they were held\. Photo: BVMN](../assets/45f2308ce0a1/1*2SyPgcbDlflYTcYuoh3fjQ.png)
 
 Location of the police station where they were held\. Photo: BVMN
 
@@ -112,7 +112,7 @@ You can read the full report on this incident [here](https://www.borderviolence.
 
 
 
-![Location of the third incident, as recorded by the BVMN](assets/45f2308ce0a1/1*Rciy9chah0GjGMIbOZwsLw.png)
+![Location of the third incident, as recorded by the BVMN](../assets/45f2308ce0a1/1*Rciy9chah0GjGMIbOZwsLw.png)
 
 Location of the third incident, as recorded by the BVMN
 
@@ -134,7 +134,7 @@ These three cases stand out within a wider catalogue of violations which involve
 ### Died after she was pushed back: Second anniversary of little Madina’s death approaching
 
 
-![Representatives of CPS, AYS and their lawyer in front of the State’s Attorney Office of the Republic of Croatia after opening a criminal case for the manslaughter of little Madina\. Photo: AYS archive](assets/45f2308ce0a1/1*CNPcC_kDDEmUBvRk-7QrQA.jpeg)
+![Representatives of CPS, AYS and their lawyer in front of the State’s Attorney Office of the Republic of Croatia after opening a criminal case for the manslaughter of little Madina\. Photo: AYS archive](../assets/45f2308ce0a1/1*CNPcC_kDDEmUBvRk-7QrQA.jpeg)
 
 Representatives of CPS, AYS and their lawyer in front of the State’s Attorney Office of the Republic of Croatia after opening a criminal case for the manslaughter of little Madina\. Photo: AYS archive
 

@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 24/11/21: “Deadliest Day” on British coast.
+title: "AYS News Digest 24/11/21: “Deadliest Day” on British coast."
 author: Are You Syrious?
 date: 2021-11-25T15:35:27.032+0000
 last_modified_at: 2021-11-25T15:35:27.032+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest]
 description: Legal case against UK’s pushback plans / Tense situation in pre-electoral Libya / Activists in Italy freed of charges // and more
 image:
-  path: assets/81c979fb7482/1*13hX_FUHWQO9G9mt--hz-A.jpeg
+  path: ../assets/81c979fb7482/1*13hX_FUHWQO9G9mt--hz-A.jpeg
 ---
 
 ### AYS News Digest 24/11/21: “Deadliest Day” on British coast\. Thirty\-one lost lives in Channel crossing\.
 #### Legal case against UK’s pushback plans / Tense situation in pre\-electoral Libya / Activists in Italy freed of charges // and more
 
 
-![Emergency services at Calais harbour on Wednesday night — [source](https://news.sky.com/story/migrant-crossings-several-people-drown-while-trying-to-cross-channel-in-dinghy-to-uk-reports-12477536)](assets/81c979fb7482/1*13hX_FUHWQO9G9mt--hz-A.jpeg)
+![Emergency services at Calais harbour on Wednesday night — [source](https://news.sky.com/story/migrant-crossings-several-people-drown-while-trying-to-cross-channel-in-dinghy-to-uk-reports-12477536)](../assets/81c979fb7482/1*13hX_FUHWQO9G9mt--hz-A.jpeg)
 
 Emergency services at Calais harbour on Wednesday night — [source](https://news.sky.com/story/migrant-crossings-several-people-drown-while-trying-to-cross-channel-in-dinghy-to-uk-reports-12477536)
 #### FEATURED
@@ -26,7 +26,7 @@ It is amazing from how many different perspectives the deaths from Wednesday hav
 On Wednesday afternoon, two boats in the Channel between France and the UK had been reported to emergency lines by a fisherman\. He had found one of the inflatable dinghies capsized and bodies of the many who had already drowned in the water around it — while the other dinghy was still carrying survivors\. [So far, 31 people are known to have died, one person is missing and only two could be rescued and are currently in intensive medical care\.](https://www.independent.co.uk/news/world/europe/channel-migrants-death-latest-france-boat-sink-b1963736.html) The fisherman [described](https://inews.co.uk/news/migrant-crisis-people-drown-illegally-crossing-channel-boat-capsizes-1317476) the capsized boat as looking “like a pool that you blow up in your garden” and it is probable that the people shared their story with many others: On the French coast, pushed by a hostile environment, poor camp conditions, eviction and having no way to cross over land, they pay a big amount of money to smugglers to give them a boat and details for how to get to the other side, from a starting point along a coast that is several hundreds of kilometers long\. On Wednesday, French authorities state that four people who are believed to be connected to the business of the capsized boat have been arrested\.
 
 
-![life in Northern France, 2021 — source [Utopia56](http://www.utopia56.com/en/actualite/calais-cinq-ans-apres-jungle-errance-misere-violences)](assets/81c979fb7482/1*CdCWfvX53fgxbUXNl6ID0A.png)
+![life in Northern France, 2021 — source [Utopia56](http://www.utopia56.com/en/actualite/calais-cinq-ans-apres-jungle-errance-misere-violences)](../assets/81c979fb7482/1*CdCWfvX53fgxbUXNl6ID0A.png)
 
 life in Northern France, 2021 — source [Utopia56](http://www.utopia56.com/en/actualite/calais-cinq-ans-apres-jungle-errance-misere-violences)
 
@@ -91,7 +91,7 @@ With a certain political crisis &amp; looming military confrontation, #Libya has
 Over 100 protesters who managed to flee Libyan detention centers and gather in front of the UNHCR office in Tripoli are, after weeks, still awaiting an response to their situation while they camp on the street\. On Thursday, a brigade of the Libyan army set fire to several tents in front of the office\. This happened after the diplomatic security personnel [had already approached and urged the protesters to disperse\.](https://twitter.com/RefugeesinLibya/status/1463607515959246856)
 
 
-![source: [Refugees in Libya](https://twitter.com/RefugeesinLibya/status/1463607515959246856)](assets/81c979fb7482/1*wYHaDqJxHzaldpNGFsfwng.jpeg)
+![source: [Refugees in Libya](https://twitter.com/RefugeesinLibya/status/1463607515959246856)](../assets/81c979fb7482/1*wYHaDqJxHzaldpNGFsfwng.jpeg)
 
 source: [Refugees in Libya](https://twitter.com/RefugeesinLibya/status/1463607515959246856)
 
@@ -184,7 +184,7 @@ Earlier this year, the two were charged by the Trieste judiciary with “aiding 
 
 
 
-![source: [Borderline Europe](https://www.facebook.com/borderlineeurope/photos/a.628619200494109/4727270667295588)](assets/81c979fb7482/1*4G8z8XRS0aJkoPzVvhvl4A.png)
+![source: [Borderline Europe](https://www.facebook.com/borderlineeurope/photos/a.628619200494109/4727270667295588)](../assets/81c979fb7482/1*4G8z8XRS0aJkoPzVvhvl4A.png)
 
 source: [Borderline Europe](https://www.facebook.com/borderlineeurope/photos/a.628619200494109/4727270667295588)
 

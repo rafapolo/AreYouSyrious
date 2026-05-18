@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [weekly-summary,arabic,refugees,europe,human-rights]
 description: أيسلندا
 image:
-  path: assets/d5e175229d45/1*Np0UpE8fZs7Iy_BcWLM8iA.jpeg
+  path: ../assets/d5e175229d45/1*Np0UpE8fZs7Iy_BcWLM8iA.jpeg
 ---
 
 ### المعارك المستمرة ضد عمليات الترحيل
 #### AYS Weekly News Summary in Arabic, May 6–12
 
 
-![[Refugees in Iceland](https://www.facebook.com/refugeesiniceland/?tn-str=k%2AF) \-Photo](assets/d5e175229d45/1*Np0UpE8fZs7Iy_BcWLM8iA.jpeg)
+![[Refugees in Iceland](https://www.facebook.com/refugeesiniceland/?tn-str=k%2AF) \-Photo](../assets/d5e175229d45/1*Np0UpE8fZs7Iy_BcWLM8iA.jpeg)
 
 [Refugees in Iceland](https://www.facebook.com/refugeesiniceland/?tn-str=k%2AF) \-Photo
 ### **أيسلندا**

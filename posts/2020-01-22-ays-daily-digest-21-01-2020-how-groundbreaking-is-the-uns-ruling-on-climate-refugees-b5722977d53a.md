@@ -7,7 +7,7 @@ categories:
 tags: [migration,refugees,climate-change,united-nations,digest]
 description: Boat Sinks Off Of Belgian Coast///Medical Discrimination Against People Without Papers in Greece///Unaccompanied Boys in Serbia Need Money…
 image:
-  path: assets/b5722977d53a/0*DDdMuk59xKYh5BaU.jpg
+  path: ../assets/b5722977d53a/0*DDdMuk59xKYh5BaU.jpg
 ---
 
 ### AYS Daily Digest 21/01/2020 — How Groundbreaking is the UN’s Ruling on “Climate Refugees”?
@@ -15,7 +15,7 @@ image:
 Boat Sinks Off Of Belgian Coast///Medical Discrimination Against People Without Papers in Greece///Unaccompanied Boys in Serbia Need Money for Bus Tickets///IOM Recommendations for Croatian EU Presidency
 
 
-![People in Kiribati\. Source: [Iberdrola\.com](https://www.iberdrola.com/environment/kiribati-climate-change)](assets/b5722977d53a/0*DDdMuk59xKYh5BaU.jpg)
+![People in Kiribati\. Source: [Iberdrola\.com](https://www.iberdrola.com/environment/kiribati-climate-change)](../assets/b5722977d53a/0*DDdMuk59xKYh5BaU.jpg)
 
 People in Kiribati\. Source: [Iberdrola\.com](https://www.iberdrola.com/environment/kiribati-climate-change)
 

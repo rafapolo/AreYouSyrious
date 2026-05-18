@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 24–25/04/21: A Deadly Weekend in the Mediterranean
+title: "AYS Weekend Digest 24–25/04/21: A Deadly Weekend in the Mediterranean"
 author: Are You Syrious?
 date: 2021-04-26T14:04:06.159+0100
 last_modified_at: 2021-04-26T14:04:06.159+0100
@@ -7,18 +7,18 @@ categories: Are You Syrious?
 tags: [moria,brexit,search-and-rescue,borders,refugees]
 description: Closure of municipality-run camp in Lesvos — Arrivals in the Canary Islands — Bodies found off Ceuta — 45,000+ people returned from France…
 image:
-  path: assets/14c7c50b6a40/0*CufH-2mHYHx41hy-.jpeg
+  path: ../assets/14c7c50b6a40/0*CufH-2mHYHx41hy-.jpeg
 ---
 
 ### AYS Weekend Digest 24–25/04/21: A Deadly Weekend in the Mediterranean
 #### _Closure of municipality\-run camp in Lesvos — Arrivals in the Canary Islands — Bodies found off Ceuta — 45,000\+ people returned from France at Italian and Spanish borders\._
 
 
-![](assets/14c7c50b6a40/0*84A8CD8Wyl3ArlqX)
+![](../assets/14c7c50b6a40/0*84A8CD8Wyl3ArlqX)
 
 
 
-![](assets/14c7c50b6a40/0*CufH-2mHYHx41hy-.jpeg)
+![](../assets/14c7c50b6a40/0*CufH-2mHYHx41hy-.jpeg)
 
 ### FEATURED: A deadly weekend in the Mediterranean
 
@@ -66,27 +66,27 @@ GREECE
 [At 5am on Saturday](https://twitter.com/MSF_Sea/status/1385865578053869568) the first group of 50 people were moved from the original municipality run Kara Tepe camp, largely a camp for people with vulnerabilities, into tents in Moria 2\.0\.
 
 
-![](assets/14c7c50b6a40/0*RFhlxPgCpQ8PbgpF)
+![](../assets/14c7c50b6a40/0*RFhlxPgCpQ8PbgpF)
 
 
 
-![](assets/14c7c50b6a40/0*sd4al531M45zmwF7.jpeg)
+![](../assets/14c7c50b6a40/0*sd4al531M45zmwF7.jpeg)
 
 
 
-![](assets/14c7c50b6a40/0*QuwC4WJB07xURFn_)
+![](../assets/14c7c50b6a40/0*QuwC4WJB07xURFn_)
 
 
 
-![](assets/14c7c50b6a40/0*bLRP6kleDkcg9kro.jpeg)
+![](../assets/14c7c50b6a40/0*bLRP6kleDkcg9kro.jpeg)
 
 
 
-![](assets/14c7c50b6a40/0*KlORI7CLDPN8FkcJ)
+![](../assets/14c7c50b6a40/0*KlORI7CLDPN8FkcJ)
 
 
 
-![](assets/14c7c50b6a40/0*Ru0LQbkBgl5fpAZz.jpeg)
+![](../assets/14c7c50b6a40/0*Ru0LQbkBgl5fpAZz.jpeg)
 
 
 I was informed last night that Kara Tepe 1 will be closed\. Everyone will go to the new camp\. I could not sleep\. I remember the morning when Pikpa closed, everyone was so stressed\. Europe has become a nightmare for asylum seekers — [message of an ex\-resident of Pikpa camp](https://twitter.com/MSF_Sea/status/1385865582168444929)
@@ -101,19 +101,19 @@ We would ask why the government would do such a thing, but we already know the a
 ### Highest Number of Unaccompanied Children in Europe
 
 
-![](assets/14c7c50b6a40/0*eUNT6q_1lPFdRCeF)
+![](../assets/14c7c50b6a40/0*eUNT6q_1lPFdRCeF)
 
 
 
-![](assets/14c7c50b6a40/0*Tunyg8nqKTR5RmaA.jpeg)
+![](../assets/14c7c50b6a40/0*Tunyg8nqKTR5RmaA.jpeg)
 
 
 
-![](assets/14c7c50b6a40/0*CqdchK390xFlO3dw)
+![](../assets/14c7c50b6a40/0*CqdchK390xFlO3dw)
 
 
 
-![](assets/14c7c50b6a40/0*KYUjjsWAPfXrOv8f.jpeg)
+![](../assets/14c7c50b6a40/0*KYUjjsWAPfXrOv8f.jpeg)
 
 
 According to recently published Eurostat [data](https://ec.europa.eu/eurostat/en/web/products-eurostat-news/-/ddn-20210423-1) , 13,600 unaccompanied minors sought asylum in the EU in 2020\. With 2,800 applications registered in 2020, Greece accounted for over 20% of all asylum applicants considered to be unaccompanied minors in the EU\. It was followed by Germany \(2,200, or 16%\), Austria \(1,400, or 10%\) and Belgium \(1,200, or 9%\), the Netherlands and Romania \(1,000, or 7% each\) \. These six countries together accounted for over 70% of asylum applications from unaccompanied minors in the EU\.
@@ -130,11 +130,11 @@ In 2020, the Canary Islands [registered the highest fatality rate of people on t
 On Saturday, in the middle of the storm, three people managed to swim to Tarajal, Ceuta, according to [No Name Kitchen](https://twitter.com/NoNameKitchen1/status/1386006177214083072) \. Of the three unaccompanied children, [one is in a very serious condition](https://elforodeceuta.es/la-guardia-civil-rescata-a-tres-migrantes-en-el-mar-uno-de-ellas-en-estado-grave/?fbclid=IwAR0RPNPqbLMdZUz32cdF-1pnvQG3VITpTrWkVbcdd83XfP1CDzMgvNEbHeI) and was transferred to the University Hospital\. The other two young people will be transferred to [the Tarajal Ship](http://elforodeceuta.se/?s=nave+del+tarajal) for quarantine\. At the same time, the body of two swimmers were found in Castillejos and [Beliones **,**](https://elforodeceuta.es/drama-en-la-frontera-sur-rescates-desapariciones-y-muertes/?fbclid=IwAR07lHmIR0rupgOMDqTud5YGNeik0V1JZa-iJTnqtLDLFonnqWYGPALiD_I) Morocco\. One young person is still missing\.
 
 
-![](assets/14c7c50b6a40/0*jsLece8P02TxENTI)
+![](../assets/14c7c50b6a40/0*jsLece8P02TxENTI)
 
 
 
-![](assets/14c7c50b6a40/0*0rxXxDf_dEEXGk7Y.jpeg)
+![](../assets/14c7c50b6a40/0*0rxXxDf_dEEXGk7Y.jpeg)
 
 
 [76 people have arrived](https://elforodeceuta.es/drama-en-la-frontera-sur-rescates-desapariciones-y-muertes/?fbclid=IwAR07lHmIR0rupgOMDqTud5YGNeik0V1JZa-iJTnqtLDLFonnqWYGPALiD_I) in Ceuta so far this year by swimming around the border\. [A total of **1,717** people](https://elforodeceuta.es/informe-apha-derechos-humanos-frontera-sur-2021/) have lost their lives trying to reach Spain over the past year, of which only 637 bodies have been rescued, the highest number since records began\.
@@ -160,11 +160,11 @@ DENMARK
 UK
 
 
-![](assets/14c7c50b6a40/0*2DYf2joLIdNDZkAo)
+![](../assets/14c7c50b6a40/0*2DYf2joLIdNDZkAo)
 
 
 
-![](assets/14c7c50b6a40/0*c8WKuG0B37hCHA9T.jpeg)
+![](../assets/14c7c50b6a40/0*c8WKuG0B37hCHA9T.jpeg)
 
 ### EU countries rule out bilateral agreements on returns
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 28/9/20: A ruling that could pave the way for thousands of unlawfully deported…
+title: "AYS Daily Digest 28/9/20: A ruling that could pave the way for thousands of unlawfully deported…"
 author: Are You Syrious?
 date: 2020-09-29T20:34:10.394+0100
 last_modified_at: 2020-09-29T20:34:10.394+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,europe,uk,refugees,migration]
 description: On the situation in Greece / Italy — after the landing of the 125 on board Alan Kurdi / France — police evicted a squat in Montpellier /…
 image:
-  path: assets/a701a590b0e1/0*I_WmTwQTE402VNnH
+  path: ../assets/a701a590b0e1/0*I_WmTwQTE402VNnH
 ---
 
 ### AYS Daily Digest 28/9/20: A ruling that could pave the way for thousands of unlawfully deported from the UK
 ### On the situation in Greece / Italy — after the landing of the 125 on board Alan Kurdi / France — police evicted a squat in Montpellier / Home Office Under Scrutiny for eviction plans / The Cognitive Dimensions of the New EU Pact on Migration and Asylum and other recommended reads
 
 
-![](assets/a701a590b0e1/0*mXoE3mpsip41T8y7.jpeg)
+![](../assets/a701a590b0e1/0*mXoE3mpsip41T8y7.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----f5b5436bf837--------------------------------)
@@ -22,11 +22,11 @@ image:
 [Sep 29](ays-daily-digest-28-9-20-a-ruling-that-could-pave-the-way-for-thousands-of-unlawfully-deported-f5b5436bf837?source=post_page-----f5b5436bf837--------------------------------) · 6 min read
 
 
-![](assets/a701a590b0e1/0*oD-I3-rTAPmaR406)
+![](../assets/a701a590b0e1/0*oD-I3-rTAPmaR406)
 
 
 
-![](assets/a701a590b0e1/0*KvvEqvwnBd-qKIDM.jpeg)
+![](../assets/a701a590b0e1/0*KvvEqvwnBd-qKIDM.jpeg)
 
 ### FEATURED
 
@@ -37,11 +37,11 @@ There were 1,212 asylum [applications lodged](https://l.facebook.com/l.php?u=htt
 LIBYA
 
 
-![](assets/a701a590b0e1/0*p7qDgsMqEshkPVly)
+![](../assets/a701a590b0e1/0*p7qDgsMqEshkPVly)
 
 
 
-![](assets/a701a590b0e1/0*I_WmTwQTE402VNnH)
+![](../assets/a701a590b0e1/0*I_WmTwQTE402VNnH)
 
 
 GREECE

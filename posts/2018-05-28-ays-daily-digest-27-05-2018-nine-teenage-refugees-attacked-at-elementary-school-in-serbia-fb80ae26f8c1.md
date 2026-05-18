@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 27/05/2018: Nine teenage refugees attacked at secondary school in Serbia
+title: "AYS Daily Digest 27/05/2018: Nine teenage refugees attacked at secondary school in Serbia"
 author: Are You Syrious?
 date: 2018-05-28T11:42:14.356+0100
 last_modified_at: 2018-05-28T12:22:58.214+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,human-rights,france]
 description: Another death in camp Nador in Morocco // 536 people were rescued over the weekend by Salvamento Maritimo // News from Greece // Calls for…
 image:
-  path: assets/fb80ae26f8c1/1*tJraGC9RfVQ_8YRt5llA6A.jpeg
+  path: ../assets/fb80ae26f8c1/1*tJraGC9RfVQ_8YRt5llA6A.jpeg
 ---
 
 ### AYS Daily Digest 27/05/2018: Nine teenage refugees attacked at secondary school in Serbia
@@ -15,7 +15,7 @@ image:
 _Another death in camp Nador in Morocco // 536 people were rescued over the weekend by Salvamento Maritimo // News from Greece // Calls for state of emergency to be extended in Macedonia // News from Italy, Austria, Belgium, France and more_
 
 
-![Source: Lesvos Solidarity Pipka](assets/fb80ae26f8c1/1*tJraGC9RfVQ_8YRt5llA6A.jpeg)
+![Source: Lesvos Solidarity Pipka](../assets/fb80ae26f8c1/1*tJraGC9RfVQ_8YRt5llA6A.jpeg)
 
 Source: Lesvos Solidarity Pipka
 ### Feature: Nine refugees attending secondary school were beaten and taken to hospital
@@ -33,11 +33,11 @@ One person was seriously injured in the attack while the other 8 suffered minor 
 Over the weekend 536 people were rescued from sea\.
 
 
-![](assets/fb80ae26f8c1/1*jw9a1o6kpVkmlTL1PEYYgg.jpeg)
+![](../assets/fb80ae26f8c1/1*jw9a1o6kpVkmlTL1PEYYgg.jpeg)
 
 
 
-![](assets/fb80ae26f8c1/1*il1NemlymuPd6b-GA6TsHQ.jpeg)
+![](../assets/fb80ae26f8c1/1*il1NemlymuPd6b-GA6TsHQ.jpeg)
 
 #### [Sea\-Eye](https://www.facebook.com/seaeyeorg/?hc_ref=ARQUSEGAwEUUJmZi_MiBSvMW7fGa5FHAsAxMyExS4RuQ4PaJTH4iC403gJFwLYZHWjI&fref=nf) update
 
@@ -74,7 +74,7 @@ In the last 48 hours following the break out of fights in the Moria Hotspot, 368
 
 
 
-![Source: Atikka Warehouse](assets/fb80ae26f8c1/1*H44WorqswdxK7LmvMGkCdQ.jpeg)
+![Source: Atikka Warehouse](../assets/fb80ae26f8c1/1*H44WorqswdxK7LmvMGkCdQ.jpeg)
 
 Source: Atikka Warehouse
 #### Wifi along with power banks have been installed at Lesvos Solidarity Pikpa
@@ -82,11 +82,11 @@ Source: Atikka Warehouse
 Wifi, along with a power bank created by our volunteers today, allows everybody to keep in touch with their beloveds\.
 
 
-![](assets/fb80ae26f8c1/1*rZyWdB0yS0c2DQ3nwMJ2IQ.jpeg)
+![](../assets/fb80ae26f8c1/1*rZyWdB0yS0c2DQ3nwMJ2IQ.jpeg)
 
 
 
-![](assets/fb80ae26f8c1/1*JssJRivr75BeyDaNWbMLZA.jpeg)
+![](../assets/fb80ae26f8c1/1*JssJRivr75BeyDaNWbMLZA.jpeg)
 
 #### Pikpa is in need of support as more people continue to arrive
 
@@ -96,20 +96,20 @@ Since yesterday 360 people have arrived\. In order to provide support Pikpa is r
 Please note that they will be closed on Monday
 
 
-![](assets/fb80ae26f8c1/1*NWZT-K9dEsp130sQlNnpoQ.png)
+![](../assets/fb80ae26f8c1/1*NWZT-K9dEsp130sQlNnpoQ.png)
 
 
 
-![](assets/fb80ae26f8c1/1*R53B9noEx-r2kKBHpfCSjg.png)
+![](../assets/fb80ae26f8c1/1*R53B9noEx-r2kKBHpfCSjg.png)
 
 #### [Zaatar — non\-profit organization](https://www.facebook.com/zaatarngo/?hc_ref=ARRb85pLrm1jQWZvQr2HNPmBr9iF5ebCklS9q9Xs6B8RKBPvpQSHm40vufKQlMS_WQE&fref=nf) weekly schedule
 
 
-![](assets/fb80ae26f8c1/1*zZDT_fMOmQARWLkvcTIatg.jpeg)
+![](../assets/fb80ae26f8c1/1*zZDT_fMOmQARWLkvcTIatg.jpeg)
 
 
 
-![](assets/fb80ae26f8c1/1*wBOUPo9UmcqTcF02dt4Adw.jpeg)
+![](../assets/fb80ae26f8c1/1*wBOUPo9UmcqTcF02dt4Adw.jpeg)
 
 ### Macedonia:
 #### The government submitted a bill to the Parliament to [extend the state of emergency in Macedonia until December 2018](http://legis.mk/news/2585/emergency-state-to-be-extended-due-to-migrants)
@@ -131,23 +131,23 @@ No Name Kitchen continues to provide aid to people on the move in the Baobab cam
 Since there is no running water in the camp, No Name Kitchen distribute 600 litres of water per day\.
 
 
-![](assets/fb80ae26f8c1/1*uKxMkNmKpKkzlxGDlrK4YA.jpeg)
+![](../assets/fb80ae26f8c1/1*uKxMkNmKpKkzlxGDlrK4YA.jpeg)
 
 
 
-![](assets/fb80ae26f8c1/1*p_0nhAxuHCl_o3rFNs95uw.jpeg)
+![](../assets/fb80ae26f8c1/1*p_0nhAxuHCl_o3rFNs95uw.jpeg)
 
 
 
-![](assets/fb80ae26f8c1/1*gU6m58AeqJlxTQdh2XpwVA.jpeg)
+![](../assets/fb80ae26f8c1/1*gU6m58AeqJlxTQdh2XpwVA.jpeg)
 
 
 
-![](assets/fb80ae26f8c1/1*RzOxWveoEZoBbnpIOE5peA.jpeg)
+![](../assets/fb80ae26f8c1/1*RzOxWveoEZoBbnpIOE5peA.jpeg)
 
 
 
-![](assets/fb80ae26f8c1/1*7iqkVJH2TOapEkAqkZYLsg.jpeg)
+![](../assets/fb80ae26f8c1/1*7iqkVJH2TOapEkAqkZYLsg.jpeg)
 
 ### Austria:
 
@@ -197,7 +197,7 @@ They warn that families who are housed in state accommodation centres face an un
 
 
 
-![](assets/fb80ae26f8c1/1*1sg29lKgv_ApRD3XtJ1AXA.jpeg)
+![](../assets/fb80ae26f8c1/1*1sg29lKgv_ApRD3XtJ1AXA.jpeg)
 
 #### [Collectif Solidarité Refugees Paris\-Suburbs](https://www.facebook.com/CSRParisBanlieue/) have organised a protest on June 2nd against the asylum immigration bill\.
 
@@ -231,15 +231,15 @@ They call for Freedom of Movement, and end to Dublin \(neither detention nor exp
 
 
 
-![](assets/fb80ae26f8c1/1*iAZqyX8opygYsQ0NDNvmRA.jpeg)
+![](../assets/fb80ae26f8c1/1*iAZqyX8opygYsQ0NDNvmRA.jpeg)
 
 
 
-![](assets/fb80ae26f8c1/1*c0RS8AWYWApRVIkNMeJRXw.jpeg)
+![](../assets/fb80ae26f8c1/1*c0RS8AWYWApRVIkNMeJRXw.jpeg)
 
 
 
-![](assets/fb80ae26f8c1/1*2ugKw6xP2sgzCm9xpHwudA.jpeg)
+![](../assets/fb80ae26f8c1/1*2ugKw6xP2sgzCm9xpHwudA.jpeg)
 
 ### Morocco
 #### Another death has occurred in camp Nador\.
@@ -251,11 +251,11 @@ At 5pm yesterday a young man from Guinea was found dead in his bunker by a frien
 They warn that people who reside there are completely neglected by NGOs who have funding to assist\. There is no medical care, food or hygiene in the camp\.
 
 
-![](assets/fb80ae26f8c1/1*kp8fj_u3eb44pDsF6-YKUQ.jpeg)
+![](../assets/fb80ae26f8c1/1*kp8fj_u3eb44pDsF6-YKUQ.jpeg)
 
 
 
-![](assets/fb80ae26f8c1/1*uXcufD-wfzXNDKLS41soEw.jpeg)
+![](../assets/fb80ae26f8c1/1*uXcufD-wfzXNDKLS41soEw.jpeg)
 
 ### **We strive to echo correct news from the ground through collaboration and fairness\.**
 

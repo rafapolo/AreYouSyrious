@@ -1,5 +1,5 @@
 ---
-title: Are You Syrious Digest 31/1: “Alternative facts” and the European way
+title: "Are You Syrious Digest 31/1: “Alternative facts” and the European way"
 author: Are You Syrious?
 date: 2017-02-01T06:07:51.981+0000
 last_modified_at: 2017-02-01T06:29:15.693+0000
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe,hunger-strike,samos]
 description: FEATURE
 image:
-  path: assets/76211440b7ac/1*6OP6M-Qs0n-NlkkuyxvtpQ.jpeg
+  path: ../assets/76211440b7ac/1*6OP6M-Qs0n-NlkkuyxvtpQ.jpeg
 ---
 
 ### Are You Syrious Digest 31/1: “Alternative facts” and the European way
 
 
-![Hunger strike Samos\. Photo by Hassem Ghafelpour](assets/76211440b7ac/1*6OP6M-Qs0n-NlkkuyxvtpQ.jpeg)
+![Hunger strike Samos\. Photo by Hassem Ghafelpour](../assets/76211440b7ac/1*6OP6M-Qs0n-NlkkuyxvtpQ.jpeg)
 
 Hunger strike Samos\. Photo by Hassem Ghafelpour
 ### FEATURE
@@ -66,14 +66,14 @@ From 1\. to 31\. January 1311 newly arrived people have been registered on the E
 376 people returned voluntarily, 64 were deported to Turkey\.
 
 
-![Summary of registrations for 2017](assets/76211440b7ac/1*YmQJ2T-GW5pFBdbYfiO5eg.png)
+![Summary of registrations for 2017](../assets/76211440b7ac/1*YmQJ2T-GW5pFBdbYfiO5eg.png)
 
 Summary of registrations for 2017
 
 This is a sharp decline in the last three months, when as can be seen via the following graph:
 
 
-![](assets/76211440b7ac/1*yEfnt-AHvJasZ6RtCoutkA.jpeg)
+![](../assets/76211440b7ac/1*yEfnt-AHvJasZ6RtCoutkA.jpeg)
 
 ### Vathy
 
@@ -114,14 +114,14 @@ Strike participants had previously attempted to reach out to authorities includi
 
 
 
-![Photo Credit: Hassem Ghafelpour](assets/76211440b7ac/1*1MOyN7hiFMG5QNYNJCvf2Q.jpeg)
+![Photo Credit: Hassem Ghafelpour](../assets/76211440b7ac/1*1MOyN7hiFMG5QNYNJCvf2Q.jpeg)
 
 Photo Credit: Hassem Ghafelpour
 
 The European Commission has announced plans to speed asylum procedures for those on the [islands and transport them](https://www.facebook.com/refugee.info/photos/a.1063678090359004.1073741829.950581228335358/1294755507251260/?type=3) to the mainland as quickly as possible\. It is unclear how this is to happen without protracting the asylum process for those already on the mainland\. Additionally, it is important to note that this development has been promoted in conjunction with a move to evacuate the islands in anticipation of the 2017 tourist season\. It appears that money talks more than people, still\.
 
 
-![Solidarity actors blockading refugee children from anti\-refugee protestors\. Photo Courtesy of Aggelos Kalodoukas](assets/76211440b7ac/1*Y4Dege45njs9Dc7CqR3l_g.jpeg)
+![Solidarity actors blockading refugee children from anti\-refugee protestors\. Photo Courtesy of Aggelos Kalodoukas](../assets/76211440b7ac/1*Y4Dege45njs9Dc7CqR3l_g.jpeg)
 
 Solidarity actors blockading refugee children from anti\-refugee protestors\. Photo Courtesy of Aggelos Kalodoukas
 ### School Days
@@ -141,7 +141,7 @@ Wonderful news via Art Against:
 
 
 
-![Photo Courtesy of Aggelos Kalodoukas](assets/76211440b7ac/1*nIcTWHemd1Q57lBtblgbqg.jpeg)
+![Photo Courtesy of Aggelos Kalodoukas](../assets/76211440b7ac/1*nIcTWHemd1Q57lBtblgbqg.jpeg)
 
 Photo Courtesy of Aggelos Kalodoukas
 ### HUNGARY
@@ -149,7 +149,7 @@ Photo Courtesy of Aggelos Kalodoukas
 Another installment of the “Space Invaders Against Border Hunters” protests in Hungary took place in order to raise awareness of the recent horrific reports of violence against individuals at the Hungarian\-Serbian border\.
 
 
-![Photo courtesy: MigSzol Csoport](assets/76211440b7ac/1*_gog67n4NbmuZRl8Fb87cA.jpeg)
+![Photo courtesy: MigSzol Csoport](../assets/76211440b7ac/1*_gog67n4NbmuZRl8Fb87cA.jpeg)
 
 Photo courtesy: MigSzol Csoport
 ### ITALY
@@ -174,7 +174,7 @@ Report translated from [Repubblica](http://milano.repubblica.it/cronaca/2017/01/
 Yet once again, where institutions fail, humanity starts to glimmer\. El Altillo School, Jerez de la Frontera, \(Spain\) collected and sent hundreds of jackets, pants, gloves, hats etc to Ospiti en Arrivo in order to help those dealing with the brutal cold there\.
 
 
-![](assets/76211440b7ac/1*AjVVySQOCM0Bnpu84DWywg.jpeg)
+![](../assets/76211440b7ac/1*AjVVySQOCM0Bnpu84DWywg.jpeg)
 
 
 Bravo, friends\! ❤
@@ -199,7 +199,7 @@ It is curious about how the deportation of a specific nationality squares up wit
 ### FRANCE
 
 
-![](assets/76211440b7ac/1*zxSc8Pif7rEZ628oqLWdHQ.jpeg)
+![](../assets/76211440b7ac/1*zxSc8Pif7rEZ628oqLWdHQ.jpeg)
 
 ### Paris
 
@@ -255,7 +255,7 @@ Those who wish to support the ongoing efforts to support these people on the run
 Important information for refugees from the ACLU which is currently working to represent cases of discrimination in the wake of President Trump’s disastrous executive order\.
 
 
-![Photo Credit: ACLU](assets/76211440b7ac/1*1EJyXrMtfn-N7wdrRq8RmA.jpeg)
+![Photo Credit: ACLU](../assets/76211440b7ac/1*1EJyXrMtfn-N7wdrRq8RmA.jpeg)
 
 Photo Credit: ACLU
 

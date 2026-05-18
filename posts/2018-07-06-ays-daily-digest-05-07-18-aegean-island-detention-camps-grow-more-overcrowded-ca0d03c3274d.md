@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 05/07/18: Aegean Island detention camps grow more overcrowded
+title: "AYS Daily Digest 05/07/18: Aegean Island detention camps grow more overcrowded"
 author: Are You Syrious?
 date: 2018-07-06T02:44:33.020+0100
 last_modified_at: 2018-07-06T18:15:12.134+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,greece,digest,libya,solidarity]
 description: Survivor’s testimony from Libya / Rescue ships blocked / Lifeline captain tried on Malta / New arrivals in Greece / Evictions in Rome /…
 image:
-  path: assets/ca0d03c3274d/1*x3K4ISEZgnORjLLWyG60mw.jpeg
+  path: ../assets/ca0d03c3274d/1*x3K4ISEZgnORjLLWyG60mw.jpeg
 ---
 
 ### AYS Daily Digest 05/07/18: Aegean Island detention camps grow more overcrowded
@@ -15,7 +15,7 @@ image:
 Survivor’s testimony from Libya / Rescue ships blocked / Lifeline captain tried on Malta / New arrivals in Greece / Evictions in Rome / Extremist policies in Austria / Police stop distributions in Dunkirk / ICE endangers infant lives in Texas / And more news…
 
 
-![Photo by Tasos Anastasiou \(Photo credit to [Art Against](https://www.facebook.com/artagainstproject/photos/a.639651369417634.1073741828.639605726088865/1766195986763161/?type=3&theater) \)](assets/ca0d03c3274d/1*j9AANm0R3_DAcEDJ8lzDAA.jpeg)
+![Photo by Tasos Anastasiou \(Photo credit to [Art Against](https://www.facebook.com/artagainstproject/photos/a.639651369417634.1073741828.639605726088865/1766195986763161/?type=3&theater) \)](../assets/ca0d03c3274d/1*j9AANm0R3_DAcEDJ8lzDAA.jpeg)
 
 Photo by Tasos Anastasiou \(Photo credit to [Art Against](https://www.facebook.com/artagainstproject/photos/a.639651369417634.1073741828.639605726088865/1766195986763161/?type=3&theater) \)
 ### LIBYA
@@ -32,7 +32,7 @@ These are the camps that the EU and Italy are funding to prevent refugees from r
 In the last week, one in 12 people who crossed the central Mediterranean died\. The sea crossing is more dangerous than ever because of rescue ships recently being stopped and impounded\.
 
 
-![Rescue ships are being blocked from entering rescue zones on a near daily basis \(Photo by Sea\-Watch\)](assets/ca0d03c3274d/1*Ed5i2gnf6PP0GbFPm08r3A.jpeg)
+![Rescue ships are being blocked from entering rescue zones on a near daily basis \(Photo by Sea\-Watch\)](../assets/ca0d03c3274d/1*Ed5i2gnf6PP0GbFPm08r3A.jpeg)
 
 Rescue ships are being blocked from entering rescue zones on a near daily basis \(Photo by Sea\-Watch\)
 ### GREECE
@@ -46,7 +46,7 @@ Rescue ships are being blocked from entering rescue zones on a near daily basis 
 It is somewhat shocking that UNHCR is not even able to put together reliable statistics for the number of people arriving on the Aegean Islands\. The UNHCR has long failed to provide for the basic needs and rights of refugees on the islands, yet they have always prioritized putting out their glossy data sheets\. Now it seems they cannot even do this properly\.
 
 
-![Incorrect information that was put out by the UNHCR this week \(Factsheet by UNHCR\)](assets/ca0d03c3274d/1*BI98dimXqx065mu8M6Nuyg.jpeg)
+![Incorrect information that was put out by the UNHCR this week \(Factsheet by UNHCR\)](../assets/ca0d03c3274d/1*BI98dimXqx065mu8M6Nuyg.jpeg)
 
 Incorrect information that was put out by the UNHCR this week \(Factsheet by UNHCR\)
 
@@ -55,12 +55,12 @@ From Are You Syrious’ data keeping and analysis, the total new arrivals for th
 There were 20 deportations under the EU\-Turkey deal, among them six Syrians and, for the first time being deported, a person from the Comores\. 166 people have been deported in 2018, 62 of them from Syria\.
 
 
-![Infographic by AYS, 05/07/18](assets/ca0d03c3274d/1*mDIC6VuzQeQkMZ_0WHVOIg.jpeg)
+![Infographic by AYS, 05/07/18](../assets/ca0d03c3274d/1*mDIC6VuzQeQkMZ_0WHVOIg.jpeg)
 
 Infographic by AYS, 05/07/18
 
 
-![Infographic by AYS, 05/07/18](assets/ca0d03c3274d/1*uOFvO1n51nRxGbtpCI1oAA.jpeg)
+![Infographic by AYS, 05/07/18](../assets/ca0d03c3274d/1*uOFvO1n51nRxGbtpCI1oAA.jpeg)
 
 Infographic by AYS, 05/07/18
 
@@ -76,7 +76,7 @@ As more people around the continent show support for Save Pipka, they are still 
 Sign and show your support [here\.](https://secure.avaaz.org/en/petition/Mr_Galinos_Mayor_of_Mytilini_SAVE_LESVOS_SOLIDARITY_CAMP_PIKPA/?fYAaVdb&fbogname=Michael+S.&utm_source=sharetools&utm_medium=facebook&utm_campaign=petition-362814-Mr_Galinos_Mayor_of_Mytilini_SAVE_LESVOS_SOLIDARITY_CAMP_PIKPA&utm_term=YAaVdb%2Ben)
 
 
-![Photo by [Milena Los](https://www.facebook.com/MilenaLosinger) ‎](assets/ca0d03c3274d/1*_dWAZKyRuHqhSYa9ha8zpA.jpeg)
+![Photo by [Milena Los](https://www.facebook.com/MilenaLosinger) ‎](../assets/ca0d03c3274d/1*_dWAZKyRuHqhSYa9ha8zpA.jpeg)
 
 Photo by [Milena Los](https://www.facebook.com/MilenaLosinger) ‎
 #### Call for volunteers in Athens
@@ -87,7 +87,7 @@ Find more information and check out the application [here\.](https://www.actionf
 ### MALTA
 
 
-![Photo credit to Erik Marquardt/ [Sea\-Eye](https://www.facebook.com/groups/1652972374920129/)](assets/ca0d03c3274d/1*tRAO7K5ly1c2G9QRQI4GFw.jpeg)
+![Photo credit to Erik Marquardt/ [Sea\-Eye](https://www.facebook.com/groups/1652972374920129/)](../assets/ca0d03c3274d/1*tRAO7K5ly1c2G9QRQI4GFw.jpeg)
 
 Photo credit to Erik Marquardt/ [Sea\-Eye](https://www.facebook.com/groups/1652972374920129/)
 
@@ -122,12 +122,12 @@ Malta and Italy have both closed their ports to rescue ships, and the Lifeline w
 [This morning](https://www.facebook.com/637713737/posts/10156690469198738/) in Rome via Scorticabove, 120 people were evicted from a building they were occupying legally\. The local municipality gave no other solutions: another scandal from Italy with no explanations\.
 
 
-![People being evicted in Rome\. \(Photo credit to [Federazione del Sociale USB](https://www.facebook.com/FederazionedelSociale/?hc_ref=ARRvFUq7opTlBbAEJyYZsV_u4sn6w0Nj1AedahvupiM1Bxvdev5Sb7z93FESTUwYGM0&fref=nf) \)](assets/ca0d03c3274d/1*4c-4Vu5mA0GH3l_T3NK7xw.jpeg)
+![People being evicted in Rome\. \(Photo credit to [Federazione del Sociale USB](https://www.facebook.com/FederazionedelSociale/?hc_ref=ARRvFUq7opTlBbAEJyYZsV_u4sn6w0Nj1AedahvupiM1Bxvdev5Sb7z93FESTUwYGM0&fref=nf) \)](../assets/ca0d03c3274d/1*4c-4Vu5mA0GH3l_T3NK7xw.jpeg)
 
 People being evicted in Rome\. \(Photo credit to [Federazione del Sociale USB](https://www.facebook.com/FederazionedelSociale/?hc_ref=ARRvFUq7opTlBbAEJyYZsV_u4sn6w0Nj1AedahvupiM1Bxvdev5Sb7z93FESTUwYGM0&fref=nf) \)
 
 
-![Photo credit to [Federazione del Sociale USB](https://www.facebook.com/FederazionedelSociale/?hc_ref=ARRvFUq7opTlBbAEJyYZsV_u4sn6w0Nj1AedahvupiM1Bxvdev5Sb7z93FESTUwYGM0&fref=nf)](assets/ca0d03c3274d/1*jPmbWGgNsSwh8bBxFdHKSw.jpeg)
+![Photo credit to [Federazione del Sociale USB](https://www.facebook.com/FederazionedelSociale/?hc_ref=ARRvFUq7opTlBbAEJyYZsV_u4sn6w0Nj1AedahvupiM1Bxvdev5Sb7z93FESTUwYGM0&fref=nf)](../assets/ca0d03c3274d/1*jPmbWGgNsSwh8bBxFdHKSw.jpeg)
 
 Photo credit to [Federazione del Sociale USB](https://www.facebook.com/FederazionedelSociale/?hc_ref=ARRvFUq7opTlBbAEJyYZsV_u4sn6w0Nj1AedahvupiM1Bxvdev5Sb7z93FESTUwYGM0&fref=nf)
 
@@ -140,7 +140,7 @@ On July 4th, [a fascist attack](https://www.facebook.com/362786637540072/photos/
 [Conditions in Sarajevo](https://www.facebook.com/soulsofsarajevo/posts/1296985103738032) remain grim with volunteers trying to bring back decent humanity by providing showering facilities\.
 
 
-![Make shift showers built by volunteers\. \(Photo credit to [Diskriminacija](http://www.diskriminacija.ba/teme/kuć-putujuć-velika-kladuša) \)](assets/ca0d03c3274d/1*7OwqOohpDpeCCRD6pRj_Hw.jpeg)
+![Make shift showers built by volunteers\. \(Photo credit to [Diskriminacija](http://www.diskriminacija.ba/teme/kuć-putujuć-velika-kladuša) \)](../assets/ca0d03c3274d/1*7OwqOohpDpeCCRD6pRj_Hw.jpeg)
 
 Make shift showers built by volunteers\. \(Photo credit to [Diskriminacija](http://www.diskriminacija.ba/teme/kuć-putujuć-velika-kladuša) \)
 ### AUSTRIA
@@ -159,7 +159,7 @@ In Dunkirk, [volunteers reported](https://www.facebook.com/HelpRefugeesUK/videos
 The Refugee Community Kitchen, working in Dunkirk is facing incredible pressure from the authorities to stop their food distribution\. Many times in the past week authorities have forced them to move their distribution site or kicked them out saying they do not have “clearance\.”
 
 
-![“Distribution of food and all essential services have been very difficult in Grand Synth \(Dunkirk\) over the last 3 days\. Without notice or any clear reason we have not been allowed access to our normal distribution points where we serve about 300 many families everyday\.” \(Photo by Refugee Community Kitchen\)](assets/ca0d03c3274d/1*oO1codKdpNBRR_8sdqErhQ.jpeg)
+![“Distribution of food and all essential services have been very difficult in Grand Synth \(Dunkirk\) over the last 3 days\. Without notice or any clear reason we have not been allowed access to our normal distribution points where we serve about 300 many families everyday\.” \(Photo by Refugee Community Kitchen\)](../assets/ca0d03c3274d/1*oO1codKdpNBRR_8sdqErhQ.jpeg)
 
 “Distribution of food and all essential services have been very difficult in Grand Synth \(Dunkirk\) over the last 3 days\. Without notice or any clear reason we have not been allowed access to our normal distribution points where we serve about 300 many families everyday\.” \(Photo by Refugee Community Kitchen\)
 #### Solidarity march arriving in Dunkirk and Calais
@@ -167,7 +167,7 @@ The Refugee Community Kitchen, working in Dunkirk is facing incredible pressure 
 [The Solidarity March](https://www.facebook.com/groups/CalaisMigrantSolidarityActionFromUK/permalink/2027672857307451/) from Italy to London is arriving in Dunkirk on June 5th and Calais on June 7th\. The marchers are fighting for a more welcoming Europe, and against the criminalization of people in need\.
 
 
-![The solidarity march arrives in Flanders\. \(Photo by [L’ Auberge des Migrants](https://www.facebook.com/AubergeMigrants/photos/a.10152514841565339.1073741825.358496450338/10156162065260339/?type=3&theater) \)](assets/ca0d03c3274d/1*04w6OvsiQ1_k3ea4iWvCtA.jpeg)
+![The solidarity march arrives in Flanders\. \(Photo by [L’ Auberge des Migrants](https://www.facebook.com/AubergeMigrants/photos/a.10152514841565339.1073741825.358496450338/10156162065260339/?type=3&theater) \)](../assets/ca0d03c3274d/1*04w6OvsiQ1_k3ea4iWvCtA.jpeg)
 
 The solidarity march arrives in Flanders\. \(Photo by [L’ Auberge des Migrants](https://www.facebook.com/AubergeMigrants/photos/a.10152514841565339.1073741825.358496450338/10156162065260339/?type=3&theater) \)
 #### Paris d’Exile looking for translators
@@ -214,7 +214,7 @@ This week, two infants were taken from a detention center in McAllen Texas to a 
 
 
 
-![A photo of one of the infants nearly killed by confinement in an ICE facility\. \(Photo by [Alice Alveraz](https://www.facebook.com/alice.alveraz) ‎\)](assets/ca0d03c3274d/1*x3K4ISEZgnORjLLWyG60mw.jpeg)
+![A photo of one of the infants nearly killed by confinement in an ICE facility\. \(Photo by [Alice Alveraz](https://www.facebook.com/alice.alveraz) ‎\)](../assets/ca0d03c3274d/1*x3K4ISEZgnORjLLWyG60mw.jpeg)
 
 A photo of one of the infants nearly killed by confinement in an ICE facility\. \(Photo by [Alice Alveraz](https://www.facebook.com/alice.alveraz) ‎\)
 

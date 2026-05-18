@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 19/06/20: Ripe for Corruption? The Greek Migration Ministry.
+title: "AYS Daily Digest 19/06/20: Ripe for Corruption? The Greek Migration Ministry."
 author: Are You Syrious?
 date: 2020-06-20T13:13:07.494+0100
 last_modified_at: 2020-06-20T14:53:14.361+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,migration,refugees,europe,greece]
 description: Croatian police arrested for beating asylum seekers // Asylum reform in Cyprus // Allegations of Frontex assisting in illegal pushbacks //…
 image:
-  path: assets/a73515dc8039/1*4Z-c55tVA4LGek76lFsxqw.jpeg
+  path: ../assets/a73515dc8039/1*4Z-c55tVA4LGek76lFsxqw.jpeg
 ---
 
 ### AYS Daily Digest 19/06/20: Ripe for Corruption? The Greek Migration Ministry\.
@@ -138,7 +138,7 @@ In light of these past allegations of human rights abuses, the interaction betwe
 In 2018, when journalist Sara Creta first met James, he had survived a Mediterranean shipwreck, been shot and spent years being abused and tortured in Libya\. He is one of 81,000 migrants returned to home to Nigeria by the IOM sponsored by the EU commission\. This is James’s story:
 
 
-[![Meet the migrant struggling back in Nigeria after having his Europe dreams dashed](assets/a73515dc8039/1bf1_hqdefault.jpg "Meet the migrant struggling back in Nigeria after having his Europe dreams dashed")](https://www.youtube.com/watch?v=ryX5sF5ZTBg)
+[![Meet the migrant struggling back in Nigeria after having his Europe dreams dashed](../assets/a73515dc8039/1bf1_hqdefault.jpg "Meet the migrant struggling back in Nigeria after having his Europe dreams dashed")](https://www.youtube.com/watch?v=ryX5sF5ZTBg)
 
 
 To further understand the treatment that James is likely to have endured, MSF has published a short documentary showing the treatment of around 650,000 refugees, asylum seekers, like James, who are trapped in war\-torn Libya\. These people live in precarious conditions with limited access to health care and humanitarian assistance\.
@@ -162,7 +162,7 @@ To further understand the treatment that James is likely to have endured, MSF ha
 Over 1 [00 people attended a demonstration](https://cyprus-mail.com/2020/06/19/demo-held-in-nicosia-to-support-refugees/?fbclid=IwAR1tVF8SAVtuUV6BiGs1_Kyrm0g6CClR41kPU1JywamyDU_M7v718xyX9zU) in Nicosia on Friday marking World Refugee Day\. In the demonstration, the participants carried banners saying ‘Solidarity to refugees’ and ‘We can’t breathe’\.
 
 
-![_Photo: Jane Reeves \(_ https://cyprus\-mail\.com/2020/06/19/demo\-held\-in\-nicosia\-to\-support\-refugees/?fbclid=IwAR1tVF8SAVtuUV6BiGs1\_Kyrm0g6CClR41kPU1JywamyDU\_M7v718xyX9zU\)](assets/a73515dc8039/1*4Z-c55tVA4LGek76lFsxqw.jpeg)
+![_Photo: Jane Reeves \(_ https://cyprus\-mail\.com/2020/06/19/demo\-held\-in\-nicosia\-to\-support\-refugees/?fbclid=IwAR1tVF8SAVtuUV6BiGs1\_Kyrm0g6CClR41kPU1JywamyDU\_M7v718xyX9zU\)](../assets/a73515dc8039/1*4Z-c55tVA4LGek76lFsxqw.jpeg)
 
 _Photo: Jane Reeves \(_ https://cyprus\-mail\.com/2020/06/19/demo\-held\-in\-nicosia\-to\-support\-refugees/?fbclid=IwAR1tVF8SAVtuUV6BiGs1\_Kyrm0g6CClR41kPU1JywamyDU\_M7v718xyX9zU\)
 

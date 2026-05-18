@@ -1,5 +1,5 @@
 ---
-title: AYS Digest 23/8: Still no clear longterm policy on relocation and resettlement of refugees
+title: "AYS Digest 23/8: Still no clear longterm policy on relocation and resettlement of refugees"
 author: Are You Syrious?
 date: 2016-08-24T01:10:57.003+0100
 last_modified_at: 2016-08-24T12:48:06.155+0100
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe]
 description: GENERAL
 image:
-  path: assets/21db9b063748/1*1LBDk7tQM-kiNfNiHIdIQg.jpeg
+  path: ../assets/21db9b063748/1*1LBDk7tQM-kiNfNiHIdIQg.jpeg
 ---
 
 ### AYS Digest 23/8: Still no clear longterm policy on relocation and resettlement of refugees
 
 
-![“Our life is like this cigarette” Photo credit: [Through Refugee Eyes](https://www.facebook.com/throughrefugeeeyes/?fref=ts)](assets/21db9b063748/1*1LBDk7tQM-kiNfNiHIdIQg.jpeg)
+![“Our life is like this cigarette” Photo credit: [Through Refugee Eyes](https://www.facebook.com/throughrefugeeeyes/?fref=ts)](../assets/21db9b063748/1*1LBDk7tQM-kiNfNiHIdIQg.jpeg)
 
 “Our life is like this cigarette” Photo credit: [Through Refugee Eyes](https://www.facebook.com/throughrefugeeeyes/?fref=ts)
 ### **GENERAL**
@@ -49,11 +49,11 @@ In the Eastern Mediterranean, however, few deaths have been reported since a Mar
 As the need for humanitarian aid grows, how can efforts to alleviate human suffering evolve with it? Harvard Humanitarian Initiative seeks to answer in an upcoming online course starting August 30, free to everyone through the HarvardX platform\. According to the course description, Humanitarian Response to Conflict and Disaster will prepare us to recognize and analyze emerging challenges in the humanitarian field and explore the ethics and principles that guide humanitarian response\.
 
 
-![](assets/21db9b063748/1*5mIa6Cn0mq6SHJkmp48U5A.jpeg)
+![](../assets/21db9b063748/1*5mIa6Cn0mq6SHJkmp48U5A.jpeg)
 
 
 
-![Refugee Olympic Games, Photo credit: [**Hussain Jeqou**](https://www.facebook.com/hussain.ilgapk)](assets/21db9b063748/1*BepZxXfoXtrYKOyW8EY04w.jpeg)
+![Refugee Olympic Games, Photo credit: [**Hussain Jeqou**](https://www.facebook.com/hussain.ilgapk)](../assets/21db9b063748/1*BepZxXfoXtrYKOyW8EY04w.jpeg)
 
 Refugee Olympic Games, Photo credit: [**Hussain Jeqou**](https://www.facebook.com/hussain.ilgapk)
 ### **GREECE**
@@ -75,7 +75,7 @@ The center is set to be completed in the coming days, will ease congestion in ca
 Despite a deal between the EU and Ankara, the number of arrivals on Aegean islands continues to soar\. A total of 1,138 migrants and refugees landed on Lesvos, Chios, Samos, Kos and Leros over the past 10 days, bringing the total number to 11,343\. Greece has at least 41,000 refugees and migrants who are seeking asylum, mostly Syrians eligible to relocate within the EU, the migration minister said on Tuesday\. Yiannis Mouzalas told a news conference that Greek and UN services had recorded 54,000 refugees and migrants on Greek territory between June and the end of July\. Over 41,000 of them on the mainland have expressed interest in asylum, or have made formal requests\. Another 2,000 have agreed to be returned home\. At the same time, there are another 11,000 people currently being processed on Greek islands after landing there from neighboring Turkey\. The migration minister admitted that there are additionally “around 4,000” people who are avoiding follow\-up registration as they hope to cross the border with the help of smugglers\. But denied reports that hundreds of people were being allowed to sneak across the border to the Republic of Macedonia and Bulgaria\. New arrivals, total of 18 today all landed on Lesvos
 
 
-![Clowns in the Camp\. Photo Credit: [**José Palazón**](https://www.facebook.com/jose.palazon.9)](assets/21db9b063748/1*NhZPloaHGn5aWQhTiFpUOQ.jpeg)
+![Clowns in the Camp\. Photo Credit: [**José Palazón**](https://www.facebook.com/jose.palazon.9)](../assets/21db9b063748/1*NhZPloaHGn5aWQhTiFpUOQ.jpeg)
 
 Clowns in the Camp\. Photo Credit: [**José Palazón**](https://www.facebook.com/jose.palazon.9)
 
@@ -94,7 +94,7 @@ The conditions in the camp are still very bad with very poor quality food, lack 
 There are still unattended minors living there, You can help out by: mobile pay: \+45 60 10 66 24 \(DK\), AL\-bank: reg\. nr\. 5358, konto nr\. 0244228\. \(DK\) or International donations: IBAN nr\. : DK4853580000244228 / SWIFT adr\. : ALBADKKK
 
 
-![Photo Credit: [**José Palazón**](https://www.facebook.com/jose.palazon.9)](assets/21db9b063748/1*BGBn5uaImrFhpvIaqVdn2A.jpeg)
+![Photo Credit: [**José Palazón**](https://www.facebook.com/jose.palazon.9)](../assets/21db9b063748/1*BGBn5uaImrFhpvIaqVdn2A.jpeg)
 
 Photo Credit: [**José Palazón**](https://www.facebook.com/jose.palazon.9)
 ### TURKEY
@@ -126,7 +126,7 @@ General Zelimir Glisovic has said Serbian joint police and army patrols have pre
 People living in Belgrade without shelter are heavily affected recent rainfall and rapid temperature drops,, please find out how you can help [here](https://www.facebook.com/RefugeeAidMiksaliste/photos/a.1656591594607458.1073741828.1652129721720312/1750845761848707/?type=3) \.
 
 
-![Photo Credit: Kayra Martinez [Art Without Borders — Nea Kavala](http://Nea Kavala - Art Without Borders)](assets/21db9b063748/1*f8lk72aw0k8mEIXdKKwGug.jpeg)
+![Photo Credit: Kayra Martinez [Art Without Borders — Nea Kavala](http://Nea Kavala - Art Without Borders)](../assets/21db9b063748/1*f8lk72aw0k8mEIXdKKwGug.jpeg)
 
 Photo Credit: Kayra Martinez [Art Without Borders — Nea Kavala](http://Nea Kavala - Art Without Borders)
 ### **ITALY**
@@ -153,7 +153,7 @@ Want to send much needed goods to Calais but can’t get them there? [Saf Suleym
 The two migrants were among a group of people from the “Jungle” camp who tried to access a motorway to smuggle onto trucks crossing the Channel to Britain on Monday night\. In scenes that play out nightly, police pushed back the would\-be stowaways\.A fight later broke out between groups of Afghans and Sudanese returning to the sprawling “Jungle”\. The Sudanese man’s death brings to 11 the number of migrants who have died this year in and around Calais\.
 
 
-![Photo Credit: [**Hussain Jeqou**](https://www.facebook.com/hussain.ilgapk)](assets/21db9b063748/1*v2Fid7XaDURa-uydb7vjqA.jpeg)
+![Photo Credit: [**Hussain Jeqou**](https://www.facebook.com/hussain.ilgapk)](../assets/21db9b063748/1*v2Fid7XaDURa-uydb7vjqA.jpeg)
 
 Photo Credit: [**Hussain Jeqou**](https://www.facebook.com/hussain.ilgapk)
 ### **GERMANY**

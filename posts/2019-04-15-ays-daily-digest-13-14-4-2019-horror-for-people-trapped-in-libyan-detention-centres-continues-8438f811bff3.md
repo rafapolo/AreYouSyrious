@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 13–14/4/2019: Horror for people trapped in Libyan detention centres continues
+title: "AYS DAILY DIGEST 13–14/4/2019: Horror for people trapped in Libyan detention centres continues"
 author: Are You Syrious?
 date: 2019-04-15T09:33:03.806+0100
 last_modified_at: 2019-04-15T10:21:56.918+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,libya,greece,digest,bosnia]
 description: Waiting for the UNHCR in Libya // Young girl died on her wait to Europe near Greece // Young man died on his way to Europe in Croatia //…
 image:
-  path: assets/8438f811bff3/1*3ALHB7a4T2zPxYvUg4_2eA.jpeg
+  path: ../assets/8438f811bff3/1*3ALHB7a4T2zPxYvUg4_2eA.jpeg
 ---
 
 ### AYS DAILY DIGEST 13–14/4/2019: Horror for people trapped in Libyan detention centres continues
@@ -15,7 +15,7 @@ image:
 _Waiting for the UNHCR in Libya // Young girl died on her way to Europe near Greece // Young man died on his way to Europe in Croatia // Life in the jungle around Calais // Life for asylum seekers in Switzerland_
 
 
-![Demonstration in Copenhagen by inhabitants in the immigration detention centres Kærshovedgård and Sjælsmark with the demands of access to medical help and education — and the closing down of the detention centres\. Photo by [Respons](https://www.facebook.com/353248551789309/posts/645309182583243/) \.](assets/8438f811bff3/1*3ALHB7a4T2zPxYvUg4_2eA.jpeg)
+![Demonstration in Copenhagen by inhabitants in the immigration detention centres Kærshovedgård and Sjælsmark with the demands of access to medical help and education — and the closing down of the detention centres\. Photo by [Respons](https://www.facebook.com/353248551789309/posts/645309182583243/) \.](../assets/8438f811bff3/1*3ALHB7a4T2zPxYvUg4_2eA.jpeg)
 
 Demonstration in Copenhagen by inhabitants in the immigration detention centres Kærshovedgård and Sjælsmark with the demands of access to medical help and education — and the closing down of the detention centres\. Photo by [Respons](https://www.facebook.com/353248551789309/posts/645309182583243/) \.
 ### Feature — Libyan Detention Centres
@@ -54,18 +54,18 @@ The week in Chios started with a new landing\. On Monday, around 4\.10am, [Chios
 Life in camps on the islands continues to be unbearable\. In Samos, piles of garbage are everywhere\. Even worse is outside the camp, and many people are forced to stay there due to the lack of space inside\.
 
 
-![](assets/8438f811bff3/1*BeDiHZn_AgMKmiKCw30osQ.jpeg)
+![](../assets/8438f811bff3/1*BeDiHZn_AgMKmiKCw30osQ.jpeg)
 
 
 
-![[Refugee4Refugees](https://www.facebook.com/Refugee4Refugees/posts/893825104294499?__xts__%5B0%5D=68.ARCiYtHNjjKRERUgi8aKe4kmNI5FqEyy6DWBb7da81kR_rS06xWshJXjKP3uv6MlEEwl903fYAmaX2MPbbnHCV7YZr-Egj2CyRjbNLQU78_ar-ecsOWxWcVoKWMGCMOAnWudKJCcIFTjWlnOgAKubQt0sEqa4QKa_JBpshdDVGyMdi1OudekOEC9nFNdoNUfABihkca3Vcsfp-TWc2ZyL1cyPRCBSycUuq0K6zqAuIl0m_XbWAu2HRxFc3TUib1pEEIOFK4kLQ_fhp4wWM83KEGuwsGjH_h_f4gCNPuDXpjedjgxpqTD2SbodZf-VTLcm5EqnnikobyzyrfJRvQnt3Q&__tn__=-R) team cleaning area around camp on Samos\.](assets/8438f811bff3/1*a3E-v7dg9jjb5keFg-iRfQ.jpeg)
+![[Refugee4Refugees](https://www.facebook.com/Refugee4Refugees/posts/893825104294499?__xts__%5B0%5D=68.ARCiYtHNjjKRERUgi8aKe4kmNI5FqEyy6DWBb7da81kR_rS06xWshJXjKP3uv6MlEEwl903fYAmaX2MPbbnHCV7YZr-Egj2CyRjbNLQU78_ar-ecsOWxWcVoKWMGCMOAnWudKJCcIFTjWlnOgAKubQt0sEqa4QKa_JBpshdDVGyMdi1OudekOEC9nFNdoNUfABihkca3Vcsfp-TWc2ZyL1cyPRCBSycUuq0K6zqAuIl0m_XbWAu2HRxFc3TUib1pEEIOFK4kLQ_fhp4wWM83KEGuwsGjH_h_f4gCNPuDXpjedjgxpqTD2SbodZf-VTLcm5EqnnikobyzyrfJRvQnt3Q&__tn__=-R) team cleaning area around camp on Samos\.](../assets/8438f811bff3/1*a3E-v7dg9jjb5keFg-iRfQ.jpeg)
 
 [Refugee4Refugees](https://www.facebook.com/Refugee4Refugees/posts/893825104294499?__xts__%5B0%5D=68.ARCiYtHNjjKRERUgi8aKe4kmNI5FqEyy6DWBb7da81kR_rS06xWshJXjKP3uv6MlEEwl903fYAmaX2MPbbnHCV7YZr-Egj2CyRjbNLQU78_ar-ecsOWxWcVoKWMGCMOAnWudKJCcIFTjWlnOgAKubQt0sEqa4QKa_JBpshdDVGyMdi1OudekOEC9nFNdoNUfABihkca3Vcsfp-TWc2ZyL1cyPRCBSycUuq0K6zqAuIl0m_XbWAu2HRxFc3TUib1pEEIOFK4kLQ_fhp4wWM83KEGuwsGjH_h_f4gCNPuDXpjedjgxpqTD2SbodZf-VTLcm5EqnnikobyzyrfJRvQnt3Q&__tn__=-R) team cleaning area around camp on Samos\.
 
 The eviction of squats in Exarchia is still a cause of rage in Athens\. The [Refugee Hotel City Plaza](https://www.facebook.com/.../a.15696.../2063116393980693/...) issued a statement saying how the “government and police use refugees as scapegoats”\.
 
 
-![](assets/8438f811bff3/1*BcIZiY62HbUYPqcMyAqafQ.jpeg)
+![](../assets/8438f811bff3/1*BcIZiY62HbUYPqcMyAqafQ.jpeg)
 
 
 _“Refugees have been turned into scapegoats for pre\-election purposes\. Refugee targeting does not harm mafia, but it strengthens the racist stereotype of identifying “foreigners / refugees” with criminal activity and of course, opens the way to fascist violence\.”_
@@ -73,7 +73,7 @@ _“Refugees have been turned into scapegoats for pre\-election purposes\. Refug
 A beautiful act of solidarity with people on the island of Lesvos comes from Poland where a group of activists established [The Hope Project Poland](https://m.facebook.com/story.php?story_fbid=2021253811303054&id=1997736086988160) to support refugees stuck on the island\.
 
 
-![](assets/8438f811bff3/1*K9ZluzZ4sSjZnn0cdEg-ag.jpeg)
+![](../assets/8438f811bff3/1*K9ZluzZ4sSjZnn0cdEg-ag.jpeg)
 
 
 In Poland, people who are supporting this project come from 12 cities\. All detailed information can be found on their website [www\.thppolska\.org](http://www.thppolska.org) \.
@@ -123,11 +123,11 @@ Among those who come to seek assistance in Info Park, was an 18\-year old boy fr
 In the meantime, more and more people are arriving to Tuzla, crossing over the river Drina, from Serbia\. Local people provide the help, while the government and IOM and UNHCR are, more or less, ignoring the situation\.
 
 
-![](assets/8438f811bff3/1*Ryi4iNE5lLsxeuQFxr2V2A.jpeg)
+![](../assets/8438f811bff3/1*Ryi4iNE5lLsxeuQFxr2V2A.jpeg)
 
 
 
-![Tea with friends in Tuzla\. By Senad Cupo\.](assets/8438f811bff3/1*muCQinBgV2CyFmQYtS51EA.jpeg)
+![Tea with friends in Tuzla\. By Senad Cupo\.](../assets/8438f811bff3/1*muCQinBgV2CyFmQYtS51EA.jpeg)
 
 Tea with friends in Tuzla\. By Senad Cupo\.
 ### France
@@ -135,11 +135,11 @@ Tea with friends in Tuzla\. By Senad Cupo\.
 Many people who cross over the Balkans continue their way toward Calais, hoping to arrive to the UK\. The number of people living in the jungle around Calais is constantly rising\.
 
 
-![](assets/8438f811bff3/1*ik-YEHDkEMqdSK1RYS5V8g.jpeg)
+![](../assets/8438f811bff3/1*ik-YEHDkEMqdSK1RYS5V8g.jpeg)
 
 
 
-![Calais by [Chiara Lauvergnac](https://www.facebook.com/chiara.lauvergnac/posts/10156581997129092)](assets/8438f811bff3/1*BnrIIwwckjXzd5XpO34VGA.jpeg)
+![Calais by [Chiara Lauvergnac](https://www.facebook.com/chiara.lauvergnac/posts/10156581997129092)](../assets/8438f811bff3/1*BnrIIwwckjXzd5XpO34VGA.jpeg)
 
 Calais by [Chiara Lauvergnac](https://www.facebook.com/chiara.lauvergnac/posts/10156581997129092)
 
@@ -150,7 +150,7 @@ To find out more, follow [Chiara Lauvergnac](https://www.facebook.com/chiara.lau
 One more beutiful act of solidarity\. [Collectif Appel d’air](https://www.facebook.com/CalaisLibre/posts/797868390586117) organized a gathering on April 12, 2019, in memory of those who died “by wanting to go to the end of their dream”\. There were close to 200 people\.
 
 
-![By [Collectif Appel d’air](https://www.facebook.com/CalaisLibre/posts/797868390586117)](assets/8438f811bff3/1*PTPwjlNOhXFHiEbdg8Y30Q.jpeg)
+![By [Collectif Appel d’air](https://www.facebook.com/CalaisLibre/posts/797868390586117)](../assets/8438f811bff3/1*PTPwjlNOhXFHiEbdg8Y30Q.jpeg)
 
 By [Collectif Appel d’air](https://www.facebook.com/CalaisLibre/posts/797868390586117)
 ### Switzerland

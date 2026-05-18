@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,mediterranean,search-and-rescue]
 description: 
 image:
-  path: assets/fec2a33e1add/0*cBP9LXXx5xXwp05q
+  path: ../assets/fec2a33e1add/0*cBP9LXXx5xXwp05q
 ---
 
 ### AYS Daily Digest 17/05/2021 — Hundreds of People in Distress Across the Mediterranean
 ### 56 People Pushed Back From Cyprus//Racist Statements From Top Greek Prosecutor//Police Confining People to Camps in Serbia
 
 
-![](assets/fec2a33e1add/0*3kRFWevc6NhNxoZg.jpeg)
+![](../assets/fec2a33e1add/0*3kRFWevc6NhNxoZg.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----8a19a43007d4--------------------------------)
@@ -22,7 +22,7 @@ image:
 [May 18](ays-daily-digest-17-05-2021-hundreds-of-people-in-distress-across-the-mediterranean-8a19a43007d4?source=post_page-----8a19a43007d4--------------------------------) · 7 min read
 
 
-![](assets/fec2a33e1add/0*cBP9LXXx5xXwp05q)
+![](../assets/fec2a33e1add/0*cBP9LXXx5xXwp05q)
 
 
 Photo from the commemoration event for Mawda, who was killed by Belgian police three years ago\. Photo from [Refugee Women’s Centre](https://twitter.com/RWC_CalaisDK/status/1394349114830249989?fbclid=IwAR119aKtRUbOjhs420BYc5GiOYTfCoJIKfSyrPjJpR_ZDnAcwN_be6Y-MRU)

@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 10–11/7/21: Afghanistan has requested Europe to stop deportation to Afghanistan
+title: "AYS Weekend Digest 10–11/7/21: Afghanistan has requested Europe to stop deportation to Afghanistan"
 author: Are You Syrious?
 date: 2021-07-12T12:51:30.869+0100
 last_modified_at: 2021-07-12T19:24:25.139+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,europe,afghanistan,deportations]
 description: A man takes his life in the Greek Schisto camp / SAR at sea / Volunteers wanted in Paris / How the UK’s play on semantics affect victims…
 image:
-  path: assets/7837c7b2cf0d/1*X6VMPqznPPCedPQuafGqpQ.jpeg
+  path: ../assets/7837c7b2cf0d/1*X6VMPqznPPCedPQuafGqpQ.jpeg
 ---
 
 ### AYS Weekend Digest 10–11/7/21: Afghanistan has requested Europe to stop deportation to Afghanistan
 #### A man takes his life in the Greek Schisto camp / SAR at sea / Volunteers wanted in Paris / How the UK’s play on semantics affect victims becoming criminals — a commentary / What the EU plans to spend on enforcing borders through Frontex / recommended reads & more
 
 
-![Awarded illustration by Iranian artist Saman Torabi](assets/7837c7b2cf0d/1*X6VMPqznPPCedPQuafGqpQ.jpeg)
+![Awarded illustration by Iranian artist Saman Torabi](../assets/7837c7b2cf0d/1*X6VMPqznPPCedPQuafGqpQ.jpeg)
 
 Awarded illustration by Iranian artist Saman Torabi
 #### FEATURED
@@ -59,7 +59,7 @@ Seit Juni wurden 2400 Visa ausgestellt. https://t.co/g5KBTIaZQL
 Survivors say a spark in the ammunition depot caused the blast at the centre in Gharyan and that there were several injuries, as well as possible death\.
 
 
-![](assets/7837c7b2cf0d/0*kt1-Qp57w2CjqFyf.jpg)
+![](../assets/7837c7b2cf0d/0*kt1-Qp57w2CjqFyf.jpg)
 
 
 
@@ -117,7 +117,7 @@ With @[GCRefugees](https://twitter.com/GCRefugees) @[Hellenic_League](https://tw
 ### Volunteers wanted
 
 
-![[Solidarité migrants Wilson](https://web.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__cft__[0]=AZVoUpZD2HnMWQbiv782IUxtXzCMxyzZSIVqJ9eI6BbdunXxQIvnC31G3LhT1yGm8ofhfnqXH0U6zXI5J75OnzVysZdQxf2Hb7RGEpAIO6qn1v19aBeBzuIKEvy4eoy3Q9vJzxvr_kOba1vRyGNdV_m9bPxLZe55TLWY_1suj3nmelgxGskUfGdsR21CIoAmVv2QwBCMNEdsqrOuyGw5p-IG&__tn__=-UC%2CP-y-R)](assets/7837c7b2cf0d/0*fgvCq0pWCcCfkZ4p)
+![[Solidarité migrants Wilson](https://web.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__cft__[0]=AZVoUpZD2HnMWQbiv782IUxtXzCMxyzZSIVqJ9eI6BbdunXxQIvnC31G3LhT1yGm8ofhfnqXH0U6zXI5J75OnzVysZdQxf2Hb7RGEpAIO6qn1v19aBeBzuIKEvy4eoy3Q9vJzxvr_kOba1vRyGNdV_m9bPxLZe55TLWY_1suj3nmelgxGskUfGdsR21CIoAmVv2QwBCMNEdsqrOuyGw5p-IG&__tn__=-UC%2CP-y-R)](../assets/7837c7b2cf0d/0*fgvCq0pWCcCfkZ4p)
 
 [Solidarité migrants Wilson](https://web.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__cft__[0]=AZVoUpZD2HnMWQbiv782IUxtXzCMxyzZSIVqJ9eI6BbdunXxQIvnC31G3LhT1yGm8ofhfnqXH0U6zXI5J75OnzVysZdQxf2Hb7RGEpAIO6qn1v19aBeBzuIKEvy4eoy3Q9vJzxvr_kOba1vRyGNdV_m9bPxLZe55TLWY_1suj3nmelgxGskUfGdsR21CIoAmVv2QwBCMNEdsqrOuyGw5p-IG&__tn__=-UC%2CP-y-R)
 
@@ -137,7 +137,7 @@ A number of extremely clever lawyers have been puzzling over why the new immigra
 
 
 
-![](assets/7837c7b2cf0d/0*2RPJJXy8XXwsZ_ZB)
+![](../assets/7837c7b2cf0d/0*2RPJJXy8XXwsZ_ZB)
 
 
 

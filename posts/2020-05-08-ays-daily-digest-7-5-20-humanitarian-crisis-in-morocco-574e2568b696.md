@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 7/5/20: Humanitarian Crisis in Morocco
+title: "AYS Daily Digest 7/5/20: Humanitarian Crisis in Morocco"
 author: Are You Syrious?
 date: 2020-05-08T19:20:52.570+0100
 last_modified_at: 2020-05-08T21:58:49.488+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,migrants,refugees,morocco,human-rights]
 description: Worsening situation aboard MV Marina///Proposed Asylum Law in Greece Sparking Criticism///Growing Concerns Over Conditions in…
 image:
-  path: assets/574e2568b696/1*LQ7hlHKl64SAi6r-6bWoFQ.jpeg
+  path: ../assets/574e2568b696/1*LQ7hlHKl64SAi6r-6bWoFQ.jpeg
 ---
 
 ### AYS Daily Digest 7/5/20: Humanitarian Crisis in Morocco
@@ -16,7 +16,7 @@ image:
 #### MOROCCO
 
 
-![Photo: [Salaheddine Lemaizi](https://www.facebook.com/salaheddinelemaizi?__tn__=%2CdlCH-R-R&eid=ARAKKAyK5JcNpEn4YreqehGwpQYvvXBDprqy_O3pUNN57xLjapBTRAdol-Aa9R7gnvXesOVlAdkfmuLb&hc_ref=ARSL7HYWussgPnulfa_PXI8IhnRcD1gQeHRMJB_JThPvshdgJPPKqyIEA41T3vVRSsA&ref=nf_target&hc_location=group)](assets/574e2568b696/1*LQ7hlHKl64SAi6r-6bWoFQ.jpeg)
+![Photo: [Salaheddine Lemaizi](https://www.facebook.com/salaheddinelemaizi?__tn__=%2CdlCH-R-R&eid=ARAKKAyK5JcNpEn4YreqehGwpQYvvXBDprqy_O3pUNN57xLjapBTRAdol-Aa9R7gnvXesOVlAdkfmuLb&hc_ref=ARSL7HYWussgPnulfa_PXI8IhnRcD1gQeHRMJB_JThPvshdgJPPKqyIEA41T3vVRSsA&ref=nf_target&hc_location=group)](../assets/574e2568b696/1*LQ7hlHKl64SAi6r-6bWoFQ.jpeg)
 
 Photo: [Salaheddine Lemaizi](https://www.facebook.com/salaheddinelemaizi?__tn__=%2CdlCH-R-R&eid=ARAKKAyK5JcNpEn4YreqehGwpQYvvXBDprqy_O3pUNN57xLjapBTRAdol-Aa9R7gnvXesOVlAdkfmuLb&hc_ref=ARSL7HYWussgPnulfa_PXI8IhnRcD1gQeHRMJB_JThPvshdgJPPKqyIEA41T3vVRSsA&ref=nf_target&hc_location=group)
 

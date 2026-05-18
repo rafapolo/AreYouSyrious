@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,malta,unhcr-libya,bolzano]
 description: Nationality-based limitations lifted for UNHCR in Libya /// Rescue boats back in the Central and Eastern Med /// Critical conditions in…
 image:
-  path: assets/f7d158cb75ff/1*QsBe28VhI_sakpj6qCaK2w.jpeg
+  path: ../assets/f7d158cb75ff/1*QsBe28VhI_sakpj6qCaK2w.jpeg
 ---
 
 ### AYS Daily Digest 22/10/2019 — More than 100 people face charges after riot in Hal Far, Malta\.
 #### Nationality\-based limitations lifted for UNHCR in Libya /// Rescue boats back in the Central and Eastern Med /// Critical conditions in reception centre in Bolzano, Italy /// Croatian organisations ask for country’s Schengen membership to be conditioned to human rights respect…
 
 
-![Already Forgotten\. Yesterday in Porto Empedocle \(Sicily\) 9 more bodies were taken ashore of the 25 victims of the shipwreck occurred on October 7\. “Among them, one baby was found embraced to who could have been his mother\. 3 bodies that cannot be recovered will remain forever at the bottom of the sea\.” \(by [Angela Caponneto](https://twitter.com/AngiKappa/status/1186656177603727360?fbclid=IwAR0iZoQvHW6l59vzjPVFhjAVreel3im54ouggF_X0hB-lEhkWq7zyOqFJ1E) \)](assets/f7d158cb75ff/1*QsBe28VhI_sakpj6qCaK2w.jpeg)
+![Already Forgotten\. Yesterday in Porto Empedocle \(Sicily\) 9 more bodies were taken ashore of the 25 victims of the shipwreck occurred on October 7\. “Among them, one baby was found embraced to who could have been his mother\. 3 bodies that cannot be recovered will remain forever at the bottom of the sea\.” \(by [Angela Caponneto](https://twitter.com/AngiKappa/status/1186656177603727360?fbclid=IwAR0iZoQvHW6l59vzjPVFhjAVreel3im54ouggF_X0hB-lEhkWq7zyOqFJ1E) \)](../assets/f7d158cb75ff/1*QsBe28VhI_sakpj6qCaK2w.jpeg)
 
 Already Forgotten\. Yesterday in Porto Empedocle \(Sicily\) 9 more bodies were taken ashore of the 25 victims of the shipwreck occurred on October 7\. “Among them, one baby was found embraced to who could have been his mother\. 3 bodies that cannot be recovered will remain forever at the bottom of the sea\.” \(by [Angela Caponneto](https://twitter.com/AngiKappa/status/1186656177603727360?fbclid=IwAR0iZoQvHW6l59vzjPVFhjAVreel3im54ouggF_X0hB-lEhkWq7zyOqFJ1E) \)
 #### Feature story: More than 100 people face charges after riot in Hal Far, Malta\.
@@ -74,7 +74,7 @@ EASTERN MEDITERRANEAN ROUTE
 #### Mare Liberum back to the Aegean Sea
 
 
-![\(Photo Credit: [Mare Liberum](https://www.facebook.com/MareLiberumOfficial/posts/488136968581878?hc_location=ufi) \)](assets/f7d158cb75ff/1*YupOfiw8UDkkyrBYxwhZUg.jpeg)
+![\(Photo Credit: [Mare Liberum](https://www.facebook.com/MareLiberumOfficial/posts/488136968581878?hc_location=ufi) \)](../assets/f7d158cb75ff/1*YupOfiw8UDkkyrBYxwhZUg.jpeg)
 
 \(Photo Credit: [Mare Liberum](https://www.facebook.com/MareLiberumOfficial/posts/488136968581878?hc_location=ufi) \)
 
@@ -92,11 +92,11 @@ You can support them [here](https://bit.ly/2qElwxv) \.
 #### A Wave of Hope in Moria
 
 
-![](assets/f7d158cb75ff/1*vCtGDf5smCZlRgM0z7xQIQ.jpeg)
+![](../assets/f7d158cb75ff/1*vCtGDf5smCZlRgM0z7xQIQ.jpeg)
 
 
 
-![\(Photo Credit: [Nassim Lomani](https://www.facebook.com/photo.php?fbid=10157593230627497&set=pcb.10157593227917497&type=3&ifg=1&__tn__=HH-R&eid=ARBcNLj7_YETRyUrCzyRar6o5olo8ZoQEvVrQyUMTyKQhTwsffq4Ste4HizhA3-jB1UNmyej3CIIwAJS) \)](assets/f7d158cb75ff/1*lp3Ws_nkmEs4wrYg3Y9Yow.jpeg)
+![\(Photo Credit: [Nassim Lomani](https://www.facebook.com/photo.php?fbid=10157593230627497&set=pcb.10157593227917497&type=3&ifg=1&__tn__=HH-R&eid=ARBcNLj7_YETRyUrCzyRar6o5olo8ZoQEvVrQyUMTyKQhTwsffq4Ste4HizhA3-jB1UNmyej3CIIwAJS) \)](../assets/f7d158cb75ff/1*lp3Ws_nkmEs4wrYg3Y9Yow.jpeg)
 
 \(Photo Credit: [Nassim Lomani](https://www.facebook.com/photo.php?fbid=10157593230627497&set=pcb.10157593227917497&type=3&ifg=1&__tn__=HH-R&eid=ARBcNLj7_YETRyUrCzyRar6o5olo8ZoQEvVrQyUMTyKQhTwsffq4Ste4HizhA3-jB1UNmyej3CIIwAJS) \)
 
@@ -199,11 +199,11 @@ Legal pathways such as evacuations and resettlement would save refugees from har
 #### Report from Bolzano reception centre
 
 
-![](assets/f7d158cb75ff/1*MXwgFiAWqJMsSm0Bw3P0Sg.jpeg)
+![](../assets/f7d158cb75ff/1*MXwgFiAWqJMsSm0Bw3P0Sg.jpeg)
 
 
 
-![CAS ex\-Casa Einaudi \(Bolzano\) — By [Melting Pot Europe](https://www.meltingpot.org/Bolzano-Le-drammatiche-condizioni-dell-accoglienza-al-CAS.html?fbclid=IwAR37b2atFT1nk7XF42VXeTNYgQx1V5seLWf7JT3y0936HSIVm1zqs_e2anU#.Xa9yhr-xWEc)](assets/f7d158cb75ff/1*-DIWUuqWOSURrAWSTZco0Q.jpeg)
+![CAS ex\-Casa Einaudi \(Bolzano\) — By [Melting Pot Europe](https://www.meltingpot.org/Bolzano-Le-drammatiche-condizioni-dell-accoglienza-al-CAS.html?fbclid=IwAR37b2atFT1nk7XF42VXeTNYgQx1V5seLWf7JT3y0936HSIVm1zqs_e2anU#.Xa9yhr-xWEc)](../assets/f7d158cb75ff/1*-DIWUuqWOSURrAWSTZco0Q.jpeg)
 
 CAS ex\-Casa Einaudi \(Bolzano\) — By [Melting Pot Europe](https://www.meltingpot.org/Bolzano-Le-drammatiche-condizioni-dell-accoglienza-al-CAS.html?fbclid=IwAR37b2atFT1nk7XF42VXeTNYgQx1V5seLWf7JT3y0936HSIVm1zqs_e2anU#.Xa9yhr-xWEc)
 
@@ -234,7 +234,7 @@ FRANCE
 #### Hundreds of refugees are back in Dunkerque
 
 
-![Dunkerque, northern France \(Photo by [Simon Shaw](https://www.facebook.com/simon.shaw.39982/posts/1308444382696257) \)](assets/f7d158cb75ff/1*zFM1uvMujmfhMPgNwuODFA.jpeg)
+![Dunkerque, northern France \(Photo by [Simon Shaw](https://www.facebook.com/simon.shaw.39982/posts/1308444382696257) \)](../assets/f7d158cb75ff/1*zFM1uvMujmfhMPgNwuODFA.jpeg)
 
 Dunkerque, northern France \(Photo by [Simon Shaw](https://www.facebook.com/simon.shaw.39982/posts/1308444382696257) \)
 

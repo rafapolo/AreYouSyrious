@@ -1,13 +1,13 @@
 ---
-title: AYS Daily Digest 23/6/21 — Greece: #Vial15 under trial
+title: "AYS Daily Digest 23/6/21 — Greece: #Vial15 under trial"
 author: Are You Syrious?
 date: 2021-06-24T11:39:26.059+0100
 last_modified_at: 2021-06-24T12:10:35.648+0100
 categories: Are You Syrious?
 tags: [digest,refugees,chios,nojusticenopeace,napier]
-description: Spain: National authorities attempt to stop solidarity in Ceuta — UK: 5 people climb in to Napier Barracks — more…
+description: "Spain: National authorities attempt to stop solidarity in Ceuta — UK: 5 people climb in to Napier Barracks — more…"
 image:
-  path: assets/2387b8eb0fbe/1*Erwd33DRj-d_gK37uA9ceg.jpeg
+  path: ../assets/2387b8eb0fbe/1*Erwd33DRj-d_gK37uA9ceg.jpeg
 ---
 
 ### AYS Daily Digest 23/6/2021 — Greece: \#Vial15 under trial
@@ -15,7 +15,7 @@ image:
 Spain: National authorities attempt to stop solidarity in Ceuta // UK: Five people climb in to Napier Barracks // Central Mediterranean: LCG don’t intervene but ban available rescue ships from doing so // France: More evictions in Croatia
 
 
-![Solidarity banner at Mytilene’s court, Lesvos, 22/06/2021 \( [Credit: Can’t Evict Solidarity](https://twitter.com/cantevict/status/1407288655765458945/photo/1) \)](assets/2387b8eb0fbe/1*Erwd33DRj-d_gK37uA9ceg.jpeg)
+![Solidarity banner at Mytilene’s court, Lesvos, 22/06/2021 \( [Credit: Can’t Evict Solidarity](https://twitter.com/cantevict/status/1407288655765458945/photo/1) \)](../assets/2387b8eb0fbe/1*Erwd33DRj-d_gK37uA9ceg.jpeg)
 
 Solidarity banner at Mytilene’s court, Lesvos, 22/06/2021 \( [Credit: Can’t Evict Solidarity](https://twitter.com/cantevict/status/1407288655765458945/photo/1) \)
 #### Featured — Greece: \#Vial15 under trial

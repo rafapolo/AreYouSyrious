@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 02/05/17: Human rights group calls for suspension of EASO from involvement in…
+title: "AYS Daily Digest 02/05/17: Human rights group calls for suspension of EASO from involvement in…"
 author: Are You Syrious?
 date: 2017-05-03T06:15:23.233+0100
 last_modified_at: 2017-05-03T17:29:27.383+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: Aid reaches besieged city in Syria after six months. Increased Schengen checks proposed to be lifted in November. Greek medical system…
 image:
-  path: assets/4a46d3e19c33/1*q-cySg7AM0f8-hqMFdj_SA.jpeg
+  path: ../assets/4a46d3e19c33/1*q-cySg7AM0f8-hqMFdj_SA.jpeg
 ---
 
 ### AYS Daily Digest 02/05/17: Human rights group calls for suspension of EASO from involvement in Greece\.
@@ -15,7 +15,7 @@ image:
 _Aid reaches besieged city in Syria after six months\. Increased Schengen checks proposed to be lifted in November\. Greek medical system unable to properly treat injured refugee children\. Cultural centers seek to bridge gaps between refugee communities and the local community\. Implementation of food rations system leaves 10% of camp residents without food\. Continued evictions and paperwork hell in Italy\._
 
 
-![Photo credit: Open Cultural Center](assets/4a46d3e19c33/1*q-cySg7AM0f8-hqMFdj_SA.jpeg)
+![Photo credit: Open Cultural Center](../assets/4a46d3e19c33/1*q-cySg7AM0f8-hqMFdj_SA.jpeg)
 
 Photo credit: Open Cultural Center
 ### FEATURE
@@ -50,12 +50,12 @@ At least [37 people have been killed in a series of suicide bombings](http://www
 In spite of rough waves, [SOS MEDITERRANEE](https://www.facebook.com/SOSMEDITERRANEE/?fref=nf) safely disembarked their passengers to Sicily before returning to the seas in search of more people in distress\. The photos of those rescued can be seen below\.
 
 
-![Photo credit: SOS Mediterranee](assets/4a46d3e19c33/1*NoHE8A_mJY6EkQ0FoFJ1LQ.jpeg)
+![Photo credit: SOS Mediterranee](../assets/4a46d3e19c33/1*NoHE8A_mJY6EkQ0FoFJ1LQ.jpeg)
 
 Photo credit: SOS Mediterranee
 
 
-![Photo Credit: SOS Mediterranee](assets/4a46d3e19c33/1*PNcoiSAAG4TDOvp_Pj10VQ.jpeg)
+![Photo Credit: SOS Mediterranee](../assets/4a46d3e19c33/1*PNcoiSAAG4TDOvp_Pj10VQ.jpeg)
 
 Photo Credit: SOS Mediterranee
 
@@ -104,7 +104,7 @@ The transition to food cards has left around 10% of refugees in Oinofyta camp wi
 If you wish to respond to this urgent call, go to their page [here](https://www.facebook.com/doyourpartdisasters/?hc_ref=SEARCH) \.
 
 
-![Greek Police Officer lets refugee children play on motorbike\. Photo credit: Ihab Abassi](assets/4a46d3e19c33/1*e2PT8zVOMp6mhunUVryRBw.jpeg)
+![Greek Police Officer lets refugee children play on motorbike\. Photo credit: Ihab Abassi](../assets/4a46d3e19c33/1*e2PT8zVOMp6mhunUVryRBw.jpeg)
 
 Greek Police Officer lets refugee children play on motorbike\. Photo credit: Ihab Abassi
 #### Thessaloniki
@@ -120,7 +120,7 @@ A few weeks ago, Open Cultural Center, along with many other groups and partners
 The pictures of joy on everyone’s faces highlights how we can all pull together and make something beautiful in the face of a system that wishes to pit one against another\. In an environment that is oversaturated with stories about factioning within camps or hotspots, stories like this are important\.
 
 
-![Trampoline fun\! Photo credit: Open Cultural Center](assets/4a46d3e19c33/1*3X2OL7ygnPjEz7oefiWTCg.jpeg)
+![Trampoline fun\! Photo credit: Open Cultural Center](../assets/4a46d3e19c33/1*3X2OL7ygnPjEz7oefiWTCg.jpeg)
 
 Trampoline fun\! Photo credit: Open Cultural Center
 
@@ -154,7 +154,7 @@ A free MOOC \(Massive Open Online Course\) on the topic of Children’s Human Ri
 
 
 
-![Mural Painting\. Photo Credit: Open Cultural Center](assets/4a46d3e19c33/1*23K0yolKxaHKKtbVw7MjdA.jpeg)
+![Mural Painting\. Photo Credit: Open Cultural Center](../assets/4a46d3e19c33/1*23K0yolKxaHKKtbVw7MjdA.jpeg)
 
 Mural Painting\. Photo Credit: Open Cultural Center
 ### ITALY

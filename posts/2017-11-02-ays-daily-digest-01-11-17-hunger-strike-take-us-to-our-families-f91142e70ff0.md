@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 01/11/17: Hunger strike — Take us to our families!
+title: "AYS Daily Digest 01/11/17: Hunger strike — Take us to our families!"
 author: Are You Syrious?
 date: 2017-11-02T00:00:49.418+0000
 last_modified_at: 2017-11-02T07:11:29.171+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,greece,mediterranean,germany,italy]
 description: 900 people rescued at sea // 5 on hunger strike hospitalized, more join // Thousands still without cash cards in Greece // Claims of fast…
 image:
-  path: assets/f91142e70ff0/1*JBHDD40gzgesHCOuStjlZA.jpeg
+  path: ../assets/f91142e70ff0/1*JBHDD40gzgesHCOuStjlZA.jpeg
 ---
 
 ### AYS Daily Digest 01/11/17: Hunger strike — Take us to our families\!
@@ -15,7 +15,7 @@ image:
 900 people rescued at sea // 5 on hunger strike hospitalized, more join // Thousands still without cash cards in Greece // Claims of fast track deportations to Turkey // Germany slowing down asylum processes // Arrivals to Italy dropped 70% // Volunteers needed for winter // and more
 
 
-![](assets/f91142e70ff0/1*JBHDD40gzgesHCOuStjlZA.jpeg)
+![](../assets/f91142e70ff0/1*JBHDD40gzgesHCOuStjlZA.jpeg)
 
 ### Feature
 
@@ -24,7 +24,7 @@ Another protest started today, this time in the heart of Athens, in front of the
 It was widely reported today that a group of mainly Syrian women and children who have been stranded in Greece placed tents at 11am in front of the Greek parliament to protest against delays in reuniting with relatives in Germany\. Some of the refugees have been in Greece for over a year\. With the reports last May that Greece and Germany informally agreed to slow down refugee reunification \(this is denied by Greece\), it is understandable that levels of stress among refugees take them to extreme measures like a hunger strike, already seen over and over again throughout Greece and beyond\. At this moment there is also a hunger strike happening in Lesvos to protest against the terrible conditions refugees have to endure on the island\.
 
 
-![Picture by [**dromografos News‏**](https://twitter.com/dromografosNews)](assets/f91142e70ff0/1*4Dtc6HtnpGZe3htf8BzlSg.jpeg)
+![Picture by [**dromografos News‏**](https://twitter.com/dromografosNews)](../assets/f91142e70ff0/1*4Dtc6HtnpGZe3htf8BzlSg.jpeg)
 
 Picture by [**dromografos News‏**](https://twitter.com/dromografosNews)
 
@@ -37,7 +37,7 @@ The protesters demand their fundamental right to family reunification and a dign
 3\. The Greek authorities to pay for their flights as provided by law\.
 
 
-![Photo by [**Refugee Accommodation and Solidarity Space City Plaza**](https://www.facebook.com/sol2refugeesen/?hc_ref=ARRjaoRaqZzWQ12BJsEczsyjsYPk1Jx0_je37EgfT0GE7mmsXSM9HDGs3N-Mf8khTsg)](assets/f91142e70ff0/1*B7AVrJbE1D_4VKKcXPqCkA.jpeg)
+![Photo by [**Refugee Accommodation and Solidarity Space City Plaza**](https://www.facebook.com/sol2refugeesen/?hc_ref=ARRjaoRaqZzWQ12BJsEczsyjsYPk1Jx0_je37EgfT0GE7mmsXSM9HDGs3N-Mf8khTsg)](../assets/f91142e70ff0/1*B7AVrJbE1D_4VKKcXPqCkA.jpeg)
 
 Photo by [**Refugee Accommodation and Solidarity Space City Plaza**](https://www.facebook.com/sol2refugeesen/?hc_ref=ARRjaoRaqZzWQ12BJsEczsyjsYPk1Jx0_je37EgfT0GE7mmsXSM9HDGs3N-Mf8khTsg)
 
@@ -108,7 +108,7 @@ City Plaza posted a call for solidarity about this initiative:
 
 
 
-![Photo by [**Gabrielle Tan**](https://www.facebook.com/gabrielle.tan?hc_ref=ARRDUM6rnn3Xqeo3Rx4ujIacCxIougnDR7Ik12aj1y5Dqk-O5S8NCCWsTNYTTEwlggs)](assets/f91142e70ff0/1*P0BQwGa08JTTR36kWyaBow.jpeg)
+![Photo by [**Gabrielle Tan**](https://www.facebook.com/gabrielle.tan?hc_ref=ARRDUM6rnn3Xqeo3Rx4ujIacCxIougnDR7Ik12aj1y5Dqk-O5S8NCCWsTNYTTEwlggs)](../assets/f91142e70ff0/1*P0BQwGa08JTTR36kWyaBow.jpeg)
 
 Photo by [**Gabrielle Tan**](https://www.facebook.com/gabrielle.tan?hc_ref=ARRDUM6rnn3Xqeo3Rx4ujIacCxIougnDR7Ik12aj1y5Dqk-O5S8NCCWsTNYTTEwlggs)
 ### Sea
@@ -118,7 +118,7 @@ It was a very intense day today in the Mediterranean\. Unfortunately 7 bodies we
 [**SOS MEDITERRANEE GER‏**](https://twitter.com/SOSMedGermany) has made various updates of the difficult situations throughout the day and reported that after a day of rescuing 3 rubber boats, [SOSMedGermany](https://twitter.com/SOSMedGermany) and [MSF\_Sea](https://twitter.com/MSF_Sea) teams welcomed more than 500 people who are now safe\. The second rescue they had to do was very difficult and turned critical with dozens of people jumping into the water before life jackets were distributed\.
 
 
-![Photo by [**SOS MEDITERRANEE GER‏**](https://twitter.com/SOSMedGermany)](assets/f91142e70ff0/1*QXcrK6i5IX_hQMEpuO8FrA.jpeg)
+![Photo by [**SOS MEDITERRANEE GER‏**](https://twitter.com/SOSMedGermany)](../assets/f91142e70ff0/1*QXcrK6i5IX_hQMEpuO8FrA.jpeg)
 
 Photo by [**SOS MEDITERRANEE GER‏**](https://twitter.com/SOSMedGermany)
 
@@ -129,7 +129,7 @@ Photo by [**SOS MEDITERRANEE GER‏**](https://twitter.com/SOSMedGermany)
 
 
 
-![Photo by [**MSF Sea**](https://twitter.com/MSF_Sea)](assets/f91142e70ff0/1*CHlDoVzSod_3PIM_X4QkUQ.jpeg)
+![Photo by [**MSF Sea**](https://twitter.com/MSF_Sea)](../assets/f91142e70ff0/1*CHlDoVzSod_3PIM_X4QkUQ.jpeg)
 
 Photo by [**MSF Sea**](https://twitter.com/MSF_Sea)
 
@@ -139,7 +139,7 @@ Photo by [**MSF Sea**](https://twitter.com/MSF_Sea)
 The hunger strike continues on Lesvos and is now on its 14th day in Sapfous, Mytelini\. Five female refugees, four of whom are minors have joined the other protesters\. Sadly 5 of the refugees, that have gone all these days without food, had to be transferred to hospital to receive treatment as reported by the activist [**Arash Hampay‏**](https://twitter.com/AHampay) **\.**
 
 
-![Photo by [**arash hampay‏**](https://twitter.com/AHampay)](assets/f91142e70ff0/1*BngJINMP_xiP0lT1D3vdAA.jpeg)
+![Photo by [**arash hampay‏**](https://twitter.com/AHampay)](../assets/f91142e70ff0/1*BngJINMP_xiP0lT1D3vdAA.jpeg)
 
 Photo by [**arash hampay‏**](https://twitter.com/AHampay)
 #### Islands
@@ -162,7 +162,7 @@ Asylum service workers have today started a 2 day strike to demand a permanent j
 [**Refugee Info Bus**](https://www.facebook.com/RefugeeInfoBus/) has been researching the cash card cover for refugees in Greece and worked out that many still don’t have access to this basic support provided by UNHCR\.
 
 
-![](assets/f91142e70ff0/1*ADbC96NdHYRbtQf5ThVQPw.png)
+![](../assets/f91142e70ff0/1*ADbC96NdHYRbtQf5ThVQPw.png)
 
 
 You can consult the official data [here](http://data2.unhcr.org/en/situations/mediterranean/location/5179) \.
@@ -170,7 +170,7 @@ You can consult the official data [here](http://data2.unhcr.org/en/situations/me
 Volunteers are still needed on mainland Greece and [**We Are Here — Community Centre**](https://www.facebook.com/WeAreHereCentre/?hc_ref=ARQKwoVzpWwTr5_LC1NpTssnPM46pdDjeFgc_AgwrCMj0CzLmF3tsxOgxF6tWnL83oU) is in need of people to come and join their team of volunteers in Nea Kavala refuee camp in Northern Greece\. The situation has largely fallen out of the news and grassroots groups across Greece are facing a fall in volunteer numbers for the upcoming months so if you can, please get in touch with them\. They do a range of educational and recreational activities for adults and children — English classes, sports, arts and crafts, a library, a space, cooking, dance, and music\.
 
 
-![Photo by [**We Are Here — Community Centre**](https://www.facebook.com/WeAreHereCentre/?hc_ref=ARRqmrteKi5z-rO7xAzVz1rJI92we45QbdoinFPSB47YB6xdzv16IFgc9GUKRi5UDWU)](assets/f91142e70ff0/1*cX-2leFzG4Om1tCb6DIX4A.jpeg)
+![Photo by [**We Are Here — Community Centre**](https://www.facebook.com/WeAreHereCentre/?hc_ref=ARRqmrteKi5z-rO7xAzVz1rJI92we45QbdoinFPSB47YB6xdzv16IFgc9GUKRi5UDWU)](../assets/f91142e70ff0/1*cX-2leFzG4Om1tCb6DIX4A.jpeg)
 
 Photo by [**We Are Here — Community Centre**](https://www.facebook.com/WeAreHereCentre/?hc_ref=ARRqmrteKi5z-rO7xAzVz1rJI92we45QbdoinFPSB47YB6xdzv16IFgc9GUKRi5UDWU)
 
@@ -201,7 +201,7 @@ In other news from Italy, it was reported also today that Italian police found *
 [**Mobile Refugee Support**](https://www.facebook.com/MobileRefugeeSupport/?hc_ref=ARQQoiaA8JWjjQEnVZU0cFzT2v9Z4MWy34vW-HEJUBgD2MdLr2_BAKFtNOfupdHTSWY) reports from the north of France where winter is slowly but surely arriving and conditions are deteriorating for the hundreds of refugees living in those areas\.
 
 
-![](assets/f91142e70ff0/1*xdFf29X-azIRvB72vPwvuA.jpeg)
+![](../assets/f91142e70ff0/1*xdFf29X-azIRvB72vPwvuA.jpeg)
 
 
 

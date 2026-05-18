@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 30/11/22: UK Home Office plan to rollout ‘smartwatches’ to monitor the movement of…
+title: "AYS News Digest 30/11/22: UK Home Office plan to rollout ‘smartwatches’ to monitor the movement of…"
 author: Are You Syrious?
 date: 2022-12-01T22:52:05.502+0000
 last_modified_at: 2022-12-02T00:25:52.699+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,immigration,european-union,human-rights]
 description: Germany’s immigration reform — securing more skilled workers//Shocking figures on the UK-Afghan Resettlement Scheme//Fair Trials…
 image:
-  path: assets/92277fd19c12/0*17ZkVv2v487cbUf-.jpeg
+  path: ../assets/92277fd19c12/0*17ZkVv2v487cbUf-.jpeg
 ---
 
 ### AYS News Digest 30/11/22: UK Home Office plan to rollout ‘smartwatches’ to monitor the movement of asylum seekers
 ### Germany’s immigration reform — securing more skilled workers//Shocking figures on the UK\-Afghan Resettlement Scheme//Fair Trials documentary explores fundamental rights abuses by Frontex//Lighthouse Reports has been investigating the events in Melilla on 24th June//Forty\-four charities call for an independent investigation into Manston// and much more…
 
 
-![_InfoMigrants — From file: Migrants on a rubber dinghy are pictured during a rescue operation, off the coast of Libya in the Mediterranean Sea, 13 November 2020\. Picture taken 13 November 2020 \| Photo: REUTERS/Stringer_](assets/92277fd19c12/0*17ZkVv2v487cbUf-.jpeg)
+![_InfoMigrants — From file: Migrants on a rubber dinghy are pictured during a rescue operation, off the coast of Libya in the Mediterranean Sea, 13 November 2020\. Picture taken 13 November 2020 \| Photo: REUTERS/Stringer_](../assets/92277fd19c12/0*17ZkVv2v487cbUf-.jpeg)
 
 _InfoMigrants — From file: Migrants on a rubber dinghy are pictured during a rescue operation, off the coast of Libya in the Mediterranean Sea, 13 November 2020\. Picture taken 13 November 2020 \| Photo: REUTERS/Stringer_
 #### GREECE
@@ -33,7 +33,7 @@ The only programme that does exist for refugees is the Helios programme\. It is 
 At the time, the young girl was part of a group of 38 asylum seekers, mainly from Afghanistan and Syria, who were stuck on the islet\. She was reportedly stung by a scorpion and as a result died shortly afterwards\.
 
 
-![](assets/92277fd19c12/0*SvzkeakIzfmdo5TW.jpg)
+![](../assets/92277fd19c12/0*SvzkeakIzfmdo5TW.jpg)
 
 
 However, it has since been questioned whether this girl did in fact die and whether she ever existed\. This comes at a time when the Greek authorities make it difficult for journalists and NGOs to access the Evros region as it is a military zone\. In addition, the government has been targeting organisations, activists, and journalists who report and support asylum seekers in Greece\. They have actively challenged, attempted to discredit, and criminalise the work of NGOs and journalists\. Despite lots of testimonies of individuals who have been stuck in the Evros region, the Greek media rarely reports on this\. As a result of all these factors, there is still an ongoing discussion regarding the young girl on the islet and there is no clear understanding as to what happened\.
@@ -142,7 +142,7 @@ However, it very quickly became a political debate, where the team was being use
 In 2018, France won the World Cup once again — 17 of the 23 players were eligible to play for at least one other country\. In the 2022 tournament, once again the team is ethnically diverse, and the country hopes that their success will bring a sense of unity once again and overshadow the recent racial conversations throughout the recent presidential campaign\.
 
 
-![Kylian Mbappe celebrates with his teammates after scoring France’s fourth goal against Argentina at the 2018 World Cup in Russia \[File: Pilar Olivares/Reuters\]](assets/92277fd19c12/0*nXUV5X2QQs_JU4EC)
+![Kylian Mbappe celebrates with his teammates after scoring France’s fourth goal against Argentina at the 2018 World Cup in Russia \[File: Pilar Olivares/Reuters\]](../assets/92277fd19c12/0*nXUV5X2QQs_JU4EC)
 
 Kylian Mbappe celebrates with his teammates after scoring France’s fourth goal against Argentina at the 2018 World Cup in Russia \[File: Pilar Olivares/Reuters\]
 
@@ -168,7 +168,7 @@ More than 45% of Ukrainians have reported that they have struggled to access the
 [Thousands of Homes for Ukraine hosts urge Rishi Sunak to increase refugee support \(politicshome\.com\)](https://www.politicshome.com/news/article/homes-for-ukraine-sanctuary-foundation-letter-refugees-support-rishi-sunak)
 
 
-![](assets/92277fd19c12/0*NTgLmYaYXUqL2kx6.jpg)
+![](../assets/92277fd19c12/0*NTgLmYaYXUqL2kx6.jpg)
 
 #### 44 charities call for an independent investigation into Manston
 
@@ -186,7 +186,7 @@ In addition, one individual passed away from diphtheria and another 50 people ar
 [Charities call for Windrush\-style inquiry into Manston asylum failings \| Manston asylum centre \| The Guardian](https://www.theguardian.com/uk-news/2022/nov/29/charities-call-for-windrush-style-inquiry-into-manston-asylum-failings)
 
 
-![Cramped and unsanitary conditions at Manston risked the health of refugees and Home Office staff, say the charities\. Photograph: Henry Nicholls/Reuters](assets/92277fd19c12/0*PpIMk63i1akEvtsx)
+![Cramped and unsanitary conditions at Manston risked the health of refugees and Home Office staff, say the charities\. Photograph: Henry Nicholls/Reuters](../assets/92277fd19c12/0*PpIMk63i1akEvtsx)
 
 Cramped and unsanitary conditions at Manston risked the health of refugees and Home Office staff, say the charities\. Photograph: Henry Nicholls/Reuters
 #### Shocking figures on the Afghan Resettlement Scheme

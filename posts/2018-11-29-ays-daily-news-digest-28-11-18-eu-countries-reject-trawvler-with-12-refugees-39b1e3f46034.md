@@ -1,5 +1,5 @@
 ---
-title: AYS Daily News Digest 28/11/18: EU countries reject trawvler with 12 refugees
+title: "AYS Daily News Digest 28/11/18: EU countries reject trawvler with 12 refugees"
 author: Are You Syrious?
 date: 2018-11-29T11:02:24.463+0000
 last_modified_at: 2018-11-29T12:30:47.075+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [europe,digest]
 description: Refugee dies in Slovenian river//Deportations to Afghanistan continue//New hunger strike at Yarl’s Wood removal centre//
 image:
-  path: assets/39b1e3f46034/0*3z6_JNll2AQpzXCJ.jpeg
+  path: ../assets/39b1e3f46034/0*3z6_JNll2AQpzXCJ.jpeg
 ---
 
 ### AYS Daily News Digest 28/11/18: EU countries reject trawler with 12 refugees
@@ -15,7 +15,7 @@ image:
 _Refugee dies in Slovenian river//Deportations to Afghanistan continue//New hunger strike at Yarl’s Wood removal centre//_
 
 
-![Photo by Seawatch](assets/39b1e3f46034/0*3z6_JNll2AQpzXCJ.jpeg)
+![Photo by Seawatch](../assets/39b1e3f46034/0*3z6_JNll2AQpzXCJ.jpeg)
 
 Photo by Seawatch
 #### Feature
@@ -64,7 +64,7 @@ Mobile Info Team says:
 
 
 
-![Idomeni, 2016\. Photo by Bordermonitoring\.eu](assets/39b1e3f46034/0*OgUml_V0358npQVJ.jpg)
+![Idomeni, 2016\. Photo by Bordermonitoring\.eu](../assets/39b1e3f46034/0*OgUml_V0358npQVJ.jpg)
 
 Idomeni, 2016\. Photo by Bordermonitoring\.eu
 #### Bosnia and Herzegovina
@@ -83,15 +83,15 @@ The group of six were then arrested and pushed back to Croatia\. All of them cam
 They are now back in Bosnia being treated for injuries inflicted on them by the Croatian police\.
 
 
-![](assets/39b1e3f46034/1*yAhanFp8lg78FYp-OkyzsA.jpeg)
+![](../assets/39b1e3f46034/1*yAhanFp8lg78FYp-OkyzsA.jpeg)
 
 
 
-![](assets/39b1e3f46034/1*l_8gN07VsVz1GPA7Q341aA.jpeg)
+![](../assets/39b1e3f46034/1*l_8gN07VsVz1GPA7Q341aA.jpeg)
 
 
 
-![Photo AYS](assets/39b1e3f46034/1*DV8EYyQ9fcYt63I2bXWleg.jpeg)
+![Photo AYS](../assets/39b1e3f46034/1*DV8EYyQ9fcYt63I2bXWleg.jpeg)
 
 Photo AYS
 
@@ -101,7 +101,7 @@ With temperatures dropping below freezing at night, the routes taken from Bosnia
 ### Deportations to Afghanistan
 
 
-![Photo by ECADA — European Citizens Against Deportation to Afghanistan](assets/39b1e3f46034/0*pD88FQ000yunH-88)
+![Photo by ECADA — European Citizens Against Deportation to Afghanistan](../assets/39b1e3f46034/0*pD88FQ000yunH-88)
 
 Photo by ECADA — European Citizens Against Deportation to Afghanistan
 

@@ -1,5 +1,5 @@
 ---
-title: DAILY DIGEST 2/7/2018: Germany to establish closed centers near its border with Austria
+title: "DAILY DIGEST 2/7/2018: Germany to establish closed centers near its border with Austria"
 author: Are You Syrious?
 date: 2018-07-03T12:47:18.544+0100
 last_modified_at: 2018-07-03T12:47:18.544+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,germany,balkans]
 description: For the sake of election victory, politicians are ready to do everything. The best example is what is happening now in Germany…
 image:
-  path: assets/8b9e0a0f7f68/1*8XCFO213gVSscdfj7iPhRw.jpeg
+  path: ../assets/8b9e0a0f7f68/1*8XCFO213gVSscdfj7iPhRw.jpeg
 ---
 
 ### DAILY DIGEST 2/7/2018: Germany to establish closed centers near its border with Austria
@@ -15,7 +15,7 @@ image:
 _For the sake of election victory, politicians are ready to do everything\. The best example is what is happening now in Germany\. Unfortunately, it will have domino effect and soon the European Union will start making its final steps toward building barricades to stop people\. For people on the move who are stuck in the Balkans this could turn into real nightmare, with no the end_
 
 
-![Photo by Gabriel Tizon, from the EU border in Velika Kladusa, Bosnia and Herzegovina, where thousands are stack at the moment\.](assets/8b9e0a0f7f68/1*8XCFO213gVSscdfj7iPhRw.jpeg)
+![Photo by Gabriel Tizon, from the EU border in Velika Kladusa, Bosnia and Herzegovina, where thousands are stack at the moment\.](../assets/8b9e0a0f7f68/1*8XCFO213gVSscdfj7iPhRw.jpeg)
 
 Photo by Gabriel Tizon, from the EU border in Velika Kladusa, Bosnia and Herzegovina, where thousands are stack at the moment\.
 ### Feature
@@ -76,7 +76,7 @@ Reisch was in command of the Lifeline when it saved 234 people near the Libyan c
 [Sea\-Watch](https://sea-watch.org/en/321/) learned today that its vessel is detained in Malta, without any legal grounds provided by authorities\.
 
 
-![Photo by Sea Watch](assets/8b9e0a0f7f68/1*L_3wXoAuTrQVSlKRBsrQ4Q.jpeg)
+![Photo by Sea Watch](../assets/8b9e0a0f7f68/1*L_3wXoAuTrQVSlKRBsrQ4Q.jpeg)
 
 Photo by Sea Watch
 
@@ -95,7 +95,7 @@ Total of 229 new arrivals were [registered](https://www.facebook.com/AegeanBoatR
 It the morning, six boats arrived on different islands\. Two boats were picked up outside Agios Dimitris, Lesvos north\. One boat arrived on Samos carrying 46 people\. Three boats arrived on Chios with 129 people\. Also, one boat arrived on Kos with nine people\.
 
 
-![By Aegean Boat Report\.](assets/8b9e0a0f7f68/1*_fvKD_KDsmpfxE3A2IheVw.jpeg)
+![By Aegean Boat Report\.](../assets/8b9e0a0f7f68/1*_fvKD_KDsmpfxE3A2IheVw.jpeg)
 
 By Aegean Boat Report\.
 #### Urgent call from Chios\!
@@ -128,19 +128,19 @@ By Aegean Boat Report\.
 
 
 
-![](assets/8b9e0a0f7f68/1*5p4YdTCslbS2W1u9-ZLbzg.jpeg)
+![](../assets/8b9e0a0f7f68/1*5p4YdTCslbS2W1u9-ZLbzg.jpeg)
 
 
 
-![](assets/8b9e0a0f7f68/1*YAcgnnoplsuwgVZIvvs8rw.jpeg)
+![](../assets/8b9e0a0f7f68/1*YAcgnnoplsuwgVZIvvs8rw.jpeg)
 
 
 
-![](assets/8b9e0a0f7f68/1*mf7nAAy97yzt92Ovg6mLCg.jpeg)
+![](../assets/8b9e0a0f7f68/1*mf7nAAy97yzt92Ovg6mLCg.jpeg)
 
 
 
-![](assets/8b9e0a0f7f68/1*eBkMNRZhbeoX7HUM5ebPEQ.jpeg)
+![](../assets/8b9e0a0f7f68/1*eBkMNRZhbeoX7HUM5ebPEQ.jpeg)
 
 
 
@@ -207,7 +207,7 @@ Most of the residents in this camp are Syrian Kurds who arrived from the Greece 
 City of Paris removes water points for refugees, [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?hc_ref=ARQ7Fge2wjNreez6ZEqO-0S6oAglx8X9-wjo8bJCJfUcUvxibq7NJgkvs7HgWz3xYqs) reports\.
 
 
-![](assets/8b9e0a0f7f68/1*taIYPIBEguATEyGLFF_VcA.jpeg)
+![](../assets/8b9e0a0f7f68/1*taIYPIBEguATEyGLFF_VcA.jpeg)
 
 
 Additionally, French police continues kicking people while they are sleeping in the parks\.

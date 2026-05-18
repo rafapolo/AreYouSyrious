@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 19/11/2019: Leaked video shows horrific fate of man who avoided conscription
+title: "AYS DAILY DIGEST 19/11/2019: Leaked video shows horrific fate of man who avoided conscription"
 author: Are You Syrious?
 date: 2019-11-20T08:26:33.977+0000
 last_modified_at: 2019-11-20T08:26:33.977+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,syria,digest,police-brutality,human-rights]
 description: A man who returned to Syria and was conscripted was horrifically murdered by Russian paramilitaries // 6,000 Syrians pushed out from…
 image:
-  path: assets/83d33a245b6d/1*njvEfcJiLIakgS8uTPULRQ.jpeg
+  path: ../assets/83d33a245b6d/1*njvEfcJiLIakgS8uTPULRQ.jpeg
 ---
 
 ### AYS DAILY DIGEST 19/11/2019: Leaked video shows horrific fate of man who avoided conscription
@@ -15,7 +15,7 @@ image:
 _A man who returned to Syria and was conscripted was horrifically murdered by Russian paramilitaries // 6,000 Syrians pushed out from Istanbul // Statement on squat “evacuation” in Greece // More detailed report on shootings of people in Croatia // And more…_
 
 
-![Photo Credit: Angelos Tzortzinis via Art Against](assets/83d33a245b6d/1*njvEfcJiLIakgS8uTPULRQ.jpeg)
+![Photo Credit: Angelos Tzortzinis via Art Against](../assets/83d33a245b6d/1*njvEfcJiLIakgS8uTPULRQ.jpeg)
 
 Photo Credit: Angelos Tzortzinis via Art Against
 ### **FEATURE**

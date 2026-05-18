@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 13/11/17: Rescue Group Calls Upon UNHCR to Investigate Turkish Coast Guard…
+title: "AYS Daily Digest 13/11/17: Rescue Group Calls Upon UNHCR to Investigate Turkish Coast Guard…"
 author: Are You Syrious?
 date: 2017-11-14T08:19:02.274+0000
 last_modified_at: 2017-11-14T23:53:24.513+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,sea-rescue,unhcr,turkey,athens]
 description: //Sea-Watch releases footage/ /Hunger strike and police brutality on Lesvos//Press conference for strikers in Athens//Alleged trafficker…
 image:
-  path: assets/c28e5f536310/1*6DUTDttWU82SCr3OjdqESA.jpeg
+  path: ../assets/c28e5f536310/1*6DUTDttWU82SCr3OjdqESA.jpeg
 ---
 
 ### AYS Daily Digest 13/11/17: Rescue Group Calls Upon UNHCR to Investigate Turkish Coast Guard Brutality
@@ -15,7 +15,7 @@ image:
 _//Sea\-Watch releases footage/ /Hunger strike and police brutality on Lesvos//Press conference for strikers in Athens//Alleged trafficker shot//Classes in Athens//Sleeping rough in Serbia//Refugees Captured in Bulgaria//Deportation stopped in Slovenia//and more…_
 
 
-![Photo Credit: Sea\-Watch](assets/c28e5f536310/1*6DUTDttWU82SCr3OjdqESA.jpeg)
+![Photo Credit: Sea\-Watch](../assets/c28e5f536310/1*6DUTDttWU82SCr3OjdqESA.jpeg)
 
 Photo Credit: Sea\-Watch
 ### Sea
@@ -57,7 +57,7 @@ Sea\-Watch released the [complete footage](https://www.facebook.com/seawatchproj
 A ship was intercepted off the coast of [Crotone, Italy](http://www.ansa.it/calabria/notizie/2017/11/13/intercettato-veliero-con-58-migranti_3704026e-b456-43c9-a4e5-c2286dd6256e.html) carrying 58 refugees from Iraqi Kurdistan\.
 
 
-![The Aquarius rescue ship\. Photo Credit: [SOS MEDITERANNEE France](https://www.facebook.com/sosmedfrance/) \.](assets/c28e5f536310/1*ps_tpTQ4l_zeVOvWYHYcuQ.jpeg)
+![The Aquarius rescue ship\. Photo Credit: [SOS MEDITERANNEE France](https://www.facebook.com/sosmedfrance/) \.](../assets/c28e5f536310/1*ps_tpTQ4l_zeVOvWYHYcuQ.jpeg)
 
 The Aquarius rescue ship\. Photo Credit: [SOS MEDITERANNEE France](https://www.facebook.com/sosmedfrance/) \.
 
@@ -68,7 +68,7 @@ The French sea rescue organization SOS MEDITERRANEE announced today that the dep
 Today is the twenty fifth consecutive day of hunger striking for those who are protesting in Sappho Square on the island of Lesvos\. They are protesting the inhumane and unsafe conditions in the Moria camp on the island\. Today those who have been protesting put out a call for a [march on the 20th](https://www.facebook.com/events/190376544856311/) of November, starting at Sappho Square, to show solidarity and put pressure on the authorities\.
 
 
-![Strikers in Sappho Square\. Photo Credit: Arash Hampay](assets/c28e5f536310/1*Wcra0jqxsVHuGJkt9u5Gnw.jpeg)
+![Strikers in Sappho Square\. Photo Credit: Arash Hampay](../assets/c28e5f536310/1*Wcra0jqxsVHuGJkt9u5Gnw.jpeg)
 
 Strikers in Sappho Square\. Photo Credit: Arash Hampay
 
@@ -113,7 +113,7 @@ The [Dirty Girls of Lesvos Island](https://www.facebook.com/dirtygirlslesvos/) i
 Those who are hunger striking in Syntagma Square in Athens are now on their 14th day\. As has been reported earlier this week, they are protesting the extreme delays in their family reunifications, which have already been granted\. The strikers have announced their intention to hold a press conference on [14 November](https://www.facebook.com/events/168256843763476/) to bring more attention to this issue\. From the striker’s statement:
 
 
-![Protestors in Syntagma Square\. Photo Credit: [Greek Forum of Refugees](https://www.facebook.com/Greekforumofrefugees/)](assets/c28e5f536310/1*e3azXG_KCrAsTvwgZ5GeKQ.jpeg)
+![Protestors in Syntagma Square\. Photo Credit: [Greek Forum of Refugees](https://www.facebook.com/Greekforumofrefugees/)](../assets/c28e5f536310/1*e3azXG_KCrAsTvwgZ5GeKQ.jpeg)
 
 Protestors in Syntagma Square\. Photo Credit: [Greek Forum of Refugees](https://www.facebook.com/Greekforumofrefugees/)
 
@@ -174,7 +174,7 @@ Most municipalities [in Italy](https://www.ilfattoquotidiano.it/2017/11/12/migra
 A solidarity musical march has been planned for [Sunday 19 November](https://www.facebook.com/retesolidalepn/posts/1982875068659976) in Piazzetta Cavour in Pordenone\. The march is to protest the condition refugees in the area are being forced to I've in, and to draw attention to the large number of refugees who are sleeping rough on the streets\. As the weather gets colder, it will become even more dangerous for those sleeping outside, and activists and volunteers are trying to create solutions to this issue before human lives become endangered again\. The event will begin at 11h\.
 
 
-![](assets/c28e5f536310/1*q5Zhum5MEyqXQICr4Plp8Q.jpeg)
+![](../assets/c28e5f536310/1*q5Zhum5MEyqXQICr4Plp8Q.jpeg)
 
 
 The [Phone Credit for Refugees and Displaced People](https://www.facebook.com/credit4refugees/) organization has recently put out a call for donations, reminding us of the importance one phone call can have for someone who is separated from their family\. For many refugees living in Europe, phones are not merely a distraction, but a vital lifeline to friends and family, and a way to access resources and information\. While this organization is partly based in Italy, they do important work throughout Europe\. You can support them [here](https://www.facebook.com/credit4refugees/) \.

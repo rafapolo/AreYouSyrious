@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 11/10/19: Mouldy bread for desperate people stuck in
+title: "AYS Daily Digest 11/10/19: Mouldy bread for desperate people stuck in"
 author: Are You Syrious?
 date: 2019-10-12T12:36:46.269+0100
 last_modified_at: 2019-10-12T15:22:06.115+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,europe,migration]
 description: Sweden re-evaluating deportation to Syria / poor health assistance to people on the move in BiH / deportations scheduled from Austria /…
 image:
-  path: assets/8adfeea21532/1*4t4JKpROGwxBYeTOtQDanw.jpeg
+  path: ../assets/8adfeea21532/1*4t4JKpROGwxBYeTOtQDanw.jpeg
 ---
 
 ### AYS Daily Digest 11/10/19: Mouldy bread for desperate people stuck in overcrowded camps
 #### Sweden re\-evaluating deportation to Syria / poor health assistance to people on the move in BiH / deportations scheduled from Austria / &more news
 
 
-![[Elena Depi De Piccoli](https://web.facebook.com/elena.depiccoli?__tn__=%2Cd%2AF%2AF-R&eid=ARDZgDpFm22n2QNbYqcPqEZXpgnP2ivq_7H0LmRh1FJ6okhc0i5XRL2X8hwXL9IQnB-LBSovK4kOipuv&tn-str=%2AF)](assets/8adfeea21532/1*4t4JKpROGwxBYeTOtQDanw.jpeg)
+![[Elena Depi De Piccoli](https://web.facebook.com/elena.depiccoli?__tn__=%2Cd%2AF%2AF-R&eid=ARDZgDpFm22n2QNbYqcPqEZXpgnP2ivq_7H0LmRh1FJ6okhc0i5XRL2X8hwXL9IQnB-LBSovK4kOipuv&tn-str=%2AF)](../assets/8adfeea21532/1*4t4JKpROGwxBYeTOtQDanw.jpeg)
 
 [Elena Depi De Piccoli](https://web.facebook.com/elena.depiccoli?__tn__=%2Cd%2AF%2AF-R&eid=ARDZgDpFm22n2QNbYqcPqEZXpgnP2ivq_7H0LmRh1FJ6okhc0i5XRL2X8hwXL9IQnB-LBSovK4kOipuv&tn-str=%2AF)
 ### FEATURED
@@ -141,7 +141,7 @@ In Vučjak, medical assistance is still a big issue\. Recently the volunteer tea
 
 
 
-![](assets/8adfeea21532/1*nXU3fMdSZAINSBciG668oQ.jpeg)
+![](../assets/8adfeea21532/1*nXU3fMdSZAINSBciG668oQ.jpeg)
 
 ### AUSTRIA
 

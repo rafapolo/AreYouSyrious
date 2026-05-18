@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 18/03/2021: The EU-Turkey deal, 5 years on
+title: "AYS Daily Digest 18/03/2021: The EU-Turkey deal, 5 years on"
 author: Are You Syrious?
 date: 2021-03-19T16:44:38.379+0000
 last_modified_at: 2021-03-19T16:44:38.379+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: []
 description: Are You Syrious?
 image:
-  path: assets/c13a83775a21/0*VtCWEjS8hfPExcVN.jpeg
+  path: ../assets/c13a83775a21/0*VtCWEjS8hfPExcVN.jpeg
 ---
 
 ### AYS Daily Digest 18/03/2021: The EU\-Turkey deal, 5 years on
@@ -17,7 +17,7 @@ image:
 [Mar 19](ays-daily-digest-18-02-2021-5-years-of-eu-turkey-deal-275dc22d914e?source=post_page-----275dc22d914e--------------------------------) · 6 min read
 
 
-![](assets/c13a83775a21/0*VtCWEjS8hfPExcVN.jpeg)
+![](../assets/c13a83775a21/0*VtCWEjS8hfPExcVN.jpeg)
 
 
 Copyright: NoNameKitchen

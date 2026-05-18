@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 12/02/2020: Italian MP ‘migrant kidnapping’ trial
+title: "AYS Daily Digest 12/02/2020: Italian MP ‘migrant kidnapping’ trial"
 author: Are You Syrious?
 date: 2020-02-13T08:59:11.109+0000
 last_modified_at: 2020-02-13T11:38:11.362+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugee,europe,italy,police]
 description: MP to face trial in Italy / Torture in Turkey / Rescued boat found in Spain / Failings of the Dutch asylum system
 image:
-  path: assets/58d5e11a46ef/1*5kBZPFVX2JSVoK8p_7YqWQ.jpeg
+  path: ../assets/58d5e11a46ef/1*5kBZPFVX2JSVoK8p_7YqWQ.jpeg
 ---
 
 ### AYS Daily Digest 12/02/2020: Italian MP ‘migrant kidnapping’ trial
@@ -15,7 +15,7 @@ image:
 MP to face trial in Italy / Torture in Turkey / Rescued boat found in Spain / Failings of the Dutch asylum system
 
 
-![Patras, Greece \(Photo Credit: Chrysoula Patsou\)](assets/58d5e11a46ef/1*5kBZPFVX2JSVoK8p_7YqWQ.jpeg)
+![Patras, Greece \(Photo Credit: Chrysoula Patsou\)](../assets/58d5e11a46ef/1*5kBZPFVX2JSVoK8p_7YqWQ.jpeg)
 
 Patras, Greece \(Photo Credit: Chrysoula Patsou\)
 ### Feature

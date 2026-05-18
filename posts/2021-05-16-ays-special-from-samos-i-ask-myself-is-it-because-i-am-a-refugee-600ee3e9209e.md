@@ -1,5 +1,5 @@
 ---
-title: AYS Special from Samos: “I ask myself, is it because I am a refugee? …”
+title: "AYS Special from Samos: “I ask myself, is it because I am a refugee? …”"
 author: Are You Syrious?
 date: 2021-05-16T10:51:30.697+0100
 last_modified_at: 2021-05-16T21:35:42.423+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [special,homophobia,transphobia,greece,refugees]
 description: 
 image:
-  path: assets/600ee3e9209e/0*6PFFbwirnioVlGEH
+  path: ../assets/600ee3e9209e/0*6PFFbwirnioVlGEH
 ---
 
 ### AYS Special from Samos: “I ask myself, is it because I am a refugee? Because I am a woman of colour? Or because I am LGBTQI\+?”
@@ -16,7 +16,7 @@ _May 17 is International Day against Homo, Bi and Trans\- phobia and to mark thi
 #### **Liliane’s Story: “ _Never lose hope, the world is big, you’ll be accepted somewhere”_**
 
 
-![\(le texte original en français se trouve à la fin de l’article\)](assets/600ee3e9209e/0*6PFFbwirnioVlGEH)
+![\(le texte original en français se trouve à la fin de l’article\)](../assets/600ee3e9209e/0*6PFFbwirnioVlGEH)
 
 \(le texte original en français se trouve à la fin de l’article\)
 
@@ -56,7 +56,7 @@ My story is very long, here is the short version\. I ask my LGBTQI\+ community n
 #### **Aled’s Story “Welcome to the Open”**
 
 
-![](assets/600ee3e9209e/0*5qDKhGWdjwtBrpLc)
+![](../assets/600ee3e9209e/0*5qDKhGWdjwtBrpLc)
 
 
 My name is Aled, I’m gay and I hate myself for it, here is why…\.
@@ -103,7 +103,7 @@ For the ones suffering in silence, for the ones who are afraid and in danger: ne
 #### **John’s Story: “No choice but to deny who am I _”_**
 
 
-![](assets/600ee3e9209e/0*lpEkuoILrQZzA0Mf)
+![](../assets/600ee3e9209e/0*lpEkuoILrQZzA0Mf)
 
 
 This is my story, choosing to live as myself, as a gay man\. It is my personal will and by choice\.

@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL FROM ATHENS: One night in Exarcheia
+title: "AYS SPECIAL FROM ATHENS: One night in Exarcheia"
 author: Are You Syrious?
 date: 2018-12-28T09:52:46.746+0000
 last_modified_at: 2018-12-29T18:48:37.852+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [refugees,exarcheia,athens,special,asylum-seekers]
 description: The night I slept in Exarcheia was perhaps the turning point. My phone had been stolen, I had been caught at the airport six times, each…
 image:
-  path: assets/47ffe294a4cc/1*KG_Uozx65FrATJRjrnBbMA.jpeg
+  path: ../assets/47ffe294a4cc/1*KG_Uozx65FrATJRjrnBbMA.jpeg
 ---
 
 ### AYS SPECIAL FROM ATHENS: One night in Exarcheia
 
 
-![](assets/47ffe294a4cc/1*KG_Uozx65FrATJRjrnBbMA.jpeg)
+![](../assets/47ffe294a4cc/1*KG_Uozx65FrATJRjrnBbMA.jpeg)
 
 
 The night I slept in Exarcheia was perhaps the turning point\. My phone had been stolen, I had been caught at the airport six times, each time returned\. I had even once dyed my hair blond and worn coloured lenses to appear more ‘European’ — it seems so ridiculous now\.
@@ -29,7 +29,7 @@ This was the first fine of forty similar fines I would receive over the next two
 Why did I go to Katekhaki? Because six months previously I had not attended my asylum interview — I had been far too focused on the idea of getting out of Greece to find my brother in Sweden\. Besides, no one helped you in Greece, there was no accommodation, the only option for me was the squats\. It did not feel like a place that offered stability, or a future\. But now it seemed like I needed to change my plan, and so I went to Katekhaki and took my asylum card and the date for my interview, which was to be three months later\. I returned to Exarcheia, managed to stay in a squat for three days and there met a group of Spanish people who were to offer me my first place to stay\.
 
 
-![](assets/47ffe294a4cc/1*F1sB0shqibFFE_Lfinzs8A.jpeg)
+![](../assets/47ffe294a4cc/1*F1sB0shqibFFE_Lfinzs8A.jpeg)
 
 
 I began to plan\. To me, the most important things was finding a job, and so I thought about what seemed to me to be a previous life, but one that had given me experiences that now I could draw upon\.

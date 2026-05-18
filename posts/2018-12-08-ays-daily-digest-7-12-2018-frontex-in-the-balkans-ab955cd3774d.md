@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 7/12/2018: Frontex in the Balkans?!
+title: "AYS DAILY DIGEST 7/12/2018: Frontex in the Balkans?!"
 author: Are You Syrious?
 date: 2018-12-08T14:50:56.804+0000
 last_modified_at: 2018-12-08T14:50:56.804+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [refugees,bosnia,european-union,frontex,digest]
 description: Are You Syrious?
 image:
-  path: assets/ab955cd3774d/1*b43S5VT4dhsjW1xRJGtWnQ.jpeg
+  path: ../assets/ab955cd3774d/1*b43S5VT4dhsjW1xRJGtWnQ.jpeg
 ---
 
 ### AYS DAILY DIGEST 7/12/2018: Frontex in the Balkans?\!
 
 
-![](assets/ab955cd3774d/1*Tx1u1RSutf5fWmPbOOmJVA.jpeg)
+![](../assets/ab955cd3774d/1*Tx1u1RSutf5fWmPbOOmJVA.jpeg)
 
 
 [Are You Syrious?](https://medium.com/@AreYouSyrious?source=post_header_lockup)
@@ -23,7 +23,7 @@ Dec 8
 _Above 70 percent of people in Yemen do not have enough food // Forced returns of Syrians from Lebanon // UNHCR to open centre in Tripoli together with the government // Strengthening of the FRONTEX mandate // Single men discriminated against at registration in Belgium // Bosnian police continues unlawful internal push\-backs // More people going back from Bosnia to Serbia due to lack of decent accommodation // Despite all the difficulties, solidarity still lives in Bosnia_
 
 
-![This photo is from France, but could be Belgium, Bosnia, Serbia, Greece, Italy… anywhere in Europe where basic human rights of the people on the move are neglected\. Photo by Help Refugees\.](assets/ab955cd3774d/1*b43S5VT4dhsjW1xRJGtWnQ.jpeg)
+![This photo is from France, but could be Belgium, Bosnia, Serbia, Greece, Italy… anywhere in Europe where basic human rights of the people on the move are neglected\. Photo by Help Refugees\.](../assets/ab955cd3774d/1*b43S5VT4dhsjW1xRJGtWnQ.jpeg)
 
 This photo is from France, but could be Belgium, Bosnia, Serbia, Greece, Italy… anywhere in Europe where basic human rights of the people on the move are neglected\. Photo by Help Refugees\.
 ### FEATURE
@@ -58,7 +58,7 @@ Serbia, Bosnia, Albania and other Balkan countries have either signed or are in 
 Additionally, the Council concluded that Frontex will also be able to _“deploy experts as liaison officers, who will form part of the local or regional cooperation networks of immigration liaison officers and security experts of the EU and the member states\. Priority will be given to the deployment of liaison officers in countries of origin and transit\.”_
 
 
-![Migratory myopia\. By Brady Izquierdo Rodríguez](assets/ab955cd3774d/1*Tf3dzvvfhovg1IhnonVAmQ.jpeg)
+![Migratory myopia\. By Brady Izquierdo Rodríguez](../assets/ab955cd3774d/1*Tf3dzvvfhovg1IhnonVAmQ.jpeg)
 
 Migratory myopia\. By Brady Izquierdo Rodríguez
 ### YEMEN
@@ -147,7 +147,7 @@ Predominantly cloudy with occasional rain, abundant precipitation along the coas
 **The police in the Bihać area continues the unlawful practice of internal push\-backs\.** Since October, they have been preventing people from coming to this area, or arresting people in the streets of Bihać and just driving them out of the Una\-Sana Canton \(the administrative area of which Bihać is the capital\) \. This practice is racist and against all the existing laws in Bosnia, but so far none of the INGOs involved in helping people in Bosnia have tried to prevent this practice or even raise their voice against it in public\.
 
 
-![This is where people stay after police take them off buses or just drive them from Bihac\. Photo Red Cross Kljuc](assets/ab955cd3774d/1*BXRxYUiHK8LPNsyE6z_b7A.jpeg)
+![This is where people stay after police take them off buses or just drive them from Bihac\. Photo Red Cross Kljuc](../assets/ab955cd3774d/1*BXRxYUiHK8LPNsyE6z_b7A.jpeg)
 
 This is where people stay after police take them off buses or just drive them from Bihac\. Photo Red Cross Kljuc
 
@@ -160,7 +160,7 @@ In Velika Kladuša, most of the people have now been moved to temporary accommod
 If you can, please help them to keep running this place\. Soon, a free shop and a day centre will open nearby\.
 
 
-![](assets/ab955cd3774d/1*IK1U9CTR3JWy4FReD4_Hiw.jpeg)
+![](../assets/ab955cd3774d/1*IK1U9CTR3JWy4FReD4_Hiw.jpeg)
 
 ### SERBIA
 

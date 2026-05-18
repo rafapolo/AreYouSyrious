@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 9/6/18: Dangerous fruits of the (in)securitisation
+title: "AYS Daily Digest 9/6/18: Dangerous fruits of the (in)securitisation"
 author: Are You Syrious?
 date: 2018-06-10T11:12:41.028+0100
 last_modified_at: 2018-06-11T13:43:11.436+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,human-rights,migration]
 description: Croatia — what is happening with the family whose children were shot by the police in a van / BiH — dire conditions for many, photo story…
 image:
-  path: assets/195b81efa3ec/1*zK5R9VyAExCzpQlQeajjlg.jpeg
+  path: ../assets/195b81efa3ec/1*zK5R9VyAExCzpQlQeajjlg.jpeg
 ---
 
 ### AYS Daily Digest 9/6/18: Dangerous fruits of the \(in\)securitisation
 #### Croatia — what is happening with the family whose children were shot by the police in a van / BiH — dire conditions for many, photo story from Bihać / Protest in Bremen, a march in Bruxelles / Volunteer teams in Calais area need help / new sea arrivals and struggles of the SAR teams / more news
 
 
-![Bihać, Bosnia and Herzegovina —The unsafe building where refugees are staying at the moment \(see more under BiH\) \(Photo: AYS\)](assets/195b81efa3ec/1*zK5R9VyAExCzpQlQeajjlg.jpeg)
+![Bihać, Bosnia and Herzegovina —The unsafe building where refugees are staying at the moment \(see more under BiH\) \(Photo: AYS\)](../assets/195b81efa3ec/1*zK5R9VyAExCzpQlQeajjlg.jpeg)
 
 Bihać, Bosnia and Herzegovina —The unsafe building where refugees are staying at the moment \(see more under BiH\) \(Photo: AYS\)
 #### FEATURE — Update on the case of children shot by the Croatian police near the Bosnian border
@@ -44,15 +44,15 @@ We do not to believe to the politicians’ statement — AYS submitted the repor
 The boy is still in the hospital, struggling with opening his eyes and drinking water\. We publish this story and the photos with the consent by the families, who want to tell their story\. We hope their voice will be heard\.
 
 
-![](assets/195b81efa3ec/1*cwDpy1ZwM6PXEPdrDgyjbA.jpeg)
+![](../assets/195b81efa3ec/1*cwDpy1ZwM6PXEPdrDgyjbA.jpeg)
 
 
 
-![](assets/195b81efa3ec/1*towvtjaW6QcXYhuCkpG6yg.jpeg)
+![](../assets/195b81efa3ec/1*towvtjaW6QcXYhuCkpG6yg.jpeg)
 
 
 
-![Photos: AYS](assets/195b81efa3ec/1*2N3oAyDDm5rgRN_8UPJa3A.jpeg)
+![Photos: AYS](../assets/195b81efa3ec/1*2N3oAyDDm5rgRN_8UPJa3A.jpeg)
 
 Photos: AYS
 #### SEA
@@ -93,7 +93,7 @@ Photos: AYS
 “After 12 hours in port, without understandable justification from the authorities, while there were 6 SAR cases in the Mediterranean, we are finally stung at sea\. Political attacks against us endanger not only us, but also people in distress\.” — [Sea\-Watch](https://www.facebook.com/seawatchprojekt/)
 
 
-![Photo: Erik Marquardt](assets/195b81efa3ec/1*ThPOzFGeJkXWDBtp-o2yEQ.jpeg)
+![Photo: Erik Marquardt](../assets/195b81efa3ec/1*ThPOzFGeJkXWDBtp-o2yEQ.jpeg)
 
 Photo: Erik Marquardt
 #### GREECE
@@ -131,11 +131,11 @@ AYS visited the former student dormitory in Bihać, where around 700 people come
 It is estimated that the entire region hosts around 2,500 people and in Bihać, apart from the people in the ex\-student dorm, there is about a hundred people staying at the abandoned retirement house that is now a squat\.
 
 
-![](assets/195b81efa3ec/1*C736HcD9DkTuUUatR5tU6Q.jpeg)
+![](../assets/195b81efa3ec/1*C736HcD9DkTuUUatR5tU6Q.jpeg)
 
 
 
-![](assets/195b81efa3ec/1*tQGUD0mxvJT3VXc_OoI29w.jpeg)
+![](../assets/195b81efa3ec/1*tQGUD0mxvJT3VXc_OoI29w.jpeg)
 
 
 Red Cross supplies one meal a day at the abandoned student dormitory, now the refugee centre that hosts the 700 people, the locals bring more food during the day, but it is not a regularly distributed meal service\.
@@ -143,11 +143,11 @@ Red Cross supplies one meal a day at the abandoned student dormitory, now the re
 The situation for those lodged in and around the premises is uncertain, as it is not a safe place to stay, especially for women\. The centre is lacking the most basic amenities\.
 
 
-![](assets/195b81efa3ec/1*LW9pHNnQ5uAj3dtpc2WdKw.jpeg)
+![](../assets/195b81efa3ec/1*LW9pHNnQ5uAj3dtpc2WdKw.jpeg)
 
 
 
-![](assets/195b81efa3ec/1*singyvVCAMHU1lOIoaQT9A.jpeg)
+![](../assets/195b81efa3ec/1*singyvVCAMHU1lOIoaQT9A.jpeg)
 
 
 Clashes between people of different nationality occur often, as is only understandable with such awful conditions prevailing\. Those in the camp report that it is common for people to be badly enough injured that they end up being taken to the hospital\.
@@ -160,11 +160,11 @@ According to the information we received, there is a plan to open another more f
 Just as almost every evening, there were new arrivals in Sarajevo at dinner distribution tonight\. Both families from Syria, young men including unaccompanied minors from North Africa as well as Pakistan and Afghanistan are here\.
 
 
-![](assets/195b81efa3ec/1*Dk9HdkK_-SZ453PKzI7UdA.jpeg)
+![](../assets/195b81efa3ec/1*Dk9HdkK_-SZ453PKzI7UdA.jpeg)
 
 
 
-![](assets/195b81efa3ec/1*zh62xFiRy9LtWJNSX7tEHQ.jpeg)
+![](../assets/195b81efa3ec/1*zh62xFiRy9LtWJNSX7tEHQ.jpeg)
 
 
 People were queuing for food \(which is provided by a local restaurant throughout Ramadan\) and after that blankets and tents\. The same procedures are repeated the every evening\. Meanwhile, the weather is shifting quickly, from 27 degrees and sunshine during the day, to rain showers and much lower temperatures nighttime\. Not much is new, but the number of arrivals are not decreasing\. Sarajevo is for now mainly a location of transit for most people looking to continue their journey north\.
@@ -184,27 +184,27 @@ People were queuing for food \(which is provided by a local restaurant throughou
 
 
 
-![](assets/195b81efa3ec/1*ZLrBXKbTdk8vjd-UE_NKMQ.jpeg)
+![](../assets/195b81efa3ec/1*ZLrBXKbTdk8vjd-UE_NKMQ.jpeg)
 
 
 
-![](assets/195b81efa3ec/1*fBKWbV7QKLlQXNMhObjj7w.jpeg)
+![](../assets/195b81efa3ec/1*fBKWbV7QKLlQXNMhObjj7w.jpeg)
 
 
 
-![](assets/195b81efa3ec/1*3XcSO1Ip0HxkGTS2MxqWlw.jpeg)
+![](../assets/195b81efa3ec/1*3XcSO1Ip0HxkGTS2MxqWlw.jpeg)
 
 
 
-![](assets/195b81efa3ec/1*0CCPiZIk_giuPFcqPNE6vA.jpeg)
+![](../assets/195b81efa3ec/1*0CCPiZIk_giuPFcqPNE6vA.jpeg)
 
 
 
-![](assets/195b81efa3ec/1*xSsq6y1ZhtzEL1ujC5kSSA.jpeg)
+![](../assets/195b81efa3ec/1*xSsq6y1ZhtzEL1ujC5kSSA.jpeg)
 
 
 
-![Photos: NNK](assets/195b81efa3ec/1*Uj4NpuoCjaZUGgk04yMt4w.jpeg)
+![Photos: NNK](../assets/195b81efa3ec/1*Uj4NpuoCjaZUGgk04yMt4w.jpeg)
 
 Photos: NNK
 #### SPAIN
@@ -224,7 +224,7 @@ Photos: NNK
 “The methods are similar to serve the same migration policy of exclusion”, the Morroccan volunteers state\.
 
 
-![Photo: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?hc_ref=ART2JScdrTraidnVXo4Rgsmqhb_Eug5zKL9Q0hRpYCG4q0e4D__K7KqYPxozoowQ2VU&fref=nf)](assets/195b81efa3ec/1*bd4Hx1YDypsJXoCADIpZKQ.jpeg)
+![Photo: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?hc_ref=ART2JScdrTraidnVXo4Rgsmqhb_Eug5zKL9Q0hRpYCG4q0e4D__K7KqYPxozoowQ2VU&fref=nf)](../assets/195b81efa3ec/1*bd4Hx1YDypsJXoCADIpZKQ.jpeg)
 
 Photo: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?hc_ref=ART2JScdrTraidnVXo4Rgsmqhb_Eug5zKL9Q0hRpYCG4q0e4D__K7KqYPxozoowQ2VU&fref=nf)
 #### BELGIUM
@@ -232,19 +232,19 @@ Photo: [Association Marocaine des Droits Humains — Section Nador](https://www.
 [La Voix Des Sans Papiers Bruxelles](https://www.facebook.com/voixsp1/?hc_location=group_dialog) invite to a march that takes place **this Sunday, Juunee 10, from 14h \(2pm\) in Bruxelles at Gare du Nord\.**
 
 
-![](assets/195b81efa3ec/1*T0ugKsEWcB0ObN9ffHo2GQ.jpeg)
+![](../assets/195b81efa3ec/1*T0ugKsEWcB0ObN9ffHo2GQ.jpeg)
 
 #### GERMANY
 
 Several hundred people joined protests of various organizations in Bremen\. One of them was the alliance against the camp im the Gottlieb Daimler Straße\. The residents as well as locals in solidarity once more demanded to shut down the camp and that the ages of the teenagers are being recognized\.
 
 
-![Photos: AYS](assets/195b81efa3ec/1*-1oEbfKAylxfJxqqCYRC7g.jpeg)
+![Photos: AYS](../assets/195b81efa3ec/1*-1oEbfKAylxfJxqqCYRC7g.jpeg)
 
 Photos: AYS
 
 
-![](assets/195b81efa3ec/1*nSA4HWCHJJtGYHGjyhoI9Q.jpeg)
+![](../assets/195b81efa3ec/1*nSA4HWCHJJtGYHGjyhoI9Q.jpeg)
 
 
 To find out more on the topic, please read our [**AYS Special from Germany: Young people in Bremen pushed out of the system**](https://l.facebook.com/l.php?u=https%3A%2F%2Fmedium.com%2Fare-you-syrious%2Fays-special-from-germany-young-people-in-bremen-pushed-out-of-the-system-87c1fca35dc4&h=ATPmIiWGyTmDrkFUASGJ2wJgaHVvg8maCwrZmLdsTbwZVj4y1l4_Dk7BxN-7Wg70zNPmONCWo7-xGDq0uC9r3LuQMGedNuURMG3JCBMvLrQVACsAyQ) \.
@@ -280,11 +280,11 @@ Also, he invites those who haven’t to sign the petition to the French Minister
 
 
 
-![](assets/195b81efa3ec/1*1RV0SH47o8E-DgEwcBvP7w.jpeg)
+![](../assets/195b81efa3ec/1*1RV0SH47o8E-DgEwcBvP7w.jpeg)
 
 
 
-![Photos: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?hc_location=group_dialog)](assets/195b81efa3ec/1*g71ErjmQSv3zQUC7i5_yFQ.jpeg)
+![Photos: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?hc_location=group_dialog)](../assets/195b81efa3ec/1*g71ErjmQSv3zQUC7i5_yFQ.jpeg)
 
 Photos: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?hc_location=group_dialog)
 #### UK

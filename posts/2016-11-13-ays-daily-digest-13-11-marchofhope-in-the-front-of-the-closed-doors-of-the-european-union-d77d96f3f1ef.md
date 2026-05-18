@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 13/11: #MarchOfHope in the front of the closed doors of the European Union
+title: "AYS DAILY DIGEST 13/11: #MarchOfHope in the front of the closed doors of the European Union"
 author: Are You Syrious?
 date: 2016-11-13T22:28:18.653+0000
 last_modified_at: 2016-11-14T07:09:35.615+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,march-of-hope,serbia,softex-camp]
 description: Around 140 people who were marching in protest from Serbia stopped before the border with Croatia // More new arrivals to Italy and Greece…
 image:
-  path: assets/d77d96f3f1ef/1*AsLYl3MFuj5ZGF4UHLSysw.jpeg
+  path: ../assets/d77d96f3f1ef/1*AsLYl3MFuj5ZGF4UHLSysw.jpeg
 ---
 
 ### AYS DAILY DIGEST 13/11: \#MarchOfHope in the front of the closed doors of the European Union
@@ -15,7 +15,7 @@ image:
 _Around 140 people who were marching in protest from Serbia stopped before the border with Croatia // More new arrivals to Italy and Greece // Extra police security to be dispatched to the refugee camps on the islands before neoNazi protest this week // In France, volunteers are faced with police mistreatment_
 
 
-![“Although everything in the camp Katsikas of grief and problems and the rigors of cold and everything, but when you look in the sky to feel hopeful\.” [KatsikasLive](https://www.facebook.com/muhammadalisyria/) \. Photo by بسام العيسى المقداد](assets/d77d96f3f1ef/1*AsLYl3MFuj5ZGF4UHLSysw.jpeg)
+![“Although everything in the camp Katsikas of grief and problems and the rigors of cold and everything, but when you look in the sky to feel hopeful\.” [KatsikasLive](https://www.facebook.com/muhammadalisyria/) \. Photo by بسام العيسى المقداد](../assets/d77d96f3f1ef/1*AsLYl3MFuj5ZGF4UHLSysw.jpeg)
 
 “Although everything in the camp Katsikas of grief and problems and the rigors of cold and everything, but when you look in the sky to feel hopeful\.” [KatsikasLive](https://www.facebook.com/muhammadalisyria/) \. Photo by بسام العيسى المقداد
 ### Serbia
@@ -25,7 +25,7 @@ _Around 140 people who were marching in protest from Serbia stopped before the b
 Late this evening, around 140 people — mostly man from Pakistan and Afghanistan — arrived near to the city of Sid, Serbia, hoping to enter the EU at the border near Tovarnik, Croatia\. But the border remained closed for them, while police increased its presence on both sides of the border\. Police prevented group of volunteers to bring food, blankets and hot tea for refugees claiming that it is responsibility of the local authorities, who, whoever, did not put enough effort to help to the people who are protesting in this way\. Journalist from both sides of the border were also forbidden to come close to refugees\.
 
 
-![\#MarchOfHope\. Photo by @BelgradeUpdates](assets/d77d96f3f1ef/1*EqZlPLuPMLDtWwupd3ezeg.jpeg)
+![\#MarchOfHope\. Photo by @BelgradeUpdates](../assets/d77d96f3f1ef/1*EqZlPLuPMLDtWwupd3ezeg.jpeg)
 
 \#MarchOfHope\. Photo by @BelgradeUpdates
 
@@ -36,22 +36,22 @@ This is a third time refugees in Serbia are protesting in similar way harsh cond
 [The march was prompted by police raid on refugees living in Belgrade’s abandoned warehouses, during which 109 people were taken on buses and sent to the Presevo camp](https://medium.com/@AreYouSyrious/ays-news-digest-10-11-refugees-in-serbia-have-no-choice-but-to-run-and-hide-a21881df24d3#.y7yjc6rkd) \. Today Himad A\. … sent us a photo of a place where refugees are sleeping in Belgrade\.
 
 
-![Photo by Himad A\.](assets/d77d96f3f1ef/1*BYeVICw24ah6f_PJTzDvAA.jpeg)
+![Photo by Himad A\.](../assets/d77d96f3f1ef/1*BYeVICw24ah6f_PJTzDvAA.jpeg)
 
 Photo by Himad A\.
 
 According to some estimates, over 1,000 people are sleeping rough in Belgrade, in extremely difficult conditions\. Camps in Serbia are overcrowded, and refugees fear being sent back to Macedonia\. [AYS published several reports this week warning about bad conditions and treatment of refugees in Serbia](https://medium.com/@AreYouSyrious/ays-daily-news-digest-9-11-refugee-testimonies-about-mistreatment-in-serbia-8c2bc49e529c#.7ad87s8go) , and we will continue following the situation, hoping that somebody will react\. This is all happening in the country that strives to become EU member soon\.
 
 
-![](assets/d77d96f3f1ef/1*XwEZzernMEVkxbsI9qnJ0Q.jpeg)
+![](../assets/d77d96f3f1ef/1*XwEZzernMEVkxbsI9qnJ0Q.jpeg)
 
 
 
-![](assets/d77d96f3f1ef/1*FFvLCYMs25Iv0Iz6IE4QtQ.jpeg)
+![](../assets/d77d96f3f1ef/1*FFvLCYMs25Iv0Iz6IE4QtQ.jpeg)
 
 
 
-![Photo by [@BelgradeUpdates](http://twitter.com/BelgradeUpdates)](assets/d77d96f3f1ef/1*qbaWP9qDMzAxa6a_5k7muw.jpeg)
+![Photo by [@BelgradeUpdates](http://twitter.com/BelgradeUpdates)](../assets/d77d96f3f1ef/1*qbaWP9qDMzAxa6a_5k7muw.jpeg)
 
 Photo by [@BelgradeUpdates](http://twitter.com/BelgradeUpdates)
 ### Mediterranean
@@ -59,7 +59,7 @@ Photo by [@BelgradeUpdates](http://twitter.com/BelgradeUpdates)
 Two boats have been engaged since early this morning in multiple rescues at the sea\. According to [MOAS](https://www.facebook.com/migrantoffshoreaidstation/) , a total of 339 persons have been pulled to safety\.
 
 
-![Photo by MOAS\.](assets/d77d96f3f1ef/1*UcelkKwjTSJ24YRNdPzqDQ.jpeg)
+![Photo by MOAS\.](../assets/d77d96f3f1ef/1*UcelkKwjTSJ24YRNdPzqDQ.jpeg)
 
 Photo by MOAS\.
 
@@ -75,7 +75,7 @@ Extra police security will be dispatched to the refugee camps on the islands\.
 
 
 ![By Abolfazl Mohtarami
-Via Syrilution Creative Arts](assets/d77d96f3f1ef/1*VQuUT9gjYkmEHvzN2nu8nA.jpeg)
+Via Syrilution Creative Arts](../assets/d77d96f3f1ef/1*VQuUT9gjYkmEHvzN2nu8nA.jpeg)
 
 By Abolfazl Mohtarami
 Via Syrilution Creative Arts
@@ -84,11 +84,11 @@ Via Syrilution Creative Arts
 People who are forced to live in inhumane conditions in camps in Greece are in desperate need of help\. It is cold, getting colder, and people do not have winter close, rain coats, rain boots…
 
 
-![](assets/d77d96f3f1ef/1*mH-Mv_pO0KddJn2b33C81w.jpeg)
+![](../assets/d77d96f3f1ef/1*mH-Mv_pO0KddJn2b33C81w.jpeg)
 
 
 
-![Softex camp\. Photo InterVolve](assets/d77d96f3f1ef/1*HuA-j-LcaJuxiGi6-oDlSA.jpeg)
+![Softex camp\. Photo InterVolve](../assets/d77d96f3f1ef/1*HuA-j-LcaJuxiGi6-oDlSA.jpeg)
 
 Softex camp\. Photo InterVolve
 
@@ -121,11 +121,11 @@ Find [list of urgently needed items](https://drive.google.com/…/fol…/0B1nwHR
 Refugees who are living in Softex and volunteers from [HelpRefugees](http://www.helprefugees.org.uk) and [InterVolve](https://www.facebook.com/InterVolve-International-Volunteers-219418945063168/) built a cultural center in this camp that is considered one of the most dangerous\. A range of workshops is offered in the center\. If you can, help these organizations to continue their great work in Softex\.
 
 
-![](assets/d77d96f3f1ef/1*g4EnmZjJ2vWQTmIojqtuzA.jpeg)
+![](../assets/d77d96f3f1ef/1*g4EnmZjJ2vWQTmIojqtuzA.jpeg)
 
 
 
-![Cultural center\. Photo by HelpRefugees\.](assets/d77d96f3f1ef/1*m7Km6XANTxGRgMPDZY0PtQ.jpeg)
+![Cultural center\. Photo by HelpRefugees\.](../assets/d77d96f3f1ef/1*m7Km6XANTxGRgMPDZY0PtQ.jpeg)
 
 Cultural center\. Photo by HelpRefugees\.
 
@@ -158,11 +158,11 @@ The situation in France for refugees is not much better than in Greece\. Many, t
 
 
 
-![](assets/d77d96f3f1ef/1*ON9M7dww9f97tnI9v--N6w.jpeg)
+![](../assets/d77d96f3f1ef/1*ON9M7dww9f97tnI9v--N6w.jpeg)
 
 
 
-![Photo by Paris Refugee Ground Support\.](assets/d77d96f3f1ef/1*WOvvJQSTGW4FJ273pvkqVA.jpeg)
+![Photo by Paris Refugee Ground Support\.](../assets/d77d96f3f1ef/1*WOvvJQSTGW4FJ273pvkqVA.jpeg)
 
 Photo by Paris Refugee Ground Support\.
 ### Germany

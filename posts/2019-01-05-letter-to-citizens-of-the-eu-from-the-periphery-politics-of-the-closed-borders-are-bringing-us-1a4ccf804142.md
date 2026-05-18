@@ -1,5 +1,5 @@
 ---
-title: Letter to citizens of the EU from the “periphery”: Politics of the closed borders are bringing us…
+title: "Letter to citizens of the EU from the “periphery”: Politics of the closed borders are bringing us…"
 author: Are You Syrious?
 date: 2019-01-05T09:40:19.414+0000
 last_modified_at: 2019-01-05T09:40:19.414+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [european-union,solidarity,activism,antifascism]
 description: We, the human rights defenders and citizens from the countries relegated to the “periphery” of the European Union (EU) and the Schengen…
 image:
-  path: assets/1a4ccf804142/1*Z00nQfSjAbjKfyr81kvnjg.jpeg
+  path: ../assets/1a4ccf804142/1*Z00nQfSjAbjKfyr81kvnjg.jpeg
 ---
 
 ### Letter to citizens of the EU from the “periphery”: Politics of the closed borders are bringing us closer to fascist rules
 
 
-![Salakovac camp, Mostar\. Bosnia and Herzegovina\. Photo AYS\.](assets/1a4ccf804142/1*Z00nQfSjAbjKfyr81kvnjg.jpeg)
+![Salakovac camp, Mostar\. Bosnia and Herzegovina\. Photo AYS\.](../assets/1a4ccf804142/1*Z00nQfSjAbjKfyr81kvnjg.jpeg)
 
 Salakovac camp, Mostar\. Bosnia and Herzegovina\. Photo AYS\.
 

@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [spain,morocco,immigration,digest,refugees]
 description: Malta paid for “3–4” pushbacks // UNHCR warns of “externalizing borders” // Evictions in France // Romanian police brutality // and more…
 image:
-  path: assets/eebc26585a56/0*U65CI-Sfbcq9FA-V.jpg
+  path: ../assets/eebc26585a56/0*U65CI-Sfbcq9FA-V.jpg
 ---
 
 ### AYS Daily Digest 19/05/21–8,000 people used as ping pong balls between Spain and Morocco
 #### _Malta paid for “3–4” pushbacks // UNHCR warns of “externalizing borders” // Evictions in France // Romanian police brutality // and more…_
 
 
-![](assets/eebc26585a56/0*U65CI-Sfbcq9FA-V.jpg)
+![](../assets/eebc26585a56/0*U65CI-Sfbcq9FA-V.jpg)
 
 
 Spainish soliders in Ceuta\. Photo by [EPA](https://www.bbc.com/news/world-europe-57168701)
@@ -101,15 +101,15 @@ AYS stands in solidarity with everyone fleeing to Ceuta and anyone trying to pro
 ### SEA
 
 
-![](assets/eebc26585a56/0*tR_xzG4RSP935nYF.jpeg)
+![](../assets/eebc26585a56/0*tR_xzG4RSP935nYF.jpeg)
 
 
 
-![](assets/eebc26585a56/0*jNczGWyP_D9lENGN.jpeg)
+![](../assets/eebc26585a56/0*jNczGWyP_D9lENGN.jpeg)
 
 
 
-![](assets/eebc26585a56/0*TccjoqjoTisrr0Sf.jpeg)
+![](../assets/eebc26585a56/0*TccjoqjoTisrr0Sf.jpeg)
 
 
 [Update \#1](https://www.facebook.com/NewsfromtheMed/posts/1217247152062212) and photos from Sea Watch 4: “A young man had to be evacuated from the SEA\-EYE 4 for medical reasons\! The young man had to be evacuated due to a heart condition that got worse\. He could have collapsed at any moment and needs intensive medical treatment, which cannot be provided on board\. The Italian Coast Guard carried out the evacuation in the afternoon\. Meanwhile, the SEA\-EYE 4 has reached Sicily, but still has not been assigned a port of safety\. There are more medical cases on board that need to be treated ashore\. To avoid more evacuations, we finally need a port of safety\!”
@@ -118,7 +118,7 @@ If we will continue? By all means\. Until no human being has to drown in search 
 ### GREECE
 
 
-![](assets/eebc26585a56/0*iSuEmeFPPfIHc0H7)
+![](../assets/eebc26585a56/0*iSuEmeFPPfIHc0H7)
 
 
 Art via @yorgovich
@@ -200,7 +200,7 @@ Read [the full report here](https://www.maltatoday.com.mt/news/national/109738/m
 ### SERBIA
 
 
-![](assets/eebc26585a56/0*aEPF-k5wemEVT_vJ)
+![](../assets/eebc26585a56/0*aEPF-k5wemEVT_vJ)
 
 
 Update \#1 and photo from [Azil u Srbiji Asylum Protection](https://www.facebook.com/AzilUSrbiji/posts/1909168192576347) : “APC/CZA psychosocial mobile team visiting open location along the border with Bosnia in Loznica city where refugees sleep in the open, found many unaccompanied minors sleeping in the open without any food, water or shelter\. APC/CZA have a cooperation with local centers for social welfare and contact with social workers in the field to report and assist many of the unaccompanied minors so they can be protected and accommodated in one of reception centers and to assign for them guardian who will be responsible about them and with the help of APC/CZA legal sector they can access the asylum system and seek asylum and have free access to education and health institution\.”
@@ -232,11 +232,11 @@ Update \#1 and photo from [Azil u Srbiji Asylum Protection](https://www.facebook
 ### FRANCE
 
 
-![](assets/eebc26585a56/0*474s2OliPrrU8h2A.jpeg)
+![](../assets/eebc26585a56/0*474s2OliPrrU8h2A.jpeg)
 
 
 
-![](assets/eebc26585a56/0*4uhoY9JjbTC9Nv_O.jpeg)
+![](../assets/eebc26585a56/0*4uhoY9JjbTC9Nv_O.jpeg)
 
 
 Update and photos from [Human Rights Observers](https://twitter.com/HumanRightsObs/status/1395105949099175939) : “Operations & Expulsions to GrandeSynthe → 4 excursions from informal living spaces in April\. 444 tents and tarpaulins \(were\) seized\. Forced expulsions participate in the exhaustion, physical and moral harassment that exiles are subjected to at the border\.”
@@ -269,7 +269,7 @@ English translation: “Again, at @VilleGdeSynthe during a large\-scale eviction
 ### DENMARK
 
 
-![](assets/eebc26585a56/0*gCY3aSHX3jhel1hg)
+![](../assets/eebc26585a56/0*gCY3aSHX3jhel1hg)
 
 
 “Over 27 thousand protesters in Copenhagen

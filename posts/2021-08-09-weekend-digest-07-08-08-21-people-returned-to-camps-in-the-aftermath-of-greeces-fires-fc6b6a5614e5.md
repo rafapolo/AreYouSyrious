@@ -1,5 +1,5 @@
 ---
-title: Weekend Digest 07–08/08/21: People returned to camps in the aftermath of Greece’s fires
+title: "Weekend Digest 07–08/08/21: People returned to camps in the aftermath of Greece’s fires"
 author: Are You Syrious?
 date: 2021-08-09T13:06:46.715+0100
 last_modified_at: 2021-08-09T13:32:45.938+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,forest-fires,kurdistan,european-union]
 description: Updates and info from Syria, Kurdistan, Greece, the Med, Spain, Germany and the UK.
 image:
-  path: assets/fc6b6a5614e5/1*29z72afb82zjuS33n4-pUw.png
+  path: ../assets/fc6b6a5614e5/1*29z72afb82zjuS33n4-pUw.png
 ---
 
 ### Weekend Digest 07–08/08/21: People returned to camps in the aftermath of Greece’s fires
@@ -15,7 +15,7 @@ image:
 _Updates and info from Syria, Kurdistan, Greece, the Med, Spain, Germany and the UK\._
 
 
-![Limni, Evia \( [Photo via George Roussos](https://twitter.com/baphometx/status/1424338590839021570) \)](assets/fc6b6a5614e5/1*29z72afb82zjuS33n4-pUw.png)
+![Limni, Evia \( [Photo via George Roussos](https://twitter.com/baphometx/status/1424338590839021570) \)](../assets/fc6b6a5614e5/1*29z72afb82zjuS33n4-pUw.png)
 
 Limni, Evia \( [Photo via George Roussos](https://twitter.com/baphometx/status/1424338590839021570) \)
 #### FEATURE — People returned to camps in the aftermath of Greece’s fires
@@ -46,7 +46,7 @@ Three people died and thousands lost their houses and livelihoods\. Hectares of 
 Solidarity initiatives have [responded](https://twitter.com/neo__pessimist/status/1423739256523132933) quickly and strongly, supporting both humans and animals affected\. The [network of Social Kitchens and Solidarity initiatives of Athens](https://www.facebook.com/sodaattikis) sent out dry food and emergency items to those evacuated in the north of the city and in Evia\.
 
 
-![Photo via George Roussos](assets/fc6b6a5614e5/1*qiGhAWetNfofYMU9YVPKbw.jpeg)
+![Photo via George Roussos](../assets/fc6b6a5614e5/1*qiGhAWetNfofYMU9YVPKbw.jpeg)
 
 Photo via George Roussos
 

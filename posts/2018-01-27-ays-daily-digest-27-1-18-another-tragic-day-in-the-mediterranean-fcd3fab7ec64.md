@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 27.1.18: Another Tragic Day on the Mediterranean
+title: "AYS Daily Digest 27.1.18: Another Tragic Day on the Mediterranean"
 author: Are You Syrious?
 date: 2018-01-27T23:36:34.826+0000
 last_modified_at: 2018-01-28T12:04:22.180+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,sea,rescue,human-rights,police-brutality]
 description: Sea rescues and LCG crimes//Attack in Kabul//Fire kills two in Italy//Day of Action in Germany//Sickness and vulnerability for minor in…
 image:
-  path: assets/fcd3fab7ec64/1*sU1DJRHTpJjzo0yHAvhw_Q.jpeg
+  path: ../assets/fcd3fab7ec64/1*sU1DJRHTpJjzo0yHAvhw_Q.jpeg
 ---
 
 ### AYS Daily Digest 27\.1\.18: Another Tragic Day on the Mediterranean
@@ -15,7 +15,7 @@ image:
 _Sea rescues and LCG crimes//Attack in Kabul//Fire kills two in Italy//Day of Action in Germany//Sickness and vulnerability for minor in Calais//Solidarity protests for Afrin//and more…_
 
 
-![Photo Credit: [SOS Mediterrannee](https://www.facebook.com/sosmedfrance/posts/2089338821339098?hc_location=ufi) \.](assets/fcd3fab7ec64/1*sU1DJRHTpJjzo0yHAvhw_Q.jpeg)
+![Photo Credit: [SOS Mediterrannee](https://www.facebook.com/sosmedfrance/posts/2089338821339098?hc_location=ufi) \.](../assets/fcd3fab7ec64/1*sU1DJRHTpJjzo0yHAvhw_Q.jpeg)
 
 Photo Credit: [SOS Mediterrannee](https://www.facebook.com/sosmedfrance/posts/2089338821339098?hc_location=ufi) \.
 
@@ -99,7 +99,7 @@ The woman who died was named Amine\. She was thirty years old and from Eritrea\.
 ### Germany
 
 
-![\#RighttoEscape\. Photo Credit: Sea\-Watch](assets/fcd3fab7ec64/1*2JRNXesEga_uHEl_LcHQlg.jpeg)
+![\#RighttoEscape\. Photo Credit: Sea\-Watch](../assets/fcd3fab7ec64/1*2JRNXesEga_uHEl_LcHQlg.jpeg)
 
 \#RighttoEscape\. Photo Credit: Sea\-Watch
 
@@ -124,7 +124,7 @@ Today Care 4 Calais shared the testimony of one of their volunteers, who befrien
 
 
 
-![The 19\-year old from Afghanistan, in Calais\. Photo Credit: Care 4 Calais](assets/fcd3fab7ec64/1*GdvjcurZX4Yo3lQTCBdf_g.jpeg)
+![The 19\-year old from Afghanistan, in Calais\. Photo Credit: Care 4 Calais](../assets/fcd3fab7ec64/1*GdvjcurZX4Yo3lQTCBdf_g.jpeg)
 
 The 19\-year old from Afghanistan, in Calais\. Photo Credit: Care 4 Calais
 
@@ -140,7 +140,7 @@ These are the sorts of hardships that countless refugees in Europe have had to f
 The NGO [Medecins du Monde](https://www.facebook.com/Médecins-du-Monde-Hauts-de-France-850170168369696/) issued an alarming statement this week, concerning the high number of people who need medical care in Calais: “The Health\-Care Service of the Calais hospital now receives 30 or 35 refugees per day\. This is equivalent to the number of daily consultations during the time of the jungle camp \(which housed between nine and eleven thousand people, not just a few hundred as now\) \. The inhumane conditions under which people survive in Calais are the cause of 65 % of the pathologies we encounter at mobile clinics\. Stop the policies that are making people sick\!”
 
 
-![How would you feel if this were where you had to sleep on a cold night? A refugees sleeping\-quarters in Calais\. 26/1/18\. Photo Credit: [Medecins du Monde](https://www.facebook.com/Médecins-du-Monde-Hauts-de-France-850170168369696/) \.](assets/fcd3fab7ec64/1*3K4OMrvlGyUj8XwQpeopCg.jpeg)
+![How would you feel if this were where you had to sleep on a cold night? A refugees sleeping\-quarters in Calais\. 26/1/18\. Photo Credit: [Medecins du Monde](https://www.facebook.com/Médecins-du-Monde-Hauts-de-France-850170168369696/) \.](../assets/fcd3fab7ec64/1*3K4OMrvlGyUj8XwQpeopCg.jpeg)
 
 How would you feel if this were where you had to sleep on a cold night? A refugees sleeping\-quarters in Calais\. 26/1/18\. Photo Credit: [Medecins du Monde](https://www.facebook.com/Médecins-du-Monde-Hauts-de-France-850170168369696/) \.
 
@@ -154,14 +154,14 @@ The volunteer group [Rastplatz](https://www.facebook.com/rastplatz/?hc_ref=ARRp5
 Antifascist and solidarity groups across Europe announced a day of protest and demonstration today against the continued attacks on Kurds in the Afrin region near Turkey\. Marches were held in the Netherlands, Germany, France, Sweden, Australia, Switzerland, Greece, Cyprus, Austria, England, Belgium, Canada, Romania, and Italy\. In Vienna, protestors marched to the Turkish embassy\.
 
 
-![Showing solidarity in Vienna\. Photo Credit: [Autonomous AntiFascists Austria](https://www.facebook.com/autonome.antifa.w/?hc_location=group_dialog)](assets/fcd3fab7ec64/1*euamJgVp0VxXWRQraDjQ_w.jpeg)
+![Showing solidarity in Vienna\. Photo Credit: [Autonomous AntiFascists Austria](https://www.facebook.com/autonome.antifa.w/?hc_location=group_dialog)](../assets/fcd3fab7ec64/1*euamJgVp0VxXWRQraDjQ_w.jpeg)
 
 Showing solidarity in Vienna\. Photo Credit: [Autonomous AntiFascists Austria](https://www.facebook.com/autonome.antifa.w/?hc_location=group_dialog)
 
 The [Flying Seagull Project](http://www.theflyingseagullproject.com/support-us/) is a volunteer circus group that tours refugee camps throughout Europe \(and Greece in particular\) to bring smiles and laughter to children who have faced incredible hardship\. They have recently updated their [website](http://www.theflyingseagullproject.com/what-we-do/) , with additional information and ways to [donate](http://www.theflyingseagullproject.com/support-us/) \.
 
 
-![Performing for refugee children on Samos\. Photo Credit: [Flying Seagull Circus](https://www.facebook.com/pg/flyingseagulls/photos/?ref=page_internal)](assets/fcd3fab7ec64/1*Hwtm9TeSfr3vsXLRIgfxEA.jpeg)
+![Performing for refugee children on Samos\. Photo Credit: [Flying Seagull Circus](https://www.facebook.com/pg/flyingseagulls/photos/?ref=page_internal)](../assets/fcd3fab7ec64/1*Hwtm9TeSfr3vsXLRIgfxEA.jpeg)
 
 Performing for refugee children on Samos\. Photo Credit: [Flying Seagull Circus](https://www.facebook.com/pg/flyingseagulls/photos/?ref=page_internal)
 

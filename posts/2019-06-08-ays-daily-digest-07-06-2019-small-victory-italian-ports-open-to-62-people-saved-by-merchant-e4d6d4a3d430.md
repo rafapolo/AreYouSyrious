@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 07/06/2019: Small victory — Italian ports open to 62 people saved by merchant ship!
+title: "AYS Daily Digest 07/06/2019: Small victory — Italian ports open to 62 people saved by merchant ship!"
 author: Are You Syrious?
 date: 2019-06-08T13:47:51.574+0100
 last_modified_at: 2019-06-08T13:47:51.574+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [newsletter,italy,refugees]
 description: Hundreds remain at sea // More details on horrible conditions in Libya // Illegal pushback to Turkey // Suspiciously timed eviction in…
 image:
-  path: assets/e4d6d4a3d430/1*Tx1u1RSutf5fWmPbOOmJVA.jpeg
+  path: ../assets/e4d6d4a3d430/1*Tx1u1RSutf5fWmPbOOmJVA.jpeg
 ---
 
 ### AYS Daily Digest 07/06/2019: Small victory — Italian ports open to 62 people saved by merchant ship\!
 #### Hundreds remain at sea // More details on horrible conditions in Libya // Illegal pushback to Turkey // Suspiciously timed eviction in Lille, statement // Controversial law in Germany affects labor and deportation // more…
 
 
-![](assets/e4d6d4a3d430/1*Tx1u1RSutf5fWmPbOOmJVA.jpeg)
+![](../assets/e4d6d4a3d430/1*Tx1u1RSutf5fWmPbOOmJVA.jpeg)
 
 
 [Are You Syrious?](https://medium.com/@AreYouSyrious)
@@ -22,7 +22,7 @@ image:
 Jun 8
 
 
-![Photo Credit: [RADIO CROCO](https://www.facebook.com/RadioCroco/?tn-str=k%2AF&hc_location=group_dialog)](assets/e4d6d4a3d430/1*LmpfDVHUMRz5dFHYQNsxtA.jpeg)
+![Photo Credit: [RADIO CROCO](https://www.facebook.com/RadioCroco/?tn-str=k%2AF&hc_location=group_dialog)](../assets/e4d6d4a3d430/1*LmpfDVHUMRz5dFHYQNsxtA.jpeg)
 
 Photo Credit: [RADIO CROCO](https://www.facebook.com/RadioCroco/?tn-str=k%2AF&hc_location=group_dialog)
 ### FEATURE
@@ -94,7 +94,7 @@ We are reminded that in addition to those hundreds who are currently at sea, the
 Channel Four released a distressing documentary on the horrible conditions in Zintan\. Activists, journalists, and human rights advocates have spoken out about the horrible conditions which have resulted in the death of around [22 people that we know of](https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=24681&LangID=E) \.
 
 
-[![Starvation, disease and death in Libyan migrant detention centre](assets/e4d6d4a3d430/2393_hqdefault.jpg "Starvation, disease and death in Libyan migrant detention centre")](http://www.youtube.com/watch?v=w62e4wy0Lr0)
+[![Starvation, disease and death in Libyan migrant detention centre](../assets/e4d6d4a3d430/2393_hqdefault.jpg "Starvation, disease and death in Libyan migrant detention centre")](http://www.youtube.com/watch?v=w62e4wy0Lr0)
 
 
 Sally Hayden, in touch with many of those in detention, published a list of the names and photos of those who have died\. A sobering reminder of the unwillingness of those in power to effect any real change for those in dire circumstances\.

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 2/6/20: Offering hypocrite solidarity while people in our midst suffer, starve…
+title: "AYS Daily Digest 2/6/20: Offering hypocrite solidarity while people in our midst suffer, starve…"
 author: Are You Syrious?
 date: 2020-06-03T15:02:49.903+0100
 last_modified_at: 2020-06-04T09:25:08.773+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,blacklivesmatter,europe,refugees,migration]
 description: Reflecting on the endless and shameless hypocrisy in the context of BLM / Hunger in Athens knocking at the doors of helpless volunteers…
 image:
-  path: assets/a24cc60cbff0/1*d--vXixmBVc-8L3Fj7bOuA.jpeg
+  path: ../assets/a24cc60cbff0/1*d--vXixmBVc-8L3Fj7bOuA.jpeg
 ---
 
 ### AYS Daily Digest 2/6/20: Offering hypocrite solidarity while people in our midst suffer, starve and drown?
 #### Reflecting on the endless and shameless hypocrisy in the context of BLM / Hunger in Athens knocking at the doors of helpless volunteers, directed by the UN agency officers / silent deaths at the EU border / 1000 more policemen at the Slovene\-Croatian border, propaganda maneuver and an extortion tactic of the government / the number of family reunifications in Germany under the country’s quota / & more news
 
 
-![](assets/a24cc60cbff0/1*d--vXixmBVc-8L3Fj7bOuA.jpeg)
+![](../assets/a24cc60cbff0/1*d--vXixmBVc-8L3Fj7bOuA.jpeg)
 
 #### FEATURED
 ### Concrete solidarity is the only way
@@ -147,11 +147,11 @@ Khora has been acting in solidarity with people whose needs should have been, an
 Here is the monthly report from Aegean Boat Report for May 2020 by ABR\. For more detailed statistics go to [aegeanboatreport\.com\.](http://aegeanboatreport.com/?fbclid=IwAR1JugKr45EuoanVjApTd4e04E_HO3KX12QoHf3HHFIWopKYJt0EHaiH1vs) / ABR Statistics\.
 
 
-![](assets/a24cc60cbff0/1*lY63DtKrcU6_L-TSO5p0Dg.jpeg)
+![](../assets/a24cc60cbff0/1*lY63DtKrcU6_L-TSO5p0Dg.jpeg)
 
 
 
-![Infographics by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?__xts__%5B0%5D=68.ARALs6C6mAHhyVonGx6iGr6ynIcQnerbVfRvSRNQ5RxV_Wa4NLL0OeC8ASEaBBiBSWb-LR1B34EwT6jxxsojHYsqwevEkB71w3EuEWFxPlzE2_8vG7q2sNoYXLmEkxXZ6jIgN5un7fmVj3qfIFLbwcee8HBqPITaWIzcCYhvIVIQ7Ac1GGOBxBx4hFtIUxiTCWhQNippAHYmSqr9LKllhDYRft7-L9ftXtWc16NcAkkoWvWUYXf8sLTtk-Gp6Dxr92Zicf2Qm8XEWd_ARAmUXx4UvsiItYfhNxOgITfZr7P6UCiCjU-xT37cMvdFgzMcj3DBGC6HBkwI_G4_NvbQ9pE&__tn__=k%2AF&tn-str=k%2AF)](assets/a24cc60cbff0/1*NRyvHkbjS_hA9z8yWNvVCA.jpeg)
+![Infographics by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?__xts__%5B0%5D=68.ARALs6C6mAHhyVonGx6iGr6ynIcQnerbVfRvSRNQ5RxV_Wa4NLL0OeC8ASEaBBiBSWb-LR1B34EwT6jxxsojHYsqwevEkB71w3EuEWFxPlzE2_8vG7q2sNoYXLmEkxXZ6jIgN5un7fmVj3qfIFLbwcee8HBqPITaWIzcCYhvIVIQ7Ac1GGOBxBx4hFtIUxiTCWhQNippAHYmSqr9LKllhDYRft7-L9ftXtWc16NcAkkoWvWUYXf8sLTtk-Gp6Dxr92Zicf2Qm8XEWd_ARAmUXx4UvsiItYfhNxOgITfZr7P6UCiCjU-xT37cMvdFgzMcj3DBGC6HBkwI_G4_NvbQ9pE&__tn__=k%2AF&tn-str=k%2AF)](../assets/a24cc60cbff0/1*NRyvHkbjS_hA9z8yWNvVCA.jpeg)
 
 Infographics by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?__xts__%5B0%5D=68.ARALs6C6mAHhyVonGx6iGr6ynIcQnerbVfRvSRNQ5RxV_Wa4NLL0OeC8ASEaBBiBSWb-LR1B34EwT6jxxsojHYsqwevEkB71w3EuEWFxPlzE2_8vG7q2sNoYXLmEkxXZ6jIgN5un7fmVj3qfIFLbwcee8HBqPITaWIzcCYhvIVIQ7Ac1GGOBxBx4hFtIUxiTCWhQNippAHYmSqr9LKllhDYRft7-L9ftXtWc16NcAkkoWvWUYXf8sLTtk-Gp6Dxr92Zicf2Qm8XEWd_ARAmUXx4UvsiItYfhNxOgITfZr7P6UCiCjU-xT37cMvdFgzMcj3DBGC6HBkwI_G4_NvbQ9pE&__tn__=k%2AF&tn-str=k%2AF)
 
@@ -172,7 +172,7 @@ The Turkish Coast Guard continues operating in Greek waters, Alarm Phone reports
 The specific allegations, which are accompanied by photographic material, concern violence, humiliating treatment and torture, theft of personal belongings and the illegal repatriation of at least 194 people from the refugee camp in Diavata and from the pre\-departure center in Paranesti, Drama March 30 to April 28, 2020\.
 
 
-![](assets/a24cc60cbff0/0*mcYGEkjCmr2h0Zyn)
+![](../assets/a24cc60cbff0/0*mcYGEkjCmr2h0Zyn)
 
 
 

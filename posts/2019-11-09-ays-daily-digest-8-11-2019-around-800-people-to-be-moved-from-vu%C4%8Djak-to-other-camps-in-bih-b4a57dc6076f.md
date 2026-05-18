@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 8/11/2019: Around 800 people to be moved from Vučjak to other camps in BiH
+title: "AYS Daily Digest 8/11/2019: Around 800 people to be moved from Vučjak to other camps in BiH"
 author: Are You Syrious?
 date: 2019-11-09T10:10:46.070+0000
 last_modified_at: 2019-11-09T12:04:44.712+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,bosnia-and-herzegovina,humanitarian-crisis,europe]
 description: Arrest warrants issued against Libyan human traffickers//International presence failing refugees released from detention centres//EU to…
 image:
-  path: assets/b4a57dc6076f/1*JxgpaRGHbaM0tFBgrHCbNQ.jpeg
+  path: ../assets/b4a57dc6076f/1*JxgpaRGHbaM0tFBgrHCbNQ.jpeg
 ---
 
 ### AYS Daily Digest 8/11/2019: Around 800 people to be moved from Vučjak to other camps in BiH
@@ -15,7 +15,7 @@ image:
 Arrest warrants issued against Libyan human traffickers//International presence failing refugees released from detention centres//EU to reinforce Frontex’ corps//Sad news from Chios//71 people to be deported from Diavata after a fight broke out//600 pushbacks cases reported by BVM since 2017//More deaths on the Balkan route and in Italy…
 
 
-![Tuzla, November 2019\. Credit: [Portal Tuzlarije\.net](https://www.facebook.com/Tuzlarije/?__tn__=kC-R&eid=ARAss_M-k8h_RI7uShey6BToiDLhu2rHyt_L3cXisT58_jqYSiXib4eAhqZhB8BAu4g41Qn9NnagRvHE&hc_ref=ARTRzzM_2k6zUQoPFAcVNXsEyRXWu0Vt0SpcObknbv2RWjsbqBJn2az0A6Bjvzqxbws&__xts__%5B0%5D=68.ARAcMxrgEal0QtuKK3wR2evUJJjHYVWFToiKeITCVtdWo1E5C75chb61zqbKhQ7g6bQD59OSGri8BG5uyo7ZwXcrxO9PODAgAHu7IDJNArL9GnTTQP_VG6YR-AoqaCtk5VXH-sGWtWm76E-pJAV4PdNNVCX1R-KSXwMEleEHR-zSIhF32fQlA35BAsKe260pJBVlQlz4evxVXOhoriYzrwFgUNH-TNSwn6nPyAUEuAVKEzI1JvrSUPh997c6s-NANLp6vpepFy8hYq9_lR4FvfejOi9hZWHQaKbhOW19i_eZlLhY-bvzQryI36kXT_ENhiX-qpPV1IMRoFzQlWQ4g7hgkw) \.](assets/b4a57dc6076f/1*JxgpaRGHbaM0tFBgrHCbNQ.jpeg)
+![Tuzla, November 2019\. Credit: [Portal Tuzlarije\.net](https://www.facebook.com/Tuzlarije/?__tn__=kC-R&eid=ARAss_M-k8h_RI7uShey6BToiDLhu2rHyt_L3cXisT58_jqYSiXib4eAhqZhB8BAu4g41Qn9NnagRvHE&hc_ref=ARTRzzM_2k6zUQoPFAcVNXsEyRXWu0Vt0SpcObknbv2RWjsbqBJn2az0A6Bjvzqxbws&__xts__%5B0%5D=68.ARAcMxrgEal0QtuKK3wR2evUJJjHYVWFToiKeITCVtdWo1E5C75chb61zqbKhQ7g6bQD59OSGri8BG5uyo7ZwXcrxO9PODAgAHu7IDJNArL9GnTTQP_VG6YR-AoqaCtk5VXH-sGWtWm76E-pJAV4PdNNVCX1R-KSXwMEleEHR-zSIhF32fQlA35BAsKe260pJBVlQlz4evxVXOhoriYzrwFgUNH-TNSwn6nPyAUEuAVKEzI1JvrSUPh997c6s-NANLp6vpepFy8hYq9_lR4FvfejOi9hZWHQaKbhOW19i_eZlLhY-bvzQryI36kXT_ENhiX-qpPV1IMRoFzQlWQ4g7hgkw) \.](../assets/b4a57dc6076f/1*JxgpaRGHbaM0tFBgrHCbNQ.jpeg)
 
 Tuzla, November 2019\. Credit: [Portal Tuzlarije\.net](https://www.facebook.com/Tuzlarije/?__tn__=kC-R&eid=ARAss_M-k8h_RI7uShey6BToiDLhu2rHyt_L3cXisT58_jqYSiXib4eAhqZhB8BAu4g41Qn9NnagRvHE&hc_ref=ARTRzzM_2k6zUQoPFAcVNXsEyRXWu0Vt0SpcObknbv2RWjsbqBJn2az0A6Bjvzqxbws&__xts__%5B0%5D=68.ARAcMxrgEal0QtuKK3wR2evUJJjHYVWFToiKeITCVtdWo1E5C75chb61zqbKhQ7g6bQD59OSGri8BG5uyo7ZwXcrxO9PODAgAHu7IDJNArL9GnTTQP_VG6YR-AoqaCtk5VXH-sGWtWm76E-pJAV4PdNNVCX1R-KSXwMEleEHR-zSIhF32fQlA35BAsKe260pJBVlQlz4evxVXOhoriYzrwFgUNH-TNSwn6nPyAUEuAVKEzI1JvrSUPh997c6s-NANLp6vpepFy8hYq9_lR4FvfejOi9hZWHQaKbhOW19i_eZlLhY-bvzQryI36kXT_ENhiX-qpPV1IMRoFzQlWQ4g7hgkw) \.
 #### FEATURED

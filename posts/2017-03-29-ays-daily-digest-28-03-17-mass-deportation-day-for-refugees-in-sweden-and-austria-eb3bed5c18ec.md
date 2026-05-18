@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 28/03/17: Mass deportation day for refugees in Sweden and Austria
+title: "AYS Daily Digest 28/03/17: Mass deportation day for refugees in Sweden and Austria"
 author: Are You Syrious?
 date: 2017-03-29T01:38:19.128+0100
 last_modified_at: 2017-03-29T15:47:34.484+0100
@@ -7,14 +7,14 @@ categories:
 tags: [europe,refugees,human-rights,sweden,uk-politics]
 description: Protests against deportations in Sweden, Austria and the UK |Police raids with arrests on Greek islands | Hungary puts its inhuman law into…
 image:
-  path: assets/eb3bed5c18ec/1*ICbSf9AxzxwJRG2nHGXt9g.jpeg
+  path: ../assets/eb3bed5c18ec/1*ICbSf9AxzxwJRG2nHGXt9g.jpeg
 ---
 
 ### AYS Daily Digest 28/03/17: Mass deportation day for refugees in Sweden and Austria
 #### Protests against deportations in Sweden, Austria and the UK \|Police raids with arrests on Greek islands \| Hungary puts its inhuman law into practice; another court decision out against Hungary \| Austria, along with night deportations, wants out of the relocation process \| German refugee language education system put into question
 
 
-![Austrians protest against deporting of the refugees and asylum seekers from Vienna, evening of the March 28 \(Photo: [Arye Wachsmuth](https://www.facebook.com/arye.wachsmuth) \)](assets/eb3bed5c18ec/1*ICbSf9AxzxwJRG2nHGXt9g.jpeg)
+![Austrians protest against deporting of the refugees and asylum seekers from Vienna, evening of the March 28 \(Photo: [Arye Wachsmuth](https://www.facebook.com/arye.wachsmuth) \)](../assets/eb3bed5c18ec/1*ICbSf9AxzxwJRG2nHGXt9g.jpeg)
 
 Austrians protest against deporting of the refugees and asylum seekers from Vienna, evening of the March 28 \(Photo: [Arye Wachsmuth](https://www.facebook.com/arye.wachsmuth) \)
 #### FEATURE
@@ -23,18 +23,18 @@ Austrians protest against deporting of the refugees and asylum seekers from Vien
 20 Afghan nationals have been gathered in one of Sweden’s 5 detention centers in Kållered, outside Gothenburg, for tonights’ deportation\. The detention center had been shut down for visitors since the night before but protesters had gathered outside, lighting candles and holding signs\. Reportedly, the protesters were outnumbered by the police even though hundreds of both local people and those who had traveled from different parts of the country have gathered during the day\.
 
 
-![Photo: Lisa Yxmark](assets/eb3bed5c18ec/1*otHcCzWVL0iZgbyuPg0CDg.jpeg)
+![Photo: Lisa Yxmark](../assets/eb3bed5c18ec/1*otHcCzWVL0iZgbyuPg0CDg.jpeg)
 
 Photo: Lisa Yxmark
 
 The police had set up a parameter with tape and barricades to ensure the transport and before the detainee transport arrived police horses and additional cars entered the site\.
 
 
-![](assets/eb3bed5c18ec/1*XX0kbttOIyZqtpaJ-xtgeQ.jpeg)
+![](../assets/eb3bed5c18ec/1*XX0kbttOIyZqtpaJ-xtgeQ.jpeg)
 
 
 
-![Photos: Lisa Yxmark](assets/eb3bed5c18ec/1*Xqoi6h3DcKbLyIMtOKBvTg.jpeg)
+![Photos: Lisa Yxmark](../assets/eb3bed5c18ec/1*Xqoi6h3DcKbLyIMtOKBvTg.jpeg)
 
 Photos: Lisa Yxmark
 
@@ -43,11 +43,11 @@ Photos: Lisa Yxmark
 At 9\.39 the FRONTEX chartered flight with Spanish luxury Aviation Company Privilege Style lifted of\.
 
 
-![](assets/eb3bed5c18ec/1*ZaVWPMpbWaPIEvL8KT-RBw.jpeg)
+![](../assets/eb3bed5c18ec/1*ZaVWPMpbWaPIEvL8KT-RBw.jpeg)
 
 
 
-![Ironically, the people traveling back to uncertainty and danger are leaving in “Privilege Style”, a Spanish company\. The plane was heading to pick up others in Austria\.](assets/eb3bed5c18ec/1*eHvxjY6t4GJYpVRojNfvRg.jpeg)
+![Ironically, the people traveling back to uncertainty and danger are leaving in “Privilege Style”, a Spanish company\. The plane was heading to pick up others in Austria\.](../assets/eb3bed5c18ec/1*eHvxjY6t4GJYpVRojNfvRg.jpeg)
 
 Ironically, the people traveling back to uncertainty and danger are leaving in “Privilege Style”, a Spanish company\. The plane was heading to pick up others in Austria\.
 
@@ -61,7 +61,7 @@ Later tonight, we have received information that activists in Sweden and Austria
 At least **811 lives were lost** since the beginning of the year in the sea, on the dangerous way to Europe, Comisión Española de Ayuda al Refugiado reports\.
 
 
-![Infographics: [**CEAR**](https://twitter.com/CEARefugio)](assets/eb3bed5c18ec/1*W61RVhw8J2xkDgFIxyNEJA.jpeg)
+![Infographics: [**CEAR**](https://twitter.com/CEARefugio)](../assets/eb3bed5c18ec/1*W61RVhw8J2xkDgFIxyNEJA.jpeg)
 
 Infographics: [**CEAR**](https://twitter.com/CEARefugio)
 
@@ -83,7 +83,7 @@ While under constant pressure, suspicions and blunt accusations coming from poli
 A police raid happned at Souda camp on Chios this morning at 7\.30 on Tuesday morning\. The raid reportedly lasted for two hours and involved dozens of officers searching residents and tents in the wake of tension between rival groups \(Algerians and Afghans\) staying at the facility\.
 
 
-![Photo: [City Plaza Squat‏](https://twitter.com/sol2refugees)](assets/eb3bed5c18ec/1*NkT81a_jLeFRBakml4jiIg.jpeg)
+![Photo: [City Plaza Squat‏](https://twitter.com/sol2refugees)](../assets/eb3bed5c18ec/1*NkT81a_jLeFRBakml4jiIg.jpeg)
 
 Photo: [City Plaza Squat‏](https://twitter.com/sol2refugees)
 
@@ -101,7 +101,7 @@ According to [media](http://www.ekathimerini.com/217203/article/ekathimerini/new
 
 
 
-![](assets/eb3bed5c18ec/1*fcdtYa_y7ZIeY68U4FCKlw.jpeg)
+![](../assets/eb3bed5c18ec/1*fcdtYa_y7ZIeY68U4FCKlw.jpeg)
 
 #### Prison, Food boxes, Spring on Lesvos…an update
 
@@ -143,14 +143,14 @@ The [LGBT Support Group for Refugees in Greece](https://www.facebook.com/groups/
 The [Amurtel Greece for Refugee Mothers and Babies](https://www.facebook.com/AmurtelHellasforRefugeeMothersandBabies/?ref=page_internal) are looking for a female farsi translator to work with them in their centre in Athens\. If you know anyone who could be interested, please contact: amurtel\.gr@amurtel\.org
 
 
-![“Children aged 3 & 4 waiting months for processing with their families in open refugee camps in Greece” — by: [Citizens UK](https://twitter.com/CitizensUK)](assets/eb3bed5c18ec/1*9DETUWFOyTuyWUBruUCZVA.jpeg)
+![“Children aged 3 & 4 waiting months for processing with their families in open refugee camps in Greece” — by: [Citizens UK](https://twitter.com/CitizensUK)](../assets/eb3bed5c18ec/1*9DETUWFOyTuyWUBruUCZVA.jpeg)
 
 “Children aged 3 & 4 waiting months for processing with their families in open refugee camps in Greece” — by: [Citizens UK](https://twitter.com/CitizensUK)
 #### SERBIA
 #### The first day of school
 
 
-![“Do you remember your first day in school? Today we took kids refugees to their first day in new school in Serbia\! Sitting around the round table and talking about school stuff we remembered our first day\! We remember standing in line before entering this big door with our palms sweating\! We remembered our dreams and hopes wondering what these kids must be thinking about at that moment?” \(Photo: [Refugees Foundation Serbia](https://www.facebook.com/izbegliceusrbiji/) \)](assets/eb3bed5c18ec/1*sKoxXxWxMBjwMnxTz7n-Lw.jpeg)
+![“Do you remember your first day in school? Today we took kids refugees to their first day in new school in Serbia\! Sitting around the round table and talking about school stuff we remembered our first day\! We remember standing in line before entering this big door with our palms sweating\! We remembered our dreams and hopes wondering what these kids must be thinking about at that moment?” \(Photo: [Refugees Foundation Serbia](https://www.facebook.com/izbegliceusrbiji/) \)](../assets/eb3bed5c18ec/1*sKoxXxWxMBjwMnxTz7n-Lw.jpeg)
 
 “Do you remember your first day in school? Today we took kids refugees to their first day in new school in Serbia\! Sitting around the round table and talking about school stuff we remembered our first day\! We remember standing in line before entering this big door with our palms sweating\! We remembered our dreams and hopes wondering what these kids must be thinking about at that moment?” \(Photo: [Refugees Foundation Serbia](https://www.facebook.com/izbegliceusrbiji/) \)
 #### HUNGARY
@@ -163,7 +163,7 @@ However, after the [last court decision made in favor of the refugees](ays-daily
 UNICEF also [reportedly](http://budapestbeacon.com/featured-articles/strasbourg-court-temporarily-halts-transfer-8-unaccompanied-refugee-children-transit-zones/45348) declared that “the detention of children who are fleeing violence and persecution in the hopes of a better life causes a newer traumatic experience\.”
 
 
-![by HHC](assets/eb3bed5c18ec/1*nzpTBpPWkfL1uzxhj0MgQA.jpeg)
+![by HHC](../assets/eb3bed5c18ec/1*nzpTBpPWkfL1uzxhj0MgQA.jpeg)
 
 by HHC
 
@@ -196,7 +196,7 @@ The issue of European solidarity and how it applies to broader migration and asy
 #### ITALY
 
 
-![**28 refugees** , asylum seekers, **slept on the street of Pordenone** the past night, due to overcrowded underorganized welcome facilities \(Photo: [Rete Solidale Pordenone](https://www.facebook.com/retesolidalepn/) \)](assets/eb3bed5c18ec/1*ogVHvclp7Y4kBPYUDyPI1g.jpeg)
+![**28 refugees** , asylum seekers, **slept on the street of Pordenone** the past night, due to overcrowded underorganized welcome facilities \(Photo: [Rete Solidale Pordenone](https://www.facebook.com/retesolidalepn/) \)](../assets/eb3bed5c18ec/1*ogVHvclp7Y4kBPYUDyPI1g.jpeg)
 
 **28 refugees** , asylum seekers, **slept on the street of Pordenone** the past night, due to overcrowded underorganized welcome facilities \(Photo: [Rete Solidale Pordenone](https://www.facebook.com/retesolidalepn/) \)
 #### AUSTRIA

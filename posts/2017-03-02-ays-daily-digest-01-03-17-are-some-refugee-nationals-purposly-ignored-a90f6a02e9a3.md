@@ -1,13 +1,13 @@
 ---
-title: AYS Daily Digest 01/03/17: Are some nationalities among the refugees purposely ignored?
+title: "AYS Daily Digest 01/03/17: Are some nationalities among the refugees purposely ignored?"
 author: Are You Syrious?
 date: 2017-03-02T01:39:40.564+0000
 last_modified_at: 2017-03-02T19:24:44.935+0000
 categories: 
 tags: [refugees,europe,greece,human-rights,italy]
-description: Greece: Unanswered previously arranges Asylum Service Skype calls to people from Pakistan, Bangladesh, Iraq and Afghanistan | Frontex boss…
+description: "Greece: Unanswered previously arranges Asylum Service Skype calls to people from Pakistan, Bangladesh, Iraq and Afghanistan | Frontex boss…"
 image:
-  path: assets/a90f6a02e9a3/1*lGmE-sIKgGVN_TKC75cEHA.jpeg
+  path: ../assets/a90f6a02e9a3/1*lGmE-sIKgGVN_TKC75cEHA.jpeg
 ---
 
 ### AYS Daily Digest 01/03/17: Are some nationalities among the refugees purposely ignored?
@@ -15,7 +15,7 @@ image:
 
 
 ![Mediterranean sea, February 24, 2017
-Refugees at the Golfo Azzurro rescue ship, as the vessel heads to Italy \(Photo: Santi Palacios\)](assets/a90f6a02e9a3/1*lGmE-sIKgGVN_TKC75cEHA.jpeg)
+Refugees at the Golfo Azzurro rescue ship, as the vessel heads to Italy \(Photo: Santi Palacios\)](../assets/a90f6a02e9a3/1*lGmE-sIKgGVN_TKC75cEHA.jpeg)
 
 Mediterranean sea, February 24, 2017
 Refugees at the Golfo Azzurro rescue ship, as the vessel heads to Italy \(Photo: Santi Palacios\)
@@ -85,11 +85,11 @@ Michael Buschheuer, the head of [Sea Eye](http://sea-eye.org/) , said in a [stat
 During the month of February no people were registred on Leros, while 51 person was registred on Kos, 117 on Samos, 198 on Lesvos, 274 on Chios and 333 on other islands, making a total of **974 people officially registred** in February\.
 
 
-![](assets/a90f6a02e9a3/1*O9LfX2Do2aGUYqjEep-WKA.jpeg)
+![](../assets/a90f6a02e9a3/1*O9LfX2Do2aGUYqjEep-WKA.jpeg)
 
 
 
-![](assets/a90f6a02e9a3/1*_aHZy7Rhju2p8txx7hqHKA.jpeg)
+![](../assets/a90f6a02e9a3/1*_aHZy7Rhju2p8txx7hqHKA.jpeg)
 
 
 Just few weeks after Minister Mouzalas announced that “no more tents were present in Greece”, 2 tents burnt down in Moria on February 27\. Luckily nobody got hurt, but a lot of private belongings were destroyed\. According to our sources, it was once again a small NGO that had to cope with the needs of the residents who lost the little they had in the fire\. Despite all the protests and promises made by the government, nothing really changed in the last weeks and still self funded volunteers have to cover the real daily needs of the residents, they claim\.
@@ -108,7 +108,7 @@ The Greek coastguard arrested a Turkish man on the island of Samos who smuggled 
 For a while now we have been receiving news about the camps on the mainland, that have previously been closed, getting ready to receive new residents that are supposedly soon coming from the Greek islands\. Vasilika is one of the camps discussed among the people and it is said to be the designated new temporary home to the people who are stuck in the overcrowded camps on the islands\. This is one of the camps that provided many a horrified looks at the photos sent from the camp in the summer peak when the first rains created huge problems for the people there as they almost flooded the entire camp area\. Mazarakis camp in Cherso is also said to be equipped with containers, to replace the old tents, and the word is that once again it will host refugees, but this time under the direct management of the Greek officials, according to our sources\. There have been no official confirmations yet to these plans\.
 
 
-![[**The Get Shit Done Team**](https://www.facebook.com/The-Get-Shit-Done-Team-304001796641127/?ref=page_internal&hc_ref=PAGES_TIMELINE) **once again got other people’s shit done, setting up the long awaited light system in the Softex camp, after the refugees have been living and fearing for their safety in one of the most dangerous of camps on the Greek mainland\.** \(Photo: [Help Refugees](https://www.facebook.com/HelpRefugeesUK/?fref=nf) \)](assets/a90f6a02e9a3/1*8NnDuMC3nQjT9zAr4oeApg.jpeg)
+![[**The Get Shit Done Team**](https://www.facebook.com/The-Get-Shit-Done-Team-304001796641127/?ref=page_internal&hc_ref=PAGES_TIMELINE) **once again got other people’s shit done, setting up the long awaited light system in the Softex camp, after the refugees have been living and fearing for their safety in one of the most dangerous of camps on the Greek mainland\.** \(Photo: [Help Refugees](https://www.facebook.com/HelpRefugeesUK/?fref=nf) \)](../assets/a90f6a02e9a3/1*8NnDuMC3nQjT9zAr4oeApg.jpeg)
 
 [**The Get Shit Done Team**](https://www.facebook.com/The-Get-Shit-Done-Team-304001796641127/?ref=page_internal&hc_ref=PAGES_TIMELINE) **once again got other people’s shit done, setting up the long awaited light system in the Softex camp, after the refugees have been living and fearing for their safety in one of the most dangerous of camps on the Greek mainland\.** \(Photo: [Help Refugees](https://www.facebook.com/HelpRefugeesUK/?fref=nf) \)
 
@@ -138,7 +138,7 @@ IOM Rome reports that 13,457 migrant arrivals in Italy before the end of Februar
 Deaths at sea in the region this year also are running well ahead of fatalities in 2016, especially on the Mediterranean’s central route linking Libya and Italy\. IOM’s Missing Migrants Project reports an estimated 444 deaths or disappearances of migrants on this corridor through 26 February, compared with 97 last year at this time — an increase of almost 400 percent\.
 
 
-![Today’s Times includes a letter from Rowan Williams appealing to the Government not to close ‘Dubs’\. \(By [Safe Passage UK](https://www.facebook.com/Safe-Passage-UK-159240661197359/) \)](assets/a90f6a02e9a3/1*QJjLK9lxfSP3EXPvGQp21A.jpeg)
+![Today’s Times includes a letter from Rowan Williams appealing to the Government not to close ‘Dubs’\. \(By [Safe Passage UK](https://www.facebook.com/Safe-Passage-UK-159240661197359/) \)](../assets/a90f6a02e9a3/1*QJjLK9lxfSP3EXPvGQp21A.jpeg)
 
 Today’s Times includes a letter from Rowan Williams appealing to the Government not to close ‘Dubs’\. \(By [Safe Passage UK](https://www.facebook.com/Safe-Passage-UK-159240661197359/) \)
 #### UK

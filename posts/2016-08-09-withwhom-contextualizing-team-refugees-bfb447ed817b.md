@@ -7,7 +7,7 @@ categories:
 tags: [refugees,syria]
 description: by Kelsey Montzka
 image:
-  path: assets/bfb447ed817b/1*xmXyhSlFycCuQ3oCi61Iog.jpeg
+  path: ../assets/bfb447ed817b/1*xmXyhSlFycCuQ3oCi61Iog.jpeg
 ---
 
 ### \#WithWhom? Contextualizing Team Refugees\.
@@ -15,7 +15,7 @@ image:
 _by Kelsey Montzka_
 
 
-![Ibrahim Al Hussein\. Photo Courtesy of IOC](assets/bfb447ed817b/1*xmXyhSlFycCuQ3oCi61Iog.jpeg)
+![Ibrahim Al Hussein\. Photo Courtesy of IOC](../assets/bfb447ed817b/1*xmXyhSlFycCuQ3oCi61Iog.jpeg)
 
 Ibrahim Al Hussein\. Photo Courtesy of IOC
 
@@ -83,7 +83,7 @@ But raising awareness of what, exactly? The “actionable outlet” provided by 
 Although the narrative of “The Refugee Crisis” in popular media is largely limited to that of the European Refugee Crisis, it is imperative to understand that the actual refugee crisis spans far beyond this\. As mentioned before, much of the “crisis” revolves around a _lack_ of movement\.
 
 
-![Distribution for South Sudanese Refugees at Ugandan\-South Sudan border\. Photo Courtesy UNHCR](assets/bfb447ed817b/1*tMr02Zp0jH3TWbqCLBDgmg.jpeg)
+![Distribution for South Sudanese Refugees at Ugandan\-South Sudan border\. Photo Courtesy UNHCR](../assets/bfb447ed817b/1*tMr02Zp0jH3TWbqCLBDgmg.jpeg)
 
 Distribution for South Sudanese Refugees at Ugandan\-South Sudan border\. Photo Courtesy UNHCR
 
@@ -105,7 +105,7 @@ However UNHCR’s access is contingent primarily on the good graces of the count
 Across the Balkan route, refugees and volunteers report multiple cases of “neutrality” bordering on complicity in state efforts to “evacuate” refugees from camps like Idomeni in Greece\. A cruel juxtaposition occurring as the forcible eviction occurred shortly before the much\-hailed World Humanitarian Summit, which prominently featured the role of the UN and other related programs of the UN in “solving” the crises of our time\. As pre\-registration in Greece for refugees creeps forward, deadlines and due dates being pushed into the far future, many of those stranded in camps may care little for this so\-called “profound symbol of hope\.”
 
 
-![Oreokastro Camp\. Photo courtesy of Rezan Boyraz](assets/bfb447ed817b/1*l5wBMZ4cGu1eijCEniFfiA.jpeg)
+![Oreokastro Camp\. Photo courtesy of Rezan Boyraz](../assets/bfb447ed817b/1*l5wBMZ4cGu1eijCEniFfiA.jpeg)
 
 Oreokastro Camp\. Photo courtesy of Rezan Boyraz
 

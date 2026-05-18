@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 16–17/05/2020 Vial camp, Chios: the perfect place for self-isolation…
+title: "AYS Weekend Digest 16–17/05/2020 Vial camp, Chios: the perfect place for self-isolation…"
 author: Are You Syrious?
 date: 2020-05-18T16:03:04.857+0100
 last_modified_at: 2020-05-18T16:03:04.857+0100
@@ -7,18 +7,18 @@ categories: Are You Syrious?
 tags: []
 description: The Central Med is a black hole / Serbia sends the army to camps again / Is Italian regularisation of migrant workers only a silver lining…
 image:
-  path: assets/26f6b23d041b/0*lxWZp2JTPJT37QzP.jpeg
+  path: ../assets/26f6b23d041b/0*lxWZp2JTPJT37QzP.jpeg
 ---
 
 ### AYS Weekend Digest 16–17/05/2020 Vial camp, Chios: the perfect place for self\-isolation…
 #### The Central Med is a black hole / Serbia sends the army to camps again / Is Italian regularisation of migrant workers only a silver lining? / And more…
 
 
-![](assets/26f6b23d041b/0*cm4gvXRbuVXI3L6P)
+![](../assets/26f6b23d041b/0*cm4gvXRbuVXI3L6P)
 
 
 
-![](assets/26f6b23d041b/0*lxWZp2JTPJT37QzP.jpeg)
+![](../assets/26f6b23d041b/0*lxWZp2JTPJT37QzP.jpeg)
 
 
 BREAKING: This morning, Monday 18th May, the housing squat Themistocleous58 in Exarchia, Athens was evicted by the Greek Police\. It has been home for around 50 people since 2016\. This is what the Greek government means when talking about going back to normality\. \(Photo by [Marios Lolos](https://twitter.com/lolosmarios/status/1262256400958455808) \)
@@ -28,59 +28,59 @@ BREAKING: This morning, Monday 18th May, the housing squat Themistocleous58 in E
 The perfect situation for hygiene and self isolation?
 
 
-![](assets/26f6b23d041b/0*hmgMUc2IOLwHbQ5w)
+![](../assets/26f6b23d041b/0*hmgMUc2IOLwHbQ5w)
 
 
 
-![](assets/26f6b23d041b/0*seFIDmqvXC7_DGtR.jpeg)
+![](../assets/26f6b23d041b/0*seFIDmqvXC7_DGtR.jpeg)
 
 
 
-![](assets/26f6b23d041b/0*x5XcXMTR07WbMqrD)
+![](../assets/26f6b23d041b/0*x5XcXMTR07WbMqrD)
 
 
 
-![](assets/26f6b23d041b/0*wQICIh7KMYdunpQc.jpeg)
+![](../assets/26f6b23d041b/0*wQICIh7KMYdunpQc.jpeg)
 
 
 
-![](assets/26f6b23d041b/0*Y5J1do2bh38Y6NDI)
+![](../assets/26f6b23d041b/0*Y5J1do2bh38Y6NDI)
 
 
 
-![](assets/26f6b23d041b/0*CuT2BMawlmKKejzb.jpeg)
+![](../assets/26f6b23d041b/0*CuT2BMawlmKKejzb.jpeg)
 
 
 
-![](assets/26f6b23d041b/0*H-MQqt6_DO-42QZI)
+![](../assets/26f6b23d041b/0*H-MQqt6_DO-42QZI)
 
 
 
-![](assets/26f6b23d041b/0*9RSav-Po4vLu0zE3.jpeg)
+![](../assets/26f6b23d041b/0*9RSav-Po4vLu0zE3.jpeg)
 
 
 
-![](assets/26f6b23d041b/0*EFTUgpoHYKnHBh63)
+![](../assets/26f6b23d041b/0*EFTUgpoHYKnHBh63)
 
 
 
-![](assets/26f6b23d041b/0*EE92u_8nX3KGKQnW.jpeg)
+![](../assets/26f6b23d041b/0*EE92u_8nX3KGKQnW.jpeg)
 
 
 
-![](assets/26f6b23d041b/0*KZgtKd_qWsztse63)
+![](../assets/26f6b23d041b/0*KZgtKd_qWsztse63)
 
 
 
-![](assets/26f6b23d041b/0*JC0OkhCuZ1ZxBFIW.jpeg)
+![](../assets/26f6b23d041b/0*JC0OkhCuZ1ZxBFIW.jpeg)
 
 
 
-![](assets/26f6b23d041b/0*5wJkkOEW-ygKmt98)
+![](../assets/26f6b23d041b/0*5wJkkOEW-ygKmt98)
 
 
 
-![](assets/26f6b23d041b/0*pGj-I__OceRjlN_9.jpeg)
+![](../assets/26f6b23d041b/0*pGj-I__OceRjlN_9.jpeg)
 
 
 \(Photo Credit: From residents of Vial via [Jenny Zinovia Kali](https://web.facebook.com/jenny.kali.1?fref=gs&__tn__=%2Cd%2AF%2AF-R&eid=ARAYWD8p1nO_kZR64d3L3XuHTMLzKfZgSr6txezr1LlyvRP-CfQA4POmbj9QS4gCMl6xqY4LHTRAu2jJ&tn-str=%2AF&dti=1508309029486384&hc_location=group_dialog) ‎ [Αλληλεγγύη στη Χίο / Solidarity in Chios](https://web.facebook.com/groups/1508309029486384/?ref=gs&tn-str=%2AF&fref=gs&dti=1508309029486384&hc_location=group_dialog) \)
@@ -104,19 +104,19 @@ An Eritrean man died on Saturday in the Zintan ‘official’ detention centre, 
 
 
 
-![](assets/26f6b23d041b/0*VjB3sQxgoIoOp78j)
+![](../assets/26f6b23d041b/0*VjB3sQxgoIoOp78j)
 
 
 
-![](assets/26f6b23d041b/0*RiSR7n06ntj2bfo7.jpeg)
+![](../assets/26f6b23d041b/0*RiSR7n06ntj2bfo7.jpeg)
 
 
 
-![](assets/26f6b23d041b/0*cRsGQsRsoSp9Jlyh)
+![](../assets/26f6b23d041b/0*cRsGQsRsoSp9Jlyh)
 
 
 
-![](assets/26f6b23d041b/0*CVhvCPGIAKsEKJYT.jpeg)
+![](../assets/26f6b23d041b/0*CVhvCPGIAKsEKJYT.jpeg)
 
 
 Zintan detention centre, Libya \(Photos via [Giulia Tranchina](https://www.facebook.com/rastajuly/posts/10157676074763621) \)
@@ -239,19 +239,19 @@ A local volunteer and refugee rights advocate wrote an [update](https://www.face
 
 
 
-![](assets/26f6b23d041b/0*77_Q4Y99MrNuVrzR)
+![](../assets/26f6b23d041b/0*77_Q4Y99MrNuVrzR)
 
 
 
-![](assets/26f6b23d041b/0*nV7cVwz3p7kSqKMg.jpeg)
+![](../assets/26f6b23d041b/0*nV7cVwz3p7kSqKMg.jpeg)
 
 
 
-![](assets/26f6b23d041b/0*MGqWfF6WYVXuJLlW)
+![](../assets/26f6b23d041b/0*MGqWfF6WYVXuJLlW)
 
 
 
-![](assets/26f6b23d041b/0*LIYlWGvrvMWASrfC.jpeg)
+![](../assets/26f6b23d041b/0*LIYlWGvrvMWASrfC.jpeg)
 
 
 Paris, May 2020 \(Photos by [Danika Jurisic](https://www.facebook.com/permalink.php?story_fbid=2644805565846066&id=100009499466124) \)
@@ -296,19 +296,19 @@ GERMANY
 LeaveNoOneBehind protests
 
 
-![](assets/26f6b23d041b/0*A-9RH0QktI8kXPSR)
+![](../assets/26f6b23d041b/0*A-9RH0QktI8kXPSR)
 
 
 
-![](assets/26f6b23d041b/0*IUNDOjo0R9IXjqHG.jpeg)
+![](../assets/26f6b23d041b/0*IUNDOjo0R9IXjqHG.jpeg)
 
 
 
-![](assets/26f6b23d041b/0*O8cVU5nm6sEiA4g0)
+![](../assets/26f6b23d041b/0*O8cVU5nm6sEiA4g0)
 
 
 
-![](assets/26f6b23d041b/0*7DV-ZiQZDF9eyV8o.jpeg)
+![](../assets/26f6b23d041b/0*7DV-ZiQZDF9eyV8o.jpeg)
 
 
 <\- Munster, Frankfurt \-> \(Photos from [Seebrucke Munster](https://twitter.com/MsSeebrucke/status/1261610331127844865/photo/2) , [Seebrucke Frankfurt](https://twitter.com/SeebrueckeFfm/status/1261656348623855621/photo/2) \)

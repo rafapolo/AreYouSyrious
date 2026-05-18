@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 30/07/2020: Trial against Salvini and the ElHiblu3
+title: "AYS Daily Digest 30/07/2020: Trial against Salvini and the ElHiblu3"
 author: Are You Syrious?
 date: 2020-07-31T13:28:07.099+0100
 last_modified_at: 2020-07-31T19:46:45.479+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,europe,refugees,italy,malta]
 description: Italian senate votes to allow for the prosecution of Salvini // Three young men face trial for mediating on a merchant ship that rescued…
 image:
-  path: assets/bf83204c6ec8/1*01pQRsCXTVRxR2n78Wp5Sg.jpeg
+  path: ../assets/bf83204c6ec8/1*01pQRsCXTVRxR2n78Wp5Sg.jpeg
 ---
 
 ### AYS Daily Digest 30/07/2020: Trial against Salvini and the El Hiblu Three
 #### Italian senate votes to allow the prosecution of Salvini // Three young men face trial for their role in mediating a dispute on a merchant ship that rescued them // MSF forced to close its Covid\-19 facility after fines from local authorities // Unbearable conditions in Vial camp // many people remain homeless in Victoria Square in Athens // NNK needs financial support // No news from a boat that has been at sea for four days now // and more…
 
 
-![copyright: Marios Lolos](assets/bf83204c6ec8/1*01pQRsCXTVRxR2n78Wp5Sg.jpeg)
+![copyright: Marios Lolos](../assets/bf83204c6ec8/1*01pQRsCXTVRxR2n78Wp5Sg.jpeg)
 
 copyright: Marios Lolos
 ### FEATURE: Two legal cases: One brings hope, one reinforces fears
@@ -106,11 +106,11 @@ According to journalists, some 150 people, among them many children, slept in Vi
 
 
 
-![](assets/bf83204c6ec8/1*O0ZRPSrWklze6eZVwUhAaA.jpeg)
+![](../assets/bf83204c6ec8/1*O0ZRPSrWklze6eZVwUhAaA.jpeg)
 
 
 
-![Copyright: Marios Lolos](assets/bf83204c6ec8/1*6MfCWBT0O9BHdY8rhF87JA.jpeg)
+![Copyright: Marios Lolos](../assets/bf83204c6ec8/1*6MfCWBT0O9BHdY8rhF87JA.jpeg)
 
 Copyright: Marios Lolos
 ### ALBANIA

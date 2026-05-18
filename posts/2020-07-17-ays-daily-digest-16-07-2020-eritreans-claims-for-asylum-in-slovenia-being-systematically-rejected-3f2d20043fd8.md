@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 16/07/2020: Eritreans claims for asylum in Slovenia being systematically rejected
+title: "AYS Daily Digest 16/07/2020: Eritreans claims for asylum in Slovenia being systematically rejected"
 author: Are You Syrious?
 date: 2020-07-17T14:11:36.160+0100
 last_modified_at: 2020-07-17T19:30:40.231+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,europe,refugees,slovenia,greece]
 description: Short recap on what happened in Greece in the last year // New insights into EUs cooperation with the Libyan Coast Guards // Deportation…
 image:
-  path: assets/3f2d20043fd8/1*mcU7Lg_nrYYMtde41KhX5Q.jpeg
+  path: ../assets/3f2d20043fd8/1*mcU7Lg_nrYYMtde41KhX5Q.jpeg
 ---
 
 ### AYS Daily Digest 16/07/2020: Eritrean asylum claims systematically rejected in Slovenia
 #### Short recap on events in Greece since New Democracy took power // New insights into EU’s cooperation with the Libyan Coast Guard // Deportation flights from Germany start again // Updates from France
 
 
-![Paris, where around 800 migrants are living in tents along Canal Saint\-Denis\. Copyright: InfoMigrant](assets/3f2d20043fd8/1*mcU7Lg_nrYYMtde41KhX5Q.jpeg)
+![Paris, where around 800 migrants are living in tents along Canal Saint\-Denis\. Copyright: InfoMigrant](../assets/3f2d20043fd8/1*mcU7Lg_nrYYMtde41KhX5Q.jpeg)
 
 Paris, where around 800 migrants are living in tents along Canal Saint\-Denis\. Copyright: InfoMigrant
 ### FEATURE: Eritreans’ claims for international protection are being systematically rejected in Slovenia
@@ -188,11 +188,11 @@ A German man faced trial for having promoted a “civil society asylum” \(Bür
 A protest took place on Wednesday in Belgium to demand regularization for paperless people\.
 
 
-![](assets/3f2d20043fd8/1*rHEQHc2hOVjOeeg8OhG4wQ.jpeg)
+![](../assets/3f2d20043fd8/1*rHEQHc2hOVjOeeg8OhG4wQ.jpeg)
 
 
 
-![copyrights: Sans\-Papiers TV](assets/3f2d20043fd8/1*kzN18FFSe40LuDsge3x3Wg.jpeg)
+![copyrights: Sans\-Papiers TV](../assets/3f2d20043fd8/1*kzN18FFSe40LuDsge3x3Wg.jpeg)
 
 copyrights: Sans\-Papiers TV
 ### FRANCE

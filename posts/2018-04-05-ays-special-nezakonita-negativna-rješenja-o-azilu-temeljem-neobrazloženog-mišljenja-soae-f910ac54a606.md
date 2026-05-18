@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,special,croatia,soa,mup]
 description: Izvještaj o arbitrarnom i nezakonitom postupanju Ministarstva unutarnjih poslova (MUP) i Sigurnosno obavještajne agencije (SOA) u…
 image:
-  path: assets/f910ac54a606/1*EaonqfNrqzJSMfYe_nbHLw.jpeg
+  path: ../assets/f910ac54a606/1*EaonqfNrqzJSMfYe_nbHLw.jpeg
 ---
 
 ### AYS SPECIAL — Nezakonita rješenja o azilu temeljem neobrazloženog mišljenja SOA\-e
 #### Izvještaj o arbitrarnom i nezakonitom postupanju **Ministarstva unutarnjih poslova \(MUP\) i Sigurnosno obavještajne agencije \(SOA\) u postupcima \(ne\)odobravanja međunarodne zaštite ili statusa stranaca u Hrvatskoj**
 
 
-![](assets/f910ac54a606/1*EaonqfNrqzJSMfYe_nbHLw.jpeg)
+![](../assets/f910ac54a606/1*EaonqfNrqzJSMfYe_nbHLw.jpeg)
 
 
 **Ovaj članak je originalno objavljen 26\. travnja 2017\.** 

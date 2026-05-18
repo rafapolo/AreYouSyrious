@@ -7,19 +7,19 @@ categories:
 tags: [refugees,europe]
 description: 14 to 21 of March — Calendar of protests, fundraisers and other events in solidarity with refugees.
 image:
-  path: assets/20bd2088f697/1*w9EV-XQsWQD7mNCCYgvGaQ.png
+  path: ../assets/20bd2088f697/1*w9EV-XQsWQD7mNCCYgvGaQ.png
 ---
 
 ### This Week’s Solidarity Events in Europe
 #### 14 to 21 of March — Calendar of protests, fundraisers and other events in solidarity with refugees\.
 
 
-![](assets/20bd2088f697/1*w9EV-XQsWQD7mNCCYgvGaQ.png)
+![](../assets/20bd2088f697/1*w9EV-XQsWQD7mNCCYgvGaQ.png)
 
 ### Greece
 
 
-![](assets/20bd2088f697/1*3o5Colrvi4cQIaZGMqFPgw.png)
+![](../assets/20bd2088f697/1*3o5Colrvi4cQIaZGMqFPgw.png)
 
 
 **Tuesday 14th from 12AM to 3PM —** [Caught between the Devil and the Deep Blue Sea: the impasse of the Afghan refugees](http://solomon.gr/project/conference-by-afghan-community-in-greece/) : Conference by the Afghan community in Greece on the situation the country is facing and the rights of Afghan refugees\.
@@ -27,7 +27,7 @@ image:
 _Address: Cultural Centre of Athens, Amphitheater “Antonis Tristsis, Academias 50, Athens_
 
 
-![](assets/20bd2088f697/1*r1I13yA9yJHuAW88Xx-Pdg.png)
+![](../assets/20bd2088f697/1*r1I13yA9yJHuAW88Xx-Pdg.png)
 
 
 **Wednesday 15th from 6:30PM to 8PM** — Refugees and locals are coming together in a unique People’s Assembly in Mytilene to denounce the impact of the EU\-Turkey deal on their everyday lives\. At the assembly, Moria refugee community leaders will present their open letter to European Union government leaders\.
@@ -35,7 +35,7 @@ _Address: Cultural Centre of Athens, Amphitheater “Antonis Tristsis, Academias
 _Address: Lesvion Hotel Mytilene_
 
 
-![](assets/20bd2088f697/1*GXgPEPw1h4tyZg4jzUY4Yw.png)
+![](../assets/20bd2088f697/1*GXgPEPw1h4tyZg4jzUY4Yw.png)
 
 
 **Saturday 18 from 3PM to 7PM** — [March against Fascism, Racism, Austerity and the EU — Turkey deal](https://www.facebook.com/events/364263960626344/) : One year after the signature of the EU\-Turkey deal, City Plaza is calling for a European mobilization against the agreement and for a protest against racism towards refugees and immigrants\. Many organisations throughout Europe have answered the call and most of these events can be found on this [map](https://www.google.com/maps/d/u/0/viewer?mid=1clpJX1_iDx-Gici5cfdLFZcLuvU&ll=43.35453150000002%2C-2.670948400000043&z=8) \.
@@ -47,7 +47,7 @@ _Address: Omonia Square, Athina 104 31_
 
 
 
-![](assets/20bd2088f697/0*a4EbpaKBrvgD-W9F.)
+![](../assets/20bd2088f697/0*a4EbpaKBrvgD-W9F.)
 
 
 **Saturday 18th from 12PM** : Antifa demo against the EU\- Turkey Deal\.
@@ -58,7 +58,7 @@ _Meeting point: in front of the Venizelos statue, Egnatia 78, Thessaloniki_
 **Friday 17th from 7PM** — [Grenzen überwinden\! Von der Seenotrettung bis zur Solidarischen Stadt](http://www.frankfurter-info.org/termine/grenzen-ueberwinden-von-der-seenotrettung-bis-zur-solidarischen-stadt) : Roundtable with Ruben Neugebauer from Sea Watch on how to resist against migration policies, one day before the international day of action against the EU\-Turkey deal\. _Address: Exzess, Leipziger Str\. 91, Frankfurt_
 
 
-![](assets/20bd2088f697/1*LWFnoD21tCbycZqmGDSSpA.png)
+![](../assets/20bd2088f697/1*LWFnoD21tCbycZqmGDSSpA.png)
 
 
 **Saturday 18th of March** — The European system of exclusion is getting more and more brutal\. Germany is going ahead with more and more deportations\. Welcome2Stay is calling for nationwide days of action for a right to stay and equal social rights for everyone from 18th to 23rd of March\. The weekend of the 18th of March was chosen after a call for action by the Hotel City Plaza in Athens\.
@@ -74,13 +74,13 @@ _Meeting point: in front of the Venizelos statue, Egnatia 78, Thessaloniki_
 ### Italy
 
 
-![](assets/20bd2088f697/1*-ez0OplTFNC18PL-4bnMrw.png)
+![](../assets/20bd2088f697/1*-ez0OplTFNC18PL-4bnMrw.png)
 
 
 **Thursday 16th from 6PM to 10PM** — [Solidarity practices on the borders of Europe — from Athens to Taranto](https://www.facebook.com/events/1859822960938306/) : Before the International Day of Action on the 18th, a discussion will take place with activists from Italy and Greece, including activists from City Plaza and Jasmin School in Athens\. _Address:Esc Atelier Via dei Volsci, 159 — San Lorenzo, 00185 Rome_
 
 
-![](assets/20bd2088f697/1*lQ-WVlOpQ-YbZh0q7KmBYw.png)
+![](../assets/20bd2088f697/1*lQ-WVlOpQ-YbZh0q7KmBYw.png)
 
 
 **Saturday 18th from 3\.30PM to 5\.30PM** — [Ten speeches against racism and the closed borders](https://www.facebook.com/events/1346716918725320/) : Ten questions and ten speeches on the occasion of the International Day of Action against racism, fascism, austerity and the EU — Turkey deal\. The questions include “is Turkey a safe country? What does it mean to repel migrants to Libya? Is a different Europe possible?
@@ -88,7 +88,7 @@ _Meeting point: in front of the Venizelos statue, Egnatia 78, Thessaloniki_
 _Address: Via Francesco Rizzoli, 40125 Bologna_
 
 
-![](assets/20bd2088f697/1*6ExxcoWgss_S4VmD9j4KeA.png)
+![](../assets/20bd2088f697/1*6ExxcoWgss_S4VmD9j4KeA.png)
 
 
 **Sunday 19th from 2PM —** [Side by Side — in marcia per l’umanità”](http://www.meltingpot.org/Sunday-March-19-2017-in-Venice-Side-by-Side-marching-for.html#.WLfpJbGZMdU) **:** March for migrants’ rights and for the creation of a better reception system in Italy and specifically in Veneto\. Part to a wider call by Refugees City Plaza in Athens to mobilize against the EU — Turkey deal\.
@@ -97,7 +97,7 @@ _Meeting point: In front of the railway station Santa Lucia in Venice_
 ### France
 
 
-![](assets/20bd2088f697/1*T1U1Ur7UUGwVgu_xOIaeJQ.jpeg)
+![](../assets/20bd2088f697/1*T1U1Ur7UUGwVgu_xOIaeJQ.jpeg)
 
 
 **Saturday 18th from 10AM** — National meeting of refugees and migrants: Day of discussions for migrants no matter their administrative status\. The goal is to define a united political base to break the isolation and the divisions that are produced by government policies\. Participants will be divided in three groups to discuss problems of housing, problems of work and problems of undocumented people\. **This is an event for migrants and refugees\.**
@@ -106,7 +106,7 @@ _Address: Ecole Normale Supérieure \(ENS\), 45 rue d’Ulm, Paris_
 #### UK
 
 
-![](assets/20bd2088f697/1*V0iz9w4dHdTnxEOfufxlUA.png)
+![](../assets/20bd2088f697/1*V0iz9w4dHdTnxEOfufxlUA.png)
 
 
 **Thursday 16th from 7PM to 9PM** — [Report launch: Refugees and asylum seekers in Berlin](https://www.facebook.com/events/1353803427973230/?ref=1&feed_story_type=279&action_history=%5B%7B%22surface%22%3A%22permalink%22%2C%22mechanism%22%3A%22surface%22%2C%22extra_data%22%3A%5B%5D%7D%5D) : Join the Refugee Rights Data Project for the launch of its latest report relating to refugees and asylum seekers in Berlin, Germany\. The research took place in December 2016 and January 2017 across a number of camps and accommodation centres in Berlin\. The findings highlight a number of successful approaches taken by the German government in relation to refugee reception, as well as a few areas for concern raised by respondents\.
@@ -114,7 +114,7 @@ _Address: Ecole Normale Supérieure \(ENS\), 45 rue d’Ulm, Paris_
 _Address: Goethe\-Institut London, 50 Princes Gate, Exhibition Road, SW7 2 London_
 
 
-![](assets/20bd2088f697/1*4eScro2Si1apUOJe5--5Vw.png)
+![](../assets/20bd2088f697/1*4eScro2Si1apUOJe5--5Vw.png)
 
 
 **Saturday 18th from 7:30PM to 3AM** — [Refugees Welcome Here](https://www.facebook.com/events/375418872828887/) : A night of bands and DJs in support of the Dunkirk Legal Support Team and the ‘Unofficial’Women and Children’s Centre for their work with unaccompanied refugee minors in the UK and France\.
@@ -123,7 +123,7 @@ _Address: Amersham Arms, 388 New Cross Road, SE14 6TY London_
 ### Denmark
 
 
-![](assets/20bd2088f697/1*mDrJOaQovyIdGJ0ebd0_qg.png)
+![](../assets/20bd2088f697/1*mDrJOaQovyIdGJ0ebd0_qg.png)
 
 
 **Friday 17th from 6PM to 1AM** — [Support Party for Deportees: Stop Deportations to Afghanistan](https://www.facebook.com/events/241920259545006/) : An evening of solidarity with those subject to Denmark’s inhumane deportations\. Proceeds will go towards a safe house for deportees in Kabul\.
@@ -132,7 +132,7 @@ _Address: Folkets Hus, Stengade 50, Nørrebro_
 ### Finland
 
 
-![](assets/20bd2088f697/1*xm_nJxRiMcgTTDiBV9AciA.png)
+![](../assets/20bd2088f697/1*xm_nJxRiMcgTTDiBV9AciA.png)
 
 
 **Until 23rd of March:** [Right to Live — Oikeus elää](https://www.facebook.com/events/1735675453409402/) : A group of asylum seekers in Finland has decided to step out from reception centers because of the Finnish Government’s and the Finnish Immigration Service’s policies\. Their tent at the Helsinki Railway Square symbolizes their displacement and the search for home and safety\. You are welcome to join them and their demands including:

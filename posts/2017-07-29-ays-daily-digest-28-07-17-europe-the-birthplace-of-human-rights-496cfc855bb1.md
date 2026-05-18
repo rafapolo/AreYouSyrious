@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 28/07/17: Europe — The ‘birthplace’ of human rights
+title: "AYS Daily Digest 28/07/17: Europe — The ‘birthplace’ of human rights"
 author: Are You Syrious?
 date: 2017-07-29T00:09:28.361+0100
 last_modified_at: 2017-08-12T19:40:43.476+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,fortress-europe,bulgaria,busmantsi,balkan-route]
 description: Europe — the ‘birthplace’ of human rights / More deaths in the Aegean Day 30 of the Moria hunger strike / Amnesty call for investigation…
 image:
-  path: assets/496cfc855bb1/1*KeakFK6W8L4D-3sFCyN1mA.jpeg
+  path: ../assets/496cfc855bb1/1*KeakFK6W8L4D-3sFCyN1mA.jpeg
 ---
 
 ### AYS Daily Digest 28/07/17: Europe — The ‘birthplace’ of human rights
@@ -18,7 +18,7 @@ _Europe — the ‘birthplace’ of human rights / More deaths in the Aegean Day
 What follows is the testimony of a volunteer who visits a friend in a closed camp in Bulgaria:
 
 
-[![Busmantsi Camp, Bulgaria](assets/496cfc855bb1/871c_hqdefault.jpg "Busmantsi Camp, Bulgaria")](http://www.youtube.com/watch?v=cCBGZy18izs)
+[![Busmantsi Camp, Bulgaria](../assets/496cfc855bb1/871c_hqdefault.jpg "Busmantsi Camp, Bulgaria")](http://www.youtube.com/watch?v=cCBGZy18izs)
 
 
 
@@ -85,11 +85,11 @@ Guidelines for completing the online application for a renewed residence permit 
 
 
 
-![](assets/496cfc855bb1/1*vVJqa99kagsM8sDEVDp9Xg.jpeg)
+![](../assets/496cfc855bb1/1*vVJqa99kagsM8sDEVDp9Xg.jpeg)
 
 
 
-![Images by Arash Hampay](assets/496cfc855bb1/1*bdpShZmwdcjuoY570ueVKA.jpeg)
+![Images by Arash Hampay](../assets/496cfc855bb1/1*bdpShZmwdcjuoY570ueVKA.jpeg)
 
 Images by Arash Hampay
 
@@ -137,7 +137,7 @@ They are supplying people with Micro SD cards that can be used in phones preload
 Police are clearing the Valletta area where refugees have been sleeping\. Volunteers report that tensions are growing between volunteers and the authorities\.
 
 
-![La Voce Gorizia & Provincia](assets/496cfc855bb1/1*KeakFK6W8L4D-3sFCyN1mA.jpeg)
+![La Voce Gorizia & Provincia](../assets/496cfc855bb1/1*KeakFK6W8L4D-3sFCyN1mA.jpeg)
 
 La Voce Gorizia & Provincia
 

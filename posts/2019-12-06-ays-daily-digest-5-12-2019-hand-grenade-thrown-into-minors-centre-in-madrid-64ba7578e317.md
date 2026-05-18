@@ -5,9 +5,9 @@ date: 2019-12-06T11:36:42.452+0000
 last_modified_at: 2019-12-06T11:36:42.452+0000
 categories: Are You Syrious?
 tags: [refugees,digest,hortaleza,minors,pushback]
-description: Tragedy off the coast of Mauritania /// Athens: 15 squats occupied in response to government ultimatum /// Court rules in favour of people…
+description: "Tragedy off the coast of Mauritania /// Athens: 15 squats occupied in response to government ultimatum /// Court rules in favour of people…"
 image:
-  path: assets/64ba7578e317/1*A5yzXTVkxsifow0NY59YVA.jpeg
+  path: ../assets/64ba7578e317/1*A5yzXTVkxsifow0NY59YVA.jpeg
 ---
 
 ### AYS Daily Digest 5/12/2019 — Hand grenade thrown into minors centre in Madrid
@@ -15,7 +15,7 @@ image:
 Tragedy off the coast of Mauritania /// Athens: 15 squats occupied in response to government ultimatum /// Court rules in favour of people illegally pushed back to Libya by Italian authorities in 2009 /// 79 people arrive in the UK /// German ministers propose to lift the ban on deportation to Syria…
 
 
-![Artwork via [Gonzalo Semprun](https://twitter.com/gsemprunmdg/status/1202873166621814784)](assets/64ba7578e317/1*A5yzXTVkxsifow0NY59YVA.jpeg)
+![Artwork via [Gonzalo Semprun](https://twitter.com/gsemprunmdg/status/1202873166621814784)](../assets/64ba7578e317/1*A5yzXTVkxsifow0NY59YVA.jpeg)
 
 Artwork via [Gonzalo Semprun](https://twitter.com/gsemprunmdg/status/1202873166621814784)
 #### FEATURE STORY: Hand grenade thrown into an unaccompanied minors centre in Madrid
@@ -50,7 +50,7 @@ HRW [denounce](https://www.hrw.org/news/2019/12/04/greece-camp-conditions-endang
 Watch the video:
 
 
-[![Women At Risk: Moria Refugee Camp](assets/64ba7578e317/9cdd_hqdefault.jpg "Women At Risk: Moria Refugee Camp")](https://www.youtube.com/watch?v=gxkmw19ndsg)
+[![Women At Risk: Moria Refugee Camp](../assets/64ba7578e317/9cdd_hqdefault.jpg "Women At Risk: Moria Refugee Camp")](https://www.youtube.com/watch?v=gxkmw19ndsg)
 
 #### Woman dies in a fire in Kara Tepe, Lesvos
 

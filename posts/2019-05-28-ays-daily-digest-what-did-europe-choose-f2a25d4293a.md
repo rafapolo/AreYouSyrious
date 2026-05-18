@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 27/5/19: What did Europe choose?
+title: "AYS Daily Digest 27/5/19: What did Europe choose?"
 author: Are You Syrious?
 date: 2019-05-28T14:53:10.713+0100
 last_modified_at: 2019-05-29T02:10:31.271+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,european-parliament,asylum,uk]
 description: What do the results mean for human rights and people in need for them / Dublin return to Croatia prevented / Clock is ticking for UK…
 image:
-  path: assets/f2a25d4293a/1*1JVEhsgd4rqTu7vITSZKow.jpeg
+  path: ../assets/f2a25d4293a/1*1JVEhsgd4rqTu7vITSZKow.jpeg
 ---
 
 ### AYS Daily Digest 27/5/19: What did Europe choose?
 #### What do the results mean for human rights and people who need them / Dublin transfer overruled in courts from Croatia to Italy / Clock is ticking for UK resettlement scheme / Young people in Morocco risk lives to reach Spain
 
 
-![Photo source: Melting Pot](assets/f2a25d4293a/1*1JVEhsgd4rqTu7vITSZKow.jpeg)
+![Photo source: Melting Pot](../assets/f2a25d4293a/1*1JVEhsgd4rqTu7vITSZKow.jpeg)
 
 Photo source: Melting Pot
 #### Featured
@@ -106,7 +106,7 @@ People keep passing through Tuzla, where locals gathered in volunteer groups con
 This is the only type of approach from one community to another that might enable a somewhat healthy atmosphere among the people on the move, as the migratory journey itself can be traumatic enough\.
 
 
-![Tuzla, photo by: [Zuhra Baltic Halilovic](https://web.facebook.com/zuhra.baltichalilovic?fref=gs&__tn__=%2Cd%2AF%2AF-R&eid=ARB7JWSohaUEUP0BKOkRACvtbAgAd1ioa6-C9KOB-JQDTgBplR4tYuUBp3Qo9hObHU7GtXZgyXXWMP1c&tn-str=%2AF&dti=459851131106164&hc_location=group_dialog) ‎](assets/f2a25d4293a/1*UW5t08o3Cp7bJzrChPMliw.jpeg)
+![Tuzla, photo by: [Zuhra Baltic Halilovic](https://web.facebook.com/zuhra.baltichalilovic?fref=gs&__tn__=%2Cd%2AF%2AF-R&eid=ARB7JWSohaUEUP0BKOkRACvtbAgAd1ioa6-C9KOB-JQDTgBplR4tYuUBp3Qo9hObHU7GtXZgyXXWMP1c&tn-str=%2AF&dti=459851131106164&hc_location=group_dialog) ‎](../assets/f2a25d4293a/1*UW5t08o3Cp7bJzrChPMliw.jpeg)
 
 Tuzla, photo by: [Zuhra Baltic Halilovic](https://web.facebook.com/zuhra.baltichalilovic?fref=gs&__tn__=%2Cd%2AF%2AF-R&eid=ARB7JWSohaUEUP0BKOkRACvtbAgAd1ioa6-C9KOB-JQDTgBplR4tYuUBp3Qo9hObHU7GtXZgyXXWMP1c&tn-str=%2AF&dti=459851131106164&hc_location=group_dialog) ‎
 

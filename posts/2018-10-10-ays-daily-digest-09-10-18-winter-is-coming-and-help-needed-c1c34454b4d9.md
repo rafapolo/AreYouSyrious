@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 09/10/18: Winter is coming and help needed
+title: "AYS DAILY DIGEST 09/10/18: Winter is coming and help needed"
 author: Are You Syrious?
 date: 2018-10-10T00:41:42.088+0100
 last_modified_at: 2018-10-11T11:17:02.316+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,greece,europe,france,germany]
 description: As the temperatures fall, the situation for many people is worsening all over Europe / EASO to support Greek Asylum Service with…
 image:
-  path: assets/c1c34454b4d9/1*1o5BA8qlpcL-2WmXYEveEw.jpeg
+  path: ../assets/c1c34454b4d9/1*1o5BA8qlpcL-2WmXYEveEw.jpeg
 ---
 
 ### AYS DAILY DIGEST 09/10/18: Winter is coming and help is needed
 #### As temperatures fall, the situation for many people is worsening all over Europe / EASO to support Greek Asylum Service with interviews / Hostile situation in Bosnia / People are back at Saint Denis / Only 100,000 people have come to Germany so far this year
 
 
-![Credits: [Art Against/Luc Descheemaeker](https://www.facebook.com/artagainstproject/photos/a.639651369417634/1893815854001173/?type=3&theater&ifg=1)](assets/c1c34454b4d9/1*1o5BA8qlpcL-2WmXYEveEw.jpeg)
+![Credits: [Art Against/Luc Descheemaeker](https://www.facebook.com/artagainstproject/photos/a.639651369417634/1893815854001173/?type=3&theater&ifg=1)](../assets/c1c34454b4d9/1*1o5BA8qlpcL-2WmXYEveEw.jpeg)
 
 Credits: [Art Against/Luc Descheemaeker](https://www.facebook.com/artagainstproject/photos/a.639651369417634/1893815854001173/?type=3&theater&ifg=1)
 ### Greece
@@ -77,7 +77,7 @@ There are around 300 people at Saint\-Denis square in Paris\. Solidarité migran
 The volunteers demand the City Council of Saint Denis install a restroom, toilets, water points, garbage bins, and clean the place regularly\.
 
 
-![Volunteers at the food distribution\. Credits: [Solidarite migrants Wilson](https://www.facebook.com/permalink.php?story_fbid=1002423439958428&id=598228360377940&__xts__[0]=68.ARASuqM99SyJA1x7hl87paJCCZMStJ1F7RoZ0eEIHYzFLl5HWjS3yBiT0bgezDoWCZigJi3j84QoMnBtVf7X2A_P5K7DEcsSmSa8k4zjRtNZy3_cTZc-UZkjtttbkgHhSq3BTM5VxwdF3KD-Gk9j3eHYSAkNCGbUzBX8oHcjmHuYpX14v5eV_w&__tn__=-R)](assets/c1c34454b4d9/1*9Gj9AMXAvW8EXRJoHaWa7w.jpeg)
+![Volunteers at the food distribution\. Credits: [Solidarite migrants Wilson](https://www.facebook.com/permalink.php?story_fbid=1002423439958428&id=598228360377940&__xts__[0]=68.ARASuqM99SyJA1x7hl87paJCCZMStJ1F7RoZ0eEIHYzFLl5HWjS3yBiT0bgezDoWCZigJi3j84QoMnBtVf7X2A_P5K7DEcsSmSa8k4zjRtNZy3_cTZc-UZkjtttbkgHhSq3BTM5VxwdF3KD-Gk9j3eHYSAkNCGbUzBX8oHcjmHuYpX14v5eV_w&__tn__=-R)](../assets/c1c34454b4d9/1*9Gj9AMXAvW8EXRJoHaWa7w.jpeg)
 
 Volunteers at the food distribution\. Credits: [Solidarite migrants Wilson](https://www.facebook.com/permalink.php?story_fbid=1002423439958428&id=598228360377940&__xts__[0]=68.ARASuqM99SyJA1x7hl87paJCCZMStJ1F7RoZ0eEIHYzFLl5HWjS3yBiT0bgezDoWCZigJi3j84QoMnBtVf7X2A_P5K7DEcsSmSa8k4zjRtNZy3_cTZc-UZkjtttbkgHhSq3BTM5VxwdF3KD-Gk9j3eHYSAkNCGbUzBX8oHcjmHuYpX14v5eV_w&__tn__=-R)
 

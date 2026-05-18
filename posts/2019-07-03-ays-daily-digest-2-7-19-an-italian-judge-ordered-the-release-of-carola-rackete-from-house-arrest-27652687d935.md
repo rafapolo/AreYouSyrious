@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,italy,rescue]
 description: Helpful resources in Greece // anti-Syrian language in Turkey // baby needs in Serbia // events in France // and more…
 image:
-  path: assets/27652687d935/1*JFsh4D-NXnjd_B5Hmzg92A.jpeg
+  path: ../assets/27652687d935/1*JFsh4D-NXnjd_B5Hmzg92A.jpeg
 ---
 
 ### AYS Daily Digest 2/7/19: Italian judge ordered the release of Carola Rackete from house arrest
 #### _Helpful resources in Greece // anti\-Syrian language in Turkey // baby needs in Serbia // events in France // and more…_
 
 
-![Photo by [Alagon](https://www.facebook.com/alagooon/photos/a.1652245135065220/2369795286643531/?type=3&theater)](assets/27652687d935/1*JFsh4D-NXnjd_B5Hmzg92A.jpeg)
+![Photo by [Alagon](https://www.facebook.com/alagooon/photos/a.1652245135065220/2369795286643531/?type=3&theater)](../assets/27652687d935/1*JFsh4D-NXnjd_B5Hmzg92A.jpeg)
 
 Photo by [Alagon](https://www.facebook.com/alagooon/photos/a.1652245135065220/2369795286643531/?type=3&theater)
 #### UPDATE: At least 40 people died in the night when Tajoura Migrant Detention Centre in Libya was bombed by airstrikes\.
@@ -73,11 +73,11 @@ We will keep updating on the situation in our next digests\.
 ProActiva Open Arms is calling for the end of criminalizing sea rescue by docking Wednesday morning at 8:30am at the European Parliament in Strasbourg\. A press conference with Anabel Montes from Proactiva Open Arms will follow at 10am with an introduction by Miguel Urbán MEP\.
 
 
-![](assets/27652687d935/1*I0eOBK_nSxNxeTWOF-6RZw.jpeg)
+![](../assets/27652687d935/1*I0eOBK_nSxNxeTWOF-6RZw.jpeg)
 
 
 
-![](assets/27652687d935/1*xLckLA2G1u8a-v5jObN2gA.jpeg)
+![](../assets/27652687d935/1*xLckLA2G1u8a-v5jObN2gA.jpeg)
 
 
 **At least 597 people died** in the Mediterranean so far in 2019\. By refusing to help and protect sea rescue, it is Europe committing a criminal act, not the brave rescuers like captain Carola Rackete\.
@@ -117,7 +117,7 @@ Anti\-Syrian language is only continuing post Istanbul elections\. Some Syrians 
 #### Sea
 
 
-![Back at sea\! “Once again we are at sea to save ourselves, but we are not alone\. Proactiva Open Arms and Alan Kurdi of sea\-eye will be with us, a fleet of civil society that does not give up defending the right to life\.” Photo by [Mediterranea Saving Humans](https://www.facebook.com/Mediterranearescue/photos/a.275129016441663/391488888139008/?type=3&theater)](assets/27652687d935/1*w1CPX6JTrErsOIbibHl5Kw.png)
+![Back at sea\! “Once again we are at sea to save ourselves, but we are not alone\. Proactiva Open Arms and Alan Kurdi of sea\-eye will be with us, a fleet of civil society that does not give up defending the right to life\.” Photo by [Mediterranea Saving Humans](https://www.facebook.com/Mediterranearescue/photos/a.275129016441663/391488888139008/?type=3&theater)](../assets/27652687d935/1*w1CPX6JTrErsOIbibHl5Kw.png)
 
 Back at sea\! “Once again we are at sea to save ourselves, but we are not alone\. Proactiva Open Arms and Alan Kurdi of sea\-eye will be with us, a fleet of civil society that does not give up defending the right to life\.” Photo by [Mediterranea Saving Humans](https://www.facebook.com/Mediterranearescue/photos/a.275129016441663/391488888139008/?type=3&theater)
 #### GREECE
@@ -126,7 +126,7 @@ Refugee Info released a helpful guide in navigating relevant Greek Law and ways 
 #### Islands
 
 
-![Photo by [Starfish Foundation](https://www.facebook.com/photo.php?fbid=10215156380489607&set=gm.1150777815129664&type=3&theater)](assets/27652687d935/1*7WXdfIwyq_WfKO98aR9WOA.jpeg)
+![Photo by [Starfish Foundation](https://www.facebook.com/photo.php?fbid=10215156380489607&set=gm.1150777815129664&type=3&theater)](../assets/27652687d935/1*7WXdfIwyq_WfKO98aR9WOA.jpeg)
 
 Photo by [Starfish Foundation](https://www.facebook.com/photo.php?fbid=10215156380489607&set=gm.1150777815129664&type=3&theater)
 
@@ -161,7 +161,7 @@ Aegean Boat Report’s monthly statistics: **402 boats** arrived to the Greek is
 [Salvamento Marítimo Humanitario](https://www.facebook.com/smhumanitario/photos/a.921278434630674/2329868710438299/?type=3&theater) reports that a boat arrived on Chios on Tuesday: 35 people \(6 Minors, 12 women, 17 men\)
 
 
-![“Boat Refugee Foundation is urgently looking for teachers, pedagogues, psychologists and social workers who can come and strengthen our PSS \(psychosocial\) team on Lesvos from mid July to the end of August\.” They are also looking for french [interpreters](https://www.facebook.com/photo.php?fbid=10213494037977379&set=gm.1150924878448291&type=3&theater) \! Photo by [Boat Refugee Foundation](https://www.facebook.com/photo.php?fbid=10213494577710872&set=gm.1150994265108019&type=3&theater)](assets/27652687d935/1*1zakWEtcWwIVEUVsL2IkiQ.jpeg)
+![“Boat Refugee Foundation is urgently looking for teachers, pedagogues, psychologists and social workers who can come and strengthen our PSS \(psychosocial\) team on Lesvos from mid July to the end of August\.” They are also looking for french [interpreters](https://www.facebook.com/photo.php?fbid=10213494037977379&set=gm.1150924878448291&type=3&theater) \! Photo by [Boat Refugee Foundation](https://www.facebook.com/photo.php?fbid=10213494577710872&set=gm.1150994265108019&type=3&theater)](../assets/27652687d935/1*1zakWEtcWwIVEUVsL2IkiQ.jpeg)
 
 “Boat Refugee Foundation is urgently looking for teachers, pedagogues, psychologists and social workers who can come and strengthen our PSS \(psychosocial\) team on Lesvos from mid July to the end of August\.” They are also looking for french [interpreters](https://www.facebook.com/photo.php?fbid=10213494037977379&set=gm.1150924878448291&type=3&theater) \! Photo by [Boat Refugee Foundation](https://www.facebook.com/photo.php?fbid=10213494577710872&set=gm.1150994265108019&type=3&theater)
 #### Mainland
@@ -183,19 +183,19 @@ The Center for Social Integration and Employability of Caritas Hellas in Kipseli
 In an update from Subotica by the Asylum Protection Centre:
 
 
-![“Many of refugee families with children and babies accommodated in the reception center in Subotica are in need of psycho social support/counseling because they have problems withstanding difficult conditions in the reception center, from high temperature, heat and insufficient humanitarian aid…\(Our necessities include\) are baby cradles/baby carriers, because parents do not have place to put their babies to sleep at night, they often use carton boxes as cradles\.” Photo by Azil u Srbiji Asylum in Serbia](assets/27652687d935/1*F5VaNEaSqgKaamV5avwgSw.jpeg)
+![“Many of refugee families with children and babies accommodated in the reception center in Subotica are in need of psycho social support/counseling because they have problems withstanding difficult conditions in the reception center, from high temperature, heat and insufficient humanitarian aid…\(Our necessities include\) are baby cradles/baby carriers, because parents do not have place to put their babies to sleep at night, they often use carton boxes as cradles\.” Photo by Azil u Srbiji Asylum in Serbia](../assets/27652687d935/1*F5VaNEaSqgKaamV5avwgSw.jpeg)
 
 “Many of refugee families with children and babies accommodated in the reception center in Subotica are in need of psycho social support/counseling because they have problems withstanding difficult conditions in the reception center, from high temperature, heat and insufficient humanitarian aid…\(Our necessities include\) are baby cradles/baby carriers, because parents do not have place to put their babies to sleep at night, they often use carton boxes as cradles\.” Photo by Azil u Srbiji Asylum in Serbia
 #### HUNGARY
 
 
-![“ONE YEAR AFTER: How legal changes resulted in blanket rejections, refoulement and systemic starvation in detention\.” Info graphic by [RefuComm](https://www.facebook.com/refucomm/photos/a.147610778924066/879447622407041/?type=3&theater)](assets/27652687d935/1*qH9Yxr1TddaPGAUrLDX7Aw.png)
+![“ONE YEAR AFTER: How legal changes resulted in blanket rejections, refoulement and systemic starvation in detention\.” Info graphic by [RefuComm](https://www.facebook.com/refucomm/photos/a.147610778924066/879447622407041/?type=3&theater)](../assets/27652687d935/1*qH9Yxr1TddaPGAUrLDX7Aw.png)
 
 “ONE YEAR AFTER: How legal changes resulted in blanket rejections, refoulement and systemic starvation in detention\.” Info graphic by [RefuComm](https://www.facebook.com/refucomm/photos/a.147610778924066/879447622407041/?type=3&theater)
 #### FRANCE
 
 
-![Photo by [Calais Light 12](https://www.facebook.com/events/2362948593985411/?acontext=%7B%22ref%22%3A%22106%22%2C%22action_history%22%3A%22null%22%7D)](assets/27652687d935/1*DbcaaNmbDThVNDwLilfiwQ.png)
+![Photo by [Calais Light 12](https://www.facebook.com/events/2362948593985411/?acontext=%7B%22ref%22%3A%22106%22%2C%22action_history%22%3A%22null%22%7D)](../assets/27652687d935/1*DbcaaNmbDThVNDwLilfiwQ.png)
 
 Photo by [Calais Light 12](https://www.facebook.com/events/2362948593985411/?acontext=%7B%22ref%22%3A%22106%22%2C%22action_history%22%3A%22null%22%7D)
 

@@ -5,20 +5,20 @@ date: 2020-12-07T16:56:35.955+0000
 last_modified_at: 2020-12-07T16:56:35.955+0000
 categories: Are You Syrious?
 tags: [alexis,digest,illiberalism,jamaica50,refugees]
-description: Shipwreck feared off the Moroccan coast // UK: One deportee to Jamaica tested positive for COVID-19 // New arrivals in Kalymnos (Greece)…
+description: "Shipwreck feared off the Moroccan coast // UK: One deportee to Jamaica tested positive for COVID-19 // New arrivals in Kalymnos (Greece)…"
 image:
-  path: assets/a07a52a49e1d/0*eOkQuVti1nD8W-Ph.jpeg
+  path: ../assets/a07a52a49e1d/0*eOkQuVti1nD8W-Ph.jpeg
 ---
 
 ### AYS Weekend Digest 5–6/12/2020 Greek \(new\) Democracy?
 #### _Shipwreck feared off the Moroccan coast // UK: One deportee to Jamaica tested positive for COVID\-19 // New arrivals in Kalymnos \(Greece\), Southern Italy and the Canary islands // Updates from Patras, Ventimiglia and the Balkans_
 
 
-![](assets/a07a52a49e1d/0*m7bGd7Kcf6XIXNrh)
+![](../assets/a07a52a49e1d/0*m7bGd7Kcf6XIXNrh)
 
 
 
-![](assets/a07a52a49e1d/0*eOkQuVti1nD8W-Ph.jpeg)
+![](../assets/a07a52a49e1d/0*eOkQuVti1nD8W-Ph.jpeg)
 
 
 06\.12\.2008 — Don’t Forget \( [Illustration by John Antono](https://johnantono.blogspot.com/2020/12/den-ksexnoun.html) \)
@@ -65,11 +65,11 @@ The government carries on with its policies, unperturbed by the accusations of v
 In less than two years, the right\-wing government have pursued the criminalisation of solidarity organisations and NGOs, have tightened the laws on asylum, have further militarised the borders, have provided de facto impunity for crimes committed in the Aegean and in the Evros region, have restricted access to camps and hotspots, and are now turning reception centres in unofficial detention sites\. Officials have so far denied all such accusations, labelling them Turkish propaganda, and trying to shift the blame on to the NGOs and grassroots groups documenting these crimes\. Greek authorities have pressured Frontex and the EU to include “ [_hybrid threats_](https://www.statewatch.org/news/2020/november/frontex-will-a-management-board-sub-group-find-the-truth-about-pushbacks/) _”_ within the realm of the latest internal investigating sub\-group on Frontex complicity in pushbacks\.
 
 
-![](assets/a07a52a49e1d/0*hv0Yfw8jOjTDmYpu)
+![](../assets/a07a52a49e1d/0*hv0Yfw8jOjTDmYpu)
 
 
 
-![](assets/a07a52a49e1d/0*A8XodofTkVXEsOzk.jpeg)
+![](../assets/a07a52a49e1d/0*A8XodofTkVXEsOzk.jpeg)
 
 
 While Greece descends into authoritarianism, EU institutions watch and applaud the country’s role in defending the Union’s external borders\. Liberal values come in handy only when needed\. Criticisms against Hungary and Poland, who now are [vetoing](https://www.project-syndicate.org/commentary/democracy-imperiled-in-greece-by-yanis-varoufakis-2020-11) the new EU budget, are rarely heard about Greece, a modern Cerberus at the EU’s gates\.
@@ -217,15 +217,15 @@ BOSNIA AND HERZEGOVINA
 ### [SOS Balkan Route](https://www.facebook.com/SOSBalkanroute/photos/pcb.396177591821820/396172815155631) report on winter conditions for people on the move
 
 
-![](assets/a07a52a49e1d/0*UeFYjdwhHoi6b1m1)
+![](../assets/a07a52a49e1d/0*UeFYjdwhHoi6b1m1)
 
 
 
-![](assets/a07a52a49e1d/0*QLiJmfrSojLZApVW)
+![](../assets/a07a52a49e1d/0*QLiJmfrSojLZApVW)
 
 
 
-![](assets/a07a52a49e1d/0*OJfja3qocvgmz5I8.jpeg)
+![](../assets/a07a52a49e1d/0*OJfja3qocvgmz5I8.jpeg)
 
 
 \(Photo credit: [Ben Owen\-Browne](https://www.facebook.com/benowenbrowne) via [SOS Balkan Route](https://www.facebook.com/SOSBalkanroute/photos/pcb.396177591821820/396172815155631) \)
@@ -240,11 +240,11 @@ Snow has arrived in Bosnia and SOS Balkan Route are trying to support people for
 
 
 
-![](assets/a07a52a49e1d/0*DhHzJW2aN9KkGv9h)
+![](../assets/a07a52a49e1d/0*DhHzJW2aN9KkGv9h)
 
 
 
-![](assets/a07a52a49e1d/0*Lq0c6-bC6QsWCcVU)
+![](../assets/a07a52a49e1d/0*Lq0c6-bC6QsWCcVU)
 
 
 \(Photo credit: [Ben Owen\-Browne](https://www.facebook.com/benowenbrowne) via [SOS Balkan Route](https://www.facebook.com/SOSBalkanroute/photos/pcb.396177591821820/396172815155631) \)

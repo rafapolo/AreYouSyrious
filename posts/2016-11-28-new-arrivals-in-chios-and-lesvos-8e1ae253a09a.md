@@ -1,5 +1,5 @@
 ---
-title: AYS Digest 27.11: Greek refugee camps unprepared for winter
+title: "AYS Digest 27.11: Greek refugee camps unprepared for winter"
 author: Are You Syrious?
 date: 2016-11-28T02:37:10.726+0000
 last_modified_at: 2016-11-28T16:14:45.555+0000
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe]
 description: Greek camps unprepared for winter /// Update on Harmanli riots — lack of access to legal aid and police retaliation feared /// Specialist…
 image:
-  path: assets/8e1ae253a09a/0*Y8FfBqJVC8BfA9pq.
+  path: ../assets/8e1ae253a09a/0*Y8FfBqJVC8BfA9pq.
 ---
 
 ### AYS Digest 27\.11: Greek refugee camps unprepared for winter
 
 
-![Photo by [Through Refugee Eyes](https://www.facebook.com/throughrefugeeeyes/)](assets/8e1ae253a09a/0*Y8FfBqJVC8BfA9pq.)
+![Photo by [Through Refugee Eyes](https://www.facebook.com/throughrefugeeeyes/)](../assets/8e1ae253a09a/0*Y8FfBqJVC8BfA9pq.)
 
 Photo by [Through Refugee Eyes](https://www.facebook.com/throughrefugeeeyes/)
 
@@ -23,7 +23,7 @@ _Greek camps unprepared for winter /// Update on Harmanli riots — lack of acce
 100 refugees were registered on Chios today and one boat with 53 people landed in the north coast of Lesvos this morning\.
 
 
-![Photo by Katerina Efthimiou](assets/8e1ae253a09a/0*ZIxcFlQhk5x_NvRf.)
+![Photo by Katerina Efthimiou](../assets/8e1ae253a09a/0*ZIxcFlQhk5x_NvRf.)
 
 Photo by Katerina Efthimiou
 ### Overcrowded facilities, lack of preparation for winter putting refugees at risk
@@ -48,7 +48,7 @@ As refugees face their second winter in Greece, many volunteers also worry that 
 Another Chios volunteer notes that “winterisation, \(…\) the humanitarian\-speak for making refugee camps ready for winter conditions”, in practice means “moving people from flimsy, rickety, pathetic little tents covered by rags of UNHCR tarps, into slightly less flimsy, slightly less pathetic field tents”\.
 
 
-![Photo by Gabrielle Tan](assets/8e1ae253a09a/0*cYtQHD2yPTp46U1L.)
+![Photo by Gabrielle Tan](../assets/8e1ae253a09a/0*cYtQHD2yPTp46U1L.)
 
 Photo by Gabrielle Tan
 
@@ -73,7 +73,7 @@ Mainland camps are also unprepared for the winter\. A video, shot in Elliniko, s
 The problem is not only that people are still sleeping in tents, but that many of the camps are badly connected to electricity grids and are not provided with heating\. In Filippiada for example, the camp was provided with cabins, but the lack of heating makes them useless, as it is colder inside the cabins than outside\. In Oreokastro, a lot of people are sick because of the cold and resort to desperate measures in order to stay warm\.
 
 
-![This is the desperate way in which people try to heat themselves in Oreokastro\. Photo by The Voices of Oreokastro\.](assets/8e1ae253a09a/0*dc7yaHStqqqx4wUN.)
+![This is the desperate way in which people try to heat themselves in Oreokastro\. Photo by The Voices of Oreokastro\.](../assets/8e1ae253a09a/0*dc7yaHStqqqx4wUN.)
 
 This is the desperate way in which people try to heat themselves in Oreokastro\. Photo by The Voices of Oreokastro\.
 
@@ -83,7 +83,7 @@ The Emirates Red Crescent has opened two camps in Greece that are hopefully bett
 
 
 ![“ We know the fire isn’t healthy for us and for our kids at all 
- but still it’s our only way to get warm in this cold winter “\. By “ [Through Refugee Eye](https://www.facebook.com/throughrefugeeeyes/?ref=br_rs) s”\.](assets/8e1ae253a09a/0*nmjovm_h9bxu_iCP.jpg)
+ but still it’s our only way to get warm in this cold winter “\. By “ [Through Refugee Eye](https://www.facebook.com/throughrefugeeeyes/?ref=br_rs) s”\.](../assets/8e1ae253a09a/0*nmjovm_h9bxu_iCP.jpg)
 
 “ We know the fire isn’t healthy for us and for our kids at all 
  but still it’s our only way to get warm in this cold winter “\. By “ [Through Refugee Eye](https://www.facebook.com/throughrefugeeeyes/?ref=br_rs) s”\.
@@ -92,7 +92,7 @@ The Emirates Red Crescent has opened two camps in Greece that are hopefully bett
 According to [Lesvos News](http://www.lesvosnews.net/articles/news-categories/politiki/o-moyzalas-apofasise-kentro-kratisis-sti-mytilini-epektasi-ton) , Mouzalas said that there will be detention centres on Lesvos, Chios, Samos, Kos and Leros, arguing that these are necessary to accelerate asylum procedures\. He added that many disappear to the mainland once their asylum requests are rejected and believes closed detention centres will prevent this\.
 
 
-![“I was standing in front of the tents for 5 minutes, looking at how difficult is it to be here, how difficult is it when kids ask their father about school, how difficult it is to have so many dreams while you are in a refugee camp, how beautiful the rain is and how difficult is it here\.” By [Abdulazez Dukhan](https://www.facebook.com/AbdulazezDukhan)](assets/8e1ae253a09a/0*LJZT5rtc5ybZG9IR.jpg)
+![“I was standing in front of the tents for 5 minutes, looking at how difficult is it to be here, how difficult is it when kids ask their father about school, how difficult it is to have so many dreams while you are in a refugee camp, how beautiful the rain is and how difficult is it here\.” By [Abdulazez Dukhan](https://www.facebook.com/AbdulazezDukhan)](../assets/8e1ae253a09a/0*LJZT5rtc5ybZG9IR.jpg)
 
 “I was standing in front of the tents for 5 minutes, looking at how difficult is it to be here, how difficult is it when kids ask their father about school, how difficult it is to have so many dreams while you are in a refugee camp, how beautiful the rain is and how difficult is it here\.” By [Abdulazez Dukhan](https://www.facebook.com/AbdulazezDukhan)
 #### Volunteers needed in Doliana
@@ -102,17 +102,17 @@ According to [Lesvos News](http://www.lesvosnews.net/articles/news-categories/po
 ### Update from Kelebija
 
 
-![Fresh Response Serbia has filled the kids tent with toys and pencils, colors, books, papers in Kelebija\. Photo by Fresh Response](assets/8e1ae253a09a/0*r3ZiH8z4X4A9pxst.)
+![Fresh Response Serbia has filled the kids tent with toys and pencils, colors, books, papers in Kelebija\. Photo by Fresh Response](../assets/8e1ae253a09a/0*r3ZiH8z4X4A9pxst.)
 
 Fresh Response Serbia has filled the kids tent with toys and pencils, colors, books, papers in Kelebija\. Photo by Fresh Response
 
 
-![The whole area along the road to Kelebija has been cleaned as part of a community project, with help from both refugees and volunteers\. Nearly 30 bags of trash were collected\. Photo by Fresh Response](assets/8e1ae253a09a/0*-ACWsW04ndJtjKyR.)
+![The whole area along the road to Kelebija has been cleaned as part of a community project, with help from both refugees and volunteers\. Nearly 30 bags of trash were collected\. Photo by Fresh Response](../assets/8e1ae253a09a/0*-ACWsW04ndJtjKyR.)
 
 The whole area along the road to Kelebija has been cleaned as part of a community project, with help from both refugees and volunteers\. Nearly 30 bags of trash were collected\. Photo by Fresh Response
 
 
-![AYS tents in action\. Photo by Fresh Response](assets/8e1ae253a09a/0*YnP69sLuPH7f37Pp.)
+![AYS tents in action\. Photo by Fresh Response](../assets/8e1ae253a09a/0*YnP69sLuPH7f37Pp.)
 
 AYS tents in action\. Photo by Fresh Response
 #### Hungary
@@ -123,7 +123,7 @@ A demonstration is planned on Wednesday in Szeged, in front of the court house w
 You can find more information about the trial on the [Free the Rozke website](http://freetheroszke11.weebly.com/) and through this short documentary\.
 
 
-[![The Röszke 11](assets/8e1ae253a09a/934d_hqdefault.jpg "The Röszke 11")](http://www.youtube.com/watch?v=rpG3Z4KfQCg)
+[![The Röszke 11](../assets/8e1ae253a09a/934d_hqdefault.jpg "The Röszke 11")](http://www.youtube.com/watch?v=rpG3Z4KfQCg)
 
 #### Bulgaria
 ### Update on Harmanli riots
@@ -156,7 +156,7 @@ Help Refugees suggests sending letters to the Home Office \( public\.enquiries@h
 [Baobab](https://www.facebook.com/BaobabExperience) is looking for tour guides, art historians, archaeologists, architects and passionate people to propose and organise guided tours around Rome for refugees\. The first visits will be organised in the next two days\.
 
 
-![Photo by Baobab](assets/8e1ae253a09a/0*BE4HfEWVGtdywBmb.)
+![Photo by Baobab](../assets/8e1ae253a09a/0*BE4HfEWVGtdywBmb.)
 
 Photo by Baobab
 #### Germany

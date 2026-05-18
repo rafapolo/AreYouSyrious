@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 22/10/17: #OpenTheIslands
+title: "AYS Daily Digest 22/10/17: #OpenTheIslands"
 author: Are You Syrious?
 date: 2017-10-23T07:40:11.072+0100
 last_modified_at: 2017-10-23T21:08:36.330+0100
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,greece,france,italy,europe]
 description: Feature
 image:
-  path: assets/b76ab47cf9f0/1*oWL_LIRfx8ImE0zkUf14FQ.jpeg
+  path: ../assets/b76ab47cf9f0/1*oWL_LIRfx8ImE0zkUf14FQ.jpeg
 ---
 
 ### AYS Daily Digest 22/10/17: \#OpenTheIslands
 
 
-![Second day of protests by refugees in Lesvos\. They refuse to live in the overcrowded Moria camp and demand that freedom of movement be granted\. Photo Credit: Legal Centre Lesbos](assets/b76ab47cf9f0/1*oWL_LIRfx8ImE0zkUf14FQ.jpeg)
+![Second day of protests by refugees in Lesvos\. They refuse to live in the overcrowded Moria camp and demand that freedom of movement be granted\. Photo Credit: Legal Centre Lesbos](../assets/b76ab47cf9f0/1*oWL_LIRfx8ImE0zkUf14FQ.jpeg)
 
 Second day of protests by refugees in Lesvos\. They refuse to live in the overcrowded Moria camp and demand that freedom of movement be granted\. Photo Credit: Legal Centre Lesbos
 #### Feature
@@ -27,7 +27,7 @@ This one anecdote encapsulates the scale of the disorder that continues to reign
 Organizations operating on the islands lack the capacity to deal with the numbers of people who land there\. Authorities meanwhile have shown themselves unwilling to work towards a solution for the situation\. They neither increase the allocation of scarce resources, nor do they allow for a streamlined process to take place which would allow the hotspots to be used for their original purpose: as emergency registration centers where refugees can expect to stay for only a short period of time before being transferred to the mainland\.
 
 
-![The tents and shelters outside Vial, Chios\. Photo by [**Chios Eastern Shore Response Team — Info Point**](https://www.facebook.com/groups/421759534684819/permalink/699663996894370/)](assets/b76ab47cf9f0/1*kivSmumSncrbIGn4Lw0FvQ.jpeg)
+![The tents and shelters outside Vial, Chios\. Photo by [**Chios Eastern Shore Response Team — Info Point**](https://www.facebook.com/groups/421759534684819/permalink/699663996894370/)](../assets/b76ab47cf9f0/1*kivSmumSncrbIGn4Lw0FvQ.jpeg)
 
 The tents and shelters outside Vial, Chios\. Photo by [**Chios Eastern Shore Response Team — Info Point**](https://www.facebook.com/groups/421759534684819/permalink/699663996894370/)
 
@@ -46,7 +46,7 @@ The protest in Lesvos, where the rain is expected on Monday, continues for the s
 [Aris Vlahopoulos](https://www.facebook.com/aris.vlahopoulos?fref=gs&hc_ref=ARRVuGcE0gH1AucxgaSH_lRIwbt6JamnvyFOJGmbMmZR_Qyp9hRhsnrBeRo3ZS_idxo&hc_location=group) reports from Lesvos stating that volunteers are estimating the real number of people who are curently stranded on this island could be between 8 and 8,200\. Officially, it is around 7,200, which is still far over Moria capacity\.
 
 
-![Photo by [**Legal Centre Lesbos**](https://www.facebook.com/LesvosLegal/?hc_ref=ARSjNdOjr2RqVr8AW3KQf_MshNgLow1UmuAxAQwtYjqnYDX2D1VC4kHqLp4ughvMCw8)](assets/b76ab47cf9f0/1*_P4DPwCgsCNeqD1NVR6qBg.jpeg)
+![Photo by [**Legal Centre Lesbos**](https://www.facebook.com/LesvosLegal/?hc_ref=ARSjNdOjr2RqVr8AW3KQf_MshNgLow1UmuAxAQwtYjqnYDX2D1VC4kHqLp4ughvMCw8)](../assets/b76ab47cf9f0/1*_P4DPwCgsCNeqD1NVR6qBg.jpeg)
 
 Photo by [**Legal Centre Lesbos**](https://www.facebook.com/LesvosLegal/?hc_ref=ARSjNdOjr2RqVr8AW3KQf_MshNgLow1UmuAxAQwtYjqnYDX2D1VC4kHqLp4ughvMCw8)
 
@@ -71,7 +71,7 @@ The organization, which furnishes refugees with clothing, is asking that those i
 Around 60 people are sleeping in the streets in Pordenone\. Pictures from the streets in Italy are shocking, showing people hiding under plastic foils to protect themselves from the rain and bad weather\. Volunteers in this area need help for their work with homeless refugees and migrants\.
 
 
-![**Photo by [Lorena Fornasir](https://www.facebook.com/lorena.fornasir?fref=gs&hc_ref=ARRzmdhK1X9SjF66uDvSeu0b96sGyHZ4bFRHu-R8WrnAqt27t2xJNzIjI07lVu-N8h0&hc_location=group)**](assets/b76ab47cf9f0/1*FEsokSex5nD0vN6tYUAWrg.jpeg)
+![**Photo by [Lorena Fornasir](https://www.facebook.com/lorena.fornasir?fref=gs&hc_ref=ARRzmdhK1X9SjF66uDvSeu0b96sGyHZ4bFRHu-R8WrnAqt27t2xJNzIjI07lVu-N8h0&hc_location=group)**](../assets/b76ab47cf9f0/1*FEsokSex5nD0vN6tYUAWrg.jpeg)
 
 **Photo by [Lorena Fornasir](https://www.facebook.com/lorena.fornasir?fref=gs&hc_ref=ARRzmdhK1X9SjF66uDvSeu0b96sGyHZ4bFRHu-R8WrnAqt27t2xJNzIjI07lVu-N8h0&hc_location=group)**
 

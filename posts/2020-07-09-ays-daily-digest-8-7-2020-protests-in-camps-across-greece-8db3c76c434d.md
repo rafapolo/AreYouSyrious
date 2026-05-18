@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,pushbacks,greece]
 description: More Returns to Libya///More Illegal Pushbacks from Greece///Overcrowding in Serbian Camps///& More
 image:
-  path: assets/8db3c76c434d/0*J66ZoPLqQC1sJY1X
+  path: ../assets/8db3c76c434d/0*J66ZoPLqQC1sJY1X
 ---
 
 ### AYS Daily Digest 8/7/2020 — Protests in Camps Across Greece
 #### More Returns to Libya///More Illegal Pushbacks from Greece///Overcrowding in Serbian Camps///& More
 
 
-![Cartoon by Malagon via [CEAR](https://www.facebook.com/CEARefugiado/posts/3199042930155988)](assets/8db3c76c434d/0*J66ZoPLqQC1sJY1X)
+![Cartoon by Malagon via [CEAR](https://www.facebook.com/CEARefugiado/posts/3199042930155988)](../assets/8db3c76c434d/0*J66ZoPLqQC1sJY1X)
 
 Cartoon by Malagon via [CEAR](https://www.facebook.com/CEARefugiado/posts/3199042930155988)
 

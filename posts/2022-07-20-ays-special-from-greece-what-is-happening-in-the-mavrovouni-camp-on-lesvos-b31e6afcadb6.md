@@ -1,5 +1,5 @@
 ---
-title: AYS Special from Greece: What is happening in the Mavrovouni camp on Lesvos?
+title: "AYS Special from Greece: What is happening in the Mavrovouni camp on Lesvos?"
 author: Are You Syrious?
 date: 2022-07-20T14:43:09.791+0100
 last_modified_at: 2022-07-22T09:29:41.616+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [special,greece,ref]
 description: The following article was written by volunteers from different collectives on Lesvos in close collaboration with multiple people on the…
 image:
-  path: assets/b31e6afcadb6/1*RVtUNDTpLSTV1IswMW7s2w.jpeg
+  path: ../assets/b31e6afcadb6/1*RVtUNDTpLSTV1IswMW7s2w.jpeg
 ---
 
 ### AYS Special from Greece: What is happening in the Mavrovouni camp on Lesvos?
 #### **The following article was written by volunteers from different collectives on Lesvos in close collaboration with multiple people on the move after they expressed a strong desire to share their experiences\. For them, it is important that you, the reader, know what is going on inside Mavrovouni camp on Lesvos\. And not only to know but to take action\.**
 
 
-![](assets/b31e6afcadb6/1*RVtUNDTpLSTV1IswMW7s2w.jpeg)
+![](../assets/b31e6afcadb6/1*RVtUNDTpLSTV1IswMW7s2w.jpeg)
 
 
 
@@ -44,7 +44,7 @@ Mavrovouni is terrible in mostly different, more subtle ways\. Not a lot is know
 Much like the new facility on Samos, for people with interests in maintaining and continuing the status quo it is important that the illusion of peace and security \(“dignified”\) of these facilities is upheld\. With the construction of the new facility in a seemingly permanent limbo, it is likely to assume that this facility will be in use for the foreseeable future\. As you will read in the article below, changes in policy are a daily occurrence and constructions are seemingly being made to make the camp more permanent\.
 
 
-![](assets/b31e6afcadb6/1*S7gM9dwiehUdjNPZ168k-g.png)
+![](../assets/b31e6afcadb6/1*S7gM9dwiehUdjNPZ168k-g.png)
 
 ### 1\. Location and description
 
@@ -118,7 +118,7 @@ The food is, as it always has been, notoriously bad\. Often there isn’t is eno
 Cooking outside of the tent or ISO\-box is not allowed and sometimes leads to police intervention, claiming it would be a fire hazard\.
 
 
-![Mavrovouni from a different angle, clearly showing the spaces where the burnt down single men facilities were located\.](assets/b31e6afcadb6/1*JyWQNxjimuq-HlCwVmtBnw.jpeg)
+![Mavrovouni from a different angle, clearly showing the spaces where the burnt down single men facilities were located\.](../assets/b31e6afcadb6/1*JyWQNxjimuq-HlCwVmtBnw.jpeg)
 
 Mavrovouni from a different angle, clearly showing the spaces where the burnt down single men facilities were located\.
 ### 4\. Medical care
@@ -157,7 +157,7 @@ People who approached us to tell their story complained of extremely basic level
 People are upset at getting advice like the above because it doesn’t really help them in any way\. For psychological care a safe environment without acute danger and with basic needs met would be needed — something the camp surely does not provide in any way, shape or form\. Rather, the opposite is the case — life at the camp is even more damaging for their mental health\.
 
 
-![One of the outer edges of the camp\.](assets/b31e6afcadb6/1*9osswSQmm7x2WjE3KEXXCg.jpeg)
+![One of the outer edges of the camp\.](../assets/b31e6afcadb6/1*9osswSQmm7x2WjE3KEXXCg.jpeg)
 
 One of the outer edges of the camp\.
 ### 6\. Day\-to\-day life
@@ -190,7 +190,7 @@ Around 8pm or 9pm the camp day officially comes to an end\. The gate is closed, 
 
 
 
-![A picture of the single men's tents\.](assets/b31e6afcadb6/1*MEcupYH2Neqnu6TdHjF9BQ.jpeg)
+![A picture of the single men's tents\.](../assets/b31e6afcadb6/1*MEcupYH2Neqnu6TdHjF9BQ.jpeg)
 
 A picture of the single men's tents\.
 

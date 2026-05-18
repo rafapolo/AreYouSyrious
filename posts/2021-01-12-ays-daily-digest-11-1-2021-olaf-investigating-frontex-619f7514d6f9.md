@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,frontex,european-union]
 description: Journalists Denied Entry Into Lipa Camp//Commissioner for Human Rights Publishes Reports on Croatia Pushbacks//Hungary Violated EU Court…
 image:
-  path: assets/619f7514d6f9/0*SA3RoB6NeyNpfFhO
+  path: ../assets/619f7514d6f9/0*SA3RoB6NeyNpfFhO
 ---
 
 ### AYS Daily Digest 11/1/2021—OLAF Investigating Frontex
 #### Journalists denied entry into Lipa camp//Commissioner for Human Rights publishes reports on Croatia pushbacks//Hungary violated EU Court ruling//
 
 
-![Near Tuzla, in Bosnia & Herzegovina\. Photo credit: Tuzla volunteers](assets/619f7514d6f9/0*SA3RoB6NeyNpfFhO)
+![Near Tuzla, in Bosnia & Herzegovina\. Photo credit: Tuzla volunteers](../assets/619f7514d6f9/0*SA3RoB6NeyNpfFhO)
 
 Near Tuzla, in Bosnia & Herzegovina\. Photo credit: Tuzla volunteers
 #### FEATURE
@@ -143,7 +143,7 @@ Following Brexit, [Frontex was supposed to manage the Gibraltar borders](https:/
 Solidarite Migrants Wilson is looking for people for their action tomorrow\. More information [here](https://www.facebook.com/permalink.php?story_fbid=1633826163484816&id=598228360377940) \.
 
 
-![](assets/619f7514d6f9/0*PNDTSpHw6ihHm5VG)
+![](../assets/619f7514d6f9/0*PNDTSpHw6ihHm5VG)
 
 #### GERMANY
 #### Members of Parliament urge government to allow more people on the move into the country

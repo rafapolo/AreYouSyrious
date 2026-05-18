@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 14/02/2019: Italy rejecting the highest number of asylum applications in years
+title: "AYS Daily Digest 14/02/2019: Italy rejecting the highest number of asylum applications in years"
 author: Are You Syrious?
 date: 2019-02-16T09:39:15.147+0000
 last_modified_at: 2019-02-16T09:39:15.147+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,human-rights,italy]
 description: Another child lost his life in Syria//Volunteers needed in Lebanon//The Algerian-Moroccan border is increasingly becoming a death…
 image:
-  path: assets/44e083969da0/1*c81xkGhd3B9IpJcd0U6Iqw.jpeg
+  path: ../assets/44e083969da0/1*c81xkGhd3B9IpJcd0U6Iqw.jpeg
 ---
 
 ### AYS Daily Digest 14/02/2019: Italy rejecting the highest number of asylum applications in years
 #### Another child lost his life in Syria//Volunteers needed in Lebanon//The Algerian\-Moroccan border is increasingly becoming a death trap//Cuts to budget for asylum seekers in Italy//Unbearable living conditions of asylum seekers denounced in France//Demos in Paris and in Frankfurt//Lists of on and offline services for newly arrived asylum seekers in Germany//News of another death in Ceuta\. \.
 
 
-![](assets/44e083969da0/1*Tx1u1RSutf5fWmPbOOmJVA.jpeg)
+![](../assets/44e083969da0/1*Tx1u1RSutf5fWmPbOOmJVA.jpeg)
 
 
 [Are You Syrious?](https://medium.com/@AreYouSyrious)
@@ -22,7 +22,7 @@ image:
 Feb 15
 
 
-![Credit: ZeeBrug — Zorg voor veilige havens](assets/44e083969da0/1*c81xkGhd3B9IpJcd0U6Iqw.jpeg)
+![Credit: ZeeBrug — Zorg voor veilige havens](../assets/44e083969da0/1*c81xkGhd3B9IpJcd0U6Iqw.jpeg)
 
 Credit: ZeeBrug — Zorg voor veilige havens
 #### FEATURE

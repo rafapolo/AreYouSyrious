@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: For some people Lesvos is all they will ever know of Europe.
+title: "AYS SPECIAL: For some people Lesvos is all they will ever know of Europe."
 author: Are You Syrious?
 date: 2017-04-25T08:10:34.195+0100
 last_modified_at: 2019-03-23T22:43:08.833+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,lesvos,moria,hunger-strike,special]
 description: Painting a picture of the situation on Lesvos through a recount of conversations I had with strangers, friends and acquaintances in my last…
 image:
-  path: assets/186c96f8ffd1/1*Wr17ycdNuHigOfxbzaXF_w.jpeg
+  path: ../assets/186c96f8ffd1/1*Wr17ycdNuHigOfxbzaXF_w.jpeg
 ---
 
 ### AYS SPECIAL: For some people Lesvos is all they will ever know of Europe\.
@@ -15,7 +15,7 @@ image:
 _Painting a picture of the situation on Lesvos through a recount of conversations I had with strangers, friends and acquaintances in my last four months spent there\._
 
 
-![Moria\. A tiny basketball court in the minor’s detention facility — blocked off by a double barbed wire fences\. The minors are not permitted to leave this premises\. PHOTO CREDIT: Loys Haemmerle](assets/186c96f8ffd1/1*Wr17ycdNuHigOfxbzaXF_w.jpeg)
+![Moria\. A tiny basketball court in the minor’s detention facility — blocked off by a double barbed wire fences\. The minors are not permitted to leave this premises\. PHOTO CREDIT: Loys Haemmerle](../assets/186c96f8ffd1/1*Wr17ycdNuHigOfxbzaXF_w.jpeg)
 
 Moria\. A tiny basketball court in the minor’s detention facility — blocked off by a double barbed wire fences\. The minors are not permitted to leave this premises\. PHOTO CREDIT: Loys Haemmerle
 
@@ -33,7 +33,7 @@ Every part is sectioned off and guarded by military and police personnel\. Even 
 Organisations also refer to the sections based on which nationalities occupy them\. For an unassuming passer by, you wouldn’t pay too much attention to it, but the segregation is unknowingly harmful for those living in Moria\. It’s harmful because it makes it easier for the authorities to fulfil their directives, for them segregation is used as a tool\. It’s easy when you know where the sub\-groups of people you have been told to arrest live\. **Nearly all the Algerians I met in January are now in prison in Moria, have been deported to Turkey or have returned back to Algeria** through voluntary deportations\. It’s easy to do this when the people are segregated based on nationality\.
 
 
-![The failure of the EU\-Turkey deal is psychologically damaging to many, even the most optimistic\. Photo Credit: Loys Haemmerle\.](assets/186c96f8ffd1/1*nufSa__DECKoUeZSCC138A.jpeg)
+![The failure of the EU\-Turkey deal is psychologically damaging to many, even the most optimistic\. Photo Credit: Loys Haemmerle\.](../assets/186c96f8ffd1/1*nufSa__DECKoUeZSCC138A.jpeg)
 
 The failure of the EU\-Turkey deal is psychologically damaging to many, even the most optimistic\. Photo Credit: Loys Haemmerle\.
 
@@ -45,7 +45,7 @@ Abdo is a light hearted, creative and kind young man who I am eternally grateful
 The head of a big organization working in Moria told me once during a conversation: _“You know Greek people are in no way bad… look at him, he is from Algeria… no Greek person in their right mind would intentionally want any harm to come to him, look how sweet he is… but it’s just too much for them\. They can’t handle it anymore\. They have had enough\.”_ I agreed, I have had this conversation with many people before him and have reached similar conclusions\. But there needs to be a distinction made in one aspect of his opinion… Greece may be carrying the brunt of Europe’s ‘refugee crisis’… but the Greek Islands are carrying the brunt of the crisis in Greece\. The locals on Lesvos feel like they are being attacked from all sides, even from Greece itself\. There appears to be no winners on the Greek ‘transit’ islands\. Their situation is also ignored by the media\.
 
 
-![The shower facility in Moria Camp PHOTO CREDIT: Loys Haemmerle](assets/186c96f8ffd1/1*CkstBgJAreIJAnqgtrs7BA.jpeg)
+![The shower facility in Moria Camp PHOTO CREDIT: Loys Haemmerle](../assets/186c96f8ffd1/1*CkstBgJAreIJAnqgtrs7BA.jpeg)
 
 The shower facility in Moria Camp PHOTO CREDIT: Loys Haemmerle
 
@@ -70,7 +70,7 @@ We talked some more about the asylum procedure\. _“You know you can see my eye
 I couldn’t understand it, how was it possible that this topic did not come up in an asylum interview? But I understand now\. The asylum procedure on the islands is completely different to the one on mainland Greece where I normally work\. A lawyer explained it to me only recently _“The problem with the islands is that everyone who entered irregularly has an ‘admissibility interview’ in which they determine if that person is vulnerable\. If they are not considered vulnerable he or she is \(supposed to be\) returned to Turkey\. They do not examine asylum cases in this interview\.”_
 
 
-![A disassembled UNHCR uninsulated summer tent PHOTO CREDIT: Daniel Billinghurst](assets/186c96f8ffd1/1*WIKRxHwII8oR6B2SK4YDAw.jpeg)
+![A disassembled UNHCR uninsulated summer tent PHOTO CREDIT: Daniel Billinghurst](../assets/186c96f8ffd1/1*WIKRxHwII8oR6B2SK4YDAw.jpeg)
 
 A disassembled UNHCR uninsulated summer tent PHOTO CREDIT: Daniel Billinghurst
 #### Who will listen to me?

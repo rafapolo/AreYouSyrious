@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 3/6/19: A call for prosecution of the EU
+title: "AYS Daily Digest 3/6/19: A call for prosecution of the EU"
 author: Are You Syrious?
 date: 2019-06-04T11:10:15.317+0100
 last_modified_at: 2019-06-05T10:06:27.515+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,human-rights,european-union,migration,digest]
 description: A detailed documentation filed against the EU at the ICC in The Hague / While majority of reunification applications to Germany from…
 image:
-  path: assets/2ae93db92980/1*c5gdRtAb5Ls2BYGgOWTG1Q.jpeg
+  path: ../assets/2ae93db92980/1*c5gdRtAb5Ls2BYGgOWTG1Q.jpeg
 ---
 
 ### AYS Daily Digest 3/6/19: A call for prosecution of the EU
 #### Detailed documentation filed against the EU at the ICC in The Hague / While the majority of reunification applications to Germany from Greece are continuously denied, people are suffering in camps across the Aegean / Sudanese security forces are attacking the protest sit\-in site resulting in a growing number of casualties / Many arrivals by boat on the Greek islands and in Italy
 
 
-![Photo: [Open Arms IT](https://twitter.com/openarms_it)](assets/2ae93db92980/1*c5gdRtAb5Ls2BYGgOWTG1Q.jpeg)
+![Photo: [Open Arms IT](https://twitter.com/openarms_it)](../assets/2ae93db92980/1*c5gdRtAb5Ls2BYGgOWTG1Q.jpeg)
 
 Photo: [Open Arms IT](https://twitter.com/openarms_it)
 ### Featured stories
@@ -73,7 +73,7 @@ France has already dismissed the accusations as “senseless” and lacking “a
 A very vague official statement was issued immediately after the official press conference held in Paris\.
 
 
-[![#Migration - Submission to ICC condemns EU for 'crimes against humanity'](assets/2ae93db92980/d59d_hqdefault.jpg "#Migration - Submission to ICC condemns EU for 'crimes against humanity'")](http://www.youtube.com/watch?v=AMGaKDNxcDg)
+[![#Migration - Submission to ICC condemns EU for 'crimes against humanity'](../assets/2ae93db92980/d59d_hqdefault.jpg "#Migration - Submission to ICC condemns EU for 'crimes against humanity'")](http://www.youtube.com/watch?v=AMGaKDNxcDg)
 
 
 The Spanish foreign minister even said that Libya’s holding cells “cannot be referred to as torture detention centres\.”
@@ -183,7 +183,7 @@ A total of 35 men, 10 women and five children arrived on the Chafarinas islands,
 
 
 
-![A Coruña\! Mañana es un buen día para informarse sobre la situación de los refugiados en Sid, Serbia\. La voluntaria Sofía Caamaño abrirá un diálogo sobre el tema\. Además, se proyectará un documental de Jaime Alekos que visibiliza la situación\. ¡Vengan y compartan\! — [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?__xts__%5B0%5D=68.ARCTtZpwl4un6SmeeK7-UOgt_RCk9waaY8TRoOCJyEWpj6xdrKg8EYs7gRNlqNrm9WeFVQjT6GJNQU8ssCP8tEQ0sSV_5hILYf0qsjG18EImpVUs47ULI_paFaSp_jSAAN1gMv4KNXCAWvwxtYtNqcWz74yMG4g2d7VfU5KsCjUL4hTdGQM0ChA2a1l2AYFkBhDpvaBYzR_jM2q7i87Dds1MJWy_Onw2HiYReYJ6tZhKogMfF7shKCZsxpDOQA-2-wVg9yEK-x-VympO0Rer0PBsdX_V4g0odCuORHs4eTu_uVIg-wduAogzIST5NGKckLhCdnSGVRJ7Xb0NU9JnpFwVy-AT6ksAZ8lb3sYOjfueNMvoJIOsQQ&__tn__=k%2AF&tn-str=k%2AF)](assets/2ae93db92980/1*3l_S6x5Jl0A4uI3WUF755w.jpeg)
+![A Coruña\! Mañana es un buen día para informarse sobre la situación de los refugiados en Sid, Serbia\. La voluntaria Sofía Caamaño abrirá un diálogo sobre el tema\. Además, se proyectará un documental de Jaime Alekos que visibiliza la situación\. ¡Vengan y compartan\! — [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?__xts__%5B0%5D=68.ARCTtZpwl4un6SmeeK7-UOgt_RCk9waaY8TRoOCJyEWpj6xdrKg8EYs7gRNlqNrm9WeFVQjT6GJNQU8ssCP8tEQ0sSV_5hILYf0qsjG18EImpVUs47ULI_paFaSp_jSAAN1gMv4KNXCAWvwxtYtNqcWz74yMG4g2d7VfU5KsCjUL4hTdGQM0ChA2a1l2AYFkBhDpvaBYzR_jM2q7i87Dds1MJWy_Onw2HiYReYJ6tZhKogMfF7shKCZsxpDOQA-2-wVg9yEK-x-VympO0Rer0PBsdX_V4g0odCuORHs4eTu_uVIg-wduAogzIST5NGKckLhCdnSGVRJ7Xb0NU9JnpFwVy-AT6ksAZ8lb3sYOjfueNMvoJIOsQQ&__tn__=k%2AF&tn-str=k%2AF)](../assets/2ae93db92980/1*3l_S6x5Jl0A4uI3WUF755w.jpeg)
 
 A Coruña\! Mañana es un buen día para informarse sobre la situación de los refugiados en Sid, Serbia\. La voluntaria Sofía Caamaño abrirá un diálogo sobre el tema\. Además, se proyectará un documental de Jaime Alekos que visibiliza la situación\. ¡Vengan y compartan\! — [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?__xts__%5B0%5D=68.ARCTtZpwl4un6SmeeK7-UOgt_RCk9waaY8TRoOCJyEWpj6xdrKg8EYs7gRNlqNrm9WeFVQjT6GJNQU8ssCP8tEQ0sSV_5hILYf0qsjG18EImpVUs47ULI_paFaSp_jSAAN1gMv4KNXCAWvwxtYtNqcWz74yMG4g2d7VfU5KsCjUL4hTdGQM0ChA2a1l2AYFkBhDpvaBYzR_jM2q7i87Dds1MJWy_Onw2HiYReYJ6tZhKogMfF7shKCZsxpDOQA-2-wVg9yEK-x-VympO0Rer0PBsdX_V4g0odCuORHs4eTu_uVIg-wduAogzIST5NGKckLhCdnSGVRJ7Xb0NU9JnpFwVy-AT6ksAZ8lb3sYOjfueNMvoJIOsQQ&__tn__=k%2AF&tn-str=k%2AF)
 #### THE NETHERLANDS

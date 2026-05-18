@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,greece,lesvos]
 description: Bangladesh Moves Rohingya People to Low-lying Island//Frontex Chief Caught in a Lie//&More
 image:
-  path: assets/e658bba68854/0*jyn_kc2G5ZbU7Knx
+  path: ../assets/e658bba68854/0*jyn_kc2G5ZbU7Knx
 ---
 
 ### AYS Daily Digest 03/12/2020 — New Reception Center on Lesvos by September 2021
 ### Bangladesh Moves Rohingya People to Low\-lying Island//Frontex Chief Caught in a Lie//&More
 
 
-![](assets/e658bba68854/0*dtkk1-wdTkmAM3EV.jpeg)
+![](../assets/e658bba68854/0*dtkk1-wdTkmAM3EV.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----48c606171dee--------------------------------)
@@ -22,11 +22,11 @@ image:
 [Dec 4](ays-daily-digest-03-12-2020-new-reception-center-on-lesvos-by-september-2021-48c606171dee?source=post_page-----48c606171dee--------------------------------) · 7 min read
 
 
-![](assets/e658bba68854/0*S_PxoZIp4rFcbpcT)
+![](../assets/e658bba68854/0*S_PxoZIp4rFcbpcT)
 
 
 
-![](assets/e658bba68854/0*jyn_kc2G5ZbU7Knx)
+![](../assets/e658bba68854/0*jyn_kc2G5ZbU7Knx)
 
 ### FEATURE
 ### Greece and European Commission sign letter of intent on new Lesvos reception center

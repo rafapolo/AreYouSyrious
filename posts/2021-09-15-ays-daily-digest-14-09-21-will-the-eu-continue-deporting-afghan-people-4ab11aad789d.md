@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,afghanistan,eu]
 description: Are You Syrious?
 image:
-  path: assets/4ab11aad789d/0*cveZLiDb99ctJ2q1
+  path: ../assets/4ab11aad789d/0*cveZLiDb99ctJ2q1
 ---
 
 ### AYS Daily Digest 14/09/21 — Will the EU Continue Deporting Afghan People?
 
 
-![](assets/4ab11aad789d/0*b4F30t5cefA25drm.jpeg)
+![](../assets/4ab11aad789d/0*b4F30t5cefA25drm.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----f0935aeb3e7d--------------------------------)
@@ -23,7 +23,7 @@ image:
 Worrying Nationalist Rhetoric and Relations With Taliban Concerning Many//Tunisian Fishermen Protest Against Libyan Coast Guard//Journalists Protest Polish State of Emergency
 
 
-![](assets/4ab11aad789d/0*cveZLiDb99ctJ2q1)
+![](../assets/4ab11aad789d/0*cveZLiDb99ctJ2q1)
 
 
 An empty boat drifts past the rescue ship the Geo Barents, the fate of the people on board is unknown\. Photo credit: Vincent Haiges via [Zeit\.de](https://www.zeit.de/gesellschaft/zeitgeschehen/2021-09/seenotrettung-mittelmeer-aerzte-ohne-grenze-geo-barents-libyen-italien?utm_referrer=https%3A%2F%2Fl.facebook.com%2F)

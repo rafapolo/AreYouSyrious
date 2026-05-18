@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 01/05/2020: Malta’s government has been involved in the push-backs on Easter…
+title: "AYS Daily Digest 01/05/2020: Malta’s government has been involved in the push-backs on Easter…"
 author: Are You Syrious?
 date: 2020-05-02T13:13:11.073+0100
 last_modified_at: 2020-05-02T13:13:11.073+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,europe,mediterranean,libya,digest]
 description: 57 rescued persons will stay on a ship off the coast of Malta until EU can rehouse them // Refugees intercepted at sea have been brought…
 image:
-  path: assets/cbb267099401/0*nnT6Ce8lJVjH-K64.jpeg
+  path: ../assets/cbb267099401/0*nnT6Ce8lJVjH-K64.jpeg
 ---
 
 ### AYS Daily Digest 01/05/2020: Malta’s government has been involved in the push\-backs on Easter Weekend
 ### 57 rescued persons will stay on a ship off the coast of Malta until EU can rehouse them // Refugees intercepted at sea have been brought back to Libyan detention centre // NGOs submitted a complaint against EU for ignoring budget laws when funding the Libyan Coast Guard // UNHCR calls for stop of returns to Libya and solidarity in EU with border states // Support website for foreigners launched in Tunisia // Legal report from RSA on administrative treatment of people who arrived in Greece after March 2nd // More news from Greece, Spain and France
 
 
-![](assets/cbb267099401/0*N4wc_rT7mv_VqJg_.jpeg)
+![](../assets/cbb267099401/0*N4wc_rT7mv_VqJg_.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----e82a24c83c18----------------------)
@@ -22,11 +22,11 @@ image:
 [May 2](ays-daily-digest-01-05-2020-maltas-government-has-been-involved-in-the-push-backs-on-easter-e82a24c83c18?source=post_page-----e82a24c83c18----------------------) · 9 min read
 
 
-![](assets/cbb267099401/0*0Q1n8QZhbILaDOc7)
+![](../assets/cbb267099401/0*0Q1n8QZhbILaDOc7)
 
 
 
-![](assets/cbb267099401/0*nnT6Ce8lJVjH-K64.jpeg)
+![](../assets/cbb267099401/0*nnT6Ce8lJVjH-K64.jpeg)
 
 ### FEATURE: Malta’s Prime Minister admits involvement in pushbacks to Libya, but claims it was a rescue mission
 

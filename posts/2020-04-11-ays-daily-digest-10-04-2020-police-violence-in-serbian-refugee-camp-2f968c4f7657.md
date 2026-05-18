@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 10/04/2020: Police violence in Serbian refugee camp
+title: "AYS Daily Digest 10/04/2020: Police violence in Serbian refugee camp"
 author: Are You Syrious?
 date: 2020-04-11T12:41:14.131+0100
 last_modified_at: 2020-04-11T12:41:14.131+0100
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,europe,moria]
 description: Are You Syrious?
 image:
-  path: assets/2f968c4f7657/0*IUffOMmu0SibiPBT.jpeg
+  path: ../assets/2f968c4f7657/0*IUffOMmu0SibiPBT.jpeg
 ---
 
 ### AYS Daily Digest 10/04/2020: Police violence in Serbian refugee camp
 
 
-![](assets/2f968c4f7657/0*u2nlufQtpGRt8PNX.jpeg)
+![](../assets/2f968c4f7657/0*u2nlufQtpGRt8PNX.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----71f045fa5531----------------------)
@@ -23,11 +23,11 @@ image:
 Assault on a 14\-year\-old boy in Krajaca refugee camp // Peaceful protest in Moria // Frustration in Berlin at the government’s handling of the coronavirus crisis // More lockdowns in Greece // Boats in distress off the coast of Tripoli
 
 
-![](assets/2f968c4f7657/0*jmz8U7v7XYLbKn9k)
+![](../assets/2f968c4f7657/0*jmz8U7v7XYLbKn9k)
 
 
 
-![](assets/2f968c4f7657/0*IUffOMmu0SibiPBT.jpeg)
+![](../assets/2f968c4f7657/0*IUffOMmu0SibiPBT.jpeg)
 
 ### Feature
 
@@ -104,11 +104,11 @@ The ongoing work by Alarm Phone to document the dangers of sea crossing and to c
 ### Serbia
 
 
-![](assets/2f968c4f7657/0*W6v4kTOVVMy2mPyK)
+![](../assets/2f968c4f7657/0*W6v4kTOVVMy2mPyK)
 
 
 
-![](assets/2f968c4f7657/0*2eSEeNseVWao57Xl.jpeg)
+![](../assets/2f968c4f7657/0*2eSEeNseVWao57Xl.jpeg)
 
 
 The Asylum Protection Centre \(APC\) has updated their advice on the coronavirus in Serbia\. APC regularly share useful information about the news related to the state of Serbia, as well as health care tips during the pandemic\. The material available on their mobile application is available in Serbian, English, Arabic and Persian\.

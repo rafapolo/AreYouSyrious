@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [bosnia,refugees,digest,germany,greece]
 description: new arrivals to Lesvos // Ethiopian Civil War might create many refugees fleeing to Europe // transfers from Greece to Germany // and more…
 image:
-  path: assets/932bdf412980/1*5mryibH73kdojONhZ2EGRg.jpeg
+  path: ../assets/932bdf412980/1*5mryibH73kdojONhZ2EGRg.jpeg
 ---
 
 ### AYS Daily Digest 24/02/21: More than 200 people evicted from Bihać, brought to Lipa
 #### _New arrivals to Lesvos // Ethiopian Civil War might create many refugees fleeing to Europe // transfers from Greece to Germany // and more…_
 
 
-![“\(Wednesday\) morning at 06:30am Bosnian police units evicted the 2 biggest informal settlements in Bihac, Bosnia and Herzegovina\. The two buildings gave shelter to around 400 refugees and migrants from Afghanistan and Pakistan, who could also not find shelter in the camp of Lipa\.” Photo by Vincent Haiges](assets/932bdf412980/1*5mryibH73kdojONhZ2EGRg.jpeg)
+![“\(Wednesday\) morning at 06:30am Bosnian police units evicted the 2 biggest informal settlements in Bihac, Bosnia and Herzegovina\. The two buildings gave shelter to around 400 refugees and migrants from Afghanistan and Pakistan, who could also not find shelter in the camp of Lipa\.” Photo by Vincent Haiges](../assets/932bdf412980/1*5mryibH73kdojONhZ2EGRg.jpeg)
 
 “\(Wednesday\) morning at 06:30am Bosnian police units evicted the 2 biggest informal settlements in Bihac, Bosnia and Herzegovina\. The two buildings gave shelter to around 400 refugees and migrants from Afghanistan and Pakistan, who could also not find shelter in the camp of Lipa\.” Photo by Vincent Haiges
 ### FEATURE: Over 200 people evicted from Bihać and brought to Lipa
@@ -98,7 +98,7 @@ Info Migrants reports “ _In recent years terrifying accounts and images of mig
 We now know that on Saturday, at least 41 people drowned fleeing Libya\. UNHCR and IOM said in a joint statement on Wednesday that the group was a part of a boat with at least 120 people\. 118 people have died so far on this route this year\. Learn more about the tragedy at [Aljazeera](https://www.aljazeera.com/news/2021/2/24/un-says-41-europe-bound-migrants-drown-in-mediterranean?fbclid=IwAR1Bd9ow-piytJkgr2nU3bvuGLme8ogDWfQnN3epr461v5zZJv_oDkKUEsg) \.
 
 
-![Sea Watch just published its Airborne Annual Report 2020\. Find it [here](https://sea-watch.org/en/airborne-annual_report_2020/?fbclid=IwAR1yYj_wS1Lno8JWVm62LXxzJ4ZhpYr44vFvEEOU1l4xM3ngy4SqRJz_okw) \! Photo by Sea Watch](assets/932bdf412980/1*aR4oyb4Tay5wmEp6gTNPjQ.png)
+![Sea Watch just published its Airborne Annual Report 2020\. Find it [here](https://sea-watch.org/en/airborne-annual_report_2020/?fbclid=IwAR1yYj_wS1Lno8JWVm62LXxzJ4ZhpYr44vFvEEOU1l4xM3ngy4SqRJz_okw) \! Photo by Sea Watch](../assets/932bdf412980/1*aR4oyb4Tay5wmEp6gTNPjQ.png)
 
 Sea Watch just published its Airborne Annual Report 2020\. Find it [here](https://sea-watch.org/en/airborne-annual_report_2020/?fbclid=IwAR1yYj_wS1Lno8JWVm62LXxzJ4ZhpYr44vFvEEOU1l4xM3ngy4SqRJz_okw) \! Photo by Sea Watch
 
@@ -115,11 +115,11 @@ She explained to the authorities later on that she was in psychological duress b
 ### New Lesvos arrivals
 
 
-![](assets/932bdf412980/1*rXljx8k_4zfgMngyYZj9MA.jpeg)
+![](../assets/932bdf412980/1*rXljx8k_4zfgMngyYZj9MA.jpeg)
 
 
 
-![“At least two boats arrived atLesvos during the night, carrying approximately 65 people\. So far only a few of them have been found, the rest are hiding in the woods, scared to be illegally returned to Turkey by the Hellenic coast guard\.” Info and Photos by [ABR](https://www.facebook.com/AegeanBoatReport/posts/1035030673686703)](assets/932bdf412980/1*CLBMaJ-mBZRiwbwyXQ7n3w.jpeg)
+![“At least two boats arrived atLesvos during the night, carrying approximately 65 people\. So far only a few of them have been found, the rest are hiding in the woods, scared to be illegally returned to Turkey by the Hellenic coast guard\.” Info and Photos by [ABR](https://www.facebook.com/AegeanBoatReport/posts/1035030673686703)](../assets/932bdf412980/1*CLBMaJ-mBZRiwbwyXQ7n3w.jpeg)
 
 “At least two boats arrived atLesvos during the night, carrying approximately 65 people\. So far only a few of them have been found, the rest are hiding in the woods, scared to be illegally returned to Turkey by the Hellenic coast guard\.” Info and Photos by [ABR](https://www.facebook.com/AegeanBoatReport/posts/1035030673686703)
 
@@ -153,7 +153,7 @@ Find some of the pictures of the pushback from the boat [here](https://www.faceb
 Tuesday evening firefighters were called to the northern Athens camp to put out a fire that had in a container building\. One young boy, probably seven or eight years old, was unresponsive when they arrived and later pronounced dead\. Many migrants believed that the responders had taken too long to get there\. The cause of the fire is not certain but it might have been cooking\-related\. Thiva camp is currently home to 800 asylum seekers\. Learn more about this tragedy [here\.](https://www.infomigrants.net/en/post/30463/boy-dies-in-fire-at-greek-migrant-camp?fbclid=IwAR0w80WG3SC6tdIyj0at9eRFKBhN-w5MMkll2kUPwecbuLLHy2asBSVtQ58)
 
 
-![“Once more, Greek police officers of the DRASI unit \(ex DELTA\) are seen wearing paramilitary and far\-right affiliated insignia and patches\. This picture is from today’s \(25 February 2021\) demonstration in support of the \#koufontinas\_hungerstrike\. All this while the Greek authorities will continue to deny the affiliation of certain police officers or units with criminal organizations such as Golden Dawn\. Here is another collection of Punisher symbols, featured in \(on\-active\-duty\) officer uniforms\.” Info by [Disinfaux Collective](https://twitter.com/disinfaux/status/1364703365293309952) , Photo by Yiannis Baboulias](assets/932bdf412980/1*toZuMqsyxYzze5lqdRiD5Q.jpeg)
+![“Once more, Greek police officers of the DRASI unit \(ex DELTA\) are seen wearing paramilitary and far\-right affiliated insignia and patches\. This picture is from today’s \(25 February 2021\) demonstration in support of the \#koufontinas\_hungerstrike\. All this while the Greek authorities will continue to deny the affiliation of certain police officers or units with criminal organizations such as Golden Dawn\. Here is another collection of Punisher symbols, featured in \(on\-active\-duty\) officer uniforms\.” Info by [Disinfaux Collective](https://twitter.com/disinfaux/status/1364703365293309952) , Photo by Yiannis Baboulias](../assets/932bdf412980/1*toZuMqsyxYzze5lqdRiD5Q.jpeg)
 
 “Once more, Greek police officers of the DRASI unit \(ex DELTA\) are seen wearing paramilitary and far\-right affiliated insignia and patches\. This picture is from today’s \(25 February 2021\) demonstration in support of the \#koufontinas\_hungerstrike\. All this while the Greek authorities will continue to deny the affiliation of certain police officers or units with criminal organizations such as Golden Dawn\. Here is another collection of Punisher symbols, featured in \(on\-active\-duty\) officer uniforms\.” Info by [Disinfaux Collective](https://twitter.com/disinfaux/status/1364703365293309952) , Photo by Yiannis Baboulias
 ### Manufacturing new border surveillance drones
@@ -187,7 +187,7 @@ Read on [bit.ly/Europe_FlowMon…](https://bit.ly/Europe_FlowMonitoringSurveys_S
 #### ROMANIA
 
 
-![Balkan Insights new feature entitled “Migrants on Westward Trek Meet Kindness in Romania’s Timisoara” is a worthwhile read about how welcoming Timisoara has been to migrants entering Romania over the last several months\. [Check it out here\.](https://balkaninsight.com/2021/02/24/migrants-on-westward-trek-meet-kindness-in-romanias-timisoara?fbclid=IwAR3BX0tX1EDHF63O7JfPAWxXqFyCdVfiL77SPQJdZbDw4IDFJ6thOYHNzwk) Photo by LOGS](assets/932bdf412980/1*Fa7sLB5vOXGrPUkfh2nzlQ.jpeg)
+![Balkan Insights new feature entitled “Migrants on Westward Trek Meet Kindness in Romania’s Timisoara” is a worthwhile read about how welcoming Timisoara has been to migrants entering Romania over the last several months\. [Check it out here\.](https://balkaninsight.com/2021/02/24/migrants-on-westward-trek-meet-kindness-in-romanias-timisoara?fbclid=IwAR3BX0tX1EDHF63O7JfPAWxXqFyCdVfiL77SPQJdZbDw4IDFJ6thOYHNzwk) Photo by LOGS](../assets/932bdf412980/1*Fa7sLB5vOXGrPUkfh2nzlQ.jpeg)
 
 Balkan Insights new feature entitled “Migrants on Westward Trek Meet Kindness in Romania’s Timisoara” is a worthwhile read about how welcoming Timisoara has been to migrants entering Romania over the last several months\. [Check it out here\.](https://balkaninsight.com/2021/02/24/migrants-on-westward-trek-meet-kindness-in-romanias-timisoara?fbclid=IwAR3BX0tX1EDHF63O7JfPAWxXqFyCdVfiL77SPQJdZbDw4IDFJ6thOYHNzwk) Photo by LOGS
 #### GERMANY

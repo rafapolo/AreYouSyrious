@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 25/05/2018: Another absurd deal to stop people from coming to the EU
+title: "AYS DAILY DIGEST 25/05/2018: Another absurd deal to stop people from coming to the EU"
 author: Are You Syrious?
 date: 2018-05-26T11:28:14.700+0100
 last_modified_at: 2018-05-26T11:43:39.572+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,algeia,eu,migrations]
 description: EU and Algeria deal connects fight against illigal migration and prevention of Islamist terrorism // EU deal with Libya contributed to the…
 image:
-  path: assets/1038f888da52/1*6VAT5TTBca4oFRVSmU4ngg.jpeg
+  path: ../assets/1038f888da52/1*6VAT5TTBca4oFRVSmU4ngg.jpeg
 ---
 
 ### AYS DAILY DIGEST 25/05/2018: Another absurd deal to stop people from coming to the EU
@@ -15,7 +15,7 @@ image:
 _EU and Algeria deal connects fight against illigal migration and prevention of Islamist terrorism // EU deal with Libya contributed to the increase in trafficking hubs // More than 400 people saved in 11 hours long rescue operations // Riots in Moria // Balkan countries to strengthen borders_
 
 
-![On a rainy day in Ritsona refugee camp, some of the youngest residents decided to go exploring\! Photo [I AM YOU](https://www.facebook.com/iamyourescue/photos/a.1012648618776866.1073741828.1011437275564667/2038734062834978/?type=3&theater&ifg=1)](assets/1038f888da52/1*6VAT5TTBca4oFRVSmU4ngg.jpeg)
+![On a rainy day in Ritsona refugee camp, some of the youngest residents decided to go exploring\! Photo [I AM YOU](https://www.facebook.com/iamyourescue/photos/a.1012648618776866.1073741828.1011437275564667/2038734062834978/?type=3&theater&ifg=1)](../assets/1038f888da52/1*6VAT5TTBca4oFRVSmU4ngg.jpeg)
 
 On a rainy day in Ritsona refugee camp, some of the youngest residents decided to go exploring\! Photo [I AM YOU](https://www.facebook.com/iamyourescue/photos/a.1012648618776866.1073741828.1011437275564667/2038734062834978/?type=3&theater&ifg=1)
 ### Feature
@@ -43,7 +43,7 @@ Yesterday, four people from Morocco drowned off the coast of Kenitra, Morocco\. 
 With the help of Sea\-Eye’s Seefuchs and our Moonbird crew, [Sea\-Watch](https://www.facebook.com/seawatchprojekt/posts/2028438230707581) was able to save more than 400 people from distress, in 11 hours of rescue operations\.
 
 
-![Photo Sea Watch](assets/1038f888da52/1*oeILZb6U6-cjpbPhzfN5Ww.jpeg)
+![Photo Sea Watch](../assets/1038f888da52/1*oeILZb6U6-cjpbPhzfN5Ww.jpeg)
 
 Photo Sea Watch
 
@@ -69,7 +69,7 @@ On May, 14th by [Chez Jesus](https://www.facebook.com/Chez-Jesus-Rifugio-Autoges
 Latest official updated from Greek government Island situation
 
 
-![](assets/1038f888da52/1*89LlwrO-lC_3KkmcvZSS8w.jpeg)
+![](../assets/1038f888da52/1*89LlwrO-lC_3KkmcvZSS8w.jpeg)
 
 
 As of the end of April, over 9\.000 persons had arrived on the islands and 5\.500 through the Evros land border\. At the end of March, there were 51,000 people on the move registered in Greece\. At the moment, all existing camps and accommodation are overcrowded\. Especially high number of people are in Thessaloniki and Athens where people are, one and again, sleeping in the streets\.
@@ -101,7 +101,7 @@ MSF is covering medicine, towels and toothpaste\. No Borders Kitchen is covering
 Number of people in the border area between Bosnia and Croatia, cities of Bihać and Velika Kladuša, increses daily\. On Friday, about 400 people came for the mean to Red Cross shelter\. By the end of the day, 60 new people arrived\.
 
 
-![Bihać\. Photo by Red Cross Bihać\.](assets/1038f888da52/1*82eRDKmWSGdwCQr0U25Odw.jpeg)
+![Bihać\. Photo by Red Cross Bihać\.](../assets/1038f888da52/1*82eRDKmWSGdwCQr0U25Odw.jpeg)
 
 Bihać\. Photo by Red Cross Bihać\.
 
@@ -134,7 +134,7 @@ Refugees sleeping in nearby woods at Puythouck appeared to be arbitrarily arrest
 Whilst we believe getting people off the streets and into better accommodation is a good thing, evictions like this need to be carried out with much more transparency, where authorities work to uphold the dignity of all those involved\.”
 
 
-![After the eviction\. Photo by Help Refugees\.](assets/1038f888da52/1*ntd8lC5Q2uDLtB7L6TNA4Q.jpeg)
+![After the eviction\. Photo by Help Refugees\.](../assets/1038f888da52/1*ntd8lC5Q2uDLtB7L6TNA4Q.jpeg)
 
 After the eviction\. Photo by Help Refugees\.
 
@@ -170,7 +170,7 @@ Location: anywhere in the world\.
 Contact [Naoum Liotas](https://www.facebook.com/naoumliotas?fref=mentions) for more information, or email: [jeff@mindsightasia\.com](mailto:jeff@mindsightasia.com)
 
 
-![](assets/1038f888da52/1*Axi6zD45mEC4Glzln8b3-g.png)
+![](../assets/1038f888da52/1*Axi6zD45mEC4Glzln8b3-g.png)
 
 
 **We strive to echo correct news from the ground through collaboration and fairness\.**

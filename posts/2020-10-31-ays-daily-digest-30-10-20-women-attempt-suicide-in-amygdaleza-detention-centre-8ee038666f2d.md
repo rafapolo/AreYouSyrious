@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 30/10/20: Women attempt suicide in Amygdaleza detention centre
+title: "AYS Daily Digest 30/10/20: Women attempt suicide in Amygdaleza detention centre"
 author: Are You Syrious?
 date: 2020-10-31T18:46:38.626+0000
 last_modified_at: 2020-10-31T18:46:38.626+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,migrants,greece,balkan-route,detention]
 description: A hunger strike started after the two suicide attempts in detention, where an unconscious woman waited for help for almost two hours /…
 image:
-  path: assets/8ee038666f2d/0*5r7eFdjHrslq6M4n
+  path: ../assets/8ee038666f2d/0*5r7eFdjHrslq6M4n
 ---
 
 ### AYS Daily Digest 30/10/20: Women attempt suicide in Amygdaleza detention centre
 ### A hunger strike started after the two suicide attempts in detention, where an unconscious woman waited for help for almost two hours / Residents and activists sharing accounts of eviction from the Pikpa camp / At least 140 people drown off Senegalese coast / Girls, underage, arriving alone in Melilla / UNHCR Calling for the re\-opening of UK’s global resettlement scheme
 
 
-![](assets/8ee038666f2d/0*h0gR_UN0aXP2JZiR.jpeg)
+![](../assets/8ee038666f2d/0*h0gR_UN0aXP2JZiR.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----18551804583--------------------------------)
@@ -22,11 +22,11 @@ image:
 [Oct 31](ays-daily-digest-30-10-20-women-attempt-suicide-in-amygdaleza-detention-center-18551804583?source=post_page-----18551804583--------------------------------) · 10 min read
 
 
-![](assets/8ee038666f2d/0*PPgVj0E5OSQUpYuP)
+![](../assets/8ee038666f2d/0*PPgVj0E5OSQUpYuP)
 
 
 
-![](assets/8ee038666f2d/0*JSC4i7Rv6TtlI-wt.jpeg)
+![](../assets/8ee038666f2d/0*JSC4i7Rv6TtlI-wt.jpeg)
 
 ### FEATURED
 ### Eviction of Pikpa highlights rising problems in Greece, where many camps are not suitable for living and/or not ready for winter
@@ -109,19 +109,19 @@ As we [previously reported in our earlier News Digest](ays-daily-digest-28-10-20
 This is how 99% people in transit who are stuck in Velika Kladuša “live” at the moment\. For most of the year, this is how the men, wormen and children across the country are forced to survive\. The sunny weather in the past days is most likely the only reason why these people have not frozen by now, [Bosnian volunteer](https://web.facebook.com/dzeneta.armin?__cft__[0]=AZUS32yj9UYLAn-iohJmh9Hr4O9a7QPLnwyyq9eggydy0_xxCU6TERaSImh4F-Gc_HfJ7iE1oakIyM-tfd4ghx0t_t5sBuS-YKAjtnCCiRm4Ie_Eje06e1-hFW44qof1QKTi-RWxQI_LLKs0RmhVmpJiiLNJhVd69gz5uxS5X-3k9kavI2VgHNZKUDy0kYwUOUNv1F8wSbhcYqRw4caKqiBq&__tn__=-UC%2CP-y-R) writes\.
 
 
-![](assets/8ee038666f2d/0*yyBw9Xn3ZutK1uvS)
+![](../assets/8ee038666f2d/0*yyBw9Xn3ZutK1uvS)
 
 
 
-![](assets/8ee038666f2d/0*_JeTs7JxwizRJ0dJ)
+![](../assets/8ee038666f2d/0*_JeTs7JxwizRJ0dJ)
 
 
 
-![](assets/8ee038666f2d/0*FkS4UYfPxzR9wOf3)
+![](../assets/8ee038666f2d/0*FkS4UYfPxzR9wOf3)
 
 
 
-![](assets/8ee038666f2d/0*5r7eFdjHrslq6M4n)
+![](../assets/8ee038666f2d/0*5r7eFdjHrslq6M4n)
 
 ### THE MEDITERRANEAN ROUTE
 ### At least 140 people drown off Senegalese coast

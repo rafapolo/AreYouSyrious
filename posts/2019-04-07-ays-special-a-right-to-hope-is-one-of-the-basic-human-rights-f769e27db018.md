@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: A right to hope is one of the basic human rights
+title: "AYS SPECIAL: A right to hope is one of the basic human rights"
 author: Are You Syrious?
 date: 2019-04-07T11:56:50.040+0100
 last_modified_at: 2019-04-07T12:07:46.711+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [special,diavata,caravan-of-hope,greece,refugees]
 description: After two days, the Caravan of Hope is over. Whatever the views of individuals and organisations that forewarned people against joining…
 image:
-  path: assets/f769e27db018/1*4xQCvoRhRc118-_TwCxgsQ.jpeg
+  path: ../assets/f769e27db018/1*4xQCvoRhRc118-_TwCxgsQ.jpeg
 ---
 
 ### AYS SPECIAL: A right to hope is one of the basic human rights
@@ -15,7 +15,7 @@ image:
 _After two days, the Caravan of Hope is over\. Whatever the views of individuals and organisations that forewarned people against joining the movement, we should focus our attentions on [denouncing](https://twitter.com/AmnestyGreece/status/1114218937963700229) the disproportionate and systematic violence against people trying to exercise their right to freedom of movement within a territory\. At the very least, we must remember why people are mobilising and from what they are trying to escape\. The concerted effort by the state to silence refugees desperate for proper living conditions is unsurprising but deserves our solidarity\._
 
 
-![Photo curtesy of Konstantinos Tsekalidis, by [SOOC](https://www.facebook.com/soocimages/?__tn__=%2Cd%2CP-R&eid=ARBRW8bl2059c0xPw_ovBrJzmSJGnqS5bpSbMlgWYns7MtvnSndAGfmjra8gQOJ6wfjXOXMcD9NGkzRi) \.](assets/f769e27db018/1*4xQCvoRhRc118-_TwCxgsQ.jpeg)
+![Photo curtesy of Konstantinos Tsekalidis, by [SOOC](https://www.facebook.com/soocimages/?__tn__=%2Cd%2CP-R&eid=ARBRW8bl2059c0xPw_ovBrJzmSJGnqS5bpSbMlgWYns7MtvnSndAGfmjra8gQOJ6wfjXOXMcD9NGkzRi) \.](../assets/f769e27db018/1*4xQCvoRhRc118-_TwCxgsQ.jpeg)
 
 Photo curtesy of Konstantinos Tsekalidis, by [SOOC](https://www.facebook.com/soocimages/?__tn__=%2Cd%2CP-R&eid=ARBRW8bl2059c0xPw_ovBrJzmSJGnqS5bpSbMlgWYns7MtvnSndAGfmjra8gQOJ6wfjXOXMcD9NGkzRi) \.
 
@@ -40,7 +40,7 @@ Families stick together, for fear they [might not be able to reunite later](http
 People do not hold up their children in the hope that police will beat them instead, people hold up their children in the hope that the police will show mercy\. But in response, the police have nothing but tear gas and stun grenades to offer refugees in Diavata\. People do not take babies on such journeys unless they truly believe that the future they will find is better than the conditions in which they’ve been dwelling\.
 
 
-[![Diavata 5.4.2019.](assets/f769e27db018/0347_hqdefault.jpg "Diavata 5.4.2019.")](http://www.youtube.com/watch?v=dWG03GyPYgc)
+[![Diavata 5.4.2019.](../assets/f769e27db018/0347_hqdefault.jpg "Diavata 5.4.2019.")](http://www.youtube.com/watch?v=dWG03GyPYgc)
 
 
 The question on our lips should not be “why have refugees brought their children into such a violent situation?” It should be “why are the police creating such a violent situation with children present?”
@@ -58,7 +58,7 @@ It is clear that the people on the move who made up the Caravan were just a smal
 Those lucky enough to have [UNHCR cash assistance](https://www.refugee.info/greece/cash-assistance-in-greece--greece/the-cash-program?language=en) found that cash had not been loaded onto their cards as expected in the last days — though as yet unconfirmed by UNHCR, it is understood that it was a conscious decision to withhold people’s meagre stipends, in anticipation of the Caravan to ensure that refugees could not purchase travel tickets or supplies to join it\.
 
 
-![Curtesy of participants of the Caravan](assets/f769e27db018/1*8m4Xw5bcS5874cBP-BoBIQ.jpeg)
+![Curtesy of participants of the Caravan](../assets/f769e27db018/1*8m4Xw5bcS5874cBP-BoBIQ.jpeg)
 
 Curtesy of participants of the Caravan
 
@@ -77,7 +77,7 @@ In a bid to divide people further, on 6th April there were reports that [drinkin
 Knowing that refugees would be tiring from the tear gas, the Greek Ministry for Migration together with IOM [chartered buses](https://www.facebook.com/ourhousegr/posts/2270528006532366) , especially to return people back to Athens or to the camps from which they came\.
 
 
-![Curtesy of people who participated in the Convoy](assets/f769e27db018/1*AV6AlHNWTENEHQEWIEMyEg.jpeg)
+![Curtesy of people who participated in the Convoy](../assets/f769e27db018/1*AV6AlHNWTENEHQEWIEMyEg.jpeg)
 
 Curtesy of people who participated in the Convoy
 
@@ -88,7 +88,7 @@ If by some miracle, refugees were to triumph against the authorities’ orchestr
 Intergovernmental organisations, namely UNHCR and IOM, have also put significant efforts into discouraging refugees from joining the ‘Caravan of Hope’ _\._ In a [joint statement](https://www.voria.gr/elfinder/Messages-GH_English.pdf) , they warn that participants may end up _“without adequate shelter, food and other basic services”\._ They implore refugees to approach _“Greek authorities, UNHCR, IOM and their partner organisations”_ who they say _“can provide information, advice and support in a safe and legal way”\._
 
 
-![](assets/f769e27db018/1*si0zSSeJK67QlV134BTRRw.png)
+![](../assets/f769e27db018/1*si0zSSeJK67QlV134BTRRw.png)
 
 
 This statement is an insult — it ignores the fact that thousands of refugees in Greece are already living without accommodation or proper sustenance and lack access to essential services\. If such support from the authorities and INGOs were tangible, people would not have travelled the length of the country to escape their living conditions\.
@@ -110,7 +110,7 @@ We do not know how to phrase the fact that Europe’s arms are not open to refug
 _“I won’t go back there”_ says Mahmoud\*, when talking of the camp that he has come from\. He cannot cope without support, which he has not found in Greece\. He says he will not give up, though it seems unlikely things will improve\.
 
 
-![](assets/f769e27db018/1*sWI3OlMSKJ4c66qhTkXySw.jpeg)
+![](../assets/f769e27db018/1*sWI3OlMSKJ4c66qhTkXySw.jpeg)
 
 
 As darkness fell on 5th April, [hundreds remained in the fields](https://www.facebook.com/daphne.tolis/videos/10156312612002371/) , enveloped in clouds of teargas as rainclouds also formed\. It was people’s pure determination and strength that kept them there so long\.

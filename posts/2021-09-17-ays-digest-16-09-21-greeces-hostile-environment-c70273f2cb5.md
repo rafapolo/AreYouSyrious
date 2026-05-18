@@ -1,5 +1,5 @@
 ---
-title: AYS Digest 16.09.21: Greece’s Hostile Environment
+title: "AYS Digest 16.09.21: Greece’s Hostile Environment"
 author: Are You Syrious?
 date: 2021-09-17T14:15:24.528+0100
 last_modified_at: 2021-09-17T14:15:24.528+0100
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [digest,refugees,greece,afghanistan,canary-islands]
 description: Are You Syrious?
 image:
-  path: assets/c70273f2cb5/0*TThWGxboMsQq5GEq.jpeg
+  path: ../assets/c70273f2cb5/0*TThWGxboMsQq5GEq.jpeg
 ---
 
 ### AYS Digest 16\.09\.21: Greece’s Hostile Environment
 
 
-![](assets/c70273f2cb5/0*CV7BTnCyOfWOKk9g.jpeg)
+![](../assets/c70273f2cb5/0*CV7BTnCyOfWOKk9g.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----a3cc76c97f0c--------------------------------)
@@ -23,7 +23,7 @@ image:
 _No new camps in Pakistan for Afghanis / 45 people rescued in med / In August 12 people per day died on way to Canaries / Student visas to Italy / Concerns for Afghans in Kosovo / Reports released on UK immigration policy and more…_
 
 
-![](assets/c70273f2cb5/0*TThWGxboMsQq5GEq.jpeg)
+![](../assets/c70273f2cb5/0*TThWGxboMsQq5GEq.jpeg)
 
 
 \(Photo Credit: [MSF Sea](https://twitter.com/MSF_Sea/status/1438439734628528128?s=20&fbclid=IwAR01leuAFtFHnameKe4dQABz6FumXQR6t0t0Y3Wn_2kQ65K-KCWGnFFxVqc) \. Would you like your child to grow and play behind barbed wires? No one would\. Yet, this is how child refugees will be trapped soon in the new [\#EU](https://twitter.com/hashtag/EU?src=hashtag_click) funded center in [\#Samos](https://twitter.com/hashtag/Samos?src=hashtag_click) , [\#Greece](https://twitter.com/hashtag/Greece?src=hashtag_click) \. Their only crime? Seeking safety\. \)
@@ -33,7 +33,7 @@ _No new camps in Pakistan for Afghanis / 45 people rescued in med / In August 12
 As many EU countries publicly welcome Afghan people displaced and forced to flee due to the Taliban takeover, Greece ramps up it’s anti immigration rhetoric with full support of the EU Commission\. The government campaign is taking several forms — from trying to convince Afghanis not to come to Greece with [advertising campaigns in Afghan newspapers](https://twitter.com/TihomirSabchev/status/1438533055031959556?s=20&fbclid=IwAR2dlwCEWdaBZKn17cigzctVc5Yz2Dpuc0LHgYdTkcjdvvoYeIjXMTuZt9g) to more broadly targeting people on the move through exclusionary policies of containment\.
 
 
-![](assets/c70273f2cb5/0*7kZLVEtxIU_lQFLx.jpeg)
+![](../assets/c70273f2cb5/0*7kZLVEtxIU_lQFLx.jpeg)
 
 
 \(Photo Credit: [@MigrantsSoli](https://twitter.com/MigrantsSoli/status/1438542656519483394?s=19&fbclid=IwAR0GDdc3FMR-ebFLI-vSPRsDy96Nlx7O3IGyDTVYvihowS-V0IEC23_YTPE) \. Protest in Viktoria Square, Athens, 16\.9\.21\)

@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 29–30/8/20: The ‘Capital of the Mediterranean’ steps up and opens its port to…
+title: "AYS Weekend Digest 29–30/8/20: The ‘Capital of the Mediterranean’ steps up and opens its port to…"
 author: Are You Syrious?
 date: 2020-08-31T15:50:48.950+0100
 last_modified_at: 2020-08-31T15:50:48.950+0100
@@ -7,18 +7,18 @@ categories: Are You Syrious?
 tags: []
 description: Marseille opens its port / Bosnia and Herzegovina’s anti-people treatment funded and supported by the international community; shooting at…
 image:
-  path: assets/95492dd6b06b/0*UPqmbiDpdc5Po0nP.jpeg
+  path: ../assets/95492dd6b06b/0*UPqmbiDpdc5Po0nP.jpeg
 ---
 
 ### AYS Weekend Digest 29–30/8/20: The ‘Capital of the Mediterranean’ steps up and opens its port to Louise Michel
 #### Marseille opens its port / Bosnia and Herzegovina’s anti\-people treatment funded and supported by the international community; shooting at people reported in Bihać / In Italy, unrest grows with the number of arrivals to Lampedusa / North of France still in need of support as people struggle; a report / recommended stories & more news
 
 
-![](assets/95492dd6b06b/0*FCE5yQTO0NBCbnOa)
+![](../assets/95492dd6b06b/0*FCE5yQTO0NBCbnOa)
 
 
 
-![](assets/95492dd6b06b/0*UPqmbiDpdc5Po0nP.jpeg)
+![](../assets/95492dd6b06b/0*UPqmbiDpdc5Po0nP.jpeg)
 
 ### FEATURE: BVMN Visual Investigation — analysis of video footage showing Bosnian special support unit engaged in violent behavior near Miral camp
 
@@ -129,11 +129,11 @@ Find the full statement [here](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.
 ### Chios
 
 
-![](assets/95492dd6b06b/0*F5BZVQGI1eZQku8-)
+![](../assets/95492dd6b06b/0*F5BZVQGI1eZQku8-)
 
 
 
-![](assets/95492dd6b06b/0*H_0oy44Gwg9kjLyG.jpeg)
+![](../assets/95492dd6b06b/0*H_0oy44Gwg9kjLyG.jpeg)
 
 
 26 people arrived on two boats outside Ag\. Ermioni, Chios, early Saturday afternoon\. All Turkish nationals, they were onboard two old wooden fishing boats\. They have all claimed political asylum, and have been transported to the quarantine structure in Lefkonia, ABR says\.
@@ -177,11 +177,11 @@ My people are no longer mine\. I don’t belong to such\.
 Measures for the people against the people
 
 
-![](assets/95492dd6b06b/0*J6IsjneXIFdRjrdT)
+![](../assets/95492dd6b06b/0*J6IsjneXIFdRjrdT)
 
 
 
-![](assets/95492dd6b06b/0*Gw5XkRCpgT3Xfal3.jpeg)
+![](../assets/95492dd6b06b/0*Gw5XkRCpgT3Xfal3.jpeg)
 
 
 “Since a change in the law on Friday last week, at least 7 families we know have to sleep outside the official fields in Bihać and its surroundings\.

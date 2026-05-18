@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 15/08/17: Intimidation at Pro Activa boat by Libya
+title: "AYS Daily Digest 15/08/17: Intimidation at Pro Activa boat by Libya"
 author: Are You Syrious?
 date: 2017-08-15T23:13:35.347+0100
 last_modified_at: 2017-08-29T17:46:41.985+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,libya,european-union,refugeeswelcome,migration]
 description: Pro Activa boat intercepted and forced towards the Libyan coast / MOAS rescues 111 people / Turkey reinstates neighbourhood guard system /…
 image:
-  path: assets/b5ab1f0ea158/1*x0p1qL8UAZ_ck89aCWYcXw.jpeg
+  path: ../assets/b5ab1f0ea158/1*x0p1qL8UAZ_ck89aCWYcXw.jpeg
 ---
 
 ### AYS Daily Digest 15/08/17: Intimidation at Pro Activa boat by Libya
@@ -15,7 +15,7 @@ image:
 _Pro Activa boat intercepted and forced towards the Libyan coast / MOAS rescues 111 people / Turkey reinstates neighbourhood guard system / Report on a refugee camp near Sombor, Serbia / 700 people are sleeping rough out in the rain in Paris / Stockholm sit\-in still strong after a week / And more news…_
 
 
-![Photo by No Name Kitchen, taken in Serbia](assets/b5ab1f0ea158/1*x0p1qL8UAZ_ck89aCWYcXw.jpeg)
+![Photo by No Name Kitchen, taken in Serbia](../assets/b5ab1f0ea158/1*x0p1qL8UAZ_ck89aCWYcXw.jpeg)
 
 Photo by No Name Kitchen, taken in Serbia
 #### Intimidation at Pro Activa boat by Libya
@@ -47,7 +47,7 @@ One of the rescuers still at sea, MOAS, continues their mission\. Today they sav
 At a time when harassment of NGOs is escalating and work in the SAR area becoming more difficult, Maydayterraneo is looking to start their rescue mission in September\. In agreement with the German organization LIFELINE and SEAWATCH which allowed them to charter Seawatch 2 as a ship for their project, they said that it is their intention to make the mission operational as soon as possible, naming the date of September 15 as the starting point of the mission\. We wish them the best of luck\.
 
 
-![Photo by **[Maydayterraneo — Proyecto AitaMari](https://www.facebook.com/MAYDAYTERRANEO/?ref=gs&hc_ref=ARR_TaSlBhna0SSt8SiIB2FmHnMgz5Wc3Yx9gva8ZRvE3_Qtdpnqd7wyPibZQOeSIK4&fref=gs&hc_location=group_member_profile)**](assets/b5ab1f0ea158/1*A1qRw6xGGEurRAtp6f9yPA.jpeg)
+![Photo by **[Maydayterraneo — Proyecto AitaMari](https://www.facebook.com/MAYDAYTERRANEO/?ref=gs&hc_ref=ARR_TaSlBhna0SSt8SiIB2FmHnMgz5Wc3Yx9gva8ZRvE3_Qtdpnqd7wyPibZQOeSIK4&fref=gs&hc_location=group_member_profile)**](../assets/b5ab1f0ea158/1*A1qRw6xGGEurRAtp6f9yPA.jpeg)
 
 Photo by **[Maydayterraneo — Proyecto AitaMari](https://www.facebook.com/MAYDAYTERRANEO/?ref=gs&hc_ref=ARR_TaSlBhna0SSt8SiIB2FmHnMgz5Wc3Yx9gva8ZRvE3_Qtdpnqd7wyPibZQOeSIK4&fref=gs&hc_location=group_member_profile)**
 #### GREECE
@@ -82,7 +82,7 @@ UNHCR and partners received reports of 122 recorded collective pushbacks from Hu
 [TruckShop](https://www.facebook.com/mobileclothesproject/) is setting up in Serbia and almost ready to start distribution\. If you are over 21 and able to come for 2 weeks or more contact them at volunteer@freedomofchoiceproject\.org
 
 
-![Photo by **[TruckShop](https://www.facebook.com/mobileclothesproject/)**](assets/b5ab1f0ea158/1*rcYHKfL7Vfb3y2dF6EcSWQ.jpeg)
+![Photo by **[TruckShop](https://www.facebook.com/mobileclothesproject/)**](../assets/b5ab1f0ea158/1*rcYHKfL7Vfb3y2dF6EcSWQ.jpeg)
 
 Photo by **[TruckShop](https://www.facebook.com/mobileclothesproject/)**
 #### GERMANY
@@ -98,7 +98,7 @@ The sit\-in in Stockholm to stop deportations to Afghanistan has now been ongoin
 The protest will move out to the schools, Blankspot project writes\. The main area will continue to be Medborgarplatsen, but the students will stay in school\. On breaks they will sit down united on floors across the country\. This was announced by Fatemeh Khavari at a press conference on Tuesday afternoon\. How long this protest will go on depends on politicians and the Migration Agency\. They are the ones that have to give answers, she said\. This second step, according to the protesters, will be even bigger than the first one\. Together we will become one of the biggest demonstrations in modern times, Khavari continued, referring to the large number of Afghan youths in Sweden and the large number of people supporting them\.
 
 
-![Photo by AYS volunteer](assets/b5ab1f0ea158/1*WqEQlJRjfO3O3VAroHRJDA.jpeg)
+![Photo by AYS volunteer](../assets/b5ab1f0ea158/1*WqEQlJRjfO3O3VAroHRJDA.jpeg)
 
 Photo by AYS volunteer
 

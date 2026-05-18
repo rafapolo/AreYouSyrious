@@ -1,5 +1,5 @@
 ---
-title: AYS Digest 26.10: Calais children with nowhere to sleep
+title: "AYS Digest 26.10: Calais children with nowhere to sleep"
 author: Are You Syrious?
 date: 2016-10-27T00:33:38.822+0100
 last_modified_at: 2016-10-27T10:23:59.201+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: Children left without shelter after Calais fires. Hungary builds new fence at its border with Serbia. Record 3,800 die in the…
 image:
-  path: assets/dd9301cff389/0*Y-iKmWuZhXXzwLbp.
+  path: ../assets/dd9301cff389/0*Y-iKmWuZhXXzwLbp.
 ---
 
 ### AYS Digest 26\.10: Calais children with nowhere to sleep
@@ -15,7 +15,7 @@ image:
 _Children left without shelter after Calais fires\. Hungary builds new fence at its border with Serbia\. Record 3,800 die in the Mediterranean\. Deportation of a pregnant woman from Austria to Croatia suspended\._
 
 
-![](assets/dd9301cff389/0*Y-iKmWuZhXXzwLbp.)
+![](../assets/dd9301cff389/0*Y-iKmWuZhXXzwLbp.)
 
 ### Children left without shelter after Calais fires
 
@@ -26,7 +26,7 @@ Calais Action says “ _As night approached, some minors were not allowed to ent
 Volunteers say the warehouse, where registration takes place, was opened to children unable to sleep in the container camp, but the prefecture refused to take in several kids, forcing volunteers to scramble to find another place for them to sleep\. Help Refugees says “ dozens of children slept on the cold ground in front of the containers they were supposed to be housed in\. Another 40 slept in a school\.”
 
 
-![Photo by Refugee Infobus](assets/dd9301cff389/0*ncaxJWHpV1z4bGfJ.)
+![Photo by Refugee Infobus](../assets/dd9301cff389/0*ncaxJWHpV1z4bGfJ.)
 
 Photo by Refugee Infobus
 
@@ -37,7 +37,7 @@ Le Monde reports that on Tuesday, Franck Esnée of MSF saw around one third of t
 Le Monde also reports that some kids were robbed of the bracelet that allowed them to sleep in the CAP, while others were left on their own devices, as their brothers or uncles left for CAOs\.
 
 
-![The queue for the minors registration this morning\. Photo by Ifty Patel](assets/dd9301cff389/0*ZePpnCyLhRJLcmZ7.)
+![The queue for the minors registration this morning\. Photo by Ifty Patel](../assets/dd9301cff389/0*ZePpnCyLhRJLcmZ7.)
 
 The queue for the minors registration this morning\. Photo by Ifty Patel
 
@@ -48,7 +48,7 @@ Help Refugees says around 300 kids were turned away, and Save the Children says 
 Yesterday night, some children had to sleep in the community mosques, while others were forced to sleep under a bridge, according to Help Refugees\.
 
 
-![Photo by Help Refugees](assets/dd9301cff389/0*3JK4s6Gxj5kuRcf2.)
+![Photo by Help Refugees](../assets/dd9301cff389/0*3JK4s6Gxj5kuRcf2.)
 
 Photo by Help Refugees
 
@@ -70,14 +70,14 @@ InfoBus says today’s and yesterday’s fires destroyed community centers, rest
 
 
 
-![Photo by the Hummingbird Project](assets/dd9301cff389/0*JahmGYRaxP4cg-mY.jpg)
+![Photo by the Hummingbird Project](../assets/dd9301cff389/0*JahmGYRaxP4cg-mY.jpg)
 
 Photo by the Hummingbird Project
 
 Many of the fires were contained by volunteers, before official firefighters got there\.
 
 
-![Photo by Ifty Patel](assets/dd9301cff389/0*OldXgSRnFrAGLKee.)
+![Photo by Ifty Patel](../assets/dd9301cff389/0*OldXgSRnFrAGLKee.)
 
 Photo by Ifty Patel
 
@@ -95,18 +95,18 @@ Not everyone is willing to leave for French CAOs, with many still hoping to reac
 Women in Calais have also staged a protest, demanding to reach the UK\.
 
 
-[![Calais women protest: Under age over age all women's](assets/dd9301cff389/150f_hqdefault.jpg "Calais women protest: Under age over age all women's")](http://www.youtube.com/watch?v=iRZQEpvbkto)
+[![Calais women protest: Under age over age all women's](../assets/dd9301cff389/150f_hqdefault.jpg "Calais women protest: Under age over age all women's")](http://www.youtube.com/watch?v=iRZQEpvbkto)
 
 
 
-![Photo by Annie Patricia Gavrilescu](assets/dd9301cff389/0*KWP0st6HS5BjD3JU.)
+![Photo by Annie Patricia Gavrilescu](../assets/dd9301cff389/0*KWP0st6HS5BjD3JU.)
 
 Photo by Annie Patricia Gavrilescu
 
 François Guennec, of L’Auberge des Migrants, believes between 3,000 and 4,000 refugees could have left on their own design\. Several refugees from Calais have already arrived in Brussels and Parisian volunteers expect people to arrive soon\.
 
 
-![Photo by Ifty Patel](assets/dd9301cff389/0*FllU7Ev6L9Q-oIcp.)
+![Photo by Ifty Patel](../assets/dd9301cff389/0*FllU7Ev6L9Q-oIcp.)
 
 Photo by Ifty Patel
 ### How You Can Help
@@ -150,12 +150,12 @@ Arabic: [http://w2eu\.info/greece\.ar\.html](http://l.facebook.com/l.php?u=http%
 #### Serbia
 
 
-![Photo by Lazara Marinkovic](assets/dd9301cff389/0*isQJ7N584pkxUvCs.jpg)
+![Photo by Lazara Marinkovic](../assets/dd9301cff389/0*isQJ7N584pkxUvCs.jpg)
 
 Photo by Lazara Marinkovic
 
 
-![Photo by Lazara Marinkovic](assets/dd9301cff389/0*x3qvUtISK4lAhkhA.jpg)
+![Photo by Lazara Marinkovic](../assets/dd9301cff389/0*x3qvUtISK4lAhkhA.jpg)
 
 Photo by Lazara Marinkovic
 ### Info Park’s last day
@@ -200,7 +200,7 @@ The European Court of Human Rights has suspended the deportation of a pregnant w
 The [INYT](http://www.nytimes.com/2016/10/26/world/europe/migrants-mediterranean-deaths-united-nations.html?_r=1) covers UNHCR figures showing deaths among migrants crossing the Mediterranean from North Africa to Europe are to overtake the fatalities last year despite a sharp fall in the number making the journey\. The figures show at least 3,740 people had died by the start of this week, compared with 3,771 in the whole of 2015\. UNHCR spokesperson William Spindler said of the situation, ‘this is by far the worst we have ever seen\.’
 
 
-![Photo by Irish Emergency Logistics Team](assets/dd9301cff389/0*lulI74WI4KIv_-_u.jpg)
+![Photo by Irish Emergency Logistics Team](../assets/dd9301cff389/0*lulI74WI4KIv_-_u.jpg)
 
 Photo by Irish Emergency Logistics Team
 

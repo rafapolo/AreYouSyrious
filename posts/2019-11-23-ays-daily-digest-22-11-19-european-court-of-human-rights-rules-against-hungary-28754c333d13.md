@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 22/11/19: European Court of Human Rights rules against Hungary
+title: "AYS Daily Digest 22/11/19: European Court of Human Rights rules against Hungary"
 author: Are You Syrious?
 date: 2019-11-23T13:29:19.181+0000
 last_modified_at: 2019-11-23T13:29:19.181+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,mediterranean,hungary]
 description: Are You Syrious?
 image:
-  path: assets/28754c333d13/0*94Ug36_uMrbWGash.jpeg
+  path: ../assets/28754c333d13/0*94Ug36_uMrbWGash.jpeg
 ---
 
 ### AYS Daily Digest 22/11/19: European Court of Human Rights rules against Hungary
 
 
-![](assets/28754c333d13/0*8ag4EM6jclEmiRDX.jpeg)
+![](../assets/28754c333d13/0*8ag4EM6jclEmiRDX.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----96677fa6f9fe----------------------)
@@ -23,11 +23,11 @@ image:
 Bodies washed to the shore of Libya proof of another tragedy in the Mediterranean/// Belgium is failing in providing accommodation for asylum seekers/// Hunger strike in CRA Mesnil Amelot
 
 
-![](assets/28754c333d13/0*SyHrFbdTVqtUhXmy)
+![](../assets/28754c333d13/0*SyHrFbdTVqtUhXmy)
 
 
 
-![](assets/28754c333d13/0*94Ug36_uMrbWGash.jpeg)
+![](../assets/28754c333d13/0*94Ug36_uMrbWGash.jpeg)
 
 
 Copy Right: Alarm Phone

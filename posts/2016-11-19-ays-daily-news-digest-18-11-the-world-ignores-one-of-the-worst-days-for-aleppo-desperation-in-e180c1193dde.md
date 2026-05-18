@@ -1,20 +1,20 @@
 ---
-title: AYS Daily News Digest 18/11: The world ignores one of Aleppo’s worst days; desperation in Greek…
+title: "AYS Daily News Digest 18/11: The world ignores one of Aleppo’s worst days; desperation in Greek…"
 author: Are You Syrious?
 date: 2016-11-19T03:32:41.753+0000
 last_modified_at: 2016-11-19T11:50:21.684+0000
 categories: 
 tags: [refugees,europe,syria,greece,france]
-description: One of the most agonizing days for Aleppo: hospitals in East Aleppo close after the recent airstrikes; the city about to run out of food…
+description: "One of the most agonizing days for Aleppo: hospitals in East Aleppo close after the recent airstrikes; the city about to run out of food…"
 image:
-  path: assets/e180c1193dde/1*lHRByUME9AB-BBkZHr3sPA.jpeg
+  path: ../assets/e180c1193dde/1*lHRByUME9AB-BBkZHr3sPA.jpeg
 ---
 
 ### AYS Daily News Digest 18/11: The world ignores one of Aleppo’s worst days; desperation in Greek camps
 #### One of the most agonizing days for Aleppo: hospitals in East Aleppo close after the recent airstrikes; the city about to run out of food supplies soon / The aftermath of the fascist attacks on Chios; Already appalling conditions in camps across Greece worsening with winter / Smugglers cause more deaths in the Mediterranean
 
 
-![](assets/e180c1193dde/1*lHRByUME9AB-BBkZHr3sPA.jpeg)
+![](../assets/e180c1193dde/1*lHRByUME9AB-BBkZHr3sPA.jpeg)
 
 ### Syria
 #### ALEPPO
@@ -22,14 +22,14 @@ image:
 The Civil defense branch of the ancient city of Aleppo has reportedly been bombed with four barrel bombs, two missiles and twenty artillery shells today during ongoing air raids and shelling carried out by the regime forces and Russian Air Force, witnesses and activists report\.
 
 
-![Photo: [@SyriaCivilDef](https://twitter.com/SyriaCivilDef)](assets/e180c1193dde/1*w8_2mudwJx1tMPqgYc1jWg.jpeg)
+![Photo: [@SyriaCivilDef](https://twitter.com/SyriaCivilDef)](../assets/e180c1193dde/1*w8_2mudwJx1tMPqgYc1jWg.jpeg)
 
 Photo: [@SyriaCivilDef](https://twitter.com/SyriaCivilDef)
 
 According to [Al Jazeera](http://www.aljazeera.com/news/2016/11/battle-aleppo-syria-army-intensifies-air-campaign-161118090027663.html) , on Sunday, the Syrian army sent a text message to residents of east Aleppo, demanding they leave areas held by opposition armed groups within 24 hours or risk their lives during a major offensive\. Civilians are now unable to leave their homes, after barrel bombs with chlorine gas containers were used in the attacks, sources report\. The [Guardian](https://www.theguardian.com/world/2016/nov/18/aleppos-childrens-hospital-bombed-as-it-treats-chlorine-gas-victims) reports that the only children’s hospital in besieged Aleppo is out of action after being bombed as it treated victims of a chlorine gas attack, forcing staff to evacuate babies in incubators and other patients injured over days of fierce bombardment\.
 
 
-![Health directorate in Aleppo announced that all hospitals in east Aleppo are out of service, as a result of shelling and airstrikes\.](assets/e180c1193dde/1*4pZAYNnqEOoP6VJoXR-xlQ.jpeg)
+![Health directorate in Aleppo announced that all hospitals in east Aleppo are out of service, as a result of shelling and airstrikes\.](../assets/e180c1193dde/1*4pZAYNnqEOoP6VJoXR-xlQ.jpeg)
 
 Health directorate in Aleppo announced that all hospitals in east Aleppo are out of service, as a result of shelling and airstrikes\.
 
@@ -64,11 +64,11 @@ Turkish Coast Guard rescued four people off the Aydin coast\. Six people have di
 [Members and supporters of the Golden Dawn have attacked Souda camp](https://medium.com/@AreYouSyrious/ays-daily-digest-17-11-second-night-of-fascist-attacks-on-souda-camp-9a50d5721bce#.ackdv3ptv) on Chios, after refugees repeatedly voiced concerns to authorities about the lack of security there\. The attacks have left residents and volunteers afraid, beaten and more than 50 people detained by the police\. A Syrian refugee was seriously hurt and others left without shelter as assailants wielding rocks and firebombs targeted refugees’ provisional homes, destroying many dwellings\.
 
 
-![](assets/e180c1193dde/1*gfUmd-kOMvpUYGdLd1gRHg.jpeg)
+![](../assets/e180c1193dde/1*gfUmd-kOMvpUYGdLd1gRHg.jpeg)
 
 
 
-![Molotov cocktails were also thrown from these positions above the Souda camp to the tents of the residents sleeping in tents \(Photo on the right by: [Humansnation](https://www.facebook.com/humansnation/) \)](assets/e180c1193dde/1*k-mNYyBHo19MI-jEkmr5PQ.jpeg)
+![Molotov cocktails were also thrown from these positions above the Souda camp to the tents of the residents sleeping in tents \(Photo on the right by: [Humansnation](https://www.facebook.com/humansnation/) \)](../assets/e180c1193dde/1*k-mNYyBHo19MI-jEkmr5PQ.jpeg)
 
 Molotov cocktails were also thrown from these positions above the Souda camp to the tents of the residents sleeping in tents \(Photo on the right by: [Humansnation](https://www.facebook.com/humansnation/) \)
 #### European phenomena: Governments telling people how \(not\) to love their fellow human beings
@@ -76,11 +76,11 @@ Molotov cocktails were also thrown from these positions above the Souda camp to 
 According to many sources from the ground, in the midst of the violence at Chios camp, the police seem to have become violent with refugees, rather than stopping the perpetrators of the Golden Dawn attack\. The security of the men, women and children living in this island camp has further been threatened by the worsening weather conditions, as heavy rains and high winds have destroyed many canvas tents\. After [reportedly](http://www.huffingtonpost.ca/genevieve-zingg/refugee-camp-golden-dawn_b_13053790.html?ncid=engmodushpmg00000003) not protecting the refugees from attacks by hostile locals, the Greece police have also officially “advised” volunteers to stay away, forbidding them to help people in need\. Officials have [told AFP](http://www.worldbulletin.net/haberler/180401/syrian-hurt-in-attack-at-greek-island-refugee-camp?utm_source=dlvr.it&utm_medium=twitter) they cannot exclude that far\-right groups are seeking to exploit local anger\.
 
 
-![](assets/e180c1193dde/1*4ikPSa5ZtVn5dT_jUEcXSQ.jpeg)
+![](../assets/e180c1193dde/1*4ikPSa5ZtVn5dT_jUEcXSQ.jpeg)
 
 
 
-![Today, this is what the refuge provided to people who fled violence in their own countries looks like in Camp Souda, Chios\. \(Photo: Theurgia\_Goetia — Twitter\)](assets/e180c1193dde/1*vTgGUIAMXZd8BLe0GXiYaw.jpeg)
+![Today, this is what the refuge provided to people who fled violence in their own countries looks like in Camp Souda, Chios\. \(Photo: Theurgia\_Goetia — Twitter\)](../assets/e180c1193dde/1*vTgGUIAMXZd8BLe0GXiYaw.jpeg)
 
 Today, this is what the refuge provided to people who fled violence in their own countries looks like in Camp Souda, Chios\. \(Photo: Theurgia\_Goetia — Twitter\)
 
@@ -99,7 +99,7 @@ Fearing a third attack on Friday night, about 100 former occupants refused to re
 Residents of the Mazarakis camp in Cherso, northern Greece, are reporting worsening of their already poor living situation\. This camp currently hosts 1077 people who have been waiting for more than half a year to get a chance of relocation to another European country, to sleep in a bed for the first time after a year and to finally try to continue their lives in a safe place\. After talks of building new infrastructure in the camp that took place in June this year \(a hygiene kiosk, communal kitchens, more proper toilets and showers and a pipeline around the camp to ensure enough hot water, etc\. \), it seems the idea to build new showers will soon be put into practice, some refugees say\. Apart from that, some thermal plates have been set up in tents, but it is not enough to provide people with warm place to stay during the day, even less to sleep on such ground during the nights\. This is why some residents of Cherso have stolen all the wooden benches from the Cultural centre’s tent, seeking to turn them into much\-needed firewood\.
 
 
-![Tent used for the Cultural Centre activities largely ruined \(Photo: S\. B\. \)](assets/e180c1193dde/1*Uo704auHnDs3rHZM7gC1Eg.jpeg)
+![Tent used for the Cultural Centre activities largely ruined \(Photo: S\. B\. \)](../assets/e180c1193dde/1*Uo704auHnDs3rHZM7gC1Eg.jpeg)
 
 Tent used for the Cultural Centre activities largely ruined \(Photo: S\. B\. \)
 
@@ -108,11 +108,11 @@ This sort of atmosphere is creating a poor learning environment for the children
 The [OCC](https://www.facebook.com/OpenCulturalCenter/?hc_ref=PAGES_TIMELINE) volunteers who have been organizing informal school classes for the children for the past several months are the only ones organizing educational activities in the camp\. They have also spearheaded online charity [actions](https://www.facebook.com/OpenCulturalCenter/?hc_ref=PAGES_TIMELINE) to buy shoes for the children chere\.
 
 
-![](assets/e180c1193dde/1*Uo0X7q3BrcakETzvEjh9Vw.jpeg)
+![](../assets/e180c1193dde/1*Uo0X7q3BrcakETzvEjh9Vw.jpeg)
 
 
 
-![the only light inside the school is the daylight\. Children have been doing self\-organized activities in their spare time \(Photos: S\.B\. \)](assets/e180c1193dde/1*ZxXf9__0P4zz9GCz-occVA.jpeg)
+![the only light inside the school is the daylight\. Children have been doing self\-organized activities in their spare time \(Photos: S\.B\. \)](../assets/e180c1193dde/1*ZxXf9__0P4zz9GCz-occVA.jpeg)
 
 the only light inside the school is the daylight\. Children have been doing self\-organized activities in their spare time \(Photos: S\.B\. \)
 #### A member of the EP stresses out the importance of protecting the women in camps
@@ -134,7 +134,7 @@ They also mention the concern about forced returns to Turkey, not just from the 
 ### Serbia
 
 
-![“Today’s pre\-party before the launch of our new day centre tomorrow\. Hot tea, free wifi and a safe space for families\. Basic human comforts\.” \(Photo: [Fresh Response](https://www.facebook.com/freshresponseserbia/) \)](assets/e180c1193dde/1*eE1cHNY-YHGF7USLoNZavw.jpeg)
+![“Today’s pre\-party before the launch of our new day centre tomorrow\. Hot tea, free wifi and a safe space for families\. Basic human comforts\.” \(Photo: [Fresh Response](https://www.facebook.com/freshresponseserbia/) \)](../assets/e180c1193dde/1*eE1cHNY-YHGF7USLoNZavw.jpeg)
 
 “Today’s pre\-party before the launch of our new day centre tomorrow\. Hot tea, free wifi and a safe space for families\. Basic human comforts\.” \(Photo: [Fresh Response](https://www.facebook.com/freshresponseserbia/) \)
 ### Italy
@@ -143,7 +143,7 @@ They also mention the concern about forced returns to Turkey, not just from the 
 A group of twenty\-seven survivors, all men, were plucked to safety on Wednesday, but roughly 100 other passengers who set off with them from Libya were missing and feared drowned, MSF said\. The survivors described being robbed of life jackets and boat engines and abandoned to drown\. The survivors rescued on Wednesday by a British Navy ship described being stripped of their sole means of survival by the men they had paid for safe passage, [La Repubblica](http://palermo.repubblica.it/cronaca/2016/11/18/news/naufragio_nel_canale_di_sicilia_parla_il_superstite_costretti_a_consegnare_i_giubbotti_di_salvataggio_-152250089/) reports\.
 
 
-![By: MSF Sea](assets/e180c1193dde/1*TDO1ei2dKq6-oP8yX3-Vjg.jpeg)
+![By: MSF Sea](../assets/e180c1193dde/1*TDO1ei2dKq6-oP8yX3-Vjg.jpeg)
 
 By: MSF Sea
 
@@ -158,7 +158,7 @@ By: MSF Sea
 
 
 
-![Photo: [MEDU — Medici per i Diritti Umani](https://www.facebook.com/MEDUonlus/)](assets/e180c1193dde/1*lJ-Wq8KVmfNXkPOb34UCIA.jpeg)
+![Photo: [MEDU — Medici per i Diritti Umani](https://www.facebook.com/MEDUonlus/)](../assets/e180c1193dde/1*lJ-Wq8KVmfNXkPOb34UCIA.jpeg)
 
 Photo: [MEDU — Medici per i Diritti Umani](https://www.facebook.com/MEDUonlus/)
 ### France
@@ -189,7 +189,7 @@ The Care4Calais team has once again packed their vans with sleeping bags, roll m
 
 
 
-![Photo: PRSG](assets/e180c1193dde/1*kZDGVw17U5I8HnV8Tu0-bQ.jpeg)
+![Photo: PRSG](../assets/e180c1193dde/1*kZDGVw17U5I8HnV8Tu0-bQ.jpeg)
 
 Photo: PRSG
 ### United Kingdom

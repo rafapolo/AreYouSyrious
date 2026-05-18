@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 30–31/10/21: Nothing to eat or drink.
+title: "AYS Weekend Digest 30–31/10/21: Nothing to eat or drink."
 author: Are You Syrious?
 date: 2021-11-01T20:03:45.484+0000
 last_modified_at: 2021-11-01T20:54:08.299+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,europe,belarus,refugees,migration]
 description: Almost 400 people managed to arrive to the Aegean islands // Calls for support from the north of France // News from the sea search and…
 image:
-  path: assets/cd92809f57e7/0*4DEwK2RNSTyk33n9
+  path: ../assets/cd92809f57e7/0*4DEwK2RNSTyk33n9
 ---
 
 ### AYS Weekend Digest 30–31/10/21: Nothing to eat or drink\. One country won’t let them in, the other won’t let them stay, and they cannot go back\.
 #### Almost 400 people managed to arrive to the Aegean islands // Calls for support from the north of France // News from the sea search and rescue teams // Personal stories from the court decisions in Denmark // in\-depth reports in proposed texts for further reading and more news
 
 
-![Cartoon by Mahmoud Rifai](assets/cd92809f57e7/0*4DEwK2RNSTyk33n9)
+![Cartoon by Mahmoud Rifai](../assets/cd92809f57e7/0*4DEwK2RNSTyk33n9)
 
 Cartoon by Mahmoud Rifai
 #### FEATURE
@@ -149,13 +149,13 @@ For those who haven’t read and seen the BVMN work on this topic, make sure you
 ### Volunteers needed\!
 
 
-![[Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__cft__[0]=AZV4ioIY_bdPxfkEBoAvveXuYHDGI2epjFjeNBmoLIzwnIF7RkhfEOllA_tDh_xJkQt0f-jzFSS7eXdXcxoIZ_KQsjOAH-T-NuKF0kRbWFqgd9obUxVQlS788a-OKcuShtjWgzOBndDAZuvJb-FV-rNVQy9itvNEZdGej0hmkTayXu58DfZ-rnjZnpH9ebunpDLS2d4E6zwmwNDi1monkplo&__tn__=-UC%2CP-y-R)](assets/cd92809f57e7/0*_fVuJfEngrT2_n-A)
+![[Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__cft__[0]=AZV4ioIY_bdPxfkEBoAvveXuYHDGI2epjFjeNBmoLIzwnIF7RkhfEOllA_tDh_xJkQt0f-jzFSS7eXdXcxoIZ_KQsjOAH-T-NuKF0kRbWFqgd9obUxVQlS788a-OKcuShtjWgzOBndDAZuvJb-FV-rNVQy9itvNEZdGej0hmkTayXu58DfZ-rnjZnpH9ebunpDLS2d4E6zwmwNDi1monkplo&__tn__=-UC%2CP-y-R)](../assets/cd92809f57e7/0*_fVuJfEngrT2_n-A)
 
 [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__cft__[0]=AZV4ioIY_bdPxfkEBoAvveXuYHDGI2epjFjeNBmoLIzwnIF7RkhfEOllA_tDh_xJkQt0f-jzFSS7eXdXcxoIZ_KQsjOAH-T-NuKF0kRbWFqgd9obUxVQlS788a-OKcuShtjWgzOBndDAZuvJb-FV-rNVQy9itvNEZdGej0hmkTayXu58DfZ-rnjZnpH9ebunpDLS2d4E6zwmwNDi1monkplo&__tn__=-UC%2CP-y-R)
 ### Their fight is ours
 
 
-![Photo: [Utopia 56](https://www.facebook.com/asso.utopia56/?__cft__[0]=AZW0ajSdNZbOjtgKlfX0h-3cVyg82eX5nuMQwtPYPnej1T-sYhm96u6AAMuv4qz1UOC6BZCAQH2wEbynXUjmJVmZ-r-KUfpquI5zIcF5r8wdF0-dezu-ARp_OsKbS8O__KdfM8M4f3RfNj94pImOXRn_&__tn__=-UC%2CP-R)](assets/cd92809f57e7/0*mf_kghguBOPsTtOz)
+![Photo: [Utopia 56](https://www.facebook.com/asso.utopia56/?__cft__[0]=AZW0ajSdNZbOjtgKlfX0h-3cVyg82eX5nuMQwtPYPnej1T-sYhm96u6AAMuv4qz1UOC6BZCAQH2wEbynXUjmJVmZ-r-KUfpquI5zIcF5r8wdF0-dezu-ARp_OsKbS8O__KdfM8M4f3RfNj94pImOXRn_&__tn__=-UC%2CP-R)](../assets/cd92809f57e7/0*mf_kghguBOPsTtOz)
 
 Photo: [Utopia 56](https://www.facebook.com/asso.utopia56/?__cft__[0]=AZW0ajSdNZbOjtgKlfX0h-3cVyg82eX5nuMQwtPYPnej1T-sYhm96u6AAMuv4qz1UOC6BZCAQH2wEbynXUjmJVmZ-r-KUfpquI5zIcF5r8wdF0-dezu-ARp_OsKbS8O__KdfM8M4f3RfNj94pImOXRn_&__tn__=-UC%2CP-R)
 
@@ -224,7 +224,7 @@ The Danish Refugee Appeals Board now met to consider the implications of the cas
 
 
 
-![](assets/cd92809f57e7/0*rFZuWOqqks7S0QUw)
+![](../assets/cd92809f57e7/0*rFZuWOqqks7S0QUw)
 
 
 

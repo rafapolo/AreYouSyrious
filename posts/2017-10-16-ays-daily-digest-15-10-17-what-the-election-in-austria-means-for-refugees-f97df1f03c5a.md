@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 15/10/17: What the election in Austria means for refugees
+title: "AYS Daily Digest 15/10/17: What the election in Austria means for refugees"
 author: Are You Syrious?
 date: 2017-10-16T01:28:35.785+0100
 last_modified_at: 2017-10-16T11:47:57.049+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,austria,sebastian-kurz,greece,italy]
 description: Who is ÖVP head Sebastian Kurz? / Stories from returnees in Kabul / Breakdown of new arrivals in Greece / Hope project launches new project…
 image:
-  path: assets/f97df1f03c5a/1*ZK0zhhZrlzdJYDYOLfcHEQ.jpeg
+  path: ../assets/f97df1f03c5a/1*ZK0zhhZrlzdJYDYOLfcHEQ.jpeg
 ---
 
 ### AYS Daily Digest 15/10/17: What the election in Austria means for refugees
@@ -15,7 +15,7 @@ image:
 _Who is ÖVP head Sebastian Kurz? / Stories from returnees in Kabul / Breakdown of new arrivals in Greece / Hope project launches new project / New arrivals in Italy_
 
 
-![In 2015 and 2016 many people entered Austria through the border crossing at Spielfeld\.](assets/f97df1f03c5a/1*ZK0zhhZrlzdJYDYOLfcHEQ.jpeg)
+![In 2015 and 2016 many people entered Austria through the border crossing at Spielfeld\.](../assets/f97df1f03c5a/1*ZK0zhhZrlzdJYDYOLfcHEQ.jpeg)
 
 In 2015 and 2016 many people entered Austria through the border crossing at Spielfeld\.
 ### Feature: What the election in Austria means for refugees
@@ -38,7 +38,7 @@ Under Kurz’ direction Austria in 2016 [introduced](http://orf.at/stories/23266
 As the strongest party in the parliament, Kurz and the ÖVP will have more power to pass new laws\. Just this month the ban on facial veils came into force\. Refugees, migration and integration have been key topics in the election campaigns\. A coalition with the right wing populists of FPÖ is possible, what could lead to even stricter laws\.
 
 
-![Head of the ÖVP and Austrian foreign minister: Sebastian Kurz\. Credits: [Flickr](https://www.flickr.com/photos/minoritenplatz8/32619100681/in/photolist-RGrqcB-VjeJ8y-T8ZC9o-mz3UCr-phmy9g-q2btCx-mz5aGJ-nxyjds-UdmdAe-qEbfKQ-o7XRzq-WySs2m-oa1eRH-v4evMq-f5b3MK-Yhh6wA-mKxFup-mKxyXD-XDzyfB-o9SxBY-qu1dWP-px6oFw-odhtwr-VHCJGX-oLmdRA-px4ksP-nxPeJR-pgsNxB-oLpcYr-pPfTPP-q6pgQx-naFYr4-mz39pt-qWL3K1-mz3nUz-qZ4eZi-pqoBWc-mz3N5r-mz3xZc-pHh5a3-pxQLga-pqLq9x-it8oE3-nosmAd-nhfzm2-j1gb84-nhhQ5q-pPfT76-oSFYAe-jgZu31/) /Bundesministerium für Europa, Integration und Äußeres \(CC BY 2\.0\)](assets/f97df1f03c5a/1*PJklVGUdn7knxOZbtRXv-A.jpeg)
+![Head of the ÖVP and Austrian foreign minister: Sebastian Kurz\. Credits: [Flickr](https://www.flickr.com/photos/minoritenplatz8/32619100681/in/photolist-RGrqcB-VjeJ8y-T8ZC9o-mz3UCr-phmy9g-q2btCx-mz5aGJ-nxyjds-UdmdAe-qEbfKQ-o7XRzq-WySs2m-oa1eRH-v4evMq-f5b3MK-Yhh6wA-mKxFup-mKxyXD-XDzyfB-o9SxBY-qu1dWP-px6oFw-odhtwr-VHCJGX-oLmdRA-px4ksP-nxPeJR-pgsNxB-oLpcYr-pPfTPP-q6pgQx-naFYr4-mz39pt-qWL3K1-mz3nUz-qZ4eZi-pqoBWc-mz3N5r-mz3xZc-pHh5a3-pxQLga-pqLq9x-it8oE3-nosmAd-nhfzm2-j1gb84-nhhQ5q-pPfT76-oSFYAe-jgZu31/) /Bundesministerium für Europa, Integration und Äußeres \(CC BY 2\.0\)](../assets/f97df1f03c5a/1*PJklVGUdn7knxOZbtRXv-A.jpeg)
 
 Head of the ÖVP and Austrian foreign minister: Sebastian Kurz\. Credits: [Flickr](https://www.flickr.com/photos/minoritenplatz8/32619100681/in/photolist-RGrqcB-VjeJ8y-T8ZC9o-mz3UCr-phmy9g-q2btCx-mz5aGJ-nxyjds-UdmdAe-qEbfKQ-o7XRzq-WySs2m-oa1eRH-v4evMq-f5b3MK-Yhh6wA-mKxFup-mKxyXD-XDzyfB-o9SxBY-qu1dWP-px6oFw-odhtwr-VHCJGX-oLmdRA-px4ksP-nxPeJR-pgsNxB-oLpcYr-pPfTPP-q6pgQx-naFYr4-mz39pt-qWL3K1-mz3nUz-qZ4eZi-pqoBWc-mz3N5r-mz3xZc-pHh5a3-pxQLga-pqLq9x-it8oE3-nosmAd-nhfzm2-j1gb84-nhhQ5q-pPfT76-oSFYAe-jgZu31/) /Bundesministerium für Europa, Integration und Äußeres \(CC BY 2\.0\)
 
@@ -83,7 +83,7 @@ According to collected data of volunteer Tommy Olsen, 51 boats have arrived on t
 
 
 
-![The overcrowded Moria hotspot\. Credits: [RSA](https://twitter.com/rspaegean/status/918463563030810625)](assets/f97df1f03c5a/1*SOI52mdxh9bfOALrEcymxA.jpeg)
+![The overcrowded Moria hotspot\. Credits: [RSA](https://twitter.com/rspaegean/status/918463563030810625)](../assets/f97df1f03c5a/1*SOI52mdxh9bfOALrEcymxA.jpeg)
 
 The overcrowded Moria hotspot\. Credits: [RSA](https://twitter.com/rspaegean/status/918463563030810625)
 
@@ -98,7 +98,7 @@ The Hope Project is setting up a medical house for both residents and guests on 
 On the mainland volunteers of City Plaza visited the residents of Lavrio camp, which faces an eviction\. The volunteers delivered some donations and showed solidarity\.
 
 
-![The Lavrio refugee center\. Credits: [Refugee Accommodation and Solidarity Space City Plaza](https://www.facebook.com/sol2refugeesen/)](assets/f97df1f03c5a/1*bBx4iPBuxw1lopZDNU5n6Q.jpeg)
+![The Lavrio refugee center\. Credits: [Refugee Accommodation and Solidarity Space City Plaza](https://www.facebook.com/sol2refugeesen/)](../assets/f97df1f03c5a/1*bBx4iPBuxw1lopZDNU5n6Q.jpeg)
 
 The Lavrio refugee center\. Credits: [Refugee Accommodation and Solidarity Space City Plaza](https://www.facebook.com/sol2refugeesen/)
 ### Italy

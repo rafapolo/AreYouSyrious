@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: When governments turn against volunteers — the case of AYS
+title: "AYS SPECIAL: When governments turn against volunteers — the case of AYS"
 author: Are You Syrious?
 date: 2018-12-31T08:43:36.889+0000
 last_modified_at: 2018-12-31T19:15:17.799+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [croatia,solidarity,refugees,activism,migratons]
 description: During 2018, we’ve witnessed unprecedented backlash against human rights defenders who’ve been advocating legal access to asylum system in…
 image:
-  path: assets/5635bf786fa3/1*YGUf1Hr_YM1JBSz4qIWumw.png
+  path: ../assets/5635bf786fa3/1*YGUf1Hr_YM1JBSz4qIWumw.png
 ---
 
 ### AYS SPECIAL: When governments turn against volunteers — the case of AYS
 #### During 2018, we’ve witnessed unprecedented backlash against human rights defenders who’ve been advocating legal access to asylum system in the EU\. Volunteers and NGOs have been threatened, attacked and legally persecuted for crimes they didn’t commit\. AYS is one of them\. For the first time we’re publicly disclosing our own case to paint the full picture of the events on Europe’s largest terrestrial border\.
 
 
-![Volunteers removing anti\-refugee graffiti from our building in Zagreb, Croatia\. Photo: AYS](assets/5635bf786fa3/1*YGUf1Hr_YM1JBSz4qIWumw.png)
+![Volunteers removing anti\-refugee graffiti from our building in Zagreb, Croatia\. Photo: AYS](../assets/5635bf786fa3/1*YGUf1Hr_YM1JBSz4qIWumw.png)
 
 Volunteers removing anti\-refugee graffiti from our building in Zagreb, Croatia\. Photo: AYS
 
@@ -30,7 +30,7 @@ Looking back at the rapid change of European attitudes towards refugees and migr
 Last year brought some of the most shameful examples of backlash against volunteers and NGOs in modern history\. Sometimes, governmental pressure even lead to further endangerment of people’s lives\. Obstruction of the sea rescue missions in [Italy](ays-daily-digest-24-06-18-stranded-on-the-lifeline-50e63bf240de) , [Malta](ays-daily-digest-23-08-18-protesting-the-death-of-human-rights-in-malta-b24fbe05c5bc) and [Greece](https://medium.com/are-you-syrious/ays-daily-digest-28-08-18-30-volunteers-in-greece-accused-of-conspiring-in-human-trafficking-5c0f19998b03?fbclid=IwAR2_NwXYvfeiir3LZh89zf6n3WENnPIpFw9gUEfdHk076oWPtofR9pMsi28) has been covered extensively, both in our daily updates and in various mainstream media outlets\. But 2018 also brought a ray of hope: three Spanish firefighters and two volunteers from Denmark who rescued refugees off the coast of Greece in 2016 were cleared of wrongdoing on May, after two years of humiliating struggle to prove that rescue missions cannot be considered human trafficking\.
 
 
-![Firefighters and volunteers walk free after two years of humiliating struggle\. Photo: Proem Aid](assets/5635bf786fa3/1*4E2cNsKw8pNddpsfbpx7jw.jpeg)
+![Firefighters and volunteers walk free after two years of humiliating struggle\. Photo: Proem Aid](../assets/5635bf786fa3/1*4E2cNsKw8pNddpsfbpx7jw.jpeg)
 
 Firefighters and volunteers walk free after two years of humiliating struggle\. Photo: Proem Aid
 
@@ -53,7 +53,7 @@ AYS has been active in the Balkans since the summer of 2015, when we gathered as
 In the morning hours of November 22, 2017, we were contacted by our colleagues at the Serbian side of the border, who informed us about the death of little Madina, a 6 year old girl from Afghanistan who was illegally pushed back to Serbia along with her family\.
 
 
-![A 6\-year old girl who died minutes after the push\-back from Croatia\. Photo: family archive](assets/5635bf786fa3/1*Wl3m6LJ1GfmmwAr6MtMv5w.jpeg)
+![A 6\-year old girl who died minutes after the push\-back from Croatia\. Photo: family archive](../assets/5635bf786fa3/1*Wl3m6LJ1GfmmwAr6MtMv5w.jpeg)
 
 A 6\-year old girl who died minutes after the push\-back from Croatia\. Photo: family archive
 
@@ -62,7 +62,7 @@ Like so many times before, Croatian policemen forced the group to follow train t
 AYS was the first group to inform the public about the tragedy\. Faced with the criminal charges that was opened on behalf of Madina’s family with the help of AYS and Center for Peace Studies, the Ministry of the Interior responded brutally\. Instead of providing answers, they decided to attack NGOs that were raising questions about the criminal treatment of refugees at our borders\.
 
 
-![Representatives of CPS, AYS and their lawyer in front of the State’s Attorney Office of the Republic of Croatia after opening a criminal case for the manslaughter of little Madina\. Photo: AYS archive](assets/5635bf786fa3/1*RfBBX6Ye7fTFjM33upPUcQ.jpeg)
+![Representatives of CPS, AYS and their lawyer in front of the State’s Attorney Office of the Republic of Croatia after opening a criminal case for the manslaughter of little Madina\. Photo: AYS archive](../assets/5635bf786fa3/1*RfBBX6Ye7fTFjM33upPUcQ.jpeg)
 
 Representatives of CPS, AYS and their lawyer in front of the State’s Attorney Office of the Republic of Croatia after opening a criminal case for the manslaughter of little Madina\. Photo: AYS archive
 ### Volunteers portrayed as smugglers in Parliament
@@ -74,7 +74,7 @@ Of course, these accusations were completely false and we only could interpret t
 As regards the accusation that we have provided refugees with our contacts, which is anyhow publicly available, it points to a strange expectation from the side of Ministry that people should be left in complete ignorance about how they can exercise their human rights\. This is in contradiction with the idea of human right protection, since informing people about their rights represents the first step in the realisation of those rights\.
 
 
-![Minister of Interior accusing AYS of facilitating illegal border crossing in the Croatian Parliament became national news of the day, severely harming our reputation\. Photo: screenshot](assets/5635bf786fa3/1*PKUMt8X1ex1Vz4M7AbX2Mw.png)
+![Minister of Interior accusing AYS of facilitating illegal border crossing in the Croatian Parliament became national news of the day, severely harming our reputation\. Photo: screenshot](../assets/5635bf786fa3/1*PKUMt8X1ex1Vz4M7AbX2Mw.png)
 
 Minister of Interior accusing AYS of facilitating illegal border crossing in the Croatian Parliament became national news of the day, severely harming our reputation\. Photo: screenshot
 
@@ -94,7 +94,7 @@ So this is what really happened that night\.
 On 8th of March 2018, we were contacted by little Madina’s brother through our public Facebook profile\. He said they were in Croatian territory and they wanted to ask for asylum, but they were understandably afraid of the police\. They were in a group of 36 people, most of them children and minors\. Like many times before, we had to explain that the only legal way for them to stay in Croatia is to approach the first police officer in the field and to formally express their asylum request\. We immediately contacted the police ourselves, telling them about little Madina’s family presence in the country and their wish to ask for asylum\. Despite this, they ended up being threatened and pushed back in the same way that got their little sister killed only three months earlier\.
 
 
-![Madina’s family mourning at her grave in Šid, Serbia\. She was killed minutes after she was pushed back from Croatia together with her mother and five brothers and sisters\. Photo: Lazara Marinković](assets/5635bf786fa3/1*Iklzw2w8A2Qs6BGc9sqjXw.jpeg)
+![Madina’s family mourning at her grave in Šid, Serbia\. She was killed minutes after she was pushed back from Croatia together with her mother and five brothers and sisters\. Photo: Lazara Marinković](../assets/5635bf786fa3/1*Iklzw2w8A2Qs6BGc9sqjXw.jpeg)
 
 Madina’s family mourning at her grave in Šid, Serbia\. She was killed minutes after she was pushed back from Croatia together with her mother and five brothers and sisters\. Photo: Lazara Marinković
 
@@ -109,7 +109,7 @@ The next time they contacted us was in the night of 20th/21st of March 2018\. Th
 Crucial evidence in the aforementioned proceeding against our volunteer on the side of the Ministry were statements given by three officers of the border police who monitored the Croatian\-Serbian border at the time our volunteer came to the village and to whom he initially turned for support in reaching out to the family that already was on the Croatian territory\. Additional evidence against the volunteer was the statement taken from a minor member of the refugee family the night they entered Croatia, without the presence of a lawyer/legal guardian and in a language she does not speak\. This evidence was, of course, dismissed by the court\.
 
 
-![Persecuted for a crime he didn’t commit: AYS volunteer Dragan Umičević\. Photo: AYS archive](assets/5635bf786fa3/1*SPfcSiJ2D9wNVybn8CD-kQ.png)
+![Persecuted for a crime he didn’t commit: AYS volunteer Dragan Umičević\. Photo: AYS archive](../assets/5635bf786fa3/1*SPfcSiJ2D9wNVybn8CD-kQ.png)
 
 Persecuted for a crime he didn’t commit: AYS volunteer Dragan Umičević\. Photo: AYS archive
 
@@ -136,7 +136,7 @@ This is how the Ministry not only harmed the reputation of the AYS, but has sent
 Public defamation of our NGO has led to several anonymous attacks to our premises in Zagreb, Croatia\. Our van was smashed with concrete blocks, windows of our integration center were shattered, and insulting graffiti was sprayed all over our building and the van\. All of the above incidents were reported to the police, but no one was ever found guilty for the attacks\.
 
 
-![Our property is usually targeted during the night and perpetrators are never seen or found, despite heavy police presence in front of our offices\. Photo: AYS](assets/5635bf786fa3/1*UtCl9YmTgPTjyzm3hy7MrQ.jpeg)
+![Our property is usually targeted during the night and perpetrators are never seen or found, despite heavy police presence in front of our offices\. Photo: AYS](../assets/5635bf786fa3/1*UtCl9YmTgPTjyzm3hy7MrQ.jpeg)
 
 Our property is usually targeted during the night and perpetrators are never seen or found, despite heavy police presence in front of our offices\. Photo: AYS
 
@@ -151,7 +151,7 @@ Among many threats we’ve received, most disturbing was a direct death threat i
 Following these incidents, AYS employees were advised by the police to buy pepper spray and to always carry it with them\. One of them was also advised to always follow her child to and from the school\. Due to this, AYS shortened working hours and has introduced a rule that nobody stays alone in the office after dark\.
 
 
-![AYS offices smashed with bricks — again, no perpetrators have been identified\. Photo: AYS](assets/5635bf786fa3/1*UNAXUyXK86ilduuTSbUwUg.jpeg)
+![AYS offices smashed with bricks — again, no perpetrators have been identified\. Photo: AYS](../assets/5635bf786fa3/1*UNAXUyXK86ilduuTSbUwUg.jpeg)
 
 AYS offices smashed with bricks — again, no perpetrators have been identified\. Photo: AYS
 
@@ -181,7 +181,7 @@ Another volunteer who came to a police station in the Croatian capital to be pre
 Without having examined the refugee’s claims and considering his request for asylum, the inspectors repeatedly insinuated that there was some sort previous connection between the volunteer and the Pashtu\-speaking refugee, whom we had previously never heard from\. They openly stated: “This has criminal elements, beware, don’t move anywhere, we will question you again,” and repeated this three more times, aggressively and with no proper information on the geographical position of the place of origin \(thus the reason for the asylum request\) of the refugee, to whom the officer spoke in Croatian\.
 
 
-![The Minister of The Interior in front of the police station where our volunteer had been held for 8 hours\.](assets/5635bf786fa3/1*3vuvTlkg_9N0CEdiMVGM4Q.jpeg)
+![The Minister of The Interior in front of the police station where our volunteer had been held for 8 hours\.](../assets/5635bf786fa3/1*3vuvTlkg_9N0CEdiMVGM4Q.jpeg)
 
 The Minister of The Interior in front of the police station where our volunteer had been held for 8 hours\.
 
@@ -191,7 +191,7 @@ Later on, the volunteer was questioned also by other inspectors \(presumably bel
 In April this year, together with the Center for Peace Studies \(CPS\) and our lawyers, we announced a press conference in order to speak out about the pressure from the Ministry\. However, at the exact time when the press conference was scheduled, the Ministry invited our employees \(who were announced to speak at the conference\) in for questioning, in an obvious attempt to prevent them from speaking publicly\. They did so by appearing at their private address in the night, hours after the press conference was announced, causing concern and distress from their family\. The most absurd detail of it all: they were summoned to the police station to be questioned about little Madina’s case\! Finally, following the press conference, which went ahead regardless, the Minister of the Interior himself gave public statements presenting our work as a direct undermining of the Croatian goal to enter the Schengen system\. He also directly accused us of encouraging people who are currently in Serbia to illegally cross the Serbian\-Croatian border\.
 
 
-![The press conference was held despite the very clear attempt to stop it by any cost\. Photo: AYS archive](assets/5635bf786fa3/1*m8hFyrKKu1hzQEfDYM8dMw.jpeg)
+![The press conference was held despite the very clear attempt to stop it by any cost\. Photo: AYS archive](../assets/5635bf786fa3/1*m8hFyrKKu1hzQEfDYM8dMw.jpeg)
 
 The press conference was held despite the very clear attempt to stop it by any cost\. Photo: AYS archive
 ### A volunteer with disabilities humiliated and yelled at for monitoring access to asylum system
@@ -202,7 +202,7 @@ On several occasions in August this year, asylum seekers approached our voluntee
 Very soon after this, our NGO was unofficially warned that that we were to be expelled from the reception center, and our contract with the Ministry was said to be “lost”\. It was made very obvious that this threat was connected to our monitoring activities regarding the people who’ve tried to seek international protection in front of the reception center\. After we presented our copies of the valid contract with the Ministry, we were allowed to continue our integration activities in the center, but our partnering organization CPS, which provides free legal aid to refugees, was expelled from the center\. When journalists asked the Ministry to explain this decision, it once again misquoted the verdict against our volunteer, equating our work with criminal activity\.
 
 
-![Volunteers providing legal support have been kicked out from the camp\. Photo: CPS](assets/5635bf786fa3/1*pc5nO13EnnDD54g9Ft8U6Q.jpeg)
+![Volunteers providing legal support have been kicked out from the camp\. Photo: CPS](../assets/5635bf786fa3/1*pc5nO13EnnDD54g9Ft8U6Q.jpeg)
 
 Volunteers providing legal support have been kicked out from the camp\. Photo: CPS
 ### When female volunteers turn to police for help, they end up being threatened with rape

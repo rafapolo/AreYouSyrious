@@ -1,5 +1,5 @@
 ---
-title: AYS Digest 25/8: Back to School! and Solidarity in Italy
+title: "AYS Digest 25/8: Back to School! and Solidarity in Italy"
 author: Are You Syrious?
 date: 2016-08-26T05:44:27.742+0100
 last_modified_at: 2016-08-26T09:07:23.067+0100
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe,greece,dublin-deportations,austria]
 description: GREECE
 image:
-  path: assets/2861eb65dc5f/1*DCLhHyvsUFRsZxfpwexgDg.jpeg
+  path: ../assets/2861eb65dc5f/1*DCLhHyvsUFRsZxfpwexgDg.jpeg
 ---
 
 ### AYS Digest 25/8: Back to School\! and Solidarity in Italy
 
 
-![Photo courtesy of Baschi Seelhofer for BE AWARE AND SHARE](assets/2861eb65dc5f/1*DCLhHyvsUFRsZxfpwexgDg.jpeg)
+![Photo courtesy of Baschi Seelhofer for BE AWARE AND SHARE](../assets/2861eb65dc5f/1*DCLhHyvsUFRsZxfpwexgDg.jpeg)
 
 Photo courtesy of Baschi Seelhofer for BE AWARE AND SHARE
 ### GREECE
@@ -37,7 +37,7 @@ Refucomm has now released a video in Farsi for Farsi\-speakers in Greek looking 
 Check it out below\!
 
 
-[![Preparing for your asylum interview - Farsi speakers in Greece یونان: آمادگی برای مصاحبه پناهجویی](assets/2861eb65dc5f/831c_hqdefault.jpg "Preparing for your asylum interview - Farsi speakers in Greece یونان: آمادگی برای مصاحبه پناهجویی")](http://www.youtube.com/watch?v=XGQCqoeFeJs)
+[![Preparing for your asylum interview - Farsi speakers in Greece یونان: آمادگی برای مصاحبه پناهجویی](../assets/2861eb65dc5f/831c_hqdefault.jpg "Preparing for your asylum interview - Farsi speakers in Greece یونان: آمادگی برای مصاحبه پناهجویی")](http://www.youtube.com/watch?v=XGQCqoeFeJs)
 
 #### Strong words from Greek Government, barbs for Turkey
 
@@ -56,11 +56,11 @@ Meanwhile, the UN High Commissioner for Refugees Filippo Grandi, stated that the
 
 
 
-![](assets/2861eb65dc5f/1*xmL11BP7R7gPuXEMHRiKuQ.jpeg)
+![](../assets/2861eb65dc5f/1*xmL11BP7R7gPuXEMHRiKuQ.jpeg)
 
 
 
-![Classes at ECHO refugee library, Vasilika Camp\. Photo Courtesy of [ECHO Refugee Library](https://www.facebook.com/refugeelibrary/)](assets/2861eb65dc5f/1*nPXmmj0v9nQDzE-A6uFRYw.jpeg)
+![Classes at ECHO refugee library, Vasilika Camp\. Photo Courtesy of [ECHO Refugee Library](https://www.facebook.com/refugeelibrary/)](../assets/2861eb65dc5f/1*nPXmmj0v9nQDzE-A6uFRYw.jpeg)
 
 Classes at ECHO refugee library, Vasilika Camp\. Photo Courtesy of [ECHO Refugee Library](https://www.facebook.com/refugeelibrary/)
 #### Chios
@@ -70,7 +70,7 @@ The Be Aware and Share team on Chios reports great success of their youth projec
 
 ![“This sign was posted by the refugees at the camp
 They want to share the sadness, suffering, joy, love and smiles with the world, They want you to sense their feelings\. 
-They want to prove that we didn’t change and we are still strong\. T [hrough Refugee Eyes](https://www.facebook.com/throughrefugeeeyes/?fref=ts) \.](assets/2861eb65dc5f/1*U5LiSIriqVX-5dumiSoFSQ.jpeg)
+They want to prove that we didn’t change and we are still strong\. T [hrough Refugee Eyes](https://www.facebook.com/throughrefugeeeyes/?fref=ts) \.](../assets/2861eb65dc5f/1*U5LiSIriqVX-5dumiSoFSQ.jpeg)
 
 “This sign was posted by the refugees at the camp
 They want to share the sadness, suffering, joy, love and smiles with the world, They want you to sense their feelings\. 
@@ -84,7 +84,7 @@ They want to prove that we didn’t change and we are still strong\. T [hrough R
 
 
 
-![Photo courtesy of Baschi Seelhofer for BE AWARE AND SHARE](assets/2861eb65dc5f/1*pDF1mATsaGALl0_WUNLILg.jpeg)
+![Photo courtesy of Baschi Seelhofer for BE AWARE AND SHARE](../assets/2861eb65dc5f/1*pDF1mATsaGALl0_WUNLILg.jpeg)
 
 Photo courtesy of Baschi Seelhofer for BE AWARE AND SHARE
 
@@ -98,13 +98,13 @@ AYS volunteers report on the story of one family trapped in Greece\. A mother of
 Eiman, a 17 year old Afghan boy recorded a walk through a camp he now calls home and asks us is it a good place or a poor place to live in, being lost in everything he had heard so far\. This is what his young life has come down to\. “God knows what is my way — to die or to lead a difficult life”
 
 
-[![video 1472119041](assets/2861eb65dc5f/e77b_hqdefault.jpg "video 1472119041")](http://www.youtube.com/watch?v=ack7ujKjI3s)
+[![video 1472119041](../assets/2861eb65dc5f/e77b_hqdefault.jpg "video 1472119041")](http://www.youtube.com/watch?v=ack7ujKjI3s)
 
 
 These stories are just those of two; there are so many more waiting at any point in and around camps along the route\.
 
 
-![Photo courtesy of Aslam Obaid](assets/2861eb65dc5f/1*Kuq4wlEnfJAtYemrmz46nw.jpeg)
+![Photo courtesy of Aslam Obaid](../assets/2861eb65dc5f/1*Kuq4wlEnfJAtYemrmz46nw.jpeg)
 
 Photo courtesy of Aslam Obaid
 #### Meanwhile, volunteers are working around the clock to try and ensure a better food supply to people in camps\.
@@ -134,7 +134,7 @@ But help is on the way\!
 All those interested in getting involved should PM, [**Aslam Obaid**](https://www.facebook.com/aslam.obaid) \.
 
 
-![Photo courtesy of Aslam Obaid](assets/2861eb65dc5f/1*JahjvCZOxe3njs0UIRxX5g.jpeg)
+![Photo courtesy of Aslam Obaid](../assets/2861eb65dc5f/1*JahjvCZOxe3njs0UIRxX5g.jpeg)
 
 Photo courtesy of Aslam Obaid
 ### MEDITERRANEAN
@@ -149,7 +149,7 @@ Refugees from a centre in Sprar di Gioiosa Ionica \(in provinceReggio Calabria\)
 Aid efforts remain ongoing to the affected regions, and it is clear that with Italy becoming an ever\-hotter\-hotspot, that all levels of institutions will be strained\. But with more people\-to\-people actions like this, perhaps some of the burden will be alleviated\.
 
 
-![Inofita\. Photo courtesy of Michael\-John Von Hörsten](assets/2861eb65dc5f/1*PYSuqQUSQUfSegDLguf2uQ.jpeg)
+![Inofita\. Photo courtesy of Michael\-John Von Hörsten](../assets/2861eb65dc5f/1*PYSuqQUSQUfSegDLguf2uQ.jpeg)
 
 Inofita\. Photo courtesy of Michael\-John Von Hörsten
 #### Amidst these encouraging reports of solidarity come news of frustrating deportations to Sudan\.
@@ -196,7 +196,7 @@ It is encouraging that the German legal system is recognizing the dramatic failu
 German Ex\-lawyer Klaus Walliczek is collecting positive court decisions on Dublin for Hungary, Greece, Italy and Malta\. From 1\.1\.2015 until 2\.8\.16 he found 289 cases, where German courts [stopped deportations to Hungary](http://German Ex-lawyer Klaus Walliczek is collecting positive court decisions on Dublin for Hungary, Greece, Italy and Malta. From 1.1.2015 until 2.8.16 he found 289 cases, where German courts stopped deportations to Hungary.) \.
 
 
-![Inofita\. Photo courtesy of Michael\-John Von Hörsten](assets/2861eb65dc5f/1*fVssrzedkar5_-hUL4w85A.jpeg)
+![Inofita\. Photo courtesy of Michael\-John Von Hörsten](../assets/2861eb65dc5f/1*fVssrzedkar5_-hUL4w85A.jpeg)
 
 Inofita\. Photo courtesy of Michael\-John Von Hörsten
 ### UK
@@ -205,7 +205,7 @@ Inofita\. Photo courtesy of Michael\-John Von Hörsten
 Wonderful news from Citizens UK as, thanks in no small part to their efforts, The Home Office decided to reunite 14 children from Calais with their families in the UK\. It is hoped that this case will create a framework for more family reunifications from across Europe\.
 
 
-![Photo Courtesy of Citizens UK](assets/2861eb65dc5f/1*d4khV3HvOCYmFNhQlUj4Lw.png)
+![Photo Courtesy of Citizens UK](../assets/2861eb65dc5f/1*d4khV3HvOCYmFNhQlUj4Lw.png)
 
 Photo Courtesy of Citizens UK
 

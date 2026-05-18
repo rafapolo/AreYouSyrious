@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Refugees helping refugees
+title: "AYS SPECIAL: Refugees helping refugees"
 author: Are You Syrious?
 date: 2017-04-29T15:04:16.851+0100
 last_modified_at: 2018-03-01T14:11:46.877+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,jafra-team,athens,community-life,special]
 description: Almost one year ago, a group of young people from Syria formed Jafra R2R Team. R2R stands for Refugees helping Refugees. Their idea was to…
 image:
-  path: assets/512c07ec2671/1*1IMEzTKqQIZ_TcaHanORIA.jpeg
+  path: ../assets/512c07ec2671/1*1IMEzTKqQIZ_TcaHanORIA.jpeg
 ---
 
 ### AYS SPECIAL: Refugees helping refugees
@@ -15,7 +15,7 @@ image:
 _Almost one year ago, a group of young people from Syria formed Jafra R2R Team\. R2R stands for Refugees helping Refugees\. Their idea was to provide support from refugees for refugees, the idea that has huge support inside the community, but often lacks understanding from big INGOs and NGOs\. AYS visited the shelter which Jafra Team runs in Athens to hear some very important lessons about life, respect, being refugee…_
 
 
-![](assets/512c07ec2671/1*1IMEzTKqQIZ_TcaHanORIA.jpeg)
+![](../assets/512c07ec2671/1*1IMEzTKqQIZ_TcaHanORIA.jpeg)
 
 
 In February this year, a small house in Exarchia, Athens, was turned into the shelter for women run by refugees, mostly women, too\. House is placed in a very quite, small, narrow street, but close to squats and community centers in this area\. It is composed of a couple of small apartments, with kitchens and bathrooms, and the big yard that can be used as children playground\. When we visited [Jafra R2R Team in Greece](https://www.facebook.com/JafraGreeceR2R/) , which established and runs this shelter, couple of families were already living in, women and children without any man\.
@@ -36,7 +36,7 @@ _“We were there to welcome people, to show them around, we make the distributi
 _“Only refugees were involved\. Our goal was to include as many people as we can to work\. People often forget that refugees are skilled people\. Some are doctors, some engineers… anything\. But, if you do not let them do anything, they will forget these skills and feel depressed\. If they have nothing to do, and they live under all that stress, people will become nervous and it can lead to many things nobody wants, including violence,”_ Housam explains Jafra philosophy\. _“Our goal is to create something for the people to feel like they belong to something\.”_
 
 
-![Photo Jafra Team](assets/512c07ec2671/1*ODlZ2jYgCdEPHZlhz7c8bg.jpeg)
+![Photo Jafra Team](../assets/512c07ec2671/1*ODlZ2jYgCdEPHZlhz7c8bg.jpeg)
 
 Photo Jafra Team
 #### Connecting people
@@ -50,7 +50,7 @@ Unfortunately, on this journey, Jafra Team was often interrupted\. UNHCR and the
 After six months, the camp was emptied and people send all over Greece\. All people from Jafra team ended in Athens in squats and immediately started with their activities, trying to make the transition for all the people coming from camps to live in squats easier\.
 
 
-![Photo Jafra Team](assets/512c07ec2671/1*QyREHhw3wQqURNXT59vlDQ.jpeg)
+![Photo Jafra Team](../assets/512c07ec2671/1*QyREHhw3wQqURNXT59vlDQ.jpeg)
 
 Photo Jafra Team
 

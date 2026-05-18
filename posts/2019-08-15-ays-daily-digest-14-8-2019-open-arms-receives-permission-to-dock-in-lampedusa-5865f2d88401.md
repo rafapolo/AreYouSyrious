@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 14/8/2019: Open Arms receives permission to dock in Lampedusa
+title: "AYS Daily Digest 14/8/2019: Open Arms receives permission to dock in Lampedusa"
 author: Are You Syrious?
 date: 2019-08-15T10:07:22.736+0100
 last_modified_at: 2019-08-15T14:07:56.476+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,human-rights,mediterranean,european-union]
 description: Arrivals skyrocketing in Greece, with islands hosting more than 21.000 people// List of NGOs closed during holidays in Athens//…
 image:
-  path: assets/5865f2d88401/1*DIdnmynv5uAmOTsJr8LeNA.jpeg
+  path: ../assets/5865f2d88401/1*DIdnmynv5uAmOTsJr8LeNA.jpeg
 ---
 
 ### AYS Daily Digest 14/8/2019: Open Arms receives permission to dock in Lampedusa
 #### Arrivals skyrocketing in Greece, with islands hosting more than 21,000 people// List of NGOs closed during holidays in Athens// Information on the procedure for an appeal when asylum rejected in Greece// Desperate situation in Ključ, BH// 137 people in distress in the Mediterranean, unknown situation for those on board// Horrible news coming from UNHCR — Libya// More news from Germany, Denmark, UK…
 
 
-![Credit: Francisco Gentico for Proactiva Open Arms](assets/5865f2d88401/1*DIdnmynv5uAmOTsJr8LeNA.jpeg)
+![Credit: Francisco Gentico for Proactiva Open Arms](../assets/5865f2d88401/1*DIdnmynv5uAmOTsJr8LeNA.jpeg)
 
 Credit: Francisco Gentico for Proactiva Open Arms
 #### **FEATURED**

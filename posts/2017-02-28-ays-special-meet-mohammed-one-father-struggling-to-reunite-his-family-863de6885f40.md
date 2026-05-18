@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Meet Mohammed, one father struggling to reunite his family
+title: "AYS SPECIAL: Meet Mohammed, one father struggling to reunite his family"
 author: Are You Syrious?
 date: 2017-02-28T17:34:52.391+0000
 last_modified_at: 2018-03-01T14:16:42.834+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,syria,europe,special]
 description: In July last year, Mohammed Jameel and his 8-years old son had their last interview in Greece. They were told that they would be allowed to…
 image:
-  path: assets/863de6885f40/1*oLRl-5mTgkwhC7m5YZtm5A.jpeg
+  path: ../assets/863de6885f40/1*oLRl-5mTgkwhC7m5YZtm5A.jpeg
 ---
 
 ### AYS SPECIAL: Meet Mohammed, one father struggling to reunite his family
@@ -15,7 +15,7 @@ image:
 _In July last year, Mohammed Jameel and his 8\-years old son had their last interview in Greece\. They were told that they would be allowed to go to Germany and reunite with Jameel’s wife and daughter\. In November, they got final approval to go, but they are still in Greece, waiting for the day when they will be allowed to travel\._
 
 
-![“This is the hardest time of our journey,” says Mohammed, who is stuck in Greece with his son\. They have been trying to reach his wife and daughter for almost a year\. Photo ELPIDA\.](assets/863de6885f40/1*oLRl-5mTgkwhC7m5YZtm5A.jpeg)
+![“This is the hardest time of our journey,” says Mohammed, who is stuck in Greece with his son\. They have been trying to reach his wife and daughter for almost a year\. Photo ELPIDA\.](../assets/863de6885f40/1*oLRl-5mTgkwhC7m5YZtm5A.jpeg)
 
 “This is the hardest time of our journey,” says Mohammed, who is stuck in Greece with his son\. They have been trying to reach his wife and daughter for almost a year\. Photo ELPIDA\.
 
@@ -30,7 +30,7 @@ We left Bagdad in February last year\. The two of us came to Greece on the sea a
 When we got there, the border was still open\. We got the number 119 on our registration paper that I still have with me\. It is the number I will always remember\. However, it meant nothing\. Every day, we had to stay in the line and wait for another number that was written on a piece of paper by hand\. People used to change numbers on their papers, trying to cheat in different ways\. We were waiting our turn to cross the border\.
 
 
-![Immediately after the border closure, people still had hope that it will be open again soon\. Then, they started realizing that it will not happen\. \. \. Photo AYS](assets/863de6885f40/1*fzvYmS_Qbz9INogSXal42Q.jpeg)
+![Immediately after the border closure, people still had hope that it will be open again soon\. Then, they started realizing that it will not happen\. \. \. Photo AYS](../assets/863de6885f40/1*fzvYmS_Qbz9INogSXal42Q.jpeg)
 
 Immediately after the border closure, people still had hope that it will be open again soon\. Then, they started realizing that it will not happen\. \. \. Photo AYS
 
@@ -45,7 +45,7 @@ During that time, I lost 36 kg\. I still carry pictures of me before the journey
 When we left, my son had some kind of idea of what awaits us because his mother and sister left two months before, taking the same route\. We had to separate since I wanted to stay and earn more money to pay for the journey and to have some savings for our new life\. My wife took our daughter who is handicapped\. She could not take care of both of them alone\. We were supposed to follow them soon\. After the two of them left, I stayed alone with my son\. My family helped me to take care of him in Iraq since it was for the first time for me to be alone with him\. But when we left the country, it was only two of us\. I did not know what to do\. I had to take him everywhere I go\. During the journey, people do not have time to take care of other people’s children, and we were alone, all the time together\. It was especially hard in Idomeni\. Sometimes we had only three apples a day to eat\. When I had some money, I tried to buy a tin of tuna or similar things for my son, if it was available\. Food in Idomeni was very scarce\. Only a piece of bread and a thin layer of jelly, or cheese, sometimes small slices of turkey, which was a big thing if and when happened\.
 
 
-![They wanted to have family portrait, but closed borders and bureaucracy are preventing their reunion\. So far it is only two of them, Mohammed and Ahmed\. Photo ELPIDA\.](assets/863de6885f40/1*jD_4k9Y0jkpHmCi1HE32Fw.jpeg)
+![They wanted to have family portrait, but closed borders and bureaucracy are preventing their reunion\. So far it is only two of them, Mohammed and Ahmed\. Photo ELPIDA\.](../assets/863de6885f40/1*jD_4k9Y0jkpHmCi1HE32Fw.jpeg)
 
 They wanted to have family portrait, but closed borders and bureaucracy are preventing their reunion\. So far it is only two of them, Mohammed and Ahmed\. Photo ELPIDA\.
 
@@ -68,7 +68,7 @@ Now I am waiting every day to see my name on the list of those who are able to g
 Mohammed is trying to stay strong\. In order to stay active, he takes part in everyday life in Elpida and helping with food distribution\. He looks relaxed behind the counter\.
 
 
-![The moment when Mohammed feels relaxed\. “I have to do something while I am waiting\. We cannot just sit here and do nothing\. I am happy to help\.” Photo ELPIDA\.](assets/863de6885f40/1*uJRIKSC2AF_27HiIcOjN8g.jpeg)
+![The moment when Mohammed feels relaxed\. “I have to do something while I am waiting\. We cannot just sit here and do nothing\. I am happy to help\.” Photo ELPIDA\.](../assets/863de6885f40/1*uJRIKSC2AF_27HiIcOjN8g.jpeg)
 
 The moment when Mohammed feels relaxed\. “I have to do something while I am waiting\. We cannot just sit here and do nothing\. I am happy to help\.” Photo ELPIDA\.
 

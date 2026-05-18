@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,greece,racism,italy]
 description: Alarm Phone accounts for 4 shipwrecks last week // devastating insight into Petrou Ralli in Greece // COVID positive tests in Lampedusa //…
 image:
-  path: assets/641fee6ac52d/1*YEYJZoeOB3FhIDs3GcMKHA.jpeg
+  path: ../assets/641fee6ac52d/1*YEYJZoeOB3FhIDs3GcMKHA.jpeg
 ---
 
 ### AYS Daily Digest 24/08/20 Racist attack in Thessaloniki
@@ -15,7 +15,7 @@ image:
 _Alarm Phone accounts for 4 shipwrecks last week // devastating insight into Petrou Ralli in Greece // COVID positive tests in Lampedusa // and more…_
 
 
-![This picture is NOT of this current attack but shows the violence of Greece’s pushbacks in March of this year\. To protect the man’s safety and identity, we did not receive a picture of the current attack\. However, they are both fueled by the same racism, racism that the Greek state and local authorities are failing to address because it runs deep within them\. Racists attacks are on the rise in Northern Greece, where the violence in this picture, and in our reported attack, both occurred\. Photo by [HRW](https://www.hrw.org/news/2020/03/17/greece-violence-against-asylum-seekers-border)](assets/641fee6ac52d/1*YEYJZoeOB3FhIDs3GcMKHA.jpeg)
+![This picture is NOT of this current attack but shows the violence of Greece’s pushbacks in March of this year\. To protect the man’s safety and identity, we did not receive a picture of the current attack\. However, they are both fueled by the same racism, racism that the Greek state and local authorities are failing to address because it runs deep within them\. Racists attacks are on the rise in Northern Greece, where the violence in this picture, and in our reported attack, both occurred\. Photo by [HRW](https://www.hrw.org/news/2020/03/17/greece-violence-against-asylum-seekers-border)](../assets/641fee6ac52d/1*YEYJZoeOB3FhIDs3GcMKHA.jpeg)
 
 This picture is NOT of this current attack but shows the violence of Greece’s pushbacks in March of this year\. To protect the man’s safety and identity, we did not receive a picture of the current attack\. However, they are both fueled by the same racism, racism that the Greek state and local authorities are failing to address because it runs deep within them\. Racists attacks are on the rise in Northern Greece, where the violence in this picture, and in our reported attack, both occurred\. Photo by [HRW](https://www.hrw.org/news/2020/03/17/greece-violence-against-asylum-seekers-border)
 ### FEATURE: RACIST ATTACK AGAINST ONE MAN BY GROUP OF 16 IN THESSALONIKI
@@ -122,7 +122,7 @@ We all need to condemn this state\-enacted violence\. Greece is breaking interna
 #### GREECE
 
 
-![“Kids should be in safe, child\-friendly housing with the freedom to learn, play and thrive\. Yet, hundreds of migrant children in Greece without a parent or relative are sitting behind bars in police jails and immigration detention\. Their conditions create a heightened risk for contracting COVID\-19\. The Greek government has the ability to move these kids into child\-friendly housing where they can receive medical treatment, psychological counseling, education and legal aid\. Childhood happens only once in a lifetime — we need your help to make sure they get theirs\. **Take action today and ask Greece’s Prime Minister to \#FreeTheKids\. “** Photo by [HRW](https://www.hrw.org/FreeTheKids?fbclid=IwAR33QbJCqY7CwC3ZvMkBLb04X_TVqlT6fi8xampdpivcNUPBMswMiy1jSHw)](assets/641fee6ac52d/1*DKj_pI0Szoy_LDgkSDQImw.jpeg)
+![“Kids should be in safe, child\-friendly housing with the freedom to learn, play and thrive\. Yet, hundreds of migrant children in Greece without a parent or relative are sitting behind bars in police jails and immigration detention\. Their conditions create a heightened risk for contracting COVID\-19\. The Greek government has the ability to move these kids into child\-friendly housing where they can receive medical treatment, psychological counseling, education and legal aid\. Childhood happens only once in a lifetime — we need your help to make sure they get theirs\. **Take action today and ask Greece’s Prime Minister to \#FreeTheKids\. “** Photo by [HRW](https://www.hrw.org/FreeTheKids?fbclid=IwAR33QbJCqY7CwC3ZvMkBLb04X_TVqlT6fi8xampdpivcNUPBMswMiy1jSHw)](../assets/641fee6ac52d/1*DKj_pI0Szoy_LDgkSDQImw.jpeg)
 
 “Kids should be in safe, child\-friendly housing with the freedom to learn, play and thrive\. Yet, hundreds of migrant children in Greece without a parent or relative are sitting behind bars in police jails and immigration detention\. Their conditions create a heightened risk for contracting COVID\-19\. The Greek government has the ability to move these kids into child\-friendly housing where they can receive medical treatment, psychological counseling, education and legal aid\. Childhood happens only once in a lifetime — we need your help to make sure they get theirs\. **Take action today and ask Greece’s Prime Minister to \#FreeTheKids\. “** Photo by [HRW](https://www.hrw.org/FreeTheKids?fbclid=IwAR33QbJCqY7CwC3ZvMkBLb04X_TVqlT6fi8xampdpivcNUPBMswMiy1jSHw)
 
@@ -134,7 +134,7 @@ We all need to condemn this state\-enacted violence\. Greece is breaking interna
 
 
 ![“Tdh staff promoting a psychological intervention for low resource settings called Problem ManagementPlus \(PM\+ \) for adults impaired by distress in communities who are exposed to adversity\. 
-Right pointing backhand indexFlag of GreeceAt the Open Accommodation Facility for Refugees in Alexandria, Greece\.” More initiatives like this please\! Taking care of refugees’ mental health is of the utmost importance\. Photo by [Terre des hommes](https://twitter.com/tdh_greece/status/1297868136495173633)](assets/641fee6ac52d/1*jSmVtQqKV1p4bXeKHgjG_A.jpeg)
+Right pointing backhand indexFlag of GreeceAt the Open Accommodation Facility for Refugees in Alexandria, Greece\.” More initiatives like this please\! Taking care of refugees’ mental health is of the utmost importance\. Photo by [Terre des hommes](https://twitter.com/tdh_greece/status/1297868136495173633)](../assets/641fee6ac52d/1*jSmVtQqKV1p4bXeKHgjG_A.jpeg)
 
 “Tdh staff promoting a psychological intervention for low resource settings called Problem ManagementPlus \(PM\+ \) for adults impaired by distress in communities who are exposed to adversity\. 
 Right pointing backhand indexFlag of GreeceAt the Open Accommodation Facility for Refugees in Alexandria, Greece\.” More initiatives like this please\! Taking care of refugees’ mental health is of the utmost importance\. Photo by [Terre des hommes](https://twitter.com/tdh_greece/status/1297868136495173633)
@@ -181,7 +181,7 @@ On Monday the Refugee Law Clinic Berlin \(RLC Berlin\) launched its Access To Ju
 
 
 
-![This comes taken during an “alleged” pushback from Greece to Turkey\. Photo by [Aegean Boat Report](https://www.infomigrants.net/en/post/25683/greece-migrants-attacked-in-the-aegean)](assets/641fee6ac52d/1*HU6SVPRRSWhuu-iOg4VbEg.jpeg)
+![This comes taken during an “alleged” pushback from Greece to Turkey\. Photo by [Aegean Boat Report](https://www.infomigrants.net/en/post/25683/greece-migrants-attacked-in-the-aegean)](../assets/641fee6ac52d/1*HU6SVPRRSWhuu-iOg4VbEg.jpeg)
 
 This comes taken during an “alleged” pushback from Greece to Turkey\. Photo by [Aegean Boat Report](https://www.infomigrants.net/en/post/25683/greece-migrants-attacked-in-the-aegean)
 ### Two analyses on Germany knowing of pushbacks, but not acting against them, are worth your read

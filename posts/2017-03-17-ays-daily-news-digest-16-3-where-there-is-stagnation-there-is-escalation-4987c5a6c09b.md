@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY NEWS DIGEST 16/3: Where there is stagnation, there is escalation.
+title: "AYS DAILY NEWS DIGEST 16/3: Where there is stagnation, there is escalation."
 author: Are You Syrious?
 date: 2017-03-17T00:08:44.407+0000
 last_modified_at: 2017-03-17T15:26:13.064+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,italy,greece,iran]
 description: Stagnation and misery in Serbia. News on Iranian policy for refugees. Children resorting to self-harm and drug abuse in Greece as refugees…
 image:
-  path: assets/4987c5a6c09b/1*kUTigg6WE_wz26mdEakoCg.jpeg
+  path: ../assets/4987c5a6c09b/1*kUTigg6WE_wz26mdEakoCg.jpeg
 ---
 
 ### AYS DAILY NEWS DIGEST 16/3: Where there is stagnation, there is escalation\.
@@ -15,7 +15,7 @@ image:
 Stagnation and misery in Serbia\. News on Iranian policy for refugees\. Children resorting to self\-harm and drug abuse in Greece as refugees are penned behind bars\. A child of 13 years beaten by Hungarian police\. Another life lost to policy in Italy\. Practical ways to push back against toxic political policy\. 1\.2 million Asylum Applications in EU in 2016\. UK charity needs hosts urgently\!
 
 
-![Adasevci Camp, Photo Credit Angel Haba Coco](assets/4987c5a6c09b/1*kUTigg6WE_wz26mdEakoCg.jpeg)
+![Adasevci Camp, Photo Credit Angel Haba Coco](../assets/4987c5a6c09b/1*kUTigg6WE_wz26mdEakoCg.jpeg)
 
 Adasevci Camp, Photo Credit Angel Haba Coco
 ### FEATURE: Serbia, where stagnation escalates into despair\.
@@ -34,7 +34,7 @@ And this desperation is not limited to the barracks
 In ŠID there is about 1,000 people in Adasevci, 350 in Principovac and roughly 800 in Sid\. They are in tent halls and buildings\. There is nothing for them to do\. In 2015, Šid was on the main route toward Croatia\. Some people are still trying to use this crossing today\.
 
 
-![Adasevci camp, Photo Credit: Pomáháme lidem na útěku](assets/4987c5a6c09b/1*A0gZWQtS7z5XKbSitbpSWA.jpeg)
+![Adasevci camp, Photo Credit: Pomáháme lidem na útěku](../assets/4987c5a6c09b/1*A0gZWQtS7z5XKbSitbpSWA.jpeg)
 
 Adasevci camp, Photo Credit: Pomáháme lidem na útěku
 
@@ -114,7 +114,7 @@ In more disturbing news, [in a report for Reuters](http://mobile.reuters.com/art
 Additionally, the context for this rising despair can be easily seen in how refugees continue to be mistreated\. In the newly\-opened reception center on Chios, new arrivals are separated from the rest of the camp via a cage\-like fence, penning them in like cattle\.
 
 
-![Chios Photo Credit: [Βασίλης Παχουνδάκης](https://www.facebook.com/basiles.pachoundakes)](assets/4987c5a6c09b/1*RW22JLFouBRHkCxrbyCzPQ.jpeg)
+![Chios Photo Credit: [Βασίλης Παχουνδάκης](https://www.facebook.com/basiles.pachoundakes)](../assets/4987c5a6c09b/1*RW22JLFouBRHkCxrbyCzPQ.jpeg)
 
 Chios Photo Credit: [Βασίλης Παχουνδάκης](https://www.facebook.com/basiles.pachoundakes)
 
@@ -231,7 +231,7 @@ More tragic news from Italy as another young man was lost to suicide in the wake
 
 
 
-![Rest in Peace, Maslax\. Photo courtesy of Baobab Experience](assets/4987c5a6c09b/1*FkMrJSoDKAqLjWSie_PB5w.jpeg)
+![Rest in Peace, Maslax\. Photo courtesy of Baobab Experience](../assets/4987c5a6c09b/1*FkMrJSoDKAqLjWSie_PB5w.jpeg)
 
 Rest in Peace, Maslax\. Photo courtesy of Baobab Experience
 
@@ -258,7 +258,7 @@ And finally, a glimmer of hope, as the first family reunification case in Ventim
 ### GENERAL
 
 
-![Photo courtesy of AsyluminEurope\.org](assets/4987c5a6c09b/1*T0EqNYSlaW0YYQI-6vuDhw.png)
+![Photo courtesy of AsyluminEurope\.org](../assets/4987c5a6c09b/1*T0EqNYSlaW0YYQI-6vuDhw.png)
 
 Photo courtesy of AsyluminEurope\.org
 

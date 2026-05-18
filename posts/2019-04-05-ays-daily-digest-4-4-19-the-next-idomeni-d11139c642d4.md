@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 4/4/19: The next Idomeni?
+title: "AYS Daily Digest 4/4/19: The next Idomeni?"
 author: Are You Syrious?
 date: 2019-04-05T06:29:44.038+0100
 last_modified_at: 2019-04-05T15:32:50.094+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,idomeni,paris]
 description: A small Idomeni?
 image:
-  path: assets/d11139c642d4/1*6NPQqo_e9udu26feSdXOfQ.jpeg
+  path: ../assets/d11139c642d4/1*6NPQqo_e9udu26feSdXOfQ.jpeg
 ---
 
 ### AYS Daily Digest 4/4/19: The next Idomeni?
 #### New Makeshift Camp in Northern Greece / Malta: Teenagers Imprisoned in Adult Section / Death in Macedonia / Eviction in Paris
 
 
-![People are gathering next to Diavata camp\. Photo: [Our house](https://www.facebook.com/ourhousegr/photos/a.2128531914065310/2269438519974648/?type=3&theater)](assets/d11139c642d4/1*6NPQqo_e9udu26feSdXOfQ.jpeg)
+![People are gathering next to Diavata camp\. Photo: [Our house](https://www.facebook.com/ourhousegr/photos/a.2128531914065310/2269438519974648/?type=3&theater)](../assets/d11139c642d4/1*6NPQqo_e9udu26feSdXOfQ.jpeg)
 
 People are gathering next to Diavata camp\. Photo: [Our house](https://www.facebook.com/ourhousegr/photos/a.2128531914065310/2269438519974648/?type=3&theater)
 ### A small Idomeni?

@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 9/7/19: Frontex watches illegal pushback, report says
+title: "AYS News Digest 9/7/19: Frontex watches illegal pushback, report says"
 author: Are You Syrious?
 date: 2019-07-10T09:16:02.633+0100
 last_modified_at: 2019-07-10T09:16:02.633+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,digest,italy,mineo,greece]
 description: Video published off Lesvos documenting dangerous maneuvers of the Turkish Coast Guard in Greek waters / Mineo camp in Italy closed / 350…
 image:
-  path: assets/305ee7995e11/1*FdBk2Pb4BOboICFGwlWCzQ.png
+  path: ../assets/305ee7995e11/1*FdBk2Pb4BOboICFGwlWCzQ.png
 ---
 
 ### AYS News Digest 9/7/19: Frontex watches illegal pushback, report says
 #### Video published off Lesvos documenting dangerous maneuvers of the Turkish Coast Guard in Greek waters / Mineo camp in Italy closed / 350 detainees in Libya released, UNHCR promises to help / Field report from Calais and Dunkirk
 
 
-![Photo: Screenshot/Refugee Rescue](assets/305ee7995e11/1*FdBk2Pb4BOboICFGwlWCzQ.png)
+![Photo: Screenshot/Refugee Rescue](../assets/305ee7995e11/1*FdBk2Pb4BOboICFGwlWCzQ.png)
 
 Photo: Screenshot/Refugee Rescue
 ### Greece: Pushback witnessed off Lesvos

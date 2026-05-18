@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 25–26/7/2020: FRONTEX support push-backs at sea and at land borders
+title: "AYS Weekend Digest 25–26/7/2020: FRONTEX support push-backs at sea and at land borders"
 author: Are You Syrious?
 date: 2020-07-27T13:25:18.866+0100
 last_modified_at: 2020-07-27T21:50:02.280+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,mediterranean,lampedusa,moria]
 description: Shipwreck off Tunisian coast, 56 bodies recovered / Racism in Greece / Online Asylum App from GAS / Fire in Moria / Updates from…
 image:
-  path: assets/6cb36fc8613e/1*VY1P9jfG2Z4ksAwe8wBM_w.jpeg
+  path: ../assets/6cb36fc8613e/1*VY1P9jfG2Z4ksAwe8wBM_w.jpeg
 ---
 
 ### AYS Weekend Digest 25–26/7/2020: FRONTEX support push\-backs at sea and at land borders
@@ -16,7 +16,7 @@ Shipwreck off Tunisian coast, 56 bodies recovered // Racism in Greece // Online 
 
 
 ![[By Mikail Çiftçi via Art Against](https://www.facebook.com/artagainstproject/photos/a.704384742944296/3112345565481523) 
-[\#noborders](https://www.facebook.com/hashtag/noborders?__eep__=6&__tn__=*NK*F)](assets/6cb36fc8613e/1*TikOE5DKpJ4xDxnG6P5Fag.jpeg)
+[\#noborders](https://www.facebook.com/hashtag/noborders?__eep__=6&__tn__=*NK*F)](../assets/6cb36fc8613e/1*TikOE5DKpJ4xDxnG6P5Fag.jpeg)
 
 [By Mikail Çiftçi via Art Against](https://www.facebook.com/artagainstproject/photos/a.704384742944296/3112345565481523) 
 [\#noborders](https://www.facebook.com/hashtag/noborders?__eep__=6&__tn__=*NK*F)
@@ -267,7 +267,7 @@ Kesha Niya activists also face other problems:
 #### Self\-managed camp against borders
 
 
-![[http://www\.passamontagna\.info](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.passamontagna.info%2F%3Ffbclid%3DIwAR22xos-CDbhlmr1XrEa0P8QgBqe9BEBAnxLRxt8B2hoKBfzQAF6uUyc-GI&h=AT1G0C4cozjBLrWUrHey2lsh1Lj4qVCjdHPEM3uw0k4A6ciBPMHR0NxvJfXsm9TDMxLnE9jq1VOKubHWybRjM6PfndELNs-VOyYslLOd2PNfvJkS0wUCxYF8luRZRGVHfnR5cIw&__tn__=-UK-R&c[0]=AT0LmvUnRBQGUj2UsDsinC9GhNnSVXWtVwcsFF2VQMphNAZf1sNm8CPLkjJU-cCxMGbvV7SyxLFE5fAYAHm2ON4VhE_5VS5U9nJsdSm8rnXWHCf76jFTdl-iLJ823wSEOstPvDqrFVEqCNG9sBBrP8QI74mgFk9t4yJl5ntZGrzJUF7hviEDl0G_GB7Zew)](assets/6cb36fc8613e/1*VY1P9jfG2Z4ksAwe8wBM_w.jpeg)
+![[http://www\.passamontagna\.info](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.passamontagna.info%2F%3Ffbclid%3DIwAR22xos-CDbhlmr1XrEa0P8QgBqe9BEBAnxLRxt8B2hoKBfzQAF6uUyc-GI&h=AT1G0C4cozjBLrWUrHey2lsh1Lj4qVCjdHPEM3uw0k4A6ciBPMHR0NxvJfXsm9TDMxLnE9jq1VOKubHWybRjM6PfndELNs-VOyYslLOd2PNfvJkS0wUCxYF8luRZRGVHfnR5cIw&__tn__=-UK-R&c[0]=AT0LmvUnRBQGUj2UsDsinC9GhNnSVXWtVwcsFF2VQMphNAZf1sNm8CPLkjJU-cCxMGbvV7SyxLFE5fAYAHm2ON4VhE_5VS5U9nJsdSm8rnXWHCf76jFTdl-iLJ823wSEOstPvDqrFVEqCNG9sBBrP8QI74mgFk9t4yJl5ntZGrzJUF7hviEDl0G_GB7Zew)](../assets/6cb36fc8613e/1*VY1P9jfG2Z4ksAwe8wBM_w.jpeg)
 
 [http://www\.passamontagna\.info](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.passamontagna.info%2F%3Ffbclid%3DIwAR22xos-CDbhlmr1XrEa0P8QgBqe9BEBAnxLRxt8B2hoKBfzQAF6uUyc-GI&h=AT1G0C4cozjBLrWUrHey2lsh1Lj4qVCjdHPEM3uw0k4A6ciBPMHR0NxvJfXsm9TDMxLnE9jq1VOKubHWybRjM6PfndELNs-VOyYslLOd2PNfvJkS0wUCxYF8luRZRGVHfnR5cIw&__tn__=-UK-R&c[0]=AT0LmvUnRBQGUj2UsDsinC9GhNnSVXWtVwcsFF2VQMphNAZf1sNm8CPLkjJU-cCxMGbvV7SyxLFE5fAYAHm2ON4VhE_5VS5U9nJsdSm8rnXWHCf76jFTdl-iLJ823wSEOstPvDqrFVEqCNG9sBBrP8QI74mgFk9t4yJl5ntZGrzJUF7hviEDl0G_GB7Zew)
 

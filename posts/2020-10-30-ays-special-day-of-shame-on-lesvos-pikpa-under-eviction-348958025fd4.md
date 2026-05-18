@@ -1,19 +1,19 @@
 ---
-title: AYS SPECIAL: Day of shame on Lesvos — PIKPA under eviction
+title: "AYS SPECIAL: Day of shame on Lesvos — PIKPA under eviction"
 author: Are You Syrious?
 date: 2020-10-30T08:02:35.741+0000
 last_modified_at: 2020-10-30T14:34:34.217+0000
 categories: Are You Syrious?
 tags: [special,pikpa,greece,moria,refugees]
-description: Since 2015, PIKPA has provided housing to the most vulnerable: people who are disabled, sick or pregnant, unaccompanied children and the…
+description: "Since 2015, PIKPA has provided housing to the most vulnerable: people who are disabled, sick or pregnant, unaccompanied children and the…"
 image:
-  path: assets/348958025fd4/1*KkIaH-DdH7VsM5sMki_mkA.jpeg
+  path: ../assets/348958025fd4/1*KkIaH-DdH7VsM5sMki_mkA.jpeg
 ---
 
 ### AYS SPECIAL: Day of shame on Lesvos — PIKPA under eviction
 
 
-![\(Photo Credit: [Lesvos Solidarity\-Pikpa](https://www.facebook.com/pikpalesvos) \)](assets/348958025fd4/1*KkIaH-DdH7VsM5sMki_mkA.jpeg)
+![\(Photo Credit: [Lesvos Solidarity\-Pikpa](https://www.facebook.com/pikpalesvos) \)](../assets/348958025fd4/1*KkIaH-DdH7VsM5sMki_mkA.jpeg)
 
 \(Photo Credit: [Lesvos Solidarity\-Pikpa](https://www.facebook.com/pikpalesvos) \)
 
@@ -44,15 +44,15 @@ This morning, the police returned, despite [last minute appeals](https://www.pro
 
 
 
-![](assets/348958025fd4/1*m0j0FNLUolYH-G4Cy1hn8Q.jpeg)
+![](../assets/348958025fd4/1*m0j0FNLUolYH-G4Cy1hn8Q.jpeg)
 
 
 
-![](assets/348958025fd4/1*D_IEZaCN0HY_kJgfwdm3Ng.jpeg)
+![](../assets/348958025fd4/1*D_IEZaCN0HY_kJgfwdm3Ng.jpeg)
 
 
 
-![\(Photo Credit: [No Borders Network](https://www.facebook.com/nobordersnetwork/photos/pcb.3468153723252495/3468153176585883) \)](assets/348958025fd4/1*tNV8jCirueNU6BYMM7kTIw.jpeg)
+![\(Photo Credit: [No Borders Network](https://www.facebook.com/nobordersnetwork/photos/pcb.3468153723252495/3468153176585883) \)](../assets/348958025fd4/1*tNV8jCirueNU6BYMM7kTIw.jpeg)
 
 \(Photo Credit: [No Borders Network](https://www.facebook.com/nobordersnetwork/photos/pcb.3468153723252495/3468153176585883) \)
 
@@ -105,11 +105,11 @@ This eviction is an even more questionable act in light of the [recent fire in M
 The last attempt to evict the camp, which was also postponed, was supposed to happen by October 15th, but this is just one in a series of [attempted evictions](http://refugeeobservatory.aegean.gr/en/observatory-news-bulletin-court-s-decision-favour-operation-pikpa-lesvos-updated-august-12th) over the last few years\. [Amnesty International](https://www.amnesty.org/en/documents/eur25/3160/2020/en/?fbclid=IwAR0BK9YJ4r8CI-szYqwH0_Ac_bt8UuKuhX3XWIJNoI5RPMYNpnFGIyYur8w) , [Human Rights Watch](https://www.hrw.org/news/2020/09/30/save-dignity-save-pikpa-and-kara-tepe) and many other organisations, as well as individuals, have all called on the Greek government to reverse its decision\. There is also an ongoing case which has been submitted to the European Court of Human Rights, supported by [Greek Council for Refugees](https://www.gcr.gr/en/news/press-releases-announcements/item/1545-the-european-court-of-human-rights-requested-from-the-greek-government-to-provide-information-regarding-the-evacuation-of-pikpa-in-lesvos?fbclid=IwAR2F-B4iLmpe4T8qSgjhr4DfqtDhiGuaxmqbaaC3A50) , regarding a single mother and her new born child, stating that their eviction from PIKPA would be in violation of Article 3 of the Human Rights Act, which states that no one shall be subjected to torture or to inhuman or degrading treatment or punishment\.
 
 
-![](assets/348958025fd4/1*T0woB8kLR7i-ExxdZjyrnw.jpeg)
+![](../assets/348958025fd4/1*T0woB8kLR7i-ExxdZjyrnw.jpeg)
 
 
 
-![\(Moria 2\.0 Photo Credit: @DvDorresteijn\)](assets/348958025fd4/1*BrWnqBHeYqn8bpab3kWtRg.jpeg)
+![\(Moria 2\.0 Photo Credit: @DvDorresteijn\)](../assets/348958025fd4/1*BrWnqBHeYqn8bpab3kWtRg.jpeg)
 
 \(Moria 2\.0 Photo Credit: @DvDorresteijn\)
 

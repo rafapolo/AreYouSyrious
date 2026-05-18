@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 24/3/2018: Building a world where racism does not exist
+title: "AYS DAILY DIGEST 24/3/2018: Building a world where racism does not exist"
 author: Are You Syrious?
 date: 2018-03-25T11:05:19.416+0100
 last_modified_at: 2018-03-26T09:42:02.475+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,israel,greece,antifa]
 description: Protest against racism all over the world // Thousands marched in Tel Aviv against deportations of refugees // Pressure on volunteers in…
 image:
-  path: assets/ae2801340fa9/1*7nH21guqKKFisHhLUYpCzw.jpeg
+  path: ../assets/ae2801340fa9/1*7nH21guqKKFisHhLUYpCzw.jpeg
 ---
 
 ### AYS DAILY DIGEST 24/3/2018: Building a world where racism does not exist
@@ -15,7 +15,7 @@ image:
 _Protest against racism all over the world // Thousands marched in Tel Aviv against deportations of refugees // Pressure on volunteers in Greece // Help needed in France // Education and job opportunities in Norway_
 
 
-![No Borders Network](assets/ae2801340fa9/1*7nH21guqKKFisHhLUYpCzw.jpeg)
+![No Borders Network](../assets/ae2801340fa9/1*7nH21guqKKFisHhLUYpCzw.jpeg)
 
 No Borders Network
 ### Feature
@@ -25,7 +25,7 @@ We have to fight racism and xenophobia all over the world\. In Europe, this was 
 In Tel Aviv, Israel, some 25\.000 people marched on Saturday against the deportation of African asylum seekers\. They carried the slogan **_“There is no difference between our blood and their blood because we are all human beings\.”_**
 
 
-![](assets/ae2801340fa9/1*qyCyclK9T9yDan1YIKJ07w.jpeg)
+![](../assets/ae2801340fa9/1*qyCyclK9T9yDan1YIKJ07w.jpeg)
 
 
 This is just another stage in protest against deportations to Rwanda and Uganda that were scheduled to begin on April 1\. However, under the public pressure, the High Court of Justice has suspended this decision until it rules on a petition against deportations\. The government is scheduled to file its response to the petition on Monday\.
@@ -45,7 +45,7 @@ The first stanza of the song says:
 _“Our dark\-skinned brothers who came from Ethiopia brought with them a wonderful and ancient tradition\. The lost sons, after the hardships of the road, slowly discover the faraway land they dreamed of for years, and now it’s the reality when they tell them to immerse, to wash away their innocence\. And I saw a light in their eyes, and who knows if \[the patriarch\] Abraham wasn’t black?”_
 
 
-[![אהוד בנאי - עבודה שחורה 2018](assets/ae2801340fa9/f913_hqdefault.jpg "אהוד בנאי - עבודה שחורה 2018")](http://www.youtube.com/watch?v=TtScE7s1azU)
+[![אהוד בנאי - עבודה שחורה 2018](../assets/ae2801340fa9/f913_hqdefault.jpg "אהוד בנאי - עבודה שחורה 2018")](http://www.youtube.com/watch?v=TtScE7s1azU)
 
 
 There are approximately 38,000 African asylum seekers in Israel, according to the Interior Ministry\. Among them, about 72 percent are Eritrean and 20 percent Sudanese\. The vast majority arrived between 2006 and 2012, via Egypt\.

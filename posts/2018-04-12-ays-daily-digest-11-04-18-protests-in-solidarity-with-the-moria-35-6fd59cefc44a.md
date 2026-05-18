@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 11/04/18/: Protests in solidarity with the Moria 35
+title: "AYS Daily Digest 11/04/18/: Protests in solidarity with the Moria 35"
 author: Are You Syrious?
 date: 2018-04-12T09:49:01.929+0100
 last_modified_at: 2018-04-12T11:48:48.620+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,deportations,european-union,afghanistan]
 description: Protests in solidarity with Moria 35 in Greece//Protest against EU migration policy in Tunisia//Family of six deported to Afghanistan from…
 image:
-  path: assets/6fd59cefc44a/1*UQ6Yej_30Sn8zpsekaZ1Cw.png
+  path: ../assets/6fd59cefc44a/1*UQ6Yej_30Sn8zpsekaZ1Cw.png
 ---
 
 ### AYS Daily Digest 11/04/18/: _Protests in solidarity with the Moria 35_
@@ -15,7 +15,7 @@ image:
 _Protests in solidarity with Moria 35 in Greece//Protest against EU migration policy in Tunisia//Family of six deported to Afghanistan from Denmark//Report on ‘hostile environment’ policies in UK//_
 
 
-![Photo by Refugee Accommodation and Solidarity Space City Plaza](assets/6fd59cefc44a/1*UQ6Yej_30Sn8zpsekaZ1Cw.png)
+![Photo by Refugee Accommodation and Solidarity Space City Plaza](../assets/6fd59cefc44a/1*UQ6Yej_30Sn8zpsekaZ1Cw.png)
 
 Photo by Refugee Accommodation and Solidarity Space City Plaza
 ### Feature
@@ -32,7 +32,7 @@ On Saturday, a [march](https://www.facebook.com/events/548435702203462/) will st
 One boat landed on the south coast of Lesvos on Wednesday just after midnight, carrying 24 people\. A second refugee boat arrived on Lesvos carrying 35 people\. One boat arrived on Chios in the morning carrying 34 people\. Yesterday night 30 people arrived in Kastelorizo and reached Rhodes this morning\.
 
 
-![Photo by Salvamento Marítimo Humanitario](assets/6fd59cefc44a/1*oV_lGLl012uqOnTZipoYmw.jpeg)
+![Photo by Salvamento Marítimo Humanitario](../assets/6fd59cefc44a/1*oV_lGLl012uqOnTZipoYmw.jpeg)
 
 Photo by Salvamento Marítimo Humanitario
 
@@ -41,7 +41,7 @@ The UNHCR’s report “Desperate Journeys” says 29,718 people arrived by sea 
 ### Protest against EU migration policy in Tunisia
 
 
-![Photo by Watch The Med — Alarmphone](assets/6fd59cefc44a/1*zHIPMCsmgKnvy8MGZaoZjw.png)
+![Photo by Watch The Med — Alarmphone](../assets/6fd59cefc44a/1*zHIPMCsmgKnvy8MGZaoZjw.png)
 
 Photo by Watch The Med — Alarmphone
 
@@ -59,7 +59,7 @@ Jugend Rettet notes that with the criminalisation of rescue ships, fewer rescues
 ### Protest against eviction in Amsterdam
 
 
-![Photo by Manette Ingenegeren](assets/6fd59cefc44a/1*OqY1ztYRHb9-T5mR2QxiIA.png)
+![Photo by Manette Ingenegeren](../assets/6fd59cefc44a/1*OqY1ztYRHb9-T5mR2QxiIA.png)
 
 Photo by Manette Ingenegeren
 
@@ -68,7 +68,7 @@ On Wednesday, the women of We Are Here, a group of refugees in Amsterdam, demons
 ### Family of six deported to Afghanistan
 
 
-![Photo by No Deportations Without Resistance — Ingen Udvisninger Uden Modstand](assets/6fd59cefc44a/1*0z7CuQXieG3OYHwGHQNGiQ.png)
+![Photo by No Deportations Without Resistance — Ingen Udvisninger Uden Modstand](../assets/6fd59cefc44a/1*0z7CuQXieG3OYHwGHQNGiQ.png)
 
 Photo by No Deportations Without Resistance — Ingen Udvisninger Uden Modstand
 

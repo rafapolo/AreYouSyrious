@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL US — MEXICO BORDER: Violence, Seen and Unseen
+title: "AYS SPECIAL US — MEXICO BORDER: Violence, Seen and Unseen"
 author: Are You Syrious?
 date: 2019-01-14T08:41:44.994+0000
 last_modified_at: 2019-01-20T01:49:20.556+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [immigration,special,us,mexico,desert]
 description: The Trump Administration wants a wall across the entire length of the border. The U.S. Border Patrol knows better. They have a way to stop…
 image:
-  path: assets/e6a76dd4831b/1*WmPuGYIv6gXSDgYqfki7ew.jpeg
+  path: ../assets/e6a76dd4831b/1*WmPuGYIv6gXSDgYqfki7ew.jpeg
 ---
 
 ### AYS SPECIAL — US\-MEXICO BORDER: Violence, Seen and Unseen
@@ -15,7 +15,7 @@ image:
 _The Trump Administration wants a wall across the entire length of the border\. The U\.S\. Border Patrol knows better\. They have a way to stop border crossers that’s cheaper, more effective — and far more deadly\._
 
 
-![The Sonoran Desert, a vast expanse of hostile terrain that many migrants must cross in order to reach the United States\. Photo Credit: Carrot Quinn](assets/e6a76dd4831b/1*WmPuGYIv6gXSDgYqfki7ew.jpeg)
+![The Sonoran Desert, a vast expanse of hostile terrain that many migrants must cross in order to reach the United States\. Photo Credit: Carrot Quinn](../assets/e6a76dd4831b/1*WmPuGYIv6gXSDgYqfki7ew.jpeg)
 
 The Sonoran Desert, a vast expanse of hostile terrain that many migrants must cross in order to reach the United States\. Photo Credit: Carrot Quinn
 
@@ -30,7 +30,7 @@ On January 8, Trump addressed the nation, trying to make a case for his pet proj
 It’s not difficult to figure out why Trump is so attached to the idea of the Wall, even as it has become a political nightmare\. The Wall is a formidable concretization of every dogwhistle and racist cliché about immigrants that he has personally employed or tacitly encouraged\. It is not subtle, complex, or bureaucratic, like so much of U\.S\. migration policy\. It is expensive, it is obvious, and it is big\.
 
 
-![The arid, cactus\-filled terrain of the Sonoran Desert\. Photo Credit: Carrot Quinn](assets/e6a76dd4831b/1*LnRppuR60QAffXsbqECqDw.jpeg)
+![The arid, cactus\-filled terrain of the Sonoran Desert\. Photo Credit: Carrot Quinn](../assets/e6a76dd4831b/1*LnRppuR60QAffXsbqECqDw.jpeg)
 
 The arid, cactus\-filled terrain of the Sonoran Desert\. Photo Credit: Carrot Quinn
 
@@ -53,7 +53,7 @@ Meanwhile, it is [estimated](http://www.thedisappearedreport.org/uploads/8/3/5/1
 Nobody killed those people — the scorching desert did it; the waves of the rolling sea\. Never mind that U\.S\. border agents [routinely overturn water jugs](http://www.thedisappearedreport.org/uploads/8/3/5/1/83515082/disappeared_report_part_2.pdf) that solidarity organizations leave in the desert for migrants passing through, or that various E\.U\. countries have prevented humanitarian rescue operations from doing their work in the Mediterranean and its surrounding seas, going so far as to refuse to let boats dock at their port\.
 
 
-[![Footage of Border Patrol Vandalism of Humanitarian Aid, 2010-2017](assets/e6a76dd4831b/274c_hqdefault.jpg "Footage of Border Patrol Vandalism of Humanitarian Aid, 2010-2017")](http://www.youtube.com/watch?v=eqaslbj5Th8)
+[![Footage of Border Patrol Vandalism of Humanitarian Aid, 2010-2017](../assets/e6a76dd4831b/274c_hqdefault.jpg "Footage of Border Patrol Vandalism of Humanitarian Aid, 2010-2017")](http://www.youtube.com/watch?v=eqaslbj5Th8)
 
 
 Notably _unlike_ Europe, there are no international organizations on the ground at the US\-Mexico border\. The UN is not there, IOM is not there, MSF is not there\.
@@ -67,7 +67,7 @@ Operational since 2004, the organization [No More Deaths](http://forms.nomoredea
 “The work No More Deaths does is very simple,” said Elsa,\* a volunteer for the organization since 2015, at a presentation she gave in my hometown recently\. “It’s not radical to feed someone, give someone water, or provide them basic medical care\.” But, she said, because of the “insanely militarized landscape” along the border, basic acts of human kindness become politicized\.
 
 
-![“Clean Water for Travelers\.” Water jugs left for border crossers by No More Deaths\. Photo Credit: Carrot Quinn](assets/e6a76dd4831b/1*nC8HGBaji1ZA2z4EKsmWNw.jpeg)
+![“Clean Water for Travelers\.” Water jugs left for border crossers by No More Deaths\. Photo Credit: Carrot Quinn](../assets/e6a76dd4831b/1*nC8HGBaji1ZA2z4EKsmWNw.jpeg)
 
 “Clean Water for Travelers\.” Water jugs left for border crossers by No More Deaths\. Photo Credit: Carrot Quinn
 
@@ -80,7 +80,7 @@ Nine “No More Deaths” volunteers are currently fighting federal charges for 
 Scott’s arrest occurred just hours after No More Deaths released the second installment of their “Disappeared” report, comprehensively documenting routine destruction of water stations and other humanitarian aid supplies by border patrol officers; [internal documents](https://theintercept.com/2018/04/30/were-gonna-take-everyone-border-patrol-targets-prominent-humanitarian-group-as-criminal-organization/) revealed that the agents who arrested him had been surveilling the aid station all morning\. Now, he faces up to 20 years in prison\.
 
 
-![Shade and water — for border crossers, it’s a small desert oasis\. Photo Credit: Amelia Holowaty Krales](assets/e6a76dd4831b/1*NeDDzqyglTaD6xqhPiQ5Bw.jpeg)
+![Shade and water — for border crossers, it’s a small desert oasis\. Photo Credit: Amelia Holowaty Krales](../assets/e6a76dd4831b/1*NeDDzqyglTaD6xqhPiQ5Bw.jpeg)
 
 Shade and water — for border crossers, it’s a small desert oasis\. Photo Credit: Amelia Holowaty Krales
 
@@ -93,7 +93,7 @@ The desire to erect a giant wall across the U\.S\. \-Mexico border is consistent
 The Trump administration has been willing to publicly engage in high\-profile tactics with terrible optics–family separation as a deterrence policy, ICE raids on schools and courtrooms, the recent tear\-gas cloud at the border — that the Obama, Bush, and Clinton administrations would not have, though they were happy to quietly deport long\-time U\.S\. residents and send border crossers into the desert to die through Prevention Through Deterrence\.
 
 
-![A No More Deaths volunteer on the lookout\. 9 volunteers face prison time for their activism\. Credit: Carrot Quinn](assets/e6a76dd4831b/1*Jm-PwPMUSP5xKA23F-c4qQ.jpeg)
+![A No More Deaths volunteer on the lookout\. 9 volunteers face prison time for their activism\. Credit: Carrot Quinn](../assets/e6a76dd4831b/1*Jm-PwPMUSP5xKA23F-c4qQ.jpeg)
 
 A No More Deaths volunteer on the lookout\. 9 volunteers face prison time for their activism\. Credit: Carrot Quinn
 
@@ -108,7 +108,7 @@ Access to asylum is supposedly a [universal right\.](https://www.unhcr.org/3b66c
 But if people can’t actually _request_ international protection — whether it’s because they’re stuck in Morocco or Libya \(both countries that have signed border externalization deals with the EU\) or Honduras or Guatemala \(where the U\.S\. has [funded programs](https://www.latimes.com/world/mexico-americas/la-fg-ff-honduras-border-20140709-story.html#page=1) that prevent people from emigrating\), because they’ve been physically shoved back over a borderline by police, or because they can’t get into an asylum office to register their claim — then the U\.S\. and E\.U\. get to continue paying lip\-service to this international human right, while also avoiding responsibility for the very people trying desperately to find asylum within their borders\. It’s a self\-effacing violence, a crime that obscures itself as it’s being committed\.
 
 
-![The desert at sunset\. Photo Credit: Carrot Quinn](assets/e6a76dd4831b/1*-eUaoTXZ7Q_C-Widyy7Hrw.jpeg)
+![The desert at sunset\. Photo Credit: Carrot Quinn](../assets/e6a76dd4831b/1*-eUaoTXZ7Q_C-Widyy7Hrw.jpeg)
 
 The desert at sunset\. Photo Credit: Carrot Quinn
 
@@ -123,7 +123,7 @@ Because of their decision to cross together, the violence enacted against the me
 And yet, visibility doesn’t necessarily translate to meaningful change\. Two years after the viral dissemination of that image, children continue to drown in the Mediterranean\.
 
 
-![A makeshift shrine: prayer candles, coins, a bible, and a note asking god to “illuminate our path in order to arrive at our destination\.” Photo Credit: Amelia Holowaty Krales](assets/e6a76dd4831b/1*w6Mgy9HneISLuhOMLQ1_JQ.jpeg)
+![A makeshift shrine: prayer candles, coins, a bible, and a note asking god to “illuminate our path in order to arrive at our destination\.” Photo Credit: Amelia Holowaty Krales](../assets/e6a76dd4831b/1*w6Mgy9HneISLuhOMLQ1_JQ.jpeg)
 
 A makeshift shrine: prayer candles, coins, a bible, and a note asking god to “illuminate our path in order to arrive at our destination\.” Photo Credit: Amelia Holowaty Krales
 

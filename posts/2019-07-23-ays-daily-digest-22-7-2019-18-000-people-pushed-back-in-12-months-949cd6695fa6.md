@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 22/7/2019–Ventimiglia: 18,000 people pushed back in 12 months
+title: "AYS Daily Digest 22/7/2019–Ventimiglia: 18,000 people pushed back in 12 months"
 author: Are You Syrious?
 date: 2019-07-23T10:35:08.689+0100
 last_modified_at: 2019-07-23T18:21:44.964+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,ventimiglia,deportations,turkey]
 description: Updates on mass deportations from Syria to Turkey /// Raids against people on the move in Nador, Morocco /// Activist found not guilty in…
 image:
-  path: assets/949cd6695fa6/1*9sk1WhFCKLmLJySftopqMA.jpeg
+  path: ../assets/949cd6695fa6/1*9sk1WhFCKLmLJySftopqMA.jpeg
 ---
 
 ### AYS Daily Digest 22/07/2019 –Ventimiglia: 18,000 people returned to Italy in 12 months
@@ -15,7 +15,7 @@ image:
 Updates on mass deportations from Syria to Turkey /// Raids against people on the move in Nador, Morocco /// Activist found not guilty in Como, Italy /// Increase in ID checks in Athens, Greece ///
 
 
-![Artwork by By [Delawer Omar](https://www.deviantart.com/delawer-omar) , via [Art Against](https://www.facebook.com/artagainstproject/photos/a.639651369417634/2319876068061814/?type=3&theater)](assets/949cd6695fa6/1*9sk1WhFCKLmLJySftopqMA.jpeg)
+![Artwork by By [Delawer Omar](https://www.deviantart.com/delawer-omar) , via [Art Against](https://www.facebook.com/artagainstproject/photos/a.639651369417634/2319876068061814/?type=3&theater)](../assets/949cd6695fa6/1*9sk1WhFCKLmLJySftopqMA.jpeg)
 
 Artwork by By [Delawer Omar](https://www.deviantart.com/delawer-omar) , via [Art Against](https://www.facebook.com/artagainstproject/photos/a.639651369417634/2319876068061814/?type=3&theater)
 #### Feature story — Ventimiglia : 18,000 People Pushed Back in 12 months
@@ -41,7 +41,7 @@ They also give information about the number of illegal, yet frequent, practices 
 According to Interior ministerial data, 18,125 people were returned to Italy during the last 12 months by French Authorities at the Ventimiglia border, media [report](https://www.ilfattoquotidiano.it/2019/07/18/migranti-negli-ultimi-12-mesi-la-francia-ha-respinto-oltre-18mila-persone-a-ventimiglia-ecco-i-dati-ufficiali/5332818/?fbclid=IwAR0vW7H9eBVy_AzMSLcR_8NixhnSJ7GIaljWz6RzYD912SJ0mkfzyPYmm2M) s\.
 
 
-![Ventimiglia \(Photo by [Progetto 20k](https://www.facebook.com/progetto20k/photos/a.283910125302242/907350156291566/?type=3&theater) \)](assets/949cd6695fa6/1*MCgJS58iKkV9w729jjVfNQ.jpeg)
+![Ventimiglia \(Photo by [Progetto 20k](https://www.facebook.com/progetto20k/photos/a.283910125302242/907350156291566/?type=3&theater) \)](../assets/949cd6695fa6/1*MCgJS58iKkV9w729jjVfNQ.jpeg)
 
 Ventimiglia \(Photo by [Progetto 20k](https://www.facebook.com/progetto20k/photos/a.283910125302242/907350156291566/?type=3&theater) \)
 
@@ -118,7 +118,7 @@ MOROCCO
 AMDH Nador [report](https://www.facebook.com/AmdhNador/photos/a.1693125780899690/2377259975819597/?type=3&__tn__=-R&_rdc=1&_rdr) about frequent raids by authorities in migrant camps in Nador\. Often, for fear of being arrested by the auxiliary forces, migrant women flee in very rugged terrain, which can cause wounds to their feet\.
 
 
-![Photo by [AMDH Nador](https://www.facebook.com/AmdhNador/photos/a.1693125780899690/2377259975819597/?type=3&__tn__=-R&_rdc=1&_rdr)](assets/949cd6695fa6/1*FzDHbz7Udef8IFAslxZx-Q.jpeg)
+![Photo by [AMDH Nador](https://www.facebook.com/AmdhNador/photos/a.1693125780899690/2377259975819597/?type=3&__tn__=-R&_rdc=1&_rdr)](../assets/949cd6695fa6/1*FzDHbz7Udef8IFAslxZx-Q.jpeg)
 
 Photo by [AMDH Nador](https://www.facebook.com/AmdhNador/photos/a.1693125780899690/2377259975819597/?type=3&__tn__=-R&_rdc=1&_rdr)
 
@@ -137,7 +137,7 @@ The [Migration Data Portal](https://www.facebook.com/migrationdataportal/posts/2
 Given the nature of the border regions, it is also likely that actual numbers of deaths are higher\. The truth is, we will never know exactly how many young people’s lives have been taken from them\.
 
 
-![From [Migration Data Portal](https://www.facebook.com/migrationdataportal/photos/a.1548933385194569/2393786270709272/?type=3&theater)](assets/949cd6695fa6/1*Bnww5K76qAQX_qvqBZj-iA.jpeg)
+![From [Migration Data Portal](https://www.facebook.com/migrationdataportal/photos/a.1548933385194569/2393786270709272/?type=3&theater)](../assets/949cd6695fa6/1*Bnww5K76qAQX_qvqBZj-iA.jpeg)
 
 From [Migration Data Portal](https://www.facebook.com/migrationdataportal/photos/a.1548933385194569/2393786270709272/?type=3&theater)
 #### Too Little Too Late — Joint Statement from IOM and UN
@@ -267,7 +267,7 @@ To register: please send an email to the address [utopia56\.lille@gmail\.com](ma
 #### Utopia 56 Are Also Looking for Volunteers over the Summer\.
 
 
-![IF YOU’RE INTERESTED, FIND OUT MORE [HERE](https://www.facebook.com/utopia56lillecollecte/photos/a.369415093400081/926715627670022/?type=3&theater)](assets/949cd6695fa6/1*amkLnHxVNcYdypozc4wn9Q.jpeg)
+![IF YOU’RE INTERESTED, FIND OUT MORE [HERE](https://www.facebook.com/utopia56lillecollecte/photos/a.369415093400081/926715627670022/?type=3&theater)](../assets/949cd6695fa6/1*amkLnHxVNcYdypozc4wn9Q.jpeg)
 
 IF YOU’RE INTERESTED, FIND OUT MORE [HERE](https://www.facebook.com/utopia56lillecollecte/photos/a.369415093400081/926715627670022/?type=3&theater)
 

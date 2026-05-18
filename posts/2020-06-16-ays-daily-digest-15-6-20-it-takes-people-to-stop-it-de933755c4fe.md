@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 15/6/20: “It takes people to stop it!”
+title: "AYS Daily Digest 15/6/20: “It takes people to stop it!”"
 author: Are You Syrious?
 date: 2020-06-16T16:12:52.698+0100
 last_modified_at: 2020-06-16T20:53:46.106+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,europe,human-rights,refugees,borders]
 description: Hundreds show solidarity with those evicted and those without homes in the centre of Athens / European Commission tacitly sides Croatia’s…
 image:
-  path: assets/de933755c4fe/1*YAVaZjKgv1dsKsgN_w-scQ.jpeg
+  path: ../assets/de933755c4fe/1*YAVaZjKgv1dsKsgN_w-scQ.jpeg
 ---
 
 ### AYS Daily Digest 15/6/20: “It takes people to stop it\!”
 #### Hundreds show solidarity with those evicted and those without homes in the centre of Athens / European Commission tacitly sides with Croatia’s misuse of funds intended for independent monitoring of the border, in the meantime — the tortures continue with the blessing of the entire EU / MSF halts psychological exams in Athens / AYS campaign for refugee families closing soon / Berlin Senate plans to accept a total of 300 people by next July / & more news
 
 
-![Athens, photo by: [Marios Lolos](https://www.facebook.com/marios.lolos.1?__tn__=%2Cd%2AF%2AF-R&eid=ARB5J0xsx2dU13JkSxalBfMHDlBF4Ro60E9zkwwGKiJidHTplRLhbmdPrY9uJxeMok2Db-AkYm8gc0zR&tn-str=%2AF&hc_location=group_dialog)](assets/de933755c4fe/1*YAVaZjKgv1dsKsgN_w-scQ.jpeg)
+![Athens, photo by: [Marios Lolos](https://www.facebook.com/marios.lolos.1?__tn__=%2Cd%2AF%2AF-R&eid=ARB5J0xsx2dU13JkSxalBfMHDlBF4Ro60E9zkwwGKiJidHTplRLhbmdPrY9uJxeMok2Db-AkYm8gc0zR&tn-str=%2AF&hc_location=group_dialog)](../assets/de933755c4fe/1*YAVaZjKgv1dsKsgN_w-scQ.jpeg)
 
 Athens, photo by: [Marios Lolos](https://www.facebook.com/marios.lolos.1?__tn__=%2Cd%2AF%2AF-R&eid=ARB5J0xsx2dU13JkSxalBfMHDlBF4Ro60E9zkwwGKiJidHTplRLhbmdPrY9uJxeMok2Db-AkYm8gc0zR&tn-str=%2AF&hc_location=group_dialog)
 #### FEATURED
@@ -77,7 +77,7 @@ Refugee organizations and solidarity groups warn that the current situation in c
 
 
 
-![People supporting those who are threatened by the police to be removed and taken to a camp have remained in Victoria Square, calling for a solidarity assembly, more presence so that the police do not remove refugees against their will, activists have reported\. \(Photo: [NoBorders](https://www.facebook.com/nobordersnetwork/?__tn__=kC-R&eid=ARCYMpB-ZaEOEM_tKEhDYAhBxCUCacr2wbviSWbfclc0BnJMWFYIPpLwTjUfSmoeNFCC8LznFMW5fVB7&hc_ref=ARR-IXcB13cBQfLIGFY2s3qdpsrfvcsuBiE2jP-cACGksASuPhDop3v138jXhvSPviw&fref=nf&__xts__%5B0%5D=68.ARCMfoO2MT2Dq1jQLVJGl38oyIDupKfqcS8VCjtYSQVCkP3xcghEdQFIyJjPbWSMDuC6WCOJlPXU7iMgv3D967aZYSHRSBgTWL5G-8mEjaVDl0ae0xwbiQ-CmP-Vxv-F90BM-1PQI-j9X0qLCUUM5GQ8iNybfE0RnOPMXL41Z9S2z9DeEAZqVVlwH-KO1hGHSLBPmI96PjrYSJ5HrdjQsUB7tf0-pquhwVQN4VMlEB7I2fKgpcbaJ0FcryXph_m7c5ed3PAJUXc9zmnpbEVRyC8huBiHMwlot7vQKHfxV1GJBB5ELhdUUBwkShb2pWgLuRaGKES2ThaC4bgN1Q76FbpOgw) \)](assets/de933755c4fe/1*1BTzvpr5guZFUE6YhTP0Pg.jpeg)
+![People supporting those who are threatened by the police to be removed and taken to a camp have remained in Victoria Square, calling for a solidarity assembly, more presence so that the police do not remove refugees against their will, activists have reported\. \(Photo: [NoBorders](https://www.facebook.com/nobordersnetwork/?__tn__=kC-R&eid=ARCYMpB-ZaEOEM_tKEhDYAhBxCUCacr2wbviSWbfclc0BnJMWFYIPpLwTjUfSmoeNFCC8LznFMW5fVB7&hc_ref=ARR-IXcB13cBQfLIGFY2s3qdpsrfvcsuBiE2jP-cACGksASuPhDop3v138jXhvSPviw&fref=nf&__xts__%5B0%5D=68.ARCMfoO2MT2Dq1jQLVJGl38oyIDupKfqcS8VCjtYSQVCkP3xcghEdQFIyJjPbWSMDuC6WCOJlPXU7iMgv3D967aZYSHRSBgTWL5G-8mEjaVDl0ae0xwbiQ-CmP-Vxv-F90BM-1PQI-j9X0qLCUUM5GQ8iNybfE0RnOPMXL41Z9S2z9DeEAZqVVlwH-KO1hGHSLBPmI96PjrYSJ5HrdjQsUB7tf0-pquhwVQN4VMlEB7I2fKgpcbaJ0FcryXph_m7c5ed3PAJUXc9zmnpbEVRyC8huBiHMwlot7vQKHfxV1GJBB5ELhdUUBwkShb2pWgLuRaGKES2ThaC4bgN1Q76FbpOgw) \)](../assets/de933755c4fe/1*1BTzvpr5guZFUE6YhTP0Pg.jpeg)
 
 People supporting those who are threatened by the police to be removed and taken to a camp have remained in Victoria Square, calling for a solidarity assembly, more presence so that the police do not remove refugees against their will, activists have reported\. \(Photo: [NoBorders](https://www.facebook.com/nobordersnetwork/?__tn__=kC-R&eid=ARCYMpB-ZaEOEM_tKEhDYAhBxCUCacr2wbviSWbfclc0BnJMWFYIPpLwTjUfSmoeNFCC8LznFMW5fVB7&hc_ref=ARR-IXcB13cBQfLIGFY2s3qdpsrfvcsuBiE2jP-cACGksASuPhDop3v138jXhvSPviw&fref=nf&__xts__%5B0%5D=68.ARCMfoO2MT2Dq1jQLVJGl38oyIDupKfqcS8VCjtYSQVCkP3xcghEdQFIyJjPbWSMDuC6WCOJlPXU7iMgv3D967aZYSHRSBgTWL5G-8mEjaVDl0ae0xwbiQ-CmP-Vxv-F90BM-1PQI-j9X0qLCUUM5GQ8iNybfE0RnOPMXL41Z9S2z9DeEAZqVVlwH-KO1hGHSLBPmI96PjrYSJ5HrdjQsUB7tf0-pquhwVQN4VMlEB7I2fKgpcbaJ0FcryXph_m7c5ed3PAJUXc9zmnpbEVRyC8huBiHMwlot7vQKHfxV1GJBB5ELhdUUBwkShb2pWgLuRaGKES2ThaC4bgN1Q76FbpOgw) \)
 
@@ -91,7 +91,7 @@ Further on, the bizzare situation people find themselves in is described:
 
 
 
-![‘’We want housing, papers, healthcare and freedom’’ \(photo: [Solidarity With Migrants](https://www.facebook.com/solidaritymigrants/?__xts__%5B0%5D=68.ARAB0vwl3YIC97Ns0BQc7I1UHYYf5ADZxcTvgKFpU7PG0r6ZQjiH3bZE4azry7YxWYDuq5QjB9pu47A3gPZTZQN0lEd0O15fw11lZNjYC3aaJa4uGy8LrnEk-NoM5TSnjGGq05Z4PPgg-JGP2zmBSupcx4MwsbH0AcltjiCQTfDsbtDDPES01iewuV9cySJ4IvPFzp5jEwt7ev78m6cPTKNDw6c3SfrG3s3tsI0pou63GLPn3B6XMWxqC4vLvbDYAGdq3Br5O5_nGB6tCLhAWAEY6cfl75bfmVKwhZ6uZSkVCsP5G-0m3Mo06twH4KuYdEahlGVKmsQMEtI0501flEY&__tn__=k%2AF&tn-str=k%2AF) \)](assets/de933755c4fe/1*AoYKu50fy12kk9f3yB2xWA.jpeg)
+![‘’We want housing, papers, healthcare and freedom’’ \(photo: [Solidarity With Migrants](https://www.facebook.com/solidaritymigrants/?__xts__%5B0%5D=68.ARAB0vwl3YIC97Ns0BQc7I1UHYYf5ADZxcTvgKFpU7PG0r6ZQjiH3bZE4azry7YxWYDuq5QjB9pu47A3gPZTZQN0lEd0O15fw11lZNjYC3aaJa4uGy8LrnEk-NoM5TSnjGGq05Z4PPgg-JGP2zmBSupcx4MwsbH0AcltjiCQTfDsbtDDPES01iewuV9cySJ4IvPFzp5jEwt7ev78m6cPTKNDw6c3SfrG3s3tsI0pou63GLPn3B6XMWxqC4vLvbDYAGdq3Br5O5_nGB6tCLhAWAEY6cfl75bfmVKwhZ6uZSkVCsP5G-0m3Mo06twH4KuYdEahlGVKmsQMEtI0501flEY&__tn__=k%2AF&tn-str=k%2AF) \)](../assets/de933755c4fe/1*AoYKu50fy12kk9f3yB2xWA.jpeg)
 
 ‘’We want housing, papers, healthcare and freedom’’ \(photo: [Solidarity With Migrants](https://www.facebook.com/solidaritymigrants/?__xts__%5B0%5D=68.ARAB0vwl3YIC97Ns0BQc7I1UHYYf5ADZxcTvgKFpU7PG0r6ZQjiH3bZE4azry7YxWYDuq5QjB9pu47A3gPZTZQN0lEd0O15fw11lZNjYC3aaJa4uGy8LrnEk-NoM5TSnjGGq05Z4PPgg-JGP2zmBSupcx4MwsbH0AcltjiCQTfDsbtDDPES01iewuV9cySJ4IvPFzp5jEwt7ev78m6cPTKNDw6c3SfrG3s3tsI0pou63GLPn3B6XMWxqC4vLvbDYAGdq3Br5O5_nGB6tCLhAWAEY6cfl75bfmVKwhZ6uZSkVCsP5G-0m3Mo06twH4KuYdEahlGVKmsQMEtI0501flEY&__tn__=k%2AF&tn-str=k%2AF) \)
 
@@ -108,7 +108,7 @@ Many children are among those who have gathered in the capital’s central squar
 
 
 ![Photographer Ayhan Mehmet writes: “Children watch cartoons displayed on a sheet by solidarity groups as Afghan families who arrived from Moria camp on the island of Lesvos, camp at a central Athens square on June 14, 2020 after receiving a blue stamp which allowed them to travel to the mainland”
-\(Photo: Ayhan Mehmet\)](assets/de933755c4fe/1*DyhFiVkcvxr16m4jbc3wKA.jpeg)
+\(Photo: Ayhan Mehmet\)](../assets/de933755c4fe/1*DyhFiVkcvxr16m4jbc3wKA.jpeg)
 
 Photographer Ayhan Mehmet writes: “Children watch cartoons displayed on a sheet by solidarity groups as Afghan families who arrived from Moria camp on the island of Lesvos, camp at a central Athens square on June 14, 2020 after receiving a blue stamp which allowed them to travel to the mainland”
 \(Photo: Ayhan Mehmet\)
@@ -122,7 +122,7 @@ Photographer Ayhan Mehmet writes: “Children watch cartoons displayed on a shee
 
 
 
-![by: [GFR’s Self\-Advocacy Team](https://www.facebook.com/GFRs-Self-Advocacy-Team-862535027443039/?__xts__%5B0%5D=68.ARC766wmu_Dl3rD25EglJxom6_3jk_BBr5gkL950pzJ2qzfDM6iGaiZtUTk10W2owLrqIMueYydkO8BI8e3laiM_mqk4cXqzh66Ph5uS-lTRoAySrBUg9VMN5mTm38_DEG_GM6oEuWeOhTPWCRIvkWwcg9WevvNf6F07Kb_9z3FbAljb8jRR-aLDsY5_ix9J4jAcYFIqSeZYf39oL1C9PdPpoANIOwGIb0sUYDO8Q3u2cPRWEl4jWCvHnfdag2piFC347nFMp7TKNisNEfj38p0e2MRtzSsX4YjpeBxf4U33SQqGqW2bJkf6FP_7sHBwutkRznmhPwXkSX8y3nWBNoj2RyjjRYFIc9Sz1ZsAxdDeNHjaP76RHmKo4Dnj-8sHfHhYnhhiAR3QdDiLiZlpK2NN3_dmHrkTkkXroX7tEe-hSBx5uzYPS6humNycfndg62RmHVfitjDCFv24LqX9hvP33iW_VawWi2d5fQx2UHTgd2wWK5r2zUd7&__tn__=k%2AF&tn-str=k%2AF)](assets/de933755c4fe/1*xdt_FyQVHcZOaCMaHmMX9w.jpeg)
+![by: [GFR’s Self\-Advocacy Team](https://www.facebook.com/GFRs-Self-Advocacy-Team-862535027443039/?__xts__%5B0%5D=68.ARC766wmu_Dl3rD25EglJxom6_3jk_BBr5gkL950pzJ2qzfDM6iGaiZtUTk10W2owLrqIMueYydkO8BI8e3laiM_mqk4cXqzh66Ph5uS-lTRoAySrBUg9VMN5mTm38_DEG_GM6oEuWeOhTPWCRIvkWwcg9WevvNf6F07Kb_9z3FbAljb8jRR-aLDsY5_ix9J4jAcYFIqSeZYf39oL1C9PdPpoANIOwGIb0sUYDO8Q3u2cPRWEl4jWCvHnfdag2piFC347nFMp7TKNisNEfj38p0e2MRtzSsX4YjpeBxf4U33SQqGqW2bJkf6FP_7sHBwutkRznmhPwXkSX8y3nWBNoj2RyjjRYFIc9Sz1ZsAxdDeNHjaP76RHmKo4Dnj-8sHfHhYnhhiAR3QdDiLiZlpK2NN3_dmHrkTkkXroX7tEe-hSBx5uzYPS6humNycfndg62RmHVfitjDCFv24LqX9hvP33iW_VawWi2d5fQx2UHTgd2wWK5r2zUd7&__tn__=k%2AF&tn-str=k%2AF)](../assets/de933755c4fe/1*xdt_FyQVHcZOaCMaHmMX9w.jpeg)
 
 by: [GFR’s Self\-Advocacy Team](https://www.facebook.com/GFRs-Self-Advocacy-Team-862535027443039/?__xts__%5B0%5D=68.ARC766wmu_Dl3rD25EglJxom6_3jk_BBr5gkL950pzJ2qzfDM6iGaiZtUTk10W2owLrqIMueYydkO8BI8e3laiM_mqk4cXqzh66Ph5uS-lTRoAySrBUg9VMN5mTm38_DEG_GM6oEuWeOhTPWCRIvkWwcg9WevvNf6F07Kb_9z3FbAljb8jRR-aLDsY5_ix9J4jAcYFIqSeZYf39oL1C9PdPpoANIOwGIb0sUYDO8Q3u2cPRWEl4jWCvHnfdag2piFC347nFMp7TKNisNEfj38p0e2MRtzSsX4YjpeBxf4U33SQqGqW2bJkf6FP_7sHBwutkRznmhPwXkSX8y3nWBNoj2RyjjRYFIc9Sz1ZsAxdDeNHjaP76RHmKo4Dnj-8sHfHhYnhhiAR3QdDiLiZlpK2NN3_dmHrkTkkXroX7tEe-hSBx5uzYPS6humNycfndg62RmHVfitjDCFv24LqX9hvP33iW_VawWi2d5fQx2UHTgd2wWK5r2zUd7&__tn__=k%2AF&tn-str=k%2AF)
 #### LIBYA
@@ -187,7 +187,7 @@ In the meantime, PRO ASYL, state refugee councils and young people without borde
 
 
 
-![Until Wednesday 17\.06\. you can also participate in the election of the Deportation Minister 2020 on the website of [Jugendliche Ohne Grenzen](https://www.facebook.com/jogspace/?__xts__%5B0%5D=68.ARCWii_lluGx98PH6oEeRwnOeE81d8aTf0KaaQT417EOLgB52akH_ewq-vMACr1hBiVwde63KTuDzn6qTzTzbg8xbOJ-I0SarbL4-oKKoSdUuMUM5UuRNG51iAtHI2v1W3S6wNy6NruIzgNsOGKOksPvbhHK1GWpzR2lAU9_iJe2kKeI5AOGoHLRu1RUT6EyAkKf9NtuiBTnl7hXyBc3_FA3MOmfC1sanL6iuwWpqkVUBo3E30HhV83Qf55Wnx5kHhe5mV22c63xi840IhdfJSMdooacYsgH6zx4dconWt0HVxebR04anQyGDRQzUfYGpz8o128yhOlPbE9pPcw3j8xd_g&__tn__=%2CdK%2AF-R&eid=ARAKiEFMPrNAl__o9NZ3mUvfw2mXVe_jexPRgQTE_QLMav0D34Oj5Mx_6altuLfUiKDHsqPUS_Aw4_5Z&fref=tag) : [http://jogspace\.net/gala\-abend/](https://l.facebook.com/l.php?u=http%3A%2F%2Fjogspace.net%2Fgala-abend%2F%3Ffbclid%3DIwAR1hahYv4impmCdNlD4qdW-E_EH52JKaN1Sxg1BLB6gEfz4kMqjNEnvYyd0&h=AT2jCv_lBVns5EYZ_P-GUv5VIrpzIIqvUjOgjLjXlZOOBw4m9N-bgCB5GE-F7GwFOdDG1ik-PNGeN9wKTM836QG4d5RpGhkYQxhZ7_RoF6oJ_z_-K8-Jpa0EivT4iBk9ljfkCsmUxQ)](assets/de933755c4fe/1*1guDQXCKZi8ho3VbDAFapw.jpeg)
+![Until Wednesday 17\.06\. you can also participate in the election of the Deportation Minister 2020 on the website of [Jugendliche Ohne Grenzen](https://www.facebook.com/jogspace/?__xts__%5B0%5D=68.ARCWii_lluGx98PH6oEeRwnOeE81d8aTf0KaaQT417EOLgB52akH_ewq-vMACr1hBiVwde63KTuDzn6qTzTzbg8xbOJ-I0SarbL4-oKKoSdUuMUM5UuRNG51iAtHI2v1W3S6wNy6NruIzgNsOGKOksPvbhHK1GWpzR2lAU9_iJe2kKeI5AOGoHLRu1RUT6EyAkKf9NtuiBTnl7hXyBc3_FA3MOmfC1sanL6iuwWpqkVUBo3E30HhV83Qf55Wnx5kHhe5mV22c63xi840IhdfJSMdooacYsgH6zx4dconWt0HVxebR04anQyGDRQzUfYGpz8o128yhOlPbE9pPcw3j8xd_g&__tn__=%2CdK%2AF-R&eid=ARAKiEFMPrNAl__o9NZ3mUvfw2mXVe_jexPRgQTE_QLMav0D34Oj5Mx_6altuLfUiKDHsqPUS_Aw4_5Z&fref=tag) : [http://jogspace\.net/gala\-abend/](https://l.facebook.com/l.php?u=http%3A%2F%2Fjogspace.net%2Fgala-abend%2F%3Ffbclid%3DIwAR1hahYv4impmCdNlD4qdW-E_EH52JKaN1Sxg1BLB6gEfz4kMqjNEnvYyd0&h=AT2jCv_lBVns5EYZ_P-GUv5VIrpzIIqvUjOgjLjXlZOOBw4m9N-bgCB5GE-F7GwFOdDG1ik-PNGeN9wKTM836QG4d5RpGhkYQxhZ7_RoF6oJ_z_-K8-Jpa0EivT4iBk9ljfkCsmUxQ)](../assets/de933755c4fe/1*1guDQXCKZi8ho3VbDAFapw.jpeg)
 
 Until Wednesday 17\.06\. you can also participate in the election of the Deportation Minister 2020 on the website of [Jugendliche Ohne Grenzen](https://www.facebook.com/jogspace/?__xts__%5B0%5D=68.ARCWii_lluGx98PH6oEeRwnOeE81d8aTf0KaaQT417EOLgB52akH_ewq-vMACr1hBiVwde63KTuDzn6qTzTzbg8xbOJ-I0SarbL4-oKKoSdUuMUM5UuRNG51iAtHI2v1W3S6wNy6NruIzgNsOGKOksPvbhHK1GWpzR2lAU9_iJe2kKeI5AOGoHLRu1RUT6EyAkKf9NtuiBTnl7hXyBc3_FA3MOmfC1sanL6iuwWpqkVUBo3E30HhV83Qf55Wnx5kHhe5mV22c63xi840IhdfJSMdooacYsgH6zx4dconWt0HVxebR04anQyGDRQzUfYGpz8o128yhOlPbE9pPcw3j8xd_g&__tn__=%2CdK%2AF-R&eid=ARAKiEFMPrNAl__o9NZ3mUvfw2mXVe_jexPRgQTE_QLMav0D34Oj5Mx_6altuLfUiKDHsqPUS_Aw4_5Z&fref=tag) : [http://jogspace\.net/gala\-abend/](https://l.facebook.com/l.php?u=http%3A%2F%2Fjogspace.net%2Fgala-abend%2F%3Ffbclid%3DIwAR1hahYv4impmCdNlD4qdW-E_EH52JKaN1Sxg1BLB6gEfz4kMqjNEnvYyd0&h=AT2jCv_lBVns5EYZ_P-GUv5VIrpzIIqvUjOgjLjXlZOOBw4m9N-bgCB5GE-F7GwFOdDG1ik-PNGeN9wKTM836QG4d5RpGhkYQxhZ7_RoF6oJ_z_-K8-Jpa0EivT4iBk9ljfkCsmUxQ)
 ### Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.

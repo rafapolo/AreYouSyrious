@@ -1,13 +1,13 @@
 ---
-title: AYS Daily Digest 29.04.19: Another Ship in Distress Ignored
+title: "AYS Daily Digest 29.04.19: Another Ship in Distress Ignored"
 author: Are You Syrious?
 date: 2019-04-30T03:27:32.851+0100
 last_modified_at: 2019-04-30T10:44:09.596+0100
 categories: Are You Syrious?
 tags: [refugees,search-and-rescue,libya,human-rights,digest]
-description: Feature: Ship in Distress off Libyan Coast
+description: "Feature: Ship in Distress off Libyan Coast"
 image:
-  path: assets/598efc4b20b8/1*qDgu2tv0U4E8rFCH1y6UXQ.jpeg
+  path: ../assets/598efc4b20b8/1*qDgu2tv0U4E8rFCH1y6UXQ.jpeg
 ---
 
 ### AYS Daily Digest 29/4/19: Another Ship in Distress Ignored & More Police Violence in BH
@@ -15,7 +15,7 @@ image:
 Police violence against a 16\-year old at the BH\-Montenegro border / more vessels in distress, SAR teams must wait for the CG /
 
 
-![Photo Credit: [Emanuela Zamp](https://www.facebook.com/mrszampina?__tn__=KH-R-R&eid=ARC7UsuEsLYBm17SpjQJbdNwqigVhBSd63LXZXqb3-g74YoYI7oR8In8AP3TNq3eCO2zbDWjJ6f3kR6w&__xts__%5B0%5D=68.ARBR4FMO3ylkpAFcGbqRw-Vv1InWfIvkVrlkjlz47uVdUiVs8KoOFScetcqxcTXhQItxir-9qyzgcxGzQc6QLZz8V_gC7S6lNVwgMzXgDK9AJGM57-F91Edl2r5C-NPh7aYDWC0RjRn1LqkhuQ1XNkpkgZQwsXd6n7L9_wccKBn3oojG8v5-xAr7BX1KemhGt_AS9Fbfb05_iXNG9gMdHPrWo61_dpyjAxsBzA) a\. “They deny it can still happen\. Because it’s not like then, no\. And Nazis and fascists have no equal in evil, while Europe today only tries to manage the crisis, flows, borders\. Because the bodies, behind that barbed wire are different\. Because here in Bira, no one is killed\.” In some hours we should have more news on what will become of the people in this centre, as the regional politicians are ending their 2\-day visit to the ‘camps’ in the north\-west of Bosnia](assets/598efc4b20b8/1*qDgu2tv0U4E8rFCH1y6UXQ.jpeg)
+![Photo Credit: [Emanuela Zamp](https://www.facebook.com/mrszampina?__tn__=KH-R-R&eid=ARC7UsuEsLYBm17SpjQJbdNwqigVhBSd63LXZXqb3-g74YoYI7oR8In8AP3TNq3eCO2zbDWjJ6f3kR6w&__xts__%5B0%5D=68.ARBR4FMO3ylkpAFcGbqRw-Vv1InWfIvkVrlkjlz47uVdUiVs8KoOFScetcqxcTXhQItxir-9qyzgcxGzQc6QLZz8V_gC7S6lNVwgMzXgDK9AJGM57-F91Edl2r5C-NPh7aYDWC0RjRn1LqkhuQ1XNkpkgZQwsXd6n7L9_wccKBn3oojG8v5-xAr7BX1KemhGt_AS9Fbfb05_iXNG9gMdHPrWo61_dpyjAxsBzA) a\. “They deny it can still happen\. Because it’s not like then, no\. And Nazis and fascists have no equal in evil, while Europe today only tries to manage the crisis, flows, borders\. Because the bodies, behind that barbed wire are different\. Because here in Bira, no one is killed\.” In some hours we should have more news on what will become of the people in this centre, as the regional politicians are ending their 2\-day visit to the ‘camps’ in the north\-west of Bosnia](../assets/598efc4b20b8/1*qDgu2tv0U4E8rFCH1y6UXQ.jpeg)
 
 Photo Credit: [Emanuela Zamp](https://www.facebook.com/mrszampina?__tn__=KH-R-R&eid=ARC7UsuEsLYBm17SpjQJbdNwqigVhBSd63LXZXqb3-g74YoYI7oR8In8AP3TNq3eCO2zbDWjJ6f3kR6w&__xts__%5B0%5D=68.ARBR4FMO3ylkpAFcGbqRw-Vv1InWfIvkVrlkjlz47uVdUiVs8KoOFScetcqxcTXhQItxir-9qyzgcxGzQc6QLZz8V_gC7S6lNVwgMzXgDK9AJGM57-F91Edl2r5C-NPh7aYDWC0RjRn1LqkhuQ1XNkpkgZQwsXd6n7L9_wccKBn3oojG8v5-xAr7BX1KemhGt_AS9Fbfb05_iXNG9gMdHPrWo61_dpyjAxsBzA) a\. “They deny it can still happen\. Because it’s not like then, no\. And Nazis and fascists have no equal in evil, while Europe today only tries to manage the crisis, flows, borders\. Because the bodies, behind that barbed wire are different\. Because here in Bira, no one is killed\.” In some hours we should have more news on what will become of the people in this centre, as the regional politicians are ending their 2\-day visit to the ‘camps’ in the north\-west of Bosnia
 ### FEATURED STORIES
@@ -49,7 +49,7 @@ A [ship in distress](https://www.facebook.com/seenotrettung/posts/55328161174504
 Alarm Phone was informed by some of the people on board that their motor had died at midnight the previous night, meaning they have been stranded at sea for over a day now\.
 
 
-![Photo Credit: [Watch the Med/ Alarmphone](https://www.facebook.com/groups/1652972374920129/) \.](assets/598efc4b20b8/1*PpNr8Y35SgPqitPRd596Mg.jpeg)
+![Photo Credit: [Watch the Med/ Alarmphone](https://www.facebook.com/groups/1652972374920129/) \.](../assets/598efc4b20b8/1*PpNr8Y35SgPqitPRd596Mg.jpeg)
 
 Photo Credit: [Watch the Med/ Alarmphone](https://www.facebook.com/groups/1652972374920129/) \.
 
@@ -99,7 +99,7 @@ A boat carrying 46 people, including a two year old child, [is missing for the s
 There has been an increase in the number of refugee boats being intercepted by the Turkish Coast Guard \(TCG\), according to numbers released by Turkish authorities\. [Aegean Boat Report stated](https://www.facebook.com/AegeanBoatReport/posts/565148144008294?__xts__[0]=68.ARD0F1V1Xi0TwrW4LP7y8NSTqeN5szYBslmOx8ZoJeY9ILTW2-y6MXtKEV0OGWkLJv2YtNHUUFoMOiDZk2USsmWOybY66bdOK7rRzqGThz1tWHBak3-NxE4tlav6gAdWFnWZ2dP-NP7dU5I5fRv6Ce2rrF2LjCn-40E7sgu-maSTaUxKyDOS3HX-19yXV8LluEWAjvJ3CsnKbvQRjxXviuWuXwGvcB4fEvqK-5hkHLCgRg0eqhRHkbVweJw_iOl97-gmihyuv1oizA14FSbi0-d6DQ0Jbe4Fv_t_auGqiu_BecHQEK-qh7GsHE1ku95ZerX8G2dvHDCgqgxYm6CGaic&__tn__=-R) , “Last week 52 boats were stopped, and 1,501 people were arrested\. This is the highest number of boats stopped in one single week for over a year\. Is Greece prepared for what would happen if Turkey should look the other way, and again let boats flow towards the Greek Aegean Islands…”
 
 
-![A boat carrying refugees being intercepted by the TCG\. Photo Credit: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/565148144008294?__xts__[0]=68.ARD0F1V1Xi0TwrW4LP7y8NSTqeN5szYBslmOx8ZoJeY9ILTW2-y6MXtKEV0OGWkLJv2YtNHUUFoMOiDZk2USsmWOybY66bdOK7rRzqGThz1tWHBak3-NxE4tlav6gAdWFnWZ2dP-NP7dU5I5fRv6Ce2rrF2LjCn-40E7sgu-maSTaUxKyDOS3HX-19yXV8LluEWAjvJ3CsnKbvQRjxXviuWuXwGvcB4fEvqK-5hkHLCgRg0eqhRHkbVweJw_iOl97-gmihyuv1oizA14FSbi0-d6DQ0Jbe4Fv_t_auGqiu_BecHQEK-qh7GsHE1ku95ZerX8G2dvHDCgqgxYm6CGaic&__tn__=-R)](assets/598efc4b20b8/1*yhvB_jcR7B5ot-sssC1qZg.jpeg)
+![A boat carrying refugees being intercepted by the TCG\. Photo Credit: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/565148144008294?__xts__[0]=68.ARD0F1V1Xi0TwrW4LP7y8NSTqeN5szYBslmOx8ZoJeY9ILTW2-y6MXtKEV0OGWkLJv2YtNHUUFoMOiDZk2USsmWOybY66bdOK7rRzqGThz1tWHBak3-NxE4tlav6gAdWFnWZ2dP-NP7dU5I5fRv6Ce2rrF2LjCn-40E7sgu-maSTaUxKyDOS3HX-19yXV8LluEWAjvJ3CsnKbvQRjxXviuWuXwGvcB4fEvqK-5hkHLCgRg0eqhRHkbVweJw_iOl97-gmihyuv1oizA14FSbi0-d6DQ0Jbe4Fv_t_auGqiu_BecHQEK-qh7GsHE1ku95ZerX8G2dvHDCgqgxYm6CGaic&__tn__=-R)](../assets/598efc4b20b8/1*yhvB_jcR7B5ot-sssC1qZg.jpeg)
 
 A boat carrying refugees being intercepted by the TCG\. Photo Credit: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/565148144008294?__xts__[0]=68.ARD0F1V1Xi0TwrW4LP7y8NSTqeN5szYBslmOx8ZoJeY9ILTW2-y6MXtKEV0OGWkLJv2YtNHUUFoMOiDZk2USsmWOybY66bdOK7rRzqGThz1tWHBak3-NxE4tlav6gAdWFnWZ2dP-NP7dU5I5fRv6Ce2rrF2LjCn-40E7sgu-maSTaUxKyDOS3HX-19yXV8LluEWAjvJ3CsnKbvQRjxXviuWuXwGvcB4fEvqK-5hkHLCgRg0eqhRHkbVweJw_iOl97-gmihyuv1oizA14FSbi0-d6DQ0Jbe4Fv_t_auGqiu_BecHQEK-qh7GsHE1ku95ZerX8G2dvHDCgqgxYm6CGaic&__tn__=-R)
 ### Greece
@@ -133,7 +133,7 @@ A new far\-right party that goes by the name of “Hard Line” has achieved the
 ### General
 
 
-![](assets/598efc4b20b8/1*dC0ZegwgUZ7VN8N0jjQcjw.jpeg)
+![](../assets/598efc4b20b8/1*dC0ZegwgUZ7VN8N0jjQcjw.jpeg)
 
 #### AYS and the Daily News Digest — want to get involved?
 

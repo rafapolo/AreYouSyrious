@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 13/05/2018: Citizens form human chain in Brussels to protest against immigration…
+title: "AYS DAILY DIGEST 13/05/2018: Citizens form human chain in Brussels to protest against immigration…"
 author: Are You Syrious?
 date: 2018-05-14T10:25:34.244+0100
 last_modified_at: 2018-05-14T12:08:22.445+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,bosnia,france,belgium]
 description: Dismantlements persist in Calais//Solidarity march continues in France//73 people rescued by SOS Méditerannée//Legis presents report on…
 image:
-  path: assets/53e3e00c8aaf/1*MKqDekan_QSFLO3iW6CFdg.png
+  path: ../assets/53e3e00c8aaf/1*MKqDekan_QSFLO3iW6CFdg.png
 ---
 
 ### AYS DAILY DIGEST 13/05/2018: Citizens form human chain in Brussels to protest against immigration policy
@@ -15,14 +15,14 @@ image:
 _Dismantlements persist in Calais//Solidarity march continues in France//73 people rescued by SOS Méditerannée//Legis presents report on migration at Macedonia’s northern border//_
 
 
-![](assets/53e3e00c8aaf/1*MKqDekan_QSFLO3iW6CFdg.png)
+![](../assets/53e3e00c8aaf/1*MKqDekan_QSFLO3iW6CFdg.png)
 
 #### Belgium
 
 In Brussels, around 1,500 people participated in a protest against the Belgian government’s migration policy\. The protest targeted police repression, the lack of structural solution, and the lack of shelter for around 500 people living in the streets of Brussels\. In particular, the protest is meant to prevent police from arresting people—around 70 people near the train station and Parc Maximilien—and from bringing them to detention centres on Monday, according to organizers\.
 
 
-![](assets/53e3e00c8aaf/1*0InDmpsQsGp0WdMVsZJRhA.jpeg)
+![](../assets/53e3e00c8aaf/1*0InDmpsQsGp0WdMVsZJRhA.jpeg)
 
 #### Sea
 ### 73 people by SOS Méditerannée
@@ -60,7 +60,7 @@ _Salam_ says there has not been a single work day in Calais without a dismantlem
 ### Volunteers needed for the Calais Laundry
 
 
-![](assets/53e3e00c8aaf/0*vrCZDH_ZAaikZBoZ.)
+![](../assets/53e3e00c8aaf/0*vrCZDH_ZAaikZBoZ.)
 
 
 The Calais Laundry isn’t able to work every day as there are not enough volunteers\. The laundry allows a reduction of waste and is currently the only source of items coming in to the warehouse, according to the Calais Laundry\. You can send them a message with your dates directly through their [Facebook page](https://web.facebook.com/Calais-Laundry-155985555055222/?_rdc=1&_rdr) \.

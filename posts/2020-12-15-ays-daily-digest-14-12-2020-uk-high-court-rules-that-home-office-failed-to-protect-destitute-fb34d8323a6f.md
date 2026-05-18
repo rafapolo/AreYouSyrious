@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 14/12/2020 — UK: High Court rules that Home Office failed to protect destitute…
+title: "AYS Daily Digest 14/12/2020 — UK: High Court rules that Home Office failed to protect destitute…"
 author: Are You Syrious?
 date: 2020-12-15T12:18:40.923+0000
 last_modified_at: 2020-12-15T12:18:40.923+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,home-office,border-violence]
 description: IOM will cut supplies to Lipa camp in BH if government doesn’t take action//Upcoming launch of “Black Book of Push-backs”//& more
 image:
-  path: assets/fb34d8323a6f/0*P6csGG-43FQgGBqf
+  path: ../assets/fb34d8323a6f/0*P6csGG-43FQgGBqf
 ---
 
 ### AYS Daily Digest 14/12/2020 — UK: High Court rules that Home Office failed to protect destitute people
 ### IOM will cut supplies to Lipa camp in BH if government doesn’t take action//Upcoming launch of “Black Book of Push\-backs”//& more
 
 
-![](assets/fb34d8323a6f/0*o1WQdwp9qpuudfk4.jpeg)
+![](../assets/fb34d8323a6f/0*o1WQdwp9qpuudfk4.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----dceac430b526--------------------------------)
@@ -22,11 +22,11 @@ image:
 [Dec 15](ays-daily-digest-14-12-2020-high-court-rules-that-home-office-failed-to-protect-destitute-people-dceac430b526?source=post_page-----dceac430b526--------------------------------) · 9 min read
 
 
-![](assets/fb34d8323a6f/0*iiQ40QCTrG91wZ1m)
+![](../assets/fb34d8323a6f/0*iiQ40QCTrG91wZ1m)
 
 
 
-![](assets/fb34d8323a6f/0*P6csGG-43FQgGBqf)
+![](../assets/fb34d8323a6f/0*P6csGG-43FQgGBqf)
 
 ### FEATURE
 ### UK Home Office failed to protect destitute people, court rules
@@ -112,11 +112,11 @@ Twenty\-one people on the move were [found in a sweatshop](https://www.infomigra
 From [L’Auberge des Migrants](https://www.facebook.com/AubergeMigrants/posts/10158508802320339) :
 
 
-![](assets/fb34d8323a6f/0*8hXHlfWFA9HV-v5-)
+![](../assets/fb34d8323a6f/0*8hXHlfWFA9HV-v5-)
 
 
 
-![](assets/fb34d8323a6f/0*S8wawgs5DcH6jjvG)
+![](../assets/fb34d8323a6f/0*S8wawgs5DcH6jjvG)
 
 ### DENMARK
 ### Denmark to separate people from majority\-Muslim countries in official statistics

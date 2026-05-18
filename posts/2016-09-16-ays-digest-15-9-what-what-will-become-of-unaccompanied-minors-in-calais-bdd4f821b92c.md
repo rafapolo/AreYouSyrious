@@ -1,5 +1,5 @@
 ---
-title: AYS digest 15/9: What what will become of unaccompanied minors in Calais?
+title: "AYS digest 15/9: What what will become of unaccompanied minors in Calais?"
 author: Are You Syrious?
 date: 2016-09-16T00:05:20.385+0100
 last_modified_at: 2016-09-16T08:52:58.767+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,migration,syria,calais]
 description: Assad forces block aid delivery to Aleppo. 75,000 refugees trapped on Syria-Jordan border. New anti-refugee riots expected on Chios…
 image:
-  path: assets/bdd4f821b92c/1*K2D3bdCDBA-Fu_P0_3dP_g.jpeg
+  path: ../assets/bdd4f821b92c/1*K2D3bdCDBA-Fu_P0_3dP_g.jpeg
 ---
 
 ### AYS digest 15/9: What what will become of unaccompanied minors in Calais?
 #### Assad forces block aid delivery to Aleppo\. 75,000 refugees trapped on Syria\-Jordan border\. New anti\-refugee riots expected on Chios\. Extremist militias patrolling Hungarian border\. UK Foreign Secretary says EU should turn back refugee boats from Italy\. MSF issues a warning about plans of further dismantling of Calais camp\.
 
 
-![](assets/bdd4f821b92c/1*K2D3bdCDBA-Fu_P0_3dP_g.jpeg)
+![](../assets/bdd4f821b92c/1*K2D3bdCDBA-Fu_P0_3dP_g.jpeg)
 
 #### SYRIA
 ### Assad forces block aid delivery to Aleppo, “peace deal” might trigger a new wave of the refugees
@@ -22,7 +22,7 @@ image:
 The aid delivery to rebel\-held eastern Aleppo, where about 300,000 people are living under siege, is still blockaded by government forces\. Across Syria 19 towns are still without humanitarian assistance, according to the UN, that amounts to some **600,000 people who are in dire need of food and medical assistance** \. Only a week after [73 Syrian aid groups have stopped their cooperation with UN](https://medium.com/@AreYouSyrious/ays-digest-73-syrian-ngos-have-stopped-cooperation-with-un-d966a1c40234#.qe4ixipzk) , explaining how Syrian government in Damascus has a significant influence on the performance of UN agencies and their partners, the [UN has called on the Syrian government](http://www.aljazeera.com/news/2016/09/syria-urges-government-aleppo-aid-trucks-160915084635557.html) to “immediately” allow life\-saving aid into eastern Aleppo\. While the “big players” such as UN, but also American and Russian governments, debate over the Syrian issue, people are dying not only from bombs, but also of food deprivation and lack of basic medical support\. In our recent report, we have mentioned the alarming increase of teen suicide attempts in the besieged city of Madaya\.
 
 
-![Convoys of aid waiting in no\-man’s land for permission to travel onwards towards Aleppo\. Photo: Mete Sohtaoğlu](assets/bdd4f821b92c/1*1XRQGZK7p6x3cLf-EcF8EQ.jpeg)
+![Convoys of aid waiting in no\-man’s land for permission to travel onwards towards Aleppo\. Photo: Mete Sohtaoğlu](../assets/bdd4f821b92c/1*1XRQGZK7p6x3cLf-EcF8EQ.jpeg)
 
 Convoys of aid waiting in no\-man’s land for permission to travel onwards towards Aleppo\. Photo: Mete Sohtaoğlu
 
@@ -33,7 +33,7 @@ Despite the alleged ceasefire, Syrian Observatory for Human Rights reports on [m
 [Video footage](https://adam.amnesty.org/asset-bank/action/viewAsset?id=232528) and [satellite images](https://adam.amnesty.org/asset-bank/images/assetbox/6c1c3b2d-2df7-4be5-b093-72675f60eb65/assetbox.html) showing makeshift grave sites and burial mounds offer a rare glimpse inside a desert no man’s land between Jordan and Syria where tens of thousands of refugees who have been virtually cut off from humanitarian aid for two months are stranded, said Amnesty International\. The video footage was obtained from [Tribal Council of Palmyra and Badia](https://www.facebook.com/%D9%85%D8%AC%D9%84%D8%B3-%D8%B9%D8%B4%D8%A7%D8%A6%D8%B1-%D8%AA%D8%AF%D9%85%D8%B1-%D9%88%D8%A7%D9%84%D8%A8%D8%A7%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-1299824710081548/?hc_ref=PAGES_TIMELINE&fref=nf) , which has a network of activists operating inside the area known as the berm, and independently verified using satellite imagery\.
 
 
-![Syrian refugees stuck at the Jordanian\-Syrian border wait to cross into Jordan in the Hadalat area, Jan\. 14, 2016\.](assets/bdd4f821b92c/1*72bMo57N_pTh28TokiN_Jg.jpeg)
+![Syrian refugees stuck at the Jordanian\-Syrian border wait to cross into Jordan in the Hadalat area, Jan\. 14, 2016\.](../assets/bdd4f821b92c/1*72bMo57N_pTh28TokiN_Jg.jpeg)
 
 Syrian refugees stuck at the Jordanian\-Syrian border wait to cross into Jordan in the Hadalat area, Jan\. 14, 2016\.
 
@@ -60,7 +60,7 @@ Refucomm has uploaded [informative films and audio files](https://www.youtube.co
 ### New right\-wing riots expected on Chios
 
 
-![Last night’s protests attrasted 800 residents who rallied against the refugees\. Photo: Euronews](assets/bdd4f821b92c/1*T6acTymtqcVQAHPtPEW6WA.jpeg)
+![Last night’s protests attrasted 800 residents who rallied against the refugees\. Photo: Euronews](../assets/bdd4f821b92c/1*T6acTymtqcVQAHPtPEW6WA.jpeg)
 
 Last night’s protests attrasted 800 residents who rallied against the refugees\. Photo: Euronews
 
@@ -68,7 +68,7 @@ Following yesterday’s right\-wing riots on Chios, when riot police had to inte
 ### **Rowing Together needs** gynaecologist in the North
 
 
-![](assets/bdd4f821b92c/1*BOy2DF_7CEQWrDw0xbq14w.jpeg)
+![](../assets/bdd4f821b92c/1*BOy2DF_7CEQWrDw0xbq14w.jpeg)
 
 
 Spanish [NGO Rowing Together](http://Rowing Together) working in Northern Greece needs a gynaecologist volunteer between September 22th and October 6th\. If you are available or know how to help, please contact [Victoria Diaz](https://www.facebook.com/victoria.diazmuscio) on Facebook\.
@@ -87,7 +87,7 @@ Earth Refugee group is seeking volunteers to support current projects at Sounio 
 The open Cultural Center is running short of volunteers for the month of October\. They invite everybody with experience with kids and with arts, sports and music skills to join in\. If you are interested, please contact them through [their facebook page](http://www.facebook.com/OpenCulturalCenter) or send them an [email](mailto:openculturalcenter@gmail.com) \.
 
 
-![OCC project build schools/ cultural centers for refugees in Greece and operates them together with refugees](assets/bdd4f821b92c/1*GJk3zuJ8f79djGJ4pfth3g.jpeg)
+![OCC project build schools/ cultural centers for refugees in Greece and operates them together with refugees](../assets/bdd4f821b92c/1*GJk3zuJ8f79djGJ4pfth3g.jpeg)
 
 OCC project build schools/ cultural centers for refugees in Greece and operates them together with refugees
 ### Number of refugees in camps drops on daily basis
@@ -97,7 +97,7 @@ Following our reports about refugees who are leaving the camps and continuing th
 ### New wave of refugees gets stuck in Serbia
 
 
-![Refugees waiting at Kelebija border crossing are supported by IHO/NorthStar volunteer teams\. Photo: NorthStar](assets/bdd4f821b92c/1*lw1uyRc4_9jwSk-9IFdL7Q.jpeg)
+![Refugees waiting at Kelebija border crossing are supported by IHO/NorthStar volunteer teams\. Photo: NorthStar](../assets/bdd4f821b92c/1*lw1uyRc4_9jwSk-9IFdL7Q.jpeg)
 
 Refugees waiting at Kelebija border crossing are supported by IHO/NorthStar volunteer teams\. Photo: NorthStar
 
@@ -112,7 +112,7 @@ At the moment, thousands are stranded in Serbia, following attempts to enter Hun
 According to the Migszol update from 5 August to 5 September that was published today, the month has been characterized by increasingly r [uthless violence](http://www.migszol.com/blog/greetings-from-belgrade-from-the-other-side-of-the-fence) at the Serbian\-Hungarian border, ever\-growing aggressive propaganda against migrants of all kinds now that the national referendum is drawing closer, and the heated international relations between European states because of the insecure EU\-Turkey deal\.
 
 
-![Support page for Hungarian police and soldiers shows a loaded gun in August 2016\.](assets/bdd4f821b92c/1*gtAVUP2CwnKb4eDnSBg8MA.png)
+![Support page for Hungarian police and soldiers shows a loaded gun in August 2016\.](../assets/bdd4f821b92c/1*gtAVUP2CwnKb4eDnSBg8MA.png)
 
 Support page for Hungarian police and soldiers shows a loaded gun in August 2016\.
 
@@ -130,7 +130,7 @@ A European Union naval force deployed in the Mediterranean should turn back migr
 
 
 
-![Around 200,000 refugees have been saved in the Mediterranean\. Photo: MSF Sea](assets/bdd4f821b92c/1*wzgdiF73CgpXWtdoltO_CQ.jpeg)
+![Around 200,000 refugees have been saved in the Mediterranean\. Photo: MSF Sea](../assets/bdd4f821b92c/1*wzgdiF73CgpXWtdoltO_CQ.jpeg)
 
 Around 200,000 refugees have been saved in the Mediterranean\. Photo: MSF Sea
 
@@ -154,7 +154,7 @@ Our colleagues from MSF have published [an much needed statement](http://www.msf
 
 
 
-![](assets/bdd4f821b92c/1*S9cigEV8FPQ8tywssO0MmQ.jpeg)
+![](../assets/bdd4f821b92c/1*S9cigEV8FPQ8tywssO0MmQ.jpeg)
 
 
 **There are 861 unaccompanied foreign minors among the refugees currently living in Calais, 627 of them in the ‘Jungle’ itself\. According to MSF data, the youngest is only 10 years old\.**
@@ -182,7 +182,7 @@ According to HIAS, there are 60 million displaced people in the world right now 
 ### Hundreds of life jackets “wash up” on the Thames
 
 
-![Hundreds of life jackets on the bank of the Thames today to highlight the plight of refugees\. Photo: Sara Firth](assets/bdd4f821b92c/1*klU5Ni1WDCDLZTmAknW07A.jpeg)
+![Hundreds of life jackets on the bank of the Thames today to highlight the plight of refugees\. Photo: Sara Firth](../assets/bdd4f821b92c/1*klU5Ni1WDCDLZTmAknW07A.jpeg)
 
 Hundreds of life jackets on the bank of the Thames today to highlight the plight of refugees\. Photo: Sara Firth
 

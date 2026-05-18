@@ -1,5 +1,5 @@
 ---
-title: AYS NEWSLETTER 02/10/2018: Hands off Mimmo Lucano! AYS expresses solidarity with the mayor of Riace
+title: "AYS NEWSLETTER 02/10/2018: Hands off Mimmo Lucano! AYS expresses solidarity with the mayor of Riace"
 author: Are You Syrious?
 date: 2018-10-03T16:12:22.002+0100
 last_modified_at: 2018-10-03T16:12:22.002+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,mediterranean,solidarity,deportations,italy]
 description: Attacks on solidarity happening again in Italy//More deaths in the Mediterranean//Statistics on arrivals to Greek islands//Testimonies of…
 image:
-  path: assets/359b22b89400/1*srf96alSvyiwQ1vU8XnRfQ.jpeg
+  path: ../assets/359b22b89400/1*srf96alSvyiwQ1vU8XnRfQ.jpeg
 ---
 
 ### AYS NEWSLETTER 02/10/2018: Hands off Mimmo Lucano\! AYS expresses solidarity with the mayor of Riace
@@ -15,7 +15,7 @@ image:
 _Attacks on solidarity happening again in Italy//More deaths in the Mediterranean//Statistics on arrivals to Greek islands//Testimonies of horrible living conditions in Moria//Commemoration day for the 368 people who lost their lives off Lampedusa 5 years ago//More evictions in Rome//New accord on immigration law in Germany//More news from Morocco, France…_
 
 
-![Credit: Riace patrimonio dell’umanità](assets/359b22b89400/1*srf96alSvyiwQ1vU8XnRfQ.jpeg)
+![Credit: Riace patrimonio dell’umanità](../assets/359b22b89400/1*srf96alSvyiwQ1vU8XnRfQ.jpeg)
 
 Credit: Riace patrimonio dell’umanità
 #### FEATURE

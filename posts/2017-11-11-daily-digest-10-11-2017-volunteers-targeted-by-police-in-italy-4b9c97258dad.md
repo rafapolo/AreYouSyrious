@@ -1,5 +1,5 @@
 ---
-title: DAILY DIGEST 10.11.2017: Volunteers targeted by police in Italy
+title: "DAILY DIGEST 10.11.2017: Volunteers targeted by police in Italy"
 author: Are You Syrious?
 date: 2017-11-11T09:10:16.162+0000
 last_modified_at: 2017-11-11T16:22:59.248+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,italy,police-violence,volunteers,greece]
 description: More arrivals, including people of Turkish nationality, to Greece // Help needed on islands // 70 percent of people who arrived in Italy…
 image:
-  path: assets/4b9c97258dad/1*lLS8Ix6d4a33Hj5NQ83ZVg.jpeg
+  path: ../assets/4b9c97258dad/1*lLS8Ix6d4a33Hj5NQ83ZVg.jpeg
 ---
 
 ### DAILY DIGEST 10\.11\.2017: Volunteers targeted by police in Italy
@@ -15,7 +15,7 @@ image:
 _More arrivals, including people of Turkish nationality, to Greece // Help needed on islands // 70 percent of people who arrived in Italy from Libya were victims of human trafficking // Smugglers ask 8000 euro from Iraq to Serbia // New report about the police violence in France_
 
 
-![Photo by [Baobab](https://www.facebook.com/BaobabExperience/) \.](assets/4b9c97258dad/1*lLS8Ix6d4a33Hj5NQ83ZVg.jpeg)
+![Photo by [Baobab](https://www.facebook.com/BaobabExperience/) \.](../assets/4b9c97258dad/1*lLS8Ix6d4a33Hj5NQ83ZVg.jpeg)
 
 Photo by [Baobab](https://www.facebook.com/BaobabExperience/) \.
 ### **Feature**
@@ -27,7 +27,7 @@ The [Kesha Niya](https://www.facebook.com/KeshaNiyaProject/?ref=gs&hc_ref=ARQm5y
 _“After a nice distribution with a relaxed atmosphere on November 2nd, police went beyond their usual thorough document checks and arrested a member of Kesha Niya without any charge\. Denying him access to a lawyer or a translator, they attempted to give him a three\-year ban from the Ventimiglia area; an obvious effort to discourage us, which was just as obviously going to fail anyway\.”_
 
 
-![Ilustration by [Mas Hab](https://www.facebook.com/mashabcomix/) \.](assets/4b9c97258dad/1*TE9GL5BE7kzWp5bCAXwWGg.jpeg)
+![Ilustration by [Mas Hab](https://www.facebook.com/mashabcomix/) \.](../assets/4b9c97258dad/1*TE9GL5BE7kzWp5bCAXwWGg.jpeg)
 
 Ilustration by [Mas Hab](https://www.facebook.com/mashabcomix/) \.
 
@@ -51,7 +51,7 @@ Like every day over the last couple of months, people keep coming over the sea a
 It was busy on Chios again, with one boat arriving in the morning carrying 66 people — **34 men, 12 women, and 20 children** \. Also yesterday, **12 people of Turkish nationality** arrived on Chios and all of them were sent to the overcrowded Vial camp\.
 
 
-![By Erik Gerharson\.](assets/4b9c97258dad/1*YV7OdfFkoIx3GhTVHFCOTA.jpeg)
+![By Erik Gerharson\.](../assets/4b9c97258dad/1*YV7OdfFkoIx3GhTVHFCOTA.jpeg)
 
 By Erik Gerharson\.
 
@@ -62,14 +62,14 @@ _“Several arrivals reported that their dinghy — originally carrying 37 peopl
 _According to reports by the arrivals, when the Hellenic coast guard vessel arrived at the scene, Turkish authorities were asked to stop firing and those in the boat were reassured that they were now safely in Greek waters\. 17 people jumped from their dinghy into the water and swam to the Hellenic coast guard vessel for safety, reporting the Turkish coast guard aggressively attempted to pull people from the water\. Those that were not able to swim from the dinghy to the Hellenic coast guard — mainly women, children and the elderly — were loaded into the Turkish coast guard vessel and taken back to Turkey\. Arrivals to Skala report that families were separated as part of this interception\! \! This breaks several international maritime and human rights laws\.”_
 
 
-![Photo: Stock photo of Turkish Coastguard](assets/4b9c97258dad/1*tl5_Rqyq-N7YVRGZVNqgcA.jpeg)
+![Photo: Stock photo of Turkish Coastguard](../assets/4b9c97258dad/1*tl5_Rqyq-N7YVRGZVNqgcA.jpeg)
 
 Photo: Stock photo of Turkish Coastguard
 
 The situation in Moria is not getting better and there is hardly any serious effort from any side to decongest this and other islands\. It is getting colder every day and living conditions are almost unbearable\. Erik Kempson, the activist at Lesvos, filmed inside Moria showing images that are painful to see\.
 
 
-[![NO electricity! NO water! NO heat! JUST LIES?????? 08/11/2017 Moria Detention Centre](assets/4b9c97258dad/1c69_hqdefault.jpg "NO electricity! NO water! NO heat! JUST LIES?????? 08/11/2017 Moria Detention Centre")](http://www.youtube.com/watch?v=aNxXnGfML6Y)
+[![NO electricity! NO water! NO heat! JUST LIES?????? 08/11/2017 Moria Detention Centre](../assets/4b9c97258dad/1c69_hqdefault.jpg "NO electricity! NO water! NO heat! JUST LIES?????? 08/11/2017 Moria Detention Centre")](http://www.youtube.com/watch?v=aNxXnGfML6Y)
 
 
 Living conditions forced the group of people to start the hunger strike on Lesvos that continues for the 23rd day\.
@@ -106,7 +106,7 @@ It finally looks like some politicians in Europe are becoming aware that the win
 Nevertheless, in their appeal they stated, among other things, that the EU governments _“need to immediately stop sending back refugees to Greece under the Dublin mechanism; which is creating further strain on the Greek asylum system\. If we do not act and refugees die from the cold, as they did last year, then their blood will be on our hands\.”_
 
 
-![Photo: Art Against\.](assets/4b9c97258dad/1*2pFwfAK7uAxJdvdbusv1LQ.jpeg)
+![Photo: Art Against\.](../assets/4b9c97258dad/1*2pFwfAK7uAxJdvdbusv1LQ.jpeg)
 
 Photo: Art Against\.
 
@@ -118,7 +118,7 @@ For more info [see their website](http://www.elix.org.gr/.../1469-yoga-4-beginne
 Very disturbing info from the area of Gorizia where local authorities posted a notice forbidding people to use a fountain in the city\.
 
 
-![](assets/4b9c97258dad/1*C3E7J7MtH_5OBujwf1GdFw.png)
+![](../assets/4b9c97258dad/1*C3E7J7MtH_5OBujwf1GdFw.png)
 
 
 Unfortunately, this fountain was the only place people could use to clean themselves since nobody provided accommodation or place for showers for hundreds of people in this area\. According to the local volunteers, shop owners complained about the people using fountains\. Instead of helping, like many in Belgium or even Paris are doing by opening their homes for people, in this small city they decided to forbid using the fountain\.
@@ -145,7 +145,7 @@ Some **156,000 people have applied for asylum in Germany this year** , and more 
 While temperatures are getting lower, volunteers all over France are trying to meet the needs of all the people who are forced to stay out in the open\. The situation continues to be very bad in Paris and Calais\.
 
 
-![Streets of Paris\. Photo by [**Heather Young**](https://www.facebook.com/heather.young.94009841?fref=gs&hc_location=group_dialog)](assets/4b9c97258dad/1*CgnAHiqRMttpmmmhUqKQHA.jpeg)
+![Streets of Paris\. Photo by [**Heather Young**](https://www.facebook.com/heather.young.94009841?fref=gs&hc_location=group_dialog)](../assets/4b9c97258dad/1*CgnAHiqRMttpmmmhUqKQHA.jpeg)
 
 Streets of Paris\. Photo by [**Heather Young**](https://www.facebook.com/heather.young.94009841?fref=gs&hc_location=group_dialog)
 

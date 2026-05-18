@@ -1,5 +1,5 @@
 ---
-title: AYS Special from Lithuania: “They treat you like criminals”
+title: "AYS Special from Lithuania: “They treat you like criminals”"
 author: Are You Syrious?
 date: 2022-02-27T17:59:46.775+0000
 last_modified_at: 2022-02-27T18:24:42.126+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [special,lithuania,refugees,refugee-camps,detention]
 description: In recent months multiple reports have come out of Lithuania about deplorable living conditions and prison like environments.
 image:
-  path: assets/2c0f9a63b395/1*Iw34A5KcXOsBq-zdEAdGlA.jpeg
+  path: ../assets/2c0f9a63b395/1*Iw34A5KcXOsBq-zdEAdGlA.jpeg
 ---
 
 ### AYS Special from Lithuania: “They treat you like criminals”
@@ -15,7 +15,7 @@ image:
 _In recent months multiple reports have come out of Lithuania about [deplorable living conditions, prisonlike environments, lack of access to medical support, legal support and poor food quality](https://www.infomigrants.net/en/post/38251/you-do-your-asylum-interview-wearing-handcuffs-sekou-in-lithuania) \. [Racist abuse and violence have been common throughout](https://www.infomigrants.net/en/post/38475/the-soldiers-wake-us-up-at-6am-they-come-with-dogs-eric-inside-a-migrant-camp-in-lithuania) , especially in relation to any voices of dissent against the conditions in which people are forced to live\._
 
 
-![\(Photo Credit: [Amy L Beam](https://www.facebook.com/photo?fbid=10225720771743473&set=pcb.10225720782703747) \)](assets/2c0f9a63b395/1*Iw34A5KcXOsBq-zdEAdGlA.jpeg)
+![\(Photo Credit: [Amy L Beam](https://www.facebook.com/photo?fbid=10225720771743473&set=pcb.10225720782703747) \)](../assets/2c0f9a63b395/1*Iw34A5KcXOsBq-zdEAdGlA.jpeg)
 
 \(Photo Credit: [Amy L Beam](https://www.facebook.com/photo?fbid=10225720771743473&set=pcb.10225720782703747) \)
 
@@ -39,15 +39,15 @@ This week, an Iraqi man currently imprisoned with his family reached out to ask 
 Having travelled through Belarus to reach Lithuania, they did not expect the situation which awaited them\. The rooms of the place where they are held all have bars on the windows and doors\. Their youngest child, a baby, is suffering from an undiagnosed skin condition\. The father has a wound on the back of his head\. Repeated reports state that the asylum system in Lithuania is not functioning and that [people have been forced to sign deportation papers without knowing what they are](https://www.facebook.com/photo/?fbid=10225720771823475&set=pcb.10225720782703747) \.
 
 
-![](assets/2c0f9a63b395/1*3ugq8zFFvvIsHTbj9VvJFQ.jpeg)
+![](../assets/2c0f9a63b395/1*3ugq8zFFvvIsHTbj9VvJFQ.jpeg)
 
 
 
-![](assets/2c0f9a63b395/1*8itdEFQUu1kM7wEhSTI-DA.jpeg)
+![](../assets/2c0f9a63b395/1*8itdEFQUu1kM7wEhSTI-DA.jpeg)
 
 
 
-![](assets/2c0f9a63b395/1*pMtPyHbbWlSb3AAazKKnGg.jpeg)
+![](../assets/2c0f9a63b395/1*pMtPyHbbWlSb3AAazKKnGg.jpeg)
 
 
 The Lithuanian parliament passed a bill allowing for the detention of people on the move entering the country for six months in July 2021\. In December 2021, they extended this detention time to 12 months\. The law also stipulates that migrants can be deported even if their appeal is still being considered\.

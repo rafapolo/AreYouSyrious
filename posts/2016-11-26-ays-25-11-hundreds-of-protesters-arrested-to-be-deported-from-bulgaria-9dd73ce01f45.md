@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,bulgaria,refugee-camps,serbia]
 description: In the aftermath of yesterday’s riots in Harmanli, the Bulgarian Prime Minister vows to detain and deport 1,000 people. Many people injured…
 image:
-  path: assets/9dd73ce01f45/1*eo3du430r54ZNTqP0JBMHw.jpeg
+  path: ../assets/9dd73ce01f45/1*eo3du430r54ZNTqP0JBMHw.jpeg
 ---
 
 ### AYS 25/11 Hundreds of protesters arrested, to be deported from Bulgaria
 #### In the aftermath of yesterday’s riots in Harmanli, the Bulgarian Prime Minister vows to detain and deport 1,000 people\. Many people injured while trying to jump off the train in the middle of forced deportation from Subotica, Serbia\. Greece mourns the loss of the refugee woman and her grandchild burned alive while trying to cook a family meal in Moria camp\. Important notice about Family Reunification from Greece to Germany\!
 
 
-![Many serious injuries were reported by the refugees in the camp — we chose not to publish gore photos of open wounds\.](assets/9dd73ce01f45/1*eo3du430r54ZNTqP0JBMHw.jpeg)
+![Many serious injuries were reported by the refugees in the camp — we chose not to publish gore photos of open wounds\.](../assets/9dd73ce01f45/1*eo3du430r54ZNTqP0JBMHw.jpeg)
 
 Many serious injuries were reported by the refugees in the camp — we chose not to publish gore photos of open wounds\.
 ### Feature report: Hatred explodes in Bulgaria
@@ -30,7 +30,7 @@ About 400 people have been detained after yesterday’s riots Bulgaria’s large
 #### Notorious Bulgarian “refugee hunter” Dinko Valev also made an appearance in front of the camp today, surrounded by his thugs, threatening the already scared refugees in front of the cameras\.
 
 
-[![Bulgaria: 'Refugee hunter' harasses Yazidi refugee after clashes erupt at Harmanli camp](assets/9dd73ce01f45/c83a_hqdefault.jpg "Bulgaria: 'Refugee hunter' harasses Yazidi refugee after clashes erupt at Harmanli camp")](http://www.youtube.com/watch?v=DQLD4g-DZOg)
+[![Bulgaria: 'Refugee hunter' harasses Yazidi refugee after clashes erupt at Harmanli camp](../assets/9dd73ce01f45/c83a_hqdefault.jpg "Bulgaria: 'Refugee hunter' harasses Yazidi refugee after clashes erupt at Harmanli camp")](http://www.youtube.com/watch?v=DQLD4g-DZOg)
 
 
 According to the Bulgarian police, about 2,000 refugees, most from Afghanistan, were involved in the riots\. The conflict reportedly erupted over the camp being put under quarantine following the outbreak of infectious diseases\. According to local volunteers, scabies, fleas and other diseases have been reported for the last two months, but the authorities chose to ignore these concerns until the locals started threatening and demanding the camp’s closure\. Part of the local media helped to spread the panic about the disease in the camp, which resulted in the anti\-refugee hysteria\.
@@ -38,7 +38,7 @@ According to the Bulgarian police, about 2,000 refugees, most from Afghanistan, 
 [Bordermonitoring Bulgaria](http://bulgaria.bordermonitoring.eu/) says the closing of the camp had already been decided by the government as part of a larger plan to deal with the **permanent ongoing protest by right\-wing parties, neo\-Nazis and their supporters** \. According to their info, police entered some buildings in the middle of the riot, and were physically violent, including towards people who were not involved in the riot\. According to volunteers sources, when the beatings started, it was almost impossible to get any camp official on the phone\. **Ambulances didn’t arrive immediately, so the people had to use whatever they had, even dirty cloths, to prevent bleeding all over the camp\.** Additionally many people were afraid to go to the ambulance because they feared more abuse might happen\. It has also been reported that the police used rubber bullets and water cannons to disperse the crowd of protesters, some of whom were throwing stones\.
 
 
-[![Riot in Bulgaria. Migrants attacked police](assets/9dd73ce01f45/7760_hqdefault.jpg "Riot in Bulgaria. Migrants attacked police")](http://www.youtube.com/watch?v=MNY59jQ2mfw)
+[![Riot in Bulgaria. Migrants attacked police](../assets/9dd73ce01f45/7760_hqdefault.jpg "Riot in Bulgaria. Migrants attacked police")](http://www.youtube.com/watch?v=MNY59jQ2mfw)
 
 
 According to [Reuters](http://www.reuters.com/article/us-europe-migrants-bulgaria-idUSKBN13K15A?il=0) , Harmanli was heavily guarded by 250 riot police today\. The Bulgarian Defense Ministry says it is sending around sixty army troops to support them in preventing any further escalation of violence in the camp, which hosts around 3,000 people\. Local [press](http://m.novinite.com/articles/177648/Harmanli+Riot+Coordinated+With+Disturbances+in+Europe) says a fence, similar to the one on the border Turkey, will be immediately built around the refugee camp, following the order issued by Prime Minister Borisov on this morning’s emergency meeting\. Deputy Prime Minister Tomislav Donchev will coordinate the construction on\-site\.
@@ -76,7 +76,7 @@ This incident comes in the wake of the Serbian government’s decision to move a
 On the Northern border with Hungary, there are two transit zones \(Kelebija/Tompa and Horgos/Roszke\) which are not recognised as official camps and are best described as smaller versions of Idomeni\. Some of the people residing in them are offered relocation to official camps, but they are afraid to leave the border because they don’t want to lose their place in the ridiculously organised system of accepting fifteen \(recently changed to ten\) people per day in each of the two transit zones\. The decision on who gets to cross is quite arbitrary, based on a list which was managed by refugee representatives\. Prime placement on the list has been sold for bribes, and the rightful individuals are often disregarded in favor of someone else\.
 
 
-![Hundreds are waiting around Kelebija and Horgos transit zones\. Photo: Sara Bencekovic, AYS in Kelebija](assets/9dd73ce01f45/1*PJnqulO3Ws6k9Q3EtJytQg.jpeg)
+![Hundreds are waiting around Kelebija and Horgos transit zones\. Photo: Sara Bencekovic, AYS in Kelebija](../assets/9dd73ce01f45/1*PJnqulO3Ws6k9Q3EtJytQg.jpeg)
 
 Hundreds are waiting around Kelebija and Horgos transit zones\. Photo: Sara Bencekovic, AYS in Kelebija
 
@@ -91,7 +91,7 @@ Official camps in western Serbia continue to shelter close to 2,000 refugees, ma
 In the government’s attempt to accommodate around 7,500 refugees that are currently in Serbia, the government is investing in new camps, which often lack basic infrastructure\. At the moment, there are 12 officially recognised refugee facilities, with more \(such as Pirot\) in the making\. The once\-notorious Krnjaca camp near Belgrade was recently redecorated and it seems much more hospitable now\. However, people don’t want to go to the camps because they don’t see Serbia as their final destination; most want to continue their trip towards Western Europe by all available means\.
 
 
-![](assets/9dd73ce01f45/1*rihM3qDkcsPR46iT-QmEwA.jpeg)
+![](../assets/9dd73ce01f45/1*rihM3qDkcsPR46iT-QmEwA.jpeg)
 
 #### Volunteers prevented from helping in Belgrade
 
@@ -117,7 +117,7 @@ Even [Info Park](https://www.facebook.com/Info-Park-885932764794322/?fref=ts) , 
 [Refugees Foundation Serbia](https://www.facebook.com/izbegliceusrbiji/?fref=ts) also has a daily drop\-in centre, mainly for kids who come all the way from Krnjača camp in order to attend their workshops\. They will soon introduce Serbian language lessons\.
 
 
-![Refugee children playing in Refugees Foundation Serbia daily drop\-in centre in Belgrade\. Photo: RFS](assets/9dd73ce01f45/1*2yD2NfNXqOGSZYUXmWnaWg.jpeg)
+![Refugee children playing in Refugees Foundation Serbia daily drop\-in centre in Belgrade\. Photo: RFS](../assets/9dd73ce01f45/1*2yD2NfNXqOGSZYUXmWnaWg.jpeg)
 
 Refugee children playing in Refugees Foundation Serbia daily drop\-in centre in Belgrade\. Photo: RFS
 #### Illegal push\-backs, detention in Southern Serbia
@@ -129,7 +129,7 @@ With buses and trains of forcefully relocated people arriving almost daily, Pres
 Both the refugee and volunteer communities are still in shock in the wake of yesterday’s tragic incident in Moria camp\. After the gas canister they used for cooking exploded, a grandmother and her grandson were killed on the spot, while the mother and another child were seriously burnt and transferred to the hospital in Athens\. According to the volunteers, at least ten more people were injured, among them several children\. Witnesses of the tragedy were left heavily traumatised, while others responded in anger, triggering more riots in the already tense atmosphere of the camp\.
 
 
-![Tragedy happened in the overpopulated Moria camp, which is no place for victims of war and poverty\.](assets/9dd73ce01f45/1*P6IswID4aMQc2sbPiiL6zA.jpeg)
+![Tragedy happened in the overpopulated Moria camp, which is no place for victims of war and poverty\.](../assets/9dd73ce01f45/1*P6IswID4aMQc2sbPiiL6zA.jpeg)
 
 Tragedy happened in the overpopulated Moria camp, which is no place for victims of war and poverty\.
 
@@ -162,7 +162,7 @@ The letter needs to contain valid address of the family members in Germany, name
 Please [click here](https://drive.google.com/drive/folders/0B5eHzYChsokiVTNmdm5VUEx6c00) to find \.pdf files that list all of the available services in Victoria Square in Athens, in English, Arabic, Farsi and Urdu\.
 
 
-![](assets/9dd73ce01f45/1*SgdmwTlCiAiaVssnO1undg.jpeg)
+![](../assets/9dd73ce01f45/1*SgdmwTlCiAiaVssnO1undg.jpeg)
 
 #### France
 ### Refugees are back on the streets of Paris

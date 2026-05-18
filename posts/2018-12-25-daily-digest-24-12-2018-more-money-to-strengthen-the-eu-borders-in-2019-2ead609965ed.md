@@ -1,5 +1,5 @@
 ---
-title: DAILY DIGEST 24/12/2018: More money to strengthen the EU borders in 2019
+title: "DAILY DIGEST 24/12/2018: More money to strengthen the EU borders in 2019"
 author: Are You Syrious?
 date: 2018-12-25T17:03:51.134+0000
 last_modified_at: 2018-12-25T17:03:51.134+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [refugees,digest,european-commission,greece,austria]
 description: Are You Syrious?
 image:
-  path: assets/2ead609965ed/1*K-1iKChsb_n38Vcib5UeUg.jpeg
+  path: ../assets/2ead609965ed/1*K-1iKChsb_n38Vcib5UeUg.jpeg
 ---
 
 ### DAILY DIGEST 24/12/2018: More money to strengthen the EU borders in 2019
 
 
-![](assets/2ead609965ed/1*Tx1u1RSutf5fWmPbOOmJVA.jpeg)
+![](../assets/2ead609965ed/1*Tx1u1RSutf5fWmPbOOmJVA.jpeg)
 
 
 [Are You Syrious?](https://medium.com/@AreYouSyrious?source=post_header_lockup)
@@ -23,7 +23,7 @@ Dec 25
 _European Commission plans to strengthen border surveillance in member countries // Children and border violence // People are still dying in Afghanistan // New Turkish military offensive in Syria // About 70,000 asylum seekers registered in Greece // Austria considers denying asylum to anyone who used smugglers to get to Europe_
 
 
-![By Gabriel Tizon\.](assets/2ead609965ed/1*K-1iKChsb_n38Vcib5UeUg.jpeg)
+![By Gabriel Tizon\.](../assets/2ead609965ed/1*K-1iKChsb_n38Vcib5UeUg.jpeg)
 
 By Gabriel Tizon\.
 ### Feature
@@ -80,7 +80,7 @@ During this year we have been reporting extensively, together with many other gr
 Decongestion, which the Greek government has been promising for months now, is happening really slowly and with no real impact on the quality of life for people on the islands, especially Lesvos, Samos and Chios\.
 
 
-![After another landing in Chios\. Photo by Emma Vagabond Roberts](assets/2ead609965ed/1*5RsuH2QOkV92yKTeoSBEwg.jpeg)
+![After another landing in Chios\. Photo by Emma Vagabond Roberts](../assets/2ead609965ed/1*5RsuH2QOkV92yKTeoSBEwg.jpeg)
 
 After another landing in Chios\. Photo by Emma Vagabond Roberts
 

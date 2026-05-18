@@ -1,13 +1,13 @@
 ---
-title: AYS News Digest 6.12.2021: Lethal fencing threatens lives in Poland
+title: "AYS News Digest 6.12.2021: Lethal fencing threatens lives in Poland"
 author: Are You Syrious?
 date: 2021-12-09T19:18:25.462+0000
 last_modified_at: 2021-12-09T19:18:25.462+0000
 categories: Are You Syrious?
 tags: [digest,human-rights,pope]
-description: Video Response to Libya UNHCR statement // Hungarian PM ‘ready to battle’ new German government // Comments from the ground: Pope’s visit…
+description: "Video Response to Libya UNHCR statement // Hungarian PM ‘ready to battle’ new German government // Comments from the ground: Pope’s visit…"
 image:
-  path: assets/d4599630dea6/0*lrLm4OCiqMdSUQ8I
+  path: ../assets/d4599630dea6/0*lrLm4OCiqMdSUQ8I
 ---
 
 ### AYS News Digest 6\.12\.2021: Lethal fencing threatens lives in Poland
@@ -17,7 +17,7 @@ image:
 #### Lethal fencing threatens lives in Poland
 
 
-![Photo Credit: Photo by [Антон Дмитриев](https://unsplash.com/@ehmitrich?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/razor-wire?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](assets/d4599630dea6/0*lrLm4OCiqMdSUQ8I)
+![Photo Credit: Photo by [Антон Дмитриев](https://unsplash.com/@ehmitrich?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/razor-wire?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](../assets/d4599630dea6/0*lrLm4OCiqMdSUQ8I)
 
 Photo Credit: Photo by [Антон Дмитриев](https://unsplash.com/@ehmitrich?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/razor-wire?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
@@ -30,7 +30,7 @@ Troops from Estonia have assisted Polish forces in repairing fences in the borde
 Further to the UNHCR Statement, as shared in the [AYS Special](special-from-libya-protests-in-tripoli-against-a-system-made-to-cause-suffering-77a6ce5ffc6) this week, this speech from the people affected in Libya has been posted\.
 
 
-[![Refugees in Libya after Cavalieri's, UNHCR Head Of Mission in Libya, statement.](assets/d4599630dea6/b880_hqdefault.jpg "Refugees in Libya after Cavalieri's, UNHCR Head Of Mission in Libya, statement.")](https://www.youtube.com/watch?v=L2RB27V18Cw)
+[![Refugees in Libya after Cavalieri's, UNHCR Head Of Mission in Libya, statement.](../assets/d4599630dea6/b880_hqdefault.jpg "Refugees in Libya after Cavalieri's, UNHCR Head Of Mission in Libya, statement.")](https://www.youtube.com/watch?v=L2RB27V18Cw)
 
 #### BOSNIA HERZEGOVINA
 
@@ -55,7 +55,7 @@ News of human rights violations comes from the Spanish enclave of Melilla\. [Thr
 #### Frontex plane only symbolic: Calais policy hasn’t changed
 
 
-![Photo Credit: [Screenshot from ads\-b\.nl for the flight on December 6, 2021\.](https://calais.bordermonitoring.eu/2021/12/06/kein-kurswechsel-in-sicht/?fbclid=IwAR3pEE1wV7rYIay7gIoZP9HfGOeHLhQmQhJ_ZguN-PRo-aVffmoWIt6PwKQ)](assets/d4599630dea6/0*5w64bUAEoTXEyFQP)
+![Photo Credit: [Screenshot from ads\-b\.nl for the flight on December 6, 2021\.](https://calais.bordermonitoring.eu/2021/12/06/kein-kurswechsel-in-sicht/?fbclid=IwAR3pEE1wV7rYIay7gIoZP9HfGOeHLhQmQhJ_ZguN-PRo-aVffmoWIt6PwKQ)](../assets/d4599630dea6/0*5w64bUAEoTXEyFQP)
 
 Photo Credit: [Screenshot from ads\-b\.nl for the flight on December 6, 2021\.](https://calais.bordermonitoring.eu/2021/12/06/kein-kurswechsel-in-sicht/?fbclid=IwAR3pEE1wV7rYIay7gIoZP9HfGOeHLhQmQhJ_ZguN-PRo-aVffmoWIt6PwKQ)
 
@@ -64,7 +64,7 @@ Frontex is accused of only symbolically contributing to the safety of people in 
 #### Boat driver jailed in UK
 
 
-![Photo Credit: Hammad Al Shamari, via [Twitter](https://twitter.com/SimonJonesNews/status/1467931616760762373?fbclid=IwAR0IZ_Xa-vOhXtfDkABD9riVciFJE5aT1XbMGwO6pWGMG4RiCEaunMWGEfw)](assets/d4599630dea6/0*Av-Smnyqb50pL6fe)
+![Photo Credit: Hammad Al Shamari, via [Twitter](https://twitter.com/SimonJonesNews/status/1467931616760762373?fbclid=IwAR0IZ_Xa-vOhXtfDkABD9riVciFJE5aT1XbMGwO6pWGMG4RiCEaunMWGEfw)](../assets/d4599630dea6/0*Av-Smnyqb50pL6fe)
 
 Photo Credit: Hammad Al Shamari, via [Twitter](https://twitter.com/SimonJonesNews/status/1467931616760762373?fbclid=IwAR0IZ_Xa-vOhXtfDkABD9riVciFJE5aT1XbMGwO6pWGMG4RiCEaunMWGEfw)
 

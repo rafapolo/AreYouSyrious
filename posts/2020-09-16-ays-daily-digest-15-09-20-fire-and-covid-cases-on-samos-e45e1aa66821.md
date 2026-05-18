@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [greece,refugees,balkans,moria]
 description: Updates on Moria // shipwreck off Libya // Germany to take in more people from all 5 islands // Lithuania refuses to take in people from…
 image:
-  path: assets/e45e1aa66821/0*S6mF6XwJrWt_qSFJ.jpeg
+  path: ../assets/e45e1aa66821/0*S6mF6XwJrWt_qSFJ.jpeg
 ---
 
 ### AYS Daily Digest 15/09/20 Fire and COVID cases on Samos
@@ -15,11 +15,11 @@ image:
 _Updates on Moria // shipwreck off Libya // Germany to take in more people from all 5 islands // Lithuania refuses to take in people from Greece // new asylum suggestions in Sweden // and more…_
 
 
-![](assets/e45e1aa66821/0*XPqu-hbtmQi37ju6)
+![](../assets/e45e1aa66821/0*XPqu-hbtmQi37ju6)
 
 
 
-![](assets/e45e1aa66821/0*S6mF6XwJrWt_qSFJ.jpeg)
+![](../assets/e45e1aa66821/0*S6mF6XwJrWt_qSFJ.jpeg)
 
 ### Fire and COVID\-19 in Vathy camp on Samos
 
@@ -78,11 +78,11 @@ Finally, [**Malta and Italy**](https://thecivilfleet.wordpress.com/2020/09/15/ma
 
 
 
-![](assets/e45e1aa66821/0*FKQprQe0ZDtXlxon)
+![](../assets/e45e1aa66821/0*FKQprQe0ZDtXlxon)
 
 
 
-![](assets/e45e1aa66821/0*lsEF8D76bjSIh87T.jpeg)
+![](../assets/e45e1aa66821/0*lsEF8D76bjSIh87T.jpeg)
 
 
 **GREEK GOVERNMENT PLANS:** What are [the government’s plans](https://www.ekathimerini.com/256922/article/ekathimerini/news/government-concerned-other-migrant-camps-may-follow-moria-suit?fbclid=IwAR09kc16JxAq2hx4BK8Z136G7c6ArLYtFEBwfojBzb9-xZkTtrI1f1fTGVQ) to address this tragedy?
@@ -106,11 +106,11 @@ The government does not want to evacuate everyone from Moria, for fear that it w
 **WAYS TO HELP** : Please support Menstrual hygiene for Lesvos — a project of Feminist Support Lesvos\. Their goal is to provide more menstrual hygiene products for those in need, especially considering the severe lack of access to running water and other hygiene needs/services right now\. Find out more [here](https://www.betterplace.org/en/projects/84301-menstrualhygiene-for-lesvos?fbclid=IwAR3FQGgk9bMaQwAcG3wwfvM45PTZ4iP9hNeWy4twLElOpnx4N7dRrAZ947s) \.
 
 
-![](assets/e45e1aa66821/0*XnHUtB4KFZvLK6rx)
+![](../assets/e45e1aa66821/0*XnHUtB4KFZvLK6rx)
 
 
 
-![](assets/e45e1aa66821/0*R0niXkw6rQL-hfss.png)
+![](../assets/e45e1aa66821/0*R0niXkw6rQL-hfss.png)
 
 
 **PLEASE READ THIS FROM A PROMINENT LEGAL SCHOLAR:** [“At the End of Strength: Asylum policy after the fire in Moria, Europe is losing its conscience, writes legal scholar Dana Schmalz\.”](https://www.freitag.de/autoren/der-freitag/am-ende-der-kraft?fbclid=IwAR3Yjh3OyEvFqmA8QHB2RblvcLpDTqtHS_lgWweHm26nXBQTWfYwdmHwt9I)
@@ -125,27 +125,27 @@ On Monday, 5 people were handed over to the Slovenian authorities after crossing
 ### BALKANS
 
 
-![](assets/e45e1aa66821/0*f8K9C9HBqCkiOYiT)
+![](../assets/e45e1aa66821/0*f8K9C9HBqCkiOYiT)
 
 
 
-![](assets/e45e1aa66821/0*beUsWB9bsaHJknh4.jpeg)
+![](../assets/e45e1aa66821/0*beUsWB9bsaHJknh4.jpeg)
 
 
 
-![](assets/e45e1aa66821/0*RWMNCO7KS8ulnvyp)
+![](../assets/e45e1aa66821/0*RWMNCO7KS8ulnvyp)
 
 
 
-![](assets/e45e1aa66821/0*-XosdcV3X7TrJNDP.jpeg)
+![](../assets/e45e1aa66821/0*-XosdcV3X7TrJNDP.jpeg)
 
 
 
-![](assets/e45e1aa66821/0*NX2TXPqsA_BBuatL)
+![](../assets/e45e1aa66821/0*NX2TXPqsA_BBuatL)
 
 
 
-![](assets/e45e1aa66821/0*-H-brTI4-xsHXcuj.jpeg)
+![](../assets/e45e1aa66821/0*-H-brTI4-xsHXcuj.jpeg)
 
 ### GERMANY
 ### Spiegel is reporting that the German government will take in 1,553 additional refugees from the 5 Greek islands
@@ -224,22 +224,22 @@ Read their whole critic and thoughts [here](https://sweref.org/forslagen-till-ny
 ### UK
 
 
-![](assets/e45e1aa66821/0*KGwtidSwmZk1moq8)
+![](../assets/e45e1aa66821/0*KGwtidSwmZk1moq8)
 
 
 
-![](assets/e45e1aa66821/0*0o3ovf1TKKgoPbAm.jpeg)
+![](../assets/e45e1aa66821/0*0o3ovf1TKKgoPbAm.jpeg)
 
 
 The Guardian is reporting that _“ **the government is planning to “opt out” of parts of the European convention on human rights in order to speed up deportations of asylum seekers** and protect British troops serving overseas from legal action\. The proposals are being coordinated by Downing Street aides\. They are intended to rule out claims in areas where judges have supposedly “overreached” their powers\. The restrictions, according to the Sunday Telegraph, could pre­vent mi­grants and asylum seek­ers from us­ing the leg­is­la­tion to avoid being removed from the UK and to shield Bri­tish sol­diers against claims following over­seas op­er­a­tions\.”_ Learn more [here](https://www.theguardian.com/law/2020/sep/13/uk-government-plans-to-remove-key-human-rights-protections?fbclid=IwAR2RghD6u-Icn5KmO9TSPOGe9p59vz5VqUfjRw9n1YD-hx3GFbcg9JPynUM) \.
 ### GENERAL
 
 
-![](assets/e45e1aa66821/0*-Ong5NuFD5WPdExi)
+![](../assets/e45e1aa66821/0*-Ong5NuFD5WPdExi)
 
 
 
-![](assets/e45e1aa66821/0*Oo2iC4saSfLx7D4b.jpeg)
+![](../assets/e45e1aa66821/0*Oo2iC4saSfLx7D4b.jpeg)
 
 
 **Find daily updates and special reports on our Medium page\.** 

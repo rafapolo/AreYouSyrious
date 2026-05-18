@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 05/11/18: Ventimiglia echoes Balkan route issues
+title: "AYS Daily Digest 05/11/18: Ventimiglia echoes Balkan route issues"
 author: Are You Syrious?
 date: 2018-11-06T11:37:48.752+0000
 last_modified_at: 2018-11-06T13:55:34.676+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,italy,greece]
 description: Overwhelming work of the volunteer in the Ventimiglia area / African embassies in Morocco ignoring duties to help families of deceased…
 image:
-  path: assets/a61743f055c5/1*LtnvKSvDvmsgmR5w_QBemQ.jpeg
+  path: ../assets/a61743f055c5/1*LtnvKSvDvmsgmR5w_QBemQ.jpeg
 ---
 
 ### AYS Daily Digest 05/11/18: Ventimiglia echoes Balkan route issues
 #### Overwhelming work of the volunteers in the Ventimiglia area / African embassies in Morocco ignoring their duty to help families of deceased refugees / Worrying conditions for refugees in Greece and Bosnia and Herzegovina ahead of winter / sketchy details of the initial migration compromise deal between Greece and Germany / **19,755** people in need of international protection currently staying on Greek islands / UK: protest announced in front of the detention centre Yarl’s Wood / more news
 
 
-![Spanish civil guard preventing crossings from Morocco — Photo source: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?tn-str=k%2AF&hc_location=group_dialog) , author not stated](assets/a61743f055c5/1*LtnvKSvDvmsgmR5w_QBemQ.jpeg)
+![Spanish civil guard preventing crossings from Morocco — Photo source: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?tn-str=k%2AF&hc_location=group_dialog) , author not stated](../assets/a61743f055c5/1*LtnvKSvDvmsgmR5w_QBemQ.jpeg)
 
 Spanish civil guard preventing crossings from Morocco — Photo source: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?tn-str=k%2AF&hc_location=group_dialog) , author not stated
 #### FEATURE
@@ -46,7 +46,7 @@ The practice of the Lebanese government of returning Syrian refugees to Syria ha
 [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?tn-str=k%2AF) reports that the families of missing and deceased refugees encounter a lot of difficulties when trying to find out the whereabouts of their loved ones or when they want to transport the body of a deceased family member back home\. According to the AMDH team, the embassies of the Sub\-Saharan countries involved make no effort in helping with this issue\.
 
 
-![Photo: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?tn-str=k%2AF)](assets/a61743f055c5/1*XH22QliTAZGGrtF_QjYc_A.jpeg)
+![Photo: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?tn-str=k%2AF)](../assets/a61743f055c5/1*XH22QliTAZGGrtF_QjYc_A.jpeg)
 
 Photo: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?tn-str=k%2AF)
 
@@ -58,11 +58,11 @@ Photo: [Association Marocaine des Droits Humains — Section Nador](https://www.
 
 
 
-![](assets/a61743f055c5/1*_abM7ox4jm-r_0eMiBFTZg.jpeg)
+![](../assets/a61743f055c5/1*_abM7ox4jm-r_0eMiBFTZg.jpeg)
 
 
 
-![They warn of many disappearances, including these two girls who went missing in October\. Any information on their whereabouts should be forwarded to the [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?tn-str=k%2AF) team](assets/a61743f055c5/1*EufidR6jWSo9VmHFeeLzjA.jpeg)
+![They warn of many disappearances, including these two girls who went missing in October\. Any information on their whereabouts should be forwarded to the [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?tn-str=k%2AF) team](../assets/a61743f055c5/1*EufidR6jWSo9VmHFeeLzjA.jpeg)
 
 They warn of many disappearances, including these two girls who went missing in October\. Any information on their whereabouts should be forwarded to the [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?tn-str=k%2AF) team
 
@@ -103,7 +103,7 @@ According to the latest national statistics of the Ministry of Citizen Protectio
 C\.E\.S\.R\.T\. identifies one of the main problems, that of a swamp\-like area with still waters that pose a threat of epidemics and various diseases\. They have decided to place gravel and create a ditch for water\.
 
 
-![Photo source and credits: C\.E\.S\.R\.T\. / [www\.politischios\.gr](http://www.politischios.gr)](assets/a61743f055c5/1*twywLzKN8cZlZlDIu8F-ew.jpeg)
+![Photo source and credits: C\.E\.S\.R\.T\. / [www\.politischios\.gr](http://www.politischios.gr)](../assets/a61743f055c5/1*twywLzKN8cZlZlDIu8F-ew.jpeg)
 
 Photo source and credits: C\.E\.S\.R\.T\. / [www\.politischios\.gr](http://www.politischios.gr)
 
@@ -120,12 +120,12 @@ As we wrote before, on the Greek islands, the educational situation is particula
 [Mobile Info Team for refugees in Greece — الفريق المتنقل لمعلومات اللاجئين](https://www.facebook.com/mobileinfoteam/?__tn__=%2CdkCH-R-R&eid=ARBHDVjeYo4SD97UEUXiSpbHoXXVAnCZIdd4vBWv9Fh3khLBQWdtOzwbMDcmme7nt0PMY1fGySdqLIwm&hc_ref=ART4Q0PN1BNJpADDsI5obo0t1eZvdV2qVhnyYN3_QlKHkQoUGQ35iNA4lqOXkp0foqk&fref=nf) points out that in order to be able to work in another European country, you must obtain a working visa\. Every country has different requirements for this\. So you first need to check if you are able to meet the requirements for a working visa in the country you want to work in\. For example, some countries require that you already have a signed job contract, proof of a accommodation where you will stay, or proof of skills in the country’s language\. If you have higher qualifications, like a university degree, your chances might increase\. When you are sure you meet the criteria and you have all the required documents, you can apply for an appointment with the embassy or consulate of the country you want to work in\. The processing time for a working visa is normally between 6 and 12 weeks after all documents are handed over\. If you are able to get a working permit, it is in most cases valid for one year, with the possibility of renewal\.
 
 
-![Creative reuse fashion workshop’s team needs contribution — [Victoria Square Project](https://www.facebook.com/VictoriaSquareProject/?tn-str=k%2AF)](assets/a61743f055c5/1*O5XiNpTQ_DVs6xJF8KqdWA.jpeg)
+![Creative reuse fashion workshop’s team needs contribution — [Victoria Square Project](https://www.facebook.com/VictoriaSquareProject/?tn-str=k%2AF)](../assets/a61743f055c5/1*O5XiNpTQ_DVs6xJF8KqdWA.jpeg)
 
 Creative reuse fashion workshop’s team needs contribution — [Victoria Square Project](https://www.facebook.com/VictoriaSquareProject/?tn-str=k%2AF)
 
 
-![](assets/a61743f055c5/1*Ughm4LquO0l9DhUCBUMSsQ.png)
+![](../assets/a61743f055c5/1*Ughm4LquO0l9DhUCBUMSsQ.png)
 
 ### Arrangement between Greece and Germany: A tale of “paraDublin activity”
 
@@ -137,7 +137,7 @@ Some of the people on the move seem to have found ways to move towards the part 
 
 
 ![“People on the move arriving in Bosnia are often badly prepared for the weather conditions they find in the country\. Every day we meet people in the streets in only a t\-shirt and shorts\. As temperatures are dropping more and more, warm clothes are crucial and the needs are increasing\.
-Thanks to the never\-ending stock of the local charity [Pomozi\.ba](https://www.facebook.com/pomozi.ba/?__tn__=%2CdKH-R-R&eid=ARBY_a-ZwMsS6-h0p3dTialUaxf790izWZLmN3aZen6U6E5vo23rad-WxI180GzmxLu9M46PYnqvyhnl&fref=mentions&hc_location=group) , we are able to distribute warm sweaters and jackets during our daily evening distributions\. Additionally, on shower days, people can exchange their shirt and pants, or give their personal laundry to us\. The amounts of humble thank you’s we’re receiving shows us how appreciated this is\.” — [BASIS Bosnia](https://www.facebook.com/BASIS-Bosnia-1487914718006023/?__tn__=%2CdkCH-R-R&eid=ARDISNGvzO7rFFLcxkc_wb70AekeH8AqBXHoVsLPuYQe0Laeg7XKL_1q59mzTG3DLNoCVDtLj-Ouy3oX&hc_ref=ARQw3DvlgIkOvmTLedFMMEwyMTqPpFr6P419pZrWhmfZz8MqVb4j45azFuGTxe_xaUU&fref=nf&hc_location=group)](assets/a61743f055c5/1*J_lQHky41u3UPZmXaa4fsw.jpeg)
+Thanks to the never\-ending stock of the local charity [Pomozi\.ba](https://www.facebook.com/pomozi.ba/?__tn__=%2CdKH-R-R&eid=ARBY_a-ZwMsS6-h0p3dTialUaxf790izWZLmN3aZen6U6E5vo23rad-WxI180GzmxLu9M46PYnqvyhnl&fref=mentions&hc_location=group) , we are able to distribute warm sweaters and jackets during our daily evening distributions\. Additionally, on shower days, people can exchange their shirt and pants, or give their personal laundry to us\. The amounts of humble thank you’s we’re receiving shows us how appreciated this is\.” — [BASIS Bosnia](https://www.facebook.com/BASIS-Bosnia-1487914718006023/?__tn__=%2CdkCH-R-R&eid=ARDISNGvzO7rFFLcxkc_wb70AekeH8AqBXHoVsLPuYQe0Laeg7XKL_1q59mzTG3DLNoCVDtLj-Ouy3oX&hc_ref=ARQw3DvlgIkOvmTLedFMMEwyMTqPpFr6P419pZrWhmfZz8MqVb4j45azFuGTxe_xaUU&fref=nf&hc_location=group)](../assets/a61743f055c5/1*J_lQHky41u3UPZmXaa4fsw.jpeg)
 
 “People on the move arriving in Bosnia are often badly prepared for the weather conditions they find in the country\. Every day we meet people in the streets in only a t\-shirt and shorts\. As temperatures are dropping more and more, warm clothes are crucial and the needs are increasing\.
 Thanks to the never\-ending stock of the local charity [Pomozi\.ba](https://www.facebook.com/pomozi.ba/?__tn__=%2CdKH-R-R&eid=ARBY_a-ZwMsS6-h0p3dTialUaxf790izWZLmN3aZen6U6E5vo23rad-WxI180GzmxLu9M46PYnqvyhnl&fref=mentions&hc_location=group) , we are able to distribute warm sweaters and jackets during our daily evening distributions\. Additionally, on shower days, people can exchange their shirt and pants, or give their personal laundry to us\. The amounts of humble thank you’s we’re receiving shows us how appreciated this is\.” — [BASIS Bosnia](https://www.facebook.com/BASIS-Bosnia-1487914718006023/?__tn__=%2CdkCH-R-R&eid=ARDISNGvzO7rFFLcxkc_wb70AekeH8AqBXHoVsLPuYQe0Laeg7XKL_1q59mzTG3DLNoCVDtLj-Ouy3oX&hc_ref=ARQw3DvlgIkOvmTLedFMMEwyMTqPpFr6P419pZrWhmfZz8MqVb4j45azFuGTxe_xaUU&fref=nf&hc_location=group)
@@ -162,15 +162,15 @@ In a dormitory on the provincial road to San Vito, an African community was offi
 ### Paris
 
 
-![](assets/a61743f055c5/1*LVtMTO60ozGYM8p3Jen-XA.jpeg)
+![](../assets/a61743f055c5/1*LVtMTO60ozGYM8p3Jen-XA.jpeg)
 
 
 
-![](assets/a61743f055c5/1*C2215MAIr3BtoQTo04Y8aw.jpeg)
+![](../assets/a61743f055c5/1*C2215MAIr3BtoQTo04Y8aw.jpeg)
 
 
 
-![More and more young people come to meals, ask questions and take advantage of this pleasant time when every volunteer is listening and ready to help… the 10 liters of tea were distributed in 20 minutes … as well as boiled eggs, fruits, bread, sweets … — Photos: [SAJE soutien et accompagnement des jeunes en exil](https://www.facebook.com/lesajeparis/?tn-str=k%2AF&hc_location=group_dialog)](assets/a61743f055c5/1*wAETcMSMVKIerZZW-Pq-iA.jpeg)
+![More and more young people come to meals, ask questions and take advantage of this pleasant time when every volunteer is listening and ready to help… the 10 liters of tea were distributed in 20 minutes … as well as boiled eggs, fruits, bread, sweets … — Photos: [SAJE soutien et accompagnement des jeunes en exil](https://www.facebook.com/lesajeparis/?tn-str=k%2AF&hc_location=group_dialog)](../assets/a61743f055c5/1*wAETcMSMVKIerZZW-Pq-iA.jpeg)
 
 More and more young people come to meals, ask questions and take advantage of this pleasant time when every volunteer is listening and ready to help… the 10 liters of tea were distributed in 20 minutes … as well as boiled eggs, fruits, bread, sweets … — Photos: [SAJE soutien et accompagnement des jeunes en exil](https://www.facebook.com/lesajeparis/?tn-str=k%2AF&hc_location=group_dialog)
 
@@ -179,7 +179,7 @@ Hot meal distribution will be organized for supper on Tuesday, **November 6** , 
 If you can take part, check here: [https://www\.lepotcommun\.fr/pot/tusyjrwc](https://www.lepotcommun.fr/pot/tusyjrwc?fbclid=IwAR0kzaBZ5vbJIp_kWpdnWl1Ip95MppH6_2R6hMJpX3Lo16sWGHPssVFmOQQ) and/or contact the [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__tn__=%2CdkCH-R-R&eid=ARDTFo6mZdRGV9LthXFVpKF6kgSj0rjOGZ3tR9pQm_MTcZ99O_Og2F89gR5ButhplxOVBRXU3tiG3aJ8&hc_ref=ARRrSxtztk5TdQeI4mDKbVAk3eQVxY0SKvbN3_3LKwp-56EeWvhi8tzi_J3sAulG850&fref=nf)
 
 
-![[Chez Jesus — Rifugio Autogestito](https://www.facebook.com/Chez-Jesus-Rifugio-Autogestito-362786637540072/?tn-str=k%2AF)](assets/a61743f055c5/1*5P3hLd4rtnrFo3gVLYvASg.jpeg)
+![[Chez Jesus — Rifugio Autogestito](https://www.facebook.com/Chez-Jesus-Rifugio-Autogestito-362786637540072/?tn-str=k%2AF)](../assets/a61743f055c5/1*5P3hLd4rtnrFo3gVLYvASg.jpeg)
 
 [Chez Jesus — Rifugio Autogestito](https://www.facebook.com/Chez-Jesus-Rifugio-Autogestito-362786637540072/?tn-str=k%2AF)
 #### GERMANY

@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 25/4/22: 541 people arrested by the Libyan authorities — back to detention and…
+title: "AYS News Digest 25/4/22: 541 people arrested by the Libyan authorities — back to detention and…"
 author: Are You Syrious?
 date: 2022-04-27T21:26:52.666+0100
 last_modified_at: 2022-04-27T21:26:52.666+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,libya,europe,borders]
 description: Survivors of a shipwreck facing up to 18 years of prison in Greece / UK facing legal challenges to Rwanda plans / Afghans being sent back…
 image:
-  path: assets/24eb509fb079/0*icQMVM5WJt5irnxJ
+  path: ../assets/24eb509fb079/0*icQMVM5WJt5irnxJ
 ---
 
 ### AYS News Digest 25/4/22: 541 people arrested by the Libyan authorities — back to detention and abuse?
 #### Survivors of a shipwreck facing up to 18 years of prison in Greece / UK facing legal challenges to Rwanda plans / Afghans being sent back to Afghanistan from Belgium / & more news
 
 
-![Photo: [**Refugees In Libya**](https://twitter.com/RefugeesinLibya)](assets/24eb509fb079/0*icQMVM5WJt5irnxJ)
+![Photo: [**Refugees In Libya**](https://twitter.com/RefugeesinLibya)](../assets/24eb509fb079/0*icQMVM5WJt5irnxJ)
 
 Photo: [**Refugees In Libya**](https://twitter.com/RefugeesinLibya)
 #### FEATURE

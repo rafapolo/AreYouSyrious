@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 16–17/12/21: Opposing deportation to Libya is not a crime, Italian high court says
+title: "AYS News Digest 16–17/12/21: Opposing deportation to Libya is not a crime, Italian high court says"
 author: Are You Syrious?
 date: 2021-12-18T16:09:31.507+0000
 last_modified_at: 2021-12-18T16:45:02.044+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,migration,italy,search-and-rescue]
 description: Hundreds rescued at sea // Boat driver successfully sues Greece for damages // Polish aid center raided by police
 image:
-  path: assets/e5836d0308b2/1*nntLi2f-LM6Xi2zvTRWO7Q.jpeg
+  path: ../assets/e5836d0308b2/1*nntLi2f-LM6Xi2zvTRWO7Q.jpeg
 ---
 
 ### AYS News Digest 16–17/12/21: Opposing deportation to Libya is not a crime, Italian high court says
@@ -15,7 +15,7 @@ image:
 ### FEATURE — In historic ruling, Italian supreme court says opposing deportation to Libya is not a crime
 
 
-![The Irish Naval Service rescuing people during Operation Triton in the summer of 2015 off the coast of Libya \(Photo: [Irish Defence Forces, CC\-BY\-20](https://commons.wikimedia.org/wiki/File:LE_Eithne_Operation_Triton_(18833934641).jpg) \)](assets/e5836d0308b2/1*nntLi2f-LM6Xi2zvTRWO7Q.jpeg)
+![The Irish Naval Service rescuing people during Operation Triton in the summer of 2015 off the coast of Libya \(Photo: [Irish Defence Forces, CC\-BY\-20](https://commons.wikimedia.org/wiki/File:LE_Eithne_Operation_Triton_(18833934641).jpg) \)](../assets/e5836d0308b2/1*nntLi2f-LM6Xi2zvTRWO7Q.jpeg)
 
 The Irish Naval Service rescuing people during Operation Triton in the summer of 2015 off the coast of Libya \(Photo: [Irish Defence Forces, CC\-BY\-20](https://commons.wikimedia.org/wiki/File:LE_Eithne_Operation_Triton_(18833934641).jpg) \)
 
@@ -183,7 +183,7 @@ Nous demandons à l’État de respecter les droits fondamentaux des #exilés et
 #### Protest in Paris
 
 
-![](assets/e5836d0308b2/1*kHYZbBR5Gp1KPQGQlYt9zg.jpeg)
+![](../assets/e5836d0308b2/1*kHYZbBR5Gp1KPQGQlYt9zg.jpeg)
 
 
 [More info here\.](https://www.facebook.com/permalink.php?story_fbid=1879040468963383&id=598228360377940)

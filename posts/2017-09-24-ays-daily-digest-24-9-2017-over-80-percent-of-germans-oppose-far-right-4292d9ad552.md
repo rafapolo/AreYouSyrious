@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 24/9/2017: Over 80 percent of Germans oppose far right
+title: "AYS DAILY DIGEST 24/9/2017: Over 80 percent of Germans oppose far right"
 author: Are You Syrious?
 date: 2017-09-24T23:50:20.989+0100
 last_modified_at: 2017-09-25T06:59:12.373+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,germany,afd,antifa,greece]
 description: Protests all over Germany after the ultra right-wing party won over 13 percent votes in the elections // Constant game with numbers in…
 image:
-  path: assets/4292d9ad552/1*GrNfSovBOo5odXtFFqKqEA.jpeg
+  path: ../assets/4292d9ad552/1*GrNfSovBOo5odXtFFqKqEA.jpeg
 ---
 
 ### AYS DAILY DIGEST 24/9/2017: Over 80 percent of Germans oppose far right
@@ -15,7 +15,7 @@ image:
 _Protests all over Germany after the ultra right\-wing party with almost 13 percent votes in the elections // Constant game with numbers in Greece // Locals on islands helping where the governments and big NGOs don’t // Call to Croatian government to act in accordance with the laws and provide protection for asylum seekers // Desperate calls for help from France and Belgium_
 
 
-![Photo [**@** aradio\_berlin](https://twitter.com/aradio_berlin)](assets/4292d9ad552/1*GrNfSovBOo5odXtFFqKqEA.jpeg)
+![Photo [**@** aradio\_berlin](https://twitter.com/aradio_berlin)](../assets/4292d9ad552/1*GrNfSovBOo5odXtFFqKqEA.jpeg)
 
 Photo [**@** aradio\_berlin](https://twitter.com/aradio_berlin)
 ### Feature
@@ -68,7 +68,7 @@ What is interesting is that the most support AfD did not get in the area where t
 However, [an analysis is showing](https://www.theguardian.com/commentisfree/2017/sep/24/germany-elections-afd-europe-immigration-merkel-radical-right?utm_term=Autofeed&CMP=fb_cif#link_time=1506280297) that AfD does not really have real support from citizens, and that 60 percent of their voters voted “against all other parties” and only 34 percent voted for them out of conviction\.
 
 
-![](assets/4292d9ad552/1*61uS8SAI2c6WJaFZb6CV0A.jpeg)
+![](../assets/4292d9ad552/1*61uS8SAI2c6WJaFZb6CV0A.jpeg)
 
 
 Most important — over 8o percent of Germans did not vote for AfD\.
@@ -79,7 +79,7 @@ Meanwhile, people are still arriving at EU, many of them hoping to go to Germany
 [Volunteers are reporting](https://www.facebook.com/boatreportlesvos/?hc_ref=ARRDIgG8il_9Dt-nWomu5_qY_7ovKhVUEGGr0_o_YLB9r-_XW5OubKG9qAZcGbgwWcU&fref=nf) about one boat that landed in the morning at the south of \#Lesvos, in \#Fara, carrying approximately 20 people\. Locals from that area took care of people bringing them to their homes\.
 
 
-![Photo by Boat Report Lesvos\.](assets/4292d9ad552/1*Uzd9CZv64aFx6GwoAt0tCQ.jpeg)
+![Photo by Boat Report Lesvos\.](../assets/4292d9ad552/1*Uzd9CZv64aFx6GwoAt0tCQ.jpeg)
 
 Photo by Boat Report Lesvos\.
 
@@ -149,11 +149,11 @@ AYS will continue to warn about this issue until the asylum seekers experience f
 [Refugee Community Kitchen in Calais](https://www.facebook.com/HelpRefugeesUK/posts/493768214317190) needs your help to buy bread\. Over the last few days, they served over 1000 portions of a hearty Shorba \(Soup\) and fresh bread for lunch\. It is getting colder there, and they need to be able to continue doing this\.
 
 
-![](assets/4292d9ad552/1*uylqxjMObFr16aPuTghn6w.jpeg)
+![](../assets/4292d9ad552/1*uylqxjMObFr16aPuTghn6w.jpeg)
 
 
 
-![](assets/4292d9ad552/1*3HBioA0FydQmLn_sMIVpMA.jpeg)
+![](../assets/4292d9ad552/1*3HBioA0FydQmLn_sMIVpMA.jpeg)
 
 
 If you have any ideas or connections in the bread world, email [refugeecommunitykitchen@gmail\.com](mailto:refugeecommunitykitchen@gmail.com)
@@ -165,7 +165,7 @@ _“Hundreds are living on the streets with few toilets and nothing but the most
 **_Please continue to support those helping in Paris\._**
 
 
-![](assets/4292d9ad552/1*gahhg7Ok42lTbkJwuGo_tw.jpeg)
+![](../assets/4292d9ad552/1*gahhg7Ok42lTbkJwuGo_tw.jpeg)
 
 
 [According to the available reports](https://amp.lepoint.fr/2159217) , there are around 30 mini camps in Paris, that are constantly on the move because of police evictions\. Some people walk 4–5 km a day just to find a place to sleep\.
@@ -174,7 +174,7 @@ _“Hundreds are living on the streets with few toilets and nothing but the most
 This weekend in Brussels, [Care4Calais](https://www.facebook.com/care4calais/posts/1676278382405112) ’ volunteers distributed goodie bags and sleeping bags to more than 100 homeless refugees, including many young people\.
 
 
-![](assets/4292d9ad552/1*vxMNx92JNMOWxwTITl04RQ.jpeg)
+![](../assets/4292d9ad552/1*vxMNx92JNMOWxwTITl04RQ.jpeg)
 
 
 _“Mostly Sudanese, they formed an orderly queue whilst joking and chatting with the team\. A good sense of humor seems as important for surviving life on the streets as a sleeping bag\. The goodie bags contained nuts, dried fruits, tinned fish, cereal bars, water, new socks and woolly hats\.”_

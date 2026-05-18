@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 31/08/17: Humans crushed in the cogs of bureaucracy
+title: "AYS Daily Digest 31/08/17: Humans crushed in the cogs of bureaucracy"
 author: Are You Syrious?
 date: 2017-09-01T05:19:18.142+0100
 last_modified_at: 2017-09-02T10:51:10.884+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees]
 description: Woman in labor on the side of the road in Lesvos highlights failure of “professionalized system” / School enrollment open / Refugee farm…
 image:
-  path: assets/74e99cb399cb/1*xBdz-u6GBkJOydre6Wp6Sw.jpeg
+  path: ../assets/74e99cb399cb/1*xBdz-u6GBkJOydre6Wp6Sw.jpeg
 ---
 
 ### AYS Daily Digest 31/08/17: Humans crushed in the cogs of bureaucracy
@@ -15,7 +15,7 @@ image:
 _Woman in labor on the side of the road in Lesvos highlights failure of “professionalized system” / School enrollment open / Refugee farm doing well / Distribution in camp in Serbia / Refugees enjoy holiday in Hungary / Update on numbers and situation between Libya and Italy / Police still persecuting and pushing around refugees in Paris / And more news…_
 
 
-![Photo credit: [**Severino Proserpio Maspes**](https://www.facebook.com/severino.proserpio) **, Libyan detention**](assets/74e99cb399cb/1*xBdz-u6GBkJOydre6Wp6Sw.jpeg)
+![Photo credit: [**Severino Proserpio Maspes**](https://www.facebook.com/severino.proserpio) **, Libyan detention**](../assets/74e99cb399cb/1*xBdz-u6GBkJOydre6Wp6Sw.jpeg)
 
 Photo credit: [**Severino Proserpio Maspes**](https://www.facebook.com/severino.proserpio) **, Libyan detention**
 ### FEATURE: Humans crushed in the cogs of bureaucracy
@@ -91,14 +91,14 @@ Good luck with the new school year, kids\!
 
 
 
-![Photo Credit: Refugee Village for Freedom](assets/74e99cb399cb/1*FxOX8SE5DSv8zsIkMyINbg.jpeg)
+![Photo Credit: Refugee Village for Freedom](../assets/74e99cb399cb/1*FxOX8SE5DSv8zsIkMyINbg.jpeg)
 
 Photo Credit: Refugee Village for Freedom
 
 Greek police intercepted a smuggler crossing Greece\. In the back of his van, they found a group of mixed nationalities\. They admitted to paying 1,900 euro per head for the journey he was taking them on\. Fortunately, nobody was injured in the capture\. Read more [here](http://www.ekathimerini.com/221274/article/ekathimerini/news/police-bust-human-smuggler-after-chase?fref=gc&dti=1652972374920129) \.
 
 
-![Photo credit: Intervolve, which needs volunteers\. Look them up\!](assets/74e99cb399cb/1*uGMNbx9lMnQIfdzDxTSqyg.jpeg)
+![Photo credit: Intervolve, which needs volunteers\. Look them up\!](../assets/74e99cb399cb/1*uGMNbx9lMnQIfdzDxTSqyg.jpeg)
 
 Photo credit: Intervolve, which needs volunteers\. Look them up\!
 ### SERBIA
@@ -106,7 +106,7 @@ Photo credit: Intervolve, which needs volunteers\. Look them up\!
 Refugee Aid Serbia was able to hold a distribution at Bogovadja camp\. The weather was good enough to permit an outdoor distribution of clothing and hygiene items\. Camps in Serbia are often still dependent upon the donations of outside organizations in order to maintain any basic living standard\. Even then, many report that live in the camps is not nearly as ideal as government reports claim\.
 
 
-![Photo credit: Refugee Aid Serbia](assets/74e99cb399cb/1*tQctZhwgc5OHoFuvC7fkvw.jpeg)
+![Photo credit: Refugee Aid Serbia](../assets/74e99cb399cb/1*tQctZhwgc5OHoFuvC7fkvw.jpeg)
 
 Photo credit: Refugee Aid Serbia
 ### HUNGARY
@@ -177,7 +177,7 @@ The police continues to harass refugees sleeping in st Denis but although some g
 Speaking of tents, the same group \(Paris Refugee Ground Support\) finished their salvage from a festival in Reading, England, yielding a van stuffed to the BRIM with supplies\. We hope that these supplies, which were saved from potentially being sent to the dump\! \! Help ease someone’s life in whatever way possible\. Great work, PRGS\!
 
 
-![Paris Refugee Ground Support tent salvage\!](assets/74e99cb399cb/1*ejsde-z3_GWlMkVgFH0eug.jpeg)
+![Paris Refugee Ground Support tent salvage\!](../assets/74e99cb399cb/1*ejsde-z3_GWlMkVgFH0eug.jpeg)
 
 Paris Refugee Ground Support tent salvage\!
 

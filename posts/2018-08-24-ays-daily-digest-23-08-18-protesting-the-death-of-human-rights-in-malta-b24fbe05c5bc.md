@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 23/08/18: Protesting “the death of human rights” in Malta
+title: "AYS Daily Digest 23/08/18: Protesting “the death of human rights” in Malta"
 author: Are You Syrious?
 date: 2018-08-24T05:42:13.041+0100
 last_modified_at: 2018-08-24T20:01:45.419+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,malta,libya,lesvos,dunkirk]
 description: Effects of the literal darkness of Libyan detention centers / Diciotti ship blocked in Italy for third day / Women in danger on Lesvos /…
 image:
-  path: assets/b24fbe05c5bc/1*QNS2YMUhO99W2yClXyBj-g.jpeg
+  path: ../assets/b24fbe05c5bc/1*QNS2YMUhO99W2yClXyBj-g.jpeg
 ---
 
 ### AYS Daily Digest 23/08/18: Protesting “the death of human rights” in Malta
@@ -18,11 +18,11 @@ _Effects of the literal darkness of Libyan detention centers / [Diciotti](https:
 In protesting the “death of human rights in Malta” [crew members of MV Lifeline and Sea\-Watch 3](https://www.maltatoday.com.mt/news/national/88995/symbolic_funeral_in_valletta_accompanies_lifeline_captain_to_court#.W39gF-hKg2x) carried a coffin from Castille Square to the court building in Valletta on Thursday\. The coffin was draped in a EU flag\. Their Captain Claus\-Peter Reisch has charges against him for improper ship registration\. It is registered as a pleasure craft in the Netherlands and therefore, the claim is made, it cannot serve on a rescue mission\.
 
 
-![](assets/b24fbe05c5bc/1*QNS2YMUhO99W2yClXyBj-g.jpeg)
+![](../assets/b24fbe05c5bc/1*QNS2YMUhO99W2yClXyBj-g.jpeg)
 
 
 
-![Photos by [James Bianchi/MaltaToday](https://www.maltatoday.com.mt/news/national/88995/symbolic_funeral_in_valletta_accompanies_lifeline_captain_to_court#.W39mcuhKg2x)](assets/b24fbe05c5bc/1*-n3T86_nPXwFBDqiIygVhw.jpeg)
+![Photos by [James Bianchi/MaltaToday](https://www.maltatoday.com.mt/news/national/88995/symbolic_funeral_in_valletta_accompanies_lifeline_captain_to_court#.W39mcuhKg2x)](../assets/b24fbe05c5bc/1*-n3T86_nPXwFBDqiIygVhw.jpeg)
 
 Photos by [James Bianchi/MaltaToday](https://www.maltatoday.com.mt/news/national/88995/symbolic_funeral_in_valletta_accompanies_lifeline_captain_to_court#.W39mcuhKg2x)
 
@@ -34,15 +34,15 @@ In regards to Reisch’s trial, We Are a Welcoming Europe needs signatures to en
 While continuing their safety awareness campaigns, the White Helmets are able to bring some joy to Syrian children during the holy holiday of Eid\. Human rights organizations have warned that the mental health of Syrian children has plummeted in the recent years of the ongoing civil war\. They cannot continue being a forgotten generation\.
 
 
-![](assets/b24fbe05c5bc/1*e73cSYXgUae28L6oTEgT3w.jpeg)
+![](../assets/b24fbe05c5bc/1*e73cSYXgUae28L6oTEgT3w.jpeg)
 
 
 
-![](assets/b24fbe05c5bc/1*VfSQGndOCwgVW1r27pFRCg.jpeg)
+![](../assets/b24fbe05c5bc/1*VfSQGndOCwgVW1r27pFRCg.jpeg)
 
 
 
-![Photos by [Syrian Civil Defense — The White Helmets](https://www.facebook.com/SyriaCivilDef/posts/2169107956746934?__xts__[0]=68.ARCRSkonQsL4C9HqLwBpt7uFo_LxdNyAmqy_x-Pq-PvwJp38EXgbs6wn48OvljCom7ZKdbCfCsGMjybGQKnZLz0CBfus3dCCFDngHwNWlpT6yLc5ljQtGGGd3Q0D8Tg1MqHZRuA&__tn__=-R)](assets/b24fbe05c5bc/1*Q4sNBCG2qJEFfCDMQjsLNQ.jpeg)
+![Photos by [Syrian Civil Defense — The White Helmets](https://www.facebook.com/SyriaCivilDef/posts/2169107956746934?__xts__[0]=68.ARCRSkonQsL4C9HqLwBpt7uFo_LxdNyAmqy_x-Pq-PvwJp38EXgbs6wn48OvljCom7ZKdbCfCsGMjybGQKnZLz0CBfus3dCCFDngHwNWlpT6yLc5ljQtGGGd3Q0D8Tg1MqHZRuA&__tn__=-R)](../assets/b24fbe05c5bc/1*Q4sNBCG2qJEFfCDMQjsLNQ.jpeg)
 
 Photos by [Syrian Civil Defense — The White Helmets](https://www.facebook.com/SyriaCivilDef/posts/2169107956746934?__xts__[0]=68.ARCRSkonQsL4C9HqLwBpt7uFo_LxdNyAmqy_x-Pq-PvwJp38EXgbs6wn48OvljCom7ZKdbCfCsGMjybGQKnZLz0CBfus3dCCFDngHwNWlpT6yLc5ljQtGGGd3Q0D8Tg1MqHZRuA&__tn__=-R)
 ### **LIBYA**
@@ -57,11 +57,11 @@ The EU is funding the LCG to literally keep people in the dark\.
 In the Alboran Sea, 56 people were rescued on Thursday from a half sunken boat\. They were moved to Motril by the rescue ship S/Spica\. Yet still, three people with hypothermia had to be rescued by the helicopter Helimer 207, [Salvamento Maritimo confirms\.](https://twitter.com/salvamentogob/status/1032542518397820928)
 
 
-![](assets/b24fbe05c5bc/1*VWjui6Sbo94cZPYkxbzuYA.jpeg)
+![](../assets/b24fbe05c5bc/1*VWjui6Sbo94cZPYkxbzuYA.jpeg)
 
 
 
-![Photos by [Salvamento Maritimo](https://twitter.com/salvamentogob/status/1032542518397820928)](assets/b24fbe05c5bc/1*GJAheOmSL27YbJaRMwV8vw.jpeg)
+![Photos by [Salvamento Maritimo](https://twitter.com/salvamentogob/status/1032542518397820928)](../assets/b24fbe05c5bc/1*GJAheOmSL27YbJaRMwV8vw.jpeg)
 
 Photos by [Salvamento Maritimo](https://twitter.com/salvamentogob/status/1032542518397820928)
 ### ITALY
@@ -73,11 +73,11 @@ While they have been removed from a state of quarantine, [cranes](https://twitte
 [Anti\-racist protests](https://www.facebook.com/globalproject.info/posts/1973203966051564?__xts__[0]=68.ARBX6Ge9HfZujSc0AY5BKpL6QVkBmp777OcQGsoo17OqZyPfkPCtwQhtme5wR9Y9qjd5KQmOzoaS1sUU72XQSgrh7P5gHWmMNckCa2JSoC_rV8Q8sn71BCPtLMl3c9v4x5IJQQU&__tn__=-R) started at 7pm on Thursday, demanding the release of the 148 people being held hostage by the government\. The police blocked the protesters with shields and shoving, preventing their access to the port\. Protesters called on Prime Minister Salvini to end his stalemate against human rights\.
 
 
-![](assets/b24fbe05c5bc/1*aO42qstf94tpH30_cmcrow.jpeg)
+![](../assets/b24fbe05c5bc/1*aO42qstf94tpH30_cmcrow.jpeg)
 
 
 
-![Left photo by [Global Project Info](https://www.facebook.com/globalproject.info/photos/pcb.1973203966051564/1973203749384919/?type=3&theater) ; right photo by [Melting Pot Europa](https://www.facebook.com/meltingpoteuropa/photos/pcb.2047206885311028/2047205108644539/?type=3&theater)](assets/b24fbe05c5bc/1*xZdpyp9izcfHHqkoQfKQ9Q.jpeg)
+![Left photo by [Global Project Info](https://www.facebook.com/globalproject.info/photos/pcb.1973203966051564/1973203749384919/?type=3&theater) ; right photo by [Melting Pot Europa](https://www.facebook.com/meltingpoteuropa/photos/pcb.2047206885311028/2047205108644539/?type=3&theater)](../assets/b24fbe05c5bc/1*xZdpyp9izcfHHqkoQfKQ9Q.jpeg)
 
 Left photo by [Global Project Info](https://www.facebook.com/globalproject.info/photos/pcb.1973203966051564/1973203749384919/?type=3&theater) ; right photo by [Melting Pot Europa](https://www.facebook.com/meltingpoteuropa/photos/pcb.2047206885311028/2047205108644539/?type=3&theater)
 #### Volunteers needed in Rome

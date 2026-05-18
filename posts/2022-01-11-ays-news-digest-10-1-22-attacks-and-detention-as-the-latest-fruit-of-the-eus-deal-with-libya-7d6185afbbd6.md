@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 10/1/22: Attacks and detention as the latest fruit of the EU’s deal with Libya
+title: "AYS News Digest 10/1/22: Attacks and detention as the latest fruit of the EU’s deal with Libya"
 author: Are You Syrious?
 date: 2022-01-11T14:51:47.927+0000
 last_modified_at: 2022-01-11T14:51:47.927+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,syria,refugees,libya,europe]
 description: A case against Italy and Libya taken in front of the UN Committee / Violent pushbacks of Cubans from Greece to Turkey / Legal reports on…
 image:
-  path: assets/7d6185afbbd6/0*MOnTJvyk5wLpbvre
+  path: ../assets/7d6185afbbd6/0*MOnTJvyk5wLpbvre
 ---
 
 ### AYS News Digest 10/1/22: Attacks and detention as the latest fruit of the EU’s deal with Libya
 #### A case against Italy and Libya taken in front of the UN Committee / Violent pushbacks of Cubans from Greece to Turkey / Legal reports on Greece / Many Syrians face indefinite detention or returns to Syria from Denmark / Recommended reads & more news
 
 
-![Photo: [**Refugees In Libya**](https://twitter.com/RefugeesinLibya)](assets/7d6185afbbd6/0*MOnTJvyk5wLpbvre)
+![Photo: [**Refugees In Libya**](https://twitter.com/RefugeesinLibya)](../assets/7d6185afbbd6/0*MOnTJvyk5wLpbvre)
 
 Photo: [**Refugees In Libya**](https://twitter.com/RefugeesinLibya)
 #### FEATURE

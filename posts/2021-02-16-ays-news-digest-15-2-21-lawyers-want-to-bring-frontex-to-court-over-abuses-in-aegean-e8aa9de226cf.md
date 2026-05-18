@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 15/2/21: Lawyers Want to Bring Frontex to Court over Abuses in Aegean
+title: "AYS News Digest 15/2/21: Lawyers Want to Bring Frontex to Court over Abuses in Aegean"
 author: Are You Syrious?
 date: 2021-02-16T22:03:37.259+0000
 last_modified_at: 2021-02-16T22:03:37.259+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,frontex,greece,refugees,housing]
 description: Open Arms sails home // Heavy snowfall in Greece creates freezing conditions in camps // Pushbacks in Romania // Health conditions in…
 image:
-  path: assets/e8aa9de226cf/0*LJrAhuud8E6NLoHF.jpeg
+  path: ../assets/e8aa9de226cf/0*LJrAhuud8E6NLoHF.jpeg
 ---
 
 ### AYS News Digest 15/2/21: Lawyers Want to Bring Frontex to Court over Abuses in Aegean
 ### Open Arms sails home // Heavy snowfall in Greece creates freezing conditions in camps // Pushbacks in Romania // Health conditions in Serbia // UK’s Napier Barracks found ‘unacceptable’ seven years ago
 
 
-![](assets/e8aa9de226cf/0*4J5GIj3sTkIcOtrO.jpeg)
+![](../assets/e8aa9de226cf/0*4J5GIj3sTkIcOtrO.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----ddd0cb5a3290--------------------------------)
@@ -22,11 +22,11 @@ image:
 [Feb 16](ays-news-digest-15-2-21-lawyers-want-to-bring-frontex-to-court-over-abuses-in-aegean-ddd0cb5a3290?source=post_page-----ddd0cb5a3290--------------------------------) · 11 min read
 
 
-![](assets/e8aa9de226cf/0*MV-MpK_CrghQEMxC)
+![](../assets/e8aa9de226cf/0*MV-MpK_CrghQEMxC)
 
 
 
-![](assets/e8aa9de226cf/0*LJrAhuud8E6NLoHF.jpeg)
+![](../assets/e8aa9de226cf/0*LJrAhuud8E6NLoHF.jpeg)
 
 ### FEATURE — Frontex May Head to EU Court
 
@@ -51,11 +51,11 @@ And at this point, “Leggeri and his employees run the risk of making themselve
 ### A point of departure, now for Libyans, too
 
 
-![](assets/e8aa9de226cf/0*Bl_nDHfH383TStMw)
+![](../assets/e8aa9de226cf/0*Bl_nDHfH383TStMw)
 
 
 
-![](assets/e8aa9de226cf/0*mj_H4SVd-ypwveQn.png)
+![](../assets/e8aa9de226cf/0*mj_H4SVd-ypwveQn.png)
 
 
 Libya is well\-known as one of the busiest transit countries for people escaping sub\-Saharan Africa for Europe\. Thousands of refugees and asylum\-seekers pass through the country each year, boarding old fishing boats and other unseaworthy vessels along the vast coast and setting off on the most treacherous leg of their journey: the Central Mediterranean\. A total of 34,154 people arrived in Italy by sea in 2020, according to [UNHCR](https://data2.unhcr.org/en/situations/mediterranean/location/5205) \.
@@ -166,11 +166,11 @@ Read the full findings at the link above\.
 Speaking of reception conditions in France, check out the living conditions in Calais, via Care4Calais \(full [Facebook post](https://www.facebook.com/care4calais/posts/4073896895976570) \) \.
 
 
-![](assets/e8aa9de226cf/0*sQy2laAQj9TnVwTu)
+![](../assets/e8aa9de226cf/0*sQy2laAQj9TnVwTu)
 
 
 
-![](assets/e8aa9de226cf/0*RIf2Yg71k1Abxyhc.jpeg)
+![](../assets/e8aa9de226cf/0*RIf2Yg71k1Abxyhc.jpeg)
 
 
 Utopia56 is moving its evening meeting place for families and minors to the steps of city hall in Paris, the group [reported](https://www.facebook.com/care4calais/posts/4073896895976570) \.

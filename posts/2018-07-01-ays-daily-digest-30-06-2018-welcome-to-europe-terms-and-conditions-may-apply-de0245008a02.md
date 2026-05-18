@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 30/06/2018: Welcome to Europe* (Terms and Conditions May Apply)
+title: "AYS Daily Digest 30/06/2018: Welcome to Europe* (Terms and Conditions May Apply)"
 author: Are You Syrious?
 date: 2018-07-01T09:10:38.411+0100
 last_modified_at: 2018-07-01T21:37:01.706+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,netherlands,search-and-rescue,digest]
 description: Arrivals to Greece // Fights in Vial camp // A full discussion on the betrayal of refugees by UNHCR // Anti-Racist Festival in Athens //…
 image:
-  path: assets/de0245008a02/1*XEG6GzU_RCYXChOQ7oYApw.jpeg
+  path: ../assets/de0245008a02/1*XEG6GzU_RCYXChOQ7oYApw.jpeg
 ---
 
 ### AYS Daily Digest 30/06/2018: Welcome to Europe\* \(Terms and Conditions May Apply\)
@@ -15,7 +15,7 @@ image:
 _Arrivals to Greece // Fights in Vial camp // A full discussion on the betrayal of refugees by UNHCR // Anti\-Racist Festival in Athens // 100 dead yesterday: criticism of European neglect of unified policy for SAR operations // Needs and conditions in Bosnia // Anti Discrimination Protest in Italy // Opportunities to help in Belgium // At risk 18\-year olds facing deportation from the Netherlands garners concern_
 
 
-![Photo Credit: Phillippa Kempson](assets/de0245008a02/1*XEG6GzU_RCYXChOQ7oYApw.jpeg)
+![Photo Credit: Phillippa Kempson](../assets/de0245008a02/1*XEG6GzU_RCYXChOQ7oYApw.jpeg)
 
 Photo Credit: Phillippa Kempson
 ### GREECE
@@ -47,7 +47,7 @@ There was a bad fight between some groups in Vial on the 30th, below is an eyewi
 Another testimony states there were injuries resulting from the fight\. Below is a photo reminder of the conditions in which people are meant to live their lives\.
 
 
-![Photo credit: [خلية الإنقاذ و المتابعة / m\.r\.c](https://www.facebook.com/cell122/?hc_ref=ARTBfbxmena4HKpGdIc269J36bdCdiFlk6zR912CsNg81-X_r8B2tvx18uFsffXtdm8&fref=nf)](assets/de0245008a02/1*V4923hHHcs3kGWss1i22bQ.jpeg)
+![Photo credit: [خلية الإنقاذ و المتابعة / m\.r\.c](https://www.facebook.com/cell122/?hc_ref=ARTBfbxmena4HKpGdIc269J36bdCdiFlk6zR912CsNg81-X_r8B2tvx18uFsffXtdm8&fref=nf)](../assets/de0245008a02/1*V4923hHHcs3kGWss1i22bQ.jpeg)
 
 Photo credit: [خلية الإنقاذ و المتابعة / m\.r\.c](https://www.facebook.com/cell122/?hc_ref=ARTBfbxmena4HKpGdIc269J36bdCdiFlk6zR912CsNg81-X_r8B2tvx18uFsffXtdm8&fref=nf)
 
@@ -72,7 +72,7 @@ In the statement, the organizations also call out the willingness of Europe to c
 An anonymous source sent more photos and video from Velika Kladusa, showing the city tent that is located there\. MSF is on site and working to set up a mobile clinic\.
 
 
-![Source Anonymous\.](assets/de0245008a02/1*C8VKDjgBjuQ4rIY1qO0hOQ.jpeg)
+![Source Anonymous\.](../assets/de0245008a02/1*C8VKDjgBjuQ4rIY1qO0hOQ.jpeg)
 
 Source Anonymous\.
 ### ITALY
@@ -90,7 +90,7 @@ There will be a demo in Ventimiglia on 14th and the mayor of the town, among oth
 For more information, see below\.
 
 
-![](assets/de0245008a02/1*aDieAF_PnlCO_mOweDMjzg.jpeg)
+![](../assets/de0245008a02/1*aDieAF_PnlCO_mOweDMjzg.jpeg)
 
 ### THE NETHERLANDS
 

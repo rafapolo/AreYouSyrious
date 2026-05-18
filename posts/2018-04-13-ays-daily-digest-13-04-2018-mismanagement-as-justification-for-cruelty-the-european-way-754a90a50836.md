@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 12/04/18: Mismanagement as justification for cruelty — the European way
+title: "AYS Daily Digest 12/04/18: Mismanagement as justification for cruelty — the European way"
 author: Are You Syrious?
 date: 2018-04-13T11:48:05.605+0100
 last_modified_at: 2018-04-13T23:23:30.275+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,slovenia,croatia,bulgaria,france]
 description: Reflections and actions in France / New arrivals in Greece and important information / Madina Husseny’s family sees their request to asylum…
 image:
-  path: assets/754a90a50836/1*4cc3oluycui5FYS4Mq-qAQ.jpeg
+  path: ../assets/754a90a50836/1*4cc3oluycui5FYS4Mq-qAQ.jpeg
 ---
 
 ### AYS Daily Digest 12/04/18: Mismanagement as justification for cruelty — the European way
@@ -15,7 +15,7 @@ image:
 _Reflections and actions in France / New arrivals in Greece and important information / Madina Husseny’s family sees their request to asylum REJECTED by Croatian authorities / At least three have drowned in Slovenian\-Croatian river / Lampedusa centre effectively not closed / Horrific violation and betrayal of Afghan woman deported from Norway / And more news…_
 
 
-![Photo by BAAM](assets/754a90a50836/1*4cc3oluycui5FYS4Mq-qAQ.jpeg)
+![Photo by BAAM](../assets/754a90a50836/1*4cc3oluycui5FYS4Mq-qAQ.jpeg)
 
 Photo by BAAM
 ### FEATURE: How the fires of Dunkirk have not burned out
@@ -44,7 +44,7 @@ Indeed, it seems the Grande\-Synthe camp—which held some promise—has been cr
 
 
 
-![Photo by Care 4 Calais](assets/754a90a50836/1*YjQcOS1xGD1SQVcpbEuV2w.jpeg)
+![Photo by Care 4 Calais](../assets/754a90a50836/1*YjQcOS1xGD1SQVcpbEuV2w.jpeg)
 
 Photo by Care 4 Calais
 

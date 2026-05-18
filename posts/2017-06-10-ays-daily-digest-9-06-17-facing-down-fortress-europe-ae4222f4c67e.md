@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 9/06/17: Facing down Fortress Europe
+title: "AYS Daily Digest 9/06/17: Facing down Fortress Europe"
 author: Are You Syrious?
 date: 2017-06-10T08:10:05.002+0100
 last_modified_at: 2017-06-10T16:38:23.483+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,souda-camp,baobab-italy,polan-refugees]
 description: 40,000 children at great risk in Raqqa, Syria / a revolving door to Europe in Greece as crackdowns on “Second-Time Rejection” refugees…
 image:
-  path: assets/ae4222f4c67e/1*3A202eVAdUu0meZRTkPRWQ.jpeg
+  path: ../assets/ae4222f4c67e/1*3A202eVAdUu0meZRTkPRWQ.jpeg
 ---
 
 ### AYS Daily Digest 9/06/17: Facing down Fortress Europe
@@ -15,7 +15,7 @@ image:
 _40,000 children at great risk in Raqqa, Syria / a revolving door to Europe in Greece as crackdowns on “Second\-Time Rejection” refugees increases / activities to affirm humanity in Chios and Athens / more mobile dental work bringing smiles in Serbia / Activists in Hungary attempt to hold government to account / Italian undersecretary thanks search and rescue NGOs / In spite of the “victory” against the far right in France, refugees battered back and forth by police / Poland refusing to accept refugee quota_
 
 
-![Photo credit: Migszol Csoport](assets/ae4222f4c67e/1*3A202eVAdUu0meZRTkPRWQ.jpeg)
+![Photo credit: Migszol Csoport](../assets/ae4222f4c67e/1*3A202eVAdUu0meZRTkPRWQ.jpeg)
 
 Photo credit: Migszol Csoport
 ### FEATURE: Facing down Fortress Europe
@@ -88,7 +88,7 @@ _While we were preparing the clinic, children would run up to us, pointing at th
 _Despite some technical difficulties, we worked late and are back again today to bring many more smiles to their faces\.”_
 
 
-![Photo Credit: Borderfree Association](assets/ae4222f4c67e/1*G5q6DtF52SfGrXQM4UHI5A.jpeg)
+![Photo Credit: Borderfree Association](../assets/ae4222f4c67e/1*G5q6DtF52SfGrXQM4UHI5A.jpeg)
 
 Photo Credit: Borderfree Association
 
@@ -104,7 +104,7 @@ Throughout the day on June 9th, activists showed pictures from these reports at 
 We have been writing to the Ministry of the Interior about this and demanding a response on this serious issue\. Many people also joined us in this fight by sending emails to the Ministry\. Despite the evidence, they denied there was any abuse happening at the border\. The testimonies we collected from refugees and activists working in Serbia, the blog posts we wrote and the demonstrations we organised also did not elicit a response from the authorities\. So we decided to organise an open air exhibition in front of the Ministry of the Interior on the 9th of June from 7:30am\. We will show pictures from the victims of police brutality and we will hang them up along with testimonies on a fence in front of the entrance of the Ministry\. The officers will perhaps believe their own eyes when they cannot turn their heads away\.” Read the full statement [here](https://www.facebook.com/migszolcsoport/photos/a.1453209834730172.1073741908.517382378312927/1453210268063462/?type=3&theater) \.
 
 
-![MigSzol Csoport peaceful protest, photo credit MigSzol\.](assets/ae4222f4c67e/1*p8LGV7RJZQpp_i9m6xnsug.jpeg)
+![MigSzol Csoport peaceful protest, photo credit MigSzol\.](../assets/ae4222f4c67e/1*p8LGV7RJZQpp_i9m6xnsug.jpeg)
 
 MigSzol Csoport peaceful protest, photo credit MigSzol\.
 ### AUSTRIA
@@ -114,14 +114,14 @@ Ongoing protests in support of refugees\. Below is a detailed report on the curr
 “Coordinated demonstrations were held today in the Austrian towns of Vienna, Graz and Salzburg and were attended by around 500 people in Vienna alone\. The increasing number of deportations from Austria that also took place on the same day as the recent deadly events in Kabul are leading to more and more protests\. According to the organizers it can be seen as a direct reaction to Germany’s decision to stop deporting and to revaluate the situation for people from Afghanistan — in contrast to Austria’s indifference to the subject at the moment\.
 
 
-![Photo Credit: Arye Wachsmuth](assets/ae4222f4c67e/1*kspkultm_DtVXFXLNHYM-w.jpeg)
+![Photo Credit: Arye Wachsmuth](../assets/ae4222f4c67e/1*kspkultm_DtVXFXLNHYM-w.jpeg)
 
 Photo Credit: Arye Wachsmuth
 
 The speakers in Vienna also criticized the complicated and sometimes unfair and also unnecessarily long asylum proceedings, not to mention differences in handling many cases, as some are rejected up to nine times, which results in long years of waiting\. The “Bündnis Solidarität statt Abschiebung”, a group alliance from Graz, also published an open protest letter today, signed by several hundred organizations and people from Austria, mainly from Graz\. The letter describes in detail the problem of the deportations to war\-afflicted Afghanistan and quotes the UN’s statistics of violent and deadly casualties during 2016 and at present\. This, among other things, stands in contrast to the claims of the Austrian government which alleges the country to be unsafe for Austrians but safe enough for the rejected asylum seekers\. The signatories demand from the Austrian authorities that they grant asylum to those in need for as long as necessary\.”
 
 
-![Photo Credit: Arye Wachsmuth](assets/ae4222f4c67e/1*LbocLbVnex_UlN4kwirLYg.jpeg)
+![Photo Credit: Arye Wachsmuth](../assets/ae4222f4c67e/1*LbocLbVnex_UlN4kwirLYg.jpeg)
 
 Photo Credit: Arye Wachsmuth
 
@@ -140,7 +140,7 @@ BAOBAB Experience will be conducting “collection and distribution of clothes o
 There is more repression and regulation of independent aid distribution in Calais\. Below is a field report by Help Refugees:
 
 
-![Photo Credit: Help Refugees\.](assets/ae4222f4c67e/1*dQaonfTD-b6bLgIfE75M5A.jpeg)
+![Photo Credit: Help Refugees\.](../assets/ae4222f4c67e/1*dQaonfTD-b6bLgIfE75M5A.jpeg)
 
 Photo Credit: Help Refugees\.
 

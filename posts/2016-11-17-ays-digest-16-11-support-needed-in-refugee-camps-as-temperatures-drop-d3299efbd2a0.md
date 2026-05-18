@@ -1,5 +1,5 @@
 ---
-title: AYS Digest 16/11: Support needed in refugee camps as temperatures drop
+title: "AYS Digest 16/11: Support needed in refugee camps as temperatures drop"
 author: Are You Syrious?
 date: 2016-11-17T05:05:59.191+0000
 last_modified_at: 2016-11-17T09:17:30.192+0000
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe,chios,afghanistan,sudan]
 description: Frontex reports drop in border-crossing but IOM says more than 4,000 died in the Mediterranean this year. Fascists attack the Souda camp in…
 image:
-  path: assets/d3299efbd2a0/0*EwxqxLsVv4AR2mFM.
+  path: ../assets/d3299efbd2a0/0*EwxqxLsVv4AR2mFM.
 ---
 
 ### AYS Digest 16/11: Support needed in refugee camps as temperatures drop
 
 
-![](assets/d3299efbd2a0/0*EwxqxLsVv4AR2mFM.)
+![](../assets/d3299efbd2a0/0*EwxqxLsVv4AR2mFM.)
 
 
 _Frontex reports drop in border\-crossing but IOM says more than 4,000 died in the Mediterranean this year\. Fascists attack the Souda camp in Chios\. Oreokastro camp struggles with the cold\. Update on situation in Bosnia\. Home Office guidelines restricts which children will be able to come to the UK\._
@@ -61,7 +61,7 @@ One volunteer says:
 Yesterday night, a senior member of the neo\-Nazi Golden Dawn party held a speech on the refugee crisis on Chios and an anti\-fascist demonstration took place against the presence of Golden Dawn on the island\.
 
 
-![Photo by Gabrielle Tan](assets/d3299efbd2a0/0*2itKtUDmVggoWid2.)
+![Photo by Gabrielle Tan](../assets/d3299efbd2a0/0*2itKtUDmVggoWid2.)
 
 Photo by Gabrielle Tan
 ### 14 refugees registered today
@@ -87,7 +87,7 @@ _The Voices of Oreokastro_ reports on the situation inside the camp, saying
 In comments made to [_Time_](http://time.com/4569787/greece-refugees-migrants-syria-winter/) , Mohammad al Ali, a former pharmacist from Deir ez\-Zor , says “we have enough blankets, but blankets are not enough,” as warm clothes don’t help much when you’re forced to bathe in cold\-water\-only outdoor showers\. “We started hearing about water heaters in August, but they still haven’t done anything yet and it’s November\.” says al Ali\. “We need a better solution\. We can’t live in tents forever\.”
 
 
-![Photo by Caroline Dykes](assets/d3299efbd2a0/0*FgoyJG24xghdPvPy.)
+![Photo by Caroline Dykes](../assets/d3299efbd2a0/0*FgoyJG24xghdPvPy.)
 
 Photo by Caroline Dykes
 
@@ -97,17 +97,17 @@ An independent volunteer adds that those with electricity, sit in their coats ar
 Providing winter clothes is becoming urgent and distributing them in a dignified manner is essential\. The [“mobile truck shop” project](http://davidlohmueller.com/en/mobile-truck-shop/) aims to distribute clothes according to a registration system and “offers refugees the opportunity to choose clothing to suit their size and individual style”, making distribution much more dignified\. The project is currently in the process of expanding the size of the ‘truck shop”\.
 
 
-![Photo by [David Lohmueller](http://davidlohmueller.com/en/mobile-truck-shop/)](assets/d3299efbd2a0/0*apQbxKkBq1rEzXg1.jpg)
+![Photo by [David Lohmueller](http://davidlohmueller.com/en/mobile-truck-shop/)](../assets/d3299efbd2a0/0*apQbxKkBq1rEzXg1.jpg)
 
 Photo by [David Lohmueller](http://davidlohmueller.com/en/mobile-truck-shop/)
 
 
-![Photo by [David Lohmueller](http://davidlohmueller.com/en/mobile-truck-shop/)](assets/d3299efbd2a0/0*PW-iZzFFij3vtcIz.jpg)
+![Photo by [David Lohmueller](http://davidlohmueller.com/en/mobile-truck-shop/)](../assets/d3299efbd2a0/0*PW-iZzFFij3vtcIz.jpg)
 
 Photo by [David Lohmueller](http://davidlohmueller.com/en/mobile-truck-shop/)
 
 
-![Photo by [David Lohmueller](http://davidlohmueller.com/en/mobile-truck-shop/)](assets/d3299efbd2a0/0*MPmjDEDsTjb_eSMs.jpg)
+![Photo by [David Lohmueller](http://davidlohmueller.com/en/mobile-truck-shop/)](../assets/d3299efbd2a0/0*MPmjDEDsTjb_eSMs.jpg)
 
 Photo by [David Lohmueller](http://davidlohmueller.com/en/mobile-truck-shop/)
 
@@ -126,7 +126,7 @@ The Greek Asylum Office has just published a translation of the Q&A on full regi
 “No one chose to leave his home\. We love to live\. We didn’t come here to destroy anything\. We used to have everything you have\. We have mind, body and feelings like you\. I am a Muslim and proud of that\. If you think that because I am Muslim I’m a terrorist, let me tell you that you’re sick\! In Syria, people of different religions were living together before the war\. No one used to say anything about other people’s beliefs\. My message to Europe is “Open your mind”\. Try to learn the truth before judging anyone\.”
 
 
-![](assets/d3299efbd2a0/1*8QHdDSM09YLmz7khSzkyMg.jpeg)
+![](../assets/d3299efbd2a0/1*8QHdDSM09YLmz7khSzkyMg.jpeg)
 
 #### Serbia
 ### Sirious Help needed at the Serbian\-Hungarian border
@@ -134,7 +134,7 @@ The Greek Asylum Office has just published a translation of the Q&A on full regi
 Sirious Help describes the situation at the Serbian\-Hungarian border, saying refugees often come unprepared from official refugee camps and are shocked by living conditions at the border\. People live in makeshift tents, the temperature at 8am was \-4 °C yesterday and there is no electricity, hot water or heating\. [They could use some support and donations](http://www.sirius.help/donate-now/) \.
 
 
-![Photo by Sirious Help](assets/d3299efbd2a0/0*4qrKqfa1VWdtVFQb.)
+![Photo by Sirious Help](../assets/d3299efbd2a0/0*4qrKqfa1VWdtVFQb.)
 
 Photo by Sirious Help
 ### Kelebija community kitchen up and running
@@ -142,7 +142,7 @@ Photo by Sirious Help
 North Star says “ _thanks to the efforts of volunteers, we are happy to say that the community kitchen \(run by our friends residing in the transit zone\) is serving tasty hot food every day\. People bring old favorite recipes from home, the materials are provided, and then folks get cooking\. A few nights ago, 74 meals were served\! \! \! Thank YOU all for making this possible\!”\._
 
 
-![Photo by [North Star](https://www.facebook.com/NorthStarSerbia/photos/pcb.1779566872314563/1779566142314636/?type=3)](assets/d3299efbd2a0/0*cGeyh3Ujn-MBgKPd.jpg)
+![Photo by [North Star](https://www.facebook.com/NorthStarSerbia/photos/pcb.1779566872314563/1779566142314636/?type=3)](../assets/d3299efbd2a0/0*cGeyh3Ujn-MBgKPd.jpg)
 
 Photo by [North Star](https://www.facebook.com/NorthStarSerbia/photos/pcb.1779566872314563/1779566142314636/?type=3)
 #### Bosnia
@@ -169,7 +169,7 @@ Baobab Experience says that refugees were yet again evicted, this time from Piaz
 Tonight, Medu and Baobab gave medical assistance and hot food to those sleeping in the streets\. After this morning’s evacuation, many were left without sleeping bags or warm clothes\.
 
 
-![Photo by Medu](assets/d3299efbd2a0/0*WWGM59YfBMGfTW_C.)
+![Photo by Medu](../assets/d3299efbd2a0/0*WWGM59YfBMGfTW_C.)
 
 Photo by Medu
 #### France

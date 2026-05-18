@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 20/12/20: Internal docs of Slovenian police show how they disregard asylum…
+title: "AYS Daily Digest 20/12/20: Internal docs of Slovenian police show how they disregard asylum…"
 author: Are You Syrious?
 date: 2019-12-21T16:36:35.390+0000
 last_modified_at: 2019-12-21T18:41:18.862+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,slovenia,asylum-seekers,push-backs,search-and-rescue]
 description: New arrivals in Greece // Rescues by Ocean Viking // Scheduled deportation to Kabul from Germany // Turkish PKK member in prison although…
 image:
-  path: assets/32dd347c035f/1*dgGuX1OgZkJfyAv-234M5w.jpeg
+  path: ../assets/32dd347c035f/1*dgGuX1OgZkJfyAv-234M5w.jpeg
 ---
 
 ### AYS Daily Digest 20/12/19: Internal docs of Slovenian police show how they disregard asylum requests
 #### New arrivals in Greece // Rescues by Ocean Viking // Scheduled deportation to Kabul from Germany // Turkish PKK member in prison although granted asylum in Norway
 
 
-![Slovenia raised a razor wire fence at its borders in 2016 and has been fortifying the border perimeter and finding ways to reject people since\. Photo: AYS archive](assets/32dd347c035f/1*dgGuX1OgZkJfyAv-234M5w.jpeg)
+![Slovenia raised a razor wire fence at its borders in 2016 and has been fortifying the border perimeter and finding ways to reject people since\. Photo: AYS archive](../assets/32dd347c035f/1*dgGuX1OgZkJfyAv-234M5w.jpeg)
 
 Slovenia raised a razor wire fence at its borders in 2016 and has been fortifying the border perimeter and finding ways to reject people since\. Photo: AYS archive
 #### Feature
@@ -33,14 +33,14 @@ The directive in this document is similar to already published documents from 25
 The vague content of these instructions is a clue to the administrative basis for the systematic denial of the right to international protection and to the massive malversation in the official procedures at border police stations in Slovenia\. For example, at the Police Station of Črnomelj, a municipality bordering Croatia, which is under the administration of Novo Mesto, the number of asylum requests dropped from 371 in May 2018 to only 13 in June 2018\.
 
 
-![Chart of border crossings side by side with demands of asylum in 2018 on border Police Station Črnomelj](assets/32dd347c035f/1*hfxXC7Qd6B76YCyZ27CkYg.png)
+![Chart of border crossings side by side with demands of asylum in 2018 on border Police Station Črnomelj](../assets/32dd347c035f/1*hfxXC7Qd6B76YCyZ27CkYg.png)
 
 Chart of border crossings side by side with demands of asylum in 2018 on border Police Station Črnomelj
 
 This dramatic drop in asylum requests is a direct result of the revealed documents, although they do not explain what is the legal basis for returning migrants who are found in central Slovenia or even at the border with Italy\. Testimonies of migrants who were processed at Slovene police stations report verbal and sometimes physical abuse; requests for asylum are met with threats of violence and many are forced to sign untranslated documents renouncing any claim to asylum, providing the basis for their “push back” to Croatia\. These documents are signed with no given explanation or with the explicit promise that their signature is required for entering the asylum procedure\.
 
 
-![On the 13 th of June 2018, a group of 4 people from Afghanistan \(16, 17, 30 and 39 years old\) crossed the border near the village of Zilje\. Hamid expressed the intention to seek asylum in Slovenia, but the police ignored his request\. The group was forced to sign documents in the Slovene language without translations\. One of the documents which Hamid signed was about legal representation in the official procedure because he was underage\. They were kept at Črnomelj Police Station for 7 hours before they were expelled to Croatia and then BH\.](assets/32dd347c035f/1*ITPcZEB9QEq3d1JvN0wYiQ.png)
+![On the 13 th of June 2018, a group of 4 people from Afghanistan \(16, 17, 30 and 39 years old\) crossed the border near the village of Zilje\. Hamid expressed the intention to seek asylum in Slovenia, but the police ignored his request\. The group was forced to sign documents in the Slovene language without translations\. One of the documents which Hamid signed was about legal representation in the official procedure because he was underage\. They were kept at Črnomelj Police Station for 7 hours before they were expelled to Croatia and then BH\.](../assets/32dd347c035f/1*ITPcZEB9QEq3d1JvN0wYiQ.png)
 
 On the 13 th of June 2018, a group of 4 people from Afghanistan \(16, 17, 30 and 39 years old\) crossed the border near the village of Zilje\. Hamid expressed the intention to seek asylum in Slovenia, but the police ignored his request\. The group was forced to sign documents in the Slovene language without translations\. One of the documents which Hamid signed was about legal representation in the official procedure because he was underage\. They were kept at Črnomelj Police Station for 7 hours before they were expelled to Croatia and then BH\.
 
@@ -61,7 +61,7 @@ Despite clear evidence of a high risk of physical abuse, numerous other forms of
 
 
 
-![On 27th July, a group of six men from Algeria, Tunisia and Morocco arrived in the vicinity of Črnomelj after many days of walking from Velika Kladuša, Bosnia\. Hakim expressed the intention to seek asylum in Slovenia many times, but the Palestinian translator said they had no option to apply for asylum because of their nationality\. Out of six people the police interviewed only one person for the whole group\. The following day they were forced to sign documents in the Slovene language, and then at around 19\.00 h, the Slovenian police took them to a place that looked like a rubbish dump where there were collectively handed over to the Croatian police\. From there they were driven in a van to a green border with Bosnia and Herzegovina near Velika Kladuša\. The people left the van two by two and when they stepped out they were attacked by police in masks and beaten\. The policemen also used electric sticks\.](assets/32dd347c035f/1*jG_W2BfMARzW0UP8b-qmtw.png)
+![On 27th July, a group of six men from Algeria, Tunisia and Morocco arrived in the vicinity of Črnomelj after many days of walking from Velika Kladuša, Bosnia\. Hakim expressed the intention to seek asylum in Slovenia many times, but the Palestinian translator said they had no option to apply for asylum because of their nationality\. Out of six people the police interviewed only one person for the whole group\. The following day they were forced to sign documents in the Slovene language, and then at around 19\.00 h, the Slovenian police took them to a place that looked like a rubbish dump where there were collectively handed over to the Croatian police\. From there they were driven in a van to a green border with Bosnia and Herzegovina near Velika Kladuša\. The people left the van two by two and when they stepped out they were attacked by police in masks and beaten\. The policemen also used electric sticks\.](../assets/32dd347c035f/1*jG_W2BfMARzW0UP8b-qmtw.png)
 
 On 27th July, a group of six men from Algeria, Tunisia and Morocco arrived in the vicinity of Črnomelj after many days of walking from Velika Kladuša, Bosnia\. Hakim expressed the intention to seek asylum in Slovenia many times, but the Palestinian translator said they had no option to apply for asylum because of their nationality\. Out of six people the police interviewed only one person for the whole group\. The following day they were forced to sign documents in the Slovene language, and then at around 19\.00 h, the Slovenian police took them to a place that looked like a rubbish dump where there were collectively handed over to the Croatian police\. From there they were driven in a van to a green border with Bosnia and Herzegovina near Velika Kladuša\. The people left the van two by two and when they stepped out they were attacked by police in masks and beaten\. The policemen also used electric sticks\.
 

@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: []
 description: Rescues in the Western and Central Mediterranean /// Syrian government demolishes refugees homes /// #Lifttheban campaign for the right to…
 image:
-  path: assets/b575e01acd0c/1*ZPc2KHeqoNHoCKPyyvu7jw.jpeg
+  path: ../assets/b575e01acd0c/1*ZPc2KHeqoNHoCKPyyvu7jw.jpeg
 ---
 
 ### AYS Newsletter 16/10/2018 — Winter is coming on the Bosnian\-Croatian border
@@ -15,13 +15,13 @@ image:
 Rescues in the Western and Central Mediterranean /// Syrian government demolishes refugees homes /// \#Lifttheban campaign for the right to work in the UK /// Challenges to “anti\-Soros” law in Hungary /// Child faces deportation in Sweden /// Protests in Australia to close Nauru deportation centre
 
 
-![\#noborders \(by Marco De Angelis, ArtAgainst\)](assets/b575e01acd0c/1*ZPc2KHeqoNHoCKPyyvu7jw.jpeg)
+![\#noborders \(by Marco De Angelis, ArtAgainst\)](../assets/b575e01acd0c/1*ZPc2KHeqoNHoCKPyyvu7jw.jpeg)
 
 \#noborders \(by Marco De Angelis, ArtAgainst\)
 #### Feature: Winter is coming, updates from Velika Kladusa, Bosnia and Herzegovina by the No Name Kitchen
 
 
-![Velika Kladusa \(Photo by No Name Kitchen\)](assets/b575e01acd0c/1*uMcjNqbhujz6GDQnLCqPPw.jpeg)
+![Velika Kladusa \(Photo by No Name Kitchen\)](../assets/b575e01acd0c/1*uMcjNqbhujz6GDQnLCqPPw.jpeg)
 
 Velika Kladusa \(Photo by No Name Kitchen\)
 
@@ -35,11 +35,11 @@ From [No Name Kitchen update](https://www.facebook.com/NoNameKitchenBelgrade/pos
 
 
 
-![](assets/b575e01acd0c/1*2REN2yB-IwSl1Ub3A2trug.jpeg)
+![](../assets/b575e01acd0c/1*2REN2yB-IwSl1Ub3A2trug.jpeg)
 
 
 
-![Velika Kladusa \(Photo by No Name Kitchen\)](assets/b575e01acd0c/1*g-g3YCYLuUASdjsb9er6dg.jpeg)
+![Velika Kladusa \(Photo by No Name Kitchen\)](../assets/b575e01acd0c/1*g-g3YCYLuUASdjsb9er6dg.jpeg)
 
 Velika Kladusa \(Photo by No Name Kitchen\)
 
@@ -57,7 +57,7 @@ Velika Kladusa \(Photo by No Name Kitchen\)
 
 
 
-![Velika Kladusa \(Photo by No Name Kitchen\)](assets/b575e01acd0c/1*CznNOO-F_k9wNa2Nn9X1tQ.jpeg)
+![Velika Kladusa \(Photo by No Name Kitchen\)](../assets/b575e01acd0c/1*CznNOO-F_k9wNa2Nn9X1tQ.jpeg)
 
 Velika Kladusa \(Photo by No Name Kitchen\)
 
@@ -122,7 +122,7 @@ GREECE
 #### Arrivals
 
 
-![\(33 people arrived in Chios, photo by @smhumanitario\)](assets/b575e01acd0c/1*Q1I3DYEiwVKc5RQd2wTyNg.jpeg)
+![\(33 people arrived in Chios, photo by @smhumanitario\)](../assets/b575e01acd0c/1*Q1I3DYEiwVKc5RQd2wTyNg.jpeg)
 
 \(33 people arrived in Chios, photo by @smhumanitario\)
 
@@ -283,7 +283,7 @@ In Grande\-Synthe, there are more than a thousand people and while the city hall
 #### [CARE4CALAIS](https://www.facebook.com/care4calais/photos/a.1046164975416459/2137184976314448/?type=3&theater) ask for support
 
 
-![](assets/b575e01acd0c/1*ErXVvMeu0BHYqFFXLNCeHw.jpeg)
+![](../assets/b575e01acd0c/1*ErXVvMeu0BHYqFFXLNCeHw.jpeg)
 
 #### Eviction in Clermont Ferrand
 
@@ -357,7 +357,7 @@ AUSTRALIA
 #### \#KidsOffNauru
 
 
-![\(demonstration in Canberra, photo by @JSalmonupstream\)](assets/b575e01acd0c/1*HOgXaZWfgywkWwkl7y-f-Q.jpeg)
+![\(demonstration in Canberra, photo by @JSalmonupstream\)](../assets/b575e01acd0c/1*HOgXaZWfgywkWwkl7y-f-Q.jpeg)
 
 \(demonstration in Canberra, photo by @JSalmonupstream\)
 

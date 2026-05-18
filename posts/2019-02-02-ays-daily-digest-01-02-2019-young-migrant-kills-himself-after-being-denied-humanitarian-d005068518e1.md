@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 01/02/2019: Young migrant kills himself after being denied humanitarian…
+title: "AYS Daily Digest 01/02/2019: Young migrant kills himself after being denied humanitarian…"
 author: Are You Syrious?
 date: 2019-02-02T02:29:56.441+0000
 last_modified_at: 2019-02-02T11:01:14.270+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,italy,solidarity,sea-watch]
 description: Salvini Decree kills dreams and people//Refugee beaten and arrested by Turkish police is sentenced to 7 months in prison//Sea Watch 3 held…
 image:
-  path: assets/d005068518e1/1*ZT75LkRxprutJTLTMms7og.jpeg
+  path: ../assets/d005068518e1/1*ZT75LkRxprutJTLTMms7og.jpeg
 ---
 
 ### AYS Daily Digest 01/02/2019: Young migrant kills himself after being denied humanitarian protection in Italy
 #### Salvini Decree kills dreams and people// Refugee beaten and arrested by Turkish police is sentenced to 7 months in prison// Sea Watch 3 held in Catania for “technical irregularities” and for representing a “threat to navigation”// New immigration centre to open in Samos// Information on how to travel free of charge in Athens// Report published on living conditions in reception centre in Rome// Terra Giusta project by MEDU to re\-start their activities for the new season in Calabria, Italy// Donations needed in Paris and Calais to face harsh weather conditions\. \.
 
 
-![“Omar, have you seen those photos of white people coming to \(African country undisclosed\)? They are always happy\. You see them smiling with the locals and the kids at their feet\. They’re hands are held and walked from door to door\. They feel welcome because we treat them as our guests in our home… …by God, do we not deserve the same treatment in Europe?” — X\. \(paraphrased from Arabic\) \. Credit: @omarzakieh/Refugees Info Bus](assets/d005068518e1/1*ZT75LkRxprutJTLTMms7og.jpeg)
+![“Omar, have you seen those photos of white people coming to \(African country undisclosed\)? They are always happy\. You see them smiling with the locals and the kids at their feet\. They’re hands are held and walked from door to door\. They feel welcome because we treat them as our guests in our home… …by God, do we not deserve the same treatment in Europe?” — X\. \(paraphrased from Arabic\) \. Credit: @omarzakieh/Refugees Info Bus](../assets/d005068518e1/1*ZT75LkRxprutJTLTMms7og.jpeg)
 
 “Omar, have you seen those photos of white people coming to \(African country undisclosed\)? They are always happy\. You see them smiling with the locals and the kids at their feet\. They’re hands are held and walked from door to door\. They feel welcome because we treat them as our guests in our home… …by God, do we not deserve the same treatment in Europe?” — X\. \(paraphrased from Arabic\) \. Credit: @omarzakieh/Refugees Info Bus
 ### FEATURE
@@ -195,11 +195,11 @@ The electricity and heating systems are not working properly and hot water is av
 Some rooms come with a bathroom and others don’t; in one floor, 20 people have to share 1 bathroom\!
 
 
-![](assets/d005068518e1/1*25op9KB8t0QdCA0QmBxPaA.jpeg)
+![](../assets/d005068518e1/1*25op9KB8t0QdCA0QmBxPaA.jpeg)
 
 
 
-![Credit: LasciateCIEntrare](assets/d005068518e1/1*VakFqZuZP9K3raJXJBBwHg.jpeg)
+![Credit: LasciateCIEntrare](../assets/d005068518e1/1*VakFqZuZP9K3raJXJBBwHg.jpeg)
 
 Credit: LasciateCIEntrare
 

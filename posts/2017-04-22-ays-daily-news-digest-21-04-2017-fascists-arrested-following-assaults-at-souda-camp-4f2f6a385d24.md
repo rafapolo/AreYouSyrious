@@ -1,5 +1,5 @@
 ---
-title: AYS Daily News Digest 21.04.2017: Fascists arrested following assaults at Souda Camp
+title: "AYS Daily News Digest 21.04.2017: Fascists arrested following assaults at Souda Camp"
 author: Are You Syrious?
 date: 2017-04-22T07:10:39.951+0100
 last_modified_at: 2017-04-22T10:30:39.699+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,greece,romania,france]
 description: 60 deported to Turkey // Syrian refugees begin hunger strike in Moria // Timisoara Camp in Romania leaves refugees hungry // More refugees…
 image:
-  path: assets/4f2f6a385d24/1*1gANSgib0hfFjEAWzMiCPQ.jpeg
+  path: ../assets/4f2f6a385d24/1*1gANSgib0hfFjEAWzMiCPQ.jpeg
 ---
 
 ### AYS Daily News Digest 21\.04\.2017: Fascists arrested following assaults at Souda Camp
 #### 60 deported to Turkey // Syrian refugees begin hunger strike in Moria // Timisoara Camp in Romania leaves refugees hungry // More refugees are sleeping on the streets of Paris // 150 children have drowned in the Mediterranean
 
 
-![The Souda Refugee Camp\. Photo Credit: Louisa Gouliamaki](assets/4f2f6a385d24/1*1gANSgib0hfFjEAWzMiCPQ.jpeg)
+![The Souda Refugee Camp\. Photo Credit: Louisa Gouliamaki](../assets/4f2f6a385d24/1*1gANSgib0hfFjEAWzMiCPQ.jpeg)
 
 The Souda Refugee Camp\. Photo Credit: Louisa Gouliamaki
 #### Feature
@@ -58,7 +58,7 @@ The group has spent 10 months in Moria, and they are asking that the reexaminati
 ### Hope Project community center now open in Thessaloniki city center
 
 
-![](assets/4f2f6a385d24/1*3umkd5U2Qjh-2FP7PGFMog.jpeg)
+![](../assets/4f2f6a385d24/1*3umkd5U2Qjh-2FP7PGFMog.jpeg)
 
 
 The poster above outlines the subjects taught at the center as well as the activities that people will be able to partake in, as well as the address and contact information of the center\.

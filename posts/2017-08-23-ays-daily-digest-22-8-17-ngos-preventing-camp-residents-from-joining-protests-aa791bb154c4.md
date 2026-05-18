@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 22/08/17: NGOs prevent camp residents from joining protests
+title: "AYS Daily Digest 22/08/17: NGOs prevent camp residents from joining protests"
 author: Are You Syrious?
 date: 2017-08-23T00:46:37.331+0100
 last_modified_at: 2017-08-28T15:14:24.269+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,greece,france,islands,arrival]
 description: IOM and DRC accused of threatening people to cut supplies if they attend the march in Athens / Arrivals on Greek islands remain high /…
 image:
-  path: assets/aa791bb154c4/1*SHmcuFtnTZ0TCv1vmVt5Wg.jpeg
+  path: ../assets/aa791bb154c4/1*SHmcuFtnTZ0TCv1vmVt5Wg.jpeg
 ---
 
 ### AYS Daily Digest 22/08/17: NGOs prevent camp residents from joining protests
@@ -15,7 +15,7 @@ image:
 _IOM and DRC accused of threatening people to cut supplies if they attend the march in Athens / Arrivals on Greek islands remain high / Volunteers needed / MDM returns to Porin and Kutina / Fights in Calais / Deportee returns to Finland after court decision / And more news…_
 
 
-![Protests in Athens\. Photo: [**Nikolas Georgiou** ‏](https://twitter.com/mpodil)](assets/aa791bb154c4/1*SHmcuFtnTZ0TCv1vmVt5Wg.jpeg)
+![Protests in Athens\. Photo: [**Nikolas Georgiou** ‏](https://twitter.com/mpodil)](../assets/aa791bb154c4/1*SHmcuFtnTZ0TCv1vmVt5Wg.jpeg)
 
 Protests in Athens\. Photo: [**Nikolas Georgiou** ‏](https://twitter.com/mpodil)
 ### Feature — NGOs preventing camp residents from joining protests
@@ -36,11 +36,11 @@ In Athens, Afghans, with the support of Greeks, gathered for a demonstration to 
 AYS has received confirmation from various sources that IOM tried to prevent people from attending the demonstration\. Staff threatened refugeees that they would not get food and other supplies if they joined the march\. This pressure is a clear violation of the freedom of speech, which is a fundamental right\. In fear of disadvantages, some people at Malakasa camp decided not to take the bus to Athens and join in the protests\. Also, the Danish Refugee Council threatened people in Schisto and told them not to go\. In this case people were told that their kids would not be able to go to school in September\. A meeting for parents of shoolchildren was scheduled at the same time as the protest\.
 
 
-![](assets/aa791bb154c4/1*atzNe-zj6RuQjrQhZ4MloA.jpeg)
+![](../assets/aa791bb154c4/1*atzNe-zj6RuQjrQhZ4MloA.jpeg)
 
 
 
-![Photo by Katja Lihtenvalner](assets/aa791bb154c4/1*6Adm2-hWbXjI3FZSluojqQ.jpeg)
+![Photo by Katja Lihtenvalner](../assets/aa791bb154c4/1*6Adm2-hWbXjI3FZSluojqQ.jpeg)
 
 Photo by Katja Lihtenvalner
 ### Sea
@@ -54,7 +54,7 @@ Departures from Turkey to Cyprus by sea continue, according to the UNHCR: While 
 On the Greek islands the number of new arrivals remains high\. With **yesterday’s almost 400 arrivals** on Chios \(225\), Samos \(61\), Leros \(93\) and Kos \(18\) August has already become the month with the most arrivals in 2017\. Because of departures to the mainland, the number of people stuck on the islands remains stable at **around 14\.200** , which for **some hotspots means twice their capacities** \. On Samos this situation is forcing some people to sleep rough, as on Chios\. A detailed report can be found [here](https://medium.com/@sharonvaleriesilvey/why-is-no-one-talking-about-samos-a3218aaea827?fref=gc) \. Meanwhile, volunteers reported 198 new arrivals on Lesbos alone\.
 
 
-![People sleeping rough on Samos\.](assets/aa791bb154c4/1*HB-Quie1BTppcJMBLXbQnA.jpeg)
+![People sleeping rough on Samos\.](../assets/aa791bb154c4/1*HB-Quie1BTppcJMBLXbQnA.jpeg)
 
 People sleeping rough on Samos\.
 
@@ -78,7 +78,7 @@ In the early hours of Sunday 20 August in Rhodes, Greece, a man was cycling in t
 In Nea Kavala, Northern Greece, A Drop in the Ocean is calling for volunteers to continue their activities inside the camp\. Tasks include running the ‘drop market’, a shop for clothes and other supplies, and a sewing project\. If you are 25 years or older and can stay for at least 10 days, you can register on their [homepage](https://www.drapenihavet.no/no/work-as-volunteer/) \.
 
 
-![Photo: [Dråpen i Havet](https://www.facebook.com/drapenihavet/)](assets/aa791bb154c4/1*-Wy-Bm1xwKrqDeYAonVC-w.jpeg)
+![Photo: [Dråpen i Havet](https://www.facebook.com/drapenihavet/)](../assets/aa791bb154c4/1*-Wy-Bm1xwKrqDeYAonVC-w.jpeg)
 
 Photo: [Dråpen i Havet](https://www.facebook.com/drapenihavet/)
 
@@ -109,7 +109,7 @@ Romanian authorities have recorded the irregular entries of 1,190 refugees and m
 UNHCR and partners received reports of 105 collective pushbacks from Hungary and 66 from Croatia, with many alleging to have been denied access to asylum procedures\. Since the beginning of this year, 125 babies have been born to refugees/migrants in Serbia\.
 
 
-![Distribution in Serbia\. Photo: [FOTOMOVIMIENTO 15M](https://www.facebook.com/Fotomovimiento.org/)](assets/aa791bb154c4/1*mMmA43GkER8BNryZhKBdqw.jpeg)
+![Distribution in Serbia\. Photo: [FOTOMOVIMIENTO 15M](https://www.facebook.com/Fotomovimiento.org/)](../assets/aa791bb154c4/1*mMmA43GkER8BNryZhKBdqw.jpeg)
 
 Distribution in Serbia\. Photo: [FOTOMOVIMIENTO 15M](https://www.facebook.com/Fotomovimiento.org/)
 

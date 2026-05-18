@@ -1,5 +1,5 @@
 ---
-title: AYS Digest 4/7: Spiral of violence continues with attacks in three Saudi cities
+title: "AYS Digest 4/7: Spiral of violence continues with attacks in three Saudi cities"
 author: Are You Syrious?
 date: 2016-07-04T21:48:25.894+0100
 last_modified_at: 2016-07-04T22:12:40.401+0100
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe]
 description: Suicide bombs hit three cities in Saudi Arabia including the holy city of Medina. Coordinates for the new camp in Greece with information…
 image:
-  path: assets/9484a868d25b/1*23wk8BoOlNiPAWeaLZtacQ.jpeg
+  path: ../assets/9484a868d25b/1*23wk8BoOlNiPAWeaLZtacQ.jpeg
 ---
 
 ### AYS Digest 4/7: Spiral of violence continues with attacks in three Saudi cities
 
 
-![Car bomb in Medina\. Photo SIRIUS\.NEWS](assets/9484a868d25b/1*23wk8BoOlNiPAWeaLZtacQ.jpeg)
+![Car bomb in Medina\. Photo SIRIUS\.NEWS](../assets/9484a868d25b/1*23wk8BoOlNiPAWeaLZtacQ.jpeg)
 
 Car bomb in Medina\. Photo SIRIUS\.NEWS
 
@@ -31,7 +31,7 @@ There were 42 new arrivals on Greek islands today which makes for a total number
 While we deal with day to day, Greek forum of refugees \(GFR\) has published very interesting [report](http://refugees.gr/en1/wp-content/uploads/2016/07/REPORT-Access-on-International-protection-Annexes-1.pdf) that draws on the implementation of the law and the practices adopted by the authorities\. The present report mainly aims at pointing out the gap between the de jure situation, as it is defined by international law, and the de facto situation in Greece, as up to the EU\-Turkey deal of 18 March 2016\. In doing so, the privileged point of view and focus of research are represented by the series of testimonies provided by asylum seekers, refugees and communities and collected by GFR over 2015\.
 
 
-![](assets/9484a868d25b/1*FlA7rDYBJ2wmbUfj4ALvCg.jpeg)
+![](../assets/9484a868d25b/1*FlA7rDYBJ2wmbUfj4ALvCg.jpeg)
 
 
 Always taking into consideration the fast changing nature of the Greek scenario, the report was edited and updated during the first five months of 2016, in the light of fundamental events such as the entry into force of the aforementioned EU\-Turkey deal as well as the adoption of the new law 4375/2016 \(on “Common procedures for granting and withdrawing international protection”\), on 1st April 2016\.
@@ -52,7 +52,7 @@ The number of refugees and migrants currently in Belgrade has risen to above 1,0
 Finally experienced volunteers arrive to the border of Serbia and Hungary where only two independent volunteers were working for some time now\. Experienced IHO team finally are on their way to Kelebija border crossing, we wish for them to stay safe and support their efforts as the UNHCR report shows the number of asylum seekers waiting near Subotica rose to 910\. The number includes 300 asylum seekers \(of which 40% were children\) continued to wait on Serbian territory each day for admission to Hungary via the two transit zones at the border\. Hungarian authorities reported to UNHCR that 637 people were apprehended inside the country for irregular entry, while 2,091 persons were prevented from entering the country\.
 
 
-![IHO volunteers and their caravan arrive to Subotica, Serbia](assets/9484a868d25b/1*He-FTyw1WCuv3bl8hCpzYg.jpeg)
+![IHO volunteers and their caravan arrive to Subotica, Serbia](../assets/9484a868d25b/1*He-FTyw1WCuv3bl8hCpzYg.jpeg)
 
 IHO volunteers and their caravan arrive to Subotica, Serbia
 #### Hungary
@@ -61,7 +61,7 @@ IHO volunteers and their caravan arrive to Subotica, Serbia
 In the midst of turmoil with the trial with Roszke 11, there is a new camp built in Kiskunhalas in Southern Hungary\. Also, Hungarian prosecutors have [opened](http://uk.reuters.com/article/uk-europe-migrants-hungary-death-idUKKCN0Z72EW) an investigation into whether police can be held criminally responsible for abuse over the death of a [Syria](http://uk.reuters.com/places/syria) n man who [drowned](http://uk.reuters.com/article/uk-europe-migrants-hungary-death-idUKKCN0YS1AU) in the Tisza river as he was trying to cross into Hungary from Serbia in June\. On this and many more our friends from Migszol published a report that brings updates of the situation in Hungary in the period between 20th of June and 4th of July\. [Report](http://www.migszol.com/blog/why-are-hungarian-border-guards-practicing-shooting-to-kill-migszol-update-from-hungary-20-june-4-july) brings very useful information and an overview of the situation in Hungary which can be very useful for both volunteers informing people on the move as well for research and understanding\.
 
 
-![Policeforce receiving prizes at the end of a borderguard competition in eastern Hungary, June 24](assets/9484a868d25b/1*CcFvllV9SA2BRPRwl-7IlA.jpeg)
+![Policeforce receiving prizes at the end of a borderguard competition in eastern Hungary, June 24](../assets/9484a868d25b/1*CcFvllV9SA2BRPRwl-7IlA.jpeg)
 
 Policeforce receiving prizes at the end of a borderguard competition in eastern Hungary, June 24
 ### **Very useful form for collecting people’s testimonies of abuse in Hungary**
@@ -75,7 +75,7 @@ Here, there is a guide on how to conduct interviews with people that have been i
 As first relocations were carried out and four people arrived in Croatia last week under the provisions of the deal on relocations and quotas, Sara Kekuš from Center for peace studies and Welcome initiative said in an [interview](http://hr.n1info.com/a134694/Vijesti/Sara-Kekus-o-uvjetima-migranata-u-Hrvatskoj.html) with N1 TV that the reception up until now seems fine, but also stated that there should be many more people coming, 1617 to be precise\. Relocations were carried out under the media spotlight with ministers talking an opportunity for a photo op, when the reality is that people are being returned to Croatia from other EU countries almost on weekly basis\.
 
 
-![Photo: Željko Lakunić](assets/9484a868d25b/1*kcYNUzY4nutN9azuLMkeyg.jpeg)
+![Photo: Željko Lakunić](../assets/9484a868d25b/1*kcYNUzY4nutN9azuLMkeyg.jpeg)
 
 Photo: Željko Lakunić
 ### **Only 183 approved asylums out of 5000 requested in 10 years**

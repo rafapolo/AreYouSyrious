@@ -1,5 +1,5 @@
 ---
-title: AYS Digest 11/7: More border controls, less solidarity
+title: "AYS Digest 11/7: More border controls, less solidarity"
 author: Are You Syrious?
 date: 2016-07-11T23:19:04.222+0100
 last_modified_at: 2016-07-12T04:01:30.671+0100
@@ -7,13 +7,13 @@ categories:
 tags: [europe,refugees]
 description: General
 image:
-  path: assets/ed06b4224af4/1*fPeYyqp_7_WZin2S2LFheg.jpeg
+  path: ../assets/ed06b4224af4/1*fPeYyqp_7_WZin2S2LFheg.jpeg
 ---
 
 ### AYS Digest 11/7: More border controls, less solidarity
 
 
-![Security barriers are in the place all around Info Park hut\. The queues are longer than ever, all the way through the park\. Photo: Info Park](assets/ed06b4224af4/1*fPeYyqp_7_WZin2S2LFheg.jpeg)
+![Security barriers are in the place all around Info Park hut\. The queues are longer than ever, all the way through the park\. Photo: Info Park](../assets/ed06b4224af4/1*fPeYyqp_7_WZin2S2LFheg.jpeg)
 
 Security barriers are in the place all around Info Park hut\. The queues are longer than ever, all the way through the park\. Photo: Info Park
 #### General
@@ -22,7 +22,7 @@ Security barriers are in the place all around Info Park hut\. The queues are lon
 On the last day of a summit in Warsaw on Saturday, NATO head Jens Stoltenberg unveiled the new NATO project to be called operation Sea Guardian\. NATO warships and potentially drones are to help the EU control migrant flows across the Mediterranean in what critics have called the “militarization of a humanitarian crisis”\.
 
 
-![Rescue operations in Medditerenian\. Photo taken form euobserver web site](assets/ed06b4224af4/1*g9P0fGFRhQs98lku_UPCHA.jpeg)
+![Rescue operations in Medditerenian\. Photo taken form euobserver web site](../assets/ed06b4224af4/1*g9P0fGFRhQs98lku_UPCHA.jpeg)
 
 Rescue operations in Medditerenian\. Photo taken form euobserver web site
 ### **“Negative natural change” in Europe**
@@ -44,7 +44,7 @@ As NATO is preparing to “secure” fortress Europe, there is more unrest in Af
 With the number of people stranded in Greece still not dropping \(currently 56,853 are stuck in this country\), and the summer getting hotter and hotter, there is not much good news to report on\. We are receiving reports of pre\-registration in some camps, but the results of pre\-registration are still largely unknown\. One volunteer reports the atmosphere in Vasilika camp as the pre\-registration day came: “You can sense a respect for institutions \(more respect than I have for those same institutions, seeing how they dishonor themselves on a daily basis\), and for the rare opportunity to be interviewed\. Mothers have dressed up their children with their best clothes and I witness the hair combing, the curly pig tails, the excitement of the little girl showing off her favorite dress \-white with navy blue embroideries,\- the clean outfits wiping the floor as soon as mum’s eyes get distracted”
 
 
-![Photo: Basel hilft mit](assets/ed06b4224af4/1*zUZqy40shQKw5ZgNFBRNOA.jpeg)
+![Photo: Basel hilft mit](../assets/ed06b4224af4/1*zUZqy40shQKw5ZgNFBRNOA.jpeg)
 
 Photo: Basel hilft mit
 ### **Unbearable heat in the tents**
@@ -66,7 +66,7 @@ With the infrastucture in Belgrade getting worse, it’s becoming more difficult
 Moving Europe [reports](https://twitter.com/MovingEurope/status/752164223678054400) that refugees in Busmantsi detention center near Sofia have put a banner saying “Freedom now\!” on the wall, in protest against deportation and detention\.
 
 
-![Detention center, Bulgaria\. Banner reads Freedom now\. Photo: Moving Euope](assets/ed06b4224af4/1*yWmIm2HLymNVWnoZls-JkQ.jpeg)
+![Detention center, Bulgaria\. Banner reads Freedom now\. Photo: Moving Euope](../assets/ed06b4224af4/1*yWmIm2HLymNVWnoZls-JkQ.jpeg)
 
 Detention center, Bulgaria\. Banner reads Freedom now\. Photo: Moving Euope
 #### Hungary

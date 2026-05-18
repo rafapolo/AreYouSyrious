@@ -7,7 +7,7 @@ categories:
 tags: [refugees,opentheislands,frontex,istanbul,gorizia]
 description: €285 million plan for Libyan coast guard /// Over 150 refugees imprisoned in a basement in Istanbul /// Illegal deportations from Lesvos…
 image:
-  path: assets/72dadc8c4f25/1*f8W3fTYSVc1f0oUv_nk7Yg.jpeg
+  path: ../assets/72dadc8c4f25/1*f8W3fTYSVc1f0oUv_nk7Yg.jpeg
 ---
 
 ### AYS Daily Digest 29/11/2017 Estonia proposes change to the reception of applicants for international protection
@@ -15,7 +15,7 @@ image:
 €285 million plan for Libyan coast guard /// Over 150 refugees imprisoned in a basement in Istanbul /// Illegal deportations from Lesvos /// Updates from Chios and Samos /// German Conservatives plan to start deportations to Syria /// Frontex to organise its own deportation flights
 
 
-![Still 16\.000 refugees are stuck on the islands \#OPENTHEISLANDS — picture by Mara Milena](assets/72dadc8c4f25/1*f8W3fTYSVc1f0oUv_nk7Yg.jpeg)
+![Still 16\.000 refugees are stuck on the islands \#OPENTHEISLANDS — picture by Mara Milena](../assets/72dadc8c4f25/1*f8W3fTYSVc1f0oUv_nk7Yg.jpeg)
 
 Still 16\.000 refugees are stuck on the islands \#OPENTHEISLANDS — picture by Mara Milena
 #### FEATURE — Estonia proposes change to the reception of applicants for international protection\.
@@ -161,7 +161,7 @@ The report points to a lack of adequate legal support on the islands as well as 
 #### Memorial for the drowned refugees vandalised
 
 
-![[RACIST CRIMES WATCH](https://racistcrimeswatch.wordpress.com/2017/11/29/1-460/)](assets/72dadc8c4f25/1*cikEPSAQuUr6f8uY74ebbg.jpeg)
+![[RACIST CRIMES WATCH](https://racistcrimeswatch.wordpress.com/2017/11/29/1-460/)](../assets/72dadc8c4f25/1*cikEPSAQuUr6f8uY74ebbg.jpeg)
 
 [RACIST CRIMES WATCH](https://racistcrimeswatch.wordpress.com/2017/11/29/1-460/)
 
@@ -173,15 +173,15 @@ The memorial for the drowned refugees at Thermis beach in Lesvos was found vanda
 According to independent reports the authorities were about to transfer 40–50 ISO boxes to VIAL camp but the residents of Chalkios village, which is beside VIAL, filed an injunction against this measure because they don’t want the refugees to be established in the area\. The decision was in their favour and the delivery of the containers has been held off until at least the 16th of January\.
 
 
-![](assets/72dadc8c4f25/1*D2DLEcxLdL9fLOwc43qGKg.jpeg)
+![](../assets/72dadc8c4f25/1*D2DLEcxLdL9fLOwc43qGKg.jpeg)
 
 
 
-![](assets/72dadc8c4f25/1*Y7XBrDG4FKlSOtF5meCZSw.jpeg)
+![](../assets/72dadc8c4f25/1*Y7XBrDG4FKlSOtF5meCZSw.jpeg)
 
 
 
-![Photo by Ruhi Loren](assets/72dadc8c4f25/1*vPWQXi_bFcWCqd7rS5zi5w.jpeg)
+![Photo by Ruhi Loren](../assets/72dadc8c4f25/1*vPWQXi_bFcWCqd7rS5zi5w.jpeg)
 
 Photo by Ruhi Loren
 
@@ -388,7 +388,7 @@ The new centre will be a day\-only facility, operating from 9am to 5pm\. It will
 #### Women Without Borders fundraising
 
 
-![](assets/72dadc8c4f25/1*7I-lglnIdA5p1XPtWr7RYg.jpeg)
+![](../assets/72dadc8c4f25/1*7I-lglnIdA5p1XPtWr7RYg.jpeg)
 
 
 [Dunkirk/Dunkerque Women’s centre](https://web.facebook.com/refugeewomenscentre/) has launched a fundraising campaign\.

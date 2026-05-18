@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 17/10/19: Hundreds sleeping rough at this very moment, perhaps in your city too
+title: "AYS Daily Digest 17/10/19: Hundreds sleeping rough at this very moment, perhaps in your city too"
 author: Are You Syrious?
 date: 2019-10-18T12:14:28.203+0100
 last_modified_at: 2019-10-18T12:14:28.203+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,balkans,migration]
 description: Fire in Attica, aftermath on Samos reveals hardships shared by more people arriving / Help Iuventa collect info to face politically…
 image:
-  path: assets/935c26c92874/1*ZV_pt60Do99PDfnpJXrCZg.jpeg
+  path: ../assets/935c26c92874/1*ZV_pt60Do99PDfnpJXrCZg.jpeg
 ---
 
 ### AYS Daily Digest 17/10/19: Hundreds sleeping rough at this very moment, perhaps in your city too
 #### Fire in Attica, aftermath on Samos reveals hardships shared by more people arriving / Help Iuventa collect info to face politically charged accusations / Hard times in Bosnia and Herzegovina as the cold weeks arrive / calls for help & other news
 
 
-![Samos \(Photos: [Sarah Griffith](https://www.facebook.com/sarah.griffith.54738?__tn__=%2Cd%2AF%2AF-R&eid=ARDcInjn2UqovVhmel0OUNKWvXIbN2x2YN6j_uawyinPqNfIS7Z45mKLBn4uolmni_Q4X9qaxnNFfx5Q&tn-str=%2AF&hc_location=group_dialog) \)](assets/935c26c92874/1*ZV_pt60Do99PDfnpJXrCZg.jpeg)
+![Samos \(Photos: [Sarah Griffith](https://www.facebook.com/sarah.griffith.54738?__tn__=%2Cd%2AF%2AF-R&eid=ARDcInjn2UqovVhmel0OUNKWvXIbN2x2YN6j_uawyinPqNfIS7Z45mKLBn4uolmni_Q4X9qaxnNFfx5Q&tn-str=%2AF&hc_location=group_dialog) \)](../assets/935c26c92874/1*ZV_pt60Do99PDfnpJXrCZg.jpeg)
 
 Samos \(Photos: [Sarah Griffith](https://www.facebook.com/sarah.griffith.54738?__tn__=%2Cd%2AF%2AF-R&eid=ARDcInjn2UqovVhmel0OUNKWvXIbN2x2YN6j_uawyinPqNfIS7Z45mKLBn4uolmni_Q4X9qaxnNFfx5Q&tn-str=%2AF&hc_location=group_dialog) \)
 #### FEATURED
@@ -61,21 +61,21 @@ Since yesterday at least eight boats have arrived on the Greek Aegean Islands, 2
 Here is the official report on the capacities on the Aegean islands:
 
 
-![](assets/935c26c92874/0*NTLlivyrlB-xgJYR.jpg)
+![](../assets/935c26c92874/0*NTLlivyrlB-xgJYR.jpg)
 
 
 
-![](assets/935c26c92874/1*626GL3D3X5bDTVKvmWDOPQ.jpeg)
+![](../assets/935c26c92874/1*626GL3D3X5bDTVKvmWDOPQ.jpeg)
 
 
 
-![](assets/935c26c92874/1*geeeWxtiwku9_PkHeTvi3Q.jpeg)
+![](../assets/935c26c92874/1*geeeWxtiwku9_PkHeTvi3Q.jpeg)
 
 
 
 ![I am not really quite sure where to start\. The situation here on Samos is reaching a critical level last night \(…\) we passed many people sleeping on the streets\. I have been told this has not happened here before\.
 Walking passed people with nothing lying on the ground with simply a blanket or sleeping bag took me straight back to The Jungle in Calais and the streets of Paris\.
-Apparently there are around 700 people without any shelter of any description after the fire so this would explain the situation\! — Photos by [Sarah Griffith](https://www.facebook.com/sarah.griffith.54738?__tn__=%2Cd%2AF%2AF-R&eid=ARDcInjn2UqovVhmel0OUNKWvXIbN2x2YN6j_uawyinPqNfIS7Z45mKLBn4uolmni_Q4X9qaxnNFfx5Q&tn-str=%2AF&hc_location=group_dialog)](assets/935c26c92874/1*h0vwzxfL0H1dvUlc_KcLTw.jpeg)
+Apparently there are around 700 people without any shelter of any description after the fire so this would explain the situation\! — Photos by [Sarah Griffith](https://www.facebook.com/sarah.griffith.54738?__tn__=%2Cd%2AF%2AF-R&eid=ARDcInjn2UqovVhmel0OUNKWvXIbN2x2YN6j_uawyinPqNfIS7Z45mKLBn4uolmni_Q4X9qaxnNFfx5Q&tn-str=%2AF&hc_location=group_dialog)](../assets/935c26c92874/1*h0vwzxfL0H1dvUlc_KcLTw.jpeg)
 
 I am not really quite sure where to start\. The situation here on Samos is reaching a critical level last night \(…\) we passed many people sleeping on the streets\. I have been told this has not happened here before\.
 Walking passed people with nothing lying on the ground with simply a blanket or sleeping bag took me straight back to The Jungle in Calais and the streets of Paris\.
@@ -97,11 +97,11 @@ At least 167 people have reportedly arrived during the week, in the aftermath of
 The situation has exceeded capacities of the ground NGOs, and now desperately and very obviously hangs on a thread of the political will, or lack there of\.
 
 
-![](assets/935c26c92874/1*zCBFeAc0IIm6mF_i30wdCQ.jpeg)
+![](../assets/935c26c92874/1*zCBFeAc0IIm6mF_i30wdCQ.jpeg)
 
 
 
-![Photos: [Samos24\.gr](https://www.facebook.com/24samos/?tn-str=k%2AF)](assets/935c26c92874/1*1u1m5GsS35Y-Zc4qpEgqAQ.jpeg)
+![Photos: [Samos24\.gr](https://www.facebook.com/24samos/?tn-str=k%2AF)](../assets/935c26c92874/1*1u1m5GsS35Y-Zc4qpEgqAQ.jpeg)
 
 Photos: [Samos24\.gr](https://www.facebook.com/24samos/?tn-str=k%2AF)
 
@@ -123,7 +123,7 @@ Sadly, we couldn't yet get back in touch with the travellers.
 “Many Eritrean, Ethiopian, Somali and Sudanese refugees in the GDF have been “rejected” by UNHCR\. They have been told that they will not be evacuated, they should go back to their own countries\. No right to appeal or review\. Vulnerable and traumatised young men, women, children who have suffered years of atrocities in Libya now condemned by UNHCR to homelessness and starvation upon exit from the GDF, huge risks of being abducted and tortured for ransom or detained, enslaved and left to die of hunger and TB with no hope of evacuation\. This is all unbearable,” [Giulia Tranchina](https://www.facebook.com/rastajuly?__tn__=%2Cd%2AF%2AF-R&eid=ARDgsTq4znOC6y4Bn0cDUXPMa_8LYRpEnf2i4ALBW1SVY8vq0bC9yc6ODXcbchzLBghv9TwYXJtF85Wm&tn-str=%2AF&hc_location=group_dialog) reports\.
 
 
-![Photo: [Giulia Tranchina](https://www.facebook.com/rastajuly?__tn__=%2Cd%2AF%2AF-R&eid=ARDgsTq4znOC6y4Bn0cDUXPMa_8LYRpEnf2i4ALBW1SVY8vq0bC9yc6ODXcbchzLBghv9TwYXJtF85Wm&tn-str=%2AF&hc_location=group_dialog)](assets/935c26c92874/1*DtG7XpllX-mJehRdcJ-DoA.jpeg)
+![Photo: [Giulia Tranchina](https://www.facebook.com/rastajuly?__tn__=%2Cd%2AF%2AF-R&eid=ARDgsTq4znOC6y4Bn0cDUXPMa_8LYRpEnf2i4ALBW1SVY8vq0bC9yc6ODXcbchzLBghv9TwYXJtF85Wm&tn-str=%2AF&hc_location=group_dialog)](../assets/935c26c92874/1*DtG7XpllX-mJehRdcJ-DoA.jpeg)
 
 Photo: [Giulia Tranchina](https://www.facebook.com/rastajuly?__tn__=%2Cd%2AF%2AF-R&eid=ARDgsTq4znOC6y4Bn0cDUXPMa_8LYRpEnf2i4ALBW1SVY8vq0bC9yc6ODXcbchzLBghv9TwYXJtF85Wm&tn-str=%2AF&hc_location=group_dialog)
 
@@ -304,19 +304,19 @@ NGO boats are NOT a pull factor but they do SAVE LIVES
 Even though the situation in Tuzla cannot be compared to the one in Bihać, city that bears the biggest burden of the crisis in Bosnia and Herzegovina, this town also sees at least 200 people arriving from Serbia\. Everyone needs a lot of support after arriving, and apart from the document stating their intention to seek asylum, there is nothing else for them in this city\.
 
 
-![](assets/935c26c92874/1*_kG3ZabqVfTtH34gNgBkvA.jpeg)
+![](../assets/935c26c92874/1*_kG3ZabqVfTtH34gNgBkvA.jpeg)
 
 
 It has been 18 months that the government is failing to properly react to the issue, and the cantonal, as well as the city authorities have been acting as if nothing has been going on all the while\. On the other hand, a small group of volunteers, with help from several NGOs, still stands firm in their efforts to ease the difficult situation for those passing through Tuzla\.
 
 
-![](assets/935c26c92874/1*Vc189IM8uIGBPKKEwOm7cg.jpeg)
+![](../assets/935c26c92874/1*Vc189IM8uIGBPKKEwOm7cg.jpeg)
 
 
 The people on the move usually stay for a couple of days, while a small group of people have been staying in the city for several months\. Most of them want to go back to Greece after having attempted to many times to pass border with Croatia, with no success\.
 
 
-![](assets/935c26c92874/1*xqwhZxDbuBjJBlokVjduzQ.jpeg)
+![](../assets/935c26c92874/1*xqwhZxDbuBjJBlokVjduzQ.jpeg)
 
 
 The last couple of days have been extremely difficult because most of the people sleep rough, and the temperature in Tuzla has reached very low levels\. On Tuesday, 200 people slept under the open sky\. It is important to mention that no person who arrived to Tuzla has fallen asleep hungry or without a cover\.
@@ -324,13 +324,13 @@ The last couple of days have been extremely difficult because most of the people
 What mostly worries the volunteers is a rising number of people on the move who have scabies\. There is a medical volunteer team, but it is very difficult to properly treat the patients, especially given the living conditions\. All work is done in the streets\.
 
 
-![](assets/935c26c92874/1*CKS4oEdUUHaw9fmmIGI8Rw.jpeg)
+![](../assets/935c26c92874/1*CKS4oEdUUHaw9fmmIGI8Rw.jpeg)
 
 
 On the other hand, people are in more and more difficult psychological state and they feel helpless\. They are forced to ask for money for the tickets, begging is a permanent practice across the city whose citizens aren’t living an easy life themselves\.
 
 
-![](assets/935c26c92874/1*NWXGHgPq79G1BIyfAzeT2A.jpeg)
+![](../assets/935c26c92874/1*NWXGHgPq79G1BIyfAzeT2A.jpeg)
 
 #### FRANCE
 

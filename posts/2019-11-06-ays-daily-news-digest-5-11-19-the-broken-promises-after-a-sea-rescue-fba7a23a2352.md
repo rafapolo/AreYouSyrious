@@ -1,5 +1,5 @@
 ---
-title: AYS Daily News Digest 5/11/19: The broken promises after a sea rescue
+title: "AYS Daily News Digest 5/11/19: The broken promises after a sea rescue"
 author: Are You Syrious?
 date: 2019-11-06T00:36:42.446+0000
 last_modified_at: 2019-11-06T11:21:25.125+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,greece,digest,libya,sea]
 description: People still wait for a relocation // Winter approaching in Bosnia // People left on the streets is Libya // Greece wants to implement new…
 image:
-  path: assets/fba7a23a2352/1*jTaP3pu9K-wB1QU7hczr5w.jpeg
+  path: ../assets/fba7a23a2352/1*jTaP3pu9K-wB1QU7hczr5w.jpeg
 ---
 
 ### AYS Daily News Digest 5/11/19: The broken promises after a sea rescue
 #### People still wait for a relocation // Winter approaching in Bosnia // People left on the streets is Libya // Greece wants to implement new distribution system
 
 
-![Despite the promise of a relocation, some people are still waiting for it\. Credits: [Sea\-Watch](https://www.facebook.com/seawatchprojekt/photos/a.1579563625595046/2379710425580358/?type=3&theater)](assets/fba7a23a2352/1*jTaP3pu9K-wB1QU7hczr5w.jpeg)
+![Despite the promise of a relocation, some people are still waiting for it\. Credits: [Sea\-Watch](https://www.facebook.com/seawatchprojekt/photos/a.1579563625595046/2379710425580358/?type=3&theater)](../assets/fba7a23a2352/1*jTaP3pu9K-wB1QU7hczr5w.jpeg)
 
 Despite the promise of a relocation, some people are still waiting for it\. Credits: [Sea\-Watch](https://www.facebook.com/seawatchprojekt/photos/a.1579563625595046/2379710425580358/?type=3&theater)
 ### Sea

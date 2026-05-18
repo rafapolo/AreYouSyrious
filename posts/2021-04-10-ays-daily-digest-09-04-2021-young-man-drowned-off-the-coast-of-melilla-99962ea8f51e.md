@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,melilla,spain]
 description: New Rescue Vessel Coming to the Mediterranean//New Integration Scheme in Greece//The Balkan Route During the Pandemic
 image:
-  path: assets/99962ea8f51e/0*itCpM5m6MZroOTbW.jpg
+  path: ../assets/99962ea8f51e/0*itCpM5m6MZroOTbW.jpg
 ---
 
 ### AYS Daily Digest 09/04/2021 — Young Man Drowned Off the Coast of Melilla
 #### New rescue vessel coming to the Mediterranean//New integration scheme in Greece//The Balkan route during the pandemic
 
 
-![Illustrations of the Balkan Route \(artist: Hannah Kirmes Daly/Brush & Bow C\.I\.C\. Via [TRT World](https://www.trtworld.com/magazine/torture-and-pushbacks-stories-of-migration-to-europe-during-covid-19-45421) \)](assets/99962ea8f51e/0*itCpM5m6MZroOTbW.jpg)
+![Illustrations of the Balkan Route \(artist: Hannah Kirmes Daly/Brush & Bow C\.I\.C\. Via [TRT World](https://www.trtworld.com/magazine/torture-and-pushbacks-stories-of-migration-to-europe-during-covid-19-45421) \)](../assets/99962ea8f51e/0*itCpM5m6MZroOTbW.jpg)
 
 Illustrations of the Balkan Route \(artist: Hannah Kirmes Daly/Brush & Bow C\.I\.C\. Via [TRT World](https://www.trtworld.com/magazine/torture-and-pushbacks-stories-of-migration-to-europe-during-covid-19-45421) \)
 #### FEATURE
@@ -66,7 +66,7 @@ There are [1,290 children](https://www.facebook.com/lighthouserelief/posts/38235
 _Lesvos:_
 
 
-![[Parwana Amiri](https://twitter.com/parwana_amiri/status/1380443874896777217/photo/1) ’s illustration of her time in Moria](assets/99962ea8f51e/0*SFCf_vpKFbkKYZfy)
+![[Parwana Amiri](https://twitter.com/parwana_amiri/status/1380443874896777217/photo/1) ’s illustration of her time in Moria](../assets/99962ea8f51e/0*SFCf_vpKFbkKYZfy)
 
 [Parwana Amiri](https://twitter.com/parwana_amiri/status/1380443874896777217/photo/1) ’s illustration of her time in Moria
 
@@ -162,7 +162,7 @@ Sweden’s ostensibly centre\-left government has proposed a bill to [further re
 #### Arrivals continue at Napier Barracks despite condemnation
 
 
-![From a thread by [Care4Calais](https://twitter.com/Care4Calais/status/1380551704920395782/photo/1)](assets/99962ea8f51e/0*ucO5WkiNk1dV0AqU)
+![From a thread by [Care4Calais](https://twitter.com/Care4Calais/status/1380551704920395782/photo/1)](../assets/99962ea8f51e/0*ucO5WkiNk1dV0AqU)
 
 From a thread by [Care4Calais](https://twitter.com/Care4Calais/status/1380551704920395782/photo/1)
 
@@ -188,7 +188,7 @@ Frontex has previously made some baffling attempts at cleaning up its image\. Fo
 Now, they are launching a [Frontex photo contest](https://frontex.europa.eu/media-centre/news/news-release/frontex-photo-competition-europe-day-PxeK4e?fbclid=IwAR2lHXW5FhFrJGH8Hz1-YSgV7ObP-F-vi6yuRkrYTULKQ-J6-YRsBGByiY8) among officers to celebrate Europe Day on May 9th\. Categories include “cooperation with national authorities,” “Frontier landscapes,” and most ironically, “a helping hand at the border\.”
 
 
-![“Who wants to participate in the photo contest organized by Frontex? With this photo, I chose to participate in the third category, ‘A helping hand at the border — show us how European solidarity works in practice\.’ Photo taken in Albania where Frontex participates among others in violent pushbacks to Greece\. A small glimpse of the hands extended by the European Border Agency\. \#borderskill Who wants to participate?” Photo and caption by [Sophia bisio](https://www.facebook.com/permalink.php?story_fbid=2911286475781004&id=100006990408070)](assets/99962ea8f51e/0*-7x40foilAWEt7rh)
+![“Who wants to participate in the photo contest organized by Frontex? With this photo, I chose to participate in the third category, ‘A helping hand at the border — show us how European solidarity works in practice\.’ Photo taken in Albania where Frontex participates among others in violent pushbacks to Greece\. A small glimpse of the hands extended by the European Border Agency\. \#borderskill Who wants to participate?” Photo and caption by [Sophia bisio](https://www.facebook.com/permalink.php?story_fbid=2911286475781004&id=100006990408070)](../assets/99962ea8f51e/0*-7x40foilAWEt7rh)
 
 “Who wants to participate in the photo contest organized by Frontex? With this photo, I chose to participate in the third category, ‘A helping hand at the border — show us how European solidarity works in practice\.’ Photo taken in Albania where Frontex participates among others in violent pushbacks to Greece\. A small glimpse of the hands extended by the European Border Agency\. \#borderskill Who wants to participate?” Photo and caption by [Sophia bisio](https://www.facebook.com/permalink.php?story_fbid=2911286475781004&id=100006990408070)
 #### GENERAL

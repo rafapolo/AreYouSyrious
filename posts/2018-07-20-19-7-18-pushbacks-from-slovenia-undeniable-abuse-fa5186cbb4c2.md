@@ -1,5 +1,5 @@
 ---
-title: 19/7/18 Pushbacks from Slovenia: Undeniable Abuse
+title: "19/7/18 Pushbacks from Slovenia: Undeniable Abuse"
 author: Are You Syrious?
 date: 2018-07-20T20:51:58.337+0100
 last_modified_at: 2018-07-20T20:51:58.337+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,sea,murder,child-education]
 description: Children in Syria are growing up having only known war//a released video of the murder scene by the LBC//a HWR report on children’s denied…
 image:
-  path: assets/fa5186cbb4c2/1*2Llnb9KTXMt2O5xQDY2WqQ.jpeg
+  path: ../assets/fa5186cbb4c2/1*2Llnb9KTXMt2O5xQDY2WqQ.jpeg
 ---
 
 ### 19/7/18 Pushbacks from Slovenia: Undeniable Abuse
@@ -15,7 +15,7 @@ image:
 _Children in Syria are growing up having only known war//a released video of the murder scene by the LBC//a HWR report on children’s denied access to education in Greece//deportations from Germany there and back again//and so much more…_
 
 
-![Results of Croatian and Slovenian police abuse\. PC: [Gabriel Tizon](https://www.facebook.com/gabrieltizonfotografo/posts/1814105971968550)](assets/fa5186cbb4c2/1*2Llnb9KTXMt2O5xQDY2WqQ.jpeg)
+![Results of Croatian and Slovenian police abuse\. PC: [Gabriel Tizon](https://www.facebook.com/gabrieltizonfotografo/posts/1814105971968550)](../assets/fa5186cbb4c2/1*2Llnb9KTXMt2O5xQDY2WqQ.jpeg)
 
 Results of Croatian and Slovenian police abuse\. PC: [Gabriel Tizon](https://www.facebook.com/gabrieltizonfotografo/posts/1814105971968550)
 ### Feature: Pushbacks from Slovenia
@@ -32,7 +32,7 @@ Amnesty International Slovenia and Legal Information Center for NGOs are calling
 Meanwhile, 7 years into the Syrian Civil War, Children are growing up having known nothing else\. The Syrian civil defense team is leading a campaign for children to recognize remnants of shelling and how to properly get away from them\. Children are being taught how to just survive another day\.
 
 
-![PC: [Syria Civil Defence Idlib The WhiteHelmets](https://www.facebook.com/Syria-Civil-Defence-Idlib-The-WhiteHelmets-1489609321340242/)](assets/fa5186cbb4c2/1*-iulgU71AjbDZsd-V_0UyA.jpeg)
+![PC: [Syria Civil Defence Idlib The WhiteHelmets](https://www.facebook.com/Syria-Civil-Defence-Idlib-The-WhiteHelmets-1489609321340242/)](../assets/fa5186cbb4c2/1*-iulgU71AjbDZsd-V_0UyA.jpeg)
 
 PC: [Syria Civil Defence Idlib The WhiteHelmets](https://www.facebook.com/Syria-Civil-Defence-Idlib-The-WhiteHelmets-1489609321340242/)
 ### Morocco
@@ -44,7 +44,7 @@ PC: [Syria Civil Defence Idlib The WhiteHelmets](https://www.facebook.com/Syria-
 ### Sea
 
 
-![Proactiva Arms has announced that their ships will dock in the port of Palma De Mallorca next Saturday morning\.](assets/fa5186cbb4c2/1*jq5jLLJ26TBhzqqBrQXX2g.jpeg)
+![Proactiva Arms has announced that their ships will dock in the port of Palma De Mallorca next Saturday morning\.](../assets/fa5186cbb4c2/1*jq5jLLJ26TBhzqqBrQXX2g.jpeg)
 
 Proactiva Arms has announced that their ships will dock in the port of Palma De Mallorca next Saturday morning\.
 
@@ -100,7 +100,7 @@ Yet more deportations are expected to come with [Merkel’s three\-party coaliti
 Another [sit in](https://www.flickr.com/photos/julia_daiber/sets/72157697592970091) was held today at the administrative bureau for interior affairs\. The protesters demanded to shut down the camp at Gottlieb Daimler Straße once again\.
 
 
-![PC: Julia Daiber](assets/fa5186cbb4c2/1*mK_pYZjOMDakUHKwsw9IbQ.jpeg)
+![PC: Julia Daiber](../assets/fa5186cbb4c2/1*mK_pYZjOMDakUHKwsw9IbQ.jpeg)
 
 PC: Julia Daiber
 ### France

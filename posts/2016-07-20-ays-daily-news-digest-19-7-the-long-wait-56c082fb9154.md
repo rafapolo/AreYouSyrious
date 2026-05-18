@@ -1,5 +1,5 @@
 ---
-title: AYS Daily News Digest 19/7: The Long Wait
+title: "AYS Daily News Digest 19/7: The Long Wait"
 author: Are You Syrious?
 date: 2016-07-20T00:05:40.171+0100
 last_modified_at: 2016-07-20T00:05:40.171+0100
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe]
 description: Refugee children, many of whom are orphans, being deported back to their countries of origin after reaching 18. Deportations from Serbia…
 image:
-  path: assets/56c082fb9154/1*_s8VnV1zNFBVGs1E6IeBLg.jpeg
+  path: ../assets/56c082fb9154/1*_s8VnV1zNFBVGs1E6IeBLg.jpeg
 ---
 
 ### AYS Daily News Digest 19/7: The Long Wait
 
 
-![Volunteers doing their best to put smiles on refugee children’s faces\. Credits: [**Contaminando Sonrisas**](https://www.facebook.com/CntmSonrisas/)](assets/56c082fb9154/1*_s8VnV1zNFBVGs1E6IeBLg.jpeg)
+![Volunteers doing their best to put smiles on refugee children’s faces\. Credits: [**Contaminando Sonrisas**](https://www.facebook.com/CntmSonrisas/)](../assets/56c082fb9154/1*_s8VnV1zNFBVGs1E6IeBLg.jpeg)
 
 Volunteers doing their best to put smiles on refugee children’s faces\. Credits: [**Contaminando Sonrisas**](https://www.facebook.com/CntmSonrisas/)
 
@@ -40,7 +40,7 @@ According to the UN, there has been 400\.000 deaths so far in Aleppo\.
 Watch the video of today’s bombing [here](https://www.facebook.com/liveupdatesfromsyria/videos/912533192190457/?autoplay_reason=gatekeeper&video_container_type=0&video_creator_product_type=2&app_id=2392950137) \.
 
 
-![Credits: Syria Civil Defense](assets/56c082fb9154/1*xWuHDMNkjtimztLX161OXg.jpeg)
+![Credits: Syria Civil Defense](../assets/56c082fb9154/1*xWuHDMNkjtimztLX161OXg.jpeg)
 
 Credits: Syria Civil Defense
 
@@ -70,17 +70,17 @@ NPI teams are currently collecting information in all camps on the dietary diver
 Many kids attended\. They had a lot of fun and were very happy afterwards\!
 
 
-![Credits: [**Open Cultural Center — OCC — former Idomeni Cultural Center**](https://www.facebook.com/OpenCulturalCenter/)](assets/56c082fb9154/1*nfzOpsfC-mkQYpyWh6GhOg.jpeg)
+![Credits: [**Open Cultural Center — OCC — former Idomeni Cultural Center**](https://www.facebook.com/OpenCulturalCenter/)](../assets/56c082fb9154/1*nfzOpsfC-mkQYpyWh6GhOg.jpeg)
 
 Credits: [**Open Cultural Center — OCC — former Idomeni Cultural Center**](https://www.facebook.com/OpenCulturalCenter/)
 
 
-![Credits: [**Open Cultural Center — OCC — former Idomeni Cultural Center**](https://www.facebook.com/OpenCulturalCenter/)](assets/56c082fb9154/1*zbH8ptPjKUKL2tnkciraqw.jpeg)
+![Credits: [**Open Cultural Center — OCC — former Idomeni Cultural Center**](https://www.facebook.com/OpenCulturalCenter/)](../assets/56c082fb9154/1*zbH8ptPjKUKL2tnkciraqw.jpeg)
 
 Credits: [**Open Cultural Center — OCC — former Idomeni Cultural Center**](https://www.facebook.com/OpenCulturalCenter/)
 
 
-![Credits: [**Open Cultural Center — OCC — former Idomeni Cultural Center**](https://www.facebook.com/OpenCulturalCenter/)](assets/56c082fb9154/1*0LvWY88BZh_8c474nCvlFw.jpeg)
+![Credits: [**Open Cultural Center — OCC — former Idomeni Cultural Center**](https://www.facebook.com/OpenCulturalCenter/)](../assets/56c082fb9154/1*0LvWY88BZh_8c474nCvlFw.jpeg)
 
 Credits: [**Open Cultural Center — OCC — former Idomeni Cultural Center**](https://www.facebook.com/OpenCulturalCenter/)
 ### Clowns spotted in Turkey, bringing smiles to refugees’ faces
@@ -88,22 +88,22 @@ Credits: [**Open Cultural Center — OCC — former Idomeni Cultural Center**](h
 From Contaminando Sonrisas, a group of mainly Spanish clowns who have been going around Turkey the last 10 days in different refugees camps and realities to bring a smile to children and adults\. Since Idomeni was shut down, they kept working in various camps in Northern Greece as well\.
 
 
-![Credits: [**Contaminando Sonrisas**](https://www.facebook.com/CntmSonrisas/)](assets/56c082fb9154/1*4fKI2m_yGF2XRASo3nFIbg.jpeg)
+![Credits: [**Contaminando Sonrisas**](https://www.facebook.com/CntmSonrisas/)](../assets/56c082fb9154/1*4fKI2m_yGF2XRASo3nFIbg.jpeg)
 
 Credits: [**Contaminando Sonrisas**](https://www.facebook.com/CntmSonrisas/)
 
 
-![Credits: [**Contaminando Sonrisas**](https://www.facebook.com/CntmSonrisas/)](assets/56c082fb9154/1*CeWq_bAJo1jXGCevRXPIRw.jpeg)
+![Credits: [**Contaminando Sonrisas**](https://www.facebook.com/CntmSonrisas/)](../assets/56c082fb9154/1*CeWq_bAJo1jXGCevRXPIRw.jpeg)
 
 Credits: [**Contaminando Sonrisas**](https://www.facebook.com/CntmSonrisas/)
 
 
-![Credits: [**Contaminando Sonrisas**](https://www.facebook.com/CntmSonrisas/)](assets/56c082fb9154/1*QuDFYKdTA_0eqdOhOADeUg.jpeg)
+![Credits: [**Contaminando Sonrisas**](https://www.facebook.com/CntmSonrisas/)](../assets/56c082fb9154/1*QuDFYKdTA_0eqdOhOADeUg.jpeg)
 
 Credits: [**Contaminando Sonrisas**](https://www.facebook.com/CntmSonrisas/)
 
 
-![Credits: [**Contaminando Sonrisas**](https://www.facebook.com/CntmSonrisas/)](assets/56c082fb9154/1*_s8VnV1zNFBVGs1E6IeBLg.jpeg)
+![Credits: [**Contaminando Sonrisas**](https://www.facebook.com/CntmSonrisas/)](../assets/56c082fb9154/1*_s8VnV1zNFBVGs1E6IeBLg.jpeg)
 
 Credits: [**Contaminando Sonrisas**](https://www.facebook.com/CntmSonrisas/)
 ### This is how you can support refugees in Idomeni, Greece
@@ -111,7 +111,7 @@ Credits: [**Contaminando Sonrisas**](https://www.facebook.com/CntmSonrisas/)
 Open Cultural Center \(former Idomeni Cultural Centre\) presents their costs over the the past 5 weeks\.
 
 
-![Open Cultural Center expenditures for the past month\. Credits: Open Cultural Center](assets/56c082fb9154/1*fxrSg69pPMuOh24IXPRjcg.jpeg)
+![Open Cultural Center expenditures for the past month\. Credits: Open Cultural Center](../assets/56c082fb9154/1*fxrSg69pPMuOh24IXPRjcg.jpeg)
 
 Open Cultural Center expenditures for the past month\. Credits: Open Cultural Center
 
@@ -149,7 +149,7 @@ These spaces allow refugees to prepare supplementary and culturally appropriate 
 If you would like any more information or are interested in funding their work, please get in touch with [**Together for Better Days**](https://www.facebook.com/betterdays.ngo/?fref=nf) \.
 
 
-![How healthy can a meal prepared in these conditions be? Credits: [**Together for Better Days**](https://www.facebook.com/betterdays.ngo/?fref=nf)](assets/56c082fb9154/1*KeqgO2DCg9m8VhnwzLj2jg.jpeg)
+![How healthy can a meal prepared in these conditions be? Credits: [**Together for Better Days**](https://www.facebook.com/betterdays.ngo/?fref=nf)](../assets/56c082fb9154/1*KeqgO2DCg9m8VhnwzLj2jg.jpeg)
 
 How healthy can a meal prepared in these conditions be? Credits: [**Together for Better Days**](https://www.facebook.com/betterdays.ngo/?fref=nf)
 ### Who are the Mobile Info Team, what can they do for you and what you can do for them
@@ -179,7 +179,7 @@ You can always reach the weather report through this [link](https://sao.ngo/weat
 The weather in this link is updated twice daily\.
 
 
-![Credits: United Rescue Aid](assets/56c082fb9154/1*wNHnVivl7OZhxuibLlh1Pw.jpeg)
+![Credits: United Rescue Aid](../assets/56c082fb9154/1*wNHnVivl7OZhxuibLlh1Pw.jpeg)
 
 Credits: United Rescue Aid
 #### Serbia
@@ -205,16 +205,16 @@ The Refugee Aid Miksaliste, together with the Fondacija Ana i Vlade and the USAI
 The workshops also aim at creating cultural awareness among the locals and to promote integration of the refugees\.
 
 
-![](assets/56c082fb9154/1*24hVPBOL50O-GoEwJRWRJQ.jpeg)
+![](../assets/56c082fb9154/1*24hVPBOL50O-GoEwJRWRJQ.jpeg)
 
 
 
-![Crafts workshops for refugees at Miksaliste\. Credits: [Refugee Aid Miksalište](https://www.facebook.com/RefugeeAidMiksaliste/?ref=stream) \.](assets/56c082fb9154/1*scT-y7GShG3xSBHAGd769w.jpeg)
+![Crafts workshops for refugees at Miksaliste\. Credits: [Refugee Aid Miksalište](https://www.facebook.com/RefugeeAidMiksaliste/?ref=stream) \.](../assets/56c082fb9154/1*scT-y7GShG3xSBHAGd769w.jpeg)
 
 Crafts workshops for refugees at Miksaliste\. Credits: [Refugee Aid Miksalište](https://www.facebook.com/RefugeeAidMiksaliste/?ref=stream) \.
 
 
-![Flowers of hope\. Credits: [Refugee Aid Miksalište](https://www.facebook.com/RefugeeAidMiksaliste/?ref=stream) \.](assets/56c082fb9154/1*-MAf71rVLSDlHmofVJZ3Og.jpeg)
+![Flowers of hope\. Credits: [Refugee Aid Miksalište](https://www.facebook.com/RefugeeAidMiksaliste/?ref=stream) \.](../assets/56c082fb9154/1*-MAf71rVLSDlHmofVJZ3Og.jpeg)
 
 Flowers of hope\. Credits: [Refugee Aid Miksalište](https://www.facebook.com/RefugeeAidMiksaliste/?ref=stream) \.
 ### Aid coming to refugees at Miksaliste tonight
@@ -222,7 +222,7 @@ Flowers of hope\. Credits: [Refugee Aid Miksalište](https://www.facebook.com/Re
 Refugee Aid Mikaliste and their partners: Praxis, Save the Children, Centre for the Integration of Youth and Adra, will tonight again distribute the aid to the refugees living in the park near the University of Economics\.
 
 
-![Aid is on its way to Miksaliste\. Thank you [**Refugee Aid Miksalište**](https://www.facebook.com/RefugeeAidMiksaliste/)](assets/56c082fb9154/1*RzLHjN0nSQeBw4qQ-T4bLQ.jpeg)
+![Aid is on its way to Miksaliste\. Thank you [**Refugee Aid Miksalište**](https://www.facebook.com/RefugeeAidMiksaliste/)](../assets/56c082fb9154/1*RzLHjN0nSQeBw4qQ-T4bLQ.jpeg)
 
 Aid is on its way to Miksaliste\. Thank you [**Refugee Aid Miksalište**](https://www.facebook.com/RefugeeAidMiksaliste/)
 ### Hundreds of Migrants ‘Reached Belgrade via Bulgaria’ Last Week
@@ -250,7 +250,7 @@ The exhibition opens today and will be on display till the 1st of August in Gale
 The food given to refugees is of sub\-human condition\. For example, a bottle of an expired juice and 200g of the worst quality mortadella makes a lunch for 3 children and 2 adults\!
 
 
-![Hungry refugees\. Credits: [**Plattform Refugees Welcome**](https://www.facebook.com/plattform.refugees.welcome/)](assets/56c082fb9154/1*MET3v3I2_qw0hHi8AovUQw.jpeg)
+![Hungry refugees\. Credits: [**Plattform Refugees Welcome**](https://www.facebook.com/plattform.refugees.welcome/)](../assets/56c082fb9154/1*MET3v3I2_qw0hHi8AovUQw.jpeg)
 
 Hungry refugees\. Credits: [**Plattform Refugees Welcome**](https://www.facebook.com/plattform.refugees.welcome/)
 #### Germany
@@ -275,17 +275,17 @@ Participatory photography involves empowering participants by putting the camera
 ### Art in Calais
 
 
-![Credits: [**ART in the Jungle**](https://www.facebook.com/ARTintheJungle/)](assets/56c082fb9154/1*6CDbj2j005TGsxcE3a80cg.jpeg)
+![Credits: [**ART in the Jungle**](https://www.facebook.com/ARTintheJungle/)](../assets/56c082fb9154/1*6CDbj2j005TGsxcE3a80cg.jpeg)
 
 Credits: [**ART in the Jungle**](https://www.facebook.com/ARTintheJungle/)
 
 
-![Credits: [**ART in the Jungle**](https://www.facebook.com/ARTintheJungle/)](assets/56c082fb9154/1*4Zn0lqmPO-vy-bVabdiBjA.jpeg)
+![Credits: [**ART in the Jungle**](https://www.facebook.com/ARTintheJungle/)](../assets/56c082fb9154/1*4Zn0lqmPO-vy-bVabdiBjA.jpeg)
 
 Credits: [**ART in the Jungle**](https://www.facebook.com/ARTintheJungle/)
 
 
-![Credits: [**ART in the Jungle**](https://www.facebook.com/ARTintheJungle/)](assets/56c082fb9154/1*3xxI-W27xH5pJ3krjzSbbA.jpeg)
+![Credits: [**ART in the Jungle**](https://www.facebook.com/ARTintheJungle/)](../assets/56c082fb9154/1*3xxI-W27xH5pJ3krjzSbbA.jpeg)
 
 Credits: [**ART in the Jungle**](https://www.facebook.com/ARTintheJungle/)
 ### Police raiding some restaurants in the Calais refugee camp, confiscating food and water from refugees
@@ -293,7 +293,7 @@ Credits: [**ART in the Jungle**](https://www.facebook.com/ARTintheJungle/)
 As a part of the raid, the police are arresting restaurant owners and confiscating goods\. Many more police are on stand by down the road including water canon\. Atmosphere seems calm and resigned\.
 
 
-![Credits: [**Calais — People to People Solidarity — Action from UK**](https://www.facebook.com/groups/CalaisMigrantSolidarityActionFromUK/)](assets/56c082fb9154/1*j5Q6pU3-FCvijytegW6z-A.jpeg)
+![Credits: [**Calais — People to People Solidarity — Action from UK**](https://www.facebook.com/groups/CalaisMigrantSolidarityActionFromUK/)](../assets/56c082fb9154/1*j5Q6pU3-FCvijytegW6z-A.jpeg)
 
 Credits: [**Calais — People to People Solidarity — Action from UK**](https://www.facebook.com/groups/CalaisMigrantSolidarityActionFromUK/)
 

@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,cpr,anti-racism,eu-turkey-deal]
 description: Protests all over Europe /// 3 deaths and many people still missing in the Western Mediterranean /// 4 people are reported dead in Libyan…
 image:
-  path: assets/16a4c2782c3d/1*xabpgvZvSHVqyjp0tofwyA.jpeg
+  path: ../assets/16a4c2782c3d/1*xabpgvZvSHVqyjp0tofwyA.jpeg
 ---
 
 ### AYS Weekend Digest 16–17/03/2019 Protest of detainee in Italian CPR silenced
@@ -15,7 +15,7 @@ image:
 Protests all over Europe /// 3 deaths and many people still missing in the Western Mediterranean /// 4 people are reported dead in Libyan detention centres /// IOM stop people from accessing camps in Bosnia /// Another racist attack in Greece ///
 
 
-![THE SKY HAS NO BORDERS: Camp Borici, Bihac\. About 200 people, families, unaccompanied children and vulnerable individuals are living there currently\. The camp is run by IOM and they decide who can access the camp\. Last week artists and a clown came to visit children there — By [La Carovana Artistica](https://www.facebook.com/lacarovanaartistica/) and [Menti Libere](https://www.facebook.com/MentiLibere/)](assets/16a4c2782c3d/1*xabpgvZvSHVqyjp0tofwyA.jpeg)
+![THE SKY HAS NO BORDERS: Camp Borici, Bihac\. About 200 people, families, unaccompanied children and vulnerable individuals are living there currently\. The camp is run by IOM and they decide who can access the camp\. Last week artists and a clown came to visit children there — By [La Carovana Artistica](https://www.facebook.com/lacarovanaartistica/) and [Menti Libere](https://www.facebook.com/MentiLibere/)](../assets/16a4c2782c3d/1*xabpgvZvSHVqyjp0tofwyA.jpeg)
 
 THE SKY HAS NO BORDERS: Camp Borici, Bihac\. About 200 people, families, unaccompanied children and vulnerable individuals are living there currently\. The camp is run by IOM and they decide who can access the camp\. Last week artists and a clown came to visit children there — By [La Carovana Artistica](https://www.facebook.com/lacarovanaartistica/) and [Menti Libere](https://www.facebook.com/MentiLibere/)
 #### Feature story — 37th day of hunger strike for T, imprisoned in Italian detention centre
@@ -48,15 +48,15 @@ Together we are strong\!
 Mytilene, Lesvos \(Greece\):
 
 
-![](assets/16a4c2782c3d/1*dYZLhIhRLIl6v3FexZVa3A.jpeg)
+![](../assets/16a4c2782c3d/1*dYZLhIhRLIl6v3FexZVa3A.jpeg)
 
 
 
-![](assets/16a4c2782c3d/1*b-kQ0lKAOddkLehe2Tph2w.jpeg)
+![](../assets/16a4c2782c3d/1*b-kQ0lKAOddkLehe2Tph2w.jpeg)
 
 
 
-![Sapphos Square, Mytilene, Lesvos, Saturday 16/03/2019 \( [Photos by Lesvos Solidarity — Pikpa](https://www.facebook.com/pikpalesvos/?__tn__=kCH-R&eid=ARBjLu_sChVn5agj2I8GRiRoIIGMv02IXqeieppirdrJS0uH7JuDJOGU3A_o1CeFuj-bDNiIA8oTkQ0A&hc_ref=ARQfBY-k4_NZicI3WSl2QzeC2_lXBX21vx1TiTOZPyStWdECiXa6SMf7OPOISWnSzSU&fref=nf&__xts__[0]=68.ARD-KkTWYaLFMbYnJdfoY_HPmml5FRPlIh-ujX0Kkx1h-1JYh6qHuFKtTvbZ35KOYryO_hBx2s6XY9HVNwB9jkvPfu8SRPVfjz9ClOR-Ztgc4kAIw8vARCfqKjOqeUSAaDEF-VJHPtZUHm9w7m5s70PKZtZnBDhPTwTAjBQ7a2D1CGydkAQfTJJC8tlFRKCOXAdK914vxw1DFEn5_qHToXMUuD3Pe4UB0eeePdQd2ZM_EFEqnv3pbXJcOhrC7CEx0ILNubYqIMbhi4-5cZU3yQrH1QUBA0C1_6n46LN2tRN5iFyl2R_wKiUjbKAm0dzJI6BqbdYfHrfWK93Q_suWK-F5Je2YwZVGfutl_5yq23xhVDZMz_qSwE9niEDNj_UwKKFmIZJ9PJ7MZfigvyfAaIbPXOQc79gA_65D_XkUdkYcN1b2IcOk6_bDRRiJXV2A3EfwVPSazwscKIAyT1uyuW_mOLbEF4uRhAMhYGROFCWcMA5xbGYPass) \)](assets/16a4c2782c3d/1*flEmOH7GBqRYI0SmVD3LNA.jpeg)
+![Sapphos Square, Mytilene, Lesvos, Saturday 16/03/2019 \( [Photos by Lesvos Solidarity — Pikpa](https://www.facebook.com/pikpalesvos/?__tn__=kCH-R&eid=ARBjLu_sChVn5agj2I8GRiRoIIGMv02IXqeieppirdrJS0uH7JuDJOGU3A_o1CeFuj-bDNiIA8oTkQ0A&hc_ref=ARQfBY-k4_NZicI3WSl2QzeC2_lXBX21vx1TiTOZPyStWdECiXa6SMf7OPOISWnSzSU&fref=nf&__xts__[0]=68.ARD-KkTWYaLFMbYnJdfoY_HPmml5FRPlIh-ujX0Kkx1h-1JYh6qHuFKtTvbZ35KOYryO_hBx2s6XY9HVNwB9jkvPfu8SRPVfjz9ClOR-Ztgc4kAIw8vARCfqKjOqeUSAaDEF-VJHPtZUHm9w7m5s70PKZtZnBDhPTwTAjBQ7a2D1CGydkAQfTJJC8tlFRKCOXAdK914vxw1DFEn5_qHToXMUuD3Pe4UB0eeePdQd2ZM_EFEqnv3pbXJcOhrC7CEx0ILNubYqIMbhi4-5cZU3yQrH1QUBA0C1_6n46LN2tRN5iFyl2R_wKiUjbKAm0dzJI6BqbdYfHrfWK93Q_suWK-F5Je2YwZVGfutl_5yq23xhVDZMz_qSwE9niEDNj_UwKKFmIZJ9PJ7MZfigvyfAaIbPXOQc79gA_65D_XkUdkYcN1b2IcOk6_bDRRiJXV2A3EfwVPSazwscKIAyT1uyuW_mOLbEF4uRhAMhYGROFCWcMA5xbGYPass) \)](../assets/16a4c2782c3d/1*flEmOH7GBqRYI0SmVD3LNA.jpeg)
 
 Sapphos Square, Mytilene, Lesvos, Saturday 16/03/2019 \( [Photos by Lesvos Solidarity — Pikpa](https://www.facebook.com/pikpalesvos/?__tn__=kCH-R&eid=ARBjLu_sChVn5agj2I8GRiRoIIGMv02IXqeieppirdrJS0uH7JuDJOGU3A_o1CeFuj-bDNiIA8oTkQ0A&hc_ref=ARQfBY-k4_NZicI3WSl2QzeC2_lXBX21vx1TiTOZPyStWdECiXa6SMf7OPOISWnSzSU&fref=nf&__xts__[0]=68.ARD-KkTWYaLFMbYnJdfoY_HPmml5FRPlIh-ujX0Kkx1h-1JYh6qHuFKtTvbZ35KOYryO_hBx2s6XY9HVNwB9jkvPfu8SRPVfjz9ClOR-Ztgc4kAIw8vARCfqKjOqeUSAaDEF-VJHPtZUHm9w7m5s70PKZtZnBDhPTwTAjBQ7a2D1CGydkAQfTJJC8tlFRKCOXAdK914vxw1DFEn5_qHToXMUuD3Pe4UB0eeePdQd2ZM_EFEqnv3pbXJcOhrC7CEx0ILNubYqIMbhi4-5cZU3yQrH1QUBA0C1_6n46LN2tRN5iFyl2R_wKiUjbKAm0dzJI6BqbdYfHrfWK93Q_suWK-F5Je2YwZVGfutl_5yq23xhVDZMz_qSwE9niEDNj_UwKKFmIZJ9PJ7MZfigvyfAaIbPXOQc79gA_65D_XkUdkYcN1b2IcOk6_bDRRiJXV2A3EfwVPSazwscKIAyT1uyuW_mOLbEF4uRhAMhYGROFCWcMA5xbGYPass) \)
 
@@ -82,7 +82,7 @@ Athens \(Greece\):
 Caserta \(Italy\):
 
 
-![Caserta: Demonstration in solidarity with the Ex\-Canapificio, home to the local SPRAR, recently evicted \(photo by [CSA Ex Canapificio Caserta](https://www.facebook.com/Csa-Ex-Canapificio-Caserta-527886284018191/?__tn__=kCH-R&eid=ARDJEB05pHIQxdwtqpKEn63jv7uJkEU5F2b_bKetIhG66tMUGe9_FV3J4LpqtvVxk3aSjAQWhSL_PXu_&hc_ref=ARSQlECdyoecFt3vHyOOr9aJZPSA0fY9tGf-p9MzLp1TnqFVEbVVMAQLI7-5IYnayjY&fref=nf&__xts__[0]=68.ARAuBQrwap5QYSp_Cp6pB_aNMTWN_LJPK45j_aS_johqD7EEY7yH2Y6H970KW6ApS9BpF9Dd9XoCF-wNW8W-7DVYkkYIc7ctUYySJFuGxeu98Xx4fbg7Q38SlIa8TC2TfitihtfmKQoiEHaVNzCP86XgwhCpCfu6sO5uetaFY1txY3h7t9d8RFIntdfP6ddyfu8Z1cU3yRsXHWkErN1Y2-6AbbwpYXM-SL8TIaiH9dWJxoOCZi3WTXk5L-Hf2jeMPreCU-zz-JMAd7DmM0xRdC_O7qylEqSGpeyytmE9VcKbgkYGKuzWg6rGS6dkklKPlHaHGx_lmElSb07HOtbTwYrUrPLvaY-KNAfJvIyLAOo8JyCPdOr76MMpWly0z1Vt-rPt5OV1rQxepRg22bBlM7Av20PEe_AWD1q8pRXfT_C0px_n4nBesnXurMRDPGfgOF0NEic91NnXex5xVUsYlWdG-ByprrZXeDFmmz1Akn8TUyRJf7vyhWCw) \)](assets/16a4c2782c3d/1*Lpl-Wfs3--VVcwz4omKakA.jpeg)
+![Caserta: Demonstration in solidarity with the Ex\-Canapificio, home to the local SPRAR, recently evicted \(photo by [CSA Ex Canapificio Caserta](https://www.facebook.com/Csa-Ex-Canapificio-Caserta-527886284018191/?__tn__=kCH-R&eid=ARDJEB05pHIQxdwtqpKEn63jv7uJkEU5F2b_bKetIhG66tMUGe9_FV3J4LpqtvVxk3aSjAQWhSL_PXu_&hc_ref=ARSQlECdyoecFt3vHyOOr9aJZPSA0fY9tGf-p9MzLp1TnqFVEbVVMAQLI7-5IYnayjY&fref=nf&__xts__[0]=68.ARAuBQrwap5QYSp_Cp6pB_aNMTWN_LJPK45j_aS_johqD7EEY7yH2Y6H970KW6ApS9BpF9Dd9XoCF-wNW8W-7DVYkkYIc7ctUYySJFuGxeu98Xx4fbg7Q38SlIa8TC2TfitihtfmKQoiEHaVNzCP86XgwhCpCfu6sO5uetaFY1txY3h7t9d8RFIntdfP6ddyfu8Z1cU3yRsXHWkErN1Y2-6AbbwpYXM-SL8TIaiH9dWJxoOCZi3WTXk5L-Hf2jeMPreCU-zz-JMAd7DmM0xRdC_O7qylEqSGpeyytmE9VcKbgkYGKuzWg6rGS6dkklKPlHaHGx_lmElSb07HOtbTwYrUrPLvaY-KNAfJvIyLAOo8JyCPdOr76MMpWly0z1Vt-rPt5OV1rQxepRg22bBlM7Av20PEe_AWD1q8pRXfT_C0px_n4nBesnXurMRDPGfgOF0NEic91NnXex5xVUsYlWdG-ByprrZXeDFmmz1Akn8TUyRJf7vyhWCw) \)](../assets/16a4c2782c3d/1*Lpl-Wfs3--VVcwz4omKakA.jpeg)
 
 Caserta: Demonstration in solidarity with the Ex\-Canapificio, home to the local SPRAR, recently evicted \(photo by [CSA Ex Canapificio Caserta](https://www.facebook.com/Csa-Ex-Canapificio-Caserta-527886284018191/?__tn__=kCH-R&eid=ARDJEB05pHIQxdwtqpKEn63jv7uJkEU5F2b_bKetIhG66tMUGe9_FV3J4LpqtvVxk3aSjAQWhSL_PXu_&hc_ref=ARSQlECdyoecFt3vHyOOr9aJZPSA0fY9tGf-p9MzLp1TnqFVEbVVMAQLI7-5IYnayjY&fref=nf&__xts__[0]=68.ARAuBQrwap5QYSp_Cp6pB_aNMTWN_LJPK45j_aS_johqD7EEY7yH2Y6H970KW6ApS9BpF9Dd9XoCF-wNW8W-7DVYkkYIc7ctUYySJFuGxeu98Xx4fbg7Q38SlIa8TC2TfitihtfmKQoiEHaVNzCP86XgwhCpCfu6sO5uetaFY1txY3h7t9d8RFIntdfP6ddyfu8Z1cU3yRsXHWkErN1Y2-6AbbwpYXM-SL8TIaiH9dWJxoOCZi3WTXk5L-Hf2jeMPreCU-zz-JMAd7DmM0xRdC_O7qylEqSGpeyytmE9VcKbgkYGKuzWg6rGS6dkklKPlHaHGx_lmElSb07HOtbTwYrUrPLvaY-KNAfJvIyLAOo8JyCPdOr76MMpWly0z1Vt-rPt5OV1rQxepRg22bBlM7Av20PEe_AWD1q8pRXfT_C0px_n4nBesnXurMRDPGfgOF0NEic91NnXex5xVUsYlWdG-ByprrZXeDFmmz1Akn8TUyRJf7vyhWCw) \)
 
@@ -109,11 +109,11 @@ Barcelona \(Spain\):
 London \(UK\):
 
 
-![](assets/16a4c2782c3d/1*z3j4ALS-CERTxxjWfAsr-Q.jpeg)
+![](../assets/16a4c2782c3d/1*z3j4ALS-CERTxxjWfAsr-Q.jpeg)
 
 
 
-![\(Photos by [Guy Smallman](https://www.facebook.com/photo.php?fbid=10155900779236968&set=pcb.10155900786016968&type=3&theater) \)](assets/16a4c2782c3d/1*U18weWWAvqkMn6ABWkfNeQ.jpeg)
+![\(Photos by [Guy Smallman](https://www.facebook.com/photo.php?fbid=10155900779236968&set=pcb.10155900786016968&type=3&theater) \)](../assets/16a4c2782c3d/1*U18weWWAvqkMn6ABWkfNeQ.jpeg)
 
 \(Photos by [Guy Smallman](https://www.facebook.com/photo.php?fbid=10155900779236968&set=pcb.10155900786016968&type=3&theater) \)
 
@@ -126,14 +126,14 @@ Glasgow \(UK\):
 Cardiff \(UK\):
 
 
-![\(Photo by [Brian Osweta](https://twitter.com/BrianOsweta/status/1106879119999098880) \)](assets/16a4c2782c3d/1*aVzMWj1E5Liw71WoOxoNYw.jpeg)
+![\(Photo by [Brian Osweta](https://twitter.com/BrianOsweta/status/1106879119999098880) \)](../assets/16a4c2782c3d/1*aVzMWj1E5Liw71WoOxoNYw.jpeg)
 
 \(Photo by [Brian Osweta](https://twitter.com/BrianOsweta/status/1106879119999098880) \)
 
 Protests are continuing in Reykjavik \(Iceland\):
 
 
-![Protest in front of the parliament, Reykjavik \(Photo by [Refugees in Iceland](https://www.facebook.com/refugeesiniceland/?eid=ARDN-ByMWbl0rPIIs5FqLfQ1yFA62itjXJzG6SmyAHre8ioEF0_7cjMCZhTktRZF4zA-klu6ACqzcR6a) \)](assets/16a4c2782c3d/1*Ie_4dhwjS3q_2fSlHPsa9Q.jpeg)
+![Protest in front of the parliament, Reykjavik \(Photo by [Refugees in Iceland](https://www.facebook.com/refugeesiniceland/?eid=ARDN-ByMWbl0rPIIs5FqLfQ1yFA62itjXJzG6SmyAHre8ioEF0_7cjMCZhTktRZF4zA-klu6ACqzcR6a) \)](../assets/16a4c2782c3d/1*Ie_4dhwjS3q_2fSlHPsa9Q.jpeg)
 
 Protest in front of the parliament, Reykjavik \(Photo by [Refugees in Iceland](https://www.facebook.com/refugeesiniceland/?eid=ARDN-ByMWbl0rPIIs5FqLfQ1yFA62itjXJzG6SmyAHre8ioEF0_7cjMCZhTktRZF4zA-klu6ACqzcR6a) \)
 
@@ -241,7 +241,7 @@ FRONTEX have [published a map](https://frontex.europa.eu/along-eu-borders/migrat
 The [Yacht Fleet](https://twitter.com/ClausReisch/status/1107205283007344640?fbclid=IwAR071zOo114lMetoSpBFhDZs0Rmw9FhZFai8DSEivHRgc8dRzcF741Hb2D0) need IT Professionals and Electricians to help network their boats for effective rescue operations\.
 
 
-![](assets/16a4c2782c3d/1*Srrda-kteZU_v7eq6aI_Lw.jpeg)
+![](../assets/16a4c2782c3d/1*Srrda-kteZU_v7eq6aI_Lw.jpeg)
 
 
 GREECE
@@ -277,7 +277,7 @@ According to Alarm Phone \( [1](https://twitter.com/alarm_phone/status/110665182
 The [Spirou Trikoupi Squat for Refugees and Migrants](https://www.facebook.com/spiroutrikoupi17/?__tn__=%2Cd%2CP-R&eid=ARCVcy1h-ith6TUiATtFVOG0dGWn432mi-Y_b9BiAxtiM28h7kAlMBSsvQb_VkjsvF1sxdJDBkRtoVVv) have posted about their participation in the March for International Women’s Day on March 8th\.
 
 
-![](assets/16a4c2782c3d/1*0LISoFwm6dA7OEFsYqKPBQ.jpeg)
+![](../assets/16a4c2782c3d/1*0LISoFwm6dA7OEFsYqKPBQ.jpeg)
 
 
 
@@ -339,14 +339,14 @@ BOSNIA AND HERZEGOVINA
 #### Families forced to sleep rough due to illegal police check\-points
 
 
-![Kljuc \(Photo by [Crveni Križ Općine Ključ](https://www.facebook.com/profile.php?id=100009318317491&__tn__=%2CdlC-R-R&eid=ARC0xZksQoizmI6jEFBjfbJgqUrIyYFpy-cPLS5PoIw_ImAR91S6k0F14Em0feB0BkXh6uHTZuZOwy8b&hc_ref=ART0idDSQP1XSR1wz8rx9_byyVWCXMSxgYWQJwErZ3Ow0050ZCFCdrv17eESPtk24ks) \)](assets/16a4c2782c3d/1*2xmjnVna9DcMYs1Plt4csg.jpeg)
+![Kljuc \(Photo by [Crveni Križ Općine Ključ](https://www.facebook.com/profile.php?id=100009318317491&__tn__=%2CdlC-R-R&eid=ARC0xZksQoizmI6jEFBjfbJgqUrIyYFpy-cPLS5PoIw_ImAR91S6k0F14Em0feB0BkXh6uHTZuZOwy8b&hc_ref=ART0idDSQP1XSR1wz8rx9_byyVWCXMSxgYWQJwErZ3Ow0050ZCFCdrv17eESPtk24ks) \)](../assets/16a4c2782c3d/1*2xmjnVna9DcMYs1Plt4csg.jpeg)
 
 Kljuc \(Photo by [Crveni Križ Općine Ključ](https://www.facebook.com/profile.php?id=100009318317491&__tn__=%2CdlC-R-R&eid=ARC0xZksQoizmI6jEFBjfbJgqUrIyYFpy-cPLS5PoIw_ImAR91S6k0F14Em0feB0BkXh6uHTZuZOwy8b&hc_ref=ART0idDSQP1XSR1wz8rx9_byyVWCXMSxgYWQJwErZ3Ow0050ZCFCdrv17eESPtk24ks) \)
 
 Two families from Syria and other groups of people [spent a weekend sleeping rough](https://www.facebook.com/photo.php?fbid=2299424380378150&set=a.2299423927044862&type=3&fref=gs&dti=1652972374920129&hc_location=group) , by the road, close to city of Kljuc, Bosnia\. They, like all other people travelling from Sarajevo to Bihac by bus, were stopped by the local police at irregular and illegal check points, forced to leave the bus, and left by the road\.
 
 
-![Kljuc, Sunday 17/03/2019 \(Photo by [Sanella Lepirica](https://www.facebook.com/sanela.lepirica/posts/2334886156562601?hc_location=ufi) \)](assets/16a4c2782c3d/1*E6t6dObiK-7GaezGr5XbSA.jpeg)
+![Kljuc, Sunday 17/03/2019 \(Photo by [Sanella Lepirica](https://www.facebook.com/sanela.lepirica/posts/2334886156562601?hc_location=ufi) \)](../assets/16a4c2782c3d/1*E6t6dObiK-7GaezGr5XbSA.jpeg)
 
 Kljuc, Sunday 17/03/2019 \(Photo by [Sanella Lepirica](https://www.facebook.com/sanela.lepirica/posts/2334886156562601?hc_location=ufi) \)
 
@@ -356,7 +356,7 @@ Kljuc, Sunday 17/03/2019 \(Photo by [Sanella Lepirica](https://www.facebook.com/
 Due to rules that are never clearly explained, [IOM — UN Migration](https://medium.com/u/664cb26312d4) do not allow people to enter camps and register\. As a consequence, about 100 people are sleeping rough around BIRA camp\. People are left outside Miral, Velikla Kladusa, too\.
 
 
-![Outside Bira Camp \(Photo taken by people who are sleeping outside the camp\)](assets/16a4c2782c3d/1*kQegcaj6j3EqhL10DyjzEA.jpeg)
+![Outside Bira Camp \(Photo taken by people who are sleeping outside the camp\)](../assets/16a4c2782c3d/1*kQegcaj6j3EqhL10DyjzEA.jpeg)
 
 Outside Bira Camp \(Photo taken by people who are sleeping outside the camp\)
 
@@ -371,19 +371,19 @@ More people are arriving daily, and many get no help at all\. In Bihac, only sma
 The conditions within the camps are dreadful as always:
 
 
-![](assets/16a4c2782c3d/1*6xfhWiN_bSV-1Wh8lBocgQ.jpeg)
+![](../assets/16a4c2782c3d/1*6xfhWiN_bSV-1Wh8lBocgQ.jpeg)
 
 
 
-![](assets/16a4c2782c3d/1*NC0F7PwnYrMbRwcAULzp1Q.jpeg)
+![](../assets/16a4c2782c3d/1*NC0F7PwnYrMbRwcAULzp1Q.jpeg)
 
 
 
-![](assets/16a4c2782c3d/1*Wj1f4vADm0FMAqFn7WRN1A.jpeg)
+![](../assets/16a4c2782c3d/1*Wj1f4vADm0FMAqFn7WRN1A.jpeg)
 
 
 
-![Bira Camp \(Photos by [Udruženje Solidarnost — Bosnia](https://www.facebook.com/solidarnostbosnia/?__tn__=kC-R&eid=ARAbFIA2Qdm0gpDPM7_bQWHSfDHKQ8dqQULhxlG8cTZf9JSKLgC1m5ZiO6LdEKBZKwnbj8eViovmdVOR&hc_ref=ARR9L5Ni6TM2frz9h4gBG5ajiJtioKqzDPHp5TGFnKCxmpcr4PPlEO2TGV-dY5G2hxw&fref=nf&__xts__%5B0%5D=68.ARChsuCdGM9MtjXhimbTor5H3FHAgc7cYcCcr9FYcQZOYlz7IT9-ckzn7JYVt7lAawOxr1BTBQ58t3eSl1VJyjwhvWWFX-ugjnkfPxR_86ceZNrKDpGqwdoBIYROEXXBIMsxv89kpBZVrIdPQTgeJns-TAFg8smstXfJGOD-csGW2mXhrYntKZ77QGuDte5vENMF9nSgOfeht8yEBpTbB5AyVYpAf2-jN1pOsZrlIJKXJPDvsPjgfmNBFxGJnRSd4g0LXWA-yK37YhDR3RRRE83EDiYzxbmHa810c_92At15-4w4V8Z5oCedmjbhbJwHhxtVvvOWLk9oN1bQOAB7kADHEg) \)](assets/16a4c2782c3d/1*rizj-yPzdmB2j3ESy5s6tA.jpeg)
+![Bira Camp \(Photos by [Udruženje Solidarnost — Bosnia](https://www.facebook.com/solidarnostbosnia/?__tn__=kC-R&eid=ARAbFIA2Qdm0gpDPM7_bQWHSfDHKQ8dqQULhxlG8cTZf9JSKLgC1m5ZiO6LdEKBZKwnbj8eViovmdVOR&hc_ref=ARR9L5Ni6TM2frz9h4gBG5ajiJtioKqzDPHp5TGFnKCxmpcr4PPlEO2TGV-dY5G2hxw&fref=nf&__xts__%5B0%5D=68.ARChsuCdGM9MtjXhimbTor5H3FHAgc7cYcCcr9FYcQZOYlz7IT9-ckzn7JYVt7lAawOxr1BTBQ58t3eSl1VJyjwhvWWFX-ugjnkfPxR_86ceZNrKDpGqwdoBIYROEXXBIMsxv89kpBZVrIdPQTgeJns-TAFg8smstXfJGOD-csGW2mXhrYntKZ77QGuDte5vENMF9nSgOfeht8yEBpTbB5AyVYpAf2-jN1pOsZrlIJKXJPDvsPjgfmNBFxGJnRSd4g0LXWA-yK37YhDR3RRRE83EDiYzxbmHa810c_92At15-4w4V8Z5oCedmjbhbJwHhxtVvvOWLk9oN1bQOAB7kADHEg) \)](../assets/16a4c2782c3d/1*rizj-yPzdmB2j3ESy5s6tA.jpeg)
 
 Bira Camp \(Photos by [Udruženje Solidarnost — Bosnia](https://www.facebook.com/solidarnostbosnia/?__tn__=kC-R&eid=ARAbFIA2Qdm0gpDPM7_bQWHSfDHKQ8dqQULhxlG8cTZf9JSKLgC1m5ZiO6LdEKBZKwnbj8eViovmdVOR&hc_ref=ARR9L5Ni6TM2frz9h4gBG5ajiJtioKqzDPHp5TGFnKCxmpcr4PPlEO2TGV-dY5G2hxw&fref=nf&__xts__%5B0%5D=68.ARChsuCdGM9MtjXhimbTor5H3FHAgc7cYcCcr9FYcQZOYlz7IT9-ckzn7JYVt7lAawOxr1BTBQ58t3eSl1VJyjwhvWWFX-ugjnkfPxR_86ceZNrKDpGqwdoBIYROEXXBIMsxv89kpBZVrIdPQTgeJns-TAFg8smstXfJGOD-csGW2mXhrYntKZ77QGuDte5vENMF9nSgOfeht8yEBpTbB5AyVYpAf2-jN1pOsZrlIJKXJPDvsPjgfmNBFxGJnRSd4g0LXWA-yK37YhDR3RRRE83EDiYzxbmHa810c_92At15-4w4V8Z5oCedmjbhbJwHhxtVvvOWLk9oN1bQOAB7kADHEg) \)
 
@@ -432,7 +432,7 @@ UK
 [Haringey Anti\-Raids](https://www.facebook.com/HaringeyAR/?) report that on Friday activists have SHUT DOWN one of London’s Home Office depots near Heathrow airport, from where immigration vans leave to try and locate people wanted for deportation\.
 
 
-![Photo by [Haringey Anti Raids](https://www.facebook.com/HaringeyAR/?)](assets/16a4c2782c3d/1*t53Yz9MvNjeOTfIHyeVXhg.jpeg)
+![Photo by [Haringey Anti Raids](https://www.facebook.com/HaringeyAR/?)](../assets/16a4c2782c3d/1*t53Yz9MvNjeOTfIHyeVXhg.jpeg)
 
 Photo by [Haringey Anti Raids](https://www.facebook.com/HaringeyAR/?)
 

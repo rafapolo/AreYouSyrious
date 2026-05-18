@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,sweden,greece,turkey,digest]
 description: Update from Salaam Aldeen // Turkey deports 33 to Iran // and more…
 image:
-  path: assets/7d57f10df5e0/1*wkC3E4G-D8cj_iWZEB4e_w.jpeg
+  path: ../assets/7d57f10df5e0/1*wkC3E4G-D8cj_iWZEB4e_w.jpeg
 ---
 
 ### AYS Daily Digest 30/12/19 The Adoption of the Convention of the Rights of the Child in Sweden might not help children refugees
@@ -16,7 +16,7 @@ _Update from Salaam Aldeen // Turkey deports 33 to Iran // and more…_
 ### Feature: In Sweden the adoption of the Convention on the Rights of the Child
 
 
-![The Convention on the Rights of the Child does not necessarily help the most vulnerable children in Sweden: asylum\-seeking children\. Photo by [Marcus Eriksson / TT](https://sverigesradio.se/sida/artikel.aspx?programid=83&artikel=7374800&fbclid=IwAR2HQTAS_xIkN8SC1TRGxIFe7ueC3XjIULpM0UIaKUR_AuNJinFet79mrjM)](assets/7d57f10df5e0/1*wkC3E4G-D8cj_iWZEB4e_w.jpeg)
+![The Convention on the Rights of the Child does not necessarily help the most vulnerable children in Sweden: asylum\-seeking children\. Photo by [Marcus Eriksson / TT](https://sverigesradio.se/sida/artikel.aspx?programid=83&artikel=7374800&fbclid=IwAR2HQTAS_xIkN8SC1TRGxIFe7ueC3XjIULpM0UIaKUR_AuNJinFet79mrjM)](../assets/7d57f10df5e0/1*wkC3E4G-D8cj_iWZEB4e_w.jpeg)
 
 The Convention on the Rights of the Child does not necessarily help the most vulnerable children in Sweden: asylum\-seeking children\. Photo by [Marcus Eriksson / TT](https://sverigesradio.se/sida/artikel.aspx?programid=83&artikel=7374800&fbclid=IwAR2HQTAS_xIkN8SC1TRGxIFe7ueC3XjIULpM0UIaKUR_AuNJinFet79mrjM)
 
@@ -39,7 +39,7 @@ Worth noting is that Sweden prolonged a “temporary” and very strict, almost 
 
 
 
-![Bahrami’s letter of appeal\. Photo provided by [Kurdistan Human Rights Network](http://kurdistanhumanrights.net/en/turkey-deports-33-asylum-seekers-to-iran/?fbclid=IwAR1IjxGNF_YMkOkGByd2g03zrZZssR6LDdLaquzCUEjL4g7jqDbebOYf6cM)](assets/7d57f10df5e0/1*qtEFVc9Js_BZHYro92Z5yw.jpeg)
+![Bahrami’s letter of appeal\. Photo provided by [Kurdistan Human Rights Network](http://kurdistanhumanrights.net/en/turkey-deports-33-asylum-seekers-to-iran/?fbclid=IwAR1IjxGNF_YMkOkGByd2g03zrZZssR6LDdLaquzCUEjL4g7jqDbebOYf6cM)](../assets/7d57f10df5e0/1*qtEFVc9Js_BZHYro92Z5yw.jpeg)
 
 Bahrami’s letter of appeal\. Photo provided by [Kurdistan Human Rights Network](http://kurdistanhumanrights.net/en/turkey-deports-33-asylum-seekers-to-iran/?fbclid=IwAR1IjxGNF_YMkOkGByd2g03zrZZssR6LDdLaquzCUEjL4g7jqDbebOYf6cM)
 ### Greece
@@ -75,7 +75,7 @@ In [UNHCR’s weekly snap shot](https://reliefweb.int/sites/reliefweb.int/files/
 
 
 
-![Official records from 27/12/19\. “It’s not just numbers\. It’s people we are talking about\.” Photo provided by [Lesvos Solidarity Pikpa](https://www.facebook.com/pikpalesvos/photos/a.1650078085267616/2525045994437483/?type=3&theater)](assets/7d57f10df5e0/1*ocj7Fi-m7QFwSGv8D_fzOg.png)
+![Official records from 27/12/19\. “It’s not just numbers\. It’s people we are talking about\.” Photo provided by [Lesvos Solidarity Pikpa](https://www.facebook.com/pikpalesvos/photos/a.1650078085267616/2525045994437483/?type=3&theater)](../assets/7d57f10df5e0/1*ocj7Fi-m7QFwSGv8D_fzOg.png)
 
 Official records from 27/12/19\. “It’s not just numbers\. It’s people we are talking about\.” Photo provided by [Lesvos Solidarity Pikpa](https://www.facebook.com/pikpalesvos/photos/a.1650078085267616/2525045994437483/?type=3&theater)
 
@@ -110,7 +110,7 @@ An update from [Velos Youth](https://www.facebook.com/velosyouthathens/posts/225
 Refugee Aid Serbia’s schedule for the week can be found [here](https://www.facebook.com/refugeeaidserbia/posts/2553727604950416) \.
 
 
-![](assets/7d57f10df5e0/1*qDVPjfxSFv_yF5v7LSBbeQ.jpeg)
+![](../assets/7d57f10df5e0/1*qDVPjfxSFv_yF5v7LSBbeQ.jpeg)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

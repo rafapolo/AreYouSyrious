@@ -1,5 +1,5 @@
 ---
-title: AYS 22/11: The population of refugees in Europe is growing, yet our understanding of the process of…
+title: "AYS 22/11: The population of refugees in Europe is growing, yet our understanding of the process of…"
 author: Are You Syrious?
 date: 2016-11-22T22:46:01.918+0000
 last_modified_at: 2016-11-23T09:14:31.238+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,syrian-refugees,refugee-crisis,refugee-camps]
 description: What makes the integration of refugees in Europe difficult and how we can all do better? No hospitals left opened in Aleppo due to heavy…
 image:
-  path: assets/e1570886dce5/1*U3EKIQE9j45AHgl5Oi9LNw.jpeg
+  path: ../assets/e1570886dce5/1*U3EKIQE9j45AHgl5Oi9LNw.jpeg
 ---
 
 ### AYS 22/11: The population of refugees in Europe is growing, yet our understanding of the process of integration is limited
@@ -15,7 +15,7 @@ image:
 _What makes the integration of refugees in Europe difficult and how we can all do better? No hospitals left opened in Aleppo due to heavy bombing in the past days\. New 68,000 displaces people in Iraq\. Greek far\-right extremists attacking refugees and making their lives unsafe\._
 
 
-![](assets/e1570886dce5/1*U3EKIQE9j45AHgl5Oi9LNw.jpeg)
+![](../assets/e1570886dce5/1*U3EKIQE9j45AHgl5Oi9LNw.jpeg)
 
 
 Integrating the more than one million refugees who have come to Europe since 2015 is a key challenge for the present social peace and the future economic prosperity of the continent\. In order to start their life in Europe, refugees have to learn languages, to find a way to continue studying, find jobs, and to deal with rising anti\-refugee sentiments all over European Union, that is becoming more and more xenophobic\.
@@ -40,26 +40,26 @@ Lack of tailored English classes and job opportunities prevent people fleeing to
 In Croatia, volunteers are trying to help refugees overcome some of the barriers, like language skills\.
 
 
-![Refugees learning body parts in Croatian in refugee centre in Zagreb\. Credits: Sara Bencekovic \(AYS\)](assets/e1570886dce5/1*ZKgGUeawpSDg_X_niLGO7A.jpeg)
+![Refugees learning body parts in Croatian in refugee centre in Zagreb\. Credits: Sara Bencekovic \(AYS\)](../assets/e1570886dce5/1*ZKgGUeawpSDg_X_niLGO7A.jpeg)
 
 Refugees learning body parts in Croatian in refugee centre in Zagreb\. Credits: Sara Bencekovic \(AYS\)
 
 
-![Creative ways refugees developed for learning Croatian terms for light and switching\. Credits: Sara Bencekovic \(AYS\)](assets/e1570886dce5/1*sIxR7z0taIgwD9cMCQEBzA.jpeg)
+![Creative ways refugees developed for learning Croatian terms for light and switching\. Credits: Sara Bencekovic \(AYS\)](../assets/e1570886dce5/1*sIxR7z0taIgwD9cMCQEBzA.jpeg)
 
 Creative ways refugees developed for learning Croatian terms for light and switching\. Credits: Sara Bencekovic \(AYS\)
 
 
-![Refugees in Porin learning colours\. Credits: Sara Bencekovic \(AYS\)](assets/e1570886dce5/1*yfxstNY0occlU6Y58a1uEA.jpeg)
+![Refugees in Porin learning colours\. Credits: Sara Bencekovic \(AYS\)](../assets/e1570886dce5/1*yfxstNY0occlU6Y58a1uEA.jpeg)
 
 Refugees in Porin learning colours\. Credits: Sara Bencekovic \(AYS\)
 
 
-![](assets/e1570886dce5/1*NrVI3oT0wQix3flAq9q0nA.jpeg)
+![](../assets/e1570886dce5/1*NrVI3oT0wQix3flAq9q0nA.jpeg)
 
 
 
-![Learning Croatian\. Credits: Sara Bencekovic \(AYS\)](assets/e1570886dce5/1*kR2rLhwUUrwClEuS7ylXaQ.jpeg)
+![Learning Croatian\. Credits: Sara Bencekovic \(AYS\)](../assets/e1570886dce5/1*kR2rLhwUUrwClEuS7ylXaQ.jpeg)
 
 Learning Croatian\. Credits: Sara Bencekovic \(AYS\)
 
@@ -114,18 +114,18 @@ Responding to citizens’ concerns, the municipality’s zoning commission put a
 ### Donatios needed in Athens
 
 
-![Credits: City Plaza Squat](assets/e1570886dce5/0*e6ovdtt2ogyFuMyD.jpg)
+![Credits: City Plaza Squat](../assets/e1570886dce5/0*e6ovdtt2ogyFuMyD.jpg)
 
 Credits: City Plaza Squat
 ### Volunteers needed to help on The Streets Project/Refugee Biriyani & Bananas Winter & Food aid mission in Thessaloniki, Northern Greece
 
 
-![Credits: [**Refugee Biriyani & Bananas**](https://www.facebook.com/RefugeeBiriyaniAndBananas/)](assets/e1570886dce5/0*p21q_BmjALqIY9SW.)
+![Credits: [**Refugee Biriyani & Bananas**](https://www.facebook.com/RefugeeBiriyaniAndBananas/)](../assets/e1570886dce5/0*p21q_BmjALqIY9SW.)
 
 Credits: [**Refugee Biriyani & Bananas**](https://www.facebook.com/RefugeeBiriyaniAndBananas/)
 
 
-![Credits: [**Refugee Biriyani & Bananas**](https://www.facebook.com/RefugeeBiriyaniAndBananas/)](assets/e1570886dce5/0*uywvDoSpKL5U2_CP.)
+![Credits: [**Refugee Biriyani & Bananas**](https://www.facebook.com/RefugeeBiriyaniAndBananas/)](../assets/e1570886dce5/0*uywvDoSpKL5U2_CP.)
 
 Credits: [**Refugee Biriyani & Bananas**](https://www.facebook.com/RefugeeBiriyaniAndBananas/)
 
@@ -168,45 +168,45 @@ The completion of trials may take a number of months\. Afterward, people will be
 ### Only hot meal of the day for refugees in warehouses in Belgrade, Serbia, served by volunteers banned from aiding the needy\. 900 refugees are left hungry and malnourished
 
 
-![Credits: Lydia Gall](assets/e1570886dce5/0*o5ejlgVlF0234-h4.jpg)
+![Credits: Lydia Gall](../assets/e1570886dce5/0*o5ejlgVlF0234-h4.jpg)
 
 Credits: Lydia Gall
 
 
-![Credits: Lydia Gall](assets/e1570886dce5/0*OxRLFHGISWWjpy-X.jpg)
+![Credits: Lydia Gall](../assets/e1570886dce5/0*OxRLFHGISWWjpy-X.jpg)
 
 Credits: Lydia Gall
 ### Warehouse in Belgrade is hosting 100s of refugees\. Their reality is smoke, urine, scabies, lies; unbearable conditions
 
 
-![Credits: Lydia Gall](assets/e1570886dce5/0*EZolvw-cCq9qfHcW.jpg)
+![Credits: Lydia Gall](../assets/e1570886dce5/0*EZolvw-cCq9qfHcW.jpg)
 
 Credits: Lydia Gall
 
 
-![Credits: Lydia Gall](assets/e1570886dce5/0*5nTBaFH1TZkizurg.jpg)
+![Credits: Lydia Gall](../assets/e1570886dce5/0*5nTBaFH1TZkizurg.jpg)
 
 Credits: Lydia Gall
 ### Refugees addressing governments and people in Europe
 
 
-![](assets/e1570886dce5/0*OKZYHpyBM9LlXHJA.)
+![](../assets/e1570886dce5/0*OKZYHpyBM9LlXHJA.)
 
 
 
-![Credits: Lydia Gall](assets/e1570886dce5/0*NXcpDOCjzwdL0nxR.jpg)
+![Credits: Lydia Gall](../assets/e1570886dce5/0*NXcpDOCjzwdL0nxR.jpg)
 
 Credits: Lydia Gall
 
 
-![Credits: Lydia Gall](assets/e1570886dce5/0*wtSnYdCHwOKPkqqr.jpg)
+![Credits: Lydia Gall](../assets/e1570886dce5/0*wtSnYdCHwOKPkqqr.jpg)
 
 Credits: Lydia Gall
 #### Mediterranean
 ### 345,440 refugees arrived by sea to Europe\. 4,655 dead/missing\.
 
 
-![Credits: IOM](assets/e1570886dce5/0*T9QCWaXTa7F_oIeP.jpg)
+![Credits: IOM](../assets/e1570886dce5/0*T9QCWaXTa7F_oIeP.jpg)
 
 Credits: IOM
 #### General

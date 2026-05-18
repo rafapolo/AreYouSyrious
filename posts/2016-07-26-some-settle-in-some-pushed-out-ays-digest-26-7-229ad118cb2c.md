@@ -1,5 +1,5 @@
 ---
-title: Some settle in, some pushed out: AYS Digest 26/7
+title: "Some settle in, some pushed out: AYS Digest 26/7"
 author: Are You Syrious?
 date: 2016-07-26T23:29:56.585+0100
 last_modified_at: 2016-07-26T23:32:10.658+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: Syrian Human Rights NGO office destroyed in airstrikes. Erdogan invokes silent threat of pressing 3 million refugees into Europe, unhappy…
 image:
-  path: assets/229ad118cb2c/1*I3Lt4WJAKCU6Q2ttWspcVA.jpeg
+  path: ../assets/229ad118cb2c/1*I3Lt4WJAKCU6Q2ttWspcVA.jpeg
 ---
 
 ### Some settle in, some pushed out: AYS Digest 26/7
@@ -15,7 +15,7 @@ image:
 _Syrian Human Rights NGO office destroyed in airstrikes\. Erdogan invokes silent threat of pressing 3 million refugees into Europe, unhappy over EU\-Turkey deal disbursements\. Urgent information to prioritize safety on upcoming evacuation of E1\.5 Piraeus Port in Greece\. More refugee children learn to swim on Lesvos\. VIDEO from “The New Idomeni” at Horgoš, Serbia\. Court interpreter in Austria reveals massive negligence in providing accurate interpretation for refugees\._
 
 
-![](assets/229ad118cb2c/1*I3Lt4WJAKCU6Q2ttWspcVA.jpeg)
+![](../assets/229ad118cb2c/1*I3Lt4WJAKCU6Q2ttWspcVA.jpeg)
 
 #### SYRIA
 ### Twenty\-five explosive barrels targeted Daraya city through aerial bombardment\.
@@ -39,11 +39,11 @@ Dear volunteers and refugees, teams on the ground were just contacted by UNHCR w
 In keeping with this news, yesterday two buses came to the Pireus and took 60 Afghans to Oinofita\.
 
 
-![](assets/229ad118cb2c/1*DJMIyFUBiwL6M3XeMLN4rQ.jpeg)
+![](../assets/229ad118cb2c/1*DJMIyFUBiwL6M3XeMLN4rQ.jpeg)
 
 
 
-![Happier days in Calais, Photo courtesy of Help 4 Refugee Kids](assets/229ad118cb2c/1*_4PmdhfzLEfKBjg2TV2xlg.jpeg)
+![Happier days in Calais, Photo courtesy of Help 4 Refugee Kids](../assets/229ad118cb2c/1*_4PmdhfzLEfKBjg2TV2xlg.jpeg)
 
 Happier days in Calais, Photo courtesy of Help 4 Refugee Kids
 #### Islands
@@ -62,20 +62,20 @@ They were intercepted by ERCI which assisted in translation and was able to help
 These skills are not only lifesaving, but also help to empower the children and assist them in reclaiming possibly traumatizing memories\. What a perfect way to cool off\!
 
 
-![](assets/229ad118cb2c/1*Joz7cbeWXcGAl12wClWnFw.jpeg)
+![](../assets/229ad118cb2c/1*Joz7cbeWXcGAl12wClWnFw.jpeg)
 
 
 
-![Photos courtesy of Proem Aid](assets/229ad118cb2c/1*SS_RT7p3UCBTY5wvLHE0Nw.jpeg)
+![Photos courtesy of Proem Aid](../assets/229ad118cb2c/1*SS_RT7p3UCBTY5wvLHE0Nw.jpeg)
 
 Photos courtesy of Proem Aid
 
 
-![](assets/229ad118cb2c/1*0Kfj3VgdIfUQfV2Wz2hUlQ.jpeg)
+![](../assets/229ad118cb2c/1*0Kfj3VgdIfUQfV2Wz2hUlQ.jpeg)
 
 
 
-![](assets/229ad118cb2c/1*m10zZY3QOslVfnHb_bBNeA.jpeg)
+![](../assets/229ad118cb2c/1*m10zZY3QOslVfnHb_bBNeA.jpeg)
 
 ### Report from our friends at Action from Switzerland:
 
@@ -89,12 +89,12 @@ Photos courtesy of Proem Aid
 Furthermore, the children were able to [engage in some so\-called “colour therapy”](https://www.facebook.com/calaisaction/posts/1227452883973881) which will brighten spirits in the now and the later\.
 
 
-![Photo courtesy of Calais Action](assets/229ad118cb2c/1*5jJ3TTixt0LRZF3DxK5c9Q.jpeg)
+![Photo courtesy of Calais Action](../assets/229ad118cb2c/1*5jJ3TTixt0LRZF3DxK5c9Q.jpeg)
 
 Photo courtesy of Calais Action
 
 
-![Photo courtesy of Calais Action](assets/229ad118cb2c/1*Wwkaf968wnrrb2ZTpXUyeg.jpeg)
+![Photo courtesy of Calais Action](../assets/229ad118cb2c/1*Wwkaf968wnrrb2ZTpXUyeg.jpeg)
 
 Photo courtesy of Calais Action
 
@@ -128,11 +128,11 @@ They seek volunteers with experience in construction and carpentry as well as fe
 As these topics of feminine hygiene are often taboo among families, it provided an empowering but discreet way to tend to these needs\. Furthermore, [the volunteer team were able to distribute](https://www.facebook.com/groups/478293189015540/permalink/599430103568514/) over 200 hot meals in the parks of Thessaloniki where many refugees are located, outside of the nominal protection of camps\. One of the volunteers learned it was a boy’s 15th birthday party, so they were able to bring a bit of birthday cheer with a cake\! Crafting supplies were also distributed to children in order to give them something to do\.
 
 
-![](assets/229ad118cb2c/1*Wu-1miG3zldbig7mVFV0nA.jpeg)
+![](../assets/229ad118cb2c/1*Wu-1miG3zldbig7mVFV0nA.jpeg)
 
 
 
-![](assets/229ad118cb2c/1*WeK1IWL0hu-OtBJJ_rP72A.jpeg)
+![](../assets/229ad118cb2c/1*WeK1IWL0hu-OtBJJ_rP72A.jpeg)
 
 #### SERBIA
 ### Detailed video reveals true conditions of Horgoš transit zoneat Serbian\-Hungarian border\.
@@ -144,11 +144,11 @@ As these topics of feminine hygiene are often taboo among families, it provided 
 Courtesy of noborder activists in Belgrade, we understand that the hunger strikers at Horgoš who arrived recently now number around 300\. Twelve are in need of medical aid due to the toll taken on their bodies after the grueling march, and striking in the summer heat\. Twenty\-six more have set off from Belgrade to join their compatriots in Horgoš\.
 
 
-![](assets/229ad118cb2c/1*rdhSgPrZ58qngDF0q4j5Sw.jpeg)
+![](../assets/229ad118cb2c/1*rdhSgPrZ58qngDF0q4j5Sw.jpeg)
 
 
 
-![Refugees waiting in Belgrade, Nima Yaghmaei Photography](assets/229ad118cb2c/1*UtdUnsVqX2_Vo5T7YzyhRw.jpeg)
+![Refugees waiting in Belgrade, Nima Yaghmaei Photography](../assets/229ad118cb2c/1*UtdUnsVqX2_Vo5T7YzyhRw.jpeg)
 
 Refugees waiting in Belgrade, Nima Yaghmaei Photography
 
@@ -202,15 +202,15 @@ Such strict measures of acceptance and adherence to the law is being required of
 It was a collaborative event put on by Happy Ravers, Help4Refugee Children and Raw Material — a mentoring and talent development charity who run music and media projects with young people\. The event featured kite\-flying, face painting, and some catchy drumming as all celebrated their unity and diversity together\. [Check out their album](https://www.facebook.com/help4refugeechildren/photos/?tab=album&album_id=1773600146196396) for more pics\!
 
 
-![](assets/229ad118cb2c/1*08jzWxAj-JBlLL8cNeKoWg.jpeg)
+![](../assets/229ad118cb2c/1*08jzWxAj-JBlLL8cNeKoWg.jpeg)
 
 
 
-![](assets/229ad118cb2c/1*MUE5j9vI6Xlq-Uc8jI0dyw.jpeg)
+![](../assets/229ad118cb2c/1*MUE5j9vI6Xlq-Uc8jI0dyw.jpeg)
 
 
 
-![Photos courtesy of Help4Refugee Children](assets/229ad118cb2c/1*5BiJT9qamplM2JV-J7Twjg.jpeg)
+![Photos courtesy of Help4Refugee Children](../assets/229ad118cb2c/1*5BiJT9qamplM2JV-J7Twjg.jpeg)
 
 Photos courtesy of Help4Refugee Children
 #### GENERAL

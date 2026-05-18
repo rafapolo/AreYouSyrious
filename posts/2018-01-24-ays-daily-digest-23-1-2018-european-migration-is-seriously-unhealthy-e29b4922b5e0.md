@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 23/1/2018: European migration is seriously unhealthy
+title: "AYS DAILY DIGEST 23/1/2018: European migration is seriously unhealthy"
 author: Are You Syrious?
 date: 2018-01-24T09:26:19.268+0000
 last_modified_at: 2018-01-24T09:26:19.268+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,mental-health,croatia,greece,israel]
 description: Migrant population — especially women — frequently suffered from headaches, anxiety, insomnia, loss of appetite, abdominal and back pain //…
 image:
-  path: assets/e29b4922b5e0/1*67XoTegimVW_xfqivivwfw.jpeg
+  path: ../assets/e29b4922b5e0/1*67XoTegimVW_xfqivivwfw.jpeg
 ---
 
 ### AYS DAILY DIGEST 23/1/2018: European migration is seriously unhealthy
@@ -15,7 +15,7 @@ image:
 _Migrant population — especially women — frequently suffered from headaches, anxiety, insomnia, loss of appetite, abdominal and back pain // Children waking up in nightmares due to Dublin II regulation // Lampedusa is boiling // Campaigns against law changes in France and Belgium // Lesson about humanitarian duty from Israel_
 
 
-![\#Chios is harder than \#Lesbos because it is even more forgotten and is less visible\. \#Greece\(2/6\) Photo by Fotomovimento\.](assets/e29b4922b5e0/1*67XoTegimVW_xfqivivwfw.jpeg)
+![\#Chios is harder than \#Lesbos because it is even more forgotten and is less visible\. \#Greece\(2/6\) Photo by Fotomovimento\.](../assets/e29b4922b5e0/1*67XoTegimVW_xfqivivwfw.jpeg)
 
 \#Chios is harder than \#Lesbos because it is even more forgotten and is less visible\. \#Greece\(2/6\) Photo by Fotomovimento\.
 ### Feature
@@ -27,7 +27,7 @@ Condition refugees and migrants who are arriving in Europe are forced to live in
 In their latest report “ [Invisible emergencies? Physical and mental health needs of asyl](https://drive.google.com/file/d/18adwwfOuU8Ge-KszfZDqClPt-uO5-Fcm/view) um seekers in Croatia with a special focus on \(pregnant\) women and children”, [Medecins du Monde from Belgium](https://www.facebook.com/MdMHrvatska/) reminded about the fact that “the complexity of the migratory journey, the conditions of travel and the absence of, or inadequate access to, health care, can result in many migrants experiencing poor physical and mental health outcomes”\.
 
 
-![Photo by Fotomovimento](assets/e29b4922b5e0/1*R4ou2XlFdOZpmSx9MmreIg.jpeg)
+![Photo by Fotomovimento](../assets/e29b4922b5e0/1*R4ou2XlFdOZpmSx9MmreIg.jpeg)
 
 Photo by Fotomovimento
 
@@ -57,11 +57,11 @@ _“People really don’t need a lot to normalize and find stability\. If they f
 And she continues saying that, there is a feeling among the people that they have to fight for many things to survive: clean water, decent shelter, warm clothes\.
 
 
-![](assets/e29b4922b5e0/1*BL64aAVcZJWtS5s3_fVhqg.jpeg)
+![](../assets/e29b4922b5e0/1*BL64aAVcZJWtS5s3_fVhqg.jpeg)
 
 
 
-![Moria\. Photo by Michael Graversen who is on this 5 day trip with a child psychiatrist for the group flygtningeboern\.dk](assets/e29b4922b5e0/1*drvXC4d9Wto7VPbszvPSVg.jpeg)
+![Moria\. Photo by Michael Graversen who is on this 5 day trip with a child psychiatrist for the group flygtningeboern\.dk](../assets/e29b4922b5e0/1*drvXC4d9Wto7VPbszvPSVg.jpeg)
 
 Moria\. Photo by Michael Graversen who is on this 5 day trip with a child psychiatrist for the group flygtningeboern\.dk
 
@@ -201,11 +201,11 @@ They claim that, among another things, **Macron wants to reinforce the borders o
 
 
 
-![](assets/e29b4922b5e0/1*86jgMYdrVqBTvfzn9-Kg5w.jpeg)
+![](../assets/e29b4922b5e0/1*86jgMYdrVqBTvfzn9-Kg5w.jpeg)
 
 
 
-![Photo by MObile Refugee Support\.](assets/e29b4922b5e0/1*bAKY1pj-sKCSDzi7ecmD1w.jpeg)
+![Photo by MObile Refugee Support\.](../assets/e29b4922b5e0/1*bAKY1pj-sKCSDzi7ecmD1w.jpeg)
 
 Photo by MObile Refugee Support\.
 

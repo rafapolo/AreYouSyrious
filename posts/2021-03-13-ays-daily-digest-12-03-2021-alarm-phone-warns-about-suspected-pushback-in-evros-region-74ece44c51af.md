@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 12/03/2021: Alarm Phone warns about suspected pushback in Evros region
+title: "AYS Daily Digest 12/03/2021: Alarm Phone warns about suspected pushback in Evros region"
 author: Are You Syrious?
 date: 2021-03-13T11:35:17.563+0000
 last_modified_at: 2021-03-13T14:00:28.184+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,bosnia,greece,malt]
 description: Group of nine people missing // Low protection from Covid-19 in Greece // Police Violence in Morocco // Increase of people in Bosnian…
 image:
-  path: assets/74ece44c51af/1*ayXDSL-0k-Tf8HTdsNCXVw.jpeg
+  path: ../assets/74ece44c51af/1*ayXDSL-0k-Tf8HTdsNCXVw.jpeg
 ---
 
 ### AYS Daily Digest 12/03/2021: Alarm Phone warns about suspected pushback in Evros region
 #### Group of nine people missing // Low protection from Covid\-19 in Greece // Police Violence in Morocco // Increase of people in Bosnian border region // CPT slams Malta
 
 
-![NNK sees an increasing number of people planning to attend the “game” again\. Credits: [NoNameKitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/pb.309778972753727.-2207520000../1197440713987544/?type=3&theater)](assets/74ece44c51af/1*ayXDSL-0k-Tf8HTdsNCXVw.jpeg)
+![NNK sees an increasing number of people planning to attend the “game” again\. Credits: [NoNameKitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/pb.309778972753727.-2207520000../1197440713987544/?type=3&theater)](../assets/74ece44c51af/1*ayXDSL-0k-Tf8HTdsNCXVw.jpeg)
 
 NNK sees an increasing number of people planning to attend the “game” again\. Credits: [NoNameKitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/pb.309778972753727.-2207520000../1197440713987544/?type=3&theater)
 ### Greece

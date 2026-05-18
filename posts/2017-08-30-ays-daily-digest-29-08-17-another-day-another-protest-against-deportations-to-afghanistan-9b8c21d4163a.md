@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 29/08/17: Another day, another protest against deportations to Afghanistan
+title: "AYS Daily Digest 29/08/17: Another day, another protest against deportations to Afghanistan"
 author: Are You Syrious?
 date: 2017-08-30T00:12:20.941+0100
 last_modified_at: 2017-08-30T16:44:04.912+0100
@@ -7,7 +7,7 @@ categories:
 tags: [europe,france,greece,afghanistan,italy]
 description: 500 people saved in Libyan waters / No deaths at the Mediterranean in 20 days, IOM says / More police violence in France / Spain, Italy…
 image:
-  path: assets/9b8c21d4163a/1*_ZuwVy4jCHISscqAwqS18w.jpeg
+  path: ../assets/9b8c21d4163a/1*_ZuwVy4jCHISscqAwqS18w.jpeg
 ---
 
 ### AYS Daily Digest 29/08/17: Another day, another protest against deportations to Afghanistan
@@ -15,7 +15,7 @@ image:
 _500 people saved in Libyan waters / No deaths at the Mediterranean in 20 days, IOM says / More police violence in France / Spain, Italy, Germany, and France in a new agreement, leaving many questions unanswered / Germany and Egypt also discussing migrant deals / Human rights are still not for everyone everywhere / And more news…_
 
 
-![Afghan protesters at Lesvos\. They are stuck in limbo, but at several places\. Photo: Arash Hampay](assets/9b8c21d4163a/1*_ZuwVy4jCHISscqAwqS18w.jpeg)
+![Afghan protesters at Lesvos\. They are stuck in limbo, but at several places\. Photo: Arash Hampay](../assets/9b8c21d4163a/1*_ZuwVy4jCHISscqAwqS18w.jpeg)
 
 Afghan protesters at Lesvos\. They are stuck in limbo, but at several places\. Photo: Arash Hampay
 ### “Stop deportations to unsafe Afghanistan\!”
@@ -29,7 +29,7 @@ People are beginning to speak up more and more\. Still, neither the EU nor indiv
 Malin Björk, a politician in the European Parliament, told AYS that no one in the EU really knows what happens to the people being deported\. Politicians do admit this, she said, and are currently discussing future investigations in order to gain more knowledge about the situation for returnees\. But until this happens and depending on the results, it is not possible to defend the deportations morally, Björk claimed\. In the meantime, the deportations should be stopped immediately\. She called it counter productive — since it only will create parallel realities with young people who are living without valid documents, on the margins of society instead of being able to be a part of it\.
 
 
-![Mytilini and Sappho Square tonight\. Photo: [**Arash Hampay**](https://www.facebook.com/arashampay?hc_ref=ARTPfEPwdnR3r73ihqod4sJtEgVHQ0COVjWNmLKlItvJ0i3IeSt1VCfJkDuSxe3ncbw)](assets/9b8c21d4163a/1*qZyEMmtvrzbzjJvICkWhKw.jpeg)
+![Mytilini and Sappho Square tonight\. Photo: [**Arash Hampay**](https://www.facebook.com/arashampay?hc_ref=ARTPfEPwdnR3r73ihqod4sJtEgVHQ0COVjWNmLKlItvJ0i3IeSt1VCfJkDuSxe3ncbw)](../assets/9b8c21d4163a/1*qZyEMmtvrzbzjJvICkWhKw.jpeg)
 
 Mytilini and Sappho Square tonight\. Photo: [**Arash Hampay**](https://www.facebook.com/arashampay?hc_ref=ARTPfEPwdnR3r73ihqod4sJtEgVHQ0COVjWNmLKlItvJ0i3IeSt1VCfJkDuSxe3ncbw)
 #### SEA
@@ -128,7 +128,7 @@ The pre\-asylum centers in the two African countries would be funded by the EU, 
 Important information about [cash assistance from Advocates Abroad](https://www.facebook.com/advocatesabroad/photos/pcb.479699819057091/479699542390452/?type=3&theater) \. Those receiving cash assistance will receive a new blue card in the upcoming weeks, and have to be present at a physical check\. If you cannot attend the meeting, please inform UNHCR about this\. The amount will still be the same\.
 
 
-![Photo and info from: [Advocates Abroad](https://www.facebook.com/advocatesabroad/)](assets/9b8c21d4163a/1*Kj5jvc3HIWJeO_uJFTx27w.jpeg)
+![Photo and info from: [Advocates Abroad](https://www.facebook.com/advocatesabroad/)](../assets/9b8c21d4163a/1*Kj5jvc3HIWJeO_uJFTx27w.jpeg)
 
 Photo and info from: [Advocates Abroad](https://www.facebook.com/advocatesabroad/)
 ### **Mainland**
@@ -217,7 +217,7 @@ Later, another boat arrived\.
 **Where did the \#1951RefugeeConvention go?**
 
 
-![Photo: [**Arash Hampay**](https://www.facebook.com/arashampay?hc_ref=ARTDUKwAD9gPY1kx_d6hHCub7Fpimz2wd3Foy5yXlrS5m1GEQ6UJvyjvl9pUlSt6E8w)](assets/9b8c21d4163a/1*ymc4OaFTAsmvd8WyzN2kGA.jpeg)
+![Photo: [**Arash Hampay**](https://www.facebook.com/arashampay?hc_ref=ARTDUKwAD9gPY1kx_d6hHCub7Fpimz2wd3Foy5yXlrS5m1GEQ6UJvyjvl9pUlSt6E8w)](../assets/9b8c21d4163a/1*ymc4OaFTAsmvd8WyzN2kGA.jpeg)
 
 Photo: [**Arash Hampay**](https://www.facebook.com/arashampay?hc_ref=ARTDUKwAD9gPY1kx_d6hHCub7Fpimz2wd3Foy5yXlrS5m1GEQ6UJvyjvl9pUlSt6E8w)
 
@@ -258,7 +258,7 @@ The situation in Souda remains dreadful, and the camp is almost empty\. See the 
 [Rigardu is still active in Serbia](https://www.facebook.com/rigardu/photos/a.1576891692610709.1073741828.1572923943007484/1732162513750292/?type=3&fref=mentions) , on the border with Croatia\. The number of migrants living here, hoping to cross the border, remains at about 150 people\. A lot of them try to cross several times before they manage it\. Rigardu provides food, clothes and other things that the people living here need\.
 
 
-![Photo: Rigardu](assets/9b8c21d4163a/1*R3yf1_sPyOK_YVBKm7f_gA.jpeg)
+![Photo: Rigardu](../assets/9b8c21d4163a/1*R3yf1_sPyOK_YVBKm7f_gA.jpeg)
 
 Photo: Rigardu
 #### ITALY
@@ -288,11 +288,11 @@ A new day of demostration in Madonna di Loreto Square and at Apostoli square\. B
 The police, once again, are making life even harder for refugees in France\. They stole tents and left 40 people without not even temporary homes\. According to information received by AYS volunteers, some of the tents were already taken yesterday\. The area has now been cleaned up completely and local volunteers are trying to figure out more details about what happened\.
 
 
-![](assets/9b8c21d4163a/1*M2gK6gYV8gERaigFdaW5Tw.jpeg)
+![](../assets/9b8c21d4163a/1*M2gK6gYV8gERaigFdaW5Tw.jpeg)
 
 
 
-![Photos: PRGS and Danica Jurisic](assets/9b8c21d4163a/1*l7Q83R364dNV5Xw9-SVZcw.jpeg)
+![Photos: PRGS and Danica Jurisic](../assets/9b8c21d4163a/1*l7Q83R364dNV5Xw9-SVZcw.jpeg)
 
 Photos: PRGS and Danica Jurisic
 #### **Porte de la Chapelle**
@@ -300,7 +300,7 @@ Photos: PRGS and Danica Jurisic
 More info about the police, who are checking everyone who [“looks like a refugee”](https://www.facebook.com/photo.php?fbid=1900606296932667&set=a.1493891277604173.1073741832.100009499466124&type=3&theater) in the area\. Racial profiling and discrimination\.
 
 
-![Photo: Danica Jurisic](assets/9b8c21d4163a/1*SiygJB_mAbEl-wlpAAXJsg.jpeg)
+![Photo: Danica Jurisic](../assets/9b8c21d4163a/1*SiygJB_mAbEl-wlpAAXJsg.jpeg)
 
 Photo: Danica Jurisic
 ### **Dunkirk**

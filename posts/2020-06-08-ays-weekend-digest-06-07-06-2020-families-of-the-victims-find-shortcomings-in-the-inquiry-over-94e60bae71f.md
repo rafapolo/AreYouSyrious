@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 06–07/06/2020: Families of the victims find shortcomings in the inquiry over…
+title: "AYS Weekend Digest 06–07/06/2020: Families of the victims find shortcomings in the inquiry over…"
 author: Are You Syrious?
 date: 2020-06-08T08:54:57.627+0100
 last_modified_at: 2020-06-08T09:44:38.801+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,malta,covid-19,blacklivesmatter,refugees]
 description: 3 men sentenced in Italy for abuses in Libya // Updates on arrivals and push backs in the Aegean // False news about Evros continues //…
 image:
-  path: assets/94e60bae71f/1*echO8yeea1lfjlAXvunZ6A.jpeg
+  path: ../assets/94e60bae71f/1*echO8yeea1lfjlAXvunZ6A.jpeg
 ---
 
 ### AYS Weekend Digest 06–07/06/2020: **Families of the victims find shortcomings in the inquiry over April push\-backs and deaths at sea**
@@ -15,7 +15,7 @@ image:
 3 men sentenced in Italy for abuses in Libya // Updates on arrivals and push backs in the Aegean // False news about the Greek/Turkish border at Evros continues // Captain Morgan detainees brought to shore in Malta // Missing man in Croatia and more…
 
 
-![\(Demonstrator from last week’s protest in Athens against police and state repression\. Photo Credit: [Maria Chourdari, Art Against](https://www.facebook.com/artagainstproject/) \)](assets/94e60bae71f/1*echO8yeea1lfjlAXvunZ6A.jpeg)
+![\(Demonstrator from last week’s protest in Athens against police and state repression\. Photo Credit: [Maria Chourdari, Art Against](https://www.facebook.com/artagainstproject/) \)](../assets/94e60bae71f/1*echO8yeea1lfjlAXvunZ6A.jpeg)
 
 \(Demonstrator from last week’s protest in Athens against police and state repression\. Photo Credit: [Maria Chourdari, Art Against](https://www.facebook.com/artagainstproject/) \)
 
@@ -147,7 +147,7 @@ The unashamed use of fake news by Greek media and Greek authorities has been a c
 #### Updates from Moria White Helmets
 
 
-![Photo by [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/photos/pcb.152620476381020/152620206381047/?type=3&theater)](assets/94e60bae71f/1*xib2gekI9EsRsC-5XMxwPg.jpeg)
+![Photo by [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/photos/pcb.152620476381020/152620206381047/?type=3&theater)](../assets/94e60bae71f/1*xib2gekI9EsRsC-5XMxwPg.jpeg)
 
 Photo by [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/photos/pcb.152620476381020/152620206381047/?type=3&theater)
 
@@ -225,7 +225,7 @@ CROATIA
 Missing man
 
 
-![More info \(in Croatian\) on [kaportal\.net\.hr](https://kaportal.net.hr/aktualno/vijesti/3829860/27-godisnji-marokanac-nestao-prilikom-prelaska-rijeke-mreznice-zabrinuta-obitelj-ga-trazi-mole-za-bilo-kakvu-informaciju/)](assets/94e60bae71f/1*Etyh5OPBIOGt9LFtgKcATw.jpeg)
+![More info \(in Croatian\) on [kaportal\.net\.hr](https://kaportal.net.hr/aktualno/vijesti/3829860/27-godisnji-marokanac-nestao-prilikom-prelaska-rijeke-mreznice-zabrinuta-obitelj-ga-trazi-mole-za-bilo-kakvu-informaciju/)](../assets/94e60bae71f/1*Etyh5OPBIOGt9LFtgKcATw.jpeg)
 
 More info \(in Croatian\) on [kaportal\.net\.hr](https://kaportal.net.hr/aktualno/vijesti/3829860/27-godisnji-marokanac-nestao-prilikom-prelaska-rijeke-mreznice-zabrinuta-obitelj-ga-trazi-mole-za-bilo-kakvu-informaciju/)
 

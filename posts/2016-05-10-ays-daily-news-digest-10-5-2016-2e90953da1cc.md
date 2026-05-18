@@ -7,13 +7,13 @@ categories:
 tags: [refugees,syria]
 description: Syria
 image:
-  path: assets/2e90953da1cc/1*8b4nqNZLV2RCqYm_SFeIJg.jpeg
+  path: ../assets/2e90953da1cc/1*8b4nqNZLV2RCqYm_SFeIJg.jpeg
 ---
 
 ### AYS DAILY NEWS DIGEST 10\.5\.2016\.
 
 
-![Credits: Art Agianst](assets/2e90953da1cc/1*8b4nqNZLV2RCqYm_SFeIJg.jpeg)
+![Credits: Art Agianst](../assets/2e90953da1cc/1*8b4nqNZLV2RCqYm_SFeIJg.jpeg)
 
 Credits: Art Agianst
 #### Syria
@@ -39,7 +39,7 @@ Credits: Art Agianst
 
 
 
-![](assets/2e90953da1cc/1*Zrto1kXjkG_BpQHcuczoqA.png)
+![](../assets/2e90953da1cc/1*Zrto1kXjkG_BpQHcuczoqA.png)
 
 #### Turkey
 ### Istanbul clinic at Bezmialem University Hospital’s Fatih branch employs Syrian staff for night shifts through Doctors World Wide\.
@@ -96,11 +96,11 @@ Credits: Art Agianst
 
 
 
-![](assets/2e90953da1cc/1*nSJFWEw3--KS2gsKZY0grw.png)
+![](../assets/2e90953da1cc/1*nSJFWEw3--KS2gsKZY0grw.png)
 
 
 
-![Credits: [Giacomo](http://www.toonpool.com/artists/Giacomo_11567)](assets/2e90953da1cc/1*HrYd3r1K-lRbp55c_kDkqg.jpeg)
+![Credits: [Giacomo](http://www.toonpool.com/artists/Giacomo_11567)](../assets/2e90953da1cc/1*HrYd3r1K-lRbp55c_kDkqg.jpeg)
 
 Credits: [Giacomo](http://www.toonpool.com/artists/Giacomo_11567)
 ### Turkish border guards are shooting and beating Syrian asylum seekers trying to reach Turkey\.
@@ -160,17 +160,17 @@ Credits: [Giacomo](http://www.toonpool.com/artists/Giacomo_11567)
 
 
 
-![Credits: Matt Llewellin](assets/2e90953da1cc/1*DktN3mq0PFHUApjutLb3GA.jpeg)
+![Credits: Matt Llewellin](../assets/2e90953da1cc/1*DktN3mq0PFHUApjutLb3GA.jpeg)
 
 Credits: Matt Llewellin
 
 
-![Credits: Matt Llewellin](assets/2e90953da1cc/1*8t9PoYI6ieyMHXQUPnavLw.jpeg)
+![Credits: Matt Llewellin](../assets/2e90953da1cc/1*8t9PoYI6ieyMHXQUPnavLw.jpeg)
 
 Credits: Matt Llewellin
 
 
-![Credits: Matt Llewellin](assets/2e90953da1cc/1*BopUkqYeXzm-BhNgvEzOow.jpeg)
+![Credits: Matt Llewellin](../assets/2e90953da1cc/1*BopUkqYeXzm-BhNgvEzOow.jpeg)
 
 Credits: Matt Llewellin
 ### Imprisonment or deportation\.
@@ -237,17 +237,17 @@ Credits: Matt Llewellin
 
 
 
-![Credits: Art Against](assets/2e90953da1cc/1*FF4w2qj2pl28fjuTNxVmQQ.jpeg)
+![Credits: Art Against](../assets/2e90953da1cc/1*FF4w2qj2pl28fjuTNxVmQQ.jpeg)
 
 Credits: Art Against
 
 
-![Credits: Art Against](assets/2e90953da1cc/1*VIxJDOvkHIU8YBzOHCANrw.jpeg)
+![Credits: Art Against](../assets/2e90953da1cc/1*VIxJDOvkHIU8YBzOHCANrw.jpeg)
 
 Credits: Art Against
 
 
-![Credits: Art Against](assets/2e90953da1cc/1*WWStM78Epozv6nh27rkerg.jpeg)
+![Credits: Art Against](../assets/2e90953da1cc/1*WWStM78Epozv6nh27rkerg.jpeg)
 
 Credits: Art Against
 ### Another hunger strike in Greece
@@ -336,7 +336,7 @@ Credits: Art Against
 
 
 
-![](assets/2e90953da1cc/1*awHw1J4LTHNhEabE8o2BjA.jpeg)
+![](../assets/2e90953da1cc/1*awHw1J4LTHNhEabE8o2BjA.jpeg)
 
 #### Slovakia
 ### Investigation requested after border guard shooting incident wounds refugee woman\.
@@ -433,14 +433,14 @@ Credits: Art Against
 
 
 
-![Credits: [**Rete Solidale Pordenone**](https://www.facebook.com/retesolidalepn/?fref=photo)](assets/2e90953da1cc/1*DlypupndoLDOp43xi1P9IA.jpeg)
+![Credits: [**Rete Solidale Pordenone**](https://www.facebook.com/retesolidalepn/?fref=photo)](../assets/2e90953da1cc/1*DlypupndoLDOp43xi1P9IA.jpeg)
 
 Credits: [**Rete Solidale Pordenone**](https://www.facebook.com/retesolidalepn/?fref=photo)
 #### Germany
 ### The number of newly arriving refugees to Germany is decreasing\.
 
 
-![Credits: [**Bundesregierung**](https://www.facebook.com/Bundesregierung/photos/a.769938079764597.1073741828.768905426534529/1037294383028964/?type=3&fref=nf)](assets/2e90953da1cc/1*ismLODzXx8MQsk4_DNnXgQ.png)
+![Credits: [**Bundesregierung**](https://www.facebook.com/Bundesregierung/photos/a.769938079764597.1073741828.768905426534529/1037294383028964/?type=3&fref=nf)](../assets/2e90953da1cc/1*ismLODzXx8MQsk4_DNnXgQ.png)
 
 Credits: [**Bundesregierung**](https://www.facebook.com/Bundesregierung/photos/a.769938079764597.1073741828.768905426534529/1037294383028964/?type=3&fref=nf)
 ### Yazidis leave Europe and return to warring Iraq: When death is better than European hatred\.

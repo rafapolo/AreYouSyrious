@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 15/02/2019: Should we be afraid of the EU?
+title: "AYS DAILY DIGEST 15/02/2019: Should we be afraid of the EU?"
 author: Are You Syrious?
 date: 2019-02-16T10:41:28.300+0000
 last_modified_at: 2019-02-16T19:18:08.715+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,european-union,mediterranean,digest,germany]
 description: Four girls, all minors, died this year while trying to reach Europe // In 2018 634,700 applied for international protection in the EU+…
 image:
-  path: assets/9180282b6ee7/1*BzEQipo5wHl7-gUHFzdW0A.jpeg
+  path: ../assets/9180282b6ee7/1*BzEQipo5wHl7-gUHFzdW0A.jpeg
 ---
 
 ### AYS DAILY DIGEST 15/02/2019: Should we be afraid of the EU?
@@ -15,7 +15,7 @@ image:
 _Four girls, all minors, died this year while trying to reach Europe // In 2018 634,700 applied for international protection in the EU\+ countries // There are about 1\.5 million Syrian refugees in the country // Parents of a Mawda, girls shot by Belgium police last May, were finally granted permission to stay in the country_
 
 
-![By [Pothiti Kitromilidi](https://www.facebook.com/pothiti.kitromilidi?__tn__=%2Cd%2AF%2AF-R&eid=ARD_hLkwOTR2h53fOVGJGSrTc0D3Riu6Fqb8Z0Qo9bkCPlPhHuuKy4nc-AQkX-ZBF9yM2hM9djIN0u4G&tn-str=%2AF) ‎](assets/9180282b6ee7/1*BzEQipo5wHl7-gUHFzdW0A.jpeg)
+![By [Pothiti Kitromilidi](https://www.facebook.com/pothiti.kitromilidi?__tn__=%2Cd%2AF%2AF-R&eid=ARD_hLkwOTR2h53fOVGJGSrTc0D3Riu6Fqb8Z0Qo9bkCPlPhHuuKy4nc-AQkX-ZBF9yM2hM9djIN0u4G&tn-str=%2AF) ‎](../assets/9180282b6ee7/1*BzEQipo5wHl7-gUHFzdW0A.jpeg)
 
 By [Pothiti Kitromilidi](https://www.facebook.com/pothiti.kitromilidi?__tn__=%2Cd%2AF%2AF-R&eid=ARD_hLkwOTR2h53fOVGJGSrTc0D3Riu6Fqb8Z0Qo9bkCPlPhHuuKy4nc-AQkX-ZBF9yM2hM9djIN0u4G&tn-str=%2AF) ‎
 ### Feature
@@ -31,7 +31,7 @@ The International Red Cross reports that they have collected more than 300 reque
 In the meantime, more people are heading towards the Balkans and north of Europe\. Many will end up in Bosnia, trying to cross into Croatia and to continue further on\. Volunteers in Tuzla are reporting daily arrivals\. The same situation is in some other cities close to the border\. Existing camps in Bosnia are still not overcrowded, but if the number of arrivals continues to rise, there is a huge possibility that existing capacities will not be sufficient this spring\.
 
 
-![Bus station in Tuzla\.](assets/9180282b6ee7/1*LtUj8D_Y7JB3UxrPrZd0Aw.jpeg)
+![Bus station in Tuzla\.](../assets/9180282b6ee7/1*LtUj8D_Y7JB3UxrPrZd0Aw.jpeg)
 
 Bus station in Tuzla\.
 
@@ -73,7 +73,7 @@ At the moment, they have enough funds to keep them going for a little over a mon
 A [group of activists](https://www.facebook.com/936750383201689/posts/1008407982702595?sfns=mo) occupied the Milanese headquarters of the ministry of infrastructure and transport as the reaction to “the management of ports and coast guard in sea rejections”\.
 
 
-![](assets/9180282b6ee7/1*8vd2_FVU-Q5zprxFRuIDWQ.jpeg)
+![](../assets/9180282b6ee7/1*8vd2_FVU-Q5zprxFRuIDWQ.jpeg)
 
 
 They occupied the entrance of the venue, but some activists reached the upper floor halls dropping some banners: **Mediterranean= Cemetery of Europe\.**
@@ -82,14 +82,14 @@ They occupied the entrance of the venue, but some activists reached the upper fl
 In the night between Thursday and Friday, the Hungarian authorities prevented 40 people from entering the country, and returned all the individuals to Serbia, Info Park Belgrade reports\.
 
 
-![Info Park](assets/9180282b6ee7/1*CZPdvX0EiYSyi3z-IqWfDw.png)
+![Info Park](../assets/9180282b6ee7/1*CZPdvX0EiYSyi3z-IqWfDw.png)
 
 Info Park
 
 More statistics from Info Park
 
 
-![](assets/9180282b6ee7/1*GjGVvcYIQ5BdRV7gU6MRIA.png)
+![](../assets/9180282b6ee7/1*GjGVvcYIQ5BdRV7gU6MRIA.png)
 
 ### Hungary
 
@@ -121,7 +121,7 @@ In 2017, Slovakia registered 160 asylum applications which were the lowest numbe
 More help is needed in Calais\.
 
 
-![](assets/9180282b6ee7/1*5FRPH7Fa2_RKdiQ9VjyTPA.png)
+![](../assets/9180282b6ee7/1*5FRPH7Fa2_RKdiQ9VjyTPA.png)
 
 
 Please, if you have any spare items, help\. Organise a collection at home and either visit us in Calais or find a [drop off location near you](http://bit.ly/sleepingbagsfrance) \.

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 26/07/18: Spain with the largest number of new arrivals in 2018, police clashes at…
+title: "AYS Daily Digest 26/07/18: Spain with the largest number of new arrivals in 2018, police clashes at…"
 author: Are You Syrious?
 date: 2018-07-27T05:57:41.507+0100
 last_modified_at: 2018-07-27T17:21:48.797+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,deportations,libya,fire]
 description: The reason for Libyan Coast Guard’s increase in captures / Videos of pregnant women on board Sarost 5 / Turkish political activist Turgut…
 image:
-  path: assets/b444782d13ff/1*2ism6lNQUhjBBz99XQ8J2A.jpeg
+  path: ../assets/b444782d13ff/1*2ism6lNQUhjBBz99XQ8J2A.jpeg
 ---
 
 ### AYS Daily Digest 26/07/18: Spain with the largest number of new arrivals in 2018, police clashes at North African enclave
@@ -15,7 +15,7 @@ image:
 _The reason for Libyan Coast Guard’s increase in captures / Videos of pregnant women on board Sarost 5 / Turkish political activist Turgut Kaya recognized as a refugee / Activists in UK want country to accept unaccompanied minors / And more news…_
 
 
-![People resting after being rescued in Tarifa \(Photo by Marcos Morino\)](assets/b444782d13ff/1*2ism6lNQUhjBBz99XQ8J2A.jpeg)
+![People resting after being rescued in Tarifa \(Photo by Marcos Morino\)](../assets/b444782d13ff/1*2ism6lNQUhjBBz99XQ8J2A.jpeg)
 
 People resting after being rescued in Tarifa \(Photo by Marcos Morino\)
 ### FEATURE
@@ -52,7 +52,7 @@ Also, as [Watch the Med](https://www.facebook.com/watchthemed.alarmphone/photos/
 The Turkish political activist [Turgut Kaya](https://twitter.com/rspaegean/status/1022097390482989056) has ended his hunger strike\. He is officially a recognized refugee, but remains in detention\. RSA is calling for his immediate release in protection of his human rights\.
 
 
-![Photo by [RSA](https://twitter.com/rspaegean/status/1022097390482989056)](assets/b444782d13ff/1*3xijZsO-RmWaGmdZqaYnHA.jpeg)
+![Photo by [RSA](https://twitter.com/rspaegean/status/1022097390482989056)](../assets/b444782d13ff/1*3xijZsO-RmWaGmdZqaYnHA.jpeg)
 
 Photo by [RSA](https://twitter.com/rspaegean/status/1022097390482989056)
 
@@ -62,7 +62,7 @@ Movement on the Ground on Lesvos is looking for more volunteers, especially Engl
 ### BOSNIA & HERZEGOVINA
 
 
-![A little girl comforts her father after they lose their belongings to the latest downpour of rain\. Lack of protection has devastating consequences\. \(Photo by [Gabriel Tizón](https://twitter.com/GabrielTizonf1) \)](assets/b444782d13ff/1*ffXAnYxuzrl8x6-vyQA0nQ.jpeg)
+![A little girl comforts her father after they lose their belongings to the latest downpour of rain\. Lack of protection has devastating consequences\. \(Photo by [Gabriel Tizón](https://twitter.com/GabrielTizonf1) \)](../assets/b444782d13ff/1*ffXAnYxuzrl8x6-vyQA0nQ.jpeg)
 
 A little girl comforts her father after they lose their belongings to the latest downpour of rain\. Lack of protection has devastating consequences\. \(Photo by [Gabriel Tizón](https://twitter.com/GabrielTizonf1) \)
 ### **AUSTRIA**
@@ -73,7 +73,7 @@ A petition was signed by various Austrian NGOs calling on the Presidency to prot
 Many [people](https://www.facebook.com/paul.scho.5/posts/2085050251569429) today protested at a film university concerning the visit of Markus Söder \(CSU, minister president of Bavaria\), who is in support of criminalizing rescue missions and the current EU policy in the Mediterranean\. They wore life rescue jackets and laid wet on the ground motionless\.
 
 
-![Photo by [Paul Scholten](https://www.facebook.com/paul.scho.5?hc_ref=ARSO-XIOWvE8rJ9IFLPXop7KLl_l4xe1M1IcqOXjU2X6WvjziYDPV9Y94WCwnF9X8zw&hc_location=group)](assets/b444782d13ff/1*LMuvbNSTujMrtM03hjbz6A.jpeg)
+![Photo by [Paul Scholten](https://www.facebook.com/paul.scho.5?hc_ref=ARSO-XIOWvE8rJ9IFLPXop7KLl_l4xe1M1IcqOXjU2X6WvjziYDPV9Y94WCwnF9X8zw&hc_location=group)](../assets/b444782d13ff/1*LMuvbNSTujMrtM03hjbz6A.jpeg)
 
 Photo by [Paul Scholten](https://www.facebook.com/paul.scho.5?hc_ref=ARSO-XIOWvE8rJ9IFLPXop7KLl_l4xe1M1IcqOXjU2X6WvjziYDPV9Y94WCwnF9X8zw&hc_location=group)
 ### **SWEDEN**
@@ -88,7 +88,7 @@ Photo by [Paul Scholten](https://www.facebook.com/paul.scho.5?hc_ref=ARSO-XIOWvE
 The government still hasn’t filled the promised 480 spots and the discussion on Thursday was [adjourned](https://www.facebook.com/HelpRefugeesUK/photos/a.123267671367248.1073741830.111893659171316/665339100493433/?type=3&theater) \. The time to act is now\.
 
 
-![Photo by [Help Refugees](https://www.facebook.com/HelpRefugeesUK/photos/a.123267671367248.1073741830.111893659171316/665339100493433/?type=3&theater)](assets/b444782d13ff/1*APPkfFJtoZDXiNH6RFTMnw.jpeg)
+![Photo by [Help Refugees](https://www.facebook.com/HelpRefugeesUK/photos/a.123267671367248.1073741830.111893659171316/665339100493433/?type=3&theater)](../assets/b444782d13ff/1*APPkfFJtoZDXiNH6RFTMnw.jpeg)
 
 Photo by [Help Refugees](https://www.facebook.com/HelpRefugeesUK/photos/a.123267671367248.1073741830.111893659171316/665339100493433/?type=3&theater)
 

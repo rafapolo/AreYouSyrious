@@ -1,5 +1,5 @@
 ---
-title: AYS NEWS DIGEST 22/06: New challenges as refugees remain stuck in Greece
+title: "AYS NEWS DIGEST 22/06: New challenges as refugees remain stuck in Greece"
 author: Are You Syrious?
 date: 2016-06-23T00:47:17.892+0100
 last_modified_at: 2016-06-23T03:57:06.882+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe]
 description: Jordan closes its borders to Syria and Iraq. Update on EU relocation program. Construction of new settlements with houses instead of tents…
 image:
-  path: assets/288cc0a4fb1/0*e6QBV_055Y_ZZice.
+  path: ../assets/288cc0a4fb1/0*e6QBV_055Y_ZZice.
 ---
 
 ### AYS NEWS DIGEST 22/06: New challenges as refugees remain stuck in Greece
 #### Jordan closes its borders to Syria and Iraq\. Update on EU relocation program\. Construction of new settlements with houses instead of tents to begin later this month\.
 
 
-![Nea Kavala\. Photo by Aida Kristina Ničija](assets/288cc0a4fb1/0*e6QBV_055Y_ZZice.)
+![Nea Kavala\. Photo by Aida Kristina Ničija](../assets/288cc0a4fb1/0*e6QBV_055Y_ZZice.)
 
 Nea Kavala\. Photo by Aida Kristina Ničija
 #### General
@@ -79,7 +79,7 @@ Team Pikpa and the Christian Peacemaker Teams also brought a van with a fridge, 
 Finally, the Boat Refugee Foundation took much\-needed medical supplies to help with their work in Moria camp, while other medical equipment will be taken to the hospital in Mytilene\.
 
 
-![Two full trucks were filled with aid\. Photo by The Hope Project](assets/288cc0a4fb1/0*dpIY2FDA6HBXM6Wd.)
+![Two full trucks were filled with aid\. Photo by The Hope Project](../assets/288cc0a4fb1/0*dpIY2FDA6HBXM6Wd.)
 
 Two full trucks were filled with aid\. Photo by The Hope Project
 ### Refugees moved from the _Piraeus_ E1 camp
@@ -87,12 +87,12 @@ Two full trucks were filled with aid\. Photo by The Hope Project
 Gate E1 at the Piraeus port got emptied by the police today, and refugees will be moving to Stone House\.
 
 
-![Photo by Joao Pequeno](assets/288cc0a4fb1/0*Y7AOUlL9kmYc6noq.)
+![Photo by Joao Pequeno](../assets/288cc0a4fb1/0*Y7AOUlL9kmYc6noq.)
 
 Photo by Joao Pequeno
 
 
-![Photo by Joao Pequeno](assets/288cc0a4fb1/0*JKMDWyBG3sZW8_dS.)
+![Photo by Joao Pequeno](../assets/288cc0a4fb1/0*JKMDWyBG3sZW8_dS.)
 
 Photo by Joao Pequeno
 ### “Together for Better Days” needs volunteers
@@ -102,12 +102,12 @@ The group that founded the “Better Days for Moria” camp next to the official
 More volunteers are needed all across Greece\. Please check out [http://greecevol\.info](http://greecevol.info) \.
 
 
-![Photo by Together for Better Days](assets/288cc0a4fb1/0*AVrY1Wt8mTwcIPDb.)
+![Photo by Together for Better Days](../assets/288cc0a4fb1/0*AVrY1Wt8mTwcIPDb.)
 
 Photo by Together for Better Days
 
 
-![Photo by Together for Better Days](assets/288cc0a4fb1/0*Vysixv3GM4TBZDMy.)
+![Photo by Together for Better Days](../assets/288cc0a4fb1/0*Vysixv3GM4TBZDMy.)
 
 Photo by Together for Better Days
 ### 73 new people arrived to Samos
@@ -115,7 +115,7 @@ Photo by Together for Better Days
 The arrivals to the detention center included several vulnerable people including a disabled child, an older lady and a very pregnant woman\. Hopefully each of them will be settled somewhere more comfortable soon\.
 
 
-![Art exhibition in the Samos camp today, including flowers, butterflies and turtles the children made from recycled plastic bottles\. Photo by Samos Volunteers](assets/288cc0a4fb1/0*_98ciV1hX_Wv4eI3.)
+![Art exhibition in the Samos camp today, including flowers, butterflies and turtles the children made from recycled plastic bottles\. Photo by Samos Volunteers](../assets/288cc0a4fb1/0*_98ciV1hX_Wv4eI3.)
 
 Art exhibition in the Samos camp today, including flowers, butterflies and turtles the children made from recycled plastic bottles\. Photo by Samos Volunteers
 

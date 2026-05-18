@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 24–25/04/21: A Deadly Weekend in the Mediterranean
+title: "AYS Weekend Digest 24–25/04/21: A Deadly Weekend in the Mediterranean"
 author: Are You Syrious?
 date: 2021-04-26T13:04:36.613+0100
 last_modified_at: 2021-04-26T13:51:22.160+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [moria,refugees,search-and-rescue,borders,brexit]
 description: Closure of municipality-run camp in Lesvos — Arrivals in the Canary Islands — Bodies found off Ceuta — 45,000+ people returned from France…
 image:
-  path: assets/b24d7e87c294/1*XrMoEWgVBLJfTqs_r2kNVQ.jpeg
+  path: ../assets/b24d7e87c294/1*XrMoEWgVBLJfTqs_r2kNVQ.jpeg
 ---
 
 ### AYS Weekend Digest 24–25/04/21: A Deadly Weekend in the Mediterranean
@@ -15,7 +15,7 @@ image:
 _Closure of municipality\-run camp in Lesvos — Arrivals in the Canary Islands — Bodies found off Ceuta — 45,000\+ people returned from France at Italian and Spanish borders\._
 
 
-![On Sunday, Italy celebrated _Liberation Day,_ commemorating the end of the fascist regime and of the occupation by Nazi Germany during World War II and the victory of the the Resistance movement\. This is a message from [Sea\-Watch Italy](https://twitter.com/SeaWatchItaly/status/1386238477818384384) : “Happy 25th April\! Today, as well as every day, we at Sea Watch are raising the flag of Anti\-Fascist Action, to remind us that the struggle never stops\. Let‘s not forget what fascism is, let’s carry on our fight for a fairer, more responsible and more humane Europe\.](assets/b24d7e87c294/1*XrMoEWgVBLJfTqs_r2kNVQ.jpeg)
+![On Sunday, Italy celebrated _Liberation Day,_ commemorating the end of the fascist regime and of the occupation by Nazi Germany during World War II and the victory of the the Resistance movement\. This is a message from [Sea\-Watch Italy](https://twitter.com/SeaWatchItaly/status/1386238477818384384) : “Happy 25th April\! Today, as well as every day, we at Sea Watch are raising the flag of Anti\-Fascist Action, to remind us that the struggle never stops\. Let‘s not forget what fascism is, let’s carry on our fight for a fairer, more responsible and more humane Europe\.](../assets/b24d7e87c294/1*XrMoEWgVBLJfTqs_r2kNVQ.jpeg)
 
 On Sunday, Italy celebrated _Liberation Day,_ commemorating the end of the fascist regime and of the occupation by Nazi Germany during World War II and the victory of the the Resistance movement\. This is a message from [Sea\-Watch Italy](https://twitter.com/SeaWatchItaly/status/1386238477818384384) : “Happy 25th April\! Today, as well as every day, we at Sea Watch are raising the flag of Anti\-Fascist Action, to remind us that the struggle never stops\. Let‘s not forget what fascism is, let’s carry on our fight for a fairer, more responsible and more humane Europe\.
 #### FEATURED: A deadly weekend in the Mediterranean
@@ -77,15 +77,15 @@ GREECE
 [At 5am on Saturday](https://twitter.com/MSF_Sea/status/1385865578053869568) the first group of 50 people were moved from the original municipality run Kara Tepe camp, largely a camp for people with vulnerabilities, into tents in Moria 2\.0\.
 
 
-![](assets/b24d7e87c294/1*PS-pbJKHqiiKRhyw2I0T9w.jpeg)
+![](../assets/b24d7e87c294/1*PS-pbJKHqiiKRhyw2I0T9w.jpeg)
 
 
 
-![](assets/b24d7e87c294/1*a4JBHAjOISOLk7ofuiHxLg.jpeg)
+![](../assets/b24d7e87c294/1*a4JBHAjOISOLk7ofuiHxLg.jpeg)
 
 
 
-![\(Photo Credit: [MSF](https://twitter.com/MSF_Sea/status/1385865586262122499) \)](assets/b24d7e87c294/1*vPyIvR9zJRpDIh1ov98F_g.jpeg)
+![\(Photo Credit: [MSF](https://twitter.com/MSF_Sea/status/1385865586262122499) \)](../assets/b24d7e87c294/1*vPyIvR9zJRpDIh1ov98F_g.jpeg)
 
 \(Photo Credit: [MSF](https://twitter.com/MSF_Sea/status/1385865586262122499) \)
 
@@ -157,11 +157,11 @@ We would ask why the government would do such a thing, but we already know the a
 #### Highest Number of Unaccompanied Children in Europe
 
 
-![](assets/b24d7e87c294/1*Remv9rqDcFSW6RRfHfKhHA.jpeg)
+![](../assets/b24d7e87c294/1*Remv9rqDcFSW6RRfHfKhHA.jpeg)
 
 
 
-![Source: [Eurostat](https://ec.europa.eu/eurostat/en/web/products-eurostat-news/-/ddn-20210423-1)](assets/b24d7e87c294/1*ZMMDD9GuctF8xB0q3fb6Yw.jpeg)
+![Source: [Eurostat](https://ec.europa.eu/eurostat/en/web/products-eurostat-news/-/ddn-20210423-1)](../assets/b24d7e87c294/1*ZMMDD9GuctF8xB0q3fb6Yw.jpeg)
 
 Source: [Eurostat](https://ec.europa.eu/eurostat/en/web/products-eurostat-news/-/ddn-20210423-1)
 
@@ -193,7 +193,7 @@ In 2020, the Canary Islands [registered the highest fatality rate of people on t
 On Saturday, in the middle of the storm, three people managed to swim to Tarajal, Ceuta, according to [No Name Kitchen](https://twitter.com/NoNameKitchen1/status/1386006177214083072) \. Of the three unaccompanied children, [one is in a very serious condition](https://elforodeceuta.es/la-guardia-civil-rescata-a-tres-migrantes-en-el-mar-uno-de-ellas-en-estado-grave/?fbclid=IwAR0RPNPqbLMdZUz32cdF-1pnvQG3VITpTrWkVbcdd83XfP1CDzMgvNEbHeI) and was transferred to the University Hospital\. The other two young people will be transferred to [the Tarajal Ship](http://elforodeceuta.se/?s=nave+del+tarajal) for quarantine\. At the same time, the body of two swimmers were found in Castillejos and [Beliones **,**](https://elforodeceuta.es/drama-en-la-frontera-sur-rescates-desapariciones-y-muertes/?fbclid=IwAR07lHmIR0rupgOMDqTud5YGNeik0V1JZa-iJTnqtLDLFonnqWYGPALiD_I) Morocco\. One young person is still missing\.
 
 
-![“Migratory drama in the FronteraSur\. A minor from Morocco prays when he reaches the shore of Tarajal beach in Ceuta, after having swam across from the neighboring city of Castillejos\. \(Photo and Text by [Antonio Sempere](https://twitter.com/ASemperr/status/1386112501251657730) \)](assets/b24d7e87c294/1*vV0IPFkDQecUkYRzSfBHyw.jpeg)
+![“Migratory drama in the FronteraSur\. A minor from Morocco prays when he reaches the shore of Tarajal beach in Ceuta, after having swam across from the neighboring city of Castillejos\. \(Photo and Text by [Antonio Sempere](https://twitter.com/ASemperr/status/1386112501251657730) \)](../assets/b24d7e87c294/1*vV0IPFkDQecUkYRzSfBHyw.jpeg)
 
 “Migratory drama in the FronteraSur\. A minor from Morocco prays when he reaches the shore of Tarajal beach in Ceuta, after having swam across from the neighboring city of Castillejos\. \(Photo and Text by [Antonio Sempere](https://twitter.com/ASemperr/status/1386112501251657730) \)
 
@@ -249,7 +249,7 @@ Get a grip, Denmark.
 UK
 
 
-![“TUI is STILL the Home Office’s \#1 deportation airline\. Here’s our updated graphic on TUI’s mass deportation flights” \#dropdeportations \#BoycottTUI \(Credit: [Corporate Watch](https://twitter.com/CorpWatchUK/status/1385974092696784896/photo/1) \)](assets/b24d7e87c294/1*HWFPz3Txbl5ZfnITtdkhXQ.jpeg)
+![“TUI is STILL the Home Office’s \#1 deportation airline\. Here’s our updated graphic on TUI’s mass deportation flights” \#dropdeportations \#BoycottTUI \(Credit: [Corporate Watch](https://twitter.com/CorpWatchUK/status/1385974092696784896/photo/1) \)](../assets/b24d7e87c294/1*HWFPz3Txbl5ZfnITtdkhXQ.jpeg)
 
 “TUI is STILL the Home Office’s \#1 deportation airline\. Here’s our updated graphic on TUI’s mass deportation flights” \#dropdeportations \#BoycottTUI \(Credit: [Corporate Watch](https://twitter.com/CorpWatchUK/status/1385974092696784896/photo/1) \)
 #### EU countries rule out bilateral agreements on returns

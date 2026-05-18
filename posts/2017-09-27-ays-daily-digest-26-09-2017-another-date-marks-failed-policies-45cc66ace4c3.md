@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 26/09/2017: Another date marks failed policies
+title: "AYS Daily Digest 26/09/2017: Another date marks failed policies"
 author: Are You Syrious?
 date: 2017-09-27T00:35:19.790+0100
 last_modified_at: 2017-09-27T21:05:43.512+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,mediterranean,greece,france,un]
 description: New report on detention and violence in Greece // Shameful failure on relocation // Rescuers again threatened by Libya but stood firm //…
 image:
-  path: assets/45cc66ace4c3/1*ubYEU0bK3-Vd6qOEjduJtA.jpeg
+  path: ../assets/45cc66ace4c3/1*ubYEU0bK3-Vd6qOEjduJtA.jpeg
 ---
 
 ### AYS Daily Digest 26/09/2017: Another date marks failed policies
 #### New report on detention and violence in Greece // Shameful failure on relocation // Rescuers again threatened by Libya but stood firm // Suicide attempt on Kos // Arrivals continue in Greece // Doctors urgently needed on Lesvos // Children missing in Switzerland // Donations needed in France // UN report on mistreatment and killing of refugees // and more…
 
 
-![Today alone, [**LIFELINE**](https://www.facebook.com/seenotrettung/?hc_ref=ARSJs0fvEMmi2G9X46IJlpBfvK2cTJJT6KBpHChRNHY7NF74C9dqGNt5liVC13nMUDU&fref=nf) rescued 200 people from the sea and refused giving then in to Libya](assets/45cc66ace4c3/1*ubYEU0bK3-Vd6qOEjduJtA.jpeg)
+![Today alone, [**LIFELINE**](https://www.facebook.com/seenotrettung/?hc_ref=ARSJs0fvEMmi2G9X46IJlpBfvK2cTJJT6KBpHChRNHY7NF74C9dqGNt5liVC13nMUDU&fref=nf) rescued 200 people from the sea and refused giving then in to Libya](../assets/45cc66ace4c3/1*ubYEU0bK3-Vd6qOEjduJtA.jpeg)
 
 Today alone, [**LIFELINE**](https://www.facebook.com/seenotrettung/?hc_ref=ARSJs0fvEMmi2G9X46IJlpBfvK2cTJJT6KBpHChRNHY7NF74C9dqGNt5liVC13nMUDU&fref=nf) rescued 200 people from the sea and refused giving then in to Libya
 ### Feature
@@ -40,7 +40,7 @@ We still need to see if this new report will bring some kind of action from the 
 Today, 26th September, was also the day when the two\-year period for relocation of refugees from Italy and Greece was supposed to end\. By today, other European countries should have fulfilled at least their small quota of transfers\. But that wasn’t to be, and by today less than a third of the almost 100,000 refugees who were supposed to have found a new life in peace were allowed to do so, according to [Amnesty International](https://www.amnesty.org/en/latest/news/2017/09/eu-countries-have-fulfilled-less-than-a-third-of-their-asylum-relocation-promises/?utm_source=ECRE+Newsletters&utm_campaign=d428160a1d-EMAIL_CAMPAIGN_2017_09_26&utm_medium=email&utm_term=0_3ec9497afd-d428160a1d-420527945) \. The organisation urges all countries that committed to this target to speed up their efforts to make good on their promises or be taken to court\.
 
 
-![](assets/45cc66ace4c3/1*x0utCKCwqWJS2_dIjK_qeQ.jpeg)
+![](../assets/45cc66ace4c3/1*x0utCKCwqWJS2_dIjK_qeQ.jpeg)
 
 ### Sea
 
@@ -55,7 +55,7 @@ Today, 26th September, was also the day when the two\-year period for relocation
 The group refused to let the refugees go back to Libya and in the end the coast guard gave up\. You can read their full report in German [here](https://www.facebook.com/StopTheDying/posts/278904022627186) and you can also support the group saving lives on this [link](http://www.mission-lifeline.de/de/spenden) \.
 
 
-![Photo by [**LIFELINE**](https://www.facebook.com/seenotrettung/?hc_ref=ARSSNYTfzqNX4u3TRpJsfSm9DC9NxbeIX8pj9piTUG36kxTNs8XQeMS5-BYg0dIU7CA)](assets/45cc66ace4c3/1*R8bSEDseV8brFyO0r7goCQ.jpeg)
+![Photo by [**LIFELINE**](https://www.facebook.com/seenotrettung/?hc_ref=ARSSNYTfzqNX4u3TRpJsfSm9DC9NxbeIX8pj9piTUG36kxTNs8XQeMS5-BYg0dIU7CA)](../assets/45cc66ace4c3/1*R8bSEDseV8brFyO0r7goCQ.jpeg)
 
 Photo by [**LIFELINE**](https://www.facebook.com/seenotrettung/?hc_ref=ARSSNYTfzqNX4u3TRpJsfSm9DC9NxbeIX8pj9piTUG36kxTNs8XQeMS5-BYg0dIU7CA)
 
@@ -66,7 +66,7 @@ This is yet another incident caused by the Libyan coast guard, financed, trained
 IOM has published another update on the arrivals and fatalities this year:
 
 
-![](assets/45cc66ace4c3/1*8s4VeNZP6yrlJjneKPsqbw.jpeg)
+![](../assets/45cc66ace4c3/1*8s4VeNZP6yrlJjneKPsqbw.jpeg)
 
 ### Greece
 
@@ -81,7 +81,7 @@ It has been another busy day for arrivals and volunteers report that a boat arri
 The Turkish Coast Guard also published their numbers saying they have stopped 3 boats on Sunday, the last one with 52 ppl and 2 boats intercepted yesterday\. A total of 537 people have been caught since Friday\.
 
 
-![Photo by [\#TurkishCoastGuard](https://twitter.com/hashtag/TurkishCoastGuard?src=hash)](assets/45cc66ace4c3/1*eiJ4cfi5DrF96EFCLgVZkQ.jpeg)
+![Photo by [\#TurkishCoastGuard](https://twitter.com/hashtag/TurkishCoastGuard?src=hash)](../assets/45cc66ace4c3/1*eiJ4cfi5DrF96EFCLgVZkQ.jpeg)
 
 Photo by [\#TurkishCoastGuard](https://twitter.com/hashtag/TurkishCoastGuard?src=hash)
 
@@ -155,7 +155,7 @@ So far 4093 refugees arrived this month on the Greek islands, bringing the total
 The Greek asylum services have published a table where they show that in the second quarter of 2017 the highest rate of registered first\-time applicants was in Greece\.
 
 
-![Picture by [**Greek Asylum Service‏**](https://twitter.com/GreekAsylum)](assets/45cc66ace4c3/1*LjUR_xhENn16oZ79hC6D_Q.jpeg)
+![Picture by [**Greek Asylum Service‏**](https://twitter.com/GreekAsylum)](../assets/45cc66ace4c3/1*LjUR_xhENn16oZ79hC6D_Q.jpeg)
 
 Picture by [**Greek Asylum Service‏**](https://twitter.com/GreekAsylum)
 
@@ -169,7 +169,7 @@ On **Samos** the situation is no better and yesterday at dinner time refugees re
 
 
 
-![Photo by ‎ [**عشتار للهجرة واللجو**](https://www.facebook.com/%D8%B9%D8%B4%D8%AA%D8%A7%D8%B1-%D9%84%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D9%84%D8%AC%D9%88%D8%A1-687993924641223/?hc_ref=ARSrjimQmd1aXkXbboiobD_3B4Crk7Ph9Sr2jAYxXprEG4ULDbcz_oM_bXVFgcf_Vr8)](assets/45cc66ace4c3/1*JQjvUBubNMQoFZNYNOalNQ.jpeg)
+![Photo by ‎ [**عشتار للهجرة واللجو**](https://www.facebook.com/%D8%B9%D8%B4%D8%AA%D8%A7%D8%B1-%D9%84%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D9%84%D8%AC%D9%88%D8%A1-687993924641223/?hc_ref=ARSrjimQmd1aXkXbboiobD_3B4Crk7Ph9Sr2jAYxXprEG4ULDbcz_oM_bXVFgcf_Vr8)](../assets/45cc66ace4c3/1*JQjvUBubNMQoFZNYNOalNQ.jpeg)
 
 Photo by ‎ [**عشتار للهجرة واللجو**](https://www.facebook.com/%D8%B9%D8%B4%D8%AA%D8%A7%D8%B1-%D9%84%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D9%84%D8%AC%D9%88%D8%A1-687993924641223/?hc_ref=ARSrjimQmd1aXkXbboiobD_3B4Crk7Ph9Sr2jAYxXprEG4ULDbcz_oM_bXVFgcf_Vr8)
 
@@ -192,7 +192,7 @@ This is just another warning of what is coming and everyone should remember how 
 There’s an urgent need for doctors on the island and DINIT is looking for new volunteers\. If you can help please contact them on lee@dinit\.ie\.
 
 
-![](assets/45cc66ace4c3/1*XVNf90cnxssA8i3Tg8ZydA.jpeg)
+![](../assets/45cc66ace4c3/1*XVNf90cnxssA8i3Tg8ZydA.jpeg)
 
 ### Black Sea
 
@@ -279,7 +279,7 @@ If you have items to donate and don’t know where to take them you can also con
 Post on [Calais — People to People Solidarity — Action From UK](https://www.facebook.com/CalaisPeopletoPeopleSolidarityActionFromUK/?fref=mentions) from UK to link to people who are also collecting / travelling\. Finally you can donate to their page [here](https://mydonate.bt.com/events/parisaction) \.
 
 
-![Refugees “camp” by the asylum offices in Paris, queuing for days to apply — Photo by [**Care4Calais**](https://www.facebook.com/care4calais/?hc_ref=ARST5rjj37p7TEKrbAk9PqkiuPiPYBLjGZrU7n7AtotjKa5-TNG9hMKWnWJ5b4dwEyY)](assets/45cc66ace4c3/1*CgKL0N6QVNe0n91I80Oirg.jpeg)
+![Refugees “camp” by the asylum offices in Paris, queuing for days to apply — Photo by [**Care4Calais**](https://www.facebook.com/care4calais/?hc_ref=ARST5rjj37p7TEKrbAk9PqkiuPiPYBLjGZrU7n7AtotjKa5-TNG9hMKWnWJ5b4dwEyY)](../assets/45cc66ace4c3/1*CgKL0N6QVNe0n91I80Oirg.jpeg)
 
 Refugees “camp” by the asylum offices in Paris, queuing for days to apply — Photo by [**Care4Calais**](https://www.facebook.com/care4calais/?hc_ref=ARST5rjj37p7TEKrbAk9PqkiuPiPYBLjGZrU7n7AtotjKa5-TNG9hMKWnWJ5b4dwEyY)
 ### General

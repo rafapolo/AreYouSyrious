@@ -1,5 +1,5 @@
 ---
-title: AYS Special from Greece: 43 Million Euros for no water
+title: "AYS Special from Greece: 43 Million Euros for no water"
 author: Are You Syrious?
 date: 2022-05-19T17:14:54.741+0100
 last_modified_at: 2022-05-19T17:31:04.662+0100
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [special,samos,refugees,water,europe]
 description: The Closed Controlled Access Centre in Samos officially opened in September 2021, it was stated that material conditions would improve.
 image:
-  path: assets/9a27b897ae38/1*YLgwWBn61ybWt0raGg25Qw.jpeg
+  path: ../assets/9a27b897ae38/1*YLgwWBn61ybWt0raGg25Qw.jpeg
 ---
 
 ### AYS Special from Greece: 43 Million Euros for no water
 
 
-![](assets/9a27b897ae38/1*YLgwWBn61ybWt0raGg25Qw.jpeg)
+![](../assets/9a27b897ae38/1*YLgwWBn61ybWt0raGg25Qw.jpeg)
 
 
 After the Closed Controlled Access Centre \(CCAC\) in Samos officially opened in September 2021, it was stated that material conditions would at least improve in the facility [financed by 43 million euros](https://www.dw.com/en/greece-opens-first-refugee-holding-camp-on-samos-island/a-59225924#:~:text=Camps%20to%20cost%20%E2%82%AC1,the%20migrant%20arrivals%20by%20sea.) of EU money\. However, [within weeks](https://www.europemustact.org/post/concerns-of-samos-new-camp-residents-3-weeks-after-its-opening-when-will-i-become-a-human) of the opening, it was already clear that many things were lacking and/or dysfunctional, with residents stating that they felt as if they were in prison\.
@@ -21,7 +21,7 @@ After the Closed Controlled Access Centre \(CCAC\) in Samos officially opened in
 The camp has now been operational for seven months and has a current population of roughly 400 people — a fifth of the structure’s full capacity\. Despite this, the running water supply in the camp for residents has been restricted for the [last 13 days](https://twitter.com/AdvocacySamos/status/1526489797627355138) due to a technical fault\. [The water needs to be pumped to the site](https://www.infomigrants.net/en/post/40579/greece-migrants-at-samos-camp-without-running-water) due to its elevated and remote position \- a problem they were always aware of\.
 
 
-![](assets/9a27b897ae38/1*F8WeLCw5xezOqQ4DAxdZsA.jpeg)
+![](../assets/9a27b897ae38/1*F8WeLCw5xezOqQ4DAxdZsA.jpeg)
 
 
 In place since the 6th of May, the tap water supply is limited to only two hours per day \(8–9am and 7–8pm\) with many people stressing that it isn’t even working during the designated hours\.

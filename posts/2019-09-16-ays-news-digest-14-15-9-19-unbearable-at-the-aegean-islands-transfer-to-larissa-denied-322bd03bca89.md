@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 14–15/9/19: Unbearable at the Aegean islands, transfer to Larissa denied
+title: "AYS News Digest 14–15/9/19: Unbearable at the Aegean islands, transfer to Larissa denied"
 author: Are You Syrious?
 date: 2019-09-16T12:51:15.421+0100
 last_modified_at: 2019-09-16T16:23:40.056+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,uk,asylum]
 description: People left in crowded camps and horrible conditions on the islands / transfers slowed as the planned expansion of the reception camp…
 image:
-  path: assets/322bd03bca89/0*zLpsMoa0VbqMtMPe
+  path: ../assets/322bd03bca89/0*zLpsMoa0VbqMtMPe
 ---
 
 ### AYS News Digest 14–15/9/19: Unbearable on the Aegean islands, transfer to Larissa denied
 #### People left in crowded camps and horrible conditions on the islands / Transfers slowed as the planned expansion of the reception camp facilities in Larissa was denied / Solidarity demonstrations in Athens / Melilla out of capacities to host people / Reports on expulsions from Croatia’s police stations of people who wanted to express the intent to seek asylum / Testimony: beating of a 16\-year old genocide survivor in the UK
 
 
-![Photo: [@Afshinismaeli85](https://twitter.com/Afshinismaeli85)](assets/322bd03bca89/0*zLpsMoa0VbqMtMPe)
+![Photo: [@Afshinismaeli85](https://twitter.com/Afshinismaeli85)](../assets/322bd03bca89/0*zLpsMoa0VbqMtMPe)
 
 Photo: [@Afshinismaeli85](https://twitter.com/Afshinismaeli85)
 #### FEATURED
@@ -33,11 +33,11 @@ In Nea Kavala, those who were transferred there face hardships in their daily li
 
 
 
-![](assets/322bd03bca89/1*v-UZheBcnu6YE56iWNrOiw.jpeg)
+![](../assets/322bd03bca89/1*v-UZheBcnu6YE56iWNrOiw.jpeg)
 
 
 
-![photos: [Maritta Gudrun](https://www.facebook.com/maritta.gudrun?__tn__=%2Cd%2AF%2AF-R&eid=ARA13ufQiOctz_7r89Jj__IVlqFsMYNtY3gsmwjJ7sxqOetJ2WU7wmkQXMeP1i0zA52zjVKb9tQo3g7K&tn-str=%2AF)](assets/322bd03bca89/1*5sNHNgcOHaaW3vU98aMIWg.jpeg)
+![photos: [Maritta Gudrun](https://www.facebook.com/maritta.gudrun?__tn__=%2Cd%2AF%2AF-R&eid=ARA13ufQiOctz_7r89Jj__IVlqFsMYNtY3gsmwjJ7sxqOetJ2WU7wmkQXMeP1i0zA52zjVKb9tQo3g7K&tn-str=%2AF)](../assets/322bd03bca89/1*5sNHNgcOHaaW3vU98aMIWg.jpeg)
 
 photos: [Maritta Gudrun](https://www.facebook.com/maritta.gudrun?__tn__=%2Cd%2AF%2AF-R&eid=ARA13ufQiOctz_7r89Jj__IVlqFsMYNtY3gsmwjJ7sxqOetJ2WU7wmkQXMeP1i0zA52zjVKb9tQo3g7K&tn-str=%2AF)
 
@@ -60,18 +60,18 @@ The Bamboula\. Peeople in camps in Nador are reportedly experiencing attacks nig
 In Athens, demonstrations were held in solidarity with the squats and against police repression\. More than 6,000 people reportedly marched in solidarity with the evicted squats and against state repression\.
 
 
-![](assets/322bd03bca89/1*jzVHNp1_uQC6gC1l3pHWAg.jpeg)
+![](../assets/322bd03bca89/1*jzVHNp1_uQC6gC1l3pHWAg.jpeg)
 
 
 
-![Photos by Spiros Chalikias Kontarinis](assets/322bd03bca89/1*jxOJMCQSwOx5yLr_ZSyW6w.jpeg)
+![Photos by Spiros Chalikias Kontarinis](../assets/322bd03bca89/1*jxOJMCQSwOx5yLr_ZSyW6w.jpeg)
 
 Photos by Spiros Chalikias Kontarinis
 
 Some of the ex\-residents who’d been evicted from the buildings, as well as residents of other squats that are constantly under threat, all walked together\.
 
 
-![Photo: [Spirou Trikoupi 17](https://www.facebook.com/spiroutrikoupi17/?tn-str=k%2AF&hc_location=group_dialog)](assets/322bd03bca89/1*CvpoKmEocq_5piGvFDSowg.jpeg)
+![Photo: [Spirou Trikoupi 17](https://www.facebook.com/spiroutrikoupi17/?tn-str=k%2AF&hc_location=group_dialog)](../assets/322bd03bca89/1*CvpoKmEocq_5piGvFDSowg.jpeg)
 
 Photo: [Spirou Trikoupi 17](https://www.facebook.com/spiroutrikoupi17/?tn-str=k%2AF&hc_location=group_dialog)
 #### CROATIA
@@ -83,7 +83,7 @@ The previous issues when it comes to expressing the intent to seek asylum arise 
 Only a few portable toilets are placed around the provisional camps, and that is not nearly enough for all of the people who are currently staying there, a long term Paris volunteer writes:
 
 
-![](assets/322bd03bca89/1*-1FBUlw0PKBVYrhU5emY9Q.jpeg)
+![](../assets/322bd03bca89/1*-1FBUlw0PKBVYrhU5emY9Q.jpeg)
 
 
 
@@ -109,15 +109,15 @@ Only a few portable toilets are placed around the provisional camps, and that is
 
 
 
-![](assets/322bd03bca89/1*J_axfde6MFjsuoj4-ys4rw.jpeg)
+![](../assets/322bd03bca89/1*J_axfde6MFjsuoj4-ys4rw.jpeg)
 
 
 
-![](assets/322bd03bca89/1*iCGbNAJmPhYB7DIBhxgtnQ.jpeg)
+![](../assets/322bd03bca89/1*iCGbNAJmPhYB7DIBhxgtnQ.jpeg)
 
 
 
-![Photos: [Danika Jurisic](https://www.facebook.com/profile.php?id=100009499466124&__tn__=%2Cd%2AF%2AF-R&eid=ARBzDpV8q7_DW71OA8jUW7CLWXpv0868WwzZ2dXSjRUiNXu3Hw19DxHMiqXb0-2qbq9u5gd1EQjzPeiA&tn-str=%2AF&hc_location=group_dialog)](assets/322bd03bca89/1*tClMFa-DPFVK5aKrE-JOlw.jpeg)
+![Photos: [Danika Jurisic](https://www.facebook.com/profile.php?id=100009499466124&__tn__=%2Cd%2AF%2AF-R&eid=ARBzDpV8q7_DW71OA8jUW7CLWXpv0868WwzZ2dXSjRUiNXu3Hw19DxHMiqXb0-2qbq9u5gd1EQjzPeiA&tn-str=%2AF&hc_location=group_dialog)](../assets/322bd03bca89/1*tClMFa-DPFVK5aKrE-JOlw.jpeg)
 
 Photos: [Danika Jurisic](https://www.facebook.com/profile.php?id=100009499466124&__tn__=%2Cd%2AF%2AF-R&eid=ARBzDpV8q7_DW71OA8jUW7CLWXpv0868WwzZ2dXSjRUiNXu3Hw19DxHMiqXb0-2qbq9u5gd1EQjzPeiA&tn-str=%2AF&hc_location=group_dialog)
 
@@ -199,7 +199,7 @@ A painful reminder of the realities people on the move have to face even upon ar
 
 
 
-![Photo: [The Worldwide Tribe](https://www.facebook.com/theworldwidetribe/?tn-str=k%2AF&hc_location=group_dialog)](assets/322bd03bca89/1*2EvB6Wsy7e5ueVdja6yozA.jpeg)
+![Photo: [The Worldwide Tribe](https://www.facebook.com/theworldwidetribe/?tn-str=k%2AF&hc_location=group_dialog)](../assets/322bd03bca89/1*2EvB6Wsy7e5ueVdja6yozA.jpeg)
 
 Photo: [The Worldwide Tribe](https://www.facebook.com/theworldwidetribe/?tn-str=k%2AF&hc_location=group_dialog)
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 01/02/2019: Young migrant kills himself after being denied humanitarian protection…
+title: "AYS Daily Digest 01/02/2019: Young migrant kills himself after being denied humanitarian protection…"
 author: Are You Syrious?
 date: 2019-02-02T11:01:11.692+0000
 last_modified_at: 2019-02-02T11:01:11.692+0000

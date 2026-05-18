@@ -7,14 +7,14 @@ categories:
 tags: [refugees,refugee-camps,asylum-seekers,paris,balkans]
 description: Refugees forwarded to various sites in France. Food, medicine supplies running out in east Aleppo. Tension rises on the Greek islands…
 image:
-  path: assets/cb16316e9407/1*K79GEFKW3qiZm6I4zZTQTA.jpeg
+  path: ../assets/cb16316e9407/1*K79GEFKW3qiZm6I4zZTQTA.jpeg
 ---
 
 ### AYS 4/11\. Authorities evacuate thousands from the streets of Paris
 #### Refugees forwarded to various sites in France\. Food, medicine supplies running out in east Aleppo\. Tension rises on the Greek islands\. Asylum seekers manage to get out of the Gevgelija camp, others left behind\. AYS needs money to keep helping the refugees\.
 
 
-![](assets/cb16316e9407/1*K79GEFKW3qiZm6I4zZTQTA.jpeg)
+![](../assets/cb16316e9407/1*K79GEFKW3qiZm6I4zZTQTA.jpeg)
 
 ### Camps in and around Stalingrad and Jaures Metro stations, Avenue de Flanders cleared out
 
@@ -28,7 +28,7 @@ Today, Paris saw the evacuation of refugees from Stalingrad and Jaures Metro sta
 
 
 
-![Refugees were forced to sit on a cold, wet pavement before being forwarded to the buses\. Photo\. [BAAM](https://www.facebook.com/baam.asso/)](assets/cb16316e9407/1*1fCX_XoxvQzX90XMHpOK9g.jpeg)
+![Refugees were forced to sit on a cold, wet pavement before being forwarded to the buses\. Photo\. [BAAM](https://www.facebook.com/baam.asso/)](../assets/cb16316e9407/1*1fCX_XoxvQzX90XMHpOK9g.jpeg)
 
 Refugees were forced to sit on a cold, wet pavement before being forwarded to the buses\. Photo\. [BAAM](https://www.facebook.com/baam.asso/)
 
@@ -42,7 +42,7 @@ Today, some refugees were lucky enough to end up in a hotel, but at least 1000 o
 
 
 
-![Paris campsites have been quickly cleared out in order to prevent people returning to their tents\. Photo: Reuters](assets/cb16316e9407/1*CMszdQs4I5q7wytbn98NPA.jpeg)
+![Paris campsites have been quickly cleared out in order to prevent people returning to their tents\. Photo: Reuters](../assets/cb16316e9407/1*CMszdQs4I5q7wytbn98NPA.jpeg)
 
 Paris campsites have been quickly cleared out in order to prevent people returning to their tents\. Photo: Reuters
 
@@ -62,7 +62,7 @@ According to UN OCHA flash update, less than 30 doctors currently serve the six 
 
 
 
-![Nine\-year\-old Abdul Hadi lies on a bed in a hospital ward, watched over by his older brother, after being injured by a barrel bomb while playing outside his home in besieged east Aleppo\. Photo: MSF](assets/cb16316e9407/1*sz93dAscPZ2F758ksiWwLw.jpeg)
+![Nine\-year\-old Abdul Hadi lies on a bed in a hospital ward, watched over by his older brother, after being injured by a barrel bomb while playing outside his home in besieged east Aleppo\. Photo: MSF](../assets/cb16316e9407/1*sz93dAscPZ2F758ksiWwLw.jpeg)
 
 Nine\-year\-old Abdul Hadi lies on a bed in a hospital ward, watched over by his older brother, after being injured by a barrel bomb while playing outside his home in besieged east Aleppo\. Photo: MSF
 
@@ -74,7 +74,7 @@ Food, drinking water and medical care are becoming increasingly scarce, while me
 239 people died trying to cross the Mediterranean Sea yesterday\. The two rubber dinghies capsized 25 miles of Libya’s shores\. The rescuers saved 27 people and recovered 12 bodies including 3 babies\. 2016 is the deadliest year so far — 4,220 souls are dead and missing\.
 
 
-![Refugees fall into the water during a rescue operation off the Libyan coast\. Photo: Andreas Solaro](assets/cb16316e9407/1*jXhBulzkaqA-DPxsbAMCLA.jpeg)
+![Refugees fall into the water during a rescue operation off the Libyan coast\. Photo: Andreas Solaro](../assets/cb16316e9407/1*jXhBulzkaqA-DPxsbAMCLA.jpeg)
 
 Refugees fall into the water during a rescue operation off the Libyan coast\. Photo: Andreas Solaro
 #### Greece
@@ -89,7 +89,7 @@ Refugees fall into the water during a rescue operation off the Libyan coast\. Ph
 
 
 
-![](assets/cb16316e9407/1*qF4mvyRp_8llENgq-0EKkA.jpeg)
+![](../assets/cb16316e9407/1*qF4mvyRp_8llENgq-0EKkA.jpeg)
 
 
 **Yesterday a smuggler dumped 12 vulnerable people fleeing war and conflict into the water on a sheer cliff face\.** According to Help Refugees, the group included a small baby, 3 teenage girls and an elderly woman of 80 who when found was severely hyperventilating\. Refugee rescue completed a very dangerous rescue with their boat Mo Chara, the only boat on Lesvos that could get close enough for the very difficult rescue\.
@@ -100,7 +100,7 @@ The already horrible living conditions in Greek camps were worsened by the flood
 [No Border Kitchen Lesvos](https://www.facebook.com/NBKLesvos/?fref=nf) reports the police violently evicted their social center on Friday, bringing the refugees to Moria and arresting three people who were released later\. Following the announcements of deportations to Turkey \(on average about 200 people per week announced, according to some [sources](http://lesvos.w2eu.net/2016/11/04/lesvos-turns-into-a-deportation-hub-to-turkey/) \) that will be coordinated by Frontex and should begin during November, the Greek government announced opening of 3 more“hot spots” only for pre\-removals on Lesvos, Chios and Kos\. These weekly deportations would mean that people would be constantly transferred from the mainland to the islands, creating a deportation hub on Lesvos\.
 
 
-![No Borders collective has been supporting refugees in protesting the deportations\. Photo: No Borders Lesvos Kitchen](assets/cb16316e9407/1*hovk3KPlP2wuFOMBK3Esxw.jpeg)
+![No Borders collective has been supporting refugees in protesting the deportations\. Photo: No Borders Lesvos Kitchen](../assets/cb16316e9407/1*hovk3KPlP2wuFOMBK3Esxw.jpeg)
 
 No Borders collective has been supporting refugees in protesting the deportations\. Photo: No Borders Lesvos Kitchen
 ### A year after the first relocation…
@@ -127,7 +127,7 @@ All asylum seekers that were being held in the camp of Gevgelija with zero freed
 Due to the recent changes in the Macedonian legislation \(“…all asylum seeker shall be legally transferred to the open asylum centre of Visbegovo _or some other place_ ”\), even asylum seekers were held in the closed camp in Gevgelija for a few months without freedom of movement \(unless accompanied with the Red Cross for an hour or so for medical issues or purchases outside the camp\) \. Today, after a long struggle, they are finally able to go to the open asylum centre in Skopje where they can exercise their freedom of movement\.
 
 
-![Gevgelija was one of the mains transit camps while the Balkan route was still officially open\. Photo: Al Jazeera](assets/cb16316e9407/1*otc90pwE9E2DGwkk5q6Hlw.jpeg)
+![Gevgelija was one of the mains transit camps while the Balkan route was still officially open\. Photo: Al Jazeera](../assets/cb16316e9407/1*otc90pwE9E2DGwkk5q6Hlw.jpeg)
 
 Gevgelija was one of the mains transit camps while the Balkan route was still officially open\. Photo: Al Jazeera
 
@@ -138,7 +138,7 @@ However, the struggle continues for the ones that remain undocumented in the cam
 ### AYS continues to support our colleagues in Serbia: we finally have the new van for field missions\!
 
 
-![White Arrow was bought with generous donations of two wonderful human beings\. Photo: Luka Juranic, AYS](assets/cb16316e9407/1*WOzd5UA9FcRLBFWy739Pqg.jpeg)
+![White Arrow was bought with generous donations of two wonderful human beings\. Photo: Luka Juranic, AYS](../assets/cb16316e9407/1*WOzd5UA9FcRLBFWy739Pqg.jpeg)
 
 White Arrow was bought with generous donations of two wonderful human beings\. Photo: Luka Juranic, AYS
 
@@ -153,7 +153,7 @@ The Budapest Beacon has published a very interesting [article](http://budapestbe
 The number of refugees in the country varies due to many new arrivals and departures\. According to latest estimations, this week there were 520 refugees in Porin hotel in Zagreb, 80 people in Kutina accommodation center for families and voulnerable groups, and 34 people in Jezevo detention center\. Approximately 200 people per month are returned to Croatia from western EU countries according to Dublin agreement\. Most of the returnees come from Austria\. Some have been in the country for months, and their children already went to Austrian schools\. **Our friends from an Austrian law group have managed to stop some deportations, using the argument of poor medical service for the refugees in Croatia\.** Asylum seekers are entitled to medical care only in cases of emergency, but sometimed even urgent cases have to rely on volunteers to take them to the hospital\.
 
 
-![Learning groups for the kids remain one of our most important activities in Porin hotel\. Photo: Elizabeta Jacov, AYS](assets/cb16316e9407/1*KVL-zB-TJYqBZBIM17rnEA.jpeg)
+![Learning groups for the kids remain one of our most important activities in Porin hotel\. Photo: Elizabeta Jacov, AYS](../assets/cb16316e9407/1*KVL-zB-TJYqBZBIM17rnEA.jpeg)
 
 Learning groups for the kids remain one of our most important activities in Porin hotel\. Photo: Elizabeta Jacov, AYS
 
@@ -169,7 +169,7 @@ AYS keeps providing daily support to the refugees, many of whom were recently re
 
 
 
-![](assets/cb16316e9407/1*iXbaLIHyqbo7nv-LXYxreA.jpeg)
+![](../assets/cb16316e9407/1*iXbaLIHyqbo7nv-LXYxreA.jpeg)
 
 
 

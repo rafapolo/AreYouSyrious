@@ -1,5 +1,5 @@
 ---
-title: AYS WEEKEND DIGEST 19–20/1/2019: A letter from Samos
+title: "AYS WEEKEND DIGEST 19–20/1/2019: A letter from Samos"
 author: Are You Syrious?
 date: 2019-01-21T18:20:05.154+0000
 last_modified_at: 2019-01-22T12:54:25.941+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [refugees,digest,mediterranean,european-union,bosnia]
 description: Samos — the forgotten island
 image:
-  path: assets/3dffac09efc3/1*RqYuFngk_-BLEN2qANEdMw.jpeg
+  path: ../assets/3dffac09efc3/1*RqYuFngk_-BLEN2qANEdMw.jpeg
 ---
 
 ### AYS WEEKEND DIGEST 19–20/1/2019: A letter from Samos
 
 
-![A family of refugees being held by photographers and reporters while they were walking to the buses to get evicted from the refugee camp\. Portraits of a refugee camp\. Calais Jungle\. By Miguel Amortegui](assets/3dffac09efc3/1*RqYuFngk_-BLEN2qANEdMw.jpeg)
+![A family of refugees being held by photographers and reporters while they were walking to the buses to get evicted from the refugee camp\. Portraits of a refugee camp\. Calais Jungle\. By Miguel Amortegui](../assets/3dffac09efc3/1*RqYuFngk_-BLEN2qANEdMw.jpeg)
 
 A family of refugees being held by photographers and reporters while they were walking to the buses to get evicted from the refugee camp\. Portraits of a refugee camp\. Calais Jungle\. By Miguel Amortegui
 #### Samos — the forgotten island
@@ -23,11 +23,11 @@ On the 17th and 18th of this month scores of asylum seekers in Samos’ Vathi ca
 All they want is a warm place to shelter their bodies from the mice and rats that are infesting their small tents and to be released from this detention facility\.
 
 
-![](assets/3dffac09efc3/1*Yg-QHMa0x9N2dLMym6lXlw.jpeg)
+![](../assets/3dffac09efc3/1*Yg-QHMa0x9N2dLMym6lXlw.jpeg)
 
 
 
-![](assets/3dffac09efc3/1*BBVWyjer2MsYABEI7wmxgA.jpeg)
+![](../assets/3dffac09efc3/1*BBVWyjer2MsYABEI7wmxgA.jpeg)
 
 
 They demand the acceleration of managing the asylum processes which wastes so much time, and offers only neglect\. It is obvious if you listen to the raised voices chanting for freedom, freedom, freedom, that Vathi is nothing more than a giant prison\.
@@ -37,7 +37,7 @@ They said, ‘we are not just numbers on a piece of paper to be treated in this 
 The protesters then continued into Vathi’s town centre, with this intention for their voices to reach the citizens of Greece and for the world to see the dire situation that faces them\.
 
 
-![](assets/3dffac09efc3/1*VB5sNcEsqo9F8KQ6s2k2Wg.jpeg)
+![](../assets/3dffac09efc3/1*VB5sNcEsqo9F8KQ6s2k2Wg.jpeg)
 
 
 It was not only adults that participated in the protests, even children played a part in the demonstrations, holding up some of the banners saying that Vathi is the worst camp on the Greek Islands, a camp whose capacity is 700 people but which currently contains more than 4500\. This number also includes some who live in tiny tents in the forest outside of the camp, who are vulnerable to dangerous illnesses within this humanitarian crisis\.
@@ -121,7 +121,7 @@ The situation is much worse in other camps, like Miral, in Velika Kladusa where 
 Since the beginning of 2019 at least 65 boys from Afghanistan have reached Serbia \(most of them through Bulgaria\), with an almost equal number \(69\) of adult men from the same country, Info Park reports\.
 
 
-![](assets/3dffac09efc3/1*TZXfkJGS5NaTT99dHOlEoQ.png)
+![](../assets/3dffac09efc3/1*TZXfkJGS5NaTT99dHOlEoQ.png)
 
 
 While boys are coming from Bulgaria \(probably with the help of smugglers\), single men are coming alone through Macedonia \(more in the New Developments Appendix in the end of the daily report\) \.

@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,syria,lebanon]
 description: Deportations to Syria from Lebanon // almost deportations from Denmark to Syria // new arrivals in Greece // unjustified moves in Bosnia…
 image:
-  path: assets/3f93066ba816/1*53PCzKRn0p82fjHLzwu2iA.jpeg
+  path: ../assets/3f93066ba816/1*53PCzKRn0p82fjHLzwu2iA.jpeg
 ---
 
 ### AYS Daily Digest 25/6/19: The European Court has ruled against Sea\-Watch 3’s emergency
 #### _Deportations to Syria from Lebanon // almost deportations from Denmark to Syria // new arrivals in Greece // and more…_
 
 
-![Borders, refugees and EU’s anti\-migration policies\! by [Moria Refugee Razieh](https://www.facebook.com/sol2refugeesen/photos/a.1572069656418705/2107928092832856/?type=3&theater)](assets/3f93066ba816/1*53PCzKRn0p82fjHLzwu2iA.jpeg)
+![Borders, refugees and EU’s anti\-migration policies\! by [Moria Refugee Razieh](https://www.facebook.com/sol2refugeesen/photos/a.1572069656418705/2107928092832856/?type=3&theater)](../assets/3f93066ba816/1*53PCzKRn0p82fjHLzwu2iA.jpeg)
 
 Borders, refugees and EU’s anti\-migration policies\! by [Moria Refugee Razieh](https://www.facebook.com/sol2refugeesen/photos/a.1572069656418705/2107928092832856/?type=3&theater)
 ### Lebanon
@@ -29,11 +29,11 @@ SB OverSeas needs volunteers in their schools in Beirut\! Look them up [here\!](
 ### Libya
 
 
-![](assets/3f93066ba816/1*DOu0hevoYdRDgsPqahiYug.jpeg)
+![](../assets/3f93066ba816/1*DOu0hevoYdRDgsPqahiYug.jpeg)
 
 
 
-![“Refugees in \#Zintan are still slowly dying of TB and malnutrition in inhuman and degrading conditions of overcrowsing and lack of access to sanitation\. The halls where they were recently transferred are so small that many have to sleep outdoors\. UNHCR have not evacuated anyone else from \#Zintan and, despite attending in 6 members of staff for 5 days, they only interviewed 40 refugees\.” Photos by [Guilia Tranchina](https://www.facebook.com/rastajuly/posts/10156748122343621)](assets/3f93066ba816/1*QanWYmbaN1JNGMHy35xNBA.jpeg)
+![“Refugees in \#Zintan are still slowly dying of TB and malnutrition in inhuman and degrading conditions of overcrowsing and lack of access to sanitation\. The halls where they were recently transferred are so small that many have to sleep outdoors\. UNHCR have not evacuated anyone else from \#Zintan and, despite attending in 6 members of staff for 5 days, they only interviewed 40 refugees\.” Photos by [Guilia Tranchina](https://www.facebook.com/rastajuly/posts/10156748122343621)](../assets/3f93066ba816/1*QanWYmbaN1JNGMHy35xNBA.jpeg)
 
 “Refugees in \#Zintan are still slowly dying of TB and malnutrition in inhuman and degrading conditions of overcrowsing and lack of access to sanitation\. The halls where they were recently transferred are so small that many have to sleep outdoors\. UNHCR have not evacuated anyone else from \#Zintan and, despite attending in 6 members of staff for 5 days, they only interviewed 40 refugees\.” Photos by [Guilia Tranchina](https://www.facebook.com/rastajuly/posts/10156748122343621)
 ### Sea
@@ -57,7 +57,7 @@ The European Court has ruled against Sea\-Watch 3’s emergency disembarkment, s
 
 
 
-![“‘I am responsible for the 42 people I have recovered at sea and who can’t take it anymore\. How many more abuses have to endure? Their life comes before any political game or incrimination ‘\. Our Commander on @ repubblica \. We are with her whatever happens\.” Photo by [Sea\-Watch Italy](https://twitter.com/SeaWatchItaly/status/1143592634692358144?fbclid=IwAR3shK0surbpmboLSc2rXymayL4vdv7ZqcZrLLGYE7zbREl5Mrg583orj78)](assets/3f93066ba816/1*0Rv6LLSjys-KoP5oyRMjFA.jpeg)
+![“‘I am responsible for the 42 people I have recovered at sea and who can’t take it anymore\. How many more abuses have to endure? Their life comes before any political game or incrimination ‘\. Our Commander on @ repubblica \. We are with her whatever happens\.” Photo by [Sea\-Watch Italy](https://twitter.com/SeaWatchItaly/status/1143592634692358144?fbclid=IwAR3shK0surbpmboLSc2rXymayL4vdv7ZqcZrLLGYE7zbREl5Mrg583orj78)](../assets/3f93066ba816/1*0Rv6LLSjys-KoP5oyRMjFA.jpeg)
 
 “‘I am responsible for the 42 people I have recovered at sea and who can’t take it anymore\. How many more abuses have to endure? Their life comes before any political game or incrimination ‘\. Our Commander on @ repubblica \. We are with her whatever happens\.” Photo by [Sea\-Watch Italy](https://twitter.com/SeaWatchItaly/status/1143592634692358144?fbclid=IwAR3shK0surbpmboLSc2rXymayL4vdv7ZqcZrLLGYE7zbREl5Mrg583orj78)
 
@@ -92,7 +92,7 @@ In their most recent newsletter, the Serbian InfoPark team reported, among other
 8 people were intercepted off the coast of Lampedusa, and there were probably coming from Tunisia\. Find out more [here\.](https://twitter.com/Medhope_FCEI/status/1143606377438490625?fbclid=IwAR1mAdVVeygLHoESuNTXE5lVAvOHuB4dOt_iBBJcq5XxBSYec147nLIMNJg)
 
 
-![“Since early morning we received notice of a gomona with 57 people aboard lost in the area\. We are available to SM for the search, they reject our help\. We can not patrol under threat of fine” Photo by [maydayterraneo](https://twitter.com/maydayterraneo/status/1143600680243990535)](assets/3f93066ba816/1*2WbnFrIf32taz5sj-hLICg.jpeg)
+![“Since early morning we received notice of a gomona with 57 people aboard lost in the area\. We are available to SM for the search, they reject our help\. We can not patrol under threat of fine” Photo by [maydayterraneo](https://twitter.com/maydayterraneo/status/1143600680243990535)](../assets/3f93066ba816/1*2WbnFrIf32taz5sj-hLICg.jpeg)
 
 “Since early morning we received notice of a gomona with 57 people aboard lost in the area\. We are available to SM for the search, they reject our help\. We can not patrol under threat of fine” Photo by [maydayterraneo](https://twitter.com/maydayterraneo/status/1143600680243990535)
 
@@ -104,13 +104,13 @@ In their most recent newsletter, the Serbian InfoPark team reported, among other
 
 
 
-![“For months the solidarity of the territory have been organizing a fixed sit\-in close to the border together with the other solidary people who cross the territory, a safe “port” in the territory of Ventimiglia to guarantee a first support to the rejected people\. Water and food are distributed, as well as other basic necessities, but evidently even this type of support is not contemplated by those who have governed the city for a few months\.” Photo by [Project20K](https://www.facebook.com/progetto20k/posts/891284521231463)](assets/3f93066ba816/1*597mMnyOTQfnnHqq1P383w.jpeg)
+![“For months the solidarity of the territory have been organizing a fixed sit\-in close to the border together with the other solidary people who cross the territory, a safe “port” in the territory of Ventimiglia to guarantee a first support to the rejected people\. Water and food are distributed, as well as other basic necessities, but evidently even this type of support is not contemplated by those who have governed the city for a few months\.” Photo by [Project20K](https://www.facebook.com/progetto20k/posts/891284521231463)](../assets/3f93066ba816/1*597mMnyOTQfnnHqq1P383w.jpeg)
 
 “For months the solidarity of the territory have been organizing a fixed sit\-in close to the border together with the other solidary people who cross the territory, a safe “port” in the territory of Ventimiglia to guarantee a first support to the rejected people\. Water and food are distributed, as well as other basic necessities, but evidently even this type of support is not contemplated by those who have governed the city for a few months\.” Photo by [Project20K](https://www.facebook.com/progetto20k/posts/891284521231463)
 ### Germany
 
 
-![“The Sea\-eye rescue ship will return home to Germany this weekend\. In the future, it should be permanently as an information and memory site in Hamburg\.” Photo by [Sea Eye](https://www.facebook.com/seaeyeorg/photos/a.732203640218869/1993390967433457/?type=3&theater)](assets/3f93066ba816/1*sklP6HUtd3GL9LoCAPeoBw.jpeg)
+![“The Sea\-eye rescue ship will return home to Germany this weekend\. In the future, it should be permanently as an information and memory site in Hamburg\.” Photo by [Sea Eye](https://www.facebook.com/seaeyeorg/photos/a.732203640218869/1993390967433457/?type=3&theater)](../assets/3f93066ba816/1*sklP6HUtd3GL9LoCAPeoBw.jpeg)
 
 “The Sea\-eye rescue ship will return home to Germany this weekend\. In the future, it should be permanently as an information and memory site in Hamburg\.” Photo by [Sea Eye](https://www.facebook.com/seaeyeorg/photos/a.732203640218869/1993390967433457/?type=3&theater)
 ### France
@@ -124,7 +124,7 @@ According to Human Right’s Watch \(HRW\), a decision was made on Monday which 
 An Aid working is having to pay a fine for a tweet he made in response to police activity in Calais\. Find out more [here](https://www.hrw.org/news/2019/06/25/france-aid-workers-defamation-conviction-upheld?fbclid=IwAR3CGDn1gj8hqSYpeVZ_Gp0nCo8JNpxj4-m3g9D0in84KoDWdM0UafnnyJU) \.
 
 
-![“The Council of State on Friday enjoined the northern prefecture to install water points, showers and toilets near a gymnasium of Grande\-Synthe, around which live some 700 migrants, and organize marauding to inform them of their rights\.” Photo provided by [With Afp](https://www.lavoixdunord.fr/602628/article/2019-06-21/la-prefecture-l-obligation-d-installer-douches-et-sanitaires-pour-les-migrants#Echobox=1561150824)](assets/3f93066ba816/1*z8M1qXuH0Tf5XsTV8mNopA.jpeg)
+![“The Council of State on Friday enjoined the northern prefecture to install water points, showers and toilets near a gymnasium of Grande\-Synthe, around which live some 700 migrants, and organize marauding to inform them of their rights\.” Photo provided by [With Afp](https://www.lavoixdunord.fr/602628/article/2019-06-21/la-prefecture-l-obligation-d-installer-douches-et-sanitaires-pour-les-migrants#Echobox=1561150824)](../assets/3f93066ba816/1*z8M1qXuH0Tf5XsTV8mNopA.jpeg)
 
 “The Council of State on Friday enjoined the northern prefecture to install water points, showers and toilets near a gymnasium of Grande\-Synthe, around which live some 700 migrants, and organize marauding to inform them of their rights\.” Photo provided by [With Afp](https://www.lavoixdunord.fr/602628/article/2019-06-21/la-prefecture-l-obligation-d-installer-douches-et-sanitaires-pour-les-migrants#Echobox=1561150824)
 ### Denmark

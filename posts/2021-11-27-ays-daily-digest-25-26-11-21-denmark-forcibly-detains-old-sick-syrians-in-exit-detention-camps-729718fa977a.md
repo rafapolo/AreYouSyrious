@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 25–26/11/21: Denmark forcibly detains old, sick Syrians in exit detention camps
+title: "AYS Daily Digest 25–26/11/21: Denmark forcibly detains old, sick Syrians in exit detention camps"
 author: Are You Syrious?
 date: 2021-11-27T13:12:08.700+0000
 last_modified_at: 2021-11-27T13:12:08.700+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,denmark]
 description: Only 7 people actually returned, as the Danish government refuses to collaborate with the Assad regime // Greece violates rights of human…
 image:
-  path: assets/729718fa977a/0*bdB_KZTJbk217y3Y.jpeg
+  path: ../assets/729718fa977a/0*bdB_KZTJbk217y3Y.jpeg
 ---
 
 ### AYS Daily Digest 25–26/11/21: Denmark forcibly detains old, sick Syrians in exit detention camps
 ### Only 7 people actually returned, as the Danish government refuses to collaborate with the Assad regime // Greece violates rights of human rights activists and protection seekers // More than 400 people rescued at sea // Germany to introduce new migration policy
 
 
-![](assets/729718fa977a/0*PFMtUB3y9vNzX69_.jpeg)
+![](../assets/729718fa977a/0*PFMtUB3y9vNzX69_.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----f7b9ea224cf9-----------------------------------)
@@ -22,7 +22,7 @@ image:
 [Nov 27](ays-daily-digest-25-26-11-21-denmark-forcibly-detains-old-sick-syrians-in-exit-detention-camps-f7b9ea224cf9?source=post_page-----f7b9ea224cf9-----------------------------------) · 8 min read
 
 
-![](assets/729718fa977a/0*bdB_KZTJbk217y3Y.jpeg)
+![](../assets/729718fa977a/0*bdB_KZTJbk217y3Y.jpeg)
 
 ### Today, 60\-year\-old Dalal and 67\-year\-old Suhil from Syria had to show up to be forcibly detained at the Danish exit center Sjælsmark\.
 

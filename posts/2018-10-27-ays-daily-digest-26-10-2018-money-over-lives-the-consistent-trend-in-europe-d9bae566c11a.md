@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 26/10/2018: Money over lives: the consistent trend in Europe
+title: "AYS DAILY DIGEST 26/10/2018: Money over lives: the consistent trend in Europe"
 author: Are You Syrious?
 date: 2018-10-27T12:21:35.191+0100
 last_modified_at: 2018-10-27T12:21:35.191+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [newsletter,digest,refugees,europe]
 description: Officials more intent on preserving their reputation (and funding) than securing safety for victims in Greece // Updates from Bosnia // EU…
 image:
-  path: assets/d9bae566c11a/1*qe0R5ldMBZwYoQXD0HqgDA.jpeg
+  path: ../assets/d9bae566c11a/1*qe0R5ldMBZwYoQXD0HqgDA.jpeg
 ---
 
 ### AYS DAILY DIGEST 26/10/2018: Money over lives: the consistent trend in Europe
@@ -15,7 +15,7 @@ image:
 _Officials more intent on preserving their reputation \(and funding\) than securing safety for victims in Greece // Updates from Bosnia // EU to spend 160m on “securing” Moroccan route // Over one million non EU citizens were refused entry to or sent out of Europe in 2017 // Opportunities to support people in Italy France, Germany, and Sweden // Finland suspends deportations to Iraq // more…_
 
 
-![Velika Kladusa Photo Credit: UMINO](assets/d9bae566c11a/1*qe0R5ldMBZwYoQXD0HqgDA.jpeg)
+![Velika Kladusa Photo Credit: UMINO](../assets/d9bae566c11a/1*qe0R5ldMBZwYoQXD0HqgDA.jpeg)
 
 Velika Kladusa Photo Credit: UMINO
 ### FEATURE: Arrivals increased in 2017, but safety and security continues to plummet in Greece\.

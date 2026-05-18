@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 4/2/2019: 15.980 people stranded in Greek islands
+title: "AYS DAILY DIGEST 4/2/2019: 15.980 people stranded in Greek islands"
 author: Are You Syrious?
 date: 2019-02-05T10:21:00.029+0000
 last_modified_at: 2019-02-07T11:12:28.369+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,islands,bosnia]
 description: And more people are coming every day // Life in the camps on mainland Greece is not much better // The situation in camps in Bosnia every…
 image:
-  path: assets/e0eeaadcf8f8/1*WFuUycbCsUkm36cFwe3gig.jpeg
+  path: ../assets/e0eeaadcf8f8/1*WFuUycbCsUkm36cFwe3gig.jpeg
 ---
 
 ### AYS DAILY DIGEST 4/2/2019: 15,980 people stranded on Greek islands
@@ -15,7 +15,7 @@ image:
 _And more people are coming every day // Life in the camps on mainland Greece is not much better // The situation in camps in Bosnia increasingly resembles the ugliest camps in Greece // Stories to be told and listen to from France and other parts of Europe_
 
 
-![“According to all the data, every year since the beginning of the refugee crisis fewer people reach Europe \(138,882 in 2018 compared to 1,015,078 in 2015\) \. However, thinking that the crisis is over is far from the truth\. Refugees still risk their lives crossing the Mediterranean Sea\. With a different reality in Europe, choosing a destination freely is no longer an option\. For Greece, this means a change from a country of transit to that of final destination\. According to Asylum Services, the number of new asylum applicants in Greece grew from 13,187 in 2015 to 61,760 in 2018\. An increase in asylum claims requires more services and financing from the Greek side and is a huge organizational challenge\. Italy and Spain are in a similar situation\. Seeing the situation up close in person and being engaged, one understands that no country should be left alone with this challenge\.” By 1796km\.](assets/e0eeaadcf8f8/1*WFuUycbCsUkm36cFwe3gig.jpeg)
+![“According to all the data, every year since the beginning of the refugee crisis fewer people reach Europe \(138,882 in 2018 compared to 1,015,078 in 2015\) \. However, thinking that the crisis is over is far from the truth\. Refugees still risk their lives crossing the Mediterranean Sea\. With a different reality in Europe, choosing a destination freely is no longer an option\. For Greece, this means a change from a country of transit to that of final destination\. According to Asylum Services, the number of new asylum applicants in Greece grew from 13,187 in 2015 to 61,760 in 2018\. An increase in asylum claims requires more services and financing from the Greek side and is a huge organizational challenge\. Italy and Spain are in a similar situation\. Seeing the situation up close in person and being engaged, one understands that no country should be left alone with this challenge\.” By 1796km\.](../assets/e0eeaadcf8f8/1*WFuUycbCsUkm36cFwe3gig.jpeg)
 
 “According to all the data, every year since the beginning of the refugee crisis fewer people reach Europe \(138,882 in 2018 compared to 1,015,078 in 2015\) \. However, thinking that the crisis is over is far from the truth\. Refugees still risk their lives crossing the Mediterranean Sea\. With a different reality in Europe, choosing a destination freely is no longer an option\. For Greece, this means a change from a country of transit to that of final destination\. According to Asylum Services, the number of new asylum applicants in Greece grew from 13,187 in 2015 to 61,760 in 2018\. An increase in asylum claims requires more services and financing from the Greek side and is a huge organizational challenge\. Italy and Spain are in a similar situation\. Seeing the situation up close in person and being engaged, one understands that no country should be left alone with this challenge\.” By 1796km\.
 ### Feature
@@ -23,7 +23,7 @@ _And more people are coming every day // Life in the camps on mainland Greece is
 Early in the morning, a boat landed on Farmakonisi, and 42 people were transported to Leros\.
 
 
-![](assets/e0eeaadcf8f8/1*Ucn-TMxqfNCLcgplSKlGIg.jpeg)
+![](../assets/e0eeaadcf8f8/1*Ucn-TMxqfNCLcgplSKlGIg.jpeg)
 
 
 Aegean Boat Report came out with the latest statistics from the islands for January, according to which there are 15,980 people stranded in inhuman camps\. So far this year, 1974 persons have come to the islands by the boats leaving from Turkey\. Many more were stopped on this route\.
@@ -62,7 +62,7 @@ Cases of tuberculosis have been recorded even before in overcrowded Libyan deten
 ### Italy
 
 
-![](assets/e0eeaadcf8f8/1*bnPKGano6HHpy4wKfAFvQA.jpeg)
+![](../assets/e0eeaadcf8f8/1*bnPKGano6HHpy4wKfAFvQA.jpeg)
 
 
 [Sea Watch 3](https://www.facebook.com/1578640155687393/posts/2197481963803206/) is still stuck in Catania, for the 5th day in a row\.
@@ -98,7 +98,7 @@ Partly sunny along the coast, in the rest of the country predominately cloudy wi
 After yesterday’s car accident in front of the refugee centre in Velika Kladusa \( [see our weekend Digest](ays-daily-digest-weekend-2-3-2-2019-european-deadly-trap-f19131bb6123) \), IOM, the organization in charge of the camp, did not issue any information about what happened\. IOM employs a private security company in the centre which did not call an ambulance or the police after the accident happened, and a 33\-year\-old man from Algeria bled to death\.
 
 
-![After the accident\. By Nevia Elezovic\.](assets/e0eeaadcf8f8/1*TAq90hXxYjtXaL8GUUxYew.jpeg)
+![After the accident\. By Nevia Elezovic\.](../assets/e0eeaadcf8f8/1*TAq90hXxYjtXaL8GUUxYew.jpeg)
 
 After the accident\. By Nevia Elezovic\.
 
@@ -109,7 +109,7 @@ Last Friday, there was a serious incident when over 100 people participated in a
 Nevertheless, none of these circamstances have been taken into consideration, and nothing at all is being done to improve conditions\. Rather, the situation is being used by the authorities in this area of the country to further restrict freedom of movement for the people\. IOM and UNHCR are aware of all this\.
 
 
-![Inside BIRA camp\.](assets/e0eeaadcf8f8/1*5tjViGF4A0WbZnV10KdCLQ.jpeg)
+![Inside BIRA camp\.](../assets/e0eeaadcf8f8/1*5tjViGF4A0WbZnV10KdCLQ.jpeg)
 
 Inside BIRA camp\.
 

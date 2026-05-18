@@ -7,14 +7,14 @@ categories:
 tags: [refugees,immigration,europe]
 description: While Greece is still coping with 53,805 refugees stuck in the country, including those in severely overcrowded camps, a German politician…
 image:
-  path: assets/89e1d21e6ba4/1*7XRHHH6bcQW1kEffS-5J8g.jpeg
+  path: ../assets/89e1d21e6ba4/1*7XRHHH6bcQW1kEffS-5J8g.jpeg
 ---
 
 ### AYS DAILY NEWS DIGEST 17\.4\.2016
 #### While Greece is still coping with 53,805 refugees stuck in the country, including those in severely overcrowded camps, a German politician has proposed IQ tests for the refugees in order to “speed up integration”\. 54% of Syrian refugees in Lebanon remain undocumented because of prohibitively high costs\.
 
 
-![Refugee child peeking through the wire fence in Idomeni\. Photo: Nima Yaghmaei Photography](assets/89e1d21e6ba4/1*7XRHHH6bcQW1kEffS-5J8g.jpeg)
+![Refugee child peeking through the wire fence in Idomeni\. Photo: Nima Yaghmaei Photography](../assets/89e1d21e6ba4/1*7XRHHH6bcQW1kEffS-5J8g.jpeg)
 
 Refugee child peeking through the wire fence in Idomeni\. Photo: Nima Yaghmaei Photography
 #### LEBANON
@@ -80,7 +80,7 @@ Refugee child peeking through the wire fence in Idomeni\. Photo: Nima Yaghmaei P
 
 
 
-![Makeshift school at EKO gas station in Polykastro\. Photo: Phoebe Gilpin](assets/89e1d21e6ba4/1*iYZYtBmTwW6OwZm9AB3HmQ.jpeg)
+![Makeshift school at EKO gas station in Polykastro\. Photo: Phoebe Gilpin](../assets/89e1d21e6ba4/1*iYZYtBmTwW6OwZm9AB3HmQ.jpeg)
 
 Makeshift school at EKO gas station in Polykastro\. Photo: Phoebe Gilpin
 ### Container or a shed needed in Idomeni
@@ -117,7 +117,7 @@ Makeshift school at EKO gas station in Polykastro\. Photo: Phoebe Gilpin
 
 
 
-![Refugees in Preševo camp\. Photo: Youth Office Presevo](assets/89e1d21e6ba4/1*ZQSWTO-shQX143oAVnNV8A.jpeg)
+![Refugees in Preševo camp\. Photo: Youth Office Presevo](../assets/89e1d21e6ba4/1*ZQSWTO-shQX143oAVnNV8A.jpeg)
 
 Refugees in Preševo camp\. Photo: Youth Office Presevo
 #### GERMANY

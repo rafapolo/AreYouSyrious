@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 29/01/19: Evictions in Porte-de-la Chapelle
+title: "AYS Daily Digest 29/01/19: Evictions in Porte-de-la Chapelle"
 author: Are You Syrious?
 date: 2019-01-30T04:50:07.087+0000
 last_modified_at: 2019-01-31T09:18:03.103+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,paris,mediterranean,digest,europe]
 description: Libyan PM reveals shocking statistics of migrants held in government detention centers // Sea-Watch 3 ordeal continues // A short film…
 image:
-  path: assets/1fd252238a4e/1*d3Kkv-LcWNyAiOjSm1w4HQ.jpeg
+  path: ../assets/1fd252238a4e/1*d3Kkv-LcWNyAiOjSm1w4HQ.jpeg
 ---
 
 ### AYS Daily Digest 29/01/19: Evictions in Porte\-de\-la Chapelle
@@ -15,7 +15,7 @@ image:
 _Libyan PM reveals shocking statistics of migrants held in government detention centers // Sea\-Watch 3 ordeal continues // A short film depicts street life for two Syrian children in Turkey // Refugees show their experience of Serbia in new photo exhibition // Demos in Venice and Berlin // New laws in France for unaccompanied minors // and more…_
 
 
-![Police evict refugees living under a bridge in Porte\-de\-la\-Chapelle, Paris\. Credit: [LouizArt Lou](https://www.facebook.com/loulou.timri/media_set?set=a.2250263038574639&type=3)](assets/1fd252238a4e/1*d3Kkv-LcWNyAiOjSm1w4HQ.jpeg)
+![Police evict refugees living under a bridge in Porte\-de\-la\-Chapelle, Paris\. Credit: [LouizArt Lou](https://www.facebook.com/loulou.timri/media_set?set=a.2250263038574639&type=3)](../assets/1fd252238a4e/1*d3Kkv-LcWNyAiOjSm1w4HQ.jpeg)
 
 Police evict refugees living under a bridge in Porte\-de\-la\-Chapelle, Paris\. Credit: [LouizArt Lou](https://www.facebook.com/loulou.timri/media_set?set=a.2250263038574639&type=3)
 ### Feature —
@@ -27,12 +27,12 @@ This is not a simple gesture of mercy by any means — [Solidarité Migrants Wil
 FranceBleu has more information [here](https://www.francebleu.fr/infos/societe/paris-evacuation-des-migrants-de-la-porte-de-la-chapelle-1548747242?fbclid=IwAR30LJdl8mcCmm25dtbrS3N1yiyaLdjgAZcjYBhMqrQQMPMvfCsI_62RNW0) \(in French\) \.
 
 
-![Before the eviction\. PRGS estimates that there were 400–500 people living in Porte de la Chapelle\. Credit: [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/photos/pcb.2295356204077820/2295356134077827/?type=3&theater)](assets/1fd252238a4e/1*ZgToJsEvgXwkNwqcn3KtbA.jpeg)
+![Before the eviction\. PRGS estimates that there were 400–500 people living in Porte de la Chapelle\. Credit: [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/photos/pcb.2295356204077820/2295356134077827/?type=3&theater)](../assets/1fd252238a4e/1*ZgToJsEvgXwkNwqcn3KtbA.jpeg)
 
 Before the eviction\. PRGS estimates that there were 400–500 people living in Porte de la Chapelle\. Credit: [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/photos/pcb.2295356204077820/2295356134077827/?type=3&theater)
 
 
-![The eviction\. Credit: [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/photos/pcb.2295356204077820/2295356134077827/?type=3&theater)](assets/1fd252238a4e/1*Ap8GUj14cMLyrp37v7FJtA.jpeg)
+![The eviction\. Credit: [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/photos/pcb.2295356204077820/2295356134077827/?type=3&theater)](../assets/1fd252238a4e/1*Ap8GUj14cMLyrp37v7FJtA.jpeg)
 
 The eviction\. Credit: [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/photos/pcb.2295356204077820/2295356134077827/?type=3&theater)
 
@@ -74,7 +74,7 @@ IOM [reports](https://www.iom.int/news/mediterranean-migrant-arrivals-reach-5757
 In yet another example of the criminalization of solidarity, Sea\-Watch 3 is still without a port — and Italian interior minister Matteo Salvini is threatening to subject the crew to a criminal investigation\.
 
 
-![](assets/1fd252238a4e/1*VHetbkrNMm8AIPgEuDrvZA.png)
+![](../assets/1fd252238a4e/1*VHetbkrNMm8AIPgEuDrvZA.png)
 
 
 The rescue ship is now in its 10th day at sea\. There are 47 asylum seekers aboard, including 13 unaccompanied minors and a [number of people](https://www.iom.int/news/mediterranean-migrant-arrivals-reach-5757-2019-deaths-reach-207?fbclid=IwAR3WoDajbyDu_jkFNGo_vs1knO-n4PuPsWuMoIEoWdgp7WWpy5d748tiNSc) who were subject to abuse in Libya\.
@@ -90,7 +90,7 @@ From director Serkan Özyumsak, a moving short film about the reality for two Sy
 ### Greece
 
 
-![Miserable conditions in Moria\. Credit: [No Borders](https://www.facebook.com/nobordersnetwork/photos/a.773767229357838/2109427742458440/?type=3&theater)](assets/1fd252238a4e/1*pYiscGSP8CPL-Lb5EhI1XA.jpeg)
+![Miserable conditions in Moria\. Credit: [No Borders](https://www.facebook.com/nobordersnetwork/photos/a.773767229357838/2109427742458440/?type=3&theater)](../assets/1fd252238a4e/1*pYiscGSP8CPL-Lb5EhI1XA.jpeg)
 
 Miserable conditions in Moria\. Credit: [No Borders](https://www.facebook.com/nobordersnetwork/photos/a.773767229357838/2109427742458440/?type=3&theater)
 
@@ -104,14 +104,14 @@ The good news: public transit in Athens is free with an unemployment card\. The 
 ### Serbia
 
 
-![Making bread\. Credit: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/662229647508656)](assets/1fd252238a4e/1*1UGGcum6M7XSKaWJzJOATg.jpeg)
+![Making bread\. Credit: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/662229647508656)](../assets/1fd252238a4e/1*1UGGcum6M7XSKaWJzJOATg.jpeg)
 
 Making bread\. Credit: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/662229647508656)
 
 A winter [report](https://www.facebook.com/NoNameKitchenBelgrade/posts/662229647508656) from No Name Kitchen: “Despite the snow and the low temperatures, people still continue to try crossing the forests to reach Italy…and are still being pushed back illegally when they are caught\.” No Name Kitchen provides breakfast, dinner, clean water, electricity, and hot water \(when the water heater is working\! \) to over 100 people each day\.
 
 
-![The poster for the exhibition’s launch, on February 6\.](assets/1fd252238a4e/1*tIezvTZR8LfZ-AYKVXUhEg.jpeg)
+![The poster for the exhibition’s launch, on February 6\.](../assets/1fd252238a4e/1*tIezvTZR8LfZ-AYKVXUhEg.jpeg)
 
 The poster for the exhibition’s launch, on February 6\.
 

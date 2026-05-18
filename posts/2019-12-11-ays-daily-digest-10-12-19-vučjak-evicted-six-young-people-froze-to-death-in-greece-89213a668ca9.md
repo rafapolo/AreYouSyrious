@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 10/12/19: Vučjak evicted, six young people froze to death in Greece
+title: "AYS Daily Digest 10/12/19: Vučjak evicted, six young people froze to death in Greece"
 author: Are You Syrious?
 date: 2019-12-11T14:09:03.018+0000
 last_modified_at: 2019-12-11T14:09:03.018+0000
 categories: Are You Syrious?
 tags: [refugees,vučjak,bosnia,migrants,greece]
-description: The victims of freezing were two women and four men, aged under 30 years old / AYS in the Vučjak camp: the horrid place is being bulldozed…
+description: "The victims of freezing were two women and four men, aged under 30 years old / AYS in the Vučjak camp: the horrid place is being bulldozed…"
 image:
-  path: assets/89213a668ca9/1*jExntr6fyXaM5qUQmQZgxw.jpeg
+  path: ../assets/89213a668ca9/1*jExntr6fyXaM5qUQmQZgxw.jpeg
 ---
 
 ### AYS Daily Digest 10/12/19: Vučjak evicted, six young people froze to death in Greece
 #### The victims of freezing were two women and four men, aged under 30 years old / AYS in the Vučjak camp: the horrid place is being bulldozed down, but the people are returning / Turkey begins resettling refugees in Northeastern Syria / Deportations from Sweden continue ahead of schedule / Donations needed\!
 
 
-![Eviction of Vučjak camp: people were taken to Ušivak near Sarajevo, but many have already returned to the border region in hopes of entering Croatia\. Photo: AYS](assets/89213a668ca9/1*jExntr6fyXaM5qUQmQZgxw.jpeg)
+![Eviction of Vučjak camp: people were taken to Ušivak near Sarajevo, but many have already returned to the border region in hopes of entering Croatia\. Photo: AYS](../assets/89213a668ca9/1*jExntr6fyXaM5qUQmQZgxw.jpeg)
 
 Eviction of Vučjak camp: people were taken to Ušivak near Sarajevo, but many have already returned to the border region in hopes of entering Croatia\. Photo: AYS
 #### FEATURED
@@ -40,7 +40,7 @@ On the coastal side, the [Aegean Boat Report](https://www.facebook.com/AegeanBoa
 **In the last three days alone, 25 boats have arrived on the islands, carrying 841 people\. 18 of these boats arrived on Lesvos, 721 people\.**
 
 
-![Photo: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?tn-str=k%2AF&hc_location=group_dialog)](assets/89213a668ca9/1*feXrzbuJZolpPW6B-5FCcA.jpeg)
+![Photo: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?tn-str=k%2AF&hc_location=group_dialog)](../assets/89213a668ca9/1*feXrzbuJZolpPW6B-5FCcA.jpeg)
 
 Photo: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?tn-str=k%2AF&hc_location=group_dialog)
 
@@ -85,34 +85,34 @@ On Tuesday morning, first evictions started taking place in the notorious Vučja
 Around 350 hundred were taken to Ušivak camp near Sarajevo, until the new camp in the old military complex is prepared to host them\. A lonely Afghan man spent the night in the camp, having returned from “the game” injured by beatings of the Croatian police\.
 
 
-![](assets/89213a668ca9/1*hAdODBwbh5crqFzOt8_YuA.jpeg)
+![](../assets/89213a668ca9/1*hAdODBwbh5crqFzOt8_YuA.jpeg)
 
 
 
-![](assets/89213a668ca9/1*ForAwxPPPU-Xk_O9unmbOQ.jpeg)
+![](../assets/89213a668ca9/1*ForAwxPPPU-Xk_O9unmbOQ.jpeg)
 
 
 
-![Vučjak after closing on December 10 in the evening, as the last buses took the people to Sarajevo\. Only one injured man remained in the camp\. Photo: AYS](assets/89213a668ca9/1*9W6UL--XsXa_vh25j4jzDg.jpeg)
+![Vučjak after closing on December 10 in the evening, as the last buses took the people to Sarajevo\. Only one injured man remained in the camp\. Photo: AYS](../assets/89213a668ca9/1*9W6UL--XsXa_vh25j4jzDg.jpeg)
 
 Vučjak after closing on December 10 in the evening, as the last buses took the people to Sarajevo\. Only one injured man remained in the camp\. Photo: AYS
 
 During the night, some of ex\-Vučjak residents have already appeared in the camps in the Una\-Sana canton, a Northern part of Bosnia from which they were taken away in order to “relieve the pressure” and reduce the number of border crossing attempts\. Many decided to hide in the landmine\-filled forests, in order to remain in the area and attempt new crossings\. Some of them returned to Vučjak in the morning, only to see it being bulldozed down by the local authorities\. This seems to be the final end of one of the most horrid parts of their journey, but it will not discourage them from their path towards EU\. It is expected that more people will now move towards informal camps in the Una\-Sana canton, which are regularly evicted by the police\. No sustainable solution is still in place for those on the move\.
 
 
-![](assets/89213a668ca9/1*nM5Q_dZY8ZEp6N7MxOxHJQ.jpeg)
+![](../assets/89213a668ca9/1*nM5Q_dZY8ZEp6N7MxOxHJQ.jpeg)
 
 
 
-![](assets/89213a668ca9/1*YwYHqsrpDBh5ugAKh0e9OQ.jpeg)
+![](../assets/89213a668ca9/1*YwYHqsrpDBh5ugAKh0e9OQ.jpeg)
 
 
 
-![](assets/89213a668ca9/1*8QhPeZZem6W_ypymEKZ6uQ.jpeg)
+![](../assets/89213a668ca9/1*8QhPeZZem6W_ypymEKZ6uQ.jpeg)
 
 
 
-![Some residents have returned to the camp, only to see it demolished\. Photo: AYS](assets/89213a668ca9/1*oC5sidoAK-UfiH6V7wqjsA.jpeg)
+![Some residents have returned to the camp, only to see it demolished\. Photo: AYS](../assets/89213a668ca9/1*oC5sidoAK-UfiH6V7wqjsA.jpeg)
 
 Some residents have returned to the camp, only to see it demolished\. Photo: AYS
 #### SYRIA/TURKEY
@@ -139,7 +139,7 @@ The UN seem to have [reportedly](https://syriadirect.org/news/how-many-civilians
 
 
 
-![9 boats arrived in Lesvos today carrying 351 refugees bringing up the number of human being stranded in [\#Moria](https://www.facebook.com/hashtag/moria?epa=HASHTAG) to 17800 \.](assets/89213a668ca9/1*dWQd2E9FXw9nbsB8Vqxo_g.jpeg)
+![9 boats arrived in Lesvos today carrying 351 refugees bringing up the number of human being stranded in [\#Moria](https://www.facebook.com/hashtag/moria?epa=HASHTAG) to 17800 \.](../assets/89213a668ca9/1*dWQd2E9FXw9nbsB8Vqxo_g.jpeg)
 
 9 boats arrived in Lesvos today carrying 351 refugees bringing up the number of human being stranded in [\#Moria](https://www.facebook.com/hashtag/moria?epa=HASHTAG) to 17800 \.
 ### Support the ground teams
@@ -184,7 +184,7 @@ The UN seem to have [reportedly](https://syriadirect.org/news/how-many-civilians
 As we published yesterday, **Mobile Info Team** is organising their first ever fundraiser — ‘Party Extravaganza’\! It will take place on Wednesday \(in 2 days\! the 11th of December\) from 7pm\-12am, at the converted factory space of Fix in Art \(26is Oktovriou 15, Thessaloniki 546 27\) \. Support their fundraiser\!
 
 
-![](assets/89213a668ca9/1*YDa4rb6z05yWzmK7FKeRvQ.jpeg)
+![](../assets/89213a668ca9/1*YDa4rb6z05yWzmK7FKeRvQ.jpeg)
 
 #### SWEDEN
 ### Deportation and fight against deportation at the same time
@@ -196,7 +196,7 @@ Also, Christian Abbas was [deported](https://l.facebook.com/l.php?u=https%3A%2F%
 The police took him by surprise when they showed up one day before it was scheduled, handcuffed him, and brought him to the airport\. He was sitting by the computer when he suddenly had to leave, not only the detention facility — but the country\.
 
 
-![Illustration by [Marit Törnqvist](https://www.facebook.com/profile.php?id=100014165134189&__tn__=%2Cd%2AF%2AF-R&eid=ARBSu3NIsU7hqCt8_3PCqV7P4YZ8YIf34bgbiu0mmr6pDefBsKWB9Y04dyAMijA4gtj_Lodpx3h3mKlm&tn-str=%2AF)](assets/89213a668ca9/1*vnGKOOzxpkwerlgZA01feg.jpeg)
+![Illustration by [Marit Törnqvist](https://www.facebook.com/profile.php?id=100014165134189&__tn__=%2Cd%2AF%2AF-R&eid=ARBSu3NIsU7hqCt8_3PCqV7P4YZ8YIf34bgbiu0mmr6pDefBsKWB9Y04dyAMijA4gtj_Lodpx3h3mKlm&tn-str=%2AF)](../assets/89213a668ca9/1*vnGKOOzxpkwerlgZA01feg.jpeg)
 
 Illustration by [Marit Törnqvist](https://www.facebook.com/profile.php?id=100014165134189&__tn__=%2Cd%2AF%2AF-R&eid=ARBSu3NIsU7hqCt8_3PCqV7P4YZ8YIf34bgbiu0mmr6pDefBsKWB9Y04dyAMijA4gtj_Lodpx3h3mKlm&tn-str=%2AF)
 

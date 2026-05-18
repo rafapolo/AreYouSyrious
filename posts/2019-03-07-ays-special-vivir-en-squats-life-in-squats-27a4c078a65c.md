@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Vivir en squats (Life in squats)
+title: "AYS SPECIAL: Vivir en squats (Life in squats)"
 author: Are You Syrious?
 date: 2019-03-07T08:52:36.246+0000
 last_modified_at: 2019-03-07T14:23:21.740+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [velika-kladusa,special,refugees,bosnia,squats]
 description: Desde que a finales del pasado año 2018 se abriese el campamento de Miral, en Polje, a 5 kilómetros de Velika Kladusa, es como si el…
 image:
-  path: assets/27a4c078a65c/1*JCZ7LtEYooRS-ve_3quUUA.jpeg
+  path: ../assets/27a4c078a65c/1*JCZ7LtEYooRS-ve_3quUUA.jpeg
 ---
 
 ### AYS SPECIAL: Vivir en squats \(Life in squats\)
@@ -16,7 +16,7 @@ _Desde que a finales del pasado año 2018 se abriese el campamento de Miral, en 
 Since the opening of camp Miral in Polje, 5 kilometres from Velika Kladuša, in late 2018, it is as if the right of refugees to move freely around the city no longer existed\. This is when the harassment started\. ‘Go to the camp\!’, the police officers shout at them when they are walking down the street\.
 
 
-![](assets/27a4c078a65c/1*JCZ7LtEYooRS-ve_3quUUA.jpeg)
+![](../assets/27a4c078a65c/1*JCZ7LtEYooRS-ve_3quUUA.jpeg)
 
 
 — scroll down for English —
@@ -32,7 +32,7 @@ Ríen y conversan sentados en círculo\. La estancia huele a carne y verduras\. 
 Es fácil saber quiénes viven en el campo y quiénes no\. Los que viven fuera, huelen a humo y fogata\. A pollo guisado\. Y pasan más tiempo en la ciudad de Velika Kladusa\. Tienen a la policía, que los persigue cuando caminan por la calle para recordarles que se vayan al campo, a veces los meten en el coche para llevarlos ellos mismos\. Se esconden para entrar a su casa, donde hablan bajo para no llamar la atención\. El dueño de la casa sabe que viven allí y no le importa\. Algunos vecinos también\. Pero si la policía se enterase, los echaría\. Los llevaría al campamento\.
 
 
-![](assets/27a4c078a65c/1*-YED2voKB-2RWjmhp8rYug.jpeg)
+![](../assets/27a4c078a65c/1*-YED2voKB-2RWjmhp8rYug.jpeg)
 
 
 Desde que a finales del pasado año 2018 se abriese el campamento de Miral, en Polje, a 5 kilómetros de Velika Kladusa, es como si el derecho de libre circulación de las personas refugiadas por la ciudad, ya no existiera\. Ahí comenzó el acoso\. ¡Id al campo\!, les gritan los agentes cuando caminan por la calle\.
@@ -44,7 +44,7 @@ No quiere romper normas, pero las normas que se van creando para decidir sobre s
 Nadie dijo que no se pudiera volver de noche al campo\. Pero un conocido suyo un día lo hizo: estuvo cenando en el ‘squat’ donde viven unos amigos y a las 11 de la noche volvió para su cama\. Una buena hora para él\. Era en aquellos momentos en los que cientos de hombres compartían las instalaciones, en literas pegadas unas a otras , tapada con mantas para preservar cierta intimidad\. Entre el insomnio que sufre, que la luz del recinto no se apagaba en toda la noche y los ruidos de otras de las cientos de personas que allí dormían, normalmente no conseguía dormir hasta las 6 o las 7 de la mañana, cuando ya caía rendido\. Pero, la seguridad privada que custodia el recinto, le denegó la entrada\. No lo dejan vivir en squats, pero no le permiten entrar en el campo\. Acabó saltando la valla por detrás\. Las normas se van inventando sobre la marcha, y cuando vives en un campamento, tu vida deja de pertenecerte\. Y, seas disciplinado o no, hay veces que no hay más remedio que romper las normas, porque muchas van contra tu dignidad\.
 
 
-![](assets/27a4c078a65c/1*Zk_JT0l7-z_eYLPgOc5w1w.jpeg)
+![](../assets/27a4c078a65c/1*Zk_JT0l7-z_eYLPgOc5w1w.jpeg)
 
 
 Antes Khaled, vivía en un contenedor de obra\. Madrugaba\. Cogía sus tres botellas de Coca cola arrugadas y vacías y las rellenaba de agua en un grifo cercano a su ‘casa’\. Se iba a comprar pan a su ‘pekara’ favorita, iba a la tiendita de un señor muy amable a comprar vegetales y pasaba por la carnicería a por pollo\. Llegaba a su ‘casa’, que compartía con otros tres chicos, limpiaba y recogía, partía leña en pequeños pedazos, y encendía su estufa\. Cuando el fuego comenzaba a arder, él se ponía a cocinar\. Y durante las horas de la mañana preparaba su guiso que siempre compartía con algún amigo o amiga diferente a quien invitaba a comer con él\. Una organización independiente presente en Kladusa, ofrecía dinero para comida\. Y otra, leña y estufas\. Así lo habían acordado\. Klaled pidió a las voluntarias que prefería que le dieran la leña sin cortar y un hacha\. Cuando eres refugiado en tránsito, no tienes derecho a trabajar ni a estudiar\. Europa te despoja de derechos y prácticamente no hay mucho que puedas hacer Khaled quería ser al menos el dueño de sus tareas\. Que le dieran la leña partida para que el fuego encendiera mejor, le parecía muy paternalista\. Prefería encargarse él\.
@@ -54,7 +54,7 @@ Desde que lo obligaron a irse a vivir a Miral, su vida ha dejado de pertenecerle
 Es comprensible que los habitantes de Velika Kladusa y las autoridades locales no quieran a personas viviendo en casas abandonadas porque quieran tener un mayor control sobre la cientos de personas que residen en la localidad sin documentación alguna\. Pero nos encontramos, sobre todo, desde que se abrió el campo de Miral, que incluso la policía persigue a los ciudadanos locales que alquilan o prestan sus casas a personas refugiadas, aunque estas personas sean familias con niños pequeños, que han preferido vivir ‘una vida normal’ dentro de ese limbo en el que se encuentran, donde se les ha despojado de todo derecho por querer escapar de una guerra\.
 
 
-![](assets/27a4c078a65c/1*OC8ZJqqKkpkf8MarXVCDAw.jpeg)
+![](../assets/27a4c078a65c/1*OC8ZJqqKkpkf8MarXVCDAw.jpeg)
 
 
 The night is cold and Hassan has invited two friends over to his ‘house’ for dinner, a place he shares with four other friends\. Walls, floor, ceiling and windows\. The door is always open because the space where there should have been one was never filled in\. On the floor, stacked blankets to soften and make forget the hardness of the floor\. And on top of the blankets that serve as mattress, more blankets to keep them warm\.

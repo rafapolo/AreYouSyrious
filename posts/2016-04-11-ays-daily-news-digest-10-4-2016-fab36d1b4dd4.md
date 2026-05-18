@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,immigration]
 description: 250 injured in Idomeni as a result of a clash that came in the aftermath of a rumor about the borders opening. Balkan Route to remain…
 image:
-  path: assets/fab36d1b4dd4/1*qW5iDD1frpuYX_wonI2wYg.jpeg
+  path: ../assets/fab36d1b4dd4/1*qW5iDD1frpuYX_wonI2wYg.jpeg
 ---
 
 ### AYS DAILY NEWS DIGEST 10\.4\.2016
 #### 250 injured in Idomeni as a result of a clash that came in the aftermath of a rumor about the borders opening\. Balkan Route to remain closed in the forseeable future\.
 
 
-![Photo from today’s protest in Idomeni\. Photographer: Nadina Malicebegovic\.](assets/fab36d1b4dd4/1*qW5iDD1frpuYX_wonI2wYg.jpeg)
+![Photo from today’s protest in Idomeni\. Photographer: Nadina Malicebegovic\.](../assets/fab36d1b4dd4/1*qW5iDD1frpuYX_wonI2wYg.jpeg)
 
 Photo from today’s protest in Idomeni\. Photographer: Nadina Malicebegovic\.
 #### Greece
@@ -214,13 +214,13 @@ Photo from today’s protest in Idomeni\. Photographer: Nadina Malicebegovic\.
 #### AYS News
 
 
-![](assets/fab36d1b4dd4/1*VgoZdXCEIbXhBiOns9m6kw.jpeg)
+![](../assets/fab36d1b4dd4/1*VgoZdXCEIbXhBiOns9m6kw.jpeg)
 
 
 Today was a very big day for us at AYS\. In the morning, we visited theater with our little friends\. Their parents applied for asylum in Croatia and we are trying our best to show them our hospitality\. Dear Zagrebačko Kazalište Lutaka, thank you for being such a great hosts\! We had the fantastic time\!
 
 
-![](assets/fab36d1b4dd4/1*yq_AKSt6xXBvqruFGocFAw.jpeg)
+![](../assets/fab36d1b4dd4/1*yq_AKSt6xXBvqruFGocFAw.jpeg)
 
 
 We finished loading our third container of donations for refugees in Greece\. Volunteers and asylum seekers were working together for days, and our magnificent donors made this possible\. We would like to thank all of you from the deepest place in our hearts\! We hope this container will bring some of our love to our friends in Greece\. This was a great day indeed\. Thank you all for supporting us\! With your help, we will continue making this world a better place\.

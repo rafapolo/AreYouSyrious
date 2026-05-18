@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 27/07/2018: Spain overtakes Italy as main point of entry
+title: "AYS DAILY DIGEST 27/07/2018: Spain overtakes Italy as main point of entry"
 author: Are You Syrious?
 date: 2018-07-28T11:03:47.678+0100
 last_modified_at: 2018-07-28T12:20:04.647+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees]
 description: Spain has registered nearly 21,000 refugees so far this year//Route from Libya to Italy claims the lives of one in 19 people//The Sarost 5…
 image:
-  path: assets/5252f15d6730/0*z2D317ugBaN_UpuK.jpg
+  path: ../assets/5252f15d6730/0*z2D317ugBaN_UpuK.jpg
 ---
 
 ### AYS DAILY DIGEST 27/07/2018: Spain overtakes Italy as main point of entry
@@ -15,7 +15,7 @@ image:
 _Spain has registered nearly 21,000 refugees so far this year//Route from Libya to Italy claims the lives of one in 19 people//The Sarost 5 is still stranded in the Mediterranean//Human Rights Watch reports on inhuman conditions in reception centres at the land border between Greece and Turkey//_
 
 
-![Photo by Salvamento Maritimo](assets/5252f15d6730/0*z2D317ugBaN_UpuK.jpg)
+![Photo by Salvamento Maritimo](../assets/5252f15d6730/0*z2D317ugBaN_UpuK.jpg)
 
 Photo by Salvamento Maritimo
 ### Feature
@@ -27,7 +27,7 @@ Meanwhile, arrivals in Italy have dropped by 80% to 18,130\. Since May 1, 7,198 
 The route from Libya to Italy has also become more deadly, claiming the lives of one in 19 people, as Europe and Italy are criminalising rescue organisations on the Central Mediterranean route\. IOM spokesman Joel Millman says “despite incredibly low numbers arriving to Italy, the per capita death or the rate of death per 1,000 people may be at its highest point since the emergency began”\.
 
 
-![](assets/5252f15d6730/0*0b3nBLNXtoA1RSkI.jpg)
+![](../assets/5252f15d6730/0*0b3nBLNXtoA1RSkI.jpg)
 
 
 The death rate could increase even further as now merchant ships are also incentivised to look the other way when encountering shipwrecks\. The Sarost 5, an offshore supply vessel, has been stranded in the Mediterranean Sea for nearly two weeks with 40 people aboard, after four countries rejected it\. Journalist Giorgia Orlandi says nobody from UNHCR has ever visited the boat and says the second captain confirms that after 15 days, there is still no news on disembarkation\. The boat includes two pregnant women, in urgent need of help\. Despite that, no country has been willing to accept them\. Knowing this, what will another merchant ship do in case they receive a distress call?
@@ -46,7 +46,7 @@ The death rate could increase even further as now merchant ships are also incent
 The movement [Seebrücke](https://www.facebook.com/SeebrueckeSchafftsichereHaefen/) is calling for safe routes for refugees and an end to the criminalisation of sea rescue\. It is organisaing dozens of protests across Europe, most of all in Germany\. Check out their Facebook page to find an event hear you\.
 
 
-![Photo by Seebrücke — Schafft sichere Häfen](assets/5252f15d6730/0*_2YGioJOZFQKazIx)
+![Photo by Seebrücke — Schafft sichere Häfen](../assets/5252f15d6730/0*_2YGioJOZFQKazIx)
 
 Photo by Seebrücke — Schafft sichere Häfen
 
@@ -59,7 +59,7 @@ Numbers have increased dramatically since May according to the IOM Madrid’s Ou
 ### Boats arrive on Greek islands
 
 
-![Photo by Salvamento Maritimo Humanitario](assets/5252f15d6730/0*T_GQPpByX0bfSriq)
+![Photo by Salvamento Maritimo Humanitario](../assets/5252f15d6730/0*T_GQPpByX0bfSriq)
 
 Photo by Salvamento Maritimo Humanitario
 

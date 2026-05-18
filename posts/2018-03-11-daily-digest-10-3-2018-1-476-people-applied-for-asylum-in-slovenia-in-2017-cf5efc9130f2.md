@@ -1,5 +1,5 @@
 ---
-title: DAILY DIGEST 10/3/2018: 1,476 people applied for asylum in Slovenia in 2017
+title: "DAILY DIGEST 10/3/2018: 1,476 people applied for asylum in Slovenia in 2017"
 author: Are You Syrious?
 date: 2018-03-11T08:55:13.103+0000
 last_modified_at: 2018-03-11T21:10:25.149+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,bosnia,france,slovenia]
 description: Report from Slovenia where the government is looking for ways to send people back to other EU countries // Help desperately needed in…
 image:
-  path: assets/cf5efc9130f2/1*n8PvgPHPBJJKr6EYHkDB6A.jpeg
+  path: ../assets/cf5efc9130f2/1*n8PvgPHPBJJKr6EYHkDB6A.jpeg
 ---
 
 ### DAILY DIGEST 10/3/2018: 1,476 people applied for asylum in Slovenia in 2017
@@ -16,7 +16,7 @@ _Report from Slovenia where the government is looking for ways to send people ba
 
 
 ![The Aquarius rescued 110 people this Saturday morning, including 18 women, aboard a pneumatic boat in distress in international waters west of Tripoli\. 
-Photos HARA KAMINARA / Sos méditerranée](assets/cf5efc9130f2/1*n8PvgPHPBJJKr6EYHkDB6A.jpeg)
+Photos HARA KAMINARA / Sos méditerranée](../assets/cf5efc9130f2/1*n8PvgPHPBJJKr6EYHkDB6A.jpeg)
 
 The Aquarius rescued 110 people this Saturday morning, including 18 women, aboard a pneumatic boat in distress in international waters west of Tripoli\. 
 Photos HARA KAMINARA / Sos méditerranée
@@ -75,7 +75,7 @@ Saturday was another busy and difficult day at sea\. **The Aquarius crew rescued
 At the same time, the Libyan coast guard intercepted a boat with about 220 people on it\.
 
 
-![Photo by: Fotomovimento 15M](assets/cf5efc9130f2/1*z2SCRzQ5oJTyUUpTyYBbAA.jpeg)
+![Photo by: Fotomovimento 15M](../assets/cf5efc9130f2/1*z2SCRzQ5oJTyUUpTyYBbAA.jpeg)
 
 Photo by: Fotomovimento 15M
 ### Greece
@@ -138,7 +138,7 @@ On Sunday in Herzegovina and south\-west Bosnia it will be moderately to predomi
 Variably cloudy with sunny intervals, intermittent rain on the coast and in the mountains, especially in the second half of the day\. In the rest of the country rain mainly in the evening; some places in the east might stay dry\. The wind will be moderate to strong from the south and southwest, on the coast gusting locally\. Temperature in the morning will range from 3 to 12°C and during the day from 14 to 19°C\.
 
 
-![Ventimiglia\. Photo by: Fotomovimento 15M](assets/cf5efc9130f2/1*yZrYvZ97Iz5UQFD3MIG02Q.jpeg)
+![Ventimiglia\. Photo by: Fotomovimento 15M](../assets/cf5efc9130f2/1*yZrYvZ97Iz5UQFD3MIG02Q.jpeg)
 
 Ventimiglia\. Photo by: Fotomovimento 15M
 ### Bosnia
@@ -173,7 +173,7 @@ If you want to volunteer in Bosnia, please get in touch through the AYS inbox on
 [The other group](https://www.facebook.com/donate/548076322237341/10155313264252023/) are international volunteers who are working at a private property with a local family who has offered shelter for about 80 single men\. But every day new people are arriving and they are struggling with financing food, blankets, and other essential items\.
 
 
-![Ventimiglia\. Photo by: Fotomovimento 15M](assets/cf5efc9130f2/1*F9vtXTxa989wFl0HauuFgg.jpeg)
+![Ventimiglia\. Photo by: Fotomovimento 15M](../assets/cf5efc9130f2/1*F9vtXTxa989wFl0HauuFgg.jpeg)
 
 Ventimiglia\. Photo by: Fotomovimento 15M
 ### France
@@ -199,7 +199,7 @@ Care4Calais is asking for [donations for boots/shoes](https://www.facebook.com/c
 [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/) is in urgent need of a second team for night distributions\. If you are experienced, hard working, and independent and you have a van, get in touch with the team\.
 
 
-![](assets/cf5efc9130f2/1*hYMEdWwKMy78tOIO6Lkzpw.jpeg)
+![](../assets/cf5efc9130f2/1*hYMEdWwKMy78tOIO6Lkzpw.jpeg)
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 1/10/19: Sweden evaluates deportations to Syria
+title: "AYS Daily Digest 1/10/19: Sweden evaluates deportations to Syria"
 author: Are You Syrious?
 date: 2019-10-02T11:06:59.813+0100
 last_modified_at: 2019-10-02T11:06:59.813+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,sweden,deportations,greece,digest]
 description: Protests and new arrivals in Greece / Arrivals to Spain drop by 50 percent / Death toll in the Mediterranean reaches 1000 this year /…
 image:
-  path: assets/49a579ca30f1/1*4PfBKpW3RYxZlZRW8VQb_w.jpeg
+  path: ../assets/49a579ca30f1/1*4PfBKpW3RYxZlZRW8VQb_w.jpeg
 ---
 
 ### AYS Daily Digest 1/10/19: Sweden evaluates deportations to Syria
 #### Protests and new arrivals in Greece / Arrivals to Spain drop by 50 percent / Death toll in the Mediterranean reaches 1000 this year / Bombes camp in Libya still operating / UN demands to close Vučjak camp near the BiH border with Croatia / Reports of deaths in the Bosnian border area with Croatia / &more news
 
 
-![Protests in Sweden against deportations to Afghanistan\. Credits: [Amaso/Twitter](https://twitter.com/AmasoOrg/status/1171461231988789248)](assets/49a579ca30f1/1*4PfBKpW3RYxZlZRW8VQb_w.jpeg)
+![Protests in Sweden against deportations to Afghanistan\. Credits: [Amaso/Twitter](https://twitter.com/AmasoOrg/status/1171461231988789248)](../assets/49a579ca30f1/1*4PfBKpW3RYxZlZRW8VQb_w.jpeg)
 
 Protests in Sweden against deportations to Afghanistan\. Credits: [Amaso/Twitter](https://twitter.com/AmasoOrg/status/1171461231988789248)
 #### FEATURED
@@ -123,25 +123,25 @@ One would hope that means that even more will, albeit so very late, be spent on 
 A large number of people are still arriving daily to Tuzla\. During the previous night, around 70 people arrived at the bus station\. At the same time, there was about a hundred more people who had been arriving during the day, and some who have been in the city for a couple of days already\.
 
 
-![](assets/49a579ca30f1/1*LFYLTsTU791co2bt8RA9Dw.jpeg)
+![](../assets/49a579ca30f1/1*LFYLTsTU791co2bt8RA9Dw.jpeg)
 
 
 The local volunteers remain the only organised group assisting these people\. In spite a large number of people in the street during the night \(about 200\), this was also the case today\. Many people from the town brought blankets, clothes, and food\. Women from Tuzla had prepared meals for everyone and the organisation Wave came to assist the group\. During October a large number of people are expected to arrive in Tuzla, and the already well\-exhausted volunteers \(with their own lives, jobs and families to take care of\) worry how will everything unravel in those circumstances, and if nobody comes with a viable and sustainable solution\.
 
 
-![](assets/49a579ca30f1/1*8P-sV-LhZ2L46seTonkk6A.jpeg)
+![](../assets/49a579ca30f1/1*8P-sV-LhZ2L46seTonkk6A.jpeg)
 
 
 The local police officers work well with the volunteers, helping with organisation during the meal distribution\. One of the big issues for all the people involved is the \(inevitable in these circumstances\) problem of scabies\. One girl was hospitalized due to developed injuries of scabies\. This is not the only case, and more people are getting sick due to the conditions they are forced to stay in\. The epidemiological service of the Health centre in Tuzla claims that they have no information on sick patients, and have not been approached by people who suffer from the illness\. They have no information because none of the responsible officials come to assess the situation, and only the volunteers bring sick people to hospitals\. Same goes for transport out of the hospital\. Even if a person has had to take a surgery, they are later on discharged — to the street, with everyone else\.
 
 
-![](assets/49a579ca30f1/1*tpl_GHHHX7_owjGe68k0Bg.jpeg)
+![](../assets/49a579ca30f1/1*tpl_GHHHX7_owjGe68k0Bg.jpeg)
 
 
 The dire need for basic accommodation in Tuzla has still not reached the top of anyone’s priority list, not the internationals organisations responsible and in charge of the refugee situation in Bosnia and Herzegovina, not the local leaders or the cantonal and federal governments\.
 
 
-![all photos by Senad Cupo](assets/49a579ca30f1/1*eRhcYZ7UvFH4PQuf-MlDmA.jpeg)
+![all photos by Senad Cupo](../assets/49a579ca30f1/1*eRhcYZ7UvFH4PQuf-MlDmA.jpeg)
 
 all photos by Senad Cupo
 ### New deaths on the border?

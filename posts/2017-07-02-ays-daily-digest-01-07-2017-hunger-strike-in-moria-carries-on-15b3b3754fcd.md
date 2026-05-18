@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 01/07/17: Hunger strike in Moria carries on
+title: "AYS Daily Digest 01/07/17: Hunger strike in Moria carries on"
 author: Are You Syrious?
 date: 2017-07-02T03:13:17.241+0100
 last_modified_at: 2017-07-03T03:06:33.834+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,moria,greece,germany,afghanistan]
 description: More people disappear in the Mediterranean / Water shortages on Chios / Germany halts asylum decisions for Afghan nationals / Tensions in…
 image:
-  path: assets/15b3b3754fcd/1*s4kPJIHYWUo5qW0McyDLWA.jpeg
+  path: ../assets/15b3b3754fcd/1*s4kPJIHYWUo5qW0McyDLWA.jpeg
 ---
 
 ### AYS Daily Digest 01/07/17: Hunger strike in Moria carries on
@@ -15,7 +15,7 @@ image:
 _More people disappear in the Mediterranean / Water shortages on Chios / Germany halts asylum decisions for Afghan nationals / Tensions in Calais continue / And more news…_
 
 
-![](assets/15b3b3754fcd/1*s4kPJIHYWUo5qW0McyDLWA.jpeg)
+![](../assets/15b3b3754fcd/1*s4kPJIHYWUo5qW0McyDLWA.jpeg)
 
 ### WEATHER ALERT
 
@@ -25,7 +25,7 @@ A heatwave is hitting southeastern Europe and Turkey throughout the weekend\. A 
 The hunger strike in Moria continues\. The demands being made are demands for basic human dignity\.
 
 
-![‘Hunger strike for freedom’ in Moria \(Arash Hampay\)](assets/15b3b3754fcd/1*tiv_23u_XASm1xqN-LIQNA.jpeg)
+![‘Hunger strike for freedom’ in Moria \(Arash Hampay\)](../assets/15b3b3754fcd/1*tiv_23u_XASm1xqN-LIQNA.jpeg)
 
 ‘Hunger strike for freedom’ in Moria \(Arash Hampay\)
 
@@ -121,7 +121,7 @@ A forest fire started this afternoon in the Kara Tepe area\. Luckily it was exti
 While water shortages have been affecting the islands for some days now, today Souda camp was reportedly with no drinking water at all\.
 
 
-![Conditions in Chios \(Refugee Info Bus\)](assets/15b3b3754fcd/1*HW0GZZFyY7pW4q7zx62OMA.jpeg)
+![Conditions in Chios \(Refugee Info Bus\)](../assets/15b3b3754fcd/1*HW0GZZFyY7pW4q7zx62OMA.jpeg)
 
 Conditions in Chios \(Refugee Info Bus\)
 ### **MAINLAND**
@@ -179,7 +179,7 @@ The intention of the government is to reassess the situation in Afghanistan, unt
 [A volunteer](https://web.facebook.com/groups/197381947270598/permalink/499896833685773/?hc_location=ufi) reports of growing tensions and fights between refugees belonging to the Eritrean and Ethiopian communities in Calais, where just yesterday the Mayor publicly refused to comply to a legal sentence that calls on councils to improve basic services for refugees\.
 
 
-![Conditions on the ground in Dunkerque \(Patrick van der Wouwen\)](assets/15b3b3754fcd/1*x4rZHakKvfLfM36RZmXrag.jpeg)
+![Conditions on the ground in Dunkerque \(Patrick van der Wouwen\)](../assets/15b3b3754fcd/1*x4rZHakKvfLfM36RZmXrag.jpeg)
 
 Conditions on the ground in Dunkerque \(Patrick van der Wouwen\)
 

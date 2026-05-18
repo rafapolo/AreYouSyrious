@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 4.11.2018: Fake news and hate propaganda in Austrian media
+title: "AYS DAILY DIGEST 4.11.2018: Fake news and hate propaganda in Austrian media"
 author: Are You Syrious?
 date: 2018-11-05T09:32:53.350+0000
 last_modified_at: 2018-11-05T10:22:45.359+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,bosnia,austria,fake-news]
 description: France deported minors to Morocco // Police violence in the streets of Paris // Report about the border violence from Croatia // Calls for…
 image:
-  path: assets/85e89f027e3b/1*zDyudy3yKDpuV1MIUh4OtQ.jpeg
+  path: ../assets/85e89f027e3b/1*zDyudy3yKDpuV1MIUh4OtQ.jpeg
 ---
 
 ### AYS Weekend Digest 3\-4/11/2018: Fake news and hate propaganda in Austrian media
@@ -15,7 +15,7 @@ image:
 _France deport minors to Morocco // Police violence in the streets of Paris // Report about the border violence in Croatia // Calls for solidarity and resistance // and more…_
 
 
-![Antiracist protest in The Hague\. Photo by [Deeez action and documentary photography](https://www.facebook.com/deeezactionandocumentaryphotography/?tn-str=k%2AF)](assets/85e89f027e3b/1*zDyudy3yKDpuV1MIUh4OtQ.jpeg)
+![Antiracist protest in The Hague\. Photo by [Deeez action and documentary photography](https://www.facebook.com/deeezactionandocumentaryphotography/?tn-str=k%2AF)](../assets/85e89f027e3b/1*zDyudy3yKDpuV1MIUh4OtQ.jpeg)
 
 Antiracist protest in The Hague\. Photo by [Deeez action and documentary photography](https://www.facebook.com/deeezactionandocumentaryphotography/?tn-str=k%2AF)
 ### Feature
@@ -31,7 +31,7 @@ Additionally, they write about “a storm at the border,” whatever that means\
 On the other side of the border, thousands \(but far from 20,000\) of people who are looking for asylum in a safe country, or just dreaming about a better life, are deprived of their basic rights, left to live in mud with their children and families\. Many of them are from war torn countries like Yemen, Palestine, Syria, Afghanistan, Eritrea, Somalia, while some are coming from unstable states, where poverty, corruption and insecurity are preventing them to even hope for a better life\.
 
 
-![Camp in Bosnia where about 400 people live, many unaccompanied minors\. Photo AYS\.](assets/85e89f027e3b/1*PMNna4wgYDQ_Yg71Jn2aLg.jpeg)
+![Camp in Bosnia where about 400 people live, many unaccompanied minors\. Photo AYS\.](../assets/85e89f027e3b/1*PMNna4wgYDQ_Yg71Jn2aLg.jpeg)
 
 Camp in Bosnia where about 400 people live, many unaccompanied minors\. Photo AYS\.
 
@@ -90,7 +90,7 @@ In the mean time, resistance has been [organized](https://www.facebook.com/melti
 Resistance is already strong and the protests are taking place almost daily\. On Sunday, thousands went out on the streets of Trieste at the antifascist and antiracist protests\.
 
 
-![Trieste\. Antifa](assets/85e89f027e3b/1*Zn6W-cSKX6Asv-ggNWqWKg.jpeg)
+![Trieste\. Antifa](../assets/85e89f027e3b/1*Zn6W-cSKX6Asv-ggNWqWKg.jpeg)
 
 Trieste\. Antifa
 ### Greece
@@ -104,7 +104,7 @@ For the first time since last October, more than 4000 people \(4032\) were regis
 Although the Greek government transferred more people from Lesvos \(1603\) than registered there \(1256\), the situation remains tense in the camps as they are still overcrowded by more than twice the official capacity\.
 
 
-![AYS](assets/85e89f027e3b/1*OtjvLMjpAOw3SZ-enYqF1Q.jpeg)
+![AYS](../assets/85e89f027e3b/1*OtjvLMjpAOw3SZ-enYqF1Q.jpeg)
 
 AYS
 
@@ -125,7 +125,7 @@ Once they leave islands, the situation for many people remains precarious\. Long
 One example is from Argos where people from Afghanistan and Pakistan are living, as they work on farms
 
 
-![](assets/85e89f027e3b/1*eOgncXvu6o_wnC8KeB0Mbw.jpeg)
+![](../assets/85e89f027e3b/1*eOgncXvu6o_wnC8KeB0Mbw.jpeg)
 
 
 “The guys work for an agent as day labourers and get paid ‘on commission’ — 1000kg of Oranges nets them €15 \( max amount possible in a day\) — roughly €1\.25 per hour\. A kg of oranges sells for around £2\.50 in the UK or £2500 for 1000kg\. The farm workers receive less than 1% of the retail price\. Wholesale oranges sell for £660/1000kg @2\.5% for the workers\.”
@@ -133,7 +133,7 @@ One example is from Argos where people from Afghanistan and Pakistan are living,
 The second scene is from Athens, in Metaxourghio Square, where 33 Kurdish, Iraqi and Iranian men \(some looked no older than 16\) are sleeping\.
 
 
-![](assets/85e89f027e3b/1*aIyLHnJ5VAunSoSwaac6dw.jpeg)
+![](../assets/85e89f027e3b/1*aIyLHnJ5VAunSoSwaac6dw.jpeg)
 
 
 [IHA — InterEuropean Human Aid Association](https://www.facebook.com/iha.help/?__tn__=%2CdkCH-R-R&eid=ARC1z8hw508IDw1FfeIZZg_t7KCsZRUHCKVXNLi9Oixy69uDOhefcGrQHcQz2UNAAdrz5Pomnc6ZwHJW&hc_ref=ARSNATyoD3-GZ8uQ-GUR-uIVh2qaWmOFsQUXBcK0zlBPA_UpFqVW5MKNS8Yy3nAyr9w&fref=nf) are still present in Northern Greece\. They are trying to provide help in the remote village of Lagadikia where they run a small free shop, providing essential aid from food and hygiene articles to tents and sleeping bags\.
@@ -146,7 +146,7 @@ The team is working extremely hard to cover the most urgent needs, but the situa
 On Saturday afternoon, a fight broke out in a new place where about 300 people are housed after leaving the border area where they protested for eight days asking for the borders to reopen\. The place was given by the people of Velika Kladusa, the city at the border, but nobody has taken over responsibility to provide basic help for those inside\.
 
 
-![Food distribution by Red Cross and IOM in Kladusa\. Photo AYS\.](assets/85e89f027e3b/1*wMRra1NtSaBW-ET-1-QWEA.jpeg)
+![Food distribution by Red Cross and IOM in Kladusa\. Photo AYS\.](../assets/85e89f027e3b/1*wMRra1NtSaBW-ET-1-QWEA.jpeg)
 
 Food distribution by Red Cross and IOM in Kladusa\. Photo AYS\.
 
@@ -196,7 +196,7 @@ Paris’ needless & cruel violence & harassment\.”
 Longterm volunteer [Danika Jurisic](https://www.facebook.com/profile.php?id=100009499466124&__tn__=%2CdCH-R-R&eid=ARCto4GFxz-2OjSmNzVu_Lvkf8884d39qqHJvgq2gFRRvH-9qPL1WPd48nSEFW5kK3yX9n3RvOk_A6UU&hc_ref=ARToEyIh3MKPEy9r_neNGB_fhDrMNFRyL5qA5DQVwmU1YblO0r9OouGbLET7ZjOxpHo&fref=nf) also send alarming reports from Paris\.
 
 
-![By Danika Jurisic\.](assets/85e89f027e3b/1*csTt-UOk27tMbzSHtArmSw.jpeg)
+![By Danika Jurisic\.](../assets/85e89f027e3b/1*csTt-UOk27tMbzSHtArmSw.jpeg)
 
 By Danika Jurisic\.
 
@@ -206,7 +206,7 @@ Danika is helping a lot of people, and is trustworthy\. There is a demand for ch
 ### Netherlands
 
 
-![A big ‘No One Is Illegal’ demonstration was held on Sunday in The Hague with over 700 taking part\.](assets/85e89f027e3b/1*rWmasrnR_g0OWFQuBE_RBw.jpeg)
+![A big ‘No One Is Illegal’ demonstration was held on Sunday in The Hague with over 700 taking part\.](../assets/85e89f027e3b/1*rWmasrnR_g0OWFQuBE_RBw.jpeg)
 
 A big ‘No One Is Illegal’ demonstration was held on Sunday in The Hague with over 700 taking part\.
 ### Sweden

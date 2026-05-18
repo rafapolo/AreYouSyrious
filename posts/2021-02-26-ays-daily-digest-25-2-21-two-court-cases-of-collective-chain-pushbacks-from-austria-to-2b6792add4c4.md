@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 25/2/21: Two court cases of collective chain pushbacks from Austria to…
+title: "AYS Daily Digest 25/2/21: Two court cases of collective chain pushbacks from Austria to…"
 author: Are You Syrious?
 date: 2021-02-26T18:16:01.184+0000
 last_modified_at: 2021-02-26T18:19:22.999+0000
 categories: Are You Syrious?
 tags: [digest,refugees,austria,pushback,europe]
-description: Denmark strips 94 Syrian refugees of their residency permits, deeming Damascus safe for their return / UK: High Court judgment: lack of…
+description: "Denmark strips 94 Syrian refugees of their residency permits, deeming Damascus safe for their return / UK: High Court judgment: lack of…"
 image:
-  path: assets/2b6792add4c4/0*ET9EoYYWl7mjuCJ4
+  path: ../assets/2b6792add4c4/0*ET9EoYYWl7mjuCJ4
 ---
 
 ### AYS Daily Digest 25/2/21: Court hearing on cases of collective chain pushbacks from Austria to Bosnia&Herzegovina
 #### Denmark strips 94 Syrian refugees of their residency permits, deeming Damascus safe for their return / UK: High Court judgment: lack of access to legal aid is unlawful; Home Office violated human rights of asylum seeker who was evicted during 8th attempt to reopen his case & more
 
 
-![](assets/2b6792add4c4/0*ET9EoYYWl7mjuCJ4)
+![](../assets/2b6792add4c4/0*ET9EoYYWl7mjuCJ4)
 
 #### FEATURED
 
@@ -86,7 +86,7 @@ The most recent judgment will help significantly improve access to legal aid and
 After a man was left without a lawyer for 10 months and was forced to represent himself, the High Court has ruled legal aid provision for immigration detainees held in prisons is unlawful:
 
 
-![](assets/2b6792add4c4/1*3ZpOYK0DuOhftrSCdrGXeg.jpeg)
+![](../assets/2b6792add4c4/1*3ZpOYK0DuOhftrSCdrGXeg.jpeg)
 
 
 In another instance, the Home Office was found to have violated human rights of asylum seeker who was evicted during eighth attempt to reopen his case\. FreeMovement has the whole story:

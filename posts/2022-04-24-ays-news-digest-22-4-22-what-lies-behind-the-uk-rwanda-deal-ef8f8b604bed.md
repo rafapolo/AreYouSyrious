@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 22/4/22: What lies behind the UK-Rwanda deal
+title: "AYS News Digest 22/4/22: What lies behind the UK-Rwanda deal"
 author: Are You Syrious?
 date: 2022-04-24T22:25:20.644+0100
 last_modified_at: 2022-04-25T13:50:08.360+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,uk,europe,report]
 description: Danish Refugee Board taking steps to classify Afghanistan as a safe country / German Federal Administrative Court overruling the Leipzig…
 image:
-  path: assets/ef8f8b604bed/1*HVL2PVonCdxkGEI0ehxhVw.jpeg
+  path: ../assets/ef8f8b604bed/1*HVL2PVonCdxkGEI0ehxhVw.jpeg
 ---
 
 ### AYS News Digest 22/4/22: What lies behind the UK\-Rwanda deal
 #### Danish Refugee Board taking steps to classify Afghanistan as a safe country / German Federal Administrative Court overruling the Leipzig court’s decision and permitting deportations with more reckless abandon / Mare Liberum publishes 2021 Pushback Report / some good reads and other news
 
 
-![Housing in Nyabiheke; Photo credits: Heaven Crawley, via [UNU](https://cpr.unu.edu/publications/articles/why-the-uk-rwanda-asylum-deal-risks-harming-global-standards.html) Centre for Policy Research](assets/ef8f8b604bed/1*HVL2PVonCdxkGEI0ehxhVw.jpeg)
+![Housing in Nyabiheke; Photo credits: Heaven Crawley, via [UNU](https://cpr.unu.edu/publications/articles/why-the-uk-rwanda-asylum-deal-risks-harming-global-standards.html) Centre for Policy Research](../assets/ef8f8b604bed/1*HVL2PVonCdxkGEI0ehxhVw.jpeg)
 
 Housing in Nyabiheke; Photo credits: Heaven Crawley, via [UNU](https://cpr.unu.edu/publications/articles/why-the-uk-rwanda-asylum-deal-risks-harming-global-standards.html) Centre for Policy Research
 

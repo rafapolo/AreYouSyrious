@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 10/7/20: “If those who drown were white, there would be action!”
+title: "AYS Daily Digest 10/7/20: “If those who drown were white, there would be action!”"
 author: Are You Syrious?
 date: 2020-07-11T14:58:14.060+0100
 last_modified_at: 2020-07-11T14:58:14.060+0100

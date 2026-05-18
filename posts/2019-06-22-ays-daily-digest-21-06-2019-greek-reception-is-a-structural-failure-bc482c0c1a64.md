@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 21/06/2019: Greek Reception is a ‘Structural Failure’
+title: "AYS Daily Digest 21/06/2019: Greek Reception is a ‘Structural Failure’"
 author: Are You Syrious?
 date: 2019-06-22T14:46:25.853+0100
 last_modified_at: 2019-06-22T14:46:25.853+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,greece,france,digest,europe]
 description: Video report from Libyan Detention Centres// 43 people still stuck on board Sea-Watch 3// Austria increasing immigration detention//…
 image:
-  path: assets/bc482c0c1a64/0*ZUVUD2EsaPgREEv3
+  path: ../assets/bc482c0c1a64/0*ZUVUD2EsaPgREEv3
 ---
 
 ### AYS Daily Digest 21/06/2019: Greek Reception is a ‘Structural Failure’
 #### Video report from Libyan Detention Centres// 43 people still stuck on board Sea\-Watch 3// Austria increasing immigration detention// Evictions in France// Arrests in Brussels
 
 
-![Photo by Sea\-Watch International](assets/bc482c0c1a64/0*ZUVUD2EsaPgREEv3)
+![Photo by Sea\-Watch International](../assets/bc482c0c1a64/0*ZUVUD2EsaPgREEv3)
 
 Photo by Sea\-Watch International
 
@@ -104,7 +104,7 @@ While this is a link to the latest R [efugee Deaths List](http://www.unitedagain
 UNHCR and IOM have called for the urgent disembarkation of the 43 passengers in Lampedusa\.
 
 
-![](assets/bc482c0c1a64/1*0fwiRpe-GKKiCLi2Xh_UzQ.png)
+![](../assets/bc482c0c1a64/1*0fwiRpe-GKKiCLi2Xh_UzQ.png)
 
 
 However, in recent days, the Sea\-Watch 3 had been invited only to bring migrants to Tripoli, Libya\. The situation in Libya remains very unstable and extremely dangerous, and it cannot be considered a safe port\.

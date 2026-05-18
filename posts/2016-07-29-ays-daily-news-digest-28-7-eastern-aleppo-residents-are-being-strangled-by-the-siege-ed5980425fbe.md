@@ -7,21 +7,21 @@ categories:
 tags: [thessaloniki,protests,noborder,greece,refugees]
 description: The joint Russian-Syrian assault on the city and the shocking results have been making headlines for months. Despite this, no action has…
 image:
-  path: assets/ed5980425fbe/1*uQuxHgOHno1s70mnPFSE5A.jpeg
+  path: ../assets/ed5980425fbe/1*uQuxHgOHno1s70mnPFSE5A.jpeg
 ---
 
 ### AYS DAILY NEWS DIGEST 28/7 — Eastern Aleppo residents are being strangled by the siege
 #### The joint Russian\-Syrian assault on the city and the shocking results have been making headlines for months\. Despite this, no action has been taken\. Now, the government is offering an amnesty deal to fighters who surrender as well as the creation of 3 humanitarian corridors to allow civilians to flee the battle field\. Those on the ground are rightly skeptical — as they should be, given the regime’s history of broken promises\. As people who are against the plight of refugees, we must fight against the conditions that create refugees in the first place\.
 
 
-![Idomeni\. Photo Credit: Ignacio Marin](assets/ed5980425fbe/1*uQuxHgOHno1s70mnPFSE5A.jpeg)
+![Idomeni\. Photo Credit: Ignacio Marin](../assets/ed5980425fbe/1*uQuxHgOHno1s70mnPFSE5A.jpeg)
 
 Idomeni\. Photo Credit: Ignacio Marin
 #### Iraq
 ### Ramadi refugees are making their way to their home city\.
 
 
-![A photo of the convoy returning to Ramadi\. Photo Credit: UNHCR Iraq](assets/ed5980425fbe/1*u0yvohBHmM30CykqXt9-Nw.jpeg)
+![A photo of the convoy returning to Ramadi\. Photo Credit: UNHCR Iraq](../assets/ed5980425fbe/1*u0yvohBHmM30CykqXt9-Nw.jpeg)
 
 A photo of the convoy returning to Ramadi\. Photo Credit: UNHCR Iraq
 
@@ -73,7 +73,7 @@ As of 7:30AM, 35 have made it to Lesvos, 72 to Chios, and 1 to Kos\. The flow of
 
 
 
-![What’s left of the refugees in Piraeus, Gate E2\. The port was fully evacuated on July 27\. Photo Credit: Marios Lolos](assets/ed5980425fbe/1*SILWu__AD9Jx5co9hWC1bg.jpeg)
+![What’s left of the refugees in Piraeus, Gate E2\. The port was fully evacuated on July 27\. Photo Credit: Marios Lolos](../assets/ed5980425fbe/1*SILWu__AD9Jx5co9hWC1bg.jpeg)
 
 What’s left of the refugees in Piraeus, Gate E2\. The port was fully evacuated on July 27\. Photo Credit: Marios Lolos
 ### The death of a refugee girl in Softex camp sparks protest\.
@@ -82,7 +82,7 @@ The girl died today as a result of a seizure\. It took an ambulance 2 hours to r
 ### The eviction of squats has sparked protests throughout Greece\.
 
 
-![Protesters head toward Syntagma Square in Athens\. Photo credit : Alpkhan Photography](assets/ed5980425fbe/1*VV72mtr_Y9zky0FZ5pPekA.jpeg)
+![Protesters head toward Syntagma Square in Athens\. Photo credit : Alpkhan Photography](../assets/ed5980425fbe/1*VV72mtr_Y9zky0FZ5pPekA.jpeg)
 
 Protesters head toward Syntagma Square in Athens\. Photo credit : Alpkhan Photography
 
@@ -114,7 +114,7 @@ The following report was written by L\. Mertes:
 
 
 
-![Children at the front of the march\. Photo Credit: Alpkhan Photography](assets/ed5980425fbe/1*XKD-Po2V2_8ckSQTQ9AXxw.jpeg)
+![Children at the front of the march\. Photo Credit: Alpkhan Photography](../assets/ed5980425fbe/1*XKD-Po2V2_8ckSQTQ9AXxw.jpeg)
 
 Children at the front of the march\. Photo Credit: Alpkhan Photography
 
@@ -246,11 +246,11 @@ Children at the front of the march\. Photo Credit: Alpkhan Photography
 
 
 
-![](assets/ed5980425fbe/1*qjYklLeO1ZWeiihP-Hk2YA.jpeg)
+![](../assets/ed5980425fbe/1*qjYklLeO1ZWeiihP-Hk2YA.jpeg)
 
 
 
-![City Plaza residents organized the protest\. Bride Walks in front of marchers\. Photo credit : Alpkhan Photography and L\. Mertes\.](assets/ed5980425fbe/1*VcAH6fjtgBzjN4JXtSupsg.jpeg)
+![City Plaza residents organized the protest\. Bride Walks in front of marchers\. Photo credit : Alpkhan Photography and L\. Mertes\.](../assets/ed5980425fbe/1*VcAH6fjtgBzjN4JXtSupsg.jpeg)
 
 City Plaza residents organized the protest\. Bride Walks in front of marchers\. Photo credit : Alpkhan Photography and L\. Mertes\.
 ### Now that pre\-registration has ended, refugees will receive information about follow\-up appointment by SMS\.

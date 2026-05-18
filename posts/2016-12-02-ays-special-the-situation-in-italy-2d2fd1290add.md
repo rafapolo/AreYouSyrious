@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: The situation in Italy
+title: "AYS SPECIAL: The situation in Italy"
 author: Are You Syrious?
 date: 2016-12-02T21:17:20.219+0000
 last_modified_at: 2018-03-01T14:08:50.200+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [refugees,europe,italy,special]
 description: According to UNHCR, in 2016, the arrivals by sea have been 167,653 (update on 17th of November 2016). In comparison with the year before…
 image:
-  path: assets/2d2fd1290add/1*J4WDvskczNUzDviBIdd6cA.jpeg
+  path: ../assets/2d2fd1290add/1*J4WDvskczNUzDviBIdd6cA.jpeg
 ---
 
 ### AYS SPECIAL: The situation in Italy
 
 
-![Photo by Baobab](assets/2d2fd1290add/1*J4WDvskczNUzDviBIdd6cA.jpeg)
+![Photo by Baobab](../assets/2d2fd1290add/1*J4WDvskczNUzDviBIdd6cA.jpeg)
 
 Photo by Baobab
 
@@ -24,7 +24,7 @@ Comparing the arrivals of the previous year with 2016, it is interesting to anal
 The large majority of the people who arrive in Italy gets identified \( give their fingerprints and have a picture taken\), sometimes with the use of violence as registered from the Amnesty International\), immediately after they have been rescued in the Mediterranean Sea\. This means that the only option for them is to stay in Italy and ask for Asylum protection in this country, or, if they are eligible, take part of the Relocation Programme\. In reality Italy, for many migrants and refugees, it is only a country of transit, and the final destination of the journey are northern countries\. Refugees actually think that giving their details just once won’t make them stuck in Italy so they will do so when they arrive to firm land, in Sicily for example\. Afterwards, when they get to the next centre, somewhere else in Italy they just leave and make their way north\. This strategy seems to work for many people so far as many northern european countries accept asylum applications from people previously registered in Italy\. This means that a big part of these people who arrive in Italy make this route and cross the country with the dream of reaching another European country \(possibly in the North of EU\), but staying in illegal or “invisible” status because of the Dublin System\. A big question for the near future is, how many people will be sent back to Italy on Dublin terms?
 
 
-![Refugees on a dinghy waiting to be rescued](assets/2d2fd1290add/1*G5zlI-ZqNjdZKyWv5xnrtw.jpeg)
+![Refugees on a dinghy waiting to be rescued](../assets/2d2fd1290add/1*G5zlI-ZqNjdZKyWv5xnrtw.jpeg)
 
 Refugees on a dinghy waiting to be rescued
 
@@ -39,7 +39,7 @@ The people who decide to go to Northern countries illegally must cross all the I
 #### Milan
 
 
-![Entrance of “The Hub”](assets/2d2fd1290add/1*xi2y4FEjPzNOM-jSMjl57Q.jpeg)
+![Entrance of “The Hub”](../assets/2d2fd1290add/1*xi2y4FEjPzNOM-jSMjl57Q.jpeg)
 
 Entrance of “The Hub”
 
@@ -56,7 +56,7 @@ From Milan the people who wants to continue their journey can take three differe
 #### Roma
 
 
-![Refugees outside Tiburtina station in Rome](assets/2d2fd1290add/1*G-3-n9RFoEN7tH4ckqk9lA.jpeg)
+![Refugees outside Tiburtina station in Rome](../assets/2d2fd1290add/1*G-3-n9RFoEN7tH4ckqk9lA.jpeg)
 
 Refugees outside Tiburtina station in Rome
 
@@ -78,7 +78,7 @@ You can see a video about this story here\.
 At Bresso, a small town north of Milan where there’s a refugee camp, after the events last Thursday , migrants do not intend to stop their claims\. two days ago a rally was held by about one hundred people\. “Each Your problem is my problem”\.
 
 
-![Bresso refugee camp](assets/2d2fd1290add/1*OmZJlWkvmIj2jLYby-QoKQ.jpeg)
+![Bresso refugee camp](../assets/2d2fd1290add/1*OmZJlWkvmIj2jLYby-QoKQ.jpeg)
 
 Bresso refugee camp
 

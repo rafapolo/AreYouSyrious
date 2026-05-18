@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,libya,spain,greece,france]
 description: Shocking treatment of migrants at Canary Islands // New pressures to investigate Frontex’s involvement in illegal pushbacks // Reports…
 image:
-  path: assets/bf0117f3a5d8/1*L6JpEDF7uexjsXJI-Q5Yzw.jpeg
+  path: ../assets/bf0117f3a5d8/1*L6JpEDF7uexjsXJI-Q5Yzw.jpeg
 ---
 
 ### AYS Digest 12/02/2021 — New rescues in the Mediterranean, while Libyan coastguard intercepts almost half of attempts
@@ -15,7 +15,7 @@ image:
 ### SEA
 
 
-![courtesy: openArms](assets/bf0117f3a5d8/1*L6JpEDF7uexjsXJI-Q5Yzw.jpeg)
+![courtesy: openArms](../assets/bf0117f3a5d8/1*L6JpEDF7uexjsXJI-Q5Yzw.jpeg)
 
 courtesy: openArms
 
@@ -32,7 +32,7 @@ Between today and next Sunday the Central Mediterranean will be hit by a [strong
 ### SPAIN
 
 
-![](assets/bf0117f3a5d8/1*9yVjw2GHpOdWd8hUrfgHaw.png)
+![](../assets/bf0117f3a5d8/1*9yVjw2GHpOdWd8hUrfgHaw.png)
 
 #### New rescue missions
 
@@ -98,7 +98,7 @@ As a newly arrived migrant in France, where do you turn to for food, warm clothe
 Twice a week, [Care4Calais](https://twitter.com/Care4Calais/status/1360183415027490816?fbclid=IwAR2N4ElXbzk1xuo8Dv1mG24-LJQP3G8596UxqRCuUsX-UeFUuoKly0hQUAc) gos to distribute warm clothes, shelter and food packs in Dunkirk, 30km from Calais\. Most of those here are Kurdish — there are several families and even young children living in these awful conditions\.
 
 
-![](assets/bf0117f3a5d8/1*c-xY2i4EkmJRmhPz_tuj1Q.jpeg)
+![](../assets/bf0117f3a5d8/1*c-xY2i4EkmJRmhPz_tuj1Q.jpeg)
 
 #### Evictions in Calais
 
@@ -127,7 +127,7 @@ In [this article](http://refugeehistory.org/blog/2021/2/12/a-recent-history-of-c
 We would like to share some pictures of the different self\-organized classes on non\-formal education that [StandByMe Lesvos supports through Moria Acadamia\.](https://www.facebook.com/SBMLesvos/posts/816611468931877)
 
 
-![](assets/bf0117f3a5d8/1*AO9yHlawWqmYdbEbUK03Ug.jpeg)
+![](../assets/bf0117f3a5d8/1*AO9yHlawWqmYdbEbUK03Ug.jpeg)
 
 
 

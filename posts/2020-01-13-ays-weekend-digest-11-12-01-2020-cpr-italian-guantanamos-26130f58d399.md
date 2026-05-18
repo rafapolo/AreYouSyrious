@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 11–12/01/2020: CPR, Italian Guantanamos
+title: "AYS Weekend Digest 11–12/01/2020: CPR, Italian Guantanamos"
 author: Are You Syrious?
 date: 2020-01-13T10:00:45.418+0000
 last_modified_at: 2020-01-13T13:10:54.259+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,cpr,administrative-detention,death-at-sea]
 description: Libyan coast guard allegedly open fire on civilians, again /// Two shipwreck in the Aegean and Ionian sea kill 23 people and 17 missing…
 image:
-  path: assets/26130f58d399/1*bI1TKNlNvPTKcGStbwijoQ.jpeg
+  path: ../assets/26130f58d399/1*bI1TKNlNvPTKcGStbwijoQ.jpeg
 ---
 
 ### AYS Weekend Digest 11–12/01/20: CPR, Italian Guantanamo
@@ -17,7 +17,7 @@ image:
 ![Mediterranean Sea, 10 January 2020\.
 Refugees mainly from Morocco and Bangladesh wait on an overcrowded wooden boat, as aid workers from the Spanish Open Arms rescue ship approach them off the Libyan coast\.
 Photograph by Santi Palacios
-\#openEUborders — \#noborders](assets/26130f58d399/1*bI1TKNlNvPTKcGStbwijoQ.jpeg)
+\#openEUborders — \#noborders](../assets/26130f58d399/1*bI1TKNlNvPTKcGStbwijoQ.jpeg)
 
 Mediterranean Sea, 10 January 2020\.
 Refugees mainly from Morocco and Bangladesh wait on an overcrowded wooden boat, as aid workers from the Spanish Open Arms rescue ship approach them off the Libyan coast\.
@@ -90,7 +90,7 @@ At least one of the people arrested is also accused of sex trafficking\.
 
 
 ![\(Photo Credit: [Fabienne Dimmer](https://www.facebook.com/fabienne.dimmer?__tn__=%2Cd%2AF%2AF-R&eid=ARBtAtNmciQoNsu2CxCd68d9hLX__464HC6JFsHsUopVyEkndjkWrg6ieJSijT-P4ZoxnIjV9tf47byE&tn-str=%2AF) — “welcome to the EU…\.please
- can we just beat you up and break your hands both…\.20 years old he is…\. \.I didnt know what to tell him why Croats do that…”\)](assets/26130f58d399/1*kOe_N1jlekPsl9PEfQLpZw.jpeg)
+ can we just beat you up and break your hands both…\.20 years old he is…\. \.I didnt know what to tell him why Croats do that…”\)](../assets/26130f58d399/1*kOe_N1jlekPsl9PEfQLpZw.jpeg)
 
 \(Photo Credit: [Fabienne Dimmer](https://www.facebook.com/fabienne.dimmer?__tn__=%2Cd%2AF%2AF-R&eid=ARBtAtNmciQoNsu2CxCd68d9hLX__464HC6JFsHsUopVyEkndjkWrg6ieJSijT-P4ZoxnIjV9tf47byE&tn-str=%2AF) — “welcome to the EU…\.please
  can we just beat you up and break your hands both…\.20 years old he is…\. \.I didnt know what to tell him why Croats do that…”\)

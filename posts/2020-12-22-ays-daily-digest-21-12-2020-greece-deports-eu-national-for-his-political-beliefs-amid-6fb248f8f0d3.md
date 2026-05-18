@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,greece,protest]
 description: Ocean Viking finally released//Evidence of torture in pushback from Kalymnos revealed//Updates from Šid
 image:
-  path: assets/6fb248f8f0d3/0*KqBqo--dene13ZG4
+  path: ../assets/6fb248f8f0d3/0*KqBqo--dene13ZG4
 ---
 
 ### AYS Daily Digest 21/12/2020 — Greece Deports EU National for His Political Beliefs Amid Countrywide Crackdown
 ### Ocean Viking finally released//Evidence of torture in pushback from Kalymnos revealed//Updates from Šid
 
 
-![](assets/6fb248f8f0d3/0*P_K_yarr2n8nDFWP.jpeg)
+![](../assets/6fb248f8f0d3/0*P_K_yarr2n8nDFWP.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----ef37508c65c3--------------------------------)
@@ -22,11 +22,11 @@ image:
 [Dec 22](ays-daily-digest-21-12-2020-greece-deports-eu-national-for-his-political-beliefs-amid-countrywide-ef37508c65c3?source=post_page-----ef37508c65c3--------------------------------) · 7 min read
 
 
-![](assets/6fb248f8f0d3/0*ILnzk0_P1PlxA-3t)
+![](../assets/6fb248f8f0d3/0*ILnzk0_P1PlxA-3t)
 
 
 
-![](assets/6fb248f8f0d3/0*KqBqo--dene13ZG4)
+![](../assets/6fb248f8f0d3/0*KqBqo--dene13ZG4)
 
 ### FEATURE
 ### Greece deports EU national because of his political beliefs amid countrywide crackdown on protests
@@ -40,11 +40,11 @@ Erol’s arrest and deportation are troubling by themselves, but set a dangerous
 ### IOM Libya maritime update
 
 
-![](assets/6fb248f8f0d3/0*BXbVcv5aserY3SgX)
+![](../assets/6fb248f8f0d3/0*BXbVcv5aserY3SgX)
 
 
 
-![](assets/6fb248f8f0d3/0*l2HoTPf605Jm-Z4Q)
+![](../assets/6fb248f8f0d3/0*l2HoTPf605Jm-Z4Q)
 
 ### SEA
 ### Ocean Viking finally released
@@ -77,11 +77,11 @@ UNHCR have published their monthly fact sheet on Greece, which you can read [her
 ### Updates from No Name Kitchen in Šid
 
 
-![](assets/6fb248f8f0d3/0*zpYmvVOZ7Jn8BZKD)
+![](../assets/6fb248f8f0d3/0*zpYmvVOZ7Jn8BZKD)
 
 
 
-![](assets/6fb248f8f0d3/0*2N92CaUboDqbfntD)
+![](../assets/6fb248f8f0d3/0*2N92CaUboDqbfntD)
 
 
 

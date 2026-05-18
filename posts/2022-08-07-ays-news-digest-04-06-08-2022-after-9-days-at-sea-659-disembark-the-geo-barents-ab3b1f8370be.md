@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 04-06/08/22: After 9 days at sea, 659 people disembark the Geo Barents
+title: "AYS News Digest 04-06/08/22: After 9 days at sea, 659 people disembark the Geo Barents"
 author: Are You Syrious?
 date: 2022-08-07T18:56:43.057+0100
 last_modified_at: 2022-08-17T15:06:04.577+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,migration,search-and-rescue,greece,frontex]
 description: 659 people finally disembark Geo Barents, over 1500 lives and 21 vessels saved by SOS Mediterranee, MSF and Sea Watch in the past two weeks…
 image:
-  path: assets/ab3b1f8370be/1*P3hYSHHwWygatCrTs0Be-Q.png
+  path: ../assets/ab3b1f8370be/1*P3hYSHHwWygatCrTs0Be-Q.png
 ---
 
 ### AYS News Digest 04\-06/08/22: After 9 days at sea, 659 people disembark the Geo Barents
 #### **659 people finally disembark Geo Barents, over 1500 lives and 21 vessels saved by SOS Mediterranee, MSF and Sea Watch in the past two weeks // Deportations from Algeria // Attempted crossings from Lebanon to Italy // A year of the humanitarian crisis in figures from MEDIENDIENST // Arbitrary arrests persist in Belgium // Further EU funding for migration management projects in Cyprus, Spain, Greece, Italy and Poland // Frontex’s ‘debriefings’ — interrogations? // & more**
 
 
-![[https://twitter\.com/MSF\_Sea/status/1555092804690497536/photo/1](https://twitter.com/MSF_Sea/status/1555092804690497536/photo/1)](assets/ab3b1f8370be/1*P3hYSHHwWygatCrTs0Be-Q.png)
+![[https://twitter\.com/MSF\_Sea/status/1555092804690497536/photo/1](https://twitter.com/MSF_Sea/status/1555092804690497536/photo/1)](../assets/ab3b1f8370be/1*P3hYSHHwWygatCrTs0Be-Q.png)
 
 [https://twitter\.com/MSF\_Sea/status/1555092804690497536/photo/1](https://twitter.com/MSF_Sea/status/1555092804690497536/photo/1)
 
@@ -52,7 +52,7 @@ Read our joint press release with @[MSF_Sea](https://twitter.com/MSF_Sea) &amp; 
 Joint Press release: [SOS MEDITERRANEE, MSF and SEA\-WATCH alert on the critical risk of more deaths in the central Mediterranean this summer in the absence of European state led search and rescue operations](https://sea-watch.org/en/sos-mediterranee-msf-sea-watch/)
 
 
-![](assets/ab3b1f8370be/0*wh1OwNoKcoHVPMc1)
+![](../assets/ab3b1f8370be/0*wh1OwNoKcoHVPMc1)
 
 
 **Alarm Phone on Malta** : “Malta’s local Maritime Rescue Coordination Centre \(MRCC\) — RCC Malta — and Armed Forces of Malta are doing all to prevent rescue operations and arrivals in Malta, backed up by the government”
@@ -202,7 +202,7 @@ This avoidance of responsibility is rife amongst French bureaucrats, as illustra
 ### **International No Border Camp in Rotterdam: ‘Abolish Frontex’**
 
 
-![](assets/ab3b1f8370be/0*eoJRAq5V01ncFC7d)
+![](../assets/ab3b1f8370be/0*eoJRAq5V01ncFC7d)
 
 
 No Border Camp 2022 is taking place in Rotterdam from Monday 8 to Sunday 14 August and puts in the spotlight the EU’s border regime, Frontex\. Hundreds of international activists will gather for a week of actions, meetings, workshops, discussions and culture in the context of the struggle for a world without borders and freedom of movement for all\. Follow No Border Camp social media for the exact location\.

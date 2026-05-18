@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 11/12/2017: “Militarisation of the route through Europe makes conditions for…
+title: "AYS DAILY DIGEST 11/12/2017: “Militarisation of the route through Europe makes conditions for…"
 author: Are You Syrious?
 date: 2017-12-12T09:45:04.709+0000
 last_modified_at: 2017-12-12T09:45:04.709+0000
@@ -7,7 +7,7 @@ categories:
 tags: [europe,denmark,asylum,refugees,calais]
 description: Denmark among the EU countries with the lowest asylum approval rates // What are some of the possible reasons for this status? // Greece…
 image:
-  path: assets/467bf6be9a92/1*WY0FahyrBHEx2w1zIYedLA.jpeg
+  path: ../assets/467bf6be9a92/1*WY0FahyrBHEx2w1zIYedLA.jpeg
 ---
 
 ### AYS DAILY DIGEST 11/12/2017: “Militarisation of the route through Europe makes conditions for asylum seekers much worse\.”
@@ -15,7 +15,7 @@ image:
 _Denmark among the EU countries with the lowest asylum approval rates // What are some of the possible reasons for this status? // Greece and Turkey reached a controversial new deal between, media speculates // Letter for the mayor of Calais // Calls for donations in France and Italy_
 
 
-![Calais, December 2017\. Photo [L’Auberge des Migrants](https://www.facebook.com/AubergeMigrants/?fref=mentions)](assets/467bf6be9a92/1*WY0FahyrBHEx2w1zIYedLA.jpeg)
+![Calais, December 2017\. Photo [L’Auberge des Migrants](https://www.facebook.com/AubergeMigrants/?fref=mentions)](../assets/467bf6be9a92/1*WY0FahyrBHEx2w1zIYedLA.jpeg)
 
 Calais, December 2017\. Photo [L’Auberge des Migrants](https://www.facebook.com/AubergeMigrants/?fref=mentions)
 ### Feature
@@ -68,7 +68,7 @@ But they also mention significant cuts to social benefits for refugees by up to 
 More people arrived today by boats to Greece\.
 
 
-![](assets/467bf6be9a92/1*WDV1iA3wMh-EHdGm_mdcfA.jpeg)
+![](../assets/467bf6be9a92/1*WDV1iA3wMh-EHdGm_mdcfA.jpeg)
 
 
 Transfer to the mainland from overcrowded islands continues slowly\. According to the official figures, over 3,500 persons were transferred to the mainland between October and November, and more will be transferred soon\.
@@ -78,11 +78,11 @@ Today the German Foreign Ministry announced that it will not provide additional 
 Turkey continues intercepting people who are trying to cross\. Here are some statistics on a number of interceptions\.
 
 
-![](assets/467bf6be9a92/1*q2rE1uMkasCHQX_9BL7_8g.jpeg)
+![](../assets/467bf6be9a92/1*q2rE1uMkasCHQX_9BL7_8g.jpeg)
 
 
 
-![](assets/467bf6be9a92/1*AoMPax6djTHpukYv4LBbHg.jpeg)
+![](../assets/467bf6be9a92/1*AoMPax6djTHpukYv4LBbHg.jpeg)
 
 
 More trouble on sight\. [The media are speculating](http://www.keeptalkinggreece.com/2017/12/11/greece-turkey-germany-refugees-migrants/) that Greece has persuaded Turkey to accept returns from the mainland in order to reduce critical overcrowding in its refugee camps\.
@@ -121,7 +121,7 @@ FRANCE
 L’Auberge des Migrants group reports that the Sub\-Prefecture of Calais has announced the opening of the “great cold” premises, after the campaign when people were called to sent a message to the prefect of the Pas\-de\-Calais\.
 
 
-![](assets/467bf6be9a92/1*55vbnjNBdSwJwU-CrKioYQ.jpeg)
+![](../assets/467bf6be9a92/1*55vbnjNBdSwJwU-CrKioYQ.jpeg)
 
 
 If you have not done so, they suggest you send this:
@@ -139,7 +139,7 @@ Send, if you agree with this message, to
 [Care4Calais](http://www.care4calais.org) continues to distribute winter coats and waterproof sleeping bag covers in Calais\.
 
 
-![](assets/467bf6be9a92/1*1z5w31q-tz3fEjzxTNeJfg.jpeg)
+![](../assets/467bf6be9a92/1*1z5w31q-tz3fEjzxTNeJfg.jpeg)
 
 
 “Temperatures dropped and the snow was driving but still people queued in the freezing cold to get these essential items\. The night before we took some refugees out for dinner\. We heard stories of homes torn apart by war and childhood spent without the education that we take for granted\. They explained the urgent need for escape that was accompanied by the pain of leaving home\.”
@@ -183,7 +183,7 @@ This short\-term solution will prevent more unnecessary loss of life, particular
 Finland
 
 
-![](assets/467bf6be9a92/1*7_flW7fNA4hjgmsb5S-L_w.jpeg)
+![](../assets/467bf6be9a92/1*7_flW7fNA4hjgmsb5S-L_w.jpeg)
 
 
 GENERAL

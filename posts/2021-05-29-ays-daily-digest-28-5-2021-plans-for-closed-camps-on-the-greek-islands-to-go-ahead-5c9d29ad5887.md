@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,moria,refugees,bihac,syria]
 description: 
 image:
-  path: assets/5c9d29ad5887/1*FmmzeRtgh8yTqMhrRQI0UA.jpeg
+  path: ../assets/5c9d29ad5887/1*FmmzeRtgh8yTqMhrRQI0UA.jpeg
 ---
 
 ### AYS Daily Digest 28/5/2021 — Plans for closed camps on the Greek islands to go ahead
@@ -15,7 +15,7 @@ image:
 The situation for children on the move in Ceuta\. The \#AspenCardScandal in the UK\. New eviction in Bosnia\. Updates from the \#Briancon7 case and from the Western Med\.
 
 
-![Copenhagen, Denmark, \(Credit: [Syriske Forening i Danmark — SFD](https://www.facebook.com/love.star.syria.dk/?__tn__=-UC*F) \) \. A [New \#SyriaIsNotSafe demonstration](https://www.facebook.com/events/186572406684363/) is launched for Sat 29/5 in Copenhagen, h\.15:30 CET\.](assets/5c9d29ad5887/1*FmmzeRtgh8yTqMhrRQI0UA.jpeg)
+![Copenhagen, Denmark, \(Credit: [Syriske Forening i Danmark — SFD](https://www.facebook.com/love.star.syria.dk/?__tn__=-UC*F) \) \. A [New \#SyriaIsNotSafe demonstration](https://www.facebook.com/events/186572406684363/) is launched for Sat 29/5 in Copenhagen, h\.15:30 CET\.](../assets/5c9d29ad5887/1*FmmzeRtgh8yTqMhrRQI0UA.jpeg)
 
 Copenhagen, Denmark, \(Credit: [Syriske Forening i Danmark — SFD](https://www.facebook.com/love.star.syria.dk/?__tn__=-UC*F) \) \. A [New \#SyriaIsNotSafe demonstration](https://www.facebook.com/events/186572406684363/) is launched for Sat 29/5 in Copenhagen, h\.15:30 CET\.
 #### Tender launched for Closed and Controlled camps in Lesvos and Chios
@@ -133,7 +133,7 @@ Just like last week, many of the people deported are already on their way back t
 Authorities have reportedly burned down the makeshift camps in the area, “including all personal objects and food items\.”
 
 
-![[Photo via No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/pcb.1246475692417379/1246486035749678)](assets/5c9d29ad5887/1*4JABzTWwbjZmWijZD5Uqag.jpeg)
+![[Photo via No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/pcb.1246475692417379/1246486035749678)](../assets/5c9d29ad5887/1*4JABzTWwbjZmWijZD5Uqag.jpeg)
 
 [Photo via No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/pcb.1246475692417379/1246486035749678)
 

@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 9/12/2017: A disastrous reception system that does not guarantee medical…
+title: "AYS DAILY DIGEST 9/12/2017: A disastrous reception system that does not guarantee medical…"
 author: Are You Syrious?
 date: 2017-12-10T08:20:48.875+0000
 last_modified_at: 2017-12-10T10:28:19.653+0000
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,healthcare,donations,police-brutality,search-and-rescue]
 description: Report of MEDU on the medical assistance given to migrants in Rome / Transfers from Greek islands to mainland and Crete / Donations and…
 image:
-  path: assets/82c727a60bbd/1*hZXWeyT7jE7Lp8-zE6We2A.jpeg
+  path: ../assets/82c727a60bbd/1*hZXWeyT7jE7Lp8-zE6We2A.jpeg
 ---
 
 ### AYS DAILY DIGEST 9/12/2017: A disastrous reception system that does not guarantee medical assistance to victims of torture
 #### Report of MEDU on the medical assistance given to migrants in Rome / Transfers from Greek islands to mainland and Crete / Donations and volunteers needed/New report to be published regarding police illegal push backs and violence at the border with Serbia / Volunteers needed in Paris/Demo against deportations in the Netherlands / More rescue operations in the Mediterranean / Representation form for victims of armed conflict violence in Afghanistan to be submitted to ICC / More news from Italy, Switzerland, the UK…
 
 
-![Credit: MEDU — Medici per i diritti umani](assets/82c727a60bbd/1*hZXWeyT7jE7Lp8-zE6We2A.jpeg)
+![Credit: MEDU — Medici per i diritti umani](../assets/82c727a60bbd/1*hZXWeyT7jE7Lp8-zE6We2A.jpeg)
 
 Credit: MEDU — Medici per i diritti umani
 
@@ -56,7 +56,7 @@ On the other hand, the head of mission of Oxfam Greece, Nicola Bay, [stated](htt
 _Arrivals_
 
 
-![Credit: Erik Gerhardsson](assets/82c727a60bbd/1*qXsfTqdbKoTRU701APGKkg.jpeg)
+![Credit: Erik Gerhardsson](../assets/82c727a60bbd/1*qXsfTqdbKoTRU701APGKkg.jpeg)
 
 Credit: Erik Gerhardsson
 #### Islands
@@ -84,7 +84,7 @@ _Lesvos_
 En Red Sos Refugiados has shared a donations’ request form in order to collect funding for the Victoria Social Centre in Athens\. The centre distributes food every day to refugees\.
 
 
-![Credit: En Red SOS Refugiados](assets/82c727a60bbd/1*Gc4xkzfsf0aIgpou0fGH2w.jpeg)
+![Credit: En Red SOS Refugiados](../assets/82c727a60bbd/1*Gc4xkzfsf0aIgpou0fGH2w.jpeg)
 
 Credit: En Red SOS Refugiados
 

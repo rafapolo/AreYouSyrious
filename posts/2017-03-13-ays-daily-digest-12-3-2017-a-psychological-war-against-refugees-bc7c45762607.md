@@ -7,7 +7,7 @@ categories:
 tags: [europe,refugees,syrian-refugees,hungary,asylum-seekers]
 description: Tens of thousands of Syrian children left unvaccinated / Doctors, nurses and medical translators needed in Greece / Belgrade aid…
 image:
-  path: assets/bc7c45762607/1*gEVAMP-bHj8ySZNwKh7_dw.jpeg
+  path: ../assets/bc7c45762607/1*gEVAMP-bHj8ySZNwKh7_dw.jpeg
 ---
 
 ### AYS DAILY DIGEST 12/3/2017 — A psychological war against refugees
@@ -15,7 +15,7 @@ image:
 _Tens of thousands of Syrian children left unvaccinated / Doctors, nurses and medical translators needed in Greece / Belgrade aid distribution center being built / Upgraded wire fence on the Hungarian border — refugees announce hunger strike / Asylum seekers protest against problematic asylum procedures in Finland_
 
 
-![Photo by [ECHO Refugee Library](https://www.facebook.com/refugeelibrary/?ref=page_internal)](assets/bc7c45762607/1*gEVAMP-bHj8ySZNwKh7_dw.jpeg)
+![Photo by [ECHO Refugee Library](https://www.facebook.com/refugeelibrary/?ref=page_internal)](../assets/bc7c45762607/1*gEVAMP-bHj8ySZNwKh7_dw.jpeg)
 
 Photo by [ECHO Refugee Library](https://www.facebook.com/refugeelibrary/?ref=page_internal)
 
@@ -32,7 +32,7 @@ Just a reminder, last year Hungary hosted mere 425 asylum seekers out of 29,432 
 
 ![Aleppo, 9 March 2017
 A boy plays with a cat next to a 1948 Buick in the war\-torned al\-Shaar neighborhood in Aleppo\.
-Photograph by Joseph Eid, taken from Art Against](assets/bc7c45762607/1*UcvKZql5VyZYDp3AlNqOvA.jpeg)
+Photograph by Joseph Eid, taken from Art Against](../assets/bc7c45762607/1*UcvKZql5VyZYDp3AlNqOvA.jpeg)
 
 Aleppo, 9 March 2017
 A boy plays with a cat next to a 1948 Buick in the war\-torned al\-Shaar neighborhood in Aleppo\.
@@ -43,7 +43,7 @@ Other than receiving one or two doses in isolated campaigns, Syrian children are
 In the last year MSF launched two vaccination campaigns, most recent one being in January\. In 12 days, 6,540 children under the age of 15 were vaccinated, 93 per cent of the target, says Ferrer\.
 
 
-![_Asked what should be done, Ferrer said_ “ We believe that WHO, other UN agencies and other medical players should press for an increased population coverage for vaccinations\. Small steps are being taken, such as an immunisation programme for children under one year old in the provinces of Hama and Idlib\. But it’s not enough\. Syrian children deserve greater protection against a complicated future\.”](assets/bc7c45762607/1*644PxdUGL8dybkinMlfImQ.jpeg)
+![_Asked what should be done, Ferrer said_ “ We believe that WHO, other UN agencies and other medical players should press for an increased population coverage for vaccinations\. Small steps are being taken, such as an immunisation programme for children under one year old in the provinces of Hama and Idlib\. But it’s not enough\. Syrian children deserve greater protection against a complicated future\.”](../assets/bc7c45762607/1*644PxdUGL8dybkinMlfImQ.jpeg)
 
 _Asked what should be done, Ferrer said_ “ We believe that WHO, other UN agencies and other medical players should press for an increased population coverage for vaccinations\. Small steps are being taken, such as an immunisation programme for children under one year old in the provinces of Hama and Idlib\. But it’s not enough\. Syrian children deserve greater protection against a complicated future\.”
 #### GREECE
@@ -61,12 +61,12 @@ There is enough volunteers and workers at the moment\.
 The only thing not covered inside the Hot Spot is clothing\.
 
 
-![](assets/bc7c45762607/1*frc5kVRL4MzoVfocmjVA_Q.jpeg)
+![](../assets/bc7c45762607/1*frc5kVRL4MzoVfocmjVA_Q.jpeg)
 
 
 
 ![Kitchen = cooking over small wood fires or scavenged gas burner\. One pot per space\. 10–15 occupants per space; “Brother, can you spare some WiFi\. \.?”
-\(Piggybacking the UN’s signal to send assuring texts and pics to family back home\)— credit [Brooke Burgess](https://www.facebook.com/brooke.burgess.9/posts/10154919991376758?hc_location=ufi)](assets/bc7c45762607/1*HIiyEi5lQM2lPE6GvtXClA.jpeg)
+\(Piggybacking the UN’s signal to send assuring texts and pics to family back home\)— credit [Brooke Burgess](https://www.facebook.com/brooke.burgess.9/posts/10154919991376758?hc_location=ufi)](../assets/bc7c45762607/1*HIiyEi5lQM2lPE6GvtXClA.jpeg)
 
 Kitchen = cooking over small wood fires or scavenged gas burner\. One pot per space\. 10–15 occupants per space; “Brother, can you spare some WiFi\. \.?”
 \(Piggybacking the UN’s signal to send assuring texts and pics to family back home\)— credit [Brooke Burgess](https://www.facebook.com/brooke.burgess.9/posts/10154919991376758?hc_location=ufi)
@@ -76,15 +76,15 @@ For the decorating part they teamed up with Habibi works, a creative space set i
 Stepping into Habibi works is like finding a little bit of magic in an otherwise dark environment, write The Timber Project\.
 
 
-![](assets/bc7c45762607/1*s2dc0fNScOLRGxPkwCA9Ug.jpeg)
+![](../assets/bc7c45762607/1*s2dc0fNScOLRGxPkwCA9Ug.jpeg)
 
 
 
-![](assets/bc7c45762607/1*LB1lMWXL7FQvntTo3fcNYA.jpeg)
+![](../assets/bc7c45762607/1*LB1lMWXL7FQvntTo3fcNYA.jpeg)
 
 
 
-![Habibi\.works — Photo by The Timbre Project](assets/bc7c45762607/1*6FdRkVQs8_j0KuoTuuEB_g.jpeg)
+![Habibi\.works — Photo by The Timbre Project](../assets/bc7c45762607/1*6FdRkVQs8_j0KuoTuuEB_g.jpeg)
 
 Habibi\.works — Photo by The Timbre Project
 
@@ -94,11 +94,11 @@ If you would like to join The Timbre Project as a volunteer, [write to them](htt
 Zaatar NGO published [a new schedule](https://www.facebook.com/zaatarngo/posts/1371069359580070) for the upcoming week March 13–18\.
 
 
-![](assets/bc7c45762607/1*BE1OFJ8kV3zc_7or8DEHXA.png)
+![](../assets/bc7c45762607/1*BE1OFJ8kV3zc_7or8DEHXA.png)
 
 
 
-![](assets/bc7c45762607/1*FKEvymOVLX6SiAMGQMafwg.png)
+![](../assets/bc7c45762607/1*FKEvymOVLX6SiAMGQMafwg.png)
 
 
 There were 84 new arrivals in Greece today\. 58 on Chios and 26 on Samos\.
@@ -115,15 +115,15 @@ People who were taken from Subotica in a police raid couple of days ago, which w
 The BelgrAid Warehouse, soon to be Serbia’s biggest aid distribution centre, is being built\. From there it will be possible to distribute food and clothing to approximately 2000 refugees and Serbian homeless people\. You can support them by donating [here](https://www.youcaring.com/peopleinneedonthestreetsofserbia-753574) \.
 
 
-![](assets/bc7c45762607/1*z1OAqioooFp-vRo1G-xfuw.jpeg)
+![](../assets/bc7c45762607/1*z1OAqioooFp-vRo1G-xfuw.jpeg)
 
 
 
-![](assets/bc7c45762607/1*poq1THV__l4Tl2uBt2aKNg.jpeg)
+![](../assets/bc7c45762607/1*poq1THV__l4Tl2uBt2aKNg.jpeg)
 
 
 
-![](assets/bc7c45762607/1*FZzKOU2L4evG8JOamdQsrw.jpeg)
+![](../assets/bc7c45762607/1*FZzKOU2L4evG8JOamdQsrw.jpeg)
 
 
 While the centre is being built, many refugees are still stranded across Serbia without adequate shelter\. ChiosMonitor reported today that an 18 year old Algerian refugee has died while hiding on a train in Serbia\. He reportedly suffered severe burns\.
@@ -141,7 +141,7 @@ bad feedback that affect their lives in the future\.” They called the situatio
 Supreme Public Prosecution told MNO that there had been 44 complaints lodged against the Hungarian police between September 2015 and March 2017\., write MigSzol\. In 5 cases the investigation is still ongoing and in 2 cases they imposed fines on the police officers\. Apart from private litigators, of the 44 complaints, 5 were lodged by the UNHCR, 1 by the European Committee for the Prevention of Torture, 14 by different arms of the police, 9 by MSF, 1 by the Hungarian Army and 1 by the Szeged jail\.
 
 
-![A refugee drawing, photo by MigSzol](assets/bc7c45762607/1*bR6WyygkE4DmoLROfkTdkg.jpeg)
+![A refugee drawing, photo by MigSzol](../assets/bc7c45762607/1*bR6WyygkE4DmoLROfkTdkg.jpeg)
 
 A refugee drawing, photo by MigSzol
 
@@ -188,11 +188,11 @@ You can find a list of necessary items along all other helpful info on donating 
 
 
 
-![](assets/bc7c45762607/1*86q-29erBeci-OP98bYJjg.jpeg)
+![](../assets/bc7c45762607/1*86q-29erBeci-OP98bYJjg.jpeg)
 
 
 
-![Photos by [**Solidarité migrants Wilson**](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?ref=page_internal)](assets/bc7c45762607/1*mwEzpi1YeNKZadaiF-Jj7g.jpeg)
+![Photos by [**Solidarité migrants Wilson**](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?ref=page_internal)](../assets/bc7c45762607/1*mwEzpi1YeNKZadaiF-Jj7g.jpeg)
 
 Photos by [**Solidarité migrants Wilson**](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?ref=page_internal)
 
@@ -218,11 +218,11 @@ The protest has reached an unprecedented amount of public support from academics
 Follow the demonstrations on [Facebook](https://www.facebook.com/SeisKarkotuksille/?fref=ts) and [Twitter](https://twitter.com/stopkarkoitus) \.
 
 
-![](assets/bc7c45762607/1*8NsAb2Dw8joNetFibdJ5EQ.jpeg)
+![](../assets/bc7c45762607/1*8NsAb2Dw8joNetFibdJ5EQ.jpeg)
 
 
 
-![People leaving their messages — photos by Stop Deportations](assets/bc7c45762607/1*4c8Soi-qPONBlnBDs8JjfQ.jpeg)
+![People leaving their messages — photos by Stop Deportations](../assets/bc7c45762607/1*4c8Soi-qPONBlnBDs8JjfQ.jpeg)
 
 People leaving their messages — photos by Stop Deportations
 

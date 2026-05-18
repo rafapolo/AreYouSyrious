@@ -1,13 +1,13 @@
 ---
-title: AYS Daily Digest 26/6/2020 — Italy: From push-backs to pull-backs
+title: "AYS Daily Digest 26/6/2020 — Italy: From push-backs to pull-backs"
 author: Are You Syrious?
 date: 2020-06-27T11:43:53.583+0100
 last_modified_at: 2020-06-27T22:54:11.379+0100
 categories: Are You Syrious?
 tags: [refugees,digest,pushback,pullback,regularization]
-description: SPAIN: #RegularizacionYa campaign reach Madrid / GREECE: Man dies in Samos as a consequence of geographic restrictions…
+description: "SPAIN: #RegularizacionYa campaign reach Madrid / GREECE: Man dies in Samos as a consequence of geographic restrictions…"
 image:
-  path: assets/db422cc26601/1*aSXi0WKqvTAoSU-SHIOilg.jpeg
+  path: ../assets/db422cc26601/1*aSXi0WKqvTAoSU-SHIOilg.jpeg
 ---
 
 ### AYS Daily Digest 26/6/2020 — Italy: From push\-backs to pull\-backs
@@ -15,7 +15,7 @@ image:
 SPAIN: Regularizacion Ya reach Madrid / GREECE: Man dies in Samos as a consequence of geographic restrictions\. Antiracist demos in Athens and Thessaloniki…
 
 
-![Athens, Photo by [Εργατική Αλληλεγγύη](https://web.facebook.com/ergatiki/photos/a.3971881119548747/3971889569547902/?type=3&theater)](assets/db422cc26601/1*aSXi0WKqvTAoSU-SHIOilg.jpeg)
+![Athens, Photo by [Εργατική Αλληλεγγύη](https://web.facebook.com/ergatiki/photos/a.3971881119548747/3971889569547902/?type=3&theater)](../assets/db422cc26601/1*aSXi0WKqvTAoSU-SHIOilg.jpeg)
 
 Athens, Photo by [Εργατική Αλληλεγγύη](https://web.facebook.com/ergatiki/photos/a.3971881119548747/3971889569547902/?type=3&theater)
 #### Featured — Italian government face legal action for supporting pull\-backs by the LCG

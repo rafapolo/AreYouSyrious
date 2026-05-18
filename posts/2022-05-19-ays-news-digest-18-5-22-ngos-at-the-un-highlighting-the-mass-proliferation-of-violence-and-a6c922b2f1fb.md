@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 18/5/22: NGOs at the UN, highlighting the mass proliferation of violence and…
+title: "AYS News Digest 18/5/22: NGOs at the UN, highlighting the mass proliferation of violence and…"
 author: Are You Syrious?
 date: 2022-05-19T19:29:40.583+0100
 last_modified_at: 2022-05-19T22:26:54.263+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,un,europe,human-rights,refugees]
 description: Personal data in the hands of the Taliban / Abolishing the Italy-Libya Memorandum by the 2nd November 2022 is the goal of civil society /…
 image:
-  path: assets/a6c922b2f1fb/1*BSR3prKcNOJ98NTx7xQpFQ.jpeg
+  path: ../assets/a6c922b2f1fb/1*BSR3prKcNOJ98NTx7xQpFQ.jpeg
 ---
 
 ### AYS News Digest 18/5/22: NGOs at the UN, h **ighlighting the mass proliferation of violence and shrinking civil society space in Europe**
 #### Personal data in the hands of the Taliban / Abolishing the Italy\-Libya Memorandum by the 2nd November 2022 is the goal of civil society / Ahead of two unfair trials / Detention and repatriation in Turkey — “We know that he was held in very bad conditions for ten days” / The shameful actions of the Polish authorities in the Polish\-Belarusian borderland continue / and some really important texts you should take time to read — share and act\!
 
 
-![](assets/a6c922b2f1fb/1*BSR3prKcNOJ98NTx7xQpFQ.jpeg)
+![](../assets/a6c922b2f1fb/1*BSR3prKcNOJ98NTx7xQpFQ.jpeg)
 
 #### FEATURE
 
@@ -42,7 +42,7 @@ Our team member Joseph Cripps was able to [take the floor](https://twitter.com/B
 Other contributions came from Civil Society Organisations and migrants themselves who called for coherent rights\-based migration management, the protection of labour rights for migrant workers, and the end of deterrence\-based policies, among others, our team at the UN reports\.
 
 
-![](assets/a6c922b2f1fb/1*31V9ZlriMWvpDsxIwV2pkg.jpeg)
+![](../assets/a6c922b2f1fb/1*31V9ZlriMWvpDsxIwV2pkg.jpeg)
 
 
 Day Two saw the start of the roundtables, where States were able to discuss the progress made in their respective areas on different objectives from the GCM\. Roundtable 2 was notably focused on Objectives 4, 8, 11 and 13; access to legal identity and proof of documentation, saving lives and internationally coordinated efforts on missing migrants, managing borders in an integrated and secure manner in full compliance of human rights, and promoting the use of non\-custodial alternatives to immigration detention\.
@@ -227,7 +227,7 @@ Mohammad Jasem died in a forest in Podlasie in November 2021\. The family found 
 Please [listen](https://youtu.be/PyF4JIiqjvQ) to this outrageous story\. Let us not forget Mohammad\.
 
 
-![flowers blooming at the Muslim cemetery in Bohoniki\. Mohammad’s family is hoping that he will be transferred here\.](assets/a6c922b2f1fb/0*L1jsfWzTagnDrs8e)
+![flowers blooming at the Muslim cemetery in Bohoniki\. Mohammad’s family is hoping that he will be transferred here\.](../assets/a6c922b2f1fb/0*L1jsfWzTagnDrs8e)
 
 flowers blooming at the Muslim cemetery in Bohoniki\. Mohammad’s family is hoping that he will be transferred here\.
 ### The shameful actions of the Polish authorities in the Polish\-Belarusian borderland continue

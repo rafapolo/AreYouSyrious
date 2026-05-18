@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 5/3/18: Are we still allowed to ever pronounce “human rights”?
+title: "AYS Daily Digest 5/3/18: Are we still allowed to ever pronounce “human rights”?"
 author: Are You Syrious?
 date: 2018-03-06T10:46:22.366+0000
 last_modified_at: 2018-03-06T10:46:22.366+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,syria,human-rights,europe]
 description: An attempt of humanitarian convoy leaves Eastern Ghouta in misery as before / Amnesty calls out the Greek Government for Samos /…
 image:
-  path: assets/77f39650e6f7/1*qNlOw26bEcAlk93QfVz04w.jpeg
+  path: ../assets/77f39650e6f7/1*qNlOw26bEcAlk93QfVz04w.jpeg
 ---
 
 ### AYS Daily Digest 5/3/18: Are we still allowed to ever pronounce “human rights”?
 #### An attempt of humanitarian convoy leaves Eastern Ghouta in misery as before / Amnesty calls out the Greek Government for Samos / Translators, dentists, councilors and other volunteers needed in Greece, help needed in Bosnia and Herzegovina/ A man killed in the centre of Florence, Italy / Violent push backs by the officials in Spain / More info and news from across Europe
 
 
-![“In this photo from Abdulmonam Eassa/SAMS, a resident of East Ghouta stands in the detritus of destroyed homes\.”](assets/77f39650e6f7/1*qNlOw26bEcAlk93QfVz04w.jpeg)
+![“In this photo from Abdulmonam Eassa/SAMS, a resident of East Ghouta stands in the detritus of destroyed homes\.”](../assets/77f39650e6f7/1*qNlOw26bEcAlk93QfVz04w.jpeg)
 
 “In this photo from Abdulmonam Eassa/SAMS, a resident of East Ghouta stands in the detritus of destroyed homes\.”
 #### SYRIA
@@ -177,14 +177,14 @@ Please get in touch or share with your contacts if you can cover any of these da
 Email them at: dental@healthpointfoundation\.org
 
 
-![[**Health\-Point Foundation Dental/Medical Relief**](https://www.facebook.com/healthpointfoundation/)](assets/77f39650e6f7/1*SaQ64tafYwXhE-kY8UFyog.jpeg)
+![[**Health\-Point Foundation Dental/Medical Relief**](https://www.facebook.com/healthpointfoundation/)](../assets/77f39650e6f7/1*SaQ64tafYwXhE-kY8UFyog.jpeg)
 
 [**Health\-Point Foundation Dental/Medical Relief**](https://www.facebook.com/healthpointfoundation/)
 
 Pikpa art club will be running on Tuesdays at 4:30 for all residents, volunteers and team members\.
 
 
-![Photo: [Lesvos Solidarity — Pikpa](https://www.facebook.com/pikpalesvos/)](assets/77f39650e6f7/1*erl6P0snbjtvJM69EQQAvw.jpeg)
+![Photo: [Lesvos Solidarity — Pikpa](https://www.facebook.com/pikpalesvos/)](../assets/77f39650e6f7/1*erl6P0snbjtvJM69EQQAvw.jpeg)
 
 Photo: [Lesvos Solidarity — Pikpa](https://www.facebook.com/pikpalesvos/)
 ### Volunteering
@@ -281,22 +281,22 @@ Read more [here](https://medium.com/thedigitalwarehouse/calais-update-french-gov
 
 
 
-![](assets/77f39650e6f7/1*eL_6ZupUZGoloNKtBIFvYQ.jpeg)
+![](../assets/77f39650e6f7/1*eL_6ZupUZGoloNKtBIFvYQ.jpeg)
 
 
 
-![](assets/77f39650e6f7/1*0Vz0Rp5_Ox3ESFirfKniog.jpeg)
+![](../assets/77f39650e6f7/1*0Vz0Rp5_Ox3ESFirfKniog.jpeg)
 
 ### Paris
 
 Tonight in the Paris canal camps the numbers of people living here are swelling\. A head count done by the police today found over 900 souls living here\. — PRGS
 
 
-![](assets/77f39650e6f7/1*Re9DYdQRUkINV-v476vhpA.jpeg)
+![](../assets/77f39650e6f7/1*Re9DYdQRUkINV-v476vhpA.jpeg)
 
 
 
-![Photos: [**Paris Refugee Ground Support**](https://www.facebook.com/PRGS.team/)](assets/77f39650e6f7/1*XrVl04VKORNo9l8zFDrOSg.jpeg)
+![Photos: [**Paris Refugee Ground Support**](https://www.facebook.com/PRGS.team/)](../assets/77f39650e6f7/1*XrVl04VKORNo9l8zFDrOSg.jpeg)
 
 Photos: [**Paris Refugee Ground Support**](https://www.facebook.com/PRGS.team/)
 #### Paris VIII

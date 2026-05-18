@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 01/05/17: Police raids and expulsions more frequent
+title: "AYS Daily Digest 01/05/17: Police raids and expulsions more frequent"
 author: Are You Syrious?
 date: 2017-05-02T00:04:20.124+0100
 last_modified_at: 2017-05-02T07:45:30.707+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,greece,syria,police]
 description: Syria — MSF condemned armed conflicts invading the hospitals in Damascus / New arrivals and new police raids on Aegean islands / Moria…
 image:
-  path: assets/b107731d8df7/1*Ctf_mgN8E6rO_Qs-XQh-IQ.jpeg
+  path: ../assets/b107731d8df7/1*Ctf_mgN8E6rO_Qs-XQh-IQ.jpeg
 ---
 
 ### AYS Daily Digest 01/05/17: Police raids and expulsions more frequent
 #### Syria — MSF condemned armed conflicts invading the hospitals in Damascus / New arrivals and new police raids on Aegean islands / Moria hunger strike ends / Donations needed in Greece / News from Šid, Serbia / French police practicing violence and restrictions towards young refugees / Suspected arson attack in Italy / Worrying results of IOM’s survey
 
 
-![by: [Falko one](https://www.facebook.com/FalkoOneGraffiti/) , via: [Art Against](https://www.facebook.com/artagainstproject/?fref=nf)](assets/b107731d8df7/1*Ctf_mgN8E6rO_Qs-XQh-IQ.jpeg)
+![by: [Falko one](https://www.facebook.com/FalkoOneGraffiti/) , via: [Art Against](https://www.facebook.com/artagainstproject/?fref=nf)](../assets/b107731d8df7/1*Ctf_mgN8E6rO_Qs-XQh-IQ.jpeg)
 
 by: [Falko one](https://www.facebook.com/FalkoOneGraffiti/) , via: [Art Against](https://www.facebook.com/artagainstproject/?fref=nf)
 #### FEATURE
@@ -36,7 +36,7 @@ During the afternoon of 29 April, makeshift hospitals supported by the MSF were 
 “As an ‘in\-extremis’ measure to underscore that such attacks on healthcare will not be tolerated by MSF, nor by the medics MSF supports, MSF will suspend its medical support to the East Ghouta region until there are clear signs that the fighting parties will respect healthcare”, the organization said in an [official statement](http://www.msf.org/en/article/syria-msf-condemns-incursion-armed-men-supported-hospitals-east-ghouta) concerning the attacks on hospitals\.
 
 
-![](assets/b107731d8df7/1*li17rVdkNerDCZn8vLsM2Q.jpeg)
+![](../assets/b107731d8df7/1*li17rVdkNerDCZn8vLsM2Q.jpeg)
 
 
 The White helmets have issued a statement after the recent attack on their base in Idlib\. **Read the statement [here\.](https://twitter.com/whitehelmets_sy/status/858820087255584768)**
@@ -49,7 +49,7 @@ New evidence supports the conclusion that Syrian government forces have used ner
 60 people arrived [‏](https://twitter.com/rspaegean) on Chios this morning: 48 men, 2 women and 10 children\. Later on, 57 people were in the second boat that arrived around 9pm today: 25 men,11 women and 21 children\.
 
 
-![The first arrival to Chios today \(Photo: [Pothiti Kitromilidi](https://www.facebook.com/pothiti.kitromilidi) ‎\)](assets/b107731d8df7/1*bShPsiV_SKtuHMZdeiiMbg.jpeg)
+![The first arrival to Chios today \(Photo: [Pothiti Kitromilidi](https://www.facebook.com/pothiti.kitromilidi) ‎\)](../assets/b107731d8df7/1*bShPsiV_SKtuHMZdeiiMbg.jpeg)
 
 The first arrival to Chios today \(Photo: [Pothiti Kitromilidi](https://www.facebook.com/pothiti.kitromilidi) ‎\)
 
@@ -69,7 +69,7 @@ According to the local sources, both Vial and Souda camp are full\. In Souda, th
 Sleeping problems, stomach pains, feeling sick and serious problems like trauma, depression and stress related health issues are some of the problems that people in Moria camp are facing\. Among other things, the medical [staff](http://Stichting Bootvluchteling) volunteering there has recently delivered a baby of a 16 year old girl staying at the camp\. Here is [their story](https://www.facebook.com/stichtingbootvluchteling/posts/1765512483778791:0?hc_location=ufi) \.
 
 
-![Last Friday, after exactly one week, the 12 hunger strikers in Moria decided to end their hunger strike\. Their decision came after a meeting with the authorities, who again repeated that nothing would change\. “We stopped the strike, but we will never stop fighting for our rights”, the group said\. They are now getting their strength and health back\. \(Photo: [Lesvos Solidarity — Pikpa](https://www.facebook.com/pikpalesvos/?fref=nf) \)](assets/b107731d8df7/1*EEKWTPWMyLkCXhtURguhtA.jpeg)
+![Last Friday, after exactly one week, the 12 hunger strikers in Moria decided to end their hunger strike\. Their decision came after a meeting with the authorities, who again repeated that nothing would change\. “We stopped the strike, but we will never stop fighting for our rights”, the group said\. They are now getting their strength and health back\. \(Photo: [Lesvos Solidarity — Pikpa](https://www.facebook.com/pikpalesvos/?fref=nf) \)](../assets/b107731d8df7/1*EEKWTPWMyLkCXhtURguhtA.jpeg)
 
 Last Friday, after exactly one week, the 12 hunger strikers in Moria decided to end their hunger strike\. Their decision came after a meeting with the authorities, who again repeated that nothing would change\. “We stopped the strike, but we will never stop fighting for our rights”, the group said\. They are now getting their strength and health back\. \(Photo: [Lesvos Solidarity — Pikpa](https://www.facebook.com/pikpalesvos/?fref=nf) \)
 ### Police raids on Lesvos and Samos
@@ -153,7 +153,7 @@ The [Mobile Info Team](http://Mobile Info Team for refugees in Greece - الفر
 
 
 
-![As usual, with the help of Translators without Borders, the News That Moves team has prepared answers to the latest rumours spread aroud](assets/b107731d8df7/1*QGZwSiTlkQOqdCdHwtg_hQ.jpeg)
+![As usual, with the help of Translators without Borders, the News That Moves team has prepared answers to the latest rumours spread aroud](../assets/b107731d8df7/1*QGZwSiTlkQOqdCdHwtg_hQ.jpeg)
 
 As usual, with the help of Translators without Borders, the News That Moves team has prepared answers to the latest rumours spread aroud
 
@@ -181,7 +181,7 @@ Italian Ventimiglia has formed a well known and open solidarity network welcomin
 Baobab volunteers are in a need of blankets, sleeping bags, covers and yoga mattresses or similar materials at the temporary “camp”\. Here’s how to find them:
 
 
-![](assets/b107731d8df7/1*spSYDaBzvtPhzS-famMdWQ.jpeg)
+![](../assets/b107731d8df7/1*spSYDaBzvtPhzS-famMdWQ.jpeg)
 
 #### FRANCE
 ### Exclusion and violence towards young refugees in France

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily News Digest 7/7: Hungary’s border war on refugees
+title: "AYS Daily News Digest 7/7: Hungary’s border war on refugees"
 author: Are You Syrious?
 date: 2016-07-08T00:29:45.044+0100
 last_modified_at: 2016-07-08T00:30:50.586+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: More people forced to seek refuge as fighting in South Sudan escalates. Volunteers at many places surprised refugees with Ramadan…
 image:
-  path: assets/d9116fcbe163/1*Z0qrPOf0LRdeHfcAAPKUiQ.jpeg
+  path: ../assets/d9116fcbe163/1*Z0qrPOf0LRdeHfcAAPKUiQ.jpeg
 ---
 
 ### AYS Daily News Digest 7/7: Hungary’s border war on refugees
@@ -19,7 +19,7 @@ image:
 
 
 
-![Hungarian right wing zealots patrolling the border with Serbia, catching and threatening refugees\. Credits: [**Toroczkai László**](https://www.facebook.com/laszlo.toroczkai/)](assets/d9116fcbe163/1*Z0qrPOf0LRdeHfcAAPKUiQ.jpeg)
+![Hungarian right wing zealots patrolling the border with Serbia, catching and threatening refugees\. Credits: [**Toroczkai László**](https://www.facebook.com/laszlo.toroczkai/)](../assets/d9116fcbe163/1*Z0qrPOf0LRdeHfcAAPKUiQ.jpeg)
 
 Hungarian right wing zealots patrolling the border with Serbia, catching and threatening refugees\. Credits: [**Toroczkai László**](https://www.facebook.com/laszlo.toroczkai/)
 #### South Sudan
@@ -125,27 +125,27 @@ Hungarian right wing zealots patrolling the border with Serbia, catching and thr
 ### Food and hygiene supplies were distributed to refugees who lives in Salihli and Gölmarmara today
 
 
-![Refugee children having fun learning about teeth hygiene\. Credits: [**İmece İnisiyatifi Çeşme**](https://www.facebook.com/imeceinisiyatifi/)](assets/d9116fcbe163/1*ZIqx2LNXh7xA8GcRCM4ELQ.jpeg)
+![Refugee children having fun learning about teeth hygiene\. Credits: [**İmece İnisiyatifi Çeşme**](https://www.facebook.com/imeceinisiyatifi/)](../assets/d9116fcbe163/1*ZIqx2LNXh7xA8GcRCM4ELQ.jpeg)
 
 Refugee children having fun learning about teeth hygiene\. Credits: [**İmece İnisiyatifi Çeşme**](https://www.facebook.com/imeceinisiyatifi/)
 
 
-![Credits: [**İmece İnisiyatifi Çeşme**](https://www.facebook.com/imeceinisiyatifi/)](assets/d9116fcbe163/1*UinypGdcdXaAwUVwDuCZWA.jpeg)
+![Credits: [**İmece İnisiyatifi Çeşme**](https://www.facebook.com/imeceinisiyatifi/)](../assets/d9116fcbe163/1*UinypGdcdXaAwUVwDuCZWA.jpeg)
 
 Credits: [**İmece İnisiyatifi Çeşme**](https://www.facebook.com/imeceinisiyatifi/)
 
 
-![Credits: [**İmece İnisiyatifi Çeşme**](https://www.facebook.com/imeceinisiyatifi/)](assets/d9116fcbe163/1*TQPB7Oi0Mi3GD7ZuROfPJQ.jpeg)
+![Credits: [**İmece İnisiyatifi Çeşme**](https://www.facebook.com/imeceinisiyatifi/)](../assets/d9116fcbe163/1*TQPB7Oi0Mi3GD7ZuROfPJQ.jpeg)
 
 Credits: [**İmece İnisiyatifi Çeşme**](https://www.facebook.com/imeceinisiyatifi/)
 
 
-![Credits: [**İmece İnisiyatifi Çeşme**](https://www.facebook.com/imeceinisiyatifi/)](assets/d9116fcbe163/1*yo2bWmH6OVgeIt3FdPqpzg.jpeg)
+![Credits: [**İmece İnisiyatifi Çeşme**](https://www.facebook.com/imeceinisiyatifi/)](../assets/d9116fcbe163/1*yo2bWmH6OVgeIt3FdPqpzg.jpeg)
 
 Credits: [**İmece İnisiyatifi Çeşme**](https://www.facebook.com/imeceinisiyatifi/)
 
 
-![Credits: [**İmece İnisiyatifi Çeşme**](https://www.facebook.com/imeceinisiyatifi/)](assets/d9116fcbe163/1*8eDTTqkJWgzrqkPLChC0Ew.jpeg)
+![Credits: [**İmece İnisiyatifi Çeşme**](https://www.facebook.com/imeceinisiyatifi/)](../assets/d9116fcbe163/1*8eDTTqkJWgzrqkPLChC0Ew.jpeg)
 
 Credits: [**İmece İnisiyatifi Çeşme**](https://www.facebook.com/imeceinisiyatifi/)
 #### Greece
@@ -256,7 +256,7 @@ Credits: [**İmece İnisiyatifi Çeşme**](https://www.facebook.com/imeceinisiya
 ### Ramadan celebrations organized in Karamanlis, Sindos and Thessaloniki
 
 
-![Credits: [Michael Räber](https://twitter.com/iwatnew)](assets/d9116fcbe163/1*4eiCUb_TuommkggFfxc4OQ.jpeg)
+![Credits: [Michael Räber](https://twitter.com/iwatnew)](../assets/d9116fcbe163/1*4eiCUb_TuommkggFfxc4OQ.jpeg)
 
 Credits: [Michael Räber](https://twitter.com/iwatnew)
 ### Amazing Rampack project ensured refugees celebrate Ramadan
@@ -299,16 +299,16 @@ Credits: [Michael Räber](https://twitter.com/iwatnew)
 
 
 
-![](assets/d9116fcbe163/1*PUYmnu-sxl5N7ntQWhzlOQ.jpeg)
+![](../assets/d9116fcbe163/1*PUYmnu-sxl5N7ntQWhzlOQ.jpeg)
 
 
 
-![Watermelons and rampacks for refugees\. Credits: [**Hot Food Idomeni**](https://www.facebook.com/Hotfoodidomeni/)](assets/d9116fcbe163/1*vFyWxOWWQ0IuKY24xc5n1g.jpeg)
+![Watermelons and rampacks for refugees\. Credits: [**Hot Food Idomeni**](https://www.facebook.com/Hotfoodidomeni/)](../assets/d9116fcbe163/1*vFyWxOWWQ0IuKY24xc5n1g.jpeg)
 
 Watermelons and rampacks for refugees\. Credits: [**Hot Food Idomeni**](https://www.facebook.com/Hotfoodidomeni/)
 
 
-![Ramadan celebration preparations taking place\. Credits: [**Hot Food Idomeni**](https://www.facebook.com/Hotfoodidomeni/)](assets/d9116fcbe163/1*UIuDJYTAB_e9PdMzCXNrTw.jpeg)
+![Ramadan celebration preparations taking place\. Credits: [**Hot Food Idomeni**](https://www.facebook.com/Hotfoodidomeni/)](../assets/d9116fcbe163/1*UIuDJYTAB_e9PdMzCXNrTw.jpeg)
 
 Ramadan celebration preparations taking place\. Credits: [**Hot Food Idomeni**](https://www.facebook.com/Hotfoodidomeni/)
 #### Macedonia
@@ -355,17 +355,17 @@ Ramadan celebration preparations taking place\. Credits: [**Hot Food Idomeni**](
 
 
 
-![Zar Mohamman from Afghanistan\. Upon an attempt of crossing to Hungary, the police let the dogs on him and returned him to Serbia\. Credits: [**JRS SouthEast Europe**](https://www.facebook.com/JRSsee/)](assets/d9116fcbe163/1*YMw5XrrkFqjvUan8EDIygg.jpeg)
+![Zar Mohamman from Afghanistan\. Upon an attempt of crossing to Hungary, the police let the dogs on him and returned him to Serbia\. Credits: [**JRS SouthEast Europe**](https://www.facebook.com/JRSsee/)](../assets/d9116fcbe163/1*YMw5XrrkFqjvUan8EDIygg.jpeg)
 
 Zar Mohamman from Afghanistan\. Upon an attempt of crossing to Hungary, the police let the dogs on him and returned him to Serbia\. Credits: [**JRS SouthEast Europe**](https://www.facebook.com/JRSsee/)
 
 
-![Zahad from Pakistan: Zahad tried crossing the Hungarian border with his wife and three children\. The Hungarian police let the dogs on the whole family and all of them, including the children, suffered dog bites\. His wife and children are now in Krnjača camp, while he is waiting in Belgrade to hear any information on borders opening\. Credits: [**JRS SouthEast Europe**](https://www.facebook.com/JRSsee/)](assets/d9116fcbe163/1*DZ1UGb9lbBvTa-zNFylM0A.jpeg)
+![Zahad from Pakistan: Zahad tried crossing the Hungarian border with his wife and three children\. The Hungarian police let the dogs on the whole family and all of them, including the children, suffered dog bites\. His wife and children are now in Krnjača camp, while he is waiting in Belgrade to hear any information on borders opening\. Credits: [**JRS SouthEast Europe**](https://www.facebook.com/JRSsee/)](../assets/d9116fcbe163/1*DZ1UGb9lbBvTa-zNFylM0A.jpeg)
 
 Zahad from Pakistan: Zahad tried crossing the Hungarian border with his wife and three children\. The Hungarian police let the dogs on the whole family and all of them, including the children, suffered dog bites\. His wife and children are now in Krnjača camp, while he is waiting in Belgrade to hear any information on borders opening\. Credits: [**JRS SouthEast Europe**](https://www.facebook.com/JRSsee/)
 
 
-![Abdol from Afghanistan: He is showing his broken arm, which suffered beatings from multiple police officers who were hitting him with their hands, feet and batons\. Credits: [**JRS SouthEast Europe**](https://www.facebook.com/JRSsee/)](assets/d9116fcbe163/1*bdEymO99b6Bgpl4zAHWZbQ.jpeg)
+![Abdol from Afghanistan: He is showing his broken arm, which suffered beatings from multiple police officers who were hitting him with their hands, feet and batons\. Credits: [**JRS SouthEast Europe**](https://www.facebook.com/JRSsee/)](../assets/d9116fcbe163/1*bdEymO99b6Bgpl4zAHWZbQ.jpeg)
 
 Abdol from Afghanistan: He is showing his broken arm, which suffered beatings from multiple police officers who were hitting him with their hands, feet and batons\. Credits: [**JRS SouthEast Europe**](https://www.facebook.com/JRSsee/)
 ### Asylum assistance available in Serbia
@@ -491,42 +491,42 @@ Abdol from Afghanistan: He is showing his broken arm, which suffered beatings fr
 
 
 
-![Right wing taking law in their hands, catching and threatening refugees, under leadership of [**Toroczkai László**](https://www.facebook.com/laszlo.toroczkai/) **\(credits\)**](assets/d9116fcbe163/1*Z0qrPOf0LRdeHfcAAPKUiQ.jpeg)
+![Right wing taking law in their hands, catching and threatening refugees, under leadership of [**Toroczkai László**](https://www.facebook.com/laszlo.toroczkai/) **\(credits\)**](../assets/d9116fcbe163/1*Z0qrPOf0LRdeHfcAAPKUiQ.jpeg)
 
 Right wing taking law in their hands, catching and threatening refugees, under leadership of [**Toroczkai László**](https://www.facebook.com/laszlo.toroczkai/) **\(credits\)**
 
 
-![Credits: [**Toroczkai László**](https://www.facebook.com/laszlo.toroczkai/)](assets/d9116fcbe163/1*59Vz7RK-INCm2fhje4Nr-Q.jpeg)
+![Credits: [**Toroczkai László**](https://www.facebook.com/laszlo.toroczkai/)](../assets/d9116fcbe163/1*59Vz7RK-INCm2fhje4Nr-Q.jpeg)
 
 Credits: [**Toroczkai László**](https://www.facebook.com/laszlo.toroczkai/)
 
 
-![Credits: [**Toroczkai László**](https://www.facebook.com/laszlo.toroczkai/)](assets/d9116fcbe163/1*VO9-Q7dwFJbH6NnBgGt5WA.jpeg)
+![Credits: [**Toroczkai László**](https://www.facebook.com/laszlo.toroczkai/)](../assets/d9116fcbe163/1*VO9-Q7dwFJbH6NnBgGt5WA.jpeg)
 
 Credits: [**Toroczkai László**](https://www.facebook.com/laszlo.toroczkai/)
 
 
-![Credits: [**Toroczkai László**](https://www.facebook.com/laszlo.toroczkai/)](assets/d9116fcbe163/1*xD0k5fTozY8HrqATPZG-0w.jpeg)
+![Credits: [**Toroczkai László**](https://www.facebook.com/laszlo.toroczkai/)](../assets/d9116fcbe163/1*xD0k5fTozY8HrqATPZG-0w.jpeg)
 
 Credits: [**Toroczkai László**](https://www.facebook.com/laszlo.toroczkai/)
 
 
-![Credits: [**Toroczkai László**](https://www.facebook.com/laszlo.toroczkai/)](assets/d9116fcbe163/1*b83XtH2v5J5MHA976yTM1Q.jpeg)
+![Credits: [**Toroczkai László**](https://www.facebook.com/laszlo.toroczkai/)](../assets/d9116fcbe163/1*b83XtH2v5J5MHA976yTM1Q.jpeg)
 
 Credits: [**Toroczkai László**](https://www.facebook.com/laszlo.toroczkai/)
 
 
-![Credits: [**Toroczkai László**](https://www.facebook.com/laszlo.toroczkai/)](assets/d9116fcbe163/1*vVEQFY67Rykm_2LyLr-AMg.jpeg)
+![Credits: [**Toroczkai László**](https://www.facebook.com/laszlo.toroczkai/)](../assets/d9116fcbe163/1*vVEQFY67Rykm_2LyLr-AMg.jpeg)
 
 Credits: [**Toroczkai László**](https://www.facebook.com/laszlo.toroczkai/)
 
 
-![Credits: [**Toroczkai László**](https://www.facebook.com/laszlo.toroczkai/)](assets/d9116fcbe163/1*mEEC3CgjYRUZx6WqCtSlxw.jpeg)
+![Credits: [**Toroczkai László**](https://www.facebook.com/laszlo.toroczkai/)](../assets/d9116fcbe163/1*mEEC3CgjYRUZx6WqCtSlxw.jpeg)
 
 Credits: [**Toroczkai László**](https://www.facebook.com/laszlo.toroczkai/)
 
 
-![Credits: [**Toroczkai László**](https://www.facebook.com/laszlo.toroczkai/)](assets/d9116fcbe163/1*dMIbHhx4oCmvrQeZ68mjlg.jpeg)
+![Credits: [**Toroczkai László**](https://www.facebook.com/laszlo.toroczkai/)](../assets/d9116fcbe163/1*dMIbHhx4oCmvrQeZ68mjlg.jpeg)
 
 Credits: [**Toroczkai László**](https://www.facebook.com/laszlo.toroczkai/)
 #### France
@@ -570,12 +570,12 @@ Credits: [**Toroczkai László**](https://www.facebook.com/laszlo.toroczkai/)
 
 
 
-![Refugees jam\-packed together on the streets of Rome\. Credits: [**Human intercultures**](https://www.facebook.com/Human-intercultures-1648187688731665/)](assets/d9116fcbe163/1*v7DZLXYTuszCSgaZoovhMw.jpeg)
+![Refugees jam\-packed together on the streets of Rome\. Credits: [**Human intercultures**](https://www.facebook.com/Human-intercultures-1648187688731665/)](../assets/d9116fcbe163/1*v7DZLXYTuszCSgaZoovhMw.jpeg)
 
 Refugees jam\-packed together on the streets of Rome\. Credits: [**Human intercultures**](https://www.facebook.com/Human-intercultures-1648187688731665/)
 
 
-![Refugees sleeping rough, some still under blankets they received upon disembarking from the boat\. Credits: [**Human intercultures**](https://www.facebook.com/Human-intercultures-1648187688731665/)](assets/d9116fcbe163/1*d0NZPHsh2FXmITztqtTzJA.jpeg)
+![Refugees sleeping rough, some still under blankets they received upon disembarking from the boat\. Credits: [**Human intercultures**](https://www.facebook.com/Human-intercultures-1648187688731665/)](../assets/d9116fcbe163/1*d0NZPHsh2FXmITztqtTzJA.jpeg)
 
 Refugees sleeping rough, some still under blankets they received upon disembarking from the boat\. Credits: [**Human intercultures**](https://www.facebook.com/Human-intercultures-1648187688731665/)
 ### Volunteer in Rome

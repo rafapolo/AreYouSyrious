@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe]
 description: Volunteers report on the sudden transfers of refugees from Chios to Kos — refugees were confused and apprehensive after being forced to…
 image:
-  path: assets/c1bd9a98af23/1*9srz8hSSpovxszNy1TmMyw.jpeg
+  path: ../assets/c1bd9a98af23/1*9srz8hSSpovxszNy1TmMyw.jpeg
 ---
 
 ### AYS DAILY NEWS DIGEST 14\.5\.2016\.
 #### Volunteers report on the sudden transfers of refugees from Chios to Kos — refugees were confused and apprehensive after being forced to transfer to the new hot spot at Kos island that opened today\. Hotspot in Leros currently hosts to approximately 430 people including many children\. Volunteers at Eiliniko warehouse need help in sorting the main distribution center\. Help Refugees group reports on the worrying situation in the Shatila camp in Beirut where there are 75,000 displaced people, and approximately 40,000 of them are children\. Since May 1st 2016, 200 registered refugees per week are passing through Preshevo center in Serbia\. Disembarkation of the 1,000 people rescued on May 12th is taking place today at four different locations in southern Italy\. Using dubious logic, Vice\-president of the Italian region Lombardia says that the refugees should be relocated to those regions that are governed by the centre\-left parties, rather than to those governed by center right\. Open The Borders March took place in Barcelona today\.
 
 
-![Photo: Aid Delivery Mission — Northern Greece](assets/c1bd9a98af23/1*9srz8hSSpovxszNy1TmMyw.jpeg)
+![Photo: Aid Delivery Mission — Northern Greece](../assets/c1bd9a98af23/1*9srz8hSSpovxszNy1TmMyw.jpeg)
 
 Photo: Aid Delivery Mission — Northern Greece
 #### LEBANON
@@ -56,7 +56,7 @@ Photo: Aid Delivery Mission — Northern Greece
 
 
 
-![Photo: Aid Delivery Mission — Northern Greece](assets/c1bd9a98af23/1*EoL0AIrhs4rr08bfa5TJ9A.jpeg)
+![Photo: Aid Delivery Mission — Northern Greece](../assets/c1bd9a98af23/1*EoL0AIrhs4rr08bfa5TJ9A.jpeg)
 
 Photo: Aid Delivery Mission — Northern Greece
 ### Refugees forcibly transferred from Chios to new detention center on Kos\.
@@ -101,7 +101,7 @@ Photo: Aid Delivery Mission — Northern Greece
 
 
 
-![Photo: Art Against — Greece](assets/c1bd9a98af23/1*Kr-yKgdKNj63q45xu5E4SQ.jpeg)
+![Photo: Art Against — Greece](../assets/c1bd9a98af23/1*Kr-yKgdKNj63q45xu5E4SQ.jpeg)
 
 Photo: Art Against — Greece
 #### SERBIA
@@ -150,7 +150,7 @@ Photo: Art Against — Greece
 
 
 
-![Photo: Rete Solidale Pordenone — protest in Pordenone, Italy](assets/c1bd9a98af23/1*Inzu1G9VsSokq_C51VWxRA.jpeg)
+![Photo: Rete Solidale Pordenone — protest in Pordenone, Italy](../assets/c1bd9a98af23/1*Inzu1G9VsSokq_C51VWxRA.jpeg)
 
 Photo: Rete Solidale Pordenone — protest in Pordenone, Italy
 
@@ -167,7 +167,7 @@ _“Nobody should sleep in the street\! Everybody deserves a life with dignity\!
 ### “Obrim Les Fronteres” March in Barcelona
 
 
-![Photo: Refugees Aid Barcelona — March in Barcelona and solidarity with the human beings at the other side of the Fence](assets/c1bd9a98af23/1*ChA5q7_7smihULFdUY9J6g.jpeg)
+![Photo: Refugees Aid Barcelona — March in Barcelona and solidarity with the human beings at the other side of the Fence](../assets/c1bd9a98af23/1*ChA5q7_7smihULFdUY9J6g.jpeg)
 
 Photo: Refugees Aid Barcelona — March in Barcelona and solidarity with the human beings at the other side of the Fence
 

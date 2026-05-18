@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,frontex,abolish-frontex]
 description: Reports of Abuse in Center for Vulnerable People in Tripoli//Turkey Continues Targeting Civilians in Iraqi Kurdistan//Greek Government…
 image:
-  path: assets/aaef5c7fb998/0*T_IQy72UK0qODneG.jpg
+  path: ../assets/aaef5c7fb998/0*T_IQy72UK0qODneG.jpg
 ---
 
 ### AYS Daily Digest 09/06/2021 — Campaign Mounts to Abolish Frontex
 #### Reports of abuse in center for vulnerable people in Tripoli//Turkey continues targeting civilians in Iraqi Kurdistan//Greek government defends sound cannons//
 
 
-![Activists papering the walls of Frontex’s Canary Islands seat\. Photo credit: EFE/via [El Dia](https://www.eldia.es/sociedad/2021/06/09/empapelan-sede-frontex-inmigracion-52784899.html?fbclid=IwAR3EeFjK9-61tprV4QwDHQ8fWbWyjQSTTIghu4sk6vmEEGAGovM_25tl3Vw)](assets/aaef5c7fb998/0*T_IQy72UK0qODneG.jpg)
+![Activists papering the walls of Frontex’s Canary Islands seat\. Photo credit: EFE/via [El Dia](https://www.eldia.es/sociedad/2021/06/09/empapelan-sede-frontex-inmigracion-52784899.html?fbclid=IwAR3EeFjK9-61tprV4QwDHQ8fWbWyjQSTTIghu4sk6vmEEGAGovM_25tl3Vw)](../assets/aaef5c7fb998/0*T_IQy72UK0qODneG.jpg)
 
 Activists papering the walls of Frontex’s Canary Islands seat\. Photo credit: EFE/via [El Dia](https://www.eldia.es/sociedad/2021/06/09/empapelan-sede-frontex-inmigracion-52784899.html?fbclid=IwAR3EeFjK9-61tprV4QwDHQ8fWbWyjQSTTIghu4sk6vmEEGAGovM_25tl3Vw)
 #### FEATURE

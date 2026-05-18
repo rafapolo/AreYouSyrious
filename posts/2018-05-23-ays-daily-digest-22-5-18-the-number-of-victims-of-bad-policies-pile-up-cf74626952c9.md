@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 22/5/18: The number of victims of bad policies pile up
+title: "AYS Daily Digest 22/5/18: The number of victims of bad policies pile up"
 author: Are You Syrious?
 date: 2018-05-23T11:38:15.641+0100
 last_modified_at: 2018-07-30T14:35:23.674+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,afghanistan,human-rights]
 description: High number of suicides among the young Afghans, who are still deported back to the “safe” country of ongoing conflict and growing number…
 image:
-  path: assets/cf74626952c9/1*WKYbzfnpFWkYrp5p-SupzQ.jpeg
+  path: ../assets/cf74626952c9/1*WKYbzfnpFWkYrp5p-SupzQ.jpeg
 ---
 
 ### AYS Daily Digest 22/5/18: The number of victims of bad policies pile up
 #### High number of suicides among the young Afghans, who are still deported back to the “safe” country of ongoing conflict and growing number of displaced people / Surge in arrivals to Greece / Nigerian children kidnapped in Libya among the “good stats” of fewer arrivals observed by the EU / Sarajevo’s refugees left to be fed by the citizens of one of the poorest nations on the continent / more news
 
 
-![CHIOS: The woman who was in one of the boats that landed on the island on May 17 has died at the hospital\. “She arrived in this rubber boat\. She had respiratory problems and at the island’s health centre they had decided to move her urgently to Samos\. Finally, we have been notified of his death today\.” — [Salvamento Marítimo Humanitario](https://www.facebook.com/smhumanitario/)](assets/cf74626952c9/1*WKYbzfnpFWkYrp5p-SupzQ.jpeg)
+![CHIOS: The woman who was in one of the boats that landed on the island on May 17 has died at the hospital\. “She arrived in this rubber boat\. She had respiratory problems and at the island’s health centre they had decided to move her urgently to Samos\. Finally, we have been notified of his death today\.” — [Salvamento Marítimo Humanitario](https://www.facebook.com/smhumanitario/)](../assets/cf74626952c9/1*WKYbzfnpFWkYrp5p-SupzQ.jpeg)
 
 CHIOS: The woman who was in one of the boats that landed on the island on May 17 has died at the hospital\. “She arrived in this rubber boat\. She had respiratory problems and at the island’s health centre they had decided to move her urgently to Samos\. Finally, we have been notified of his death today\.” — [Salvamento Marítimo Humanitario](https://www.facebook.com/smhumanitario/)
 ### Feature
@@ -71,7 +71,7 @@ There was a police raid in the Vial camp on Tuesday morning, ostensibly to count
 The number of people there is well above official capacity of the facility, so it might have possibly been a way to force the hand of authorities to send more people to the mainland & deport the rest, as the the manager of the identification service, Andreas Iliopoulos, also pledged that the number would return to 1274 \.
 
 
-![](assets/cf74626952c9/1*MQh_ELxNaSrWL7lFwW9Eiw.jpeg)
+![](../assets/cf74626952c9/1*MQh_ELxNaSrWL7lFwW9Eiw.jpeg)
 
 
 The trial for the [**Petrou Ralli 8**](ays-special-tragic-story-of-8-algerian-men-from-petrou-ralli-719eea82340) continues on Wednesday\. 
@@ -83,11 +83,11 @@ The Greek Asylum Service calls for their clients to schedule appointments by ema
 “These appointments concern administrative actions and not the registration of asylum claims or the holding of asylum interviews, which are still served by the already existing procedure”, they say\.
 
 
-![](assets/cf74626952c9/1*LQaruscvtCjcNgza4tTgrg.jpeg)
+![](../assets/cf74626952c9/1*LQaruscvtCjcNgza4tTgrg.jpeg)
 
 
 
-![](assets/cf74626952c9/1*pnGofJymuf1a5i1MsF8AQA.jpeg)
+![](../assets/cf74626952c9/1*pnGofJymuf1a5i1MsF8AQA.jpeg)
 
 #### BOSNIA AND HERZEGOVINA
 ### Sarajevo — help needed
@@ -138,7 +138,7 @@ In Brussels people are requested to hang 2 year old’s clothes at their window 
 
 
 ![[Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?hc_ref=ARTBoUba7qHQOPBsZQ9uCkAMXZ9LuEo4Hzr7FvLFPXAXt2WqIpL_p_zUhR5vesoJvx8&fref=nf) in Grande Synthe working alongside the [Refugee Community Kitchen](https://www.facebook.com/refugeeCkitchen/?fref=mentions) \.
-“Although it is a warm and sunny afternoon, the mood on\-site amongst the Kurdish community is still heavily subdued by the events of last week\.” \(Photo: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?hc_ref=ARTBoUba7qHQOPBsZQ9uCkAMXZ9LuEo4Hzr7FvLFPXAXt2WqIpL_p_zUhR5vesoJvx8&fref=nf) \)](assets/cf74626952c9/1*EESb7lE2d42d--AVT_Cy4w.jpeg)
+“Although it is a warm and sunny afternoon, the mood on\-site amongst the Kurdish community is still heavily subdued by the events of last week\.” \(Photo: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?hc_ref=ARTBoUba7qHQOPBsZQ9uCkAMXZ9LuEo4Hzr7FvLFPXAXt2WqIpL_p_zUhR5vesoJvx8&fref=nf) \)](../assets/cf74626952c9/1*EESb7lE2d42d--AVT_Cy4w.jpeg)
 
 [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?hc_ref=ARTBoUba7qHQOPBsZQ9uCkAMXZ9LuEo4Hzr7FvLFPXAXt2WqIpL_p_zUhR5vesoJvx8&fref=nf) in Grande Synthe working alongside the [Refugee Community Kitchen](https://www.facebook.com/refugeeCkitchen/?fref=mentions) \.
 “Although it is a warm and sunny afternoon, the mood on\-site amongst the Kurdish community is still heavily subdued by the events of last week\.” \(Photo: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?hc_ref=ARTBoUba7qHQOPBsZQ9uCkAMXZ9LuEo4Hzr7FvLFPXAXt2WqIpL_p_zUhR5vesoJvx8&fref=nf) \)
@@ -154,7 +154,7 @@ And from 14:00 to 16:00 in jaures\.
 They guarantee all photos will be used exclusively and only for those purposes, and in any of the social networking networks or someone else will not be given except to the person photographed\.
 
 
-![](assets/cf74626952c9/1*o_H9nGWgeUorRkFGHpATpw.jpeg)
+![](../assets/cf74626952c9/1*o_H9nGWgeUorRkFGHpATpw.jpeg)
 
 
 
@@ -190,7 +190,7 @@ Tigrinya:
 ነቲ እትሓትዎ ዑቅባ ዝከውን ስእሊ ብነጻ ከነዳልወልኩም ንክእል።እዚ ድማ ኣብ ሰሙን ሓንቲ መዓልቲ ናይ ስእሊ ምውሳድ ኣዳሊና ኣለና፡ ወትሩ ቀዳም ካብ ሰዓት 10፡00 ቅ\.ቀ ክሳብ ሰዓት12፡00ቅ\.ቀ ኣብ ported lavillette ከምኡ’ውን ካብ ሰዓት 14፡00ድ\.ቀ ክሳብ 16፡00ድ\.ቀ ኣብ jaures\.
 እንድሕሪ ስእሊ ክትሰኣሉ ደሊኩም ኣብ Metro station ported lavillette\(map 1\) ወይ ድማ ኣብ jaures\(map 2\) በዚ ዝተጠቅሰ ሰዓታት ክትረክቡና ትክእሉ ኢኩም።
 ኩሉ ስእልታት ድማ ንሰነዳትኩም ጥራይ እዩ ዘገልግል ከምኡ’ውን ኣብ ዝኮነ መራከቢ ቡዙሃን\(social media\) ኣይዝርጋሕን እዩ፡ ብዘካ ንዋኑኡ ንካልእ ሰብ ውን ኣይወሃብን እዩ። 
-ምሉእ ብምሉእ ዉሑስ ዝኮነ ኣገልግሎት ክንህበኩም ሙካና ከነረጋግጽልኩም ንፈቱ፡ ክትኣሙኑና ንላቦ።](assets/cf74626952c9/1*uk2dXY1YOxbGeqypHHnW5A.jpeg)
+ምሉእ ብምሉእ ዉሑስ ዝኮነ ኣገልግሎት ክንህበኩም ሙካና ከነረጋግጽልኩም ንፈቱ፡ ክትኣሙኑና ንላቦ።](../assets/cf74626952c9/1*uk2dXY1YOxbGeqypHHnW5A.jpeg)
 
 Pashto:
 په فرانسه کی هغه ټولو مهاجرو او پناه غوۺتونکو دپام وړ\!

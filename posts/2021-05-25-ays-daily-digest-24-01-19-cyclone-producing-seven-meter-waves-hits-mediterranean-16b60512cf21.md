@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 24/01/19: Cyclone producing seven meter waves hits Mediterranean
+title: "AYS Daily Digest 24/01/19: Cyclone producing seven meter waves hits Mediterranean"
 author: Are You Syrious?
 date: 2021-05-25T23:47:24.036+0100
 last_modified_at: 2021-05-26T15:57:25.034+0100
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [refugees,digest,italy,europe,human-rights]
 description: Are You Syrious?
 image:
-  path: assets/16b60512cf21/0*Otgxd0Z6dHQdeHft.jpeg
+  path: ../assets/16b60512cf21/0*Otgxd0Z6dHQdeHft.jpeg
 ---
 
 ### AYS Daily Digest 24/01/19: Cyclone producing seven meter waves hits Mediterranean
 
 
-![](assets/16b60512cf21/0*VL4Syz9bgKcAbSoV.jpeg)
+![](../assets/16b60512cf21/0*VL4Syz9bgKcAbSoV.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----ce0997f00f6e--------------------------------)
@@ -23,7 +23,7 @@ image:
 _47 people rescued on Board Sea Watch 3, denied access to Italian Ports as Weather Worsened in Mediterranean //100 people remain trapped in Nador detention facility // Situation in Libyan detention camp Mistrata deteriorating // Weather warning for Greece // Fourth day of Protests on Samos // Salvini to close largest reception center in Europe, Cara Mineo // 2000 people sleeping on streets of Paris // UK returns people who crossed the English Channel from France / And more news…_
 
 
-![](assets/16b60512cf21/0*Otgxd0Z6dHQdeHft.jpeg)
+![](../assets/16b60512cf21/0*Otgxd0Z6dHQdeHft.jpeg)
 
 
 Source: [Federico Scoppa](https://www.facebook.com/Scoppa.Photos?__tn__=%2CdCH-R-R&eid=ARBkkqscVe2uqeFLDVDktHzOFqKR7dOhI7nkL50qjsD_eHpknMYkONC4_Vxf6eKEW-QnFozRctyDy3Fw&hc_ref=ARSEMCTjHMEvGNcZ2Xx3ON5YVVDdTEYQucTIQql8RAY0O2JjptJqYS01CLPdkeX1Iy8&fref=nf)
@@ -82,7 +82,7 @@ Drop in the Ocean is in need of volunteer English teachers in Athens and on Lesv
 athen@drapenihavet\.no or lesvos@drapenihavet\.no
 
 
-![](assets/16b60512cf21/0*G5vKx-q_AqWdNlLO.jpeg)
+![](../assets/16b60512cf21/0*G5vKx-q_AqWdNlLO.jpeg)
 
 
 Source: AYS
@@ -129,7 +129,7 @@ Interior Minister Salvini has announced that the next center to close in Italy w
 Calais Action reports that more than 2000 people are sleeping on the streets of Paris under heavy snow and cold weather\.
 
 
-![](assets/16b60512cf21/0*gaGpR7pAGF1TfsPO.jpeg)
+![](../assets/16b60512cf21/0*gaGpR7pAGF1TfsPO.jpeg)
 
 
 Source: [Calais Action](https://www.facebook.com/calaisaction/?__tn__=%2CdKH-R-R&eid=ARAHOgBsvsobwpEKqkmNz3MbJhEjebVZekmmZKW42___YGq9gtLPtybsq1Z2ig6Y0jT3aJe52SwbwM0S&fref=mentions)
@@ -138,7 +138,7 @@ Source: [Calais Action](https://www.facebook.com/calaisaction/?__tn__=%2CdKH-R-R
 Mobile Refugee Support is in search for volunteers to join their team to help deal with the high numbers and new arrivals\.
 
 
-![](assets/16b60512cf21/0*RuGqTSrSucxI0oDH.jpeg)
+![](../assets/16b60512cf21/0*RuGqTSrSucxI0oDH.jpeg)
 
 
 Source: Mobile Refugee Support

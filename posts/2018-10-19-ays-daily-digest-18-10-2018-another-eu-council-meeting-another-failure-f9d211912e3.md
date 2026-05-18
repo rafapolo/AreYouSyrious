@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 18/10/2018: Another EU Council meeting, another failure
+title: "AYS DAILY DIGEST 18/10/2018: Another EU Council meeting, another failure"
 author: Are You Syrious?
 date: 2018-10-19T09:28:01.732+0100
 last_modified_at: 2018-10-19T19:16:21.150+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,european-union,greece,human-rights]
 description: EU Council meeting on migration not taking into consideration urgent issues//EASO and Frontex under spotlight for irregularities in their…
 image:
-  path: assets/f9d211912e3/1*qCrsy9Fwf_E5ZdOrwxEb5w.jpeg
+  path: ../assets/f9d211912e3/1*qCrsy9Fwf_E5ZdOrwxEb5w.jpeg
 ---
 
 ### AYS DAILY DIGEST 18/10/2018: Another EU Council meeting, another failure
@@ -15,7 +15,7 @@ image:
 _EU Council meeting on migration not taking into consideration urgent issues // EASO and Frontex under spotlight for irregularities in their funding expenditure // Anti\-crime information cell to be tested in the context of EUNAVFOR Med operations // 135 people evacuated from Libya to Niger // Last member of the Moria35 finally free // Protest in Moria this morning // 233 migrants convicted for a sit\-in protest / 360 unaccompanied minors disappeared last year in the Netherlands // And more news…_
 
 
-![Credit: Robert Nielsen\. “According to Google Earth, this is how Moria camp looks from above\. Although this satellite picture is from October 2014, someone must feel ashamed…” \(Information Point for Lesvos Volunteers\)](assets/f9d211912e3/1*qCrsy9Fwf_E5ZdOrwxEb5w.jpeg)
+![Credit: Robert Nielsen\. “According to Google Earth, this is how Moria camp looks from above\. Although this satellite picture is from October 2014, someone must feel ashamed…” \(Information Point for Lesvos Volunteers\)](../assets/f9d211912e3/1*qCrsy9Fwf_E5ZdOrwxEb5w.jpeg)
 
 Credit: Robert Nielsen\. “According to Google Earth, this is how Moria camp looks from above\. Although this satellite picture is from October 2014, someone must feel ashamed…” \(Information Point for Lesvos Volunteers\)
 ### **FEATURE**
@@ -139,7 +139,7 @@ A protest in solidarity is going to happen this Friday\.
 Solidarité migrants Wilson is organising a collection of clothes and goods for winter on Friday the 26th and Saturday the 27th in Paris\. They will need volunteers to sort out donations too\.
 
 
-![](assets/f9d211912e3/1*yNU9K6KgFj3JIuQFrr-0FA.png)
+![](../assets/f9d211912e3/1*yNU9K6KgFj3JIuQFrr-0FA.png)
 
 ### THE NETHERLANDS
 

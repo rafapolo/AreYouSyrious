@@ -1,5 +1,5 @@
 ---
-title: AYS Special: Can I claim asylum in Greece?
+title: "AYS Special: Can I claim asylum in Greece?"
 author: Are You Syrious?
 date: 2022-01-30T12:32:30.264+0000
 last_modified_at: 2022-01-31T16:16:15.753+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [special,refugees,asylum-seekers,greece,human-rights]
 description: For the past few months this has been a question increasingly asked to people on the ground by new arrivals. Why?
 image:
-  path: assets/e0d4ea0b9467/1*pH98_JJxk1oVd_qeg4dMSw.jpeg
+  path: ../assets/e0d4ea0b9467/1*pH98_JJxk1oVd_qeg4dMSw.jpeg
 ---
 
 ### AYS Special: Can I claim asylum in Greece?
@@ -15,7 +15,7 @@ image:
 _For the past few months this has been a question increasingly asked by new arrivals to people on the ground\. Why? Because if you manage to arrive to Greece by land through the northern border with Turkey, or to the islands of Crete and Rhodes, then there are currently no guaranteed safe routes for registering your asylum claim\._
 
 
-![\(Photo Credit: [Fahd Fahd via Art Against](https://www.facebook.com/artagainstproject/photos/a.704384742944296/4712302018819195/) \)](assets/e0d4ea0b9467/1*pH98_JJxk1oVd_qeg4dMSw.jpeg)
+![\(Photo Credit: [Fahd Fahd via Art Against](https://www.facebook.com/artagainstproject/photos/a.704384742944296/4712302018819195/) \)](../assets/e0d4ea0b9467/1*pH98_JJxk1oVd_qeg4dMSw.jpeg)
 
 \(Photo Credit: [Fahd Fahd via Art Against](https://www.facebook.com/artagainstproject/photos/a.704384742944296/4712302018819195/) \)
 
@@ -24,14 +24,14 @@ As of the end of November 2021, [the Greek Government decided to halt the Skype 
 Two other options remain on the mainland\. You can hand yourself over to a police station which could result in detention in a pre\-removal departure centre \(detention centre for people due to be deported\), or prolonged police detention\. In the north of Greece, interaction with the police could lead you to being violently pushed back across the border to Turkey\. All of these scenarios have been experienced by people on the move in Greece and reported to people who work with them\.
 
 
-![\(Wounds incurred when respondent was beaten on the way to the Fylakio RIC during pushback\. Photo Credit: [BVMN](https://www.borderviolence.eu/violence-reports/july-2-2021-0000-mikrochori-kerimtecisalih/) \)](assets/e0d4ea0b9467/1*Z9KzRESfD0lkVdfSG_o38Q.jpeg)
+![\(Wounds incurred when respondent was beaten on the way to the Fylakio RIC during pushback\. Photo Credit: [BVMN](https://www.borderviolence.eu/violence-reports/july-2-2021-0000-mikrochori-kerimtecisalih/) \)](../assets/e0d4ea0b9467/1*Z9KzRESfD0lkVdfSG_o38Q.jpeg)
 
 \(Wounds incurred when respondent was beaten on the way to the Fylakio RIC during pushback\. Photo Credit: [BVMN](https://www.borderviolence.eu/violence-reports/july-2-2021-0000-mikrochori-kerimtecisalih/) \)
 
 Or, you can go to the Reception and Identification Centre \(RIC\) in Fylakio which only has [capacity for 282 people](https://www.efsyn.gr/ellada/dikaiomata/328433_horis-prosbasi-sto-asylo-oi-prosfyges-stin-endohora) \. Here they may turn you away or start a pushback procedure before you even arrive, or it may be a stop during a pushback after the police have picked you up\. Multiple reports of pushbacks recorded by the Border Violence Monitoring Network \(BVMN\) confirm that pushbacks have taken place from Fylakio\.
 
 
-![\(Fylakio Pre\-Removal Detention Site\. Photo Credit: [BVMN](https://www.borderviolence.eu/violence-reports/september-3-2021-1100-dilofos-3-4km-from-yenikadin/) \)](assets/e0d4ea0b9467/1*V_bFB7e9ZWXtHFuWxcpSPA.jpeg)
+![\(Fylakio Pre\-Removal Detention Site\. Photo Credit: [BVMN](https://www.borderviolence.eu/violence-reports/september-3-2021-1100-dilofos-3-4km-from-yenikadin/) \)](../assets/e0d4ea0b9467/1*V_bFB7e9ZWXtHFuWxcpSPA.jpeg)
 
 \(Fylakio Pre\-Removal Detention Site\. Photo Credit: [BVMN](https://www.borderviolence.eu/violence-reports/september-3-2021-1100-dilofos-3-4km-from-yenikadin/) \)
 

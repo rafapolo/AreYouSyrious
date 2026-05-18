@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 5/8: Food shortages in Calais
+title: "AYS News Digest 5/8: Food shortages in Calais"
 author: Are You Syrious?
 date: 2016-08-06T04:39:03.493+0100
 last_modified_at: 2016-08-06T06:24:09.141+0100
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe]
 description: Refugee Community Kitchen in Calais needs donations as the camp population continues to increase while police closes down camp restaurants…
 image:
-  path: assets/cc01b723c3c4/0*1pKud3BDZcy5Z_bB.
+  path: ../assets/cc01b723c3c4/0*1pKud3BDZcy5Z_bB.
 ---
 
 ### AYS News Digest 5/8: Food shortages in Calais
 
 
-![Photo by the Worldwide Tribe](assets/cc01b723c3c4/0*1pKud3BDZcy5Z_bB.)
+![Photo by the Worldwide Tribe](../assets/cc01b723c3c4/0*1pKud3BDZcy5Z_bB.)
 
 Photo by the Worldwide Tribe
 
@@ -64,21 +64,21 @@ He adds that his brother is already in Germany and that he hopes to reunite with
 ### Yazidis from Nea Kavala move to a new camp in the area of Serres
 
 
-![Photo by Molly Ananda](assets/cc01b723c3c4/0*1B9xCgRBmxqGY3Sr.)
+![Photo by Molly Ananda](../assets/cc01b723c3c4/0*1B9xCgRBmxqGY3Sr.)
 
 Photo by Molly Ananda
 
 After leaving the camp because they felt unsafe and threatened by other refugees, the Yazidis of Nea Kavala were brought to a new camp in the area of Serres, called Dimitra\. InterVolve has helped with setting up the tents, registering people and distributing food\.
 
 
-![Photo by Hugo Miguel Caldeira](assets/cc01b723c3c4/0*RdAZuCyb7wndfeGS.)
+![Photo by Hugo Miguel Caldeira](../assets/cc01b723c3c4/0*RdAZuCyb7wndfeGS.)
 
 Photo by Hugo Miguel Caldeira
 
 Around 70 people were identified as being vulnerable \(single mothers, pregnant women, handicapped people\) and will be able to sleep inside the former school building\.
 
 
-![Photo by Hugo Miguel Caldeira](assets/cc01b723c3c4/0*eV0hlDh4MxVPmvuz.)
+![Photo by Hugo Miguel Caldeira](../assets/cc01b723c3c4/0*eV0hlDh4MxVPmvuz.)
 
 Photo by Hugo Miguel Caldeira
 
@@ -88,17 +88,17 @@ Intervolve is currently fundraising [here](https://fundrazr.com/718SN9?utm_campa
 Refugees in Oreokastro also complain about their living conditions and about the length of the asylum procedure\. Hidden from the world, in these “warehouses of souls”, they express their anger and frustration however possible\.
 
 
-![Photo by refugees\.tv](assets/cc01b723c3c4/0*eegDa5v8ioNCrJGR.jpg)
+![Photo by refugees\.tv](../assets/cc01b723c3c4/0*eegDa5v8ioNCrJGR.jpg)
 
 Photo by refugees\.tv
 
 
-![Photo by refugees\.tv](assets/cc01b723c3c4/0*Dp5p4-F39EL3WnYG.jpg)
+![Photo by refugees\.tv](../assets/cc01b723c3c4/0*Dp5p4-F39EL3WnYG.jpg)
 
 Photo by refugees\.tv
 
 
-![Photo by [Rezan Boyraz](https://www.facebook.com/profile.php?id=100006569595099&fref=nf)](assets/cc01b723c3c4/0*GQbTejfWtWhhKBS5.)
+![Photo by [Rezan Boyraz](https://www.facebook.com/profile.php?id=100006569595099&fref=nf)](../assets/cc01b723c3c4/0*GQbTejfWtWhhKBS5.)
 
 Photo by [Rezan Boyraz](https://www.facebook.com/profile.php?id=100006569595099&fref=nf)
 
@@ -152,12 +152,12 @@ Info Park is starting to distribute warm meals for lunch in the park near the bu
 The Timber project has built a wifi/phone charging point in the Kelebija refugee camp and is about to complete an education space for children
 
 
-![Photo by the Timber Project](assets/cc01b723c3c4/0*Ot6QbA4h81KZD_Ez.jpg)
+![Photo by the Timber Project](../assets/cc01b723c3c4/0*Ot6QbA4h81KZD_Ez.jpg)
 
 Photo by the Timber Project
 
 
-![Photo by the Timber Project](assets/cc01b723c3c4/0*eyibfE00pCVVChQ3.jpg)
+![Photo by the Timber Project](../assets/cc01b723c3c4/0*eyibfE00pCVVChQ3.jpg)
 
 Photo by the Timber Project
 
@@ -186,12 +186,12 @@ Following this report, Vanessa Redgrave, Lord Alf Dubs and Aislin McGuckin have 
 With unaccompanied children likely to remain in Calais for a while, police has handed an eviction notice to the Jungle Books Kids Restaurant, a place that provides two hot meals per day to the camp’s unaccompanied minors\. It is also a safe space for children where they can play and hang out\.
 
 
-![Photo by the Worldwide Tribe](assets/cc01b723c3c4/0*LkliBtcUbYFzIsOa.)
+![Photo by the Worldwide Tribe](../assets/cc01b723c3c4/0*LkliBtcUbYFzIsOa.)
 
 Photo by the Worldwide Tribe
 
 
-![Photo by the Worldwide Tribe](assets/cc01b723c3c4/0*SpJfFma_nfDnskIx.)
+![Photo by the Worldwide Tribe](../assets/cc01b723c3c4/0*SpJfFma_nfDnskIx.)
 
 Photo by the Worldwide Tribe
 
@@ -199,7 +199,7 @@ Closing the Jungle Books Kids Restaurant will make the camp even more dangerous 
 ### Severe food shortage in Calais
 
 
-[![Refugee Community Kitchen Appeal](assets/cc01b723c3c4/8be6_hqdefault.jpg "Refugee Community Kitchen Appeal")](http://www.youtube.com/watch?v=a0XB7NspQC4)
+[![Refugee Community Kitchen Appeal](../assets/cc01b723c3c4/8be6_hqdefault.jpg "Refugee Community Kitchen Appeal")](http://www.youtube.com/watch?v=a0XB7NspQC4)
 
 
 The Refugee Community Kitchen in Calais says it needs to double its food output to 4,000 meals per day\. With police closing restaurants in the camp and the number of residents increasing everyday, food shortages become critical\. Financial aid is needed and recurring donations in particular allow the Kitchen to provide consistent support\. You can help them through their [fundraising page](https://mydonate.bt.com/charities/helprefugeesandrefugeecommunitykitchen) \.

@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 14–15/11/2020: 3 years in Libya, a testimony
+title: "AYS Weekend Digest 14–15/11/2020: 3 years in Libya, a testimony"
 author: Are You Syrious?
 date: 2020-11-16T13:00:17.254+0000
 last_modified_at: 2020-11-16T13:14:28.044+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [libya,digest,uk,refugees,canary-islands]
 description: Arrivals in Italy and Spain / 3 years in Libya, a testimony / TUI airlines are carrying out deportations from the UK / UK…
 image:
-  path: assets/5981d69b818a/1*fvSvoswDEERADt0htlJUFA.jpeg
+  path: ../assets/5981d69b818a/1*fvSvoswDEERADt0htlJUFA.jpeg
 ---
 
 ### AYS Weekend Digest 14–15/11/2020: 3 years in Libya, a testimony
@@ -16,7 +16,7 @@ Arrivals in Italy and Spain // 3 years in Libya, a testimony // TUI airlines are
 
 
 ![Athens, Greece 14 November 2020
-Homeless person in empty streets of Athens, during the night curfew that is part of the new lockdown restrictions\. \(via [Art Against](https://web.facebook.com/artagainstproject/photos/a.704384742944296/3454958864553523/) \)](assets/5981d69b818a/1*fvSvoswDEERADt0htlJUFA.jpeg)
+Homeless person in empty streets of Athens, during the night curfew that is part of the new lockdown restrictions\. \(via [Art Against](https://web.facebook.com/artagainstproject/photos/a.704384742944296/3454958864553523/) \)](../assets/5981d69b818a/1*fvSvoswDEERADt0htlJUFA.jpeg)
 
 Athens, Greece 14 November 2020
 Homeless person in empty streets of Athens, during the night curfew that is part of the new lockdown restrictions\. \(via [Art Against](https://web.facebook.com/artagainstproject/photos/a.704384742944296/3454958864553523/) \)
@@ -57,7 +57,7 @@ Medical staff from clinics in Tigray assist other refugees 🩺 Sudanese communi
 114 people died last week in the central Med, bringing the death toll for 2020 to 900 at this one crossing point alone\. Read the Civil Fleet’s points on last week’s events [HERE](https://thecivilfleet.wordpress.com/2020/11/13/mediterranean-death-toll-tops-900-after-four-shipwrecks-in-three-days-iom-warns/?fbclid=IwAR2pnonV6xHLO3yd9Q_Jk-M5zbBasrlzG9LQvnAzwBqXp2esIe_3kwuyLiU) \.
 
 
-![In Memory of Youssef, Forum Lampedusa Solidale](assets/5981d69b818a/1*xW5V_1fgRtvVEeRsSfxzCA.jpeg)
+![In Memory of Youssef, Forum Lampedusa Solidale](../assets/5981d69b818a/1*xW5V_1fgRtvVEeRsSfxzCA.jpeg)
 
 In Memory of Youssef, Forum Lampedusa Solidale
 
@@ -179,7 +179,7 @@ SERBIA
 #### **Police clear camp**
 
 
-![\(Phot credit: [NNK](https://web.facebook.com/NoNameKitchenBelgrade/posts/1122043651527251) \)](assets/5981d69b818a/1*jjlO4aDfxk0qBhMAGYedCA.jpeg)
+![\(Phot credit: [NNK](https://web.facebook.com/NoNameKitchenBelgrade/posts/1122043651527251) \)](../assets/5981d69b818a/1*jjlO4aDfxk0qBhMAGYedCA.jpeg)
 
 \(Phot credit: [NNK](https://web.facebook.com/NoNameKitchenBelgrade/posts/1122043651527251) \)
 
@@ -198,20 +198,20 @@ FRANCE
 #### **I’ve seen people mostly\. Not ‘deportable’, undocumented, ‘strangers’\.**
 
 
-![](assets/5981d69b818a/1*fK3lGeCa2oACATdqxy--Xg.jpeg)
+![](../assets/5981d69b818a/1*fK3lGeCa2oACATdqxy--Xg.jpeg)
 
 
 
-![](assets/5981d69b818a/1*nukDHSAKEaGcBS9FZIib2g.jpeg)
+![](../assets/5981d69b818a/1*nukDHSAKEaGcBS9FZIib2g.jpeg)
 
 
 
-![](assets/5981d69b818a/1*aWHbIfHTvHG2vW9S7-EtAA.jpeg)
+![](../assets/5981d69b818a/1*aWHbIfHTvHG2vW9S7-EtAA.jpeg)
 
 
 
 ![\(Photo Credit: Lucas Boirat/Hans Lucas via 
-[Solidarité migrants Wilson](https://web.facebook.com/permalink.php?story_fbid=1589422867925146&id=598228360377940) \)](assets/5981d69b818a/1*Mn3XzZAEYcGpUCgD9bTMhw.jpeg)
+[Solidarité migrants Wilson](https://web.facebook.com/permalink.php?story_fbid=1589422867925146&id=598228360377940) \)](../assets/5981d69b818a/1*Mn3XzZAEYcGpUCgD9bTMhw.jpeg)
 
 \(Photo Credit: Lucas Boirat/Hans Lucas via 
 [Solidarité migrants Wilson](https://web.facebook.com/permalink.php?story_fbid=1589422867925146&id=598228360377940) \)

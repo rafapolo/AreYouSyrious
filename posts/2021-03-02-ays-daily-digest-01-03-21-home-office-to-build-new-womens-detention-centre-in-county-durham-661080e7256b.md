@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [uk,refugees,digest,greece,denmark]
 description: Press release from Mediterranea Saving Humans after police operation against them // evictions in Greece // deportations from Denmark and…
 image:
-  path: assets/661080e7256b/1*GYY1WQu3NMYFiKAhLy3ppA.jpeg
+  path: ../assets/661080e7256b/1*GYY1WQu3NMYFiKAhLy3ppA.jpeg
 ---
 
 ### AYS Daily Digest 01/03/21 Home Office to build new women’s detention centre in County Durham
@@ -15,7 +15,7 @@ image:
 _Press release from Mediterranea Saving Humans after police operation against them // evictions in Greece // deportations from Denmark and Spain // UK to consider life sentences for smugglers // and more…_
 
 
-![“My name is Agnes\. I am a refugee, I am a woman, I am a human being\. The Home Office has started building a new immigration detention centre at Hassockfield in County Durham to lock up women like me\. Please join me in taking action to stop them\. This is personal for me\. I claimed asylum here because I was being persecuted in my country and I thought I would be killed\. But I was locked up at Yarl’s Wood \(a detention centre for women in Bedfordshire\) for 3 months in 2012\. I was put there because the solicitor who was working on my case didn’t do it properly\. I suffered so much and for no reason\.” Photo provided by Petition to [**Stop the new detention centre for women**](https://www.change.org/p/the-home-secretary-stop-the-new-detention-centre-for-women?utm_source=share_petition&utm_medium=custom_url&recruited_by_id=b4d14f00-e64f-012f-a459-40401fa5e37a)](assets/661080e7256b/1*GYY1WQu3NMYFiKAhLy3ppA.jpeg)
+![“My name is Agnes\. I am a refugee, I am a woman, I am a human being\. The Home Office has started building a new immigration detention centre at Hassockfield in County Durham to lock up women like me\. Please join me in taking action to stop them\. This is personal for me\. I claimed asylum here because I was being persecuted in my country and I thought I would be killed\. But I was locked up at Yarl’s Wood \(a detention centre for women in Bedfordshire\) for 3 months in 2012\. I was put there because the solicitor who was working on my case didn’t do it properly\. I suffered so much and for no reason\.” Photo provided by Petition to [**Stop the new detention centre for women**](https://www.change.org/p/the-home-secretary-stop-the-new-detention-centre-for-women?utm_source=share_petition&utm_medium=custom_url&recruited_by_id=b4d14f00-e64f-012f-a459-40401fa5e37a)](../assets/661080e7256b/1*GYY1WQu3NMYFiKAhLy3ppA.jpeg)
 
 “My name is Agnes\. I am a refugee, I am a woman, I am a human being\. The Home Office has started building a new immigration detention centre at Hassockfield in County Durham to lock up women like me\. Please join me in taking action to stop them\. This is personal for me\. I claimed asylum here because I was being persecuted in my country and I thought I would be killed\. But I was locked up at Yarl’s Wood \(a detention centre for women in Bedfordshire\) for 3 months in 2012\. I was put there because the solicitor who was working on my case didn’t do it properly\. I suffered so much and for no reason\.” Photo provided by Petition to [**Stop the new detention centre for women**](https://www.change.org/p/the-home-secretary-stop-the-new-detention-centre-for-women?utm_source=share_petition&utm_medium=custom_url&recruited_by_id=b4d14f00-e64f-012f-a459-40401fa5e37a)
 ### FEATURE: Home Office is building a new women’s detention centre in County Durham
@@ -71,7 +71,7 @@ Agnes \(photo above\), a refugee woman who was imprisoned in Yarl’s Wood and i
 AYS will continue to follow this story and stands in solidarity with anyone conducting the lifesaving work of sea rescue\.
 
 
-![“The OceanViking is in after quarantine in Sicily Marseille arrived\. Maintenance & supplies are planned while the new crew isolates\. Given the fatal boat accident over the weekend, it is our duty to be at sea as soon as possible\.” Photo by [SOS MEDITERRANEE GER](https://twitter.com/SOSMedGermany/status/1366425890842959874)](assets/661080e7256b/1*HOt_OETzFL9cY27FZpuAxA.jpeg)
+![“The OceanViking is in after quarantine in Sicily Marseille arrived\. Maintenance & supplies are planned while the new crew isolates\. Given the fatal boat accident over the weekend, it is our duty to be at sea as soon as possible\.” Photo by [SOS MEDITERRANEE GER](https://twitter.com/SOSMedGermany/status/1366425890842959874)](../assets/661080e7256b/1*HOt_OETzFL9cY27FZpuAxA.jpeg)
 
 “The OceanViking is in after quarantine in Sicily Marseille arrived\. Maintenance & supplies are planned while the new crew isolates\. Given the fatal boat accident over the weekend, it is our duty to be at sea as soon as possible\.” Photo by [SOS MEDITERRANEE GER](https://twitter.com/SOSMedGermany/status/1366425890842959874)
 
@@ -165,7 +165,7 @@ A man is being treated for severe burns from a gas explosion that happened in Ch
 ![“Today is International \#ZeroDiscriminationDay\.
 Samos LGBTQI\+ Group believes in a world where sexual and gender minorities can live freely without discrimination\. Today we release a research report entitled “The Discrimination Epidemic” highlighting the challenges and difficulties faced by LGBTQI\+ asylum seekers in Samos\.
 The report highlights how 68% of LGBTQI\+ persons of concern in the RIC report an increase in discrimination during the 2nd lockdown that began in September 2020 and the effect this has had on respondents wellbeing\.
-You can find the report [here](https://www.facebook.com/Samoslgbtqigroup/posts/119177150212860) ” \(In English, French, and Greek\)](assets/661080e7256b/1*4vMg5qy24WKsjNatg_-Aaw.png)
+You can find the report [here](https://www.facebook.com/Samoslgbtqigroup/posts/119177150212860) ” \(In English, French, and Greek\)](../assets/661080e7256b/1*4vMg5qy24WKsjNatg_-Aaw.png)
 
 “Today is International \#ZeroDiscriminationDay\.
 Samos LGBTQI\+ Group believes in a world where sexual and gender minorities can live freely without discrimination\. Today we release a research report entitled “The Discrimination Epidemic” highlighting the challenges and difficulties faced by LGBTQI\+ asylum seekers in Samos\.
@@ -240,20 +240,20 @@ El Pais is reporting that “ _The number of asylum applications filed in the Ca
 #### BOSNIA AND HEREZEGOVINA
 
 
-![](assets/661080e7256b/1*GqQRDhNrrQ0uTpW8oYi6zw.jpeg)
+![](../assets/661080e7256b/1*GqQRDhNrrQ0uTpW8oYi6zw.jpeg)
 
 
 
-![](assets/661080e7256b/1*2-sGcHkz-kgxhGDpUcWDJg.jpeg)
+![](../assets/661080e7256b/1*2-sGcHkz-kgxhGDpUcWDJg.jpeg)
 
 
 
-![](assets/661080e7256b/1*CIbMR0S0ss59xoinuZYjmQ.jpeg)
+![](../assets/661080e7256b/1*CIbMR0S0ss59xoinuZYjmQ.jpeg)
 
 
 
 ![“The pictures are from the Blazuj and Sewing camp\. We would like to note that families with young children are located in the Ushivak camp, and we rarely get information that women’s diapers are missing in this camp as well as baby diapers\. As you can see from the attached most people are barefoot and walk in slippers regardless of the minuses\. We also note that we rarely get information about violence against people in these camps conducted by all of the employees of international organizations leading the camp, through private insurance to the police that from time to time arbitrarily enter the camp\.
-Are these conditions worthy of a man? And did it take tens of millions of euros for such an inhumane and humiliating attitude towards people?” Photo and Info by [Transbalkanska solidarnost](https://www.facebook.com/groups/144469886266984/permalink/738678976846069/)](assets/661080e7256b/1*6ojxGUfwQL2MmjjhuP7Qpw.jpeg)
+Are these conditions worthy of a man? And did it take tens of millions of euros for such an inhumane and humiliating attitude towards people?” Photo and Info by [Transbalkanska solidarnost](https://www.facebook.com/groups/144469886266984/permalink/738678976846069/)](../assets/661080e7256b/1*6ojxGUfwQL2MmjjhuP7Qpw.jpeg)
 
 “The pictures are from the Blazuj and Sewing camp\. We would like to note that families with young children are located in the Ushivak camp, and we rarely get information that women’s diapers are missing in this camp as well as baby diapers\. As you can see from the attached most people are barefoot and walk in slippers regardless of the minuses\. We also note that we rarely get information about violence against people in these camps conducted by all of the employees of international organizations leading the camp, through private insurance to the police that from time to time arbitrarily enter the camp\.
 Are these conditions worthy of a man? And did it take tens of millions of euros for such an inhumane and humiliating attitude towards people?” Photo and Info by [Transbalkanska solidarnost](https://www.facebook.com/groups/144469886266984/permalink/738678976846069/)
@@ -275,7 +275,7 @@ We r preparing a shipment but this takes a lot of time and bureacracy. We need m
 
 
 ![“If we see the now well\-known images of a violent deportation from Croatia to Bosnia, then it may well be that for some of those affected it is the last stage of a chain retrogression, which has started on Austrian soil\. Such a case will be negotiated on Tuesday \(2\. March 2021\) before the Regional Administrative Court of Graz\. Process observers welcome\!” 
-Info by [Push\-Back Alarm Austria](https://www.facebook.com/PushBackAlarmAustria/posts/119703203492044) , Photo by Dirk Planert](assets/661080e7256b/1*uDMhqTRkSmt5eYmMpWOHHA.jpeg)
+Info by [Push\-Back Alarm Austria](https://www.facebook.com/PushBackAlarmAustria/posts/119703203492044) , Photo by Dirk Planert](../assets/661080e7256b/1*uDMhqTRkSmt5eYmMpWOHHA.jpeg)
 
 “If we see the now well\-known images of a violent deportation from Croatia to Bosnia, then it may well be that for some of those affected it is the last stage of a chain retrogression, which has started on Austrian soil\. Such a case will be negotiated on Tuesday \(2\. March 2021\) before the Regional Administrative Court of Graz\. Process observers welcome\!” 
 Info by [Push\-Back Alarm Austria](https://www.facebook.com/PushBackAlarmAustria/posts/119703203492044) , Photo by Dirk Planert
@@ -315,7 +315,7 @@ On more of the Social Democratic Party’s immigration decisions like this, Jaco
 
 
 ![Solidarité migrants Wilson is continuing their hairdressing station to help empower refugees\! “If you have any materials to give away, capes, professional clippers, scissors, cutters,… a little message in pm\!
-You can also donate on the prize pool \(link in bio\) \.” [Find out more here](https://www.facebook.com/permalink.php?story_fbid=1670083973192368&id=598228360377940) \! Photo by Solidarité migrants Wilson](assets/661080e7256b/1*QAIL0aaivWL8fyqjq8DnmQ.jpeg)
+You can also donate on the prize pool \(link in bio\) \.” [Find out more here](https://www.facebook.com/permalink.php?story_fbid=1670083973192368&id=598228360377940) \! Photo by Solidarité migrants Wilson](../assets/661080e7256b/1*QAIL0aaivWL8fyqjq8DnmQ.jpeg)
 
 Solidarité migrants Wilson is continuing their hairdressing station to help empower refugees\! “If you have any materials to give away, capes, professional clippers, scissors, cutters,… a little message in pm\!
 You can also donate on the prize pool \(link in bio\) \.” [Find out more here](https://www.facebook.com/permalink.php?story_fbid=1670083973192368&id=598228360377940) \! Photo by Solidarité migrants Wilson

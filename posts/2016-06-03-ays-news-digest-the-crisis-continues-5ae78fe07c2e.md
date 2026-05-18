@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest: The Crisis Continues
+title: "AYS News Digest: The Crisis Continues"
 author: Are You Syrious?
 date: 2016-06-03T22:30:12.085+0100
 last_modified_at: 2016-06-04T03:03:31.544+0100
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe,syria]
 description: A Syrian claiming to be a homosexual will be deported. 96 refugees saved from drowning this morning. Red Crescent announces that there are…
 image:
-  path: assets/5ae78fe07c2e/1*Uv6om3eIIIVo8W9946oUiA.jpeg
+  path: ../assets/5ae78fe07c2e/1*Uv6om3eIIIVo8W9946oUiA.jpeg
 ---
 
 ### AYS News Digest: The Crisis Continues
 
 
-![A refugee mother and her baby as they are taken on the rescue ship\. Credits: Yann Merlin/ SOS MEDITERRANEE](assets/5ae78fe07c2e/1*Uv6om3eIIIVo8W9946oUiA.jpeg)
+![A refugee mother and her baby as they are taken on the rescue ship\. Credits: Yann Merlin/ SOS MEDITERRANEE](../assets/5ae78fe07c2e/1*Uv6om3eIIIVo8W9946oUiA.jpeg)
 
 A refugee mother and her baby as they are taken on the rescue ship\. Credits: Yann Merlin/ SOS MEDITERRANEE
 
@@ -55,26 +55,26 @@ A Syrian claiming to be a homosexual will be deported\. 96 refugees saved from d
 
 
 
-![Credits: Yann Merlin/ SOS MEDITERRANEE](assets/5ae78fe07c2e/1*tEENYe-7D30_GLeuoXficg.jpeg)
+![Credits: Yann Merlin/ SOS MEDITERRANEE](../assets/5ae78fe07c2e/1*tEENYe-7D30_GLeuoXficg.jpeg)
 
 Credits: Yann Merlin/ SOS MEDITERRANEE
 
 
-![](assets/5ae78fe07c2e/1*Uv6om3eIIIVo8W9946oUiA.jpeg)
+![](../assets/5ae78fe07c2e/1*Uv6om3eIIIVo8W9946oUiA.jpeg)
 
 
 
-![Credits: Yann Merlin/ SOS MEDITERRANEE](assets/5ae78fe07c2e/1*WvoW1XB2-FgEUufZvCT_4g.jpeg)
-
-Credits: Yann Merlin/ SOS MEDITERRANEE
-
-
-![Credits: Yann Merlin/ SOS MEDITERRANEE](assets/5ae78fe07c2e/1*XXBkL-LglUbc1PxDgj4jIw.jpeg)
+![Credits: Yann Merlin/ SOS MEDITERRANEE](../assets/5ae78fe07c2e/1*WvoW1XB2-FgEUufZvCT_4g.jpeg)
 
 Credits: Yann Merlin/ SOS MEDITERRANEE
 
 
-![Credits: Yann Merlin/ SOS MEDITERRANEE](assets/5ae78fe07c2e/1*Frr26biTOOzoZKgGO-Hs5w.jpeg)
+![Credits: Yann Merlin/ SOS MEDITERRANEE](../assets/5ae78fe07c2e/1*XXBkL-LglUbc1PxDgj4jIw.jpeg)
+
+Credits: Yann Merlin/ SOS MEDITERRANEE
+
+
+![Credits: Yann Merlin/ SOS MEDITERRANEE](../assets/5ae78fe07c2e/1*Frr26biTOOzoZKgGO-Hs5w.jpeg)
 
 Credits: Yann Merlin/ SOS MEDITERRANEE
 ### The UN Refugee Agency \(UNHCR\) this week launched an online petition asking governments to act to support refugees\.
@@ -171,13 +171,13 @@ Credits: Yann Merlin/ SOS MEDITERRANEE
 
 
 
-![Credits: Doğan News Agency](assets/5ae78fe07c2e/1*7ZBiuLdFqpCey_R484B0bg.jpeg)
+![Credits: Doğan News Agency](../assets/5ae78fe07c2e/1*7ZBiuLdFqpCey_R484B0bg.jpeg)
 
 Credits: Doğan News Agency
 ### ReVi Group makes fruit baskets with Refugee Children in Izmir
 
 
-![](assets/5ae78fe07c2e/1*Gadt4qrwp-rg_gMqGFcqiw.jpeg)
+![](../assets/5ae78fe07c2e/1*Gadt4qrwp-rg_gMqGFcqiw.jpeg)
 
 #### Bulgaria
 ### BBC: 50–200 migrants smuggled through Bulgaria per day
@@ -269,11 +269,11 @@ Credits: Doğan News Agency
 
 
 
-![](assets/5ae78fe07c2e/1*lFlUZ2zHklz_Ut8Asb0IFw.jpeg)
+![](../assets/5ae78fe07c2e/1*lFlUZ2zHklz_Ut8Asb0IFw.jpeg)
 
 
 
-![Credits: Calais Action](assets/5ae78fe07c2e/1*3cJeYwcCigP1yknPibDukQ.jpeg)
+![Credits: Calais Action](../assets/5ae78fe07c2e/1*3cJeYwcCigP1yknPibDukQ.jpeg)
 
 Credits: Calais Action
 ### Numbers of Refugees in Kos
@@ -354,7 +354,7 @@ Credits: Calais Action
 **4700 Syrian refugees approved resettlement to U\.S\. according to Homeland Security chief\.**
 
 
-![Syrian refugee children play as they wait with their families to register their information at the U\.S\. processing centre for Syrian refugees, during a media tour held by the U\.S\. Embassy in Jordan, in Amman, Jordan, April 6, 2016\. Credits: REUTERS/MUHAMMAD HAMED](assets/5ae78fe07c2e/0*_90uTdIqGKTWW5a6.)
+![Syrian refugee children play as they wait with their families to register their information at the U\.S\. processing centre for Syrian refugees, during a media tour held by the U\.S\. Embassy in Jordan, in Amman, Jordan, April 6, 2016\. Credits: REUTERS/MUHAMMAD HAMED](../assets/5ae78fe07c2e/0*_90uTdIqGKTWW5a6.)
 
 Syrian refugee children play as they wait with their families to register their information at the U\.S\. processing centre for Syrian refugees, during a media tour held by the U\.S\. Embassy in Jordan, in Amman, Jordan, April 6, 2016\. Credits: REUTERS/MUHAMMAD HAMED
 

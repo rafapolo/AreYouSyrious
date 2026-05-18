@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest: 18/02/2021: One year after the racist terror attack in Germany
+title: "AYS Daily Digest: 18/02/2021: One year after the racist terror attack in Germany"
 author: Are You Syrious?
 date: 2021-02-19T13:23:04.041+0000
 last_modified_at: 2021-02-19T20:37:28.021+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [europe,digest,refugees,hanau,greece]
 description: One year ago, a racist killed 9 people in Germany // Citizens of Lesvos stand in Solidarity with camp residents // New details on the…
 image:
-  path: assets/3e468229c80/1*IQ_2Zoo6zcCKW5geiRYT6A.jpeg
+  path: ../assets/3e468229c80/1*IQ_2Zoo6zcCKW5geiRYT6A.jpeg
 ---
 
 ### AYS Daily Digest: 18/02/2021: One year after the racist terror attack in Germany
 #### One year ago, a racist killed 9 people in Germany // Citizens of Lesvos stand in solidarity with camp residents // New details on the planned closed\-controlled camps on the Aegean Islands // Croatia: Shocking new evidence of sexual violence at border // Lampedusa: memorial planned for those who died on their way to Europe
 
 
-![](assets/3e468229c80/1*IQ_2Zoo6zcCKW5geiRYT6A.jpeg)
+![](../assets/3e468229c80/1*IQ_2Zoo6zcCKW5geiRYT6A.jpeg)
 
 ### FEATURE: Say their names — one year after the racist terror attack in Hanau, Germany
 
@@ -286,7 +286,7 @@ In Paris, the Seine is flooding\. The NGO Solidarité migrants Wilson reports:
 
 
 
-![Copyright: Simon Lambert](assets/3e468229c80/1*RJyMQmWlOIGSVEXKAAc63Q.jpeg)
+![Copyright: Simon Lambert](../assets/3e468229c80/1*RJyMQmWlOIGSVEXKAAc63Q.jpeg)
 
 Copyright: Simon Lambert
 ### UK

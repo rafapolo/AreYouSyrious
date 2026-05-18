@@ -1,20 +1,20 @@
 ---
-title: AYS News Digest 8/6/22: Austrian Supreme Court confirms — police carried out an illegal pushback
+title: "AYS News Digest 8/6/22: Austrian Supreme Court confirms — police carried out an illegal pushback"
 author: Are You Syrious?
 date: 2022-06-09T16:59:42.660+0100
 last_modified_at: 2022-06-09T16:59:42.660+0100
 categories: Are You Syrious?
 tags: [digest,austria,pushback,refugees,europe]
-description: Poland: Human Rights Watch report/ The 450 people from Mare Jonio and Sea Watch will disembark in Pozzallo / In France, child detention…
+description: "Poland: Human Rights Watch report/ The 450 people from Mare Jonio and Sea Watch will disembark in Pozzallo / In France, child detention…"
 image:
-  path: assets/6a9392f541a1/0*P0uLRF0lS1L4LBzH.jpg
+  path: ../assets/6a9392f541a1/0*P0uLRF0lS1L4LBzH.jpg
 ---
 
 ### AYS News Digest 8/6/22: Austrian Supreme Court confirms — police carried out an illegal pushback
 #### Poland: Human Rights Watch report/ The 450 people from Mare Jonio and Sea Watch will disembark in Pozzallo / In France, child detention continues in spite the ECHR decision / 40 NGOs denounce the risk of more racial profiling / Frontex may end up in the European Court in Luxembourg for maintaining operations in Greece despite numerous reports of violations
 
 
-![Source: Push\-Back Alarm Austria](assets/6a9392f541a1/0*P0uLRF0lS1L4LBzH.jpg)
+![Source: Push\-Back Alarm Austria](../assets/6a9392f541a1/0*P0uLRF0lS1L4LBzH.jpg)
 
 Source: Push\-Back Alarm Austria
 #### FEATURE
@@ -82,7 +82,7 @@ A coalition of almost 40 NGOs, in a [joint statement](https://picum.org/joint-ci
 EU Justice and Home Affairs Ministers are meeting on 9–10 June to discuss various issues related to their portfolios, including the new Schengen Borders Code\. The provisional agenda can be read [here](https://www.consilium.europa.eu/en/meetings/jha/2022/06/09-10/) \.
 
 
-![](assets/6a9392f541a1/0*hKQQLG39TmyTcjqr.jpeg)
+![](../assets/6a9392f541a1/0*hKQQLG39TmyTcjqr.jpeg)
 
 ### Frontex caretaker leader could face EU court
 
@@ -133,7 +133,7 @@ Situation on Evros continues, but so do the Greek interpretations of what it mea
 A protest took place in front of the Greek migration ministry in Athens yesterday\. Demonstrators called for better treatment of migrants and refugees, and for a stop to all pushbacks\.
 
 
-![](assets/6a9392f541a1/0*rbFQT-rtuCppisJK)
+![](../assets/6a9392f541a1/0*rbFQT-rtuCppisJK)
 
 #### ITALY
 
@@ -167,7 +167,7 @@ The situation is dramatic and on the verge of implosion at the border with Franc
 
 
 
-![](assets/6a9392f541a1/0*tTgVCHavoftY3Vzu.jpg)
+![](../assets/6a9392f541a1/0*tTgVCHavoftY3Vzu.jpg)
 
 
 “It is to this place that migrants who are intercepted before they are able to enter French territory without papers are taken\. The majority of them are stopped on a bus which crosses the French [Italian border regularly](https://www.infomigrants.net/en/post/31096/italy-migrants-evicted-from-occupied-building-near-french-border) ”:
@@ -231,7 +231,7 @@ This did not prevent the police prefecture of Paris \(75\) and the prefecture of
 Human Rights Observers have released their [annual report](https://l.facebook.com/l.php?u=https%3A%2F%2Fhumanrightsobservers.org%2Fwp-content%2Fuploads%2F2022%2F06%2FRapport-annuel-2021-VF.pdf%3Ffbclid%3DIwAR1WRbKY_ZRuAoFZvFdD206tyt-Nji1-TRDGtlgbqQnWgnc87L4doZOPX6o&h=AT1cyM0HXM9_yjKz5J0M7PjlXcL63WMltAyRifFZqqVtaCgtXWiDYrFjc1QNT5gRmELLEDQ-iYmOZX-ZHnxuw0Hz9NaeHr7oIcFDSmGhEy8J0y-PfOVmCQ3WuasGN8UADQ&__tn__=R]-R&c[0]=AT1C2SaNavo_Hp8fVZPdqtz9nQUdb7cmZFyq5UpUcX6VNIbdoFYO2fdUGRku2mg2CO1WKgWkl0ISlLhZ3QYtVxaaVlrgZao7y8G0_7cfW4lAYz_dhXufrh8nPaiD3Cw-Vl4B631p64upO8c7MQvanAjHM7xjRxewhLm7lvsQ0AHoxa2lkoMZHCEeDJFxLv223L8Om_pMhDYE)
 
 
-![](assets/6a9392f541a1/0*XpfyBmER389FpKsu)
+![](../assets/6a9392f541a1/0*XpfyBmER389FpKsu)
 
 #### POLAND
 ### Human Rights Watch report on the violence at the border with Belarus
@@ -266,7 +266,7 @@ Find the entire report [here](https://www.hrw.org/news/2022/06/07/violence-and-p
 Grupa Granica published the strikers’ statement:
 
 
-![](assets/6a9392f541a1/0*NfHaRj9ZSCrGU5dx)
+![](../assets/6a9392f541a1/0*NfHaRj9ZSCrGU5dx)
 
 #### UK
 
@@ -275,7 +275,7 @@ This Sunday, solidarity demonstration against the flights and deportations to Rw
 Solidarity demo @ Brook House, Sunday 12th June, 3pm Demo outside the Home Office, Monday 13th June, 5\.30pm
 
 
-![](assets/6a9392f541a1/0*Z0aRhzCD6A3KVUWa)
+![](../assets/6a9392f541a1/0*Z0aRhzCD6A3KVUWa)
 
 #### WORTH READING
 - What will become of Denmark’s trying to make a deal with Rwanda for the past few years but have so far only officially agreed a rather vague, non\-binding [Memorandum of Understanding](https://jyllands-posten.dk/indland/article12953714.ece/BINARY/L%C3%A6s%20aftalen%20mellem%20Danmark%20og%20Rwanda) with no specific action points

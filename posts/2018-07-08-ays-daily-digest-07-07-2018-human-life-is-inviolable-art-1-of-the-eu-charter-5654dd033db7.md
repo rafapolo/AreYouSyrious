@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,seebrucke,apriamoiporti,mediterranean]
 description: Demonstrations in Italy and Germany /// Solidarity March Ventimiglia-London arrived in Calais /// More rescues in the Alboran Sea ///…
 image:
-  path: assets/5654dd033db7/1*fq00WcULzIKdaBYxSzq4jw.jpeg
+  path: ../assets/5654dd033db7/1*fq00WcULzIKdaBYxSzq4jw.jpeg
 ---
 
 ### AYS Daily Digest 07/07/2018 “Human life is inviolable” Art\. 1 of the EU Charter
@@ -15,7 +15,7 @@ image:
 Demonstrations in Italy and Germany /// Solidarity March Ventimiglia\-London arrived in Calais /// More rescues in the Alboran Sea /// Neo\-fascist anti\-migrant patrols on Italian beaches /// Report from Velika Kladusa
 
 
-![Rome, Italy\. After the eviction of via Scorticabove: **Where is our international protection?** \(photo by [Melting Pot Europa](https://www.facebook.com/meltingpoteuropa/) \)](assets/5654dd033db7/1*fq00WcULzIKdaBYxSzq4jw.jpeg)
+![Rome, Italy\. After the eviction of via Scorticabove: **Where is our international protection?** \(photo by [Melting Pot Europa](https://www.facebook.com/meltingpoteuropa/) \)](../assets/5654dd033db7/1*fq00WcULzIKdaBYxSzq4jw.jpeg)
 
 Rome, Italy\. After the eviction of via Scorticabove: **Where is our international protection?** \(photo by [Melting Pot Europa](https://www.facebook.com/meltingpoteuropa/) \)
 #### Feature — “Human Life is Inviolable” Article 1 of the EU Charter
@@ -46,7 +46,7 @@ A [further report](https://twitter.com/HelenaMaleno/status/1015599990570352640) 
 As the Alarmphone call for a larger NGO presence in the Mediterranean, [Lifeline](https://www.facebook.com/seenotrettung/videos/401231083616770/?hc_location=ufi) are asking for support to continue their search and rescue work\. More info on how to help [here](https://civilfleet.org/) \.
 
 
-![Photo by [Lifeline](https://www.facebook.com/seenotrettung/)](assets/5654dd033db7/1*E6kCJY-56vbTJCDxWJ9XUg.jpeg)
+![Photo by [Lifeline](https://www.facebook.com/seenotrettung/)](../assets/5654dd033db7/1*E6kCJY-56vbTJCDxWJ9XUg.jpeg)
 
 Photo by [Lifeline](https://www.facebook.com/seenotrettung/)
 
@@ -95,7 +95,7 @@ A third boat landed on Agios Dimitris, Lesvos north 10\.04 — 44 people: 17 chi
 #### Lesvos
 
 
-![\#Savepikpa \(Photo by [SAO Association](https://www.facebook.com/SAOassociation/) \)](assets/5654dd033db7/1*9db0IW58ueFbKvwkZ8BD5A.jpeg)
+![\#Savepikpa \(Photo by [SAO Association](https://www.facebook.com/SAOassociation/) \)](../assets/5654dd033db7/1*9db0IW58ueFbKvwkZ8BD5A.jpeg)
 
 \#Savepikpa \(Photo by [SAO Association](https://www.facebook.com/SAOassociation/) \)
 #### \#savepikpa
@@ -118,14 +118,14 @@ ITALY
 #### **Demonstration against repatriation centre in Modena**
 
 
-![FOR FREEDOM WITHOUT FEAR](assets/5654dd033db7/1*HW73PqbyLAtxojvs8mjh9Q.jpeg)
+![FOR FREEDOM WITHOUT FEAR](../assets/5654dd033db7/1*HW73PqbyLAtxojvs8mjh9Q.jpeg)
 
 FOR FREEDOM WITHOUT FEAR
 
 A demonstration was held on Saturday in Modena, central Italy\. People from the whole region came to support the local refugees and solidarians in their struggle against the establishment of the first Repatriation Centre \(CPR\) \.
 
 
-![For freedom without fear \#NOCPR \#PapersNow \(Photo by [Coordinamento Migranti Bologna](https://www.facebook.com/coordinamentomigranti.bologna.7) \)](assets/5654dd033db7/1*S2fa-uVVBaMPibkj8sEMvQ.jpeg)
+![For freedom without fear \#NOCPR \#PapersNow \(Photo by [Coordinamento Migranti Bologna](https://www.facebook.com/coordinamentomigranti.bologna.7) \)](../assets/5654dd033db7/1*S2fa-uVVBaMPibkj8sEMvQ.jpeg)
 
 For freedom without fear \#NOCPR \#PapersNow \(Photo by [Coordinamento Migranti Bologna](https://www.facebook.com/coordinamentomigranti.bologna.7) \)
 
@@ -177,7 +177,7 @@ BOSNIA
 From an [independent volunteer](https://www.facebook.com/cestacestero?ref=content_filter) in Velika Kladusa:
 
 
-![\(Photo by [Барбарче Бекарес Кастањоска](https://www.facebook.com/cestacestero) \)](assets/5654dd033db7/1*nDEMdSOQsKwQCcWWKpNdxQ.jpeg)
+![\(Photo by [Барбарче Бекарес Кастањоска](https://www.facebook.com/cestacestero) \)](../assets/5654dd033db7/1*nDEMdSOQsKwQCcWWKpNdxQ.jpeg)
 
 \(Photo by [Барбарче Бекарес Кастањоска](https://www.facebook.com/cestacestero) \)
 
@@ -216,14 +216,14 @@ GERMANY
 #### \#Seebrueken demonstrations in Germany
 
 
-![\(Photo by [Jugend Rettet e\.V\.](https://www.facebook.com/JugendRettet/) \)](assets/5654dd033db7/1*zX6TQpZ5cJAlZzvlopNnww.jpeg)
+![\(Photo by [Jugend Rettet e\.V\.](https://www.facebook.com/JugendRettet/) \)](../assets/5654dd033db7/1*zX6TQpZ5cJAlZzvlopNnww.jpeg)
 
 \(Photo by [Jugend Rettet e\.V\.](https://www.facebook.com/JugendRettet/) \)
 
 Tens of thousands gather for demonstrations in [Berlin](https://www.rbb24.de/politik/beitrag/2018/07/demonstration-berlin-seenotrettung--fluechtlinge-mittelmeer-seebruecke.html) , Leipzig, Munich, Hanover and Frankfurt am Main and more…
 
 
-![](assets/5654dd033db7/1*zX6TQpZ5cJAlZzvlopNnww.jpeg)
+![](../assets/5654dd033db7/1*zX6TQpZ5cJAlZzvlopNnww.jpeg)
 
 
 
@@ -300,7 +300,7 @@ On Saturday the march started two months ago in Ventimiglia reached Calais\.
 The organisation [Care4Calais](https://www.facebook.com/care4calais/posts/1989043714461909?hc_location=ufi) urgently need donations:
 
 
-![](assets/5654dd033db7/1*hGAkaEPu1q5w69DeqjJnZA.jpeg)
+![](../assets/5654dd033db7/1*hGAkaEPu1q5w69DeqjJnZA.jpeg)
 
 
 

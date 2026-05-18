@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 13/9/19: Port of safety for Ocean Viking, a sustainable solution for SAR is…
+title: "AYS Daily Digest 13/9/19: Port of safety for Ocean Viking, a sustainable solution for SAR is…"
 author: Are You Syrious?
 date: 2019-09-14T11:51:52.883+0100
 last_modified_at: 2019-09-14T11:51:52.883+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,migration,europe,children]
 description: Disembarkation for Ocean Viking / Horrible conditions for refugees in Turkey continue with detention / Children across Greek’s reception…
 image:
-  path: assets/b78e08d24796/0*FAqtJkWoUkSPK-ar
+  path: ../assets/b78e08d24796/0*FAqtJkWoUkSPK-ar
 ---
 
 ### AYS Daily Digest 13/9/19: Port of safety for Ocean Viking, a sustainable solution for SAR is urgently needed\!
 ### Disembarkation for Ocean Viking / Horrible conditions for refugees in Turkey continue with detention / Children across Greek’s reception facilities missing school start over poor administration / Talks on allocation scheme / Paris volunteers need help / & more info
 
 
-![](assets/b78e08d24796/0*I8GRhaSwGUdMU98W.jpeg)
+![](../assets/b78e08d24796/0*I8GRhaSwGUdMU98W.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----ab42525c4783----------------------)
@@ -22,11 +22,11 @@ image:
 [Sep 14](ays-daily-digest-13-9-19-port-of-safety-for-ocean-viking-a-sustainable-solution-for-sar-is-ab42525c4783?source=post_page-----ab42525c4783----------------------) · 6 min read
 
 
-![](assets/b78e08d24796/0*ba4OgSh7BBN94KcF)
+![](../assets/b78e08d24796/0*ba4OgSh7BBN94KcF)
 
 
 
-![](assets/b78e08d24796/0*FAqtJkWoUkSPK-ar)
+![](../assets/b78e08d24796/0*FAqtJkWoUkSPK-ar)
 
 
 Photo: MSF Sea
@@ -114,11 +114,11 @@ The **Greek Council for Refugees** is concerned about the fact that, while schoo
 
 
 
-![](assets/b78e08d24796/0*CSdnbi5TY_zOruoR)
+![](../assets/b78e08d24796/0*CSdnbi5TY_zOruoR)
 
 
 
-![](assets/b78e08d24796/0*PrFqM6zPng810NDf.jpeg)
+![](../assets/b78e08d24796/0*PrFqM6zPng810NDf.jpeg)
 
 
 Photo: **Medical Volunteers International**

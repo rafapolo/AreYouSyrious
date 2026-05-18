@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 01/11/2021: One month of protests in Tripoli
+title: "AYS News Digest 01/11/2021: One month of protests in Tripoli"
 author: Are You Syrious?
 date: 2021-11-02T12:41:39.340+0000
 last_modified_at: 2021-11-02T12:41:39.340+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,europe,digest,libya,greece]
 description: People on the Move in Tripoli keep on asking for their rights // More details about what seems to almost have been a pushback of 381 people…
 image:
-  path: assets/eb1fb25a16e9/1*ynlUzMnrQ-jNlL01Fyc2Fg.png
+  path: ../assets/eb1fb25a16e9/1*ynlUzMnrQ-jNlL01Fyc2Fg.png
 ---
 
 ### AYS News Digest 01/11/2021: One month of protests in Tripoli
 #### People on the Move in Tripoli keep on asking for their rights // More details about what seems to almost have been a pushback of 381 people from Greece // People arrested in Turkey over videos posted on social media // Arrivals on Canary Islands and Italy // Poland will build a wall
 
 
-![People in Tripoli mourn the death of a boy who was killed in a car accident outside the UNHCR building\. Screenshot from a video posted by Hassan Zakaria](assets/eb1fb25a16e9/1*ynlUzMnrQ-jNlL01Fyc2Fg.png)
+![People in Tripoli mourn the death of a boy who was killed in a car accident outside the UNHCR building\. Screenshot from a video posted by Hassan Zakaria](../assets/eb1fb25a16e9/1*ynlUzMnrQ-jNlL01Fyc2Fg.png)
 
 People in Tripoli mourn the death of a boy who was killed in a car accident outside the UNHCR building\. Screenshot from a video posted by Hassan Zakaria
 ### LIBYA: How much longer until Europe listens to their calls?
@@ -40,13 +40,13 @@ While the Community Day Centre remains closed, according to UNC HR spokespersons
 The NGO Mediterranea and Amnesty International organized a press conference on October 28th with protesters in Tripoli which can be rewatched here:
 
 
-[![Refugees in Libya - Conferenza Stampa / 28.10.2021](assets/eb1fb25a16e9/4a9b_hqdefault.jpg "Refugees in Libya - Conferenza Stampa / 28.10.2021")](https://www.youtube.com/watch?v=3DpFIGn6V5M)
+[![Refugees in Libya - Conferenza Stampa / 28.10.2021](../assets/eb1fb25a16e9/4a9b_hqdefault.jpg "Refugees in Libya - Conferenza Stampa / 28.10.2021")](https://www.youtube.com/watch?v=3DpFIGn6V5M)
 
 
 [According to media reports,](http://apanews.net/en/news/au-rwanda-unhcr-to-evacuate-refugees-asylum-seekers-from-libya/) an agreement between the African Union, Rwanda and UNHCR was found that allows for resettlement of People on the Move from Libya to Rwanda\. Within the Emergency Transit Mechanism, about 600 people have been resettled to Rwanda since 2019\. Now, Rwanda agreed to take in another 700 people\.
 
 
-[![Abandoned refugees living on Libya's streets in appalling conditions - BBC News](assets/eb1fb25a16e9/2204_hqdefault.jpg "Abandoned refugees living on Libya's streets in appalling conditions - BBC News")](https://www.youtube.com/watch?v=_IjQd6pcmUw)
+[![Abandoned refugees living on Libya's streets in appalling conditions - BBC News](../assets/eb1fb25a16e9/2204_hqdefault.jpg "Abandoned refugees living on Libya's streets in appalling conditions - BBC News")](https://www.youtube.com/watch?v=_IjQd6pcmUw)
 
 
 According to Journalist Sara Creta, Libyas head of the Department for Combatting Illegal Migration was replaced in the aftermath of the raids\.

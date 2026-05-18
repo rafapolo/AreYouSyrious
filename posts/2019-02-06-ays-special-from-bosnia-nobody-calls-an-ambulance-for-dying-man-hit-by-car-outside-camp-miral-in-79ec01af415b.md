@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL FROM BOSNIA: Nobody Calls an Ambulance for Dying Man Hit by Car Outside Camp Miral in…
+title: "AYS SPECIAL FROM BOSNIA: Nobody Calls an Ambulance for Dying Man Hit by Car Outside Camp Miral in…"
 author: Are You Syrious?
 date: 2019-02-06T14:26:14.390+0000
 last_modified_at: 2019-03-17T04:50:18.976+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,special,bosnia,miral,velika-kladusa]
 description: Who is Responsible for his death?
 image:
-  path: assets/79ec01af415b/1*B4LSnzh0xCfitBw2nmf4Gw.jpeg
+  path: ../assets/79ec01af415b/1*B4LSnzh0xCfitBw2nmf4Gw.jpeg
 ---
 
 ### AYS SPECIAL FROM BOSNIA: Nobody Calls an Ambulance for Dying Man Hit by Car Outside Camp Miral in Bosnia
 #### Who is Responsible for his death?
 
 
-![Outside the camp, two of the deceased's friends who witnessed the accident and stayed with the man in the final hours of his life, grieve for the loss of their friend\.](assets/79ec01af415b/1*B4LSnzh0xCfitBw2nmf4Gw.jpeg)
+![Outside the camp, two of the deceased's friends who witnessed the accident and stayed with the man in the final hours of his life, grieve for the loss of their friend\.](../assets/79ec01af415b/1*B4LSnzh0xCfitBw2nmf4Gw.jpeg)
 
 Outside the camp, two of the deceased's friends who witnessed the accident and stayed with the man in the final hours of his life, grieve for the loss of their friend\.
 
@@ -45,7 +45,7 @@ Outside the camp, two of the deceased's friends who witnessed the accident and s
 \(Youssef, 25\)
 
 
-[![Nobody Calls an Ambulance for Dying Man Hit by Car Outside IOM run Camp Miral in Bosnia](assets/79ec01af415b/e0e4_hqdefault.jpg "Nobody Calls an Ambulance for Dying Man Hit by Car Outside IOM run Camp Miral in Bosnia")](http://www.youtube.com/watch?v=EmY5BMhuflA)
+[![Nobody Calls an Ambulance for Dying Man Hit by Car Outside IOM run Camp Miral in Bosnia](../assets/79ec01af415b/e0e4_hqdefault.jpg "Nobody Calls an Ambulance for Dying Man Hit by Car Outside IOM run Camp Miral in Bosnia")](http://www.youtube.com/watch?v=EmY5BMhuflA)
 
 
 **_Sunday, 3rd February, 2019\. Velika Kladuša, Bosnia and Herzegovina_**
@@ -112,7 +112,7 @@ No IOM staff members are present at the camp during this time\-frame\. Security 
 Recently a video emerged of a team of security guards physically assaulting migrant within the facility\.
 
 
-[![Violence Against Residents in IOM Run Refugee Camp in Bosnia](assets/79ec01af415b/db9e_hqdefault.jpg "Violence Against Residents in IOM Run Refugee Camp in Bosnia")](http://www.youtube.com/watch?v=jWmwACRlhRQ)
+[![Violence Against Residents in IOM Run Refugee Camp in Bosnia](../assets/79ec01af415b/db9e_hqdefault.jpg "Violence Against Residents in IOM Run Refugee Camp in Bosnia")](http://www.youtube.com/watch?v=jWmwACRlhRQ)
 
 
 Around 10 policeman patrol the area and attempt to maintain calm\. They insist that residents return inside the camp, but they refuse\. They explain that they do not wish to intervene, but their presence at the entrance of the camp is a breach of the peace, a criminal offence\. \[According to the law in Bosnia, this is not true\. \]
@@ -122,7 +122,7 @@ More and more people wake up and hear the news of Hamid’s death, they are show
 Over one hundred people move outside the entrance of the camp, distressed by the death of Hamid, but calm\. No incidents occur\.
 
 
-![Out the front of the camp, over one hundred people are devastated by the news of the accident and the death of Hamid\.](assets/79ec01af415b/1*qVnbiD22IJIwZ_kVs20GUA.png)
+![Out the front of the camp, over one hundred people are devastated by the news of the accident and the death of Hamid\.](../assets/79ec01af415b/1*qVnbiD22IJIwZ_kVs20GUA.png)
 
 Out the front of the camp, over one hundred people are devastated by the news of the accident and the death of Hamid\.
 
@@ -159,7 +159,7 @@ Police permit access to the site of the accident\. The friends of Hamid go to th
 
 
 
-![](assets/79ec01af415b/1*b6Bna_wl2kk6xtjyO1hs8g.jpeg)
+![](../assets/79ec01af415b/1*b6Bna_wl2kk6xtjyO1hs8g.jpeg)
 
 
 Police inform residents that they are allowed to stay outside of the entrance of the camp but that they should not travel in big groups to the center of town, instead in groups of two or three\. They inform people they do not wish to intervene, but that remaining in big groups amounts to disturbing of peace, which forces police intervention
@@ -179,7 +179,7 @@ The men who witnessed the incident and accompanied Hamid to the hospital are lef
 
 
 
-![The night of the accident, two men are forced to sleep out the front of the camp by IOM staff, who instruct security not to let one of them inside\. They have slept for four nights at the camps entrance\. When they attempted to put up a tent to shelter from the rain, they were told they must take it down\. One of the men reports that moments before Hamid died, he came outside to ask them if they need anything ‘he was helping us, I am so sad that he died’ explains one of the men\.](assets/79ec01af415b/1*AOMX20202Y-Vj57QzTjzxg.png)
+![The night of the accident, two men are forced to sleep out the front of the camp by IOM staff, who instruct security not to let one of them inside\. They have slept for four nights at the camps entrance\. When they attempted to put up a tent to shelter from the rain, they were told they must take it down\. One of the men reports that moments before Hamid died, he came outside to ask them if they need anything ‘he was helping us, I am so sad that he died’ explains one of the men\.](../assets/79ec01af415b/1*AOMX20202Y-Vj57QzTjzxg.png)
 
 The night of the accident, two men are forced to sleep out the front of the camp by IOM staff, who instruct security not to let one of them inside\. They have slept for four nights at the camps entrance\. When they attempted to put up a tent to shelter from the rain, they were told they must take it down\. One of the men reports that moments before Hamid died, he came outside to ask them if they need anything ‘he was helping us, I am so sad that he died’ explains one of the men\.
 

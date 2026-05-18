@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,filoxenia,iom,mediterranean,refugees]
 description: 15 lives lost and  363 rescued by SeaWatch in the central Med. New lockdown measures in Samos and Greece. UK to extend women detention…
 image:
-  path: assets/48ee8747308a/1*6MccKliXeQrhWlNrOLcSkQ.jpeg
+  path: ../assets/48ee8747308a/1*6MccKliXeQrhWlNrOLcSkQ.jpeg
 ---
 
 ### AYS Weekend Digest 27–28/2/2021 People left on the streets as Filoxenia shuts down
@@ -15,7 +15,7 @@ image:
 15 lives lost in the central Mediterranean — 363 rescued by SeaWatch wait for safe port — New lockdown measures in Samos and Greece — UK to expand women’s detention — Denmark attempts to move reception centres to third countries…
 
 
-![Sunday marked “the official end of a meaningful MSF project on board the SeaWatch4\. [MSF](https://twitter.com/MSF) joined forces with [Sea Watch](https://twitter.com/seawatch_intl) last year, against the backdrop of the COVID\-19 pandemic, to urgently fill the gap left by European states in the central Mediterranean\.” \(Photo and text by [MSF Sea](https://twitter.com/MSF_Sea/status/1366030026077065220/photo/2) \)](assets/48ee8747308a/1*6MccKliXeQrhWlNrOLcSkQ.jpeg)
+![Sunday marked “the official end of a meaningful MSF project on board the SeaWatch4\. [MSF](https://twitter.com/MSF) joined forces with [Sea Watch](https://twitter.com/seawatch_intl) last year, against the backdrop of the COVID\-19 pandemic, to urgently fill the gap left by European states in the central Mediterranean\.” \(Photo and text by [MSF Sea](https://twitter.com/MSF_Sea/status/1366030026077065220/photo/2) \)](../assets/48ee8747308a/1*6MccKliXeQrhWlNrOLcSkQ.jpeg)
 
 Sunday marked “the official end of a meaningful MSF project on board the SeaWatch4\. [MSF](https://twitter.com/MSF) joined forces with [Sea Watch](https://twitter.com/seawatch_intl) last year, against the backdrop of the COVID\-19 pandemic, to urgently fill the gap left by European states in the central Mediterranean\.” \(Photo and text by [MSF Sea](https://twitter.com/MSF_Sea/status/1366030026077065220/photo/2) \)
 #### Featured — People left on the streets as Filoxenia shuts down
@@ -129,7 +129,7 @@ GREECE
 #### Lesvos — Hand grenade found in Moria 2\.0
 
 
-![Photo by [Dunya Collective](https://twitter.com/DunyaCollective/status/1365733841831346179)](assets/48ee8747308a/1*QADZpsnsTgDWl7yCvDfXEw.jpeg)
+![Photo by [Dunya Collective](https://twitter.com/DunyaCollective/status/1365733841831346179)](../assets/48ee8747308a/1*QADZpsnsTgDWl7yCvDfXEw.jpeg)
 
 Photo by [Dunya Collective](https://twitter.com/DunyaCollective/status/1365733841831346179)
 

@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL — CROATIA: “They taught us about sharing, fairness and everyday fighting.”
+title: "AYS SPECIAL — CROATIA: “They taught us about sharing, fairness and everyday fighting.”"
 author: Are You Syrious?
 date: 2018-01-06T14:09:26.519+0000
 last_modified_at: 2018-03-01T13:47:35.364+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [refugees,croatia,porin,zagreb,special]
 description: At the moment, sixty children and teenagers call little rooms home at Porin Asylum Seekers Center. When 11 of us started our activities for…
 image:
-  path: assets/a8a3210a9cfe/1*gDddepsKsngCA0Bb9xMXvg.jpeg
+  path: ../assets/a8a3210a9cfe/1*gDddepsKsngCA0Bb9xMXvg.jpeg
 ---
 
 ### AYS SPECIAL — CROATIA: “They taught us about sharing, fairness and everyday fighting\.”
 
 
-![We celebrate togehter all our victories\. Photo: AYS](assets/a8a3210a9cfe/1*gDddepsKsngCA0Bb9xMXvg.jpeg)
+![We celebrate togehter all our victories\. Photo: AYS](../assets/a8a3210a9cfe/1*gDddepsKsngCA0Bb9xMXvg.jpeg)
 
 We celebrate togehter all our victories\. Photo: AYS
 
@@ -34,7 +34,7 @@ Thanks to donations from two schools and many citizens, we created a child\-proo
 Also, we are always trying to write everything multilingually, so they can learn from the environment\. For example, when we were teaching them the days of the week, they wrote them in the five languages spoken among the children and then put that on the wall\.
 
 
-![This is how we learn words\. W ords of the week in several languages\. Photo: AYS](assets/a8a3210a9cfe/1*Kbc0OO47Cym2u9SA_7elTg.jpeg)
+![This is how we learn words\. W ords of the week in several languages\. Photo: AYS](../assets/a8a3210a9cfe/1*Kbc0OO47Cym2u9SA_7elTg.jpeg)
 
 This is how we learn words\. W ords of the week in several languages\. Photo: AYS
 
@@ -43,7 +43,7 @@ In a system that treats them just as a number, we wanted to provide them with a 
 The following months were full of optimism for us and the children\. They were finally enrolled in school and we were trying our best to teach them the language and help with homework that was way too hard for them\. But luckily, we established a „big brother/sister “ program among the volunteers, so each of us had one kid to whom we gave extra care, which meant trying to connect school and parents, talk with their teachers about homework, ask family about their needs and the problems they face at the center\.
 
 
-![Graffiti workshop, Kaštel Kambelovac\. Photo AYS](assets/a8a3210a9cfe/1*_5QlmffyObHle4yLbpqXVA.jpeg)
+![Graffiti workshop, Kaštel Kambelovac\. Photo AYS](../assets/a8a3210a9cfe/1*_5QlmffyObHle4yLbpqXVA.jpeg)
 
 Graffiti workshop, Kaštel Kambelovac\. Photo AYS
 
@@ -54,15 +54,15 @@ Despite that, they decided to stay here and wait for more than a year — and th
 In April we participated in World Book Night\. During these four days we had many workshops based on popular Croatian books and Professor Baltazar cartoons\. We showed the cartoons, read Baltazar picture books together, made Baltazar accessories \(hats and glasses\), had an experimental workshop, made our own picture books, build a Professor Baltazar magic machine and as the highlight of the events, our kids performed a show written by one of our volunteers\.
 
 
-![](assets/a8a3210a9cfe/1*vx5StB1JarKGaYLj02XApw.jpeg)
+![](../assets/a8a3210a9cfe/1*vx5StB1JarKGaYLj02XApw.jpeg)
 
 
 
-![](assets/a8a3210a9cfe/1*S0U5kBVDcgb78X41DQdiKw.jpeg)
+![](../assets/a8a3210a9cfe/1*S0U5kBVDcgb78X41DQdiKw.jpeg)
 
 
 
-![World book night event with Professor Baltazar\. Photo: AYS](assets/a8a3210a9cfe/1*74yEwDt62ZMcXV7eEAFjEw.jpeg)
+![World book night event with Professor Baltazar\. Photo: AYS](../assets/a8a3210a9cfe/1*74yEwDt62ZMcXV7eEAFjEw.jpeg)
 
 World book night event with Professor Baltazar\. Photo: AYS
 
@@ -77,11 +77,11 @@ The saddest part was that we knew the children are aware of their situation beca
 At one moment they play and learning languages like any other kid, at another they talk about problems and experiences that no kid should have\. We always strive to create a stable and safe environment for them, but at the end of the day nothing was certain for them\.
 
 
-![](assets/a8a3210a9cfe/1*TgdczWpX41klYMgVu6mDrA.jpeg)
+![](../assets/a8a3210a9cfe/1*TgdczWpX41klYMgVu6mDrA.jpeg)
 
 
 
-![Visiting botanical garden \(Split\) and Bundek lake \(Zagreb\) \. Photo: AYS](assets/a8a3210a9cfe/1*Mx-zRCLr8_onYH3sr37i1A.jpeg)
+![Visiting botanical garden \(Split\) and Bundek lake \(Zagreb\) \. Photo: AYS](../assets/a8a3210a9cfe/1*Mx-zRCLr8_onYH3sr37i1A.jpeg)
 
 Visiting botanical garden \(Split\) and Bundek lake \(Zagreb\) \. Photo: AYS
 
@@ -92,7 +92,7 @@ In the middle of August, as a part of the “Dobri domaćini” campaign we spen
 In September school started again and we were back on a four\-day working schedule, many families left because they received their second negative decision, but we also had new kids who arrived from Serbia so we had two different groups of children: beginners and ones with advanced knowledge of the language\.
 
 
-![The fall with AYS\. Photo: AYS](assets/a8a3210a9cfe/1*ygLyO6mwJLi3ZscSe50M3Q.jpeg)
+![The fall with AYS\. Photo: AYS](../assets/a8a3210a9cfe/1*ygLyO6mwJLi3ZscSe50M3Q.jpeg)
 
 The fall with AYS\. Photo: AYS
 
@@ -105,7 +105,7 @@ This helps the children, especially the newcomers, feel confident because they c
 None of this would be possible without our beautiful volunteers\. Each of them has their own reasons why they don’t give up even in moments when all of our efforts seem meaningless \(for example after the negative decisions for families\) \.
 
 
-![We learn togehter\. Photo: AYS](assets/a8a3210a9cfe/1*z7uqZohZwWRs6pvrJZDkuw.jpeg)
+![We learn togehter\. Photo: AYS](../assets/a8a3210a9cfe/1*z7uqZohZwWRs6pvrJZDkuw.jpeg)
 
 We learn togehter\. Photo: AYS
 
@@ -138,7 +138,7 @@ Even though they’re little kids, they are still very aware of how hard their l
 **Sanja:** My favorite part of visiting Porin is when I’m getting out of the car at the parking lot in front of Porin and I can hear kids yelling from the balcony: Sanja, Sanja\! Then I try to figure out where are they, wave back and I see this little act brings happiness to their faces\.
 
 
-![Old room first day new studying room after some months\. Photo: AYS](assets/a8a3210a9cfe/1*cYQSRhMVUasXv6w1kDCuJg.jpeg)
+![Old room first day new studying room after some months\. Photo: AYS](../assets/a8a3210a9cfe/1*cYQSRhMVUasXv6w1kDCuJg.jpeg)
 
 Old room first day new studying room after some months\. Photo: AYS
 
@@ -153,7 +153,7 @@ A nine\-year\-old boy understands the concept of justice, even if he has experie
 They have taught us about sharing, fairness and everyday fighting\. Every second with those little life\-fighters is bless\.
 
 
-![Playing togehter at Bundek\. Photo: AYS](assets/a8a3210a9cfe/1*ImmP6ye6BohqATU0teGDnQ.jpeg)
+![Playing togehter at Bundek\. Photo: AYS](../assets/a8a3210a9cfe/1*ImmP6ye6BohqATU0teGDnQ.jpeg)
 
 Playing togehter at Bundek\. Photo: AYS
 
@@ -170,7 +170,7 @@ Playing togehter at Bundek\. Photo: AYS
 
 
 
-![](assets/a8a3210a9cfe/1*nia59BmvH2VrA37QIZSwNA.jpeg)
+![](../assets/a8a3210a9cfe/1*nia59BmvH2VrA37QIZSwNA.jpeg)
 
 
 **_\(Anamaria Macanović is AYS volunteer\)_**

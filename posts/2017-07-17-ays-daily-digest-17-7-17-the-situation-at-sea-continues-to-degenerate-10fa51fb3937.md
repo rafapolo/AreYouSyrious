@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 17/07/17: The situation at sea continues to degenerate
+title: "AYS Daily Digest 17/07/17: The situation at sea continues to degenerate"
 author: Are You Syrious?
 date: 2017-07-17T23:12:21.728+0100
 last_modified_at: 2017-08-29T17:15:49.493+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,france,italy,greece,lesvos]
 description: Urgent help needed in Iraq / NGO’s announces their withdrawal in Greece / 212 people came to the Greek islands in 48 hours / Protests in…
 image:
-  path: assets/10fa51fb3937/1*ZB4Y37jTSkEDSik-BD4ZZQ.jpeg
+  path: ../assets/10fa51fb3937/1*ZB4Y37jTSkEDSik-BD4ZZQ.jpeg
 ---
 
 ### **AYS Daily Digest 17/07/17: The situation at sea continues to** degenerate
@@ -15,7 +15,7 @@ image:
 _Urgent help needed in Iraq / NGO’s announces their withdrawal in Greece / 212 people came to the Greek islands in 48 hours / Protests in Moria are still on / Refugees in Italy faces discrimination / Upcoming deportation in Denmark / Volunteers needed at several places / And more news…_
 
 
-![NGO’s at sea\. Photo: [The Worldwide Tribe](https://www.facebook.com/profile.php?id=1526014994350929&ref=br_rs)](assets/10fa51fb3937/1*ZB4Y37jTSkEDSik-BD4ZZQ.jpeg)
+![NGO’s at sea\. Photo: [The Worldwide Tribe](https://www.facebook.com/profile.php?id=1526014994350929&ref=br_rs)](../assets/10fa51fb3937/1*ZB4Y37jTSkEDSik-BD4ZZQ.jpeg)
 
 NGO’s at sea\. Photo: [The Worldwide Tribe](https://www.facebook.com/profile.php?id=1526014994350929&ref=br_rs)
 ### Feature
@@ -172,11 +172,11 @@ In Spain, rescue missions are taking form\. At this point [PROEM — AID](https:
 You can get in touch with [Adrian Torres](https://www.facebook.com/adrian.torres.71868964?hc_ref=ARS1nPa5Tz3wkvJi-70CMcg78lC7euSBT8OJFYYrfEL-Fzxpk6PT__mWMoQLWz7uqgs) or at number \+44 7454 906913
 
 
-![](assets/10fa51fb3937/1*ifiPS54WzBM-LuBE3dXwSw.jpeg)
+![](../assets/10fa51fb3937/1*ifiPS54WzBM-LuBE3dXwSw.jpeg)
 
 
 
-![Photos: [Adrian Torres](https://www.facebook.com/adrian.torres.71868964?hc_ref=ARS1nPa5Tz3wkvJi-70CMcg78lC7euSBT8OJFYYrfEL-Fzxpk6PT__mWMoQLWz7uqgs)](assets/10fa51fb3937/1*dG890vSJuTLSFl7XOnt17g.jpeg)
+![Photos: [Adrian Torres](https://www.facebook.com/adrian.torres.71868964?hc_ref=ARS1nPa5Tz3wkvJi-70CMcg78lC7euSBT8OJFYYrfEL-Fzxpk6PT__mWMoQLWz7uqgs)](../assets/10fa51fb3937/1*dG890vSJuTLSFl7XOnt17g.jpeg)
 
 Photos: [Adrian Torres](https://www.facebook.com/adrian.torres.71868964?hc_ref=ARS1nPa5Tz3wkvJi-70CMcg78lC7euSBT8OJFYYrfEL-Fzxpk6PT__mWMoQLWz7uqgs)
 
@@ -185,7 +185,7 @@ Photos: [Adrian Torres](https://www.facebook.com/adrian.torres.71868964?hc_ref=A
 [Calais Action](https://www.facebook.com/calaisaction/) will do an installation at the Edinburgh festival\. It will consist of art from the residents of the Jungle\. Check it out if you visits\.
 
 
-![Photo: [Calais Action](https://www.facebook.com/calaisaction/)](assets/10fa51fb3937/1*_mLwyXZeClNe3Tx8Oh5-Hg.jpeg)
+![Photo: [Calais Action](https://www.facebook.com/calaisaction/)](../assets/10fa51fb3937/1*_mLwyXZeClNe3Tx8Oh5-Hg.jpeg)
 
 Photo: [Calais Action](https://www.facebook.com/calaisaction/)
 #### Italy

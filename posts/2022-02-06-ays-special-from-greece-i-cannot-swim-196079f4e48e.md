@@ -1,5 +1,5 @@
 ---
-title: AYS Special from Greece: “I cannot swim.”
+title: "AYS Special from Greece: “I cannot swim.”"
 author: Are You Syrious?
 date: 2022-02-06T12:52:51.288+0000
 last_modified_at: 2022-02-06T12:52:51.288+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [special,pushbacks,refugees,greece,borders]
 description: Are You Syrious?
 image:
-  path: assets/196079f4e48e/0*BA234mpgGZ3dpQ_U.jpeg
+  path: ../assets/196079f4e48e/0*BA234mpgGZ3dpQ_U.jpeg
 ---
 
 ### AYS Special from Greece: “I cannot swim\.”
 
 
-![](assets/196079f4e48e/0*uBZM4MTaNJZvthYG.jpeg)
+![](../assets/196079f4e48e/0*uBZM4MTaNJZvthYG.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----bf1b1bd091eb-----------------------------------)
@@ -23,7 +23,7 @@ image:
 _Today is a global day of [CommemorAction](https://twitter.com/alarm_phone/status/1486981418626527232) for people who have died, gone missing or forcibly disappeared on their journeys across borders\. In Greece and throughout the world there will be acts of commemoration and resistance at the end of a week that has seen two further reports of violent deaths at the border\._
 
 
-![](assets/196079f4e48e/0*awFLLQWCiz58G-ja.jpeg)
+![](../assets/196079f4e48e/0*awFLLQWCiz58G-ja.jpeg)
 
 
 \(Banner in Athens\. Photo Credit: [International Kurdistan Committee](https://twitter.com/StopPushbacks) \)
@@ -40,11 +40,11 @@ Further reports of [19 deaths](https://www.aa.com.tr/en/europe/germany-urges-pro
 
 
 
-![](assets/196079f4e48e/0*MTU_LdSRt45CKqYr.jpeg)
+![](../assets/196079f4e48e/0*MTU_LdSRt45CKqYr.jpeg)
 
 
 
-![](assets/196079f4e48e/0*BA234mpgGZ3dpQ_U.jpeg)
+![](../assets/196079f4e48e/0*BA234mpgGZ3dpQ_U.jpeg)
 
 
 \(The hilly areas of Evros, between the villages of Aisymi and Megalo Dereio, in mid\-January\. Photo Credit: [Lena K\.](https://twitter.com/lk2015r/status/1489254605712068609/photo/2) \)

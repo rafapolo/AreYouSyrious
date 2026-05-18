@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 13/2/2018: More victims at the gates of Europe
+title: "AYS DAILY DIGEST 13/2/2018: More victims at the gates of Europe"
 author: Are You Syrious?
 date: 2018-02-14T09:48:53.390+0000
 last_modified_at: 2018-03-01T13:31:26.264+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,evros,paris,finland,digest]
 description: Tragedy at Evros River // Help needed in Greece // More people died in Mediterranean this year than last year in the same period or time //…
 image:
-  path: assets/97d954be5ae0/1*G5madcYp4XSnVwcYunirfA.jpeg
+  path: ../assets/97d954be5ae0/1*G5madcYp4XSnVwcYunirfA.jpeg
 ---
 
 ### AYS DAILY DIGEST 13/2/2018: More victims at the gates of Europe
@@ -15,7 +15,7 @@ image:
 Tragedy at Evros River // Help needed in Greece // More people died in Mediterranean this year than last year in the same period or time // At least 20 people have died in the past two years while trying to cross from Italy to France // More people arriving to Bosnia daily, but the borders are closing
 
 
-![Mediterranean Sea, 17 January 2018\. Refugees try to get warm after being rescued by SeaWatch3 rescue boat from an overcrowded wooden boat, 34 miles north of Libya\. Photograph by Giuseppe Carotenuto](assets/97d954be5ae0/1*G5madcYp4XSnVwcYunirfA.jpeg)
+![Mediterranean Sea, 17 January 2018\. Refugees try to get warm after being rescued by SeaWatch3 rescue boat from an overcrowded wooden boat, 34 miles north of Libya\. Photograph by Giuseppe Carotenuto](../assets/97d954be5ae0/1*G5madcYp4XSnVwcYunirfA.jpeg)
 
 Mediterranean Sea, 17 January 2018\. Refugees try to get warm after being rescued by SeaWatch3 rescue boat from an overcrowded wooden boat, 34 miles north of Libya\. Photograph by Giuseppe Carotenuto
 ### Feature
@@ -80,15 +80,15 @@ On Monday night, another Afghan family with small children contacted AYS from th
 They told us that their children are sick\. In the morning, the mother was transported to Vinkovci hospital because of loss of consciousness, and after that, she and other family members were taken by the border police to the policce station at Bajakovo border crossing\.
 
 
-![](assets/97d954be5ae0/1*HdLYhf0UhqY8Ifd6mtIuSQ.jpeg)
+![](../assets/97d954be5ae0/1*HdLYhf0UhqY8Ifd6mtIuSQ.jpeg)
 
 
 
-![](assets/97d954be5ae0/1*dIyAEC_qUd9J_0xY5SyQAg.jpeg)
+![](../assets/97d954be5ae0/1*dIyAEC_qUd9J_0xY5SyQAg.jpeg)
 
 
 
-![](assets/97d954be5ae0/1*E6z43-agXeunZeWkxha6eA.jpeg)
+![](../assets/97d954be5ae0/1*E6z43-agXeunZeWkxha6eA.jpeg)
 
 
 AYS volunteers were on the spot and talked to the police, but did not get access to the family\. It was said that the Red Cross of the town of Županja provided assistance to the family and that they would be transferred to Tovarnik transit center\. From there, the family would supposedly go to Zagreb reception center in Porin if they request asylum, or be forced to leave the country if they don’t\.

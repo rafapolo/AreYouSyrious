@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,italy,greece,human-rights]
 description: Turkey planning to send aid to Mosul / UNHCR concerned about illegal returns to Turkey and lack of information about people’s whereabouts /…
 image:
-  path: assets/16a3b19823b0/1*lxG-E4eb8pS7JgW-O7lMow.jpeg
+  path: ../assets/16a3b19823b0/1*lxG-E4eb8pS7JgW-O7lMow.jpeg
 ---
 
 ### AYS NEWS DIGEST 21/10 — Countless people in dangerous conditions while official processes go steadily — but slowly
@@ -15,7 +15,7 @@ image:
 _Turkey planning to send aid to Mosul / UNHCR concerned about illegal returns to Turkey and lack of information about people’s whereabouts / Anti\-refugee protests announced in Bulgaria / fatal end to many attempted Mediterranean crossings / preparation weekend for the Calais closing / French police determined to clean the streets of tents, leaving hundreds in cold and danger_
 
 
-![Photo: [Care4Calais](https://www.facebook.com/care4calais/photos/a.1046164975416459.1073741829.1046117708754519/1318014918231462/?type=3&theater)](assets/16a3b19823b0/1*lxG-E4eb8pS7JgW-O7lMow.jpeg)
+![Photo: [Care4Calais](https://www.facebook.com/care4calais/photos/a.1046164975416459.1073741829.1046117708754519/1318014918231462/?type=3&theater)](../assets/16a3b19823b0/1*lxG-E4eb8pS7JgW-O7lMow.jpeg)
 
 Photo: [Care4Calais](https://www.facebook.com/care4calais/photos/a.1046164975416459.1073741829.1046117708754519/1318014918231462/?type=3&theater)
 #### TURKEY
@@ -29,7 +29,7 @@ A reception center on the outskirts of Nicosia is being prepared for the 83 Syri
 Two boats arrived to Lesvos on Friday: one with 45 people on board and the other, brought by the Greek coast guard to Skala Sykaminia, with 46 people on board\. Samos marked 75 new registrations\.
 
 
-![Photo: [ERCI](https://www.facebook.com/ercintl/) — Emergency Response Centre International](assets/16a3b19823b0/1*TpzuJRB6zwmAxdkXUCAhdw.jpeg)
+![Photo: [ERCI](https://www.facebook.com/ercintl/) — Emergency Response Centre International](../assets/16a3b19823b0/1*TpzuJRB6zwmAxdkXUCAhdw.jpeg)
 
 Photo: [ERCI](https://www.facebook.com/ercintl/) — Emergency Response Centre International
 
@@ -42,7 +42,7 @@ The UN refugee agency has expressed serious concerns the over illegal treatment 
 The European Commission has signed contracts with 8 NGOs in relation to the refugee crisis in Greece\. These NGOs \(UNHCR, Red Cross and Doctors of the World, Danish Refugee Council, Oxfam, Save the Children, ASB Federal Association and International Rescue Committee Hellas\) will receive about 83 of the 700 million euros that have been earmarked for Greece\. Greece will receive 300 million euros for 2016 in total, 200 million euros for 2017, and a further 200 million euros for 2018 in European funding\. The NGOs will provide food, shelter, medical care, training and protection to refugees\. It is said that the NGOs will coordinate their actions with the Greek government and will recruit people from local communities\. Greek minister Mouzalas noted that “we can manage 50,000 to 60,000 refugees” and estimated that most are in transit\. He also suggested that about 14,000 or 15,000 refugees will be relocated to other European countries\.
 
 
-![Photo: [Through refugee Eyes](https://www.facebook.com/throughrefugeeeyes/)](assets/16a3b19823b0/1*zkR34GbYiCQ1gcxQMiF7Pg.jpeg)
+![Photo: [Through refugee Eyes](https://www.facebook.com/throughrefugeeeyes/)](../assets/16a3b19823b0/1*zkR34GbYiCQ1gcxQMiF7Pg.jpeg)
 
 Photo: [Through refugee Eyes](https://www.facebook.com/throughrefugeeeyes/)
 
@@ -50,17 +50,17 @@ Please find updated information about the asylum interview in Greece on [this li
 #### In Greece, when officials fail, once again the volunteers step in…
 
 
-![[Open Cultural Centre](https://www.facebook.com/OpenCulturalCenter/) in Cherso has been continually working with children in the Mazaraki camp, providing educational, cultural and social content daily for all ages of children staying at the camp\. \(Photo: OCC\)](assets/16a3b19823b0/1*jcKs2ien8PponpgCWvFxww.jpeg)
+![[Open Cultural Centre](https://www.facebook.com/OpenCulturalCenter/) in Cherso has been continually working with children in the Mazaraki camp, providing educational, cultural and social content daily for all ages of children staying at the camp\. \(Photo: OCC\)](../assets/16a3b19823b0/1*jcKs2ien8PponpgCWvFxww.jpeg)
 
 [Open Cultural Centre](https://www.facebook.com/OpenCulturalCenter/) in Cherso has been continually working with children in the Mazaraki camp, providing educational, cultural and social content daily for all ages of children staying at the camp\. \(Photo: OCC\)
 
 
-![Fully restored and furnished cultural centre in Softex is ready to welcome residents for the 13 daily activities organized for children, teenagers and adults \(Photo: [Lo Lucho](https://www.facebook.com/lois.simac.3) \)](assets/16a3b19823b0/1*IqsvV0rImS4jvJPEx8bjnQ.jpeg)
+![Fully restored and furnished cultural centre in Softex is ready to welcome residents for the 13 daily activities organized for children, teenagers and adults \(Photo: [Lo Lucho](https://www.facebook.com/lois.simac.3) \)](../assets/16a3b19823b0/1*IqsvV0rImS4jvJPEx8bjnQ.jpeg)
 
 Fully restored and furnished cultural centre in Softex is ready to welcome residents for the 13 daily activities organized for children, teenagers and adults \(Photo: [Lo Lucho](https://www.facebook.com/lois.simac.3) \)
 
 
-![[The Refugee Support Greece](https://www.facebook.com/RefugeeSupportGreece/) also prepared new space for educational activities of their young residents, who are expected to start studying in new classrooms any day now\. \. \(Photo: [Refugee Support Greece](https://www.facebook.com/RefugeeSupportGreece/) \)](assets/16a3b19823b0/1*uEgD_-InCS2q7SuYqTyCQQ.jpeg)
+![[The Refugee Support Greece](https://www.facebook.com/RefugeeSupportGreece/) also prepared new space for educational activities of their young residents, who are expected to start studying in new classrooms any day now\. \. \(Photo: [Refugee Support Greece](https://www.facebook.com/RefugeeSupportGreece/) \)](../assets/16a3b19823b0/1*uEgD_-InCS2q7SuYqTyCQQ.jpeg)
 
 [The Refugee Support Greece](https://www.facebook.com/RefugeeSupportGreece/) also prepared new space for educational activities of their young residents, who are expected to start studying in new classrooms any day now\. \. \(Photo: [Refugee Support Greece](https://www.facebook.com/RefugeeSupportGreece/) \)
 ### Dictionary for doctors working with refugees
@@ -71,7 +71,7 @@ In 2014, the Swiss Embassy in Greece published as ‘Small dictionary’ in coop
 [Doctors of the World UK](https://www.facebook.com/DoctorsoftheWorldUK/) mobile clinic is leaving London and heading to Greece\. It should arrive in Athens in the next few days\. The clinic’s mobility will allow it to reach the most vulnerable people\. Over the next six months, the clinic will see over 3,000 refugees\.
 
 
-![Photo: Doctors of the world UK](assets/16a3b19823b0/1*vm4zb6XWGaqH-_WBe-4AAg.jpeg)
+![Photo: Doctors of the world UK](../assets/16a3b19823b0/1*vm4zb6XWGaqH-_WBe-4AAg.jpeg)
 
 Photo: Doctors of the world UK
 ### EU — Turkey Statement in pratice
@@ -97,7 +97,7 @@ The protesters who announced gatherings against refugees to be held in Sofia, Va
 
 
 
-![An empty house squatted by the refugees as all camps were full\. \(Photo: RAS\)](assets/16a3b19823b0/1*fTlbG1sZiwPxhWp92bwdDQ.jpeg)
+![An empty house squatted by the refugees as all camps were full\. \(Photo: RAS\)](../assets/16a3b19823b0/1*fTlbG1sZiwPxhWp92bwdDQ.jpeg)
 
 An empty house squatted by the refugees as all camps were full\. \(Photo: RAS\)
 #### AUSTRIA
@@ -116,7 +116,7 @@ The violent intervention of the Libyan Coast Guard caused mass panic on board th
 
 
 
-![Photo: [Sea\-Watch](http://Sea-Watch)](assets/16a3b19823b0/1*FQ014dq0dTgxVvXFpZcraA.jpeg)
+![Photo: [Sea\-Watch](http://Sea-Watch)](../assets/16a3b19823b0/1*FQ014dq0dTgxVvXFpZcraA.jpeg)
 
 Photo: [Sea\-Watch](http://Sea-Watch)
 #### FRANCE
@@ -125,7 +125,7 @@ Photo: [Sea\-Watch](http://Sea-Watch)
 Evictions of the Calais camp’s residents will begin on Monday\. A system for registering camp residents exists but does not cover vulnerable people\. Starting on Monday, 60 buses will be provided to transport 3000 people, with a 45 buses on Tuesday for a further 2400 people, and 40 on Wednesday for 2000 people\. The buses will take refugees to accommodation centres across France \(CAO\) \.
 
 
-![Mobile registration offices set up by the officials in Calais \(Photo: [Calais Actio](https://www.facebook.com/calaisaction/) n\)](assets/16a3b19823b0/1*Gjgz195IJzO-_I2pQRMu9A.jpeg)
+![Mobile registration offices set up by the officials in Calais \(Photo: [Calais Actio](https://www.facebook.com/calaisaction/) n\)](../assets/16a3b19823b0/1*Gjgz195IJzO-_I2pQRMu9A.jpeg)
 
 Mobile registration offices set up by the officials in Calais \(Photo: [Calais Actio](https://www.facebook.com/calaisaction/) n\)
 
@@ -136,7 +136,7 @@ Calais kitchen teams will continue distributing food and supporting people throu
 Starting on Friday and all over the weekend, Care4Calais teams of volunteers, together with interpreters, are going around the camp to prepare people by giving them as much information as possible and distributing the many backpacks and travel bags their donors have sent in\. They are working hard to minimize shock, resistance and panic on Monday\.
 
 
-![[L’Auberge des Migrants](https://www.facebook.com/LAuberge-des-Migrants-358496450338/?fref=nf) volunteers are distributing contact cards to the Jungle residents, hoping to be able to continue helping all those whom they’ve accompanied during their time in Calais\. There is now also [Info CAO Refugees page](https://www.facebook.com/infoCAOrefugees/?fref=ts&hc_location=ufi) \.](assets/16a3b19823b0/1*iZxfEvWIlRqeC-OOz-BMCA.jpeg)
+![[L’Auberge des Migrants](https://www.facebook.com/LAuberge-des-Migrants-358496450338/?fref=nf) volunteers are distributing contact cards to the Jungle residents, hoping to be able to continue helping all those whom they’ve accompanied during their time in Calais\. There is now also [Info CAO Refugees page](https://www.facebook.com/infoCAOrefugees/?fref=ts&hc_location=ufi) \.](../assets/16a3b19823b0/1*iZxfEvWIlRqeC-OOz-BMCA.jpeg)
 
 [L’Auberge des Migrants](https://www.facebook.com/LAuberge-des-Migrants-358496450338/?fref=nf) volunteers are distributing contact cards to the Jungle residents, hoping to be able to continue helping all those whom they’ve accompanied during their time in Calais\. There is now also [Info CAO Refugees page](https://www.facebook.com/infoCAOrefugees/?fref=ts&hc_location=ufi) \.
 #### Paris
@@ -144,7 +144,7 @@ Starting on Friday and all over the weekend, Care4Calais teams of volunteers, to
 A desperate situation has unfolded in the past few days, as officials move to evict the provisional campsites in the city, throwing away the tents with few private posessions these people have with them\. Volunteers present in the areas where refugees tried to find shelter are exhausting all sources of help and possible accomodation\. Families with small children are treated no better than anyone else\. Long after being thrown out of their temporary sleeping place, they were left standing outside in the cold with no official organization coming to their aid, volunteers claim\.
 
 
-![Photo: Danika Jurisic](assets/16a3b19823b0/1*JDnq43fJfK4gBR58NeDxnw.jpeg)
+![Photo: Danika Jurisic](../assets/16a3b19823b0/1*JDnq43fJfK4gBR58NeDxnw.jpeg)
 
 Photo: Danika Jurisic
 
@@ -174,7 +174,7 @@ An idea came up to set up a library at one of the Elliniko camps\. If anyone has
 [**Samos Volunteers**](https://www.facebook.com/samosvolunteers/) have witnessed a spike in the number of new arrivals this October, and the camp population has almost double in one month\. If you can make a donation in cash or in kind then check out their [site](https://samosvolunteers.org/) for more info\.
 
 
-![](assets/16a3b19823b0/1*Ui4BVD1ub_dE-lx-0RzJaw.jpeg)
+![](../assets/16a3b19823b0/1*Ui4BVD1ub_dE-lx-0RzJaw.jpeg)
 
 
 

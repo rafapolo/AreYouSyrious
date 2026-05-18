@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 27/04/2022: Proof of Frontex Pushbacks
+title: "AYS News Digest 27/04/2022: Proof of Frontex Pushbacks"
 author: Are You Syrious?
 date: 2022-04-28T09:37:57.660+0100
 last_modified_at: 2022-04-29T09:17:15.604+0100
@@ -7,7 +7,7 @@ categories:
 tags: [digest,newsdigest,humanrights,frontex]
 description: Stateless people from Ukraine are facing rejection and homelessness // Dutch court rules against Croatia deportations // Claim asylum from…
 image:
-  path: assets/5bf96303f605/0*yyb5lT4Xq4x_TgBM
+  path: ../assets/5bf96303f605/0*yyb5lT4Xq4x_TgBM
 ---
 
 ### AYS News Digest 27/04/2022: Proof of Frontex Pushbacks
@@ -15,7 +15,7 @@ image:
 ### FEATURE
 
 
-![](assets/5bf96303f605/0*yyb5lT4Xq4x_TgBM)
+![](../assets/5bf96303f605/0*yyb5lT4Xq4x_TgBM)
 
 ### PROOF OF FRONTEX PUSHBACKS
 
@@ -51,7 +51,7 @@ In Patras, the work of No Name Kitchen in Greece is expanding with a new warehou
 #### ITALY
 
 
-![Photo Credit: [Twitter](https://twitter.com/NFratoianni/status/1519333523068444672?fbclid=IwAR3qJS0lhV8sp28TyqfNXDXP1pe-d3ar5hNKD6Gku5jYMmES3yLBXLLl6tk)](assets/5bf96303f605/0*nCy8cBzhcz9lcRoW)
+![Photo Credit: [Twitter](https://twitter.com/NFratoianni/status/1519333523068444672?fbclid=IwAR3qJS0lhV8sp28TyqfNXDXP1pe-d3ar5hNKD6Gku5jYMmES3yLBXLLl6tk)](../assets/5bf96303f605/0*nCy8cBzhcz9lcRoW)
 
 Photo Credit: [Twitter](https://twitter.com/NFratoianni/status/1519333523068444672?fbclid=IwAR3qJS0lhV8sp28TyqfNXDXP1pe-d3ar5hNKD6Gku5jYMmES3yLBXLLl6tk)
 
@@ -70,7 +70,7 @@ After the breakdown of the Soviet Union, some people became stateless due to rac
 #### POLAND
 
 
-![](assets/5bf96303f605/1*TyGhF9tOUhHEyiskhlF7ow.png)
+![](../assets/5bf96303f605/1*TyGhF9tOUhHEyiskhlF7ow.png)
 
 
 [Five residents at the Lesznowola centre](https://m.facebook.com/story.php?story_fbid=141121025121492&id=102401152326813&m_entstream_source=timeline&tn=%2As%2As-R) in Poland are on hunger strike\.

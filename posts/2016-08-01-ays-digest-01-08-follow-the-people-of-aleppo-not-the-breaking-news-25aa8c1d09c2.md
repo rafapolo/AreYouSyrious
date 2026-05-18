@@ -1,5 +1,5 @@
 ---
-title: AYS digest 01/08: Follow the people of Aleppo, not the breaking news
+title: "AYS digest 01/08: Follow the people of Aleppo, not the breaking news"
 author: Are You Syrious?
 date: 2016-08-01T21:06:03.489+0100
 last_modified_at: 2016-08-02T08:40:36.382+0100
@@ -7,7 +7,7 @@ categories:
 tags: [syria,refugees,aleppo,lesvos,greece]
 description: Syrians tirelessly trying to break the siege of Aleppo. Yemen on the brink of a peace deal. Turkey threatening once again to break the…
 image:
-  path: assets/25aa8c1d09c2/1*qLbIEpv7GmyUo-4Wwvv-Aw.jpeg
+  path: ../assets/25aa8c1d09c2/1*qLbIEpv7GmyUo-4Wwvv-Aw.jpeg
 ---
 
 ### AYS digest 01/08: Follow the people of Aleppo, not the breaking news
@@ -15,7 +15,7 @@ image:
 _Syrians tirelessly trying to break the siege of Aleppo\. Yemen on the brink of a peace deal\. Turkey threatening once again to break the fragile EU/Turkey deal\. A family with a newborn coming needs accommodation in Greece\. Large pre\-registration process in Greece has come to an end\. Poems of war and refuge in Lesvos\._
 
 
-![Protests in the streets of Aleppo demanding the end of the siege\. Photo: Free SyriaSalam](assets/25aa8c1d09c2/1*qLbIEpv7GmyUo-4Wwvv-Aw.jpeg)
+![Protests in the streets of Aleppo demanding the end of the siege\. Photo: Free SyriaSalam](../assets/25aa8c1d09c2/1*qLbIEpv7GmyUo-4Wwvv-Aw.jpeg)
 
 Protests in the streets of Aleppo demanding the end of the siege\. Photo: Free SyriaSalam
 #### Syria
@@ -26,7 +26,7 @@ As many news outlets have reported today, Syrian rebels have launched an offensi
 It is not a coincidence that media is finally paying attention to this since many activists on the ground and around the world are spreading the news about this long\-ignored situation as it happens\.
 
 
-![Aleppo burning \(tires\)](assets/25aa8c1d09c2/1*2GHjTCEVlY7K0wJAyHr2-g.jpeg)
+![Aleppo burning \(tires\)](../assets/25aa8c1d09c2/1*2GHjTCEVlY7K0wJAyHr2-g.jpeg)
 
 Aleppo burning \(tires\)
 ### **Share the news about people’s needs and demands in Aleppo\! Follow their stories**
@@ -34,7 +34,7 @@ Aleppo burning \(tires\)
 Campaigns on twitter, FB and other social networks helped to spread the word about people on the ground organizing with all their might to break the siege\. After begging the international community for years in vain, the citizens of Aleppo have created their own no\-fly zone by burning tires\. In addition to burning tires, there are also reports of civilians are gathering in the street to protest the siege\. Aleppo is in chaos right now and we urge the media to report more on this popular movement inside the city\. We hope that this could be the beginning of the end of the siege\.
 
 
-![Boys of Aleppo\. Photo\. Free SyriaSalam](assets/25aa8c1d09c2/1*q5BDHTL2t0jYSXpniErf9Q.jpeg)
+![Boys of Aleppo\. Photo\. Free SyriaSalam](../assets/25aa8c1d09c2/1*q5BDHTL2t0jYSXpniErf9Q.jpeg)
 
 Boys of Aleppo\. Photo\. Free SyriaSalam
 #### Yemen
@@ -66,7 +66,7 @@ There is a call for help to accommodate a Syrian family as mother is about to gi
 In somewhat brighter news, today the Lesvos Solidarity — Pipka team published pictures of their Today photographs and poems exhibition\. “These poems were written by our very own residents — Hoda and Shamshaid Jutt\. Please read their amazing poems and applaud them for their honesty and creativity\.” If you’d like to move towards some more poetic forms of reporting from the ground, go to the Lesvos Solidarity — Pipka FB page\.
 
 
-![](assets/25aa8c1d09c2/1*lLIgU1dK0Rx7ynvvbvLA2Q.jpeg)
+![](../assets/25aa8c1d09c2/1*lLIgU1dK0Rx7ynvvbvLA2Q.jpeg)
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 13/8/22: Systematic violence on the border between Hungary and Serbia
+title: "AYS News Digest 13/8/22: Systematic violence on the border between Hungary and Serbia"
 author: Are You Syrious?
 date: 2022-08-14T20:29:00.792+0100
 last_modified_at: 2022-08-14T21:01:55.030+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [news,european-union,borders,digest,human-rights-violations]
 description: Human rights violations across Greece, another child in critical condition on Greek territory while pushbacks continue in the Aegean / 35…
 image:
-  path: assets/5ab6526f1082/0*6YocVyyVx0-nJLpz
+  path: ../assets/5ab6526f1082/0*6YocVyyVx0-nJLpz
 ---
 
 ### AYS News Digest 13/8/22: Systematic violence on the border between Hungary and Serbia
 #### Human rights violations across Greece, another child in critical condition on Greek territory while pushbacks continue in the Aegean / 35 people injured out of 49 after truck tips over in North Macedonia / Migrants in the UK victims of immigration scams / In other news, people rescued at sea finally reach safety
 
 
-![The Hungarian\-Serbian border fence\. Photo: Wikimedia/Délmagyarország/Schmidt Andrea\.](assets/5ab6526f1082/0*6YocVyyVx0-nJLpz)
+![The Hungarian\-Serbian border fence\. Photo: Wikimedia/Délmagyarország/Schmidt Andrea\.](../assets/5ab6526f1082/0*6YocVyyVx0-nJLpz)
 
 The Hungarian\-Serbian border fence\. Photo: Wikimedia/Délmagyarország/Schmidt Andrea\.
 #### **HUNGARY**

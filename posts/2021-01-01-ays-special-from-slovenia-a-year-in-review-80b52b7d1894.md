@@ -1,5 +1,5 @@
 ---
-title: AYS Special from Slovenia: A year in review
+title: "AYS Special from Slovenia: A year in review"
 author: Are You Syrious?
 date: 2021-01-01T19:59:58.064+0000
 last_modified_at: 2021-01-01T19:59:58.064+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: []
 description: Are You Syrious?
 image:
-  path: assets/80b52b7d1894/0*9E5LM8C1n2ixJw0v.jpeg
+  path: ../assets/80b52b7d1894/0*9E5LM8C1n2ixJw0v.jpeg
 ---
 
 ### AYS Special from Slovenia: A year in review
@@ -19,7 +19,7 @@ image:
 _The last weeks of 2020 saw two women giving birth in the forests of Slovenia\. One child did not survive\. The fact that refugee families are delivering babies in the forest while on a long trek towards the European Union barely made the news, and neither did the question as to why a family with small children would be avoiding the law enforcement of an EU & Schengen member state\. Those families were hiding\. A central European winter in a forest seemed more humane than European police\._
 
 
-![](assets/80b52b7d1894/0*9E5LM8C1n2ixJw0v.jpeg)
+![](../assets/80b52b7d1894/0*9E5LM8C1n2ixJw0v.jpeg)
 
 
 \(Photo Credit: InfoKolpa\)
@@ -214,7 +214,7 @@ In 2020, we distributed dozens of smartphones, as well as other forms of humanit
 Daily news digests from the field, for volunteers, people on the move, journalists, and the general public\. [Take a look](https://medium.com/are-you-syrious/newsletters/ays-daily-newsletter?source=newsletter_v3_promo--------------------------newsletter_v3_promo-----------)
 
 
-![](assets/80b52b7d1894/0*e1w8cOeCLpt7hR-S.jpeg)
+![](../assets/80b52b7d1894/0*e1w8cOeCLpt7hR-S.jpeg)
 
 
 

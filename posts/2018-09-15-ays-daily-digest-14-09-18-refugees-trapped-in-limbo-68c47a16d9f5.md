@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 14/09/18: Refugees trapped in limbo
+title: "AYS DAILY DIGEST 14/09/18: Refugees trapped in limbo"
 author: Are You Syrious?
 date: 2018-09-15T11:37:23.757+0100
 last_modified_at: 2018-09-15T12:05:10.831+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest]
 description: Help and donations needed in Sarajevo//15 asylum-seekers detained at Belgrade airport//Overcrowding issues continue on Greek…
 image:
-  path: assets/68c47a16d9f5/0*3etigvbbCWwKksRV
+  path: ../assets/68c47a16d9f5/0*3etigvbbCWwKksRV
 ---
 
 ### AYS DAILY DIGEST 14/09/18: Refugees trapped in limbo
@@ -15,7 +15,7 @@ image:
 _Help and donations needed in Sarajevo//15 asylum\-seekers detained at Belgrade airport//Overcrowding issues continue on Greek islands//Police continues to crack down on people at the Moroccan coast//No food in Libyan detention centre//_
 
 
-![Photo by Ihab Abassi](assets/68c47a16d9f5/0*3etigvbbCWwKksRV)
+![Photo by Ihab Abassi](../assets/68c47a16d9f5/0*3etigvbbCWwKksRV)
 
 Photo by Ihab Abassi
 #### Greece
@@ -30,12 +30,12 @@ Photo by Ihab Abassi
 With winter arriving, the same issues as always risk plaguing Lesvos: overcrowding and inadequate preparation for the cold\. Will winter come as a big surprise once again this year?
 
 
-![Photo by Ihab Abassi](assets/68c47a16d9f5/0*vGd7Fcf7FPMGuz1U)
+![Photo by Ihab Abassi](../assets/68c47a16d9f5/0*vGd7Fcf7FPMGuz1U)
 
 Photo by Ihab Abassi
 
 
-![Photo by Ihab Abassi](assets/68c47a16d9f5/0*3etigvbbCWwKksRV)
+![Photo by Ihab Abassi](../assets/68c47a16d9f5/0*3etigvbbCWwKksRV)
 
 Photo by Ihab Abassi
 
@@ -44,7 +44,7 @@ In case you want to migitate this big surprise, you can help by donating urgent 
 ### Help and donations needed in Sarajevo
 
 
-![](assets/68c47a16d9f5/0*s_ZZYyiD-xjzOzFz)
+![](../assets/68c47a16d9f5/0*s_ZZYyiD-xjzOzFz)
 
 
 **Several hundreds of people are sleeping in the streets of Sarajevo at the moment** , many of them vulnerable\. More people are coming almost every day\. **Help and donations are needed** , including socks, clothes, and shoes, mostly for men, and blankets or sleeping bags\. If you can help, please contact [Souls of Sarajevo\.](https://www.facebook.com/soulsofsarajevo/)
@@ -64,13 +64,13 @@ The Belgrade Centre for Human Rights says it is not possible to assess the capac
 
 
 
-![](assets/68c47a16d9f5/0*1deprHUzO7reP6RT)
+![](../assets/68c47a16d9f5/0*1deprHUzO7reP6RT)
 
 #### Italy
 ### Volunteers needed in Ventimiglia
 
 
-![Photo by Kesha Niya](assets/68c47a16d9f5/0*DHdfoPgP2OQnOSk5)
+![Photo by Kesha Niya](../assets/68c47a16d9f5/0*DHdfoPgP2OQnOSk5)
 
 Photo by Kesha Niya
 
@@ -91,7 +91,7 @@ On Friday, protests took place in front of UNHCR in London ,calling for Eritrean
 **The [Association Marocaine des Droits Humains](https://www.facebook.com/AmdhNador/?hc_ref=ARTxHvqL-zuANWLwaNPQD_au0oOW6AiskLrCbJEwqlx2Vt_tBhQaFCKCDDkl2rAhyUI&fref=nf&hc_location=group) continues to report on police violence in Morocco as authorities crack down on migrants along the coast** to bring them to the interior of the country in order to prevent them from leaving for Europe\. S **everal people are in the Tanger hospital with fractures to the knees, hands and feet due to police violence** \. Despite this, people continue to risk their lives trying to reach the EU\. At least two bodies were found along the Nador coast on Thursday\.
 
 
-![Photo by [Association Marocaine des Droits Humains](https://www.facebook.com/AmdhNador/?hc_ref=ARTxHvqL-zuANWLwaNPQD_au0oOW6AiskLrCbJEwqlx2Vt_tBhQaFCKCDDkl2rAhyUI&fref=nf&hc_location=group)](assets/68c47a16d9f5/0*nlD9vC0pnAYBRK1t)
+![Photo by [Association Marocaine des Droits Humains](https://www.facebook.com/AmdhNador/?hc_ref=ARTxHvqL-zuANWLwaNPQD_au0oOW6AiskLrCbJEwqlx2Vt_tBhQaFCKCDDkl2rAhyUI&fref=nf&hc_location=group)](../assets/68c47a16d9f5/0*nlD9vC0pnAYBRK1t)
 
 Photo by [Association Marocaine des Droits Humains](https://www.facebook.com/AmdhNador/?hc_ref=ARTxHvqL-zuANWLwaNPQD_au0oOW6AiskLrCbJEwqlx2Vt_tBhQaFCKCDDkl2rAhyUI&fref=nf&hc_location=group)
 #### Denmark

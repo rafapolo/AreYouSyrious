@@ -1,5 +1,5 @@
 ---
-title: AYS NEWS DIGEST 16.02.17 — Enforcement of Dublin Regulations for Greece: What does this mean?
+title: "AYS NEWS DIGEST 16.02.17 — Enforcement of Dublin Regulations for Greece: What does this mean?"
 author: Are You Syrious?
 date: 2017-02-17T01:05:00.349+0000
 last_modified_at: 2017-02-17T17:08:45.621+0000
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe,european-union,greece,paris]
 description: Feature
 image:
-  path: assets/b67d9282a929/1*5RWu_HPMT-ENJWKwIrrj-A.jpeg
+  path: ../assets/b67d9282a929/1*5RWu_HPMT-ENJWKwIrrj-A.jpeg
 ---
 
 ### AYS NEWS DIGEST 16\.02\.17 — Enforcement of Dublin Regulations for Greece: What does this mean?
 
 
-![](assets/b67d9282a929/1*5RWu_HPMT-ENJWKwIrrj-A.jpeg)
+![](../assets/b67d9282a929/1*5RWu_HPMT-ENJWKwIrrj-A.jpeg)
 
 #### Feature
 
@@ -31,7 +31,7 @@ On December 8, 2016, the EU Commission recommended that Greece begin enforcing t
 #### Greece
 
 
-![Vaccinations are brought up to speed\. Photo Credit: Lsvos Solidarity — Pipka](assets/b67d9282a929/1*fjRbiWcf0LS69BhiP4mRLQ.jpeg)
+![Vaccinations are brought up to speed\. Photo Credit: Lsvos Solidarity — Pipka](../assets/b67d9282a929/1*fjRbiWcf0LS69BhiP4mRLQ.jpeg)
 
 Vaccinations are brought up to speed\. Photo Credit: Lsvos Solidarity — Pipka
 ### Greek authorities expedite asylum process for Pakistani refugees

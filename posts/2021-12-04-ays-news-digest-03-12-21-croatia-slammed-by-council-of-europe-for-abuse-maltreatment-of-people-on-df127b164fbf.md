@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 03/12/21: Croatia slammed by Council of Europe for abuse, maltreatment of people on…
+title: "AYS News Digest 03/12/21: Croatia slammed by Council of Europe for abuse, maltreatment of people on…"
 author: Are You Syrious?
 date: 2021-12-04T18:26:05.146+0000
 last_modified_at: 2021-12-04T18:26:05.146+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migration,croatia,torture]
 description: Two people drown off Kos, Greece // Italian activist faces extradition from France // German court says people face “degrading treatment”…
 image:
-  path: assets/df127b164fbf/0*x-olklKRM7HNkoKC.png
+  path: ../assets/df127b164fbf/0*x-olklKRM7HNkoKC.png
 ---
 
 ### AYS News Digest 03/12/21: Croatia slammed by Council of Europe for abuse, maltreatment of people on the move
 ### Two people drown off Kos, Greece // Italian activist faces extradition from France // German court says people face “degrading treatment” in Greece // Frontex officer says Frontex in Greece “complicit” in rights violations
 
 
-![](assets/df127b164fbf/0*qsWpniygKCTOLFZ5.jpeg)
+![](../assets/df127b164fbf/0*qsWpniygKCTOLFZ5.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----808d6baa3e25-----------------------------------)
@@ -23,11 +23,11 @@ image:
 ### FEATURE — Council of Europe’s anti\-torture committee releases damning report on Croatia’s treatment of people on the move
 
 
-![](assets/df127b164fbf/0*KMtRV_UhXjOG5Yhy)
+![](../assets/df127b164fbf/0*KMtRV_UhXjOG5Yhy)
 
 
 
-![](assets/df127b164fbf/0*x-olklKRM7HNkoKC.png)
+![](../assets/df127b164fbf/0*x-olklKRM7HNkoKC.png)
 
 
 The anti\-torture committee of the Council of Europe published a [39\-page report](https://rm.coe.int/1680a4c199) this week on the treatment of people on the move by Croatian authorities in which it made one central fact abundantly clear: allegations by people on the move of brutality, imprisonment, torture and pushbacks suffered at the hands of Croatian authorities _are credible and bear weight\._
@@ -183,7 +183,7 @@ The plane landed in Lille, in northern France, and is equipped with modern senso
 ### A reminder from Care4Calais…
 
 
-![](assets/df127b164fbf/0*XLWAyPbR0MbqLIL6.png)
+![](../assets/df127b164fbf/0*XLWAyPbR0MbqLIL6.png)
 
 ### IRELAND
 ### Path for citizenship in Ireland announced

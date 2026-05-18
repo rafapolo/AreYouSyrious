@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest Monday 18/7/2022–300 asylum seekers sleep outside: Netherlands
+title: "AYS News Digest Monday 18/7/2022–300 asylum seekers sleep outside: Netherlands"
 author: Are You Syrious?
 date: 2022-07-19T16:41:06.129+0100
 last_modified_at: 2022-07-19T18:10:13.121+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,newsdigest,frontex,uk-politics,refugees]
 description: Heatwave impacts Belgium // Greek online platform for registering asylum applications is now available // 19 people face jail in Italy //…
 image:
-  path: assets/cf8c834c1806/0*wOWutz_byLDdytHj.jpg
+  path: ../assets/cf8c834c1806/0*wOWutz_byLDdytHj.jpg
 ---
 
 ### AYS News Digest Monday 18/7/2022–300 asylum seekers sleep outside: Netherlands
@@ -16,7 +16,7 @@ Heatwave impacts Belgium // Greek online platform for registering asylum applica
 #### FEATURE
 
 
-![Photo Credit: [Plaatsengids](https://www.plaatsengids.nl/ter-apel)](assets/cf8c834c1806/0*wOWutz_byLDdytHj.jpg)
+![Photo Credit: [Plaatsengids](https://www.plaatsengids.nl/ter-apel)](../assets/cf8c834c1806/0*wOWutz_byLDdytHj.jpg)
 
 Photo Credit: [Plaatsengids](https://www.plaatsengids.nl/ter-apel)
 #### **NETHERLANDS**
@@ -43,7 +43,7 @@ Despite the fact that COA had found a total of 300 sleeping places in nearby mun
 The situation is expected to get worse in the next few days as the Klein Kasteeltje will be closed from Wednesday afternoon to Monday morning leaving people with no ways of registering their applications or any shelter\.
 
 
-![Photo Credit: [Via Facebook](https://www.facebook.com/riet.dhont/posts/pfbid07MgBdCGtimJ4uAY6JSySne4E2UpD6iGdRK4eX6vfVYsnLiKaeavajBHq42D4eGr8l)](assets/cf8c834c1806/0*D3mbCd_HVIr_X7hi)
+![Photo Credit: [Via Facebook](https://www.facebook.com/riet.dhont/posts/pfbid07MgBdCGtimJ4uAY6JSySne4E2UpD6iGdRK4eX6vfVYsnLiKaeavajBHq42D4eGr8l)](../assets/cf8c834c1806/0*D3mbCd_HVIr_X7hi)
 
 Photo Credit: [Via Facebook](https://www.facebook.com/riet.dhont/posts/pfbid07MgBdCGtimJ4uAY6JSySne4E2UpD6iGdRK4eX6vfVYsnLiKaeavajBHq42D4eGr8l)
 #### SEA/SAR

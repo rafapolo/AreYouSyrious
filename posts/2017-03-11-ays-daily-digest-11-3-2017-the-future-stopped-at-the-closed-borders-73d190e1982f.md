@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 11/3/2017: The future stopped at the closed borders
+title: "AYS DAILY DIGEST 11/3/2017: The future stopped at the closed borders"
 author: Are You Syrious?
 date: 2017-03-11T23:25:39.349+0000
 last_modified_at: 2017-12-15T20:03:36.880+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,lesvos,police-violence,children-refugees]
 description: Children deprived of education, shelter and safety in Europe // Police violence against refugees and intimidations against those who…
 image:
-  path: assets/73d190e1982f/1*xGvr-opFRKjAv9w6srOqjw.jpeg
+  path: ../assets/73d190e1982f/1*xGvr-opFRKjAv9w6srOqjw.jpeg
 ---
 
 ### AYS DAILY DIGEST 11/3/2017: The future stopped at the closed borders
@@ -15,7 +15,7 @@ image:
 _Children deprived of education, shelter and safety in Europe // Police violence against refugees and intimidations against those who support them in Greece, Serbia, and Italy // Artists in France and Finland against oppressive government policies // Europe is still showing its ugliest face to the rest of the world_
 
 
-![European Anthem, By Tjeerd Royaards\. [Art Against\.](https://www.facebook.com/artagainstproject/)](assets/73d190e1982f/1*xGvr-opFRKjAv9w6srOqjw.jpeg)
+![European Anthem, By Tjeerd Royaards\. [Art Against\.](https://www.facebook.com/artagainstproject/)](../assets/73d190e1982f/1*xGvr-opFRKjAv9w6srOqjw.jpeg)
 
 European Anthem, By Tjeerd Royaards\. [Art Against\.](https://www.facebook.com/artagainstproject/)
 ### FEATURE: Children forgotten by Europe
@@ -60,7 +60,7 @@ All new arrivals have to stay on islands, in closed centers, with restricted fre
 We received disturbing information from various sources at islands\. The most disturbing comes from friends in [No Border Kitchen Lesvos](https://www.facebook.com/NBKLesvos/) and it is about continuous police violence against refugees on this island\. As they report; _“every day on this island people are controlled, harassed, humiliated insulted and beaten\.”_
 
 
-![Another victim of police violence\. By No Border Kitchen Lesvos\.](assets/73d190e1982f/1*tLrJza6NHqZKwHwZ-ntZAg.jpeg)
+![Another victim of police violence\. By No Border Kitchen Lesvos\.](../assets/73d190e1982f/1*tLrJza6NHqZKwHwZ-ntZAg.jpeg)
 
 Another victim of police violence\. By No Border Kitchen Lesvos\.
 
@@ -116,7 +116,7 @@ _Farsi/Dari\-speakers in Athens area can call from Monday to Thursday \(always b
 Dirty Girls help protect the environment and care for people\. You too can be a Dirty Girl Environmental Protector\. To become one, visit their FB page for more info\.
 
 
-![Dirty Girls of Lesvos\.](assets/73d190e1982f/1*yAvg1_i35HPc2jOR8GGI9A.jpeg)
+![Dirty Girls of Lesvos\.](../assets/73d190e1982f/1*yAvg1_i35HPc2jOR8GGI9A.jpeg)
 
 Dirty Girls of Lesvos\.
 
@@ -132,7 +132,7 @@ The new plan is to create a caffe\. All the spaces are designed by professionals
 
 
 
-![The Worldwide Tribe](assets/73d190e1982f/1*6sctC1dpTJe4AtmzuN-U8Q.jpeg)
+![The Worldwide Tribe](../assets/73d190e1982f/1*6sctC1dpTJe4AtmzuN-U8Q.jpeg)
 
 The Worldwide Tribe
 ### Serbia
@@ -185,7 +185,7 @@ Yesterday we reported about the coordinated police raid in Subotica, and today w
 ### Calls for solidarity
 
 
-![](assets/73d190e1982f/1*j8jVOZaf7Fk4VbVcMIz_4w.jpeg)
+![](../assets/73d190e1982f/1*j8jVOZaf7Fk4VbVcMIz_4w.jpeg)
 
 
 The [SouldWelders](https://www.facebook.com/SoulWelders/) group need help, too\. They are getting 1\.000 meter distribution warehouse operational in Belgrade, and to do that they need donor aid charities to support them financially\. They also need volunteers skilled in joinery, plumbing, distribution, but would not mind if you come just to help them to muck in and clean, paint and shift things around\.
@@ -220,15 +220,15 @@ Meanwhile, more reports about beatings from Hungary and Macedonia are arriving, 
 Beautiful action by an the artists in Paris continues\. Today more people came to work together on stones left by the police to prevent people from sleeping under the bridge, and to transform them into something more beautiful, but also to inscribing messages and faces of refugees on them\.
 
 
-![](assets/73d190e1982f/1*KoB8jMtxNXA5zp5E9mo_wg.jpeg)
+![](../assets/73d190e1982f/1*KoB8jMtxNXA5zp5E9mo_wg.jpeg)
 
 
 
-![](assets/73d190e1982f/1*bFWgpfJiv2WEuEoFV-CB4g.jpeg)
+![](../assets/73d190e1982f/1*bFWgpfJiv2WEuEoFV-CB4g.jpeg)
 
 
 
-![By Comite de soutien des Migrants de la Chapell\.](assets/73d190e1982f/1*nJI7yhyqEUJA11reVcvixA.jpeg)
+![By Comite de soutien des Migrants de la Chapell\.](../assets/73d190e1982f/1*nJI7yhyqEUJA11reVcvixA.jpeg)
 
 By Comite de soutien des Migrants de la Chapell\.
 ### Finland
@@ -237,7 +237,7 @@ By Comite de soutien des Migrants de la Chapell\.
 One of the biggest art museums in Finland raised art piece by graffiti artist EGSin called Europe’s Greatest Shame\. [This project is part of the declaration](http://www.hs.fi/kaupunki/art-2000005121739.html) of the Finnish immigration policy by artists and culture professionals signed by over 10\.000 people\.
 
 
-![](assets/73d190e1982f/1*hnhn27MMKpxidTPIGb8GDg.jpeg)
+![](../assets/73d190e1982f/1*hnhn27MMKpxidTPIGb8GDg.jpeg)
 
 
 _“We, the artists and culture professionals, share the same concern in regard to the Finnish immigration policy\. We have seen how the time limits for appeals on asylum decisions have been shortened, the criteria for granting asylum have been tightened and family reunification has been made more difficult\. The grounds for asylum decisions have often been insufficient\. Erroneous decisions create human tragedies\. Little by little, these decisions may become a threat to peace within society and create distrust towards the system and the Finnish authorities\. The policies will create a group of paperless people who may become subjected to crime and exploitation\. Policy based on humanitarian values could prevent this\.”_
@@ -258,7 +258,7 @@ The new project is being launched in UK — [Springboard Youth Academy](https://
 
 
 
-![The Feet of a refugee to get to Europe\. By [Gabriel Tizoni](https://www.facebook.com/gabrieltizonfotografo/photos/a.213760148669815.51627.213743695338127/1325635820815570/?type=3&theater) \.](assets/73d190e1982f/1*XECWw4CljoH4pl2kXoyepQ.jpeg)
+![The Feet of a refugee to get to Europe\. By [Gabriel Tizoni](https://www.facebook.com/gabrieltizonfotografo/photos/a.213760148669815.51627.213743695338127/1325635820815570/?type=3&theater) \.](../assets/73d190e1982f/1*XECWw4CljoH4pl2kXoyepQ.jpeg)
 
 The Feet of a refugee to get to Europe\. By [Gabriel Tizoni](https://www.facebook.com/gabrieltizonfotografo/photos/a.213760148669815.51627.213743695338127/1325635820815570/?type=3&theater) \.
 

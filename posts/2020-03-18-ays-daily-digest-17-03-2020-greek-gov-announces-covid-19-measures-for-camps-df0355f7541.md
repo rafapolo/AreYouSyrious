@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,greece,germany,digest,coronavirus]
 description: 49 people returned to Libya after reaching Maltese waters // emergency shelters will be provided in the Netherlands // measures to…
 image:
-  path: assets/df0355f7541/1*N-eA8OzBe51Buxxd5EbNVA.jpeg
+  path: ../assets/df0355f7541/1*N-eA8OzBe51Buxxd5EbNVA.jpeg
 ---
 
 ### AYS Daily Digest 17/03/2020 Greek Gov\. announces COVID\-19 measures for camps
@@ -15,11 +15,11 @@ image:
 _49 people returned to Libya after reaching Maltese waters // emergency shelters will be provided in the Netherlands // measures to restrict movement of refugees in Serbia // and more…_
 
 
-![](assets/df0355f7541/1*L5yfqXkhmFV7OwifPoopBg.jpeg)
+![](../assets/df0355f7541/1*L5yfqXkhmFV7OwifPoopBg.jpeg)
 
 
 
-![[The cause of the fire](http://www.ekathimerini.com/250715/article/ekathimerini/news/cooker-seen-behind-deadly-blaze-at-moria-camp?fbclid=IwAR0BtkiJd6JdTBPUJgdWVoXLQk91bE58VyBOgoc7ChzpuzUdrnZS_F9gqV0) that broke out in Moria on Sunday, which killed one child, might be a gas cooking stove, state firefighters\. Authorities are still investigating\. Photos by [Refocus Media Labs](https://www.facebook.com/OHFLesvos/posts/887825988327958?hc_location=ufi)](assets/df0355f7541/1*N-eA8OzBe51Buxxd5EbNVA.jpeg)
+![[The cause of the fire](http://www.ekathimerini.com/250715/article/ekathimerini/news/cooker-seen-behind-deadly-blaze-at-moria-camp?fbclid=IwAR0BtkiJd6JdTBPUJgdWVoXLQk91bE58VyBOgoc7ChzpuzUdrnZS_F9gqV0) that broke out in Moria on Sunday, which killed one child, might be a gas cooking stove, state firefighters\. Authorities are still investigating\. Photos by [Refocus Media Labs](https://www.facebook.com/OHFLesvos/posts/887825988327958?hc_location=ufi)](../assets/df0355f7541/1*N-eA8OzBe51Buxxd5EbNVA.jpeg)
 
 [The cause of the fire](http://www.ekathimerini.com/250715/article/ekathimerini/news/cooker-seen-behind-deadly-blaze-at-moria-camp?fbclid=IwAR0BtkiJd6JdTBPUJgdWVoXLQk91bE58VyBOgoc7ChzpuzUdrnZS_F9gqV0) that broke out in Moria on Sunday, which killed one child, might be a gas cooking stove, state firefighters\. Authorities are still investigating\. Photos by [Refocus Media Labs](https://www.facebook.com/OHFLesvos/posts/887825988327958?hc_location=ufi)
 #### FEATURE
@@ -41,7 +41,7 @@ _49 people returned to Libya after reaching Maltese waters // emergency shelters
 
 
 ![“ Any Given Tuesday on food line in [\#Moria](https://www.facebook.com/hashtag/moria?epa=HASHTAG) [\#refugee](https://www.facebook.com/hashtag/refugee?epa=HASHTAG) [\#camp](https://www.facebook.com/hashtag/camp?epa=HASHTAG) in [\#mytilini](https://www.facebook.com/hashtag/mytilini?epa=HASHTAG) on [\#Lesvos](https://www.facebook.com/hashtag/lesvos?epa=HASHTAG) But today is last of any [\#freedomofmovement](https://www.facebook.com/hashtag/freedomofmovement?epa=HASHTAG) with only essential staff allowed to enter and just one member per family allowed to leave under police escort from 7am\-7pm\. [\#Greece](https://www.facebook.com/hashtag/greece?epa=HASHTAG) has now officially locked down to all non\-EU citizens, yet still no preventive measures put in action to protect [\#asylumseekers](https://www.facebook.com/hashtag/asylumseekers?epa=HASHTAG) from [\#covid\_19](https://www.facebook.com/hashtag/covid_19?epa=HASHTAG) 
-Photo: student of @refocusmedialabs” Decription by [Douglas Herman](https://www.facebook.com/photo.php?fbid=10157871027625813&set=p.10157871027625813&type=3&theater)](assets/df0355f7541/1*m6AZScccluIuSaYMdtWiTw.jpeg)
+Photo: student of @refocusmedialabs” Decription by [Douglas Herman](https://www.facebook.com/photo.php?fbid=10157871027625813&set=p.10157871027625813&type=3&theater)](../assets/df0355f7541/1*m6AZScccluIuSaYMdtWiTw.jpeg)
 
 “ Any Given Tuesday on food line in [\#Moria](https://www.facebook.com/hashtag/moria?epa=HASHTAG) [\#refugee](https://www.facebook.com/hashtag/refugee?epa=HASHTAG) [\#camp](https://www.facebook.com/hashtag/camp?epa=HASHTAG) in [\#mytilini](https://www.facebook.com/hashtag/mytilini?epa=HASHTAG) on [\#Lesvos](https://www.facebook.com/hashtag/lesvos?epa=HASHTAG) But today is last of any [\#freedomofmovement](https://www.facebook.com/hashtag/freedomofmovement?epa=HASHTAG) with only essential staff allowed to enter and just one member per family allowed to leave under police escort from 7am\-7pm\. [\#Greece](https://www.facebook.com/hashtag/greece?epa=HASHTAG) has now officially locked down to all non\-EU citizens, yet still no preventive measures put in action to protect [\#asylumseekers](https://www.facebook.com/hashtag/asylumseekers?epa=HASHTAG) from [\#covid\_19](https://www.facebook.com/hashtag/covid_19?epa=HASHTAG) 
 Photo: student of @refocusmedialabs” Decription by [Douglas Herman](https://www.facebook.com/photo.php?fbid=10157871027625813&set=p.10157871027625813&type=3&theater)
@@ -81,7 +81,7 @@ Human Rights Watch published their new report and findings about state violence 
 HRW makes clear that Greece should immediately reverse its [March 1 decision](https://www.hrw.org/news/2020/03/10/greece/eu-allow-new-arrivals-claim-asylum) , which included suspending access to asylum for people for one month and deporting anyone entering\. The Greek Parliament and Frontex need to monitor and investigate any state acts of violence on the border\.
 
 
-![“An asylum seeker in northern Turkey at the Greek border on March 6 shows injuries he says Greek security forces inflicted after he had crossed the Evros River into Greece\.” Quote by [HRW](https://www.hrw.org/news/2020/03/17/greece-violence-against-asylum-seekers-border?fbclid=IwAR2dQryoANtz-ySu2SuSYRjRbXj59Eu-SkJIew8rLsMufGidYYkzaED03lc#) ; Photo by © 2020 Belal Khaled](assets/df0355f7541/1*YEYJZoeOB3FhIDs3GcMKHA.jpeg)
+![“An asylum seeker in northern Turkey at the Greek border on March 6 shows injuries he says Greek security forces inflicted after he had crossed the Evros River into Greece\.” Quote by [HRW](https://www.hrw.org/news/2020/03/17/greece-violence-against-asylum-seekers-border?fbclid=IwAR2dQryoANtz-ySu2SuSYRjRbXj59Eu-SkJIew8rLsMufGidYYkzaED03lc#) ; Photo by © 2020 Belal Khaled](../assets/df0355f7541/1*YEYJZoeOB3FhIDs3GcMKHA.jpeg)
 
 “An asylum seeker in northern Turkey at the Greek border on March 6 shows injuries he says Greek security forces inflicted after he had crossed the Evros River into Greece\.” Quote by [HRW](https://www.hrw.org/news/2020/03/17/greece-violence-against-asylum-seekers-border?fbclid=IwAR2dQryoANtz-ySu2SuSYRjRbXj59Eu-SkJIew8rLsMufGidYYkzaED03lc#) ; Photo by © 2020 Belal Khaled
 

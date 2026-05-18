@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 25/02/2018: Italy condemned for pushing back migrants to Libya in 2012
+title: "AYS DAILY DIGEST 25/02/2018: Italy condemned for pushing back migrants to Libya in 2012"
 author: Are You Syrious?
 date: 2018-02-26T00:40:39.444+0000
 last_modified_at: 2018-03-01T13:25:09.670+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,human-rights,greece,france,digest]
 description: ECHR found Italy guilty of aiding a push-back to Libya in 2012/MSF demands stop of shelling in Ghouta/ 85% of refugee children in Jordan…
 image:
-  path: assets/63254866a02/1*vF8RS0s02gRw4F3ILbVyqg.jpeg
+  path: ../assets/63254866a02/1*vF8RS0s02gRw4F3ILbVyqg.jpeg
 ---
 
 ### AYS DAILY DIGEST 25/02/2018: Italy condemned for pushing back migrants to Libya in 2012
@@ -15,7 +15,7 @@ image:
 _ECHR found Italy guilty of aiding a push\-back to Libya in 2012/MSF demands stop of shelling in Ghouta/ 85% of refugee children in Jordan live in poverty/ 2 smugglers arrested in Greece/Call for volunteers and donations in Greece and France/ Balkan weather report/ Solidarity with attacks suffered from Baobab/ Solutions to be identified for refugees in Pordenone and Gorizia\. \._
 
 
-![Credit: Bienvenidos Refugiados](assets/63254866a02/1*vF8RS0s02gRw4F3ILbVyqg.jpeg)
+![Credit: Bienvenidos Refugiados](../assets/63254866a02/1*vF8RS0s02gRw4F3ILbVyqg.jpeg)
 
 Credit: Bienvenidos Refugiados
 #### **FEATURE**

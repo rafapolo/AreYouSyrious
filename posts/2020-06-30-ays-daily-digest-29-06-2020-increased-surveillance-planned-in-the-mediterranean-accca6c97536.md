@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,mediterranean,surveillance,big-data]
 description: Sixfold increase in arrivals in the Canary islands/43 people rescued in the Central Med/Protest in El Aaiun detention centre, Western…
 image:
-  path: assets/accca6c97536/1*H13yuHKldJ3lzV5X4D-PLQ.jpeg
+  path: ../assets/accca6c97536/1*H13yuHKldJ3lzV5X4D-PLQ.jpeg
 ---
 
 ### AYS Daily Digest 29/06/2020 — Increased surveillance planned in the Mediterranean
@@ -15,7 +15,7 @@ image:
 Six\-fold increase in arrivals in the Canary islands / 43 people rescued in the Central Med / Protest in El Aaiun detention centre, Western Sahara
 
 
-![[THE CIVIL FLEET — Solidarity is not a crime — Defund FRONTEX](https://thecivilfleet.wordpress.com/2020/06/29/defund-frontex-ngo-refugee-rescue-ship-captain-says-on-anniversary-of-unlawful-arrest/)](assets/accca6c97536/1*H13yuHKldJ3lzV5X4D-PLQ.jpeg)
+![[THE CIVIL FLEET — Solidarity is not a crime — Defund FRONTEX](https://thecivilfleet.wordpress.com/2020/06/29/defund-frontex-ngo-refugee-rescue-ship-captain-says-on-anniversary-of-unlawful-arrest/)](../assets/accca6c97536/1*H13yuHKldJ3lzV5X4D-PLQ.jpeg)
 
 [THE CIVIL FLEET — Solidarity is not a crime — Defund FRONTEX](https://thecivilfleet.wordpress.com/2020/06/29/defund-frontex-ngo-refugee-rescue-ship-captain-says-on-anniversary-of-unlawful-arrest/)
 #### Feature story: Increased surveillance planned in the Mediterranean
@@ -234,15 +234,15 @@ BOSNIA AND BALKANS
 #### **Worsening situation in Velika Kladusa**
 
 
-![](assets/accca6c97536/1*o8RNqrJ4ZTGN-A8SrStWBg.jpeg)
+![](../assets/accca6c97536/1*o8RNqrJ4ZTGN-A8SrStWBg.jpeg)
 
 
 
-![](assets/accca6c97536/1*fa2W01SccuRXR1ruskuYTQ.jpeg)
+![](../assets/accca6c97536/1*fa2W01SccuRXR1ruskuYTQ.jpeg)
 
 
 
-![\(Photo Credit: [No Name Kitchen](https://web.facebook.com/NoNameKitchenBelgrade/posts/1014390678959216?hc_location=ufi) \)](assets/accca6c97536/1*H4tT8rLYNlpOT7haXd42gQ.jpeg)
+![\(Photo Credit: [No Name Kitchen](https://web.facebook.com/NoNameKitchenBelgrade/posts/1014390678959216?hc_location=ufi) \)](../assets/accca6c97536/1*H4tT8rLYNlpOT7haXd42gQ.jpeg)
 
 \(Photo Credit: [No Name Kitchen](https://web.facebook.com/NoNameKitchenBelgrade/posts/1014390678959216?hc_location=ufi) \)
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 04/10/18: Greek director of refugee camps is fired for advocating for refugees
+title: "AYS Daily Digest 04/10/18: Greek director of refugee camps is fired for advocating for refugees"
 author: Are You Syrious?
 date: 2018-10-05T01:18:21.302+0100
 last_modified_at: 2018-10-05T09:16:04.453+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,italy,greece,volunteer]
 description: New rescue ship with Italian flag begins operations / Refugees in Greece denied transportation to their own asylum interviews / Suspects…
 image:
-  path: assets/ea63c9d5018/1*3SfZkoPIc1K69DS-Q2ROIA.jpeg
+  path: ../assets/ea63c9d5018/1*3SfZkoPIc1K69DS-Q2ROIA.jpeg
 ---
 
 ### AYS Daily Digest 04/10/18: Greek director of refugee camps is fired for advocating for refugees
@@ -15,7 +15,7 @@ image:
 _New rescue ship with Italian flag begins operations / Refugees in Greece denied transportation to their own asylum interviews / Suspects sought in murder of Syrian refugee / New arrivals in Greece / And more news…_
 
 
-![“Update on [\#Aquarius](https://www.facebook.com/hashtag/aquarius?source=feed_text) : Arrived in [\#Marseille](https://www.facebook.com/hashtag/marseille?source=feed_text) on stopover\. We call on European governments to allow us to continue our rescue mission by assigning a flag to [\#Aquarius](https://www.facebook.com/hashtag/aquarius?source=feed_text) , determined to resume the sea as soon as possible\.” Photo credit: [SOS Méditerranée](https://www.facebook.com/sosmedfrance/photos/a.1656056084667376/2281942535412058/?type=3&theater)](assets/ea63c9d5018/1*3SfZkoPIc1K69DS-Q2ROIA.jpeg)
+![“Update on [\#Aquarius](https://www.facebook.com/hashtag/aquarius?source=feed_text) : Arrived in [\#Marseille](https://www.facebook.com/hashtag/marseille?source=feed_text) on stopover\. We call on European governments to allow us to continue our rescue mission by assigning a flag to [\#Aquarius](https://www.facebook.com/hashtag/aquarius?source=feed_text) , determined to resume the sea as soon as possible\.” Photo credit: [SOS Méditerranée](https://www.facebook.com/sosmedfrance/photos/a.1656056084667376/2281942535412058/?type=3&theater)](../assets/ea63c9d5018/1*3SfZkoPIc1K69DS-Q2ROIA.jpeg)
 
 “Update on [\#Aquarius](https://www.facebook.com/hashtag/aquarius?source=feed_text) : Arrived in [\#Marseille](https://www.facebook.com/hashtag/marseille?source=feed_text) on stopover\. We call on European governments to allow us to continue our rescue mission by assigning a flag to [\#Aquarius](https://www.facebook.com/hashtag/aquarius?source=feed_text) , determined to resume the sea as soon as possible\.” Photo credit: [SOS Méditerranée](https://www.facebook.com/sosmedfrance/photos/a.1656056084667376/2281942535412058/?type=3&theater)
 #### FEATURE: Andreas Iliopoulos fired
@@ -30,7 +30,7 @@ Greek minister Dimitris Vitsas claimed that Iliopoulos was fired for “not suff
 For the first time since the beginning of the recent refugee crisis, a non\-military, Italian\-flagged rescue ship has left to operate in the central Mediterranean\. With this new ship, the volunteers and humanitarians behind the project are challenging Salvini’s policy of turning away rescue ships\. Since Salvini in his decree promised only to turn away rescue ships without Italian flags, it may in turn be harder for the extremist government to prevent the ship from disembarking\.
 
 
-![The deck of the Mare Jonio\. Photo credit: Sea\-Watch](assets/ea63c9d5018/1*NX75PyCugsGqmHVKVRzw4g.jpeg)
+![The deck of the Mare Jonio\. Photo credit: Sea\-Watch](../assets/ea63c9d5018/1*NX75PyCugsGqmHVKVRzw4g.jpeg)
 
 The deck of the Mare Jonio\. Photo credit: Sea\-Watch
 

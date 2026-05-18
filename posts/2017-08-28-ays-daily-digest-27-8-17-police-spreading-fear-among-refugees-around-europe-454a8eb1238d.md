@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 27/08/17: Police spreading fear among refugees around Europe
+title: "AYS Daily Digest 27/08/17: Police spreading fear among refugees around Europe"
 author: Are You Syrious?
 date: 2017-08-28T03:47:28.336+0100
 last_modified_at: 2017-08-31T02:32:20.196+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,france,europe,greece,italy]
 description: Italy and EU under accusations for deal with Libya / Late surge of arrivals to Greece — a message from Turkey? / Questioning the police MO…
 image:
-  path: assets/454a8eb1238d/1*6-cqG94W5MYs05MMGPqxFA.png
+  path: ../assets/454a8eb1238d/1*6-cqG94W5MYs05MMGPqxFA.png
 ---
 
 ### AYS Daily Digest 27/08/17: Police spreading fear among refugees around Europe
@@ -81,14 +81,14 @@ Contact [the volunteer group](https://www.facebook.com/groups/OasisRhodes/?ref=g
 A boat arrived in the north of Lesvos, Eftalou, early this morning with nine men, nine women, and 23 children on board\. “Everyone was extremely cold and wet and the kids were shaking and crying\. All the teams and volunteers pitched in to help and the kids were soon warm and happy,” local volunteers report\.
 
 
-![Children playing on the road while waiting for a van to pick them up and take them to a shelter after arriving by boat \(Photo by [Philippa Kempson](https://www.facebook.com/philippa.kempson.1) \)](assets/454a8eb1238d/1*EmhhqP_THDuLBJbDex7c3g.jpeg)
+![Children playing on the road while waiting for a van to pick them up and take them to a shelter after arriving by boat \(Photo by [Philippa Kempson](https://www.facebook.com/philippa.kempson.1) \)](../assets/454a8eb1238d/1*EmhhqP_THDuLBJbDex7c3g.jpeg)
 
 Children playing on the road while waiting for a van to pick them up and take them to a shelter after arriving by boat \(Photo by [Philippa Kempson](https://www.facebook.com/philippa.kempson.1) \)
 
 
 ![Only last week there were brutal push\-backs on the part of the Turkish Coast Guard—this violence against refugees must end\.
 We demand respect for the principle of non\-refoulement and the stop of push/pull\.
-You can find our complete list here: [https://sea\-watch\.org/flucht\-ist\-kein\-verbrechen/](https://sea-watch.org/flucht-ist-kein-verbrechen/) \.](assets/454a8eb1238d/1*IxYw0m82t4cGdBjWjEg43A.jpeg)
+You can find our complete list here: [https://sea\-watch\.org/flucht\-ist\-kein\-verbrechen/](https://sea-watch.org/flucht-ist-kein-verbrechen/) \.](../assets/454a8eb1238d/1*IxYw0m82t4cGdBjWjEg43A.jpeg)
 
 Only last week there were brutal push\-backs on the part of the Turkish Coast Guard—this violence against refugees must end\.
 We demand respect for the principle of non\-refoulement and the stop of push/pull\.
@@ -137,15 +137,15 @@ Video material recorded by volunteers in Dunkirk and a number of personal accoun
 The police ended up only scanning the area and, even though they seemed to be starting to regroup for an eviction, they in the end left\. According to some of the refugees to whom the volunteers spoke, the police does this regularly, visiting, shouting, evicting the people, while taking their tents, and tearing and confiscating their sleeping gear—currently the only thing preventing some of them from sleeping outside under the open sky and, often, rain\.
 
 
-![](assets/454a8eb1238d/1*yBhIeqTp1unwVsP1dbAhVg.png)
+![](../assets/454a8eb1238d/1*yBhIeqTp1unwVsP1dbAhVg.png)
 
 
 
-![](assets/454a8eb1238d/1*6-cqG94W5MYs05MMGPqxFA.png)
+![](../assets/454a8eb1238d/1*6-cqG94W5MYs05MMGPqxFA.png)
 
 
 
-![Photos from the live video report by [Isis Aurora Mera](https://www.facebook.com/isis.mera?hc_ref=ARTVaYAkX7-XmC7b0RRynLAqlM2Zd9WjwUfPo7CFUPDpRZP2DSLwbrDfW8g--jgLYdM)](assets/454a8eb1238d/1*Y5qQWYJc2RR9_bbvO0rT2w.png)
+![Photos from the live video report by [Isis Aurora Mera](https://www.facebook.com/isis.mera?hc_ref=ARTVaYAkX7-XmC7b0RRynLAqlM2Zd9WjwUfPo7CFUPDpRZP2DSLwbrDfW8g--jgLYdM)](../assets/454a8eb1238d/1*Y5qQWYJc2RR9_bbvO0rT2w.png)
 
 Photos from the live video report by [Isis Aurora Mera](https://www.facebook.com/isis.mera?hc_ref=ARTVaYAkX7-XmC7b0RRynLAqlM2Zd9WjwUfPo7CFUPDpRZP2DSLwbrDfW8g--jgLYdM)
 ### Paris
@@ -206,7 +206,7 @@ On Friday the young people from Ung i Sverige prepared a performance demonstrati
 Since earlier it has moved from Stockholm to several other smaller cities across the country, such as Gothenburg, Uppsala, and Luleå, to mention only some of them\. The demonstrators first had permission to remain on site until the 23rd, but has now been prolonged until at least the end of August, according to the police on site\.
 
 
-![On site today \(Photo: AYS\)](assets/454a8eb1238d/1*NoA0BE1CCkFgdTyatzd-DQ.jpeg)
+![On site today \(Photo: AYS\)](../assets/454a8eb1238d/1*NoA0BE1CCkFgdTyatzd-DQ.jpeg)
 
 On site today \(Photo: AYS\)
 

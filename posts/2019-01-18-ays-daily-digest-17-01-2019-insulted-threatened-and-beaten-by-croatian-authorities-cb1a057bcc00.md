@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,croatia,mediterranean,humanitarian]
 description: More than 11,300 people affected by storms in Lebanon /// 53 dead and one survivor in shipwreck at the #FronteraSur /// Protests in Samos…
 image:
-  path: assets/cb1a057bcc00/1*6Za-jGm0YlSXPRJsq8FIbw.png
+  path: ../assets/cb1a057bcc00/1*6Za-jGm0YlSXPRJsq8FIbw.png
 ---
 
 ### AYS Daily Digest 17/01/2019 Insulted, threatened and beaten by Croatian authorities
@@ -15,7 +15,7 @@ image:
 More than 11,300 people affected by storms in Lebanon /// 53 dead and one survivor in shipwreck at the \#FronteraSur /// Protests in Samos /// Right\-wing Belgian Councillor arrested for human trafficking /// Slovenian police refuse to disclose papers on their border activities /// Human Rights Watch on the EU
 
 
-![“ — Wow\. \. First class grades… — You’re a rare pearl, kid\.” [A 14\-year\-old kid from Mali, who died trying to cross the Mediterranean, had his school report sewed in a pocket\. He wanted to show Europe he was a good boy, yet the ‘civilized’ world failed him](https://twitter.com/Digitalys/status/1085854406900207617) \. This is one of the many stories [collected by medical examiner Cristina Cattaneo](https://www.globalist.it/life/2019/01/16/in-tasca-una-pagella-la-storia-del-bambino-che-abbiamo-lasciato-morire-in-mare-2036179.html) , who worked at the identification of people drowned at sea \(Drawing: _Lost Treasures_ by [Makkox](https://twitter.com/makkox) \)](assets/cb1a057bcc00/1*6Za-jGm0YlSXPRJsq8FIbw.png)
+![“ — Wow\. \. First class grades… — You’re a rare pearl, kid\.” [A 14\-year\-old kid from Mali, who died trying to cross the Mediterranean, had his school report sewed in a pocket\. He wanted to show Europe he was a good boy, yet the ‘civilized’ world failed him](https://twitter.com/Digitalys/status/1085854406900207617) \. This is one of the many stories [collected by medical examiner Cristina Cattaneo](https://www.globalist.it/life/2019/01/16/in-tasca-una-pagella-la-storia-del-bambino-che-abbiamo-lasciato-morire-in-mare-2036179.html) , who worked at the identification of people drowned at sea \(Drawing: _Lost Treasures_ by [Makkox](https://twitter.com/makkox) \)](../assets/cb1a057bcc00/1*6Za-jGm0YlSXPRJsq8FIbw.png)
 
 “ — Wow\. \. First class grades… — You’re a rare pearl, kid\.” [A 14\-year\-old kid from Mali, who died trying to cross the Mediterranean, had his school report sewed in a pocket\. He wanted to show Europe he was a good boy, yet the ‘civilized’ world failed him](https://twitter.com/Digitalys/status/1085854406900207617) \. This is one of the many stories [collected by medical examiner Cristina Cattaneo](https://www.globalist.it/life/2019/01/16/in-tasca-una-pagella-la-storia-del-bambino-che-abbiamo-lasciato-morire-in-mare-2036179.html) , who worked at the identification of people drowned at sea \(Drawing: _Lost Treasures_ by [Makkox](https://twitter.com/makkox) \)
 #### Feature — A\., insulted, threatened and beaten by Croatian authorities
@@ -63,7 +63,7 @@ Five workers from Syria have lost their lives in a fire that broke out in Ankara
 SEA
 
 
-![](assets/cb1a057bcc00/1*jp7uxwxcuATVatLVSePLUA.jpeg)
+![](../assets/cb1a057bcc00/1*jp7uxwxcuATVatLVSePLUA.jpeg)
 
 #### 53 dead and only one survivor in the shipwreck in the Alboran Sea
 
@@ -122,7 +122,7 @@ The fourth boat was picked up outside Samos north east, around 09\.00 AM\. It ca
 
 
 
-![\(Photo by [NBK Lesvos — Enough is Enough](https://enoughisenough14.org/2019/01/17/no-border-kitchen-lesvos-winter-update/?fbclid=IwAR1kogv3-zwt51BWieNeRNiOku-KAvYfG7tcaFy7H7ZnKzWd1RS48ry5IWI) \)](assets/cb1a057bcc00/1*ItOi8Fv0oGVwE0GVNX8SMw.jpeg)
+![\(Photo by [NBK Lesvos — Enough is Enough](https://enoughisenough14.org/2019/01/17/no-border-kitchen-lesvos-winter-update/?fbclid=IwAR1kogv3-zwt51BWieNeRNiOku-KAvYfG7tcaFy7H7ZnKzWd1RS48ry5IWI) \)](../assets/cb1a057bcc00/1*ItOi8Fv0oGVwE0GVNX8SMw.jpeg)
 
 \(Photo by [NBK Lesvos — Enough is Enough](https://enoughisenough14.org/2019/01/17/no-border-kitchen-lesvos-winter-update/?fbclid=IwAR1kogv3-zwt51BWieNeRNiOku-KAvYfG7tcaFy7H7ZnKzWd1RS48ry5IWI) \)
 

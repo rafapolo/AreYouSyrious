@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,melilla,migration]
 description: Malta Sends Out Third Captain Morgan Boat///Turkish Man Pushed Back From Greece Now in Jail///Stricter Measures on Italian/Slovenian Border
 image:
-  path: assets/a74558e4d8d9/0*F65wAZ5GJpd1LHll.jpg
+  path: ../assets/a74558e4d8d9/0*F65wAZ5GJpd1LHll.jpg
 ---
 
 ### AYS Daily Digest 15/05/2020–Woman Found Dead in Melilla
 ### Malta Sends Out Third Captain Morgan Boat///Turkish Man Pushed Back From Greece Now in Jail///Stricter Measures on Italian/Slovenian Border
 
 
-![](assets/a74558e4d8d9/0*OjliET4u39D6THbr.jpeg)
+![](../assets/a74558e4d8d9/0*OjliET4u39D6THbr.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----693e5a201d1----------------------)
@@ -22,11 +22,11 @@ image:
 [May 16](ays-daily-digest-15-05-2020-woman-found-dead-in-melilla-693e5a201d1?source=post_page-----693e5a201d1----------------------) · 6 min read
 
 
-![](assets/a74558e4d8d9/0*M3yhYBV-8YFrWeZd)
+![](../assets/a74558e4d8d9/0*M3yhYBV-8YFrWeZd)
 
 
 
-![](assets/a74558e4d8d9/0*F65wAZ5GJpd1LHll.jpg)
+![](../assets/a74558e4d8d9/0*F65wAZ5GJpd1LHll.jpg)
 
 
 FEATURE

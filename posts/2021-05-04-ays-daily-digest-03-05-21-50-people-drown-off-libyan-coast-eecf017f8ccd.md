@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [greece,refugees,immigration,digest,libya]
 description: Is Denmark going to send asylum seekers to Rwanda? // Homelessness for UK refugees // 182 people arrive in Greece // Fence in Ritsona //…
 image:
-  path: assets/eecf017f8ccd/1*ZUElZsAylzuj6a_InQVEgQ.jpeg
+  path: ../assets/eecf017f8ccd/1*ZUElZsAylzuj6a_InQVEgQ.jpeg
 ---
 
 ### AYS Daily Digest 03/05/21 ~ 50 people drown off Libyan coast
@@ -102,7 +102,7 @@ Alarm Phone and Mediterranea Saving Humans released a joint statement with a tim
 
 
 
-![](assets/eecf017f8ccd/1*ZUElZsAylzuj6a_InQVEgQ.jpeg)
+![](../assets/eecf017f8ccd/1*ZUElZsAylzuj6a_InQVEgQ.jpeg)
 
 
 
@@ -110,7 +110,7 @@ Alarm Phone and Mediterranea Saving Humans released a joint statement with a tim
 We are impressed by the strength and perseverance of these people\! Because although they have experienced terrible things, they sing and dance, and support the crew on board wherever they can\.”
 [**UPDATE**](https://www.facebook.com/seawatchprojekt/posts/2816036961947700) **A COUPLE HOURS LATER:** “We have a Port of Safety\! The Italian authorities assigned Trapani, Sicily, to us where the Sea\-Watch 4 is now heading\.
 Our guests are very relieved and incredibly happy that they will be allowed to disembark on safe land soon\!”
-Photos by [Fabian Melber](https://www.facebook.com/seawatchprojekt/posts/2815961161955280)](assets/eecf017f8ccd/1*laxXKJnXsU94Jhy6UOkmAg.jpeg)
+Photos by [Fabian Melber](https://www.facebook.com/seawatchprojekt/posts/2815961161955280)](../assets/eecf017f8ccd/1*laxXKJnXsU94Jhy6UOkmAg.jpeg)
 
 “Onboard the Sea\-Watch 4 our guests and crew are exhausted\. It is very windy and our guests have been bearing the weather on the open decks for several days now\. Nevertheless, the mood is positive and everyone is doing the best to make the situation on board as good as it can be for everyone\.
 We are impressed by the strength and perseverance of these people\! Because although they have experienced terrible things, they sing and dance, and support the crew on board wherever they can\.”
@@ -120,7 +120,7 @@ Photos by [Fabian Melber](https://www.facebook.com/seawatchprojekt/posts/2815961
 #### GREECE
 
 
-![Photo by Eleftheria Online\.gr find more photos of the port arrival [here\.](https://eleftheriaonline.gr/local/koinonia/item/242641-efthase-stin-kalamata-to-skafos-me-tous-170-prosfyges-kai-metanastes?fbclid=IwAR0v9-seJP3P-ymBC-xMy-gXpLGEMPCffFYnARxwy0GsHpcntsrUYexQYZI)](assets/eecf017f8ccd/0*gtXg7tqh6ikp1y1y.jpg)
+![Photo by Eleftheria Online\.gr find more photos of the port arrival [here\.](https://eleftheriaonline.gr/local/koinonia/item/242641-efthase-stin-kalamata-to-skafos-me-tous-170-prosfyges-kai-metanastes?fbclid=IwAR0v9-seJP3P-ymBC-xMy-gXpLGEMPCffFYnARxwy0GsHpcntsrUYexQYZI)](../assets/eecf017f8ccd/0*gtXg7tqh6ikp1y1y.jpg)
 
 Photo by Eleftheria Online\.gr find more photos of the port arrival [here\.](https://eleftheriaonline.gr/local/koinonia/item/242641-efthase-stin-kalamata-to-skafos-me-tous-170-prosfyges-kai-metanastes?fbclid=IwAR0v9-seJP3P-ymBC-xMy-gXpLGEMPCffFYnARxwy0GsHpcntsrUYexQYZI)
 ### On Monday 182 people arrived in the port of Kalamata
@@ -235,11 +235,11 @@ Who is to say that a new Danish asylum processing centre will not become a new t
 #### FRANCE
 
 
-![](assets/eecf017f8ccd/1*mOo3E98Wd1liae80lPnK0Q.jpeg)
+![](../assets/eecf017f8ccd/1*mOo3E98Wd1liae80lPnK0Q.jpeg)
 
 
 
-![](assets/eecf017f8ccd/1*ERikDmFowCeQvfI-OXpwQw.jpeg)
+![](../assets/eecf017f8ccd/1*ERikDmFowCeQvfI-OXpwQw.jpeg)
 
 
 
@@ -247,7 +247,7 @@ Who is to say that a new Danish asylum processing centre will not become a new t
 \- Initiate an investigation into violations committed by France, signatory State to the International Convention on the Rights of the Child, with regard to the rights set forth in this convention in the context of the reception and care of the MNA present in the national territory;
 \- Make observations and recommendations necessary for the protection of the rights of these children;
 The referral attributes the violations reported to two main factors: the denial of minority to which these children are victims and which deprives them of the national child protection system, and the inequalities of treatment of these children in the French territory\.
-Currently, thousands of unaccompanied minors can only rely on the help of engaged citizen s’ associations and collective, while every one should be covered, like any minor present on the territory, from child protection to child protection the charge of the French public authorities\.” Read online statement in full [here](http://www.utopia56.com/fr/actualite/nous-demandons-enquete-lonu-sur-violations-droits-mna-france?fbclid=IwAR1w1YwGyRn0ygbFrMs-05yuzFXUoizt_wohG2A6rxgw5eDjHuo4hri_4KE) \. Photos by [UTOPIA 56\.](https://www.facebook.com/asso.utopia56/posts/4215794891785604)](assets/eecf017f8ccd/1*Pg_Ypq0JCQhqcSNRIXZ6OA.jpeg)
+Currently, thousands of unaccompanied minors can only rely on the help of engaged citizen s’ associations and collective, while every one should be covered, like any minor present on the territory, from child protection to child protection the charge of the French public authorities\.” Read online statement in full [here](http://www.utopia56.com/fr/actualite/nous-demandons-enquete-lonu-sur-violations-droits-mna-france?fbclid=IwAR1w1YwGyRn0ygbFrMs-05yuzFXUoizt_wohG2A6rxgw5eDjHuo4hri_4KE) \. Photos by [UTOPIA 56\.](https://www.facebook.com/asso.utopia56/posts/4215794891785604)](../assets/eecf017f8ccd/1*Pg_Ypq0JCQhqcSNRIXZ6OA.jpeg)
 
 **UTOPIA 56 UPDATE** : “Alongside other associations, we are referring to the UN Committee on Children’s Rights to ask for an investigation into the violations of the rights of Non Accompanied Minors in France\. Associations ask CRC to:
 \- Initiate an investigation into violations committed by France, signatory State to the International Convention on the Rights of the Child, with regard to the rights set forth in this convention in the context of the reception and care of the MNA present in the national territory;

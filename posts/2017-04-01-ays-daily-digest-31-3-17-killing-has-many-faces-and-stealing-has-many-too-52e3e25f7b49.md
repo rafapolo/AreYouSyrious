@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 31/3/17: “Killing has many faces and stealing has many, too”
+title: "AYS DAILY DIGEST 31/3/17: “Killing has many faces and stealing has many, too”"
 author: Are You Syrious?
 date: 2017-04-01T07:13:56.023+0100
 last_modified_at: 2017-04-01T10:10:03.278+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: Refugees in Serbia face additional discrimination in a catch-22 bus SNAFU / Izmir refugee community struggling with hunger in off-season /…
 image:
-  path: assets/52e3e25f7b49/1*1-STyMnlFi01WxDlnWCnaQ.jpeg
+  path: ../assets/52e3e25f7b49/1*1-STyMnlFi01WxDlnWCnaQ.jpeg
 ---
 
 ### AYS DAILY DIGEST 31/3/17: “Killing has many faces and stealing has many, too”
@@ -15,7 +15,7 @@ image:
 _Refugees in Serbia face additional discrimination in a catch\-22 bus SNAFU / Izmir refugee community struggling with hunger in off\-season / Officials and refugee community members respond to attempted suicides in Greece / Urgent need for AB blood donors in Thessaloniki / A peek inside new container detention/transit centers in Hungary / Lord Dubs releases guide to helping refugees_
 
 
-![Hungarian transit camp\. No child should grow up behind this fence\. Photo courtesy of SIRIUS\.HELP](assets/52e3e25f7b49/1*1-STyMnlFi01WxDlnWCnaQ.jpeg)
+![Hungarian transit camp\. No child should grow up behind this fence\. Photo courtesy of SIRIUS\.HELP](../assets/52e3e25f7b49/1*1-STyMnlFi01WxDlnWCnaQ.jpeg)
 
 Hungarian transit camp\. No child should grow up behind this fence\. Photo courtesy of SIRIUS\.HELP
 ### FEATURE: Serbia
@@ -58,7 +58,7 @@ Looking to get involved in northern Serbia? Fresh Response is in need of a volun
 Worldwide Tribe is raising money and support for refugees in Izmir, Turkey\. They highlight that many refugees there are, of course, exploited by the local market, but that in between seasons, even this meager subsistence disappears as their labor is not needed in the fields and orchards\.
 
 
-![Photo courtesy of Worldwide Tribe](assets/52e3e25f7b49/1*_024dNjnDHjBoKZiam9KDQ.jpeg)
+![Photo courtesy of Worldwide Tribe](../assets/52e3e25f7b49/1*_024dNjnDHjBoKZiam9KDQ.jpeg)
 
 Photo courtesy of Worldwide Tribe
 
@@ -87,7 +87,7 @@ Referring to recent suicide attempts, [Migration Minister Mouzalas](http://www.e
 Another example of the horrible conditions on Chios can be found in more reports of worms in food served in Souda there\. Photo may be distressing\.
 
 
-![Photo courtesy of [**Irene Liberte**](https://www.facebook.com/profile.php?id=100014424134333)](assets/52e3e25f7b49/1*RmlEozC2YIssreehB7_8tQ.jpeg)
+![Photo courtesy of [**Irene Liberte**](https://www.facebook.com/profile.php?id=100014424134333)](../assets/52e3e25f7b49/1*RmlEozC2YIssreehB7_8tQ.jpeg)
 
 Photo courtesy of [**Irene Liberte**](https://www.facebook.com/profile.php?id=100014424134333)
 
@@ -209,12 +209,12 @@ _Send us an email, to mail@refugeeinfobus\.com, with your CV and cover letter to
 Attached you’ll find the most recent additions of NewsThatMoves’s “In the Loop,” which aims to debunk rumors and answer repeated questions collected by residents on the islands and on the mainland\.
 
 
-![In the Loop for islands of Greece\. Courtesy, NewsThatMoves](assets/52e3e25f7b49/1*0Zo6V6bK_0LDivJmtWzxSg.png)
+![In the Loop for islands of Greece\. Courtesy, NewsThatMoves](../assets/52e3e25f7b49/1*0Zo6V6bK_0LDivJmtWzxSg.png)
 
 In the Loop for islands of Greece\. Courtesy, NewsThatMoves
 
 
-![In the Loop for mainland Greece\. Courtesy of News that Moves\.](assets/52e3e25f7b49/1*RkXl8VNfZOEeyeOBnvOc9Q.png)
+![In the Loop for mainland Greece\. Courtesy of News that Moves\.](../assets/52e3e25f7b49/1*RkXl8VNfZOEeyeOBnvOc9Q.png)
 
 In the Loop for mainland Greece\. Courtesy of News that Moves\.
 
@@ -231,7 +231,7 @@ SIRIUS\.HELP released their first impressions on the transit container camps at 
 
 
 
-![Photo courtesy of SIRIUS\.HELP](assets/52e3e25f7b49/1*pVtPLjY6kPsiFeEgX3qjiA.jpeg)
+![Photo courtesy of SIRIUS\.HELP](../assets/52e3e25f7b49/1*pVtPLjY6kPsiFeEgX3qjiA.jpeg)
 
 Photo courtesy of SIRIUS\.HELP
 
@@ -245,7 +245,7 @@ Below is a helpful yet disturbing chart indicating the vast disparity in Asylum 
 As has been demonstrated time and time again, Europe shows stunning amounts of solidarity when it comes to innovating and implementing policies that push refugees to the margins of society, isolate them from help, and push them back to the outer edges of Europe\. Implementing solutions that bring in positive solidarity seems to be a greater challenge, and unequal allowances for asylum seekers is another embodiment of this\. Although it is unclear if the chart takes into account the cost of living in each country, the disparity is staggering\.
 
 
-![Photo Courtesy of RISE](assets/52e3e25f7b49/1*kKkD0gmNjwKrC3qLI0wP-A.png)
+![Photo Courtesy of RISE](../assets/52e3e25f7b49/1*kKkD0gmNjwKrC3qLI0wP-A.png)
 
 Photo Courtesy of RISE
 

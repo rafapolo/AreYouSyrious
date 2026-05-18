@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 27/2/18: People pushed back even in severe conditions
+title: "AYS Daily Digest 27/2/18: People pushed back even in severe conditions"
 author: Are You Syrious?
 date: 2018-02-28T11:36:59.706+0000
 last_modified_at: 2018-02-28T13:00:16.590+0000
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,syria,europe,humanitarian,human-rights]
 description: Women have systematically been abused by aid workers across Syrian areas in desperate need of help — report / New reports of push backs…
 image:
-  path: assets/35dd08e65011/1*U998FY6Gbk0ChHdSg940CQ.jpeg
+  path: ../assets/35dd08e65011/1*U998FY6Gbk0ChHdSg940CQ.jpeg
 ---
 
 ### AYS Daily Digest 27/2/18: People pushed back even in severe conditions
 #### Women have systematically been abused by aid workers across Syrian areas in desperate need of help — report / New reports of push backs along the remaining ‘Balkan Route’ / Details on the situation in Turkey / Lawyers oppose detainment on Greek islands / Many calls for help for across Europe / and more news and updates
 
 
-![In the area of the provisional refugee camp in Rome \(Photo: [Baobab Experience](https://www.facebook.com/BaobabExperience/?fref=mentions) \)](assets/35dd08e65011/1*U998FY6Gbk0ChHdSg940CQ.jpeg)
+![In the area of the provisional refugee camp in Rome \(Photo: [Baobab Experience](https://www.facebook.com/BaobabExperience/?fref=mentions) \)](../assets/35dd08e65011/1*U998FY6Gbk0ChHdSg940CQ.jpeg)
 
 In the area of the provisional refugee camp in Rome \(Photo: [Baobab Experience](https://www.facebook.com/BaobabExperience/?fref=mentions) \)
 #### FEATURE — Violent push backs in the Balkans
@@ -49,7 +49,7 @@ Are You Syrious, Center for Peace Studies and Welcome Initiative together with N
 **Read more on the cases, reactions of the officials and the report in tomorrow’s AYS Special\.**
 
 
-![One of the many images we have received from people on the move](assets/35dd08e65011/1*ebSmdL7QVrptwm4CkgI5qA.jpeg)
+![One of the many images we have received from people on the move](../assets/35dd08e65011/1*ebSmdL7QVrptwm4CkgI5qA.jpeg)
 
 One of the many images we have received from people on the move
 #### SYRIA
@@ -131,7 +131,7 @@ Addressing a joint [pres](http://www.ekathimerini.com/226238/article/ekathimerin
 Apart from undermining their dignity, detaining people on the islands has also prevented them from attending the hearings of their asylum claims in Athens\.
 
 
-![lawyer of [\#KillahP](https://www.facebook.com/hashtag/killahp) was injured after GD fascist attack against Favela free social center at Piraeus on Sunday](assets/35dd08e65011/1*TIsH0xMDGSj32zKN-fpZTg.jpeg)
+![lawyer of [\#KillahP](https://www.facebook.com/hashtag/killahp) was injured after GD fascist attack against Favela free social center at Piraeus on Sunday](../assets/35dd08e65011/1*TIsH0xMDGSj32zKN-fpZTg.jpeg)
 
 lawyer of [\#KillahP](https://www.facebook.com/hashtag/killahp) was injured after GD fascist attack against Favela free social center at Piraeus on Sunday
 

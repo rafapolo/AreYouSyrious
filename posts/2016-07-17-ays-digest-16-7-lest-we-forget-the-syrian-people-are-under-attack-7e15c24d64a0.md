@@ -7,18 +7,18 @@ categories:
 tags: [refugees,europe]
 description: Today, like most other days, was a difficult one for Syrians. Dozens were killed and many more injured as a result of Russian and regime…
 image:
-  path: assets/7e15c24d64a0/1*J9TzfV6854vaW7x3ozvLEQ.jpeg
+  path: ../assets/7e15c24d64a0/1*J9TzfV6854vaW7x3ozvLEQ.jpeg
 ---
 
 ### AYS DIGEST 16/7 — Lest we forget, the Syrian people are under attack
 #### Today, like most other days, was a difficult one for Syrians\. Dozens were killed and many more injured as a result of Russian and regime bombing of population centers\. Also as a result of the bombing, a hospital in Aleppo was put out of order\. Such brash killings ought to remind people whose doing this current war is\.
 
 
-![](assets/7e15c24d64a0/1*J9TzfV6854vaW7x3ozvLEQ.jpeg)
+![](../assets/7e15c24d64a0/1*J9TzfV6854vaW7x3ozvLEQ.jpeg)
 
 
 
-![The aftermath of Saturday’s bombing of the Masakin Firdous neighborhood of Aleppo\. Source: LCC](assets/7e15c24d64a0/1*WTpITKEFns7qV3fwK67Izg.jpeg)
+![The aftermath of Saturday’s bombing of the Masakin Firdous neighborhood of Aleppo\. Source: LCC](../assets/7e15c24d64a0/1*WTpITKEFns7qV3fwK67Izg.jpeg)
 
 The aftermath of Saturday’s bombing of the Masakin Firdous neighborhood of Aleppo\. Source: LCC
 #### Syria
@@ -115,7 +115,7 @@ Refugees continue to be in need of legal service on their behalf\. As such, ther
 
 
 
-![Children watch Frozen on a projector fitted for the occasion by Refugees Foundation e\.V\. Photo credit: Kuba Kaliszewski](assets/7e15c24d64a0/1*dpmembbG6jzVGkhHQzWW9A.jpeg)
+![Children watch Frozen on a projector fitted for the occasion by Refugees Foundation e\.V\. Photo credit: Kuba Kaliszewski](../assets/7e15c24d64a0/1*dpmembbG6jzVGkhHQzWW9A.jpeg)
 
 Children watch Frozen on a projector fitted for the occasion by Refugees Foundation e\.V\. Photo credit: Kuba Kaliszewski
 ### Refugee children get some respite through cinema\.

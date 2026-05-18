@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: The humanitarian crisis in the Mediterranean continues
+title: "AYS SPECIAL: The humanitarian crisis in the Mediterranean continues"
 author: Are You Syrious?
 date: 2018-04-27T14:22:14.853+0100
 last_modified_at: 2018-04-30T09:48:42.688+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,sos-mediterranee,special,mediterranean,sea-rescue]
 description: Almost three years ago, SOS Mediterranee was founded to rescue in the Mediterranean. With AYS, Jana Ciernioch, spokesperson of the…
 image:
-  path: assets/b77f28e81d6e/1*W7mWhnU33qlhQZXmQZT4Mg.jpeg
+  path: ../assets/b77f28e81d6e/1*W7mWhnU33qlhQZXmQZT4Mg.jpeg
 ---
 
 ### AYS SPECIAL: The humanitarian crisis in the Mediterranean continues
@@ -15,7 +15,7 @@ image:
 _Almost three years ago, SOS Mediterranee was founded to rescue in the Mediterranean\. With AYS, Jana Ciernioch, spokesperson of the non\-profit organisation, talked about the developments in this time and explained the current situation in the central Mediterranean\._
 
 
-![Volunteers distribute life jackets during a rescue mission\. Credits: Laurin Schmid/SOS Mediterranee](assets/b77f28e81d6e/1*W7mWhnU33qlhQZXmQZT4Mg.jpeg)
+![Volunteers distribute life jackets during a rescue mission\. Credits: Laurin Schmid/SOS Mediterranee](../assets/b77f28e81d6e/1*W7mWhnU33qlhQZXmQZT4Mg.jpeg)
 
 Volunteers distribute life jackets during a rescue mission\. Credits: Laurin Schmid/SOS Mediterranee
 
@@ -24,7 +24,7 @@ Volunteers distribute life jackets during a rescue mission\. Credits: Laurin Sch
 **Ms\. Ciernioch, SOS Mediterranee was founded on 9th May 2015\. Soon the organisation will celebrate its third birthday\. What is your feeling about the situation in the central Mediterranean lasting for so long now?**
 
 
-![Jana Ciernioch, spokesperson of SOS Mediterranee\. Credits: Susanne Friedel/SOS Mediterranee](assets/b77f28e81d6e/1*MgxFm0w0DPwOmOBXINrxgw.jpeg)
+![Jana Ciernioch, spokesperson of SOS Mediterranee\. Credits: Susanne Friedel/SOS Mediterranee](../assets/b77f28e81d6e/1*MgxFm0w0DPwOmOBXINrxgw.jpeg)
 
 Jana Ciernioch, spokesperson of SOS Mediterranee\. Credits: Susanne Friedel/SOS Mediterranee
 
@@ -47,7 +47,7 @@ We have been on mission non\-stop for two years now\. Hence, we can clearly say 
 Secondly, in the past months we have been witnessing the Libyan Coast Guard intercepting people more and more in international waters — outside their territorial waters — and taking them back to Libya\.
 
 
-![Crew members watch out for boats in distress\. Credits: Hara Kaminara/SOS Mediterranee](assets/b77f28e81d6e/1*FPHWWsvGil-Vs5O4ivjMrQ.jpeg)
+![Crew members watch out for boats in distress\. Credits: Hara Kaminara/SOS Mediterranee](../assets/b77f28e81d6e/1*FPHWWsvGil-Vs5O4ivjMrQ.jpeg)
 
 Crew members watch out for boats in distress\. Credits: Hara Kaminara/SOS Mediterranee
 
@@ -60,7 +60,7 @@ We were already the only civil rescue ship operating without pause in the winter
 For us, the connection is obvious\. The drop in numbers is certainly connected with the political situation in Libya\. It also had to do with the fact that the European Union and especially Italy are outsourcing migration control\. All these are factors\. It is difficult for us to say what the reasons are, as we are at sea\. We are confronted with the fact that people come or not and that we have to rescue them\.
 
 
-![For the second time, the Aquarius was the only civil rescue ship operating\. Credits: Laurin Schmid/SOS Mediterranee](assets/b77f28e81d6e/1*flcFOiDa2b-Lf28kWThK1g.jpeg)
+![For the second time, the Aquarius was the only civil rescue ship operating\. Credits: Laurin Schmid/SOS Mediterranee](../assets/b77f28e81d6e/1*flcFOiDa2b-Lf28kWThK1g.jpeg)
 
 For the second time, the Aquarius was the only civil rescue ship operating\. Credits: Laurin Schmid/SOS Mediterranee
 
@@ -79,7 +79,7 @@ As an organisation with a European network, we also have an organisation in Ital
 I have now been with SOS Mediterranee for almost two years, and we also chartered the Aquarius\. Back then, there was no doubt about saving lives\. There were people who complained, “Why do you bring these people to Europe? Why don’t you take them back to their countries of origin or to North Africa?” Still, not saving lives was out of the question\. This has changed over the past two years: even this humanitarian duty, to rescue people from drowning, is being questioned\. This is what I see as the biggest backlash\.
 
 
-![Saving lives was out of the question once — today not anymore\. Credits: Laurin Schmid/SOS Mediterranee](assets/b77f28e81d6e/1*-iIAl5a7CTkSzRTVT1pD-Q.jpeg)
+![Saving lives was out of the question once — today not anymore\. Credits: Laurin Schmid/SOS Mediterranee](../assets/b77f28e81d6e/1*-iIAl5a7CTkSzRTVT1pD-Q.jpeg)
 
 Saving lives was out of the question once — today not anymore\. Credits: Laurin Schmid/SOS Mediterranee
 
@@ -114,7 +114,7 @@ The paradox is that we have always said we would only be there as long as we are
 In the Parliament, yes\. We had an appointment there at the beginning of the year, when we talked about the criminalisation of sea rescue organisations\. We got quite a lot encouragement from individual European delegates\. Additionally, we had a panel and met with some delegates\. But clearly the European Commission is the counterpart in this case, and it holds completely different positions\.
 
 
-[![Arne Lietz - SOS MEDITERRANEE - Presentation in the European Parliament](assets/b77f28e81d6e/da54_hqdefault.jpg "Arne Lietz - SOS MEDITERRANEE - Presentation in the European Parliament")](http://www.youtube.com/watch?v=OJW98L3v4kg)
+[![Arne Lietz - SOS MEDITERRANEE - Presentation in the European Parliament](../assets/b77f28e81d6e/da54_hqdefault.jpg "Arne Lietz - SOS MEDITERRANEE - Presentation in the European Parliament")](http://www.youtube.com/watch?v=OJW98L3v4kg)
 
 
 **How do you assess the two seizures? All the charges against the Open Arms have been dismissed, but the accusations against the members still stand\.**
@@ -136,7 +136,7 @@ No, actually not at all\. The people who are on board with us fully support what
 We are continuously at sea for three weeks at a time\. Most of our people on board have primarily a professional background, for example in shipping or rescue aid\. In this respect, we also work with Doctors Without Borders/Médecins Sans Frontières\. They provide the medical team and ensure the medical\-humanitarian care on board\.
 
 
-![MSF provides the medical\-humanitarian care on board\. Credits: Yann Levy/SOS Mediterranee](assets/b77f28e81d6e/1*r4DHcm7LWz0wcROST9jvJA.jpeg)
+![MSF provides the medical\-humanitarian care on board\. Credits: Yann Levy/SOS Mediterranee](../assets/b77f28e81d6e/1*r4DHcm7LWz0wcROST9jvJA.jpeg)
 
 MSF provides the medical\-humanitarian care on board\. Credits: Yann Levy/SOS Mediterranee
 
@@ -180,7 +180,7 @@ Indescribable joy among rescued women on the #Aquarius
 The arrival in Italy is a hard contrast for the people we take on board\. Most of them are on the Aquarius for up to 48 hours and there they can rest, sleep, talk to us, if they want\. Often, for the first time in months or years they have the feeling: okay, here I can take a deep breath, here I am safe now\. Then we sail into the harbour in Italy and the Italian authorities are already waiting there, and some are wearing white protective suits because they are afraid of being infected with infectious diseases\. The rescued people then often realise that they are now facing a totally different mood than on board, where we meet as equals\.
 
 
-![On board of the Aquarius, many rescued people feel safe for the first time since months\. Credits: Hara Kaminara/SOS Mediterranee](assets/b77f28e81d6e/1*0AVSK6BYW8pD2MsPY73d6g.jpeg)
+![On board of the Aquarius, many rescued people feel safe for the first time since months\. Credits: Hara Kaminara/SOS Mediterranee](../assets/b77f28e81d6e/1*0AVSK6BYW8pD2MsPY73d6g.jpeg)
 
 On board of the Aquarius, many rescued people feel safe for the first time since months\. Credits: Hara Kaminara/SOS Mediterranee
 
@@ -205,7 +205,7 @@ Furthermore, we have a 24\-hour\-hotline with psychological care on board\. The 
 When the people are back on the mainland, we additionally offer psychological aftercare\.
 
 
-![Volunteers face difficult experiences\. In 2018, 370 deaths were recorded in the Central Mediterranean\. Credits: Laurin Schmid/SOS Mediterranee](assets/b77f28e81d6e/1*fKsIEMLLy2FZB2hszCIl1w.jpeg)
+![Volunteers face difficult experiences\. In 2018, 370 deaths were recorded in the Central Mediterranean\. Credits: Laurin Schmid/SOS Mediterranee](../assets/b77f28e81d6e/1*fKsIEMLLy2FZB2hszCIl1w.jpeg)
 
 Volunteers face difficult experiences\. In 2018, 370 deaths were recorded in the Central Mediterranean\. Credits: Laurin Schmid/SOS Mediterranee
 
@@ -224,7 +224,7 @@ We have always been sailing hand to mouth, so to say\. We have to raise donation
 We always evaluate where the need is\. We started in the central Mediterranean and still see that there is a need\. Especially for big ships like the Aquarius, which can take many people\. There have always been forecasts that fewer people would come and our mission would not be needed any more and we were asked why we were still there\. Then we had one, two days, in which thousands of people came\. It turned out that the situation is unpredictable, especially in Libya\. But it depends to a great extent on whether people are able to flee over the Mediterranean — or not\.
 
 
-![For volunteers there is a big contrast between the rescue mission and everyday life\. Credits: Laurin Schmid/SOS Mediterranee](assets/b77f28e81d6e/1*mRIpaHHZyJOniXd_H85umA.jpeg)
+![For volunteers there is a big contrast between the rescue mission and everyday life\. Credits: Laurin Schmid/SOS Mediterranee](../assets/b77f28e81d6e/1*mRIpaHHZyJOniXd_H85umA.jpeg)
 
 For volunteers there is a big contrast between the rescue mission and everyday life\. Credits: Laurin Schmid/SOS Mediterranee
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 26/10/17: Conditions on Chios unbearable
+title: "AYS Daily Digest 26/10/17: Conditions on Chios unbearable"
 author: Are You Syrious?
 date: 2017-10-26T22:21:56.933+0100
 last_modified_at: 2017-10-27T05:20:19.885+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,refugeeswelcome,greece,france,asylum-seekers]
 description: A look at Vial camp, Chios island / 3,519 registrations in Greece so far in October / Arrivals from Tunisia to Italy / Demonstration at…
 image:
-  path: assets/9fb0f770f584/1*nSKP2NL1YOLbdBv0Lok54g.jpeg
+  path: ../assets/9fb0f770f584/1*nSKP2NL1YOLbdBv0Lok54g.jpeg
 ---
 
 ### AYS Daily Digest 26/10/17: Conditions on Chios unbearable
@@ -15,7 +15,7 @@ image:
 _A look at Vial camp, Chios island / 3,519 registrations in Greece so far in October / Arrivals from Tunisia to Italy / Demonstration at Clermont\-Ferrand, France / Report from Dunkirk / Many volunteer positions available in Greece and Serbia / Turkey cannot be deemed a safe third country? / And more news…_
 
 
-![\(Photo by [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?ref=gs&fref=gs&hc_location=group_dialog) \)](assets/9fb0f770f584/1*nSKP2NL1YOLbdBv0Lok54g.jpeg)
+![\(Photo by [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?ref=gs&fref=gs&hc_location=group_dialog) \)](../assets/9fb0f770f584/1*nSKP2NL1YOLbdBv0Lok54g.jpeg)
 
 \(Photo by [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?ref=gs&fref=gs&hc_location=group_dialog) \)
 ### FEATURE: [\#opentheislands](https://www.facebook.com/hashtag/opentheislands?source=feed_text) —a look at Chios
@@ -31,11 +31,11 @@ There is no electricity, no sanitation, no running water\. Doctors are warning o
 Volunteers are much needed on Chios at the moment\. CESRT, who meet the boats of refugees coming from Turkey and provide community and humanitarian support, English teaching, and family support, are seeing a real shortage of volunteers for December\. If you have a minimum of two weeks you can spare helping them out, please contact [Pothiti Kitromilidi](https://www.facebook.com/pothiti.kitromilidi?fref=mentions) on Facebook or [Andy Nixseaman](https://www.facebook.com/andy.nixseaman?hc_ref=ARSaywOSpJmsK0_zK5uN1mbAXC4gvCORuu6gIQh_R9SmjXJaecOwigYdXjBZNNW3Dww) for more information\.
 
 
-![](assets/9fb0f770f584/1*lHmmnHP1gs7vCInhZ1q56g.jpeg)
+![](../assets/9fb0f770f584/1*lHmmnHP1gs7vCInhZ1q56g.jpeg)
 
 
 
-![Souda camp \(Photos by a local volunteer\)](assets/9fb0f770f584/1*I9Ij9JZykGoDl978SDeAhg.jpeg)
+![Souda camp \(Photos by a local volunteer\)](../assets/9fb0f770f584/1*I9Ij9JZykGoDl978SDeAhg.jpeg)
 
 Souda camp \(Photos by a local volunteer\)
 
@@ -68,7 +68,7 @@ See the urgent needs for City Plaza [here](https://twitter.com/Kira13B/status/92
 There were 3,519 registrations in Greece so far in October\. 14,187 are currently on Lesvos, Chios, Samos, Kos and Leros\. Today’s arrivals are as follows:
 
 
-![](assets/9fb0f770f584/1*mSX6ZvzKGeCUlZvNqI48Ig.jpeg)
+![](../assets/9fb0f770f584/1*mSX6ZvzKGeCUlZvNqI48Ig.jpeg)
 
 ### MEDITERRANEAN/TUNISIA
 
@@ -98,19 +98,19 @@ An Iraqi suspected people\-smuggler believed to be responsible for the deaths of
 They distributed 120 sleeping bags, packs made up of dry socks, hygiene kits, and dried fruit, along with targeted distributions of tents, tarps, boots and backpacks\.
 
 
-![](assets/9fb0f770f584/1*Nr9c1ZokpA7N9mFrzbSC4A.jpeg)
+![](../assets/9fb0f770f584/1*Nr9c1ZokpA7N9mFrzbSC4A.jpeg)
 
 
 
-![](assets/9fb0f770f584/1*EwKnu4IAb_BzM4qvfZv2Vg.jpeg)
+![](../assets/9fb0f770f584/1*EwKnu4IAb_BzM4qvfZv2Vg.jpeg)
 
 
 
-![](assets/9fb0f770f584/1*co0sVqomEKDXzGPFPwVNlw.jpeg)
+![](../assets/9fb0f770f584/1*co0sVqomEKDXzGPFPwVNlw.jpeg)
 
 
 
-![\(Photo by Care4Calais\)](assets/9fb0f770f584/1*LpDvAFLKDaKHZ7Jnjpz9Lg.jpeg)
+![\(Photo by Care4Calais\)](../assets/9fb0f770f584/1*LpDvAFLKDaKHZ7Jnjpz9Lg.jpeg)
 
 \(Photo by Care4Calais\)
 #### Clermont\-Ferrand

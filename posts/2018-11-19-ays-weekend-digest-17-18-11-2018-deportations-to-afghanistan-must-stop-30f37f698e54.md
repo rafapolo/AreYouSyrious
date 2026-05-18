@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 17–18/11/2018: Deportations to Afghanistan Must Stop
+title: "AYS Weekend Digest 17–18/11/2018: Deportations to Afghanistan Must Stop"
 author: Are You Syrious?
 date: 2018-11-19T12:13:16.297+0000
 last_modified_at: 2018-11-19T12:13:16.297+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [mediterranean,samos,balkans,refugees,digest]
 description: Deaths at Sea in the Mediterranean and Atlantic /// Desperation on Samos /// Criminalisation of Solidarity in Bosnia /// 3-week-long mass…
 image:
-  path: assets/30f37f698e54/1*zjYT_isx6qlnwoWl_jcmLQ.jpeg
+  path: ../assets/30f37f698e54/1*zjYT_isx6qlnwoWl_jcmLQ.jpeg
 ---
 
 ### AYS Weekend Digest 17–18/11/2018: Deportations to Afghanistan Must Stop
@@ -15,7 +15,7 @@ image:
 Deaths at Sea in the Mediterranean and Atlantic /// Desperation on Samos /// Criminalisation of Solidarity in Bosnia /// 3\-week\-long mass to prevent deportation in The Hague /// Heroin spreading among refugees in Paris /// Boycott of Sjælsmark carries on in Denmark
 
 
-![Deaths at Sea \( [\#Maydayterraneo](https://www.facebook.com/MAYDAYTERRANEO/?ref=br_rs) / [SMH](https://www.facebook.com/smhumanitario/?tn-str=k%2AF) / [ProemAid](https://www.facebook.com/Proemaid/) \)](assets/30f37f698e54/1*zjYT_isx6qlnwoWl_jcmLQ.jpeg)
+![Deaths at Sea \( [\#Maydayterraneo](https://www.facebook.com/MAYDAYTERRANEO/?ref=br_rs) / [SMH](https://www.facebook.com/smhumanitario/?tn-str=k%2AF) / [ProemAid](https://www.facebook.com/Proemaid/) \)](../assets/30f37f698e54/1*zjYT_isx6qlnwoWl_jcmLQ.jpeg)
 
 Deaths at Sea \( [\#Maydayterraneo](https://www.facebook.com/MAYDAYTERRANEO/?ref=br_rs) / [SMH](https://www.facebook.com/smhumanitario/?tn-str=k%2AF) / [ProemAid](https://www.facebook.com/Proemaid/) \)
 #### Feature — Deportations to Afghanistan Must Stop
@@ -38,7 +38,7 @@ In an open letter to Heléne Fritzon, Swedish Minister for Migration, he asks fo
 The British Government, who have deported [more than 700 people](https://www.gov.uk/government/publications/immigration-statistics-year-ending-june-2018/how-many-people-are-detained-or-returned#returns) to Afghanistan since 2014, seem to agree that the country is incredibly unsafe, at least when it come to their own citizens\. They currently advise against all but essential travel and can offer no support to British Nationals who choose to travel there\.
 
 
-![](assets/30f37f698e54/1*tBb8n04YeOmPTeSd4rijKw.jpeg)
+![](../assets/30f37f698e54/1*tBb8n04YeOmPTeSd4rijKw.jpeg)
 
 
 According to the UN, 2018 has been the deadliest year for civilian Afghans this decade, with [almost 1,700 people killed](https://news.un.org/en/story/2018/07/1014762) in the first half of the year alone\. Amnesty International has recently published a report, [European States should Stop Forcing People to Danger in Afghanistan](https://www.amnesty.org/en/documents/asa11/9262/2018/en/) , stating the multiple dangers faced by people in the country and those returned there including food insecurity, child labour and torture\.
@@ -123,7 +123,7 @@ There was a riot in the Samos camp on Saturday, November 17\.
 After weeks of hunger, living totally exposed to the elements, facing constant violence from both the police and the general chaos in the camp, some people living in the camp finally hit their breaking point\. It had begun to rain hard on Friday evening, and by Saturday afternoon there were rivers of water streaming through the hill\-side camp\. Almost everyone living in a tent had a stream passing through it, and by Saturday people were completely soaking wet and miserable, more or less washed out of their tents\.
 
 
-![Samos camp \(Photo by AYS\)](assets/30f37f698e54/1*hy-nMjZoG_Dic9L79Hvkqw.jpeg)
+![Samos camp \(Photo by AYS\)](../assets/30f37f698e54/1*hy-nMjZoG_Dic9L79Hvkqw.jpeg)
 
 Samos camp \(Photo by AYS\)
 
@@ -132,15 +132,15 @@ It should be noted that the UNHCR has supplies to help people prepare for bad we
 As one volunteer described, “The conditions in the camp and the surrounding field are the worst they’ve ever been… When the temperature drops a month from now people may not survive\. People are living next to piles of feces and bottles of urine because they are too afraid to leave their tents at night\.”
 
 
-![](assets/30f37f698e54/1*win2F7cILUgL9YOEgn8-ig.jpeg)
+![](../assets/30f37f698e54/1*win2F7cILUgL9YOEgn8-ig.jpeg)
 
 
 
-![](assets/30f37f698e54/1*SdJr3ksw_Kk7-Qr5yEqsdg.jpeg)
+![](../assets/30f37f698e54/1*SdJr3ksw_Kk7-Qr5yEqsdg.jpeg)
 
 
 
-![Samos Camp \(Photo by AYS\)](assets/30f37f698e54/1*ckCN1zuOnzdMHFu7VY49KA.jpeg)
+![Samos Camp \(Photo by AYS\)](../assets/30f37f698e54/1*ckCN1zuOnzdMHFu7VY49KA.jpeg)
 
 Samos Camp \(Photo by AYS\)
 
@@ -257,7 +257,7 @@ FRANCE
 From [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/) :
 
 
-![Paris \(Photo by Paris Refugee Ground Support\)](assets/30f37f698e54/1*8jSASdEyKeLjPoI8sRGk7A.jpeg)
+![Paris \(Photo by Paris Refugee Ground Support\)](../assets/30f37f698e54/1*8jSASdEyKeLjPoI8sRGk7A.jpeg)
 
 Paris \(Photo by Paris Refugee Ground Support\)
 
@@ -335,7 +335,7 @@ Paris \(Photo by Paris Refugee Ground Support\)
 [Refugee women’s centre published an update](https://www.facebook.com/refugeewomenscentre/photos/a.178973875861584/540205363071765/?type=3&theater) after la eviction in Grande\-Synthe\.
 
 
-![Grande\-Synthe \(Photo by Refugee Women’s Centre\)](assets/30f37f698e54/1*dx5DIsULmtf5E940JhUPdA.png)
+![Grande\-Synthe \(Photo by Refugee Women’s Centre\)](../assets/30f37f698e54/1*dx5DIsULmtf5E940JhUPdA.png)
 
 Grande\-Synthe \(Photo by Refugee Women’s Centre\)
 
@@ -380,7 +380,7 @@ BELGIUM
 #### Update from Brussels
 
 
-![Clothes distribution in Brussels \(Photo by [Care4Calais](https://www.facebook.com/care4calais) \)](assets/30f37f698e54/1*ktpBh9-s-CcLxGaX6xJuwg.jpeg)
+![Clothes distribution in Brussels \(Photo by [Care4Calais](https://www.facebook.com/care4calais) \)](../assets/30f37f698e54/1*ktpBh9-s-CcLxGaX6xJuwg.jpeg)
 
 Clothes distribution in Brussels \(Photo by [Care4Calais](https://www.facebook.com/care4calais) \)
 

@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 11/07/2018: “World Champions in letting people drown”
+title: "AYS DAILY DIGEST 11/07/2018: “World Champions in letting people drown”"
 author: Are You Syrious?
 date: 2018-07-12T10:56:18.128+0100
 last_modified_at: 2018-07-12T11:13:33.678+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,digest,spain,sea-watch,sea]
 description: Protests take place in Germany and Italy over EU and state inaction in the Mediterranean//Donations needed in Calais//Protests continue…
 image:
-  path: assets/90950ad45a3c/0*J0SeZQym7FF-CT2e
+  path: ../assets/90950ad45a3c/0*J0SeZQym7FF-CT2e
 ---
 
 ### AYS DAILY DIGEST 11/07/2018: “World Champions in letting people drown”
@@ -15,7 +15,7 @@ image:
 _Protests take place in Germany and Italy over EU and state inaction in the Mediterranean//Donations needed in Calais//Protests continue against arrests during solidarity march in support of refugees//Information on illegal pushbacks in Greece//_
 
 
-![Photo by Sea\-Watch](assets/90950ad45a3c/0*J0SeZQym7FF-CT2e)
+![Photo by Sea\-Watch](../assets/90950ad45a3c/0*J0SeZQym7FF-CT2e)
 
 Photo by Sea\-Watch
 #### Feature
@@ -49,14 +49,14 @@ Sea\-Eye is looking at a new “Sea\-Eye 2” project, saying it is “determine
 Lifeline meanwhile is raising [funds](https://mission-lifeline.de/de/spenden) for a replacement ship as its current one is still stranded in Malta\. The captain of their boat, Claus\-Peter Reisch, has been allowed to leave Malta from 16–29 July to visit his 93\-year old mother, after which he will have to return to the island for a court hearing\.
 
 
-![Photo by Sea\-Watch](assets/90950ad45a3c/0*vgy66sFOJ-EdURZc)
+![Photo by Sea\-Watch](../assets/90950ad45a3c/0*vgy66sFOJ-EdURZc)
 
 Photo by Sea\-Watch
 #### Greece
 ### Refugees arrive to Greece
 
 
-![Photo by Mo’Chara](assets/90950ad45a3c/0*D3x4yziu1iMCaXH7)
+![Photo by Mo’Chara](../assets/90950ad45a3c/0*D3x4yziu1iMCaXH7)
 
 Photo by Mo’Chara
 
@@ -86,7 +86,7 @@ The petition calls on changes to the current rules that would allow child refuge
 ### Protests against arrests of undocumented people during solidarity march
 
 
-![Photo by La CSP75 — Coordination 75 des Sans Papiers](assets/90950ad45a3c/0*CdFdw2GBrNassXq_)
+![Photo by La CSP75 — Coordination 75 des Sans Papiers](../assets/90950ad45a3c/0*CdFdw2GBrNassXq_)
 
 Photo by La CSP75 — Coordination 75 des Sans Papiers
 

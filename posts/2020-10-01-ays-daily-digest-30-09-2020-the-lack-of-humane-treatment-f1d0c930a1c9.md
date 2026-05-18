@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,spain,ital]
 description: Activists send airplane to Lesvos; volunteers arrested // Italian trade unions criticize migration pact // New weeks report for the…
 image:
-  path: assets/f1d0c930a1c9/1*tKSPdBc3OLUuMyHSeN0o3A.jpeg
+  path: ../assets/f1d0c930a1c9/1*tKSPdBc3OLUuMyHSeN0o3A.jpeg
 ---
 
 ### AYS Daily Digest 30/09/2020 — The lack of humane treatment
 #### Activists send airplane to Lesvos; volunteers arrested // Italian trade unions criticize migration pact // New weeks report for the Mediterranean // Report on inhumane treatment of undocumented workers in Spain
 
 
-![People on Leros demonstrating against the renewal of quarantine\. Credits: Leros Refugee Youth Group](assets/f1d0c930a1c9/1*tKSPdBc3OLUuMyHSeN0o3A.jpeg)
+![People on Leros demonstrating against the renewal of quarantine\. Credits: Leros Refugee Youth Group](../assets/f1d0c930a1c9/1*tKSPdBc3OLUuMyHSeN0o3A.jpeg)
 
 People on Leros demonstrating against the renewal of quarantine\. Credits: Leros Refugee Youth Group
 ### Greece

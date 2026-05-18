@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,athens,libya,syria]
 description: Reports from Al-Hol camp in Syria /// Calls for help from detainees in Libya /// Arrivals in Greece and Italy /// Prosecutor rejects…
 image:
-  path: assets/b81e841ab66c/1*XDbsU9oDajn9Dg4ua8B2ug.jpeg
+  path: ../assets/b81e841ab66c/1*XDbsU9oDajn9Dg4ua8B2ug.jpeg
 ---
 
 ### AYS Daily Digest 11/04/2019 Update on Athens Eviction
@@ -15,7 +15,7 @@ image:
 Reports from Al\-Hol camp in Syria /// Calls for help from detainees in Libya /// Arrivals in Greece and Italy /// Prosecutor rejects accusation against Greek coast guard /// Boats are still being brought back to Libya, despite conflict /// more…
 
 
-![“Now the doors are closed with lots of metal — but this doesn’t mean that we stay outside\! We will find new houses\! As long as people are left alone there will be resistance\! And we keep fighting against borders — for freedom of movement\!” _— [Azadi Squat Athens](https://www.facebook.com/AzadiSquatAthens/posts/2305605556127641?hc_location=ufi)_](assets/b81e841ab66c/1*XDbsU9oDajn9Dg4ua8B2ug.jpeg)
+![“Now the doors are closed with lots of metal — but this doesn’t mean that we stay outside\! We will find new houses\! As long as people are left alone there will be resistance\! And we keep fighting against borders — for freedom of movement\!” _— [Azadi Squat Athens](https://www.facebook.com/AzadiSquatAthens/posts/2305605556127641?hc_location=ufi)_](../assets/b81e841ab66c/1*XDbsU9oDajn9Dg4ua8B2ug.jpeg)
 
 “Now the doors are closed with lots of metal — but this doesn’t mean that we stay outside\! We will find new houses\! As long as people are left alone there will be resistance\! And we keep fighting against borders — for freedom of movement\!” _— [Azadi Squat Athens](https://www.facebook.com/AzadiSquatAthens/posts/2305605556127641?hc_location=ufi)_
 #### Update on Athens Evictions
@@ -25,7 +25,7 @@ Reports from Al\-Hol camp in Syria /// Calls for help from detainees in Libya //
 This eviction has also left many homeless; to support them please go [here](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.paypal.me%2FHelphumaninneed%3Ffbclid%3DIwAR3Voh6qEPnnLvtP6OkrMRxiiloMwWDRMSzbPFTt5UFbgDIz7sJDilpnzWE&h=AT0WXLzRGZldud9JKZl27G6vGc3Ku_boMcPeyWutE19LmG4yQ0-iq4D9Rr-jNl9y2eQCoLi74dl8252b8sFEirV4Wg9hx9_mlI0MMjrcA5u8Q-4X6kG0LPllc5C96QWAspjCY7sC9eQdH0oKNDcc) \.
 
 
-![Entrances were boarded up after the squats were evicted yesterday morning — [Azadi Squat Athens](https://www.facebook.com/AzadiSquatAthens) \. More photos [here](https://www.facebook.com/AzadiSquatAthens/posts/2305308082824055?hc_location=ufi) and [here](https://www.facebook.com/AzadiSquatAthens/posts/2305605556127641?hc_location=ufi) \.](assets/b81e841ab66c/1*Zs8YLVQWoUEMqaVnN5eflQ.jpeg)
+![Entrances were boarded up after the squats were evicted yesterday morning — [Azadi Squat Athens](https://www.facebook.com/AzadiSquatAthens) \. More photos [here](https://www.facebook.com/AzadiSquatAthens/posts/2305308082824055?hc_location=ufi) and [here](https://www.facebook.com/AzadiSquatAthens/posts/2305605556127641?hc_location=ufi) \.](../assets/b81e841ab66c/1*Zs8YLVQWoUEMqaVnN5eflQ.jpeg)
 
 Entrances were boarded up after the squats were evicted yesterday morning — [Azadi Squat Athens](https://www.facebook.com/AzadiSquatAthens) \. More photos [here](https://www.facebook.com/AzadiSquatAthens/posts/2305308082824055?hc_location=ufi) and [here](https://www.facebook.com/AzadiSquatAthens/posts/2305605556127641?hc_location=ufi) \.
 
@@ -196,7 +196,7 @@ Read more about the case [here](https://rsaegean.org/en/agathonisishipwreck-the-
 [No Borders have published information](https://www.facebook.com/nobordersnetwork/posts/2214182191982994) on a common medicine, Ponstan Oral, that will no longer be available according to the National Medicine Organisation \(EOF\) \.
 
 
-![](assets/b81e841ab66c/1*hJEqBOkU0kiwhs2madufFg.jpeg)
+![](../assets/b81e841ab66c/1*hJEqBOkU0kiwhs2madufFg.jpeg)
 
 
 ITALY
@@ -267,7 +267,7 @@ FRANCE
 #### Paris Evacuations at Porte de la Chapelle and Rosa\-Park
 
 
-![Paris \(Photo by [Solidaritè Migrants Wilson](https://www.facebook.com/permalink.php?story_fbid=1112884155579022&id=598228360377940) \)](assets/b81e841ab66c/1*wZgYLt7VNdO1yi1D8fY8wg.jpeg)
+![Paris \(Photo by [Solidaritè Migrants Wilson](https://www.facebook.com/permalink.php?story_fbid=1112884155579022&id=598228360377940) \)](../assets/b81e841ab66c/1*wZgYLt7VNdO1yi1D8fY8wg.jpeg)
 
 Paris \(Photo by [Solidaritè Migrants Wilson](https://www.facebook.com/permalink.php?story_fbid=1112884155579022&id=598228360377940) \)
 

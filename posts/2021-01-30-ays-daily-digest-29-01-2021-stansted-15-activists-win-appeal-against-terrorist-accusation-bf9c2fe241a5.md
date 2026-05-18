@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,uk,greece,frontex,spain]
 description: // Fire breaks out in the military barracks in Folkestone (Kent) //The European Parliament set to investigate Frontex’s involvement in…
 image:
-  path: assets/bf9c2fe241a5/0*rAtn0HN1vZ6_u-dy.jpeg
+  path: ../assets/bf9c2fe241a5/0*rAtn0HN1vZ6_u-dy.jpeg
 ---
 
 ### AYS Daily Digest 29/01/2021 — “Stansted 15” Activists win appeal against terrorist accusation
 ### // Fire breaks out in the military barracks in Folkestone \(Kent\) //The European Parliament set to investigate Frontex’s involvement in illegal pushbacks // Protests in Austria over unlawful deportation of minors //
 
 
-![](assets/bf9c2fe241a5/0*Wi56ptZthWAEeMS3.jpeg)
+![](../assets/bf9c2fe241a5/0*Wi56ptZthWAEeMS3.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----2de0b1314740--------------------------------)
@@ -23,11 +23,11 @@ image:
 ### UK
 
 
-![](assets/bf9c2fe241a5/0*43AGvwV-DLMvZ0te)
+![](../assets/bf9c2fe241a5/0*43AGvwV-DLMvZ0te)
 
 
 
-![](assets/bf9c2fe241a5/0*rAtn0HN1vZ6_u-dy.jpeg)
+![](../assets/bf9c2fe241a5/0*rAtn0HN1vZ6_u-dy.jpeg)
 
 ### Stansted 15 win appeal
 
@@ -41,11 +41,11 @@ It is worth re\-sharing [here](https://www.theguardian.com/commentisfree/2018/de
 ### Fire at Folkestone
 
 
-![](assets/bf9c2fe241a5/0*v32vXxzE0XeJlGYe)
+![](../assets/bf9c2fe241a5/0*v32vXxzE0XeJlGYe)
 
 
 
-![](assets/bf9c2fe241a5/0*d3SPipELv3m9V1-D.jpeg)
+![](../assets/bf9c2fe241a5/0*d3SPipELv3m9V1-D.jpeg)
 
 
 A fire has broken out and fire engines have been called to [Napier Barracks in Folkestone](https://www.facebook.com/care4calais/posts/4028721447160782) following an upsetting afternoon for the residents\. They each received an impersonal letter from Clearspings, the accommodation provider, saying they would be split into new ‘bubbles’ and would need to self\-isolate for a further ten days\. Following last week’s transfers, many had thought they had a chance of leaving the camp\. The letter was a great disappointment\.
@@ -90,11 +90,11 @@ Speaking of the “taxpayer’s money” so dear to the current government, the 
 The situation in the Vathy camp is at least as miserable and dangerous as it used to be in the Moria camp on Lesbos, which burned down in September\.
 
 
-![](assets/bf9c2fe241a5/0*B6a4NFWHdgXL8HzB)
+![](../assets/bf9c2fe241a5/0*B6a4NFWHdgXL8HzB)
 
 
 
-![](assets/bf9c2fe241a5/0*3NYK6xia7Da-i7DS.jpeg)
+![](../assets/bf9c2fe241a5/0*3NYK6xia7Da-i7DS.jpeg)
 
 
 There is a similar worrying situation in the Vial Camp, on Chios, where similar dismal conditions are visible in this [video](https://www.facebook.com/ruhi.akhtar.7/posts/4249286885088187) \. We also share this r [eport from Vial Hot Spot](https://www.facebook.com/ruhi.akhtar.7/posts/4248207965196079) :
@@ -165,11 +165,11 @@ In its letter to the Minister, Amnesty International expresses concern about the
 ### AUSTRIA
 
 
-![](assets/bf9c2fe241a5/0*WqoknCVJ09uHKT-y)
+![](../assets/bf9c2fe241a5/0*WqoknCVJ09uHKT-y)
 
 
 
-![](assets/bf9c2fe241a5/0*PpFoWdtEJtBjrZq8.jpeg)
+![](../assets/bf9c2fe241a5/0*PpFoWdtEJtBjrZq8.jpeg)
 
 
 The [deportation of three girls to Georgia and Armenia](https://www.infomigrants.net/en/post/29968/austria-outrage-over-deportation-of-three-girls?fbclid=IwAR3yiTBufJqZDsGFDR65-NntJ2oAKuP-de8bc9tRTfWZCvq5xNs2G_AP32w) has caused controversy and tension in Austria\. People criticized the government for expelling children who were considered to be “well integrated”, including a 12\-year\-old girl born in Austria\.
@@ -180,11 +180,11 @@ Police special unit WEGA [cleared a sit\-in](https://twitter.com/PresseWien/stat
 ### SPAIN
 
 
-![](assets/bf9c2fe241a5/0*UnV2MQw1JxwgPW7i)
+![](../assets/bf9c2fe241a5/0*UnV2MQw1JxwgPW7i)
 
 
 
-![](assets/bf9c2fe241a5/0*M69noo6hc6edGDIL.jpeg)
+![](../assets/bf9c2fe241a5/0*M69noo6hc6edGDIL.jpeg)
 
 
 [NoName Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/1171832403215042) reports from “Plaza de Toros”, a makeshift camp in Melilla:

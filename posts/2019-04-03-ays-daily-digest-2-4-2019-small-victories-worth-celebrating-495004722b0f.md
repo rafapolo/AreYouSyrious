@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 2/4/2019: Small victories worth celebrating
+title: "AYS DAILY DIGEST 2/4/2019: Small victories worth celebrating"
 author: Are You Syrious?
 date: 2019-04-03T11:12:32.731+0100
 last_modified_at: 2019-04-03T21:33:34.767+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,riace,italy,bosnia,digest]
 description: Major of Riace found not guilty // Devastating effects of the floods in Syria // Report on refugee workers in Turkey // 50 people are…
 image:
-  path: assets/495004722b0f/1*FQIcBKz7sADyC5MKgn1yYA.jpeg
+  path: ../assets/495004722b0f/1*FQIcBKz7sADyC5MKgn1yYA.jpeg
 ---
 
 ### AYS DAILY DIGEST 2/4/2019: Small victories worth celebrating
@@ -15,7 +15,7 @@ image:
 _Major of Riace found not guilty // Devastating effects of the floods in Syria // Report on refugee workers in Turkey // 50 people missing in the sea // Police violence in Bosnia // Two deaths in the Balkans this week //_
 
 
-![](assets/495004722b0f/1*FQIcBKz7sADyC5MKgn1yYA.jpeg)
+![](../assets/495004722b0f/1*FQIcBKz7sADyC5MKgn1yYA.jpeg)
 
 ### Feature
 
@@ -137,7 +137,7 @@ For people stuck in Bosnia or making their way through the country, new problems
 This weekend, over 100 people arrived in Sarajevo, including many children and at least one pregnant women\. IOM and UNHCR did not provide accommodation for any of them\. IOM claims that camp Usivak, run by the organization, is full and cannot accept new people at the moment\. It is not clear what they envision as a solution, since more and more people are arriving daily\.
 
 
-![Hundreds of people arrived to Tuzla, city close to the border with Serbia, this year\. Help is provided by the locals\. Photo Nihad Suljic\.](assets/495004722b0f/1*MMrLhxjoPQEc-uWjfWJwJg.jpeg)
+![Hundreds of people arrived to Tuzla, city close to the border with Serbia, this year\. Help is provided by the locals\. Photo Nihad Suljic\.](../assets/495004722b0f/1*MMrLhxjoPQEc-uWjfWJwJg.jpeg)
 
 Hundreds of people arrived to Tuzla, city close to the border with Serbia, this year\. Help is provided by the locals\. Photo Nihad Suljic\.
 
@@ -148,11 +148,11 @@ What’s more, AYS continues to receive reports about police violence, especiall
 The following is a short report by a person who claims that he was taken to the police station in the city and badly beaten, in his own words\.
 
 
-![](assets/495004722b0f/1*U27Wf8exE4sGpRqsXasWRg.jpeg)
+![](../assets/495004722b0f/1*U27Wf8exE4sGpRqsXasWRg.jpeg)
 
 
 
-![After police beating in Kladusa\. Photo AYS](assets/495004722b0f/1*DElKsnMALG30aA1GT5jugw.jpeg)
+![After police beating in Kladusa\. Photo AYS](../assets/495004722b0f/1*DElKsnMALG30aA1GT5jugw.jpeg)
 
 After police beating in Kladusa\. Photo AYS
 
@@ -185,11 +185,11 @@ Today the #Dutch Gov’t blocks #SeaWatch 3 and other #NGO ships from rescuing, 
 Solidarité migrants [Wilson reports](https://www.facebook.com/598228360377940/photos/a.599438026923640/1107063572827747/?type=3&theater) on the death of an elderly woman, “in the mud, close to a soiled mattress and a tent between two highway ramps” in Paris\.
 
 
-![](assets/495004722b0f/1*6vQUIhHYxmIoQvbwM9AGHQ.jpeg)
+![](../assets/495004722b0f/1*6vQUIhHYxmIoQvbwM9AGHQ.jpeg)
 
 
 
-![](assets/495004722b0f/1*DyZ_Ky5Mt5GHhrVF_WTdXA.jpeg)
+![](../assets/495004722b0f/1*DyZ_Ky5Mt5GHhrVF_WTdXA.jpeg)
 
 ### Germany
 

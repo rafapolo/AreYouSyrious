@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 11/07/17: “Cutting the legs of solidarity outside the official camps”
+title: "AYS Daily Digest 11/07/17: “Cutting the legs of solidarity outside the official camps”"
 author: Are You Syrious?
 date: 2017-07-12T03:30:20.607+0100
 last_modified_at: 2017-07-14T14:56:39.576+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,greece,italy,volunteering,europe]
 description: Suffering of civilians in Iraq in the midst of liberation / Italy — a young man died because his pain was ignored by medical staff | Greece…
 image:
-  path: assets/8fc96c54f9bf/1*GHJiKFfuZi7CSqz_bbLiKQ.jpeg
+  path: ../assets/8fc96c54f9bf/1*GHJiKFfuZi7CSqz_bbLiKQ.jpeg
 ---
 
 ### AYS Daily Digest 11/07/17: “Cutting the legs of solidarity outside the official camps”
@@ -15,7 +15,7 @@ image:
 _Suffering of civilians in Iraq in the midst of liberation / Italy — a young man died because his pain was ignored by medical staff \| Greece — worries grow over state taking over the island camps \| Bulgaria — poor conditions in Bulgaria leave open questions on finances \| France — evacuation of a small camp in the north \| Busy day for NGOs saving lives at the Mediterranean_
 
 
-![The morning after the fire\. \. \. \(Photo by [مهاجر immigrant](https://www.facebook.com/riadh04/) \)](assets/8fc96c54f9bf/1*GHJiKFfuZi7CSqz_bbLiKQ.jpeg)
+![The morning after the fire\. \. \. \(Photo by [مهاجر immigrant](https://www.facebook.com/riadh04/) \)](../assets/8fc96c54f9bf/1*GHJiKFfuZi7CSqz_bbLiKQ.jpeg)
 
 The morning after the fire\. \. \. \(Photo by [مهاجر immigrant](https://www.facebook.com/riadh04/) \)
 #### FEATURE
@@ -52,7 +52,7 @@ Around 400 people arrived on Lesbos in the first 10 days of July\. According to 
 The situation in the camps is reportedly poor, especially in Moria, a camp that now houses more than 3,000 people\. The number of people currently staying in Moria exceeds the camp’s capacity by approximately 40%
 
 
-![“Yesterday, a fire broke out in Moria camp on the Greek island of Lesbos\. Residents were protesting the abysmal conditions in the camp when the fires started\. No injuries have been reported\. Well over 1,000 people have now fled the camp\. Some of whom are currently being housed in a warehouse on the island\.” — Help Refugees](assets/8fc96c54f9bf/1*ESwh4escVBULUPf_pC1qJA.png)
+![“Yesterday, a fire broke out in Moria camp on the Greek island of Lesbos\. Residents were protesting the abysmal conditions in the camp when the fires started\. No injuries have been reported\. Well over 1,000 people have now fled the camp\. Some of whom are currently being housed in a warehouse on the island\.” — Help Refugees](../assets/8fc96c54f9bf/1*ESwh4escVBULUPf_pC1qJA.png)
 
 “Yesterday, a fire broke out in Moria camp on the Greek island of Lesbos\. Residents were protesting the abysmal conditions in the camp when the fires started\. No injuries have been reported\. Well over 1,000 people have now fled the camp\. Some of whom are currently being housed in a warehouse on the island\.” — Help Refugees
 
@@ -124,7 +124,7 @@ More information can be found [here](https://www.facebook.com/events/32870767089
 #### A camp in the north dismantled and evacuated
 
 
-![Photo: [Help Refugees](https://www.facebook.com/HelpRefugeesUK/)](assets/8fc96c54f9bf/1*aMf3joggrmAkHt-VE5RiXQ.jpeg)
+![Photo: [Help Refugees](https://www.facebook.com/HelpRefugeesUK/)](../assets/8fc96c54f9bf/1*aMf3joggrmAkHt-VE5RiXQ.jpeg)
 
 Photo: [Help Refugees](https://www.facebook.com/HelpRefugeesUK/)
 

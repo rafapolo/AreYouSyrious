@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 26/2/20: Unprotected, attacked and shot at across the Balkan Route
+title: "AYS Daily Digest 26/2/20: Unprotected, attacked and shot at across the Balkan Route"
 author: Are You Syrious?
 date: 2020-02-27T13:37:31.335+0000
 last_modified_at: 2020-02-27T14:50:06.481+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,balkans,migration,europe,greece]
 description: Fascist groups arrested in Belgrade after their raid across the city — reactions / A letter from the Aegean islands — activists have…
 image:
-  path: assets/85ffff18f9d5/1*Z94Nsj3wznUqjZmBMFEGzA.jpeg
+  path: ../assets/85ffff18f9d5/1*Z94Nsj3wznUqjZmBMFEGzA.jpeg
 ---
 
 ### AYS Daily Digest 26/2/20: Unprotected, attacked and shot at across the Balkan Route
 #### Fascist groups arrested in Belgrade after their raid across the city — reactions / A letter from the Aegean islands — activists have expressed their concerns / Growing insecurity for both people on the move and for those defending human rights / Denmark back in the ‘quota system’ / UK’s post\-Brexit immigration full of flaws / & more info
 
 
-![Tuzla, Bosnia and Herzegovina](assets/85ffff18f9d5/1*Z94Nsj3wznUqjZmBMFEGzA.jpeg)
+![Tuzla, Bosnia and Herzegovina](../assets/85ffff18f9d5/1*Z94Nsj3wznUqjZmBMFEGzA.jpeg)
 
 Tuzla, Bosnia and Herzegovina
 #### FEATURED
@@ -24,7 +24,7 @@ BOSNIA AND HERZEGOVINA — According to several statements and different local s
 Nobody came to investigate, ask if they are alright, care for their wellbeing as seekers of international protection…
 
 
-![](assets/85ffff18f9d5/1*P3HN2ivTzTNNLkqYcQTuuA.jpeg)
+![](../assets/85ffff18f9d5/1*P3HN2ivTzTNNLkqYcQTuuA.jpeg)
 
 
 People on the move are still being left alone to find their own ways to cope, means to survive and places to stay, with not much worry being expressed clearly by the international organisations present in Bosnia and Herzegovina, or other cantons, or the federal government\. While the ball is being tossed from one side to the other and money is being spent in not always transparent ways and often not the best way, given the state of things, people are dying\. People are afraid, cold, hungry, desperate, psychologically very vulnerable, and left without any choice but to try again and again to leave the country, being further beaten and abused at the borders and inside the EU Member states which show no solidarity either to the country of Bosnia and Herzegovina, or to the people who are stuck there with barely any protection\. On a daily basis, the people on the move who gather in several places across town are being threatened especially by several well\-known locals, who have demonstrated all kinds of violent behaviour, constantly calling the police for no reason, who then detain and beat up the boys who have only so many options, being left alone by everyone except for those individuals willing to help and support them, drawing a kind of bullseye on their back as well\. No official reactions so far\.
@@ -32,11 +32,11 @@ People on the move are still being left alone to find their own ways to cope, me
 In Tuzla, after reports of hair salons refusing to welcome clients who were basically youth on the move, and restaurants and bars who denied them entry, now more racist attacks are being reported by the locals\. While there is a substantial number of locals in Tuzla active and present on a daily basis in aiding and helping people in transit during their stay in Tuzla, there is a growing hostility documented across the country, including here\. This week an Afghan boy entered a cafe to order coffee only to be attacked by an older local man, who threatened him and kept verbally attacking him\. The young man did not react to the harassment that was, reportedly, witnessed by a number of locals and representatives of the international organisations present\.
 
 
-![](assets/85ffff18f9d5/1*qqhUNCM8ZqhHJxCVxao0VQ.jpeg)
+![](../assets/85ffff18f9d5/1*qqhUNCM8ZqhHJxCVxao0VQ.jpeg)
 
 
 
-![Tuzla this evening, Photos: Selma Dzafic](assets/85ffff18f9d5/1*AbLqQq3q3jRz4fvbDh4DzA.jpeg)
+![Tuzla this evening, Photos: Selma Dzafic](../assets/85ffff18f9d5/1*AbLqQq3q3jRz4fvbDh4DzA.jpeg)
 
 Tuzla this evening, Photos: Selma Dzafic
 
@@ -233,7 +233,7 @@ On their website, you can find detailed information about the process of obtaini
 #### SPAIN
 
 
-![](assets/85ffff18f9d5/0*j0I1uyUnWQ6NGPCZ)
+![](../assets/85ffff18f9d5/0*j0I1uyUnWQ6NGPCZ)
 
 #### GERMANY
 ### Deportation to Afghanistan announced for March 11

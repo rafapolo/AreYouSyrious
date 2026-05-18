@@ -1,5 +1,5 @@
 ---
-title: AYS Special from Northern France: Odyssee of evictions
+title: "AYS Special from Northern France: Odyssee of evictions"
 author: Are You Syrious?
 date: 2018-09-14T16:01:00.514+0100
 last_modified_at: 2018-09-14T16:01:00.514+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,calais,dunkirk,special,volunteering]
 description: More people keep coming to Calais and Dunkirk again, while the police is trying to prevent new jungles.
 image:
-  path: assets/9915de526389/1*DYGlJw4gEYfzLSrDwqrMUQ.jpeg
+  path: ../assets/9915de526389/1*DYGlJw4gEYfzLSrDwqrMUQ.jpeg
 ---
 
 ### AYS Special from Northern France: Odyssee of evictions
 #### More people keep coming to Calais and Dunkirk again, while the police is trying to prevent new jungles\.
 
 
-![Tents at a makeshift camp in mid August in Calais\.](assets/9915de526389/1*DYGlJw4gEYfzLSrDwqrMUQ.jpeg)
+![Tents at a makeshift camp in mid August in Calais\.](../assets/9915de526389/1*DYGlJw4gEYfzLSrDwqrMUQ.jpeg)
 
 Tents at a makeshift camp in mid August in Calais\.
 
@@ -23,7 +23,7 @@ The weather is getting rougher these days\. After a hot and dry summer the tempe
 Since the evictions of the big jungles in both harbor cities in 2016, not much has changed\. There are not as many people present any more, but the number is rising again\. Most of them still dream of making it to the UK\. And as here and there reports of succesful attempts are popping up and smugglers say there are still ways, hope is still alive\.
 
 
-![A ferry heading towards Dover\. The coastline can be seen in the background\.](assets/9915de526389/1*LfSmeC1cjUJRD7fS_WJj0g.jpeg)
+![A ferry heading towards Dover\. The coastline can be seen in the background\.](../assets/9915de526389/1*LfSmeC1cjUJRD7fS_WJj0g.jpeg)
 
 A ferry heading towards Dover\. The coastline can be seen in the background\.
 #### Last option: England
@@ -56,7 +56,7 @@ But even for the ones in the centers, the situation remained difficult, Richards
 However, it seems that the eviction missed its goal\. “The Refugee Community Kitchen is distributing meals to 600 people,” Katie Richards recalls the current situation in Dunkirk\. The police is not letting people enter the old jungle\. When a group tried it this week, tear gas and tasers were used, according to Richards\. “There was quite a lot of police violence\. Four men even had their shoes taken,” she reports\. Meanwhile, most of the people have moved to a car lot, where the former warehouse of RWC and other organisations is located\. “But this is no solution,” Richards says\. The sub\-prefecture had suggested distributing at a natural reserve nearby, but the local community and the mayor did not want this to happen\.
 
 
-![The RCK provides more than 1000 meals a day\.](assets/9915de526389/1*LrT7IMQekWzEUNwx2K81lQ.jpeg)
+![The RCK provides more than 1000 meals a day\.](../assets/9915de526389/1*LrT7IMQekWzEUNwx2K81lQ.jpeg)
 
 The RCK provides more than 1000 meals a day\.
 
@@ -75,7 +75,7 @@ While the situation in the old jungle of Dunkirk was not good before, Richards s
 In Calais as well as in Dunkirk the situation seems to have become more tense — on all sides\. Volunteers struggling with the harsh environment\. The police becoming rougher\. The people being more and more pushed to the edge\. Volunteers may distribute food, drinks and some NFI’s, Mohammed says\. But he has started losing hope\. “There is no humanity,” he says\. While Mohammed was sitting on a rock and explaining the situation, one of his companions climbed up the power pole\. This time, the others convinced him to come down before something bad happened\. But autumn and winter are about to come, making the already inhumane living conditions in the streets of Northern France even more difficult\.
 
 
-![](assets/9915de526389/1*-saQmUJGtUsIY2P_ZG7wnQ.jpeg)
+![](../assets/9915de526389/1*-saQmUJGtUsIY2P_ZG7wnQ.jpeg)
 
 
 **_\(Written and photos taken by Niklas Golitschek, AYS volunteer\)_**

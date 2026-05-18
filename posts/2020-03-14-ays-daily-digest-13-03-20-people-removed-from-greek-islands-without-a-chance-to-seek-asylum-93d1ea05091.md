@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 13/03/20: People removed from Greek islands without a chance to seek asylum
+title: "AYS Daily Digest 13/03/20: People removed from Greek islands without a chance to seek asylum"
 author: Are You Syrious?
 date: 2020-03-14T13:27:59.077+0000
 last_modified_at: 2020-03-14T18:07:32.885+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,greece,refugees,migrant-crisis,turkey]
 description: Growing Concerns about the Spread of Coronavirus // Illegal Returns in Greece // The Criminalization of Giving Assistance to People on the…
 image:
-  path: assets/93d1ea05091/1*FVGyYgL_Rl6iRvgIkxvUzA.jpeg
+  path: ../assets/93d1ea05091/1*FVGyYgL_Rl6iRvgIkxvUzA.jpeg
 ---
 
 ### AYS Daily Digest 13/03/20: People removed from Greek islands without a chance to seek asylum
@@ -15,7 +15,7 @@ image:
 Growing Concerns about the Spread of Coronavirus // Illegal Returns in Greece // The Criminalization of Giving Assistance to People on the Move in Bosnia // Disastrous Conditions for Deported Afghans // & More
 
 
-![Growing concerns over COVID\-19 in overcrowded refugee camps\. Photo: MSF](assets/93d1ea05091/1*FVGyYgL_Rl6iRvgIkxvUzA.jpeg)
+![Growing concerns over COVID\-19 in overcrowded refugee camps\. Photo: MSF](../assets/93d1ea05091/1*FVGyYgL_Rl6iRvgIkxvUzA.jpeg)
 
 Growing concerns over COVID\-19 in overcrowded refugee camps\. Photo: MSF
 #### FEATURE:
@@ -34,7 +34,7 @@ Trusted sources tell AYS that people on the move are being asked to sign these d
 Under section 6, it clearly states that by signing this document, the person has been informed, in a language s/he understands, of their rights and the reasons of their detention\. Section 8 states that the person has not appealed the return decision within the 48 hour deadline\.
 
 
-![](assets/93d1ea05091/1*pVINusdPWlNhXG_ezNxHiQ.png)
+![](../assets/93d1ea05091/1*pVINusdPWlNhXG_ezNxHiQ.png)
 
 
 There are serious concerns among people on the ground that detained refugees were **NOT** informed of anything regarding their detention, expulsion or of their ability to appeal the decision\. It appears they are not even informed about what this specific document states\. Sources say they are sure that the detained people concerned have not been given _any_ actual means to appeal their return decision\.
@@ -104,7 +104,7 @@ In Chios, the situation is appalling as new arrivals are housed out in the open\
 Volunteers are not allowed to help or approach\. It seems these people may be transferred to a closed deportation center on the mainland on Wednesday\.
 
 
-![Families stuck outside at the port in Chios](assets/93d1ea05091/1*F50cSRMROI8wUHY9iVhl3A.jpeg)
+![Families stuck outside at the port in Chios](../assets/93d1ea05091/1*F50cSRMROI8wUHY9iVhl3A.jpeg)
 
 Families stuck outside at the port in Chios
 
@@ -145,7 +145,7 @@ Danish citizens and foreigners working in Denmark will still be free to enter an
 In the midst of these new travel restrictions, the populist Danish People’s Party \(Dansk Folkeparti\) is exploiting the situation to re\-demand a total stop for asylums as well as restrictions for the existing asylum centers as a means of “limiting the spreading of the virus\.”
 
 
-![](assets/93d1ea05091/1*2spZq2G_rglWdcSO5ps52w.png)
+![](../assets/93d1ea05091/1*2spZq2G_rglWdcSO5ps52w.png)
 
 #### ITALY
 ### Migrant farm workers at risk of epidemic

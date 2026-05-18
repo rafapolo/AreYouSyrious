@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 18/05/2021: 146 years in prison for rescue action
+title: "AYS Daily Digest 18/05/2021: 146 years in prison for rescue action"
 author: Are You Syrious?
 date: 2021-05-19T10:57:22.945+0100
 last_modified_at: 2021-05-19T17:19:37.744+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,ceuta,greece,human-right]
 description: Man sentenced by Greek court// Critics on Greek ombudsman// Covid-19 spreading in Moria// More people depart from Morrocco due to rumors…
 image:
-  path: assets/c2b076a44a74/1*etjR0te1QBWekwkRDK3yog.jpeg
+  path: ../assets/c2b076a44a74/1*etjR0te1QBWekwkRDK3yog.jpeg
 ---
 
 ### AYS Daily Digest 18/05/2021: 146 years in prison for rescue action
 #### Man sentenced by Greek court// Critics on Greek ombudsman// Covid spreading in Moria// More people depart from Morrocco due to rumors of open borders
 
 
-![Criminalization and denial of Human Rights remain a problem of EU member states\. Credits: [Twitter/IrinaSamy](https://twitter.com/IrinaSamy/status/1394592383443013634/photo/2)](assets/c2b076a44a74/1*etjR0te1QBWekwkRDK3yog.jpeg)
+![Criminalization and denial of Human Rights remain a problem of EU member states\. Credits: [Twitter/IrinaSamy](https://twitter.com/IrinaSamy/status/1394592383443013634/photo/2)](../assets/c2b076a44a74/1*etjR0te1QBWekwkRDK3yog.jpeg)
 
 Criminalization and denial of Human Rights remain a problem of EU member states\. Credits: [Twitter/IrinaSamy](https://twitter.com/IrinaSamy/status/1394592383443013634/photo/2)
 ### Greece

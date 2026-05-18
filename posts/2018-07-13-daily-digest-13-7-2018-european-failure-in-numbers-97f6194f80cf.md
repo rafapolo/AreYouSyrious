@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 13/7/2018: European failure in numbers
+title: "AYS Daily Digest 13/7/2018: European failure in numbers"
 author: Are You Syrious?
 date: 2018-07-13T23:31:39.491+0100
 last_modified_at: 2018-07-15T10:29:32.436+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,bosnia,spain,relocation]
 description: Failed relocation program condemned by the court in Spain // 1,422 people lost their lives while trying to cross the sea // 59,700 in…
 image:
-  path: assets/97f6194f80cf/1*M5ImGjeLM5kbNuzfrHXpNw.jpeg
+  path: ../assets/97f6194f80cf/1*M5ImGjeLM5kbNuzfrHXpNw.jpeg
 ---
 
 ### AYS Daily Digest 13/7/2018: European failure in numbers
@@ -15,7 +15,7 @@ image:
 _Failed relocation program condemned by the court in Spain // 1,422 people lost their lives while trying to cross the sea // 59,700 in Greece, including 15,200 on the islands // 32 Syrians landed in Lampedusa // Call to demonstrations in Ventimiglia and Paris // Children from Syria sleep, live and play in the mud in Bosnia_
 
 
-![London, July 13th\. Photo by Calais Action](assets/97f6194f80cf/1*M5ImGjeLM5kbNuzfrHXpNw.jpeg)
+![London, July 13th\. Photo by Calais Action](../assets/97f6194f80cf/1*M5ImGjeLM5kbNuzfrHXpNw.jpeg)
 
 London, July 13th\. Photo by Calais Action
 ### Feature
@@ -89,7 +89,7 @@ The number of activists are already in Ventimiglia, where the high presence of p
 ### Bosnia
 
 
-![A Syrian refugee boy playing this morning after heavy rains\. This used to be his family’s store… \(Velika Kladuša, Bosnia\) \. Photo by [Gabriel Tizon](https://www.facebook.com/.../a.21376.../1805582269487587/...) \.](assets/97f6194f80cf/1*8CChM_G4_TkqhXeZC_QqNw.jpeg)
+![A Syrian refugee boy playing this morning after heavy rains\. This used to be his family’s store… \(Velika Kladuša, Bosnia\) \. Photo by [Gabriel Tizon](https://www.facebook.com/.../a.21376.../1805582269487587/...) \.](../assets/97f6194f80cf/1*8CChM_G4_TkqhXeZC_QqNw.jpeg)
 
 A Syrian refugee boy playing this morning after heavy rains\. This used to be his family’s store… \(Velika Kladuša, Bosnia\) \. Photo by [Gabriel Tizon](https://www.facebook.com/.../a.21376.../1805582269487587/...) \.
 
@@ -100,7 +100,7 @@ Recently, months after people started arriving in this city, MSF established its
 In the last few weeks in Bosnia the weather has been very bad and almost every day it rains\. Volunteers from [No Name Kitchen](https://www.facebook.com/pages/No-Name/303744056447569) , who are providing, among other things, showers, noted that on Friday the rain that fell in the morning shattered several of the shelters\. Nobody but volunteers came to help\.
 
 
-![Photo by Gabril Tizon](assets/97f6194f80cf/1*OLYIJO8FRtBTXGS8vCTZLA.jpeg)
+![Photo by Gabril Tizon](../assets/97f6194f80cf/1*OLYIJO8FRtBTXGS8vCTZLA.jpeg)
 
 Photo by Gabril Tizon
 
@@ -119,7 +119,7 @@ In the northern part of Bosnia, close to the EU border there are over 4,000 peop
 On Saturday, people will gather in Paris to protests against detention centres\.
 
 
-![](assets/97f6194f80cf/1*EApzqi-MYtoloGp1B2JU1Q.jpeg)
+![](../assets/97f6194f80cf/1*EApzqi-MYtoloGp1B2JU1Q.jpeg)
 
 
 A walk will leave at 2pm from the ministry of the interior, 18 rue des Pyrénées — metro port de Vincennes towards the Vincennes Detention Centre\.
@@ -130,7 +130,7 @@ To find more info, and join the march, visit the organizer [FB page](https://www
 Great turn out at protests in Hamburg in Friday\. At least 4500 people joined to demand safe passage\.
 
 
-![Photo by [Watch The Med — Alarmphone](https://www.facebook.com/watchthemed.alarmphone/?hc_ref=ARQVYCHKtUTIY8KcaYM5lh0KNOuGDlWV-NtP9Kde9wCzK_IiWB1aaJ564Q5JPS8-D7s&fref=nf)](assets/97f6194f80cf/1*0tzN7EuTDXh4MFJBeSFqbA.jpeg)
+![Photo by [Watch The Med — Alarmphone](https://www.facebook.com/watchthemed.alarmphone/?hc_ref=ARQVYCHKtUTIY8KcaYM5lh0KNOuGDlWV-NtP9Kde9wCzK_IiWB1aaJ564Q5JPS8-D7s&fref=nf)](../assets/97f6194f80cf/1*0tzN7EuTDXh4MFJBeSFqbA.jpeg)
 
 Photo by [Watch The Med — Alarmphone](https://www.facebook.com/watchthemed.alarmphone/?hc_ref=ARQVYCHKtUTIY8KcaYM5lh0KNOuGDlWV-NtP9Kde9wCzK_IiWB1aaJ564Q5JPS8-D7s&fref=nf)
 

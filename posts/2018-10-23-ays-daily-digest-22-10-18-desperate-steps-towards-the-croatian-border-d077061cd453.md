@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 22/10/18: Desperate steps towards the Croatian border
+title: "AYS Daily Digest 22/10/18: Desperate steps towards the Croatian border"
 author: Are You Syrious?
 date: 2018-10-23T12:14:41.332+0100
 last_modified_at: 2018-10-23T13:37:00.873+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,europe,digest,human-rights,borders]
 description: Protests and marches in Bosnia and Herzegovina / Two children lost their lives as a boat sank in Turkey / Additional assistance announced…
 image:
-  path: assets/d077061cd453/1*pD6MPAn5UN_j9LiyHI1n0Q.jpeg
+  path: ../assets/d077061cd453/1*pD6MPAn5UN_j9LiyHI1n0Q.jpeg
 ---
 
 ### AYS Daily Digest 22/10/18: Desperate steps towards the Croatian border
 #### Protests and marches in Bosnia and Herzegovina / Two children lost their lives as a boat sank in Turkey / Additional assistance announced for Cyprus / 60 people returned from Spanish Melilla to Morocco / According to the EC, the Swedish legislation and controls are against EU\-law / more news
 
 
-![By Marco De Angelis, via [Art Against](https://www.facebook.com/artagainstproject/?tn-str=k%2AF)](assets/d077061cd453/1*_jxv4rN7VF_q4KqWqaYyTw.jpeg)
+![By Marco De Angelis, via [Art Against](https://www.facebook.com/artagainstproject/?tn-str=k%2AF)](../assets/d077061cd453/1*_jxv4rN7VF_q4KqWqaYyTw.jpeg)
 
 By Marco De Angelis, via [Art Against](https://www.facebook.com/artagainstproject/?tn-str=k%2AF)
 #### FEATURE
@@ -34,15 +34,15 @@ The families walking through rain towards the border area, more than 25km toward
 Another group that was walking towards the border from Velika Kladuša was also returned\.
 
 
-![](assets/d077061cd453/1*D3o7kdsli4a-00HhEfatEg.jpeg)
+![](../assets/d077061cd453/1*D3o7kdsli4a-00HhEfatEg.jpeg)
 
 
 
-![](assets/d077061cd453/1*ci3ve1pDXUx0uNZabzaqdQ.jpeg)
+![](../assets/d077061cd453/1*ci3ve1pDXUx0uNZabzaqdQ.jpeg)
 
 
 
-![Photos: Kladusa, on the way toward the border\. [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?tn-str=k%2AF&hc_location=group_dialog)](assets/d077061cd453/1*_pGqHZ0GjNZamW230pkI6A.jpeg)
+![Photos: Kladusa, on the way toward the border\. [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?tn-str=k%2AF&hc_location=group_dialog)](../assets/d077061cd453/1*_pGqHZ0GjNZamW230pkI6A.jpeg)
 
 Photos: Kladusa, on the way toward the border\. [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?tn-str=k%2AF&hc_location=group_dialog)
 
@@ -59,23 +59,23 @@ In the meantime, there are too many people who are in Bosnia without proper acco
 On the other side of the border, in Croatia, army vehicles could be seen driving towards the border area throughout the late afternoon\.
 
 
-![](assets/d077061cd453/1*bp9Y7iaqjM6XffkxA2mWdg.jpeg)
+![](../assets/d077061cd453/1*bp9Y7iaqjM6XffkxA2mWdg.jpeg)
 
 
 
-![People of Izačić on Monday evening, out in the street to do what they can — Photos: [Jasmin Halilagic](https://www.facebook.com/jasminhalilagic.jh?__tn__=%2Cd%2AF%2AF-R&eid=ARBJXhz3Uh_u8CeAQ1zXhati_WAGirHoIgckb7eSOs5cC9PGEUm0PBkLDRVBVTPHlQn8-W7Nk_Enww7L&tn-str=%2AF)](assets/d077061cd453/1*A4IW8jap9ZAm_zuqLa-gCg.jpeg)
+![People of Izačić on Monday evening, out in the street to do what they can — Photos: [Jasmin Halilagic](https://www.facebook.com/jasminhalilagic.jh?__tn__=%2Cd%2AF%2AF-R&eid=ARBJXhz3Uh_u8CeAQ1zXhati_WAGirHoIgckb7eSOs5cC9PGEUm0PBkLDRVBVTPHlQn8-W7Nk_Enww7L&tn-str=%2AF)](../assets/d077061cd453/1*A4IW8jap9ZAm_zuqLa-gCg.jpeg)
 
 People of Izačić on Monday evening, out in the street to do what they can — Photos: [Jasmin Halilagic](https://www.facebook.com/jasminhalilagic.jh?__tn__=%2Cd%2AF%2AF-R&eid=ARBJXhz3Uh_u8CeAQ1zXhati_WAGirHoIgckb7eSOs5cC9PGEUm0PBkLDRVBVTPHlQn8-W7Nk_Enww7L&tn-str=%2AF)
 
 
-![“The people will always help\. \.the ordinary person\. \.we’re not responsible for this situation\. \.I too have helped personally, carrying shoes and food, but that is not enough\. \. Those who have received, and have on their disposal, millions and millions, they are not doing anything… They did not make sure to find proper accommodation and provide decent clothing… all that money lying somewhere and children are sleeping in the street… wet and hungry…” — a comment by one of the locals, mrs Suada \(Photo: [Jasmin Halilagic](https://www.facebook.com/jasminhalilagic.jh?__tn__=%2Cd%2AF%2AF-R&eid=ARBJXhz3Uh_u8CeAQ1zXhati_WAGirHoIgckb7eSOs5cC9PGEUm0PBkLDRVBVTPHlQn8-W7Nk_Enww7L&tn-str=%2AF) \)](assets/d077061cd453/1*pD6MPAn5UN_j9LiyHI1n0Q.jpeg)
+![“The people will always help\. \.the ordinary person\. \.we’re not responsible for this situation\. \.I too have helped personally, carrying shoes and food, but that is not enough\. \. Those who have received, and have on their disposal, millions and millions, they are not doing anything… They did not make sure to find proper accommodation and provide decent clothing… all that money lying somewhere and children are sleeping in the street… wet and hungry…” — a comment by one of the locals, mrs Suada \(Photo: [Jasmin Halilagic](https://www.facebook.com/jasminhalilagic.jh?__tn__=%2Cd%2AF%2AF-R&eid=ARBJXhz3Uh_u8CeAQ1zXhati_WAGirHoIgckb7eSOs5cC9PGEUm0PBkLDRVBVTPHlQn8-W7Nk_Enww7L&tn-str=%2AF) \)](../assets/d077061cd453/1*pD6MPAn5UN_j9LiyHI1n0Q.jpeg)
 
 “The people will always help\. \.the ordinary person\. \.we’re not responsible for this situation\. \.I too have helped personally, carrying shoes and food, but that is not enough\. \. Those who have received, and have on their disposal, millions and millions, they are not doing anything… They did not make sure to find proper accommodation and provide decent clothing… all that money lying somewhere and children are sleeping in the street… wet and hungry…” — a comment by one of the locals, mrs Suada \(Photo: [Jasmin Halilagic](https://www.facebook.com/jasminhalilagic.jh?__tn__=%2Cd%2AF%2AF-R&eid=ARBJXhz3Uh_u8CeAQ1zXhati_WAGirHoIgckb7eSOs5cC9PGEUm0PBkLDRVBVTPHlQn8-W7Nk_Enww7L&tn-str=%2AF) \)
 #### GREECE
 ### Arrivals
 
 
-![](assets/d077061cd453/1*sMWQfW7dFHiD7T07Yv3WQw.jpeg)
+![](../assets/d077061cd453/1*sMWQfW7dFHiD7T07Yv3WQw.jpeg)
 
 ### A boat heading to Greece sank off the Turkish coast
 
@@ -93,7 +93,7 @@ Speaking about [the boat carrying refugees that sank outside Bodrum](http://www.
 
 
 
-![photo: [Refugee Biriyani & Bananas](https://www.facebook.com/RefugeeBiriyaniAndBananas/?tn-str=k%2AF)](assets/d077061cd453/1*uubKfkGWUbiBIA7L_kLT7w.jpeg)
+![photo: [Refugee Biriyani & Bananas](https://www.facebook.com/RefugeeBiriyaniAndBananas/?tn-str=k%2AF)](../assets/d077061cd453/1*uubKfkGWUbiBIA7L_kLT7w.jpeg)
 
 photo: [Refugee Biriyani & Bananas](https://www.facebook.com/RefugeeBiriyaniAndBananas/?tn-str=k%2AF)
 ### Employment in Greece
@@ -120,7 +120,7 @@ According to the [press](https://cyprus-mail.com/2018/10/21/eu-technical-team-to
 The sum of the inhabitants of the Municipalities participating in [the Network](https://www.facebook.com/Recosol/?__tn__=kC-R&eid=ARANA5wcaNQy5D3mClGWvf7XsMfaX3zzz9Irot_Oqf9jX1_wKWeO5d5JUM7EzaRfB_a-v9QdipWd4jOq&hc_ref=ARSbNUGVhhScs-bF2HMMLFO26jXiKsHT7c0vEsF1aJ-VlwCBU9bjQRxUACfZGTfdI2Y&fref=tag&__xts__%5B0%5D=68.ARBUuyThMfH7bd64ioonYxtBw3-GoKAz5wCNvJlKpsyvBEuc01KvB8AHhhWT19eA7fWURacFsQXnsODv6uGXTaOlZrkU6CJ6KTycHq28i0sFMVx1V9K3QjNR2QusZKjiadfvE5Gc_Lh4H_hziuPWQeEQWQhnpZvU9EY0BvzyqJjyuI8hi9jHiioVCJi24OP6rBsBTvnrrqLJ-ETnQJIfJ81Qbo72) is 264, and the communities represent five million inhabitants, [L’ ALTRA VOCE](https://www.facebook.com/L-ALTRA-VOCE-1245970425495921/?__tn__=kC-R&eid=ARCE3jux8y6kWeVMr1TOY99Tupzw5N56-RQ3E-_AsWlelHQYSJSJtqiGKdwC97-2b7CAlzRgaqzO57WR&hc_ref=ARSbNUGVhhScs-bF2HMMLFO26jXiKsHT7c0vEsF1aJ-VlwCBU9bjQRxUACfZGTfdI2Y&__xts__%5B0%5D=68.ARBUuyThMfH7bd64ioonYxtBw3-GoKAz5wCNvJlKpsyvBEuc01KvB8AHhhWT19eA7fWURacFsQXnsODv6uGXTaOlZrkU6CJ6KTycHq28i0sFMVx1V9K3QjNR2QusZKjiadfvE5Gc_Lh4H_hziuPWQeEQWQhnpZvU9EY0BvzyqJjyuI8hi9jHiioVCJi24OP6rBsBTvnrrqLJ-ETnQJIfJ81Qbo72) reports\.
 
 
-![Last Saturday, almost 50 police officers raided a church in [V](https://www.facebook.com/hashtag/vicofaro?source=feed_text) icofaro solely because priest Don Biancalani was hosting their usual ‘pizza with refugees’ night — Solidarity with migrants and refugees is once again targeted and treated as a crime: ask EU leaders to stop this worrying trend, sign the [petition](https://www.weareawelcomingeurope.eu/en/sign_the_petition/) \(Photo: [We are a welcoming Europe](https://www.facebook.com/WelcomingEurope/?__tn__=%2CdkCH-R-R&eid=ARAmZwJDghAa-Y8r--Hu14asxleyNpkWm8ENij--T-lhkH2N-kFGDT_9jKgmDl5TQXWklyXPuvgOe5Yi&hc_ref=ARQI4bhd4DPDxVAxLO4ARCWEdAQPzxbRf3RimoRXabCH9WNwVmgdS6vXx8BGx-RNQ9Y&fref=nf) \)](assets/d077061cd453/1*E3MzPToK3DN01aBu7cCGPA.jpeg)
+![Last Saturday, almost 50 police officers raided a church in [V](https://www.facebook.com/hashtag/vicofaro?source=feed_text) icofaro solely because priest Don Biancalani was hosting their usual ‘pizza with refugees’ night — Solidarity with migrants and refugees is once again targeted and treated as a crime: ask EU leaders to stop this worrying trend, sign the [petition](https://www.weareawelcomingeurope.eu/en/sign_the_petition/) \(Photo: [We are a welcoming Europe](https://www.facebook.com/WelcomingEurope/?__tn__=%2CdkCH-R-R&eid=ARAmZwJDghAa-Y8r--Hu14asxleyNpkWm8ENij--T-lhkH2N-kFGDT_9jKgmDl5TQXWklyXPuvgOe5Yi&hc_ref=ARQI4bhd4DPDxVAxLO4ARCWEdAQPzxbRf3RimoRXabCH9WNwVmgdS6vXx8BGx-RNQ9Y&fref=nf) \)](../assets/d077061cd453/1*E3MzPToK3DN01aBu7cCGPA.jpeg)
 
 Last Saturday, almost 50 police officers raided a church in [V](https://www.facebook.com/hashtag/vicofaro?source=feed_text) icofaro solely because priest Don Biancalani was hosting their usual ‘pizza with refugees’ night — Solidarity with migrants and refugees is once again targeted and treated as a crime: ask EU leaders to stop this worrying trend, sign the [petition](https://www.weareawelcomingeurope.eu/en/sign_the_petition/) \(Photo: [We are a welcoming Europe](https://www.facebook.com/WelcomingEurope/?__tn__=%2CdkCH-R-R&eid=ARAmZwJDghAa-Y8r--Hu14asxleyNpkWm8ENij--T-lhkH2N-kFGDT_9jKgmDl5TQXWklyXPuvgOe5Yi&hc_ref=ARQI4bhd4DPDxVAxLO4ARCWEdAQPzxbRf3RimoRXabCH9WNwVmgdS6vXx8BGx-RNQ9Y&fref=nf) \)
 ### News from Ventimiglia

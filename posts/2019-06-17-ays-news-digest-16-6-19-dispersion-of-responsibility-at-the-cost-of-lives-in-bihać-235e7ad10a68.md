@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 16/6/19: Dispersion of responsibility at the cost of lives in Bihać
+title: "AYS News Digest 16/6/19: Dispersion of responsibility at the cost of lives in Bihać"
 author: Are You Syrious?
 date: 2019-06-17T13:46:56.823+0100
 last_modified_at: 2019-06-17T16:57:32.401+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,bosnia,human-rights]
 description: Status quo in Bosnia and Herzegovina and growing frustration on all sides / A man in Gorizia dies / ‘Dublin’ returns from Germany to Italy…
 image:
-  path: assets/235e7ad10a68/1*89Ed3co4FFFfo5TtQ8krKA.jpeg
+  path: ../assets/235e7ad10a68/1*89Ed3co4FFFfo5TtQ8krKA.jpeg
 ---
 
 ### AYS News Digest 15\-16/6/19: Dispersion of responsibility at the cost of lives in Bihać
 #### Status quo in Bosnia and Herzegovina and growing frustration on all sides / A man in Gorizia dies / ‘Dublin’ returns from Germany to Italy continue / New arrivals in the UK / very important website&app to share around…
 
 
-![People staying in abandoned houses fear new police raids in areas around Bihać \(Photo:AYS\)](assets/235e7ad10a68/1*89Ed3co4FFFfo5TtQ8krKA.jpeg)
+![People staying in abandoned houses fear new police raids in areas around Bihać \(Photo:AYS\)](../assets/235e7ad10a68/1*89Ed3co4FFFfo5TtQ8krKA.jpeg)
 
 People staying in abandoned houses fear new police raids in areas around Bihać \(Photo:AYS\)
 ### Featured
@@ -22,7 +22,7 @@ People staying in abandoned houses fear new police raids in areas around Bihać 
 About 600 people were transferred from Bihać to Vučjak, as previously announced and as we reported during the week\. Also, the Bihac police raided several private houses in which nearly 300 people were accommodated and moved them to tents on a former garbage dump outside the town in Vučjak\. In fact, all the people who were uregistered and not placed in the Bira centre in Bihać were taken on buses and left in the Vučjak area\.
 
 
-[![VUČJAK 16.06.2019.](assets/235e7ad10a68/bedb_hqdefault.jpg "VUČJAK 16.06.2019.")](http://www.youtube.com/watch?v=GKAKwmGBNpA)
+[![VUČJAK 16.06.2019.](../assets/235e7ad10a68/bedb_hqdefault.jpg "VUČJAK 16.06.2019.")](http://www.youtube.com/watch?v=GKAKwmGBNpA)
 
 
 The local police and local Red Cross teams are the only ones present there as the international organisations don’t support the idea and placement in Vučjak in the current setting\. The Red Cross is reportedly only allowed to provide first aid, so there is no medical care for the people staying there\. Also, the food being distributed is very simple and not sufficient to feed the people\. As there is nothing around, there is also no possibility for them to buy something\.
@@ -30,7 +30,7 @@ The local police and local Red Cross teams are the only ones present there as th
 The situation in Bira has not gotten better in the meantime\.
 
 
-![messages sent from Bira camp in Bihać](assets/235e7ad10a68/1*-Lpsg-LuLLK85QW8K9Bszg.jpeg)
+![messages sent from Bira camp in Bihać](../assets/235e7ad10a68/1*-Lpsg-LuLLK85QW8K9Bszg.jpeg)
 
 messages sent from Bira camp in Bihać
 
@@ -48,11 +48,11 @@ Why they are not doing so and whose appetite and greed has not yet been satisfie
 During a visit to one of the camps in Nador, the volunteers of AMDH Nador noticed the damage done by the auxiliary forces and the gendarmes when they visited the sites\.
 
 
-![](assets/235e7ad10a68/1*OufsMdNQ_-AgS1HT89l-ew.jpeg)
+![](../assets/235e7ad10a68/1*OufsMdNQ_-AgS1HT89l-ew.jpeg)
 
 
 
-![](assets/235e7ad10a68/1*68arJYeZ4v3k4QnWuwUoVw.jpeg)
+![](../assets/235e7ad10a68/1*68arJYeZ4v3k4QnWuwUoVw.jpeg)
 
 
 Recent deaths in the forest are linked to the ban on migrants accessing care by the Moroccan authorities, but also to the failure of projects intended for assistance to migrants, which in spite of the important funding received have not succeeded in offering each household a simple hygiene kit and a few square meters of plastic in order to build a shelter, AMDH team reports\.
@@ -86,7 +86,7 @@ The Sea Watch was allowed to evacuate five medical emergencies and their relativ
 
 
 
-![While Italy seriously considers Libya to be safe, the EU is silent\. But 60 German cities and municipalities have declared themselves safe ports, the mayor of rottenburg even offered a bus to pick up survivors of the sea\-watch3\.](assets/235e7ad10a68/1*pIgLH0mFTVJynhQ3bRNclA.jpeg)
+![While Italy seriously considers Libya to be safe, the EU is silent\. But 60 German cities and municipalities have declared themselves safe ports, the mayor of rottenburg even offered a bus to pick up survivors of the sea\-watch3\.](../assets/235e7ad10a68/1*pIgLH0mFTVJynhQ3bRNclA.jpeg)
 
 While Italy seriously considers Libya to be safe, the EU is silent\. But 60 German cities and municipalities have declared themselves safe ports, the mayor of rottenburg even offered a bus to pick up survivors of the sea\-watch3\.
 #### CROATIA

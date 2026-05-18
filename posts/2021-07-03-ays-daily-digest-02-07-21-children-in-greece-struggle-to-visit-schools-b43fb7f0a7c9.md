@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 02/07/21: Children in Greece struggle to visit schools
+title: "AYS Daily Digest 02/07/21: Children in Greece struggle to visit schools"
 author: Are You Syrious?
 date: 2021-07-03T17:44:14.838+0100
 last_modified_at: 2021-07-03T17:44:14.838+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,libya,germany]
 description: So-called Libyan Coast Guard attacks boat in Maltese SAR zone // Belarus closes border to Ukraine // Austria wants to “never halt”…
 image:
-  path: assets/b43fb7f0a7c9/0*wUXjYMaC7FZzP6zf.jpeg
+  path: ../assets/b43fb7f0a7c9/0*wUXjYMaC7FZzP6zf.jpeg
 ---
 
 ### AYS Daily Digest 02/07/21: Children in Greece struggle to visit schools
 ### So\-called Libyan Coast Guard attacks boat in Maltese SAR zone // Belarus closes border to Ukraine // Austria wants to “never halt” deportations to Afghanistan // Sea\-Eye starts fundraiser in the name of Germany’s interior minister
 
 
-![](assets/b43fb7f0a7c9/0*_E8L5rk2-aY4HQme.jpeg)
+![](../assets/b43fb7f0a7c9/0*_E8L5rk2-aY4HQme.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----4670c8dccb34--------------------------------)
@@ -22,7 +22,7 @@ image:
 [Jul 3](ays-daily-digest-02-07-21-children-in-greece-struggle-to-visit-schools-4670c8dccb34?source=post_page-----4670c8dccb34--------------------------------) · 5 min read
 
 
-![](assets/b43fb7f0a7c9/0*wUXjYMaC7FZzP6zf.jpeg)
+![](../assets/b43fb7f0a7c9/0*wUXjYMaC7FZzP6zf.jpeg)
 
 
 Pushbacks are one problem in Greece, access to education another one\. Credits: [Facebook/Europemustact](https://www.facebook.com/europemustact/photos/pcb.325980615681306/325980495681318/)

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 4/9/20: “They are crueler during the night”
+title: "AYS Daily Digest 4/9/20: “They are crueler during the night”"
 author: Are You Syrious?
 date: 2020-09-05T15:58:28.275+0100
 last_modified_at: 2020-09-05T17:07:27.549+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,europe,migration,human-rights,police-brutality]
 description: Report to the United Nations Committee on Enforced Disappearance regarding the use of illegal pushbacks by the Greek government /…
 image:
-  path: assets/4558ec5cd72f/1*ofMsjCq3Y9kCQQiDl1njcg.jpeg
+  path: ../assets/4558ec5cd72f/1*ofMsjCq3Y9kCQQiDl1njcg.jpeg
 ---
 
 ### AYS Daily Digest 4/9/20: “T **hey are crueler during the night”**
 #### Report to the United Nations Committee on Enforced Disappearance regarding the use of illegal pushbacks by the Greek government / undercover journalist at a French police station reveals hatred and racism of the officers / Revealed documents show the German Ministry was intentionally preventing the sailing of civil SAR ships in the Mediterranean / Anti\-racists are staging their own protest in solidarity with refugees in Dover / & more news
 
 
-![Moria, photo: [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/?__xts__%5B0%5D=68.ARBv-0e-cPlKg_jFOIShRGnJ2N56Pw_0PcqUrkGj6w1c5bWeZGBpJhvuObc8jh8kQ7-boI4w8VqMyqCTrsSdLhJZ_3Cj0CjLUr5h_KrmWbts0d6nbVvm1fqCIVuW-ABOUKvMBG5ay__X1GjIGc7KgIkhYwcyr7X0sUKXQYyA6yvGVKDeuy5zos3WVVcXpcbZbo-RKsUm9FXUg_7hLnFuhQNJgQ4iq3m1qV8zC2i2shLCqjthXzmajmbl7kmnmqVm9Vsbd16zlZYQ_gxqW7brzpDT4IuX5cMMw1GWdy5PDdh2_4pfiPVT74C_yzEIBTBGBZCH_9lvaS_68Bt3kzTRayo&__tn__=k%2AF&tn-str=k%2AF)](assets/4558ec5cd72f/1*ofMsjCq3Y9kCQQiDl1njcg.jpeg)
+![Moria, photo: [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/?__xts__%5B0%5D=68.ARBv-0e-cPlKg_jFOIShRGnJ2N56Pw_0PcqUrkGj6w1c5bWeZGBpJhvuObc8jh8kQ7-boI4w8VqMyqCTrsSdLhJZ_3Cj0CjLUr5h_KrmWbts0d6nbVvm1fqCIVuW-ABOUKvMBG5ay__X1GjIGc7KgIkhYwcyr7X0sUKXQYyA6yvGVKDeuy5zos3WVVcXpcbZbo-RKsUm9FXUg_7hLnFuhQNJgQ4iq3m1qV8zC2i2shLCqjthXzmajmbl7kmnmqVm9Vsbd16zlZYQ_gxqW7brzpDT4IuX5cMMw1GWdy5PDdh2_4pfiPVT74C_yzEIBTBGBZCH_9lvaS_68Bt3kzTRayo&__tn__=k%2AF&tn-str=k%2AF)](../assets/4558ec5cd72f/1*ofMsjCq3Y9kCQQiDl1njcg.jpeg)
 
 Moria, photo: [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/?__xts__%5B0%5D=68.ARBv-0e-cPlKg_jFOIShRGnJ2N56Pw_0PcqUrkGj6w1c5bWeZGBpJhvuObc8jh8kQ7-boI4w8VqMyqCTrsSdLhJZ_3Cj0CjLUr5h_KrmWbts0d6nbVvm1fqCIVuW-ABOUKvMBG5ay__X1GjIGc7KgIkhYwcyr7X0sUKXQYyA6yvGVKDeuy5zos3WVVcXpcbZbo-RKsUm9FXUg_7hLnFuhQNJgQ4iq3m1qV8zC2i2shLCqjthXzmajmbl7kmnmqVm9Vsbd16zlZYQ_gxqW7brzpDT4IuX5cMMw1GWdy5PDdh2_4pfiPVT74C_yzEIBTBGBZCH_9lvaS_68Bt3kzTRayo&__tn__=k%2AF&tn-str=k%2AF)
 #### FEATURED
@@ -179,7 +179,7 @@ On 08-27, a group of 20 people, legally registered in Greece, was taken from #Th
 For the [International Day of the Victims of Enforced Disappearances](https://www.un.org/en/observances/victims-enforced-disappearance) , the Border Violence Monitoring Network released its seminal report to the United Nations Committee on Enforced Disappearance regarding the use of illegal pushbacks by the Greek government\.
 
 
-![](assets/4558ec5cd72f/0*aU3YI0vHFMbnHev0.jpg)
+![](../assets/4558ec5cd72f/0*aU3YI0vHFMbnHev0.jpg)
 
 
 
@@ -206,7 +206,7 @@ Applicants for International Protection may [apply online](https://l.facebook.co
 #### SERBIA
 
 
-![Documented by [Klikaktiv — Centar za razvoj socijalnih politika](https://www.facebook.com/klikaktiv/?tn-str=k%2AF&hc_location=group_dialog)](assets/4558ec5cd72f/1*l803_D_x6ByCuVmWJQ9oeA.jpeg)
+![Documented by [Klikaktiv — Centar za razvoj socijalnih politika](https://www.facebook.com/klikaktiv/?tn-str=k%2AF&hc_location=group_dialog)](../assets/4558ec5cd72f/1*l803_D_x6ByCuVmWJQ9oeA.jpeg)
 
 Documented by [Klikaktiv — Centar za razvoj socijalnih politika](https://www.facebook.com/klikaktiv/?tn-str=k%2AF&hc_location=group_dialog)
 
@@ -276,7 +276,7 @@ As observers have highlighted since the start of the pandemic, conditions inside
 Documents to which the DER SPIEGEL had access prove that the Bundesministerium für Verkehr und digitale Infrastruktur, led by Andreas Scheuer, is “consciously” preventing the sailing of civil sea rescue ships in the Mediterranean\.
 
 
-![](assets/4558ec5cd72f/1*anYt73FRMdnq44SJ7oM9Uw.jpeg)
+![](../assets/4558ec5cd72f/1*anYt73FRMdnq44SJ7oM9Uw.jpeg)
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 06/04/18: Solidarity text from the Balkanroute Network Meeting
+title: "AYS Daily Digest 06/04/18: Solidarity text from the Balkanroute Network Meeting"
 author: Are You Syrious?
 date: 2018-04-06T22:31:24.957+0100
 last_modified_at: 2018-04-07T11:18:59.302+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,italy,germany]
 description: Twice as many suspected people smugglers in Interpol’s database than three years ago / A woman and her children drowned in Evros river /…
 image:
-  path: assets/6f1e481a5f7e/1*FUlcRFZO1pfTkdMonb2U6g.jpeg
+  path: ../assets/6f1e481a5f7e/1*FUlcRFZO1pfTkdMonb2U6g.jpeg
 ---
 
 ### AYS Daily Digest 06/04/18: Solidarity text from the Balkanroute Network Meeting
 #### Twice as many suspected people smugglers in Interpol’s database than three years ago / A woman and her children drowned in Evros river / Arrivals in Greece continue to increase, at the same time as the total number of arrivals drops / Situation harsh on several locations in Italy / Deportation from Austria to Croatia / And a lot of other news and stories\!
 
 
-![Photo: [**Open Borders**](https://www.facebook.com/openeuborders/?hc_ref=ARTkpGZn1jpu26yEt6dgW6s3n-8Md78h4qnhsf9BppreuNp6PCKz-OkX4usVQkhexfI&fref=nf)](assets/6f1e481a5f7e/1*FUlcRFZO1pfTkdMonb2U6g.jpeg)
+![Photo: [**Open Borders**](https://www.facebook.com/openeuborders/?hc_ref=ARTkpGZn1jpu26yEt6dgW6s3n-8Md78h4qnhsf9BppreuNp6PCKz-OkX4usVQkhexfI&fref=nf)](../assets/6f1e481a5f7e/1*FUlcRFZO1pfTkdMonb2U6g.jpeg)
 
 Photo: [**Open Borders**](https://www.facebook.com/openeuborders/?hc_ref=ARTkpGZn1jpu26yEt6dgW6s3n-8Md78h4qnhsf9BppreuNp6PCKz-OkX4usVQkhexfI&fref=nf)
 #### Feature
@@ -50,7 +50,7 @@ The solidarity text with the above\-mentioned information was written at the mee
 Five of the _Moria35_ wrote a statement today, published by Enough is enough\. Read their arguments and important side of the story [here\.](https://enoughisenough14.org/2018/04/06/refugeesgr-statement-by-5-of-the-accussed-of-the-moria-35-take-action/) We stand with them\. The trial will be held on 20th April\.
 
 
-![This is a map of the 45 people who are unlawfully detained in Greece at the moment\. Photo from the Balkanroute Network Meeting\.](assets/6f1e481a5f7e/1*wkUG4tNseMQ2IyvdnIZAnw.jpeg)
+![This is a map of the 45 people who are unlawfully detained in Greece at the moment\. Photo from the Balkanroute Network Meeting\.](../assets/6f1e481a5f7e/1*wkUG4tNseMQ2IyvdnIZAnw.jpeg)
 
 This is a map of the 45 people who are unlawfully detained in Greece at the moment\. Photo from the Balkanroute Network Meeting\.
 #### General
@@ -67,7 +67,7 @@ Bearing in mind the horrible conditions on the Greek islands and the lack of hel
 At this point in 2017, a total of 31,060 had arrived, and in 2016 the number was 172,089\.
 
 
-![Photo: IOM](assets/6f1e481a5f7e/1*XnOP5mB7PqB9pL9rARO-9g.jpeg)
+![Photo: IOM](../assets/6f1e481a5f7e/1*XnOP5mB7PqB9pL9rARO-9g.jpeg)
 
 Photo: IOM
 
@@ -76,7 +76,7 @@ Photo: IOM
 But according to the report from Interpol, the number of human smugglers has doubled in the past three years\. Despite the decrease in arrivals and deaths at sea\.
 
 
-![Photo: [**Watch The Med — Alarmphone**](https://www.facebook.com/watchthemed.alarmphone/?hc_ref=ARRmcwSDkBx2rkMvzT9nUcQNuiDhQu5430WXSqS2QyzEsoXS72Cc0T6dhm7vx8THYGU&fref=nf)](assets/6f1e481a5f7e/1*X8F0tFHEIOO36eD_Ihaq-g.png)
+![Photo: [**Watch The Med — Alarmphone**](https://www.facebook.com/watchthemed.alarmphone/?hc_ref=ARRmcwSDkBx2rkMvzT9nUcQNuiDhQu5430WXSqS2QyzEsoXS72Cc0T6dhm7vx8THYGU&fref=nf)](../assets/6f1e481a5f7e/1*X8F0tFHEIOO36eD_Ihaq-g.png)
 
 Photo: [**Watch The Med — Alarmphone**](https://www.facebook.com/watchthemed.alarmphone/?hc_ref=ARRmcwSDkBx2rkMvzT9nUcQNuiDhQu5430WXSqS2QyzEsoXS72Cc0T6dhm7vx8THYGU&fref=nf)
 #### Afghanistan and Pakistan
@@ -86,7 +86,7 @@ There has been an increase the past week in the number of Afghan returnees from 
 For more details, se the map below or [read more here\.](https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/documents/files/afghan_returns_20180331.pdf)
 
 
-![Photo and statistics: [Humanitarian Response](https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/documents/files/afghan_returns_20180331.pdf)](assets/6f1e481a5f7e/1*nj-n8_QPQ0jaM0h2xFZsCQ.jpeg)
+![Photo and statistics: [Humanitarian Response](https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/documents/files/afghan_returns_20180331.pdf)](../assets/6f1e481a5f7e/1*nj-n8_QPQ0jaM0h2xFZsCQ.jpeg)
 
 Photo and statistics: [Humanitarian Response](https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/documents/files/afghan_returns_20180331.pdf)
 #### Greece
@@ -113,11 +113,11 @@ A cause of the crossing is heavily over\-crowded camps, police stations and lack
 At the same time, arrivals on the islands continue\. This morning three boats arrived on Lesvos, with a total of 139 people\. For more information about the different boats, follow [this link](https://www.facebook.com/AegeanBoatReport/posts/329500944239683) to [**Aegean Boat Report**](https://www.facebook.com/AegeanBoatReport/?hc_ref=ART0uU7cRGjUFK7vjDOkHTNODret4hy2u3OfkYEg8vaFo2biuPFHL_FzjpNY71jy-28) **’s** update\.
 
 
-![](assets/6f1e481a5f7e/1*oqxosAqDY9vw75Ay8xAj2A.jpeg)
+![](../assets/6f1e481a5f7e/1*oqxosAqDY9vw75Ay8xAj2A.jpeg)
 
 
 
-![Photo: [**Aegean Boat Report**](https://www.facebook.com/AegeanBoatReport/?hc_ref=ARSq3_Ow7LiI4_sEQHwku9QomoCFAgJBoGUJAXVlv4BV_O5Pa6yTVwvv7Qom3Q1akLE&fref=nf)](assets/6f1e481a5f7e/1*jtuN3AgLKMvK1ug2EWrqUg.jpeg)
+![Photo: [**Aegean Boat Report**](https://www.facebook.com/AegeanBoatReport/?hc_ref=ARSq3_Ow7LiI4_sEQHwku9QomoCFAgJBoGUJAXVlv4BV_O5Pa6yTVwvv7Qom3Q1akLE&fref=nf)](../assets/6f1e481a5f7e/1*jtuN3AgLKMvK1ug2EWrqUg.jpeg)
 
 Photo: [**Aegean Boat Report**](https://www.facebook.com/AegeanBoatReport/?hc_ref=ARSq3_Ow7LiI4_sEQHwku9QomoCFAgJBoGUJAXVlv4BV_O5Pa6yTVwvv7Qom3Q1akLE&fref=nf)
 #### Italy
@@ -129,29 +129,29 @@ This morning a group of people went to the centre in solidarity, to talk with so
 More than 500 people live here and in November they marched to protest against their living conditions\. The Prefetto agreed to move some of the residents to other structures but that has never happened, hence the solidarity and protest walk this morning\.
 
 
-![](assets/6f1e481a5f7e/1*tL0TZqEuJAs2Y_cGl_CPwQ.jpeg)
+![](../assets/6f1e481a5f7e/1*tL0TZqEuJAs2Y_cGl_CPwQ.jpeg)
 
 
 
-![Images from the entry where police was patrolling\. Photo: [**Sconfinamenti Padova**](https://www.facebook.com/SconfinamentiPadova/?hc_ref=ARTMnANiekGjir8jk9xfjnltg12zqG-UyE9e3wz9hOoW_HGy31I8a0G17FNzUSvfHdQ&fref=nf)](assets/6f1e481a5f7e/1*0Kr8vgoy1ZfkEi0SCJvoqQ.jpeg)
+![Images from the entry where police was patrolling\. Photo: [**Sconfinamenti Padova**](https://www.facebook.com/SconfinamentiPadova/?hc_ref=ARTMnANiekGjir8jk9xfjnltg12zqG-UyE9e3wz9hOoW_HGy31I8a0G17FNzUSvfHdQ&fref=nf)](../assets/6f1e481a5f7e/1*0Kr8vgoy1ZfkEi0SCJvoqQ.jpeg)
 
 Images from the entry where police was patrolling\. Photo: [**Sconfinamenti Padova**](https://www.facebook.com/SconfinamentiPadova/?hc_ref=ARTMnANiekGjir8jk9xfjnltg12zqG-UyE9e3wz9hOoW_HGy31I8a0G17FNzUSvfHdQ&fref=nf)
 
 [Also in Italy](https://www.facebook.com/groups/611865802341602/permalink/809894299205417/) , in Gradisca close to Gorizia at the Slovenian border, a local volunteer reported that they recently found six people living in the forest\. The volunteers brought blankets and sleeping bags\.
 
 
-![](assets/6f1e481a5f7e/1*8qDUjNvpZEmvAcUaJ3cWfQ.jpeg)
+![](../assets/6f1e481a5f7e/1*8qDUjNvpZEmvAcUaJ3cWfQ.jpeg)
 
 
 
-![Photos: [**Mauro Chiarabba**](https://www.facebook.com/mauro.chiarabba?hc_ref=ARQemVHMeB-FOg9UOl-x1GLsvVAlEt6GAP_zUQDBu8ejpDGUaSf0T6UbmUSxCGaVuyo&fref=nf)](assets/6f1e481a5f7e/1*UxWcDsAu6JRYnnAu9ZZF1A.jpeg)
+![Photos: [**Mauro Chiarabba**](https://www.facebook.com/mauro.chiarabba?hc_ref=ARQemVHMeB-FOg9UOl-x1GLsvVAlEt6GAP_zUQDBu8ejpDGUaSf0T6UbmUSxCGaVuyo&fref=nf)](../assets/6f1e481a5f7e/1*UxWcDsAu6JRYnnAu9ZZF1A.jpeg)
 
 Photos: [**Mauro Chiarabba**](https://www.facebook.com/mauro.chiarabba?hc_ref=ARQemVHMeB-FOg9UOl-x1GLsvVAlEt6GAP_zUQDBu8ejpDGUaSf0T6UbmUSxCGaVuyo&fref=nf)
 
 In Rome, [**Baobab Experience**](https://www.facebook.com/BaobabExperience/?hc_ref=ARQA9aOCb02Pkqs1iG6F7Iv0O9X1-d828CZ1cok4YbE5pwfowU73WG6zRVZlLwvvYDE&fref=nf) published an urgent needslist\. [Read it here and contribute in any way you can\.](https://www.facebook.com/BaobabExperience/posts/1637075066369239?hc_location=ufi)
 
 
-![Photo: Baobab Experience](assets/6f1e481a5f7e/1*qj675732tm9UOXLAmnPFnQ.jpeg)
+![Photo: Baobab Experience](../assets/6f1e481a5f7e/1*qj675732tm9UOXLAmnPFnQ.jpeg)
 
 Photo: Baobab Experience
 #### Serbia
@@ -162,7 +162,7 @@ Refugee Aid Serbia released their monthly letter today\. For more information, [
 A new deportation from Austria to Croatia is scheduled, according to a [**Border Crossing Spielfeld**](https://www.facebook.com/RefugeesSpielfeld/?hc_ref=ARS9Y46AZtipB4fgo8PiJ3Zq2VzzzxeLaoB3yMGk2ob19rj5Vg2ihX6fGQYI2yQuIRE&fref=nf&hc_location=group) update\. This time it is two young Syrians who are held in custody in Vienna\. The list of unlawful deportations from Austria to Croatia is long, and can be read in [this post\.](https://www.facebook.com/RefugeesSpielfeld/posts/2015665842027228)
 
 
-![This is where the two young Syrias are being held\. Photo: [**Border Crossing Spielfeld**](https://www.facebook.com/RefugeesSpielfeld/?hc_ref=ARS9Y46AZtipB4fgo8PiJ3Zq2VzzzxeLaoB3yMGk2ob19rj5Vg2ihX6fGQYI2yQuIRE&fref=nf&hc_location=group)](assets/6f1e481a5f7e/1*Q-xMLrMDVivBxTo_VwPygg.jpeg)
+![This is where the two young Syrias are being held\. Photo: [**Border Crossing Spielfeld**](https://www.facebook.com/RefugeesSpielfeld/?hc_ref=ARS9Y46AZtipB4fgo8PiJ3Zq2VzzzxeLaoB3yMGk2ob19rj5Vg2ihX6fGQYI2yQuIRE&fref=nf&hc_location=group)](../assets/6f1e481a5f7e/1*Q-xMLrMDVivBxTo_VwPygg.jpeg)
 
 This is where the two young Syrias are being held\. Photo: [**Border Crossing Spielfeld**](https://www.facebook.com/RefugeesSpielfeld/?hc_ref=ARS9Y46AZtipB4fgo8PiJ3Zq2VzzzxeLaoB3yMGk2ob19rj5Vg2ihX6fGQYI2yQuIRE&fref=nf&hc_location=group)
 #### Germany

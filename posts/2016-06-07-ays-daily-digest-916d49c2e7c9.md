@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe]
 description: Data has confirmed that the numbers of refugees coming to Europe has increased. EU to pay staggering 62 billion euros to countries in the…
 image:
-  path: assets/916d49c2e7c9/1*SF2gzfdnlCHepT4eTBO8mw.jpeg
+  path: ../assets/916d49c2e7c9/1*SF2gzfdnlCHepT4eTBO8mw.jpeg
 ---
 
 ### AYS DAILY DIGEST
 #### Data has confirmed that the numbers of refugees coming to Europe has increased\. EU to pay staggering 62 billion euros to countries in the Middle East and Africa for them to halt the migration\. European Court of Justice says EU rules prevent the imprisonment of refugees crossing into the Schengen area while new arrivals in Crete are being held in a closed off detention center\.There has been a fire in Souda camp in Chios, as well as dire condition and fear of more violence in Moria detention center in Lesbos\. Two Syrian refugees are in danger of being sent to Turkey from Greece via failed EU\-Turkey deal\. There have been no relocations of unaccompanied minors in almost two months\. New arrivals in Sicily\. Roma have self\-organized a center for migrants, Baobab is being evicted\. Fires in the refugee accommodation in Sardinia and in a camp in Dusseldorf\.
 
 
-![Eviction of self\-organized center for migrants in Rome\. Photo Credit: Baobab Experience](assets/916d49c2e7c9/1*SF2gzfdnlCHepT4eTBO8mw.jpeg)
+![Eviction of self\-organized center for migrants in Rome\. Photo Credit: Baobab Experience](../assets/916d49c2e7c9/1*SF2gzfdnlCHepT4eTBO8mw.jpeg)
 
 Eviction of self\-organized center for migrants in Rome\. Photo Credit: Baobab Experience
 #### GENERAL
@@ -31,7 +31,7 @@ Russia informed the US yesterday that it will support Assad with air strikes to 
 #### GREECE
 
 
-![Where have the refugees gone after the eviction of Idomeni? Photo credit: Ignacio Marin\.](assets/916d49c2e7c9/1*XtZLRRx8RGjjwGIQKxwnmQ.jpeg)
+![Where have the refugees gone after the eviction of Idomeni? Photo credit: Ignacio Marin\.](../assets/916d49c2e7c9/1*XtZLRRx8RGjjwGIQKxwnmQ.jpeg)
 
 Where have the refugees gone after the eviction of Idomeni? Photo credit: Ignacio Marin\.
 ### **Refugees arriving in Crete are reportedly being stripped of their right to seek asylum\.**
@@ -90,7 +90,7 @@ Even though there is no shortage of rain during this European monsoon season, my
 Refugees applying for asylum in the UK on the grounds of conversion to Christianity are being interrogated on “bible trivia” by immigration officials, according to MPs\. For more on this cynicism follow [http://bit\.ly/1Zvu6ss](http://bit.ly/1Zvu6ss) \.
 
 
-![Grand facades — Calais\. In the overcrowded Calais ‘Jungle’, waiting for news on filed asylum claims, many people are painting their shelters to brighten up the environment, advertise their businesses, and to affirm their determination to make it across to the UK\. Photo Credit: Doctors Without Borders\.](assets/916d49c2e7c9/1*gu5xsxAvYOdleKa3_DGr9g.jpeg)
+![Grand facades — Calais\. In the overcrowded Calais ‘Jungle’, waiting for news on filed asylum claims, many people are painting their shelters to brighten up the environment, advertise their businesses, and to affirm their determination to make it across to the UK\. Photo Credit: Doctors Without Borders\.](../assets/916d49c2e7c9/1*gu5xsxAvYOdleKa3_DGr9g.jpeg)
 
 Grand facades — Calais\. In the overcrowded Calais ‘Jungle’, waiting for news on filed asylum claims, many people are painting their shelters to brighten up the environment, advertise their businesses, and to affirm their determination to make it across to the UK\. Photo Credit: Doctors Without Borders\.
 

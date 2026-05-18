@@ -1,5 +1,5 @@
 ---
-title: AYS Special: Frontex and Human Rights — How did we arrive here? Part 4 (April Update)
+title: "AYS Special: Frontex and Human Rights — How did we arrive here? Part 4 (April Update)"
 author: Are You Syrious?
 date: 2021-05-02T13:25:55.760+0100
 last_modified_at: 2021-05-02T13:25:55.760+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [special,human-rights,european-union,borders,frontex]
 description: April update of our Frontex and Human Rights timeline
 image:
-  path: assets/4b11d10c0f0/1*qpW8OPBm0KQRdkyU95ZINg.jpeg
+  path: ../assets/4b11d10c0f0/1*qpW8OPBm0KQRdkyU95ZINg.jpeg
 ---
 
 ### AYS Special: Frontex and Human Rights — How did we arrive here? Part 4 \(2021 So Far\)
@@ -34,7 +34,7 @@ _Check out [PART 1 \(2004–2016\)](ays-special-frontex-and-human-rights-how-did
 **Staff:** It is [envisaged](http://provisional%20estimate%20of%20budget/) that Frontex staff numbers will reach 2,000 in 2021\. 1,000 headquarter staff and 1,000 members of the agency’s standing corps\. \(See table below\) \. 700 members of the standing corps should have been ready for deployment as of January 1, 2021, but by January 31, [only 255 met these requirements](https://frontex.europa.eu/media-centre/management-board-updates/conclusions-of-the-management-board-s-meeting-on-20-21-january-2021-on-the-standing-corps-in-particular-category-1-IIzzvh) \.
 
 
-![[Single Programming Document 2021–2023](https://frontex.europa.eu/assets/Key_Documents/MB_Decision/2021/MB_Decision_1_2021_adopting_SPD_2021-2023.pdf)](assets/4b11d10c0f0/0*Ceh-ggMol0-pf7ac.png)
+![[Single Programming Document 2021–2023](https://frontex.europa.eu/assets/Key_Documents/MB_Decision/2021/MB_Decision_1_2021_adopting_SPD_2021-2023.pdf)](../assets/4b11d10c0f0/0*Ceh-ggMol0-pf7ac.png)
 
 [Single Programming Document 2021–2023](https://frontex.europa.eu/assets/Key_Documents/MB_Decision/2021/MB_Decision_1_2021_adopting_SPD_2021-2023.pdf)
 #### Investigating Frontex \(up to the end March 2021\)
@@ -55,7 +55,7 @@ _Check out [PART 1 \(2004–2016\)](ays-special-frontex-and-human-rights-how-did
 ### April
 
 
-![Brussels, Belgium — May Day Demonstration, 1 May 2021 \( [by Sans Papiers TV, via Carola Rackete](https://twitter.com/CaroRackete/status/1388548360068603909/photo/1) \)](assets/4b11d10c0f0/1*qpW8OPBm0KQRdkyU95ZINg.jpeg)
+![Brussels, Belgium — May Day Demonstration, 1 May 2021 \( [by Sans Papiers TV, via Carola Rackete](https://twitter.com/CaroRackete/status/1388548360068603909/photo/1) \)](../assets/4b11d10c0f0/1*qpW8OPBm0KQRdkyU95ZINg.jpeg)
 
 Brussels, Belgium — May Day Demonstration, 1 May 2021 \( [by Sans Papiers TV, via Carola Rackete](https://twitter.com/CaroRackete/status/1388548360068603909/photo/1) \)
 
@@ -116,7 +116,7 @@ Brussels, Belgium — May Day Demonstration, 1 May 2021 \( [by Sans Papiers TV, 
 **1 April:** In an internal email to Frontex Management Board, German Federal Interior Minister Horst Seehofer pushes against the setting up of a new internal working group to carry on the investigation on pushbacks in the Aegean\. The email was later on published by [EMP Erik Marquardt](https://twitter.com/ErikMarquardt/status/1383396199525339136/photo/1) and [Der Spiegel](https://www.spiegel.de/politik/ausland/griechenland-wie-horst-seehofer-die-aufklaerung-im-frontex-skandal-behindert-a-042669cd-5d44-4060-a7ca-62efb60355fc) \.
 
 
-![Credit: [Erik Marquardt](https://twitter.com/ErikMarquardt/status/1383396199525339136/photo/1)](assets/4b11d10c0f0/1*PzGB3dk1-TM8e1ENVvcIkQ.jpeg)
+![Credit: [Erik Marquardt](https://twitter.com/ErikMarquardt/status/1383396199525339136/photo/1)](../assets/4b11d10c0f0/1*PzGB3dk1-TM8e1ENVvcIkQ.jpeg)
 
 Credit: [Erik Marquardt](https://twitter.com/ErikMarquardt/status/1383396199525339136/photo/1)
 ### Out This Month — Articles
@@ -135,7 +135,7 @@ Credit: [Erik Marquardt](https://twitter.com/ErikMarquardt/status/13833961995253
 ### March
 
 
-![Photo by Bernd Sauer\-Dieter](assets/4b11d10c0f0/1*2fKJq25XuVV70Jf2QYby-w.jpeg)
+![Photo by Bernd Sauer\-Dieter](../assets/4b11d10c0f0/1*2fKJq25XuVV70Jf2QYby-w.jpeg)
 
 Photo by Bernd Sauer\-Dieter
 
@@ -260,7 +260,7 @@ The working group called on the EU to clarify the legal framework regarding bord
 ### February
 
 
-![Photo by [Ines Pousadela](https://twitter.com/inespousadela/status/1367488451340357640/photo/1)](assets/4b11d10c0f0/0*ZIJIUBi2XyhbtEQ8.png)
+![Photo by [Ines Pousadela](https://twitter.com/inespousadela/status/1367488451340357640/photo/1)](../assets/4b11d10c0f0/0*ZIJIUBi2XyhbtEQ8.png)
 
 Photo by [Ines Pousadela](https://twitter.com/inespousadela/status/1367488451340357640/photo/1)
 
@@ -370,7 +370,7 @@ Commenting the decision, Statewatch argued that it makes no sense because “it 
 ### JANUARY
 
 
-![](assets/4b11d10c0f0/0*elQe_tI5VSnZ_Izg.jpeg)
+![](../assets/4b11d10c0f0/0*elQe_tI5VSnZ_Izg.jpeg)
 
 
 **January 29:** Extremely busy day for Frontex\.

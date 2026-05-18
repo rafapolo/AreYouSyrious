@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 16/1/17: Tuesday brought largest number of people rescued in 2018
+title: "AYS Daily Digest 16/1/17: Tuesday brought largest number of people rescued in 2018"
 author: Are You Syrious?
 date: 2018-01-17T11:28:51.392+0000
 last_modified_at: 2018-01-17T12:08:27.723+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,humanitarian,volunteering,uk-politics]
 description: 2 lives lost, many babies, children, women and men saved in SAR actions across the Mediterranean / Donations and volunteers needed in…
 image:
-  path: assets/d9655bc95b54/1*I5MKHpcTYOkW4dRH9XKybQ.jpeg
+  path: ../assets/d9655bc95b54/1*I5MKHpcTYOkW4dRH9XKybQ.jpeg
 ---
 
 ### AYS Daily Digest 16/1/17: Tuesday brought largest number of people rescued in 2018
@@ -15,7 +15,7 @@ image:
 
 
 ![“ Unbearable what we see\. A dead child, and there may be more\. More innocent bodies to counter the shame\. 
-Do many children, women and men have to die so that react before this huge crime? Cramped in darkness breathing death” \(Photo: [Proactiva Open Arms](https://www.facebook.com/proactivaservice/?hc_location=group_dialog) \)](assets/d9655bc95b54/1*I5MKHpcTYOkW4dRH9XKybQ.jpeg)
+Do many children, women and men have to die so that react before this huge crime? Cramped in darkness breathing death” \(Photo: [Proactiva Open Arms](https://www.facebook.com/proactivaservice/?hc_location=group_dialog) \)](../assets/d9655bc95b54/1*I5MKHpcTYOkW4dRH9XKybQ.jpeg)
 
 “ Unbearable what we see\. A dead child, and there may be more\. More innocent bodies to counter the shame\. 
 Do many children, women and men have to die so that react before this huge crime? Cramped in darkness breathing death” \(Photo: [Proactiva Open Arms](https://www.facebook.com/proactivaservice/?hc_location=group_dialog) \)
@@ -130,27 +130,27 @@ Total 5 / 215
 Horrible conditions in Moria were documented by another group that managed to get it\.
 
 
-![](assets/d9655bc95b54/1*QXQVnNlNineB7hvMX3IoFg.jpeg)
+![](../assets/d9655bc95b54/1*QXQVnNlNineB7hvMX3IoFg.jpeg)
 
 
 
-![](assets/d9655bc95b54/1*yOu1_dlNsz7fxYGh2QWO4Q.jpeg)
+![](../assets/d9655bc95b54/1*yOu1_dlNsz7fxYGh2QWO4Q.jpeg)
 
 
 
-![](assets/d9655bc95b54/1*FkeegikfTAz4GJ8kMJQP8w.jpeg)
+![](../assets/d9655bc95b54/1*FkeegikfTAz4GJ8kMJQP8w.jpeg)
 
 
 
-![](assets/d9655bc95b54/1*ey3q6l1iJlmT1WahzGHAEw.jpeg)
+![](../assets/d9655bc95b54/1*ey3q6l1iJlmT1WahzGHAEw.jpeg)
 
 
 
-![](assets/d9655bc95b54/1*TPzU4dEEGx-CZ0-72ceD1Q.jpeg)
+![](../assets/d9655bc95b54/1*TPzU4dEEGx-CZ0-72ceD1Q.jpeg)
 
 
 
-![](assets/d9655bc95b54/1*HfFeWwqVL8Lw-N4BRWMKSw.jpeg)
+![](../assets/d9655bc95b54/1*HfFeWwqVL8Lw-N4BRWMKSw.jpeg)
 
 
 Enough is enough reports that Arash Hampay was forced to leave Lesvos\.
@@ -223,7 +223,7 @@ Hungarian media report that Ahmed H\. was not responsible for the violence that 
 ### More than 15,000 unaccompanied minors arrived to the country
 
 
-![[UNHCR statistical data](https://www.youtube.com/watch?v=X2hsF6wDMMA) of January 15](assets/d9655bc95b54/1*eLObG3pPCliHNxiN4F62GA.jpeg)
+![[UNHCR statistical data](https://www.youtube.com/watch?v=X2hsF6wDMMA) of January 15](../assets/d9655bc95b54/1*eLObG3pPCliHNxiN4F62GA.jpeg)
 
 [UNHCR statistical data](https://www.youtube.com/watch?v=X2hsF6wDMMA) of January 15
 
@@ -252,19 +252,19 @@ Jewish leaders have already stated that these statements remind them of the anti
 ### Paris
 
 
-![](assets/d9655bc95b54/1*Mf6w2NLqLQsn8GeuEcdZDQ.jpeg)
+![](../assets/d9655bc95b54/1*Mf6w2NLqLQsn8GeuEcdZDQ.jpeg)
 
 
 
-![](assets/d9655bc95b54/1*uJuLgDd-CqzDc41pB3bs6Q.jpeg)
+![](../assets/d9655bc95b54/1*uJuLgDd-CqzDc41pB3bs6Q.jpeg)
 
 
 
-![](assets/d9655bc95b54/1*iryGHYILVIZouMohrn1OtQ.jpeg)
+![](../assets/d9655bc95b54/1*iryGHYILVIZouMohrn1OtQ.jpeg)
 
 
 
-![Photos: [**Merel Graeve**](https://www.facebook.com/merel.graeve)](assets/d9655bc95b54/1*xnN0_tzFL6M-ax9fsZdmVg.jpeg)
+![Photos: [**Merel Graeve**](https://www.facebook.com/merel.graeve)](../assets/d9655bc95b54/1*xnN0_tzFL6M-ax9fsZdmVg.jpeg)
 
 Photos: [**Merel Graeve**](https://www.facebook.com/merel.graeve)
 
@@ -374,7 +374,7 @@ Contrary to what mr\. president perhaps wanted to achieve with the people, angry
 
 
 
-![](assets/d9655bc95b54/1*Q0ThsPYUCUyekByd6YwSPw.jpeg)
+![](../assets/d9655bc95b54/1*Q0ThsPYUCUyekByd6YwSPw.jpeg)
 
 
 
@@ -400,7 +400,7 @@ Five refugees have died trying to cross the Calais border in the last two months
 We want to ask Mr Macron: where are our human rights? Where are Liberte’, Egalite’, Fraternite’?
 We are here because of war and dictators, we are not ‘economic migrants’\.
 Why is Mr Macron allowing the sale of arms to different countries at war and to dictators?
-Mr Macron is encouraging the Libyan authorities to stop migration to Europe and this is causing people to die unnecessarily, to be detained in horrible conditions and to be sold in the slave markets\. \(Photos: [One World: OPEN the borders](https://www.facebook.com/noborders1world/?hc_ref=ARSjCOse0hp95SIdpXShFO9jAM-6XW8t6zUxXLzmlaaNI1DdyGXiT76wzaHamIqj8xs) \)](assets/d9655bc95b54/1*prFl44teExK6Yj3ArshvZQ.jpeg)
+Mr Macron is encouraging the Libyan authorities to stop migration to Europe and this is causing people to die unnecessarily, to be detained in horrible conditions and to be sold in the slave markets\. \(Photos: [One World: OPEN the borders](https://www.facebook.com/noborders1world/?hc_ref=ARSjCOse0hp95SIdpXShFO9jAM-6XW8t6zUxXLzmlaaNI1DdyGXiT76wzaHamIqj8xs) \)](../assets/d9655bc95b54/1*prFl44teExK6Yj3ArshvZQ.jpeg)
 
 Asylum in France is a right\.
 Stop police violence\!
@@ -436,21 +436,21 @@ For 10 years, the _bedsteforældre for asyl_ movement has fought against the deg
 On Sunday, January 14 they have moved the demonstration from in front of Sandholm to deportation center Sjælsmark to protest that children should not be forced to stay under prison\-like conditions\. They insist the children are taken out of the centres\.
 
 
-![](assets/d9655bc95b54/1*z6tOFEuYXOwbyhSUuJWJ2Q.jpeg)
+![](../assets/d9655bc95b54/1*z6tOFEuYXOwbyhSUuJWJ2Q.jpeg)
 
 
 
-![](assets/d9655bc95b54/1*MRUMh9t8BLe59b1JtJ0Bfw.jpeg)
+![](../assets/d9655bc95b54/1*MRUMh9t8BLe59b1JtJ0Bfw.jpeg)
 
 
 “Grandparents for asylum” hold a hearing on rejected asylum seekers’ and their children’s right in these horrible and expatriation centers\. It takes place on Thursday 25 January at 14–17 in the community hall at Christiansborg\.
 
 
-![](assets/d9655bc95b54/1*1ySNp1pQyWynb_ksWm4PsA.jpeg)
+![](../assets/d9655bc95b54/1*1ySNp1pQyWynb_ksWm4PsA.jpeg)
 
 
 
-![Photo credits: Bente Jaeger](assets/d9655bc95b54/1*r-WK1TeUZs_KDCa__cEmUw.jpeg)
+![Photo credits: Bente Jaeger](../assets/d9655bc95b54/1*r-WK1TeUZs_KDCa__cEmUw.jpeg)
 
 Photo credits: Bente Jaeger
 ### New rules in family reunification

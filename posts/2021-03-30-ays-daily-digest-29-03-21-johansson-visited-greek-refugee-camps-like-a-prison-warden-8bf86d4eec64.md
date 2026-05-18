@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [greece,refugees,digest,germany,european-union]
 description: Also pushback reports in Greece // new rescues at sea // deportations from Sweden // low asylum approvals in Germany // and more…
 image:
-  path: assets/8bf86d4eec64/1*M9h1RozhEDQgIljdVHDOHg.jpeg
+  path: ../assets/8bf86d4eec64/1*M9h1RozhEDQgIljdVHDOHg.jpeg
 ---
 
 ### AYS Daily Digest 29/03/21 Johansson visited Greek refugee camps like a prison warden
@@ -16,7 +16,7 @@ _Also pushback reports in Greece // new rescues at sea // deportations from Swed
 
 
 ![“‘There is no color in this camp\. So we decided to bring the culture back\. We wanted to give these paintings to Johansson, but unfortunately, we could not meet her here today\. We urgently need to leave, it’s been too long,’ says artist Shukran who’s here s\. 2 yrs\.” Photo and caption by 
-[Franziska Grillmeier](https://twitter.com/f_grillmeier/status/1376535966442262531)](assets/8bf86d4eec64/1*M9h1RozhEDQgIljdVHDOHg.jpeg)
+[Franziska Grillmeier](https://twitter.com/f_grillmeier/status/1376535966442262531)](../assets/8bf86d4eec64/1*M9h1RozhEDQgIljdVHDOHg.jpeg)
 
 “‘There is no color in this camp\. So we decided to bring the culture back\. We wanted to give these paintings to Johansson, but unfortunately, we could not meet her here today\. We urgently need to leave, it’s been too long,’ says artist Shukran who’s here s\. 2 yrs\.” Photo and caption by 
 [Franziska Grillmeier](https://twitter.com/f_grillmeier/status/1376535966442262531)
@@ -50,11 +50,11 @@ As we detailed in [AYS’s Weekend digest](ays-weekend-digest-27-28-3-2021-itali
 
 
 
-![](assets/8bf86d4eec64/1*ueEjtIHVRbivcGexBQ6kLg.jpeg)
+![](../assets/8bf86d4eec64/1*ueEjtIHVRbivcGexBQ6kLg.jpeg)
 
 
 
-![On Samos\. Photos by [Ευρωπαϊκή Επιτροπή](https://twitter.com/YlvaJohansson/status/1376440492351709186) \(European Commission\)](assets/8bf86d4eec64/1*wHijG-0askGQjIKL3xQLsA.jpeg)
+![On Samos\. Photos by [Ευρωπαϊκή Επιτροπή](https://twitter.com/YlvaJohansson/status/1376440492351709186) \(European Commission\)](../assets/8bf86d4eec64/1*wHijG-0askGQjIKL3xQLsA.jpeg)
 
 On Samos\. Photos by [Ευρωπαϊκή Επιτροπή](https://twitter.com/YlvaJohansson/status/1376440492351709186) \(European Commission\)
 
@@ -157,11 +157,11 @@ Journalist [Giorgos Christides](https://twitter.com/g_christides/status/13764707
 
 
 
-![](assets/8bf86d4eec64/1*y3014urCvgzwUUwka6TBpQ.jpeg)
+![](../assets/8bf86d4eec64/1*y3014urCvgzwUUwka6TBpQ.jpeg)
 
 
 
-![Photo by [Moria Corona Awareness Team](https://www.facebook.com/MoriaCoronaAwarenessTeam/posts/276336427328868)](assets/8bf86d4eec64/1*ViI8XDl5tRPM2rmP2SJkRw.jpeg)
+![Photo by [Moria Corona Awareness Team](https://www.facebook.com/MoriaCoronaAwarenessTeam/posts/276336427328868)](../assets/8bf86d4eec64/1*ViI8XDl5tRPM2rmP2SJkRw.jpeg)
 
 Photo by [Moria Corona Awareness Team](https://www.facebook.com/MoriaCoronaAwarenessTeam/posts/276336427328868)
 
@@ -238,7 +238,7 @@ Read in full [here](https://www.migazin.de/2021/03/29/abschiebepate-deutschland-
 #### SWEDEN
 
 
-![“Another charter plan carrying Afghan asylum seekers from Sweden and Austria will leave Europe tomorrow evening on the 30th and arrive in Kabul early in the morning, the following day\. We are not yet sure if there will deportees from other countries in the plane too, we will update about that later\.” Photo and Info by [Afghanistan Migrants Advice and Support Org](https://www.facebook.com/AmasoAfg/posts/4205342629495989)](assets/8bf86d4eec64/0*HMVQ8sCJMAPwobep)
+![“Another charter plan carrying Afghan asylum seekers from Sweden and Austria will leave Europe tomorrow evening on the 30th and arrive in Kabul early in the morning, the following day\. We are not yet sure if there will deportees from other countries in the plane too, we will update about that later\.” Photo and Info by [Afghanistan Migrants Advice and Support Org](https://www.facebook.com/AmasoAfg/posts/4205342629495989)](../assets/8bf86d4eec64/0*HMVQ8sCJMAPwobep)
 
 “Another charter plan carrying Afghan asylum seekers from Sweden and Austria will leave Europe tomorrow evening on the 30th and arrive in Kabul early in the morning, the following day\. We are not yet sure if there will deportees from other countries in the plane too, we will update about that later\.” Photo and Info by [Afghanistan Migrants Advice and Support Org](https://www.facebook.com/AmasoAfg/posts/4205342629495989)
 #### EU/FRONTEX

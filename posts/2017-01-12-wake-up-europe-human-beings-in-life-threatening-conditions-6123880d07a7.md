@@ -1,5 +1,5 @@
 ---
-title: WAKE UP, EUROPE: Human beings in life threatening conditions
+title: "WAKE UP, EUROPE: Human beings in life threatening conditions"
 author: Are You Syrious?
 date: 2017-01-12T15:26:20.882+0000
 last_modified_at: 2017-01-15T10:05:47.982+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,greece,refugee-camps]
 description: A joint statement from refugees and groups denouncing the treacherous living conditions of Greek camps
 image:
-  path: assets/6123880d07a7/1*bCdG85LBSPjpTnMg4lhbaA.jpeg
+  path: ../assets/6123880d07a7/1*bCdG85LBSPjpTnMg4lhbaA.jpeg
 ---
 
 ### **WAKE UP, EUROPE: Human beings in life threatening conditions**
@@ -17,12 +17,12 @@ image:
 **11th January 2017**
 
 
-![Photo by [InterVolve](https://www.facebook.com/InterVolve-219418945063168/?hc_ref=PAGES_TIMELINE)](assets/6123880d07a7/1*bCdG85LBSPjpTnMg4lhbaA.jpeg)
+![Photo by [InterVolve](https://www.facebook.com/InterVolve-219418945063168/?hc_ref=PAGES_TIMELINE)](../assets/6123880d07a7/1*bCdG85LBSPjpTnMg4lhbaA.jpeg)
 
 Photo by [InterVolve](https://www.facebook.com/InterVolve-219418945063168/?hc_ref=PAGES_TIMELINE)
 
 
-[![WAKE UP, EUROPE: Human Beings in Life Threatening Conditions](assets/6123880d07a7/5e9f_hqdefault.jpg "WAKE UP, EUROPE: Human Beings in Life Threatening Conditions")](http://www.youtube.com/watch?v=y_4WBt9folI)
+[![WAKE UP, EUROPE: Human Beings in Life Threatening Conditions](../assets/6123880d07a7/5e9f_hqdefault.jpg "WAKE UP, EUROPE: Human Beings in Life Threatening Conditions")](http://www.youtube.com/watch?v=y_4WBt9folI)
 
 
 **With this statement, we, the people, networks and groups standing in solidarity with the refugees side by side, from inside and outside of the camps:**
@@ -46,23 +46,23 @@ In Souda camp on **Chios** , more than 800 refugees still have no access to hot 
 On **Samos** , around 700 people including young children and other vulnerable individuals remain in unheated tents\. The situation for refugees on **Lesvos** grows increasingly dire\. The refugee population living on the island exceeds 6,000, of whom 50% are children living in life\-threatening conditions and are at serious risk of hypothermia\. Only 130 have been recently accommodated in hotels\.
 
 
-![](assets/6123880d07a7/1*bCdG85LBSPjpTnMg4lhbaA.jpeg)
+![](../assets/6123880d07a7/1*bCdG85LBSPjpTnMg4lhbaA.jpeg)
 
 
 
-![](assets/6123880d07a7/1*uBoU69NVeXLWxUp751ECUA.jpeg)
+![](../assets/6123880d07a7/1*uBoU69NVeXLWxUp751ECUA.jpeg)
 
 
 
-![](assets/6123880d07a7/1*mtdyhwENvRXvIHQUTIsytA.jpeg)
+![](../assets/6123880d07a7/1*mtdyhwENvRXvIHQUTIsytA.jpeg)
 
 
 
-![](assets/6123880d07a7/1*VUo1QEI8WjvG7Un6Qxv0Sw.jpeg)
+![](../assets/6123880d07a7/1*VUo1QEI8WjvG7Un6Qxv0Sw.jpeg)
 
 
 
-![Moria, Lesvos, Alexendreai, Vasilik, Sindos, Softex \(all photos by refugees and volunteers\)](assets/6123880d07a7/1*IOtMH1rQy-AIX4jM3ul6lA.jpeg)
+![Moria, Lesvos, Alexendreai, Vasilik, Sindos, Softex \(all photos by refugees and volunteers\)](../assets/6123880d07a7/1*IOtMH1rQy-AIX4jM3ul6lA.jpeg)
 
 Moria, Lesvos, Alexendreai, Vasilik, Sindos, Softex \(all photos by refugees and volunteers\)
 

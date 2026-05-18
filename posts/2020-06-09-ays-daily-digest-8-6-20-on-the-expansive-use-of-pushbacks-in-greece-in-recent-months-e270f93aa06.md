@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 8/6/20: On the expansive use of pushbacks in Greece in recent months
+title: "AYS Daily Digest 8/6/20: On the expansive use of pushbacks in Greece in recent months"
 author: Are You Syrious?
 date: 2020-06-09T15:06:21.965+0100
 last_modified_at: 2020-06-09T16:25:23.791+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,borders,europe,greece]
 description: Updates and news from the Mediterranean, from deadly borders of the politically dispersed and not so united EU, by volunteers on the…
 image:
-  path: assets/e270f93aa06/1*hoZzNlp9ewUEk0hmKuey5w.jpeg
+  path: ../assets/e270f93aa06/1*hoZzNlp9ewUEk0hmKuey5w.jpeg
 ---
 
 ### AYS Daily Digest 8/6/20: On the expansive use of pushbacks in Greece in recent months
 #### Updates and news from the Mediterranean, from deadly borders of the politically dispersed and not so united EU, by volunteers on the ground and through various reports
 
 
-![](assets/e270f93aa06/1*hoZzNlp9ewUEk0hmKuey5w.jpeg)
+![](../assets/e270f93aa06/1*hoZzNlp9ewUEk0hmKuey5w.jpeg)
 
 #### FEATURED
 
@@ -43,7 +43,7 @@ While the passage to the Canary islands remained somewhat open during the lockdo
 
 
 
-![Of the 7 cases the Alarm Phone dealt with, 5 boats were on their way to the Canary islands and two attempted to cross the Strait of Gibraltar\.](assets/e270f93aa06/0*DzxwBu60_t59TYrJ.png)
+![Of the 7 cases the Alarm Phone dealt with, 5 boats were on their way to the Canary islands and two attempted to cross the Strait of Gibraltar\.](../assets/e270f93aa06/0*DzxwBu60_t59TYrJ.png)
 
 Of the 7 cases the Alarm Phone dealt with, 5 boats were on their way to the Canary islands and two attempted to cross the Strait of Gibraltar\.
 
@@ -146,7 +146,7 @@ People have been shocked at seeing how many trees have been cut down in order to
 
 
 
-![](assets/e270f93aa06/1*ZJDXSLH-lGPfyURZUqTDyQ.jpeg)
+![](../assets/e270f93aa06/1*ZJDXSLH-lGPfyURZUqTDyQ.jpeg)
 
 #### BELGIUM
 ### Europe’s ‘hidden’ racism
@@ -162,7 +162,7 @@ Police violence is the pathetic expression of racism in institutions\.
 Police violence is the face of politicians unable to find answers to society’s problems\.
 Police violence should be reclassified as POLICE CRIMES\. As long as the situation remains intact, the police officers responsible for the violence will continue to get away with it, because they are supported by state propaganda\.
 Every effort must be made to ensure that the perpetrators of these acts are held accountable to justice and that the law is enforced\. 
-Support the fight against the regularization of the undocumented\.” — via [Serge Guy Alain Bagamboula](https://www.facebook.com/sergeguyalain.bagamboula?__tn__=%2CdCH-R-R&eid=ARDArVaGcnOa-tOO17ZzlrsaIQmqjxaUgo43iN5IX56yZMY2GzEfjyzL-26I6gCe-9KDVYo3n2C7Tj80&hc_ref=ARQvN3ozwLk13_C4JLZOlOT-73_7dKkz8W0d0liLQ8-fFgC3MEuzrS2RWlR6jFnzINw&fref=nf&hc_location=group)](assets/e270f93aa06/1*uadNcmfj67JsYlez4AVXMA.jpeg)
+Support the fight against the regularization of the undocumented\.” — via [Serge Guy Alain Bagamboula](https://www.facebook.com/sergeguyalain.bagamboula?__tn__=%2CdCH-R-R&eid=ARDArVaGcnOa-tOO17ZzlrsaIQmqjxaUgo43iN5IX56yZMY2GzEfjyzL-26I6gCe-9KDVYo3n2C7Tj80&hc_ref=ARQvN3ozwLk13_C4JLZOlOT-73_7dKkz8W0d0liLQ8-fFgC3MEuzrS2RWlR6jFnzINw&fref=nf&hc_location=group)](../assets/e270f93aa06/1*uadNcmfj67JsYlez4AVXMA.jpeg)
 
 “I am Bintou Touré,
 As a member of the Coordination des sans\-papiers, I bring my voice here to say that police violence is a reality all over the world\. Even in states that claim to be a state governed by the rule of law, this police violence is rooted and rooted in it\. Belgium does not escape this observation\. Do not wait for the police to abuse you to believe it\. Do not wait for it to happen elsewhere to denounce them\. Foreigners often pay the heavy price\. Some police officers in their excessive zeal commit this violence, which they themselves call blunders\. Whatever the situation, they protect each other\. The problem is that justice is always on their side\.
@@ -181,7 +181,7 @@ AYS is entering the last week of our campaign aiming to support some of the refu
 visit: areyousyrious\.eu
 
 
-![](assets/e270f93aa06/1*WW5QRDIf5UXq1Wuc4gUGtw.jpeg)
+![](../assets/e270f93aa06/1*WW5QRDIf5UXq1Wuc4gUGtw.jpeg)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

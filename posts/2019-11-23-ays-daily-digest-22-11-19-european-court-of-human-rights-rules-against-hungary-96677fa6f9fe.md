@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 22/11/19: European Court of Human Rights rules against Hungary
+title: "AYS Daily Digest 22/11/19: European Court of Human Rights rules against Hungary"
 author: Are You Syrious?
 date: 2019-11-23T12:57:53.061+0000
 last_modified_at: 2019-11-23T13:25:54.241+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,mediterranean,hungary]
 description: Bodies washed to the shore of Libya proof another tragedy in the Mediterranean/// Belgium is failing in providing accommodation for asylum…
 image:
-  path: assets/96677fa6f9fe/1*iYO_jp9FC2N_tI_XnAqQKg.jpeg
+  path: ../assets/96677fa6f9fe/1*iYO_jp9FC2N_tI_XnAqQKg.jpeg
 ---
 
 ### AYS Daily Digest 22/11/19: European Court of Human Rights rules against Hungary
@@ -15,7 +15,7 @@ image:
 Bodies washed to the shore of Libya proof of another tragedy in the Mediterranean/// Belgium is failing in providing accommodation for asylum seekers/// Hunger strike in CRA Mesnil Amelot
 
 
-![Copy Right: Alarm Phone](assets/96677fa6f9fe/1*iYO_jp9FC2N_tI_XnAqQKg.jpeg)
+![Copy Right: Alarm Phone](../assets/96677fa6f9fe/1*iYO_jp9FC2N_tI_XnAqQKg.jpeg)
 
 Copy Right: Alarm Phone
 #### Feature Story — European Court of Human Rights \(ECtHR\): Hungary acted against Art\. 3 ECHR by failing to assess risk of return

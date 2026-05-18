@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 06/08/2021: The crisis in the crisis
+title: "AYS Daily Digest 06/08/2021: The crisis in the crisis"
 author: Are You Syrious?
 date: 2021-08-07T15:38:03.410+0100
 last_modified_at: 2021-08-07T15:38:03.410+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,mediterranean,belarus]
 description: Ritsona camp overcrowded and without support for people // 42 people die off Morocco // Five people stuck and tortured between Belarus and…
 image:
-  path: assets/5fa8184475eb/0*4xb0xr8IyUZhmSQH.jpeg
+  path: ../assets/5fa8184475eb/0*4xb0xr8IyUZhmSQH.jpeg
 ---
 
 ### AYS Daily Digest 06/08/2021: The crisis in the crisis
 ### Ritsona camp overcrowded and without support for people // 42 people die off Morocco // Five people stuck and tortured between Belarus and Lithuania // Revolt in French Detention centre
 
 
-![](assets/5fa8184475eb/0*cX3i3FVL2kqr6o3Z.jpeg)
+![](../assets/5fa8184475eb/0*cX3i3FVL2kqr6o3Z.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----faf1d896a356--------------------------------)
@@ -22,7 +22,7 @@ image:
 [Aug 7](ays-daily-digest-06-08-2021-the-crisis-in-the-crisis-faf1d896a356?source=post_page-----faf1d896a356--------------------------------) · 4 min read
 
 
-![](assets/5fa8184475eb/0*4xb0xr8IyUZhmSQH.jpeg)
+![](../assets/5fa8184475eb/0*4xb0xr8IyUZhmSQH.jpeg)
 
 
 With the ongoing wildfires in Greece, refugees are suffering from even worse living conditions\. Source: [Facebook/NoBorders](https://www.facebook.com/nobordersnetwork/posts/4244374602297066)

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 27/8/20 — Melilla: The impossible system
+title: "AYS Daily Digest 27/8/20 — Melilla: The impossible system"
 author: Are You Syrious?
 date: 2020-08-28T12:11:06.320+0100
 last_modified_at: 2020-08-28T17:57:12.087+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digestion,refugees,melilla,louise-michel,racism]
 description: #LouiseMichel rescue 98 people / No safe port for more than 300 people / Death threats for hoteliers on Lesvos. More from all around…
 image:
-  path: assets/7150137ff895/1*QnuflPRT8gxSW5eLoh0__w.jpeg
+  path: ../assets/7150137ff895/1*QnuflPRT8gxSW5eLoh0__w.jpeg
 ---
 
 ### AYS Daily Digest 27/8/20 — Melilla: The impossible system
@@ -15,7 +15,7 @@ image:
 “Homemade” Rescue Vessel brings 89 people to safety / No safe port for more than 300 people / Death threats for hoteliers on Lesvos / Human rights violation in the Canaries / Britain First harass people on the move housed in hotels
 
 
-![Melilla \(Photo by [Solidary Wheels](https://twitter.com/SolidaryW/status/1299044507330240514/photo/1) \)](assets/7150137ff895/1*QnuflPRT8gxSW5eLoh0__w.jpeg)
+![Melilla \(Photo by [Solidary Wheels](https://twitter.com/SolidaryW/status/1299044507330240514/photo/1) \)](../assets/7150137ff895/1*QnuflPRT8gxSW5eLoh0__w.jpeg)
 
 Melilla \(Photo by [Solidary Wheels](https://twitter.com/SolidaryW/status/1299044507330240514/photo/1) \)
 #### FEATURED — Melilla: The impossible system
@@ -66,7 +66,7 @@ A sailboat carrying 145 people was drifting outside Babakale, Turkey on Wednesda
 #### Updates from Lesvos
 
 
-![Moria camp \(Photo by [MCAT](https://www.facebook.com/MoriaCoronaAwarenessTeam/photos/pcb.170982827864229/170982721197573) \)](assets/7150137ff895/1*MUqISqImWltLbkOywr5RFQ.png)
+![Moria camp \(Photo by [MCAT](https://www.facebook.com/MoriaCoronaAwarenessTeam/photos/pcb.170982827864229/170982721197573) \)](../assets/7150137ff895/1*MUqISqImWltLbkOywr5RFQ.png)
 
 Moria camp \(Photo by [MCAT](https://www.facebook.com/MoriaCoronaAwarenessTeam/photos/pcb.170982827864229/170982721197573) \)
 
@@ -80,7 +80,7 @@ Media [report](https://www.stonisi.gr/post/10965/epishmh-anakoinwsh-gia-22-kroys
 Stefanos Michiotis [reported](https://www.facebook.com/notes/%CF%83%CF%84%CE%AD%CF%86%CE%B1%CE%BD%CE%BF%CF%82-%CE%BC%CE%B9%CF%87%CE%B9%CF%8E%CF%84%CE%B7%CF%82/%CE%B7-%CE%B5%CF%85%CE%B8%CF%8D%CE%BD%CE%B7-%CE%B3%CE%B9%CE%B1-%CF%84%CE%B7%CE%BD-%CE%BA%CE%BB%CE%B7%CF%81%CE%BF%CE%BD%CE%BF%CE%BC%CE%B9%CE%AC-%CF%80%CE%BF%CF%85-%CE%B1%CF%86%CE%AE%CE%BD%CE%BF%CF%85%CE%BC%CE%B5-%CF%80%CE%AF%CF%83%CF%89-%CE%BC%CE%B1%CF%82/994175274026124/) that new threats have been sent to his house because he is willing to host people on the move in his hotel\.
 
 
-![“No NGOs or immigrants\. Be careful” \(Photo by [Stefanos Michiotis](https://www.facebook.com/notes/%CF%83%CF%84%CE%AD%CF%86%CE%B1%CE%BD%CE%BF%CF%82-%CE%BC%CE%B9%CF%87%CE%B9%CF%8E%CF%84%CE%B7%CF%82/%CE%B7-%CE%B5%CF%85%CE%B8%CF%8D%CE%BD%CE%B7-%CE%B3%CE%B9%CE%B1-%CF%84%CE%B7%CE%BD-%CE%BA%CE%BB%CE%B7%CF%81%CE%BF%CE%BD%CE%BF%CE%BC%CE%B9%CE%AC-%CF%80%CE%BF%CF%85-%CE%B1%CF%86%CE%AE%CE%BD%CE%BF%CF%85%CE%BC%CE%B5-%CF%80%CE%AF%CF%83%CF%89-%CE%BC%CE%B1%CF%82/994175274026124/) \)](assets/7150137ff895/1*UFyK4zpmQRd8GHKrtKsX4A.jpeg)
+![“No NGOs or immigrants\. Be careful” \(Photo by [Stefanos Michiotis](https://www.facebook.com/notes/%CF%83%CF%84%CE%AD%CF%86%CE%B1%CE%BD%CE%BF%CF%82-%CE%BC%CE%B9%CF%87%CE%B9%CF%8E%CF%84%CE%B7%CF%82/%CE%B7-%CE%B5%CF%85%CE%B8%CF%8D%CE%BD%CE%B7-%CE%B3%CE%B9%CE%B1-%CF%84%CE%B7%CE%BD-%CE%BA%CE%BB%CE%B7%CF%81%CE%BF%CE%BD%CE%BF%CE%BC%CE%B9%CE%AC-%CF%80%CE%BF%CF%85-%CE%B1%CF%86%CE%AE%CE%BD%CE%BF%CF%85%CE%BC%CE%B5-%CF%80%CE%AF%CF%83%CF%89-%CE%BC%CE%B1%CF%82/994175274026124/) \)](../assets/7150137ff895/1*UFyK4zpmQRd8GHKrtKsX4A.jpeg)
 
 “No NGOs or immigrants\. Be careful” \(Photo by [Stefanos Michiotis](https://www.facebook.com/notes/%CF%83%CF%84%CE%AD%CF%86%CE%B1%CE%BD%CE%BF%CF%82-%CE%BC%CE%B9%CF%87%CE%B9%CF%8E%CF%84%CE%B7%CF%82/%CE%B7-%CE%B5%CF%85%CE%B8%CF%8D%CE%BD%CE%B7-%CE%B3%CE%B9%CE%B1-%CF%84%CE%B7%CE%BD-%CE%BA%CE%BB%CE%B7%CF%81%CE%BF%CE%BD%CE%BF%CE%BC%CE%B9%CE%AC-%CF%80%CE%BF%CF%85-%CE%B1%CF%86%CE%AE%CE%BD%CE%BF%CF%85%CE%BC%CE%B5-%CF%80%CE%AF%CF%83%CF%89-%CE%BC%CE%B1%CF%82/994175274026124/) \)
 
@@ -228,11 +228,11 @@ SLOVENIA
 #### **Statement from Postojna Centre**
 
 
-![](assets/7150137ff895/1*Htfmd3WSCcq7p0kLim1LUQ.jpeg)
+![](../assets/7150137ff895/1*Htfmd3WSCcq7p0kLim1LUQ.jpeg)
 
 
 
-![\(Photo Credit: [Tukaj smo](https://web.facebook.com/Tukajsmo/?__cft__[0]=AZXbEMAIa1dGwgVhDdtiT4ozXea0PJVJa_wUt3kH3RzD6gRmjqO3IOYC4DTgg9ffo0yPM8N8gahbpNixsQ0oLjNDa5VB5Krc4by1u5wCKfwyNABME7F4v9vB7RinMUw_v7fLV8fnNsD6X3fQUi5V1EaO6PBjerxLKAT5kKOnkBAApQ&__tn__=-UC%2CP-R) \)](assets/7150137ff895/1*ljFG6tjblHKzEjIZ0Tq8Aw.jpeg)
+![\(Photo Credit: [Tukaj smo](https://web.facebook.com/Tukajsmo/?__cft__[0]=AZXbEMAIa1dGwgVhDdtiT4ozXea0PJVJa_wUt3kH3RzD6gRmjqO3IOYC4DTgg9ffo0yPM8N8gahbpNixsQ0oLjNDa5VB5Krc4by1u5wCKfwyNABME7F4v9vB7RinMUw_v7fLV8fnNsD6X3fQUi5V1EaO6PBjerxLKAT5kKOnkBAApQ&__tn__=-UC%2CP-R) \)](../assets/7150137ff895/1*ljFG6tjblHKzEjIZ0Tq8Aw.jpeg)
 
 \(Photo Credit: [Tukaj smo](https://web.facebook.com/Tukajsmo/?__cft__[0]=AZXbEMAIa1dGwgVhDdtiT4ozXea0PJVJa_wUt3kH3RzD6gRmjqO3IOYC4DTgg9ffo0yPM8N8gahbpNixsQ0oLjNDa5VB5Krc4by1u5wCKfwyNABME7F4v9vB7RinMUw_v7fLV8fnNsD6X3fQUi5V1EaO6PBjerxLKAT5kKOnkBAApQ&__tn__=-UC%2CP-R) \)
 
@@ -281,7 +281,7 @@ FRANCE
 From [Human Rights Observers](https://twitter.com/HumanRightsObs) :
 
 
-![Calais, 27 Agugust 2020 \(Photo by [Human Rights Observers](https://twitter.com/HumanRightsObs/status/1299037344608157697) \)](assets/7150137ff895/1*dbfSd5i3oMVGLo6orcn24A.jpeg)
+![Calais, 27 Agugust 2020 \(Photo by [Human Rights Observers](https://twitter.com/HumanRightsObs/status/1299037344608157697) \)](../assets/7150137ff895/1*dbfSd5i3oMVGLo6orcn24A.jpeg)
 
 Calais, 27 Agugust 2020 \(Photo by [Human Rights Observers](https://twitter.com/HumanRightsObs/status/1299037344608157697) \)
 

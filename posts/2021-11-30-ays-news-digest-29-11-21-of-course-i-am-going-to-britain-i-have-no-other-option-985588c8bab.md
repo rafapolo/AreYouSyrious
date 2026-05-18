@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 29/11/21:”Of course I am going to Britain, I have no other option”
+title: "AYS News Digest 29/11/21:”Of course I am going to Britain, I have no other option”"
 author: Are You Syrious?
 date: 2021-11-30T14:14:40.327+0000
 last_modified_at: 2021-11-30T14:14:40.327+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,uk,europe,migration]
 description: Several EU Member states issue a joint statement after the recent Channel tragedy, opting again for more securitisation and control / What…
 image:
-  path: assets/985588c8bab/1*xu45HgWrDqBtqYdCuFyF0w.jpeg
+  path: ../assets/985588c8bab/1*xu45HgWrDqBtqYdCuFyF0w.jpeg
 ---
 
 ### AYS News Digest 29/11/21:”Of course I am going to Britain, I have no other option”
 #### Several EU Member states issue a joint statement after the recent Channel tragedy, opting again for more securitisation and control / What happens now for those having to register in Greece, without the old Skype system / New SAR actions / solidarity activities in France and Denmark / and a number of very important and highly recommended texts we invite you to read
 
 
-![A [protest](https://www.facebook.com/events/382165253650321?ref=newsfeed) against closed camps took place in Denmark’s capital — Here is some support from Østerbro, Copenhagen, Denmark \(Photo via [Alexander Kladakis](https://www.facebook.com/alexander.kladakis?__cft__[0]=AZXsPhts0K0mRooqLB209-hsSkg5SsKbSX2TtS4KfJBoNmgAZwBJUq9SzlBnH3TGof62jyMKAc4qDwydYbhp6CuzG_Kd-B821_f6yBve9pPNzWPdpotay7B7Lszgu_daXBQ&__tn__=-UC%2CP-R) \) Watch a personal story in our “worth reading” section](assets/985588c8bab/1*xu45HgWrDqBtqYdCuFyF0w.jpeg)
+![A [protest](https://www.facebook.com/events/382165253650321?ref=newsfeed) against closed camps took place in Denmark’s capital — Here is some support from Østerbro, Copenhagen, Denmark \(Photo via [Alexander Kladakis](https://www.facebook.com/alexander.kladakis?__cft__[0]=AZXsPhts0K0mRooqLB209-hsSkg5SsKbSX2TtS4KfJBoNmgAZwBJUq9SzlBnH3TGof62jyMKAc4qDwydYbhp6CuzG_Kd-B821_f6yBve9pPNzWPdpotay7B7Lszgu_daXBQ&__tn__=-UC%2CP-R) \) Watch a personal story in our “worth reading” section](../assets/985588c8bab/1*xu45HgWrDqBtqYdCuFyF0w.jpeg)
 
 A [protest](https://www.facebook.com/events/382165253650321?ref=newsfeed) against closed camps took place in Denmark’s capital — Here is some support from Østerbro, Copenhagen, Denmark \(Photo via [Alexander Kladakis](https://www.facebook.com/alexander.kladakis?__cft__[0]=AZXsPhts0K0mRooqLB209-hsSkg5SsKbSX2TtS4KfJBoNmgAZwBJUq9SzlBnH3TGof62jyMKAc4qDwydYbhp6CuzG_Kd-B821_f6yBve9pPNzWPdpotay7B7Lszgu_daXBQ&__tn__=-UC%2CP-R) \) Watch a personal story in our “worth reading” section
 #### FEATURE
@@ -149,12 +149,12 @@ More reactions to the opening of new closed centres on Leros and Kos that we rep
 Nearly 100 people have been able to get their hair done, braided, a small wellness bracket in a not always easy everyday life\.
 
 
-![Grande Synthe, provisional shelters of people on the move, on their way to try cross into the UK, photo taken by one of the activists distributing aid to people in the area, [Chaw Shin](https://www.facebook.com/fleur.ali.5?__cft__[0]=AZVMNG_TrShJ3Qt53LvEk7m8X1YGLKVFlYN6P2ZTRMt_loXgTBMLYN7t9mx9T8ZyySmY6UuLx46zdvmNkr4SaOyHDM3EtKhrGYX3gYXUA4JDNDVUswRmiEXHqSXAOyEizpc&__tn__=-UC%2CP-R)](assets/985588c8bab/1*Lae3jE8eu6lnKRfOhlZ8Aw.jpeg)
+![Grande Synthe, provisional shelters of people on the move, on their way to try cross into the UK, photo taken by one of the activists distributing aid to people in the area, [Chaw Shin](https://www.facebook.com/fleur.ali.5?__cft__[0]=AZVMNG_TrShJ3Qt53LvEk7m8X1YGLKVFlYN6P2ZTRMt_loXgTBMLYN7t9mx9T8ZyySmY6UuLx46zdvmNkr4SaOyHDM3EtKhrGYX3gYXUA4JDNDVUswRmiEXHqSXAOyEizpc&__tn__=-UC%2CP-R)](../assets/985588c8bab/1*Lae3jE8eu6lnKRfOhlZ8Aw.jpeg)
 
 Grande Synthe, provisional shelters of people on the move, on their way to try cross into the UK, photo taken by one of the activists distributing aid to people in the area, [Chaw Shin](https://www.facebook.com/fleur.ali.5?__cft__[0]=AZVMNG_TrShJ3Qt53LvEk7m8X1YGLKVFlYN6P2ZTRMt_loXgTBMLYN7t9mx9T8ZyySmY6UuLx46zdvmNkr4SaOyHDM3EtKhrGYX3gYXUA4JDNDVUswRmiEXHqSXAOyEizpc&__tn__=-UC%2CP-R)
 
 
-![by [Anne Derenne — Adenecartoon](https://www.facebook.com/Adenecartoon?__cft__[0]=AZUob_7b_QEy-5StvGSqjubxxfH3leBr1iCXfOAK5ir6XxLwp-AZX9bg1oAPCmzZiPkGW5DD4p1oXSZvSTgLDY1xw0RVa0h_7P98ggEi6ftC5y1LfDwfGr-K6ajuTk5CxdA2qLTJV4kBHiHerdHV9YQ6syWIBTFHos95jLN318AvCIS4tM8mXv_9kcGOk7hFdzvaeyxVoic_Uo50nw2TpS_G&__tn__=-UC*F)](assets/985588c8bab/1*l9_i2nciWN3VQFiHPvvRzw.jpeg)
+![by [Anne Derenne — Adenecartoon](https://www.facebook.com/Adenecartoon?__cft__[0]=AZUob_7b_QEy-5StvGSqjubxxfH3leBr1iCXfOAK5ir6XxLwp-AZX9bg1oAPCmzZiPkGW5DD4p1oXSZvSTgLDY1xw0RVa0h_7P98ggEi6ftC5y1LfDwfGr-K6ajuTk5CxdA2qLTJV4kBHiHerdHV9YQ6syWIBTFHos95jLN318AvCIS4tM8mXv_9kcGOk7hFdzvaeyxVoic_Uo50nw2TpS_G&__tn__=-UC*F)](../assets/985588c8bab/1*l9_i2nciWN3VQFiHPvvRzw.jpeg)
 
 by [Anne Derenne — Adenecartoon](https://www.facebook.com/Adenecartoon?__cft__[0]=AZUob_7b_QEy-5StvGSqjubxxfH3leBr1iCXfOAK5ir6XxLwp-AZX9bg1oAPCmzZiPkGW5DD4p1oXSZvSTgLDY1xw0RVa0h_7P98ggEi6ftC5y1LfDwfGr-K6ajuTk5CxdA2qLTJV4kBHiHerdHV9YQ6syWIBTFHos95jLN318AvCIS4tM8mXv_9kcGOk7hFdzvaeyxVoic_Uo50nw2TpS_G&__tn__=-UC*F)
 

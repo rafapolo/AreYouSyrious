@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 02.10.2019: Border Violence Monitoring Network: A Pushback every 20 Minutes
+title: "AYS DAILY DIGEST 02.10.2019: Border Violence Monitoring Network: A Pushback every 20 Minutes"
 author: Are You Syrious?
 date: 2019-10-03T12:10:01.843+0100
 last_modified_at: 2019-10-03T12:47:26.728+0100

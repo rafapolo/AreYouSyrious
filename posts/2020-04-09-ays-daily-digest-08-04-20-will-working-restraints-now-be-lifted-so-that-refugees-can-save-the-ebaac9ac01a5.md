@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 08/04/20: Will working restraints now be lifted so that refugees can save the…
+title: "AYS Daily Digest 08/04/20: Will working restraints now be lifted so that refugees can save the…"
 author: Are You Syrious?
 date: 2020-04-09T13:43:19.342+0100
 last_modified_at: 2020-04-09T15:37:02.370+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,europe,digest,corona,sea-rescue]
 description: New regulation concerning the working permit for refugees in Spain // Overview on meassures with effects on access to asylum system //…
 image:
-  path: assets/ebaac9ac01a5/1*MMLEDnoR6E9ORE5s-43q7Q.jpeg
+  path: ../assets/ebaac9ac01a5/1*MMLEDnoR6E9ORE5s-43q7Q.jpeg
 ---
 
 ### AYS Daily Digest 08/04/20: Will working restraints now be lifted so that refugees can save the European agricultural sector?
@@ -15,7 +15,7 @@ image:
 New regulation concerning the work permit for refugees in Spain // Overview on measures with effects on access to asylum system // Updates from Libya and Cyprus // ALAN KURDI is searching for a safe port // Italy and Malta declared their ports “unsafe” because of national health crisis // New police brutality in Greece
 
 
-![Once again the ALAN KURDI is looking for a safe port\. Copyright: Sea Eye](assets/ebaac9ac01a5/1*MMLEDnoR6E9ORE5s-43q7Q.jpeg)
+![Once again the ALAN KURDI is looking for a safe port\. Copyright: Sea Eye](../assets/ebaac9ac01a5/1*MMLEDnoR6E9ORE5s-43q7Q.jpeg)
 
 Once again the ALAN KURDI is looking for a safe port\. Copyright: Sea Eye
 ### FEATURE: In times of crisis, refugees are suddenly good enough to work on Europe’s fields
@@ -170,7 +170,7 @@ This event is tragic\. But if we consider the circumstances the people and espec
 The Mobile Info Team started a campaign to raise funds for legal aid for refugees in Greece\. Under the slogan “help from home” they ask people to donate the money one would usually spend going out to dinners, bars or movies\.
 
 
-![Copyright: Mobile Info Team](assets/ebaac9ac01a5/1*SSZVr0UI27R11ZOfg1wtXQ.jpeg)
+![Copyright: Mobile Info Team](../assets/ebaac9ac01a5/1*SSZVr0UI27R11ZOfg1wtXQ.jpeg)
 
 Copyright: Mobile Info Team
 

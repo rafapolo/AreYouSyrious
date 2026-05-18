@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 28/12/18: EU turns its back on 32 stranded at sea
+title: "AYS Daily Digest 28/12/18: EU turns its back on 32 stranded at sea"
 author: Are You Syrious?
 date: 2018-12-29T03:08:34.066+0000
 last_modified_at: 2018-12-29T11:53:32.153+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,eu,human-rights,sea-rescue,digest]
 description: Turkish troops gather outside Manbij//refugees detained in Turkey//45 people missing between Spain and Morocco//new arrivals in…
 image:
-  path: assets/5a008763d67f/1*A68rxllsSNLuf-Y2HPWyGQ.jpeg
+  path: ../assets/5a008763d67f/1*A68rxllsSNLuf-Y2HPWyGQ.jpeg
 ---
 
 ### AYS Daily Digest 28/12/18: EU turns its back on 32 stranded at sea
@@ -15,7 +15,7 @@ image:
 _Turkish troops gather outside Manbij//refugees detained in Turkey//45 people missing between Spain and Morocco//new arrivals in Greece//refugees attacked in Paris//unaccompanied minors in Italy//boat landings in the UK_
 
 
-![Image Credit: [Pilar Collazo Gil](https://www.facebook.com/pilitaum?__tn__=%2CdCH-R-R&eid=ARD1tjPPylW56aqJBhxnuj5F0XfCwniBFyxCf8ITBkguZ96bfLU9ExfGWQiQvpCUscjneuesRpZOwObI&hc_ref=ARSluhjN3uZGXV2fEh9IUEBjzXz4eFKEqk-fg3ZbOLqCVwf8mI2VPHSrSfbOni3HmJk&fref=nf)](assets/5a008763d67f/1*A68rxllsSNLuf-Y2HPWyGQ.jpeg)
+![Image Credit: [Pilar Collazo Gil](https://www.facebook.com/pilitaum?__tn__=%2CdCH-R-R&eid=ARD1tjPPylW56aqJBhxnuj5F0XfCwniBFyxCf8ITBkguZ96bfLU9ExfGWQiQvpCUscjneuesRpZOwObI&hc_ref=ARSluhjN3uZGXV2fEh9IUEBjzXz4eFKEqk-fg3ZbOLqCVwf8mI2VPHSrSfbOni3HmJk&fref=nf)](../assets/5a008763d67f/1*A68rxllsSNLuf-Y2HPWyGQ.jpeg)
 
 Image Credit: [Pilar Collazo Gil](https://www.facebook.com/pilitaum?__tn__=%2CdCH-R-R&eid=ARD1tjPPylW56aqJBhxnuj5F0XfCwniBFyxCf8ITBkguZ96bfLU9ExfGWQiQvpCUscjneuesRpZOwObI&hc_ref=ARSluhjN3uZGXV2fEh9IUEBjzXz4eFKEqk-fg3ZbOLqCVwf8mI2VPHSrSfbOni3HmJk&fref=nf)
 #### Feature: 32 people remain stranded aboard rescue ship after a week at sea
@@ -37,7 +37,7 @@ As the Sea\-Watch reminded us today, these are the figures for where rescued peo
 ### Syria
 
 
-![“Our White Helmets teams continue their work in the southern [\#Aleppo](https://www.facebook.com/hashtag/aleppo?source=feed_text&epa=HASHTAG) IDP camps, in evacuation the effected families, and opening corridors to discharge rain water\.” Photo Credit: [Syria Civil Defence — The White Helmets](https://www.facebook.com/SyriaCivilDef/?__tn__=%2CdkCH-R-R&eid=ARDmdw4mXFWNckr8y0QI2QTaUX05To6VtJYxatyMqCdW7FAlqvtgxzYcPCrBI2J03GyVvYZJr_Pos-76&hc_ref=ARR6l9SOHnnW-Xi6HBbU2PCg8BCnLFzvgD7mWLGbbWO7GJ_n40ByiiOXUwZU4QRTZnk&fref=nf&hc_location=group)](assets/5a008763d67f/1*NfTJYPAgUFKzfM0-WMyM9A.jpeg)
+![“Our White Helmets teams continue their work in the southern [\#Aleppo](https://www.facebook.com/hashtag/aleppo?source=feed_text&epa=HASHTAG) IDP camps, in evacuation the effected families, and opening corridors to discharge rain water\.” Photo Credit: [Syria Civil Defence — The White Helmets](https://www.facebook.com/SyriaCivilDef/?__tn__=%2CdkCH-R-R&eid=ARDmdw4mXFWNckr8y0QI2QTaUX05To6VtJYxatyMqCdW7FAlqvtgxzYcPCrBI2J03GyVvYZJr_Pos-76&hc_ref=ARR6l9SOHnnW-Xi6HBbU2PCg8BCnLFzvgD7mWLGbbWO7GJ_n40ByiiOXUwZU4QRTZnk&fref=nf&hc_location=group)](../assets/5a008763d67f/1*NfTJYPAgUFKzfM0-WMyM9A.jpeg)
 
 “Our White Helmets teams continue their work in the southern [\#Aleppo](https://www.facebook.com/hashtag/aleppo?source=feed_text&epa=HASHTAG) IDP camps, in evacuation the effected families, and opening corridors to discharge rain water\.” Photo Credit: [Syria Civil Defence — The White Helmets](https://www.facebook.com/SyriaCivilDef/?__tn__=%2CdkCH-R-R&eid=ARDmdw4mXFWNckr8y0QI2QTaUX05To6VtJYxatyMqCdW7FAlqvtgxzYcPCrBI2J03GyVvYZJr_Pos-76&hc_ref=ARR6l9SOHnnW-Xi6HBbU2PCg8BCnLFzvgD7mWLGbbWO7GJ_n40ByiiOXUwZU4QRTZnk&fref=nf&hc_location=group)
 #### Turkish forces gather outside of Manbij
@@ -57,7 +57,7 @@ In the Gaziantep province, an additional seven Syrians were detained for “ille
 ### Sea
 
 
-![Photo Credit: Danilo Campailla / Mission\-LIFELINE](assets/5a008763d67f/1*7W_mgbL1xRhr-C_rmJIwpg.jpeg)
+![Photo Credit: Danilo Campailla / Mission\-LIFELINE](../assets/5a008763d67f/1*7W_mgbL1xRhr-C_rmJIwpg.jpeg)
 
 Photo Credit: Danilo Campailla / Mission\-LIFELINE
 
@@ -79,7 +79,7 @@ The alarm\-phone rescue line has received four calls for assistance in the past 
 
 
 
-![“On the way to the port of algeciras, we found ourselves in front of a half\-sunken rubber boat\. Many of the people who were rescued from the Libyan coast by the Open Arms vessel watched it carefully\. Some have asked; “ where are the people?”\. Photo Credit: [Olmo Calvo](https://www.olmocalvo.com) \.](assets/5a008763d67f/1*QgI_0l9rGUR2CUtTH_tiLQ.jpeg)
+![“On the way to the port of algeciras, we found ourselves in front of a half\-sunken rubber boat\. Many of the people who were rescued from the Libyan coast by the Open Arms vessel watched it carefully\. Some have asked; “ where are the people?”\. Photo Credit: [Olmo Calvo](https://www.olmocalvo.com) \.](../assets/5a008763d67f/1*QgI_0l9rGUR2CUtTH_tiLQ.jpeg)
 
 “On the way to the port of algeciras, we found ourselves in front of a half\-sunken rubber boat\. Many of the people who were rescued from the Libyan coast by the Open Arms vessel watched it carefully\. Some have asked; “ where are the people?”\. Photo Credit: [Olmo Calvo](https://www.olmocalvo.com) \.
 ### Greece
@@ -124,7 +124,7 @@ Aegean Boat Report is raising money for various organizations to aid refugee chi
 The IOM has published new data on the number of children and unaccompanied children arriving in Italy\. According to their findings, while the number of children arriving in Italy has remained relatively stable, the proportion of these children who are arriving unaccompanied has increased by 31%\.
 
 
-![](assets/5a008763d67f/1*u8Xjs0rNKZcYHBiKXr23Yg.jpeg)
+![](../assets/5a008763d67f/1*u8Xjs0rNKZcYHBiKXr23Yg.jpeg)
 
 ### Balkan Weather Report \(for Sat\. 29\.12\)
 #### MONTENEGRO
@@ -148,18 +148,18 @@ It is absolutely unaceptable to leave 5 women and children alone in this place w
 While Miral may be the worst, hardly any of the so\-called accomodation centers in Bosnia \(majority run by the IOM\) have an acceptable standard of living\. Most of them are unheated, asbestos\-ridden former warehouses or factories\. Below are photos of the BIRA center in Bihac, located in a former factory\.
 
 
-![](assets/5a008763d67f/1*5tjViGF4A0WbZnV10KdCLQ.jpeg)
+![](../assets/5a008763d67f/1*5tjViGF4A0WbZnV10KdCLQ.jpeg)
 
 
 
-![Bira\. Photos by an independent volunteer\.](assets/5a008763d67f/1*TnDs8Abp_K8U0d5AJt0sHw.jpeg)
+![Bira\. Photos by an independent volunteer\.](../assets/5a008763d67f/1*TnDs8Abp_K8U0d5AJt0sHw.jpeg)
 
 Bira\. Photos by an independent volunteer\.
 
 2,110 refugees live in this space, including many unaccompanied minors \(over 150\) \. The volunteer who took these photos referred to the place as a “concentration camp”\. This is not to make a comparison to the camps of the holocaust, but under the legal definition of “concentration camp,” BIRA certainly fits the bill — — a space outside of rights, of law, and the norms of society\.
 
 
-![Waiting in line for food at Bihac\. Photo Credit: [Lorena Fornasir](https://www.facebook.com/lorena.fornasir?__tn__=%2CdCH-R-R&eid=ARBA93cpmWPYHL8tl-rGD2bjTxlbW09dxFV8YnqMlfFcREdEtk0Po70Zi4-j4OZSwgkp94Ktz99_obkK&hc_ref=ARTG3NY3PAbNkvLj7KEFBcLfDcHJ2wm0xt2l0qjYa-62kWDVX5EurswLXSqf_YmWPEc&fref=nf&hc_location=group)](assets/5a008763d67f/1*_EoP4IrZ_uhFRL8bYhICJw.jpeg)
+![Waiting in line for food at Bihac\. Photo Credit: [Lorena Fornasir](https://www.facebook.com/lorena.fornasir?__tn__=%2CdCH-R-R&eid=ARBA93cpmWPYHL8tl-rGD2bjTxlbW09dxFV8YnqMlfFcREdEtk0Po70Zi4-j4OZSwgkp94Ktz99_obkK&hc_ref=ARTG3NY3PAbNkvLj7KEFBcLfDcHJ2wm0xt2l0qjYa-62kWDVX5EurswLXSqf_YmWPEc&fref=nf&hc_location=group)](../assets/5a008763d67f/1*_EoP4IrZ_uhFRL8bYhICJw.jpeg)
 
 Waiting in line for food at Bihac\. Photo Credit: [Lorena Fornasir](https://www.facebook.com/lorena.fornasir?__tn__=%2CdCH-R-R&eid=ARBA93cpmWPYHL8tl-rGD2bjTxlbW09dxFV8YnqMlfFcREdEtk0Po70Zi4-j4OZSwgkp94Ktz99_obkK&hc_ref=ARTG3NY3PAbNkvLj7KEFBcLfDcHJ2wm0xt2l0qjYa-62kWDVX5EurswLXSqf_YmWPEc&fref=nf&hc_location=group)
 
@@ -178,19 +178,19 @@ This year, 166 asylum seekers had to return by the end of November\. But the num
 A group of refugees were sleeping in a tent in Paris, when they were awoken around 2am by a vicious attack\. According to the victims, a group of around 15 people slashed their tent open, and began to beat and stab at the people inside\. The people in the tent had their phones and personal belongings stolen\. A volunteer group working with the victims has suggested that the attack may have been carried out by desperate addicts, but at the moment there is no corroborating information about who the perpetrators were, or what their motives may have been\.
 
 
-![Aftermath of the attack\. Photo Credit: [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/posts/2271924139754360?hc_location=ufi)](assets/5a008763d67f/1*pgPWDcqY7PkkIyS0RpdJ-A.jpeg)
+![Aftermath of the attack\. Photo Credit: [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/posts/2271924139754360?hc_location=ufi)](../assets/5a008763d67f/1*pgPWDcqY7PkkIyS0RpdJ-A.jpeg)
 
 Aftermath of the attack\. Photo Credit: [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/posts/2271924139754360?hc_location=ufi)
 
 
-![Tis is the contact number for Refugee Youth Service in Calais\. Please call them if you come across minors in the camps\. They will try and sort accommodation and safety in the short term, and help with family reunification, etc, following this\. \( \+33753348803\)](assets/5a008763d67f/1*ZZQdUvQA9VLzvOCicf794Q.jpeg)
+![Tis is the contact number for Refugee Youth Service in Calais\. Please call them if you come across minors in the camps\. They will try and sort accommodation and safety in the short term, and help with family reunification, etc, following this\. \( \+33753348803\)](../assets/5a008763d67f/1*ZZQdUvQA9VLzvOCicf794Q.jpeg)
 
 Tis is the contact number for Refugee Youth Service in Calais\. Please call them if you come across minors in the camps\. They will try and sort accommodation and safety in the short term, and help with family reunification, etc, following this\. \( \+33753348803\)
 
 Solidarity Migrants Wilson is hosting a hot dinner for refugees in Paris on Tuesday, 1 January at 8pm\. The location is at the church level of saint geneviève located at 139 Avenue of President Wilson, 93210\. Follow [the link](https://www.facebook.com/permalink.php?story_fbid=1049279101939528&id=598228360377940) to volunteer or contribute\.
 
 
-![“The street camps in Paris are steadily growing\. The camps form in all sorts of places\. In basketball courts, under highway bridges and in parks\.” Photo Credit: Paris Refugee Ground Support](assets/5a008763d67f/1*sNP8Eja36f3x4_YH5gTz5Q.jpeg)
+![“The street camps in Paris are steadily growing\. The camps form in all sorts of places\. In basketball courts, under highway bridges and in parks\.” Photo Credit: Paris Refugee Ground Support](../assets/5a008763d67f/1*sNP8Eja36f3x4_YH5gTz5Q.jpeg)
 
 “The street camps in Paris are steadily growing\. The camps form in all sorts of places\. In basketball courts, under highway bridges and in parks\.” Photo Credit: Paris Refugee Ground Support
 ### UK

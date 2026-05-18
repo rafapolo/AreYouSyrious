@@ -1,5 +1,5 @@
 ---
-title: AYS New Digest 15/09/22: A young sub-Saharan woman killed by Moroccan police
+title: "AYS New Digest 15/09/22: A young sub-Saharan woman killed by Moroccan police"
 author: Are You Syrious?
 date: 2022-09-15T09:37:17.721+0100
 last_modified_at: 2022-09-15T14:19:04.187+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: []
 description: Moroccan police opened fire on 35 people leading Canarias// Six people died after being pushed back by Greek authorities// Ivorian man…
 image:
-  path: assets/cdce8ad06e91/1*023_zHaQJJMRFsYhT6d-xA.jpeg
+  path: ../assets/cdce8ad06e91/1*023_zHaQJJMRFsYhT6d-xA.jpeg
 ---
 
 ### AYS New Digest 15/09/22: A young sub\-Saharan woman killed by Moroccan police
@@ -15,7 +15,7 @@ image:
 Moroccan police opened fire on 35 people leading Canarias// Six people died after being pushed back by Greek authorities// Ivorian man expelled to Morocco from Spain despite court order// Save the Children reports abuses of children in transit along Balkan Route//Evictions in northern Serbia// and more
 
 
-![Protest against the expulsion of an Ivorian man to Morocco led by Spain government\. Credit: [Coordinadora de Barrios](https://twitter.com/CoordiBarrios/status/1568171638251823105)](assets/cdce8ad06e91/1*023_zHaQJJMRFsYhT6d-xA.jpeg)
+![Protest against the expulsion of an Ivorian man to Morocco led by Spain government\. Credit: [Coordinadora de Barrios](https://twitter.com/CoordiBarrios/status/1568171638251823105)](../assets/cdce8ad06e91/1*023_zHaQJJMRFsYhT6d-xA.jpeg)
 
 Protest against the expulsion of an Ivorian man to Morocco led by Spain government\. Credit: [Coordinadora de Barrios](https://twitter.com/CoordiBarrios/status/1568171638251823105)
 #### FEATURE
@@ -76,7 +76,7 @@ Also here:
 ### Children on the move are being systematically and sexually abused along their way to Europe, reports Save the Children
 
 
-![Via [Save the Children](https://twitter.com/save_children/status/1569597059124142080?fbclid=IwAR1unP33vSr8fynzKZMSEy03komFMogxgufr58pi4rAbGZzpFO3psQGuMCs)](assets/cdce8ad06e91/1*EauJdedoOt2ptS2ruW2jEQ.jpeg)
+![Via [Save the Children](https://twitter.com/save_children/status/1569597059124142080?fbclid=IwAR1unP33vSr8fynzKZMSEy03komFMogxgufr58pi4rAbGZzpFO3psQGuMCs)](../assets/cdce8ad06e91/1*EauJdedoOt2ptS2ruW2jEQ.jpeg)
 
 Via [Save the Children](https://twitter.com/save_children/status/1569597059124142080?fbclid=IwAR1unP33vSr8fynzKZMSEy03komFMogxgufr58pi4rAbGZzpFO3psQGuMCs)
 
@@ -115,7 +115,7 @@ It is important to give voice to the local civil sector, particularly those voca
 The lives of many people are at risk every day at the Belarus\-Polish border\. Some organisations such as Fundacja Ocalenie continue supporting and rescuing many people in critical condition\. On 14 September, a Syrian man was found and rushed to hospital, as reported in a [tweet](https://twitter.com/FundOcalenie/status/1569732698314514433?fbclid=IwAR3jMzKfwx9aQw9tNqUCCoSpyQzr00X_ntdXQqCH1yriGzLMzB-DU7n3p5I) \.
 
 
-![People in a forest while risking their lives at the border\. Picture via [Krzysztof Boczek](https://twitter.com/Bacon227/status/1569728388230791170?fbclid=IwAR1MK9RxXMNNRKtOLNsELKeg7pAFaLoD65sv2kan7vJAY_UxR6SRuBWJo0w)](assets/cdce8ad06e91/1*eEq-WijHnkTa3wJPUmKkHA.jpeg)
+![People in a forest while risking their lives at the border\. Picture via [Krzysztof Boczek](https://twitter.com/Bacon227/status/1569728388230791170?fbclid=IwAR1MK9RxXMNNRKtOLNsELKeg7pAFaLoD65sv2kan7vJAY_UxR6SRuBWJo0w)](../assets/cdce8ad06e91/1*eEq-WijHnkTa3wJPUmKkHA.jpeg)
 
 People in a forest while risking their lives at the border\. Picture via [Krzysztof Boczek](https://twitter.com/Bacon227/status/1569728388230791170?fbclid=IwAR1MK9RxXMNNRKtOLNsELKeg7pAFaLoD65sv2kan7vJAY_UxR6SRuBWJo0w)
 
@@ -141,7 +141,7 @@ Aktywiści proszą o telefony do Turkish Airlines 1/2 https://t.co/KcxmXs6IGi
 On 14 September, a Kurdish woman with her children was about to be deported to Iraq: her life would have be in danger, as she was threatened by Isis because members of her family are peshmerga\. Some activists tried to [stop the deportation](https://twitter.com/oko_press/status/1569799841177378819?fbclid=IwAR06aozIIgbM1dJk-5p8M1MUFdgYGtD8y_DYIrRjwswsj-TI4jjNhnBmylo) , allegedly succeeding \( [as reported in this tweet](https://twitter.com/Bacon227/status/1569751840845078529) \) \.
 
 
-![Protest against deportation in Okęcie\. Via [Oko press](https://twitter.com/oko_press/status/1569799841177378819?fbclid=IwAR06aozIIgbM1dJk-5p8M1MUFdgYGtD8y_DYIrRjwswsj-TI4jjNhnBmylo)](assets/cdce8ad06e91/1*uqbJOs-6oqmFqNmvERa2dw.jpeg)
+![Protest against deportation in Okęcie\. Via [Oko press](https://twitter.com/oko_press/status/1569799841177378819?fbclid=IwAR06aozIIgbM1dJk-5p8M1MUFdgYGtD8y_DYIrRjwswsj-TI4jjNhnBmylo)](../assets/cdce8ad06e91/1*uqbJOs-6oqmFqNmvERa2dw.jpeg)
 
 Protest against deportation in Okęcie\. Via [Oko press](https://twitter.com/oko_press/status/1569799841177378819?fbclid=IwAR06aozIIgbM1dJk-5p8M1MUFdgYGtD8y_DYIrRjwswsj-TI4jjNhnBmylo)
 #### SPAIN

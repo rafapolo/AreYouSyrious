@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 14/04/20: Left to Fend for Themselves — Europe’s Unspoken Migration Policy
+title: "AYS Daily Digest 14/04/20: Left to Fend for Themselves — Europe’s Unspoken Migration Policy"
 author: Are You Syrious?
 date: 2020-04-15T20:55:36.520+0100
 last_modified_at: 2020-04-15T20:55:36.520+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,malta,turkey,greece]
 description: Malta and Italy turn their back on people stuck at sea // Greece fines homeless people // An innocent Nigerian boy shot in Italy // Police…
 image:
-  path: assets/b5c5004420a9/0*Y0uCpq6ks4rh-yet
+  path: ../assets/b5c5004420a9/0*Y0uCpq6ks4rh-yet
 ---
 
 ### AYS Daily Digest 14/04/20: Left to Fend for Themselves — Europe’s Unspoken Migration Policy
 ### Malta and Italy turn their back on people stuck at sea // Greece fines homeless people // An innocent Nigerian boy shot in Italy // Police brutality in Calais // People on the move abandoned in BH
 
 
-![](assets/b5c5004420a9/0*UlId0hn0CoHSGUQV.jpeg)
+![](../assets/b5c5004420a9/0*UlId0hn0CoHSGUQV.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----f62721332594----------------------)
@@ -22,11 +22,11 @@ image:
 [Apr 15](ays-14-04-2020-left-to-fend-for-themselves-europes-unspoken-migration-policy-f62721332594?source=post_page-----f62721332594----------------------) · 9 min read
 
 
-![](assets/b5c5004420a9/0*KUlioRmuT3QHOpas)
+![](../assets/b5c5004420a9/0*KUlioRmuT3QHOpas)
 
 
 
-![](assets/b5c5004420a9/0*Y0uCpq6ks4rh-yet)
+![](../assets/b5c5004420a9/0*Y0uCpq6ks4rh-yet)
 
 ### FEATURED
 
@@ -71,11 +71,11 @@ Those detained in Bursa were released Friday and told they could go wherever the
 Two days ago, people finally received their cash card top up\. Normally, they receive financial assistance at the beginning of the month, as do most people in Greece, but due to the Corona restrictions, it was late this month\. A lot of people needed to go shopping as they were running out of food, but only 65 people are currently allowed to go out at one time\. There are currently over a thousand people in the camp, which has become more crowded since they moved the people camping outside to within the walls of the hotspot\. As a result the situation escalated and the police beat both the women and the men to separate the groups\.
 
 
-![](assets/b5c5004420a9/0*0IwjAgTyygZ08FxX)
+![](../assets/b5c5004420a9/0*0IwjAgTyygZ08FxX)
 
 
 
-![](assets/b5c5004420a9/0*z1SEfUMU-FbK-QkM)
+![](../assets/b5c5004420a9/0*z1SEfUMU-FbK-QkM)
 
 ### Ritsona
 
@@ -102,11 +102,11 @@ Luckily, the White Helmets have begun cleaning up the area, trying to make condi
 A child looks on at the volunteer team getting to work\.
 
 
-![](assets/b5c5004420a9/0*iUIQGIh4JM96TaBw)
+![](../assets/b5c5004420a9/0*iUIQGIh4JM96TaBw)
 
 
 
-![](assets/b5c5004420a9/0*3vtaTw1uMOVEn4pA)
+![](../assets/b5c5004420a9/0*3vtaTw1uMOVEn4pA)
 
 
 Seawatch is working to send 1000 masks to Lesvos to try to curb the outbreak\.
@@ -139,11 +139,11 @@ Human rights violations including illegal pushbacks continue occurring at the Gr
 BOSNIA & HERZEGOVINA
 
 
-![](assets/b5c5004420a9/0*aNvPJTCw468cD_Jw)
+![](../assets/b5c5004420a9/0*aNvPJTCw468cD_Jw)
 
 
 
-![](assets/b5c5004420a9/0*ola0j4RyPIgIOQZH)
+![](../assets/b5c5004420a9/0*ola0j4RyPIgIOQZH)
 
 
 The changing weather has just added to the number of difficulties people on the move face while stuck in Bosnia and Herzegovina\. As there is no public transport at their disposal and no freedom of movement for them, getting from one place to another is extremely difficult\. Most of the people are left out on their own \(if they are not forced into provisional campsite like Lipa near Bihac\), only some have managed to stay in private accommodation under different conditions and circumstances, while many are stuck in different hardships of the official camps run by international organisations, and German Civil Protection \(Technisches Hilfswerk\) in the case of recently infamous Blazuj camp\. Those who bother to go the extra step and show humane treatment to these people in transit through Bosnia and Herzegovina more than often see images of despair among these people who now also often carry the stigma of potential health risk in the context of coronavirus, although no infected people have been reported among all those people throughout the country\.

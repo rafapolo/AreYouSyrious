@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 01/06/20: 11,000 people in Greece at risk to lose their shelter
+title: "AYS Daily Digest 01/06/20: 11,000 people in Greece at risk to lose their shelter"
 author: Are You Syrious?
 date: 2020-06-02T13:32:11.954+0100
 last_modified_at: 2020-06-02T14:01:03.581+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugee,greece,digest,france,syria]
 description: Greece start largest equipment purchase for Riot Police since 2004 // Solidarity from Syria // Cyprus launches SMS campaign // French…
 image:
-  path: assets/ab2a9ee0d95f/1*5qBJw7Zd49RpEaCoet9VpA.jpeg
+  path: ../assets/ab2a9ee0d95f/1*5qBJw7Zd49RpEaCoet9VpA.jpeg
 ---
 
 ### AYS Daily Digest 01/06/20: 11,000 people in Greece at risk to lose their shelter
 #### Greece start largest equipment purchase for riot police since 2004 // Solidarity from Syria // Cyprus launches SMS campaign // French Activist Cedric Herrou faces another court case and more…
 
 
-![Protests against the eviction\. Photo: Twitter/@ [Refugees\_Gr](https://twitter.com/Refugees_Gr/status/1267426909304115200?fbclid=IwAR1J_O1DJq3UQnatpUryvlPasFR_kn-5T_JJUP_JQ_RFNgN1nxvYnRH0FJc)](assets/ab2a9ee0d95f/1*5qBJw7Zd49RpEaCoet9VpA.jpeg)
+![Protests against the eviction\. Photo: Twitter/@ [Refugees\_Gr](https://twitter.com/Refugees_Gr/status/1267426909304115200?fbclid=IwAR1J_O1DJq3UQnatpUryvlPasFR_kn-5T_JJUP_JQ_RFNgN1nxvYnRH0FJc)](../assets/ab2a9ee0d95f/1*5qBJw7Zd49RpEaCoet9VpA.jpeg)
 
 Protests against the eviction\. Photo: Twitter/@ [Refugees\_Gr](https://twitter.com/Refugees_Gr/status/1267426909304115200?fbclid=IwAR1J_O1DJq3UQnatpUryvlPasFR_kn-5T_JJUP_JQ_RFNgN1nxvYnRH0FJc)
 ### Greece

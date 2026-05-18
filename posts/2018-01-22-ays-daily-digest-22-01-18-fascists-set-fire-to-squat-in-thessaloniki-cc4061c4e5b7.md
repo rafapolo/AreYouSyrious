@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 21/01/2018: Fascists set fire to squat in Thessaloniki
+title: "AYS DAILY DIGEST 21/01/2018: Fascists set fire to squat in Thessaloniki"
 author: Are You Syrious?
 date: 2018-01-22T12:03:08.886+0000
 last_modified_at: 2018-01-23T02:03:19.274+0000
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,greece,europe,antifa,golden-dawn]
 description: Feature
 image:
-  path: assets/cc4061c4e5b7/1*CO9KGEAbREbUXk4LqAxV6w.jpeg
+  path: ../assets/cc4061c4e5b7/1*CO9KGEAbREbUXk4LqAxV6w.jpeg
 ---
 
 ### AYS DAILY DIGEST 21/01/2018: Fascists set fire to squat in Thessaloniki
 
 
-![](assets/cc4061c4e5b7/1*CO9KGEAbREbUXk4LqAxV6w.jpeg)
+![](../assets/cc4061c4e5b7/1*CO9KGEAbREbUXk4LqAxV6w.jpeg)
 
 #### Feature
 
@@ -50,7 +50,7 @@ Reports in the Hungarian media have smeared Migszol, claiming that the group has
 Around 2500 activists formed a human chain in solidarity of migrants in Parc Maximilian and in the vicinity of the train station, to protest against the anti\-migrant politics of the government and planned police operations to control the refugees in the Parc that night\. But no refugee was present in the the Parc — they all found shelter in private accommodations during the weekend\. According to an [article in La Libre](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.lalibre.be%2Factu%2Fbelgique%2Fparc-maximilien-2500-personnes-forment-une-chaine-humaine-en-soutien-aux-migrants-5a64d31dcd70b09cefc82ae5%23.WmUNwZzGow4.facebook&h=ATO87WeYwKoWgyuvY7tRSmussx1nwXwh0EUwEDbxHSZG6ItwMn0eo5yT4LcAhDx2xiIAqVuQC1YZVmxe2utNycg69VPcfOpK08RgwyUlvXUHH2b4rKKbUfLY_cM1e_RcPPMd6qaQrzcp-xseCs62C4lieyDWdqNkV6sIPWMFTjZAtvMiYJOGyipzYTy7rxYCn4AKyNlaIVAB7np7bRSyEQxeqTliop4wYe1w6lmxvSKGorPWfyd379ZogrmDj4P8JskDAzd-EMyd17TppVUmwPwvKDE) , the police departments of Bruxelles\-Nord and City Center refused to take part at the operation\.
 
 
-![Protesters form a human chain to protest the arrest of refugees\. Photo Credit: Pierre Vandenbulcke](assets/cc4061c4e5b7/1*oeI6UrkLIzsDXcl9O1dgvg.png)
+![Protesters form a human chain to protest the arrest of refugees\. Photo Credit: Pierre Vandenbulcke](../assets/cc4061c4e5b7/1*oeI6UrkLIzsDXcl9O1dgvg.png)
 
 Protesters form a human chain to protest the arrest of refugees\. Photo Credit: Pierre Vandenbulcke
 #### France
@@ -65,7 +65,7 @@ Refugees, particularly minors, have been making the pilgrimage to Calais over th
 On Friday, 168 refugees have been deported from Saint Denis and are now accommodated in a gymnasium in the city of Villemombole\. The mayor is not happy about the situation, saying that the State should take the responsibility for building longterm accommodation for refugees\. \(All sport activities in the gymnasium had to be stopped\) \. The eviction was quiet and peaceful, said the authorities\. This was corroborated by Zeborah Zeb, a volunteer on the ground, has written [a report](https://www.facebook.com/zeborah.zeboratious/posts/1720653091288906) on the relocation\. According to Zeborah, the relocation was very well\-organized, the people were informed in advance of the actions, and very few things were lost\.
 
 
-![People in Venice hold a bigil for Pateh, a Gambian man who drowned himself in the canals as a protest against Italy’s refugee policy\. Photo Credit: Veneto Accoglie](assets/cc4061c4e5b7/1*cirwQJX0Ds7JvtcxYVHeEw.jpeg)
+![People in Venice hold a bigil for Pateh, a Gambian man who drowned himself in the canals as a protest against Italy’s refugee policy\. Photo Credit: Veneto Accoglie](../assets/cc4061c4e5b7/1*cirwQJX0Ds7JvtcxYVHeEw.jpeg)
 
 People in Venice hold a bigil for Pateh, a Gambian man who drowned himself in the canals as a protest against Italy’s refugee policy\. Photo Credit: Veneto Accoglie
 #### Mediterranean

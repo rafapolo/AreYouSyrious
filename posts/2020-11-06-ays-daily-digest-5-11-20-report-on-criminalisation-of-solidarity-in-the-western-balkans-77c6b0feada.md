@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 5/11/20: Report on Criminalisation of Solidarity in the Western Balkans
+title: "AYS Daily Digest 5/11/20: Report on Criminalisation of Solidarity in the Western Balkans"
 author: Are You Syrious?
 date: 2020-11-06T15:13:08.026+0000
 last_modified_at: 2020-11-06T15:13:08.026+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,migration,solidarity,refugees,europe]
 description: Ivorians are fleeing to neighbouring countries as they fear post-electoral violence / More death in Libya / Malta’s government facing…
 image:
-  path: assets/77c6b0feada/0*z0OxowBBqYJBBF1h
+  path: ../assets/77c6b0feada/0*z0OxowBBqYJBBF1h
 ---
 
 ### AYS Daily Digest 5/11/20: Report on Criminalisation of Solidarity in the Western Balkans
 #### Ivorians are fleeing to neighbouring countries as they fear post\-electoral violence / More death in Libya / **Malta’s government facing legal action over rights abuses / Italy:** the failure of the management of the coronavirus pandemic in the protection of health / Children of _all_ immigrants residing in Portugal for over a year to receive nationality at birth / Deportations continue from Germany and Spain / recommended reads & more
 
 
-![Trieste, Photo: [Lorena Fornasir](https://www.facebook.com/lorena.fornasir?__cft__[0]=AZVmX7ZigGvDqS2QM5xl6jhFEL-595tQvKOvGY4ju_4Z8o8ZTro3Sx3pEOh1Bmqm5btrbZVrnOW1MM6t-bO8n5yp-DATYZYt1E5pPxN-htVCb2p69Ph2IgiKTB6HpbwOlbs&__tn__=-UC*F)](assets/77c6b0feada/0*z0OxowBBqYJBBF1h)
+![Trieste, Photo: [Lorena Fornasir](https://www.facebook.com/lorena.fornasir?__cft__[0]=AZVmX7ZigGvDqS2QM5xl6jhFEL-595tQvKOvGY4ju_4Z8o8ZTro3Sx3pEOh1Bmqm5btrbZVrnOW1MM6t-bO8n5yp-DATYZYt1E5pPxN-htVCb2p69Ph2IgiKTB6HpbwOlbs&__tn__=-UC*F)](../assets/77c6b0feada/0*z0OxowBBqYJBBF1h)
 
 Trieste, Photo: [Lorena Fornasir](https://www.facebook.com/lorena.fornasir?__cft__[0]=AZVmX7ZigGvDqS2QM5xl6jhFEL-595tQvKOvGY4ju_4Z8o8ZTro3Sx3pEOh1Bmqm5btrbZVrnOW1MM6t-bO8n5yp-DATYZYt1E5pPxN-htVCb2p69Ph2IgiKTB6HpbwOlbs&__tn__=-UC*F)
 #### FEATURED

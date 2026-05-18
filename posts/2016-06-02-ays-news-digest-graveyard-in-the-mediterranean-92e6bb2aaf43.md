@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe]
 description: Statistics show that May 2016 was the second deadliest month on record for refugees attempting to cross the Mediterranean via Libya, with…
 image:
-  path: assets/92e6bb2aaf43/1*BWlJyhzk02WUoHNBWWVsgQ.jpeg
+  path: ../assets/92e6bb2aaf43/1*BWlJyhzk02WUoHNBWWVsgQ.jpeg
 ---
 
 ### AYS News Digest — Graveyard in the Mediterranean
 #### Statistics show that May 2016 was the second deadliest month on record for refugees attempting to cross the Mediterranean via Libya, with nearly 1,100 dying as a result\. More deaths are likely without European policy changes to allow refugees to reach Europe in alternative ways\!
 
 
-![Source: Eko Project](assets/92e6bb2aaf43/1*BWlJyhzk02WUoHNBWWVsgQ.jpeg)
+![Source: Eko Project](../assets/92e6bb2aaf43/1*BWlJyhzk02WUoHNBWWVsgQ.jpeg)
 
 Source: Eko Project
 #### General
@@ -24,7 +24,7 @@ Source: Eko Project
 May 2016 has been the second\-deadliest month for refugees crossing the Mediterranean since tracking started in 2014\. A total of 1,095 have died en\-route to Europe, [according to the International Organization for Migration \(IOM\) \.](http://weblog.iom.int/mediterranean-migrant-deaths-spike-may#sthash.kAymdQD4.dpuf) The bulk of those deaths took place in the week of May 25 to May 31, totalling 1,085\.
 
 
-![Source: IOM](assets/92e6bb2aaf43/1*uUNsAu9O5Vsc9GHC1EfTCg.png)
+![Source: IOM](../assets/92e6bb2aaf43/1*uUNsAu9O5Vsc9GHC1EfTCg.png)
 
 Source: IOM
 
@@ -106,7 +106,7 @@ After the tragic destruction of the original Miksalište in April for the buildi
 The staff of Miksalište is currently asking for book donations to help them build up a library at the facility\. Anyone who would like to help can do so by contacting their [Facebook page](https://www.facebook.com/RefugeeAidMiksaliste) \.
 
 
-![Children playing at the newly reopened Miksalište facility\. Source: Refugee Aid Miksalište Facebook page\.](assets/92e6bb2aaf43/1*hmv9fAuJYt61kSqp2hp4Ug.jpeg)
+![Children playing at the newly reopened Miksalište facility\. Source: Refugee Aid Miksalište Facebook page\.](../assets/92e6bb2aaf43/1*hmv9fAuJYt61kSqp2hp4Ug.jpeg)
 
 Children playing at the newly reopened Miksalište facility\. Source: Refugee Aid Miksalište Facebook page\.
 ### The body of a refugee has been found on the Serbo\-Hungarian border\.

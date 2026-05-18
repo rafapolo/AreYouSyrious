@@ -1,20 +1,20 @@
 ---
-title: AYS Weekend Digest 29–30/5/21: Protesting the new camp on Samos
+title: "AYS Weekend Digest 29–30/5/21: Protesting the new camp on Samos"
 author: Are You Syrious?
 date: 2021-05-31T16:15:10.903+0100
 last_modified_at: 2021-05-31T19:02:22.545+0100
 categories: Are You Syrious?
 tags: [digest,greece,refugees,europe,report]
-description: OHCHR report on Search and Rescue // AIDA Report on Croatia // In Greece: no vaccines for the most vulnerable // UK: Disquieting insight…
+description: "OHCHR report on Search and Rescue // AIDA Report on Croatia // In Greece: no vaccines for the most vulnerable // UK: Disquieting insight…"
 image:
-  path: assets/772011a4422f/0*045nina2I9BvhBvX
+  path: ../assets/772011a4422f/0*045nina2I9BvhBvX
 ---
 
 ### AYS Weekend Digest 29–30/5/21: Protesting the new camp on Samos
 #### OHCHR report on Search and Rescue // AIDA Report on Croatia // In Greece: no vaccines for the most vulnerable // UK: Disquieting insight into the story of Esparto 11 // Recommended reads and more
 
 
-![“ ‘Set us free’ being chanted on the peace March on Samos today protesting against the new camp\.” — by: [**Gemma Bird**](https://twitter.com/gemmakristina)](assets/772011a4422f/0*045nina2I9BvhBvX)
+![“ ‘Set us free’ being chanted on the peace March on Samos today protesting against the new camp\.” — by: [**Gemma Bird**](https://twitter.com/gemmakristina)](../assets/772011a4422f/0*045nina2I9BvhBvX)
 
 “ ‘Set us free’ being chanted on the peace March on Samos today protesting against the new camp\.” — by: [**Gemma Bird**](https://twitter.com/gemmakristina)
 #### FEATURED REPORTS
@@ -66,7 +66,7 @@ Find the entire report \(on 2020\) here:
 On Sunday 30th May, a peaceful protest was organised to demonstrate against the opening of the new refugee camp in Samos, and the EU asylum seeking process in general\.
 
 
-![](assets/772011a4422f/0*FfrAIkikStE9ovyk)
+![](../assets/772011a4422f/0*FfrAIkikStE9ovyk)
 
 
 The Pan\-Samian Peace Committee arranged a march from the location of the new camp, all the way to Vathy — a two hour walk in total — with the intention of spreading awareness about these issues\. It was also an opportunity for the community in Vathy to voice their frustration with the proposed plans of the new camp\.
@@ -85,17 +85,17 @@ The Pan\-Samian Peace Committee arranged a march from the location of the new ca
 
 
 
-![](assets/772011a4422f/0*UKWbwkPbujJrcxm1)
+![](../assets/772011a4422f/0*UKWbwkPbujJrcxm1)
 
 
 
-![Photos: [Project Armonia](https://web.facebook.com/projectarmonia/?__tn__=-UC*F)](assets/772011a4422f/0*1YzGVENEgd0JxCIE)
+![Photos: [Project Armonia](https://web.facebook.com/projectarmonia/?__tn__=-UC*F)](../assets/772011a4422f/0*1YzGVENEgd0JxCIE)
 
 Photos: [Project Armonia](https://web.facebook.com/projectarmonia/?__tn__=-UC*F)
 ### No vaccines for the most vulnerable people
 
 
-![Photo: [**Dr\. Apostolos Veizis**](https://twitter.com/AVeizis)](assets/772011a4422f/0*lBqU1ClsPfNDhPxR)
+![Photo: [**Dr\. Apostolos Veizis**](https://twitter.com/AVeizis)](../assets/772011a4422f/0*lBqU1ClsPfNDhPxR)
 
 Photo: [**Dr\. Apostolos Veizis**](https://twitter.com/AVeizis)
 
@@ -136,7 +136,7 @@ Consider supporting them [here\.](https://www.josoor.net/?fbclid=IwAR32e2P9jmkZd
 #### ITALY
 
 
-![](assets/772011a4422f/0*ZUiHcjEYnAFS12sG)
+![](../assets/772011a4422f/0*ZUiHcjEYnAFS12sG)
 
 ### Kesha Niya team is looking for more people to join them\!
 
@@ -159,19 +159,19 @@ Police violence is a real risk for people on the move, and many more people coul
 Over 1500 people gathered in the streets of Lyon to protest far right and police violence, after Lyon has suffered a string of recent fascist attacks, [**Antifa International**](https://twitter.com/antifaintl) **reported in a photo story:**
 
 
-![](assets/772011a4422f/0*Bwz0FSrIGZY3q5Rf)
+![](../assets/772011a4422f/0*Bwz0FSrIGZY3q5Rf)
 
 
 
-![](assets/772011a4422f/0*kafK4W5R4AorV_CJ)
+![](../assets/772011a4422f/0*kafK4W5R4AorV_CJ)
 
 
 
-![](assets/772011a4422f/0*Hq1u_kyZ5bZ1EnuW)
+![](../assets/772011a4422f/0*Hq1u_kyZ5bZ1EnuW)
 
 
 
-![](assets/772011a4422f/0*zzR0SlPxV5BDpPfO)
+![](../assets/772011a4422f/0*zzR0SlPxV5BDpPfO)
 
 #### SPAIN
 ### Canary Islands: 58 people rescued
@@ -181,7 +181,7 @@ A boat with 58 people on board was intercepted after Salvamento Marítimo in Las
 ### Weekend for Moria
 
 
-![F [lüchtlinge Willkommen Österreich](https://web.facebook.com/fluechtlingewillkommen.oesterreich/?__cft__[0]=AZVgnm6EQCWw0gcOdaaiORvlSt6nrFXBelXtriXGuy9YoRzcqfjzq6sNhkBGoUaqlRsta4v7CpXjphezd2gtKf2E_KVr4Lu5SLVIF9bnLPCrYoMXvG17MSVzzYw7pLJZ-0HETgeo5GXu4MrgLL0FAk81iE3wc3GQqyXyfIoAGoIrCls-YTFLJg7g9WhWVFZY_vEpwqt3MOS-cYlqrEaHrO4f&__tn__=-UC%2CP-y-R)](assets/772011a4422f/0*DPeTKIJENN9AKB7M)
+![F [lüchtlinge Willkommen Österreich](https://web.facebook.com/fluechtlingewillkommen.oesterreich/?__cft__[0]=AZVgnm6EQCWw0gcOdaaiORvlSt6nrFXBelXtriXGuy9YoRzcqfjzq6sNhkBGoUaqlRsta4v7CpXjphezd2gtKf2E_KVr4Lu5SLVIF9bnLPCrYoMXvG17MSVzzYw7pLJZ-0HETgeo5GXu4MrgLL0FAk81iE3wc3GQqyXyfIoAGoIrCls-YTFLJg7g9WhWVFZY_vEpwqt3MOS-cYlqrEaHrO4f&__tn__=-UC%2CP-y-R)](../assets/772011a4422f/0*DPeTKIJENN9AKB7M)
 
 F [lüchtlinge Willkommen Österreich](https://web.facebook.com/fluechtlingewillkommen.oesterreich/?__cft__[0]=AZVgnm6EQCWw0gcOdaaiORvlSt6nrFXBelXtriXGuy9YoRzcqfjzq6sNhkBGoUaqlRsta4v7CpXjphezd2gtKf2E_KVr4Lu5SLVIF9bnLPCrYoMXvG17MSVzzYw7pLJZ-0HETgeo5GXu4MrgLL0FAk81iE3wc3GQqyXyfIoAGoIrCls-YTFLJg7g9WhWVFZY_vEpwqt3MOS-cYlqrEaHrO4f&__tn__=-UC%2CP-y-R)
 #### GERMANY
@@ -209,7 +209,7 @@ Solidarity without Borders Oldenburg collective, anti\-racist group United Again
 
 
 
-![Photo: [**NIKA OL\-WHV**](https://twitter.com/NikaOlWhv)](assets/772011a4422f/0*S93xPi8CMUswL8Kk)
+![Photo: [**NIKA OL\-WHV**](https://twitter.com/NikaOlWhv)](../assets/772011a4422f/0*S93xPi8CMUswL8Kk)
 
 Photo: [**NIKA OL\-WHV**](https://twitter.com/NikaOlWhv)
 #### UK

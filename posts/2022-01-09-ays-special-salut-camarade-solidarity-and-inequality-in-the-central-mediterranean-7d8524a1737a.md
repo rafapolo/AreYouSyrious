@@ -1,5 +1,5 @@
 ---
-title: AYS Special: ‘Salut, camarade’: Solidarity and inequality in the Central Mediterranean
+title: "AYS Special: ‘Salut, camarade’: Solidarity and inequality in the Central Mediterranean"
 author: Are You Syrious?
 date: 2022-01-09T10:22:10.764+0000
 last_modified_at: 2022-01-09T11:43:16.814+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [special,sea-rescue,refugees,libya,solidarity]
 description: Tigs Louis-Puttick recounts her experience as a Post-Rescue Assistance Team Coordinator on the most recent mission of the Sea-Eye 4.
 image:
-  path: assets/7d8524a1737a/1*MoP-t5sNjAD0agl3CAF15Q.png
+  path: ../assets/7d8524a1737a/1*MoP-t5sNjAD0agl3CAF15Q.png
 ---
 
 ### AYS Special: ‘Salut, camarade’: Solidarity and inequality in the Central Mediterranean
@@ -15,7 +15,7 @@ image:
 _Tigs Louis\-Puttick recounts her experience as the Post\-Rescue Assistance Team Coordinator on the most recent mission of the Sea\-Eye 4, a civil search and rescue mission in the Central Mediterranean\._
 
 
-![_Abu, a young boy, kicks a football\. When he arrived onboard, he could not walk due to the physical trauma of the long boat journey\._ \(Photo credit: Camilla Kranzusch, Sea\-Eye\)](assets/7d8524a1737a/1*MoP-t5sNjAD0agl3CAF15Q.png)
+![_Abu, a young boy, kicks a football\. When he arrived onboard, he could not walk due to the physical trauma of the long boat journey\._ \(Photo credit: Camilla Kranzusch, Sea\-Eye\)](../assets/7d8524a1737a/1*MoP-t5sNjAD0agl3CAF15Q.png)
 
 _Abu, a young boy, kicks a football\. When he arrived onboard, he could not walk due to the physical trauma of the long boat journey\._ \(Photo credit: Camilla Kranzusch, Sea\-Eye\)
 
@@ -26,7 +26,7 @@ I served as the Post\-Rescue Assistance Team Coordinator on this most recent mis
 My twenty\-five fellow crew members and I spent a total of thirty days at sea aboard the Sea\-Eye 4, an ex\-offshore supply vessel that has been used as a search and rescue ship by the German nonprofit Sea\-Eye since 2021\. In less than thirty\-six hours, our crew had located and rescued 223 people from four boats in distress in the Central Mediterranean Sea\.
 
 
-![_Richard, the ship’s Bosun, helps someone climb aboard the Sea\-Eye 4\._ \(Photo credit: Camilla Kranzusch, Sea\-Eye\)](assets/7d8524a1737a/1*pTFnC_npR6XrA8kW24GMRg.png)
+![_Richard, the ship’s Bosun, helps someone climb aboard the Sea\-Eye 4\._ \(Photo credit: Camilla Kranzusch, Sea\-Eye\)](../assets/7d8524a1737a/1*pTFnC_npR6XrA8kW24GMRg.png)
 
 _Richard, the ship’s Bosun, helps someone climb aboard the Sea\-Eye 4\._ \(Photo credit: Camilla Kranzusch, Sea\-Eye\)
 
@@ -35,7 +35,7 @@ The mission crew came from all walks of life\. I’m a 22\-year\-old recent grad
 The people we rescued were similarly diverse: from Ethiopia, Cameroon, Palestine, and a myriad other countries\. They comprised people of all ages, many of whom had never seen the sea before a smuggler loaded them onto a rickety wooden boat on the Libyan or Tunisian coast and told them to drive north\. These experiences were traumatic for all the people on these unseaworthy boats, even for the children, who are still too young to understand what was happening\.
 
 
-![Max, a RHIB team leader, assesses a vessel in distress\. \(Photo credit: Camilla Kranzusch, Sea\-Eye\)](assets/7d8524a1737a/1*bR-cC8kpWggOE837GvJQKQ.png)
+![Max, a RHIB team leader, assesses a vessel in distress\. \(Photo credit: Camilla Kranzusch, Sea\-Eye\)](../assets/7d8524a1737a/1*bR-cC8kpWggOE837GvJQKQ.png)
 
 Max, a RHIB team leader, assesses a vessel in distress\. \(Photo credit: Camilla Kranzusch, Sea\-Eye\)
 
@@ -58,7 +58,7 @@ Throughout the mission, we strove to convey to the people onboard that they dese
 We wanted to create an environment on board where they felt they could dance and laugh; suggest recipes for spicier food onboard; and request a bigger blanket when the one we gave them doesn’t quite cover their toes\.
 
 
-![_After the people are safely onboard, I begin the process of registering them\._ \(Photo credit: Fiona Alihosi, Sea\-Eye\)](assets/7d8524a1737a/1*cwv9OJ1JPn5gDO38ilQqyA.png)
+![_After the people are safely onboard, I begin the process of registering them\._ \(Photo credit: Fiona Alihosi, Sea\-Eye\)](../assets/7d8524a1737a/1*cwv9OJ1JPn5gDO38ilQqyA.png)
 
 _After the people are safely onboard, I begin the process of registering them\._ \(Photo credit: Fiona Alihosi, Sea\-Eye\)
 
@@ -79,7 +79,7 @@ During the long days at sea, we played music on deck to help pass the time and p
 On the last day of the stand\-off with the Italian authorities, we brought out the crew’s electric hair clippers so two people who had trained as barbers could give haircuts\. People wanted to look their best when they arrived in Europe\.
 
 
-![_The crew waves goodbye and applauds as the last person disembarks in Pozzallo, Sicily on December 24th\._ \(Photo credit: Camilla Kranzusch, Sea\-Eye\)](assets/7d8524a1737a/1*ThP8jd4s32eMxYJ1BxBMEA.png)
+![_The crew waves goodbye and applauds as the last person disembarks in Pozzallo, Sicily on December 24th\._ \(Photo credit: Camilla Kranzusch, Sea\-Eye\)](../assets/7d8524a1737a/1*ThP8jd4s32eMxYJ1BxBMEA.png)
 
 _The crew waves goodbye and applauds as the last person disembarks in Pozzallo, Sicily on December 24th\._ \(Photo credit: Camilla Kranzusch, Sea\-Eye\)
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 12/7/21: People in Schistou Camp denied protesting after the recent suicide
+title: "AYS Daily Digest 12/7/21: People in Schistou Camp denied protesting after the recent suicide"
 author: Are You Syrious?
 date: 2021-07-13T17:02:36.612+0100
 last_modified_at: 2021-07-13T17:02:36.612+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migration,europe,greece]
 description: Deadly weekend at the Mediterranean / Luxemburg to take in some people from the Ocean Viking / international protests & calls for action /…
 image:
-  path: assets/f0d79e2727ae/0*uQES4BphOvP864_k
+  path: ../assets/f0d79e2727ae/0*uQES4BphOvP864_k
 ---
 
 ### AYS Daily Digest 12/7/21: People in Schistou Camp denied protesting after the recent suicide
 #### Deadly weekend at the Mediterranean / Luxemburg to take in some people from the Ocean Viking / international protests & calls for action / Dublin returns to Serbia / recommended reads and more
 
 
-![By: [**Parwana Amiri**](https://twitter.com/parwana_amiri)](assets/f0d79e2727ae/0*uQES4BphOvP864_k)
+![By: [**Parwana Amiri**](https://twitter.com/parwana_amiri)](../assets/f0d79e2727ae/0*uQES4BphOvP864_k)
 
 By: [**Parwana Amiri**](https://twitter.com/parwana_amiri)
 #### **FEATURED**
@@ -79,7 +79,7 @@ Tunisian coastwatch reported having salvaged eigth bodies and rescueing 43 perso
 Meanwhile, Lybian security forces reported the deaths of at least twelve people on Sunday, when an inflatable boat sank at the coast near Tripoli\.
 
 
-![](assets/f0d79e2727ae/0*3QUMVq2OZCIl7BGj)
+![](../assets/f0d79e2727ae/0*3QUMVq2OZCIl7BGj)
 
 #### EU
 ### **European Court of Human Rights found Polish and Hungarian autorities guilty of tortue and collective expulsion**
@@ -169,7 +169,7 @@ Also, Frontex is sending additional border guars as well as investigation office
 ### **Call for donations**
 
 
-![](assets/f0d79e2727ae/0*aMRErE1mMKqnqbKG)
+![](../assets/f0d79e2727ae/0*aMRErE1mMKqnqbKG)
 
 
 Our friends from NNK are passing through Italy and looking to top up their donations: Sneakers size 40 to 43, T\-Shirts small and medium, trousers \(shorts and lights\), boxers and socks, backpacks and sleeping bags as well as phones and powerbanks\.
@@ -196,7 +196,7 @@ The german NGO Seebrücke, which intitiated a demonstration supporting the _sans
 Kiran Adhikeri from Nepal worked as a cook in a restaurant until it had to close because of the pandemic and says: “I am 37 years old, I love this society, its people, but I have no legal existence\.”
 
 
-![](assets/f0d79e2727ae/0*cm6XAPrwrCT0lEvN)
+![](../assets/f0d79e2727ae/0*cm6XAPrwrCT0lEvN)
 
 ### **Citizen Hosting and Support Platform**
 

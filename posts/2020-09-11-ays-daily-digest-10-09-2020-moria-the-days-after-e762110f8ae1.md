@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,moria,greece]
 description: More Violent Pushbacks at the Croatian Border///The Canary Islands Are Turning Into a Hotspot///Italian Minister of Interior Lies About…
 image:
-  path: assets/e762110f8ae1/0*1IPPqcEUVt6joFvk
+  path: ../assets/e762110f8ae1/0*1IPPqcEUVt6joFvk
 ---
 
 ### AYS Daily Digest 10/09/2020—Moria, the Days After
 #### More Violent Pushbacks at the Croatian Border///The Canary Islands Are Turning Into a Hotspot///Italian Minister of Interior Lies About Illegal Pushbacks
 
 
-![The EU, summarized in one cartoon\. Artist: [Tjeerd Royaards](https://twitter.com/Royaards/status/1303665311938473985?fbclid=IwAR227eakvl8s-DCnDNM0Oq00womn4Za7UpK6aBGOvGBVNB87or-PfnzOS48)](assets/e762110f8ae1/0*1IPPqcEUVt6joFvk)
+![The EU, summarized in one cartoon\. Artist: [Tjeerd Royaards](https://twitter.com/Royaards/status/1303665311938473985?fbclid=IwAR227eakvl8s-DCnDNM0Oq00womn4Za7UpK6aBGOvGBVNB87or-PfnzOS48)](../assets/e762110f8ae1/0*1IPPqcEUVt6joFvk)
 
 The EU, summarized in one cartoon\. Artist: [Tjeerd Royaards](https://twitter.com/Royaards/status/1303665311938473985?fbclid=IwAR227eakvl8s-DCnDNM0Oq00womn4Za7UpK6aBGOvGBVNB87or-PfnzOS48)
 #### FEATURE: Moria, the Aftermath
@@ -39,7 +39,7 @@ As more details about the fire come out, we are reminded again that this is a di
 The government is also still pushing the narrative that there were no casualties or serious injuries, even though witnesses report [at least two deaths](https://euobserver.com/migration/149385?fbclid=IwAR227eakvl8s-DCnDNM0Oq00womn4Za7UpK6aBGOvGBVNB87or-PfnzOS48) \. Why are injured people being blocked from treatment at the hospital, and why hasn’t there been a full investigation to find out how many were killed?
 
 
-![The camp, smoldering\. Photo by Angelos Christofilopoulos of [AthensLive](https://medium.com/athenslivegr/last-days-in-moria-229cffe9dba7)](assets/e762110f8ae1/0*QGGu3ioVxBiBE0jZ.jpeg)
+![The camp, smoldering\. Photo by Angelos Christofilopoulos of [AthensLive](https://medium.com/athenslivegr/last-days-in-moria-229cffe9dba7)](../assets/e762110f8ae1/0*QGGu3ioVxBiBE0jZ.jpeg)
 
 The camp, smoldering\. Photo by Angelos Christofilopoulos of [AthensLive](https://medium.com/athenslivegr/last-days-in-moria-229cffe9dba7)
 
@@ -88,7 +88,7 @@ Throughout this, the EU has mounted a sporadic response that is not up to the pr
 As our friend Eric from Latitude Adjustment Podcast points out, Europe [absolutely has the capacity](https://www.facebook.com/latitudeadjustmentpodcast/posts/706840843248256) to take in more people\. It has half a billion people across the continent, the economic capacity to provide a social safety net, and plenty of unused structures that can be turned into housing\. It just chooses not to do more\. He is not alone in this sentiment—people [from Germany](https://www.infomigrants.net/en/post/27190/thousands-of-protesters-call-on-germany-to-take-in-moria-refugees?fbclid=IwAR227eakvl8s-DCnDNM0Oq00womn4Za7UpK6aBGOvGBVNB87or-PfnzOS48) to [Thessaloniki](https://twitter.com/alarm_phone/status/1304040881272520704?fbclid=IwAR227eakvl8s-DCnDNM0Oq00womn4Za7UpK6aBGOvGBVNB87or-PfnzOS48) are urging their governments and the EU to do more and showing solidarity with those stuck in the hell that is Moria\.
 
 
-![People making food by the side of the road\. Photo from [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/posts/184382146538186) of their members and their families](assets/e762110f8ae1/0*K2fP_GB_GQ49pWKY)
+![People making food by the side of the road\. Photo from [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/posts/184382146538186) of their members and their families](../assets/e762110f8ae1/0*K2fP_GB_GQ49pWKY)
 
 People making food by the side of the road\. Photo from [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/posts/184382146538186) of their members and their families
 

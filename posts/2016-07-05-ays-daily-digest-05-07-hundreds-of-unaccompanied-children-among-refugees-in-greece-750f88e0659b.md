@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 05/07: Hundreds of unaccompanied children among refugees in Greece
+title: "AYS DAILY DIGEST 05/07: Hundreds of unaccompanied children among refugees in Greece"
 author: Are You Syrious?
 date: 2016-07-05T22:40:13.080+0100
 last_modified_at: 2016-07-07T04:51:30.856+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,hungary,border,volunteers]
 description: In less than a month, 15,500 people were pre-registered in Greece, including many children who are traveling alone. In Italy, police…
 image:
-  path: assets/750f88e0659b/1*GVaCSCMbau8dnLi9MQnkwg.jpeg
+  path: ../assets/750f88e0659b/1*GVaCSCMbau8dnLi9MQnkwg.jpeg
 ---
 
 ### AYS DAILY DIGEST 05/07: Hundreds of unaccompanied children among refugees in Greece
@@ -15,7 +15,7 @@ image:
 _In less than a month, 15,500 people were pre\-registered in Greece, including many children who are traveling alone\. In Italy, police discovered a huge organ trafficking ring\. One of the witnesses told the police that people who can’t pay for passage to Italy are sold to people who kill them and then sell their organs\. Help needed in Greece, Serbia, Hungary, France…_
 
 
-![MSF and SOSMedFrance today rescued 23 children from the rubber boat](assets/750f88e0659b/1*GVaCSCMbau8dnLi9MQnkwg.jpeg)
+![MSF and SOSMedFrance today rescued 23 children from the rubber boat](../assets/750f88e0659b/1*GVaCSCMbau8dnLi9MQnkwg.jpeg)
 
 MSF and SOSMedFrance today rescued 23 children from the rubber boat
 #### Mediterranean
@@ -25,7 +25,7 @@ MSF and SOSMedFrance today rescued 23 children from the rubber boat
 People were saved in a joint operation by MSF and SOSMedFrance\. Nearly one quarter \(23\) of those rescued are children traveling alone\.
 
 
-![Safepassage\. Photo MSFsea](assets/750f88e0659b/1*nmyrUKWfdnBttC1TXI_Ecg.jpeg)
+![Safepassage\. Photo MSFsea](../assets/750f88e0659b/1*nmyrUKWfdnBttC1TXI_Ecg.jpeg)
 
 Safepassage\. Photo MSFsea
 ### Human trafficking ring discovered in Italy
@@ -108,7 +108,7 @@ We also received a message from all volunteers from Hungarian Helsinki Committee
 ### Free Wi\-Fi at the border
 
 
-![IHO team is at the border helping to refugees to stay in touch with their friends and family](assets/750f88e0659b/1*jyfhggwQlhqJNrYpipgvkQ.jpeg)
+![IHO team is at the border helping to refugees to stay in touch with their friends and family](../assets/750f88e0659b/1*jyfhggwQlhqJNrYpipgvkQ.jpeg)
 
 IHO team is at the border helping to refugees to stay in touch with their friends and family
 
@@ -129,7 +129,7 @@ The actual relocation plan is going extremely slowly and as of July 1st, fewer t
 After several e\-mails coming from different organisations, and following our pre\-agreement with City of Zagreb officials, the mayor has publicly promised to solve some of the lingering problems for asylum seekers: access to public transport and cleaning up the garbage around Porin Hotel, where 228 refugees are accommodated \(including 40 children\) \. Yesterday, our volunteers had a conversation with the mayor in front of Porin, where he arrived to celebrate the end of Ramadan with Muslim refugees\. He promised to fulfill our requests “within days”, immediately confirming it front of the cameras\.
 
 
-![Luka, Nancy and Marko of AYS after getting a promise from the mayor](assets/750f88e0659b/1*cLSbLJmmj0pVwZRk66MdwQ.jpeg)
+![Luka, Nancy and Marko of AYS after getting a promise from the mayor](../assets/750f88e0659b/1*cLSbLJmmj0pVwZRk66MdwQ.jpeg)
 
 Luka, Nancy and Marko of AYS after getting a promise from the mayor
 #### France
@@ -168,14 +168,14 @@ Did Eid UL\-Fitr is one of the most important holidays for Muslims\. It marks th
 In camp Cherso, today during the English class, they talked again about how refugees feel living in the camp and waiting\. Their words speak to us all and remind us about solidarity with those in need and to speak loudly against wars\.
 
 
-![Photo by Amanda Grady](assets/750f88e0659b/1*s3P7zgzdwzmv1GJqn5GXIQ.jpeg)
+![Photo by Amanda Grady](../assets/750f88e0659b/1*s3P7zgzdwzmv1GJqn5GXIQ.jpeg)
 
 Photo by Amanda Grady
 
 At different places, refugees and volunteers celebrated Eid\. Samos volunteers organized celebration with homemade sweets with the tea and coffee and watermelon, and all the children received an Eid gift including soft toys and coloring books\.
 
 
-![Time for celebration\. Samos Volunteers photo](assets/750f88e0659b/1*tnutWVqMYhn2zmWeIHVe5Q.jpeg)
+![Time for celebration\. Samos Volunteers photo](../assets/750f88e0659b/1*tnutWVqMYhn2zmWeIHVe5Q.jpeg)
 
 Time for celebration\. Samos Volunteers photo
 ### AYS needs you

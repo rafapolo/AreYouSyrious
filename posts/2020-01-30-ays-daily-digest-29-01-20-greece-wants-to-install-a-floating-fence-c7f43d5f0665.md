@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 29/01/20: Greece wants to install a floating fence
+title: "AYS Daily Digest 29/01/20: Greece wants to install a floating fence"
 author: Are You Syrious?
 date: 2020-01-30T02:35:36.117+0000
 last_modified_at: 2020-01-30T11:31:06.785+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,germany,deportation]
 description: Three people deported despite ongoing process // Several rescues at sea // Critical conditions in Bosnia // Bremen votes to transfer…
 image:
-  path: assets/c7f43d5f0665/1*pqd3Ar-ePeOv0PMWWbPVWg.jpeg
+  path: ../assets/c7f43d5f0665/1*pqd3Ar-ePeOv0PMWWbPVWg.jpeg
 ---
 
 ### AYS Daily Digest 29/01/20: Greece wants to install a floating fence
 #### Three people deported despite ongoing process // Several rescues at sea // Critical conditions in Bosnia // Bremen votes to transfer unaccompanied minors from Greece //
 
 
-![Credits: [m\.r\.c\.](https://www.facebook.com/call122/photos/a.1880669272155485/2365715576984183/?type=3&theater)](assets/c7f43d5f0665/1*pqd3Ar-ePeOv0PMWWbPVWg.jpeg)
+![Credits: [m\.r\.c\.](https://www.facebook.com/call122/photos/a.1880669272155485/2365715576984183/?type=3&theater)](../assets/c7f43d5f0665/1*pqd3Ar-ePeOv0PMWWbPVWg.jpeg)
 
 Credits: [m\.r\.c\.](https://www.facebook.com/call122/photos/a.1880669272155485/2365715576984183/?type=3&theater)
 ### Greece

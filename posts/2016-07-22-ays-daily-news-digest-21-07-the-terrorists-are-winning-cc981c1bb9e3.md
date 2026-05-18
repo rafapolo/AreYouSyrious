@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe]
 description: Following last month’s bombing of the Rukban border crossing, which killed 7 guards, the last crossing point available for refugees has…
 image:
-  path: assets/cc981c1bb9e3/1*M_Lo3U23L1QXEekX-WloyA.png
+  path: ../assets/cc981c1bb9e3/1*M_Lo3U23L1QXEekX-WloyA.png
 ---
 
 ### AYS Daily News Digest 21\.07 — The terrorists are winning
 #### Following last month’s bombing of the Rukban border crossing, which killed 7 guards, the last crossing point available for refugees has been closed and basic necessities such as food and water are scarce for those camping on the border\. Some of the children and elderly have died as a result of dehydration and malnutrition, and few organizations are able to help the refugees on location\. Reverting to base instincts and shutting down borders means that the terrorists have completed their objective, and may very well lead to the disillusionment of those who now find themselves with nowhere to go\.
 
 
-![Refugees protesting in Oreokastro Camp in Greece asking for better food\. The food provided in Greek camps is known to be of questionable quality\. Photo Credit: Rezan Boyraz](assets/cc981c1bb9e3/1*M_Lo3U23L1QXEekX-WloyA.png)
+![Refugees protesting in Oreokastro Camp in Greece asking for better food\. The food provided in Greek camps is known to be of questionable quality\. Photo Credit: Rezan Boyraz](../assets/cc981c1bb9e3/1*M_Lo3U23L1QXEekX-WloyA.png)
 
 Refugees protesting in Oreokastro Camp in Greece asking for better food\. The food provided in Greek camps is known to be of questionable quality\. Photo Credit: Rezan Boyraz
 #### Jordan
@@ -26,7 +26,7 @@ In the aftermath of last month’s detonation of a car bomb on the northeastern 
 The Atlantic Humanitarian Relief network is searching for doctors of all kinds who would volunteer their services from October 1 to October 6\. As highlighted by the above story, many refugees are in very desperate need of help, and your participation would go a long way\.
 
 
-![](assets/cc981c1bb9e3/1*sF0OeWwSv7m9TD_l8cLuHQ.png)
+![](../assets/cc981c1bb9e3/1*sF0OeWwSv7m9TD_l8cLuHQ.png)
 
 #### Greece
 ### HRW report details the shocking mistreatment that unaccompanied minors encounters\.
@@ -114,18 +114,18 @@ The survey shows the difficult conditions refugees are subjected to, and once mo
 
 
 
-![](assets/cc981c1bb9e3/1*Ob-ER5zjXRdbGD86-Z3y3A.png)
+![](../assets/cc981c1bb9e3/1*Ob-ER5zjXRdbGD86-Z3y3A.png)
 
 
 
-![The results of a survey conducted by the population of “The Jungle” in Calais\.](assets/cc981c1bb9e3/1*SZwSQx8jh71N3YO1pZT5VA.png)
+![The results of a survey conducted by the population of “The Jungle” in Calais\.](../assets/cc981c1bb9e3/1*SZwSQx8jh71N3YO1pZT5VA.png)
 
 The results of a survey conducted by the population of “The Jungle” in Calais\.
 
 Also coming out of the camps this week is the following statement of solidarity by residents to those affected by the terrorist attack carried out in Nice\. Refugees who came to be in Calais after fleeing from war zones understand better than most what it means to live one’s life in fear of themselves or a loved one becoming a victim of reckless violence\. The statement reads as follows:
 
 
-![Statement of solidarity from Calais refugees in the aftermath of the dreadful Nice attack\. Photo Credit: Help Refugees](assets/cc981c1bb9e3/1*r9eQEyfm64KC8cK52JA3nQ.png)
+![Statement of solidarity from Calais refugees in the aftermath of the dreadful Nice attack\. Photo Credit: Help Refugees](../assets/cc981c1bb9e3/1*r9eQEyfm64KC8cK52JA3nQ.png)
 
 Statement of solidarity from Calais refugees in the aftermath of the dreadful Nice attack\. Photo Credit: Help Refugees
 

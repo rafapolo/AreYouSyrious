@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 02/04/2021: Europe, don’t let there be another Easter tragedy!
+title: "AYS Daily Digest 02/04/2021: Europe, don’t let there be another Easter tragedy!"
 author: Are You Syrious?
 date: 2021-04-03T15:10:44.293+0100
 last_modified_at: 2021-04-03T15:10:44.293+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [europe,digest,easter,refugees,rescue]
 description: 270 people in distress in the Mediterranean Sea, no rescue so far although all responsible actors are well informed // New tension between…
 image:
-  path: assets/c7ee666a26cc/0*SC9s47qWkuRZ5kWQ.jpeg
+  path: ../assets/c7ee666a26cc/0*SC9s47qWkuRZ5kWQ.jpeg
 ---
 
 ### AYS Daily Digest 02/04/2021: Europe, don’t let there be another Easter tragedy\!
 ### 270 people in distress in the Mediterranean Sea, no rescue so far although all responsible actors are well informed // New tension between Greece and Turkey // Extention of validity of Greek asylum applicant’s cards // Background info on drones employed at Croatian border // Attack against press freedom and journalists working on the situation of people on the move // Arrivals in Lampedusa, Portugal and Canary Islands // Expulsions in France
 
 
-![](assets/c7ee666a26cc/0*i8aXmcMNALyj_7_M.jpeg)
+![](../assets/c7ee666a26cc/0*i8aXmcMNALyj_7_M.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----71c269ee30e3--------------------------------)
@@ -22,11 +22,11 @@ image:
 [Apr 3](ays-daily-digest-02-04-2021-europe-dont-let-there-be-another-easter-tragedy-71c269ee30e3?source=post_page-----71c269ee30e3--------------------------------) · 9 min read
 
 
-![](assets/c7ee666a26cc/0*YwHVBIKBsrSVyvV8)
+![](../assets/c7ee666a26cc/0*YwHVBIKBsrSVyvV8)
 
 
 
-![](assets/c7ee666a26cc/0*SC9s47qWkuRZ5kWQ.jpeg)
+![](../assets/c7ee666a26cc/0*SC9s47qWkuRZ5kWQ.jpeg)
 
 ### On Easter Weekend, Malta once again ignores people in distress
 

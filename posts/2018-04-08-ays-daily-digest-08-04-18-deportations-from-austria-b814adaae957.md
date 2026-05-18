@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 07/04/18: Deportations from Austria
+title: "AYS Daily Digest 07/04/18: Deportations from Austria"
 author: Are You Syrious?
 date: 2018-04-08T12:42:51.538+0100
 last_modified_at: 2018-04-08T12:46:31.913+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees]
 description: People to be deported from Sweden and Austria on Monday//Volunteers intimidated in Calais//Boats continue to arrive in Greece//
 image:
-  path: assets/b814adaae957/1*kV3UQ-i3hExkwpwCZT4PQw.png
+  path: ../assets/b814adaae957/1*kV3UQ-i3hExkwpwCZT4PQw.png
 ---
 
 ### AYS Daily Digest 07/04/18: Deportations from Austria
@@ -15,7 +15,7 @@ image:
 _People to be deported from Sweden and Austria on Monday//Volunteers intimidated in Calais//Boats continue to arrive in Greece//_
 
 
-![Photo by Arye Wachsmuth](assets/b814adaae957/1*kV3UQ-i3hExkwpwCZT4PQw.png)
+![Photo by Arye Wachsmuth](../assets/b814adaae957/1*kV3UQ-i3hExkwpwCZT4PQw.png)
 
 Photo by Arye Wachsmuth
 #### Austria

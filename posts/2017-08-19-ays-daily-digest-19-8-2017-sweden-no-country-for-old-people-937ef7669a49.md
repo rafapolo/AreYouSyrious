@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 19/08/2017: Sweden — no country for old people!?
+title: "AYS Daily Digest 19/08/2017: Sweden — no country for old people!?"
 author: Are You Syrious?
 date: 2017-08-19T21:48:59.389+0100
 last_modified_at: 2017-08-28T15:15:06.977+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,sweden,afghanistan,deportations,croatia]
 description: Government in Sweden to deport 106-year-old woman to Afghanistan / Over 300 new arrivals to Greece / Love from Medborgarplatsen / The…
 image:
-  path: assets/937ef7669a49/1*tXy6ns6FX0ujNF-rAMj9Ig.jpeg
+  path: ../assets/937ef7669a49/1*tXy6ns6FX0ujNF-rAMj9Ig.jpeg
 ---
 
 ### AYS Daily Digest 19/08/2017: Sweden — no country for old people\!?
@@ -15,7 +15,7 @@ image:
 _Government in Sweden to deport 106\-year\-old woman to Afghanistan / Over 300 new arrivals to Greece / Love from Medborgarplatsen / The healthcare situation in Croatia disastrous / Deportations from Norway to Afghanistan / And more news…_
 
 
-![Photo by [Ung i Sverige](https://www.facebook.com/ungisverige.nu/)](assets/937ef7669a49/1*myIMUl0FMfZafPKaAXV3tQ.jpeg)
+![Photo by [Ung i Sverige](https://www.facebook.com/ungisverige.nu/)](../assets/937ef7669a49/1*myIMUl0FMfZafPKaAXV3tQ.jpeg)
 
 Photo by [Ung i Sverige](https://www.facebook.com/ungisverige.nu/)
 ### Feature
@@ -25,7 +25,7 @@ The decission that Bibihal Uzbeki, a 106\-year\-old lady who was forced to leave
 After she heard the news about the deportation, Bibihal suffered a stroke and became unresponsive\. According to her family, she now sleeps all day and spends the nights talking to herself in her temporary home in Hova, Gullspång\.
 
 
-![Photo Marjan Vucetic/AP](assets/937ef7669a49/1*451vhE3ebcJPh07proneKQ.jpeg)
+![Photo Marjan Vucetic/AP](../assets/937ef7669a49/1*451vhE3ebcJPh07proneKQ.jpeg)
 
 Photo Marjan Vucetic/AP
 
@@ -55,7 +55,7 @@ While people are arriving on overcrowded islands, where the most reliable help i
 According to the official data, a total of **1,421** people have arrived on the islands of the eastern Aegean so far this month\. More than **14,000** migrants are currently in facilities on the islands, a third of them on Lesvos\.
 
 
-![Photo by No Border Kitchen Lesvos](assets/937ef7669a49/1*NX7buinmbV_ll9HNOJ_xMA.jpeg)
+![Photo by No Border Kitchen Lesvos](../assets/937ef7669a49/1*NX7buinmbV_ll9HNOJ_xMA.jpeg)
 
 Photo by No Border Kitchen Lesvos
 
@@ -88,7 +88,7 @@ _“No Name Kitchen is a small NGO formed by independent volunteers whom I have 
 Police continue to prevent people from staying in the makeshift camp at Porte de la Chapelle\. They even force people to leave from the nearby benches\. However, there are between 50–100 people who are there and volunteers who are trying to help them\.
 
 
-![Photo AYS](assets/937ef7669a49/1*tXy6ns6FX0ujNF-rAMj9Ig.jpeg)
+![Photo AYS](../assets/937ef7669a49/1*tXy6ns6FX0ujNF-rAMj9Ig.jpeg)
 
 Photo AYS
 ### Belgium
@@ -103,7 +103,7 @@ While granny Uzbeki waits for the decision on her appeal against deportation, hu
 [Ung i Sverige](https://www.facebook.com/ungisverige.nu/?hc_ref=ARQ9R7BDhWK-YKm_4ThD3jGFATB4tiNDlZHV6X2MgpWVgoE7ntB993B_yxhjUyy1-OU) reports every day on their FB page about new events\.
 
 
-![](assets/937ef7669a49/1*DeHtSYsjBxMeOw3jtMSImA.jpeg)
+![](../assets/937ef7669a49/1*DeHtSYsjBxMeOw3jtMSImA.jpeg)
 
 
 Today, about 1000 people came to greet them and share some love\. “We don’t even see any opponents because there’s so much love at Medborgarplatsen,” was their message\. Opposite this group there were about 100 counter\-protesters who chanted “Stå upp för Sverige” \(Stand up for Sweden\) \. They chanted “Out with the scum” and “No Afghans on our streets,” but the love was stronger today\.
@@ -116,7 +116,7 @@ The protest has been going on for over two weeks now\.
 Another country that deports people to Afghanistan\. [Janne Løken](https://www.facebook.com/Jannelok?hc_ref=ARRAGKqRusK6dB1ybc0iq5E-CEj6WKtadXGsldKZ4jS8CMOGRgLJF6K3VXC4eQK21Q0) visited the place where people are being locked up before deportation\. Among others, her friend who has not been in Afghanistan since he was seven years old and has no family members or support in the country\.
 
 
-![](assets/937ef7669a49/1*l_nqAR7UxJJVYFLVlU-VRw.jpeg)
+![](../assets/937ef7669a49/1*l_nqAR7UxJJVYFLVlU-VRw.jpeg)
 
 
 _“Today I have been to probably the saddest place in Norway, Trandum\. Trandum detention as they euphemistically call it\. The sign on the way says it’s a refugee camp, but it’s nothing but a prison\. The first thing that meets you is high piggtrådgjerder and it reminded me of Moria,”_ she writes\.

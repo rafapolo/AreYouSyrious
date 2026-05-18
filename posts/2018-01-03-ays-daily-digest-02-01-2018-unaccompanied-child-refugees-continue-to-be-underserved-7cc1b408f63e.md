@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 02.01.2018: Unaccompanied child refugees continue to be underserved
+title: "AYS DAILY DIGEST 02.01.2018: Unaccompanied child refugees continue to be underserved"
 author: Are You Syrious?
 date: 2018-01-03T10:26:46.711+0000
 last_modified_at: 2018-01-03T20:08:54.498+0000
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,greece,europe,germany,european-union]
 description: Feature
 image:
-  path: assets/7cc1b408f63e/1*ez4kljl0t6kIsr7tJl_gDg.jpeg
+  path: ../assets/7cc1b408f63e/1*ez4kljl0t6kIsr7tJl_gDg.jpeg
 ---
 
 ### AYS DAILY DIGEST 02\.01\.2018: Unaccompanied child refugees continue to be underserved
 
 
-![“The Loneliness of the Refugee,” Serbia\. Photo Credit: Gabriel Tizon](assets/7cc1b408f63e/1*ez4kljl0t6kIsr7tJl_gDg.jpeg)
+![“The Loneliness of the Refugee,” Serbia\. Photo Credit: Gabriel Tizon](../assets/7cc1b408f63e/1*ez4kljl0t6kIsr7tJl_gDg.jpeg)
 
 “The Loneliness of the Refugee,” Serbia\. Photo Credit: Gabriel Tizon
 #### Feature
@@ -84,7 +84,7 @@ Samos: 1 boat carrying 16 children
 According to Aegean Boat Report, a total of 57 boats arrived on the islands in December, carrying a total of 2493 people\. 25 of these boats landed on Lesvos, six on Chios, and 19 on Samos, along with small numbers of boats on other islands\. For the full report, [click here](https://www.facebook.com/AegeanBoatReport/photos/a.285312485325196.1073741828.285298881993223/288209918368786/?type=3) \.
 
 
-![Refugees in Vial continue to live on summer tents despite the difficult winter conditions ahead\. Photo Credit: Be Aware and Share](assets/7cc1b408f63e/1*1D3T2rF8lfucVFTKiPCsNA.jpeg)
+![Refugees in Vial continue to live on summer tents despite the difficult winter conditions ahead\. Photo Credit: Be Aware and Share](../assets/7cc1b408f63e/1*1D3T2rF8lfucVFTKiPCsNA.jpeg)
 
 Refugees in Vial continue to live on summer tents despite the difficult winter conditions ahead\. Photo Credit: Be Aware and Share
 #### Italy
@@ -95,7 +95,7 @@ A Ghanese citizen has been rescued as he was trying to reach France through Bard
 Tous Migrants have organized a chain of solidarity to show everybody the risks that migrants run every day and night as they attempt to cross the Alps to reach France from Susa Valley\. During the demonstration, the Alpine rescuers took a migrant by helicopter to the hospital\.
 
 
-![Tous Migrants demonstrating to bring awareness of the dangers to refugee lives as a result of the closing of borders\.](assets/7cc1b408f63e/1*1JED8wXskut39FSkVAyKTQ.jpeg)
+![Tous Migrants demonstrating to bring awareness of the dangers to refugee lives as a result of the closing of borders\.](../assets/7cc1b408f63e/1*1JED8wXskut39FSkVAyKTQ.jpeg)
 
 Tous Migrants demonstrating to bring awareness of the dangers to refugee lives as a result of the closing of borders\.
 ### Fire damages building meant to host refugees

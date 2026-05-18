@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 26/03/17: Is it refugee Mother‘s Day, too?
+title: "AYS Daily Digest 26/03/17: Is it refugee Mother‘s Day, too?"
 author: Are You Syrious?
 date: 2017-03-26T23:37:45.664+0100
 last_modified_at: 2017-03-26T23:46:11.104+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,mothers-day,syria,human-rights]
 description: Many refugee mothers still fear for their safety and future | Syria — Raqqa residents being evacuated; dozens injured in suspected north…
 image:
-  path: assets/194191d3c7c/1*lOpJ62G39Kf9O01G91hexw.jpeg
+  path: ../assets/194191d3c7c/1*lOpJ62G39Kf9O01G91hexw.jpeg
 ---
 
 ### AYS Daily Digest 26/03/17: Is it refugee Mother‘s Day, too?
 #### Many refugee mothers still fear for their safety and future \| Syria — Raqqa residents being evacuated; dozens injured in suspected north Hama ‘chlorine gas’ attack \| MSF rescue vessels saved hundreds from the sea \| Number of refugees in Bulgaria descreased — how? \| Volunteers needed in Greece, Italy and elsewhere
 
 
-![Inhumanity is not the solution\. Image from yesterday’s widespread protest \#NotMyEurope \(Photo: [No Border Network](https://www.facebook.com/freefighters/) \)](assets/194191d3c7c/1*lOpJ62G39Kf9O01G91hexw.jpeg)
+![Inhumanity is not the solution\. Image from yesterday’s widespread protest \#NotMyEurope \(Photo: [No Border Network](https://www.facebook.com/freefighters/) \)](../assets/194191d3c7c/1*lOpJ62G39Kf9O01G91hexw.jpeg)
 
 Inhumanity is not the solution\. Image from yesterday’s widespread protest \#NotMyEurope \(Photo: [No Border Network](https://www.facebook.com/freefighters/) \)
 #### FEATURE
@@ -38,7 +38,7 @@ Not much and not enough has changed in the meantime that we could boast with sym
 
 
 
-![Photo: City Plaza](assets/194191d3c7c/1*33Q3G2-Rf1012nY9gzUvSg.jpeg)
+![Photo: City Plaza](../assets/194191d3c7c/1*33Q3G2-Rf1012nY9gzUvSg.jpeg)
 
 Photo: City Plaza
 #### SYRIA
@@ -47,11 +47,11 @@ Photo: City Plaza
 The Euphrates River dam could collapse, the IS supposedly told the remaining Raqqa residents, ordering them today to leave the city\. They have since begun evacuation\. A technical source from Syria told the AFP news agency that water levels in the reservoir were rising, which could inundate the surrounding area, [DW](http://m.dw.com/en/raqqa-residents-evacuate-as-is-controlled-dam-risks-collapse/a-38127992) reports\. Any further increase in the dam’s water levels or damage “would have catastrophic humanitarian implications in all areas downstream,” the UN warned\.
 
 
-![](assets/194191d3c7c/1*h5lFKSgmByyhMNqKojVsaA.jpeg)
+![](../assets/194191d3c7c/1*h5lFKSgmByyhMNqKojVsaA.jpeg)
 
 
 
-![[Photos](https://www.facebook.com/Raqqa.Sl/?ref=page_internal) showing the people of Raqqa in the mountain area, evacuating from the city following orders to leave the area due to possible flooding](assets/194191d3c7c/1*9Zh_dauBVQ_IqHQvaxK79w.jpeg)
+![[Photos](https://www.facebook.com/Raqqa.Sl/?ref=page_internal) showing the people of Raqqa in the mountain area, evacuating from the city following orders to leave the area due to possible flooding](../assets/194191d3c7c/1*9Zh_dauBVQ_IqHQvaxK79w.jpeg)
 
 [Photos](https://www.facebook.com/Raqqa.Sl/?ref=page_internal) showing the people of Raqqa in the mountain area, evacuating from the city following orders to leave the area due to possible flooding
 ### Attack on the only hospital with surgical facilities in the region
@@ -83,7 +83,7 @@ During the previous night, the Aquarius rescue ship, with the help of Sea Eye an
 One boat carrying refugees was picked up early this morning on the north coast of Lesvos by Frontex and were taken to Skala Sykaminia\. There were 15 people on board, including 1 baby, 2 children\. A group of 5 men, 6 women and 3 children were taken to Moria camp\.
 
 
-![Lesvos arrivals, Photo: [Philippa Kempson](https://www.facebook.com/philippa.kempson.1)](assets/194191d3c7c/1*fGRrDfjvc_7xCmJU5FMq5g.jpeg)
+![Lesvos arrivals, Photo: [Philippa Kempson](https://www.facebook.com/philippa.kempson.1)](../assets/194191d3c7c/1*fGRrDfjvc_7xCmJU5FMq5g.jpeg)
 
 Lesvos arrivals, Photo: [Philippa Kempson](https://www.facebook.com/philippa.kempson.1)
 
@@ -107,11 +107,11 @@ Volunteers are needed to join the north shore response group on Lesvos as part o
 According to the volunteers, at least 3 boats were picked up by the Turkish coast guard and sent back today\.
 
 
-![](assets/194191d3c7c/1*tXVfHSlVldVXOmhcwDPNCg.jpeg)
+![](../assets/194191d3c7c/1*tXVfHSlVldVXOmhcwDPNCg.jpeg)
 
 
 
-![New wooden floors were installed [The Get Shit Done Team](https://www.facebook.com/The-Get-Shit-Done-Team-304001796641127/) at the Alexandreia camp that is due to open tomorrow, March 27\. \(Photo: [Refugee Support Greece](https://www.facebook.com/RefugeeSupportGreece/) \)](assets/194191d3c7c/1*k7F7f9k402NEr_0rPXJ_pA.jpeg)
+![New wooden floors were installed [The Get Shit Done Team](https://www.facebook.com/The-Get-Shit-Done-Team-304001796641127/) at the Alexandreia camp that is due to open tomorrow, March 27\. \(Photo: [Refugee Support Greece](https://www.facebook.com/RefugeeSupportGreece/) \)](../assets/194191d3c7c/1*k7F7f9k402NEr_0rPXJ_pA.jpeg)
 
 New wooden floors were installed [The Get Shit Done Team](https://www.facebook.com/The-Get-Shit-Done-Team-304001796641127/) at the Alexandreia camp that is due to open tomorrow, March 27\. \(Photo: [Refugee Support Greece](https://www.facebook.com/RefugeeSupportGreece/) \)
 #### BULGARIA
@@ -135,16 +135,16 @@ Follow [this link](http://legis.mk/news/2298/public-call-short-term-engagement-e
 A German volunteer group is currently in Italy to help refugees in Udine\. They report the situation is serious, the people are sleeping, eating and living outside in poor conditions\. A lot of help is needed on site, [the group](https://twitter.com/Heimatstern_org) claims, and they are willing to cooperate with local NGOs on the ground to bring relief\.
 
 
-![](assets/194191d3c7c/1*CUmZsauedEgrUwaXs4AKcA.jpeg)
+![](../assets/194191d3c7c/1*CUmZsauedEgrUwaXs4AKcA.jpeg)
 
 
 
-![Photos by: [HeimatsternMünchen‏](https://twitter.com/Heimatstern_org)](assets/194191d3c7c/1*75eH7oAWNZydYm0eQoYeDw.jpeg)
+![Photos by: [HeimatsternMünchen‏](https://twitter.com/Heimatstern_org)](../assets/194191d3c7c/1*75eH7oAWNZydYm0eQoYeDw.jpeg)
 
 Photos by: [HeimatsternMünchen‏](https://twitter.com/Heimatstern_org)
 
 
-![](assets/194191d3c7c/1*Qt_aCOZ5AZ7LSohyCZmn5Q.jpeg)
+![](../assets/194191d3c7c/1*Qt_aCOZ5AZ7LSohyCZmn5Q.jpeg)
 
 ### Somalis need support
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 28/5/18: A surge of arrivals opens new-old questions
+title: "AYS Daily Digest 28/5/18: A surge of arrivals opens new-old questions"
 author: Are You Syrious?
 date: 2018-05-29T10:09:41.542+0100
 last_modified_at: 2018-05-29T10:09:41.542+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,greece,italy]
 description: People are being sent back without the chance to lodge claims for international protection in France, Croatia, Spain, Hungary, Poland and…
 image:
-  path: assets/a258790fb44c/1*j2Y7JPU999ilPp9GFESReA.jpeg
+  path: ../assets/a258790fb44c/1*j2Y7JPU999ilPp9GFESReA.jpeg
 ---
 
 ### AYS Daily Digest 28/5/18: A surge of arrivals opens new\-old questions
 #### People are being sent back without the chance to lodge claims for international protection in France, Croatia, Spain, Hungary, Poland and Greece, the EU agency says /Italy — Newly arrived people put into hot spot facilities previously proven inadequate for a reception centre / Aid needed for welcoming the Kurdish people from Moria; Many newly arrived people in the north of Greece / Volunteer needs, calls for help and action across Europe and more news
 
 
-![Photo: [Forum Lampedusa Solidale](https://www.facebook.com/ForumLampedusaSolidale/)](assets/a258790fb44c/1*j2Y7JPU999ilPp9GFESReA.jpeg)
+![Photo: [Forum Lampedusa Solidale](https://www.facebook.com/ForumLampedusaSolidale/)](../assets/a258790fb44c/1*j2Y7JPU999ilPp9GFESReA.jpeg)
 
 Photo: [Forum Lampedusa Solidale](https://www.facebook.com/ForumLampedusaSolidale/)
 
@@ -69,11 +69,11 @@ All the people who fled the camp are still at the temporary locations\. [Refugee
 [Because We Carry](https://www.facebook.com/Becausewecarry/?hc_ref=ARRWEAg2pAq3bGT8j2nQoHvLpwa9C-pLy2GjPlFlSpzOq1n3A37d6i8KC9H08h8jV_g&fref=nf) team is helping by providing pasteries and bananas, you can contact and support their efforts\.
 
 
-![](assets/a258790fb44c/1*N78D6CZuIz71IORr8-ecmA.jpeg)
+![](../assets/a258790fb44c/1*N78D6CZuIz71IORr8-ecmA.jpeg)
 
 
 
-![Photos: Pikpa](assets/a258790fb44c/1*2WMaDvBE2blK2qQfb6Cx3A.jpeg)
+![Photos: Pikpa](../assets/a258790fb44c/1*2WMaDvBE2blK2qQfb6Cx3A.jpeg)
 
 Photos: Pikpa
 
@@ -95,11 +95,11 @@ Photos: Pikpa
 پروگرام هفتگی ترجمان ها در شفاخانه های آتن 28\.05–01\.06
 
 
-![](assets/a258790fb44c/1*JbeL3H1LFoDi7rC18z-_XQ.png)
+![](../assets/a258790fb44c/1*JbeL3H1LFoDi7rC18z-_XQ.png)
 
 
 
-![Weekly schedule of the [Victoria Square Project](https://www.facebook.com/VictoriaSquareProject/)](assets/a258790fb44c/1*qsIA9MikY0txPErq7zgeKg.jpeg)
+![Weekly schedule of the [Victoria Square Project](https://www.facebook.com/VictoriaSquareProject/)](../assets/a258790fb44c/1*qsIA9MikY0txPErq7zgeKg.jpeg)
 
 Weekly schedule of the [Victoria Square Project](https://www.facebook.com/VictoriaSquareProject/)
 ### Northern Greece
@@ -133,11 +133,11 @@ Weekly schedule of the [Victoria Square Project](https://www.facebook.com/Victor
 
 
 
-![](assets/a258790fb44c/1*hueWPu5GmJcBNCsSOcO3Tw.jpeg)
+![](../assets/a258790fb44c/1*hueWPu5GmJcBNCsSOcO3Tw.jpeg)
 
 
 
-![photos: [DocMobile — Medical Help e\.V\.](https://www.facebook.com/docmobile.org/)](assets/a258790fb44c/1*w9zhDWlZIac0o8lKoYTQNQ.jpeg)
+![photos: [DocMobile — Medical Help e\.V\.](https://www.facebook.com/docmobile.org/)](../assets/a258790fb44c/1*w9zhDWlZIac0o8lKoYTQNQ.jpeg)
 
 photos: [DocMobile — Medical Help e\.V\.](https://www.facebook.com/docmobile.org/)
 
@@ -198,11 +198,11 @@ In general, the situation at the EU’s external and internal borders, as offici
 Once again, on Tuesday, May 29, more people will be deported to Afghanistan per Charter flight\! Spread the warning call in Farsi and Pashto to all who are potentially concerned:
 
 
-![](assets/a258790fb44c/1*SmK99feGzVqlLGlffZodfA.png)
+![](../assets/a258790fb44c/1*SmK99feGzVqlLGlffZodfA.png)
 
 
 
-![](assets/a258790fb44c/1*yPcZI_iZv7QjHpKe8nysJg.jpeg)
+![](../assets/a258790fb44c/1*yPcZI_iZv7QjHpKe8nysJg.jpeg)
 
 ### Austria doubles down on benefit cuts for foreigners
 
@@ -240,7 +240,7 @@ In these days [Eufemia\-Info&Legal Point](https://www.facebook.com/EufemiaVentim
 
 
 ![A psychological listening service activated in order to guide the foreign citizen to mental health services on the territory\.
-Preventing, recognising and treating adequately mental health problems in migrant subjects is particularly complex because there are linguistic, cultural and pattern differences in search for different aid depending on the population of belonging\. The aim is to provide a reception area aimed at taking into account psychological discomfort and the corresponding critical situations that it refers to, with subsequent sending of the person to the territorial service of competence\.](assets/a258790fb44c/1*QJG197BlUfhc8VaLKAA8kg.jpeg)
+Preventing, recognising and treating adequately mental health problems in migrant subjects is particularly complex because there are linguistic, cultural and pattern differences in search for different aid depending on the population of belonging\. The aim is to provide a reception area aimed at taking into account psychological discomfort and the corresponding critical situations that it refers to, with subsequent sending of the person to the territorial service of competence\.](../assets/a258790fb44c/1*QJG197BlUfhc8VaLKAA8kg.jpeg)
 
 A psychological listening service activated in order to guide the foreign citizen to mental health services on the territory\.
 Preventing, recognising and treating adequately mental health problems in migrant subjects is particularly complex because there are linguistic, cultural and pattern differences in search for different aid depending on the population of belonging\. The aim is to provide a reception area aimed at taking into account psychological discomfort and the corresponding critical situations that it refers to, with subsequent sending of the person to the territorial service of competence\.
@@ -262,7 +262,7 @@ Other events in the support and in solidarity with refugees are taking place:
 Britanny prepares aid to support l’Auberge des Migrants:
 
 
-![](assets/a258790fb44c/1*95YO_8QWa4T1bPyZdRH3zQ.jpeg)
+![](../assets/a258790fb44c/1*95YO_8QWa4T1bPyZdRH3zQ.jpeg)
 
 #### GERMANY
 ### All the ways Dublin separates people
@@ -270,7 +270,7 @@ Britanny prepares aid to support l’Auberge des Migrants:
 A pregnant mother and her 5 year old son are being deported back to Italy two days before the maternity protection begins and being separted from the father of the unborn child \(not of the 5 year old\) who will remain in the camp in Germany\. The judge ruled that under Dublin the father is no family relationship between the father and the unborn child\.
 
 
-![](assets/a258790fb44c/1*ywo3COrCp5FzaZQFtxqKlw.jpeg)
+![](../assets/a258790fb44c/1*ywo3COrCp5FzaZQFtxqKlw.jpeg)
 
 
 The mother is in detention now since 14/5, the deportation to Italy is scheduled for 30/5, the maternity protection by law would begin on 1/6 as the childbirth schedule is on 13/7\. From this day on, it would be forbidden to deport her\.

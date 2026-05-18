@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 31/3/21: A positive decision at the end of a case that never should have existed
+title: "AYS Daily Digest 31/3/21: A positive decision at the end of a case that never should have existed"
 author: Are You Syrious?
 date: 2021-04-01T18:10:57.314+0100
 last_modified_at: 2021-04-01T19:55:04.478+0100
@@ -7,20 +7,20 @@ categories: Are You Syrious?
 tags: [digest,human-rights,refugees,europe,migration]
 description: Herrou acquitted of charges / Will Greece really provide vaccination for everyone in camps? / Reloactions from Greece to Germany not a…
 image:
-  path: assets/a7d92727be82/1*QBiE-Ji9M-z2Z5ecxQr4iw.jpeg
+  path: ../assets/a7d92727be82/1*QBiE-Ji9M-z2Z5ecxQr4iw.jpeg
 ---
 
 ### AYS Daily Digest 31/3/21: A positive decision at the end of a case that never should have existed
 #### **Herrou** acquitted of charges **/ Will Greece really provide vaccination for everyone in camps? / Relocations from Greece to Germany not a solution for \(too\) many / Officials destroying the only remaining shelter over people’s heads in Calais area / Germany: A refugee support organization and a Catholic priest condemned deportations to Sri Lanka / recommended reads**
 
 
-![Artwork by [@obbalkan](https://twitter.com/obbalkan) via [@daphnetoli](https://twitter.com/daphnetoli)](assets/a7d92727be82/1*QBiE-Ji9M-z2Z5ecxQr4iw.jpeg)
+![Artwork by [@obbalkan](https://twitter.com/obbalkan) via [@daphnetoli](https://twitter.com/daphnetoli)](../assets/a7d92727be82/1*QBiE-Ji9M-z2Z5ecxQr4iw.jpeg)
 
 Artwork by [@obbalkan](https://twitter.com/obbalkan) via [@daphnetoli](https://twitter.com/daphnetoli)
 #### FEATURED — How acts of solidarity have become criminalized across Europe
 
 
-![Photo via [@StefSimanowitz](https://twitter.com/StefSimanowitz)](assets/a7d92727be82/0*kcDQIdRz1BN1PhM0)
+![Photo via [@StefSimanowitz](https://twitter.com/StefSimanowitz)](../assets/a7d92727be82/0*kcDQIdRz1BN1PhM0)
 
 Photo via [@StefSimanowitz](https://twitter.com/StefSimanowitz)
 
@@ -76,7 +76,7 @@ While the beneficiaries of international protection fall within the general popu
 ### Relocation update
 
 
-![Find the factsheet [here](http://bit.ly/3fxNdmO)](assets/a7d92727be82/0*D6X-dv46Lp6cz3l3)
+![Find the factsheet [here](http://bit.ly/3fxNdmO)](../assets/a7d92727be82/0*D6X-dv46Lp6cz3l3)
 
 Find the factsheet [here](http://bit.ly/3fxNdmO)
 
@@ -145,7 +145,7 @@ Watch the videos: [https://bit\.ly/AsylumVideos](https://t.co/5d1I8rz1Ta?amp=1)
 
 
 
-[![How To Cover A Refugee Camp In Europe | Reporters](assets/a7d92727be82/8d66_hqdefault.jpg "How To Cover A Refugee Camp In Europe | Reporters")](https://www.youtube.com/watch?v=NiLj19KsEmU)
+[![How To Cover A Refugee Camp In Europe | Reporters](../assets/a7d92727be82/8d66_hqdefault.jpg "How To Cover A Refugee Camp In Europe | Reporters")](https://www.youtube.com/watch?v=NiLj19KsEmU)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

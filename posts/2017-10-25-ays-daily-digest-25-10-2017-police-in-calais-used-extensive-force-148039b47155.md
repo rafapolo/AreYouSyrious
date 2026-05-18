@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 25/10/17: Police in Calais used extensive force
+title: "AYS Daily Digest 25/10/17: Police in Calais used extensive force"
 author: Are You Syrious?
 date: 2017-10-25T22:46:58.879+0100
 last_modified_at: 2017-10-28T10:24:50.279+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,serbia,calais,paris,france]
 description: Police in Calais routinely used chemical sprays on people and children in the Jungle / Police in Paris continue with intimidation / Number…
 image:
-  path: assets/148039b47155/1*Eyji5St0OeJmIyU-dXX4Ww.jpeg
+  path: ../assets/148039b47155/1*Eyji5St0OeJmIyU-dXX4Ww.jpeg
 ---
 
 ### AYS Daily Digest 25/10/17: Police in Calais used extensive force
@@ -15,7 +15,7 @@ image:
 _Police in Calais routinely used chemical sprays on people and children in the Jungle / Police in Paris continue with intimidation / Number of people in the streets of Paris and in Calais is growing every day / No more space in Moria prison / Vial on the verge of cholera / Most of the people currently in Serbia are from Iraq / And more news…_
 
 
-![Samos\. Photo No Borders\. \#opentheislands](assets/148039b47155/1*Eyji5St0OeJmIyU-dXX4Ww.jpeg)
+![Samos\. Photo No Borders\. \#opentheislands](../assets/148039b47155/1*Eyji5St0OeJmIyU-dXX4Ww.jpeg)
 
 Samos\. Photo No Borders\. \#opentheislands
 ### \#OpenTheIslands — no more dead from cold\!
@@ -30,7 +30,7 @@ Investigations found that most of the abuses were committed by the French riot p
 While this report was presented to the public in Paris, volunteers in the field encountered similar patterns in police attitude\. [Sarah Fenby Dixon](https://www.facebook.com/sarah.fenbydixon.1?hc_ref=ARQJvna2BNaJRoSa0jN4dnxb2ggzDsOAUa9LAgj31oiWihfmzFIIauB6tgjSKO965Sw) writes on her Facebook page that, while the number of people in the streets increases every day, police force them to run and hide\.
 
 
-![Paris\. Phoot by [**Sarah Fenby\-dixon**](https://www.facebook.com/sarah.fenbydixon.1?hc_ref=ARTQ1ihV_ypZg0EZH7CE2Ec4cKBqgq4omTOWqA3VG060ryIPzrjdtUeg5sonuzWsZyw)](assets/148039b47155/1*09BiFCfmi1lT21hbKc8jbg.jpeg)
+![Paris\. Phoot by [**Sarah Fenby\-dixon**](https://www.facebook.com/sarah.fenbydixon.1?hc_ref=ARTQ1ihV_ypZg0EZH7CE2Ec4cKBqgq4omTOWqA3VG060ryIPzrjdtUeg5sonuzWsZyw)](../assets/148039b47155/1*09BiFCfmi1lT21hbKc8jbg.jpeg)
 
 Paris\. Phoot by [**Sarah Fenby\-dixon**](https://www.facebook.com/sarah.fenbydixon.1?hc_ref=ARTQ1ihV_ypZg0EZH7CE2Ec4cKBqgq4omTOWqA3VG060ryIPzrjdtUeg5sonuzWsZyw)
 
@@ -57,7 +57,7 @@ We hope that another investigation by the authorities will be conducted to exami
 It has been 6 days since the beginning of the protest in Mytilini, Lesvos and many people are still sleeping out in the open in the main square\.
 
 
-![Photo by Arash Humpay\.](assets/148039b47155/1*7NLjMyAukd5AHHG5ZQ56hA.jpeg)
+![Photo by Arash Humpay\.](../assets/148039b47155/1*7NLjMyAukd5AHHG5ZQ56hA.jpeg)
 
 Photo by Arash Humpay\.
 
@@ -78,7 +78,7 @@ Horror like conditions on islands are getting even worse\. The rain that started
 This is the video we recived from residents of the camp in Samos:
 
 
-[![video 1508883487](assets/148039b47155/d1f2_hqdefault.jpg "video 1508883487")](http://www.youtube.com/watch?v=k2gFmxnGhAs)
+[![video 1508883487](../assets/148039b47155/d1f2_hqdefault.jpg "video 1508883487")](http://www.youtube.com/watch?v=k2gFmxnGhAs)
 
 
 At the same time, MSF report that for months on Lesvos, they have treated 6 or 7 people a week following suicide attempts, self\-harm or psychotic episodes\.
@@ -108,7 +108,7 @@ From the Vial camp on Chios, there are alarming reports about the possibility of
 
 
 
-![\#opentheislands](assets/148039b47155/1*5M0Q68yzMbOsCg8BSvOxIA.jpeg)
+![\#opentheislands](../assets/148039b47155/1*5M0Q68yzMbOsCg8BSvOxIA.jpeg)
 
 \#opentheislands
 
@@ -144,7 +144,7 @@ The Accompaniment Service can be offered either physically or on\-call\. For mor
 Over 100 people found a shelter in abandoned buildings around the Šid area\. The scenes from Šid are similar to what we have witnessed last year in Belgrade barracks\. Volunteers in the field have been able to construct wood stoves with recycled materials so that people can use them\.
 
 
-![Photo by No Name Kitchen\.](assets/148039b47155/1*sfrvzck3y4HinVxwj6nhwg.jpeg)
+![Photo by No Name Kitchen\.](../assets/148039b47155/1*sfrvzck3y4HinVxwj6nhwg.jpeg)
 
 Photo by No Name Kitchen\.
 
@@ -174,11 +174,11 @@ Germany resumed deportations of rejected asylum seekers from Afghanistan last mo
 [Solidarithé](https://www.facebook.com/solidarithe/?hc_ref=ARSVCj5N4kA6WPGRxmpi1zIziFtw21yVV8v_QCedGKMCFLqB2c_p0HPhZ2WI7X4NW9s) put together maps of showers in Paris available to people sleeping on the streets\!
 
 
-![](assets/148039b47155/1*Of0Tu7kQ1RCEfy632KgZsQ.jpeg)
+![](../assets/148039b47155/1*Of0Tu7kQ1RCEfy632KgZsQ.jpeg)
 
 
 
-![](assets/148039b47155/1*SdtegBBmO5puYj2mpjGK4Q.png)
+![](../assets/148039b47155/1*SdtegBBmO5puYj2mpjGK4Q.png)
 
 
 Their maps are going into the Hygiene Packs that Sciences Po Refugee Help puts together and distribute\.They are also collecting clean boxers, socks, and gloves\.
@@ -193,7 +193,7 @@ Their maps are going into the Hygiene Packs that Sciences Po Refugee Help puts t
 The crisis in Calais is not over\. We are facing a harsh winter where refugees here are more exposed than ever before\. Please help us help them by [donating here](http://bit.ly/calaisdunkirkfunds) \.
 
 
-![](assets/148039b47155/1*um5eh9XRKOHtwATV-pD8Mg.png)
+![](../assets/148039b47155/1*um5eh9XRKOHtwATV-pD8Mg.png)
 
 
 Alternatively, please send sleeping bags, thermal gloves, small and medium waterproof men’s jackets and men’s joggers \(email [calaisdonations@gmail\.com](mailto:calaisdonations@gmail.com) \), or [order them for us through Leisure Fayre](https://www.leisurefayre.com/section.…/86100/1/help_refugees) \.

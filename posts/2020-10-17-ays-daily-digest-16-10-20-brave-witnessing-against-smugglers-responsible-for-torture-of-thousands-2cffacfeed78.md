@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 16/10/20: Brave witnessing against smugglers responsible for torture of thousands
+title: "AYS Daily Digest 16/10/20: Brave witnessing against smugglers responsible for torture of thousands"
 author: Are You Syrious?
 date: 2020-10-17T17:31:56.541+0100
 last_modified_at: 2020-10-17T18:24:35.496+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,migration,refugees,libya,human-rights]
 description: Stored like cargo in compounds, starved, sometimes tortured to death — new testimonies in a trial to smuggler / Calls for an independent…
 image:
-  path: assets/2cffacfeed78/0*UeqE23atMtWZSn_m
+  path: ../assets/2cffacfeed78/0*UeqE23atMtWZSn_m
 ---
 
 ### AYS Daily Digest 16/10/20: Brave witnessing against smugglers responsible for torture of thousands
 #### **Stored like cargo in compounds, starved, sometimes tortured to death — new testimonies in a trial to smuggler /** Calls for an independent investigation on a case of a minor / Denmark wants to take in people from Moria / Recommended reads & more news
 
 
-![Back in court this afternoon to hear from the next five witnesses against Welid & his co\-defendant\. \(Photo and reporting on the case by: [Sally Hayden](https://twitter.com/sallyhayd) \)](assets/2cffacfeed78/0*UeqE23atMtWZSn_m)
+![Back in court this afternoon to hear from the next five witnesses against Welid & his co\-defendant\. \(Photo and reporting on the case by: [Sally Hayden](https://twitter.com/sallyhayd) \)](../assets/2cffacfeed78/0*UeqE23atMtWZSn_m)
 
 Back in court this afternoon to hear from the next five witnesses against Welid & his co\-defendant\. \(Photo and reporting on the case by: [Sally Hayden](https://twitter.com/sallyhayd) \)
 #### FEATURED
@@ -36,7 +36,7 @@ _“In Khartoum, I went to an Eritrean called Zeki\. I paid 1,600 USD from Khart
 The journalist Sally Hayden is following the case of one of the most notorious smuggler/traffickers and she has been reporting from Addis Ababa Federal Court, as she watched brave victims testify against [infamous smugglers](https://www.irishtimes.com/news/world/africa/inside-the-smuggler-s-warehouse-africa-s-21st-century-slave-trade-1.4224073) Welid & Kidane, “who terrorised refugees/migrants in Libya\. Both were present, dressed in orange prison uniforms and later led away in handcuffs\.”
 
 
-![](assets/2cffacfeed78/0*n8hVAP230qGah3le)
+![](../assets/2cffacfeed78/0*n8hVAP230qGah3le)
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 15/4/19: Locked and detained in the midst of fights in Libya
+title: "AYS Daily Digest 15/4/19: Locked and detained in the midst of fights in Libya"
 author: Are You Syrious?
 date: 2019-04-16T20:56:23.789+0100
 last_modified_at: 2019-04-16T20:56:23.789+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [human-rights,europe,libya,digest,refugees]
 description: People still detained in centres just next to the armed fights in Libya // People stopped from disembarking in Morocco // After the…
 image:
-  path: assets/4ebbfd25ae20/1*HE1L-jmTrh4O4FAr4LlfhA.jpeg
+  path: ../assets/4ebbfd25ae20/1*HE1L-jmTrh4O4FAr4LlfhA.jpeg
 ---
 
 ### AYS Daily Digest 15/4/19: Locked and detained in the midst of fights in Libya
 #### People still detained in centres just next to the armed fights in Libya // People stopped from disembarking in Morocco // After the evictions in Athens // Spain denies SAR teams to deliver aid to Lesvos // & more updates
 
 
-![Photo credits: [Sally Hayden](https://twitter.com/sallyhayd) Twitter account](assets/4ebbfd25ae20/1*HE1L-jmTrh4O4FAr4LlfhA.jpeg)
+![Photo credits: [Sally Hayden](https://twitter.com/sallyhayd) Twitter account](../assets/4ebbfd25ae20/1*HE1L-jmTrh4O4FAr4LlfhA.jpeg)
 
 Photo credits: [Sally Hayden](https://twitter.com/sallyhayd) Twitter account
 #### FEATURE
@@ -53,7 +53,7 @@ More than 150 people, reportedly of Sub\-Saharan origin, have been stopped on th
 AMDH is reortedly collecting information on the role of the local coast guard, as well as that of the Spanish and Frontex teams\.
 
 
-![Photo: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?__xts__%5B0%5D=68.ARAD_H0d6coF_3hkLlWgqHegC69rD42-6YxZoyy_0BNusxwBRcIfZyio5eSXr3-fu-S4VTZwBoRjvazXGXbKKPe7HMZA7OC7Uo1KVwObuGD4k-_X6IotEYVPZ2d1nyi9Z-OgrDVXXpEpRSNMUluCrySW1vzlJATzpb0yiNXttG5Ig32BjOEFIZPw82s9B9hFpPsi7TutDeEiYklw6dxG6UHV5gQVNPnfXIkHFjvYRS-QSEmpVUcZQFWza9nNtjwpBmguNZT5EcRz5J_O0Ym8QTo5e1FO4tKOwbtVCGS2FuK0_cBZFiCZGv0CfszMERk_36S4UPIr1J5thLQDNm48LBOfFC71Yb7g8zsZ-uOl-n8aJbf5kXcXQSZMhA&__tn__=k%2AF&tn-str=k%2AF)](assets/4ebbfd25ae20/1*zz_on2SyZZ_6PciqTKbclg.jpeg)
+![Photo: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?__xts__%5B0%5D=68.ARAD_H0d6coF_3hkLlWgqHegC69rD42-6YxZoyy_0BNusxwBRcIfZyio5eSXr3-fu-S4VTZwBoRjvazXGXbKKPe7HMZA7OC7Uo1KVwObuGD4k-_X6IotEYVPZ2d1nyi9Z-OgrDVXXpEpRSNMUluCrySW1vzlJATzpb0yiNXttG5Ig32BjOEFIZPw82s9B9hFpPsi7TutDeEiYklw6dxG6UHV5gQVNPnfXIkHFjvYRS-QSEmpVUcZQFWza9nNtjwpBmguNZT5EcRz5J_O0Ym8QTo5e1FO4tKOwbtVCGS2FuK0_cBZFiCZGv0CfszMERk_36S4UPIr1J5thLQDNm48LBOfFC71Yb7g8zsZ-uOl-n8aJbf5kXcXQSZMhA&__tn__=k%2AF&tn-str=k%2AF)](../assets/4ebbfd25ae20/1*zz_on2SyZZ_6PciqTKbclg.jpeg)
 
 Photo: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?__xts__%5B0%5D=68.ARAD_H0d6coF_3hkLlWgqHegC69rD42-6YxZoyy_0BNusxwBRcIfZyio5eSXr3-fu-S4VTZwBoRjvazXGXbKKPe7HMZA7OC7Uo1KVwObuGD4k-_X6IotEYVPZ2d1nyi9Z-OgrDVXXpEpRSNMUluCrySW1vzlJATzpb0yiNXttG5Ig32BjOEFIZPw82s9B9hFpPsi7TutDeEiYklw6dxG6UHV5gQVNPnfXIkHFjvYRS-QSEmpVUcZQFWza9nNtjwpBmguNZT5EcRz5J_O0Ym8QTo5e1FO4tKOwbtVCGS2FuK0_cBZFiCZGv0CfszMERk_36S4UPIr1J5thLQDNm48LBOfFC71Yb7g8zsZ-uOl-n8aJbf5kXcXQSZMhA&__tn__=k%2AF&tn-str=k%2AF)
 #### SEA
@@ -94,7 +94,7 @@ A boat landed on Chios on early Monday morning with 25 people on board:
 6 children, 11 women and 8 men\. Here is the overall statistics of arrivals in the previous week:
 
 
-![](assets/4ebbfd25ae20/1*fDr6nPDQeM5-7xG9uKJF_w.jpeg)
+![](../assets/4ebbfd25ae20/1*fDr6nPDQeM5-7xG9uKJF_w.jpeg)
 
 ### Samos
 
@@ -103,7 +103,7 @@ In their recent report of March this year, the UN reminded us of the culmination
 ### Athens
 
 
-![Photo: [Azadi Squat Athens](https://www.facebook.com/AzadiSquatAthens/?__xts__%5B0%5D=68.ARCxTsi38dovOPaQvFPnDl6q1uyv02KeKqvohuEDzYepRq1ZyNvTHo4Nr-6Z5TfzeUsZl2z0n7Pc2wEl46olYzrwglcskAxGGetVRd0YmEFdFgaIyZH5uwon6S6bXAOGxUN1g_AzGSFgobBTbAsFa4SZS7xGZIF2TShUIkeZ7pXVYmIGwm3XslWkxNjbT08m6akuT2yiCydRUUHJtNjvxf3ulVx6HjwdGIkzWg4VRNMLyANu2fZXdGn2D2DQGkHJrfAAC0Zg2I0iAI36ZGImvKMpV92GnXlUF_vG-IHDngJLr07CFhQ1wUHH5HzMvyks3payfBhVv5uxFfTuw4rwXFDlCv5b6Px8U6MeBHKywB_ATha-VaBXQr41NA&__tn__=k%2AF&tn-str=k%2AF)](assets/4ebbfd25ae20/1*fDr6nPDQeM5-7xG9uKJF_w.jpeg)
+![Photo: [Azadi Squat Athens](https://www.facebook.com/AzadiSquatAthens/?__xts__%5B0%5D=68.ARCxTsi38dovOPaQvFPnDl6q1uyv02KeKqvohuEDzYepRq1ZyNvTHo4Nr-6Z5TfzeUsZl2z0n7Pc2wEl46olYzrwglcskAxGGetVRd0YmEFdFgaIyZH5uwon6S6bXAOGxUN1g_AzGSFgobBTbAsFa4SZS7xGZIF2TShUIkeZ7pXVYmIGwm3XslWkxNjbT08m6akuT2yiCydRUUHJtNjvxf3ulVx6HjwdGIkzWg4VRNMLyANu2fZXdGn2D2DQGkHJrfAAC0Zg2I0iAI36ZGImvKMpV92GnXlUF_vG-IHDngJLr07CFhQ1wUHH5HzMvyks3payfBhVv5uxFfTuw4rwXFDlCv5b6Px8U6MeBHKywB_ATha-VaBXQr41NA&__tn__=k%2AF&tn-str=k%2AF)](../assets/4ebbfd25ae20/1*fDr6nPDQeM5-7xG9uKJF_w.jpeg)
 
 Photo: [Azadi Squat Athens](https://www.facebook.com/AzadiSquatAthens/?__xts__%5B0%5D=68.ARCxTsi38dovOPaQvFPnDl6q1uyv02KeKqvohuEDzYepRq1ZyNvTHo4Nr-6Z5TfzeUsZl2z0n7Pc2wEl46olYzrwglcskAxGGetVRd0YmEFdFgaIyZH5uwon6S6bXAOGxUN1g_AzGSFgobBTbAsFa4SZS7xGZIF2TShUIkeZ7pXVYmIGwm3XslWkxNjbT08m6akuT2yiCydRUUHJtNjvxf3ulVx6HjwdGIkzWg4VRNMLyANu2fZXdGn2D2DQGkHJrfAAC0Zg2I0iAI36ZGImvKMpV92GnXlUF_vG-IHDngJLr07CFhQ1wUHH5HzMvyks3payfBhVv5uxFfTuw4rwXFDlCv5b6Px8U6MeBHKywB_ATha-VaBXQr41NA&__tn__=k%2AF&tn-str=k%2AF)
 
@@ -114,11 +114,11 @@ Their only possessions were now taken away by the city company in charge of coll
 Some of the residents who had no documents or regulated stay in the country were transferred to Amygdaleza Detention Camp, which is a close by camp with bad conditions\. They are now being provided with some aid in there by those outside the camp, while the others have been left homeless and have received solidarity and help from Pampiraiki, Our House and the 5th School Squat\.
 
 
-![](assets/4ebbfd25ae20/1*cBwhBZt9_6TEYAqyxF_EIg.jpeg)
+![](../assets/4ebbfd25ae20/1*cBwhBZt9_6TEYAqyxF_EIg.jpeg)
 
 
 
-![Photos: [Refugee Accommodation and Solidarity Space City Plaza](https://www.facebook.com/sol2refugeesen/?tn-str=k%2AF)](assets/4ebbfd25ae20/1*cBwhBZt9_6TEYAqyxF_EIg.jpeg)
+![Photos: [Refugee Accommodation and Solidarity Space City Plaza](https://www.facebook.com/sol2refugeesen/?tn-str=k%2AF)](../assets/4ebbfd25ae20/1*cBwhBZt9_6TEYAqyxF_EIg.jpeg)
 
 Photos: [Refugee Accommodation and Solidarity Space City Plaza](https://www.facebook.com/sol2refugeesen/?tn-str=k%2AF)
 #### SERBIA
@@ -142,11 +142,11 @@ Ask for legal advice\. If you can be deported: please don’t stay where there a
 40–50 people were evicted by the Parisian police, a volunteer team of [Rastplatz](https://www.facebook.com/rastplatz/?tn-str=k%2AF&hc_location=group_dialog) witnessed\. As they did not receive any alternative for where to go, tents were put up in a place that surely awaits the same action — it is only a question of time\. A sustainable solution should be found for people in this situation\.
 
 
-![](assets/4ebbfd25ae20/1*Gbw0pOZj-ZN3iNMUK3HHug.jpeg)
+![](../assets/4ebbfd25ae20/1*Gbw0pOZj-ZN3iNMUK3HHug.jpeg)
 
 
 
-![Photos: [Rastplatz](https://www.facebook.com/rastplatz/?tn-str=k%2AF&hc_location=group_dialog)](assets/4ebbfd25ae20/1*Gbw0pOZj-ZN3iNMUK3HHug.jpeg)
+![Photos: [Rastplatz](https://www.facebook.com/rastplatz/?tn-str=k%2AF&hc_location=group_dialog)](../assets/4ebbfd25ae20/1*Gbw0pOZj-ZN3iNMUK3HHug.jpeg)
 
 Photos: [Rastplatz](https://www.facebook.com/rastplatz/?tn-str=k%2AF&hc_location=group_dialog)
 #### SPAIN
@@ -160,7 +160,7 @@ On Saturday afternoon the Aita Mari rescue ship was heading to Lesvos with medic
 They had previously obtained a permission in Portugal to transport humanitarian aid \(medical materials, milk powder for babies and other basic hygiene products\) to the registration camps on Lesvos and the Spanish authorities have been informed\. However, they were still not allowed to help, even in this way\. All the SAR teams \( [Sea\-Watch](https://www.facebook.com/seawatchprojekt/?__tn__=%2CdK%2AF-R&eid=ARD8BAndzeifXX4GBaGq45jm461mCKcgy65Vd1wyJnYOu8oHAoEETeNapJXKIZYgJs9fE41tGMtkx7CG&hc_location=group_dialog) [Seebrücke Berlin](https://www.facebook.com/SeebrueckeBerlin/?__tn__=%2CdK%2AF-R&eid=ARBl5tGODtE074IA0ic5wJNmX-f8nIlLaGaquPJJVzSFUzrQHxgDnVr_OtYZ2NR9TdqPlCy1A8i6DXkZ&hc_location=group_dialog) [sea\-eye](https://www.facebook.com/seaeyeorg/?__tn__=%2CdK%2AF-R&eid=ARACZjvy4l7MYT-dDtdsyJRv7Qgens4KEMR4KFPRDBCt4KdVlpGUYISVnXjBpfSOb0_4mODvq658AHpJ&hc_location=group_dialog) [LIFELINE](https://www.facebook.com/seenotrettung/?__tn__=%2CdK%2AF-R&eid=ARB4fMWSyWq3nsO6q-Zaci6tXlVF5x4FVboqO6cQOm9i54Bo0hMhMQa3yZm6B677TLaeVlBjggCZXSny&hc_location=group_dialog) [RESQSHIP](https://www.facebook.com/resqship/?__tn__=%2CdK%2AF-R&eid=ARB66b7gjM1fd9Li5WbKPIcfoHthyNL_KN88Qsq6hFXW-d7zqm_U-IWuPROOyIKDhEQVJTOZWV7VEYVu&hc_location=group_dialog) \) oppose such restrictions in doing what they know and have means to do, in order to help fellow human beings\.
 
 
-![](assets/4ebbfd25ae20/1*WTwMoFag7L7OjNAex2AC_Q.jpeg)
+![](../assets/4ebbfd25ae20/1*WTwMoFag7L7OjNAex2AC_Q.jpeg)
 
 
 **Apart from daily news in English, we also publish weekly summaries in Arabic and Persian\. Find specials in both languages on our medium site\.**

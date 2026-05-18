@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 10/7/20: If those who drown were white, there would be action!
+title: "AYS Daily Digest 10/7/20: If those who drown were white, there would be action!"
 author: Are You Syrious?
 date: 2020-07-11T11:51:52.162+0100
 last_modified_at: 2020-07-11T14:56:06.339+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,migrants,refugees,asylum-seekers,europe]
 description: The deadly border in the Aegean Sea // Updates from protests in Kos // Commission Ursula von der Leyen accused of siding with Greece over…
 image:
-  path: assets/cd46f965134f/1*7Htjz3b2RFsC_x6IJPu4GA.jpeg
+  path: ../assets/cd46f965134f/1*7Htjz3b2RFsC_x6IJPu4GA.jpeg
 ---
 
 ### AYS Daily Digest 10/7/20: “If those who drown were white, there would be action\!”
@@ -15,7 +15,7 @@ image:
 The deadly border in the Aegean Sea // Updates from protests in Kos // Commission Ursula von der Leyen accused of siding with Greece over migrant shootings // Evictions in Calais // Death at the Saint\-Denis Canal in Paris
 
 
-![Life jackets left on Lesvos\. Photo by [Jim Black](https://www.dezeen.com/2020/02/10/greece-floating-sea-border-wall-news/)](assets/cd46f965134f/1*7Htjz3b2RFsC_x6IJPu4GA.jpeg)
+![Life jackets left on Lesvos\. Photo by [Jim Black](https://www.dezeen.com/2020/02/10/greece-floating-sea-border-wall-news/)](../assets/cd46f965134f/1*7Htjz3b2RFsC_x6IJPu4GA.jpeg)
 
 Life jackets left on Lesvos\. Photo by [Jim Black](https://www.dezeen.com/2020/02/10/greece-floating-sea-border-wall-news/)
 ### Feature

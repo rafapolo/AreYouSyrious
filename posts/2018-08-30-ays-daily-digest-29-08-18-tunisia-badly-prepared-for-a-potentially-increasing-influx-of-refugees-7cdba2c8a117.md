@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 29/08/18: Tunisia badly prepared for a potentially increasing influx of refugees…
+title: "AYS Daily Digest 29/08/18: Tunisia badly prepared for a potentially increasing influx of refugees…"
 author: Are You Syrious?
 date: 2018-08-30T10:15:17.281+0100
 last_modified_at: 2018-08-30T19:21:29.633+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,greece,digest,italy,eu]
 description: Illegal push-backs increases in Greece / Iraq is in the media shade but the humanitarian needs are still big / Families arriving in…
 image:
-  path: assets/7cdba2c8a117/1*prGfQHF-RiUv0uSHZhoomg.jpeg
+  path: ../assets/7cdba2c8a117/1*prGfQHF-RiUv0uSHZhoomg.jpeg
 ---
 
 ### AYS Daily Digest 29/08/18: Tunisia badly prepared for a potentially increasing influx of refugees transiting through the country
 #### Illegal push\-backs increases in Greece / Iraq is in the media shade but the humanitarian needs are still big / Families arriving in Thessaloniki / German police accused of having ties to right\-wing protesters in Chemnitz / The debate is getting harsher in Sweden / Warehouse storing things for 800 people burnt down in Dunkirk, France / The situation in Sarajevo continuously bad / And more news from the field…
 
 
-![Illustration: [Dino — cartoonist / illustrator](https://www.facebook.com/dinoillustrations/?hc_ref=ARQt3QB1i9VWwJiiKAZqmhog_tdRkQLqpAqlC6caiNzW2y3Exd1Urb91cWGd40f3lJw&fref=nf&__xts__%5B0%5D=68.ARBeyOKiuaZrmGoOyQMlHjnUOaB33bqSlDYXtJimYa7RIBCLtlGhjQlQD_U19hevSNefxAiHtR-M0DlAGzLRsemeUL4YTEZxlV_d95faJlzk_rca76Sm3R7LubYv-lm9o92cuzc&__tn__=kC-R) , via [Art Against](https://www.facebook.com/profile.php?id=639605726088865&ref=br_rs)](assets/7cdba2c8a117/1*prGfQHF-RiUv0uSHZhoomg.jpeg)
+![Illustration: [Dino — cartoonist / illustrator](https://www.facebook.com/dinoillustrations/?hc_ref=ARQt3QB1i9VWwJiiKAZqmhog_tdRkQLqpAqlC6caiNzW2y3Exd1Urb91cWGd40f3lJw&fref=nf&__xts__%5B0%5D=68.ARBeyOKiuaZrmGoOyQMlHjnUOaB33bqSlDYXtJimYa7RIBCLtlGhjQlQD_U19hevSNefxAiHtR-M0DlAGzLRsemeUL4YTEZxlV_d95faJlzk_rca76Sm3R7LubYv-lm9o92cuzc&__tn__=kC-R) , via [Art Against](https://www.facebook.com/profile.php?id=639605726088865&ref=br_rs)](../assets/7cdba2c8a117/1*prGfQHF-RiUv0uSHZhoomg.jpeg)
 
 Illustration: [Dino — cartoonist / illustrator](https://www.facebook.com/dinoillustrations/?hc_ref=ARQt3QB1i9VWwJiiKAZqmhog_tdRkQLqpAqlC6caiNzW2y3Exd1Urb91cWGd40f3lJw&fref=nf&__xts__%5B0%5D=68.ARBeyOKiuaZrmGoOyQMlHjnUOaB33bqSlDYXtJimYa7RIBCLtlGhjQlQD_U19hevSNefxAiHtR-M0DlAGzLRsemeUL4YTEZxlV_d95faJlzk_rca76Sm3R7LubYv-lm9o92cuzc&__tn__=kC-R) , via [Art Against](https://www.facebook.com/profile.php?id=639605726088865&ref=br_rs)
 ### FEATURE: More people flee Tunisia now than in 2011
@@ -84,7 +84,7 @@ Read the thread in the comments for more details on the conditions\.
 More and more people are entering Greece through the land border with Turkey\. At the same time, the reports about illegal push\-backs and violence are becoming more and more common\. InfoMigrants received a video from the Kurdish journalist Hiwa Dartas and his wife Danaz, who came to Greece from Northern Iraq\. Dartas and his wife say they are victims from one of those incidents and were detained in a small cell together with more than 50 other people\. In accordance with this information, [Watch The Med — Alarmphone](https://www.facebook.com/watchthemed.alarmphone/?hc_ref=ARRXsU5mxsfgPbIwn8_bLJxj0pfQZ1SQBDg2xrI9oPIJDPvuoe2RNzcz09vExAwJNHQ&fref=nf&__xts__%5B0%5D=68.ARAm5Gy-dC0L9vKsqetok6qPIr1DGw8eQp38MRPmqzW_QB9x8V3m6jLierE3emNCjlaVpSb06SVAMDHCPuHiNxGWh5Uc8l23Kl3xeJRyCSv050-IPUR2NGGJ3X6cAza_QCTM1HA&__tn__=kC-R) , reported about a group of people coming this way\. They were not pushed back though, and arrived via the Evros river, where they said they saw a dead body\. [More information here\.](https://www.facebook.com/watchthemed.alarmphone/photos/a.1526182797655958/2208573609416870/?type=3&theater)
 
 
-![Photo: [Watch The Med — Alarmphone](https://www.facebook.com/watchthemed.alarmphone/?hc_ref=ARRXsU5mxsfgPbIwn8_bLJxj0pfQZ1SQBDg2xrI9oPIJDPvuoe2RNzcz09vExAwJNHQ&fref=nf&__xts__%5B0%5D=68.ARAm5Gy-dC0L9vKsqetok6qPIr1DGw8eQp38MRPmqzW_QB9x8V3m6jLierE3emNCjlaVpSb06SVAMDHCPuHiNxGWh5Uc8l23Kl3xeJRyCSv050-IPUR2NGGJ3X6cAza_QCTM1HA&__tn__=kC-R)](assets/7cdba2c8a117/1*jwSdzVp3ZS2mgIy6xIguUA.jpeg)
+![Photo: [Watch The Med — Alarmphone](https://www.facebook.com/watchthemed.alarmphone/?hc_ref=ARRXsU5mxsfgPbIwn8_bLJxj0pfQZ1SQBDg2xrI9oPIJDPvuoe2RNzcz09vExAwJNHQ&fref=nf&__xts__%5B0%5D=68.ARAm5Gy-dC0L9vKsqetok6qPIr1DGw8eQp38MRPmqzW_QB9x8V3m6jLierE3emNCjlaVpSb06SVAMDHCPuHiNxGWh5Uc8l23Kl3xeJRyCSv050-IPUR2NGGJ3X6cAza_QCTM1HA&__tn__=kC-R)](../assets/7cdba2c8a117/1*jwSdzVp3ZS2mgIy6xIguUA.jpeg)
 
 Photo: [Watch The Med — Alarmphone](https://www.facebook.com/watchthemed.alarmphone/?hc_ref=ARRXsU5mxsfgPbIwn8_bLJxj0pfQZ1SQBDg2xrI9oPIJDPvuoe2RNzcz09vExAwJNHQ&fref=nf&__xts__%5B0%5D=68.ARAm5Gy-dC0L9vKsqetok6qPIr1DGw8eQp38MRPmqzW_QB9x8V3m6jLierE3emNCjlaVpSb06SVAMDHCPuHiNxGWh5Uc8l23Kl3xeJRyCSv050-IPUR2NGGJ3X6cAza_QCTM1HA&__tn__=kC-R)
 
@@ -111,7 +111,7 @@ If you or someone you know have been pushed back, get in touch with Mobile Info 
 Almost 150 residents are living in Koutchero camp in Northern Greece now, [**InterVolve**](https://www.facebook.com/InterVolve/?hc_ref=ARQLJOKtVNIlapVTqCA5QROxI_80Ye3-69TZdlq6xAMuOGYaDFzO1Gkht5CMXoYiCDM&fref=nf&__xts__%5B0%5D=68.ARABjldNPMo6Sdj2i9r6_p4fEGlOjPhxpPdzwn1QTjVg-6nUVKqmz4_y98aI-3RN7rzoDnHFUxG4dzQj9fSKnBfHJSQI4ECp9i0qi-dhek6ER9aAc3EOKsBu3j342jJMcGGek8E&__tn__=kC-R) reports\. The past week more than 300 people arrived, many of them families including small children\.
 
 
-![Photo: [InterVolve](https://www.facebook.com/InterVolve/photos/a.256091268062602/695543554117369/?type=3&theater&__xts__[0]=68.ARCBYsNtc2YCWzprblMRBKQz5cn6JXSInD70WPjh8fi-aRrmfWhyVHnHQ5InyalnlHritED_skMFxvNtYq-UGS-xoTTas9lLmgvciTD4IJGT-9RO5j622c3WPXsBe_JjHWojD-ExQ0w6NcxbFOFzFcmN4WhzL4i7_sEZrhJdDZh-c6oHTG2C9Q&__tn__=-UK-R)](assets/7cdba2c8a117/1*Fqf4g06C9WWOszR2CVIbLw.jpeg)
+![Photo: [InterVolve](https://www.facebook.com/InterVolve/photos/a.256091268062602/695543554117369/?type=3&theater&__xts__[0]=68.ARCBYsNtc2YCWzprblMRBKQz5cn6JXSInD70WPjh8fi-aRrmfWhyVHnHQ5InyalnlHritED_skMFxvNtYq-UGS-xoTTas9lLmgvciTD4IJGT-9RO5j622c3WPXsBe_JjHWojD-ExQ0w6NcxbFOFzFcmN4WhzL4i7_sEZrhJdDZh-c6oHTG2C9Q&__tn__=-UK-R)](../assets/7cdba2c8a117/1*Fqf4g06C9WWOszR2CVIbLw.jpeg)
 
 Photo: [InterVolve](https://www.facebook.com/InterVolve/photos/a.256091268062602/695543554117369/?type=3&theater&__xts__[0]=68.ARCBYsNtc2YCWzprblMRBKQz5cn6JXSInD70WPjh8fi-aRrmfWhyVHnHQ5InyalnlHritED_skMFxvNtYq-UGS-xoTTas9lLmgvciTD4IJGT-9RO5j622c3WPXsBe_JjHWojD-ExQ0w6NcxbFOFzFcmN4WhzL4i7_sEZrhJdDZh-c6oHTG2C9Q&__tn__=-UK-R)
 #### Athens
@@ -140,11 +140,11 @@ Another boat was stopped by the Turkish Coast Guard \(TCC\), no number yet\. Als
 Additionally a boat carrying 100 people was found\.
 
 
-![](assets/7cdba2c8a117/1*9Kc3NA2ZokmP3khzBl2CvQ.jpeg)
+![](../assets/7cdba2c8a117/1*9Kc3NA2ZokmP3khzBl2CvQ.jpeg)
 
 
 
-![Photo: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?hc_ref=ARRkTmY4FHwJVKw6zrGQtqvg_tL72MEy-txokrwQfKcNMddV6eXzQVFjoPI8_O5Zwes&fref=nf&__xts__%5B0%5D=68.ARAUYlJXXY6xNdyqRN82CnsU5qhiGY7bhMReb0RBKCEnaspHFSJiOeLdSp0OR_N2bMEVbsRnUEj-IMQo_CAR9RLOtIN8ksNs6SwbK0bAJ3lkpqlTq7pnu5S1p14fn8JAFnQakLw&__tn__=kC-R)](assets/7cdba2c8a117/1*pnu5T40yrVEoF1DUQXXpkQ.jpeg)
+![Photo: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?hc_ref=ARRkTmY4FHwJVKw6zrGQtqvg_tL72MEy-txokrwQfKcNMddV6eXzQVFjoPI8_O5Zwes&fref=nf&__xts__%5B0%5D=68.ARAUYlJXXY6xNdyqRN82CnsU5qhiGY7bhMReb0RBKCEnaspHFSJiOeLdSp0OR_N2bMEVbsRnUEj-IMQo_CAR9RLOtIN8ksNs6SwbK0bAJ3lkpqlTq7pnu5S1p14fn8JAFnQakLw&__tn__=kC-R)](../assets/7cdba2c8a117/1*pnu5T40yrVEoF1DUQXXpkQ.jpeg)
 
 Photo: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?hc_ref=ARRkTmY4FHwJVKw6zrGQtqvg_tL72MEy-txokrwQfKcNMddV6eXzQVFjoPI8_O5Zwes&fref=nf&__xts__%5B0%5D=68.ARAUYlJXXY6xNdyqRN82CnsU5qhiGY7bhMReb0RBKCEnaspHFSJiOeLdSp0OR_N2bMEVbsRnUEj-IMQo_CAR9RLOtIN8ksNs6SwbK0bAJ3lkpqlTq7pnu5S1p14fn8JAFnQakLw&__tn__=kC-R)
 ### EU & ITALY
@@ -173,18 +173,18 @@ In opposition to the Czech Republic who doesn’t offer any help in the ongoing 
 [The Women’s Centre’s warehouse](https://www.facebook.com/groups/1086525351391860/permalink/2028255150552204/?__xts__[0]=68.ARAZF8rYShrQ6oVnvqCUDLUSLV6tWmfoUZBk2RTlQ3qk1cyDgp0rP0pKGZAHgDxxeOT6S4nJlpDDP0eviod3X_AZYlrEpWzEEVDEjRnymVl-VjlEp-KI3Pq3MxpaJOhbic6D2yjj49byM8aL_WBXfKjJAXTqZXIwJRWvxDFpuirlK-Fe5aSulw&__tn__=K-R) in Dunkirk has burnt down\. There have been two evictions in three days in the nearby camp\. The volunteers are devastated due to the incidents and following work\-load\. Fortunately, no human beings were hurt\.
 
 
-![](assets/7cdba2c8a117/1*6lZh2QJxdn7IKs_p6Vi4gA.jpeg)
+![](../assets/7cdba2c8a117/1*6lZh2QJxdn7IKs_p6Vi4gA.jpeg)
 
 
 
-![Photos: [Caroline Kerr](https://www.facebook.com/caroline.kerr.167?fref=gs&tn-str=*F&dti=1086525351391860&hc_location=group_dialog) , Bras not Bombs](assets/7cdba2c8a117/1*TevVkCCo94lCNysrQq83Qw.jpeg)
+![Photos: [Caroline Kerr](https://www.facebook.com/caroline.kerr.167?fref=gs&tn-str=*F&dti=1086525351391860&hc_location=group_dialog) , Bras not Bombs](../assets/7cdba2c8a117/1*TevVkCCo94lCNysrQq83Qw.jpeg)
 
 Photos: [Caroline Kerr](https://www.facebook.com/caroline.kerr.167?fref=gs&tn-str=*F&dti=1086525351391860&hc_location=group_dialog) , Bras not Bombs
 
 Several organizations has shown their support for the burnt down warehouse\. [Human Aid in Greece](https://www.facebook.com/humanaidgreece/?hc_ref=ARS4yqql0GsFVVk5NtqcwO5qf_lFaVo6ql5My4S_aHSre-c7iv5aOu3VMtZ0I5C-U3E&fref=nf) updated, saying that the place with items for 800 refugees in the area burned down\. [The warehouse](https://www.facebook.com/271868569875201/posts/589902058071849/) was used by several of the NGOs active in the region, and now — before the fall and later also winter — the storage space and everything that currently were there are completely destroyed\. Just take a look at the images here, and the devastation is more than obvious\. [Calais Refugee Aid](https://www.facebook.com/CalaisRefugeeAid/?hc_ref=ARRbZWQqkE-bc2CK_zTPgPNgGSUhLhcQIwpAThSiTlPisU-8JVZGLh5iuvYgOae3N60&fref=nf&__xts__%5B0%5D=68.ARBXmYAWjBynexBgeIrJ7Ku2AtovJGn9wTZcxVdsVempaMISS88lAQbbADs7UkDwYjEaxHjkbt_jakNMBn1bGrZ4cFdmKEwJCuCSNhkDFFH5P9NwG1vvUOUZvmi9BXe-joH7BaA&__tn__=kC-R) updated, read the full statement [here](https://m.facebook.com/story.php?story_fbid=1855210271211163&id=903905433008323) \.
 
 
-![Photo: [Calais Refugee Aid](https://www.facebook.com/CalaisRefugeeAid/?hc_ref=ARRbZWQqkE-bc2CK_zTPgPNgGSUhLhcQIwpAThSiTlPisU-8JVZGLh5iuvYgOae3N60&fref=nf&__xts__%5B0%5D=68.ARBXmYAWjBynexBgeIrJ7Ku2AtovJGn9wTZcxVdsVempaMISS88lAQbbADs7UkDwYjEaxHjkbt_jakNMBn1bGrZ4cFdmKEwJCuCSNhkDFFH5P9NwG1vvUOUZvmi9BXe-joH7BaA&__tn__=kC-R)](assets/7cdba2c8a117/1*SZ20VDj09FI-a5gZTQIHcA.png)
+![Photo: [Calais Refugee Aid](https://www.facebook.com/CalaisRefugeeAid/?hc_ref=ARRbZWQqkE-bc2CK_zTPgPNgGSUhLhcQIwpAThSiTlPisU-8JVZGLh5iuvYgOae3N60&fref=nf&__xts__%5B0%5D=68.ARBXmYAWjBynexBgeIrJ7Ku2AtovJGn9wTZcxVdsVempaMISS88lAQbbADs7UkDwYjEaxHjkbt_jakNMBn1bGrZ4cFdmKEwJCuCSNhkDFFH5P9NwG1vvUOUZvmi9BXe-joH7BaA&__tn__=kC-R)](../assets/7cdba2c8a117/1*SZ20VDj09FI-a5gZTQIHcA.png)
 
 Photo: [Calais Refugee Aid](https://www.facebook.com/CalaisRefugeeAid/?hc_ref=ARRbZWQqkE-bc2CK_zTPgPNgGSUhLhcQIwpAThSiTlPisU-8JVZGLh5iuvYgOae3N60&fref=nf&__xts__%5B0%5D=68.ARBXmYAWjBynexBgeIrJ7Ku2AtovJGn9wTZcxVdsVempaMISS88lAQbbADs7UkDwYjEaxHjkbt_jakNMBn1bGrZ4cFdmKEwJCuCSNhkDFFH5P9NwG1vvUOUZvmi9BXe-joH7BaA&__tn__=kC-R)
 #### Another clearance in Calais
@@ -195,16 +195,16 @@ CRS today evicted more people, [it was reported\.](https://www.facebook.com/Cala
 Volunteers, including AYS volunteers and [AidBrigade](https://www.facebook.com/AidBrigade-1782598635182451/?hc_ref=ARRFqIbD5sTqHaiiVGVWzIZNLebJz_VDJsH5YKAZ3t41ydnbT0OAbTZblTGY4h2ug3Y&__xts__%5B0%5D=68.ARC68jgUwcgBr6Vfwf2WZwDRtHxfHJlrtrpEmMiWxPAVIevyORif2kXjZ53bjOmdKDteINgKDePaHSbkmVBiX4DYgUP1ei30h8wrjZ_uTdE4aIHpTFTGC29p1zxq5iWuiq4mJbs&__tn__=kC-R) , are still working on the groud in Sarajevo\. At Wednesdays dinner distribution, the local food chevapi was handed out to more than 150 people\. The volunteers met a couple of families, and one big one with children, but as they were heading to Bihac no accommodation was provided\.
 
 
-![](assets/7cdba2c8a117/1*HmrTVUwfPUWnIp5LW0bRmA.jpeg)
+![](../assets/7cdba2c8a117/1*HmrTVUwfPUWnIp5LW0bRmA.jpeg)
 
 
 
-![Food line at Sarajevos train station today\. Photo: AYS](assets/7cdba2c8a117/1*5CTVyq0T73XHbLBpHkhOqg.jpeg)
+![Food line at Sarajevos train station today\. Photo: AYS](../assets/7cdba2c8a117/1*5CTVyq0T73XHbLBpHkhOqg.jpeg)
 
 Food line at Sarajevos train station today\. Photo: AYS
 
 
-![Photo: [AidBrigade](https://www.facebook.com/AidBrigade-1782598635182451/?hc_ref=ARRFqIbD5sTqHaiiVGVWzIZNLebJz_VDJsH5YKAZ3t41ydnbT0OAbTZblTGY4h2ug3Y&__xts__%5B0%5D=68.ARC68jgUwcgBr6Vfwf2WZwDRtHxfHJlrtrpEmMiWxPAVIevyORif2kXjZ53bjOmdKDteINgKDePaHSbkmVBiX4DYgUP1ei30h8wrjZ_uTdE4aIHpTFTGC29p1zxq5iWuiq4mJbs&__tn__=kC-R)](assets/7cdba2c8a117/1*SPstLtp-oUvzKbfUf9YeSw.jpeg)
+![Photo: [AidBrigade](https://www.facebook.com/AidBrigade-1782598635182451/?hc_ref=ARRFqIbD5sTqHaiiVGVWzIZNLebJz_VDJsH5YKAZ3t41ydnbT0OAbTZblTGY4h2ug3Y&__xts__%5B0%5D=68.ARC68jgUwcgBr6Vfwf2WZwDRtHxfHJlrtrpEmMiWxPAVIevyORif2kXjZ53bjOmdKDteINgKDePaHSbkmVBiX4DYgUP1ei30h8wrjZ_uTdE4aIHpTFTGC29p1zxq5iWuiq4mJbs&__tn__=kC-R)](../assets/7cdba2c8a117/1*SPstLtp-oUvzKbfUf9YeSw.jpeg)
 
 Photo: [AidBrigade](https://www.facebook.com/AidBrigade-1782598635182451/?hc_ref=ARRFqIbD5sTqHaiiVGVWzIZNLebJz_VDJsH5YKAZ3t41ydnbT0OAbTZblTGY4h2ug3Y&__xts__%5B0%5D=68.ARC68jgUwcgBr6Vfwf2WZwDRtHxfHJlrtrpEmMiWxPAVIevyORif2kXjZ53bjOmdKDteINgKDePaHSbkmVBiX4DYgUP1ei30h8wrjZ_uTdE4aIHpTFTGC29p1zxq5iWuiq4mJbs&__tn__=kC-R)
 

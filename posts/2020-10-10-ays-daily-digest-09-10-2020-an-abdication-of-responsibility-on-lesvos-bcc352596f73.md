@@ -5,16 +5,16 @@ date: 2020-10-10T17:43:48.763+0100
 last_modified_at: 2020-10-10T17:43:48.763+0100
 categories: Are You Syrious?
 tags: [digest,migration,solidarity,refugees,europe]
-description: Algeria: violent, brutal treatment at the hands of police / Mare Liberum stops operations for the safety of their members / Confirmed…
+description: "Algeria: violent, brutal treatment at the hands of police / Mare Liberum stops operations for the safety of their members / Confirmed…"
 image:
-  path: assets/bcc352596f73/0*8b_i5Exi6sxcX_iF
+  path: ../assets/bcc352596f73/0*8b_i5Exi6sxcX_iF
 ---
 
 ### AYS Daily Digest 09/10/2020 — An Abdication of Responsibility on Lesvos
 ### Algeria: violent, brutal treatment at the hands of police / Mare Liberum stops operations for the safety of their members / Confirmed: those who refuse to exit ESTIA will not have access to HELIOS / France: the authorities are inflating the number of meals distributed and hundreds of people are still going hungry / Amnesty International detects that most governmental policies increase the trauma instead of alleviating it / Recommended reads and more news
 
 
-![](assets/bcc352596f73/0*utVBzQV0hjE2kOHW.jpeg)
+![](../assets/bcc352596f73/0*utVBzQV0hjE2kOHW.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----7792751f5fc8--------------------------------)
@@ -22,11 +22,11 @@ image:
 [Oct 10](ays-daily-digest-09-10-2020-an-abdication-of-responsibility-on-lesvos-7792751f5fc8?source=post_page-----7792751f5fc8--------------------------------) · 8 min read
 
 
-![](assets/bcc352596f73/0*1Xd8EzFSyNyXWEsJ)
+![](../assets/bcc352596f73/0*1Xd8EzFSyNyXWEsJ)
 
 
 
-![](assets/bcc352596f73/0*8b_i5Exi6sxcX_iF)
+![](../assets/bcc352596f73/0*8b_i5Exi6sxcX_iF)
 
 ### FEATURE
 ### Greek Government Refuses Responsibility for Conditions in Moria 2\.0
@@ -49,11 +49,11 @@ The Algerian government has conducted pushbacks against [3,400 people](https://w
 ### LIBYA
 
 
-![](assets/bcc352596f73/0*441qoT7Qs1PvI6Cb)
+![](../assets/bcc352596f73/0*441qoT7Qs1PvI6Cb)
 
 
 
-![](assets/bcc352596f73/0*96SuzNKHPJ4dHfe2.jpeg)
+![](../assets/bcc352596f73/0*96SuzNKHPJ4dHfe2.jpeg)
 
 ### SEA
 ### Alan Kurdi Detained…Again

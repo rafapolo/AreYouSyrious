@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,special,bosnia,velika-kladusa,croatia]
 description: Locals together with international volunteers are warmly welcoming people at the Bosnian-Croatian border and are trying their best to…
 image:
-  path: assets/a34ed8140357/1*slIuM5AHbp1KLVcQr7htkw.jpeg
+  path: ../assets/a34ed8140357/1*slIuM5AHbp1KLVcQr7htkw.jpeg
 ---
 
 ### AYS Special from Bosnia — The unique solidarity of Velika Kladuša
 #### Locals together with international volunteers are warmly welcoming people at the Bosnian\-Croatian border and are trying their best to support them and show solidarity\.
 
 
-![Kladuša city center, a smal town in Bosnia where more than 500 people on the move are living at the moment\. Photo AYS\.](assets/a34ed8140357/1*slIuM5AHbp1KLVcQr7htkw.jpeg)
+![Kladuša city center, a smal town in Bosnia where more than 500 people on the move are living at the moment\. Photo AYS\.](../assets/a34ed8140357/1*slIuM5AHbp1KLVcQr7htkw.jpeg)
 
 Kladuša city center, a smal town in Bosnia where more than 500 people on the move are living at the moment\. Photo AYS\.
 
@@ -48,7 +48,7 @@ In the restaurant “Kod Latana” they come not only for a free meal, but to fi
 “If they are here, the situation for them must have been bad,” one local explained their solidarity\.
 
 
-![Impressions from the restaurant\.](assets/a34ed8140357/1*aRi3g7sWCZr5FzAuFi4fKA.jpeg)
+![Impressions from the restaurant\.](../assets/a34ed8140357/1*aRi3g7sWCZr5FzAuFi4fKA.jpeg)
 
 Impressions from the restaurant\.
 
@@ -65,7 +65,7 @@ On the other, Croatian, side of the border, the police treatment is much differe
 “The Croatian police are a big problem,” everyone in the park in Kladuša will say\. Some are coming back with wounds, even broken bones, smashed phones\. The displays and sim\-card slots are broken, the memory cards and batteries removed, the photos and info deleted\. This makes it harder to verify their stay on Croatian soil or record evidence about the push\-back\.
 
 
-![Testimonies of phones allegedly destroyed by the Croatian police\.](assets/a34ed8140357/1*icdTAaxJRnC8TNcMGKlNCA.jpeg)
+![Testimonies of phones allegedly destroyed by the Croatian police\.](../assets/a34ed8140357/1*icdTAaxJRnC8TNcMGKlNCA.jpeg)
 
 Testimonies of phones allegedly destroyed by the Croatian police\.
 
@@ -82,14 +82,14 @@ However, the municipality is trying to coordinate with local and international v
 Before the eviction, an estimated 50 to 100 people were sleeping rough\.
 
 
-![People unloading their belongings at the field\.](assets/a34ed8140357/1*0mt85wAgaHPfCfxxDiNvFw.jpeg)
+![People unloading their belongings at the field\.](../assets/a34ed8140357/1*0mt85wAgaHPfCfxxDiNvFw.jpeg)
 
 People unloading their belongings at the field\.
 
 With the growing number of people coming to Velika Kladuša, it is feared, that the opening and welcoming attitude may shift\. Long\-term volunteers might remember the pictures and stories of the locals in Serbia and Croatia from 2015\. When the borders were \(more or less\) open, locals were providing clothes, food, showers in their houses, sometimes in tears as they were reminded of their own plight as refugees\. Many are afraid now that, if the situation in Velika Kladuša becomes a permanent one with even more people arriving, the mood may shift\.
 
 
-![The park after the eviction\.](assets/a34ed8140357/1*zwZK8urWBKJHaVHVH6nFqw.jpeg)
+![The park after the eviction\.](../assets/a34ed8140357/1*zwZK8urWBKJHaVHVH6nFqw.jpeg)
 
 The park after the eviction\.
 

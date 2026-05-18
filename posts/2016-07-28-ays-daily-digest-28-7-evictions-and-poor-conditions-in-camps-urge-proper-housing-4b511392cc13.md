@@ -1,13 +1,13 @@
 ---
-title: AYS DAILY DIGEST 27/7: Evictions and poor conditions in camps urge proper housing
+title: "AYS DAILY DIGEST 27/7: Evictions and poor conditions in camps urge proper housing"
 author: Are You Syrious?
 date: 2016-07-28T00:33:38.293+0100
 last_modified_at: 2016-07-28T10:26:31.823+0100
 categories: 
 tags: [refugees,volunteers,greece,piraeus,libya]
-description: New victims of the growing refugee crisis on two continents: 87 bodies wash up on Libyan shores as the conflicts and lack of security drive…
+description: "New victims of the growing refugee crisis on two continents: 87 bodies wash up on Libyan shores as the conflicts and lack of security drive…"
 image:
-  path: assets/4b511392cc13/1*AEnPg6XaN6o99VPuhjYZqA.jpeg
+  path: ../assets/4b511392cc13/1*AEnPg6XaN6o99VPuhjYZqA.jpeg
 ---
 
 ### AYS DAILY DIGEST 27/7: Evictions and poor conditions in camps urge proper housing
@@ -15,7 +15,7 @@ image:
 _New victims of the growing refugee crisis on two continents: 87 bodies wash up on Libyan shores as the conflicts and lack of security drive more people to dangerous waters in hope of safety in Europe, while at least 48 people are killed and many injured in a truck bomb blast in the largely Kurdish Syrian city of Qamishli\. Meanwhile, Greece evacuates the last refugees from its largest port in Piraeus, and on mainland, the refugee squats in Thessaloniki are evicted in police raids, followed by arrest and protests\. Greek Prime minister announces schools opening their doors to the refugee children the coming autumn, while his Hungarian counterpart labels migration as poison_
 
 
-![Piraeus port after everybody left\. Photo credit : Alpkhan Photography](assets/4b511392cc13/1*AEnPg6XaN6o99VPuhjYZqA.jpeg)
+![Piraeus port after everybody left\. Photo credit : Alpkhan Photography](../assets/4b511392cc13/1*AEnPg6XaN6o99VPuhjYZqA.jpeg)
 
 Piraeus port after everybody left\. Photo credit : Alpkhan Photography
 #### Libya
@@ -66,12 +66,12 @@ Afghan nationals went to Oinofyta, a camp of approximately 58km north of Athens\
 The closure of the camp didn’t go too smoothly, however\. Continue reading our [AYS special](https://medium.com/@AreYouSyrious/ays-special-last-tent-folded-refugees-evicted-from-piraeus-port-75384d490db0#.anwquqxhg) for a full story on the closing of Pireus\. \(Thank you L\. Mertes\. Photo credit : Alpkhan Photography\) \.
 
 
-![Emptines of the Piraeus port where around 7\.000 people lived until today\.](assets/4b511392cc13/1*Jw8o0FwKCtdXI4QfXEQEEQ.jpeg)
+![Emptines of the Piraeus port where around 7\.000 people lived until today\.](../assets/4b511392cc13/1*Jw8o0FwKCtdXI4QfXEQEEQ.jpeg)
 
 Emptines of the Piraeus port where around 7\.000 people lived until today\.
 
 
-![Photo: L\. Mertes](assets/4b511392cc13/1*c0VTbUdPShlcDeUozmns6w.jpeg)
+![Photo: L\. Mertes](../assets/4b511392cc13/1*c0VTbUdPShlcDeUozmns6w.jpeg)
 
 Photo: L\. Mertes
 ### **Schools are soon to be opened for the refugee children in Greece**
@@ -102,7 +102,7 @@ The ruling SYRIZA party, however, has condemned the operation by police in Thess
 ![From Trento \(Italy\) to Thessaloniki solidarity with migrants and activists of Kinotita Hurriya\. This morning the squat has been evacuated by police in Thessaloniki\.
 Now fifty activists are still in detention\.
 From Italy to Greece the right to housing can not be touched\. 
-Freedom for all\. Photo [**Centro Sociale Bruno**](https://www.facebook.com/centro.bruno/)](assets/4b511392cc13/1*ij6SnJE3NWGXB0rOHhHUXw.jpeg)
+Freedom for all\. Photo [**Centro Sociale Bruno**](https://www.facebook.com/centro.bruno/)](../assets/4b511392cc13/1*ij6SnJE3NWGXB0rOHhHUXw.jpeg)
 
 From Trento \(Italy\) to Thessaloniki solidarity with migrants and activists of Kinotita Hurriya\. This morning the squat has been evacuated by police in Thessaloniki\.
 Now fifty activists are still in detention\.
@@ -141,20 +141,20 @@ The two countries share the view that they protect not only their own borders bu
 Serbia continues to struggle with the growing number of refugees stranded in the city parks and warehouses in Belgrade, in poor conditions exposing children to disease and exhauster, in spite of the continuing efforts of many volunteers helping on site\.
 
 
-![](assets/4b511392cc13/1*OliKyp7OHxLTNPajkPvklQ.jpeg)
+![](../assets/4b511392cc13/1*OliKyp7OHxLTNPajkPvklQ.jpeg)
 
 
 
-![Syrian boys in Belgrade warehouse and Afghan baby slept outside for many nights is now covered in mosquito bites\. Photo by Nima Yaghmaei\.](assets/4b511392cc13/1*RRxOQCgQNKIjFnvRVBQJIw.jpeg)
+![Syrian boys in Belgrade warehouse and Afghan baby slept outside for many nights is now covered in mosquito bites\. Photo by Nima Yaghmaei\.](../assets/4b511392cc13/1*RRxOQCgQNKIjFnvRVBQJIw.jpeg)
 
 Syrian boys in Belgrade warehouse and Afghan baby slept outside for many nights is now covered in mosquito bites\. Photo by Nima Yaghmaei\.
 
 
-![](assets/4b511392cc13/1*J1J9FWdiSjIItDuvbn_k6g.jpeg)
+![](../assets/4b511392cc13/1*J1J9FWdiSjIItDuvbn_k6g.jpeg)
 
 
 
-![Exhausted volunteer takes a nap in the abandoned buildings of Belgrade it is shower time\. Photo by Nima Yaghmaei\.](assets/4b511392cc13/1*IPLgxo-DaYVceuQe7BQ1wA.jpeg)
+![Exhausted volunteer takes a nap in the abandoned buildings of Belgrade it is shower time\. Photo by Nima Yaghmaei\.](../assets/4b511392cc13/1*IPLgxo-DaYVceuQe7BQ1wA.jpeg)
 
 Exhausted volunteer takes a nap in the abandoned buildings of Belgrade it is shower time\. Photo by Nima Yaghmaei\.
 #### Hungary
@@ -177,7 +177,7 @@ This statement comes at the same time while hundreds of refugees starved, tired 
 Misconceptions about the refugee crisis \(and especially the position of the EU countries in welcoming those fleeing war and persecution\) are many and, whether they come from lack of information, fear or other reasons, it is necessary to avoid drawing coclusions without the entire picture in mind\. Check out the current official [UNHCR infographics](http://refugeesmigrants.un.org/infographics) \.
 
 
-![UNHCR](assets/4b511392cc13/1*tIYotcqzYvtHShDe8Cfejw.jpeg)
+![UNHCR](../assets/4b511392cc13/1*tIYotcqzYvtHShDe8Cfejw.jpeg)
 
 UNHCR
 

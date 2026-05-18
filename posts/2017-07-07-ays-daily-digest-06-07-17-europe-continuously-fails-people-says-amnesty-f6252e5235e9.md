@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 06/07/17: Europe continuously fails people says Amnesty
+title: "AYS Daily Digest 06/07/17: Europe continuously fails people says Amnesty"
 author: Are You Syrious?
 date: 2017-07-07T00:32:49.763+0100
 last_modified_at: 2017-07-14T16:15:25.437+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,european-union,greece,austria,france]
 description: New clinic opens nearby Mosul / Hunger strike in Moria continues / Volunteers needed in Greece / New deal for accommodation in Milan /…
 image:
-  path: assets/f6252e5235e9/1*Y5giZvgJvfSKmFxElMB26Q.jpeg
+  path: ../assets/f6252e5235e9/1*Y5giZvgJvfSKmFxElMB26Q.jpeg
 ---
 
 ### AYS Daily Digest 06/07/17: Europe continuously fails people says Amnesty
@@ -15,7 +15,7 @@ image:
 New clinic opens nearby Mosul / Hunger strike in Moria continues / Volunteers needed in Greece / New deal for accommodation in Milan / Minor push backs from France to Italy / Evacuation in Dunkirk
 
 
-![I know the situation now and every time is so bad at souda camp and i think a lot about it many time i decide to make a draw i know i am late but i want to let every people to see it and i want to invite UNHCR for one night in this tents that they give it to us to get a safe place that we can sleep in it so its safe for them let’s see if this will help and let them feel how the people feel I don’t tell them to spend 1 year in this tents just for one night\. Abbas Al](assets/f6252e5235e9/1*Y5giZvgJvfSKmFxElMB26Q.jpeg)
+![I know the situation now and every time is so bad at souda camp and i think a lot about it many time i decide to make a draw i know i am late but i want to let every people to see it and i want to invite UNHCR for one night in this tents that they give it to us to get a safe place that we can sleep in it so its safe for them let’s see if this will help and let them feel how the people feel I don’t tell them to spend 1 year in this tents just for one night\. Abbas Al](../assets/f6252e5235e9/1*Y5giZvgJvfSKmFxElMB26Q.jpeg)
 
 I know the situation now and every time is so bad at souda camp and i think a lot about it many time i decide to make a draw i know i am late but i want to let every people to see it and i want to invite UNHCR for one night in this tents that they give it to us to get a safe place that we can sleep in it so its safe for them let’s see if this will help and let them feel how the people feel I don’t tell them to spend 1 year in this tents just for one night\. Abbas Al
 ### Feature
@@ -46,7 +46,7 @@ This would be in deed real a step forward to address the refugee crisis by suppo
 Volunteers on the ground report that a new field hospital near Mosul, Iraq opened on Sunday\. Between 3 doctors, 133 patients seen in 4 hours, including these two young boys\.
 
 
-![Photo by [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/)](assets/f6252e5235e9/1*w3wfLGUfpbQRm5Ls1ylD9w.jpeg)
+![Photo by [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/)](../assets/f6252e5235e9/1*w3wfLGUfpbQRm5Ls1ylD9w.jpeg)
 
 Photo by [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/)
 
@@ -56,7 +56,7 @@ The next steps of this project are to open to referrals from other camps, and ke
 The hunger strike that three refugees started \(once more\) last week is still going on in Moria section B for the 8th day\. Even though the place is called detention and not jail, people there are treated and called inmates\. They face the instability of jail, while there have been no crimes committed by most of them\. Desperation is rising with the unfairness of the place, and that makes it unsafe\. The section is overcrowded, and the constant threat of deportation makes the tensions erupt as fights where people can be physically hurt\.
 
 
-![Photo by [**United Rescue Aid**](https://www.facebook.com/unitedrescueaid/)](assets/f6252e5235e9/1*TV2NewyOAXxbRrgg6c8Arw.jpeg)
+![Photo by [**United Rescue Aid**](https://www.facebook.com/unitedrescueaid/)](../assets/f6252e5235e9/1*TV2NewyOAXxbRrgg6c8Arw.jpeg)
 
 Photo by [**United Rescue Aid**](https://www.facebook.com/unitedrescueaid/)
 
@@ -94,7 +94,7 @@ Arash Hampay is also making a hunger strike in solidarity with the three men arr
 
 
 
-![Photo by Arash Hampay](assets/f6252e5235e9/1*xZEDEYruM4Y8mb28kDE1ig.jpeg)
+![Photo by Arash Hampay](../assets/f6252e5235e9/1*xZEDEYruM4Y8mb28kDE1ig.jpeg)
 
 Photo by Arash Hampay
 #### Chios
@@ -102,7 +102,7 @@ Photo by Arash Hampay
 The Refugee Law Clinics Abroad is looking for Arabic and Farsi translators, if you have these skills please consider contacting them\.
 
 
-![](assets/f6252e5235e9/1*HzQht0CHIZ-oyfGvHtDJbQ.jpeg)
+![](../assets/f6252e5235e9/1*HzQht0CHIZ-oyfGvHtDJbQ.jpeg)
 
 #### Northern Greece
 
@@ -177,7 +177,7 @@ Today a report by the Italian newspaper [Il Fatto Quotidiano](http://www.ilfatto
 This time Cedric Herrou, the famous french activist that faced trial for helping refugees close to the border with Italy got it all on camera\.
 
 
-[![Aller - Retour par C.R.S (Collectif Roya Solidaire)](assets/f6252e5235e9/9eb8_hqdefault.jpg "Aller - Retour par C.R.S (Collectif Roya Solidaire)")](http://www.youtube.com/watch?v=gV8cxdoegEs)
+[![Aller - Retour par C.R.S (Collectif Roya Solidaire)](../assets/f6252e5235e9/9eb8_hqdefault.jpg "Aller - Retour par C.R.S (Collectif Roya Solidaire)")](http://www.youtube.com/watch?v=gV8cxdoegEs)
 
 
 In the video, a police officer talks to two young black men without papers in a train stopped at the Menton Garavan train station: — “What is your nationality? — Tchad Are you adults or minors? Minors — Ok, please come with me” The young guys are brought to offices within the train station\. When they reappear, the CSR are bringing them to the train, in direction of Ventimiglia\.
@@ -190,7 +190,7 @@ Here the news aren’t better, today volunteers report that in Dunkirk the polic
 “Get up you filthy people”, that’s how the families were waken up today by the police, Thursday 6\. 7:30am\. Again\. \. police took down everyone’s tents and emptied the camp in Dunkirk distroying what people had\.
 
 
-![Photo by Isis Mera](assets/f6252e5235e9/1*QSRLVEYNXKPRZDLU-xcbWQ.jpeg)
+![Photo by Isis Mera](../assets/f6252e5235e9/1*QSRLVEYNXKPRZDLU-xcbWQ.jpeg)
 
 Photo by Isis Mera
 

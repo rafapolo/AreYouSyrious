@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 07/04/17: Increased relocations and deportations causing more harm
+title: "AYS Daily Digest 07/04/17: Increased relocations and deportations causing more harm"
 author: Are You Syrious?
 date: 2017-04-07T23:32:37.658+0100
 last_modified_at: 2017-04-08T10:14:41.623+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,relocation,european-union,greece]
 description: Civil society organisations write to the EU Commission / 29 year old Syrian who set himself on fire in Chios passes away / Demonstrations…
 image:
-  path: assets/5a023858d976/1*-AqJ3riqa0LQkUfIcy84Lw.jpeg
+  path: ../assets/5a023858d976/1*-AqJ3riqa0LQkUfIcy84Lw.jpeg
 ---
 
 ### AYS Daily Digest 07/04/17: Increased relocations and deportations causing more harm
@@ -15,7 +15,7 @@ image:
 _Civil society organisations write to the EU Commission / 29 year old Syrian who set himself on fire in Chios passes away / Demonstrations over bombings of civilians in Syria / English sessions starting at Belgrade’s Info Park / Open letter to city officials in Como and hunger strike in Turin / More on deportations and relocations_
 
 
-![Sea\-Watch: Update from the SAR\-Area: The second day in a row, [Sea\-Watch](https://www.facebook.com/seawatchprojekt/?ref=page_internal) 2 is saving lifes continuously\. It´s hard too keep up with reports — this morning, for instance, our crew spotted a wooden boat with over 400 people on board\.](assets/5a023858d976/1*-AqJ3riqa0LQkUfIcy84Lw.jpeg)
+![Sea\-Watch: Update from the SAR\-Area: The second day in a row, [Sea\-Watch](https://www.facebook.com/seawatchprojekt/?ref=page_internal) 2 is saving lifes continuously\. It´s hard too keep up with reports — this morning, for instance, our crew spotted a wooden boat with over 400 people on board\.](../assets/5a023858d976/1*-AqJ3riqa0LQkUfIcy84Lw.jpeg)
 
 Sea\-Watch: Update from the SAR\-Area: The second day in a row, [Sea\-Watch](https://www.facebook.com/seawatchprojekt/?ref=page_internal) 2 is saving lifes continuously\. It´s hard too keep up with reports — this morning, for instance, our crew spotted a wooden boat with over 400 people on board\.
 #### Relocations, rights and reception
@@ -79,7 +79,7 @@ IOM reports that 29,811 migrants and refugees entered Europe by sea in 2017 thro
 
 
 
-![365 people that have shared their fears, hopes and dreams with us during the last 24 hours\. We wish them strength to continue their journey — SOS Mediterranee](assets/5a023858d976/1*jB7Wr8kNWHZLb2PQOKXtrQ.jpeg)
+![365 people that have shared their fears, hopes and dreams with us during the last 24 hours\. We wish them strength to continue their journey — SOS Mediterranee](../assets/5a023858d976/1*jB7Wr8kNWHZLb2PQOKXtrQ.jpeg)
 
 365 people that have shared their fears, hopes and dreams with us during the last 24 hours\. We wish them strength to continue their journey — SOS Mediterranee
 #### SYRIA
@@ -298,19 +298,19 @@ Another Sudanese refugee is facing deportation\. He was arrested close to Caen w
 
 
 
-![](assets/5a023858d976/1*dg-BaCMJRGu73mPYQP-svQ.jpeg)
+![](../assets/5a023858d976/1*dg-BaCMJRGu73mPYQP-svQ.jpeg)
 
 
 
-![](assets/5a023858d976/1*niEg8hSGnJrXGqCvJ0TWfA.jpeg)
+![](../assets/5a023858d976/1*niEg8hSGnJrXGqCvJ0TWfA.jpeg)
 
 
 
-![](assets/5a023858d976/1*0PsYVWUAeUbl4rrW7am2JQ.jpeg)
+![](../assets/5a023858d976/1*0PsYVWUAeUbl4rrW7am2JQ.jpeg)
 
 
 
-![[Refugee Community Kitchen](https://www.facebook.com/groups/RefugeeCommunityKitchen/permalink/1379456285455204/?hc_location=ufi)](assets/5a023858d976/1*YdXWlHuRASiiADY17eJTtA.jpeg)
+![[Refugee Community Kitchen](https://www.facebook.com/groups/RefugeeCommunityKitchen/permalink/1379456285455204/?hc_location=ufi)](../assets/5a023858d976/1*YdXWlHuRASiiADY17eJTtA.jpeg)
 
 [Refugee Community Kitchen](https://www.facebook.com/groups/RefugeeCommunityKitchen/permalink/1379456285455204/?hc_location=ufi)
 #### SWEDEN

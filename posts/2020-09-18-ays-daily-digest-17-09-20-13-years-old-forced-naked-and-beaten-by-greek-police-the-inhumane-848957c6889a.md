@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 17/09/20: 13 years old, forced naked and beaten by Greek police — the inhumane…
+title: "AYS Daily Digest 17/09/20: 13 years old, forced naked and beaten by Greek police — the inhumane…"
 author: Are You Syrious?
 date: 2020-09-18T21:18:24.023+0100
 last_modified_at: 2020-09-18T21:18:24.023+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: []
 description: Are You Syrious?
 image:
-  path: assets/848957c6889a/0*jWfldN4fHwa2-XYt.jpeg
+  path: ../assets/848957c6889a/0*jWfldN4fHwa2-XYt.jpeg
 ---
 
 ### AYS Daily Digest 17/09/20: 13 years old, forced naked and beaten by Greek police — the inhumane treatment of refugees
@@ -30,11 +30,11 @@ The police handcuffed the children, who recalled that even after being handcuffe
 “When we arrived at the department, there were five police officers\. They emptied my bag\. They hit us again\. They first put my friend in a room that looked like a warehouse\. Then they put me\. I was asked to undress completely\. Then they took the data from us\. They did not let us talk to explain”, [the 15\-year\-old recalls](https://www.efsyn.gr/ellada/koinonia/260119_xylo-horis-aitia-se-dyo-prosfygopoyla) \. After being beaten and abused, the terrified child was expelled from the police station without any record of the incident\. The police have not provided a reason as to why the children were forcibly arrested, detained and stripped naked\.
 
 
-![](assets/848957c6889a/0*b_xi-GBhJKtqIQn5)
+![](../assets/848957c6889a/0*b_xi-GBhJKtqIQn5)
 
 
 
-![](assets/848957c6889a/0*jWfldN4fHwa2-XYt.jpeg)
+![](../assets/848957c6889a/0*jWfldN4fHwa2-XYt.jpeg)
 
 
 The medical certificate given to the two minors\. Photo Credit: \( [Efstn\.gr](https://www.efsyn.gr/ellada/koinonia/260119_xylo-horis-aitia-se-dyo-prosfygopoyla) \)
@@ -77,11 +77,11 @@ Speaking to the Committee, Maddy Allen, field manager at Help Refugees, also sta
 This systematic criminalization must stop, and all civilian rescue ships must return to the Central Mediterranean as soon as possible\!
 
 
-![](assets/848957c6889a/0*8ft1Q93LD_THOJwv)
+![](../assets/848957c6889a/0*8ft1Q93LD_THOJwv)
 
 
 
-![](assets/848957c6889a/0*wDTDHAsgDjrZ3ejI.jpeg)
+![](../assets/848957c6889a/0*wDTDHAsgDjrZ3ejI.jpeg)
 
 
 Baptiste Brebel\. Photo Credit [\(Sea\-Watch\)](https://www.facebook.com/seawatchprojekt/photos/a.1579563625595046/2643528639198534/)
@@ -152,19 +152,19 @@ Grapevine\.is reports that the family in question, whose [whereabouts are now un
 ### Bosnia and Herzegovina
 
 
-![](assets/848957c6889a/0*ZTDKQbU0gzAAtIUl)
+![](../assets/848957c6889a/0*ZTDKQbU0gzAAtIUl)
 
 
 
-![](assets/848957c6889a/0*72R27wotRRW74oWw.jpeg)
+![](../assets/848957c6889a/0*72R27wotRRW74oWw.jpeg)
 
 
 
-![](assets/848957c6889a/0*FlS7qSL718zYAqs0)
+![](../assets/848957c6889a/0*FlS7qSL718zYAqs0)
 
 
 
-![](assets/848957c6889a/0*Z_xC_e_DaLU-6BFt.jpeg)
+![](../assets/848957c6889a/0*Z_xC_e_DaLU-6BFt.jpeg)
 
 
 Photo Credit: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/1074567662941517)
@@ -181,11 +181,11 @@ The lockdown in the Nea Kavala refugee camp continues and, for the moment, is es
 Most tents and containers do not have water or a kitchen, which means that residents have to queue for long hours to access the shared facilities without being able to respect security measures like social distancing\. Health care has also worsened: there is only one doctor in the morning to attend to the 1,600 people who live in the camp, and those who must be transferred to the hospital must now pay €20\. Fines of €150 have been applied to people who did not wear their mask properly\. Surveillance and entry restrictions have been imposed more strongly\. And the tension between the inhabitants is increasing\.
 
 
-![](assets/848957c6889a/0*Y6P7LNcvDrcHcdfV)
+![](../assets/848957c6889a/0*Y6P7LNcvDrcHcdfV)
 
 
 
-![](assets/848957c6889a/0*2rbPtliR4FwJ9Ecz.jpeg)
+![](../assets/848957c6889a/0*2rbPtliR4FwJ9Ecz.jpeg)
 
 
 Nea Kavala Camp at night\. Photo Credit \( [Open Cultural Center — OCC](https://www.facebook.com/OpenCulturalCenter/?__cft__[0]=AZXXllCd5mdJRHUNdbpq7SAm-_wDDbhOGYjdOo-f74FajqPLXEADGlpmlZD5zC_rmjc5UTYYHaluLIGVvIxJCifA4Nz-EZmo_ew-TrNq7FxvKB3vyKwezoMxBv331qae8uQKCTsWW-eOoWesRbY2E0-v2_dcDtXwj6umhZYdysLH2A&__tn__=-UC*F) \)
@@ -204,11 +204,11 @@ To read more and find the full explanation of the dates of extension, please see
 In their public statement, they seek to appeal to the governments of Austria and the member states of the EU to live up to their international responsibility, both by offering aid to those affected by the current emergency in Moria and by working toward sustainable solutions to ensure the humane and dignified treatment of refugees\.
 
 
-![](assets/848957c6889a/0*Ko7661fG5IYqBkuN)
+![](../assets/848957c6889a/0*Ko7661fG5IYqBkuN)
 
 
 
-![](assets/848957c6889a/0*NWEY3TEiC5-M_zXI.jpeg)
+![](../assets/848957c6889a/0*NWEY3TEiC5-M_zXI.jpeg)
 
 
 The Secession Building with a ‘Moria’ banner\. Photo Credit \( [Vienna Secession](https://www.facebook.com/SecessionWien/?__tn__=-UC*F) \)

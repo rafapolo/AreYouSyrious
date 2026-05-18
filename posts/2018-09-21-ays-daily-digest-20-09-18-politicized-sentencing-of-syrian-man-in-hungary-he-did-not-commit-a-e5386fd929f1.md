@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 20/09/18: Politicized sentencing of Ahmed H.
+title: "AYS Daily Digest 20/09/18: Politicized sentencing of Ahmed H."
 author: Are You Syrious?
 date: 2018-09-21T07:03:51.105+0100
 last_modified_at: 2018-09-21T21:00:59.258+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,greece,moria,paris,digest]
 description: Deportations from Morocco / Violence in Tripoli / Apology from EASO to Advocates Abroad / Many transfers from islands to mainland Greece /…
 image:
-  path: assets/e5386fd929f1/1*G7iSy91yMBOGq85RyW5oVA.jpeg
+  path: ../assets/e5386fd929f1/1*G7iSy91yMBOGq85RyW5oVA.jpeg
 ---
 
 ### AYS Daily Digest 20/09/18: Politicized sentencing of Ahmed H\. in Hungary: “He did not commit a crime”
@@ -15,7 +15,7 @@ image:
 _Deportations from Morocco / Violence in Tripoli / Apology from EASO to Advocates Abroad / Many transfers from islands to mainland Greece / Calls to end prison islands / Updates from Paris / And much more…_
 
 
-![\#noborders Photo by [Syrilution Creative Arts](https://www.facebook.com/artagainstproject/photos/a.639651369417634/1872959052753520/?type=3&theater)](assets/e5386fd929f1/1*G7iSy91yMBOGq85RyW5oVA.jpeg)
+![\#noborders Photo by [Syrilution Creative Arts](https://www.facebook.com/artagainstproject/photos/a.639651369417634/1872959052753520/?type=3&theater)](../assets/e5386fd929f1/1*G7iSy91yMBOGq85RyW5oVA.jpeg)
 
 \#noborders Photo by [Syrilution Creative Arts](https://www.facebook.com/artagainstproject/photos/a.639651369417634/1872959052753520/?type=3&theater)
 ### FEATURE
@@ -45,7 +45,7 @@ The horrors in Hungary for refugees continue\.
 [Association Marocaine des Droits Humains\- Section Nador](https://www.facebook.com/AmdhNador/posts/2188629074682689) followed the operations of the Moroccan authorities, the embassies of African countries, and IOM and noted the deportation of at least 50 some people who were illegally arrested over the past three days\.
 
 
-![Photo by [Association Marocaine des Droits Humains\- Section Nador](https://www.facebook.com/AmdhNador/photos/a.1693125780899690/2188680924677504/?type=3&theater)](assets/e5386fd929f1/1*5rsX3XjU6PRC9ABwXN8nKA.jpeg)
+![Photo by [Association Marocaine des Droits Humains\- Section Nador](https://www.facebook.com/AmdhNador/photos/a.1693125780899690/2188680924677504/?type=3&theater)](../assets/e5386fd929f1/1*5rsX3XjU6PRC9ABwXN8nKA.jpeg)
 
 Photo by [Association Marocaine des Droits Humains\- Section Nador](https://www.facebook.com/AmdhNador/photos/a.1693125780899690/2188680924677504/?type=3&theater)
 ### LIBYA
@@ -55,11 +55,11 @@ Photo by [Association Marocaine des Droits Humains\- Section Nador](https://www.
 [A ceasefire meeting](https://www.libyaobserver.ly/news/unsmil-holds-meeting-ceasefire-committee-diplomats-violence-rocks-tripoli%C2%A0) was held by the UNSMIL and between the Head of Ceasefire Monitoring Committee Hussein Abdullah and the Libyan diplomatic community, but the ceasefire was obviously broken\.
 
 
-![](assets/e5386fd929f1/1*4PfMHuuP86fYtJGAVDI-9w.jpeg)
+![](../assets/e5386fd929f1/1*4PfMHuuP86fYtJGAVDI-9w.jpeg)
 
 
 
-![Photos by the [Libya Observer](https://twitter.com/Lyobserver/status/1042811622622941184)](assets/e5386fd929f1/1*r2eDrJRz_sQPvAFHN-cryg.jpeg)
+![Photos by the [Libya Observer](https://twitter.com/Lyobserver/status/1042811622622941184)](../assets/e5386fd929f1/1*r2eDrJRz_sQPvAFHN-cryg.jpeg)
 
 Photos by the [Libya Observer](https://twitter.com/Lyobserver/status/1042811622622941184)
 
@@ -75,11 +75,11 @@ As for the conflict affecting displaced persons and refugees:
 Troops were also lined up at detention centers, ready for any clashes that might break out due to the outside fighting\. Libya continues to be an active violent zone and cannot be considered a safe country for refugees\.
 
 
-![](assets/e5386fd929f1/1*6gyej_SLQiD_YjQOD944mA.jpeg)
+![](../assets/e5386fd929f1/1*6gyej_SLQiD_YjQOD944mA.jpeg)
 
 
 
-![Soldiers at a detention center for migrants\. Photos by [the Libya Observer](https://twitter.com/Lyobserver/status/1042352481051848705)](assets/e5386fd929f1/1*3kls5gT0269DlqDys6M0ag.jpeg)
+![Soldiers at a detention center for migrants\. Photos by [the Libya Observer](https://twitter.com/Lyobserver/status/1042352481051848705)](../assets/e5386fd929f1/1*3kls5gT0269DlqDys6M0ag.jpeg)
 
 Soldiers at a detention center for migrants\. Photos by [the Libya Observer](https://twitter.com/Lyobserver/status/1042352481051848705)
 
@@ -89,7 +89,7 @@ A new study has found that the liquidity crisis in Libya is affecting refugees i
 [The Aquarius](https://twitter.com/msf_sea/status/1042696721086771200?s=21) rescued a small distressed boat in international waters on Thursday morning with 11 people\. They were told to bring them back to Libya but refused\. The Libyans are now refusing to take them since receiving no for an answer\. The Aquarius is waiting for Italy or Malta to provide them a port of [safety\.](https://onboard-aquarius.org/)
 
 
-![Photo by [SOS Mediterranee](https://twitter.com/SOSMedIntl/status/1042754858108039168)](assets/e5386fd929f1/1*R4i6uWbhi9GGkjfx7HGKpw.jpeg)
+![Photo by [SOS Mediterranee](https://twitter.com/SOSMedIntl/status/1042754858108039168)](../assets/e5386fd929f1/1*R4i6uWbhi9GGkjfx7HGKpw.jpeg)
 
 Photo by [SOS Mediterranee](https://twitter.com/SOSMedIntl/status/1042754858108039168)
 
@@ -118,7 +118,7 @@ A detailed update report of Lesvos came from Heimatstern [e\.V](https://www.face
 
 
 
-![Moria Photo by [Arantza Diez](https://twitter.com/arantzadiez/status/1042762831811276800)](assets/e5386fd929f1/1*s0nnh-eBBS0OS1MTkwsRHg.jpeg)
+![Moria Photo by [Arantza Diez](https://twitter.com/arantzadiez/status/1042762831811276800)](../assets/e5386fd929f1/1*s0nnh-eBBS0OS1MTkwsRHg.jpeg)
 
 Moria Photo by [Arantza Diez](https://twitter.com/arantzadiez/status/1042762831811276800)
 
@@ -140,7 +140,7 @@ A general practitioner volunteer is desperately needed on Samos\! If you know of
 [NGO Attika](https://www.facebook.com/AttikaHumanSupport/posts/700649303624061?hc_location=ufi) on Lesvos needs your help to start preparing for winter\! Please follow the link here to find their needs list\.
 
 
-![Moria Photo by [Neraidoni](https://twitter.com/neraidoni/status/1042670683933892614)](assets/e5386fd929f1/1*ERhuFv68ylwmMw-iJXXkRg.jpeg)
+![Moria Photo by [Neraidoni](https://twitter.com/neraidoni/status/1042670683933892614)](../assets/e5386fd929f1/1*ERhuFv68ylwmMw-iJXXkRg.jpeg)
 
 Moria Photo by [Neraidoni](https://twitter.com/neraidoni/status/1042670683933892614)
 

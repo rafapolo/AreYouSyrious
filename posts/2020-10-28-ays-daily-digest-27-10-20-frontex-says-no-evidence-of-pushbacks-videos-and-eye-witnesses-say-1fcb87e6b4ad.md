@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,greece,european-union,refugees,turkey]
 description: 4 people die in English Channel // Canary Islands rescuers overwhelmed, union reports // more reports of Croatian Police brutality //…
 image:
-  path: assets/1fcb87e6b4ad/1*lx2jqh4ChHczjmx1QDYd6A.jpeg
+  path: ../assets/1fcb87e6b4ad/1*lx2jqh4ChHczjmx1QDYd6A.jpeg
 ---
 
 ### AYS Daily Digest 27/10/20 Frontex says “no evidence” of pushbacks, videos and eye witnesses say otherwise
@@ -15,7 +15,7 @@ image:
 _4 people die in English Channel // Canary Islands rescuers overwhelmed, union reports // more reports of Croatian Police brutality // evictions crises in Calais // and more…_
 
 
-![“Romanian Border Guard Neustadt class vessel MAI 1103 under Frontex filmed blocking migrants from reaching Greece” Info by [EU Observer](https://euobserver.com/migration/149871?fbclid=IwAR3sHueyLw1nU_dhPiQFKrkkDvbPusPjInqLPnfAoS2_GNx2mhzXRjgAu1I) , Photo by Turkish Coast Guard](assets/1fcb87e6b4ad/1*lx2jqh4ChHczjmx1QDYd6A.jpeg)
+![“Romanian Border Guard Neustadt class vessel MAI 1103 under Frontex filmed blocking migrants from reaching Greece” Info by [EU Observer](https://euobserver.com/migration/149871?fbclid=IwAR3sHueyLw1nU_dhPiQFKrkkDvbPusPjInqLPnfAoS2_GNx2mhzXRjgAu1I) , Photo by Turkish Coast Guard](../assets/1fcb87e6b4ad/1*lx2jqh4ChHczjmx1QDYd6A.jpeg)
 
 “Romanian Border Guard Neustadt class vessel MAI 1103 under Frontex filmed blocking migrants from reaching Greece” Info by [EU Observer](https://euobserver.com/migration/149871?fbclid=IwAR3sHueyLw1nU_dhPiQFKrkkDvbPusPjInqLPnfAoS2_GNx2mhzXRjgAu1I) , Photo by Turkish Coast Guard
 ### FEATURE: Frontex says they investigated themselves, found no evidence to “substantiate any accusations of violations of the law or Frontex Code of Conduct”
@@ -75,7 +75,7 @@ AYS will continue to report on any pushbacks along the Greek/Turkish land and se
 #### LIBYA
 
 
-![UNHCR Libya tweeted that “ _UNHCR secured last week the release from detention of 141 refugee men, women & children\. They were held at Suq Alkhamees detention centre, 140 Km East of Tripoli, some of them for over a year\. UNHCR provided them with relief items, food packages and medical check ups_ \.” But [**Jeff Crisp**](https://twitter.com/JFCrisp/status/1321128861514534914) asked the poignant question, “ _But where are they now?_ ” Photo by [UNHCR Libya](https://twitter.com/UNHCRLibya/status/1321122347005452294)](assets/1fcb87e6b4ad/1*j5bIdIBI3FTRU3DZOXEdLg.jpeg)
+![UNHCR Libya tweeted that “ _UNHCR secured last week the release from detention of 141 refugee men, women & children\. They were held at Suq Alkhamees detention centre, 140 Km East of Tripoli, some of them for over a year\. UNHCR provided them with relief items, food packages and medical check ups_ \.” But [**Jeff Crisp**](https://twitter.com/JFCrisp/status/1321128861514534914) asked the poignant question, “ _But where are they now?_ ” Photo by [UNHCR Libya](https://twitter.com/UNHCRLibya/status/1321122347005452294)](../assets/1fcb87e6b4ad/1*j5bIdIBI3FTRU3DZOXEdLg.jpeg)
 
 UNHCR Libya tweeted that “ _UNHCR secured last week the release from detention of 141 refugee men, women & children\. They were held at Suq Alkhamees detention centre, 140 Km East of Tripoli, some of them for over a year\. UNHCR provided them with relief items, food packages and medical check ups_ \.” But [**Jeff Crisp**](https://twitter.com/JFCrisp/status/1321128861514534914) asked the poignant question, “ _But where are they now?_ ” Photo by [UNHCR Libya](https://twitter.com/UNHCRLibya/status/1321122347005452294)
 #### SEA
@@ -116,14 +116,14 @@ _“In Malta, three youths risk life in prison for their roles in helping fellow
 
 
 ![Police Brutality: “Trieste October 27\-three days later
-The head of a helpless girl smashed by batons on Saturday, October 24 in the square of the world\.” Photo by [Lorena Fornasir](https://www.facebook.com/lorena.fornasir/posts/3374920675958339)](assets/1fcb87e6b4ad/1*EncOy4PCDtc4M5VVxLd7gA.jpeg)
+The head of a helpless girl smashed by batons on Saturday, October 24 in the square of the world\.” Photo by [Lorena Fornasir](https://www.facebook.com/lorena.fornasir/posts/3374920675958339)](../assets/1fcb87e6b4ad/1*EncOy4PCDtc4M5VVxLd7gA.jpeg)
 
 Police Brutality: “Trieste October 27\-three days later
 The head of a helpless girl smashed by batons on Saturday, October 24 in the square of the world\.” Photo by [Lorena Fornasir](https://www.facebook.com/lorena.fornasir/posts/3374920675958339)
 #### SPAIN
 
 
-![Photo by [Levante emv](https://www.levante-emv.com/espana/2020/10/26/crisis-migratoria-canarias-afrontando-25-20781926.amp.html?__twitter_impression=true&fbclid=IwAR0M9lgURF5wh0KMnvoX2nWJ3KjViW9yfMwRMVHbY63yR8FoSGkxc4D1SWA)](assets/1fcb87e6b4ad/1*PsRRQCPYNCAFreEtRFU-aQ.jpeg)
+![Photo by [Levante emv](https://www.levante-emv.com/espana/2020/10/26/crisis-migratoria-canarias-afrontando-25-20781926.amp.html?__twitter_impression=true&fbclid=IwAR0M9lgURF5wh0KMnvoX2nWJ3KjViW9yfMwRMVHbY63yR8FoSGkxc4D1SWA)](../assets/1fcb87e6b4ad/1*PsRRQCPYNCAFreEtRFU-aQ.jpeg)
 
 Photo by [Levante emv](https://www.levante-emv.com/espana/2020/10/26/crisis-migratoria-canarias-afrontando-25-20781926.amp.html?__twitter_impression=true&fbclid=IwAR0M9lgURF5wh0KMnvoX2nWJ3KjViW9yfMwRMVHbY63yR8FoSGkxc4D1SWA)
 ### “The migration crisis in the Canary Islands is being faced by 25 rescuers”
@@ -172,7 +172,7 @@ In another attack of police brutality on October 9th at Petrinja Police Station,
 
 
 
-![From attack on October 9th “One of the men described an officer rammed his knee into his face so hard that his denture implant was dislodged from his jaw” Photo by [No Name Kitchen](https://twitter.com/NoNameKitchen1/status/1321066765917605888)](assets/1fcb87e6b4ad/1*pHr0pkh-g1SuNJN8GLPFSw.png)
+![From attack on October 9th “One of the men described an officer rammed his knee into his face so hard that his denture implant was dislodged from his jaw” Photo by [No Name Kitchen](https://twitter.com/NoNameKitchen1/status/1321066765917605888)](../assets/1fcb87e6b4ad/1*pHr0pkh-g1SuNJN8GLPFSw.png)
 
 From attack on October 9th “One of the men described an officer rammed his knee into his face so hard that his denture implant was dislodged from his jaw” Photo by [No Name Kitchen](https://twitter.com/NoNameKitchen1/status/1321066765917605888)
 #### GERMANY
@@ -184,7 +184,7 @@ On Monday, a coalition of 43 aid organizations released a statement condemning h
 
 
 ![Collective Aid: “In Calais and Dunkirk, evictions are a daily reality\. Every camp in Calais is evicted at least every 48 hours\. During evictions, people have their belongings including important documents or medicines confiscated and their tents can be confiscated or destroyed\. They can face arrest, or be forcefully moved by bus to accommodation centres across the country\.” 
-“People may also be the victims of aggression or violence at the hands of the police\. Often, the police translators on the operation do not properly inform people of their rights, nor translate police instructions, meaning people cannot properly understand the information that is provided\.” Photo by [Collective Aid](https://www.instagram.com/p/CG2lB6gjT5n/) on IG](assets/1fcb87e6b4ad/1*1HQZ0z3obaistYMuUl2Ihw.jpeg)
+“People may also be the victims of aggression or violence at the hands of the police\. Often, the police translators on the operation do not properly inform people of their rights, nor translate police instructions, meaning people cannot properly understand the information that is provided\.” Photo by [Collective Aid](https://www.instagram.com/p/CG2lB6gjT5n/) on IG](../assets/1fcb87e6b4ad/1*1HQZ0z3obaistYMuUl2Ihw.jpeg)
 
 Collective Aid: “In Calais and Dunkirk, evictions are a daily reality\. Every camp in Calais is evicted at least every 48 hours\. During evictions, people have their belongings including important documents or medicines confiscated and their tents can be confiscated or destroyed\. They can face arrest, or be forcefully moved by bus to accommodation centres across the country\.” 
 “People may also be the victims of aggression or violence at the hands of the police\. Often, the police translators on the operation do not properly inform people of their rights, nor translate police instructions, meaning people cannot properly understand the information that is provided\.” Photo by [Collective Aid](https://www.instagram.com/p/CG2lB6gjT5n/) on IG
@@ -228,7 +228,7 @@ The EU Observer reported that _“According to the court, the refugee was ‘pre
 #### SWEDEN
 
 
-![“It’s starting to get cold in Paris\. People on the run sleep under highway bridges\. Many of them are Swedish\-speaking Afghans\. They have come in the thousands for several years but now more ever — and also families with children\. They live in misery because here they have a chance for asylum\. They do not have that in Sweden\.” Ultimately France has a different “security interpretation” of Afghanistan and is less likely to return people\. More from [ETC](https://www.etc.se/utrikes/afghaner-flyr-fran-sverige-lever-i-taltlager-i-frankrike?fbclid=IwAR3sHueyLw1nU_dhPiQFKrkkDvbPusPjInqLPnfAoS2_GNx2mhzXRjgAu1I) \. Photo by Emma Sofia Dedorson](assets/1fcb87e6b4ad/1*q37KChmmLCBgweKd2r-r6g.jpeg)
+![“It’s starting to get cold in Paris\. People on the run sleep under highway bridges\. Many of them are Swedish\-speaking Afghans\. They have come in the thousands for several years but now more ever — and also families with children\. They live in misery because here they have a chance for asylum\. They do not have that in Sweden\.” Ultimately France has a different “security interpretation” of Afghanistan and is less likely to return people\. More from [ETC](https://www.etc.se/utrikes/afghaner-flyr-fran-sverige-lever-i-taltlager-i-frankrike?fbclid=IwAR3sHueyLw1nU_dhPiQFKrkkDvbPusPjInqLPnfAoS2_GNx2mhzXRjgAu1I) \. Photo by Emma Sofia Dedorson](../assets/1fcb87e6b4ad/1*q37KChmmLCBgweKd2r-r6g.jpeg)
 
 “It’s starting to get cold in Paris\. People on the run sleep under highway bridges\. Many of them are Swedish\-speaking Afghans\. They have come in the thousands for several years but now more ever — and also families with children\. They live in misery because here they have a chance for asylum\. They do not have that in Sweden\.” Ultimately France has a different “security interpretation” of Afghanistan and is less likely to return people\. More from [ETC](https://www.etc.se/utrikes/afghaner-flyr-fran-sverige-lever-i-taltlager-i-frankrike?fbclid=IwAR3sHueyLw1nU_dhPiQFKrkkDvbPusPjInqLPnfAoS2_GNx2mhzXRjgAu1I) \. Photo by Emma Sofia Dedorson
 
@@ -251,7 +251,7 @@ Authorities are denying these claims\. More [here](https://grapevine.is/news/202
 The number of people entering the EU from Turkey dropped by 70% in the first 9 months of 2020, reported German daily Welt\. In the first 9 months of this year, 14,579 people entered the EU from Turkey; for the same period in 2019, 48,554 people entered from Turkey\. DW further states “ _321,685 asylum applications were made in the EU \(plus Norway and Switzerland\) from January to September of this year\. Spain lead all countries with 72,500\. Germany was second with 60,694, followed by France \(60,621\), Greece \(36,127\) and Italy \(16,051\)_ \.” More [here](https://www.dw.com/en/eu-migration-turkey/a-55406468?fbclid=IwAR1qcUkHwxjn4x0xwf5wKJXJ4n05njr-nXYqrKvZ8a0dv66RTF7nu40WU9Y) \.
 
 
-![Photo by [Europe Must Act](https://www.facebook.com/europemustact/posts/184051229874246)](assets/1fcb87e6b4ad/1*VszLo-MoQcBeIlbqOEPppw.png)
+![Photo by [Europe Must Act](https://www.facebook.com/europemustact/posts/184051229874246)](../assets/1fcb87e6b4ad/1*VszLo-MoQcBeIlbqOEPppw.png)
 
 Photo by [Europe Must Act](https://www.facebook.com/europemustact/posts/184051229874246)
 

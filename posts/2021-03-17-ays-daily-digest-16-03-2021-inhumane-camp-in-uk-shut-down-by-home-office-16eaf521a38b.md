@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 16/03/2021: “Inhumane” camp in UK shut down by Home Office
+title: "AYS Daily Digest 16/03/2021: “Inhumane” camp in UK shut down by Home Office"
 author: Are You Syrious?
 date: 2021-03-17T14:50:08.225+0000
 last_modified_at: 2021-03-17T14:50:08.225+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [malta,hungary,refugees,wales]
 description: Leaked photos from Covid unit in Malta // Statement from ABR on police cooperation // Restrictions on asylum access in Hungary // Alarm…
 image:
-  path: assets/16eaf521a38b/1*6UxOErluf_SsDkF-MW7FFQ.jpeg
+  path: ../assets/16eaf521a38b/1*6UxOErluf_SsDkF-MW7FFQ.jpeg
 ---
 
 ### AYS Daily Digest 16/03/2021: “Inhumane” camp in UK shut down by Home Office
@@ -15,7 +15,7 @@ image:
 ### FEATURE: Penally, controversial camp in SW Wales, will shut its doors
 
 
-![Residents in Penally protesting their conditions \(Photo source: [BBC](https://www.bbc.com/news/uk-wales-politics-56418361) \)](assets/16eaf521a38b/1*6UxOErluf_SsDkF-MW7FFQ.jpeg)
+![Residents in Penally protesting their conditions \(Photo source: [BBC](https://www.bbc.com/news/uk-wales-politics-56418361) \)](../assets/16eaf521a38b/1*6UxOErluf_SsDkF-MW7FFQ.jpeg)
 
 Residents in Penally protesting their conditions \(Photo source: [BBC](https://www.bbc.com/news/uk-wales-politics-56418361) \)
 
@@ -87,7 +87,7 @@ Every day, three people die in the Central Mediterranean trying to reach Europe\
 #### Leaked photos of Maltese detention facility show horror
 
 
-![Photo source: [Times of Malta](https://timesofmalta.com/articles/view/in-pictures-the-filthy-conditions-inside-a-covid-19-unit-for-asylum.858319?fbclid=IwAR3_xsvlnS12l2UTl0aEPgA-dLEPoBEvjJKqV6iB7f-grgyGLga8dvmoTUI)](assets/16eaf521a38b/1*jvz8GY14Et6-UCuqymOD1A.jpeg)
+![Photo source: [Times of Malta](https://timesofmalta.com/articles/view/in-pictures-the-filthy-conditions-inside-a-covid-19-unit-for-asylum.858319?fbclid=IwAR3_xsvlnS12l2UTl0aEPgA-dLEPoBEvjJKqV6iB7f-grgyGLga8dvmoTUI)](../assets/16eaf521a38b/1*jvz8GY14Et6-UCuqymOD1A.jpeg)
 
 Photo source: [Times of Malta](https://timesofmalta.com/articles/view/in-pictures-the-filthy-conditions-inside-a-covid-19-unit-for-asylum.858319?fbclid=IwAR3_xsvlnS12l2UTl0aEPgA-dLEPoBEvjJKqV6iB7f-grgyGLga8dvmoTUI)
 
@@ -104,7 +104,7 @@ A ministry spokesperson said everything in the facility was “completely new”
 #### Statement from Aegean Boat Report on cooperation with Greek Police
 
 
-![](assets/16eaf521a38b/1*cGAlWmnBGoJ83wg4RT2SvA.png)
+![](../assets/16eaf521a38b/1*cGAlWmnBGoJ83wg4RT2SvA.png)
 
 
 “In the light of more than a year of illegal pushbacks by official Greek rescue and border patrol agencies at the behest of the Greek government, behaviour which we can only describe as reprehensible and inhuman, Aegean Boat Report is sorry to announce that except in cases of extreme risk of suffering and potential loss of life, we will no longer share with the Greek port police the location of men, women and children seeking asylum in Greece,” [ABR wrote on its website](https://aegeanboatreport.com/2021/03/16/2574/?fbclid=IwAR3lXwJW85TYrzObB9deqk07rigRtXyXIF95vEYQd_ulwFyes8cZ21m24QY) \.

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 08/05/20: Evidence indicates that Muhammad Gulzar has been shot by bullets fired…
+title: "AYS Daily Digest 08/05/20: Evidence indicates that Muhammad Gulzar has been shot by bullets fired…"
 author: Are You Syrious?
 date: 2020-05-09T15:36:26.477+0100
 last_modified_at: 2020-05-09T15:36:26.477+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,europe,refugees,greece,sea]
 description: Forensic architecture’s new analysis on killing in the Evros Border region // No access to health care for Syrian refugees in Jordan border…
 image:
-  path: assets/5922cceeaeb1/0*3ca2ScUwq7RSzS9J.jpeg
+  path: ../assets/5922cceeaeb1/0*3ca2ScUwq7RSzS9J.jpeg
 ---
 
 ### AYS Daily Digest 08/05/20: Evidence indicates that Muhammad Gulzar has been shot by bullets fired from the Greek side of the border
 ### Forensic architecture’s new analysis on killing in the Evros Border region // No access to health care for Syrian refugees in Jordan border region // Libya in times of civil war, corona pandemic and human rights violations // Updates from Moria // Safe port found for people saved by merchant vessel
 
 
-![](assets/5922cceeaeb1/0*ormuy-korDM97E-f.jpeg)
+![](../assets/5922cceeaeb1/0*ormuy-korDM97E-f.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----4cf7fb60518b----------------------)
@@ -22,11 +22,11 @@ image:
 [May 9](ays-daily-digest-09-05-20-evidence-indicates-that-muhammad-gulzar-has-been-shot-by-bullets-fired-4cf7fb60518b?source=post_page-----4cf7fb60518b----------------------) · 9 min read
 
 
-![](assets/5922cceeaeb1/0*KFfqINGuegdeVpKv)
+![](../assets/5922cceeaeb1/0*KFfqINGuegdeVpKv)
 
 
 
-![](assets/5922cceeaeb1/0*3ca2ScUwq7RSzS9J.jpeg)
+![](../assets/5922cceeaeb1/0*3ca2ScUwq7RSzS9J.jpeg)
 
 ### FEATURE: The Killing of Muhammad Gulzar
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 12/2/2019 Denmark: leaving human rights behind, one law at the time
+title: "AYS Daily Digest 12/2/2019 Denmark: leaving human rights behind, one law at the time"
 author: Are You Syrious?
 date: 2019-02-13T11:27:04.611+0000
 last_modified_at: 2019-02-13T19:46:23.927+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,denmark,mediterranean,deportations]
 description: One death in Libyan detention centre in the inaction of international organisations /// Moroccan authorities destroys sub-saharan migrants…
 image:
-  path: assets/7247e7c54213/1*wgYkSR46AJWWHiRoC65-fw.jpeg
+  path: ../assets/7247e7c54213/1*wgYkSR46AJWWHiRoC65-fw.jpeg
 ---
 
 ### AYS Daily Digest 12/2/2019 — Denmark: leaving human rights behind, one law at the time
@@ -15,7 +15,7 @@ image:
 One death in Libyan detention centre due to inaction of international organisations /// Moroccan authorities destroy Sub\-Saharan migrants’ shelters /// Deportation alerts from Germany and Austria /// New fences in Calais to prevent people from finding shelter /// “Commercial refoulements” in the central Mediterranean /// New Arrivals in Greece and Italy
 
 
-![CLOSED BORDER — Algerian / Moroccan border, 1994 \(Photo by [Watch the Med — Alarm Phone](https://www.facebook.com/watchthemed.alarmphone/photos/a.1526182797655958/2311970032410560/?type=3&theater) \)](assets/7247e7c54213/1*wgYkSR46AJWWHiRoC65-fw.jpeg)
+![CLOSED BORDER — Algerian / Moroccan border, 1994 \(Photo by [Watch the Med — Alarm Phone](https://www.facebook.com/watchthemed.alarmphone/photos/a.1526182797655958/2311970032410560/?type=3&theater) \)](../assets/7247e7c54213/1*wgYkSR46AJWWHiRoC65-fw.jpeg)
 
 CLOSED BORDER — Algerian / Moroccan border, 1994 \(Photo by [Watch the Med — Alarm Phone](https://www.facebook.com/watchthemed.alarmphone/photos/a.1526182797655958/2311970032410560/?type=3&theater) \)
 #### Feature story — Denmark: leaving human rights behind, one law at the time
@@ -112,7 +112,7 @@ MOROCCO
 #### Authorities destroys Sub\-Saharan migrants’ shelters in Nador region
 
 
-![Shelter destroyed by authorities \(photo by [AMDH Nador](https://www.facebook.com/AmdhNador/photos/pcb.2272541622958100/2272541599624769/?type=3&theater) \)](assets/7247e7c54213/1*DhRJfofYBp5qCNYmEJdUAQ.jpeg)
+![Shelter destroyed by authorities \(photo by [AMDH Nador](https://www.facebook.com/AmdhNador/photos/pcb.2272541622958100/2272541599624769/?type=3&theater) \)](../assets/7247e7c54213/1*DhRJfofYBp5qCNYmEJdUAQ.jpeg)
 
 Shelter destroyed by authorities \(photo by [AMDH Nador](https://www.facebook.com/AmdhNador/photos/pcb.2272541622958100/2272541599624769/?type=3&theater) \)
 
@@ -127,7 +127,7 @@ While Italian authorities keep shouting about how they have curbed migration flo
 [Alarm Phone report](https://www.facebook.com/watchthemed.alarmphone/photos/a.1526182797655958/2311970032410560/?type=3&theater) on the fate of 62 people on the third boat\. They too were returned to Libya by a merchant vessel\.
 
 
-![Alarm Phone was called from the sea by survivors of a Mediterranean crossing while they were being returned illegally to Libya on a merchant vessel\. As so many others before, these 62 people were deceived by the crew and told they would be brought to Europe\. \( [Watch the Med — Alarm Phone](https://twitter.com/alarm_phone/status/1095372905771425792?fbclid=IwAR1i_JiUV-WwEXuBhCrvu-k2Gu57lWWKXX3sScoAouoOnjLBBPYzmZcP_Fw) \)](assets/7247e7c54213/1*zQWNIsOPODrqp06myWxg-Q.jpeg)
+![Alarm Phone was called from the sea by survivors of a Mediterranean crossing while they were being returned illegally to Libya on a merchant vessel\. As so many others before, these 62 people were deceived by the crew and told they would be brought to Europe\. \( [Watch the Med — Alarm Phone](https://twitter.com/alarm_phone/status/1095372905771425792?fbclid=IwAR1i_JiUV-WwEXuBhCrvu-k2Gu57lWWKXX3sScoAouoOnjLBBPYzmZcP_Fw) \)](../assets/7247e7c54213/1*zQWNIsOPODrqp06myWxg-Q.jpeg)
 
 Alarm Phone was called from the sea by survivors of a Mediterranean crossing while they were being returned illegally to Libya on a merchant vessel\. As so many others before, these 62 people were deceived by the crew and told they would be brought to Europe\. \( [Watch the Med — Alarm Phone](https://twitter.com/alarm_phone/status/1095372905771425792?fbclid=IwAR1i_JiUV-WwEXuBhCrvu-k2Gu57lWWKXX3sScoAouoOnjLBBPYzmZcP_Fw) \)
 
@@ -184,7 +184,7 @@ A boat was picked up by Frontex outside Korakas, Lesvos north, 21\.15, Tuesday e
 #### Aegean Boat Report Weekly Statistics
 
 
-![](assets/7247e7c54213/1*JhU4LR_l16hwpkL3GZkyJA.jpeg)
+![](../assets/7247e7c54213/1*JhU4LR_l16hwpkL3GZkyJA.jpeg)
 
 
 Also UNHCR published their weekly statistics for the Greek Islands, which you can find [HERE](https://reliefweb.int/sites/reliefweb.int/files/resources/67936.pdf) \.
@@ -211,7 +211,7 @@ EKKA, the Greek National Centre for Social Solidarity, published a “situation 
 According to their figures there are 3\.718 children and teenagers currently alone in Greece \(93,9% Boys, 6,1% Girls, 7,3% are less than 14 years old\)
 
 
-![[EKKA — UAC Situation Update](https://reliefweb.int/sites/reliefweb.int/files/resources/67940.pdf)](assets/7247e7c54213/1*eU3czltmEVf1_YBj6S-gPA.png)
+![[EKKA — UAC Situation Update](https://reliefweb.int/sites/reliefweb.int/files/resources/67940.pdf)](../assets/7247e7c54213/1*eU3czltmEVf1_YBj6S-gPA.png)
 
 [EKKA — UAC Situation Update](https://reliefweb.int/sites/reliefweb.int/files/resources/67940.pdf)
 
@@ -263,7 +263,7 @@ You can contact them via [email](http://camperfirenze@mediciperidirittiumani.org
 [Chez JesOulx — Rifugio Autogestito](https://www.facebook.com/362786637540072/photos/a.362811254204277/542344252917642/?type=3&theater) announce a talk about the Salvini bill for Saturday 16 Febraury, h:14\.00, at the Casa Cantoniera Occupata in Oulx on the Monginevro National Road\.
 
 
-![](assets/7247e7c54213/1*qi9YCDM9Y2TIoSjKJMIJag.jpeg)
+![](../assets/7247e7c54213/1*qi9YCDM9Y2TIoSjKJMIJag.jpeg)
 
 #### Volunteer German teacher needed in Rome
 
@@ -356,11 +356,11 @@ SAJE also [need volunteers](https://www.facebook.com/lesajeparis/posts/413286215
 [Salam Nord/Pas de Calais](https://www.facebook.com/salamnordpasdecalais/?__xts__%5B0%5D=68.ARAjVvUDCkZcPA1cW84ZiniiMVE5otwn7whZvLxn3TBKBsRI0NRXWGLT3cfkQG-NEkw1r49gYiOnGdRaMRLnfPmDYqfDP1kvvfeQbvJt5PWI0FiI3WL4UAUV9cAT0F2dzFBwo98a8cTcZ-fn19nLVxnmJov7jLmbjPew-0mXCBgFYka5Zjj0mE_IuXvek0uZITasQgPpU2Y-MI9ykpyWJ8kzQmFQEycOqY2-JEGPcebpXUF5Rcf6qlj3KcYwa4Hrel-rm0SEUbbdNu_2mVvKo-6P43YTgApdZNuamZA5ePOwzuCzzN_ysHVrlMfTxAYrVXgFJe5teyy2TeiQW0q_XaYfSk4Q&__tn__=k%2AF&tn-str=k%2AF) reported that fences have been built to prevent people seeking shelter under bridges\.
 
 
-![](assets/7247e7c54213/1*o85Gu2Ie5Tt4E87DtX0nEQ.jpeg)
+![](../assets/7247e7c54213/1*o85Gu2Ie5Tt4E87DtX0nEQ.jpeg)
 
 
 
-![Photos by [SALAM Nord/Pas de Calais](https://www.facebook.com/salamnordpasdecalais/photos/pcb.2185388914862097/2185387128195609/?type=3&theater)](assets/7247e7c54213/1*76_U8y6TmALO-1LjSbzafw.jpeg)
+![Photos by [SALAM Nord/Pas de Calais](https://www.facebook.com/salamnordpasdecalais/photos/pcb.2185388914862097/2185387128195609/?type=3&theater)](../assets/7247e7c54213/1*76_U8y6TmALO-1LjSbzafw.jpeg)
 
 Photos by [SALAM Nord/Pas de Calais](https://www.facebook.com/salamnordpasdecalais/photos/pcb.2185388914862097/2185387128195609/?type=3&theater)
 

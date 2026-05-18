@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,italy,mawda,deportations,detention]
 description: British Home Office plan mass deportation to Jamaica / Calls to stop the construction of the new ‘camp’ on Lesvos, Greece / First Snow…
 image:
-  path: assets/4714c604173/1*Hhm8Cvi69zkwkUMghLbgXw.jpeg
+  path: ../assets/4714c604173/1*Hhm8Cvi69zkwkUMghLbgXw.jpeg
 ---
 
 ### AYS Weekend Digest 21–22/11/2020 Protests and injustice in Italian CPRs
@@ -15,7 +15,7 @@ image:
 _British Home Office plan mass deportation to Jamaica / Calls to stop the construction of the new ‘camp’ on Lesvos, Greece / First snow over Lipa camp, BiH / Videos and reports from Tuesday’s eviction in Paris\._
 
 
-![\(Photo Credit: [Ferri Matheeuwsen](https://www.facebook.com/ferri.matheeuwsen?__cft__[0]=AZW3veMME7ylhOe3-u7Apv8nfwtXa2ri4X4GXpiDJWLXuRl18iyZJ5y1BKivaxJ3iDgwPBf7R_W36e7_0lyceaCTOM8k95qvvC20adkOwHEYP_NqDu4QU23hGD3aItCBe69fxdeNVHGiY7hNmnJFpxhFr1-NbyHNVszfMPzSfoWoIAgKu7Ubl3KFhV7wv09KWuXp_UQ1f6hFa1Wwa06DoIWF&__tn__=-UC%2CP-y-y-R) \. A very sad morning in Calais\. Despite the rain or the cold… big dismantling in Marcq and Hospital\. Mercilessly we leave hundreds of men without blankets tents or even shoes or clothes\. What a country of shame\! I’m crying and raging\. \)](assets/4714c604173/1*Hhm8Cvi69zkwkUMghLbgXw.jpeg)
+![\(Photo Credit: [Ferri Matheeuwsen](https://www.facebook.com/ferri.matheeuwsen?__cft__[0]=AZW3veMME7ylhOe3-u7Apv8nfwtXa2ri4X4GXpiDJWLXuRl18iyZJ5y1BKivaxJ3iDgwPBf7R_W36e7_0lyceaCTOM8k95qvvC20adkOwHEYP_NqDu4QU23hGD3aItCBe69fxdeNVHGiY7hNmnJFpxhFr1-NbyHNVszfMPzSfoWoIAgKu7Ubl3KFhV7wv09KWuXp_UQ1f6hFa1Wwa06DoIWF&__tn__=-UC%2CP-y-y-R) \. A very sad morning in Calais\. Despite the rain or the cold… big dismantling in Marcq and Hospital\. Mercilessly we leave hundreds of men without blankets tents or even shoes or clothes\. What a country of shame\! I’m crying and raging\. \)](../assets/4714c604173/1*Hhm8Cvi69zkwkUMghLbgXw.jpeg)
 
 \(Photo Credit: [Ferri Matheeuwsen](https://www.facebook.com/ferri.matheeuwsen?__cft__[0]=AZW3veMME7ylhOe3-u7Apv8nfwtXa2ri4X4GXpiDJWLXuRl18iyZJ5y1BKivaxJ3iDgwPBf7R_W36e7_0lyceaCTOM8k95qvvC20adkOwHEYP_NqDu4QU23hGD3aItCBe69fxdeNVHGiY7hNmnJFpxhFr1-NbyHNVszfMPzSfoWoIAgKu7Ubl3KFhV7wv09KWuXp_UQ1f6hFa1Wwa06DoIWF&__tn__=-UC%2CP-y-y-R) \. A very sad morning in Calais\. Despite the rain or the cold… big dismantling in Marcq and Hospital\. Mercilessly we leave hundreds of men without blankets tents or even shoes or clothes\. What a country of shame\! I’m crying and raging\. \)
 #### FEATURED: Protests and injustice in Italian CPRs
@@ -96,7 +96,7 @@ FRANCE
 #### More reports on Tuesday’s eviction
 
 
-[![[ PAS VU À LA TÉLÉ ] L'évacuation du campement indigne de Saint-Denis vu de l'intérieur](assets/4714c604173/a856_hqdefault.jpg "[ PAS VU À LA TÉLÉ ] L'évacuation du campement indigne de Saint-Denis vu de l'intérieur")](https://www.youtube.com/watch?v=ZE3jCZM6Ye0)
+[![[ PAS VU À LA TÉLÉ ] L'évacuation du campement indigne de Saint-Denis vu de l'intérieur](../assets/4714c604173/a856_hqdefault.jpg "[ PAS VU À LA TÉLÉ ] L'évacuation du campement indigne de Saint-Denis vu de l'intérieur")](https://www.youtube.com/watch?v=ZE3jCZM6Ye0)
 
 
 [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__cft__[0]=AZW3pTPd0aA3dN9SMYF8mRJM9vAOLBUzroQA2vhY6BaO5VdVjHXSpjPE0eF0DA-GbVhCPucp9XXq6WO60rEdNlSFtIYq87K2W0eVjTgUHMNZCyHDQpXtEHhXVtN-jVCzIGAR_H0ONtX3CVH9usGxBRc9L02HWgEqg0PTDx2MWwiPAdphMFfNtacZ6dQAkkYxzac&__tn__=-UC%2CP-R) published a video on the eviction that took place on Tuesday morning\. This was the first eviction ‘organised’ autonomously by the national police and gendarmerie\. As the group [report](https://www.facebook.com/permalink.php?story_fbid=1595662970634469&id=598228360377940) , it was a surreal and brutal experience:

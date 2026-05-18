@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Last tent folded: refugees evicted from Piraeus port
+title: "AYS SPECIAL: Last tent folded: refugees evicted from Piraeus port"
 author: Are You Syrious?
 date: 2016-07-27T22:06:20.950+0100
 last_modified_at: 2018-03-01T13:50:08.757+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [piraeus,greece,refugees,eviction,special]
 description: By L. Mertes
 image:
-  path: assets/75384d490db0/1*moeRDeUilLtx6nYX1Vs5Pg.jpeg
+  path: ../assets/75384d490db0/1*moeRDeUilLtx6nYX1Vs5Pg.jpeg
 ---
 
 ### AYS SPECIAL: Last tent folded: refugees evicted from Piraeus port
@@ -15,7 +15,7 @@ image:
 By L\. Mertes
 
 
-![Piraeus Port, turned into refugee camp, is now empty\. Photo credit : Alpkhan Photography](assets/75384d490db0/1*moeRDeUilLtx6nYX1Vs5Pg.jpeg)
+![Piraeus Port, turned into refugee camp, is now empty\. Photo credit : Alpkhan Photography](../assets/75384d490db0/1*moeRDeUilLtx6nYX1Vs5Pg.jpeg)
 
 Piraeus Port, turned into refugee camp, is now empty\. Photo credit : Alpkhan Photography
 #### July 27, 2016
@@ -38,11 +38,11 @@ By all accounts the transfer went smoothly\.
 
 
 
-![](assets/75384d490db0/1*0Vv5DDZR2ELwShEULVFdhA.jpeg)
+![](../assets/75384d490db0/1*0Vv5DDZR2ELwShEULVFdhA.jpeg)
 
 
 
-![The refugees left Piraeus on buses arranged by the Greek authorities\. Soon after, the abandoned tents were cleared\. Photo credit : Alpkhan Photography](assets/75384d490db0/1*Ds-NsUXFHdVJQ5-6owXgjg.jpeg)
+![The refugees left Piraeus on buses arranged by the Greek authorities\. Soon after, the abandoned tents were cleared\. Photo credit : Alpkhan Photography](../assets/75384d490db0/1*Ds-NsUXFHdVJQ5-6owXgjg.jpeg)
 
 The refugees left Piraeus on buses arranged by the Greek authorities\. Soon after, the abandoned tents were cleared\. Photo credit : Alpkhan Photography
 
@@ -63,15 +63,15 @@ UNHCR was in charge of informing camp residents of the transfer and providing in
 
 
 
-![](assets/75384d490db0/1*mqOuyITjU_TC3ePPYm8UYQ.jpeg)
+![](../assets/75384d490db0/1*mqOuyITjU_TC3ePPYm8UYQ.jpeg)
 
 
 
-![](assets/75384d490db0/1*F2bXjkK0-cjslkGfOJcY1g.jpeg)
+![](../assets/75384d490db0/1*F2bXjkK0-cjslkGfOJcY1g.jpeg)
 
 
 
-![After months of living in extreme conditions, buses took all the people from the Port to different camps around Greece\. Photo credit : Alpkhan Photography](assets/75384d490db0/1*QdhdTxN0DRV20UxiZeXBnA.jpeg)
+![After months of living in extreme conditions, buses took all the people from the Port to different camps around Greece\. Photo credit : Alpkhan Photography](../assets/75384d490db0/1*QdhdTxN0DRV20UxiZeXBnA.jpeg)
 
 After months of living in extreme conditions, buses took all the people from the Port to different camps around Greece\. Photo credit : Alpkhan Photography
 
@@ -92,11 +92,11 @@ Whether or not people will stay in the new camps is unclear\.
 “I believe a lot people will come back, not to the port, but to Athens,” Santucci added\.
 
 
-![](assets/75384d490db0/1*ZbF52sMPCxwJpSmvkYwh4A.jpeg)
+![](../assets/75384d490db0/1*ZbF52sMPCxwJpSmvkYwh4A.jpeg)
 
 
 
-![Food ration cards and the last dinner that was served in the port\. Photo credit : Alpkhan Photography](assets/75384d490db0/1*-y3j4E-zlDbDMWCT3Mnamw.jpeg)
+![Food ration cards and the last dinner that was served in the port\. Photo credit : Alpkhan Photography](../assets/75384d490db0/1*-y3j4E-zlDbDMWCT3Mnamw.jpeg)
 
 Food ration cards and the last dinner that was served in the port\. Photo credit : Alpkhan Photography
 
@@ -153,20 +153,20 @@ Another long term volunteer, Renata Blazkova, wrote in a Facebook post: “Port 
 It was eerily quiet in the port by early afternoon\.
 
 
-![](assets/75384d490db0/1*Sn8k2Da5ejb7p-g6f3v8kA.jpeg)
+![](../assets/75384d490db0/1*Sn8k2Da5ejb7p-g6f3v8kA.jpeg)
 
 
 
-![Photo credit : Alpkhan Photography](assets/75384d490db0/1*YsmR3zGQzMJTNQQ2K48xDw.jpeg)
+![Photo credit : Alpkhan Photography](../assets/75384d490db0/1*YsmR3zGQzMJTNQQ2K48xDw.jpeg)
 
 Photo credit : Alpkhan Photography
 
 
-![](assets/75384d490db0/1*Jw8o0FwKCtdXI4QfXEQEEQ.jpeg)
+![](../assets/75384d490db0/1*Jw8o0FwKCtdXI4QfXEQEEQ.jpeg)
 
 
 
-![](assets/75384d490db0/1*COw6jdFw8-kTwBwM8i0u6g.jpeg)
+![](../assets/75384d490db0/1*COw6jdFw8-kTwBwM8i0u6g.jpeg)
 
 
 

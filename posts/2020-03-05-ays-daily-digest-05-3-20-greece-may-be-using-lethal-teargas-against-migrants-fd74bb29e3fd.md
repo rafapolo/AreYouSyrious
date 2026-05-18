@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 05/3/20: Greece may be using ‘lethal teargas’ against migrants
+title: "AYS Daily Digest 05/3/20: Greece may be using ‘lethal teargas’ against migrants"
 author: Are You Syrious?
 date: 2020-03-05T12:52:20.475+0000
 last_modified_at: 2020-03-08T21:56:07.687+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,europe,refugee,balkans,police]
 description: Refugees shot at the Greek Border / Denmark to assist in human rights violations / Police harassment in Bosnia / Escalating violence at sea
 image:
-  path: assets/fd74bb29e3fd/1*8U9ywqx2i_hrGMRaJpovGw.jpeg
+  path: ../assets/fd74bb29e3fd/1*8U9ywqx2i_hrGMRaJpovGw.jpeg
 ---
 
 ### AYS Daily Digest 04/3/20: Greece may be using ‘lethal teargas’ against migrants
@@ -15,7 +15,7 @@ image:
 Refugees shot at the Greek border / Denmark to assist in human rights violations / Police harassment in Bosnia / Escalating violence at sea
 
 
-![CS 560 round recovered from Turkish\-Greek border\. Source \( [@Omega\_RF](https://twitter.com/Omega_RF) \)](assets/fd74bb29e3fd/1*8U9ywqx2i_hrGMRaJpovGw.jpeg)
+![CS 560 round recovered from Turkish\-Greek border\. Source \( [@Omega\_RF](https://twitter.com/Omega_RF) \)](../assets/fd74bb29e3fd/1*8U9ywqx2i_hrGMRaJpovGw.jpeg)
 
 CS 560 round recovered from Turkish\-Greek border\. Source \( [@Omega\_RF](https://twitter.com/Omega_RF) \)
 ### Feature:
@@ -40,7 +40,7 @@ Over 42,000 people are stuck on the islands\. This is a humanitarian disaster an
 [A statement and video](http://www.ekathimerini.com/250200/article/ekathimerini/news/greek-police-repel-migrants-on-border?fbclid=IwAR3K5oh2A9O9meFM77U06uy4lERiCs0sPCXkdASIU46tqonHxk_LyVm4btg) provided by the Greek authorities appeared to show tear gas being fired by a large group of individuals dressed in what could be assumed to be police riot gear, firing tear gas towards the Turkish side of the border\. The statement provided by the Greek authorities claimed that Turkish riot police were positioned an estimated four metres from the frontier of the Evros region, firing tear gas canisters towards the ongoing clashes between Greek police and migrants and refugees seeking safe passage\.
 
 
-[![Επεισόδια στις Καστανιές Εβρου](assets/fd74bb29e3fd/ee8b_hqdefault.jpg "Επεισόδια στις Καστανιές Εβρου")](https://www.youtube.com/watch?v=jx2qUZOhQ70)
+[![Επεισόδια στις Καστανιές Εβρου](../assets/fd74bb29e3fd/ee8b_hqdefault.jpg "Επεισόδια στις Καστανιές Εβρου")](https://www.youtube.com/watch?v=jx2qUZOhQ70)
 
 
 Whilst the statement provided by the Greek authorities looks to point towards Turkey for the continued use of tear gas, this should not distract from the fact that Greek police have also been routinely firing tear gas upon refugees and migrants\.
@@ -76,12 +76,12 @@ Despite the mounting evidence indicating the opposite, a statement by [Margariti
 [A report by Bellingcat](https://www.bellingcat.com/news/uk-and-europe/2020/03/04/greek-security-services-may-be-using-potentially-lethal-tear-gas-munitions/?fbclid=IwAR0aBSEDD43EDeNJu3NxWh3MkAeG-j5WtJbxFWJUiB1OTf6sBS1IYi-yfpA) has indicated that Greek security services may be using potentially lethal tear gas munitions against refugees\. They have claimed that images and videos coming from the region suggest that Greek authorities may be using similar tear gas rounds to those that have resulted in death and serious injury during protests in Iraq\. Unlike normal tear\-gas rounds, the extended range tear\-gas rounds that were first identified by the Omega Research Foundation as being used by the Greek authorities, are fired at far greater distances, have a pointed tip and therefore are likely to cause significantly worse injuries\. The design of these tear\-gas rounds means that a direct hit would be potentially lethal\.
 
 
-![CS 560, №560 FEDERAL SPEDEHEAT, LONG RANGE PROJECTILE, IRRITATING AGENT Source \( [@Omega\_RF](https://twitter.com/Omega_RF) \)](assets/fd74bb29e3fd/1*z_jASJjGuNfibJeVS8-LnA.jpeg)
+![CS 560, №560 FEDERAL SPEDEHEAT, LONG RANGE PROJECTILE, IRRITATING AGENT Source \( [@Omega\_RF](https://twitter.com/Omega_RF) \)](../assets/fd74bb29e3fd/1*z_jASJjGuNfibJeVS8-LnA.jpeg)
 
 CS 560, №560 FEDERAL SPEDEHEAT, LONG RANGE PROJECTILE, IRRITATING AGENT Source \( [@Omega\_RF](https://twitter.com/Omega_RF) \)
 
 
-![CS 560 round recovered from Turkish\-Greek border\. Source \( [@Omega\_RF](https://twitter.com/Omega_RF) \)](assets/fd74bb29e3fd/1*8U9ywqx2i_hrGMRaJpovGw.jpeg)
+![CS 560 round recovered from Turkish\-Greek border\. Source \( [@Omega\_RF](https://twitter.com/Omega_RF) \)](../assets/fd74bb29e3fd/1*8U9ywqx2i_hrGMRaJpovGw.jpeg)
 
 CS 560 round recovered from Turkish\-Greek border\. Source \( [@Omega\_RF](https://twitter.com/Omega_RF) \)
 

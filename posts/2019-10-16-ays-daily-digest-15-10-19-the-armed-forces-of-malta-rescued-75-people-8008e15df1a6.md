@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,greece,italy]
 description: Update from Samos fire // new arrivals to Aegean islands // 12 bodies found from Lampedusa shipwreck // and more…
 image:
-  path: assets/8008e15df1a6/1*voEleOEr3wnaDJ24249ouQ.jpeg
+  path: ../assets/8008e15df1a6/1*voEleOEr3wnaDJ24249ouQ.jpeg
 ---
 
 ### AYS Daily Digest 15/10/19 The Armed Forces of Malta rescued 75 people
@@ -58,11 +58,11 @@ A rescue reported by AlarmPhone, who originally were alerted to the possibility 
 **Update on the aftermath of the fire on Samos,** which occurred on Monday, after a fight broke out in the camp\. Thankfully no one was killed, but many people were taken to the hospital for serious burns\. Everyone, [over 6,000 people](https://www.medicisenzafrontiere.it/news-e-storie/news/incendio-nel-campo-di-samos/?fbclid=IwAR0AqYwK5fU4wBIfGc0Zx9FsijGvBN40gwLILDURj1rOxWfA_qOCf5BNlms) , was forced out of the camp to sleep elsewhere and [about 700 tents were destroyed:](https://www.facebook.com/pg/samosvolunteers/posts/?ref=page_internal)
 
 
-![](assets/8008e15df1a6/1*XY408SMq6B5mYww3qX5pKQ.jpeg)
+![](../assets/8008e15df1a6/1*XY408SMq6B5mYww3qX5pKQ.jpeg)
 
 
 
-![As RSA reports: “Many [\#refugeesgr](https://twitter.com/hashtag/refugeesgr?src=hash) had to sleep in parks and streets in [\#Vathy](https://twitter.com/hashtag/Vathy?src=hash) after the fire yesterday in [\#Samos](https://twitter.com/hashtag/Samos?src=hash) hotspot\. Dozen of tents have been burned together with blankets, clothes and personal items of the people\. [\#opentheislands](https://twitter.com/hashtag/opentheislands?src=hash) [\#stopthetoxicdeal](https://twitter.com/hashtag/stopthetoxicdeal?src=hash) ” Photos by [RSA](https://twitter.com/rspaegean/status/1184106649641861120?fbclid=IwAR3Mj9oon06Mmt8Hd9lbAauB3jFcMt2WQJx0jRfzmsY-mTBFvIpO-k_biEg)](assets/8008e15df1a6/1*voEleOEr3wnaDJ24249ouQ.jpeg)
+![As RSA reports: “Many [\#refugeesgr](https://twitter.com/hashtag/refugeesgr?src=hash) had to sleep in parks and streets in [\#Vathy](https://twitter.com/hashtag/Vathy?src=hash) after the fire yesterday in [\#Samos](https://twitter.com/hashtag/Samos?src=hash) hotspot\. Dozen of tents have been burned together with blankets, clothes and personal items of the people\. [\#opentheislands](https://twitter.com/hashtag/opentheislands?src=hash) [\#stopthetoxicdeal](https://twitter.com/hashtag/stopthetoxicdeal?src=hash) ” Photos by [RSA](https://twitter.com/rspaegean/status/1184106649641861120?fbclid=IwAR3Mj9oon06Mmt8Hd9lbAauB3jFcMt2WQJx0jRfzmsY-mTBFvIpO-k_biEg)](../assets/8008e15df1a6/1*voEleOEr3wnaDJ24249ouQ.jpeg)
 
 As RSA reports: “Many [\#refugeesgr](https://twitter.com/hashtag/refugeesgr?src=hash) had to sleep in parks and streets in [\#Vathy](https://twitter.com/hashtag/Vathy?src=hash) after the fire yesterday in [\#Samos](https://twitter.com/hashtag/Samos?src=hash) hotspot\. Dozen of tents have been burned together with blankets, clothes and personal items of the people\. [\#opentheislands](https://twitter.com/hashtag/opentheislands?src=hash) [\#stopthetoxicdeal](https://twitter.com/hashtag/stopthetoxicdeal?src=hash) ” Photos by [RSA](https://twitter.com/rspaegean/status/1184106649641861120?fbclid=IwAR3Mj9oon06Mmt8Hd9lbAauB3jFcMt2WQJx0jRfzmsY-mTBFvIpO-k_biEg)
 
@@ -120,7 +120,7 @@ Fifth boat → Chios, 31 people \(16 children, 6 women, 9 men\)
 ![In an update from [Tuzlanski volonteri](https://www.facebook.com/Tuzlanski-volonteri-108916427190996/) : “Our free shop for migrants is open now\. We are trying to give them clean and new clothes and shoes\.Free shop is open every day 12:00–14:00\.
 Unfortunately, we aren’t always able to do that\.
 There is always a need of shoes size 39–44 and small trousers like W30/31/32\. Belts would be great because we have none and they alsways ask for that\. And big backpacks \. We also gave a lot of underware size M\. For that we have some more in the big warehouse but i think we run out of that quickly\.
-You can donate clothes every day from 15:00 to 17:00 hours to big warehouse\.” Photo by [Tuzlanski volunteri](https://www.facebook.com/permalink.php?story_fbid=109943817088257&id=108916427190996&hc_location=ufi)](assets/8008e15df1a6/1*k6Ox5qvLTdRnNwfKCMEPKQ.jpeg)
+You can donate clothes every day from 15:00 to 17:00 hours to big warehouse\.” Photo by [Tuzlanski volunteri](https://www.facebook.com/permalink.php?story_fbid=109943817088257&id=108916427190996&hc_location=ufi)](../assets/8008e15df1a6/1*k6Ox5qvLTdRnNwfKCMEPKQ.jpeg)
 
 In an update from [Tuzlanski volonteri](https://www.facebook.com/Tuzlanski-volonteri-108916427190996/) : “Our free shop for migrants is open now\. We are trying to give them clean and new clothes and shoes\.Free shop is open every day 12:00–14:00\.
 Unfortunately, we aren’t always able to do that\.
@@ -143,7 +143,7 @@ In an update from [First Aid Support Team](https://www.facebook.com/FASTFirstAid
 [The EU has failed](https://www.dw.com/en/eu-breaks-promise-of-safe-passage-for-50000-refugees/a-50803664?fbclid=IwAR15bYmkb52mxuBk1jEtxgZ0qwxW599r-vyrmYvOf951sbaQK8XPlscrfQk) to live up to a promise to admit 50,000 refugees by the end of this month\. The EU launched a 2 year resettlement program with a October 31st, 2019 deadline, but only 37,520 people have come to Europe through the program so far\. Many of the people waiting are still in Libya\. Here is a quota of several countries so far:
 
 
-![Photo by [DW](https://www.dw.com/en/eu-breaks-promise-of-safe-passage-for-50000-refugees/a-50803664?fbclid=IwAR15bYmkb52mxuBk1jEtxgZ0qwxW599r-vyrmYvOf951sbaQK8XPlscrfQk)](assets/8008e15df1a6/1*ZrGDpunrHqptzDRrnDHtvw.png)
+![Photo by [DW](https://www.dw.com/en/eu-breaks-promise-of-safe-passage-for-50000-refugees/a-50803664?fbclid=IwAR15bYmkb52mxuBk1jEtxgZ0qwxW599r-vyrmYvOf951sbaQK8XPlscrfQk)](../assets/8008e15df1a6/1*ZrGDpunrHqptzDRrnDHtvw.png)
 
 Photo by [DW](https://www.dw.com/en/eu-breaks-promise-of-safe-passage-for-50000-refugees/a-50803664?fbclid=IwAR15bYmkb52mxuBk1jEtxgZ0qwxW599r-vyrmYvOf951sbaQK8XPlscrfQk)
 

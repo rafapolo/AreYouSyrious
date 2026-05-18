@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [special,human-trafficking,asylum-seekers,united-kingdom,european-migration-policy]
 description: The failure to recognise circumstances and trauma experienced by victims turns asylum applications into a ruthless retraumatising process
 image:
-  path: assets/b4701963b9e1/1*jHparmWDyK3yvWhjYhnVOw.jpeg
+  path: ../assets/b4701963b9e1/1*jHparmWDyK3yvWhjYhnVOw.jpeg
 ---
 
 ### AYS Special from the UK — Credibility assessments in Human trafficking cases
@@ -20,7 +20,7 @@ image:
 
 
 
-![Photo credit: Canvas Free \(AbdukadirSavas\)](assets/b4701963b9e1/1*jHparmWDyK3yvWhjYhnVOw.jpeg)
+![Photo credit: Canvas Free \(AbdukadirSavas\)](../assets/b4701963b9e1/1*jHparmWDyK3yvWhjYhnVOw.jpeg)
 
 Photo credit: Canvas Free \(AbdukadirSavas\)
 
@@ -31,7 +31,7 @@ As safe, legal migration routes are shut down and basic support for asylum\-seek
 There are many push factors that might drive a person to leave their country of origin, among the most common are conflict, persecution and financial insecurity\. For those same reasons, people on the move are at risk of falling prey to human traffickers; a person without the means to pay for their transport is unlikely to be in a position to negotiate the terms of their travel, whilst a person escaping conflict is left with almost no choice\. This leaves people on the move vulnerable to exploitation, whether that be through sexual exploitation, debt bondage or forced criminality, to name a few examples\. Traffickers often withhold or dispose of their victims’ identity documents and threaten their victims to prevent them from approaching the authorities\. They usually control the routes; the most common are the Central Mediterranean, via Libya, through to Italy and the Balkan route, from Turkey through Greece to Northern Europe\.
 
 
-![Photo Credit: Ana Alicia Molina](assets/b4701963b9e1/1*M6eN0RKGWkn8qkDlheWfmg.jpeg)
+![Photo Credit: Ana Alicia Molina](../assets/b4701963b9e1/1*M6eN0RKGWkn8qkDlheWfmg.jpeg)
 
 Photo Credit: Ana Alicia Molina
 

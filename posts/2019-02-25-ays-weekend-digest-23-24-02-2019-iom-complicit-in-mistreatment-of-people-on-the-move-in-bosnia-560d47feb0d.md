@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,bosnia,iom,moria8]
 description: People freezing in mountain detention centre in Libya /// Deportation halted in Germany /// #Moria8 found not guilty /// Protests planned…
 image:
-  path: assets/560d47feb0d/1*abUGaXE1r0xyaYQ_4p1qow.jpeg
+  path: ../assets/560d47feb0d/1*abUGaXE1r0xyaYQ_4p1qow.jpeg
 ---
 
 ### AYS Weekend Digest 23–24/02/2019 IOM complicit in mistreatment of people on the move in Bosnia
@@ -15,7 +15,7 @@ image:
 People freezing in mountain detention centre in Libya /// Deportation halted in Germany /// \#Moria8 found not guilty /// Protests planned in Athens /// Videos from Moroccan detention centres /// Refugee status becomes provisional in Denmark…
 
 
-![Wall in Calais \(Photo by [Refugee Rights Europe](https://www.facebook.com/RefugeeRightsEurope/photos/pcb.1990901097883392/1990901007883401/?type=3&theater) \)](assets/560d47feb0d/1*abUGaXE1r0xyaYQ_4p1qow.jpeg)
+![Wall in Calais \(Photo by [Refugee Rights Europe](https://www.facebook.com/RefugeeRightsEurope/photos/pcb.1990901097883392/1990901007883401/?type=3&theater) \)](../assets/560d47feb0d/1*abUGaXE1r0xyaYQ_4p1qow.jpeg)
 
 Wall in Calais \(Photo by [Refugee Rights Europe](https://www.facebook.com/RefugeeRightsEurope/photos/pcb.1990901097883392/1990901007883401/?type=3&theater) \)
 #### FEATURE: Bosnia — IOM complicit in mistreatment of people on the move
@@ -23,7 +23,7 @@ Wall in Calais \(Photo by [Refugee Rights Europe](https://www.facebook.com/Refug
 They came to pick them up early on Saturday morning when half of the people were sleeping\. All at once security and [IOM \- UN Migration](https://medium.com/u/664cb26312d4) personnel started to wake them up and randomly push and hurry them out towards the buses that were waiting in the front of the camp\. They had to run and leave all their belongings, including clothes and shoes they were given previously by volunteers and locals\. These possessions were not easily gotten, as in the camp people rarely get anything; not even enough food\.
 
 
-![Velecevo \( [Crveni Križ Općine Ključ](https://www.facebook.com/profile.php?id=100009318317491&__tn__=%2CdlC-R-R&eid=ARCdx4UYOPvIMRONGJEnVJ3HHA8gz1HNYHF4kUT4tNUYCF0Ri2tD7Pyj0fFJjXD-3KPnhz6p2vw9aX7W&hc_ref=ARRVSwxh-KUaN9ESGaqVbU1tIptg8_8fYb221nqIy5ib4MWGTgDSPmj2FD-GAF2a19Y) \)](assets/560d47feb0d/1*c_K35aklpBHOQ3MF2cPowQ.jpeg)
+![Velecevo \( [Crveni Križ Općine Ključ](https://www.facebook.com/profile.php?id=100009318317491&__tn__=%2CdlC-R-R&eid=ARCdx4UYOPvIMRONGJEnVJ3HHA8gz1HNYHF4kUT4tNUYCF0Ri2tD7Pyj0fFJjXD-3KPnhz6p2vw9aX7W&hc_ref=ARRVSwxh-KUaN9ESGaqVbU1tIptg8_8fYb221nqIy5ib4MWGTgDSPmj2FD-GAF2a19Y) \)](../assets/560d47feb0d/1*c_K35aklpBHOQ3MF2cPowQ.jpeg)
 
 Velecevo \( [Crveni Križ Općine Ključ](https://www.facebook.com/profile.php?id=100009318317491&__tn__=%2CdlC-R-R&eid=ARCdx4UYOPvIMRONGJEnVJ3HHA8gz1HNYHF4kUT4tNUYCF0Ri2tD7Pyj0fFJjXD-3KPnhz6p2vw9aX7W&hc_ref=ARRVSwxh-KUaN9ESGaqVbU1tIptg8_8fYb221nqIy5ib4MWGTgDSPmj2FD-GAF2a19Y) \)
 
@@ -36,7 +36,7 @@ In Bira, over 2200 people are currently living in the camp, while in Miral there
 Nevertheless, people are willing to stay there while waiting for the right time to try again to cross to Croatia\. If they are sent back to Sarajevo, they face a longer journey before they can cross the border, making the attempts even more difficult\. Many do not have enough money to pay to go again to Bihac\. Even if they do, unlawful practices by the local police in Bihac do not permit them to come back\. Since October, police posted check\-point in Veleceve area where buses are stopped and people taken out and left by the street, with the only help available being provided by local people\. This weekend, a woman from Syria, mother of two, was among those left on the street\.
 
 
-![Velecevo check\-point — Syrian women left alone after taken from the bus Sarajevo — Bihac\. \(Photo by [Crveni Križ Općine Ključ](https://www.facebook.com/profile.php?id=100009318317491&__tn__=%2CdlC-R-R&eid=ARCdx4UYOPvIMRONGJEnVJ3HHA8gz1HNYHF4kUT4tNUYCF0Ri2tD7Pyj0fFJjXD-3KPnhz6p2vw9aX7W&hc_ref=ARRVSwxh-KUaN9ESGaqVbU1tIptg8_8fYb221nqIy5ib4MWGTgDSPmj2FD-GAF2a19Y) \)](assets/560d47feb0d/1*Ot-dkX-YZ3kc-v-ncfW3kw.jpeg)
+![Velecevo check\-point — Syrian women left alone after taken from the bus Sarajevo — Bihac\. \(Photo by [Crveni Križ Općine Ključ](https://www.facebook.com/profile.php?id=100009318317491&__tn__=%2CdlC-R-R&eid=ARCdx4UYOPvIMRONGJEnVJ3HHA8gz1HNYHF4kUT4tNUYCF0Ri2tD7Pyj0fFJjXD-3KPnhz6p2vw9aX7W&hc_ref=ARRVSwxh-KUaN9ESGaqVbU1tIptg8_8fYb221nqIy5ib4MWGTgDSPmj2FD-GAF2a19Y) \)](../assets/560d47feb0d/1*Ot-dkX-YZ3kc-v-ncfW3kw.jpeg)
 
 Velecevo check\-point — Syrian women left alone after taken from the bus Sarajevo — Bihac\. \(Photo by [Crveni Križ Općine Ključ](https://www.facebook.com/profile.php?id=100009318317491&__tn__=%2CdlC-R-R&eid=ARCdx4UYOPvIMRONGJEnVJ3HHA8gz1HNYHF4kUT4tNUYCF0Ri2tD7Pyj0fFJjXD-3KPnhz6p2vw9aX7W&hc_ref=ARRVSwxh-KUaN9ESGaqVbU1tIptg8_8fYb221nqIy5ib4MWGTgDSPmj2FD-GAF2a19Y) \)
 
@@ -122,7 +122,7 @@ Aegean Boat Report is calling out for support to continue doing their work, high
 They stress the importance of information sharing, especially in the face of violence and suppression by the Greek government and police towards those on the ground trying to spread the word\. ABR are asking for people to send any information to either their email at [**aegeanboatreport@hotmail\.com**](mailto:aegeanboatreport@hotmail.com) or their WhatsApp number in the picture below \(they can only receive WhatsApp messages and not phone calls on this number\) \. Information can be either anonymised or accredited\.
 
 
-![](assets/560d47feb0d/1*gR7ceELKAb7zTT6qkBbQNQ.jpeg)
+![](../assets/560d47feb0d/1*gR7ceELKAb7zTT6qkBbQNQ.jpeg)
 
 #### **Weather Warnings**
 
@@ -171,7 +171,7 @@ A milestone decision has been reached at a court on Lesvos, which saw the legal 
 Ebuka, a Nigerian migrant and a husband and father to 2 children, died at the hands of the police inside Omonia police station earlier this month\. The police then tried to cover up the incident by misleading Ebuka’s wife to his whereabouts, sending her to many different police stations before a lawyer intervened and she learnt the true fate of her husband\. It was also police at this station who were involved in the [cover up and murder of Zak Kostopoulos, a trans rights activist, a few months ago](http://i-base.info/htb/35047) \.
 
 
-![](assets/560d47feb0d/1*savtb7uSkb88bWGhq9REOA.jpeg)
+![](../assets/560d47feb0d/1*savtb7uSkb88bWGhq9REOA.jpeg)
 
 
 
@@ -249,7 +249,7 @@ An update from a camp resident on the situation in Moria camp on Lesvos, which c
 
 
 
-![Moria Camp \(Photo by [Farid Ahmad Behzad](https://www.facebook.com/groups/763313107147281/permalink/1707662516045664/?hc_location=ufi) \)](assets/560d47feb0d/1*UOPIkLDFyMpkJdBPtcrLeg.jpeg)
+![Moria Camp \(Photo by [Farid Ahmad Behzad](https://www.facebook.com/groups/763313107147281/permalink/1707662516045664/?hc_location=ufi) \)](../assets/560d47feb0d/1*UOPIkLDFyMpkJdBPtcrLeg.jpeg)
 
 Moria Camp \(Photo by [Farid Ahmad Behzad](https://www.facebook.com/groups/763313107147281/permalink/1707662516045664/?hc_location=ufi) \)
 

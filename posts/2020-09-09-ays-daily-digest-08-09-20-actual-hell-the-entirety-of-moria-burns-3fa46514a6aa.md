@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 08/09/20 Actual Hell: the entirety of Moria burns
+title: "AYS Daily Digest 08/09/20 Actual Hell: the entirety of Moria burns"
 author: Are You Syrious?
 date: 2020-09-09T10:08:47.124+0100
 last_modified_at: 2020-09-09T10:08:47.124+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [greece,moria,refugees,fire]
 description: Confirmed COVID cases in Syrian refugee camp in Jordan // Amnesty Internationals report on Malta // Cyprus sending authorities to Lebanon…
 image:
-  path: assets/3fa46514a6aa/1*mybHqMyvVDDsnNXBjMHUtw.png
+  path: ../assets/3fa46514a6aa/1*mybHqMyvVDDsnNXBjMHUtw.png
 ---
 
 ### AYS Daily Digest 08/09/20 Actual Hell: the entirety of Moria burns
@@ -15,7 +15,7 @@ image:
 _Confirmed COVID cases in Syrian refugee camp in Jordan // Amnesty Internationals report on Malta // Cyprus sending authorities to Lebanon // the cost on displaced of America’s War on Terror // and more…_
 
 
-![The end of Moria? Screenshot of video sent to [Franziska Grillmeier](https://twitter.com/f_grillmeier/status/1303478067348803584)](assets/3fa46514a6aa/1*mybHqMyvVDDsnNXBjMHUtw.png)
+![The end of Moria? Screenshot of video sent to [Franziska Grillmeier](https://twitter.com/f_grillmeier/status/1303478067348803584)](../assets/3fa46514a6aa/1*mybHqMyvVDDsnNXBjMHUtw.png)
 
 The end of Moria? Screenshot of video sent to [Franziska Grillmeier](https://twitter.com/f_grillmeier/status/1303478067348803584)
 ### FEATURE — The Hell that is Moria entirely engulfed in flames: could this be the end?
@@ -99,13 +99,13 @@ In [Aegean Boat Report’s](https://www.facebook.com/AegeanBoatReport/) last pos
 Here is an accumulation of videos posted by Stand by me Lesvos:
 
 
-[![Chaos in Moria: The whole refugee camp is on fire - Η Μόρια στις φλόγες](assets/3fa46514a6aa/02ce_hqdefault.jpg "Chaos in Moria: The whole refugee camp is on fire - Η Μόρια στις φλόγες")](https://www.youtube.com/watch?v=a4ByA-li1no)
+[![Chaos in Moria: The whole refugee camp is on fire - Η Μόρια στις φλόγες](../assets/3fa46514a6aa/02ce_hqdefault.jpg "Chaos in Moria: The whole refugee camp is on fire - Η Μόρια στις φλόγες")](https://www.youtube.com/watch?v=a4ByA-li1no)
 
 
 Here is the video AYS was sent:
 
 
-[![Moria is burning](assets/3fa46514a6aa/65a9_hqdefault.jpg "Moria is burning")](https://www.youtube.com/watch?v=QLdjGS6PqO4)
+[![Moria is burning](../assets/3fa46514a6aa/65a9_hqdefault.jpg "Moria is burning")](https://www.youtube.com/watch?v=QLdjGS6PqO4)
 
 
 Here is a video by Refocus Media Labs of “over a thousand people walking roads out of Moria for safety\.” They also reported “Thousands more in the olive groves seeking shelter — Police blocking main roads to Mytiline — Reports of armed locals attacking support vehicles trying to bring supplies in to those stranded\.”
@@ -120,7 +120,7 @@ Here is a video by Refocus Media Labs of “over a thousand people walking roads
 The news comes on Tuesday from Azraq camp, where over 40,000 people are now living\. Aljazeera reports that “They are the first infections to be detected among Syrians living in refugee camps in Jordan\. The UNHCR said the two patients were transferred to quarantine facilities after testing positive late Monday, and their neighbors have been isolated as more testing is carried out\.” Jordan and Lebanon are struggling as it is to help their refugee populations, as well as their own citizens from COVID\-19\. There needs to be a better international response to the pandemic\.
 
 
-![“Palestinian refugees wait in front of the Amman New Camp health centre to register their names to get medication amid concerns over the spread of coronavirus in Amman\.” Photo by [Muhammad Hamed/Reuters](https://www.aljazeera.com/news/2020/09/covid-19-cases-confirmed-jordan-camp-syrian-refugees-200908121425186.html?fbclid=IwAR1nER5vm0FK93OZ0icl0n5_OKUIzUkg2kMiBroTjApiiV3qidwfBLdND90)](assets/3fa46514a6aa/1*GBLQJneZJBVF0QKx3O5cdw.jpeg)
+![“Palestinian refugees wait in front of the Amman New Camp health centre to register their names to get medication amid concerns over the spread of coronavirus in Amman\.” Photo by [Muhammad Hamed/Reuters](https://www.aljazeera.com/news/2020/09/covid-19-cases-confirmed-jordan-camp-syrian-refugees-200908121425186.html?fbclid=IwAR1nER5vm0FK93OZ0icl0n5_OKUIzUkg2kMiBroTjApiiV3qidwfBLdND90)](../assets/3fa46514a6aa/1*GBLQJneZJBVF0QKx3O5cdw.jpeg)
 
 “Palestinian refugees wait in front of the Amman New Camp health centre to register their names to get medication amid concerns over the spread of coronavirus in Amman\.” Photo by [Muhammad Hamed/Reuters](https://www.aljazeera.com/news/2020/09/covid-19-cases-confirmed-jordan-camp-syrian-refugees-200908121425186.html?fbclid=IwAR1nER5vm0FK93OZ0icl0n5_OKUIzUkg2kMiBroTjApiiV3qidwfBLdND90)
 #### LIBYA
@@ -209,11 +209,11 @@ On Monday, Cyprus officials announced that they are sending a team to Beirut to 
 #### GREECE
 
 
-![](assets/3fa46514a6aa/1*kISfz6MajgLE60hYbrxG8A.jpeg)
+![](../assets/3fa46514a6aa/1*kISfz6MajgLE60hYbrxG8A.jpeg)
 
 
 
-![18 people were taken by the Greek Coast Guard after landing on Samos\. There current whereabouts are unknown\. “\(They\) arrived on Cape Praso, Samos north east this morning 06\.00\. The people fled to the woods after landing, scared to be returned to Turkey by Greek coast guard\.” Info and Photos by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/916038108919294)](assets/3fa46514a6aa/1*TrMWKynGKhquStR9p2KKsA.jpeg)
+![18 people were taken by the Greek Coast Guard after landing on Samos\. There current whereabouts are unknown\. “\(They\) arrived on Cape Praso, Samos north east this morning 06\.00\. The people fled to the woods after landing, scared to be returned to Turkey by Greek coast guard\.” Info and Photos by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/916038108919294)](../assets/3fa46514a6aa/1*TrMWKynGKhquStR9p2KKsA.jpeg)
 
 18 people were taken by the Greek Coast Guard after landing on Samos\. There current whereabouts are unknown\. “\(They\) arrived on Cape Praso, Samos north east this morning 06\.00\. The people fled to the woods after landing, scared to be returned to Turkey by Greek coast guard\.” Info and Photos by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/916038108919294)
 
@@ -265,7 +265,7 @@ The Secretary of State for Migration, Hana Jalloul has responded “favorably”
 
 
 ![“Today we had two intervention where two people were taken to a health home\! The condition is bad\.
-People who survived torture, Chase, war, lost children on this road, experience they have no rights but to stop and suffer further\.” Photo by [Sanella Lepirica](https://www.facebook.com/sanela.lepirica/posts/3516877361696802) an aid worker](assets/3fa46514a6aa/1*cmVteUiRRlzaqIpKRyGMxQ.jpeg)
+People who survived torture, Chase, war, lost children on this road, experience they have no rights but to stop and suffer further\.” Photo by [Sanella Lepirica](https://www.facebook.com/sanela.lepirica/posts/3516877361696802) an aid worker](../assets/3fa46514a6aa/1*cmVteUiRRlzaqIpKRyGMxQ.jpeg)
 
 “Today we had two intervention where two people were taken to a health home\! The condition is bad\.
 People who survived torture, Chase, war, lost children on this road, experience they have no rights but to stop and suffer further\.” Photo by [Sanella Lepirica](https://www.facebook.com/sanela.lepirica/posts/3516877361696802) an aid worker
@@ -276,7 +276,7 @@ People are serious and difficult health condition, sick and injured\. At the poi
 We are trying to reduce their suffering by treat their injuries local, at the scene of the injury\.
 We have a woman of 50 and a few years also heavy health condition with high values of blood sugar, which is treated from diabetes for 20 years as well as the following disease DM\.
 Today, our volunteers had the integration of the loss of consciousness of a very young man, which was brought to HP\.
-These are just some of the cases our volunteers meet at the point in velecevu\. Photo by [Crveni Križ Općine Ključ](https://www.facebook.com/permalink.php?story_fbid=2755527208101196&id=100009318317491)](assets/3fa46514a6aa/1*0UoOQeCyc3P-vtFQ9_pY1Q.jpeg)
+These are just some of the cases our volunteers meet at the point in velecevu\. Photo by [Crveni Križ Općine Ključ](https://www.facebook.com/permalink.php?story_fbid=2755527208101196&id=100009318317491)](../assets/3fa46514a6aa/1*0UoOQeCyc3P-vtFQ9_pY1Q.jpeg)
 
 A few days ago we witness a very difficult situation at the transition point in velečevu — the key\.
 People are serious and difficult health condition, sick and injured\. At the point there are two young children, one of which has a leg break, with severe pain, and the other \(girl\) also strong pain of right shoulder, where we also doubt the break\.

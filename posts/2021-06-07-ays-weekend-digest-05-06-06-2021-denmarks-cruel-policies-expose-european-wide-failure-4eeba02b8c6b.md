@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [denmark,asylum-policy,digest,refugees,migrants]
 description: Turkey Bombs Kurdish Refugee Camp in Iraq // Sea-Eye 4 Detained in Italy // Another Pushback From Lesvos
 image:
-  path: assets/4eeba02b8c6b/0*LCLmsC9MeL2woYo_
+  path: ../assets/4eeba02b8c6b/0*LCLmsC9MeL2woYo_
 ---
 
 ### AYS Weekend Digest 05–06\.06\.2021 — Denmark’s Cruel Policies Expose European\-Wide Failure
 #### Turkey Bombs Kurdish Refugee Camp in Iraq // Sea\-Eye 4 Detained in Italy // Another Pushback From Lesvos
 
 
-![](assets/4eeba02b8c6b/0*LCLmsC9MeL2woYo_)
+![](../assets/4eeba02b8c6b/0*LCLmsC9MeL2woYo_)
 
 
 Photos from No Name Kitchen and SOS Refugiados’ distribution campaign\. Photo credit: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/1252215948510020)
@@ -71,7 +71,7 @@ No Name Kitchen is looking for donations to continue their Health on the Move pr
 ### Food distribution in Trieste
 
 
-![](assets/4eeba02b8c6b/0*6-si6mD2kby1jpWv)
+![](../assets/4eeba02b8c6b/0*6-si6mD2kby1jpWv)
 
 
 Photo Credit: [Lorena Fornasir](https://www.facebook.com/photo/?fbid=3979132468870487&set=a.309992879117816)

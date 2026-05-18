@@ -1,24 +1,24 @@
 ---
-title: AYS Weekend Digest 7–8/3/2020 Greece: Rhetorics of “invasion” cause more damage daily
+title: "AYS Weekend Digest 7–8/3/2020 Greece: Rhetorics of “invasion” cause more damage daily"
 author: Are You Syrious?
 date: 2020-03-09T12:02:01.242+0000
 last_modified_at: 2020-03-09T12:02:01.242+0000
 categories: Are You Syrious?
 tags: []
-description: Updates from Lesvos and the land border between Greece and Turkey. Greece: Further cuts to support for refugees. Libya: Fire at Zintan…
+description: "Updates from Lesvos and the land border between Greece and Turkey. Greece: Further cuts to support for refugees. Libya: Fire at Zintan…"
 image:
-  path: assets/1f10e423a32f/0*mXyxgGRHVVzy6LDl.jpeg
+  path: ../assets/1f10e423a32f/0*mXyxgGRHVVzy6LDl.jpeg
 ---
 
 ### AYS Weekend Digest 7–8/3/2020 Greece: Rhetorics of “invasion” cause more damage daily
 #### Updates from Lesvos and the land border between Greece and Turkey\. Greece: Further cuts to support for refugees\. Libya: Fire at Zintan detention centre\. Germany: 5,000 people against institutional violence at Europe’s border\. Albania: Syrian group reach the country from Greece\.
 
 
-![](assets/1f10e423a32f/0*dN2EUfBTB8FZPH-G)
+![](../assets/1f10e423a32f/0*dN2EUfBTB8FZPH-G)
 
 
 
-![](assets/1f10e423a32f/0*mXyxgGRHVVzy6LDl.jpeg)
+![](../assets/1f10e423a32f/0*mXyxgGRHVVzy6LDl.jpeg)
 
 ### GREECE: The rhetorics of “invasion” cause more damage daily\.
 
@@ -43,11 +43,11 @@ From One Happy Family:
 
 
 
-![](assets/1f10e423a32f/0*JkwDFnZz0b6xrVSl)
+![](../assets/1f10e423a32f/0*JkwDFnZz0b6xrVSl)
 
 
 
-![](assets/1f10e423a32f/0*k2eowbdABuVB1XV4.jpeg)
+![](../assets/1f10e423a32f/0*k2eowbdABuVB1XV4.jpeg)
 
 
 
@@ -64,11 +64,11 @@ From One Happy Family:
 
 
 
-![](assets/1f10e423a32f/0*K9y5lvXk_T1VKyC3)
+![](../assets/1f10e423a32f/0*K9y5lvXk_T1VKyC3)
 
 
 
-![](assets/1f10e423a32f/0*udLXDAXdf3rcxAG_.jpeg)
+![](../assets/1f10e423a32f/0*udLXDAXdf3rcxAG_.jpeg)
 
 
 
@@ -138,11 +138,11 @@ From One Happy Family:
 The arson attack happened only a few hours after a large solidarity demonstration in Mytilene\. Thousands of people gathered to protest against the overcrowding of the islands, against the violent attacks upon activists, locals and NGOs who stand in solidarity with refugees on the islands, against the fascists — tourists of misery — who arrived on the islands from different European countries over the last week, and against the policies of both the Greek government and the European Union\.
 
 
-![](assets/1f10e423a32f/0*JjdOhdNXsxRb2InH)
+![](../assets/1f10e423a32f/0*JjdOhdNXsxRb2InH)
 
 
 
-![](assets/1f10e423a32f/0*IoHE9gLdNQAX5X7P.jpeg)
+![](../assets/1f10e423a32f/0*IoHE9gLdNQAX5X7P.jpeg)
 
 
 This arson is only the last in a series of attacks against structures and individuals\. Over a week ago the UNHCR’s Stage 2 facility in Skala Sykamnias was burned down\. Last week a warehouse in Chios was hit in the same way\. Gasoline was poured on the deck of the Mare Liberum to prevent the crew from docking in Lesvos\. FEOX rescue team’s warehouse in Chios had to [shut down following threats](https://www.facebook.com/FEOX-rescue-team-1584119558539350/) \. The attacks against individuals are countless \-physical beatings, the destruction of cameras \(evidence\), cars being smashed and burnt out — have been a daily occurrence, the last happening on Friday night on Samos, when the car of a volunteer nurse from Scandinavia was [set on fire](https://www.samostimes.gr/portal2/nea-samos/koinonia/1994-alli-mia-epithesi-se-melos-mko-sti-samo-pyrpolisan-aftokinito?fbclid=IwAR0zM4nrLpPryRATldjmn-pKNsVfkMC3x6v-W8afChHmn-ZNjYPrbvArdsQ) \. The Greek Photojournalists Association [denounced](https://www.facebook.com/AegeanBoatReport/photos/a.285312485325196/785720515284388?hc_location=ufi&comment_id=Y29tbWVudDoyNDQyOTgwMDcyNTg2MDE4XzI0NDQwMDc3ODkxNDk5MTM%3D) that, despite several calls to stop violence against journalists on Lesvos, “state authorities, such as some port and police officers, systematically hinder, terrorize, and detain colleagues when covering events involving immigrants or refugees”\.
@@ -190,19 +190,19 @@ A protest was held in Parazkule, on the Turkish side of the border by women on t
 Hundreds of women, who have been kept at the Pazarkule border gate for days, expressed their demands with their banners on the 8th of March for their right to live: “Open the borders” — More [here](https://www.theguardian.com/world/2020/mar/08/international-womens-day-protests-strikes-marches-violence?fbclid=IwAR2MIG6YFjG9JHSlASjaIqwQKxfBoA0PWNxpprU-FF4YI_T4bQyMr9Aeg3c)
 
 
-![](assets/1f10e423a32f/0*93T3muwjurDJbSAf)
+![](../assets/1f10e423a32f/0*93T3muwjurDJbSAf)
 
 
 
-![](assets/1f10e423a32f/0*tyMfNCvEtISFBe8F.jpeg)
+![](../assets/1f10e423a32f/0*tyMfNCvEtISFBe8F.jpeg)
 
 
 
-![](assets/1f10e423a32f/0*WrB2RHZRv5tsqkkt)
+![](../assets/1f10e423a32f/0*WrB2RHZRv5tsqkkt)
 
 
 
-![](assets/1f10e423a32f/0*qfOzmPabvkc5mYe-.jpeg)
+![](../assets/1f10e423a32f/0*qfOzmPabvkc5mYe-.jpeg)
 
 
 AFGHANISTAN

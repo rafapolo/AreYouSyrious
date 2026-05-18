@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [samos,hotspots,refugees,special,jungle]
 description: Closing on a challenging year, a look back at the situation on Samos, where thousands of peoplelive in the informal ‘Jungle’…
 image:
-  path: assets/374b8227d5af/1*TrTjj0FaYVg4EKatr9muXA.jpeg
+  path: ../assets/374b8227d5af/1*TrTjj0FaYVg4EKatr9muXA.jpeg
 ---
 
 ### AYS Special from Samos — Fires, Human Rights Violations and Pushbacks
@@ -15,7 +15,7 @@ image:
 _Closing on a challenging year, let us look back at the situation on Samos island where thousands of people are still living in the informal ‘Jungle’, situated on the steep slopes above the town, in increasingly difficult and overcrowded conditions\._
 
 
-![Damage from Vathy fire \(November 2020\)](assets/374b8227d5af/1*TrTjj0FaYVg4EKatr9muXA.jpeg)
+![Damage from Vathy fire \(November 2020\)](../assets/374b8227d5af/1*TrTjj0FaYVg4EKatr9muXA.jpeg)
 
 Damage from Vathy fire \(November 2020\)
 #### The situation on Samos: overcrowding and health concerns
@@ -23,11 +23,11 @@ Damage from Vathy fire \(November 2020\)
 The Vathy RIC in Samos, initially built for 648 people, currently accommodates over 3,500 people — more than five times its capacity\. 2,700 of the recorded population lives outside of the RIC structure, in what is known as “The Jungle”, an amalgamation of tents sprawled on a mountain, either side of the RIC\.
 
 
-![](assets/374b8227d5af/1*HctyRk6o8lbdWY3oaNiJ6A.jpeg)
+![](../assets/374b8227d5af/1*HctyRk6o8lbdWY3oaNiJ6A.jpeg)
 
 
 
-![“The Jungle” — an amalgamation of tents situated on the steep slopes above Vathy town](assets/374b8227d5af/1*XDABDxhFWqfjShHon4zrdw.jpeg)
+![“The Jungle” — an amalgamation of tents situated on the steep slopes above Vathy town](../assets/374b8227d5af/1*XDABDxhFWqfjShHon4zrdw.jpeg)
 
 “The Jungle” — an amalgamation of tents situated on the steep slopes above Vathy town
 
@@ -39,19 +39,19 @@ At least 100 camp residents tested positive for COVID\-19 between September and 
 Since the beginning of the year, there have been at least seven fires in the Vathy camp: [three separate fires in April](https://www.keeptalkinggreece.com/2020/04/27/samos-fires-hotspot-videos/) , [two others in September](https://www.voanews.com/europe/greece-fire-migrant-camp-samos-island-under-control) ; another [on the 2nd November](https://www.infomigrants.net/en/post/28260/fire-outside-vathy-camp-on-samos-leaves-dozens-without-shelter) , which destroyed at least 150 people’s shelters and, one week later, a [second larger fire](https://www.facebook.com/watch/?v=718006448833663) which burnt down the RIC food\-line, isolation boxes and [500–700 people’s shelters](https://www.dailysabah.com/world/europe/fire-breaks-out-at-greeces-samos-migrant-camp-for-2nd-time-in-less-than-2-weeks) \. EuroMed Monitor [stated](https://reliefweb.int/report/greece/samos-fire-inevitable-outcome-appalling-conditions-greek-camps) plainly that the occurrence of such fires in Greek camps is an _“inevitable outcome of appalling conditions_ ’’ of the ‘hotspot approach’ on the Aegean Islands\.
 
 
-![](assets/374b8227d5af/1*v7lKIfSWkGy5gUxxhkyA0g.jpeg)
+![](../assets/374b8227d5af/1*v7lKIfSWkGy5gUxxhkyA0g.jpeg)
 
 
 
-![](assets/374b8227d5af/1*dTmJ2HX183cpD6Dx1TpAeQ.jpeg)
+![](../assets/374b8227d5af/1*dTmJ2HX183cpD6Dx1TpAeQ.jpeg)
 
 
 
-![](assets/374b8227d5af/1*aKYNE5cQbpkUDvyHyw1f3w.jpeg)
+![](../assets/374b8227d5af/1*aKYNE5cQbpkUDvyHyw1f3w.jpeg)
 
 
 
-![Fire in Vathy camp \(November 2020\)](assets/374b8227d5af/1*fxm-_Bg4mLlye3n6MNLGJA.jpeg)
+![Fire in Vathy camp \(November 2020\)](../assets/374b8227d5af/1*fxm-_Bg4mLlye3n6MNLGJA.jpeg)
 
 Fire in Vathy camp \(November 2020\)
 
@@ -60,15 +60,15 @@ International Rescue Committee \(IRC\) [published a report](https://reliefweb.in
 The toll on mental health is directly linked to a diffused environment of normalised emergency and unsteadiness, which was further amplified by the powerful [6\.6–7\.0 Richter earthquake](https://www.bbc.co.uk/news/world-europe-54749509) that hit Samos on 30th October\. The earthquake was followed by a series of mini\-tsunamis that damaged buildings along the waterfront\. Since the end of October over [1,400 aftershocks have been felt,](https://reliefweb.int/report/turkey/izmir-earthquake-rapid-assessment-report-november-2020) with 43 of them measuring over 4\.0 on the Richter scale\. As [predicted](https://temblor.net/earthquake-insights/what-do-we-know-48-hours-after-the-samos-earthquake-12016/) by seismologists, even now that many months have passed, strong aftershocks continue to shake the island, meaning that the danger in Vathy and Samos remains significant as there are a large number of damaged buildings\.
 
 
-![](assets/374b8227d5af/1*CObCxjjCYHx01BZBkwk0Iw.jpeg)
+![](../assets/374b8227d5af/1*CObCxjjCYHx01BZBkwk0Iw.jpeg)
 
 
 
-![](assets/374b8227d5af/1*fSg_LOxU5haHECcL8xh3vg.jpeg)
+![](../assets/374b8227d5af/1*fSg_LOxU5haHECcL8xh3vg.jpeg)
 
 
 
-![Damage in Vathy town from earthquake and mini\-Tsunami \(October/November 2020\)](assets/374b8227d5af/1*2Vo2YCP-4JKiPOFwHfm-hQ.jpeg)
+![Damage in Vathy town from earthquake and mini\-Tsunami \(October/November 2020\)](../assets/374b8227d5af/1*2Vo2YCP-4JKiPOFwHfm-hQ.jpeg)
 
 Damage in Vathy town from earthquake and mini\-Tsunami \(October/November 2020\)
 #### “Strategy of deterrence”: criminalisation and pushbacks
@@ -87,7 +87,7 @@ In November, a referral system for human rights violations was created, which hi
 Furthermore, people are strongly dissatisfied with the food distributed in the Samos RIC by the catering company, which has been continuously contracted for the last several years\. During this time, there have been frequent complaints regarding the poor quality of food — which is cooked on the mainland, frozen and then shipped to Samos\. These complaints include distributions of expired and mouldy food, resulting in stomach problems\. Additionally, people must stand in crowded queues daily to receive food, even during the outbreak of Covid\-19\. This has cultivated a real distrust towards the food distributed in the RIC which is amplified by the practical absence of a clear mechanism for complaints and a lack of transparency around the contracting procedures for the catering company providing food\.
 
 
-![The food served to the people living in Vathy camp has been reported to be spoiled and mouldy\.](assets/374b8227d5af/1*sjbGpz6AK9Q9P6htFemDlg.jpeg)
+![The food served to the people living in Vathy camp has been reported to be spoiled and mouldy\.](../assets/374b8227d5af/1*sjbGpz6AK9Q9P6htFemDlg.jpeg)
 
 The food served to the people living in Vathy camp has been reported to be spoiled and mouldy\.
 
@@ -102,7 +102,7 @@ The appalling conditions of Vathy Camp violate international human rights law �
 
 
 
-![Vathy Camp](assets/374b8227d5af/1*hIdYzhm7kBVNIi6CjuQaRQ.jpeg)
+![Vathy Camp](../assets/374b8227d5af/1*hIdYzhm7kBVNIi6CjuQaRQ.jpeg)
 
 Vathy Camp
 

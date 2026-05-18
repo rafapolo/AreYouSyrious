@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 14/03/2018: “I haven’t finished my dreams yet…” A 10 year old’s message from Afrin
+title: "AYS Daily Digest 14/03/2018: “I haven’t finished my dreams yet…” A 10 year old’s message from Afrin"
 author: Are You Syrious?
 date: 2018-03-15T07:49:25.375+0000
 last_modified_at: 2018-03-15T13:17:33.387+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,europe,greece,syria,digest]
 description: Remembering Stephen Hawking and his plea to end the war in Syria // Words from a 10 year old boy in Afrin // EU to give Turkey 3 billion…
 image:
-  path: assets/751f6e0625db/1*tUZz4PB4OQ7AJvt804l-Lw.jpeg
+  path: ../assets/751f6e0625db/1*tUZz4PB4OQ7AJvt804l-Lw.jpeg
 ---
 
 ### AYS Daily Digest 14/03/2018: “I haven’t finished my dreams yet…” A 10 year old’s message from Afrin
 #### Remembering Stephen Hawking and his plea to end the war in Syria // Words from a 10 year old boy in Afrin // EU to give Turkey 3 billion Dollars // Over 500 arrivals in Greece in 4 days // Riot and suicide attempts in Moria // News from Greece // Balkan Weather Report // Lampedusa hotspot closed for reconstruction // Syrian man falsely accused of ‘terrorism’ ahead of Hungarian elections // News from France, Germany and the UK
 
 
-![Source: Youth for Refugees](assets/751f6e0625db/1*tUZz4PB4OQ7AJvt804l-Lw.jpeg)
+![Source: Youth for Refugees](../assets/751f6e0625db/1*tUZz4PB4OQ7AJvt804l-Lw.jpeg)
 
 Source: Youth for Refugees
 #### FEATURE
@@ -214,7 +214,7 @@ With Internet connection very difficult to obtain in the besieged region, the ci
 The Saadnayel Community centre in the Bekaa Valley is providing much need psychological support to Syrian Refugees\.
 
 
-![](assets/751f6e0625db/1*4XiTekABYO6RSM2t9qbHLA.png)
+![](../assets/751f6e0625db/1*4XiTekABYO6RSM2t9qbHLA.png)
 
 #### Turkey
 ### Greek MEPs call for the release of the two Greek soldiers detained in Turkey
@@ -267,18 +267,18 @@ Despite arrivals having eased in the last two weeks, [earlier this week saw anot
 This is the first boat to arrive Chios since 19\.02\.2018\.
 
 
-![](assets/751f6e0625db/1*kgGzU8a0tuOzgo79XpXYiA.jpeg)
+![](../assets/751f6e0625db/1*kgGzU8a0tuOzgo79XpXYiA.jpeg)
 
 
 
-![Source: Salvamento Marítimo Humanitario](assets/751f6e0625db/1*cPJimJimGIOS1i9aMhlijw.jpeg)
+![Source: Salvamento Marítimo Humanitario](../assets/751f6e0625db/1*cPJimJimGIOS1i9aMhlijw.jpeg)
 
 Source: Salvamento Marítimo Humanitario
 
 **Latest UNHCR statistics for Lesvos arrivals:**
 
 
-![](assets/751f6e0625db/1*-b2pClLKtN-RG07jXeIHXg.jpeg)
+![](../assets/751f6e0625db/1*-b2pClLKtN-RG07jXeIHXg.jpeg)
 
 ### Riots in Moria
 
@@ -418,7 +418,7 @@ You can read more [via this link\.](http://www.infomigrants.net/en/post/8060/tri
 ### Syrian man falsely accused of ‘terrorism’ ahead of Hungarian elections — ‘A travesty of justice’
 
 
-[![Europe's Out of Control](assets/751f6e0625db/0605_hqdefault.jpg "Europe's Out of Control")](http://www.youtube.com/watch?v=UweFfo6Sgqs)
+[![Europe's Out of Control](../assets/751f6e0625db/0605_hqdefault.jpg "Europe's Out of Control")](http://www.youtube.com/watch?v=UweFfo6Sgqs)
 
 
 Ahmed H \(49\) on September 16, 2015, was trying to calm a very intense situation during a protest where hundreds of refugees attempted to penetrate a barbed wire fence on the Serbo\-Hungarian border\. He was arrested and charged with terrorism and has been on trial for 2 and a half years\. He has now been sentenced to 7 years in prison “for illegal border crossings and participation in a terrorist act during clashes with police”
@@ -472,7 +472,7 @@ For more information you can [follow this link](https://www.facebook.com/care4ca
 ### Desperate need for sleeping bags and tents in Paris
 
 
-![Source: Human Aid in Greece](assets/751f6e0625db/1*Y9D1Ou6ZSE5bP_YtIT7IYQ.jpeg)
+![Source: Human Aid in Greece](../assets/751f6e0625db/1*Y9D1Ou6ZSE5bP_YtIT7IYQ.jpeg)
 
 Source: Human Aid in Greece
 
@@ -490,7 +490,7 @@ For more information please visit [the event page](https://www.facebook.com/even
 ### A Drop in the Ocean is moving to work in Paris
 
 
-![Source: [**Dråpen i Havet**](https://www.facebook.com/drapenihavet/)](assets/751f6e0625db/1*_3GsvQdklzYVffVDCP-2Dw.jpeg)
+![Source: [**Dråpen i Havet**](https://www.facebook.com/drapenihavet/)](../assets/751f6e0625db/1*_3GsvQdklzYVffVDCP-2Dw.jpeg)
 
 Source: [**Dråpen i Havet**](https://www.facebook.com/drapenihavet/)
 

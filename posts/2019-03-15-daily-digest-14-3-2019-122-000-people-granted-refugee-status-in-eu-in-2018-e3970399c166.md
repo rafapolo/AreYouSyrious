@@ -1,5 +1,5 @@
 ---
-title: DAILY DIGEST 14/3/2019: 122.000 people granted refugee status in EU in 2018
+title: "DAILY DIGEST 14/3/2019: 122.000 people granted refugee status in EU in 2018"
 author: Are You Syrious?
 date: 2019-03-15T11:58:30.110+0000
 last_modified_at: 2019-03-15T13:03:19.418+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,eurostat,eu,asylum-seekers]
 description: The highest number of positive first instance decisions were recorded in Ireland and Luxembourg // Protests in Algeria are still going on…
 image:
-  path: assets/e3970399c166/1*gF8pyh4X3eQ0Vo9lVqbg3g.jpeg
+  path: ../assets/e3970399c166/1*gF8pyh4X3eQ0Vo9lVqbg3g.jpeg
 ---
 
 ### DAILY DIGEST 14/3/2019: 122,000 people granted refugee status in EU in 2018
@@ -15,7 +15,7 @@ image:
 _The highest number of positive first instance decisions were recorded in Ireland and Luxembourg // Protests in Algeria are still going on // 45 people died while crossing the Mediterranean to Spain // Another money transfer from the EU to Turkey, a day before another anniversary of the controversial deal// Pushback from Bosnia// Evictions in France_
 
 
-![Lesvos\. ReFOCUS Artists of the Week: REZA ADIB & JAVAD MOUSAVI\. [1976km](https://www.facebook.com/refocusmedialabs/photos/pcb.2474334386130109/2474334206130127/?type=3&theater) \.](assets/e3970399c166/1*gF8pyh4X3eQ0Vo9lVqbg3g.jpeg)
+![Lesvos\. ReFOCUS Artists of the Week: REZA ADIB & JAVAD MOUSAVI\. [1976km](https://www.facebook.com/refocusmedialabs/photos/pcb.2474334386130109/2474334206130127/?type=3&theater) \.](../assets/e3970399c166/1*gF8pyh4X3eQ0Vo9lVqbg3g.jpeg)
 
 Lesvos\. ReFOCUS Artists of the Week: REZA ADIB & JAVAD MOUSAVI\. [1976km](https://www.facebook.com/refocusmedialabs/photos/pcb.2474334386130109/2474334206130127/?type=3&theater) \.
 ### Feature
@@ -29,7 +29,7 @@ In the same period of time, during 2018, a total of 580,800 first\-time asylum a
 _The highest number of positive first instance decisions were recorded in Ireland \(86 %\) and Luxembourg \(72 %\), while France, Estonia, Spain, Latvia, Poland and Czechia each recorded first instance rejection rates between 71 % \(France\) and 89 % \(Czechia\) \._
 
 
-![](assets/e3970399c166/1*ifL0viqf7g4TB30tV8R8ng.png)
+![](../assets/e3970399c166/1*ifL0viqf7g4TB30tV8R8ng.png)
 
 
 As in previous years, since 2014, the main country of origin of asylum seekers is Syria \(14%\), a country where war is stil raging\.
@@ -51,7 +51,7 @@ Four in five \(79 per cent\) of first\-time asylum seekers were under the age of
 Additionally, statistical data show that among first\-time asylum applicants there were more men than women\.
 
 
-![](assets/e3970399c166/1*9VlOCKa4kUa2_Pv00l1ldw.png)
+![](../assets/e3970399c166/1*9VlOCKa4kUa2_Pv00l1ldw.png)
 
 ### Algeria
 
@@ -119,14 +119,14 @@ _“As usual our main language is English but we speak French and German as well
 [**Aegean Boat Report**](https://www.facebook.com/285298881993223/posts/540375076485601?sfns=mo) records the arrivals of two boats on the Greek Aegean Islands\. The first boat arrived on Samos before first light with 48 people on board\. The second boat landed outside the university, Lesvos south, at 06\.30 with 45 people on board\.
 
 
-![Lesvos Photo by: Anna Pantelia/MSF](assets/e3970399c166/1*Tm_SmAic84q5EFljbXUkwg.jpeg)
+![Lesvos Photo by: Anna Pantelia/MSF](../assets/e3970399c166/1*Tm_SmAic84q5EFljbXUkwg.jpeg)
 
 Lesvos Photo by: Anna Pantelia/MSF
 
 This week, more people were transferred from Lesvos to the mainland\. However, most of them are being sent to the existing camps where living conditions are not much better\. One of the camps that received people from Moria is Skaramangas, near Greece\.
 
 
-![Skaramangas by Trude Jacobsen](assets/e3970399c166/1*IWoRVzDw4AZEybWUM_fUfA.jpeg)
+![Skaramangas by Trude Jacobsen](../assets/e3970399c166/1*IWoRVzDw4AZEybWUM_fUfA.jpeg)
 
 Skaramangas by Trude Jacobsen
 

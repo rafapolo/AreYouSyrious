@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 1/12/2017: The winter is here — It is time to act!
+title: "AYS DAILY DIGEST 1/12/2017: The winter is here — It is time to act!"
 author: Are You Syrious?
 date: 2017-12-02T09:01:51.421+0000
 last_modified_at: 2017-12-02T11:20:29.218+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,opentheislands,greece,alexis-tsipras,france]
 description: Help urgently needed in Greece, France, Belgium, Serbia… all over Europe // Stormy weather at the Mediterranean and Greece // Serbian…
 image:
-  path: assets/9510a393f80e/1*c318p7sFxlZWlCrCkyPXrw.jpeg
+  path: ../assets/9510a393f80e/1*c318p7sFxlZWlCrCkyPXrw.jpeg
 ---
 
 ### AYS DAILY DIGEST 1/12/2017: The winter is here — It is time to act\!
@@ -15,7 +15,7 @@ image:
 _Help urgently needed in Greece, France, Belgium, Serbia… all over Europe // Stormy weather at the Mediterranean and Greece // Serbian government warns foreign volunteers in Sid // Action day to end slavery in Libya_
 
 
-![[@Mizerias90](https://twitter.com/Mizerias90)](assets/9510a393f80e/1*c318p7sFxlZWlCrCkyPXrw.jpeg)
+![[@Mizerias90](https://twitter.com/Mizerias90)](../assets/9510a393f80e/1*c318p7sFxlZWlCrCkyPXrw.jpeg)
 
 [@Mizerias90](https://twitter.com/Mizerias90)
 ### Feature
@@ -40,7 +40,7 @@ On the islands, even though the Greek government has finally started slowly to m
 
 
 
-![](assets/9510a393f80e/1*-xuDMtD_tmI3u3AvJXX3uA.jpeg)
+![](../assets/9510a393f80e/1*-xuDMtD_tmI3u3AvJXX3uA.jpeg)
 
 
 The campaign demands that the Greek government and European Union leaders should act now, before the onset of winter, to end Greece’s “containment policy”\.
@@ -125,7 +125,7 @@ Calais, snow has made things even worse than they were\.
 [Care4Calais](https://www.facebook.com/care4calais/) supports people in Northern France, where temperatures are rapidly dropping\.
 
 
-![](assets/9510a393f80e/1*ksnsniKh4DA0w3bBpRJGfg.jpeg)
+![](../assets/9510a393f80e/1*ksnsniKh4DA0w3bBpRJGfg.jpeg)
 
 
 
@@ -142,11 +142,11 @@ Let’s keep people warm this winter\!
 [La Cusine des Migrants](https://www.lepotcommun.fr/pot/wigl23p3) distributes around 300 meals per day in Paris\. It has no money left on its crowdfunding site and needs funds to buy food, plastic cutlery, and bread\.
 
 
-![](assets/9510a393f80e/1*rJFcweMDSVeM2H9pQmh3EQ.jpeg)
+![](../assets/9510a393f80e/1*rJFcweMDSVeM2H9pQmh3EQ.jpeg)
 
 
 
-![Paris today\. Photo Refugee Ground Support Team\.](assets/9510a393f80e/1*r4-VzXzBDiv4nJMdkgIQMw.jpeg)
+![Paris today\. Photo Refugee Ground Support Team\.](../assets/9510a393f80e/1*r4-VzXzBDiv4nJMdkgIQMw.jpeg)
 
 Paris today\. Photo Refugee Ground Support Team\.
 
@@ -157,7 +157,7 @@ People in Brussels are still hosting migrants who are in their city and do not h
 Or you can just join them and host somebody\.
 
 
-![](assets/9510a393f80e/1*Eprp7a05EUW5shApp0Rrpg.jpeg)
+![](../assets/9510a393f80e/1*Eprp7a05EUW5shApp0Rrpg.jpeg)
 
 
 If you cannot donate, you can go out on the streets all over Europe and help people who are in need\. Like people in Paris and Brussels, you can open your home for refugees who are left sleeping out in the open\. You can demand changes from your governments, you can protest, you can talk about this issue or just share calls for donations with other people\.
@@ -212,15 +212,15 @@ Another report by girls from [SolidariTea](https://www.facebook.com/refugeesolid
 Ventimiglia area
 
 
-![](assets/9510a393f80e/1*F4dmr-Gz-vu0uEYdRsJITw.jpeg)
+![](../assets/9510a393f80e/1*F4dmr-Gz-vu0uEYdRsJITw.jpeg)
 
 
 
-![](assets/9510a393f80e/1*7wtOARl7JxIIluCpiazCgg.jpeg)
+![](../assets/9510a393f80e/1*7wtOARl7JxIIluCpiazCgg.jpeg)
 
 
 
-![](assets/9510a393f80e/1*t_1kbLgZBZ57-cZj4LiRHw.jpeg)
+![](../assets/9510a393f80e/1*t_1kbLgZBZ57-cZj4LiRHw.jpeg)
 
 
 
@@ -290,7 +290,7 @@ If you want to participate, get in touch with them
 
 
 
-![](assets/9510a393f80e/1*PtI8eFasmsUjPB2NXyIn1w.png)
+![](../assets/9510a393f80e/1*PtI8eFasmsUjPB2NXyIn1w.png)
 
 
 We join in solidarity in the call for the immediate cessation of the funding of the Libyan torturers\.

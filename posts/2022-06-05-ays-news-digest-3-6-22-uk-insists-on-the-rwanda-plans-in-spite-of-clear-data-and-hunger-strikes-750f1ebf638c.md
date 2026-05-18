@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 3/6/22: UK insists on the Rwanda plans, in spite of clear data and hunger strikes
+title: "AYS News Digest 3/6/22: UK insists on the Rwanda plans, in spite of clear data and hunger strikes"
 author: Are You Syrious?
 date: 2022-06-05T08:01:45.431+0100
 last_modified_at: 2022-06-05T17:10:22.444+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,uk,refugees,europe,hungary]
 description: UK takes in fewer Ukrainians per capita than most of Europe / on the neglected and ignored inhumane practice for people returned to Niger —…
 image:
-  path: assets/750f1ebf638c/1*9d0QoiRqYD7RPkHCX-A2aA.jpeg
+  path: ../assets/750f1ebf638c/1*9d0QoiRqYD7RPkHCX-A2aA.jpeg
 ---
 
 ### AYS News Digest 3/6/22: UK insists on the Rwanda plans, in spite of clear data and hunger strikes
 #### UK takes in fewer Ukrainians per capita than most of Europe / on the neglected and ignored inhumane practice for people returned to Niger — a report / Greece ignores interim measures, while the surveillance system only sees people to deter, not to rescue / Hungary convicted, but will that change anything?
 
 
-![Racism lives well in the EU, with thousands of people suffering discrimination at every step, both in formal and informal life situations\. Police racial profiling in buses, streets and other places across the EU Member States is a common story we hear every day…](assets/750f1ebf638c/1*9d0QoiRqYD7RPkHCX-A2aA.jpeg)
+![Racism lives well in the EU, with thousands of people suffering discrimination at every step, both in formal and informal life situations\. Police racial profiling in buses, streets and other places across the EU Member States is a common story we hear every day…](../assets/750f1ebf638c/1*9d0QoiRqYD7RPkHCX-A2aA.jpeg)
 
 Racism lives well in the EU, with thousands of people suffering discrimination at every step, both in formal and informal life situations\. Police racial profiling in buses, streets and other places across the EU Member States is a common story we hear every day…
 #### FEATURE
@@ -69,7 +69,7 @@ _The ongoing crackdown on NGOs and criminalisation of solidarity continues at fu
 See what else ECRE reported in their Weekly report, this time on [Greece](https://ecre.org/greece-crack-down-on-ngos-and-criminalisation-of-solidarity-continues-government-announces-blocking-thousands-of-arrivals-in-evros-amid-new-pushback-reports/) \.
 
 
-![](assets/750f1ebf638c/0*Dj0SjYIGPCbJ-Vt4.png)
+![](../assets/750f1ebf638c/0*Dj0SjYIGPCbJ-Vt4.png)
 
 ### People still trapped in the Evros border area
 
@@ -147,7 +147,7 @@ The Romanian Coast Guard has intercepted a fishing boat with dozens of people ar
 Arash Hampay’ photos are presented at an exhibition in Munich — opening this Saturday 04\.06\.
 
 
-![](assets/750f1ebf638c/0*usT1rs-0X1eG8Van.png)
+![](../assets/750f1ebf638c/0*usT1rs-0X1eG8Van.png)
 
 
 AK49 has organized the touring exhibition ?WHY\|BORDERS in cooperation with the Bellevue di Monaco in Bahnwärter Thiel, Munich\. At the same time, a supporting program with open\-air cinema and panel discussions will take place at various venues\.
@@ -168,7 +168,7 @@ Too many people at risk do not fall under the narrow criteria of the [promised a
 Pro Asyl says that according [to plans by the Federal Ministry of the Interior,](https://www.spiegel.de/politik/deutschland/geplantes-rettungsprogramm-innenministerium-haelt-aufnahme-von-hoechstens-5000-fluechtlingen-pro-jahr-aus-afghanistan-fuer-machbar-a-1196e666-3ff1-4458-9cda-609837e391ab) a maximum of 5,000 Afghan refugees are to be brought to Germany each year as part of a federal admissions program\. “Since this also includes family members of people at risk, the federal admissions program would probably only cover 1,000 people at risk\. There are also problems with the recognition and rescue of local workers, the [family reunification from Afghanistan](https://www.proasyl.de/news/familiennachzug-wenn-die-mama-tausende-kilometer-weit-weg-ist/) and the quick acceptance of admission for high\-risk individuals,” they [claim](https://www.proasyl.de/news/pro-asyl-stellt-forderungen-an-die-konferenz-der-innenministerinnen-der-laender/?fbclid=IwAR3gnvaMOYQ_8AOf7gX2a8CkK8eGBTWxsnFS3qmmYiBT6SBy_MoxT79OUSk) \.
 
 
-![Photo: PRO ASYL / Jonas Bickmann](assets/750f1ebf638c/0*N_3VoimxLVQQYZbF.jpg)
+![Photo: PRO ASYL / Jonas Bickmann](../assets/750f1ebf638c/0*N_3VoimxLVQQYZbF.jpg)
 
 Photo: PRO ASYL / Jonas Bickmann
 #### ICELAND

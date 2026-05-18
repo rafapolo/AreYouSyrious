@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 24/11/202: New developments on deportations and repatriations
+title: "AYS Daily Digest 24/11/202: New developments on deportations and repatriations"
 author: Are You Syrious?
 date: 2020-11-25T18:41:33.054+0000
 last_modified_at: 2020-11-25T18:41:33.054+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [uk,sea,italy,greece]
 description: New rescue missions at sea // Follow-ups on situation in Canary Islands and France // New pushbacks in Greece
 image:
-  path: assets/4de5109794c3/1*bNOEfoQCw6uathfdmXQxGg.jpeg
+  path: ../assets/4de5109794c3/1*bNOEfoQCw6uathfdmXQxGg.jpeg
 ---
 
 ### AYS Daily Digest 24/11/202: New developments on deportations and repatriations
 #### New rescue missions at sea // Follow\-ups on situation in Canary Islands and France // New pushbacks in Greece
 
 
-![Stansted15 group](assets/4de5109794c3/1*bNOEfoQCw6uathfdmXQxGg.jpeg)
+![Stansted15 group](../assets/4de5109794c3/1*bNOEfoQCw6uathfdmXQxGg.jpeg)
 
 Stansted15 group
 ### GENERAL
@@ -50,7 +50,7 @@ IOM has published [a video](https://twitter.com/JFCrisp/status/13311525999161630
 ### SEA
 
 
-![ProActiva Open Arms lifeguard rescues a three\-month old baby\. Courtesy of [Proctiva Open Arms](https://www.facebook.com/proactivaservice/posts/3724970690867088)](assets/4de5109794c3/1*LnZ7m0Yrt0YCBm21W664wQ.jpeg)
+![ProActiva Open Arms lifeguard rescues a three\-month old baby\. Courtesy of [Proctiva Open Arms](https://www.facebook.com/proactivaservice/posts/3724970690867088)](../assets/4de5109794c3/1*LnZ7m0Yrt0YCBm21W664wQ.jpeg)
 
 ProActiva Open Arms lifeguard rescues a three\-month old baby\. Courtesy of [Proctiva Open Arms](https://www.facebook.com/proactivaservice/posts/3724970690867088)
 #### Return of rescue missions sparks hopes for safer journeys
@@ -60,7 +60,7 @@ New boats and airplanes join in the effort of rescue missions in the Mediterrane
 Before the operating in the Canary Islands, the [rescue team of Maritimo Salvamento](https://twitter.com/SEENOTRETTUNG/status/1331215078717317123?fbclid=IwAR0X39MHRAV7lbtriG_AJUCYm8x-pMVwFIi4j-Fiv95YXGl5s36fYNL7gs8) rescued around 180 people who risked the dangerous escape across the Atlantic\.
 
 
-![SeaWatch’s Moonbird — courtesy of SeaWatch](assets/4de5109794c3/1*3yRHh8zaTUNbxliVZsmUxQ.jpeg)
+![SeaWatch’s Moonbird — courtesy of SeaWatch](../assets/4de5109794c3/1*3yRHh8zaTUNbxliVZsmUxQ.jpeg)
 
 SeaWatch’s Moonbird — courtesy of SeaWatch
 
@@ -90,7 +90,7 @@ In view of the international day for the elimination of violence against women, 
 ### FRANCE
 
 
-![Protesters in Paris against evictions, credits: [Mortaza Behboudi](https://twitter.com/MortazaBehboudi/status/1331291646076579840?fbclid=IwAR1uqlfxzCvAZbQ2v5k0cLSqOgbew1fYMXynmnxlUsa_U2F0c-cXsZ0kUeo)](assets/4de5109794c3/1*7PTb0JS9B_zpoeWJT0L-9w.jpeg)
+![Protesters in Paris against evictions, credits: [Mortaza Behboudi](https://twitter.com/MortazaBehboudi/status/1331291646076579840?fbclid=IwAR1uqlfxzCvAZbQ2v5k0cLSqOgbew1fYMXynmnxlUsa_U2F0c-cXsZ0kUeo)](../assets/4de5109794c3/1*7PTb0JS9B_zpoeWJT0L-9w.jpeg)
 
 Protesters in Paris against evictions, credits: [Mortaza Behboudi](https://twitter.com/MortazaBehboudi/status/1331291646076579840?fbclid=IwAR1uqlfxzCvAZbQ2v5k0cLSqOgbew1fYMXynmnxlUsa_U2F0c-cXsZ0kUeo)
 

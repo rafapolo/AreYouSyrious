@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 25–26/09/2021: More money for Turkey
+title: "AYS Weekend Digest 25–26/09/2021: More money for Turkey"
 author: Are You Syrious?
 date: 2021-09-27T10:54:03.863+0100
 last_modified_at: 2021-09-27T17:56:10.411+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,eu,humanrights]
 description: Call for all EU members to share refugee responsibilities//Actor Richard Gere to testify in Italian court//Vaccines for more people in…
 image:
-  path: assets/c0cd109c4be3/0*Y2LpcAPaNMii-e-u
+  path: ../assets/c0cd109c4be3/0*Y2LpcAPaNMii-e-u
 ---
 
 ### AYS Weekend Digest 25–26/09/2021: More money for Turkey
@@ -15,7 +15,7 @@ image:
 Call for all EU members to share refugee responsibilities//Actor Richard Gere to testify in Italian court//Vaccines for more people in Greece//Another confirmed death at Poland\-Belarus border//More evictions in northern France//Dutch Government accused of abandoning people in Afghanistan//Arrivals from Afghanistan abandoned in UK hotels
 
 
-![A young refugee girl from Syria stands in a square in the Turkish border town of Edirne\. [_Source: DPA/PA Images_](https://www.thejournal.ie/doubtful-that-eu-learned-lessons-turkey-deal-renewed-5555485-Sep2021/?fbclid=IwAR3tFkk0viux-XerJIY0QBKdRjXiRdvXpL_IRdKA3xFHpXj-uGOMArrW3Es)](assets/c0cd109c4be3/0*Y2LpcAPaNMii-e-u)
+![A young refugee girl from Syria stands in a square in the Turkish border town of Edirne\. [_Source: DPA/PA Images_](https://www.thejournal.ie/doubtful-that-eu-learned-lessons-turkey-deal-renewed-5555485-Sep2021/?fbclid=IwAR3tFkk0viux-XerJIY0QBKdRjXiRdvXpL_IRdKA3xFHpXj-uGOMArrW3Es)](../assets/c0cd109c4be3/0*Y2LpcAPaNMii-e-u)
 
 A young refugee girl from Syria stands in a square in the Turkish border town of Edirne\. [_Source: DPA/PA Images_](https://www.thejournal.ie/doubtful-that-eu-learned-lessons-turkey-deal-renewed-5555485-Sep2021/?fbclid=IwAR3tFkk0viux-XerJIY0QBKdRjXiRdvXpL_IRdKA3xFHpXj-uGOMArrW3Es)
 ### FEATURED: More Money for Turkey
@@ -36,7 +36,7 @@ Fiona Finn of Irish NGO Nasc [said](https://www.thejournal.ie/doubtful-that-eu-l
 ### EU and FRONTEX
 
 
-![[Rescue Ship Ocean Viking](https://www.puls24.at/news/politik/fuenf-mittelmeer-staaten-fuer-faire-eu-fluechtlings-verteilung/244916?fbclid=IwAR0pYDYLwc3a78_krXnwmi0-oZYqS4bzPNTQv7oyAQ04V4pTeknNO3MY7H0)](assets/c0cd109c4be3/0*pnseyeAPYF90b6EB)
+![[Rescue Ship Ocean Viking](https://www.puls24.at/news/politik/fuenf-mittelmeer-staaten-fuer-faire-eu-fluechtlings-verteilung/244916?fbclid=IwAR0pYDYLwc3a78_krXnwmi0-oZYqS4bzPNTQv7oyAQ04V4pTeknNO3MY7H0)](../assets/c0cd109c4be3/0*pnseyeAPYF90b6EB)
 
 [Rescue Ship Ocean Viking](https://www.puls24.at/news/politik/fuenf-mittelmeer-staaten-fuer-faire-eu-fluechtlings-verteilung/244916?fbclid=IwAR0pYDYLwc3a78_krXnwmi0-oZYqS4bzPNTQv7oyAQ04V4pTeknNO3MY7H0)
 #### Call for all EU members to share refugee responsibilities
@@ -63,7 +63,7 @@ Minister of Health [**Thanos Plevris**](https://www.cnn.gr/tag/thanos-pleyrhs) [
 [This Twitter thread](https://twitter.com/lk2015r/status/1442116628901154822?fbclid=IwAR3pZAFyYgcWL0XqaAuQV3hsIe6jcVM5eohgF-dLPIX4e6U4AEB4IKLeyfk) investigates a Greek man who seems to be assisting authorities in pushing back people who attempt to enter Greece\.
 
 
-![[Infographic from Greek Ministry of Migration and Asylum](https://twitter.com/EleniKonstanto/status/1442107270666592258?fbclid=IwAR3NXYqNoJljc2LUjH48UNz2amZ_j11U4OiL-f1XeIR7pjU0zFKGaRVSktk)](assets/c0cd109c4be3/0*3-jm6ueF3nw8FHfM)
+![[Infographic from Greek Ministry of Migration and Asylum](https://twitter.com/EleniKonstanto/status/1442107270666592258?fbclid=IwAR3NXYqNoJljc2LUjH48UNz2amZ_j11U4OiL-f1XeIR7pjU0zFKGaRVSktk)](../assets/c0cd109c4be3/0*3-jm6ueF3nw8FHfM)
 
 [Infographic from Greek Ministry of Migration and Asylum](https://twitter.com/EleniKonstanto/status/1442107270666592258?fbclid=IwAR3NXYqNoJljc2LUjH48UNz2amZ_j11U4OiL-f1XeIR7pjU0zFKGaRVSktk)
 
@@ -71,7 +71,7 @@ This infographic shows the latest figures from the Greek Ministry of Migration a
 ### ITALY
 
 
-![Photo Credit: Hafiz Kavosh](assets/c0cd109c4be3/0*iAoN9FWpe4ePwH0e)
+![Photo Credit: Hafiz Kavosh](../assets/c0cd109c4be3/0*iAoN9FWpe4ePwH0e)
 
 Photo Credit: Hafiz Kavosh
 
@@ -82,7 +82,7 @@ Photo Credit: Hafiz Kavosh
 There has been a [5th confirmed death](https://www.facebook.com/NoNameKitchenBelgrade/posts/1324798681251746) at the border between Poland and Belarus\. People are trapped between the border guards of the two countries in dense forest, without access to food, water or shelter\. As the weather turns more wintery, concerns for the safety of the people trapped here are rising\.
 
 
-![[Poland/Belarus Border\. Photo Jakub Bieniasz /No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/1324798681251746)](assets/c0cd109c4be3/0*RUk3wgACq4WJKFdO)
+![[Poland/Belarus Border\. Photo Jakub Bieniasz /No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/1324798681251746)](../assets/c0cd109c4be3/0*RUk3wgACq4WJKFdO)
 
 [Poland/Belarus Border\. Photo Jakub Bieniasz /No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/1324798681251746)
 #### France
@@ -114,7 +114,7 @@ One month after evacuations took place from Afghanistan, people who arrived by a
 Conservative MP Maggie Thorpe has challenged the use of a hotel in Nottingham for its planned use to house those who arrived from Afghanistan\. Mrs Thorpe [reported concerns](https://www.nottinghampost.com/news/local-news/mp-calls-hotel-stop-housing-5969548?fbclid=IwAR380NJHg6Vl9qFBiMtfDhT9LqFlR7iLOR1gIvrOu1r0FIunBCxFaed8l-Q) by local residents over ‘security’, due to the location of the hotel near to a nursing home and a school\.
 
 
-![[Risley Hall, Nottinghamshire, UK\.](https://www.nottinghampost.com/news/local-news/mp-calls-hotel-stop-housing-5969548?fbclid=IwAR380NJHg6Vl9qFBiMtfDhT9LqFlR7iLOR1gIvrOu1r0FIunBCxFaed8l-Q)](assets/c0cd109c4be3/0*PoM9IbYBV5db0P2l)
+![[Risley Hall, Nottinghamshire, UK\.](https://www.nottinghampost.com/news/local-news/mp-calls-hotel-stop-housing-5969548?fbclid=IwAR380NJHg6Vl9qFBiMtfDhT9LqFlR7iLOR1gIvrOu1r0FIunBCxFaed8l-Q)](../assets/c0cd109c4be3/0*PoM9IbYBV5db0P2l)
 
 [Risley Hall, Nottinghamshire, UK\.](https://www.nottinghampost.com/news/local-news/mp-calls-hotel-stop-housing-5969548?fbclid=IwAR380NJHg6Vl9qFBiMtfDhT9LqFlR7iLOR1gIvrOu1r0FIunBCxFaed8l-Q)
 

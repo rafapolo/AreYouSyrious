@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 02/07/17: Atrocious conditions on Chios
+title: "AYS Daily Digest 02/07/17: Atrocious conditions on Chios"
 author: Are You Syrious?
 date: 2017-07-03T06:53:42.635+0100
 last_modified_at: 2017-07-06T14:56:30.530+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,greek-islands,greece,calais,detention]
 description: Increase in arrests on Kos / Scorching heat on Chios / Donations needed for the Refugee Community Kitchen in Calais / Last week’s march to…
 image:
-  path: assets/f7933455b18/0*n2Oamy3Ng5FVUS4h.jpg
+  path: ../assets/f7933455b18/0*n2Oamy3Ng5FVUS4h.jpg
 ---
 
 ### AYS Daily Digest 02/07/17: Atrocious conditions on Chios
@@ -15,7 +15,7 @@ image:
 _Increase in arrests on Kos / Scorching heat on Chios / Donations needed for the Refugee Community Kitchen in Calais_ / L _ast week’s march to the French border / And more news…_
 
 
-![Drawing by a 9 year old Syrian boy living in Samos refugee camp\. \(Photo by [Yesterday/Today/Tomorrow](https://twitter.com/Yester_Today_T) \)](assets/f7933455b18/0*n2Oamy3Ng5FVUS4h.jpg)
+![Drawing by a 9 year old Syrian boy living in Samos refugee camp\. \(Photo by [Yesterday/Today/Tomorrow](https://twitter.com/Yester_Today_T) \)](../assets/f7933455b18/0*n2Oamy3Ng5FVUS4h.jpg)
 
 Drawing by a 9 year old Syrian boy living in Samos refugee camp\. \(Photo by [Yesterday/Today/Tomorrow](https://twitter.com/Yester_Today_T) \)
 ### FEATURE: Scorching heat and deceptive asylum procedures on Chios
@@ -43,7 +43,7 @@ The group adds that some of these arrested immigrants had been living and workin
 ### Dirty Girls of Lesvos want your blankets
 
 
-![Photo by Dirty Girls of Lesvos](assets/f7933455b18/0*dSRrYTqDwVLSqRzM.)
+![Photo by Dirty Girls of Lesvos](../assets/f7933455b18/0*dSRrYTqDwVLSqRzM.)
 
 Photo by Dirty Girls of Lesvos
 
@@ -51,7 +51,7 @@ Photo by Dirty Girls of Lesvos
 ### Teachers needed in Athens
 
 
-![Photo by [Asinitas](https://www.facebook.com/asinitas/)](assets/f7933455b18/0*2BLlC1oM7vFAeSnt.)
+![Photo by [Asinitas](https://www.facebook.com/asinitas/)](../assets/f7933455b18/0*2BLlC1oM7vFAeSnt.)
 
 Photo by [Asinitas](https://www.facebook.com/asinitas/)
 
@@ -77,7 +77,7 @@ Refugees met and discussed several options, including marching towards the borde
 ### Donations needed for the Refugee Community Kitchen
 
 
-![Photo by Sam Jones](assets/f7933455b18/0*rm1nNNLmaxDN6ipM.)
+![Photo by Sam Jones](../assets/f7933455b18/0*rm1nNNLmaxDN6ipM.)
 
 Photo by Sam Jones
 
@@ -91,7 +91,7 @@ The Refugee Community Kitchen \(RCK\) in Calais needs [donations](https://mydona
 A fire erupted and destroyed a refugee camp in the Bekaa valley, killing at least one person\. The camp was home to around 100 families, coming mostly from Raqqa\. [Al Jazeera](http://www.aljazeera.com/news/2017/07/deadly-fire-hits-syrian-refugee-camp-lebanon-170702104207039.html) says that that since there has been no governmental decision to build formal camps, many refugees are trying to do the best they can and find the cheapest accommodation possible — one solution has been to expand what formerly used to be tented settlements for seasonal workers\.
 
 
-![Photo by Qab Elias Emergency services](assets/f7933455b18/0*T_1eUrsFCOdH0Zhf.jpg)
+![Photo by Qab Elias Emergency services](../assets/f7933455b18/0*T_1eUrsFCOdH0Zhf.jpg)
 
 Photo by Qab Elias Emergency services
 

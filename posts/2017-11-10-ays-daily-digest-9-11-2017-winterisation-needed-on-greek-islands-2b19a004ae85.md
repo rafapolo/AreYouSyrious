@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 09/11/17: Winterization needed on Greek Islands
+title: "AYS Daily Digest 09/11/17: Winterization needed on Greek Islands"
 author: Are You Syrious?
 date: 2017-11-10T03:47:48.245+0000
 last_modified_at: 2017-11-10T12:35:29.970+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,samos,hunger-strike,syntagma,ngos]
 description: Conditions in Samos camp in photos / Updates from the hunger strikes in Athens and Mitilene / More incidents with the Libyan coast guard /…
 image:
-  path: assets/2b19a004ae85/1*_hBfCibzFdrfaYJ3bQQTTA.jpeg
+  path: ../assets/2b19a004ae85/1*_hBfCibzFdrfaYJ3bQQTTA.jpeg
 ---
 
 ### AYS Daily Digest 09/11/17: Winterization needed on Greek Islands
@@ -18,15 +18,15 @@ _Conditions in Samos camp in photos / Updates from the hunger strikes in Athens 
 Yesterday, the kids from Samos camp used cardboard boxes, tape, and whole a lot of paint to transform a few [lucky volunteers](https://web.facebook.com/samosvolunteers/) into robots\.
 
 
-![](assets/2b19a004ae85/1*7HsSmnB86RbDa1FJP-aMQg.png)
+![](../assets/2b19a004ae85/1*7HsSmnB86RbDa1FJP-aMQg.png)
 
 
 
-![](assets/2b19a004ae85/1*AMJP8X9_v4BWrezBkF5NFA.jpeg)
+![](../assets/2b19a004ae85/1*AMJP8X9_v4BWrezBkF5NFA.jpeg)
 
 
 
-![\(Photos by Samos Volunteers\)](assets/2b19a004ae85/1*kj-maJYeCTpV_Rxf3pVVsQ.jpeg)
+![\(Photos by Samos Volunteers\)](../assets/2b19a004ae85/1*kj-maJYeCTpV_Rxf3pVVsQ.jpeg)
 
 \(Photos by Samos Volunteers\)
 
@@ -46,11 +46,11 @@ This happens in an island where more than 900 children are still living in the c
 By mid\-October, the camp was hosting over 3,000 people\. Now, after around 500 were transferred to the mainland, there remain 2,400 people in a camp with a maximum capacity of 700\.
 
 
-![](assets/2b19a004ae85/1*O_FK7pGK6ID4YQZQJuWRVw.jpeg)
+![](../assets/2b19a004ae85/1*O_FK7pGK6ID4YQZQJuWRVw.jpeg)
 
 
 
-![Samos today\.](assets/2b19a004ae85/1*XiLH2nhevjlkbTddBYs7Gw.jpeg)
+![Samos today\.](../assets/2b19a004ae85/1*XiLH2nhevjlkbTddBYs7Gw.jpeg)
 
 Samos today\.
 
@@ -407,7 +407,7 @@ Roba da gente che vale niente. https://t.co/3ugTM5bGlx
 In Pordenone too, people are sleeping rough\.
 
 
-![[Rete Solidale Pordenone](https://web.facebook.com/retesolidalepn/) \(Photo by [Lorena Fornasir](https://web.facebook.com/lorena.fornasir?hc_ref=ARQ60dqEMpW5T7DXm4L2CO6UYyEKbNiXnNiR4puH7xC64z6W9YHbeisqqVAu8Jck754) \)](assets/2b19a004ae85/1*hnYWmfFlBVQz8hu0gwz3Nw.jpeg)
+![[Rete Solidale Pordenone](https://web.facebook.com/retesolidalepn/) \(Photo by [Lorena Fornasir](https://web.facebook.com/lorena.fornasir?hc_ref=ARQ60dqEMpW5T7DXm4L2CO6UYyEKbNiXnNiR4puH7xC64z6W9YHbeisqqVAu8Jck754) \)](../assets/2b19a004ae85/1*hnYWmfFlBVQz8hu0gwz3Nw.jpeg)
 
 [Rete Solidale Pordenone](https://web.facebook.com/retesolidalepn/) \(Photo by [Lorena Fornasir](https://web.facebook.com/lorena.fornasir?hc_ref=ARQ60dqEMpW5T7DXm4L2CO6UYyEKbNiXnNiR4puH7xC64z6W9YHbeisqqVAu8Jck754) \)
 
@@ -434,11 +434,11 @@ Follow the link [here](https://www.youcaring.com/humansinneedventimiglia-1003286
 From [Tutinska Inicijativa Mladih](https://web.facebook.com/tutinskainicijativamladih/posts/497173477320082) :
 
 
-![](assets/2b19a004ae85/1*hUA_JERGuCx5HDZ8jkE1MA.jpeg)
+![](../assets/2b19a004ae85/1*hUA_JERGuCx5HDZ8jkE1MA.jpeg)
 
 
 
-![Tutin Camp \(Photo by [Tutinska Inicijativa Mladih](https://web.facebook.com/tutinskainicijativamladih/posts/497173477320082) \)](assets/2b19a004ae85/1*kVS9YEhScbqJzBFd0W9Fqw.jpeg)
+![Tutin Camp \(Photo by [Tutinska Inicijativa Mladih](https://web.facebook.com/tutinskainicijativamladih/posts/497173477320082) \)](../assets/2b19a004ae85/1*kVS9YEhScbqJzBFd0W9Fqw.jpeg)
 
 Tutin Camp \(Photo by [Tutinska Inicijativa Mladih](https://web.facebook.com/tutinskainicijativamladih/posts/497173477320082) \)
 
@@ -502,7 +502,7 @@ In the latest of a long series of attacks against migrants and humanitarian orga
 #### **Old wall, new borders**
 
 
-![[Stop the dying](https://twitter.com/StopTheDying)](assets/2b19a004ae85/1*_hBfCibzFdrfaYJ3bQQTTA.jpeg)
+![[Stop the dying](https://twitter.com/StopTheDying)](../assets/2b19a004ae85/1*_hBfCibzFdrfaYJ3bQQTTA.jpeg)
 
 [Stop the dying](https://twitter.com/StopTheDying)
 

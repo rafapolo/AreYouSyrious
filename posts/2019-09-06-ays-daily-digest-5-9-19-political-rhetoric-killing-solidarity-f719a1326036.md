@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest: 5/9/19: Political rhetoric killing solidarity
+title: "AYS Daily Digest: 5/9/19: Political rhetoric killing solidarity"
 author: Are You Syrious?
 date: 2019-09-06T11:23:55.209+0100
 last_modified_at: 2019-09-06T13:20:34.592+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,greece,digest,europe,turkey]
 description: The situation worsens in Greece, international solidarity needed / mental health crisis in Moria / In Serbia, unaccompanied minors are…
 image:
-  path: assets/f719a1326036/1*Cbgt3JCR7aYerD44XnvvEg.jpeg
+  path: ../assets/f719a1326036/1*Cbgt3JCR7aYerD44XnvvEg.jpeg
 ---
 
 ### AYS Daily Digest: 5/9/19: Political rhetoric killing solidarity
 #### The situation worsens in Greece, international solidarity needed / Mental health crisis in Moria / In Serbia, unaccompanied minors are sleeping in the open in the parks without shelter, food, or health services / Police repression in Ventimiglia / Calls for help, volunteers, and donations & more news
 
 
-![Paris, photo: Danika Jurisic](assets/f719a1326036/1*Cbgt3JCR7aYerD44XnvvEg.jpeg)
+![Paris, photo: Danika Jurisic](../assets/f719a1326036/1*Cbgt3JCR7aYerD44XnvvEg.jpeg)
 
 Paris, photo: Danika Jurisic
 #### FEATURED
@@ -81,7 +81,7 @@ In solidarity\!
 Today Tajoura bombing survivors in Tripoli’s UNHCR centre say there was a big meeting where UNHCR staff reiterated they must leave and have no other options right now\. The Ministry of Interior was also present\. Multiple sources say this meeting was much more controlled\.
 
 
-![From a Tajoura detention centre bombing survivor who has been staying in the UNHCR centre in Tripoli, but now is being told to leave\.](assets/f719a1326036/0*1mAYuEMEjO1k87vj)
+![From a Tajoura detention centre bombing survivor who has been staying in the UNHCR centre in Tripoli, but now is being told to leave\.](../assets/f719a1326036/0*1mAYuEMEjO1k87vj)
 
 From a Tajoura detention centre bombing survivor who has been staying in the UNHCR centre in Tripoli, but now is being told to leave\.
 #### SEARCH AND RESCUE AT SEA
@@ -130,7 +130,7 @@ How can media and big organizations forget to mention that?
 RSA report the current situation regarding statistics of the islands:
 
 
-![](assets/f719a1326036/0*6fHNFqJfllg-8jZG)
+![](../assets/f719a1326036/0*6fHNFqJfllg-8jZG)
 
 
 A quick update regarding refugees in **Symi** and how you can help — [Symi Volunteers](https://www.facebook.com/symivolunteers/?__tn__=%2CdkCH-R-R&eid=ARDSr9JFx9GI7-0yV9RsqtjyFzeDTa6C4qeUh6Ls8iORzO98ujQOwz9wnjyU6vi_9nG3ofJhDAvm9fn9&hc_ref=ARQu53SCSiQqrLgqSrUt-OcV_8PEcgae-9scBi7hOMWWMG-eZK5glAr4fjQr7kLrs-Q&fref=nf&hc_location=group) :
@@ -241,11 +241,11 @@ The situation in Ventimiglia is getting worse\. The people there have to face po
 #### FRANCE
 
 
-![](assets/f719a1326036/1*sH-rRAGHvCuEB6ND3c2UVg.jpeg)
+![](../assets/f719a1326036/1*sH-rRAGHvCuEB6ND3c2UVg.jpeg)
 
 
 
-![](assets/f719a1326036/1*ivAE6EopTDJx__wUUqE8Ug.jpeg)
+![](../assets/f719a1326036/1*ivAE6EopTDJx__wUUqE8Ug.jpeg)
 
 
 Eviction of the people living in the Grande Synthe area, an estimate is about 800 people, [will take place soon](https://l.facebook.com/l.php?u=https%3A%2F%2Ffrance3-regions.francetvinfo.fr%2Fhauts-de-france%2Fnord-0%2Fgrande-synthe%2Fgrande-synthe-justice-ordonne-evacuation-du-camp-millier-migrants-1717993.html%3Ffbclid%3DIwAR390sfCSG_CfWjfeo7BN9f526Hg0o4bFostD3HkeGbpB-HrqEabrlBizZs&h=AT2yh7moENyHi4Y5rOgiNxfLLUlneSyOcVhFayQcStHliFCqIuUWRR_ARXtBGb45lSgdkoY8Ts7lwxPBrd7qsY9gPH2r_cW5kbup-RA7emeYN9iQjp4V72DCcjdywiAXWcY-yy5wI-x6PQ) \. After a court hearing in Lille, the eviction that will remove the camp surrounding the emergency shelter has been ordered without delay, activists report\.
@@ -263,7 +263,7 @@ If you would like to get involved or volunteer with them, contact the group dire
 ### Calls for Help and Donations from People in France, Belgium and Luxembourg
 
 
-![](assets/f719a1326036/1*r8F8uqa0jEf3q_XM82TO6A.jpeg)
+![](../assets/f719a1326036/1*r8F8uqa0jEf3q_XM82TO6A.jpeg)
 
 
 Diapers, toiletries, underwear, clothes, tents, shoes, strollers, and countless other items are badly needed around the provisional camps across the parks around Porte d’Aubervilliers, where people are waiting to receive answers, appointments, and any information, with a hope that the next day they will wake up to a more permanent lodging solution\. In the meantime, they are visited by volunteers, citizens, and some organizations who help with direct donations, aid, organizing places for minors to spend the night, and who are always in need of help and aid\.
@@ -292,7 +292,7 @@ GLS Bank
 In **Luxembourg,** volunteers are collecting donations for their upcoming trip to Greece:
 
 
-![](assets/f719a1326036/1*EAd-2rQjkUa6DZODUXmZXA.jpeg)
+![](../assets/f719a1326036/1*EAd-2rQjkUa6DZODUXmZXA.jpeg)
 
 
 **We strive to echo correct news from the ground through collaboration and fairness\. Every effort has been made to credit organisations and individuals with regard to the supply of information, video, and photo material \(in cases where the source wanted to be accredited\) \. Please notify us regarding corrections\.**

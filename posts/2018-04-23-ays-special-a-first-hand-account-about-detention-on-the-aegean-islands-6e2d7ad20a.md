@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: A First-Hand Account of Detention on the Aegean Islands
+title: "AYS SPECIAL: A First-Hand Account of Detention on the Aegean Islands"
 author: Are You Syrious?
 date: 2018-04-23T10:19:53.772+0100
 last_modified_at: 2018-04-23T17:57:33.192+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,special,greece,aegean-islands,eu]
 description: This article is written by a refugee living on one of the Aegean islands who was detained for four months simply because his asylum case…
 image:
-  path: assets/6e2d7ad20a/1*BroXgAQJer4LEDIb8fk_BA.jpeg
+  path: ../assets/6e2d7ad20a/1*BroXgAQJer4LEDIb8fk_BA.jpeg
 ---
 
 ### AYS SPECIAL: A First\-Hand Account of Detention on the Aegean Islands
@@ -15,7 +15,7 @@ image:
 _This article is written by a refugee living on one of the Aegean islands who was detained for four months simply because his asylum case was rejected\. The author’s name and the island he was detained on are being kept anonymous\. Publicizing the author’s name would likely get him in trouble with the authorities, and complicate his ongoing case\. We are not naming the island because his identity could be exposed by his location_
 
 
-![Refugee protesting on Lesvos, 24/04/17\. Photo Credit: [Arash Hampay](https://www.facebook.com/photo.php?fbid=455431924802899&set=p.455431924802899&type=1&opaqueCursor=AboLJmzscGOARGr-wOuqRNCgakMsDHllqnYoIhRUpIM59_un-x3UFvMAz2v4xnGFy436vJcvMetPfN6HmD4QxOlLAvSCCQRNvAGZ3_hIkW4s8z_yjKz0GWl5_t5cMCn3i8HhM_F0v8EoUFBcX2uhZdEaxxJXuE-TDkZEFpmlXNmwTWvrnsvgaveH1Yho1KY32LFSAkP-oSrjAttXuK5BLJe3qTZwDSGyiZ-Ue-j3bLaC6VSsLZHqG_TGvgOXiW_Bxy0-iU-Sn2XSAAIDMnJoGdUmYxdQtZiuU7X0D262MDzEhdRYlfvjH-wDE1WgmJSSNOEs3Q06bieuFq1JiiOA08N-KF3K95KpcmR7AWhCgCQXh0MgvC0UZfzlnnfTGok4-j5WyVDhxdJl_I1YBG34sNJjQPO3k45_9CgGVuMxv0mLC2MBNlA69bsBHK9WME6yR1R0i6Rbey2dRIJ_lLdbqi_Y&theater)](assets/6e2d7ad20a/1*BroXgAQJer4LEDIb8fk_BA.jpeg)
+![Refugee protesting on Lesvos, 24/04/17\. Photo Credit: [Arash Hampay](https://www.facebook.com/photo.php?fbid=455431924802899&set=p.455431924802899&type=1&opaqueCursor=AboLJmzscGOARGr-wOuqRNCgakMsDHllqnYoIhRUpIM59_un-x3UFvMAz2v4xnGFy436vJcvMetPfN6HmD4QxOlLAvSCCQRNvAGZ3_hIkW4s8z_yjKz0GWl5_t5cMCn3i8HhM_F0v8EoUFBcX2uhZdEaxxJXuE-TDkZEFpmlXNmwTWvrnsvgaveH1Yho1KY32LFSAkP-oSrjAttXuK5BLJe3qTZwDSGyiZ-Ue-j3bLaC6VSsLZHqG_TGvgOXiW_Bxy0-iU-Sn2XSAAIDMnJoGdUmYxdQtZiuU7X0D262MDzEhdRYlfvjH-wDE1WgmJSSNOEs3Q06bieuFq1JiiOA08N-KF3K95KpcmR7AWhCgCQXh0MgvC0UZfzlnnfTGok4-j5WyVDhxdJl_I1YBG34sNJjQPO3k45_9CgGVuMxv0mLC2MBNlA69bsBHK9WME6yR1R0i6Rbey2dRIJ_lLdbqi_Y&theater)](../assets/6e2d7ad20a/1*BroXgAQJer4LEDIb8fk_BA.jpeg)
 
 Refugee protesting on Lesvos, 24/04/17\. Photo Credit: [Arash Hampay](https://www.facebook.com/photo.php?fbid=455431924802899&set=p.455431924802899&type=1&opaqueCursor=AboLJmzscGOARGr-wOuqRNCgakMsDHllqnYoIhRUpIM59_un-x3UFvMAz2v4xnGFy436vJcvMetPfN6HmD4QxOlLAvSCCQRNvAGZ3_hIkW4s8z_yjKz0GWl5_t5cMCn3i8HhM_F0v8EoUFBcX2uhZdEaxxJXuE-TDkZEFpmlXNmwTWvrnsvgaveH1Yho1KY32LFSAkP-oSrjAttXuK5BLJe3qTZwDSGyiZ-Ue-j3bLaC6VSsLZHqG_TGvgOXiW_Bxy0-iU-Sn2XSAAIDMnJoGdUmYxdQtZiuU7X0D262MDzEhdRYlfvjH-wDE1WgmJSSNOEs3Q06bieuFq1JiiOA08N-KF3K95KpcmR7AWhCgCQXh0MgvC0UZfzlnnfTGok4-j5WyVDhxdJl_I1YBG34sNJjQPO3k45_9CgGVuMxv0mLC2MBNlA69bsBHK9WME6yR1R0i6Rbey2dRIJ_lLdbqi_Y&theater)
 
@@ -24,7 +24,7 @@ Hello\. My name is — — — \- \. I am from Syria and I am 24 years old\. My 
 The police brought us to the camp where I saw so many different things\. I saw minors not being treated as minors and not being legally protected\. Their rights are not protected by Greece or EU representatives such as the “Asylum Services” on the island intentionally — treating them as if they are adults and making their cases as if they are adults\. They live in the same miserable and dangerous circumstances in the camp\.
 
 
-![Refugee children in the detention camp on Chios, 02/04/16\. Photo Credit: Benjamín Julian](assets/6e2d7ad20a/1*M6XHDJVpewIWesSe57puYg.jpeg)
+![Refugee children in the detention camp on Chios, 02/04/16\. Photo Credit: Benjamín Julian](../assets/6e2d7ad20a/1*M6XHDJVpewIWesSe57puYg.jpeg)
 
 Refugee children in the detention camp on Chios, 02/04/16\. Photo Credit: Benjamín Julian
 
@@ -53,7 +53,7 @@ We went into a hunger strike for a couple of days because we were always cold an
 No one really cares if we will die or not… so clearly the regulation of the EU and these mechanisms does not work\.
 
 
-![Photo Credit: [Art Against](https://www.facebook.com/artagainstproject/)](assets/6e2d7ad20a/1*JlxS9LQ8IaKcIf89nfzZfw.jpeg)
+![Photo Credit: [Art Against](https://www.facebook.com/artagainstproject/)](../assets/6e2d7ad20a/1*JlxS9LQ8IaKcIf89nfzZfw.jpeg)
 
 Photo Credit: [Art Against](https://www.facebook.com/artagainstproject/)
 

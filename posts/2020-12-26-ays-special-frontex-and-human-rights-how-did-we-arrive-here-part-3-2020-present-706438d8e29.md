@@ -1,5 +1,5 @@
 ---
-title: AYS Special: Frontex and Human Rights — How did we arrive here? Part 3 (2020)
+title: "AYS Special: Frontex and Human Rights — How did we arrive here? Part 3 (2020)"
 author: Are You Syrious?
 date: 2020-12-26T15:17:23.025+0000
 last_modified_at: 2021-02-06T12:39:06.705+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [special,frontex,european-union,human-rights,pushback]
 description: Third part of our Frontex timeline. This instalment covers 2020.
 image:
-  path: assets/706438d8e29/1*0m9vjV2EKqN-4YnRPogO8Q.jpeg
+  path: ../assets/706438d8e29/1*0m9vjV2EKqN-4YnRPogO8Q.jpeg
 ---
 
 ### AYS Special: Frontex and Human Rights — How did we arrive here? Part 3 \(2020\)
@@ -20,7 +20,7 @@ _Check out [PART 1 \(2004–2016\)](ays-special-frontex-and-human-rights-how-did
 ### 2020
 
 
-![June 21, Brussels — Canal Protest \(Photo by [Maria Gernet](https://twitter.com/MariaGernert/status/1275074338203422720/photo/4) \)](assets/706438d8e29/1*0m9vjV2EKqN-4YnRPogO8Q.jpeg)
+![June 21, Brussels — Canal Protest \(Photo by [Maria Gernet](https://twitter.com/MariaGernert/status/1275074338203422720/photo/4) \)](../assets/706438d8e29/1*0m9vjV2EKqN-4YnRPogO8Q.jpeg)
 
 June 21, Brussels — Canal Protest \(Photo by [Maria Gernet](https://twitter.com/MariaGernert/status/1275074338203422720/photo/4) \)
 
@@ -29,11 +29,11 @@ June 21, Brussels — Canal Protest \(Photo by [Maria Gernet](https://twitter.co
 **Frontex own’s standing corps** , as provided by the 2019 Regulation: as of [September 30](https://frontex.europa.eu/media-centre/news-release/frontex-welcomes-new-standing-corps-recruits-ILr9os) , a total of 433 people have been recruited and are undertaking a six\-month training\. The f [irst 265 recruits](https://frontex.europa.eu/media-centre/news-release/frontex-welcomes-first-standing-corps-recruits-h2LxJD) should finish training in December 2020\.
 
 
-![](assets/706438d8e29/1*--DavC6bbWho5oMZpobnVg.jpeg)
+![](../assets/706438d8e29/1*--DavC6bbWho5oMZpobnVg.jpeg)
 
 
 
-![On the left: [Planned Frontex Staff Growth](https://www.hertie-school.org/en/news/opinion/detail/content/frontex-will-compromise-a-standing-corps-of-10000-boarder-guards-by-2027) / On the right: Frontex budget 2005–2020\. In the Multiannual Financial Framework for 2021–2027, 11 billion euro are allocated for Decentralised Agencies within the Migration and Border Management ‘area’, which include Frontex and EASO\.](assets/706438d8e29/1*poxeiu70Ek_TChQtrzbTnQ.png)
+![On the left: [Planned Frontex Staff Growth](https://www.hertie-school.org/en/news/opinion/detail/content/frontex-will-compromise-a-standing-corps-of-10000-boarder-guards-by-2027) / On the right: Frontex budget 2005–2020\. In the Multiannual Financial Framework for 2021–2027, 11 billion euro are allocated for Decentralised Agencies within the Migration and Border Management ‘area’, which include Frontex and EASO\.](../assets/706438d8e29/1*poxeiu70Ek_TChQtrzbTnQ.png)
 
 On the left: [Planned Frontex Staff Growth](https://www.hertie-school.org/en/news/opinion/detail/content/frontex-will-compromise-a-standing-corps-of-10000-boarder-guards-by-2027) / On the right: Frontex budget 2005–2020\. In the Multiannual Financial Framework for 2021–2027, 11 billion euro are allocated for Decentralised Agencies within the Migration and Border Management ‘area’, which include Frontex and EASO\.
 

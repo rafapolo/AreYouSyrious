@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,italy,greece,digest,spain]
 description: Updated stats on Greece // Tunisian authorities maintaining their “ignorance” to the outcome of 36 people // Aegean Boat report needs help…
 image:
-  path: assets/5a5e13a89838/1*mgugvYnXxtIvhGZ9sF9w_A.jpeg
+  path: ../assets/5a5e13a89838/1*mgugvYnXxtIvhGZ9sF9w_A.jpeg
 ---
 
 ### AYS Daily Digest 6/8/19 121 people remain with Open Arms while being refused refuge past the grave yard of the Mediterranean
@@ -31,20 +31,20 @@ In the latest update from [Melting Pot Europe](https://www.facebook.com/meltingp
 
 
 
-![Photo by [Melting Pot Europa](https://www.facebook.com/meltingpoteuropa/photos/a.700935699938160/2586210521410659/?type=3&theater)](assets/5a5e13a89838/1*KTXAYaITcwlkG614URSjrw.jpeg)
+![Photo by [Melting Pot Europa](https://www.facebook.com/meltingpoteuropa/photos/a.700935699938160/2586210521410659/?type=3&theater)](../assets/5a5e13a89838/1*KTXAYaITcwlkG614URSjrw.jpeg)
 
 Photo by [Melting Pot Europa](https://www.facebook.com/meltingpoteuropa/photos/a.700935699938160/2586210521410659/?type=3&theater)
 ### Sea
 
 
-![“Fifth day at sea without a safe harbor\. Malta has denied the landing, Italy does not respond\. May Europe assume its responsibilities, that European states find an agreement to guarantee inalienable rights such as that to life and dignity\.” Photo by [Open Arms Italy](https://www.facebook.com/permalink.php?story_fbid=2472817622938544&id=2088704344683209&hc_location=ufi)](assets/5a5e13a89838/1*35y3dMfh7UJrf3dIFBFWaw.jpeg)
+![“Fifth day at sea without a safe harbor\. Malta has denied the landing, Italy does not respond\. May Europe assume its responsibilities, that European states find an agreement to guarantee inalienable rights such as that to life and dignity\.” Photo by [Open Arms Italy](https://www.facebook.com/permalink.php?story_fbid=2472817622938544&id=2088704344683209&hc_location=ufi)](../assets/5a5e13a89838/1*35y3dMfh7UJrf3dIFBFWaw.jpeg)
 
 “Fifth day at sea without a safe harbor\. Malta has denied the landing, Italy does not respond\. May Europe assume its responsibilities, that European states find an agreement to guarantee inalienable rights such as that to life and dignity\.” Photo by [Open Arms Italy](https://www.facebook.com/permalink.php?story_fbid=2472817622938544&id=2088704344683209&hc_location=ufi)
 
 [Giulia Tranchina](https://www.facebook.com/rastajuly/posts/10156847918183621?hc_location=ufi) also reports that there are 2 babies and 3 pregnant women aboard, two of which are at term\. There are a total of 121 people, including 32 minors\. Many people have infected gunshot wounds\.
 
 
-![“We couldn’t do anything for Aylan Kurdi, but he took us \# Lesbos \. We couldn’t do anything for Oscar and Valeria, drowned in \# RioBravo but he took us out of forced immobilization and we returned \# Med where we did save Musa and Isa from certain death\. It is his fifth night on board\. Good Morning\!” Photo by [Oscar Camps](https://twitter.com/campsoscar/status/1158635406050697216?fbclid=IwAR2bzAHZh_mudW8VNsHWi99mqTGxsUZ05uJchy2kRo8aLNdog63OJDYa_J0)](assets/5a5e13a89838/1*mgugvYnXxtIvhGZ9sF9w_A.jpeg)
+![“We couldn’t do anything for Aylan Kurdi, but he took us \# Lesbos \. We couldn’t do anything for Oscar and Valeria, drowned in \# RioBravo but he took us out of forced immobilization and we returned \# Med where we did save Musa and Isa from certain death\. It is his fifth night on board\. Good Morning\!” Photo by [Oscar Camps](https://twitter.com/campsoscar/status/1158635406050697216?fbclid=IwAR2bzAHZh_mudW8VNsHWi99mqTGxsUZ05uJchy2kRo8aLNdog63OJDYa_J0)](../assets/5a5e13a89838/1*mgugvYnXxtIvhGZ9sF9w_A.jpeg)
 
 “We couldn’t do anything for Aylan Kurdi, but he took us \# Lesbos \. We couldn’t do anything for Oscar and Valeria, drowned in \# RioBravo but he took us out of forced immobilization and we returned \# Med where we did save Musa and Isa from certain death\. It is his fifth night on board\. Good Morning\!” Photo by [Oscar Camps](https://twitter.com/campsoscar/status/1158635406050697216?fbclid=IwAR2bzAHZh_mudW8VNsHWi99mqTGxsUZ05uJchy2kRo8aLNdog63OJDYa_J0)
 
@@ -88,7 +88,7 @@ Unfortunately another body of a man was found under a bus Agrinio on Sunday\. Th
 ### Italy
 
 
-![“Salvini’s ‘ security order ‘ is now law\. Another act of criminalization, another attack on fundamental rights\.” Photo by [Sea Watch](https://www.facebook.com/seawatchprojekt/photos/a.1579563625595046/2311332575751477/?type=3&theater)](assets/5a5e13a89838/1*dRgs_KDDk4Nf3ve1MyEh0g.jpeg)
+![“Salvini’s ‘ security order ‘ is now law\. Another act of criminalization, another attack on fundamental rights\.” Photo by [Sea Watch](https://www.facebook.com/seawatchprojekt/photos/a.1579563625595046/2311332575751477/?type=3&theater)](../assets/5a5e13a89838/1*dRgs_KDDk4Nf3ve1MyEh0g.jpeg)
 
 “Salvini’s ‘ security order ‘ is now law\. Another act of criminalization, another attack on fundamental rights\.” Photo by [Sea Watch](https://www.facebook.com/seawatchprojekt/photos/a.1579563625595046/2311332575751477/?type=3&theater)
 
@@ -132,7 +132,7 @@ Calling on the Home Secretary Rt\. Hon\. Priti Patel MP:
 
 
 
-![Photo by [No Border Camp 2019](https://www.facebook.com/ctivists/?__xts__%5B0%5D=68.ARD2gCQ2WW03HdfO0bMIcfJI_Hq2CbxH1d3G4Dbfa28MZCsD_YwQSIOORYYrDWJ0LDpGRz0bEF7DP3wWuOtWYlrMO7A-E8W_T44cwaVayahz-PZvXbV7UFcbWrmfFQIeNSFQBXde1HBPc81FjBzZ0wrU1t1mn6RNmQSmZDaZGwRUiNYI0OENO3SG_twI-FoAW-Eatgy4Gag9j58CkGmXqC8jahyRxAI4jEdLZdXSOCHMeuvaJbMPQOUWJXosyhBYW31e_3aHRRH1cdaUnZACwda97QRPNmtLQXnkLzwRMxfIwD4xwYEl11Vl21Az2Y7DSExZ3EXHc9odzIL09wWmg6FllegOC67Fyb56jQT7hl1y0zpl_dJ-cGGixFIsizSn3th8-o3syRNod8OJ14uYlUcr8az8fG5wyA6LjS6hNdOJ5Q1BtxZMNA1Oceyz9z-D51abFiJG6QJdwrIFrrUitlYdJ5CfE-BUryqgY8Sg3U1ZFfKPf6jaGj-I&__tn__=k%2AF&tn-str=k%2AF)](assets/5a5e13a89838/1*-bMVvIph51J1TTomMzezOA.jpeg)
+![Photo by [No Border Camp 2019](https://www.facebook.com/ctivists/?__xts__%5B0%5D=68.ARD2gCQ2WW03HdfO0bMIcfJI_Hq2CbxH1d3G4Dbfa28MZCsD_YwQSIOORYYrDWJ0LDpGRz0bEF7DP3wWuOtWYlrMO7A-E8W_T44cwaVayahz-PZvXbV7UFcbWrmfFQIeNSFQBXde1HBPc81FjBzZ0wrU1t1mn6RNmQSmZDaZGwRUiNYI0OENO3SG_twI-FoAW-Eatgy4Gag9j58CkGmXqC8jahyRxAI4jEdLZdXSOCHMeuvaJbMPQOUWJXosyhBYW31e_3aHRRH1cdaUnZACwda97QRPNmtLQXnkLzwRMxfIwD4xwYEl11Vl21Az2Y7DSExZ3EXHc9odzIL09wWmg6FllegOC67Fyb56jQT7hl1y0zpl_dJ-cGGixFIsizSn3th8-o3syRNod8OJ14uYlUcr8az8fG5wyA6LjS6hNdOJ5Q1BtxZMNA1Oceyz9z-D51abFiJG6QJdwrIFrrUitlYdJ5CfE-BUryqgY8Sg3U1ZFfKPf6jaGj-I&__tn__=k%2AF&tn-str=k%2AF)](../assets/5a5e13a89838/1*-bMVvIph51J1TTomMzezOA.jpeg)
 
 Photo by [No Border Camp 2019](https://www.facebook.com/ctivists/?__xts__%5B0%5D=68.ARD2gCQ2WW03HdfO0bMIcfJI_Hq2CbxH1d3G4Dbfa28MZCsD_YwQSIOORYYrDWJ0LDpGRz0bEF7DP3wWuOtWYlrMO7A-E8W_T44cwaVayahz-PZvXbV7UFcbWrmfFQIeNSFQBXde1HBPc81FjBzZ0wrU1t1mn6RNmQSmZDaZGwRUiNYI0OENO3SG_twI-FoAW-Eatgy4Gag9j58CkGmXqC8jahyRxAI4jEdLZdXSOCHMeuvaJbMPQOUWJXosyhBYW31e_3aHRRH1cdaUnZACwda97QRPNmtLQXnkLzwRMxfIwD4xwYEl11Vl21Az2Y7DSExZ3EXHc9odzIL09wWmg6FllegOC67Fyb56jQT7hl1y0zpl_dJ-cGGixFIsizSn3th8-o3syRNod8OJ14uYlUcr8az8fG5wyA6LjS6hNdOJ5Q1BtxZMNA1Oceyz9z-D51abFiJG6QJdwrIFrrUitlYdJ5CfE-BUryqgY8Sg3U1ZFfKPf6jaGj-I&__tn__=k%2AF&tn-str=k%2AF)
 

@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest: 27/10/2021 Four people die in waters near Chios
+title: "AYS News Digest: 27/10/2021 Four people die in waters near Chios"
 author: Are You Syrious?
 date: 2021-10-28T11:28:35.409+0100
 last_modified_at: 2021-10-28T13:37:52.054+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,eu,humanrights,pushback]
 description: US and UN Sanctions against Libyan man accused of “horrific abuses”//Pope calls for ‘clear mandate’ in Mediterranean rescues//Seven Greek…
 image:
-  path: assets/5c0abb723261/0*7rxQwiJKNbvitSv3
+  path: ../assets/5c0abb723261/0*7rxQwiJKNbvitSv3
 ---
 
 ### AYS News Digest: 27/10/2021 Four people die in waters near Chios
@@ -16,7 +16,7 @@ US and UN Sanctions against Libyan man accused of “horrific abuses”//Pope ca
 #### FEATURE
 
 
-![Photo Credit: [Twitter](https://twitter.com/nmitarakis/status/1452938794408284168)](assets/5c0abb723261/0*7rxQwiJKNbvitSv3)
+![Photo Credit: [Twitter](https://twitter.com/nmitarakis/status/1452938794408284168)](../assets/5c0abb723261/0*7rxQwiJKNbvitSv3)
 
 Photo Credit: [Twitter](https://twitter.com/nmitarakis/status/1452938794408284168)
 
@@ -31,7 +31,7 @@ A similar tragedy occurred in July, when three people died\. [This piece describ
 #### US and UN Sanctions against Libyan man accused of “horrific abuses”
 
 
-![Photo Credit: [Infomigrants _The migrant detention centre in Zawiya, 30 km from Tripoli \| Photo: ARCHIVE/ANSA/ZUHAIR ABUSREWIL_](https://www.infomigrants.net/en/post/36043/us-and-un-impose-sanctions-on-libyan-accused-of-migrant-abuses?fbclid=IwAR1PAnrV_DL1dXefHMD0VjYrAMAjbUHeAEH1E9Ku95w8214KWkGUxmDMSeg)](assets/5c0abb723261/0*lyEFwCWgsSnXOPRB)
+![Photo Credit: [Infomigrants _The migrant detention centre in Zawiya, 30 km from Tripoli \| Photo: ARCHIVE/ANSA/ZUHAIR ABUSREWIL_](https://www.infomigrants.net/en/post/36043/us-and-un-impose-sanctions-on-libyan-accused-of-migrant-abuses?fbclid=IwAR1PAnrV_DL1dXefHMD0VjYrAMAjbUHeAEH1E9Ku95w8214KWkGUxmDMSeg)](../assets/5c0abb723261/0*lyEFwCWgsSnXOPRB)
 
 Photo Credit: [Infomigrants _The migrant detention centre in Zawiya, 30 km from Tripoli \| Photo: ARCHIVE/ANSA/ZUHAIR ABUSREWIL_](https://www.infomigrants.net/en/post/36043/us-and-un-impose-sanctions-on-libyan-accused-of-migrant-abuses?fbclid=IwAR1PAnrV_DL1dXefHMD0VjYrAMAjbUHeAEH1E9Ku95w8214KWkGUxmDMSeg)
 
@@ -55,7 +55,7 @@ The Pope has [called on the international community](https://ilmanifesto.it/migr
 This comes as [this article](https://sosmediterranee.com/eyes-on-the-central-med-30-ngos-save-hundreds-of-lives-as-returns-to-libya-are-publicly-denounced-and-legally-sentenced/?fbclid=IwAR0zyr9OiarZF3LZMTn72-VeeBfTpuzJSY45fG9o8IYUYXWx0secW6Q_jHY) summarises the efforts of rescue teams over one week of increased activity\. More than 850 people were rescued by Sea Watch 3, Salvamento Maritimo Humaniario, MSF’s Geo Barents, Vessel Nadir of NGO Resqship as well as the Italian coast guard\.
 
 
-![Photo Credit [: ©Filippo Taddei/MSF](https://twitter.com/MSF_Sea/status/1453630465760444422)](assets/5c0abb723261/0*XHr1inVj5wT3TbKj)
+![Photo Credit [: ©Filippo Taddei/MSF](https://twitter.com/MSF_Sea/status/1453630465760444422)](../assets/5c0abb723261/0*XHr1inVj5wT3TbKj)
 
 Photo Credit [: ©Filippo Taddei/MSF](https://twitter.com/MSF_Sea/status/1453630465760444422)
 
@@ -92,7 +92,7 @@ The number of people staying on the island of Lesvos is at the [lowest since 201
 #### Pushback of journalist from Bulgaria to Turkey was illegal
 
 
-![Photo Credit: [ECCHR Twitter](https://twitter.com/ECCHRBerlin/status/1452936363393835009/?fbclid=IwAR0B2UJJa0S06h0G3NAdJKuYOgs07D_AhkykcvmRJnVeBRrGmyOTpYqf8Rs)](assets/5c0abb723261/0*6qtHkmGeeFKjVCXc)
+![Photo Credit: [ECCHR Twitter](https://twitter.com/ECCHRBerlin/status/1452936363393835009/?fbclid=IwAR0B2UJJa0S06h0G3NAdJKuYOgs07D_AhkykcvmRJnVeBRrGmyOTpYqf8Rs)](../assets/5c0abb723261/0*6qtHkmGeeFKjVCXc)
 
 Photo Credit: [ECCHR Twitter](https://twitter.com/ECCHRBerlin/status/1452936363393835009/?fbclid=IwAR0B2UJJa0S06h0G3NAdJKuYOgs07D_AhkykcvmRJnVeBRrGmyOTpYqf8Rs)
 
@@ -143,12 +143,12 @@ This comes as Poland announces [an additional 10,000 troops](https://www.euronew
 A pregnant woman was pushed back 18 times, and scenes filmed by Grupa Granica show [medical need](https://twitter.com/GrupaGranica/status/1453350853692231689?fbclid=IwAR05fMu9otRQFRPtHCGzJoxyhsfyxm6M0oDnZU7ey_nwa-x1-fZQvCCIfvk) whilst [pleas of help for an eight\-year\-old girl](https://www.facebook.com/watchthemed.alarmphone/posts/3068086196798936) were sent to Alarmphone\.
 
 
-![Photo Credit: [GrupaGranica](https://twitter.com/Bacon227/status/1452957910728908800)](assets/5c0abb723261/0*gHI4tWqAB5WaSQfQ)
+![Photo Credit: [GrupaGranica](https://twitter.com/Bacon227/status/1452957910728908800)](../assets/5c0abb723261/0*gHI4tWqAB5WaSQfQ)
 
 Photo Credit: [GrupaGranica](https://twitter.com/Bacon227/status/1452957910728908800)
 
 
-![Photo Credit: [GrupaGranica](https://twitter.com/Bacon227/status/1452957910728908800)](assets/5c0abb723261/0*YwjqDkOsgl5ns-m5)
+![Photo Credit: [GrupaGranica](https://twitter.com/Bacon227/status/1452957910728908800)](../assets/5c0abb723261/0*YwjqDkOsgl5ns-m5)
 
 Photo Credit: [GrupaGranica](https://twitter.com/Bacon227/status/1452957910728908800)
 

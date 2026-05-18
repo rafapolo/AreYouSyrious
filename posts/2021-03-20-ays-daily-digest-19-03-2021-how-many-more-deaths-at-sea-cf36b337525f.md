@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 19/03/2021: How Many More Deaths at Sea?
+title: "AYS Daily Digest 19/03/2021: How Many More Deaths at Sea?"
 author: Are You Syrious?
 date: 2021-03-20T11:31:30.339+0000
 last_modified_at: 2021-03-20T11:31:30.339+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,mediterranean,shipwrecks]
 description: Report on situation for Afghans in Turkey//What happened in the Aegean last night//& other stories
 image:
-  path: assets/cf36b337525f/0*hNvubw5XBMQwKBrQ.jpg
+  path: ../assets/cf36b337525f/0*hNvubw5XBMQwKBrQ.jpg
 ---
 
 ### AYS Daily Digest 19/03/2021: How Many More Deaths at Sea?
 ### Report on situation for Afghans in Turkey//What happened in the Aegean last night//& other stories
 
 
-![](assets/cf36b337525f/0*cfw7UzyFf5d0cSIF.jpeg)
+![](../assets/cf36b337525f/0*cfw7UzyFf5d0cSIF.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----9966da42f48c--------------------------------)
@@ -22,11 +22,11 @@ image:
 [Mar 20](ays-daily-digest-19-03-2021-how-many-more-deaths-at-sea-9966da42f48c?source=post_page-----9966da42f48c--------------------------------) · 6 min read
 
 
-![](assets/cf36b337525f/0*NuhC5mY3ZgbkZ4bv)
+![](../assets/cf36b337525f/0*NuhC5mY3ZgbkZ4bv)
 
 
 
-![](assets/cf36b337525f/0*hNvubw5XBMQwKBrQ.jpg)
+![](../assets/cf36b337525f/0*hNvubw5XBMQwKBrQ.jpg)
 
 ### FEATURE
 ### Deadly shipwreck off the coast of Libya

@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,europe,refugees,greece,coronavirus]
 description: Corona-Updates from Afghanistan, Libya, Syria // embarkation of ALAN KURDI // Updates from Lesvos and Chios // Deportations from Germany…
 image:
-  path: assets/f2afa57bba5d/1*WTnzOjS1V7OeTNNlaFZikg.jpeg
+  path: ../assets/f2afa57bba5d/1*WTnzOjS1V7OeTNNlaFZikg.jpeg
 ---
 
 ### AYS Daily Digest 30/03/20 — Experts Funded by EU Sharply Criticise EU\-Policies
@@ -15,7 +15,7 @@ image:
 Corona\-Updates from Afghanistan, Libya, Syria // Embarkation of ALAN KURDI // Updates from Lesvos & Chios // Deportations from Germany to Afghanistan Suspended
 
 
-![](assets/f2afa57bba5d/1*WTnzOjS1V7OeTNNlaFZikg.jpeg)
+![](../assets/f2afa57bba5d/1*WTnzOjS1V7OeTNNlaFZikg.jpeg)
 
 ### FEATURE
 
@@ -144,27 +144,27 @@ For the full statement, see:
 Information on what to do if one wants to leave the house:
 
 
-![](assets/f2afa57bba5d/1*qcYhOom2e-PTtp6pRtKsIw.jpeg)
+![](../assets/f2afa57bba5d/1*qcYhOom2e-PTtp6pRtKsIw.jpeg)
 
 
 
-![](assets/f2afa57bba5d/1*v4YEW9xnX7h6FVI7SnnRLA.jpeg)
+![](../assets/f2afa57bba5d/1*v4YEW9xnX7h6FVI7SnnRLA.jpeg)
 
 
 
-![](assets/f2afa57bba5d/1*CoVs1yOKqgv_h58ZWqB9sg.jpeg)
+![](../assets/f2afa57bba5d/1*CoVs1yOKqgv_h58ZWqB9sg.jpeg)
 
 
 
-![](assets/f2afa57bba5d/1*SgwDghL4Kg1FHccUekMZTg.jpeg)
+![](../assets/f2afa57bba5d/1*SgwDghL4Kg1FHccUekMZTg.jpeg)
 
 
 
-![](assets/f2afa57bba5d/1*C-f9T65p7-Mtm0ks3EBH2Q.jpeg)
+![](../assets/f2afa57bba5d/1*C-f9T65p7-Mtm0ks3EBH2Q.jpeg)
 
 
 
-![Copyrights: Khora](assets/f2afa57bba5d/1*5X3QB5mP1_q1a3YsHMPcww.jpeg)
+![Copyrights: Khora](../assets/f2afa57bba5d/1*5X3QB5mP1_q1a3YsHMPcww.jpeg)
 
 Copyrights: Khora
 #### CHIOS

@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: The EU Civil Liberties Committee is traveling to Greece to study the facts on the ground following the EU/Turkey agreement, but the data…
 image:
-  path: assets/4ce24d6a136f/1*KkfuU-crW_UTKnkcek9K-w.jpeg
+  path: ../assets/4ce24d6a136f/1*KkfuU-crW_UTKnkcek9K-w.jpeg
 ---
 
 ### AYS DAILY NEWS DIGEST 16\.5\.2016
@@ -25,7 +25,7 @@ image:
 
 
 
-![Amazing kids’ party in Idomeni camp’s cultural centre, organized by Road to Freedom\. Photo credit: Neezo Swansea Dhan](assets/4ce24d6a136f/1*KkfuU-crW_UTKnkcek9K-w.jpeg)
+![Amazing kids’ party in Idomeni camp’s cultural centre, organized by Road to Freedom\. Photo credit: Neezo Swansea Dhan](../assets/4ce24d6a136f/1*KkfuU-crW_UTKnkcek9K-w.jpeg)
 
 Amazing kids’ party in Idomeni camp’s cultural centre, organized by Road to Freedom\. Photo credit: Neezo Swansea Dhan
 #### GENERAL
@@ -52,7 +52,7 @@ There is still a growing number of volunteers in different solidarity organizati
 Platanos refugee solidarity team in Lesvos has decided to deconstruct their structures in Skala camp due to no new arrivals on the island\. They need help with deconstruction costs and moving the materials places which need them more urgently\. Follow their Facebook page and look for our updates on cost estimates\.
 
 
-![Starfish has been sending volunteers to a safe camp in Lesvos, where Save the Children, Medecins Sans Frontiers, and Praksis are overseeing a group of 75 unaccompanied children who have recently been released from Moria Detention Center\. Photocredit: Starfish Foundation\.](assets/4ce24d6a136f/1*uhELO7joVty85cth42zwMg.jpeg)
+![Starfish has been sending volunteers to a safe camp in Lesvos, where Save the Children, Medecins Sans Frontiers, and Praksis are overseeing a group of 75 unaccompanied children who have recently been released from Moria Detention Center\. Photocredit: Starfish Foundation\.](../assets/4ce24d6a136f/1*uhELO7joVty85cth42zwMg.jpeg)
 
 Starfish has been sending volunteers to a safe camp in Lesvos, where Save the Children, Medecins Sans Frontiers, and Praksis are overseeing a group of 75 unaccompanied children who have recently been released from Moria Detention Center\. Photocredit: Starfish Foundation\.
 ### **Troubles with the new hotspot in Kos**

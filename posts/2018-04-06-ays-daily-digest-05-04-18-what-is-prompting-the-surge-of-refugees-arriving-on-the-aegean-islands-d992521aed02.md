@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 05/04/18: What is Prompting the Surge of Refugees Arriving on the Aegean Islands?
+title: "AYS Daily Digest 05/04/18: What is Prompting the Surge of Refugees Arriving on the Aegean Islands?"
 author: Are You Syrious?
 date: 2018-04-06T09:43:09.582+0100
 last_modified_at: 2018-04-06T09:43:09.582+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,albania,greece,deportations]
 description: New Arrivals in Greece//Rescue Groups under attack//Updates from Lesvos and Samos//Deaths on the Evros river//Journalist released in…
 image:
-  path: assets/d992521aed02/1*NdabwL65sCnaxrsiNQ8t9Q.jpeg
+  path: ../assets/d992521aed02/1*NdabwL65sCnaxrsiNQ8t9Q.jpeg
 ---
 
 ### AYS Daily Digest 05/04/18: What is Prompting the Surge of Refugees Arriving on the Aegean Islands?
@@ -15,7 +15,7 @@ image:
 _New Arrivals in Greece//Rescue Groups under attack//Updates from Lesvos and Samos//Deaths on the Evros river//Journalist released in Serbia//French authorities prevent aid to refugees//Wolf Attack in Albania//Deportations from Denmark//and more…_
 
 
-![Photo Credit: [**NoBorders**](https://www.facebook.com/nobordersnetwork/)](assets/d992521aed02/1*NdabwL65sCnaxrsiNQ8t9Q.jpeg)
+![Photo Credit: [**NoBorders**](https://www.facebook.com/nobordersnetwork/)](../assets/d992521aed02/1*NdabwL65sCnaxrsiNQ8t9Q.jpeg)
 
 Photo Credit: [**NoBorders**](https://www.facebook.com/nobordersnetwork/)
 ### Feature: People, not Numbers\.
@@ -42,7 +42,7 @@ Photo Credit: [**NoBorders**](https://www.facebook.com/nobordersnetwork/)
 
 
 
-![A Turkish Coast Guard interception, 05\.04\.18\. Photo Credit: [**Aegean Boat Report**](https://www.facebook.com/AegeanBoatReport/)](assets/d992521aed02/1*8NZaoNJuFHNigJ8a8unfQw.jpeg)
+![A Turkish Coast Guard interception, 05\.04\.18\. Photo Credit: [**Aegean Boat Report**](https://www.facebook.com/AegeanBoatReport/)](../assets/d992521aed02/1*8NZaoNJuFHNigJ8a8unfQw.jpeg)
 
 A Turkish Coast Guard interception, 05\.04\.18\. Photo Credit: [**Aegean Boat Report**](https://www.facebook.com/AegeanBoatReport/)
 #### Transfers to Mainland 05\.04
@@ -113,12 +113,12 @@ ECRE reported today that the number of people arriving by sea has increased this
 The UNHCR released reports on Lesvos and Samos this week, revealing drastically overcrowded conditions on the islands\. One interesting thing about these reports, as revealed by [**Aegean Boat Report**](https://www.facebook.com/AegeanBoatReport/?hc_ref=ARSB2itYX0ThToH0UNUDukyDewcP7BmNRyiVMok2kZNOJsz7USBwrxfUd0hNf-aWUKo&fref=nf) **,** is that they are not made public, and only shared with a small number of actors on the island\. Why is this the case?
 
 
-![Photo Credit: [**Aegean Boat Report**](https://www.facebook.com/AegeanBoatReport/?hc_ref=ARSB2itYX0ThToH0UNUDukyDewcP7BmNRyiVMok2kZNOJsz7USBwrxfUd0hNf-aWUKo&fref=nf)](assets/d992521aed02/1*zNok0xjfhQZp8ayEO_IHYA.jpeg)
+![Photo Credit: [**Aegean Boat Report**](https://www.facebook.com/AegeanBoatReport/?hc_ref=ARSB2itYX0ThToH0UNUDukyDewcP7BmNRyiVMok2kZNOJsz7USBwrxfUd0hNf-aWUKo&fref=nf)](../assets/d992521aed02/1*zNok0xjfhQZp8ayEO_IHYA.jpeg)
 
 Photo Credit: [**Aegean Boat Report**](https://www.facebook.com/AegeanBoatReport/?hc_ref=ARSB2itYX0ThToH0UNUDukyDewcP7BmNRyiVMok2kZNOJsz7USBwrxfUd0hNf-aWUKo&fref=nf)
 
 
-![Photo Credit: UNHCR](assets/d992521aed02/1*WJwNKsnhBMLfDECXkHA2sg.jpeg)
+![Photo Credit: UNHCR](../assets/d992521aed02/1*WJwNKsnhBMLfDECXkHA2sg.jpeg)
 
 Photo Credit: UNHCR
 
@@ -175,7 +175,7 @@ The [Pikpa Solidarity Space](https://lesvossolidarity.org/en/donate-en/financial
 
 
 
-![Weekend activities on Lesvos, 05/04/18\. Photo Credit: [Pikpa](https://lesvossolidarity.org/en/donate-en/financial-donations)](assets/d992521aed02/1*fdf9NQ1mMUOOVO4BVBlLGA.jpeg)
+![Weekend activities on Lesvos, 05/04/18\. Photo Credit: [Pikpa](https://lesvossolidarity.org/en/donate-en/financial-donations)](../assets/d992521aed02/1*fdf9NQ1mMUOOVO4BVBlLGA.jpeg)
 
 Weekend activities on Lesvos, 05/04/18\. Photo Credit: [Pikpa](https://lesvossolidarity.org/en/donate-en/financial-donations)
 
@@ -241,7 +241,7 @@ A large group of refugees managed to cross the river that day\.
 Journalist Mauro Donato has been released from imprisonment in Serbia\. He was arbitrarily arrested while reporting on refugees in the country, in what many viewed as an attack on journalists\.
 
 
-![Photo Credit: [**One Bridge To Idomeni**](https://www.facebook.com/1Bridge2Idomeni/?hc_location=group_dialog)](assets/d992521aed02/1*yZRrcY6tumIt6kj8rj-Lqw.jpeg)
+![Photo Credit: [**One Bridge To Idomeni**](https://www.facebook.com/1Bridge2Idomeni/?hc_location=group_dialog)](../assets/d992521aed02/1*yZRrcY6tumIt6kj8rj-Lqw.jpeg)
 
 Photo Credit: [**One Bridge To Idomeni**](https://www.facebook.com/1Bridge2Idomeni/?hc_location=group_dialog)
 ### Croatia
@@ -256,7 +256,7 @@ There will be a demonstration against the war in Syria in [Park Zrinjevac Zagreb
 
 
 
-![Photo Credit: [**Dear refugees: Welcome to Croatia**](https://www.facebook.com/dobrodosli.dragi.imigranti/) ‎](assets/d992521aed02/1*eoWF2t4LRdUBb4mcYYQEZA.jpeg)
+![Photo Credit: [**Dear refugees: Welcome to Croatia**](https://www.facebook.com/dobrodosli.dragi.imigranti/) ‎](../assets/d992521aed02/1*eoWF2t4LRdUBb4mcYYQEZA.jpeg)
 
 Photo Credit: [**Dear refugees: Welcome to Croatia**](https://www.facebook.com/dobrodosli.dragi.imigranti/) ‎
 ### Albania
@@ -267,11 +267,11 @@ We have received a report that a herd of wolves attacked four refugees, three Sy
 [**Utopia 56**](https://www.facebook.com/asso.utopia56/?hc_ref=ARR-lmSVfB2nlhGhrGZ6pS-TotfjHSBWCTdpho7Wv7szMxF9sBBHRQpNtKCJzvhUVq8&hc_location=group) reported from Calais today that the local government has built a series of stone walls across roads leading to refugee encampments in order to prevent the distribution of clothing and food\. The walls started to be buit on February 28, and more have been built since then\. The volunteer group noted that this is happening at a time when the state has promised to improve food distribution to refugees\. How long can the state maintain these hypocrisies?
 
 
-![](assets/d992521aed02/1*gEXo8puJhMgYe8yxQvT-_Q.jpeg)
+![](../assets/d992521aed02/1*gEXo8puJhMgYe8yxQvT-_Q.jpeg)
 
 
 
-![Photos: Utopia 56](assets/d992521aed02/1*SrxjHLV8ChCXAA1LGAl-Gw.jpeg)
+![Photos: Utopia 56](../assets/d992521aed02/1*SrxjHLV8ChCXAA1LGAl-Gw.jpeg)
 
 Photos: Utopia 56
 
@@ -293,7 +293,7 @@ The [**Mobile Refugee Support**](https://www.facebook.com/MobileRefugeeSupport/?
 Due to refugees constantly having their possessions stolen by the authorities, the stocks of [**Mobile Refugee Support**](https://www.facebook.com/MobileRefugeeSupport/?hc_ref=ARRBkeL71zjz7YtE06IWgxzPkl4aB79dap0dTneDly9oLHbnGnISx_bObcy5pzF8ZPY) are running dangerously low\. You can support them [here](https://www.justgiving.com/crowdfunding/mrsspringappeal) \.
 
 
-![Port of Calais\. Photo Credit: [**Taranis News**](https://www.facebook.com/taranisnews/?hc_location=group_dialog)](assets/d992521aed02/1*hUeeVJk20_dBQYn7BDkolw.jpeg)
+![Port of Calais\. Photo Credit: [**Taranis News**](https://www.facebook.com/taranisnews/?hc_location=group_dialog)](../assets/d992521aed02/1*hUeeVJk20_dBQYn7BDkolw.jpeg)
 
 Port of Calais\. Photo Credit: [**Taranis News**](https://www.facebook.com/taranisnews/?hc_location=group_dialog)
 

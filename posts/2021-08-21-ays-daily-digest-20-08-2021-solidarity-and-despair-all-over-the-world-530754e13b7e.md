@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 20/08/2021: Solidarity and despair all over the world
+title: "AYS Daily Digest 20/08/2021: Solidarity and despair all over the world"
 author: Are You Syrious?
 date: 2021-08-21T12:09:34.763+0100
 last_modified_at: 2021-08-21T16:26:12.833+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,afghanistan,europe,taliban]
 description: While people go on the streets in support of Afghans trying to flee Taliban, governments refuse to provide safety // New testimonies of…
 image:
-  path: assets/530754e13b7e/1*CHcNAshO5XKAfQz18cui2w.jpeg
+  path: ../assets/530754e13b7e/1*CHcNAshO5XKAfQz18cui2w.jpeg
 ---
 
 ### AYS Daily Digest 20/08/2021: Solidarity and despair all over the world
 #### While people go on the streets in support of Afghans trying to flee Taliban, governments refuse to provide safety // New testimonies of torture from Libya // 53 people die off Canary Islands // Belarus accused of hybrid warfare
 
 
-![Protests in support of Afghan people are happening all over the world\. Credits: [Marios Lolos](https://www.facebook.com/marios.lolos.1?__tn__=-UC*F)](assets/530754e13b7e/1*CHcNAshO5XKAfQz18cui2w.jpeg)
+![Protests in support of Afghan people are happening all over the world\. Credits: [Marios Lolos](https://www.facebook.com/marios.lolos.1?__tn__=-UC*F)](../assets/530754e13b7e/1*CHcNAshO5XKAfQz18cui2w.jpeg)
 
 Protests in support of Afghan people are happening all over the world\. Credits: [Marios Lolos](https://www.facebook.com/marios.lolos.1?__tn__=-UC*F)
 ### Afghanistan

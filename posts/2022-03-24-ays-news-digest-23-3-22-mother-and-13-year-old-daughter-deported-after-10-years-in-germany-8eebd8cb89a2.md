@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 23/3/22: Mother and 13-year-old daughter deported after 10 years in Germany
+title: "AYS News Digest 23/3/22: Mother and 13-year-old daughter deported after 10 years in Germany"
 author: Are You Syrious?
 date: 2022-03-24T17:30:27.328+0000
 last_modified_at: 2022-03-24T18:48:32.245+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,déportation,germany,belarus]
 description: Bodies of people who have died in shipwrecks found along Tunisian coast / BVMN Monthly Report / EU leaders have tacitly admitted that EU…
 image:
-  path: assets/8eebd8cb89a2/1*tT5CPQCXJR9aOtZ1V_5M7A.jpeg
+  path: ../assets/8eebd8cb89a2/1*tT5CPQCXJR9aOtZ1V_5M7A.jpeg
 ---
 
 ### AYS News Digest 23/3/22: Mother and 13\-year\-old daughter deported after 10 years in Germany
 #### Bodies of people who have died in shipwrecks found along Tunisian coast / BVMN Monthly Report / EU leaders have tacitly admitted that EU migration policies, at a purely mechanical level, are unfit for purpose / and more
 
 
-![](assets/8eebd8cb89a2/1*tT5CPQCXJR9aOtZ1V_5M7A.jpeg)
+![](../assets/8eebd8cb89a2/1*tT5CPQCXJR9aOtZ1V_5M7A.jpeg)
 
 #### FEATURE
 
@@ -86,7 +86,7 @@ Immigration law experts—Salvatore Lombardo, a lecturer at the Sciences Po Univ
 In February, the Border Violence Monitoring Network \(BVMN\) shared 32 testimonies of pushbacks impacting 364 people\-on\-the\-move across the Balkans\. This report brings together first\-hand testimony from a range of countries in the region to look at the way European Union states and other actors are affecting systemic violence towards people crossing borders\.
 
 
-![](assets/8eebd8cb89a2/0*crad_cUElNvrAEuJ.jpg)
+![](../assets/8eebd8cb89a2/0*crad_cUElNvrAEuJ.jpg)
 
 
 This month’s BVMN report covers:

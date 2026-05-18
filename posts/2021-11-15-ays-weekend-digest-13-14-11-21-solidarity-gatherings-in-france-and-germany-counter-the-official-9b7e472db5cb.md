@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 13–14/11/21: Solidarity gatherings in France and Germany counter the official…
+title: "AYS Weekend Digest 13–14/11/21: Solidarity gatherings in France and Germany counter the official…"
 author: Are You Syrious?
 date: 2021-11-15T17:17:25.280+0000
 last_modified_at: 2021-11-15T22:09:48.510+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,belarus,europe,borders,refugees]
 description: 8 lives lost in the sea close to the Canary islands / New SAR activities in the Med / Aletter to the minister from the people of Samos /…
 image:
-  path: assets/9b7e472db5cb/0*cpKJnDplSPNTQxOR
+  path: ../assets/9b7e472db5cb/0*cpKJnDplSPNTQxOR
 ---
 
 ### AYS Weekend Digest 13–14/11/21: Solidarity gatherings in France and Germany counter the official stance
 #### 8 lives lost in the sea close to the Canary islands / New SAR activities in the Med / Aletter to the minister from the people of Samos / Developments at the Belarus border, calls for help and information for those wishing to get involved…
 
 
-![Photo: [Louis Witter](https://twitter.com/LouisWitter)](assets/9b7e472db5cb/0*cpKJnDplSPNTQxOR)
+![Photo: [Louis Witter](https://twitter.com/LouisWitter)](../assets/9b7e472db5cb/0*cpKJnDplSPNTQxOR)
 
 Photo: [Louis Witter](https://twitter.com/LouisWitter)
 
@@ -38,11 +38,11 @@ Photo: [Louis Witter](https://twitter.com/LouisWitter)
 Around 1,000 people attended a demonstration in solidarity with displaced people and the demands of hunger strikers at the Saint\-Pierre church\. A concrete action of collective solidarity with the hunger strikers and people on the move suffering the consequences of bad politics\.
 
 
-![](assets/9b7e472db5cb/1*n6aimWdLsFjPrtK8w2GcXA.jpeg)
+![](../assets/9b7e472db5cb/1*n6aimWdLsFjPrtK8w2GcXA.jpeg)
 
 
 
-![Photos: [juliadruelle](https://twitter.com/juliadruelle)](assets/9b7e472db5cb/1*59C9OyQzZXEedsVCR7rzPg.jpeg)
+![Photos: [juliadruelle](https://twitter.com/juliadruelle)](../assets/9b7e472db5cb/1*59C9OyQzZXEedsVCR7rzPg.jpeg)
 
 Photos: [juliadruelle](https://twitter.com/juliadruelle)
 #### SAR IN THE MEDITERRANEAN

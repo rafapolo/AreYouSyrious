@@ -1,5 +1,5 @@
 ---
-title: AYS digest 1/9: Over 13,000 people saved in the past 4 days
+title: "AYS digest 1/9: Over 13,000 people saved in the past 4 days"
 author: Are You Syrious?
 date: 2016-09-02T00:13:44.169+0100
 last_modified_at: 2016-09-02T00:38:40.569+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,migration,refugee-crisis,mediterranean]
 description: Record number of refugees arrive to Italy. Volunteer lifeguards needed in Greece again. Food supply cut off, no running water in Vial…
 image:
-  path: assets/e878350d3bcf/1*3EVT2-DIM8Cm2imvxWi3lw.jpeg
+  path: ../assets/e878350d3bcf/1*3EVT2-DIM8Cm2imvxWi3lw.jpeg
 ---
 
 ### AYS digest 1/9: Over 13,000 people saved in the past 4 days
 #### Record number of refugees arrive to Italy\. Volunteer lifeguards needed in Greece again\. Food supply cut off, no running water in Vial\. Chicken pox reported in Athens\. Serbian state secretary: “Balkan route is not closed for migrants”\. Updated guide for ayslum procedure in Switzerland\. Bavaria to dictate residence of asylum seekers\. Donations of food needed in Calais\.
 
 
-![Entire families are risking their lives to cross the sea from Lybia to Italy\. Photo: Caitlin Ryan / MSF](assets/e878350d3bcf/1*3EVT2-DIM8Cm2imvxWi3lw.jpeg)
+![Entire families are risking their lives to cross the sea from Lybia to Italy\. Photo: Caitlin Ryan / MSF](../assets/e878350d3bcf/1*3EVT2-DIM8Cm2imvxWi3lw.jpeg)
 
 Entire families are risking their lives to cross the sea from Lybia to Italy\. Photo: Caitlin Ryan / MSF
 #### MEDITERRANEAN
@@ -32,7 +32,7 @@ Entire families are risking their lives to cross the sea from Lybia to Italy\. P
 96refugees arrived to Lesvos today\. 56 were picked up and brought to Skala Sikamineas by Coast Guard, including 15 women, 19 children and 3 medical cases\. Proactiva was present, and Lighthouse Relief welcomed refugees in the harbour\. Volunteers have also reported the landing of one boat carrying 40 people in the south\-east coast of Lesvos\. No landings on other islands were reported by volunteers or the government\.
 
 
-![Refugees protesting inhumane treatment in Greek camps\. Photo: Contaminando Sonrisas](assets/e878350d3bcf/1*vh8ln1ytm0dX3hUItfcnqA.jpeg)
+![Refugees protesting inhumane treatment in Greek camps\. Photo: Contaminando Sonrisas](../assets/e878350d3bcf/1*vh8ln1ytm0dX3hUItfcnqA.jpeg)
 
 Refugees protesting inhumane treatment in Greek camps\. Photo: Contaminando Sonrisas
 ### With EU\-Turkey deal effectively put on hold, volunteers and lifeguards are needed again
@@ -47,7 +47,7 @@ Following noticeable increase of new arrivals to overcrowded Greek islands and a
 
 
 
-![Number of refugee arrivals to Greece per day since the beginning of EU\-Turkey deal \(March 20th\) until today, the red line indicating the day of the attempted coup in Turkey\. Graph: Patrick Kingsley/Twitter](assets/e878350d3bcf/1*mKZ-1dUc0BG0OCHdTFE4ww.jpeg)
+![Number of refugee arrivals to Greece per day since the beginning of EU\-Turkey deal \(March 20th\) until today, the red line indicating the day of the attempted coup in Turkey\. Graph: Patrick Kingsley/Twitter](../assets/e878350d3bcf/1*mKZ-1dUc0BG0OCHdTFE4ww.jpeg)
 
 Number of refugee arrivals to Greece per day since the beginning of EU\-Turkey deal \(March 20th\) until today, the red line indicating the day of the attempted coup in Turkey\. Graph: Patrick Kingsley/Twitter
 
@@ -69,7 +69,7 @@ Aggrieved Afghan refugees have blocked the gate and cut off food supply to Vial 
 There are just a few more days left before an fundraising effort on behalf of the [Athena Centre for Refugee Women](https://www.youcaring.com/athena-centre-for-refugee-women-600411) on Chios comes to a close\. Volunteers have worked hard to set it up\. They still need donations in order to secure long\-term support to refugee women of Chios, many of whom have been severely traumatized and often abused on their way to Greece\. After reading a number of testimonies of grateful users of the centre, we’re sharing the appeal of the project’s founder and coordinator Gabrielle Tan\.
 
 
-![Gabrielle Tan with refugee women in Athena Centre on Chios\. Photo: Athena Centre for Refugee Women](assets/e878350d3bcf/1*XopoTU46WNjcoWl4osfqsw.png)
+![Gabrielle Tan with refugee women in Athena Centre on Chios\. Photo: Athena Centre for Refugee Women](../assets/e878350d3bcf/1*XopoTU46WNjcoWl4osfqsw.png)
 
 Gabrielle Tan with refugee women in Athena Centre on Chios\. Photo: Athena Centre for Refugee Women
 
@@ -84,7 +84,7 @@ The link to their fundraiser can be found [here](https://www.youcaring.com/athen
 ### Refugees in Moria finally get to wash their clothes
 
 
-![Two Syrian boys helping to unload donations in Moria camp\. Photo: Jim Henley](assets/e878350d3bcf/1*lkYs7z62oS18hYO1QwUnTg.jpeg)
+![Two Syrian boys helping to unload donations in Moria camp\. Photo: Jim Henley](../assets/e878350d3bcf/1*lkYs7z62oS18hYO1QwUnTg.jpeg)
 
 Two Syrian boys helping to unload donations in Moria camp\. Photo: Jim Henley
 
@@ -95,7 +95,7 @@ According to independent volunteer reports, there has been a confirmed outbreak 
 ### Through refugee eyes: protest in Thessaloniki
 
 
-![](assets/e878350d3bcf/1*hmfOSo-e1o8_7YnK6mVvyQ.jpeg)
+![](../assets/e878350d3bcf/1*hmfOSo-e1o8_7YnK6mVvyQ.jpeg)
 
 
 
@@ -119,7 +119,7 @@ Refugee center Miksalište, which proved to be invaluable support in the first m
 
 
 
-![Volunteers and refugees celebrating the first year of Miksalište\. Photo: Miksalište](assets/e878350d3bcf/1*DFG5q3hLNOIIU_gyFg2wgA.jpeg)
+![Volunteers and refugees celebrating the first year of Miksalište\. Photo: Miksalište](../assets/e878350d3bcf/1*DFG5q3hLNOIIU_gyFg2wgA.jpeg)
 
 Volunteers and refugees celebrating the first year of Miksalište\. Photo: Miksalište
 
@@ -138,7 +138,7 @@ This doesn’t mean the refugees will be able to cross the border to Hungary wit
 According to unofficial information, 12 refugee children out of approximately 30 school\-age refugees in Zagreb will enter Croatian school system next week\. AYS volunteers have spent the summer preparing them for school, with a special focus on learning Croatian, because there will be no special program for them organised by the government and they will have to adjust to regular Croatian schooling system despite the language barrier\.
 
 
-![Kids of Porin refugee centre in Zagreb are getting ready for entering Croatian school system\. Photo: AYS](assets/e878350d3bcf/1*2EWeiQJ_v-uBPEyqfPMz2Q.jpeg)
+![Kids of Porin refugee centre in Zagreb are getting ready for entering Croatian school system\. Photo: AYS](../assets/e878350d3bcf/1*2EWeiQJ_v-uBPEyqfPMz2Q.jpeg)
 
 Kids of Porin refugee centre in Zagreb are getting ready for entering Croatian school system\. Photo: AYS
 #### SWITZERLAND
@@ -151,7 +151,7 @@ Welcome to Europe has published an update about the asylum procedure in Switzerl
 Bavaria has become the first German state to implement a new integration law whereby the government can dictate asylum seekers’ place of residence for a period of three years\. All asylum seekers living in the southern German state will be affected by the rule except those who are engaged in job training or have employment and are working 15 hours a week or more\.
 
 
-![](assets/e878350d3bcf/1*tuQiBb33t2nXnQL9jP8Cjg.png)
+![](../assets/e878350d3bcf/1*tuQiBb33t2nXnQL9jP8Cjg.png)
 
 
 
@@ -164,7 +164,7 @@ Bavaria has become the first German state to implement a new integration law whe
 Guenter Burkhardt, head of the refugee rights organisation [**Pro Asyl**](https://www.proasyl.de/en/) , told Bavaria’s state broadcaster BR that the ruling was not in keeping with the principles of a free society, where people choose where they want to live\.
 
 
-![](assets/e878350d3bcf/1*yltb9NA8GA6aFXobcYNgPQ.png)
+![](../assets/e878350d3bcf/1*yltb9NA8GA6aFXobcYNgPQ.png)
 
 
 The new rule is based on an integration law that was passed by the German government in early August\. According to DPA article that we’re quoting, it is up to the country’s 16 federal states to implement it\.

@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 10/4/19: Evictions in Athens
+title: "AYS Daily Digest 10/4/19: Evictions in Athens"
 author: Are You Syrious?
 date: 2019-04-11T11:59:26.764+0100
 last_modified_at: 2019-04-11T12:52:13.637+0100
 categories: Are You Syrious?
 tags: [refugees,europe,digest,france,greece]
-description: Greece: evictions, crisis deepens on the islands, help needed in many places / Serbia: more cases of violent pushbacks / Global Detention…
+description: "Greece: evictions, crisis deepens on the islands, help needed in many places / Serbia: more cases of violent pushbacks / Global Detention…"
 image:
-  path: assets/eab8e2ab9e22/1*7MnjCEXO8tXvOYIIaOgIiw.jpeg
+  path: ../assets/eab8e2ab9e22/1*7MnjCEXO8tXvOYIIaOgIiw.jpeg
 ---
 
 ### AYS Daily Digest 10/4/19: Evictions in Athens
 #### Greece: evictions, crisis deepens on the islands, help needed in many places / Serbia: more cases of violent pushbacks / Global Detention Project’s report for Croatia / France: Protesting the announced evictions in Paris; organisations against the announced system of registration for minors / & more news
 
 
-![Photo from [Azadi Squat Athens](https://www.facebook.com/AzadiSquatAthens/?__xts__%5B0%5D=68.ARCcxUOf-YVLt3lFZ84lDPPy2BZMSbkQlMDbLQUwNRrss0mxDwtbde1wM90wnc3GDInVv4Z_m56Rm-5cC553ot4DOKirW7zStMc3Rf3YS3TFpH9vaZFEYk83mL9yMK9hQvICfScG3tLmAhmjn9tZBGPMGG4HLH0Z5zDAzwZ0IEbilxdRRWH58EnprbwKa9PEGhG8IoUCZhZS2al5hpDIC11mbEshp3Qn2_q19X4-6V6ZzzCMYBWdDz8D1wS9oXCTSfT4uACW2m4-9x6ZPLK7eAoruIU84Z0wXnDYGHmn_tqTyr14PFK5g0qmw1HzcqjX1w2fVO8Ve2xAdVK5xVcIomcTHdMD&__tn__=k%2AF&tn-str=k%2AF)](assets/eab8e2ab9e22/1*7MnjCEXO8tXvOYIIaOgIiw.jpeg)
+![Photo from [Azadi Squat Athens](https://www.facebook.com/AzadiSquatAthens/?__xts__%5B0%5D=68.ARCcxUOf-YVLt3lFZ84lDPPy2BZMSbkQlMDbLQUwNRrss0mxDwtbde1wM90wnc3GDInVv4Z_m56Rm-5cC553ot4DOKirW7zStMc3Rf3YS3TFpH9vaZFEYk83mL9yMK9hQvICfScG3tLmAhmjn9tZBGPMGG4HLH0Z5zDAzwZ0IEbilxdRRWH58EnprbwKa9PEGhG8IoUCZhZS2al5hpDIC11mbEshp3Qn2_q19X4-6V6ZzzCMYBWdDz8D1wS9oXCTSfT4uACW2m4-9x6ZPLK7eAoruIU84Z0wXnDYGHmn_tqTyr14PFK5g0qmw1HzcqjX1w2fVO8Ve2xAdVK5xVcIomcTHdMD&__tn__=k%2AF&tn-str=k%2AF)](../assets/eab8e2ab9e22/1*7MnjCEXO8tXvOYIIaOgIiw.jpeg)
 
 Photo from [Azadi Squat Athens](https://www.facebook.com/AzadiSquatAthens/?__xts__%5B0%5D=68.ARCcxUOf-YVLt3lFZ84lDPPy2BZMSbkQlMDbLQUwNRrss0mxDwtbde1wM90wnc3GDInVv4Z_m56Rm-5cC553ot4DOKirW7zStMc3Rf3YS3TFpH9vaZFEYk83mL9yMK9hQvICfScG3tLmAhmjn9tZBGPMGG4HLH0Z5zDAzwZ0IEbilxdRRWH58EnprbwKa9PEGhG8IoUCZhZS2al5hpDIC11mbEshp3Qn2_q19X4-6V6ZzzCMYBWdDz8D1wS9oXCTSfT4uACW2m4-9x6ZPLK7eAoruIU84Z0wXnDYGHmn_tqTyr14PFK5g0qmw1HzcqjX1w2fVO8Ve2xAdVK5xVcIomcTHdMD&__tn__=k%2AF&tn-str=k%2AF)
 #### FEATURE
@@ -72,7 +72,7 @@ Get informed: [facebook.com/AgainstRefugee…](https://www.facebook.com/AgainstR
 A boat with 20 people on board is drifting near the Libyan\-Tunisian border\. Authorities in Tunis, Valletta & Rome are informed but not reacting adequately\.
 
 
-![](assets/eab8e2ab9e22/1*34cJcP3L8zXUq7ltqRhAcw.jpeg)
+![](../assets/eab8e2ab9e22/1*34cJcP3L8zXUq7ltqRhAcw.jpeg)
 
 
 “This is non assistance\! Already at 6:50 a\.m\. UTC, our SAR\-plane Moonbird was able to localize a distress case that was previously reported by the [Watch The Med — Alarmphone](https://www.facebook.com/watchthemed.alarmphone/?__tn__=%2CdKH-R-R&eid=ARA6BgGg8uBEpatWP76sqcgFj-9ff4K_GIDtfC4puZ8jzEhLTmf57mFLCjSsLH5XX4mIc2jXv4jMIQPJ&fref=mentions) and sparked a mayday relay\. More than 20 people are currently in acute distress, eight people may have already drowned\. No MRCC has taken responsibility for hours\. Although two [Vroon](https://www.facebook.com/VroonGroup/?__tn__=%2CdKH-R-R&eid=ARDamn1N8lg1vgLUMVBvDjG7EpGjMWew6SG-DtGAiD7rwKvrxvO9aiUTdblFRmuPpdT1RJocLkUPYmCB&fref=mentions) ships are nearby, they haven’t helped\. The Vos Triton & Vos Aphrodite must be diverted immediately to respond to the ongoing distress\.” — [Sea\-Watch](https://www.facebook.com/seawatchprojekt/?tn-str=k%2AF)
@@ -87,7 +87,7 @@ The [Seebrücke — Schafft sichere Häfen](https://www.facebook.com/SeebrueckeS
 If you are interested, write directly to crewing@resqship\.org
 
 
-![](assets/eab8e2ab9e22/1*LX9p_wMtCpbJzSTeJVcRZg.jpeg)
+![](../assets/eab8e2ab9e22/1*LX9p_wMtCpbJzSTeJVcRZg.jpeg)
 
 #### GREECE
 
@@ -171,11 +171,11 @@ Find more information [here](https://happy-caravan.org/volunteers/) and if you h
 #### SERBIA
 
 
-![](assets/eab8e2ab9e22/1*N_-OLQifpOgOeCdrGBZ--w.jpeg)
+![](../assets/eab8e2ab9e22/1*N_-OLQifpOgOeCdrGBZ--w.jpeg)
 
 
 
-![Irsan \(not his real name\) was resting on a bench in the sun after a long sleepless night\. His index finger was bleeding and there was a great bruise at the left side of his head\. Still, he insisted that what made him feel more pain was invisible to the eye: he had been kicked really hard in the ribs and he couldn’t walk or sit down\. He continued muttering the same sentence: “police is a great problem”\. — [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?tn-str=k%2AF&hc_location=group_dialog)](assets/eab8e2ab9e22/1*Wj4h7-j2_j9DCZPoHBMagQ.jpeg)
+![Irsan \(not his real name\) was resting on a bench in the sun after a long sleepless night\. His index finger was bleeding and there was a great bruise at the left side of his head\. Still, he insisted that what made him feel more pain was invisible to the eye: he had been kicked really hard in the ribs and he couldn’t walk or sit down\. He continued muttering the same sentence: “police is a great problem”\. — [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?tn-str=k%2AF&hc_location=group_dialog)](../assets/eab8e2ab9e22/1*Wj4h7-j2_j9DCZPoHBMagQ.jpeg)
 
 Irsan \(not his real name\) was resting on a bench in the sun after a long sleepless night\. His index finger was bleeding and there was a great bruise at the left side of his head\. Still, he insisted that what made him feel more pain was invisible to the eye: he had been kicked really hard in the ribs and he couldn’t walk or sit down\. He continued muttering the same sentence: “police is a great problem”\. — [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?tn-str=k%2AF&hc_location=group_dialog)
 
@@ -273,13 +273,13 @@ Find their press release here:
 Our friends at OCC need help to organize a volunteer event in Barcelona and to continue their efforts in supporting refugees in Greece\. Find more info on their Facebook page\.
 
 
-![[Open Cultural Center — OCC](https://www.facebook.com/OpenCulturalCenter/?tn-str=k%2AF&hc_location=group_dialog)](assets/eab8e2ab9e22/1*zIYRt28TwheoX-wqSXtxog.jpeg)
+![[Open Cultural Center — OCC](https://www.facebook.com/OpenCulturalCenter/?tn-str=k%2AF&hc_location=group_dialog)](../assets/eab8e2ab9e22/1*zIYRt28TwheoX-wqSXtxog.jpeg)
 
 [Open Cultural Center — OCC](https://www.facebook.com/OpenCulturalCenter/?tn-str=k%2AF&hc_location=group_dialog)
 #### UK
 
 
-![Joint event between Right to Remain and Early Asylum Support Sheffield — find about more about the asylum process, and how to get involved with EAS’s work on helping people to prepare for the asylum substantive interview\.](assets/eab8e2ab9e22/1*uPPi8fCMN-V4ut5JuPvxKA.jpeg)
+![Joint event between Right to Remain and Early Asylum Support Sheffield — find about more about the asylum process, and how to get involved with EAS’s work on helping people to prepare for the asylum substantive interview\.](../assets/eab8e2ab9e22/1*uPPi8fCMN-V4ut5JuPvxKA.jpeg)
 
 Joint event between Right to Remain and Early Asylum Support Sheffield — find about more about the asylum process, and how to get involved with EAS’s work on helping people to prepare for the asylum substantive interview\.
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 19/5/20: Maltese offshore prisons
+title: "AYS Daily Digest 19/5/20: Maltese offshore prisons"
 author: Are You Syrious?
 date: 2020-05-20T14:50:47.467+0100
 last_modified_at: 2020-05-20T14:50:47.467+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [newsletter,croatia,lesvos,refugees]
 description: 1400 asylum rejections were given with the opening of Asylum service of Lesvos on May 18 / Openly abused and beaten at the official UN-run…
 image:
-  path: assets/fd3d5ed2b7ef/1*nRYqaFLPF1hSbZHIrNGNKA.jpeg
+  path: ../assets/fd3d5ed2b7ef/1*nRYqaFLPF1hSbZHIrNGNKA.jpeg
 ---
 
 ### AYS Daily Digest 19/5/20: Maltese offshore prisons
 #### 1400 asylum rejections were given with the opening of Asylum service of Lesvos on May 18 / Openly abused and beaten at the official UN\-run camp in Bosnia and Herzegovina / Hypocritical international care for minors while they sleep rough / Some children cut out of the official distance learning programme in Croatia / & more news
 
 
-![](assets/fd3d5ed2b7ef/1*nRYqaFLPF1hSbZHIrNGNKA.jpeg)
+![](../assets/fd3d5ed2b7ef/1*nRYqaFLPF1hSbZHIrNGNKA.jpeg)
 
 #### FEATURED
 ### Push Backs: the new old Routine in the Aegean Sea
@@ -163,7 +163,7 @@ They explain this because the transit zones were a part of Hungary’s system of
 A video capturing violent behaviour of the Bosnian police entering the official camp in Velika Kladuša has been shared, depicting the type of treatment people across the so\-called Balkan Route receive often, as a consequence of a general and repressive approach to running the official camps across the countries, with a special situation in Bosnia and Herzegovina that we and other activist groups often report about\.
 
 
-[![EU-funded violence: Police brutality at Camp Miral](assets/fd3d5ed2b7ef/343f_hqdefault.jpg "EU-funded violence: Police brutality at Camp Miral")](https://www.youtube.com/watch?v=0L8p4h6WNVE)
+[![EU-funded violence: Police brutality at Camp Miral](../assets/fd3d5ed2b7ef/343f_hqdefault.jpg "EU-funded violence: Police brutality at Camp Miral")](https://www.youtube.com/watch?v=0L8p4h6WNVE)
 
 
 In Tuzla, local activists at the end of their strengths report encountering at least 17 young people sleeping rough in their city, among them 4 unaccompanied minors\.
@@ -178,7 +178,7 @@ In Tuzla, local activists at the end of their strengths report encountering at l
 
 
 
-![Photo: [Dženeta Delić Sadiković](https://www.facebook.com/dzeneta.armin?__tn__=%2Cd%2AF%2AF-R&eid=ARD5K4hkH5CwXA9rWkY3EmV1Oo_xoGaSXjgeOveZlw2w_THhJhE4-d68QkWFMA2KF0Odx35DI69Vv60s&tn-str=%2AF)](assets/fd3d5ed2b7ef/1*l2ggszkmg8_60uKQg8PcYw.jpeg)
+![Photo: [Dženeta Delić Sadiković](https://www.facebook.com/dzeneta.armin?__tn__=%2Cd%2AF%2AF-R&eid=ARD5K4hkH5CwXA9rWkY3EmV1Oo_xoGaSXjgeOveZlw2w_THhJhE4-d68QkWFMA2KF0Odx35DI69Vv60s&tn-str=%2AF)](../assets/fd3d5ed2b7ef/1*l2ggszkmg8_60uKQg8PcYw.jpeg)
 
 Photo: [Dženeta Delić Sadiković](https://www.facebook.com/dzeneta.armin?__tn__=%2Cd%2AF%2AF-R&eid=ARD5K4hkH5CwXA9rWkY3EmV1Oo_xoGaSXjgeOveZlw2w_THhJhE4-d68QkWFMA2KF0Odx35DI69Vv60s&tn-str=%2AF)
 #### CROATIA

@@ -1,5 +1,5 @@
 ---
-title: AYS Special from Germany: Seehofer decides Syria is safe
+title: "AYS Special from Germany: Seehofer decides Syria is safe"
 author: Are You Syrious?
 date: 2020-12-26T12:34:35.879+0000
 last_modified_at: 2020-12-26T12:34:35.879+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [special,germany,syria,syrian-refugees,afghanistan]
 description: A general ban on deportations to Syria from Germany will expire at the end of the year. For now, politicians claim that “only” criminals…
 image:
-  path: assets/e52b06dc8da/0*A3BpmrowTBbv0nZ0.jpeg
+  path: ../assets/e52b06dc8da/0*A3BpmrowTBbv0nZ0.jpeg
 ---
 
 ### AYS Special from Germany: Seehofer decides Syria is safe
 ### A general ban on deportations to Syria from Germany will expire at the end of the year\. For now, politicians claim that “only” criminals and potential terrorists should be deported\. However, a similar statement was made four years ago when deportations to Afghanistan started\. Since then, about 900 people have been deported to the war\-torn country — only a few of them have committed any crime\.
 
 
-![](assets/e52b06dc8da/0*95OsVVvAVuHpLW2s.jpeg)
+![](../assets/e52b06dc8da/0*95OsVVvAVuHpLW2s.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----5f751720d407--------------------------------)
@@ -22,11 +22,11 @@ image:
 [Dec 25](ays-special-from-germany-seehofer-decides-syria-is-safe-5f751720d407?source=post_page-----5f751720d407--------------------------------) · 6 min read
 
 
-![](assets/e52b06dc8da/0*2QJbd1B-QiL8KQaD)
+![](../assets/e52b06dc8da/0*2QJbd1B-QiL8KQaD)
 
 
 
-![](assets/e52b06dc8da/0*A3BpmrowTBbv0nZ0.jpeg)
+![](../assets/e52b06dc8da/0*A3BpmrowTBbv0nZ0.jpeg)
 
 
 When it comes to deportations, the German federal Minister of the Interior Horst Seehofer has a very special kind of humour\. In July 2018, he chuckled about the fact that on his 69th birthday, 69 people were deported to Afghanistan\. This year, he had a special surprise planned for international human rights day, December 10th: together with the states’ ministers of the interior, he decided not to prolong the general nation\-wide ban on deportations to Syria\.
@@ -45,11 +45,11 @@ This rule is set as an absolute in the European Convention on Human Rights, and 
 Regardless of the fact that the [German Foreign Office has published a report](https://www.auswaertiges-amt.de/de/newsroom/regierungspressekonferenz/2424520#content_0) saying that Syrians in Syria are still subject to numerous dangers from different actors — including from the regime itself — and that the humanitarian situation in Syria continues to be disastrous, various states’ interior ministers, especially from Merkel’s CDU party, have now called for an end to the general ban\. They claim that parts of the country are safe enough to start deporting people there without breaching international law\. As decided in the conference of the states’ ministers of interior on 9th to 11th of December, the ban will expire as of December 31st 2020\.
 
 
-![](assets/e52b06dc8da/0*p1JmEEhOUjQ4JkPq)
+![](../assets/e52b06dc8da/0*p1JmEEhOUjQ4JkPq)
 
 
 
-![](assets/e52b06dc8da/0*PpwjdjnuqjghyFJr.jpeg)
+![](../assets/e52b06dc8da/0*PpwjdjnuqjghyFJr.jpeg)
 
 ### What does the end of the general ban mean?
 
@@ -60,11 +60,11 @@ But even after the lifting of the general ban on deportation, there are still ma
 For the time being, the decision not to extend the ban can therefore be regarded as a symbolic act, as a concession towards conservative and right\-wing politicians, playing with the racist rhetoric of connecting criminality with nationality\.
 
 
-![](assets/e52b06dc8da/0*i8mENLIoC_f0YUhR)
+![](../assets/e52b06dc8da/0*i8mENLIoC_f0YUhR)
 
 
 
-![](assets/e52b06dc8da/0*GG4blYfTfm2sEOzJ.jpeg)
+![](../assets/e52b06dc8da/0*GG4blYfTfm2sEOzJ.jpeg)
 
 ### Similar pattern as Afghanistan?
 
@@ -92,11 +92,11 @@ These numbers are neither surprising nor is it very likely that they have change
 **But none of this stops German authorities from deporting people, not even during a global pandemic\.** On December 16th 2020, eight days before Christmas Eve, the first deportation after an eight\-month break due to the pandemic was carried out\.
 
 
-![](assets/e52b06dc8da/0*i6rbcNoi1CS3qm-h)
+![](../assets/e52b06dc8da/0*i6rbcNoi1CS3qm-h)
 
 
 
-![](assets/e52b06dc8da/0*1eCqTr2xDqR11tEC.jpeg)
+![](../assets/e52b06dc8da/0*1eCqTr2xDqR11tEC.jpeg)
 
 ### Solidarity and activism
 

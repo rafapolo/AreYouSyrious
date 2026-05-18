@@ -1,5 +1,5 @@
 ---
-title: AYS Daily News Digest 24.04.2017: UN reports on widespread torture in Afghanistan
+title: "AYS Daily News Digest 24.04.2017: UN reports on widespread torture in Afghanistan"
 author: Are You Syrious?
 date: 2017-04-25T01:02:17.031+0100
 last_modified_at: 2017-04-25T01:21:50.403+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,afghanistan,asylum-seekers,greece]
 description: Refugee boat sinks in the Aegean Sea off Lesvos / Update on hunger strike in Moria / Volunteers needed at Nea Kavala / Update on prohibited…
 image:
-  path: assets/3381d371f7a3/1*tCXftlyFGGca-l3joiPpzw.jpeg
+  path: ../assets/3381d371f7a3/1*tCXftlyFGGca-l3joiPpzw.jpeg
 ---
 
 ### AYS Daily News Digest 24\.04\.2017: UN reports on widespread torture in Afghanistan
 #### Refugee boat sinks in the Aegean Sea off Lesvos / Update on hunger strike in Moria / Volunteers needed at Nea Kavala / Update on prohibited food distribution in Ventimiglia, Italy/ Six months from the demolition of Calais “Jungle”
 
 
-![Protesters gathered outside Munich airport, photo taken from [DW](http://www.dw.com/en/protestors-rally-at-munich-airport-to-decry-deportation-flights-in-afghanistan/a-38572088)](assets/3381d371f7a3/1*tCXftlyFGGca-l3joiPpzw.jpeg)
+![Protesters gathered outside Munich airport, photo taken from [DW](http://www.dw.com/en/protestors-rally-at-munich-airport-to-decry-deportation-flights-in-afghanistan/a-38572088)](../assets/3381d371f7a3/1*tCXftlyFGGca-l3joiPpzw.jpeg)
 
 Protesters gathered outside Munich airport, photo taken from [DW](http://www.dw.com/en/protestors-rally-at-munich-airport-to-decry-deportation-flights-in-afghanistan/a-38572088)
 #### UN reports on widespread torture in Afghanistan while Europe accepts fewer and deports more Afghan asylum seekers
@@ -108,7 +108,7 @@ You can now make your volunteer calls or any other needs on [www\.greecevol\.inf
 News That Moves published their weekly answers to the latest questions and rumors related to asylum in Greece\. Newsletter is available in Arabic, English, Farsi and Greek [here](https://drive.google.com/drive/folders/0B-_rJ_0o5IZIS0NXM0t4VjFTUDQ) \.
 
 
-![](assets/3381d371f7a3/1*RtGzDJ_ITOh_DvYaJOxGGw.jpeg)
+![](../assets/3381d371f7a3/1*RtGzDJ_ITOh_DvYaJOxGGw.jpeg)
 
 #### SERBIA
 #### Introductory training session for volunteers teaching at ‘The Workshop’ this Friday 28th\.

@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 03/01/2018: Delays and detentions continue
+title: "AYS DAILY DIGEST 03/01/2018: Delays and detentions continue"
 author: Are You Syrious?
 date: 2018-01-04T00:29:15.660+0000
 last_modified_at: 2018-01-04T08:17:22.879+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,refugeeswelcome,greece,turkey,asylum-seekers]
 description: Delays at the Athens’ Immigration Unit / New centers for unaccompanied minors in central Greece / 1632 people detained across Turkey…
 image:
-  path: assets/c417d25129f/1*Z4faUYSjM3EMWX6ywvW2jA.jpeg
+  path: ../assets/c417d25129f/1*Z4faUYSjM3EMWX6ywvW2jA.jpeg
 ---
 
 ### AYS DAILY DIGEST 03/01/2018: Delays and detentions continue
@@ -15,7 +15,7 @@ image:
 _Delays at the Athens’ Immigration Unit / New centers for unaccompanied minors in central Greece / 1632 people detained across Turkey yesterday / 335 people landed in Catania, Italy / Rough sleeping in Paris / and more_
 
 
-![Yesterday afternoon, a refugee cooks for a group of companions in the so\-called “jungle” near the Serbian\-Croatian border, where they have been living for more than a year; by [Gabriel Tizon](https://www.facebook.com/gabrieltizonfotografo/?hc_ref=ARSXGzlyOEMmAoSAkmNBuLltw91gHKMVnV8sIYJzLHFXHRVoNJYFBNN__Ja6v5aFu6o&fref=nf)](assets/c417d25129f/1*Z4faUYSjM3EMWX6ywvW2jA.jpeg)
+![Yesterday afternoon, a refugee cooks for a group of companions in the so\-called “jungle” near the Serbian\-Croatian border, where they have been living for more than a year; by [Gabriel Tizon](https://www.facebook.com/gabrieltizonfotografo/?hc_ref=ARSXGzlyOEMmAoSAkmNBuLltw91gHKMVnV8sIYJzLHFXHRVoNJYFBNN__Ja6v5aFu6o&fref=nf)](../assets/c417d25129f/1*Z4faUYSjM3EMWX6ywvW2jA.jpeg)
 
 Yesterday afternoon, a refugee cooks for a group of companions in the so\-called “jungle” near the Serbian\-Croatian border, where they have been living for more than a year; by [Gabriel Tizon](https://www.facebook.com/gabrieltizonfotografo/?hc_ref=ARSXGzlyOEMmAoSAkmNBuLltw91gHKMVnV8sIYJzLHFXHRVoNJYFBNN__Ja6v5aFu6o&fref=nf)
 #### FEATURE
@@ -42,7 +42,7 @@ Several unused buildings in Attica and Magnesia, central Greece, are to be trans
 Moria camp in Lesvos is not ready for winter\. The list of what is currently most needed, such as warm clothes, blankets, sleeping bags and even tents is available [here](https://www.facebook.com/Hamburger.Hilfskonvois/posts/1642574332430919:0?hc_location=ufi) along with information on how else you can contribute\.
 
 
-![Every day new tents are popping up in the Olive Grove, the wild camp around the Moria refugee camp on Lesvos, Greece — [Enough is Enough](https://www.facebook.com/enough14/?hc_ref=ARQ7XAjnw3ECrAYYN0hmyoN1WWXv9Pjh8Anf-vlY9TJ0buoMpzfA_9Z6LDVIL3dYqHE&fref=nf)](assets/c417d25129f/1*xf2ESD_wjeoc10iQdVug9w.jpeg)
+![Every day new tents are popping up in the Olive Grove, the wild camp around the Moria refugee camp on Lesvos, Greece — [Enough is Enough](https://www.facebook.com/enough14/?hc_ref=ARQ7XAjnw3ECrAYYN0hmyoN1WWXv9Pjh8Anf-vlY9TJ0buoMpzfA_9Z6LDVIL3dYqHE&fref=nf)](../assets/c417d25129f/1*xf2ESD_wjeoc10iQdVug9w.jpeg)
 
 Every day new tents are popping up in the Olive Grove, the wild camp around the Moria refugee camp on Lesvos, Greece — [Enough is Enough](https://www.facebook.com/enough14/?hc_ref=ARQ7XAjnw3ECrAYYN0hmyoN1WWXv9Pjh8Anf-vlY9TJ0buoMpzfA_9Z6LDVIL3dYqHE&fref=nf)
 #### Chios
@@ -59,7 +59,7 @@ Greek Reporter [writes](http://greece.greekreporter.com/2018/01/03/rise-in-migra
 Another 180 asylum seekers were transferred today from Lesvos to inland Greece, amna [reports](http://www.amna.gr/home/article/218404/180-akomi-prosfuges-apo-eupatheis-omades-metaferontai-se-domes-filoxenias-stin-endochora) \. All of them are members of vulnerable groups of refugees \(families, single women, disabled, etc\) \.
 
 
-![[Hesam Shaeri Hesari is a political activist and a refugee from Iran\. For months he has been under arrest in Lesvos and could be deported from Greece to Turkey in the following hours\.](https://twitter.com/jmasautonell/status/948489647574933504)](assets/c417d25129f/1*zl86GflrZx-aQKu1rjxQmw.jpeg)
+![[Hesam Shaeri Hesari is a political activist and a refugee from Iran\. For months he has been under arrest in Lesvos and could be deported from Greece to Turkey in the following hours\.](https://twitter.com/jmasautonell/status/948489647574933504)](../assets/c417d25129f/1*zl86GflrZx-aQKu1rjxQmw.jpeg)
 
 [Hesam Shaeri Hesari is a political activist and a refugee from Iran\. For months he has been under arrest in Lesvos and could be deported from Greece to Turkey in the following hours\.](https://twitter.com/jmasautonell/status/948489647574933504)
 #### TURKEY
@@ -98,19 +98,19 @@ Rain and cold hit Paris while many refugees are still sleeping rough on the stre
 [Care4Calais](http://www.care4calais.co.uk) are asking everyone to have a look in their closets for a coat they no longer use and donate it to refugees who need them desperately\.
 
 
-![](assets/c417d25129f/1*vqcvq5tpI9nlr4EET3d-5A.jpeg)
+![](../assets/c417d25129f/1*vqcvq5tpI9nlr4EET3d-5A.jpeg)
 
 
 
-![](assets/c417d25129f/1*I2RAp2u9IMT9OghiEnkUSg.jpeg)
+![](../assets/c417d25129f/1*I2RAp2u9IMT9OghiEnkUSg.jpeg)
 
 
 
-![](assets/c417d25129f/1*hCXI7sxyigi3X1eH22Ym5w.jpeg)
+![](../assets/c417d25129f/1*hCXI7sxyigi3X1eH22Ym5w.jpeg)
 
 
 
-![Tents as the only option for refugees in Paris\. They are popping up all over the north part of Paris\. I was invited for dinner in one of them tonight — Danika Jurisic](assets/c417d25129f/1*RqM3B-l9wFrsIFmduE5brg.jpeg)
+![Tents as the only option for refugees in Paris\. They are popping up all over the north part of Paris\. I was invited for dinner in one of them tonight — Danika Jurisic](../assets/c417d25129f/1*RqM3B-l9wFrsIFmduE5brg.jpeg)
 
 Tents as the only option for refugees in Paris\. They are popping up all over the north part of Paris\. I was invited for dinner in one of them tonight — Danika Jurisic
 

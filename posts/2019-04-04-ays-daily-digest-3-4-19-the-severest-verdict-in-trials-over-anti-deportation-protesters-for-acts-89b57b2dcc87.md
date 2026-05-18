@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 3/4/19: The severest verdict in trials over anti-deportation protesters for acts…
+title: "AYS Daily Digest 3/4/19: The severest verdict in trials over anti-deportation protesters for acts…"
 author: Are You Syrious?
 date: 2019-04-04T10:28:43.853+0100
 last_modified_at: 2019-04-04T13:26:55.394+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,human-rights,refugee-resettlement]
 description: Iceland court sentenced 2 young activists / 50 people missing at sea, LCG ignores calls for help / Resettlement plans the Croatian way…
 image:
-  path: assets/89b57b2dcc87/1*ZbXPEpOSEatTOtzN_vdUzw.jpeg
+  path: ../assets/89b57b2dcc87/1*ZbXPEpOSEatTOtzN_vdUzw.jpeg
 ---
 
 ### AYS Daily Digest 3/4/19: The most severe verdict in trials over anti\-deportation protesters for acts of solidarity
 #### Iceland court sentenced two young activists / 50 people missing at sea, LCG ignores calls for help / Resettlement plans the Croatian way don’t sound good / PACE rapporteur expresses extreme concerns after the visit to Bosnia and Herzegovina / more news
 
 
-![Photo: [**PROEMAID**](https://twitter.com/proemaid)](assets/89b57b2dcc87/1*ZbXPEpOSEatTOtzN_vdUzw.jpeg)
+![Photo: [**PROEMAID**](https://twitter.com/proemaid)](../assets/89b57b2dcc87/1*ZbXPEpOSEatTOtzN_vdUzw.jpeg)
 
 Photo: [**PROEMAID**](https://twitter.com/proemaid)
 #### FEATURE
@@ -41,7 +41,7 @@ More than 40,000 displaced people are living in refugee camps near the Turkish b
 [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?__xts__%5B0%5D=68.ARBhLyaRhczyl9mwIQPSzMjUCXMrWtkdOHIdA_G_lJNb5FvrDRhSTKY4LjlKwICFPXKjppVV9j469C_9k42EiOy9TqqUe48aDKWfqcOQrGr4oHJuO9qAd-kjQfpiOGdcNlW44AhI-v2HUxsBkmPnUVBjzikYwNuzPX5BbHBwYONvuVjGXlPhabjRm3QvRHmDRXny8-FAlE24fA-2lTfgMMxha2H4Lui_RmwzlVqL9G47ewwc86BxQRXqRw-ndqWFNn92duQM37wehNt4TCLv-x3YVq8m3clj4uzwqc0324wVctL4iTVRbyDphDcPoehLmLgL3ylRNi6Nx6Vje5HNF7kgNWGuYWwp13eCKdx4h-WAePAEjnuTqSCS&__tn__=k%2AF&tn-str=k%2AF) reports that more than 50 people managed to reach the Moroccan shores during the day\.
 
 
-![Photo: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?__xts__%5B0%5D=68.ARBhLyaRhczyl9mwIQPSzMjUCXMrWtkdOHIdA_G_lJNb5FvrDRhSTKY4LjlKwICFPXKjppVV9j469C_9k42EiOy9TqqUe48aDKWfqcOQrGr4oHJuO9qAd-kjQfpiOGdcNlW44AhI-v2HUxsBkmPnUVBjzikYwNuzPX5BbHBwYONvuVjGXlPhabjRm3QvRHmDRXny8-FAlE24fA-2lTfgMMxha2H4Lui_RmwzlVqL9G47ewwc86BxQRXqRw-ndqWFNn92duQM37wehNt4TCLv-x3YVq8m3clj4uzwqc0324wVctL4iTVRbyDphDcPoehLmLgL3ylRNi6Nx6Vje5HNF7kgNWGuYWwp13eCKdx4h-WAePAEjnuTqSCS&__tn__=k%2AF&tn-str=k%2AF)](assets/89b57b2dcc87/1*1LKRn2BLCFWG0dihW0y2Tg.jpeg)
+![Photo: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?__xts__%5B0%5D=68.ARBhLyaRhczyl9mwIQPSzMjUCXMrWtkdOHIdA_G_lJNb5FvrDRhSTKY4LjlKwICFPXKjppVV9j469C_9k42EiOy9TqqUe48aDKWfqcOQrGr4oHJuO9qAd-kjQfpiOGdcNlW44AhI-v2HUxsBkmPnUVBjzikYwNuzPX5BbHBwYONvuVjGXlPhabjRm3QvRHmDRXny8-FAlE24fA-2lTfgMMxha2H4Lui_RmwzlVqL9G47ewwc86BxQRXqRw-ndqWFNn92duQM37wehNt4TCLv-x3YVq8m3clj4uzwqc0324wVctL4iTVRbyDphDcPoehLmLgL3ylRNi6Nx6Vje5HNF7kgNWGuYWwp13eCKdx4h-WAePAEjnuTqSCS&__tn__=k%2AF&tn-str=k%2AF)](../assets/89b57b2dcc87/1*1LKRn2BLCFWG0dihW0y2Tg.jpeg)
 
 Photo: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?__xts__%5B0%5D=68.ARBhLyaRhczyl9mwIQPSzMjUCXMrWtkdOHIdA_G_lJNb5FvrDRhSTKY4LjlKwICFPXKjppVV9j469C_9k42EiOy9TqqUe48aDKWfqcOQrGr4oHJuO9qAd-kjQfpiOGdcNlW44AhI-v2HUxsBkmPnUVBjzikYwNuzPX5BbHBwYONvuVjGXlPhabjRm3QvRHmDRXny8-FAlE24fA-2lTfgMMxha2H4Lui_RmwzlVqL9G47ewwc86BxQRXqRw-ndqWFNn92duQM37wehNt4TCLv-x3YVq8m3clj4uzwqc0324wVctL4iTVRbyDphDcPoehLmLgL3ylRNi6Nx6Vje5HNF7kgNWGuYWwp13eCKdx4h-WAePAEjnuTqSCS&__tn__=k%2AF&tn-str=k%2AF)
 
@@ -186,7 +186,7 @@ Find the whole text at the site of [Σωματείο Βάσης Εργαζομέ
 ### The game and the violence continue
 
 
-![](assets/89b57b2dcc87/1*BVDVQlc63xSFMNFOB3FALQ.jpeg)
+![](../assets/89b57b2dcc87/1*BVDVQlc63xSFMNFOB3FALQ.jpeg)
 
 
 No Name Kitchen volunteers have been supporting the people staying at the border town squat in Šid, providing food and basic amenities to those stuck in the limbo of the route\. They claim that on a daily base they meet many young people who come back in the morning, tired, some without their belongings, and tell the volunteers about attempts to stay within the EU but that this doesn’t work even if some have in fact requested asylum, they write\.
@@ -215,7 +215,7 @@ The largest number of asylum seekers originated from Syria, Pakistan and Algeria
 The Council of Europe has [reported](https://reliefweb.int/report/bosnia-and-herzegovina/rapporteur-ending-balkan-visit-expresses-concern-reception-centre?fbclid=IwAR0Bz9o3blEW6rLJsHv6BbE_WpNzb3PpAPO1M8G3NtCktxD2yNml6PxrKPs) that PACE rapporteur Tineke Strik, upon ending a two\-day visit to the Balkans, has expressed extreme concern about the conditions at two reception centres for asylum\-seekers which she visited in Bosnia and Herzegovina — and has questioned Croatian denials that “pushbacks” onto Bosnian territory are taking place, as have so many more and less official entities by now\. While stating that basic humanitarian conditions have not been ensured for the many hundreds of migrants stranded at centres at Velika Kladuša and Bihać, she announced more details will be available in her final report and this will be further debated at the Assembly’s June session\.
 
 
-![A group of 31 person was met at the check point in Velčevo\. — Photo: [Crveni Križ Općine Ključ](https://www.facebook.com/profile.php?id=100009318317491&__tn__=%2Cd%2AF%2AF-R&eid=ARAv6vhm38Xo-9uAyImku7zteK0U7n6sTc-WSD3Z4qyo_cWIUajNluX556z6pFbo49bumiJSOiiH-U3I&tn-str=%2AF&hc_location=group_dialog)](assets/89b57b2dcc87/1*sHBkz2t0PxUlmu3Ye83rkw.jpeg)
+![A group of 31 person was met at the check point in Velčevo\. — Photo: [Crveni Križ Općine Ključ](https://www.facebook.com/profile.php?id=100009318317491&__tn__=%2Cd%2AF%2AF-R&eid=ARAv6vhm38Xo-9uAyImku7zteK0U7n6sTc-WSD3Z4qyo_cWIUajNluX556z6pFbo49bumiJSOiiH-U3I&tn-str=%2AF&hc_location=group_dialog)](../assets/89b57b2dcc87/1*sHBkz2t0PxUlmu3Ye83rkw.jpeg)
 
 A group of 31 person was met at the check point in Velčevo\. — Photo: [Crveni Križ Općine Ključ](https://www.facebook.com/profile.php?id=100009318317491&__tn__=%2Cd%2AF%2AF-R&eid=ARAv6vhm38Xo-9uAyImku7zteK0U7n6sTc-WSD3Z4qyo_cWIUajNluX556z6pFbo49bumiJSOiiH-U3I&tn-str=%2AF&hc_location=group_dialog)
 #### CROATIA
@@ -228,7 +228,7 @@ Although some of the activists and NGOs have had the idea of collaborating with 
 On Sunday 31 March, around 150 people came together in peaceful protest, to get the message across that another way is possible, there are viable solutions that would be far less damaging than the current system\.
 
 
-![](assets/89b57b2dcc87/1*_OmK3DgWDTIe6aQrWerWdQ.jpeg)
+![](../assets/89b57b2dcc87/1*_OmK3DgWDTIe6aQrWerWdQ.jpeg)
 
 
 
@@ -250,11 +250,11 @@ On Sunday 31 March, around 150 people came together in peaceful protest, to get 
 
 
 
-![](assets/89b57b2dcc87/1*mQ6CQogM1pslhyuJWEHNAA.jpeg)
+![](../assets/89b57b2dcc87/1*mQ6CQogM1pslhyuJWEHNAA.jpeg)
 
 
 
-![Photos: Refugee Info Bus](assets/89b57b2dcc87/1*fSN6U4ZtsbRr3tE8O07jDQ.jpeg)
+![Photos: Refugee Info Bus](../assets/89b57b2dcc87/1*fSN6U4ZtsbRr3tE8O07jDQ.jpeg)
 
 Photos: Refugee Info Bus
 

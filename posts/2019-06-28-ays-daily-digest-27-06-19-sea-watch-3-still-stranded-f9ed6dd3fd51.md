@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 27.06.19: Sea-Watch 3 Still Stranded
+title: "AYS Daily Digest 27.06.19: Sea-Watch 3 Still Stranded"
 author: Are You Syrious?
 date: 2019-06-28T05:39:01.720+0100
 last_modified_at: 2019-06-28T14:38:44.057+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,sea-watch,sea-rescue,eu,digest]
 description: Strikes in Idlib / Three drown en route to the Canary Islands / Open Arms ship resumes mission / New arrivals in Greece / Fire in Lavrio…
 image:
-  path: assets/f9ed6dd3fd51/1*qtwzBw-auzC5w50a_6xW8Q.jpeg
+  path: ../assets/f9ed6dd3fd51/1*qtwzBw-auzC5w50a_6xW8Q.jpeg
 ---
 
 ### AYS Daily Digest 27\.06\.19: Sea\-Watch 3 Still Stranded
@@ -15,7 +15,7 @@ image:
 _Strikes in Idlib / Three drown en route to the Canary Islands / Open Arms ship resumes mission / New arrivals in Greece / Fire in Lavrio camp / Demonstrations across Italy / Police harassment in Ventimiglia / and more…_
 
 
-![Photo Credit: [Sea\-Watch](https://www.facebook.com/seawatchprojekt/photos/a.1579563625595046/2275597085991693/?type=3&theater)](assets/f9ed6dd3fd51/1*qtwzBw-auzC5w50a_6xW8Q.jpeg)
+![Photo Credit: [Sea\-Watch](https://www.facebook.com/seawatchprojekt/photos/a.1579563625595046/2275597085991693/?type=3&theater)](../assets/f9ed6dd3fd51/1*qtwzBw-auzC5w50a_6xW8Q.jpeg)
 
 Photo Credit: [Sea\-Watch](https://www.facebook.com/seawatchprojekt/photos/a.1579563625595046/2275597085991693/?type=3&theater)
 
@@ -31,7 +31,7 @@ The Sea\-Watch 3 is entering its 16th day of waiting to disembark the 42 people 
 Today a man and his brother were evacuated from the ship due to urgent medical needs\. “We cannot wait for every single person to become a medical emergency until Europe recognizes they have basic rights,” said captain Carola Rackete\.
 
 
-![A man being evacuated from the Sea\-Watch, 27/06\. Photo Credit: Till Egen / [Sea\-Watch](https://www.facebook.com/seawatchprojekt/photos/a.1579563625595046/2285204505030951/?type=3&theater)](assets/f9ed6dd3fd51/1*Lz_Yink_h8dVe0aCRmN0wA.jpeg)
+![A man being evacuated from the Sea\-Watch, 27/06\. Photo Credit: Till Egen / [Sea\-Watch](https://www.facebook.com/seawatchprojekt/photos/a.1579563625595046/2285204505030951/?type=3&theater)](../assets/f9ed6dd3fd51/1*Lz_Yink_h8dVe0aCRmN0wA.jpeg)
 
 A man being evacuated from the Sea\-Watch, 27/06\. Photo Credit: Till Egen / [Sea\-Watch](https://www.facebook.com/seawatchprojekt/photos/a.1579563625595046/2285204505030951/?type=3&theater)
 
@@ -62,7 +62,7 @@ The Syria Campaign released some statistics on how many civilians were killed ye
 
 
 
-![](assets/f9ed6dd3fd51/1*dmsCI5fYS3fKkmD7FEqH0Q.png)
+![](../assets/f9ed6dd3fd51/1*dmsCI5fYS3fKkmD7FEqH0Q.png)
 
 #### Morocco
 
@@ -107,7 +107,7 @@ Another boat landed on Simi north 10\.00
 
 
 
-![Photo Credit: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/a.312076942523930/745343202530633/?type=3&__xts__[0]=68.ARApykju-eJnUGkzr5lrkfT___9yQhbk7p7g4_jdtKiVdSBtKBeGIsXyQRZ0_Udfxl3IBd1703gS8KS5U_jtzM5PLegvdigyvxHauHrnPozYdwiyT2ExkTH029T4S9rY16V2ga3_3iOsXdbHZ9QSRt3YuEoOK_Nb6BokZwrtNRG0F0fnKOj-OXLPRnMb8sjM6Em0pl_bbAUE4dySYZxeMVeYgR0qhTpdhKwAne2fdpJzImOSu-zs3EA9GTfbjFTugI7U3HPEptBx4gLhLz0_azx1_NQUqHFV3rGAXts9fn07SI2FDlV6sAoAZ9WhSGHrVh44H3wJ6wcQOKvxWc_udKQ&__tn__=-R)](assets/f9ed6dd3fd51/1*_YLsMn6AtrZv7zGj51UeLA.jpeg)
+![Photo Credit: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/a.312076942523930/745343202530633/?type=3&__xts__[0]=68.ARApykju-eJnUGkzr5lrkfT___9yQhbk7p7g4_jdtKiVdSBtKBeGIsXyQRZ0_Udfxl3IBd1703gS8KS5U_jtzM5PLegvdigyvxHauHrnPozYdwiyT2ExkTH029T4S9rY16V2ga3_3iOsXdbHZ9QSRt3YuEoOK_Nb6BokZwrtNRG0F0fnKOj-OXLPRnMb8sjM6Em0pl_bbAUE4dySYZxeMVeYgR0qhTpdhKwAne2fdpJzImOSu-zs3EA9GTfbjFTugI7U3HPEptBx4gLhLz0_azx1_NQUqHFV3rGAXts9fn07SI2FDlV6sAoAZ9WhSGHrVh44H3wJ6wcQOKvxWc_udKQ&__tn__=-R)](../assets/f9ed6dd3fd51/1*_YLsMn6AtrZv7zGj51UeLA.jpeg)
 
 Photo Credit: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/a.312076942523930/745343202530633/?type=3&__xts__[0]=68.ARApykju-eJnUGkzr5lrkfT___9yQhbk7p7g4_jdtKiVdSBtKBeGIsXyQRZ0_Udfxl3IBd1703gS8KS5U_jtzM5PLegvdigyvxHauHrnPozYdwiyT2ExkTH029T4S9rY16V2ga3_3iOsXdbHZ9QSRt3YuEoOK_Nb6BokZwrtNRG0F0fnKOj-OXLPRnMb8sjM6Em0pl_bbAUE4dySYZxeMVeYgR0qhTpdhKwAne2fdpJzImOSu-zs3EA9GTfbjFTugI7U3HPEptBx4gLhLz0_azx1_NQUqHFV3rGAXts9fn07SI2FDlV6sAoAZ9WhSGHrVh44H3wJ6wcQOKvxWc_udKQ&__tn__=-R)
 #### Fire in Lavrio camp
@@ -141,7 +141,7 @@ Volunteers with the Norwegian group [A Drop in the Ocean](https://www.drapenihav
 #### Demonstrations of Solidarity with the Sea Watch
 
 
-![“Stop the war against migrants\.” Photo Credit: [Global Project\.info](https://www.facebook.com/globalproject.info/?__tn__=%2CdkCH-R-R&eid=ARC67P32x77aRT85HJ0CITuhnu4Ne1aOMzQpiPmwz03okUlnq1Zn3ajUm5nmmgdWRaSL4Kt5RTcG5eZD&hc_ref=ARSvhsdcRdm0a8xjsizovnLKlxAYbhpLTTDXCNiJHkOn0vpL5o6FmPxVHCte05cVWaI&fref=nf&hc_location=group)](assets/f9ed6dd3fd51/1*WZsdzTSywEanbohAVvRiCg.jpeg)
+![“Stop the war against migrants\.” Photo Credit: [Global Project\.info](https://www.facebook.com/globalproject.info/?__tn__=%2CdkCH-R-R&eid=ARC67P32x77aRT85HJ0CITuhnu4Ne1aOMzQpiPmwz03okUlnq1Zn3ajUm5nmmgdWRaSL4Kt5RTcG5eZD&hc_ref=ARSvhsdcRdm0a8xjsizovnLKlxAYbhpLTTDXCNiJHkOn0vpL5o6FmPxVHCte05cVWaI&fref=nf&hc_location=group)](../assets/f9ed6dd3fd51/1*WZsdzTSywEanbohAVvRiCg.jpeg)
 
 “Stop the war against migrants\.” Photo Credit: [Global Project\.info](https://www.facebook.com/globalproject.info/?__tn__=%2CdkCH-R-R&eid=ARC67P32x77aRT85HJ0CITuhnu4Ne1aOMzQpiPmwz03okUlnq1Zn3ajUm5nmmgdWRaSL4Kt5RTcG5eZD&hc_ref=ARSvhsdcRdm0a8xjsizovnLKlxAYbhpLTTDXCNiJHkOn0vpL5o6FmPxVHCte05cVWaI&fref=nf&hc_location=group)
 

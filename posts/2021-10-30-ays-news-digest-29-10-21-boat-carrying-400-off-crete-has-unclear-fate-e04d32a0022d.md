@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 29/10/21: Boat Carrying 400 Off Crete Has ‘Unclear Fate’
+title: "AYS News Digest 29/10/21: Boat Carrying 400 Off Crete Has ‘Unclear Fate’"
 author: Are You Syrious?
 date: 2021-10-30T19:25:43.581+0100
 last_modified_at: 2021-10-30T20:35:42.476+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,migration,pushback,greece]
 description: Violent attacks against PoM in Greece // Mitarachi responds to Chios deaths // Germany halts far-right vigilante patrols along Polish…
 image:
-  path: assets/e04d32a0022d/1*blVsrwz7SAgLJH4yiwa0Wg.jpeg
+  path: ../assets/e04d32a0022d/1*blVsrwz7SAgLJH4yiwa0Wg.jpeg
 ---
 
 ### AYS News Digest 29/10/21: Boat Carrying 400 Off Crete Has ‘Unclear Fate’
@@ -15,7 +15,7 @@ image:
 ### FEATURE — What has happened to the 400 people?
 
 
-![\(Photo credit: Hellenic Coast Guard\)](assets/e04d32a0022d/1*blVsrwz7SAgLJH4yiwa0Wg.jpeg)
+![\(Photo credit: Hellenic Coast Guard\)](../assets/e04d32a0022d/1*blVsrwz7SAgLJH4yiwa0Wg.jpeg)
 
 \(Photo credit: Hellenic Coast Guard\)
 
@@ -53,7 +53,7 @@ The war in Syria continues to rage and “this is not a time for anyone to be th
 #### SOS Mediterranee comms officer shares memory
 
 
-![Photo Credit: SOS](assets/e04d32a0022d/1*WG_2gosrbfrPzwKl9Uhtnw.jpeg)
+![Photo Credit: SOS](../assets/e04d32a0022d/1*WG_2gosrbfrPzwKl9Uhtnw.jpeg)
 
 Photo Credit: SOS
 ### \[Eyes of the photographer\] “Observing him express himself on this chalkboard was beautiful\. Seeing him drawing a house was something else\.”
@@ -169,7 +169,7 @@ Quick reflection after my visit to  borders with Belarus earlier this week. ⤵ 
 #### New report from the border by Les Observateurs:
 
 
-[![OBSERVERS DIRECT - Belarus-Poland border: Migrants trapped in the forest * The Observers](assets/e04d32a0022d/ea7d_hqdefault.jpg "OBSERVERS DIRECT - Belarus-Poland border: Migrants trapped in the forest * The Observers")](https://www.youtube.com/watch?v=8LTJUMDwsd4)
+[![OBSERVERS DIRECT - Belarus-Poland border: Migrants trapped in the forest * The Observers](../assets/e04d32a0022d/ea7d_hqdefault.jpg "OBSERVERS DIRECT - Belarus-Poland border: Migrants trapped in the forest * The Observers")](https://www.youtube.com/watch?v=8LTJUMDwsd4)
 
 #### Story of one Syrian who survived the Polish border
 

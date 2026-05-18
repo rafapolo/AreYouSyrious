@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 18/10/22: Ninety-two men found stripped naked on the Evros border
+title: "AYS News Digest 18/10/22: Ninety-two men found stripped naked on the Evros border"
 author: Are You Syrious?
 date: 2022-10-18T21:36:56.184+0100
 last_modified_at: 2022-10-18T23:07:13.858+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,greece,turkey,europe,denmark]
 description: SAR failures off Morocco result in the deaths of more than 20 people // The so-called voluntary return of Syrian refugees to begin from…
 image:
-  path: assets/68537dea2b69/0*9g65hox6jkCYqQBI
+  path: ../assets/68537dea2b69/0*9g65hox6jkCYqQBI
 ---
 
 ### AYS News Digest 18/10/22: Ninety\-two men found stripped naked on the Evros border
@@ -16,7 +16,7 @@ image:
 #### **92 men, some visibly injured, were found completely naked by Greek police at the Turkish border in the Evros region\.**
 
 
-![_Greek police patrol alongside a steel wall at Evros river, near the village of Poros\. Credit: AP //_ [https://www\.itv\.com/news/2022\-10\-17/greece\-and\-turkey\-trade\-blame\-after\-92\-migrants\-found\-naked\-at\-shared\-border](https://www.itv.com/news/2022-10-17/greece-and-turkey-trade-blame-after-92-migrants-found-naked-at-shared-border)](assets/68537dea2b69/0*9g65hox6jkCYqQBI)
+![_Greek police patrol alongside a steel wall at Evros river, near the village of Poros\. Credit: AP //_ [https://www\.itv\.com/news/2022\-10\-17/greece\-and\-turkey\-trade\-blame\-after\-92\-migrants\-found\-naked\-at\-shared\-border](https://www.itv.com/news/2022-10-17/greece-and-turkey-trade-blame-after-92-migrants-found-naked-at-shared-border)](../assets/68537dea2b69/0*9g65hox6jkCYqQBI)
 
 _Greek police patrol alongside a steel wall at Evros river, near the village of Poros\. Credit: AP //_ [https://www\.itv\.com/news/2022\-10\-17/greece\-and\-turkey\-trade\-blame\-after\-92\-migrants\-found\-naked\-at\-shared\-border](https://www.itv.com/news/2022-10-17/greece-and-turkey-trade-blame-after-92-migrants-found-naked-at-shared-border)
 
@@ -92,7 +92,7 @@ Salvamento confirmed they had been informed about this boat the day before and t
 #### The so\-called voluntary return of Syrian refugees to begin next week
 
 
-![[https://www\.amnesty\.org/en/latest/news/2022/10/lebanon\-stop\-the\-so\-called\-voluntary\-returns\-of\-syrian\-refugees/?fbclid=IwAR2HJAL8Xd89wpqRgO17vYxotXubpvuL7TA7C7dSMzSvh7xiXpFHegR\_dQU](https://www.amnesty.org/en/latest/news/2022/10/lebanon-stop-the-so-called-voluntary-returns-of-syrian-refugees/?fbclid=IwAR2HJAL8Xd89wpqRgO17vYxotXubpvuL7TA7C7dSMzSvh7xiXpFHegR_dQU)](assets/68537dea2b69/0*f8IwMD_tz1BZaAoV.jpg)
+![[https://www\.amnesty\.org/en/latest/news/2022/10/lebanon\-stop\-the\-so\-called\-voluntary\-returns\-of\-syrian\-refugees/?fbclid=IwAR2HJAL8Xd89wpqRgO17vYxotXubpvuL7TA7C7dSMzSvh7xiXpFHegR\_dQU](https://www.amnesty.org/en/latest/news/2022/10/lebanon-stop-the-so-called-voluntary-returns-of-syrian-refugees/?fbclid=IwAR2HJAL8Xd89wpqRgO17vYxotXubpvuL7TA7C7dSMzSvh7xiXpFHegR_dQU)](../assets/68537dea2b69/0*f8IwMD_tz1BZaAoV.jpg)
 
 [https://www\.amnesty\.org/en/latest/news/2022/10/lebanon\-stop\-the\-so\-called\-voluntary\-returns\-of\-syrian\-refugees/?fbclid=IwAR2HJAL8Xd89wpqRgO17vYxotXubpvuL7TA7C7dSMzSvh7xiXpFHegR\_dQU](https://www.amnesty.org/en/latest/news/2022/10/lebanon-stop-the-so-called-voluntary-returns-of-syrian-refugees/?fbclid=IwAR2HJAL8Xd89wpqRgO17vYxotXubpvuL7TA7C7dSMzSvh7xiXpFHegR_dQU)
 
@@ -116,7 +116,7 @@ A ‘voluntary’ decision borne of unfair Lebanese governmental policies does n
 #### 858 people deterred from crossing the Hungarian border
 
 
-![[https://www\.police\.hu/hu/hirek\-es\-informaciok/legfrissebb\-hireink/hatarrendeszet/orszagos\-hatarrendeszeti\-osszesito\-480?fbclid=IwAR3egMIeZT2oHFL7\- \_Azm1Hz6mFMWSTjqPe1V4yfVRJBKcGG\_PPkz0nqeGY](https://www.police.hu/hu/hirek-es-informaciok/legfrissebb-hireink/hatarrendeszet/orszagos-hatarrendeszeti-osszesito-480?fbclid=IwAR3egMIeZT2oHFL7-_Azm1Hz6mFMWSTjqPe1V4yfVRJBKcGG_PPkz0nqeGY)](assets/68537dea2b69/0*-LnKbMTAPwH3qM4V)
+![[https://www\.police\.hu/hu/hirek\-es\-informaciok/legfrissebb\-hireink/hatarrendeszet/orszagos\-hatarrendeszeti\-osszesito\-480?fbclid=IwAR3egMIeZT2oHFL7\- \_Azm1Hz6mFMWSTjqPe1V4yfVRJBKcGG\_PPkz0nqeGY](https://www.police.hu/hu/hirek-es-informaciok/legfrissebb-hireink/hatarrendeszet/orszagos-hatarrendeszeti-osszesito-480?fbclid=IwAR3egMIeZT2oHFL7-_Azm1Hz6mFMWSTjqPe1V4yfVRJBKcGG_PPkz0nqeGY)](../assets/68537dea2b69/0*-LnKbMTAPwH3qM4V)
 
 [https://www\.police\.hu/hu/hirek\-es\-informaciok/legfrissebb\-hireink/hatarrendeszet/orszagos\-hatarrendeszeti\-osszesito\-480?fbclid=IwAR3egMIeZT2oHFL7\- \_Azm1Hz6mFMWSTjqPe1V4yfVRJBKcGG\_PPkz0nqeGY](https://www.police.hu/hu/hirek-es-informaciok/legfrissebb-hireink/hatarrendeszet/orszagos-hatarrendeszeti-osszesito-480?fbclid=IwAR3egMIeZT2oHFL7-_Azm1Hz6mFMWSTjqPe1V4yfVRJBKcGG_PPkz0nqeGY)
 
@@ -129,7 +129,7 @@ The Hungarian police have [boasted](https://www.police.hu/hu/hirek-es-informacio
 #### Jailed human rights defender wins Nobel Peace Prize
 
 
-![[https://www\.article19\.org/resources/nobel\-peace\-prize\-human\-rights\-defenders/?fbclid=IwAR1cIoYQMJApetgoTM8FWXU1ld3q3KeQuj6vW6nqIHbUBF7atC09ObxsM\_E](https://www.article19.org/resources/nobel-peace-prize-human-rights-defenders/?fbclid=IwAR1cIoYQMJApetgoTM8FWXU1ld3q3KeQuj6vW6nqIHbUBF7atC09ObxsM_E)](assets/68537dea2b69/0*u5UNdxarNYRNq3j1.png)
+![[https://www\.article19\.org/resources/nobel\-peace\-prize\-human\-rights\-defenders/?fbclid=IwAR1cIoYQMJApetgoTM8FWXU1ld3q3KeQuj6vW6nqIHbUBF7atC09ObxsM\_E](https://www.article19.org/resources/nobel-peace-prize-human-rights-defenders/?fbclid=IwAR1cIoYQMJApetgoTM8FWXU1ld3q3KeQuj6vW6nqIHbUBF7atC09ObxsM_E)](../assets/68537dea2b69/0*u5UNdxarNYRNq3j1.png)
 
 [https://www\.article19\.org/resources/nobel\-peace\-prize\-human\-rights\-defenders/?fbclid=IwAR1cIoYQMJApetgoTM8FWXU1ld3q3KeQuj6vW6nqIHbUBF7atC09ObxsM\_E](https://www.article19.org/resources/nobel-peace-prize-human-rights-defenders/?fbclid=IwAR1cIoYQMJApetgoTM8FWXU1ld3q3KeQuj6vW6nqIHbUBF7atC09ObxsM_E)
 
@@ -140,7 +140,7 @@ The Nobel Peace Prize has been awarded to human rights defenders in Belarus, Rus
 On October 15th, thousands of people protested on Italian streets and in front of the country’s European Embassies and Consulates, shouting ‘STOP MEMORANDUM ITALY\-LIBYA\.’
 
 
-![[https://mediterranearescue\.org/news/stop\-memorandum\-italia\-libia\-il\-racconto\-della\-giornata\-dalle\-piazze\-ditalia\-e\-deuropa/](https://mediterranearescue.org/news/stop-memorandum-italia-libia-il-racconto-della-giornata-dalle-piazze-ditalia-e-deuropa/)](assets/68537dea2b69/0*GO1_m98_TMNXqjT1.jpg)
+![[https://mediterranearescue\.org/news/stop\-memorandum\-italia\-libia\-il\-racconto\-della\-giornata\-dalle\-piazze\-ditalia\-e\-deuropa/](https://mediterranearescue.org/news/stop-memorandum-italia-libia-il-racconto-della-giornata-dalle-piazze-ditalia-e-deuropa/)](../assets/68537dea2b69/0*GO1_m98_TMNXqjT1.jpg)
 
 [https://mediterranearescue\.org/news/stop\-memorandum\-italia\-libia\-il\-racconto\-della\-giornata\-dalle\-piazze\-ditalia\-e\-deuropa/](https://mediterranearescue.org/news/stop-memorandum-italia-libia-il-racconto-della-giornata-dalle-piazze-ditalia-e-deuropa/)
 

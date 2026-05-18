@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 30/5/17: Sweden to deport more people to Afghanistan
+title: "AYS Daily Digest 30/5/17: Sweden to deport more people to Afghanistan"
 author: Are You Syrious?
 date: 2017-05-31T08:21:23.167+0100
 last_modified_at: 2017-05-31T10:45:22.365+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,sweden,deportations,afghanistan,chaos]
 description: Sweden to deport children to war-torn Afghanistan // Protest against deportations from Sweden to Afghanistan // The EU remembers solidarity…
 image:
-  path: assets/d3abc84ace63/1*bgZ7F3sv_YN5HUvM20yeLg.jpeg
+  path: ../assets/d3abc84ace63/1*bgZ7F3sv_YN5HUvM20yeLg.jpeg
 ---
 
 #### AYS Daily Digest 30/5/17: Sweden to deport more people to Afghanistan
@@ -15,7 +15,7 @@ image:
 _Sweden to deport children to war\-torn Afghanistan // Protest against deportations from Sweden to Afghanistan // The EU remembers solidarity // Conditions on Chios continues to deteriorate // Sid camp closed in Serbia // Deportation of 16 Afghans from Sweden tonight // And more news…_
 
 
-![Photo by Photograph by Delil Souleiman](assets/d3abc84ace63/1*bgZ7F3sv_YN5HUvM20yeLg.jpeg)
+![Photo by Photograph by Delil Souleiman](../assets/d3abc84ace63/1*bgZ7F3sv_YN5HUvM20yeLg.jpeg)
 
 Photo by Photograph by Delil Souleiman
 ### Feature
@@ -30,7 +30,7 @@ Legal guardians and those who are close to the boys who will be deported, say th
 Vi står inte ut [has released a press release where they demand instant actions against this, and they demand political changes\.](https://www.mynewsdesk.com/se/number-vistaarinteut/pressreleases/aaldersuppskrivna-och-unga-konvertiter-deporteras-till-kabul-idag-1992112) Further they have established the hashtag \#skickamejistället which means \#sendmeinstead\.
 
 
-![Photo: [Vi står inte ut](https://www.facebook.com/vistarinteut/)](assets/d3abc84ace63/1*O-53R0cKaobzxcoqMP4uRw.jpeg)
+![Photo: [Vi står inte ut](https://www.facebook.com/vistarinteut/)](../assets/d3abc84ace63/1*O-53R0cKaobzxcoqMP4uRw.jpeg)
 
 Photo: [Vi står inte ut](https://www.facebook.com/vistarinteut/)
 
@@ -80,7 +80,7 @@ There are more worries from the islands, both regarding education and the withdr
 A drop in the Ocean are also present on Chios, and shares the dreadful information that one in three refugees on the island have witnessed a death during their time here\. [They need donations to continue helping](https://www.drapenihavet.no/en/support/) \. When all of the big NGO’s leaving in the upcoming months, the small ones will try and stay\. They all need donations\.
 
 
-![Photo: Niels Franke, [Be Aware and Share](https://www.facebook.com/groups/1159112204116287/permalink/1718149678212534/?hc_location=ufi) \.](assets/d3abc84ace63/1*ciBKrUindra2HIXf0Sa4PA.jpeg)
+![Photo: Niels Franke, [Be Aware and Share](https://www.facebook.com/groups/1159112204116287/permalink/1718149678212534/?hc_location=ufi) \.](../assets/d3abc84ace63/1*ciBKrUindra2HIXf0Sa4PA.jpeg)
 
 Photo: Niels Franke, [Be Aware and Share](https://www.facebook.com/groups/1159112204116287/permalink/1718149678212534/?hc_location=ufi) \.
 
@@ -89,7 +89,7 @@ Photo: Niels Franke, [Be Aware and Share](https://www.facebook.com/groups/115911
 [A boat with 54 people](https://www.facebook.com/philippa.kempson.1/posts/10154913935999355?hc_location=ufi) arrived this morning, among them there was five children\.
 
 
-![Photo: Philippa Kempson](assets/d3abc84ace63/1*Fwtbgv6KwMo9g80Ex5qY3Q.jpeg)
+![Photo: Philippa Kempson](../assets/d3abc84ace63/1*Fwtbgv6KwMo9g80Ex5qY3Q.jpeg)
 
 Photo: Philippa Kempson
 #### Samos
@@ -115,7 +115,7 @@ The International Desk organises orientation consulting for the potential studen
 [Refugee Youth Service](https://www.facebook.com/refugeeyouthservice/?fref=mentions) are looking for new volunteers that can help them to run their education and activities\. They are located in Calais and has daily activities for 10–18 year olds\. Their working hours are 11\.30 am to 7 pm Monday\-Saturday\. Get in touch at [ryseducation@gmail\.com](mailto:ryseducation@gmail.com) and they will get back to you soon\.
 
 
-![Photo: Refugee Youth Service](assets/d3abc84ace63/1*lx9iEkWLpMGihI_yzdNb9w.jpeg)
+![Photo: Refugee Youth Service](../assets/d3abc84ace63/1*lx9iEkWLpMGihI_yzdNb9w.jpeg)
 
 Photo: Refugee Youth Service
 ### **Serbia**

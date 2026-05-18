@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest: 26/08/2020: Suicide attempts in infamous removal centre in UK
+title: "AYS Daily Digest: 26/08/2020: Suicide attempts in infamous removal centre in UK"
 author: Are You Syrious?
 date: 2020-08-27T12:47:12.155+0100
 last_modified_at: 2020-08-27T13:33:52.995+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,europe,digest,greece,mediterranean]
 description: Hunger strike in PRO.KE.K.A pre-removal detention centre // refugee-led organizations in Moria need support // SeaWatch 4 rescued more…
 image:
-  path: assets/b9b4bb91ca46/1*VzU7XdQ5dTC3XGrS8GA3Iw.jpeg
+  path: ../assets/b9b4bb91ca46/1*VzU7XdQ5dTC3XGrS8GA3Iw.jpeg
 ---
 
 ### AYS Daily Digest: 26/08/2020: Suicide attempts in infamous removal centre in UK
 #### Hunger strike in PRO\.KE\.K\.A pre\-removal detention centre // refugee\-led organizations in Moria need support // SeaWatch 4 rescued more than 200 people // 27 people stuck on Etienne merchant vessel for more than three weeks now
 
 
-![Child in Trieste, at the end of the Balkan route\. Copyright: Lorena Fornasir](assets/b9b4bb91ca46/1*VzU7XdQ5dTC3XGrS8GA3Iw.jpeg)
+![Child in Trieste, at the end of the Balkan route\. Copyright: Lorena Fornasir](../assets/b9b4bb91ca46/1*VzU7XdQ5dTC3XGrS8GA3Iw.jpeg)
 
 Child in Trieste, at the end of the Balkan route\. Copyright: Lorena Fornasir
 ### FEATURE: Despair in infamous Removal Centre in UK
@@ -183,7 +183,7 @@ For more information, see:
 The NGO Seebrücke is organizing a new campaign in order to make the commune’s wish to take in more refugees from the Greek islands visible\. On 5–7 September, people will be called upon to place empty chairs in front of town halls\.
 
 
-![](assets/b9b4bb91ca46/1*eGbW91opDAvL6scVhNkylQ.jpeg)
+![](../assets/b9b4bb91ca46/1*eGbW91opDAvL6scVhNkylQ.jpeg)
 
 
 

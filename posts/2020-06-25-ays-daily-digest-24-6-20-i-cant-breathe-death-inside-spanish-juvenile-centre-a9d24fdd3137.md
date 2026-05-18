@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 24/6/20: I can’t breathe: Death inside Spanish juvenile centre
+title: "AYS Daily Digest 24/6/20: I can’t breathe: Death inside Spanish juvenile centre"
 author: Are You Syrious?
 date: 2020-06-25T11:50:40.087+0100
 last_modified_at: 2020-06-25T13:17:17.465+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,migrants,refugees,europe,asylum]
 description: Coronavirus tests on refugees rescued at sea // Asylum policy updates from the EU // Protests held in Germany // EU’s silent on illegal…
 image:
-  path: assets/a9d24fdd3137/1*K9O0Oo5cVMT__dxwQYeabQ.jpeg
+  path: ../assets/a9d24fdd3137/1*K9O0Oo5cVMT__dxwQYeabQ.jpeg
 ---
 
 ### AYS Daily Digest 24/6/20: I can’t breathe: Death inside Spanish juvenile centre
@@ -15,7 +15,7 @@ image:
 Coronavirus tests on refugees rescued at sea // Asylum policy updates from the EU // Protests held in Germany // EU silent on illegal pushbacks and human rights abuses\.
 
 
-![[https://www\.change\.org/p/juzgado\-%C3%BAnico\-de\-purchena\-justicia\-para\-iliass?recruiter=44998878&utm\_campaign=signature\_receipt&utm\_medium=twitter&utm\_source=share\_petition](https://www.change.org/p/juzgado-%C3%BAnico-de-purchena-justicia-para-iliass?recruiter=44998878&utm_campaign=signature_receipt&utm_medium=twitter&utm_source=share_petition)](assets/a9d24fdd3137/1*K9O0Oo5cVMT__dxwQYeabQ.jpeg)
+![[https://www\.change\.org/p/juzgado\-%C3%BAnico\-de\-purchena\-justicia\-para\-iliass?recruiter=44998878&utm\_campaign=signature\_receipt&utm\_medium=twitter&utm\_source=share\_petition](https://www.change.org/p/juzgado-%C3%BAnico-de-purchena-justicia-para-iliass?recruiter=44998878&utm_campaign=signature_receipt&utm_medium=twitter&utm_source=share_petition)](../assets/a9d24fdd3137/1*K9O0Oo5cVMT__dxwQYeabQ.jpeg)
 
 [https://www\.change\.org/p/juzgado\-%C3%BAnico\-de\-purchena\-justicia\-para\-iliass?recruiter=44998878&utm\_campaign=signature\_receipt&utm\_medium=twitter&utm\_source=share\_petition](https://www.change.org/p/juzgado-%C3%BAnico-de-purchena-justicia-para-iliass?recruiter=44998878&utm_campaign=signature_receipt&utm_medium=twitter&utm_source=share_petition)
 ### Feature

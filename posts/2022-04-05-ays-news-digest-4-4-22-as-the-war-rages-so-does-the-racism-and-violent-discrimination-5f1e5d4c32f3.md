@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 4/4/22: As the war rages, so does the racism and violent discrimination
+title: "AYS News Digest 4/4/22: As the war rages, so does the racism and violent discrimination"
 author: Are You Syrious?
 date: 2022-04-05T23:18:57.276+0100
 last_modified_at: 2022-04-05T23:18:57.276+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,ukraine,human-rights,refugees,europe]
 description: News from the SAR teams across the Med / Palermo continues setting example in putting an effort / A follow up on the French attempt to…
 image:
-  path: assets/5f1e5d4c32f3/1*WscKZNjVtjgmc-2tb1TA0g.jpeg
+  path: ../assets/5f1e5d4c32f3/1*WscKZNjVtjgmc-2tb1TA0g.jpeg
 ---
 
 ### AYS News Digest 4/4/22: As the war rages, so does the racism and violent discrimination
 #### News from the SAR teams across the Med / Palermo continues setting example in putting an effort / A follow up on the French attempt to legalise the presence of the people / How is the reception going in Berlin & other news
 
 
-![VOLYN TEMPORARY STAY FOR FOREIGNERS AND STATELESS PERSONS \(in Zhuravychi\) \(© Ukraine Ombudsperson](assets/5f1e5d4c32f3/1*WscKZNjVtjgmc-2tb1TA0g.jpeg)
+![VOLYN TEMPORARY STAY FOR FOREIGNERS AND STATELESS PERSONS \(in Zhuravychi\) \(© Ukraine Ombudsperson](../assets/5f1e5d4c32f3/1*WscKZNjVtjgmc-2tb1TA0g.jpeg)
 
 VOLYN TEMPORARY STAY FOR FOREIGNERS AND STATELESS PERSONS \(in Zhuravychi\) \(© Ukraine Ombudsperson
 
@@ -118,7 +118,7 @@ The federal government should have reacted much more quickly, says Henniges\. Sh
 The group [Moabit hilft e\.V\.](https://www.facebook.com/Moabithilft?__cft__[0]=AZU2W1TqFmK0EAUr5GStos4ZcJUmc82g9mbY2gGLhNIuNe7yPAB9Y3uEVpEqV3d9lCD7CyJv1E6SjQhNWqsZZbI2D2jv6W8mfZyEJLDiP0d5NRFZDAjfRltL0gjwwfFCHTNrg3EMEWUJAbYx5lP7KViT&__tn__=-]C%2CP-R) needs donations to keep up with the demanding tasks they are undertaking to support the people arriving:
 
 
-![](assets/5f1e5d4c32f3/0*5Rutiehk2Fxnblno)
+![](../assets/5f1e5d4c32f3/0*5Rutiehk2Fxnblno)
 
 
 In the meantime, Fluchtlingsrat Berlin [reports](https://www.facebook.com/fluechtlingsratberlin/posts/4916189005102542) about a forced distribution of a group of 180 deaf people from Ukraine, who arrived in Berlin four weeks ago\. “The group is forced to be dependent on each other because of their common Ukrainian sign language\. To crush them and expel them from Berlin under threat of homelessness, because there is no room for such partisan interests here, that is the lowest level\.”

@@ -1,20 +1,20 @@
 ---
-title: AYS Weekend Digest 29–30/5/21: Protesting the new camp on Samos
+title: "AYS Weekend Digest 29–30/5/21: Protesting the new camp on Samos"
 author: Are You Syrious?
 date: 2021-05-31T19:06:20.054+0100
 last_modified_at: 2021-05-31T19:06:20.054+0100
 categories: Are You Syrious?
 tags: [digest,greece,refugees,europe,report]
-description: OHCHR report on Search and Rescue // AIDA Report on Croatia // In Greece: no vaccines for the most vulnerable // UK: Disquieting insight…
+description: "OHCHR report on Search and Rescue // AIDA Report on Croatia // In Greece: no vaccines for the most vulnerable // UK: Disquieting insight…"
 image:
-  path: assets/972162e287bb/0*BTdi36Fo3ui2QQME
+  path: ../assets/972162e287bb/0*BTdi36Fo3ui2QQME
 ---
 
 ### AYS Weekend Digest 29–30/5/21: Protesting the new camp on Samos
 #### OHCHR report on Search and Rescue // AIDA Report on Croatia // In Greece: no vaccines for the most vulnerable // UK: Disquieting insight into the story of Esparto 11 // Recommended reads and more
 
 
-![](assets/972162e287bb/0*BTdi36Fo3ui2QQME)
+![](../assets/972162e287bb/0*BTdi36Fo3ui2QQME)
 
 
 “ ‘Set us free’ being chanted on the peace March on Samos today protesting against the new camp\.” — by: [Gemma Bird](https://twitter.com/gemmakristina)
@@ -49,11 +49,11 @@ Find the entire report \(on 2020\) here:
 On Sunday 30th May, a peaceful protest was organised to demonstrate against the opening of the new refugee camp in Samos, and the EU asylum seeking process in general\.
 
 
-![](assets/972162e287bb/0*IG1UFZpW7JypxG-a)
+![](../assets/972162e287bb/0*IG1UFZpW7JypxG-a)
 
 
 
-![](assets/972162e287bb/0*fXbmOrj95w8YAg1M)
+![](../assets/972162e287bb/0*fXbmOrj95w8YAg1M)
 
 
 The Pan\-Samian Peace Committee arranged a march from the location of the new camp, all the way to Vathy — a two hour walk in total — with the intention of spreading awareness about these issues\. It was also an opportunity for the community in Vathy to voice their frustration with the proposed plans of the new camp\.
@@ -63,11 +63,11 @@ Whilst information about the new camp remains scarce, we believe the closure of 
 We want to add our support to the refugee community and the Pan\-Samian Peace Committee, advocating for a more humane asylum seeking procedure as well as the halting of new camp policy and a more meaningful alternative to detention\.
 
 
-![](assets/972162e287bb/0*glIzu_nZaBqeB6UB)
+![](../assets/972162e287bb/0*glIzu_nZaBqeB6UB)
 
 
 
-![](assets/972162e287bb/0*NPGP3vcdP3iFyzHi)
+![](../assets/972162e287bb/0*NPGP3vcdP3iFyzHi)
 
 
 Photos: [Project Armonia](https://web.facebook.com/projectarmonia/?__tn__=-UC*F)
@@ -75,7 +75,7 @@ Photos: [Project Armonia](https://web.facebook.com/projectarmonia/?__tn__=-UC*F)
 No vaccines for the most vulnerable people
 
 
-![](assets/972162e287bb/0*kwIQ2KcHKbeyZv6D)
+![](../assets/972162e287bb/0*kwIQ2KcHKbeyZv6D)
 
 
 Photo: [Dr\. Apostolos Veizis](https://twitter.com/AVeizis)
@@ -103,11 +103,11 @@ Events
 ITALY
 
 
-![](assets/972162e287bb/0*9tAVRKsedAtkM0z9)
+![](../assets/972162e287bb/0*9tAVRKsedAtkM0z9)
 
 
 
-![](assets/972162e287bb/0*N36qOD5XMiHo38qW)
+![](../assets/972162e287bb/0*N36qOD5XMiHo38qW)
 
 ### Kesha Niya team is looking for more people to join them\!
 
@@ -127,19 +127,19 @@ Lyon protests
 Over 1500 people gathered in the streets of Lyon to protest far right and police violence, after Lyon has suffered a string of recent fascist attacks, [**Antifa International**](https://twitter.com/antifaintl) **reported in a photo story:**
 
 
-![](assets/972162e287bb/0*KrWln0YnZiLRgeBz)
+![](../assets/972162e287bb/0*KrWln0YnZiLRgeBz)
 
 
 
-![](assets/972162e287bb/0*SaeB8fpS6QeXHK1R)
+![](../assets/972162e287bb/0*SaeB8fpS6QeXHK1R)
 
 
 
-![](assets/972162e287bb/0*twZ29ilr6EysNn7k)
+![](../assets/972162e287bb/0*twZ29ilr6EysNn7k)
 
 
 
-![](assets/972162e287bb/0*RuAwuQTfz36tNqB1)
+![](../assets/972162e287bb/0*RuAwuQTfz36tNqB1)
 
 
 SPAIN
@@ -153,11 +153,11 @@ AUSTRIA
 Weekend for Moria
 
 
-![](assets/972162e287bb/0*I3CYyAyan2nQmnuZ)
+![](../assets/972162e287bb/0*I3CYyAyan2nQmnuZ)
 
 
 
-![](assets/972162e287bb/0*zwtG81ct7kd-RFFB)
+![](../assets/972162e287bb/0*zwtG81ct7kd-RFFB)
 
 
 GERMANY
@@ -173,11 +173,11 @@ Last year there were three arson attacks on restaurants operated by migrants in 
 The attacks in Hanau, Kassel and Halle also show that right\-wing violence still has its place in Germany\. We are shocked and want complete clarification and consistency\. — United Against Racism
 
 
-![](assets/972162e287bb/0*RoDuMPUlUAREgju2)
+![](../assets/972162e287bb/0*RoDuMPUlUAREgju2)
 
 
 
-![](assets/972162e287bb/0*6ZWSbe2urfDmRChP)
+![](../assets/972162e287bb/0*6ZWSbe2urfDmRChP)
 
 
 UK

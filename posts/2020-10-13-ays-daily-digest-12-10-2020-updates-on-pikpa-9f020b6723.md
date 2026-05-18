@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,greece,pikpa]
 description: Militia in Libya Holding 60 People on the Move Hostage///13 Bodies Found Off Tunisian Coast///Greek Migration Minister Talks About Seven…
 image:
-  path: assets/9f020b6723/0*50n9qflfnxwh9IhK
+  path: ../assets/9f020b6723/0*50n9qflfnxwh9IhK
 ---
 
 ### AYS Daily Digest 12/10/2020 — Updates on Pikpa
 ### Militia in Libya Holding 60 People on the Move Hostage///13 Bodies Found Off Tunisian Coast///Greek Migration Minister Talks About Seven Policy Changes, Neglects to Mention the Cruelty///& More
 
 
-![](assets/9f020b6723/0*szGTTYiOMXAeP7V_.jpeg)
+![](../assets/9f020b6723/0*szGTTYiOMXAeP7V_.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----949e2baeddfd--------------------------------)
@@ -22,11 +22,11 @@ image:
 [Oct 13](ays-daily-digest-12-10-2020-updates-on-pikpa-949e2baeddfd?source=post_page-----949e2baeddfd--------------------------------) · 10 min read
 
 
-![](assets/9f020b6723/0*2q9J7B3UsAX0RLX9)
+![](../assets/9f020b6723/0*2q9J7B3UsAX0RLX9)
 
 
 
-![](assets/9f020b6723/0*50n9qflfnxwh9IhK)
+![](../assets/9f020b6723/0*50n9qflfnxwh9IhK)
 
 ### FEATURE
 ### Updates on Pikpa
@@ -50,11 +50,11 @@ MSF notified the Libyan government after the abduction, but nothing concrete was
 And the pushbacks to Libya continue, despite even more evidence that the country is unsafe…
 
 
-![](assets/9f020b6723/0*0FZs885dfsFfG21d)
+![](../assets/9f020b6723/0*0FZs885dfsFfG21d)
 
 
 
-![](assets/9f020b6723/0*_Wb2R_KNsXD0YWQN)
+![](../assets/9f020b6723/0*_Wb2R_KNsXD0YWQN)
 
 ### SEA
 ### 13 People Dead After Storm Off the Coast of Tunisia
@@ -116,11 +116,11 @@ Finally, [here is a great story](https://wearesolomon.com/mag/community/bringing
 ### Tough Conditions for People Sleeping Outdoors
 
 
-![](assets/9f020b6723/0*5Z7MAfW_ND_k-iQ6)
+![](../assets/9f020b6723/0*5Z7MAfW_ND_k-iQ6)
 
 
 
-![](assets/9f020b6723/0*-trl4DrhpsVOXRoX)
+![](../assets/9f020b6723/0*-trl4DrhpsVOXRoX)
 
 
 About 60 people are forced to [sleep outdoors](https://twitter.com/APC_CZA/status/1315654861392941056?fbclid=IwAR0T8rV4b8CQL1gRVYczi-n9o69u2nbZ6kO2w0dVCyFR7OUoVxW_2vgOW1E) in front of the camp, even in heavy rains\. The tents provide no protection from the rain and cold, and some do not even have access to food because KIRS is not giving out new cards\.

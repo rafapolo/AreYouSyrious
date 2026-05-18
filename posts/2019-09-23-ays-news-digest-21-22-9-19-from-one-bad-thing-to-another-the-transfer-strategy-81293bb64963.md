@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 21–22/9/19: From one bad thing to another, the transfer strategy
+title: "AYS News Digest 21–22/9/19: From one bad thing to another, the transfer strategy"
 author: Are You Syrious?
 date: 2019-09-23T10:34:10.937+0100
 last_modified_at: 2019-09-23T13:35:53.503+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,greece,italy]
 description: First winds destroyed tents in Nea Kavala / The number of new arrivals at the French border is increasing / Bosnia and Herzegovina…
 image:
-  path: assets/81293bb64963/1*B-Z1lO6Hb8Lhr7-ypWnF-Q.jpeg
+  path: ../assets/81293bb64963/1*B-Z1lO6Hb8Lhr7-ypWnF-Q.jpeg
 ---
 
 ### AYS News Digest 21–22/9/19: From one bad thing to another, the transfer strategy
 #### First winds destroyed tents in Nea Kavala / The number of new arrivals at the French border is increasing / Bosnia and Herzegovina discussed by the EASO for more structural support, in the meantime struggle continues / Half of the evacuated people in the Calais area return / Volunteer calls & more news
 
 
-![MSF reported on Sunday — “It is a stormy morning on the central [\#Mediterranean](https://twitter.com/hashtag/Mediterranean?src=hashtag_click) sea\. For the 182 vulnerable people onboard [\#OceanViking](https://twitter.com/hashtag/OceanViking?src=hashtag_click) , conditions are cramped as they seek shelter from the driving rain, condemned to uncertainty as [\#EU](https://twitter.com/hashtag/EU?src=hashtag_click) member states appear ambivalent to their fate\.” — Photo: MSF](assets/81293bb64963/1*B-Z1lO6Hb8Lhr7-ypWnF-Q.jpeg)
+![MSF reported on Sunday — “It is a stormy morning on the central [\#Mediterranean](https://twitter.com/hashtag/Mediterranean?src=hashtag_click) sea\. For the 182 vulnerable people onboard [\#OceanViking](https://twitter.com/hashtag/OceanViking?src=hashtag_click) , conditions are cramped as they seek shelter from the driving rain, condemned to uncertainty as [\#EU](https://twitter.com/hashtag/EU?src=hashtag_click) member states appear ambivalent to their fate\.” — Photo: MSF](../assets/81293bb64963/1*B-Z1lO6Hb8Lhr7-ypWnF-Q.jpeg)
 
 MSF reported on Sunday — “It is a stormy morning on the central [\#Mediterranean](https://twitter.com/hashtag/Mediterranean?src=hashtag_click) sea\. For the 182 vulnerable people onboard [\#OceanViking](https://twitter.com/hashtag/OceanViking?src=hashtag_click) , conditions are cramped as they seek shelter from the driving rain, condemned to uncertainty as [\#EU](https://twitter.com/hashtag/EU?src=hashtag_click) member states appear ambivalent to their fate\.” — Photo: MSF
 
@@ -61,7 +61,7 @@ On Sunday, 15 September 2019, a boat was halted at sea in Tangier\. A group of 1
 The group identified the area of refoulement located on the southeast of Oujda\. This area is located between the villages of Touissit and Tiouli, very close to the Algerian border\.
 
 
-![by [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?tn-str=k%2AF&hc_location=group_dialog)](assets/81293bb64963/1*PUMsY3gQ2sesO9Aa-QrAYA.jpeg)
+![by [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?tn-str=k%2AF&hc_location=group_dialog)](../assets/81293bb64963/1*PUMsY3gQ2sesO9Aa-QrAYA.jpeg)
 
 by [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?tn-str=k%2AF&hc_location=group_dialog)
 #### SEARCH AND RESCUE AT SEA
@@ -151,11 +151,11 @@ With 21 persons being granted subsidiary protection, _Vaša Prava_ and UNHCR are
 This is one of the usual posts you can see from the local volunteers in Tuzla\. Also, this is the daily reality for hundreds of people and for the few who don’t give up on helping in a very concrete way, accepting help and assistance from everyone who extends their hand to offer it\. If you wish to support their efforts, let us know and we will put you in contact with the people so you don’t improvise but manage to do the right thing and help with what’s really needed\.
 
 
-![](assets/81293bb64963/1*m5auVEMd84uIr4lk2HLeAQ.jpeg)
+![](../assets/81293bb64963/1*m5auVEMd84uIr4lk2HLeAQ.jpeg)
 
 
 
-![Photos: Senad Cupo](assets/81293bb64963/1*2pAdKiAh5orRH50vxUkQ-w.jpeg)
+![Photos: Senad Cupo](../assets/81293bb64963/1*2pAdKiAh5orRH50vxUkQ-w.jpeg)
 
 Photos: Senad Cupo
 #### ITALY

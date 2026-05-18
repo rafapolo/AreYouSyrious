@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 4/5/2022: How much of an impact will Leggeri’s resignation have on the approach…
+title: "AYS News Digest 4/5/2022: How much of an impact will Leggeri’s resignation have on the approach…"
 author: Are You Syrious?
 date: 2022-05-04T23:14:30.204+0100
 last_modified_at: 2022-05-05T11:25:20.758+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [frontex,digest,detention,european-union,refugees]
 description: Refugees in Serbia taken to closed camps/Detention and detainment of refugees in Poland/Ocean Viking has finally found a safe place to…
 image:
-  path: assets/ed9a5942b541/0*6_Tc1MjBI4QPJ1Et
+  path: ../assets/ed9a5942b541/0*6_Tc1MjBI4QPJ1Et
 ---
 
 #### AYS News Digest 4/5/2022: How much of an impact will Leggeri’s resignation have on the approach taken by FRONTEX at EU’s borders?
@@ -15,7 +15,7 @@ image:
 Refugees in Serbia taken to closed camps/Detention and detainment of refugees in Poland/Ocean Viking has finally found a safe place to disembark/A young non\-verbal black British boy placed in an immigration detention centre in the UK/Treatment of foreign national prisoners in the UK/ InfoMigrants provides information on applying for asylum in France/Further resources…\.
 
 
-![Source: Le Temps, Un ex\-agent suisse de Frontex brise l’omerta](assets/ed9a5942b541/0*6_Tc1MjBI4QPJ1Et)
+![Source: Le Temps, Un ex\-agent suisse de Frontex brise l’omerta](../assets/ed9a5942b541/0*6_Tc1MjBI4QPJ1Et)
 
 Source: Le Temps, Un ex\-agent suisse de Frontex brise l’omerta
 
@@ -24,7 +24,7 @@ Source: Le Temps, Un ex\-agent suisse de Frontex brise l’omerta
 Erdogan, the Turkish president, announced plans on Tuesday to return one million Syrian refugees to northern Syria\.
 
 
-![Source: Middle East Eye — Erdogan addresses a crowd of displaced Syrians in Idlib on 3rd May 2022\.](assets/ed9a5942b541/0*HDhMx8LEswIN4a3D)
+![Source: Middle East Eye — Erdogan addresses a crowd of displaced Syrians in Idlib on 3rd May 2022\.](../assets/ed9a5942b541/0*HDhMx8LEswIN4a3D)
 
 Source: Middle East Eye — Erdogan addresses a crowd of displaced Syrians in Idlib on 3rd May 2022\.
 
@@ -107,7 +107,7 @@ At the same time, Germany has registered the arrival of more than 40,000 refugee
 **Here you can watch the testimony from a Bangladeshi refugee, of mistreatment and violence by Croatian police at the border between Bosnia and Croatia:**
 
 
-[![Migrant from Bangladesh says he was beaten by police at Bosnia-Croatia border](assets/ed9a5942b541/9054_hqdefault.jpg "Migrant from Bangladesh says he was beaten by police at Bosnia-Croatia border")](https://www.youtube.com/watch?v=1_-DVWai3BI)
+[![Migrant from Bangladesh says he was beaten by police at Bosnia-Croatia border](../assets/ed9a5942b541/9054_hqdefault.jpg "Migrant from Bangladesh says he was beaten by police at Bosnia-Croatia border")](https://www.youtube.com/watch?v=1_-DVWai3BI)
 
 
 **On 29 April 2022, No Name Kitchen in Serbia posted on Facebook:**
@@ -162,7 +162,7 @@ At the same time, Germany has registered the arrival of more than 40,000 refugee
 
 
 
-![Source; No Name Kitchen](assets/ed9a5942b541/0*zfG5NBg15xgERP2G)
+![Source; No Name Kitchen](../assets/ed9a5942b541/0*zfG5NBg15xgERP2G)
 
 Source; No Name Kitchen
 
@@ -186,7 +186,7 @@ Source; No Name Kitchen
 **The European Commission has faced condemnation for failing to impose sanctions on Poland over the [construction of a wall along the Polish\-Belarusian border that cuts through the Bialowieza Forest](https://www.politico.eu/article/meps-blast-brussels-inaction-on-polands-wall-of-shame-in-protected-forest/?fbclid=IwAR1raciyfB4Ezol99ld9MV8dKsSDpzi5IT4tvid4qeKi4n3EbofN8Qeqhas) \.**
 
 
-![Source: Politico, MEPs blast Brussels inaction on Poland’s ‘fence of shame’ in protected forest](assets/ed9a5942b541/0*DDshmbEbqITy3CrF.jpg)
+![Source: Politico, MEPs blast Brussels inaction on Poland’s ‘fence of shame’ in protected forest](../assets/ed9a5942b541/0*DDshmbEbqITy3CrF.jpg)
 
 Source: Politico, MEPs blast Brussels inaction on Poland’s ‘fence of shame’ in protected forest
 
@@ -218,7 +218,7 @@ Support @[GrupaGranica](https://twitter.com/GrupaGranica) + read [politico.eu/ar
 Pushbacks and the lack of respect towards human rights are part of the landscape of EU migration policy\. This article argues European states need to drastically change their approach to immigration and human rights in order for there to be any effective change\.
 
 
-![Source: EU Observer](assets/ed9a5942b541/0*Tjhf93eUk77LCc5M.jpg)
+![Source: EU Observer](../assets/ed9a5942b541/0*Tjhf93eUk77LCc5M.jpg)
 
 Source: EU Observer
 
@@ -396,7 +396,7 @@ A foreign national prisoner, according to the UK Home Office, is;
 Two key pieces of legislation, according to Majeed Sheikh, are the **UK Borders Act 2007** and the **Hubs and Spokes policy 2009** \. The former allows for deportation of foreign national offenders who have been sentenced to 12 months or more in prison unless evidence suggests said deportation would breach their human rights\. The latter laid the groundwork for the implementation of prisons specifically for foreign national prisoners, which are isolated from other prisons\.
 
 
-![Source: University of Oxford, Faculty of Law](assets/ed9a5942b541/0*i1xjXcFLRsEPiPj6)
+![Source: University of Oxford, Faculty of Law](../assets/ed9a5942b541/0*i1xjXcFLRsEPiPj6)
 
 Source: University of Oxford, Faculty of Law
 

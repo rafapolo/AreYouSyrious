@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest: Moria burning.
+title: "AYS News Digest: Moria burning."
 author: Are You Syrious?
 date: 2016-06-02T01:54:19.796+0100
 last_modified_at: 2016-06-02T08:19:12.973+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe]
 description: Syria’s besieged Daraya gets first aid since 2012, but no food. Alert Phone reports on shift in refugees’ routes after the EU-Turkey deal…
 image:
-  path: assets/ad41522a2e76/0*a5rx0iLqtdwtlsjA.
+  path: ../assets/ad41522a2e76/0*a5rx0iLqtdwtlsjA.
 ---
 
 ### AYS News Digest: Moria burning\.
 #### Syria’s besieged Daraya gets first aid since 2012, but no food\. Alert Phone reports on shift in refugees’ routes after the EU\-Turkey deal\. Greek appellate court halts deportation of three Syrians, ruling Turkey ‘unsafe’\. Hundreds of refugees wait at Serbian border with Hungary\.
 
 
-![The fifth excursion for unaccompanied minor refugees allowed them a few hours of freedom outside Moria’s fences\. Thanks to ERCI rescuers, they swam and played in the calm, wonderful sea\. Photo Credit: Christina Chatzidaki](assets/ad41522a2e76/0*a5rx0iLqtdwtlsjA.)
+![The fifth excursion for unaccompanied minor refugees allowed them a few hours of freedom outside Moria’s fences\. Thanks to ERCI rescuers, they swam and played in the calm, wonderful sea\. Photo Credit: Christina Chatzidaki](../assets/ad41522a2e76/0*a5rx0iLqtdwtlsjA.)
 
 The fifth excursion for unaccompanied minor refugees allowed them a few hours of freedom outside Moria’s fences\. Thanks to ERCI rescuers, they swam and played in the calm, wonderful sea\. Photo Credit: Christina Chatzidaki
 ### Fire reported inside Moria
@@ -22,7 +22,7 @@ The fifth excursion for unaccompanied minor refugees allowed them a few hours of
 People at Moria report serious violence and an ongoing fire inside the camp\.
 
 
-![Photo Credit: Will Horner](assets/ad41522a2e76/1*MKk3DSqL3vN2sKpxbPft2Q.png)
+![Photo Credit: Will Horner](../assets/ad41522a2e76/1*MKk3DSqL3vN2sKpxbPft2Q.png)
 
 Photo Credit: Will Horner
 
@@ -44,7 +44,7 @@ For the first time in months, Syrians and Iraqis are now among those trying to c
 Lawyers of the Pro Asyl project “RSPA” represented nine asylum\-seekers in this case, with Pro Asyl saying the deportation was stopped despite pressure from the European Commission and the Greek Ministry of Immigration\. In earlier news, the Dutch broadcaster NOS, had published an [interview](http://nos.nl/nieuwsuur/artikel/2107585-greek-appeals-committee-turkey-not-safe-for-syrians.html) with the Greek Minister of Immigration Policy Mouzalas, where he stated that in four of five cases, the court halted deportations, adding that “this could put Greece in a very difficult situation\.”
 
 
-![Clowns at the Softex Camp near Thessaloniki\. Photo Credit: Chloe Kousoula](assets/ad41522a2e76/0*ScWssd_oFE_Ojkvf.)
+![Clowns at the Softex Camp near Thessaloniki\. Photo Credit: Chloe Kousoula](../assets/ad41522a2e76/0*ScWssd_oFE_Ojkvf.)
 
 Clowns at the Softex Camp near Thessaloniki\. Photo Credit: Chloe Kousoula
 
@@ -80,7 +80,7 @@ According to [Ekhatiremini](http://www.ekathimerini.com/209207/article/ekathimer
 The legendary [Dirty Girls of Lesvos](https://www.facebook.com/dirtygirlslesvos/) had the great idea of collecting more than 10,000 used UN blankets from Idomeni and cleaning them to hospital standards\. They will be distributed from a MSF warehouse near Thessaloniki\. Saving these blankets will help people in the government camps, create less landfill waste for Greece, and save UNHCR’s donors and taxpayers the cost of 10,000 new blankets\.
 
 
-![Photo Credit: Dirty Girls of Lesvos](assets/ad41522a2e76/0*_zCaAlBEcRDGf8v8.)
+![Photo Credit: Dirty Girls of Lesvos](../assets/ad41522a2e76/0*_zCaAlBEcRDGf8v8.)
 
 Photo Credit: Dirty Girls of Lesvos
 #### Bulgaria

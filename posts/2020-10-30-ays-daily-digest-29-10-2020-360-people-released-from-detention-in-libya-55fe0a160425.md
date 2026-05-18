@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST:29/10/2020–360 people released from detention in Libya
+title: "AYS DAILY DIGEST:29/10/2020–360 people released from detention in Libya"
 author: Are You Syrious?
 date: 2020-10-30T12:52:51.132+0000
 last_modified_at: 2020-10-30T20:08:47.246+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [save-pikpa,libya,greece,digest,search-and-rescue]
 description: PIKPA Camp evicted//230 believed to have died at sea this week//Pushbacks from Greece continue//Updates from Italy, Serbia, Germany, the…
 image:
-  path: assets/55fe0a160425/1*z1ngUJ95xiWkg0SR9LPFgw.jpeg
+  path: ../assets/55fe0a160425/1*z1ngUJ95xiWkg0SR9LPFgw.jpeg
 ---
 
 ### AYS DAILY DIGEST: 29/10/2020 **–360 people released from detention in Libya**
@@ -15,7 +15,7 @@ image:
 PIKPA Camp evicted//230 people believed to have died at sea this week//Pushbacks from Greece continue//Updates from Italy, Serbia, Germany, the UK and more…
 
 
-![\(Photo Credit: [Lesvos Solidarity](https://www.facebook.com/pikpalesvos) \. Since 2015, PIKPA has provided housing to the most vulnerable, today it was evicted\. Find out more [HERE](ays-special-day-of-shame-on-lesvos-pikpa-under-eviction-348958025fd4) \)](assets/55fe0a160425/1*z1ngUJ95xiWkg0SR9LPFgw.jpeg)
+![\(Photo Credit: [Lesvos Solidarity](https://www.facebook.com/pikpalesvos) \. Since 2015, PIKPA has provided housing to the most vulnerable, today it was evicted\. Find out more [HERE](ays-special-day-of-shame-on-lesvos-pikpa-under-eviction-348958025fd4) \)](../assets/55fe0a160425/1*z1ngUJ95xiWkg0SR9LPFgw.jpeg)
 
 \(Photo Credit: [Lesvos Solidarity](https://www.facebook.com/pikpalesvos) \. Since 2015, PIKPA has provided housing to the most vulnerable, today it was evicted\. Find out more [HERE](ays-special-day-of-shame-on-lesvos-pikpa-under-eviction-348958025fd4) \)
 #### **FEATURE: 360 people released from detention in Libya**
@@ -23,7 +23,7 @@ PIKPA Camp evicted//230 people believed to have died at sea this week//Pushbacks
 Giulia Tranchina [report](https://www.facebook.com/rastajuly/posts/10158129797408621) s that 360 people were released from a Libyan detention centre in Zintan by UNHCR on Sunday, having survived 3 years of unjust detention, violence and starvation, witnessed the death of 25 fellow detainees, and endured extremely unsanitary conditions\. Many of them had also previously been detained in other official detention centres, such as Gharyan and Tariq al Matar, abandoned by international agencies despite being among the first refugees to register between 2017 and February 2018\.
 
 
-![Protest in Zintan detention centre — May 2019 \(Photo via [Giulia Tranchina](https://www.facebook.com/photo?fbid=10158129779788621&set=pcb.10158129797408621) \)](assets/55fe0a160425/1*IN_XfRKI50AW9QdINPXfVw.jpeg)
+![Protest in Zintan detention centre — May 2019 \(Photo via [Giulia Tranchina](https://www.facebook.com/photo?fbid=10158129779788621&set=pcb.10158129797408621) \)](../assets/55fe0a160425/1*IN_XfRKI50AW9QdINPXfVw.jpeg)
 
 Protest in Zintan detention centre — May 2019 \(Photo via [Giulia Tranchina](https://www.facebook.com/photo?fbid=10158129779788621&set=pcb.10158129797408621) \)
 
@@ -89,7 +89,7 @@ GREECE
 #### **Aegean Boat Report Weekly Statistics**
 
 
-![](assets/55fe0a160425/1*2v8e439b8xnLiEt7GwJPvg.jpeg)
+![](../assets/55fe0a160425/1*2v8e439b8xnLiEt7GwJPvg.jpeg)
 
 #### **32 Pushbacks despite continued denial by Government**
 
@@ -163,7 +163,7 @@ At least someone knows what they are doing in Moria 2\.0…
 #### **A story from inside Moria 2\.0**
 
 
-![\(Basile, resident of Moria 2\.0\. Photo Credit: [Yousif Alshewaili](https://www.facebook.com/yousif.a.shalal?__cft__[0]=AZWTGF5uRoO3cBxKuv4clhLK9tASG7uOQnqzsmEuV4qwU9-v62Jkwf6mv_mEF6VRMTJd9AbQQn6WMnKIgmV5SF1Gu8MMIvr35QX7gq3jcJR0WuveJbXpqEJaEulASpVY6ZGlj-5EZ_BTUlG1qTbNE_QaqO0o-9WZtt85MLzQ0I5BYaEPTYr5FIMOQ4txQAYs-v8&__tn__=-]K-R) \)](assets/55fe0a160425/1*eBUihXO9eLb_oNmS4s8EFQ.jpeg)
+![\(Basile, resident of Moria 2\.0\. Photo Credit: [Yousif Alshewaili](https://www.facebook.com/yousif.a.shalal?__cft__[0]=AZWTGF5uRoO3cBxKuv4clhLK9tASG7uOQnqzsmEuV4qwU9-v62Jkwf6mv_mEF6VRMTJd9AbQQn6WMnKIgmV5SF1Gu8MMIvr35QX7gq3jcJR0WuveJbXpqEJaEulASpVY6ZGlj-5EZ_BTUlG1qTbNE_QaqO0o-9WZtt85MLzQ0I5BYaEPTYr5FIMOQ4txQAYs-v8&__tn__=-]K-R) \)](../assets/55fe0a160425/1*eBUihXO9eLb_oNmS4s8EFQ.jpeg)
 
 \(Basile, resident of Moria 2\.0\. Photo Credit: [Yousif Alshewaili](https://www.facebook.com/yousif.a.shalal?__cft__[0]=AZWTGF5uRoO3cBxKuv4clhLK9tASG7uOQnqzsmEuV4qwU9-v62Jkwf6mv_mEF6VRMTJd9AbQQn6WMnKIgmV5SF1Gu8MMIvr35QX7gq3jcJR0WuveJbXpqEJaEulASpVY6ZGlj-5EZ_BTUlG1qTbNE_QaqO0o-9WZtt85MLzQ0I5BYaEPTYr5FIMOQ4txQAYs-v8&__tn__=-]K-R) \)
 
@@ -200,15 +200,15 @@ SERBIA
 #### **Winter approaches**
 
 
-![](assets/55fe0a160425/1*XiFgnr9qS0OKC3B5ljZVGg.jpeg)
+![](../assets/55fe0a160425/1*XiFgnr9qS0OKC3B5ljZVGg.jpeg)
 
 
 
-![](assets/55fe0a160425/1*LAkXJg_CFiTYWwEJmGrXzA.jpeg)
+![](../assets/55fe0a160425/1*LAkXJg_CFiTYWwEJmGrXzA.jpeg)
 
 
 
-![\(Photo Credit: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/pcb.1108563396208610/1108562352875381) \)](assets/55fe0a160425/1*rg6fRudm3r7q89edY4f9sw.jpeg)
+![\(Photo Credit: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/pcb.1108563396208610/1108562352875381) \)](../assets/55fe0a160425/1*rg6fRudm3r7q89edY4f9sw.jpeg)
 
 \(Photo Credit: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/pcb.1108563396208610/1108562352875381) \)
 

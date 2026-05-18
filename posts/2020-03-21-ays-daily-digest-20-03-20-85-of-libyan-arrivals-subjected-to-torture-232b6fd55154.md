@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 20/03/20: 85% of Libyan arrivals subjected to Torture.
+title: "AYS DAILY DIGEST 20/03/20: 85% of Libyan arrivals subjected to Torture."
 author: Are You Syrious?
 date: 2020-03-21T10:41:50.180+0000
 last_modified_at: 2020-03-21T10:41:50.180+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,europe,libya]
 description: Are You Syrious?
 image:
-  path: assets/232b6fd55154/0*uwq6H1vPHuL0wbLA.jpeg
+  path: ../assets/232b6fd55154/0*uwq6H1vPHuL0wbLA.jpeg
 ---
 
 ### AYS DAILY DIGEST 20/03/20: 85% of Libyan arrivals subjected to Torture\.
 
 
-![](assets/232b6fd55154/0*3N7S2vZFESAixa6U.jpeg)
+![](../assets/232b6fd55154/0*3N7S2vZFESAixa6U.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----7342fbf7914e----------------------)
@@ -23,11 +23,11 @@ image:
 MEDU report into the torture of Libyan refugees // Sweden to continue deportations to Afghanistan // First\-hand accounts from Serbia’s state of emergency
 
 
-![](assets/232b6fd55154/0*99fOAmqz7SUVq-n0)
+![](../assets/232b6fd55154/0*99fOAmqz7SUVq-n0)
 
 
 
-![](assets/232b6fd55154/0*uwq6H1vPHuL0wbLA.jpeg)
+![](../assets/232b6fd55154/0*uwq6H1vPHuL0wbLA.jpeg)
 
 ### Feature
 
@@ -41,11 +41,11 @@ Exposing the brutal reality of the treatment of these refugees and the injustice
 \- and a high number of people had been subjected to forced labour or slavery for months or years\.
 
 
-![](assets/232b6fd55154/0*uZAOH7MVDjohng1w)
+![](../assets/232b6fd55154/0*uZAOH7MVDjohng1w)
 
 
 
-![](assets/232b6fd55154/0*p96K2Sg0D5MR7Wce.png)
+![](../assets/232b6fd55154/0*p96K2Sg0D5MR7Wce.png)
 
 
 In July 2019, the UN called on the EU to stop migrant returns to Libya, with Dominik Bartsch, the German head of the UNHCR, stating that:

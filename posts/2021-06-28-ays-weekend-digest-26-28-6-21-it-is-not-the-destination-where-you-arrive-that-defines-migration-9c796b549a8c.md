@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 26–28/6/21: “It is not the destination where you arrive that defines migration…
+title: "AYS Weekend Digest 26–28/6/21: “It is not the destination where you arrive that defines migration…"
 author: Are You Syrious?
 date: 2021-06-28T17:15:24.647+0100
 last_modified_at: 2021-06-28T17:43:55.145+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,europe,human-rights,solidarity]
 description: A personal story / Minor refugee children enrolled in a school in Athens denied entry to the National Archaeological Museums / Initiatives…
 image:
-  path: assets/9c796b549a8c/0*hTMQxECZnIucyGZx
+  path: ../assets/9c796b549a8c/0*hTMQxECZnIucyGZx
 ---
 
 ### AYS Weekend Digest 26–28/6/21: “It is not the destination where you arrive that defines migration, but the journey toward resistance\.”
 #### A personal story / Minor refugee children enrolled in a school in Athens denied entry to the National Archaeological Museums / Initiatives against pushbacks / Reports and analysis, and other essential reads…
 
 
-![More images from the Samos protest against pushbacks \(Photo: Samos Advocacy Collective\) Read our previous Digest for more information](assets/9c796b549a8c/0*hTMQxECZnIucyGZx)
+![More images from the Samos protest against pushbacks \(Photo: Samos Advocacy Collective\) Read our previous Digest for more information](../assets/9c796b549a8c/0*hTMQxECZnIucyGZx)
 
 More images from the Samos protest against pushbacks \(Photo: Samos Advocacy Collective\) Read our previous Digest for more information
 #### FEATURED
@@ -52,11 +52,11 @@ Ameneh Ebrahimi, 45, Agrin Pardehdar, 27, Rangin Hassannejad, 28, Sarveh Ebrahim
 
 
 
-![](assets/9c796b549a8c/0*kyYabL2PBWaMjS0Y)
+![](../assets/9c796b549a8c/0*kyYabL2PBWaMjS0Y)
 
 
 
-![](assets/9c796b549a8c/0*6y1YSpGoVBhbxjJ3)
+![](../assets/9c796b549a8c/0*6y1YSpGoVBhbxjJ3)
 
 #### GREECE
 
@@ -95,11 +95,11 @@ Find archived reports and documented testimonies of people on the move across th
 Fellow activists from Utopia and others active in the northern area have protested the decisions that came to power on September 11 last year, prohibiting the distribution of food and water to people on the move in the city:
 
 
-![](assets/9c796b549a8c/0*Ozjvp-7vu7nFtlmK)
+![](../assets/9c796b549a8c/0*Ozjvp-7vu7nFtlmK)
 
 
 
-![Photos: [Utopia\_56](https://twitter.com/Utopia_56)](assets/9c796b549a8c/0*nqWaV-fAmOvcg6OP)
+![Photos: [Utopia\_56](https://twitter.com/Utopia_56)](../assets/9c796b549a8c/0*nqWaV-fAmOvcg6OP)
 
 Photos: [Utopia\_56](https://twitter.com/Utopia_56)
 #### EU
@@ -139,7 +139,7 @@ The UNHCR has [called on the EU](https://www.rnd.de/politik/un-hilfswerk-fordert
 
 
 
-[![The Ethiopian migrants who make the desperate journey to Saudi Arabia via Yemen](assets/9c796b549a8c/ca19_hqdefault.jpg "The Ethiopian migrants who make the desperate journey to Saudi Arabia via Yemen")](https://www.youtube.com/watch?v=zKrMOoFPK-k)
+[![The Ethiopian migrants who make the desperate journey to Saudi Arabia via Yemen](../assets/9c796b549a8c/ca19_hqdefault.jpg "The Ethiopian migrants who make the desperate journey to Saudi Arabia via Yemen")](https://www.youtube.com/watch?v=zKrMOoFPK-k)
 
 - an interview with Simon Campbell from the Border Violence Monitoring Network \(BVMN\) about the violence people face attempting to reach Europe along the Balkan route:
 

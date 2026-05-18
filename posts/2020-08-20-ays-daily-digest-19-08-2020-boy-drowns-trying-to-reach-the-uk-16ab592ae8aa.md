@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,united-kingdom,britain]
 description: Open Arms Ship Returns to Mediterranean///More Illegal Pushbacks in the Aegean///Mare Liberum Ships Detained by Germany///& More
 image:
-  path: assets/16ab592ae8aa/0*njYvgdV44ui8nU_j
+  path: ../assets/16ab592ae8aa/0*njYvgdV44ui8nU_j
 ---
 
 ### AYS Daily Digest 19/08/2020 — Boy Drowns Trying to Reach the UK
 #### Open Arms ship returns to Mediterranean // More illegal pushbacks in the Aegean // Mare Liberum ships detained by Germany // Situation in Bosnia close to boiling & More
 
 
-![Drawing by Hippolyte, from [SOS Mediterranee](https://www.facebook.com/SOSMEDITERRANEE/photos/a.806663182774325/3222242921216327/)](assets/16ab592ae8aa/0*njYvgdV44ui8nU_j)
+![Drawing by Hippolyte, from [SOS Mediterranee](https://www.facebook.com/SOSMEDITERRANEE/photos/a.806663182774325/3222242921216327/)](../assets/16ab592ae8aa/0*njYvgdV44ui8nU_j)
 
 Drawing by Hippolyte, from [SOS Mediterranee](https://www.facebook.com/SOSMEDITERRANEE/photos/a.806663182774325/3222242921216327/)
 #### FEATURE — Boy Drowns in the Channel While Trying to Reach the UK
@@ -107,7 +107,7 @@ Firefighters and a local shepherd in Ventimiglia [rescued four people](https://w
 FAST, the First\-Aid Support Team, is looking for volunteers as it starts working in Calais again\! If you’re a healthcare professional, you can lend your skills where they’re urgently needed\. Learn more and find out how to apply [here](https://www.facebook.com/FASTFirstAidSupportTeam/posts/1035767060191983) \.
 
 
-![Photo credit: [FAST](https://www.facebook.com/FASTFirstAidSupportTeam/photos/a.646833725751987/1035766866858669/)](assets/16ab592ae8aa/0*qiRyNTrYHsdisanG)
+![Photo credit: [FAST](https://www.facebook.com/FASTFirstAidSupportTeam/photos/a.646833725751987/1035766866858669/)](../assets/16ab592ae8aa/0*qiRyNTrYHsdisanG)
 
 Photo credit: [FAST](https://www.facebook.com/FASTFirstAidSupportTeam/photos/a.646833725751987/1035766866858669/)
 

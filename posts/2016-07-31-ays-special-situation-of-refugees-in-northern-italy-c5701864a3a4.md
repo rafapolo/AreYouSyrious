@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Situation of refugees in northern Italy
+title: "AYS SPECIAL: Situation of refugees in northern Italy"
 author: Are You Syrious?
 date: 2016-07-31T10:37:51.535+0100
 last_modified_at: 2018-03-01T13:57:28.825+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,italy,como,milano,special]
 description: AYS team gathered information about situation of refugees in Italy, northern part. We looked into situation in Como and Milano. Help is…
 image:
-  path: assets/c5701864a3a4/1*u-HqB2zQGBOdMqOw2qWroQ.jpeg
+  path: ../assets/c5701864a3a4/1*u-HqB2zQGBOdMqOw2qWroQ.jpeg
 ---
 
 ### AYS SPECIAL: Situation of refugees in northern Italy
@@ -15,7 +15,7 @@ image:
 _AYS team gathered information about situation of refugees in Italy, northern part\. We looked into situation in Como and Milano\. Help is needed in both areas and volunteers are urged to contact team in the field\._
 
 
-![Up to 250 refugees are sleeping out in open in Como\. Photo credit Henry Cyrenius](assets/c5701864a3a4/1*u-HqB2zQGBOdMqOw2qWroQ.jpeg)
+![Up to 250 refugees are sleeping out in open in Como\. Photo credit Henry Cyrenius](../assets/c5701864a3a4/1*u-HqB2zQGBOdMqOw2qWroQ.jpeg)
 
 Up to 250 refugees are sleeping out in open in Como\. Photo credit Henry Cyrenius
 ### Como
@@ -40,7 +40,7 @@ Caritas and Red Cross distribute food to the refugees in the morning and evening
 Refugees can use the toilets at the train station for free and charge their cell phone in the station for free\. Further Red Cross set up a tent with 32 beds und access to two toilets and one shower\. But most of them prefer to stay in the park, where is a standpipe with drinkable water, where they can wash their clothes, too\.
 
 
-![RC tent with 32 beds for refugees in Como\. Photo credit Henry Cyrenius](assets/c5701864a3a4/1*cZ5AYNyH_3x3i5sziBJ7rw.jpeg)
+![RC tent with 32 beds for refugees in Como\. Photo credit Henry Cyrenius](../assets/c5701864a3a4/1*cZ5AYNyH_3x3i5sziBJ7rw.jpeg)
 
 RC tent with 32 beds for refugees in Como\. Photo credit Henry Cyrenius
 

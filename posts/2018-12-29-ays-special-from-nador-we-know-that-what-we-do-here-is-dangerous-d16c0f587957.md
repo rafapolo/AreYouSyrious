@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL FROM NADOR: “We know that what we do here is dangerous”
+title: "AYS SPECIAL FROM NADOR: “We know that what we do here is dangerous”"
 author: Are You Syrious?
 date: 2018-12-29T11:56:50.353+0000
 last_modified_at: 2018-12-29T18:38:07.672+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,marocco,nador,special,migrations]
 description: Abused, harassed and robbed — this is what everyday life is like for sub-Saharan people on the move in Nador, Morocco. Thousands of people…
 image:
-  path: assets/d16c0f587957/1*eFQpS_qbCQUnilrnCPjVsg.jpeg
+  path: ../assets/d16c0f587957/1*eFQpS_qbCQUnilrnCPjVsg.jpeg
 ---
 
 ### **AYS SPECIAL FROM NADOR: “We know that what we do here is dangerous”**
 #### **Abused, harassed and robbed — this is what everyday life is like for sub\-Saharan people on the move in Nador, Morocco\. Thousands of people are hiding in a forest, looking to cross the Mediterranean and reach Spain as a gateway to the European Union\. Meanwhile, parts of the local population, themselves living on the margins of society, are profiting from the situation\.**
 
 
-![Villages near the camps in the forest are profiting from the migrants who are stuck in the woods while waiting to continue their journey to the EU\. Meanwhile, police squads harass the people living here every morning\. Morocco and Libya, two countries where human rights are not respected, are the two biggest receivers of EU funding allocated for migration outside the block\. Photo: AYS](assets/d16c0f587957/1*eFQpS_qbCQUnilrnCPjVsg.jpeg)
+![Villages near the camps in the forest are profiting from the migrants who are stuck in the woods while waiting to continue their journey to the EU\. Meanwhile, police squads harass the people living here every morning\. Morocco and Libya, two countries where human rights are not respected, are the two biggest receivers of EU funding allocated for migration outside the block\. Photo: AYS](../assets/d16c0f587957/1*eFQpS_qbCQUnilrnCPjVsg.jpeg)
 
 Villages near the camps in the forest are profiting from the migrants who are stuck in the woods while waiting to continue their journey to the EU\. Meanwhile, police squads harass the people living here every morning\. Morocco and Libya, two countries where human rights are not respected, are the two biggest receivers of EU funding allocated for migration outside the block\. Photo: AYS
 
@@ -37,7 +37,7 @@ According to Omar Nafi, president of AMDH Nador, it is neither easy nor desirabl
 “ _Amnesty was here, but they were told to leave \(…\) A Swiss church sometimes give food, but that’s it_ ”, Nafi explains\. _\(AYS have not gotten that confirmed by Amnesty\. \)_
 
 
-![In the village near “the forest” locals sell the bare necessities in small shops\. Some of the residents are working here, in return of free meals\. Photo: AYS](assets/d16c0f587957/1*jMrPH8riRuAWNc6_DZlstw.jpeg)
+![In the village near “the forest” locals sell the bare necessities in small shops\. Some of the residents are working here, in return of free meals\. Photo: AYS](../assets/d16c0f587957/1*jMrPH8riRuAWNc6_DZlstw.jpeg)
 
 In the village near “the forest” locals sell the bare necessities in small shops\. Some of the residents are working here, in return of free meals\. Photo: AYS
 #### One nation
@@ -51,7 +51,7 @@ Momodou\* has been living in “the forest” for nine months now\. He says that
 “ _It is impossible for people of Sub\-Saharan origin to be in the town\. The police catch them, detain and abuse people and deport them,_ ” Nafi repeats the same thing that Momodou\* told us\.
 
 
-![Nador is a small town on the Moroccan coast with a population of around 160,000 people\. No one of sub\-Saharan origin dares to go into the center, afraid the police might catch, detain or rob them\. Therefore, “we put out money everywhere you can imagine”, Momodou\* said\. Photo: AYS](assets/d16c0f587957/1*NAm0t2KpFsLuUnesUEEVSQ.jpeg)
+![Nador is a small town on the Moroccan coast with a population of around 160,000 people\. No one of sub\-Saharan origin dares to go into the center, afraid the police might catch, detain or rob them\. Therefore, “we put out money everywhere you can imagine”, Momodou\* said\. Photo: AYS](../assets/d16c0f587957/1*NAm0t2KpFsLuUnesUEEVSQ.jpeg)
 
 Nador is a small town on the Moroccan coast with a population of around 160,000 people\. No one of sub\-Saharan origin dares to go into the center, afraid the police might catch, detain or rob them\. Therefore, “we put out money everywhere you can imagine”, Momodou\* said\. Photo: AYS
 #### Agreement with no impact
@@ -71,7 +71,7 @@ Ahead of the meeting, [AMDH Nador reported about mass\-deportations](https://www
 Now, as we pass by the the camp, it looks empty\. The military seem to be the only ones left on site\. According to Omar Nafi, AMDH Nador has filed a complaint about the violations toward sub\-Saharans in the region, but he does not believe it will change anything\. It is likely that it will be dismissed before it reaches the court\.
 
 
-![The view while entering one of the smallest forest camps outside Nador\. Photo: AYS](assets/d16c0f587957/1*xwCHHY9LsZ3GvezjO6XHyQ.jpeg)
+![The view while entering one of the smallest forest camps outside Nador\. Photo: AYS](../assets/d16c0f587957/1*xwCHHY9LsZ3GvezjO6XHyQ.jpeg)
 
 The view while entering one of the smallest forest camps outside Nador\. Photo: AYS
 #### Life in “the forest”
@@ -87,7 +87,7 @@ The local people here are poor: benefitting from the people in “the forest” 
 The bunker, as he phrases it, is his big tent\. There are eight people sleeping in it\. It is covered with plastic and a piece of fabric with a camouflage pattern\. Inside, the floor is muddy and there are a lot of big, empty water bottles\. Water is another thing they have to buy in the village\.
 
 
-![One of the ‘bunkers’ in the camp, where eight people sleep\. Photo: AYS](assets/d16c0f587957/1*Ze2vRD08LFsRyabYHVUW7Q.jpeg)
+![One of the ‘bunkers’ in the camp, where eight people sleep\. Photo: AYS](../assets/d16c0f587957/1*Ze2vRD08LFsRyabYHVUW7Q.jpeg)
 
 One of the ‘bunkers’ in the camp, where eight people sleep\. Photo: AYS
 
@@ -100,7 +100,7 @@ It is all about business\. One meter of plastic in the small local shop costs 10
 _“We need them,”_ Momodou\* says, speaking about both the locals and the life jackets at the same time\.
 
 
-![People living in “the forest” trying to rebuild their camp after a police raid\. Photo: Private](assets/d16c0f587957/1*jUtVJDEVr1953pH1KDc5uw.jpeg)
+![People living in “the forest” trying to rebuild their camp after a police raid\. Photo: Private](../assets/d16c0f587957/1*jUtVJDEVr1953pH1KDc5uw.jpeg)
 
 People living in “the forest” trying to rebuild their camp after a police raid\. Photo: Private
 #### Morocco = Libya
@@ -112,7 +112,7 @@ The problem, though, as identified by Omar Nafi, is that Morocco does not care a
 The result is solutions such as [Arekmane detention camp\.](https://www.facebook.com/AmdhNador/videos/2234788753469910/)
 
 
-![Arekmane detention camp outside Nador\. Photo: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?__tn__=kC-R&eid=ARDKvsP9yimUQ9QQ-FSMJudDF9cWZwnz5TonccrPvibOKYAjk2gp5vHRb7_DD9-2-_LMzqofcTXs_05s&hc_ref=ARQils5l_XmvTpbsPMOzrKt74jaX73q3q2Rdb008UWlblgwpCwFUL24qajlPAp52JiI&fref=nf&__xts__%5B0%5D=68.ARDYUl0h0GwtKkZOp4CHdPj2MKdl81MKK8cuwGpLnOpDyBY7tS1QsyfpNKTZxbLqva0xDc6E-4v_iMZws8uqfBkkmteTJkYt8R5EWQu23X6Qt8riHTG1gftM9n8jEasfy5j9eVKb9VybOVh_vrVWM9nFAd7u1Y_8ke_LD67DqxgCfbbj6948OtSkj94TohjagBI_tRskeRkzScUqQLQJJ8QXuTuFxqi41GSO5z4m2PEBUf2Jof3mPI8O6YfJDUPMhGsxraZFGltW_5G98qnBsUI9nHa7kS3ViIBHxHXgJvWLLZjgQqW5ldfxD2rHaCT_mkG3CIo1wT7pE_HPqKIDYioyNRzVg9TEnxtrFaX-)](assets/d16c0f587957/1*ywsmiR-8ocdd_sMS8j8VVA.jpeg)
+![Arekmane detention camp outside Nador\. Photo: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?__tn__=kC-R&eid=ARDKvsP9yimUQ9QQ-FSMJudDF9cWZwnz5TonccrPvibOKYAjk2gp5vHRb7_DD9-2-_LMzqofcTXs_05s&hc_ref=ARQils5l_XmvTpbsPMOzrKt74jaX73q3q2Rdb008UWlblgwpCwFUL24qajlPAp52JiI&fref=nf&__xts__%5B0%5D=68.ARDYUl0h0GwtKkZOp4CHdPj2MKdl81MKK8cuwGpLnOpDyBY7tS1QsyfpNKTZxbLqva0xDc6E-4v_iMZws8uqfBkkmteTJkYt8R5EWQu23X6Qt8riHTG1gftM9n8jEasfy5j9eVKb9VybOVh_vrVWM9nFAd7u1Y_8ke_LD67DqxgCfbbj6948OtSkj94TohjagBI_tRskeRkzScUqQLQJJ8QXuTuFxqi41GSO5z4m2PEBUf2Jof3mPI8O6YfJDUPMhGsxraZFGltW_5G98qnBsUI9nHa7kS3ViIBHxHXgJvWLLZjgQqW5ldfxD2rHaCT_mkG3CIo1wT7pE_HPqKIDYioyNRzVg9TEnxtrFaX-)](../assets/d16c0f587957/1*ywsmiR-8ocdd_sMS8j8VVA.jpeg)
 
 Arekmane detention camp outside Nador\. Photo: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?__tn__=kC-R&eid=ARDKvsP9yimUQ9QQ-FSMJudDF9cWZwnz5TonccrPvibOKYAjk2gp5vHRb7_DD9-2-_LMzqofcTXs_05s&hc_ref=ARQils5l_XmvTpbsPMOzrKt74jaX73q3q2Rdb008UWlblgwpCwFUL24qajlPAp52JiI&fref=nf&__xts__%5B0%5D=68.ARDYUl0h0GwtKkZOp4CHdPj2MKdl81MKK8cuwGpLnOpDyBY7tS1QsyfpNKTZxbLqva0xDc6E-4v_iMZws8uqfBkkmteTJkYt8R5EWQu23X6Qt8riHTG1gftM9n8jEasfy5j9eVKb9VybOVh_vrVWM9nFAd7u1Y_8ke_LD67DqxgCfbbj6948OtSkj94TohjagBI_tRskeRkzScUqQLQJJ8QXuTuFxqi41GSO5z4m2PEBUf2Jof3mPI8O6YfJDUPMhGsxraZFGltW_5G98qnBsUI9nHa7kS3ViIBHxHXgJvWLLZjgQqW5ldfxD2rHaCT_mkG3CIo1wT7pE_HPqKIDYioyNRzVg9TEnxtrFaX-)
 
@@ -129,7 +129,7 @@ His sister died at sea when she was six months pregnant\. Her husband is now in 
 The road to the EU, or rather the water, is an expensive story\. The “normal” fare is 2,000 euro, and then up to 65 people can be packed into one boat\. Then there is the VIP\-ticket: 3,000 euro and then fewer people are in the boat, which can also leave sooner\. That means less waiting in “the forest”\. Before the boat, the smugglers put them in cars where they, according to Momodou\*, are packed in more tightly than sardines in a tin\. Every time someone makes it safely to the other side, the community in “the forest” are given a sheep to sacrifice by the ‘big boss’ of the camp\.
 
 
-![Inside the shop, the entrance to which is pictured in another photo above, people can charge their phones\. Photo: AYS](assets/d16c0f587957/1*wtPBSSqY_XyIkki-2DVe7Q.jpeg)
+![Inside the shop, the entrance to which is pictured in another photo above, people can charge their phones\. Photo: AYS](../assets/d16c0f587957/1*wtPBSSqY_XyIkki-2DVe7Q.jpeg)
 
 Inside the shop, the entrance to which is pictured in another photo above, people can charge their phones\. Photo: AYS
 

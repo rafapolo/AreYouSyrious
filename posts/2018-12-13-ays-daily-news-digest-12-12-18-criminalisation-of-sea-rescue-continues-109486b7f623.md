@@ -1,5 +1,5 @@
 ---
-title: AYS Daily News Digest 12/12/18: Criminalisation of sea rescue continues
+title: "AYS Daily News Digest 12/12/18: Criminalisation of sea rescue continues"
 author: Are You Syrious?
 date: 2018-12-13T10:06:35.132+0000
 last_modified_at: 2018-12-14T10:33:02.604+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest]
 description: Afghan man murdered near Moria//”Difficult conditions” in Nador detention centre//Temperatures continue to drop in northern France and in…
 image:
-  path: assets/109486b7f623/0*76Yg75DdQpOf8ODs
+  path: ../assets/109486b7f623/0*76Yg75DdQpOf8ODs
 ---
 
 ### AYS Daily News Digest 12/12/18: Criminalisation of sea rescue continues
@@ -15,7 +15,7 @@ image:
 _Afghan man murdered near Moria//”Difficult conditions” in Nador detention centre//Temperatures continue to drop in northern France and in the Balkans//_
 
 
-![Proactiva Open Arms](assets/109486b7f623/0*76Yg75DdQpOf8ODs)
+![Proactiva Open Arms](../assets/109486b7f623/0*76Yg75DdQpOf8ODs)
 
 Proactiva Open Arms
 ### Criminalisation of sea rescue continues
@@ -42,7 +42,7 @@ MSF has already been forced to stop search and rescue operations in the Mediterr
 ### Alarmphone warns of dangerous situation near Morocco
 
 
-![Photo by Alarmphone](assets/109486b7f623/0*DGSiwUTpHLTDlEr3)
+![Photo by Alarmphone](../assets/109486b7f623/0*DGSiwUTpHLTDlEr3)
 
 Photo by Alarmphone
 
@@ -59,7 +59,7 @@ The Nador [Association Marocaine des Droits Humains](https://www.facebook.com/Am
 ### Protest against migration compact in Marrakesh
 
 
-![Photo by Alarm Phone](assets/109486b7f623/0*8QtcRbaVtjKgHEKl)
+![Photo by Alarm Phone](../assets/109486b7f623/0*8QtcRbaVtjKgHEKl)
 
 Photo by Alarm Phone
 
@@ -94,7 +94,7 @@ Help Refugees says temperatures in Calais are dropping to lows of \-3°C this we
 It says emergency accommodation centres need to be opened to protect people before the temperatures plummet even further and is asking for [material](http://choose.love/) or financial donations\. Their teams are looking to prevent hypothermia for refugees sleeping on the streets and woods of Calais while the Refugee Community Kitchen continues to provide hot food\.
 
 
-![Photo by Refugee Women’s Centre](assets/109486b7f623/0*vRKTGmdjA8gHDTrL)
+![Photo by Refugee Women’s Centre](../assets/109486b7f623/0*vRKTGmdjA8gHDTrL)
 
 Photo by Refugee Women’s Centre
 

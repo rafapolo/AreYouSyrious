@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 5/6/19: How Germany’s immigration law harms asylum seekers
+title: "AYS Daily Digest 5/6/19: How Germany’s immigration law harms asylum seekers"
 author: Are You Syrious?
 date: 2019-06-06T01:37:29.171+0100
 last_modified_at: 2019-06-06T19:41:49.546+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,germany,denmark,uk,digest]
 description: Parliament will decide about new regulation on Friday / Violence and intimidations in Bavarian camp / Busy and hard day at sea, as many…
 image:
-  path: assets/a697d3486661/1*yZrg-QOPXhcoBDzgQmhwGw.jpeg
+  path: ../assets/a697d3486661/1*yZrg-QOPXhcoBDzgQmhwGw.jpeg
 ---
 
 ### AYS Daily Digest 5/6/19: How Germany’s immigration law harms asylum seekers
 #### Parliament will decide about new regulation on Friday / Violence and intimidations in Bavarian camp / Busy and hard day at sea, as many people arrive / Suicide in Ellebæk camp
 
 
-![[Solidarity City Cologne](https://www.facebook.com/SolCityCologne/?tn-str=k%2AF) ’s photo from the announced event on June 7 \(Friday\) : ‎ [Nein zum Hau\-ab\-Gesetz\! Schreib an deine Bundestagsabgeordneten\!](https://www.facebook.com/events/323570415256235/?acontext=%7B%22ref%22%3A%22106%22%2C%22action_history%22%3A%22null%22%7D) — Join in\!](assets/a697d3486661/1*yZrg-QOPXhcoBDzgQmhwGw.jpeg)
+![[Solidarity City Cologne](https://www.facebook.com/SolCityCologne/?tn-str=k%2AF) ’s photo from the announced event on June 7 \(Friday\) : ‎ [Nein zum Hau\-ab\-Gesetz\! Schreib an deine Bundestagsabgeordneten\!](https://www.facebook.com/events/323570415256235/?acontext=%7B%22ref%22%3A%22106%22%2C%22action_history%22%3A%22null%22%7D) — Join in\!](../assets/a697d3486661/1*yZrg-QOPXhcoBDzgQmhwGw.jpeg)
 
 [Solidarity City Cologne](https://www.facebook.com/SolCityCologne/?tn-str=k%2AF) ’s photo from the announced event on June 7 \(Friday\) : ‎ [Nein zum Hau\-ab\-Gesetz\! Schreib an deine Bundestagsabgeordneten\!](https://www.facebook.com/events/323570415256235/?acontext=%7B%22ref%22%3A%22106%22%2C%22action_history%22%3A%22null%22%7D) — Join in\!
 ### Featured: Germany’s proposed immigration law

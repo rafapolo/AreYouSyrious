@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 16/08/17: Discussing “migrants health” with Libya, who aren’t really famous for…
+title: "AYS Daily Digest 16/08/17: Discussing “migrants health” with Libya, who aren’t really famous for…"
 author: Are You Syrious?
 date: 2017-08-17T00:06:27.730+0100
 last_modified_at: 2017-08-29T00:49:55.620+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,france,libya,greece,spain]
 description: People saved in the Mediterranean by few remaining NGOs / Suicide bombers kills 28 people in Nigeria / Volunteers needed in Athens and…
 image:
-  path: assets/866bf266cd80/1*6L2y-l-gIYhf0QF0zHF2jg.jpeg
+  path: ../assets/866bf266cd80/1*6L2y-l-gIYhf0QF0zHF2jg.jpeg
 ---
 
 ### AYS Daily Digest 16/08/17: Discussing “migrants health” with Libya, who aren’t really famous for providing it
@@ -15,7 +15,7 @@ image:
 _People saved in the Mediterranean by few remaining NGOs / Suicide bombers kills 28 people in Nigeria / Volunteers needed in Athens and Dunkirk / New project for women in Greece / Increase in arrivals to Spain / Deportation in Finland stopped / Stockholm sit\-in develops as schools starts again / And more news…_
 
 
-![Photo: [Art Against](https://www.facebook.com/artagainstproject/) / by: Gary Waters](assets/866bf266cd80/1*6L2y-l-gIYhf0QF0zHF2jg.jpeg)
+![Photo: [Art Against](https://www.facebook.com/artagainstproject/) / by: Gary Waters](../assets/866bf266cd80/1*6L2y-l-gIYhf0QF0zHF2jg.jpeg)
 
 Photo: [Art Against](https://www.facebook.com/artagainstproject/) / by: Gary Waters
 #### Feature
@@ -53,11 +53,11 @@ If it wasn’t for the suffering it causes it would almost be funny how far away
 [SOS MEDITERRANEE France](https://www.facebook.com/sosmedfrance/) is also still out at the Mediterranean and at Aquarius\. According to them it was 112 people onboard and 11 children\. They took them to a safe Italian harbour where they finally could put their feets on the ground again\.
 
 
-![](assets/866bf266cd80/1*DaIB6Z2jrtlLC5qGy0OzlQ.jpeg)
+![](../assets/866bf266cd80/1*DaIB6Z2jrtlLC5qGy0OzlQ.jpeg)
 
 
 
-![Photos: Narciso Contreras\.](assets/866bf266cd80/1*sDAGdj7FuQAgGCHuIFqBBQ.jpeg)
+![Photos: Narciso Contreras\.](../assets/866bf266cd80/1*sDAGdj7FuQAgGCHuIFqBBQ.jpeg)
 
 Photos: Narciso Contreras\.
 
@@ -124,11 +124,11 @@ In Athens, [Earth Refugee](https://www.facebook.com/EarthRefugee/?ref=gs&hc_ref=
 If anyone wanna see the transformation that has been ongoing for several weeks, [check it out on facebook](https://m.facebook.com/story.php?story_fbid=495481947456865&id=219418945063168&fref=gc&hc_location=ufi) \.
 
 
-![](assets/866bf266cd80/1*TZ5bkDx60PJQgtwtltuL6Q.jpeg)
+![](../assets/866bf266cd80/1*TZ5bkDx60PJQgtwtltuL6Q.jpeg)
 
 
 
-![Photo: [InterVolve](https://www.facebook.com/InterVolve-219418945063168/?hc_ref=ARQk5KLaeECHo1S53v8rCSxGdQ-Xs2yNHXtmiYSI7onLRPjWLeoJXrVIkXE0pYmA0t4)](assets/866bf266cd80/1*dWgqUNmdsy0L7TuEINwqCQ.jpeg)
+![Photo: [InterVolve](https://www.facebook.com/InterVolve-219418945063168/?hc_ref=ARQk5KLaeECHo1S53v8rCSxGdQ-Xs2yNHXtmiYSI7onLRPjWLeoJXrVIkXE0pYmA0t4)](../assets/866bf266cd80/1*dWgqUNmdsy0L7TuEINwqCQ.jpeg)
 
 Photo: [InterVolve](https://www.facebook.com/InterVolve-219418945063168/?hc_ref=ARQk5KLaeECHo1S53v8rCSxGdQ-Xs2yNHXtmiYSI7onLRPjWLeoJXrVIkXE0pYmA0t4)
 
@@ -180,7 +180,7 @@ Between January and July 2017, 7,642 migrants arrived in Spain by sea, against 2
 No One is Illegal had arranged a summer camp for multinational volunteers to be held at Labas Bologna Italy from August 21st for two weeks, however it was raided last week by police and closed down\. Unfortunately, the summer camp is now cancelled\. The plan was to renovate a kitchen, classroom and other rooms to make it habitable for refugees, but also for Bologna’s homeless people\.
 
 
-![Photo: No one is Illegal, Italy](assets/866bf266cd80/1*Ra8rBxheE6lCwI00jCht0g.jpeg)
+![Photo: No one is Illegal, Italy](../assets/866bf266cd80/1*Ra8rBxheE6lCwI00jCht0g.jpeg)
 
 Photo: No one is Illegal, Italy
 
@@ -202,7 +202,7 @@ The judge in the court in Bari, south Italy, decided to close a CIE\. A CIE is a
 [Volunteers needed](https://www.facebook.com/groups/1287497308029047/permalink/1291047414340703/) in Dunkirk\! Get in touch with [Dunkirk Refugee Ground Support Network](https://www.facebook.com/groups/1287497308029047/) if you wanna join them\.
 
 
-![Photo: [Isis Aurora Mera](https://www.facebook.com/isis.mera?fref=gs&hc_ref=ARRSG_w0eylQXv6CBsydztvLhJESUcycc7rry607uyhAXG0gjLBb3uocUrO_pQTpRSo&hc_location=group_member_profile)](assets/866bf266cd80/1*bJwJqcUHvjBZHRKoO6XQlw.jpeg)
+![Photo: [Isis Aurora Mera](https://www.facebook.com/isis.mera?fref=gs&hc_ref=ARRSG_w0eylQXv6CBsydztvLhJESUcycc7rry607uyhAXG0gjLBb3uocUrO_pQTpRSo&hc_location=group_member_profile)](../assets/866bf266cd80/1*bJwJqcUHvjBZHRKoO6XQlw.jpeg)
 
 Photo: [Isis Aurora Mera](https://www.facebook.com/isis.mera?fref=gs&hc_ref=ARRSG_w0eylQXv6CBsydztvLhJESUcycc7rry607uyhAXG0gjLBb3uocUrO_pQTpRSo&hc_location=group_member_profile)
 #### UK
@@ -218,11 +218,11 @@ _Much love,_
 _The FWRD team xxx””_
 
 
-![](assets/866bf266cd80/1*xUV2I_LgqooRjv1kfUjL_A.jpeg)
+![](../assets/866bf266cd80/1*xUV2I_LgqooRjv1kfUjL_A.jpeg)
 
 
 
-![Photo: [FWRD — Festival Waste Reclamation and Distribution](https://www.facebook.com/fwrdtogether/)](assets/866bf266cd80/1*i6KhQrQdNrVQ8vXFxbUN5g.jpeg)
+![Photo: [FWRD — Festival Waste Reclamation and Distribution](https://www.facebook.com/fwrdtogether/)](../assets/866bf266cd80/1*i6KhQrQdNrVQ8vXFxbUN5g.jpeg)
 
 Photo: [FWRD — Festival Waste Reclamation and Distribution](https://www.facebook.com/fwrdtogether/)
 #### Finland
@@ -245,7 +245,7 @@ Still the opions are divided, some say that it isn not safe enough to deport peo
 At 8 pm this evening Fatemeh Khavari, held a meeting with information about the next step in the sit in\. It wasn’t for press in first hand but mainly for those withing to both continue protesting and continue attending school, since they all want a future and are aware about how important school is for that\. The topic tonight was guidelines for doing so, among other things, one of the guidelines is to sit down at the floor during breaks\.
 
 
-![Fatemeh has everyones attention when she speaks to the crowd in the megaphone\. Photo: AYS](assets/866bf266cd80/1*NvBOqzxClET94_osI7-DnQ.jpeg)
+![Fatemeh has everyones attention when she speaks to the crowd in the megaphone\. Photo: AYS](../assets/866bf266cd80/1*NvBOqzxClET94_osI7-DnQ.jpeg)
 
 Fatemeh has everyones attention when she speaks to the crowd in the megaphone\. Photo: AYS
 

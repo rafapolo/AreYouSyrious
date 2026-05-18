@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 14/3/22: Discrimination of the stateless people fleeing Ukraine indicative of the…
+title: "AYS News Digest 14/3/22: Discrimination of the stateless people fleeing Ukraine indicative of the…"
 author: Are You Syrious?
 date: 2022-03-15T15:41:15.840+0000
 last_modified_at: 2022-03-15T15:41:15.840+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,ukraine,refugees,europe,un]
 description: Inhuman treatment face deportees from Algeria to Niger / Hunger catastrophe looms for 161,000 Yemenis as global food supply deteriorates /…
 image:
-  path: assets/afca05582e69/1*F0MuIvtnNpyKIyQiFPM_kQ.jpeg
+  path: ../assets/afca05582e69/1*F0MuIvtnNpyKIyQiFPM_kQ.jpeg
 ---
 
 ### AYS News Digest 14/3/22: Discrimination of the stateless people fleeing Ukraine indicative of the EU States treatment
 #### Inhuman treatment face deportees from Algeria to Niger / Hunger catastrophe looms for 161,000 Yemenis as global food supply deteriorates / situation at the Polish\-Belarusian border is still alarming / Mixed Migration weekly report / this week’s recommended events, reads and more
 
 
-![Here just to draw your attention to other more important things in the Digest \(Photo via Jeff Crisp\)](assets/afca05582e69/1*F0MuIvtnNpyKIyQiFPM_kQ.jpeg)
+![Here just to draw your attention to other more important things in the Digest \(Photo via Jeff Crisp\)](../assets/afca05582e69/1*F0MuIvtnNpyKIyQiFPM_kQ.jpeg)
 
 Here just to draw your attention to other more important things in the Digest \(Photo via Jeff Crisp\)
 
@@ -201,7 +201,7 @@ Reliefweb report [here](https://l.facebook.com/l.php?u=https%3A%2F%2Freliefweb.i
 March 16, 17:00h CET
 
 
-![](assets/afca05582e69/0*r8eoDfyQKZREuwUL)
+![](../assets/afca05582e69/0*r8eoDfyQKZREuwUL)
 
 
 This is the first webinar of the webinar series “Resisting the normalization of Push\-Backs”\. We will be discussing different cases of legal mitigation against documented Push\-Back cases around Europe and explore the strategic importance of documentation and legal mitigation for stopping these inhumane practices\. A discussion with Petra Leschatz \(Push\-Back Alarm Austria\) , Gianfranco Schiavone \(ASGI\)
@@ -212,7 +212,7 @@ Register here:
 ### **Open Assembly against Pushbacks and Border Violence**
 
 
-![](assets/afca05582e69/0*hV_x0vU3fcKbD-rS)
+![](../assets/afca05582e69/0*hV_x0vU3fcKbD-rS)
 
 
 

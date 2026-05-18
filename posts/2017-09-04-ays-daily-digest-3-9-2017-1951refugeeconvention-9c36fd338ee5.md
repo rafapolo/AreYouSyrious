@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 3/9/2017: #1951RefugeeConvention
+title: "AYS DAILY DIGEST 3/9/2017: #1951RefugeeConvention"
 author: Are You Syrious?
 date: 2017-09-04T11:01:03.651+0100
 last_modified_at: 2017-09-07T11:53:57.715+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,lesvos,italy,bulgaria,afghanistan]
 description: Due to restrictive measures number of people arrived in Italy decreased// At the same time, number of people in detention in Libya is…
 image:
-  path: assets/9c36fd338ee5/1*p7Al7TBBX8TcItlGo1E4Rg.jpeg
+  path: ../assets/9c36fd338ee5/1*p7Al7TBBX8TcItlGo1E4Rg.jpeg
 ---
 
 ### AYS DAILY DIGEST 3/9/2017: \#1951RefugeeConvention
@@ -15,7 +15,7 @@ image:
 _Due to restrictive measures number of people arrived in Italy decreased// At the same time, number of people in detention in Libya is increasing every day // Huge gaps in Spanish reception system // New protests on Lesvos // Do not forget — every child has a right to go to school\! \! \! \! // At least 600 people on the streets of the EU capital // Important info for people from Afghanistan seeking asylum_
 
 
-![Refugee 2018 By Luc Descheemaeker [\#openeuborders](https://www.facebook.com/hashtag/openeuborders) , [\#refugeeswelcome](https://www.facebook.com/hashtag/refugeeswelcome) , [\#NOborders](https://www.facebook.com/hashtag/noborders) By Art Against](assets/9c36fd338ee5/1*p7Al7TBBX8TcItlGo1E4Rg.jpeg)
+![Refugee 2018 By Luc Descheemaeker [\#openeuborders](https://www.facebook.com/hashtag/openeuborders) , [\#refugeeswelcome](https://www.facebook.com/hashtag/refugeeswelcome) , [\#NOborders](https://www.facebook.com/hashtag/noborders) By Art Against](../assets/9c36fd338ee5/1*p7Al7TBBX8TcItlGo1E4Rg.jpeg)
 
 Refugee 2018 By Luc Descheemaeker [\#openeuborders](https://www.facebook.com/hashtag/openeuborders) , [\#refugeeswelcome](https://www.facebook.com/hashtag/refugeeswelcome) , [\#NOborders](https://www.facebook.com/hashtag/noborders) By Art Against
 ### Italy
@@ -25,7 +25,7 @@ During the August, number of new arrivals to Italy by sea dropped down to 82 per
 However, IOM and UNHCR data are showing that hundreds of thousands of people in Libya, hoping to cross soon\. Many held in detention like facilities and exposed to all kind of abuse, including sexual violence and torture\. Some reports are saying that over 85 percent of people who cross the sea from Libya were subjected to different types of torture in that country\. This data and pictures published from some of the places of detention are not enough for European politicians to become more humane\.
 
 
-![](assets/9c36fd338ee5/1*8rzRN5Oa2lpLjCltq_ai8Q.jpeg)
+![](../assets/9c36fd338ee5/1*8rzRN5Oa2lpLjCltq_ai8Q.jpeg)
 
 
 In Rome, [according to La Repubblica daily](http://roma.repubblica.it/…/roma_indagata_per_lesioni_agg…/…) , group of people who celebrated Aid was exposed to attack and insults by a right wing group\.
@@ -57,7 +57,7 @@ A number of new arrivals are rising every day\. Eric Kempson, one of the activis
 A number of people who are arriving at Leros also increased\. With the new arrivals from the last night, it is over 350 this month\. As on the other islands, even Leros is overcrowded and volunteers there are fighting with the endurance, the hardships, the dead ends\. Most of the people who are helping to new arrivals are locals who not only provide first aid but share love and solidarity\.
 
 
-![](assets/9c36fd338ee5/1*MDd8EMNFJ7ObMrGIwwo_HA.jpeg)
+![](../assets/9c36fd338ee5/1*MDd8EMNFJ7ObMrGIwwo_HA.jpeg)
 
 
 A number of people in Athens are also again high, and many need help\. [A solidarity group will start with collective cooking](https://www.facebook.com/groups/204202716585823/permalink/519040215102070/?fref=gc&dti=1652972374920129&hc_location=ufi) again form Sunday 10/9 at 16:00 in Koumoundourou Square\. In order to do this, they need your help\. Contact them for more information with a comment or message on their FB\.
@@ -75,7 +75,7 @@ Many people are held in Moria for over 18 months, with no clear explanation why 
 _“Wake up in a crowded container shared with 28 friends, queue for four hours a day to collect two meager meals of gritty broth or processed bread, and spend the rest of the time returning again and again to the asylum services to hear no progress has been made in your case\. “There’s a schedule for food,” he said, “but nothing for our asylum claims\. There is no asylum system\. Said Hashmatullah explained that many of his compatriots had been waiting on Lesvos for over a year without hearing a decision\. “The children can’t get an education, the adults can’t study or work,” he said\. “They just sit, queue for food, and eat, nothing else\. The people are going crazy as a result\. They are ready to kill themselves\.”_
 
 
-![](assets/9c36fd338ee5/1*adh3GZivI_JxXV4v4fTSfQ.jpeg)
+![](../assets/9c36fd338ee5/1*adh3GZivI_JxXV4v4fTSfQ.jpeg)
 
 
 [Arash Hampey](https://www.facebook.com/1951RefugeeConvention/posts/1568251126560949) , an activist in Iran, is trying now for months to draw the international attention to Lesvos and living conditions of people there\. He reminds on 1951 Refugee Convention ratified by 145 state parties which define the term ‘refugee,’ outlines the rights of the displaced, as well as the legal obligations of states to protect them\.
@@ -133,7 +133,7 @@ If you’re going to a school alone and you don’t speak Greek or English, you 
 Among many other activities, Mosaik Support Center at Mytilene offers guitar classes\. [Check their FB page for more](https://www.facebook.com/mosaiksupportcenter/?hc_ref=ART-w63yo1PEHBjUCIkxPru8RhoS2Lx4b72Mri66Fg6uG_KJMgdOKkLY7l7xvfo3sng&fref=nf) info\.
 
 
-![Photo by Mosiak Support center\.](assets/9c36fd338ee5/1*ssREfoASKZROUZfru-T2ww.jpeg)
+![Photo by Mosiak Support center\.](../assets/9c36fd338ee5/1*ssREfoASKZROUZfru-T2ww.jpeg)
 
 Photo by Mosiak Support center\.
 
@@ -146,19 +146,19 @@ For information please check [www\.asmpeiraia\.gr](http://www.asmpeiraia.gr) or 
 [Khora center](https://www.facebook.com/KhoraAthens/posts/761749793997631?fref=gc&dti=1652972374920129&hc_location=ufi) in Athens also offers language classes, and much more\.
 
 
-![](assets/9c36fd338ee5/1*YbuNonXyHAhMXCaxvol5hQ.jpeg)
+![](../assets/9c36fd338ee5/1*YbuNonXyHAhMXCaxvol5hQ.jpeg)
 
 
 
-![](assets/9c36fd338ee5/1*-mquL3LKKVCLzsI7PiXCxg.jpeg)
+![](../assets/9c36fd338ee5/1*-mquL3LKKVCLzsI7PiXCxg.jpeg)
 
 
 
-![](assets/9c36fd338ee5/1*T2H71rrqjkS_Fme3E8VT0Q.jpeg)
+![](../assets/9c36fd338ee5/1*T2H71rrqjkS_Fme3E8VT0Q.jpeg)
 
 
 
-![](assets/9c36fd338ee5/1*JqvbCwP0HJZxm4qlX6xFkA.jpeg)
+![](../assets/9c36fd338ee5/1*JqvbCwP0HJZxm4qlX6xFkA.jpeg)
 
 ### Bulgaria
 
@@ -176,7 +176,7 @@ A very disturbing image and the information are coming from this country\. A you
 People from [LGBT Asylum Support](https://www.facebook.com/LGBTAsylumSupport/) group visited him not only to support him morally but also to ask him not to take this action and to put his life at stake\.
 
 
-![](assets/9c36fd338ee5/1*QepbTgFM4h-lCgkYqRk7uA.jpeg)
+![](../assets/9c36fd338ee5/1*QepbTgFM4h-lCgkYqRk7uA.jpeg)
 
 
 According to their report, he has a Dublin claim France and is afraid of what will happen to him\. Now, they are looking to find him a new lawyer that will help with his case\.

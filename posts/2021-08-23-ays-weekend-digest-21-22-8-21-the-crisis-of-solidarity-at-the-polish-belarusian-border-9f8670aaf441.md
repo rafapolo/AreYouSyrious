@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 21–22/8/21: The crisis of solidarity at the Polish-Belarusian border
+title: "AYS Weekend Digest 21–22/8/21: The crisis of solidarity at the Polish-Belarusian border"
 author: Are You Syrious?
 date: 2021-08-23T18:07:09.460+0100
 last_modified_at: 2021-08-23T19:58:11.773+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,belarus,afghanistan,europe]
 description: On walls and fences across borders of Turkey and Greece / Countering deportations to Afghanistan — Italian national body for monitoring…
 image:
-  path: assets/9f8670aaf441/0*QrZPqzkAC_F8GQWO
+  path: ../assets/9f8670aaf441/0*QrZPqzkAC_F8GQWO
 ---
 
 ### AYS Weekend Digest 21–22/8/21: The crisis of solidarity at the Polish\-Belarusian border
 #### On walls and fences across the borders of Turkey and Greece / Countering deportations to Afghanistan — Italian national body for monitoring forced repatriation recalls the international protection obligations to which Italy is bound / Britain insisting on using offshore processing centers to accommodate \(imprison\) Afghans / & more news and updates
 
 
-![All rights reserved — Photo by: Jakub Kaminski, used via [InfoMigrants](https://www.facebook.com/InfoMigrants/?__cft__[0]=AZUm4Tyq4C1Ce8HPq5wEY_yaqRhmftLsFjyoV8MARdI0pi197_7YcEAhoaIjYQB13kb-B_Zx3cqPN-ZAOcKQFmhRaccHJ_TMJFdYVDRS04Hxxd51kl-JA2fICUJQ2M2QFBz4nXt3dCW3L--fck2hGrA3&__tn__=-UC*F) — border guards from Belarus preventing people from returning and Polish border guards not letting them into Poland\.](assets/9f8670aaf441/0*QrZPqzkAC_F8GQWO)
+![All rights reserved — Photo by: Jakub Kaminski, used via [InfoMigrants](https://www.facebook.com/InfoMigrants/?__cft__[0]=AZUm4Tyq4C1Ce8HPq5wEY_yaqRhmftLsFjyoV8MARdI0pi197_7YcEAhoaIjYQB13kb-B_Zx3cqPN-ZAOcKQFmhRaccHJ_TMJFdYVDRS04Hxxd51kl-JA2fICUJQ2M2QFBz4nXt3dCW3L--fck2hGrA3&__tn__=-UC*F) — border guards from Belarus preventing people from returning and Polish border guards not letting them into Poland\.](../assets/9f8670aaf441/0*QrZPqzkAC_F8GQWO)
 
 All rights reserved — Photo by: Jakub Kaminski, used via [InfoMigrants](https://www.facebook.com/InfoMigrants/?__cft__[0]=AZUm4Tyq4C1Ce8HPq5wEY_yaqRhmftLsFjyoV8MARdI0pi197_7YcEAhoaIjYQB13kb-B_Zx3cqPN-ZAOcKQFmhRaccHJ_TMJFdYVDRS04Hxxd51kl-JA2fICUJQ2M2QFBz4nXt3dCW3L--fck2hGrA3&__tn__=-UC*F) — border guards from Belarus preventing people from returning and Polish border guards not letting them into Poland\.
 #### FEATURE
@@ -76,7 +76,7 @@ Afghans in Thessaloniki held a protest calling for support:
 ### Closing up with more walls
 
 
-![Fearing the arrival of hundreds of thousands of refugees from Afghanistan, Turkey has started to build a heavily fortified wall with the hopes of stopping undocumented migration, [media report](https://english.alaraby.co.uk/news/turkey-bolsters-iran-border-wall-stop-afghan-refugees?fbclid=IwAR265Km9Ok59DqQq3KOq8tkm2zr-LnFnCWxC1RytFK48TegiaPJ1Tozmn8s) \.](assets/9f8670aaf441/0*ElCuMhOO3_u-yZWJ)
+![Fearing the arrival of hundreds of thousands of refugees from Afghanistan, Turkey has started to build a heavily fortified wall with the hopes of stopping undocumented migration, [media report](https://english.alaraby.co.uk/news/turkey-bolsters-iran-border-wall-stop-afghan-refugees?fbclid=IwAR265Km9Ok59DqQq3KOq8tkm2zr-LnFnCWxC1RytFK48TegiaPJ1Tozmn8s) \.](../assets/9f8670aaf441/0*ElCuMhOO3_u-yZWJ)
 
 Fearing the arrival of hundreds of thousands of refugees from Afghanistan, Turkey has started to build a heavily fortified wall with the hopes of stopping undocumented migration, [media report](https://english.alaraby.co.uk/news/turkey-bolsters-iran-border-wall-stop-afghan-refugees?fbclid=IwAR265Km9Ok59DqQq3KOq8tkm2zr-LnFnCWxC1RytFK48TegiaPJ1Tozmn8s) \.
 
@@ -140,7 +140,7 @@ There were 22 people on the boat\. The patrol boats found five people, including
 ### More walls and fences…
 
 
-![](assets/9f8670aaf441/0*dyqUqI_igmakxvp6)
+![](../assets/9f8670aaf441/0*dyqUqI_igmakxvp6)
 
 
 There are 11 cameras which can see 15km into Turkish territory, and of course, drones to deter people from crossing\. These are just some details of the infamous 25–27 km fence, [fiercely defended](https://www.theguardian.com/world/video/2021/aug/21/greek-minister-defends-wall-on-border-with-turkey-during-afghan-crisis-video?fbclid=IwAR2eQe2RoYdiH6hbYeefaMRCYjBjtYvZGV1IKFp9_WkvgWF-9SAsbrTuZFY) by the officials, described in detail through six [points](https://www.ethnos.gr/politiki/128955_froyrio-me-6-kiniseis-o-ebros-frahtis-ihobolistika-tethorakismena-paratiritiria) by the Greek media\.
@@ -246,11 +246,11 @@ Di fronte al tragico evolversi della situazione il Garante, in qualità di organ
 A large mobilization of the Moroccan gendarmerie was seen in the area, AMDH reports\. They also noted that there is big media pressure to create an impression that there is an imminent threat at the Melilla crossing, while there are no big groups as in the previous years\.
 
 
-![](assets/9f8670aaf441/0*h2HMgi2kkMRXdmgX)
+![](../assets/9f8670aaf441/0*h2HMgi2kkMRXdmgX)
 
 
 
-![Photos: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?__cft__[0]=AZVY0jGyZuxrMbyMDZaCWxVfdmKzAMbzosKtN8F_LnXc2aGvRP5KV2oqulpFx7WfGGIY5zvEmJoogOUZgltffZIKMF2sgJkuoYAYMJXNFEHgoCY1z5Fh_Ror4pasGI8aLRUAIMFod1J6DXUcIY57D9ap&__tn__=-UC%2CP-R)](assets/9f8670aaf441/0*kQcY8XBoKV74gfu7)
+![Photos: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?__cft__[0]=AZVY0jGyZuxrMbyMDZaCWxVfdmKzAMbzosKtN8F_LnXc2aGvRP5KV2oqulpFx7WfGGIY5zvEmJoogOUZgltffZIKMF2sgJkuoYAYMJXNFEHgoCY1z5Fh_Ror4pasGI8aLRUAIMFod1J6DXUcIY57D9ap&__tn__=-UC%2CP-R)](../assets/9f8670aaf441/0*kQcY8XBoKV74gfu7)
 
 Photos: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?__cft__[0]=AZVY0jGyZuxrMbyMDZaCWxVfdmKzAMbzosKtN8F_LnXc2aGvRP5KV2oqulpFx7WfGGIY5zvEmJoogOUZgltffZIKMF2sgJkuoYAYMJXNFEHgoCY1z5Fh_Ror4pasGI8aLRUAIMFod1J6DXUcIY57D9ap&__tn__=-UC%2CP-R)
 

@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 5/10/22: Escaping the arbitrary detention
+title: "AYS News Digest 5/10/22: Escaping the arbitrary detention"
 author: Are You Syrious?
 date: 2022-10-06T20:27:26.877+0100
 last_modified_at: 2022-10-07T03:47:16.296+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,detention,refugees,europe,uk]
 description: 48 people safe on board Louise Michel / Shipwreck in the Aegean, at least five dead / Pakistani asylum seekers protest in Italy /…
 image:
-  path: assets/8eb43628fd0b/0*2Mbt-ml6cuDxY_KV.jpg
+  path: ../assets/8eb43628fd0b/0*2Mbt-ml6cuDxY_KV.jpg
 ---
 
 ### AYS News Digest 5/10/22: Escaping the arbitrary detention
 #### 48 people safe on board Louise Michel / Shipwreck in the Aegean, at least five dead / Pakistani asylum seekers protest in Italy / Interesting story from the south of Italy / More evictions in France / UK decisive on deportations and insisting on ruthless public rhetoric / & other interesting reads and important news
 
 
-![Image via [**Getting the Voice Out**](https://www.gettingthevoiceout.org/)](assets/8eb43628fd0b/0*2Mbt-ml6cuDxY_KV.jpg)
+![Image via [**Getting the Voice Out**](https://www.gettingthevoiceout.org/)](../assets/8eb43628fd0b/0*2Mbt-ml6cuDxY_KV.jpg)
 
 Image via [**Getting the Voice Out**](https://www.gettingthevoiceout.org/)
 #### FEATURE
@@ -87,7 +87,7 @@ They have reportedly been refused entry into the local reception center again an
 Local activists and organisations are helping them with basic things, support and dencouncing the unfairness of the situation, but who is responsible for whatever happens next?
 
 
-![](assets/8eb43628fd0b/0*TzqKnGO3JetN1GvK)
+![](../assets/8eb43628fd0b/0*TzqKnGO3JetN1GvK)
 
 
 

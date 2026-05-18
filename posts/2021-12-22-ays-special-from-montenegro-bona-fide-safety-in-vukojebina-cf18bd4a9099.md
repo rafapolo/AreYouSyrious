@@ -1,13 +1,13 @@
 ---
-title: AYS Special from Montenegro: Bona Fide, Safety in Vukojebina
+title: "AYS Special from Montenegro: Bona Fide, Safety in Vukojebina"
 author: Are You Syrious?
 date: 2021-12-22T15:51:32.823+0000
 last_modified_at: 2022-01-10T16:49:05.331+0000
 categories: Are You Syrious?
 tags: [montengro,bona-fide,pljevlja,refugees,special]
-description: This is the first of our Winter Break Specials: a report by Helen Tennyson on the Bona Fide safe house in northern Montengro.
+description: "This is the first of our Winter Break Specials: a report by Helen Tennyson on the Bona Fide safe house in northern Montengro."
 image:
-  path: assets/cf18bd4a9099/1*anXNQ6zZcapari6cdZZeEQ.jpeg
+  path: ../assets/cf18bd4a9099/1*anXNQ6zZcapari6cdZZeEQ.jpeg
 ---
 
 ### AYS Special from Montenegro: Bona Fide, **Safety in Vukojebina**
@@ -15,7 +15,7 @@ image:
 **_This is the first of our Winter Break Specials: a report by Helen Tennyson on the Bona Fide safe house in northern Montenegro\. A long\-lasting sanctuary open to everyone in need, in the face of mounting fascism and xenophobia in the region and all over Europe\._**
 
 
-![Photo Credit: Helen Tennyson](assets/cf18bd4a9099/1*anXNQ6zZcapari6cdZZeEQ.jpeg)
+![Photo Credit: Helen Tennyson](../assets/cf18bd4a9099/1*anXNQ6zZcapari6cdZZeEQ.jpeg)
 
 Photo Credit: Helen Tennyson
 
@@ -34,7 +34,7 @@ People arrive here most days, migrating from various countries, and they must tr
 On a small street near the centre of town, slightly set back from the road, a small house sits unassumingly\. ‘Bona Fide’ is a safe house run by Sabina \(Mama Sabina to those who have met her for she is a mother to all\) that does whatever it can to help people in the region; working to provide shelter, safety, food, hot showers and medical attention\. There are no stipulations\. Anyone in need can access these services at any time, for as long as they need\. If there is no room in the bedrooms, people sleep on the floor\. If the floor is full, people go to her brother’s house\. The only time she has to say no to anyone is due to political and police pressure, or when there is no money to provide anything\.
 
 
-![Bona Fide Safehouse\. Photo Credit: Helen Tennyson](assets/cf18bd4a9099/1*JKcCXJJNWCrih-Jet5P7lw.jpeg)
+![Bona Fide Safehouse\. Photo Credit: Helen Tennyson](../assets/cf18bd4a9099/1*JKcCXJJNWCrih-Jet5P7lw.jpeg)
 
 Bona Fide Safehouse\. Photo Credit: Helen Tennyson
 
@@ -43,13 +43,13 @@ Montenegro has been trying to gain EU membership since it became a country in 20
 Socially, due to the shared borders and shared histories, there are strong Serbian nationalist sentiments in Pljevlja that have been expressed in Islamophobic action, more publicly so after the Montenegrin parliamentary elections in September 2020\. The current Montenegrin government is pro Serb and nationalist, and the dark shadow of fascism is beginning to creep into well\-lit areas of life in the town\. Bona Fide has had all funding to the organisation cut, including access to coal, without which they cannot heat the house\. There are [reports of the expansion of Serbian controlled media](https://balkaninsight.com/2021/12/06/serbian-media-step-up-presence-in-montenegro-causing-concern/) in the country, which is worrying for those who do not see eye\-to\-eye with the Serb agenda\.
 
 
-![](assets/cf18bd4a9099/1*I9-SMTrdUl730OstijlRVg.jpeg)
+![](../assets/cf18bd4a9099/1*I9-SMTrdUl730OstijlRVg.jpeg)
 
 
 The most concerning element to me is the public acceptance of demonstrations in support of fascism\. Nationalist rallies and banners are becoming more and more frequent\. In November, [someone used physical violence and language](https://www.standard.co.me/hronika/video-provokacija-u-pljevljima-mahao-srpskom-zastavom-ispred-dzamije-pa-napao-aktivistkinju-sigurne-zenske-kuce) to project their political agenda at a festival day, resulting in a physical assault on Sabina\. The perpetrator, who also attempted to grab a police weapon, was arrested but not prosecuted\. Although an isolated incident, actions like this are commonplace across the Balkans and increasingly Montenegro, and specifically target and intimidate Muslim and Bosniak peoples\. Nationalist graffiti are common across the city and local activists have experienced significant repression by the local community — Sabina herself having been specifically targeted numerous times\. She has been accused of housing terrorists by her neighbours\. The political climate here has driven Muslims almost entirely out of the area, which leaves those transiting through more exposed to harm\.
 
 
-![Morgan, Azra, Sabina, Helen\. Photo Credit: Helen Tennyson](assets/cf18bd4a9099/1*zJ6rhwEK0y3ucZsk_X6-5A.jpeg)
+![Morgan, Azra, Sabina, Helen\. Photo Credit: Helen Tennyson](../assets/cf18bd4a9099/1*zJ6rhwEK0y3ucZsk_X6-5A.jpeg)
 
 Morgan, Azra, Sabina, Helen\. Photo Credit: Helen Tennyson
 

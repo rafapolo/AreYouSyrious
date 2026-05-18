@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 06/09/2018: Another eviction in Dunkirk area
+title: "AYS Daily Digest 06/09/2018: Another eviction in Dunkirk area"
 author: Are You Syrious?
 date: 2018-09-07T11:21:09.919+0100
 last_modified_at: 2018-09-07T17:15:27.121+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,france,libya]
 description: Police have removed any signs of the presence of the 500 people in the Grande-Synthe area in the north of France / Refugees in Italy face…
 image:
-  path: assets/1e352d5459d7/1*Fk_pLSW_Sl26v-rwGMKZSg.jpeg
+  path: ../assets/1e352d5459d7/1*Fk_pLSW_Sl26v-rwGMKZSg.jpeg
 ---
 
 ### AYS Daily Digest 06/09/2018: Another eviction in Dunkirk area
@@ -15,7 +15,7 @@ image:
 _Police have removed any signs of the presence of the 500 people in the Grande\-Synthe area in the north of France / Refugees in Italy face new, tough discriminating decisions of the government / Difficult times ahead for the people stuck in Bosnia and Herzegovina — help needed / Report on Brussels / MSF’s open letter to the EU heads on Libya / And more news…_
 
 
-![Photo: [Calais Action](https://www.facebook.com/calaisaction/?tn-str=k%2AF&hc_location=group_dialog)](assets/1e352d5459d7/1*Fk_pLSW_Sl26v-rwGMKZSg.jpeg)
+![Photo: [Calais Action](https://www.facebook.com/calaisaction/?tn-str=k%2AF&hc_location=group_dialog)](../assets/1e352d5459d7/1*Fk_pLSW_Sl26v-rwGMKZSg.jpeg)
 
 Photo: [Calais Action](https://www.facebook.com/calaisaction/?tn-str=k%2AF&hc_location=group_dialog)
 ### FEATURE
@@ -24,15 +24,15 @@ This Thursday, French authorities evicted the entirety of the Dunkirk ‘Jungle\
 Over 400 people including nearly 100 children and around 60 families were forced onto buses heading to accommodation centres, many of the local groups and media have reported\.
 
 
-![](assets/1e352d5459d7/1*c8IBeBl5HMCRVz2etostGg.jpeg)
+![](../assets/1e352d5459d7/1*c8IBeBl5HMCRVz2etostGg.jpeg)
 
 
 
-![](assets/1e352d5459d7/1*iHDvdAAE0eVFxNlF5xerOQ.jpeg)
+![](../assets/1e352d5459d7/1*iHDvdAAE0eVFxNlF5xerOQ.jpeg)
 
 
 
-![Photos: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?tn-str=k%2AF)](assets/1e352d5459d7/1*jskIPOZBaXpXBUh6Drmpiw.jpeg)
+![Photos: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?tn-str=k%2AF)](../assets/1e352d5459d7/1*jskIPOZBaXpXBUh6Drmpiw.jpeg)
 
 Photos: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?tn-str=k%2AF)
 
@@ -147,7 +147,7 @@ It is intended for the refugee and migrant people currently staying at the tempo
 These items can be delivered to the RC facilities, every day from 9am until 3pm\.
 
 
-![Bihać \(Photo: [Crveni križ grada Bihaća](https://www.facebook.com/CrveniKrizBihac/?tn-str=k%2AF) \)](assets/1e352d5459d7/1*NW63UNDGQttEt4SBn29UcQ.jpeg)
+![Bihać \(Photo: [Crveni križ grada Bihaća](https://www.facebook.com/CrveniKrizBihac/?tn-str=k%2AF) \)](../assets/1e352d5459d7/1*NW63UNDGQttEt4SBn29UcQ.jpeg)
 
 Bihać \(Photo: [Crveni križ grada Bihaća](https://www.facebook.com/CrveniKrizBihac/?tn-str=k%2AF) \)
 
@@ -185,7 +185,7 @@ No word was so far given on the introduction of regular working contracts for th
 Following the news of the six Tunisian fishermen arrested and accused of smuggling people to Italy, reported in [yesterday’s digest](ays-daily-digest-5-9-2018-the-dunkirk-jungle-is-about-to-be-cleared-ae50c46035e6) , 200 people demonstrated at the Italian embassy in Tunis demanding the release of the six fishermen from Zarzis who rescued people they found on a boat in distress\.
 
 
-![Photo: [Alarm Phone‏](https://twitter.com/alarm_phone)](assets/1e352d5459d7/1*JLaZ6UvYsCKA-9M7xgpK4g.jpeg)
+![Photo: [Alarm Phone‏](https://twitter.com/alarm_phone)](../assets/1e352d5459d7/1*JLaZ6UvYsCKA-9M7xgpK4g.jpeg)
 
 Photo: [Alarm Phone‏](https://twitter.com/alarm_phone)
 #### Salvini proposes shocking decree
@@ -204,7 +204,7 @@ They found that:
 
 
 
-![](assets/1e352d5459d7/1*df4bpp3tcOmSclUi6aAXYQ.png)
+![](../assets/1e352d5459d7/1*df4bpp3tcOmSclUi6aAXYQ.png)
 
 ### LIBYA
 

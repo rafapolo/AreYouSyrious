@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,libya,greece,moria]
 description: Confused days in the central Mediterranean /// EU acknowledge human rights abuses in Libyan centres while praising cooperation with Libya…
 image:
-  path: assets/c823c3f160b3/1*n41NK0Sx93ZG38in7SOy_A.jpeg
+  path: ../assets/c823c3f160b3/1*n41NK0Sx93ZG38in7SOy_A.jpeg
 ---
 
 ### AYS Daily Digest 21/11/2019: New Closed Centres to be built on Greek Islands
@@ -15,13 +15,13 @@ image:
 Confused days in the central Mediterranean /// EU acknowledge human rights abuses in Libyan centres while praising cooperation with Libya /// Ultimatum against squatters in Greece /// Eviction halted in Paris /// Man stabbed in Sarajevo
 
 
-![“I had not yet experienced a storm on the high seas\. It is a mixture of physical discomfort and fascination for what is happening outside, at sea\. This vision of the sea raging with its high waves is breathtaking\! I took this picture during a storm: it describes the intensity of the scene and how lucky we are to be aboard a ship such as the Ocean Viking, while people are there, outside, on boats that are not at all able to navigate” \(Avra Fialas, communication officer currently on board of the Ocean Viking\) — From [SOS Mediterraneé logbook](http://www.sosmediterranee.fr/journal-de-bord/l-oeil-du-photographe-avra)](assets/c823c3f160b3/1*n41NK0Sx93ZG38in7SOy_A.jpeg)
+![“I had not yet experienced a storm on the high seas\. It is a mixture of physical discomfort and fascination for what is happening outside, at sea\. This vision of the sea raging with its high waves is breathtaking\! I took this picture during a storm: it describes the intensity of the scene and how lucky we are to be aboard a ship such as the Ocean Viking, while people are there, outside, on boats that are not at all able to navigate” \(Avra Fialas, communication officer currently on board of the Ocean Viking\) — From [SOS Mediterraneé logbook](http://www.sosmediterranee.fr/journal-de-bord/l-oeil-du-photographe-avra)](../assets/c823c3f160b3/1*n41NK0Sx93ZG38in7SOy_A.jpeg)
 
 “I had not yet experienced a storm on the high seas\. It is a mixture of physical discomfort and fascination for what is happening outside, at sea\. This vision of the sea raging with its high waves is breathtaking\! I took this picture during a storm: it describes the intensity of the scene and how lucky we are to be aboard a ship such as the Ocean Viking, while people are there, outside, on boats that are not at all able to navigate” \(Avra Fialas, communication officer currently on board of the Ocean Viking\) — From [SOS Mediterraneé logbook](http://www.sosmediterranee.fr/journal-de-bord/l-oeil-du-photographe-avra)
 #### New Detention Centres Planned on Greek Islands Despite Ruling Against Island Conditions
 
 
-![\(Photo Credit: [Philipp Schönberger](https://twitter.com/PS131211/status/1197559716114771973?fbclid=IwAR0K01tAsR7SCIYccNjbhujzgUecZIptI9mozDwjWsMhX3s4ZzJ841Cevkk) \)](assets/c823c3f160b3/1*nnwC8pK_KAkH1ctnlAcLzg.jpeg)
+![\(Photo Credit: [Philipp Schönberger](https://twitter.com/PS131211/status/1197559716114771973?fbclid=IwAR0K01tAsR7SCIYccNjbhujzgUecZIptI9mozDwjWsMhX3s4ZzJ841Cevkk) \)](../assets/c823c3f160b3/1*nnwC8pK_KAkH1ctnlAcLzg.jpeg)
 
 \(Photo Credit: [Philipp Schönberger](https://twitter.com/PS131211/status/1197559716114771973?fbclid=IwAR0K01tAsR7SCIYccNjbhujzgUecZIptI9mozDwjWsMhX3s4ZzJ841Cevkk) \)
 
@@ -174,7 +174,7 @@ ITALY
 This is the boat they used to cross the Mediterranean:
 
 
-![Photo by [Angela Caponneto](https://twitter.com/AngiKappa/status/1197454286655016960)](assets/c823c3f160b3/1*1lj5Q-q66EchH3t6774tmw.jpeg)
+![Photo by [Angela Caponneto](https://twitter.com/AngiKappa/status/1197454286655016960)](../assets/c823c3f160b3/1*1lj5Q-q66EchH3t6774tmw.jpeg)
 
 Photo by [Angela Caponneto](https://twitter.com/AngiKappa/status/1197454286655016960)
 #### 5 new detention centres to open “as soon as possible”, minister says

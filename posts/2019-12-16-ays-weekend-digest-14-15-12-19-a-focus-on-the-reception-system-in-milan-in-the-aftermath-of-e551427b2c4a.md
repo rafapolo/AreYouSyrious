@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 14–15/12/19: A focus on the reception system in Milan in the aftermath of…
+title: "AYS Weekend Digest 14–15/12/19: A focus on the reception system in Milan in the aftermath of…"
 author: Are You Syrious?
 date: 2019-12-16T11:01:40.515+0000
 last_modified_at: 2019-12-16T18:58:35.217+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,migration,europe,human-rights,digest]
 description: A new body to be introduced to supervise Greek land and sea borders // New account from Chios // Cases of labour exploitation in Italian…
 image:
-  path: assets/e551427b2c4a/1*6d7nfrr0IIjyjWK89wMMnA.jpeg
+  path: ../assets/e551427b2c4a/1*6d7nfrr0IIjyjWK89wMMnA.jpeg
 ---
 
 ### AYS Weekend Digest 14–15/12/19: A focus on the reception system in Milan in the aftermath of Salvini’s Decree
 #### A new body to be introduced to supervise Greek land and sea borders // New account from Chios // Cases of labour exploitation in Italian fields // Over 70 squats evacuated in 6 months around Bordeaux // 400 guards along the land border along the Evros River // & legal and other updates
 
 
-![Belgrade, December 2019\. Credit: [Igor Čoko](https://igorcoko.net) \.](assets/e551427b2c4a/1*6d7nfrr0IIjyjWK89wMMnA.jpeg)
+![Belgrade, December 2019\. Credit: [Igor Čoko](https://igorcoko.net) \.](../assets/e551427b2c4a/1*6d7nfrr0IIjyjWK89wMMnA.jpeg)
 
 Belgrade, December 2019\. Credit: [Igor Čoko](https://igorcoko.net) \.
 #### NAGA Onlus has recently published the third of a series of reports on the changes in the Italian reception system, after the entry into force of the Salvini Decrees in 2018 and 2019, with a specific focus on the area around Milan\.
@@ -98,7 +98,7 @@ The proposal raised doubts on the efficiency of the body itself and criticism fr
 According to [UNHCR](https://data2.unhcr.org/en/situations/mediterranean/location/5179) , 55,189 people arrived by sea in 2019 and are currently stuck on the Aegean islands\. Around half of them \(24,472\) arrived just on Lesvos, the island that is actually [hosting 20,060 individuals](https://infocrisis.gov.gr/7122/national-situational-picture-regarding-the-islands-at-eastern-aegean-sea-12-12-2019/?lang=en) \. **People in Moria were recently hit by heavy rains and an extreme drop of temperature\.** The picture coming from the island is not different from the ones of the past years: families forced to live in mud, with no shelter and no protection from the harsh winter to come\. An image that Europe knows too well, sadly\.
 
 
-[![Heavy rain and cold weather hits migrants on Greek island of Lesbos](assets/e551427b2c4a/fdd7_hqdefault.jpg "Heavy rain and cold weather hits migrants on Greek island of Lesbos")](https://www.youtube.com/watch?v=ApYaEXblfXM)
+[![Heavy rain and cold weather hits migrants on Greek island of Lesbos](../assets/e551427b2c4a/fdd7_hqdefault.jpg "Heavy rain and cold weather hits migrants on Greek island of Lesbos")](https://www.youtube.com/watch?v=ApYaEXblfXM)
 
 #### Meanwhile, in Chios…
 

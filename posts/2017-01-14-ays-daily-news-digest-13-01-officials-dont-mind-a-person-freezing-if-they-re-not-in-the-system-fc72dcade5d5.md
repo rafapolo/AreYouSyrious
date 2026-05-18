@@ -1,5 +1,5 @@
 ---
-title: AYS Daily News Digest 13/01: Officials don’t mind a person freezing if they’re ‘not in the system’
+title: "AYS Daily News Digest 13/01: Officials don’t mind a person freezing if they’re ‘not in the system’"
 author: Are You Syrious?
 date: 2017-01-14T02:37:20.872+0000
 last_modified_at: 2017-01-14T10:50:08.098+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,greece,france,asylum-seekers]
 description: 193 people saved from the sea | New returns from Greece to Turkey | Slow transfer of refugees from the islands to the mainland | Info on…
 image:
-  path: assets/fc72dcade5d5/1*kD0g-V9DDt5NonfiS_WNFA.jpeg
+  path: ../assets/fc72dcade5d5/1*kD0g-V9DDt5NonfiS_WNFA.jpeg
 ---
 
 ### AYS Daily News Digest 13/01: Officials don’t mind a person freezing if they’re ‘not in the system’
@@ -15,7 +15,7 @@ image:
 
 
 ![Serbia, January 2017\. Photo: [Art Against](https://www.facebook.com/artagainstproject/) 
-_“No discussion on the general balance of power between countries of the worls, and no argument about the political and economic difficulties that come with aid to refugees can justify states abandoning those human beings at the gates of death\.” — Michel Foucault on [r](https://twitter.com/hashtag/refugees?src=hash) efugees, an interview from 1979\._](assets/fc72dcade5d5/1*kD0g-V9DDt5NonfiS_WNFA.jpeg)
+_“No discussion on the general balance of power between countries of the worls, and no argument about the political and economic difficulties that come with aid to refugees can justify states abandoning those human beings at the gates of death\.” — Michel Foucault on [r](https://twitter.com/hashtag/refugees?src=hash) efugees, an interview from 1979\._](../assets/fc72dcade5d5/1*kD0g-V9DDt5NonfiS_WNFA.jpeg)
 
 Serbia, January 2017\. Photo: [Art Against](https://www.facebook.com/artagainstproject/) 
 _“No discussion on the general balance of power between countries of the worls, and no argument about the political and economic difficulties that come with aid to refugees can justify states abandoning those human beings at the gates of death\.” — Michel Foucault on [r](https://twitter.com/hashtag/refugees?src=hash) efugees, an interview from 1979\._
@@ -24,7 +24,7 @@ _“No discussion on the general balance of power between countries of the worls
 On Friday afternoon the Aquarius, an MSF search and rescue vessel in the Mediterranean Sea, **saved 193 people** and they also recovered two bodies that were apparently crushed when panic broke out on board after shooting started off the Libyan coastline, according to [MSF Sea](https://twitter.com/MSF_Sea) **\.** According to some sources, Libyan officials are [not willing to accept](https://www.middleeastmonitor.com/20170113-libya-not-accepting-eu-refugee-deal/?platform=hootsuite) the offered EU refugee deal\.
 
 
-![Photo credit: Anthony Jean, SOS Méditerranée](assets/fc72dcade5d5/1*SNDjTAeQ8H3o-TdBe3Oufw.jpeg)
+![Photo credit: Anthony Jean, SOS Méditerranée](../assets/fc72dcade5d5/1*SNDjTAeQ8H3o-TdBe3Oufw.jpeg)
 
 Photo credit: Anthony Jean, SOS Méditerranée
 
@@ -40,7 +40,7 @@ On Thursday, 17 men, four women and six children, all from Syria, were flown fro
 Two boats arrived on the island of Lesvos this Friday morning, one found by the Greek Coast Guard with 20 people on board, while the other landed on the north coast carrying 22 people\.
 
 
-![Lesvos — Mohamad A, a refugee held in detention while awaiting to be deported to Turkey on Saturday, has been on a hunger strike for 31 day\.](assets/fc72dcade5d5/1*zKMyTF621Iri06E9f5NYrw.jpeg)
+![Lesvos — Mohamad A, a refugee held in detention while awaiting to be deported to Turkey on Saturday, has been on a hunger strike for 31 day\.](../assets/fc72dcade5d5/1*zKMyTF621Iri06E9f5NYrw.jpeg)
 
 Lesvos — Mohamad A, a refugee held in detention while awaiting to be deported to Turkey on Saturday, has been on a hunger strike for 31 day\.
 ### Amnesty: Refugees Held Hostage by Failed EU Policy
@@ -66,7 +66,7 @@ Without a doubt, a speedier registration and relocation process, that we also ca
 However, the UN spokesman for Greece said 235 people had been transferred from camps on Lesvos to hotels at special rates in the past few days, and around 40 men from the camp spent their first night on Thursday on a tanker ship sent from Athens to Lesvos to house people living in the camp in Moria\.
 
 
-![Screenshot source: [Greek Reporter](http://greece.greekreporter.com/2017/01/13/forty-refugees-from-moria-move-into-the-navy-ship-sent-from-athens/)](assets/fc72dcade5d5/1*lA2Co5tqCwykexQbVD4wFw.jpeg)
+![Screenshot source: [Greek Reporter](http://greece.greekreporter.com/2017/01/13/forty-refugees-from-moria-move-into-the-navy-ship-sent-from-athens/)](../assets/fc72dcade5d5/1*lA2Co5tqCwykexQbVD4wFw.jpeg)
 
 Screenshot source: [Greek Reporter](http://greece.greekreporter.com/2017/01/13/forty-refugees-from-moria-move-into-the-navy-ship-sent-from-athens/)
 ### Athens
@@ -100,7 +100,7 @@ Refugee Info teams created a set of videos, with the help of refugees wherever p
 Videos on the Asylum process, reunification and relocation can be found on [this website](http://www.refugee.info/athens/info/videos) \.
 
 
-![](assets/fc72dcade5d5/1*B5QnDPaLsVnid2wVl3V9RQ.jpeg)
+![](../assets/fc72dcade5d5/1*B5QnDPaLsVnid2wVl3V9RQ.jpeg)
 
 #### ACCESS TO HEALTHCARE
 
@@ -143,7 +143,7 @@ No organizations are allowed to help the people outside the camps\. The State Se
 However, there is a number of claims by those staying outside in Belgrade that they’ve tried multiple times to register at the police office, but were sent away\. Another reason for the situation is that Serbia is only a stopover for these people, not a place where they would like to ask for asylum, a condition for getting protection at the official camps in the country\.
 
 
-![In The Loop, a weekly refugee feedback review by Internews](assets/fc72dcade5d5/1*wGPI9mlhnsyEGutrC7GQEA.jpeg)
+![In The Loop, a weekly refugee feedback review by Internews](../assets/fc72dcade5d5/1*wGPI9mlhnsyEGutrC7GQEA.jpeg)
 
 In The Loop, a weekly refugee feedback review by Internews
 #### HUNGARY
@@ -233,7 +233,7 @@ Avoiding media sensationalism, we share the personal account of one of the peopl
 
 
 
-![Refugee boys upon their arrival to the welcome place in Ameugny, with members of the two Communities, Orsi and the volunteers \(Photo: [Taizé](https://www.facebook.com/taize/) \)](assets/fc72dcade5d5/1*GnDYF9r_dI56EUU-rpTWuw.jpeg)
+![Refugee boys upon their arrival to the welcome place in Ameugny, with members of the two Communities, Orsi and the volunteers \(Photo: [Taizé](https://www.facebook.com/taize/) \)](../assets/fc72dcade5d5/1*GnDYF9r_dI56EUU-rpTWuw.jpeg)
 
 Refugee boys upon their arrival to the welcome place in Ameugny, with members of the two Communities, Orsi and the volunteers \(Photo: [Taizé](https://www.facebook.com/taize/) \)
 

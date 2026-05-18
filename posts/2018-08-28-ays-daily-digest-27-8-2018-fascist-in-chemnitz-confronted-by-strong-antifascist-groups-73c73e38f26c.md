@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 27/8/2018: Fascists in Chemnitz confronted by strong antifascist groups
+title: "AYS DAILY DIGEST 27/8/2018: Fascists in Chemnitz confronted by strong antifascist groups"
 author: Are You Syrious?
 date: 2018-08-28T09:27:38.570+0100
 last_modified_at: 2018-08-28T09:39:36.276+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,antifa,digest,europe,germany]
 description: Fascists in Germany are mobilizing against people on the move and antifascists // Call from solidarity from Chemnitz // People from…
 image:
-  path: assets/73c73e38f26c/1*GQfHmBOl0fOs4WMdT72FBA.jpeg
+  path: ../assets/73c73e38f26c/1*GQfHmBOl0fOs4WMdT72FBA.jpeg
 ---
 
 ### AYS DAILY DIGEST 27/8/2018: Fascists in Chemnitz confronted by strong antifascist groups
@@ -15,7 +15,7 @@ image:
 _Fascists in Germany are mobilizing against people on the move and antifascists // Call from solidarity from Chemnitz // People from Diciotti, show severe signs of trauma // 45 children on 5 boats that arrived in Greece on Monday // Violence at the EU border continues // The Sweden Democrats announced o they want to stop accepting quota refugees_
 
 
-![](assets/73c73e38f26c/1*GQfHmBOl0fOs4WMdT72FBA.jpeg)
+![](../assets/73c73e38f26c/1*GQfHmBOl0fOs4WMdT72FBA.jpeg)
 
 #### Feature
 
@@ -26,7 +26,7 @@ The media are reporting how the far\-right protesters have been “hunting down�
 Activists from the Research Collective Dresden filmed the video recording the statements by some of the neo\-nazi protesters who are saying: “for every dead German a dead foreigner”, “like the races, the ticks, that’s not\!”, “foreigners out”, “German, social and national”\. They have also chanted “Luegenpresse,” a Nazi\-era term which translates to “lying press”\. Police reported Hitler salutes were seen among the right\-wing crowd\.
 
 
-[![Ausländerfeindlicher Mob und Jagd auf Migranten in Chemnitz. 26. August 2018](assets/73c73e38f26c/1c5f_hqdefault.jpg "Ausländerfeindlicher Mob und Jagd auf Migranten in Chemnitz. 26. August 2018")](http://www.youtube.com/watch?v=AnlbzQ7kze0)
+[![Ausländerfeindlicher Mob und Jagd auf Migranten in Chemnitz. 26. August 2018](../assets/73c73e38f26c/1c5f_hqdefault.jpg "Ausländerfeindlicher Mob und Jagd auf Migranten in Chemnitz. 26. August 2018")](http://www.youtube.com/watch?v=AnlbzQ7kze0)
 
 
 On Monday evening, neo\-nazis were confronted by the antifascists and asylum seekers\. Several people were injured as pyrotechnics and objects were thrown from both sides\. Finally, the police used water cannon, and enforcement had to be called from Leipzig and Dresden\.
@@ -66,7 +66,7 @@ After Italy accepted the offer from Albania to take some of the people who disem
 [**Aegean Boat Report**](https://www.facebook.com/AegeanBoatReport/posts/438073676715742?__xts__%5B0%5D=68.ARBX_SLrmn-Zda7GoErSOA2tojAMMmFbgcVJqfI7rZ5VUXfgSPRtaELDhQTnR_InqxiRKH7vYJYSE5KiOy8Vu_1dhNo2W9KYU9ZGeS9OlltqYsD3yNDODwnEUdzaK9rCYQRyQaQ&__tn__=-R) **recorded 158 new arrivals on five boats on Monday\.** At least 45 passengers on these boats were children\. Among them, two unaccompanied 14\-year\-old boys from Afghanistan who were traveling in a small canoe from Turkey\. When found, they were in shock, wet and cold\.
 
 
-![By the Open Cultural Center\.](assets/73c73e38f26c/1*Av_j59RxiFeuT5kyOGunDg.jpeg)
+![By the Open Cultural Center\.](../assets/73c73e38f26c/1*Av_j59RxiFeuT5kyOGunDg.jpeg)
 
 By the Open Cultural Center\.
 
@@ -79,7 +79,7 @@ Palestinians 96,1 percent
 The possibility to get status is also good for the people from Iraq and Afghanistan, with 7 out of 10 positive applications\. The lowest recognition rate is for people from Pakistan, only about 2,4 per cent\.
 
 
-![Photo by One House](assets/73c73e38f26c/1*P8EXEyFs1eoHmHMFrAfpmw.jpeg)
+![Photo by One House](../assets/73c73e38f26c/1*P8EXEyFs1eoHmHMFrAfpmw.jpeg)
 
 Photo by One House
 
@@ -93,15 +93,15 @@ To continue their work, they need [help](http://www.paypal.me/Helphumaninneed) \
 A couple of weeks ago, authorities and IOM moved most of the families from this place where basic living conditions exist to the hotel Sedra, near Bihać, which is turned into the camp\.
 
 
-![](assets/73c73e38f26c/1*stXHTG2Wz9-dpIbdXVIisg.jpeg)
+![](../assets/73c73e38f26c/1*stXHTG2Wz9-dpIbdXVIisg.jpeg)
 
 
 
-![](assets/73c73e38f26c/1*6JIH_wIqr5Op6quPi78TGA.jpeg)
+![](../assets/73c73e38f26c/1*6JIH_wIqr5Op6quPi78TGA.jpeg)
 
 
 
-![Photo by SOS Team Kladuša](assets/73c73e38f26c/1*aq7CLTEsu1JNuTpB5adDYQ.jpeg)
+![Photo by SOS Team Kladuša](../assets/73c73e38f26c/1*aq7CLTEsu1JNuTpB5adDYQ.jpeg)
 
 Photo by SOS Team Kladuša
 
@@ -111,7 +111,7 @@ Croatia
 **Meantime, border violence continues\. [NNK team](https://www.facebook.com/NoNameKitchenBelgrade/posts/585068641891424?__xts__%5B0%5D=68.ARC0sOGEeT8-IadFzNLnbCoZoR1WcGDEezDp7HIKmbrS1A10nF7eig4MDZF-kTOxpIhTpTaehvaO-xqPGckkeRFBqV15nbjl9REi_BsjrdclTZDH7t9Hdi3Wtf8AEmBVonEISf3dFdXyBwcY1vOgSMdA7JCVxiMVC1Nw-83Zrh6iSwcFNnXIShitDPg&__tn__=-R) recorded a case of a minor and a handicapped person who was beaten up\.**
 
 
-![Photo NNK](assets/73c73e38f26c/1*75r1Fz1fciAdOg1r84psCw.jpeg)
+![Photo NNK](../assets/73c73e38f26c/1*75r1Fz1fciAdOg1r84psCw.jpeg)
 
 Photo NNK
 
@@ -124,7 +124,7 @@ _“I told the police not to beat my brother because he was 16 years old\. But t
 **Police in France continues hunting down people on the move,** as [volunteers are reporting](https://www.facebook.com/permalink.php?story_fbid=980373425496763&id=598228360377940&__xts__%5B0%5D=68.ARD_8ieaSmpCWg1BYt8simqwp__PBHX16Sb-HKZp9QVFJt0k1BQAoyOHELJolXxjYRRcO8HKKikHV6op9bvkJXzB2NibF-ZHOErW_z7cxUrE0a2WSQ5ly3t6LC_OjKBScD2EnhiijKe5HBEwR3hdRyh55mcQGTAIBfUG9xEYz0hsp8ktJmdGOgzTHA&__tn__=-R) \.
 
 
-![](assets/73c73e38f26c/1*-DhwatnmRjIwACW6rGX8CA.jpeg)
+![](../assets/73c73e38f26c/1*-DhwatnmRjIwACW6rGX8CA.jpeg)
 
 
 _“Tonight I arrived with some products to distribute for the exiles around 16 at the gate of Aubervilliers\. I was accompanied by two friends, Omar and Amine\. They brought me behind the device where a hundred people were asleep knowing they probably needed razors, toothbrushes and bags\. At the end of our small distribution several dozens, police officers \(about 40\) arrived to evacuate the place\. I was told that a cleaning team was coming, and they had to leave with all their business \(mattresses, tents, blankets, sleeping bags, backpacks, etc\) \. Except the police came in without any solution\. We were left alone \(we and other volunteers who were on site by chance\) with a hundred people — men alone, families with pregnant babies and women without accommodation solution\.”_

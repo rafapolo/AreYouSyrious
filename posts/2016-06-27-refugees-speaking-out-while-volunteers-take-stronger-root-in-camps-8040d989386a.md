@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe]
 description: SYRIA
 image:
-  path: assets/8040d989386a/1*Q3TIY09JExJx-V-iz4z8iA.jpeg
+  path: ../assets/8040d989386a/1*Q3TIY09JExJx-V-iz4z8iA.jpeg
 ---
 
 ### Refugees speaking out while volunteers take stronger root in camps\.
 
 
-![](assets/8040d989386a/1*Q3TIY09JExJx-V-iz4z8iA.jpeg)
+![](../assets/8040d989386a/1*Q3TIY09JExJx-V-iz4z8iA.jpeg)
 
 #### SYRIA
 ### ISIS is attempting to regain control of territory through terror as it releases the previously\-unseen video showing the execution of five citizen journalists\.
@@ -25,11 +25,11 @@ US\-backed Kurdish Arab forces are continuing to advance on ISIS territory and a
 This release comes subsequent to the report that Syrian citizen journalist Khaled al\-Issa succumbed to injuries sustained in an IED attack that targeted al\-Issa and fellow journalist Hadi al\-Abdullah on June 17th\. Although they were both initially reported in serious danger of death within 36 hours of the attack, both had made a comeback\. However, al\-Issa passed away late Friday and was buried in his hometown of Kafranbel\.
 
 
-![](assets/8040d989386a/1*ESA06pIcP_YujkmPpc2q0w.jpeg)
+![](../assets/8040d989386a/1*ESA06pIcP_YujkmPpc2q0w.jpeg)
 
 
 
-![Photos from Khaled al\-Issa’s memorial\. Photos via @arabthmoness](assets/8040d989386a/1*YiSQ85GnglhlbWN1lG4u_A.jpeg)
+![Photos from Khaled al\-Issa’s memorial\. Photos via @arabthmoness](../assets/8040d989386a/1*YiSQ85GnglhlbWN1lG4u_A.jpeg)
 
 Photos from Khaled al\-Issa’s memorial\. Photos via @arabthmoness
 #### IRAQ
@@ -42,7 +42,7 @@ Officially ISIS\-free as of Sunday afternoon, Fallujah had been a stronghold of 
 Holding signs reinforcing their desire for peace and human treatment, dozens of refugees housed at Vasilika camp in Greece spoke out\.
 
 
-![Photo Credit: Franken Konvoi](assets/8040d989386a/1*9evs3zOdVjwqSmJ4KPuFrQ.jpeg)
+![Photo Credit: Franken Konvoi](../assets/8040d989386a/1*9evs3zOdVjwqSmJ4KPuFrQ.jpeg)
 
 Photo Credit: Franken Konvoi
 ### Volunteer opportunities blossom for those with diverse ranges of skill sets
@@ -85,7 +85,7 @@ Photo Credit: Franken Konvoi
 
 
 
-![Photo Credit: Open Cultural Center](assets/8040d989386a/1*06aZZCrrQVIH2zCoYT94AA.jpeg)
+![Photo Credit: Open Cultural Center](../assets/8040d989386a/1*06aZZCrrQVIH2zCoYT94AA.jpeg)
 
 Photo Credit: Open Cultural Center
 
@@ -94,7 +94,7 @@ In addition to Nurture Project International, Americans for Refugees in Crisis i
 If anyone with gardening skills or building skills would like to come down to help with either the community garden or the Online Learning Center, \[ [please be in touch](https://www.facebook.com/groups/refugeecrisis/permalink/1763250700557644/) \. \]
 
 
-![Workshops on Samos\. Photo Credit “Samos Volunteers\.”](assets/8040d989386a/1*mPYBoGiA89YLh99x0_k6vQ.jpeg)
+![Workshops on Samos\. Photo Credit “Samos Volunteers\.”](../assets/8040d989386a/1*mPYBoGiA89YLh99x0_k6vQ.jpeg)
 
 Workshops on Samos\. Photo Credit “Samos Volunteers\.”
 
@@ -180,7 +180,7 @@ For more specific information on the cases and for ways to get involved and supp
 
 
 
-![](assets/8040d989386a/1*PXX1ASBd87i76m3YZh_XiQ.jpeg)
+![](../assets/8040d989386a/1*PXX1ASBd87i76m3YZh_XiQ.jpeg)
 
 
 

@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,germany,italy,libya]
 description: Legal Centre Lesvos publishes a Call for Accountability // Greece releases new list of 12 safe countries // German authorities took a…
 image:
-  path: assets/ab70a5596ef4/1*byhDsrR6HBOGa9Ms7rPL7g.jpeg
+  path: ../assets/ab70a5596ef4/1*byhDsrR6HBOGa9Ms7rPL7g.jpeg
 ---
 
 ### AYS Daily Digest 16/1/2020 To Libya, 1000 people returned & to Italy, 237 people to disembark so far in 2020
@@ -15,7 +15,7 @@ image:
 _Legal Centre Lesvos publishes a Call for Accountability // Greece releases new list of 12 safe countries // German authorities took a young man from the church he was staying with, only to deport him the same day // and more…_
 
 
-![No one wants to be trapped at Sea, but still some would prefer it to going back to Libyan detention\. “\#Italy has just assigned a \#portofsafety to \#SeaWatch3 in Taranto\.” Photo by [Sea Watch International](https://twitter.com/seawatch_intl/status/1217065724629393410)](assets/ab70a5596ef4/1*byhDsrR6HBOGa9Ms7rPL7g.jpeg)
+![No one wants to be trapped at Sea, but still some would prefer it to going back to Libyan detention\. “\#Italy has just assigned a \#portofsafety to \#SeaWatch3 in Taranto\.” Photo by [Sea Watch International](https://twitter.com/seawatch_intl/status/1217065724629393410)](../assets/ab70a5596ef4/1*byhDsrR6HBOGa9Ms7rPL7g.jpeg)
 
 No one wants to be trapped at Sea, but still some would prefer it to going back to Libyan detention\. “\#Italy has just assigned a \#portofsafety to \#SeaWatch3 in Taranto\.” Photo by [Sea Watch International](https://twitter.com/seawatch_intl/status/1217065724629393410)
 #### FEATURE
@@ -103,13 +103,13 @@ Lefteris Papagiannakis, Vice\-Mayor for Migrants, Refugees and Municipal Decentr
 
 
 
-![Photo by [Laurie Cooper](https://www.facebook.com/photo.php?fbid=10156773969711847&set=gm.1320288321511945&type=3&theater)](assets/ab70a5596ef4/1*gRY35s57crrkxQb57wZLNg.jpeg)
+![Photo by [Laurie Cooper](https://www.facebook.com/photo.php?fbid=10156773969711847&set=gm.1320288321511945&type=3&theater)](../assets/ab70a5596ef4/1*gRY35s57crrkxQb57wZLNg.jpeg)
 
 Photo by [Laurie Cooper](https://www.facebook.com/photo.php?fbid=10156773969711847&set=gm.1320288321511945&type=3&theater)
 #### SLOVENIA
 
 
-![Say it loud and clear\. Photo by [Eritrean Community of Slovenia](https://www.facebook.com/permalink.php?story_fbid=114294520099802&id=110006687195252)](assets/ab70a5596ef4/1*L3RQ5iOD7bOXA8Lduu7C1A.jpeg)
+![Say it loud and clear\. Photo by [Eritrean Community of Slovenia](https://www.facebook.com/permalink.php?story_fbid=114294520099802&id=110006687195252)](../assets/ab70a5596ef4/1*L3RQ5iOD7bOXA8Lduu7C1A.jpeg)
 
 Say it loud and clear\. Photo by [Eritrean Community of Slovenia](https://www.facebook.com/permalink.php?story_fbid=114294520099802&id=110006687195252)
 #### GERMANY
@@ -134,7 +134,7 @@ The Pastor of the church stated how disgraceful this is:
 #### GENERAL
 
 
-![January 2020 is finally here\! The Summit will be taking place on **Friday 31st of January and Saturday 1st of February at the Albany, London** \. Get tickets [here\!](https://mailchi.mp/refugeesolidaritysummit.org/program-update?e=1ce3cf390b&fbclid=IwAR0LBblPAQENJWf5G0k3A9CQDN74dt3IEkJA6AvHQNp2pHxzo4mLhJju-54)](assets/ab70a5596ef4/1*kA4xS6KxgaHQDDz316Id2g.jpeg)
+![January 2020 is finally here\! The Summit will be taking place on **Friday 31st of January and Saturday 1st of February at the Albany, London** \. Get tickets [here\!](https://mailchi.mp/refugeesolidaritysummit.org/program-update?e=1ce3cf390b&fbclid=IwAR0LBblPAQENJWf5G0k3A9CQDN74dt3IEkJA6AvHQNp2pHxzo4mLhJju-54)](../assets/ab70a5596ef4/1*kA4xS6KxgaHQDDz316Id2g.jpeg)
 
 January 2020 is finally here\! The Summit will be taking place on **Friday 31st of January and Saturday 1st of February at the Albany, London** \. Get tickets [here\!](https://mailchi.mp/refugeesolidaritysummit.org/program-update?e=1ce3cf390b&fbclid=IwAR0LBblPAQENJWf5G0k3A9CQDN74dt3IEkJA6AvHQNp2pHxzo4mLhJju-54)
 

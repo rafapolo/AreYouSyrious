@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 03/06/2021: Napier Barracks “unlawful”, UK’s High Court Rules
+title: "AYS Daily Digest 03/06/2021: Napier Barracks “unlawful”, UK’s High Court Rules"
 author: Are You Syrious?
 date: 2021-06-04T11:06:19.860+0100
 last_modified_at: 2021-06-04T19:02:14.909+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migration,search-and-rescue,border-violence]
 description: Moria 6 Trial Begins Next Week // Boats Missing off Canaries // Victory for Homeless in Paris // Denmark Passes Heinous New Law // AYS…
 image:
-  path: assets/b08c7f2a5421/1*kWxGdgGF-zh2H5eHU3LD0g.jpeg
+  path: ../assets/b08c7f2a5421/1*kWxGdgGF-zh2H5eHU3LD0g.jpeg
 ---
 
 ### AYS Daily Digest 03/06/2021: Napier Barracks “unlawful”, UK’s High Court Rules
 #### Moria 6 Trial Begins Next Week // Boats Missing off Canaries // Victory for Homeless in Paris // Denmark Passes Heinous New Law // AYS Pushes for Independent Border Monitoring Mechanism
 
 
-![A solidarity event outside Napier Barracks last month\. \(Photo: [Gareth Fuller/PA](https://www.theguardian.com/uk-news/2021/jun/03/napier-barracks-asylum-seekers-win-legal-challenge-against-government) \)](assets/b08c7f2a5421/1*kWxGdgGF-zh2H5eHU3LD0g.jpeg)
+![A solidarity event outside Napier Barracks last month\. \(Photo: [Gareth Fuller/PA](https://www.theguardian.com/uk-news/2021/jun/03/napier-barracks-asylum-seekers-win-legal-challenge-against-government) \)](../assets/b08c7f2a5421/1*kWxGdgGF-zh2H5eHU3LD0g.jpeg)
 
 A solidarity event outside Napier Barracks last month\. \(Photo: [Gareth Fuller/PA](https://www.theguardian.com/uk-news/2021/jun/03/napier-barracks-asylum-seekers-win-legal-challenge-against-government) \)
 ### FEATURE — Napier Barracks Slammed in High Court Ruling
@@ -88,11 +88,11 @@ Alarm Phone says authorities are aware of all three cases\.
 #### Ceuta updates
 
 
-![](assets/b08c7f2a5421/1*5GuC0edgTVc38x1mf4-gmw.jpeg)
+![](../assets/b08c7f2a5421/1*5GuC0edgTVc38x1mf4-gmw.jpeg)
 
 
 
-![Photos: [Asociación Elin](https://web.facebook.com/Asociaci%C3%B3n-Elin-823993751031786/?__cft__[0]=AZUpByPz50eKFIini8-8rmGGU5gR2I-7-ZSiYOthjGLBtVeZAxVrIwHtPC_QzylfbKvhsSrU2qzXA9ArluET8pfpCW85xGL65qS7Z0UPaCo8EyowldweofrO95xB2p--jI6Sa_JhDwsVVa6UsSYpNyG4GY2xjIVR5RmsB0GkCP3nYwx0q8-GA5rzAjIXakE6Xu81pxRp_OgfQaepGxocp9boeqKRpJ7Z900GEbP9RgegeG-nlpGcg6xJV6yzMpxaSSL_RexRCsZq8KS7eFXhtdB-&__tn__=kK-y-R) and Irina Samy \(No Name Kitchen\)](assets/b08c7f2a5421/1*mPSblkmfQZiD2M43w5mknA.jpeg)
+![Photos: [Asociación Elin](https://web.facebook.com/Asociaci%C3%B3n-Elin-823993751031786/?__cft__[0]=AZUpByPz50eKFIini8-8rmGGU5gR2I-7-ZSiYOthjGLBtVeZAxVrIwHtPC_QzylfbKvhsSrU2qzXA9ArluET8pfpCW85xGL65qS7Z0UPaCo8EyowldweofrO95xB2p--jI6Sa_JhDwsVVa6UsSYpNyG4GY2xjIVR5RmsB0GkCP3nYwx0q8-GA5rzAjIXakE6Xu81pxRp_OgfQaepGxocp9boeqKRpJ7Z900GEbP9RgegeG-nlpGcg6xJV6yzMpxaSSL_RexRCsZq8KS7eFXhtdB-&__tn__=kK-y-R) and Irina Samy \(No Name Kitchen\)](../assets/b08c7f2a5421/1*mPSblkmfQZiD2M43w5mknA.jpeg)
 
 Photos: [Asociación Elin](https://web.facebook.com/Asociaci%C3%B3n-Elin-823993751031786/?__cft__[0]=AZUpByPz50eKFIini8-8rmGGU5gR2I-7-ZSiYOthjGLBtVeZAxVrIwHtPC_QzylfbKvhsSrU2qzXA9ArluET8pfpCW85xGL65qS7Z0UPaCo8EyowldweofrO95xB2p--jI6Sa_JhDwsVVa6UsSYpNyG4GY2xjIVR5RmsB0GkCP3nYwx0q8-GA5rzAjIXakE6Xu81pxRp_OgfQaepGxocp9boeqKRpJ7Z900GEbP9RgegeG-nlpGcg6xJV6yzMpxaSSL_RexRCsZq8KS7eFXhtdB-&__tn__=kK-y-R) and Irina Samy \(No Name Kitchen\)
 

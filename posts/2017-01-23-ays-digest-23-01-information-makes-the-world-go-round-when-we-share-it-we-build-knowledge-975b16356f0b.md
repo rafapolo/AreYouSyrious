@@ -1,5 +1,5 @@
 ---
-title: AYS digest 23/01: Information makes the world go round
+title: "AYS digest 23/01: Information makes the world go round"
 author: Are You Syrious?
 date: 2017-01-23T20:19:14.789+0000
 last_modified_at: 2017-01-24T09:16:45.787+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: Information on how you can share information / Testimony of a refugee in Greece / Information on current state of volunteers / IOM report…
 image:
-  path: assets/975b16356f0b/1*P8XmHZPlPbAHXYmiHUEKog.jpeg
+  path: ../assets/975b16356f0b/1*P8XmHZPlPbAHXYmiHUEKog.jpeg
 ---
 
 ### AYS digest 23/01: Information makes the world go round
@@ -15,14 +15,14 @@ image:
 _Information on how you can share information / Testimony of a refugee in Greece / Information on current state of volunteers / IOM report on migration flow in 2016 / FAQs about family reunification procedure in Greece / Alternative housing for youth in Athens initiative / Aid and donations needed in Serbia / Summary of asylum procedures in Hungary / Calais4Calais updated list of necessary donations_
 
 
-![Winter in Europe by Tjeerd Royaards](assets/975b16356f0b/1*P8XmHZPlPbAHXYmiHUEKog.jpeg)
+![Winter in Europe by Tjeerd Royaards](../assets/975b16356f0b/1*P8XmHZPlPbAHXYmiHUEKog.jpeg)
 
 Winter in Europe by Tjeerd Royaards
 
 Since we are dedicated to sharing information and believe that information is the key to disseminating ideas of solidarity and support for people undergoing migration, today we are going to focus on information channels and different means of fact sharing\.
 
 
-![New issue of In the Loop](assets/975b16356f0b/1*LtbKBBakMUHF0IRuN27Zvw.jpeg)
+![New issue of In the Loop](../assets/975b16356f0b/1*LtbKBBakMUHF0IRuN27Zvw.jpeg)
 
 New issue of In the Loop
 
@@ -31,14 +31,14 @@ Let’s start by talking about the new issue of _Loop_ \. Staff at Internews are
 Information can be disseminated in different ways and many times, a personal experience can serve to shed light on many things that are misrepresented in mainstream media\. In line with this, two women who volunteered with Together for Better Days at the Elpida camp recently gave a presentation in their local community\. \(See the Together for Better Days website [here](http://togetherforbetterdays.org/) \. \) The organization added this message: “two sisters who volunteered with us at Elpida are now sharing their experiences with people back home and raising awareness of what the situation is like in Greece\. One year on and the situation is not getting better, overall it seems to be getting worse\. This weekend we witnessed the amazing turnout of people marching in the Women’s Marches across the world for equality and human rights for all\. Giving talks and sharing experiences with your local community is one way we can keep this movement for change alive and advocate for the people stuck in camps in Greece and beyond\.”
 
 
-![Mira Salomori and Alina Solomon](assets/975b16356f0b/1*xC6KgUwihFR_ERsfbb3njQ.jpeg)
+![Mira Salomori and Alina Solomon](../assets/975b16356f0b/1*xC6KgUwihFR_ERsfbb3njQ.jpeg)
 
 Mira Salomori and Alina Solomon
 
 With people usually portrayed as numbers, sharing stories is a crucial way to remind others that we are talking about human beings, people who have hopes, dreams and hardships\. One such story comes to us from the wonderful voice of a man from Nigeria: “From escaping death or imprisonment and torture in Nigeria to the indefinite imprisonment at Moria refugee concentration camp in Lesbos, Greece, this is the revealing story of a migrant that endured months of unimaginable hardship to reach Europe hoping to find, if nothing else, at least some decency and a chance for a future without fearing for his life or freedom, only to be indefinitely confined in a refugee hotspot living under inhumane conditions\.” We recommend that you listen to his voice and hear straight from him what it means to be stuck in Greece\.
 
 
-[![Moria, Lesbos: The story of a refugee indefinitely confined on the outskirts of Fortress Europe](assets/975b16356f0b/4abc_hqdefault.jpg "Moria, Lesbos: The story of a refugee indefinitely confined on the outskirts of Fortress Europe")](http://www.youtube.com/watch?v=DHE7lyaEsJk)
+[![Moria, Lesbos: The story of a refugee indefinitely confined on the outskirts of Fortress Europe](../assets/975b16356f0b/4abc_hqdefault.jpg "Moria, Lesbos: The story of a refugee indefinitely confined on the outskirts of Fortress Europe")](http://www.youtube.com/watch?v=DHE7lyaEsJk)
 
 
 To help change the discourse on migration, you can join some of these networks that are working to disseminate information:
@@ -48,14 +48,14 @@ The [Journal of Interrupted Studies](https://www.facebook.com/JISOxford/) is lau
 For data on migration, which is also crucial to understanding the magnitude of people movements, check out [the new report from IOM](http://migration.iom.int/docs/2016_Flows_to_Europe_Overview.pdf) \. There you can find relevant numbers for the past year, arrivals by nationality, age, gender and much more information, so we cannot be easily fooled by politicians or media who serve ready\-made concepts in lieu of checking the facts\.
 
 
-![Survey by Justine Corrie](assets/975b16356f0b/1*eVwGCaYaMMwxpe_961XBWQ.jpeg)
+![Survey by Justine Corrie](../assets/975b16356f0b/1*eVwGCaYaMMwxpe_961XBWQ.jpeg)
 
 Survey by Justine Corrie
 
 For those of us working in the field or writing reports, an army of activists volunteering all around Europe, it is interesting to break down our feelings into numbers\. Justine Corrie did an interesting survey back in Sept\./Oct\. 2016 about volunteer welfare within refugee action: “197 people responded and the results are telling \(see images\) — more attention needs to be paid to the well being of volunteers\.” Justine adds that, “this is the foundation of any sustainable action\.” Justine is also addressing this issue by “offering a freely\-given retreat this May to any volunteers who have been or currently are working in refugee action\. As expected, places are filling up fast\! [Here’s the link with full info](https://www.facebook.com/events/1814239435454415/) \.”
 
 
-![Survey by Justine Corrie](assets/975b16356f0b/1*xHSf82n665ZnXG4rlK1mPQ.jpeg)
+![Survey by Justine Corrie](../assets/975b16356f0b/1*xHSf82n665ZnXG4rlK1mPQ.jpeg)
 
 Survey by Justine Corrie
 #### Greece
@@ -79,7 +79,7 @@ It seems that due to a lack of information and solidarity on the part of local r
 ### **Commissioner for Humanitarian Aid promised more funds to be sent to Serbia**
 
 
-![Christos Stylianides, on the right, during a visit to a refugee center in Krnjaca, near Belgrade\. Photo\_ EU\_Oliver Bunic](assets/975b16356f0b/1*AM1hsociywvwR4LjzNPG0g.jpeg)
+![Christos Stylianides, on the right, during a visit to a refugee center in Krnjaca, near Belgrade\. Photo\_ EU\_Oliver Bunic](../assets/975b16356f0b/1*AM1hsociywvwR4LjzNPG0g.jpeg)
 
 Christos Stylianides, on the right, during a visit to a refugee center in Krnjaca, near Belgrade\. Photo\_ EU\_Oliver Bunic
 
@@ -97,7 +97,7 @@ News that Moves reports that the Hungarian Helsinki Committee for Human Rights h
 The organization Calais4Calais has updated their list of most\-needed items\. If you can help or donate in any way, check out [this link](http://care4calais.org/donate/) or look at the picture below\.
 
 
-![](assets/975b16356f0b/1*hjbKbrADlBFqyiiS8Exe7A.jpeg)
+![](../assets/975b16356f0b/1*hjbKbrADlBFqyiiS8Exe7A.jpeg)
 
 
 

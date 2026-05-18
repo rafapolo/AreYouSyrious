@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,migrants,niger,libya]
 description: Four People Killed in Collision with Turkish Coast Guard///More severe weather hits Greece///Torture in Libya///German CSU Expands List of…
 image:
-  path: assets/c95efda13f91/0*8rPs_K0WGmkBf577
+  path: ../assets/c95efda13f91/0*8rPs_K0WGmkBf577
 ---
 
 ### AYS Weekend Digest 04–05/01/2020 Protests in Agadez Violently Suppressed, Camp Burned
@@ -15,7 +15,7 @@ image:
 Four People Killed in Collision with Turkish Coast Guard /// More severe weather hits Greece /// Torture in Libya /// German CSU Expands List of Safe Countries
 
 
-![High waves in Greece\. Photographer: [Jenny Zinovia Kali](https://www.facebook.com/photo.php?fbid=3115838041763695&set=pcb.2450268648623746&type=3&theater&ifg=1)](assets/c95efda13f91/0*8rPs_K0WGmkBf577)
+![High waves in Greece\. Photographer: [Jenny Zinovia Kali](https://www.facebook.com/photo.php?fbid=3115838041763695&set=pcb.2450268648623746&type=3&theater&ifg=1)](../assets/c95efda13f91/0*8rPs_K0WGmkBf577)
 
 High waves in Greece\. Photographer: [Jenny Zinovia Kali](https://www.facebook.com/photo.php?fbid=3115838041763695&set=pcb.2450268648623746&type=3&theater&ifg=1)
 ### Feature — Nigerien Police Break Up Protest of Sudanese People in Agadez, Camp Burns Down
@@ -38,7 +38,7 @@ Upon their forced return to the camp, a group of frustrated people lit a fire th
 People were stripped and forced to sit in cramped conditions without their clothing, even though night in the desert can be very cold\. Some fear being pushed back to Libya, which already happened in 2018 after a previous protest against conditions in the camp even though it is against international law\.
 
 
-![Source: [Selma Alrasheed](https://twitter.com/SelmaMurwan/status/1213755163577470977)](assets/c95efda13f91/0*5lSw_QfeEgaRCQYW)
+![Source: [Selma Alrasheed](https://twitter.com/SelmaMurwan/status/1213755163577470977)](../assets/c95efda13f91/0*5lSw_QfeEgaRCQYW)
 
 Source: [Selma Alrasheed](https://twitter.com/SelmaMurwan/status/1213755163577470977)
 #### Reasons for the Protest
@@ -80,7 +80,7 @@ TURKEY
 While it may seem like the collision was an accident, the Coast Guard boats come equipped with powerful equipment to prevent these kinds of accidents so a collision certainly could have been avoided\. Using deadly force such as ramming boats is a common part of the Turkish Coast Guard’s pushbacks, part of Turkey’s agreement with the EU\.
 
 
-![Images from the night, taken by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/photos/pcb.740442853145488/740442636478843/?type=3&theater)](assets/c95efda13f91/0*z1NAFC7BbWCq_nZu)
+![Images from the night, taken by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/photos/pcb.740442853145488/740442636478843/?type=3&theater)](../assets/c95efda13f91/0*z1NAFC7BbWCq_nZu)
 
 Images from the night, taken by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/photos/pcb.740442853145488/740442636478843/?type=3&theater)
 

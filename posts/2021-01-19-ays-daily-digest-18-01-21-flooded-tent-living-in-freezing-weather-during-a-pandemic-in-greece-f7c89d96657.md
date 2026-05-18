@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [greece,refugees,digest,covid-19,netherlands]
 description: Germany preparing for Syria deportations // 9 year old dies off Spanish coast // not a single child arrived in the Netherlands from Moria…
 image:
-  path: assets/f7c89d96657/1*tX7WqQfmX04xtW4Ba4VVxQ.jpeg
+  path: ../assets/f7c89d96657/1*tX7WqQfmX04xtW4Ba4VVxQ.jpeg
 ---
 
 ### AYS Daily Digest 18/01/21 Flooded tent living in freezing weather during a pandemic in Greece
@@ -15,12 +15,12 @@ image:
 _Germany preparing for Syria deportations // 9\-year\-old dies off Spanish coast // not a single child has arrived in the Netherlands from Moria // and more…_
 
 
-![](assets/f7c89d96657/1*tX7WqQfmX04xtW4Ba4VVxQ.jpeg)
+![](../assets/f7c89d96657/1*tX7WqQfmX04xtW4Ba4VVxQ.jpeg)
 
 
 
 ![“According to a new declaration in hellish moria2\. No photos or videos is allowed to be recorded in terms of such case, the phones will be broken\.
-Weather is freezing and there is no electricity or heating system\. Sweet dreams world,while thousands are in cold\.” Photos and info by [Parwana Amiri](https://twitter.com/parwana_amiri/status/1351045364065964033) [Mediterranea Saving Humans USA](https://twitter.com/SavingHumansUSA/status/1351212467448406020) added: “When you will feel a little colder today, you will reach the thermostat and turn it to a more pleasant temperature\. Human beings in the \#Moria2 camp won’t be able to do that\. A situation that the \#EU doesn’t want us to see\.”](assets/f7c89d96657/1*IM0_UbvQJ8NnRDzA3nAtrQ.jpeg)
+Weather is freezing and there is no electricity or heating system\. Sweet dreams world,while thousands are in cold\.” Photos and info by [Parwana Amiri](https://twitter.com/parwana_amiri/status/1351045364065964033) [Mediterranea Saving Humans USA](https://twitter.com/SavingHumansUSA/status/1351212467448406020) added: “When you will feel a little colder today, you will reach the thermostat and turn it to a more pleasant temperature\. Human beings in the \#Moria2 camp won’t be able to do that\. A situation that the \#EU doesn’t want us to see\.”](../assets/f7c89d96657/1*IM0_UbvQJ8NnRDzA3nAtrQ.jpeg)
 
 “According to a new declaration in hellish moria2\. No photos or videos is allowed to be recorded in terms of such case, the phones will be broken\.
 Weather is freezing and there is no electricity or heating system\. Sweet dreams world,while thousands are in cold\.” Photos and info by [Parwana Amiri](https://twitter.com/parwana_amiri/status/1351045364065964033) [Mediterranea Saving Humans USA](https://twitter.com/SavingHumansUSA/status/1351212467448406020) added: “When you will feel a little colder today, you will reach the thermostat and turn it to a more pleasant temperature\. Human beings in the \#Moria2 camp won’t be able to do that\. A situation that the \#EU doesn’t want us to see\.”
@@ -119,7 +119,7 @@ Three corpses were also rescued on Monday\. They died after their boat was overt
 
 ![“Update Lesvos: MVI Children Support Program
 More than a third of the people living in the camp are children, who are hardly given a chance to escape from the horror of the camp\. There are no schools, playgrounds or places suitable for children\. These children have been exposed to war, death and extreme violence at such a young age\. It is therefore very important to us to give these children a space to talk about fears, trauma and problems in a trusting atmosphere\.
-Currently, we care for 34 children daily in our MVI Children Support Program and support them in overcoming trauma\. After only a short time, the children are noticeably more open and cheerful\. Even teenager girls who struggle with depression and anxiety are building a healthy self\-esteem\. Since it is especially important in this project to avoid possible communication difficulties and to offer authenticity, we increasingly involve people from the refugee community: e\.g\. for project coordination and support for the groups as well as for leading the workshops for parents\. Every light\-hearted moment and every laugh are the biggest gifts\.” Photo and Info by [Medical Volunteers International e\.V\.](https://www.facebook.com/medicalvolunteersinternational/posts/1386650131677771)](assets/f7c89d96657/1*nMkBG1NxtD6TxR3ax1I3tg.jpeg)
+Currently, we care for 34 children daily in our MVI Children Support Program and support them in overcoming trauma\. After only a short time, the children are noticeably more open and cheerful\. Even teenager girls who struggle with depression and anxiety are building a healthy self\-esteem\. Since it is especially important in this project to avoid possible communication difficulties and to offer authenticity, we increasingly involve people from the refugee community: e\.g\. for project coordination and support for the groups as well as for leading the workshops for parents\. Every light\-hearted moment and every laugh are the biggest gifts\.” Photo and Info by [Medical Volunteers International e\.V\.](https://www.facebook.com/medicalvolunteersinternational/posts/1386650131677771)](../assets/f7c89d96657/1*nMkBG1NxtD6TxR3ax1I3tg.jpeg)
 
 “Update Lesvos: MVI Children Support Program
 More than a third of the people living in the camp are children, who are hardly given a chance to escape from the horror of the camp\. There are no schools, playgrounds or places suitable for children\. These children have been exposed to war, death and extreme violence at such a young age\. It is therefore very important to us to give these children a space to talk about fears, trauma and problems in a trusting atmosphere\.
@@ -218,7 +218,7 @@ In a report by VICE World News:
 #### NETHERLANDS
 
 
-![Moria fire in September\. Photo by [Choose Love](https://helprefugees.org/news/moria-fire-petition/)](assets/f7c89d96657/1*Mt-Cu33LFeqtYpm115bg_A.jpeg)
+![Moria fire in September\. Photo by [Choose Love](https://helprefugees.org/news/moria-fire-petition/)](../assets/f7c89d96657/1*Mt-Cu33LFeqtYpm115bg_A.jpeg)
 
 Moria fire in September\. Photo by [Choose Love](https://helprefugees.org/news/moria-fire-petition/)
 ### “Not a single child” was evacuated to the Netherlands after Moria fire
@@ -280,7 +280,7 @@ We need dedicated people who can spare at least 20 hours a week, have strong org
 When refugees arrive in the UK, they can be overwhelmed\. This is what they’ve been thinking about for months and years — getting to safety in the UK and rebuilding their lives — but they arrive and can be treated like criminals, placed in poor accommodations for months on end or face heartbreaking delays and bureaucracy while they try to claim asylum\.
 Refugees who have legal advice have a better chance of getting asylum, and faster too, but they need a lawyer who can help them via legal aid\. But many don’t know of their right to legal aid lawyers, some may have had their phones confiscated so have no means to contact lawyers, others will be too afraid to find one alone, for example if they cannot read or write English\.
 That’s where we come in\. 
-Joining our team would mean giving hundreds of vulnerable people a helping hand\. If you think this is a commitment you can make please email [access@care4calais\.org](mailto:access@care4calais.org) and tell us why you want to volunteer for the UK Access to Legal Aid Team\. Thank you so much\.” Photo and Info by [Care for Calias](https://www.facebook.com/care4calais/posts/3997578223608438)](assets/f7c89d96657/1*YE6EoHcpIwCrEkkI7VW-QQ.jpeg)
+Joining our team would mean giving hundreds of vulnerable people a helping hand\. If you think this is a commitment you can make please email [access@care4calais\.org](mailto:access@care4calais.org) and tell us why you want to volunteer for the UK Access to Legal Aid Team\. Thank you so much\.” Photo and Info by [Care for Calias](https://www.facebook.com/care4calais/posts/3997578223608438)](../assets/f7c89d96657/1*YE6EoHcpIwCrEkkI7VW-QQ.jpeg)
 
 “Due to its amazing success, we are once again recruiting new volunteers for our fantastic access team\.
 We need dedicated people who can spare at least 20 hours a week, have strong organisational and admin skills, who can work under pressure, and respond quickly to urgent situations\.

@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 23/1/2018: People in Calais need help!
+title: "AYS DAILY DIGEST 23/1/2018: People in Calais need help!"
 author: Are You Syrious?
 date: 2019-01-24T10:56:41.229+0000
 last_modified_at: 2019-01-24T13:26:22.722+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,calais,digest,paris,iom]
 description: Number of organizations in Calais are appealing for help // Wall is gettgin bigger in Calais // Deportations from Turkey to Afghanistan //…
 image:
-  path: assets/c6ff05da27f4/1*Jo2AxMK5UENouO4qyKy9dw.jpeg
+  path: ../assets/c6ff05da27f4/1*Jo2AxMK5UENouO4qyKy9dw.jpeg
 ---
 
 ### AYS DAILY DIGEST 23/1/2018: People in Calais need help\!
@@ -15,7 +15,7 @@ image:
 _Number of organizations in Calais are appealing for help // Wall is getting bigger in Calais // Deportations from Turkey to Afghanistan // Operation Sophia in question // People on the move in Serbia and Bosnia with no help from institutions or UN agencies and big NGOs // Attack on refugee in German center_
 
 
-![By Care4Calais](assets/c6ff05da27f4/1*Jo2AxMK5UENouO4qyKy9dw.jpeg)
+![By Care4Calais](../assets/c6ff05da27f4/1*Jo2AxMK5UENouO4qyKy9dw.jpeg)
 
 By Care4Calais
 ### Feature
@@ -47,7 +47,7 @@ _\* Funds to buy emergency supplies of all the above_
 [Please donate](https://goo.gl/jmkx7A) \.
 
 
-![By Refugee Info Bus](assets/c6ff05da27f4/1*Ubnczo4ilUAsz25aicuVEw.jpeg)
+![By Refugee Info Bus](../assets/c6ff05da27f4/1*Ubnczo4ilUAsz25aicuVEw.jpeg)
 
 By Refugee Info Bus
 
@@ -141,14 +141,14 @@ _“Info Park protection officers reported that four families were returned from
 At the same time, more people are crossing to Bosnia from Serbia\. Most of them are coming from Greece or Bulgaria\.
 
 
-![By Nihad Suljic, an independent volunteer in Tuzla\.](assets/c6ff05da27f4/1*3m2oFAo5UKN8mScOG9-PRQ.jpeg)
+![By Nihad Suljic, an independent volunteer in Tuzla\.](../assets/c6ff05da27f4/1*3m2oFAo5UKN8mScOG9-PRQ.jpeg)
 
 By Nihad Suljic, an independent volunteer in Tuzla\.
 
 In Tuzla, local volunteers are trying to support all those in need\. During Wednesday, several big groups came, some even during the night\. Those who arrived during the night did not have any other option but to stay outside\.
 
 
-![Tuzla, children left to sleep in the streets\. By Nihad Suljic\.](assets/c6ff05da27f4/1*8qpHc4luFB4jm0mDxl6pSg.jpeg)
+![Tuzla, children left to sleep in the streets\. By Nihad Suljic\.](../assets/c6ff05da27f4/1*8qpHc4luFB4jm0mDxl6pSg.jpeg)
 
 Tuzla, children left to sleep in the streets\. By Nihad Suljic\.
 
@@ -164,7 +164,7 @@ IOM has two cars in their mobile team — one stays in the camp for emergencies,
 In Paris, covered in snow this week, over 2000 people are forced to sleep rough on the streets\.
 
 
-![By Calais Action](assets/c6ff05da27f4/1*xy20Ya09foTpKgbIxT94wA.jpeg)
+![By Calais Action](../assets/c6ff05da27f4/1*xy20Ya09foTpKgbIxT94wA.jpeg)
 
 By Calais Action
 

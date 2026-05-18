@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 14/02/17: The EU-Turkey deal has been a disaster for thousands
+title: "AYS Daily Digest 14/02/17: The EU-Turkey deal has been a disaster for thousands"
 author: Are You Syrious?
 date: 2017-02-15T02:03:10.208+0000
 last_modified_at: 2017-02-15T07:26:39.771+0000
 categories: 
 tags: [refugees,europe,turkey,germany,human-rights]
-description: Amnesty International calling out the EU leaders | daily struggles in the Greek camps: a story from Oinofyta | Report: push-back practices…
+description: "Amnesty International calling out the EU leaders | daily struggles in the Greek camps: a story from Oinofyta | Report: push-back practices…"
 image:
-  path: assets/ac16a570852f/1*G7pZ8aHO5M_JMDr8t7aB0g.jpeg
+  path: ../assets/ac16a570852f/1*G7pZ8aHO5M_JMDr8t7aB0g.jpeg
 ---
 
 ### AYS Daily Digest 14/02/17: The EU\-Turkey deal has been a disaster for thousands
 #### Amnesty International calling out the EU leaders \| daily struggles in the Greek camps: a story from Oinofyta \| Report: **push\-back practices in 5 countries from Central and Eastern Europe** \| Germany: grounds for Refugee Status for Syrian men avioding compulsory military service
 
 
-![A drawing by Heva \(9\) who was staying at the Mazarakis camp in Cherso, Greece, illustrates some of the dangers many people have been through and will never erase from their memory\. \. \. \( Drawing made at the [Open Cultural Center — OCC](https://www.facebook.com/OpenCulturalCenter/?ref=page_internal&hc_ref=PAGES_TIMELINE) \)](assets/ac16a570852f/1*G7pZ8aHO5M_JMDr8t7aB0g.jpeg)
+![A drawing by Heva \(9\) who was staying at the Mazarakis camp in Cherso, Greece, illustrates some of the dangers many people have been through and will never erase from their memory\. \. \. \( Drawing made at the [Open Cultural Center — OCC](https://www.facebook.com/OpenCulturalCenter/?ref=page_internal&hc_ref=PAGES_TIMELINE) \)](../assets/ac16a570852f/1*G7pZ8aHO5M_JMDr8t7aB0g.jpeg)
 
 A drawing by Heva \(9\) who was staying at the Mazarakis camp in Cherso, Greece, illustrates some of the dangers many people have been through and will never erase from their memory\. \. \. \( Drawing made at the [Open Cultural Center — OCC](https://www.facebook.com/OpenCulturalCenter/?ref=page_internal&hc_ref=PAGES_TIMELINE) \)
 #### GREECE
@@ -66,7 +66,7 @@ Until December, people in this camp lived in tents\. Now they are moved inside o
 Toilets are a big issue for residents\. They are not sanitary or safe, especially for women\.
 
 
-![](assets/ac16a570852f/1*P70QJ-dExCXddxxyZvQj4g.jpeg)
+![](../assets/ac16a570852f/1*P70QJ-dExCXddxxyZvQj4g.jpeg)
 
 
 Until recently the camp had an issue with lice, bed bugs and scabies, but — according to Lisa Campbell, the camp manager who works with the [Do Your Part](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.dyp3.doyourpart.org%2F&h=ATMNjwZImavQbWoe4W0sOLbf7JyrMTd-2NEypdWslNBRVAO1qpAUAYdBP3Wo_IHpSTKPXO-YPqopRB02b6mKWvWALOn05qjuGwlPACbQMmn_ECeteG_F4WUaivecdi-OObo) organization from the US, they are still fighting with it\. “We assisted the residents in removing all of the mattresses from the rooms and we held two bonfires\. Teams of doctors have been working with the residents on controlling scabies,” she explained adding that by the end of this week, the old infamous UNHCR blankets should be replaced with the new ones\. 
@@ -74,7 +74,7 @@ While visiting the place, we saw rats around the building and learned that the m
 The area where people sleep is large and cold, in spite of the heating system that was installed recently\. It is surely better than how it used to be, but hardly good\.
 
 
-![Photo: AYS](assets/ac16a570852f/1*gQ6QkrC5Hy9fddOYSdbGrA.jpeg)
+![Photo: AYS](../assets/ac16a570852f/1*gQ6QkrC5Hy9fddOYSdbGrA.jpeg)
 
 Photo: AYS
 
@@ -92,11 +92,11 @@ Camp management acknowledges that, on a daily basis, the biggest problems are th
 Inside the camp, there is a beauty salon, a hairdresser, and a place where some of the residents are sewing bags out of recycled materials\. They hope the bags will be sold online and the money will go directly to the residents\. These rooms are the only nice part of the camp\.
 
 
-![](assets/ac16a570852f/1*96ldYWvTytcxVls5SlxsoQ.jpeg)
+![](../assets/ac16a570852f/1*96ldYWvTytcxVls5SlxsoQ.jpeg)
 
 
 
-![Photos: AYS](assets/ac16a570852f/1*PbmgYHXl0us18Qub-GVV0A.jpeg)
+![Photos: AYS](../assets/ac16a570852f/1*PbmgYHXl0us18Qub-GVV0A.jpeg)
 
 Photos: AYS
 
@@ -107,7 +107,7 @@ Speaking well about the cooperation with the government in general, Campbell not
 The food at the camp is supplied by the army catering\. Along with that, since May last year, Do Your Part manages to provide fresh vegetables and other dry goods to the residents who can cook for themselves\. Provisional kitchen was put up by Sea of Solidarity and there is a total of 45 burners for the residents to use\.
 
 
-![Provisional kitchen at Oinofyta \(Photos: AYS\)](assets/ac16a570852f/1*ShRnPJ5Y96J9unHVYyRK-A.jpeg)
+![Provisional kitchen at Oinofyta \(Photos: AYS\)](../assets/ac16a570852f/1*ShRnPJ5Y96J9unHVYyRK-A.jpeg)
 
 Provisional kitchen at Oinofyta \(Photos: AYS\)
 
@@ -115,7 +115,7 @@ Each week, around 3000 euros is spent on vegetables, rice, chickpeas, lentils, e
 Even here, volunteers are needed\. Contact address for those interested is: [DYPLisa@gmail\.com](mailto:DYPLisa@gmail.com) \.
 
 
-![Translators Without Borders are providing this newsletter in Arabic, English, Farsi and Greek\. To access these, click on [the link](https://drive.google.com/drive/folders/0B-_rJ_0o5IZIX0lma1dTZnFEUjA)](assets/ac16a570852f/1*ZwQFRqTCh5ilOitv5t71-w.jpeg)
+![Translators Without Borders are providing this newsletter in Arabic, English, Farsi and Greek\. To access these, click on [the link](https://drive.google.com/drive/folders/0B-_rJ_0o5IZIX0lma1dTZnFEUjA)](../assets/ac16a570852f/1*ZwQFRqTCh5ilOitv5t71-w.jpeg)
 
 Translators Without Borders are providing this newsletter in Arabic, English, Farsi and Greek\. To access these, click on [the link](https://drive.google.com/drive/folders/0B-_rJ_0o5IZIX0lma1dTZnFEUjA)
 #### HUNGARY
@@ -132,11 +132,11 @@ A beautiful initiative came from the students at the El Altillo School in Jerez 
 On the behalf of AYS and of our little friends at Porin, we send out a big **GRACIAS** to everyone in El Altillo School, together with their teacher setting a beautiful example of solidarity\!
 
 
-![](assets/ac16a570852f/1*dchwdJ8mJfSGLVpgATZ7Zg.jpeg)
+![](../assets/ac16a570852f/1*dchwdJ8mJfSGLVpgATZ7Zg.jpeg)
 
 
 
-![Photos: the Spanish school team](assets/ac16a570852f/1*r_6Rkssd7EWBMu-lncmwJQ.jpeg)
+![Photos: the Spanish school team](../assets/ac16a570852f/1*r_6Rkssd7EWBMu-lncmwJQ.jpeg)
 
 Photos: the Spanish school team
 #### GERMANY

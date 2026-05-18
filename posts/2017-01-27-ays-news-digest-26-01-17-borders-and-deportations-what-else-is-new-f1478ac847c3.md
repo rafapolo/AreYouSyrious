@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe,greece,italy,european-union]
 description: Feature
 image:
-  path: assets/f1478ac847c3/1*gNxPrtQ5kBmYAaWHuVlmYg.jpeg
+  path: ../assets/f1478ac847c3/1*gNxPrtQ5kBmYAaWHuVlmYg.jpeg
 ---
 
 ### AYS NEWS DIGEST 26\.01\.17 — Borders and deportations, what else is new?
 
 
-![Photo Credit: MSF](assets/f1478ac847c3/1*gNxPrtQ5kBmYAaWHuVlmYg.jpeg)
+![Photo Credit: MSF](../assets/f1478ac847c3/1*gNxPrtQ5kBmYAaWHuVlmYg.jpeg)
 
 Photo Credit: MSF
 #### Feature
@@ -32,7 +32,7 @@ The current crisis will surely go down in history as a great fiasco and will sha
 #### Greece
 
 
-![Open schools for refugee children\!](assets/f1478ac847c3/1*VEqIHUBJZy7qh7JDUtbnfA.png)
+![Open schools for refugee children\!](../assets/f1478ac847c3/1*VEqIHUBJZy7qh7JDUtbnfA.png)
 
 Open schools for refugee children\!
 ### Timeline of Events on the Greek Islands to be compiled

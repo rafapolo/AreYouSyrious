@@ -7,7 +7,7 @@ categories:
 tags: [refugees,syria,istanbul,istanbuli]
 description: In the basement of a coffee shop in the Cihangir neighborhood of Istanbul, a group of about 60 students, professionals, and everything in…
 image:
-  path: assets/8be92aa89c90/1*YTsIQK_5kqbp-pcqlTmSRg.jpeg
+  path: ../assets/8be92aa89c90/1*YTsIQK_5kqbp-pcqlTmSRg.jpeg
 ---
 
 ### Istanbul&I, How We Got To Know Each Other
@@ -15,7 +15,7 @@ image:
 In the basement of a coffee shop in the Cihangir neighborhood of Istanbul, a group of about 60 students, professionals, and everything in between came together last Thursday evening\. It was a Speed Friending event put on by the youth community group [Istanbul&I](https://www.facebook.com/IstanbulandI/) , whose mission is to empower disadvantaged and displaced communities through social impact programs\.
 
 
-![](assets/8be92aa89c90/1*YTsIQK_5kqbp-pcqlTmSRg.jpeg)
+![](../assets/8be92aa89c90/1*YTsIQK_5kqbp-pcqlTmSRg.jpeg)
 
 
 Until that night, I hadn’t really met the refugee population of Istanbul outside of the work I was doing with my day job assisting asylum\-seekers in far\-flung parts of the country\. Unlike in Greece, where I had spent the previous six months, refugees here are integrated into the landscape of the city\. There are no camps in Istanbul, no tents or housing containers atop newly cleared earth, or housing squats clustered in the center of the city\. But if you take a closer look, they’re here\.
@@ -33,7 +33,7 @@ I find the only I had friend until that point and felt a little more at ease\. T
 I was left puzzled by my own assumptions\. I wasn’t supposed to think this way\. I’m certainly not new to this, having myself been a baby refugee smuggled into what would be my new home\. But here I was, forced to confront my passport\-normative world\.
 
 
-![](assets/8be92aa89c90/1*XJTJLiKyRVjAyXizTKfaxg.jpeg)
+![](../assets/8be92aa89c90/1*XJTJLiKyRVjAyXizTKfaxg.jpeg)
 
 
 The night continued to challenge me in ways I didn’t think I think I needed to be\. Every few minutes, the buzzer reminded us that we had to slide down to meet a new friend\. The organizers were purposeful in mixing up nationalities, statuses, genders, and even markers of religiosity so that we each walked away changed, a little bigger in our worldview than how we came in\.

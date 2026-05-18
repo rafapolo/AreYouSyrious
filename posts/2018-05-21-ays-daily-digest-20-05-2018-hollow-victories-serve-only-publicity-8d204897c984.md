@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 20/05/2018: Hollow “victories” serve only Publicity
+title: "AYS Daily Digest 20/05/2018: Hollow “victories” serve only Publicity"
 author: Are You Syrious?
 date: 2018-05-21T11:22:43.563+0100
 last_modified_at: 2018-05-21T11:22:43.563+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,libya,eu,france,bulgaria]
 description: UNHCR congratulates itself on marginal victory in “rescuing” people from Libyan detention // New arrivals in Spain // Conditions remain…
 image:
-  path: assets/8d204897c984/1*8mXcXEfoBc1X2K1_N2kYYA.jpeg
+  path: ../assets/8d204897c984/1*8mXcXEfoBc1X2K1_N2kYYA.jpeg
 ---
 
 ### AYS Daily Digest 20/05/2018: Hollow “victories” serve only Publicity
@@ -15,7 +15,7 @@ image:
 _UNHCR congratulates itself on marginal victory in “rescuing” people from Libyan detention // New arrivals in Spain // Conditions remain detestable in Greece // Bulgarian Prime Minister compares border fence lengths // Montenegro considers border fence with Albania // Mourning of the death of a Mawda in France as well as continued abandonment of refugees in Paris // Protest on Manus is ongoing\._
 
 
-![Small tent city in St\. Denis, Paris\. Photo Credit: [VZWGent4Humanity refugee support\.](https://www.facebook.com/BelgiumGent4Humanity/?hc_ref=ARTEnQaI_CQuODQSL4j1hR22XMHayJU-Ko9DQVo2fayRoI7oM2MkuY0k2GytJjlF6Xc&hc_location=group)](assets/8d204897c984/1*8mXcXEfoBc1X2K1_N2kYYA.jpeg)
+![Small tent city in St\. Denis, Paris\. Photo Credit: [VZWGent4Humanity refugee support\.](https://www.facebook.com/BelgiumGent4Humanity/?hc_ref=ARTEnQaI_CQuODQSL4j1hR22XMHayJU-Ko9DQVo2fayRoI7oM2MkuY0k2GytJjlF6Xc&hc_location=group)](../assets/8d204897c984/1*8mXcXEfoBc1X2K1_N2kYYA.jpeg)
 
 Small tent city in St\. Denis, Paris\. Photo Credit: [VZWGent4Humanity refugee support\.](https://www.facebook.com/BelgiumGent4Humanity/?hc_ref=ARTEnQaI_CQuODQSL4j1hR22XMHayJU-Ko9DQVo2fayRoI7oM2MkuY0k2GytJjlF6Xc&hc_location=group)
 ### FEATURE: UNHCR congratulates itself on marginal victory in Libya — what’s the cost?
@@ -59,7 +59,7 @@ According to Aegean Boat Report, 29 people arrived to Chios on Sunday morning at
 It is of vital importance to not let the relative peace and calm trick us into thinking that conditions have noticeably improved\. Again, human rights activist Arash Hampay shared a photo from a resident of Moria, reminding everyone that a lack of news does not mean a lack of suffering\.
 
 
-![Photo: Iraj Baloch](assets/8d204897c984/1*2d3zovV-3lNGbdPS4BaSXA.jpeg)
+![Photo: Iraj Baloch](../assets/8d204897c984/1*2d3zovV-3lNGbdPS4BaSXA.jpeg)
 
 Photo: Iraj Baloch
 
@@ -92,7 +92,7 @@ The Workshop in Belgrade is continuing a fundraiser to continue its education an
 Red Cross Bosnia posted a photo detailing the number of people who are currently present there\. Bihac is fast becoming another hot spot in BiH\. The government entities are slowly working to accommodate some more people in a formal way, but the majority of response is still coming from ordinary citizens and volunteers\.
 
 
-![Photo Credit: Red Cross City of Bihac](assets/8d204897c984/1*xmbUK5gzUDBInrdjRCyWVQ.jpeg)
+![Photo Credit: Red Cross City of Bihac](../assets/8d204897c984/1*xmbUK5gzUDBInrdjRCyWVQ.jpeg)
 
 Photo Credit: Red Cross City of Bihac
 ### **FRANCE**
@@ -100,7 +100,7 @@ Photo Credit: Red Cross City of Bihac
 The community who knew of the two\-year\-old girl named Mawda who was killed last week in an altercation with Belgian border police mourned her\. The Belgian government denies the allegation that Mawda died as a result of gunfire on the part of the Belgian police, but a full autopsy will be carried out on Thursday to determine the cause of death\. According to witnesses, Mawda died of a gunshot wound to the head as Belgian authorities pursued the van that she and her family were traveling in, [source](https://www.theguardian.com/world/2018/may/18/two-year-old-girl-dies-after-incident-involving-armed-police-in-belgium) \.
 
 
-![Photo credit: [Dunkirk / Dunkerque Refugee Women’s Centre](https://www.facebook.com/refugeewomenscentre/)](assets/8d204897c984/1*hkoqbRDX5Cq_tBaffYZHsQ.jpeg)
+![Photo credit: [Dunkirk / Dunkerque Refugee Women’s Centre](https://www.facebook.com/refugeewomenscentre/)](../assets/8d204897c984/1*hkoqbRDX5Cq_tBaffYZHsQ.jpeg)
 
 Photo credit: [Dunkirk / Dunkerque Refugee Women’s Centre](https://www.facebook.com/refugeewomenscentre/)
 
@@ -123,7 +123,7 @@ Solidarity Migrants Wilson posted the following volunteer call:
 “Need volunteers tomorrow and the following days at 9 pm at 56 Boulevard Ney Porte de la chapelle\. It’s with everyone’s involvement,that we succeed this crazy bet of solidarity
 
 
-![](assets/8d204897c984/0*LKxZc6ojLxSiOgPk.png)
+![](../assets/8d204897c984/0*LKxZc6ojLxSiOgPk.png)
 
 
 Register on the schedule [https://docs\.google\.com/spreadsheets/d/1CDTu2aZcuhldwhfPfrch75FxfsIFTbe97SN17bq2MQc/edit?ts=5849bb00\#gid=0](https://docs.google.com/spreadsheets/d/1CDTu2aZcuhldwhfPfrch75FxfsIFTbe97SN17bq2MQc/edit?ts=5849bb00#gid=0) as long as possible in advance and leave your full details\. Thanks\!”

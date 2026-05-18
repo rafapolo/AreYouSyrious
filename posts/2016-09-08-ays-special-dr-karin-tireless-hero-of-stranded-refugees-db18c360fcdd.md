@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Dr. Karin, tireless hero of stranded refugees
+title: "AYS SPECIAL: Dr. Karin, tireless hero of stranded refugees"
 author: Are You Syrious?
 date: 2016-09-08T13:02:12.643+0100
 last_modified_at: 2018-03-01T14:19:22.330+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [refugees,europe,migration,greece,special]
 description: Among the of hundreds volunteers in Greece, there are people of many different backgrounds and professions, including doctors. Several of…
 image:
-  path: assets/db18c360fcdd/1*bnlOhrybUbV2DEPZVc4iKg.jpeg
+  path: ../assets/db18c360fcdd/1*bnlOhrybUbV2DEPZVc4iKg.jpeg
 ---
 
 ### AYS SPECIAL: Dr\. Karin, tireless hero of stranded refugees
 
 
-![Dr Karin Tschare\-Fehr ambulance is where ever refugees are\. She offers medical help, smile and encouragement to refugees and volunteers\. Photo by [**Arye Wachsmuth**](https://www.facebook.com/arye.wachsmuth)](assets/db18c360fcdd/1*bnlOhrybUbV2DEPZVc4iKg.jpeg)
+![Dr Karin Tschare\-Fehr ambulance is where ever refugees are\. She offers medical help, smile and encouragement to refugees and volunteers\. Photo by [**Arye Wachsmuth**](https://www.facebook.com/arye.wachsmuth)](../assets/db18c360fcdd/1*bnlOhrybUbV2DEPZVc4iKg.jpeg)
 
 Dr Karin Tschare\-Fehr ambulance is where ever refugees are\. She offers medical help, smile and encouragement to refugees and volunteers\. Photo by [**Arye Wachsmuth**](https://www.facebook.com/arye.wachsmuth)
 
@@ -26,11 +26,11 @@ She walks around the park, chats with people, and if somebody needs her, she sit
 Her car is stuffed with clothes, vitamins, baby diapers and food, and medicine\. She puts bandages on the feet of people who walked the night before trying to cross the border and continue further north\. She examines babies with fever\. She gives vitamins to women and children\. Sometimes when needed, she just talks to people and plays with the kids\. On the last day of her stay in Thessaloniki, we went to visit one of her patients who was caught by police while trying to cross the border, and was brought to the camp where he didn’t want to stay\. When we arrived, police and military did not want to let us in and, while standing at the gate, Dr\. Karin announced that all people who need to see the doctor should come out\. She asked some of them to bring blankets from their tents, and then she started working on the ground in the forest road near the camp\. She worked there for over three hours, hardly able to stand up when the last patient left\. All of them were hugging her and thanking her for what she have done, even when it was just listening to them or saying something encouraging\.
 
 
-![](assets/db18c360fcdd/1*9GnD-3VuD0ZRwnXLln0EmA.jpeg)
+![](../assets/db18c360fcdd/1*9GnD-3VuD0ZRwnXLln0EmA.jpeg)
 
 
 
-![Days in park near train station in Thessaloniki\. Dr Karin used to see daily more than 100 people who needed medical help\. Photo by [**Arye Wachsmuth**](https://www.facebook.com/arye.wachsmuth)](assets/db18c360fcdd/1*LZ16ViwkFgc8zMf5JP-U4A.jpeg)
+![Days in park near train station in Thessaloniki\. Dr Karin used to see daily more than 100 people who needed medical help\. Photo by [**Arye Wachsmuth**](https://www.facebook.com/arye.wachsmuth)](../assets/db18c360fcdd/1*LZ16ViwkFgc8zMf5JP-U4A.jpeg)
 
 Days in park near train station in Thessaloniki\. Dr Karin used to see daily more than 100 people who needed medical help\. Photo by [**Arye Wachsmuth**](https://www.facebook.com/arye.wachsmuth)
 
@@ -52,7 +52,7 @@ Dr\. Karin did not stop after Idomeni\. During her days in Greece, she has visit
 “People are desperate and that will cause many issues to be dealt with in the future\. They need, among other things, therapeutic help and that is barely coming\. It would take a lot of doctors and treatments for these people to be healthy again\. And every day we lose on the way, it will cost more money and more engagement of therapist,” she claims\.
 
 
-![Police often camps to park and moves away refugees\. But they do not stop Dr\. Karin from helping who ever needs her help\. Photo by AYS\.](assets/db18c360fcdd/1*iz26V92sSkFd0fbNjKtBpw.jpeg)
+![Police often camps to park and moves away refugees\. But they do not stop Dr\. Karin from helping who ever needs her help\. Photo by AYS\.](../assets/db18c360fcdd/1*iz26V92sSkFd0fbNjKtBpw.jpeg)
 
 Police often camps to park and moves away refugees\. But they do not stop Dr\. Karin from helping who ever needs her help\. Photo by AYS\.
 
@@ -72,7 +72,7 @@ Dr\. Karin adds that the worst situation is with the people who have chronic ill
 She also warns of another problem, and that is extensive use of the cesarean sections on women\. Dr\. Karin has examined women who told her that doctors in hospitals are using this method for almost all the women, regardless of their choice\. Just a couple of days after the procedure, women and their newborn babies are sent back to live in the unhygienic tents of the camps, some lacking even running water\.
 
 
-![Second shift in the park starts around 7pm and ends late in the night\. Photo by AYS\.](assets/db18c360fcdd/1*A0h6ER-D1bDCmIRrj2emdQ.jpeg)
+![Second shift in the park starts around 7pm and ends late in the night\. Photo by AYS\.](../assets/db18c360fcdd/1*A0h6ER-D1bDCmIRrj2emdQ.jpeg)
 
 Second shift in the park starts around 7pm and ends late in the night\. Photo by AYS\.
 
@@ -81,7 +81,7 @@ Due to the lack of the medical care and life conditions, some routine issues bec
 Dr\. Karin and a group of people tried to help Mohammed find better accommodations, but with no success\. Elpida, the best and the nearest place, is not currently accepting more people\. UNHCR is aware of the case, as well as many others organizations working in Softex, but have not done anything to move Mohammed from Softex while we were there\. The operation is not the option for now and nobody is mentioning it, even though doctors who saw him do recommend it\. He is now Dr\. Karin’s patient and she is trying to find somebody who will help him\. “He just needs normal life conditions,” she speaks in a desperate voice\.
 
 
-![After military and police did not let her in the camp, Dr\. Karin worked at the road in nearby forest seeing hundreds of people over couple of hours\. Photo by AYS\.](assets/db18c360fcdd/1*eYVC3NxTrRtCaw4ug-83Rg.jpeg)
+![After military and police did not let her in the camp, Dr\. Karin worked at the road in nearby forest seeing hundreds of people over couple of hours\. Photo by AYS\.](../assets/db18c360fcdd/1*eYVC3NxTrRtCaw4ug-83Rg.jpeg)
 
 After military and police did not let her in the camp, Dr\. Karin worked at the road in nearby forest seeing hundreds of people over couple of hours\. Photo by AYS\.
 

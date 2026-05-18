@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest — 04/03/2021: Frontex watchdog draws closer to determine agency implication in…
+title: "AYS Daily Digest — 04/03/2021: Frontex watchdog draws closer to determine agency implication in…"
 author: Are You Syrious?
 date: 2021-03-05T15:01:12.014+0000
 last_modified_at: 2021-03-05T20:57:30.720+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,frontex,italy,greece,uk]
 description: Italian prosecutors keep on with strategy of charging rescuers involved in SAR operations in the Mediterranean // Unaccompanied minors in…
 image:
-  path: assets/1bd9459a11a6/1*2oAREuXUV-TDp08EDz4LTA.jpeg
+  path: ../assets/1bd9459a11a6/1*2oAREuXUV-TDp08EDz4LTA.jpeg
 ---
 
 ### AYS Daily Digest — 04/03/21: Frontex watchdog draws closer to implicating agency in illegal pushbacks
 #### Italian prosecutors continue strategy of charging rescuers involved in SAR operations in the Mediterranean // Unaccompanied minors in Greece challenge systematic pushback practice // UK Home Office warned of precarious health situation before agreeing to send migrants to former military barracks // and more…\.
 
 
-![](assets/1bd9459a11a6/1*2oAREuXUV-TDp08EDz4LTA.jpeg)
+![](../assets/1bd9459a11a6/1*2oAREuXUV-TDp08EDz4LTA.jpeg)
 
 #### FEATURED: EU and FRONTEX
 
@@ -104,7 +104,7 @@ Forensic oceanography and archaeology [evidence suggests](https://blamingtheresc
 #### GERMANY
 
 
-![](assets/1bd9459a11a6/1*nVwGYRDCQU47toN9Xj6ZOw.jpeg)
+![](../assets/1bd9459a11a6/1*nVwGYRDCQU47toN9Xj6ZOw.jpeg)
 
 
 In the past two days, [197 people have been transferred](https://www.infomigrants.net/en/post/30651/197-refugees-transferred-from-greece-to-germany?fbclid=IwAR0-M61RnSzpujZ627h7Csw-YzXpPby3xOStNhFjUvMxeM3hwA0UurtHsuw) from Greece to Germany, where they will be settled in different German states\. This brings the total number of transfers since April of last year to 2,151\. Germany was one of several European countries that agreed to take in ‘vulnerable refugees and migrants’ from Greece last spring\. In March 2020, Berlin agreed to take in roughly 240 sick children and their core family members, as well as 53 unaccompanied minors\. The overall number of people Germany has agreed to take in from Greece is 2,750\.

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 30.09.17: Sick of Waiting Protests take place across Europe
+title: "AYS Daily Digest 30.09.17: Sick of Waiting Protests take place across Europe"
 author: Are You Syrious?
 date: 2017-10-01T06:21:17.859+0100
 last_modified_at: 2017-10-01T14:34:01.074+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,croatia,greece,europe]
 description: Dentist needed in Beqaa, Lebanon // Nearly a dozen refugees kidnapped by Islamist militia after being deported from Turkey // Aegean…
 image:
-  path: assets/5d2a52f7c67d/1*_ee_zDpNfEJVsstNbYPhAQ.jpeg
+  path: ../assets/5d2a52f7c67d/1*_ee_zDpNfEJVsstNbYPhAQ.jpeg
 ---
 
 ### AYS Daily Digest 30\.09\.17: Sick of Waiting Protests take place across Europe
@@ -15,7 +15,7 @@ image:
 Dentist needed in Beqaa, Lebanon // Nearly a dozen refugees kidnapped by Islamist militia after being deported from Turkey // Aegean hotspots growing more overcrowded by the day // AYS condemns lauding of refugee\-hunting police dog // Tentless conglomeration of refugees in Dunkirk spotted // New paper studies the question of refugees’ money
 
 
-![Refugees protest in Athens as part of the ‘Sick of Waiting’ campaign\. Photo AYS\.](assets/5d2a52f7c67d/1*_ee_zDpNfEJVsstNbYPhAQ.jpeg)
+![Refugees protest in Athens as part of the ‘Sick of Waiting’ campaign\. Photo AYS\.](../assets/5d2a52f7c67d/1*_ee_zDpNfEJVsstNbYPhAQ.jpeg)
 
 Refugees protest in Athens as part of the ‘Sick of Waiting’ campaign\. Photo AYS\.
 #### Feature

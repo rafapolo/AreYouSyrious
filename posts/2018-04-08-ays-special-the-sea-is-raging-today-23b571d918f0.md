@@ -1,5 +1,5 @@
 ---
-title: AYS Special from Ventimiglia: The sea is raging today
+title: "AYS Special from Ventimiglia: The sea is raging today"
 author: Are You Syrious?
 date: 2018-04-08T11:04:25.113+0100
 last_modified_at: 2018-04-09T18:29:19.944+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,special,italy,migrants,ventimiglia]
 description: How life goes on in Ventimiglia, three years after the so called “emergency”.
 image:
-  path: assets/23b571d918f0/1*_TVsANkDmyz6ebhhJIgv4A.jpeg
+  path: ../assets/23b571d918f0/1*_TVsANkDmyz6ebhhJIgv4A.jpeg
 ---
 
 ### **AYS Special from Ventimiglia: The sea is raging today**
 #### How life goes on in Ventimiglia, three years after the so called “emergency”\.
 
 
-![Credit: Andrea Panico](assets/23b571d918f0/1*_TVsANkDmyz6ebhhJIgv4A.jpeg)
+![Credit: Andrea Panico](../assets/23b571d918f0/1*_TVsANkDmyz6ebhhJIgv4A.jpeg)
 
 Credit: Andrea Panico
 
@@ -31,7 +31,7 @@ I decide to start walking around and end up to the sea front\.
 “ _The sea is raging today,_ ” says an elderly woman passing me by “ _…rightly so_ ” I reply, staring at the stone benches in front of me\.
 
 
-![Credit: Emanuela Zampa](assets/23b571d918f0/1*-GbAMmmBQZCtAIarH7077A.jpeg)
+![Credit: Emanuela Zampa](../assets/23b571d918f0/1*-GbAMmmBQZCtAIarH7077A.jpeg)
 
 Credit: Emanuela Zampa
 
@@ -58,11 +58,11 @@ NGOs in solidarity run by foreigners \(mainly Kesha Niya\) were distributing foo
 Bar Hobbit is the only cafè in town where migrants are welcome to sit and just relax, they can charge their phones and met with volunteers who can give them infos or talk with them, human to human\.
 
 
-![](assets/23b571d918f0/1*QNDdY7dPi9A31putcq__dw.jpeg)
+![](../assets/23b571d918f0/1*QNDdY7dPi9A31putcq__dw.jpeg)
 
 
 
-![Credit: AYS](assets/23b571d918f0/1*eBemN8ttse9razztMAUqOQ.jpeg)
+![Credit: AYS](../assets/23b571d918f0/1*eBemN8ttse9razztMAUqOQ.jpeg)
 
 Credit: AYS
 
@@ -71,15 +71,15 @@ Delia is always up to help families in need, she offers storage place, clothes a
 She is very open and talks sincerely with no need of presentations\.
 
 
-![](assets/23b571d918f0/1*eoLpru0dorelT6u5s7-zBg.jpeg)
+![](../assets/23b571d918f0/1*eoLpru0dorelT6u5s7-zBg.jpeg)
 
 
 
-![](assets/23b571d918f0/1*7lXyW9fFBKkrRqFmSUaisw.jpeg)
+![](../assets/23b571d918f0/1*7lXyW9fFBKkrRqFmSUaisw.jpeg)
 
 
 
-![Credit: AYS](assets/23b571d918f0/1*oox8PwwUSkKPw7DtAGVYXg.jpeg)
+![Credit: AYS](../assets/23b571d918f0/1*oox8PwwUSkKPw7DtAGVYXg.jpeg)
 
 Credit: AYS
 
@@ -98,11 +98,11 @@ In the cafè, I also briefly speak to some guys living under the bridge and we a
 
 
 
-![](assets/23b571d918f0/1*FUpDB0GYPZJ3grNDvQHxmw.jpeg)
+![](../assets/23b571d918f0/1*FUpDB0GYPZJ3grNDvQHxmw.jpeg)
 
 
 
-![Credit: AYS](assets/23b571d918f0/1*nmPQXzlGDL9MHzHOeYrkJg.jpeg)
+![Credit: AYS](../assets/23b571d918f0/1*nmPQXzlGDL9MHzHOeYrkJg.jpeg)
 
 Credit: AYS
 
@@ -121,15 +121,15 @@ A\., 17, from Eritrea is super open and smiles constantly\. We’ve just met and
 Once in Libya, he was closed in one of these “ _magazzino_ ” he keeps saying, literally “ _warehouse_ ”, a jail most probably, with other hundreds of people, they were sleeping one of the top of the other as there was no space\. Food is scarce\. “ _People die in the magazzino_ ”\. “ _They always ask for money_ ” he says, “ _if you don’t have money, they beat you\. Police beats you for money\. Money to cross_ ”\.
 
 
-![](assets/23b571d918f0/1*enyia5CHK10-wQ14UyZfoA.jpeg)
+![](../assets/23b571d918f0/1*enyia5CHK10-wQ14UyZfoA.jpeg)
 
 
 
-![](assets/23b571d918f0/1*JRu0BIgM-xNhUEPx4d2ZGw.jpeg)
+![](../assets/23b571d918f0/1*JRu0BIgM-xNhUEPx4d2ZGw.jpeg)
 
 
 
-![Credit: Andrea Panico](assets/23b571d918f0/1*3XIa9AnhjynRz7JoA2BlDw.jpeg)
+![Credit: Andrea Panico](../assets/23b571d918f0/1*3XIa9AnhjynRz7JoA2BlDw.jpeg)
 
 Credit: Andrea Panico
 
@@ -148,15 +148,15 @@ Around 200 people \(varying on the periods, there were also peaks of 600 in summ
 Moreover, at Caritas’ a doctor is available daily and also there’s a possibility, for those interested, to benefit from psychological assistance but, as the requests are high in numbers, it’s not always that easy to access the service\.
 
 
-![](assets/23b571d918f0/1*JG_Z7u-RNrCYgvySX22kMw.jpeg)
+![](../assets/23b571d918f0/1*JG_Z7u-RNrCYgvySX22kMw.jpeg)
 
 
 
-![](assets/23b571d918f0/1*LxAFtTCn2AFa8zn4z5dAWQ.jpeg)
+![](../assets/23b571d918f0/1*LxAFtTCn2AFa8zn4z5dAWQ.jpeg)
 
 
 
-![Credit: AYS](assets/23b571d918f0/1*ZNjI49__pFTrv8fyJ3KZbA.jpeg)
+![Credit: AYS](../assets/23b571d918f0/1*ZNjI49__pFTrv8fyJ3KZbA.jpeg)
 
 Credit: AYS
 
@@ -214,15 +214,15 @@ _The first conclusion is, therefore, that the practices have been modified since
 _We are currently assessing the next steps further this action and we will get back to you soon on this\._ ”
 
 
-![](assets/23b571d918f0/1*1BIry2Ni0upPYKWDi4NCHA.jpeg)
+![](../assets/23b571d918f0/1*1BIry2Ni0upPYKWDi4NCHA.jpeg)
 
 
 
-![](assets/23b571d918f0/1*evMt_e5GUONy98R707jYGw.jpeg)
+![](../assets/23b571d918f0/1*evMt_e5GUONy98R707jYGw.jpeg)
 
 
 
-![Credit: Andrea Panico](assets/23b571d918f0/1*P9laN89o2nhUaLaV1IXosg.jpeg)
+![Credit: Andrea Panico](../assets/23b571d918f0/1*P9laN89o2nhUaLaV1IXosg.jpeg)
 
 Credit: Andrea Panico
 
@@ -237,19 +237,19 @@ The train ride is about 10 minute long and, once in Menton Garavan, 3 members of
 Yves is a French guy and every now and then he comes to Ventimiglia with his van and wooden games \(that he built\) and set them up for the guys living under the bridge, obviously playing with them too\.
 
 
-![](assets/23b571d918f0/1*zHUvzSFE0sTZqrFywIRBVQ.jpeg)
+![](../assets/23b571d918f0/1*zHUvzSFE0sTZqrFywIRBVQ.jpeg)
 
 
 
-![](assets/23b571d918f0/1*KWeZENR5FYIhoHKXrd8FIg.jpeg)
+![](../assets/23b571d918f0/1*KWeZENR5FYIhoHKXrd8FIg.jpeg)
 
 
 
-![](assets/23b571d918f0/1*IzLZRu242EiwFug0GLp1cw.jpeg)
+![](../assets/23b571d918f0/1*IzLZRu242EiwFug0GLp1cw.jpeg)
 
 
 
-![Credit: AYS](assets/23b571d918f0/1*tR00qXbUKnrecTC7b4HcaQ.jpeg)
+![Credit: AYS](../assets/23b571d918f0/1*tR00qXbUKnrecTC7b4HcaQ.jpeg)
 
 Credit: AYS
 
@@ -294,7 +294,7 @@ _threatened that if we continued this, they would ban food distribution_
 _again altogether\._ ”
 
 
-![Credit: AYS](assets/23b571d918f0/1*WeP0zi7U2A5L0KQRAiwpDA.jpeg)
+![Credit: AYS](../assets/23b571d918f0/1*WeP0zi7U2A5L0KQRAiwpDA.jpeg)
 
 Credit: AYS
 

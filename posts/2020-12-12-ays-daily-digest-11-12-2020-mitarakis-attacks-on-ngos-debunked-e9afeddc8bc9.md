@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,greece,ngo]
 description: Extreme weather forecast for Greece//Berlin Public Prosecutor issues injunction against AfD politician//& more
 image:
-  path: assets/e9afeddc8bc9/0*zUHXVhaSOehzMFu_
+  path: ../assets/e9afeddc8bc9/0*zUHXVhaSOehzMFu_
 ---
 
 ### AYS Daily Digest 11/12/2020 — Mitarakis’ Attacks on NGOs, Debunked
 ### Extreme weather forecast for Greece//Berlin Public Prosecutor issues injunction against AfD politician//& more
 
 
-![](assets/e9afeddc8bc9/0*A-Xr4K7jxkCrRCI5.jpeg)
+![](../assets/e9afeddc8bc9/0*A-Xr4K7jxkCrRCI5.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----6276d8fbdcb0--------------------------------)
@@ -22,11 +22,11 @@ image:
 [Dec 12](ays-daily-digest-11-12-2020-mitarakis-attacks-on-ngos-debunked-6276d8fbdcb0?source=post_page-----6276d8fbdcb0--------------------------------) · 10 min read
 
 
-![](assets/e9afeddc8bc9/0*-_UQC2uE7d3rcsqx)
+![](../assets/e9afeddc8bc9/0*-_UQC2uE7d3rcsqx)
 
 
 
-![](assets/e9afeddc8bc9/0*zUHXVhaSOehzMFu_)
+![](../assets/e9afeddc8bc9/0*zUHXVhaSOehzMFu_)
 
 ### FEATURE
 ### Mitarakis’ attacks on NGOs, debunked

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 21/5/21: “If the EU continues to tilt in this direction, then we can write off the…
+title: "AYS Daily Digest 21/5/21: “If the EU continues to tilt in this direction, then we can write off the…"
 author: Are You Syrious?
 date: 2021-05-22T14:42:28.226+0100
 last_modified_at: 2021-05-22T14:42:28.226+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,greece,refugees,migration,europe]
 description: Greek Migration Minister Mitarakis says pushbacks are necessary / Acquisitions are overturning the very first acquittal verdict in the…
 image:
-  path: assets/79d41d64b87a/0*UyZMxJVEFMovuOMf
+  path: ../assets/79d41d64b87a/0*UyZMxJVEFMovuOMf
 ---
 
 ### AYS Daily Digest 21/5/21: “If the EU continues to tilt in this direction, then we can write off the 1951 Refugee Convention for good\.”
 ### Greek Migration Minister Mitarakis says pushbacks are necessary / Acquisitions are overturning the very first acquittal verdict in the Easter Monday pushback case of the Maltese officials / The uncertain situation for unaccompanied minors in Ceuta / Calls for participation, support and indignation — take part\! / Recommended reads and more
 
 
-![](assets/79d41d64b87a/0*hTHnbQSc2cq_nEEh.jpeg)
+![](../assets/79d41d64b87a/0*hTHnbQSc2cq_nEEh.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----aacf503e4e7d--------------------------------)
@@ -22,7 +22,7 @@ image:
 [May 22](ays-daily-digest-21-5-21-if-the-eu-continues-to-tilt-in-this-direction-then-we-can-write-off-the-aacf503e4e7d?source=post_page-----aacf503e4e7d--------------------------------) · 11 min read
 
 
-![](assets/79d41d64b87a/0*UyZMxJVEFMovuOMf)
+![](../assets/79d41d64b87a/0*UyZMxJVEFMovuOMf)
 
 
 The title is a quote from Sea\-Eye chairman Gorden Isler\. Featured photo — On board the Sea\-Eye 4 look at Italy’s shores \(All copyrights reserved — [Photo: Guillaume Duez/Sea\-Eye](https://thecivilfleet.wordpress.com/2021/05/21/rescued-refugees-reach-dry-land-after-authorities-send-them-on-a-two-day-detour/?fbclid=IwAR0KBMki-RvcqishG1sGcOcx5x0HJNtLvpBzQsQHirC0e06SRbeqRISoy40) \)
@@ -37,7 +37,7 @@ At the time of reporting this, the Alarm Phone team [reported](https://l.faceboo
 ### Granted international protection — where are the people now?
 
 
-![](assets/79d41d64b87a/0*LZ5AMWugb1kSLnzS)
+![](../assets/79d41d64b87a/0*LZ5AMWugb1kSLnzS)
 
 
 3,914 people, including 768 unaccompanied children, who have been granted refugee or subsidiary protection status have been relocated from Greece to other European countries since April 2020\.
@@ -45,11 +45,11 @@ At the time of reporting this, the Alarm Phone team [reported](https://l.faceboo
 ECHO Refugee Library is back in the field\. This week at Korinthos Camp, a number of people were happy to see them back and to make young and older readers more alive and hopeful in the midst of a tough situation\. _“I am glad you are here\. You have been missed\. We have not had anything to read for months\!”_
 
 
-![](assets/79d41d64b87a/0*iJfF4QWvh3wBkDIU)
+![](../assets/79d41d64b87a/0*iJfF4QWvh3wBkDIU)
 
 
 
-![](assets/79d41d64b87a/0*IetGPW1HsVAVxSdb)
+![](../assets/79d41d64b87a/0*IetGPW1HsVAVxSdb)
 
 ### MALTA
 
@@ -94,19 +94,19 @@ Many people see swimming to the Spanish enclave as their quickest and most likel
 No Name Kitchen is putting together masks and food items for individuals in Ceuta without basic access\. Along with Elin Association, Maakum Ceuta, APDHA, and Solidarity Wheels, they have released a statement condemning developments in Ceuta:
 
 
-![](assets/79d41d64b87a/0*MZuI9W-g17ISSENK)
+![](../assets/79d41d64b87a/0*MZuI9W-g17ISSENK)
 
 
 
-![](assets/79d41d64b87a/0*Zs7ZSU2wE1qS-78D)
+![](../assets/79d41d64b87a/0*Zs7ZSU2wE1qS-78D)
 
 
 
-![](assets/79d41d64b87a/0*66ITjoRZbFMttH_0)
+![](../assets/79d41d64b87a/0*66ITjoRZbFMttH_0)
 
 
 
-![](assets/79d41d64b87a/0*ALSxOMDOFHGcHMOx)
+![](../assets/79d41d64b87a/0*ALSxOMDOFHGcHMOx)
 
 
 [Follow and support](http://Bit.ly/SOSCEUTA) the ground teams there\.
@@ -137,11 +137,11 @@ Khora are running this event in tandem with their crowdfunding appeal to raise E
 You can support Khora Asylum Support Team at [https://khorafundraising\.org/](https://khorafundraising.org/?fbclid=IwAR3ItAnS3Z5VSi8typGtpxpR9mC8MshZbh3GW8_g6t_ecFSzm5kzvT9HWGE)
 
 
-![](assets/79d41d64b87a/0*ZtpK9ukNIFC9rDA2)
+![](../assets/79d41d64b87a/0*ZtpK9ukNIFC9rDA2)
 
 
 
-![](assets/79d41d64b87a/0*LzfTrCQtt7OhAtl-)
+![](../assets/79d41d64b87a/0*LzfTrCQtt7OhAtl-)
 
 ### May 29 at 12 pmUTC\+02 — May 31 at11 pm UTC\+02
 
@@ -165,11 +165,11 @@ Follow the Syrian sit\-in protest here: [https://www\.facebook\.com/events/35839
 If you set up an event for a protest in your country, please share it with us and we will help to spread the word\!
 
 
-![](assets/79d41d64b87a/0*64u9N8xTJL9bVFta)
+![](../assets/79d41d64b87a/0*64u9N8xTJL9bVFta)
 
 
 
-![](assets/79d41d64b87a/0*LG0RhwUhqAaLXYEo)
+![](../assets/79d41d64b87a/0*LG0RhwUhqAaLXYEo)
 
 ### GENERAL
 

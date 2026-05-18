@@ -1,5 +1,5 @@
 ---
-title: AYS 14/04/2020: Left to Fend for Themselves — Europe’s Unspoken Migration Policy
+title: "AYS 14/04/2020: Left to Fend for Themselves — Europe’s Unspoken Migration Policy"
 author: Are You Syrious?
 date: 2020-04-15T12:18:44.316+0100
 last_modified_at: 2020-04-15T20:48:27.520+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: []
 description: Malta and Italy turn their back on people stuck at Sea // Greece fines homeless people // An innocent Nigerian boy shot in Italy // Police…
 image:
-  path: assets/f62721332594/0*XyiSholEMktmtHuX
+  path: ../assets/f62721332594/0*XyiSholEMktmtHuX
 ---
 
 ### **AYS Daily Digest 14/04/20: Left to Fend for Themselves — Europe’s Unspoken Migration Policy**
 #### _Malta and Italy turn their back on people stuck at sea // Greece fines homeless people // An innocent Nigerian boy shot in Italy // Police brutality in Calais // People on the move abandoned in BH_
 
 
-![Photo credit A [rash Hampay](https://www.facebook.com/arashampay?__tn__=%2Cd%2AF%2AF-R&eid=ARApmUFiui2F2yQc0-ss-Ot8ZmQzMwhQy8kEa2UfAFwIIf1mS9w6eieMUdEhyDOc3_8Wz9Syiac16vgw&tn-str=%2AF) : “Life, is to create spring, even inside hell\. \*Moria Lesvos, photo: Muhannad Al Mandil [\#Refugeesgr](https://www.facebook.com/hashtag/refugeesgr?epa=HASHTAG) [\#COVID2019](https://www.facebook.com/hashtag/covid2019?epa=HASHTAG) ”](assets/f62721332594/0*XyiSholEMktmtHuX)
+![Photo credit A [rash Hampay](https://www.facebook.com/arashampay?__tn__=%2Cd%2AF%2AF-R&eid=ARApmUFiui2F2yQc0-ss-Ot8ZmQzMwhQy8kEa2UfAFwIIf1mS9w6eieMUdEhyDOc3_8Wz9Syiac16vgw&tn-str=%2AF) : “Life, is to create spring, even inside hell\. \*Moria Lesvos, photo: Muhannad Al Mandil [\#Refugeesgr](https://www.facebook.com/hashtag/refugeesgr?epa=HASHTAG) [\#COVID2019](https://www.facebook.com/hashtag/covid2019?epa=HASHTAG) ”](../assets/f62721332594/0*XyiSholEMktmtHuX)
 
 Photo credit A [rash Hampay](https://www.facebook.com/arashampay?__tn__=%2Cd%2AF%2AF-R&eid=ARApmUFiui2F2yQc0-ss-Ot8ZmQzMwhQy8kEa2UfAFwIIf1mS9w6eieMUdEhyDOc3_8Wz9Syiac16vgw&tn-str=%2AF) : “Life, is to create spring, even inside hell\. \*Moria Lesvos, photo: Muhannad Al Mandil [\#Refugeesgr](https://www.facebook.com/hashtag/refugeesgr?epa=HASHTAG) [\#COVID2019](https://www.facebook.com/hashtag/covid2019?epa=HASHTAG) ”
 #### **FEATURED**
@@ -112,7 +112,7 @@ Those detained in Bursa were released Friday and told they could go wherever the
 Two days ago, people finally received their cash card top up\. Normally, they receive financial assistance at the beginning of the month, as do most people in Greece, but due to the Corona restrictions, it was late this month\. A lot of people needed to go shopping as they were running out of food, but only 65 people are currently allowed to go out at one time\. There are currently over a thousand people in the camp, which has become more crowded since they moved the people camping outside to within the walls of the hotspot\. As a result the situation escalated and the police beat both the women and the men to separate the groups\.
 
 
-![](assets/f62721332594/0*gn3bRqZWskplbQMk)
+![](../assets/f62721332594/0*gn3bRqZWskplbQMk)
 
 ### **_Ritsona_**
 
@@ -168,7 +168,7 @@ Luckily, the White Helmets have begun cleaning up the area, trying to make condi
 A child looks on at the volunteer team getting to work\.
 
 
-![](assets/f62721332594/0*Qgh0UZucrqrIZ6Hz)
+![](../assets/f62721332594/0*Qgh0UZucrqrIZ6Hz)
 
 
 Seawatch is working to send 1000 masks to Lesvos to try to curb the outbreak\.
@@ -255,7 +255,7 @@ If you're looking for a way to #helpfromhome, pls consider donating to any of th
 #### **BOSNIA & HERZEGOVINA**
 
 
-![Photo credit: info24bih](assets/f62721332594/0*R-JT3ujd0L7EiOqG)
+![Photo credit: info24bih](../assets/f62721332594/0*R-JT3ujd0L7EiOqG)
 
 Photo credit: info24bih
 

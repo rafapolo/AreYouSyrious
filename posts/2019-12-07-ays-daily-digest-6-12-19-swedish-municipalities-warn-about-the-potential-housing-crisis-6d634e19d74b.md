@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 6/12/19: Swedish municipalities warn about the potential housing crisis
+title: "AYS Daily Digest 6/12/19: Swedish municipalities warn about the potential housing crisis"
 author: Are You Syrious?
 date: 2019-12-07T16:36:30.583+0000
 last_modified_at: 2019-12-07T17:24:02.123+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,sweden,migration,europe]
 description: As a result of the so-called School Act, many young Afghans face possible evictions / Lack of will to solve basic issues of people stuck…
 image:
-  path: assets/6d634e19d74b/1*pTnGAapVwuk0PBtUZSv3Lw.jpeg
+  path: ../assets/6d634e19d74b/1*pTnGAapVwuk0PBtUZSv3Lw.jpeg
 ---
 
 ### AYS Daily Digest 6/12/19: Swedish municipalities warn about the potential housing crisis
 #### As a result of the so\-called School Act, many young Afghans face possible evictions / Lack of will to solve basic issues of people stuck outside any reception facilities across Bosnia and Herzegovina / hotspot in Lampedusa in worse condition than before / Hundreds of vulnerable refugees were taken and are now making their way back to Calais through the rain, wind, and freezing cold, medical workers warn
 
 
-![Vučjak, photo source: [Dirk Planert](https://www.facebook.com/dirk.planert?__tn__=%2Cd%2AF%2AF-R&eid=ARCvGkTXjVsAHoWIricYmN9zlfQjRGKJIQ7ld9mEwPv5TnxaWf0EttY72xHz5fSR4vrTqVM_cutLdTwP&tn-str=%2AF&hc_location=group_dialog)](assets/6d634e19d74b/1*pTnGAapVwuk0PBtUZSv3Lw.jpeg)
+![Vučjak, photo source: [Dirk Planert](https://www.facebook.com/dirk.planert?__tn__=%2Cd%2AF%2AF-R&eid=ARCvGkTXjVsAHoWIricYmN9zlfQjRGKJIQ7ld9mEwPv5TnxaWf0EttY72xHz5fSR4vrTqVM_cutLdTwP&tn-str=%2AF&hc_location=group_dialog)](../assets/6d634e19d74b/1*pTnGAapVwuk0PBtUZSv3Lw.jpeg)
 
 Vučjak, photo source: [Dirk Planert](https://www.facebook.com/dirk.planert?__tn__=%2Cd%2AF%2AF-R&eid=ARCvGkTXjVsAHoWIricYmN9zlfQjRGKJIQ7ld9mEwPv5TnxaWf0EttY72xHz5fSR4vrTqVM_cutLdTwP&tn-str=%2AF&hc_location=group_dialog)
 #### FEATURED
@@ -32,7 +32,7 @@ BiH — The power games across Bosnia and Herzegovina are continuing, both betwe
 The public was led to believe the Vučjak camps would close and people would be transferred to different locations in Sarajevo until the Blažuj army barracks in Sarajevo were prepared\. However, in the meantime, another solution was proposed, that extra containers and beds would be prepared and added inside the Bira camp in Bihać, which, according to our sources, is not completely full in spite of IOM’s statements\. But, in these games of stubbornness and power, the local authorities and police did not allow the technical equipment to be installed in the camp, so now another operational plan is in place for the early morning on Monday\. All of these solutions are harming those most vulnerable, who are in no position to exercise their rights, make decisions about their lives or move freely\.
 
 
-![](assets/6d634e19d74b/1*i3_F-rjspPbtXEzIoS8J6Q.jpeg)
+![](../assets/6d634e19d74b/1*i3_F-rjspPbtXEzIoS8J6Q.jpeg)
 
 #### GREECE
 
@@ -62,11 +62,11 @@ Doctors have come out against the new law and said they will continue to treat n
 Though the media are reporting there will be no camp in Tuzla, the camp is already here\. A ‘silent deal’ between the state, canton and the city has resulted in a place for the camp, to be opened in the shortest possible time\. The citizens have once again shown great solidarity, having brought pallets, insulation material, tents, blankets, and three meals a day, which are secured for all the people in need\.
 
 
-![](assets/6d634e19d74b/1*-v-7lTzGzuYmEiP_htZing.jpeg)
+![](../assets/6d634e19d74b/1*-v-7lTzGzuYmEiP_htZing.jpeg)
 
 
 
-![Photos: Senad Pirić](assets/6d634e19d74b/1*sn-hmsZ4eKTqXTk9vISHpA.jpeg)
+![Photos: Senad Pirić](../assets/6d634e19d74b/1*sn-hmsZ4eKTqXTk9vISHpA.jpeg)
 
 Photos: Senad Pirić
 #### ITALY
@@ -74,14 +74,14 @@ Photos: Senad Pirić
 Volunteers around Trieste in Italy report meeting people they had previously encountered while volunteering in Tuzla and in Velika Kladuša, Bosnia and Herzegovina\. The wounds on their bodies depict the realities they face along the route leading them through difficult terrain and many violent rejections by the ‘EU’s guards’, the Croatian police\.
 
 
-![Photo: [Lorena Fornasir](https://www.facebook.com/lorena.fornasir?__tn__=%2Cd%2AF%2AF-R&eid=ARBaYNV4i0kyByNrYGqjC8DEYclaiI4QZYhsdYgAJteY7PKv5Sv6fJQlWPeAWVubpClIZugp_vTlOWhL&tn-str=%2AF)](assets/6d634e19d74b/1*BmZHtJeTJcjuX2fwJIdKLQ.jpeg)
+![Photo: [Lorena Fornasir](https://www.facebook.com/lorena.fornasir?__tn__=%2Cd%2AF%2AF-R&eid=ARBaYNV4i0kyByNrYGqjC8DEYclaiI4QZYhsdYgAJteY7PKv5Sv6fJQlWPeAWVubpClIZugp_vTlOWhL&tn-str=%2AF)](../assets/6d634e19d74b/1*BmZHtJeTJcjuX2fwJIdKLQ.jpeg)
 
 Photo: [Lorena Fornasir](https://www.facebook.com/lorena.fornasir?__tn__=%2Cd%2AF%2AF-R&eid=ARBaYNV4i0kyByNrYGqjC8DEYclaiI4QZYhsdYgAJteY7PKv5Sv6fJQlWPeAWVubpClIZugp_vTlOWhL&tn-str=%2AF)
 
 In the Italian hotspot in Lampedusa, the conditions have not improved and the latest footage from the facility shows the current situation:
 
 
-[![Lampedusa, dentro l'hotspot che va a pezzi tra rifiuti e sovraffollamento: "Condizioni disumane"](assets/6d634e19d74b/1091_hqdefault.jpg "Lampedusa, dentro l'hotspot che va a pezzi tra rifiuti e sovraffollamento: "Condizioni disumane"")](https://www.youtube.com/watch?v=IKHfGV_0gdg)
+[![Lampedusa, dentro l'hotspot che va a pezzi tra rifiuti e sovraffollamento: "Condizioni disumane"](../assets/6d634e19d74b/1091_hqdefault.jpg "Lampedusa, dentro l'hotspot che va a pezzi tra rifiuti e sovraffollamento: "Condizioni disumane"")](https://www.youtube.com/watch?v=IKHfGV_0gdg)
 
 
 The media have reported that three of the people on board the Alan Kurdi were suspected smugglers who were apprehended by the Italian police, pending further investigation\.

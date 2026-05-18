@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 25/5/2017: Chios is at breaking point
+title: "AYS Daily Digest 25/5/2017: Chios is at breaking point"
 author: Are You Syrious?
 date: 2017-05-26T02:47:45.792+0100
 last_modified_at: 2017-05-26T11:50:03.576+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,refugeeswelcome,doctors-without-borders,chaos,refugee-camps]
 description: Chios camps over-capacitated / Closing of makeshift camp at the site of Athens’ old aiport at Elliniko / Fire broke out in Filippiada Camp…
 image:
-  path: assets/ed39185ae07d/1*vxMQvu-XnanA5JO5IhR-RA.jpeg
+  path: ../assets/ed39185ae07d/1*vxMQvu-XnanA5JO5IhR-RA.jpeg
 ---
 
 ### AYS Daily Digest 25/5/2017: Chios is at breaking point
@@ -15,7 +15,7 @@ image:
 Chios camps over\-capacitated / Closing of makeshift camp at the site of Athens’ old aiport at Elliniko / Fire broke out in Filippiada Camp / Sanctioning solidarity in Croatia / Family reunification from Greece limited to 70 people per month / MSF carries 12 rescue operations saving 1449 people only today
 
 
-![By [MSF Sea](https://twitter.com/MSF_Sea) from today’s rescue mission\. After 10 hours and 12th rescues there were 1449 people safely on board\.](assets/ed39185ae07d/1*vxMQvu-XnanA5JO5IhR-RA.jpeg)
+![By [MSF Sea](https://twitter.com/MSF_Sea) from today’s rescue mission\. After 10 hours and 12th rescues there were 1449 people safely on board\.](../assets/ed39185ae07d/1*vxMQvu-XnanA5JO5IhR-RA.jpeg)
 
 By [MSF Sea](https://twitter.com/MSF_Sea) from today’s rescue mission\. After 10 hours and 12th rescues there were 1449 people safely on board\.
 #### Chios is at breaking point
@@ -62,17 +62,17 @@ AYS source in Vial also writes about recent situation in the camp, experiencing 
 
 
 
-![](assets/ed39185ae07d/1*BKCRrpsEdM_ImDJAwNK-ZQ.jpeg)
+![](../assets/ed39185ae07d/1*BKCRrpsEdM_ImDJAwNK-ZQ.jpeg)
 
 
 
-![](assets/ed39185ae07d/1*xnXURA9Kn-3se1ggM8Juvg.jpeg)
+![](../assets/ed39185ae07d/1*xnXURA9Kn-3se1ggM8Juvg.jpeg)
 
 
 Footage we obtained from the section in Vial camp where 39 unaccompanied minors are housed shows the conditions children have been living in for months\.
 
 
-[![Vial refugee camp 25.5.2017.](assets/ed39185ae07d/bb86_hqdefault.jpg "Vial refugee camp 25.5.2017.")](http://www.youtube.com/watch?v=NYUhAnzXZYI)
+[![Vial refugee camp 25.5.2017.](../assets/ed39185ae07d/bb86_hqdefault.jpg "Vial refugee camp 25.5.2017.")](http://www.youtube.com/watch?v=NYUhAnzXZYI)
 
 
 There were 59 new registrations on Chios today\.
@@ -97,11 +97,11 @@ Help Refugees announced a new housing initiative with their partners [RefuAid](h
 Fire broke out in the UN Container for unknown reasons last night in Filippiada Camp\. No one was hurt\.
 
 
-![](assets/ed39185ae07d/1*5PaFQxS5vbkiUr6uZcTArQ.jpeg)
+![](../assets/ed39185ae07d/1*5PaFQxS5vbkiUr6uZcTArQ.jpeg)
 
 
 
-![[**Filippiada Camp News**](https://www.facebook.com/filippiadacampnews/?ref=page_internal)](assets/ed39185ae07d/1*zPP2pXR8fi4kTpJ46Wa2pA.jpeg)
+![[**Filippiada Camp News**](https://www.facebook.com/filippiadacampnews/?ref=page_internal)](../assets/ed39185ae07d/1*zPP2pXR8fi4kTpJ46Wa2pA.jpeg)
 
 [**Filippiada Camp News**](https://www.facebook.com/filippiadacampnews/?ref=page_internal)
 #### Thessaloniki — English teacher training

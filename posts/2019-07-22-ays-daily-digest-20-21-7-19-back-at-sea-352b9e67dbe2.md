@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 20–21/7/19: Back at Sea
+title: "AYS Daily Digest 20–21/7/19: Back at Sea"
 author: Are You Syrious?
 date: 2019-07-22T16:34:07.060+0100
 last_modified_at: 2019-07-22T16:34:07.060+0100
@@ -7,18 +7,18 @@ categories: Are You Syrious?
 tags: [refugees,syria,turkey,greece,digest]
 description: SOS Mediterranee starts next mission in the Mediterranean // Greece continues illegal push-backs // Turkey reportedly sends Syrians back to…
 image:
-  path: assets/352b9e67dbe2/0*2oVHAn8t31Yu_7dI.jpeg
+  path: ../assets/352b9e67dbe2/0*2oVHAn8t31Yu_7dI.jpeg
 ---
 
 ### AYS Daily Digest 20–21/7/19: Back at Sea
 #### SOS Mediterranee starts next mission in the Mediterranean // Greece continues illegal push\-backs // Turkey reportedly sends Syrians back to Idlib
 
 
-![](assets/352b9e67dbe2/0*r-K9krALE9H5wsRV)
+![](../assets/352b9e67dbe2/0*r-K9krALE9H5wsRV)
 
 
 
-![](assets/352b9e67dbe2/0*2oVHAn8t31Yu_7dI.jpeg)
+![](../assets/352b9e67dbe2/0*2oVHAn8t31Yu_7dI.jpeg)
 
 
 The Sea Viking\. Photo: [SOS Mediterranee/Twitter](https://twitter.com/SOSMedIntl/status/1152826825762136064?fbclid=IwAR1nzSEMOBtEACRIVlizATKW-w3RuUQG1RQxJSsmvI87zPMcQoZNU3JqTBw&source=post_page---------------------------)

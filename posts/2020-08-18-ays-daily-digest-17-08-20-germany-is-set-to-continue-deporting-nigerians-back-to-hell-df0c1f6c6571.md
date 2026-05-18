@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [digest,refugees,germany,nigeria,covid-19]
 description: Are You Syrious?
 image:
-  path: assets/df0c1f6c6571/0*NJn5nKASQ4vYZoXX.jpeg
+  path: ../assets/df0c1f6c6571/0*NJn5nKASQ4vYZoXX.jpeg
 ---
 
 ### AYS Daily Digest 17/08/20 Germany is set to continue deporting Nigerians back to “hell”
 
 
-![](assets/df0c1f6c6571/0*V8Krzq3h56aLI_9N.jpeg)
+![](../assets/df0c1f6c6571/0*V8Krzq3h56aLI_9N.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----439e07256b7f----------------------)
@@ -24,11 +24,11 @@ _Many updates from AlarmPhone // extreme poverty for refugees in Spain // France
 ### FEATURE Germany is set to continue deporting Nigerians back to “hell”
 
 
-![](assets/df0c1f6c6571/0*og5MQ58ytTG9grHb)
+![](../assets/df0c1f6c6571/0*og5MQ58ytTG9grHb)
 
 
 
-![](assets/df0c1f6c6571/0*NJn5nKASQ4vYZoXX.jpeg)
+![](../assets/df0c1f6c6571/0*NJn5nKASQ4vYZoXX.jpeg)
 
 ### “This is no longer my country, it’s like hell\.”
 
@@ -65,11 +65,11 @@ And in [a further update](https://twitter.com/alarm_phone/status/129544414980254
 “ **~20 people** in distress **in Malta SAR** \! On board there are several children & women fleeing Libya & water is entering the boat\. They called us at 20\.00 CEST & we have tried to reach the Armed Forces since then but nobody answers\. The Coast Guard is refusing responsibility\. Rescue now\!”
 
 
-![](assets/df0c1f6c6571/0*H8HFitMZ3VlHzvsc)
+![](../assets/df0c1f6c6571/0*H8HFitMZ3VlHzvsc)
 
 
 
-![](assets/df0c1f6c6571/0*boM9lu9v2oV8ZhaC.jpeg)
+![](../assets/df0c1f6c6571/0*boM9lu9v2oV8ZhaC.jpeg)
 
 
 There are several organized events happening throughout France to demand the release of the Ocean Viking on Friday the 21st\. Find out more [here](https://www.facebook.com/events/631753821073824?acontext=%7B%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22page_admin_bar%22%2C%22extra_data%22%3A%22%7B%5C%22page_id%5C%22%3A1620638098209175%7D%22%7D%2C%7B%22surface%22%3A%22events_admin_tool%22%2C%22mechanism%22%3A%22events_admin_tool%22%2C%22extra_data%22%3A%22[]%22%7D]%2C%22has_source%22%3Atrue%7D) \!
@@ -87,19 +87,19 @@ Three more people were placed in quarantine after testing positive on Monday wit
 In fact, here is a video from [Disinfaux](https://www.youtube.com/watch?v=siK8Yeyf7JQ&fbclid=IwAR3aR1UlLNeen2oXpjxhWM07eumrnSOUZL46sN-awciBAmYlO_wG8ID_KrY) on the pushbacks from 27/07/20 where they “document the existence of a makeshift detention facility in the port of Rhodes island, and the use of a ZODIAC liferaft used by the Greek Coast Guard, based on the testimony of witnesses\.” The Greek authorities have proven themselves NOT to be trusted on truthfully reporting what happens at sea…
 
 
-![](assets/df0c1f6c6571/0*PMGKNDxVXs18dzsV)
+![](../assets/df0c1f6c6571/0*PMGKNDxVXs18dzsV)
 
 
 
-![](assets/df0c1f6c6571/0*Wzic57m_DNPx8wTE.png)
+![](../assets/df0c1f6c6571/0*Wzic57m_DNPx8wTE.png)
 
 
 
-![](assets/df0c1f6c6571/0*ErKDVX5alAVYlfek)
+![](../assets/df0c1f6c6571/0*ErKDVX5alAVYlfek)
 
 
 
-![](assets/df0c1f6c6571/0*Y2BV27edDgPzK2uh.jpeg)
+![](../assets/df0c1f6c6571/0*Y2BV27edDgPzK2uh.jpeg)
 
 
 [**Fenix Humanitarian Legal Aid**](https://www.justgiving.com/crowdfunding/translators) is holding a fundraiser in the month of August to support their translators with reimbursements\. One of their translators recently received asylum, a heartwarming story in these dark times\. But so much work needs to be done, especially because:

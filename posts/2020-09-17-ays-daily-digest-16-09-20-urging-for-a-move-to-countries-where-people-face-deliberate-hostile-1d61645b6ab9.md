@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,europe,greece,migration]
 description: Hailing as a gesture of European solidarity, raising uncomfortable questions about what awaits people once they get there / In Sicily…
 image:
-  path: assets/1d61645b6ab9/0*bUEf-uTD_H3Iyorf
+  path: ../assets/1d61645b6ab9/0*bUEf-uTD_H3Iyorf
 ---
 
 ### AYS Daily Digest 16/09/20 — Are we urging for a move to countries where people face deliberately hostile policies?
 #### Hailed as a gesture of European solidarity, raising uncomfortable questions about what awaits people once they get there / In Sicily, people who’d recently arrived were distributed to three centers and then deported / UK judge stopped deportation to Spain due to fears people will be left homeless / & more news
 
 
-![Portrait of a European Politician by [Tjeerd Royaards](https://twitter.com/Royaards/status/1305876148912640001?fbclid=IwAR1d0Y5bB8-I1vXNUuWtsFRO1MHJ6UijQ2gTiZjbSkhEsj6OqUrZ2M-OdEo)](assets/1d61645b6ab9/0*bUEf-uTD_H3Iyorf)
+![Portrait of a European Politician by [Tjeerd Royaards](https://twitter.com/Royaards/status/1305876148912640001?fbclid=IwAR1d0Y5bB8-I1vXNUuWtsFRO1MHJ6UijQ2gTiZjbSkhEsj6OqUrZ2M-OdEo)](../assets/1d61645b6ab9/0*bUEf-uTD_H3Iyorf)
 
 Portrait of a European Politician by [Tjeerd Royaards](https://twitter.com/Royaards/status/1305876148912640001?fbclid=IwAR1d0Y5bB8-I1vXNUuWtsFRO1MHJ6UijQ2gTiZjbSkhEsj6OqUrZ2M-OdEo)
 #### FEATURE
@@ -113,7 +113,7 @@ Many reports of physical injuries obtained by the police, both the border guards
 The situation in the Una\-Sana canton is becoming unbearable and the needs are only growing for a wholesome and sustainable solution so as to prevent a disaster in the making\.
 
 
-![A family camping in Bosanska Otoka\. Photo credit: [Ekrem Halilagic](https://www.facebook.com/permalink.php?story_fbid=10222351757284671&id=1289470514)](assets/1d61645b6ab9/0*qc2IuIAMfuXrJX0i)
+![A family camping in Bosanska Otoka\. Photo credit: [Ekrem Halilagic](https://www.facebook.com/permalink.php?story_fbid=10222351757284671&id=1289470514)](../assets/1d61645b6ab9/0*qc2IuIAMfuXrJX0i)
 
 A family camping in Bosanska Otoka\. Photo credit: [Ekrem Halilagic](https://www.facebook.com/permalink.php?story_fbid=10222351757284671&id=1289470514)
 

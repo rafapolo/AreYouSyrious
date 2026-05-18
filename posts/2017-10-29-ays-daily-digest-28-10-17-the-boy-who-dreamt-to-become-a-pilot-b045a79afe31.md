@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 28/10/17: The boy who dreamt to become a pilot
+title: "AYS Daily Digest 28/10/17: The boy who dreamt to become a pilot"
 author: Are You Syrious?
 date: 2017-10-29T00:31:54.400+0100
 last_modified_at: 2017-10-29T09:12:43.000+0000
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,protest,dreams,police-brutality]
 description: A young Afghan fulfills his dream thanks to a scholarship granted by the US Embassy in Athens / Sappho Square protest enters Day 9, despite…
 image:
-  path: assets/b045a79afe31/1*jsUEh6reybhWj8uTygXIIA.jpeg
+  path: ../assets/b045a79afe31/1*jsUEh6reybhWj8uTygXIIA.jpeg
 ---
 
 ### **AYS Daily Digest 28/10/17: The boy who dreamt to become a pilot**
 #### A young Afghan fulfills his dream thanks to a scholarship granted by the US Embassy in Athens / Sappho Square protest enters Day 9, despite National Oxi Day / Remembering the tragedy of those who lost their lives crossing the Aegean two years ago / Terrible video\-testimony of living conditions on Chios / Deplorable living conditions of those forced to sleep on the streets in Pordenone and the never\-ending process required for them to receive what they are entitled to / Another violent episode aimed at damaging asylum seekers in Sassari / Blankets and sleeping bags urgently needed in Paris / Donations needed for a new shower system in Subotica / German language classes in Belgrade
 
 
-![As you go to sleep tonight \. \. know that the refugees in this photo are spending their first night on European soil after fleeing war in the Middle East\. Credit: Refugee 4 Refugees](assets/b045a79afe31/1*jsUEh6reybhWj8uTygXIIA.jpeg)
+![As you go to sleep tonight \. \. know that the refugees in this photo are spending their first night on European soil after fleeing war in the Middle East\. Credit: Refugee 4 Refugees](../assets/b045a79afe31/1*jsUEh6reybhWj8uTygXIIA.jpeg)
 
 As you go to sleep tonight \. \. know that the refugees in this photo are spending their first night on European soil after fleeing war in the Middle East\. Credit: Refugee 4 Refugees
 ### **FEATURE**
@@ -51,7 +51,7 @@ This represents a great opportunity for these young refugees to pursue their goa
 _Arrivals_
 
 
-![Credit: Erik Gerhardsson](assets/b045a79afe31/1*q4986ES7Ik0EkY5AV0CB6A.jpeg)
+![Credit: Erik Gerhardsson](../assets/b045a79afe31/1*q4986ES7Ik0EkY5AV0CB6A.jpeg)
 
 Credit: Erik Gerhardsson
 
@@ -100,11 +100,11 @@ On 20 April 2017, 70 migrants were evacuated from an area where they had found s
 The time span required to go through all the bureaucratic steps varies between a month and a month and a half, during which time the migrants are sleeping on the street—60 people/night on average with daily arrivals of six people from the Balkan route or people who were pushed back mainly from Germany, France and Austria\.
 
 
-![](assets/b045a79afe31/1*QiW-MKq3oWMtLK9-wrAnFA.jpeg)
+![](../assets/b045a79afe31/1*QiW-MKq3oWMtLK9-wrAnFA.jpeg)
 
 
 
-![Credit: Lorena Fornasir](assets/b045a79afe31/1*GwngR7DPwUdf19h5smT4jQ.jpeg)
+![Credit: Lorena Fornasir](../assets/b045a79afe31/1*GwngR7DPwUdf19h5smT4jQ.jpeg)
 
 Credit: Lorena Fornasir
 
@@ -153,7 +153,7 @@ This week, Care4Calais also [distributed](https://www.facebook.com/care4calais/?
 A stock of boots, sleeping bags, toiletries, tinned food and rice was given to the local volunteers to be distributed every evening to the many refugees who are scattered across the city\.
 
 
-![Credit: Refugee Rights Data Project](assets/b045a79afe31/1*NRx1clXyFIFewcFh8bl5Ug.jpeg)
+![Credit: Refugee Rights Data Project](../assets/b045a79afe31/1*NRx1clXyFIFewcFh8bl5Ug.jpeg)
 
 Credit: Refugee Rights Data Project
 
@@ -164,7 +164,7 @@ French police have never been kind or sympathetic to refugees\. The Refugee Righ
 Also a recent report from [Human Rights Watch](https://www.hrw.org/news/2017/10/24/france-inquiry-finds-police-abused-migrants-calais) “has found convincing evidence that police used excessive force and committed other abuses against child and adult migrants in Calais”, including the use of chemical sprays and regularly confiscation of personal belongings, such as blankets, sleeping bags, clothes etc\.
 
 
-![Credit: Safe Passage](assets/b045a79afe31/1*_pMDSYW-gJF41W_K5f9gLw.png)
+![Credit: Safe Passage](../assets/b045a79afe31/1*_pMDSYW-gJF41W_K5f9gLw.png)
 
 Credit: Safe Passage
 

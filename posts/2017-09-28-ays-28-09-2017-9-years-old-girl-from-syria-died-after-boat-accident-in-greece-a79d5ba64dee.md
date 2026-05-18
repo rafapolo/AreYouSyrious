@@ -1,5 +1,5 @@
 ---
-title: AYS 28/09/2017: 9-year old girl from Syria died after boat accident in Greece
+title: "AYS 28/09/2017: 9-year old girl from Syria died after boat accident in Greece"
 author: Are You Syrious?
 date: 2017-09-28T22:38:38.434+0100
 last_modified_at: 2017-09-29T10:16:59.105+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,european-union,rhodes,unhcr,greece]
 description: Four people in hospital, and 15 in detention on Rhodes after surviving shipwreck // Among refugees who arrived to Turkey from Iraq 40…
 image:
-  path: assets/a79d5ba64dee/1*UHh6qwHJgTSX9gYLY-me7w.jpeg
+  path: ../assets/a79d5ba64dee/1*UHh6qwHJgTSX9gYLY-me7w.jpeg
 ---
 
 ### AYS 28/09/2017: 9\-year old girl from Syria died after boat accident in Greece
@@ -15,7 +15,7 @@ image:
 _Four people in hospital, and 15 in detention on Rhodes after surviving shipwreck // Among refugees who arrived to Turkey from Iraq 40 percent are children // over 20 percent of UNHCR accommodation still empty // Story from Spain — Morocco border // Government in France plans to change the law so “administrative detention” can be up to 90 days // Human rights activist sentenced in Switzerland // Raid in Porin center in Zagreb_
 
 
-![Gabriel Tizon\.](assets/a79d5ba64dee/1*UHh6qwHJgTSX9gYLY-me7w.jpeg)
+![Gabriel Tizon\.](../assets/a79d5ba64dee/1*UHh6qwHJgTSX9gYLY-me7w.jpeg)
 
 Gabriel Tizon\.
 ### Feature
@@ -106,7 +106,7 @@ _An illegal network operating on both sides of the border is taking advantage of
 _The authorities on both sides of the frontera turn a literal blind eye to this tax\-free movement of goods to the point where elderly, blind, severely handicapped and even crippled people are being treated as pack animals in exchange for a few Euros a day\. Somewhere between 2–4,000 Moroccans willfully participate in this cross\-border trade each day, and one woman we spoke with has been doing it since 1984\._
 
 
-![Photo by 1976km](assets/a79d5ba64dee/1*fsp4LebNi2k_l1agMSrdLw.jpeg)
+![Photo by 1976km](../assets/a79d5ba64dee/1*fsp4LebNi2k_l1agMSrdLw.jpeg)
 
 Photo by 1976km
 

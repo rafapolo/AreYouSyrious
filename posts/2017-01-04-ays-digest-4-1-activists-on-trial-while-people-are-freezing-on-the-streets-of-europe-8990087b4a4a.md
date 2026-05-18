@@ -1,5 +1,5 @@
 ---
-title: AYS digest 4/1: Activists facing prison time, governments let refugees freeze on the streets of…
+title: "AYS digest 4/1: Activists facing prison time, governments let refugees freeze on the streets of…"
 author: Are You Syrious?
 date: 2017-01-04T22:56:18.076+0000
 last_modified_at: 2017-01-06T00:32:08.873+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: Overcrowding and freezing cold in Greek camps / Returns to Greece may be resumed, but humane conditions not / People returning to freezing…
 image:
-  path: assets/8990087b4a4a/1*obSfa2LPgMeju2AUBjGlnQ.jpeg
+  path: ../assets/8990087b4a4a/1*obSfa2LPgMeju2AUBjGlnQ.jpeg
 ---
 
 ### AYS digest 4/1: Activists facing prison time, governments let refugees freeze on the streets of Europe
@@ -15,7 +15,7 @@ image:
 _Overcrowding and freezing cold in Greek camps / Returns to Greece may be resumed, but humane conditions not / People returning to freezing cold and destroyed Aleppo / Sub zero temperatures in Belgrade — MSF wants to help people who are sleeping rough, government silent / 375 new rescues in the Mediterranean / Italy to “step up” deportations / Belgium wants to increase border controls in trains, buses and ships / French farmer on trial for being an activist and helping those that were in danger_
 
 
-![Belgrade today\. Long line for food distribution\. Photo: volunteers in Belgrade](assets/8990087b4a4a/1*obSfa2LPgMeju2AUBjGlnQ.jpeg)
+![Belgrade today\. Long line for food distribution\. Photo: volunteers in Belgrade](../assets/8990087b4a4a/1*obSfa2LPgMeju2AUBjGlnQ.jpeg)
 
 Belgrade today\. Long line for food distribution\. Photo: volunteers in Belgrade
 #### Greece
@@ -25,7 +25,7 @@ There are 93 new arrivals in Greek islands today\. As camps on the islands are d
 ### **Cold front from Siberia**
 
 
-![Snow in Greece](assets/8990087b4a4a/1*f6p_qi-6hxwwf_z5ht_fqg.jpeg)
+![Snow in Greece](../assets/8990087b4a4a/1*f6p_qi-6hxwwf_z5ht_fqg.jpeg)
 
 Snow in Greece
 
@@ -35,14 +35,14 @@ Meteorologists on Wednesday warned that a high\-pressure system from Siberia is 
 Overcrowding and non existent winterization of the camps did not prevent the EU commission from recommending the returns to Greece that were suspended in 2011 and, as we have reported, may be resumed in **March 2017** \. This recommendation, though, is not binding for all EU member states and can not be applied retroactively, meaning that people who reached other EU countries in the past and until the 15th of March 2017 will not be returned to Greece\. The new rules will concern only asylum applicants who enter Greece irregularly or not from the 15th of March, 2017 onward, and then move without authorization to another EU country\.
 
 
-![Greek camps\. Photo: Calais Action](assets/8990087b4a4a/1*H8hP2sy1X_E1rB8TlBYZSQ.jpeg)
+![Greek camps\. Photo: Calais Action](../assets/8990087b4a4a/1*H8hP2sy1X_E1rB8TlBYZSQ.jpeg)
 
 Greek camps\. Photo: Calais Action
 
 Calais Action stresses that “Yet no moves are being made to force other European states to make good on their commitments to receive a quota of refugees\.” Out of tens of thousands relocations that member states agreed to, only 7,006 have been carried out until the end of 2016\. “ If these “Dublin” transfers are restarted Greece will once again be bearing the burden for the refugee crisis completely unsupported by other responsible Schengen states\.” Calais Action collective posted next to the online petition to stop the returns to Greece\. Please sign it [here](https://www.change.org/p/council-of-the-european-union-standforhumanity-stopdeportations/share?after_sign_exp=default&just_signed=true)
 
 
-![Conditions in Greek camps\. Photo: Calais Action](assets/8990087b4a4a/1*A-VX-y858cjpe54xbBACKQ.jpeg)
+![Conditions in Greek camps\. Photo: Calais Action](../assets/8990087b4a4a/1*A-VX-y858cjpe54xbBACKQ.jpeg)
 
 Conditions in Greek camps\. Photo: Calais Action
 ### **Booklet for adult male refugees**
@@ -67,7 +67,7 @@ Weather forecast for today says that the temperature in Belgrade will drop to \-
 ### **375 rescued and brought to Sicily**
 
 
-![Aquarius rescues\. Photo: SOS Meditterranee](assets/8990087b4a4a/1*nMYW5Hk65bHtlbuSJRmBVw.jpeg)
+![Aquarius rescues\. Photo: SOS Meditterranee](../assets/8990087b4a4a/1*nMYW5Hk65bHtlbuSJRmBVw.jpeg)
 
 Aquarius rescues\. Photo: SOS Meditterranee
 

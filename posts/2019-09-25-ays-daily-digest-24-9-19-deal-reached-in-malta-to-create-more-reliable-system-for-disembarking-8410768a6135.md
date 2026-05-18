@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,greece,digest,malta,migration]
 description: 182 people on board Ocean Viking disembark // over 800 people arrive in Greece over last two days // 5 year old killed by truck outside…
 image:
-  path: assets/8410768a6135/1*v0_2gLoF9cAW6AMwBljdPA.jpeg
+  path: ../assets/8410768a6135/1*v0_2gLoF9cAW6AMwBljdPA.jpeg
 ---
 
 ### AYS Daily Digest 24/9/19 Deal reached in Malta to create more reliable system for disembarking rescued people
@@ -16,7 +16,7 @@ _182 people on board Ocean Viking disembark // over 800 people arrive in Greece 
 ### Sea
 
 
-![08:30 24th of September, 182 are safe\. Photo by [Sergio Scandura](https://twitter.com/scandura/status/1176388277894635520?fbclid=IwAR0BiZjQPxW3bHmMa37yaYPiNUO-ip2bV5gRBMZxNly5FVR_7WRlk6lGxjY)](assets/8410768a6135/1*v0_2gLoF9cAW6AMwBljdPA.jpeg)
+![08:30 24th of September, 182 are safe\. Photo by [Sergio Scandura](https://twitter.com/scandura/status/1176388277894635520?fbclid=IwAR0BiZjQPxW3bHmMa37yaYPiNUO-ip2bV5gRBMZxNly5FVR_7WRlk6lGxjY)](../assets/8410768a6135/1*v0_2gLoF9cAW6AMwBljdPA.jpeg)
 
 08:30 24th of September, 182 are safe\. Photo by [Sergio Scandura](https://twitter.com/scandura/status/1176388277894635520?fbclid=IwAR0BiZjQPxW3bHmMa37yaYPiNUO-ip2bV5gRBMZxNly5FVR_7WRlk6lGxjY)
 
@@ -120,11 +120,11 @@ For an more intensive look at the failure of how the Greek asylum process has af
 ### France
 
 
-![](assets/8410768a6135/1*FrjttqrmnJT-erAKi8LrFA.jpeg)
+![](../assets/8410768a6135/1*FrjttqrmnJT-erAKi8LrFA.jpeg)
 
 
 
-![**In an update on Dunkirk:** “This is the reality for hundreds of displaced people currently living in the Dunkirk area\. Just one week on from the eviction, there are approximately 500 people already sleeping rough in the area, including dozens of families with young children\. With the emergency centre now closed, people have been forced to relocate into the woodlands surrounding the city\. With so many people already returning, our teams have been on\-site for long periods each day, providing our full range of services and support\. This includes phone charging, WiFi, food packs, and distributions of basic but essential items\. Whatever the need, our volunteers strive to resolve or fulfill any problem or request they are faced with\.” **You can find Mobile Refugee Support’s donation needs [here\.](https://www.facebook.com/MobileRefugeeSupport/posts/1062449713960639)**](assets/8410768a6135/1*8H8AX8dilALpGYIBz5wLRg.jpeg)
+![**In an update on Dunkirk:** “This is the reality for hundreds of displaced people currently living in the Dunkirk area\. Just one week on from the eviction, there are approximately 500 people already sleeping rough in the area, including dozens of families with young children\. With the emergency centre now closed, people have been forced to relocate into the woodlands surrounding the city\. With so many people already returning, our teams have been on\-site for long periods each day, providing our full range of services and support\. This includes phone charging, WiFi, food packs, and distributions of basic but essential items\. Whatever the need, our volunteers strive to resolve or fulfill any problem or request they are faced with\.” **You can find Mobile Refugee Support’s donation needs [here\.](https://www.facebook.com/MobileRefugeeSupport/posts/1062449713960639)**](../assets/8410768a6135/1*8H8AX8dilALpGYIBz5wLRg.jpeg)
 
 **In an update on Dunkirk:** “This is the reality for hundreds of displaced people currently living in the Dunkirk area\. Just one week on from the eviction, there are approximately 500 people already sleeping rough in the area, including dozens of families with young children\. With the emergency centre now closed, people have been forced to relocate into the woodlands surrounding the city\. With so many people already returning, our teams have been on\-site for long periods each day, providing our full range of services and support\. This includes phone charging, WiFi, food packs, and distributions of basic but essential items\. Whatever the need, our volunteers strive to resolve or fulfill any problem or request they are faced with\.” **You can find Mobile Refugee Support’s donation needs [here\.](https://www.facebook.com/MobileRefugeeSupport/posts/1062449713960639)**
 

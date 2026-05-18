@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 10/11: Refugees in Serbia have no choice but to run and hide
+title: "AYS News Digest 10/11: Refugees in Serbia have no choice but to run and hide"
 author: Are You Syrious?
 date: 2016-11-10T22:54:26.643+0000
 last_modified_at: 2016-11-11T18:23:29.245+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,syria,syrian-refugees,refugee-crisis]
 description: Cleansings and evictions spread across Serbia, refugees in hiding and running. Volunteers and translators needed in Greece. War in Syria…
 image:
-  path: assets/a21881df24d3/1*Tls82M5uBY3Vggp2qtvw7w.jpeg
+  path: ../assets/a21881df24d3/1*Tls82M5uBY3Vggp2qtvw7w.jpeg
 ---
 
 ### AYS News Digest 10/11: Refugees in Serbia have no choice but to run and hide
@@ -19,14 +19,14 @@ image:
 
 
 
-![Credits: Sara Bencekovic \(AYS\)](assets/a21881df24d3/1*Tls82M5uBY3Vggp2qtvw7w.jpeg)
+![Credits: Sara Bencekovic \(AYS\)](../assets/a21881df24d3/1*Tls82M5uBY3Vggp2qtvw7w.jpeg)
 
 Credits: Sara Bencekovic \(AYS\)
 #### Serbia
 ### Eviction of refugees in Serbia; Fear looms over their deportations to Macedonia
 
 
-![A night in Belgrade\. Credits: [**Refugee Aid Serbia**](https://www.facebook.com/refugeeaidserbia/)](assets/a21881df24d3/0*L3gWKrRRTrJUB4aq.)
+![A night in Belgrade\. Credits: [**Refugee Aid Serbia**](https://www.facebook.com/refugeeaidserbia/)](../assets/a21881df24d3/0*L3gWKrRRTrJUB4aq.)
 
 A night in Belgrade\. Credits: [**Refugee Aid Serbia**](https://www.facebook.com/refugeeaidserbia/)
 
@@ -46,7 +46,7 @@ Along these lines, Serbian authorities requested humanitarian organizations to s
 ### War in Syria continues…
 
 
-![Assad helicopters dropping napalm like barrel bombs on Khan al\-Sheeh in rural Damascus\. Credits: [**Free Syria — Salam**](https://www.facebook.com/Free.SyriaSalam/)](assets/a21881df24d3/0*U6IOMzX9S2izqppL.)
+![Assad helicopters dropping napalm like barrel bombs on Khan al\-Sheeh in rural Damascus\. Credits: [**Free Syria — Salam**](https://www.facebook.com/Free.SyriaSalam/)](../assets/a21881df24d3/0*U6IOMzX9S2izqppL.)
 
 Assad helicopters dropping napalm like barrel bombs on Khan al\-Sheeh in rural Damascus\. Credits: [**Free Syria — Salam**](https://www.facebook.com/Free.SyriaSalam/)
 
@@ -72,7 +72,7 @@ The United Nations are proposing a plan consisting of four parts for saving Syri
 ### Arrivals to Greece dropping
 
 
-![](assets/a21881df24d3/0*2UzdH0mhoCGRlWYJ.)
+![](../assets/a21881df24d3/0*2UzdH0mhoCGRlWYJ.)
 
 
 Arrivals in the first ten days of October: 1242
@@ -103,7 +103,7 @@ For those migrants and refugees eligible to work in Greece and currently looking
 ### All volunteer opportunities in Greece
 
 
-![Credits: [**Khora**](https://www.facebook.com/KhoraAthens/)](assets/a21881df24d3/0*j9YFVaaN_dS-M6e7.)
+![Credits: [**Khora**](https://www.facebook.com/KhoraAthens/)](../assets/a21881df24d3/0*j9YFVaaN_dS-M6e7.)
 
 Credits: [**Khora**](https://www.facebook.com/KhoraAthens/)
 
@@ -136,7 +136,7 @@ When working at the squats, please note that the environment can be extremely un
 4\) Acharnon 78 and Katrivanou \(Hotel City Plaza\) \- [https://www\.facebook\.com/sol2refugeesen/](https://www.facebook.com/sol2refugeesen/) English teachers needed to help with English classes \(long term\) and French and German and for kids activities contact [Ellen Downes](https://www.facebook.com/ellen.downes.52) via [https://www\.facebook\.com/groups/868661516611629/\-](https://www.facebook.com/groups/868661516611629/-) they require a minimum commitment of at least a full week\.
 
 
-![Celebration of 6 months of City Plaza\. Credits: [**Χώρος Στέγασης Προσφύγων City Plaza**](https://www.facebook.com/cityplazaathens/) ‎](assets/a21881df24d3/0*qO9aKqz-ELldqEy2.)
+![Celebration of 6 months of City Plaza\. Credits: [**Χώρος Στέγασης Προσφύγων City Plaza**](https://www.facebook.com/cityplazaathens/) ‎](../assets/a21881df24d3/0*qO9aKqz-ELldqEy2.)
 
 Celebration of 6 months of City Plaza\. Credits: [**Χώρος Στέγασης Προσφύγων City Plaza**](https://www.facebook.com/cityplazaathens/) ‎
 
@@ -170,12 +170,12 @@ Rough seas were making the rescue effort difficult, but the rescue was successfu
 This morning the temperature was \-2 degrees Celsius\. The transport for today to the Serbian\-Hungarian border: wood briquettes, insulation materials, winter clothes and shoes\.
 
 
-![Credits: [**SIRIUS\.HELP**](https://www.facebook.com/sirius.help/)](assets/a21881df24d3/0*rPyENZLgZIuvkyNg.)
+![Credits: [**SIRIUS\.HELP**](https://www.facebook.com/sirius.help/)](../assets/a21881df24d3/0*rPyENZLgZIuvkyNg.)
 
 Credits: [**SIRIUS\.HELP**](https://www.facebook.com/sirius.help/)
 
 
-![Credits: [**SIRIUS\.HELP**](https://www.facebook.com/sirius.help/)](assets/a21881df24d3/0*CQMtow7EDRwnAhEv.)
+![Credits: [**SIRIUS\.HELP**](https://www.facebook.com/sirius.help/)](../assets/a21881df24d3/0*CQMtow7EDRwnAhEv.)
 
 Credits: [**SIRIUS\.HELP**](https://www.facebook.com/sirius.help/)
 #### France

@@ -1,5 +1,5 @@
 ---
-title: AYS digest 09/01: If you are cold, count on Europe to steal your blanket
+title: "AYS digest 09/01: If you are cold, count on Europe to steal your blanket"
 author: Are You Syrious?
 date: 2017-01-09T23:10:05.557+0000
 last_modified_at: 2017-01-10T09:59:16.910+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: Snow and freezing temperatures destroying tents in Greek islands / Frost sets in and still no response from Serbian government / German…
 image:
-  path: assets/fd5399d4cd48/1*lk7O8ZQK7mXgZL5AoU_Esw.jpeg
+  path: ../assets/fd5399d4cd48/1*lk7O8ZQK7mXgZL5AoU_Esw.jpeg
 ---
 
 ### AYS digest 09/01: If you are cold, count on Europe to steal your blanket
@@ -15,7 +15,7 @@ image:
 Snow and freezing temperatures destroying tents in Greek islands / Frost sets in and still no response from Serbian government / German authorities threaten to cut aid for countries that refuse to take back rejected asylum seekers — aftermath of Berlin attacks / French police stealing blankets from those sleeping on the streets / Request for solidarity accommodation in Cardiff
 
 
-![Belgrade\. Photo: Igor Čoko](assets/fd5399d4cd48/1*lk7O8ZQK7mXgZL5AoU_Esw.jpeg)
+![Belgrade\. Photo: Igor Čoko](../assets/fd5399d4cd48/1*lk7O8ZQK7mXgZL5AoU_Esw.jpeg)
 
 Belgrade\. Photo: Igor Čoko
 ### **“No person seeking protection, fleeing war, torture and extreme violence should be left out in the cold”** Clement Perrin, MSF
@@ -23,14 +23,14 @@ Belgrade\. Photo: Igor Čoko
 All along the Balkan route, temperatures have dropped so low that the situation in the official and makeshift camps has become unbearable and is putting lives in danger\. From the frozen tents in Lesvos to the freezing, abandoned buildings in Belgrade, people are being treated by the authorities as if they are not living beings\. As Stefano Argenziano, MSF’s operations coordinator on migration, points out, “the EU has decided to turn the entire region into its own gatekeeper,” and this gatekeeper has no means and in most cases, will, to create a system that would protect these people from the most basic of threats — freezing temperatures\.
 
 
-![Tent in a camp in Lesvos\. Photo: Dirty Girls of Lesvos Island](assets/fd5399d4cd48/1*tvWHC3q-SLG4YzEn0XGehA.jpeg)
+![Tent in a camp in Lesvos\. Photo: Dirty Girls of Lesvos Island](../assets/fd5399d4cd48/1*tvWHC3q-SLG4YzEn0XGehA.jpeg)
 
 Tent in a camp in Lesvos\. Photo: Dirty Girls of Lesvos Island
 
 In a [statement](http://www.msf.org/en/article/migration-thousands-trapped-freezing-temperatures-greece-and-balkans) issued today, MSF stresses that “After being frozen out by European migration policies, thousands of migrants and refugees now find themselves trapped in freezing conditions in shelters that are ill\-adapted for winter in Greece and the Balkans\. The cynical neglect of European States’ policies, compounded by icy temperatures and a lack of preparation for winter have worsened an already unbearable situation for thousands of men, women and children seeking protection in Europe\.” In numbers, this means that in Serbia there are “more than 7,500 people currently stranded” who are “living in overcrowded camps and informal settlements\. The country has agreed with the EU to host up to 6,000 people, of whom only 3,140 live in facilities adapted for winter\. In Belgrade, around 2,000 young people, mainly from Afghanistan, Pakistan, Iraq and Syria are currently sleeping in abandoned buildings in the city centre, whilst temperatures plummet to as low as \-20°C\.”
 
 
-![Inside the abandoned buildings near the train station\. Photo: Igor Čoko](assets/fd5399d4cd48/1*U5uibhDz-gaCQ7e6C40b7A.jpeg)
+![Inside the abandoned buildings near the train station\. Photo: Igor Čoko](../assets/fd5399d4cd48/1*U5uibhDz-gaCQ7e6C40b7A.jpeg)
 
 Inside the abandoned buildings near the train station\. Photo: Igor Čoko
 
@@ -41,7 +41,7 @@ MSF has also pointed out, as we have previously reported, that they have been as
 We hoped that winter would spare the Greek islands, but over the last few days snow has been falling steadily on the already overcrowded and desolate Greek ‘hotspots\.’ As MSF’s head of mission in Greece, Clement Perrin, points out “These families are paying the price of European cynicism and the reprehensible deal with Turkey\.”
 
 
-![Lesvos\. 14 cm of snow and still falling\. Photo: Eric Kempson](assets/fd5399d4cd48/1*YQRYoC5WfnnF-itUcI6igg.jpeg)
+![Lesvos\. 14 cm of snow and still falling\. Photo: Eric Kempson](../assets/fd5399d4cd48/1*YQRYoC5WfnnF-itUcI6igg.jpeg)
 
 Lesvos\. 14 cm of snow and still falling\. Photo: Eric Kempson
 
@@ -76,7 +76,7 @@ _“These past days have been the busiest and most critical so far, and our volu
 _The situation has reached emergency levels: \-20 degree temperatures and 35km winds for days now\. Currently in the north, at least 350–400 refugees, including 30 young children, have no alternative but to sleep outside in makeshift tents, abandoned buildings, or in the open air\. One confirmed case of frostbite so far; more are inevitable\._
 
 
-![Northern Serbia\. Photo: Fresh Response](assets/fd5399d4cd48/1*pWtmuJ0sDbsYQ9R6MsyXcg.jpeg)
+![Northern Serbia\. Photo: Fresh Response](../assets/fd5399d4cd48/1*pWtmuJ0sDbsYQ9R6MsyXcg.jpeg)
 
 Northern Serbia\. Photo: Fresh Response
 
@@ -85,7 +85,7 @@ _Out of these, a few hundred unregistered people reside in the ‘jungles’ and
 _Because of a state\-issued letter a couple months ago prohibiting the distribution of aid to people outside the official camp system \(which leaves over 1800 refugees in the country out in the cold\), the other organisations in our area cannot officially provide humanitarian support to this population\. This is when the need for a 100% independently funded and volunteer\-driven project here is critical, as we can dare to go where the others can’t\._
 
 
-![Serbia\. Photo: Fresh Response](assets/fd5399d4cd48/1*LP7RsEC_GGneLkr9cLqBew.jpeg)
+![Serbia\. Photo: Fresh Response](../assets/fd5399d4cd48/1*LP7RsEC_GGneLkr9cLqBew.jpeg)
 
 Serbia\. Photo: Fresh Response
 
@@ -119,7 +119,7 @@ Freiburger Forum says that these examples show the ways that both the promises o
 ### **French police steal blankets in an effort to make those living in the streets disappear**
 
 
-![Streets of Paris\. Photo: P’tit Dej’a Flandre](assets/fd5399d4cd48/1*54A_ybzznNDKcjrLQLlsCQ.jpeg)
+![Streets of Paris\. Photo: P’tit Dej’a Flandre](../assets/fd5399d4cd48/1*54A_ybzznNDKcjrLQLlsCQ.jpeg)
 
 Streets of Paris\. Photo: P’tit Dej’a Flandre
 
@@ -133,7 +133,7 @@ We did not quite comprehend his words, and it seems he did not either\.
 ### **Dunkirk refugee women’s center needs help**
 
 
-![Dunkirk refugee women’s center after the fire\. Photo: Dunkirk Refugee Women’s Center](assets/fd5399d4cd48/1*r2Kcq5sWvk5-fvvTvnl8FQ.jpeg)
+![Dunkirk refugee women’s center after the fire\. Photo: Dunkirk Refugee Women’s Center](../assets/fd5399d4cd48/1*r2Kcq5sWvk5-fvvTvnl8FQ.jpeg)
 
 Dunkirk refugee women’s center after the fire\. Photo: Dunkirk Refugee Women’s Center
 

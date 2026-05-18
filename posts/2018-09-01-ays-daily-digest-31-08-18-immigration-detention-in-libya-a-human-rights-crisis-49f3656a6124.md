@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 31/08/18: Immigration detention in Libya a “Human Rights Crisis”
+title: "AYS Daily Digest 31/08/18: Immigration detention in Libya a “Human Rights Crisis”"
 author: Are You Syrious?
 date: 2018-09-01T11:58:08.431+0100
 last_modified_at: 2018-09-02T18:15:26.292+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,digest,european-union,libya,human-rights]
 description: Clashes in Tripoli put the lives of refugees in grave danger//ERCI response to police accusations//Donations needed for Lesvos//Aftermath…
 image:
-  path: assets/49f3656a6124/1*wN2EsEKpgYMKYuBmt9Zi9A.png
+  path: ../assets/49f3656a6124/1*wN2EsEKpgYMKYuBmt9Zi9A.png
 ---
 
 ### AYS Daily Digest 31/08/18: Immigration detention in Libya a “Human Rights Crisis”
@@ -15,7 +15,7 @@ image:
 _Clashes in Tripoli put the lives of refugees in grave danger//ERCI response to police accusations//Donations needed for Lesvos//Aftermath of Chemnitz riots//_
 
 
-![Photo: [**Maydayterraneo — Proyecto AitaMari**](https://www.facebook.com/MAYDAYTERRANEO/)](assets/49f3656a6124/1*wN2EsEKpgYMKYuBmt9Zi9A.png)
+![Photo: [**Maydayterraneo — Proyecto AitaMari**](https://www.facebook.com/MAYDAYTERRANEO/)](../assets/49f3656a6124/1*wN2EsEKpgYMKYuBmt9Zi9A.png)
 
 Photo: [**Maydayterraneo — Proyecto AitaMari**](https://www.facebook.com/MAYDAYTERRANEO/)
 #### Feature
@@ -43,7 +43,7 @@ forces and to support the Libyan coastguard in its efforts to bring refugees bac
 #### Greece
 
 
-![Photo by [DocMobile — Medical Help e\.V\.](https://www.facebook.com/docmobile.org/?tn-str=k%2AF)](assets/49f3656a6124/0*DNbU471eY9kXlZuW)
+![Photo by [DocMobile — Medical Help e\.V\.](https://www.facebook.com/docmobile.org/?tn-str=k%2AF)](../assets/49f3656a6124/0*DNbU471eY9kXlZuW)
 
 Photo by [DocMobile — Medical Help e\.V\.](https://www.facebook.com/docmobile.org/?tn-str=k%2AF)
 ### ERCI response to police accusations
@@ -70,7 +70,7 @@ The [Bard College Berlin](https://www.facebook.com/bardcollegeberlin/?tn-str=k%2
 Fighting is continuing inside Moria, according to a video published by [Pikpa](https://www.facebook.com/pikpalesvos/?hc_ref=ART_HgOGeLuJnyFzQUDeursZ_Bn8rR7zZUpw6ceuDYocKdQcXO-Zv5lhytvnMIJnH0Q&fref=nf&__xts__%5B0%5D=68.ARDMMDLqe8IyGPSllTgPSLrQSQVxiN5iYJ3NoUjAVldiTs59DdSzwNQxXompF0he2OD6Ug1-nt-5lPSza4vW5icKrMlYTbQ-dA4xvNebjOv6D2cCnVOfY9V7vUX3Mp9ZSqh_0y77Qsq8NxCrZOMy8FWOOIc8jqu5q0PSwYOxMr6E4s-JNIWU&__tn__=kC-R) , with overpopulation reaching breaking point — around 8,000 people now live in a camp meant for 2,000\. Meanwhile the BBC says that children as young as ten are attempting suicide in the camp, with MSF saying it is the worst camp on earth\. [Refugee Rights Europe](http://refugeerights.org.uk/wp-content/uploads/2018/08/RRE_AnIslandInDespair.pdf) highlights that violence against refugees is commonplace, while living conditions in general continue to deteriorate\. For example, 92% of women say they have experienced health issues since arriving on Lesvos, while 78% of minors say they never feel safe in the camp\.
 
 
-[!['The worst refugee camp on earth' - BBC News](assets/49f3656a6124/b240_hqdefault.jpg "'The worst refugee camp on earth' - BBC News")](http://www.youtube.com/watch?v=8v-OHi3iGQI)
+[!['The worst refugee camp on earth' - BBC News](../assets/49f3656a6124/b240_hqdefault.jpg "'The worst refugee camp on earth' - BBC News")](http://www.youtube.com/watch?v=8v-OHi3iGQI)
 
 ### Donations needed for Lesvos
 
@@ -89,14 +89,14 @@ In Trento, 50 migrants affected by scabies were left abandoned under a bridge, c
 ### Food donations needed in Rome
 
 
-![](assets/49f3656a6124/0*lDU4k-hDWemIbuLB)
+![](../assets/49f3656a6124/0*lDU4k-hDWemIbuLB)
 
 
 [Baobab Experience](https://www.facebook.com/BaobabExperience/?hc_ref=ARShOFpZLQqBh-vE10bnkG7mXjF8QjtAFpYqlU8aGsDp9WnPu7cGKGAQWzv3A0f7qFY&fref=nf) is looking to widen the network of shops and market stalls who would be up for giving them their surplus food in order for Baobab to sustain the three meals a day they offer to those living in Piazzale Maslax\. Please get in touch if you have an idea of how to support them\. You can also support them financially [here](https://baobabexperience.org/supporta/) \. Baobab experience has been supporting refugees in Rome since 2015\.
 ### Protest for better living conditions
 
 
-![](assets/49f3656a6124/0*KqlugvRK2RhIcBqb)
+![](../assets/49f3656a6124/0*KqlugvRK2RhIcBqb)
 
 
 According to [Comitato Lavoratori delle Campagne](https://www.facebook.com/comitatolavoratoridellecampagne/?hc_ref=ARQZURFrs7Hdt71i9FHD-YN_n6hjidTB3mxDGD0zCK1IVBOKdFtkchw0Vzb3hi8V-yE&fref=nf) , residents of the makeshift camp of Borgo Mezzanone demonstrated this morning in front of the municipality offices in order to demand the collection of garbage and access to housing, water and electricity\. For a long time they have been waiting to understand what their future will be like and tomorrow morning a meeting is finally scheduled with the relevant authorities\.
@@ -110,7 +110,7 @@ A [series](https://www.thetimes.co.uk/edition/world/gas-chambers-never-existed-s
 On Monday, a [concert](https://www.facebook.com/events/331690927577698/) will take place in Chemnitz to show solidarity with those attacked by neonazis last Sunday and Monday and to show their disgust to those instrumentalising a murder to express their racism\. A nationwide “United against Racism” protest will also take place in [Hamburg](https://www.facebook.com/events/2006637416077800/) on September 29, with buses coming from more than 20 cities\.
 
 
-![](assets/49f3656a6124/0*YXrIn5PwNM9F750b)
+![](../assets/49f3656a6124/0*YXrIn5PwNM9F750b)
 
 ### Measures restricting “church asylum” contradict case law
 

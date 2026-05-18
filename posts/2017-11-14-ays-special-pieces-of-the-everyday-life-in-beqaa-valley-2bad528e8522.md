@@ -1,5 +1,5 @@
 ---
-title: AYS Special: Pieces of the everyday life in Beqaa valley
+title: "AYS Special: Pieces of the everyday life in Beqaa valley"
 author: Are You Syrious?
 date: 2017-11-14T22:15:42.092+0000
 last_modified_at: 2018-03-01T14:14:30.629+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,lebanon,beqaa-valley,syria,special]
 description: In the Beqaa valley, a beautiful place located between the high mountains in the northeast of Lebanon, the refugee population per capita is…
 image:
-  path: assets/2bad528e8522/1*5XoEs1JiVjUIYQuN_QxYaw.jpeg
+  path: ../assets/2bad528e8522/1*5XoEs1JiVjUIYQuN_QxYaw.jpeg
 ---
 
 ### AYS Special: Pieces of the everyday life in Beqaa valley
@@ -15,13 +15,13 @@ image:
 _In the Beqaa valley, a beautiful place located between the high mountains in the northeast of Lebanon, the refugee population per capita is one of the biggest worldwide\. Regardless of that, there is no official camps in the country\. The chances to integrate into the Lebanese society are few since Syrians \(and Palestinians\) aren’t allowed to neither have qualified jobs nor own any property\. The situation creates a limbo for people that are stuck here — trapped between several layers of excluding policy’s\. Here are some stories from and about the valley\._
 
 
-![](assets/2bad528e8522/1*5XoEs1JiVjUIYQuN_QxYaw.jpeg)
+![](../assets/2bad528e8522/1*5XoEs1JiVjUIYQuN_QxYaw.jpeg)
 
 
 Almost two years ago a staff member from the UNHCR said that _“the biggest and worst crises always seems to happen in the most beautiful environments\.”_ This was on the border between Macedonia and Greece, looking through the barbed wire fence towards the over\-crowded Idomeni\. It was a terrible place, but surrounded by the most amazing nature\. If the barracks in Belgrade proved his thesis wrong, since few things there could be described as incredibly beautiful even with the best of intensions, sunny days in Beqaa confirms it\.
 
 
-![Photo: AYS](assets/2bad528e8522/1*yqn2P5GhG_LE62BMM0su3A.jpeg)
+![Photo: AYS](../assets/2bad528e8522/1*yqn2P5GhG_LE62BMM0su3A.jpeg)
 
 Photo: AYS
 
@@ -36,11 +36,11 @@ At the same time, humanitarian organisations such as the UNFPA confirms that the
 With Fortress Europe in the north, the limbo is a well\-established fact for roughly 1,5 to 2 million people in Lebanon — stuck between several layers of excluding policy’s\. And people are also still arriving\. When ISIS strongholds falls and with them the siege people are leaving\. Everything at the same time as the rest of the world focus on the possibilities to return people back to Syria\. The situation in Beqaa is almost as complicated as the war in Syria\. Everyone has their own reasons for fleeing, returning or staying\.
 
 
-![](assets/2bad528e8522/1*sC81JxXBVWTua5AXprCPrQ.jpeg)
+![](../assets/2bad528e8522/1*sC81JxXBVWTua5AXprCPrQ.jpeg)
 
 
 
-![Photo: AYS](assets/2bad528e8522/1*WzeO8f_uyZ8BbMayaWZ1Bw.jpeg)
+![Photo: AYS](../assets/2bad528e8522/1*WzeO8f_uyZ8BbMayaWZ1Bw.jpeg)
 
 Photo: AYS
 
@@ -49,12 +49,12 @@ Regardless of politics, the everyday life is ongoing in Beqaa\. Since the war in
 Bad living conditions, lack of education and high unemployment rates leads to social issues such as various forms of criminality, violence and problems with drugs or alcohol\. Just as in any other low\-income neighbourhood where people do their best in order to cope with the circumstances given\. Although, the majority of the small, self\-built houses in the Beqaa valley are well kept with beautiful Persian carpets on the concrete or muddy floors, colourful pillows and mattresses along the walls
 
 
-![Photo: AYS](assets/2bad528e8522/1*wc3TQNgqZ_uAWOWjayp3og.jpeg)
+![Photo: AYS](../assets/2bad528e8522/1*wc3TQNgqZ_uAWOWjayp3og.jpeg)
 
 Photo: AYS
 
 
-![Photo: AYS](assets/2bad528e8522/1*Gl72pQ8FhO1Duk8yj6LNQg.jpeg)
+![Photo: AYS](../assets/2bad528e8522/1*Gl72pQ8FhO1Duk8yj6LNQg.jpeg)
 
 Photo: AYS
 
@@ -70,12 +70,12 @@ When the winter and colder weather comes, many of them will be unemployed\. A lo
 Syrians are cheaper work force than Lebanese, which triggers the salaries in a downwards spiral\. One Syrian lady, whose husband one day went to the local supermarket and then never came back, is cleaning several shift in schools in order to financially support herself and her three young children\. Her monthly wage is about 100 US dollars\. 70 percent of the 500 000 people in Beqaa lives below the poverty line, of whom 50 percent are counted as “extremely poor\.”
 
 
-![Youths are hanging out and practice climbing at [ClimbAID](https://www.facebook.com/ClimbAID/) ’s mobile rock\. Photo: AYS](assets/2bad528e8522/1*yq-9GitxJOk-1H5PgEOyJw.jpeg)
+![Youths are hanging out and practice climbing at [ClimbAID](https://www.facebook.com/ClimbAID/) ’s mobile rock\. Photo: AYS](../assets/2bad528e8522/1*yq-9GitxJOk-1H5PgEOyJw.jpeg)
 
 Youths are hanging out and practice climbing at [ClimbAID](https://www.facebook.com/ClimbAID/) ’s mobile rock\. Photo: AYS
 
 
-![Kids are playing around [Salam LADC سلام](https://www.facebook.com/salam.ladc/) , school bus on a field nearby a settlement\. Photo: AYS](assets/2bad528e8522/1*RIUj1sJvYAB7Byt1zsCfvA.jpeg)
+![Kids are playing around [Salam LADC سلام](https://www.facebook.com/salam.ladc/) , school bus on a field nearby a settlement\. Photo: AYS](../assets/2bad528e8522/1*RIUj1sJvYAB7Byt1zsCfvA.jpeg)
 
 Kids are playing around [Salam LADC سلام](https://www.facebook.com/salam.ladc/) , school bus on a field nearby a settlement\. Photo: AYS
 
@@ -84,12 +84,12 @@ Volunteer organisations are working everyday to provide education, health\-suppo
 Many children are now going to school but lack of places has created a situation where Lebanese children are going to school in the morning and mainly Syrian children in the afternoons or evenings\. The schoolbus is taking them back and forth\. Teachers are sometimes working double shifts in order to provide education for everyone\. Many have also missed out on a couple of years of education\.
 
 
-![Photo: AYS](assets/2bad528e8522/1*un1p6gSOsNiJfGwjAlqqGg.jpeg)
+![Photo: AYS](../assets/2bad528e8522/1*un1p6gSOsNiJfGwjAlqqGg.jpeg)
 
 Photo: AYS
 
 
-![Photo: AYS](assets/2bad528e8522/1*wXp_-oVP40JmMQiIQYyhqg.jpeg)
+![Photo: AYS](../assets/2bad528e8522/1*wXp_-oVP40JmMQiIQYyhqg.jpeg)
 
 Photo: AYS
 
@@ -102,7 +102,7 @@ Photo: AYS
 The war in Syria has been ongoing for more than six years\. Many children have never been in the country that was supposed to be their country of origin\. _UNICEF_ , among other humanitarian groups, has been warning for what will happen with all the children born during the war\. A lot of kids are born without citizenship, and the parents has to register them with UNHCR before they are one years old\. But, in order to do so they have to be in Lebanon legally, which means that they have to pay a fee to the UNHCR\. Not everyone has enough money for that\.
 
 
-![Photo:AYS](assets/2bad528e8522/1*07Xp9Ztq8ms0Awibkb2jgw.jpeg)
+![Photo:AYS](../assets/2bad528e8522/1*07Xp9Ztq8ms0Awibkb2jgw.jpeg)
 
 Photo:AYS
 

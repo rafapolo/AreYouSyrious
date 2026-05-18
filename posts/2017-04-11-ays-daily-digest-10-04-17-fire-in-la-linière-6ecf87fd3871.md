@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 10/04/17: Fire in La Linière
+title: "AYS Daily Digest 10/04/17: Fire in La Linière"
 author: Are You Syrious?
 date: 2017-04-11T00:01:34.059+0100
 last_modified_at: 2017-04-11T14:31:14.754+0100
 categories: 
 tags: [refugees,europe,france,human-rights,migration]
-description: Escalation of tensions in French border area | Syrians exploited in Turkey | Greece:Information on asylum and reunification procedure…
+description: "Escalation of tensions in French border area | Syrians exploited in Turkey | Greece:Information on asylum and reunification procedure…"
 image:
-  path: assets/6ecf87fd3871/1*AbpS1Uwv88LkvmJ9XPjtoQ.jpeg
+  path: ../assets/6ecf87fd3871/1*AbpS1Uwv88LkvmJ9XPjtoQ.jpeg
 ---
 
 ### AYS Daily Digest 10/04/17: Fire in La Linière
 #### Escalation of tensions in French border area \| Syrians exploited in Turkey \| Greece:Information on asylum and reunification procedure; suffering on the islands \| Legal info for Serbia \| Relocation \(too\) slowly moving in Croatia \|
 
 
-![La Liniere, Grande\-Synthe, Monday evening \(Original photo source: [Le Phare\)](http://m.lepharedunkerquois.fr/fait-divers/grande-synthe-important-incendie-au-camp-de-la-liniere-ia685b0n205262)](assets/6ecf87fd3871/1*AbpS1Uwv88LkvmJ9XPjtoQ.jpeg)
+![La Liniere, Grande\-Synthe, Monday evening \(Original photo source: [Le Phare\)](http://m.lepharedunkerquois.fr/fait-divers/grande-synthe-important-incendie-au-camp-de-la-liniere-ia685b0n205262)](../assets/6ecf87fd3871/1*AbpS1Uwv88LkvmJ9XPjtoQ.jpeg)
 
 La Liniere, Grande\-Synthe, Monday evening \(Original photo source: [Le Phare\)](http://m.lepharedunkerquois.fr/fait-divers/grande-synthe-important-incendie-au-camp-de-la-liniere-ia685b0n205262)
 #### FEATURE
@@ -80,7 +80,7 @@ _Understandably many of the locals view the Syrians as an invading competitor\. 
 Last week, [The New York Times publish a story about Ismail](https://www.nytimes.com/…/turkey-human-trafficking-refugee-…) , a 15 years old boy who together with his family works in farms in Izmir area\.
 
 
-![Photo by the World Tribe\.](assets/6ecf87fd3871/1*CmBwHSwsRSob7TK3Gi9b4g.jpeg)
+![Photo by the World Tribe\.](../assets/6ecf87fd3871/1*CmBwHSwsRSob7TK3Gi9b4g.jpeg)
 
 Photo by the World Tribe\.
 
@@ -136,15 +136,15 @@ That is the way they note that this approach could cause even more problem in th
 To add to this, we publish today’s pictures from camp Souda, Chios\.
 
 
-![](assets/6ecf87fd3871/1*todNOiFxOl3VRBAUQJStPA.jpeg)
+![](../assets/6ecf87fd3871/1*todNOiFxOl3VRBAUQJStPA.jpeg)
 
 
 
-![](assets/6ecf87fd3871/1*hDs1iOc7ZBO6W885dYrB8A.jpeg)
+![](../assets/6ecf87fd3871/1*hDs1iOc7ZBO6W885dYrB8A.jpeg)
 
 
 
-![Conditions inside of the Souda camp\. @miss\_montag](assets/6ecf87fd3871/1*ched517PiF5UbPRn8yaXdw.jpeg)
+![Conditions inside of the Souda camp\. @miss\_montag](../assets/6ecf87fd3871/1*ched517PiF5UbPRn8yaXdw.jpeg)
 
 Conditions inside of the Souda camp\. @miss\_montag
 
@@ -162,7 +162,7 @@ Good news from Thessaloniki\. Group of refugees and volunteers are organizing wo
 Workshops will be organized from 17 until 30 April\.
 
 
-![](assets/6ecf87fd3871/1*vzcEM0o9lS_lMN2HLyygiQ.jpeg)
+![](../assets/6ecf87fd3871/1*vzcEM0o9lS_lMN2HLyygiQ.jpeg)
 
 ### New edition of Rumors is out
 
@@ -181,7 +181,7 @@ With a growing number of refugees being stuck in Serbia, as a result of differen
 Volunteers on the ground report that a group of locals, armed with knifes, have entered the places where they sleep in the middle of the night and have robbed a dozen of refugee boys who were sleeping at the time, at one of the warehouses in Belgrade\. They note this was not an isolated event, as it happens in other abandoned buildings where people stay\.
 
 
-![The ten boys living here had their shoes and phones stolen around 3 am, volunteers say \(Photo: [NuuNoo Miguel](https://www.facebook.com/nuunoo) \)](assets/6ecf87fd3871/1*VWZhQ1aCG16DOVECKpI-tA.jpeg)
+![The ten boys living here had their shoes and phones stolen around 3 am, volunteers say \(Photo: [NuuNoo Miguel](https://www.facebook.com/nuunoo) \)](../assets/6ecf87fd3871/1*VWZhQ1aCG16DOVECKpI-tA.jpeg)
 
 The ten boys living here had their shoes and phones stolen around 3 am, volunteers say \(Photo: [NuuNoo Miguel](https://www.facebook.com/nuunoo) \)
 #### Exhibition & sharing
@@ -189,7 +189,7 @@ The ten boys living here had their shoes and phones stolen around 3 am, voluntee
 On Tuesday, **tomorrow, at 7 pm** Belgrade’s Eurocentar gallery will host a photo exhibition titled “Trapped” by Igor Čoko, photographer who took some of the most appealing photos of people trapped on the Balkan route\. The exibition will be followed by a sharing on the topic of refugees, with international and local volunteers, as well as refugees as guests who will share their stories\. The author [Igor Čoko](https://www.facebook.com/profile.php?id=611898348) , who spent months with refugees in warehouse, invites the audience to **bring a contribution** in summer clothes or shoes, to support symbolically the growing number of young people living in the abandoned buildings and warehouses of the city\.
 
 
-![Volunteer healing refugees feet after his arrival from the Hungarian border… March, 2017\. By Igor Čoko\.](assets/6ecf87fd3871/1*pA9VVfv2q8l2F2YpPILwUg.jpeg)
+![Volunteer healing refugees feet after his arrival from the Hungarian border… March, 2017\. By Igor Čoko\.](../assets/6ecf87fd3871/1*pA9VVfv2q8l2F2YpPILwUg.jpeg)
 
 Volunteer healing refugees feet after his arrival from the Hungarian border… March, 2017\. By Igor Čoko\.
 #### CROATIA

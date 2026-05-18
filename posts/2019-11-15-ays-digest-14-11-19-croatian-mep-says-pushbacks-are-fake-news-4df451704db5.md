@@ -1,5 +1,5 @@
 ---
-title: AYS digest 14/11/19: Croatian MEP says “pushbacks are fake news”
+title: "AYS digest 14/11/19: Croatian MEP says “pushbacks are fake news”"
 author: Are You Syrious?
 date: 2019-11-15T10:56:44.290+0000
 last_modified_at: 2019-11-15T14:24:54.612+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,croatia,european-parliament,digest,flooding]
 description: Over the past 2 days, reports from Border Violence Monitoring Network, Human Rights Watch and Are You Syrious were quoted heavily in the…
 image:
-  path: assets/4df451704db5/1*PvGKVQO-RCwgJQdwDzaD5g.jpeg
+  path: ../assets/4df451704db5/1*PvGKVQO-RCwgJQdwDzaD5g.jpeg
 ---
 
 ### AYS digest 14/11/19: Croatian MEP says “pushbacks are fake news”
 #### Over the past 2 days, reports from Border Violence Monitoring Network, Human Rights Watch and Are You Syrious were quoted heavily in the European Parliament / Syrian refugees say Greek coast guard opened fire at them, bullet holes found on boat / Vial camp is drowning as people wait for relocation to the mainland Greece / European Court of Justice rules that no asylum seeker should be left in the street, Italy ignores
 
 
-![Marks from handcuffs used by the police officers before the person was pushed back from Croatia to Bosnia\. Photo: Dean Blažević](assets/4df451704db5/1*PvGKVQO-RCwgJQdwDzaD5g.jpeg)
+![Marks from handcuffs used by the police officers before the person was pushed back from Croatia to Bosnia\. Photo: Dean Blažević](../assets/4df451704db5/1*PvGKVQO-RCwgJQdwDzaD5g.jpeg)
 
 Marks from handcuffs used by the police officers before the person was pushed back from Croatia to Bosnia\. Photo: Dean Blažević
 #### Featured Story
@@ -27,7 +27,7 @@ Findings and photographs of the Vučjak camp by volunteers Dean Blažević and D
 Representative of the BVMN, Simon Campbell, presented the latest findings of NGOs monitoring violent pushbacks from Croatia\. The data were used in the Parliamentary [debate today](https://www.europarl.europa.eu/plenary/en/debate-details.html?date=20191114&detailBy=date) , with the migrant situation in Bosnia high on the Parliament’s agenda\.
 
 
-![Injuries sustained during the “fake news” pushback from Croatia to Bosnia\. Photo: BVMN](assets/4df451704db5/1*Q-x8y5pDfHNGVfOevZH8Qw.png)
+![Injuries sustained during the “fake news” pushback from Croatia to Bosnia\. Photo: BVMN](../assets/4df451704db5/1*Q-x8y5pDfHNGVfOevZH8Qw.png)
 
 Injuries sustained during the “fake news” pushback from Croatia to Bosnia\. Photo: BVMN
 
@@ -53,7 +53,7 @@ MEPs such as Dietmar Köster, Cornelia Ernst and Romeo Franz have justly warned 
 
 
 
-![Despair in Vučjak camp is a direct result of Croatian violations of human rights\. Photo: Thom Davies](assets/4df451704db5/1*Ei8kpogj41UST7CFECkumA.jpeg)
+![Despair in Vučjak camp is a direct result of Croatian violations of human rights\. Photo: Thom Davies](../assets/4df451704db5/1*Ei8kpogj41UST7CFECkumA.jpeg)
 
 Despair in Vučjak camp is a direct result of Croatian violations of human rights\. Photo: Thom Davies
 
@@ -65,7 +65,7 @@ Twenty\-seven refugees claimed the Greek Coast Guard opened fire on them on Thur
 Multiple bullet holes were visible on the boat that was towed to the port by the Turkish Coast Guard\. Refugees were discovered aboard the boat by Turkish soldiers patrolling the area\. Among them were 17 Syrian and 10 Somali migrants, while authorities arrested one smuggler helping them\.
 
 
-![Bullet holes on the boat that was carrying refugees from Izmir to Greece\. Photo: Daily Shabah](assets/4df451704db5/1*sAmS_q8HyKalCFnWIXXDaw.jpeg)
+![Bullet holes on the boat that was carrying refugees from Izmir to Greece\. Photo: Daily Shabah](../assets/4df451704db5/1*sAmS_q8HyKalCFnWIXXDaw.jpeg)
 
 Bullet holes on the boat that was carrying refugees from Izmir to Greece\. Photo: Daily Shabah
 
@@ -83,7 +83,7 @@ According to the [Deportation Monitoring Aegean](https://dm-aegean.bordermonitor
 #### Severe Flooding Has Hit Vial Hotspot on Chios, Greece
 
 
-![Photo credit: [Elena Depi De Piccoli](https://web.facebook.com/elena.depiccoli?__tn__=lC-R&eid=ARBVZhc02POKcR8TVx7ZDNutncDaZ77A5CEUzajuG8Xj9CWRnRS9LF7VZ99phh43_Y8k3xY5DWFbl-OL&hc_ref=ARTv6vnfXvxt026ErCVysypMVo_9ZZOlY-t6ZPcByE30xFvh2BF6e09xk0KS1wa635w&__xts__%5B0%5D=68.ARBo-0tYcloL5NHG1eirSA4rXV_STIl51HFe-F4VKKQeyMNqhjuF0Y3DQEX1_JxR7wcoR3_UatGswKlkCv5DUTLpbgz5fctPq26CX3KSk9XkqDLX7VB_AJR9PZ0JAf09D4geM40yHe52P__wKDLSe_Xn10M1HiaDYzucXBlL0U_JP-8_1yd0Pi7OQIZuibmm9rwYbu6Q-RVP5BKGi-bVNkUt125dKENYeuWwtt0dKiLHSegs1fTi6t_fn7Zs97qBBrCBBpY)](assets/4df451704db5/1*GaZSkj3_asTpxcWhmvS6cA.jpeg)
+![Photo credit: [Elena Depi De Piccoli](https://web.facebook.com/elena.depiccoli?__tn__=lC-R&eid=ARBVZhc02POKcR8TVx7ZDNutncDaZ77A5CEUzajuG8Xj9CWRnRS9LF7VZ99phh43_Y8k3xY5DWFbl-OL&hc_ref=ARTv6vnfXvxt026ErCVysypMVo_9ZZOlY-t6ZPcByE30xFvh2BF6e09xk0KS1wa635w&__xts__%5B0%5D=68.ARBo-0tYcloL5NHG1eirSA4rXV_STIl51HFe-F4VKKQeyMNqhjuF0Y3DQEX1_JxR7wcoR3_UatGswKlkCv5DUTLpbgz5fctPq26CX3KSk9XkqDLX7VB_AJR9PZ0JAf09D4geM40yHe52P__wKDLSe_Xn10M1HiaDYzucXBlL0U_JP-8_1yd0Pi7OQIZuibmm9rwYbu6Q-RVP5BKGi-bVNkUt125dKENYeuWwtt0dKiLHSegs1fTi6t_fn7Zs97qBBrCBBpY)](../assets/4df451704db5/1*GaZSkj3_asTpxcWhmvS6cA.jpeg)
 
 Photo credit: [Elena Depi De Piccoli](https://web.facebook.com/elena.depiccoli?__tn__=lC-R&eid=ARBVZhc02POKcR8TVx7ZDNutncDaZ77A5CEUzajuG8Xj9CWRnRS9LF7VZ99phh43_Y8k3xY5DWFbl-OL&hc_ref=ARTv6vnfXvxt026ErCVysypMVo_9ZZOlY-t6ZPcByE30xFvh2BF6e09xk0KS1wa635w&__xts__%5B0%5D=68.ARBo-0tYcloL5NHG1eirSA4rXV_STIl51HFe-F4VKKQeyMNqhjuF0Y3DQEX1_JxR7wcoR3_UatGswKlkCv5DUTLpbgz5fctPq26CX3KSk9XkqDLX7VB_AJR9PZ0JAf09D4geM40yHe52P__wKDLSe_Xn10M1HiaDYzucXBlL0U_JP-8_1yd0Pi7OQIZuibmm9rwYbu6Q-RVP5BKGi-bVNkUt125dKENYeuWwtt0dKiLHSegs1fTi6t_fn7Zs97qBBrCBBpY)
 
@@ -140,7 +140,7 @@ Ah, promoting the European Way of Life\.
 ### European Court of Justice Rules that No Asylum Seeker Should be Left in the Street, Italy Ignores
 
 
-![Refugees sleeping rough in Lecco, near the fancy Lake Como tourist resort\.](assets/4df451704db5/1*6exlOWdbPwynv2-XA3NHBQ.jpeg)
+![Refugees sleeping rough in Lecco, near the fancy Lake Como tourist resort\.](../assets/4df451704db5/1*6exlOWdbPwynv2-XA3NHBQ.jpeg)
 
 Refugees sleeping rough in Lecco, near the fancy Lake Como tourist resort\.
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Digest 27/9: As doors close to Syrians fleeing by thousands, instead of ceasefire — Aleppo…
+title: "AYS Digest 27/9: As doors close to Syrians fleeing by thousands, instead of ceasefire — Aleppo…"
 author: Are You Syrious?
 date: 2016-09-28T05:20:17.015+0100
 last_modified_at: 2016-09-28T05:32:44.014+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,syria,greece,uk-politics]
 description: Rights, conventions and solidarity more and more geographically limited / Confusing and slow process of relocation finds resistance and…
 image:
-  path: assets/171bd02c4c47/1*RfwBFb3rQLa6cP3amvnVUQ.jpeg
+  path: ../assets/171bd02c4c47/1*RfwBFb3rQLa6cP3amvnVUQ.jpeg
 ---
 
 ### AYS Digest 27/9: As doors close to Syrians fleeing by thousands, instead of ceasefire — Aleppo ceases to exist…
@@ -15,7 +15,7 @@ image:
 _Rights, conventions and solidarity more and more geographically limited / Confusing and slow process of relocation finds resistance and mistrust with some refugees / UAE finally agrees to start welcoming Syrian refugees / EU strengthening Bulgarian border / Hungarian government ignores global outrage by their populist politics_
 
 
-![Photo credit: [The White Helmets](https://www.whitehelmets.org/)](assets/171bd02c4c47/1*RfwBFb3rQLa6cP3amvnVUQ.jpeg)
+![Photo credit: [The White Helmets](https://www.whitehelmets.org/)](../assets/171bd02c4c47/1*RfwBFb3rQLa6cP3amvnVUQ.jpeg)
 
 Photo credit: [The White Helmets](https://www.whitehelmets.org/)
 #### SYRIA
@@ -68,7 +68,7 @@ This overall view on the situation in the EU was a common point during the short
 
 
 
-![Photo: Through Refugee Eyes](assets/171bd02c4c47/1*qyWEX21fWVaP7kUUsTbg7A.jpeg)
+![Photo: Through Refugee Eyes](../assets/171bd02c4c47/1*qyWEX21fWVaP7kUUsTbg7A.jpeg)
 
 Photo: Through Refugee Eyes
 #### GREECE
@@ -82,12 +82,12 @@ The number of official registrations on Greek islands until 7\.30h on Tuesday mo
 Depethe camp on the island Chios was dismantled\. Some camp residents were moved to another accommodation in local hotel buildings, while others were moved to Souda\.
 
 
-![Chios photos: [Salvamento Marítimo Humanitario](https://www.facebook.com/smhumanitario/?ref=page_internal)](assets/171bd02c4c47/1*1Yd7R0E2uSHUE0DELj9Q7A.jpeg)
+![Chios photos: [Salvamento Marítimo Humanitario](https://www.facebook.com/smhumanitario/?ref=page_internal)](../assets/171bd02c4c47/1*1Yd7R0E2uSHUE0DELj9Q7A.jpeg)
 
 Chios photos: [Salvamento Marítimo Humanitario](https://www.facebook.com/smhumanitario/?ref=page_internal)
 
 
-![](assets/171bd02c4c47/1*oXTQEAA41qyFBlD5AkuV2Q.jpeg)
+![](../assets/171bd02c4c47/1*oXTQEAA41qyFBlD5AkuV2Q.jpeg)
 
 #### Thessaloniki
 ### Are you a refugee in Thessaloniki in need of information?
@@ -98,12 +98,12 @@ If you have questions concerning your asylum application and live in Thessalonik
 In collaboration with the IRC and Save the Children, the Cultural Centre in Mazaraki camp in Cherso has three more rooms for the educational program\.They also opened up a carpentry workshop with the locals where they manufacture furniture for the new classrooms\.
 
 
-![Mazaraki Cherso photos: by [Open Cultural Center — OCC — former Idomeni Cultural Center](https://www.facebook.com/OpenCulturalCenter/)](assets/171bd02c4c47/1*uGh46Uxb1Fl8cZ3CKU6ZVQ.jpeg)
+![Mazaraki Cherso photos: by [Open Cultural Center — OCC — former Idomeni Cultural Center](https://www.facebook.com/OpenCulturalCenter/)](../assets/171bd02c4c47/1*uGh46Uxb1Fl8cZ3CKU6ZVQ.jpeg)
 
 Mazaraki Cherso photos: by [Open Cultural Center — OCC — former Idomeni Cultural Center](https://www.facebook.com/OpenCulturalCenter/)
 
 
-![](assets/171bd02c4c47/1*d6j9xlJBssN2pvGL37NxBA.jpeg)
+![](../assets/171bd02c4c47/1*d6j9xlJBssN2pvGL37NxBA.jpeg)
 
 #### UAE opening two new camps in Greece
 
@@ -116,7 +116,7 @@ Khora Community Centre is looking for a volunteer kitchen coordinator to join th
 Experienced volunteers willing to stay and work for at least 11 days are welcome to take part in projects at Sounio refugee camp, located two hours by bus from Athens\. Those among volunteers with experience in teaching English \(TEFL\), design and supervising children’s activities, volunteers fluent in Arabic and Farsi, as well as those with experience in food preparation would be a special asset to the team\.
 
 
-![Turkey makeshift camp near Manisa, photo: ARC](assets/171bd02c4c47/1*yXthh5zQUjwBhysdvG87Tg.jpeg)
+![Turkey makeshift camp near Manisa, photo: ARC](../assets/171bd02c4c47/1*yXthh5zQUjwBhysdvG87Tg.jpeg)
 
 Turkey makeshift camp near Manisa, photo: ARC
 #### TURKEY
@@ -130,7 +130,7 @@ Bulgaria has a 127\.3\-kilometre fence with Turkey\. Another 55\.7 kilometres is
 **14132** refugees are currently officially staying in Bulgaria, according to the official reports of the Bulgarian Ministry of Interior\. They reported a decline in refugee arrival in the previous week \(September 15–22\), but they still warn that most of the country’s refugee centres are full\. Those refugees that manage to cross through the well secured border in the hope of reaching Serbia before heading further north to Germany or Sweden, are sent to one of three detention facilities, facing overcrowding and poor conditions\. The number of unaccompanied and separated children is also on the rise, which is quite a worrying trend, the [EU Observer](https://euobserver.com/migration/135253) sources claim\.
 
 
-![Üdvözlet\! \(Photo credit: AFP / Getty Images via Amnesty International\)](assets/171bd02c4c47/1*af2oed30bX-rRtm0XPO3ww.jpeg)
+![Üdvözlet\! \(Photo credit: AFP / Getty Images via Amnesty International\)](../assets/171bd02c4c47/1*af2oed30bX-rRtm0XPO3ww.jpeg)
 
 Üdvözlet\! \(Photo credit: AFP / Getty Images via Amnesty International\)
 #### HUNGARY
@@ -151,7 +151,7 @@ The organizers encourage all the participants to take photos during the clean up
  Schedule: Briefing & Recruiting: 9\.30–10h Clean\-up: 10–12h
 
 
-![Refugee Aid Miksalište continues helping and THANKS to all those who have donated since the beginning of the crisis in Serbia \(Photo: Refugee Aid Miksalište\)](assets/171bd02c4c47/1*Znra4kKuePgicYRnWQZMwg.jpeg)
+![Refugee Aid Miksalište continues helping and THANKS to all those who have donated since the beginning of the crisis in Serbia \(Photo: Refugee Aid Miksalište\)](../assets/171bd02c4c47/1*Znra4kKuePgicYRnWQZMwg.jpeg)
 
 Refugee Aid Miksalište continues helping and THANKS to all those who have donated since the beginning of the crisis in Serbia \(Photo: Refugee Aid Miksalište\)
 #### ITALY

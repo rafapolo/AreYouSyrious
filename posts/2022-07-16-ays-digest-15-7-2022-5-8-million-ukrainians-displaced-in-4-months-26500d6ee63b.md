@@ -1,5 +1,5 @@
 ---
-title: AYS Digest 15/7/2022: 5.8 million Ukrainians displaced in 4 months
+title: "AYS Digest 15/7/2022: 5.8 million Ukrainians displaced in 4 months"
 author: Are You Syrious?
 date: 2022-07-16T12:42:17.448+0100
 last_modified_at: 2022-07-16T18:40:53.039+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,ukraine,greece,ireland]
 description: Attack on people on the move in Belgrade, police violence in Subotica // Greek authorities tortured 32 people on Kos // Ireland is running…
 image:
-  path: assets/26500d6ee63b/1*qm56BccMbnzWqO8-g4a0qA.jpeg
+  path: ../assets/26500d6ee63b/1*qm56BccMbnzWqO8-g4a0qA.jpeg
 ---
 
 ### AYS Digest 15/7/2022: 5\.8 million Ukrainians displaced in 4 months
 #### Attack on people on the move in Belgrade, police violence in Subotica // Greek authorities tortured 32 people on Kos // **Ireland is running out of room for Ukrainians**
 
 
-![Impressions from Shehyni at the Ukraine\-Poland border in March 2022\. Photo: Niklas Golitschek](assets/26500d6ee63b/1*qm56BccMbnzWqO8-g4a0qA.jpeg)
+![Impressions from Shehyni at the Ukraine\-Poland border in March 2022\. Photo: Niklas Golitschek](../assets/26500d6ee63b/1*qm56BccMbnzWqO8-g4a0qA.jpeg)
 
 Impressions from Shehyni at the Ukraine\-Poland border in March 2022\. Photo: Niklas Golitschek
 
@@ -74,7 +74,7 @@ On June 24, up to 37 people died trying to cross the land borders at Melilla and
 [**Terms and acronyms that asylum seekers need to know in Italy — InfoMigrants**](http://www.infomigrants.net/en/post/41893/terms-and-acronyms-that-asylum-seekers-need-to-know-in-italy?fbclid=IwAR36Ay6wYnqO03cmnNHTZu98V85_yqvX9TecisY7tlAgVHhv9EVBFbgedZg)
 
 
-![](assets/26500d6ee63b/0*MEe3eff09UmfD0RO)
+![](../assets/26500d6ee63b/0*MEe3eff09UmfD0RO)
 
 
 **GERMANY**
@@ -92,7 +92,7 @@ The Irish army is planning to build a makeshift tent city north of Dublin for ne
 The Irish Prime Minister, Michael Martin, stated that their asylum system has seen an increase in applications from African and Middle Easten asylum seekers who fear being deported to Rwanda through the UK’s new policy\. As a result of this increase, there is no longer enough accommodation for everyone trying to seek asylum in Ireland\.
 
 
-![](assets/26500d6ee63b/0*J_eYAenKn8W1f3v5)
+![](../assets/26500d6ee63b/0*J_eYAenKn8W1f3v5)
 
 
 [Ireland runs out of rooms for Ukrainians — and blames UK’s Rwanda policy — POLITICO](https://www.politico.eu/article/micheal-martin-ireland-ukraine-war-refugees-uk-rwanda-policy/?utm_source=Twitter&utm_medium=social&fbclid=IwAR153kHaFLWQAD41QSx0pOiCSQmuEfNdiUb70b1tSWLBfF52JUoVHMr2N1E)

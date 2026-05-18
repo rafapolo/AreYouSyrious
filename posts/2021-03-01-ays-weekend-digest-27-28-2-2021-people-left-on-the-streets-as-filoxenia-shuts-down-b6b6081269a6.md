@@ -7,18 +7,18 @@ categories: Are You Syrious?
 tags: [digest,filoxenia,iom,refugees,mediterranean]
 description: 15 lives lost in the central Mediterranean — 363 rescued by SeaWatch wait for safe port — New lockdown measures in Samos and Greece — UK…
 image:
-  path: assets/b6b6081269a6/0*kZ4sDcUBNPKvNYUu.jpeg
+  path: ../assets/b6b6081269a6/0*kZ4sDcUBNPKvNYUu.jpeg
 ---
 
 ### AYS Weekend Digest 27–28/2/2021 People left on the streets as Filoxenia shuts down
 #### 15 lives lost in the central Mediterranean — 363 rescued by SeaWatch wait for safe port — New lockdown measures in Samos and Greece — UK to expand women’s detention — Denmark attempts to move reception centres to third countries…
 
 
-![](assets/b6b6081269a6/0*No_tBphRXqG45Usc)
+![](../assets/b6b6081269a6/0*No_tBphRXqG45Usc)
 
 
 
-![](assets/b6b6081269a6/0*kZ4sDcUBNPKvNYUu.jpeg)
+![](../assets/b6b6081269a6/0*kZ4sDcUBNPKvNYUu.jpeg)
 
 
 Sunday marked “the official end of a meaningful MSF project on board the SeaWatch4\. [MSF](https://twitter.com/MSF) joined forces with [Sea Watch](https://twitter.com/seawatch_intl) last year, against the backdrop of the COVID\-19 pandemic, to urgently fill the gap left by European states in the central Mediterranean\.” \(Photo and text by [MSF Sea](https://twitter.com/MSF_Sea/status/1366030026077065220/photo/2) \)
@@ -110,11 +110,11 @@ GREECE
 ### Lesvos — Hand grenade found in Moria 2\.0
 
 
-![](assets/b6b6081269a6/0*T8GhgjOplxAE2q92)
+![](../assets/b6b6081269a6/0*T8GhgjOplxAE2q92)
 
 
 
-![](assets/b6b6081269a6/0*VqyNPCsqcA2PBYXu.jpeg)
+![](../assets/b6b6081269a6/0*VqyNPCsqcA2PBYXu.jpeg)
 
 
 Photo by [Dunya Collective](https://twitter.com/DunyaCollective/status/1365733841831346179)

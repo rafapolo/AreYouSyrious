@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,border-violence,greece,european-union,libya]
 description: Shipwrecks and rescues in Greece and Spain // Germany to restart deportations to Afghanistan // Violence against migrants and activists in…
 image:
-  path: assets/a96a1622b796/1*r_ObeeChPtIug3bxiR6qvw.jpeg
+  path: ../assets/a96a1622b796/1*r_ObeeChPtIug3bxiR6qvw.jpeg
 ---
 
 ### AYS Daily Digest 18/12/2020 — “Black Book of Pushbacks” published by BVMN and launched by the United Left in the European Parliament
 #### Shipwrecks and rescues in Greece and Spain // Germany to restart deportations to Afghanistan // Violence against migrants and activists in Serbia and Bosnia // and more…
 
 
-![](assets/a96a1622b796/1*r_ObeeChPtIug3bxiR6qvw.jpeg)
+![](../assets/a96a1622b796/1*r_ObeeChPtIug3bxiR6qvw.jpeg)
 
 
 Today Border Violence Monitoring Network has released the ‘Black Book of Pushbacks’\. This 1,500\-page publication, in two volumes, has been compiled by the Border Violence Monitoring Network and it exposes in detail the illegal practice of violent pushbacks of migrants which have been taking place over many months at the EU’s external borders — with full impunity\.
@@ -34,7 +34,7 @@ _– many of the incidents documented could be clearly described as sadistic, me
 Fifteen organisations, including AYS, contributed to the book effort through collected testimonies as well as visuals and maps published in the book\. It is made in collaboration with the United Left \(GUE/NGL\) block of the European Parliament, that is why you can see it being presented by MEPs Miguel Urbán and Malin Björk\.
 
 
-![MEPs Malin Björk and Miguel Urbán Crespo presenting the Book to Commissioner Ylva Johansson in Brussels](assets/a96a1622b796/1*9zznBIMX3ZykHjYIeCqdbw.jpeg)
+![MEPs Malin Björk and Miguel Urbán Crespo presenting the Book to Commissioner Ylva Johansson in Brussels](../assets/a96a1622b796/1*9zznBIMX3ZykHjYIeCqdbw.jpeg)
 
 MEPs Malin Björk and Miguel Urbán Crespo presenting the Book to Commissioner Ylva Johansson in Brussels
 
@@ -48,7 +48,7 @@ According to Hope Barker, [BVMN spokesperson](https://thecivilfleet.wordpress.co
 
 
 
-![](assets/a96a1622b796/1*qrrPDOIBi9I4Son8Wdot1A.jpeg)
+![](../assets/a96a1622b796/1*qrrPDOIBi9I4Son8Wdot1A.jpeg)
 
 
 Khalid from Eritrea, who himself experienced numerous pushbacks including from Slovenia, delivered the Black Book of Pushbacks to the Ombudsperson’s office in Ljubljana, where he was received by the deputy Ombudsperson\. Khalid, who escaped slavery in Eritrea, has been denied asylum \(waiting for an appeal\) on the grounds that “there are NO REPORTS” regarding the conditions in Eritrea, so Slovenia cannot say for sure if he is eligible for asylum\.
@@ -89,7 +89,7 @@ For the full editorial, see [here\.](https://www.ecre.org/progress-on-the-pact-n
 
 
 ![Lesvos, Greece, 2020: Two Afghan children fly a kite together in Lesvos\.
-Photograph/text by Aggelos Barai](assets/a96a1622b796/1*1DAQ0E8UKseCgrIEvCqDrQ.jpeg)
+Photograph/text by Aggelos Barai](../assets/a96a1622b796/1*1DAQ0E8UKseCgrIEvCqDrQ.jpeg)
 
 Lesvos, Greece, 2020: Two Afghan children fly a kite together in Lesvos\.
 Photograph/text by Aggelos Barai

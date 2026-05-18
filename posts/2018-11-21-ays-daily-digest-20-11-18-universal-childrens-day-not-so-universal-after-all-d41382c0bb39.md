@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 20/11/18: Universal Children’s Day — not so universal after all
+title: "AYS Daily Digest 20/11/18: Universal Children’s Day — not so universal after all"
 author: Are You Syrious?
 date: 2018-11-21T17:06:29.141+0000
 last_modified_at: 2018-11-21T17:06:29.141+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: []
 description: Serious situations facing refugee children continue / A year since the death of little Madina — how many more happened? / What African…
 image:
-  path: assets/d41382c0bb39/1*oVkmOPm4k8IkkgY42OEicg.jpeg
+  path: ../assets/d41382c0bb39/1*oVkmOPm4k8IkkgY42OEicg.jpeg
 ---
 
 ### AYS Daily Digest 20/11/18: Universal Children’s Day — not so universal after all
 #### Serious situations facing refugee children continue / A year since the death of little Madina — how many more happened? / What African refugees are fleeing / Commercial ship return refugees to inhumane detention in Libya / Repeated political pressure forces two organizations to temporally cease SAR operations in the Mediterranean / fight to reform deportation camp Sjælsmark in Denmark / read for more…
 
 
-![“ Moria \(Lesvos\) refugee camp, just now\. Europe as such\.” — Photo: [Refugee Accommodation and Solidarity Space City Plaza](https://www.facebook.com/sol2refugeesen/?tn-str=k%2AF&hc_location=group_dialog)](assets/d41382c0bb39/1*oVkmOPm4k8IkkgY42OEicg.jpeg)
+![“ Moria \(Lesvos\) refugee camp, just now\. Europe as such\.” — Photo: [Refugee Accommodation and Solidarity Space City Plaza](https://www.facebook.com/sol2refugeesen/?tn-str=k%2AF&hc_location=group_dialog)](../assets/d41382c0bb39/1*oVkmOPm4k8IkkgY42OEicg.jpeg)
 
 “ Moria \(Lesvos\) refugee camp, just now\. Europe as such\.” — Photo: [Refugee Accommodation and Solidarity Space City Plaza](https://www.facebook.com/sol2refugeesen/?tn-str=k%2AF&hc_location=group_dialog)
 #### FEATURE

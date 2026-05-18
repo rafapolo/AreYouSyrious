@@ -1,5 +1,5 @@
 ---
-title: AYS digest 12/12: “Impossible to determine the number of dead and displaced”
+title: "AYS digest 12/12: “Impossible to determine the number of dead and displaced”"
 author: Are You Syrious?
 date: 2016-12-12T22:21:13.289+0000
 last_modified_at: 2016-12-13T14:58:07.671+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: Aleppo — impossible to determine the number of displaced / Clashes in Chios due to overcrowding / Hunger strike in Korinthos Detention…
 image:
-  path: assets/2c473cb7445c/1*_YhyJ4O7Z0ndY8GLRqjshw.jpeg
+  path: ../assets/2c473cb7445c/1*_YhyJ4O7Z0ndY8GLRqjshw.jpeg
 ---
 
 ### AYS digest 12/12: “Impossible to determine the number of dead and displaced”
@@ -15,7 +15,7 @@ image:
 _Aleppo — impossible to determine the number of displaced / Clashes in Chios due to overcrowding / Hunger strike in Korinthos Detention Centre / EU struck a deal with Mali / Donations needed in Serbia and France / Saint Denis camp to be closed down_
 
 
-![People from east Aleppo are trying to survive in what seem to be the last days of the rebel\-controlled era\.](assets/2c473cb7445c/1*_YhyJ4O7Z0ndY8GLRqjshw.jpeg)
+![People from east Aleppo are trying to survive in what seem to be the last days of the rebel\-controlled era\.](../assets/2c473cb7445c/1*_YhyJ4O7Z0ndY8GLRqjshw.jpeg)
 
 People from east Aleppo are trying to survive in what seem to be the last days of the rebel\-controlled era\.
 #### Syria
@@ -74,7 +74,7 @@ As reported by Samos volunteers, “live performances by a Greek local band and 
 Refucomm will soon be launching a series of [animated films](https://www.youtube.com/watch?v=t_9JEhRvVx0) showing the asylum procedures in Greece\. The picture below shows the reality of this process as it currently stands\. Apparently you have to arrive at 7am although the offices do not open until 9\. It appears very cold in the waiting room\.
 
 
-![Asylum service, Athens](assets/2c473cb7445c/1*VK6WBlvYX7Ybct-DMI4sCQ.jpeg)
+![Asylum service, Athens](../assets/2c473cb7445c/1*VK6WBlvYX7Ybct-DMI4sCQ.jpeg)
 
 Asylum service, Athens
 
@@ -84,7 +84,7 @@ In addition, migrants and refugees currently in Mytilene, on the Greek island of
 We have written extensively on the new procedures of returns to Greece under the Dublin accord\. This information is now available in Arabic and is available [here](https://www.facebook.com/refugee.info/posts/1244954342231377:0?hc_location=ufi) \. The site was prepared by [Refugee Info](https://www.facebook.com/refugee.info/) \.
 
 
-![](assets/2c473cb7445c/1*n9b_jv5nbOUAw7d9fzZ3uQ.jpeg)
+![](../assets/2c473cb7445c/1*n9b_jv5nbOUAw7d9fzZ3uQ.jpeg)
 
 ### **Information for volunteers**
 
@@ -116,7 +116,7 @@ If you are willing and able, please support our friends North Star\. North Star 
 As the death toll rises at sea, the mainland is no respite\. In the early hours of December 12, at around 2am, in the city of Como there were as many as 71 migrants in the street, including 6 minors and 1 woman\. It has also been reported that a 15 year\-old boy from Eritrea tried to commit suicide on Saturday evening around 9pm inside the centre in Via Regina Teodolinda in the same city\.
 
 
-![Cold welcome\. Como, Italy](assets/2c473cb7445c/1*GnTPoC41DqbJV3L0DLuaqw.png)
+![Cold welcome\. Como, Italy](../assets/2c473cb7445c/1*GnTPoC41DqbJV3L0DLuaqw.png)
 
 Cold welcome\. Como, Italy
 #### Germany

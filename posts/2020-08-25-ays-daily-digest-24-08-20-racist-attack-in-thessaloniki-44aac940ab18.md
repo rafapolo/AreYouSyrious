@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [digest,refugees,greece,racism,italy]
 description: Are You Syrious?
 image:
-  path: assets/44aac940ab18/0*u2NtdvMDGl5sGITB.jpeg
+  path: ../assets/44aac940ab18/0*u2NtdvMDGl5sGITB.jpeg
 ---
 
 ### AYS Daily Digest 24/08/20 Racist attack in Thessaloniki
 
 
-![](assets/44aac940ab18/0*AuJ2JK39L9YoOJw0.jpeg)
+![](../assets/44aac940ab18/0*AuJ2JK39L9YoOJw0.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----641fee6ac52d----------------------)
@@ -23,11 +23,11 @@ image:
 _Alarm Phone accounts for 4 shipwrecks last week // devastating insight into Petrou Ralli in Greece // COVID positive tests in Lampedusa // and more…_
 
 
-![](assets/44aac940ab18/0*4upyll-j6R14dwJY)
+![](../assets/44aac940ab18/0*4upyll-j6R14dwJY)
 
 
 
-![](assets/44aac940ab18/0*u2NtdvMDGl5sGITB.jpeg)
+![](../assets/44aac940ab18/0*u2NtdvMDGl5sGITB.jpeg)
 
 ### FEATURE: RACIST ATTACK AGAINST ONE MAN BY GROUP OF 16 IN THESSALONIKI
 
@@ -112,11 +112,11 @@ We all need to condemn this state\-enacted violence\. Greece is breaking interna
 ### GREECE
 
 
-![](assets/44aac940ab18/0*w57Gy92-E3wtdeZS)
+![](../assets/44aac940ab18/0*w57Gy92-E3wtdeZS)
 
 
 
-![](assets/44aac940ab18/0*zkzoHc96XiNbWkTJ.jpeg)
+![](../assets/44aac940ab18/0*zkzoHc96XiNbWkTJ.jpeg)
 
 
 **In news for Lesvos:**
@@ -126,11 +126,11 @@ We all need to condemn this state\-enacted violence\. Greece is breaking interna
 
 
 
-![](assets/44aac940ab18/0*oyc9sD-MloZOXiuW)
+![](../assets/44aac940ab18/0*oyc9sD-MloZOXiuW)
 
 
 
-![](assets/44aac940ab18/0*XjQ_g-yOcWLbMoC5.jpeg)
+![](../assets/44aac940ab18/0*XjQ_g-yOcWLbMoC5.jpeg)
 
 
 The Solidarity Initiative for Petrou Ralli released a statement on Sunday from one of the prisoners in Petrou Ralli dentention centre\. It’s tough to read, because it articulates a lot of violence from guards, people having horrible illnesses that are going untreated, and children being forced to take medicine with no understanding of why\.
@@ -176,11 +176,11 @@ On Monday the Refugee Law Clinic Berlin \(RLC Berlin\) launched its Access To Ju
 
 
 
-![](assets/44aac940ab18/0*M761k7_00o8SOX3l)
+![](../assets/44aac940ab18/0*M761k7_00o8SOX3l)
 
 
 
-![](assets/44aac940ab18/0*4ApAiM2iRhy1WL4s.jpeg)
+![](../assets/44aac940ab18/0*4ApAiM2iRhy1WL4s.jpeg)
 
 ### Two analyses on Germany knowing of pushbacks, but not acting against them, are worth your read
 

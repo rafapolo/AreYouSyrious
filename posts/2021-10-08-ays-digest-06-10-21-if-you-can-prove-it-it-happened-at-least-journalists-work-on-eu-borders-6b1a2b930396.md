@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest]
 description: Greek Libyan border cooperation / Appeal against mass grave displacements in Italy / In solidarity with Mimmo Lucano / Clearing of Oulx /…
 image:
-  path: assets/6b1a2b930396/1*me1dNw7vxefCnBaz6JQTqw.jpeg
+  path: ../assets/6b1a2b930396/1*me1dNw7vxefCnBaz6JQTqw.jpeg
 ---
 
 ### **AYS Digest 06/10/21 — If you can prove it, at least it happened — Journalists’ work on EU borders’ violence to be released**
 #### Greek Libyan border cooperation / Appeal against mass grave displacements in Italy / In solidarity with Mimmo Lucano / Clearing of Oulx / No\-visa\-policy against Afghans and more
 
 
-![Photo: DER SPIEGEL / Lighthouse Reports / SRF / Medienpartner](assets/6b1a2b930396/1*me1dNw7vxefCnBaz6JQTqw.jpeg)
+![Photo: DER SPIEGEL / Lighthouse Reports / SRF / Medienpartner](../assets/6b1a2b930396/1*me1dNw7vxefCnBaz6JQTqw.jpeg)
 
 Photo: DER SPIEGEL / Lighthouse Reports / SRF / Medienpartner
 #### FEATURE

@@ -1,5 +1,5 @@
 ---
-title: AYS Special from Germany: Life in a limbo — the story of Navid
+title: "AYS Special from Germany: Life in a limbo — the story of Navid"
 author: Are You Syrious?
 date: 2019-01-01T11:26:56.714+0000
 last_modified_at: 2019-01-01T11:26:56.714+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [refugees,afghanistan,germany,special,danmark]
 description: Navid is back in Germany. For the 25 years old Afghan citizen it is the last hope to find refuge in Europe — although the Federal Office…
 image:
-  path: assets/7469c0c1859d/1*jgxvp69lxDyuBYjy67bhMw.png
+  path: ../assets/7469c0c1859d/1*jgxvp69lxDyuBYjy67bhMw.png
 ---
 
 ### AYS Special from Germany: Life in limbo — the story of Navid
 
 
-![](assets/7469c0c1859d/1*jgxvp69lxDyuBYjy67bhMw.png)
+![](../assets/7469c0c1859d/1*jgxvp69lxDyuBYjy67bhMw.png)
 
 
 Navid is back in Germany\. For the 25\-year\-old Afghan citizen it is the last hope of finding refuge in Europe — although the Federal Office for Migration and Refugees \(BAMF\) in Bremen has rejected his asylum application for the second time\.

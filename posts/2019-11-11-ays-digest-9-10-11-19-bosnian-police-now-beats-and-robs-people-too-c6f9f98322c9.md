@@ -1,5 +1,5 @@
 ---
-title: AYS Digest 9–10/11/19: Bosnian police now beats and robs people, too
+title: "AYS Digest 9–10/11/19: Bosnian police now beats and robs people, too"
 author: Are You Syrious?
 date: 2019-11-11T11:15:00.339+0000
 last_modified_at: 2019-11-11T12:29:26.729+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,migration,europe,balkans]
 description: New accounts of police violence in Velika Kladuša confirmed by doctors / confirmed that Maltese authorities coordinate interceptions at…
 image:
-  path: assets/c6f9f98322c9/1*OSgTN68ePDpvdGDI6UzqIw.jpeg
+  path: ../assets/c6f9f98322c9/1*OSgTN68ePDpvdGDI6UzqIw.jpeg
 ---
 
 ### AYS Digest 9–10/11/19: Bosnian police now beats and robs people, too
 #### New accounts of police violence in Velika Kladuša confirmed by doctors // Maltese authorities coordinate interceptions at sea in collaboration with Libya // La Lega closes a pro bono clinic in Italy // Mass\-deportation from Sweden scheduled for the 12th of November // Volunteer calls and other news
 
 
-![Beaten by Croats, beaten by Bosnians: it’s becoming hard to tell a difference\. Photo: M\. Husaković / AYS](assets/c6f9f98322c9/1*OSgTN68ePDpvdGDI6UzqIw.jpeg)
+![Beaten by Croats, beaten by Bosnians: it’s becoming hard to tell a difference\. Photo: M\. Husaković / AYS](../assets/c6f9f98322c9/1*OSgTN68ePDpvdGDI6UzqIw.jpeg)
 
 Beaten by Croats, beaten by Bosnians: it’s becoming hard to tell a difference\. Photo: M\. Husaković / AYS
 #### FEATURED
@@ -50,7 +50,7 @@ Friday morning, a walk to MSF’s clinic to meet a few people and check about th
 His empty look, as if he were dead inside and had lost all kind of hope and faith, spoke volumes about his physical and mental state\. He started to tell us what had happened to him the day before, on Thursday, November 1st, 2019, in Velika Kladuša\.
 
 
-![An open\-air camp in Velika Kladuša, where people stripped of all dignity hope to enter the EU\. \(Photo: NNK\)](assets/c6f9f98322c9/1*t5LAKinV-y4NIux7TBuF5g.jpeg)
+![An open\-air camp in Velika Kladuša, where people stripped of all dignity hope to enter the EU\. \(Photo: NNK\)](../assets/c6f9f98322c9/1*t5LAKinV-y4NIux7TBuF5g.jpeg)
 
 An open\-air camp in Velika Kladuša, where people stripped of all dignity hope to enter the EU\. \(Photo: NNK\)
 
@@ -73,7 +73,7 @@ The doctors who checked him the day after confirmed that he should only recover 
 Then they drove him around 10–15 km away, the young man having to walk back in the cold, bruised and scared and confused about who to trust\. This did not happen in Syria or in Afghanistan\. Nor was it done by the border police in Croatia\. This occurred in Velika Kladuša, in Bosnia and Herzegovina, and clearly shows a worsening situation in the country, accompanying the start of the winter\.
 
 
-![Bosnian police officers apprehending people in the center of Bihać\. \(Photo: Margot Durand / AYS\)](assets/c6f9f98322c9/1*WtLS8mZewzLdzpdaxDBVLA.jpeg)
+![Bosnian police officers apprehending people in the center of Bihać\. \(Photo: Margot Durand / AYS\)](../assets/c6f9f98322c9/1*WtLS8mZewzLdzpdaxDBVLA.jpeg)
 
 Bosnian police officers apprehending people in the center of Bihać\. \(Photo: Margot Durand / AYS\)
 
@@ -88,7 +88,7 @@ AYS has published an [extensive report](ays-special-documenting-human-rights-vio
 While refugees are being robbed and beaten every day, nobody is being held accountable for those unlawful acts, whether in Croatia, Bosnia or anywhere\. We are talking about countries which have the pretension to enter in the European Union \(EU\) or the Schengen area\. NGOs working in the field have published [an open letter](croatias-schengen-membership-should-be-halted-until-human-rights-are-respected-6062df8ccb14) , warning that abuses and violations of human rights should rule out EU and Schengen accession, a statement that was later shared with the representatives of the European Parliament and [expanded by the Human Rights Watch](https://www.hrw.org/news/2019/11/08/eu-address-croatia-border-pushbacks) \. The European Comission, however, is turning a blind eye at illegal practices in its [official communication](https://www.europarl.europa.eu/meetdocs/2014_2019/plmrep/AUTRES_INSTITUTIONS/COMM/COM/2019/11-06/COM_COM20190497_EN.pdf) to the European Parliament\. Instead of effective investigation, European money is still being invested in police forces and in the means to chase people and terrify them, ensuring that that they have broken bones, run out of money and energy to fulfill their dreams: a simple life, a job, a way to sustain their family and give a good education to their children\.
 
 
-![Violence is systematic and left unpunished for too long: a woman beaten up by the Croatian police officers in August 2018 — since then, there has hardly been a day without such border violence\. Photo: BVMN](assets/c6f9f98322c9/1*Eq2diutCKFPqwYTFhbMINQ.jpeg)
+![Violence is systematic and left unpunished for too long: a woman beaten up by the Croatian police officers in August 2018 — since then, there has hardly been a day without such border violence\. Photo: BVMN](../assets/c6f9f98322c9/1*Eq2diutCKFPqwYTFhbMINQ.jpeg)
 
 Violence is systematic and left unpunished for too long: a woman beaten up by the Croatian police officers in August 2018 — since then, there has hardly been a day without such border violence\. Photo: BVMN
 - _This feature was written by AYS, NNK and BVMN volunteers in Velika Kladuša and Zagreb\. Names are changed to preserve anonymity\._
@@ -108,7 +108,7 @@ Refugees in [Zawiyah](https://www.facebook.com/hashtag/zawiyah?source=feed_text&
 **Questions are also being raised about the UNHCR’s Libyan staff making these “rejection” decisions when many of them never speak to refugees, only giggle with the police, don't seem to care about refugees’ torture or lack of food or water, and are often hit by scandals of corruption, racism, ignorance, collusion with detention centres bosses and traffickers\.**
 
 
-![Photo: [Giulia Tranchina](https://www.facebook.com/rastajuly?__tn__=%2Cd%2AF%2AF-R&eid=ARCcC5Z3tbu2e_U-338985kSqWVF9O8MpDuLQuVBm44DG3oOkvJ6-tr1Ovm3g0ioIFFzuS5v4xw2QNuj&tn-str=%2AF)](assets/c6f9f98322c9/1*prSqht_ESqbWVZ52BeJwaw.jpeg)
+![Photo: [Giulia Tranchina](https://www.facebook.com/rastajuly?__tn__=%2Cd%2AF%2AF-R&eid=ARCcC5Z3tbu2e_U-338985kSqWVF9O8MpDuLQuVBm44DG3oOkvJ6-tr1Ovm3g0ioIFFzuS5v4xw2QNuj&tn-str=%2AF)](../assets/c6f9f98322c9/1*prSqht_ESqbWVZ52BeJwaw.jpeg)
 
 Photo: [Giulia Tranchina](https://www.facebook.com/rastajuly?__tn__=%2Cd%2AF%2AF-R&eid=ARCcC5Z3tbu2e_U-338985kSqWVF9O8MpDuLQuVBm44DG3oOkvJ6-tr1Ovm3g0ioIFFzuS5v4xw2QNuj&tn-str=%2AF)
 
@@ -137,7 +137,7 @@ During the weekend, at least eight boats arrived on the Greek Aegean islands, ca
 The situation has never been worse in the ‘camps’ on the Aegean islands, long\-term volunteering groups and individuals confirm\.
 
 
-![Photo: [Ihab Abassi](https://www.facebook.com/ysalaam?__tn__=%2Cd%2AF%2AF-R&eid=ARC85LdiUdkpMuqnLYxQKnIKsOf99BmONw2y0cKMQOsC5IVKjkVKWZO-HyG7L9ZSHf6RIu4usPOug0bf&tn-str=%2AF)](assets/c6f9f98322c9/1*v4keCEwr_ZSjfc2Gkof2NQ.jpeg)
+![Photo: [Ihab Abassi](https://www.facebook.com/ysalaam?__tn__=%2Cd%2AF%2AF-R&eid=ARC85LdiUdkpMuqnLYxQKnIKsOf99BmONw2y0cKMQOsC5IVKjkVKWZO-HyG7L9ZSHf6RIu4usPOug0bf&tn-str=%2AF)](../assets/c6f9f98322c9/1*v4keCEwr_ZSjfc2Gkof2NQ.jpeg)
 
 Photo: [Ihab Abassi](https://www.facebook.com/ysalaam?__tn__=%2Cd%2AF%2AF-R&eid=ARC85LdiUdkpMuqnLYxQKnIKsOf99BmONw2y0cKMQOsC5IVKjkVKWZO-HyG7L9ZSHf6RIu4usPOug0bf&tn-str=%2AF)
 ### Volunteering
@@ -160,11 +160,11 @@ Thessaloniki — A volunteer teacher/ teaching assistant is still wanted to work
 Support rally on Sunday on Day 7 Hunger Strike of 8 Women at Petrou Ralli Detention Center in Athens\.
 
 
-![](assets/c6f9f98322c9/1*-1Vw0-tGu5CNSE5Yq2iBzw.jpeg)
+![](../assets/c6f9f98322c9/1*-1Vw0-tGu5CNSE5Yq2iBzw.jpeg)
 
 
 
-![Demo in solidarity with women detainees on hunger strike since November 2 in the cells of Petrou Ralli immigrants\` administrative detention centre in Athens\. Greek Gov new law expands adm\. detention up to 36 months\. — NoBorders](assets/c6f9f98322c9/1*zQUxOnfTB3Q91aSdegBxrw.jpeg)
+![Demo in solidarity with women detainees on hunger strike since November 2 in the cells of Petrou Ralli immigrants\` administrative detention centre in Athens\. Greek Gov new law expands adm\. detention up to 36 months\. — NoBorders](../assets/c6f9f98322c9/1*zQUxOnfTB3Q91aSdegBxrw.jpeg)
 
 Demo in solidarity with women detainees on hunger strike since November 2 in the cells of Petrou Ralli immigrants\` administrative detention centre in Athens\. Greek Gov new law expands adm\. detention up to 36 months\. — NoBorders
 #### MALTA
@@ -233,7 +233,7 @@ The Italian Globalist reports that the Jimuel medical clinic in Riace, which was
 Many CRS vans, and a chase after people is what [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__tn__=kC-R&eid=ARDXiSCOVOXGhg8KcRYxZ6_m3HLStQIcCYzNurahJ0XTuzBO-ewJXKBJONqOMDm32eHCfHn5RLRtXYv7&hc_ref=ARQLQ180T0zq4YJZLXhLJ-DxlEvaVDMInnPwbiRg6gZGZQ7Xrf5uubFbUbrnt9nOQQg&fref=nf&__xts__%5B0%5D=68.ARDbaxtEeZggbsXY9wrNpFpJMp0IOck5qUSuPVxaQuSNtJIKnNOr5bQL9kI3bKZVnaF-2ks7Q2R-mQZx_htEMQ_FDheXppHyshWb9xDvv2FzWKn8d4Kc9Ry-3Ff1Q2TkT9IHybDo91k0Meef7zmqzDhggzhdEGJ7izs4Tu_GRmvq0w_q9qIwSDe5FAf_BHtXfOYKE6ACzZvxmYrsTmertchkWdCCbP_EmYlCcBUy63HT9w18w6eCPLGjHmMm27BkNIfVgs5Gv-GX9f7YZw3zz0K2x3F86rG7TVWLa63NKjCt5YDZmoOBntgykzQZyGHB--0puuLqqmHIZL4acis3Y4rQNQ) witnessed in Saint\-Denis\. The city barred the place so that people couldn’t put their tents back in place, and a CRS van is watching over the situation\.
 
 
-![](assets/c6f9f98322c9/1*lY_l7TaOujC9j8DhMsnjwg.jpeg)
+![](../assets/c6f9f98322c9/1*lY_l7TaOujC9j8DhMsnjwg.jpeg)
 
 
 In Porte d’Aubervilliers, around 200 people were taken away after they were not taken on the buses\. They are still there, those arriving and those who have been staying for a while now\. 3 camps on each other sides of the periphery\. It is windy and very cold\. The people arriving have no blankets or tents and those already there were taken by the police by force on Thursday\.
@@ -242,11 +242,11 @@ They encountered a young boy who tells them he had been walking all through the 
 He says he embarked on his journey at the age of 15, and that he hopes he has the right to rest somewhere as he is unimaginably tired\.
 
 
-![](assets/c6f9f98322c9/1*Hm53l-K286ZmI1qaBwcpxA.jpeg)
+![](../assets/c6f9f98322c9/1*Hm53l-K286ZmI1qaBwcpxA.jpeg)
 
 
 
-![Photos: [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?tn-str=k%2AF)](assets/c6f9f98322c9/1*p2Uu52c9f1VD4miTePe2oA.jpeg)
+![Photos: [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?tn-str=k%2AF)](../assets/c6f9f98322c9/1*p2Uu52c9f1VD4miTePe2oA.jpeg)
 
 Photos: [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?tn-str=k%2AF)
 #### SWEDEN

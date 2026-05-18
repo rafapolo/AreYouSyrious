@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 24/05/2018: Evacuation in Grande-Synthe
+title: "AYS Daily Digest 24/05/2018: Evacuation in Grande-Synthe"
 author: Are You Syrious?
 date: 2018-05-25T10:52:55.247+0100
 last_modified_at: 2018-05-25T16:03:25.459+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,france,bosnia,cyprus]
 description: Tents destroyed in Grande-Synthe and Calais / Protests continue in Diavata / 157 people rescued by Sea-Watch / Stateless Kurdish refugee…
 image:
-  path: assets/5fa33a4eafdc/0*KVrb4bz1Yf71WpI_.
+  path: ../assets/5fa33a4eafdc/0*KVrb4bz1Yf71WpI_.
 ---
 
 ### AYS Daily Digest 24/05/2018: Evacuation in Grande\-Synthe
@@ -15,7 +15,7 @@ image:
 _Tents destroyed in Grande\-Synthe and Calais / Protests continue in Diavata / 157 people rescued by Sea\-Watch / Stateless Kurdish refugee protest in Cyprus / And more news…_
 
 
-![Photo by Médecins du monde](assets/5fa33a4eafdc/0*KVrb4bz1Yf71WpI_.)
+![Photo by Médecins du monde](../assets/5fa33a4eafdc/0*KVrb4bz1Yf71WpI_.)
 
 Photo by Médecins du monde
 ### FEATURE: Evacuation in Grande\-Synthe
@@ -41,7 +41,7 @@ Refugee families and organizations are organizing a [protest this Saturday](http
 #### 157 people rescued by Sea\-Watch and Sea\-Eye
 
 
-![Photo by Sea\-Watch](assets/5fa33a4eafdc/0*xFJ_xrLP_ztfM2-y.)
+![Photo by Sea\-Watch](../assets/5fa33a4eafdc/0*xFJ_xrLP_ztfM2-y.)
 
 Photo by Sea\-Watch
 
@@ -74,7 +74,7 @@ Sea\-Watch’s Moonbird aircraft also found a rubber boat and reported its posit
 [The Cyprus Refugee Council](https://www.facebook.com/cyrefugeecouncil/) says a solidarity event took place outside the Ministry of Interior in support of stateless Kurdish hunger strikers\.
 
 
-![](assets/5fa33a4eafdc/1*b5APo1sn0HY98w046fo9xA.jpeg)
+![](../assets/5fa33a4eafdc/1*b5APo1sn0HY98w046fo9xA.jpeg)
 
 
 The hunger strike has been going on for ten days\. They call on the Ministry of Interior to examine their application for citizenship\. The protest had started in 2015, after the rejection of their asylum application by authorities\. In response to their demands, the former Minister of Interior, Mr\. Socratis Hasikos, committed to naturalize them instead of granting them refugee status\. However, their applications for citizenship got collectively rejected — all without an individual justification\.
@@ -93,7 +93,7 @@ The Mosaik Support Centre on Lesvos is hosting a meeting and discussion from 4:0
 #### Petrou Ralli 8
 
 
-![Photo by AYS](assets/5fa33a4eafdc/1*8RSWE87vVi3hTid7RnXt6g.jpeg)
+![Photo by AYS](../assets/5fa33a4eafdc/1*8RSWE87vVi3hTid7RnXt6g.jpeg)
 
 Photo by AYS
 
@@ -117,7 +117,7 @@ The city is close to the Croatian border and only 70 kilometres from the farther
 NNK started a permanent shower system where around 35 people are living and is providing warm showers for four hours a day for the people living around the city\.
 
 
-![Photo by No Name Kitchen in Velika Kladusa, Bosnia & Herzegovina](assets/5fa33a4eafdc/1*jgmI2KkRWyFkPeX4jgsEiA.jpeg)
+![Photo by No Name Kitchen in Velika Kladusa, Bosnia & Herzegovina](../assets/5fa33a4eafdc/1*jgmI2KkRWyFkPeX4jgsEiA.jpeg)
 
 Photo by No Name Kitchen in Velika Kladusa, Bosnia & Herzegovina
 
@@ -132,7 +132,7 @@ A new [booklet in English on family reunion under the Dublin Regulation III](htt
 #### Funds needed for Ahmed H\.
 
 
-![](assets/5fa33a4eafdc/0*vBseFmTPp3gcJp5i.)
+![](../assets/5fa33a4eafdc/0*vBseFmTPp3gcJp5i.)
 
 
 The Free the Röszke 11 Solidarity Network needs some additional help to finance the lawyer of Ahmed H\. You can donate by transferring funds directly to this bank account\. More information on why these funds are needed can be found [here](https://www.facebook.com/11personfreedom/photos/a.1570767169888631.1073741828.1570739649891383/1870734969891848/?type=3) \.

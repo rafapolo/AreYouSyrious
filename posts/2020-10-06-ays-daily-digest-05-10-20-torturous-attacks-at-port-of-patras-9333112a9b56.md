@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [refugees,greece,racism,violence,digest]
 description: Are You Syrious?
 image:
-  path: assets/9333112a9b56/0*_vWtkW_B4NrDwZ_z.jpeg
+  path: ../assets/9333112a9b56/0*_vWtkW_B4NrDwZ_z.jpeg
 ---
 
 ### AYS Daily Digest 05/10/20 Torturous attacks at port of Patras
 
 
-![](assets/9333112a9b56/0*TlimNTeXrmqSd2_k.jpeg)
+![](../assets/9333112a9b56/0*TlimNTeXrmqSd2_k.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----b3b958b1aa13--------------------------------)
@@ -23,11 +23,11 @@ image:
 _Serious defeats for UK Immigration Bill // changes to Salvini’s decrees // more crossings and deaths from Yemen // fewer refugees in Germany now over past 9 years // over 20,000 deaths in Med since 2013 // and more…_
 
 
-![](assets/9333112a9b56/0*IsB0SJrVTfqg-pd4)
+![](../assets/9333112a9b56/0*IsB0SJrVTfqg-pd4)
 
 
 
-![](assets/9333112a9b56/0*_vWtkW_B4NrDwZ_z.jpeg)
+![](../assets/9333112a9b56/0*_vWtkW_B4NrDwZ_z.jpeg)
 
 ### FEATURE: TORTURE AT PORT OF PATRAS
 
@@ -78,21 +78,21 @@ The Army is reporting that it just blocked a boat of 37 people, mostly Syrians, 
 [We’ve](https://www.infomigrants.net/en/post/27731/more-than-20-000-migrants-died-in-mediterranean-since-2013?fbclid=IwAR0RhZ2g0uf41QOnSsafJgYWpJpIXyPCI_NFqXadPWPt1U78AmjnSlKPtzo) reached a new milestone…one we cannot remotely be proud of…
 
 
-![](assets/9333112a9b56/0*N5_MBjaD6hAyLOEn)
+![](../assets/9333112a9b56/0*N5_MBjaD6hAyLOEn)
 
 
 
-![](assets/9333112a9b56/0*ntEvz3PtvMGCfc4N.png)
+![](../assets/9333112a9b56/0*ntEvz3PtvMGCfc4N.png)
 
 ### GREECE
 ### Lesvos: Save Pikpa and daily life in “new Moria”
 
 
-![](assets/9333112a9b56/0*HAcedpWiKXIFpurh)
+![](../assets/9333112a9b56/0*HAcedpWiKXIFpurh)
 
 
 
-![](assets/9333112a9b56/0*7ldkjz54oVpoySkx.png)
+![](../assets/9333112a9b56/0*7ldkjz54oVpoySkx.png)
 
 
 [Departures](https://www.thenationalherald.com/archive_general_news_greece/arthro/850_refugees_to_depart_from_lesbos_headed_for_mainland_greece-958640/?fbclid=IwAR2qSfZyLqr-hrHO7uqjOOUf_N7cPdRhjZAFUT2206G9ObO9HhESSlzSo9A) to mainland on Monday:
@@ -119,11 +119,11 @@ The Army is reporting that it just blocked a boat of 37 people, mostly Syrians, 
 **Update on checks:** _“Checks at the entrance to \#Moria2\. Leaving the camp could mean hours & hours of waiting to get in again\. Bags are thoroughly searched & ppl get checked with metal detectors like in a prison\. The result are often long lines up the main road leading to Mytilini\.”_ See video [here](https://twitter.com/DunyaCollective/status/1313154484256665604) \.
 
 
-![](assets/9333112a9b56/0*0ueygNhYOv2pMpHw)
+![](../assets/9333112a9b56/0*0ueygNhYOv2pMpHw)
 
 
 
-![](assets/9333112a9b56/0*Ak8LSOVIs9gF6huS.jpeg)
+![](../assets/9333112a9b56/0*Ak8LSOVIs9gF6huS.jpeg)
 
 
 Some of you may have already heard of the [Dutch civilian plane](https://www.kathimerini.gr/society/561104653/mploko-se-ptisi-poy-naylosan-ollandoi-aktivistes-gia-ti-lesvo/?fbclid=IwAR3t-5o1x_Msfo61CDPKjylNUxMb770R1PI_1FKDJ1ywY2bqvCWTvrjbC5E) which landed in Athens and is trying to bring back refugees, bypassing Dutch government officials\. [Sumita Shah posted](https://www.facebook.com/groups/AthensVolunteersInformation/permalink/2230258197106465/) an elegant reminder of Athens volunteers’ stance on such matters:
@@ -142,11 +142,11 @@ Some of you may have already heard of the [Dutch civilian plane](https://www.kat
 
 
 
-![](assets/9333112a9b56/0*yXQIS86YooV9a23h)
+![](../assets/9333112a9b56/0*yXQIS86YooV9a23h)
 
 
 
-![](assets/9333112a9b56/0*XEA3LtnjGEZ3w1AO.jpeg)
+![](../assets/9333112a9b56/0*XEA3LtnjGEZ3w1AO.jpeg)
 
 ### ITALY
 ### The new Immigration Decree modifies Salvini’s decrees
@@ -164,11 +164,11 @@ News from the Med reporting on another tragedy: _“A 15\-year\-old unaccompanie
 ### SPAIN
 
 
-![](assets/9333112a9b56/0*FcWAss1ScXj52PhT)
+![](../assets/9333112a9b56/0*FcWAss1ScXj52PhT)
 
 
 
-![](assets/9333112a9b56/0*v0UNT_3OcmsNxSTw.jpeg)
+![](../assets/9333112a9b56/0*v0UNT_3OcmsNxSTw.jpeg)
 
 
 Spanish media is reporting that:
@@ -206,11 +206,11 @@ This fall is due to COVID restrictions and others losing their protection status
 
 
 
-![](assets/9333112a9b56/0*ooHGXVfeGY5g1iBQ)
+![](../assets/9333112a9b56/0*ooHGXVfeGY5g1iBQ)
 
 
 
-![](assets/9333112a9b56/0*m5-R2brxjlsdOsT2.jpeg)
+![](../assets/9333112a9b56/0*m5-R2brxjlsdOsT2.jpeg)
 
 ### FRANCE
 
@@ -228,11 +228,11 @@ Many thorough analyses are coming out in regard to the new EU Pact on Migration 
 ### UK
 
 
-![](assets/9333112a9b56/0*yYVt-oB8jLbF7Rtv)
+![](../assets/9333112a9b56/0*yYVt-oB8jLbF7Rtv)
 
 
 
-![](assets/9333112a9b56/0*z5XtcA0dqTH8Wdci.jpeg)
+![](../assets/9333112a9b56/0*z5XtcA0dqTH8Wdci.jpeg)
 
 ### Over 100,000 people call for halting deportation of severely autistic man
 

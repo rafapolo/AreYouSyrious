@@ -1,5 +1,5 @@
 ---
-title: AYS digest 17/10: City of Love is in reality a city of tents — many refugees with no other choice…
+title: "AYS digest 17/10: City of Love is in reality a city of tents — many refugees with no other choice…"
 author: Are You Syrious?
 date: 2016-10-17T23:20:51.358+0100
 last_modified_at: 2016-10-18T10:42:25.306+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: Many sleeping rough on the streets of Paris / MSF protesting the plan of french authorities to close the camps / Donations on the streets…
 image:
-  path: assets/bfc55143ac26/1*qjwXUPcIPFOIybBDMe1mjg.jpeg
+  path: ../assets/bfc55143ac26/1*qjwXUPcIPFOIybBDMe1mjg.jpeg
 ---
 
 ### AYS digest 17/10: City of Love is in reality a city of tents — many refugees with no other choice than to live on the streets of Paris
@@ -15,7 +15,7 @@ image:
 Many sleeping rough on the streets of Paris / MSF protesting the plan of french authorities to close the camps / Donations on the streets should be organized and not hectic — a message from the volunteers / Donations and volunteers needed in France, Serbia and Greece / List of companies profiting from securatization / Hungarians said no to violence, authorities say yes — Migszol report
 
 
-![Streets of Paris\. Photo: Sarah fenby Dixon](assets/bfc55143ac26/1*qjwXUPcIPFOIybBDMe1mjg.jpeg)
+![Streets of Paris\. Photo: Sarah fenby Dixon](../assets/bfc55143ac26/1*qjwXUPcIPFOIybBDMe1mjg.jpeg)
 
 Streets of Paris\. Photo: Sarah fenby Dixon
 #### **France**
@@ -27,7 +27,7 @@ This rash action on the part of the authorities is becoming painfully obvious in
 According to the volunteers on the ground, local authorities claim that around one hundred refugees arrive in Paris daily, but they do not necessarily go to the hot spots\. While some build up tents on the sidewalk or traffic islands, others have to sleep outside without any shelter\. On Friday authorities bulldozed some 100 tents in the Afghan area, where the people had almost no time to take their goods so items such as cell phones, clothes or blankets have been destroyed with this action\. Some refugees also reported that police took their phones\.
 
 
-![Streets of Paris\. Photo: Sarah Fenby Dixon](assets/bfc55143ac26/1*N071lJOlFlJud4P4rYbzBA.jpeg)
+![Streets of Paris\. Photo: Sarah Fenby Dixon](../assets/bfc55143ac26/1*N071lJOlFlJud4P4rYbzBA.jpeg)
 
 Streets of Paris\. Photo: Sarah Fenby Dixon
 
@@ -36,14 +36,14 @@ There is literally no infrastructure in the area, where the refugees stay\. No c
 Back to the families\. As the number of new arrivals is increasing, more and more families are living in the streets, too\. Nowadays there are some mothers with young, even new born children\. And the ones in shelters, accommodated in the middle of nowhere, are reportedly lacking nearly all necessities, as most of the volunteers focus on the streets\.
 
 
-![Police and tents on the streets](assets/bfc55143ac26/1*mAFhvUnkRuSTzDp7yK4IVQ.jpeg)
+![Police and tents on the streets](../assets/bfc55143ac26/1*mAFhvUnkRuSTzDp7yK4IVQ.jpeg)
 
 Police and tents on the streets
 
 We have also been told that refugees who get arrested and fingerprinted for some reason, are being checked if a Dublin deportation to another EU country is possible\. Also, another alarming practice has been documented — While it’s illegal to oblige asylum seekers to leave the French territory, platforms where people can make their asylum demands are often saturated, meaning that they can spend weeks in the streets and be brought to the police station, without yet having the papers proving that they are indeed asylum\-seekers\. There are reports that police are removing some of the tents that have sprung all around the city, but it cannot be confirmed that this is a standard practice\.
 
 
-![Streets of Paris\. Photo: Niklas Golitschek](assets/bfc55143ac26/1*_i0tCf2fWCiZPwGf1oMBdw.jpeg)
+![Streets of Paris\. Photo: Niklas Golitschek](../assets/bfc55143ac26/1*_i0tCf2fWCiZPwGf1oMBdw.jpeg)
 
 Streets of Paris\. Photo: Niklas Golitschek
 
@@ -52,7 +52,7 @@ As for distribution of food, clothes and other needed things, it seems that the 
 So, if you really want to help, go to 12 rue St\. Bruno 75018 Paris, angle rue St\. Luc where you can drop off men’s clothes, blankets and hygiene times from Tuesday to Saturday, from 15h to 18h\. Clothes are distributed from 9h to 12h, or longer, on Saturdays and Sundays\.
 
 
-![Streets of Paris](assets/bfc55143ac26/1*INwzr8TJkrs1c97dxoG8Pw.jpeg)
+![Streets of Paris](../assets/bfc55143ac26/1*INwzr8TJkrs1c97dxoG8Pw.jpeg)
 
 Streets of Paris
 
@@ -62,12 +62,12 @@ Funds are also always needed by the Collectif parisien de soutien aux exilé\.e\
 Since we are talking about donations there are some urgently needed in Calais\. As eviction notices are nailed up in the Calais jungle, refugees show what they think of them\!
 
 
-![Police putting up eviction notice on a Jungle “house” Photo: Calais action](assets/bfc55143ac26/1*McqI-gq3n3Qo1Cmz7PYb1w.jpeg)
+![Police putting up eviction notice on a Jungle “house” Photo: Calais action](../assets/bfc55143ac26/1*McqI-gq3n3Qo1Cmz7PYb1w.jpeg)
 
 Police putting up eviction notice on a Jungle “house” Photo: Calais action
 
 
-![What do people think of this eviction notice Photo: Calais Action](assets/bfc55143ac26/1*awFYREbeBB-zAC2_zsdJfQ.jpeg)
+![What do people think of this eviction notice Photo: Calais Action](../assets/bfc55143ac26/1*awFYREbeBB-zAC2_zsdJfQ.jpeg)
 
 What do people think of this eviction notice Photo: Calais Action
 
@@ -98,7 +98,7 @@ Humanitarian support agency also needs some urgent volunteer help for winterizat
 Following the tragic accident that killed a young mother and son on the 16th October in Oreokastro camp, on which we [reported extensively yesterday](https://medium.com/@AreYouSyrious/ays-16-10-refugee-family-killed-by-a-car-in-front-of-oreokastro-camp-ee93ba049e30#.9l808e8fz) , due to, besides other reasons, the very bad conditions on the roads leading to camps, volunteers on the ground are appealing for donations of reflective arm bands so the circulation of refugees is safer\. If you manage a warehouse, coordinate a street group or can help with the distribution of this live saving items, please contact Ana Jorge\.
 
 
-![Reflective bands](assets/bfc55143ac26/1*jw3yR_D8wn3O3JdHjwoHWA.jpeg)
+![Reflective bands](../assets/bfc55143ac26/1*jw3yR_D8wn3O3JdHjwoHWA.jpeg)
 
 Reflective bands
 
@@ -115,14 +115,14 @@ There is a new centre opened in Bujanovci in the ex factory Svetlost\. The facil
 Migzsol have published a new report on Hungary\. As they point out: “Contrary to what many people in western Europe might think, Hungary is not full of supporters of Viktor Orbán or Jobbik\. \. First of all, on October 2nd, 60% of the Hungarian electorate ignored the propaganda machine of Fidesz and did not bother to even show up at the racist referendum\. The referendum result, therefore, is invalid”\.
 
 
-![People protesting against the referendum, 30th September\. Photo by István Huszti / Index](assets/bfc55143ac26/1*r_MyPfFdJKkwdWDy6IfB7A.jpeg)
+![People protesting against the referendum, 30th September\. Photo by István Huszti / Index](../assets/bfc55143ac26/1*r_MyPfFdJKkwdWDy6IfB7A.jpeg)
 
 People protesting against the referendum, 30th September\. Photo by István Huszti / Index
 
 That being said, they point out to be aware that what authorities are doing on the border is once again — not the will of the majority of people and therefore contrary to any democratic process\. Migzsol reports on the behaviour of Hungarian police and violations of human rights that are going on despite the clear message from the people that they do not tolerate it\. For more, please read the report and follow the guys from Migzsol\.
 
 
-![Hungarian police smashing phones of those trying to cross Serbo/Hungarian border\. Photo: No border Serbia](assets/bfc55143ac26/1*serwetOBmOk2rOHTy2fHvQ.jpeg)
+![Hungarian police smashing phones of those trying to cross Serbo/Hungarian border\. Photo: No border Serbia](../assets/bfc55143ac26/1*serwetOBmOk2rOHTy2fHvQ.jpeg)
 
 Hungarian police smashing phones of those trying to cross Serbo/Hungarian border\. Photo: No border Serbia
 

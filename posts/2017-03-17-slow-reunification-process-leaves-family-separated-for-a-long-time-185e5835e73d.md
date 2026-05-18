@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Slow reunification process leaves families separated for a long time
+title: "AYS SPECIAL: Slow reunification process leaves families separated for a long time"
 author: Are You Syrious?
 date: 2017-03-17T09:00:05.461+0000
 last_modified_at: 2018-03-01T14:05:33.437+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,reunification,dublin-regulation,refugees-in-greece,special]
 description: Due to slow and complicated process in many European countries, families are left separated for months, in some cases over a years…
 image:
-  path: assets/185e5835e73d/1*9P7CRp4mJL_Sk_C1LUbqYQ.jpeg
+  path: ../assets/185e5835e73d/1*9P7CRp4mJL_Sk_C1LUbqYQ.jpeg
 ---
 
 ### **AYS SPECIAL: Slow reunification process leaves families separated for a long time**
@@ -15,7 +15,7 @@ image:
 _Due to slow and complicated process in many European countries, families are left separated for months, in some cases over a years\. Additionally, when decision is made, families are entering another round of complications for them in order to be able to reach their loved once\. Complicated and slow process is another way for many European countries to keep their borders tightly closed while promising protection of basic human rights\._
 
 
-![Photo AYS](assets/185e5835e73d/1*9P7CRp4mJL_Sk_C1LUbqYQ.jpeg)
+![Photo AYS](../assets/185e5835e73d/1*9P7CRp4mJL_Sk_C1LUbqYQ.jpeg)
 
 Photo AYS
 
@@ -36,7 +36,7 @@ Sadaf \(62\) and her husband Naadir \(65\) have two sons, and a daughter, and fi
 These are just some of the issues people who are waiting for reunification are experiencing\. Besides the lengthy and complicated process, when the decision finally comes, there is a huge possibility they will have to pay for their travel \(See [recent case](https://www.generosity.com/sports-fundraising/help-a-syrian-family-reach-germany--2) \) \. From time to time, GAS does cover these expenses — like for all those who will travel in March — but many people have to find their own way to cover their flights\. Greece has been criticized for this practice in the past\.
 
 
-![Families are separated for a long time by EU regulations\. Photo AYS\.](assets/185e5835e73d/1*aTC6FuYt8R8IuMg4vz0cyA.jpeg)
+![Families are separated for a long time by EU regulations\. Photo AYS\.](../assets/185e5835e73d/1*aTC6FuYt8R8IuMg4vz0cyA.jpeg)
 
 Families are separated for a long time by EU regulations\. Photo AYS\.
 

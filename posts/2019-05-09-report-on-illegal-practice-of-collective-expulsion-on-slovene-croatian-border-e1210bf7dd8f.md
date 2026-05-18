@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,special,slovenia,report,borders]
 description: Processed under the readmission agreement, many people were denied their right to asylum procedure by the Slovenian police, still…
 image:
-  path: assets/e1210bf7dd8f/1*h8fj81vpqqNRrVDG9wVvfw.jpeg
+  path: ../assets/e1210bf7dd8f/1*h8fj81vpqqNRrVDG9wVvfw.jpeg
 ---
 
 ### **Report on illegal practice of collective expulsion on Slovene\-Croatian border**
 #### **Processed under the readmission agreement, many people were denied their right to asylum procedure by the Slovenian police, still conducting systematic expulsions to Croatia under the guise of the readmission\. This is a report written by Slovenian activists documenting the continuing unlawful police practice at the border between Croatia and Slovenia**
 
 
-![Photo source: push\-forward\.org](assets/e1210bf7dd8f/1*h8fj81vpqqNRrVDG9wVvfw.jpeg)
+![Photo source: push\-forward\.org](../assets/e1210bf7dd8f/1*h8fj81vpqqNRrVDG9wVvfw.jpeg)
 
 Photo source: push\-forward\.org
 
@@ -95,26 +95,26 @@ Slovenia and Croatia represent the border of the Schengen area, inside which bor
 
 
 
-![](assets/e1210bf7dd8f/1*sOhycRABwrbOWnOlBenmCA.jpeg)
+![](../assets/e1210bf7dd8f/1*sOhycRABwrbOWnOlBenmCA.jpeg)
 
 
 
-![](assets/e1210bf7dd8f/1*KkBKjgE6vsbk_JDQKZACzw.png)
+![](../assets/e1210bf7dd8f/1*KkBKjgE6vsbk_JDQKZACzw.png)
 
 
 
-![](assets/e1210bf7dd8f/1*EYWKLJrnt7nSKWtipJQacQ.jpeg)
+![](../assets/e1210bf7dd8f/1*EYWKLJrnt7nSKWtipJQacQ.jpeg)
 
 
 
-![](assets/e1210bf7dd8f/1*SBvR7AqH-jO4a3ZC4c_HbA.jpeg)
+![](../assets/e1210bf7dd8f/1*SBvR7AqH-jO4a3ZC4c_HbA.jpeg)
 
 
 At the Police Station Črnomelj in May 2018, 379 people were apprehended for illegal border crossing and 371 of them \(98%\) expressed the intention to seek asylum\. In June, after these police instructions were introduced, 412 people were apprehended for illegal border crossing, but only 13 of them _managed to express their intention_ to seek asylum in Slovenia\. 
 **This means that from May to June the percentage of people who crossed to Slovenia and sought asylum with police in Črnomelj [dropped from 98% to only 3%](http://www.varuh-rs.si/medijsko-sredisce/novinarske-konference/iz-novinarskih-konferenc/novice/detajl/varuh-o-zahtevi-za-oceno-ustavnosti-uredbe-o-hrupu-in-ravnanju-policistov-na-juzni-meji/?cHash=01f3753d10cfc268a8ef4d79dce85363) \. The percentage of people who were accepted to an asylum procedure increased only slightly in the following months\.**
 
 
-![Number of illegal border crossings and number of persons who were able to express intention to seek asylum in Police Station Črnomelj in 2018\.](assets/e1210bf7dd8f/1*d5PSBRJKtspWnUtgwA3Lkw.jpeg)
+![Number of illegal border crossings and number of persons who were able to express intention to seek asylum in Police Station Črnomelj in 2018\.](../assets/e1210bf7dd8f/1*d5PSBRJKtspWnUtgwA3Lkw.jpeg)
 
 Number of illegal border crossings and number of persons who were able to express intention to seek asylum in Police Station Črnomelj in 2018\.
 
@@ -136,14 +136,14 @@ The [UNHCR’s Desperate Journeys report](https://www.unhcr.org/desperatejourney
 Slovenian and Croatian police cooperate under the conditions set by the bilateral agreement on readmission\. When a person is caught in the territory of Slovenia for illegally crossing the border he is taken to police station\. In most of the cases if a person expresses his intention to seek asylum in Slovenia his claim is ignored and usually replied with threats from police\. His belongings \(phone, money…\) are taken away\. The person is usually fined for offence of illegal for illegal border crossing in the sum of 250–500 EUR\. There is also theft and beatings done by police but less regular\. In the process of readmission the belongings of a migrant are usually handed over to Croatian police and not to the migrant despite numerous testimonies of money theft and destructions of phones\. Large number of envelopes and wristbands that were used in process of readmission were found in the border area near Bihać\.
 
 
-![Envelopes used in readmission procedure from Slovenia to Croatia found near Bihać\.](assets/e1210bf7dd8f/1*5quRkw3OYyWBGtJjg6YhaQ.jpeg)
+![Envelopes used in readmission procedure from Slovenia to Croatia found near Bihać\.](../assets/e1210bf7dd8f/1*5quRkw3OYyWBGtJjg6YhaQ.jpeg)
 
 Envelopes used in readmission procedure from Slovenia to Croatia found near Bihać\.
 
 Ripped envelopes and wristbands additionally prove illegal practice of collective expulsion that has become common police procedure in dealing with migrants in Croatia and Slovenia\.
 
 
-![Wristbands used in readmission procedure from Slovenia to Croatia found near Bihać\.](assets/e1210bf7dd8f/1*c3R92AFiBag6XQ0NqCw0Qw.jpeg)
+![Wristbands used in readmission procedure from Slovenia to Croatia found near Bihać\.](../assets/e1210bf7dd8f/1*c3R92AFiBag6XQ0NqCw0Qw.jpeg)
 
 Wristbands used in readmission procedure from Slovenia to Croatia found near Bihać\.
 

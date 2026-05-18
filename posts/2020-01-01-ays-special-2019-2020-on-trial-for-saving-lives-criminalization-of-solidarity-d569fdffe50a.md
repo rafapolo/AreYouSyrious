@@ -1,5 +1,5 @@
 ---
-title: AYS Special 2019/2020: On trial for saving lives — Criminalization of solidarity
+title: "AYS Special 2019/2020: On trial for saving lives — Criminalization of solidarity"
 author: Are You Syrious?
 date: 2020-01-01T22:39:21.293+0000
 last_modified_at: 2020-01-03T11:13:49.200+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,special,digest,activism,migration]
 description: From Greece to Italy, from Serbia and Bosnia to Croatia, activists and volunteers have been intimidated…
 image:
-  path: assets/d569fdffe50a/1*xj4lO0LeDt2MTQoxv4ibfw.jpeg
+  path: ../assets/d569fdffe50a/1*xj4lO0LeDt2MTQoxv4ibfw.jpeg
 ---
 
 ### AYS Special 2019/2020: On trial for saving lives — Criminalization of solidarity
 #### From Greece to Italy, from Serbia and Bosnia to Croatia, activists and volunteers have been intimidated…
 
 
-![](assets/d569fdffe50a/1*xj4lO0LeDt2MTQoxv4ibfw.jpeg)
+![](../assets/d569fdffe50a/1*xj4lO0LeDt2MTQoxv4ibfw.jpeg)
 
 ### Charged for providing humanitarian assistance on Greek islands: The case of Salam Aldeen
 
@@ -29,7 +29,7 @@ On 19 December, he was arrested on charges of being a “public threat” for me
 
 
 
-![Salam spent 16 days in detention without formal charges\. Photo: Team Humanity](assets/d569fdffe50a/1*1iYh8h709O-RtYu_SudqgQ.jpeg)
+![Salam spent 16 days in detention without formal charges\. Photo: Team Humanity](../assets/d569fdffe50a/1*1iYh8h709O-RtYu_SudqgQ.jpeg)
 
 Salam spent 16 days in detention without formal charges\. Photo: Team Humanity
 
@@ -45,7 +45,7 @@ Around 700 nautical miles west of Lesvos, on the small island Lampedusa, German 
 
 
 
-![Carola Rackete was escorted to detention immediately after docking a ship with 40 survivors\.](assets/d569fdffe50a/1*efuxvJRzu4vL93cpW4Elsw.jpeg)
+![Carola Rackete was escorted to detention immediately after docking a ship with 40 survivors\.](../assets/d569fdffe50a/1*efuxvJRzu4vL93cpW4Elsw.jpeg)
 
 Carola Rackete was escorted to detention immediately after docking a ship with 40 survivors\.
 
@@ -72,7 +72,7 @@ Previously, the IUVENTA — operated in a joint effort by more than 200 voluntee
 Why was she giving a TEDx talk instead of sailing with her crew? She would be immediately imprisoned, she explained, if she saved another refugee life\. If she saved an EU passport holder, nothing would happen to her\. Their court case might linger for years, effectively preventing them from continuing their life\-saving work, and intimidating others from doing so\.
 
 
-[![Why I fight for solidarity | Pia Klemp | TEDxBerlin](assets/d569fdffe50a/3575_hqdefault.jpg "Why I fight for solidarity | Pia Klemp | TEDxBerlin")](https://www.youtube.com/watch?v=-7V1zNNfc_Q)
+[![Why I fight for solidarity | Pia Klemp | TEDxBerlin](../assets/d569fdffe50a/3575_hqdefault.jpg "Why I fight for solidarity | Pia Klemp | TEDxBerlin")](https://www.youtube.com/watch?v=-7V1zNNfc_Q)
 
 
 
@@ -96,7 +96,7 @@ In February 2019, volunteers of No Name Kitchen in Šid were arrested for filmin
 Throughout 2019, they were severely targeted by the local authorities, who entered their premises on multiple occasions\. Both Serbian and Bosnian authorities bullied their volunteers, threatened with criminal proceedings and entered their premises in order to scare them out of the country\. In Bosnia, they went even further by confiscating their Spanish, German and USA travel documents without explanation or translation\.
 
 
-![An American volunteer explaining how Bosnian police took her documents without due procedure\. Photo: AYS](assets/d569fdffe50a/1*NCV8NiHdZr6vuthX0goxiQ.jpeg)
+![An American volunteer explaining how Bosnian police took her documents without due procedure\. Photo: AYS](../assets/d569fdffe50a/1*NCV8NiHdZr6vuthX0goxiQ.jpeg)
 
 An American volunteer explaining how Bosnian police took her documents without due procedure\. Photo: AYS
 
@@ -110,7 +110,7 @@ Dragan is facing imprisonment and a €43,000 fine for merely connecting a famil
 Together with the Centre for Peace Studies, AYS raised formal charges on their behalf, against the unknown perpetrators in Croatian police\. Therefore it is not surprising that the Ministry asked not only for the imprisonment and ludicrous fine for our volunteer, but, against all legal procedures, they also asked the court to ban the work of AYS in Croatia\.
 
 
-![Dragan was one of the first volunteers to help refugees in the Balkan route\. Now he is facing imprisonment for connecting a family of asylum seekers to the nearest police station, so they could petition for asylum\.](assets/d569fdffe50a/1*RN3-f1dH9TrOCyy4YrKZkQ.jpeg)
+![Dragan was one of the first volunteers to help refugees in the Balkan route\. Now he is facing imprisonment for connecting a family of asylum seekers to the nearest police station, so they could petition for asylum\.](../assets/d569fdffe50a/1*RN3-f1dH9TrOCyy4YrKZkQ.jpeg)
 
 Dragan was one of the first volunteers to help refugees in the Balkan route\. Now he is facing imprisonment for connecting a family of asylum seekers to the nearest police station, so they could petition for asylum\.
 
@@ -119,7 +119,7 @@ In court we gave evidence proving that the family was already in Croatia when th
 In addition to the public defamation that we are exposed to, which often leads to vulgar attacks against our volunteers and our properties, pressures that our volunteers have been encountering from the police in general have been going on for a long time now\. Namely, they have frequently been detained for hours at a time in police stations although there were no formal charges brought against them, questioned in an inhumane and degrading way, yelled at and intimidated, as for example by saying that the police know of the volunteer’s whereabouts during his/her private hours and “no one will help her” if she is raped\. Details of the police pressures against AYS are described [here](ays-special-when-governments-turn-against-volunteers-the-case-of-ays-81fcfe0e80e7) \.
 
 
-![Direct consequences of public defamation of human rights defenders\. Photo: AYS](assets/d569fdffe50a/1*LGQ8hivOrguCiKKdaElCfA.jpeg)
+![Direct consequences of public defamation of human rights defenders\. Photo: AYS](../assets/d569fdffe50a/1*LGQ8hivOrguCiKKdaElCfA.jpeg)
 
 Direct consequences of public defamation of human rights defenders\. Photo: AYS
 ### European legal context: overly vague and not in harmony with UN standards
@@ -146,7 +146,7 @@ Unfortunately, the [**EU legislative package on smuggling**](https://ec.europa.e
 The non\-binding “ **humanitarian exemption** ” \(Article 1\.2\) allows, but does not oblige Member States to exempt humanitarian assistance without defending it from sanctions in cases of facilitation of entry and transit\.
 
 
-![Application of the option provided in Article 1\(2\) of the Directive not to criminalise facilitation of entry or transit when carried out for humanitarian purposes\. Source: EC](assets/d569fdffe50a/1*QTH8xUewQBFRsbFIPPL4Jg.png)
+![Application of the option provided in Article 1\(2\) of the Directive not to criminalise facilitation of entry or transit when carried out for humanitarian purposes\. Source: EC](../assets/d569fdffe50a/1*QTH8xUewQBFRsbFIPPL4Jg.png)
 
 Application of the option provided in Article 1\(2\) of the Directive not to criminalise facilitation of entry or transit when carried out for humanitarian purposes\. Source: EC
 

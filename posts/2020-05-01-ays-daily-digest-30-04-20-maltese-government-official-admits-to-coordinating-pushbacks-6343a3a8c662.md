@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,malta,europe,refugees,migrants]
 description: Finland to accept refugees from Greece // Updates from Stand By Me Lesvos // EU to make €4.5 million accessible to Bosnia and Herzegovina…
 image:
-  path: assets/6343a3a8c662/1*z69zitHRTgXdCXtBLJrYeQ.jpeg
+  path: ../assets/6343a3a8c662/1*z69zitHRTgXdCXtBLJrYeQ.jpeg
 ---
 
 ### AYS Daily Digest 30/04/20\- Maltese government official admits to coordinating pushbacks
@@ -15,7 +15,7 @@ image:
 Finland to accept refugees from Greece // Updates from Stand By Me Lesvos // EU to make €4\.5 million accessible to Bosnia and Herzegovina // Turkish soldier shoots at Frontex // Behind the scenes with Sea\-Watch International
 
 
-![[https://twitter\.com/lifeline\_intl/status/1255750577574817792?fbclid=IwAR0eW5zTwZ53yWaNkO6lB5fOyfijLiWaf9JOJAc5ZCrkbQfgsxI3SRO1A6o](https://twitter.com/lifeline_intl/status/1255750577574817792?fbclid=IwAR0eW5zTwZ53yWaNkO6lB5fOyfijLiWaf9JOJAc5ZCrkbQfgsxI3SRO1A6o)](assets/6343a3a8c662/1*z69zitHRTgXdCXtBLJrYeQ.jpeg)
+![[https://twitter\.com/lifeline\_intl/status/1255750577574817792?fbclid=IwAR0eW5zTwZ53yWaNkO6lB5fOyfijLiWaf9JOJAc5ZCrkbQfgsxI3SRO1A6o](https://twitter.com/lifeline_intl/status/1255750577574817792?fbclid=IwAR0eW5zTwZ53yWaNkO6lB5fOyfijLiWaf9JOJAc5ZCrkbQfgsxI3SRO1A6o)](../assets/6343a3a8c662/1*z69zitHRTgXdCXtBLJrYeQ.jpeg)
 
 [https://twitter\.com/lifeline\_intl/status/1255750577574817792?fbclid=IwAR0eW5zTwZ53yWaNkO6lB5fOyfijLiWaf9JOJAc5ZCrkbQfgsxI3SRO1A6o](https://twitter.com/lifeline_intl/status/1255750577574817792?fbclid=IwAR0eW5zTwZ53yWaNkO6lB5fOyfijLiWaf9JOJAc5ZCrkbQfgsxI3SRO1A6o)
 ### Feature

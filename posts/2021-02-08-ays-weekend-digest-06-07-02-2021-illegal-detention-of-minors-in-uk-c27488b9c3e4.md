@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,uk,greece,france,syria]
 description: Calais municipality’s strategies for eviction of migrants camps // Growing concern over Cyprus’s backlog of asylum applications //…
 image:
-  path: assets/c27488b9c3e4/0*hqcfGBQl2kojX5hv.jpeg
+  path: ../assets/c27488b9c3e4/0*hqcfGBQl2kojX5hv.jpeg
 ---
 
 ### AYS Weekend Digest 06–07/02/2021 Illegal detention of minors in UK
@@ -15,11 +15,11 @@ image:
 ### UK
 
 
-![](assets/c27488b9c3e4/0*9oltjDm1EAvfI-SA)
+![](../assets/c27488b9c3e4/0*9oltjDm1EAvfI-SA)
 
 
 
-![](assets/c27488b9c3e4/0*v07I-Tjkyz_Swq_n.jpeg)
+![](../assets/c27488b9c3e4/0*v07I-Tjkyz_Swq_n.jpeg)
 
 
 Refugees in the Napier Barracks in Kent \(Pic: PA\)
@@ -97,11 +97,11 @@ Another study has [countered the myth about migrants](https://www.liverpoolecho.
 ### FRANCE
 
 
-![](assets/c27488b9c3e4/0*kM69GRWyUvn_CZth)
+![](../assets/c27488b9c3e4/0*kM69GRWyUvn_CZth)
 
 
 
-![](assets/c27488b9c3e4/0*hqcfGBQl2kojX5hv.jpeg)
+![](../assets/c27488b9c3e4/0*hqcfGBQl2kojX5hv.jpeg)
 
 
 Credits: Care4Calais
@@ -299,11 +299,11 @@ Meanwhile, a new [agreement](https://www.statewatch.org/media/1801/eu-council-jo
 ### CROATIA
 
 
-![](assets/c27488b9c3e4/0*i4vlHb8USpRCrYpk)
+![](../assets/c27488b9c3e4/0*i4vlHb8USpRCrYpk)
 
 
 
-![](assets/c27488b9c3e4/0*Z1IDP7cBIUnzYIdx.jpeg)
+![](../assets/c27488b9c3e4/0*Z1IDP7cBIUnzYIdx.jpeg)
 
 
 We share a shocking [post from NoName Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/a.312076942523930/1176734506058165?__cft__[0]=AZWm8LwM6cmL05U9tWvnHT5UWA661OLLjzGVnX2deIjNlhsZjU9vV4bnp_TGAjTZ-Fgj7NmmQ_yYMWUo5vGFG0RQDgmX3c3TUjq9kyAcC-mFFBUdu8e61D1EpWBiYWSz-MkhtEhp-7M9cEZPJzAQpJJbyHAKVGA9hj60coX7NRg_1umiokSjm_002ytfUnn6v6s3IqpES-sBPzLfwOLNbWzd&__tn__=-UK-R) , which once again documents the horrifying violence that a group of migrants was subjected to when trying to cross from Bosnia into Croatia\. This must stop\.
@@ -346,11 +346,11 @@ A few days ago, the eviction of AT Rog in Ljubljana left all activists shocked a
 ### AUSTRIA
 
 
-![](assets/c27488b9c3e4/0*qumDHFdNrbtwRxiY)
+![](../assets/c27488b9c3e4/0*qumDHFdNrbtwRxiY)
 
 
 
-![](assets/c27488b9c3e4/0*fP1d8Xh8A4pWXhMe.jpeg)
+![](../assets/c27488b9c3e4/0*fP1d8Xh8A4pWXhMe.jpeg)
 
 
 Credit: DerStandard\.de

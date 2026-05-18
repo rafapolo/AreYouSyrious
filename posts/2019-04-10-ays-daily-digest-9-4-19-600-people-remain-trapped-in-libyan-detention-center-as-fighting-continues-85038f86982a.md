@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,italy,libya,civil-war,sea]
 description: 64 people still trapped on Sea Eye’s Alan Kurdi// distress calls from the Mediterranean // problems with rumors spreading in camps in…
 image:
-  path: assets/85038f86982a/1*KMlyjGVj_agfCr7Dh9INFg.jpeg
+  path: ../assets/85038f86982a/1*KMlyjGVj_agfCr7Dh9INFg.jpeg
 ---
 
 ### AYS Daily Digest 9/4/19 600 people remain trapped in Libyan detention center as fighting continues
@@ -15,7 +15,7 @@ image:
 64 people still trapped on Sea Eye’s Alan Kurdi// distress calls from the Mediterranean // problems with rumors spreading in camps in Greece // police inspections in Bosnia // suicide in Italy // and more…
 
 
-![“ A drawing by a refugee currently in a Tripoli detention centre, who says it shows how delays in evacuations from Libya, & a lack of places, mean vulnerable people are being left to suffer starvation, abuse, violence, torture, a lack of medical care & death\.” Photo provided by [Sally Hayden](https://twitter.com/sallyhayd/status/1115626350625292295?s=19&fbclid=IwAR0ZePKusUdtpADnKNE0Ip0hfNrb-fjD8c0McYqqVxjOLhfQ0srlezaxUM8)](assets/85038f86982a/1*KMlyjGVj_agfCr7Dh9INFg.jpeg)
+![“ A drawing by a refugee currently in a Tripoli detention centre, who says it shows how delays in evacuations from Libya, & a lack of places, mean vulnerable people are being left to suffer starvation, abuse, violence, torture, a lack of medical care & death\.” Photo provided by [Sally Hayden](https://twitter.com/sallyhayd/status/1115626350625292295?s=19&fbclid=IwAR0ZePKusUdtpADnKNE0Ip0hfNrb-fjD8c0McYqqVxjOLhfQ0srlezaxUM8)](../assets/85038f86982a/1*KMlyjGVj_agfCr7Dh9INFg.jpeg)
 
 “ A drawing by a refugee currently in a Tripoli detention centre, who says it shows how delays in evacuations from Libya, & a lack of places, mean vulnerable people are being left to suffer starvation, abuse, violence, torture, a lack of medical care & death\.” Photo provided by [Sally Hayden](https://twitter.com/sallyhayd/status/1115626350625292295?s=19&fbclid=IwAR0ZePKusUdtpADnKNE0Ip0hfNrb-fjD8c0McYqqVxjOLhfQ0srlezaxUM8)
 ### Feature: Libya
@@ -25,7 +25,7 @@ Heavy clashes are continuing in the south of Tripoli, leaving [600](https://twit
 [In total](https://twitter.com/mannocchia/status/1115586381638721536?s=19&fbclid=IwAR2g6s8WYkDDelE0iHlZYMB6-wm0a9k0M3rcSDtQ62AKBQiw6zi__ummdv0) there are 1,300 refugees in detention centers in Qasr Ben Gashir & Ain Zara all affected by the conflict\.
 
 
-![The detention center in Qasir bin Gashir, where 600 people are trapped\. Photo by [Francesca Mannocchi](https://twitter.com/mannocchia/status/1115616176107937793?s=19&fbclid=IwAR0A2oSgQWfseM44hW_BEzS2_k2LwKL5S_iXOD0Vff0pbOmYK5SnWN9vAKo)](assets/85038f86982a/1*jvEFXIyP2Fn_0ZcIt81niw.jpeg)
+![The detention center in Qasir bin Gashir, where 600 people are trapped\. Photo by [Francesca Mannocchi](https://twitter.com/mannocchia/status/1115616176107937793?s=19&fbclid=IwAR0A2oSgQWfseM44hW_BEzS2_k2LwKL5S_iXOD0Vff0pbOmYK5SnWN9vAKo)](../assets/85038f86982a/1*jvEFXIyP2Fn_0ZcIt81niw.jpeg)
 
 The detention center in Qasir bin Gashir, where 600 people are trapped\. Photo by [Francesca Mannocchi](https://twitter.com/mannocchia/status/1115616176107937793?s=19&fbclid=IwAR0A2oSgQWfseM44hW_BEzS2_k2LwKL5S_iXOD0Vff0pbOmYK5SnWN9vAKo)
 
@@ -57,7 +57,7 @@ Yet there is serious concern that a rise in migration from Libya will result in 
 ### Morocco
 
 
-![[Maritime rescue](https://www.facebook.com/photo.php?fbid=1169829279846084&set=a.240075629488125&type=3&theater&ifg=1) has moved 38 people to Melilla who arrived on Sunday\. There were 31 women and 7 minors\. Photo by Antonio Ruiz](assets/85038f86982a/1*iXyNV-YkE-KJobZmo6a1EQ.jpeg)
+![[Maritime rescue](https://www.facebook.com/photo.php?fbid=1169829279846084&set=a.240075629488125&type=3&theater&ifg=1) has moved 38 people to Melilla who arrived on Sunday\. There were 31 women and 7 minors\. Photo by Antonio Ruiz](../assets/85038f86982a/1*iXyNV-YkE-KJobZmo6a1EQ.jpeg)
 
 [Maritime rescue](https://www.facebook.com/photo.php?fbid=1169829279846084&set=a.240075629488125&type=3&theater&ifg=1) has moved 38 people to Melilla who arrived on Sunday\. There were 31 women and 7 minors\. Photo by Antonio Ruiz
 ### Sea
@@ -67,7 +67,7 @@ Alarmphone has released a summary of the 5 distressed calls they received last w
 Alarmphone has also released their 6 Week Report for February 4 to March 17, 2019 “The European Industry of Hot Returns by Sea\.” The discuss the offensive that the Eu has conducted in the western Mediterranean\. Find out more [here](https://alarmphone.org/es/2019/04/09/la-industria-europea-de-las-devoluciones-en-caliente-por-mar/?fbclid=IwAR3HYwX5Nkn2F87vLlTTA0kRx4ZhSB62wQZUqc-vUwv1_fPxW8mVQpC-AG8) \.
 
 
-![A 24 year old woman was evacuated from Alan Kurdi Sea Eye this morning\. Her health was at risk and people cannot continued to be detained off shore on these boats\. Photo by [Mediterranea Saving Humans](https://www.facebook.com/Mediterranearescue/?__tn__=kC-R&eid=ARCQJ8FHMeBBEw1ilov6jZxA2p4mmE80HUKLq20WV7YjbGBg_qPkgkNIZX5PY_DYdBqjDGOZmWaleHq9&hc_ref=ARQv4E3J05xsuUIKiPErg8Nh7qWT6zJ6A_sw2yMdPylpUrvplRlfSIcSt-M2dAOJUFg&fref=nf&__xts__%5B0%5D=68.ARDsdk7Wzqm_VAYBDtvNV8TUQnbB_qZFFk7-6CGLjkaIkiSVgyJt6dnHCYQ_T4forhJQfb8_5WrHXGGZ8CKqiM4XdvBHTtA444hjxaxzcJ5o7Qi9XIo5EE_W4pBzL4wJNvg_gSL5VA4wgOMhrF9opDZ51uJ9-tq_TM9LeTrcQwDZyuxYY47SrVYnuWz-DTx6g9Sud9v5zLH3MV4SRFpPi_Vsd3x9QLqHCc3izPZqD_sBTixr0U8yp8RQU1rHmFFMDvXdZkykKwWtrjdCiTrA1xw5WSMtnrhBBb_5Dn-NLr2RQZ1-3rO-k9dOppc2FCMcljedkHq71pn17zqsMjUCof0)](assets/85038f86982a/1*GTNQ0_CwezXsFSbjvU4oRg.jpeg)
+![A 24 year old woman was evacuated from Alan Kurdi Sea Eye this morning\. Her health was at risk and people cannot continued to be detained off shore on these boats\. Photo by [Mediterranea Saving Humans](https://www.facebook.com/Mediterranearescue/?__tn__=kC-R&eid=ARCQJ8FHMeBBEw1ilov6jZxA2p4mmE80HUKLq20WV7YjbGBg_qPkgkNIZX5PY_DYdBqjDGOZmWaleHq9&hc_ref=ARQv4E3J05xsuUIKiPErg8Nh7qWT6zJ6A_sw2yMdPylpUrvplRlfSIcSt-M2dAOJUFg&fref=nf&__xts__%5B0%5D=68.ARDsdk7Wzqm_VAYBDtvNV8TUQnbB_qZFFk7-6CGLjkaIkiSVgyJt6dnHCYQ_T4forhJQfb8_5WrHXGGZ8CKqiM4XdvBHTtA444hjxaxzcJ5o7Qi9XIo5EE_W4pBzL4wJNvg_gSL5VA4wgOMhrF9opDZ51uJ9-tq_TM9LeTrcQwDZyuxYY47SrVYnuWz-DTx6g9Sud9v5zLH3MV4SRFpPi_Vsd3x9QLqHCc3izPZqD_sBTixr0U8yp8RQU1rHmFFMDvXdZkykKwWtrjdCiTrA1xw5WSMtnrhBBb_5Dn-NLr2RQZ1-3rO-k9dOppc2FCMcljedkHq71pn17zqsMjUCof0)](../assets/85038f86982a/1*GTNQ0_CwezXsFSbjvU4oRg.jpeg)
 
 A 24 year old woman was evacuated from Alan Kurdi Sea Eye this morning\. Her health was at risk and people cannot continued to be detained off shore on these boats\. Photo by [Mediterranea Saving Humans](https://www.facebook.com/Mediterranearescue/?__tn__=kC-R&eid=ARCQJ8FHMeBBEw1ilov6jZxA2p4mmE80HUKLq20WV7YjbGBg_qPkgkNIZX5PY_DYdBqjDGOZmWaleHq9&hc_ref=ARQv4E3J05xsuUIKiPErg8Nh7qWT6zJ6A_sw2yMdPylpUrvplRlfSIcSt-M2dAOJUFg&fref=nf&__xts__%5B0%5D=68.ARDsdk7Wzqm_VAYBDtvNV8TUQnbB_qZFFk7-6CGLjkaIkiSVgyJt6dnHCYQ_T4forhJQfb8_5WrHXGGZ8CKqiM4XdvBHTtA444hjxaxzcJ5o7Qi9XIo5EE_W4pBzL4wJNvg_gSL5VA4wgOMhrF9opDZ51uJ9-tq_TM9LeTrcQwDZyuxYY47SrVYnuWz-DTx6g9Sud9v5zLH3MV4SRFpPi_Vsd3x9QLqHCc3izPZqD_sBTixr0U8yp8RQU1rHmFFMDvXdZkykKwWtrjdCiTrA1xw5WSMtnrhBBb_5Dn-NLr2RQZ1-3rO-k9dOppc2FCMcljedkHq71pn17zqsMjUCof0)
 
@@ -122,7 +122,7 @@ Refugee Support EU is reporting that people are starting to leave camps in Greec
 
 
 
-![A heavy police presence and action to evict 26 unregistered new arrivals is causing people to loose any hope in a proper asylum system — so they are on the move\. Photo by [Refugee Support EU](https://twitter.com/RefugeeSupportE/status/1115634513458212864?s=19&fbclid=IwAR00wrLLDf8u9FuoCF0q_QlU6Wz6tVQiycWiN8_XgoFH_vfofe8edi5V_QE)](assets/85038f86982a/1*xBLzhflbjnEX89jVC9DX-Q.jpeg)
+![A heavy police presence and action to evict 26 unregistered new arrivals is causing people to loose any hope in a proper asylum system — so they are on the move\. Photo by [Refugee Support EU](https://twitter.com/RefugeeSupportE/status/1115634513458212864?s=19&fbclid=IwAR00wrLLDf8u9FuoCF0q_QlU6Wz6tVQiycWiN8_XgoFH_vfofe8edi5V_QE)](../assets/85038f86982a/1*xBLzhflbjnEX89jVC9DX-Q.jpeg)
 
 A heavy police presence and action to evict 26 unregistered new arrivals is causing people to loose any hope in a proper asylum system — so they are on the move\. Photo by [Refugee Support EU](https://twitter.com/RefugeeSupportE/status/1115634513458212864?s=19&fbclid=IwAR00wrLLDf8u9FuoCF0q_QlU6Wz6tVQiycWiN8_XgoFH_vfofe8edi5V_QE)
 ### Italy

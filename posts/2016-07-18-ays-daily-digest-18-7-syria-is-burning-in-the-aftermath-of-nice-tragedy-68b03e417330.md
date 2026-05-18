@@ -1,5 +1,5 @@
 ---
-title: AYS daily digest 18/7: Syria is burning in the aftermath of Nice tragedy
+title: "AYS daily digest 18/7: Syria is burning in the aftermath of Nice tragedy"
 author: Are You Syrious?
 date: 2016-07-18T22:33:49.256+0100
 last_modified_at: 2016-07-18T22:33:49.256+0100
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe,syria]
 description: General
 image:
-  path: assets/68b03e417330/1*mgqdw7fnVQN2R-TePOjdRA.jpeg
+  path: ../assets/68b03e417330/1*mgqdw7fnVQN2R-TePOjdRA.jpeg
 ---
 
 ### AYS daily digest 18/7: Syria is burning in the aftermath of Nice tragedy
 
 
-![Aleppo today\. Photo: SAMS](assets/68b03e417330/1*mgqdw7fnVQN2R-TePOjdRA.jpeg)
+![Aleppo today\. Photo: SAMS](../assets/68b03e417330/1*mgqdw7fnVQN2R-TePOjdRA.jpeg)
 
 Aleppo today\. Photo: SAMS
 #### General
@@ -22,7 +22,7 @@ Aleppo today\. Photo: SAMS
 MSF reports that rescue operations were carried out last night in the Mediterranean\. Dignity 1 saved 102 people from a small wooden boat floating in the open sea, and Aquarius saved 136 people from the rubber dinghy, the people have been covered with gas which causes severe burns when it comes to contact with the sea, MSF reports\.
 
 
-![Wooden boat with 102 passengers\. Photo: MSF](assets/68b03e417330/1*8dO38RZjGznGqWtyKJXjGQ.jpeg)
+![Wooden boat with 102 passengers\. Photo: MSF](../assets/68b03e417330/1*8dO38RZjGznGqWtyKJXjGQ.jpeg)
 
 Wooden boat with 102 passengers\. Photo: MSF
 ### **World’s six wealthiest countries host less than 9% of the world’s refugees**
@@ -44,7 +44,7 @@ The UNHCR is giving $400 to every returning refugee to start a life in Afghanist
 ### **Many civilian casualties fall under U\.S\. backed coalition and strong help from France in the aftermath of Nice tragedy\.**
 
 
-![French Interior minister Bernard Cazeneuve, left, flanked by French Defence minister Jean\-Yves Le Drian, delivers a speech after a defense and security council at the Élysée Presidential Palace in Paris, on Monday\. _PHOTO: AGENCE FRANCE\-PRESSE/GETTY IMAGES_](assets/68b03e417330/1*9bfWLEgWZvokSSqE-vm5Uw.jpeg)
+![French Interior minister Bernard Cazeneuve, left, flanked by French Defence minister Jean\-Yves Le Drian, delivers a speech after a defense and security council at the Élysée Presidential Palace in Paris, on Monday\. _PHOTO: AGENCE FRANCE\-PRESSE/GETTY IMAGES_](../assets/68b03e417330/1*9bfWLEgWZvokSSqE-vm5Uw.jpeg)
 
 French Interior minister Bernard Cazeneuve, left, flanked by French Defence minister Jean\-Yves Le Drian, delivers a speech after a defense and security council at the Élysée Presidential Palace in Paris, on Monday\. _PHOTO: AGENCE FRANCE\-PRESSE/GETTY IMAGES_
 
@@ -52,7 +52,7 @@ Even though rich countries are reluctant to take in the casualties of war, it se
 ### **Hundreds have died since the escalation of bombing from all sides**
 
 
-![Aleppo burning](assets/68b03e417330/1*C0QKX6jvlyCMc2Ck7Mqxzw.jpeg)
+![Aleppo burning](../assets/68b03e417330/1*C0QKX6jvlyCMc2Ck7Mqxzw.jpeg)
 
 Aleppo burning
 
@@ -60,7 +60,7 @@ As bombing has escalated even before Nice attacks, The Syrian Observatory for Hu
 ### **Aleppo’s main supply artery closed\.**
 
 
-![Smoke rises after air strikes on Castello Road in Aleppo, Syria, last month \[Abdalrhman Ismail/Reuters\]](assets/68b03e417330/1*CWpapJIv3lw7XhXnigoQqA.jpeg)
+![Smoke rises after air strikes on Castello Road in Aleppo, Syria, last month \[Abdalrhman Ismail/Reuters\]](../assets/68b03e417330/1*CWpapJIv3lw7XhXnigoQqA.jpeg)
 
 Smoke rises after air strikes on Castello Road in Aleppo, Syria, last month \[Abdalrhman Ismail/Reuters\]
 
@@ -78,7 +78,7 @@ There were 76 new arrivals in Greek islands in the last 24 hours\. There are now
 There are reports of a fire in Nea Kavala camp, still no casualties reports fortunately\.
 
 
-![Nea Kavala camp](assets/68b03e417330/1*Bl0YNuD4Vy-YhA6Jx09tHQ.jpeg)
+![Nea Kavala camp](../assets/68b03e417330/1*Bl0YNuD4Vy-YhA6Jx09tHQ.jpeg)
 
 Nea Kavala camp
 ### Those who are not inside official camps can pre\-register now
@@ -112,13 +112,13 @@ While the government is busy with war, volunteers in Calais are asking for solid
 If you are able to volunteer for any period of time, please read this message [http://bit\.ly/29PzioW](http://bit.ly/29PzioW) , if you can’t volunteer, but can donate, please follow the link [http://bit\.ly/29QyKxP](http://bit.ly/29QyKxP)
 
 
-![](assets/68b03e417330/1*k48Wj0ADa1xNwVCfLAn2iA.jpeg)
+![](../assets/68b03e417330/1*k48Wj0ADa1xNwVCfLAn2iA.jpeg)
 
 
 Care4Calais has issued the most comprehensive call for help since they have have summarized it in several points and made a diagram of how you can understand what it is that is needed and how you can help\. Please read their message, too [http://bit\.ly/2a6RlaB](http://bit.ly/2a6RlaB)
 
 
-![](assets/68b03e417330/1*lBNhu5W6XgN-oD3YqXUwDw.png)
+![](../assets/68b03e417330/1*lBNhu5W6XgN-oD3YqXUwDw.png)
 
 
 As if these calls for help aren’t enough, the doctor currently working with mothers and children in Calais has put out a call to help a new newborn that has just came into this world only to be welcomed by the Jungle\. Sophie Muller, the doctor in question would like to fundraise in order to be able to get the new parents and a new baby out of the Jungle for at least couple of weeks\. They have done it before with other newborns and it was really beneficial for them\. Please turn to this link to help [Www\.paypal\.me/calaisrefugeeaid](http://www.paypal.me/calaisrefugeeaid)
@@ -126,7 +126,7 @@ As if these calls for help aren’t enough, the doctor currently working with mo
 ### **Refugees still protesting detention in Down Under**
 
 
-![Nauru camp today](assets/68b03e417330/1*cGwCt79899ncIQQWP6RhUQ.jpeg)
+![Nauru camp today](../assets/68b03e417330/1*cGwCt79899ncIQQWP6RhUQ.jpeg)
 
 Nauru camp today
 

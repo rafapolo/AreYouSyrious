@@ -1,5 +1,5 @@
 ---
-title: AYS WEEKEND DIGEST 20–21/4/1019: Chaos in Bosnia
+title: "AYS WEEKEND DIGEST 20–21/4/1019: Chaos in Bosnia"
 author: Are You Syrious?
 date: 2019-04-22T11:24:53.996+0100
 last_modified_at: 2019-04-22T11:58:06.956+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,bosnia,greece,migration]
 description: Who is responsible for the situation with people on the move in Bosnia and Herzegovina? If anybody //
 image:
-  path: assets/1865e3f5b203/1*RtVLtOb3XM5N4aNPRDKr0g.jpeg
+  path: ../assets/1865e3f5b203/1*RtVLtOb3XM5N4aNPRDKr0g.jpeg
 ---
 
 ### AYS WEEKEND DIGEST 20–21/4/1019: Chaos in Bosnia
@@ -15,7 +15,7 @@ image:
 _Who is responsible for the situation with people on the move in Bosnia and Herzegovina, if anybody? // Some people from Syntagma taken to Eleonas camp in Athens // Help is needed in Greece, Belgium, France, Bosnia…_
 
 
-![Refugees looking to the border from Velika Kladusa \(Bosnia\) \. By [@dherreraphoto](http://twitter.com/dherreraphoto)](assets/1865e3f5b203/1*RtVLtOb3XM5N4aNPRDKr0g.jpeg)
+![Refugees looking to the border from Velika Kladusa \(Bosnia\) \. By [@dherreraphoto](http://twitter.com/dherreraphoto)](../assets/1865e3f5b203/1*RtVLtOb3XM5N4aNPRDKr0g.jpeg)
 
 Refugees looking to the border from Velika Kladusa \(Bosnia\) \. By [@dherreraphoto](http://twitter.com/dherreraphoto)
 ### Feature
@@ -29,7 +29,7 @@ After being stopped at one of the checkpoints, people are kicked off the buses a
 People who went through this kind of humiliation are talking about police abuse they witnessed or experienced, but also about help they got from the local people they met on the road\. As we were told by more then one person, police officers are using violence, even against minors, while in several cases police threaten to people if they walk toward Bihać they will shoot at them\.
 
 
-![Velečevo\. After being kicked off the bus, people are left by the road with no help, except what local people and the local branch of Red Cross provides\. Photo by Sanella Lepirica\.](assets/1865e3f5b203/1*6q766up2F9DuLMG9vv514Q.jpeg)
+![Velečevo\. After being kicked off the bus, people are left by the road with no help, except what local people and the local branch of Red Cross provides\. Photo by Sanella Lepirica\.](../assets/1865e3f5b203/1*6q766up2F9DuLMG9vv514Q.jpeg)
 
 Velečevo\. After being kicked off the bus, people are left by the road with no help, except what local people and the local branch of Red Cross provides\. Photo by Sanella Lepirica\.
 
@@ -44,7 +44,7 @@ At the same time, international organizations, led by the IOM and UNHCR, who are
 Nevertheless, people are walking toward Bihać and Kladuša\. Once they reach these cities, most of them are left outside existing camps\. The government in this area insists that no more than 3,200 people can be accommodated in existing centres\. The number of people who are in the area, according to some estimates, is at least double that\.
 
 
-[![Prihvatni centri u Bihaću popunjeni, migranti spavaju na otvorenom](assets/1865e3f5b203/b3e4_hqdefault.jpg "Prihvatni centri u Bihaću popunjeni, migranti spavaju na otvorenom")](http://www.youtube.com/watch?v=8kgnCJnfjTM)
+[![Prihvatni centri u Bihaću popunjeni, migranti spavaju na otvorenom](../assets/1865e3f5b203/b3e4_hqdefault.jpg "Prihvatni centri u Bihaću popunjeni, migranti spavaju na otvorenom")](http://www.youtube.com/watch?v=8kgnCJnfjTM)
 
 
 If they are not in the official accommodation, people have no access to registration or food, water, toilets or showers… The unsurprising consequences of this are that many are sick\. For example scabies is outspread to the level that it is almost possible to talk about an epidemic among people on the move in Bosnia\.
@@ -112,7 +112,7 @@ In the north, near Thessaloniki, on Friday afternoon, police stopped a truck wit
 The 61\-year\-old Bulgarian driver was arrested\.
 
 
-![“This could have been a daily life scene, but it’s not\. Refugees stranded in Greece, set up tents in Syntagma, central Athens, after the squat they were living in was evacuated by police on Thursday\.” By Savvas Karmaniolas](assets/1865e3f5b203/1*AlzG9jzQeD9TYM02Urzuyw.jpeg)
+![“This could have been a daily life scene, but it’s not\. Refugees stranded in Greece, set up tents in Syntagma, central Athens, after the squat they were living in was evacuated by police on Thursday\.” By Savvas Karmaniolas](../assets/1865e3f5b203/1*AlzG9jzQeD9TYM02Urzuyw.jpeg)
 
 “This could have been a daily life scene, but it’s not\. Refugees stranded in Greece, set up tents in Syntagma, central Athens, after the squat they were living in was evacuated by police on Thursday\.” By Savvas Karmaniolas
 
@@ -129,7 +129,7 @@ People evicted from Clandestina squat came out with [the statement](https://m.fa
 “ _At 5:00 AM, Thursday 18th April, Greek riot police violently stormed the Clandestina Squat\. All residents, including children and women, were forcefully arrested and taken to prison\. We were later released and told to spend the night in the streets\. With no place to go, we resorted to staying in tents in Syntagma\._
 
 
-![](assets/1865e3f5b203/1*R-tG0sZWwWAeuxVQ94vZww.jpeg)
+![](../assets/1865e3f5b203/1*R-tG0sZWwWAeuxVQ94vZww.jpeg)
 
 
 _At 5am on Saturday morning police and IOM tried to split our group\. They offered accommodation in Nea Makri for 10 people, while the others were asked to go to Grevena, 7 hours from Athens\. We stood together and refused their offer\._
@@ -197,7 +197,7 @@ Donations of [tents needed in Lille](https://www.facebook.com/.../a.369415.../86
 ### Denmark
 
 
-![By [Melting Pot Europe](https://www.facebook.com/meltingpoteuropa/posts/2394852453879801?__xts__%5B0%5D=68.ARDyU2Vv6v3Iv_oJ7cmsTNa4SMXnuIMZtidVeQyur33jUZJEpYwYjFQaH7aJltSXK5XfZuOUYX2htS9HJ7KRyEgjLo3T-CFSd609tO6ZmGF4yODLwOY9mFtjC9D2nPheX1ctVCvXruoqNIqJL7O7vJZuT02HMiJIjAN09_zeS7V2-hJa6Iq_me_dpeKjju-2QhwRkGbDMVPVlqgu2bqSb90puQdFYHGPtG0XjeFcld1Rz7SmjjTaVP-c7PV5SQP3Jy62CKfDOqiuOflifnkVisIeaLmTSLsrqNjhd9ut5KaYHlb42GXhSJDxb_hHl2KhZis67_zqRomwU5ED0-W7Gh5Ytg&__tn__=-R) \.](assets/1865e3f5b203/1*DdL_woi4HSmHDJesk5w0-g.jpeg)
+![By [Melting Pot Europe](https://www.facebook.com/meltingpoteuropa/posts/2394852453879801?__xts__%5B0%5D=68.ARDyU2Vv6v3Iv_oJ7cmsTNa4SMXnuIMZtidVeQyur33jUZJEpYwYjFQaH7aJltSXK5XfZuOUYX2htS9HJ7KRyEgjLo3T-CFSd609tO6ZmGF4yODLwOY9mFtjC9D2nPheX1ctVCvXruoqNIqJL7O7vJZuT02HMiJIjAN09_zeS7V2-hJa6Iq_me_dpeKjju-2QhwRkGbDMVPVlqgu2bqSb90puQdFYHGPtG0XjeFcld1Rz7SmjjTaVP-c7PV5SQP3Jy62CKfDOqiuOflifnkVisIeaLmTSLsrqNjhd9ut5KaYHlb42GXhSJDxb_hHl2KhZis67_zqRomwU5ED0-W7Gh5Ytg&__tn__=-R) \.](../assets/1865e3f5b203/1*DdL_woi4HSmHDJesk5w0-g.jpeg)
 
 By [Melting Pot Europe](https://www.facebook.com/meltingpoteuropa/posts/2394852453879801?__xts__%5B0%5D=68.ARDyU2Vv6v3Iv_oJ7cmsTNa4SMXnuIMZtidVeQyur33jUZJEpYwYjFQaH7aJltSXK5XfZuOUYX2htS9HJ7KRyEgjLo3T-CFSd609tO6ZmGF4yODLwOY9mFtjC9D2nPheX1ctVCvXruoqNIqJL7O7vJZuT02HMiJIjAN09_zeS7V2-hJa6Iq_me_dpeKjju-2QhwRkGbDMVPVlqgu2bqSb90puQdFYHGPtG0XjeFcld1Rz7SmjjTaVP-c7PV5SQP3Jy62CKfDOqiuOflifnkVisIeaLmTSLsrqNjhd9ut5KaYHlb42GXhSJDxb_hHl2KhZis67_zqRomwU5ED0-W7Gh5Ytg&__tn__=-R) \.
 

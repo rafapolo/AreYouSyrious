@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 25/6/17: Busy weekend for crossings all over the Mediterranean
+title: "AYS Daily Digest 25/6/17: Busy weekend for crossings all over the Mediterranean"
 author: Are You Syrious?
 date: 2017-06-26T00:32:40.153+0100
 last_modified_at: 2017-07-03T03:09:51.050+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,mediterranean,greece,serbia,uk]
 description: Activity in the Mediterranean / Doctors needed in Greece / Call for donations in Serbia / Refugee hunters in Hungary / No new reception…
 image:
-  path: assets/cf83054995c3/1*1xyOQkr_IkRu6B54_GmH4A.jpeg
+  path: ../assets/cf83054995c3/1*1xyOQkr_IkRu6B54_GmH4A.jpeg
 ---
 
 ### AYS Daily Digest 25/6/17: Busy weekend for crossings all over the Mediterranean
@@ -15,7 +15,7 @@ image:
 _Activity in the Mediterranean / Doctors needed in Greece / Call for donations in Serbia / Refugee hunters in Hungary / No new reception centre for Calais / Host needed in London / And more news…_
 
 
-![View from the [MOAS](https://twitter.com/moas_eu) ’ boat, Phoenix, during rescue operations\. \(Photo by MOAS\)](assets/cf83054995c3/1*1xyOQkr_IkRu6B54_GmH4A.jpeg)
+![View from the [MOAS](https://twitter.com/moas_eu) ’ boat, Phoenix, during rescue operations\. \(Photo by MOAS\)](../assets/cf83054995c3/1*1xyOQkr_IkRu6B54_GmH4A.jpeg)
 
 View from the [MOAS](https://twitter.com/moas_eu) ’ boat, Phoenix, during rescue operations\. \(Photo by MOAS\)
 ### FEATURE: Mediterranean rescue crews kept busy
@@ -29,7 +29,7 @@ The Alboran Sea—a relatively short sea crossing from Morocco to Spain—is a p
 Many boats were recently spotted by rescuers in the central Mediterranean, with—as usual—several teams involved in the pursuant rescue operations\. [MOAS](https://twitter.com/moas_eu) reported a very intense day, with more than 30 boats found\. Their vessel, _Phoenix_ , and its crew were working since early in the morning\. After a long day the vessel headed back north with more than 400 men, women, and children on board, all recovering from the dangerous crossing\.
 
 
-![The Phoenix with two dinghies in the background\. \(Picture by [MOAS](https://twitter.com/moas_eu) \)](assets/cf83054995c3/1*VfnDDxMfWj2QNZIG3tInxA.jpeg)
+![The Phoenix with two dinghies in the background\. \(Picture by [MOAS](https://twitter.com/moas_eu) \)](../assets/cf83054995c3/1*VfnDDxMfWj2QNZIG3tInxA.jpeg)
 
 The Phoenix with two dinghies in the background\. \(Picture by [MOAS](https://twitter.com/moas_eu) \)
 
@@ -43,7 +43,7 @@ The Phoenix with two dinghies in the background\. \(Picture by [MOAS](https://tw
 
 
 
-![\(Photo by MSF\)](assets/cf83054995c3/1*YfwAqYMdGjjX0yhNx16M8g.jpeg)
+![\(Photo by MSF\)](../assets/cf83054995c3/1*YfwAqYMdGjjX0yhNx16M8g.jpeg)
 
 \(Photo by MSF\)
 
@@ -73,14 +73,14 @@ If you have these skills or know someone that might, please consider applying by
 [A Drop in the Ocean](https://www.drapenihavet.no/no/hjem/) recently opened a new warehouse in Athens to facilitate their work in Skaramangkas camp where more than 3,000 refugees currently live\. The new effort is essential to distribution efforts in Skaramagas camp and is where donations from volunteers and supporters are delivered, sorted, and packaged for the baby clothing exchange and Skaramagas marketplace\. Stock is organized using A Drop in the Ocean’s country\-wide ‘Drop App,’ which was developed and first implemented by in the north of Greece\. For those wishing to support the residents of Skaramagas through their clothing\-distribution services, please consult the current “Needs List” \(an illustrated \.pdf\) and get in touch via email at: athen@drapenihavet\.no\) with the subject title “Clothing donations\.”
 
 
-![Volunteers hard at work in the distribution centre\. \(Picture by A Drop in the Ocean\)](assets/cf83054995c3/1*QEy8SDnAVrhqwKMVuWgVvQ.jpeg)
+![Volunteers hard at work in the distribution centre\. \(Picture by A Drop in the Ocean\)](../assets/cf83054995c3/1*QEy8SDnAVrhqwKMVuWgVvQ.jpeg)
 
 Volunteers hard at work in the distribution centre\. \(Picture by A Drop in the Ocean\)
 
 The Get Shit Done Team has been busy and today delivered four picnic tables to Derveni\-Alexyl as well as a giant Jenga and chess and checkers set\! They also brought along more firewood and stoves\. The games are fun and the tables and firewood come right in time for the end of Ramadan celebration\!
 
 
-![\(Photo by [Everyday, just a smile](https://www.facebook.com/everydayjustasmile/) \)](assets/cf83054995c3/1*qMHix2mEo_FGCh0pfRTGMw.jpeg)
+![\(Photo by [Everyday, just a smile](https://www.facebook.com/everydayjustasmile/) \)](../assets/cf83054995c3/1*qMHix2mEo_FGCh0pfRTGMw.jpeg)
 
 \(Photo by [Everyday, just a smile](https://www.facebook.com/everydayjustasmile/) \)
 
@@ -115,7 +115,7 @@ Please consider donating to help them continue their important initiative of pro
 Once again, news from this country is not good\. László Torockai, the far right mayor of the Hungarian village Ásotthalom, near the Serbian border, posted the photo below regarding a small group of refugees who tried to enter Hungary from Serbia\. The refugees met with Torockai’s paramilitary “defence” group, who quickly forced them to the ground\. Later they pushed them back to Serbia\. According to human rights organizations, vigilantes in the area often terrorize refugees who seek asylum in Hungary — now we can see that they are even proud of it\!
 
 
-![Refugees forced to the ground by Hungarian paramilitary\. \(Photo by [Rights Reporter Foundation](https://www.facebook.com/rightsreporter/) \)](assets/cf83054995c3/1*37SASLnGHDTwCkesnUmnoA.jpeg)
+![Refugees forced to the ground by Hungarian paramilitary\. \(Photo by [Rights Reporter Foundation](https://www.facebook.com/rightsreporter/) \)](../assets/cf83054995c3/1*37SASLnGHDTwCkesnUmnoA.jpeg)
 
 Refugees forced to the ground by Hungarian paramilitary\. \(Photo by [Rights Reporter Foundation](https://www.facebook.com/rightsreporter/) \)
 ### ITALY
@@ -123,7 +123,7 @@ Refugees forced to the ground by Hungarian paramilitary\. \(Photo by [Rights Rep
 Rome’s [Baobab Experience](https://www.facebook.com/BaobabExperience/) has written an open letter to the Italian Railway to urge them to reopen the abandoned bus parking lot at Piazzale Maslax Rome and agree that NGOs can build a humanitarian space for primary reception\.
 
 
-![\(Photo by [Baobab Experience](https://www.facebook.com/BaobabExperience/) \)](assets/cf83054995c3/1*kqr8MNlWocOcMDK0mixyBg.jpeg)
+![\(Photo by [Baobab Experience](https://www.facebook.com/BaobabExperience/) \)](../assets/cf83054995c3/1*kqr8MNlWocOcMDK0mixyBg.jpeg)
 
 \(Photo by [Baobab Experience](https://www.facebook.com/BaobabExperience/) \)
 ### FRANCE

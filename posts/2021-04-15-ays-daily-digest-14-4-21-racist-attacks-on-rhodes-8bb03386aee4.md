@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 14/4/21: Racist attacks on Rhodes
+title: "AYS Daily Digest 14/4/21: Racist attacks on Rhodes"
 author: Are You Syrious?
 date: 2021-04-15T21:41:11.354+0100
 last_modified_at: 2021-04-15T21:57:22.638+0100
 categories: Are You Syrious?
 tags: [digest,greece,refugees,europe,migration]
-description: / Malta: 93 received treatment for self-harm at Mount Carmel Hospital / UK: Home Office acted illegally by not gathering medical evidence…
+description: "/ Malta: 93 received treatment for self-harm at Mount Carmel Hospital / UK: Home Office acted illegally by not gathering medical evidence…"
 image:
-  path: assets/8bb03386aee4/0*A7IoFU2dUpsC3D-_
+  path: ../assets/8bb03386aee4/0*A7IoFU2dUpsC3D-_
 ---
 
 ### AYS Daily Digest 14/4/21: Racist attacks on Rhodes
 #### / Malta: 93 received treatment for self\-harm at Mount Carmel Hospital / UK: Home Office acted illegally by not gathering medical evidence for torture claim for detainees held in prison / recommended reads & more
 
 
-![Ventimiglia Photo: Proggeto20k](assets/8bb03386aee4/0*A7IoFU2dUpsC3D-_)
+![Ventimiglia Photo: Proggeto20k](../assets/8bb03386aee4/0*A7IoFU2dUpsC3D-_)
 
 Ventimiglia Photo: Proggeto20k
 #### FEATURED
@@ -183,7 +183,7 @@ Read more: [duncanlewis.co.uk/news/Court_of_…](https://www.duncanlewis.co.uk/n
 
 
 
-[![PICT Voices #27: Mortaza Behboudi, Moria Revisited](assets/8bb03386aee4/d8f4_hqdefault.jpg "PICT Voices #27: Mortaza Behboudi, Moria Revisited")](https://www.youtube.com/watch?v=j8btFKdIbXs)
+[![PICT Voices #27: Mortaza Behboudi, Moria Revisited](../assets/8bb03386aee4/d8f4_hqdefault.jpg "PICT Voices #27: Mortaza Behboudi, Moria Revisited")](https://www.youtube.com/watch?v=j8btFKdIbXs)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

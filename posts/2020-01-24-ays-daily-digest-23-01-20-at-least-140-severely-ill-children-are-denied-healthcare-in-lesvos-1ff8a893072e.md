@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,italy,digest,greece,healthcare]
 description: Update on locals protest in Chios // meeting between mayors and migration minister in Athens // more…
 image:
-  path: assets/1ff8a893072e/1*SClgE3r57Zs97K9PWbbNXw.jpeg
+  path: ../assets/1ff8a893072e/1*SClgE3r57Zs97K9PWbbNXw.jpeg
 ---
 
 ### AYS Daily Digest 23/01/20 At least 140 severely ill children are denied healthcare in Lesvos
@@ -16,7 +16,7 @@ _Update on locals protest in Chios // meeting between mayors and migration minis
 #### FEATURE LESVOS
 
 
-![Severally ill children in Lesvos are forced to live in unsanitary tent conditions\. Photo from Lesvos, 2015 by [Michael S Honegger](https://www.amnestyusa.org/time-to-end-the-refugee-shame/)](assets/1ff8a893072e/1*SClgE3r57Zs97K9PWbbNXw.jpeg)
+![Severally ill children in Lesvos are forced to live in unsanitary tent conditions\. Photo from Lesvos, 2015 by [Michael S Honegger](https://www.amnestyusa.org/time-to-end-the-refugee-shame/)](../assets/1ff8a893072e/1*SClgE3r57Zs97K9PWbbNXw.jpeg)
 
 Severally ill children in Lesvos are forced to live in unsanitary tent conditions\. Photo from Lesvos, 2015 by [Michael S Honegger](https://www.amnestyusa.org/time-to-end-the-refugee-shame/)
 
@@ -47,7 +47,7 @@ A volunteer on Chios reported the following, regarding the demonstrations from l
 
 
 
-![Chios strike Photo by [Moira Lavelle](https://twitter.com/Alohamoira/status/1219937689165758464)](assets/1ff8a893072e/1*VaBlLc0PZOi0H6IP_h6xiw.jpeg)
+![Chios strike Photo by [Moira Lavelle](https://twitter.com/Alohamoira/status/1219937689165758464)](../assets/1ff8a893072e/1*VaBlLc0PZOi0H6IP_h6xiw.jpeg)
 
 Chios strike Photo by [Moira Lavelle](https://twitter.com/Alohamoira/status/1219937689165758464)
 

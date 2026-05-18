@@ -1,5 +1,5 @@
 ---
-title: AYS Digest 27/8/21 Afghanistan, “Remember this: an oppressed journalist committed to democracy…
+title: "AYS Digest 27/8/21 Afghanistan, “Remember this: an oppressed journalist committed to democracy…"
 author: Are You Syrious?
 date: 2021-08-28T16:50:03.092+0100
 last_modified_at: 2021-08-28T16:50:03.092+0100
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [digest,afghanistan,deportations,refugees,europe]
 description: Are You Syrious?
 image:
-  path: assets/96dd1ba05dd2/0*gsiiNOgD-26uMNsh.jpeg
+  path: ../assets/96dd1ba05dd2/0*gsiiNOgD-26uMNsh.jpeg
 ---
 
 ### AYS Digest 27/8/21 Afghanistan, “Remember this: an oppressed journalist committed to democracy could not be saved”
 
 
-![](assets/96dd1ba05dd2/0*ixMjdRP-0v-z33tg.jpeg)
+![](../assets/96dd1ba05dd2/0*ixMjdRP-0v-z33tg.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----897b084781f4--------------------------------)
@@ -23,7 +23,7 @@ image:
 GREECE: New deportation law tabled\. UK: Priti Patel asks Afghans to wait for safe routes while government stops registrations for evacuation\. DENMARK: Refugee board could overturn rejections for Afghans\.
 
 
-![](assets/96dd1ba05dd2/0*pvzIi9D7pc-Xcx1w.jpeg)
+![](../assets/96dd1ba05dd2/0*pvzIi9D7pc-Xcx1w.jpeg)
 
 
 “6 km of fencing has already been built on the Polish\-Belarusian border\. The fence is made of razor wire and is 2\.5 m high\. There are three\-layer entanglements under the fence\.” While 32 people have been stuck for more than 2 weeks in the no\-man’s\-land between the two countries, Europe once more shows its unwelcoming face\. \(Credit: [Mariusz Blaszczak](https://twitter.com/mblaszczak/status/1431254785160851457) \)
@@ -166,7 +166,7 @@ GERMANY
 ### Fears of anti\-migration backlash in run up to elections
 
 
-![](assets/96dd1ba05dd2/0*gsiiNOgD-26uMNsh.jpeg)
+![](../assets/96dd1ba05dd2/0*gsiiNOgD-26uMNsh.jpeg)
 
 
 \(Photo Credit: Anas Modmani via [InfoMigrants](https://www.infomigrants.net/en/post/34624/germany-fears-afghan-crisis-could-fuel-antimigrant-vote?fbclid=IwAR2-R1nlrBwmlCiGNOUJf3ywm5NXWSygq7tgp5-sPCv2LVxu-TuY1m26cag) \. Merkel poses with new arrivals in 2015\)

@@ -1,5 +1,5 @@
 ---
-title: AYS 30/9: UNHCR sends refugees to the streets
+title: "AYS 30/9: UNHCR sends refugees to the streets"
 author: Are You Syrious?
 date: 2016-10-01T02:08:30.566+0100
 last_modified_at: 2016-10-01T10:47:34.867+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,greece,calais,migration]
 description: Volunteers struggle to provide accommodation for refugees who arrive to Athens from the islands. Public outrage in the wake of shameful…
 image:
-  path: assets/7e1094acbefb/1*_FQmj9eZWyWRXHPR-UYiJA.jpeg
+  path: ../assets/7e1094acbefb/1*_FQmj9eZWyWRXHPR-UYiJA.jpeg
 ---
 
 ### AYS 30/9: UNHCR sends refugees to the streets
 #### Volunteers struggle to provide accommodation for refugees who arrive to Athens from the islands\. Public outrage in the wake of shameful arrests of refugee children\. Situation worsens in the Balkans\. Hundreds of refugees sleeping rough in France
 
 
-![Photo of a refugee child by our collaborator, the 18\-years old Syrian refugee Abdulazez Dukhan / [Through refugee eyes](https://www.facebook.com/throughrefugeeeyes/?ref=page_internal)](assets/7e1094acbefb/1*_FQmj9eZWyWRXHPR-UYiJA.jpeg)
+![Photo of a refugee child by our collaborator, the 18\-years old Syrian refugee Abdulazez Dukhan / [Through refugee eyes](https://www.facebook.com/throughrefugeeeyes/?ref=page_internal)](../assets/7e1094acbefb/1*_FQmj9eZWyWRXHPR-UYiJA.jpeg)
 
 Photo of a refugee child by our collaborator, the 18\-years old Syrian refugee Abdulazez Dukhan / [Through refugee eyes](https://www.facebook.com/throughrefugeeeyes/?ref=page_internal)
 ### Vulnerable refugee families sent to the mainland without accommodation or any form of support
@@ -22,7 +22,7 @@ Photo of a refugee child by our collaborator, the 18\-years old Syrian refugee A
 Following many conversations we had with our fellow volunteers from Chios and Athens, we want to warn about the irresponsible and dangerous practice of UNHCR branches on Chios and Leros, possibly other islands as well\. On several recent occasions we were warned about entire families, including those with small children, sick and/or elderly, who have been cleared to leave the islands by UNHCR, but were left without any accommodation or other form of institutional support on the mainland\. Volunteers have been struggling to provide alternative forms of accommodation for them, usually in the squats, but also pulling their private contacts to find places in the camps for those who are left on the streets after arriving from the islands\.
 
 
-![Entire families are sometimes left on the streets after arriving on the mainland\. Photo: Rando Wagner, Athens](assets/7e1094acbefb/1*fEu6oNrXJ7J7rJteLpgf3g.jpeg)
+![Entire families are sometimes left on the streets after arriving on the mainland\. Photo: Rando Wagner, Athens](../assets/7e1094acbefb/1*fEu6oNrXJ7J7rJteLpgf3g.jpeg)
 
 Entire families are sometimes left on the streets after arriving on the mainland\. Photo: Rando Wagner, Athens
 
@@ -36,7 +36,7 @@ A week ago, a family of 12, from Aleppo, was found by volunteers, sleeping rough
 
 
 
-![Single mothers with children might be at risk after leaving the islands\. Photo: Athena Centre for Women, Chios](assets/7e1094acbefb/1*fxUjBrgZDh9GywBYeuCTjA.jpeg)
+![Single mothers with children might be at risk after leaving the islands\. Photo: Athena Centre for Women, Chios](../assets/7e1094acbefb/1*fxUjBrgZDh9GywBYeuCTjA.jpeg)
 
 Single mothers with children might be at risk after leaving the islands\. Photo: Athena Centre for Women, Chios
 
@@ -50,7 +50,7 @@ This situation was also confirmed by Gabrielle Tan, the founder of the Athena Ce
 
 
 
-![Diepthe camp was closed down without the timely announcement from the officials\. Photo: Love Pyotu](assets/7e1094acbefb/1*q6Fu7RGMRlyL9axjk0PM3A.jpeg)
+![Diepthe camp was closed down without the timely announcement from the officials\. Photo: Love Pyotu](../assets/7e1094acbefb/1*q6Fu7RGMRlyL9axjk0PM3A.jpeg)
 
 Diepthe camp was closed down without the timely announcement from the officials\. Photo: Love Pyotu
 
@@ -61,7 +61,7 @@ Tonight, a ferry full of refugees from Lesvos, where recent fire in Moria camp h
 ### Aleppo’s children not safe from bunker\-busting bombs even in underground schools, NGO warns
 
 
-![Dreaded “bunker busting bombs” are meant for destroying military objects\. Photo: A\. Ismail, Aleppo](assets/7e1094acbefb/1*vXGP8TcDjGAWo7Rr2GbRtQ.jpeg)
+![Dreaded “bunker busting bombs” are meant for destroying military objects\. Photo: A\. Ismail, Aleppo](../assets/7e1094acbefb/1*vXGP8TcDjGAWo7Rr2GbRtQ.jpeg)
 
 Dreaded “bunker busting bombs” are meant for destroying military objects\. Photo: A\. Ismail, Aleppo
 
@@ -84,14 +84,14 @@ According to volunteer sources, a speedboat carring 31 people from Pakistan went
 **105 new refugees have arrived to Chios today** , according to volunteer sources\. The government has reported 56 newly registered refugees, including 29 on Kos, 9 on Samos and 18 on Megisti\. Total number of arrivals in September was 2950, which is 441 fewer than in August\.
 
 
-![](assets/7e1094acbefb/1*9wcJPi7yw18zWRQ-B5ovKQ.jpeg)
+![](../assets/7e1094acbefb/1*9wcJPi7yw18zWRQ-B5ovKQ.jpeg)
 
 ### Protests, public appeals following arrests and mistreatment of refugee children in Athens
 
 A protest was held in Athens today, in the wake of appalling mistreatment of the children’s theatre group from Jasmine school, who were arrested, stripped down, humiliated and detained for 7 hours after being intercepted on their way to a theatre play, wearing military costumes and toy guns\. The incident occurred three days ago, on Tuesday 27 September\. The children were stopped and searched by four police officers on motorbikes, who called more officers for support, before being taken to Omonoia police station\. Following the arrest, 5 children aged between 12 and 14, and two young refugees aged 20 and 22, were reportedly forced to strip off their clothes and walk around the small room in circles, and those who refused to remove their underwear were beaten and verbally assaulted by the police officers\.
 
 
-![Protests in Athens following arrests and mistreatment of refugee children\. Photo: City Plaza](assets/7e1094acbefb/1*-fWZWovQTBm5Kapl1YPeUg.jpeg)
+![Protests in Athens following arrests and mistreatment of refugee children\. Photo: City Plaza](../assets/7e1094acbefb/1*-fWZWovQTBm5Kapl1YPeUg.jpeg)
 
 Protests in Athens following arrests and mistreatment of refugee children\. Photo: City Plaza
 
@@ -106,7 +106,7 @@ On behalf of one child’s father, well\-known Greek lawyer Electra Koutra has f
 ### **Volunteers bring vegetables to Northern camps, where lack of nutritious food remains a problem**
 
 
-![Team Bananas and IHA have joined forces to bring some vitamins to the camps\. Photo: Team Bananas](assets/7e1094acbefb/1*sx8nRGRvhjdxQPTWiG5stA.jpeg)
+![Team Bananas and IHA have joined forces to bring some vitamins to the camps\. Photo: Team Bananas](../assets/7e1094acbefb/1*sx8nRGRvhjdxQPTWiG5stA.jpeg)
 
 Team Bananas and IHA have joined forces to bring some vitamins to the camps\. Photo: Team Bananas
 
@@ -119,7 +119,7 @@ Presevo remains to be the only Serbian camp without any procedure on how the ref
 ### Increase of returns from Austria according to Dublin, no one mentions new accommodation facilities
 
 
-![AYS volunteers are helping to prepare the refugee children for school, and adults for work\. Photo: Elizabeta Jačov](assets/7e1094acbefb/1*6zbLjr9FqbfaESAOAYB_3A.jpeg)
+![AYS volunteers are helping to prepare the refugee children for school, and adults for work\. Photo: Elizabeta Jačov](../assets/7e1094acbefb/1*6zbLjr9FqbfaESAOAYB_3A.jpeg)
 
 AYS volunteers are helping to prepare the refugee children for school, and adults for work\. Photo: Elizabeta Jačov
 
@@ -130,7 +130,7 @@ Forced returns of refugees from the other EU countries, mainly from Austria, are
 Today, police has sent away all Baobab Experience volunteers from via Cupa in Rome and entered the Civico 1 building, which was abandoned and squatted since December\. The reason given by the commissioner Tronca for the closure of the old Baobab centre is that the authorities want to give back the property to the legal owner\. The refugees are now left on the streets\. According to volunteer sources, some have been taken to the police headquarters for questioning\. Police was taking down donated tents and food today\. There’s still no alternative location to host ex residents of via Cupa, so our friends from Baobab are inviting all of the available people to join them in via Cupa and help protesting and stopping the eviction\.
 
 
-![Police in front of the Baobab centre — a place that hosted numerous refugees until today\. Photo: Matteo Nardone](assets/7e1094acbefb/1*Ux-uiQ4_FdqnEO63IWH31A.jpeg)
+![Police in front of the Baobab centre — a place that hosted numerous refugees until today\. Photo: Matteo Nardone](../assets/7e1094acbefb/1*Ux-uiQ4_FdqnEO63IWH31A.jpeg)
 
 Police in front of the Baobab centre — a place that hosted numerous refugees until today\. Photo: Matteo Nardone
 
@@ -141,7 +141,7 @@ Some 132,000 mostly African refugees have landed on Italy’s southern shores si
 ### While Calais prepares for the eviction, at least 800 refugees are sleeping rough on the streets of Paris
 
 
-![There are at least 800 refugees, including women and children, sleeping rough in Paris\. Photo: Christine Dolan](assets/7e1094acbefb/1*xchsVoPgUFmsj_uFhlRakQ.jpeg)
+![There are at least 800 refugees, including women and children, sleeping rough in Paris\. Photo: Christine Dolan](../assets/7e1094acbefb/1*xchsVoPgUFmsj_uFhlRakQ.jpeg)
 
 There are at least 800 refugees, including women and children, sleeping rough in Paris\. Photo: Christine Dolan
 

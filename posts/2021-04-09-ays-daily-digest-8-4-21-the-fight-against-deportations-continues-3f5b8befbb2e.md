@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 8/4/21:The fight against deportations continues
+title: "AYS Daily Digest 8/4/21:The fight against deportations continues"
 author: Are You Syrious?
 date: 2021-04-09T20:54:48.218+0100
 last_modified_at: 2021-04-09T20:54:48.218+0100
 categories: Are You Syrious?
 tags: [deportations,syria,europe,digest,refugees]
-description: Greece won’t comply with ECtHR ruling on providing a vulnerable family with better interim living conditions / Spain: hygienic and…
+description: "Greece won’t comply with ECtHR ruling on providing a vulnerable family with better interim living conditions / Spain: hygienic and…"
 image:
-  path: assets/3f5b8befbb2e/0*zy-84uvTZZppBo09
+  path: ../assets/3f5b8befbb2e/0*zy-84uvTZZppBo09
 ---
 
 ### AYS Daily Digest 8/4/21:The fight against deportations continues
 #### Greece won’t comply with ECtHR ruling on providing a vulnerable family with better interim living conditions / Spain: hygienic and sanitary conditions in Las Raíces raising concerns / Decision: Ombudsman found no maladministration in Frontex’s refusal to provide the required documents / recommended reads and more
 
 
-![Protesters assembled at Berlin airport’s Terminal 5 late Wednesday to speak out against a deportation flight of asylum\-seekers whose claims were denied to Afghanistan that evening](assets/3f5b8befbb2e/0*zy-84uvTZZppBo09)
+![Protesters assembled at Berlin airport’s Terminal 5 late Wednesday to speak out against a deportation flight of asylum\-seekers whose claims were denied to Afghanistan that evening](../assets/3f5b8befbb2e/0*zy-84uvTZZppBo09)
 
 Protesters assembled at Berlin airport’s Terminal 5 late Wednesday to speak out against a deportation flight of asylum\-seekers whose claims were denied to Afghanistan that evening
 #### FEATURED
@@ -106,14 +106,14 @@ Desperation grows as thousands are left on their own to protect theemselves in t
 Greece has failed to implement the interim measure decided on 6 April 2021 by the European Court of Human Rights \(ECtHR\) to guarantee an applicant Afghan family living conditions compatible with Article 3 of the Convention having regard to the wife’s health\.
 
 
-![ECtHR letter](assets/3f5b8befbb2e/0*MAetFtIvGUh4Hr70)
+![ECtHR letter](../assets/3f5b8befbb2e/0*MAetFtIvGUh4Hr70)
 
 ECtHR letter
 
 The family lives in a tent in the Kara Tepe/Mavrovouni Lesbos EU\-financed “Moria 2\.0 camp\.” The wife is 9\-month pregnant with the Mytilini hospital having asked on 25 March 2021 that she makes promptly an appointment for a caesarean section, RCW [writes](https://racistcrimeswatch.wordpress.com/2021/04/08/1-1175/?fbclid=IwAR3EOgxIjzp2TIoslOS5fLjODXj6_DhzG3FCQZsXioyWK4ElN8E3AbOZb9s) \.
 
 
-![](assets/3f5b8befbb2e/0*jH9FoK52iseiFj33)
+![](../assets/3f5b8befbb2e/0*jH9FoK52iseiFj33)
 
 #### ITALY — FRANCE
 ### Aftermath of the closing of Casa Cantoniera
@@ -130,7 +130,7 @@ Activists report an increased number of pushbacks and militarization of the bord
 The police are allegedly spreading different misinformation to the people, for example, saying that if they stay in the border area for more than 2 days they must register with the police\. Others were prevented from taking the bus to Claviere by being told that in case they are pushed back they would receive a paper that bans them from all of Europe\. Attempting to prevent people from going to the border areas, some were placed in remote areas, “placing families and single persons in structures in the middle of nowhere with little availability of public transport\.” People have little to no information on the area, so their attempts to go further end up with them walking along the state roads that spread all across the mountain area\. This is the only way for some to move along as they are more often than not prevented from taking the buses, as Chez Jesoulx team [reported](https://enoughisenough14.org/2021/04/07/the-situation-on-the-french-italian-border-after-the-eviction-of-the-casa-cantoniera-in-oulx-post-eviction-update-april-2021/) \.
 
 
-![](assets/3f5b8befbb2e/0*ot5h19EhBsXs3UFH)
+![](../assets/3f5b8befbb2e/0*ot5h19EhBsXs3UFH)
 
 ### Two Italian journalists detained by the gendarmerie
 
@@ -152,14 +152,14 @@ About 1,500 people are staying there, according to data from the Government Dele
 This Saturday:
 
 
-![](assets/3f5b8befbb2e/0*d_VHTKASrp2-mfq3)
+![](../assets/3f5b8befbb2e/0*d_VHTKASrp2-mfq3)
 
 #### EU
 
 The Council Legal Service has been busy assessing measures proposed as part of the EU’s Pact on Migration and Asylum and has identified a number of issues that need to be resolved if EU law is to be respected, according to a document obtained by [Statewatch](https://www.statewatch.org/news/2021/april/eu-tracking-the-pact-council-legal-service-identifies-problems-with-asylum-and-migration-proposals/?fbclid=IwAR0eRO9hgWpzAgTsdMq5Tf6oSSAfCtY8GWQ6SQVquZ5hAoEoPscsSErFxow) \.
 
 
-![](assets/3f5b8befbb2e/0*-buQg9KTwdTDKFg1.jpg)
+![](../assets/3f5b8befbb2e/0*-buQg9KTwdTDKFg1.jpg)
 
 ### Frontex free to continue with no accountability
 

@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,frontex,eu]
 description: Over a thousand people attempt to cross central Med//Racist protests shut down school in Greece//& more
 image:
-  path: assets/203520a1d73e/0*WjISWLCyCt5s-6Rg
+  path: ../assets/203520a1d73e/0*WjISWLCyCt5s-6Rg
 ---
 
 ### AYS Daily Digest 05/02/2021 — Frontex’s Cosy Corporate Ties, Exposed
 ### Over a thousand people attempt to cross central Med//Racist protests shut down school in Greece//& more
 
 
-![](assets/203520a1d73e/0*bJc4EDVVQky0TeGY.jpeg)
+![](../assets/203520a1d73e/0*bJc4EDVVQky0TeGY.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----8096e850b5db--------------------------------)
@@ -22,11 +22,11 @@ image:
 [Feb 6](ays-daily-digest-05-02-2021-frontexs-cosy-corporate-ties-exposed-8096e850b5db?source=post_page-----8096e850b5db--------------------------------) · 9 min read
 
 
-![](assets/203520a1d73e/0*y5dTtAcQRabmNnjH)
+![](../assets/203520a1d73e/0*y5dTtAcQRabmNnjH)
 
 
 
-![](assets/203520a1d73e/0*WjISWLCyCt5s-6Rg)
+![](../assets/203520a1d73e/0*WjISWLCyCt5s-6Rg)
 
 
 FEATURE

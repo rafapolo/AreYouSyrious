@@ -7,7 +7,7 @@ categories:
 tags: [refugees,obrenovac,chios,sweden,deportations]
 description: Anti-Trafficking operations in Greece / Chios beyond breaking point / Sweden to carry on deportations / Unaccompanied Minors in France /
 image:
-  path: assets/bcaf657d82cb/1*ItgrahnHksffL3cRo9-JcQ.jpeg
+  path: ../assets/bcaf657d82cb/1*ItgrahnHksffL3cRo9-JcQ.jpeg
 ---
 
 ### AYS DAILY DIGEST 3/6/2017 Voices from Serbia
@@ -15,7 +15,7 @@ image:
 Anti\-Trafficking operations in Greece / Chios beyond breaking point / Sweden to carry on deportations / Unaccompanied Minors in France /
 
 
-![](assets/bcaf657d82cb/1*ItgrahnHksffL3cRo9-JcQ.jpeg)
+![](../assets/bcaf657d82cb/1*ItgrahnHksffL3cRo9-JcQ.jpeg)
 
 
 No Border Serbia published a [letter and a statement](https://noborderserbia.wordpress.com/2017/06/03/if-these-laws-stay-in-power-maybe-tomorrow-you-will-be-in-my-positionako-ovi-zakoni-ostaju-na-snazi-mozda-ce-oni-i-vas-uskoro-ugroziti/) on the living conditions of asylum seekers in the country\. People forced to live inside Obrenovac camp shed some lights on the situation inside the camp:
@@ -28,7 +28,7 @@ No Border Serbia published a [letter and a statement](https://noborderserbia.wor
 
 
 
-![Obrenovac \(No border Serbia\)](assets/bcaf657d82cb/1*38mmULEzB_nMaJ7UGGQRow.jpeg)
+![Obrenovac \(No border Serbia\)](../assets/bcaf657d82cb/1*38mmULEzB_nMaJ7UGGQRow.jpeg)
 
 Obrenovac \(No border Serbia\)
 
@@ -39,7 +39,7 @@ Obrenovac \(No border Serbia\)
 
 
 
-![Obrenovac \(No border Serbia\)](assets/bcaf657d82cb/1*EpvsHoMQqTxJEu1NQbg2_Q.jpeg)
+![Obrenovac \(No border Serbia\)](../assets/bcaf657d82cb/1*EpvsHoMQqTxJEu1NQbg2_Q.jpeg)
 
 Obrenovac \(No border Serbia\)
 
@@ -159,11 +159,11 @@ One boat landed at the north east coast of Lesvos\. 21 refugees on board, 4 men,
 [No Border Kitchen Lesvos](https://noborderkitchenlesvos.noblogs.org/) published a call for support in their daily work to provide food for refugees and fight deportations\.
 
 
-![](assets/bcaf657d82cb/1*757twj4xFVtOrw8NaQmwKA.jpeg)
+![](../assets/bcaf657d82cb/1*757twj4xFVtOrw8NaQmwKA.jpeg)
 
 
 
-![No Border Kitchen Lesvos](assets/bcaf657d82cb/1*joafmtbalp7aSqKXQGLkYg.jpeg)
+![No Border Kitchen Lesvos](../assets/bcaf657d82cb/1*joafmtbalp7aSqKXQGLkYg.jpeg)
 
 No Border Kitchen Lesvos
 
@@ -186,7 +186,7 @@ Read the full article, their statement, their needs and how to help [here](https
 [Refugee Info Bus](https://web.facebook.com/RefugeeInfoBus/?ref=br_rs) published an update from Chios
 
 
-![Souda \(Refugee Info bus\)](assets/bcaf657d82cb/1*aEDa6wN84cBrxaLK6qJrTQ.jpeg)
+![Souda \(Refugee Info bus\)](../assets/bcaf657d82cb/1*aEDa6wN84cBrxaLK6qJrTQ.jpeg)
 
 Souda \(Refugee Info bus\)
 
@@ -236,15 +236,15 @@ Media [report](https://tvstar.gr/voiotia-articles/87846-oi-protoi-prosfyges-stin
 [Peace mission](https://web.facebook.com/peace.mission.188) published pictures from the new Camp in the area of Thiva\. Here is were several residents of Elleniko are being moved\. In every house/box two families will be hosted\.
 
 
-![](assets/bcaf657d82cb/1*rFAuezV1ZclDM9G3071N9w.jpeg)
+![](../assets/bcaf657d82cb/1*rFAuezV1ZclDM9G3071N9w.jpeg)
 
 
 
-![](assets/bcaf657d82cb/1*WrNngxyg5bu88Z3_jQGcrQ.jpeg)
+![](../assets/bcaf657d82cb/1*WrNngxyg5bu88Z3_jQGcrQ.jpeg)
 
 
 
-![Thiva Camp accommodations \(Peace Mission\)](assets/bcaf657d82cb/1*f3A5GxPq_iai-NeplC7fZA.jpeg)
+![Thiva Camp accommodations \(Peace Mission\)](../assets/bcaf657d82cb/1*f3A5GxPq_iai-NeplC7fZA.jpeg)
 
 Thiva Camp accommodations \(Peace Mission\)
 
@@ -321,7 +321,7 @@ Calais [Refugee Community Kitchen](https://web.facebook.com/pg/refugeeCkitchen/p
 
 
 
-![Police operation in Calais \(Utopia56\)](assets/bcaf657d82cb/1*oGj3vkGADaCIBlfCMntzDQ.jpeg)
+![Police operation in Calais \(Utopia56\)](../assets/bcaf657d82cb/1*oGj3vkGADaCIBlfCMntzDQ.jpeg)
 
 Police operation in Calais \(Utopia56\)
 

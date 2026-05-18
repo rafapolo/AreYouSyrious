@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 20/8/22: Violent of eviction of Eleonas camp begins in Athens
+title: "AYS News Digest 20/8/22: Violent of eviction of Eleonas camp begins in Athens"
 author: Are You Syrious?
 date: 2022-08-21T16:17:49.742+0100
 last_modified_at: 2022-08-22T10:23:55.451+0100
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [digest,refugees,borders,greece,migration]
 description: Arrivals on Kythera — a new route towards Europe? // Prison sentences and fines for 12 people of the crossing preceding the ‘Melilla…
 image:
-  path: assets/9db56d106a4a/1*B3uacvrsjKBXkWDerd87og.jpeg
+  path: ../assets/9db56d106a4a/1*B3uacvrsjKBXkWDerd87og.jpeg
 ---
 
 ### AYS News Digest 20/8/22: Violent eviction of Eleonas camp begins in Athens
 
 
-![Photo: Marios Lolos, [https://www\.2020mag\.gr/themata/5698\-xtypisan\-ton\-elaiona\-ksimeromata?fbclid=IwAR0V3DtAbnmoGOfZoADXQDfEWMLL2thiRnu7bDmR2NiYMnkmsSqZ4BWY99Y](https://www.2020mag.gr/themata/5698-xtypisan-ton-elaiona-ksimeromata?fbclid=IwAR0V3DtAbnmoGOfZoADXQDfEWMLL2thiRnu7bDmR2NiYMnkmsSqZ4BWY99Y)](assets/9db56d106a4a/1*B3uacvrsjKBXkWDerd87og.jpeg)
+![Photo: Marios Lolos, [https://www\.2020mag\.gr/themata/5698\-xtypisan\-ton\-elaiona\-ksimeromata?fbclid=IwAR0V3DtAbnmoGOfZoADXQDfEWMLL2thiRnu7bDmR2NiYMnkmsSqZ4BWY99Y](https://www.2020mag.gr/themata/5698-xtypisan-ton-elaiona-ksimeromata?fbclid=IwAR0V3DtAbnmoGOfZoADXQDfEWMLL2thiRnu7bDmR2NiYMnkmsSqZ4BWY99Y)](../assets/9db56d106a4a/1*B3uacvrsjKBXkWDerd87og.jpeg)
 
 Photo: Marios Lolos, [https://www\.2020mag\.gr/themata/5698\-xtypisan\-ton\-elaiona\-ksimeromata?fbclid=IwAR0V3DtAbnmoGOfZoADXQDfEWMLL2thiRnu7bDmR2NiYMnkmsSqZ4BWY99Y](https://www.2020mag.gr/themata/5698-xtypisan-ton-elaiona-ksimeromata?fbclid=IwAR0V3DtAbnmoGOfZoADXQDfEWMLL2thiRnu7bDmR2NiYMnkmsSqZ4BWY99Y)
 #### Arrivals on Kythera — a new route towards Europe? // Prison sentences and fines for 12 people of the crossing preceding the ‘Melilla massacre’ // Boat missing off Libya with 80 people on board // Potential fines for those providing aid in Calais & much more
@@ -84,7 +84,7 @@ Mitarakis has also announced that the fence in the Evros River will be extended 
 150people arrived at Kythera, Greece on Wednesday\. Two sailboats, perhaps heading for Italy, arrived on the Southern Greek island where one had run aground\. Thankfully no injuries have been reported\. Another vessel has since arrived, leaving 236 refugees sweltering in 40 degree heat with no shelter or provisions\. There has been no help from official agencies, and food and shelter provided by local volunteers\.
 
 
-![[https://twitter\.com/ecre/status/1560249404010921984?fbclid=IwAR0gqwz3DOI9fqad6voOP8183bcjzP18d6kMVjUEfyZBZYNexpOgCUkrSWM](https://twitter.com/ecre/status/1560249404010921984?fbclid=IwAR0gqwz3DOI9fqad6voOP8183bcjzP18d6kMVjUEfyZBZYNexpOgCUkrSWM)](assets/9db56d106a4a/1*jHhf9eg_bukdoWX3vCTmPg.jpeg)
+![[https://twitter\.com/ecre/status/1560249404010921984?fbclid=IwAR0gqwz3DOI9fqad6voOP8183bcjzP18d6kMVjUEfyZBZYNexpOgCUkrSWM](https://twitter.com/ecre/status/1560249404010921984?fbclid=IwAR0gqwz3DOI9fqad6voOP8183bcjzP18d6kMVjUEfyZBZYNexpOgCUkrSWM)](../assets/9db56d106a4a/1*jHhf9eg_bukdoWX3vCTmPg.jpeg)
 
 [https://twitter\.com/ecre/status/1560249404010921984?fbclid=IwAR0gqwz3DOI9fqad6voOP8183bcjzP18d6kMVjUEfyZBZYNexpOgCUkrSWM](https://twitter.com/ecre/status/1560249404010921984?fbclid=IwAR0gqwz3DOI9fqad6voOP8183bcjzP18d6kMVjUEfyZBZYNexpOgCUkrSWM)
 
@@ -209,7 +209,7 @@ A group of 25 people spent seven days and seven nights in front of the police he
 
 
 
-![Photo: [Ronda della Carità Verona — Organizzazione di Volontariato](https://www.facebook.com/RondaDellaCaritaVerona?__cft__[0]=AZWJD2c5dOldHJmK_XuR-nnPE-ybwxYFPXH2FXO5i-1wD566noa34ZGJ44wVZxoP-QGjS2QvRXj3NTZxV0MayTh4b6VT1mn2jDYPrYN_Gi_3LR_CM0acCFkmSz_tx5Hzjgz_XI8Uz-iiusWr90eQnGew&__tn__=-UC%2CP-R)](assets/9db56d106a4a/0*wia_XUQsZkQ5KF1m)
+![Photo: [Ronda della Carità Verona — Organizzazione di Volontariato](https://www.facebook.com/RondaDellaCaritaVerona?__cft__[0]=AZWJD2c5dOldHJmK_XuR-nnPE-ybwxYFPXH2FXO5i-1wD566noa34ZGJ44wVZxoP-QGjS2QvRXj3NTZxV0MayTh4b6VT1mn2jDYPrYN_Gi_3LR_CM0acCFkmSz_tx5Hzjgz_XI8Uz-iiusWr90eQnGew&__tn__=-UC%2CP-R)](../assets/9db56d106a4a/0*wia_XUQsZkQ5KF1m)
 
 Photo: [Ronda della Carità Verona — Organizzazione di Volontariato](https://www.facebook.com/RondaDellaCaritaVerona?__cft__[0]=AZWJD2c5dOldHJmK_XuR-nnPE-ybwxYFPXH2FXO5i-1wD566noa34ZGJ44wVZxoP-QGjS2QvRXj3NTZxV0MayTh4b6VT1mn2jDYPrYN_Gi_3LR_CM0acCFkmSz_tx5Hzjgz_XI8Uz-iiusWr90eQnGew&__tn__=-UC%2CP-R)
 
@@ -251,7 +251,7 @@ As a follow up to previous reports of forced returns and violent treatment of pe
 
 
 
-![](assets/9db56d106a4a/1*3A7867rsASvWhYKIg5cR_A.jpeg)
+![](../assets/9db56d106a4a/1*3A7867rsASvWhYKIg5cR_A.jpeg)
 
 #### **POLAND**
 #### A zone of hidden violence: documenting human rights violations on the Belarus\-Poland border

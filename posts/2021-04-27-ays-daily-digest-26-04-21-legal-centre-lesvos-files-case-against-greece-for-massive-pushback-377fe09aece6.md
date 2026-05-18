@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [greece,lesvos,refugees,digest,italy]
 description: Assault against union migrant workers in Italy // Deportations from Denmark // Open letter to Italian Prime Minister // more…
 image:
-  path: assets/377fe09aece6/0*XcCIRkP1KcK3cr6Z.jpeg
+  path: ../assets/377fe09aece6/0*XcCIRkP1KcK3cr6Z.jpeg
 ---
 
 ### AYS Daily Digest 26/04/21 Legal Centre Lesvos files case against Greece for massive pushback
@@ -17,7 +17,7 @@ image:
 Read [Legal Centre Lesvos’s](https://legalcentrelesvos.org/2021/04/26/new-case-filed-against-greece-in-european-court-for-massive-pushback-operation-of-over-180-migrants-caught-in-storm-near-crete/?fbclid=IwAR0M3Vvkq6DezSzx52RuC1ZhOkKssP-EV19SvmA3_akw2lpoSFB6D9ZSffo) full 26/04/21 Press Release:
 
 
-![Photo by Legal Centre Lesvos](assets/377fe09aece6/0*XcCIRkP1KcK3cr6Z.jpeg)
+![Photo by Legal Centre Lesvos](../assets/377fe09aece6/0*XcCIRkP1KcK3cr6Z.jpeg)
 
 Photo by Legal Centre Lesvos
 #### NEW CASE FILED AGAINST GREECE IN EUROPEAN COURT, FOR MASSIVE PUSHBACK OPERATION OF OVER 180 MIGRANTS CAUGHT IN STORM NEAR CRETE
@@ -217,7 +217,7 @@ _The Labor League, founded by the trade unionist and activist Aboubakar Soumahor
 #### SPAIN
 
 
-![Photo by [Redmi Note 8 Al Quad Camera](https://twitter.com/AsambleaMigraTF/status/1386660293049262090)](assets/377fe09aece6/0*_Cc6lD0ne9Z9Th81)
+![Photo by [Redmi Note 8 Al Quad Camera](https://twitter.com/AsambleaMigraTF/status/1386660293049262090)](../assets/377fe09aece6/0*_Cc6lD0ne9Z9Th81)
 
 Photo by [Redmi Note 8 Al Quad Camera](https://twitter.com/AsambleaMigraTF/status/1386660293049262090)
 

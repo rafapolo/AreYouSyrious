@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 29/01/2018: Germany announces end of relocation programme
+title: "AYS Daily Digest 29/01/2018: Germany announces end of relocation programme"
 author: Are You Syrious?
 date: 2018-01-30T00:56:59.802+0000
 last_modified_at: 2018-01-30T10:29:37.912+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,germany,relocation,croatia,syria]
 description: IOM Croatia apprently exclusively decided to transfer 40 people to Zadar / New fights erupt in Syria / Greek hotspots still overcrowded /…
 image:
-  path: assets/344d3ef9582d/1*kOc-Uu3Yy0FLkBaN54opow.jpeg
+  path: ../assets/344d3ef9582d/1*kOc-Uu3Yy0FLkBaN54opow.jpeg
 ---
 
 ### AYS Daily Digest 29/01/2018: Germany announces end of relocation programme
@@ -15,7 +15,7 @@ image:
 _IOM Croatia apprently exclusively decided to transfer 40 people to Zadar / New fights erupt in Syria / Greek hotspots still overcrowded / Three people arrested in Bosnia / Germany ends relocation programme from Greece and Italy / Reports from Udine and Ventimiglia / Governor of Melilla want to repatriate unaccompanied minors_
 
 
-![Not eligible for the relocation programme anymore: New arrivals in Greece and Italy\. Credits: Kevin McElvaney/ [Stichting Bootvluchteling](https://www.facebook.com/stichtingbootvluchteling/?hc_ref=ARSGTRJT6yGYUGNxV7aL35ZeG5gh9k3KfmAe3jo1MSo6IpdqSv5Ib0NB4oA_OakSeVk)](assets/344d3ef9582d/1*kOc-Uu3Yy0FLkBaN54opow.jpeg)
+![Not eligible for the relocation programme anymore: New arrivals in Greece and Italy\. Credits: Kevin McElvaney/ [Stichting Bootvluchteling](https://www.facebook.com/stichtingbootvluchteling/?hc_ref=ARSGTRJT6yGYUGNxV7aL35ZeG5gh9k3KfmAe3jo1MSo6IpdqSv5Ib0NB4oA_OakSeVk)](../assets/344d3ef9582d/1*kOc-Uu3Yy0FLkBaN54opow.jpeg)
 
 Not eligible for the relocation programme anymore: New arrivals in Greece and Italy\. Credits: Kevin McElvaney/ [Stichting Bootvluchteling](https://www.facebook.com/stichtingbootvluchteling/?hc_ref=ARSGTRJT6yGYUGNxV7aL35ZeG5gh9k3KfmAe3jo1MSo6IpdqSv5Ib0NB4oA_OakSeVk)
 ### Feature: Croatia’s questionable integration ‘policy’
@@ -34,7 +34,7 @@ Finally, we have difficulties to understand the dynamics of the national integra
 During the last weeks and especially days, the fights in several spots have intensified\. While the Turkish army intensified their offensive to capture Afrin from the Kurdish forces, also in the province of Idlib in the West increasing airstrikes have happened the last hours, as the government forces try to conquer it from rebel groups\. Even massascres are reported\.
 
 
-![A hospital was hit by two airstrikes today\. Credits: [The Syria Campaign](https://twitter.com/TheSyriaCmpgn/status/958021236445143040)](assets/344d3ef9582d/1*hJUVTq3Pe2v7PjTZL8Hj6Q.jpeg)
+![A hospital was hit by two airstrikes today\. Credits: [The Syria Campaign](https://twitter.com/TheSyriaCmpgn/status/958021236445143040)](../assets/344d3ef9582d/1*hJUVTq3Pe2v7PjTZL8Hj6Q.jpeg)
 
 A hospital was hit by two airstrikes today\. Credits: [The Syria Campaign](https://twitter.com/TheSyriaCmpgn/status/958021236445143040)
 
@@ -69,7 +69,7 @@ Also on Lesvos, around 270 were reported to have arrived on the island only this
 [Velos Youth](https://www.facebook.com/Velos-Youth-delivered-by-RYS-1705690253061937/) in Athens has published its schedule for this week:
 
 
-![The schedule\. Credits: [Velos Youth delivered by RYS](https://www.facebook.com/Velos-Youth-delivered-by-RYS-1705690253061937/)](assets/344d3ef9582d/1*qJ01DY23foThgRsUyEG-AQ.png)
+![The schedule\. Credits: [Velos Youth delivered by RYS](https://www.facebook.com/Velos-Youth-delivered-by-RYS-1705690253061937/)](../assets/344d3ef9582d/1*qJ01DY23foThgRsUyEG-AQ.png)
 
 The schedule\. Credits: [Velos Youth delivered by RYS](https://www.facebook.com/Velos-Youth-delivered-by-RYS-1705690253061937/)
 ### Hungary

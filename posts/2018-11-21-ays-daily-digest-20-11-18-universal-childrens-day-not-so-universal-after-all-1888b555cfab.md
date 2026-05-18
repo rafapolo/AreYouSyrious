@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 20/11/18: Universal Children’s Day — not so universal after all
+title: "AYS Daily Digest 20/11/18: Universal Children’s Day — not so universal after all"
 author: Are You Syrious?
 date: 2018-11-21T12:14:38.395+0000
 last_modified_at: 2018-11-21T17:05:10.624+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,children,europe,africa,digest]
 description: Serious situations refugee children face continue / What African refugees flee / Commercial ship returned refugees to inhumane detention…
 image:
-  path: assets/1888b555cfab/1*oVkmOPm4k8IkkgY42OEicg.jpeg
+  path: ../assets/1888b555cfab/1*oVkmOPm4k8IkkgY42OEicg.jpeg
 ---
 
 ### AYS Daily Digest 20/11/18: Universal Children’s Day — not so universal after all
 #### Serious situations facing refugee children continue / A year since the death of little Madina — how many more happened? / What African refugees are fleeing / Commercial ship return refugees to inhumane detention in Libya / Repeated political pressure forces two organizations to temporally cease SAR operations in the Mediterranean / fight to reform deportation camp Sjælsmark in Denmark / read for more…
 
 
-![“ Moria \(Lesvos\) refugee camp, just now\. Europe as such\.” — Photo: [Refugee Accommodation and Solidarity Space City Plaza](https://www.facebook.com/sol2refugeesen/?tn-str=k%2AF&hc_location=group_dialog)](assets/1888b555cfab/1*oVkmOPm4k8IkkgY42OEicg.jpeg)
+![“ Moria \(Lesvos\) refugee camp, just now\. Europe as such\.” — Photo: [Refugee Accommodation and Solidarity Space City Plaza](https://www.facebook.com/sol2refugeesen/?tn-str=k%2AF&hc_location=group_dialog)](../assets/1888b555cfab/1*oVkmOPm4k8IkkgY42OEicg.jpeg)
 
 “ Moria \(Lesvos\) refugee camp, just now\. Europe as such\.” — Photo: [Refugee Accommodation and Solidarity Space City Plaza](https://www.facebook.com/sol2refugeesen/?tn-str=k%2AF&hc_location=group_dialog)
 #### FEATURE
@@ -94,7 +94,7 @@ International organizations document that inside **South Sudan** , nearly two mi
 Many fear imminent attack or struggle with food insecurity\.
 
 
-![The situation in South Sudan and neighbouring countries has quickly escalated into a full\-blown humanitarian emergency\. The majority of the refugees are women and children, many of whom flee across the border alone\. Often, they arrive weak and malnourished\. When the rainy season comes, their needs are compounded by flooding, food shortages and disease\. — data from the UN Operational portal on refugee situations](assets/1888b555cfab/1*4wKdt-0gYLGG7qxtQP77ig.jpeg)
+![The situation in South Sudan and neighbouring countries has quickly escalated into a full\-blown humanitarian emergency\. The majority of the refugees are women and children, many of whom flee across the border alone\. Often, they arrive weak and malnourished\. When the rainy season comes, their needs are compounded by flooding, food shortages and disease\. — data from the UN Operational portal on refugee situations](../assets/1888b555cfab/1*4wKdt-0gYLGG7qxtQP77ig.jpeg)
 
 The situation in South Sudan and neighbouring countries has quickly escalated into a full\-blown humanitarian emergency\. The majority of the refugees are women and children, many of whom flee across the border alone\. Often, they arrive weak and malnourished\. When the rainy season comes, their needs are compounded by flooding, food shortages and disease\. — data from the UN Operational portal on refugee situations
 
@@ -144,7 +144,7 @@ In **[Ethiopia](https://reliefweb.int/sites/reliefweb.int/files/resources/DTM%20
 In an attempt to assess the situation at the camp, [Samos Volunteers](https://www.facebook.com/samosvolunteers/?tn-str=k%2AF&hc_location=group_dialog) team has conducted research in order to find out how many people are living with little to no shelter in the extended areas of the camp:
 
 
-![](assets/1888b555cfab/1*IGyZ-KzSxL1Wq-hNIK2S8g.jpeg)
+![](../assets/1888b555cfab/1*IGyZ-KzSxL1Wq-hNIK2S8g.jpeg)
 
 #### BALKAN WEATHER REPORT — forecast for Wednesday, Nov 21
 
@@ -172,11 +172,11 @@ The lifeless body of a presumed undocumented asylum seeker was found on the Bosn
 Volunteers distributing food and tea in the evening report on the current situation and activities:
 
 
-![](assets/1888b555cfab/1*cWGPRFlN_3cYKCPoYTfSdA.jpeg)
+![](../assets/1888b555cfab/1*cWGPRFlN_3cYKCPoYTfSdA.jpeg)
 
 
 
-![Photos by a long\-term independent volunteer](assets/1888b555cfab/1*AzzMOJ8_8ErnYJzj3k3v5g.jpeg)
+![Photos by a long\-term independent volunteer](../assets/1888b555cfab/1*AzzMOJ8_8ErnYJzj3k3v5g.jpeg)
 
 Photos by a long\-term independent volunteer
 
@@ -194,7 +194,7 @@ Photos by a long\-term independent volunteer
 
 
 
-![food distribution van](assets/1888b555cfab/1*PWIt-EuzaTntwoiob58ONw.jpeg)
+![food distribution van](../assets/1888b555cfab/1*PWIt-EuzaTntwoiob58ONw.jpeg)
 
 food distribution van
 ### Velika Kladuša
@@ -314,7 +314,7 @@ Faced with another politically driven attack, we expect the French authorities t
 ![“In my culture we work at 14\. It’s normal to us\. So working hard and being strong is what I am used to\. But here, not only can I not work, not only do I have to shower outside under a tap when I’m lucky\. Here it is as though I am not human\.
  Now I know I am human, but this situation makes me feel as though I am not\. Not being able to sleep properly, being moved from place to place\. We are isolated here\. Unable to hold on to items that keep us warm, unable to find shelter, security\. This morning we were woken up; items gone, hope fleeting\. The nights are colder and the situation is worse\.
  I know I am human and I thought I was strong, but now I am not so sure after being here\.”
- These are the words of a Kurdish refugee currently living, like so many others, in the patchy scrub\-land that we visit near to Dunkirk\. Although his situation is bleak, he still makes time, every week, to talk to us and even say thank you for the basic aid that we deliver\. — [Care4Calais](https://www.facebook.com/care4calais/?tn-str=k%2AF)](assets/1888b555cfab/1*-Oc1IJ1rF5RAlBpwIS744w.jpeg)
+ These are the words of a Kurdish refugee currently living, like so many others, in the patchy scrub\-land that we visit near to Dunkirk\. Although his situation is bleak, he still makes time, every week, to talk to us and even say thank you for the basic aid that we deliver\. — [Care4Calais](https://www.facebook.com/care4calais/?tn-str=k%2AF)](../assets/1888b555cfab/1*-Oc1IJ1rF5RAlBpwIS744w.jpeg)
 
 “In my culture we work at 14\. It’s normal to us\. So working hard and being strong is what I am used to\. But here, not only can I not work, not only do I have to shower outside under a tap when I’m lucky\. Here it is as though I am not human\.
  Now I know I am human, but this situation makes me feel as though I am not\. Not being able to sleep properly, being moved from place to place\. We are isolated here\. Unable to hold on to items that keep us warm, unable to find shelter, security\. This morning we were woken up; items gone, hope fleeting\. The nights are colder and the situation is worse\.
@@ -340,12 +340,12 @@ This week, [Refugee Info Bus حافلة المعلومات للاجئين مسی
 Ground teams in Paris need aid, help and donations\. Join in if you can:
 
 
-![[SAJE soutien et accompagnement des jeunes en exil](https://www.facebook.com/lesajeparis/?tn-str=k%2AF)](assets/1888b555cfab/1*dkhHTVZjOIX0RrtPz84b2A.jpeg)
+![[SAJE soutien et accompagnement des jeunes en exil](https://www.facebook.com/lesajeparis/?tn-str=k%2AF)](../assets/1888b555cfab/1*dkhHTVZjOIX0RrtPz84b2A.jpeg)
 
 [SAJE soutien et accompagnement des jeunes en exil](https://www.facebook.com/lesajeparis/?tn-str=k%2AF)
 
 
-![[Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/?tn-str=k%2AF)](assets/1888b555cfab/1*rFrY4JO6HVXFUk2BQgLq1Q.jpeg)
+![[Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/?tn-str=k%2AF)](../assets/1888b555cfab/1*rFrY4JO6HVXFUk2BQgLq1Q.jpeg)
 
 [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/?tn-str=k%2AF)
 #### GERMANY
@@ -371,15 +371,15 @@ The first demonstration in the fight to reform deportation camp Sjælsmark happe
 
 
 
-![](assets/1888b555cfab/1*ua_6CClHf_y45VxmfPgixw.jpeg)
+![](../assets/1888b555cfab/1*ua_6CClHf_y45VxmfPgixw.jpeg)
 
 
 
-![](assets/1888b555cfab/1*j-fHmkOshmeoThIvLl4Ohw.jpeg)
+![](../assets/1888b555cfab/1*j-fHmkOshmeoThIvLl4Ohw.jpeg)
 
 
 
-![](assets/1888b555cfab/1*NO-3K44lY3n5NE5giVqykg.jpeg)
+![](../assets/1888b555cfab/1*NO-3K44lY3n5NE5giVqykg.jpeg)
 
 #### UK
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 15–16/02/20 — Balkans: Police repression, violations of human rights and…
+title: "AYS Weekend Digest 15–16/02/20 — Balkans: Police repression, violations of human rights and…"
 author: Are You Syrious?
 date: 2020-02-17T11:17:49.324+0000
 last_modified_at: 2020-02-17T11:17:49.324+0000
@@ -7,18 +7,18 @@ categories: Are You Syrious?
 tags: []
 description: Protests in Tripoli, Lesvos and Velika Kladusa / Rescues in the Central Med / Further repercussions of new asylum law in Greece
 image:
-  path: assets/f32760db6a20/0*iy4j8n8kFyb9ktf5.jpeg
+  path: ../assets/f32760db6a20/0*iy4j8n8kFyb9ktf5.jpeg
 ---
 
 ### AYS Weekend Digest 15–16/02/20 — Balkans: Police repression, violations of human rights and institutional lies
 #### Protests in Tripoli, Lesvos and Velika Kladusa / Rescues in the Central Med / Further repercussions of new asylum law in Greece
 
 
-![](assets/f32760db6a20/0*HXf5m7sMvUjaMGxO)
+![](../assets/f32760db6a20/0*HXf5m7sMvUjaMGxO)
 
 
 
-![](assets/f32760db6a20/0*iy4j8n8kFyb9ktf5.jpeg)
+![](../assets/f32760db6a20/0*iy4j8n8kFyb9ktf5.jpeg)
 
 
 Credit: [Vanja Stokić](https://www.facebook.com/vanjuska89?__tn__=%2CdC-R-R&eid=ARCXJrMySq7vxHD4Dx1AWH0Hki2BagNZvGz72orInvl2r7Wft4zSFAukAbX5uhYkMpqzlQA-T9m85RRP&hc_ref=ARR8PZIpKVv_T4eNsxldZNpYw_4bJeMLUOO4fGgP-Bmq1D4U-Yjk_0KoSV4iuyhaLIo&fref=nf)
@@ -30,19 +30,19 @@ Credit: [Vanja Stokić](https://www.facebook.com/vanjuska89?__tn__=%2CdC-R-R&eid
 Protests took place on Saturday as people tried to leave the camp of Miral\. They were protesting again the appalling living conditions they are forced to endure and the brutality of the Croatian police\. The Bosnian police detained several people as a result, because there’s nothing so illegal these days as asking for your human rights to be respected\.
 
 
-![](assets/f32760db6a20/0*gxlDcGuvyV65C2nq)
+![](../assets/f32760db6a20/0*gxlDcGuvyV65C2nq)
 
 
 
-![](assets/f32760db6a20/0*mlV8dPYyzZiR9qJn.jpeg)
+![](../assets/f32760db6a20/0*mlV8dPYyzZiR9qJn.jpeg)
 
 
 
-![](assets/f32760db6a20/0*13GgMhmOIvil9M6T)
+![](../assets/f32760db6a20/0*13GgMhmOIvil9M6T)
 
 
 
-![](assets/f32760db6a20/0*GtZCSL-TtOTgw4gO.jpeg)
+![](../assets/f32760db6a20/0*GtZCSL-TtOTgw4gO.jpeg)
 
 
 \(Balkan Route — Miral Camp, velika kladusa \(Bosnia\)
@@ -54,27 +54,27 @@ Some benevolent people from Velika Kladusa, the town in which Miral camp is situ
 **The camps are full and people are sleeping rough, still\.**
 
 
-![](assets/f32760db6a20/0*2wjEcAiF7xCqB1lY)
+![](../assets/f32760db6a20/0*2wjEcAiF7xCqB1lY)
 
 
 
-![](assets/f32760db6a20/0*NcH8hDx4-HzdHD_H.jpeg)
+![](../assets/f32760db6a20/0*NcH8hDx4-HzdHD_H.jpeg)
 
 
 
-![](assets/f32760db6a20/0*0N5yAr2Vt0bfqo28)
+![](../assets/f32760db6a20/0*0N5yAr2Vt0bfqo28)
 
 
 
-![](assets/f32760db6a20/0*IPv3IdEl8CB1F42h.jpeg)
+![](../assets/f32760db6a20/0*IPv3IdEl8CB1F42h.jpeg)
 
 
 
-![](assets/f32760db6a20/0*-Igv7egY0wH5E4EG)
+![](../assets/f32760db6a20/0*-Igv7egY0wH5E4EG)
 
 
 
-![](assets/f32760db6a20/0*ZceBZf-0a4HOpY2H.jpeg)
+![](../assets/f32760db6a20/0*ZceBZf-0a4HOpY2H.jpeg)
 
 
 \(There is no place in the camps in Bihac\. About a thousand people sleep outside, mostly in ruins\. They call me and say there are about 200 of them in one place\.
@@ -105,19 +105,19 @@ Meanwhile, in Croatia, the lie machine continues to churn as reported by MEP, Di
 
 
 
-![](assets/f32760db6a20/0*LAoohMZRJXZ_fH3y)
+![](../assets/f32760db6a20/0*LAoohMZRJXZ_fH3y)
 
 
 
-![](assets/f32760db6a20/0*y5ZVXAQGP9fKl-WB.png)
+![](../assets/f32760db6a20/0*y5ZVXAQGP9fKl-WB.png)
 
 
 
-![](assets/f32760db6a20/0*cuhQkM30UfaMjKhM)
+![](../assets/f32760db6a20/0*cuhQkM30UfaMjKhM)
 
 
 
-![](assets/f32760db6a20/0*iqsg9Zk_SCi4HZHB.png)
+![](../assets/f32760db6a20/0*iqsg9Zk_SCi4HZHB.png)
 
 
 LIBYA
@@ -176,11 +176,11 @@ SLOVENIAN/ITALIAN BORDER
 Atif, who drowned in the Isonzo river on December 18, 2019 was never recovered\.
 
 
-![](assets/f32760db6a20/0*w_O9LuDQVCl8fi2P)
+![](../assets/f32760db6a20/0*w_O9LuDQVCl8fi2P)
 
 
 
-![](assets/f32760db6a20/0*0vqjjowfdGTxrc4M.jpeg)
+![](../assets/f32760db6a20/0*0vqjjowfdGTxrc4M.jpeg)
 
 
 \(Photo Credit: [L’altra Voce](https://www.facebook.com/L-ALTRA-VOCE-1245970425495921/?tn-str=k*F&hc_location=ufi) \)

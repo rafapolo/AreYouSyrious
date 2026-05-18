@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 13/12/2017: EU denies all responsibility for situation in Libya
+title: "AYS DAILY DIGEST 13/12/2017: EU denies all responsibility for situation in Libya"
 author: Are You Syrious?
 date: 2017-12-14T10:03:00.476+0000
 last_modified_at: 2017-12-24T05:34:08.897+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,libya,human-rights,european-union,greece]
 description: EU denies all responsibility for situation in Libya // Syrian and Kurdish refugees exploited in areas around Izmir // More rescues at sea…
 image:
-  path: assets/5617453380b8/1*pu-hZ-g_6YEZRQtCjX6dXw.jpeg
+  path: ../assets/5617453380b8/1*pu-hZ-g_6YEZRQtCjX6dXw.jpeg
 ---
 
 ### AYS DAILY DIGEST 13/12/2017: EU denies all responsibility for situation in Libya
@@ -15,7 +15,7 @@ image:
 _EU denies all responsibility for situation in Libya // Syrian and Kurdish refugees exploited in areas around Izmir // More rescues at sea between Spain and Morocco // More arrivals to the Greek Islands and transfers to the mainland // Doctors cannot cope with pregnancy rates on Lesvos // And news from Austria, Germany, Netherlands and France…_
 
 
-![Source: [Refugee Rescue / ‘Mo Chara’](https://www.facebook.com/RefugeeRescueUK/?ref=gs&fref=gs&hc_location=group_dialog)](assets/5617453380b8/1*G8JAyJn8GRz5rBjBEAsKWQ.png)
+![Source: [Refugee Rescue / ‘Mo Chara’](https://www.facebook.com/RefugeeRescueUK/?ref=gs&fref=gs&hc_location=group_dialog)](../assets/5617453380b8/1*G8JAyJn8GRz5rBjBEAsKWQ.png)
 
 Source: [Refugee Rescue / ‘Mo Chara’](https://www.facebook.com/RefugeeRescueUK/?ref=gs&fref=gs&hc_location=group_dialog)
 ### Feature
@@ -30,19 +30,19 @@ The EU Commissioner for migration, Dimitris Avramopoulos dismisses accusations b
 
 
 
-![](assets/5617453380b8/1*H9SqeGZro6cSkIiy-PpSbA.png)
+![](../assets/5617453380b8/1*H9SqeGZro6cSkIiy-PpSbA.png)
 
 
 Very ironically and against all evidence, he suggests that the situation in Libya has in fact been bettered by the EU, via their international partners who are improving the situation on ground\.
 
 
-[![The shocking story of a Nigerian migrant just returning from Libya](assets/5617453380b8/18cb_hqdefault.jpg "The shocking story of a Nigerian migrant just returning from Libya")](http://www.youtube.com/watch?v=50OkSBwx1xc)
+[![The shocking story of a Nigerian migrant just returning from Libya](../assets/5617453380b8/18cb_hqdefault.jpg "The shocking story of a Nigerian migrant just returning from Libya")](http://www.youtube.com/watch?v=50OkSBwx1xc)
 
 
 Remorselessly, instead of discussing the latest accusations by Amnesty International and warnings by other human rights groups, [EU leaders will be discussing how to further reduce immigration to Europe](http://news.trust.org/item/20171213070958-s7wpk/) over dinner tomorrow\.
 
 
-![We sincerely hope they can stomach their meals as they play political chess with the lives of innocent people\. Source: No Name Kitchen\.](assets/5617453380b8/1*pu-hZ-g_6YEZRQtCjX6dXw.jpeg)
+![We sincerely hope they can stomach their meals as they play political chess with the lives of innocent people\. Source: No Name Kitchen\.](../assets/5617453380b8/1*pu-hZ-g_6YEZRQtCjX6dXw.jpeg)
 
 We sincerely hope they can stomach their meals as they play political chess with the lives of innocent people\. Source: No Name Kitchen\.
 
@@ -92,7 +92,7 @@ Following this report MSF Presna released a statement:
 
 
 
-![Source: MSF Presna](assets/5617453380b8/1*BILMRBGueAKfvmIhZSCjHw.png)
+![Source: MSF Presna](../assets/5617453380b8/1*BILMRBGueAKfvmIhZSCjHw.png)
 
 Source: MSF Presna
 ### Turkey:
@@ -136,7 +136,7 @@ Morocco has indicated that it has rescued 5 boats \(174 people\)
 [PoteraSur](https://twitter.com/salvamentogob/status/940988277213089792) warns that 3 boats remain missing carrying 120 people\.
 
 
-![Source: Oscar Camps](assets/5617453380b8/1*jaRV5hM6PgIGjXBQXhFcPw.png)
+![Source: Oscar Camps](../assets/5617453380b8/1*jaRV5hM6PgIGjXBQXhFcPw.png)
 
 Source: Oscar Camps
 
@@ -186,11 +186,11 @@ A peaceful protest calling to close Moria Hotspot has been scheduled for 11am on
 [A message from four sisters currently](https://www.facebook.com/arashampay/posts/559720451040712?pnref=story) occupying SYRZIA office, Mytilini, Lesvos:
 
 
-![](assets/5617453380b8/1*Zq5394cdkvqTSQSWThaVtA.jpeg)
+![](../assets/5617453380b8/1*Zq5394cdkvqTSQSWThaVtA.jpeg)
 
 
 
-![Source: Arash Hampay](assets/5617453380b8/1*MXbLnCkWuVMSK8ZpdtVFRw.jpeg)
+![Source: Arash Hampay](../assets/5617453380b8/1*MXbLnCkWuVMSK8ZpdtVFRw.jpeg)
 
 Source: Arash Hampay
 
@@ -261,14 +261,14 @@ In total, in the last week, 1524 people have been moved from the Aegean Islands 
 Many thousands remain in grievous conditions\.
 
 
-![Source: Michael Raber](assets/5617453380b8/1*TxHFAzAwp0BxB7Lb3tClEQ.png)
+![Source: Michael Raber](../assets/5617453380b8/1*TxHFAzAwp0BxB7Lb3tClEQ.png)
 
 Source: Michael Raber
 
 Despite the transfers to the mainland sounding like good news, No Borders Kitchen warns that it might be yet another political manoeuvre of the failed EU\-Turkey deal\. According to [STATEWATCH](http://statewatch.org/) , last week Athens persuaded Ankara to accept migrant returns, including Syrian refugees from the mainland\.
 
 
-![](assets/5617453380b8/1*y_uTd6eW2fwZMnw5sw0MUQ.png)
+![](../assets/5617453380b8/1*y_uTd6eW2fwZMnw5sw0MUQ.png)
 
 
 [A report](http://insights.careinternational.org.uk/publications/left-behind-how-the-world-is-failing-women-and-girls-on-refugee-family-reunion) , based on new research emphasises how the failure to provide safe and legal routes for those seeking asylum, particular those seeking family reunification has gendered impacts on women and girls who have been left stuck in transit countries\. The report analyses these impacts on women and girls from a women’s rights perspective, and discusses what governments may do differently to better protect women and girls fleeing persecution\.
@@ -326,15 +326,15 @@ Two LGBTQ\+ asylum seekers from the Ukraine, who have photographic evidence of b
 The Netherlands is one of four countries in Europe that consider Ukraine safe and do not make exceptions for threatened LGBTQ\+ persons\. These countries include the United Kingdom, Luxembourg, Bulgaria and the Netherlands\.
 
 
-![](assets/5617453380b8/1*1_FULkVsP6jgnrETdix_MA.jpeg)
+![](../assets/5617453380b8/1*1_FULkVsP6jgnrETdix_MA.jpeg)
 
 
 
-![](assets/5617453380b8/1*1ayAJ67VMw4nhH0E5bWEnQ.jpeg)
+![](../assets/5617453380b8/1*1ayAJ67VMw4nhH0E5bWEnQ.jpeg)
 
 
 
-![](assets/5617453380b8/1*tI1rUBdmgjLp1mWTyR-MDA.jpeg)
+![](../assets/5617453380b8/1*tI1rUBdmgjLp1mWTyR-MDA.jpeg)
 
 ### France:
 
@@ -350,7 +350,7 @@ Temporary shelters have been opened in Calais and Dunkirk after extended pressur
 The Auberge group is in need of donations as they continue to run projects that provide daily meals and material aid to displaced persons\. Follow [this link](https://www.facebook.com/calaisaction/posts/1749925885059909?hc_location=ufi) for more information on how you can help\.
 
 
-![Source: Calais Action](assets/5617453380b8/1*4YDnIZZxfcWZ4xnfCp5kUQ.jpeg)
+![Source: Calais Action](../assets/5617453380b8/1*4YDnIZZxfcWZ4xnfCp5kUQ.jpeg)
 
 Source: Calais Action
 
@@ -364,7 +364,7 @@ Photographs shows French Government workers stealing asylum seekers blankets on 
 
 
 
-![Source: Utopia 56](assets/5617453380b8/1*wYS5pay3xXYrlSCCWLgZfQ.jpeg)
+![Source: Utopia 56](../assets/5617453380b8/1*wYS5pay3xXYrlSCCWLgZfQ.jpeg)
 
 Source: Utopia 56
 

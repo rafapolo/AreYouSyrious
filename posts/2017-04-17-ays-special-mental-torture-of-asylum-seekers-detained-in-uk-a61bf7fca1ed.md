@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Mental torture of asylum seekers detained in UK
+title: "AYS SPECIAL: Mental torture of asylum seekers detained in UK"
 author: Are You Syrious?
 date: 2017-04-17T15:37:18.044+0100
 last_modified_at: 2018-03-01T14:03:54.690+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,asylum-seekers,uk,detention,special]
 description: There are 12 immigration removal centers around UK and around 3000 people are detained inside. One of the places is in the village…
 image:
-  path: assets/a61bf7fca1ed/1*2zYL4TlBuVGfIXsSOrn6nw.jpeg
+  path: ../assets/a61bf7fca1ed/1*2zYL4TlBuVGfIXsSOrn6nw.jpeg
 ---
 
 ### AYS SPECIAL: Mental torture of asylum seekers detained in UK
@@ -15,7 +15,7 @@ image:
 _There are 12 immigration removal centers around UK and around 3000 people are detained inside\. One of the places is in the village Kidlington, close to Oxford here 216 men are detained for months\. The UK government reserves the right to detain them for as long as it takes\._
 
 
-![Photo by independent volunteers in Kidlington\.](assets/a61bf7fca1ed/1*2zYL4TlBuVGfIXsSOrn6nw.jpeg)
+![Photo by independent volunteers in Kidlington\.](../assets/a61bf7fca1ed/1*2zYL4TlBuVGfIXsSOrn6nw.jpeg)
 
 Photo by independent volunteers in Kidlington\.
 

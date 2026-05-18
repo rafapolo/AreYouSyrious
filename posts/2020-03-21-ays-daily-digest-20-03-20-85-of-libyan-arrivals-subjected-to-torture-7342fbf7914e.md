@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 20/03/20: 85% of Libyan arrivals subjected to Torture.
+title: "AYS DAILY DIGEST 20/03/20: 85% of Libyan arrivals subjected to Torture."
 author: Are You Syrious?
 date: 2020-03-21T09:28:58.960+0000
 last_modified_at: 2020-03-22T11:35:51.669+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,europe,libya]
 description: MEDU report into the torture of Libyan refugees // Sweden to continue deportations to Afghanistan // First-hand accounts from Serbias…
 image:
-  path: assets/7342fbf7914e/1*ep7Oym7CewjOzOFgCu4n3w.jpeg
+  path: ../assets/7342fbf7914e/1*ep7Oym7CewjOzOFgCu4n3w.jpeg
 ---
 
 ### AYS DAILY DIGEST 20/03/20: 85% of Libyan arrivals subjected to Torture\.
@@ -15,7 +15,7 @@ image:
 MEDU report into the torture of Libyan refugees // Sweden to continue deportations to Afghanistan // First\-hand accounts from Serbia’s state of emergency
 
 
-![](assets/7342fbf7914e/1*ep7Oym7CewjOzOFgCu4n3w.jpeg)
+![](../assets/7342fbf7914e/1*ep7Oym7CewjOzOFgCu4n3w.jpeg)
 
 ### Feature
 
@@ -29,7 +29,7 @@ Exposing the brutal reality of the treatment of these refugees and the injustice
 \- and a high number of people had been subjected to forced labour or slavery for months or years\.
 
 
-![[https://mediciperidirittiumani\.org/medu/wp\-content/uploads/2020/03/ing\_maps\_web\-3\.pdf](https://mediciperidirittiumani.org/medu/wp-content/uploads/2020/03/ing_maps_web-3.pdf)](assets/7342fbf7914e/1*2lU6svZ2S8cIpMVXlTBX3A.png)
+![[https://mediciperidirittiumani\.org/medu/wp\-content/uploads/2020/03/ing\_maps\_web\-3\.pdf](https://mediciperidirittiumani.org/medu/wp-content/uploads/2020/03/ing_maps_web-3.pdf)](../assets/7342fbf7914e/1*2lU6svZ2S8cIpMVXlTBX3A.png)
 
 [https://mediciperidirittiumani\.org/medu/wp\-content/uploads/2020/03/ing\_maps\_web\-3\.pdf](https://mediciperidirittiumani.org/medu/wp-content/uploads/2020/03/ing_maps_web-3.pdf)
 
@@ -156,7 +156,7 @@ Ilaria Leccardi, who works for APS Cambalache said “We wanted a campaign to he
 In addition to APS Cambalache, a number of other organisations have developed services to help the refugee and migrant community in Italy during this period\. Il Grande Colibri, an NGO that supports LGBTI\+ refugees and migrants, and NGOs Camera a Sud and Arca di Noe have also developed video material\.
 
 
-[![Campagna #Stopcovid19 | به زبان دری](assets/7342fbf7914e/7063_hqdefault.jpg "Campagna #Stopcovid19 | به زبان دری")](https://www.youtube.com/watch?v=02B2-vTAKRE)
+[![Campagna #Stopcovid19 | به زبان دری](../assets/7342fbf7914e/7063_hqdefault.jpg "Campagna #Stopcovid19 | به زبان دری")](https://www.youtube.com/watch?v=02B2-vTAKRE)
 
 
 These organisations have also identified that these communities also need other support mechanisms and networks and so have set up multilingual telephone services or WhatsApp accounts to answer any questions individuals may have\.

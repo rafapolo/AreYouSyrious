@@ -1,5 +1,5 @@
 ---
-title: New Year digest 25/12 — 3/1: “National interests are above human rights”
+title: "New Year digest 25/12 — 3/1: “National interests are above human rights”"
 author: Are You Syrious?
 date: 2021-01-04T11:33:03.204+0000
 last_modified_at: 2021-01-04T11:55:26.097+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,human-rights,mitsotakis,unhcr,moria]
 description: …With this digest we focus instead on the two weeks at the turn of the year. From tomorrow we will start with our normal daily reporting.
 image:
-  path: assets/a87e49b13fea/1*Uv1LbgcOXaSUY6E2jO5erQ.jpeg
+  path: ../assets/a87e49b13fea/1*Uv1LbgcOXaSUY6E2jO5erQ.jpeg
 ---
 
 ### New Year Digest 25/12 — 3/1: “National interests are above human rights”
@@ -15,7 +15,7 @@ image:
 Since December 25 at _Are You Syrious?_ we have halted our Daily Digests and published a series of Specials which focused on different topics related to 2020\. With this digest we focus instead on the two weeks at the turn of the year\. From tomorrow we will start with our normal daily reporting\.
 
 
-![I swear… that I will never stay silent\! I swear to smiling of displaced children\. I swear to tears of injured mothers\. I swear to million of hidden dreams\. That, I will never stay silent\! \(extract of a poem by [Parwana Amiri](https://twitter.com/parwana_amiri/status/1345814247201267712) , full poem [HERE](https://brushandbow.com/i-swear-that-i-will-never-stay-silent/) — Illustration by Shukran Shirzad, Iranian artist in Moria 2\.0, Greece\)](assets/a87e49b13fea/1*Uv1LbgcOXaSUY6E2jO5erQ.jpeg)
+![I swear… that I will never stay silent\! I swear to smiling of displaced children\. I swear to tears of injured mothers\. I swear to million of hidden dreams\. That, I will never stay silent\! \(extract of a poem by [Parwana Amiri](https://twitter.com/parwana_amiri/status/1345814247201267712) , full poem [HERE](https://brushandbow.com/i-swear-that-i-will-never-stay-silent/) — Illustration by Shukran Shirzad, Iranian artist in Moria 2\.0, Greece\)](../assets/a87e49b13fea/1*Uv1LbgcOXaSUY6E2jO5erQ.jpeg)
 
 I swear… that I will never stay silent\! I swear to smiling of displaced children\. I swear to tears of injured mothers\. I swear to million of hidden dreams\. That, I will never stay silent\! \(extract of a poem by [Parwana Amiri](https://twitter.com/parwana_amiri/status/1345814247201267712) , full poem [HERE](https://brushandbow.com/i-swear-that-i-will-never-stay-silent/) — Illustration by Shukran Shirzad, Iranian artist in Moria 2\.0, Greece\)
 #### Featured — “National interests are above human rights\.”
@@ -94,11 +94,11 @@ At the Evros land border, Alarm Phone [reported](https://twitter.com/alarm_phone
 LEBANON
 
 
-![](assets/a87e49b13fea/1*WEWRCl7OQ5Q-tzug5GuYPA.jpeg)
+![](../assets/a87e49b13fea/1*WEWRCl7OQ5Q-tzug5GuYPA.jpeg)
 
 
 
-![\(Photo Credit: [Mohammad Hamoud](https://www.facebook.com/mohammad.hamoud/posts/10224626432427044) \)](assets/a87e49b13fea/1*Dj3j6rivs0Fbse_FlgJ0Cw.jpeg)
+![\(Photo Credit: [Mohammad Hamoud](https://www.facebook.com/mohammad.hamoud/posts/10224626432427044) \)](../assets/a87e49b13fea/1*Dj3j6rivs0Fbse_FlgJ0Cw.jpeg)
 
 \(Photo Credit: [Mohammad Hamoud](https://www.facebook.com/mohammad.hamoud/posts/10224626432427044) \)
 
@@ -112,7 +112,7 @@ Winter did not stop people from trying to seek safety in Europe\. Alarm Phone, A
 #### Central Med
 
 
-![January 2, Central Med \(Photo by [Joan Mateu Parra, Open Arms](https://twitter.com/openarms_found/status/1345380232933634049) \)](assets/a87e49b13fea/1*sPeCl1KpoIHbZFKBj5alcA.jpeg)
+![January 2, Central Med \(Photo by [Joan Mateu Parra, Open Arms](https://twitter.com/openarms_found/status/1345380232933634049) \)](../assets/a87e49b13fea/1*sPeCl1KpoIHbZFKBj5alcA.jpeg)
 
 January 2, Central Med \(Photo by [Joan Mateu Parra, Open Arms](https://twitter.com/openarms_found/status/1345380232933634049) \)
 
@@ -183,7 +183,7 @@ GENERAL
 #### Worrying New Years wishes by [UN Refugee Agency](https://medium.com/u/75f2bdd89854)
 
 
-![“Just look at little Husna’s smile\! At only five months old, she’s never been to her family’s home country of Afghanistan\. But — thanks to UNHCR — she is one of the 6 million people who are being supported to make a safe return to the nation” \(UNHCR, reported by Josoor’s [Natalie Gruber](https://twitter.com/NatalieSGruber/status/1345735669054844928) \)](assets/a87e49b13fea/1*htPvyFSGYTD3AKApzd5nXw.png)
+![“Just look at little Husna’s smile\! At only five months old, she’s never been to her family’s home country of Afghanistan\. But — thanks to UNHCR — she is one of the 6 million people who are being supported to make a safe return to the nation” \(UNHCR, reported by Josoor’s [Natalie Gruber](https://twitter.com/NatalieSGruber/status/1345735669054844928) \)](../assets/a87e49b13fea/1*htPvyFSGYTD3AKApzd5nXw.png)
 
 “Just look at little Husna’s smile\! At only five months old, she’s never been to her family’s home country of Afghanistan\. But — thanks to UNHCR — she is one of the 6 million people who are being supported to make a safe return to the nation” \(UNHCR, reported by Josoor’s [Natalie Gruber](https://twitter.com/NatalieSGruber/status/1345735669054844928) \)
 

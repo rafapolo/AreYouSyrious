@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 18–19/11/21: 7 in 10 people on the move subject to detention in Greece, report…
+title: "AYS News Digest 18–19/11/21: 7 in 10 people on the move subject to detention in Greece, report…"
 author: Are You Syrious?
 date: 2021-11-20T16:18:48.689+0000
 last_modified_at: 2021-11-20T16:18:48.689+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,migration,refugees,greece,migrants]
 description: Sarah, Sean & Nassos trial delayed // 10 people die in the Med // Government makes Samos camp into prison // New camp opens in Bosnia //…
 image:
-  path: assets/589e7139476e/0*d61TjN17L21itagx.jpeg
+  path: ../assets/589e7139476e/0*d61TjN17L21itagx.jpeg
 ---
 
 ### Digest
@@ -15,7 +15,7 @@ image:
 ### Sarah, Sean & Nassos trial delayed // 10 people die in the Med // Government makes Samos camp into prison // New camp opens in Bosnia // Updates from Poland\-Belarus
 
 
-![](assets/589e7139476e/0*_ouRSVo8rJr3kalZ.jpeg)
+![](../assets/589e7139476e/0*_ouRSVo8rJr3kalZ.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----feb668b7d02-----------------------------------)
@@ -26,11 +26,11 @@ image:
 ### FEATURE — In Greece, detention of PoM is ‘the default,’ new research shows
 
 
-![](assets/589e7139476e/0*0oM3NlQKDZuZ71mf)
+![](../assets/589e7139476e/0*0oM3NlQKDZuZ71mf)
 
 
 
-![](assets/589e7139476e/0*GJfGTQpuHIX3G0GX.jpeg)
+![](../assets/589e7139476e/0*GJfGTQpuHIX3G0GX.jpeg)
 
 
 Korydallos Prison outside Athens, Greece’s largest jail and a maximum\-security prison\. \(Photo: [Flickr, CC 2\.0](https://www.flickr.com/photos/23899489@N02/15485307155/) \)
@@ -46,11 +46,11 @@ The report, entitled [“Detention as the default: How Greece and the EU are gen
 Nearly half of those detained \(46%\) remained in administrative detention for over six months, while one in five people were held for long periods of time in police cells, normally designed to hold individuals for only a few hours\. Pregnant women, children and people with disabilities were detained without proper access to health care and legal aid, the report added\.
 
 
-![](assets/589e7139476e/0*m_MPJzClbuKZXIHt)
+![](../assets/589e7139476e/0*m_MPJzClbuKZXIHt)
 
 
 
-![](assets/589e7139476e/0*KAHZdU0YNxSmN4zD.jpeg)
+![](../assets/589e7139476e/0*KAHZdU0YNxSmN4zD.jpeg)
 
 
 Graffiti in the Exarcheia neighborhood of Athens\. \(Photo: [Flickr, CC BY\-NC\-SA 2\.0](https://www.flickr.com/photos/aestheticsofcrisis/50143464926/in/photostream/) \)
@@ -87,7 +87,7 @@ Prior to this confrontation, Sea Watch 4 announced it had rescued two boats in d
 ### Greece closes Samos camp for those with no valid ID, or with second asylum rejection, turning the camp into a prison for many
 
 
-![](assets/589e7139476e/0*I7P4mlGDp7ikS12C.jpeg)
+![](../assets/589e7139476e/0*I7P4mlGDp7ikS12C.jpeg)
 
 
 Zervou camp on Samos \(Photo: [MSF](https://www.infomigrants.net/en/post/35160/new-refugee-camp-on-samos-like-a-prison-says-msf) \)
@@ -101,11 +101,11 @@ The decision was [decried by advocates](https://www.samos24.gr/archives/76131?fb
 After the decision was announced, camp residents protested, holding signs, one of which read, “Zervou jail\. Our rights was denied\. No going to school\. No going to market\.”
 
 
-![](assets/589e7139476e/0*uETqOxdUlnDXeFYA)
+![](../assets/589e7139476e/0*uETqOxdUlnDXeFYA)
 
 
 
-![](assets/589e7139476e/0*fDWd0iKi4RXRxold.jpeg)
+![](../assets/589e7139476e/0*fDWd0iKi4RXRxold.jpeg)
 
 
 \(Photo: [Europe Must Act](https://twitter.com/EuropeMustAct/status/1461344109822504971?fbclid=IwAR3IAhb0moqLX-_8zd0MgWBE-Kg76BgABGjEo035VhOMmG5YA2nxcaqOe4o) \)
@@ -137,11 +137,11 @@ While the old Lipa camp was only for men, this new facility will be like Lesvos�
 Lipa has long been criticized as a woefully inadequate facility\. Far from the city, there are no services in the area and little public transportation to get into Bihać\. The old camp was initially designed for summer weather, and as winter approached last year, authorities still had not winterized the tents properly and heating and electricity were either intermittent or non\-existent\. People were really left to freeze in the middle of nowhere\.
 
 
-![](assets/589e7139476e/0*Wq18RJhLmuyvNvS_)
+![](../assets/589e7139476e/0*Wq18RJhLmuyvNvS_)
 
 
 
-![](assets/589e7139476e/0*lE3LOVp_9vCMi_wP.jpeg)
+![](../assets/589e7139476e/0*lE3LOVp_9vCMi_wP.jpeg)
 
 
 Lipa camp on fire in December 2020\. \(Photo: [AP](https://www.euronews.com/2020/12/23/huge-fire-breaks-out-at-lipa-migrant-camp-near-bosnia-s-border-with-croatia) \)
@@ -159,11 +159,11 @@ Sattler called Lipa “a success story of BiH\.”
 Anyone who even drives by the camp for ten seconds would hardly call it a success story\. The camp looks like a prison, surrounded by a high fence, the Isoboxes where people will live appearing ill\-suited for freezing Balkan winters\. Really, if this is a ‘success story,’ we have to radically rethink our notion of success\.
 
 
-![](assets/589e7139476e/0*jLOokQfc6ZtkqKNp)
+![](../assets/589e7139476e/0*jLOokQfc6ZtkqKNp)
 
 
 
-![](assets/589e7139476e/0*d61TjN17L21itagx.jpeg)
+![](../assets/589e7139476e/0*d61TjN17L21itagx.jpeg)
 
 
 The new Lipa \(Photo: [N1](https://ba.n1info.com/english/news/newly-built-lipa-migrant-centre-opens-in-bosnia/?fbclid=IwAR34FL9d7Pbzd1t5kP0efAZtekAU5bGUJtZKg8lvYGxRtjFOwdioaPJNi7w) \)

@@ -1,24 +1,24 @@
 ---
-title: AYS Weekend Digest 23–24/01/2021: UK — The Home Office VS the Law
+title: "AYS Weekend Digest 23–24/01/2021: UK — The Home Office VS the Law"
 author: Are You Syrious?
 date: 2021-01-25T15:55:20.835+0000
 last_modified_at: 2021-01-25T15:55:20.835+0000
 categories: Are You Syrious?
 tags: [digest,refugees,priti-patel,eu-turkey-deal,mawda]
-description: SEA: 17 people dead, more than 400 rescued and transported to Italy // ETHIOPIA: reports of attacks on refugee camps // GREECE…
+description: "SEA: 17 people dead, more than 400 rescued and transported to Italy // ETHIOPIA: reports of attacks on refugee camps // GREECE…"
 image:
-  path: assets/82e0b2051657/0*zdRP9Lj2hb_jxITO.jpeg
+  path: ../assets/82e0b2051657/0*zdRP9Lj2hb_jxITO.jpeg
 ---
 
 ### AYS Weekend Digest 23–24/01/2021: UK — The Home Office VS the Law
 #### SEA: 17 people dead, more than 400 rescued and transported to Italy // ETHIOPIA: reports of attacks on refugee camps // GREECE: deportations under EU\-Turkey deal to restart in March // BELGIUM: trial for Mawda’s death is a symbol of the shattered justice system\.
 
 
-![](assets/82e0b2051657/0*gxrZ7gIoIZ4g1Ver)
+![](../assets/82e0b2051657/0*gxrZ7gIoIZ4g1Ver)
 
 
 
-![](assets/82e0b2051657/0*zdRP9Lj2hb_jxITO.jpeg)
+![](../assets/82e0b2051657/0*zdRP9Lj2hb_jxITO.jpeg)
 
 ### Featured: UK — The Home Office vs the Law
 
@@ -234,11 +234,11 @@ Utopia56 has [occupied](https://mobile.twitter.com/Utopia_56/status/135334745634
 ### Calais: bike racks where people sleep
 
 
-![](assets/82e0b2051657/0*HEubL0IOM0fx5_if)
+![](../assets/82e0b2051657/0*HEubL0IOM0fx5_if)
 
 
 
-![](assets/82e0b2051657/0*IEvS7zUGHhLnA4qk.jpeg)
+![](../assets/82e0b2051657/0*IEvS7zUGHhLnA4qk.jpeg)
 
 
 WORTH READING

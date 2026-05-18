@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 25/12/2017: “Dear Santa, all we wanted was to be safe”
+title: "AYS DAILY DIGEST 25/12/2017: “Dear Santa, all we wanted was to be safe”"
 author: Are You Syrious?
 date: 2017-12-26T10:06:55.196+0000
 last_modified_at: 2017-12-26T10:37:44.419+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,christmas,european-union,pope-francis,human-rights]
 description: Do leaders of the EU hear messages of religious leaders? // Do they hear voices of refugees and migrants all over Europe? // Do they see…
 image:
-  path: assets/f4ca0acae383/1*AcGLf056YKXXebJB2cV-_g.png
+  path: ../assets/f4ca0acae383/1*AcGLf056YKXXebJB2cV-_g.png
 ---
 
 ### AYS DAILY DIGEST 25/12/2017: “Dear Santa, all we wanted was to be safe”
@@ -15,7 +15,7 @@ image:
 _Do leaders of the EU hear messages of religious leaders? // Do they hear voices of refugees and migrants all over Europe? // Do they see kids dying in the sea? // Do they see people being trapped in camps and sleeping in the streets because of the closed borders? //_
 
 
-![Dear Europe, Merry Christmas\. Source: Alex Falcó Chang, Art Against](assets/f4ca0acae383/1*j9dNz1LnBoCNPQTBMw_Y6A.jpeg)
+![Dear Europe, Merry Christmas\. Source: Alex Falcó Chang, Art Against](../assets/f4ca0acae383/1*j9dNz1LnBoCNPQTBMw_Y6A.jpeg)
 
 Dear Europe, Merry Christmas\. Source: Alex Falcó Chang, Art Against
 ### Feature: A message from the Pope on Christmas… but will it change anything for refugees?
@@ -38,7 +38,7 @@ From [A Christmas Carol for Refugees](http://s.telegraph.co.uk/graphics/projects
 As millions of Roman Catholics celebrate Christmas today worldwide, Their spiritual leader [Pope Francis urges](http://www.bbc.com/news/world-europe-42475252) that people do not to ignore the plight of refugees; many of whom have spent what is a day of celebration for millions of people in Europe; scared, unsafe and unwelcome\.
 
 
-![Merry Christmas from a refugee camp, near Thessaloniki \(Greece\) Source: [**La luna di Vasilika** ‏](https://twitter.com/LunaDiVasilika)](assets/f4ca0acae383/1*AcGLf056YKXXebJB2cV-_g.png)
+![Merry Christmas from a refugee camp, near Thessaloniki \(Greece\) Source: [**La luna di Vasilika** ‏](https://twitter.com/LunaDiVasilika)](../assets/f4ca0acae383/1*AcGLf056YKXXebJB2cV-_g.png)
 
 Merry Christmas from a refugee camp, near Thessaloniki \(Greece\) Source: [**La luna di Vasilika** ‏](https://twitter.com/LunaDiVasilika)
 
@@ -68,7 +68,7 @@ We wonder whether the Pope’s message will be heard by the leaders of EU Member
 …But for the 10,000 unaccompanied children who made their way to Europe on their own in 2017, we will continue to hope that things will change for the better in time for Christmas next year\.
 
 
-![](assets/f4ca0acae383/1*ACPlQpWClEfhN9Uz_H_2dg.png)
+![](../assets/f4ca0acae383/1*ACPlQpWClEfhN9Uz_H_2dg.png)
 
 ### Turkey:
 
@@ -93,7 +93,7 @@ There were 18 women and 27 children on board the rescued ship, and all refugees 
 The Aegean Sea remains one of the main routes of travel for refugees trying to reach Europe\. This year nearly 19,000 people attempted to cross it\. 32 people have lost their lives an 121 persons have been arrested for offences related to people smuggling\.
 
 
-![Migration Statistics in the Aegean Sea, Source: SAR Watch MED](assets/f4ca0acae383/1*Bi0Hl34kMusBR6BJGgcVOQ.png)
+![Migration Statistics in the Aegean Sea, Source: SAR Watch MED](../assets/f4ca0acae383/1*Bi0Hl34kMusBR6BJGgcVOQ.png)
 
 Migration Statistics in the Aegean Sea, Source: SAR Watch MED
 ### **Sea:**
@@ -117,19 +117,19 @@ Migration Statistics in the Aegean Sea, Source: SAR Watch MED
 **Some families spent Christmas outside in the cold, without shelter, and with crumbling hope…**
 
 
-![](assets/f4ca0acae383/1*_Rrq3ZrjwRFlQW72YdUPmw.jpeg)
+![](../assets/f4ca0acae383/1*_Rrq3ZrjwRFlQW72YdUPmw.jpeg)
 
 
 
-![](assets/f4ca0acae383/1*HS5YXdF8BfTc_VuBYjjCDw.jpeg)
+![](../assets/f4ca0acae383/1*HS5YXdF8BfTc_VuBYjjCDw.jpeg)
 
 
 
-![](assets/f4ca0acae383/1*BCVDa2BFXBGeY2N-r4lodA.jpeg)
+![](../assets/f4ca0acae383/1*BCVDa2BFXBGeY2N-r4lodA.jpeg)
 
 
 
-![](assets/f4ca0acae383/1*6urrStTTayPtFa0n3cBZdw.jpeg)
+![](../assets/f4ca0acae383/1*6urrStTTayPtFa0n3cBZdw.jpeg)
 
 
 Between 100 and 150 refugee, including families with children have reached the border post of Tovarnik today, 5 km from the Serbian town of Sid\. They travelled from many camps around Serbia\. According to volunteers, the group was mislead into thinking the border will open today\.
@@ -238,15 +238,15 @@ For Most refugees in Paris, Christmas was spent in fear of being swept away by t
 
 
 
-![](assets/f4ca0acae383/1*W-NFL0huL_pEanbPe0BUTw.jpeg)
+![](../assets/f4ca0acae383/1*W-NFL0huL_pEanbPe0BUTw.jpeg)
 
 
 
-![](assets/f4ca0acae383/1*OI84ai8ERr8FDTuVRtmSkQ.jpeg)
+![](../assets/f4ca0acae383/1*OI84ai8ERr8FDTuVRtmSkQ.jpeg)
 
 
 
-![Source: [Comité de soutien des Migrants de la Chapelle](https://www.facebook.com/LaMeutePhotographie/photos/?tab=album&album_id=317306368673698)](assets/f4ca0acae383/1*YhI22n3B8XEpjZEhlVV_rg.jpeg)
+![Source: [Comité de soutien des Migrants de la Chapelle](https://www.facebook.com/LaMeutePhotographie/photos/?tab=album&album_id=317306368673698)](../assets/f4ca0acae383/1*YhI22n3B8XEpjZEhlVV_rg.jpeg)
 
 Source: [Comité de soutien des Migrants de la Chapelle](https://www.facebook.com/LaMeutePhotographie/photos/?tab=album&album_id=317306368673698)
 

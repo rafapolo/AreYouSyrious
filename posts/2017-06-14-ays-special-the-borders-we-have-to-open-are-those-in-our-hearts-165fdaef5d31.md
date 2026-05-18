@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: The borders we have to open are those in our hearts
+title: "AYS SPECIAL: The borders we have to open are those in our hearts"
 author: Are You Syrious?
 date: 2017-06-14T09:12:30.379+0100
 last_modified_at: 2018-03-01T14:22:05.405+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,eva-novotny,austria,open-borders,special]
 description: Dozens of refugees and migrants from all over the world know Eva Novotny from small village of Gablitz in Austria. She and her family have…
 image:
-  path: assets/165fdaef5d31/1*92ln-TAVuTbiRwHPvLZCEg.jpeg
+  path: ../assets/165fdaef5d31/1*92ln-TAVuTbiRwHPvLZCEg.jpeg
 ---
 
 ### AYS SPECIAL: The borders we have to open are those in our hearts
@@ -15,7 +15,7 @@ image:
 _Dozens of refugees and migrants from all over the world know Eva Novotny from small village of Gablitz in Austria\. She and her family have been offering help to people on their journeys for over 20 years\. And for all that time they are facing the same problems — prejudice\. Her fight is a lesson for all of us_
 
 
-![_Eva Novotny with photo books full of memories\. Photo AYS_](assets/165fdaef5d31/1*92ln-TAVuTbiRwHPvLZCEg.jpeg)
+![_Eva Novotny with photo books full of memories\. Photo AYS_](../assets/165fdaef5d31/1*92ln-TAVuTbiRwHPvLZCEg.jpeg)
 
 _Eva Novotny with photo books full of memories\. Photo AYS_
 
@@ -26,7 +26,7 @@ Eva Novotny, a former teacher, is one of the people who keep their doors open fo
 In her house it is perfectly normal to meet people from anywhere\. They came to relax, cook, some of them used to come and have shower, or they came when they just needed a friend , being sure that they will find somebody here\. The doors are always open, it seems\. And they have been for over twenty years…
 
 
-![The first refugees were from Bosnia, over 20 years ago\. Photo AYS\.](assets/165fdaef5d31/1*qYMhv9O-MlawEHXYh8hz3A.jpeg)
+![The first refugees were from Bosnia, over 20 years ago\. Photo AYS\.](../assets/165fdaef5d31/1*qYMhv9O-MlawEHXYh8hz3A.jpeg)
 
 The first refugees were from Bosnia, over 20 years ago\. Photo AYS\.
 
@@ -41,7 +41,7 @@ Still, at the same time, Eva remembers these first encounters as very painful fo
 Eva, with experience as school teacher, had an idea\. Create something together, and then try to sell that, again together, at the local market\. It would not only bring some money to refugees, but also help them to meet people from the community and to introduce themselves\. At the end, they made some small money, not enough for anything, but enough to keep them busy and to start the conversation\. At least, that was what Eva and Bosnia were hoping for\. But, it did not work\. However, they kept on together…
 
 
-![Solidarity in practice\. Photo AYS\.](assets/165fdaef5d31/1*JiWArPcI1YcRdUQHpOPrPA.jpeg)
+![Solidarity in practice\. Photo AYS\.](../assets/165fdaef5d31/1*JiWArPcI1YcRdUQHpOPrPA.jpeg)
 
 Solidarity in practice\. Photo AYS\.
 
@@ -68,7 +68,7 @@ She remember that for Kosovo refugees it was even harder than for Bosnians, and 
 Since 1992, many people came to Eva’s life\. Some she met in her village some in Vienna\. She keeps close contacts with almost all of them\. She has dozen of photo albums with their pictures, and remembers almost all of their stories, names and countries where they are coming from\. Bosnia, Kosovo, Afghanistan, Iran, Kongo, Somalia, Chechnya, Mongolia, Palestine… are just some of the countries people came from to Eva’s life\. Some have disappointed her, but most of them made her life better\.
 
 
-![All this time Eva is keeping diaries, and she even published three books based on her encounters with friend from all around the world\. Photo AYS\.](assets/165fdaef5d31/1*Mixr6y554geqm0QyXBoQ7Q.jpeg)
+![All this time Eva is keeping diaries, and she even published three books based on her encounters with friend from all around the world\. Photo AYS\.](../assets/165fdaef5d31/1*Mixr6y554geqm0QyXBoQ7Q.jpeg)
 
 All this time Eva is keeping diaries, and she even published three books based on her encounters with friend from all around the world\. Photo AYS\.
 
@@ -83,7 +83,7 @@ Eva talks while holding dozen of photo albums in the front of us, and occasional
 Over 20 years of volunteering gave Eva and her family many new friends, but they also lost some old once\. “I felt that my volunteerism affected my relationship with some of my old friends\. I lost a lot of them because I had too much contacts with foreigners\. But, at the same time, I gained new friends who do not see problem in this\.”
 
 
-![Eva’s story about the world today\. Photo AYS\.](assets/165fdaef5d31/1*RWTAl6RK0nBKVjBE1L2Rzg.jpeg)
+![Eva’s story about the world today\. Photo AYS\.](../assets/165fdaef5d31/1*RWTAl6RK0nBKVjBE1L2Rzg.jpeg)
 
 Eva’s story about the world today\. Photo AYS\.
 

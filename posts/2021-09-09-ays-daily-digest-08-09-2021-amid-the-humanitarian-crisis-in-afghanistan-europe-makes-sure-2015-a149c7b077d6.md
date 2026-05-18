@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 08/09/2021: Amid the humanitarian crisis in Afghanistan, Europe makes sure “2015…
+title: "AYS Daily Digest 08/09/2021: Amid the humanitarian crisis in Afghanistan, Europe makes sure “2015…"
 author: Are You Syrious?
 date: 2021-09-09T12:53:57.583+0100
 last_modified_at: 2021-09-09T15:36:35.424+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,moria,afghanistan]
 description: Protest against new plans for EURODAC // Report on political economy of the border industrial complex published // Greece one year after…
 image:
-  path: assets/a149c7b077d6/1*CPBT6mHNdBXfZHCjoViOjA.jpeg
+  path: ../assets/a149c7b077d6/1*CPBT6mHNdBXfZHCjoViOjA.jpeg
 ---
 
 ### AYS Daily Digest 08/09/2021: Amid the humanitarian crisis in Afghanistan, Europe makes sure “2015 won’t happen again”
 #### Protest against new plans for EURODAC // Report on political economy of the border industrial complex published // Greece one year after the fire in Moria // Complaint filed against Samos authorities for pushback // New deportation and return bill implemented in Greece, despite criticism // Updates from the Sea // New outrageous anti\-migrant law in Denmark
 
 
-![One year ago today, Moria camp burned down\. See below\. Copyright: Sea Watch](assets/a149c7b077d6/1*CPBT6mHNdBXfZHCjoViOjA.jpeg)
+![One year ago today, Moria camp burned down\. See below\. Copyright: Sea Watch](../assets/a149c7b077d6/1*CPBT6mHNdBXfZHCjoViOjA.jpeg)
 
 One year ago today, Moria camp burned down\. See below\. Copyright: Sea Watch
 ### FEATURE: Border enforcement amid humanitarian crisis in Afghanistan

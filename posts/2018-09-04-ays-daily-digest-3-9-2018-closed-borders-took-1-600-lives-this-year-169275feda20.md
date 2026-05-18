@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 3/9/2018: Closed borders took 1.600 lives this year
+title: "AYS DAILY DIGEST 3/9/2018: Closed borders took 1.600 lives this year"
 author: Are You Syrious?
 date: 2018-09-04T09:32:07.496+0100
 last_modified_at: 2018-09-06T08:22:11.799+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,european-union,europe,digest,croatia]
 description: Europe is not a safe haven // About 2,500 people pushed back from Croatia this year // State of emergency in Tripoli // 8,359 people in…
 image:
-  path: assets/169275feda20/1*YIFOTzx1h6X7UoTHUCOXdQ.jpeg
+  path: ../assets/169275feda20/1*YIFOTzx1h6X7UoTHUCOXdQ.jpeg
 ---
 
 ### AYS DAILY DIGEST 3/9/2018: Closed borders took 1\.600 lives this year
@@ -16,7 +16,7 @@ _Europe is not a safe haven // About 2,500 people pushed back from Croatia this 
 
 
 ![“Thousands of people remain trapped in the Balkans suffering temperatures of more than 40 degrees in times of storms\.
-They sleep outdoors with no resources, including hundreds of families and unaccompanied minors\.” By Gabriel Tizon](assets/169275feda20/1*YIFOTzx1h6X7UoTHUCOXdQ.jpeg)
+They sleep outdoors with no resources, including hundreds of families and unaccompanied minors\.” By Gabriel Tizon](../assets/169275feda20/1*YIFOTzx1h6X7UoTHUCOXdQ.jpeg)
 
 “Thousands of people remain trapped in the Balkans suffering temperatures of more than 40 degrees in times of storms\.
 They sleep outdoors with no resources, including hundreds of families and unaccompanied minors\.” By Gabriel Tizon
@@ -86,7 +86,7 @@ In Moria, Lesvos, the number of people has reached 8,359, although the centre’
 [Philippa Kempson](https://www.facebook.com/philippa.kempson.1?fb_dtsg_ag=AdzSjWWR97C0J0ctBmTAf514GYy37iWtnUTPX9PwxtxPgw%3AAdyzcdFQWmt7Zf1lIF5q3IS9O5M03hs7wqRoJketbqnLCQ) , activist and volunteer on the island, reports that families are leaving Moria to sleep on the streets because there they feel safer\.
 
 
-![](assets/169275feda20/1*8KSd95YqFnvEBcQS5KrKIQ.jpeg)
+![](../assets/169275feda20/1*8KSd95YqFnvEBcQS5KrKIQ.jpeg)
 
 
 
@@ -104,7 +104,7 @@ In Moria, Lesvos, the number of people has reached 8,359, although the centre’
 _“Community leaders have been held by police during recent fights, throughout the night, and threatened that they will themselves face criminal prosecution if they refuse to give over names to the police\. This is not the first time the police have targeted community leaders\.”_
 
 
-![](assets/169275feda20/1*XkF-qgLedv_68rKZMkcmpw.png)
+![](../assets/169275feda20/1*XkF-qgLedv_68rKZMkcmpw.png)
 
 
 [I AM YOU](https://www.facebook.com/groups/AthensVolunteersInformation/permalink/1491209711011321/) are looking for an Operations Coordinator role\.
@@ -115,21 +115,21 @@ The school year has started even in this small Balkan country where currently hu
 Children are living in improvised camps in several cities, they are registered, but those responsible, as well as the big NGOs, have not put enough effort into making this happen\. Under the law, all children have the right to access to education in Bosnia\.
 
 
-![](assets/169275feda20/1*4YljXwSzIrmOQk1ArJkqzg.jpeg)
+![](../assets/169275feda20/1*4YljXwSzIrmOQk1ArJkqzg.jpeg)
 
 
 
-![](assets/169275feda20/1*V03AQEk7_HQsZdjF70LcGg.jpeg)
+![](../assets/169275feda20/1*V03AQEk7_HQsZdjF70LcGg.jpeg)
 
 
 
-![Bihac, improvised camp\. Photos by Red Cross Bihac\.](assets/169275feda20/1*gri4QZOzTYfW7c3eTGKm2Q.jpeg)
+![Bihac, improvised camp\. Photos by Red Cross Bihac\.](../assets/169275feda20/1*gri4QZOzTYfW7c3eTGKm2Q.jpeg)
 
 Bihac, improvised camp\. Photos by Red Cross Bihac\.
 #### Sweden
 
 
-![“When so many people blindly follow the right\-extremism we have to step up and show them the right path\. Thank you all for joining and turning your back on this racist bullshit\. All people are equal and that’s not some political question that can be discussed, it’s a fact\. Love always wins, we need to prove that in this election ❤” By [Erik Gerhardsson](https://www.facebook.com/erik.gerhardsson.7?fb_dtsg_ag=AdzSjWWR97C0J0ctBmTAf514GYy37iWtnUTPX9PwxtxPgw%3AAdyzcdFQWmt7Zf1lIF5q3IS9O5M03hs7wqRoJketbqnLCQ)](assets/169275feda20/1*dkT6go-SEqkMbhU492XBCw.jpeg)
+![“When so many people blindly follow the right\-extremism we have to step up and show them the right path\. Thank you all for joining and turning your back on this racist bullshit\. All people are equal and that’s not some political question that can be discussed, it’s a fact\. Love always wins, we need to prove that in this election ❤” By [Erik Gerhardsson](https://www.facebook.com/erik.gerhardsson.7?fb_dtsg_ag=AdzSjWWR97C0J0ctBmTAf514GYy37iWtnUTPX9PwxtxPgw%3AAdyzcdFQWmt7Zf1lIF5q3IS9O5M03hs7wqRoJketbqnLCQ)](../assets/169275feda20/1*dkT6go-SEqkMbhU492XBCw.jpeg)
 
 “When so many people blindly follow the right\-extremism we have to step up and show them the right path\. Thank you all for joining and turning your back on this racist bullshit\. All people are equal and that’s not some political question that can be discussed, it’s a fact\. Love always wins, we need to prove that in this election ❤” By [Erik Gerhardsson](https://www.facebook.com/erik.gerhardsson.7?fb_dtsg_ag=AdzSjWWR97C0J0ctBmTAf514GYy37iWtnUTPX9PwxtxPgw%3AAdyzcdFQWmt7Zf1lIF5q3IS9O5M03hs7wqRoJketbqnLCQ)
 
@@ -139,7 +139,7 @@ Bihac, improvised camp\. Photos by Red Cross Bihac\.
 The situation [at the Dunkirk camp](https://www.facebook.com/MobileRefugeeSupport/posts/837110176494595?__xts__%5B0%5D=68.ARCO_j64p8fzBtb127586ZN9iqc_CjZ59ht_NjBvXcxPjUlPOMzUmFnn-g7ELyeZ7D4JTHoYXPbruIHxFPfXFCRyhTYHOn2DZ4jlgUJMDSc0UgDEsS6_Y0fX4Fl6xKGFxi9oeOiKJVdrFcTddO6v-pWWyU8DbtQwF7hddiEgjKTBPwqyOSjWEf9uYKzRaFrKwuZjb5xUWnbiCnUgdP568GP1FaA8IwKiGBFMC_8&__tn__=-R) has been stable over this past week with over 250 tents covering a large area of woodland, sandwiched between a motorway and a railway\.
 
 
-![By [Mobile Refugee Support](http://www.mobilerefugeesupport.org)](assets/169275feda20/1*lxf839vc_wEox4v3pM25cQ.jpeg)
+![By [Mobile Refugee Support](http://www.mobilerefugeesupport.org)](../assets/169275feda20/1*lxf839vc_wEox4v3pM25cQ.jpeg)
 
 By [Mobile Refugee Support](http://www.mobilerefugeesupport.org)
 #### Germany

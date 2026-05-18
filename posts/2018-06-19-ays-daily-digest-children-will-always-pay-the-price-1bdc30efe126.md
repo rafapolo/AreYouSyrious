@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 18/6/18: Children will always pay the price
+title: "AYS Daily Digest 18/6/18: Children will always pay the price"
 author: Are You Syrious?
 date: 2018-06-19T11:45:43.190+0100
 last_modified_at: 2018-06-19T15:54:09.305+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,europe,children,human-rights,usa]
 description: A 4-year old dies in a camp in Greece / US — Families separated, worrying trend / Refugee protest at the Bosnian-Croatian border, situation…
 image:
-  path: assets/1bdc30efe126/1*3r4duom1VsbiE4FIXQugcQ.jpeg
+  path: ../assets/1bdc30efe126/1*3r4duom1VsbiE4FIXQugcQ.jpeg
 ---
 
 ### AYS Daily Digest 18/6/18: Children will always pay the price
 #### A 4\-year old dies in a camp in Greece / US — Families separated, worrying trend / Refugee protest at the Bosnian\-Croatian border, situation worsens / Croatia to build new facilities in rural isolated area for accommodating families arriving from Turkey, MoI says / France — 15 organisations call for senators to put a definitive end to the administration detention of minors / more news
 
 
-![Border crossing between Bosnia and Herzegovina on the one hand and Croatia on the other: People have been forcibly “discouraged” from crossing the border for months now and on Monday they protested by gathering at the border area with the intention of crossing it, as well as pointing to the dreadful conditions and no perspective for obtaining international protection in Bosnia and Herzegovina \(Featured photo: No Name Kitchen Velika Kladuša\)](assets/1bdc30efe126/1*3r4duom1VsbiE4FIXQugcQ.jpeg)
+![Border crossing between Bosnia and Herzegovina on the one hand and Croatia on the other: People have been forcibly “discouraged” from crossing the border for months now and on Monday they protested by gathering at the border area with the intention of crossing it, as well as pointing to the dreadful conditions and no perspective for obtaining international protection in Bosnia and Herzegovina \(Featured photo: No Name Kitchen Velika Kladuša\)](../assets/1bdc30efe126/1*3r4duom1VsbiE4FIXQugcQ.jpeg)
 
 Border crossing between Bosnia and Herzegovina on the one hand and Croatia on the other: People have been forcibly “discouraged” from crossing the border for months now and on Monday they protested by gathering at the border area with the intention of crossing it, as well as pointing to the dreadful conditions and no perspective for obtaining international protection in Bosnia and Herzegovina \(Featured photo: No Name Kitchen Velika Kladuša\)
 #### FEATURE
@@ -103,11 +103,11 @@ However, up to now there are 37 people accused of a number of offenses, most cha
 See their page for more info and the list of current needs\.
 
 
-![](assets/1bdc30efe126/1*TqdgT4giHZVAL_v9oS5zVg.jpeg)
+![](../assets/1bdc30efe126/1*TqdgT4giHZVAL_v9oS5zVg.jpeg)
 
 
 
-![[The Hope Project](https://www.facebook.com/HopeProjectKempsons/) for Muhamed](assets/1bdc30efe126/1*qvZ0J2dllb_OMCfCmgQqqg.jpeg)
+![[The Hope Project](https://www.facebook.com/HopeProjectKempsons/) for Muhamed](../assets/1bdc30efe126/1*qvZ0J2dllb_OMCfCmgQqqg.jpeg)
 
 [The Hope Project](https://www.facebook.com/HopeProjectKempsons/) for Muhamed
 ### Athens
@@ -139,14 +139,14 @@ This is what many working or living in the area worry and wonder about — is th
 The people staying in makeshift camps and the so called centre Trnovi in Velika Kladuša walked towards the border on Monday, protested and stayed there during the day, but were returned to the camp afterwards and, reportedly, the camp is now being guarded by the police forces\.
 
 
-![Photo credit: Paulo, independent volunteer](assets/1bdc30efe126/1*VOCCKEWx9Zvh7ZYsyKnF2w.jpeg)
+![Photo credit: Paulo, independent volunteer](../assets/1bdc30efe126/1*VOCCKEWx9Zvh7ZYsyKnF2w.jpeg)
 
 Photo credit: Paulo, independent volunteer
 
 The representatives of different institutions and citizens initiatives of the city of Velika Kladuša will have a special meeting on Tuesday at 11h, dedicated to finding a solution to the situation that escalated in their area\. The state authorities are still ignoring the need for a sustainable solution in terms of accommodation, sufficient food and medical care, and ultimately, an international protection system\.
 
 
-![Photo credit: Paulo, independent volunteer](assets/1bdc30efe126/1*RopdM6YRc2r2xK0waQDP5w.jpeg)
+![Photo credit: Paulo, independent volunteer](../assets/1bdc30efe126/1*RopdM6YRc2r2xK0waQDP5w.jpeg)
 
 Photo credit: Paulo, independent volunteer
 

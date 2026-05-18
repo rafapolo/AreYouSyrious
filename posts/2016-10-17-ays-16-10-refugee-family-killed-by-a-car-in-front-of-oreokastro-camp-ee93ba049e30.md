@@ -1,5 +1,5 @@
 ---
-title: AYS 16/10: Refugee family killed by a car in front of Oreokastro camp
+title: "AYS 16/10: Refugee family killed by a car in front of Oreokastro camp"
 author: Are You Syrious?
 date: 2016-10-17T01:01:37.001+0100
 last_modified_at: 2016-10-17T01:17:15.108+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,refugee-camps,serbia,migrant-crisis]
 description: Terrible car tragedy in one of the refugee camps in Northern Greece. City Plaza mourns the drowning of one of their first residents…
 image:
-  path: assets/ee93ba049e30/1*2Em7-OyzAxZ1Yc-glblyXw.jpeg
+  path: ../assets/ee93ba049e30/1*2Em7-OyzAxZ1Yc-glblyXw.jpeg
 ---
 
 ### AYS 16/10: Refugee family killed by a car in front of Oreokastro camp
 #### Terrible car tragedy in one of the refugee camps in Northern Greece\. City Plaza mourns the drowning of one of their first residents\. Volunteers and donations needed in Greece, Serbia\. Alleged smuggler arrested after at least 18 deaths in Italy\. Clashes in Calais, still no solution for 1,300 children in the camp\.
 
 
-![The car was set to flames after the tragedy\. We choose not to publish explicit photos of victims\. Photo: Abo Emar Alrajab‎](assets/ee93ba049e30/1*2Em7-OyzAxZ1Yc-glblyXw.jpeg)
+![The car was set to flames after the tragedy\. We choose not to publish explicit photos of victims\. Photo: Abo Emar Alrajab‎](../assets/ee93ba049e30/1*2Em7-OyzAxZ1Yc-glblyXw.jpeg)
 
 The car was set to flames after the tragedy\. We choose not to publish explicit photos of victims\. Photo: Abo Emar Alrajab‎
 ### At least two dead in front of Oreokastro camp, in a tragedy that ignited **righteous anger** and riots
@@ -22,14 +22,14 @@ The car was set to flames after the tragedy\. We choose not to publish explicit 
 We are deeply saddened by the tragedy that happened in front of Oreokastro camp tonight\. According to numerous witnesses on site, a refugee family was walking across the road in front of the camp when a car hit them, leaving two people dead and one in critical condition\. First reports, including the info from Team Humanity, say the mother and the son died on the spot, while the daughter was rushed to the hospital in Thessaloniki\. According to Greek press, three victims were residents at the Fessas camp in Oreokastro\. They were hit by the 76\-year\-old driver outside camp, who was held by the police\. Associated Press identified the victims as the 35\-year\-old Kurdish Syrian woman and her 10\-year\-old son\. The extent of the injuries of the third child is still unconfirmed, but it seems to be out of the life\-threatening danger\.
 
 
-![According to the first info, mother and son died immediately, while daughter was still fighting for her life\. Photo: TH](assets/ee93ba049e30/1*COdPN-aVvjyrTtFTKnQkNw.jpeg)
+![According to the first info, mother and son died immediately, while daughter was still fighting for her life\. Photo: TH](../assets/ee93ba049e30/1*COdPN-aVvjyrTtFTKnQkNw.jpeg)
 
 According to the first info, mother and son died immediately, while daughter was still fighting for her life\. Photo: TH
 
 The tragedy ignited righteous anger among the refugees, who rushed to the site in the attempt to help the victims\. According to some sources, the ambulance was late to arrive, and the police allegedly refused to take the victims to the patrol car and transfer them to the hospital\. Tension increased rapidly, the car was set on fire, and the police allegedly responded by firing gas bombs to disperse the angry crowd\. Both refugees and volunteers have published the photos of the unrest that followed the tragedy\. Riot police rushed to the spot and clashed with the refugees, causing additional injuries\.
 
 
-![Righteously angry refugees clashed with the riot police int he wake of the tragedy\. Photo: Alaa Hasan](assets/ee93ba049e30/1*VwILptumzEeMvOeBzxjgDw.jpeg)
+![Righteously angry refugees clashed with the riot police int he wake of the tragedy\. Photo: Alaa Hasan](../assets/ee93ba049e30/1*VwILptumzEeMvOeBzxjgDw.jpeg)
 
 Righteously angry refugees clashed with the riot police int he wake of the tragedy\. Photo: Alaa Hasan
 
@@ -49,13 +49,13 @@ These people fled unimaginable dangers in the hope of reaching safety\. Europe h
 Another violent clash between the riot police and the refugees happened in Calais, where refugees are preparing to leave the site they got to call home over the last months\. On Saturday, workers started erecting a controversial wall along the motorway leading to the ferry terminal\. A crane was deployed to the site to lift four\-meter\-high cement panels to prevent the refugees from blocking traffic and jumping onto trucks\. This action, along with the increased police presence and the uncertainty about the days to come, ignited the clash in which police used water canons and other means of oppression in the attempt to “pacify” desperate camps residents\.
 
 
-[![French police clash with migrants and at Calais camp 'the Jungle'](assets/ee93ba049e30/b070_hqdefault.jpg "French police clash with migrants and at Calais camp 'the Jungle'")](http://www.youtube.com/watch?v=wq11WxAu8oU)
+[![French police clash with migrants and at Calais camp 'the Jungle'](../assets/ee93ba049e30/b070_hqdefault.jpg "French police clash with migrants and at Calais camp 'the Jungle'")](http://www.youtube.com/watch?v=wq11WxAu8oU)
 
 
 With just over a week to go before the demolition day, many volunteers and international donors have rushed to Calais in the attempt to prepare its residents for leaving the camp\. For example, [Care4Calais](https://www.facebook.com/care4calais/) had over 100 volunteers this weekend, and has received 30 donation deliveries a day\. However, there’s still a need for external battery chargers, sleeping bags and other items that will help the refugees after they leave the camp\.
 
 
-![Donation are poring in, but the needs are still high as the demolition day approaches\. Photo: Care4Calais](assets/ee93ba049e30/1*4qCQnizLL_zmd6aPwxJjWQ.jpeg)
+![Donation are poring in, but the needs are still high as the demolition day approaches\. Photo: Care4Calais](../assets/ee93ba049e30/1*4qCQnizLL_zmd6aPwxJjWQ.jpeg)
 
 Donation are poring in, but the needs are still high as the demolition day approaches\. Photo: Care4Calais
 ### First group of child refugees from Calais arrive in Britain — what will happen to the others?
@@ -72,7 +72,7 @@ According to [BBC](http://www.bbc.com/news/uk-37663125) , “a significant numbe
 Although six children arrived in the UK on Saturday from the migrant camp, with 24 more due over the coming week, it has emerged that the Home Office has not provided detailed plans about how it and the French authorities intend to protect minors before, during and after demolition\.
 
 
-![As many as 600 children \(out of the 1,300\) in Calais have the right to be reunited with their families in the UK\. Photo: AFP](assets/ee93ba049e30/1*ZbKFCz-y3AUI8Dken3pWPw.jpeg)
+![As many as 600 children \(out of the 1,300\) in Calais have the right to be reunited with their families in the UK\. Photo: AFP](../assets/ee93ba049e30/1*ZbKFCz-y3AUI8Dken3pWPw.jpeg)
 
 As many as 600 children \(out of the 1,300\) in Calais have the right to be reunited with their families in the UK\. Photo: AFP
 
@@ -85,7 +85,7 @@ According to [The Observer](https://www.theguardian.com/world/2016/oct/15/home-o
 On this sad day full of tragedies, refugees and volunteers of City Plaza community mourn the loss of Hamid Rezapour\.
 
 
-![Hamid, who fled from Afghanistan, has drowned today at Elliniko beach\. Photo: City Plaza Hotel](assets/ee93ba049e30/1*g4cZIGdvStWD7UTfIROnKw.jpeg)
+![Hamid, who fled from Afghanistan, has drowned today at Elliniko beach\. Photo: City Plaza Hotel](../assets/ee93ba049e30/1*g4cZIGdvStWD7UTfIROnKw.jpeg)
 
 Hamid, who fled from Afghanistan, has drowned today at Elliniko beach\. Photo: City Plaza Hotel
 
@@ -104,7 +104,7 @@ Oinofyta camp now has a sewing room\. The residents have asked for fabrics \(for
 ### 130 refugees evicted from the building in Thessaloniki, volunteers need support to feed them
 
 
-![](assets/ee93ba049e30/1*vwBh-OBdGETeagnLSvIH7A.jpeg)
+![](../assets/ee93ba049e30/1*vwBh-OBdGETeagnLSvIH7A.jpeg)
 
 
 This morning more than 130 refugees were evicted from the abandoned building in Thessaloniki by the police\. They were vaguely instructed to go to one of the official camps across Northern Greece\. Many of those camps are full and not accepting new refugees and many refugees stayed in different parts of the city\. This made the meal distribution done by [foodKIND](https://www.facebook.com/foodKIND/posts/1841355749419017?hc_location=ufi) , [Team Bananas](https://www.facebook.com/TBananita/) , [SOUL FOOD Kitchen](https://www.facebook.com/dirtybunch/) , [IHA](https://www.facebook.com/iha.help/) , [Refugee Biriyani & Bananas](https://www.facebook.com/RefugeeBiriyaniAndBananas/) and other groups more challenging, but they plan to continue helping all those in need scattered around the city\. If you can support them, either with donations or with volunteer work, please contact any of the mentioned groups — all of them do terrific work on the ground\.
@@ -113,7 +113,7 @@ This morning more than 130 refugees were evicted from the abandoned building in 
 A good reminder came up — If you are volunteering in a camp and are allowing blankets and sleeping bags to be trashed after use you are contributing to global warming\. Instead, remember to contact [Dirty Girls](https://www.facebook.com/dirtygirlslesvos) of Lesvos who wash blankets to hospital standards\. Decomposing blankets in landfill release methane, a significant contributor to global warming\.
 
 
-![Dirty Girls have processed numerous clothing items and blankets so far\. Photo: Dirty Girls of Lesvos Island](assets/ee93ba049e30/1*UpVVLcwvOnaNdTpIX9uRGw.jpeg)
+![Dirty Girls have processed numerous clothing items and blankets so far\. Photo: Dirty Girls of Lesvos Island](../assets/ee93ba049e30/1*UpVVLcwvOnaNdTpIX9uRGw.jpeg)
 
 Dirty Girls have processed numerous clothing items and blankets so far\. Photo: Dirty Girls of Lesvos Island
 #### CK Team offers co\-ownership of their van
@@ -130,7 +130,7 @@ Refugee Aid Serbia continues welcoming and helping many people who arrive daily\
 **15 men, 42 women and 416 children passed through the Miksalište aid space today** , where the team is in need of warm clothes, hygiene products such as shampoo, soap, razors, etc\. Considering the number of children that visit the centre, baby carriers and strollers would be of great help\.
 
 
-![Weekly dance parties keep the morale high in a cold Belgrade park\. Photo: Refugee’s Anthem](assets/ee93ba049e30/1*-FNYATScACv5apxTy6iyiA.jpeg)
+![Weekly dance parties keep the morale high in a cold Belgrade park\. Photo: Refugee’s Anthem](../assets/ee93ba049e30/1*-FNYATScACv5apxTy6iyiA.jpeg)
 
 Weekly dance parties keep the morale high in a cold Belgrade park\. Photo: Refugee’s Anthem
 
@@ -149,7 +149,7 @@ A probable smuggler was taken into custody of the Italian police and questioned 
 ### Refugees help to clean up the public park in Milan, but their own living conditions remain beyond repair
 
 
-![Community centres for refugee families in Italy are often overcrowded\. Photo: ANSA](assets/ee93ba049e30/1*ZivPZrmfSkNGtLJ24puAQA.jpeg)
+![Community centres for refugee families in Italy are often overcrowded\. Photo: ANSA](../assets/ee93ba049e30/1*ZivPZrmfSkNGtLJ24puAQA.jpeg)
 
 Community centres for refugee families in Italy are often overcrowded\. Photo: ANSA
 

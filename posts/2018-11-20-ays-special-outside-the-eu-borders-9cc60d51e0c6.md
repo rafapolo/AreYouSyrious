@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Outside the EU borders
+title: "AYS SPECIAL: Outside the EU borders"
 author: Are You Syrious?
 date: 2018-11-20T07:44:11.359+0000
 last_modified_at: 2018-11-20T11:32:31.269+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,bosnia-and-herzegovina,eu,borders,special]
 description: AYS presents the project Checkmate and their five short movies about the life at the EU border.
 image:
-  path: assets/9cc60d51e0c6/1*kPk4nCCjMBOp6osXnwGMrA.jpeg
+  path: ../assets/9cc60d51e0c6/1*kPk4nCCjMBOp6osXnwGMrA.jpeg
 ---
 
 ### AYS SPECIAL: Outside the EU borders
 #### _AYS presents the project Checkmate and their five short movies about the life at the EU border\._
 
 
-![Photo AYS](assets/9cc60d51e0c6/1*kPk4nCCjMBOp6osXnwGMrA.jpeg)
+![Photo AYS](../assets/9cc60d51e0c6/1*kPk4nCCjMBOp6osXnwGMrA.jpeg)
 
 Photo AYS
 
@@ -29,25 +29,25 @@ The report is divided into 5 topics\. We have worked both with videos and articl
 **The Game —** the attempt of crossing borders that very often leads to facing violence and mistreatments
 
 
-[![Capitolo 1. The Game](assets/9cc60d51e0c6/a3c4_hqdefault.jpg "Capitolo 1. The Game")](http://www.youtube.com/watch?v=E-Yc-7yAgOE)
+[![Capitolo 1. The Game](../assets/9cc60d51e0c6/a3c4_hqdefault.jpg "Capitolo 1. The Game")](http://www.youtube.com/watch?v=E-Yc-7yAgOE)
 
 
 **The Inhabitants of Velika Kladuša \-** we tried to capture people’s feelings about the current situation intertwining it with the historical background of the town\.
 
 
-[![Capitolo 2. Gli abitanti della frontiera](assets/9cc60d51e0c6/8f87_hqdefault.jpg "Capitolo 2. Gli abitanti della frontiera")](http://www.youtube.com/watch?v=hHW1-OdIyQQ)
+[![Capitolo 2. Gli abitanti della frontiera](../assets/9cc60d51e0c6/8f87_hqdefault.jpg "Capitolo 2. Gli abitanti della frontiera")](http://www.youtube.com/watch?v=hHW1-OdIyQQ)
 
 
 **Militarization —** it concerns the brutalities that are daily implemented by the police guarding the EU borders
 
 
-[![Capitolo 3. La Militarizzazione](assets/9cc60d51e0c6/9f41_hqdefault.jpg "Capitolo 3. La Militarizzazione")](http://www.youtube.com/watch?v=qXlMtNt-q4s)
+[![Capitolo 3. La Militarizzazione](../assets/9cc60d51e0c6/9f41_hqdefault.jpg "Capitolo 3. La Militarizzazione")](http://www.youtube.com/watch?v=qXlMtNt-q4s)
 
 
 **The Lost Generations** — how many lives are lost?
 
 
-[![Capitolo 4. Generazioni Perdute](assets/9cc60d51e0c6/5baa_hqdefault.jpg "Capitolo 4. Generazioni Perdute")](http://www.youtube.com/watch?v=mB2saPS5eIc)
+[![Capitolo 4. Generazioni Perdute](../assets/9cc60d51e0c6/5baa_hqdefault.jpg "Capitolo 4. Generazioni Perdute")](http://www.youtube.com/watch?v=mB2saPS5eIc)
 
 
 And the fifth part will focus on the “European dream” that many migrants bring with them on their journey\.

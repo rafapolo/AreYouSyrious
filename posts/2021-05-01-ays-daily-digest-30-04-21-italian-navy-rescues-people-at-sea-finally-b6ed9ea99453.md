@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 30/04/21: Italian Navy Rescues People at Sea—Finally
+title: "AYS Daily Digest 30/04/21: Italian Navy Rescues People at Sea—Finally"
 author: Are You Syrious?
 date: 2021-05-01T10:14:49.074+0100
 last_modified_at: 2021-05-01T10:36:37.766+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,migration,search-and-rescue,frontex]
 description: Libyan Coastguard caught on video // Rescues & returns at sea // Woman gives birth in boat off Canaries // Evictions in NW Bosnia // Data…
 image:
-  path: assets/b6ed9ea99453/1*-fD_bURE8r3AG7mLLw7beg.jpeg
+  path: ../assets/b6ed9ea99453/1*-fD_bURE8r3AG7mLLw7beg.jpeg
 ---
 
 ### AYS Daily Digest 30/04/21: Italian Navy Rescues People at Sea—Finally
@@ -15,7 +15,7 @@ image:
 ### FEATURE—For first time in years, Italian authorities bring people in distress aboard
 
 
-![Photo: Marina Militare](assets/b6ed9ea99453/1*-fD_bURE8r3AG7mLLw7beg.jpeg)
+![Photo: Marina Militare](../assets/b6ed9ea99453/1*-fD_bURE8r3AG7mLLw7beg.jpeg)
 
 Photo: Marina Militare
 

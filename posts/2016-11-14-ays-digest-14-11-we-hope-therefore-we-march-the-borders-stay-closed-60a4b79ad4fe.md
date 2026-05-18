@@ -1,5 +1,5 @@
 ---
-title: AYS digest 14/11: We hope, therefore we march. The borders stay closed
+title: "AYS digest 14/11: We hope, therefore we march. The borders stay closed"
 author: Are You Syrious?
 date: 2016-11-14T20:51:01.587+0000
 last_modified_at: 2016-11-15T08:01:03.352+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: People trying to return to Belgrade after the march of Hope // Hungary letting through even smaller number of people as winter approaches…
 image:
-  path: assets/60a4b79ad4fe/1*aYa8mqXohgpi7Nb7GHH96A.jpeg
+  path: ../assets/60a4b79ad4fe/1*aYa8mqXohgpi7Nb7GHH96A.jpeg
 ---
 
 ### AYS digest 14/11: We hope, therefore we march\. The borders stay closed
@@ -15,7 +15,7 @@ image:
 _People trying to return to Belgrade after the march of Hope // Hungary letting through even smaller number of people as winter approaches // State of emergency at Samos camp, UNHCR warns // Useful info on relocation and family reunification // Volunteers and donations needed all around // Some of the children from the jungle received in Scotland, others wait still with some of them starting the hunger strike // The fascist candidate in Bulgaria’s presidential election has taken 15% of the vote_
 
 
-![March of hope extinguished](assets/60a4b79ad4fe/1*aYa8mqXohgpi7Nb7GHH96A.jpeg)
+![March of hope extinguished](../assets/60a4b79ad4fe/1*aYa8mqXohgpi7Nb7GHH96A.jpeg)
 
 March of hope extinguished
 ### March of hope
@@ -23,14 +23,14 @@ March of hope extinguished
 Today people were still protesting near the border between Serbia and Croatia\. We have written extensively on it yesterday and the situation is still pretty much the same\. Refugees were protesting at Croatian border \(Location 45\.15378, 19\.1770\. \) and by the reports from the field, Police were aggressively extinguish one small source of warmth even though the temperature is below zero, but unlike yesterday, volunteers were allowed emergency distribution around 5 o’clock\. There are 90 people there at the time of writing this report\. Finally, they tried to board train to Belgrade at 6\.55 but were not allowed\. They have to wait next one at 4am\. As is reported from the ground some of the media are there now, too\. Fresh updates can still be followed on Twitter account @BelgradeUpdates, but also @MSF\_Sea Twitter account for detailed hourly updates
 
 
-![Location of protest](assets/60a4b79ad4fe/1*96yAGgoR5ErzPC4oE9KyGA.jpeg)
+![Location of protest](../assets/60a4b79ad4fe/1*96yAGgoR5ErzPC4oE9KyGA.jpeg)
 
 Location of protest
 
 To put the whole ordeal into a political and regional context, No border Serbia has published a statement on these events saying that by this brave act “people have raised their voice against state violence and criminalisation” and most notably that they “have shown they aren’t helpless, that they don’t want to stand in line for charity, that no one can take away their dignity\.”
 
 
-![March of hope, stopped in it’s tracks](assets/60a4b79ad4fe/1*uzlKSJBT3qwy7VAi9ZFccQ.jpeg)
+![March of hope, stopped in it’s tracks](../assets/60a4b79ad4fe/1*uzlKSJBT3qwy7VAi9ZFccQ.jpeg)
 
 March of hope, stopped in it’s tracks
 
@@ -43,14 +43,14 @@ Now is the moment to show solidarity with people who have organised themselves, 
 ### **Language lessons in Miksalište**
 
 
-![Miksalište](assets/60a4b79ad4fe/1*HKj9KQjJTFL3A8azOUvhpw.jpeg)
+![Miksalište](../assets/60a4b79ad4fe/1*HKj9KQjJTFL3A8azOUvhpw.jpeg)
 
 Miksalište
 
 Back in Belgrade, where, by some estimates over 1000 people sleep rough on the streets, guys from different organizations are working tirelessly to provide necessities and programs for learning and socializing\. One of such places is Miksalište where they have organized a school for English and German language\. Guys from Miksalište send this message to their volunteers: “We are eternally grateful to our volunteer teachers who come regularly and give the refugees a chance to improve their knowledge of these languages\.”
 
 
-![Miksalište](assets/60a4b79ad4fe/1*qNvJ8UUEDF9xETx_NwlHIg.jpeg)
+![Miksalište](../assets/60a4b79ad4fe/1*qNvJ8UUEDF9xETx_NwlHIg.jpeg)
 
 Miksalište
 #### Hungary
@@ -61,7 +61,7 @@ As situation in camps on the border of Serbia and Hungary gets worse due to the 
 ### **State of emergency in Samos camp, UNHCR states**
 
 
-![Samos](assets/60a4b79ad4fe/1*r-j-qv-Vp41y0OwyksVs5g.jpeg)
+![Samos](../assets/60a4b79ad4fe/1*r-j-qv-Vp41y0OwyksVs5g.jpeg)
 
 Samos
 
@@ -86,7 +86,7 @@ DiO Chios needs volunteers, here is their call: “We are in lack of volunteers 
 In other practical news, Amurtel center in Athens have a new schedule — check it out in this lovely picture scheme\.
 
 
-![Amurtel center schedule](assets/60a4b79ad4fe/1*LhvDXIcd5yUzk5RkOHm4Zg.png)
+![Amurtel center schedule](../assets/60a4b79ad4fe/1*LhvDXIcd5yUzk5RkOHm4Zg.png)
 
 Amurtel center schedule
 ### **Kitchen in Alexandria camp needs donations**
@@ -95,7 +95,7 @@ Further down the practical, guys that cook meals for those in Alexandria camp ha
 ### **New school in Chios**
 
 
-![Chios](assets/60a4b79ad4fe/1*GhHJb_s0YApxgqh_2fM-RA.jpeg)
+![Chios](../assets/60a4b79ad4fe/1*GhHJb_s0YApxgqh_2fM-RA.jpeg)
 
 Chios
 
@@ -113,7 +113,7 @@ Bulgaria’s presidential election was somewhat overshadowed by that in the US t
 ### **Kids arrived in Scotland under Dubs amendment**
 
 
-![](assets/60a4b79ad4fe/1*6ZD-IiZvhj3bCPooURdQ2Q.jpeg)
+![](../assets/60a4b79ad4fe/1*6ZD-IiZvhj3bCPooURdQ2Q.jpeg)
 
 
 A group of refugee children have arrived safely and quietly in Scotland, nearly three weeks after the Calais Jungle was demolished\. The Home Office said a group of girls aged between 15 and 17 who left a reception centre in France landed at Edinburgh airport on Saturday, without incident\. The children were brought to the UK by Home Office staff, with support from the local authority, under the Dubs amendment, Independent reports

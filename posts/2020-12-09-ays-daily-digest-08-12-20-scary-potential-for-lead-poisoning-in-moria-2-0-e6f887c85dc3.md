@@ -7,18 +7,18 @@ categories: Are You Syrious?
 tags: [greece,refugees,digest,europe,european-union]
 description: Pushbacks in Greece// Frontex admits to knowing about pushbacks // important updates on the Balkan route // France and Morocco make a deal…
 image:
-  path: assets/e6f887c85dc3/1*wtwnPm_P5GJOKk29c29k6A.jpeg
+  path: ../assets/e6f887c85dc3/1*wtwnPm_P5GJOKk29c29k6A.jpeg
 ---
 
 ### AYS Daily Digest 08/12/20: Scary potential for lead poisoning in Moria 2\.0
 #### _Pushbacks in Greece// Frontex admits to knowing about pushbacks // important updates on the Balkan route // France and Morocco make a deal // recommended reads and more…_
 
 
-![](assets/e6f887c85dc3/1*LlaJDN4_nbfwP7RfAibu5w.jpeg)
+![](../assets/e6f887c85dc3/1*LlaJDN4_nbfwP7RfAibu5w.jpeg)
 
 
 
-![Photos by HRW, provided by [Eva Cossé](https://twitter.com/Eva_Cosse/status/1336332517566152708)](assets/e6f887c85dc3/1*wtwnPm_P5GJOKk29c29k6A.jpeg)
+![Photos by HRW, provided by [Eva Cossé](https://twitter.com/Eva_Cosse/status/1336332517566152708)](../assets/e6f887c85dc3/1*wtwnPm_P5GJOKk29c29k6A.jpeg)
 
 Photos by HRW, provided by [Eva Cossé](https://twitter.com/Eva_Cosse/status/1336332517566152708)
 ### FEATURE: Lead poisoning concerns in Moria 2\.0
@@ -63,19 +63,19 @@ Read the full report [here](https://www.hrw.org/news/2020/12/08/greece-lead-pois
 #### SEA
 
 
-![**Update from SOS Mediterranee France** : “After having to stay at anchor in Augusta due to bad weather conditions, the OceanViking returned to the shipyard yesterday\. Additional emergency equipment is being installed on board\. We are on track to complete the work which we hope will help end the detention of the OceanViking, which has been prevented from fulfilling its vital mission in the Central Mediterranean for more than 4 months\.” Photo by [SOS Mediterranee France](https://twitter.com/SOSMedFrance/status/1336243303809998850)](assets/e6f887c85dc3/1*65Q6YZv-Rpbm1Zzk_Qt7TQ.jpeg)
+![**Update from SOS Mediterranee France** : “After having to stay at anchor in Augusta due to bad weather conditions, the OceanViking returned to the shipyard yesterday\. Additional emergency equipment is being installed on board\. We are on track to complete the work which we hope will help end the detention of the OceanViking, which has been prevented from fulfilling its vital mission in the Central Mediterranean for more than 4 months\.” Photo by [SOS Mediterranee France](https://twitter.com/SOSMedFrance/status/1336243303809998850)](../assets/e6f887c85dc3/1*65Q6YZv-Rpbm1Zzk_Qt7TQ.jpeg)
 
 **Update from SOS Mediterranee France** : “After having to stay at anchor in Augusta due to bad weather conditions, the OceanViking returned to the shipyard yesterday\. Additional emergency equipment is being installed on board\. We are on track to complete the work which we hope will help end the detention of the OceanViking, which has been prevented from fulfilling its vital mission in the Central Mediterranean for more than 4 months\.” Photo by [SOS Mediterranee France](https://twitter.com/SOSMedFrance/status/1336243303809998850)
 
 
-![**Update from Salvamento Marítimo Humanitario:** “AITAMARI: after days of storms a slight improvement in the state of the sea allows the AitaMari to drop moorings\. Next stop Oporto \(port of Leixoes\) \.” Photo by [Salvamento Marítimo Humanitario](https://www.facebook.com/smhumanitario/posts/3572771602814664)](assets/e6f887c85dc3/1*H4rnDSsE31ARCHFvHYDbnw.jpeg)
+![**Update from Salvamento Marítimo Humanitario:** “AITAMARI: after days of storms a slight improvement in the state of the sea allows the AitaMari to drop moorings\. Next stop Oporto \(port of Leixoes\) \.” Photo by [Salvamento Marítimo Humanitario](https://www.facebook.com/smhumanitario/posts/3572771602814664)](../assets/e6f887c85dc3/1*H4rnDSsE31ARCHFvHYDbnw.jpeg)
 
 **Update from Salvamento Marítimo Humanitario:** “AITAMARI: after days of storms a slight improvement in the state of the sea allows the AitaMari to drop moorings\. Next stop Oporto \(port of Leixoes\) \.” Photo by [Salvamento Marítimo Humanitario](https://www.facebook.com/smhumanitario/posts/3572771602814664)
 #### GREECE
 ### PUSHBACK REPORT
 
 
-![From [ABR](https://www.facebook.com/AegeanBoatReport) on Tuesday: “A boat reported being carrying 23 people in distress in the border area outside Eftalou, Lesvos north\. The petrol tank has been removed from the boat by the Greek coast guard, they are now drifting\. They report that the Hellenic Coast guard vessel ΛΣ 148 took the petrol from the boat, from the video this number is not recognizable\. To call port police in Mytilíni seems futile, they are already on location, problem is they are pushing them back, not rescuing them\.”](assets/e6f887c85dc3/1*O9TGUc97nw8acPtOD1EH9g.jpeg)
+![From [ABR](https://www.facebook.com/AegeanBoatReport) on Tuesday: “A boat reported being carrying 23 people in distress in the border area outside Eftalou, Lesvos north\. The petrol tank has been removed from the boat by the Greek coast guard, they are now drifting\. They report that the Hellenic Coast guard vessel ΛΣ 148 took the petrol from the boat, from the video this number is not recognizable\. To call port police in Mytilíni seems futile, they are already on location, problem is they are pushing them back, not rescuing them\.”](../assets/e6f887c85dc3/1*O9TGUc97nw8acPtOD1EH9g.jpeg)
 
 From [ABR](https://www.facebook.com/AegeanBoatReport) on Tuesday: “A boat reported being carrying 23 people in distress in the border area outside Eftalou, Lesvos north\. The petrol tank has been removed from the boat by the Greek coast guard, they are now drifting\. They report that the Hellenic Coast guard vessel ΛΣ 148 took the petrol from the boat, from the video this number is not recognizable\. To call port police in Mytilíni seems futile, they are already on location, problem is they are pushing them back, not rescuing them\.”
 ### Der Spiegel report: Greece exposes refugees to the sea after arriving on Lesvos
@@ -115,7 +115,7 @@ Journalist [Giorgos Christides](https://twitter.com/g_christides/status/13364052
 Find ABR’s further reporting [here](https://www.facebook.com/AegeanBoatReport/posts/987333581789746) \. Read the full report [here](https://www.spiegel.de/politik/ausland/griechenland-grenzer-setzen-gefluechtete-nach-ankunft-auf-lesbos-auf-dem-meer-aus-a-9dbffbff-259c-4fa0-acb3-533c5becf972?fbclid=IwAR04X19whbjKpCUxWUOMhO3AGfPUJdhlRWVp0hVNDigLybvxGQtmqCOZ_EY) \.
 
 
-![Lines and interviews\. Photo by [Legal Centre Lesvos](https://www.facebook.com/LesvosLegal/photos/a.1152003994838312/3784845018220850/)](assets/e6f887c85dc3/1*bvcWBMSDoYNT3KOS2cjwFw.jpeg)
+![Lines and interviews\. Photo by [Legal Centre Lesvos](https://www.facebook.com/LesvosLegal/photos/a.1152003994838312/3784845018220850/)](../assets/e6f887c85dc3/1*bvcWBMSDoYNT3KOS2cjwFw.jpeg)
 
 Lines and interviews\. Photo by [Legal Centre Lesvos](https://www.facebook.com/LesvosLegal/photos/a.1152003994838312/3784845018220850/)
 ### Report of Legal Organizations on the quality of remote asylum interviews at RAO Lesvos
@@ -131,11 +131,11 @@ RSA just released a report signed by many other organizations on “the quality 
 Read their full report [here](https://rsaegean.org/en/report-of-legal-organizations-on-the-quality-of-remote-asylum-interviews-at-rao-lesvos/?fbclid=IwAR0vaxa_z1KLMA7RzvFz1NOqCCnU4CLVSCoswx7sJEyk0QSNwY8lvZtLe7o) \.
 
 
-![](assets/e6f887c85dc3/1*Fcz6jWcZhmGVYCB2ImBC2A.jpeg)
+![](../assets/e6f887c85dc3/1*Fcz6jWcZhmGVYCB2ImBC2A.jpeg)
 
 
 
-![From [a photo essay](https://wearesolomon.com/mag/photo-stories/human-traces-on-the-landscape-in-moria-three-months-after-the-fire/?fbclid=IwAR39HN4VxxooQArgAG0k9_K6LCObSArIZ4W-ZwWNKtO3R86ND_-3MaQym3Y) by Elias Marcou, entitled “Human traces on the landscape in Moria, three months after the fire\.”](assets/e6f887c85dc3/1*VtAPQNxA0G-w08CpB4PdVg.jpeg)
+![From [a photo essay](https://wearesolomon.com/mag/photo-stories/human-traces-on-the-landscape-in-moria-three-months-after-the-fire/?fbclid=IwAR39HN4VxxooQArgAG0k9_K6LCObSArIZ4W-ZwWNKtO3R86ND_-3MaQym3Y) by Elias Marcou, entitled “Human traces on the landscape in Moria, three months after the fire\.”](../assets/e6f887c85dc3/1*VtAPQNxA0G-w08CpB4PdVg.jpeg)
 
 From [a photo essay](https://wearesolomon.com/mag/photo-stories/human-traces-on-the-landscape-in-moria-three-months-after-the-fire/?fbclid=IwAR39HN4VxxooQArgAG0k9_K6LCObSArIZ4W-ZwWNKtO3R86ND_-3MaQym3Y) by Elias Marcou, entitled “Human traces on the landscape in Moria, three months after the fire\.”
 ### With no real evidence, Greece’s migration minister accuses NGOs of helping migrants cross Turkish border
@@ -210,7 +210,7 @@ Update from [Infokolpa](https://www.facebook.com/infokolpa/?__cft__[0]=AZXCCQqat
 #### CROATIA
 
 
-![AYS is looking for volunteers on the ground\! Find out more [here\.](https://www.instagram.com/p/CIiOOvMpYw9/?igshid=i80qy3ohp6sl&fbclid=IwAR0ob6ArLrfcTq7GHjjIJ3wyjJg7hPiFi96FbDExL4QF4pO-vwflfPqaVvc)](assets/e6f887c85dc3/1*siugXuAQAjvQBz4eiMCcmw.jpeg)
+![AYS is looking for volunteers on the ground\! Find out more [here\.](https://www.instagram.com/p/CIiOOvMpYw9/?igshid=i80qy3ohp6sl&fbclid=IwAR0ob6ArLrfcTq7GHjjIJ3wyjJg7hPiFi96FbDExL4QF4pO-vwflfPqaVvc)](../assets/e6f887c85dc3/1*siugXuAQAjvQBz4eiMCcmw.jpeg)
 
 AYS is looking for volunteers on the ground\! Find out more [here\.](https://www.instagram.com/p/CIiOOvMpYw9/?igshid=i80qy3ohp6sl&fbclid=IwAR0ob6ArLrfcTq7GHjjIJ3wyjJg7hPiFi96FbDExL4QF4pO-vwflfPqaVvc)
 #### SLOVENIA
@@ -247,7 +247,7 @@ According to InfoMigrants, “ _Mediterranean states France and Morocco have ink
 #### EU
 
 
-![In response to journalist Lena K’s analysis of the photo \(center\) that’s attached to the article described below, Disinfaux Collective reported that “we have a positive match on the geolocation which is in the border town of Kastanies in the Greek\-Turkish border\. Exact location in the description of the file we upload in the tweet\.“ [Lena K\. orginally tweeted](https://twitter.com/lk2015r/status/1336285413154164737) “Good to see this photo resurfacing\. It begs some questions — what Frontex did next and what happened to the people in the photo, even if answers are unlikely\.” Photo by [Disinfaux Collective](https://twitter.com/disinfaux/status/1336306267544031232)](assets/e6f887c85dc3/1*QHWYyvj37ex_TtK1ZtFrGg.jpeg)
+![In response to journalist Lena K’s analysis of the photo \(center\) that’s attached to the article described below, Disinfaux Collective reported that “we have a positive match on the geolocation which is in the border town of Kastanies in the Greek\-Turkish border\. Exact location in the description of the file we upload in the tweet\.“ [Lena K\. orginally tweeted](https://twitter.com/lk2015r/status/1336285413154164737) “Good to see this photo resurfacing\. It begs some questions — what Frontex did next and what happened to the people in the photo, even if answers are unlikely\.” Photo by [Disinfaux Collective](https://twitter.com/disinfaux/status/1336306267544031232)](../assets/e6f887c85dc3/1*QHWYyvj37ex_TtK1ZtFrGg.jpeg)
 
 In response to journalist Lena K’s analysis of the photo \(center\) that’s attached to the article described below, Disinfaux Collective reported that “we have a positive match on the geolocation which is in the border town of Kastanies in the Greek\-Turkish border\. Exact location in the description of the file we upload in the tweet\.“ [Lena K\. orginally tweeted](https://twitter.com/lk2015r/status/1336285413154164737) “Good to see this photo resurfacing\. It begs some questions — what Frontex did next and what happened to the people in the photo, even if answers are unlikely\.” Photo by [Disinfaux Collective](https://twitter.com/disinfaux/status/1336306267544031232)
 ### “Frontex Acknowledges Dozens Of Returns From Greece To Turkey Suspected Of Being Unlawful”

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 23/11/18: After Protracted Battle, 3 Rescue Boats Return to Mediterranean
+title: "AYS Daily Digest 23/11/18: After Protracted Battle, 3 Rescue Boats Return to Mediterranean"
 author: Are You Syrious?
 date: 2018-11-24T12:16:14.873+0000
 last_modified_at: 2018-11-24T12:16:14.873+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,newsletter,germany,paris]
 description: Armed gangs extort migrants in Morocco // What life really looks like for refugee in Calais // Refugee Community Kitchen goes to Belgium…
 image:
-  path: assets/c2ba6b891acf/1*Q6_Cc1-0h5kBtvbvrhUMIA.jpeg
+  path: ../assets/c2ba6b891acf/1*Q6_Cc1-0h5kBtvbvrhUMIA.jpeg
 ---
 
 ### AYS Daily Digest 23/11/18: After Protracted Battle, 3 Rescue Boats Return to Mediterranean
@@ -15,7 +15,7 @@ image:
 _Armed gangs extort migrants in Morocco_ // _What life really looks like for refugee in Calais /_ / _Refugee Community Kitchen goes to Belgium\! // No Deportations to Syria, says Seehofer // Asylum seekers poison themselves for fear of deportation // Demonstrations for refugee children’s rights in Copenhagen // and more news…_
 
 
-![Bearing witness\. Credit: [Mediterranea Saving Humans](https://www.facebook.com/Mediterranearescue/photos/a.275129009774997/292455398042358/?type=3&theater)](assets/c2ba6b891acf/1*Q6_Cc1-0h5kBtvbvrhUMIA.jpeg)
+![Bearing witness\. Credit: [Mediterranea Saving Humans](https://www.facebook.com/Mediterranearescue/photos/a.275129009774997/292455398042358/?type=3&theater)](../assets/c2ba6b891acf/1*Q6_Cc1-0h5kBtvbvrhUMIA.jpeg)
 
 Bearing witness\. Credit: [Mediterranea Saving Humans](https://www.facebook.com/Mediterranearescue/photos/a.275129009774997/292455398042358/?type=3&theater)
 ### Feature — \#UNITED4MED
@@ -86,11 +86,11 @@ Nevertheless, people in Kljuc, after being taken off the busses, are left alone 
 Officially, people are allowed to go back to Sarajevo but they do not have money for the another bus ticket\. Locals collected money for about 30 of them, but one more group stayed\. Locals also provide 3 meals a day\. Yesterday the group issued a public statement suggesting that everybody who wants to help should coordinate with the [local Red Cross](https://www.facebook.com/profile.php?id=100009318317491) so the food is not wasted\. At the moment, they have enough help and supplies\.
 
 
-![](assets/c2ba6b891acf/1*hBAm5lPpPRBj4uqff1iUFg.jpeg)
+![](../assets/c2ba6b891acf/1*hBAm5lPpPRBj4uqff1iUFg.jpeg)
 
 
 
-![Red Cross Kljuc\.](assets/c2ba6b891acf/1*y9lrWpiZ7Pb53kVwztjxdA.jpeg)
+![Red Cross Kljuc\.](../assets/c2ba6b891acf/1*y9lrWpiZ7Pb53kVwztjxdA.jpeg)
 
 Red Cross Kljuc\.
 
@@ -112,7 +112,7 @@ PARIS —
 The situation in Porte D’Aubervilliers remains catastrophic, with families and children sleeping rough as temperatures drop, the Hummah Islamiya Association [reports](https://www.facebook.com/HummahIslamiya/posts/2282307738659459?hc_location=ufi) \. The organization notes that there is no reason that asylum seekers must spend the winter nights outside — there are enough gyms and public buildings to shelter all of these people — and exhorts other aid groups to put aside egotism and work together to find more long\-term solutions for the people they aim to serve\.
 
 
-![Sleeping rough at Porte D’Aubervilliers\. Credit: [Hummah Islamiy](https://www.facebook.com/HummahIslamiya/posts/2282307738659459?hc_location=ufi) a](assets/c2ba6b891acf/1*wyCwnHa2lKxZuBNfO73ZdA.jpeg)
+![Sleeping rough at Porte D’Aubervilliers\. Credit: [Hummah Islamiy](https://www.facebook.com/HummahIslamiya/posts/2282307738659459?hc_location=ufi) a](../assets/c2ba6b891acf/1*wyCwnHa2lKxZuBNfO73ZdA.jpeg)
 
 Sleeping rough at Porte D’Aubervilliers\. Credit: [Hummah Islamiy](https://www.facebook.com/HummahIslamiya/posts/2282307738659459?hc_location=ufi) a
 
@@ -143,7 +143,7 @@ ECADA’s message to asylum seekers :
 ### The Netherlands
 
 
-![The List\. Photo Credit: [Friesland\.nl](https://www.friesland.nl/en/european-capital-of-culture/calendar/4287273974/the-list?fbclid=IwAR3FlkmSCx7Tf916NqCuRQVi5mkCmBw1qr4zuKFY93TvFO43xgZ5JTKW2u0)](assets/c2ba6b891acf/1*M7RSZjP036IPmAIuHup-SA.jpeg)
+![The List\. Photo Credit: [Friesland\.nl](https://www.friesland.nl/en/european-capital-of-culture/calendar/4287273974/the-list?fbclid=IwAR3FlkmSCx7Tf916NqCuRQVi5mkCmBw1qr4zuKFY93TvFO43xgZ5JTKW2u0)](../assets/c2ba6b891acf/1*M7RSZjP036IPmAIuHup-SA.jpeg)
 
 The List\. Photo Credit: [Friesland\.nl](https://www.friesland.nl/en/european-capital-of-culture/calendar/4287273974/the-list?fbclid=IwAR3FlkmSCx7Tf916NqCuRQVi5mkCmBw1qr4zuKFY93TvFO43xgZ5JTKW2u0)
 
@@ -155,7 +155,7 @@ You can find more images of The List on display around the world [here](http://u
 ### Denmark
 
 
-![Children at the first protest\. Photo credit: Tobias Nilsson](assets/c2ba6b891acf/1*bum5T46_TGA47L3Zn9lPzQ.jpeg)
+![Children at the first protest\. Photo credit: Tobias Nilsson](../assets/c2ba6b891acf/1*bum5T46_TGA47L3Zn9lPzQ.jpeg)
 
 Children at the first protest\. Photo credit: Tobias Nilsson
 

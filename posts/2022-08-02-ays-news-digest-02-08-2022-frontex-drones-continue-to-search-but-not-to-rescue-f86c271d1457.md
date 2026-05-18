@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 02/08/2022: Frontex drones continue to search but not to rescue
+title: "AYS News Digest 02/08/2022: Frontex drones continue to search but not to rescue"
 author: Are You Syrious?
 date: 2022-08-02T19:17:56.828+0100
 last_modified_at: 2022-08-04T20:37:10.123+0100
@@ -7,14 +7,14 @@ categories:
 tags: [frontex,sea-rescue,refugees,human-rights-violations]
 description: Frontex drones allegedly used to support so-called Libyan Coast Guard refoulements at sea//Another fatality during an attempted crossing…
 image:
-  path: assets/f86c271d1457/0*i5b4xxjbQji5OZ7f
+  path: ../assets/f86c271d1457/0*i5b4xxjbQji5OZ7f
 ---
 
 #### AYS News Digest 02/08/2022: Frontex drones continue to search but not to rescue
 #### Frontex drones allegedly used to support so\-called Libyan Coast Guard refoulements at sea//Another fatality during an attempted crossing from Turkey to Greece//Murder of Nigerian national in Italy//Deportations from France, Germany and Bosnia//UK Home Office funding to France to prevent Channel crossings
 
 
-![Reconstruction of the 30 July 2021, interception facilitated by a Frontex drone\. In addition to the track of the Frontex drone, the map shows the track of Seabird \(a Sea\-Watch airplane\) that witnessed the interception\. It also shows the NGO vessel Sea Watch 3 in the vicinity\. There is no vessel tracking data for the Libyan Coast Guard patrol boat Ras Jadir or the intercepted vessel\. Map courtesy of Border Forensics, image courtesy of Human Rights Watch\.](assets/f86c271d1457/0*nAtrBkrPg_SyJhwl.jpg)
+![Reconstruction of the 30 July 2021, interception facilitated by a Frontex drone\. In addition to the track of the Frontex drone, the map shows the track of Seabird \(a Sea\-Watch airplane\) that witnessed the interception\. It also shows the NGO vessel Sea Watch 3 in the vicinity\. There is no vessel tracking data for the Libyan Coast Guard patrol boat Ras Jadir or the intercepted vessel\. Map courtesy of Border Forensics, image courtesy of Human Rights Watch\.](../assets/f86c271d1457/0*nAtrBkrPg_SyJhwl.jpg)
 
 Reconstruction of the 30 July 2021, interception facilitated by a Frontex drone\. In addition to the track of the Frontex drone, the map shows the track of Seabird \(a Sea\-Watch airplane\) that witnessed the interception\. It also shows the NGO vessel Sea Watch 3 in the vicinity\. There is no vessel tracking data for the Libyan Coast Guard patrol boat Ras Jadir or the intercepted vessel\. Map courtesy of Border Forensics, image courtesy of Human Rights Watch\.
 
@@ -44,7 +44,7 @@ Greece
 **Refugee dies in attempt to swim from Turkey to Greece**
 
 
-![Source: IN\.GR](assets/f86c271d1457/0*i5b4xxjbQji5OZ7f)
+![Source: IN\.GR](../assets/f86c271d1457/0*i5b4xxjbQji5OZ7f)
 
 Source: IN\.GR
 

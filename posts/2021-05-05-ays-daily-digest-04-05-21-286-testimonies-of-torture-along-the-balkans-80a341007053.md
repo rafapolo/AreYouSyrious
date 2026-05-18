@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 04/05/21: 286 testimonies of torture along the Balkans
+title: "AYS Daily Digest 04/05/21: 286 testimonies of torture along the Balkans"
 author: Are You Syrious?
 date: 2021-05-05T13:29:23.045+0100
 last_modified_at: 2021-05-05T13:29:23.045+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,greece,balkans,pushback,croatia]
 description: Torture report for 2020 released // Suicide attempt rate among children increases in North West Syria // Lebanon prevents Syrian students…
 image:
-  path: assets/80a341007053/1*KY4XL0buEAgalMIypWt29g.jpeg
+  path: ../assets/80a341007053/1*KY4XL0buEAgalMIypWt29g.jpeg
 ---
 
 ### AYS Daily Digest 04/05/21: 286 testimonies of torture along the Balkans
 #### Torture report for 2020 released // Suicide attempt rate among children increases in North West Syria // Lebanon prevents Syrian students from graduating // How Turkey’s pushbacks to Iran are connected to EU politics //
 
 
-![An injury gained during a recent pushback from Croatia to Bosnia\. Credits: [Border Violence](https://www.borderviolence.eu/violence-reports/april-8-2021-0000-border-between-croatia-and-bosnia-close-to-velika-kladusa/)](assets/80a341007053/1*KY4XL0buEAgalMIypWt29g.jpeg)
+![An injury gained during a recent pushback from Croatia to Bosnia\. Credits: [Border Violence](https://www.borderviolence.eu/violence-reports/april-8-2021-0000-border-between-croatia-and-bosnia-close-to-velika-kladusa/)](../assets/80a341007053/1*KY4XL0buEAgalMIypWt29g.jpeg)
 
 An injury gained during a recent pushback from Croatia to Bosnia\. Credits: [Border Violence](https://www.borderviolence.eu/violence-reports/april-8-2021-0000-border-between-croatia-and-bosnia-close-to-velika-kladusa/)
 ### Feature: Annual Torture Report released

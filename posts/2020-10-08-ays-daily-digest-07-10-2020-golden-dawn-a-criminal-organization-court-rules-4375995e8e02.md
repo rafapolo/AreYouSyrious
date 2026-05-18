@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,greece,golden-dawn]
 description: Nigerian Man Burned Alive in Tripoli///Tunisian Civil Society Protests Agreement With Italy///Shipping Union Pens Open Letter to EU///&…
 image:
-  path: assets/4375995e8e02/0*oj_3nJdSkUXetln7
+  path: ../assets/4375995e8e02/0*oj_3nJdSkUXetln7
 ---
 
 ### AYS Daily Digest 07/10/2020 — Golden Dawn a Criminal Organization, Court Rules
 #### Nigerian Man Burned Alive in Tripoli///Tunisian Civil Society Protests Agreement With Italy///Shipping Union Pens Open Letter to EU///& More
 
 
-![A crowd waits for the verdict\. Photo credit: Orestis Panagiotou/EPA via [The Guardian](https://www.theguardian.com/world/2020/oct/07/golden-dawn-leader-and-ex-mps-found-guilty-in-landmark-trial#img-1)](assets/4375995e8e02/0*oj_3nJdSkUXetln7)
+![A crowd waits for the verdict\. Photo credit: Orestis Panagiotou/EPA via [The Guardian](https://www.theguardian.com/world/2020/oct/07/golden-dawn-leader-and-ex-mps-found-guilty-in-landmark-trial#img-1)](../assets/4375995e8e02/0*oj_3nJdSkUXetln7)
 
 A crowd waits for the verdict\. Photo credit: Orestis Panagiotou/EPA via [The Guardian](https://www.theguardian.com/world/2020/oct/07/golden-dawn-leader-and-ex-mps-found-guilty-in-landmark-trial#img-1)
 #### FEATURE — Golden Dawn Ruled a Criminal Organization
@@ -39,7 +39,7 @@ Les membres d’Aube Dorée sont reconnus coupables pour constitution et directi
 The court also ruled on several crimes committed by Golden Dawn members, cases that demonstrate the extent of their terrorist acts\. Ten defendants were found guilty of the murder of anti\-fascist rapper Pavlos Fyssas\. The court also handed down guilty verdicts in the attempted murders of several Egyptian fishermen and assault on trade unionists\.
 
 
-![Magda Fyssas, mother of Pavlos Fyssas cheers after leaving court\. Photo credit: [Keep Talking Greece](https://www.keeptalkinggreece.com/2020/10/07/verdict-golden-dawn-trial-guilty/#.X32QoU_jYwZ.facebook)](assets/4375995e8e02/0*GjRgEIoXSpSSTU9K)
+![Magda Fyssas, mother of Pavlos Fyssas cheers after leaving court\. Photo credit: [Keep Talking Greece](https://www.keeptalkinggreece.com/2020/10/07/verdict-golden-dawn-trial-guilty/#.X32QoU_jYwZ.facebook)](../assets/4375995e8e02/0*GjRgEIoXSpSSTU9K)
 
 Magda Fyssas, mother of Pavlos Fyssas cheers after leaving court\. Photo credit: [Keep Talking Greece](https://www.keeptalkinggreece.com/2020/10/07/verdict-golden-dawn-trial-guilty/#.X32QoU_jYwZ.facebook)
 
@@ -173,7 +173,7 @@ The Orestiada prosecutor [will investigate](https://twitter.com/lk2015r/status/1
 
 
 
-![Photo and text via [Lorena Fornasir](https://www.facebook.com/photo/?fbid=3320125078104566&set=a.309992879117816)](assets/4375995e8e02/0*jLvTpxWxHA2yHh4O)
+![Photo and text via [Lorena Fornasir](https://www.facebook.com/photo/?fbid=3320125078104566&set=a.309992879117816)](../assets/4375995e8e02/0*jLvTpxWxHA2yHh4O)
 
 Photo and text via [Lorena Fornasir](https://www.facebook.com/photo/?fbid=3320125078104566&set=a.309992879117816)
 

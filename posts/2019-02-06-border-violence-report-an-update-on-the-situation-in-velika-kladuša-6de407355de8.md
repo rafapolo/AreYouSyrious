@@ -1,5 +1,5 @@
 ---
-title: Border violence report: An update on the situation in Velika Kladuša
+title: "Border violence report: An update on the situation in Velika Kladuša"
 author: Are You Syrious?
 date: 2019-02-06T15:30:42.285+0000
 last_modified_at: 2019-02-06T15:30:42.285+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,border-violence,special,bosnia,croatia]
 description: As of mid-January, the UNHCR estimates there are upwards of 5,000 refugees and migrants currently present in Bosnia-Herzegovina. Of this…
 image:
-  path: assets/6de407355de8/1*-92fU2rhq7sa6kQrtD8-fQ.jpeg
+  path: ../assets/6de407355de8/1*-92fU2rhq7sa6kQrtD8-fQ.jpeg
 ---
 
 ### Border violence report: **An update on the situation in Velika Kladuša**
@@ -15,7 +15,7 @@ image:
 _As of mid\-January, the UNHCR [estimates](https://ec.europa.eu/echo/where/europe/bosnia-and-herzegovina_en) there are upwards of 5,000 refugees and migrants currently present in Bosnia\-Herzegovina\. Of this number, more than 500 likely reside in the IOM\-run Miral camp outside of Velika Kladuša\. In the last month, camp residents reported abuses of [authority](https://www.youtube.com/watch?v=jWmwACRlhRQ) from the private security guards who monitor the camp\. Rumors abound about whether or not the camp will become “closed” in the coming months\. Moreover, confusion abounds about the official capacity of the camp\._
 
 
-![](assets/6de407355de8/1*-92fU2rhq7sa6kQrtD8-fQ.jpeg)
+![](../assets/6de407355de8/1*-92fU2rhq7sa6kQrtD8-fQ.jpeg)
 
 
 Last month, the IOM invested in 40 converted shipping containers to provide extra accommodations for 200 people\. There are three bunks beds per container, plugs and heater\. Despite this, according to the information provided to a refugee who was refused entry to the camp in mid\-January, Miral camp is at full capacity with 730 persons inside\.
@@ -47,7 +47,7 @@ The environment for independent solidarity organizations working to assist refug
 **Trends in border violence**
 
 
-![](assets/6de407355de8/1*0INpKbDctEmx-C5D-TOaHw.jpeg)
+![](../assets/6de407355de8/1*0INpKbDctEmx-C5D-TOaHw.jpeg)
 
 
 This month we conducted fourteen violence reports with groups of individuals who were pushed\-back to Bosnia\-Herzegovina\. Ten of these groups were pushed\-back directly from Croatia while four of the groups were initially apprehended in Slovenia\. The individuals we conducted reports with consisted of a variety nationalities including Algeria, Syria, Darfur, Tunisia, Iraq, Afghanistan, and Pakistan\. The average push\-back group size was around seven individuals\.
@@ -61,7 +61,7 @@ While there are smaller numbers of individuals returning with broken arms or wit
 This winterized violence is not as visible as previous border violence yet still serves similar purposes\. In addition to the physical trauma of forced water immersion, this push\-back treatment enacts specific material costs onto the victims of border violence, making continued transit attempts harder\. Whereas during the months of October and November the use of traps, such as tripwires or barricades, was a common feature associated with the Croatian pushback, this strategy has all but disappeared in the repertoire of violence used by Croatian authorities during the winter months\. Rather, in the cold months of winter, the theft of winter clothing or shoes, the burning of sleeping bags, and the forced immersion of oneself into near\-freezing water has become increasingly more common\.
 
 
-![](assets/6de407355de8/1*N7mMYvkl_1VC4Mfaj6uGTA.jpeg)
+![](../assets/6de407355de8/1*N7mMYvkl_1VC4Mfaj6uGTA.jpeg)
 
 
 Sleeping bags, tents, coats, and shoes are necessities for transit during these months and one has to invest money or time in the re\-procurement of these items before a new transit attempt\. At the very least, they have to allow their soaked\-through jacket the time to dry before attempting to cross again\. This behavior follows a similar pattern to the procedural destruction and theft of mobile phones, money, and power banks which has persisted as an endemic characteristic of the Croatian push\-back\. In this way, the winter months have provided increased material costs for these authorities to target\.
@@ -71,12 +71,12 @@ It is difficult to reliably identify the motivating factors for these changes\. 
 While it remains difficult to identify the contributing factors to this shift push\-back tactics, one can pragmatize that this _altered violence_ continues to accomplish specific goals meant to further securitize the Croatian border from transit attempts\. The enactment of physical and material violence onto the bodies of refugees, asylum seekers, and migrants caught in Croatia and Slovenia serves to dissuade continued transit attempts\. Although the manner in which this violence is accomplished has shifted, its rationalization and intention remains the same\.
 
 
-![**_“Tunnel trick”_ method of push\-back — previously use commonly**](assets/6de407355de8/1*Gsel4_zVnbk1CQbpB1nrQA.jpeg)
+![**_“Tunnel trick”_ method of push\-back — previously use commonly**](../assets/6de407355de8/1*Gsel4_zVnbk1CQbpB1nrQA.jpeg)
 
 **_“Tunnel trick”_ method of push\-back — previously use commonly**
 
 
-![**_“Water trick”_ method of push\-back _—_ currently used commonly**](assets/6de407355de8/1*6r1g9uFL8DuUud8SXTFmMQ.jpeg)
+![**_“Water trick”_ method of push\-back _—_ currently used commonly**](../assets/6de407355de8/1*6r1g9uFL8DuUud8SXTFmMQ.jpeg)
 
 **_“Water trick”_ method of push\-back _—_ currently used commonly**
 
@@ -101,7 +101,7 @@ The reports that this individual, as a civilian, routinely conducts translations
 **Statistics on the last eight months of reports from Velika Kladuša**
 
 
-![](assets/6de407355de8/1*f-tYhj8gSC5EKmVAGOmP4A.png)
+![](../assets/6de407355de8/1*f-tYhj8gSC5EKmVAGOmP4A.png)
 
 
 The 162 reports written and published from June 2018 to January 2019 concerned 1503 persons pushed back from Croatia, Slovenia or Italy\. A majority of the reported pushbacks had initially been apprehended in Croatia with a quantity of approximately 1197 persons compared to approximately 291 from Slovenia\. Reported push\-backs from Italy to Velika Kladuša were exceedingly rare\.

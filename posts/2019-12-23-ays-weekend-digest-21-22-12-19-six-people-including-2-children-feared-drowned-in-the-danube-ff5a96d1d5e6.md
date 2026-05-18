@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 21–22/12/19: Six people, including 2 children, feared drowned in the Danube…
+title: "AYS Weekend Digest 21–22/12/19: Six people, including 2 children, feared drowned in the Danube…"
 author: Are You Syrious?
 date: 2019-12-23T15:22:49.104+0000
 last_modified_at: 2019-12-23T15:22:49.104+0000
@@ -7,18 +7,18 @@ categories: Are You Syrious?
 tags: []
 description: A man died in Zawiyah camp of consequences of the Libyan police torture / Court in Lille decides the Calais mayor “was incompetent to take…
 image:
-  path: assets/ff5a96d1d5e6/0*josi9FAH-xE2Cg_a.jpg
+  path: ../assets/ff5a96d1d5e6/0*josi9FAH-xE2Cg_a.jpg
 ---
 
 ### AYS Weekend Digest 21–22/12/19: Six people, including 2 children, feared drowned in the Danube river
 #### A man died in Zawiyah camp of consequences of the Libyan police torture / Court in Lille decides the Calais mayor “was incompetent to take the orders” about stopping the aid distribution / & more news from other areas
 
 
-![](assets/ff5a96d1d5e6/0*7auesVq84_sLoFLp)
+![](../assets/ff5a96d1d5e6/0*7auesVq84_sLoFLp)
 
 
 
-![](assets/ff5a96d1d5e6/0*josi9FAH-xE2Cg_a.jpg)
+![](../assets/ff5a96d1d5e6/0*josi9FAH-xE2Cg_a.jpg)
 
 ### FEATURED
 
@@ -26,11 +26,11 @@ This morning \(Monday\) 6 people, including 2 children, disappeared in the Danub
 There is an ongoing search for the bodies of the missing people, including the two children who, unfortunately, most likely have drowned\.
 
 
-![](assets/ff5a96d1d5e6/0*Dq_9wjg9Mjr5Cmhu)
+![](../assets/ff5a96d1d5e6/0*Dq_9wjg9Mjr5Cmhu)
 
 
 
-![](assets/ff5a96d1d5e6/0*zHx2MVeFOYUgyziX.png)
+![](../assets/ff5a96d1d5e6/0*zHx2MVeFOYUgyziX.png)
 
 
 It is important to be aware that there are many victims freezing, barely surviving, being neglected and left to suffer poor living conditions, starvation, illnesses, and most of all — inhumanity\.
@@ -57,11 +57,11 @@ In severe weather conditions, the crew of Ocean Viking and MSF rescued 162 peopl
 After a fire broke out at the [Refugee 4 Refugees](https://web.facebook.com/Refugee4Refugees/?__xts__%5B0%5D=68.ARAt4zndZSebCcmlyaM8q0u8_YtJqkyDpPlI8Fvfnh4_mIA7rw25BTXq6g5Slgh2xpbkRkvzawFVmuorkMWFYaOCFhkgo-Gy-ZTi9HGCdlF6PYUaIKiDQ5UxAalPte_-POVZRTw4HvVE8zgpj5Yv3zOAEppJfov2dECR6ZVylk0XXd2RDoJ9jjOjehWgOnB0uNtuhsX3CtX1KtfZveVob0UOLyZs0z0ak-GleDm84IMHMjUtJngrU-SHnm2UU2ZPX8rSxOytEUHSOgtsbrGaNXoMSsaUWjhg8GsiSTwkxyZot_nEBOoU-ElzvCmSy5LnVAGCSIrcrUxWsnbOmBfrkUChGznjN4Bdzg3SAjac1RvfBYL4rHpTIA) warehouse, the team is asking for help and support in putting everything back together and restarting their activities\.
 
 
-![](assets/ff5a96d1d5e6/0*nx4jq5vwI6b2SFPO)
+![](../assets/ff5a96d1d5e6/0*nx4jq5vwI6b2SFPO)
 
 
 
-![](assets/ff5a96d1d5e6/0*J_xJB9kiPYAahWOB.jpeg)
+![](../assets/ff5a96d1d5e6/0*J_xJB9kiPYAahWOB.jpeg)
 
 
 
@@ -80,19 +80,19 @@ As the \(weather\) conditions in the Greek hotspots remain bad and get worse day
 On Saturday afternoon in Hadžići a driver of the company Centrotrans Arnaut denied access onto the bus to a man who had a regular monthly pass, his wife reported\. She wrote that some of the drivers in two of the bus companies are harrassing people according to their skin colour, although they have a ticket, which should be the only criteria to use the bus\. Previously, when the man had no monthly pass, they would reportedly charge him the ticket price and never issue the ticket itself, until once his wife asked about why he didn’t get a ticket and the driver responded “I thought he was a migrant”\.
 
 
-![](assets/ff5a96d1d5e6/0*PVIbvKKpscm3JpN6)
+![](../assets/ff5a96d1d5e6/0*PVIbvKKpscm3JpN6)
 
 
 
-![](assets/ff5a96d1d5e6/0*FgZCZUktFJmZI6Ix.jpeg)
+![](../assets/ff5a96d1d5e6/0*FgZCZUktFJmZI6Ix.jpeg)
 
 
 
-![](assets/ff5a96d1d5e6/0*sZF23wemrFy7TxrH)
+![](../assets/ff5a96d1d5e6/0*sZF23wemrFy7TxrH)
 
 
 
-![](assets/ff5a96d1d5e6/0*NA4qYYBL8T6wHRfc.jpeg)
+![](../assets/ff5a96d1d5e6/0*NA4qYYBL8T6wHRfc.jpeg)
 
 
 Photos: [Mija Nour Ahmed](https://web.facebook.com/mija.ukropina?__tn__=%2CdCH-R-R&eid=ARCwfF45aLKytyh5FPeYq2kFy28bqzPvfKMiy18kCqNj4Z7vWPr00mTfEnDnUwA73qBOfRT-Y0KrLdUx&hc_ref=ARTa_6f8Tm0LyUs-vHDZ2xLh4YP43Gd6BHfMJaJitcEW8_0wZhPza4Vkfo3rWGzfEjQ&fref=nf&hc_location=group)

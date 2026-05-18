@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,covid-19,italy,greece]
 description: Are You Syrious?
 image:
-  path: assets/b5df62f8415b/0*plm_AVr_aQlLF60K.jpeg
+  path: ../assets/b5df62f8415b/0*plm_AVr_aQlLF60K.jpeg
 ---
 
 ### Refugees
 ### AYS Daily Digest 25/01/21 Ocean Viking rescues 373 people to Sicily
 
 
-![](assets/b5df62f8415b/0*kx-nst_zqMcWogOX.jpeg)
+![](../assets/b5df62f8415b/0*kx-nst_zqMcWogOX.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----2c4a8ceeb38e--------------------------------)
@@ -24,11 +24,11 @@ image:
 _More on lead pollution in Moria 2\.0 // Protests in Austria // Evidence collecting about Home Office in UK // Frozen bodies found in Croatia // & more…_
 
 
-![](assets/b5df62f8415b/0*5zSeovPFgKExZP_O)
+![](../assets/b5df62f8415b/0*5zSeovPFgKExZP_O)
 
 
 
-![](assets/b5df62f8415b/0*plm_AVr_aQlLF60K.jpeg)
+![](../assets/b5df62f8415b/0*plm_AVr_aQlLF60K.jpeg)
 
 ### FEATURE: Quite an eventful week on the Mediterranean → Updates from Ocean Viking, AlarmPhone & more…
 
@@ -58,11 +58,11 @@ Outside Nicosia, the people living in the Pournara reception centre are banned f
 ### GREECE
 
 
-![](assets/b5df62f8415b/0*dWIMtOeUrsC5MRUR)
+![](../assets/b5df62f8415b/0*dWIMtOeUrsC5MRUR)
 
 
 
-![](assets/b5df62f8415b/0*PVb7nPz-GzwHD7Xp.jpeg)
+![](../assets/b5df62f8415b/0*PVb7nPz-GzwHD7Xp.jpeg)
 
 ### Updates on Kara Tepe \(Moria 2\.0\)
 
@@ -84,43 +84,43 @@ Dunya Collective points out that the bottom line is: [**This study needs to be m
 IOM actually withdrew their employees from the site two weeks ago\. Dunya Collective said “To the best of our knowledge, the IOM employees were not given any reasons\.” Is this due to the lead exposure risk? If it is unsafe for people to work in Kara Tepe, it is certainly unsafe for people to live there\.
 
 
-![](assets/b5df62f8415b/0*DUgUY8dJcJLr-XX4)
+![](../assets/b5df62f8415b/0*DUgUY8dJcJLr-XX4)
 
 
 
-![](assets/b5df62f8415b/0*Int8EuTL8_Gk9XzG.jpeg)
+![](../assets/b5df62f8415b/0*Int8EuTL8_Gk9XzG.jpeg)
 
 
 
-![](assets/b5df62f8415b/0*YdyFY2xzGxhzoQer)
+![](../assets/b5df62f8415b/0*YdyFY2xzGxhzoQer)
 
 
 
-![](assets/b5df62f8415b/0*1is0yPREBXDtEl0I.jpeg)
+![](../assets/b5df62f8415b/0*1is0yPREBXDtEl0I.jpeg)
 
 
 
-![](assets/b5df62f8415b/0*GLBzRMk7I8skdqsL)
+![](../assets/b5df62f8415b/0*GLBzRMk7I8skdqsL)
 
 
 
-![](assets/b5df62f8415b/0*5qoz54BnfmAaezSk.jpeg)
+![](../assets/b5df62f8415b/0*5qoz54BnfmAaezSk.jpeg)
 
 
 
-![](assets/b5df62f8415b/0*VX9JYPP8xLnMC_Le)
+![](../assets/b5df62f8415b/0*VX9JYPP8xLnMC_Le)
 
 
 
-![](assets/b5df62f8415b/0*pSPXHYTKqjJkshg9.jpeg)
+![](../assets/b5df62f8415b/0*pSPXHYTKqjJkshg9.jpeg)
 
 
 
-![](assets/b5df62f8415b/0*_7UNigW2HFSUVpbz)
+![](../assets/b5df62f8415b/0*_7UNigW2HFSUVpbz)
 
 
 
-![](assets/b5df62f8415b/0*Xwo1ca-XQDPpGvom.jpeg)
+![](../assets/b5df62f8415b/0*Xwo1ca-XQDPpGvom.jpeg)
 
 
 Journalist [Keira Dignan](https://twitter.com/DignanKeira/status/1353696299665776641) reported some concerning news on individual freedoms in the camps:
@@ -141,11 +141,11 @@ Journalist [Keira Dignan](https://twitter.com/DignanKeira/status/135369629966577
 In [Migration Ministry news](https://www.facebook.com/migrationgovgr.info/posts/1851636548323775) : “By joint decision of the Minister for Migration & Asylum, and the Alternate Minister of Foreign Affairs: **Pakistan and Bangladesh were added to the official list of safe countries of origin\.** Ghana, Senegal, Togo, Gambia, Morocco, Algeria, Tunisia, Albania, Georgia, Ukraine, India and Armenia maintain their status as safe countries of origin\.”
 
 
-![](assets/b5df62f8415b/0*KpQtQ_yKdhVKAPkk)
+![](../assets/b5df62f8415b/0*KpQtQ_yKdhVKAPkk)
 
 
 
-![](assets/b5df62f8415b/0*iuKb1FSUVgTAdt-l.jpeg)
+![](../assets/b5df62f8415b/0*iuKb1FSUVgTAdt-l.jpeg)
 
 
 SPAIN
@@ -163,39 +163,39 @@ In new reporting by Radnicka Prava, civil society is saying that the government 
 SERBIA
 
 
-![](assets/b5df62f8415b/0*C-Fre3cDllQ4GzlW)
+![](../assets/b5df62f8415b/0*C-Fre3cDllQ4GzlW)
 
 
 
-![](assets/b5df62f8415b/0*PXXZWyAOvNEFZgV-.jpeg)
+![](../assets/b5df62f8415b/0*PXXZWyAOvNEFZgV-.jpeg)
 
 
 
-![](assets/b5df62f8415b/0*B3WJXd3D1_YxhuUL)
+![](../assets/b5df62f8415b/0*B3WJXd3D1_YxhuUL)
 
 
 
-![](assets/b5df62f8415b/0*TBvwYYpwsgBKSsVx.jpeg)
+![](../assets/b5df62f8415b/0*TBvwYYpwsgBKSsVx.jpeg)
 
 
 AUSTRIA
 
 
-![](assets/b5df62f8415b/0*4jWIgrnBO2lk96KJ)
+![](../assets/b5df62f8415b/0*4jWIgrnBO2lk96KJ)
 
 
 
-![](assets/b5df62f8415b/0*ShNzjhGhhZOpfTRg.jpeg)
+![](../assets/b5df62f8415b/0*ShNzjhGhhZOpfTRg.jpeg)
 
 
 GERMANY
 
 
-![](assets/b5df62f8415b/0*V2NYUytpT6-clUXq)
+![](../assets/b5df62f8415b/0*V2NYUytpT6-clUXq)
 
 
 
-![](assets/b5df62f8415b/0*OXFhDiGXhIhshJ5n.jpeg)
+![](../assets/b5df62f8415b/0*OXFhDiGXhIhshJ5n.jpeg)
 
 
 UK
@@ -209,11 +209,11 @@ In new Guardian reporting “ _A Sudanese teenager who sought asylum in the UK a
 In reporting by Nation\.cymru “ _There has been a “rise in extremist activity” around the Penally asylum camp according to a council report\. Pembrokeshire Council, which says it is still requesting “full cost recovery” from UK government for the camp, is in discussions with UK National Counter Extremist Networks to address its impact on the county\. A report from director of communities Dr Steven Jones says that there are 124 men on the site, and adds that all transfers to and from Penally had been halted under coronavirus alert four restrictions, unless it was for medical or safeguarding reasons_ \.” Learn more [here](https://nation.cymru/news/rise-of-extremist-activity-around-penally-asylum-seeker-camp/?fbclid=IwAR269NxGoGB1kJKOyOuDvo303TPMdRsPrabGNXKo1dbmWqBMZlAMn5gzDhM) \.
 
 
-![](assets/b5df62f8415b/0*armru3Bk3CM_YNB6)
+![](../assets/b5df62f8415b/0*armru3Bk3CM_YNB6)
 
 
 
-![](assets/b5df62f8415b/0*VNQuLVIM62RBF-1e.jpeg)
+![](../assets/b5df62f8415b/0*VNQuLVIM62RBF-1e.jpeg)
 
 
 ICIBI inspecting Home Office’s use of hotels and barracks as contingency asylum accommodation

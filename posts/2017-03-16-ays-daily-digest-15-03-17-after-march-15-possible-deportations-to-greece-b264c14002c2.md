@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 15/03/17: After March 15 possible deportations to Greece
+title: "AYS Daily Digest 15/03/17: After March 15 possible deportations to Greece"
 author: Are You Syrious?
 date: 2017-03-16T02:51:49.609+0000
 last_modified_at: 2017-03-16T02:51:49.609+0000
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,turkey,human-rights,france]
 description: Pressure builds up on Greece by the member states who didn’t keep side of their part of the bargain | Turkey having second thoughts about…
 image:
-  path: assets/b264c14002c2/1*CKKN312Dbc3yUpobPP1HZg.jpeg
+  path: ../assets/b264c14002c2/1*CKKN312Dbc3yUpobPP1HZg.jpeg
 ---
 
 ### AYS Daily Digest 15/03/17: After March 15 possible deportations to Greece
 #### Pressure builds up on Greece by the member states who didn’t keep side of their part of the bargain \| Turkey having second thoughts about the Deal \| Hungary introduces obligatory detainment for all \| Refugee protests in Italy \| France keeps returning people to danger; Volunteers and help needed in Calais and Paris \| Germany thinking of returning people to Greece, while deporting Afghans to certain danger \| MSF urging all sides in Syria to allow aid to come through
 
 
-![by Anthony Garner](assets/b264c14002c2/1*CKKN312Dbc3yUpobPP1HZg.jpeg)
+![by Anthony Garner](../assets/b264c14002c2/1*CKKN312Dbc3yUpobPP1HZg.jpeg)
 
 by Anthony Garner
 ### Feature — Will there be Dublin returns to Greece?
@@ -75,7 +75,7 @@ In spite of the decision for Turkey to “ re\-evaluate” the land\-passage asp
 
 
 ![**85 people safe\!** 
-“Yesterday we pulled 85 people into safety from a rubber dinghy\. Also our friends from Proactiva Open Arms and [Jugend Rettet e\.V\.](https://www.facebook.com/JugendRettet/) assisted more than 100 refugees\. [\#TogetherForRescue](https://www.facebook.com/hashtag/togetherforrescue?source=feed_text) ” \(Photo: [SOS MEDITERRANEE](https://www.facebook.com/SOSMEDITERRANEE/?fref=nf) \)](assets/b264c14002c2/1*_RCmGOCFPrR6WW8dsHydRQ.jpeg)
+“Yesterday we pulled 85 people into safety from a rubber dinghy\. Also our friends from Proactiva Open Arms and [Jugend Rettet e\.V\.](https://www.facebook.com/JugendRettet/) assisted more than 100 refugees\. [\#TogetherForRescue](https://www.facebook.com/hashtag/togetherforrescue?source=feed_text) ” \(Photo: [SOS MEDITERRANEE](https://www.facebook.com/SOSMEDITERRANEE/?fref=nf) \)](../assets/b264c14002c2/1*_RCmGOCFPrR6WW8dsHydRQ.jpeg)
 
 **85 people safe\!** 
 “Yesterday we pulled 85 people into safety from a rubber dinghy\. Also our friends from Proactiva Open Arms and [Jugend Rettet e\.V\.](https://www.facebook.com/JugendRettet/) assisted more than 100 refugees\. [\#TogetherForRescue](https://www.facebook.com/hashtag/togetherforrescue?source=feed_text) ” \(Photo: [SOS MEDITERRANEE](https://www.facebook.com/SOSMEDITERRANEE/?fref=nf) \)
@@ -88,7 +88,7 @@ In spite of the decision for Turkey to “ re\-evaluate” the land\-passage asp
 [ART Angels Relief Team](https://www.facebook.com/ARTMusicTeam/?ref=page_internal) is looking for volunteers to join them on Lesvos\. Specifically, they are in search of \(preferably experienced\) musicians \(flute, recorder, violin, double bass, percussion and traditional instruments\), art and music therapists\. If you’re interested, contact them on: artangelsreliefteam@gmail\.com
 
 
-![[Dispaced Designers](http://www.displaceddesigners.org/projects/) organize a Visual Storytelling photo workshop on Lesvos](assets/b264c14002c2/1*UqBS8jlWrog42-GwEA23wA.jpeg)
+![[Dispaced Designers](http://www.displaceddesigners.org/projects/) organize a Visual Storytelling photo workshop on Lesvos](../assets/b264c14002c2/1*UqBS8jlWrog42-GwEA23wA.jpeg)
 
 [Dispaced Designers](http://www.displaceddesigners.org/projects/) organize a Visual Storytelling photo workshop on Lesvos
 #### Chios
@@ -114,7 +114,7 @@ Contact them for more information\.
 #### Borderfree Association looking for volunteers
 
 
-![Building a school in Preševo Bujanovac \(Photo: [Borderfree Association](https://www.facebook.com/borderfreeassociation/) \)](assets/b264c14002c2/1*XUGjN2kOpAHeA0JjS6XFMQ.jpeg)
+![Building a school in Preševo Bujanovac \(Photo: [Borderfree Association](https://www.facebook.com/borderfreeassociation/) \)](../assets/b264c14002c2/1*XUGjN2kOpAHeA0JjS6XFMQ.jpeg)
 
 Building a school in Preševo Bujanovac \(Photo: [Borderfree Association](https://www.facebook.com/borderfreeassociation/) \)
 
@@ -159,7 +159,7 @@ Efirmera team [reports](http://effimera.org/malati-confine-amelia-chiara-trombet
 In the meantime, some hundred asylum seekers gathered in front of the Residenza Fersina, a refugee centre in Trento demanded to speak to the responsible officials to tell them their demands and reasons for peaceful protest\. They urged for faster asylum procedure, shorter time spent in the facility that hosts 250 people in rooms for 8 people, a slight change in the kind of food they get each day and some other similar requests\.
 
 
-![Gathered protesters in Trento © 2017 ilDolomiti\.it](assets/b264c14002c2/1*NuevrFNO16Kf7vyIar8OCQ.jpeg)
+![Gathered protesters in Trento © 2017 ilDolomiti\.it](../assets/b264c14002c2/1*NuevrFNO16Kf7vyIar8OCQ.jpeg)
 
 Gathered protesters in Trento © 2017 ilDolomiti\.it
 #### Rome
@@ -189,7 +189,7 @@ There are hundreds of refugees, mostly minors, sleeping rough on the streets of 
 They need volunteers and urgently: sleeping bags, gloves, men’s winter clothing \(size small\), men’s underwear and biscuits\.
 
 
-![“ Calais authorities are building a fence round a forest over 2m high to prevent people from sleeping in the shelter of the trees\.” \(Photo: [Rachel Mantell](https://www.facebook.com/rachel.mantell) ‎\)](assets/b264c14002c2/1*FLCqGfxvq2D0h4Z6XKORFQ.jpeg)
+![“ Calais authorities are building a fence round a forest over 2m high to prevent people from sleeping in the shelter of the trees\.” \(Photo: [Rachel Mantell](https://www.facebook.com/rachel.mantell) ‎\)](../assets/b264c14002c2/1*FLCqGfxvq2D0h4Z6XKORFQ.jpeg)
 
 “ Calais authorities are building a fence round a forest over 2m high to prevent people from sleeping in the shelter of the trees\.” \(Photo: [Rachel Mantell](https://www.facebook.com/rachel.mantell) ‎\)
 ### What will happen at La Linière
@@ -213,11 +213,11 @@ French Minister of Interior Bruno le Roux confirmed he wants to evict the camp t
 [**La Cuisine Des Migrants**](https://www.facebook.com/lacuisinedesmigrants/?fref=nf) in Paris are changing their opening hours starting March 27th: Mon\-Wed 9–15:00\. Thursday, the Kitchen will be closed, but meals will be distributed\. They are still looking for a place to rent to be able to be open 7 days a week\.
 
 
-![](assets/b264c14002c2/1*NYpGu1HP8RYMnNdQDR7QaA.jpeg)
+![](../assets/b264c14002c2/1*NYpGu1HP8RYMnNdQDR7QaA.jpeg)
 
 
 
-![](assets/b264c14002c2/1*1xtP-zQXVGPCne1ysx45sg.jpeg)
+![](../assets/b264c14002c2/1*1xtP-zQXVGPCne1ysx45sg.jpeg)
 
 
 
@@ -226,7 +226,7 @@ We didn’t leave our country so we could be called terrorists by some people\. 
 Today we are facing a lot of problems\. Why?
 Why aren’t we humans?
 We are humans and we want to live like humans\. This is our right\.
-I hope we can be given our rights as human beings\.” \(Photos&text: [Shikhali EShaqzay](https://www.facebook.com/profile.php?id=100010533642518) \)](assets/b264c14002c2/1*9EyaIBs6Oue1lfvi7FnvXQ.jpeg)
+I hope we can be given our rights as human beings\.” \(Photos&text: [Shikhali EShaqzay](https://www.facebook.com/profile.php?id=100010533642518) \)](../assets/b264c14002c2/1*9EyaIBs6Oue1lfvi7FnvXQ.jpeg)
 
 “We didn’t leave our country to sleep under bridges or on the streets for days, weeks and even months\. 
 We didn’t leave our country so we could be called terrorists by some people\. We escaped​ from terrorists and terrorism, and I am one of the victims\.
@@ -236,7 +236,7 @@ We are humans and we want to live like humans\. This is our right\.
 I hope we can be given our rights as human beings\.” \(Photos&text: [Shikhali EShaqzay](https://www.facebook.com/profile.php?id=100010533642518) \)
 
 
-![](assets/b264c14002c2/0*Hqvba_1ZZJojcx9w.png)
+![](../assets/b264c14002c2/0*Hqvba_1ZZJojcx9w.png)
 
 #### GERMANY
 ### We know we send them back to danger, we don’t know of their whereabouts

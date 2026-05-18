@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 1/2/2021: “Crimes against humanity” in the Mediterranean
+title: "AYS Daily Digest 1/2/2021: “Crimes against humanity” in the Mediterranean"
 author: Are You Syrious?
 date: 2021-02-02T13:57:12.876+0000
 last_modified_at: 2021-02-02T13:57:12.876+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [digest,refugees,balkan-route,mediterranean,afghanistan]
 description: Are You Syrious?
 image:
-  path: assets/814094c11f2e/0*q8E-U5YKWbdRPy7g.jpeg
+  path: ../assets/814094c11f2e/0*q8E-U5YKWbdRPy7g.jpeg
 ---
 
 ### AYS Daily Digest 1/2/2021: “Crimes against humanity” in the Mediterranean
 
 
-![](assets/814094c11f2e/0*EHQYp3Tk3tgR0Hxu.jpeg)
+![](../assets/814094c11f2e/0*EHQYp3Tk3tgR0Hxu.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----6eecdf43df9d--------------------------------)
@@ -23,11 +23,11 @@ image:
 Because We Carry NGO under fire again on Lesvos\. Call for action on the Balkan route\. EU\-Afghanistan deportation deal to be renewed\. Investigation launched in Spain against anti\-migrant violence\.
 
 
-![](assets/814094c11f2e/0*4cQOWUgHd1lA2Tgj)
+![](../assets/814094c11f2e/0*4cQOWUgHd1lA2Tgj)
 
 
 
-![](assets/814094c11f2e/0*q8E-U5YKWbdRPy7g.jpeg)
+![](../assets/814094c11f2e/0*q8E-U5YKWbdRPy7g.jpeg)
 
 ### FEATURED — “Crimes against humanity” in the Mediterranean
 
@@ -75,11 +75,11 @@ No further comments\.
 ### CENTRE — Another forgotten shipwreck
 
 
-![](assets/814094c11f2e/0*G5k6PmsRB4JwwRzX)
+![](../assets/814094c11f2e/0*G5k6PmsRB4JwwRzX)
 
 
 
-![](assets/814094c11f2e/0*nZ2tDRsaXrbEOzLM.png)
+![](../assets/814094c11f2e/0*nZ2tDRsaXrbEOzLM.png)
 
 
 AlarmPhone [report](https://alarmphone.org/en/2021/01/31/another-forgotten-shipwreck-off-libya/) that 10 people from Libya have been missing at sea since November 9\. AlarmPhone was contacted by several family members who were asking about their relatives\. It seems that only one of the people on board survived, the only one who managed to swim back towards the Libyan shore and was rescued by a fisherman\.
@@ -98,11 +98,11 @@ AlarmPhone [report](https://alarmphone.org/en/2021/01/31/another-forgotten-shipw
 
 
 
-![](assets/814094c11f2e/0*d13gOM1uH4hWkHA7)
+![](../assets/814094c11f2e/0*d13gOM1uH4hWkHA7)
 
 
 
-![](assets/814094c11f2e/0*xhESpzDs7UlzvQV4.jpeg)
+![](../assets/814094c11f2e/0*xhESpzDs7UlzvQV4.jpeg)
 
 
 Once back on the Libyan shore, the survivor was able to report about the shipwreck\. Hours later, a Libyan coast guard vessel found the fiberglass boat, but it was far too late\.
@@ -274,19 +274,19 @@ Lesvos Calling campaign, Linea d’ombra ODV, and Strada Si\.Cura have launched 
 
 
 
-![](assets/814094c11f2e/0*T6TpzArCPDlZ2fxX)
+![](../assets/814094c11f2e/0*T6TpzArCPDlZ2fxX)
 
 
 
-![](assets/814094c11f2e/0*iBbQy8cd4V1aunou.jpeg)
+![](../assets/814094c11f2e/0*iBbQy8cd4V1aunou.jpeg)
 
 
 
-![](assets/814094c11f2e/0*hDnQtI9baGpaRBj5)
+![](../assets/814094c11f2e/0*hDnQtI9baGpaRBj5)
 
 
 
-![](assets/814094c11f2e/0*NVNYGGT_ddGa1AOW.jpeg)
+![](../assets/814094c11f2e/0*NVNYGGT_ddGa1AOW.jpeg)
 
 
 SERBIA

@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [special,turkey,refugees,covid-19,racism]
 description: The world has been turned upside-down by Covid-19 while people are still struggling with climate crisis, racism and global poverty. As in…
 image:
-  path: assets/f83509fabbd1/1*nHQNTIcojbxf3Ri_653BWQ.jpeg
+  path: ../assets/f83509fabbd1/1*nHQNTIcojbxf3Ri_653BWQ.jpeg
 ---
 
 ### AYS Special from Turkey — **The Panorama of Refugee Rights during the pandemic**
@@ -15,7 +15,7 @@ image:
 _The world has been turned upside\-down by Covid\-19 while people are still struggling with climate crisis, racism and global poverty\. As in every global crisis, the most affected groups are the most disadvantaged\. Covid\-19 is having a powerful and negative impact on unemployment, violence against women, poverty and human rights all over the world\. In Turkey, people on the move have been one the most affected groups, as happens far too often\._
 
 
-![\(Photo Credit: [Bianet](https://bianet.org/english/law/240964-police-officer-sentenced-to-prison-over-killing-of-festus-okey) \)](assets/f83509fabbd1/1*nHQNTIcojbxf3Ri_653BWQ.jpeg)
+![\(Photo Credit: [Bianet](https://bianet.org/english/law/240964-police-officer-sentenced-to-prison-over-killing-of-festus-okey) \)](../assets/f83509fabbd1/1*nHQNTIcojbxf3Ri_653BWQ.jpeg)
 
 \(Photo Credit: [Bianet](https://bianet.org/english/law/240964-police-officer-sentenced-to-prison-over-killing-of-festus-okey) \)
 
@@ -25,7 +25,7 @@ After the first Covid\-19 case in March 2020, Turkey began implementing preventi
 On February 27 2020, 33 Turkish troops [lost their live](https://www.theguardian.com/world/2020/feb/28/tensions-rise-between-turkey-and-russia-after-killing-of-troops-in-syria) s in İdlib, Syria\. After this, the Turkish government ‘ [opened](https://www.nytimes.com/2020/02/28/world/europe/turkey-refugees-Geece-erdogan.html) ’ the Greek land border at Edirne\-Pazarkule, as they had threatened to do on many previous occasions\.
 
 
-![\(Photo credit: Mert Çakır\)](assets/f83509fabbd1/1*-acj2GfE_VVpaQXuKE2nmA.jpeg)
+![\(Photo credit: Mert Çakır\)](../assets/f83509fabbd1/1*-acj2GfE_VVpaQXuKE2nmA.jpeg)
 
 \(Photo credit: Mert Çakır\)
 
@@ -40,7 +40,7 @@ People on the move were used as a trump card: thousands of people from various c
 After the first cases of Covid\-19 in Turkey, people stuck at the border had to return to the cities where they had lived previously\.
 
 
-![\(Photo credit: Mert Çakır\)](assets/f83509fabbd1/1*XlzCs9USv0CkX2zum79ELw.jpeg)
+![\(Photo credit: Mert Çakır\)](../assets/f83509fabbd1/1*XlzCs9USv0CkX2zum79ELw.jpeg)
 
 \(Photo credit: Mert Çakır\)
 #### **Covid\-19 Pandemic**
@@ -85,11 +85,11 @@ Thanks to the border policies financed and implemented by the European Union in 
 Although they know that crossings are getting much more [difficult](https://www.dw.com/tr/egede-s%C4%B1%C4%9F%C4%B1nmac%C4%B1lar%C4%B1-ta%C5%9F%C4%B1yan-tekne-batt%C4%B1/a-55540218) and that people are living in inhumane conditions in the Greek islands, despair forces them to take this decision regardless\.
 
 
-![](assets/f83509fabbd1/1*Ii5XJ2wtn4eL8auX1_NBLQ.jpeg)
+![](../assets/f83509fabbd1/1*Ii5XJ2wtn4eL8auX1_NBLQ.jpeg)
 
 
 
-![\(Photo credit: Mert Çakır\)](assets/f83509fabbd1/1*Je0avlwO7YYryVr2aUrJjA.jpeg)
+![\(Photo credit: Mert Çakır\)](../assets/f83509fabbd1/1*Je0avlwO7YYryVr2aUrJjA.jpeg)
 
 \(Photo credit: Mert Çakır\)
 

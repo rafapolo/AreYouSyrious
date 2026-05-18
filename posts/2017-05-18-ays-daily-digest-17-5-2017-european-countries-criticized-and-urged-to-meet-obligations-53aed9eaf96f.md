@@ -7,7 +7,7 @@ categories:
 tags: [europe,refugees,refugee-crisis,refugeeswelcome,european-union]
 description: Clashes resulting in deaths in Istanbul / Massive food poisoning at Souda camp, Chios / Possible sanctions for Hungary / Rescue vessels…
 image:
-  path: assets/53aed9eaf96f/1*Ab-mzNJR7zUe6R47cHKfhg.jpeg
+  path: ../assets/53aed9eaf96f/1*Ab-mzNJR7zUe6R47cHKfhg.jpeg
 ---
 
 ### AYS Daily Digest 17/5/2017 — European countries criticized and urged to meet obligations
@@ -15,7 +15,7 @@ image:
 _Clashes resulting in deaths in Istanbul / Massive food poisoning at Souda camp, Chios / Possible sanctions for Hungary / Rescue vessels temporarily not allowed to dock at ports of Sicily / Updates from France / Volunteers needed in Greece and more_
 
 
-![Early morning patrols on the Phoenix in the Mediterranean SAR zone \(MOAS\)](assets/53aed9eaf96f/1*Ab-mzNJR7zUe6R47cHKfhg.jpeg)
+![Early morning patrols on the Phoenix in the Mediterranean SAR zone \(MOAS\)](../assets/53aed9eaf96f/1*Ab-mzNJR7zUe6R47cHKfhg.jpeg)
 
 Early morning patrols on the Phoenix in the Mediterranean SAR zone \(MOAS\)
 ### EU member states urged to take action
@@ -66,7 +66,7 @@ The European Commission, through their monitoring mechanism, has identified pote
 The refugees were served chicken for lunch and around 5 ο’clock a lot of people started vomiting and some almost fainted, local source reports\. 35–40 people were taken to the hospital by people, among them children and pregnant women\. The ambulance of Chios came to Souda only one time for a very serious incident\. Till 11, people kept coming to the hospital, some on foot \. Two refugees and 3 children had to spent the night in the hospital\. Local media [reported](http://www.politischios.gr/hios-poli/binteo-foto-maziki-trofiki-dilitiriasi-metanaston-sti-soyda) on the horrible situation\. The poisoning was most likely caused by chicken brought to the camp by one of the caterers which the health service has taken sample from for testing\. Two local catering companies in contract with the Norwegian Refugee Council \(NRC\) deliver daily meals for the refugees and migrants in the camp\. Local volunteer commented: “Volunteer kitchens who have been lovingly prepared nutritious meals with no incidents for over a year — at a much more cost effective price\. But the responsible NGO decided to award contracts to two restaurants … this is what happens\. And PS: This isnt the first outbreak\.”
 
 
-[![Politischios.gr: Μαζική Δηλητηρίαση μεταναστών στη Σούδα](assets/53aed9eaf96f/f69e_hqdefault.jpg "Politischios.gr: Μαζική Δηλητηρίαση μεταναστών στη Σούδα")](http://www.youtube.com/watch?v=SdbrxNPy5aI)
+[![Politischios.gr: Μαζική Δηλητηρίαση μεταναστών στη Σούδα](../assets/53aed9eaf96f/f69e_hqdefault.jpg "Politischios.gr: Μαζική Δηλητηρίαση μεταναστών στη Σούδα")](http://www.youtube.com/watch?v=SdbrxNPy5aI)
 
 
 The situation in other camps is often no better\. At Elliniko camp today the electricity was shut of, residents told us\. He says it made a problem for the people who were then unable to shower, study, use wifi or simply see in the dark\.
@@ -75,11 +75,11 @@ The situation in other camps is often no better\. At Elliniko camp today the ele
 Women Refugee Route is running a training in collaboration with [Health\-Point Foundation Dental/Medical Relief](https://www.facebook.com/healthpointfoundation/?fref=mentions) for women volunteers 27–28 May in Athens\. Places are limited\. Register before 24 May [here](https://goo.gl/cz7hFM) \.
 
 
-![](assets/53aed9eaf96f/1*ibqCYq78P8La7iKSooKOeg.png)
+![](../assets/53aed9eaf96f/1*ibqCYq78P8La7iKSooKOeg.png)
 
 
 
-![In order to meet the increased needs and the risks faced by LGBTI refugees and asylum seekers, SolidarityNow implements a specialized accommodation program, supported by the UNHCR GREECE and funded by European Commission — Civil Protection & Humanitarian Aid Operations — ECHO, known as “Safe Refugee”, under which LGBTI refugees are accommodated in independent apartments in Athens and Thessaloniki\. Contact them at rainbow@solidaritynow\.org](assets/53aed9eaf96f/1*yJw9uRmUEY9b8h8_S9vuNg.jpeg)
+![In order to meet the increased needs and the risks faced by LGBTI refugees and asylum seekers, SolidarityNow implements a specialized accommodation program, supported by the UNHCR GREECE and funded by European Commission — Civil Protection & Humanitarian Aid Operations — ECHO, known as “Safe Refugee”, under which LGBTI refugees are accommodated in independent apartments in Athens and Thessaloniki\. Contact them at rainbow@solidaritynow\.org](../assets/53aed9eaf96f/1*yJw9uRmUEY9b8h8_S9vuNg.jpeg)
 
 In order to meet the increased needs and the risks faced by LGBTI refugees and asylum seekers, SolidarityNow implements a specialized accommodation program, supported by the UNHCR GREECE and funded by European Commission — Civil Protection & Humanitarian Aid Operations — ECHO, known as “Safe Refugee”, under which LGBTI refugees are accommodated in independent apartments in Athens and Thessaloniki\. Contact them at rainbow@solidaritynow\.org
 #### Volunteers needed
@@ -91,7 +91,7 @@ InterVolve is looking for a Kurdish speaking community development volunteer to 
 [The Unmentionables](https://www.facebook.com/theunmentionablesorg/) is in search of volunteers willing to work in Greece\.
 
 
-![](assets/53aed9eaf96f/1*Vj396_H9yRdoS1p88nF5Kw.jpeg)
+![](../assets/53aed9eaf96f/1*Vj396_H9yRdoS1p88nF5Kw.jpeg)
 
 
 
@@ -183,11 +183,11 @@ Paris\-based [Solidarithé](https://www.facebook.com/solidarithe/?ref=page_inter
 
 
 
-![](assets/53aed9eaf96f/1*fP_e8UehUc4SLQkUumlOLw.jpeg)
+![](../assets/53aed9eaf96f/1*fP_e8UehUc4SLQkUumlOLw.jpeg)
 
 
 
-![[Solidarithé](https://www.facebook.com/solidarithe/?ref=page_internal)](assets/53aed9eaf96f/1*NaYSnsvVOOvPbtQ174KSVA.jpeg)
+![[Solidarithé](https://www.facebook.com/solidarithe/?ref=page_internal)](../assets/53aed9eaf96f/1*NaYSnsvVOOvPbtQ174KSVA.jpeg)
 
 [Solidarithé](https://www.facebook.com/solidarithe/?ref=page_internal)
 

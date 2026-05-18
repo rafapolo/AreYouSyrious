@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe,european-union,syria,uk]
 description: Feature
 image:
-  path: assets/4565c932e921/1*IV3N2l8wi0W0Qk9vT2o2gQ.jpeg
+  path: ../assets/4565c932e921/1*IV3N2l8wi0W0Qk9vT2o2gQ.jpeg
 ---
 
 ### AYS DAILY NEWS DIGEST 09\.03\.17 — Relocation program highlights the failures of the EU
 
 
-![With the closure of the Balkan Route, countless refugees remain trapped, reliant on smugglers\. Photo Credit: Tahir Mirza, MSF](assets/4565c932e921/1*IV3N2l8wi0W0Qk9vT2o2gQ.jpeg)
+![With the closure of the Balkan Route, countless refugees remain trapped, reliant on smugglers\. Photo Credit: Tahir Mirza, MSF](../assets/4565c932e921/1*IV3N2l8wi0W0Qk9vT2o2gQ.jpeg)
 
 With the closure of the Balkan Route, countless refugees remain trapped, reliant on smugglers\. Photo Credit: Tahir Mirza, MSF
 #### Feature
@@ -37,7 +37,7 @@ Those most hurt by this decision will of course be the refugees, both in Turkey 
 #### Greece
 
 
-![Female Afghan refugees demonstrate near Piraeus as part of International Women’s Day\. Photo Credit: Nasim Lomani](assets/4565c932e921/1*UeGJYHQJ3c0VwjCJ2iZGJQ.jpeg)
+![Female Afghan refugees demonstrate near Piraeus as part of International Women’s Day\. Photo Credit: Nasim Lomani](../assets/4565c932e921/1*UeGJYHQJ3c0VwjCJ2iZGJQ.jpeg)
 
 Female Afghan refugees demonstrate near Piraeus as part of International Women’s Day\. Photo Credit: Nasim Lomani
 

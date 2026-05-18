@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,immigration]
 description: Syrian opposition group launched missiles at a hospital in government-held West Aleppo, killing 19 and injuring 17. The Syrian Network of…
 image:
-  path: assets/e92a1573def5/1*o185PrXC9U2VByJHPffjZw.jpeg
+  path: ../assets/e92a1573def5/1*o185PrXC9U2VByJHPffjZw.jpeg
 ---
 
 ### AYS DAILY NEWS DIGEST 3\.5\.2016\.
 #### Syrian opposition group launched missiles at a hospital in government\-held West Aleppo, killing 19 and injuring 17\. The Syrian Network of Human Rights has released its report for April 2016, reporting 1041 civilian casualties, 718 of which were caused by the Assad regime\. Europe is expected to loosen visa requirements for traveling Turkish citizens\. Italy has charged two smugglers with deaths and the endangerment of lives\. The bodies of approximately 700 refugees on the floor of the Mediterranean are to be surfaced and given a proper burial\. A PEGIDA leader was forced to pay a fine for denigrating insults against refugees\.
 
 
-![Credits: Refugee Support Group](assets/e92a1573def5/1*o185PrXC9U2VByJHPffjZw.jpeg)
+![Credits: Refugee Support Group](../assets/e92a1573def5/1*o185PrXC9U2VByJHPffjZw.jpeg)
 
 Credits: Refugee Support Group
 #### Syria
@@ -60,7 +60,7 @@ Credits: Refugee Support Group
 
 
 
-![Credits to [Hama News Agency](https://www.facebook.com/Hama.News.A/?fref=photo)](assets/e92a1573def5/1*9OeG5f4BitMNer7Qzp5o6g.jpeg)
+![Credits to [Hama News Agency](https://www.facebook.com/Hama.News.A/?fref=photo)](../assets/e92a1573def5/1*9OeG5f4BitMNer7Qzp5o6g.jpeg)
 
 Credits to [Hama News Agency](https://www.facebook.com/Hama.News.A/?fref=photo)
 
@@ -74,7 +74,7 @@ Credits to [Hama News Agency](https://www.facebook.com/Hama.News.A/?fref=photo)
 
 
 
-![](assets/e92a1573def5/1*M7Mqw2ydZR5ENpSJ9s5BTA.jpeg)
+![](../assets/e92a1573def5/1*M7Mqw2ydZR5ENpSJ9s5BTA.jpeg)
 
 #### Turkey
 ### How Turkey is benefiting from the EU\-Turkey deal on refugees
@@ -125,27 +125,27 @@ Credits to [Hama News Agency](https://www.facebook.com/Hama.News.A/?fref=photo)
 ### Rainy Idomeni
 
 
-![Credits: Refugee Support Group](assets/e92a1573def5/1*H9wUNgL-ziUHLXK4hhmKwQ.jpeg)
+![Credits: Refugee Support Group](../assets/e92a1573def5/1*H9wUNgL-ziUHLXK4hhmKwQ.jpeg)
 
 Credits: Refugee Support Group
 
 
-![Credits: Refugee Support Group](assets/e92a1573def5/1*Ke0SuX3UGajd_5wN4WPzKA.jpeg)
+![Credits: Refugee Support Group](../assets/e92a1573def5/1*Ke0SuX3UGajd_5wN4WPzKA.jpeg)
 
 Credits: Refugee Support Group
 
 
-![Credits: Refugee Support Group](assets/e92a1573def5/1*zWkLUBrkmxhXOMCBqx2YVQ.jpeg)
+![Credits: Refugee Support Group](../assets/e92a1573def5/1*zWkLUBrkmxhXOMCBqx2YVQ.jpeg)
 
 Credits: Refugee Support Group
 
 
-![Credits: Refugee Support Group](assets/e92a1573def5/1*MO11kg-3VZzX2n3Zk4LSgA.jpeg)
+![Credits: Refugee Support Group](../assets/e92a1573def5/1*MO11kg-3VZzX2n3Zk4LSgA.jpeg)
 
 Credits: Refugee Support Group
 
 
-![Credits: Refugee Support Group](assets/e92a1573def5/1*fvaZRebe2sxwXS1Xz3pQ3A.jpeg)
+![Credits: Refugee Support Group](../assets/e92a1573def5/1*fvaZRebe2sxwXS1Xz3pQ3A.jpeg)
 
 Credits: Refugee Support Group
 #### Serbia
@@ -304,16 +304,16 @@ Credits: Refugee Support Group
 
 
 
-![](assets/e92a1573def5/1*tlFrf19N7monz8DDPyvXWA.jpeg)
+![](../assets/e92a1573def5/1*tlFrf19N7monz8DDPyvXWA.jpeg)
 
 
 
-![Credits: Care4Calais](assets/e92a1573def5/1*Gt1Jz793fe3Kz5KaoZMMzw.jpeg)
+![Credits: Care4Calais](../assets/e92a1573def5/1*Gt1Jz793fe3Kz5KaoZMMzw.jpeg)
 
 Credits: Care4Calais
 
 
-![Credits: Care4Calais](assets/e92a1573def5/1*h9BU5j9wvVZLcPJHeCy9GQ.jpeg)
+![Credits: Care4Calais](../assets/e92a1573def5/1*h9BU5j9wvVZLcPJHeCy9GQ.jpeg)
 
 Credits: Care4Calais
 #### Switzerland
@@ -333,7 +333,7 @@ Credits: Care4Calais
 
 
 
-![Credits: Rowan Farrell](assets/e92a1573def5/1*-3i03ERl5GIskUWPlJbxUQ.jpeg)
+![Credits: Rowan Farrell](../assets/e92a1573def5/1*-3i03ERl5GIskUWPlJbxUQ.jpeg)
 
 Credits: Rowan Farrell
 #### EU

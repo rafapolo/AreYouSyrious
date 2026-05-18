@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 14/8/2018: Police continues to harass refugees in France
+title: "AYS DAILY DIGEST 14/8/2018: Police continues to harass refugees in France"
 author: Are You Syrious?
 date: 2018-08-15T09:12:39.916+0100
 last_modified_at: 2018-08-15T20:37:09.943+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [france,paris,volunteers,refugees,europe]
 description: Constant pressure over refugees and volunteers in Paris // War on children in Yemen and Syria // The hunt for people on the move continues…
 image:
-  path: assets/5d3b0c001d62/1*hW6dSOHntgCCliKeCXZD_g.jpeg
+  path: ../assets/5d3b0c001d62/1*hW6dSOHntgCCliKeCXZD_g.jpeg
 ---
 
 ### AYS DAILY DIGEST 14/8/2018: Police continues to harass refugees in France
@@ -15,7 +15,7 @@ image:
 _Constant pressure over refugees and volunteers in Paris // War on children in Yemen and Syria // The hunt for people on the move continues in Tangier // The number of people who are arriving to Greece increases // For people in Bavaria, conservative politicians are a bigger problem than refugees …_
 
 
-![Lesvos, Moria\. Photo by [Stichting Bootvluchteling](https://www.facebook.com/stichtingbootvluchteling/)](assets/5d3b0c001d62/1*hW6dSOHntgCCliKeCXZD_g.jpeg)
+![Lesvos, Moria\. Photo by [Stichting Bootvluchteling](https://www.facebook.com/stichtingbootvluchteling/)](../assets/5d3b0c001d62/1*hW6dSOHntgCCliKeCXZD_g.jpeg)
 
 Lesvos, Moria\. Photo by [Stichting Bootvluchteling](https://www.facebook.com/stichtingbootvluchteling/)
 ### Feature
@@ -55,7 +55,7 @@ The reaction came after some countries where Syrian refugees settled during the 
 ### Morocco
 
 
-![](assets/5d3b0c001d62/1*8CC_nXz6HPGtn6-ojjYlVA.jpeg)
+![](../assets/5d3b0c001d62/1*8CC_nXz6HPGtn6-ojjYlVA.jpeg)
 
 
 The hunt for migrants continues in Tangier\. This morning the police attacked houses in Mesnana quarters, and dozens of people were arrested and taken to the central police station pending their forced displacement\. Many are injured, too and, as [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?hc_ref=ARQuxdSk5ywNga875HDX40azN18wZNdh4I2c0oClEffIyuB0sAqnFPE-UYNv2DVPVxo&fref=nf) reports, two are dead\.
@@ -66,7 +66,7 @@ Over 1,700 people have been forcibly deported from Nador and Tangier since Augus
 Hundreds of refugees from Eritrea and Somalia are forgotten at the Al Kashir Bi Kaschir centre near Tripoli in Libya\. On Tuesday, they initiated protests demanding to meet the UNHCR representatives or any other international organization that can help them\.
 
 
-![Photo by [Abrham Fa](https://www.facebook.com/abrham.fa)](assets/5d3b0c001d62/1*HXJ8fMre_AdOl7DkhFxYVw.jpeg)
+![Photo by [Abrham Fa](https://www.facebook.com/abrham.fa)](../assets/5d3b0c001d62/1*HXJ8fMre_AdOl7DkhFxYVw.jpeg)
 
 Photo by [Abrham Fa](https://www.facebook.com/abrham.fa)
 ### Sea
@@ -74,7 +74,7 @@ Photo by [Abrham Fa](https://www.facebook.com/abrham.fa)
 Despite the agreement reached on Tuesday night, Aquarius is still not allowed to dock\. They are waiting in the water between Malta and Italy, with people on board who need help\. According to the agreement, once they are accepted by Malta, those onboard will be distributed between Spain, France, Luxembourg, Portugal, and Germany\.
 
 
-![](assets/5d3b0c001d62/1*76cA0Rq7UfQfhDDc96YGJA.png)
+![](../assets/5d3b0c001d62/1*76cA0Rq7UfQfhDDc96YGJA.png)
 
 
 After three days, a rubber boat carrying 150 people was saved\. Before Tuesday night, no one came to provide help\.
@@ -96,7 +96,7 @@ The place where this happened is run by the local Red Cross and has been often m
 On Tuesday, 109 people arrived by boats to Lesvos alone\.
 
 
-![](assets/5d3b0c001d62/1*PbaJiDUWyCK78y62y2zX0g.jpeg)
+![](../assets/5d3b0c001d62/1*PbaJiDUWyCK78y62y2zX0g.jpeg)
 
 
 Over the last few weeks, more and more boats have been arriving on Kos\. Since Friday, 8 boats were registered, carrying a total of 182 people\.
@@ -108,7 +108,7 @@ So far this month: 14 boats, 274 people\.
 So far in 2018, **16,262 people arrived in Greece by the sea** \. The majority are from Syria \(35 percent\), Iraq \(21 percent\) and Afghanistan \(15 percent\), according to official sources and the UNHCR\.
 
 
-![[Greek Asylum Service](https://www.facebook.com/.../a.57887.../1098553453632092/...)](assets/5d3b0c001d62/1*F1CynAYgqTQ35_jhn_QwMQ.jpeg)
+![[Greek Asylum Service](https://www.facebook.com/.../a.57887.../1098553453632092/...)](../assets/5d3b0c001d62/1*F1CynAYgqTQ35_jhn_QwMQ.jpeg)
 
 [Greek Asylum Service](https://www.facebook.com/.../a.57887.../1098553453632092/...)
 
@@ -134,7 +134,7 @@ Swimming lessons are everyday at 1 pm\! @ Mytilene, Lesvos, Greece
 Finally, something nice happened in Velika Kladusa, where about 1000 people are staying at the moment, many in degrading condition in a makeshift camp\. Due to the lack of accommodation, but also basic things like food, hygiene and safety, as well as an increase in violence from the Croatian and Slovenian police, more and more people are deciding to go back home \(if possible\), or back to Greece and Serbia\.
 
 
-![Voluteers from [La Carovana Artistica](https://www.facebook.com/lacarovanaartistica/?hc_location=group_dialog) playing with the kids in Kladusa\.](assets/5d3b0c001d62/1*ATWNHFIHVUjb1dBoaW3gfw.jpeg)
+![Voluteers from [La Carovana Artistica](https://www.facebook.com/lacarovanaartistica/?hc_location=group_dialog) playing with the kids in Kladusa\.](../assets/5d3b0c001d62/1*ATWNHFIHVUjb1dBoaW3gfw.jpeg)
 
 Voluteers from [La Carovana Artistica](https://www.facebook.com/lacarovanaartistica/?hc_location=group_dialog) playing with the kids in Kladusa\.
 
@@ -159,7 +159,7 @@ It is available in French, English, Arabic, and Dari\.
 Two weeks after the camp in Dunkirk was destroyed and over 300 people left with no care, [Calais Refugee Aid](https://www.facebook.com/CalaisRefugeeAid/?hc_ref=ARSi7nMsgi_9VfXi9kvO9wxM--JUn0ZCMOMIxPB2TFBhm-hB8Dv9XgKdzxuMKZz9hL0&fref=nf) visited the area only to see that people are coming back\. They also need help\.
 
 
-![Photo by Calais Refugee Aid\.](assets/5d3b0c001d62/1*ZuKy1qnqNZAjSke8SYzNKA.jpeg)
+![Photo by Calais Refugee Aid\.](../assets/5d3b0c001d62/1*ZuKy1qnqNZAjSke8SYzNKA.jpeg)
 
 Photo by Calais Refugee Aid\.
 

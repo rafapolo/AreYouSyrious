@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 21/03/18: The last civil rescue ship in the central Mediterranean
+title: "AYS Daily Digest 21/03/18: The last civil rescue ship in the central Mediterranean"
 author: Are You Syrious?
 date: 2018-03-22T10:06:06.165+0000
 last_modified_at: 2018-03-23T03:00:57.418+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,mediterranean,greece-crisis,sos-mediterranee]
 description: Worries over the worsening situation / Deaths in Afghanistan, Syria and Greece / Asylum statistics for Bulgaria released / German court…
 image:
-  path: assets/6819ece1cd7c/1*rppe9Z2xOh0Qfq0TYTQ7wA.jpeg
+  path: ../assets/6819ece1cd7c/1*rppe9Z2xOh0Qfq0TYTQ7wA.jpeg
 ---
 
 ### AYS Daily Digest 21/03/18: The last civil rescue ship in the central Mediterranean
@@ -15,7 +15,7 @@ image:
 _Worries over the worsening situation / Deaths in Afghanistan, Syria and Greece / Asylum statistics for Bulgaria released / German court sentences alleged smuggler / NGOs demand closure of the hotspot on Lampedusa / And more news…_
 
 
-![The _Aquarius_ is the last ship in the central Mediterranean Sea \(Photo by Hara Kaminara\)](assets/6819ece1cd7c/1*rppe9Z2xOh0Qfq0TYTQ7wA.jpeg)
+![The _Aquarius_ is the last ship in the central Mediterranean Sea \(Photo by Hara Kaminara\)](../assets/6819ece1cd7c/1*rppe9Z2xOh0Qfq0TYTQ7wA.jpeg)
 
 The _Aquarius_ is the last ship in the central Mediterranean Sea \(Photo by Hara Kaminara\)
 ### FEATURE: The last civil rescue ship in the central Mediterranean

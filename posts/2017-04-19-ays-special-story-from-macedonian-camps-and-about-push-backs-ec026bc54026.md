@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Story from Macedonian camps and about push backs
+title: "AYS SPECIAL: Story from Macedonian camps and about push backs"
 author: Are You Syrious?
 date: 2017-04-19T19:33:08.401+0100
 last_modified_at: 2018-03-01T14:10:35.665+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,macedonia,gevgelija,unhcr,special]
 description: Taher Al Mohammad is a Syrian man, 31 years old, coming from the province of Idlib, the city Moarado El Noman. He left his city in February…
 image:
-  path: assets/ec026bc54026/1*YkiQ_Sx8Wn63m0FOO9BsOw.jpeg
+  path: ../assets/ec026bc54026/1*YkiQ_Sx8Wn63m0FOO9BsOw.jpeg
 ---
 
 ### AYS SPECIAL: Story from Macedonian camps and about push backs
@@ -15,7 +15,7 @@ image:
 _Taher Al Mohammad is a Syrian man, 31 years old, coming from the province of Idlib, the city Moarado El Noman\. He left his city in February 2016, taking his family, what they hope, is better future\. He has four children, and the youngest is two years old baby\. They believed that once they reach Europe, it will mean they finally found safety\. Unfortunately, until today they are still looking for that and trying to start a new life\._
 
 
-![By anindependent volunteer in Macedonia\.](assets/ec026bc54026/1*YkiQ_Sx8Wn63m0FOO9BsOw.jpeg)
+![By anindependent volunteer in Macedonia\.](../assets/ec026bc54026/1*YkiQ_Sx8Wn63m0FOO9BsOw.jpeg)
 
 By anindependent volunteer in Macedonia\.
 
@@ -30,7 +30,7 @@ To Greece, they arrived on the 8th of March 2016, and went to Idomeni, only to a
 Gevgelia camp, like all other in Macedonia, is run by the government\. However, inside of the camp, many big international organizations are present on a daily basis\. Their presence, according to Taher, did not prevent local authorities to detain and treat refugee inhumanly\. Even more, their silence turned them in accomplicities in violation of basic rights of people who are looking for refugee from war\.
 
 
-![](assets/ec026bc54026/1*V0YYO8IFuK9rMT-apc2h5A.jpeg)
+![](../assets/ec026bc54026/1*V0YYO8IFuK9rMT-apc2h5A.jpeg)
 
 
 Taher told us story about the UNHCR and Red Cross\. According to his story, both organization at the very beginning did not show needed attention to him and his family, as well as to the other refugees\. Even though Taher informed both organizations of his wife and kids health condition, little to nothing has been done to address this issue\. His kids, as he explains, have type of eye disease that impede them to see properly\. The medical help in the camp was only basic, and despite doctor who was careful, it was not enough to respond to existing needs\.
@@ -65,7 +65,7 @@ The situation changed after 5th January 2017 when the residents were given, by t
 Taher and his family, as well as number of others, decided that pushed back is better than staying in Macedonia, being afraid that it would mean staying in the detention for a longer time\. Nevertheless, they tried to get help from the UNHCR, one more time, asking them to take all the people in some camp in Greece\. Not even that was done\. Taher and his family were pushed back on 15th of January\. The weather conditions were harsh on that day and it was very cold\.
 
 
-[![VID 20170308 WA0017](assets/ec026bc54026/8f67_hqdefault.jpg "VID 20170308 WA0017")](http://www.youtube.com/watch?v=E9pKEvOMDuA)
+[![VID 20170308 WA0017](../assets/ec026bc54026/8f67_hqdefault.jpg "VID 20170308 WA0017")](http://www.youtube.com/watch?v=E9pKEvOMDuA)
 
 
 They left together with one other family and two single men\. Before leaving they went to the organizations working in the camp asking for money in order to pay public transports once they would have been arrived in Greece\. UNHCR refused to provide any money but eventually some volunteers done that, without being seen by other the other groups\.

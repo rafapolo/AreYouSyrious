@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 29/5/2017: New cases of police violence on the Croatian border
+title: "AYS Daily Digest 29/5/2017: New cases of police violence on the Croatian border"
 author: Are You Syrious?
 date: 2017-05-29T23:41:49.424+0100
 last_modified_at: 2017-05-29T23:46:07.417+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,refugeeswelcome,police-brutality,asylum-seekers,borders]
 description: New report on police brutality by AYS & Welcome initiative / Bulgaria plans ‘designated areas of movement’ for refugees / Dreadful…
 image:
-  path: assets/31e46ae20c18/1*jgjPTyGBUDIfyZjnPCOL8w.png
+  path: ../assets/31e46ae20c18/1*jgjPTyGBUDIfyZjnPCOL8w.png
 ---
 
 ### AYS Daily Digest 29/5/2017: New cases of police violence on the Croatian border
 #### New report on police brutality by AYS & Welcome initiative / Bulgaria plans ‘designated areas of movement’ for refugees / Dreadful situation for refugees at “Jungle” near Italian Gorizia / Reunification transfers from Greece to Germany to slow down / Over 140,000 Afghans returned home from neighboring countries
 
 
-![](assets/31e46ae20c18/1*jgjPTyGBUDIfyZjnPCOL8w.png)
+![](../assets/31e46ae20c18/1*jgjPTyGBUDIfyZjnPCOL8w.png)
 
 #### New cases of police violence on the border between Croatia and Serbia
 
@@ -106,11 +106,11 @@ SolidariTea [wrote](https://www.facebook.com/refugeesolidaritea/posts/1057131081
 
 
 
-![](assets/31e46ae20c18/1*hz_EHlO4vtt5C7fw-DJrcg.jpeg)
+![](../assets/31e46ae20c18/1*hz_EHlO4vtt5C7fw-DJrcg.jpeg)
 
 
 
-![SolidariTea](assets/31e46ae20c18/1*QHRXlB9wan6_g6QahP0NMw.jpeg)
+![SolidariTea](../assets/31e46ae20c18/1*QHRXlB9wan6_g6QahP0NMw.jpeg)
 
 SolidariTea
 #### ITALY
@@ -150,20 +150,20 @@ On the Jungle, along the Isonzo river, 5 minutes away from the city center of Go
 
 
 
-![](assets/31e46ae20c18/1*Dym5LsPcet5KmpqZ8VX6QA.jpeg)
+![](../assets/31e46ae20c18/1*Dym5LsPcet5KmpqZ8VX6QA.jpeg)
 
 
 
-![How they cook and what they receive to eat inside the hub](assets/31e46ae20c18/1*3axE4mZ8VZRKhTCyjOPwAw.jpeg)
+![How they cook and what they receive to eat inside the hub](../assets/31e46ae20c18/1*3axE4mZ8VZRKhTCyjOPwAw.jpeg)
 
 How they cook and what they receive to eat inside the hub
 
 
-![](assets/31e46ae20c18/1*gXuUYDdIEK-b1sK-q-WScg.jpeg)
+![](../assets/31e46ae20c18/1*gXuUYDdIEK-b1sK-q-WScg.jpeg)
 
 
 
-![Photos: Mauro Chiarabba](assets/31e46ae20c18/1*UtVm22dowXwzpR5ItfPoRw.jpeg)
+![Photos: Mauro Chiarabba](../assets/31e46ae20c18/1*UtVm22dowXwzpR5ItfPoRw.jpeg)
 
 Photos: Mauro Chiarabba
 #### SPAIN/MEDITERRANEAN SEA
@@ -171,7 +171,7 @@ Photos: Mauro Chiarabba
 The Portuguese air force has rescued 34 migrants at sea close to the Spanish coast\. During the patrol the team spotted a small boat in flames cause by an explosion on board from unknown causes\. All the refugees were rescued from this boat that apparently left from Morocco trying to reach Spain, Expresso [reports](http://expresso.sapo.pt/sociedade/2017-05-29-Forca-Aerea-resgata-34-migrantes-apos-explosao-de-barco-no-Mediterraneo) \.
 
 
-[![Força Aérea Portuguesa salva 34 migrantes vítimas de explosão no Mediterrâneo (28mai17)](assets/31e46ae20c18/27e2_hqdefault.jpg "Força Aérea Portuguesa salva 34 migrantes vítimas de explosão no Mediterrâneo (28mai17)")](http://www.youtube.com/watch?v=-8DUv_ddgyM)
+[![Força Aérea Portuguesa salva 34 migrantes vítimas de explosão no Mediterrâneo (28mai17)](../assets/31e46ae20c18/27e2_hqdefault.jpg "Força Aérea Portuguesa salva 34 migrantes vítimas de explosão no Mediterrâneo (28mai17)")](http://www.youtube.com/watch?v=-8DUv_ddgyM)
 
 #### GERMANY
 #### Reunification from Greece to Germany

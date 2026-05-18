@@ -1,5 +1,5 @@
 ---
-title: AYS Special from the Canary Islands: Why did so many people arrive in 2020 and where have they gone?
+title: "AYS Special from the Canary Islands: Why did so many people arrive in 2020 and where have they gone?"
 author: Are You Syrious?
 date: 2021-01-02T10:37:36.339+0000
 last_modified_at: 2021-01-02T10:37:36.339+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [canary-islands,spain,special,eastern-mediterranean,refugees]
 description: Are You Syrious?
 image:
-  path: assets/9b2932a4cad9/0*zWLuufeq-4KIANVc.jpeg
+  path: ../assets/9b2932a4cad9/0*zWLuufeq-4KIANVc.jpeg
 ---
 
 ### AYS Special from the Canary Islands: Why did so many people arrive in 2020 and where have they gone?
 
 
-![](assets/9b2932a4cad9/0*zOGrrs0nMil8QeAP.jpeg)
+![](../assets/9b2932a4cad9/0*zOGrrs0nMil8QeAP.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----c436e2278842--------------------------------)
@@ -23,11 +23,11 @@ image:
 _This year saw the highest number of arrivals on the Canary Islands since 2006\. Approximately 22,000 people, including around [2,500 unaccompanied children](https://www.infomigrants.net/en/post/29357/a-child-needs-more-than-food-and-shelter-the-fate-of-unaccompanied-minors-on-the-canary-islands) , have made this perilous journey in 2020, an increase of over 800% from 2019\._
 
 
-![](assets/9b2932a4cad9/0*dW0WMzZObSpi4Gqc)
+![](../assets/9b2932a4cad9/0*dW0WMzZObSpi4Gqc)
 
 
 
-![](assets/9b2932a4cad9/0*zWLuufeq-4KIANVc.jpeg)
+![](../assets/9b2932a4cad9/0*zWLuufeq-4KIANVc.jpeg)
 
 
 The Canary Islands have long been a site of international immigration stretching back beyond [Spanish colonialism](https://theanarchistlibrary.org/library/john-connor-precedent-for-the-new-world-the-spanish-conquest-of-the-canary-islands) and [the slave trade](https://archaeologynewsnetwork.blogspot.com/2017/01/oldest-cemetery-of-african-slaves-found.html) and forward to more recent times with high levels of [retirement migrants from Europe](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1665-89062007000100004) \. However, in 2020, it has once again been arrivals by small boats which have made the news just as they did in the [1990s and early 2000s](http://www.redcross.int/EN/mag/magazine2006_2/12-14.html) \.

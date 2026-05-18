@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 19/10/2018: Up to 1000 people enter Bosnia daily
+title: "AYS DAILY DIGEST 19/10/2018: Up to 1000 people enter Bosnia daily"
 author: Are You Syrious?
 date: 2018-10-20T10:35:29.953+0100
 last_modified_at: 2018-10-20T13:50:56.789+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,bosnia,eu,digest,us]
 description: The EU idea of the “regional disembarkation platforms” is still alive // Conditions in Bosnia are not improving // Police in Moria…
 image:
-  path: assets/c98082d3bfab/1*YwPIL-Mqw5orNyBE2wMH_Q.jpeg
+  path: ../assets/c98082d3bfab/1*YwPIL-Mqw5orNyBE2wMH_Q.jpeg
 ---
 
 ### AYS DAILY DIGEST 19/10/2018: Up to 1000 people enter Bosnia daily
@@ -15,7 +15,7 @@ image:
 _The EU idea of the “regional disembarkation platforms” is still alive // Conditions in Bosnia are not improving // Police in Moria mistreats people kept inside against their will // Mayor of Rome is building walls inside the city // the City of Heidelberg in Germany want to receive more people //_
 
 
-![By Gabriel Tizon](assets/c98082d3bfab/1*YwPIL-Mqw5orNyBE2wMH_Q.jpeg)
+![By Gabriel Tizon](../assets/c98082d3bfab/1*YwPIL-Mqw5orNyBE2wMH_Q.jpeg)
 
 By Gabriel Tizon
 #### Feature
@@ -41,7 +41,7 @@ In the meantime, the number of people arriving at the Balkans is increasing ever
 The IOM western Balkans team reports that some 2,537 people are registered in Albania, Montenegro and Bosnia and Herzegovina in the first two weeks of October\. Over 74 per cent are registered in Bosnia, the border EU country\. Among those who are coming, more than 64 different nationalities are registered\. Most of the people who entered Bosnia will try to continue toward the EU, but not all of them will make it on this journey and they will have to stay in Bosnia for some time\.
 
 
-![By Red Cross Bihac\. Distribution of the NFI in Borici camp, the place where up to 1000 people reside in unbearable conditions\.](assets/c98082d3bfab/1*tJ3CQ_iBlSTh4EnV-pYxsA.jpeg)
+![By Red Cross Bihac\. Distribution of the NFI in Borici camp, the place where up to 1000 people reside in unbearable conditions\.](../assets/c98082d3bfab/1*tJ3CQ_iBlSTh4EnV-pYxsA.jpeg)
 
 By Red Cross Bihac\. Distribution of the NFI in Borici camp, the place where up to 1000 people reside in unbearable conditions\.
 
@@ -73,7 +73,7 @@ IOM notes that over this year’s first five months, a total of 8,150 men, women
 **Over three days of this week \(15–17 October\), the Hellenic Coast Guard \(HCG\) was involved in at least seven incidents requiring search and rescue operations off the islands of Lesvos, Chios, Samos and Kos\.** In total, 313 people were saved\.
 
 
-![Photo by Chios Eastern Shore Response Team — Info Point](assets/c98082d3bfab/1*UcYiOkn8yyHq24Tevgt_zw.jpeg)
+![Photo by Chios Eastern Shore Response Team — Info Point](../assets/c98082d3bfab/1*UcYiOkn8yyHq24Tevgt_zw.jpeg)
 
 Photo by Chios Eastern Shore Response Team — Info Point
 
@@ -111,7 +111,7 @@ The Saturday morning started with [new landings](https://www.facebook.com/Aegean
 **This year, 21,766 arrivals arrived by sea to Italy\.** Many of them will head toward Rome where local authorities started putting up concrete barriers and a network of over 3 meters, Baobab group reports\.
 
 
-![By Baobab](assets/c98082d3bfab/1*aSp5BSEPSRwK843CitG8CQ.jpeg)
+![By Baobab](../assets/c98082d3bfab/1*aSp5BSEPSRwK843CitG8CQ.jpeg)
 
 By Baobab
 
@@ -144,7 +144,7 @@ Apparently, the men were instructed, after the intervention, to go to another ca
 **The blockade in front of the arms company Thales in Hengelo has been going on since 6\.30am on Friday\.** The action is against the role of the company \(formerly known as Holland Signal Devices \(HSA\) \) in the so\-called ‘refugee crisis’\.
 
 
-![Photo by [Stop the War on Migrations\.](https://www.facebook.com/326801787822462/posts/493059311196708/)](assets/c98082d3bfab/1*xUBNHDZI2boA3I12qTIXRw.jpeg)
+![Photo by [Stop the War on Migrations\.](https://www.facebook.com/326801787822462/posts/493059311196708/)](../assets/c98082d3bfab/1*xUBNHDZI2boA3I12qTIXRw.jpeg)
 
 Photo by [Stop the War on Migrations\.](https://www.facebook.com/326801787822462/posts/493059311196708/)
 

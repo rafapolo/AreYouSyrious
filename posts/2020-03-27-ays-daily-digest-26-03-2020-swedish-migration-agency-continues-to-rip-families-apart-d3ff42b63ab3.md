@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,childrens-rights,sweden]
 description: Updates from Pazarkule///Greek Parliament Denies the Right to Asylum///First Case of Coronavirus in CPR Gradisca
 image:
-  path: assets/d3ff42b63ab3/1*LjHi35Jgnneau-LgIM1ugQ.jpeg
+  path: ../assets/d3ff42b63ab3/1*LjHi35Jgnneau-LgIM1ugQ.jpeg
 ---
 
 ### AYS Daily Digest 26/03/2020 — Swedish Migration Agency Continues to Rip Families Apart
 #### Updates from Pazarkule///Greek Parliament Denies the Right to Asylum///First Case of Coronavirus in CPR Gradisca
 
 
-![Habib, Marie & Ali\. Photo Credits: AYS](assets/d3ff42b63ab3/1*LjHi35Jgnneau-LgIM1ugQ.jpeg)
+![Habib, Marie & Ali\. Photo Credits: AYS](../assets/d3ff42b63ab3/1*LjHi35Jgnneau-LgIM1ugQ.jpeg)
 
 Habib, Marie & Ali\. Photo Credits: AYS
 ### FEATURE: Sweden is separating families — Little Ali’s dad does not have enough reasons to stay, according to the Migration Agency
@@ -87,7 +87,7 @@ TURKEY
 Tensions are rising at Pazarkule as soldiers are threatening to disperse the gathering with force\. However, people continue to gather at the border between Turkey and Greece\. An AYS source reports:
 
 
-![The situation at Pazarkule\. Photo credits: Anonymous AYS source](assets/d3ff42b63ab3/0*yNRqKTLgNwLaDCBr)
+![The situation at Pazarkule\. Photo credits: Anonymous AYS source](../assets/d3ff42b63ab3/0*yNRqKTLgNwLaDCBr)
 
 The situation at Pazarkule\. Photo credits: Anonymous AYS source
 
@@ -99,7 +99,7 @@ The situation at Pazarkule\. Photo credits: Anonymous AYS source
 
 
 
-![More pictures from Pazarkule\. Photo credit: Anonymous AYS Source](assets/d3ff42b63ab3/0*Wnx56x7CudHiTlB3)
+![More pictures from Pazarkule\. Photo credit: Anonymous AYS Source](../assets/d3ff42b63ab3/0*Wnx56x7CudHiTlB3)
 
 More pictures from Pazarkule\. Photo credit: Anonymous AYS Source
 
@@ -111,7 +111,7 @@ The Greek parliament v [oted](https://www.oxfam.org/en/press-releases/new-greek-
 Instead of stripping people on the move of what meager rights they had before, the Greek government should be focused on the unsanitary, disease\-spreading conditions in the existing camps\. Overcrowding and lack of sanitary facilities are common in Chios, Lesvos and countless other places\. Vasilis Panxou, a volunteer on Chios, called the situation there a “ [nuclear bomb\.](https://www.facebook.com/smhumanitario/posts/2877415515683613?hc_location=ufi) ”
 
 
-[![Corona on the Greek islands](assets/d3ff42b63ab3/3b9a_hqdefault.jpg "Corona on the Greek islands")](https://www.youtube.com/watch?v=OLKabfk5LAk)
+[![Corona on the Greek islands](../assets/d3ff42b63ab3/3b9a_hqdefault.jpg "Corona on the Greek islands")](https://www.youtube.com/watch?v=OLKabfk5LAk)
 
 
 In response to the conditions, doctors across Europe started a \#SOSMoria campaign, calling on the Greek government and the EU to evacuate the camps and resettle people across the EU\. Medical professionals \(and others\) are asked to sign the distress call [here](https://en.sosmoria.eu/?fbclid=IwAR1sUu_2bF8G8KjHrw2Fd3GRXycdMnHfmKBF_kKFtCDi2LUSf1W-LkRFiDc) \.

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 20/08/20: A Coast Guard that does not reply to emergency calls
+title: "AYS Daily Digest 20/08/20: A Coast Guard that does not reply to emergency calls"
 author: Are You Syrious?
 date: 2020-08-21T15:44:02.005+0100
 last_modified_at: 2020-08-21T15:44:02.005+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,europe,digest,mediterranean,greece]
 description: While IOM and UNHCR express their grief about a shipwreck, Alarm Phone reminds them of another one that has been ignored by authorities //…
 image:
-  path: assets/8e033d6bc7de/0*2WtTbtbes0aORj4v.jpeg
+  path: ../assets/8e033d6bc7de/0*2WtTbtbes0aORj4v.jpeg
 ---
 
 ### AYS Daily Digest 20/08/20: A Coast Guard that does not reply to emergency calls
 ### While IOM and UNHCR express their grief about a shipwreck, Alarm Phone reminds them of another one that has been ignored by authorities // clashes between police and locals in Moria and attacks against refugees and support infrastructure // Greek PM upholds denial of pushbacks //
 
 
-![](assets/8e033d6bc7de/0*vO8uM7MxLDYVSlUZ.jpeg)
+![](../assets/8e033d6bc7de/0*vO8uM7MxLDYVSlUZ.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----3e1697b8c6bc----------------------)
@@ -22,11 +22,11 @@ image:
 [Aug 21](ays-daily-digest-20-08-20-a-coast-guard-that-does-not-reply-emergency-calls-3e1697b8c6bc?source=post_page-----3e1697b8c6bc----------------------) · 12 min read
 
 
-![](assets/8e033d6bc7de/0*NiI9MEJZvYROlk10)
+![](../assets/8e033d6bc7de/0*NiI9MEJZvYROlk10)
 
 
 
-![](assets/8e033d6bc7de/0*2WtTbtbes0aORj4v.jpeg)
+![](../assets/8e033d6bc7de/0*2WtTbtbes0aORj4v.jpeg)
 
 ### FEATURE: More Lives lost at Sea
 
@@ -202,11 +202,11 @@ Find many useful resources on their FB page\.
 As we reported yesterday, the body of a 16\-year\-old boy from Sudan was found on Wednesday morning on the beach of Sangatte \(Pas\-de\-Calais\) \. He died while trying to cross the Channel to the UK\. His name was WAJDI HADALLAH HAMMAD\. A rally in his memory was held on Thursday at 6\.30 pm in Richelieu Park in Calais\.
 
 
-![](assets/8e033d6bc7de/0*lPKPwFgVDUa1NYym)
+![](../assets/8e033d6bc7de/0*lPKPwFgVDUa1NYym)
 
 
 
-![](assets/8e033d6bc7de/0*8LN8gR4WG_I-hFAM.jpeg)
+![](../assets/8e033d6bc7de/0*8LN8gR4WG_I-hFAM.jpeg)
 
 ### UK
 

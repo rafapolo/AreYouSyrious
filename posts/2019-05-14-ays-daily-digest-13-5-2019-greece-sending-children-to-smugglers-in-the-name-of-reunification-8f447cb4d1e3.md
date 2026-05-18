@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,greece,children,digest,europe]
 description: More people missing in route from Lebanon to Cyrus // reports of the LCG shooting at people they took back to detain // Austria debuts the…
 image:
-  path: assets/8f447cb4d1e3/1*p0RBAafhUZpZgtWEHy_6UA.jpeg
+  path: ../assets/8f447cb4d1e3/1*p0RBAafhUZpZgtWEHy_6UA.jpeg
 ---
 
 ### AYS Daily Digest 13/5/19: Greece sending children to smugglers in the name of “reunification”
@@ -58,7 +58,7 @@ SAMOS → two boats with 94 people in total \(the first with 56 people, the seco
 A total of 14,750 people are now on the islands, where 20% are women and 34% are children\. Of the children, 60% are under 12 years old\. Also, according to latest S [tatistical Data of the Greek Asylum Service](http://asylo.gov.gr/en/wp-content/uploads/2019/05/Greek_Asylum_Stats_Apr2019_EN.pdf) \(30\.04\.2019\) there are still 62,312 pending applications for asylum\.
 
 
-![Photo by [Chios Eastern Shore Response Team](https://www.facebook.com/chiosesrt/posts/2153605498041956)](assets/8f447cb4d1e3/1*p0RBAafhUZpZgtWEHy_6UA.jpeg)
+![Photo by [Chios Eastern Shore Response Team](https://www.facebook.com/chiosesrt/posts/2153605498041956)](../assets/8f447cb4d1e3/1*p0RBAafhUZpZgtWEHy_6UA.jpeg)
 
 Photo by [Chios Eastern Shore Response Team](https://www.facebook.com/chiosesrt/posts/2153605498041956)
 
@@ -82,7 +82,7 @@ ERMES — Εffective and Respectful Mental Health Support — will have some men
 Find out more [here](https://www.facebook.com/gfr.ermes/posts/2034915193477468?hc_location=ufi) about their mission and if you can help\!
 
 
-![Photo by ERMES](assets/8f447cb4d1e3/1*P8_BFb1woYflAE9dc2WXCA.jpeg)
+![Photo by ERMES](../assets/8f447cb4d1e3/1*P8_BFb1woYflAE9dc2WXCA.jpeg)
 
 Photo by ERMES
 #### AUSTRIA
@@ -114,7 +114,7 @@ They **need translators** so everyone can participate\! If you speak any of the 
 The EU Council of Refugees and Exiles\(ECRE\) and the European Legal Network on Aslyum \(ELENA\) have compiled information on domestic & recent case law on returns to Afghanistan\. Find out more [here](https://www.facebook.com/asylumlawdatabase.eu/photos/a.377298708966409/2748045908558332/?type=3&theater) \.
 
 
-![Photo by E [DAL European Database of Asylum Law](https://www.facebook.com/asylumlawdatabase.eu/photos/a.377298708966409/2748045908558332/?type=3&theater)](assets/8f447cb4d1e3/1*rQ2f98mDiyBnPD_DCSx0Vg.jpeg)
+![Photo by E [DAL European Database of Asylum Law](https://www.facebook.com/asylumlawdatabase.eu/photos/a.377298708966409/2748045908558332/?type=3&theater)](../assets/8f447cb4d1e3/1*rQ2f98mDiyBnPD_DCSx0Vg.jpeg)
 
 Photo by E [DAL European Database of Asylum Law](https://www.facebook.com/asylumlawdatabase.eu/photos/a.377298708966409/2748045908558332/?type=3&theater)
 #### AYS and the Daily News Digest — how to get involved?

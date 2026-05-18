@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 12/9/22: 6 Syrian refugees found dead on a boat that arrived at the port of…
+title: "AYS News Digest 12/9/22: 6 Syrian refugees found dead on a boat that arrived at the port of…"
 author: Are You Syrious?
 date: 2022-09-13T17:49:36.654+0100
 last_modified_at: 2022-09-13T17:53:39.560+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,european-union,italy,frontex]
 description: Legal risks associated to the ETIAS regulation//Press Release by the Association des Mères de Migrants Disparus//PRO ASYL and 60 NGOs sign…
 image:
-  path: assets/b59d309b915/0*zMwu4zMOQYcgURTV
+  path: ../assets/b59d309b915/0*zMwu4zMOQYcgURTV
 ---
 
 ### AYS News Digest 12/9/22: 6 Syrian refugees found dead on a boat that arrived at the port of Pozzallo, Sicily
@@ -15,7 +15,7 @@ image:
 Legal risks associated to the ETIAS regulation//Press Release by the Association des Mères de Migrants Disparus//PRO ASYL and 60 NGOs sign a letter warning against an EU regulation that would undermine European Asylum Law// A 16\-year\-old boy, without a legal guardian, was pushed back from Poland into Belarus//A train collision in Croatia left 12 injured, including an Iranian family//Turkey has released footage of a Greek illegal pushback//Ahead of the elections, UNHCR has sent sent 12 proposals to Italy’s politicians//and much more…
 
 
-![Source: SOS Humanity Tweet September 10th 2022](assets/b59d309b915/0*zMwu4zMOQYcgURTV)
+![Source: SOS Humanity Tweet September 10th 2022](../assets/b59d309b915/0*zMwu4zMOQYcgURTV)
 
 Source: SOS Humanity Tweet September 10th 2022
 #### FEATURE
@@ -174,7 +174,7 @@ The group were found in a compartment with no air vents, windows or safety belts
 [This article](https://english.alaraby.co.uk/features/afghans-istanbul-kitted-out-long-trek-europe?fbclid=IwAR2SEnr3dbJOBGVXxDCyyPiPzxRIdTW7Ga5rWRrcGQfJAi3Ekzr1cmQEcfg) offers a snippet into the lives of Afghan refugees living in horrendous conditions, in constant fear of being repatriated\.
 
 
-![_Source: The New Arab — Afghan refugees seeking to reach Europe are seen under a viaduct where they have been staying for about three months in the Zeytinburnu District of Istanbul, Turkey_](assets/b59d309b915/0*94ecbcLOcIOcGDfZ)
+![_Source: The New Arab — Afghan refugees seeking to reach Europe are seen under a viaduct where they have been staying for about three months in the Zeytinburnu District of Istanbul, Turkey_](../assets/b59d309b915/0*94ecbcLOcIOcGDfZ)
 
 _Source: The New Arab — Afghan refugees seeking to reach Europe are seen under a viaduct where they have been staying for about three months in the Zeytinburnu District of Istanbul, Turkey_
 #### GREECE

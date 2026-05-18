@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 07/05/2018: Seven of the Moria35 face deportation
+title: "AYS Daily Digest 07/05/2018: Seven of the Moria35 face deportation"
 author: Are You Syrious?
 date: 2018-05-08T03:12:22.788+0100
 last_modified_at: 2018-05-08T03:14:44.082+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,moria35,greece,mediterranean]
 description: Greek authorities refuse them aslyum / Ten-Thousands newly displaced people in Afghanistan and Yemen, OCHA-report states / Lifeguards found…
 image:
-  path: assets/b260ec073e5f/1*tDya-E2dtz_m1QyTHKfgCw.jpeg
+  path: ../assets/b260ec073e5f/1*tDya-E2dtz_m1QyTHKfgCw.jpeg
 ---
 
 ### AYS Daily Digest 07/05/2018: Seven of the Moria35 face deportation
 #### Greek authorities refuse them aslyum / Ten\-Thousands newly displaced people in Afghanistan and Yemen, OCHA\-report states / Lifeguards found innocent / Apparently new deportation scheduled from Austria
 
 
-![Even though some of them still have ongoing complaints against the police, seven of the Moria35 trial face deportation on Thursday\. Credits: [Refugee Accommodation and Solidarity Space City Plaza](https://www.facebook.com/sol2refugeesen/photos/p.1746733245619011/1746733245619011/?type=1&opaqueCursor=Abp2rbmldloNlVLV8q4DUcVVbp0AQP00LSXJ6WWVcxG0ntbS-32iSZRDNIaKKiEkiPaeOfoIFJjHA4Hqy0E-lSs0N6HltSBrBIqoNAzcqAq3CeMVxzQxdAOkqPgfB1kSKF6W8Qc7gJ3HZUtJ0F97DuJtd5-a0zEj5STomQ7KNw7PfckxkHNyK-1p2epUJ8uh1lOUy-IcVYuFYXLnG-N9GYOE1NObaTev4K2cS9cllvVfm77uKuk3wcXQ-mNAKDtw2G_tZYYDKLNQchGQF3hxkr6dZCcnsCj5qfwZJXtvS2Ffh5lqXDUJfvtFApi9yXDAItLiJVLMKKsj7tsE2wGugirmRfmZ_e0AzIW1sjnqjYQNE_Ugdgd09_TXewC6ETMZrEVHUXiOiAXUnxh1n-0fXGkg&theater)](assets/b260ec073e5f/1*tDya-E2dtz_m1QyTHKfgCw.jpeg)
+![Even though some of them still have ongoing complaints against the police, seven of the Moria35 trial face deportation on Thursday\. Credits: [Refugee Accommodation and Solidarity Space City Plaza](https://www.facebook.com/sol2refugeesen/photos/p.1746733245619011/1746733245619011/?type=1&opaqueCursor=Abp2rbmldloNlVLV8q4DUcVVbp0AQP00LSXJ6WWVcxG0ntbS-32iSZRDNIaKKiEkiPaeOfoIFJjHA4Hqy0E-lSs0N6HltSBrBIqoNAzcqAq3CeMVxzQxdAOkqPgfB1kSKF6W8Qc7gJ3HZUtJ0F97DuJtd5-a0zEj5STomQ7KNw7PfckxkHNyK-1p2epUJ8uh1lOUy-IcVYuFYXLnG-N9GYOE1NObaTev4K2cS9cllvVfm77uKuk3wcXQ-mNAKDtw2G_tZYYDKLNQchGQF3hxkr6dZCcnsCj5qfwZJXtvS2Ffh5lqXDUJfvtFApi9yXDAItLiJVLMKKsj7tsE2wGugirmRfmZ_e0AzIW1sjnqjYQNE_Ugdgd09_TXewC6ETMZrEVHUXiOiAXUnxh1n-0fXGkg&theater)](../assets/b260ec073e5f/1*tDya-E2dtz_m1QyTHKfgCw.jpeg)
 
 Even though some of them still have ongoing complaints against the police, seven of the Moria35 trial face deportation on Thursday\. Credits: [Refugee Accommodation and Solidarity Space City Plaza](https://www.facebook.com/sol2refugeesen/photos/p.1746733245619011/1746733245619011/?type=1&opaqueCursor=Abp2rbmldloNlVLV8q4DUcVVbp0AQP00LSXJ6WWVcxG0ntbS-32iSZRDNIaKKiEkiPaeOfoIFJjHA4Hqy0E-lSs0N6HltSBrBIqoNAzcqAq3CeMVxzQxdAOkqPgfB1kSKF6W8Qc7gJ3HZUtJ0F97DuJtd5-a0zEj5STomQ7KNw7PfckxkHNyK-1p2epUJ8uh1lOUy-IcVYuFYXLnG-N9GYOE1NObaTev4K2cS9cllvVfm77uKuk3wcXQ-mNAKDtw2G_tZYYDKLNQchGQF3hxkr6dZCcnsCj5qfwZJXtvS2Ffh5lqXDUJfvtFApi9yXDAItLiJVLMKKsj7tsE2wGugirmRfmZ_e0AzIW1sjnqjYQNE_Ugdgd09_TXewC6ETMZrEVHUXiOiAXUnxh1n-0fXGkg&theater)
 ### Feature: Seven of the Moria35 face deportation
@@ -32,7 +32,7 @@ Additionally, the group sees clear reasons to grant these people asylum in Greec
 The Moria35 case [was about](ays-daily-digest-26-04-2018-syrians-about-to-lose-their-property-by-law-c42cc47255be) arrests following clashes in the hotspot on 18th July 2017\. Witnesses and the defendants themselves criticized, that they were arbitrary arrested by police forces far after the riots, when everything was calm again— some even stated, that they were not involved in the fights or protests at all\. The police was criticized for the use of excessive violence, including tear gas\.
 
 
-[![Moria 35](assets/b260ec073e5f/9680_hqdefault.jpg "Moria 35")](https://www.youtube.com/watch?v=8RRhcBqcltc)
+[![Moria 35](../assets/b260ec073e5f/9680_hqdefault.jpg "Moria 35")](https://www.youtube.com/watch?v=8RRhcBqcltc)
 
 
 However, according to the Legal Centre Lesbos, 32 of the 35 defendants were found guilty of injury to public officals, but acquitted on all other charges\. They were eligible for a suspended prison sentence and therefore released soon after\. The three others were fround innocent of all charges\. “The trial in Chios was fraught with serious procedural problems, including an absence of interpretation for the majority of the trial and the severely limited time the defendants and defence witnesses were given to present their side of the story,” LCL [concluded](http://www.legalcentrelesbos.org/2018/04/28/the-moria-35-trial-results-in-conviction-of-32/) the judgement\.
@@ -104,7 +104,7 @@ While the Greek court clearly emphasized in its ruling, that sea rescue is not a
 AFP [reports](https://apnews.com/d2cf4d6b2195422e8faf0e10fd9e286f) about the incident, that the Italian Coast Guard asked the British authorities for authorization of the transfer as both ships are sailing under the British flag\. But they replied to not be the coordinator
 
 
-![After 15 hours of waiting, the rescued people could finally leave the Aquarius\. Credits: [Anthony Jean/SOS Mediterranee](https://twitter.com/SOSMedIntl/status/993596844512088064)](assets/b260ec073e5f/1*0RXPu5Ku7s5ZMvhAUJT-DQ.jpeg)
+![After 15 hours of waiting, the rescued people could finally leave the Aquarius\. Credits: [Anthony Jean/SOS Mediterranee](https://twitter.com/SOSMedIntl/status/993596844512088064)](../assets/b260ec073e5f/1*0RXPu5Ku7s5ZMvhAUJT-DQ.jpeg)
 
 After 15 hours of waiting, the rescued people could finally leave the Aquarius\. Credits: [Anthony Jean/SOS Mediterranee](https://twitter.com/SOSMedIntl/status/993596844512088064)
 
@@ -124,7 +124,7 @@ AYS previously [reported](ays-daily-digest-2-5-18-more-than-3000-new-arrivals-in
 For the ones willing to learn French during their stay, [Réfugiés Bienvenue](https://www.facebook.com/refugiesbienvenue/?ref=gs&fref=gs&dti=1006253006128240&hc_location=group) hosts language courses in small groups from one to three people per teacher\. The lessons are provided every Wednesday from 1pm to 2pm at Reed Expositions, 52–54 quai de Dion\-Bouton à Puteaux \(Métro : Esplanade de la Défense, Exit \#3, then go right and down towards the Seine to arrive at the quais\) \. More classes can be arranged individually with the teachers\. Additional questions can be asked to info@refugiebienvenue\.com\.
 
 
-![Map to Reed Expositions\. Credits: [David Durand\-Delacre](https://www.facebook.com/groups/P2PParis/permalink/1693574050729462/?hc_location=ufi)](assets/b260ec073e5f/1*Rz4Jl3VtpLMqNIC8nA-InA.jpeg)
+![Map to Reed Expositions\. Credits: [David Durand\-Delacre](https://www.facebook.com/groups/P2PParis/permalink/1693574050729462/?hc_location=ufi)](../assets/b260ec073e5f/1*Rz4Jl3VtpLMqNIC8nA-InA.jpeg)
 
 Map to Reed Expositions\. Credits: [David Durand\-Delacre](https://www.facebook.com/groups/P2PParis/permalink/1693574050729462/?hc_location=ufi)
 ### Ireland

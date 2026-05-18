@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 14/06/21: Trial against ‘Moria Six’ not up to legal standards
+title: "AYS Daily Digest 14/06/21: Trial against ‘Moria Six’ not up to legal standards"
 author: Are You Syrious?
 date: 2021-06-15T22:46:42.261+0100
 last_modified_at: 2021-06-15T22:46:42.261+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [greece,refugees,immigration,austria,digest]
 description: Watch out for Austria externalizing borders // conviction of smuggler in Libya // updates in Serbia and France // lots of government…
 image:
-  path: assets/77b25505b682/0*8L-irODTwOaIKI39.jpg
+  path: ../assets/77b25505b682/0*8L-irODTwOaIKI39.jpg
 ---
 
 ### AYS Daily Digest 14/06/21: Trial against ‘Moria Six’ not up to legal standards
 ### Watch out for Austria externalizing borders // conviction of smuggler in Libya // updates in Serbia and France // lots of government problems in the UK // and more…
 
 
-![](assets/77b25505b682/0*qNRjgPwc8rHK9lV5.jpeg)
+![](../assets/77b25505b682/0*qNRjgPwc8rHK9lV5.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----7c0f4f67b8af--------------------------------)
@@ -22,7 +22,7 @@ image:
 [Jun 15](ays-daily-digest-14-06-21-trial-against-moria-six-not-up-to-legal-standards-7c0f4f67b8af?source=post_page-----7c0f4f67b8af--------------------------------) · 7 min read
 
 
-![](assets/77b25505b682/0*8L-irODTwOaIKI39.jpg)
+![](../assets/77b25505b682/0*8L-irODTwOaIKI39.jpg)
 
 
 Photo by Freedom for the Moria 6 who said in a press release 13/06/21 “Yesterday’s verdict came as no surprise to international trial observers who criticized the lack of evidence and spoke of an unfair trial procedure\. Only 15 people were allowed in the courtroom\. The public, including journalists, a delegation of international observers, and a representative of the UNHCR, was prevented from observing proceedings\. At least six police officers were in the room — a disproportionate number that was not necessary to secure the court\. A strong crowd of people showed their support for the defendants in the front of the court building\.” More [here](https://freethemoria6.noblogs.org/) \.
@@ -66,7 +66,7 @@ Civil Fleet Reports on the Moria fire trials and how they were not up to legal s
 ### SEA
 
 
-![](assets/77b25505b682/0*xsJS3iTq2mhd-FBV)
+![](../assets/77b25505b682/0*xsJS3iTq2mhd-FBV)
 
 
 Photo by [IOM](https://www.facebook.com/IOMLibya/photos/a.596682760492685/2024392947721652/)
@@ -94,14 +94,14 @@ They state: _“The substantive examination of asylum applications is the only s
 
 
 
-![](assets/77b25505b682/0*3c69YnM-GLkKjCIC)
+![](../assets/77b25505b682/0*3c69YnM-GLkKjCIC)
 
 
 Photo by [Velos Youth](https://www.facebook.com/velosyouthathens/posts/2656077604689859)
 ### SERBIA
 
 
-![](assets/77b25505b682/0*BTbDSWf5lCiZv3xi)
+![](../assets/77b25505b682/0*BTbDSWf5lCiZv3xi)
 
 
 “News from Šid:
@@ -117,7 +117,7 @@ Naceur continues _“ **ICMPD’s expansion substantially accelerates since its 
 ### FRANCE
 
 
-![](assets/77b25505b682/0*FRwu3hyBtRtsu3JV)
+![](../assets/77b25505b682/0*FRwu3hyBtRtsu3JV)
 
 
 “Night from June 13th to 14th,
@@ -177,7 +177,7 @@ Huck mag reports: “A Home Office error over a new card changeover has left tho
 [Read in full here\.](https://www.huckmag.com/art-and-culture/the-asylum-seekers-left-to-go-hungry-after-cash-card-delays/?fbclid=IwAR1TA-mOwU_3GSsoCHYL6KDOJoq2mOG0tAw7x8dwxpa3ZoD2hD_s907PeAo)
 
 
-![](assets/77b25505b682/0*zIHI-OrVkrcl_gZK.jpg)
+![](../assets/77b25505b682/0*zIHI-OrVkrcl_gZK.jpg)
 
 
 “The Cheshire, Halton & Warrington Race & Equality Centre \(CHAWREC\) hold a weekly drop\-in session where they provide, English classes, food, clothing, support and advice for asylum seekers and refugees in the area\. They are in ‘desperate need of funds’ to continue their work\.” Please learn how you can help here\! Photo by [CHAWREC](https://www.cheshire-live.co.uk/news/chester-cheshire-news/group-supports-asylum-seekers-cheshire-20783772?fbclid=IwAR0R0yw7iuijo8AW7XECOQX7AScpBSeIDXDLHNZsCAeYHs8BiMOK03Ypew4)

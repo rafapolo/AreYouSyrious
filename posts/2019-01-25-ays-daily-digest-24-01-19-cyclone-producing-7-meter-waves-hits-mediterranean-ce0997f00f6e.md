@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 24/01/19: Cyclone Producing 7 Meter Waves Hits Mediterranean
+title: "AYS Daily Digest 24/01/19: Cyclone Producing 7 Meter Waves Hits Mediterranean"
 author: Are You Syrious?
 date: 2019-01-25T11:32:44.224+0000
 last_modified_at: 2021-05-25T23:45:06.404+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,italy,europe,human-rights]
 description: 47 people rescued on Board Sea Watch 3, denied access to Italian Ports as Weather Worsened in Mediterranean//100 people remain trapped in…
 image:
-  path: assets/ce0997f00f6e/1*oPj0ymeJO_hmxDTVasLUFg.jpeg
+  path: ../assets/ce0997f00f6e/1*oPj0ymeJO_hmxDTVasLUFg.jpeg
 ---
 
 ### AYS Daily Digest 24/01/19: Cyclone producing seven meter waves hits Mediterranean
@@ -15,7 +15,7 @@ image:
 _47 people rescued on Board Sea Watch 3, denied access to Italian Ports as Weather Worsened in Mediterranean //100 people remain trapped in Nador detention facility // Situation in Libyan detention camp Mistrata deteriorating // Weather warning for Greece // Fourth day of Protests on Samos // Salvini to close largest reception center in Europe, Cara Mineo // 2000 people sleeping on streets of Paris // UK returns people who crossed the English Channel from France / And more news…_
 
 
-![Source: [Federico Scoppa](https://www.facebook.com/Scoppa.Photos?__tn__=%2CdCH-R-R&eid=ARBkkqscVe2uqeFLDVDktHzOFqKR7dOhI7nkL50qjsD_eHpknMYkONC4_Vxf6eKEW-QnFozRctyDy3Fw&hc_ref=ARSEMCTjHMEvGNcZ2Xx3ON5YVVDdTEYQucTIQql8RAY0O2JjptJqYS01CLPdkeX1Iy8&fref=nf)](assets/ce0997f00f6e/1*oPj0ymeJO_hmxDTVasLUFg.jpeg)
+![Source: [Federico Scoppa](https://www.facebook.com/Scoppa.Photos?__tn__=%2CdCH-R-R&eid=ARBkkqscVe2uqeFLDVDktHzOFqKR7dOhI7nkL50qjsD_eHpknMYkONC4_Vxf6eKEW-QnFozRctyDy3Fw&hc_ref=ARSEMCTjHMEvGNcZ2Xx3ON5YVVDdTEYQucTIQql8RAY0O2JjptJqYS01CLPdkeX1Iy8&fref=nf)](../assets/ce0997f00f6e/1*oPj0ymeJO_hmxDTVasLUFg.jpeg)
 
 Source: [Federico Scoppa](https://www.facebook.com/Scoppa.Photos?__tn__=%2CdCH-R-R&eid=ARBkkqscVe2uqeFLDVDktHzOFqKR7dOhI7nkL50qjsD_eHpknMYkONC4_Vxf6eKEW-QnFozRctyDy3Fw&hc_ref=ARSEMCTjHMEvGNcZ2Xx3ON5YVVDdTEYQucTIQql8RAY0O2JjptJqYS01CLPdkeX1Iy8&fref=nf)
 ### FEATURE
@@ -104,7 +104,7 @@ Drop in the Ocean is in need of volunteer English teachers in Athens and on Lesv
 athen@drapenihavet\.no or lesvos@drapenihavet\.no
 
 
-![Source: AYS](assets/ce0997f00f6e/1*tTflLGHB0959oaIo1OQsHw.jpeg)
+![Source: AYS](../assets/ce0997f00f6e/1*tTflLGHB0959oaIo1OQsHw.jpeg)
 
 Source: AYS
 #### Samos
@@ -162,7 +162,7 @@ Interior Minister Salvini has announced that the next center to close in Italy w
 Calais Action reports that more than 2000 people are sleeping on the streets of Paris under heavy snow and cold weather\.
 
 
-![Source: [Calais Action](https://www.facebook.com/calaisaction/?__tn__=%2CdKH-R-R&eid=ARAHOgBsvsobwpEKqkmNz3MbJhEjebVZekmmZKW42___YGq9gtLPtybsq1Z2ig6Y0jT3aJe52SwbwM0S&fref=mentions)](assets/ce0997f00f6e/1*Y12Uu6-eMrbdYGMOoarUyQ.jpeg)
+![Source: [Calais Action](https://www.facebook.com/calaisaction/?__tn__=%2CdKH-R-R&eid=ARAHOgBsvsobwpEKqkmNz3MbJhEjebVZekmmZKW42___YGq9gtLPtybsq1Z2ig6Y0jT3aJe52SwbwM0S&fref=mentions)](../assets/ce0997f00f6e/1*Y12Uu6-eMrbdYGMOoarUyQ.jpeg)
 
 Source: [Calais Action](https://www.facebook.com/calaisaction/?__tn__=%2CdKH-R-R&eid=ARAHOgBsvsobwpEKqkmNz3MbJhEjebVZekmmZKW42___YGq9gtLPtybsq1Z2ig6Y0jT3aJe52SwbwM0S&fref=mentions)
 #### **Volunteers needed**
@@ -170,7 +170,7 @@ Source: [Calais Action](https://www.facebook.com/calaisaction/?__tn__=%2CdKH-R-R
 Mobile Refugee Support is in search for volunteers to join their team to help deal with the high numbers and new arrivals\.
 
 
-![Source: Mobile Refugee Support](assets/ce0997f00f6e/1*TXmb4Ya1LXPGp43IlSWWPQ.jpeg)
+![Source: Mobile Refugee Support](../assets/ce0997f00f6e/1*TXmb4Ya1LXPGp43IlSWWPQ.jpeg)
 
 Source: Mobile Refugee Support
 

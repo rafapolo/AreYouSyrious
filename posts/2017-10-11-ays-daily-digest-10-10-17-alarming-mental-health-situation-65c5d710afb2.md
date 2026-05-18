@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 10/10/17: Alarming mental health situation
+title: "AYS Daily Digest 10/10/17: Alarming mental health situation"
 author: Are You Syrious?
 date: 2017-10-11T02:02:24.054+0100
 last_modified_at: 2017-10-11T09:57:05.849+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,greece,mental-health,sweden,europe]
 description: Moving people from islands to mainland Greece is an imperative, MSF claims / harsh conditions for a growing number of detained refugees in…
 image:
-  path: assets/65c5d710afb2/1*pfAVevnQQthpREjE5yr_lg.jpeg
+  path: ../assets/65c5d710afb2/1*pfAVevnQQthpREjE5yr_lg.jpeg
 ---
 
 ### AYS Daily Digest 10/10/17: Alarming mental health situation
 #### Moving people from islands to mainland Greece is an imperative, MSF claims / harsh conditions for a growing number of detained refugees in Libya / Turkey’s official number of pushbacks rises to 700 / Camps will be closing in Greece / protests against deportations to Afghanistan in Sweden / Help needed in France / more information, stats and calls for volunteering
 
 
-![Photo: [**Refugee Info Bus**](https://www.facebook.com/RefugeeInfoBus/)](assets/65c5d710afb2/1*pfAVevnQQthpREjE5yr_lg.jpeg)
+![Photo: [**Refugee Info Bus**](https://www.facebook.com/RefugeeInfoBus/)](../assets/65c5d710afb2/1*pfAVevnQQthpREjE5yr_lg.jpeg)
 
 Photo: [**Refugee Info Bus**](https://www.facebook.com/RefugeeInfoBus/)
 #### FEATURE
@@ -223,11 +223,11 @@ If you are interested in a workshop in English, Urdu or Pashto, message Dimitra 
 Please find detailed information and text in other languages [**here**](https://www.facebook.com/refugee.info/posts/1542601539133321?hc_location=ufi) \.
 
 
-![](assets/65c5d710afb2/1*gXV-r55T4_znfVKYF9Du8Q.jpeg)
+![](../assets/65c5d710afb2/1*gXV-r55T4_znfVKYF9Du8Q.jpeg)
 
 
 
-![Join Hope Refugee FC, Athens’s 1st football team consisting of refugees & asylums seekers\! Are you a refugee/asylum seeker & passionate for football? Come to Hope’s try outs, on Thursday Oct 12th & Friday Oct 13th\. \(Source: [Hope Refugee FC\-Αθλητική Ελπίδα Προσφύγων](https://www.facebook.com/HopeRefugeeFC/?ref=gs&hc_ref=ARRh5QPsMHsPHdG9EOqpxELYzmgWZcIadBPDtF_yv9Fc1aAq4rFm9RisE10hF7EyruI&fref=gs&hc_location=group) \)](assets/65c5d710afb2/1*-agDBQ3-Vy7WKRn26fOKwQ.jpeg)
+![Join Hope Refugee FC, Athens’s 1st football team consisting of refugees & asylums seekers\! Are you a refugee/asylum seeker & passionate for football? Come to Hope’s try outs, on Thursday Oct 12th & Friday Oct 13th\. \(Source: [Hope Refugee FC\-Αθλητική Ελπίδα Προσφύγων](https://www.facebook.com/HopeRefugeeFC/?ref=gs&hc_ref=ARRh5QPsMHsPHdG9EOqpxELYzmgWZcIadBPDtF_yv9Fc1aAq4rFm9RisE10hF7EyruI&fref=gs&hc_location=group) \)](../assets/65c5d710afb2/1*-agDBQ3-Vy7WKRn26fOKwQ.jpeg)
 
 Join Hope Refugee FC, Athens’s 1st football team consisting of refugees & asylums seekers\! Are you a refugee/asylum seeker & passionate for football? Come to Hope’s try outs, on Thursday Oct 12th & Friday Oct 13th\. \(Source: [Hope Refugee FC\-Αθλητική Ελπίδα Προσφύγων](https://www.facebook.com/HopeRefugeeFC/?ref=gs&hc_ref=ARRh5QPsMHsPHdG9EOqpxELYzmgWZcIadBPDtF_yv9Fc1aAq4rFm9RisE10hF7EyruI&fref=gs&hc_location=group) \)
 
@@ -270,7 +270,7 @@ Violent and abusive behavior of the EU police officials continues, as told by MS
 According to the ground sources, members of the French National Police have destroyed a number of provisional sleeping places, simple tents and sleeping bags, of the refugees sleeping rough\.
 
 
-![Photo: [Brigitte Boitel](https://www.facebook.com/brigitte.boitel.50?fref=gs&hc_location=group_dialog)](assets/65c5d710afb2/1*oilZzdCGACvAKWov0RD90w.jpeg)
+![Photo: [Brigitte Boitel](https://www.facebook.com/brigitte.boitel.50?fref=gs&hc_location=group_dialog)](../assets/65c5d710afb2/1*oilZzdCGACvAKWov0RD90w.jpeg)
 
 Photo: [Brigitte Boitel](https://www.facebook.com/brigitte.boitel.50?fref=gs&hc_location=group_dialog)
 
@@ -329,7 +329,7 @@ Donations needed in the Dunkirk area, as volunteers report:
 
 
 
-![Source: [Timothy Perkins](https://www.facebook.com/timothy.perkins.77)](assets/65c5d710afb2/1*N0qlGKTeQEeP9TviGtFMGQ.jpeg)
+![Source: [Timothy Perkins](https://www.facebook.com/timothy.perkins.77)](../assets/65c5d710afb2/1*N0qlGKTeQEeP9TviGtFMGQ.jpeg)
 
 Source: [Timothy Perkins](https://www.facebook.com/timothy.perkins.77)
 #### BELGIUM
@@ -350,7 +350,7 @@ There is a growing concern over a large number of deportations to Afghanistan la
 An activist group has been calling for people to come on the evening of October 10 and try to stop a deportation of reportedly at least 9 people from Afghanistan who had been in the country for years\.
 
 
-![Event link with more information: [**here**](https://www.facebook.com/events/130753214243633/?acontext=%7B%22ref%22%3A%224%22%2C%22feed_story_type%22%3A%22308%22%2C%22action_history%22%3A%22null%22%7D)](assets/65c5d710afb2/1*qKKc9kCPmAROdxmEg_Xfwg.jpeg)
+![Event link with more information: [**here**](https://www.facebook.com/events/130753214243633/?acontext=%7B%22ref%22%3A%224%22%2C%22feed_story_type%22%3A%22308%22%2C%22action_history%22%3A%22null%22%7D)](../assets/65c5d710afb2/1*qKKc9kCPmAROdxmEg_Xfwg.jpeg)
 
 Event link with more information: [**here**](https://www.facebook.com/events/130753214243633/?acontext=%7B%22ref%22%3A%224%22%2C%22feed_story_type%22%3A%22308%22%2C%22action_history%22%3A%22null%22%7D)
 
@@ -359,7 +359,7 @@ There are also those actively working to prepare legal support for people facing
 Calling for solidarity, they are also asking people for donations to help Afghans\.
 
 
-![A mother who witnessed her 18\-year old son being deported to Afghanistan, while she and her other child were allowed to stay in Sweden\. A number of dangers possibly await for her son in the country they escaped from\. \(Photo: [Abdul Ghafoor](https://www.facebook.com/abdul.ghafoor.378) \)](assets/65c5d710afb2/1*Nrl-K0qsnSxJfNY3MeAb2g.jpeg)
+![A mother who witnessed her 18\-year old son being deported to Afghanistan, while she and her other child were allowed to stay in Sweden\. A number of dangers possibly await for her son in the country they escaped from\. \(Photo: [Abdul Ghafoor](https://www.facebook.com/abdul.ghafoor.378) \)](../assets/65c5d710afb2/1*Nrl-K0qsnSxJfNY3MeAb2g.jpeg)
 
 A mother who witnessed her 18\-year old son being deported to Afghanistan, while she and her other child were allowed to stay in Sweden\. A number of dangers possibly await for her son in the country they escaped from\. \(Photo: [Abdul Ghafoor](https://www.facebook.com/abdul.ghafoor.378) \)
 

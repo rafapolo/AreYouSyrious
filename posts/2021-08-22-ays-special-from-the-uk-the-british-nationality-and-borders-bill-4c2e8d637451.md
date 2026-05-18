@@ -1,5 +1,5 @@
 ---
-title: AYS Special from the UK: The British Nationality and Borders Bill
+title: "AYS Special from the UK: The British Nationality and Borders Bill"
 author: Are You Syrious?
 date: 2021-08-22T13:20:04.303+0100
 last_modified_at: 2021-08-22T14:18:19.574+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [special,britain,priti-patel,no-borders,criminalization]
 description: The recent history of the British political landscape has been characterised by a series of decisions that have contributed to widening…
 image:
-  path: assets/4c2e8d637451/1*68FlfWyoVvuC78aAQELxaA.jpeg
+  path: ../assets/4c2e8d637451/1*68FlfWyoVvuC78aAQELxaA.jpeg
 ---
 
 ### AYS Special from the UK: The British Nationality and Borders Bill
@@ -15,7 +15,7 @@ image:
 _The recent history of the British political landscape has been characterised by a series of decisions that have contributed to widening socio\-economic divisions and inequality\. The Nationality and Borders Bill is no exception and has been brought in under the repeated ‘take back control’ mantra\. Under the Brexit hangover, and still attempting to prove to the public that borders are the primary answer to the ills of the British people, the Conservative government has committed to the biggest overhaul of the immigration system in its history\. Needless to say, this overhaul shows blatant disregard for the rights of people crossing borders and is dedicated instead to finding underhand routes around international human rights legislation\. A piece by [No Borders Manchester](https://nobordersmcr.com/) \._
 
 
-![\#Stoptheplane banner drop — Calais, November 2020 \(Photo via: [No Borders Manchester](https://www.facebook.com/nobordersmcr/photos/pcb.194549495493265/194544498827098) \)](assets/4c2e8d637451/1*68FlfWyoVvuC78aAQELxaA.jpeg)
+![\#Stoptheplane banner drop — Calais, November 2020 \(Photo via: [No Borders Manchester](https://www.facebook.com/nobordersmcr/photos/pcb.194549495493265/194544498827098) \)](../assets/4c2e8d637451/1*68FlfWyoVvuC78aAQELxaA.jpeg)
 
 \#Stoptheplane banner drop — Calais, November 2020 \(Photo via: [No Borders Manchester](https://www.facebook.com/nobordersmcr/photos/pcb.194549495493265/194544498827098) \)
 

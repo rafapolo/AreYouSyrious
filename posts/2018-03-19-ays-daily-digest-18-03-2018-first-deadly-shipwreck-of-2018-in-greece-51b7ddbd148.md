@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 18/03/2018: First deadly shipwreck of 2018 in Greece
+title: "AYS DAILY DIGEST 18/03/2018: First deadly shipwreck of 2018 in Greece"
 author: Are You Syrious?
 date: 2018-03-19T08:17:16.512+0000
 last_modified_at: 2018-03-19T09:41:20.464+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,refugeeswelcome,syrian-refugees,syria]
 description: Can this be the last one? — At least 16 people died in a shipwreck south of the island of Agathonisi / Turkish and Syrian forces in control…
 image:
-  path: assets/51b7ddbd148/1*edd6NOl4hvKvIwWA3flVjw.jpeg
+  path: ../assets/51b7ddbd148/1*edd6NOl4hvKvIwWA3flVjw.jpeg
 ---
 
 ### AYS DAILY DIGEST 18/03/2018: First deadly shipwreck of 2018 in Greece
 #### Can this be the last one? — At least 16 people died in a shipwreck south of the island of Agathonisi / Turkish and Syrian forces in control of Afrin / Proactiva’s boat seized / 25\-year\-old killed in Calais / Three volunteers arrested in Ventimiglia / Paris is freezing, people still sleeping rough / 4500 “disappeared” children without residency in Sweden
 
 
-![Ventimiglia, photo by [Kesha Niya](https://www.facebook.com/KeshaNiyaProject/?hc_ref=ARR312TSpcSrzhNG2oy26B8kznH-WphopHS3gfNAViP3fBIBDcROIDtL_ATj38W06oE&hc_location=group)](assets/51b7ddbd148/1*edd6NOl4hvKvIwWA3flVjw.jpeg)
+![Ventimiglia, photo by [Kesha Niya](https://www.facebook.com/KeshaNiyaProject/?hc_ref=ARR312TSpcSrzhNG2oy26B8kznH-WphopHS3gfNAViP3fBIBDcROIDtL_ATj38W06oE&hc_location=group)](../assets/51b7ddbd148/1*edd6NOl4hvKvIwWA3flVjw.jpeg)
 
 Ventimiglia, photo by [Kesha Niya](https://www.facebook.com/KeshaNiyaProject/?hc_ref=ARR312TSpcSrzhNG2oy26B8kznH-WphopHS3gfNAViP3fBIBDcROIDtL_ATj38W06oE&hc_location=group)
 #### FEATURE
@@ -32,11 +32,11 @@ The smugglers appear to be using bigger unsafe boats, making the dangerous cross
 On March 17, 2018 at 1:41 a\.m\. \(EET\), a private boat, found in the Erdemli county of Mersin province, was stopped and a total of 165 people \(72 men, 30 women, 63 children\) of Syrian nationality were arrested\. In a related incident, a van was stopped in coordination with Kızkalesi Gendarmerie Station personnel in the Erdemli district, and a total of 27 people \(14 men, 11 women, two children\) of Syrian nationality were caught in the pickup truck with the driver; administrative procedures have been initiated, they report\.
 
 
-![](assets/51b7ddbd148/1*Ip6Z3QxZ3Lp-Kb14cP5eeg.jpeg)
+![](../assets/51b7ddbd148/1*Ip6Z3QxZ3Lp-Kb14cP5eeg.jpeg)
 
 
 
-![](assets/51b7ddbd148/1*t45ba3rmuw-kp2oTZzPvFQ.jpeg)
+![](../assets/51b7ddbd148/1*t45ba3rmuw-kp2oTZzPvFQ.jpeg)
 
 #### SYRIA
 
@@ -85,11 +85,11 @@ Last night, around 2 a\.m\., a young Tunisian man committed several self\-harm a
 The [Kesha Niya](https://www.facebook.com/KeshaNiyaProject/?hc_ref=ARR312TSpcSrzhNG2oy26B8kznH-WphopHS3gfNAViP3fBIBDcROIDtL_ATj38W06oE&hc_location=group) project writes that for the volunteers working in Ventimiglia the snow and freezing cold are a big challenge\. Along with the daily tasks such as making tea or cooking food, distributing clothes to those in need, the volunteers also try to prevent the tents from collapsing\. They collect firewood, organize sleeping bags and blankets, so that the people they support are able to survive the freezing nights\.
 
 
-![](assets/51b7ddbd148/1*JWYYVwmMeYdsQucA62JzXA.jpeg)
+![](../assets/51b7ddbd148/1*JWYYVwmMeYdsQucA62JzXA.jpeg)
 
 
 
-![[Kesha Niya](https://www.facebook.com/KeshaNiyaProject/?hc_ref=ARR312TSpcSrzhNG2oy26B8kznH-WphopHS3gfNAViP3fBIBDcROIDtL_ATj38W06oE&hc_location=group)](assets/51b7ddbd148/1*edd6NOl4hvKvIwWA3flVjw.jpeg)
+![[Kesha Niya](https://www.facebook.com/KeshaNiyaProject/?hc_ref=ARR312TSpcSrzhNG2oy26B8kznH-WphopHS3gfNAViP3fBIBDcROIDtL_ATj38W06oE&hc_location=group)](../assets/51b7ddbd148/1*edd6NOl4hvKvIwWA3flVjw.jpeg)
 
 [Kesha Niya](https://www.facebook.com/KeshaNiyaProject/?hc_ref=ARR312TSpcSrzhNG2oy26B8kznH-WphopHS3gfNAViP3fBIBDcROIDtL_ATj38W06oE&hc_location=group)
 #### FRANCE
@@ -101,11 +101,11 @@ after not serving for four days\. They suspended service to encourage the uptake
 They will continue with Calais evening service \(600–650 portions\), Dunkirk daily \(300–400\), and outreach in London \(200–250 portions per week\) \.
 
 
-![](assets/51b7ddbd148/1*LVP-36BlrWKs3fUe0Oi1jw.jpeg)
+![](../assets/51b7ddbd148/1*LVP-36BlrWKs3fUe0Oi1jw.jpeg)
 
 
 
-![[Refugee Community Kitchen](https://www.facebook.com/groups/RefugeeCommunityKitchen/?ref=group_header)](assets/51b7ddbd148/1*DZDHdQudHd4IB6bHGTu3gg.jpeg)
+![[Refugee Community Kitchen](https://www.facebook.com/groups/RefugeeCommunityKitchen/?ref=group_header)](../assets/51b7ddbd148/1*DZDHdQudHd4IB6bHGTu3gg.jpeg)
 
 [Refugee Community Kitchen](https://www.facebook.com/groups/RefugeeCommunityKitchen/?ref=group_header)
 #### Paris
@@ -117,11 +117,11 @@ Heavy rain and snow hit the city again\. Hundreds are still sleeping in the free
 
 
 
-![](assets/51b7ddbd148/1*5sZH768_cM0lBeYe0H4R2A.jpeg)
+![](../assets/51b7ddbd148/1*5sZH768_cM0lBeYe0H4R2A.jpeg)
 
 
 
-![I took more than 70 names & details to send to the amazing ‘phone credit for refugees’ group\. As people were showing their phone so that I could copy their details, they were shivering\. Their hands were shaking so much that I couldn’t even see the numbers on the screen\. I stayed a couple of hours and couldn’t feel my feet\. I kept thinking I was going home at some point and would be able to get warmer\. How terrible must it be to know there is absolutely no perspective of warmth & getting dry? Before I left, a man told me: “You’re welcome to sleep here\. Why not? We’re all the same\.” Yes, we’re all the same\. So why are we not treated in the same way? — [Faces Before Numbers](https://www.facebook.com/FacesBeforeNumbers/)](assets/51b7ddbd148/1*vWZpNLvPgPGrhjkVEFhQ7g.jpeg)
+![I took more than 70 names & details to send to the amazing ‘phone credit for refugees’ group\. As people were showing their phone so that I could copy their details, they were shivering\. Their hands were shaking so much that I couldn’t even see the numbers on the screen\. I stayed a couple of hours and couldn’t feel my feet\. I kept thinking I was going home at some point and would be able to get warmer\. How terrible must it be to know there is absolutely no perspective of warmth & getting dry? Before I left, a man told me: “You’re welcome to sleep here\. Why not? We’re all the same\.” Yes, we’re all the same\. So why are we not treated in the same way? — [Faces Before Numbers](https://www.facebook.com/FacesBeforeNumbers/)](../assets/51b7ddbd148/1*vWZpNLvPgPGrhjkVEFhQ7g.jpeg)
 
 I took more than 70 names & details to send to the amazing ‘phone credit for refugees’ group\. As people were showing their phone so that I could copy their details, they were shivering\. Their hands were shaking so much that I couldn’t even see the numbers on the screen\. I stayed a couple of hours and couldn’t feel my feet\. I kept thinking I was going home at some point and would be able to get warmer\. How terrible must it be to know there is absolutely no perspective of warmth & getting dry? Before I left, a man told me: “You’re welcome to sleep here\. Why not? We’re all the same\.” Yes, we’re all the same\. So why are we not treated in the same way? — [Faces Before Numbers](https://www.facebook.com/FacesBeforeNumbers/)
 #### SWEDEN

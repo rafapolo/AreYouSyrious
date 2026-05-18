@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 18/11/22: Turkey restricts Afghan males from registering for residency permits
+title: "AYS News Digest 18/11/22: Turkey restricts Afghan males from registering for residency permits"
 author: Are You Syrious?
 date: 2022-11-19T16:00:15.649+0000
 last_modified_at: 2022-11-19T19:43:27.263+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,afghanistan,european-union,asylum-seekers]
 description: 51 refugees arrived in Rome, on the ‘UNICORE — University Corridors for Refugees project’//Austrian Chancellor wants to stop ‘Asylum a la…
 image:
-  path: assets/bac135838a39/0*Q9C_HSBDowUFAwmm
+  path: ../assets/bac135838a39/0*Q9C_HSBDowUFAwmm
 ---
 
 ### AYS News Digest 18/11/22: Turkey restricts Afghan males from registering for residency permits
@@ -15,7 +15,7 @@ image:
 A total of 51 refugees have arrived in Rome, on the ‘UNICORE — University Corridors for Refugees project’//Austrian Chancellor wants to stop ‘Asylum a la carte’ and ‘asylum tourism’//Police in Paris have cleared another camp, forcing almost 1000 people into emergency shelters// EU Commission’s Response & Proposal tackling the ‘instrumentalisation’ of asylum seekers//\#FreetheSamos2// and much more…
 
 
-![[Over 240,000 Afghan refugees deported from Iran and Turkey \| Middle East Eye](https://www.middleeasteye.net/news/iran-turkey-afghan-refugees-deported)](assets/bac135838a39/0*Q9C_HSBDowUFAwmm)
+![[Over 240,000 Afghan refugees deported from Iran and Turkey \| Middle East Eye](https://www.middleeasteye.net/news/iran-turkey-afghan-refugees-deported)](../assets/bac135838a39/0*Q9C_HSBDowUFAwmm)
 
 [Over 240,000 Afghan refugees deported from Iran and Turkey \| Middle East Eye](https://www.middleeasteye.net/news/iran-turkey-afghan-refugees-deported)
 #### FEATURE
@@ -65,7 +65,7 @@ The UNHCR were contacted by relatives of the group in March 2022, sharing the co
 An excerpt of the UNHCR letter:
 
 
-![_Photo: The relatives of the eight Turks contacted the UNHCR fearing that their relatives would be deported_](assets/bac135838a39/0*KGcx2-S8YnOZ_cKa.jpg)
+![_Photo: The relatives of the eight Turks contacted the UNHCR fearing that their relatives would be deported_](../assets/bac135838a39/0*KGcx2-S8YnOZ_cKa.jpg)
 
 _Photo: The relatives of the eight Turks contacted the UNHCR fearing that their relatives would be deported_
 
@@ -107,7 +107,7 @@ Following on from the current dispute between Italy and France regarding the boa
 Malta had previously aligned itself with France at a time when the Italian government claimed Malta should be responsible for supporting NGO ships carrying asylum seekers, as it was the first port of entry of asylum seekers attempting to reach Europe\. The Maltese government then established a relationship with France, whereby they agreed to take migrants rescued by NGOs on condition that these are split between EU member states in ad hoc coalition of willing nations which included Spain, France, Ireland and the Scandinavian countries\.
 
 
-![Malta Today: Emmanuel Macron and Joseph Muscat](assets/bac135838a39/0*l9z39IKuvBgfthHD.jpg)
+![Malta Today: Emmanuel Macron and Joseph Muscat](../assets/bac135838a39/0*l9z39IKuvBgfthHD.jpg)
 
 Malta Today: Emmanuel Macron and Joseph Muscat
 
@@ -143,7 +143,7 @@ Hungary and Serbia are not the ideal partners when it comes to managing migratio
 ### Police in Paris have cleared another camp, forcing almost 1000 people into emergency shelters
 
 
-![_InfoMigrants: Migrants stand in front of a French police mobile standby unit on November 17, 2022 to board buses that will take them to temporary housing_](assets/bac135838a39/0*R5bjeXAH_pvtxAqD.jpg)
+![_InfoMigrants: Migrants stand in front of a French police mobile standby unit on November 17, 2022 to board buses that will take them to temporary housing_](../assets/bac135838a39/0*R5bjeXAH_pvtxAqD.jpg)
 
 _InfoMigrants: Migrants stand in front of a French police mobile standby unit on November 17, 2022 to board buses that will take them to temporary housing_
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 09/09/20: Chaos, despair, ash — Moria in ruins, people in fear of fascist groups
+title: "AYS Daily Digest 09/09/20: Chaos, despair, ash — Moria in ruins, people in fear of fascist groups"
 author: Are You Syrious?
 date: 2020-09-10T12:18:43.940+0100
 last_modified_at: 2020-09-10T13:56:14.176+0100
@@ -7,18 +7,18 @@ categories: Are You Syrious?
 tags: []
 description: Field reports from Moria (ongoing) / Camp raids and evictions in Bosnia and Herzegovina / Norway to take more people from Moria /…
 image:
-  path: assets/c410c29eb68e/0*B6TUGjlFqqZtYP8E.jpeg
+  path: ../assets/c410c29eb68e/0*B6TUGjlFqqZtYP8E.jpeg
 ---
 
 ### AYS Daily Digest 09/09/20: Chaos, despair, ash — Moria in ruins, people in fear of fascist groups
 #### Field reports from Moria \(ongoing\) / Camp raids and evictions in Bosnia and Herzegovina / Norway to take more people from Moria / Scandinavian education of children with refugee background — studies / Evacuation from Lampedusa & more news
 
 
-![](assets/c410c29eb68e/0*Q1H8RSV1ykWQoyBm)
+![](../assets/c410c29eb68e/0*Q1H8RSV1ykWQoyBm)
 
 
 
-![](assets/c410c29eb68e/0*B6TUGjlFqqZtYP8E.jpeg)
+![](../assets/c410c29eb68e/0*B6TUGjlFqqZtYP8E.jpeg)
 
 
 Moria after the big fire\. Credits: [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets)
@@ -53,7 +53,7 @@ What also is unclear, is what happened with the data of the asylum seekers\. As 
 Meanwhile, fascists still drive through the city of Mytilene with scooters, which makes them fast and flexible\. “They know us now,” says the volunteer\. They hide in the forests and when they see their targets, there’s suddenly a large group of attackers; they seem to focus on volunteers rather than people on the move\. “We need to evaluate how we can continue without being threatened by fascists\.”
 
 
-![Photo: [Kirsty Evans](https://www.facebook.com/kirstyevans123?__tn__=%2Cd%2AF%2AF-R&eid=ARB1d7gQ_KfqgYDfnr6bGB74g8Y1CIi7u1ZJvLZ2DXfg4Z6Qm8CetxGCAqzh9kGzQ9BFMFig1YzLGAB8&tn-str=%2AF)](assets/c410c29eb68e/1*ayEDsVv4V6nbBDKfDXhIrw.jpeg)
+![Photo: [Kirsty Evans](https://www.facebook.com/kirstyevans123?__tn__=%2Cd%2AF%2AF-R&eid=ARB1d7gQ_KfqgYDfnr6bGB74g8Y1CIi7u1ZJvLZ2DXfg4Z6Qm8CetxGCAqzh9kGzQ9BFMFig1YzLGAB8&tn-str=%2AF)](../assets/c410c29eb68e/1*ayEDsVv4V6nbBDKfDXhIrw.jpeg)
 
 Photo: [Kirsty Evans](https://www.facebook.com/kirstyevans123?__tn__=%2Cd%2AF%2AF-R&eid=ARB1d7gQ_KfqgYDfnr6bGB74g8Y1CIi7u1ZJvLZ2DXfg4Z6Qm8CetxGCAqzh9kGzQ9BFMFig1YzLGAB8&tn-str=%2AF)
 
@@ -182,11 +182,11 @@ Police and private security companies have been treating many people across the 
 
 
 
-![](assets/c410c29eb68e/0*85CQLb20qlqKdaaP)
+![](../assets/c410c29eb68e/0*85CQLb20qlqKdaaP)
 
 
 
-![](assets/c410c29eb68e/0*ul-mtQAmE3WI6jOz.jpeg)
+![](../assets/c410c29eb68e/0*ul-mtQAmE3WI6jOz.jpeg)
 
 
 Photo: Ospiti in arrivo

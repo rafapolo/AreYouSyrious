@@ -1,5 +1,5 @@
 ---
-title: AYS Dialy Digest 07/11/2018 — Riace: What happens now?
+title: "AYS Dialy Digest 07/11/2018 — Riace: What happens now?"
 author: Are You Syrious?
 date: 2018-11-08T11:18:32.004+0000
 last_modified_at: 2018-11-08T12:47:44.422+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,mediterranean,calais,riace]
 description: Dire condition abuses in Al Fuhraji detention centre in Tripoli, Libya /// Distress calls blacked out in the Central Mediterranean ///…
 image:
-  path: assets/3fe4327ffaf2/1*xT60zxHE2osSaJuj_NjSIg.jpeg
+  path: ../assets/3fe4327ffaf2/1*xT60zxHE2osSaJuj_NjSIg.jpeg
 ---
 
 ### AYS Dialy Digest 07/11/2018 — Riace: What happens now?
@@ -16,7 +16,7 @@ Dire conditions at Al Fuhraji detention centre in Tripoli, Libya /// Distress ca
 
 
 ![Lesvos, Greece November 2018: Photograph of an abandoned building which was turned into an informal settlement for refugees situated right next to Karatepe camp in Lesvos\. Part of a photographic project “Lesvos behind the main scene”\. Photograph by Ellevoros As / [Actually Exıstıng Dystøpıa](https://www.facebook.com/AEDystopia/?__xts__%5B0%5D=68.ARBk-5NNYqq8R3AKtX7ttw0DmBfcwLoUaZWQuPjGMqe7CbSC40O1oDKiPf2ok6OVzecPc25pJ7ROhFXRBQcDMYWXl5ikXkZMZFFNTEGNPLBqMc8zcDCEOYzxavuFiNLfdENzMVFgLAqmUq9TJMO7EbbZKNyXHC8z2e7zRw7CdqhL49WMnHOqEEUovdxqpAa_6W38A1xvhvwhnNEMxYHI5ny6lRI&__tn__=%2CdK%2AF-R&eid=ARB1OScYrobfwKSchJwC5-0vbjcoMxxQ2NVwRm8lsZj_XgW_xFe2yY320FBbuKMJFNKZLbUyUeIGRQAX) 
-[\#noborders](https://www.facebook.com/hashtag/noborders)](assets/3fe4327ffaf2/1*xT60zxHE2osSaJuj_NjSIg.jpeg)
+[\#noborders](https://www.facebook.com/hashtag/noborders)](../assets/3fe4327ffaf2/1*xT60zxHE2osSaJuj_NjSIg.jpeg)
 
 Lesvos, Greece November 2018: Photograph of an abandoned building which was turned into an informal settlement for refugees situated right next to Karatepe camp in Lesvos\. Part of a photographic project “Lesvos behind the main scene”\. Photograph by Ellevoros As / [Actually Exıstıng Dystøpıa](https://www.facebook.com/AEDystopia/?__xts__%5B0%5D=68.ARBk-5NNYqq8R3AKtX7ttw0DmBfcwLoUaZWQuPjGMqe7CbSC40O1oDKiPf2ok6OVzecPc25pJ7ROhFXRBQcDMYWXl5ikXkZMZFFNTEGNPLBqMc8zcDCEOYzxavuFiNLfdENzMVFgLAqmUq9TJMO7EbbZKNyXHC8z2e7zRw7CdqhL49WMnHOqEEUovdxqpAa_6W38A1xvhvwhnNEMxYHI5ny6lRI&__tn__=%2CdK%2AF-R&eid=ARB1OScYrobfwKSchJwC5-0vbjcoMxxQ2NVwRm8lsZj_XgW_xFe2yY320FBbuKMJFNKZLbUyUeIGRQAX) 
 [\#noborders](https://www.facebook.com/hashtag/noborders)
@@ -57,11 +57,11 @@ LIBYA
 From [human right lawyer Giulia Tranchina](https://www.facebook.com/rastajuly/posts/10156232910893621) :
 
 
-![](assets/3fe4327ffaf2/1*iWZdEooOetMR8blroT88nw.jpeg)
+![](../assets/3fe4327ffaf2/1*iWZdEooOetMR8blroT88nw.jpeg)
 
 
 
-![Asylum seekers in Al Furhaji Sebha detntion centre \(photos by [Giulia Tranchina](https://www.facebook.com/rastajuly/posts/10156232910893621) \)](assets/3fe4327ffaf2/1*SgYB6gkWHfqtsNcIUTm-AA.jpeg)
+![Asylum seekers in Al Furhaji Sebha detntion centre \(photos by [Giulia Tranchina](https://www.facebook.com/rastajuly/posts/10156232910893621) \)](../assets/3fe4327ffaf2/1*SgYB6gkWHfqtsNcIUTm-AA.jpeg)
 
 Asylum seekers in Al Furhaji Sebha detntion centre \(photos by [Giulia Tranchina](https://www.facebook.com/rastajuly/posts/10156232910893621) \)
 
@@ -191,7 +191,7 @@ Alborán: SAR Mastelero está trasladando a #Almería a 34 personas de una pater
 The petition to allow a new SAR vessel in the Mediterranean Sea reached 10,000 signatures\.
 
 
-![](assets/3fe4327ffaf2/1*t1usa_EDT9KXhA_C0MVCkA.jpeg)
+![](../assets/3fe4327ffaf2/1*t1usa_EDT9KXhA_C0MVCkA.jpeg)
 
 
 Sign [here](https://www.change.org/p/dejad-zarpar-nuestro-barco-de-rescate-ni-una-muerte-m%C3%A1s-en-el-mediterr%C3%A1neo?fbclid=IwAR2gdNgIsZljLjXktDHSCR_l-E7cWOgrSAn8yQxhnzf3z_YwifD35pRd3lQ) \.
@@ -215,7 +215,7 @@ GREEK ISLANDS
 From [Refugee Biriyani & Bananas](https://www.facebook.com/RefugeeBiriyaniAndBananas) :
 
 
-![\(Photo by Refugee [Biriyani and Bananas](https://www.facebook.com/RefugeeBiriyaniAndBananas) \)](assets/3fe4327ffaf2/1*-Ro7SwKhgTUne7R0wl__qg.jpeg)
+![\(Photo by Refugee [Biriyani and Bananas](https://www.facebook.com/RefugeeBiriyaniAndBananas) \)](../assets/3fe4327ffaf2/1*-Ro7SwKhgTUne7R0wl__qg.jpeg)
 
 \(Photo by Refugee [Biriyani and Bananas](https://www.facebook.com/RefugeeBiriyaniAndBananas) \)
 
@@ -323,17 +323,17 @@ Please read the full report [here](http://www.tokeli.gr/2018/11/blog-post.html?f
 #### **Demonstration Today\!**
 
 
-![[Comitè de soutien 3\+4](https://www.relaxepourles3plus4.fr/english/?fbclid=IwAR3PkpQkA5ozXnGN4y2e8NBIPzDGz58YJqT3jwBgSmQfqq0VNIR-q_m4qVY)](assets/3fe4327ffaf2/1*HNlC0OOg8pqJSJnR9anzQg.jpeg)
+![[Comitè de soutien 3\+4](https://www.relaxepourles3plus4.fr/english/?fbclid=IwAR3PkpQkA5ozXnGN4y2e8NBIPzDGz58YJqT3jwBgSmQfqq0VNIR-q_m4qVY)](../assets/3fe4327ffaf2/1*HNlC0OOg8pqJSJnR9anzQg.jpeg)
 
 [Comitè de soutien 3\+4](https://www.relaxepourles3plus4.fr/english/?fbclid=IwAR3PkpQkA5ozXnGN4y2e8NBIPzDGz58YJqT3jwBgSmQfqq0VNIR-q_m4qVY)
 #### **Classes timetable @ [Zaatar](https://www.facebook.com/zaatarngo) , Athens**
 
 
-![](assets/3fe4327ffaf2/1*hfCi2uI3E_LK17rNbSSX1A.png)
+![](../assets/3fe4327ffaf2/1*hfCi2uI3E_LK17rNbSSX1A.png)
 
 
 
-![](assets/3fe4327ffaf2/1*VCvyRh_5Lk8UhkI5GcjgnA.png)
+![](../assets/3fe4327ffaf2/1*VCvyRh_5Lk8UhkI5GcjgnA.png)
 
 #### **Djembe Class @ Victoria Square Project, Athens**
 
@@ -357,7 +357,7 @@ The Italian embassy in Libya [report](https://twitter.com/ItalyinLibya/status/10
 The [Eviction of Baobab Experience](https://www.facebook.com/BaobabExperience/posts/1907282872681789?__xts__%5B0%5D=68.ARClmIFFbW4eAm5KzKiSMKABi042dkUYCsD9mVyVg9V5-VRtb-SRnY_5JJ0XNBfk4Cb6LrHl4Ff9Jyu0WTn3GlXFGTZ_4FoIzN6MrRmiB11rsVwXqDDbR0tKNGFlIEThwlM8rre1M3Ke874qr6_vMlsUWh5er4IyOZ-cotXlHGEf18wEnsdy4XaKWyBfl_Aqdndw3wmsVVILc2nWUU9tfYY-Omk&__tn__=K-R) is imminent\. Ferrovie dello Stato, the railway company owner of the abandoned car park where Baobab currently “resides” requested the eviction\.
 
 
-![[Presidio Baobab Experience](https://www.facebook.com/BaobabExperience/posts/1907282872681789?__xts__%5B0%5D=68.ARClmIFFbW4eAm5KzKiSMKABi042dkUYCsD9mVyVg9V5-VRtb-SRnY_5JJ0XNBfk4Cb6LrHl4Ff9Jyu0WTn3GlXFGTZ_4FoIzN6MrRmiB11rsVwXqDDbR0tKNGFlIEThwlM8rre1M3Ke874qr6_vMlsUWh5er4IyOZ-cotXlHGEf18wEnsdy4XaKWyBfl_Aqdndw3wmsVVILc2nWUU9tfYY-Omk&__tn__=K-R)](assets/3fe4327ffaf2/1*FaLRMduCrA1zVw3Sfk9EVA.jpeg)
+![[Presidio Baobab Experience](https://www.facebook.com/BaobabExperience/posts/1907282872681789?__xts__%5B0%5D=68.ARClmIFFbW4eAm5KzKiSMKABi042dkUYCsD9mVyVg9V5-VRtb-SRnY_5JJ0XNBfk4Cb6LrHl4Ff9Jyu0WTn3GlXFGTZ_4FoIzN6MrRmiB11rsVwXqDDbR0tKNGFlIEThwlM8rre1M3Ke874qr6_vMlsUWh5er4IyOZ-cotXlHGEf18wEnsdy4XaKWyBfl_Aqdndw3wmsVVILc2nWUU9tfYY-Omk&__tn__=K-R)](../assets/3fe4327ffaf2/1*FaLRMduCrA1zVw3Sfk9EVA.jpeg)
 
 [Presidio Baobab Experience](https://www.facebook.com/BaobabExperience/posts/1907282872681789?__xts__%5B0%5D=68.ARClmIFFbW4eAm5KzKiSMKABi042dkUYCsD9mVyVg9V5-VRtb-SRnY_5JJ0XNBfk4Cb6LrHl4Ff9Jyu0WTn3GlXFGTZ_4FoIzN6MrRmiB11rsVwXqDDbR0tKNGFlIEThwlM8rre1M3Ke874qr6_vMlsUWh5er4IyOZ-cotXlHGEf18wEnsdy4XaKWyBfl_Aqdndw3wmsVVILc2nWUU9tfYY-Omk&__tn__=K-R)
 
@@ -397,7 +397,7 @@ BOSNIA AND HERZEGOVINA
 #### Unacceptable conditions in Trnovi Camp, Velika Kladusa
 
 
-![These guys from India wished for homemade food so they made it themselves\. They call this “Indian Pie” \(Photo by [Izbjeglice u Velikoj Kladusi — Refugees in Velika Kladusa](https://www.facebook.com/izbjeglickeprice) \)](assets/3fe4327ffaf2/1*KSMFUYWLN8fFijPaVyLz4A.jpeg)
+![These guys from India wished for homemade food so they made it themselves\. They call this “Indian Pie” \(Photo by [Izbjeglice u Velikoj Kladusi — Refugees in Velika Kladusa](https://www.facebook.com/izbjeglickeprice) \)](../assets/3fe4327ffaf2/1*KSMFUYWLN8fFijPaVyLz4A.jpeg)
 
 These guys from India wished for homemade food so they made it themselves\. They call this “Indian Pie” \(Photo by [Izbjeglice u Velikoj Kladusi — Refugees in Velika Kladusa](https://www.facebook.com/izbjeglickeprice) \)
 
@@ -420,18 +420,18 @@ She also denied information recently spread on social networks and news portals 
 BELGIUM
 
 
-![\(Photo by [We Are a Welcoming Europe](https://www.facebook.com/WelcomingEurope) \)](assets/3fe4327ffaf2/1*iFX7xUiuTYgm4Rz6JttD4w.jpeg)
+![\(Photo by [We Are a Welcoming Europe](https://www.facebook.com/WelcomingEurope) \)](../assets/3fe4327ffaf2/1*iFX7xUiuTYgm4Rz6JttD4w.jpeg)
 
 \(Photo by [We Are a Welcoming Europe](https://www.facebook.com/WelcomingEurope) \)
 
 Hundreds of people stood in front of the Brussels Courthouse early yesterday morning to support the 11 people on trial for helping migrants\!
 
 
-![](assets/3fe4327ffaf2/1*663LncqaEQ8m-p8U91fMTg.jpeg)
+![](../assets/3fe4327ffaf2/1*663LncqaEQ8m-p8U91fMTg.jpeg)
 
 
 
-![Photos by [Pierre Verbeeren](https://www.facebook.com/verbeeren?__tn__=CH-R&eid=ARAUynxv_fRNX7L_cx63ucozq3yZaPrB1xK7mYm5Z6D4D9UpCyvtYwkTqXRf2WvrTybjfToK3xuGw3Jk&hc_ref=ARRh133UQjJRX5uMotVRVnw68XZeSdrzsK-ZQ97JyxgVKz-wuz9M2SDIM7wzeIgQRds&fref=nf&__xts__%5B0%5D=68.ARCksNdFjpTuw0AeqagIyw2LL3XOfkgYujFMdIwXjaUIJ8IU6lCxQUZxY8gqHmFqgIa5LpqGo9Q3voM2hZncrg2RVcjYtusfob4TFpGA6iE4CG2V53ugEVOUcZmm9CGRG37_zef9H1tELyVr3hwGbhF21HG6aBhwLPwd5LeIa2S0K4XjngCtA3to48ne98X9f55hYFgt-V4SenPEivCAgAN2) — [Plateforme citoyenne de soutien aux réfugiés Bruxelles](https://www.facebook.com/plateformerefugiesbxl)](assets/3fe4327ffaf2/1*tlmtTuXApnXMUtQG1XSCsA.jpeg)
+![Photos by [Pierre Verbeeren](https://www.facebook.com/verbeeren?__tn__=CH-R&eid=ARAUynxv_fRNX7L_cx63ucozq3yZaPrB1xK7mYm5Z6D4D9UpCyvtYwkTqXRf2WvrTybjfToK3xuGw3Jk&hc_ref=ARRh133UQjJRX5uMotVRVnw68XZeSdrzsK-ZQ97JyxgVKz-wuz9M2SDIM7wzeIgQRds&fref=nf&__xts__%5B0%5D=68.ARCksNdFjpTuw0AeqagIyw2LL3XOfkgYujFMdIwXjaUIJ8IU6lCxQUZxY8gqHmFqgIa5LpqGo9Q3voM2hZncrg2RVcjYtusfob4TFpGA6iE4CG2V53ugEVOUcZmm9CGRG37_zef9H1tELyVr3hwGbhF21HG6aBhwLPwd5LeIa2S0K4XjngCtA3to48ne98X9f55hYFgt-V4SenPEivCAgAN2) — [Plateforme citoyenne de soutien aux réfugiés Bruxelles](https://www.facebook.com/plateformerefugiesbxl)](../assets/3fe4327ffaf2/1*tlmtTuXApnXMUtQG1XSCsA.jpeg)
 
 Photos by [Pierre Verbeeren](https://www.facebook.com/verbeeren?__tn__=CH-R&eid=ARAUynxv_fRNX7L_cx63ucozq3yZaPrB1xK7mYm5Z6D4D9UpCyvtYwkTqXRf2WvrTybjfToK3xuGw3Jk&hc_ref=ARRh133UQjJRX5uMotVRVnw68XZeSdrzsK-ZQ97JyxgVKz-wuz9M2SDIM7wzeIgQRds&fref=nf&__xts__%5B0%5D=68.ARCksNdFjpTuw0AeqagIyw2LL3XOfkgYujFMdIwXjaUIJ8IU6lCxQUZxY8gqHmFqgIa5LpqGo9Q3voM2hZncrg2RVcjYtusfob4TFpGA6iE4CG2V53ugEVOUcZmm9CGRG37_zef9H1tELyVr3hwGbhF21HG6aBhwLPwd5LeIa2S0K4XjngCtA3to48ne98X9f55hYFgt-V4SenPEivCAgAN2) — [Plateforme citoyenne de soutien aux réfugiés Bruxelles](https://www.facebook.com/plateformerefugiesbxl)
 
@@ -468,7 +468,7 @@ The [Oya association — for Afro\-Diaspora art and culture](http://www.asso-oya
 #### Donation needed by SAJE
 
 
-![Photo by SAJE](assets/3fe4327ffaf2/1*MejtM9BTketxiVsrI7YF6g.jpeg)
+![Photo by SAJE](../assets/3fe4327ffaf2/1*MejtM9BTketxiVsrI7YF6g.jpeg)
 
 Photo by SAJE
 
@@ -505,7 +505,7 @@ Photo by SAJE
 #### Dunkirk situation update
 
 
-![Dunkirk \(photo by Care4Calais\)](assets/3fe4327ffaf2/1*7Q4uKMz7ow2i4F4ploSHnw.jpeg)
+![Dunkirk \(photo by Care4Calais\)](../assets/3fe4327ffaf2/1*7Q4uKMz7ow2i4F4ploSHnw.jpeg)
 
 Dunkirk \(photo by Care4Calais\)
 

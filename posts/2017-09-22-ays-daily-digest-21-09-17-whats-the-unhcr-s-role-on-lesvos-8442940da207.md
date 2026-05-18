@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 21/09/17: What’s the UNHCR’s role on Lesvos?
+title: "AYS Daily Digest 21/09/17: What’s the UNHCR’s role on Lesvos?"
 author: Are You Syrious?
 date: 2017-09-22T01:49:33.766+0100
 last_modified_at: 2017-09-22T01:49:33.766+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,unhcr,coast-guard,greece,croatia]
 description: The meaningless answer of the UNHCR agency / More deaths in the Mediterranean than reported / Turkish and Greek Coast Guards continuously…
 image:
-  path: assets/8442940da207/1*iNTH4PQ6cXGI6K8mQWKmuw.jpeg
+  path: ../assets/8442940da207/1*iNTH4PQ6cXGI6K8mQWKmuw.jpeg
 ---
 
 ### AYS Daily Digest 21/09/17: What’s the UNHCR’s role on Lesvos?
@@ -15,7 +15,7 @@ image:
 _The meaningless answer of the UNHCR agency / More deaths in the Mediterranean than reported / Turkish and Greek Coast Guards continuously harras vessels / Joint statement of Croatian CSOs regarding the movement of the reception center / Donations needed in France and Italy / Solidarity for Sudanese in Brussels_
 
 
-![“Search for a homeland” — but who helps the people? Credits: [Art Against/Shaditoon](https://www.facebook.com/artagainstproject/photos/a.639651369417634.1073741828.639605726088865/1485025954880167/?type=3&theater&ifg=1)](assets/8442940da207/1*iNTH4PQ6cXGI6K8mQWKmuw.jpeg)
+![“Search for a homeland” — but who helps the people? Credits: [Art Against/Shaditoon](https://www.facebook.com/artagainstproject/photos/a.639651369417634.1073741828.639605726088865/1485025954880167/?type=3&theater&ifg=1)](../assets/8442940da207/1*iNTH4PQ6cXGI6K8mQWKmuw.jpeg)
 
 “Search for a homeland” — but who helps the people? Credits: [Art Against/Shaditoon](https://www.facebook.com/artagainstproject/photos/a.639651369417634.1073741828.639605726088865/1485025954880167/?type=3&theater&ifg=1)
 ### Feature: What’s the UNHCR’s role on Lesvos?
@@ -41,7 +41,7 @@ During they last days, several incidents have been witnessed, where the Turkish 
 Furthermore the UNHCR and IOM seem to not report all deaths happening in the mediterranean but only the ones happening due to drownings\. During the last weeks, several incidents of dead people in the boats have been reported by the Turkish Coast Guard\. _In September alone the TCG stated, that they did find six dead bodies in the boats they intercepted\._ But neither they appear in UNHCR nor in TCG statistics\. Apparantely these humans or not even numbers for them\.
 
 
-![Screenshot of the report of the Turkish Coast Guard on 18\. September\.](assets/8442940da207/1*NVAPnFWPJhQzFo7JFUNTlw.jpeg)
+![Screenshot of the report of the Turkish Coast Guard on 18\. September\.](../assets/8442940da207/1*NVAPnFWPJhQzFo7JFUNTlw.jpeg)
 
 Screenshot of the report of the Turkish Coast Guard on 18\. September\.
 
@@ -61,7 +61,7 @@ Even though the TCG prevented more than 2500 people from departing or entering G
 On Lesvos activists protesters demonstrated against the EU\-Turkey deal and urged the local government as well as EU coordinator Maarten Verwey to close Moria\. In a letter to Migration Minister Yiannis Mouzalas, the mayor of Lesvos Spyros Galinos already [asked](http://www.ekathimerini.com/221785/article/ekathimerini/news/lesvos-mayor-calls-on-govt-to-decongest-island-as-migrant-influx-grows) for more support to cope the large number of new arrivals\. Hence also The Hope Project asks for donations\. Find their needslist [here](https://www.facebook.com/HopeProjectKempsons/posts/1954333128181143) \.
 
 
-![Protest on Lesvos\. Credits: [**Lesvos Solidarity** ‏](https://twitter.com/Lesvosolidarity)](assets/8442940da207/1*9cn05sbso1xbjF7Lg3Ix8A.jpeg)
+![Protest on Lesvos\. Credits: [**Lesvos Solidarity** ‏](https://twitter.com/Lesvosolidarity)](../assets/8442940da207/1*9cn05sbso1xbjF7Lg3Ix8A.jpeg)
 
 Protest on Lesvos\. Credits: [**Lesvos Solidarity** ‏](https://twitter.com/Lesvosolidarity)
 
@@ -118,7 +118,7 @@ Following the evictions in Dunkirk, volunteers on the ground call for new donati
 Also in Calais more support is needed\. The Refugee Community Kitchen asks especially for bread to continue their distributions\.
 
 
-![Food distributioon in Calais\. Credits: [Refugee Community Kitchen](https://www.facebook.com/refugeeCkitchen/posts/1895639743786720)](assets/8442940da207/1*37FfnJwK-DKZ7rD4as2zew.jpeg)
+![Food distributioon in Calais\. Credits: [Refugee Community Kitchen](https://www.facebook.com/refugeeCkitchen/posts/1895639743786720)](../assets/8442940da207/1*37FfnJwK-DKZ7rD4as2zew.jpeg)
 
 Food distributioon in Calais\. Credits: [Refugee Community Kitchen](https://www.facebook.com/refugeeCkitchen/posts/1895639743786720)
 ### Belgium
@@ -128,7 +128,7 @@ According to [Help Refugees](https://helprefugees.org.uk/belgian-government-depo
 In the following, also following police raids in the parks, locals in Brussels started hosting especially people from Sudan, to prevent them from arrests and deportation\. **Last night 87 people were offered a safe place** as a result of the call\.
 
 
-![Volunteers organizing shelter for the homeless people\. Credits: [Plateforme citoyenne de soutien aux réfugiés Bruxelles](https://www.facebook.com/plateformerefugiesbxl/?hc_ref=ARQ6TEa3DRm500I_ligBHlPRhY1lwSIgHCYLZ5f1y3YopHQvrNWFkv9gTMsw0dc0zJU)](assets/8442940da207/1*egPE28qVLCjMywsrxdV4ug.jpeg)
+![Volunteers organizing shelter for the homeless people\. Credits: [Plateforme citoyenne de soutien aux réfugiés Bruxelles](https://www.facebook.com/plateformerefugiesbxl/?hc_ref=ARQ6TEa3DRm500I_ligBHlPRhY1lwSIgHCYLZ5f1y3YopHQvrNWFkv9gTMsw0dc0zJU)](../assets/8442940da207/1*egPE28qVLCjMywsrxdV4ug.jpeg)
 
 Volunteers organizing shelter for the homeless people\. Credits: [Plateforme citoyenne de soutien aux réfugiés Bruxelles](https://www.facebook.com/plateformerefugiesbxl/?hc_ref=ARQ6TEa3DRm500I_ligBHlPRhY1lwSIgHCYLZ5f1y3YopHQvrNWFkv9gTMsw0dc0zJU)
 ### Germany

@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL on two years of EU-Turkey Deal: Refugees Stopped in Motion
+title: "AYS SPECIAL on two years of EU-Turkey Deal: Refugees Stopped in Motion"
 author: Are You Syrious?
 date: 2018-03-18T09:02:34.888+0000
 last_modified_at: 2018-03-21T11:47:09.435+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,special,lighthouse-relief,eu-turkey,hanna-wallice-bowman]
 description: Two years since the EU-Turkey deal was implemented, and the world continues to warm, wars continue to hurt, and people are continuing to be…
 image:
-  path: assets/527b15d4b1e/1*eVVLQWfyITv58Tldb8WbZQ.png
+  path: ../assets/527b15d4b1e/1*eVVLQWfyITv58Tldb8WbZQ.png
 ---
 
 ### AYS SPECIAL on two years of EU\-Turkey Deal: Refugees Stopped in Motion
@@ -25,7 +25,7 @@ Satar arrived in Greece by way of Pakistan and Iran, crossing the Aegean Sea in 
 His animation entitled “refugee” is, he explains, autobiographical — and tells of the first time he tried to reach Europe from Turkey\. Before the dinghy he was travelling in could reach Greek waters, it was violently intercepted by the Turkish Coast Guard: “I saw that\. That was a very bad disaster I see in my life\. And I will never forget that\.”
 
 
-![](assets/527b15d4b1e/1*eVVLQWfyITv58Tldb8WbZQ.png)
+![](../assets/527b15d4b1e/1*eVVLQWfyITv58Tldb8WbZQ.png)
 
 
 During my time working in Emergency Response on the North Shore of the island, I had heard similar accounts from the new arrivals regarding their crossings from Turkey\. I was also aware, from figures published by the UN and Turkish authorities, that the situation Satar was depicting through his film was not unusual\. In January 2018 alone, for example, the UNHCR reported 38 boats — carrying 1369 people in total — were prevented from reaching the Greek border\.
@@ -45,7 +45,7 @@ Promoting the voices and creativity of these children and young refugees is ther
 “Refugee” was just one of the films created during the five\-day workshop\. Some, like Satar’s, were anecdotal\. Others were funny\. Others were sad\. Or magical\. Or downright whimsical\.
 
 
-![](assets/527b15d4b1e/1*firJdx3ZbfIJAnYeF40DjA.jpeg)
+![](../assets/527b15d4b1e/1*firJdx3ZbfIJAnYeF40DjA.jpeg)
 
 
 They did all have one thing in common, however: they were all proudly and unambiguously, their own\.
@@ -59,7 +59,7 @@ Lighthouse Relief’s involvement in this project builds on the success of the Y
 The magazine features a selection of thought\-provoking artworks, articles, poems and photographs that bear witness to diversity and talent\. Young people in the camp enthusiastically drove every stage of the publication’s development, from content creation to graphic design\.
 
 
-![](assets/527b15d4b1e/1*1ZToWwyevyLxOZdNqVbVHA.png)
+![](../assets/527b15d4b1e/1*1ZToWwyevyLxOZdNqVbVHA.png)
 
 
 One of the driving forces of creative energy behind this initiative is 16\-year old Hamza from Syria\. Although he hasn’t had access to formal education over the last few years, in the future he plans to study Human Rights\.

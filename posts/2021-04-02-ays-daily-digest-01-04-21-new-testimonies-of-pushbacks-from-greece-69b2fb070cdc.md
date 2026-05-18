@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 01/04/21: New testimonies of pushbacks from Greece
+title: "AYS Daily Digest 01/04/21: New testimonies of pushbacks from Greece"
 author: Are You Syrious?
 date: 2021-04-02T10:24:44.283+0100
 last_modified_at: 2021-04-02T10:24:44.283+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,greece,niger,denmark]
 description: New case and 166 GB of video footage // HRW warns about lead contamination at Moria 2 // 137 people died in Niger after attack on…
 image:
-  path: assets/69b2fb070cdc/1*CjNTftC7BsRABLkWNlcPWA.jpeg
+  path: ../assets/69b2fb070cdc/1*CjNTftC7BsRABLkWNlcPWA.jpeg
 ---
 
 ### AYS Daily Digest 01/04/21: New testimonies of pushbacks from Greece
 #### New case and 166 GB of video footage // HRW warns about lead contamination at Moria 2 // 137 people died in Niger after attack on displaced people // Several distress calls remain unanswered // Tense situation at the Italian\-French border // Denmark withdraws residence permits from Syrians
 
 
-![EU member states continue to ignore Human Rights\. Credits: [Igor Čoko](https://www.facebook.com/photo?fbid=10159113400178349&set=a.10158791269943349)](assets/69b2fb070cdc/1*CjNTftC7BsRABLkWNlcPWA.jpeg)
+![EU member states continue to ignore Human Rights\. Credits: [Igor Čoko](https://www.facebook.com/photo?fbid=10159113400178349&set=a.10158791269943349)](../assets/69b2fb070cdc/1*CjNTftC7BsRABLkWNlcPWA.jpeg)
 
 EU member states continue to ignore Human Rights\. Credits: [Igor Čoko](https://www.facebook.com/photo?fbid=10159113400178349&set=a.10158791269943349)
 ### Greece

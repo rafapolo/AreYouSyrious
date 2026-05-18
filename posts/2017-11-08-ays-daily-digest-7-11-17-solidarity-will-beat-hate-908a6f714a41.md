@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 7/11/17: Solidarity will beat hate!
+title: "AYS Daily Digest 7/11/17: Solidarity will beat hate!"
 author: Are You Syrious?
 date: 2017-11-08T00:12:22.897+0000
 last_modified_at: 2017-11-08T09:51:04.254+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,greece,mediterranean,germany,france]
 description: Hunger strikes continue // Call for new protests // Sea-Watch issues statement about Libyan coast guard // More rescues at sea // Call for…
 image:
-  path: assets/908a6f714a41/1*D0kLPy9l0vhBzjgcrkGc1Q.jpeg
+  path: ../assets/908a6f714a41/1*D0kLPy9l0vhBzjgcrkGc1Q.jpeg
 ---
 
 ### AYS Daily Digest 7/11/17: Solidarity will beat hate\!
@@ -15,7 +15,7 @@ image:
 Hunger strikes continue // Call for new protests // Sea\-Watch issues statement about Libyan coast guard // More rescues at sea // Call for help in Germany // 1,000 refugees freezing on the streets of Paris // and more
 
 
-![Photo by [**Art Against**](https://www.facebook.com/artagainstproject/)](assets/908a6f714a41/1*D0kLPy9l0vhBzjgcrkGc1Q.jpeg)
+![Photo by [**Art Against**](https://www.facebook.com/artagainstproject/)](../assets/908a6f714a41/1*D0kLPy9l0vhBzjgcrkGc1Q.jpeg)
 
 Photo by [**Art Against**](https://www.facebook.com/artagainstproject/)
 ### Feature
@@ -35,7 +35,7 @@ After what happened Greece’s Prime minister received the boy and his mother wh
 The racist attacks need to be fought not with violence, but with justice, and increse the solidarity between everyone to show the attackers that intolerance will never win\. Today, that was exactly what happened, and more than 400 people gathered in Athens at a demo in solidarity with 11 year old Amir from Afghanistan\.
 
 
-![Photo by [**NoBorders**](https://www.facebook.com/nobordersnetwork/)](assets/908a6f714a41/1*QCxQ5WOZN-FfdgLiKksnXw.jpeg)
+![Photo by [**NoBorders**](https://www.facebook.com/nobordersnetwork/)](../assets/908a6f714a41/1*QCxQ5WOZN-FfdgLiKksnXw.jpeg)
 
 Photo by [**NoBorders**](https://www.facebook.com/nobordersnetwork/)
 
@@ -74,7 +74,7 @@ Let’s not forget that the Libyan coast guard is financed by Italy following an
 Between the 3rd and the 5th of November, the Turkish coast guard intercepted more than 500 people trying to reach Greece\. They also detained 4 smugglers and recovered 3 dead bodies from the sea\.
 
 
-![](assets/908a6f714a41/1*rlKphfYptCcqiHhtu70hhA.jpeg)
+![](../assets/908a6f714a41/1*rlKphfYptCcqiHhtu70hhA.jpeg)
 
 ### Greece
 
@@ -104,7 +104,7 @@ Total 108 \(105\)
 On Lesvos the hunger strike continues and is now on the 20th day\. Some protesters who are in very bad shape have been sent to the hospital\.
 
 
-![Photo by [**Arash Hampay**](https://www.facebook.com/arashampay) ‎](assets/908a6f714a41/1*T-v0F18Ky0SC6v1XzkRxSA.jpeg)
+![Photo by [**Arash Hampay**](https://www.facebook.com/arashampay) ‎](../assets/908a6f714a41/1*T-v0F18Ky0SC6v1XzkRxSA.jpeg)
 
 Photo by [**Arash Hampay**](https://www.facebook.com/arashampay) ‎
 
@@ -145,7 +145,7 @@ Also today, the activist [**Arash Hampay**](https://www.facebook.com/arashampay)
 
 
 
-![Photo by [**Arash Hampay**](https://www.facebook.com/arashampay)](assets/908a6f714a41/1*nelUfr6ug_V2cK65B-YQzQ.jpeg)
+![Photo by [**Arash Hampay**](https://www.facebook.com/arashampay)](../assets/908a6f714a41/1*nelUfr6ug_V2cK65B-YQzQ.jpeg)
 
 Photo by [**Arash Hampay**](https://www.facebook.com/arashampay)
 
@@ -154,7 +154,7 @@ Photo by [**Arash Hampay**](https://www.facebook.com/arashampay)
 In a day of bad news, we also get reports of a lawyer who was brutally attacked by 20 members of the Golden Dawn outside the court that sees the same party members accused of further aggressions\. She is called Eugenia Kouniaki, is a Greek lawyer and defends refugees\.
 
 
-![Photo by [**Saverio Tommasi**](https://www.facebook.com/SaveTommasi/)](assets/908a6f714a41/1*i1gROrR6uO1ipfncr7EsYQ.png)
+![Photo by [**Saverio Tommasi**](https://www.facebook.com/SaveTommasi/)](../assets/908a6f714a41/1*i1gROrR6uO1ipfncr7EsYQ.png)
 
 Photo by [**Saverio Tommasi**](https://www.facebook.com/SaveTommasi/)
 #### Mainland
@@ -164,12 +164,12 @@ In the capital, where another extreme situation sparked an hunger strike, people
 Today the asylum service has informed two of the hunger strikers that their tickets were issued and they can travel to Germany\. The two women decided to continue the protest and the hunger strike until the struggle of the refugees for family reunification is justified\. For some people solidarity is more than a slogan\.
 
 
-![Photo by [**Απεργία Πείνας Προσφύγων/Hunger Strike: “Reunite us with our families now”**](https://www.facebook.com/hungerstrike4familyreunification/?hc_ref=ARSF-QJG1C-I1Bt3_T9AEeGXHV3bK-GVpA8w5qNJGR02SybKdI1N6q5qLmY627H3ZX8&fref=nf)](assets/908a6f714a41/1*Ny_7UlIJ8izqPLw6PGVKBw.jpeg)
+![Photo by [**Απεργία Πείνας Προσφύγων/Hunger Strike: “Reunite us with our families now”**](https://www.facebook.com/hungerstrike4familyreunification/?hc_ref=ARSF-QJG1C-I1Bt3_T9AEeGXHV3bK-GVpA8w5qNJGR02SybKdI1N6q5qLmY627H3ZX8&fref=nf)](../assets/908a6f714a41/1*Ny_7UlIJ8izqPLw6PGVKBw.jpeg)
 
 Photo by [**Απεργία Πείνας Προσφύγων/Hunger Strike: “Reunite us with our families now”**](https://www.facebook.com/hungerstrike4familyreunification/?hc_ref=ARSF-QJG1C-I1Bt3_T9AEeGXHV3bK-GVpA8w5qNJGR02SybKdI1N6q5qLmY627H3ZX8&fref=nf)
 
 
-![Photo by [**Απεργία Πείνας Προσφύγων/Hunger Strike: “Reunite us with our families now”**](https://www.facebook.com/hungerstrike4familyreunification/?hc_ref=ARSF-QJG1C-I1Bt3_T9AEeGXHV3bK-GVpA8w5qNJGR02SybKdI1N6q5qLmY627H3ZX8&fref=nf)](assets/908a6f714a41/1*5exEiiAKZ_QXvBp2KlQ6Uw.jpeg)
+![Photo by [**Απεργία Πείνας Προσφύγων/Hunger Strike: “Reunite us with our families now”**](https://www.facebook.com/hungerstrike4familyreunification/?hc_ref=ARSF-QJG1C-I1Bt3_T9AEeGXHV3bK-GVpA8w5qNJGR02SybKdI1N6q5qLmY627H3ZX8&fref=nf)](../assets/908a6f714a41/1*5exEiiAKZ_QXvBp2KlQ6Uw.jpeg)
 
 Photo by [**Απεργία Πείνας Προσφύγων/Hunger Strike: “Reunite us with our families now”**](https://www.facebook.com/hungerstrike4familyreunification/?hc_ref=ARSF-QJG1C-I1Bt3_T9AEeGXHV3bK-GVpA8w5qNJGR02SybKdI1N6q5qLmY627H3ZX8&fref=nf)
 
@@ -201,7 +201,7 @@ There was also a call today for another demonstration, in front of the German em
 
 
 
-![](assets/908a6f714a41/1*uDpOkezqSb72iUSetKQqRw.jpeg)
+![](../assets/908a6f714a41/1*uDpOkezqSb72iUSetKQqRw.jpeg)
 
 
 In another subject, [**InterVolve**](https://www.facebook.com/InterVolve-219418945063168/?hc_ref=ARQSN6HeRtQEm1N4RPYCwrZHX5W43NyThLQ-VWS-RUTa5B83OE0_7SK7ObpI2Blvb4w) denounced today how children in Koutsochero camp haven’t had the opportunity to start school this year, unlike many refugee children across Greece, although having received asylum in the country\. Also, the the regular children’s and youth programs on site have also been temporarily suspended, meaning that for the last month InterVolve has been providing the only structured daily activities for the children here, who number around 200\.
@@ -219,14 +219,14 @@ This first edition of IHRC Timisoara has as main topic the REFUGEES\.
 11 European young experts in fields related to REFUGEES will hold 8 presentations \(followed by Q&A sessions\) and 9 dynamic workshops, for the first time in Timisoara\.
 
 
-![](assets/908a6f714a41/1*hoFwqzEllS4wB18EChMXuw.jpeg)
+![](../assets/908a6f714a41/1*hoFwqzEllS4wB18EChMXuw.jpeg)
 
 ### Germany
 
 There has been an **urgent appeal for donations** in that can be dropped off in several cities around the country\.
 
 
-![](assets/908a6f714a41/1*JDtaAuRAZqkSbKUdzko0Aw.png)
+![](../assets/908a6f714a41/1*JDtaAuRAZqkSbKUdzko0Aw.png)
 
 
 The places you can take the donations to and the contacts are the following on the list:
@@ -258,7 +258,7 @@ Also there is another **URGENT APPEAL** from **Leipzig** there’s the need to m
 As mentioned before, there will be a demonstration in Berlin tomorrow in support of the protesters doing the hunger strike in Athens\.
 
 
-![Photo by [**dromografos Int** ‏](https://twitter.com/dromografosInt)](assets/908a6f714a41/1*tE6iJmJEaAlAHTc0fcYoDw.jpeg)
+![Photo by [**dromografos Int** ‏](https://twitter.com/dromografosInt)](../assets/908a6f714a41/1*tE6iJmJEaAlAHTc0fcYoDw.jpeg)
 
 Photo by [**dromografos Int** ‏](https://twitter.com/dromografosInt)
 ### France
@@ -291,12 +291,12 @@ The situation in Paris is becoming desperate as around 1,000 refugees have to sl
 
 
 
-![Photo by [**Paris Refugee Ground Support**](https://www.facebook.com/PRGS.team/?ref=gs&hc_ref=ARRlrPioY76S1-RuPJhqz1UkBVLjTu-aeg53lRg0RViGt6LZpKAHMCC-eQPESS9itlI&fref=gs&hc_location=group)](assets/908a6f714a41/1*I9y34rawdmJADEh-npDO4Q.jpeg)
+![Photo by [**Paris Refugee Ground Support**](https://www.facebook.com/PRGS.team/?ref=gs&hc_ref=ARRlrPioY76S1-RuPJhqz1UkBVLjTu-aeg53lRg0RViGt6LZpKAHMCC-eQPESS9itlI&fref=gs&hc_location=group)](../assets/908a6f714a41/1*I9y34rawdmJADEh-npDO4Q.jpeg)
 
 Photo by [**Paris Refugee Ground Support**](https://www.facebook.com/PRGS.team/?ref=gs&hc_ref=ARRlrPioY76S1-RuPJhqz1UkBVLjTu-aeg53lRg0RViGt6LZpKAHMCC-eQPESS9itlI&fref=gs&hc_location=group)
 
 
-![Photo by [**Paris Refugee Ground Support**](https://www.facebook.com/PRGS.team/?ref=gs&hc_ref=ARRlrPioY76S1-RuPJhqz1UkBVLjTu-aeg53lRg0RViGt6LZpKAHMCC-eQPESS9itlI&fref=gs&hc_location=group)](assets/908a6f714a41/1*Oph-L79J1I4LqtEaWIVjuw.jpeg)
+![Photo by [**Paris Refugee Ground Support**](https://www.facebook.com/PRGS.team/?ref=gs&hc_ref=ARRlrPioY76S1-RuPJhqz1UkBVLjTu-aeg53lRg0RViGt6LZpKAHMCC-eQPESS9itlI&fref=gs&hc_location=group)](../assets/908a6f714a41/1*Oph-L79J1I4LqtEaWIVjuw.jpeg)
 
 Photo by [**Paris Refugee Ground Support**](https://www.facebook.com/PRGS.team/?ref=gs&hc_ref=ARRlrPioY76S1-RuPJhqz1UkBVLjTu-aeg53lRg0RViGt6LZpKAHMCC-eQPESS9itlI&fref=gs&hc_location=group)
 
@@ -310,7 +310,7 @@ Their post was about their actions to inform the public about the situation of r
 On the night of Monday, November 6 to Tuesday, November 7, 300 citizens have diverted thousands of advertising spaces and placed 2,100 posters in subway stations, shelters and train stations in the country to denounce the current anti\-migration policy by the Belgian government \(notably in Liège, Leuven, Ghent, Namur, Brussels, Charleroi, La Louvière, Vervier and Mons\) \. This morning, 7,000 door hangers were also distributed on public transport, with the aim of drawing attention to the the government’s “humane but firm” policy that has only one objective: to remove migrants by expelling them or making them invisible\.
 
 
-![](assets/908a6f714a41/1*g68Q2kQDx2zQIN2-vdV6UA.jpeg)
+![](../assets/908a6f714a41/1*g68Q2kQDx2zQIN2-vdV6UA.jpeg)
 
 
 

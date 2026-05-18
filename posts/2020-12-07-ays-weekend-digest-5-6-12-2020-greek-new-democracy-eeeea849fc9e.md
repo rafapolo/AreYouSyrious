@@ -5,9 +5,9 @@ date: 2020-12-07T13:19:04.320+0000
 last_modified_at: 2020-12-07T16:52:22.152+0000
 categories: Are You Syrious?
 tags: [digest,alexis,illiberalism,refugees,jamaica50]
-description: Shipwreck feared off the Moroccan coast / UK: One deportee to Jamaica tested positive for Covid-19 / Updates from Patras, Ventimiglia…
+description: "Shipwreck feared off the Moroccan coast / UK: One deportee to Jamaica tested positive for Covid-19 / Updates from Patras, Ventimiglia…"
 image:
-  path: assets/eeeea849fc9e/1*BCvn1-5ot8ebbv27LJl0yg.jpeg
+  path: ../assets/eeeea849fc9e/1*BCvn1-5ot8ebbv27LJl0yg.jpeg
 ---
 
 ### AYS Weekend Digest 5–6/12/2020 Greek \(new\) Democracy?
@@ -15,7 +15,7 @@ image:
 _Shipwreck feared off the Moroccan coast // UK: One deportee to Jamaica tested positive for COVID\-19 // New arrivals in Kalymnos \(Greece\), Southern Italy and the Canary islands // Updates from Patras, Ventimiglia and the Balkans_
 
 
-![06\.12\.2008 — Don’t Forget \( [Illustration by John Antono](https://johnantono.blogspot.com/2020/12/den-ksexnoun.html) \)](assets/eeeea849fc9e/1*BCvn1-5ot8ebbv27LJl0yg.jpeg)
+![06\.12\.2008 — Don’t Forget \( [Illustration by John Antono](https://johnantono.blogspot.com/2020/12/den-ksexnoun.html) \)](../assets/eeeea849fc9e/1*BCvn1-5ot8ebbv27LJl0yg.jpeg)
 
 06\.12\.2008 — Don’t Forget \( [Illustration by John Antono](https://johnantono.blogspot.com/2020/12/den-ksexnoun.html) \)
 #### FEATURED: Greek \(New\) Democracy?
@@ -96,7 +96,7 @@ The government carries on with its policies, unperturbed by the accusations of v
 In less than two years, the right\-wing government have pursued the criminalisation of solidarity organisations and NGOs, have tightened the laws on asylum, have further militarised the borders, have provided de facto impunity for crimes committed in the Aegean and in the Evros region, have restricted access to camps and hotspots, and are now turning reception centres in unofficial detention sites\. Officials have so far denied all such accusations, labelling them Turkish propaganda, and trying to shift the blame on to the NGOs and grassroots groups documenting these crimes\. Greek authorities have pressured Frontex and the EU to include “ [_hybrid threats_](https://www.statewatch.org/news/2020/november/frontex-will-a-management-board-sub-group-find-the-truth-about-pushbacks/) _”_ within the realm of the latest internal investigating sub\-group on Frontex complicity in pushbacks\.
 
 
-![](assets/eeeea849fc9e/1*ybCcwa9zW7Z6NPDzQ6NnvA.jpeg)
+![](../assets/eeeea849fc9e/1*ybCcwa9zW7Z6NPDzQ6NnvA.jpeg)
 
 
 While Greece descends into authoritarianism, EU institutions watch and applaud the country’s role in defending the Union’s external borders\. Liberal values come in handy only when needed\. Criticisms against Hungary and Poland, who now are [vetoing](https://www.project-syndicate.org/commentary/democracy-imperiled-in-greece-by-yanis-varoufakis-2020-11) the new EU budget, are rarely heard about Greece, a modern Cerberus at the EU’s gates\.
@@ -266,11 +266,11 @@ BOSNIA AND HERZEGOVINA
 #### [**SOS Balkan Route**](https://www.facebook.com/SOSBalkanroute/photos/pcb.396177591821820/396172815155631) **report on winter conditions for people on the move**
 
 
-![](assets/eeeea849fc9e/1*YmaVScNKPct-4WL0OF2mAQ.jpeg)
+![](../assets/eeeea849fc9e/1*YmaVScNKPct-4WL0OF2mAQ.jpeg)
 
 
 
-![\(Photo credit: [Ben Owen\-Browne](https://www.facebook.com/benowenbrowne) via [SOS Balkan Route](https://www.facebook.com/SOSBalkanroute/photos/pcb.396177591821820/396172815155631) \)](assets/eeeea849fc9e/1*AI10VHsStGK640tdbSrCTA.jpeg)
+![\(Photo credit: [Ben Owen\-Browne](https://www.facebook.com/benowenbrowne) via [SOS Balkan Route](https://www.facebook.com/SOSBalkanroute/photos/pcb.396177591821820/396172815155631) \)](../assets/eeeea849fc9e/1*AI10VHsStGK640tdbSrCTA.jpeg)
 
 \(Photo credit: [Ben Owen\-Browne](https://www.facebook.com/benowenbrowne) via [SOS Balkan Route](https://www.facebook.com/SOSBalkanroute/photos/pcb.396177591821820/396172815155631) \)
 
@@ -284,11 +284,11 @@ Snow has arrived in Bosnia and SOS Balkan Route are trying to support people for
 
 
 
-![](assets/eeeea849fc9e/1*gInmmb7fYCjjoB7s775aGQ.jpeg)
+![](../assets/eeeea849fc9e/1*gInmmb7fYCjjoB7s775aGQ.jpeg)
 
 
 
-![\(Photo credit: [Ben Owen\-Browne](https://www.facebook.com/benowenbrowne) via [SOS Balkan Route](https://www.facebook.com/SOSBalkanroute/photos/pcb.396177591821820/396172815155631) \)](assets/eeeea849fc9e/1*uPM_CFS7VrvprvFoVuttkw.jpeg)
+![\(Photo credit: [Ben Owen\-Browne](https://www.facebook.com/benowenbrowne) via [SOS Balkan Route](https://www.facebook.com/SOSBalkanroute/photos/pcb.396177591821820/396172815155631) \)](../assets/eeeea849fc9e/1*uPM_CFS7VrvprvFoVuttkw.jpeg)
 
 \(Photo credit: [Ben Owen\-Browne](https://www.facebook.com/benowenbrowne) via [SOS Balkan Route](https://www.facebook.com/SOSBalkanroute/photos/pcb.396177591821820/396172815155631) \)
 

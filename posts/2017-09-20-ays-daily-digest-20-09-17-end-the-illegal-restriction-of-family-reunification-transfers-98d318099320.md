@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 20/09/17: End the illegal restriction of family reunification transfers
+title: "AYS Daily Digest 20/09/17: End the illegal restriction of family reunification transfers"
 author: Are You Syrious?
 date: 2017-09-20T23:19:20.948+0100
 last_modified_at: 2017-09-20T23:19:20.948+0100
@@ -7,7 +7,7 @@ categories:
 tags: [europe,refugees,refugeeswelcome,greece,italy]
 description: Court ruling regarding family reunification / Situation on the Greek islands / Hundreds of refugee children start public primary schools in…
 image:
-  path: assets/98d318099320/1*G5_m5z3tYEfQIKWNLDuZtQ.jpeg
+  path: ../assets/98d318099320/1*G5_m5z3tYEfQIKWNLDuZtQ.jpeg
 ---
 
 ### AYS Daily Digest 20/09/17: End the illegal restriction of family reunification transfers
@@ -15,7 +15,7 @@ image:
 _Court ruling regarding family reunification / Situation on the Greek islands / Hundreds of refugee children start public primary schools in Serbia / Sleeping rough in Pordenone / Galleria Bombi in Gorizia cleared / People remain at Grande Synthe near Dunkerque / Returns of Sudanese from Belgium expected_
 
 
-![Paris today](assets/98d318099320/1*G5_m5z3tYEfQIKWNLDuZtQ.jpeg)
+![Paris today](../assets/98d318099320/1*G5_m5z3tYEfQIKWNLDuZtQ.jpeg)
 
 Paris today
 
@@ -54,27 +54,27 @@ Riots and fighting broke out among the refugees in Samos three days ago\. The re
 #### Leros
 
 
-![](assets/98d318099320/1*7LkbHQ0KOXxl_8MMnDSVjQ.jpeg)
+![](../assets/98d318099320/1*7LkbHQ0KOXxl_8MMnDSVjQ.jpeg)
 
 
 
-![](assets/98d318099320/1*2FCgL8JEKPJ6ZwHEh-P5MA.jpeg)
+![](../assets/98d318099320/1*2FCgL8JEKPJ6ZwHEh-P5MA.jpeg)
 
 
 
-![](assets/98d318099320/1*d5S7LNE3sUSC96ANjFEp_Q.jpeg)
+![](../assets/98d318099320/1*d5S7LNE3sUSC96ANjFEp_Q.jpeg)
 
 
 
-![](assets/98d318099320/1*D3HeWJpXK2JOOrfdGfOOGg.jpeg)
+![](../assets/98d318099320/1*D3HeWJpXK2JOOrfdGfOOGg.jpeg)
 
 
 
-![](assets/98d318099320/1*NEcgmGmRso27QLITy7teOw.jpeg)
+![](../assets/98d318099320/1*NEcgmGmRso27QLITy7teOw.jpeg)
 
 
 
-![**“Greece Wins Europe’s Best Destination Video by the World Tourism Organization” — a headline you could see today\. Many people stuck on the Greek islands and in camps across mainland Greece wouldn’t agree\.**](assets/98d318099320/1*5GOlxwvOek1Iq6hb48s5mA.jpeg)
+![**“Greece Wins Europe’s Best Destination Video by the World Tourism Organization” — a headline you could see today\. Many people stuck on the Greek islands and in camps across mainland Greece wouldn’t agree\.**](../assets/98d318099320/1*5GOlxwvOek1Iq6hb48s5mA.jpeg)
 
 **“Greece Wins Europe’s Best Destination Video by the World Tourism Organization” — a headline you could see today\. Many people stuck on the Greek islands and in camps across mainland Greece wouldn’t agree\.**
 
@@ -91,11 +91,11 @@ Requirements:
 [The Timber Project](https://www.facebook.com/thetimberproject.org/?hc_ref=ARTcITSmh2yfwLmro8bigDbJTwiJW8lLzB67IwNRXHsYBJNLhDIg_UqWd7uPcMdq4KE) working together with [InterVolve](https://www.facebook.com/InterVolve-219418945063168/?fref=mentions) and [Help Refugees](https://www.facebook.com/HelpRefugeesUK/?fref=mentions) finished building a grocery shop in Koutsochero Camp, Larissa\!
 
 
-![](assets/98d318099320/1*Pia-4nDmX0PGYHkteVHFlA.jpeg)
+![](../assets/98d318099320/1*Pia-4nDmX0PGYHkteVHFlA.jpeg)
 
 
 
-![Photos by [The Timber Project](https://www.facebook.com/thetimberproject.org/?hc_ref=ARTcITSmh2yfwLmro8bigDbJTwiJW8lLzB67IwNRXHsYBJNLhDIg_UqWd7uPcMdq4KE)](assets/98d318099320/1*iI2Va5BodChZxdCRsaot6Q.jpeg)
+![Photos by [The Timber Project](https://www.facebook.com/thetimberproject.org/?hc_ref=ARTcITSmh2yfwLmro8bigDbJTwiJW8lLzB67IwNRXHsYBJNLhDIg_UqWd7uPcMdq4KE)](../assets/98d318099320/1*iI2Va5BodChZxdCRsaot6Q.jpeg)
 
 Photos by [The Timber Project](https://www.facebook.com/thetimberproject.org/?hc_ref=ARTcITSmh2yfwLmro8bigDbJTwiJW8lLzB67IwNRXHsYBJNLhDIg_UqWd7uPcMdq4KE)
 #### SERBIA/HUNGARY
@@ -161,11 +161,11 @@ On 19 September, taxi driver Lorenzo “Renzino” Guglielmi has been condemned 
 Africans crossing the Mediterranean has become a mathematical equation in a textbook approved by the French education ministry for secondary school pupils\. After facing criticism, the book publisher Nathan, who introduced the conundrum which featured a photograph of African migrants crammed into an inflatable dinghy, has issued an formal apology, although insisted it was only acting under orders, Sputnik [reports](https://sputniknews.com/europe/201709191057522577-france-migrants-math-equation/) \.
 
 
-![](assets/98d318099320/1*G5_m5z3tYEfQIKWNLDuZtQ.jpeg)
+![](../assets/98d318099320/1*G5_m5z3tYEfQIKWNLDuZtQ.jpeg)
 
 
 
-![Current situation in Paris, photos by a local volunteer](assets/98d318099320/1*2dpJ7tM_Ebb8tnpL2XwrUA.jpeg)
+![Current situation in Paris, photos by a local volunteer](../assets/98d318099320/1*2dpJ7tM_Ebb8tnpL2XwrUA.jpeg)
 
 Current situation in Paris, photos by a local volunteer
 #### Dunkerque
@@ -186,7 +186,7 @@ Following the police action yesterday to clear refugees camping at Grande Synthe
 
 
 
-![photo by [Care4Calais](https://www.facebook.com/care4calais/)](assets/98d318099320/1*a3GzXDuTlju9mwpWTOIbBA.jpeg)
+![photo by [Care4Calais](https://www.facebook.com/care4calais/)](../assets/98d318099320/1*a3GzXDuTlju9mwpWTOIbBA.jpeg)
 
 photo by [Care4Calais](https://www.facebook.com/care4calais/)
 #### BELGIUM

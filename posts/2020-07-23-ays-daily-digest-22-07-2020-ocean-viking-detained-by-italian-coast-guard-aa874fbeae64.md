@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,italy,ngo]
 description: Italian Government’s Ongoing Campaign Against NGOs Continues///In Greece, Government Uses Threat of Virus to Continue Movement…
 image:
-  path: assets/aa874fbeae64/0*8abWehYpreE0B6Dj.jpg
+  path: ../assets/aa874fbeae64/0*8abWehYpreE0B6Dj.jpg
 ---
 
 ### AYS Daily Digest 22/07/2020 — Ocean Viking Detained by Italian Coast Guard
 #### Italian Government’s Ongoing Campaign Against NGOs Continues///In Greece, Government Uses Threat of Virus to Continue Movement Restrictions///US No Longer a Safe Third Country///& More
 
 
-![The Ocean Viking when it was in action\. Photo credit: [Anthony Jean/SOS Mediterranee](https://sosmediterranee.com/)](assets/aa874fbeae64/0*8abWehYpreE0B6Dj.jpg)
+![The Ocean Viking when it was in action\. Photo credit: [Anthony Jean/SOS Mediterranee](https://sosmediterranee.com/)](../assets/aa874fbeae64/0*8abWehYpreE0B6Dj.jpg)
 
 The Ocean Viking when it was in action\. Photo credit: [Anthony Jean/SOS Mediterranee](https://sosmediterranee.com/)
 
@@ -153,7 +153,7 @@ Greek minister of migration Notis Mitarakis [shared photos](https://twitter.com/
 Specific information about this deportation is unclear, but it’s possible that this was a joint return operation [carried out with Frontex](https://twitter.com/lk2015r/status/1286046174470975490?fbclid=IwAR2Bmw6kmzEWvGMuqUBkCApqLNwwnX8woHqPHsbXFiuTEivpgHel3_xgiLs) \(the presence of return monitors from Frontex or the Greek government is unclear, although if present they should have stopped the minister’s callous photo op\) \. Publishing photos of people on the move, especially those undergoing deportation, directly violates [Frontex’s own privacy regulations](https://twitter.com/lk2015r/status/1285872962575437824?fbclid=IwAR1b86W1PEDruQE7C5ywthtWzZnKzw06LBj7ScGlsMz0ddpkzY0gNav3kyg) \. Will something be done? Or are Frontex and the Greek government unable to respect the rights of people on the move even on social media?
 
 
-![](assets/aa874fbeae64/0*pRDMhjX9jporomO6)
+![](../assets/aa874fbeae64/0*pRDMhjX9jporomO6)
 
 
 Do you know this man? Noa Basseck from Cameroon, and any of the other 101 people who were pushed back to Libya by the Asso 28 cargo ship on 30 June 2018, could be entitled to legal compensation\. If you have any information, you’re encouraged to get in touch [here\.](https://www.facebook.com/photo/?fbid=10157142036377085&set=a.10151442950087085)

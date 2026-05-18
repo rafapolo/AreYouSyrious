@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 28/1/21: Fire in a refugee camp in Kosovo leaves six injured
+title: "AYS Daily Digest 28/1/21: Fire in a refugee camp in Kosovo leaves six injured"
 author: Are You Syrious?
 date: 2021-01-29T15:04:08.568+0000
 last_modified_at: 2021-01-31T14:11:05.077+0000
 categories: Are You Syrious?
 tags: [digest,refugees,europe,migration,human-rights]
-description: 6 people injured after a fire broke out in a camp in Kosovo / Ongoing: the first legal challenge to the European Union over its treatment…
+description: "6 people injured after a fire broke out in a camp in Kosovo / Ongoing: the first legal challenge to the European Union over its treatment…"
 image:
-  path: assets/19f99ff03349/0*ATHfLJEq2K43Ktcs
+  path: ../assets/19f99ff03349/0*ATHfLJEq2K43Ktcs
 ---
 
 ### AYS Daily Digest 28/1/21: Fire in a refugee camp in Kosovo leaves six injured
 #### 6 people injured after a fire broke out in a camp in Kosovo / Ongoing: the first legal challenge to the European Union over its treatment of refugees / Report: “Violations of rights on the Southern Border: Canary Islands and Melilla” / UK — a submission for a safe and legal route from France to the UK through a humanitarian visa scheme / Recommended reads & more
 
 
-![Kosovo camp \(Photo copyrights&source: [Top Channel Albania](https://www.youtube.com/watch?v=nGt0-7AtFxs) \)](assets/19f99ff03349/0*ATHfLJEq2K43Ktcs)
+![Kosovo camp \(Photo copyrights&source: [Top Channel Albania](https://www.youtube.com/watch?v=nGt0-7AtFxs) \)](../assets/19f99ff03349/0*ATHfLJEq2K43Ktcs)
 
 Kosovo camp \(Photo copyrights&source: [Top Channel Albania](https://www.youtube.com/watch?v=nGt0-7AtFxs) \)
 #### **FEATURE**
@@ -94,12 +94,12 @@ So disgraceful!
 
 
 
-![The troubles of Moria continue\. \. [Moria Corona Awareness Team](https://www.facebook.com/MoriaCoronaAwarenessTeam/?__cft__[0]=AZWWyh3u9n8ZneJtKg1H4Q7eGzI2W8YR0Us0XmLeKuECQBRVM25degcFsWHrSnzV13uHKqGeRwPvrKy_Pq5UV5IZ7VA3pnkTOPElTAZb2ApDycClKyaDghU8BVmIoWeA5-cDS7OlRuXbT3gchLVKOteg&__tn__=-UC%2CP-R) documenting a symbol of hope in the sky](assets/19f99ff03349/0*MMsA3SduN0itDEKM)
+![The troubles of Moria continue\. \. [Moria Corona Awareness Team](https://www.facebook.com/MoriaCoronaAwarenessTeam/?__cft__[0]=AZWWyh3u9n8ZneJtKg1H4Q7eGzI2W8YR0Us0XmLeKuECQBRVM25degcFsWHrSnzV13uHKqGeRwPvrKy_Pq5UV5IZ7VA3pnkTOPElTAZb2ApDycClKyaDghU8BVmIoWeA5-cDS7OlRuXbT3gchLVKOteg&__tn__=-UC%2CP-R) documenting a symbol of hope in the sky](../assets/19f99ff03349/0*MMsA3SduN0itDEKM)
 
 The troubles of Moria continue\. \. [Moria Corona Awareness Team](https://www.facebook.com/MoriaCoronaAwarenessTeam/?__cft__[0]=AZWWyh3u9n8ZneJtKg1H4Q7eGzI2W8YR0Us0XmLeKuECQBRVM25degcFsWHrSnzV13uHKqGeRwPvrKy_Pq5UV5IZ7VA3pnkTOPElTAZb2ApDycClKyaDghU8BVmIoWeA5-cDS7OlRuXbT3gchLVKOteg&__tn__=-UC%2CP-R) documenting a symbol of hope in the sky
 
 
-![](assets/19f99ff03349/0*CKvO2IK6qtW8Wr5c)
+![](../assets/19f99ff03349/0*CKvO2IK6qtW8Wr5c)
 
 
 As the difficulties people face are multiplying, they tend to fix things themselves, knowing not much help \(and certainly not a timely response\) is to be expected from the people running the situation\. 
@@ -164,7 +164,7 @@ Speaking of border security, the Croatian Ministry of the Interior has just [spe
 Another colossal waste of money\.
 
 
-![Source: [bug\.hr](https://www.bug.hr/dronovi/predstavljen-hrvatski-bespilotni-zrakoplovni-sustav-velikog-dometa-10057)](assets/19f99ff03349/0*kGKRWKZHvHnbF2BH)
+![Source: [bug\.hr](https://www.bug.hr/dronovi/predstavljen-hrvatski-bespilotni-zrakoplovni-sustav-velikog-dometa-10057)](../assets/19f99ff03349/0*kGKRWKZHvHnbF2BH)
 
 Source: [bug\.hr](https://www.bug.hr/dronovi/predstavljen-hrvatski-bespilotni-zrakoplovni-sustav-velikog-dometa-10057)
 #### BELGIUM
@@ -201,7 +201,7 @@ Informe: [cutt.ly/9j7uv3u](https://cutt.ly/9j7uv3u) https://t.co/aQmESLNC2e
 The report documents and supports their claims that the Spanish Ministry of the Interior and the CNP have “generated situations in which they have relaxed, without legal protection, both the conditions the duration of detention,” creating a space not only for violations of the rights of people on the move, but also, they claim, could indicate potential criminal activities that must be investigated in depth\.
 
 
-[![#DDHHFronteraSur: Gran Canaria y Melilla](assets/19f99ff03349/2ef9_hqdefault.jpg "#DDHHFronteraSur: Gran Canaria y Melilla")](https://www.youtube.com/watch?v=CSth8x4-pdQ)
+[![#DDHHFronteraSur: Gran Canaria y Melilla](../assets/19f99ff03349/2ef9_hqdefault.jpg "#DDHHFronteraSur: Gran Canaria y Melilla")](https://www.youtube.com/watch?v=CSth8x4-pdQ)
 
 #### UK
 

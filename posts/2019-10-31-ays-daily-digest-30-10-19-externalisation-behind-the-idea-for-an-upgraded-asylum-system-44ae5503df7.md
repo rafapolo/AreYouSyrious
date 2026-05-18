@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 30/10/19: ‘Externalisation’ behind the idea for an upgraded asylum system
+title: "AYS Daily Digest 30/10/19: ‘Externalisation’ behind the idea for an upgraded asylum system"
 author: Are You Syrious?
 date: 2019-10-31T16:01:01.809+0000
 last_modified_at: 2019-10-31T18:33:47.373+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,germany,greece,libya]
 description: Germany proposes to replace Dublin in early 2020//Hundreds of people escape Abu Salim centre in Libya//New developments in the…
 image:
-  path: assets/44ae5503df7/1*HKrEQZwFnL91yqD1vKVhvA.jpeg
+  path: ../assets/44ae5503df7/1*HKrEQZwFnL91yqD1vKVhvA.jpeg
 ---
 
 ### AYS Daily Digest 30/10/19: ‘Externalisation’ behind the idea for an upgraded asylum system
@@ -15,7 +15,7 @@ image:
 Germany proposes to replace Dublin in early 2020//Hundreds of people escape Abu Salim centre in Libya//New developments in the Mediterranean//Weather alert in Greece//Risk of additional evictions in Athens//35097 people stuck on Greek islands//More news from Germany, Spain…
 
 
-![Credit: [MSF Sea](https://twitter.com/MSF_Sea/status/1189514474019012609?fbclid=IwAR3okEQqsvFYSnvJxg8hyQaOl0UySErTV_J6YsTxs9Z7-XqdhoG2ndn9YRI) \.](assets/44ae5503df7/1*HKrEQZwFnL91yqD1vKVhvA.jpeg)
+![Credit: [MSF Sea](https://twitter.com/MSF_Sea/status/1189514474019012609?fbclid=IwAR3okEQqsvFYSnvJxg8hyQaOl0UySErTV_J6YsTxs9Z7-XqdhoG2ndn9YRI) \.](../assets/44ae5503df7/1*HKrEQZwFnL91yqD1vKVhvA.jpeg)
 
 Credit: [MSF Sea](https://twitter.com/MSF_Sea/status/1189514474019012609?fbclid=IwAR3okEQqsvFYSnvJxg8hyQaOl0UySErTV_J6YsTxs9Z7-XqdhoG2ndn9YRI) \.
 #### FEATURED
@@ -176,7 +176,7 @@ With 42,010 people having arrived in Greece by 20 October the numbers are 10,000
 3794 people arrived in Spain in September, making it the month with the most arrivals since the beginning of the summer\.
 
 
-![](assets/44ae5503df7/0*qS5j62MTEiNhy4oN)
+![](../assets/44ae5503df7/0*qS5j62MTEiNhy4oN)
 
 
 **If you wish to contribute, either by writing a report or a story, or by joining the info gathering team, please let us know\.**

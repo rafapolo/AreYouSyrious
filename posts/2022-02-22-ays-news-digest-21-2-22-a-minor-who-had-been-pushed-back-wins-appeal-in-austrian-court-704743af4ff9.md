@@ -1,20 +1,20 @@
 ---
-title: AYS News Digest 21/2/22: A minor who had been pushed back wins appeal in Austrian Court
+title: "AYS News Digest 21/2/22: A minor who had been pushed back wins appeal in Austrian Court"
 author: Are You Syrious?
 date: 2022-02-22T22:46:21.181+0000
 last_modified_at: 2022-02-23T20:09:15.671+0000
 categories: Are You Syrious?
 tags: [digest,austria,courts,human-rights,refugees]
-description: EU opts for “a large wave of returns” in the agreement with Cyprus / New pullbacks to Libya / UK: the first inquiry into immigration…
+description: "EU opts for “a large wave of returns” in the agreement with Cyprus / New pullbacks to Libya / UK: the first inquiry into immigration…"
 image:
-  path: assets/704743af4ff9/1*r2YI-PaR5OiT6J3ndhlj2w.jpeg
+  path: ../assets/704743af4ff9/1*r2YI-PaR5OiT6J3ndhlj2w.jpeg
 ---
 
 ### AYS News Digest 21/2/22: A minor who had been pushed back wins appeal in Austrian Court
 #### EU opts for “a large wave of returns” in the agreement with Cyprus / New pullbacks to Libya / UK: the first inquiry into immigration detention in the UK resumes / Lithuanian activists need support / In the case of Belarus, the ECHR applied interim measures in 65 of the 69 applications / updates, reports and stuff worth reading
 
 
-![The area near Bad Radkersburg where pushbacks occur frequently \(Photo: AYS\)](assets/704743af4ff9/1*r2YI-PaR5OiT6J3ndhlj2w.jpeg)
+![The area near Bad Radkersburg where pushbacks occur frequently \(Photo: AYS\)](../assets/704743af4ff9/1*r2YI-PaR5OiT6J3ndhlj2w.jpeg)
 
 The area near Bad Radkersburg where pushbacks occur frequently \(Photo: AYS\)
 
@@ -101,7 +101,7 @@ More reporting from Calais, in [Spanish](https://l.facebook.com/l.php?u=https%3A
 From the report on activities of the volunteer activists group [Sienos](http://Sienos Grupė) :
 
 
-![](assets/704743af4ff9/0*uoCUv5wShsI-8kYA)
+![](../assets/704743af4ff9/0*uoCUv5wShsI-8kYA)
 
 
 
@@ -170,7 +170,7 @@ From our network:
 
 
 
-![Sign up here [https://bit\.ly/3h2Mfyt](https://t.co/hiF86OqW0U)](assets/704743af4ff9/0*dDN9ojy7ApAs9Z6u)
+![Sign up here [https://bit\.ly/3h2Mfyt](https://t.co/hiF86OqW0U)](../assets/704743af4ff9/0*dDN9ojy7ApAs9Z6u)
 
 Sign up here [https://bit\.ly/3h2Mfyt](https://t.co/hiF86OqW0U)
 

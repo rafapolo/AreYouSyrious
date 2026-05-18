@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 19/06/20: Ripe for Corruption? The Greek Migration Ministry.
+title: "AYS Daily Digest 19/06/20: Ripe for Corruption? The Greek Migration Ministry."
 author: Are You Syrious?
 date: 2020-06-20T14:57:34.014+0100
 last_modified_at: 2020-06-20T14:57:34.014+0100
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [digest,migration,refugees,europe,greece]
 description: Are You Syrious?
 image:
-  path: assets/15a6c1629c89/0*PfHzSvPhxBn1RBHB.jpeg
+  path: ../assets/15a6c1629c89/0*PfHzSvPhxBn1RBHB.jpeg
 ---
 
 ### AYS Daily Digest 19/06/20: Ripe for Corruption? The Greek Migration Ministry\.
 
 
-![](assets/15a6c1629c89/0*tGwNYLhaUs-xkAoE.jpeg)
+![](../assets/15a6c1629c89/0*tGwNYLhaUs-xkAoE.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----a73515dc8039----------------------)
@@ -118,11 +118,11 @@ To further understand the treatment that James is likely to have endured, MSF ha
 Over 1 [00 people attended a demonstration](https://cyprus-mail.com/2020/06/19/demo-held-in-nicosia-to-support-refugees/?fbclid=IwAR1tVF8SAVtuUV6BiGs1_Kyrm0g6CClR41kPU1JywamyDU_M7v718xyX9zU) in Nicosia on Friday marking World Refugee Day\. In the demonstration, the participants carried banners saying ‘Solidarity to refugees’ and ‘We can’t breathe’\.
 
 
-![](assets/15a6c1629c89/0*eXlpivGdA4_s-hvl)
+![](../assets/15a6c1629c89/0*eXlpivGdA4_s-hvl)
 
 
 
-![](assets/15a6c1629c89/0*PfHzSvPhxBn1RBHB.jpeg)
+![](../assets/15a6c1629c89/0*PfHzSvPhxBn1RBHB.jpeg)
 
 
 These actions occurred against the backdrop of an upcoming [reform of the Cypriot migration policy](https://www.ekathimerini.com/253850/article/ekathimerini/news/cyprus-says-common-eu-migration-deal-imperative) \. With an upcoming constitutional amendment predicted to be approved next month, the time asylum seekers have to appeal their rejected claim is expected to be cut from 75 days to 15 days\. Its claimed that this change in policy is in an attempt to clear up the huge backlog of cases and slash the processing time of asylum applications\. Additionally, it has been reported that applications from citizens of 21 “safe” countries including Egypt, Nigeria, Bosnia the Philippines and Vietnam will be proactively considered “baseless” unless applicants can prove that their lives would be in danger if they returned\.

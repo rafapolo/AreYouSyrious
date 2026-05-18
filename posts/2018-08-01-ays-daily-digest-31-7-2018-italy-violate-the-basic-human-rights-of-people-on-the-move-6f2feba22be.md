@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 31/7/2018: Italy violate the basic human rights of people on the move
+title: "AYS DAILY DIGEST 31/7/2018: Italy violate the basic human rights of people on the move"
 author: Are You Syrious?
 date: 2018-08-01T10:55:33.930+0100
 last_modified_at: 2018-08-01T10:55:33.930+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,scotland,spain,italy,asylum-seekers]
 description: Concerns after Italy pushed back to the boat with 108 people to Libya // 9 hours in the line to register for asylum in Rome // No solution…
 image:
-  path: assets/6f2feba22be/1*UTo2bHvOdX5tjljLczJAjg.jpeg
+  path: ../assets/6f2feba22be/1*UTo2bHvOdX5tjljLczJAjg.jpeg
 ---
 
 ### AYS DAILY DIGEST 31/7/2018: Italy violate the basic human rights of people on the move
@@ -15,7 +15,7 @@ image:
 _Concerns after Italy pushed back to the boat with 108 people to Libya // 9 hours in the line to register for asylum in Rome // No solution for people in Bosnia // Sign the petition to allow refugees to be reunited with family members // Eviction of 300 people in Scotland_
 
 
-![Bihać, a make shift camp where about 1000 people lives in precarious conditions\. Photo by [One bridge to Idomeni](https://www.facebook.com/onebridgetoidomeni/) \.](assets/6f2feba22be/1*UTo2bHvOdX5tjljLczJAjg.jpeg)
+![Bihać, a make shift camp where about 1000 people lives in precarious conditions\. Photo by [One bridge to Idomeni](https://www.facebook.com/onebridgetoidomeni/) \.](../assets/6f2feba22be/1*UTo2bHvOdX5tjljLczJAjg.jpeg)
 
 Bihać, a make shift camp where about 1000 people lives in precarious conditions\. Photo by [One bridge to Idomeni](https://www.facebook.com/onebridgetoidomeni/) \.
 ### Feature
@@ -46,7 +46,7 @@ Mission Lifeline is looking for the new crew member for their new ship\. If you 
 Spain is currently the main arrival\-by\-sea country in the Mediterranean with **22,858 migrants arriving since the beginning of the year** and **1,866 of them arriving since 25 July alone** \. To respond thigh number of people who keep arriving, the government is planning to invest 30 million euros\. The money will go towards covering the initial costs of managing arrivals on the beaches, from organizing staff to handing out blankets and from providing food to processing asylum claims\.
 
 
-![](assets/6f2feba22be/1*aMBK7PIJOBt2XjNyYKupQg.jpeg)
+![](../assets/6f2feba22be/1*aMBK7PIJOBt2XjNyYKupQg.jpeg)
 
 
 In the meantime, hundreds are sleeping on the pavement or inside a rescue boat docked in the port of Algeciras\.
@@ -59,7 +59,7 @@ The situation in Rome is not getting any better, according to [Baobab team](http
 This can be seen in attitude toward people who are trying to register at the state office\. They are left to wait for days while sleeping out in the open, and then for hours in the lines to register\. Baoba brings a story of Mahmoud, a Palestinian gentleman with a 17\-year\-old son:
 
 
-![](assets/6f2feba22be/1*Nk9ExIA3w3iilu9UAYzfHg.jpeg)
+![](../assets/6f2feba22be/1*Nk9ExIA3w3iilu9UAYzfHg.jpeg)
 
 
 “ _For him, already a month in the tents at the informal field of Piazzale Maslax, access to the procedure had been denied without any plausible reason: for three times the line, the waiting, had not served to anything, their request escaped\._ ”
@@ -91,7 +91,7 @@ If you may be available for the dates above please get in touch with us ASAP by 
 Despite all the hardship, people always find a way to stay together and smile\. That is what was happening yesterday at Lesvos and Samos\.
 
 
-![](assets/6f2feba22be/1*y7zX4g-khGDC84NUmecDMg.jpeg)
+![](../assets/6f2feba22be/1*y7zX4g-khGDC84NUmecDMg.jpeg)
 
 
 [The Hope Project](https://mydonate.bt.com/fundraisers/philippakempson2…) organized the very first meeting of TEAM RAD MUSIQUE African, and the place was jumping\.
@@ -103,15 +103,15 @@ At Samos, robots came to visit kids :\)
 “ _This activity is a prime example of how much we can do here, with so little\. Give a volunteer a piece of cardboard, and they’ll know how to turn it into magi_ c\.”
 
 
-![](assets/6f2feba22be/1*mkW_llnELL5fnOCqjaUujg.jpeg)
+![](../assets/6f2feba22be/1*mkW_llnELL5fnOCqjaUujg.jpeg)
 
 
 
-![](assets/6f2feba22be/1*ugDJzzbGvjkNTYaqXL_M2w.jpeg)
+![](../assets/6f2feba22be/1*ugDJzzbGvjkNTYaqXL_M2w.jpeg)
 
 
 
-![Photo by [Samos Volunteers](https://www.facebook.com/samosvolunteers/) \.](assets/6f2feba22be/1*E-62ujAeRHSxZ0VBRz0g9g.jpeg)
+![Photo by [Samos Volunteers](https://www.facebook.com/samosvolunteers/) \.](../assets/6f2feba22be/1*E-62ujAeRHSxZ0VBRz0g9g.jpeg)
 
 Photo by [Samos Volunteers](https://www.facebook.com/samosvolunteers/) \.
 
@@ -127,7 +127,7 @@ So far, the access for volunteers and the media to the hotel is limited, but fro
 It is not clear who did the IOM sign the agreement with, and why did they decide to leave people in the hotel where there is no drinkable water or water that can be used at all?
 
 
-![Bihać, forest around the Đački dom, improvised camp\.](assets/6f2feba22be/1*r1gV-VvtqPU7XIxU5bABvQ.jpeg)
+![Bihać, forest around the Đački dom, improvised camp\.](../assets/6f2feba22be/1*r1gV-VvtqPU7XIxU5bABvQ.jpeg)
 
 Bihać, forest around the Đački dom, improvised camp\.
 
@@ -144,15 +144,15 @@ In the meantime, some families were transferred to Sedra hotel, but more people,
 About **9000 people entered the country since February** this year\. Part of them made it and continued their journey toward the EU\. Some are still here in Bosnia, but the number is not that big that no other possibility but tent camps can be found\. With the money big organizations do have, they can put more effort to deal with the current situation\. If there is a will, there is a way always\.
 
 
-![](assets/6f2feba22be/1*7PYF5h384FjbrKJvIaT1mA.jpeg)
+![](../assets/6f2feba22be/1*7PYF5h384FjbrKJvIaT1mA.jpeg)
 
 
 
-![](assets/6f2feba22be/1*gm7q2FUG0muGbrtlKYfB9w.jpeg)
+![](../assets/6f2feba22be/1*gm7q2FUG0muGbrtlKYfB9w.jpeg)
 
 
 
-![New camp in Agrokomerc, Velika Kladuša\. Photo by [Umino](https://www.facebook.com/umino.org/…) \.](assets/6f2feba22be/1*c380DDdQEf2ZGb-bMIknLQ.jpeg)
+![New camp in Agrokomerc, Velika Kladuša\. Photo by [Umino](https://www.facebook.com/umino.org/…) \.](../assets/6f2feba22be/1*c380DDdQEf2ZGb-bMIknLQ.jpeg)
 
 New camp in Agrokomerc, Velika Kladuša\. Photo by [Umino](https://www.facebook.com/umino.org/…) \.
 ### France
@@ -190,7 +190,7 @@ Most of the people who will be affected by this decision are refugees from war\-
 “ _Glasgow has the highest asylum population in the UK and SERCO houses 5,000 people\. Genuine Refugees endure systematic cruelty at the hands of an asylum system that fast\-tracks them into “refused” asylum status, then leaves them destitute\.”_
 
 
-![](assets/6f2feba22be/1*1Kui-nfJHk8vmR8-gY3mWQ.jpeg)
+![](../assets/6f2feba22be/1*1Kui-nfJHk8vmR8-gY3mWQ.jpeg)
 
 
 Positive Action warns people that they should refuse to sign the eviction notice that SERCO people will try to serve them\.

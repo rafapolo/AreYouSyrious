@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: Russia tells rebels to leave by Friday while activists say Aleppo still under attack. Palestinian camp in Syria under siege. Unaccompanied…
 image:
-  path: assets/9300db0c76bc/0*m8E90s-oD9EnOBdP.
+  path: ../assets/9300db0c76bc/0*m8E90s-oD9EnOBdP.
 ---
 
 ### AYS Digest 02/11 — “We are not dangerous…we are in danger\!”
@@ -15,7 +15,7 @@ image:
 _Russia tells rebels to leave by Friday while activists say Aleppo still under attack\. Palestinian camp in Syria under siege\. Unaccompanied children transferred from Calais container camp\. 27,136 refugees arrive in Italy in October\._
 
 
-![Photo provided by [Bienvenidos Refugiados — España](https://www.facebook.com/BienvenidosRefugiados/)](assets/9300db0c76bc/0*m8E90s-oD9EnOBdP.)
+![Photo provided by [Bienvenidos Refugiados — España](https://www.facebook.com/BienvenidosRefugiados/)](../assets/9300db0c76bc/0*m8E90s-oD9EnOBdP.)
 
 Photo provided by [Bienvenidos Refugiados — España](https://www.facebook.com/BienvenidosRefugiados/)
 #### Syria
@@ -31,12 +31,12 @@ _It is important that we take advantage of the time we have from now until Frida
 Regime or Russian airstrikes on residential areas of Saraqib \(in rural Idlib\) have killed at least 8 people and injured more than 50\.
 
 
-![Photo by Hadi Abdullah](assets/9300db0c76bc/0*32689XSx3Cx_Hx8Z.)
+![Photo by Hadi Abdullah](../assets/9300db0c76bc/0*32689XSx3Cx_Hx8Z.)
 
 Photo by Hadi Abdullah
 
 
-![Photo by Hadi Abdullah](assets/9300db0c76bc/0*iNOhk68G_FkqhQOZ.)
+![Photo by Hadi Abdullah](../assets/9300db0c76bc/0*iNOhk68G_FkqhQOZ.)
 
 Photo by Hadi Abdullah
 ### Palestinian refugee camp under siege
@@ -54,7 +54,7 @@ However, minors were already sent to several of these centers last week and regi
 This time around, Home Office officials will be traveling with the unaccompanied minors\. Their cases will be processed inside the reception centers in order to prevent kids from leaving and accelerate their transfer to the UK\.
 
 
-![Photo by Calais Action](assets/9300db0c76bc/0*EonsDHQSnHPicDkz.)
+![Photo by Calais Action](../assets/9300db0c76bc/0*EonsDHQSnHPicDkz.)
 
 Photo by Calais Action
 ### Tents and sleeping bags distributed in Paris
@@ -62,12 +62,12 @@ Photo by Calais Action
 A new group [Paris Refugee Support Group](https://www.facebook.com/PRGS.team/) has provided tents, sleeping bags and roll mats to over 400 people, some of whom lost their tents in police evictions, leaving them bare and exposed to the Parisian winter\. The aid was provided with the support of [Jersey Calais Refugee Aid Group](https://www.facebook.com/JCRAG2015/) [, Homeless Refugee Relief](https://www.facebook.com/HomelessRR/) [, Care4Calais](https://www.facebook.com/care4calais/) and countless individuals\.
 
 
-![Photo by Paris Refugee Support Group](assets/9300db0c76bc/0*PRFAhcMwUo_pMvuZ.)
+![Photo by Paris Refugee Support Group](../assets/9300db0c76bc/0*PRFAhcMwUo_pMvuZ.)
 
 Photo by Paris Refugee Support Group
 
 
-![Photo by Paris Refugee Support Group](assets/9300db0c76bc/0*YiQkxHMCMHDqLs2o.)
+![Photo by Paris Refugee Support Group](../assets/9300db0c76bc/0*YiQkxHMCMHDqLs2o.)
 
 Photo by Paris Refugee Support Group
 
@@ -78,7 +78,7 @@ You can also drop off food for [“La Cuisine des Migrants](https://www.facebook
 Finally, wherever you are, you can contribute to the funds of the Collectif Parisien de Soutien aux Exilés \(CPSE\), which supports refugees through material, medical and legal help — for example they help refugees navigate the French bureaucracy and asylum system, accompany them to the hospital, make food for families and try to get unaccompanied minors out of the streets\. If you are able to help, please follow the [link](https://www.leetchi.com/c/solidarite-de-migrants-de-republique) \.
 
 
-![Photo by KevinWidanel Belcher](assets/9300db0c76bc/0*qxut31jJAZgjxb9j.)
+![Photo by KevinWidanel Belcher](../assets/9300db0c76bc/0*qxut31jJAZgjxb9j.)
 
 Photo by KevinWidanel Belcher
 #### Italy
@@ -106,19 +106,19 @@ Bordermonitoring Bulgaria says 200 refugees have started a hunger strike in the 
 A mother and her two children were injured after their tent caught fire inside the Oraiokastro camp and the boy was brought to the hospital\. Just last week, a mother and her child died after being hit by a car near the same camp\.
 
 
-![](assets/9300db0c76bc/0*kj0JtMjeZAOIaDdj.)
+![](../assets/9300db0c76bc/0*kj0JtMjeZAOIaDdj.)
 
 ### Echo Refugee Library has started operating
 
 Since traveling all the way from the UK to Greece with 4,000 books donated by schools and individuals all across the country, the Echo Refugee Library van has been equipped with bookshelves, a computer station, electricity and wifi\. The finishing touch was the beautiful graffiti on the outside\. The mobile library started operating Tuesday\.
 
 
-![Photos by Echo Refugee Library](assets/9300db0c76bc/0*7v2W990sBSJ1uswm.)
+![Photos by Echo Refugee Library](../assets/9300db0c76bc/0*7v2W990sBSJ1uswm.)
 
 Photos by Echo Refugee Library
 
 
-![Photos by Echo Refugee Library](assets/9300db0c76bc/0*uJ6z_dS7gwuuLOHF.jpg)
+![Photos by Echo Refugee Library](../assets/9300db0c76bc/0*uJ6z_dS7gwuuLOHF.jpg)
 
 Photos by Echo Refugee Library
 #### Belgium

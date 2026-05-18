@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,melilla,migration]
 description: Malta Sends Out Third Captain Morgan Boat///Turkish Man Pushed Back From Greece Now in Jail///Stricter Measures on Italian/Slovenian Border
 image:
-  path: assets/693e5a201d1/0*6HJTtfeSui7_gLsH.jpg
+  path: ../assets/693e5a201d1/0*6HJTtfeSui7_gLsH.jpg
 ---
 
 ### AYS Daily Digest 15/05/2020–Woman Found Dead in Melilla
 #### Malta Sends Out Third Captain Morgan Boat///Turkish Man Pushed Back From Greece Now in Jail///Stricter Measures on Italian/Slovenian Border
 
 
-![Flooded tents in Melilla\. Photo credit: Asociacion Coordinatora de Barrios, via [Cadenaser\.com](https://cadenaser.com/ser/2020/05/14/sociedad/1589456148_085543.html?fbclid=IwAR3Kysng6F9rXfSiIeec82HuaD1Z3Zo9eYN6OHCZWp3ZPxMBBWXNafYzrqI)](assets/693e5a201d1/0*6HJTtfeSui7_gLsH.jpg)
+![Flooded tents in Melilla\. Photo credit: Asociacion Coordinatora de Barrios, via [Cadenaser\.com](https://cadenaser.com/ser/2020/05/14/sociedad/1589456148_085543.html?fbclid=IwAR3Kysng6F9rXfSiIeec82HuaD1Z3Zo9eYN6OHCZWp3ZPxMBBWXNafYzrqI)](../assets/693e5a201d1/0*6HJTtfeSui7_gLsH.jpg)
 
 Flooded tents in Melilla\. Photo credit: Asociacion Coordinatora de Barrios, via [Cadenaser\.com](https://cadenaser.com/ser/2020/05/14/sociedad/1589456148_085543.html?fbclid=IwAR3Kysng6F9rXfSiIeec82HuaD1Z3Zo9eYN6OHCZWp3ZPxMBBWXNafYzrqI)
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 04/08/17: What happens after the world stops caring—Anniversary of ISIS’ genocidal…
+title: "AYS Daily Digest 04/08/17: What happens after the world stops caring—Anniversary of ISIS’ genocidal…"
 author: Are You Syrious?
 date: 2017-08-05T05:06:02.119+0100
 last_modified_at: 2017-08-12T19:33:14.064+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees]
 description: One criminal freed, another returned to custody as Bulgaria struggles with anti-refugee actors / Urgent updates and new hotlines in Greece…
 image:
-  path: assets/31b8b9351f81/1*6KVWZZ_ApETnX2LiMG1KpA.jpeg
+  path: ../assets/31b8b9351f81/1*6KVWZZ_ApETnX2LiMG1KpA.jpeg
 ---
 
 ### AYS Daily Digest 04/08/17: _What happens after the world stops caring—Anniversary of ISIS’ genocidal campaign towards Yazidis_
@@ -15,7 +15,7 @@ image:
 _One criminal freed, another returned to custody as Bulgaria struggles with anti\-refugee actors / Urgent updates and new hotlines in Greece / Information on solidarity actions with those imprisoned on Lesbos / Closure of Souda begins / Refugee artist stages fundraiser for Serbian child / Croatia\-Serbia continuing collaboration in pushbacks / More attention in Italy / Urgent needs in France / And more news…_
 
 
-![\(Photo by Holes in the Borders\)](assets/31b8b9351f81/1*6KVWZZ_ApETnX2LiMG1KpA.jpeg)
+![\(Photo by Holes in the Borders\)](../assets/31b8b9351f81/1*6KVWZZ_ApETnX2LiMG1KpA.jpeg)
 
 \(Photo by Holes in the Borders\)
 ### FEATURE: The dangers of relying on fickle international concern
@@ -25,7 +25,7 @@ Thursday marked the third anniversary of the targeted campaign by ISIS/ISIL/Da�
 Several vigils were held in Yazidi\-majority camps and enclaves across the refugee route along the Balkans\.
 
 
-![Vigil held at detention camp in Hungary \(Photo by Sirius\.HELP\)](assets/31b8b9351f81/1*XvRdNxPZSljbUKTgsuUFPA.jpeg)
+![Vigil held at detention camp in Hungary \(Photo by Sirius\.HELP\)](../assets/31b8b9351f81/1*XvRdNxPZSljbUKTgsuUFPA.jpeg)
 
 Vigil held at detention camp in Hungary \(Photo by Sirius\.HELP\)
 
@@ -165,7 +165,7 @@ _Meet in Sappho Square at 5\.30 PM to take the bus to Moria\._
 _Be aware that this is a peaceful protest, and think carefully about whether you want to be involved in a political demonstration outside Moria\. But if you feel able, it would be great to see as many people as possible in front of Moria raging against the inhumane imprisonment of these brave human rights activists\._
 
 
-![](assets/31b8b9351f81/1*fmy7eMbf9RqQeIivdIcpFw.jpeg)
+![](../assets/31b8b9351f81/1*fmy7eMbf9RqQeIivdIcpFw.jpeg)
 
 
 For more information and background, go [here](https://enoughisenough14.org/2017/08/04/after-moriahungerstrike-the-struggle-continues/) \.
@@ -221,7 +221,7 @@ The exhibition will be held on August 9th\.
 In spite of multiple police actions to remove people from the border to Preševo camp, there remain around 100 to 200 people who come daily for food distribution run by No Name Kitchen at the Serbian\-Croatian border\.
 
 
-![What remains after a police crackdown\. Photo credit: Holes in the Borders](assets/31b8b9351f81/1*G9lPTt0VT7sfoUv6oeTdaQ.jpeg)
+![What remains after a police crackdown\. Photo credit: Holes in the Borders](../assets/31b8b9351f81/1*G9lPTt0VT7sfoUv6oeTdaQ.jpeg)
 
 What remains after a police crackdown\. Photo credit: Holes in the Borders
 ### CROATIA
@@ -234,7 +234,7 @@ As part of the EU\-Turkey deal, an arrival of 150 refugees from Turkey was offic
 The situation in Ventimiglia at the Italian\-French border has recently been getting a lot of traction in the press; however, volunteer support is still unstable as some groups are forced to withdraw and other groups are showing up\. For example, Refugee Youth Service will be forced to close their project \(which had been ongoing since March\) on August 21st\. However Refugee Rights Data Project is about to arrive\.
 
 
-![Photo credit: Refugee Rights Data Project](assets/31b8b9351f81/1*1tCPXomzDfRjTKZGSKSQ7Q.jpeg)
+![Photo credit: Refugee Rights Data Project](../assets/31b8b9351f81/1*1tCPXomzDfRjTKZGSKSQ7Q.jpeg)
 
 Photo credit: Refugee Rights Data Project
 

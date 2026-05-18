@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 8/5/19: Deportation straight to danger, violence and humiliation — widely…
+title: "AYS Daily Digest 8/5/19: Deportation straight to danger, violence and humiliation — widely…"
 author: Are You Syrious?
 date: 2019-05-09T15:12:56.450+0100
 last_modified_at: 2019-05-09T16:37:43.286+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [europe,digest,deportations,refugees,migration]
 description: EU continues funding and supporting Libya’s inhumane treatment through deportations to detention surrounded by shootings / Hungary ignores…
 image:
-  path: assets/dbb23e380772/1*N_ylGqv7jf3Hk6hKfycmWg.jpeg
+  path: ../assets/dbb23e380772/1*N_ylGqv7jf3Hk6hKfycmWg.jpeg
 ---
 
 ### AYS Daily Digest 8/5/19: Deportation straight to danger, violence and humiliation — widely practiced by Europe
 #### EU continues funding and supporting Libya’s inhumane treatment through deportations to detention surrounded by shootings / Hungary ignores duty to examine asylum claims, keeps deporting people to war zones / German detention and deportation treatment under the criticism of the European Council / Calls for aid and help, invitations to protests & more
 
 
-![“Shrapnel from the blast tore through the roof of the women’s hangar and nearly hit an infant\. “My baby was asleep on this bed when it came through the roof,” says one of the women\. “— source: [**MSF Sea** ‏](https://twitter.com/MSF_Sea)](assets/dbb23e380772/1*N_ylGqv7jf3Hk6hKfycmWg.jpeg)
+![“Shrapnel from the blast tore through the roof of the women’s hangar and nearly hit an infant\. “My baby was asleep on this bed when it came through the roof,” says one of the women\. “— source: [**MSF Sea** ‏](https://twitter.com/MSF_Sea)](../assets/dbb23e380772/1*N_ylGqv7jf3Hk6hKfycmWg.jpeg)
 
 “Shrapnel from the blast tore through the roof of the women’s hangar and nearly hit an infant\. “My baby was asleep on this bed when it came through the roof,” says one of the women\. “— source: [**MSF Sea** ‏](https://twitter.com/MSF_Sea)
 #### FEATURED STORIES
@@ -23,7 +23,7 @@ image:
 Hungary’s infamous policies and failing to respect the common laws and principles of the European Union are already widely known\. However, lately ahead of the upcoming elections and in the generally heated discussion on all questions regarding migration and international protection, the country’s official actions are touching a new low\.
 
 
-![“In Budapest from the airport, on the side of the road, I stopped counting after 20 billboards\. <Let’s support Orban Victor’s program\. Let’s stop immigration\.>” — Photo and comment: Orsi Hardi](assets/dbb23e380772/1*ISBHFgmi5-FA1jHmSXGZpw.jpeg)
+![“In Budapest from the airport, on the side of the road, I stopped counting after 20 billboards\. <Let’s support Orban Victor’s program\. Let’s stop immigration\.>” — Photo and comment: Orsi Hardi](../assets/dbb23e380772/1*ISBHFgmi5-FA1jHmSXGZpw.jpeg)
 
 “In Budapest from the airport, on the side of the road, I stopped counting after 20 billboards\. <Let’s support Orban Victor’s program\. Let’s stop immigration\.>” — Photo and comment: Orsi Hardi
 
@@ -85,7 +85,7 @@ And the more Europe delegated search and rescue to the Libyan Coast Guard, the m
 “Utilising civilian infrastructure in this manner constitutes a violation of international humanitarian law and must be avoided at all costs”, says the UN\. At the same time, at the UNHCR Gathering & Departure Facility a 21\-year old pregnant woman is very sick, she has been vomiting blood for the past two weeks\.
 
 
-![](assets/dbb23e380772/1*HVorHmkZ9KZd0ulyOlRawQ.jpeg)
+![](../assets/dbb23e380772/1*HVorHmkZ9KZd0ulyOlRawQ.jpeg)
 
 
 Refugees in contact with the journalist Sally Hayden say they’re worried she won’t survive the night\.
@@ -147,7 +147,7 @@ They report that most recently, people get picked up just one or two days before
 #### FRANCE
 
 
-![](assets/dbb23e380772/1*AAOBc_3j1-VMPkudVa9K8A.jpeg)
+![](../assets/dbb23e380772/1*AAOBc_3j1-VMPkudVa9K8A.jpeg)
 
 ### Help needed in Grande Synthe
 

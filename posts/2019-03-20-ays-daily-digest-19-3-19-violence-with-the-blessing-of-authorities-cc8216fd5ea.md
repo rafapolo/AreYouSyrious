@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 19/3/19: Violence with the blessing of authorities
+title: "AYS Daily Digest 19/3/19: Violence with the blessing of authorities"
 author: Are You Syrious?
 date: 2019-03-20T10:33:09.431+0000
 last_modified_at: 2019-03-20T10:33:09.431+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,europe,digest,asylum,human-rights]
 description: Racist attacks in Greece, even to children and minors, in several places — reportedly, the authorities aid the perpetrators / A boat with…
 image:
-  path: assets/cc8216fd5ea/1*DHQwjuiUmFiDW6a-5C_fRA.jpeg
+  path: ../assets/cc8216fd5ea/1*DHQwjuiUmFiDW6a-5C_fRA.jpeg
 ---
 
 ### AYS Daily Digest 19/3/19: Violence with the blessing of authorities
 #### Racist attacks in Greece, even to children and minors, in several places — reportedly, the authorities aid the perpetrators / A boat with at least 44 people sunk off Libyan shore / Feature: AYS visited people on the move in Serbia / Can Germany deport people to poorer EU countries? / landing of a rescue vessel in Italy in spite Salvini/ and more news
 
 
-![Photo: AYS](assets/cc8216fd5ea/1*DHQwjuiUmFiDW6a-5C_fRA.jpeg)
+![Photo: AYS](../assets/cc8216fd5ea/1*DHQwjuiUmFiDW6a-5C_fRA.jpeg)
 
 Photo: AYS
 #### FEATURE
@@ -24,22 +24,22 @@ Everyday image one can see in front of the squat in Šid, a Serbian small town b
 The squat usually sees about a hundred people staying, mostly minors, aged 14 to 19, mostly Afghans\. According to the volunteers who spoke to AYS, the locals are closed and unfriendly towards the people on the move and those helping them at the moment\.
 
 
-![Photo: AYS](assets/cc8216fd5ea/1*y1mUW757CTqI1ACNtAFNRQ.jpeg)
+![Photo: AYS](../assets/cc8216fd5ea/1*y1mUW757CTqI1ACNtAFNRQ.jpeg)
 
 Photo: AYS
 
 Living conditions in the facility where the squat is are inhumane, undecent and simply unacceptable for anyone\. It looks like an improvised dump rather than a place to stay, everyone agrees\. It is filled parts of the old factory, now pilled up with rubish and faeces around the place\. There is no roof anywhere and people staying don’t have basic life amenities: no water, electricity, toilet, sewage, medical help\.
 
 
-![](assets/cc8216fd5ea/1*zJsgngFbcI-_hvVKEEfctA.jpeg)
+![](../assets/cc8216fd5ea/1*zJsgngFbcI-_hvVKEEfctA.jpeg)
 
 
 
-![](assets/cc8216fd5ea/1*IdRwR85H56n87I8D9EsHOA.jpeg)
+![](../assets/cc8216fd5ea/1*IdRwR85H56n87I8D9EsHOA.jpeg)
 
 
 
-![Photos: AYS](assets/cc8216fd5ea/1*rGsRKDufTpq8edGTqdh6iA.jpeg)
+![Photos: AYS](../assets/cc8216fd5ea/1*rGsRKDufTpq8edGTqdh6iA.jpeg)
 
 Photos: AYS
 
@@ -48,14 +48,14 @@ Some of the volunteers had organized a small power generator just so the mobile 
 There are often police raids\. The last one was done so that the police came in at 5 a\.m\., loaded all the sleeping bags, personal belongings and tents where people were sleeping in, onto a truck \(rented by a private company\), drove it to a dump and burried in the ground\. That is one of the usual techniques used to destroy the little those people have\. Both people from the squat and the volunteers were taken to a precinct, questioned, intimidated and threatened\. They are often the target of threats and abuse\. Additionally, smugglers are all the time present around the place, threatening as well, hurting people and creating fear among these young people\. Reportedly, the personnel from the nearest reception camp comes in and calculates an estimated number of people in order to get them to the camp, even if the people do not want to leave\. Most of them return after being previously unwillingly taken to the camp\. They claim that in the squat at least they have **some** sort of freedom of movement and the volunteers seem to be the only people treating them in a decent manner\.
 
 
-![](assets/cc8216fd5ea/1*JaBBz_x6CMLiSGseNJ1JJA.jpeg)
+![](../assets/cc8216fd5ea/1*JaBBz_x6CMLiSGseNJ1JJA.jpeg)
 
 
 AYS volunteers spoke to at least 30 people and all of them said the same about their previous experience with the Croatian police, that they beat them, strip and hurt them, humiliate, intimidate and finally, pushed back Most of them had scars and bruises they pointed to, showing fresh signs of abuse\. 
 Many are trapped there for months, some over half a year already\.
 
 
-![Photo: AYS](assets/cc8216fd5ea/1*26CSV8f7w-DwDkOBam0pOg.jpeg)
+![Photo: AYS](../assets/cc8216fd5ea/1*26CSV8f7w-DwDkOBam0pOg.jpeg)
 
 Photo: AYS
 
@@ -64,7 +64,7 @@ The worrying fact is that we realized from talking to them that they are not fam
 They need help, support and donations — tents, sleeping bags and mats, blankets, disinfection gels, and other essentials\.
 
 
-![Photo: AYS](assets/cc8216fd5ea/1*jZ0yDNLUPxW22mGZ6w314A.jpeg)
+![Photo: AYS](../assets/cc8216fd5ea/1*jZ0yDNLUPxW22mGZ6w314A.jpeg)
 
 Photo: AYS
 #### LIBYA

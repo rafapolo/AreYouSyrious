@@ -1,5 +1,5 @@
 ---
-title: AYS Daily News Digest 9/8: “Illegality”, “asylum process”, “assisted return” and other ills of our…
+title: "AYS Daily News Digest 9/8: “Illegality”, “asylum process”, “assisted return” and other ills of our…"
 author: Are You Syrious?
 date: 2016-08-10T00:27:12.011+0100
 last_modified_at: 2016-08-11T08:34:32.667+0100
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe]
 description: General
 image:
-  path: assets/32fe03e20595/1*DYT9xMjNdmCLZzlbchLB4w.jpeg
+  path: ../assets/32fe03e20595/1*DYT9xMjNdmCLZzlbchLB4w.jpeg
 ---
 
 ### AYS Daily News Digest 9/8: “Illegality”, “asylum process”, “assisted return” and other ills of our age
 
 
-![One of the Belgrade’s youngest refugees\. Credits: Info Park](assets/32fe03e20595/1*DYT9xMjNdmCLZzlbchLB4w.jpeg)
+![One of the Belgrade’s youngest refugees\. Credits: Info Park](../assets/32fe03e20595/1*DYT9xMjNdmCLZzlbchLB4w.jpeg)
 
 One of the Belgrade’s youngest refugees\. Credits: Info Park
 #### General
@@ -30,12 +30,12 @@ None of the official public information sources say anything about a cut\-off da
 New relocation map and statistics show the slowness of the process
 
 
-![Credits: ‎ [**Mobile Info Team for refugees in Greece**](https://www.facebook.com/mobileinfoteam/)](assets/32fe03e20595/1*mYqquPYcjUkXjAudgjzZFg.png)
+![Credits: ‎ [**Mobile Info Team for refugees in Greece**](https://www.facebook.com/mobileinfoteam/)](../assets/32fe03e20595/1*mYqquPYcjUkXjAudgjzZFg.png)
 
 Credits: ‎ [**Mobile Info Team for refugees in Greece**](https://www.facebook.com/mobileinfoteam/)
 
 
-![Credits: ‎ [**Mobile Info Team for refugees in Greece**](https://www.facebook.com/mobileinfoteam/)](assets/32fe03e20595/1*5sNiBVSCEbLP0UmkAqj-Tw.jpeg)
+![Credits: ‎ [**Mobile Info Team for refugees in Greece**](https://www.facebook.com/mobileinfoteam/)](../assets/32fe03e20595/1*5sNiBVSCEbLP0UmkAqj-Tw.jpeg)
 
 Credits: ‎ [**Mobile Info Team for refugees in Greece**](https://www.facebook.com/mobileinfoteam/)
 ### The Global Health Film Festival is inviting submissions that are related to refugee health for a festival coming up in November
@@ -69,14 +69,14 @@ If you know any doctors who can help, please ask them to contact:
 01924856923
 
 
-[![New Doctor Arrives in Syria from UK: OGN Report](assets/32fe03e20595/2b0a_hqdefault.jpg "New Doctor Arrives in Syria from UK: OGN Report")](http://www.youtube.com/watch?v=G-y-hGszWEg)
+[![New Doctor Arrives in Syria from UK: OGN Report](../assets/32fe03e20595/2b0a_hqdefault.jpg "New Doctor Arrives in Syria from UK: OGN Report")](http://www.youtube.com/watch?v=G-y-hGszWEg)
 
 ### Phosphorus bombs, which are an ILLEGAL weapon of war, continue to kill people in Idlib city
 
 These bombs are causing many more men, women and children to flee\.
 
 
-![The destructive power of Poshphorus bombs\. Credits: [**Faces of Change**](https://www.facebook.com/FofCChangemakers/)](assets/32fe03e20595/1*uQE_cRmcys35SQd4Rv8CYQ.jpeg)
+![The destructive power of Poshphorus bombs\. Credits: [**Faces of Change**](https://www.facebook.com/FofCChangemakers/)](../assets/32fe03e20595/1*uQE_cRmcys35SQd4Rv8CYQ.jpeg)
 
 The destructive power of Poshphorus bombs\. Credits: [**Faces of Change**](https://www.facebook.com/FofCChangemakers/)
 #### Turkey
@@ -186,98 +186,98 @@ Vitsas said refugees who have completed the first stage of their asylum applicat
 
 
 
-![](assets/32fe03e20595/1*F6JwkUoz_pqL2qOzRDVsLg.jpeg)
+![](../assets/32fe03e20595/1*F6JwkUoz_pqL2qOzRDVsLg.jpeg)
 
 
 
-![Father with a baby born in Greece\. Credits: Info Park](assets/32fe03e20595/1*28lfOa5STChcSX3Ptn2aKw.jpeg)
+![Father with a baby born in Greece\. Credits: Info Park](../assets/32fe03e20595/1*28lfOa5STChcSX3Ptn2aKw.jpeg)
 
 Father with a baby born in Greece\. Credits: Info Park
 
 
-![Credits: Info Park](assets/32fe03e20595/1*oDVqmmYCb5fBwizcxLh8vQ.jpeg)
+![Credits: Info Park](../assets/32fe03e20595/1*oDVqmmYCb5fBwizcxLh8vQ.jpeg)
 
 Credits: Info Park
 
 
-![](assets/32fe03e20595/1*ZG8L6cdDyb_dR68PgDYVQA.jpeg)
+![](../assets/32fe03e20595/1*ZG8L6cdDyb_dR68PgDYVQA.jpeg)
 
 
 
-![Lunch time\! Credits: Info Park](assets/32fe03e20595/1*GykdgyUKm1Vic_9PApEoOw.jpeg)
+![Lunch time\! Credits: Info Park](../assets/32fe03e20595/1*GykdgyUKm1Vic_9PApEoOw.jpeg)
 
 Lunch time\! Credits: Info Park
 
 
-![Credits: Info Park](assets/32fe03e20595/1*BFopqIC4RU8gCG58Wdv-Ig.jpeg)
+![Credits: Info Park](../assets/32fe03e20595/1*BFopqIC4RU8gCG58Wdv-Ig.jpeg)
 
 Credits: Info Park
 
 
-![](assets/32fe03e20595/1*qUIbRbnvSgNU-aOIrzMLdw.jpeg)
+![](../assets/32fe03e20595/1*qUIbRbnvSgNU-aOIrzMLdw.jpeg)
 
 
 
-![Colouring time\! Credits: Info Park](assets/32fe03e20595/1*qZCJHalotgk6Ue_wVDj9kw.jpeg)
+![Colouring time\! Credits: Info Park](../assets/32fe03e20595/1*qZCJHalotgk6Ue_wVDj9kw.jpeg)
 
 Colouring time\! Credits: Info Park
 
 
-![Credits: Info Park](assets/32fe03e20595/1*SzD0wSWx2gRCx0fg6cDDzw.jpeg)
+![Credits: Info Park](../assets/32fe03e20595/1*SzD0wSWx2gRCx0fg6cDDzw.jpeg)
 
 Credits: Info Park
 
 
-![](assets/32fe03e20595/1*A1Eo9Ba_X4a-bKSNl6tacA.jpeg)
+![](../assets/32fe03e20595/1*A1Eo9Ba_X4a-bKSNl6tacA.jpeg)
 
 
 
-![Credits: Info Park](assets/32fe03e20595/1*i-IyHnuqZE1WOJk3FL-AZA.jpeg)
-
-Credits: Info Park
-
-
-![](assets/32fe03e20595/1*Gwc-p0EwG6OhBnsgpS2wGA.jpeg)
-
-
-
-![Credits: Info Park](assets/32fe03e20595/1*25tvAD05_0mB5FFvANgpPg.jpeg)
+![Credits: Info Park](../assets/32fe03e20595/1*i-IyHnuqZE1WOJk3FL-AZA.jpeg)
 
 Credits: Info Park
 
 
-![Donations\. Credits: Info Park](assets/32fe03e20595/1*g4RJjfBp0tMy4kukTiPawg.jpeg)
+![](../assets/32fe03e20595/1*Gwc-p0EwG6OhBnsgpS2wGA.jpeg)
+
+
+
+![Credits: Info Park](../assets/32fe03e20595/1*25tvAD05_0mB5FFvANgpPg.jpeg)
+
+Credits: Info Park
+
+
+![Donations\. Credits: Info Park](../assets/32fe03e20595/1*g4RJjfBp0tMy4kukTiPawg.jpeg)
 
 Donations\. Credits: Info Park
 
 
-![Credits: Info Park](assets/32fe03e20595/1*6C64QpNGfvQM5PvTIMN8ow.jpeg)
+![Credits: Info Park](../assets/32fe03e20595/1*6C64QpNGfvQM5PvTIMN8ow.jpeg)
 
 Credits: Info Park
 ### Is this the Europe refugees hoped for? See the refugees’ life at Kelebija
 
 
-![Credits: [**Natali Ja**](https://www.facebook.com/natali.ja.7737)](assets/32fe03e20595/1*TnKEzC_Af6lKid7wtukL4A.jpeg)
+![Credits: [**Natali Ja**](https://www.facebook.com/natali.ja.7737)](../assets/32fe03e20595/1*TnKEzC_Af6lKid7wtukL4A.jpeg)
 
 Credits: [**Natali Ja**](https://www.facebook.com/natali.ja.7737)
 
 
-![Credits: [**Natali Ja**](https://www.facebook.com/natali.ja.7737)](assets/32fe03e20595/1*uF6_n08EFEz8SkIl1OFXow.jpeg)
+![Credits: [**Natali Ja**](https://www.facebook.com/natali.ja.7737)](../assets/32fe03e20595/1*uF6_n08EFEz8SkIl1OFXow.jpeg)
 
 Credits: [**Natali Ja**](https://www.facebook.com/natali.ja.7737)
 
 
-![Credits: [**Natali Ja**](https://www.facebook.com/natali.ja.7737)](assets/32fe03e20595/1*SawxYVXF0ktM5vN3pEQK9g.jpeg)
+![Credits: [**Natali Ja**](https://www.facebook.com/natali.ja.7737)](../assets/32fe03e20595/1*SawxYVXF0ktM5vN3pEQK9g.jpeg)
 
 Credits: [**Natali Ja**](https://www.facebook.com/natali.ja.7737)
 
 
-![Credits: [**Natali Ja**](https://www.facebook.com/natali.ja.7737)](assets/32fe03e20595/1*_T50m6AFmWYAQmZgISqqAw.jpeg)
+![Credits: [**Natali Ja**](https://www.facebook.com/natali.ja.7737)](../assets/32fe03e20595/1*_T50m6AFmWYAQmZgISqqAw.jpeg)
 
 Credits: [**Natali Ja**](https://www.facebook.com/natali.ja.7737)
 
 
-![Credits: [**Natali Ja**](https://www.facebook.com/natali.ja.7737)](assets/32fe03e20595/1*X90Jcah8uacSM-JB8JjPSg.jpeg)
+![Credits: [**Natali Ja**](https://www.facebook.com/natali.ja.7737)](../assets/32fe03e20595/1*X90Jcah8uacSM-JB8JjPSg.jpeg)
 
 Credits: [**Natali Ja**](https://www.facebook.com/natali.ja.7737)
 
@@ -313,12 +313,12 @@ For this reason, refugee organization Pro Asyl — no fan of Germany’s asylum 
 Refugees located in Calais refugee camp have given a wonderful and much needed makeover to Care4Calais volunteers’ storage container\. Herewith, they also expressed many of their longings, sorrows, pains and hopes\. Check it out:
 
 
-![Credits: Care4Calais](assets/32fe03e20595/1*I1kET8HRSznsIvKCX9g-bw.jpeg)
+![Credits: Care4Calais](../assets/32fe03e20595/1*I1kET8HRSznsIvKCX9g-bw.jpeg)
 
 Credits: Care4Calais
 
 
-![Credits: Care4Calais](assets/32fe03e20595/1*4SREuYpMlnQqW6NggG_5CA.jpeg)
+![Credits: Care4Calais](../assets/32fe03e20595/1*4SREuYpMlnQqW6NggG_5CA.jpeg)
 
 Credits: Care4Calais
 ### Court case against the demolition of the Calais shops and cafes to take place tomorrow, Wednesday, August 10th

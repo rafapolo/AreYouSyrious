@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [france,paris,digest,afghanistan,refugees]
 description: Are You Syrious?
 image:
-  path: assets/b923b0c9e27f/0*VeVL6XnuItnA6epP.jpeg
+  path: ../assets/b923b0c9e27f/0*VeVL6XnuItnA6epP.jpeg
 ---
 
 ### AYS Daily Digest 23/11/20 Utopia 56 occupation of the Place de la République
 
 
-![](assets/b923b0c9e27f/0*68-57ZDk_wrtr8Vz.jpeg)
+![](../assets/b923b0c9e27f/0*68-57ZDk_wrtr8Vz.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----d98295066562--------------------------------)
@@ -23,11 +23,11 @@ image:
 _Drownings off Rhodes // critical situation in Afghanistan // judge says “no criminal offense” at Arguinguin dock // Italy and Spain negotiate with African countries // and more…_
 
 
-![](assets/b923b0c9e27f/0*KNkNhjTA-k9br0MX)
+![](../assets/b923b0c9e27f/0*KNkNhjTA-k9br0MX)
 
 
 
-![](assets/b923b0c9e27f/0*VeVL6XnuItnA6epP.jpeg)
+![](../assets/b923b0c9e27f/0*VeVL6XnuItnA6epP.jpeg)
 
 ### FEATURE: OCCUPATION OF THE PLACE DE LA RÉPUBLIQUE FOLLOWING PARIS EVICTIONS
 
@@ -66,11 +66,11 @@ Please continue to follow [Utopia 56](https://twitter.com/Utopia_56) for updates
 ### AFGHANISTAN
 
 
-![](assets/b923b0c9e27f/0*RgROtEPLQWLYUIyo)
+![](../assets/b923b0c9e27f/0*RgROtEPLQWLYUIyo)
 
 
 
-![](assets/b923b0c9e27f/0*MABFcLhZE02PfjED.jpeg)
+![](../assets/b923b0c9e27f/0*MABFcLhZE02PfjED.jpeg)
 
 ### UNHCR: Displacement in Afghanistan needs solutions now
 
@@ -97,11 +97,11 @@ Find the full statement [here](https://www.facebook.com/AmasoAfg/posts/385020346
 ### GREECE
 
 
-![](assets/b923b0c9e27f/0*87x8_vmeHRdptvJt)
+![](../assets/b923b0c9e27f/0*87x8_vmeHRdptvJt)
 
 
 
-![](assets/b923b0c9e27f/0*sak-HYLzkvrwOkgd.jpeg)
+![](../assets/b923b0c9e27f/0*sak-HYLzkvrwOkgd.jpeg)
 
 ### COVID response on Samos
 
@@ -140,11 +140,11 @@ Molenaar is sceptical of the idea that COVID cases have dramatically reduded sin
 
 
 
-![](assets/b923b0c9e27f/0*eZkeuYeDn-vz591e)
+![](../assets/b923b0c9e27f/0*eZkeuYeDn-vz591e)
 
 
 
-![](assets/b923b0c9e27f/0*1j7-Xa0ZDR3wAv1B.jpeg)
+![](../assets/b923b0c9e27f/0*1j7-Xa0ZDR3wAv1B.jpeg)
 
 
 Crossing Strings has written a scathing analysis of the recent UNHCR press release on Chios\. They state that UNHCR “divert\(ed\) from the reality of what’s going on in this camp” by using one small story of giving as a PR stunt\. Read it in full [here](https://www.crossingstrings.co.uk/post/chios-mask-scandal?fbclid=IwAR0CJxwxsrU8-vH2BsMfHlk1dZ6qdPZSsSKBZ1FXkwtGk2hBenfwRLHHWyc) \.
@@ -157,11 +157,11 @@ Italian deputy foreign minister Emanuela Del Re held a conference last week wher
 ### SPAIN
 
 
-![](assets/b923b0c9e27f/0*VMap_OQSHRsZit0L)
+![](../assets/b923b0c9e27f/0*VMap_OQSHRsZit0L)
 
 
 
-![](assets/b923b0c9e27f/0*MRbnAijXaSyJB7-T.jpeg)
+![](../assets/b923b0c9e27f/0*MRbnAijXaSyJB7-T.jpeg)
 
 ### Judge: no crime in the conditions of the migrants in Arguineguín
 
@@ -174,19 +174,19 @@ Spanish Foreign Minister Arancha Gonzalez Laya went to [Senegal](https://www.inf
 ### BOSNIA HERZEGOVINA
 
 
-![](assets/b923b0c9e27f/0*CuCPw7wu3UPZRH-p)
+![](../assets/b923b0c9e27f/0*CuCPw7wu3UPZRH-p)
 
 
 
-![](assets/b923b0c9e27f/0*9C8RbIBuTOBLqcaV.jpeg)
+![](../assets/b923b0c9e27f/0*9C8RbIBuTOBLqcaV.jpeg)
 
 
 
-![](assets/b923b0c9e27f/0*pY1-gLs6-yPk7Yv7)
+![](../assets/b923b0c9e27f/0*pY1-gLs6-yPk7Yv7)
 
 
 
-![](assets/b923b0c9e27f/0*0bNez58lDfYTz6TC.jpeg)
+![](../assets/b923b0c9e27f/0*0bNez58lDfYTz6TC.jpeg)
 
 ### SERBIA
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 4/9/20: “They are crueler during the night”
+title: "AYS Daily Digest 4/9/20: “They are crueler during the night”"
 author: Are You Syrious?
 date: 2020-09-05T17:11:47.520+0100
 last_modified_at: 2020-09-05T17:11:47.520+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,europe,migration,human-rights,police-brutality]
 description: Report to the United Nations Committee on Enforced Disappearance regarding the use of illegal pushbacks by the Greek government /…
 image:
-  path: assets/882d652e676a/0*h8Cvb6mqbC5Ugc0O.jpeg
+  path: ../assets/882d652e676a/0*h8Cvb6mqbC5Ugc0O.jpeg
 ---
 
 ### AYS Daily Digest 4/9/20: “They are crueler during the night”
 ### Report to the United Nations Committee on Enforced Disappearance regarding the use of illegal pushbacks by the Greek government / undercover journalist at a French police station reveals hatred and racism of the officers / Revealed documents show the German Ministry was intentionally preventing the sailing of civil SAR ships in the Mediterranean / Anti\-racists are staging their own protest in solidarity with refugees in Dover / & more news
 
 
-![](assets/882d652e676a/0*OLpxuSrztYqD1Y-Y.jpeg)
+![](../assets/882d652e676a/0*OLpxuSrztYqD1Y-Y.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----4558ec5cd72f----------------------)
@@ -22,11 +22,11 @@ image:
 [Sep 5](ays-daily-digest-4-9-20-they-are-crueler-during-the-night-4558ec5cd72f?source=post_page-----4558ec5cd72f----------------------) · 14 min read
 
 
-![](assets/882d652e676a/0*8tf2mkw8zGuMsPy_)
+![](../assets/882d652e676a/0*8tf2mkw8zGuMsPy_)
 
 
 
-![](assets/882d652e676a/0*h8Cvb6mqbC5Ugc0O.jpeg)
+![](../assets/882d652e676a/0*h8Cvb6mqbC5Ugc0O.jpeg)
 
 ### FEATURED
 
@@ -151,11 +151,11 @@ In the meantime, the practice of pushbacks continues:
 For the [International Day of the Victims of Enforced Disappearances](https://www.un.org/en/observances/victims-enforced-disappearance) , the Border Violence Monitoring Network released its seminal report to the United Nations Committee on Enforced Disappearance regarding the use of illegal pushbacks by the Greek government\.
 
 
-![](assets/882d652e676a/0*6X3exgHOsBB7Lb93)
+![](../assets/882d652e676a/0*6X3exgHOsBB7Lb93)
 
 
 
-![](assets/882d652e676a/0*i44dp9i8FLn_rIHg.jpg)
+![](../assets/882d652e676a/0*i44dp9i8FLn_rIHg.jpg)
 
 
 
@@ -183,11 +183,11 @@ Applicants for International Protection may [apply online](https://l.facebook.co
 SERBIA
 
 
-![](assets/882d652e676a/0*82XzbqOtm82w65QT)
+![](../assets/882d652e676a/0*82XzbqOtm82w65QT)
 
 
 
-![](assets/882d652e676a/0*p9Nq8pcQTH9P6Dyx.jpeg)
+![](../assets/882d652e676a/0*p9Nq8pcQTH9P6Dyx.jpeg)
 
 
 The Serbian association [Klikaktiv — Centar za razvoj socijalnih politika](https://www.facebook.com/klikaktiv/?tn-str=k%2AF&hc_location=group_dialog) reported encountering a group of people who had arrived at the old railway station in Loznica\. The activists took a photo of their “permit for entry and exit from the camp”\. As Klikaktiv reports, those permits aren’t valid nor are they in line with the laws of Serbia because people have the right to move freely and leave the camp whenever they want\. People running the camps issue such permits, without any official stamp, only to control them\. Unofficially, these papers are called “72 hours permit” because their front side says the person is allowed to stay outside the camps for 72 hours and that they will not be allowed in unless they come back within the given deadline\.
@@ -241,11 +241,11 @@ GERMANY
 Documents to which the DER SPIEGEL had access prove that the Bundesministerium für Verkehr und digitale Infrastruktur, led by Andreas Scheuer, is “consciously” preventing the sailing of civil sea rescue ships in the Mediterranean\.
 
 
-![](assets/882d652e676a/0*10aGgHa9MzMQ-MrQ)
+![](../assets/882d652e676a/0*10aGgHa9MzMQ-MrQ)
 
 
 
-![](assets/882d652e676a/0*ahgNvvhYndSvv26e.jpeg)
+![](../assets/882d652e676a/0*ahgNvvhYndSvv26e.jpeg)
 
 
 DENMARK

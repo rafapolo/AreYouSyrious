@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 23–24/11/19: In Serbia, removing witnesses from the border area
+title: "AYS Weekend Digest 23–24/11/19: In Serbia, removing witnesses from the border area"
 author: Are You Syrious?
 date: 2019-11-25T13:37:40.470+0000
 last_modified_at: 2019-11-25T13:37:40.470+0000
@@ -7,18 +7,18 @@ categories: Are You Syrious?
 tags: []
 description: Official violent pressure and confiscation at the Serbian-Croatian border / Regional Asylum Office of Lesvos decides against Greek…
 image:
-  path: assets/2c7e11a25f7f/0*ugv0fgsozCudkgvL.jpeg
+  path: ../assets/2c7e11a25f7f/0*ugv0fgsozCudkgvL.jpeg
 ---
 
 ### AYS Weekend Digest 23–24/11/19: In Serbia, removing witnesses from the border area
 #### Official violent pressure and confiscation at the Serbian\-Croatian border / Regional Asylum Office of Lesvos decides against Greek, European and International law — legal aid organisations stand against it / Hunger strike in Corso Brunelleschi / Swedish protest in 77 cities against deportations to Afghanistan / US Government unsuccessful in criminalizing solidarity / & more news
 
 
-![](assets/2c7e11a25f7f/0*D0Sdkj4Xyp4okuh2)
+![](../assets/2c7e11a25f7f/0*D0Sdkj4Xyp4okuh2)
 
 
 
-![](assets/2c7e11a25f7f/0*ugv0fgsozCudkgvL.jpeg)
+![](../assets/2c7e11a25f7f/0*ugv0fgsozCudkgvL.jpeg)
 
 
 Remains of the squat in the abandoned Grafosrem building\. Photo: Davy Jones
@@ -153,11 +153,11 @@ Last time more people were added to the ones deported from Sweden, taken on boar
 There are planned protests outside of the detention facility in Märsta\.
 
 
-![](assets/2c7e11a25f7f/0*iHB-LRnYdlQdyUvf)
+![](../assets/2c7e11a25f7f/0*iHB-LRnYdlQdyUvf)
 
 
 
-![](assets/2c7e11a25f7f/0*6Qulo7aWy33YZdUr.jpeg)
+![](../assets/2c7e11a25f7f/0*6Qulo7aWy33YZdUr.jpeg)
 
 
 Protest in Sweden \(Photo: [Zahra Hosseyni](https://www.facebook.com/zahra.hosseyni.121?__tn__=%2Cd%2AF%2AF-R&eid=ARBp_9occpZviDg_JS0wZueofyiHJ5JsITBXxnSG72j5T_tgCKllSa0q3m5zNwjUsto_BtOPkyHeb6w1&tn-str=%2AF) \)
@@ -169,27 +169,27 @@ Many people across the country expressed their solidarity in gatherings organise
 [Press release](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.mynewsdesk.com%2Fse%2Fpressreleases%2Felisabet-politikerna-kaenner-till-raettsosaekerheten-och-inhumaniteten-2945444%3Ffbclid%3DIwAR2kw0lZQo-oOe-sJCi1MxOB_fEbqq6qBJB7_6BmNLE7eIpWrc8AuYYXkUk&h=AT36gTXF22WzymOo4HpPom2hCtW6jg5Q_4lQRHlDCgikRUScdo_Qp3mWVfW9y-U-RfYR3th0OyjOoKyAWJT7uxD4KUiseBs2BPUAQNPaMzlK4MsTYnmCUMUg7Fqtx6sVKNdNv9VgSYZg4g)
 
 
-![](assets/2c7e11a25f7f/0*2JulBBT46K2cIWNV)
+![](../assets/2c7e11a25f7f/0*2JulBBT46K2cIWNV)
 
 
 
-![](assets/2c7e11a25f7f/0*niDxpkdJzjYbRJyi.jpeg)
+![](../assets/2c7e11a25f7f/0*niDxpkdJzjYbRJyi.jpeg)
 
 
 
-![](assets/2c7e11a25f7f/0*pNYDuCcC9bpN9E6j)
+![](../assets/2c7e11a25f7f/0*pNYDuCcC9bpN9E6j)
 
 
 
-![](assets/2c7e11a25f7f/0*6NJtFHcWZsRQP_-s.jpeg)
+![](../assets/2c7e11a25f7f/0*6NJtFHcWZsRQP_-s.jpeg)
 
 
 
-![](assets/2c7e11a25f7f/0*peauS5ySlrt72Sqz)
+![](../assets/2c7e11a25f7f/0*peauS5ySlrt72Sqz)
 
 
 
-![](assets/2c7e11a25f7f/0*VOucxbZQmM0EyTI5.jpeg)
+![](../assets/2c7e11a25f7f/0*VOucxbZQmM0EyTI5.jpeg)
 
 
 “Today Sweden showed in 77 cities that the way of treating refugees isn’t acceptable anymore\. Every day is a day of pain and lost\. Deportations to Afghanistan must come to an end and humanity must be the foundation of the asylum policy\. My youngest daughter and her friend organized the most beautiful light\- manifestation in Hemse at Gotland, the other one was in Gothenburg and many of my friends were walking the March of Humanity in Stockholm\. Thank you all for being there\. Next time I am with you again\!” — says [Marit Törnqvist](https://www.facebook.com/profile.php?id=100014165134189&__tn__=%2Cd%2AF%2AF-R&eid=ARAutq3bUDC0BuUxSJFk1hIfyD9Gu4QmHCMBgxFvIJ3sgBcmD55wqS6nEwHVvy0sl3ieK6n3Jw9TH0yC&tn-str=%2AF) , one of the many protesting against this practice

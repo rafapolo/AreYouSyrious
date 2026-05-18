@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 10/9/2018: The end of Moria?
+title: "AYS DAILY DIGEST 10/9/2018: The end of Moria?"
 author: Are You Syrious?
 date: 2018-09-11T11:27:37.683+0100
 last_modified_at: 2018-09-11T12:03:30.879+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,moria,lesvos,greece]
 description: Where will all the people from Moria go? // What will happen with camps in Chios and Samos? // ‘Cruel and unlawful treatment of people on…
 image:
-  path: assets/4c58607d53e5/1*WZ3K9JlI3_s665u1eTIYDw.jpeg
+  path: ../assets/4c58607d53e5/1*WZ3K9JlI3_s665u1eTIYDw.jpeg
 ---
 
 ### AYS DAILY DIGEST 10/9/2018: The end of Moria?
@@ -15,7 +15,7 @@ image:
 _Where will all the people from Moria go? // What will happen with camps in Chios and Samos? // ‘Cruel and unlawful treatment of people on the move stranded in Morocco // Call to stop deportations from Lesvos, Denmark, The Netherlands // UNHCR claims Kabul cannot be considered as a safe place for people to be sent back// More about elections in Sweden, the situation in Slovenia, Turkey, Morocco…_
 
 
-![“Why does overcrowding in Moria make people feel unsafe? Because they have to queue for hours to get food, often getting pushed or harassed while waiting\. Sometimes the portions do not suffice and they go hungry\. Some end up cooking outdoors, under unsafe conditions\.” By Martha Roussou [@smarta12345](http://twitter.com/smarta12345)](assets/4c58607d53e5/1*WZ3K9JlI3_s665u1eTIYDw.jpeg)
+![“Why does overcrowding in Moria make people feel unsafe? Because they have to queue for hours to get food, often getting pushed or harassed while waiting\. Sometimes the portions do not suffice and they go hungry\. Some end up cooking outdoors, under unsafe conditions\.” By Martha Roussou [@smarta12345](http://twitter.com/smarta12345)](../assets/4c58607d53e5/1*WZ3K9JlI3_s665u1eTIYDw.jpeg)
 
 “Why does overcrowding in Moria make people feel unsafe? Because they have to queue for hours to get food, often getting pushed or harassed while waiting\. Sometimes the portions do not suffice and they go hungry\. Some end up cooking outdoors, under unsafe conditions\.” By Martha Roussou [@smarta12345](http://twitter.com/smarta12345)
 ### Feature
@@ -75,7 +75,7 @@ Applications for international protection will now be directly registered with t
 A boat landed on Lesvos carrying 20 people, including seven children\.
 
 
-![](assets/4c58607d53e5/1*kbLmiNEKjc7OVYi2nEVksw.png)
+![](../assets/4c58607d53e5/1*kbLmiNEKjc7OVYi2nEVksw.png)
 
 
 In [a joint letter](https://weareawelcomingeurope.eu/en/) , the European civil society organizations call on the Greek authorities to release Sarah Mardini and Seán Binder while their trial is pending\.
@@ -85,7 +85,7 @@ _“European civil society actors have continuously opposed the intimidation and
 If you are citizens of the EU, you can sign the letter\.
 
 
-![](assets/4c58607d53e5/1*XkF-qgLedv_68rKZMkcmpw.png)
+![](../assets/4c58607d53e5/1*XkF-qgLedv_68rKZMkcmpw.png)
 
 
 [Hestia Hellas’s SEED](http://site.coord@hestiahellas.org) \(Sustainable Entrepreneurship for Empowerment and Development\) Business Course is back\!

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 21/3/19: Abandoned, attacked, apprehended
+title: "AYS Daily Digest 21/3/19: Abandoned, attacked, apprehended"
 author: Are You Syrious?
 date: 2019-03-22T04:10:17.098+0000
 last_modified_at: 2019-03-22T13:15:44.761+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,libya,france]
 description: In Libya and in Europe racism is still obvius / MSF reports from Sabaa camp in Tripoli / Donations needed in Greece and France / Asylum…
 image:
-  path: assets/4bce4d78ce78/1*DZQ6rpa-kpLnE1AaLU7WFQ.jpeg
+  path: ../assets/4bce4d78ce78/1*DZQ6rpa-kpLnE1AaLU7WFQ.jpeg
 ---
 
 ### AYS Daily Digest 21/3/19: Abandoned, attacked, apprehended
 #### In Libya and in Europe racism is still obvious / MSF reports from Sabaa camp in Tripoli / Donations needed in Greece and France / Asylum statistics from Croatia
 
 
-![People in a building in Sid\. Credits: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/pcb.688273538237600/688272041571083/?type=3&theater)](assets/4bce4d78ce78/1*DZQ6rpa-kpLnE1AaLU7WFQ.jpeg)
+![People in a building in Sid\. Credits: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/pcb.688273538237600/688272041571083/?type=3&theater)](../assets/4bce4d78ce78/1*DZQ6rpa-kpLnE1AaLU7WFQ.jpeg)
 
 People in a building in Sid\. Credits: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/pcb.688273538237600/688272041571083/?type=3&theater)
 ### Libya

@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 15–16/02 /20 —  Balkans: Police repression, violations and institutional lies
+title: "AYS Weekend Digest 15–16/02 /20 —  Balkans: Police repression, violations and institutional lies"
 author: Are You Syrious?
 date: 2020-02-17T10:45:37.319+0000
 last_modified_at: 2020-02-17T11:15:46.758+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,balkans,lesvos,tripoli]
 description: Protests in Tripoli, Lesvos and Velika Kladusa. Rescues in the Central Med. Further repercussions of new asylum law in Greece. And More
 image:
-  path: assets/1194a3673c3a/1*uqz1yNyF9z9qnF8eRI0OKw.jpeg
+  path: ../assets/1194a3673c3a/1*uqz1yNyF9z9qnF8eRI0OKw.jpeg
 ---
 
 ### **AYS Weekend Digest 15–16/02/20 — Balkans: Police repression, violations of human rights and institutional lies**
@@ -15,7 +15,7 @@ image:
 Protests in Tripoli, Lesvos and Velika Kladusa / Rescues in the Central Med / Further repercussions of new asylum law in Greece
 
 
-![Credit: [Vanja Stokić](https://www.facebook.com/vanjuska89?__tn__=%2CdC-R-R&eid=ARCXJrMySq7vxHD4Dx1AWH0Hki2BagNZvGz72orInvl2r7Wft4zSFAukAbX5uhYkMpqzlQA-T9m85RRP&hc_ref=ARR8PZIpKVv_T4eNsxldZNpYw_4bJeMLUOO4fGgP-Bmq1D4U-Yjk_0KoSV4iuyhaLIo&fref=nf)](assets/1194a3673c3a/1*uqz1yNyF9z9qnF8eRI0OKw.jpeg)
+![Credit: [Vanja Stokić](https://www.facebook.com/vanjuska89?__tn__=%2CdC-R-R&eid=ARCXJrMySq7vxHD4Dx1AWH0Hki2BagNZvGz72orInvl2r7Wft4zSFAukAbX5uhYkMpqzlQA-T9m85RRP&hc_ref=ARR8PZIpKVv_T4eNsxldZNpYw_4bJeMLUOO4fGgP-Bmq1D4U-Yjk_0KoSV4iuyhaLIo&fref=nf)](../assets/1194a3673c3a/1*uqz1yNyF9z9qnF8eRI0OKw.jpeg)
 
 Credit: [Vanja Stokić](https://www.facebook.com/vanjuska89?__tn__=%2CdC-R-R&eid=ARCXJrMySq7vxHD4Dx1AWH0Hki2BagNZvGz72orInvl2r7Wft4zSFAukAbX5uhYkMpqzlQA-T9m85RRP&hc_ref=ARR8PZIpKVv_T4eNsxldZNpYw_4bJeMLUOO4fGgP-Bmq1D4U-Yjk_0KoSV4iuyhaLIo&fref=nf)
 
@@ -26,13 +26,13 @@ Credit: [Vanja Stokić](https://www.facebook.com/vanjuska89?__tn__=%2CdC-R-R&eid
 Protests took place on Saturday as people tried to leave the camp of Miral\. They were protesting again the appalling living conditions they are forced to endure and the brutality of the Croatian police\. The Bosnian police detained several people as a result, because there’s nothing so illegal these days as asking for your human rights to be respected\.
 
 
-![](assets/1194a3673c3a/1*D0QNRmQqC27ioGR2I0YcHw.jpeg)
+![](../assets/1194a3673c3a/1*D0QNRmQqC27ioGR2I0YcHw.jpeg)
 
 
 
 ![\(Balkan Route — Miral Camp, velika kladusa \(Bosnia\)
  Refugees living in this structure, about 1000 people, protested for their rights\. They asked for better living conditions, they asked not to be beaten by Croatian police and with such great violence\.
- Are they crazy requests? Are they meaningless requests? Photo Credit: [L’altra voce](https://www.facebook.com/1245970425495921/photos/a.1266360583456905/2789214561171492/?type=3&theater) \)](assets/1194a3673c3a/1*JhkXsghZoUb7hhTN-eQ5Ew.jpeg)
+ Are they crazy requests? Are they meaningless requests? Photo Credit: [L’altra voce](https://www.facebook.com/1245970425495921/photos/a.1266360583456905/2789214561171492/?type=3&theater) \)](../assets/1194a3673c3a/1*JhkXsghZoUb7hhTN-eQ5Ew.jpeg)
 
 \(Balkan Route — Miral Camp, velika kladusa \(Bosnia\)
  Refugees living in this structure, about 1000 people, protested for their rights\. They asked for better living conditions, they asked not to be beaten by Croatian police and with such great violence\.
@@ -43,11 +43,11 @@ Some benevolent people from Velika Kladusa, the town in which Miral camp is situ
 **The camps are full and people are sleeping rough, still\.**
 
 
-![](assets/1194a3673c3a/1*AsBm5kD7S7cyXx-4-Uecyw.jpeg)
+![](../assets/1194a3673c3a/1*AsBm5kD7S7cyXx-4-Uecyw.jpeg)
 
 
 
-![](assets/1194a3673c3a/1*D-ngp4GwvTjj09VdQB74aA.jpeg)
+![](../assets/1194a3673c3a/1*D-ngp4GwvTjj09VdQB74aA.jpeg)
 
 
 
@@ -55,7 +55,7 @@ Some benevolent people from Velika Kladusa, the town in which Miral camp is situ
  
  “ there is no doors, no windows, no electricity\. We bring the water from unai, walking to it two kilometers\. This is like on a wolf\! We don’t even have food, red cross comes 2–3 times a week\.”
  
- They don’t ask me for anything, neither food nor money, or bags or bags… they just ask me to post these photos, to see what conditions they are in\. Photo Credit: [Vanja Stokić](https://www.facebook.com/vanjuska89?__tn__=%2CdC-R-R&eid=ARCXJrMySq7vxHD4Dx1AWH0Hki2BagNZvGz72orInvl2r7Wft4zSFAukAbX5uhYkMpqzlQA-T9m85RRP&hc_ref=ARR8PZIpKVv_T4eNsxldZNpYw_4bJeMLUOO4fGgP-Bmq1D4U-Yjk_0KoSV4iuyhaLIo&fref=nf) \)](assets/1194a3673c3a/1*aNN34V_T2MwPsNboLhniKA.jpeg)
+ They don’t ask me for anything, neither food nor money, or bags or bags… they just ask me to post these photos, to see what conditions they are in\. Photo Credit: [Vanja Stokić](https://www.facebook.com/vanjuska89?__tn__=%2CdC-R-R&eid=ARCXJrMySq7vxHD4Dx1AWH0Hki2BagNZvGz72orInvl2r7Wft4zSFAukAbX5uhYkMpqzlQA-T9m85RRP&hc_ref=ARR8PZIpKVv_T4eNsxldZNpYw_4bJeMLUOO4fGgP-Bmq1D4U-Yjk_0KoSV4iuyhaLIo&fref=nf) \)](../assets/1194a3673c3a/1*aNN34V_T2MwPsNboLhniKA.jpeg)
 
 \(There is no place in the camps in Bihac\. About a thousand people sleep outside, mostly in ruins\. They call me and say there are about 200 of them in one place\.
  
@@ -85,11 +85,11 @@ Meanwhile, in Croatia, the lie machine continues to churn as reported by MEP, Di
 
 
 
-![](assets/1194a3673c3a/1*89zf90izyeM2V2RXtEfc3w.png)
+![](../assets/1194a3673c3a/1*89zf90izyeM2V2RXtEfc3w.png)
 
 
 
-![](assets/1194a3673c3a/1*hr4TqDEio9cGirEWx0PdaQ.png)
+![](../assets/1194a3673c3a/1*hr4TqDEio9cGirEWx0PdaQ.png)
 
 
 LIBYA
@@ -170,7 +170,7 @@ SLOVENIAN/ITALIAN BORDER
 Atif, who drowned in the Isonzo river on December 18, 2019 was never recovered\.
 
 
-![\(Photo Credit: [L’altra Voce](https://www.facebook.com/L-ALTRA-VOCE-1245970425495921/?tn-str=k*F&hc_location=ufi) \)](assets/1194a3673c3a/1*TO1IAe4vjN1jgt9fvzyXDQ.jpeg)
+![\(Photo Credit: [L’altra Voce](https://www.facebook.com/L-ALTRA-VOCE-1245970425495921/?tn-str=k*F&hc_location=ufi) \)](../assets/1194a3673c3a/1*TO1IAe4vjN1jgt9fvzyXDQ.jpeg)
 
 \(Photo Credit: [L’altra Voce](https://www.facebook.com/L-ALTRA-VOCE-1245970425495921/?tn-str=k*F&hc_location=ufi) \)
 

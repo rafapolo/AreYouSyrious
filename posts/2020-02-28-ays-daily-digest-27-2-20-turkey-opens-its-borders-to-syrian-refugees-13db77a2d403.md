@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 27/2/20: Turkey ‘opens’ its borders to Syrian refugees
+title: "AYS Daily Digest 27/2/20: Turkey ‘opens’ its borders to Syrian refugees"
 author: Are You Syrious?
 date: 2020-02-28T10:39:38.742+0000
 last_modified_at: 2020-02-28T10:41:28.993+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,europe,syria,refugees,migration]
 description: Turkey ‘opens’ its borders / Frontex demands thousands in payment from two transparency activist / Italy justifies taking four years to…
 image:
-  path: assets/13db77a2d403/1*pz4l-dzeNmkahPaaI-Tl8A.jpeg
+  path: ../assets/13db77a2d403/1*pz4l-dzeNmkahPaaI-Tl8A.jpeg
 ---
 
 ### AYS Daily Digest 27/2/20: Turkey ‘opens’ its borders to Syrian refugees
@@ -15,7 +15,7 @@ image:
 Turkey ‘opens’ its borders / Frontex demands thousands in payment from two transparency activist / Italy justifies taking four years to process citizenship requests / Updates from Bosnia / ICRC demanded safe passage for civilians fleeing Syria\.
 
 
-![Photo Credit iha\.com\.tr](assets/13db77a2d403/1*pz4l-dzeNmkahPaaI-Tl8A.jpeg)
+![Photo Credit iha\.com\.tr](../assets/13db77a2d403/1*pz4l-dzeNmkahPaaI-Tl8A.jpeg)
 
 Photo Credit iha\.com\.tr
 ### **Feature**
@@ -62,15 +62,15 @@ For more information and to find the petition calling for withdrawing the demand
 ### Greece
 
 
-![](assets/13db77a2d403/1*px2WkP4YuJu1ppg_d4IcQA.jpeg)
+![](../assets/13db77a2d403/1*px2WkP4YuJu1ppg_d4IcQA.jpeg)
 
 
 
-![](assets/13db77a2d403/1*qTavmW_9qwD38eY626mrbw.jpeg)
+![](../assets/13db77a2d403/1*qTavmW_9qwD38eY626mrbw.jpeg)
 
 
 
-![Photo Credit: Erik Marquardt](assets/13db77a2d403/1*g0Zw0zGyZxJdNy2Kf_wpcA.jpeg)
+![Photo Credit: Erik Marquardt](../assets/13db77a2d403/1*g0Zw0zGyZxJdNy2Kf_wpcA.jpeg)
 
 Photo Credit: Erik Marquardt
 
@@ -138,7 +138,7 @@ For more information and to find the guidlines in English, French, Russian, Alba
 
 
 
-![Photo Credit : ekathimerini\.com](assets/13db77a2d403/1*xKJUW0iu19bVzPMNs15_6A.jpeg)
+![Photo Credit : ekathimerini\.com](../assets/13db77a2d403/1*xKJUW0iu19bVzPMNs15_6A.jpeg)
 
 Photo Credit : ekathimerini\.com
 
@@ -177,15 +177,15 @@ On Tuesday the International Committee of the Red Cross \(ICRC\) demanded safe p
 Freezing weather and snow in Tuzla, where dozens of men are still sleeping rough around the bus and train station, some of them without even having a tent\. The cold increased the need for wood \(for fire\), tents, sleeping bags, nylon sheets, warm male clothes \(sizes S and M\), male winter shoes or boots \(sizes 40–45\) \. Yesterday a man from Brčko and a couple who decided to stay anonymous saved the day by providing enough logs for the next few days, but more support is desperately needed\.
 
 
-![](assets/13db77a2d403/1*7qH8GtLA_V5Xr3tItqPo2w.jpeg)
+![](../assets/13db77a2d403/1*7qH8GtLA_V5Xr3tItqPo2w.jpeg)
 
 
 
-![](assets/13db77a2d403/1*CtYdqXqzlefQo7l-jD1YEQ.jpeg)
+![](../assets/13db77a2d403/1*CtYdqXqzlefQo7l-jD1YEQ.jpeg)
 
 
 
-![Tuzla in the Snow\. Photo Credit: Facebook\.com/Tuzlanski\-volonteri](assets/13db77a2d403/1*uxZRRFfCW3gOsZjfW4oBYQ.jpeg)
+![Tuzla in the Snow\. Photo Credit: Facebook\.com/Tuzlanski\-volonteri](../assets/13db77a2d403/1*uxZRRFfCW3gOsZjfW4oBYQ.jpeg)
 
 Tuzla in the Snow\. Photo Credit: Facebook\.com/Tuzlanski\-volonteri
 

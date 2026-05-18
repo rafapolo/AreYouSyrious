@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [greece,refugees,digest,spain,fascism]
 description: Are You Syrious?
 image:
-  path: assets/991749d6ed5f/0*3ciD_jArvuBvl0ws.jpeg
+  path: ../assets/991749d6ed5f/0*3ciD_jArvuBvl0ws.jpeg
 ---
 
 ### AYS Daily Digest 09/11/20 Greek authorities arrest father of 6\-year\-old who drowned
 
 
-![](assets/991749d6ed5f/0*-4_OdG-VvfgFxhTv.jpeg)
+![](../assets/991749d6ed5f/0*-4_OdG-VvfgFxhTv.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----35a089d01604--------------------------------)
@@ -23,11 +23,11 @@ image:
 _Over 2000 people in Canary Islands // Greece wants to change asylum law // updates on fascism in Serbia // lawsuit from Calais // and more…_
 
 
-![](assets/991749d6ed5f/0*Kvgj2Ln-nOF5qCz-)
+![](../assets/991749d6ed5f/0*Kvgj2Ln-nOF5qCz-)
 
 
 
-![](assets/991749d6ed5f/0*3ciD_jArvuBvl0ws.jpeg)
+![](../assets/991749d6ed5f/0*3ciD_jArvuBvl0ws.jpeg)
 
 ### FEATURE: Greek authorities arrest father of 6\-year\-old who drowned off the coast of Samos
 
@@ -94,11 +94,11 @@ Not our usual focus, but this reporting from La Cimade is important to share:
 ### GREECE
 
 
-![](assets/991749d6ed5f/0*rMJyKr9LPw_ki5_O)
+![](../assets/991749d6ed5f/0*rMJyKr9LPw_ki5_O)
 
 
 
-![](assets/991749d6ed5f/0*UxuXd11bRgLm6Db2.jpeg)
+![](../assets/991749d6ed5f/0*UxuXd11bRgLm6Db2.jpeg)
 
 
 It should also be noted that Moria Corona Awareness Team is continuing to do the hard work\. They pass out masks every day and are teaching children how to wear them\. Please continue to keep up with them [here](https://www.facebook.com/MoriaCoronaAwarenessTeam/posts/191610599134785) \.
@@ -116,11 +116,11 @@ Member of the EU Parliament [Tineke Strik](https://twitter.com/Tineke_Strik/stat
 …so more people can can be returned to Turkey under the “safe country” rule\. If this passed, the decision would be the third amendment to asylum law in the past 12 months\. Greek Migration Minister Notis Mitaraki told Info Migrants “ _Many people have come through safe countries of transit where they were very safe before coming to Greece\. We’re actually reviewing our legislation whether we should be providing asylum to people who come through countries where they’re very safe\. If somebody comes from the East and he comes to Turkey and he’s not at risk in Turkey, then he should not be applying to Greece for asylum_ \.” This would include Syrians, which it didn’t previously\. More [here](https://www.infomigrants.net/en/post/28386/greece-plans-to-increase-safe-country-returns-reduce-benefits-for-refugees?fbclid=IwAR1eyUGRnPUGzW4z0i6MjiNhW9WTGsQkm9HbtOG6KKucqZwvHpIjbUz2Enk) \.
 
 
-![](assets/991749d6ed5f/0*djMIZ2OHwYJS5OGy)
+![](../assets/991749d6ed5f/0*djMIZ2OHwYJS5OGy)
 
 
 
-![](assets/991749d6ed5f/0*Weyh9SENQ28yCkaF.jpeg)
+![](../assets/991749d6ed5f/0*Weyh9SENQ28yCkaF.jpeg)
 
 ### ITALY
 
@@ -157,28 +157,28 @@ On Monday, other rescues in Spain included:
 ### BOSNIA AND HEREZEGOVINA
 
 
-![](assets/991749d6ed5f/0*VSNJ-dOsjsxpLEM0)
+![](../assets/991749d6ed5f/0*VSNJ-dOsjsxpLEM0)
 
 
 
-![](assets/991749d6ed5f/0*bLJC230HG1i3I8Ue.jpeg)
+![](../assets/991749d6ed5f/0*bLJC230HG1i3I8Ue.jpeg)
 
 
 
-![](assets/991749d6ed5f/0*Vjdlz4NQERZVErdi)
+![](../assets/991749d6ed5f/0*Vjdlz4NQERZVErdi)
 
 
 
-![](assets/991749d6ed5f/0*L4BzdGgxLUOhSVJz.jpeg)
+![](../assets/991749d6ed5f/0*L4BzdGgxLUOhSVJz.jpeg)
 
 ### SERBIA
 
 
-![](assets/991749d6ed5f/0*4tFK91M0_aCC08LG)
+![](../assets/991749d6ed5f/0*4tFK91M0_aCC08LG)
 
 
 
-![](assets/991749d6ed5f/0*hKmX6wUiFzhWMX-2.jpeg)
+![](../assets/991749d6ed5f/0*hKmX6wUiFzhWMX-2.jpeg)
 
 
 [An update](http://www.hannahparry.co.uk/hannahthetraveller/fascists-in-sid-tensions-in-serbia?fbclid=IwAR39t8CgzToKuY08THBAqnCcNf_REydi7xXKDpATiC47sIAOvWXmlHuBdCk) on the fascists in Šid:
@@ -204,22 +204,22 @@ On Monday, other rescues in Spain included:
 ### FRANCE
 
 
-![](assets/991749d6ed5f/0*W7FpUuwCxNDfVbBJ)
+![](../assets/991749d6ed5f/0*W7FpUuwCxNDfVbBJ)
 
 
 
-![](assets/991749d6ed5f/0*XBgRwvyVWKrlSpe9.jpeg)
+![](../assets/991749d6ed5f/0*XBgRwvyVWKrlSpe9.jpeg)
 
 ### 11 migrants and 8 associations from Calais proceed against the Pas\-de\-Calais prefecture in court
 
 They claim the eviction of 800 people on September 29th was illegal\. They argue “The prefect of Pas de Calais invokes ‘flagrance’ as a legal basis for this expulsion\. However, this procedure \(…\) in no way authorizes the expulsion of people deemed ‘undesirable\.’” The hearing is scheduled for November 18th\. More [here](https://www.infomigrants.net/fr/post/28342/calais-11-migrants-et-8-associations-assignent-le-prefet-du-pas-de-calais-devant-la-justice?preview=1604913297988&fbclid=IwAR1e8073dEh9GVrfZxq-Dyto_2KXIE-gNxpncfYi7HihiZxiJs-YhiskJBA) \.
 
 
-![](assets/991749d6ed5f/0*6pKJg_Kj7eiahrO5)
+![](../assets/991749d6ed5f/0*6pKJg_Kj7eiahrO5)
 
 
 
-![](assets/991749d6ed5f/0*nsHo3BqYVmdf8K-x.jpeg)
+![](../assets/991749d6ed5f/0*nsHo3BqYVmdf8K-x.jpeg)
 
 ### EU
 

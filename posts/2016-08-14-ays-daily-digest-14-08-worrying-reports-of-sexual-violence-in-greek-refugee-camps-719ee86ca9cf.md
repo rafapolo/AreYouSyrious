@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe]
 description: Sexual violence continues to be a major issue in refugee camps. Poor quality of food causes problems. Refugees asked to leave the Horgos…
 image:
-  path: assets/719ee86ca9cf/0*RaQ7YXffslmk5ezh.
+  path: ../assets/719ee86ca9cf/0*RaQ7YXffslmk5ezh.
 ---
 
 ### AYS Daily Digest 13\.08 — Worrying reports of sexual violence in Greek refugee camps
 #### Sexual violence continues to be a major issue in refugee camps\. Poor quality of food causes problems\. Refugees asked to leave the Horgos “pre\-transit zone” and register in official camps\.
 
 
-![Afghan grandfather sleeping in the street of Belgrade\. Photo by Nima Maei](assets/719ee86ca9cf/0*RaQ7YXffslmk5ezh.)
+![Afghan grandfather sleeping in the street of Belgrade\. Photo by Nima Maei](../assets/719ee86ca9cf/0*RaQ7YXffslmk5ezh.)
 
 Afghan grandfather sleeping in the street of Belgrade\. Photo by Nima Maei
 #### Syria/Iraq
@@ -41,13 +41,13 @@ A few weeks ago, we heard of similar reports from Athens, with one volunteer sug
 All these reports follow a similar pattern and show that women are particularly vulnerable at night and when going to the bathroom\. These reports also show the lack of consequences for the attackers, with victims unable or too afraid to report attacks to the authorities\.
 
 
-![Photo of Softex Camp by Abdulazez Dukhan](assets/719ee86ca9cf/0*csTKrJd7jAD4oHsp.)
+![Photo of Softex Camp by Abdulazez Dukhan](../assets/719ee86ca9cf/0*csTKrJd7jAD4oHsp.)
 
 Photo of Softex Camp by Abdulazez Dukhan
 ### Food issues in Oreokastro
 
 
-![Food in Oreokastro camp](assets/719ee86ca9cf/0*rqH1ByRgXGwYGDuu.)
+![Food in Oreokastro camp](../assets/719ee86ca9cf/0*rqH1ByRgXGwYGDuu.)
 
 Food in Oreokastro camp
 
@@ -56,7 +56,7 @@ Refugees in Oreokastro camp say they do not want to eat food provided by the gov
 Those who can afford it are paying for food in small stalls inside the camps, while others are dependent on volunteers\.
 
 
-![](assets/719ee86ca9cf/0*l9Vv25KyKI9i3_zo.)
+![](../assets/719ee86ca9cf/0*l9Vv25KyKI9i3_zo.)
 
 #### Bulgaria
 ### Turkey and Bulgaria agree to control refugee influx
@@ -68,12 +68,12 @@ Those who can afford it are paying for food in small stalls inside the camps, wh
 Only 200 refugees are left at the Horgos “pre\-transit zone”, according to volunteers, with most coming from Afghanistan, Iran and North Africa\. All others left after authorities closed the waiting list for refugees wanting to enter the Roszke transit zone and told them they needed to register in official camps\. It is still unclear how refugees will be able to cross into Hungary once they have registered in the official camps\. The fear is that once registered, refugees will be hidden from the rest of the world, without a chance to move on — a situation that reminds us of the closure of Idomeni a few months ago\.
 
 
-![Photos by Natali Ja](assets/719ee86ca9cf/0*y3UpXn8U4W4zHBWD.)
+![Photos by Natali Ja](../assets/719ee86ca9cf/0*y3UpXn8U4W4zHBWD.)
 
 Photos by Natali Ja
 
 
-![Photos by Natali Ja](assets/719ee86ca9cf/0*gkM2jalmf84S_UXM.)
+![Photos by Natali Ja](../assets/719ee86ca9cf/0*gkM2jalmf84S_UXM.)
 
 Photos by Natali Ja
 ### Report on Krnjaca camp
@@ -81,7 +81,7 @@ Photos by Natali Ja
 After refugees were taken from Belgrade parks to the Krnjaca camp, many escaped and went back to the parks, complaining about the lack of food and bad treatment\. First reports on the camp show that it currently hosts around 600 refugees, with some having proper beds while others have to sleep on mattresses on the floor\. Only registered refugees have the right to leave the camp and get access to food\. People who are not registered are not allowed to enter the camp\. Meanwhile, Info Park reports that the Serbian government continues to try to clear the parks of refugees\. Info Park argues that refugees are in Belgrade because of the presence of smugglers, but also because of the “lack of coherent policy of the nearby camps that should be open for all and provide decent services \(warm meals, beds for all\)”\.
 
 
-![Photo by Info Park](assets/719ee86ca9cf/0*hW8lZuB3Ijb0S7Na.)
+![Photo by Info Park](../assets/719ee86ca9cf/0*hW8lZuB3Ijb0S7Na.)
 
 Photo by Info Park
 

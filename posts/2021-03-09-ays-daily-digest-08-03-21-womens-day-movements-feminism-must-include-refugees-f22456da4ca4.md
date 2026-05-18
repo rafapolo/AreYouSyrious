@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 08/03/21 Women’s Day movements: Feminism must include refugees
+title: "AYS Daily Digest 08/03/21 Women’s Day movements: Feminism must include refugees"
 author: Are You Syrious?
 date: 2021-03-09T17:10:58.628+0000
 last_modified_at: 2021-03-09T17:10:58.628+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,feminism,women]
 description: Are You Syrious?
 image:
-  path: assets/f22456da4ca4/0*7mdCG1mECwjXZ_PW.jpeg
+  path: ../assets/f22456da4ca4/0*7mdCG1mECwjXZ_PW.jpeg
 ---
 
 ### AYS Daily Digest 08/03/21 Women’s Day movements: Feminism must include refugees
 
 
-![](assets/f22456da4ca4/0*ZI1--SLLxLo8yMVa.jpeg)
+![](../assets/f22456da4ca4/0*ZI1--SLLxLo8yMVa.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----2c91347124c4--------------------------------)
@@ -23,11 +23,11 @@ image:
 _Rejection of asylum app in Slovenia for mother and two daughters who were sexually assaulted // update for women and girls in Northern France // UNHCR criticizes Danish plans to outsource asylum // and more…_
 
 
-![](assets/f22456da4ca4/0*BWCxFTi639IKxXp3)
+![](../assets/f22456da4ca4/0*BWCxFTi639IKxXp3)
 
 
 
-![](assets/f22456da4ca4/0*7mdCG1mECwjXZ_PW.jpeg)
+![](../assets/f22456da4ca4/0*7mdCG1mECwjXZ_PW.jpeg)
 
 ### FEATURE: Women’s Day feminist demonstration in Athens and solidarity across the world
 
@@ -52,11 +52,11 @@ In their call to action, the organizers made it clear that this was an effort of
 
 
 
-![](assets/f22456da4ca4/0*WAfBl4_as8qBXc-5)
+![](../assets/f22456da4ca4/0*WAfBl4_as8qBXc-5)
 
 
 
-![](assets/f22456da4ca4/0*O4gyoJGTmvhyH-eW.jpeg)
+![](../assets/f22456da4ca4/0*O4gyoJGTmvhyH-eW.jpeg)
 
 
 In solidarity, The Transnational Social Strike Platform published a text by the Women in Solidarity House, Lesbos on International Women’s Day\. They make it very clear that standing against the building of Moria 2\.0 is a feminist and antiracist issue:
@@ -83,11 +83,11 @@ In solidarity, The Transnational Social Strike Platform published a text by the 
 Read the wonderful piece in full [here](https://www.transnational-strike.info/2021/03/05/you-cannot-speak-about-feminism-if-we-are-not-included-8th-march-the-tmc-speaks-from-moria/?fbclid=IwAR2wfU7p5XGuY3F0nKKg6XEduj3zzZpFmmh7JJ8GdhklPQmatgRxji44m5g) \.
 
 
-![](assets/f22456da4ca4/0*Ms8FD77fUI5qGDFB)
+![](../assets/f22456da4ca4/0*Ms8FD77fUI5qGDFB)
 
 
 
-![](assets/f22456da4ca4/0*PvzOEJH0d1pJUv8R.jpeg)
+![](../assets/f22456da4ca4/0*PvzOEJH0d1pJUv8R.jpeg)
 
 
 Here at AYS, we hope you were able to stand in community, either in person or in the spirit of solidarity, on this year’s International Women’s Day\. To all those fighting for the human rights of women refugees, we have your back\!
@@ -132,35 +132,35 @@ UNHCR said in a new report, which [the European Council on Refugees and Exiles \
 ### FRANCE
 
 
-![](assets/f22456da4ca4/0*emxRJDlaLmvcX_nM)
+![](../assets/f22456da4ca4/0*emxRJDlaLmvcX_nM)
 
 
 
-![](assets/f22456da4ca4/0*azM7FjdYO216CwnZ.jpeg)
+![](../assets/f22456da4ca4/0*azM7FjdYO216CwnZ.jpeg)
 
 
 
-![](assets/f22456da4ca4/0*njSxBRSLHOrp3EW0)
+![](../assets/f22456da4ca4/0*njSxBRSLHOrp3EW0)
 
 
 
-![](assets/f22456da4ca4/0*FWNvy634bDHtY2UI.jpeg)
+![](../assets/f22456da4ca4/0*FWNvy634bDHtY2UI.jpeg)
 
 
 
-![](assets/f22456da4ca4/0*f9JAGyfXdMC1LpAS)
+![](../assets/f22456da4ca4/0*f9JAGyfXdMC1LpAS)
 
 
 
-![](assets/f22456da4ca4/0*043ddG3YAySPRv-m.jpeg)
+![](../assets/f22456da4ca4/0*043ddG3YAySPRv-m.jpeg)
 
 
 
-![](assets/f22456da4ca4/0*0RuquNPtMYrsQBED)
+![](../assets/f22456da4ca4/0*0RuquNPtMYrsQBED)
 
 
 
-![](assets/f22456da4ca4/0*h-vnSL3vaagPzLKI.jpeg)
+![](../assets/f22456da4ca4/0*h-vnSL3vaagPzLKI.jpeg)
 
 ### “International Women’s Day: update on the situation in Northern France for displaced women, girls and families”
 
@@ -243,11 +243,11 @@ _How can you get involved? Get your local group to plan an action in line with t
 _Contact noevictionsnetwork@gmail\.com_
 
 
-![](assets/f22456da4ca4/0*FuKEhGO5HyIQclGM)
+![](../assets/f22456da4ca4/0*FuKEhGO5HyIQclGM)
 
 
 
-![](assets/f22456da4ca4/0*mEIwxWjjCgvFxhfi.jpeg)
+![](../assets/f22456da4ca4/0*mEIwxWjjCgvFxhfi.jpeg)
 
 ### To end on a feminist note…
 

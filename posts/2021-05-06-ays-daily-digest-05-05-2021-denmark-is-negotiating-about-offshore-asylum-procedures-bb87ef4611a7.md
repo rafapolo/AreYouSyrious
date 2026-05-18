@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 05/05/2021: Denmark is negotiating about offshore asylum procedures
+title: "AYS Daily Digest 05/05/2021: Denmark is negotiating about offshore asylum procedures"
 author: Are You Syrious?
 date: 2021-05-06T12:17:31.010+0100
 last_modified_at: 2021-05-06T13:44:57.707+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [europe,refugees,digest,greece,italy]
 description: More on Denmark’s plans for offshore asylum procedures // Evictions in Bosnia // Disembarkation of 455 people rescued by Sea-Watch // New…
 image:
-  path: assets/bb87ef4611a7/1*8vzXUTt7GbFIdOymreU5Dg.jpeg
+  path: ../assets/bb87ef4611a7/1*8vzXUTt7GbFIdOymreU5Dg.jpeg
 ---
 
 ### AYS Daily Digest 05/05/2021: Denmark is negotiating about offshore asylum procedures
 #### More on Denmark’s plans for offshore asylum procedures // Evictions in Bosnia // Disembarkation of 455 people rescued by Sea\-Watch // New lies from Frontex // Guardian publishes investigation on border deaths //
 
 
-![Testing for covid before disembarkation\. Copyright: Sea\-Watch](assets/bb87ef4611a7/1*8vzXUTt7GbFIdOymreU5Dg.jpeg)
+![Testing for covid before disembarkation\. Copyright: Sea\-Watch](../assets/bb87ef4611a7/1*8vzXUTt7GbFIdOymreU5Dg.jpeg)
 
 Testing for covid before disembarkation\. Copyright: Sea\-Watch
 ### FEATURE: News on Denmarks attempts to install offshore asylum procedures

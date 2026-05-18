@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 14/01/2021: German authorities see no reasons for blocking SAR-boats
+title: "AYS Daily Digest 14/01/2021: German authorities see no reasons for blocking SAR-boats"
 author: Are You Syrious?
 date: 2021-01-15T14:25:37.860+0000
 last_modified_at: 2021-01-15T20:42:56.718+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,europe,frontex,refugees,germany]
 description: Vaccination campaign for refugees started in Jordan // Greece requests return of 1.540 people to Turkey // Legal Organizations on Lesvos…
 image:
-  path: assets/3a682b18f626/1*ygqhl3GfYsbKy-A8oUVGVg.jpeg
+  path: ../assets/3a682b18f626/1*ygqhl3GfYsbKy-A8oUVGVg.jpeg
 ---
 
 ### AYS Daily Digest 14/01/2021: Contradicting Interior Minister, German authorities state no reason to block Search and Rescue vessels
 #### Vaccination campaign for refugees started in Jordan // Greece requests return of 1\.540 people to Turkey // Legal organizations on Lesvos call for suspension of notifications of rejections // Updates from the ground in Moria 2\.0 // Alarm Phone publishes 6 months analysis, meanwhile 37 people are missing in the Mediterranean // Leggeri’s appearance in German Parliament committee // extended period for Dublin transfers for people in church asylum cancelled // Seebrücke helps us to better understand Frontex by subtitling ridiculous promo video — while investigations against Frontex continue
 
 
-![Copyright: Matthias Monroy](assets/3a682b18f626/1*ygqhl3GfYsbKy-A8oUVGVg.jpeg)
+![Copyright: Matthias Monroy](../assets/3a682b18f626/1*ygqhl3GfYsbKy-A8oUVGVg.jpeg)
 
 Copyright: Matthias Monroy
 ### German flag\-state administration sees no security flaws with SAR vessels blocked by Italian Authorities
@@ -67,7 +67,7 @@ Read ‘Including refugees in the vaccine rollout is key to ending the pandemic�
 The Greek Minister of Migration and Asylum Notis Mitarachi submitted a request to the European Commission and the EU border agency Frontex for the return of 1,450 people who received negative asylum decisions and are currently on the Aegean islands\. The return of people who get their asylum claims denied is part of the 2016 EU\-Turkey deal\. However, the numbers of returns carried out have been relatively low in the resent years\. Since March they have been down to zero, with Ankara citing the pandemic as the reason\.
 
 
-[![Statement of Mr N. Mitarachi regarding the Greek request for returns of migrants towards Turkey](assets/3a682b18f626/df70_hqdefault.jpg "Statement of Mr N. Mitarachi regarding the Greek request for returns of migrants towards Turkey")](https://www.youtube.com/watch?v=7O1MSyKv00o)
+[![Statement of Mr N. Mitarachi regarding the Greek request for returns of migrants towards Turkey](../assets/3a682b18f626/df70_hqdefault.jpg "Statement of Mr N. Mitarachi regarding the Greek request for returns of migrants towards Turkey")](https://www.youtube.com/watch?v=7O1MSyKv00o)
 
 
 In a video published by the Ministry, Mitarachi’s rhetoric ones again shows where the priorities of Greece and Europe lie these days\. He explains that Greece:
@@ -205,7 +205,7 @@ This is what solidarity looks like\! In France, a baker went on a hunger strike 
 On Tuesday, the boy was granted a residence permit\.
 
 
-![Copyright: Solidarité Migrants Wilson](assets/3a682b18f626/1*cPXPHwZgCKVTGNZ9c5_9Mw.jpeg)
+![Copyright: Solidarité Migrants Wilson](../assets/3a682b18f626/1*cPXPHwZgCKVTGNZ9c5_9Mw.jpeg)
 
 Copyright: Solidarité Migrants Wilson
 ### DENMARK

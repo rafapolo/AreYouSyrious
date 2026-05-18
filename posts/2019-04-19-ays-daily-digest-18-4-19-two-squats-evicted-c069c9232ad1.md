@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 18/4/19: Two squats evicted
+title: "AYS Daily Digest 18/4/19: Two squats evicted"
 author: Are You Syrious?
 date: 2019-04-19T13:17:52.702+0100
 last_modified_at: 2019-04-19T13:17:52.702+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,eviction,netherlands]
 description: More than 70 people in Exarchia now left abandoned in the streets / Application at ECHR against Greece / Help needed in Bosnia /…
 image:
-  path: assets/c069c9232ad1/1*cJowmmeQ3x_K5QX5lWs8mA.jpeg
+  path: ../assets/c069c9232ad1/1*cJowmmeQ3x_K5QX5lWs8mA.jpeg
 ---
 
 ### AYS Daily Digest 18/4/19: Two squats evicted
 #### More than 70 people in Exarchia now left abandoned in the streets / Application at ECHR against Greece / Help needed in Bosnia / Netherlands implement area bans for trouble makers
 
 
-![The police came in the morning\. Credits: [NoBorders/Nikos Christofakis](https://www.facebook.com/nobordersnetwork/photos/pcb.2223621697705710/2223619424372604/?type=3&theater&ifg=1)](assets/c069c9232ad1/1*cJowmmeQ3x_K5QX5lWs8mA.jpeg)
+![The police came in the morning\. Credits: [NoBorders/Nikos Christofakis](https://www.facebook.com/nobordersnetwork/photos/pcb.2223621697705710/2223619424372604/?type=3&theater&ifg=1)](../assets/c069c9232ad1/1*cJowmmeQ3x_K5QX5lWs8mA.jpeg)
 
 The police came in the morning\. Credits: [NoBorders/Nikos Christofakis](https://www.facebook.com/nobordersnetwork/photos/pcb.2223621697705710/2223619424372604/?type=3&theater&ifg=1)
 ### Greece
@@ -22,7 +22,7 @@ The police came in the morning\. Credits: [NoBorders/Nikos Christofakis](https:/
 Today, two squats in Exarchia have been evicted, NoBorders reports\. Police arrived to the buildings at 6am, one of which was the Clandestina squat\. It is said that there have been more than 80 prosecutions\. Most of the people were families, and everyone was released later in the day; the ones without papers seem to have left before\. Around 50 people are protesting now at Syntagma with tents and sings\. The plan is to stay the night and demonstrate that it was not drug dealers who were evicted from the squats\. Police have so far offered to take people to detention centers to get them off the streets, but obviously people refused\.
 
 
-![](assets/c069c9232ad1/1*yoHJjS4oHepIGELrFCAXSA.jpeg)
+![](../assets/c069c9232ad1/1*yoHJjS4oHepIGELrFCAXSA.jpeg)
 
 
 Team Humany founder Salam Kamal\-Aldeen filed an unprecedented application against the Greek government at the European Court of Human Rights\. This is a consequence of his trial in the country, which accused him of helping people in need illegally\. “It challenges \[Greece’s\] abuse of power to arbitrarily prosecute and expose Mr Aldeen to a minimum ten years’ imprisonment, only to suspend his life\-saving activities,” Glanlaw [writes](https://www.glanlaw.org/single-post/2019/04/18/Case-filed-against-Greece-in-Strasbourg-Court-over-Crackdown-on-Humanitarian-Organisations?fbclid=IwAR3EsHodPD6DxGqztAsmc0b4yaT5o_VVTr6547k5MSutkowH1svjNzoK2f8) \.
@@ -50,7 +50,7 @@ No Name Kitchen [warns](https://www.facebook.com/NoNameKitchenBelgrade/posts/703
 People are lacking basic necessities, which causes health issues\. They call for donations urgently and in large quantities: pants of small and medium sizes, short and long\-sleeved shirts, underwear, socks and winter underwear for cold nights\. Sports shoes are required \(sizes 41,42 and 43 especially\), sleeping bags, backpacks, belts, smartphones, towels, shampoo, and soap\.
 
 
-![People sitting on a field in Kladusa\. Credits: Diego Herrera](assets/c069c9232ad1/1*T_FSbltsNGXPyZ6aeHdTEA.jpeg)
+![People sitting on a field in Kladusa\. Credits: Diego Herrera](../assets/c069c9232ad1/1*T_FSbltsNGXPyZ6aeHdTEA.jpeg)
 
 People sitting on a field in Kladusa\. Credits: Diego Herrera
 

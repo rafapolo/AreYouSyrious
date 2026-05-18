@@ -1,5 +1,5 @@
 ---
-title: AYS DIGEST 15/12: The evacuation of Aleppo begins
+title: "AYS DIGEST 15/12: The evacuation of Aleppo begins"
 author: Are You Syrious?
 date: 2016-12-16T03:35:06.454+0000
 last_modified_at: 2016-12-16T09:42:19.786+0000
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,greece,germany,syria]
 description: Demonstrations of Solidarity around Europe/ Numbers of refugees in the Greek camps decrease/ Germany deports first group of Afghans/…
 image:
-  path: assets/7754a60a5b5f/1*gikbou0mH4b7i-S73qdsSQ.jpeg
+  path: ../assets/7754a60a5b5f/1*gikbou0mH4b7i-S73qdsSQ.jpeg
 ---
 
 ### AYS DIGEST 15/12: The evacuation of Aleppo begins
 #### Demonstrations of Solidarity around Europe/ Numbers of refugees in the Greek camps decrease/ Germany deports first group of Afghans/ Refugees getting arrested in Italy
 
 
-![Photo by Hasan Katan/AMC](assets/7754a60a5b5f/1*gikbou0mH4b7i-S73qdsSQ.jpeg)
+![Photo by Hasan Katan/AMC](../assets/7754a60a5b5f/1*gikbou0mH4b7i-S73qdsSQ.jpeg)
 
 Photo by Hasan Katan/AMC
 ### Feature
@@ -30,7 +30,7 @@ The evacuations was carried out using ambulances and green buses provided by the
 The UN said the operation involved the evacuation of the sick and wounded, vulnerable civilians, and fighters and estimated the number of civilians to be evacuated at 30,000\.
 
 
-![Photo by [**Rami Jarrah**](https://www.facebook.com/ramijarah)](assets/7754a60a5b5f/1*pR5CKgxrAeW3u4ceHJW21w.jpeg)
+![Photo by [**Rami Jarrah**](https://www.facebook.com/ramijarah)](../assets/7754a60a5b5f/1*pR5CKgxrAeW3u4ceHJW21w.jpeg)
 
 Photo by [**Rami Jarrah**](https://www.facebook.com/ramijarah)
 
@@ -72,7 +72,7 @@ An Aid worker, Abdul haq, from Anaya Aid did the following report:
 
 
 
-![Photo by [**Free Syria — Salam**](https://www.facebook.com/Free.SyriaSalam/)](assets/7754a60a5b5f/1*JGCkraUS-ZMZcYFjtSigNw.jpeg)
+![Photo by [**Free Syria — Salam**](https://www.facebook.com/Free.SyriaSalam/)](../assets/7754a60a5b5f/1*JGCkraUS-ZMZcYFjtSigNw.jpeg)
 
 Photo by [**Free Syria — Salam**](https://www.facebook.com/Free.SyriaSalam/)
 
@@ -102,21 +102,21 @@ In many cities the message was the similar:
 In Berlin
 
 
-![Photo by [Horst Müller](https://www.facebook.com/horst.muller.7)](assets/7754a60a5b5f/1*rvMw4sv_IlDq5Fk4rvF9ug.jpeg)
+![Photo by [Horst Müller](https://www.facebook.com/horst.muller.7)](../assets/7754a60a5b5f/1*rvMw4sv_IlDq5Fk4rvF9ug.jpeg)
 
 Photo by [Horst Müller](https://www.facebook.com/horst.muller.7)
 
 In Amsterdam
 
 
-![Photo by [David Hup](https://www.facebook.com/david.hup.3)](assets/7754a60a5b5f/1*EYolPWPnSmaoc1VulzPL5A.jpeg)
+![Photo by [David Hup](https://www.facebook.com/david.hup.3)](../assets/7754a60a5b5f/1*EYolPWPnSmaoc1VulzPL5A.jpeg)
 
 Photo by [David Hup](https://www.facebook.com/david.hup.3)
 
 In Copenhagen
 
 
-![Photo by [The Local](http://www.thelocal.dk/20161215/thousands-of-danes-show-support-for-aleppo)](assets/7754a60a5b5f/1*_fkk3RwkfZx8KjpWWSuOTg.jpeg)
+![Photo by [The Local](http://www.thelocal.dk/20161215/thousands-of-danes-show-support-for-aleppo)](../assets/7754a60a5b5f/1*_fkk3RwkfZx8KjpWWSuOTg.jpeg)
 
 Photo by [The Local](http://www.thelocal.dk/20161215/thousands-of-danes-show-support-for-aleppo)
 ### Greece
@@ -151,7 +151,7 @@ There’s also a call for [donations](http://www.collectivecalling.org/thank-you
 
 
 
-![Photo by [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGreece/)](assets/7754a60a5b5f/1*0or1t0CITkPM6q_8NDCp-w.jpeg)
+![Photo by [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGreece/)](../assets/7754a60a5b5f/1*0or1t0CITkPM6q_8NDCp-w.jpeg)
 
 Photo by [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGreece/)
 
@@ -217,12 +217,12 @@ This is how volunteers characterize the centre:
 
 
 
-![Photo by [**Rose Lecat**](https://www.facebook.com/rose.lecat)](assets/7754a60a5b5f/1*ge0FNhMW7xm7I-iSEbVQtw.jpeg)
+![Photo by [**Rose Lecat**](https://www.facebook.com/rose.lecat)](../assets/7754a60a5b5f/1*ge0FNhMW7xm7I-iSEbVQtw.jpeg)
 
 Photo by [**Rose Lecat**](https://www.facebook.com/rose.lecat)
 
 
-![Photo by [**Rose Lecat**](https://www.facebook.com/rose.lecat)](assets/7754a60a5b5f/1*4hjNfmt5NTAW25t1HFJnVg.jpeg)
+![Photo by [**Rose Lecat**](https://www.facebook.com/rose.lecat)](../assets/7754a60a5b5f/1*4hjNfmt5NTAW25t1HFJnVg.jpeg)
 
 Photo by [**Rose Lecat**](https://www.facebook.com/rose.lecat)
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Digest 22/09: 2016 will be the deadliest year on record in the Mediterranean Sea — Mayday!
+title: "AYS Digest 22/09: 2016 will be the deadliest year on record in the Mediterranean Sea — Mayday!"
 author: Are You Syrious?
 date: 2016-09-23T03:07:22.032+0100
 last_modified_at: 2016-09-23T03:34:25.862+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,france,italy,greece]
 description: Greek islands mark new arrivals, as international organizations once again warn about the appalling conditions. Serbia struggling to deal…
 image:
-  path: assets/ece48948f6d8/1*KvkeCNWVXNb_vnrjoIEwzQ.jpeg
+  path: ../assets/ece48948f6d8/1*KvkeCNWVXNb_vnrjoIEwzQ.jpeg
 ---
 
 ### AYS Digest 22/09: 2016 will be the deadliest year on record in the Mediterranean Sea — Mayday\!
@@ -15,7 +15,7 @@ image:
 _Greek islands mark new arrivals, as international organizations once again warn about the appalling conditions\. Serbia struggling to deal with the latest surge of arrivals\. Calais evacuation plan out\. While White helmets lose lives to save others, the international community awards them with a prize and is reluctant to help those whom they had saved\._
 
 
-![Photo by: [Through Refugee Eyes](https://www.facebook.com/throughrefugeeeyes/?fref=ts)](assets/ece48948f6d8/1*KvkeCNWVXNb_vnrjoIEwzQ.jpeg)
+![Photo by: [Through Refugee Eyes](https://www.facebook.com/throughrefugeeeyes/?fref=ts)](../assets/ece48948f6d8/1*KvkeCNWVXNb_vnrjoIEwzQ.jpeg)
 
 Photo by: [Through Refugee Eyes](https://www.facebook.com/throughrefugeeeyes/?fref=ts)
 
@@ -41,7 +41,7 @@ Another report shaming the European countries for their lack of political will a
 
 
 ![Lesvos, Greece 21 September 2016 
-“This is no camp\. It’s a prison\. We live like animals here\.” \(Photo credit: Savvas Karmaniolas\)](assets/ece48948f6d8/1*pDqbLbwE_FU0r_JM7ZqssQ.jpeg)
+“This is no camp\. It’s a prison\. We live like animals here\.” \(Photo credit: Savvas Karmaniolas\)](../assets/ece48948f6d8/1*pDqbLbwE_FU0r_JM7ZqssQ.jpeg)
 
 Lesvos, Greece 21 September 2016 
 “This is no camp\. It’s a prison\. We live like animals here\.” \(Photo credit: Savvas Karmaniolas\)
@@ -63,7 +63,7 @@ Lesvos, Greece 21 September 2016
 125 arrivals were registered on the island Chios during the morning, according to the Chios Eastern Shore Response Team\.
 
 
-![Arrivals on Chios \(Photo: [**Salvamento Marítimo Humanitario**](https://www.facebook.com/smhumanitario/) **\)**](assets/ece48948f6d8/1*WJhFSzoNRyWGscfIJNt-7w.jpeg)
+![Arrivals on Chios \(Photo: [**Salvamento Marítimo Humanitario**](https://www.facebook.com/smhumanitario/) **\)**](../assets/ece48948f6d8/1*WJhFSzoNRyWGscfIJNt-7w.jpeg)
 
 Arrivals on Chios \(Photo: [**Salvamento Marítimo Humanitario**](https://www.facebook.com/smhumanitario/) **\)**
 
@@ -75,18 +75,18 @@ Greek government is expecting from the Greek IOM, that runs voluntary repatriati
 The [Daily Center for refugees](https://www.facebook.com/izbegliceusrbiji/) in Belgrade opened in this September and more than 70 refugees visit them daily\. It was formed by a small group of diverse, but experienced volunteers and their aim to provide a place to relax, get together for cultural and sport activities, learn languages, use the internet, take a shower and have a warm beverage\. They also plan to prepare and serve warm soup for the refugees\. Apart from the great need for [financial support](http://refugeesfoundationserbia.com/donateinstruction.html) , they could also use: male shoes, underwear, trousers, backpacks, beanies and gloves\.
 
 
-![The Daily Center for Refugees team](assets/ece48948f6d8/1*R2hJ5TLaHhz0KLVRCgnmyA.jpeg)
+![The Daily Center for Refugees team](../assets/ece48948f6d8/1*R2hJ5TLaHhz0KLVRCgnmyA.jpeg)
 
 The Daily Center for Refugees team
 
 539 people were reported arriving to Refugee Aid [Miksalište](https://www.facebook.com/RefugeeAidMiksaliste/?fref=ts) in Belgrade today, seeking food and shelter\. This number includes **416 minors** , **86 women and 37 men** \. Most of them came from the Bulgarian border, muddy, exhausted, hungry and traumatized, volunteers report\. These figures mark a record number of arrivals and they are running out of almost everything needed to welcome refugees at their centre\. That is why, for the time being, they will only serve families with children and unaccompanied minors\.
 
 
-![](assets/ece48948f6d8/1*XqPcGELWnoxHcZwUSp7Kzw.jpeg)
+![](../assets/ece48948f6d8/1*XqPcGELWnoxHcZwUSp7Kzw.jpeg)
 
 
 
-![Photos: Miksalište](assets/ece48948f6d8/1*hWoE_whvBzdkwWSlYUL3FA.jpeg)
+![Photos: Miksalište](../assets/ece48948f6d8/1*hWoE_whvBzdkwWSlYUL3FA.jpeg)
 
 Photos: Miksalište
 ### Stop the war, not refugees
@@ -115,7 +115,7 @@ On behalf of a number of Hungarian NGOs, Hungarian director Alföldi Róbert sai
 This was proclaimed by Christian Wolff, German president at the time, during the grand festival event marking the 25th anniversary of the fall of the Berlin wall\.
 
 
-![Fencing reminder \(Image: Radio Free Europe / Carlos Coelho\)](assets/ece48948f6d8/1*9TBaSLWmMZ1cD3_IgSojiA.jpeg)
+![Fencing reminder \(Image: Radio Free Europe / Carlos Coelho\)](../assets/ece48948f6d8/1*9TBaSLWmMZ1cD3_IgSojiA.jpeg)
 
 Fencing reminder \(Image: Radio Free Europe / Carlos Coelho\)
 
@@ -126,7 +126,7 @@ Only two years afterwards, Europe has set what was just recently an unimaginable
 Authorities have [reportedly](http://palermo.repubblica.it/cronaca/2016/09/21/news/traffico_esseri_umani_a_giudizio_a_palermo_boss_eritreo-148248646/) identified Medhanie Yehdego Mered, as the man alleged to be a 35\-year\-old smuggler known as “the general”, earlier accused of sending thousands of migrants to Europe and hundreds to their deaths at sea\. He will face trial in Italy with the first hearing on November 16\.
 
 
-![“Camp is no solution\.” \(Photo: [**WelCom — Osservatorio Migranti Como**](https://www.facebook.com/osservatoriomigranticomo/) **\)**](assets/ece48948f6d8/1*FcxsXaeudjWzzb0qxO_Iig.jpeg)
+![“Camp is no solution\.” \(Photo: [**WelCom — Osservatorio Migranti Como**](https://www.facebook.com/osservatoriomigranticomo/) **\)**](../assets/ece48948f6d8/1*FcxsXaeudjWzzb0qxO_Iig.jpeg)
 
 “Camp is no solution\.” \(Photo: [**WelCom — Osservatorio Migranti Como**](https://www.facebook.com/osservatoriomigranticomo/) **\)**
 #### Nobody wants to be forgotten
@@ -144,7 +144,7 @@ The newly opened refugee centre in Como has reached its capacity of 300 people i
 
 
 
-![Photo: [**WelCom — Osservatorio Migranti Como**](https://www.facebook.com/osservatoriomigranticomo/)](assets/ece48948f6d8/1*jiUnVASsAnCAg198u0mqog.jpeg)
+![Photo: [**WelCom — Osservatorio Migranti Como**](https://www.facebook.com/osservatoriomigranticomo/)](../assets/ece48948f6d8/1*jiUnVASsAnCAg198u0mqog.jpeg)
 
 Photo: [**WelCom — Osservatorio Migranti Como**](https://www.facebook.com/osservatoriomigranticomo/)
 #### France
@@ -161,7 +161,7 @@ Pharma Community kitchen cooks for 500 people in Kalochori camp and they are run
 Care4Calais is looking for someone to [join their team](https://www.facebook.com/photo.php?fbid=10154393479155549&set=gm.1134156823329619&type=3&theater) to assist with administration\. They need someone to be able to commit to do a minimum of 1 hour a day, 5 days a week\. Tasks will include replying to e\-mails and updating spreadsheets\.
 
 
-![Antony, Anita and Christina, local young volunteers from Kalochori who made the Kitchen project in their village possible \(Photo: Pharma Community Kitchen, Kalochori\)](assets/ece48948f6d8/1*GsalFjKL55Y7bkZUeLEQrA.jpeg)
+![Antony, Anita and Christina, local young volunteers from Kalochori who made the Kitchen project in their village possible \(Photo: Pharma Community Kitchen, Kalochori\)](../assets/ece48948f6d8/1*GsalFjKL55Y7bkZUeLEQrA.jpeg)
 
 Antony, Anita and Christina, local young volunteers from Kalochori who made the Kitchen project in their village possible \(Photo: Pharma Community Kitchen, Kalochori\)
 #### Yemen
@@ -173,7 +173,7 @@ Nearly half of Yemen’s 22 provinces are on the verge of famine, according to t
 The UEFA Foundation for Children opened the [House of Sports](https://uefafoundation.org/news/inauguration-of-the-zaatari-house-of-sports/) at the Za’atari refugee camp in Jordan\. They will now expand its activities in local host communities in Jordan, which are home to many child refugees from Syria and other countries in conflict\. The aim of this new initiative is to reinforce the work with Jordanian children and child refugees through socio\-educational and sports projects, in particular football\.
 
 
-![Photo: White Helmets](assets/ece48948f6d8/1*oLUPJ2TPCKMgVcpGZYovwA.jpeg)
+![Photo: White Helmets](../assets/ece48948f6d8/1*oLUPJ2TPCKMgVcpGZYovwA.jpeg)
 
 Photo: White Helmets
 #### White Helmets’ bravery awarded The Right Livelihood Award

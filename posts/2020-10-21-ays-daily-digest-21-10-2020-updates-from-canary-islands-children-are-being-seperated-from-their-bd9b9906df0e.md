@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 20/10/2020: Updates from Canary Islands: Children are being separated from their…
+title: "AYS Daily Digest 20/10/2020: Updates from Canary Islands: Children are being separated from their…"
 author: Are You Syrious?
 date: 2020-10-21T13:55:00.236+0100
 last_modified_at: 2020-10-21T22:31:49.890+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,canary-islands,greece]
 description: Spike in arrivals on the Canary Islands, children being seperated from their mothers // New Pushback on the Aegean // Winter approaching…
 image:
-  path: assets/bd9b9906df0e/1*wbXvVfkvlaXAknuzb90jQg.jpeg
+  path: ../assets/bd9b9906df0e/1*wbXvVfkvlaXAknuzb90jQg.jpeg
 ---
 
 ### AYS Daily Digest 20/10/2020: Updates from Canary Islands: Children are being separated from their Mothers
 #### Spike in arrivals on the Canary Islands, children being separated from their mothers // New Pushback on the Aegean // Winter approaching while thousands are sleeping in the forests of Bosnia // German Government does not allow cities to take in refugees // No new regulation for family reunification after UK leaves EU
 
 
-![Pushback in the Aegean Sea on life rafts, to full to carry everybody\. Copyright: Aegean Boat Report](assets/bd9b9906df0e/1*wbXvVfkvlaXAknuzb90jQg.jpeg)
+![Pushback in the Aegean Sea on life rafts, to full to carry everybody\. Copyright: Aegean Boat Report](../assets/bd9b9906df0e/1*wbXvVfkvlaXAknuzb90jQg.jpeg)
 
 Pushback in the Aegean Sea on life rafts, to full to carry everybody\. Copyright: Aegean Boat Report
 ### FEATURE: The Canary Islands

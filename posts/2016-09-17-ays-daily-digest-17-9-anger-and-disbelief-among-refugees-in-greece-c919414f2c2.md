@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 17/9: Anger and disbelief among refugees in Greece
+title: "AYS DAILY DIGEST 17/9: Anger and disbelief among refugees in Greece"
 author: Are You Syrious?
 date: 2016-09-17T23:19:12.098+0100
 last_modified_at: 2016-09-17T23:19:12.098+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,nadia-murad,yazidi]
 description: Some refugees in Greece will have to wait until next April for their next interview. Among those who are waiting are many whose family…
 image:
-  path: assets/c919414f2c2/1*URWM2YVaOWgQb1ct5sw0gg.jpeg
+  path: ../assets/c919414f2c2/1*URWM2YVaOWgQb1ct5sw0gg.jpeg
 ---
 
 ### AYS DAILY DIGEST 17/9: Anger and disbelief among refugees in Greece
@@ -15,7 +15,7 @@ image:
 _Some refugees in Greece will have to wait until next April for their next interview\. Among those who are waiting are many whose family members are already in Europe waiting to unite for too long\. In Serbia, ultra right organizations announced protest agains refugees for the beginning of October\. In Germany, another refugee shelter under attack\. In Hungary, 22 NGO urging citizens to reject the referendum on October 2\. Yazidi girl Nadia Murad the UN’s new Goodwill Ambassador for the Dignity of Survivors of Human Trafficking\._
 
 
-![“Today we remembered what winter is like in the camp\. The ground is sandy and the water has nowhere to drain\. They live in tents and have nowhere to get warm\.” There are around 10\.000 people in Calais now, and more are arriving\. Photo [Care4Calais](https://www.facebook.com/care4calais/photos/a.1046164975416459.1073741829.1046117708754519/1284902881542666/?type=3&theater) \.](assets/c919414f2c2/1*URWM2YVaOWgQb1ct5sw0gg.jpeg)
+![“Today we remembered what winter is like in the camp\. The ground is sandy and the water has nowhere to drain\. They live in tents and have nowhere to get warm\.” There are around 10\.000 people in Calais now, and more are arriving\. Photo [Care4Calais](https://www.facebook.com/care4calais/photos/a.1046164975416459.1073741829.1046117708754519/1284902881542666/?type=3&theater) \.](../assets/c919414f2c2/1*URWM2YVaOWgQb1ct5sw0gg.jpeg)
 
 “Today we remembered what winter is like in the camp\. The ground is sandy and the water has nowhere to drain\. They live in tents and have nowhere to get warm\.” There are around 10\.000 people in Calais now, and more are arriving\. Photo [Care4Calais](https://www.facebook.com/care4calais/photos/a.1046164975416459.1073741829.1046117708754519/1284902881542666/?type=3&theater) \.
 ### Greece
@@ -56,11 +56,11 @@ The [Emergency Response Centre International](https://www.facebook.com/ercintl/)
 All the people from this group have been taken to the Moria refugee camp\.
 
 
-![](assets/c919414f2c2/1*C2W4lAMDp90GloTZHB5T2A.jpeg)
+![](../assets/c919414f2c2/1*C2W4lAMDp90GloTZHB5T2A.jpeg)
 
 
 
-![Photo by ERCI](assets/c919414f2c2/1*CZH3gqIsTxtfQ4radoEgqw.jpeg)
+![Photo by ERCI](../assets/c919414f2c2/1*CZH3gqIsTxtfQ4radoEgqw.jpeg)
 
 Photo by ERCI
 
@@ -98,14 +98,14 @@ Our regular correspondent [Abdulaziz Dukhan](https://www.facebook.com/throughref
 
 
 
-![“I asked if it’s possible for them to wait and the father replied: “We spent 7 months here by now another 6 months will pass before our first appointment will come\. And then we will have to wait for the second\. It will be 15 months\. I think, most likely, I will have lost my mind by then and what can I then give? What do I then have left to give my family? If I had money I’d be ready to go back to Syria\. Show my children that they deserved at least the chance of a normal life\.If you can… please just take us back there\.”](assets/c919414f2c2/1*Tk-n92Mpr4Cy2TdCVQQ0AQ.jpeg)
+![“I asked if it’s possible for them to wait and the father replied: “We spent 7 months here by now another 6 months will pass before our first appointment will come\. And then we will have to wait for the second\. It will be 15 months\. I think, most likely, I will have lost my mind by then and what can I then give? What do I then have left to give my family? If I had money I’d be ready to go back to Syria\. Show my children that they deserved at least the chance of a normal life\.If you can… please just take us back there\.”](../assets/c919414f2c2/1*Tk-n92Mpr4Cy2TdCVQQ0AQ.jpeg)
 
 “I asked if it’s possible for them to wait and the father replied: “We spent 7 months here by now another 6 months will pass before our first appointment will come\. And then we will have to wait for the second\. It will be 15 months\. I think, most likely, I will have lost my mind by then and what can I then give? What do I then have left to give my family? If I had money I’d be ready to go back to Syria\. Show my children that they deserved at least the chance of a normal life\.If you can… please just take us back there\.”
 
 In the meantime, people who are stranded in Greece are waiting to be reunited with their families who are leaving in Europe\. Today we [read a story about 1 year old Amina](https://www.facebook.com/achilleas.zavallis) who this week saw her father today for the first time in her life\.
 
 
-![Photo by [Achilleas Zavallis](https://www.facebook.com/achilleas.zavallis)](assets/c919414f2c2/1*UdogeatY0MUPg2kikEW2mQ.jpeg)
+![Photo by [Achilleas Zavallis](https://www.facebook.com/achilleas.zavallis)](../assets/c919414f2c2/1*UdogeatY0MUPg2kikEW2mQ.jpeg)
 
 Photo by [Achilleas Zavallis](https://www.facebook.com/achilleas.zavallis)
 
@@ -218,7 +218,7 @@ Solidarity with Refugees director Ros Ereira said:
 Several past Samos Volunteers joined a march\.
 
 
-![Photo by Samos Volunteers](assets/c919414f2c2/1*Wc91w-bhB0GSqg_WQ-J1kA.jpeg)
+![Photo by Samos Volunteers](../assets/c919414f2c2/1*Wc91w-bhB0GSqg_WQ-J1kA.jpeg)
 
 Photo by Samos Volunteers
 
@@ -282,7 +282,7 @@ An induction ceremony will be held on Friday at the UN headquarters in New York\
 Portuguese cartoonist Christiano Salgado from Expresso commented on a current situation in EU\. His cartoon is part of the project “Drawing Europe”\. 28 cartoonists from the member countries have been invited to comment on how they view the EU today\. Saldago was among few to focus on refugees and closed borders\.
 
 
-![“I see us slowly shutting ourselves off\. We are building borders at a time when we should stand united\. The idea of a borderless and open Europe is under threat\.” By Christiano Salgado](assets/c919414f2c2/1*WVN59pte0EvXSILca_D_wA.jpeg)
+![“I see us slowly shutting ourselves off\. We are building borders at a time when we should stand united\. The idea of a borderless and open Europe is under threat\.” By Christiano Salgado](../assets/c919414f2c2/1*WVN59pte0EvXSILca_D_wA.jpeg)
 
 “I see us slowly shutting ourselves off\. We are building borders at a time when we should stand united\. The idea of a borderless and open Europe is under threat\.” By Christiano Salgado
 

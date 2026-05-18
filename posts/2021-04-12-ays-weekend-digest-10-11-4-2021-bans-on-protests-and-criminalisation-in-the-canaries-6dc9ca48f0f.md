@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,milan,refugees,canary-islands,alan-kurdi]
 description: More pushbacks involving Bulgarian, Greek and Turkish authorities. Sea-Eye’s Alan Kurdi is free again. Attempted breakout from Milan’s CPR.
 image:
-  path: assets/6dc9ca48f0f/1*ox1sua-eOythT3wW1IuDKA.jpeg
+  path: ../assets/6dc9ca48f0f/1*ox1sua-eOythT3wW1IuDKA.jpeg
 ---
 
 ### AYS Weekend Digest 10\-11/4/2021 — Bans on Protests and Criminalisation in the Canaries
@@ -15,7 +15,7 @@ image:
 More pushbacks involving Bulgarian, Greek and Turkish authorities\. Sea\-Eye’s Alan Kurdi is free again\. Attempted breakout from Milan’s CPR\. Continued evictions in Calais and Grande\-Synthe and much more…
 
 
-![“If migrating is a crime, ours is indifference” \(Photo via: [Amayra Garcia](https://twitter.com/Amayra_gc/status/1380849177115115521/photo/1) \)](assets/6dc9ca48f0f/1*ox1sua-eOythT3wW1IuDKA.jpeg)
+![“If migrating is a crime, ours is indifference” \(Photo via: [Amayra Garcia](https://twitter.com/Amayra_gc/status/1380849177115115521/photo/1) \)](../assets/6dc9ca48f0f/1*ox1sua-eOythT3wW1IuDKA.jpeg)
 
 “If migrating is a crime, ours is indifference” \(Photo via: [Amayra Garcia](https://twitter.com/Amayra_gc/status/1380849177115115521/photo/1) \)
 #### Featured — Bans on Protests and Criminalisation in the Canaries
@@ -79,7 +79,7 @@ On Saturday, the Tenerife Migrants Support Assembly held a press conference in f
 
 
 
-![“Stop police abuse in Las Raices” \( [Photo by Tenerife Students’ platform](https://twitter.com/pestudiantestnf/status/1380837936942481408/photo/1) \)](assets/6dc9ca48f0f/1*zT709cQzV39TnsQjimal1A.jpeg)
+![“Stop police abuse in Las Raices” \( [Photo by Tenerife Students’ platform](https://twitter.com/pestudiantestnf/status/1380837936942481408/photo/1) \)](../assets/6dc9ca48f0f/1*zT709cQzV39TnsQjimal1A.jpeg)
 
 “Stop police abuse in Las Raices” \( [Photo by Tenerife Students’ platform](https://twitter.com/pestudiantestnf/status/1380837936942481408/photo/1) \)
 
@@ -105,11 +105,11 @@ The Spanish government, which dubbed itself as the “most progressive in histor
 Similar policies are in place in the Spanish enclaves in Northern Africa, Ceuta and Melilla\. No Name Kitchen [wrote a post](https://www.facebook.com/NoNameKitchenBelgrade/posts/1215364352195180) on how Ceuta has become a real cage for many people on the move, “on the one hand, there are the 8 kilometres long and 10 metres high fences that divides Spain and Morocco, on the other, the Mediterranean Sea creates its own natural border\.”
 
 
-![](assets/6dc9ca48f0f/1*oU9_Vi7eUMYbbTT7DJ389g.jpeg)
+![](../assets/6dc9ca48f0f/1*oU9_Vi7eUMYbbTT7DJ389g.jpeg)
 
 
 
-![Ceuta, a border city enclosed by barriers \(Photos by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/1215364352195180) \)](assets/6dc9ca48f0f/1*Q0NPyNv0aGcIc2igYImWig.jpeg)
+![Ceuta, a border city enclosed by barriers \(Photos by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/1215364352195180) \)](../assets/6dc9ca48f0f/1*Q0NPyNv0aGcIc2igYImWig.jpeg)
 
 Ceuta, a border city enclosed by barriers \(Photos by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/1215364352195180) \)
 

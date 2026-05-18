@@ -1,5 +1,5 @@
 ---
-title: AYS Special 2019/2020: A Year of Violence — Monitoring Pushbacks on the Balkan Route
+title: "AYS Special 2019/2020: A Year of Violence — Monitoring Pushbacks on the Balkan Route"
 author: Are You Syrious?
 date: 2020-01-01T22:18:27.346+0000
 last_modified_at: 2020-01-01T22:18:27.346+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,special,digest,borders,migration]
 description: In 2019, The Border Violence Monitoring Network (BVMN) shared the voices of thousands of people pushed back from borders on the Balkan…
 image:
-  path: assets/1f8fbeb46dc3/1*ZRPwA-UW97iLPAce4n5Rlw.png
+  path: ../assets/1f8fbeb46dc3/1*ZRPwA-UW97iLPAce4n5Rlw.png
 ---
 
 ### AYS Special 2019/2020: **A Year of Violence — Monitoring Pushbacks on the Balkan Route**
@@ -18,7 +18,7 @@ image:
 “Pushback” describes the unlegislated expulsion of groups or individuals from one national territory to another, and lies outside the legal framework of “deportations”\. On a daily basis, people\-on\-the\-move are subject to these unlawful removals; a violent process championed by EU member states along the Balkan Route\. In 2019, BVMN continued to shine a spotlight on these actions, perpetrated in the main part by states such as Croatia, Hungary, and Greece\. Supporting actors also included Slovenia and Italy, and non\-member states with the aid of Frontex which has seen its remit and funding widened heading into 2020\.
 
 
-![_Pushback location data from 2019 \(Source: [BVMN\)](https://www.borderviolence.eu/violence-reports/?ri-incident-date-range=2019-01-01%20to%202019-12-24&ri-incident-date-start=20190101&ri-incident-date-end=20191224&ri-incident-location-geo-radius=50&ri-pushback_from=all&ri-pushback_to=all&ri-underage-involved=all&ri-intention-asylum-expressed=all&ri-page=1)_](assets/1f8fbeb46dc3/1*ZRPwA-UW97iLPAce4n5Rlw.png)
+![_Pushback location data from 2019 \(Source: [BVMN\)](https://www.borderviolence.eu/violence-reports/?ri-incident-date-range=2019-01-01%20to%202019-12-24&ri-incident-date-start=20190101&ri-incident-date-end=20191224&ri-incident-location-geo-radius=50&ri-pushback_from=all&ri-pushback_to=all&ri-underage-involved=all&ri-intention-asylum-expressed=all&ri-page=1)_](../assets/1f8fbeb46dc3/1*ZRPwA-UW97iLPAce4n5Rlw.png)
 
 _Pushback location data from 2019 \(Source: [BVMN\)](https://www.borderviolence.eu/violence-reports/?ri-incident-date-range=2019-01-01%20to%202019-12-24&ri-incident-date-start=20190101&ri-incident-date-end=20191224&ri-incident-location-geo-radius=50&ri-pushback_from=all&ri-pushback_to=all&ri-underage-involved=all&ri-intention-asylum-expressed=all&ri-page=1)_
 
@@ -28,7 +28,7 @@ Volunteers and activists worked across the route in 2019 to listen to the voice 
 The highest volume of BVMN reported pushbacks were from Croatia, a state which has been acting as a fulcrum of the EU’s external border policy in the West Balkans\. It’s approximately 1300 kilometer long border with the non\-member states of Bosnia\-Herzegovina, Serbia and Montenegro have been a flashpoint for extremely violent pushbacks\. Even in the challenging winter conditions, people make daily attempts to cross through the mountainous landscape of Croatia and are pushed back from the territory by a web of police actors who deny them the proper procedure and use crude physical abuse as a deterrent\.
 
 
-![_Firearms data recorded until 18th November 2019 \(Source: [BVMN](https://www.borderviolence.eu/croatian-police-shoot-person-in-transit/#more-13911) \)_](assets/1f8fbeb46dc3/1*yfc1nMkc_PwNHE-v8zxB5w.png)
+![_Firearms data recorded until 18th November 2019 \(Source: [BVMN](https://www.borderviolence.eu/croatian-police-shoot-person-in-transit/#more-13911) \)_](../assets/1f8fbeb46dc3/1*yfc1nMkc_PwNHE-v8zxB5w.png)
 
 _Firearms data recorded until 18th November 2019 \(Source: [BVMN](https://www.borderviolence.eu/croatian-police-shoot-person-in-transit/#more-13911) \)_
 
@@ -38,7 +38,7 @@ Of major concern is the huge rise in gun use by Croatian officials against trans
 The use of canine units in the apprehension and expulsion of transit groups is also a telling marker of the extreme violence that characterises pushbacks\. Since the summer of 2019, a spike in the level of brutal dog attacks, and the presence of K9 units during pushbacks has been noted by BVMN\. In a recent case, [one man was mauled by a Croatian police dog](https://www.borderviolence.eu/violence-reports/december-3-2019-0400-zeljava-air-base-hr/) for ten minutes under the direct guidance of the animals police handlers who laughed and shouted, _“good, good”,_ as it almost severed a major blood vessel in the victim’s leg\.
 
 
-![_Left image: Case from MNK \(Source: [BVMN](https://www.borderviolence.eu/violence-reports/september-26-2019-0000-nearby-gevgelija-train-station/) \) \. Right image: Case from Croatia \(Source: [BVMN](https://www.borderviolence.eu/violence-reports/december-3-2019-0400-zeljava-air-base-hr/) \)_](assets/1f8fbeb46dc3/1*a3xOw5kKfsCLhavhZT6D3Q.png)
+![_Left image: Case from MNK \(Source: [BVMN](https://www.borderviolence.eu/violence-reports/september-26-2019-0000-nearby-gevgelija-train-station/) \) \. Right image: Case from Croatia \(Source: [BVMN](https://www.borderviolence.eu/violence-reports/december-3-2019-0400-zeljava-air-base-hr/) \)_](../assets/1f8fbeb46dc3/1*a3xOw5kKfsCLhavhZT6D3Q.png)
 
 _Left image: Case from MNK \(Source: [BVMN](https://www.borderviolence.eu/violence-reports/september-26-2019-0000-nearby-gevgelija-train-station/) \) \. Right image: Case from Croatia \(Source: [BVMN](https://www.borderviolence.eu/violence-reports/december-3-2019-0400-zeljava-air-base-hr/) \)_
 
@@ -48,7 +48,7 @@ Fortunately, the man survived, but with permanent injuries that he nurses still 
 K9 units and guns are ultra\-violent policing methods that contribute directly to the blocking of asylum access\. In the first eleven months of 2019, over 60% of Croatian pushbacks to Bosnia\-Herzegovina saw groups make a verbal request for asylum\. Yet in these cases, group members were pushed back from the territory without having their case heard, in direct contravention of [European asylum law](https://ec.europa.eu/home-affairs/what-we-do/policies/asylum_en) \.
 
 
-![](assets/1f8fbeb46dc3/0*lZHhrRSkfYCMLdXk)
+![](../assets/1f8fbeb46dc3/0*lZHhrRSkfYCMLdXk)
 
 
 _Statistics filtered from the shared database on pushbacks HR — BiH from January — November 2019 \(Source: [BVMN](https://www.borderviolence.eu/violence-reports/?ri-incident-date-range=2019-01-01%20to%202019-12-23&ri-incident-date-start=20190101&ri-incident-date-end=20191223&ri-incident-location-geo-radius=50&ri-pushback_from=Croatia&ri-pushback_to=Bosnia&ri-underage-involved=all&ri-intention-asylum-expressed=all&ri-page=1) \)_
@@ -61,7 +61,7 @@ Most pushbacks occur at remote areas of the green border, especially at night, w
 A recent [case from November](https://www.borderviolence.eu/violence-reports/october-31-2019-1800-korana-river-south-of-sturlic-bcp/) combined the use of firearms with this dangerous use of wet borders\. A group of Algerians were pushed into a river by Croatian officers who were returning them to Bosnia\-Herzegovina\.
 
 
-![_Pushback site where Korana river runs parallel to the HR/BiH border \(Source: [BVMN](https://www.borderviolence.eu/violence-reports/october-31-2019-1800-korana-river-south-of-sturlic-bcp/) \)_](assets/1f8fbeb46dc3/1*3HF9Ew41ynfpT-68DL2F7Q.png)
+![_Pushback site where Korana river runs parallel to the HR/BiH border \(Source: [BVMN](https://www.borderviolence.eu/violence-reports/october-31-2019-1800-korana-river-south-of-sturlic-bcp/) \)_](../assets/1f8fbeb46dc3/1*3HF9Ew41ynfpT-68DL2F7Q.png)
 
 _Pushback site where Korana river runs parallel to the HR/BiH border \(Source: [BVMN](https://www.borderviolence.eu/violence-reports/october-31-2019-1800-korana-river-south-of-sturlic-bcp/) \)_
 

@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,rohingya,frontex,uk,spain]
 description: MEPs calling on Frontex head to resign// Mental health crisis in UK detention centres as NGOs forced to sign a non-disclosure agreement //…
 image:
-  path: assets/8cd4eedeb004/0*td9YSqrSx8KJBAV9.jpeg
+  path: ../assets/8cd4eedeb004/0*td9YSqrSx8KJBAV9.jpeg
 ---
 
 ### AYS Daily Digest 04/12/2020 — Twice displaced? Forced relocation of Rohingya refugees in Bangladesh
 ### MEPs calling on Frontex head to resign// Mental health crisis in UK detention centres as NGOs forced to sign a non\-disclosure agreement // Harsh conditions in Spain, Greece and Bosnia
 
 
-![](assets/8cd4eedeb004/0*u06Gnql-b4hEh1iG.jpeg)
+![](../assets/8cd4eedeb004/0*u06Gnql-b4hEh1iG.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----898a4addd217--------------------------------)
@@ -22,11 +22,11 @@ image:
 [Dec 5](ays-daily-digest-04-12-2020-twice-displaced-forced-relocation-of-rohingya-refugees-in-bangladesh-898a4addd217?source=post_page-----898a4addd217--------------------------------) · 11 min read
 
 
-![](assets/8cd4eedeb004/0*lHZsD8z3kHAyDs9d)
+![](../assets/8cd4eedeb004/0*lHZsD8z3kHAyDs9d)
 
 
 
-![](assets/8cd4eedeb004/0*td9YSqrSx8KJBAV9.jpeg)
+![](../assets/8cd4eedeb004/0*td9YSqrSx8KJBAV9.jpeg)
 
 ### BANGLADESH
 ### Forced relocation of Rohingya refugees on remote island sparks concerns
@@ -74,11 +74,11 @@ Check out the whole recording [here](https://www.guengl.eu/events/the-migration-
 MOAS, the very first Search And Rescue NGO to operate in the Mediterranean starting in 2014, has [announced its return to the Central Mediterranean](https://www.moas.eu/moas-returns-to-sea-to-save-lives-in-partnership-with-the-ngo-sea-eye/?fbclid=IwAR2fxF3vfILwGRR2JkNB9icK8JNFfAIUKaRJYsL6NfKzI2Ciyg08UevdY5s) , alongside its new partner Sea\-Eye, to conduct Search and Rescue \(SAR\) operations that will save lives at sea and raise awareness of the ongoing tragedy unfolding on Europe’s doorstep\. MOAS will be operating on board the new rescue ship Sea\-Eye 4, and will be providing personnel, resources, strategic input and expertise\.
 
 
-![](assets/8cd4eedeb004/0*9vZ_-rH032GyPqII)
+![](../assets/8cd4eedeb004/0*9vZ_-rH032GyPqII)
 
 
 
-![](assets/8cd4eedeb004/0*5cRxXsKxXEDj-IK7.jpeg)
+![](../assets/8cd4eedeb004/0*5cRxXsKxXEDj-IK7.jpeg)
 
 ### UK
 ### NGOs providing support to migrants in the UK detention centre of Napier \(Kent\) have been asked to sign a non\-disclosure agreement
@@ -176,11 +176,11 @@ These are attempts to change the narrative following the latest disclosures of p
 ### Life rafts in the Aegean Sea
 
 
-![](assets/8cd4eedeb004/0*dJrhkkArRKFSHivP)
+![](../assets/8cd4eedeb004/0*dJrhkkArRKFSHivP)
 
 
 
-![](assets/8cd4eedeb004/0*BNypLryF96gE6tQQ.jpeg)
+![](../assets/8cd4eedeb004/0*BNypLryF96gE6tQQ.jpeg)
 
 
 Aegean Boat Report [notifies](https://www.facebook.com/AegeanBoatReport/posts/984204052102699) of a strange phenomenon of more and more life rafts in the Aegean Sea:

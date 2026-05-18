@@ -1,20 +1,20 @@
 ---
-title: AYS Daily News Digest 1/3/19: Announced changes in the system, while dubious border practice…
+title: "AYS Daily News Digest 1/3/19: Announced changes in the system, while dubious border practice…"
 author: Are You Syrious?
 date: 2019-03-02T10:34:52.802+0000
 last_modified_at: 2019-03-02T11:24:37.971+0000
 categories: Are You Syrious?
 tags: [refugees,digest,europe,asylum,switzerland]
-description: Greece: renewing Residence Permits info / calls for volunteering and aid collection / Internal pushbacks in Bosnia continue, why aren’t…
+description: "Greece: renewing Residence Permits info / calls for volunteering and aid collection / Internal pushbacks in Bosnia continue, why aren’t…"
 image:
-  path: assets/88754f60b06f/1*287-mmCm5jsn6-UziFAhlA.jpeg
+  path: ../assets/88754f60b06f/1*287-mmCm5jsn6-UziFAhlA.jpeg
 ---
 
 ### AYS Daily News Digest 1/3/19: Announced changes in the system, while dubious border practice continues
 #### Greece: renewing Residence Permits info / calls for volunteering and aid collection / Internal pushbacks in Bosnia continue, why aren’t organisations being vocal about it? / Changes in Dublin system announced / AIDA Report 2018 for Switzerland is out / ECRE info from Bulgaria / French volunteers struggle / more news
 
 
-![Photo: S [olidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__tn__=%2CdkCH-R-R&eid=ARCxKRI5ZbysDnyeRR343a9IkkomFBwQ43Jmpo4qt-xWuWkGH3IxAQVz9dSHdScsCJHeb3V3zE-QJ1jJ&hc_ref=ARTjCSFUKLQLJ2ZYwK8EHD9gH6FGzCOsFM1LoJKuRPQQiitbRnfEu7j3z7zUxOFLH-E)](assets/88754f60b06f/1*287-mmCm5jsn6-UziFAhlA.jpeg)
+![Photo: S [olidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__tn__=%2CdkCH-R-R&eid=ARCxKRI5ZbysDnyeRR343a9IkkomFBwQ43Jmpo4qt-xWuWkGH3IxAQVz9dSHdScsCJHeb3V3zE-QJ1jJ&hc_ref=ARTjCSFUKLQLJ2ZYwK8EHD9gH6FGzCOsFM1LoJKuRPQQiitbRnfEu7j3z7zUxOFLH-E)](../assets/88754f60b06f/1*287-mmCm5jsn6-UziFAhlA.jpeg)
 
 Photo: S [olidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__tn__=%2CdkCH-R-R&eid=ARCxKRI5ZbysDnyeRR343a9IkkomFBwQ43Jmpo4qt-xWuWkGH3IxAQVz9dSHdScsCJHeb3V3zE-QJ1jJ&hc_ref=ARTjCSFUKLQLJ2ZYwK8EHD9gH6FGzCOsFM1LoJKuRPQQiitbRnfEu7j3z7zUxOFLH-E)
 #### FEATURE
@@ -43,7 +43,7 @@ Photo: S [olidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-m
 AYS has confirmed with the Embassy that they know nothing about this, and we hope to get some answers and information from the Croatian police\. We will publish updates\.
 
 
-![](assets/88754f60b06f/1*0ud0P34eJtEj5wHwpO4T4g.jpeg)
+![](../assets/88754f60b06f/1*0ud0P34eJtEj5wHwpO4T4g.jpeg)
 
 #### SYRIA
 
@@ -78,7 +78,7 @@ The national parliaments of six member states \(Hungary, Slovakia, Czech Republi
 #### GREECE
 
 
-![[Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?tn-str=k%2AF) monthly report](assets/88754f60b06f/1*U5rMFkgszVlzZLMl34zC_Q.jpeg)
+![[Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?tn-str=k%2AF) monthly report](../assets/88754f60b06f/1*U5rMFkgszVlzZLMl34zC_Q.jpeg)
 
 [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?tn-str=k%2AF) monthly report
 ### Lesvos
@@ -86,7 +86,7 @@ The national parliaments of six member states \(Hungary, Slovakia, Czech Republi
 [Lighthouse Relief](https://www.facebook.com/lighthouserelief/?__tn__=%2CdkCH-R-R&eid=ARAHFVSwdej4yqMeDqCnZGOTuaSA6K1A8XvDp4sF2_zftxJ0gSL_mxB0BH6KoHH8wSOzbGAAZYHMS5F9&hc_ref=ARRz1o1i8KVaRcVfQkHNT7PVd3Ij_o3gZp44mThLKlX8Ov-_Rk1pJcUklMT01pyC9VU&fref=nf) is collecting shoes for refugees on Lesvos\. Join them in the action and help\!
 
 
-![](assets/88754f60b06f/1*m3BGNeImvypl4WOl85q-Ww.png)
+![](../assets/88754f60b06f/1*m3BGNeImvypl4WOl85q-Ww.png)
 
 ### How to renew your Residence Permit
 
@@ -148,13 +148,13 @@ They slept outside for the whole night, and in the morning local volunteers foun
 A newborn baby was in the group\.
 
 
-![](assets/88754f60b06f/1*T44MXJE6xEQRQSPZd8ZVKQ.jpeg)
+![](../assets/88754f60b06f/1*T44MXJE6xEQRQSPZd8ZVKQ.jpeg)
 
 #### SLOVENIA
 ### Where They Call Detention a “Limitation of Movement”
 
 
-![](assets/88754f60b06f/1*TVSKCwEZPnAzhHz6zsXlQg.png)
+![](../assets/88754f60b06f/1*TVSKCwEZPnAzhHz6zsXlQg.png)
 
 
 In the past months, AYS has continued to receive testimonies of people who are being pushed back from Slovenia to Croatia \(and further on, to Bosnia and Herzegovina\), and of people whose trace has been lost since they were apprehended by the Slovenian border police\. Having bought barbed wire made by Hungarian convicts, a few years ago Slovenia erected wire fencing along its border with Croatia, and introduced stringent new asylum legislation\. **Non\-citizens have a mere three days to appeal their detention and detainees must pay the cost of their confinement** \. Additionally, unaccompanied children and families are regularly placed in the country’s sole immigration detention centre, and “alternatives to detention” are rarely used because migrants can’t afford to pay for private accommodation\. Here is what the recent [Global Detention Project’s report on detention in Slovenia](https://www.globaldetentionproject.org/wp-content/uploads/2019/03/GDP-Immigration-Detention-in-Slovenia-2019.pdf) says:
@@ -215,11 +215,11 @@ We send our support to fellow volunteers and invite all of you reading this to s
 “After the evacuation of four weeks ago from the camps of the avenue of President\-Wilson in [\#saintdenis](https://www.facebook.com/hashtag/saintdenis?hc_location=ufi) people have arrived or returned to the avenue\. So this morning a dozen volunteers have relayed to offer tea / coffee and snacks\. The number s getting bigger\. In the first few days after the evacuation, there were 3 OR 4 tents\. A dozen days ago we counted 21… and this morning 29, with more than 5 OR 6 people who sleep muffled in duvets and without tent\.”
 
 
-![](assets/88754f60b06f/1*JFjvrTw8bDFJyFl1lF5mug.jpeg)
+![](../assets/88754f60b06f/1*JFjvrTw8bDFJyFl1lF5mug.jpeg)
 
 
 
-![Photos: [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__tn__=%2CdkCH-R-R&eid=ARCxKRI5ZbysDnyeRR343a9IkkomFBwQ43Jmpo4qt-xWuWkGH3IxAQVz9dSHdScsCJHeb3V3zE-QJ1jJ&hc_ref=ARTjCSFUKLQLJ2ZYwK8EHD9gH6FGzCOsFM1LoJKuRPQQiitbRnfEu7j3z7zUxOFLH-E)](assets/88754f60b06f/1*287-mmCm5jsn6-UziFAhlA.jpeg)
+![Photos: [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__tn__=%2CdkCH-R-R&eid=ARCxKRI5ZbysDnyeRR343a9IkkomFBwQ43Jmpo4qt-xWuWkGH3IxAQVz9dSHdScsCJHeb3V3zE-QJ1jJ&hc_ref=ARTjCSFUKLQLJ2ZYwK8EHD9gH6FGzCOsFM1LoJKuRPQQiitbRnfEu7j3z7zUxOFLH-E)](../assets/88754f60b06f/1*287-mmCm5jsn6-UziFAhlA.jpeg)
 
 Photos: [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__tn__=%2CdkCH-R-R&eid=ARCxKRI5ZbysDnyeRR343a9IkkomFBwQ43Jmpo4qt-xWuWkGH3IxAQVz9dSHdScsCJHeb3V3zE-QJ1jJ&hc_ref=ARTjCSFUKLQLJ2ZYwK8EHD9gH6FGzCOsFM1LoJKuRPQQiitbRnfEu7j3z7zUxOFLH-E)
 
@@ -248,11 +248,11 @@ The young Afghani we had previously reported about was deported from France, [So
 [Plateforme citoyenne de soutien aux réfugiés Bruxelles](https://www.facebook.com/bxlrefugees/?tn-str=k%2AF&hc_location=group_dialog) posted an urgent call for volunteers:
 
 
-![](assets/88754f60b06f/1*gePyA2pqk56lOwygPhF6AA.jpeg)
+![](../assets/88754f60b06f/1*gePyA2pqk56lOwygPhF6AA.jpeg)
 
 
 
-![](assets/88754f60b06f/1*DuY3dO2o5BRz63AvrXSBGw.jpeg)
+![](../assets/88754f60b06f/1*DuY3dO2o5BRz63AvrXSBGw.jpeg)
 
 #### SWITZERLAND
 ### AIDA Report 2018

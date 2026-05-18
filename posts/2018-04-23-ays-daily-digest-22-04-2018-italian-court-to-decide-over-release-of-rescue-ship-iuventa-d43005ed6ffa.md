@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 22/04/2018: Italian court to decide on release of rescue ship Iuventa
+title: "AYS DAILY DIGEST 22/04/2018: Italian court to decide on release of rescue ship Iuventa"
 author: Are You Syrious?
 date: 2018-04-23T08:43:29.174+0100
 last_modified_at: 2018-04-23T09:53:11.490+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest]
 description: Far-right groups attack refugees on Lesvos//Génération Identitaire tries to obstruct border between Italy and France// More than 1,000…
 image:
-  path: assets/d43005ed6ffa/1*rhp6qF6qWcuJ7z7XtOMEUg.png
+  path: ../assets/d43005ed6ffa/1*rhp6qF6qWcuJ7z7XtOMEUg.png
 ---
 
 ### AYS DAILY DIGEST 22/04/2018: Italian court to decide on release of rescue ship Iuventa
@@ -15,7 +15,7 @@ image:
 _Far\-right groups attack refugees on Lesvos//Génération Identitaire tries to obstruct border between Italy and France// More than 1,000 people have crossed Evros river since March//_
 
 
-![Solidarity with Jugend Rettet from Sea\-Eye](assets/d43005ed6ffa/1*rhp6qF6qWcuJ7z7XtOMEUg.png)
+![Solidarity with Jugend Rettet from Sea\-Eye](../assets/d43005ed6ffa/1*rhp6qF6qWcuJ7z7XtOMEUg.png)
 
 Solidarity with Jugend Rettet from Sea\-Eye
 #### Feature
@@ -27,14 +27,14 @@ The absolute need for rescue ships is evident every day\. Open Arms Pro Activa w
 ### Far\-right attacks refugees on Lesvos
 
 
-![Photo by Philippa Kempson](assets/d43005ed6ffa/1*E40omUsEEnIrXSOfAHyvDg.png)
+![Photo by Philippa Kempson](../assets/d43005ed6ffa/1*E40omUsEEnIrXSOfAHyvDg.png)
 
 Photo by Philippa Kempson
 
 Far\-right groups have violently attacked refugees on Sapphous Square, Lesvos, launching flares, bottles and stones at them\. Riot police have been forming a line between the two groups and the refugee men have formed a circle around the women and children to protect them from harm, using simple blankets to protect themselves from the objects hurled at them\.
 
 
-![Photo from Pikpa](assets/d43005ed6ffa/1*hfHrJdjdooCQiraMMN2tsg.png)
+![Photo from Pikpa](../assets/d43005ed6ffa/1*hfHrJdjdooCQiraMMN2tsg.png)
 
 Photo from Pikpa
 
@@ -46,13 +46,13 @@ Several people have been injured and activists say the attack was organized and 
 ### Protest in front of the Petrou Ralli detention facility
 
 
-![](assets/d43005ed6ffa/1*2qkZ-esnru-1jBcHGxZhrA.png)
+![](../assets/d43005ed6ffa/1*2qkZ-esnru-1jBcHGxZhrA.png)
 
 
 A protest was held on Saturday in front of the detention facility Petrou Ralli, where a few hundred people remain detained under inhumane conditions, exposed to police violence and mistreatment\. The protest was another action in the campaign ahead of tomorrow’s trial in Chios against the Moria 35 and Friday’s trial in Athens against eight Algerian men detained inside Petrou Ralli\.
 
 
-![](assets/d43005ed6ffa/1*0G40r6CBJJi8a0J3TUWqSA.png)
+![](../assets/d43005ed6ffa/1*0G40r6CBJJi8a0J3TUWqSA.png)
 
 ### IFRC warns against sharp rise in Evros crossings
 
@@ -61,7 +61,7 @@ The International Federation of Red Cross and Red Crescent Societies \(IFRC\) is
 ### “Génération Identitaire” tries to obstruct border and anti\-fascists cross the border in return
 
 
-![Activists cross the border\. Photo by Rose Lecat](assets/d43005ed6ffa/1*cxe0hTmZJkITpiqTnm7xZg.png)
+![Activists cross the border\. Photo by Rose Lecat](../assets/d43005ed6ffa/1*cxe0hTmZJkITpiqTnm7xZg.png)
 
 Activists cross the border\. Photo by Rose Lecat
 
@@ -89,7 +89,7 @@ Ramadan is starting in three weeks and Care4 Calais is preparing for the occasio
 ### Baobab Experience needs donations
 
 
-![](assets/d43005ed6ffa/1*RipoX0B-ePtlxKJmCyzF7Q.png)
+![](../assets/d43005ed6ffa/1*RipoX0B-ePtlxKJmCyzF7Q.png)
 
 
 Baobab Experience in Rome says it is in urgent need of donations, in particular tea bags, sugar, instant coffee, blankets, brooms, dustpans, water bottles, and the disinfectant Amuchina\. Goods can be dropped off every day during food distribution, between 1–2 p\.m\. and 7–9:30 p\.m\.

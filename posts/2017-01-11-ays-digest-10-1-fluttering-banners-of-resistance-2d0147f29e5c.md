@@ -1,5 +1,5 @@
 ---
-title: AYS Digest 10/1: Fluttering banners of resistance
+title: "AYS Digest 10/1: Fluttering banners of resistance"
 author: Are You Syrious?
 date: 2017-01-11T01:24:01.542+0000
 last_modified_at: 2017-01-11T01:24:01.542+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: UNHCR declares Afghanistan unsafe country. IOM report on refugees in Turkey highlight extent of refugee crisis. Official response to…
 image:
-  path: assets/2d0147f29e5c/1*m2d7EC0nPhJklEHF2nUFeg.jpeg
+  path: ../assets/2d0147f29e5c/1*m2d7EC0nPhJklEHF2nUFeg.jpeg
 ---
 
 ### AYS Digest 10/1: Fluttering banners of resistance
@@ -15,7 +15,7 @@ image:
 _UNHCR declares Afghanistan unsafe country\. IOM report on refugees in Turkey highlight extent of refugee crisis\. Official response to winterization failure staggeringly insufficient, outmatched by human response\. Italians getting refugees off the streets\. Serbian organizations scrambling to resolve catastrophic failure of state humanitarian apparatus\._
 
 
-![Photo credit: AYS](assets/2d0147f29e5c/1*m2d7EC0nPhJklEHF2nUFeg.jpeg)
+![Photo credit: AYS](../assets/2d0147f29e5c/1*m2d7EC0nPhJklEHF2nUFeg.jpeg)
 
 Photo credit: AYS
 ### GERMANY
@@ -39,7 +39,7 @@ UNHCR sees a lot of issues with deportations to Afghanistan\. The threat for cit
 Hopefully, UNHCR’s stalwart conclusions will put pressure onto the German government to abandon their current deportation program in favor of more humane and functional integration and resettlement solutions\. It is also the hope of many that this will herald a new precedent of UNHCR reassessments of previously declared “safe countries” in order to minimize the risk of traumatized individuals being forcibly deported into harm’s way\.
 
 
-![Photo Credit: Refugee Solidarity Movement Thessaloniki\-Eidomeni](assets/2d0147f29e5c/1*eBn43yBWmHCfaLNtmV4zmQ.jpeg)
+![Photo Credit: Refugee Solidarity Movement Thessaloniki\-Eidomeni](../assets/2d0147f29e5c/1*eBn43yBWmHCfaLNtmV4zmQ.jpeg)
 
 Photo Credit: Refugee Solidarity Movement Thessaloniki\-Eidomeni
 ### TURKEY
@@ -62,7 +62,7 @@ Speaking of numbers, according to refugee\.info, 7280 people have been relocated
 Meanwhile, the EU commission has issued a strong criticism of the failure to prepare for winter in Greece, stating that the situation was “ [untenable](http://www.keeptalkinggreece.com/2017/01/10/eu-commission-untenable-situation-in-greeces-refugee-camps/?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+KeepTalkingGreece+%28Keep+Talking+Greece%29) \.” Although this is, indeed, true, it appears to be another case of “too little, too late”
 
 
-![Photo courtesy of Che Brandes\-Tuka](assets/2d0147f29e5c/1*mtdyhwENvRXvIHQUTIsytA.jpeg)
+![Photo courtesy of Che Brandes\-Tuka](../assets/2d0147f29e5c/1*mtdyhwENvRXvIHQUTIsytA.jpeg)
 
 Photo courtesy of Che Brandes\-Tuka
 
@@ -71,7 +71,7 @@ With temperatures remaining below \-5 Celsius across much of Greece, some action
 Volunteers at InterVolve report that the employees of large NGOs at Softex largely abandoned the camp due to the fact that “no one should be working in these conditions\.” Volunteers figured that if people were expected to live in these conditions, they could be expected to work\.
 
 
-![Photo Credit: Chloe Kousoula](assets/2d0147f29e5c/1*nvfTdZ7IhnuySEKv8cyOXA.jpeg)
+![Photo Credit: Chloe Kousoula](../assets/2d0147f29e5c/1*nvfTdZ7IhnuySEKv8cyOXA.jpeg)
 
 Photo Credit: Chloe Kousoula
 
@@ -85,7 +85,7 @@ The group [Khora](https://www.facebook.com/KhoraAthens/) posted this chilling up
 
 
 
-![Moria Photo Courtesy of Khora](assets/2d0147f29e5c/1*IOtMH1rQy-AIX4jM3ul6lA.jpeg)
+![Moria Photo Courtesy of Khora](../assets/2d0147f29e5c/1*IOtMH1rQy-AIX4jM3ul6lA.jpeg)
 
 Moria Photo Courtesy of Khora
 
@@ -141,14 +141,14 @@ AYS volunteers recently helped Khora and provide the following, heartwarming rep
 
 
 
-![Photo Credit: AYS](assets/2d0147f29e5c/1*5ZUlX0PNSNba986EDU7KtA.jpeg)
+![Photo Credit: AYS](../assets/2d0147f29e5c/1*5ZUlX0PNSNba986EDU7KtA.jpeg)
 
 Photo Credit: AYS
 
 In spite of these horrifying circumstances, many refugees look to care for those around them, finding solidarity in the plight of the homeless of Greece\. The video report contains more details on these ongoing acts of kindness\.
 
 
-[![Refugees in Greece defy extreme cold to help the homeless](assets/2d0147f29e5c/27e4_hqdefault.jpg "Refugees in Greece defy extreme cold to help the homeless")](http://www.youtube.com/watch?v=rXuh7xZW_E0)
+[![Refugees in Greece defy extreme cold to help the homeless](../assets/2d0147f29e5c/27e4_hqdefault.jpg "Refugees in Greece defy extreme cold to help the homeless")](http://www.youtube.com/watch?v=rXuh7xZW_E0)
 
 
 As the bureaucratic entities continue to only expedite procedures that push people out and back, it comes to the spirit of regular people reaching out to make life\-saving changes to the world\.
@@ -173,7 +173,7 @@ _The fight against winter continues in Serbia, with organizations joining forces
 Organizations in Belgrade continue to scramble to make small modifications to the makeshift sleeping spaces for the thousands on the streets\. MSF installed several heaters in the barracks, but are [quick to point out](https://twitter.com/MSF_Sea/status/818777711460106243) that this is not a viable solution to the crisis\.
 
 
-![Miksaliste 2\.0 Photo credit: Borderfree Association](assets/2d0147f29e5c/1*yaUNMRx8hOJ5u616NgHtAw.jpeg)
+![Miksaliste 2\.0 Photo credit: Borderfree Association](../assets/2d0147f29e5c/1*yaUNMRx8hOJ5u616NgHtAw.jpeg)
 
 Miksaliste 2\.0 Photo credit: Borderfree Association
 

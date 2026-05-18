@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 6–7/3/2021: Solidarity along the Balkan route
+title: "AYS Weekend Digest 6–7/3/2021: Solidarity along the Balkan route"
 author: Are You Syrious?
 date: 2021-03-08T17:35:25.072+0000
 last_modified_at: 2021-03-08T17:35:25.072+0000
@@ -7,18 +7,18 @@ categories: Are You Syrious?
 tags: [balkan-route,solidarity,refugees,un-ponte-di-corpi,digest]
 description: Arrivals and fear of pushbacks on Lesvos // EU Commissioner visits Leros and Kos // Demonstrations in the Canary islands // Updates from…
 image:
-  path: assets/2b7e54152894/0*nu4MYzeT5wtBIljk.jpeg
+  path: ../assets/2b7e54152894/0*nu4MYzeT5wtBIljk.jpeg
 ---
 
 ### AYS Weekend Digest 6–7/3/2021: Solidarity along the Balkan route
 #### Arrivals and fear of pushbacks on Lesvos // EU Commissioner visits Leros and Kos // Demonstrations in the Canary islands // Updates from the UK\.
 
 
-![](assets/2b7e54152894/0*py2T-61cKPL3MuVj)
+![](../assets/2b7e54152894/0*py2T-61cKPL3MuVj)
 
 
 
-![](assets/2b7e54152894/0*nu4MYzeT5wtBIljk.jpeg)
+![](../assets/2b7e54152894/0*nu4MYzeT5wtBIljk.jpeg)
 
 ### Featured — Solidarity along the Balkan route
 
@@ -27,19 +27,19 @@ Following the police investigation on Lorena Fornasir, Gian Andrea Franchi and f
 On Saturday, Lorena Fornasir and other women went to Maljevac, on the Croatian side of the border with Bosnia, within the initiative [_Un Ponte di Corpi_](https://www.facebook.com/unpontedicorpi/posts/117262203743912) \(A Bridge of Bodies\):
 
 
-![](assets/2b7e54152894/0*lkiizhk2oXcOJidt)
+![](../assets/2b7e54152894/0*lkiizhk2oXcOJidt)
 
 
 
-![](assets/2b7e54152894/0*gysrZDVRck6Opz23.jpeg)
+![](../assets/2b7e54152894/0*gysrZDVRck6Opz23.jpeg)
 
 
 
-![](assets/2b7e54152894/0*NO-BGhl-nUhRpvHt)
+![](../assets/2b7e54152894/0*NO-BGhl-nUhRpvHt)
 
 
 
-![](assets/2b7e54152894/0*ShhePrptV8wUH5Fc.jpeg)
+![](../assets/2b7e54152894/0*ShhePrptV8wUH5Fc.jpeg)
 
 
 
@@ -74,11 +74,11 @@ On Saturday, Lorena Fornasir and other women went to Maljevac, on the Croatian s
 
 
 
-![](assets/2b7e54152894/0*omOGeItGuahEv-d7)
+![](../assets/2b7e54152894/0*omOGeItGuahEv-d7)
 
 
 
-![](assets/2b7e54152894/0*N4AdJFBLQ7Fh6WUm)
+![](../assets/2b7e54152894/0*N4AdJFBLQ7Fh6WUm)
 
 
 March 6 — Un Ponte di Corpi in Clavière \(Left\) and in Trieste \(Right\) — Photos by [Fabrizio Maffioletti](https://www.pressenza.com/it/2021/03/un-ponte-di-corpi-a-claviere/) and [Ginevra Battistini](https://www.facebook.com/ginevra.battistini/posts/3736162239804336)
@@ -88,7 +88,7 @@ The initiative was [live streamed](https://www.facebook.com/unpontedicorpi/video
 Lesvos Calling Campaign launched “ [Caravan for Freedom of Movement](https://www.facebook.com/events/259467152440380/) ” from Trieste to Maljevac for Saturday 17th of April\.
 
 
-![](assets/2b7e54152894/0*7_o4dB01NWcc2dO5)
+![](../assets/2b7e54152894/0*7_o4dB01NWcc2dO5)
 
 
 \(By [Campagna Lesvos Calling](https://www.facebook.com/events/259467152440380/) \)
@@ -119,7 +119,7 @@ On the 6th of March the Turkish Coast Guard informed them that 8 men, 5 women an
 The two Greek politicians [visited](https://twitter.com/nmitarakis/status/1368154077239115776) the hotspots on both islands, the sites chosen for the new closed/controlled structures, and the [Frontex office](https://twitter.com/Frontex/status/1368188322741432320) in Kos\.
 
 
-![](assets/2b7e54152894/0*-UK0ITtrHyZYv7Oy)
+![](../assets/2b7e54152894/0*-UK0ITtrHyZYv7Oy)
 
 
 “EU Commissioner Margaritis Schinias on Saturday visited the Greek island of Leros and was shown, along with Migration Minister Notis Mitarakis, the site where the new closed\-access refugee reception center will be built\. What is the anticipated capacity of the new facility?” \(by [Daphne Tolis](https://twitter.com/daphnetoli/status/1368168213197053954/photo/1) \)

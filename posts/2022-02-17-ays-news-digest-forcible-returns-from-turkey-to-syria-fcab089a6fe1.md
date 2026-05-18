@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest: Forcible Returns from Turkey to Syria
+title: "AYS News Digest: Forcible Returns from Turkey to Syria"
 author: Are You Syrious?
 date: 2022-02-17T14:24:01.550+0000
 last_modified_at: 2022-02-17T14:24:01.550+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,turkey,poland,refugees,europe]
 description: Plans to Receive Ukrainian Nationals in Neighbouring Countries / EU Funding in Ethiopian Migration Policy / #EvacuateRefugeesFromLibya /…
 image:
-  path: assets/fcab089a6fe1/0*QLJslmalU_B5HoFW
+  path: ../assets/fcab089a6fe1/0*QLJslmalU_B5HoFW
 ---
 
 ### AYS News Digest: Forcible Returns from Turkey to Syria
 #### Plans to Receive Ukrainian Nationals in Neighbouring Countries / EU Funding in Ethiopian Migration Policy / \#EvacuateRefugeesFromLibya / news and reports along with some recommended reads from our Info Team members
 
 
-![“Back on \#Samos, 6 months after the opening of the new camp in September 2021 — the majority of the people in the ‘Closed Controlled Access Centre’ are from \#Somalia \(40%\), followed by men, women and children from \#Afghanistan \(10%\) and \#Syria \(7%\),” journalist Franziska Grillmeier reports\.](assets/fcab089a6fe1/0*QLJslmalU_B5HoFW)
+![“Back on \#Samos, 6 months after the opening of the new camp in September 2021 — the majority of the people in the ‘Closed Controlled Access Centre’ are from \#Somalia \(40%\), followed by men, women and children from \#Afghanistan \(10%\) and \#Syria \(7%\),” journalist Franziska Grillmeier reports\.](../assets/fcab089a6fe1/0*QLJslmalU_B5HoFW)
 
 “Back on \#Samos, 6 months after the opening of the new camp in September 2021 — the majority of the people in the ‘Closed Controlled Access Centre’ are from \#Somalia \(40%\), followed by men, women and children from \#Afghanistan \(10%\) and \#Syria \(7%\),” journalist Franziska Grillmeier reports\.
 #### FEATURE
@@ -28,7 +28,7 @@ Many deportee witnesses interviewed by STJ said they had lost their jobs, their 
 Some deportees also referred to “family\-level deportations”\.
 
 
-![](assets/fcab089a6fe1/0*G2Le4U8bxnW7n3FU)
+![](../assets/fcab089a6fe1/0*G2Le4U8bxnW7n3FU)
 
 #### SEARCH AND RESCUE AT SEA
 

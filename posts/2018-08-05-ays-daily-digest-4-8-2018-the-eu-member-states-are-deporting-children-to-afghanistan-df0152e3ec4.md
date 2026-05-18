@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 4/8/2018: The EU member states are deporting children to Afghanistan
+title: "AYS DAILY DIGEST 4/8/2018: The EU member states are deporting children to Afghanistan"
 author: Are You Syrious?
 date: 2018-08-05T11:52:36.995+0100
 last_modified_at: 2018-08-05T18:55:03.580+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [the-netherlands,refugees,asylum-seekers,bosnia,digest]
 description: One third of the 10,453 killed and wounded in 2017 in Afghanistan were minors // During the first half of this year, 1,692 citizens were…
 image:
-  path: assets/df0152e3ec4/1*PHcrIRWUHgLUZYnGrzmvoQ.jpeg
+  path: ../assets/df0152e3ec4/1*PHcrIRWUHgLUZYnGrzmvoQ.jpeg
 ---
 
 ### AYS DAILY DIGEST 4/8/2018: The EU member states are deporting children to Afghanistan
@@ -15,7 +15,7 @@ image:
 _One third of the 10,453 killed and wounded in 2017 in Afghanistan were minors // During the first half of this year, 1,692 citizens were killed in Afghanistan // This year 1,500 human beings have lost their lives in attempt to cross the Mediterranean // Removing walls and fences is what we as citizens have to do — example from Ventimiglia // UNHCR Greece called police on people who came to ask about cash cards // New rules on asylum in France_
 
 
-![Photo by [Faces Before Numbers](https://www.facebook.com/FacesBeforeNumbers/?hc_ref=ARTbI236tnDkUGPb7UUqSNVPcxmxFnp_8vKKrO0PPyjsD9xkwaJY7iXKXFDP9K2_Kyc&fref=nf&hc_location=group)](assets/df0152e3ec4/1*PHcrIRWUHgLUZYnGrzmvoQ.jpeg)
+![Photo by [Faces Before Numbers](https://www.facebook.com/FacesBeforeNumbers/?hc_ref=ARTbI236tnDkUGPb7UUqSNVPcxmxFnp_8vKKrO0PPyjsD9xkwaJY7iXKXFDP9K2_Kyc&fref=nf&hc_location=group)](../assets/df0152e3ec4/1*PHcrIRWUHgLUZYnGrzmvoQ.jpeg)
 
 Photo by [Faces Before Numbers](https://www.facebook.com/FacesBeforeNumbers/?hc_ref=ARTbI236tnDkUGPb7UUqSNVPcxmxFnp_8vKKrO0PPyjsD9xkwaJY7iXKXFDP9K2_Kyc&fref=nf&hc_location=group)
 #### Feature: The EU is sending children to death
@@ -34,7 +34,7 @@ The coalition of twelve human and child rights organisations have been fighting 
 Over the last seven months, more than 1,500 human beings have lost their lives in attempt to cross the Mediterranean\.
 
 
-![](assets/df0152e3ec4/1*4TovSuinIhQkWF0g_oatww.jpeg)
+![](../assets/df0152e3ec4/1*4TovSuinIhQkWF0g_oatww.jpeg)
 
 
 The number of those who died could be much higher if there were no NGOs and volunteers saving them from the sea\. However, the authorities are doing everything to prevent them from this mission\.
@@ -47,7 +47,7 @@ On Saturday, over 400 people were saved from drowing\.
 In the night between 3rd and 4th August, one part of the fence built a couple of weeks ago by the municipality of Ventimiglia in order to deny access to anyone in the area under the bridge, was removed by the local activists\.
 
 
-![Photo by [Progetto20k](https://www.facebook.com/progetto20k/?hc_ref=ARTSaBtS6FU53YvfKulOZgzLK3fiAKoWuDWoI2MGjf2YRpiDrMhGQUuO7E4e_bu-uNU&fref=nf&hc_location=group)](assets/df0152e3ec4/1*MAsuLt3QFVm13WqiwdDK6w.jpeg)
+![Photo by [Progetto20k](https://www.facebook.com/progetto20k/?hc_ref=ARTSaBtS6FU53YvfKulOZgzLK3fiAKoWuDWoI2MGjf2YRpiDrMhGQUuO7E4e_bu-uNU&fref=nf&hc_location=group)](../assets/df0152e3ec4/1*MAsuLt3QFVm13WqiwdDK6w.jpeg)
 
 Photo by [Progetto20k](https://www.facebook.com/progetto20k/?hc_ref=ARTSaBtS6FU53YvfKulOZgzLK3fiAKoWuDWoI2MGjf2YRpiDrMhGQUuO7E4e_bu-uNU&fref=nf&hc_location=group)
 #### Greece
@@ -61,11 +61,11 @@ According to the latest available data, 1,673 persons returned by end of July un
 It is incredible that after years of dealing with asylum seekers, the UN agencies \(as well as asylum offices in Greece and other countries\), need such an extensive amount of time in order to decide on people’s asylum requests\. These are just two of the examples: 14/10/2020 and 22/02/2021\. Over two years that each applicant is having to wait just for their interviews\.
 
 
-![](assets/df0152e3ec4/1*M0rkZ0VZfhO1ckoLw9n9dA.jpeg)
+![](../assets/df0152e3ec4/1*M0rkZ0VZfhO1ckoLw9n9dA.jpeg)
 
 
 
-![By Erika Rudash](assets/df0152e3ec4/1*_hJEPzdEld9BerHAhZnOUA.jpeg)
+![By Erika Rudash](../assets/df0152e3ec4/1*_hJEPzdEld9BerHAhZnOUA.jpeg)
 
 By Erika Rudash
 
@@ -115,7 +115,7 @@ Independent volunteer Lola Sira, who runs the [Faces Before Numbers](https://www
 This is the shower facilities for some refugees in Paris\. There is a man down there trying to stay clean in the horrendous heat\. The municipal showers that refugees could use have been closed and some people are left only with this option\.
 
 
-![Photo by [Sarah Fenby\-dixon](https://www.facebook.com/sarah.fenbydixon.1?hc_ref=ARTc24HTq9b_AiPqppT-ZLxvige5JVCG1jHLla3Lr-89AqJevWfkEq53RQjxsY5GhAI&fref=nf) ‎](assets/df0152e3ec4/1*9PCRQdc3UmNfWEObrB8Usw.jpeg)
+![Photo by [Sarah Fenby\-dixon](https://www.facebook.com/sarah.fenbydixon.1?hc_ref=ARTc24HTq9b_AiPqppT-ZLxvige5JVCG1jHLla3Lr-89AqJevWfkEq53RQjxsY5GhAI&fref=nf) ‎](../assets/df0152e3ec4/1*9PCRQdc3UmNfWEObrB8Usw.jpeg)
 
 Photo by [Sarah Fenby\-dixon](https://www.facebook.com/sarah.fenbydixon.1?hc_ref=ARTc24HTq9b_AiPqppT-ZLxvige5JVCG1jHLla3Lr-89AqJevWfkEq53RQjxsY5GhAI&fref=nf) ‎
 

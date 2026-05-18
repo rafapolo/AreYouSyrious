@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 18/9/19: Do you know how people are treated in detention centres across the EU?
+title: "AYS Daily Digest 18/9/19: Do you know how people are treated in detention centres across the EU?"
 author: Are You Syrious?
 date: 2019-09-19T10:29:59.090+0100
 last_modified_at: 2019-09-19T12:08:53.100+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,france,detention,europe]
 description: The importance of finding out what goes behind the doors of detention centres near you / New evictions in Athens / rescue missions still…
 image:
-  path: assets/4554de72eb4a/1*Vrw50PTivfgLFX0HYEfjyg.jpeg
+  path: ../assets/4554de72eb4a/1*Vrw50PTivfgLFX0HYEfjyg.jpeg
 ---
 
 ### AYS Daily Digest 18/9/19: Do you know how people are being treated in detention centres across the EU?
 #### The importance of finding out what goes on behind the doors of detention centres near you / New evictions in Athens / Rescue missions still delayed, unnecessarily risking the lives of those on board / Volunteers and medical staff needed / & more news
 
 
-![Chios, Greece — Photo: [Benjamin Anderson](https://www.facebook.com/TrapsBrahIV?fref=gs&__tn__=%2Cd%2AF%2AF-R&eid=ARCLqCWyW9iu2y0uPUy79dUo7wHoVjopuNPBZsy1nvWo5BMVrhHBGAn94rU1kc4WM42yuaenu0UMJy__&tn-str=%2AF&dti=421759534684819&hc_location=group_dialog) ‎](assets/4554de72eb4a/1*Vrw50PTivfgLFX0HYEfjyg.jpeg)
+![Chios, Greece — Photo: [Benjamin Anderson](https://www.facebook.com/TrapsBrahIV?fref=gs&__tn__=%2Cd%2AF%2AF-R&eid=ARCLqCWyW9iu2y0uPUy79dUo7wHoVjopuNPBZsy1nvWo5BMVrhHBGAn94rU1kc4WM42yuaenu0UMJy__&tn-str=%2AF&dti=421759534684819&hc_location=group_dialog) ‎](../assets/4554de72eb4a/1*Vrw50PTivfgLFX0HYEfjyg.jpeg)
 
 Chios, Greece — Photo: [Benjamin Anderson](https://www.facebook.com/TrapsBrahIV?fref=gs&__tn__=%2Cd%2AF%2AF-R&eid=ARCLqCWyW9iu2y0uPUy79dUo7wHoVjopuNPBZsy1nvWo5BMVrhHBGAn94rU1kc4WM42yuaenu0UMJy__&tn-str=%2AF&dti=421759534684819&hc_location=group_dialog) ‎
 #### FEATURED

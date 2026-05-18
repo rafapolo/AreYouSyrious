@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 6/6/2017: 18th eviction for Baobab, immediately occupied again
+title: "AYS Daily Digest 6/6/2017: 18th eviction for Baobab, immediately occupied again"
 author: Are You Syrious?
 date: 2017-06-07T03:09:26.853+0100
 last_modified_at: 2017-06-07T08:22:38.521+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,baobab-experience,skype,czech-republic]
 description: EU Ombudsam to examine EASO work on the Greek islands / Statement against the Skype Lottery / More police in Calais and Dunkerque / 15…
 image:
-  path: assets/e9012ab9820/1*fDMUfq8BBtViTJc20f2OfA.jpeg
+  path: ../assets/e9012ab9820/1*fDMUfq8BBtViTJc20f2OfA.jpeg
 ---
 
 ### AYS Daily Digest 6/6/2017: 18th eviction for Baobab, immediately occupied again
@@ -15,7 +15,7 @@ image:
 _EU Ombudsam to examine EASO work on the Greek islands / Statement against the Skype Lottery / More police in Calais and Dunkerque / 15 arrests for people smuggling in Sicily_
 
 
-![](assets/e9012ab9820/1*W0pvombkIuQD9P98WDp_Hg.jpeg)
+![](../assets/e9012ab9820/1*W0pvombkIuQD9P98WDp_Hg.jpeg)
 
 ### Feature
 #### **18th eviction for Baobab Experience**
@@ -30,15 +30,15 @@ _EU Ombudsam to examine EASO work on the Greek islands / Statement against the S
 At dawn this morning, a procession consisting of an armored Police car, coaches, and an armored Carabinieri car, arrived at the Baobab Experience \(Piazzale Maslax\) informal camp in Rome, to take the migrants who are currently guests there to the police station and to dismantle the informal camp\.
 
 
-![](assets/e9012ab9820/1*L4wcLbEiBYddpmWOMfJqYA.jpeg)
+![](../assets/e9012ab9820/1*L4wcLbEiBYddpmWOMfJqYA.jpeg)
 
 
 
-![](assets/e9012ab9820/1*31pfqRLAt2_r9oY6_tze2w.jpeg)
+![](../assets/e9012ab9820/1*31pfqRLAt2_r9oY6_tze2w.jpeg)
 
 
 
-![Eviction Piazzale Maslax \(Baobab Experience, Amnesty Roma Centro\)](assets/e9012ab9820/1*GjNa1_yrDyStJdab6VCHUw.jpeg)
+![Eviction Piazzale Maslax \(Baobab Experience, Amnesty Roma Centro\)](../assets/e9012ab9820/1*GjNa1_yrDyStJdab6VCHUw.jpeg)
 
 Eviction Piazzale Maslax \(Baobab Experience, Amnesty Roma Centro\)
 
@@ -79,7 +79,7 @@ From Baobab Experience:
 On the upside, by 20\.00 tonight 150 people, activists, refugees and citizens, occupied again Piazzale Maslax and started to reorganize a new informal shelter\.
 
 
-![Social dinner after the occupation \(Baobab experience\)](assets/e9012ab9820/1*fDMUfq8BBtViTJc20f2OfA.jpeg)
+![Social dinner after the occupation \(Baobab experience\)](../assets/e9012ab9820/1*fDMUfq8BBtViTJc20f2OfA.jpeg)
 
 Social dinner after the occupation \(Baobab experience\)
 
@@ -115,7 +115,7 @@ Read more in [yesterday digest](https://medium.com/@AreYouSyrious/ays-daily-dige
 Today one boat with 15 people arrived on Lesvos\. An other one headed to Chios was pushed back last night by the Turkish Coast Guard\.
 
 
-![\#ChiosAtBreakingPoint \(Data refugee rights project\)](assets/e9012ab9820/1*X1GQNXpc-I4QgkIvdsKTQA.jpeg)
+![\#ChiosAtBreakingPoint \(Data refugee rights project\)](../assets/e9012ab9820/1*X1GQNXpc-I4QgkIvdsKTQA.jpeg)
 
 \#ChiosAtBreakingPoint \(Data refugee rights project\)
 #### **EU Ombudsman to examine EASO works in the Greek islands\.**
@@ -139,7 +139,7 @@ Read more [here](https://www.ecchr.eu/en/international-crimes-and-accountability
 #### **The Skype Lottery**
 
 
-[!["Skype or Smugglers" How to apply for asylum in Greece](assets/e9012ab9820/1afc_hqdefault.jpg ""Skype or Smugglers" How to apply for asylum in Greece")](http://www.youtube.com/watch?v=scCQ4k-xO9s)
+[!["Skype or Smugglers" How to apply for asylum in Greece](../assets/e9012ab9820/1afc_hqdefault.jpg ""Skype or Smugglers" How to apply for asylum in Greece")](http://www.youtube.com/watch?v=scCQ4k-xO9s)
 
 
 The Greek refugee council issued a [press release](http://refugees.gr/skype-call-next-life-access-asylum-skype-two-years/) highlighting the inequalities, problems, never ending waiting times created by the decision of the Greek Authorities to register and process asylum application only via Skype\.
@@ -201,7 +201,7 @@ Read more [here](http://www.uopeople.edu/tuition-free/our-scholarships/syrian-re
 Humanitarian Support Agency are looking for TEFL certified teacher for their English classes in Kara Tepe camp in Lesvos? You can join the HSA team by Applying on their [webpage](http://humanitarian-support-agency.org/?page_id=404) \.
 
 
-![](assets/e9012ab9820/1*chdNSe6TvlSF4XfdWaOLcw.jpeg)
+![](../assets/e9012ab9820/1*chdNSe6TvlSF4XfdWaOLcw.jpeg)
 
 
 Health\-Point Foundation Dental/Medical relief need Arabic translators
@@ -227,11 +227,11 @@ For more information please write to [office@refugeeaidmiksaliste\.rs](mailto:of
 [Intervolve](https://web.facebook.com/InterVolve-219418945063168/?ref=page_internal) unloaded today the first batch of picnic tables and benches at the Koutsochero camp\. Build by [The Timber Project](https://web.facebook.com/thetimberproject.org/?ref=page_internal) , these are the first outdoor furniture in this remote camp\.
 
 
-![](assets/e9012ab9820/1*RfBlINu9enAp45lFSYiPVg.jpeg)
+![](../assets/e9012ab9820/1*RfBlINu9enAp45lFSYiPVg.jpeg)
 
 
 
-![Kotsuachero camp \(Intervolve\)](assets/e9012ab9820/1*spd8Bsr0heBE54spZPMUtg.jpeg)
+![Kotsuachero camp \(Intervolve\)](../assets/e9012ab9820/1*spd8Bsr0heBE54spZPMUtg.jpeg)
 
 Kotsuachero camp \(Intervolve\)
 ### **Italy**
@@ -250,11 +250,11 @@ Three additional units and over 150 police agents will be deployed since next Mo
 #### Five arrests at a food distribution in Calais
 
 
-![](assets/e9012ab9820/1*aX_BDd1KniyJy2u018WkrQ.jpeg)
+![](../assets/e9012ab9820/1*aX_BDd1KniyJy2u018WkrQ.jpeg)
 
 
 
-![CRS attempt to stop food distribution \(Riaz Ahmad\)](assets/e9012ab9820/1*UpSoZgHMdQpPP_OKadXgaQ.jpeg)
+![CRS attempt to stop food distribution \(Riaz Ahmad\)](../assets/e9012ab9820/1*UpSoZgHMdQpPP_OKadXgaQ.jpeg)
 
 CRS attempt to stop food distribution \(Riaz Ahmad\)
 

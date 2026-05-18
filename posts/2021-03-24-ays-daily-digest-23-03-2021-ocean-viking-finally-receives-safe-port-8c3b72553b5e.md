@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,migrants,rescue,lesvos,frontex]
 description: MEPs Postpone Approval of Frontex Budget// Updates from Lesvos & Bihać// & More
 image:
-  path: assets/8c3b72553b5e/0*1ah-Ho5lwILo0foD
+  path: ../assets/8c3b72553b5e/0*1ah-Ho5lwILo0foD
 ---
 
 ### AYS Daily Digest 23/03/2021 — Ocean Viking Finally Receives Safe Port
 #### MEPs Postpone Approval of Frontex Budget// Updates from Lesvos & Bihać// & More
 
 
-![Finally ashore\. Photo credit: Anthony Jean/ [SOS Mediterranee](https://www.facebook.com/SOSMEDITERRANEE/photos/pcb.3833110373462909/3833110306796249/)](assets/8c3b72553b5e/0*1ah-Ho5lwILo0foD)
+![Finally ashore\. Photo credit: Anthony Jean/ [SOS Mediterranee](https://www.facebook.com/SOSMEDITERRANEE/photos/pcb.3833110373462909/3833110306796249/)](../assets/8c3b72553b5e/0*1ah-Ho5lwILo0foD)
 
 Finally ashore\. Photo credit: Anthony Jean/ [SOS Mediterranee](https://www.facebook.com/SOSMEDITERRANEE/photos/pcb.3833110373462909/3833110306796249/)
 #### FEATURE

@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 8–9/2/2020: No support for people deported to Afghanistan
+title: "AYS Weekend Digest 8–9/2/2020: No support for people deported to Afghanistan"
 author: Are You Syrious?
 date: 2020-02-10T11:40:41.323+0000
 last_modified_at: 2020-02-10T11:40:41.323+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: []
 description: 13 people die on the Iranian-Turkish border / 91 people feared dead in the Central Med / Updates from Moria / Solidarity protest in Athens…
 image:
-  path: assets/4e19d6ed9bb1/0*FjdUFhZFo3Z_OMQ5.jpeg
+  path: ../assets/4e19d6ed9bb1/0*FjdUFhZFo3Z_OMQ5.jpeg
 ---
 
 ### AYS Weekend Digest 8–9/2/2020: No support for people deported to Afghanistan
 #### 13 people die on the Iranian\-Turkish border / 91 people feared dead in the Central Med / Updates from Moria / Solidarity protest in Athens / Commemoraction / Protests in Germany / Temporary shelters in Dunkirk
 
 
-![](assets/4e19d6ed9bb1/0*FjdUFhZFo3Z_OMQ5.jpeg)
+![](../assets/4e19d6ed9bb1/0*FjdUFhZFo3Z_OMQ5.jpeg)
 
 
 \(Memorial at Sea on the sea of Saidia, Morocco\. Photo Credit: [AlarmPhone](https://www.facebook.com/watchthemed.alarmphone/posts/2583302221944005) \)
@@ -66,27 +66,27 @@ EUROPEAN BORDERS
 ### CommemorAction’s for People who Die at Borders
 
 
-![](assets/4e19d6ed9bb1/0*QnmRMdrg_RqSEPea)
+![](../assets/4e19d6ed9bb1/0*QnmRMdrg_RqSEPea)
 
 
 
-![](assets/4e19d6ed9bb1/0*KDMH9xp4ebW3t43f.jpeg)
+![](../assets/4e19d6ed9bb1/0*KDMH9xp4ebW3t43f.jpeg)
 
 
 
-![](assets/4e19d6ed9bb1/0*c0EgrjYuMbZeLK_2)
+![](../assets/4e19d6ed9bb1/0*c0EgrjYuMbZeLK_2)
 
 
 
-![](assets/4e19d6ed9bb1/0*J558DVbXQtWQiBT8.jpeg)
+![](../assets/4e19d6ed9bb1/0*J558DVbXQtWQiBT8.jpeg)
 
 
 
-![](assets/4e19d6ed9bb1/0*2s2vgvLr1QOu6_26)
+![](../assets/4e19d6ed9bb1/0*2s2vgvLr1QOu6_26)
 
 
 
-![](assets/4e19d6ed9bb1/0*d96tk18RZ3k_Des0.jpeg)
+![](../assets/4e19d6ed9bb1/0*d96tk18RZ3k_Des0.jpeg)
 
 
 \(Memorial at Sea on the sea of Saidia, Morocco\. Photo Credit: [AlarmPhone](https://www.facebook.com/watchthemed.alarmphone/posts/2583302221944005) \)
@@ -101,27 +101,27 @@ On the 6th of February, the [**International Day of CommemorAction for People Ki
 
 
 
-![](assets/4e19d6ed9bb1/0*k4swlDUIlkLj2fiO)
+![](../assets/4e19d6ed9bb1/0*k4swlDUIlkLj2fiO)
 
 
 
-![](assets/4e19d6ed9bb1/0*6oXIchOAG3Vt71pw.jpeg)
+![](../assets/4e19d6ed9bb1/0*6oXIchOAG3Vt71pw.jpeg)
 
 
 
-![](assets/4e19d6ed9bb1/0*CPmEZuMMT9Tq0FWN)
+![](../assets/4e19d6ed9bb1/0*CPmEZuMMT9Tq0FWN)
 
 
 
-![](assets/4e19d6ed9bb1/0*eHF8VdJEaimy7iXN.jpeg)
+![](../assets/4e19d6ed9bb1/0*eHF8VdJEaimy7iXN.jpeg)
 
 
 
-![](assets/4e19d6ed9bb1/0*JGyjaRm_15PkJE7Z)
+![](../assets/4e19d6ed9bb1/0*JGyjaRm_15PkJE7Z)
 
 
 
-![](assets/4e19d6ed9bb1/0*tg9jzrjqlBObCEXc.jpeg)
+![](../assets/4e19d6ed9bb1/0*tg9jzrjqlBObCEXc.jpeg)
 
 
 \(CommemorAction in Oujda, Morocco\. Art by a Camaroonian Artist\. Photo Credit: [AlarmPhone](https://alarmephonesahara.info/en/news/6th-of-february-2020-international-day-of-commemoraction-for-people-killed-and-missing-on-the-migration-routes) \)
@@ -134,27 +134,27 @@ On the 6th of February, the [**International Day of CommemorAction for People Ki
 
 
 
-![](assets/4e19d6ed9bb1/0*n4RrkOde4uIMcrGr)
+![](../assets/4e19d6ed9bb1/0*n4RrkOde4uIMcrGr)
 
 
 
-![](assets/4e19d6ed9bb1/0*Ip6kZTDtNW7TxS91.jpeg)
+![](../assets/4e19d6ed9bb1/0*Ip6kZTDtNW7TxS91.jpeg)
 
 
 
-![](assets/4e19d6ed9bb1/0*_JQekWL5N1-lQTIv)
+![](../assets/4e19d6ed9bb1/0*_JQekWL5N1-lQTIv)
 
 
 
-![](assets/4e19d6ed9bb1/0*4xFxhkkiUFmBZFbO.jpeg)
+![](../assets/4e19d6ed9bb1/0*4xFxhkkiUFmBZFbO.jpeg)
 
 
 
-![](assets/4e19d6ed9bb1/0*iwu-Qou8FtEDAzU3)
+![](../assets/4e19d6ed9bb1/0*iwu-Qou8FtEDAzU3)
 
 
 
-![](assets/4e19d6ed9bb1/0*eHqB4qNBEKWf-1Vq.jpeg)
+![](../assets/4e19d6ed9bb1/0*eHqB4qNBEKWf-1Vq.jpeg)
 
 
 \(CommermorAction at the land border between Algeria and Morocco\. Photo Credit: [AlarmPhone](https://www.facebook.com/watchthemed.alarmphone/posts/2583302221944005) \)
@@ -200,28 +200,28 @@ Read also the special report on the violence on Lesvos in the last few days, wri
 ### RSA Update on Unaccompanied Children and Young People
 
 
-![](assets/4e19d6ed9bb1/0*X7Ksr_yPmA3fj8pW)
+![](../assets/4e19d6ed9bb1/0*X7Ksr_yPmA3fj8pW)
 
 
 
-![](assets/4e19d6ed9bb1/0*WJLqnmQa1YSGt0U5.jpeg)
+![](../assets/4e19d6ed9bb1/0*WJLqnmQa1YSGt0U5.jpeg)
 
 
 
-![](assets/4e19d6ed9bb1/0*J71gWvfDsxzoTxx8)
+![](../assets/4e19d6ed9bb1/0*J71gWvfDsxzoTxx8)
 
 
 
-![](assets/4e19d6ed9bb1/0*7vEzCvoRchykDy8F.jpeg)
+![](../assets/4e19d6ed9bb1/0*7vEzCvoRchykDy8F.jpeg)
 
 ### Solidarity with Moria from Displaced People in Athens
 
 
-![](assets/4e19d6ed9bb1/0*o7CWsVfmhL1Yzu9t)
+![](../assets/4e19d6ed9bb1/0*o7CWsVfmhL1Yzu9t)
 
 
 
-![](assets/4e19d6ed9bb1/0*qtxr7pNhBkb2G5Bc.jpeg)
+![](../assets/4e19d6ed9bb1/0*qtxr7pNhBkb2G5Bc.jpeg)
 
 
 \(Squatted polytechnio by immigrants in solidarity with immigrants in Moria\. Photo Credit: [Anarchist Migrants](https://www.facebook.com/AnarchistMigrants/photos/a.477095259694830/667820703955617) \)
@@ -237,19 +237,19 @@ GERMANY
 **Protest for Relocation of Unaccompanied Children and Teenagers from Greek Islands to Germany**
 
 
-![](assets/4e19d6ed9bb1/0*-lcQbY8WdnBTgYX1)
+![](../assets/4e19d6ed9bb1/0*-lcQbY8WdnBTgYX1)
 
 
 
-![](assets/4e19d6ed9bb1/0*CdxKwrLtZOToMN_L.jpeg)
+![](../assets/4e19d6ed9bb1/0*CdxKwrLtZOToMN_L.jpeg)
 
 
 
-![](assets/4e19d6ed9bb1/0*no8vbgkQnOO3UV_-)
+![](../assets/4e19d6ed9bb1/0*no8vbgkQnOO3UV_-)
 
 
 
-![](assets/4e19d6ed9bb1/0*sC1F3HD__6DcggZn.jpeg)
+![](../assets/4e19d6ed9bb1/0*sC1F3HD__6DcggZn.jpeg)
 
 
 \(Photo Credit: [RSA](https://twitter.com/rspaegean/status/1226174086839140352?fbclid=IwAR2e3Vju_G0pT1Pz6_NHQ1MWbkK3jipjrpR8zhlCpqk21p8DhLDCP80iaZI) \)
@@ -271,19 +271,19 @@ Mobile Refugee Support [report](https://www.facebook.com/MobileRefugeeSupport/po
 During the last months, regular evictions of makeshift shelters have continued to take place\. Every time possessions and shelters have been destroyed, “police officers and workers in hazmat suits will even begin to dismantle tents before the occupants have been removed, usually armed with knives for cutting the plastic”
 
 
-![](assets/4e19d6ed9bb1/0*47kLQMiTjAGOQ3RO)
+![](../assets/4e19d6ed9bb1/0*47kLQMiTjAGOQ3RO)
 
 
 
-![](assets/4e19d6ed9bb1/0*xdCUaNcR9V9D1vI3.jpeg)
+![](../assets/4e19d6ed9bb1/0*xdCUaNcR9V9D1vI3.jpeg)
 
 
 
-![](assets/4e19d6ed9bb1/0*5cOwcA8GvZFPhn56)
+![](../assets/4e19d6ed9bb1/0*5cOwcA8GvZFPhn56)
 
 
 
-![](assets/4e19d6ed9bb1/0*oOocZZHIVi_DrdaC.jpeg)
+![](../assets/4e19d6ed9bb1/0*oOocZZHIVi_DrdaC.jpeg)
 
 
 Destruction of tents and personal possessions by police and workers, Dunkirk\. Photo by [MRS](https://www.facebook.com/MobileRefugeeSupport/photos/pcb.1182435865295356/1182431995295743/?type=3&theater)

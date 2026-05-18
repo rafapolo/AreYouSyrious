@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 11/06/18: 629 People are Still Stranded at Sea
+title: "AYS Daily Digest 11/06/18: 629 People are Still Stranded at Sea"
 author: Are You Syrious?
 date: 2018-06-12T04:24:51.923+0100
 last_modified_at: 2018-06-12T10:53:50.854+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,italy,sicily,aquarius]
 description: Terror Attacks in “Safe Country” Afghanistan//Rescues in the Mediterranean//New Arrivals in Greece//Murder at Patras Port?//Protest in…
 image:
-  path: assets/ce505e644009/1*lega0Kh25LrzES4P3OuYJw.jpeg
+  path: ../assets/ce505e644009/1*lega0Kh25LrzES4P3OuYJw.jpeg
 ---
 
 ### AYS Daily Digest 11/06/18: 629 People are Still Stranded at Sea
@@ -50,7 +50,7 @@ Those saved include 123 unaccompanied minors, 11 infant children and toddlers, a
 Multiple Italian mayors, including Leoluca Orland of the Sicilian capital Palermo, promised to accept the ship in their ports\. Orlanda accused Salvini of violating international and maritime law by turning the Aquarius away, and said that the port of Palermo was “always open” to those in need\. However, docking in an Italian port with only the protection of local authorities could prove dangerous for the Aquarius while they are still under threat from the interior minister\. It was a Sicilian court that impounded the rescue ship Open Arms only earlier this year\.
 
 
-![Photo Credit: SOS Méditerranée\. “We have just received some water and food from a Maltese navy vessel — this is no solution but one meal more for the 629 survivors\. Meanwhile we’re still waiting for further instructions where to safely disembark the rescued people\.”](assets/ce505e644009/1*lega0Kh25LrzES4P3OuYJw.jpeg)
+![Photo Credit: SOS Méditerranée\. “We have just received some water and food from a Maltese navy vessel — this is no solution but one meal more for the 629 survivors\. Meanwhile we’re still waiting for further instructions where to safely disembark the rescued people\.”](../assets/ce505e644009/1*lega0Kh25LrzES4P3OuYJw.jpeg)
 
 Photo Credit: SOS Méditerranée\. “We have just received some water and food from a Maltese navy vessel — this is no solution but one meal more for the 629 survivors\. Meanwhile we’re still waiting for further instructions where to safely disembark the rescued people\.”
 
@@ -106,7 +106,7 @@ According to statistics released by the UNHCR, 662 people arrived on the Aegean 
 The UNHCR continues to prove itself to be very good at observing humanitarian disasters and crafting statistical reports on them\. They are less good at providing for people’s basic needs, and advocating for children and families\. All throughout their reports, the UNHCR cites their “observations”, but there is little mention of action\. Perhaps the UNHCR could clarify their role by changing the name to the agency for refugee observation, rather than protection\.
 
 
-![Newly arrived people on Oinousas being given a medical screening by SMH\. Photo Credit: [SMH](https://www.facebook.com/smhumanitario/?hc_ref=ARRNU22pknJ38Wo7p16f71xxzMsPyM0Jtd0d7G2wcV01OjrtNT_rk5_VRE02rl3ZxP0&fref=nf)](assets/ce505e644009/1*oa8E3CdrxLzO8n9cWYw32A.jpeg)
+![Newly arrived people on Oinousas being given a medical screening by SMH\. Photo Credit: [SMH](https://www.facebook.com/smhumanitario/?hc_ref=ARRNU22pknJ38Wo7p16f71xxzMsPyM0Jtd0d7G2wcV01OjrtNT_rk5_VRE02rl3ZxP0&fref=nf)](../assets/ce505e644009/1*oa8E3CdrxLzO8n9cWYw32A.jpeg)
 
 Newly arrived people on Oinousas being given a medical screening by SMH\. Photo Credit: [SMH](https://www.facebook.com/smhumanitario/?hc_ref=ARRNU22pknJ38Wo7p16f71xxzMsPyM0Jtd0d7G2wcV01OjrtNT_rk5_VRE02rl3ZxP0&fref=nf)
 
@@ -133,7 +133,7 @@ Allegedly the man died after being discovered and beaten by police when he was f
 ### Italy
 
 
-![ROME, Monday June 11, a demonstration in solidarity with Aquarius \(Photo: AYS\)](assets/ce505e644009/1*RPW4ibhFQzLyVN88XKbq8w.jpeg)
+![ROME, Monday June 11, a demonstration in solidarity with Aquarius \(Photo: AYS\)](../assets/ce505e644009/1*RPW4ibhFQzLyVN88XKbq8w.jpeg)
 
 ROME, Monday June 11, a demonstration in solidarity with Aquarius \(Photo: AYS\)
 
@@ -145,7 +145,7 @@ This past Friday an estimated 5,000 people demonstrated against racism in Milan 
 For the past four months, the disused building of University Paris 8 Saint\-Denis has been occupied by refugees\. Now authorities have announced their intention to evict these people, despite the failure of the city government to find alternative housing options\. The eviction has been announced for [June 18\.](https://www.facebook.com/ExileesOccupP8/posts/2015676955417366)
 
 
-![“This is where a group of 6/7 people — men and women — sleep\. On the ground, with no tent, and along a main road — with lots of noise, cars and pollution\. Those in the streets have no camp to go to anymore and so are made to sleep on the ground\. I fear Paris will become more and more like Calais\. Since the evacuation of the camps in Paris, people living in the streets are spread across the north of Paris and sleep on the concrete\.” Photo Credit: [Faces Before Numbers](https://www.facebook.com/FacesBeforeNumbers/photos/a.370049416799720.1073741829.368064216998240/443399666131361/?type=3&theater)](assets/ce505e644009/1*rmZ--dLhyisw97wxNWSdxQ.jpeg)
+![“This is where a group of 6/7 people — men and women — sleep\. On the ground, with no tent, and along a main road — with lots of noise, cars and pollution\. Those in the streets have no camp to go to anymore and so are made to sleep on the ground\. I fear Paris will become more and more like Calais\. Since the evacuation of the camps in Paris, people living in the streets are spread across the north of Paris and sleep on the concrete\.” Photo Credit: [Faces Before Numbers](https://www.facebook.com/FacesBeforeNumbers/photos/a.370049416799720.1073741829.368064216998240/443399666131361/?type=3&theater)](../assets/ce505e644009/1*rmZ--dLhyisw97wxNWSdxQ.jpeg)
 
 “This is where a group of 6/7 people — men and women — sleep\. On the ground, with no tent, and along a main road — with lots of noise, cars and pollution\. Those in the streets have no camp to go to anymore and so are made to sleep on the ground\. I fear Paris will become more and more like Calais\. Since the evacuation of the camps in Paris, people living in the streets are spread across the north of Paris and sleep on the concrete\.” Photo Credit: [Faces Before Numbers](https://www.facebook.com/FacesBeforeNumbers/photos/a.370049416799720.1073741829.368064216998240/443399666131361/?type=3&theater)
 
@@ -156,7 +156,7 @@ A solidarity march for refugees will be happening on June 17 in Paris, click [he
 336 people were evicted from makeshift encampments in Dunkirk today and were brought to reception centers\. The majority of those evicted seem to have been Kurdish refugees form Iraq\. They were living in a former manufacturing plant which was highly contaminated\.
 
 
-![People were taken on buses from the abandoned factory\. “The situation in northern France and the support that volunteers are providing should be the responsibility of the state\. Yet the accommodation spaces provided by OFII are often unsuitable for people’s needs and aren’t a long\-term solution\. We thus fear the inevitable: that over the next few days and weeks, refugees will slowly return to Dunkirk\.” Photo Credit: [Dunkirk Refugee Women’s Center](https://www.facebook.com/refugeewomenscentre/posts/434933330265636)](assets/ce505e644009/1*eGKAKpH6IkhqRMvX3tlIuQ.jpeg)
+![People were taken on buses from the abandoned factory\. “The situation in northern France and the support that volunteers are providing should be the responsibility of the state\. Yet the accommodation spaces provided by OFII are often unsuitable for people’s needs and aren’t a long\-term solution\. We thus fear the inevitable: that over the next few days and weeks, refugees will slowly return to Dunkirk\.” Photo Credit: [Dunkirk Refugee Women’s Center](https://www.facebook.com/refugeewomenscentre/posts/434933330265636)](../assets/ce505e644009/1*eGKAKpH6IkhqRMvX3tlIuQ.jpeg)
 
 People were taken on buses from the abandoned factory\. “The situation in northern France and the support that volunteers are providing should be the responsibility of the state\. Yet the accommodation spaces provided by OFII are often unsuitable for people’s needs and aren’t a long\-term solution\. We thus fear the inevitable: that over the next few days and weeks, refugees will slowly return to Dunkirk\.” Photo Credit: [Dunkirk Refugee Women’s Center](https://www.facebook.com/refugeewomenscentre/posts/434933330265636)
 
@@ -196,11 +196,11 @@ The YALLA foundation has created a handbook for refugees who are moving or livin
 ### UK
 
 
-![](assets/ce505e644009/1*GwmF5zZy6tx89DFV62NkaQ.jpeg)
+![](../assets/ce505e644009/1*GwmF5zZy6tx89DFV62NkaQ.jpeg)
 
 
 
-![Photo Credit: [Shut Down Morton Hall](http://Shut Down Morton Hall)](assets/ce505e644009/1*OE1t749JwQE_H_xDxY4T2Q.jpeg)
+![Photo Credit: [Shut Down Morton Hall](http://Shut Down Morton Hall)](../assets/ce505e644009/1*OE1t749JwQE_H_xDxY4T2Q.jpeg)
 
 Photo Credit: [Shut Down Morton Hall](http://Shut Down Morton Hall)
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 20/01/2021: What is life actually like in the Greek Hotspots?
+title: "AYS Daily Digest 20/01/2021: What is life actually like in the Greek Hotspots?"
 author: Are You Syrious?
 date: 2021-01-21T12:33:44.631+0000
 last_modified_at: 2021-01-21T13:29:48.000+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [europe,digest,refugees,greece,human-rights]
 description: ECtHR will decide if living conditions in hotspots amount to inhuman and degrading treatment while EU-report claims it is not so bad after…
 image:
-  path: assets/dc691aefb16/1*_sC2CtgT_p101QXxjeuqgA.png
+  path: ../assets/dc691aefb16/1*_sC2CtgT_p101QXxjeuqgA.png
 ---
 
 ### AYS Daily Digest 20/01/2021: What is life actually like in the Greek hotspots?
 #### ECtHR will decide if living conditions in hotspots amount to inhuman and degrading treatment while EU\-report claims this is not so bad after all // 43 people die in first shipwreck of 2021 // Moonbird witnesses pull\-back by Libyan Coast Guard // People freeze in Calais // Australia is criticised for its treatment of refugees
 
 
-![Moria 2\.0 these days\. Copyright: Moria White Helmets](assets/dc691aefb16/1*_sC2CtgT_p101QXxjeuqgA.png)
+![Moria 2\.0 these days\. Copyright: Moria White Helmets](../assets/dc691aefb16/1*_sC2CtgT_p101QXxjeuqgA.png)
 
 Moria 2\.0 these days\. Copyright: Moria White Helmets
 ### FEATURE: What is life actually like in the Greek hotspots?
@@ -58,19 +58,19 @@ That sounds like a pretty nice camp\! Unfortunately, people who follow groups li
 In referring to the mentioned article in the Welt, Stand By Me Lesvos explained that while the EU report claims that heaters are available for each tent, these heaters are not distributed but stored in the warehouse\. The electricity infrastructure is still not sufficient for the heaters to be used\. Members of the Moria White Helmets spent recent days trying to get the electricity working\.
 
 
-![](assets/dc691aefb16/1*qtubfdosavaddHJSHBqc0Q.jpeg)
+![](../assets/dc691aefb16/1*qtubfdosavaddHJSHBqc0Q.jpeg)
 
 
 
-![](assets/dc691aefb16/1*1v8FUhfwxkWj_h6QyqUwuA.jpeg)
+![](../assets/dc691aefb16/1*1v8FUhfwxkWj_h6QyqUwuA.jpeg)
 
 
 
-![](assets/dc691aefb16/1*2vBibe8OVpSOMjqz6SImVw.jpeg)
+![](../assets/dc691aefb16/1*2vBibe8OVpSOMjqz6SImVw.jpeg)
 
 
 
-![“Another day all our teams were very busy helping to expand and fix electricity\. Yesterday some worked until after midnight\.” Copyright: Moria White Helmets](assets/dc691aefb16/1*8OK-U-GZeksmFDq-wxstEQ.png)
+![“Another day all our teams were very busy helping to expand and fix electricity\. Yesterday some worked until after midnight\.” Copyright: Moria White Helmets](../assets/dc691aefb16/1*8OK-U-GZeksmFDq-wxstEQ.png)
 
 “Another day all our teams were very busy helping to expand and fix electricity\. Yesterday some worked until after midnight\.” Copyright: Moria White Helmets
 
@@ -110,7 +110,7 @@ Moria White Helmets finally managed to reopen a school in the camp\. Since the b
 
 
 
-![Back to school in Moria 2\.0\. Copyright: Moria White Helmets](assets/dc691aefb16/1*OfOORmEvEb7TybVUIW_u9Q.jpeg)
+![Back to school in Moria 2\.0\. Copyright: Moria White Helmets](../assets/dc691aefb16/1*OfOORmEvEb7TybVUIW_u9Q.jpeg)
 
 Back to school in Moria 2\.0\. Copyright: Moria White Helmets
 #### Death rate among people trying to cross from Turkey increased in 2020
@@ -209,7 +209,7 @@ Together with hundreds of human rights actors, even IOM and UNHCR reiterate that
 In 2020, 307 people on the move in Greece, Montenegro, Serbia, and Bosnia and Herzegovina received medical support through NoNameKitchen’s Health on the Move project\. Of these people, 41 people were minors\. The most common necessary treatments were dentistry work, dermatological care to treat skin conditions, orthopedic work, eye care, and mental health care\. NoNameKitchen states that about 56% of the injuries that needed treatment stamped from violence perpetrated against these people on the part of police, special security forces, or security guards from the official refugee camps\. €23,814 were spend in order to provide medical care for these people\.
 
 
-![Copyright: NoNameKitchen](assets/dc691aefb16/1*ZHVRK3ze1agLrodN6e7VtQ.jpeg)
+![Copyright: NoNameKitchen](../assets/dc691aefb16/1*ZHVRK3ze1agLrodN6e7VtQ.jpeg)
 
 Copyright: NoNameKitchen
 ### GERMANY
@@ -235,7 +235,7 @@ One hundred forty NGOs signed a statement calling for an end to the violent and 
 For 30 January, a day of action is planned in order to raise awareness and put pressure on the federal government:
 
 
-![Copyright: Seebrücke, Balkanbrücke](assets/dc691aefb16/1*MQuiryxIk0qpYR5px-hYCw.png)
+![Copyright: Seebrücke, Balkanbrücke](../assets/dc691aefb16/1*MQuiryxIk0qpYR5px-hYCw.png)
 
 Copyright: Seebrücke, Balkanbrücke
 #### Far fewer family reunions granted than possible
@@ -258,7 +258,7 @@ A man from Iran told the NGO that
 If you have coats to donate, please visit Care4Calais on Facebook for more information\!
 
 
-![Copyright: Care4Calais](assets/dc691aefb16/1*6PiLe15Sm6NLX7efuWB3rQ.jpeg)
+![Copyright: Care4Calais](../assets/dc691aefb16/1*6PiLe15Sm6NLX7efuWB3rQ.jpeg)
 
 Copyright: Care4Calais
 ### FRONTEX

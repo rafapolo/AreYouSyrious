@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [belarus,european-union,digest,refugees,borders]
 description: 14-year-old dies on the Belarus-Poland border. Greek PM loses it while questioned by Dutch journalist. Deportation halted in Belgium…
 image:
-  path: assets/6193b48fdc31/1*U4SeuVylmhujsuzmvnzUTg.jpeg
+  path: ../assets/6193b48fdc31/1*U4SeuVylmhujsuzmvnzUTg.jpeg
 ---
 
 ### AYS Daily Digest 9\-10/11/21 State of Emergency in Lithuania
@@ -15,7 +15,7 @@ image:
 14\-year\-old dies on the Belarus\-Poland border\. Greek PM loses it while questioned by Dutch journalist\. Deportation halted in Belgium\. Deportation planned of a mentally ill person from Germany\. Busy days on the Central Mediterranean\.
 
 
-![“On the Polish/Belarusian border, people on the move are used as bargaining chips, as they have been used in Turkey and Morocco\.” \(Photo and text by: [E@SF](https://twitter.com/ESF16/status/1458169466668343309) \)](assets/6193b48fdc31/1*U4SeuVylmhujsuzmvnzUTg.jpeg)
+![“On the Polish/Belarusian border, people on the move are used as bargaining chips, as they have been used in Turkey and Morocco\.” \(Photo and text by: [E@SF](https://twitter.com/ESF16/status/1458169466668343309) \)](../assets/6193b48fdc31/1*U4SeuVylmhujsuzmvnzUTg.jpeg)
 
 “On the Polish/Belarusian border, people on the move are used as bargaining chips, as they have been used in Turkey and Morocco\.” \(Photo and text by: [E@SF](https://twitter.com/ESF16/status/1458169466668343309) \)
 #### FEATURED — State of Emergency declared in Lithuania
@@ -128,7 +128,7 @@ GREECE
 
 
 
-[![Greek PM Mitsotakis loses it completely when asked about illegal refugee pushbacks](assets/6193b48fdc31/6f6b_hqdefault.jpg "Greek PM Mitsotakis loses it completely when asked about illegal refugee pushbacks")](https://www.youtube.com/watch?v=shw46mIzTDA)
+[![Greek PM Mitsotakis loses it completely when asked about illegal refugee pushbacks](../assets/6193b48fdc31/6f6b_hqdefault.jpg "Greek PM Mitsotakis loses it completely when asked about illegal refugee pushbacks")](https://www.youtube.com/watch?v=shw46mIzTDA)
 
 
 On the same topic of press freedom, read the story of Matt Broomfield, British journalist who spent two months in Greek detention centres in Patra, Korinthos and Athens:
@@ -149,7 +149,7 @@ There are [concerns in the camp](https://www.facebook.com/MoriaCoronaAwarenessTe
 An increasing number of Cubans have been arriving in Greece fleeing mass food shortages in their home country\.
 
 
-[![Greece: Transit point for migrants and refugees from Cuba](assets/6193b48fdc31/7b2e_hqdefault.jpg "Greece: Transit point for migrants and refugees from Cuba")](https://www.youtube.com/watch?v=OSVdXv-tuXU)
+[![Greece: Transit point for migrants and refugees from Cuba](../assets/6193b48fdc31/7b2e_hqdefault.jpg "Greece: Transit point for migrants and refugees from Cuba")](https://www.youtube.com/watch?v=OSVdXv-tuXU)
 
 
 SPAIN
@@ -158,14 +158,14 @@ SPAIN
 A Circle of Silence was held in Ceuta on10 November in solidarity and support with migrants and refugees\.
 
 
-![](assets/6193b48fdc31/1*iLd7Q5nu4tq5qAaUj2XWMg.jpeg)
+![](../assets/6193b48fdc31/1*iLd7Q5nu4tq5qAaUj2XWMg.jpeg)
 
 
 BOSNIA
 #### Nahid Akbari reports from Bosnia
 
 
-![](assets/6193b48fdc31/1*_A5v-BtJyNvRIgUeyCHoZw.jpeg)
+![](../assets/6193b48fdc31/1*_A5v-BtJyNvRIgUeyCHoZw.jpeg)
 
 
 
@@ -276,7 +276,7 @@ SLOVENIA
 
 
 
-![](assets/6193b48fdc31/1*6nTU0YN3PTGvVelRkjWjJQ.jpeg)
+![](../assets/6193b48fdc31/1*6nTU0YN3PTGvVelRkjWjJQ.jpeg)
 
 
 GERMANY

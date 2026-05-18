@@ -1,13 +1,13 @@
 ---
-title: AYS Daily Digest 17/12/20: “Hungary has failed to fulfill its obligations under EU law”
+title: "AYS Daily Digest 17/12/20: “Hungary has failed to fulfill its obligations under EU law”"
 author: Are You Syrious?
 date: 2020-12-18T17:17:49.763+0000
 last_modified_at: 2020-12-18T17:17:49.763+0000
 categories: Are You Syrious?
 tags: []
-description: Big report on the effect EU’s approach has had on the mental health of thousands / CJEU: “Hungary has failed to fulfill its obligations…
+description: "Big report on the effect EU’s approach has had on the mental health of thousands / CJEU: “Hungary has failed to fulfill its obligations…"
 image:
-  path: assets/589aad72a6b4/0*d1BZZ-oug0AThDL_
+  path: ../assets/589aad72a6b4/0*d1BZZ-oug0AThDL_
 ---
 
 ### AYS Daily Digest 17/12/20: “Hungary has failed to fulfill its obligations under EU law”
@@ -18,7 +18,7 @@ image:
 [Dec 18](ays-daily-digest-17-12-20-hungary-has-failed-to-fulfill-its-obligations-under-eu-law-eb014bc284f0?source=post_page-----eb014bc284f0--------------------------------) · 10 min read
 
 
-![](assets/589aad72a6b4/0*d1BZZ-oug0AThDL_)
+![](../assets/589aad72a6b4/0*d1BZZ-oug0AThDL_)
 
 
 Lesvos, camp perspective, photo via: [Art Against](https://www.facebook.com/artagainstproject/?__tn__=-UC*F)
@@ -84,11 +84,11 @@ People have great difficulty finding jobs, especially since the closure of cafes
 AYS representatives will take part in the discussion around the issue of the “protection of European values” following a screening of a film about the Iuventa SAR team\. The discussion will be available online today, **Friday December 18, at 6pm CET** on [https://festivaloftolerance\.com/film\-i\-diskusija](https://festivaloftolerance.com/film-i-diskusija?fbclid=IwAR3lsY7OFW7Qu_IjTlQgnG3tu795UX2KJuhyF7Wvb7hJ_-VrPUFlJ2_Hu30)
 
 
-![](assets/589aad72a6b4/0*SratOf5EIUvMYYpp)
+![](../assets/589aad72a6b4/0*SratOf5EIUvMYYpp)
 
 
 
-![](assets/589aad72a6b4/0*P3oe88Nf8IeJGxzM)
+![](../assets/589aad72a6b4/0*P3oe88Nf8IeJGxzM)
 
 ### THE NETHERLANDS
 ### Reacting to deportations
@@ -127,11 +127,11 @@ In the meantime, the Spanish Ombudsman expressed he is firmly against the so cal
 With a “sea of ​​lights” in front of the Foreign Ministry, a demonstration was held on Thursday in Vienna for the people in need of urgent housing, stuck in horrid camps in Greece\.
 
 
-![](assets/589aad72a6b4/0*LXXqd1YTk7wdCmCw)
+![](../assets/589aad72a6b4/0*LXXqd1YTk7wdCmCw)
 
 
 
-![](assets/589aad72a6b4/0*W1-dutHfqSCwZbfU)
+![](../assets/589aad72a6b4/0*W1-dutHfqSCwZbfU)
 
 
 Photo: dr\. [Karin Tschare\-Fehr](https://www.facebook.com/karin.tscharefehr?__tn__=-UC*F)

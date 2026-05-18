@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 12–14/02/22: Demonstration in Poland outside POM detention facility sees arrests…
+title: "AYS News Digest 12–14/02/22: Demonstration in Poland outside POM detention facility sees arrests…"
 author: Are You Syrious?
 date: 2022-02-15T15:50:06.880+0000
 last_modified_at: 2022-02-15T22:09:53.650+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,migration,detention,police-brutality]
 description: Protest outside UNHCR in Tunisia // ‘Boat driving’ trial begins on Samos // Protests on Chios, Samos, Lesvos against closed structures //…
 image:
-  path: assets/2fc8f869e7b0/1*nVBUY1W9Ifa9NeEPMmYVOw.jpeg
+  path: ../assets/2fc8f869e7b0/1*nVBUY1W9Ifa9NeEPMmYVOw.jpeg
 ---
 
 ### AYS News Digest 12–14/02/22: Demonstration in Poland outside POM detention facility sees arrests, police violence
@@ -15,7 +15,7 @@ image:
 ### FEATURE — Demonstration in solidarity with people on the move in Poland met with police violence, arrests
 
 
-![A scene from Saturday’s protest in Krosno Odrzańskie\. \(Photo: [No Borders Team](https://www.facebook.com/nobordersteam/photos/a.104858888661609/141745991639565/) \)](assets/2fc8f869e7b0/1*nVBUY1W9Ifa9NeEPMmYVOw.jpeg)
+![A scene from Saturday’s protest in Krosno Odrzańskie\. \(Photo: [No Borders Team](https://www.facebook.com/nobordersteam/photos/a.104858888661609/141745991639565/) \)](../assets/2fc8f869e7b0/1*nVBUY1W9Ifa9NeEPMmYVOw.jpeg)
 
 A scene from Saturday’s protest in Krosno Odrzańskie\. \(Photo: [No Borders Team](https://www.facebook.com/nobordersteam/photos/a.104858888661609/141745991639565/) \)
 

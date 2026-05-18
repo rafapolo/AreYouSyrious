@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 14/01/2021: Former Syrian colonel guilty of crimes against humanity
+title: "AYS News Digest 14/01/2021: Former Syrian colonel guilty of crimes against humanity"
 author: Are You Syrious?
 date: 2022-01-15T11:25:26.078+0000
 last_modified_at: 2022-01-15T12:56:07.705+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,newsdigest,eu,humanrights]
 description: Ocean Viking rescue ship detained in Italy // More violent pushbacks, drownings and fire in Greece // Agreement made over Moroccan workers’…
 image:
-  path: assets/d6a535a74226/0*4ngKsPKPefDYXmlK
+  path: ../assets/d6a535a74226/0*4ngKsPKPefDYXmlK
 ---
 
 ### AYS News Digest 14/01/2021: **Former Syrian colonel guilty of crimes against humanity**
 #### Ocean Viking rescue ship detained in Italy // More violent pushbacks, drownings and fire in Greece // Agreement made over Moroccan workers’ rights in Portugal // Another death in the Channel as UK gov face legal actions again // **Greater powers for data collection and storage for Europol one step closer**
 
 
-![Photo Credit: [Paul Wagner/ The Syria Campaign](https://diary.thesyriacampaign.org/koblenz-verdict-jan-22-press-release/?fbclid=IwAR2J3XrikQuP7qe8z8GtW5S1YFVoSke0BKwfMBICZxFWdezySL1fF3fv-HA)](assets/d6a535a74226/0*4ngKsPKPefDYXmlK)
+![Photo Credit: [Paul Wagner/ The Syria Campaign](https://diary.thesyriacampaign.org/koblenz-verdict-jan-22-press-release/?fbclid=IwAR2J3XrikQuP7qe8z8GtW5S1YFVoSke0BKwfMBICZxFWdezySL1fF3fv-HA)](../assets/d6a535a74226/0*4ngKsPKPefDYXmlK)
 
 Photo Credit: [Paul Wagner/ The Syria Campaign](https://diary.thesyriacampaign.org/koblenz-verdict-jan-22-press-release/?fbclid=IwAR2J3XrikQuP7qe8z8GtW5S1YFVoSke0BKwfMBICZxFWdezySL1fF3fv-HA)
 #### FEATURE

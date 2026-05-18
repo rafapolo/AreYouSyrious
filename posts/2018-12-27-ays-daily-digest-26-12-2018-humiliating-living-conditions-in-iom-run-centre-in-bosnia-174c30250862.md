@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 26/12/2018: Humiliating living conditions in IOM run centre in Bosnia
+title: "AYS DAILY DIGEST 26/12/2018: Humiliating living conditions in IOM run centre in Bosnia"
 author: Are You Syrious?
 date: 2018-12-27T12:55:53.924+0000
 last_modified_at: 2018-12-30T12:16:55.425+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,bosnia,digest,iom,france]
 description: Ugly and dangerous, are two words to describe Miral temporary reception centre in Velika Kladuša // We bring you pictures from this place…
 image:
-  path: assets/174c30250862/1*1JKckValUQQ8aDXNIrcVLQ.jpeg
+  path: ../assets/174c30250862/1*1JKckValUQQ8aDXNIrcVLQ.jpeg
 ---
 
 ### AYS DAILY DIGEST 26/12/2018: Humiliating living conditions in IOM\-run centre in Bosnia
@@ -15,7 +15,7 @@ image:
 _Ugly and dangerous, are two words to describe Miral temporary reception centre in Velika Kladuša // We bring you pictures from this place // 57,273 asylum seekers and refugees are registered in Libya // Since 22 December, a boat with 22 people is missing // Desperate situation in Chios // Predictions for 2019 from Info Park, Belgrade_
 
 
-![Miral factory where about 700 people are living\. Photo Zarka Radoja\.](assets/174c30250862/1*1JKckValUQQ8aDXNIrcVLQ.jpeg)
+![Miral factory where about 700 people are living\. Photo Zarka Radoja\.](../assets/174c30250862/1*1JKckValUQQ8aDXNIrcVLQ.jpeg)
 
 Miral factory where about 700 people are living\. Photo Zarka Radoja\.
 
@@ -26,7 +26,7 @@ The place, like many others in this country, is run by the International Organiz
 Due to the lack of basic living conditions, or any privacy, people live under extreme stress, and high tensions are almost palpable for anybody who approaches it\.
 
 
-![Foot line in Miral\. By Zarka Radoja](assets/174c30250862/1*RmCqFKsMK_s5Ug3UaWVn-g.jpeg)
+![Foot line in Miral\. By Zarka Radoja](../assets/174c30250862/1*RmCqFKsMK_s5Ug3UaWVn-g.jpeg)
 
 Foot line in Miral\. By Zarka Radoja
 
@@ -37,18 +37,18 @@ The centre was created in October, after big protests at the border with the EU\
 According to the information available, IOM “Camp Coordination” and “Camp Manager” and “Migrant Assistants” are present at the Miral facility 24 hours a day, and IOM staff facilitate the daily operations of the site, including food distribution, cleaning and coordination with partners providing other services\.
 
 
-![](assets/174c30250862/1*O9JDWrCIYpLMmKc29dvS9g.jpeg)
+![](../assets/174c30250862/1*O9JDWrCIYpLMmKc29dvS9g.jpeg)
 
 
 
-![IOM provides cleaning and maintenance staff\. Photo by Zarka Radoja\.](assets/174c30250862/1*d40wgC_JEnO4BL5pzWfcuw.jpeg)
+![IOM provides cleaning and maintenance staff\. Photo by Zarka Radoja\.](../assets/174c30250862/1*d40wgC_JEnO4BL5pzWfcuw.jpeg)
 
 IOM provides cleaning and maintenance staff\. Photo by Zarka Radoja\.
 
 IOM further provides cleaning and maintenance staff, as well as security personnel \(a local private security agency\) 24/7\. The UNHCR is present inside, and their partners, while MSF maintains a mobile medical team\.
 
 
-![](assets/174c30250862/1*rAP3wFTzyqmpJGFmkEhDLQ.jpeg)
+![](../assets/174c30250862/1*rAP3wFTzyqmpJGFmkEhDLQ.jpeg)
 
 
 The place has three showers and 32 toilets for about 700 people\.
@@ -58,7 +58,7 @@ Many people have left Miral, and those who have stayed are desperate\. Some try 
 In general, the atmosphere is becoming more hostile to people on the move, but also to the locals who are helping and the international volunteers\. Places owned by locals are often visited by inspectors or the police, while international volunteers are more often stopped and their documents checked\.
 
 
-![No privacy at all in Miral\. Photo by Zarka Radoja\.](assets/174c30250862/1*L1_fDc0jzOoCGoZb0W8_2g.jpeg)
+![No privacy at all in Miral\. Photo by Zarka Radoja\.](../assets/174c30250862/1*L1_fDc0jzOoCGoZb0W8_2g.jpeg)
 
 No privacy at all in Miral\. Photo by Zarka Radoja\.
 
@@ -67,7 +67,7 @@ Since the beginning of this year, over 23,000 people were registered in Bosnia a
 The European Commission allocated over €7,000,000 this year for assistance to people on the move through Bosnia\. All the money is being distributed by the IOM, UNHCR and UNICEF\.
 
 
-![](assets/174c30250862/1*elq6ggly5EjrW8ro8uC10A.jpeg)
+![](../assets/174c30250862/1*elq6ggly5EjrW8ro8uC10A.jpeg)
 
 
 At the moment, there are about 5,000 people in Bosnia, but the exact number is almost impossible to count\.

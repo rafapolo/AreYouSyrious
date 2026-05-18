@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 22/10/2021: Greece: Fire destroys 15 huts in migrant worker settlement in Manolada
+title: "AYS Daily Digest 22/10/2021: Greece: Fire destroys 15 huts in migrant worker settlement in Manolada"
 author: Are You Syrious?
 date: 2021-10-23T18:33:28.654+0100
 last_modified_at: 2021-10-23T18:33:28.654+0100
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [digest,migrant-workers,refugees,borders,sea-rescue]
 description: Are You Syrious?
 image:
-  path: assets/bd6a961a113d/0*weoqootfBKn2QP9z.jpeg
+  path: ../assets/bd6a961a113d/0*weoqootfBKn2QP9z.jpeg
 ---
 
 ### AYS Daily Digest 22/10/2021: Greece: Fire destroys 15 huts in migrant worker settlement in Manolada
 
 
-![](assets/bd6a961a113d/0*c6LStXDyiv22seg3.jpeg)
+![](../assets/bd6a961a113d/0*c6LStXDyiv22seg3.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----fe232d1975c3--------------------------------)
@@ -23,7 +23,7 @@ image:
 LIBYA: Sit\-ins continue in front of UNCHR centre in Tripoli\. GREECE: new arrivals, camp manager of Mavrovouni resigns, Mare Liberum back at sea…or not?, automated surveillance on Evros border is expanded\. MALTA: \#ElHiblu3 Freedom Commission is launched\. BELARUS/POLAND: 8th victim of border standoff\. Updates from Bosnian/Croatian Border\. Demonstrations in Germany\. FRANCE: What happens after people are rescued/intercepted in the Channel? SWITZERLAND: Referendum against Frontex…
 
 
-![](assets/bd6a961a113d/0*weoqootfBKn2QP9z.jpeg)
+![](../assets/bd6a961a113d/0*weoqootfBKn2QP9z.jpeg)
 
 
 “Fire in the huts of migrant land workers in Nea Manolada had also erupted on the afternoon of Sunday 27 June … Two PZL firefighting aircraft were needed to extinguish the fire\.” \(Photo and Text by [Queer Provocateur](https://twitter.com/hereticProvo/status/1451534636178448385) \)
@@ -100,11 +100,11 @@ Since Thursday 21st October, Mare Liberum has finally been back in operation, bu
 
 
 
-![](assets/bd6a961a113d/0*ZZA0pt2U_O5FxjKj)
+![](../assets/bd6a961a113d/0*ZZA0pt2U_O5FxjKj)
 
 
 
-![](assets/bd6a961a113d/0*aTvt-4uef1TXCp0l.jpeg)
+![](../assets/bd6a961a113d/0*aTvt-4uef1TXCp0l.jpeg)
 
 
 The Coast Guard argued that their concern was the safety of human lives at sea, which can hardly be taken seriously with the record of the HCG over the past few months\. According to Mare Liberum, “at least 156 cases of illegal pushbacks — involving around 5,000 migrants — off Lesvos have come to light this year alone\.”
@@ -214,7 +214,7 @@ GERMANY
 ### Protests
 
 
-![](assets/bd6a961a113d/0*bv5c0bH8Rk82uKY4.jpeg)
+![](../assets/bd6a961a113d/0*bv5c0bH8Rk82uKY4.jpeg)
 
 
 WHY BORDERS? 24 Hours protest in Hildesheim, Lower Saxony
@@ -222,11 +222,11 @@ WHY BORDERS? 24 Hours protest in Hildesheim, Lower Saxony
 A \# [StopDeportation](https://twitter.com/InfoMigrants/status/1451555227006550018) protest was held in Munich\. Hundreds of people took to the streets to protest against the state’s plans to deport people from Sierra Leone\. According to Infomigrants, Sierra Leone representatives are in Munich these days to carry out identity screening before green\-lighting repatriations\.
 
 
-![](assets/bd6a961a113d/0*GX08im9ud1t1Hl45.jpeg)
+![](../assets/bd6a961a113d/0*GX08im9ud1t1Hl45.jpeg)
 
 
 
-![](assets/bd6a961a113d/0*1aiXZmeZIO0c5cvk.jpeg)
+![](../assets/bd6a961a113d/0*1aiXZmeZIO0c5cvk.jpeg)
 
 ### FRANCE
 ### What happens after people are rescued and intercepted in the Channel?

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 26/3/21: Deported from Denmark to Somalia, where he has been sentenced to death
+title: "AYS Daily Digest 26/3/21: Deported from Denmark to Somalia, where he has been sentenced to death"
 author: Are You Syrious?
 date: 2021-03-27T20:01:47.993+0000
 last_modified_at: 2021-03-27T20:01:47.993+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,europe,greece,human-rights]
 description: French protest results in finding temporary shelter / Families struggling to reach their loved ones after tragic accident in Croatia /…
 image:
-  path: assets/2e63f9bbf9b4/0*5NEz_CQnacYYwlu0
+  path: ../assets/2e63f9bbf9b4/0*5NEz_CQnacYYwlu0
 ---
 
 ### AYS Daily Digest 26/3/21: Deported from Denmark to Somalia, where he has been sentenced to death
 ### French protest results in finding temporary shelter / Families struggling to reach their loved ones after tragic accident in Croatia / Austria still in denial and closed to those suffering on Lesvos / Legal: at which a person’s ‘minor’ status is assessed in order to determine whether that minor and another person are ‘family members’ / recommended reads & more
 
 
-![](assets/2e63f9bbf9b4/0*O9nRa6BwRfagwvOr.jpeg)
+![](../assets/2e63f9bbf9b4/0*O9nRa6BwRfagwvOr.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----10aeae72092b--------------------------------)
@@ -22,11 +22,11 @@ image:
 [Mar 27](ays-daily-diges-26-3-21-deported-from-denmark-to-somalia-where-he-has-been-sentenced-to-death-10aeae72092b?source=post_page-----10aeae72092b--------------------------------) · 13 min read
 
 
-![](assets/2e63f9bbf9b4/0*RdRwo1gYpQN0p5yu)
+![](../assets/2e63f9bbf9b4/0*RdRwo1gYpQN0p5yu)
 
 
 
-![](assets/2e63f9bbf9b4/0*5NEz_CQnacYYwlu0)
+![](../assets/2e63f9bbf9b4/0*5NEz_CQnacYYwlu0)
 
 ### FEATURED
 
@@ -64,19 +64,19 @@ With official Europe criminalizing refugees and disregarding human rights, [the 
 A number of organisations have signed a common statement in support of the three:
 
 
-![](assets/2e63f9bbf9b4/0*_35oh_tEUd0F3fQZ)
+![](../assets/2e63f9bbf9b4/0*_35oh_tEUd0F3fQZ)
 
 
 
-![](assets/2e63f9bbf9b4/0*6LT1vmyMzxwgKu8N)
+![](../assets/2e63f9bbf9b4/0*6LT1vmyMzxwgKu8N)
 
 
 
-![](assets/2e63f9bbf9b4/0*De19J3wso4MaaSt8)
+![](../assets/2e63f9bbf9b4/0*De19J3wso4MaaSt8)
 
 
 
-![](assets/2e63f9bbf9b4/0*eWtiZXd_3vQByteH)
+![](../assets/2e63f9bbf9b4/0*eWtiZXd_3vQByteH)
 
 
 Support is also getting stronger in other places across Europe:
@@ -136,11 +136,11 @@ A 10\-year old girl, victim of a mine explosion in Afghanistan, was deterred fro
 Call for mobilisation in support
 
 
-![](assets/2e63f9bbf9b4/0*SD6F3bkI-gr_QNon)
+![](../assets/2e63f9bbf9b4/0*SD6F3bkI-gr_QNon)
 
 
 
-![](assets/2e63f9bbf9b4/0*5NOh4qMWS9YkuyF-)
+![](../assets/2e63f9bbf9b4/0*5NOh4qMWS9YkuyF-)
 
 
 Hosted after Nuit de la solidarité
@@ -191,11 +191,11 @@ A dinghy with more than 50 migrants on board has overturned\. A rescue was carri
 UK
 
 
-![](assets/2e63f9bbf9b4/0*WQhiC1AWlHAe_Nt0)
+![](../assets/2e63f9bbf9b4/0*WQhiC1AWlHAe_Nt0)
 
 
 
-![](assets/2e63f9bbf9b4/0*5cpRsOTeAMpZs__O)
+![](../assets/2e63f9bbf9b4/0*5cpRsOTeAMpZs__O)
 
 
 The UK government’s new immigration plans ignore several crucial bits of information, Choose Love team says\. Check out their thread on the topic\.

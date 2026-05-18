@@ -1,5 +1,5 @@
 ---
-title: AYS Special on EuroRelief II: Testimonies, new evidence and a call for accountability
+title: "AYS Special on EuroRelief II: Testimonies, new evidence and a call for accountability"
 author: Are You Syrious?
 date: 2018-03-04T16:53:12.966+0000
 last_modified_at: 2018-03-05T22:53:00.902+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,eurorelief,moria,lesvos,greece]
 description: At AYS we take concerns and issues raised by refugees and persons working on ground extremely seriously. The operations, motivations and…
 image:
-  path: assets/2866c3275e04/1*8udyqnoLAwrU-TVdkYrZqA.jpeg
+  path: ../assets/2866c3275e04/1*8udyqnoLAwrU-TVdkYrZqA.jpeg
 ---
 
 ### AYS Special on EuroRelief II: Testimonies, new evidence and a call for accountability
 #### At AYS we take concerns and issues raised by refugees and persons working on ground extremely seriously\. The operations, motivations and general management practices of Moria Hot Spot, by the organisation EuroRelief, has been a concern that has been brought to our attention by numerous volunteers and refugees on Lesvos over the last 18 months\. As we announced, we have continued an investigation into the work of this organization in Moria\.
 
 
-![Moria\. By AYS](assets/2866c3275e04/1*8udyqnoLAwrU-TVdkYrZqA.jpeg)
+![Moria\. By AYS](../assets/2866c3275e04/1*8udyqnoLAwrU-TVdkYrZqA.jpeg)
 
 Moria\. By AYS
 
@@ -33,7 +33,7 @@ In response to the last feature we have had a large number of individuals step f
 With new concerns and perspectives brought to light, we will once again go over the concerns that were first raised in the January 11 feature\.
 
 
-![Moria\. BY AYS](assets/2866c3275e04/1*7kovv8UUnpA3VBURtaaCCA.jpeg)
+![Moria\. BY AYS](../assets/2866c3275e04/1*7kovv8UUnpA3VBURtaaCCA.jpeg)
 
 Moria\. BY AYS
 #### Table of Contents:
@@ -80,7 +80,7 @@ One EuroRelief volunteer wrote to us following the release of the feature:
 Other testimonies confirm that new arrivals must wait weeks to receive urgently needed items of clothing\.
 
 
-![There are often over one month waiting periods in order to access basic and urgently needed aid](assets/2866c3275e04/1*9-3LFW6ZZUtmx0fKCJidlQ.png)
+![There are often over one month waiting periods in order to access basic and urgently needed aid](../assets/2866c3275e04/1*9-3LFW6ZZUtmx0fKCJidlQ.png)
 
 There are often over one month waiting periods in order to access basic and urgently needed aid
 #### 3\. How are EuroRelief and Hellenic Ministries connected?
@@ -103,11 +103,11 @@ Since the release of the initial feature on January 11, this statement has been 
 While the situation remains dire for refugees in Moria, on the mainland, the bible distribution project ‘Operation Joshua’ appears to be functioning perfectly well\.
 
 
-[![Operation Joshua 2016](assets/2866c3275e04/c539_hqdefault.jpg "Operation Joshua 2016")](http://www.youtube.com/watch?v=9gS6U5x3rbs)
+[![Operation Joshua 2016](../assets/2866c3275e04/c539_hqdefault.jpg "Operation Joshua 2016")](http://www.youtube.com/watch?v=9gS6U5x3rbs)
 
 
 
-[![Operation Joshua 2017 - Report](assets/2866c3275e04/f992_hqdefault.jpg "Operation Joshua 2017 - Report")](http://www.youtube.com/watch?v=6JtGLUZ9xvo)
+[![Operation Joshua 2017 - Report](../assets/2866c3275e04/f992_hqdefault.jpg "Operation Joshua 2017 - Report")](http://www.youtube.com/watch?v=6JtGLUZ9xvo)
 
 
 AYS would like to emphasise that we are not challenging anyone’s right to practice and/or share their religion\. There are many various religious organisations that work ethically and provide immense support and we praise the work they do\.
@@ -194,13 +194,13 @@ Read the whole statement [here\.](https://www.facebook.com/eurorelief/posts/1566
 Hellenic Ministries is very open about their work on sharing the gospel of Jesus Christ with refugees\. Below is a video of the founder of EuroRelief, who is also the director of Hellenic Ministries, discussing their role in sharing the gospel of Jesus Christ with those that arrive in the EU searching for asylum\.
 
 
-[![Johnathan's Update - Refugee Ministries](assets/2866c3275e04/1afa_hqdefault.jpg "Johnathan's Update - Refugee Ministries")](http://www.youtube.com/watch?v=hgNbjoHyNwA)
+[![Johnathan's Update - Refugee Ministries](../assets/2866c3275e04/1afa_hqdefault.jpg "Johnathan's Update - Refugee Ministries")](http://www.youtube.com/watch?v=hgNbjoHyNwA)
 
 
 In another video posted by Hellenic Ministries, they discuss a Summer camp they run each year in collaboration with other organisations, that focusses on converting Muslim refugees to Christianity
 
 
-[![Refugee Camps - Mercy Ministries](assets/2866c3275e04/b261_hqdefault.jpg "Refugee Camps - Mercy Ministries")](http://www.youtube.com/watch?v=19Je73FDPS8)
+[![Refugee Camps - Mercy Ministries](../assets/2866c3275e04/b261_hqdefault.jpg "Refugee Camps - Mercy Ministries")](http://www.youtube.com/watch?v=19Je73FDPS8)
 
 
 
@@ -229,7 +229,7 @@ In this context, where the Muslim faith is being discussed and portrayed as infe
 EuroRelief are also contracted volunteers from a number of organisations which include [YMAM](https://www.ywam.org/) and [OM\.](https://www.om.org/en/content/syrian-refugee-relief)
 
 
-![](assets/2866c3275e04/1*92hFm3nZ4gkRRVWnG_i64w.png)
+![](../assets/2866c3275e04/1*92hFm3nZ4gkRRVWnG_i64w.png)
 
 
 Both OM and YMAM are publicly open about their their aim of converting Muslim refugees to evangelism\.

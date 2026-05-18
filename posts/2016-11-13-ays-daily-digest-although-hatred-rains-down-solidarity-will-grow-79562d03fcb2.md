@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 12/11: Although Hatred Rains Down, Solidarity Will Grow
+title: "AYS Daily Digest 12/11: Although Hatred Rains Down, Solidarity Will Grow"
 author: Are You Syrious?
 date: 2016-11-13T00:53:42.010+0000
 last_modified_at: 2016-11-13T09:51:52.400+0000
@@ -7,7 +7,7 @@ categories:
 tags: [europe,refugees,kelebija,refugees-in-serbia,baobab-italy]
 description: Possibly emboldened by a Trump victory, Golden Dawn protests next week targeting Chios and Lesvos, volunteers and refugees warned…
 image:
-  path: assets/79562d03fcb2/1*FX1u5C-JQNZ5siM89jNkig.jpeg
+  path: ../assets/79562d03fcb2/1*FX1u5C-JQNZ5siM89jNkig.jpeg
 ---
 
 ### AYS Daily Digest 12/11: Although Hatred Rains Down, Solidarity Will Grow
@@ -15,7 +15,7 @@ image:
 _Possibly emboldened by a Trump victory, Golden Dawn protests next week targeting Chios and Lesvos, volunteers and refugees warned\. Filippiada finalizes first steps of winterization\. Erdogan continues to leverage refugee exodus for his own whims\. March from Belgrade to Croatian border reaches the border\. Croatian organization calls out human rights abuses\. Italians protest inadequate support of refugees, and officials call for right to freedom of movement\._
 
 
-![Photo Credit: Together for Better Days](assets/79562d03fcb2/1*FX1u5C-JQNZ5siM89jNkig.jpeg)
+![Photo Credit: Together for Better Days](../assets/79562d03fcb2/1*FX1u5C-JQNZ5siM89jNkig.jpeg)
 
 Photo Credit: Together for Better Days
 ### GREECE
@@ -25,21 +25,21 @@ On the heels of President\-Elect Donald Trump’s election, it appears that the 
 Golden Dawn has scheduled rallies on **Chios** and **Lesvos** for Tuesday and Wednesday\. Party supporters peppered the islands with leaflets which claim that the purpose of the rallies will be to determine the fate of refugees, specifically Golden Dawn’s proposal for them\. Police are stepping up security, and most onsite teams have been notified and are in the process of preparations; regardless, this is a disturbing turn of events and hopefully not to be anticipated as a regular event\. Volunteers are encouraged to keep an eye out for any outbreaks of violence and to be careful and take sensible precaution to help minimize the risk or harm of any possible attacks\. We believe that love will conquer this hate\.
 
 
-![Photo Credit: Together for Better Days](assets/79562d03fcb2/1*Brk00t0GUOOXxlwARs6Z_w.jpeg)
+![Photo Credit: Together for Better Days](../assets/79562d03fcb2/1*Brk00t0GUOOXxlwARs6Z_w.jpeg)
 
 Photo Credit: Together for Better Days
 
 Fortunately, in **Filippiada** Camp, the new isoboxes have almost finished being installed\. Despite multiple delays due to bad weather, this will complete the installation of cabins for the people living there, which will hopefully take the bite out of winter’s cold\. Furthermore Refugee Support Greece’s Filippiada team is continuing to run a points\-based “store” where people can shop for much\-needed items\. In order to prevent a pull for a black market and individually empower people, strategies to promote ethical distribution of goods are crucial\. Read more about it [here](https://www.facebook.com/RefugeeSupportGreece/posts/1708166636169474) \.
 
 
-![Photo Credit: Filippiada Camp News](assets/79562d03fcb2/1*K6lsZzJTr8eLE-FEewZL1A.jpeg)
+![Photo Credit: Filippiada Camp News](../assets/79562d03fcb2/1*K6lsZzJTr8eLE-FEewZL1A.jpeg)
 
 Photo Credit: Filippiada Camp News
 
 There is much news coming out of City Plaza Accommodation in **Athens** , between [a six month celebration](https://www.facebook.com/sol2refugeesen/posts/1640144109611259?hc_location=ufi) , to workshops on internal and external borders of the EU to promote solidarity beyond borders, as well as English classes\. City Plaza is searching for English teachers as well in order to support their newly opened school\. [Message them for details](https://www.facebook.com/sol2refugeesen/) \.
 
 
-![Photo Credit: Health Point Foundation](assets/79562d03fcb2/1*vYrfQ47qfd61pSFGarhrgQ.jpeg)
+![Photo Credit: Health Point Foundation](../assets/79562d03fcb2/1*vYrfQ47qfd61pSFGarhrgQ.jpeg)
 
 Photo Credit: Health Point Foundation
 
@@ -52,7 +52,7 @@ Continuing one of the most passive aggressive exchanges in contemporary politics
 The \#marchofhope that began yesterday was continued today despite the pouring rain and biting wind\. Various NGO actors eventually showed up as it continued with MSF, UNHCR, and DRC showing up to provide support\. After walking again all day and well into the night, the group made it to Ruma train station\. Although unconfirmed, it appears that the group proceeded by either train or bus as the latest update from the Twitter account @BelgradeUpdates which is documenting the march states that they “should arrive in Šid…at midnight\.” It is unclear what will happen then, although activists and volunteers are hoping that participation in this march does not heighten the risk of this group being targeted for the secret pushbacks happening throughout Serbia\.
 
 
-![A photo from the \#marchofhope mid Friday](assets/79562d03fcb2/1*22s0iAIQCwdR_bgOeD1NlA.jpeg)
+![A photo from the \#marchofhope mid Friday](../assets/79562d03fcb2/1*22s0iAIQCwdR_bgOeD1NlA.jpeg)
 
 A photo from the \#marchofhope mid Friday
 #### Kelebija
@@ -60,7 +60,7 @@ A photo from the \#marchofhope mid Friday
 Elsewhere in Serbia, in Kelebija, volunteers with North Star at the Kelebija Community Center are continuing to make projects for the people inhabiting the transit zone\. Today was another arts and crafts project\. Despite the grey weather, more colour is appearing around the space as children’s artwork is posted\. North Star is also searching for long\-term volunteers for end of November and beginning of December\. If you are interested in joining their team, please message [their page](https://www.facebook.com/NorthStarSerbia/?fref=ts) \.
 
 
-![Photo Courtesy of North Star Volunteer](assets/79562d03fcb2/1*kFNjthMkxR0vKyffTRRkFg.jpeg)
+![Photo Courtesy of North Star Volunteer](../assets/79562d03fcb2/1*kFNjthMkxR0vKyffTRRkFg.jpeg)
 
 Photo Courtesy of North Star Volunteer
 ### CROATIA
@@ -107,7 +107,7 @@ The website “Welcome/Dobrodošli” released a scathing statement condemning b
 Read the original [here](http://welcome.cms.hr/index.php/hr/2016/11/12/un-protiv-restriktivnih-migracijskih-politika/) \.
 
 
-![Children in Iraq\. Photo Credit: Alaa Hasan](assets/79562d03fcb2/1*ZmEWyGDgzgeeKbPECRtOcg.jpeg)
+![Children in Iraq\. Photo Credit: Alaa Hasan](../assets/79562d03fcb2/1*ZmEWyGDgzgeeKbPECRtOcg.jpeg)
 
 Children in Iraq\. Photo Credit: Alaa Hasan
 ### ITALY
@@ -124,7 +124,7 @@ Children in Iraq\. Photo Credit: Alaa Hasan
 
 
 
-![Rain at Katsikas\. Photo Credit: Katsikas Live](assets/79562d03fcb2/1*rfL0fL8MiMb9X98anVgAtw.jpeg)
+![Rain at Katsikas\. Photo Credit: Katsikas Live](../assets/79562d03fcb2/1*rfL0fL8MiMb9X98anVgAtw.jpeg)
 
 Rain at Katsikas\. Photo Credit: Katsikas Live
 #### Como/Milano

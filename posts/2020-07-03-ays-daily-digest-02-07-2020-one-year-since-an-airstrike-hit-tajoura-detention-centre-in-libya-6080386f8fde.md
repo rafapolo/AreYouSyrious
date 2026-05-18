@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 02/07/2020: One year since an airstrike hit Tajoura detention centre in Libya
+title: "AYS Daily Digest 02/07/2020: One year since an airstrike hit Tajoura detention centre in Libya"
 author: Are You Syrious?
 date: 2020-07-03T13:59:11.423+0100
 last_modified_at: 2020-07-03T13:59:11.423+0100
 categories: Are You Syrious?
 tags: [digest,refugees,europe,libya,greece]
-description: Monitoring NGOs call on Germany to protect the rule of law along the European borders during its presidency // Greece: One man drowned…
+description: "Monitoring NGOs call on Germany to protect the rule of law along the European borders during its presidency // Greece: One man drowned…"
 image:
-  path: assets/6080386f8fde/1*7iLR2ybNtmcn7yoAJAOCqA.jpeg
+  path: ../assets/6080386f8fde/1*7iLR2ybNtmcn7yoAJAOCqA.jpeg
 ---
 
 ### AYS Daily Digest 02/07/2020: One year since an airstrike hit Tajoura detention centre in Libya
 #### Monitoring NGOs call on Germany to protect the rule of law along the European borders during its presidency // Greece: One man drowned, one man killed himself // Ocean Viking is waiting for a Port of Safety // More updates from BiH, Croatia, North Mazedonia, Italy, the Sea \. \.
 
 
-![Copyright: NoBorder Greece](assets/6080386f8fde/1*7iLR2ybNtmcn7yoAJAOCqA.jpeg)
+![Copyright: NoBorder Greece](../assets/6080386f8fde/1*7iLR2ybNtmcn7yoAJAOCqA.jpeg)
 
 Copyright: NoBorder Greece
 ### FEATURE: Libya one year after
@@ -142,11 +142,11 @@ Refugees from Moria at Victoria square, Athens https://t.co/b7z9wqDsmk
 The Aegean Boat Report for the month of June is out now:
 
 
-![](assets/6080386f8fde/1*E1u5djIc4dVquj3Zor0Bfg.jpeg)
+![](../assets/6080386f8fde/1*E1u5djIc4dVquj3Zor0Bfg.jpeg)
 
 
 
-![](assets/6080386f8fde/1*ltW3mT2smlvIv4TlbtGiLA.jpeg)
+![](../assets/6080386f8fde/1*ltW3mT2smlvIv4TlbtGiLA.jpeg)
 
 
 A story written by a young Afghan woman living in Moria can be purchased now\. The title of the story is “the olive tree and the old woman”\. The author Parwana Amiri has been living in the Olive Grove next to Moria since September 2019\. In her strong “letters to the world from Moria” she tells the stories of different people and the hardships they are facing in Moria\. These stories can also be purchased as a book or found on the blog\.

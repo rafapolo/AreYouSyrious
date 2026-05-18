@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,mediterranean,libya,digest,sea-rescue]
 description: More on the man killed while resisting detention in Libya /// Another busy day in the central med /// One baby dies off the coast of…
 image:
-  path: assets/ac14cfa7f38b/1*eQd8CLk3sp7uSum3Xh4Qgw.jpeg
+  path: ../assets/ac14cfa7f38b/1*eQd8CLk3sp7uSum3Xh4Qgw.jpeg
 ---
 
 ### AYS Daily Digest 20/09/2019 — Rescues and delays in the Central Med
@@ -15,7 +15,7 @@ image:
 More on the man killed while resisting detention in Libya /// Another busy day in the central med /// A baby dies off the coast of Turkey /// Protests inside Italian CPRs /// Danish refugee board overrule Asylum service assessment
 
 
-![The situation right now in the central Mediterranean is beyond mad and chaotic\. Libyan coast guard takes as many people back to Libya\. Alarm Phone has never received so many distress calls\. EU coast guards systematically delay their rescue operation, risking the lives of those at sea\. \(Photo published by [Maurice Stierl](https://www.facebook.com/maurice.stierl?__tn__=%2Cd%2AF%2AF-R&eid=ARA2v9XGwMfRT8ct0GJHFdXlInBrZr3ds3ulgR8oQPyuplZEsgwkc8PTnzCSwKjENs4Sr7eeiQE_Tt21&tn-str=%2AF) \)](assets/ac14cfa7f38b/1*eQd8CLk3sp7uSum3Xh4Qgw.jpeg)
+![The situation right now in the central Mediterranean is beyond mad and chaotic\. Libyan coast guard takes as many people back to Libya\. Alarm Phone has never received so many distress calls\. EU coast guards systematically delay their rescue operation, risking the lives of those at sea\. \(Photo published by [Maurice Stierl](https://www.facebook.com/maurice.stierl?__tn__=%2Cd%2AF%2AF-R&eid=ARA2v9XGwMfRT8ct0GJHFdXlInBrZr3ds3ulgR8oQPyuplZEsgwkc8PTnzCSwKjENs4Sr7eeiQE_Tt21&tn-str=%2AF) \)](../assets/ac14cfa7f38b/1*eQd8CLk3sp7uSum3Xh4Qgw.jpeg)
 
 The situation right now in the central Mediterranean is beyond mad and chaotic\. Libyan coast guard takes as many people back to Libya\. Alarm Phone has never received so many distress calls\. EU coast guards systematically delay their rescue operation, risking the lives of those at sea\. \(Photo published by [Maurice Stierl](https://www.facebook.com/maurice.stierl?__tn__=%2Cd%2AF%2AF-R&eid=ARA2v9XGwMfRT8ct0GJHFdXlInBrZr3ds3ulgR8oQPyuplZEsgwkc8PTnzCSwKjENs4Sr7eeiQE_Tt21&tn-str=%2AF) \)
 #### FEATURE: RESCUES AND DELAYS IN THE CENTRAL MEDITERRANEAN
@@ -49,7 +49,7 @@ There are currently believed to be [5,000 people in detention in Libya](https://
 MOROCCO
 
 
-![](assets/ac14cfa7f38b/1*3vKOyhAPmu42-sNakKzpLA.jpeg)
+![](../assets/ac14cfa7f38b/1*3vKOyhAPmu42-sNakKzpLA.jpeg)
 
 
 [AMDH Nador report](https://web.facebook.com/AmdhNador/photos/a.1693125780899690/2418348375044090/?type=3&theater) that the 70 people arrested at sea by the Navy on 17th September are being held in a prison in Arekmane\. Ten people from the Comoros islands are thought to be included in this number and are being actively searched for by their families\.
@@ -58,7 +58,7 @@ TURKEY
 #### Baby dies at sea
 
 
-![\(Photo Credit: [Aegean Boat Report](https://web.facebook.com/AegeanBoatReport/posts/653440635179044) \)](assets/ac14cfa7f38b/1*WJ4ivwzP3xN8jHoHRwLptQ.jpeg)
+![\(Photo Credit: [Aegean Boat Report](https://web.facebook.com/AegeanBoatReport/posts/653440635179044) \)](../assets/ac14cfa7f38b/1*WJ4ivwzP3xN8jHoHRwLptQ.jpeg)
 
 \(Photo Credit: [Aegean Boat Report](https://web.facebook.com/AegeanBoatReport/posts/653440635179044) \)
 
@@ -83,7 +83,7 @@ GREECE
 #### Arrivals
 
 
-![](assets/ac14cfa7f38b/1*EULeySbI0_WEGff6_N_lCw.jpeg)
+![](../assets/ac14cfa7f38b/1*EULeySbI0_WEGff6_N_lCw.jpeg)
 
 
 [17 boats arrived](https://web.facebook.com/AegeanBoatReport/photos/a.285312485325196/653499208506520/?type=3&theater) on the Greek Aegean Islands in just one day, carrying 666 people, 9 of the boats arrived on Lesvos\.
@@ -146,7 +146,7 @@ BOSNIA
 As we reported in our digest yesterday, the situations in both the Velika Kladusa area and the town of Tuzla are worsening, with no plan in sight to provide dignified accommodation and to prepare for the incoming winter\.
 
 
-![Photo by [Udruzenje Solidarnost Bosnia](https://www.facebook.com/solidarnostbosnia/photos/a.1862322253778951/2951768011501031/?type=3&theater&ifg=1)](assets/ac14cfa7f38b/1*bEaxB-9TnpK50GdSvAKb4Q.jpeg)
+![Photo by [Udruzenje Solidarnost Bosnia](https://www.facebook.com/solidarnostbosnia/photos/a.1862322253778951/2951768011501031/?type=3&theater&ifg=1)](../assets/ac14cfa7f38b/1*bEaxB-9TnpK50GdSvAKb4Q.jpeg)
 
 Photo by [Udruzenje Solidarnost Bosnia](https://www.facebook.com/solidarnostbosnia/photos/a.1862322253778951/2951768011501031/?type=3&theater&ifg=1)
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 01/03/18: AYS discusses illegal push backs and human rights violations in a…
+title: "AYS Daily Digest 01/03/18: AYS discusses illegal push backs and human rights violations in a…"
 author: Are You Syrious?
 date: 2018-03-02T08:06:55.299+0000
 last_modified_at: 2018-03-02T16:32:15.657+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,human-rights-violations,report,donations]
 description: AYS took part in the Thematic Session of the Parliamentary Committee for Domestic Policy and National Security in order to discuss the…
 image:
-  path: assets/d304780ca858/1*6TzyVN6uD4bMVA2WeXg4dw.jpeg
+  path: ../assets/d304780ca858/1*6TzyVN6uD4bMVA2WeXg4dw.jpeg
 ---
 
 ### AYS Daily Digest 01/03/18: AYS discusses illegal push backs and human rights violations in a session at the Croatian Parliament
@@ -15,7 +15,7 @@ image:
 _AYS took part in the Thematic Session of the Parliamentary Committee for Domestic Policy and National Security in order to discuss the worrying trend of illegal push backs in the Balkans / Pikpa asks for donations to cover legal expenses for innocent migrants / Donations needed in Greece / Volunteers needed in Serbia / Balkan weather report / New data on arrivals in Italy / Volunteers and donations needed in France / More news from Cyprus, Germany, Poland, Sweden…_
 
 
-![Photo by Jean Jacques Clement](assets/d304780ca858/1*6TzyVN6uD4bMVA2WeXg4dw.jpeg)
+![Photo by Jean Jacques Clement](../assets/d304780ca858/1*6TzyVN6uD4bMVA2WeXg4dw.jpeg)
 
 Photo by Jean Jacques Clement
 ### FEATURE

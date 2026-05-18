@@ -1,5 +1,5 @@
 ---
-title: AYS Special from Greece: Militarisation — A tendency in 2020
+title: "AYS Special from Greece: Militarisation — A tendency in 2020"
 author: Are You Syrious?
 date: 2020-12-29T18:09:22.707+0000
 last_modified_at: 2020-12-29T18:09:22.707+0000
@@ -7,18 +7,18 @@ categories: Are You Syrious?
 tags: [greece,militarization,police-brutality,special,refugees]
 description: Both people on the move and Greeks in general, have felt the impact of the growing militarisation of, and oppression by, the Greek state…
 image:
-  path: assets/dd8c1e162852/0*ZMkpo061HbFC71Tf.jpeg
+  path: ../assets/dd8c1e162852/0*ZMkpo061HbFC71Tf.jpeg
 ---
 
 ### AYS Special from Greece: Militarisation — A tendency in 2020
 #### _Both people on the move and Greeks in general, have felt the impact of the growing militarisation of, and oppression by, the Greek state by means of expanding the role, the operational scope and tactics, the resources and the equipment of the police this year\. It is a phenomenon which also existed under previous governments, but has been significantly increased since the new centre\-right government of the Nea Demokratia \(ND\) party came into power in July 2019\._
 
 
-![](assets/dd8c1e162852/0*0pYerEzbaSvsE2Zm)
+![](../assets/dd8c1e162852/0*0pYerEzbaSvsE2Zm)
 
 
 
-![](assets/dd8c1e162852/0*ZMkpo061HbFC71Tf.jpeg)
+![](../assets/dd8c1e162852/0*ZMkpo061HbFC71Tf.jpeg)
 
 
 This process of militarisation has become an undercurrent in events and developments throughout the country, leading to claims that [Greece is once again becoming a police state](https://newint.org/features/2019/11/30/greece-new-police-state) with a revival of some tactics that were prevalent during the years of the military junta from 1967–74\.
@@ -57,11 +57,11 @@ Since the beginning of June, this policy of forcing refugees to leave accommodat
 “All refugees have left Viktoria Square for temporary accommodation, thanks to the actions of the migration ministry’s first reception service and Greek police,” adding that solidarity activists “have come to the square to exploit human suffering in order to create certain impressions,” underlining the confrontational line of this government\.
 
 
-![](assets/dd8c1e162852/0*_lpGlVjykSXdDs_x)
+![](../assets/dd8c1e162852/0*_lpGlVjykSXdDs_x)
 
 
 
-![](assets/dd8c1e162852/0*jHq51GTP1Epg0FIS)
+![](../assets/dd8c1e162852/0*jHq51GTP1Epg0FIS)
 
 ### The Evictions
 
@@ -70,11 +70,11 @@ During last winter, up until February, the police made several attempts to [atta
 In May, an abandoned building on Themistokleous Street in Athens, a squat that has hosted migrants and refugees since 2016, was [evicted](https://www.keeptalkinggreece.com/2020/05/18/greece-police-exarchia-squat-asylum-service/) by a strong police force at 6am\.
 
 
-![](assets/dd8c1e162852/0*Y5YJ4P1cdff_MxnF)
+![](../assets/dd8c1e162852/0*Y5YJ4P1cdff_MxnF)
 
 
 
-![](assets/dd8c1e162852/0*i4l4N2O5eIXgqzWa)
+![](../assets/dd8c1e162852/0*i4l4N2O5eIXgqzWa)
 
 
 52 people, mainly from Syria and Congo, including 12 children, were taken to the Police Aliens’ Department to have their papers checked\. They were then transferred to accommodation facilities, and those not eligible for asylum were held in detention before being deported\.
@@ -84,22 +84,22 @@ In June, the police [evicted and sealed](https://en.squat.net/2020/07/04/athens-
 More raids followed during the summer\. The 16\-year old squat [Terra Incognita](https://en.squat.net/2020/08/18/thessaloniki-terra-incognita-evicted/) and the [Libertatia Squat](https://www.youtube.com/watch?v=8j1eeSLgalU&feature=emb_logo) in Thessaloniki were evicted in August, and on the 5th of September, police raided the legendary [Rosa Nera Squat](https://fromgreecetoanarchy.tumblr.com/post/628630941784555520/video-they-evacuated-a-squat-but-didnt-expect) in Chania on Crete\. They made 16 arrests and injured a journalist with a flashbang during the raid\. [Large demonstrations](https://www.youtube.com/watch?v=41a2DyJayzY) with the participation of a large proportion of Chania’s residents followed together with a strong police presence\.
 
 
-![](assets/dd8c1e162852/0*ihDgLZwOn7RGulHa)
+![](../assets/dd8c1e162852/0*ihDgLZwOn7RGulHa)
 
 
 
-![](assets/dd8c1e162852/0*a4Wr0iasju7AZP8e)
+![](../assets/dd8c1e162852/0*a4Wr0iasju7AZP8e)
 
 ### Policing Migration
 
 The year began with local protests on the islands of Lesvos and Chios against the construction of new closed detention centres\. Special forces, transferred during the night on ferries from the mainland, [deployed teargas, water cannons and sound flares against locals](ays-special-frontex-and-human-rights-how-did-we-arrive-here-part-1-2004-2016-17cffb340c07) throwing stones and some Molotov cocktails in response\. The local mayor and a priest were treated at the local hospitals after having inhaled teargas\.
 
 
-![](assets/dd8c1e162852/0*YkyOEfHZqQ1OZzUs)
+![](../assets/dd8c1e162852/0*YkyOEfHZqQ1OZzUs)
 
 
 
-![](assets/dd8c1e162852/0*7QybzGzMtMqQl8Gi)
+![](../assets/dd8c1e162852/0*7QybzGzMtMqQl8Gi)
 
 
 On the 9th of September, [Moria camp on Lesvos](ays-special-moria-was-not-built-in-a-day-9d64d83d4462) , was destroyed by a major fire\. During the chaotic aftermath of the fire, people were trying to escape into security and to find shelter and food\. Once more, the response from the government in Athens was to deploy a large contingent of riot police to the island, to block roads and prevent people from leaving the area\. A new tent camp was quickly erected in the Kara Tepe area close to Moria\. Local islanders again attempted to block the access to the new camp area and were again met with a heavy police presence\.
@@ -144,19 +144,19 @@ A few days later, students followed by teachers and parents rallied for better c
 After another protest by school students to get better protection against COVID\-19, riot police in combat gear [rounded up and detained several of the protesters](https://www.avgi.gr/koinonia/369267_tromokratia-kai-kynigito-mathiton-prin-kai-meta-tin-poreia) \. In a quasi\-dystopian turn, children of 14 and 15\-years\-old were treated as if they were criminals — [though this is only unusual in that the children were Greek](https://www.thenewhumanitarian.org/news-feature/2020/12/18/Greece-detention-migrant-children) \.
 
 
-![](assets/dd8c1e162852/0*nUcrCYmyDTnD5MWn)
+![](../assets/dd8c1e162852/0*nUcrCYmyDTnD5MWn)
 
 
 
-![](assets/dd8c1e162852/0*SOiPBhq9FJwtBzw-.jpeg)
+![](../assets/dd8c1e162852/0*SOiPBhq9FJwtBzw-.jpeg)
 
 
 
-![](assets/dd8c1e162852/0*Q1hUmJeo_U_WoU35)
+![](../assets/dd8c1e162852/0*Q1hUmJeo_U_WoU35)
 
 
 
-![](assets/dd8c1e162852/0*yVjHfmjQwmpR13LY.jpeg)
+![](../assets/dd8c1e162852/0*yVjHfmjQwmpR13LY.jpeg)
 
 
 One of the students, a 14\-year\-old member of the protest coordination committee, was even [detained for four days](https://www.keeptalkinggreece.com/2020/10/19/police-greece-detention-underage-student-protest/) in the police arrest\. With conditions like this, no one can really feel safe from the police, walking in Athens\.
@@ -180,11 +180,11 @@ The events also [marked](https://www.iefimerida.gr/ellada/i-nea-omada-odos-tis-e
 5,000 police officers were deployed to the centre of Athens and to Exarcheia in particular\. Numerous arrests were made of citizens wishing to honour the site of the killing, including several prominent lawyers and academics\. Journalists had their access to events blocked, but a [single event](https://www.aftodioikisi.gr/politiki/o-chrysocho-dis-zitaei-kai-ta-resta-i-dithen-aristeri-eyaisthisia-einai-mia-tyfli-adiallaxia/) in which a police officer desecrated some flowers handed to him by a citizen turned into a symbolic representation of the police oppression of this day, sacred to many Greeks\.
 
 
-![](assets/dd8c1e162852/0*0UDLr7dSd_WeON_s)
+![](../assets/dd8c1e162852/0*0UDLr7dSd_WeON_s)
 
 
 
-![](assets/dd8c1e162852/0*uo5A6P394kDUkPPv)
+![](../assets/dd8c1e162852/0*uo5A6P394kDUkPPv)
 
 
 On the following day, Chrysochoidis made an almost Orwellian [speech](https://www.aftodioikisi.gr/politiki/o-chrysocho-dis-zitaei-kai-ta-resta-i-dithen-aristeri-eyaisthisia-einai-mia-tyfli-adiallaxia/) in Parliament, stating that the police are less violent than before and that only the left\-wing were to blame \(for almost every malady in society, it seemed\) \.

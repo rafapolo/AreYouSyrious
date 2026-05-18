@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 06.09.2019: Two Thousand Police Brought out of Retirement to “secure” Croatia
+title: "AYS Daily Digest 06.09.2019: Two Thousand Police Brought out of Retirement to “secure” Croatia"
 author: Are You Syrious?
 date: 2019-09-07T10:04:14.514+0100
 last_modified_at: 2019-09-07T10:04:14.514+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,croatia,police,detention]
 description: Approximately 142 people arrived in Greece today// Turkish man illegally detained in pre-deportation centre in Italy// 3 people on Alan…
 image:
-  path: assets/6bc6ca3c10f3/0*ltKmzGTADfbOC0Is.jpeg
+  path: ../assets/6bc6ca3c10f3/0*ltKmzGTADfbOC0Is.jpeg
 ---
 
 ### AYS Daily Digest 06\.09\.2019: Two Thousand Police Brought out of Retirement to “secure” Croatia
 ### Approximately 142 people arrived in Greece today// Turkish man illegally detained in pre\-deportation centre in Italy// 3 people on Alan Kurdi allowed to disembark on Malta//Court in the Netherlands suspends the deportation of two people to Romania…
 
 
-![](assets/6bc6ca3c10f3/0*INvlIHRlSwduiB4J.jpeg)
+![](../assets/6bc6ca3c10f3/0*INvlIHRlSwduiB4J.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----71be5941809f----------------------)
@@ -22,11 +22,11 @@ image:
 [Sep 7](ays-daily-digest-06-09-2019-71be5941809f?source=post_page-----71be5941809f----------------------) · 8 min read
 
 
-![](assets/6bc6ca3c10f3/0*yARpNh4Fta07mh0q)
+![](../assets/6bc6ca3c10f3/0*yARpNh4Fta07mh0q)
 
 
 
-![](assets/6bc6ca3c10f3/0*ltKmzGTADfbOC0Is.jpeg)
+![](../assets/6bc6ca3c10f3/0*ltKmzGTADfbOC0Is.jpeg)
 
 
 Credit: Anna Pantelia

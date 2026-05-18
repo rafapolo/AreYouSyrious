@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 5/2/20: “NGOs are like bloodsuckers”- Greek Migration Minister
+title: "AYS Daily Digest 5/2/20: “NGOs are like bloodsuckers”- Greek Migration Minister"
 author: Are You Syrious?
 date: 2020-02-06T12:57:19.843+0000
 last_modified_at: 2020-02-06T13:25:43.807+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [digest,refugees,europe,greece,unhcr]
 description: Featured
 image:
-  path: assets/6961e60af96e/1*ZMssAEThtuHP3Uyk4paYig.jpeg
+  path: ../assets/6961e60af96e/1*ZMssAEThtuHP3Uyk4paYig.jpeg
 ---
 
 ### AYS Daily Digest 5/2/20: “NGOs are like bloodsuckers”\- Greek Migration Minister
 
 
-![**\(Legal Centre Lesvos\)**](assets/6961e60af96e/1*ZMssAEThtuHP3Uyk4paYig.jpeg)
+![**\(Legal Centre Lesvos\)**](../assets/6961e60af96e/1*ZMssAEThtuHP3Uyk4paYig.jpeg)
 
 **\(Legal Centre Lesvos\)**
 ### Featured
@@ -47,7 +47,7 @@ Calling on world leaders to provide more refugee resettlement opportunities, the
 The UNHCR itself routinely comes under fire for its failure within the resettlement process\. Former UNHCR staffers and humanitarian policy experts alike have previously been reported lambasting the UNCHR for its unwillingness to be more assertive against the states who fail to open their doors to those in need\.
 
 
-[![Fact check: The UNHCR resettlement program](assets/6961e60af96e/f903_hqdefault.jpg "Fact check: The UNHCR resettlement program")](https://www.youtube.com/watch?v=pvGQZvslZCs)
+[![Fact check: The UNHCR resettlement program](../assets/6961e60af96e/f903_hqdefault.jpg "Fact check: The UNHCR resettlement program")](https://www.youtube.com/watch?v=pvGQZvslZCs)
 
 ### Germany
 

@@ -1,13 +1,13 @@
 ---
-title: AYS DAILY DIGEST 19/03/20: Thousands Brace for Impact in Unprotected Camps
+title: "AYS DAILY DIGEST 19/03/20: Thousands Brace for Impact in Unprotected Camps"
 author: Are You Syrious?
 date: 2020-03-20T16:27:41.742+0000
 last_modified_at: 2020-03-20T16:27:41.742+0000
 categories: Are You Syrious?
 tags: [digest,refugees,covid-19,lesvos,pandemic]
-description: GREECE: Restricted movement in camps & Calls to end detention. GERMANY: First COVID-19 case in a reception centre. And More
+description: "GREECE: Restricted movement in camps & Calls to end detention. GERMANY: First COVID-19 case in a reception centre. And More"
 image:
-  path: assets/2af8c1ad34ed/0*1EnbxeGGP64GSIep
+  path: ../assets/2af8c1ad34ed/0*1EnbxeGGP64GSIep
 ---
 
 ### **AYS DAILY DIGEST** 19/03/20: Thousands Brace for Impact in Unprotected Camps
@@ -15,7 +15,7 @@ image:
 _Restricted movement in the camps // Calls to end detention centers // First COVID\- 19 case in a reception center in Germany // What to Know about Decree №8 and 9 in Italy_
 
 
-![**Corona Virus By Mohammad Sabaaneh**](assets/2af8c1ad34ed/0*1EnbxeGGP64GSIep)
+![**Corona Virus By Mohammad Sabaaneh**](../assets/2af8c1ad34ed/0*1EnbxeGGP64GSIep)
 
 **Corona Virus By Mohammad Sabaaneh**
 ### **GREECE**

@@ -1,19 +1,19 @@
 ---
-title: AYS Daily News Digest 03/08: Yazidis, feeling unsafe, decide to leave Nea Kavala camp
+title: "AYS Daily News Digest 03/08: Yazidis, feeling unsafe, decide to leave Nea Kavala camp"
 author: Are You Syrious?
 date: 2016-08-04T04:13:22.519+0100
 last_modified_at: 2016-08-04T12:12:06.200+0100
 categories: 
 tags: [refugees,europe]
-description: In today’s digest: Yazidis are feeling unsafe and decide to leave the Nea Kavala camp, saying they are persistently threatened by other…
+description: "In today’s digest: Yazidis are feeling unsafe and decide to leave the Nea Kavala camp, saying they are persistently threatened by other…"
 image:
-  path: assets/b33f7104726a/0*O1zDob_LO9CYTiFe.jpg
+  path: ../assets/b33f7104726a/0*O1zDob_LO9CYTiFe.jpg
 ---
 
 ### AYS Daily News Digest 03/08: Yazidis, feeling unsafe, decide to leave Nea Kavala camp
 
 
-![Serbia — Photo by Nima](assets/b33f7104726a/0*O1zDob_LO9CYTiFe.jpg)
+![Serbia — Photo by Nima](../assets/b33f7104726a/0*O1zDob_LO9CYTiFe.jpg)
 
 Serbia — Photo by Nima
 
@@ -44,12 +44,12 @@ After yesterday’s protests in Nea Kavala, the Yazidi population of the camp ha
 Around 430 people left the camp this morning and have remained in a field near the camp the entire day\.
 
 
-![Photo by Anna Norona](assets/b33f7104726a/0*fC23Vej1t05CKu3_.jpg)
+![Photo by Anna Norona](../assets/b33f7104726a/0*fC23Vej1t05CKu3_.jpg)
 
 Photo by Anna Norona
 
 
-![Photo by Anna Norona](assets/b33f7104726a/0*rpYZ2N5C4DarxziH.jpg)
+![Photo by Anna Norona](../assets/b33f7104726a/0*rpYZ2N5C4DarxziH.jpg)
 
 Photo by Anna Norona
 
@@ -59,7 +59,7 @@ Many Yazidi families are living on the streets of Thessaloniki, and the minority
 Today marks the second anniversary of the attack on Sinjar by ISIL, during which 5,000 Yazidis were murdered, forcing more than 50,000 to flee\. Today, the United Nations believes 3,200 women and children are held by the so called Islamic State and used as sexual slaves, while thousands of Yazidi men are still missing\. Yazidi boys are also being indoctrinated to fight for the same group that murdered their families\.
 
 
-![Photo by [SIRIUS\.HELP](https://www.facebook.com/sirius.help/)](assets/b33f7104726a/0*Fqjv93gJNuhCiieX.)
+![Photo by [SIRIUS\.HELP](https://www.facebook.com/sirius.help/)](../assets/b33f7104726a/0*Fqjv93gJNuhCiieX.)
 
 Photo by [SIRIUS\.HELP](https://www.facebook.com/sirius.help/)
 ### 3,691 refugees return home
@@ -98,7 +98,7 @@ The Welcome Foundation, Americans for Refugees in Crisis and the Rahma Relief Fo
 Donations can be made to [http://www\.welcomefoundation\.org](http://www.welcomefoundation.org;) , [https://americansforrefugees\.org/donate/](https://americansforrefugees.org/donate/) and http://www\.rahmarelief\.org
 
 
-![Watermelon distribution thanks to Welcome Foundation, Americans for Refugees in Crisis and the Rahma Relief Foundation\. Photos provided by Ribhi Hazin](assets/b33f7104726a/0*q-wIOBa-K0W5UR_C.)
+![Watermelon distribution thanks to Welcome Foundation, Americans for Refugees in Crisis and the Rahma Relief Foundation\. Photos provided by Ribhi Hazin](../assets/b33f7104726a/0*q-wIOBa-K0W5UR_C.)
 
 Watermelon distribution thanks to Welcome Foundation, Americans for Refugees in Crisis and the Rahma Relief Foundation\. Photos provided by Ribhi Hazin
 ### Change of Skype Schedule
@@ -114,7 +114,7 @@ As the pre\-registration exercice ends, refugees who did not have the opportunit
 Despite the partial eviction of the Calais camp, the population continues to increase, with Help Refugees believing the camp could reach 10,000 people by September\. Help is therefore needed more than ever— the evacuation has not diminished the camp’s population, but has created the illusion that the problem has been solved, leading to a drop in donations\.
 
 
-![](assets/b33f7104726a/0*ymB7rjX65fFnyygD.)
+![](../assets/b33f7104726a/0*ymB7rjX65fFnyygD.)
 
 
 [Calais Refugee Aid](https://www.facebook.com/CalaisRefugeeAid/) is just one of many organisations doing a great job in the camp\. They made 250 essential food parcels to be distributed to the camp residents this weekend, while large food crates, including 400 bottles of 2L water, were delivered directly to the family camp to avoid them the hassle of queuing up\. Food items were also distributed to the Belgium kitchen, while a fundraiser is being organised to allow a woman who has just given birth to spend some time in a hotel away from the camp\. If you want to help, you can of course contact them through their Facebook page\.
@@ -131,12 +131,12 @@ London
 EC1R 0JH
 
 
-![Photos provided by the Worldwide Tribe](assets/b33f7104726a/0*KV0u0UVOEdDWLK3O.)
+![Photos provided by the Worldwide Tribe](../assets/b33f7104726a/0*KV0u0UVOEdDWLK3O.)
 
 Photos provided by the Worldwide Tribe
 
 
-![Photos provided by the Worldwide Tribe](assets/b33f7104726a/0*iKgU5aSE7pWYe24L.)
+![Photos provided by the Worldwide Tribe](../assets/b33f7104726a/0*iKgU5aSE7pWYe24L.)
 
 Photos provided by the Worldwide Tribe
 ### Legal support projects emerging online

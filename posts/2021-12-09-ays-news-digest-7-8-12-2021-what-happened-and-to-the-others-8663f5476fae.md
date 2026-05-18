@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 7/8/12 2021: What happened? And to the others?
+title: "AYS News Digest 7/8/12 2021: What happened? And to the others?"
 author: Are You Syrious?
 date: 2021-12-09T18:56:07.878+0000
 last_modified_at: 2021-12-09T18:56:07.878+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest]
 description: Death of Wissem Abdel Latif in Italian hospital / Italian military ship arrives in Libya / Surveillance mechanism for Greek pushbacks /…
 image:
-  path: assets/8663f5476fae/1*uzNSDiORRuwf6L1rTaPDMg.jpeg
+  path: ../assets/8663f5476fae/1*uzNSDiORRuwf6L1rTaPDMg.jpeg
 ---
 
 ### AYS News Digest 7/8/12 2021: What happened? And to the others?
@@ -15,7 +15,7 @@ image:
 Death of Wissem Abdel Latif in Italian hospital / Italian military ship arrives in Libya / Surveillance mechanism for Greek pushbacks / UK’s “Anti\-Refugee Bill” passes again / Denmark — an “unsafe third country” / Constant battle at Belarus border / & more
 
 
-![family and friends of Wissem demanding a proper investigation, Tunis — source: [meltingpot\.org](https://www.meltingpot.org/Morte-Wissem-Abdel-Latif-il-sistema-di-accoglienza-e-cura#.YbEHT1lw2Um)](assets/8663f5476fae/1*uzNSDiORRuwf6L1rTaPDMg.jpeg)
+![family and friends of Wissem demanding a proper investigation, Tunis — source: [meltingpot\.org](https://www.meltingpot.org/Morte-Wissem-Abdel-Latif-il-sistema-di-accoglienza-e-cura#.YbEHT1lw2Um)](../assets/8663f5476fae/1*uzNSDiORRuwf6L1rTaPDMg.jpeg)
 
 family and friends of Wissem demanding a proper investigation, Tunis — source: [meltingpot\.org](https://www.meltingpot.org/Morte-Wissem-Abdel-Latif-il-sistema-di-accoglienza-e-cura#.YbEHT1lw2Um)
 #### FEATURED
@@ -129,7 +129,7 @@ While Pope Francis [asked to “stop ignoring reality”](https://edition.cnn.co
 The Dutch Group Vluchtelingenwerk [reports on 21 of the Netherland’s 35 reception centers](https://www.vluchtelingenwerk.nl/nieuws/onderzoek-leefomstandigheden-noodopvang-schieten-ernstig-tekort) mostly used over the past couple of years\. According to it, in many of the emergency centres there is a lack of privacy, security and heating, while children are being denied access to education\. Especially where housing is provided through former military tents there is a lack of privacy and always noise\.
 
 
-![source: [dutchnews\.nl](https://www.dutchnews.nl/news/2021/12/refugee-charity-sounds-the-alarm-over-poor-conditions-in-emergency-centres/)](assets/8663f5476fae/1*WUvDgK2WnPo1wQypqiOPwQ.jpeg)
+![source: [dutchnews\.nl](https://www.dutchnews.nl/news/2021/12/refugee-charity-sounds-the-alarm-over-poor-conditions-in-emergency-centres/)](../assets/8663f5476fae/1*WUvDgK2WnPo1wQypqiOPwQ.jpeg)
 
 source: [dutchnews\.nl](https://www.dutchnews.nl/news/2021/12/refugee-charity-sounds-the-alarm-over-poor-conditions-in-emergency-centres/)
 

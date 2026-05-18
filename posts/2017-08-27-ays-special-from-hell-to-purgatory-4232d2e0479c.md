@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: From Hell to Purgatory
+title: "AYS SPECIAL: From Hell to Purgatory"
 author: Are You Syrious?
 date: 2017-08-27T10:34:29.822+0100
 last_modified_at: 2018-03-01T14:13:59.056+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,yazidi,serres,greece,special]
 description: Three years after escaping genocide, a group of Yazidi refugees in Greece are still waiting to restart their lives in Europe and, as some…
 image:
-  path: assets/4232d2e0479c/1*7eJ7KG2e7rEerkrtsw_dCA.jpeg
+  path: ../assets/4232d2e0479c/1*7eJ7KG2e7rEerkrtsw_dCA.jpeg
 ---
 
 ### AYS SPECIAL: From Hell to Purgatory
@@ -15,7 +15,7 @@ image:
 _Three years after escaping genocide, a group of Yazidi refugees in Greece are still waiting to restart their lives in Europe and, as some of them said, to see humanity\._
 
 
-![Camp in Serres\. Photo by James Burgess](assets/4232d2e0479c/1*7eJ7KG2e7rEerkrtsw_dCA.jpeg)
+![Camp in Serres\. Photo by James Burgess](../assets/4232d2e0479c/1*7eJ7KG2e7rEerkrtsw_dCA.jpeg)
 
 Camp in Serres\. Photo by James Burgess
 
@@ -34,7 +34,7 @@ These are some of their stories told in the camp\.
 Soswil \(not her real name\) is a refreshingly young\-looking 17\-year\-old \(many of the people in the camp look old beyond their years\) \.
 
 
-![](assets/4232d2e0479c/1*xNo6FD7mTccvBAbaYtTOFA.jpeg)
+![](../assets/4232d2e0479c/1*xNo6FD7mTccvBAbaYtTOFA.jpeg)
 
 
 _“The day of the genocide I was with my family, except for my father\. He was at war fighting for us\. We fled to another village and hiding in a house\. There were a lot of old people and children\. At 2 o’clock in the morning we wanted to flee, but we realised the old people and children couldn’t\. At 4 o’clock in the morning we knew they were coming and so we waved a white flag\. They took the guns from the men, and separated the children, women and men from each other\. Then they took the girls at 7am, and the ISIS soldiers said ‘let’s do something with the girls\.’ One of the IS commanders came and said ‘no, no, no, they are in my hands, so you don’t touch them\.’”_
@@ -44,7 +44,7 @@ Soswil and her family managed to escape from a house where they were being held,
 Guli, a middle\-aged mother of 11 children\.
 
 
-![](assets/4232d2e0479c/1*fpKtLwiF4qL1z3FT2Ukpmg.jpeg)
+![](../assets/4232d2e0479c/1*fpKtLwiF4qL1z3FT2Ukpmg.jpeg)
 
 
 _“My brother’s daughter was captured, and they took her seven children with her\. After three years now we just found out she got freed again\. My uncle, poor old man, he couldn’t hear\. He was stuck in Sinjar and they caught him, and we still don’t know what happened\.”_
@@ -76,7 +76,7 @@ _I went to a PKK camp in Turkey\. We waited there until the 20th of February 201
 Haji had to borrowed money to pay the smugglers to get on a smuggler boat to Greece\.
 
 
-![](assets/4232d2e0479c/1*uN_pm1rMtj5Erlo00oIINw.jpeg)
+![](../assets/4232d2e0479c/1*uN_pm1rMtj5Erlo00oIINw.jpeg)
 
 
 Hashim, a bright young student with an interest in engineering, had been making model boats and diggers with hydraulic arms in camps in Turkey before having to leave to continue his journey with his family to Greece\. Now 18, he is with two of his sisters, but the rest of his family is still in Turkey\.
@@ -110,7 +110,7 @@ _“It was very hard for me,”_ Said tells me\. He’s in his mid\-30s, a singl
 Clear information is in short supply in the camp, and everyone tells me they don’t know when their case will be heard or when they can expect a decision on their asylum claim\. Also, translation are not sufficient, especially for the Kurdish dialect that the Yazidis speak, and paperwork is often in Greek and English\. It is also clear that psychosocial support and counselling services are badly lacking, given the trauma people have experienced\.
 
 
-![](assets/4232d2e0479c/1*YhM-LItQj9Bsh6kVu761pA.jpeg)
+![](../assets/4232d2e0479c/1*YhM-LItQj9Bsh6kVu761pA.jpeg)
 
 
 Zaid, a young man in the camp who has brothers in Germany, tells me\.
@@ -126,7 +126,7 @@ Every few weeks, more of the Yazidis are finally transferred to Germany, or occa
 Kordi’s husband has been living in Germany for a year\. _“We spent a lot of money to get transferred, because in Germany we needed to get our papers together and our marriage certificate translated into German and the documents showing that these are my children translated into German,” she said\. “My husband even borrowed money to get all the paperwork ready for us to go there\.”_
 
 
-![](assets/4232d2e0479c/1*i4rUJZ_jh0NGmMbuO9MjtA.jpeg)
+![](../assets/4232d2e0479c/1*i4rUJZ_jh0NGmMbuO9MjtA.jpeg)
 
 
 In the park I met Zidane, a confident, smart 18\-year\-old who had come from Germany to visit his family stuck in Greece\. He had gone with other family members overland from Turkey, first to Bulgaria, then through Serbia, Bosnia, Croatia and Austria before finally reaching Germany\. His family paid a smuggler €6,000 to take him as far as Serbia, and from there they were on their own\. His family should be reunited with him in Germany when the application process is finally completed\.

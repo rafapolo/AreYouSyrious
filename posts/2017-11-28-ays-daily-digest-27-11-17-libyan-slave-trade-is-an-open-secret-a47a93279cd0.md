@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 27/11/17: Libyan Slave Trade is an Open Secret
+title: "AYS Daily Digest 27/11/17: Libyan Slave Trade is an Open Secret"
 author: Are You Syrious?
 date: 2017-11-28T01:45:31.723+0000
 last_modified_at: 2017-11-28T10:07:07.403+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,slavery,libya,eu,calais]
 description: //Sea Rescues//Fights on Lesbos and Occupation of SYRIZA building//Volunteers needed in Greece//Harrowing film from Croatia//Support needed…
 image:
-  path: assets/a47a93279cd0/1*M9lQ1dFlKnarvPAC4yZvWw.jpeg
+  path: ../assets/a47a93279cd0/1*M9lQ1dFlKnarvPAC4yZvWw.jpeg
 ---
 
 ### AYS Daily Digest 27/11/17: Libyan Slave Trade is an Open Secret
@@ -15,7 +15,7 @@ image:
 //Sea Rescues//Fights on Lesbos and Occupation of SYRIZA building//Volunteers needed in Greece//Harrowing film from Croatia//Support needed in Calais//Sleeping rough and need for legal support in Paris//Protest in Italy// and more…
 
 
-![The back of a migrant who had been tortured in Libya\. This was among many images received by the Observer in the past week, many of which they decided not to publish because they were too graphic\.](assets/a47a93279cd0/1*M9lQ1dFlKnarvPAC4yZvWw.jpeg)
+![The back of a migrant who had been tortured in Libya\. This was among many images received by the Observer in the past week, many of which they decided not to publish because they were too graphic\.](../assets/a47a93279cd0/1*M9lQ1dFlKnarvPAC4yZvWw.jpeg)
 
 The back of a migrant who had been tortured in Libya\. This was among many images received by the Observer in the past week, many of which they decided not to publish because they were too graphic\.
 ### FEATURE
@@ -82,14 +82,14 @@ Today an associate director for Human Rights Watch highlighted the outrageous ac
 One boat with 18 people arrived on the southern shore of Lesbos today\.
 
 
-![Moria camp, Lesbos\. Photo Credit: [NoBorders](https://www.facebook.com/nobordersnetwork/) \.](assets/a47a93279cd0/1*0NQ9naNcGJCOnBgi-9NH5g.jpeg)
+![Moria camp, Lesbos\. Photo Credit: [NoBorders](https://www.facebook.com/nobordersnetwork/) \.](../assets/a47a93279cd0/1*0NQ9naNcGJCOnBgi-9NH5g.jpeg)
 
 Moria camp, Lesbos\. Photo Credit: [NoBorders](https://www.facebook.com/nobordersnetwork/) \.
 
 The Ekathamerini outlet [reported this week](http://www.ekathimerini.com/223625/article/ekathimerini/news/one-dead-in-altercation-among-afghan-migrants-on-lesvos) that a clash between Afghani refugees on the island of Lesbos left one person dead\. The fight allegedly occured outside of a house near the Moria camp which a group of Afghani refugees had been renting\.
 
 
-![A tour of Moria camp, Monday 27 November 2017\. Pouring rain throughout the day\. More than 7000 people in Moria now\. Capacity is around 2500\. Thousands of women, men and children in flimsy tents\. Photo Credit: [Lesvos Solidarity Pikpa](https://www.facebook.com/pikpalesvos/?hc_ref=ARQa7MZq6-hgeW1vzhpbP4yVrwxC0cfQUugqEMe8qMnG64dV9DFqWXr2AdsNQpcooaA) \.](assets/a47a93279cd0/1*6K5z3HL0uO8K4-5-0e8w0w.jpeg)
+![A tour of Moria camp, Monday 27 November 2017\. Pouring rain throughout the day\. More than 7000 people in Moria now\. Capacity is around 2500\. Thousands of women, men and children in flimsy tents\. Photo Credit: [Lesvos Solidarity Pikpa](https://www.facebook.com/pikpalesvos/?hc_ref=ARQa7MZq6-hgeW1vzhpbP4yVrwxC0cfQUugqEMe8qMnG64dV9DFqWXr2AdsNQpcooaA) \.](../assets/a47a93279cd0/1*6K5z3HL0uO8K4-5-0e8w0w.jpeg)
 
 A tour of Moria camp, Monday 27 November 2017\. Pouring rain throughout the day\. More than 7000 people in Moria now\. Capacity is around 2500\. Thousands of women, men and children in flimsy tents\. Photo Credit: [Lesvos Solidarity Pikpa](https://www.facebook.com/pikpalesvos/?hc_ref=ARQa7MZq6-hgeW1vzhpbP4yVrwxC0cfQUugqEMe8qMnG64dV9DFqWXr2AdsNQpcooaA) \.
 
@@ -178,7 +178,7 @@ These risky border crossings are the direct result of strict border policies —
 Life is still hard for refugees in Calais\. Faced with the constant threat of police harassment and violence, and amid dropping temperatures, volunteers on the ground are scrambling to provide for people’s most basic needs\. [Care4Calais](https://www.facebook.com/care4calais/) released a [statement](https://www.facebook.com/care4calais/posts/1739201212779495) today detailing conditions on the ground:
 
 
-![Photo Credit: [Care4Calais](https://www.facebook.com/care4calais/)](assets/a47a93279cd0/1*-J5QfmFYyFV14Yhr6uUqRg.jpeg)
+![Photo Credit: [Care4Calais](https://www.facebook.com/care4calais/)](../assets/a47a93279cd0/1*-J5QfmFYyFV14Yhr6uUqRg.jpeg)
 
 Photo Credit: [Care4Calais](https://www.facebook.com/care4calais/)
 
@@ -218,7 +218,7 @@ The volunteer group [La Cuisine des Migrants](https://www.facebook.com/lacuisine
 A volunteer in paris recently shared a story of her efforts to get food and clothing to a group of minors sleeping rough in a park\. Her story encapsulates many of the issues refugees in the city face:
 
 
-![Refugees living in park in Paris\. Photo Credit: Danika Jurisic](assets/a47a93279cd0/1*J2D_MxztaQawFeybQ4X3mQ.jpeg)
+![Refugees living in park in Paris\. Photo Credit: Danika Jurisic](../assets/a47a93279cd0/1*J2D_MxztaQawFeybQ4X3mQ.jpeg)
 
 Refugees living in park in Paris\. Photo Credit: Danika Jurisic
 

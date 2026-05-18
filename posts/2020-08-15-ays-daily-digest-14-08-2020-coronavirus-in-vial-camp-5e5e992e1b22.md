@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,coronavirus,refugees,migrants,malta]
 description: Updates on Situation in Chios///Life on the Balkan Route///More People Trying to Leave Algeria///& More Stories
 image:
-  path: assets/5e5e992e1b22/0*ZxU0MiJMazz2pL8K
+  path: ../assets/5e5e992e1b22/0*ZxU0MiJMazz2pL8K
 ---
 
 ### AYS Daily Digest 14/08/2020 — Malta Shirks Duty to Rescue People…Again
 #### Updates on Situation in Chios///Life on the Balkan Route///More People Trying to Leave Algeria///& More Stories
 
 
-![Food distribution line in Vial\. Photographer: a resident of the camp, shared by [Ruhi Loren Akhtar](https://www.facebook.com/photo/?fbid=3756858060997741&set=a.279309615419287)](assets/5e5e992e1b22/0*ZxU0MiJMazz2pL8K)
+![Food distribution line in Vial\. Photographer: a resident of the camp, shared by [Ruhi Loren Akhtar](https://www.facebook.com/photo/?fbid=3756858060997741&set=a.279309615419287)](../assets/5e5e992e1b22/0*ZxU0MiJMazz2pL8K)
 
 Food distribution line in Vial\. Photographer: a resident of the camp, shared by [Ruhi Loren Akhtar](https://www.facebook.com/photo/?fbid=3756858060997741&set=a.279309615419287)
 
@@ -38,7 +38,7 @@ LEBANON
 #### Free Dental Clinic in Beirut
 
 
-![via [Volunteering Lebanon](https://www.facebook.com/groups/VolunteeringLebanon/?post_id=2703874846524835)](assets/5e5e992e1b22/0*0UQ53dadNA5Ng2pC)
+![via [Volunteering Lebanon](https://www.facebook.com/groups/VolunteeringLebanon/?post_id=2703874846524835)](../assets/5e5e992e1b22/0*0UQ53dadNA5Ng2pC)
 
 via [Volunteering Lebanon](https://www.facebook.com/groups/VolunteeringLebanon/?post_id=2703874846524835)
 

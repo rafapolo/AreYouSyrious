@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 05/01/2018: The trickle-down effect.
+title: "AYS Daily Digest 05/01/2018: The trickle-down effect."
 author: Are You Syrious?
 date: 2018-01-06T09:06:45.361+0000
 last_modified_at: 2018-01-06T14:49:47.038+0000
@@ -7,7 +7,7 @@ categories:
 tags: [europe,refugees,refugees-in-italy,migration,eu]
 description: Attacks on refugee centers in Italy // Report on a psychologically vulnerable individual driven to suicide in Lampedusa // Attacks on…
 image:
-  path: assets/d957f1623b03/1*DG3HA9uHeYzHBjCmvzk3iw.jpeg
+  path: ../assets/d957f1623b03/1*DG3HA9uHeYzHBjCmvzk3iw.jpeg
 ---
 
 ### AYS Daily Digest 05/01/2018: The trickle\-down effect\.
@@ -15,7 +15,7 @@ image:
 Attacks on refugee centers in Italy // Report on a psychologically vulnerable individual driven to suicide in Lampedusa // Attacks on migrant workers increasing in Greece // Volunteer opportunities across Greece // EU “discussing” Hungary, Poland and Czech Republic’s quota refusal // Austria considering night curfew for asylum seekers // New projects and new problems in France // and more…
 
 
-![Lampedusa\. Photo credit: [**Leonardo Cavaliere**](https://www.facebook.com/msna.minoristranierinonaccompagnati?hc_location=group_dialog)](assets/d957f1623b03/1*DG3HA9uHeYzHBjCmvzk3iw.jpeg)
+![Lampedusa\. Photo credit: [**Leonardo Cavaliere**](https://www.facebook.com/msna.minoristranierinonaccompagnati?hc_location=group_dialog)](../assets/d957f1623b03/1*DG3HA9uHeYzHBjCmvzk3iw.jpeg)
 
 Lampedusa\. Photo credit: [**Leonardo Cavaliere**](https://www.facebook.com/msna.minoristranierinonaccompagnati?hc_location=group_dialog)
 ### FEATURE: The sinister collaboration — how policy affects people\.
@@ -52,7 +52,7 @@ The following is a translated report on the tragic deterioration of this man\.
 The full article, in Italian, is available [here](http://meridionews.it/articolo/61867/lampedusa-migrante-si-toglie-la-vita-fuori-dallhotspot-attivisti-temeva-di-essere-rimpatriato-lasciato-solo/) \.
 
 
-![Refugee boy stuck in Serbia for 18 months\. Photo Gabriel Tizon\.](assets/d957f1623b03/1*IYOROpHC0mjPjLN3B-sUPA.jpeg)
+![Refugee boy stuck in Serbia for 18 months\. Photo Gabriel Tizon\.](../assets/d957f1623b03/1*IYOROpHC0mjPjLN3B-sUPA.jpeg)
 
 Refugee boy stuck in Serbia for 18 months\. Photo Gabriel Tizon\.
 
@@ -164,7 +164,7 @@ Katsikas camp is open again, and Habibi\.Works has a space nearby and will be ab
 If you are interested in getting involved and supporting this project, please go [here](https://www.facebook.com/HabibiWorks/posts/1326845797460841) \.
 
 
-![Serbia, 2018\. Photo credit Gabriel Tizon](assets/d957f1623b03/1*P0fchyf6RJuDChcZAvBXjw.jpeg)
+![Serbia, 2018\. Photo credit Gabriel Tizon](../assets/d957f1623b03/1*P0fchyf6RJuDChcZAvBXjw.jpeg)
 
 Serbia, 2018\. Photo credit Gabriel Tizon
 
@@ -182,7 +182,7 @@ Austrian Vice Chancellor Strache argued that not only should refugees be put in 
 ### FRANCE
 
 
-![Photo credit: Danika Jurisic](assets/d957f1623b03/1*Br9W7crYPnDyy_-VavWYnA.jpeg)
+![Photo credit: Danika Jurisic](../assets/d957f1623b03/1*Br9W7crYPnDyy_-VavWYnA.jpeg)
 
 Photo credit: Danika Jurisic
 

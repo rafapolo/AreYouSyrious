@@ -1,13 +1,13 @@
 ---
-title: AYS News Digest: 01/12/2021 — EU law change allows Eastern countries to waive asylum seekers rights.
+title: "AYS News Digest: 01/12/2021 — EU law change allows Eastern countries to waive asylum seekers rights."
 author: Are You Syrious?
 date: 2021-12-02T11:42:44.920+0000
 last_modified_at: 2021-12-02T13:22:51.010+0000
 categories: Are You Syrious?
 tags: [digest,europeancommission,eu,humanrights]
-description: Journalist imprisoned in Libya, tells story // More funding for SAR: Salvamento Maritimo // Polish state of emergency extended //…
+description: "Journalist imprisoned in Libya, tells story // More funding for SAR: Salvamento Maritimo // Polish state of emergency extended //…"
 image:
-  path: assets/853105e0f6fd/0*xvZFQhbrJHpNkggu
+  path: ../assets/853105e0f6fd/0*xvZFQhbrJHpNkggu
 ---
 
 ### AYS News Digest: 01/12/2021 — EU law change allows Eastern countries to waive asylum seekers rights
@@ -16,7 +16,7 @@ image:
 #### EU law change allows Eastern countries to waive asylum seekers rights
 
 
-![Photo Credit: [The Left in the European Parliament](https://twitter.com/Left_EU/status/1466084463901880321?fbclid=IwAR2OBaHdYrg9t5qDM3rf8HzWpLbbC3-S2jd9dtWqT93893SN6nwqMztG044)](assets/853105e0f6fd/0*xvZFQhbrJHpNkggu)
+![Photo Credit: [The Left in the European Parliament](https://twitter.com/Left_EU/status/1466084463901880321?fbclid=IwAR2OBaHdYrg9t5qDM3rf8HzWpLbbC3-S2jd9dtWqT93893SN6nwqMztG044)](../assets/853105e0f6fd/0*xvZFQhbrJHpNkggu)
 
 Photo Credit: [The Left in the European Parliament](https://twitter.com/Left_EU/status/1466084463901880321?fbclid=IwAR2OBaHdYrg9t5qDM3rf8HzWpLbbC3-S2jd9dtWqT93893SN6nwqMztG044)
 
@@ -33,7 +33,7 @@ Further coverage of Ian Urbina, the author of the New Yorker piece, i [s intervi
 #### Missing man, last seen Melilla
 
 
-![Photo Credit: [AMDH](https://www.facebook.com/AmdhNador/posts/3074490012763253)](assets/853105e0f6fd/0*FBTA7dm0gAQvX5Im)
+![Photo Credit: [AMDH](https://www.facebook.com/AmdhNador/posts/3074490012763253)](../assets/853105e0f6fd/0*FBTA7dm0gAQvX5Im)
 
 Photo Credit: [AMDH](https://www.facebook.com/AmdhNador/posts/3074490012763253)
 
@@ -42,7 +42,7 @@ Photo Credit: [AMDH](https://www.facebook.com/AmdhNador/posts/3074490012763253)
 #### Conference in Serbia
 
 
-![Photo Credit: [Medija Centar Beograd](https://mc.rs/dogadjaji/dokumentovanje-povrede-prava-na-granici-izmedu-srbije-i-hrvatske/720?fbclid=IwAR2NbdGWDZWxTsgw-1filTs1jwyJWaA7I6GvtmSxG_0ApO6FnU86Tl-3mxc)](assets/853105e0f6fd/0*OQtLsTMUEzRpe4ZH)
+![Photo Credit: [Medija Centar Beograd](https://mc.rs/dogadjaji/dokumentovanje-povrede-prava-na-granici-izmedu-srbije-i-hrvatske/720?fbclid=IwAR2NbdGWDZWxTsgw-1filTs1jwyJWaA7I6GvtmSxG_0ApO6FnU86Tl-3mxc)](../assets/853105e0f6fd/0*OQtLsTMUEzRpe4ZH)
 
 Photo Credit: [Medija Centar Beograd](https://mc.rs/dogadjaji/dokumentovanje-povrede-prava-na-granici-izmedu-srbije-i-hrvatske/720?fbclid=IwAR2NbdGWDZWxTsgw-1filTs1jwyJWaA7I6GvtmSxG_0ApO6FnU86Tl-3mxc)
 
@@ -109,7 +109,7 @@ Despite the ban of journalists, [this article](https://oko.press/rozmowy-przy-pl
 #### Push\-back in Bad Radkersburg in Court in Austria
 
 
-![Austrian Parliament Building, Wien, Austria\. Photo Credit: Photo by [Frederic Köberl](https://unsplash.com/@internetztube?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/austria-parliament?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](assets/853105e0f6fd/0*_OZp8N5y_KbvvyXA)
+![Austrian Parliament Building, Wien, Austria\. Photo Credit: Photo by [Frederic Köberl](https://unsplash.com/@internetztube?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/austria-parliament?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](../assets/853105e0f6fd/0*_OZp8N5y_KbvvyXA)
 
 Austrian Parliament Building, Wien, Austria\. Photo Credit: Photo by [Frederic Köberl](https://unsplash.com/@internetztube?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/austria-parliament?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
@@ -136,7 +136,7 @@ The authors also call for the Committee of Ministers over\-seeing the complaints
 #### Vigil in France following Channel tragedy
 
 
-![Photo Credit: Marie Magnin and [Hans Lucas](https://www.facebook.com/studioHansLucas?__cft__[0]=AZX2LVOAYsxeoD53HEgGrSiW-8AnpPlVZg9F5aSIXgoroqm9hCNURuFkL2eKLa77oO4koYPXISJHTzf6slMKDppHFHuGNm8wxrUJJAFcT78HKwgKExqveH_zP4Nd_HhS8iSdoB48n5qilF0i-8W13dzN&__tn__=-]K-R) , via [Refugee Infobus](https://www.facebook.com/RefugeeInfoBus/posts/3154980971403976)](assets/853105e0f6fd/0*RGRLxVJmsn-Lpaae)
+![Photo Credit: Marie Magnin and [Hans Lucas](https://www.facebook.com/studioHansLucas?__cft__[0]=AZX2LVOAYsxeoD53HEgGrSiW-8AnpPlVZg9F5aSIXgoroqm9hCNURuFkL2eKLa77oO4koYPXISJHTzf6slMKDppHFHuGNm8wxrUJJAFcT78HKwgKExqveH_zP4Nd_HhS8iSdoB48n5qilF0i-8W13dzN&__tn__=-]K-R) , via [Refugee Infobus](https://www.facebook.com/RefugeeInfoBus/posts/3154980971403976)](../assets/853105e0f6fd/0*RGRLxVJmsn-Lpaae)
 
 Photo Credit: Marie Magnin and [Hans Lucas](https://www.facebook.com/studioHansLucas?__cft__[0]=AZX2LVOAYsxeoD53HEgGrSiW-8AnpPlVZg9F5aSIXgoroqm9hCNURuFkL2eKLa77oO4koYPXISJHTzf6slMKDppHFHuGNm8wxrUJJAFcT78HKwgKExqveH_zP4Nd_HhS8iSdoB48n5qilF0i-8W13dzN&__tn__=-]K-R) , via [Refugee Infobus](https://www.facebook.com/RefugeeInfoBus/posts/3154980971403976)
 
@@ -156,7 +156,7 @@ This week the Migration Agency came out with [a new legal statement](https://lif
 #### Calls for help with no reply, Channel tragedy
 
 
-![Photo Credit: Flight tracking of HM Coastguard’s helicopter G\-MCGU \(named “Sar 111232535” on MarineTraffic\) by [Sergio Scandura](https://twitter.com/scandura)](assets/853105e0f6fd/0*vHcgiT0NmOzFskEo)
+![Photo Credit: Flight tracking of HM Coastguard’s helicopter G\-MCGU \(named “Sar 111232535” on MarineTraffic\) by [Sergio Scandura](https://twitter.com/scandura)](../assets/853105e0f6fd/0*vHcgiT0NmOzFskEo)
 
 Photo Credit: Flight tracking of HM Coastguard’s helicopter G\-MCGU \(named “Sar 111232535” on MarineTraffic\) by [Sergio Scandura](https://twitter.com/scandura)
 
@@ -175,7 +175,7 @@ The response of the British government has been to place the blame for the trage
 [This detailed article](https://picum.org/data-protection-and-digital-technologies/?fbclid=IwAR1zks5lSEipQg-hbE2ebYsavUrNsHP9R3awlGNlzXoN0U6BWL1kCfWoW_Y) discusses how digital technology and large\-scale processing of personal details for use in immigration control leads to racist discrimination\. The link between databases for immigration control and those for serious crime prevention are linked in ways that discourage undocumented people from reporting crimes against themselves\.
 
 
-![Photo Credit: Open Letter [Europe Must Act](https://www.europemustact.org/post/dear-commissioner-johansson-do-you-remember-your-commitment-to-speak-up-for-human-rights?fbclid=IwAR3nG6SKXwfjMMc_bx9FxL8GQQg36inTX-G-dU5y7EUjM2bXP-cBrczq-UU)](assets/853105e0f6fd/0*kQPo89pZEZ0FGMCL)
+![Photo Credit: Open Letter [Europe Must Act](https://www.europemustact.org/post/dear-commissioner-johansson-do-you-remember-your-commitment-to-speak-up-for-human-rights?fbclid=IwAR3nG6SKXwfjMMc_bx9FxL8GQQg36inTX-G-dU5y7EUjM2bXP-cBrczq-UU)](../assets/853105e0f6fd/0*kQPo89pZEZ0FGMCL)
 
 Photo Credit: Open Letter [Europe Must Act](https://www.europemustact.org/post/dear-commissioner-johansson-do-you-remember-your-commitment-to-speak-up-for-human-rights?fbclid=IwAR3nG6SKXwfjMMc_bx9FxL8GQQg36inTX-G-dU5y7EUjM2bXP-cBrczq-UU)
 

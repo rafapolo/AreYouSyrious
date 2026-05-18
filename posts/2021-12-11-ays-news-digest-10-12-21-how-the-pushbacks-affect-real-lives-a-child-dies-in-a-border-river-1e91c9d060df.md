@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 10/12/21: How the pushbacks affect real lives — a child dies in a border river
+title: "AYS News Digest 10/12/21: How the pushbacks affect real lives — a child dies in a border river"
 author: Are You Syrious?
 date: 2021-12-11T21:09:40.549+0000
 last_modified_at: 2021-12-11T21:09:40.549+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,croatia,borders,europe]
 description: Death at the border / Syrians in Belarus — open letter / Homeless asylum seekers in Belgium / Hungary ignores court decisions (again) /…
 image:
-  path: assets/1e91c9d060df/0*qREGRtVRoEi9SMDG.jpeg
+  path: ../assets/1e91c9d060df/0*qREGRtVRoEi9SMDG.jpeg
 ---
 
 ### AYS News Digest 10/12/21: How the pushbacks affect real lives — a child dies in a border river
 ### Death at the border / Syrians in Belarus — open letter / Homeless asylum seekers in Belgium / Hungary ignores court decisions \(again\) / SAR updates / Recommended reading and watching material for your weekend & more
 
 
-![](assets/1e91c9d060df/0*TYHB23ZBRlhSb8hS.jpeg)
+![](../assets/1e91c9d060df/0*TYHB23ZBRlhSb8hS.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----ec7028264272-----------------------------------)
@@ -22,7 +22,7 @@ image:
 [Dec 11](ays-news-digest-10-12-21-how-the-pushbacks-affect-real-lives-a-child-dies-in-a-border-river-ec7028264272?source=post_page-----ec7028264272-----------------------------------) · 13 min read
 
 
-![](assets/1e91c9d060df/0*FBOS-X3Shsi8oL88.jpeg)
+![](../assets/1e91c9d060df/0*FBOS-X3Shsi8oL88.jpeg)
 
 
 Search for the little Kurdish girl who lost her life in river Dragonja, Istria area, between Croatia and Slovenia \(Photo: PU Istarska\)
@@ -91,7 +91,7 @@ We agree with our friends from Info Kolpa in underlining what is most important:
 We have been asked by the activists helping in the area and by those representing the many people stuck in Belarus and fleeing for a number of reasons, to share the letter they wrote this week, addressed to organisations with any to significant power to do something about their situation, and to the international community\. We share it in full and their version:
 
 
-![](assets/1e91c9d060df/0*y9QAQ_sQte06u329.jpeg)
+![](../assets/1e91c9d060df/0*y9QAQ_sQte06u329.jpeg)
 
 ### SEA
 ### Seebrücke report from the Atlantic
@@ -135,15 +135,15 @@ And the question remains, how will people eat? See our Special on [food scarcity
 ### Human rights in Greece?
 
 
-![](assets/1e91c9d060df/0*_y0EnkPByEUDCdsg.jpeg)
+![](../assets/1e91c9d060df/0*_y0EnkPByEUDCdsg.jpeg)
 
 
 
-![](assets/1e91c9d060df/0*-UK31gjYDD2H5ARe.jpeg)
+![](../assets/1e91c9d060df/0*-UK31gjYDD2H5ARe.jpeg)
 
 
 
-![](assets/1e91c9d060df/0*qREGRtVRoEi9SMDG.jpeg)
+![](../assets/1e91c9d060df/0*qREGRtVRoEi9SMDG.jpeg)
 
 
 \(Photo Credit: [Moria Corona Awareness Team](https://www.facebook.com/MoriaWhiteHelmets/posts/458494945793570) \)

@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 12–14/02/22: Demonstration in Poland outside POM detention facility sees arrests…
+title: "AYS News Digest 12–14/02/22: Demonstration in Poland outside POM detention facility sees arrests…"
 author: Are You Syrious?
 date: 2022-02-15T22:28:42.744+0000
 last_modified_at: 2022-02-15T22:28:42.744+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,people-on-the-move,greece,poland,tunisia]
 description: Protest outside UNHCR in Tunisia // ‘Boat driving’ trial begins on Samos // Protests on Chios, Samos, Lesvos against closed structures //…
 image:
-  path: assets/9450e1d20fdc/0*uNBujGQMWWd0SCbM.jpeg
+  path: ../assets/9450e1d20fdc/0*uNBujGQMWWd0SCbM.jpeg
 ---
 
 ### AYS News Digest 12–14/02/22: Demonstration in Poland outside POM detention facility sees arrests, police violence
@@ -15,7 +15,7 @@ image:
 ### FEATURE — Demonstration in solidarity with people on the move in Poland met with police violence, arrests
 
 
-![](assets/9450e1d20fdc/0*uNBujGQMWWd0SCbM.jpeg)
+![](../assets/9450e1d20fdc/0*uNBujGQMWWd0SCbM.jpeg)
 
 
 A scene from Saturday’s protest in Krosno Odrzańskie\. \(Photo: [No Borders Team](https://www.facebook.com/nobordersteam/photos/a.104858888661609/141745991639565/) \)

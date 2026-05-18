@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 18/07/2018: Turkey stops registering newly arriving Syrians
+title: "AYS Daily Digest 18/07/2018: Turkey stops registering newly arriving Syrians"
 author: Are You Syrious?
 date: 2018-07-19T01:21:59.226+0100
 last_modified_at: 2018-07-20T15:35:10.182+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,human-rights,turkey,greece,digest]
 description: HRW report highlights the situation at the border / Boat sinks off Cyprus / SOS Mediterranee to reevaluate its operations / Rumors about…
 image:
-  path: assets/eaeb63744d16/1*rk1OIJgp4cnvXMcLHdMcYA.jpeg
+  path: ../assets/eaeb63744d16/1*rk1OIJgp4cnvXMcLHdMcYA.jpeg
 ---
 
 ### AYS Daily Digest 18/07/2018: Turkey stops registering newly arriving Syrians
@@ -15,7 +15,7 @@ image:
 _HRW report highlights the situation at the border / Boat sinks off Cyprus / SOS Mediterranee to reevaluate its operations / Rumors about next deportation from Austria / Updates from France, the Netherlands, and Sweden / And more news…_
 
 
-![The Bosnian\-Croatian border\. Here is only one of many people struggling to cross to find refuge\. \(Photo by [Gabriel Tizon](https://www.facebook.com/gabrieltizonfotografo/photos/a.213760148669815.51627.213743695338127/1813252802053867/?type=3&theater) \)](assets/eaeb63744d16/1*rk1OIJgp4cnvXMcLHdMcYA.jpeg)
+![The Bosnian\-Croatian border\. Here is only one of many people struggling to cross to find refuge\. \(Photo by [Gabriel Tizon](https://www.facebook.com/gabrieltizonfotografo/photos/a.213760148669815.51627.213743695338127/1813252802053867/?type=3&theater) \)](../assets/eaeb63744d16/1*rk1OIJgp4cnvXMcLHdMcYA.jpeg)
 
 The Bosnian\-Croatian border\. Here is only one of many people struggling to cross to find refuge\. \(Photo by [Gabriel Tizon](https://www.facebook.com/gabrieltizonfotografo/photos/a.213760148669815.51627.213743695338127/1813252802053867/?type=3&theater) \)
 ### FEATURE

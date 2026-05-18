@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 19.11.17: Police say they are happy to let refugee on hunger strike die
+title: "AYS Daily Digest 19.11.17: Police say they are happy to let refugee on hunger strike die"
 author: Are You Syrious?
 date: 2017-11-20T04:53:53.890+0000
 last_modified_at: 2017-11-20T10:11:14.128+0000
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,greece,european-union,syria,france]
 description: Feature
 image:
-  path: assets/78197c933431/1*Rcb2nAKxvyy34w3diKz8cA.jpeg
+  path: ../assets/78197c933431/1*Rcb2nAKxvyy34w3diKz8cA.jpeg
 ---
 
 ### AYS Daily Digest 19\.11\.17: Police say they are happy to let refugee on hunger strike die
 
 
-![Credit: Claudio Cadei](assets/78197c933431/1*Rcb2nAKxvyy34w3diKz8cA.jpeg)
+![Credit: Claudio Cadei](../assets/78197c933431/1*Rcb2nAKxvyy34w3diKz8cA.jpeg)
 
 Credit: Claudio Cadei
 #### Feature
@@ -52,7 +52,7 @@ Another refugee has also sent in a video showing the condition of the tent, inha
 Refugees in Samos tonight went away without a hot meal\. A photo submitted by a refugees shows the contents of the dinner as follows: two eggs, a tomato, cheese, a slice of bread, olives, and cake\. Refugees do not expect to be served lobster and truffles, but this strange and low\-effort motley of food is unlikely to fulfill a person’s dietary needs\.
 
 
-![](assets/78197c933431/1*XVmvhk4ntHaLIlsvx7H3iA.jpeg)
+![](../assets/78197c933431/1*XVmvhk4ntHaLIlsvx7H3iA.jpeg)
 
 ### Rescue Crew needs volunteers for December 2017 and January 2018
 
@@ -70,13 +70,13 @@ Lesvos: 57 people
 #### SERBIA
 
 
-![Refugees warm themselves around a fire in Šid\. Photo Credit: Dimitris Tosidis](assets/78197c933431/1*_VrLBLlXCbkiSQ5VFG2fDw.jpeg)
+![Refugees warm themselves around a fire in Šid\. Photo Credit: Dimitris Tosidis](../assets/78197c933431/1*_VrLBLlXCbkiSQ5VFG2fDw.jpeg)
 
 Refugees warm themselves around a fire in Šid\. Photo Credit: Dimitris Tosidis
 ### UNHCR data shows increasing numbers of refugees in Serbia
 
 
-![](assets/78197c933431/1*W8-opDaFejaXsijdQQL7cw.jpeg)
+![](../assets/78197c933431/1*W8-opDaFejaXsijdQQL7cw.jpeg)
 
 
 According to the UNHCR, as of October 2017 there were 4,550 refugees in Serbia\. Most are housed in centers across the country, however, the data shows that approximately 10% \(450\) of those living in Serbia are currently without shelter\.
@@ -87,7 +87,7 @@ The city of Šid, where No Name Kitchen operates, is in need of medical personne
 ### AYS van has its windows smashed
 
 
-![](assets/78197c933431/1*WIEZwJRt-3Tzh8Il1m8lTg.jpeg)
+![](../assets/78197c933431/1*WIEZwJRt-3Tzh8Il1m8lTg.jpeg)
 
 
 The AYS van has been vandalized after our appeal to keep the residents in Zagreb rather than moving them to a motel near the Serbian border\. The police has opened aninvestigation, but we don’t expect much out of it\. We use this vehicle every day to bring both kids and adults from Porin camp to different educational or other activities, to move those who’ve been granted asylum to their new homes, to distribute donations etc\. We are completely paralyzed without it\. If you would like to contribute to repairing the van, please contact us on FB\. We’d really appreciate it\.
@@ -103,7 +103,7 @@ The We Are Here group consists of refugee individuals who have found themselves 
 ### 6 weeks after evictions, refugees from squat in Rue Gambetta continue to camp outdoors
 
 
-![The encampment continues its existence\. Photo Credit: Francis Voignier](assets/78197c933431/1*0R7VIdGH2bseuFhcvJCwzQ.jpeg)
+![The encampment continues its existence\. Photo Credit: Francis Voignier](../assets/78197c933431/1*0R7VIdGH2bseuFhcvJCwzQ.jpeg)
 
 The encampment continues its existence\. Photo Credit: Francis Voignier
 

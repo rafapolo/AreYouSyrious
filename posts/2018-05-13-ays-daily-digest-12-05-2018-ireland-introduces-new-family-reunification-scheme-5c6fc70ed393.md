@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 12/05/2018: Ireland introduces new family reunification scheme
+title: "AYS Daily Digest 12/05/2018: Ireland introduces new family reunification scheme"
 author: Are You Syrious?
 date: 2018-05-13T10:59:31.698+0100
 last_modified_at: 2018-05-13T15:23:35.532+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,human-rights,greece,european-union]
 description: 530 refugee family members will be brought to Ireland under new scheme// Many rescues at Sea//News from Syria// 24 hour metro strike in…
 image:
-  path: assets/5c6fc70ed393/1*3wYkiCIaSN1ycLzc832UtQ.jpeg
+  path: ../assets/5c6fc70ed393/1*3wYkiCIaSN1ycLzc832UtQ.jpeg
 ---
 
 ### AYS Daily Digest 12/05/2018: Ireland introduces new family reunification scheme
@@ -16,7 +16,7 @@ _530 refugee family members will be brought to Ireland under new scheme// Many r
 
 
 ![A Syrian refugee at [\#Moria](https://www.facebook.com/hashtag/moria) makeshift camp at Lesvos island\.
-Photograph by Ayhan Mehmet](assets/5c6fc70ed393/1*3wYkiCIaSN1ycLzc832UtQ.jpeg)
+Photograph by Ayhan Mehmet](../assets/5c6fc70ed393/1*3wYkiCIaSN1ycLzc832UtQ.jpeg)
 
 A Syrian refugee at [\#Moria](https://www.facebook.com/hashtag/moria) makeshift camp at Lesvos island\.
 Photograph by Ayhan Mehmet
@@ -44,11 +44,11 @@ We warn that priority is intended to be given to people who are able to provide 
 
 
 
-![](assets/5c6fc70ed393/1*6CTLAtmg_KBwLW8ifSTejQ.jpeg)
+![](../assets/5c6fc70ed393/1*6CTLAtmg_KBwLW8ifSTejQ.jpeg)
 
 
 
-![Source: Ghouta Facebook Page](assets/5c6fc70ed393/1*AOHtyGn06jf8RO8deiZMnw.jpeg)
+![Source: Ghouta Facebook Page](../assets/5c6fc70ed393/1*AOHtyGn06jf8RO8deiZMnw.jpeg)
 
 Source: Ghouta Facebook Page
 ### Sea:
@@ -58,7 +58,7 @@ After a call from MRCC Rome, At 5\.30 am, the sea fox rescued 19 people\. They w
 #### 73 people rescued by Aquarius in International waters off coast of Libya
 
 
-![Source: Anthony Jean/ SOS Mediterranee](assets/5c6fc70ed393/1*kqZ4YQidZ2T2pjBKK6UKlw.png)
+![Source: Anthony Jean/ SOS Mediterranee](../assets/5c6fc70ed393/1*kqZ4YQidZ2T2pjBKK6UKlw.png)
 
 Source: Anthony Jean/ SOS Mediterranee
 
@@ -235,7 +235,7 @@ Movement of Justice warns that the centre is dehumanising and that everyone is t
 
 
 
-![](assets/5c6fc70ed393/1*fGdt4S68wuxzAeJ4F1soCw.jpeg)
+![](../assets/5c6fc70ed393/1*fGdt4S68wuxzAeJ4F1soCw.jpeg)
 
 
 

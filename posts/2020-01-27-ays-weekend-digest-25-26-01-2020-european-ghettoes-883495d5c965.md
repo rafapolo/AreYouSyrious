@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 25–26/01/2020: European ghettoes
+title: "AYS Weekend Digest 25–26/01/2020: European ghettoes"
 author: Are You Syrious?
 date: 2020-01-27T11:12:46.391+0000
 last_modified_at: 2020-01-27T11:46:06.244+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,concentration-camps,moria,ghetto]
 description: Slums and tents are one of the face of European migration policies — Everywhere in the continent more people live in horrific conditions
 image:
-  path: assets/883495d5c965/1*QAaFAdAcbbdmqM_xSsoJ7w.jpeg
+  path: ../assets/883495d5c965/1*QAaFAdAcbbdmqM_xSsoJ7w.jpeg
 ---
 
 ### AYS Weekend Digest 25–26/01/2020: European ghettoes
@@ -15,7 +15,7 @@ image:
 _Slums and tents are one of the faces of European migration policies — in the Greek islands and in Patras, in Sid and Velika Kladusa, in the Italian south, in Paris and Dunkirk\._
 
 
-![[Lesvos, Photo by Knut Bry/Tinagent](https://www.facebook.com/sk.aldeen.3/posts/1593085910849899)](assets/883495d5c965/1*QAaFAdAcbbdmqM_xSsoJ7w.jpeg)
+![[Lesvos, Photo by Knut Bry/Tinagent](https://www.facebook.com/sk.aldeen.3/posts/1593085910849899)](../assets/883495d5c965/1*QAaFAdAcbbdmqM_xSsoJ7w.jpeg)
 
 [Lesvos, Photo by Knut Bry/Tinagent](https://www.facebook.com/sk.aldeen.3/posts/1593085910849899)
 #### Feature: European migration policies: camps, slums and detention centres
@@ -47,7 +47,7 @@ He also announced that he will ensure the implementation of a new law for which 
 
 
 
-![[Lesvos, Photo by Knut Bry/Tinagent](https://www.facebook.com/sk.aldeen.3/posts/1593085910849899)](assets/883495d5c965/1*CL9aztWOvcFdcXUBhq6RVg.jpeg)
+![[Lesvos, Photo by Knut Bry/Tinagent](https://www.facebook.com/sk.aldeen.3/posts/1593085910849899)](../assets/883495d5c965/1*CL9aztWOvcFdcXUBhq6RVg.jpeg)
 
 [Lesvos, Photo by Knut Bry/Tinagent](https://www.facebook.com/sk.aldeen.3/posts/1593085910849899)
 
@@ -59,7 +59,7 @@ He also announced that he will ensure the implementation of a new law for which 
 
 
 
-![[Lesvos, Photo by Knut Bry/Tinagent](https://www.facebook.com/sk.aldeen.3/posts/1593085910849899)](assets/883495d5c965/1*S908ktzE4FlYPVW1XG2c9g.jpeg)
+![[Lesvos, Photo by Knut Bry/Tinagent](https://www.facebook.com/sk.aldeen.3/posts/1593085910849899)](../assets/883495d5c965/1*S908ktzE4FlYPVW1XG2c9g.jpeg)
 
 [Lesvos, Photo by Knut Bry/Tinagent](https://www.facebook.com/sk.aldeen.3/posts/1593085910849899)
 
@@ -71,7 +71,7 @@ He also announced that he will ensure the implementation of a new law for which 
 
 
 
-![[Lesvos, Photo by Knut Bry/Tinagent](https://www.facebook.com/sk.aldeen.3/posts/1593085910849899)](assets/883495d5c965/1*GHl87aZfbRHOIgheSZZzXA.jpeg)
+![[Lesvos, Photo by Knut Bry/Tinagent](https://www.facebook.com/sk.aldeen.3/posts/1593085910849899)](../assets/883495d5c965/1*GHl87aZfbRHOIgheSZZzXA.jpeg)
 
 [Lesvos, Photo by Knut Bry/Tinagent](https://www.facebook.com/sk.aldeen.3/posts/1593085910849899)
 
@@ -85,14 +85,14 @@ He also announced that he will ensure the implementation of a new law for which 
 In Dunkirk as well, due to the cold temperatures and the reduction of the areas of woodland, people are now seeking refuge in several large abandoned warehouses, which are filled with loose concrete, scrap metal and rubbish\. Despite this, they became a temporary home for hundreds of people including dozens of small children, sleeping in their tents\. Each tent is packed extremely tightly, with little room for more — [as Mobile Refugee Support \(MRS\) state](https://www.facebook.com/MobileRefugeeSupport/posts/1171908166348126) \.
 
 
-![[Dunkirk, Photo by Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/posts/1171908166348126)](assets/883495d5c965/1*FoETeIZB47A3lNQHGP9YmQ.jpeg)
+![[Dunkirk, Photo by Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/posts/1171908166348126)](../assets/883495d5c965/1*FoETeIZB47A3lNQHGP9YmQ.jpeg)
 
 [Dunkirk, Photo by Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/posts/1171908166348126)
 
 In the first weeks of the year, MRS witnessed many new arrivals every day\. Having been harassed and detained at every step of their journey, many people arrive with little more than the clothes on their back and a handful of possessions\.
 
 
-![[Dunkirk, Photo by Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/posts/1171908166348126)](assets/883495d5c965/1*S6wsZjx0_A6TsiZazigUKA.jpeg)
+![[Dunkirk, Photo by Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/posts/1171908166348126)](../assets/883495d5c965/1*S6wsZjx0_A6TsiZazigUKA.jpeg)
 
 [Dunkirk, Photo by Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/posts/1171908166348126)
 
@@ -103,13 +103,13 @@ Also in Patras, on the west coast of Greece, people find refuge in abandoned war
 Similar situations can be found all over Greece and the Balkans\. Listen to this weekly report by ENS MOVEN, in which three independent volunteers working with No Name Kitchen in Sid, Velika Kladusaand Patras, talk about the conditions for people on the move\. \(It’s in Spanish, but with English subtitles\) \.
 
 
-[![ENS MOVEM - Semana del 20 al 26 de enero de 2020](assets/883495d5c965/b035_hqdefault.jpg "ENS MOVEM - Semana del 20 al 26 de enero de 2020")](https://www.youtube.com/watch?v=IxWmB5gT5Dk)
+[![ENS MOVEM - Semana del 20 al 26 de enero de 2020](../assets/883495d5c965/b035_hqdefault.jpg "ENS MOVEM - Semana del 20 al 26 de enero de 2020")](https://www.youtube.com/watch?v=IxWmB5gT5Dk)
 
 
 On Saturday, Italian MSF, published a report titled [“Vite a giornata”](https://www.meltingpot.org/Vite-a-giornata-precarieta-ed-esclusione-dalle-cure-per-i.html?fbclid=IwAR3GYeKNh1XZ-VodeWj_9D1IIPl9NRmzFORriRj0VpNvq61HcJkIF0KbNUM#.Xi36Wy2ZM0o) , describing their outreach activity in the last 6 months of 2019 in informal migrant settlements in the Basilicata region, southern Italy\.
 
 
-![](assets/883495d5c965/1*YogfTFh2CzmdoH0Ys-HU2w.png)
+![](../assets/883495d5c965/1*YogfTFh2CzmdoH0Ys-HU2w.png)
 
 
 Such settlements are “home” to both seasonal farm workers, and workers who are based in the region, but also to those who have been evicted from other similar settlements in other regions of Italy and those who recently lost their “humanitarian protection” status, due to the change in the law of late 2018\.
@@ -119,7 +119,7 @@ In these ghettoes, difficulties caused by horrific hygienic and sanitary conditi
 Shantytowns, makeshift camps, old farmhouses or factories, all the settlements monitored by MSF are unhealthy and unfit for human habitation, but they act as places of refuge from a hostile environment\.
 
 
-![\(Photo by Maurizio Debanne/MSF\)](assets/883495d5c965/1*cjIExEl2v_9ok7eeh9w2kw.jpeg)
+![\(Photo by Maurizio Debanne/MSF\)](../assets/883495d5c965/1*cjIExEl2v_9ok7eeh9w2kw.jpeg)
 
 \(Photo by Maurizio Debanne/MSF\)
 

@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [poland,racism,nationalism,refugees,digest]
 description: Far-right march in Poland // Shootings outside of Libyan detention center // Unaccompanied minors updates from Greece // Updates on the…
 image:
-  path: assets/4a151a5ae435/1*wXm-eukkT6TaYCr_0uX-xw.jpeg
+  path: ../assets/4a151a5ae435/1*wXm-eukkT6TaYCr_0uX-xw.jpeg
 ---
 
 ### AYS Weekend Digest 10–11/11/18 Racist attacks on AYS Integration Centre
@@ -15,7 +15,7 @@ image:
 _Far\-right march in Poland // Shootings outside of Libyan detention center // Unaccompanied minors updates from Greece // Updates on the ground from the Balkans // and so much more…_
 
 
-![](assets/4a151a5ae435/1*PiTAfTlet__wFUZ_qU-6pQ.jpeg)
+![](../assets/4a151a5ae435/1*PiTAfTlet__wFUZ_qU-6pQ.jpeg)
 
 ### Feature
 
@@ -24,11 +24,11 @@ A direct consequence of anti\-refugee propaganda: AYS integration center is targ
 For the third time in recent weeks, AYS’ van, free shop and integration center in Zagreb have been vandalized by unknown perpetrators who usually act during the night and on weekends\. Such attacks occur when our media presence is higher or when anti\-refugee propaganda is on the rise, as it currently is in Croatia\. The last two incidents involved breaking our windows and smashing our van with bricks\.
 
 
-![](assets/4a151a5ae435/1*wXm-eukkT6TaYCr_0uX-xw.jpeg)
+![](../assets/4a151a5ae435/1*wXm-eukkT6TaYCr_0uX-xw.jpeg)
 
 
 
-![Photo By Are You Syrious’ Integration Center in Zagreb](assets/4a151a5ae435/1*Gosuu5DF5Qcru8_8OW4wQA.jpeg)
+![Photo By Are You Syrious’ Integration Center in Zagreb](../assets/4a151a5ae435/1*Gosuu5DF5Qcru8_8OW4wQA.jpeg)
 
 Photo By Are You Syrious’ Integration Center in Zagreb
 
@@ -37,7 +37,7 @@ This attack is only part of the threatening reality\. Recently, there’s an alm
 Because of this, our volunteers have been repeatedly held for hours in police stations for reporting unlawful activities even though we are legally supporting asylum seekers, and we receive threats of criminal charges with no legal grounds\. However, it is important to note that we have a very decent cooperation with police officers in the Porin reception center in Zagreb where we have a constant presence\. Yet the Minister of Interior has called us out several times for “encouraging illegal migration”, which has also triggered a lot of hate coming from Croatian fascists\.
 
 
-![](assets/4a151a5ae435/1*mILN89Wh-MrZqjnOiVL-QQ.jpeg)
+![](../assets/4a151a5ae435/1*mILN89Wh-MrZqjnOiVL-QQ.jpeg)
 
 
 Today’s events are just another vivid example of how such public government pressure and fake news propaganda make a toxic mix that erupts in violence and vandalism\. Of course, this only motivates us to continue our work\. In solidarity, AYS ✊
@@ -54,7 +54,7 @@ The photo below is from the detention center Sabaa, where a few people managed t
 Calls to UNHCR Libya, where are you? Why aren’t you getting them out?
 
 
-![Photo by [Giulia Tranchina](https://twitter.com/GiuliaRastajuly/status/1061325606296739845?fbclid=IwAR2sHd3qU0lobmuMIrkvqhCG7DRMbxx378MmijqmTBVn2akBSPN7iU4nsyc)](assets/4a151a5ae435/1*eArEy6-XjdgGsnAwUHinTg.jpeg)
+![Photo by [Giulia Tranchina](https://twitter.com/GiuliaRastajuly/status/1061325606296739845?fbclid=IwAR2sHd3qU0lobmuMIrkvqhCG7DRMbxx378MmijqmTBVn2akBSPN7iU4nsyc)](../assets/4a151a5ae435/1*eArEy6-XjdgGsnAwUHinTg.jpeg)
 
 Photo by [Giulia Tranchina](https://twitter.com/GiuliaRastajuly/status/1061325606296739845?fbclid=IwAR2sHd3qU0lobmuMIrkvqhCG7DRMbxx378MmijqmTBVn2akBSPN7iU4nsyc)
 ### Sea
@@ -110,7 +110,7 @@ An estimated 5,300 people arrived on the Aegean islands in September, making it 
 The countries that most people were arriving by sea from were Syria \(30%\), Afghanistan \(23%\) and Iraq \(20%\) \.
 
 
-![](assets/4a151a5ae435/1*rf2ADUwGqg3bLUNeQ__XVg.jpeg)
+![](../assets/4a151a5ae435/1*rf2ADUwGqg3bLUNeQ__XVg.jpeg)
 
 #### Over 5,000 Turkish citizens have applied for asylum in Greece
 
@@ -118,7 +118,7 @@ Since the failed 2016 coup attempt in Turkey, 5,786 Turkish citizens have applie
 #### Unaccompanied Minors in Greece — Who is accountable?
 
 
-![](assets/4a151a5ae435/1*59BXLRuWudsYMuqkdr6cyg.jpeg)
+![](../assets/4a151a5ae435/1*59BXLRuWudsYMuqkdr6cyg.jpeg)
 
 
 Greek authorities in coordination with Unicef have released new figures on the number of unaccompanied minors in Greece\. While the graphs above may not seem much to look at, they represent a very alarming reality\.
@@ -174,30 +174,30 @@ Volunteers at the Skaramangas camp, 30 minute outside of Athens, are looking for
 For all the hate, racism, and fear mongering news in this digest, here is a moment of grace\. Take a look at this montage of friendly and inclusive faces from the march on Saturday in Rome, where 100,000 people descended into the streets standing in the face of dehumanizing others, remaining \#Indivisible\.
 
 
-![We are here today “to say no to the immigration decree, to the criminalisation of solidarity and to any form of exclusion and social marginalization\!” Photo By [Refugees Welcome Italia](https://www.facebook.com/refugeeswelcomeitalia/photos/a.1644175432520667/2279092605695610/?type=3&theater)](assets/4a151a5ae435/1*mAL4lU2KKJeVGmjqN38BCw.jpeg)
+![We are here today “to say no to the immigration decree, to the criminalisation of solidarity and to any form of exclusion and social marginalization\!” Photo By [Refugees Welcome Italia](https://www.facebook.com/refugeeswelcomeitalia/photos/a.1644175432520667/2279092605695610/?type=3&theater)](../assets/4a151a5ae435/1*mAL4lU2KKJeVGmjqN38BCw.jpeg)
 
 We are here today “to say no to the immigration decree, to the criminalisation of solidarity and to any form of exclusion and social marginalization\!” Photo By [Refugees Welcome Italia](https://www.facebook.com/refugeeswelcomeitalia/photos/a.1644175432520667/2279092605695610/?type=3&theater)
 
 
-![](assets/4a151a5ae435/1*dfiSj_WxM56OsVHf13prmw.jpeg)
+![](../assets/4a151a5ae435/1*dfiSj_WxM56OsVHf13prmw.jpeg)
 
 
 
-![Thousands protest “today and yesterday and tomorrow \(we\) believe in an inclusive, supportive, anti\-racist society\.” Photo By [Gabriella Guido](https://www.facebook.com/gabriella.guido1?__tn__=%2CdC-R-R&eid=ARCfzqYZGOxxMy6AjnopltcDJ4hHFjHNYfRIi51Sq6dccI5xCLVNvhm-yrsCc5UZzbdioZglktzp0tki&hc_ref=ARQZ65TXOpVv7zVUDjCQLUd96OD5ITDbSRVzy4x48E0bAkkxalkQgLPmanh-p-f2uu8&fref=nf)](assets/4a151a5ae435/1*TEBe69py8hOXhkeoxbyvOQ.jpeg)
+![Thousands protest “today and yesterday and tomorrow \(we\) believe in an inclusive, supportive, anti\-racist society\.” Photo By [Gabriella Guido](https://www.facebook.com/gabriella.guido1?__tn__=%2CdC-R-R&eid=ARCfzqYZGOxxMy6AjnopltcDJ4hHFjHNYfRIi51Sq6dccI5xCLVNvhm-yrsCc5UZzbdioZglktzp0tki&hc_ref=ARQZ65TXOpVv7zVUDjCQLUd96OD5ITDbSRVzy4x48E0bAkkxalkQgLPmanh-p-f2uu8&fref=nf)](../assets/4a151a5ae435/1*TEBe69py8hOXhkeoxbyvOQ.jpeg)
 
 Thousands protest “today and yesterday and tomorrow \(we\) believe in an inclusive, supportive, anti\-racist society\.” Photo By [Gabriella Guido](https://www.facebook.com/gabriella.guido1?__tn__=%2CdC-R-R&eid=ARCfzqYZGOxxMy6AjnopltcDJ4hHFjHNYfRIi51Sq6dccI5xCLVNvhm-yrsCc5UZzbdioZglktzp0tki&hc_ref=ARQZ65TXOpVv7zVUDjCQLUd96OD5ITDbSRVzy4x48E0bAkkxalkQgLPmanh-p-f2uu8&fref=nf)
 
 
-![](assets/4a151a5ae435/1*yGLovs1KNsIM17Srb0FGTw.jpeg)
+![](../assets/4a151a5ae435/1*yGLovs1KNsIM17Srb0FGTw.jpeg)
 
 
 
-![“From The Piazza Della Repubblica to Rome, we say: we choose humanity, we are united in diversity\!” Photo By [Stephen Ogongo](https://www.facebook.com/ogongo?fref=gs&__tn__=%2CdC-R-R&eid=ARDW551ScLjS1XAHBtDZuTaVtxGRru-IgroKx3HS2tAOztiNRYYBjO2TXyZXmSvivu9Et9kuMPIDvgWp&hc_ref=ARQ67FF-TZ63Pj_9wookb4f6jNeAJh6PB9H05EL-jI6eYUKTTNXD3Swd7JObyglCAsc&dti=483683632041010&hc_location=group)](assets/4a151a5ae435/1*dTReVTc-HOEy1P6ee3uuWg.jpeg)
+![“From The Piazza Della Repubblica to Rome, we say: we choose humanity, we are united in diversity\!” Photo By [Stephen Ogongo](https://www.facebook.com/ogongo?fref=gs&__tn__=%2CdC-R-R&eid=ARDW551ScLjS1XAHBtDZuTaVtxGRru-IgroKx3HS2tAOztiNRYYBjO2TXyZXmSvivu9Et9kuMPIDvgWp&hc_ref=ARQ67FF-TZ63Pj_9wookb4f6jNeAJh6PB9H05EL-jI6eYUKTTNXD3Swd7JObyglCAsc&dti=483683632041010&hc_location=group)](../assets/4a151a5ae435/1*dTReVTc-HOEy1P6ee3uuWg.jpeg)
 
 “From The Piazza Della Repubblica to Rome, we say: we choose humanity, we are united in diversity\!” Photo By [Stephen Ogongo](https://www.facebook.com/ogongo?fref=gs&__tn__=%2CdC-R-R&eid=ARDW551ScLjS1XAHBtDZuTaVtxGRru-IgroKx3HS2tAOztiNRYYBjO2TXyZXmSvivu9Et9kuMPIDvgWp&hc_ref=ARQ67FF-TZ63Pj_9wookb4f6jNeAJh6PB9H05EL-jI6eYUKTTNXD3Swd7JObyglCAsc&dti=483683632041010&hc_location=group)
 
 
-![Photo By [Città Migrante](https://www.facebook.com/citta.migrante/?__tn__=kC-R&eid=ARD3pkSvzhUD8yLykYAEmN9G_KB-ednRyqkqMgnRgsWZ4QQjVOwVYb9ijimcITIVtaFfkRgqHLT1Nu92&hc_ref=ARQtQTzIDPgocZ-B2DX2XnKU5TYQonIvGKRzLKsACSoMZugd38wubSb6i0KMSy7tdfs&fref=nf&__xts__%5B0%5D=68.ARAmuWiBz1MMxl6IAEzindWeeMgQ3YdQmv6ikFAGys-KH025IjwzX7H-WWv0ujH792AvMLS2j2mlwenARDbNdr6-9UTo2wXdOwG2lP6AKwzfReeiU7ftwfQkQYqMX8zXA4L07dlu9x5yhCqX00Jamd-HZ9aabrDtgyPW_Q9aIYcs4RnSm8U8f0yUZos611ZSEq3jOIGIIG4Q50qGADjat5nyxORQTjm62bCEisxZy3MX5Wx8O5zqyYs_c4QCFDDGQG6DO6tgtRL9QAiNFpYuTQqGGs9Z9P2RpV2gcWomu0-UoleN7Ygtr_kMkKj_6kkuNYyMu-x3mKCdokafXBlSxS2dUw)](assets/4a151a5ae435/1*LGsWmJ4jwQfd8DoXYFlWZQ.jpeg)
+![Photo By [Città Migrante](https://www.facebook.com/citta.migrante/?__tn__=kC-R&eid=ARD3pkSvzhUD8yLykYAEmN9G_KB-ednRyqkqMgnRgsWZ4QQjVOwVYb9ijimcITIVtaFfkRgqHLT1Nu92&hc_ref=ARQtQTzIDPgocZ-B2DX2XnKU5TYQonIvGKRzLKsACSoMZugd38wubSb6i0KMSy7tdfs&fref=nf&__xts__%5B0%5D=68.ARAmuWiBz1MMxl6IAEzindWeeMgQ3YdQmv6ikFAGys-KH025IjwzX7H-WWv0ujH792AvMLS2j2mlwenARDbNdr6-9UTo2wXdOwG2lP6AKwzfReeiU7ftwfQkQYqMX8zXA4L07dlu9x5yhCqX00Jamd-HZ9aabrDtgyPW_Q9aIYcs4RnSm8U8f0yUZos611ZSEq3jOIGIIG4Q50qGADjat5nyxORQTjm62bCEisxZy3MX5Wx8O5zqyYs_c4QCFDDGQG6DO6tgtRL9QAiNFpYuTQqGGs9Z9P2RpV2gcWomu0-UoleN7Ygtr_kMkKj_6kkuNYyMu-x3mKCdokafXBlSxS2dUw)](../assets/4a151a5ae435/1*LGsWmJ4jwQfd8DoXYFlWZQ.jpeg)
 
 Photo By [Città Migrante](https://www.facebook.com/citta.migrante/?__tn__=kC-R&eid=ARD3pkSvzhUD8yLykYAEmN9G_KB-ednRyqkqMgnRgsWZ4QQjVOwVYb9ijimcITIVtaFfkRgqHLT1Nu92&hc_ref=ARQtQTzIDPgocZ-B2DX2XnKU5TYQonIvGKRzLKsACSoMZugd38wubSb6i0KMSy7tdfs&fref=nf&__xts__%5B0%5D=68.ARAmuWiBz1MMxl6IAEzindWeeMgQ3YdQmv6ikFAGys-KH025IjwzX7H-WWv0ujH792AvMLS2j2mlwenARDbNdr6-9UTo2wXdOwG2lP6AKwzfReeiU7ftwfQkQYqMX8zXA4L07dlu9x5yhCqX00Jamd-HZ9aabrDtgyPW_Q9aIYcs4RnSm8U8f0yUZos611ZSEq3jOIGIIG4Q50qGADjat5nyxORQTjm62bCEisxZy3MX5Wx8O5zqyYs_c4QCFDDGQG6DO6tgtRL9QAiNFpYuTQqGGs9Z9P2RpV2gcWomu0-UoleN7Ygtr_kMkKj_6kkuNYyMu-x3mKCdokafXBlSxS2dUw)
 
@@ -221,11 +221,11 @@ Intimidating tactics coming from Salvini on Saturday in a response to Malta’s 
 These photos are from the “Alagie” in a camp near Foggia\. No this isn’t Libya, these are the common conditions refugees on the European continent face\.
 
 
-![](assets/4a151a5ae435/1*M6VyFWiO1pMERgCu_x5ayQ.jpeg)
+![](../assets/4a151a5ae435/1*M6VyFWiO1pMERgCu_x5ayQ.jpeg)
 
 
 
-![Photos by [Migrants of the Mediterranean‏](https://twitter.com/migrantsotmed)](assets/4a151a5ae435/1*_Gr9lUgx7xB4i1Pvbs0VYA.jpeg)
+![Photos by [Migrants of the Mediterranean‏](https://twitter.com/migrantsotmed)](../assets/4a151a5ae435/1*_Gr9lUgx7xB4i1Pvbs0VYA.jpeg)
 
 Photos by [Migrants of the Mediterranean‏](https://twitter.com/migrantsotmed)
 
@@ -253,12 +253,12 @@ The European Commission’s figures state that 20,496 people have arrived in Bos
 “The winterization of existing reception facilities is ongoing and two new reception facilities have been completed and non\-food items and vouchers for hostels are provided for the most vulnerable,” they claim presenting the situation better than it really is\.
 
 
-![In Bihac, kamp Djacki dom, where about 1000 people are living\. Photo by Ibrahim M Malla, Red Cross Bihac\.](assets/4a151a5ae435/1*jJiINsgRWvLM08ZIvT0dcQ.jpeg)
+![In Bihac, kamp Djacki dom, where about 1000 people are living\. Photo by Ibrahim M Malla, Red Cross Bihac\.](../assets/4a151a5ae435/1*jJiINsgRWvLM08ZIvT0dcQ.jpeg)
 
 In Bihac, kamp Djacki dom, where about 1000 people are living\. Photo by Ibrahim M Malla, Red Cross Bihac\.
 
 
-![Living conditions inside of the Djacki dom, official camp\. Photo by Red Cross Bihac](assets/4a151a5ae435/1*NWAmM9KZSd4I1J8iLRhTXQ.jpeg)
+![Living conditions inside of the Djacki dom, official camp\. Photo by Red Cross Bihac](../assets/4a151a5ae435/1*NWAmM9KZSd4I1J8iLRhTXQ.jpeg)
 
 Living conditions inside of the Djacki dom, official camp\. Photo by Red Cross Bihac
 
@@ -298,7 +298,7 @@ The Harmanli Refugee Camp Play School in Bulgaria is in desperate need of financ
 [About 200,000](http://www.dreamdeferred.org.uk/2018/11/poland-fascists-lead-europes-largest-far-right-demo-eywitness-report-and-analysis-photos-and-video/?fbclid=IwAR1-457uwYCnUnbb0Ojt8rF7-K6YThtA8sG1sYvssqZV1ePTlhwgAooy2qE) people participated in a march, including the representatives from the Polish government and the President Andrzej Duda and Prime Minister Mateusz Morawiecki\. They marched alongside far\-right groups to mark the centenary of the restoration of Poland’s independence\. Most participants at this year’s event were peaceful, raising the Polish flag and chanting patriotic slogans\. Others used neo\-Nazi hate symbols and screamed profanity against refugees as well as others\.
 
 
-![Photo by [Dream Deferred](http://www.dreamdeferred.org.uk/2018/11/poland-fascists-lead-europes-largest-far-right-demo-eywitness-report-and-analysis-photos-and-video/?fbclid=IwAR1-457uwYCnUnbb0Ojt8rF7-K6YThtA8sG1sYvssqZV1ePTlhwgAooy2qE)](assets/4a151a5ae435/1*jZBzSC18NrhxhS-9vUJUvA.jpeg)
+![Photo by [Dream Deferred](http://www.dreamdeferred.org.uk/2018/11/poland-fascists-lead-europes-largest-far-right-demo-eywitness-report-and-analysis-photos-and-video/?fbclid=IwAR1-457uwYCnUnbb0Ojt8rF7-K6YThtA8sG1sYvssqZV1ePTlhwgAooy2qE)](../assets/4a151a5ae435/1*jZBzSC18NrhxhS-9vUJUvA.jpeg)
 
 Photo by [Dream Deferred](http://www.dreamdeferred.org.uk/2018/11/poland-fascists-lead-europes-largest-far-right-demo-eywitness-report-and-analysis-photos-and-video/?fbclid=IwAR1-457uwYCnUnbb0Ojt8rF7-K6YThtA8sG1sYvssqZV1ePTlhwgAooy2qE)
 ### France
@@ -316,22 +316,22 @@ Refugee Info Bus is looking for donations to continue their work in preparing pe
 ### UK
 
 
-![[Lord Dubbs](https://www.facebook.com/SafePassageInt/photos/a.178513619270063/573588083095946/?type=3&theater) handed Prime Minister May 33,000 signatures on Saturday to grant safe passage of 10,000 children refugees to come to Britain\. This is in honor of the 80 years since kinder\-transport for British children\. \#OurTurn Photo by [Safe Passage](https://www.facebook.com/SafePassageInt/photos/a.178513619270063/573588083095946/?type=3&theater)](assets/4a151a5ae435/1*z4UDFGg1jfLw6GLwNdH-1g.jpeg)
+![[Lord Dubbs](https://www.facebook.com/SafePassageInt/photos/a.178513619270063/573588083095946/?type=3&theater) handed Prime Minister May 33,000 signatures on Saturday to grant safe passage of 10,000 children refugees to come to Britain\. This is in honor of the 80 years since kinder\-transport for British children\. \#OurTurn Photo by [Safe Passage](https://www.facebook.com/SafePassageInt/photos/a.178513619270063/573588083095946/?type=3&theater)](../assets/4a151a5ae435/1*z4UDFGg1jfLw6GLwNdH-1g.jpeg)
 
 [Lord Dubbs](https://www.facebook.com/SafePassageInt/photos/a.178513619270063/573588083095946/?type=3&theater) handed Prime Minister May 33,000 signatures on Saturday to grant safe passage of 10,000 children refugees to come to Britain\. This is in honor of the 80 years since kinder\-transport for British children\. \#OurTurn Photo by [Safe Passage](https://www.facebook.com/SafePassageInt/photos/a.178513619270063/573588083095946/?type=3&theater)
 
 [Activists](https://novaramedia.com/2018/11/11/activists-hold-remembrance-march-for-refugees-killed-trying-to-reach-uk/?fbclid=IwAR39uHFF0aqkqo0Y8oC5PJ7npFH9Pmj-Oyv7iGtDt1MZIBIH53rZpzyk85U) wore pink veils in a remembrance march for all of the refugees who have died trying to reach the UK\. They laid lifeboat orange wreaths down at the Cenotaph after marching from the Ministry of Defence\. Around 40 people marched and they carried names of some of the people who had died migrating this year\.
 
 
-![](assets/4a151a5ae435/1*_4GCx0CZE19c3XMzlCiU7Q.jpeg)
+![](../assets/4a151a5ae435/1*_4GCx0CZE19c3XMzlCiU7Q.jpeg)
 
 
 
-![](assets/4a151a5ae435/1*9ZUd3Xw9rrUKlh4awWas_A.jpeg)
+![](../assets/4a151a5ae435/1*9ZUd3Xw9rrUKlh4awWas_A.jpeg)
 
 
 
-![Photos By [Novara Media](https://novaramedia.com/2018/11/11/activists-hold-remembrance-march-for-refugees-killed-trying-to-reach-uk/?fbclid=IwAR39uHFF0aqkqo0Y8oC5PJ7npFH9Pmj-Oyv7iGtDt1MZIBIH53rZpzyk85U)](assets/4a151a5ae435/1*18SpZ9JIcWvQ0Xw1zAfOpQ.jpeg)
+![Photos By [Novara Media](https://novaramedia.com/2018/11/11/activists-hold-remembrance-march-for-refugees-killed-trying-to-reach-uk/?fbclid=IwAR39uHFF0aqkqo0Y8oC5PJ7npFH9Pmj-Oyv7iGtDt1MZIBIH53rZpzyk85U)](../assets/4a151a5ae435/1*18SpZ9JIcWvQ0Xw1zAfOpQ.jpeg)
 
 Photos By [Novara Media](https://novaramedia.com/2018/11/11/activists-hold-remembrance-march-for-refugees-killed-trying-to-reach-uk/?fbclid=IwAR39uHFF0aqkqo0Y8oC5PJ7npFH9Pmj-Oyv7iGtDt1MZIBIH53rZpzyk85U)
 

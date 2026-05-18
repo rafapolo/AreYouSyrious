@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL FROM BOSNIA: Killing solidarity in Velika Kladuša
+title: "AYS SPECIAL FROM BOSNIA: Killing solidarity in Velika Kladuša"
 author: Are You Syrious?
 date: 2019-01-20T14:03:39.387+0000
 last_modified_at: 2019-01-22T10:15:47.097+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,special,velika-kladusa,bosnia,iom]
 description: Over the last year, citizens of Velika Kladuša were teaching the rest of the region about solidarity, hospitality and humanity. At the end…
 image:
-  path: assets/be9045b1dfec/1*Cmk2fGfNiPKAWQGTX69e_g.jpeg
+  path: ../assets/be9045b1dfec/1*Cmk2fGfNiPKAWQGTX69e_g.jpeg
 ---
 
 ### AYS SPECIAL FROM BOSNIA: Killing solidarity in Velika Kladuša
 #### Over the last year, citizens of Velika Kladuša were teaching the rest of the region about solidarity, hospitality and humanity\. But since the IOM BiH came and opened the “reception center” Miral in the town, things began to change\. Now different types of lessons are being taught — mostly about carelessness, criminalization of solidarity, violence and dehumanization\.
 
 
-![Camp Trnovi — At the Maljevac Border Crossing between Bosnia and Croatia\. A Group Prepares to go on ‘game’ — Photo By Luca Bonaventura](assets/be9045b1dfec/1*Cmk2fGfNiPKAWQGTX69e_g.jpeg)
+![Camp Trnovi — At the Maljevac Border Crossing between Bosnia and Croatia\. A Group Prepares to go on ‘game’ — Photo By Luca Bonaventura](../assets/be9045b1dfec/1*Cmk2fGfNiPKAWQGTX69e_g.jpeg)
 
 Camp Trnovi — At the Maljevac Border Crossing between Bosnia and Croatia\. A Group Prepares to go on ‘game’ — Photo By Luca Bonaventura
 
@@ -38,11 +38,11 @@ However, much the opposite has been reported by residents\.
 Some of the people who live in Miral described it as a “living hell”, telling us that they feel humiliated and stripped of all their dignity\. They complain that the center is managed poorly and that they must remain on high alert at all times due to tensions within the facility and theft\. They also report of bad sanitary conditions within the center, as well as lack of basic services such as hygiene and washing facilities for clothes, large ques for food which lacks nutrition, as well as a lack of psychological support or adequate medical care\. \.
 
 
-![](assets/be9045b1dfec/1*GZ1JrFqU5x3dXUeQTAKcAA.jpeg)
+![](../assets/be9045b1dfec/1*GZ1JrFqU5x3dXUeQTAKcAA.jpeg)
 
 
 
-![Unsanitary conditions inside and nothing to do\. Many people living inside Miral describe the facility as a prison you can leave\. Photos by Bostjan Videmsek](assets/be9045b1dfec/1*VQcvBBMLaYDP6hiRUflBOQ.jpeg)
+![Unsanitary conditions inside and nothing to do\. Many people living inside Miral describe the facility as a prison you can leave\. Photos by Bostjan Videmsek](../assets/be9045b1dfec/1*VQcvBBMLaYDP6hiRUflBOQ.jpeg)
 
 Unsanitary conditions inside and nothing to do\. Many people living inside Miral describe the facility as a prison you can leave\. Photos by Bostjan Videmsek
 
@@ -53,7 +53,7 @@ What was a nice and friendly atmosphere since January, slowly became hostile tow
 It is especially interesting that police officers who are telling independent volunteer groups to leave or change their ways of working have been accompanied by IOM workers when visiting the field\.
 
 
-![No Name Kitchen stopped its operations in Kladuša due to pressure from the police\.](assets/be9045b1dfec/1*71GLWJzopFzNscd9hTHExg.jpeg)
+![No Name Kitchen stopped its operations in Kladuša due to pressure from the police\.](../assets/be9045b1dfec/1*71GLWJzopFzNscd9hTHExg.jpeg)
 
 No Name Kitchen stopped its operations in Kladuša due to pressure from the police\.
 
@@ -71,12 +71,12 @@ Beside private security agency, local police is present at the entrance, as well
 The center’s capacity was increased by IOM within the first two weeks of it opening — from 300 to over 700 persons\. People are living in a two large communal spaces with bunk beds scattered throughout\. Recently, IOM brought forty new containers, but they remain empty so far\.
 
 
-![Miral is compromised of large communal spaces with dozens of bunk beds sprawled inside\. People line their beds with blankets to create a small sense of privacy\. Photo by Zarka Radoja\.](assets/be9045b1dfec/1*rSU8olcEnnvb4V2YulWOWw.jpeg)
+![Miral is compromised of large communal spaces with dozens of bunk beds sprawled inside\. People line their beds with blankets to create a small sense of privacy\. Photo by Zarka Radoja\.](../assets/be9045b1dfec/1*rSU8olcEnnvb4V2YulWOWw.jpeg)
 
 Miral is compromised of large communal spaces with dozens of bunk beds sprawled inside\. People line their beds with blankets to create a small sense of privacy\. Photo by Zarka Radoja\.
 
 
-![A man prays on top of his Bunk Bed\. Photo by Zarka Radoja\.](assets/be9045b1dfec/1*L1_fDc0jzOoCGoZb0W8_2g.jpeg)
+![A man prays on top of his Bunk Bed\. Photo by Zarka Radoja\.](../assets/be9045b1dfec/1*L1_fDc0jzOoCGoZb0W8_2g.jpeg)
 
 A man prays on top of his Bunk Bed\. Photo by Zarka Radoja\.
 
@@ -87,7 +87,7 @@ The primary concern of most residents remains the lack of private space within t
 _“You can never feel safe in Miral,”_ a seventeen\-year\-old boy from Afghanistan reports\. ‘ _I sleep with my bag underneath me at night_ \.’
 
 
-![photo by Bostjan Videmsek](assets/be9045b1dfec/1*c8dhPYDVZ24xLd8CHVRnpA.jpeg)
+![photo by Bostjan Videmsek](../assets/be9045b1dfec/1*c8dhPYDVZ24xLd8CHVRnpA.jpeg)
 
 photo by Bostjan Videmsek
 
@@ -100,11 +100,11 @@ The desperation within the facility is convincing many people who were planning 
 Recently, Croatia has increased border security measures and introduced new surveillance equipment\. Also, Croatian border police forces are turning even more violent, often forcing people to walk back to Bosnia without their shoes after the push back\. This is why people are looking for alternative ways to reach Europe, once again through Romania and Hungary\.
 
 
-![](assets/be9045b1dfec/1*lBD8t-Ke-ic2ybme_G-ZGg.jpeg)
+![](../assets/be9045b1dfec/1*lBD8t-Ke-ic2ybme_G-ZGg.jpeg)
 
 
 
-![Sometimes meals provided compromise only of a can of sardines, a yoghurt and bread\. Photo By AYS](assets/be9045b1dfec/1*2de_cleGQMxnz-xiPd0gBA.jpeg)
+![Sometimes meals provided compromise only of a can of sardines, a yoghurt and bread\. Photo By AYS](../assets/be9045b1dfec/1*2de_cleGQMxnz-xiPd0gBA.jpeg)
 
 Sometimes meals provided compromise only of a can of sardines, a yoghurt and bread\. Photo By AYS
 
@@ -113,7 +113,7 @@ A man from Pakistan, who left Miral to move to Sarajevo, explained to us that li
 _“It was cold in the field but we had our tents and our privacy and we felt safer there than we do in Miral\. The place makes people angry, we feel like we are in a prison, there are fights every day\. I don’t have an interest to fight, that’s why I will leave,”_ he told us\.
 
 
-[![video 1547892010](assets/be9045b1dfec/c150_hqdefault.jpg "video 1547892010")](http://www.youtube.com/watch?v=ZUt75Wb63mI)
+[![video 1547892010](../assets/be9045b1dfec/c150_hqdefault.jpg "video 1547892010")](http://www.youtube.com/watch?v=ZUt75Wb63mI)
 
 
 At the same time, the security personnel operating in the facility has been simultaneously denying the entry into the Miral of anyone who is not officially registered by IOM, including people who are coming and looking for the shelter\. Like a Syrian couple who arrived on the 17th of January only to be told that there is no space for them inside Miral, and that they should go elsewhere\.
@@ -123,7 +123,7 @@ Many other people arriving to the town during the night, who are in need of shel
 “ _For a week now the exits have been checked by security all throughout the day and night\. The situation has changed\. They do not let anyone enter anymore without a card\. The security are very bad to us\. They told me ‘we don’t have to accept them,”_ Ali, from Iran told us\.
 
 
-![A group of 10 people who arrived late at night sits out the front of Miral\. They were denied entry into the camp by security personnel despite having valid registration cards\. Photo by AYS](assets/be9045b1dfec/1*vqmNGz04CgMM5fMEGxJMIw.png)
+![A group of 10 people who arrived late at night sits out the front of Miral\. They were denied entry into the camp by security personnel despite having valid registration cards\. Photo by AYS](../assets/be9045b1dfec/1*vqmNGz04CgMM5fMEGxJMIw.png)
 
 A group of 10 people who arrived late at night sits out the front of Miral\. They were denied entry into the camp by security personnel despite having valid registration cards\. Photo by AYS
 
@@ -142,7 +142,7 @@ _“The police were too much angry and people were scared,”_ a 17 year\-old re
 Instead of staying in Miral, many people have opted to reside in abandoned houses scattered throughout the town of Velika Kladuša and nearby villages\. Independent volunteers groups estimate that around thirty of these micro\-accommodations exist\.
 
 
-![People sleeping in alternate accommodations must find the means to cook for themselves\. Photo by Luca Bonaventura](assets/be9045b1dfec/1*G_rcdCLC55f-5VSi09WaPw.jpeg)
+![People sleeping in alternate accommodations must find the means to cook for themselves\. Photo by Luca Bonaventura](../assets/be9045b1dfec/1*G_rcdCLC55f-5VSi09WaPw.jpeg)
 
 People sleeping in alternate accommodations must find the means to cook for themselves\. Photo by Luca Bonaventura
 
@@ -153,7 +153,7 @@ A young man from Algeria, 22 years old, showed us the burnt remnants of a wooden
 _“I spent one night in Miral and then left, anywhere is better than Miral,”_ he tells us\.
 
 
-![A man setting up a gas cooker in the squat he is sleeping in\. Photo by Luca Bonaventura](assets/be9045b1dfec/1*KUlWiuxuFG2zNC6FKkNNsQ.jpeg)
+![A man setting up a gas cooker in the squat he is sleeping in\. Photo by Luca Bonaventura](../assets/be9045b1dfec/1*KUlWiuxuFG2zNC6FKkNNsQ.jpeg)
 
 A man setting up a gas cooker in the squat he is sleeping in\. Photo by Luca Bonaventura
 
@@ -168,7 +168,7 @@ Prior to the eviction, Farjaak’s group had intended to wait out the winter in 
 [The game](ays-special-from-bosnia-the-game-5a56eb2e9a6e) is a colloquial term which indicates to cross the border into Croatia irregularly and travel through dangerous mountainous terrain in an attempt to reach Slovenia or Italy\. With the current sub\-zero temperatures and snow, going on game poses a serious threat to life\.
 
 
-![Croatian police and rescue services taking women and children from the mountain where they almost froze to death in a failed attempt to enter EU on foot\. Photo: MUP](assets/be9045b1dfec/1*uXxDBFpOzFh35qun_I27jw.jpeg)
+![Croatian police and rescue services taking women and children from the mountain where they almost froze to death in a failed attempt to enter EU on foot\. Photo: MUP](../assets/be9045b1dfec/1*uXxDBFpOzFh35qun_I27jw.jpeg)
 
 Croatian police and rescue services taking women and children from the mountain where they almost froze to death in a failed attempt to enter EU on foot\. Photo: MUP
 

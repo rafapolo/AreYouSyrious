@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [italy,libya,refugees,digest,greece]
 description: 31 rescued in Spain // floods on Samos // court ordering asylum-seeker to be relocated from Barracks // Open Arms and Ocean Viking are…
 image:
-  path: assets/ffaa53e61b8f/1*58y6IZRDUFj56-rv8wyLXg.jpeg
+  path: ../assets/ffaa53e61b8f/1*58y6IZRDUFj56-rv8wyLXg.jpeg
 ---
 
 ### AYS Daily Digest 02/02/21 Four years since Italy\-Libya agreement & “nothing has changed”
@@ -15,7 +15,7 @@ image:
 _31 rescued in Spain // floods on Samos // court ordering asylum seeker to be relocated from Barracks // Open Arms and Ocean Viking are back // and more…_
 
 
-![4 years…nothing has changed\. Photo by [picture alliance/Xinhua/H\. Turkia](https://www.dw.com/en/libya-takes-over-from-italy-on-rescuing-shipwrecked-migrants/a-44546754)](assets/ffaa53e61b8f/1*58y6IZRDUFj56-rv8wyLXg.jpeg)
+![4 years…nothing has changed\. Photo by [picture alliance/Xinhua/H\. Turkia](https://www.dw.com/en/libya-takes-over-from-italy-on-rescuing-shipwrecked-migrants/a-44546754)](../assets/ffaa53e61b8f/1*58y6IZRDUFj56-rv8wyLXg.jpeg)
 
 4 years…nothing has changed\. Photo by [picture alliance/Xinhua/H\. Turkia](https://www.dw.com/en/libya-takes-over-from-italy-on-rescuing-shipwrecked-migrants/a-44546754)
 ### FEATURE: Four years after the Italy\-Libya Memorandum of Understanding & “nothing has changed”
@@ -97,11 +97,11 @@ MSF has also released a report entitled [**Italy\-Libya Agreement: 4 years of fa
 ### Both Open Arms and the Ocean Viking are off to rescue more lives
 
 
-![](assets/ffaa53e61b8f/1*EU02wqCcNzsRWuUrNr8i9A.jpeg)
+![](../assets/ffaa53e61b8f/1*EU02wqCcNzsRWuUrNr8i9A.jpeg)
 
 
 
-![“BREAKING The OceanViking has just left the port of Augusta, Sicily, and is on his way back to central Mediterranean where our teams will resume their lifesaving work\.” Info by [SOS MEDITERRANEE Switzerland](https://twitter.com/SOSMedSuisse/status/1356568881498894336) and photos by Hippolyte/ SOS MEDITERRANEE](assets/ffaa53e61b8f/1*IXP8bFK1nTZh7tBmOPL0ZA.jpeg)
+![“BREAKING The OceanViking has just left the port of Augusta, Sicily, and is on his way back to central Mediterranean where our teams will resume their lifesaving work\.” Info by [SOS MEDITERRANEE Switzerland](https://twitter.com/SOSMedSuisse/status/1356568881498894336) and photos by Hippolyte/ SOS MEDITERRANEE](../assets/ffaa53e61b8f/1*IXP8bFK1nTZh7tBmOPL0ZA.jpeg)
 
 “BREAKING The OceanViking has just left the port of Augusta, Sicily, and is on his way back to central Mediterranean where our teams will resume their lifesaving work\.” Info by [SOS MEDITERRANEE Switzerland](https://twitter.com/SOSMedSuisse/status/1356568881498894336) and photos by Hippolyte/ SOS MEDITERRANEE
 
@@ -123,7 +123,7 @@ _[@UNHumanRights](http://twitter.com/UNHumanRights) on the dramatic increase of 
 _[@UNHumanRights](http://twitter.com/UNHumanRights) as well\. We hope these systematic rights violations & the war on refugees will finally be addressed\!”_ More [here](https://twitter.com/teammareliberum/status/1356610326104522752) \.
 
 
-![AlarmPhone announced a new event of solidarity: “ **_On 9 February_** _, families of 91 people who went missing in an invisible shipwreck off Libya a year earlier will organize a demonstration in Darfur\. In solidarity with them, there will be CommemorActions in many cities\. \#SayTheirNames”_ Learn more [here](https://twitter.com/alarm_phone/status/1356574427350188033) \. Photo by AlarmPhone](assets/ffaa53e61b8f/1*HhnqblLvZ68lydRzreGSAw.png)
+![AlarmPhone announced a new event of solidarity: “ **_On 9 February_** _, families of 91 people who went missing in an invisible shipwreck off Libya a year earlier will organize a demonstration in Darfur\. In solidarity with them, there will be CommemorActions in many cities\. \#SayTheirNames”_ Learn more [here](https://twitter.com/alarm_phone/status/1356574427350188033) \. Photo by AlarmPhone](../assets/ffaa53e61b8f/1*HhnqblLvZ68lydRzreGSAw.png)
 
 AlarmPhone announced a new event of solidarity: “ **_On 9 February_** _, families of 91 people who went missing in an invisible shipwreck off Libya a year earlier will organize a demonstration in Darfur\. In solidarity with them, there will be CommemorActions in many cities\. \#SayTheirNames”_ Learn more [here](https://twitter.com/alarm_phone/status/1356574427350188033) \. Photo by AlarmPhone
 #### GREECE
@@ -177,15 +177,15 @@ _Delia obtained information from an anonymous source who said several detainees 
 Spanish news is reporting that “ _After being rescued, the immigrants were transferred to the Arguineguín dock , in the municipality of Mogán, where they were assisted by personnel from the Canary Islands Emergency Service \(SUC\) and Red Cross personnel\. Thus, two of the migrants had to be transferred to a hospital for minor pathologies_ \.” More [here](https://www.canarias7.es/canarias/rescatan-patera-inmigrantes-20210202105603-nt.html?fbclid=IwAR1Ad0oEaeO7NQoNmposxFVPBbaNkZMB7ckX9l_QAzDtVSjFeVm8CIkMZJk) \.
 
 
-![](assets/ffaa53e61b8f/1*UHts1hVHZsCN5sBm-NF5AQ.jpeg)
+![](../assets/ffaa53e61b8f/1*UHts1hVHZsCN5sBm-NF5AQ.jpeg)
 
 
 
-![](assets/ffaa53e61b8f/1*AQUSz2n8saY7zhabkNMwxg.jpeg)
+![](../assets/ffaa53e61b8f/1*AQUSz2n8saY7zhabkNMwxg.jpeg)
 
 
 
-![“The largest of the camps for immigrants planned by the Ministry of Social Inclusion in Canarias is about to enter service\. It is located in Las Raíces, in La Laguna \( Tenerife \), and it can accommodate up to 2,000 people\.” Info by [EFE Canary Islands](https://twitter.com/EFE_Canarias/status/1355939535625007109?fbclid=IwAR18DctjMTfieKnL_rQWf7tc72xxoG71SJLRJ2KLdSuoau0n48fP3i2HQEI) , Photos by EFE / Miguel Barreto](assets/ffaa53e61b8f/1*PaD14YOWgPbyKR8d0-7fAQ.jpeg)
+![“The largest of the camps for immigrants planned by the Ministry of Social Inclusion in Canarias is about to enter service\. It is located in Las Raíces, in La Laguna \( Tenerife \), and it can accommodate up to 2,000 people\.” Info by [EFE Canary Islands](https://twitter.com/EFE_Canarias/status/1355939535625007109?fbclid=IwAR18DctjMTfieKnL_rQWf7tc72xxoG71SJLRJ2KLdSuoau0n48fP3i2HQEI) , Photos by EFE / Miguel Barreto](../assets/ffaa53e61b8f/1*PaD14YOWgPbyKR8d0-7fAQ.jpeg)
 
 “The largest of the camps for immigrants planned by the Ministry of Social Inclusion in Canarias is about to enter service\. It is located in Las Raíces, in La Laguna \( Tenerife \), and it can accommodate up to 2,000 people\.” Info by [EFE Canary Islands](https://twitter.com/EFE_Canarias/status/1355939535625007109?fbclid=IwAR18DctjMTfieKnL_rQWf7tc72xxoG71SJLRJ2KLdSuoau0n48fP3i2HQEI) , Photos by EFE / Miguel Barreto
 ### The ombudsman says free movement of asylum seekers must be allowed
@@ -205,11 +205,11 @@ Spanish news is reporting: “ _The Ministry of the Interior and the General Dir
 #### ROMANIA
 
 
-![](assets/ffaa53e61b8f/1*BHw4DY_lZCbMNFtqoevMKw.jpeg)
+![](../assets/ffaa53e61b8f/1*BHw4DY_lZCbMNFtqoevMKw.jpeg)
 
 
 
-![Pictures posted by Dreptul la Oras alongside their Facebook post\.](assets/ffaa53e61b8f/1*FD5cIlALc8DjE90WSO1PIw.jpeg)
+![Pictures posted by Dreptul la Oras alongside their Facebook post\.](../assets/ffaa53e61b8f/1*FD5cIlALc8DjE90WSO1PIw.jpeg)
 
 Pictures posted by Dreptul la Oras alongside their Facebook post\.
 
@@ -241,7 +241,7 @@ More [here\.](https://www.facebook.com/dreptullaorasTM/posts/1348826372132856)
 #### BOSNIA AND HERZEGOVINA
 
 
-![Photo by Elena Heatherwick/Save the Children\.](assets/ffaa53e61b8f/1*_3Kf4r6Mss7etTRxTJQT1A.jpeg)
+![Photo by Elena Heatherwick/Save the Children\.](../assets/ffaa53e61b8f/1*_3Kf4r6Mss7etTRxTJQT1A.jpeg)
 
 Photo by Elena Heatherwick/Save the Children\.
 
@@ -262,7 +262,7 @@ Four Italian MEPs, Pietro Bartolo, Alessandra Moretti, Pierfrancesco Majorino an
 #### SLOVENIA
 
 
-![“The respondent mentioned that he was slapped in the face by a Slovenian officer, who apparently did not believe this answer\. He repeated the question and again slapped the respondent who gave the same answer\. This process was repeated 3–4 times before the officer stopped\.” “Members of our team in Bihać collected this testimony last week from an unaccompanied minor who was recently subject to a chain pushback from Slovenian\. It is likely that he was held in the \#Kozina station during the above exchange\.” Info by [No Name Kitchen](https://twitter.com/NoNameKitchen1/status/1356681017701064704) \. Read full testimony on BVMN [here\.](https://www.borderviolence.eu/violence-reports/january-13-2021-0000-12-km-south-east-of-crossing-a1-road-and-e61-slovenia/)](assets/ffaa53e61b8f/1*Qdl9eouyRLTdscQIJKwvQQ.jpeg)
+![“The respondent mentioned that he was slapped in the face by a Slovenian officer, who apparently did not believe this answer\. He repeated the question and again slapped the respondent who gave the same answer\. This process was repeated 3–4 times before the officer stopped\.” “Members of our team in Bihać collected this testimony last week from an unaccompanied minor who was recently subject to a chain pushback from Slovenian\. It is likely that he was held in the \#Kozina station during the above exchange\.” Info by [No Name Kitchen](https://twitter.com/NoNameKitchen1/status/1356681017701064704) \. Read full testimony on BVMN [here\.](https://www.borderviolence.eu/violence-reports/january-13-2021-0000-12-km-south-east-of-crossing-a1-road-and-e61-slovenia/)](../assets/ffaa53e61b8f/1*Qdl9eouyRLTdscQIJKwvQQ.jpeg)
 
 “The respondent mentioned that he was slapped in the face by a Slovenian officer, who apparently did not believe this answer\. He repeated the question and again slapped the respondent who gave the same answer\. This process was repeated 3–4 times before the officer stopped\.” “Members of our team in Bihać collected this testimony last week from an unaccompanied minor who was recently subject to a chain pushback from Slovenian\. It is likely that he was held in the \#Kozina station during the above exchange\.” Info by [No Name Kitchen](https://twitter.com/NoNameKitchen1/status/1356681017701064704) \. Read full testimony on BVMN [here\.](https://www.borderviolence.eu/violence-reports/january-13-2021-0000-12-km-south-east-of-crossing-a1-road-and-e61-slovenia/)
 #### HUNGARY
@@ -280,7 +280,7 @@ With this news, Frontex has suspended operations in Hungary as of 27/01/21\. Inf
 
 
 
-![“A screenshot of the Hungarian Helsinki Committee’s map showing the documented pushbacks of migrants from Hungary to Serbia since they were declared illegal by EU court\.” Info by [InfoMigrants,](https://www.infomigrants.net/en/post/29944/hungary-4-903-pushbacks-after-eu-court-declared-them-illegal?fbclid=IwAR2rmIP7KJthfnPzUQaq8gnqw5krASitogfQa9KHbrBU4le-YHKxLicWpuU) Photo by Google maps / Hungarian Helsinki Committee](assets/ffaa53e61b8f/1*UebvBQCI7c16hxTTGlk-Ig.png)
+![“A screenshot of the Hungarian Helsinki Committee’s map showing the documented pushbacks of migrants from Hungary to Serbia since they were declared illegal by EU court\.” Info by [InfoMigrants,](https://www.infomigrants.net/en/post/29944/hungary-4-903-pushbacks-after-eu-court-declared-them-illegal?fbclid=IwAR2rmIP7KJthfnPzUQaq8gnqw5krASitogfQa9KHbrBU4le-YHKxLicWpuU) Photo by Google maps / Hungarian Helsinki Committee](../assets/ffaa53e61b8f/1*UebvBQCI7c16hxTTGlk-Ig.png)
 
 “A screenshot of the Hungarian Helsinki Committee’s map showing the documented pushbacks of migrants from Hungary to Serbia since they were declared illegal by EU court\.” Info by [InfoMigrants,](https://www.infomigrants.net/en/post/29944/hungary-4-903-pushbacks-after-eu-court-declared-them-illegal?fbclid=IwAR2rmIP7KJthfnPzUQaq8gnqw5krASitogfQa9KHbrBU4le-YHKxLicWpuU) Photo by Google maps / Hungarian Helsinki Committee
 #### GERMANY
@@ -313,7 +313,7 @@ In a [press release](https://www.proasyl.de/pressemitteilung/heutiger-fluechtlin
 
 
 
-![“Asylum seekers in German reception centers hard hit\. According to the info migrants, A center for asylum seekers in Cologne is under total lockdown after more than a third of residents tested positive for coronavirus\. There are renewed concerns that asylum seekers in communal reception facilities in the country remain at high risk from the virus\. Police in Cologne sealed off the center in the inner Cologne suburb after 41 of the total of 108 residents tested positive for COVID\-19\. Of these cases, 31 were a variant of the virus from South Africa or Brazil\. 16 staff also tested positive\. At least 11 of them also had the South African mutation, city authorities said\.” Info and Photo by [Maqshosh English](https://www.facebook.com/permalink.php?story_fbid=245346433820070&id=104492957905419)](assets/ffaa53e61b8f/1*QGPye8kh7B9AakFttQ_Jng.jpeg)
+![“Asylum seekers in German reception centers hard hit\. According to the info migrants, A center for asylum seekers in Cologne is under total lockdown after more than a third of residents tested positive for coronavirus\. There are renewed concerns that asylum seekers in communal reception facilities in the country remain at high risk from the virus\. Police in Cologne sealed off the center in the inner Cologne suburb after 41 of the total of 108 residents tested positive for COVID\-19\. Of these cases, 31 were a variant of the virus from South Africa or Brazil\. 16 staff also tested positive\. At least 11 of them also had the South African mutation, city authorities said\.” Info and Photo by [Maqshosh English](https://www.facebook.com/permalink.php?story_fbid=245346433820070&id=104492957905419)](../assets/ffaa53e61b8f/1*QGPye8kh7B9AakFttQ_Jng.jpeg)
 
 “Asylum seekers in German reception centers hard hit\. According to the info migrants, A center for asylum seekers in Cologne is under total lockdown after more than a third of residents tested positive for coronavirus\. There are renewed concerns that asylum seekers in communal reception facilities in the country remain at high risk from the virus\. Police in Cologne sealed off the center in the inner Cologne suburb after 41 of the total of 108 residents tested positive for COVID\-19\. Of these cases, 31 were a variant of the virus from South Africa or Brazil\. 16 staff also tested positive\. At least 11 of them also had the South African mutation, city authorities said\.” Info and Photo by [Maqshosh English](https://www.facebook.com/permalink.php?story_fbid=245346433820070&id=104492957905419)
 ### Candidate for the Greens and refugee from Syria, Tareq Alaows, running to enter the Bundestag
@@ -333,12 +333,12 @@ Read a full report on his candidacy and the led up to it [here](https://m.tagess
 #### FRANCE
 
 
-![Update and photo by [Kesha Niya](https://www.facebook.com/KeshaNiyaProject/posts/1444050315939831) : “During the last weeks, we have seen an increase of police control on the Italian side\. The cooperation between French and Italian state forces has been talked about for a long time, now it seems to be practiced regularly\. In Ventimiglia in the train station, people are sometimes hindered the whole day to get in the train to France, which just means that police is standing on the platform and controlling everybody who doesn’t seem to be Italian or French\. In the whole train station, Italian state forces control people more regularly again, taking people to the police station and registering them with fingers prints if they haven’t been so far\. Thus, they are dublined, from now on Italy has to be the country to provide the legal process for them to stay, to start a living, in theory\. In the last days, we heard from a lot of individuals \(yesterday at least 8\) that they had been held in the French police station for more than 24 hours\. Its been several months since we heard about this in such an amount\. They are not provided with anything like water, food or blankets, and when people arrive at our place they are cold and starving\.”](assets/ffaa53e61b8f/1*4oJgIg-rEwd3vl_8FFJ53Q.jpeg)
+![Update and photo by [Kesha Niya](https://www.facebook.com/KeshaNiyaProject/posts/1444050315939831) : “During the last weeks, we have seen an increase of police control on the Italian side\. The cooperation between French and Italian state forces has been talked about for a long time, now it seems to be practiced regularly\. In Ventimiglia in the train station, people are sometimes hindered the whole day to get in the train to France, which just means that police is standing on the platform and controlling everybody who doesn’t seem to be Italian or French\. In the whole train station, Italian state forces control people more regularly again, taking people to the police station and registering them with fingers prints if they haven’t been so far\. Thus, they are dublined, from now on Italy has to be the country to provide the legal process for them to stay, to start a living, in theory\. In the last days, we heard from a lot of individuals \(yesterday at least 8\) that they had been held in the French police station for more than 24 hours\. Its been several months since we heard about this in such an amount\. They are not provided with anything like water, food or blankets, and when people arrive at our place they are cold and starving\.”](../assets/ffaa53e61b8f/1*4oJgIg-rEwd3vl_8FFJ53Q.jpeg)
 
 Update and photo by [Kesha Niya](https://www.facebook.com/KeshaNiyaProject/posts/1444050315939831) : “During the last weeks, we have seen an increase of police control on the Italian side\. The cooperation between French and Italian state forces has been talked about for a long time, now it seems to be practiced regularly\. In Ventimiglia in the train station, people are sometimes hindered the whole day to get in the train to France, which just means that police is standing on the platform and controlling everybody who doesn’t seem to be Italian or French\. In the whole train station, Italian state forces control people more regularly again, taking people to the police station and registering them with fingers prints if they haven’t been so far\. Thus, they are dublined, from now on Italy has to be the country to provide the legal process for them to stay, to start a living, in theory\. In the last days, we heard from a lot of individuals \(yesterday at least 8\) that they had been held in the French police station for more than 24 hours\. Its been several months since we heard about this in such an amount\. They are not provided with anything like water, food or blankets, and when people arrive at our place they are cold and starving\.”
 
 
-![Photo by [Calais Food Collective](https://www.facebook.com/calaisfoodcollective/posts/254184436234078)](assets/ffaa53e61b8f/1*u3FwSxRVJRIX9as99GXTDw.jpeg)
+![Photo by [Calais Food Collective](https://www.facebook.com/calaisfoodcollective/posts/254184436234078)](../assets/ffaa53e61b8f/1*u3FwSxRVJRIX9as99GXTDw.jpeg)
 
 Photo by [Calais Food Collective](https://www.facebook.com/calaisfoodcollective/posts/254184436234078)
 

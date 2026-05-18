@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 22/7/21: Greek government’s pressure on civil society reveals others implicated
+title: "AYS Daily Digest 22/7/21: Greek government’s pressure on civil society reveals others implicated"
 author: Are You Syrious?
 date: 2021-07-23T15:25:04.131+0100
 last_modified_at: 2021-07-23T21:26:16.644+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,greece,human-rights-defenders,refugees,europe]
 description: Through criminal investigations, Greek authorities are harassing and intimidating groups investigating abuses against people on the move /…
 image:
-  path: assets/f394fe003749/0*dCzQaFOl7LOedm2A
+  path: ../assets/f394fe003749/0*dCzQaFOl7LOedm2A
 ---
 
 ### AYS Daily Digest 22/7/21: Greek government’s pressure on civil society reveals others implicated
 #### Through criminal investigations, Greek authorities are harassing and intimidating groups investigating abuses against people on the move / Hunger strike in Belgium ends / Elected officials were found to play a role in the amplification of anti\-refugee disinformation and hatred, ISD report shows / Recommended reads, reports, calls for support and more
 
 
-![Photo: [**Franziska Grillmeier**](https://twitter.com/f_grillmeier)](assets/f394fe003749/0*dCzQaFOl7LOedm2A)
+![Photo: [**Franziska Grillmeier**](https://twitter.com/f_grillmeier)](../assets/f394fe003749/0*dCzQaFOl7LOedm2A)
 
 Photo: [**Franziska Grillmeier**](https://twitter.com/f_grillmeier)
 #### FEATURE — **Greek government targets organizations and individuals who observe and document human rights violations, and the pressure involves secret service and EU funding**

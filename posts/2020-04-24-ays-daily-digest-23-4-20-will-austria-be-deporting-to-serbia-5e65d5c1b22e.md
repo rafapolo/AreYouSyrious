@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 23/4/20: Will Austria be deporting to Serbia?
+title: "AYS Daily Digest 23/4/20: Will Austria be deporting to Serbia?"
 author: Are You Syrious?
 date: 2020-04-24T12:27:12.613+0100
 last_modified_at: 2020-04-24T16:05:21.780+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,human-rights,greece,austria]
 description: The Netherlands refuses to take in children from Greek camps / Additional dangers of confinement in times of pandemic / Court ruling in…
 image:
-  path: assets/5e65d5c1b22e/1*26FEekZVJjllzoZ4upi5Qg.jpeg
+  path: ../assets/5e65d5c1b22e/1*26FEekZVJjllzoZ4upi5Qg.jpeg
 ---
 
 ### AYS Daily Digest 23/4/20: Will Austria be deporting to Serbia?
 #### The Netherlands refuses to take in children from Greek camps / Additional dangers of confinement in times of pandemic / Court ruling in Germany in favour of people in asylum centres being allowed to leave if centres don’t respect physical distancing during coronavirus / Denmark sending financial support to minors in Greece
 
 
-![Serbia: The sign on the paper reads: “Water not for drinking” — at the entrance to the Morović camp where some people were transfered from Krnjača camp\. The facility had no drinking water, sanitary conditions, and people slept in tents recently placed there for provisional stay of people who came back from abroad and had to stay in quarantine due to Covid\-19\. \(Photo: [**Azil u Srbiji Asylum Protection in Serbia**](https://twitter.com/APC_CZA) **\)**](assets/5e65d5c1b22e/1*26FEekZVJjllzoZ4upi5Qg.jpeg)
+![Serbia: The sign on the paper reads: “Water not for drinking” — at the entrance to the Morović camp where some people were transfered from Krnjača camp\. The facility had no drinking water, sanitary conditions, and people slept in tents recently placed there for provisional stay of people who came back from abroad and had to stay in quarantine due to Covid\-19\. \(Photo: [**Azil u Srbiji Asylum Protection in Serbia**](https://twitter.com/APC_CZA) **\)**](../assets/5e65d5c1b22e/1*26FEekZVJjllzoZ4upi5Qg.jpeg)
 
 Serbia: The sign on the paper reads: “Water not for drinking” — at the entrance to the Morović camp where some people were transfered from Krnjača camp\. The facility had no drinking water, sanitary conditions, and people slept in tents recently placed there for provisional stay of people who came back from abroad and had to stay in quarantine due to Covid\-19\. \(Photo: [**Azil u Srbiji Asylum Protection in Serbia**](https://twitter.com/APC_CZA) **\)**
 #### FEATURED
@@ -87,7 +87,7 @@ Reaching food presents a daily fear and a problem for thousands in Moria\. Many 
 
 
 
-[![Moria vs. Wuhan Modelling - AIforGood Simulator for Refugee Camp by Billy Zhao](assets/5e65d5c1b22e/2ce0_hqdefault.jpg "Moria vs. Wuhan Modelling - AIforGood Simulator for Refugee Camp by Billy Zhao")](https://www.youtube.com/watch?v=5ye74dfhxYk)
+[![Moria vs. Wuhan Modelling - AIforGood Simulator for Refugee Camp by Billy Zhao](../assets/5e65d5c1b22e/2ce0_hqdefault.jpg "Moria vs. Wuhan Modelling - AIforGood Simulator for Refugee Camp by Billy Zhao")](https://www.youtube.com/watch?v=5ye74dfhxYk)
 
 
 In the Malakasa camp, quarantine continues\. At the same time in Corinth and Grevena, camps run by the IOM, apparently there are no doctors available, thus no healthcare provided for the people held inside the camps under the internationally agreed standards, whose minimums define the number of health workers available, and define health care as one of the basics available to the people\. As we heard this information from a number of different sources, we hope for some clear scrutiny and reporting on such practices that are present in different places not only in Greece, but along the Balkan route, namely in Bosnia and Herzegovina as well\.

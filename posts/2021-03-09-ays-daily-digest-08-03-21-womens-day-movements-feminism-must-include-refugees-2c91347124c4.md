@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 08/03/21 Women’s Day movements: Feminism must include refugees
+title: "AYS Daily Digest 08/03/21 Women’s Day movements: Feminism must include refugees"
 author: Are You Syrious?
 date: 2021-03-09T16:35:46.946+0000
 last_modified_at: 2021-03-09T17:07:45.215+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,feminism,women]
 description: Rejection of asylum app in Slovenia for mother and two daughters who were sexually assaulted // update for women and girls in Northern…
 image:
-  path: assets/2c91347124c4/1*wltK1Bpdi7SOaFdovjkhDg.jpeg
+  path: ../assets/2c91347124c4/1*wltK1Bpdi7SOaFdovjkhDg.jpeg
 ---
 
 ### AYS Daily Digest 08/03/21 Women’s Day movements: Feminism must include refugees
@@ -16,7 +16,7 @@ _Rejection of asylum app in Slovenia for mother and two daughters who were sexua
 
 
 ![Feminist demonstration from the girls and women of Ritsona in Athens on March 8th 2021\. Photo by 
-[Solidarity with migrants](https://twitter.com/MigrantsSoli/status/1368887557103247365)](assets/2c91347124c4/1*wltK1Bpdi7SOaFdovjkhDg.jpeg)
+[Solidarity with migrants](https://twitter.com/MigrantsSoli/status/1368887557103247365)](../assets/2c91347124c4/1*wltK1Bpdi7SOaFdovjkhDg.jpeg)
 
 Feminist demonstration from the girls and women of Ritsona in Athens on March 8th 2021\. Photo by 
 [Solidarity with migrants](https://twitter.com/MigrantsSoli/status/1368887557103247365)
@@ -63,7 +63,7 @@ lies every European's security."
 
 ![“OPEN THE BORDERS AND DESTROY THE CAMPS\!”
 “Women who move into Greece have to survive both the dehumanising border system and sexist violence\. 
-Today on International Women’s Day, members of the Khora community marched with thousands of others to demand liberty and freedom for women, and a better world for us all ✊” Photo by [Khora](https://www.facebook.com/KhoraAthens/posts/1706640692841865)](assets/2c91347124c4/1*KHlyQY0TCadDyb2WOmAvDQ.jpeg)
+Today on International Women’s Day, members of the Khora community marched with thousands of others to demand liberty and freedom for women, and a better world for us all ✊” Photo by [Khora](https://www.facebook.com/KhoraAthens/posts/1706640692841865)](../assets/2c91347124c4/1*KHlyQY0TCadDyb2WOmAvDQ.jpeg)
 
 “OPEN THE BORDERS AND DESTROY THE CAMPS\!”
 “Women who move into Greece have to survive both the dehumanising border system and sexist violence\. 
@@ -93,7 +93,7 @@ In solidarity, The Transnational Social Strike Platform published a text by the 
 Read the wonderful piece in full [here](https://www.transnational-strike.info/2021/03/05/you-cannot-speak-about-feminism-if-we-are-not-included-8th-march-the-tmc-speaks-from-moria/?fbclid=IwAR2wfU7p5XGuY3F0nKKg6XEduj3zzZpFmmh7JJ8GdhklPQmatgRxji44m5g) \.
 
 
-![“Thousands of women and girls in displacement remain stranded in overcrowded living conditions on the Aegean islands as they await their asylum interview\. On Lesvos alone, there are over 9,000 refugees and asylum seekers\. Almost 40% of them are women and girls\. They face disproportionate risks and are particularly vulnerable to a number of threats, including exposure to sexual and gender\-based violence\.” Photo and Info by [European Lawyers in Lesvos](https://www.facebook.com/EuropeanLawyersInLesvos/posts/2866888536965219)](assets/2c91347124c4/1*J-bbGqsIkCmJy3KxybBL9Q.jpeg)
+![“Thousands of women and girls in displacement remain stranded in overcrowded living conditions on the Aegean islands as they await their asylum interview\. On Lesvos alone, there are over 9,000 refugees and asylum seekers\. Almost 40% of them are women and girls\. They face disproportionate risks and are particularly vulnerable to a number of threats, including exposure to sexual and gender\-based violence\.” Photo and Info by [European Lawyers in Lesvos](https://www.facebook.com/EuropeanLawyersInLesvos/posts/2866888536965219)](../assets/2c91347124c4/1*J-bbGqsIkCmJy3KxybBL9Q.jpeg)
 
 “Thousands of women and girls in displacement remain stranded in overcrowded living conditions on the Aegean islands as they await their asylum interview\. On Lesvos alone, there are over 9,000 refugees and asylum seekers\. Almost 40% of them are women and girls\. They face disproportionate risks and are particularly vulnerable to a number of threats, including exposure to sexual and gender\-based violence\.” Photo and Info by [European Lawyers in Lesvos](https://www.facebook.com/EuropeanLawyersInLesvos/posts/2866888536965219)
 
@@ -150,20 +150,20 @@ UNHCR said in a new report, which [the European Council on Refugees and Exiles \
 #### FRANCE
 
 
-![](assets/2c91347124c4/1*mmH10QfWi4SdMhHQFaXmyw.jpeg)
+![](../assets/2c91347124c4/1*mmH10QfWi4SdMhHQFaXmyw.jpeg)
 
 
 
-![](assets/2c91347124c4/1*NJHQD00q98A9g7I2L1Cgfg.jpeg)
+![](../assets/2c91347124c4/1*NJHQD00q98A9g7I2L1Cgfg.jpeg)
 
 
 
-![“This morning at Calais , the operations forced evictions continue by the police\. The exiles have nowhere to take shelter despite the cold\. Items, including tents full of personal belongings, were seized\.” Photo and Info by [Human Rights Observers](https://twitter.com/HumanRightsObs/status/1369024881191510019)](assets/2c91347124c4/1*gVGbrflwL1CotVeNjV2k2A.jpeg)
+![“This morning at Calais , the operations forced evictions continue by the police\. The exiles have nowhere to take shelter despite the cold\. Items, including tents full of personal belongings, were seized\.” Photo and Info by [Human Rights Observers](https://twitter.com/HumanRightsObs/status/1369024881191510019)](../assets/2c91347124c4/1*gVGbrflwL1CotVeNjV2k2A.jpeg)
 
 “This morning at Calais , the operations forced evictions continue by the police\. The exiles have nowhere to take shelter despite the cold\. Items, including tents full of personal belongings, were seized\.” Photo and Info by [Human Rights Observers](https://twitter.com/HumanRightsObs/status/1369024881191510019)
 
 
-![Photo by [Refugee Women’s Centre](https://refugee-rights.eu/2021/03/07/international-womens-day-update-on-the-situation-in-northern-france/?fbclid=IwAR0pYbTwh0LxBRy26t2FGWn2XuKvfeION_45mnZPhX6jZNktOFeMJnCMPP8)](assets/2c91347124c4/1*__7GMVQnwFgfjphDhVt8Lw.jpeg)
+![Photo by [Refugee Women’s Centre](https://refugee-rights.eu/2021/03/07/international-womens-day-update-on-the-situation-in-northern-france/?fbclid=IwAR0pYbTwh0LxBRy26t2FGWn2XuKvfeION_45mnZPhX6jZNktOFeMJnCMPP8)](../assets/2c91347124c4/1*__7GMVQnwFgfjphDhVt8Lw.jpeg)
 
 Photo by [Refugee Women’s Centre](https://refugee-rights.eu/2021/03/07/international-womens-day-update-on-the-situation-in-northern-france/?fbclid=IwAR0pYbTwh0LxBRy26t2FGWn2XuKvfeION_45mnZPhX6jZNktOFeMJnCMPP8)
 ### “International Women’s Day: update on the situation in Northern France for displaced women, girls and families”
@@ -258,7 +258,7 @@ _How can you get involved? Get your local group to plan an action in line with t
 _Contact noevictionsnetwork@gmail\.com_
 
 
-![Graffiti in Mytilene\. Photo by [Alarm Phone](https://alarmphone.org/en/2021/03/08/border-feminisms/?fbclid=IwAR0KJunjmVWa0sUfhnuTOg_55zo50oyWTqarzVHPhkRh92yKRokfVerAsO8)](assets/2c91347124c4/1*Lssb7Susnkfdg--GE3-vDQ.jpeg)
+![Graffiti in Mytilene\. Photo by [Alarm Phone](https://alarmphone.org/en/2021/03/08/border-feminisms/?fbclid=IwAR0KJunjmVWa0sUfhnuTOg_55zo50oyWTqarzVHPhkRh92yKRokfVerAsO8)](../assets/2c91347124c4/1*Lssb7Susnkfdg--GE3-vDQ.jpeg)
 
 Graffiti in Mytilene\. Photo by [Alarm Phone](https://alarmphone.org/en/2021/03/08/border-feminisms/?fbclid=IwAR0KJunjmVWa0sUfhnuTOg_55zo50oyWTqarzVHPhkRh92yKRokfVerAsO8)
 #### To end on a feminist note…

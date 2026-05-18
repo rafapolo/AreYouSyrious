@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 19/09/2018: At Salzburg Summit, EU leaders once more push border externalization
+title: "AYS Daily Digest 19/09/2018: At Salzburg Summit, EU leaders once more push border externalization"
 author: Are You Syrious?
 date: 2018-09-20T08:08:56.445+0100
 last_modified_at: 2018-09-20T12:30:20.525+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,donald-tusk,european-union,lesvos]
 description: Human rights violations continue in Morocco // Transfers to the mainland — and then what? // Aid Brigade needs help in Bosnia // Arrivals…
 image:
-  path: assets/78410a342d4e/1*_qyjlCTAkxNCh0OyS1OtDw.jpeg
+  path: ../assets/78410a342d4e/1*_qyjlCTAkxNCh0OyS1OtDw.jpeg
 ---
 
 ### AYS Daily Digest 19/09/2018: At Salzburg Summit, EU leaders once more push border externalization
 #### Human rights violations continue in Morocco // Transfers to the mainland — and then what? // Aid Brigade needs help in Bosnia // Arrivals to Spain and Greece outstrip Italy // The passengers of the Aquarius 3 months later // Winter is coming in Calais
 
 
-![Transfers from Samos to the mainland\. Source: Aegean Boat Report\.](assets/78410a342d4e/1*_qyjlCTAkxNCh0OyS1OtDw.jpeg)
+![Transfers from Samos to the mainland\. Source: Aegean Boat Report\.](../assets/78410a342d4e/1*_qyjlCTAkxNCh0OyS1OtDw.jpeg)
 
 Transfers from Samos to the mainland\. Source: Aegean Boat Report\.
 
@@ -96,7 +96,7 @@ IOM has released a report on protection of migrants at sea, which can be downloa
 #### Greece
 
 
-![Refugees sleep on the floor inside an overcrowded warehouse in Moria Camp on Lesvos\. Credit: Katelyn Ray\.](assets/78410a342d4e/1*Kku2tJ2j4h8YM28AcgVHeQ.jpeg)
+![Refugees sleep on the floor inside an overcrowded warehouse in Moria Camp on Lesvos\. Credit: Katelyn Ray\.](../assets/78410a342d4e/1*Kku2tJ2j4h8YM28AcgVHeQ.jpeg)
 
 Refugees sleep on the floor inside an overcrowded warehouse in Moria Camp on Lesvos\. Credit: Katelyn Ray\.
 
@@ -143,14 +143,14 @@ Reporter Anelise Borges interviewed Reward, the last person to disembark the Aqu
 #### France
 
 
-![Makeshift campgrounds in the forests surrounding Calais\. Credit: Calais Refugee Aid\.](assets/78410a342d4e/1*UCh8aPcT_gAsr8GYRp3q_w.jpeg)
+![Makeshift campgrounds in the forests surrounding Calais\. Credit: Calais Refugee Aid\.](../assets/78410a342d4e/1*UCh8aPcT_gAsr8GYRp3q_w.jpeg)
 
 Makeshift campgrounds in the forests surrounding Calais\. Credit: Calais Refugee Aid\.
 
 The organization Calais Refugee Aid steels itself for winter, [noting](https://www.facebook.com/CalaisRefugeeAid/posts/1879693598762830?hc_location=ufi) that there are still people, including children, arriving in the region regularly, and no one has adequate supplies for the wind, rain, and frigid nights that lie ahead in the coming months\. They also report that there are more and more refugees in need of medical attention in the area\.
 
 
-![A man attempts to light a small campfire in the woods of Calais\. Credit: Calais Refugee Aid\.](assets/78410a342d4e/1*7R6ZFsF_WkmH1u3eg2hdvQ.jpeg)
+![A man attempts to light a small campfire in the woods of Calais\. Credit: Calais Refugee Aid\.](../assets/78410a342d4e/1*7R6ZFsF_WkmH1u3eg2hdvQ.jpeg)
 
 A man attempts to light a small campfire in the woods of Calais\. Credit: Calais Refugee Aid\.
 

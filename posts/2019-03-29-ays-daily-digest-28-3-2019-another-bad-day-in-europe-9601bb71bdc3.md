@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 28/3/2019: Another bad day in Europe
+title: "AYS DAILY DIGEST 28/3/2019: Another bad day in Europe"
 author: Are You Syrious?
 date: 2019-03-29T12:11:18.956+0000
 last_modified_at: 2019-03-29T13:28:38.013+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,balkans,italy,malta]
 description: Malta, Balkans, Italy, France, Greece… no good news from any of these countries when it comes to people on the move and people who are…
 image:
-  path: assets/9601bb71bdc3/1*GShU1M9n5R19gfjSzxsdow.jpeg
+  path: ../assets/9601bb71bdc3/1*GShU1M9n5R19gfjSzxsdow.jpeg
 ---
 
 ### AYS DAILY DIGEST 28/3/2019: Another bad day in Europe
@@ -15,7 +15,7 @@ image:
 _Malta, Balkans, Italy, France, Greece… no good news from any of these countries when it comes to people on the move and people who are assisting them\._
 
 
-![They dream about freedom, but the dreams are intercepted by violence and unwelcoming attitudes\. Photo [LIFELINE](https://www.facebook.com/seenotrettung/posts/538105289929348?__tn__=-R) photographed by Matthias Peuker](assets/9601bb71bdc3/1*GShU1M9n5R19gfjSzxsdow.jpeg)
+![They dream about freedom, but the dreams are intercepted by violence and unwelcoming attitudes\. Photo [LIFELINE](https://www.facebook.com/seenotrettung/posts/538105289929348?__tn__=-R) photographed by Matthias Peuker](../assets/9601bb71bdc3/1*GShU1M9n5R19gfjSzxsdow.jpeg)
 
 They dream about freedom, but the dreams are intercepted by violence and unwelcoming attitudes\. Photo [LIFELINE](https://www.facebook.com/seenotrettung/posts/538105289929348?__tn__=-R) photographed by Matthias Peuker
 ### Feature
@@ -25,7 +25,7 @@ It is hard today to choose which is the worst news of the day, unfortunately\. W
 A big story we’ve followed these past few days is the status of a merchant vessel with 108 people on board, including at least 12 children and 19 women, which was heading toward Malta\. The ship had rescued these people in the Central Med, off the Libyan coast, and was returning them to a Libyan port on Wednesday when the bridge was taken over and the crew was then ordered to set course towards Malta\.
 
 
-![Photo LIFELINE photographed by Matthias Peuker](assets/9601bb71bdc3/1*PHQWLtKTa7OZrGBSZnXxhA.jpeg)
+![Photo LIFELINE photographed by Matthias Peuker](../assets/9601bb71bdc3/1*PHQWLtKTa7OZrGBSZnXxhA.jpeg)
 
 Photo LIFELINE photographed by Matthias Peuker
 
@@ -36,7 +36,7 @@ After a short odyssey, the ship docked at Boiler Wharf on Thursday around 8\.30 
 No weapons were used and no one was injured, but the outnumbered crew members said they were threatened with assault unless they followed orders\.
 
 
-![Photo LIFELINE photographed by Matthias Peuker](assets/9601bb71bdc3/1*309gnScBvdeflSX6FWle9w.jpeg)
+![Photo LIFELINE photographed by Matthias Peuker](../assets/9601bb71bdc3/1*309gnScBvdeflSX6FWle9w.jpeg)
 
 Photo LIFELINE photographed by Matthias Peuker
 
@@ -109,7 +109,7 @@ But [this is not all](http://www.arabnews.com/node/1473496/middle-east) \. The p
 At least two people disappeared after a boat hit a rock in the sea near Chios island, Greece\. 36 were rescued, and search operations are underway\.
 
 
-![By [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/547054842484291?__tn__=-R) \.](assets/9601bb71bdc3/1*xN15bIZNJtVId0jX4DD5Dw.jpeg)
+![By [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/547054842484291?__tn__=-R) \.](../assets/9601bb71bdc3/1*xN15bIZNJtVId0jX4DD5Dw.jpeg)
 
 By [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/547054842484291?__tn__=-R) \.
 
@@ -201,11 +201,11 @@ Italian media are reporting about a big arrest of the alleged members of a traff
 Police continue using illegal practices to prevent people from travelling from one part of the country to another\. Families are left by the road near the city of Kljuc with nothing\. The local population is still helping, bringing donations and spending time with people\. Last night families from Syria and Iraq were among those left on the side of the road\.
 
 
-![](assets/9601bb71bdc3/1*ABCrybMJsZ81XCAIg2o-vA.jpeg)
+![](../assets/9601bb71bdc3/1*ABCrybMJsZ81XCAIg2o-vA.jpeg)
 
 
 
-![[Red Cross Kljuc](https://m.facebook.com/story.php?story_fbid=2305917509728837&id=100009318317491)](assets/9601bb71bdc3/1*eGqJHjkGKb36EJiS7FVgVQ.jpeg)
+![[Red Cross Kljuc](https://m.facebook.com/story.php?story_fbid=2305917509728837&id=100009318317491)](../assets/9601bb71bdc3/1*eGqJHjkGKb36EJiS7FVgVQ.jpeg)
 
 [Red Cross Kljuc](https://m.facebook.com/story.php?story_fbid=2305917509728837&id=100009318317491)
 ### France

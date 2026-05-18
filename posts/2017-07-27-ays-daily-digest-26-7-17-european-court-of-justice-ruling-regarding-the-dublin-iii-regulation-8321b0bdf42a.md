@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 26/07/17: European Court of Justice ruling regarding the Dublin III Regulation
+title: "AYS Daily Digest 26/07/17: European Court of Justice ruling regarding the Dublin III Regulation"
 author: Are You Syrious?
 date: 2017-07-27T00:42:27.920+0100
 last_modified_at: 2017-08-29T17:10:03.720+0100
@@ -7,7 +7,7 @@ categories:
 tags: [europe,refugees,refugee-crisis,european-union,european-court]
 description: Refugees required to seek asylum in the first country they reach even in exceptional circumstances, ECJ stated / Sea-Watch is bringing…
 image:
-  path: assets/8321b0bdf42a/1*bL1Kh2WrOtkHPia4K_EQyA.jpeg
+  path: ../assets/8321b0bdf42a/1*bL1Kh2WrOtkHPia4K_EQyA.jpeg
 ---
 
 ### AYS Daily Digest 26/07/17: European Court of Justice ruling regarding the Dublin III Regulation
@@ -15,7 +15,7 @@ image:
 _Refugees required to seek asylum in the first country they reach even in exceptional circumstances, ECJ stated / Sea\-Watch is bringing another ship into operation / Defend Europe mission fails / Overcrowded Aegean islands / Watter supply cut in Samos / UNHCR reports 157 collective expulsions from Croatia / French police routinely abuse refugees and migrants in Calais / EC pledges to offer Italy further €100m in funding / And more news…_
 
 
-![[Art Against](https://www.facebook.com/artagainstproject/posts/1433774723338624:0?hc_location=ufi)](assets/8321b0bdf42a/1*bL1Kh2WrOtkHPia4K_EQyA.jpeg)
+![[Art Against](https://www.facebook.com/artagainstproject/posts/1433774723338624:0?hc_location=ufi)](../assets/8321b0bdf42a/1*bL1Kh2WrOtkHPia4K_EQyA.jpeg)
 
 [Art Against](https://www.facebook.com/artagainstproject/posts/1433774723338624:0?hc_location=ufi)
 #### FEATURE
@@ -65,11 +65,11 @@ Meanwhile, after successfully gathering enough funds in a crowdfunding campaign 
 Few people from the villages surrounding [M](https://www.facebook.com/hashtag/moriarefugeecamp?source=feed_text&story_id=330540850723144) oria refugee camp were protesting today in Mytilini\. The situation on the Island and its outcome is affecting them as well, One Happy Family — Community Center, Lesvos wrote\. Like the residents in the camps, those people are frustrated as well\.
 
 
-![](assets/8321b0bdf42a/1*XD0ja9Zr3yqm7qp1wxXMlg.jpeg)
+![](../assets/8321b0bdf42a/1*XD0ja9Zr3yqm7qp1wxXMlg.jpeg)
 
 
 
-![[One Happy Family — Community Center, Lesvos](https://www.facebook.com/OHFLesvos/) photographed the protest](assets/8321b0bdf42a/1*uSnoOlrDzTyFuJcEhgB8ZQ.jpeg)
+![[One Happy Family — Community Center, Lesvos](https://www.facebook.com/OHFLesvos/) photographed the protest](../assets/8321b0bdf42a/1*uSnoOlrDzTyFuJcEhgB8ZQ.jpeg)
 
 [One Happy Family — Community Center, Lesvos](https://www.facebook.com/OHFLesvos/) photographed the protest
 #### Overcrowded Aegean islands
@@ -94,7 +94,7 @@ The only people that were informed about the water being cut every morning were 
 HelpRefugees reported on their works in Serbia\. Last month they began to overhaul the sub\-standard water and sanitation system in the Obrenovac camp\. 20 portable toilets were installed and a couple of shower containers recommissioned\. They are now in the process of repairing, deep cleaning and repurposing the six unusable bathrooms located across the camp\.
 
 
-![[HelpRefugees](https://www.facebook.com/HelpRefugeesUK/)](assets/8321b0bdf42a/1*CVHtN7tDycuQV72EKmdKoQ.jpeg)
+![[HelpRefugees](https://www.facebook.com/HelpRefugeesUK/)](../assets/8321b0bdf42a/1*CVHtN7tDycuQV72EKmdKoQ.jpeg)
 
 [HelpRefugees](https://www.facebook.com/HelpRefugeesUK/)
 #### CROATIA
@@ -141,7 +141,7 @@ The report is based on interviews with more than 60 asylum seekers and other mig
 Volunteers say police use of excessive force, both towards refugees and volunteers, is recurring and constantly present, even by water distributions, like the one in this video:
 
 
-[![Violences policières à Calais : les images de la honte](assets/8321b0bdf42a/9435_hqdefault.jpg "Violences policières à Calais : les images de la honte")](http://www.youtube.com/watch?v=MIxGMfowzkY)
+[![Violences policières à Calais : les images de la honte](../assets/8321b0bdf42a/9435_hqdefault.jpg "Violences policières à Calais : les images de la honte")](http://www.youtube.com/watch?v=MIxGMfowzkY)
 
 #### DENMARK
 

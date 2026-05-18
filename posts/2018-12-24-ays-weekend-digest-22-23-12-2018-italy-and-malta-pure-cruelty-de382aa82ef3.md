@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,libya,mediterrane,santa-action]
 description: Eritrean man dies in Libyan detention centre /// Santa Action in Denmark /// Updates and info on Let’s Bring Them Home initiative ///…
 image:
-  path: assets/de382aa82ef3/1*CJN5l-vv0vz0kFhIqwr07g.jpeg
+  path: ../assets/de382aa82ef3/1*CJN5l-vv0vz0kFhIqwr07g.jpeg
 ---
 
 ### AYS Weekend Digest 22–23/12/2018 Italy and Malta = “Pure Cruelty”
@@ -15,7 +15,7 @@ image:
 Eritrean man dies in Libyan detention centre /// Santa Action in Denmark /// Updates and info on Let’s Bring Them Home initiative /// Police keep harrassing people on the move in Bihac area, Bosnia /// Press Release from Sea Watch 3
 
 
-![](assets/de382aa82ef3/1*CJN5l-vv0vz0kFhIqwr07g.jpeg)
+![](../assets/de382aa82ef3/1*CJN5l-vv0vz0kFhIqwr07g.jpeg)
 
 
 \(drawing by [Omar Perez / Art Against](https://www.facebook.com/artagainstproject/) \)
@@ -23,7 +23,7 @@ Eritrean man dies in Libyan detention centre /// Santa Action in Denmark /// Up
 FEATURE — Italy and Malta = “Pure Cruelty”
 
 
-![\(Photo by [Pilotes Voluntaires](https://www.facebook.com/pilotesvolontaires/) \)](assets/de382aa82ef3/1*DOv94NnuLYzrc7YTr3lzIQ.jpeg)
+![\(Photo by [Pilotes Voluntaires](https://www.facebook.com/pilotesvolontaires/) \)](../assets/de382aa82ef3/1*DOv94NnuLYzrc7YTr3lzIQ.jpeg)
 
 \(Photo by [Pilotes Voluntaires](https://www.facebook.com/pilotesvolontaires/) \)
 
@@ -265,7 +265,7 @@ BOSNIA AND HERZEGOVINA
 #### Police carry on moving people out of Bihac canton
 
 
-![Velecevu \(Photo by [Crveni Križ Općine Ključ](https://www.facebook.com/profile.php?id=100009318317491&__tn__=%2CdlC-R-R&eid=ARBbe9mDKPUWXZoYy0FKYcUY3L-E7d5rahUNqwaitPuEb3aHxZS5ynTYlG8r39F4eAnXMLZXMCvSnNZd&hc_ref=ARSuHNg-SW1LCO056dicb_n8x-Xq7zn7bO4hdBtoSqc15IJm6E8qgiTi89Ey3jQM0Hc) \)](assets/de382aa82ef3/1*vaMZ9xrhgtRy642mmQ4Q2A.jpeg)
+![Velecevu \(Photo by [Crveni Križ Općine Ključ](https://www.facebook.com/profile.php?id=100009318317491&__tn__=%2CdlC-R-R&eid=ARBbe9mDKPUWXZoYy0FKYcUY3L-E7d5rahUNqwaitPuEb3aHxZS5ynTYlG8r39F4eAnXMLZXMCvSnNZd&hc_ref=ARSuHNg-SW1LCO056dicb_n8x-Xq7zn7bO4hdBtoSqc15IJm6E8qgiTi89Ey3jQM0Hc) \)](../assets/de382aa82ef3/1*vaMZ9xrhgtRy642mmQ4Q2A.jpeg)
 
 Velecevu \(Photo by [Crveni Križ Općine Ključ](https://www.facebook.com/profile.php?id=100009318317491&__tn__=%2CdlC-R-R&eid=ARBbe9mDKPUWXZoYy0FKYcUY3L-E7d5rahUNqwaitPuEb3aHxZS5ynTYlG8r39F4eAnXMLZXMCvSnNZd&hc_ref=ARSuHNg-SW1LCO056dicb_n8x-Xq7zn7bO4hdBtoSqc15IJm6E8qgiTi89Ey3jQM0Hc) \)
 
@@ -287,11 +287,11 @@ FRANCE
 The situation in Calais remains desperate and dire\. Forgotten by the media, the government and by most of the public, people on the move walk around with freezing wet feet and nowhere to turn for warmth\.
 
 
-![](assets/de382aa82ef3/1*tGcTEsur-7qIF5IlzYosvg.jpeg)
+![](../assets/de382aa82ef3/1*tGcTEsur-7qIF5IlzYosvg.jpeg)
 
 
 
-![Calais \(Photo by [Calais Action](https://www.facebook.com/aidbrigade/videos/2225491157729916/?fref=gs&dti=1652972374920129&hc_location=group) \)](assets/de382aa82ef3/1*6W42RNhdm4tEcAP1ILbXRw.jpeg)
+![Calais \(Photo by [Calais Action](https://www.facebook.com/aidbrigade/videos/2225491157729916/?fref=gs&dti=1652972374920129&hc_location=group) \)](../assets/de382aa82ef3/1*6W42RNhdm4tEcAP1ILbXRw.jpeg)
 
 Calais \(Photo by [Calais Action](https://www.facebook.com/aidbrigade/videos/2225491157729916/?fref=gs&dti=1652972374920129&hc_location=group) \)
 
@@ -319,7 +319,7 @@ DENMARK
 #### Santa will Strike until all these Humans get Passports
 
 
-![](assets/de382aa82ef3/1*mUCrKSkMur9Y8e6XxeQOKQ.jpeg)
+![](../assets/de382aa82ef3/1*mUCrKSkMur9Y8e6XxeQOKQ.jpeg)
 
 
 Local media [report](https://politiken.dk/kultur/art6921907/100-julemænd-vælter-ud-af-propfuld-bus-i-værdigheds-aktion-ved-hegnet-til-Sjælsmark?fbclid=IwAR3N17suFLRH6_p3-QpTXHWVHrVnTBBwb0OZYPe0ysPyZPuE7z-hjroGCQ4) that the Santa Action by art activist group [De femten](https://www.defemten.dk/?fbclid=IwAR3at3gSxUC4V18Tbxa2nILFOWmUUXf8UjmR2uu9AgAEjZm6BJ4YZxujVQs) \(The Fifteens\), during which hundreds of Santas climbed the fence of Sjælsmark deportation centre to play with the kids and cheer up the people there, went well\. The action was allowed to remain peaceful, no police or guards intervened\.

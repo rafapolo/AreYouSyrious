@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 15/6/21: ‘Saved’ to be sent to certain detention and torture
+title: "AYS Daily Digest 15/6/21: ‘Saved’ to be sent to certain detention and torture"
 author: Are You Syrious?
 date: 2021-06-16T15:23:57.828+0100
 last_modified_at: 2021-06-16T15:23:57.828+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,migration,greece,spain,frontex]
 description: Israel supporting repression in Greece// “Significant delays in the creation of new infrastructure” for the new camps in the Aegean//…
 image:
-  path: assets/bb0cdc06bc92/0*PttwSgrwDw1OvD1A
+  path: ../assets/bb0cdc06bc92/0*PttwSgrwDw1OvD1A
 ---
 
 ### AYS Daily Digest 15/6/21: ‘Saved’ to be sent to certain detention and torture
 #### Israel supporting repression in Greece// “Significant delays in the creation of new infrastructure” for the new camps in the Aegean// Situation in Serbia// Shipwreck takes more lives of Yemenis trying to escape misery// EP says it wants for EU to take the lead in SAR missions
 
 
-![Photo: Seabird/Sea\-Watch](assets/bb0cdc06bc92/0*PttwSgrwDw1OvD1A)
+![Photo: Seabird/Sea\-Watch](../assets/bb0cdc06bc92/0*PttwSgrwDw1OvD1A)
 
 Photo: Seabird/Sea\-Watch
 #### FEATURED
@@ -42,7 +42,7 @@ This occurs at the same time as Italy and Malta refused to provide a port to the
 
 
 
-![](assets/bb0cdc06bc92/0*35gl95pHP6tX1TAp)
+![](../assets/bb0cdc06bc92/0*35gl95pHP6tX1TAp)
 
 
 The boat’s meeting with the Libyan Coast Guard vessel prompted many warnings from various sides\. One of them came from MSF:

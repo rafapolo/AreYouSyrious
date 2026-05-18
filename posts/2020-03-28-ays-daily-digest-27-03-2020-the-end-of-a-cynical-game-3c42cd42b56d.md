@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 27/03/2020: The end of a cynical game
+title: "AYS Daily Digest 27/03/2020: The end of a cynical game"
 author: Are You Syrious?
 date: 2020-03-28T10:11:03.019+0000
 last_modified_at: 2020-03-28T13:41:04.308+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,turkey,greece]
 description: Turkish authorities evict poeple from Pazarkule // Inhumane punishment in Bosnia // Greece introduces measements to tackle Covid-19; and…
 image:
-  path: assets/3c42cd42b56d/1*t6LHgBSJKpOXhvPs2BbMcg.jpeg
+  path: ../assets/3c42cd42b56d/1*t6LHgBSJKpOXhvPs2BbMcg.jpeg
 ---
 
 ### AYS Daily Digest 27/03/2020: The end of a cynical game
 #### Turkish authorities evict poeple from Pazarkule // Inhumane punishment in Bosnia // Greece introduces measures to tackle Covid\-19 and ignores human rights // The number of attacks on protected people remains on a high level in 2019
 
 
-![The Pazarkule jungle has been evicted\. Photo: Twitter/ [@AntonisRepanas](https://twitter.com/AntonisRepanas/status/1243214942968446977)](assets/3c42cd42b56d/1*t6LHgBSJKpOXhvPs2BbMcg.jpeg)
+![The Pazarkule jungle has been evicted\. Photo: Twitter/ [@AntonisRepanas](https://twitter.com/AntonisRepanas/status/1243214942968446977)](../assets/3c42cd42b56d/1*t6LHgBSJKpOXhvPs2BbMcg.jpeg)
 
 The Pazarkule jungle has been evicted\. Photo: Twitter/ [@AntonisRepanas](https://twitter.com/AntonisRepanas/status/1243214942968446977)
 ### Feature: The end of a cynical game
@@ -32,7 +32,7 @@ The AYS source writes:
 People cannot understand what is happening to them and why they have now been imprisoned after being misused for a cynical political game\. “We told them we wouldn’t do anything\. We came to the border with your will\. Why do you do this to us,” is one of the messages AYS was sent\. From officials the people hear that even they do not know what to do now\. Reportedly the Turkish interior minister said that after the risk of being infected is over they are free to go back to the border\.
 
 
-![One of the new shelters\. Source: Private](assets/3c42cd42b56d/1*Y3mKLU2qh0Un6bcHWBy2RQ.jpeg)
+![One of the new shelters\. Source: Private](../assets/3c42cd42b56d/1*Y3mKLU2qh0Un6bcHWBy2RQ.jpeg)
 
 One of the new shelters\. Source: Private
 

@@ -1,24 +1,24 @@
 ---
-title: AYS Weekend Digest 11–12/04/2020: How many have to die for Europe’s sins?
+title: "AYS Weekend Digest 11–12/04/2020: How many have to die for Europe’s sins?"
 author: Are You Syrious?
 date: 2020-04-13T13:44:11.505+0100
 last_modified_at: 2020-04-13T13:44:11.505+0100
 categories: Are You Syrious?
 tags: []
-description: 4 boats in distress and one feared tragedy in the Central Med / Turkey: Reports of people on the move abandoned on the coast / Greece…
+description: "4 boats in distress and one feared tragedy in the Central Med / Turkey: Reports of people on the move abandoned on the coast / Greece…"
 image:
-  path: assets/bfbc380424d9/0*AS5pNiztCdK4i-2n.jpeg
+  path: ../assets/bfbc380424d9/0*AS5pNiztCdK4i-2n.jpeg
 ---
 
 ### AYS Weekend Digest 11–12/04/2020: How many have to die for Europe’s sins?
 #### _4 boats in distress and one feared tragedy in the Central Med / Turkey: Reports of people on the move abandoned on the coast / Greece: Criminal complaint filed against coast guard / Cases of Covid\-19 confirmed among people on the move in Northern France and in detention centre in Schipol airport, The Netherlands\._
 
 
-![](assets/bfbc380424d9/0*v-0zBJ6yc3OtUXGD)
+![](../assets/bfbc380424d9/0*v-0zBJ6yc3OtUXGD)
 
 
 
-![](assets/bfbc380424d9/0*AS5pNiztCdK4i-2n.jpeg)
+![](../assets/bfbc380424d9/0*AS5pNiztCdK4i-2n.jpeg)
 
 
 From Lesvos to the Central Med: We stand in solidarity with [\#AlanKurdi](https://twitter.com/hashtag/AlanKurdi?src=hashtag_click) \! \(Photo by [Mare Liberum e\.V\.](https://twitter.com/teammareliberum/status/1249292530979672070) \)
@@ -56,11 +56,11 @@ In Malta, young people are [protesting against the](https://lovinmalta.com/news/
 In Italy, Mediterranea — Saving Humans launched a [digital flash mob](https://twitter.com/RescueMed/status/1249417560682115073) :
 
 
-![](assets/bfbc380424d9/0*zrWMm2C_xr8RzKEQ)
+![](../assets/bfbc380424d9/0*zrWMm2C_xr8RzKEQ)
 
 
 
-![](assets/bfbc380424d9/0*I0jtcVl4bjbs0tbT.jpeg)
+![](../assets/bfbc380424d9/0*I0jtcVl4bjbs0tbT.jpeg)
 
 
 \#Savethem \#Leavenoonebehind \( [Mediterranea — Saving Humans](https://twitter.com/RescueMed/status/1249417560682115073) \)
@@ -197,19 +197,19 @@ These camps are paid for by the EU\.
 When people try to leave these conditions and cross over into Croatia, further violence meets them\.
 
 
-![](assets/bfbc380424d9/0*rUzfegxX623uKqoo)
+![](../assets/bfbc380424d9/0*rUzfegxX623uKqoo)
 
 
 
-![](assets/bfbc380424d9/0*jGA4cSpMAbB3gkRh.jpeg)
+![](../assets/bfbc380424d9/0*jGA4cSpMAbB3gkRh.jpeg)
 
 
 
-![](assets/bfbc380424d9/0*XC89BK89WUk3_2vL)
+![](../assets/bfbc380424d9/0*XC89BK89WUk3_2vL)
 
 
 
-![](assets/bfbc380424d9/0*jsGRD2OIW-XJYmVi.jpeg)
+![](../assets/bfbc380424d9/0*jsGRD2OIW-XJYmVi.jpeg)
 
 
 \(Photo Credit: [Linea d’Ombra ODV](https://web.facebook.com/lineadombraODV/?__tn__=kC-R&eid=ARBGky458zJyw_Ws0UZ9du8dn4oGhuEt5aTcJrBK9lrK3gbmJX6vg2Mw-cX2wTTn1y7UONI9s5xb09bh&hc_ref=ARQln0zf_meBiGTijK7RlRF_MAtEmOewOqKI61RF_rOY3z5Ou1qNLyi8innlkwmjQB8&fref=nf&__xts__%5B0%5D=68.ARA-Vvzj5tlxS5oacHRC7URTzeawZ5GzimQeSsBO5kzPomHGfcrd0c79xcBa8evCBcjSsbeC_ckfidQj9t1gkUzz0g6fuQ-2cHK1ROJygvIU1Ty9soSa2JK1oEybXtXOhiaR3uBo9D57CrUCexnHYvoVHUFjFFg-UZkdc89kdTL6945AtqfnmO2rwVNrp5qsVeQJ1jVuhxjhTofzPx15p8FXeucHCvJRnZwiRnZFny2hrrJl4g8JaaFxnaX7zbFfZhPQqtOvyIjmnomKAsKq3ZBjFFREz1JVFctWfz8e1hCHscX7X4aa3zpUMvLDZyJYSb_TIHc3ZfHMoVT-wqFObEo) \)
@@ -255,11 +255,11 @@ They call for the use of empty hostels and hotels to house the most vulnerable d
 **Solidarity Support needed in Paris**
 
 
-![](assets/bfbc380424d9/0*Xzq_Y52e_X49JXhI)
+![](../assets/bfbc380424d9/0*Xzq_Y52e_X49JXhI)
 
 
 
-![](assets/bfbc380424d9/0*z7EZx2yNGqk1rkep.jpeg)
+![](../assets/bfbc380424d9/0*z7EZx2yNGqk1rkep.jpeg)
 
 
 \(Photo Credit: [Solidarité migrants Wilson](https://web.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__tn__=kC-R&eid=ARCUNOyAh43VwIYQcoxpL0O6bTklWmxS0apDBusnGj8rAfLxu6lhSksE8TJMLP7_poCcgoF_EHa4Bxwd&hc_ref=ARQhFrHsxTGLDouwvZxTa0DsBkjRv5Ktya5D2qIVixzWHEGOO7DnzIDFt-uqjbo35og&fref=nf&__xts__%5B0%5D=68.ARBdJ632WouE58jiojscohT9WVpKrRIfy0jK4U91HNYhnrhFaGi5dlx3n-ziyUCPscckjuV2gUAz84Cpnc-K3NmJbLYkXMsbDt42lwDANcMg3ey4eRizmJ3FADynU6fLq_ycRdVwN_xFZpqtHWTBpAjvciJt0ge81dHjzGUYMf-VMQD0Ps8vrR0ltCzJpOxqScsGtorflT0H8imv4kzA8hSZSCLxjHbl_b5ykbWW3mCGHxHZHrSmdPzboGxUfXF85XyVkjIqVjI64yez_-jtn41GCl0X6enVN9SbF1uWlfuttguvLW4LpgJKniSrp-_9W5kkbixoSmUXzsRXtmC32v_mAg) \)

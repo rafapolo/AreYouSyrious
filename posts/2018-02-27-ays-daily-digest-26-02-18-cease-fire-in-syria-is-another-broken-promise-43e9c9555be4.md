@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 26/02/18: Cease Fire in Syria is Another Broken Promise
+title: "AYS Daily Digest 26/02/18: Cease Fire in Syria is Another Broken Promise"
 author: Are You Syrious?
 date: 2018-02-27T04:47:03.394+0000
 last_modified_at: 2018-03-01T13:24:52.816+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,serbia,italy,mediterranean,digest]
 description: Italy gives mores ships to criminal Libyan Coast Guard//One refugee dies after making sea crossing//New arrivals in Greece//Fascists attack…
 image:
-  path: assets/43e9c9555be4/1*HHLJFaaf8St56x1NWcZL7w.jpeg
+  path: ../assets/43e9c9555be4/1*HHLJFaaf8St56x1NWcZL7w.jpeg
 ---
 
 ### AYS Daily Digest 26/02/18: Cease Fire in Syria is Another Broken Promise
 #### _Italy gives mores ships to criminal Libyan Coast Guard//One refugee dies after making sea crossing//New arrivals in Greece//Fascists attack social centers in Athens//Snow in Rome endangers those on the streets//More Iranians seeks refuge through Serbia//And more…_
 
 
-![Paizzale Maslax\. 02\.26\.18\. Photo Credit: [**Umberto Masci**](https://www.facebook.com/umberto.masci.9)](assets/43e9c9555be4/1*HHLJFaaf8St56x1NWcZL7w.jpeg)
+![Paizzale Maslax\. 02\.26\.18\. Photo Credit: [**Umberto Masci**](https://www.facebook.com/umberto.masci.9)](../assets/43e9c9555be4/1*HHLJFaaf8St56x1NWcZL7w.jpeg)
 
 Paizzale Maslax\. 02\.26\.18\. Photo Credit: [**Umberto Masci**](https://www.facebook.com/umberto.masci.9)
 ### Syria — Feature
@@ -65,7 +65,7 @@ Today one boat was picked up off Samos by a German Frontex vessel\.
 There were 33 people on board, 11 children, 9 women, and 13 men\.
 
 
-![Photo from landing on Kos this morning\. Photo Credit: [**Aegean Boat Report**](https://www.facebook.com/AegeanBoatReport/)](assets/43e9c9555be4/1*_WTJlLtH_DgJwm8MgNWk0g.jpeg)
+![Photo from landing on Kos this morning\. Photo Credit: [**Aegean Boat Report**](https://www.facebook.com/AegeanBoatReport/)](../assets/43e9c9555be4/1*_WTJlLtH_DgJwm8MgNWk0g.jpeg)
 
 Photo from landing on Kos this morning\. Photo Credit: [**Aegean Boat Report**](https://www.facebook.com/AegeanBoatReport/)
 
@@ -96,7 +96,7 @@ Another boat landed on Kos\. 36 people were reported on board, 9 children, and 2
 The Greek Ministry of the Interior released their official figures for the number of people trapped on the Aegean islands yesterday\.
 
 
-![](assets/43e9c9555be4/1*C2_ugWygIo52uifJHpdn4Q.jpeg)
+![](../assets/43e9c9555be4/1*C2_ugWygIo52uifJHpdn4Q.jpeg)
 
 
 The [Health Point Foundation](https://www.facebook.com/healthpointfoundation/?hc_ref=ARTANeJzcMNTKHVksdKJ-QRM0TKFf4CeYXPjb5WQWaHHj9rd2dBzYxGmqQZ5FSgBqy8&fref=nf) is looking for volunteerd entitsts and dental assistants to help people on Lesvos:
@@ -131,7 +131,7 @@ There were two attacks on social centers in Athens yesterday by fascists, includ
 The [Drop in the Ocean](https://www.facebook.com/drapenihavet/) put out on update today on the situation in the Nea Kavala camp in Northern Greece:
 
 
-![Photo Credit: [A Drop in the Ocean](https://www.facebook.com/drapenihavet/)](assets/43e9c9555be4/1*vjW5QtUb1CwJRyhAgUIvJA.jpeg)
+![Photo Credit: [A Drop in the Ocean](https://www.facebook.com/drapenihavet/)](../assets/43e9c9555be4/1*vjW5QtUb1CwJRyhAgUIvJA.jpeg)
 
 Photo Credit: [A Drop in the Ocean](https://www.facebook.com/drapenihavet/)
 
@@ -210,19 +210,19 @@ The Italy Refugee Crisis Database has shared a document of questions and answers
 #### Rome
 
 
-![“Baobab Base Camp” Photo Credit: [Andrea Costa](https://www.facebook.com/profile.php?id=1652089954&hc_location=group_dialog)](assets/43e9c9555be4/1*9ZuU1_ttxlHGJuZ87aa1xQ.jpeg)
+![“Baobab Base Camp” Photo Credit: [Andrea Costa](https://www.facebook.com/profile.php?id=1652089954&hc_location=group_dialog)](../assets/43e9c9555be4/1*9ZuU1_ttxlHGJuZ87aa1xQ.jpeg)
 
 “Baobab Base Camp” Photo Credit: [Andrea Costa](https://www.facebook.com/profile.php?id=1652089954&hc_location=group_dialog)
 
 
-![Today was the first day of snow in Rome in years\. Not good news for the 100\+ African refugees sleeping In Piazzale Maslax\. 02\.26\.18 Photo Credit: [**Francesco Pistilli**](https://www.facebook.com/francesco.pistilli?hc_ref=ARQ-swMSzmYBEwiTEvrcB40y2NfY1x8_aQXoX7xEs-0R0bAjUfgDLfEa1evqk4qfI4U)](assets/43e9c9555be4/1*Dse7bQe-_JwkX8C5xjsPog.jpeg)
+![Today was the first day of snow in Rome in years\. Not good news for the 100\+ African refugees sleeping In Piazzale Maslax\. 02\.26\.18 Photo Credit: [**Francesco Pistilli**](https://www.facebook.com/francesco.pistilli?hc_ref=ARQ-swMSzmYBEwiTEvrcB40y2NfY1x8_aQXoX7xEs-0R0bAjUfgDLfEa1evqk4qfI4U)](../assets/43e9c9555be4/1*Dse7bQe-_JwkX8C5xjsPog.jpeg)
 
 Today was the first day of snow in Rome in years\. Not good news for the 100\+ African refugees sleeping In Piazzale Maslax\. 02\.26\.18 Photo Credit: [**Francesco Pistilli**](https://www.facebook.com/francesco.pistilli?hc_ref=ARQ-swMSzmYBEwiTEvrcB40y2NfY1x8_aQXoX7xEs-0R0bAjUfgDLfEa1evqk4qfI4U)
 
 The volunteer group Baobab Experience in Rome is looking for pallets and wood to help refugees living in tents in the capital\. The group and the refugees they support have been facing increased threats by fascists in Piazzale Maslax, as AYS [reported yesterday](ays-daily-digest-25-02-italy-condemned-for-pushing-back-migrants-to-libya-in-2012-63254866a02) \. Click [here](https://www.facebook.com/pg/BaobabExperience/posts/?ref=page_internal) to contact the group and learn more about how to support their work\.
 
 
-![Photo Credit: [InfoMigrants](https://www.facebook.com/InfoMigrants/)](assets/43e9c9555be4/1*XDQjQqicQHYdi79jD040zA.jpeg)
+![Photo Credit: [InfoMigrants](https://www.facebook.com/InfoMigrants/)](../assets/43e9c9555be4/1*XDQjQqicQHYdi79jD040zA.jpeg)
 
 Photo Credit: [InfoMigrants](https://www.facebook.com/InfoMigrants/)
 
@@ -252,7 +252,7 @@ The [SolidariTea](https://www.facebook.com/refugeesolidaritea/) volunteer team i
 
 
 
-![Photo Credit: [SolidariTea](https://www.facebook.com/refugeesolidaritea/)](assets/43e9c9555be4/1*hC1yDrG_5E9slOSYgt4fhA.jpeg)
+![Photo Credit: [SolidariTea](https://www.facebook.com/refugeesolidaritea/)](../assets/43e9c9555be4/1*hC1yDrG_5E9slOSYgt4fhA.jpeg)
 
 Photo Credit: [SolidariTea](https://www.facebook.com/refugeesolidaritea/)
 
@@ -260,7 +260,7 @@ Update from Gorizia — On Wednesday the Caritas NGO will be closing their large
 ### France
 
 
-![France 02\.26\.18\. Photo Credit: [Fotomovimiento](https://www.facebook.com/Fotomovimiento.org/)](assets/43e9c9555be4/1*CBoLtx9vrAYeUEC6x-tTpQ.jpeg)
+![France 02\.26\.18\. Photo Credit: [Fotomovimiento](https://www.facebook.com/Fotomovimiento.org/)](../assets/43e9c9555be4/1*CBoLtx9vrAYeUEC6x-tTpQ.jpeg)
 
 France 02\.26\.18\. Photo Credit: [Fotomovimiento](https://www.facebook.com/Fotomovimiento.org/)
 
@@ -294,7 +294,7 @@ The [RefuComm](https://www.facebook.com/refucomm/?hc_ref=ARSPGGvbNYItHLJO4I1kVLO
 
 
 
-![Photo Courtesy of Sarah Fenby\-Dixon](assets/43e9c9555be4/1*HB34poWo_q4dWk88bDTqWw.jpeg)
+![Photo Courtesy of Sarah Fenby\-Dixon](../assets/43e9c9555be4/1*HB34poWo_q4dWk88bDTqWw.jpeg)
 
 Photo Courtesy of Sarah Fenby\-Dixon
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 17/01/2020: A story from the Italian South
+title: "AYS Daily Digest 17/01/2020: A story from the Italian South"
 author: Are You Syrious?
 date: 2020-01-18T10:24:02.087+0000
 last_modified_at: 2020-01-18T10:24:02.087+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [digest,refugees,mediterranean,alan-kurdi,winter-is-coming]
 description: Are You Syrious?
 image:
-  path: assets/2ae6d5b4a22f/0*bXd_WSNE1k49OZXq.jpeg
+  path: ../assets/2ae6d5b4a22f/0*bXd_WSNE1k49OZXq.jpeg
 ---
 
 ### AYS Daily Digest 17/01/2020: A story from the Italian South
 
 
-![](assets/2ae6d5b4a22f/0*FIUZTj6Ef1GXWyPK.jpeg)
+![](../assets/2ae6d5b4a22f/0*FIUZTj6Ef1GXWyPK.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----28cff1635a4b----------------------)
@@ -23,11 +23,11 @@ image:
 SEA: the Alan Kurdi is back in the Central Med /// 4,100 people trapped on Kos /// Summer Tents in Camps /// 100 children to be relocated to Serbia /// Italian Supreme Court rules that Carola Rackete should have never been arrested /// Deportation Alert — Germany to Tunisia
 
 
-![](assets/2ae6d5b4a22f/0*kbqVIQFCIifxn6UE)
+![](../assets/2ae6d5b4a22f/0*kbqVIQFCIifxn6UE)
 
 
 
-![](assets/2ae6d5b4a22f/0*bXd_WSNE1k49OZXq.jpeg)
+![](../assets/2ae6d5b4a22f/0*bXd_WSNE1k49OZXq.jpeg)
 
 
 \(Picture Credit: [MORO, Art Against](https://www.facebook.com/artagainstproject/photos/a.704384742944296/2678434662205951/?type=3&theater) \)
@@ -38,11 +38,11 @@ We report a short story, published by [MEDU — Medici Per i Diritti Umani](http
 [\#TERRAGIUSTA](https://www.facebook.com/hashtag/terragiusta?source=feed_text&epa=HASHTAG&__xts__%5B0%5D=68.ARBfUXyLMc25U-CQO2GmcYVc0S437grE0-coboS_bachOuVUujDTDkJiyIL94w4bz-oOCCTwYfB6o1zBIWqoEj8-hjpxHjjOVyzolffEaH54-WO0yqjVsbeyV4klqOSdrRVgAzbWef7l5zb3hJgJjy5V3tc2JyGMgnBJBv9CvhItNIxmSsfa48uGdQ_s7BDt_0jsjJHrPZvRXTtFZyjaf_MLf6QY-obASBnE_eOC-5SkNxCfsudxABKWvrLpl9HbMp-inEwqWUgPRvAWyeklIYJcefoe-kJbvOUkeOxMBy3g2PMBDby0VzUnDe2_SDv75Lpb6xdj7qJ1nx4aeg&__tn__=%2ANK-R) — Diary entry from the Piana di Gioia Tauro
 
 
-![](assets/2ae6d5b4a22f/0*wpKDedd23DqQ_m_8)
+![](../assets/2ae6d5b4a22f/0*wpKDedd23DqQ_m_8)
 
 
 
-![](assets/2ae6d5b4a22f/0*kepoYWmpnRWWwfrm.jpeg)
+![](../assets/2ae6d5b4a22f/0*kepoYWmpnRWWwfrm.jpeg)
 
 
 Piana di Gioia Tauro \(Photo by [MEDU — Medici per i Diritti Umani](https://www.facebook.com/MEDUonlus/photos/a.10151424368349817/10157892518889817/?type=3&theater) \)

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 19/10/20 Evros: New fence and new pushback investigation
+title: "AYS Daily Digest 19/10/20 Evros: New fence and new pushback investigation"
 author: Are You Syrious?
 date: 2020-10-20T17:35:50.585+0100
 last_modified_at: 2020-10-20T17:35:50.585+0100
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [greece,digest,refugees,uk,europe]
 description: Are You Syrious?
 image:
-  path: assets/22da04556f34/0*rsfDV3CxUkGCUfAX.jpeg
+  path: ../assets/22da04556f34/0*rsfDV3CxUkGCUfAX.jpeg
 ---
 
 ### AYS Daily Digest 19/10/20 Evros: New fence and new pushback investigation
 
 
-![](assets/22da04556f34/0*ZzY4dUScFky4TLoI.jpeg)
+![](../assets/22da04556f34/0*ZzY4dUScFky4TLoI.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----f2f6a7b8ac5c--------------------------------)
@@ -26,11 +26,11 @@ _800 people sleeping on dock in Spain // 5 people die while 6 finally rescued to
 AYS Special: A Voice from inside Penally Refugee Camp — “Putting us in this camp re\-traumatizes people\. It looks like a prison\.” — check out this important special on our Facebook page or Medium\!
 
 
-![](assets/22da04556f34/0*4KMxOO1F6oDbBXn9)
+![](../assets/22da04556f34/0*4KMxOO1F6oDbBXn9)
 
 
 
-![](assets/22da04556f34/0*rsfDV3CxUkGCUfAX.jpeg)
+![](../assets/22da04556f34/0*rsfDV3CxUkGCUfAX.jpeg)
 
 ### FEATURE: Greece full speed ahead with Evros fence, while Forensic Architecture publishes new investigation into pushbacks
 
@@ -68,11 +68,11 @@ In an update from The Syria Campaign:
 [Seebrücke](https://twitter.com/_Seebruecke_/status/1318256143781814274) reported on Monday that _“Eleven people who fled Algeria have been floating since October 9th on the Mediterranean and made several emergency calls, all of which were ignored by the government\. Just Alarm Phone answered the emergency calls and tried to put pressure on the authorities to finally launch a search and rescue mission\. Now six people have finally been rescued from the small boat and brought ashore in Italy, five starved or thirsted on the way because the rescue operation was delayed for so long\.”_ These 5 people did not have to die\! AYS stands in solidarity with the survivors\.
 
 
-![](assets/22da04556f34/0*Jc7qIWrSQtHT6zh_)
+![](../assets/22da04556f34/0*Jc7qIWrSQtHT6zh_)
 
 
 
-![](assets/22da04556f34/0*63gggjAXHHAaKglZ.jpeg)
+![](../assets/22da04556f34/0*63gggjAXHHAaKglZ.jpeg)
 
 ### GREECE
 
@@ -91,33 +91,33 @@ The German news agency DPA reported that the Montenegrin coastguard intercepted 
 ### ITALY
 
 
-![](assets/22da04556f34/0*7o4cAY4kIzBGvddh)
+![](../assets/22da04556f34/0*7o4cAY4kIzBGvddh)
 
 
 
-![](assets/22da04556f34/0*7V6B1FXWVavfDydu.jpeg)
+![](../assets/22da04556f34/0*7V6B1FXWVavfDydu.jpeg)
 
 
 Info Migrants is reporting that “ _A court in Italy’s northern town of Lecco on October 14 **fined the Economy Ministry for discriminatory practices in its increasing of fees paid by immigrants wanting to renew their stay permits\.** The immigrants are required to pay between 80 and 200 euros depending on the type of permit requested, whereas the previous payment covered only the official stamp \(€16\), the printing of the document \(€27\.50\), and postal costs \(€30\) \. The local and regional trade unions, CGIL Lecco and CGIL Lombardy, as well as the body assisting 35 foreigners in the case expressed satisfaction with the decision\._ ” More [here](https://www.infomigrants.net/en/post/27990/italian-court-rules-against-higher-immigrant-permit-fees?fbclid=IwAR3uKlZqnjp_ffdM9GmhD4zOmCUHdzCdYCkvR8LzkGqjQOn4XpimUwHqBwc) \.
 ### SPAIN
 
 
-![](assets/22da04556f34/0*O1aG11P99F8z-YW5)
+![](../assets/22da04556f34/0*O1aG11P99F8z-YW5)
 
 
 
-![](assets/22da04556f34/0*9BsWo-gmfq-61Ad0.jpeg)
+![](../assets/22da04556f34/0*9BsWo-gmfq-61Ad0.jpeg)
 
 ### “More than 800 migrants spend the night on the floor of the Arguineguín de Canarias dock”
 
 On Monday, El Diario reported that “ _The latest rescues bring to more than 800 migrants who have spent the night of this Monday in the camp installed in the Arguineguín pier, in the southwest of Gran Canaria, the highest figure reached since they settled more than a month ago before the lack of centers for their reception\. In the precarious camp, made up of several tents spread out in the same port, the rescued sleep on the ground waiting for their PCR test results and a place in another place to be housed\._ ” The government is apparently working to ensure they can be moved to adequate centres as soon as possible\. More [here](https://www.eldiario.es/canariasahora/365-dias-de-migraciones/muelle-arguineguin-alberga-800-personas-cifra-alta-habilitara-campamento_1_6303906.html) \.
 
 
-![](assets/22da04556f34/0*UaNVoOKZxkV5tpig)
+![](../assets/22da04556f34/0*UaNVoOKZxkV5tpig)
 
 
 
-![](assets/22da04556f34/0*RHLH9ew3-V2BMNT9.jpeg)
+![](../assets/22da04556f34/0*RHLH9ew3-V2BMNT9.jpeg)
 
 
 Publico just released a report on **“Labor exploitation of migrants in a Melilla car wash: twelve hours a day for 250 euros a month\.”** One of the employees said that the owner \(who has now been arrested\) “threatened not to pay us if we stopped to go to the bathroom\.” More [here](https://www.publico.es/actualidad/explotacion-laboral-migrantes-lavadero-coches-melilla-doce-horas-dia-250-euros-mes.html) \.
@@ -142,11 +142,11 @@ Orbán took advantage of this feeling of being threatened to win reelection on t
 ### FRANCE
 
 
-![](assets/22da04556f34/0*b09snNzTUXcwFO2_)
+![](../assets/22da04556f34/0*b09snNzTUXcwFO2_)
 
 
 
-![](assets/22da04556f34/0*SrEF3OxULkNG1ssl.jpeg)
+![](../assets/22da04556f34/0*SrEF3OxULkNG1ssl.jpeg)
 
 
 [Here is a video about Calais Food Collective’s](https://www.facebook.com/calaisfoodcollective/videos/3156323844464971/) evening town centre distributions, taken by Utopia 56 Calais\. Please consider supporting Calais Food Collective’s important work\!
@@ -161,20 +161,20 @@ Orbán took advantage of this feeling of being threatened to win reelection on t
 [On Sunday](https://www.infomigrants.net/en/post/27991/body-found-on-french-beach-thought-to-be-migrant-hoping-to-make-it-to-uk?fbclid=IwAR0-k9Zfe92r-hoGsZ9pygph2hWAjhytc_FzypzJUA_cdPV8PA38Kv18Aqc) the police found a body on the beach at Sangatte who they presume was someone trying to reach the UK\. The man had a life jacket but no documents on him, so they have not been able to identify him yet\. A full autopsy will be carried out this week, but for now they suspect he was on one of the many boats the crossed the channel over the weekend\.
 
 
-![](assets/22da04556f34/0*2-LNGd2cUB7EAwJu)
+![](../assets/22da04556f34/0*2-LNGd2cUB7EAwJu)
 
 
 
-![](assets/22da04556f34/0*HGuUAvy3wF9u-LnT.jpeg)
+![](../assets/22da04556f34/0*HGuUAvy3wF9u-LnT.jpeg)
 
 ### UK
 
 
-![](assets/22da04556f34/0*20GW6bIkmzDIou3Z)
+![](../assets/22da04556f34/0*20GW6bIkmzDIou3Z)
 
 
 
-![](assets/22da04556f34/0*TGcmFabcHrjvTM-o.jpeg)
+![](../assets/22da04556f34/0*TGcmFabcHrjvTM-o.jpeg)
 
 ### A government watchdog warns that unaccompanied children are being held for days without access to showers or beds
 

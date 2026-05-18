@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 03/10/2018: VICTORY FOR DUBS AMENDMENT IN UK COURT OF APPEALS
+title: "AYS DAILY DIGEST 03/10/2018: VICTORY FOR DUBS AMENDMENT IN UK COURT OF APPEALS"
 author: Are You Syrious?
 date: 2018-10-04T07:21:09.215+0100
 last_modified_at: 2018-10-04T21:23:13.395+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,uk,europe,borders]
 description: Death in Morocco // More humiliation from Greek Border Police at Evros // Remembering the 366 who lost their lives off Lampedusa in 2013…
 image:
-  path: assets/2bcc3a37ab/1*nb7teGnHHLGDcg-I8asKlQ.jpeg
+  path: ../assets/2bcc3a37ab/1*nb7teGnHHLGDcg-I8asKlQ.jpeg
 ---
 
 ### AYS DAILY DIGEST 03/10/2018: Victory for Dubs amendment in UK court of appeals
@@ -15,7 +15,7 @@ image:
 _Death in Morocco // More humiliation from Greek Border Police at Evros // Remembering the 366 who lost their lives off Lampedusa in 2013 // Long lines with little result in Moria // Evictions continue in Via di Scorticabove // In Bosnia, no shelter from the storm // 366 deportations from Germany to Afghanistan this year_
 
 
-![Children running in Moria Camp on Lesvos\. Source: [RSA](https://twitter.com/rspaegean/status/1046815898328338435) \.](assets/2bcc3a37ab/1*nb7teGnHHLGDcg-I8asKlQ.jpeg)
+![Children running in Moria Camp on Lesvos\. Source: [RSA](https://twitter.com/rspaegean/status/1046815898328338435) \.](../assets/2bcc3a37ab/1*nb7teGnHHLGDcg-I8asKlQ.jpeg)
 
 Children running in Moria Camp on Lesvos\. Source: [RSA](https://twitter.com/rspaegean/status/1046815898328338435) \.
 ### Feature: From Court of Appeals, a victory for Dubs — but what now?
@@ -56,7 +56,7 @@ Stealing refugees’ clothes before violently pushing them back across the borde
 ### Sea
 
 
-![In Lampedusa, people marched in commemoration of the 2013 Lampedusa shipwrecks\. Source: [Comitato Tre Ottobre](https://www.facebook.com/comitato.ottobre/photos/pcb.1094341074055388/1094340944055401/?type=3&theater)](assets/2bcc3a37ab/1*-TRfoxBk4AThbgrPj3Va4Q.jpeg)
+![In Lampedusa, people marched in commemoration of the 2013 Lampedusa shipwrecks\. Source: [Comitato Tre Ottobre](https://www.facebook.com/comitato.ottobre/photos/pcb.1094341074055388/1094340944055401/?type=3&theater)](../assets/2bcc3a37ab/1*-TRfoxBk4AThbgrPj3Va4Q.jpeg)
 
 In Lampedusa, people marched in commemoration of the 2013 Lampedusa shipwrecks\. Source: [Comitato Tre Ottobre](https://www.facebook.com/comitato.ottobre/photos/pcb.1094341074055388/1094340944055401/?type=3&theater)
 
@@ -65,7 +65,7 @@ Today is the 5th anniversary of the shipwreck that cost 366 asylum seekers their
 In Lampedusa, demonstrators carried signs bearing portraits of each of the identified dead — a reminder that each of the 366 people who died that day had a name, a story, a family, and a reason for leaving their home\.
 
 
-![Source: Comitato Tre Ottobre](assets/2bcc3a37ab/1*0HGi2BpsWnlD1eN4ypDnzw.jpeg)
+![Source: Comitato Tre Ottobre](../assets/2bcc3a37ab/1*0HGi2BpsWnlD1eN4ypDnzw.jpeg)
 
 Source: Comitato Tre Ottobre
 
@@ -74,7 +74,7 @@ In memoriam of the shipwreck, a group of NGOs published an [open letter](https:/
 Sign SOS Mediterranée and MSF’s joint petition calling for Aquarius’s reinstatement onto the open sea [here](https://you.wemove.eu/campaigns/save-the-aquarius-and-rescue-at-sea) \. Nearly 130,000 people have already signed; add your voice\.
 
 
-![Remembering the 366 people who died off of Lampedusa 5 years ago today\. Photo credit: Isabella Serro for [Pilotes Volontaires\.](https://www.facebook.com/pilotesvolontaires/photos/a.196634897620529/283266072290744/?type=3&theater)](assets/2bcc3a37ab/1*7KEuMqFIPnOr2W2l5W_t9g.jpeg)
+![Remembering the 366 people who died off of Lampedusa 5 years ago today\. Photo credit: Isabella Serro for [Pilotes Volontaires\.](https://www.facebook.com/pilotesvolontaires/photos/a.196634897620529/283266072290744/?type=3&theater)](../assets/2bcc3a37ab/1*7KEuMqFIPnOr2W2l5W_t9g.jpeg)
 
 Remembering the 366 people who died off of Lampedusa 5 years ago today\. Photo credit: Isabella Serro for [Pilotes Volontaires\.](https://www.facebook.com/pilotesvolontaires/photos/a.196634897620529/283266072290744/?type=3&theater)
 ### Greece
@@ -84,7 +84,7 @@ Remembering the 366 people who died off of Lampedusa 5 years ago today\. Photo c
 [According](https://www.facebook.com/AegeanBoatReport/posts/454186235104486?hc_location=ufi) to the Aegean Boat Report, no fewer than eight boats with 318 passengers have arrived on the Greek islands in the past 24 hours\. Two landed on Lesvos and at least six landed on Samos\.
 
 
-![Volunteers picking up litter near the Samos harbor\. Source: [Samos Volunteers\.](https://www.facebook.com/samosvolunteers/photos/pcb.1090436804467812/1090433397801486/?type=3&theater)](assets/2bcc3a37ab/1*3evHdP2eTYVpwL02_eWZWQ.jpeg)
+![Volunteers picking up litter near the Samos harbor\. Source: [Samos Volunteers\.](https://www.facebook.com/samosvolunteers/photos/pcb.1090436804467812/1090433397801486/?type=3&theater)](../assets/2bcc3a37ab/1*3evHdP2eTYVpwL02_eWZWQ.jpeg)
 
 Volunteers picking up litter near the Samos harbor\. Source: [Samos Volunteers\.](https://www.facebook.com/samosvolunteers/photos/pcb.1090436804467812/1090433397801486/?type=3&theater)
 
@@ -153,7 +153,7 @@ Baobab Experience expresses solidarity with the mayor of Riace:
 
 
 
-![Stay Human\. Source: [Baobab Experience](https://www.facebook.com/BaobabExperience/photos/pcb.1859500427460034/1859496350793775/?type=3&theater)](assets/2bcc3a37ab/1*APNnTtqITRQPjbs9FopWSg.jpeg)
+![Stay Human\. Source: [Baobab Experience](https://www.facebook.com/BaobabExperience/photos/pcb.1859500427460034/1859496350793775/?type=3&theater)](../assets/2bcc3a37ab/1*APNnTtqITRQPjbs9FopWSg.jpeg)
 
 Stay Human\. Source: [Baobab Experience](https://www.facebook.com/BaobabExperience/photos/pcb.1859500427460034/1859496350793775/?type=3&theater)
 ### Bosnia
@@ -174,14 +174,14 @@ An EASO officer has posted optimistically about a new reception site for asylum 
 In the absence of official housing, asylum seekers in Bosnia are forced to create makeshift shelters like the ones pictured below in Velika Kladusa\. Strong winds flatten these tents nearly every day\.
 
 
-![Tents battered by the wind at Velika Kladusa\.](assets/2bcc3a37ab/1*wNGJ2ssZGMDWQEJ7OCQEdw.jpeg)
+![Tents battered by the wind at Velika Kladusa\.](../assets/2bcc3a37ab/1*wNGJ2ssZGMDWQEJ7OCQEdw.jpeg)
 
 Tents battered by the wind at Velika Kladusa\.
 
 If you can, help the folks at Velika Kladusa to continue feeding and sheltering people in the absence of the state — and the inefficiency of international organizations\. More [here](https://www.facebook.com/donate/536567570126136/) \.
 
 
-![Trying to fix the makeshift shelters at Velika Kladusa during a moment of sunny weather\.](assets/2bcc3a37ab/1*S7NGoufjwBIXUa63tO4JIA.jpeg)
+![Trying to fix the makeshift shelters at Velika Kladusa during a moment of sunny weather\.](../assets/2bcc3a37ab/1*S7NGoufjwBIXUa63tO4JIA.jpeg)
 
 Trying to fix the makeshift shelters at Velika Kladusa during a moment of sunny weather\.
 ### Poland
@@ -208,7 +208,7 @@ The Refugee Community Kitchen continues to produce thousands of meals daily\. Co
 **Paris:**
 
 
-![“Paris 2018\. Closest thing to a shower for dozens of people sleeping rough, including women and minors\.” Source: [Faces before Numbers](https://www.facebook.com/FacesBeforeNumbers/photos/a.370049416799720/532098593928134/?type=3&theater&ifg=1)](assets/2bcc3a37ab/1*a_N3Kb14VrNA43UJ2zCfDg.jpeg)
+![“Paris 2018\. Closest thing to a shower for dozens of people sleeping rough, including women and minors\.” Source: [Faces before Numbers](https://www.facebook.com/FacesBeforeNumbers/photos/a.370049416799720/532098593928134/?type=3&theater&ifg=1)](../assets/2bcc3a37ab/1*a_N3Kb14VrNA43UJ2zCfDg.jpeg)
 
 “Paris 2018\. Closest thing to a shower for dozens of people sleeping rough, including women and minors\.” Source: [Faces before Numbers](https://www.facebook.com/FacesBeforeNumbers/photos/a.370049416799720/532098593928134/?type=3&theater&ifg=1)
 ### Germany

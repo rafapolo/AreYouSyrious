@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,sea,france]
 description: 325 people arrived in Greece between Tuesday and Wednesday / Iuventa still impounded / Italian photojournalist remains innocent and locked…
 image:
-  path: assets/2cdad83cb84d/1*-Og9j-Y28NBHgJTTntSY9w.jpeg
+  path: ../assets/2cdad83cb84d/1*-Og9j-Y28NBHgJTTntSY9w.jpeg
 ---
 
 ### AYS Daily Digest 28/03/18 / IOM and UNODC will co\-operate to “counter migrant smuggling”
@@ -20,7 +20,7 @@ image:
 
 
 
-![Let’s do as the girl above\. Safe paths now\. Image: [**Hani abbas cartoo**](https://www.facebook.com/Hani-abbas-cartoon-387757854589751/?hc_ref=ARQQVRkBnVCrun7-lWUc-uD2qkWssDc7J9ldJUbHxWTCq8W-d0DM2AkpyVF-KZ5Ow6I&fref=nf)](assets/2cdad83cb84d/1*-Og9j-Y28NBHgJTTntSY9w.jpeg)
+![Let’s do as the girl above\. Safe paths now\. Image: [**Hani abbas cartoo**](https://www.facebook.com/Hani-abbas-cartoon-387757854589751/?hc_ref=ARQQVRkBnVCrun7-lWUc-uD2qkWssDc7J9ldJUbHxWTCq8W-d0DM2AkpyVF-KZ5Ow6I&fref=nf)](../assets/2cdad83cb84d/1*-Og9j-Y28NBHgJTTntSY9w.jpeg)
 
 Let’s do as the girl above\. Safe paths now\. Image: [**Hani abbas cartoo**](https://www.facebook.com/Hani-abbas-cartoon-387757854589751/?hc_ref=ARQQVRkBnVCrun7-lWUc-uD2qkWssDc7J9ldJUbHxWTCq8W-d0DM2AkpyVF-KZ5Ow6I&fref=nf)
 #### Feature
@@ -55,7 +55,7 @@ Despite that we’re looking forward to reading _the Global Study on the Smuggli
 Skipper and machinist wanted at [**Sea\-Eye**](https://www.facebook.com/seaeyeorg/?hc_ref=ARSXeBb1w5UH6CXq-mRNkIBWJlElZ6KUFfUOuAeZf4V9wkBgyPCXmT0XflOtcHwR89o&fref=nf) and **Seafuchs\.** [Get in touch with them here if you are available and have the skills\.](https://www.facebook.com/seaeyeorg/posts/1376241022481791?hc_location=ufi) [Here is](https://sea-eye.org/werde-mitglied-unserer-crew-auf-see/) also their webpage in German\.
 
 
-![Photo: Sea\-Eye](assets/2cdad83cb84d/1*MZB3B99-sosdfq9uCPQKtQ.jpeg)
+![Photo: Sea\-Eye](../assets/2cdad83cb84d/1*MZB3B99-sosdfq9uCPQKtQ.jpeg)
 
 Photo: Sea\-Eye
 
@@ -90,19 +90,19 @@ Photo: Sea\-Eye
 [The night](https://www.facebook.com/pikpalesvos/photos/a.1650078085267616.1073741830.1650025878606170/2060070370935050/?type=3&theater) into Wednesday the 28th of March, 325 people arrived to Lesvos in eight different rubber boats\. [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/324929701363474) provided more details about the different boats\. In one boat, 32 children were among the rescued\. Several of the other boats also had children onboard\. _It is_ w _orth noting that there haven’t been this many arrivals in one day since 2016\._
 
 
-![Photo: [**Lesvos Solidarity — Pikpa**](https://www.facebook.com/pikpalesvos/?hc_ref=ARQMMwFT5Nlil2g4sSXwqLXWvMWtnl5gqMRnCIwiufTAIC4dTzQfldkDUsRENhIc2bU&fref=nf)](assets/2cdad83cb84d/1*s5aS3R13uhm4gr-Qe4aK5g.jpeg)
+![Photo: [**Lesvos Solidarity — Pikpa**](https://www.facebook.com/pikpalesvos/?hc_ref=ARQMMwFT5Nlil2g4sSXwqLXWvMWtnl5gqMRnCIwiufTAIC4dTzQfldkDUsRENhIc2bU&fref=nf)](../assets/2cdad83cb84d/1*s5aS3R13uhm4gr-Qe4aK5g.jpeg)
 
 Photo: [**Lesvos Solidarity — Pikpa**](https://www.facebook.com/pikpalesvos/?hc_ref=ARQMMwFT5Nlil2g4sSXwqLXWvMWtnl5gqMRnCIwiufTAIC4dTzQfldkDUsRENhIc2bU&fref=nf)
 
 
-![When [**1976km**](https://www.facebook.com/1976km/?hc_ref=ARRvjsc36PZ7gKjJTJ177TxQ5ngEmZptIc-8Ry1fOZE9KVYZ20sxh72B9NKDWxNia7g&fref=nf) \(two photographers covering the refugee situation\) was at Lesvos, they wondered where the 6 billion euro from the EU\-Turkey deal is going\. The photo on the photo shows a video from a refugees crossing\. They were told many dreadful stories about the living conditions in Turkey\. Photo: [**1976km**](https://www.facebook.com/1976km/?hc_ref=ARRvjsc36PZ7gKjJTJ177TxQ5ngEmZptIc-8Ry1fOZE9KVYZ20sxh72B9NKDWxNia7g&fref=nf)](assets/2cdad83cb84d/1*G2_7pp00VGEFSlEmtPiZog.jpeg)
+![When [**1976km**](https://www.facebook.com/1976km/?hc_ref=ARRvjsc36PZ7gKjJTJ177TxQ5ngEmZptIc-8Ry1fOZE9KVYZ20sxh72B9NKDWxNia7g&fref=nf) \(two photographers covering the refugee situation\) was at Lesvos, they wondered where the 6 billion euro from the EU\-Turkey deal is going\. The photo on the photo shows a video from a refugees crossing\. They were told many dreadful stories about the living conditions in Turkey\. Photo: [**1976km**](https://www.facebook.com/1976km/?hc_ref=ARRvjsc36PZ7gKjJTJ177TxQ5ngEmZptIc-8Ry1fOZE9KVYZ20sxh72B9NKDWxNia7g&fref=nf)](../assets/2cdad83cb84d/1*G2_7pp00VGEFSlEmtPiZog.jpeg)
 
 When [**1976km**](https://www.facebook.com/1976km/?hc_ref=ARRvjsc36PZ7gKjJTJ177TxQ5ngEmZptIc-8Ry1fOZE9KVYZ20sxh72B9NKDWxNia7g&fref=nf) \(two photographers covering the refugee situation\) was at Lesvos, they wondered where the 6 billion euro from the EU\-Turkey deal is going\. The photo on the photo shows a video from a refugees crossing\. They were told many dreadful stories about the living conditions in Turkey\. Photo: [**1976km**](https://www.facebook.com/1976km/?hc_ref=ARRvjsc36PZ7gKjJTJ177TxQ5ngEmZptIc-8Ry1fOZE9KVYZ20sxh72B9NKDWxNia7g&fref=nf)
 
 The authorities on Levsos were on high alert after the spike in arrivals, [Ekathimerini reports\.](http://www.ekathimerini.com/.../lesvos-authorities-on...)
 
 
-![Photo: [**ERCI — Emergency Response Centre International**](https://www.facebook.com/ercintl/?hc_ref=ARSlQYv4iidipSubrMhiMIiRsakywrW6qZjv8VChreKFBqH3qqhZB5L6k-u5my_sVKw&fref=nf)](assets/2cdad83cb84d/1*af_K4CBk_nSv7JIrf0HA1Q.jpeg)
+![Photo: [**ERCI — Emergency Response Centre International**](https://www.facebook.com/ercintl/?hc_ref=ARSlQYv4iidipSubrMhiMIiRsakywrW6qZjv8VChreKFBqH3qqhZB5L6k-u5my_sVKw&fref=nf)](../assets/2cdad83cb84d/1*af_K4CBk_nSv7JIrf0HA1Q.jpeg)
 
 Photo: [**ERCI — Emergency Response Centre International**](https://www.facebook.com/ercintl/?hc_ref=ARSlQYv4iidipSubrMhiMIiRsakywrW6qZjv8VChreKFBqH3qqhZB5L6k-u5my_sVKw&fref=nf)
 
@@ -167,7 +167,7 @@ And why was it so many refugees who didn’t go to the first state\-run distribu
 [Follow this link to donate and for more information\.](http://www.utopia56.com/fr)
 
 
-![The Tours\-team, who helps to house and provide education\. Photo: [**Utopia 56**](https://www.facebook.com/asso.utopia56/?hc_ref=ARQjxeQ9b301aUa31vDgEiw92vbOOx_Ephm_KloOQkyNO7Tjb2a4ba0sH4L5eYQG6Jk&fref=nf)](assets/2cdad83cb84d/1*Hl3ntlaAllKnOJamGjAr6g.jpeg)
+![The Tours\-team, who helps to house and provide education\. Photo: [**Utopia 56**](https://www.facebook.com/asso.utopia56/?hc_ref=ARQjxeQ9b301aUa31vDgEiw92vbOOx_Ephm_KloOQkyNO7Tjb2a4ba0sH4L5eYQG6Jk&fref=nf)](../assets/2cdad83cb84d/1*Hl3ntlaAllKnOJamGjAr6g.jpeg)
 
 The Tours\-team, who helps to house and provide education\. Photo: [**Utopia 56**](https://www.facebook.com/asso.utopia56/?hc_ref=ARQjxeQ9b301aUa31vDgEiw92vbOOx_Ephm_KloOQkyNO7Tjb2a4ba0sH4L5eYQG6Jk&fref=nf)
 #### Sweden
@@ -198,7 +198,7 @@ Today in the Swedish parliament there was the first vote regarding the suggested
 This fall it will be general elections\. Hopefully, the human side will be able to declare themselves winners\. It’s a small country, but due to a big influx of refugees — a lot of people’s wellbeing depends on the outcome of the elections in September\.
 
 
-![The voting is explained, party by party \(ja = yes, nej = no, avstående = resigned\) \. Photo: Christina Höj Larsen](assets/2cdad83cb84d/1*qtwI6VZcIx7JmrBJEjH3jQ.jpeg)
+![The voting is explained, party by party \(ja = yes, nej = no, avstående = resigned\) \. Photo: Christina Höj Larsen](../assets/2cdad83cb84d/1*qtwI6VZcIx7JmrBJEjH3jQ.jpeg)
 
 The voting is explained, party by party \(ja = yes, nej = no, avstående = resigned\) \. Photo: Christina Höj Larsen
 

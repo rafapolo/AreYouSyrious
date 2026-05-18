@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,covid-19,germany,malta]
 description: Demands for trafficking and murders in Libya // new laws harm NGOs in Greece // new housing in Germany for refugees // and more…
 image:
-  path: assets/7c3ba81b2ca9/1*s_wZh72xx_tTEmL5JHHT4g.jpeg
+  path: ../assets/7c3ba81b2ca9/1*s_wZh72xx_tTEmL5JHHT4g.jpeg
 ---
 
 ### AYS Daily Digest 3/6/20 ~400 people are stranded in ships off the coast of Malta
 #### Demands for trafficking and murders in Libya // New laws harm NGOs in Greece // New housing in Germany for refugees // and more…
 
 
-![People stuck on a tourist ship, waiting for answers from sea\. Photo by [Jonathan Borg](https://timesofmalta.com/articles/view/young-men-sit-and-wait-aboard-maltas-offshore-detention-centres.796023?fbclid=IwAR2gBadpq_31eJTZ_yo6iiemzJymEYRgfajCrL3hPS3TIzi5gItefpDVUFI)](assets/7c3ba81b2ca9/1*s_wZh72xx_tTEmL5JHHT4g.jpeg)
+![People stuck on a tourist ship, waiting for answers from sea\. Photo by [Jonathan Borg](https://timesofmalta.com/articles/view/young-men-sit-and-wait-aboard-maltas-offshore-detention-centres.796023?fbclid=IwAR2gBadpq_31eJTZ_yo6iiemzJymEYRgfajCrL3hPS3TIzi5gItefpDVUFI)](../assets/7c3ba81b2ca9/1*s_wZh72xx_tTEmL5JHHT4g.jpeg)
 
 People stuck on a tourist ship, waiting for answers from sea\. Photo by [Jonathan Borg](https://timesofmalta.com/articles/view/young-men-sit-and-wait-aboard-maltas-offshore-detention-centres.796023?fbclid=IwAR2gBadpq_31eJTZ_yo6iiemzJymEYRgfajCrL3hPS3TIzi5gItefpDVUFI)
 ### FEATURE Over 400 people are stranded off the coast of Malta on cruise ships
@@ -45,7 +45,7 @@ Well it might sound luxurious, the reality is far from that\. [Malta Today](http
 [France](https://www.aljazeera.com/news/2020/06/400-rescued-migrants-stranded-malta-coast-200603161615932.html?fbclid=IwAR0a87bwovno9Nl0gGhp3XPJACQNnctBS2Nvj9V--nsvJg5WtMxHvq0M2hg) has already stepped up some and said that they will take in some of the people stranded\. But for now, with Malta’s ports still closed because of the pandemic, people are just having to wait\. More [here](https://www.maltatoday.com.mt/comment/blogs/102694/illegal_floating_prisons__carla_camilleri?fbclid=IwAR2TuuRlN7VhHXecY6nGDd9HsPXkk4nF6tQ8g-pk-5xaZ8w8d5lzQWG-UoI#.XtgjhDpKg2w) \.
 
 
-![Photo by [RENE ROSSIGNAUD](https://www.hickoryrecord.com/news/world/rescue-migrants-stranded-on-chartered-maltese-pleasure-boats/article_6ce9fca6-bcfe-513e-804f-cc2973c85d1a.html)](assets/7c3ba81b2ca9/1*3faTBttEPR-ca9qNrpLfVQ.jpeg)
+![Photo by [RENE ROSSIGNAUD](https://www.hickoryrecord.com/news/world/rescue-migrants-stranded-on-chartered-maltese-pleasure-boats/article_6ce9fca6-bcfe-513e-804f-cc2973c85d1a.html)](../assets/7c3ba81b2ca9/1*3faTBttEPR-ca9qNrpLfVQ.jpeg)
 
 Photo by [RENE ROSSIGNAUD](https://www.hickoryrecord.com/news/world/rescue-migrants-stranded-on-chartered-maltese-pleasure-boats/article_6ce9fca6-bcfe-513e-804f-cc2973c85d1a.html)
 #### LIBYA
@@ -102,7 +102,7 @@ And what is the response to the push backs, Frontex Chief Leggeri? \(below\)
 
 
 ![“The Greek Migration and Asylum Minister, Notis Mitarakis, announced that [\#Greece](https://twitter.com/hashtag/Greece?src=hashtag_click) would close 60 facilities for [\#refugees](https://twitter.com/hashtag/refugeesgr?src=hashtag_click) by the end of this year and to “secure“ existing camps by a controlled exit and entry systems and double fencing\. Picture taken today at [\#Moriacamp](https://twitter.com/hashtag/Moriacamp?src=hashtag_click) on [\#Lesbos](https://twitter.com/hashtag/Lesbos?src=hashtag_click) \.” Info and photo by 
-[Franziska Grillmeier](https://twitter.com/f_grillmeier/status/1268135147121057792)](assets/7c3ba81b2ca9/1*p0X3-OUICDn_vJqkfWU3BQ.jpeg)
+[Franziska Grillmeier](https://twitter.com/f_grillmeier/status/1268135147121057792)](../assets/7c3ba81b2ca9/1*p0X3-OUICDn_vJqkfWU3BQ.jpeg)
 
 “The Greek Migration and Asylum Minister, Notis Mitarakis, announced that [\#Greece](https://twitter.com/hashtag/Greece?src=hashtag_click) would close 60 facilities for [\#refugees](https://twitter.com/hashtag/refugeesgr?src=hashtag_click) by the end of this year and to “secure“ existing camps by a controlled exit and entry systems and double fencing\. Picture taken today at [\#Moriacamp](https://twitter.com/hashtag/Moriacamp?src=hashtag_click) on [\#Lesbos](https://twitter.com/hashtag/Lesbos?src=hashtag_click) \.” Info and photo by 
 [Franziska Grillmeier](https://twitter.com/f_grillmeier/status/1268135147121057792)
@@ -137,7 +137,7 @@ Is this true? Data shows exactly the opposite trend... https://t.co/aCjEyDskRS
 
 
 
-![“Detention of children and families for purely migration\-related reasons is prohibited under various articles of the Convention on the Rights of the Child, a principle also recognized in Greek law\. ❗Our newly released report on Leros and Kos hotspots finds that detention practices, both before and during [\#Covid\_19](https://www.facebook.com/hashtag/covid_19?__eep__=6&epa=HASHTAG) on these islands fail to adhere to these principles\. RRE calls for respect for the right of unaccompanied children to be placed in appropriate housing\.” Find the report here\. Photo of report by [Refugee Rights Europe](https://www.facebook.com/RefugeeRightsEurope/photos/a.1502441746729332/2311337429173089/?type=1&theater)](assets/7c3ba81b2ca9/1*yCrSGecQjv9nrWyCHcJQxQ.jpeg)
+![“Detention of children and families for purely migration\-related reasons is prohibited under various articles of the Convention on the Rights of the Child, a principle also recognized in Greek law\. ❗Our newly released report on Leros and Kos hotspots finds that detention practices, both before and during [\#Covid\_19](https://www.facebook.com/hashtag/covid_19?__eep__=6&epa=HASHTAG) on these islands fail to adhere to these principles\. RRE calls for respect for the right of unaccompanied children to be placed in appropriate housing\.” Find the report here\. Photo of report by [Refugee Rights Europe](https://www.facebook.com/RefugeeRightsEurope/photos/a.1502441746729332/2311337429173089/?type=1&theater)](../assets/7c3ba81b2ca9/1*yCrSGecQjv9nrWyCHcJQxQ.jpeg)
 
 “Detention of children and families for purely migration\-related reasons is prohibited under various articles of the Convention on the Rights of the Child, a principle also recognized in Greek law\. ❗Our newly released report on Leros and Kos hotspots finds that detention practices, both before and during [\#Covid\_19](https://www.facebook.com/hashtag/covid_19?__eep__=6&epa=HASHTAG) on these islands fail to adhere to these principles\. RRE calls for respect for the right of unaccompanied children to be placed in appropriate housing\.” Find the report here\. Photo of report by [Refugee Rights Europe](https://www.facebook.com/RefugeeRightsEurope/photos/a.1502441746729332/2311337429173089/?type=1&theater)
 
@@ -146,13 +146,13 @@ Check out this interesting [documentary](https://www.facebook.com/AthensLiveGr/p
 Racism, alive and well, world wide:
 
 
-![“The Church of Greece donated defense material to the Ministry of the Nation for the construction of the fence in Evros as well as thermal cameras so that ‘not even Christ’ can pass through the refugees\.” Info and photo by [Stelios Nikitopoulos](https://twitter.com/stenikito/status/1268087603020148739)](assets/7c3ba81b2ca9/1*5iIPsC_PzsWQDI1ElRvZow.png)
+![“The Church of Greece donated defense material to the Ministry of the Nation for the construction of the fence in Evros as well as thermal cameras so that ‘not even Christ’ can pass through the refugees\.” Info and photo by [Stelios Nikitopoulos](https://twitter.com/stenikito/status/1268087603020148739)](../assets/7c3ba81b2ca9/1*5iIPsC_PzsWQDI1ElRvZow.png)
 
 “The Church of Greece donated defense material to the Ministry of the Nation for the construction of the fence in Evros as well as thermal cameras so that ‘not even Christ’ can pass through the refugees\.” Info and photo by [Stelios Nikitopoulos](https://twitter.com/stenikito/status/1268087603020148739)
 #### MALTA
 
 
-![People stuck on a tourist ship, waiting for answers from the sea\. Photo by [Jonathan Borg](https://timesofmalta.com/articles/view/young-men-sit-and-wait-aboard-maltas-offshore-detention-centres.796023?fbclid=IwAR2gBadpq_31eJTZ_yo6iiemzJymEYRgfajCrL3hPS3TIzi5gItefpDVUFI)](assets/7c3ba81b2ca9/1*s_wZh72xx_tTEmL5JHHT4g.jpeg)
+![People stuck on a tourist ship, waiting for answers from the sea\. Photo by [Jonathan Borg](https://timesofmalta.com/articles/view/young-men-sit-and-wait-aboard-maltas-offshore-detention-centres.796023?fbclid=IwAR2gBadpq_31eJTZ_yo6iiemzJymEYRgfajCrL3hPS3TIzi5gItefpDVUFI)](../assets/7c3ba81b2ca9/1*s_wZh72xx_tTEmL5JHHT4g.jpeg)
 
 People stuck on a tourist ship, waiting for answers from the sea\. Photo by [Jonathan Borg](https://timesofmalta.com/articles/view/young-men-sit-and-wait-aboard-maltas-offshore-detention-centres.796023?fbclid=IwAR2gBadpq_31eJTZ_yo6iiemzJymEYRgfajCrL3hPS3TIzi5gItefpDVUFI)
 ### Over 400 people are stranded off the coast of Malta on cruise ships
@@ -183,7 +183,7 @@ While it might sound luxurious, the reality is far from that\. [Malta Today](htt
 [France](https://www.aljazeera.com/news/2020/06/400-rescued-migrants-stranded-malta-coast-200603161615932.html?fbclid=IwAR0a87bwovno9Nl0gGhp3XPJACQNnctBS2Nvj9V--nsvJg5WtMxHvq0M2hg) has already stepped up and said that they will take in some of the people stranded\. But for now, with Malta’s ports still closed because of the pandemic, people are just having to wait\. More [here](https://www.maltatoday.com.mt/comment/blogs/102694/illegal_floating_prisons__carla_camilleri?fbclid=IwAR2TuuRlN7VhHXecY6nGDd9HsPXkk4nF6tQ8g-pk-5xaZ8w8d5lzQWG-UoI#.XtgjhDpKg2w) \.
 
 
-![People gathered outside the the Marsa migrant centre Tuesday morning protesting and demanding to “be free\.” Photo by [Mark Zammit Cordina](https://timesofmalta.com/articles/view/migrants-demand-freedom-at-marsa-centre-protest.795939?fbclid=IwAR35vWpF6UZm9P3mBKxVGUwFbYL-QMiUxqjyvJ9qbXGy3m6cIni1wGr6bSI)](assets/7c3ba81b2ca9/1*DSLPYtIBqowoPZrlIYObgQ.jpeg)
+![People gathered outside the the Marsa migrant centre Tuesday morning protesting and demanding to “be free\.” Photo by [Mark Zammit Cordina](https://timesofmalta.com/articles/view/migrants-demand-freedom-at-marsa-centre-protest.795939?fbclid=IwAR35vWpF6UZm9P3mBKxVGUwFbYL-QMiUxqjyvJ9qbXGy3m6cIni1wGr6bSI)](../assets/7c3ba81b2ca9/1*DSLPYtIBqowoPZrlIYObgQ.jpeg)
 
 People gathered outside the the Marsa migrant centre Tuesday morning protesting and demanding to “be free\.” Photo by [Mark Zammit Cordina](https://timesofmalta.com/articles/view/migrants-demand-freedom-at-marsa-centre-protest.795939?fbclid=IwAR35vWpF6UZm9P3mBKxVGUwFbYL-QMiUxqjyvJ9qbXGy3m6cIni1wGr6bSI)
 
@@ -210,11 +210,11 @@ On Wednesday morning two boats arrived on [Lampedusa](http://www.agrigentonotizi
 News from No Name Kitchen on the situation in Šid, two weeks after the President sent in the army:
 
 
-![](assets/7c3ba81b2ca9/1*LV5mhPKUXDEfrHS1EIr6vg.jpeg)
+![](../assets/7c3ba81b2ca9/1*LV5mhPKUXDEfrHS1EIr6vg.jpeg)
 
 
 
-![Screenshots by AYS found at [No Name Kitchen](https://twitter.com/NoNameKitchen1/status/1268141562225139713)](assets/7c3ba81b2ca9/1*uO_eJsCaBSRSMKo1HHVowA.jpeg)
+![Screenshots by AYS found at [No Name Kitchen](https://twitter.com/NoNameKitchen1/status/1268141562225139713)](../assets/7c3ba81b2ca9/1*uO_eJsCaBSRSMKo1HHVowA.jpeg)
 
 Screenshots by AYS found at [No Name Kitchen](https://twitter.com/NoNameKitchen1/status/1268141562225139713)
 

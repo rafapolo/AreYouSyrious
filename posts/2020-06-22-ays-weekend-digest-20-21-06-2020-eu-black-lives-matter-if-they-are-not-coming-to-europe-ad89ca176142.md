@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 20–21/06/2020 EU: Black Lives Matter, if they are not coming to Europe
+title: "AYS Weekend Digest 20–21/06/2020 EU: Black Lives Matter, if they are not coming to Europe"
 author: Are You Syrious?
 date: 2020-06-22T12:33:16.465+0100
 last_modified_at: 2020-06-22T14:33:39.313+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,world-refugee-day,sea-rescue,borders]
 description: Shipwreck off Libyan coast, 3 bodies recovered so far / Sea Watch and Mar Ionio disembark in Sicily / 240 people reach Spain /
 image:
-  path: assets/ad89ca176142/1*ZIrhx5ga07JXQR7RRk2ALg.jpeg
+  path: ../assets/ad89ca176142/1*ZIrhx5ga07JXQR7RRk2ALg.jpeg
 ---
 
 ### AYS Weekend Digest 20–21/06/2020 EU: Black Lives Matter, as long as they are not coming to Europe
@@ -15,7 +15,7 @@ image:
 Shipwreck off Libyan coast, three bodies recovered so far / Sea Watch and Mar Ionio disembarked in Sicily, but different standards / 240 people reached Spain…
 
 
-![Saturday 20 June was World Refugee Day\. At least three people have died in a shipwreck off the Libyan coast\. \( [Image by CEAR, Comisión Española de Ayuda al Refugiado, for the \#UErfanos campaign, 2015](http://uerfanos.org/) \)](assets/ad89ca176142/1*ZIrhx5ga07JXQR7RRk2ALg.jpeg)
+![Saturday 20 June was World Refugee Day\. At least three people have died in a shipwreck off the Libyan coast\. \( [Image by CEAR, Comisión Española de Ayuda al Refugiado, for the \#UErfanos campaign, 2015](http://uerfanos.org/) \)](../assets/ad89ca176142/1*ZIrhx5ga07JXQR7RRk2ALg.jpeg)
 
 Saturday 20 June was World Refugee Day\. At least three people have died in a shipwreck off the Libyan coast\. \( [Image by CEAR, Comisión Española de Ayuda al Refugiado, for the \#UErfanos campaign, 2015](http://uerfanos.org/) \)
 #### Feature 1: World Refugee day: at least three people died in a shipwreck
@@ -41,7 +41,7 @@ Evidently, Black lives matter only if they are not on their way to Europe\.
 Protests and solidarity campaigns have been organised throughout the continent\.
 
 
-[![Refugees Day 2020](assets/ad89ca176142/fbcb_hqdefault.jpg "Refugees Day 2020")](https://www.youtube.com/watch?v=3BcU1asffCI)
+[![Refugees Day 2020](../assets/ad89ca176142/fbcb_hqdefault.jpg "Refugees Day 2020")](https://www.youtube.com/watch?v=3BcU1asffCI)
 
 
 
@@ -58,11 +58,11 @@ Protests and solidarity campaigns have been organised throughout the continent\.
 
 
 
-![](assets/ad89ca176142/1*LDNfam1nMcon1HFOq2PErg.jpeg)
+![](../assets/ad89ca176142/1*LDNfam1nMcon1HFOq2PErg.jpeg)
 
 
 
-![ATHENS, GREECE: 2000 people [participated](https://web.facebook.com/NewsfromtheMed/posts/971616596625270?hc_location=ufi) in a protest against the Greek government’s migration policy\. Several thousand recognized asylum seekers are threatened with homelessness\. After their recognition, they are only allowed to stay in their accommodations for four weeks instead of six months\. \(Photo by [Marios Lolos](https://web.facebook.com/marios.lolos.1) \)](assets/ad89ca176142/1*8ZLld1GRFgpx3nDsNEP--w.jpeg)
+![ATHENS, GREECE: 2000 people [participated](https://web.facebook.com/NewsfromtheMed/posts/971616596625270?hc_location=ufi) in a protest against the Greek government’s migration policy\. Several thousand recognized asylum seekers are threatened with homelessness\. After their recognition, they are only allowed to stay in their accommodations for four weeks instead of six months\. \(Photo by [Marios Lolos](https://web.facebook.com/marios.lolos.1) \)](../assets/ad89ca176142/1*8ZLld1GRFgpx3nDsNEP--w.jpeg)
 
 ATHENS, GREECE: 2000 people [participated](https://web.facebook.com/NewsfromtheMed/posts/971616596625270?hc_location=ufi) in a protest against the Greek government’s migration policy\. Several thousand recognized asylum seekers are threatened with homelessness\. After their recognition, they are only allowed to stay in their accommodations for four weeks instead of six months\. \(Photo by [Marios Lolos](https://web.facebook.com/marios.lolos.1) \)
 
@@ -78,7 +78,7 @@ ATHENS, GREECE: 2000 people [participated](https://web.facebook.com/NewsfromtheM
 
 
 
-![GERMANY: Seebrucke activists have staged [protests](https://twitter.com/HAZ/status/1274435913511297026) in several cities, asking for the resumption of sea rescue and the closure of Greek refugee camps\. In Wuppertaal, Seebrucke [presented](https://www.wuppertaler-rundschau.de/lokales/seebruecke-plant-in-wuppertal-gedenkort-fuer-ertrunkene-fluechtlinge_aid-51770279) plans for a memorial monument for people who died in the Mediterranean\. \(Photo by [Nora Hofstetter](https://twitter.com/NoraHofstetter) \)](assets/ad89ca176142/1*P7tp8MQrPBi-7E8vUdbVTg.jpeg)
+![GERMANY: Seebrucke activists have staged [protests](https://twitter.com/HAZ/status/1274435913511297026) in several cities, asking for the resumption of sea rescue and the closure of Greek refugee camps\. In Wuppertaal, Seebrucke [presented](https://www.wuppertaler-rundschau.de/lokales/seebruecke-plant-in-wuppertal-gedenkort-fuer-ertrunkene-fluechtlinge_aid-51770279) plans for a memorial monument for people who died in the Mediterranean\. \(Photo by [Nora Hofstetter](https://twitter.com/NoraHofstetter) \)](../assets/ad89ca176142/1*P7tp8MQrPBi-7E8vUdbVTg.jpeg)
 
 GERMANY: Seebrucke activists have staged [protests](https://twitter.com/HAZ/status/1274435913511297026) in several cities, asking for the resumption of sea rescue and the closure of Greek refugee camps\. In Wuppertaal, Seebrucke [presented](https://www.wuppertaler-rundschau.de/lokales/seebruecke-plant-in-wuppertal-gedenkort-fuer-ertrunkene-fluechtlinge_aid-51770279) plans for a memorial monument for people who died in the Mediterranean\. \(Photo by [Nora Hofstetter](https://twitter.com/NoraHofstetter) \)
 
@@ -89,7 +89,7 @@ These demonstrations are the last step of a campaign to pressure the Dutch gover
 Only on 18 June, did “a Dutch justice ministry spokesperson say a memorandum of understanding signed with the Greek government included an agreement to shelter 48 children on the Greek mainland ‘as soon as possible, with a total capacity of 500 over three years’\.”
 
 
-![BRUSSELS, BELGIUM: This Sunday a boat protest took place on the Brussels Canal\. About 30 people boarded about 15 rafts and boats\. Climbers also deployed a banner under the Sainctelette bridge\. \(Photo via [Selena Carbonero](https://web.facebook.com/photo.php?fbid=10220598412443630&set=a.2828313780342&type=3&theater) \)](assets/ad89ca176142/1*hD9qhfGt2ZZEvgn3KS_tgQ.jpeg)
+![BRUSSELS, BELGIUM: This Sunday a boat protest took place on the Brussels Canal\. About 30 people boarded about 15 rafts and boats\. Climbers also deployed a banner under the Sainctelette bridge\. \(Photo via [Selena Carbonero](https://web.facebook.com/photo.php?fbid=10220598412443630&set=a.2828313780342&type=3&theater) \)](../assets/ad89ca176142/1*hD9qhfGt2ZZEvgn3KS_tgQ.jpeg)
 
 BRUSSELS, BELGIUM: This Sunday a boat protest took place on the Brussels Canal\. About 30 people boarded about 15 rafts and boats\. Climbers also deployed a banner under the Sainctelette bridge\. \(Photo via [Selena Carbonero](https://web.facebook.com/photo.php?fbid=10220598412443630&set=a.2828313780342&type=3&theater) \)
 
@@ -167,7 +167,7 @@ In the latest episode of the Turkish/Greek saga, the minister of shipping and is
 #### Restrictions extended for hotspots \(again\)
 
 
-![](assets/ad89ca176142/1*NtFzy6i4SLt6PeqhGnMF-Q.jpeg)
+![](../assets/ad89ca176142/1*NtFzy6i4SLt6PeqhGnMF-Q.jpeg)
 
 
 Europe Must Act [reports](https://web.facebook.com/europemustact/photos/a.104489524497084/150892339856802/?type=3&theater) that “the Greek Government has announced, once again, their decision to extend the restriction measures to limit freedom of movement for residents in the Reception and Identification Centers in the Aegean islands\. Restrictions have also been arbitrarily extended in some accommodation structures for refugees and asylum seekers in Ritsonas, Malakasa and Koutsocheros in Larissa\.”

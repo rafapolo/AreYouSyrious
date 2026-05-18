@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 13/08/2020: Malta’s authorities once again deliberately refuse rescue
+title: "AYS Daily Digest 13/08/2020: Malta’s authorities once again deliberately refuse rescue"
 author: Are You Syrious?
 date: 2020-08-15T03:25:27.943+0100
 last_modified_at: 2020-08-15T03:25:27.943+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: []
 description: Horrendous conditions for arbitrarily detained people in Saudi Arabia // COVID-19 reaches Vial Camp on Chios // Mare Liberum has a new ship…
 image:
-  path: assets/5ba60e0d176d/1*XUJKhkZLr4t9eNsHdn4n0g.jpeg
+  path: ../assets/5ba60e0d176d/1*XUJKhkZLr4t9eNsHdn4n0g.jpeg
 ---
 
 ### AYS Daily Digest 13/08/2020: Malta’s authorities once again deliberately refuse rescue
 #### Horrendous conditions for arbitrarily detained people in Saudi Arabia // COVID\-19 reaches Vial Camp on Chios // Mare Liberum has a new ship to monitor the South Aegean Sea // Donations needed in Bulgaria and France
 
 
-![Copyright: Sea Watch International](assets/5ba60e0d176d/1*XUJKhkZLr4t9eNsHdn4n0g.jpeg)
+![Copyright: Sea Watch International](../assets/5ba60e0d176d/1*XUJKhkZLr4t9eNsHdn4n0g.jpeg)
 
 Copyright: Sea Watch International
 ### FEATURE: Sea\-Watch’s airplane Moonbird observed AFM following a boat in distress for almost two days without rescuing its passengers
@@ -64,7 +64,7 @@ In Saudi Arabia, Ethiopian migrants are held under horrendous conditions\. HRW r
 For more information, see:
 
 
-[![Yemen: Houthis Kill, Expel Ethiopian Migrants](assets/5ba60e0d176d/25ff_hqdefault.jpg "Yemen: Houthis Kill, Expel Ethiopian Migrants")](https://www.youtube.com/watch?v=8tO1R-hHCCc)
+[![Yemen: Houthis Kill, Expel Ethiopian Migrants](../assets/5ba60e0d176d/25ff_hqdefault.jpg "Yemen: Houthis Kill, Expel Ethiopian Migrants")](https://www.youtube.com/watch?v=8tO1R-hHCCc)
 
 
 Trigger warning: The video contains graphic and disturbing images\!
@@ -180,7 +180,7 @@ Utopia 56 Rennes is looking for a place to host a mother with her son with disab
 The group is also in need for donations, especially of tents, clothes, backpacks, durable food items, hygiene products and dishes\.
 
 
-![Copyright: Utopia 56](assets/5ba60e0d176d/1*6KwqbvaY6B7Wirirv0Azlw.jpeg)
+![Copyright: Utopia 56](../assets/5ba60e0d176d/1*6KwqbvaY6B7Wirirv0Azlw.jpeg)
 
 Copyright: Utopia 56
 

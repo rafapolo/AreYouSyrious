@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 26/7/21: 75 people died crossing the Med, many more beaten, humiliated and pushed…
+title: "AYS Daily Digest 26/7/21: 75 people died crossing the Med, many more beaten, humiliated and pushed…"
 author: Are You Syrious?
 date: 2021-07-27T20:13:08.447+0100
 last_modified_at: 2021-07-27T20:13:08.447+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,greece,turkey,europe]
 description: Greek Asylum Service finally shares the “Opinion” on the basis of which Turkey was designated as a safe third country, proving the opposite…
 image:
-  path: assets/1f832524b5/0*n5GZ_FINSEME7PRR
+  path: ../assets/1f832524b5/0*n5GZ_FINSEME7PRR
 ---
 
 ### AYS Daily Digest 26/7/21: 75 people died crossing the Med, many more beaten, humiliated and pushed back
 ### Greek Asylum Service finally shares the “Opinion” on the basis of which Turkey was designated as a safe third country, proving the opposite / France asked Frontex to support French authorities in “stemming the increasing flow of irregular migrants trying to reach the UK” / Updated list of communities in Ireland looking to sponsor refugees / recommended reads and more
 
 
-![](assets/1f832524b5/0*EhJMeNdJPPOmf4zi.jpeg)
+![](../assets/1f832524b5/0*EhJMeNdJPPOmf4zi.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----f5bb3ff9e4e8--------------------------------)
@@ -22,7 +22,7 @@ image:
 [Jul 27](ays-daily-digest-26-7-21-75-people-died-crossing-the-med-many-more-beaten-humiliated-and-pushed-f5bb3ff9e4e8?source=post_page-----f5bb3ff9e4e8--------------------------------) · 7 min read
 
 
-![](assets/1f832524b5/0*BMsB43hIr1sypWd4)
+![](../assets/1f832524b5/0*BMsB43hIr1sypWd4)
 
 
 A wooden boat pulled back to Tunisia \(Photo: [Sea\-Watch International](https://twitter.com/seawatch_intl) \)
@@ -56,11 +56,11 @@ As the government’s pressure towards everyone who supports people on the move 
 ### Romanian pushbacks and humiliation at the borders continue
 
 
-![](assets/1f832524b5/0*eq6pEUkIuGwqmOmI)
+![](../assets/1f832524b5/0*eq6pEUkIuGwqmOmI)
 
 
 
-![](assets/1f832524b5/0*n5GZ_FINSEME7PRR)
+![](../assets/1f832524b5/0*n5GZ_FINSEME7PRR)
 
 
 The Romanian police is continuing violent pushbacks on a daily basis, our Serbian fellow reporters from Asylum Protection Centre have reported\. They have documented the injuries of many people, the most recent one being a Palestinian young man, Ahmad, who was heavily beaten up with police batons, while the rest of his group were made to strip down and were humiliated and pushed back to Serbia\.

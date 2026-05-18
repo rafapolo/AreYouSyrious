@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: About the girl
+title: "AYS SPECIAL: About the girl"
 author: Are You Syrious?
 date: 2019-03-14T11:13:49.953+0000
 last_modified_at: 2019-03-14T18:57:25.104+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [spanish,special,bosnia,iom,unhcr]
 description: In February 2019 a green-eyed girl of around 13 years old with a round face and a charming smile fronted an advertising campaign on IOM …
 image:
-  path: assets/d70428ee141d/1*Q1od3DTV0kNfARZV8m7CxA.jpeg
+  path: ../assets/d70428ee141d/1*Q1od3DTV0kNfARZV8m7CxA.jpeg
 ---
 
 ### AYS SPECIAL: **About the girl**
@@ -15,7 +15,7 @@ image:
 _In February 2019 a green\-eyed girl, around 13 years old with a round face and a charming smile, fronted an advertising campaign on [IOM \- UN Migration](https://medium.com/u/664cb26312d4) ’s social networks\. The girl attends school and the institution proudly showed how well she spoke Bosnian\. Her access to education is an achievement within the context of neglect currently existing in Bosnia in regards to refugee people\. **\(scroll down for Spanish\)**_
 
 
-![Entrance to Sedra, one of the IOM run centres in Bosnia\. Photo AYS\.](assets/d70428ee141d/1*Q1od3DTV0kNfARZV8m7CxA.jpeg)
+![Entrance to Sedra, one of the IOM run centres in Bosnia\. Photo AYS\.](../assets/d70428ee141d/1*Q1od3DTV0kNfARZV8m7CxA.jpeg)
 
 Entrance to Sedra, one of the IOM run centres in Bosnia\. Photo AYS\.
 
@@ -34,7 +34,7 @@ Actually, IOM is an organization which — even when it is the primary one respo
 In Serbia, the [UN Refugee Agency](https://medium.com/u/75f2bdd89854) — also a UN body — recognised and publicly condemned this violence against refugee people who tried to cross the border towards the European Union\. At least during an interview with one of UNHCR’s representatives in Belgrade, she mentioned this issue before I did\.
 
 
-![The same girl in camp Trnovi several months before the IOM moved her and her family to the Sedra center\. After the rain, the shelter she lived in with her family was lost and this is all they had in the morning\. Local people and volunteers were there to help\.](assets/d70428ee141d/1*GFuy3xCm0jMN59pFxOKP1A.jpeg)
+![The same girl in camp Trnovi several months before the IOM moved her and her family to the Sedra center\. After the rain, the shelter she lived in with her family was lost and this is all they had in the morning\. Local people and volunteers were there to help\.](../assets/d70428ee141d/1*GFuy3xCm0jMN59pFxOKP1A.jpeg)
 
 The same girl in camp Trnovi several months before the IOM moved her and her family to the Sedra center\. After the rain, the shelter she lived in with her family was lost and this is all they had in the morning\. Local people and volunteers were there to help\.
 

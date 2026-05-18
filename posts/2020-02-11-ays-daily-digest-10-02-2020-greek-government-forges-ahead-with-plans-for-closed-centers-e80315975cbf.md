@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,greece,refugees,migrants,lesvos]
 description: Christian Returnees Have No Support in Afghanistan///91 People Left to Drown Off the Coast of Libya///Storm Damages Tents in Italy///Home…
 image:
-  path: assets/e80315975cbf/0*l6wtjJNFHaYvRJ26
+  path: ../assets/e80315975cbf/0*l6wtjJNFHaYvRJ26
 ---
 
 ### AYS Daily Digest 10/02/2020 — Greek Government Forges Ahead With Plans For Closed Centers
 #### Christian Returnees Have No Support in Afghanistan/// 91 People Left to Drown Off the Coast of Libya/// Storm Damages Tents in Italy/// Home Office Deports People to Jamaica Despite Court Order///
 
 
-![Garbage piles up in Chios\. Photo credit: [Ethnos](https://www.ethnos.gr/ellada/87545_anthropoi-kai-pontikia-sti-hio-apokalyptiko-fotoreportaz-stin-ygeionomiki-bomba) Daily via [Keep Talking Greece](https://www.keeptalkinggreece.com/2020/02/10/chios-hot-spot-garbage-dramatic-situation/)](assets/e80315975cbf/0*l6wtjJNFHaYvRJ26)
+![Garbage piles up in Chios\. Photo credit: [Ethnos](https://www.ethnos.gr/ellada/87545_anthropoi-kai-pontikia-sti-hio-apokalyptiko-fotoreportaz-stin-ygeionomiki-bomba) Daily via [Keep Talking Greece](https://www.keeptalkinggreece.com/2020/02/10/chios-hot-spot-garbage-dramatic-situation/)](../assets/e80315975cbf/0*l6wtjJNFHaYvRJ26)
 
 Garbage piles up in Chios\. Photo credit: [Ethnos](https://www.ethnos.gr/ellada/87545_anthropoi-kai-pontikia-sti-hio-apokalyptiko-fotoreportaz-stin-ygeionomiki-bomba) Daily via [Keep Talking Greece](https://www.keeptalkinggreece.com/2020/02/10/chios-hot-spot-garbage-dramatic-situation/)
 ### Feature — Developments in Greek Government’s Plan to Criminalize People on the Move
@@ -63,7 +63,7 @@ Building closed centers is part of a larger plan to stop free movement and appli
 
 
 
-![Weekly [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/photos/a.285312485325196/767046070485166/?type=1&theater)](assets/e80315975cbf/0*0wI7B5GQ5b_Oj86s)
+![Weekly [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/photos/a.285312485325196/767046070485166/?type=1&theater)](../assets/e80315975cbf/0*0wI7B5GQ5b_Oj86s)
 
 Weekly [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/photos/a.285312485325196/767046070485166/?type=1&theater)
 

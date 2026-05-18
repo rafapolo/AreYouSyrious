@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 05/05/20 Photographic evidence & first hand testimony: Greece pushbacks under…
+title: "AYS Daily Digest 05/05/20 Photographic evidence & first hand testimony: Greece pushbacks under…"
 author: Are You Syrious?
 date: 2020-05-06T11:13:36.505+0100
 last_modified_at: 2020-05-06T11:13:36.505+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [greece,germany,refugees,europe,newsletter]
 description: Libyan detention fear during COVID-19 // looming fate of camp in Tunisia // hunger in UK during COVID-19 // privacy concerns in Germany //…
 image:
-  path: assets/d5db88f4d67a/0*XH9CTBmSr9YqrJ5d.jpeg
+  path: ../assets/d5db88f4d67a/0*XH9CTBmSr9YqrJ5d.jpeg
 ---
 
 ### AYS Daily Digest 05/05/20 Photographic evidence & first hand testimony: Greece pushbacks under COVID\-19
@@ -15,11 +15,11 @@ image:
 _Libyan detention fear during COVID\-19 // looming fate of camp in Tunisia // hunger in UK during COVID\-19 // privacy concerns in Germany // and more…_
 
 
-![](assets/d5db88f4d67a/0*W7qm4xYGp1eHSw47)
+![](../assets/d5db88f4d67a/0*W7qm4xYGp1eHSw47)
 
 
 
-![](assets/d5db88f4d67a/0*XH9CTBmSr9YqrJ5d.jpeg)
+![](../assets/d5db88f4d67a/0*XH9CTBmSr9YqrJ5d.jpeg)
 
 ### FEATURE: Releasing first hand testimony and photographic evidence indicating the existence of violent collective expulsions
 
@@ -41,11 +41,11 @@ Border Violence Monitoring Network, Wave\-Thessaloniki and Mobile Info Team have
 The collected evidence comes from cases on 31st March 2020, 16th April 2020, 17th April 2020, 23rd April 2020, and two separate cases on 28th April 2020\. Many of the cases involved people being pushed into vans from Diavata camp and driven to the Turkish border to be expelled\.
 
 
-![](assets/d5db88f4d67a/0*SkGRqTFRHa8bIWBJ)
+![](../assets/d5db88f4d67a/0*SkGRqTFRHa8bIWBJ)
 
 
 
-![](assets/d5db88f4d67a/0*-nn4dFoD7wv378TO.jpeg)
+![](../assets/d5db88f4d67a/0*-nn4dFoD7wv378TO.jpeg)
 
 
 There are still more reports of recent mysterious pushbacks not yet accounted for\. [On April 30th](https://www.efsyn.gr/ellada/koinonia/241802_hios-mystirio-me-tin-tyhi-prosfygon-poy-eftasan-stin-paralia-tis-monolias) , dozens of people saw a small inflatable boat of about [10 to 15 people](https://twitter.com/teammareliberum/status/1257622881808396289?fbclid=IwAR26FAr0NKRZqPnOvGu8tsdHDEMKYEWit51Cuj3TMtU0FPgjBpBBuVxWkVw) reach the shore of Chios, when the Greek Navy appeared on site to tow them “away\.” Chios MP Andreas Michailidis spoke about the incident:
@@ -74,11 +74,11 @@ The situation in the detention centers is at crisis point, particularly because 
 ### TUNISIA
 
 
-![](assets/d5db88f4d67a/0*qOLhPbb9ENnz89kQ)
+![](../assets/d5db88f4d67a/0*qOLhPbb9ENnz89kQ)
 
 
 
-![](assets/d5db88f4d67a/0*qL03KyInLbHUj9PW.jpeg)
+![](../assets/d5db88f4d67a/0*qL03KyInLbHUj9PW.jpeg)
 
 
 Mourad Teyeb, a journalist and consultant based in Tunis, wrote an eye\-opening article with a grave warning about the constructing of the UN\-run refugee camp in an area near Remada, in Bir Fatnassia village\.
@@ -93,11 +93,11 @@ AlarmPhone has seen an increase in racist attacks against their organization dur
 ### Residents in northern Greece protest arrival of 300 vulnerable asylum seekers to hotel, transfer oversaw by IOM
 
 
-![](assets/d5db88f4d67a/0*JXKu2I0URNpBBkO5)
+![](../assets/d5db88f4d67a/0*JXKu2I0URNpBBkO5)
 
 
 
-![](assets/d5db88f4d67a/0*QLR41fVQAbPuv2GJ.jpeg)
+![](../assets/d5db88f4d67a/0*QLR41fVQAbPuv2GJ.jpeg)
 
 
 After Tuesday’s Press conference with the General Police Director of the North Aegean, journalist [Franziska Grillmeier](https://twitter.com/f_grillmeier/status/1257611808745062401) laid out some excellent points behind the disturbing fact that **most of the fines for COVID\-19 restrictions were given to refugees** :
@@ -144,11 +144,11 @@ Food scarcity for refugees and asylum seekers is a huge issue during the COVID\-
 Some aslyum seekers are suing the Home Office to provide more aid per week and to “fill the support gap” to account for the change in conditions\. Many people are skipping meals in order to feed their children\. Learn more [here](https://www.independent.co.uk/news/uk/home-news/coronavirus-job-losses-laid-off-domestic-workers-carers-homeless-visa-a9498581.html) \.
 
 
-![](assets/d5db88f4d67a/0*5wFf-KVaKbDdIuZT)
+![](../assets/d5db88f4d67a/0*5wFf-KVaKbDdIuZT)
 
 
 
-![](assets/d5db88f4d67a/0*VJvq8uWojBVTXypW.png)
+![](../assets/d5db88f4d67a/0*VJvq8uWojBVTXypW.png)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

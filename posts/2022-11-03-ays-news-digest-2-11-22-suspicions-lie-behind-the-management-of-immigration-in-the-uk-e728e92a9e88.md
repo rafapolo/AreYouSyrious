@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 2/11/22: Suspicions lie behind the management of immigration in the UK
+title: "AYS News Digest 2/11/22: Suspicions lie behind the management of immigration in the UK"
 author: Are You Syrious?
 date: 2022-11-03T14:56:14.877+0000
 last_modified_at: 2022-11-03T23:32:09.975+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: []
 description: UK asylum seekers live in poor conditions in Manston while Home Secretary called for ‘invasion’// A dozen people missing on the Aegean//…
 image:
-  path: assets/e728e92a9e88/1*2z2OipoCt8xj7xqQVnEefw.jpeg
+  path: ../assets/e728e92a9e88/1*2z2OipoCt8xj7xqQVnEefw.jpeg
 ---
 
 ### AYS News Digest 2/11/22: Suspicions lie behind the management of immigration in the UK
@@ -15,7 +15,7 @@ image:
 UK asylum seekers live in poor conditions in Manston while Home Secretary called for ‘invasion’// A dozen people missing on the Aegean// Belgrade — crucial but hostile layover on the Balkan route//Minors living under bridge for months in Paris// €100 million to countries hosting \(Ukrainian\) refugees// and more
 
 
-![Overcrowded Manston immigration reception camp in Kent \. Credit: [Soas Detainee Support](https://twitter.com/sdetsup/status/1587064170759049216)](assets/e728e92a9e88/1*2z2OipoCt8xj7xqQVnEefw.jpeg)
+![Overcrowded Manston immigration reception camp in Kent \. Credit: [Soas Detainee Support](https://twitter.com/sdetsup/status/1587064170759049216)](../assets/e728e92a9e88/1*2z2OipoCt8xj7xqQVnEefw.jpeg)
 
 Overcrowded Manston immigration reception camp in Kent \. Credit: [Soas Detainee Support](https://twitter.com/sdetsup/status/1587064170759049216)
 #### FEATURE
@@ -122,7 +122,7 @@ Read the entire story [here](http://www.infomigrants.net/en/post/44311/police-co
 ### Around 200 minors continue to live in poor conditions under a bridge in Paris
 
 
-![Makeshift tent camp in Paris where many minors are living in poor conditions\. Credit: [Le Blondy Blog](https://www.bondyblog.fr/societe/carnet-de-route/3-carnet-de-route-sur-le-campement-de-la-liberte-lespoir-ne-fait-vivre-personne/?fbclid=IwAR0M8LNqtshh8um5hIr2d999t6bPZG4zuQ0faI6CuUPu99w1-55hwM0l7J0)](assets/e728e92a9e88/0*bn1bYU1MLHiJU2Zb)
+![Makeshift tent camp in Paris where many minors are living in poor conditions\. Credit: [Le Blondy Blog](https://www.bondyblog.fr/societe/carnet-de-route/3-carnet-de-route-sur-le-campement-de-la-liberte-lespoir-ne-fait-vivre-personne/?fbclid=IwAR0M8LNqtshh8um5hIr2d999t6bPZG4zuQ0faI6CuUPu99w1-55hwM0l7J0)](../assets/e728e92a9e88/0*bn1bYU1MLHiJU2Zb)
 
 Makeshift tent camp in Paris where many minors are living in poor conditions\. Credit: [Le Blondy Blog](https://www.bondyblog.fr/societe/carnet-de-route/3-carnet-de-route-sur-le-campement-de-la-liberte-lespoir-ne-fait-vivre-personne/?fbclid=IwAR0M8LNqtshh8um5hIr2d999t6bPZG4zuQ0faI6CuUPu99w1-55hwM0l7J0)
 

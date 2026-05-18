@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 10/8: On average, 58 unaccompanied minors arrive to Italy every day
+title: "AYS DAILY DIGEST 10/8: On average, 58 unaccompanied minors arrive to Italy every day"
 author: Are You Syrious?
 date: 2016-08-10T21:56:07.900+0100
 last_modified_at: 2016-08-11T09:00:06.567+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,aleppo,italy,lake-como]
 description: While everybody expresses concern over the situation in Syria, little is done to stop the war. Even less is done to stop the other wars…
 image:
-  path: assets/e5315cc66279/1*UJKq68H7XDKlFbaGy7hkhg.jpeg
+  path: ../assets/e5315cc66279/1*UJKq68H7XDKlFbaGy7hkhg.jpeg
 ---
 
 ### AYS DAILY DIGEST 10/8: On average, 58 unaccompanied minors arrive to Italy every day
@@ -15,7 +15,7 @@ image:
 _While everybody expresses concern over the situation in Syria, little is done to stop the war\. Even less is done to stop the other wars that are going on, nor is much being done to improve living conditions in many countries where refugees are coming from\. Again, in huge number\. More people are registered in Italy, in Greece, all over the Balkans, and in the EU\. Not all have the same rights, according to human rights organizations\._
 
 
-![Lighthouse Relief volunteers take a break with masks created by children who attend the Child Friendly Space\. Photo by Madeleine Ball / Lighthouse Relief\.](assets/e5315cc66279/1*UJKq68H7XDKlFbaGy7hkhg.jpeg)
+![Lighthouse Relief volunteers take a break with masks created by children who attend the Child Friendly Space\. Photo by Madeleine Ball / Lighthouse Relief\.](../assets/e5315cc66279/1*UJKq68H7XDKlFbaGy7hkhg.jpeg)
 
 Lighthouse Relief volunteers take a break with masks created by children who attend the Child Friendly Space\. Photo by Madeleine Ball / Lighthouse Relief\.
 
@@ -27,7 +27,7 @@ Just a couple of days ago, civilians in Aleppo were full of hope that the siege 
 [The latest news about the Russian military’s proposal](http://www.aljazeera.com/news/2016/08/russia-declares-hour-daily-lull-aleppo-160810192646557.html) of a three\-hour daily freeze on fighting around Aleppo to allow humanitarian convoys is not enough\. The United Nations, which has earlier called for 48\-hour weekly pauses for the aid deliveries, said the three\-hour truce announced by Russia would not be enough to meet the needs of civilians in the war\-battered Syrian city\.
 
 
-![**By [Real Progressives](https://www.facebook.com/RealProgressive/)**](assets/e5315cc66279/1*P6M4VB9BjRV-Jo8FSMxRkw.jpeg)
+![**By [Real Progressives](https://www.facebook.com/RealProgressive/)**](../assets/e5315cc66279/1*P6M4VB9BjRV-Jo8FSMxRkw.jpeg)
 
 **By [Real Progressives](https://www.facebook.com/RealProgressive/)**
 
@@ -39,11 +39,11 @@ _Mediterranean_
 Today, almost 500 people were rescued at sea\. The first boat with 327 people was found in the central Mediterranean\. Another one was found with 169 people on board\. All are taken care of and safe\.
 
 
-![](assets/e5315cc66279/1*v91hRxfeFoiKYNK_pK1GdA.jpeg)
+![](../assets/e5315cc66279/1*v91hRxfeFoiKYNK_pK1GdA.jpeg)
 
 
 
-![Brave people are saving lives every day\. Photo by MOAS\.](assets/e5315cc66279/1*aZr1uuc7WfNU_PXV52WAxA.jpeg)
+![Brave people are saving lives every day\. Photo by MOAS\.](../assets/e5315cc66279/1*aZr1uuc7WfNU_PXV52WAxA.jpeg)
 
 Brave people are saving lives every day\. Photo by MOAS\.
 
@@ -109,7 +109,7 @@ Volunteers are doing their best to help refugees in need all over Greece\. But t
 
 
 
-![In Ritsona camp, Lighthouse Relief volunteers collaborate to build a tarpaulin covering\. Photo Lighthouse Relief\.](assets/e5315cc66279/1*aToqzLxfO36undbffG_jzQ.jpeg)
+![In Ritsona camp, Lighthouse Relief volunteers collaborate to build a tarpaulin covering\. Photo Lighthouse Relief\.](../assets/e5315cc66279/1*aToqzLxfO36undbffG_jzQ.jpeg)
 
 In Ritsona camp, Lighthouse Relief volunteers collaborate to build a tarpaulin covering\. Photo Lighthouse Relief\.
 

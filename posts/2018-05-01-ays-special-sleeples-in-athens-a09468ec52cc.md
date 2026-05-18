@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Sleepless in Athens
+title: "AYS SPECIAL: Sleepless in Athens"
 author: Are You Syrious?
 date: 2018-05-01T10:52:38.976+0100
 last_modified_at: 2018-05-01T16:00:04.514+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,special,athens,greece,protests]
 description: In April, almost 3000 people crossed the river Evros and came to Greece. Most of them aim to reach northern Europe, but for now, due to…
 image:
-  path: assets/a09468ec52cc/1*IWcMpDhPhJgMTsNWd1gkbQ.jpeg
+  path: ../assets/a09468ec52cc/1*IWcMpDhPhJgMTsNWd1gkbQ.jpeg
 ---
 
 ### AYS SPECIAL: Sleepless in Athens
@@ -15,7 +15,7 @@ image:
 I _n April, almost 3000 people crossed the river Evros and came to Greece\. Most of them aim to reach northern Europe, but for now, due to strict rules and closed borders, they are forced to stay in Greece where accommodation, again, is a massive issue\. Last night, an AYS volunteer joined a protest in Syntagma Square that was organized in order to draw attention to the issues facing people who have newly arrived to Athens\._
 
 
-![Photo AYS\. Syntagma Square, where over 200 people joined in protest last night\.](assets/a09468ec52cc/1*IWcMpDhPhJgMTsNWd1gkbQ.jpeg)
+![Photo AYS\. Syntagma Square, where over 200 people joined in protest last night\.](../assets/a09468ec52cc/1*IWcMpDhPhJgMTsNWd1gkbQ.jpeg)
 
 Photo AYS\. Syntagma Square, where over 200 people joined in protest last night\.
 
@@ -28,7 +28,7 @@ These new arrivals have put tremendous pressure on the city’s squats, which ar
 “We cannot let people sleep in the streets, but it makes things chaotic in the squats,” said Samir, who has made room for hundreds of people at the squats he is involved with, but has also had to turn people away\. “Squats are supposed to be a temporary thing, not permanent\. In Athens they have become permanent\. Right now there is no other option \[beside the streets\], so life in the squats is without dignity\. This is why we’ve resorted to this\.”
 
 
-![Photo by Khora Community Center](assets/a09468ec52cc/1*Sy2hHQsJEmuB8mqyvJxWtg.jpeg)
+![Photo by Khora Community Center](../assets/a09468ec52cc/1*Sy2hHQsJEmuB8mqyvJxWtg.jpeg)
 
 Photo by Khora Community Center
 

@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 8/10/2017: Another child died in Greece in less than one month
+title: "AYS DAILY DIGEST 8/10/2017: Another child died in Greece in less than one month"
 author: Are You Syrious?
 date: 2017-10-08T23:20:46.233+0100
 last_modified_at: 2017-10-09T10:44:14.970+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,lesvos,greece,serbia,italy]
 description: Tragedy on Lesvos // Greek lawyers are fighting a decision to keep people on the islands before their applications are reviewed //…
 image:
-  path: assets/e3d08ec5b9df/1*9qHZ7T1-2XQ5UJ10ZDCgpA.jpeg
+  path: ../assets/e3d08ec5b9df/1*9qHZ7T1-2XQ5UJ10ZDCgpA.jpeg
 ---
 
 ### AYS DAILY DIGEST 8/10/2017: Another child died in Greece in less than one month
@@ -15,7 +15,7 @@ image:
 _Tragedy on Lesvos // Greek lawyers are fighting a decision to keep people on the islands before their applications are reviewed // Progressive Movement of Women of Samos issues demands //Deportations announced from Sweden and Austria_
 
 
-![](assets/e3d08ec5b9df/1*y0TGwafMEqy2V6gTfrxtUw.jpeg)
+![](../assets/e3d08ec5b9df/1*y0TGwafMEqy2V6gTfrxtUw.jpeg)
 
 ### Feature
 
@@ -62,11 +62,11 @@ _“We believe that refugees and migrants who enter Greece through the Greek isl
 [The Woman’s Association at Samos issued a statement](https://www.ikariaki.gr/%ce%b1%ce%bd%ce%b1%ce%ba%ce%bf.../) pointing out to the situation in the overcrowded camp and saying that the situation is especially serious for children\.
 
 
-![](assets/e3d08ec5b9df/1*Z583K7joM0Vs1V01U4uQVw.jpeg)
+![](../assets/e3d08ec5b9df/1*Z583K7joM0Vs1V01U4uQVw.jpeg)
 
 
 
-![Make\-shifft shelters in Samos\. Photo AYS](assets/e3d08ec5b9df/1*Y75z-0ycIM-aYkfRXIA8iw.jpeg)
+![Make\-shifft shelters in Samos\. Photo AYS](../assets/e3d08ec5b9df/1*Y75z-0ycIM-aYkfRXIA8iw.jpeg)
 
 Make\-shifft shelters in Samos\. Photo AYS
 
@@ -143,7 +143,7 @@ IOM reports that from 28 September to 4 October, 105 new arrivals were registere
 Volunteers from Vienna are also reporting about police raids all over the country looking for people from Afghanistan\.
 
 
-![](assets/e3d08ec5b9df/1*9qHZ7T1-2XQ5UJ10ZDCgpA.jpeg)
+![](../assets/e3d08ec5b9df/1*9qHZ7T1-2XQ5UJ10ZDCgpA.jpeg)
 
 
 The warning is coming from Sweden, too\. [Local media published](http://www.gp.se/nyheter/sverige/deras-pojke-ska-utvisas-1.4707740) a story about one of the boys and his Swedish family\. A couple of weeks ago they celebrated his 16th birthday in detention at one of the institutions where people scheduled for deportation are put if there is a chance that they may otherwise “disappear” before the plane takes off\.
@@ -155,7 +155,7 @@ The flight number is PVG 6221\.
 The companies email is [communication@privilegestyle\.com](mailto:communication@privilegestyle.com) \.
 
 
-![](assets/e3d08ec5b9df/1*kE-1kpC3zA72xZNGiy9YnA.png)
+![](../assets/e3d08ec5b9df/1*kE-1kpC3zA72xZNGiy9YnA.png)
 
 ### France
 
@@ -166,7 +166,7 @@ _“Yesterday, Calais was cold, windswept and raining\. People were huddling und
 _One lady, in particular, was really cold and shivering as she was totally soaked to the skin — she was blue and shaking\. Marie, a lovely volunteer, brought her back and searched through our stock to find a good waterproof coat and a change of clothes down to her soaking wet underwear\.”_
 
 
-![Photo Care4Calais\.](assets/e3d08ec5b9df/1*r7xQhJV6SwIuq7sWNLXAUQ.jpeg)
+![Photo Care4Calais\.](../assets/e3d08ec5b9df/1*r7xQhJV6SwIuq7sWNLXAUQ.jpeg)
 
 Photo Care4Calais\.
 

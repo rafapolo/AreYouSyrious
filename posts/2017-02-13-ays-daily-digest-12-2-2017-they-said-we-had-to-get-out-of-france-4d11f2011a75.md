@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 12/2/2017: “They said we had to get out of France”
+title: "AYS DAILY DIGEST 12/2/2017: “They said we had to get out of France”"
 author: Are You Syrious?
 date: 2017-02-13T04:54:29.890+0000
 last_modified_at: 2017-02-13T06:20:25.343+0000
@@ -7,7 +7,7 @@ categories:
 tags: [europe,refugees]
 description: Refugee Rights Data Project reports on extent of police violence and misstreatment faced by refugees in Paris. Terrible living conditions…
 image:
-  path: assets/4d11f2011a75/1*L5GiZR2u9AG_7g-INSbiIw.png
+  path: ../assets/4d11f2011a75/1*L5GiZR2u9AG_7g-INSbiIw.png
 ---
 
 ### AYS DAILY DIGEST 12/2/2017: “They said we had to get out of France”
@@ -15,7 +15,7 @@ image:
 _Refugee Rights Data Project reports on extent of police violence and misstreatment faced by refugees in Paris\. Terrible living conditions for children in Netherland’s “family locations”\. Uplifting updates from The Timber Project\._
 
 
-![Photo by [Refugee Rights Data Project](http://refugeerights.org.uk/)](assets/4d11f2011a75/1*L5GiZR2u9AG_7g-INSbiIw.png)
+![Photo by [Refugee Rights Data Project](http://refugeerights.org.uk/)](../assets/4d11f2011a75/1*L5GiZR2u9AG_7g-INSbiIw.png)
 
 Photo by [Refugee Rights Data Project](http://refugeerights.org.uk/)
 #### France
@@ -28,14 +28,14 @@ Minors are not treated any better, with 50% saying they had been asked to move w
 Minors, more than adults, do not want to stay in France and hope to join family members in the UK\. The small hope created through the Dubs Amendment has now been extinguished and joining the country through other legal pathways is proving close to impossible\. One 16\-year old boy for example said he had applied for reunification with his family in the UK where he has two sisters and two brothers, but had not had a response and was feeling very confused\. Meanwhile, another unaccompanied minor explained that his application to join family in the UK had been rejected, and was deeply concerned about his options\.
 
 
-![Photo by [Safe Passage](http://safepassage.org.uk/)](assets/4d11f2011a75/1*rPnqHQIL1Md3Uu_GPTrecQ.png)
+![Photo by [Safe Passage](http://safepassage.org.uk/)](../assets/4d11f2011a75/1*rPnqHQIL1Md3Uu_GPTrecQ.png)
 
 Photo by [Safe Passage](http://safepassage.org.uk/)
 
 Protests are growing over the government’s decision to allow only 350 unaccompanied children to come to the UK, thousands short of the figure suggested by government sources last year\. [A protest calling for a proper enactment of the Dubs Amendment will take place on the 25th of February in London](https://www.facebook.com/events/1824886271109193/permalink/1825311314400022/) \. Help4Refugees says _“many of the children from the Calais camp were lured out of the camp with the promise of a better life in the UK \(…\) they remain without any hope for family re\-unification”\._ Safe Passage adds that children in the Dunkirk camp are at high\-risk of being smuggled and trafficked and says over 100 could be eligible under Dubs\.
 
 
-![Image by Creative Caravans](assets/4d11f2011a75/1*OQDPP7L7jjzygoLO9GWI8g.png)
+![Image by Creative Caravans](../assets/4d11f2011a75/1*OQDPP7L7jjzygoLO9GWI8g.png)
 
 Image by Creative Caravans
 
@@ -49,26 +49,26 @@ The Nurture Project, which focuses on infant feeding support, is looking to recr
 [The Timber Project](https://www.facebook.com/thetimberproject.org/) has built countless essential structures throughout Europe, including a wifi/phone charging point and shower units at the Serbia\-Hungary border as well as playgrounds in Greek refugee camps\. In Nea Kavala, the group has now built a community centre, after recently finishing the construction of a distribution centre\.
 
 
-![](assets/4d11f2011a75/1*YZPJSm53_vMZrK9VOSTvag.jpeg)
+![](../assets/4d11f2011a75/1*YZPJSm53_vMZrK9VOSTvag.jpeg)
 
 
 
-![Photos by The Timber Project](assets/4d11f2011a75/1*UGMnBGq78ernuYXVvTo8SQ.jpeg)
+![Photos by The Timber Project](../assets/4d11f2011a75/1*UGMnBGq78ernuYXVvTo8SQ.jpeg)
 
 Photos by The Timber Project
 
 The new “We Are Here\! Community Centre” still needs funds to buy educational materials, art, textile and sports supplies\. You can support them [here](https://www.gofundme.com/weareherecentre) \. Meanwhile, The Timber Project is moving on to its next project, a children’s space for the Vasilika camp\.
 
 
-![](assets/4d11f2011a75/1*IXWLX5gtbkaQPdJxT_As2A.jpeg)
+![](../assets/4d11f2011a75/1*IXWLX5gtbkaQPdJxT_As2A.jpeg)
 
 
 
-![](assets/4d11f2011a75/1*cxQOhMeKDlbO5xnQ9ug_ag.jpeg)
+![](../assets/4d11f2011a75/1*cxQOhMeKDlbO5xnQ9ug_ag.jpeg)
 
 
 
-![Photos by The Timber Project](assets/4d11f2011a75/1*CVj_YwjD2fH9Y5trMwCA_Q.jpeg)
+![Photos by The Timber Project](../assets/4d11f2011a75/1*CVj_YwjD2fH9Y5trMwCA_Q.jpeg)
 
 Photos by The Timber Project
 #### Netherlands
@@ -77,7 +77,7 @@ Photos by The Timber Project
 The Oxford Monitor of Forced Migration reports “many children whose families’ asylum applications have been rejected by the Netherlands, now live in camps spread over the country known as “family locations”\. Studies have pointed out the intense emotional harm these children face due to police violence and harsh living conditions\. The Oxford Monitor notes the Dutch state has preferred to built an additional prison at Camp Zeist, instead of adressing these conditions\.
 
 
-![Camp Zeist\. Photo by Aida Kristina Ničija](assets/4d11f2011a75/1*1HUzV--R8iwD-UtfyMRAYw.png)
+![Camp Zeist\. Photo by Aida Kristina Ničija](../assets/4d11f2011a75/1*1HUzV--R8iwD-UtfyMRAYw.png)
 
 Camp Zeist\. Photo by Aida Kristina Ničija
 
@@ -103,7 +103,7 @@ Several families have now formed a grassroots collective with political Dutch ac
 [Enough is Enough](https://enoughisenough14.files.wordpress.com/2017/02/img_20170211_141025.jpg?w=640) says thousands of protesters took to the streets yesterday, demanding a stop to deportations to Afghanistan\.
 
 
-![Photo by Enough is Enough\.](assets/4d11f2011a75/1*TSQipRpzAZURnHWzwX0Vxw.png)
+![Photo by Enough is Enough\.](../assets/4d11f2011a75/1*TSQipRpzAZURnHWzwX0Vxw.png)
 
 Photo by Enough is Enough\.
 

@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 22/01/17: Refugees are coming back to Calais
+title: "AYS DAILY DIGEST 22/01/17: Refugees are coming back to Calais"
 author: Are You Syrious?
 date: 2017-01-23T00:30:15.900+0000
 last_modified_at: 2017-01-23T10:01:08.803+0000
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe]
 description: Refugees, including many unaccompanied minors, are coming back to Calais//Many still sleep in the streets of Paris despite the…
 image:
-  path: assets/abe1b048407/0*8lF6LLZnorAzhBoJ.
+  path: ../assets/abe1b048407/0*8lF6LLZnorAzhBoJ.
 ---
 
 ### AYS DAILY DIGEST 22/01/17: Refugees are coming back to Calais
 
 
-![Photo by Joao Pequeno](assets/abe1b048407/0*8lF6LLZnorAzhBoJ.)
+![Photo by Joao Pequeno](../assets/abe1b048407/0*8lF6LLZnorAzhBoJ.)
 
 Photo by Joao Pequeno
 
@@ -36,11 +36,11 @@ Care4Calais is also looking for volunteers to help refugees in the streets, in t
 The Refugee Community Kitchen says that while it has reduced its hot food distribution from 2500–3000 meals to 300–500 meals a day, it is as busy as ever, as it now has two Free Shops in the La Linière camp in Grande\-Synthe, supplying food such as fresh bread and vegetables to the 1,200 residents of the camp and maintaining seven community kitchens\. RCK is also working with outreach groups to supply hot and cold food to the smaller camps and squats that are now reappearing due to people returning from CAOs\. The group insists that ‘it’s not over in northern France’ and has a call out for both [volunteers](http://refugeecommunitykitchen.com/volunteer/) and [donations](https://mydonate.bt.com/donation/start.html?charity=147727) \.
 
 
-![](assets/abe1b048407/1*CtAO0ycm0Kh-DbahDszywA.jpeg)
+![](../assets/abe1b048407/1*CtAO0ycm0Kh-DbahDszywA.jpeg)
 
 
 
-![](assets/abe1b048407/1*ODCdgRY_AZdB6ts9dcwRPg.png)
+![](../assets/abe1b048407/1*ODCdgRY_AZdB6ts9dcwRPg.png)
 
 ### Refugees still sleeping in the streets of Paris
 
@@ -62,7 +62,7 @@ One refugee wasregistered on the island of Samos and 35 on “other” islands\.
 ### Relocation update
 
 
-![](assets/abe1b048407/0*oFB4muzKef8KENn4.)
+![](../assets/abe1b048407/0*oFB4muzKef8KENn4.)
 
 
 [The Mobile Info Team](https://www.facebook.com/mobileinfoteam/?hc_ref=SEARCH) has made a helpful map, showing which countries take relocation cases and which countries refuse to do so, including Poland, Hungary and Austria\.
@@ -75,15 +75,15 @@ From the 12th to the 18th of January, 115 refugees have been relocated from Gree
 The kids boutique and shoe store in Filippiada is ready for dignified distribution on Monday — congratulations on what looks like a beautiful shop\.
 
 
-![](assets/abe1b048407/1*I8XKVcoGedvllyB0_hCEIA.jpeg)
+![](../assets/abe1b048407/1*I8XKVcoGedvllyB0_hCEIA.jpeg)
 
 
 
-![](assets/abe1b048407/1*glsNEaG7V8L7QU8cFUSSFw.jpeg)
+![](../assets/abe1b048407/1*glsNEaG7V8L7QU8cFUSSFw.jpeg)
 
 
 
-![](assets/abe1b048407/1*_nn-sV_js7qYYSybJq72Sw.jpeg)
+![](../assets/abe1b048407/1*_nn-sV_js7qYYSybJq72Sw.jpeg)
 
 #### Bulgaria
 

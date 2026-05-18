@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 27/5/22: Greek police shot with rubber bullets at two people — report
+title: "AYS News Digest 27/5/22: Greek police shot with rubber bullets at two people — report"
 author: Are You Syrious?
 date: 2022-05-28T09:05:13.020+0100
 last_modified_at: 2022-05-28T19:27:05.695+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugee,greece,bulgaria,uk]
 description: Increasing violence at EU’s external borders with pushbacks, racist treatment and violation of international laws and court rulings
 image:
-  path: assets/edd1ca7eaf5d/1*7FC2j9_7qUVKES8Q1yOpCQ.jpeg
+  path: ../assets/edd1ca7eaf5d/1*7FC2j9_7qUVKES8Q1yOpCQ.jpeg
 ---
 
 ### AYS News Digest 27/5/22: Greek police shot with rubber bullets at two people — report
 #### Increasing violence at EU’s external borders with pushbacks, racist treatment and violation of international laws and court rulings
 
 
-![](assets/edd1ca7eaf5d/1*7FC2j9_7qUVKES8Q1yOpCQ.jpeg)
+![](../assets/edd1ca7eaf5d/1*7FC2j9_7qUVKES8Q1yOpCQ.jpeg)
 
 #### Greece
 
@@ -227,7 +227,7 @@ Some 200 people waited in detention rooms at the Marseille airport in 2021\. Le 
 With its racist asylum policy, the Danish government is putting Syrian women at risk of deportation, as it considers the capital Damascus as safe\. While young men face being drafted for military service and therefore are often not deported, this does not apply to elderly people and women\. The Guardian accompanied one young woman, who has managed to avoid deportation and extend her residency permit for two more years now\.
 
 
-[![Sending Aya Back: the Syrian teen facing deportation in Denmark - documentary](assets/edd1ca7eaf5d/da54_hqdefault.jpg "Sending Aya Back: the Syrian teen facing deportation in Denmark - documentary")](https://www.youtube.com/watch?v=IhUhf1TiC3A)
+[![Sending Aya Back: the Syrian teen facing deportation in Denmark - documentary](../assets/edd1ca7eaf5d/da54_hqdefault.jpg "Sending Aya Back: the Syrian teen facing deportation in Denmark - documentary")](https://www.youtube.com/watch?v=IhUhf1TiC3A)
 
 #### UK
 

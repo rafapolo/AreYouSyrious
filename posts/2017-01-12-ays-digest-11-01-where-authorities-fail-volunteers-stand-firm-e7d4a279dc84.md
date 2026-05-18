@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,greece,serbia,france]
 description: 2016 was the most deadly for healthcare workers in Syria/Warship to host refugees from Lesvos/Raid in Serbian-Hungarian border/ Sharp drop…
 image:
-  path: assets/e7d4a279dc84/1*ME0ENPTIdqIvDL3Jo8xjCg.jpeg
+  path: ../assets/e7d4a279dc84/1*ME0ENPTIdqIvDL3Jo8xjCg.jpeg
 ---
 
 ### AYS DIGEST 11/01 — Where authorities fail, volunteers stand firm
 #### 2016 was the most deadly for healthcare workers in Syria/Warship to host refugees from Lesvos/Raid in Serbian\-Hungarian border/ Sharp drop in arrivals in Germany/50 propositions from BAAM in France/ Transfer of refugees to be assessed by Civil Liberties Committee/ General appeal for donations and hands
 
 
-![Photo by [**InterVolve**](https://www.facebook.com/InterVolve-219418945063168/)](assets/e7d4a279dc84/1*ME0ENPTIdqIvDL3Jo8xjCg.jpeg)
+![Photo by [**InterVolve**](https://www.facebook.com/InterVolve-219418945063168/)](../assets/e7d4a279dc84/1*ME0ENPTIdqIvDL3Jo8xjCg.jpeg)
 
 Photo by [**InterVolve**](https://www.facebook.com/InterVolve-219418945063168/)
 ### Syria
@@ -36,7 +36,7 @@ The report documents, in total, 172 attacks on medical facilities and personnel 
 The Greek navy ship “Lesvos” will host refugees and from the overflowing camps that are suffering from the heavy snowfall\. The ship has docked at the port of Mytilene and will accommodate about 500 refugees who currently live in tents in the Moria camp\. As reported before, in the past five days, many refugees of the Moria camp are living under harsh conditions in tents covered with snow\.
 
 
-![Tent destroyed by the snow, photo by [**Khora**](https://www.facebook.com/KhoraAthens/)](assets/e7d4a279dc84/1*tUaVC8Fn_DbygvD8exhzkg.jpeg)
+![Tent destroyed by the snow, photo by [**Khora**](https://www.facebook.com/KhoraAthens/)](../assets/e7d4a279dc84/1*tUaVC8Fn_DbygvD8exhzkg.jpeg)
 
 Tent destroyed by the snow, photo by [**Khora**](https://www.facebook.com/KhoraAthens/)
 
@@ -69,17 +69,17 @@ In Softex [InterVolve](https://www.facebook.com/InterVolve-219418945063168/) tal
 
 
 
-![Photo by [**InterVolve**](https://www.facebook.com/InterVolve-219418945063168/)](assets/e7d4a279dc84/1*KtnYepiLwlpVCisy-iNnNQ.jpeg)
+![Photo by [**InterVolve**](https://www.facebook.com/InterVolve-219418945063168/)](../assets/e7d4a279dc84/1*KtnYepiLwlpVCisy-iNnNQ.jpeg)
 
 Photo by [**InterVolve**](https://www.facebook.com/InterVolve-219418945063168/)
 
 
-![Photo by [**InterVolve**](https://www.facebook.com/InterVolve-219418945063168/)](assets/e7d4a279dc84/1*AHYBTptDzpSWnQcBB4I_IA.jpeg)
+![Photo by [**InterVolve**](https://www.facebook.com/InterVolve-219418945063168/)](../assets/e7d4a279dc84/1*AHYBTptDzpSWnQcBB4I_IA.jpeg)
 
 Photo by [**InterVolve**](https://www.facebook.com/InterVolve-219418945063168/)
 
 
-![Photo by [**InterVolve**](https://www.facebook.com/InterVolve-219418945063168/)](assets/e7d4a279dc84/1*lNShoCS5qSi3sjXMRJ941A.jpeg)
+![Photo by [**InterVolve**](https://www.facebook.com/InterVolve-219418945063168/)](../assets/e7d4a279dc84/1*lNShoCS5qSi3sjXMRJ941A.jpeg)
 
 Photo by [**InterVolve**](https://www.facebook.com/InterVolve-219418945063168/)
 
@@ -93,7 +93,7 @@ Photo by [**InterVolve**](https://www.facebook.com/InterVolve-219418945063168/)
 
 
 
-![Photo by [**Eko Project**](https://www.facebook.com/Ekommunity/)](assets/e7d4a279dc84/1*k9FiSaa3rSvmCft7NhCytQ.jpeg)
+![Photo by [**Eko Project**](https://www.facebook.com/Ekommunity/)](../assets/e7d4a279dc84/1*k9FiSaa3rSvmCft7NhCytQ.jpeg)
 
 Photo by [**Eko Project**](https://www.facebook.com/Ekommunity/)
 
@@ -165,24 +165,24 @@ Furthermore, this sudden interest in the safety of refugees and migrants instead
 11 January — 167 individuals removed from brick factory and Kelebija transit zone and taken to Presevo where they were registered\.
 
 
-![Photo from volunteers](assets/e7d4a279dc84/1*4ycxl8utSoB5ggwB-VD5PA.jpeg)
+![Photo from volunteers](../assets/e7d4a279dc84/1*4ycxl8utSoB5ggwB-VD5PA.jpeg)
 
 Photo from volunteers
 
 
-![Photo from volunteers](assets/e7d4a279dc84/1*REAEbVcdf4dc1Jhs9dvZ6Q.jpeg)
+![Photo from volunteers](../assets/e7d4a279dc84/1*REAEbVcdf4dc1Jhs9dvZ6Q.jpeg)
 
 Photo from volunteers
 
 In Belgrade situation isn’t getting better and more than a thousand refugees struggle to survive in improvised shelter\.
 
 
-![Photo by Giorgos Moutafis](assets/e7d4a279dc84/1*m9zbv7FPCejiDKCBOyolUA.jpeg)
+![Photo by Giorgos Moutafis](../assets/e7d4a279dc84/1*m9zbv7FPCejiDKCBOyolUA.jpeg)
 
 Photo by Giorgos Moutafis
 
 
-![Photo by [**Refugee behind the closed borders**](https://www.facebook.com/Refugee-behind-the-closed-borders-1264829603528876/)](assets/e7d4a279dc84/1*CSJZR-veoAjbNahTaqIueA.jpeg)
+![Photo by [**Refugee behind the closed borders**](https://www.facebook.com/Refugee-behind-the-closed-borders-1264829603528876/)](../assets/e7d4a279dc84/1*CSJZR-veoAjbNahTaqIueA.jpeg)
 
 Photo by [**Refugee behind the closed borders**](https://www.facebook.com/Refugee-behind-the-closed-borders-1264829603528876/)
 
@@ -251,7 +251,7 @@ In Paris, despite all the repression and violence used by the police against ref
 [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/?fref=nf) are kindly requesting donations to be able to keep funding volunteers working in the streets of Paris whilst their people at the Calais wearhouse also offer support\.
 
 
-![Photo by [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/?fref=nf)](assets/e7d4a279dc84/1*ED8-SV9AEHkitC-gEstJ-g.jpeg)
+![Photo by [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/?fref=nf)](../assets/e7d4a279dc84/1*ED8-SV9AEHkitC-gEstJ-g.jpeg)
 
 Photo by [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/?fref=nf)
 
@@ -260,7 +260,7 @@ Please consider donating [here](http://www.helprefugees.org.uk) \.
 Calais Action are looking for experienced volunteers to join their social media and fundraising teams\.
 
 
-![Photo by [**Calais Action**](https://www.facebook.com/calaisaction/)](assets/e7d4a279dc84/1*qWiLtq1MMpyQAxqHZ_z-4g.jpeg)
+![Photo by [**Calais Action**](https://www.facebook.com/calaisaction/)](../assets/e7d4a279dc84/1*qWiLtq1MMpyQAxqHZ_z-4g.jpeg)
 
 Photo by [**Calais Action**](https://www.facebook.com/calaisaction/)
 

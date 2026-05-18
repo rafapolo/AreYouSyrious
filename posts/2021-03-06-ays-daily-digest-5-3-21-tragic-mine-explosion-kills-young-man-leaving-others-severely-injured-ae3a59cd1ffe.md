@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 5/3/21: Tragic mine explosion kills young man, leaving others severely injured
+title: "AYS Daily Digest 5/3/21: Tragic mine explosion kills young man, leaving others severely injured"
 author: Are You Syrious?
 date: 2021-03-06T21:14:55.910+0000
 last_modified_at: 2021-03-06T21:14:55.910+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,europe,migration,refugees,human-rights]
 description: A group of young people on the move walked into a minefield in Croatia, ending tragically / In-depth investigation into how Italy tried to…
 image:
-  path: assets/ae3a59cd1ffe/0*22-WBq01IB8fAraZ.jpg
+  path: ../assets/ae3a59cd1ffe/0*22-WBq01IB8fAraZ.jpg
 ---
 
 ### AYS Daily Digest 5/3/21: Tragic mine explosion kills young man, leaving others severely injured
 ### A group of young people on the move walked into a minefield in Croatia, ending tragically / In\-depth investigation into how Italy tried to stop migration from Africa, using EU funds / More families across Greece left unsupported / Recommended reads, calls for action and more
 
 
-![](assets/ae3a59cd1ffe/0*A5qxu29eGRDEWEam.jpeg)
+![](../assets/ae3a59cd1ffe/0*A5qxu29eGRDEWEam.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----9945bd2b9513--------------------------------)
@@ -22,11 +22,11 @@ image:
 [Mar 6](ays-daily-digest-5-3-21-tragic-mine-explosion-killing-young-man-leaving-others-severely-injured-9945bd2b9513?source=post_page-----9945bd2b9513--------------------------------) · 10 min read
 
 
-![](assets/ae3a59cd1ffe/0*HyU9E1BbGqSNvnUk)
+![](../assets/ae3a59cd1ffe/0*HyU9E1BbGqSNvnUk)
 
 
 
-![](assets/ae3a59cd1ffe/0*22-WBq01IB8fAraZ.jpg)
+![](../assets/ae3a59cd1ffe/0*22-WBq01IB8fAraZ.jpg)
 
 ### FEATURED
 ### Croatia — leftover mines take a toll on the lives of people on the move
@@ -116,11 +116,11 @@ The scheduled appointments for delivery of travel documents at Thessaloniki RAO 
 There will be a new announcement about rescheduling, following the lifting of the protective measures\.
 
 
-![](assets/ae3a59cd1ffe/0*VuUDmAgAuJ6DyAqk)
+![](../assets/ae3a59cd1ffe/0*VuUDmAgAuJ6DyAqk)
 
 
 
-![](assets/ae3a59cd1ffe/0*1h5jXI1kbbj6xi1s)
+![](../assets/ae3a59cd1ffe/0*1h5jXI1kbbj6xi1s)
 
 
 The Greek minister Mitarakis, who recently met with the head of Frontex, co\-responsible for the border actions taken in the area, that we reported extensively about, was now addressing his parliament on “successfully reducing the refugee population” in the Aegean islands from 42,000 in 2020 to 15,000 in 2021, while reportedly decreasing RICs population from 94,000 to 60,000\. However, many things remain unanswered:
@@ -132,21 +132,21 @@ One Bridge to Idomeni and Nigrizia invite everyone to join their initiative “U
 ### The North
 
 
-![](assets/ae3a59cd1ffe/0*YSy8kXRvZm1mhI0o)
+![](../assets/ae3a59cd1ffe/0*YSy8kXRvZm1mhI0o)
 
 
 
-![](assets/ae3a59cd1ffe/0*929gFPK54YAPCNd9)
+![](../assets/ae3a59cd1ffe/0*929gFPK54YAPCNd9)
 
 
 [Human Rights Observers](https://twitter.com/HumanRightsObs) have reported the second expulsion in a single week of the people staying in a provisional settlement in the Grande Synthe area\. They say a security parameter was placed by the police, so activists could only observe the expulsions and destruction of tents\.
 
 
-![](assets/ae3a59cd1ffe/0*Bezux7ZGDKEY4Yii)
+![](../assets/ae3a59cd1ffe/0*Bezux7ZGDKEY4Yii)
 
 
 
-![](assets/ae3a59cd1ffe/0*hEMcyxaX_IcHjatu)
+![](../assets/ae3a59cd1ffe/0*hEMcyxaX_IcHjatu)
 
 
 EU

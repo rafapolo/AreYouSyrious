@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 17/06/2018: Provide a safe port for rescued people
+title: "AYS DAILY DIGEST 17/06/2018: Provide a safe port for rescued people"
 author: Are You Syrious?
 date: 2018-06-18T09:04:57.794+0100
 last_modified_at: 2018-06-18T09:53:02.090+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,russia,bosnia,greece]
 description: People being denied access to claim asylum in Greece // Bad weather on the Greek Islands // Civil society groups and citizens hold European…
 image:
-  path: assets/8414ca42e7cb/1*JJyp-QlVyDaKxEoihS5N5g.jpeg
+  path: ../assets/8414ca42e7cb/1*JJyp-QlVyDaKxEoihS5N5g.jpeg
 ---
 
 ### AYS DAILY DIGEST 17/06/2018: Provide a safe port for rescued people
@@ -15,7 +15,7 @@ image:
 _People being denied access to claim asylum in Greece // Bad weather on the Greek Islands // Civil society groups and citizens hold European governments to account\! // People apprehended in Russia\._
 
 
-![Lifeline today assisted a difficult case\. Credits: [Lifeline](http://LIFELINE)](assets/8414ca42e7cb/1*JJyp-QlVyDaKxEoihS5N5g.jpeg)
+![Lifeline today assisted a difficult case\. Credits: [Lifeline](http://LIFELINE)](../assets/8414ca42e7cb/1*JJyp-QlVyDaKxEoihS5N5g.jpeg)
 
 Lifeline today assisted a difficult case\. Credits: [Lifeline](http://LIFELINE)
 ### Greece
@@ -47,7 +47,7 @@ Volunteers in Velika Kladusa are trying their best to deal with the number of pe
 Mission Lifeline today [assisted](https://www.facebook.com/seenotrettung/posts/384510318622180?hc_location=ufi) a difficult case\. They helped 126 people from one boat to board the freighter Viking Amber as it had no RHIBs\. The freight ship’s destination was Misrath, Libya, but assurance was given that the rescued people would be transfered to the Italian Coast Guard\.
 
 
-![The rescue operation of mission lifeline\. Credits: [LIFELINE](http://LIFELINE)](assets/8414ca42e7cb/1*wqSDa61BYfFhflCNjm_FPA.jpeg)
+![The rescue operation of mission lifeline\. Credits: [LIFELINE](http://LIFELINE)](../assets/8414ca42e7cb/1*wqSDa61BYfFhflCNjm_FPA.jpeg)
 
 The rescue operation of mission lifeline\. Credits: [LIFELINE](http://LIFELINE)
 

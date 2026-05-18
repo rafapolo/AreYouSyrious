@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 7/12/22: New evictions in northern Serbia
+title: "AYS News Digest 7/12/22: New evictions in northern Serbia"
 author: Are You Syrious?
 date: 2022-12-08T10:05:16.595+0000
 last_modified_at: 2022-12-08T12:39:22.520+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: []
 description: Police raids on squats and informal settlements in northern Serbia have increased over the past two weeks // Expanded and updated edition…
 image:
-  path: assets/682953c0757e/1*2AdRCC7RPZFuSH1sDytaIA.jpeg
+  path: ../assets/682953c0757e/1*2AdRCC7RPZFuSH1sDytaIA.jpeg
 ---
 
 ### AYS News Digest 7/12/22: New evictions in northern Serbia
@@ -15,7 +15,7 @@ image:
 Police raids on squats and informal settlements in northern Serbia have increased over the past two weeks // Expanded and updated edition of the Black Book of Pushbacks by BVMN // The criminalisation in Poland continues // Polytechnic of Turin voted to renew the agreement with Frontex // Victory after protests: 292 young people will sleep in a warm place after months on the streets in France
 
 
-![A tent broken by Serbian authorities after an eviction in a squat in northern Serbia\. Credit: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/pfbid09u5bxfFMTGF7WHsZrLEqTr3FqRLmGTUeqfjtNxZojBgH6a2XE6hef8hKmcvEdyPEl)](assets/682953c0757e/1*2AdRCC7RPZFuSH1sDytaIA.jpeg)
+![A tent broken by Serbian authorities after an eviction in a squat in northern Serbia\. Credit: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/pfbid09u5bxfFMTGF7WHsZrLEqTr3FqRLmGTUeqfjtNxZojBgH6a2XE6hef8hKmcvEdyPEl)](../assets/682953c0757e/1*2AdRCC7RPZFuSH1sDytaIA.jpeg)
 
 A tent broken by Serbian authorities after an eviction in a squat in northern Serbia\. Credit: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/pfbid09u5bxfFMTGF7WHsZrLEqTr3FqRLmGTUeqfjtNxZojBgH6a2XE6hef8hKmcvEdyPEl)
 #### SERBIA
@@ -28,7 +28,7 @@ Several people on the move who lived there reported that they were beaten, had t
 According to NNK many squats in northern Serbia have been evicted over the past two weeks, after a shooting in Horgos on 25th November\. The excuse of the shooting seems to be used at the moment by the Serbian authorities to pursue policies of criminalising people in transit\. The increase in evictions \(which were already being carried out frequently anyway\) following the shooting is once again associating and confusing security and criminality with migration\. It is enough that all people on the move, merely because they are migrating irregularly as they have no other choice, are automatically thought of as criminals\.
 
 
-![Evicted informal camp in Serbia\. Credit: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/pcb.1628047867593491/1628045880927023)](assets/682953c0757e/1*khEQob9dTOnAX4C7z5hEWw.jpeg)
+![Evicted informal camp in Serbia\. Credit: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/pcb.1628047867593491/1628045880927023)](../assets/682953c0757e/1*khEQob9dTOnAX4C7z5hEWw.jpeg)
 
 Evicted informal camp in Serbia\. Credit: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/pcb.1628047867593491/1628045880927023)
 

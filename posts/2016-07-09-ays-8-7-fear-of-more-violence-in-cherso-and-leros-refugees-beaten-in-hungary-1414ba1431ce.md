@@ -1,19 +1,19 @@
 ---
-title: AYS 8/7: Fear of more violence in Cherso and Leros, refugees beaten in Hungary
+title: "AYS 8/7: Fear of more violence in Cherso and Leros, refugees beaten in Hungary"
 author: Are You Syrious?
 date: 2016-07-09T00:10:02.852+0100
 last_modified_at: 2016-07-10T00:02:09.615+0100
 categories: 
 tags: [refugees,europe,migration,greece,italy]
-description: In today’s digest: Anatolian hospitals refusing to admit refugee children with urgent medical conditions. Shelter in Athens urgently needed…
+description: "In today’s digest: Anatolian hospitals refusing to admit refugee children with urgent medical conditions. Shelter in Athens urgently needed…"
 image:
-  path: assets/1414ba1431ce/1*qQD_6mf6hTQo0iwm0B_cAg.jpeg
+  path: ../assets/1414ba1431ce/1*qQD_6mf6hTQo0iwm0B_cAg.jpeg
 ---
 
 ### AYS 8/7: Fear of more violence in Cherso and Leros, refugees beaten in Hungary
 
 
-![Refugees have returned to Belgrade after being beaten by Hungarian police\. Photo: Info Park](assets/1414ba1431ce/1*qQD_6mf6hTQo0iwm0B_cAg.jpeg)
+![Refugees have returned to Belgrade after being beaten by Hungarian police\. Photo: Info Park](../assets/1414ba1431ce/1*qQD_6mf6hTQo0iwm0B_cAg.jpeg)
 
 Refugees have returned to Belgrade after being beaten by Hungarian police\. Photo: Info Park
 
@@ -26,7 +26,7 @@ According to [Reuters agency](http://mobile.reuters.com/article/idUSKCN0ZN0U2?fe
 ### Anatolian hospitals refusing to admit refugee children with urgent medical conditions
 
 
-![Turned down by the doctors: 14\-year old Rihan\. Photo: Gerard Kennedy‎, KKIP](assets/1414ba1431ce/1*uYZbA-geLF5wKybW7wdM7g.jpeg)
+![Turned down by the doctors: 14\-year old Rihan\. Photo: Gerard Kennedy‎, KKIP](../assets/1414ba1431ce/1*uYZbA-geLF5wKybW7wdM7g.jpeg)
 
 Turned down by the doctors: 14\-year old Rihan\. Photo: Gerard Kennedy‎, KKIP
 
@@ -35,7 +35,7 @@ Speaking out about living conditions of Syrian refugees in Turkey, Kas Kastellor
 ### In the aftermath of riot and destruction on Leros, refugees afraid for their safety
 
 
-![Trashed reception office container in Leros hotspot\. Photo: Source from the gound](assets/1414ba1431ce/1*lub8TsP_0QydRAd3shdkeg.jpeg)
+![Trashed reception office container in Leros hotspot\. Photo: Source from the gound](../assets/1414ba1431ce/1*lub8TsP_0QydRAd3shdkeg.jpeg)
 
 Trashed reception office container in Leros hotspot\. Photo: Source from the gound
 
@@ -43,7 +43,7 @@ Yesterday, a big riot broke out in Leros hotspot, where 650 refugees are located
 ### **65 refugees have arrived to Lesvos today**
 
 
-![A volunteer welcoming a boat full of refugees early in the morning\. Photo: Lighthouse releif](assets/1414ba1431ce/1*5H84Tn6QV79O0A73X5vJdQ.jpeg)
+![A volunteer welcoming a boat full of refugees early in the morning\. Photo: Lighthouse releif](../assets/1414ba1431ce/1*5H84Tn6QV79O0A73X5vJdQ.jpeg)
 
 A volunteer welcoming a boat full of refugees early in the morning\. Photo: Lighthouse releif
 
@@ -54,7 +54,7 @@ According to international volunteers on Chios, many vulnerable cases are curren
 ### Eviction of Eliniko postponed, Pireaus scheduled to be cleared out soon
 
 
-![According to MSF, around 1,300 people live in “horrific conditons” inside the old Elliniko airport\. Photo: MSF](assets/1414ba1431ce/1*jYLpz76w86MzkfzNZ7I0CA.jpeg)
+![According to MSF, around 1,300 people live in “horrific conditons” inside the old Elliniko airport\. Photo: MSF](../assets/1414ba1431ce/1*jYLpz76w86MzkfzNZ7I0CA.jpeg)
 
 According to MSF, around 1,300 people live in “horrific conditons” inside the old Elliniko airport\. Photo: MSF
 
@@ -68,7 +68,7 @@ All Yazidis have been transferred to another camp and there are only Kurdish and
 Following our yesterday’s news about right\-wing militias patrolling Hungarian side of the border and catching those who try to cross the border, Info Park has published photos of severely beaten refugees who have returned to Belgrade after being attacked, allegedly by police, at Hungarian border\. Talking to the press, refugees said they were also bitten by police dogs\.
 
 
-![Refugees showing wounds after the alleged encounter with Hungarian police\. Photo: Info Park](assets/1414ba1431ce/1*YaVxrM1hIgpiTZntZSgc-Q.jpeg)
+![Refugees showing wounds after the alleged encounter with Hungarian police\. Photo: Info Park](../assets/1414ba1431ce/1*YaVxrM1hIgpiTZntZSgc-Q.jpeg)
 
 Refugees showing wounds after the alleged encounter with Hungarian police\. Photo: Info Park
 
@@ -92,7 +92,7 @@ Moving Europe has confirmed our reports about people waiting up to four weeks in
 Apart from makeshift border camps, refugees in Northern Serbia can make use of a state\-run One stop refugee center in Subotica\. According to the report, due to the increased number of pushbacks from Hungary, the camp is overcrowded at the moment and people have to sleep in tents outside\.
 
 
-![One stop centre in Subotica, where refugees can rest for a day before continuing their trip\. Photo: Moving Europe](assets/1414ba1431ce/1*d-LUW4JOvAaTYYhX50EwpQ.jpeg)
+![One stop centre in Subotica, where refugees can rest for a day before continuing their trip\. Photo: Moving Europe](../assets/1414ba1431ce/1*d-LUW4JOvAaTYYhX50EwpQ.jpeg)
 
 One stop centre in Subotica, where refugees can rest for a day before continuing their trip\. Photo: Moving Europe
 
@@ -105,7 +105,7 @@ Due to many new arrivals, tents are urgently needed on both Kelebija and Horgoš
 Iraqi refugees staying at the Porin hotel in Zagreb held a press conference today, warning about situation in their homeland\.
 
 
-![Iraqi refugees standing in front of the journalists outside of Porin hotel\. Photo: Welcome initiative](assets/1414ba1431ce/1*SMfi8mSXJ2Ezr-B5EwDPlw.jpeg)
+![Iraqi refugees standing in front of the journalists outside of Porin hotel\. Photo: Welcome initiative](../assets/1414ba1431ce/1*SMfi8mSXJ2Ezr-B5EwDPlw.jpeg)
 
 Iraqi refugees standing in front of the journalists outside of Porin hotel\. Photo: Welcome initiative
 
@@ -124,7 +124,7 @@ Iraqi refugees standing in front of the journalists outside of Porin hotel\. Pho
 The new mayor of Italy’s capital, Virginia Raggi, met with social politics councillor, the prefect and the chief of local police, to discuss the issue of refugees in Rome’s Via Cupa, according to [Il Giornale](http://www.ilgiornale.it/news/cronache/mossa-raggi-i-migranti-cupa-1281403.html) \. Hundreds of people who have been landing in Sicily have settled in Rome, in a street tent camp managed by the Baobab Experience volunteers\. Their refugee centre was forced to close last December, following a decision by the City officials\. The volunteers, therefore, set up the tents in the street in order to welcome all the people\. Due to a large number of arrivals, big part of the street recently turned into a provisional refugee camp\. Police tried to empty it out a month ago, but refugees and volunteers opposed the eviction\. The mayor has now expressed her wish to find a solution together with associations involved that would include bringing the street back into its original state, thus also answering the locals’ demands to clear out the neighborhood, and finding a proper place to relocate the people staying there\. The proposal made by the Baobab volunteers, to relocate the refugees to the abandoned building of the ex Istituto Ittiogenico \(previously [occupied](http://roma.repubblica.it/cronaca/2016/04/16/news/roma_attivisti_occupano_il_nuovo_baobab_la_polizia_li_sgombera-137759006/) by the volunteers\), will be considered at the meeting with the officials from the Office for social politics\. The deadline for a solution to the problem, agreed by all parties, is next week\.
 
 
-![Police already tried to empty out Baobab’s street camp a month ago\. Photo: Baobab Experience](assets/1414ba1431ce/1*wAAWzofjg_nsEbJLWyDhMg.jpeg)
+![Police already tried to empty out Baobab’s street camp a month ago\. Photo: Baobab Experience](../assets/1414ba1431ce/1*wAAWzofjg_nsEbJLWyDhMg.jpeg)
 
 Police already tried to empty out Baobab’s street camp a month ago\. Photo: Baobab Experience
 ### Pordenone and Udine blocking public WiFi to get rid of refugees who are using it
@@ -135,7 +135,7 @@ Mayors of two cities in the Friuli region of Italy introduced, as they said, “
 According to the Italian press, 3 drivers were arrested in an operation by the Italian and French police forces, on the border between the two countries\. The people involved were trafficking 27 migrants in two vehicles\. The migrants, all from Sub Saharan Africa and Pakistan, were found in bad condition\. It is reported that they each paid from 100 to 150 euro to cross the border\. They were given a meal and taken to migration centres in the South of Italy\.
 
 
-![People found in a smuggler’s van on Italian\-French border\- Photo: ANSA](assets/1414ba1431ce/1*cIFksD-iIYo1bwSOxqjYtw.jpeg)
+![People found in a smuggler’s van on Italian\-French border\- Photo: ANSA](../assets/1414ba1431ce/1*cIFksD-iIYo1bwSOxqjYtw.jpeg)
 
 People found in a smuggler’s van on Italian\-French border\- Photo: ANSA
 

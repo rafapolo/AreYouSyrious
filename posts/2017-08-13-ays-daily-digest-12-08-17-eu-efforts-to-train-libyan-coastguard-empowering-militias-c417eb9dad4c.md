@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 12/08/17: EU efforts to train Libyan coastguard empowering militias
+title: "AYS Daily Digest 12/08/17: EU efforts to train Libyan coastguard empowering militias"
 author: Are You Syrious?
 date: 2017-08-13T05:26:57.130+0100
 last_modified_at: 2017-08-13T12:32:37.289+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,greece,libya,syria,sweden]
 description: Number of refugees crossing Mediterranean halved, but at what cost? / Seven White Helmets killed overnight in Idlib province / No Border…
 image:
-  path: assets/c417eb9dad4c/1*kt1nuRRCvA3c_zoHnLU7lw.jpeg
+  path: ../assets/c417eb9dad4c/1*kt1nuRRCvA3c_zoHnLU7lw.jpeg
 ---
 
 ### AYS Daily Digest 12/08/17: EU efforts to train Libyan coastguard empowering militias
@@ -15,7 +15,7 @@ image:
 Number of refugees crossing Mediterranean halved, but at what cost? / Seven White Helmets killed overnight in Idlib province / No Border Kitchen highlights Greece’s failure to give refugees decent food / Austria amplifies patrols on Italian border / Swedish youth gather to provide refugees with blankets / And more news…
 
 
-![An example of the type of boat that smugglers pack hundreds of people onto \(Photo by MSF Sea\)](assets/c417eb9dad4c/1*kt1nuRRCvA3c_zoHnLU7lw.jpeg)
+![An example of the type of boat that smugglers pack hundreds of people onto \(Photo by MSF Sea\)](../assets/c417eb9dad4c/1*kt1nuRRCvA3c_zoHnLU7lw.jpeg)
 
 An example of the type of boat that smugglers pack hundreds of people onto \(Photo by MSF Sea\)
 #### FEATURE: Mediterranean crossings halved, but at what cost?
@@ -30,7 +30,7 @@ Despite having access to this information, the EU continues to pursue its plan t
 #### Syria
 
 
-![](assets/c417eb9dad4c/1*vIPv0op51pdzsNEi9p3ebw.jpeg)
+![](../assets/c417eb9dad4c/1*vIPv0op51pdzsNEi9p3ebw.jpeg)
 
 ### Seven White Helmets murdered by unknown assailants
 
@@ -131,15 +131,15 @@ France is not showing intention to threat people more humainly, at least accorin
 These are some of the images from Paris today\.
 
 
-![](assets/c417eb9dad4c/1*YJTYPn-NEjrEDEHvDH4r6A.jpeg)
+![](../assets/c417eb9dad4c/1*YJTYPn-NEjrEDEHvDH4r6A.jpeg)
 
 
 
-![](assets/c417eb9dad4c/1*d_OGdJyMRK4PnaN1tEIdLw.jpeg)
+![](../assets/c417eb9dad4c/1*d_OGdJyMRK4PnaN1tEIdLw.jpeg)
 
 
 
-![Photo by Heather Young\.](assets/c417eb9dad4c/1*l3Fbvg9l8q6qKGWs0o9Okg.jpeg)
+![Photo by Heather Young\.](../assets/c417eb9dad4c/1*l3Fbvg9l8q6qKGWs0o9Okg.jpeg)
 
 Photo by Heather Young\.
 #### Sweden
@@ -148,11 +148,11 @@ Photo by Heather Young\.
 Protest in Stockholm continues and more people joined even today\. [Reports from the Medborgarplatsen](https://www.facebook.com/groups/808057209336108/permalink/1004243129717514/) are telling about peole who are sharing sleeping bags and helping each other\. “If someone has fallen asleep without a blanket, someone is tucking that person in\. It’s a warming sight even though the mornings can be chilling\.”
 
 
-![](assets/c417eb9dad4c/1*zquJbYNnkzt6Ur8L9303ng.jpeg)
+![](../assets/c417eb9dad4c/1*zquJbYNnkzt6Ur8L9303ng.jpeg)
 
 
 
-![Photo by AYS\.](assets/c417eb9dad4c/1*DWPxLXZVjl3BJ_lsiYDzgQ.jpeg)
+![Photo by AYS\.](../assets/c417eb9dad4c/1*DWPxLXZVjl3BJ_lsiYDzgQ.jpeg)
 
 Photo by AYS\.
 

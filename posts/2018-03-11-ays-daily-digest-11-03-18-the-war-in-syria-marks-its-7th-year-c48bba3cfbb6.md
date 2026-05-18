@@ -1,5 +1,5 @@
 ---
-title: AYS Daily digest 11/03/18: The war in Syria marks its 7th year
+title: "AYS Daily digest 11/03/18: The war in Syria marks its 7th year"
 author: Are You Syrious?
 date: 2018-03-11T22:51:48.206+0000
 last_modified_at: 2018-03-13T14:42:01.547+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,syria,italy]
 description: Air strikes, fighting and more deaths in Ghouta / Fear increases in Afrin / Nearly 2000 people sleeping rough in Paris / Update on sea…
 image:
-  path: assets/c48bba3cfbb6/1*ZuCSDgJVAsPI-mdWfQqNVQ.jpeg
+  path: ../assets/c48bba3cfbb6/1*ZuCSDgJVAsPI-mdWfQqNVQ.jpeg
 ---
 
 ### AYS Daily digest 11/03/18: The war in Syria marks its 7th year
@@ -15,7 +15,7 @@ image:
 _Air strikes, fighting and more deaths in Ghouta / Fear increases in Afrin / Nearly 2000 people sleeping rough in Paris / Update on sea arrivals to Italy / Experienced volunteers needed in several locations in both Greece and France / Information about asylum in UK / and more news\. \._
 
 
-![Dreaming of another, peaceful future\. Drawing: Gio, from [**Art Against**](https://www.facebook.com/artagainstproject/?hc_ref=ARSKy4r932QAAY7apya_OPoO5Ec6ps1CCbjln8zbbcGoLPC1iUj4hgS6VWhVCzqW6cQ&fref=nf)](assets/c48bba3cfbb6/1*ZuCSDgJVAsPI-mdWfQqNVQ.jpeg)
+![Dreaming of another, peaceful future\. Drawing: Gio, from [**Art Against**](https://www.facebook.com/artagainstproject/?hc_ref=ARSKy4r932QAAY7apya_OPoO5Ec6ps1CCbjln8zbbcGoLPC1iUj4hgS6VWhVCzqW6cQ&fref=nf)](../assets/c48bba3cfbb6/1*ZuCSDgJVAsPI-mdWfQqNVQ.jpeg)
 
 Dreaming of another, peaceful future\. Drawing: Gio, from [**Art Against**](https://www.facebook.com/artagainstproject/?hc_ref=ARSKy4r932QAAY7apya_OPoO5Ec6ps1CCbjln8zbbcGoLPC1iUj4hgS6VWhVCzqW6cQ&fref=nf)
 #### Feature — timeline of humanitarian tragedy
@@ -49,7 +49,7 @@ The number of Syrian refugees registered reaches **4 millions in July 2015\. In 
 _And here we are today, the 11th of March 2018, it’s not over yet\. Seven years of war, and millions of people are still living in the middle of it\. The neighbouring countries are hosts to more people than they can manage to take care of\. Ghouta is ongoing\. The borders in Europe are closed\._
 
 
-![Ghouta, March 2018\. Photo: Abdulmonam Eassa, from [**Art Against**](https://www.facebook.com/artagainstproject/?hc_ref=ARQCJ3KTG4c8HRa9bZnnqnl6VoYVHqUzfG4y6v3JSjY2fUYdlvwwHR2frCCL7Plh0Kk&fref=nf)](assets/c48bba3cfbb6/1*Dlmzrcorc9j4osg-dQdOKg.jpeg)
+![Ghouta, March 2018\. Photo: Abdulmonam Eassa, from [**Art Against**](https://www.facebook.com/artagainstproject/?hc_ref=ARQCJ3KTG4c8HRa9bZnnqnl6VoYVHqUzfG4y6v3JSjY2fUYdlvwwHR2frCCL7Plh0Kk&fref=nf)](../assets/c48bba3cfbb6/1*Dlmzrcorc9j4osg-dQdOKg.jpeg)
 
 Ghouta, March 2018\. Photo: Abdulmonam Eassa, from [**Art Against**](https://www.facebook.com/artagainstproject/?hc_ref=ARQCJ3KTG4c8HRa9bZnnqnl6VoYVHqUzfG4y6v3JSjY2fUYdlvwwHR2frCCL7Plh0Kk&fref=nf)
 #### Syria — Ghouta
@@ -70,7 +70,7 @@ The legitimacy and goals of the different groups is another topic: what’s impo
 [Yesterday marked the 50th day of the Turkish offensive](http://www.syriahr.com/en/?p=86469) , operation Olive Branch, in Afrin\. Since it started the 20th January, the Kurdish autonomy in the region is more under threat than ever\. Reportedly, the people of Afrin have taken shelter in basements and different safe places underground, as the Turkish army and airforce are present and continues to spread fear\. Hundreds of thousands people are living in the northern parts of Afrin city, many of them farmers living on the countryside\. Approximately 12,000 civilians have been forced to flee their homes in northern Afrin and the northern parts of Aleppo’s countryside, according to The Syrian Observatory for Human Rights \(SOHR\) \. SOHR documented 204 deaths since the start of the Turkish intervention in Afrin the 20th of January this year\. Syrian citizens of different backgrounds are among the victims, Kurds, Arabs and Armenians, including 32 children and 26 women\.
 
 
-![Photo: [**Irida ίριδα إريدا**](https://www.facebook.com/IridaWomensCentre/?hc_ref=ARSZdqkk64AU6comQRNUIuxLYebs2pM0gdZvssqnVLvadAgGZc7eWkxQf7GkjDC7NwA&fref=nf)](assets/c48bba3cfbb6/1*NMLfYToc5s_MqHv3t7NjUg.jpeg)
+![Photo: [**Irida ίριδα إريدا**](https://www.facebook.com/IridaWomensCentre/?hc_ref=ARSZdqkk64AU6comQRNUIuxLYebs2pM0gdZvssqnVLvadAgGZc7eWkxQf7GkjDC7NwA&fref=nf)](../assets/c48bba3cfbb6/1*NMLfYToc5s_MqHv3t7NjUg.jpeg)
 
 Photo: [**Irida ίριδα إريدا**](https://www.facebook.com/IridaWomensCentre/?hc_ref=ARSZdqkk64AU6comQRNUIuxLYebs2pM0gdZvssqnVLvadAgGZc7eWkxQf7GkjDC7NwA&fref=nf)
 #### BALKAN WEATHER REPORT
@@ -119,11 +119,11 @@ On Sunday, there was a fight\. Some of the people living in Ventimiglia decided 
 As a cause of the recent developments in Italy, who are already noticeable on the ground, several of the men have been too frightened to leave the bridge\. The local priest, who is fighting fascism the way he can, has been knocking doors, trying to make people a bit more friendly minded\. We hope this will have an effect soon\.
 
 
-![](assets/c48bba3cfbb6/1*kXa54XRzmjQLh7nf33R2Jw.jpeg)
+![](../assets/c48bba3cfbb6/1*kXa54XRzmjQLh7nf33R2Jw.jpeg)
 
 
 
-![Ventimiglia\. Photos: SolidariTea](assets/c48bba3cfbb6/1*PfTSDOoSHOkN751oHuEUKw.jpeg)
+![Ventimiglia\. Photos: SolidariTea](../assets/c48bba3cfbb6/1*PfTSDOoSHOkN751oHuEUKw.jpeg)
 
 Ventimiglia\. Photos: SolidariTea
 #### Greece
@@ -133,7 +133,7 @@ Ventimiglia\. Photos: SolidariTea
 [From March 25](https://www.facebook.com/OpenCulturalCenter/photos/a.1304076196287462.1073741828.1302471973114551/2059414800753594/?type=3&theater) , [**Open Cultural Center — OCC**](https://www.facebook.com/OpenCulturalCenter/?hc_ref=ARS76UN_f0zMKuZiBxJ_uo4BrpsksTXhSX6YDu1dzQsvZvjWYC8GGdbUSlAaZR8jZ1Y&fref=nf) is in need of volunteers in Polikastro, Northern Greece\. You need to have a good level of English, be over 23 years old and have some previous experience from teaching\. If this sounds like you, send an email to hhrr@openculturalcenter\.org\.
 
 
-![Photo: [**Open Cultural Center — OCC**](https://www.facebook.com/OpenCulturalCenter/?hc_ref=ARS76UN_f0zMKuZiBxJ_uo4BrpsksTXhSX6YDu1dzQsvZvjWYC8GGdbUSlAaZR8jZ1Y&fref=nf)](assets/c48bba3cfbb6/1*Mi_SHEWZXymk0gCnPBkxog.jpeg)
+![Photo: [**Open Cultural Center — OCC**](https://www.facebook.com/OpenCulturalCenter/?hc_ref=ARS76UN_f0zMKuZiBxJ_uo4BrpsksTXhSX6YDu1dzQsvZvjWYC8GGdbUSlAaZR8jZ1Y&fref=nf)](../assets/c48bba3cfbb6/1*Mi_SHEWZXymk0gCnPBkxog.jpeg)
 
 Photo: [**Open Cultural Center — OCC**](https://www.facebook.com/OpenCulturalCenter/?hc_ref=ARS76UN_f0zMKuZiBxJ_uo4BrpsksTXhSX6YDu1dzQsvZvjWYC8GGdbUSlAaZR8jZ1Y&fref=nf)
 
@@ -144,7 +144,7 @@ In Serres, northern Greece, a german teacher is needed\. Experience is great, bu
 Get in touch with: greecevolunteer@liftinghandsinternational\.org if you have skills and time to help out\.
 
 
-![Photo: [**Anika Patel**](https://www.facebook.com/anika.12?fref=gs&hc_ref=ARTUGIf0M1aDaYxvIvWkpEkSpxJkRJ-uLtRDCcdXxFkV5eROQxQ6mIEe7lLYuOdm-qY&dti=228469170832717&hc_location=group)](assets/c48bba3cfbb6/1*ucXrwVAfvtm3XVRiDsxOtA.jpeg)
+![Photo: [**Anika Patel**](https://www.facebook.com/anika.12?fref=gs&hc_ref=ARTUGIf0M1aDaYxvIvWkpEkSpxJkRJ-uLtRDCcdXxFkV5eROQxQ6mIEe7lLYuOdm-qY&dti=228469170832717&hc_location=group)](../assets/c48bba3cfbb6/1*ucXrwVAfvtm3XVRiDsxOtA.jpeg)
 
 Photo: [**Anika Patel**](https://www.facebook.com/anika.12?fref=gs&hc_ref=ARTUGIf0M1aDaYxvIvWkpEkSpxJkRJ-uLtRDCcdXxFkV5eROQxQ6mIEe7lLYuOdm-qY&dti=228469170832717&hc_location=group)
 
@@ -155,7 +155,7 @@ Photo: [**Anika Patel**](https://www.facebook.com/anika.12?fref=gs&hc_ref=ARTUGI
 For more information about the demography and arrivals, follow [this link\.](https://www.facebook.com/AegeanBoatReport/posts/317774038745707)
 
 
-![Boat picked up outside Agrilia, 45 people\. Photo and info: [**Aegean Boat Report**](https://www.facebook.com/AegeanBoatReport/?hc_ref=ARThuTLwuX0y4ld8LQyaRS5GCMqbJ4JZXsIBnjtfgOC5H2phCmWtZJOhNEvQwPBsP3U)](assets/c48bba3cfbb6/1*KoH2_Amp_aZ9XCqe8UcBtg.jpeg)
+![Boat picked up outside Agrilia, 45 people\. Photo and info: [**Aegean Boat Report**](https://www.facebook.com/AegeanBoatReport/?hc_ref=ARThuTLwuX0y4ld8LQyaRS5GCMqbJ4JZXsIBnjtfgOC5H2phCmWtZJOhNEvQwPBsP3U)](../assets/c48bba3cfbb6/1*KoH2_Amp_aZ9XCqe8UcBtg.jpeg)
 
 Boat picked up outside Agrilia, 45 people\. Photo and info: [**Aegean Boat Report**](https://www.facebook.com/AegeanBoatReport/?hc_ref=ARThuTLwuX0y4ld8LQyaRS5GCMqbJ4JZXsIBnjtfgOC5H2phCmWtZJOhNEvQwPBsP3U)
 
@@ -172,7 +172,7 @@ And as they write:
 
 
 
-![Morning sun at Lesvos\. Photo: [**Lesvos Solidarity — Pikpa**](https://www.facebook.com/pikpalesvos/?hc_ref=ARTa36B4-4P24XURkHnIUuhFZAC0MliRX8_tWtJA-R0rIfLv1zgQEuoiM6RLVHBXtdA&fref=nf)](assets/c48bba3cfbb6/1*E5fTaWw7-uVaYcNZ5s3C8Q.png)
+![Morning sun at Lesvos\. Photo: [**Lesvos Solidarity — Pikpa**](https://www.facebook.com/pikpalesvos/?hc_ref=ARTa36B4-4P24XURkHnIUuhFZAC0MliRX8_tWtJA-R0rIfLv1zgQEuoiM6RLVHBXtdA&fref=nf)](../assets/c48bba3cfbb6/1*E5fTaWw7-uVaYcNZ5s3C8Q.png)
 
 Morning sun at Lesvos\. Photo: [**Lesvos Solidarity — Pikpa**](https://www.facebook.com/pikpalesvos/?hc_ref=ARTa36B4-4P24XURkHnIUuhFZAC0MliRX8_tWtJA-R0rIfLv1zgQEuoiM6RLVHBXtdA&fref=nf)
 
@@ -181,7 +181,7 @@ Morning sun at Lesvos\. Photo: [**Lesvos Solidarity — Pikpa**](https://www.fac
 In May, Boat Refugee Foundation will start their work in Moria\. In order to do so, they need skilled volunteers\. Doctors and nurses, who can dedicate some of their time and help people who need medical treatment in the horrible detention camp Moria\. If you are interested in helping, have a look and get in [touch here\.](http://bit.ly/2Fx6Kz0)
 
 
-![](assets/c48bba3cfbb6/1*oc73RBAmQ43pfsBJ3PGphg.jpeg)
+![](../assets/c48bba3cfbb6/1*oc73RBAmQ43pfsBJ3PGphg.jpeg)
 
 
 **Chios**
@@ -194,7 +194,7 @@ TRIODOS
 ES85 1491 0001 2330 0006 6566
 
 
-![The much needed van\. Photo: [**Balloona Matata**](https://www.facebook.com/BalloonaMatata/?hc_ref=ARR3mKX4QrHDjgKPZ3GpVBdKFP2jAKlGOhOI4aX6MM7FvMKNZHhVN0FQp3zxDDFsdHE&fref=nf)](assets/c48bba3cfbb6/1*Z-9t6QZo4Nr12yztuIOWEA.jpeg)
+![The much needed van\. Photo: [**Balloona Matata**](https://www.facebook.com/BalloonaMatata/?hc_ref=ARR3mKX4QrHDjgKPZ3GpVBdKFP2jAKlGOhOI4aX6MM7FvMKNZHhVN0FQp3zxDDFsdHE&fref=nf)](../assets/c48bba3cfbb6/1*Z-9t6QZo4Nr12yztuIOWEA.jpeg)
 
 The much needed van\. Photo: [**Balloona Matata**](https://www.facebook.com/BalloonaMatata/?hc_ref=ARR3mKX4QrHDjgKPZ3GpVBdKFP2jAKlGOhOI4aX6MM7FvMKNZHhVN0FQp3zxDDFsdHE&fref=nf)
 
@@ -212,7 +212,7 @@ Please consider purchasing a pair of sneakers, or a $10 gift card from the whole
 [Care4Calais](https://www.facebook.com/groups/956020314476605/permalink/1647095575369072/) currently needs new volunteers to join them for their important mission in Calais\. If you have time and can help, get in touch with clare@care4calais\.org\. If you know someone who might, spread the word\!
 
 
-![Photo: [**Care4Calais**](https://www.facebook.com/care4calais/)](assets/c48bba3cfbb6/1*vGH5CkwRnqq_VJZ8aEiZuw.jpeg)
+![Photo: [**Care4Calais**](https://www.facebook.com/care4calais/)](../assets/c48bba3cfbb6/1*vGH5CkwRnqq_VJZ8aEiZuw.jpeg)
 
 Photo: [**Care4Calais**](https://www.facebook.com/care4calais/)
 
@@ -227,18 +227,18 @@ This is Paris earlier today\. Rain is pouring and the weather cold, as AYS repor
 Night time, people are squeezing themselves into small tents, cheap ones, that doesn’t even resist summer rain\. Paris Refugee Ground support estimates that 1,200 people are sleeping under the bridges only\.
 
 
-![](assets/c48bba3cfbb6/1*ZWSc9Gs49Qd65U2rSlDNsg.jpeg)
+![](../assets/c48bba3cfbb6/1*ZWSc9Gs49Qd65U2rSlDNsg.jpeg)
 
 
 
-![Photo: [**Paris Refugee Ground Support**](https://www.facebook.com/PRGS.team/?hc_ref=ARSY_G2Lh1gmCUhV3zOdw3I6begGb5EANnZql_rg8cnArl4i-ZN5iALC6SMk_leI0do&hc_location=group)](assets/c48bba3cfbb6/1*ouXbJiRQVx0YiBtJFWgWFg.jpeg)
+![Photo: [**Paris Refugee Ground Support**](https://www.facebook.com/PRGS.team/?hc_ref=ARSY_G2Lh1gmCUhV3zOdw3I6begGb5EANnZql_rg8cnArl4i-ZN5iALC6SMk_leI0do&hc_location=group)](../assets/c48bba3cfbb6/1*ouXbJiRQVx0YiBtJFWgWFg.jpeg)
 
 Photo: [**Paris Refugee Ground Support**](https://www.facebook.com/PRGS.team/?hc_ref=ARSY_G2Lh1gmCUhV3zOdw3I6begGb5EANnZql_rg8cnArl4i-ZN5iALC6SMk_leI0do&hc_location=group)
 
 To at least try and change this, as volunteers do every day, there is an urgent need of experienced volunteers with a van, [**Rastplatz**](https://www.facebook.com/rastplatz/?hc_ref=ARSiGvBHGpxmWNi7Cf_SgCmkG54RbgsnjCwHx4SY6bJg6gEx_xYin9aKfKmgYjVsbkM&fref=nf) says\. They are supporting [**Paris Refugee Ground Support**](https://www.facebook.com/PRGS.team/?hc_ref=ARSY_G2Lh1gmCUhV3zOdw3I6begGb5EANnZql_rg8cnArl4i-ZN5iALC6SMk_leI0do&hc_location=group) **,** who are in need of a second team of volunteers for night distributions\. Get in touch with either one of the groups on Facebook if you can help\. Deliveries to and from the warehouse in Calais is also requested\.
 
 
-![Photo: [**Rastplatz**](https://www.facebook.com/rastplatz/?hc_ref=ARSiGvBHGpxmWNi7Cf_SgCmkG54RbgsnjCwHx4SY6bJg6gEx_xYin9aKfKmgYjVsbkM&fref=nf)](assets/c48bba3cfbb6/1*fVnKGHilK9gnpEDD0g9LuQ.jpeg)
+![Photo: [**Rastplatz**](https://www.facebook.com/rastplatz/?hc_ref=ARSiGvBHGpxmWNi7Cf_SgCmkG54RbgsnjCwHx4SY6bJg6gEx_xYin9aKfKmgYjVsbkM&fref=nf)](../assets/c48bba3cfbb6/1*fVnKGHilK9gnpEDD0g9LuQ.jpeg)
 
 Photo: [**Rastplatz**](https://www.facebook.com/rastplatz/?hc_ref=ARSiGvBHGpxmWNi7Cf_SgCmkG54RbgsnjCwHx4SY6bJg6gEx_xYin9aKfKmgYjVsbkM&fref=nf)
 
@@ -249,7 +249,7 @@ Photo: [**Rastplatz**](https://www.facebook.com/rastplatz/?hc_ref=ARSiGvBHGpxmWN
 Deaths as Karim’s should never happen this way\.
 
 
-![Karim and a group of volunteers\. Photo: [**Paris Refugee Ground Support**](https://www.facebook.com/PRGS.team/?hc_ref=ARTIQopupTAT0MhCyKBqe5WUkLggwtS_qNMQyT1r0NIthwmW0bB7ufL25KuycBG79AY)](assets/c48bba3cfbb6/1*EcOJUZKKBvmKwhsgOP-BZw.jpeg)
+![Karim and a group of volunteers\. Photo: [**Paris Refugee Ground Support**](https://www.facebook.com/PRGS.team/?hc_ref=ARTIQopupTAT0MhCyKBqe5WUkLggwtS_qNMQyT1r0NIthwmW0bB7ufL25KuycBG79AY)](../assets/c48bba3cfbb6/1*EcOJUZKKBvmKwhsgOP-BZw.jpeg)
 
 Karim and a group of volunteers\. Photo: [**Paris Refugee Ground Support**](https://www.facebook.com/PRGS.team/?hc_ref=ARTIQopupTAT0MhCyKBqe5WUkLggwtS_qNMQyT1r0NIthwmW0bB7ufL25KuycBG79AY)
 #### UK

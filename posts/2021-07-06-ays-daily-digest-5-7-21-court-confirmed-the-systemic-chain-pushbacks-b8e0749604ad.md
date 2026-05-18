@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 5/7/21: Court confirmed the systemic chain pushbacks
+title: "AYS Daily Digest 5/7/21: Court confirmed the systemic chain pushbacks"
 author: Are You Syrious?
 date: 2021-07-06T17:15:08.744+0100
 last_modified_at: 2021-07-06T17:15:08.744+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,austria,europe,human-rights]
 description: New report on the consequences of the EU-Turkey statement for Syrian asylum seekers in Greek hotspots / 212 people were intercepted by UK…
 image:
-  path: assets/b8e0749604ad/1*tv7SNxHyoR-ZvHV-otdJhQ.jpeg
+  path: ../assets/b8e0749604ad/1*tv7SNxHyoR-ZvHV-otdJhQ.jpeg
 ---
 
 ### AYS Daily Digest 5/7/21: Court confirmed the systemic chain pushbacks
 #### New report on the consequences of the EU\-Turkey statement for Syrian asylum seekers in Greek hotspots / 212 people were intercepted by UK vessels on Sunday, ahead of the UK Government’s announcement of harsh measures for people arriving by boats to seek protection / recommended reads & more
 
 
-![Photo: [Push\-Back Alarm Austria](https://www.facebook.com/PushBackAlarmAustria/?__cft__[0]=AZUV_mNIOb1Xx_XmHZNwOkCHTEyCa7IdkYWAm_dih1HMwyOQMSY3RObT8ACGj_sMy1jpleJEhnqqSrXxyFj2h-ErFUy8-ZlZu9Vl4ysxkzhIFpBPS6DANA8vh0QpQtF0isokcdMKEbIKk7mpNSK49GH_&__tn__=-UC*F)](assets/b8e0749604ad/1*tv7SNxHyoR-ZvHV-otdJhQ.jpeg)
+![Photo: [Push\-Back Alarm Austria](https://www.facebook.com/PushBackAlarmAustria/?__cft__[0]=AZUV_mNIOb1Xx_XmHZNwOkCHTEyCa7IdkYWAm_dih1HMwyOQMSY3RObT8ACGj_sMy1jpleJEhnqqSrXxyFj2h-ErFUy8-ZlZu9Vl4ysxkzhIFpBPS6DANA8vh0QpQtF0isokcdMKEbIKk7mpNSK49GH_&__tn__=-UC*F)](../assets/b8e0749604ad/1*tv7SNxHyoR-ZvHV-otdJhQ.jpeg)
 
 Photo: [Push\-Back Alarm Austria](https://www.facebook.com/PushBackAlarmAustria/?__cft__[0]=AZUV_mNIOb1Xx_XmHZNwOkCHTEyCa7IdkYWAm_dih1HMwyOQMSY3RObT8ACGj_sMy1jpleJEhnqqSrXxyFj2h-ErFUy8-ZlZu9Vl4ysxkzhIFpBPS6DANA8vh0QpQtF0isokcdMKEbIKk7mpNSK49GH_&__tn__=-UC*F)
 #### FEATURED — Court confirms systematic human rights violations by Austrian police
@@ -115,11 +115,11 @@ Overnight, the team of SOS MEDITERRANEE performed a rescue operation of a large 
 
 
 
-![](assets/b8e0749604ad/1*0dCgnCTw371IJKeo5pz3TQ.jpeg)
+![](../assets/b8e0749604ad/1*0dCgnCTw371IJKeo5pz3TQ.jpeg)
 
 
 
-![Photos: Flavio Gasperini / SOS Mediteranee, via [Fulvia Conte](https://www.facebook.com/fulvia.conte?__cft__[0]=AZVf7ppJu7y_aQscNhirp-EeQ9HHxHkZEQGqZqduT133t5Ro2WV-OaWaPObBSrHl37FdGPUPKuojXx5RGq4xNaFHhuOjyqV0i0xH8BEtvjhSi3Hh7BAz3cfM7ylZTS3f8kQ&__tn__=-UC%2CP-R)](assets/b8e0749604ad/1*6fLg8hOleULNYf1YNhrAAQ.jpeg)
+![Photos: Flavio Gasperini / SOS Mediteranee, via [Fulvia Conte](https://www.facebook.com/fulvia.conte?__cft__[0]=AZVf7ppJu7y_aQscNhirp-EeQ9HHxHkZEQGqZqduT133t5Ro2WV-OaWaPObBSrHl37FdGPUPKuojXx5RGq4xNaFHhuOjyqV0i0xH8BEtvjhSi3Hh7BAz3cfM7ylZTS3f8kQ&__tn__=-UC%2CP-R)](../assets/b8e0749604ad/1*6fLg8hOleULNYf1YNhrAAQ.jpeg)
 
 Photos: Flavio Gasperini / SOS Mediteranee, via [Fulvia Conte](https://www.facebook.com/fulvia.conte?__cft__[0]=AZVf7ppJu7y_aQscNhirp-EeQ9HHxHkZEQGqZqduT133t5Ro2WV-OaWaPObBSrHl37FdGPUPKuojXx5RGq4xNaFHhuOjyqV0i0xH8BEtvjhSi3Hh7BAz3cfM7ylZTS3f8kQ&__tn__=-UC%2CP-R)
 
@@ -128,7 +128,7 @@ It was reported that a boat with 24 people arrived on Monday, July 5, while the 
 
 ![“At first glance, not every border materializes through a wall\. Here, the visible and invisible powers that impinge on relations between Europe and Africa\.”
  Lampedusa, Central Mediterranean, July 2021
- The Southern Gate to Fortress Europe\. — Photo: Sara Creta](assets/b8e0749604ad/1*hGT_riIkqkmSxhDbb9OnSg.jpeg)
+ The Southern Gate to Fortress Europe\. — Photo: Sara Creta](../assets/b8e0749604ad/1*hGT_riIkqkmSxhDbb9OnSg.jpeg)
 
 “At first glance, not every border materializes through a wall\. Here, the visible and invisible powers that impinge on relations between Europe and Africa\.”
  Lampedusa, Central Mediterranean, July 2021
@@ -170,7 +170,7 @@ Between January 2020 and June 2021, in the framework of our legal representation
 ### EU finances tests of submarines as a tool against migration in Greece
 
 
-![](assets/b8e0749604ad/0*GeJkOlFVw0wWGEfJ)
+![](../assets/b8e0749604ad/0*GeJkOlFVw0wWGEfJ)
 
 
 After the exercise, boasting with their expensive tools that the citizens of the EU paid for, the team [reported](https://roborder.eu/2021/07/05/demonstration-of-roborder-in-greece/) the goal was to practice and establish their “readiness towards the early detection of unauthorized sea border crossing, the immediate briefing and dispatch of the directly\-involved units and the surveillance of specific areas in order to detect and analyse incidents of illegal vessel movements\.”
@@ -193,7 +193,7 @@ BVMN’s InfoKolpa organised a webinar in the face of the coming EU presidency o
 You can re\-watch it [here](https://www.facebook.com/watch/live/?v=320537736280852&ref=watch_permalink) \.
 
 
-![](assets/b8e0749604ad/1*aGgHLFeTC_tRTbRH0ANEgw.png)
+![](../assets/b8e0749604ad/1*aGgHLFeTC_tRTbRH0ANEgw.png)
 
 
 Virtual Panel Discussion on the report by the UN Special Rapporteur on the human rights of migrants, focussing on the human rights impact of pushbacks across the world “means to address the human rights impact of pushbacks of migrants on land and at sea”\.

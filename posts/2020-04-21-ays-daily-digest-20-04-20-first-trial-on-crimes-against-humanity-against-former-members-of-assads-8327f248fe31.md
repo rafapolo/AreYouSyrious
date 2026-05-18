@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 20/04/20: First trial on Crimes against Humanity against former members of Assad’s…
+title: "AYS Daily Digest 20/04/20: First trial on Crimes against Humanity against former members of Assad’s…"
 author: Are You Syrious?
 date: 2020-04-21T16:11:57.720+0100
 last_modified_at: 2020-04-21T16:11:57.720+0100
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [refugees,europe,digest,criminal-justice,sahara]
 description: Are You Syrious?
 image:
-  path: assets/8327f248fe31/0*TQUXZSlobJDwI43l.jpeg
+  path: ../assets/8327f248fe31/0*TQUXZSlobJDwI43l.jpeg
 ---
 
 ### AYS Daily Digest 20/04/20: First trial on Crimes against Humanity against former members of Assad’s secret service
 
 
-![](assets/8327f248fe31/0*w3VumsQteYt2so6f.jpeg)
+![](../assets/8327f248fe31/0*w3VumsQteYt2so6f.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----d29b6d78b1ae----------------------)
@@ -23,11 +23,11 @@ image:
 Information on the Saharan migration route // Updates from Greece: 331 children still held in protective custody // Germany: Former Frontex staff member uncovered as fascist // New Agency for return of rejected asylum seekers to open in Denmark in August
 
 
-![](assets/8327f248fe31/0*glG505K5whktq2T4)
+![](../assets/8327f248fe31/0*glG505K5whktq2T4)
 
 
 
-![](assets/8327f248fe31/0*TQUXZSlobJDwI43l.jpeg)
+![](../assets/8327f248fe31/0*TQUXZSlobJDwI43l.jpeg)
 
 ### FEATURE: First trial against former members of Assad’s secret service about to start
 

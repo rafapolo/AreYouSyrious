@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 24/09/2018: The so-called ‘Salvini Decree’ under debate, as sources say it could…
+title: "AYS Daily Digest 24/09/2018: The so-called ‘Salvini Decree’ under debate, as sources say it could…"
 author: Are You Syrious?
 date: 2018-09-25T10:04:13.343+0100
 last_modified_at: 2018-09-25T12:38:19.045+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,greece,italy,belgium,denmark]
 description: Deportations from Morocco / 20,881 people have arrived in Italy so far in 2018 / Protest against prison-like detention in Denmark /…
 image:
-  path: assets/9543946a2671/1*9suI0v69-ACAdtkk_PTrlQ.jpeg
+  path: ../assets/9543946a2671/1*9suI0v69-ACAdtkk_PTrlQ.jpeg
 ---
 
 ### AYS Daily Digest 24/09/2018: The so\-called ‘Salvini Decree’ under debate, as sources say it could be unconstitutional
@@ -15,7 +15,7 @@ image:
 _Deportations from Morocco / 20,881 people have arrived in Italy so far in 2018 / Protest against prison\-like detention in Denmark / Humanitarian corridor to Belgium / Press conference hosted by MSF and SOS Mediterranee: it is rather criminal to bring people to the LCC than the opposite / Weather is changing in France, Greece, elsewhere — the autumn cold is coming, the needs list increases / And more news…_
 
 
-![If Salvini gets it his way, detention will increase in Italy\. Photo: [Associazione Antigone](https://www.facebook.com/antigoneonlus/?hc_ref=ARRMchqtYNLD3JZysMWT1pzSzs-z4CeoJfB1ld3i4o1OR8BiOx-iwj3STZrn8GqWpJg&fref=nf)](assets/9543946a2671/1*9suI0v69-ACAdtkk_PTrlQ.jpeg)
+![If Salvini gets it his way, detention will increase in Italy\. Photo: [Associazione Antigone](https://www.facebook.com/antigoneonlus/?hc_ref=ARRMchqtYNLD3JZysMWT1pzSzs-z4CeoJfB1ld3i4o1OR8BiOx-iwj3STZrn8GqWpJg&fref=nf)](../assets/9543946a2671/1*9suI0v69-ACAdtkk_PTrlQ.jpeg)
 
 If Salvini gets it his way, detention will increase in Italy\. Photo: [Associazione Antigone](https://www.facebook.com/antigoneonlus/?hc_ref=ARRMchqtYNLD3JZysMWT1pzSzs-z4CeoJfB1ld3i4o1OR8BiOx-iwj3STZrn8GqWpJg&fref=nf)
 ### FEATURE
@@ -68,7 +68,7 @@ Yet, the Aquarius remains at sea\. After rescuing approximately 50 people in the
 Demographics among the rescued, according to SOS Mediteranee, are as follows:
 
 
-![Photo: [SOS Mediteranee](https://onboard-aquarius.org/uploads/2018/09/0923_Rescue-recap.jpg)](assets/9543946a2671/1*ozVulDCvwJDNNlSo7E93TQ.jpeg)
+![Photo: [SOS Mediteranee](https://onboard-aquarius.org/uploads/2018/09/0923_Rescue-recap.jpg)](../assets/9543946a2671/1*ozVulDCvwJDNNlSo7E93TQ.jpeg)
 
 Photo: [SOS Mediteranee](https://onboard-aquarius.org/uploads/2018/09/0923_Rescue-recap.jpg)
 
@@ -94,7 +94,7 @@ So far this year, 20,881 people arrived in Italy\. Only in September, 880 new ar
 Volunteers and locals are still showing that Italy is not only Salvini\. In Florence, Social centar Gaetano Barberi is organizing Italian language courses for migrants\.
 
 
-![](assets/9543946a2671/1*l2vVwYqrl2YCjJr1SETXZQ.jpeg)
+![](../assets/9543946a2671/1*l2vVwYqrl2YCjJr1SETXZQ.jpeg)
 
 
 45 Tunisian refugees find themselves trapped in a limbo of bureaucracy\. [According to the Italian paper Ansa](http://www.ansa.it/.../migranti-tunisia-non-autorizza...) , Tunisia have not confirmed the repatriation of these individuals\. They therefore remain in Italy, but without the possibility to gain legal status\. After hours at the Milo to the Falcone Borsellino airport, it was still not possible to deport them to Tunis\. 40 of the people were reported back to the Trapani center, and the rest were told that they have to leave the country within 7 days\.
@@ -126,7 +126,7 @@ On Monday, 47 people arrived to Samos, 42 to Lesvos, 15 people to Strongyli Isla
 Additionally, 21 people arrived on an isolated piece of coast north of Palios, including ten children and one pregnant women\.
 
 
-![Weekly statistics from [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?hc_ref=ARQyU-ag_t7gQf8xr7GrYaYs_kVdRLOtDb44hzPfa69Ber2j-wPtrp5ZeHv0_Rj04A0&fref=nf&__xts__%5B0%5D=68.ARARBYBPQ6aiNsNedtF9smYtfnVswe-GaD8ouG__nGqqhpLAEfY62uSfI7mvhPFiqEdAs8pGbs6dZ_-SdlFTDPlCpbj26Bg5M1x0D1GvRLq7LDZ1Ac_fT3adScWSPq_lERtHF2XBRZ6WzvZMWcEg_5AIW9v9y8Z2y8ijVBpGgiVF_glh1tqZ&__tn__=kC-R) \.](assets/9543946a2671/1*Xg7JszuB1nuJUBpadUl8GA.jpeg)
+![Weekly statistics from [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?hc_ref=ARQyU-ag_t7gQf8xr7GrYaYs_kVdRLOtDb44hzPfa69Ber2j-wPtrp5ZeHv0_Rj04A0&fref=nf&__xts__%5B0%5D=68.ARARBYBPQ6aiNsNedtF9smYtfnVswe-GaD8ouG__nGqqhpLAEfY62uSfI7mvhPFiqEdAs8pGbs6dZ_-SdlFTDPlCpbj26Bg5M1x0D1GvRLq7LDZ1Ac_fT3adScWSPq_lERtHF2XBRZ6WzvZMWcEg_5AIW9v9y8Z2y8ijVBpGgiVF_glh1tqZ&__tn__=kC-R) \.](../assets/9543946a2671/1*Xg7JszuB1nuJUBpadUl8GA.jpeg)
 
 Weekly statistics from [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?hc_ref=ARQyU-ag_t7gQf8xr7GrYaYs_kVdRLOtDb44hzPfa69Ber2j-wPtrp5ZeHv0_Rj04A0&fref=nf&__xts__%5B0%5D=68.ARARBYBPQ6aiNsNedtF9smYtfnVswe-GaD8ouG__nGqqhpLAEfY62uSfI7mvhPFiqEdAs8pGbs6dZ_-SdlFTDPlCpbj26Bg5M1x0D1GvRLq7LDZ1Ac_fT3adScWSPq_lERtHF2XBRZ6WzvZMWcEg_5AIW9v9y8Z2y8ijVBpGgiVF_glh1tqZ&__tn__=kC-R) \.
 
@@ -140,7 +140,7 @@ Morning in Moria by [Omar Alshakal](https://www.facebook.com/omar.alshakal?hc_re
 Volunteers and grass root groups need help to assist all people in need\. Iranian activist in Athens, [Arash Hampay](https://www.facebook.com/arashampay?fref=gs&hc_ref=ARTM-y8cKQO4Ub52ifgRVcYsLSTQlvKd0DQglODHDYVj0m4W-vLcW3ZPzbsEI5VHYFI&dti=446386565554391&hc_location=group) , and groups of his friends from Our House are still helping those on the streets\. They need help to buy sleeping bags\.
 
 
-![By Our House](assets/9543946a2671/1*I187Ppx6G2T-x5Q1sDei6w.jpeg)
+![By Our House](../assets/9543946a2671/1*I187Ppx6G2T-x5Q1sDei6w.jpeg)
 
 By Our House
 
@@ -184,7 +184,7 @@ The group also say that the Danish state “aims to make life intolerable for th
 More detailed information about the Danish detention policy can [be found here\.](https://www.globaldetentionproject.org/countries/europe/denmark)
 
 
-![Message from the protestors \(translated from Danish\): “We demand all imprisoned refugees release\! We demand the closure of the Ellebæk Prison\! We are protesting against the government’s brutal tactics\!” Photo: [Close Kærshovedgård Deportation Camp](https://www.facebook.com/CLOSEKGH/?hc_ref=ARS3xKKo6M5CXxuUPTbwmCKFRitAHRkW1kbN055OfPL2SkjsTdfN2pOQLA6TQoTqPtE&fref=nf&__xts__%5B0%5D=68.ARDaFNDESqLP5osrvPZ90ZEchXfdEXPiCslg8F3-6lNxtlw0dJPcqDg5emon-IffsJ859Sc2MT7q9KMdCC2DuDpPikv8d_XwbXOFetPdMPTkGe8S5Z_jM1zPC_zRJH2eAWV81R1MWeFGIUU5iiYZIn_5zQC1cY-msYtuEQ2gzyqmOMc8d540IQ&__tn__=kC-R)](assets/9543946a2671/1*-VwYF8FSm2Mq1bimx_Aj6g.jpeg)
+![Message from the protestors \(translated from Danish\): “We demand all imprisoned refugees release\! We demand the closure of the Ellebæk Prison\! We are protesting against the government’s brutal tactics\!” Photo: [Close Kærshovedgård Deportation Camp](https://www.facebook.com/CLOSEKGH/?hc_ref=ARS3xKKo6M5CXxuUPTbwmCKFRitAHRkW1kbN055OfPL2SkjsTdfN2pOQLA6TQoTqPtE&fref=nf&__xts__%5B0%5D=68.ARDaFNDESqLP5osrvPZ90ZEchXfdEXPiCslg8F3-6lNxtlw0dJPcqDg5emon-IffsJ859Sc2MT7q9KMdCC2DuDpPikv8d_XwbXOFetPdMPTkGe8S5Z_jM1zPC_zRJH2eAWV81R1MWeFGIUU5iiYZIn_5zQC1cY-msYtuEQ2gzyqmOMc8d540IQ&__tn__=kC-R)](../assets/9543946a2671/1*-VwYF8FSm2Mq1bimx_Aj6g.jpeg)
 
 Message from the protestors \(translated from Danish\): “We demand all imprisoned refugees release\! We demand the closure of the Ellebæk Prison\! We are protesting against the government’s brutal tactics\!” Photo: [Close Kærshovedgård Deportation Camp](https://www.facebook.com/CLOSEKGH/?hc_ref=ARS3xKKo6M5CXxuUPTbwmCKFRitAHRkW1kbN055OfPL2SkjsTdfN2pOQLA6TQoTqPtE&fref=nf&__xts__%5B0%5D=68.ARDaFNDESqLP5osrvPZ90ZEchXfdEXPiCslg8F3-6lNxtlw0dJPcqDg5emon-IffsJ859Sc2MT7q9KMdCC2DuDpPikv8d_XwbXOFetPdMPTkGe8S5Z_jM1zPC_zRJH2eAWV81R1MWeFGIUU5iiYZIn_5zQC1cY-msYtuEQ2gzyqmOMc8d540IQ&__tn__=kC-R)
 

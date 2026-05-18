@@ -1,5 +1,5 @@
 ---
-title: AYS Special from the UK: Precarity, Deportations and Detention
+title: "AYS Special from the UK: Precarity, Deportations and Detention"
 author: Are You Syrious?
 date: 2021-01-03T15:26:08.181+0000
 last_modified_at: 2021-01-03T17:08:24.143+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [special,uk,hostile-environment,sillath,immigration-act]
 description: As the UK entered its last year as a member of the EU, anti-migrant rhetoric took centre stage in British politics.
 image:
-  path: assets/3fc6e45330e5/1*K5Fks1amcDrprvjoYt7iOg.jpeg
+  path: ../assets/3fc6e45330e5/1*K5Fks1amcDrprvjoYt7iOg.jpeg
 ---
 
 ### AYS Special from the UK: Precarity, Deportations and Detention
@@ -15,7 +15,7 @@ image:
 _In 2020, the UK’s final year as a member of the European Union, anti\-migrant rhetoric took centre stage in British politics — perhaps not surprising given the xenophobic foundation of the ‘leave’ campaign\._
 
 
-![A beautiful mural that went up over the weekend of action against the Hostile Environment\. Credit to [dukdukpaint](https://www.instagram.com/p/CGNuSzip--o/)](assets/3fc6e45330e5/1*K5Fks1amcDrprvjoYt7iOg.jpeg)
+![A beautiful mural that went up over the weekend of action against the Hostile Environment\. Credit to [dukdukpaint](https://www.instagram.com/p/CGNuSzip--o/)](../assets/3fc6e45330e5/1*K5Fks1amcDrprvjoYt7iOg.jpeg)
 
 A beautiful mural that went up over the weekend of action against the Hostile Environment\. Credit to [dukdukpaint](https://www.instagram.com/p/CGNuSzip--o/)
 
@@ -37,7 +37,7 @@ Alongside this, the end of the Brexit transition period placed future restrictio
 #### Precarity in the midst of a pandemic
 
 
-![via [Demands From a Pandemic](https://twitter.com/pandemicdemands/status/1266697111908671495/photo/1)](assets/3fc6e45330e5/1*GaRkZLijCirRAKjUsC7glQ.png)
+![via [Demands From a Pandemic](https://twitter.com/pandemicdemands/status/1266697111908671495/photo/1)](../assets/3fc6e45330e5/1*GaRkZLijCirRAKjUsC7glQ.png)
 
 via [Demands From a Pandemic](https://twitter.com/pandemicdemands/status/1266697111908671495/photo/1)
 
@@ -63,7 +63,7 @@ At the beginning of the pandemic, emergency accommodation was offered to people 
 #### Operation Sillath
 
 
-![[Artwork by Zita Holbourne \(BARAC UK\)](https://www.instagram.com/p/CINY2nyAFOh/)](assets/3fc6e45330e5/1*BJ9nWkEtBWXpP476d7vchg.jpeg)
+![[Artwork by Zita Holbourne \(BARAC UK\)](https://www.instagram.com/p/CINY2nyAFOh/)](../assets/3fc6e45330e5/1*BJ9nWkEtBWXpP476d7vchg.jpeg)
 
 [Artwork by Zita Holbourne \(BARAC UK\)](https://www.instagram.com/p/CINY2nyAFOh/)
 
@@ -139,7 +139,7 @@ The use of hotels by these companies was quickly expanded at the beginning of th
 The use of hotels has also meant an increased easiness for immigration raids to take people to charter flights, as more people are housed together, and the raids are aided by hotel staff\.
 
 
-![via [No Evictions Glasgow](https://twitter.com/no_evictions/status/1271824116069343233/photo/1)](assets/3fc6e45330e5/1*RolB1ObXvSPewUiorxTqhQ.jpeg)
+![via [No Evictions Glasgow](https://twitter.com/no_evictions/status/1271824116069343233/photo/1)](../assets/3fc6e45330e5/1*RolB1ObXvSPewUiorxTqhQ.jpeg)
 
 via [No Evictions Glasgow](https://twitter.com/no_evictions/status/1271824116069343233/photo/1)
 

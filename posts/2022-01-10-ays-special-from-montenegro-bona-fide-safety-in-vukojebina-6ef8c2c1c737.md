@@ -1,5 +1,5 @@
 ---
-title: AYS Special from Montenegro: Bona Fide, Safety in Vukojebina
+title: "AYS Special from Montenegro: Bona Fide, Safety in Vukojebina"
 author: Are You Syrious?
 date: 2022-01-10T16:51:09.584+0000
 last_modified_at: 2022-01-10T16:51:09.584+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [montenegro,bona-fide,pljevlja,refugees,special]
 description: Are You Syrious?
 image:
-  path: assets/6ef8c2c1c737/0*eFdufR38krIBEQ3u.jpeg
+  path: ../assets/6ef8c2c1c737/0*eFdufR38krIBEQ3u.jpeg
 ---
 
 ### AYS Special from Montenegro: Bona Fide, Safety in Vukojebina
 
 
-![](assets/6ef8c2c1c737/0*jJ68icsuMKveVfOp.jpeg)
+![](../assets/6ef8c2c1c737/0*jJ68icsuMKveVfOp.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----cf18bd4a9099-----------------------------------)
@@ -23,7 +23,7 @@ image:
 **_This is the first of our Winter Break Specials: a report by Helen Tennyson on the Bona Fide safe house in northern Montenegro\. A long\-lasting sanctuary open to everyone in need, in the face of mounting fascism and xenophobia in the region and all over Europe\._**
 
 
-![](assets/6ef8c2c1c737/0*eFdufR38krIBEQ3u.jpeg)
+![](../assets/6ef8c2c1c737/0*eFdufR38krIBEQ3u.jpeg)
 
 
 Photo Credit: Helen Tennyson
@@ -44,11 +44,11 @@ People arrive here most days, migrating from various countries, and they must tr
 On a small street near the centre of town, slightly set back from the road, a small house sits unassumingly\. ‘Bona Fide’ is a safe house run by Sabina \(Mama Sabina to those who have met her for she is a mother to all\) that does whatever it can to help people in the region; working to provide shelter, safety, food, hot showers and medical attention\. There are no stipulations\. Anyone in need can access these services at any time, for as long as they need\. If there is no room in the bedrooms, people sleep on the floor\. If the floor is full, people go to her brother’s house\. The only time she has to say no to anyone is due to political and police pressure, or when there is no money to provide anything\.
 
 
-![](assets/6ef8c2c1c737/0*pdtN2x26wpc4psU8)
+![](../assets/6ef8c2c1c737/0*pdtN2x26wpc4psU8)
 
 
 
-![](assets/6ef8c2c1c737/0*jiSFLgN9dy47jW5g.jpeg)
+![](../assets/6ef8c2c1c737/0*jiSFLgN9dy47jW5g.jpeg)
 
 
 Montenegro has been trying to gain EU membership since it became a country in 2008, and so government funding has been directed to the improvement of more ‘touristy’ areas along the Adriatic coastline\. Through attracting more tourists, the coastal economy is relatively booming as the rest of the country struggles comparatively\. Poverty often brings with it social unrest and Pljevlja is no exception\. Fascist sympathies run deep in the region, with many people looking back nostalgically to the days of a greater Serbia\. Muslims have been long persecuted here and with fewer and fewer people passing through, those who look different \(and those who help them\) become scapegoats and targets of vigilante nationalism\.
@@ -56,21 +56,21 @@ Montenegro has been trying to gain EU membership since it became a country in 20
 Socially, due to the shared borders and shared histories, there are strong Serbian nationalist sentiments in Pljevlja that have been expressed in Islamophobic action, more publicly so after the Montenegrin parliamentary elections in September 2020\. The current Montenegrin government is pro Serb and nationalist, and the dark shadow of fascism is beginning to creep into well\-lit areas of life in the town\. Bona Fide has had all funding to the organisation cut, including access to coal, without which they cannot heat the house\. There are [reports of the expansion of Serbian controlled media](https://balkaninsight.com/2021/12/06/serbian-media-step-up-presence-in-montenegro-causing-concern/) in the country, which is worrying for those who do not see eye\-to\-eye with the Serb agenda\.
 
 
-![](assets/6ef8c2c1c737/0*ycBiZRI6Iz3od0hh)
+![](../assets/6ef8c2c1c737/0*ycBiZRI6Iz3od0hh)
 
 
 
-![](assets/6ef8c2c1c737/0*ruK3d7iaaIicohvD.jpeg)
+![](../assets/6ef8c2c1c737/0*ruK3d7iaaIicohvD.jpeg)
 
 
 The most concerning element to me is the public acceptance of demonstrations in support of fascism\. Nationalist rallies and banners are becoming more and more frequent\. In November, [someone used physical violence and language](https://www.standard.co.me/hronika/video-provokacija-u-pljevljima-mahao-srpskom-zastavom-ispred-dzamije-pa-napao-aktivistkinju-sigurne-zenske-kuce) to project their political agenda at a festival day, resulting in a physical assault on Sabina\. The perpetrator, who also attempted to grab a police weapon, was arrested but not prosecuted\. Although an isolated incident, actions like this are commonplace across the Balkans and increasingly Montenegro, and specifically target and intimidate Muslim and Bosniak peoples\. Nationalist graffiti are common across the city and local activists have experienced significant repression by the local community — Sabina herself having been specifically targeted numerous times\. She has been accused of housing terrorists by her neighbours\. The political climate here has driven Muslims almost entirely out of the area, which leaves those transiting through more exposed to harm\.
 
 
-![](assets/6ef8c2c1c737/0*Cf-n7ZgxBOexerSH)
+![](../assets/6ef8c2c1c737/0*Cf-n7ZgxBOexerSH)
 
 
 
-![](assets/6ef8c2c1c737/0*oeSw5f5P0zdVAits.jpeg)
+![](../assets/6ef8c2c1c737/0*oeSw5f5P0zdVAits.jpeg)
 
 
 Before, there were a few long term residents at Bona Fide — nowadays, there are up to 60 people at any one time, everywhere in the house, and the immediate needs are greater\. Over 7,000 people have passed through Sabina’s house in the last three and a half years\. People’s needs are urgent and so space and time for long\-term creative projects is limited\. The reserves of rugs and blankets that once took up every corner of the house are running low, having been used in emergencies to send people on their way with some form of protection from the cold in the mountains\. These and other possessions are often [taken and burnt on arrival in Croatia by border police](https://www.amnesty.org/en/latest/news/2020/11/eu-inquiry-into-european-complicity-in-croatian-border-violence-against-migrants-and-refugees-significant/) \.

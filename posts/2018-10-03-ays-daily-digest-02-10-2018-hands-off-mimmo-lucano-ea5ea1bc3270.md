@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 02/10/2018: Hands off Mimmo Lucano!
+title: "AYS DAILY DIGEST 02/10/2018: Hands off Mimmo Lucano!"
 author: Are You Syrious?
 date: 2018-10-03T10:05:35.818+0100
 last_modified_at: 2018-10-03T16:07:28.651+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,solidarity,italy,human-rights]
 description: Attacks to solidarity happening again in Italy//More deaths in the Mediterranean//Statistis on arrivals to Greek islands//Testimonies of…
 image:
-  path: assets/ea5ea1bc3270/1*srf96alSvyiwQ1vU8XnRfQ.jpeg
+  path: ../assets/ea5ea1bc3270/1*srf96alSvyiwQ1vU8XnRfQ.jpeg
 ---
 
 ### AYS DAILY DIGEST 02/10/2018: Hands off Mimmo Lucano\! AYS expresses solidarity with the mayor of Riace
@@ -15,7 +15,7 @@ image:
 _Attacks on solidarity happening again in Italy//More deaths in the Mediterranean//Statistics on arrivals to Greek islands//Testimonies of horrible living conditions in Moria//Commemoration day for the 368 people who lost their lives off Lampedusa 5 years ago//More evictions in Rome//New accord on immigration law in Germany//More news from Morocco, France…_
 
 
-![Credit: Riace patrimonio dell’umanità](assets/ea5ea1bc3270/1*srf96alSvyiwQ1vU8XnRfQ.jpeg)
+![Credit: Riace patrimonio dell’umanità](../assets/ea5ea1bc3270/1*srf96alSvyiwQ1vU8XnRfQ.jpeg)
 
 Credit: Riace patrimonio dell’umanità
 #### **FEATURE**

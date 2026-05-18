@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 22–23.5.2021: Suicides and self-harm in Italy’s CPRs
+title: "AYS Weekend Digest 22–23.5.2021: Suicides and self-harm in Italy’s CPRs"
 author: Are You Syrious?
 date: 2021-05-24T13:57:57.531+0100
 last_modified_at: 2021-05-24T15:27:38.347+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,italy,refugees,greece,libya]
 description: Turkey and EU supporting LCG // Lives at risk at sea // Another death on Chios // Parwana Amiri call to action // 6.2 million consultancy?
 image:
-  path: assets/871f00b5988b/1*4y_cTeznX_0oSpgV_UQXfw.jpeg
+  path: ../assets/871f00b5988b/1*4y_cTeznX_0oSpgV_UQXfw.jpeg
 ---
 
 ### AYS Weekend Digest 22–23\.5\.2021: Suicides and self\-harm in Italy’s CPRs
@@ -15,7 +15,7 @@ image:
 Turkey and EU supporting Libyan Coast Guard // Lives at risk at sea // Another death on Chios // Parwana Amiri call to action // Questions raised over 6\.2 million camp consultancy in Greece // Boy dies trying to reach Cueta // Updates from Moria, Spain, Italy and much more…
 
 
-![\(Photo Credit: [DocsNotCops](https://twitter.com/DocsNotCops/status/1396137664777175042/photo/1) \. The deliberate brutality of detention centres, ‘holding facilities’ \(like Napier barracks\), reporting conditions and dispersals are fundamental parts of the Government’s [\#HostileEnvironment](https://twitter.com/hashtag/HostileEnvironment?src=hashtag_click) \. We stand in rage, solidarity and resistance\. It’s time to [\#CloseTheCamps](https://twitter.com/hashtag/CloseTheCamps?src=hashtag_click) \)](assets/871f00b5988b/1*4y_cTeznX_0oSpgV_UQXfw.jpeg)
+![\(Photo Credit: [DocsNotCops](https://twitter.com/DocsNotCops/status/1396137664777175042/photo/1) \. The deliberate brutality of detention centres, ‘holding facilities’ \(like Napier barracks\), reporting conditions and dispersals are fundamental parts of the Government’s [\#HostileEnvironment](https://twitter.com/hashtag/HostileEnvironment?src=hashtag_click) \. We stand in rage, solidarity and resistance\. It’s time to [\#CloseTheCamps](https://twitter.com/hashtag/CloseTheCamps?src=hashtag_click) \)](../assets/871f00b5988b/1*4y_cTeznX_0oSpgV_UQXfw.jpeg)
 
 \(Photo Credit: [DocsNotCops](https://twitter.com/DocsNotCops/status/1396137664777175042/photo/1) \. The deliberate brutality of detention centres, ‘holding facilities’ \(like Napier barracks\), reporting conditions and dispersals are fundamental parts of the Government’s [\#HostileEnvironment](https://twitter.com/hashtag/HostileEnvironment?src=hashtag_click) \. We stand in rage, solidarity and resistance\. It’s time to [\#CloseTheCamps](https://twitter.com/hashtag/CloseTheCamps?src=hashtag_click) \)
 #### FEATURED: Suicides and self\-harm in Italy’s CPRs
@@ -85,19 +85,19 @@ In the [third incident in recent weeks](https://thepressproject.gr/nekri-34chron
 Families are still living in tents with limited facilities\. What has changed? Nothing\. Read our Special about the aftermath of the fire in the old Moria camp [HERE](ays-special-from-lesvos-dont-film-me-chopping-onions-d910ef05cc49) \.
 
 
-![](assets/871f00b5988b/1*ltznAt-8uirvo7-zTQ2vrA.jpeg)
+![](../assets/871f00b5988b/1*ltznAt-8uirvo7-zTQ2vrA.jpeg)
 
 
 
-![](assets/871f00b5988b/1*UqV-JRMDDdTvr5J0pFCZSw.jpeg)
+![](../assets/871f00b5988b/1*UqV-JRMDDdTvr5J0pFCZSw.jpeg)
 
 
 
-![](assets/871f00b5988b/1*9ofA24mV4uh0zP7fxFKfyQ.jpeg)
+![](../assets/871f00b5988b/1*9ofA24mV4uh0zP7fxFKfyQ.jpeg)
 
 
 
-![\(Photo Credit: [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/posts/326330545676678) \)](assets/871f00b5988b/1*d-le0S_2c4s04ziA7RZT5Q.jpeg)
+![\(Photo Credit: [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/posts/326330545676678) \)](../assets/871f00b5988b/1*d-le0S_2c4s04ziA7RZT5Q.jpeg)
 
 \(Photo Credit: [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/posts/326330545676678) \)
 
@@ -137,15 +137,15 @@ Legally a consultancy on [construction contracts in Greece cannot exceed 240,000
 **Update from Patras**
 
 
-![](assets/871f00b5988b/1*8bHZsyWznNbDvm0Xc7ivWg.jpeg)
+![](../assets/871f00b5988b/1*8bHZsyWznNbDvm0Xc7ivWg.jpeg)
 
 
 
-![](assets/871f00b5988b/1*5AmCp2m-jTBBVNRkXq3PEw.jpeg)
+![](../assets/871f00b5988b/1*5AmCp2m-jTBBVNRkXq3PEw.jpeg)
 
 
 
-![\(Photo Credit: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/pcb.1243010359430579/1243008579430757) \)](assets/871f00b5988b/1*Edm6bkI6XcIr85NWRvGQ6Q.jpeg)
+![\(Photo Credit: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/pcb.1243010359430579/1243008579430757) \)](../assets/871f00b5988b/1*Edm6bkI6XcIr85NWRvGQ6Q.jpeg)
 
 \(Photo Credit: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/pcb.1243010359430579/1243008579430757) \)
 

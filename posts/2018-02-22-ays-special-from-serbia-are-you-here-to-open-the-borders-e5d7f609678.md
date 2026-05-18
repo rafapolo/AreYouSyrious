@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL FROM SERBIA: “Are you here to open the borders?”
+title: "AYS SPECIAL FROM SERBIA: “Are you here to open the borders?”"
 author: Are You Syrious?
 date: 2018-02-22T13:02:37.723+0000
 last_modified_at: 2018-03-01T13:26:45.716+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,serbia,adasevci,principovac,special]
 description: A volunteer story from Serbia and detailing Elizabeth Pennington’s work alongside Paris-based Irish artist Bryan McCormack and his…
 image:
-  path: assets/e5d7f609678/1*4RTFvq3LUgRtTi-QQXRImQ.png
+  path: ../assets/e5d7f609678/1*4RTFvq3LUgRtTi-QQXRImQ.png
 ---
 
 ### AYS SPECIAL FROM SERBIA: _“Are you here to open the borders?”_
@@ -15,7 +15,7 @@ image:
 _A volunteer story from Serbia and detailing Elizabeth Pennington’s work alongside Paris\-based Irish artist Bryan McCormack and his colleague Stratis Vouyoucas, from France on an art project called ‘Yesterday, Today, Tomorrow,’ by McCormack\. McCormac and Stratis have been travelling around refugee camps, centres and squats in Europe for around 18 months, asking refugees to draw their past life \(yesterday\), their current life \(today\) and their future life \(tomorrow\) \._
 
 
-![](assets/e5d7f609678/1*4RTFvq3LUgRtTi-QQXRImQ.png)
+![](../assets/e5d7f609678/1*4RTFvq3LUgRtTi-QQXRImQ.png)
 
 
 In Serbia alone, there are approximately 4,500 refugees\. Many unaccompanied children from Middle Eastern countries such as Syria, Iraq and Afghanistan\. It is a crisis that has fallen away from the World’s media\.
@@ -27,7 +27,7 @@ I recently travelled to Serbia, working alongside Paris\-based Irish artist Brya
 On the first day, on a cold February morning, we arrived at our first centre, Adasevci, close to the Serbian/ Croatian border\. I was nervous, anticipating all I would see and all I would hear\. Walking through the doors of the centre, surrounded by fencing, a new addition, we were greeted by curious stares and smiles\.
 
 
-![](assets/e5d7f609678/1*0H3dst1cOdXrRF0jlfwlIQ.png)
+![](../assets/e5d7f609678/1*0H3dst1cOdXrRF0jlfwlIQ.png)
 
 
 The room that we would be working in, felt like a pre\-school, with children, no more than 5 years old, and their mothers\. There were a number of nationalities, Iraqi, Afghan, Iranian as well as a woman from Sierra Leone in West Africa\.
@@ -45,7 +45,7 @@ Principovac is a former hospital for children who are mentally handicapped, now 
 In Principovac, I met a 13\-year\-old artist, a painter, from Kabul, Afghanistan\. She had been at the centre for approximately a year\. “ _Art is what keeps me_ alive _,”_ she tells me\. I could see both the raw determination and the pain from the last few years of her life, all that she has sacrificed in order to give herself the best opportunities for her future\.
 
 
-![](assets/e5d7f609678/1*GufoyFtMsQJo69SO4BWw7Q.png)
+![](../assets/e5d7f609678/1*GufoyFtMsQJo69SO4BWw7Q.png)
 
 
 Also, I met a toddler, around 18 months old who was born in the centre\. Her mother brings her to the centre each day and leaves her, meaning that the NGO’s present practically became her family\.
@@ -55,7 +55,7 @@ What was perhaps most shocking to me was that if a child is born in a refugee ca
 A woman from Afghanistan had drawn the memory of seeing _“half a body with the leg cut off”_ read the words beneath as she explained her drawing to me via a translator\.
 
 
-![](assets/e5d7f609678/1*YsJGIziTO3eLFGmXPqtbTA.png)
+![](../assets/e5d7f609678/1*YsJGIziTO3eLFGmXPqtbTA.png)
 
 
 Another drawing detailed how the Taliban mutilated corpses after a car bomb attack in Kabul\.
@@ -69,7 +69,7 @@ I had no words\.
 At night, I was restless, my mind racing, having nightmare after nightmare from the previous days spent at the centres\. During the day, I was often either numb or in a kind of dazed state as I struggled to process what I was seeing and hearing\. The crisis in Serbia is intense with thousands simply waiting for answers, unsure of what the next day will bring\.
 
 
-![](assets/e5d7f609678/1*CibMtNDEKpmrTAPKdWPP6w.png)
+![](../assets/e5d7f609678/1*CibMtNDEKpmrTAPKdWPP6w.png)
 
 
 If there is one thing that I have learned through this experience, it is that we all have a voice that needs to be heard, no matter what nationality we are, our religion, the language we speak\. We are all human, we all have gifts and talents to share and we should not be made to feel inhuman\.

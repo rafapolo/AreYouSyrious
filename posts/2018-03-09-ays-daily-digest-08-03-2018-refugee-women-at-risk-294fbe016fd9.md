@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 08/03/18: Refugee women at risk
+title: "AYS Daily Digest 08/03/18: Refugee women at risk"
 author: Are You Syrious?
 date: 2018-03-09T16:00:30.365+0000
 last_modified_at: 2018-03-09T16:28:39.069+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,calais,uk,europe]
 description: Update on food distributions in Calais / Refugee women at risk in Greece / Women continue their hunger strike at the Yarl’s Wood…
 image:
-  path: assets/294fbe016fd9/1*40vYLFPTr0F8jjcu52Mrrw.png
+  path: ../assets/294fbe016fd9/1*40vYLFPTr0F8jjcu52Mrrw.png
 ---
 
 ### AYS Daily Digest 08/03/18: Refugee women at risk
@@ -15,7 +15,7 @@ image:
 _Update on food distributions in Calais / Refugee women at risk in Greece / Women continue their hunger strike at the Yarl’s Wood Immigration Removal Centre in the UK / Help needed in Sarajevo / EU anti\-slavery mission hits a deadlock / And more news…_
 
 
-![Part of out of sight, out of mind story\. \(Photo by David Lohmueller\)](assets/294fbe016fd9/1*40vYLFPTr0F8jjcu52Mrrw.png)
+![Part of out of sight, out of mind story\. \(Photo by David Lohmueller\)](../assets/294fbe016fd9/1*40vYLFPTr0F8jjcu52Mrrw.png)
 
 Part of out of sight, out of mind story\. \(Photo by David Lohmueller\)
 ### FRANCE
@@ -26,7 +26,7 @@ The French government has started taking over the distribution of meals in Calai
 Most associations say they are standing by and waiting to see how it all goes down\. However, the three distribution points are situated on the periphery of the city, and L’Auberge des Migrants said it was disappointed by this decision, as “people who live in the town center will have trouble getting there\.” The organization also called for dignified distributions, as they currently take place behind razor wire and are surrounded by security forces\. The Refugee Community Kitchen meanwhile said, “the food consisted of beef and potatoes\. No fresh vegetables”\. It adds that “hundreds of people refused to go to the government\-funded food distributions yesterday, some for political reasons \(…\) and others out of mistrust for authorities\.” According to Care4Calais, only 170 people turned up to get food during the first distribution on Monday\. It says, “the French authorities have continually underestimated the numbers in Calais and we do not consider it likely that the need for independent associations to provide support will disappear\.” Last night, Mobile Refugee Support’s night patrols were busier than usual, as many people had not eaten in the last 24 hours\.
 
 
-![Photos by L’Auberge des Migrants](assets/294fbe016fd9/1*ufS4xLxfI6dbWyXR9LvwYg.png)
+![Photos by L’Auberge des Migrants](../assets/294fbe016fd9/1*ufS4xLxfI6dbWyXR9LvwYg.png)
 
 Photos by L’Auberge des Migrants
 #### Paris
@@ -34,7 +34,7 @@ Photos by L’Auberge des Migrants
 According to Paris Refugee Ground Support, around 1,000 people are currently sleeping along the canal\. Last night, three full van\-loads of tents, sleeping bags, duvets, roll mats, and blankets were distributed\. More tents and sleeping gear are [desperately needed](https://www.gofundme.com/4dwnptc) \.
 
 
-![](assets/294fbe016fd9/1*3V3FVQAQr8T--YgsEq2xXA.png)
+![](../assets/294fbe016fd9/1*3V3FVQAQr8T--YgsEq2xXA.png)
 
 ### GREECE
 #### Refugee women’s rights in Greece
@@ -42,7 +42,7 @@ According to Paris Refugee Ground Support, around 1,000 people are currently sle
 Last night, an International Women’s Day demonstration against sexism and for the rights of refugee women took place in Athens\. Women from the Jafra refugee center were leading the march, attended by around 500 people\.
 
 
-![Photo by AYS](assets/294fbe016fd9/1*CZXUJiF7UaevPmqElsGuTA.png)
+![Photo by AYS](../assets/294fbe016fd9/1*CZXUJiF7UaevPmqElsGuTA.png)
 
 Photo by AYS
 
@@ -101,7 +101,7 @@ Their demands include an end to indefinite detention, the respect of human right
 The hunger strike started on the 22nd of February over “inhumane” conditions at the facility\. Women told the [Independent](http://www.independent.co.uk/news/uk/home-news/yarls-wood-women-immigration-detention-centre-hunger-strike-home-office-a8223886.html) that they had “given up thinking about the outside world” due to uncertainty over being locked up indefinitely, saying the centre was “failing” to meet their health needs\.
 
 
-![Photo by [RefuAid](https://www.facebook.com/refuaid/)](assets/294fbe016fd9/1*MRiIObZ2ldz7TggcXMagYw.png)
+![Photo by [RefuAid](https://www.facebook.com/refuaid/)](../assets/294fbe016fd9/1*MRiIObZ2ldz7TggcXMagYw.png)
 
 Photo by [RefuAid](https://www.facebook.com/refuaid/)
 ### ITALY

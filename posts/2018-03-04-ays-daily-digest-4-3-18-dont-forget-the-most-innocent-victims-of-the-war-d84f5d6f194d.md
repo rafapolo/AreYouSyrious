@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 04/03/18: Don’t forget the most innocent victims of the war
+title: "AYS Daily Digest 04/03/18: Don’t forget the most innocent victims of the war"
 author: Are You Syrious?
 date: 2018-03-04T22:55:45.041+0000
 last_modified_at: 2018-03-07T16:04:59.138+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,greece,italy,uk,digest]
 description: Will or will not the UN deliver aid in Ghouta? / Yemenis suffer in silence / Information about procedures in Turkey / Free the Moria 35! /…
 image:
-  path: assets/d84f5d6f194d/1*r6UOj6ZfamPdwoaKNaCyXg.jpeg
+  path: ../assets/d84f5d6f194d/1*r6UOj6ZfamPdwoaKNaCyXg.jpeg
 ---
 
 ### AYS Daily Digest 04/03/18: Don’t forget the most innocent victims of the war
@@ -15,7 +15,7 @@ image:
 _Will or will not the UN deliver aid in Ghouta? / Yemenis suffer in silence / Information about procedures in Turkey / Free the Moria 35\! / Update from SolidariTea in Ventimiglia / Hunger strike in Yarl’s Wood continues / And more news from Austria, Sweden, and Spain…_
 
 
-![Syrian children are playing in a settlement in Lebanon’s Beqaa Valley, January 2018 \(Photo by AYS\)](assets/d84f5d6f194d/1*r6UOj6ZfamPdwoaKNaCyXg.jpeg)
+![Syrian children are playing in a settlement in Lebanon’s Beqaa Valley, January 2018 \(Photo by AYS\)](../assets/d84f5d6f194d/1*r6UOj6ZfamPdwoaKNaCyXg.jpeg)
 
 Syrian children are playing in a settlement in Lebanon’s Beqaa Valley, January 2018 \(Photo by AYS\)
 ### FEATURE
@@ -65,7 +65,7 @@ A fire broke out in eastern Ghouta after massive bombardments in Hamouriya\. The
 [The ongoing war](https://www.humanitarianresponse.info/system/files/documents/files/yemen_nutrition_cluster_gam_rate_classification_as_february_2018.pdf) in Yemen has left a lot of people without necessities such as food, water, and healthcare\. This map shows the situation in the different regions\. In the red areas—the lion’s share of the map—the situation is classified as critical\. The situation in Yemen is not as widely discussed as in Syria, but also amounts to an egregious humanitarian disaster\. It remains especially hard to get information from Yemen due to the ongoing security situation\.
 
 
-![Infographic by [Humanitarian Response](https://www.humanitarianresponse.info/system/files/documents/files/yemen_nutrition_cluster_gam_rate_classification_as_february_2018.pdf)](assets/d84f5d6f194d/1*VYxsm-XSrSpkqipdvLQjrw.jpeg)
+![Infographic by [Humanitarian Response](https://www.humanitarianresponse.info/system/files/documents/files/yemen_nutrition_cluster_gam_rate_classification_as_february_2018.pdf)](../assets/d84f5d6f194d/1*VYxsm-XSrSpkqipdvLQjrw.jpeg)
 
 Infographic by [Humanitarian Response](https://www.humanitarianresponse.info/system/files/documents/files/yemen_nutrition_cluster_gam_rate_classification_as_february_2018.pdf)
 ### TURKEY
@@ -91,7 +91,7 @@ Last night, 72 people were transferred to MSF’s rescue ship _Aquarius_ \. [Onb
 [Proactiva Open Arms](https://www.facebook.com/proactivaservice/?hc_ref=ARQ-AGnE4KtNgBfdImpgl0BkATJUJicy66Lt68G_DCVf8FNoXLwguxArqREmBAzfBX4) was also at sea, as the photos shows\.
 
 
-![Photo by [Proactiva Open Arms](https://www.facebook.com/proactivaservice/?hc_ref=ARQ-AGnE4KtNgBfdImpgl0BkATJUJicy66Lt68G_DCVf8FNoXLwguxArqREmBAzfBX4)](assets/d84f5d6f194d/1*RwGtm6SWuagzLy8TtS7y3g.jpeg)
+![Photo by [Proactiva Open Arms](https://www.facebook.com/proactivaservice/?hc_ref=ARQ-AGnE4KtNgBfdImpgl0BkATJUJicy66Lt68G_DCVf8FNoXLwguxArqREmBAzfBX4)](../assets/d84f5d6f194d/1*RwGtm6SWuagzLy8TtS7y3g.jpeg)
 
 Photo by [Proactiva Open Arms](https://www.facebook.com/proactivaservice/?hc_ref=ARQ-AGnE4KtNgBfdImpgl0BkATJUJicy66Lt68G_DCVf8FNoXLwguxArqREmBAzfBX4)
 ### GREECE
@@ -107,11 +107,11 @@ To give everyone a chance, Legal Center Lesbos is crowdfunding in order to be ab
 If you have the application Swish, you can Swish money straight to [Refugee Relief](https://www.facebook.com/refugeereliefsweden/?hc_ref=ARSWpDwBEVsLM-SSKnHE9cUfDc2ENL3HljAqUJDDwun-nN0l0xkaOSYPQHP4pbl2TBM) on the number: 1235 444 625
 
 
-![](assets/d84f5d6f194d/1*HqTrUU8IX6TR0DXxvsVGHA.jpeg)
+![](../assets/d84f5d6f194d/1*HqTrUU8IX6TR0DXxvsVGHA.jpeg)
 
 
 
-![Photo by [Refugee Relief](https://www.facebook.com/refugeereliefsweden/?hc_ref=ARSWpDwBEVsLM-SSKnHE9cUfDc2ENL3HljAqUJDDwun-nN0l0xkaOSYPQHP4pbl2TBM)](assets/d84f5d6f194d/1*yT_iKmR3FWDABHU5DJKVDw.jpeg)
+![Photo by [Refugee Relief](https://www.facebook.com/refugeereliefsweden/?hc_ref=ARSWpDwBEVsLM-SSKnHE9cUfDc2ENL3HljAqUJDDwun-nN0l0xkaOSYPQHP4pbl2TBM)](../assets/d84f5d6f194d/1*yT_iKmR3FWDABHU5DJKVDw.jpeg)
 
 Photo by [Refugee Relief](https://www.facebook.com/refugeereliefsweden/?hc_ref=ARSWpDwBEVsLM-SSKnHE9cUfDc2ENL3HljAqUJDDwun-nN0l0xkaOSYPQHP4pbl2TBM)
 #### **Translators needed\!**
@@ -119,7 +119,7 @@ Photo by [Refugee Relief](https://www.facebook.com/refugeereliefsweden/?hc_ref=A
 [ERCI — Emergency Response Centre International](https://www.facebook.com/ercintl/?hc_ref=ARRKItxG0O0uxeLtiAMHcITJzMwkgzUOnQmc2RGCOojXKP3HGkYSe5X6BLMyuUvwTvw&fref=nf) are currently searching for translators\. If you can commit for a while during the spring, more information is [available here\.](https://www.facebook.com/ercintl/photos/a.417332345133189.1073741828.415073442025746/774219592777794/?type=3&theater)
 
 
-![Photo: [**ERCI — Emergency Response Centre International**](https://www.facebook.com/ercintl/?hc_ref=ARRKItxG0O0uxeLtiAMHcITJzMwkgzUOnQmc2RGCOojXKP3HGkYSe5X6BLMyuUvwTvw&fref=nf)](assets/d84f5d6f194d/1*RW1gN_BRKPmZLZI0RXYZvQ.png)
+![Photo: [**ERCI — Emergency Response Centre International**](https://www.facebook.com/ercintl/?hc_ref=ARRKItxG0O0uxeLtiAMHcITJzMwkgzUOnQmc2RGCOojXKP3HGkYSe5X6BLMyuUvwTvw&fref=nf)](../assets/d84f5d6f194d/1*RW1gN_BRKPmZLZI0RXYZvQ.png)
 
 Photo: [**ERCI — Emergency Response Centre International**](https://www.facebook.com/ercintl/?hc_ref=ARRKItxG0O0uxeLtiAMHcITJzMwkgzUOnQmc2RGCOojXKP3HGkYSe5X6BLMyuUvwTvw&fref=nf)
 #### **Samos**
@@ -148,11 +148,11 @@ It will be predominantly cloudy with locally precipitation mostly in the coastal
 After five months in Ventimiglia, the team behind SolidariTea will take a break\. When the winter ebbs out, as they describe it, it will be time for them to leave Ventimiglia\. After a rough winter, there has lately been a lot of successful border crossings\. But, this is not the end for SolidariTea, it is just a break\. They are looking for someone who can take over and dedicate at least three months to making tea for those in need\. [A more detailed post can be read here\.](https://www.facebook.com/refugeesolidaritea/posts/1286173014817785)
 
 
-![](assets/d84f5d6f194d/1*WKwFYvAadB4iSGX3KINmyA.jpeg)
+![](../assets/d84f5d6f194d/1*WKwFYvAadB4iSGX3KINmyA.jpeg)
 
 
 
-![Photos by SolidariTea in Ventiiglia](assets/d84f5d6f194d/1*z9I73b4z-ZfA4pFoWrsC9w.jpeg)
+![Photos by SolidariTea in Ventiiglia](../assets/d84f5d6f194d/1*z9I73b4z-ZfA4pFoWrsC9w.jpeg)
 
 Photos by SolidariTea in Ventiiglia
 ### FRANCE
@@ -160,7 +160,7 @@ Photos by SolidariTea in Ventiiglia
 Calais was cold and rainy today, according to [Care4Calais](https://www.facebook.com/care4calais/?hc_ref=ARQ0HweWvEoU6za7xMOoDMl49VyQu-G_BRO48plevJ8YjRdBebbYfGwogT-vof6-ezo&fref=nf) \. It was pouring all day, they write in an update on Facebook\. Follow [this link](https://www.facebook.com/care4calais/photos/a.1047087828657507.1073741832.1046117708754519/1842496055783343/?type=3&theater) for more information\.
 
 
-![Photo by [Care4Calais](https://www.facebook.com/care4calais/?hc_ref=ARQ0HweWvEoU6za7xMOoDMl49VyQu-G_BRO48plevJ8YjRdBebbYfGwogT-vof6-ezo&fref=nf)](assets/d84f5d6f194d/1*BTFNAnJZuE9nVyXzcWguJQ.jpeg)
+![Photo by [Care4Calais](https://www.facebook.com/care4calais/?hc_ref=ARQ0HweWvEoU6za7xMOoDMl49VyQu-G_BRO48plevJ8YjRdBebbYfGwogT-vof6-ezo&fref=nf)](../assets/d84f5d6f194d/1*BTFNAnJZuE9nVyXzcWguJQ.jpeg)
 
 Photo by [Care4Calais](https://www.facebook.com/care4calais/?hc_ref=ARQ0HweWvEoU6za7xMOoDMl49VyQu-G_BRO48plevJ8YjRdBebbYfGwogT-vof6-ezo&fref=nf)
 ### SPAIN
@@ -168,11 +168,11 @@ Photo by [Care4Calais](https://www.facebook.com/care4calais/?hc_ref=ARQ0HweWvEoU
 In Bilbao there is a camp next to the sea where refugees try to get on board of ships to the UK\. [Bienvenidos Refugiados — España](https://www.facebook.com/BienvenidosRefugiados/?ref=gs&hc_ref=ARQmaBbaNMgznWnk3GlpTTvPGwO-z8TAgIkOeiDIv0sYhZAUZnYFHAYHcnhq56Wa0Ho&fref=gs&dti=1652972374920129&hc_location=group) is there lending a hand\.
 
 
-![](assets/d84f5d6f194d/1*drzp2JvNlwLMwFrhDKQWjQ.png)
+![](../assets/d84f5d6f194d/1*drzp2JvNlwLMwFrhDKQWjQ.png)
 
 
 
-![Photos by [Bienvenidos Refugiados — España](https://www.facebook.com/BienvenidosRefugiados/?ref=gs&hc_ref=ARQmaBbaNMgznWnk3GlpTTvPGwO-z8TAgIkOeiDIv0sYhZAUZnYFHAYHcnhq56Wa0Ho&fref=gs&dti=1652972374920129&hc_location=group)](assets/d84f5d6f194d/1*dG-B7SmW4yfIrknOd-wjkg.jpeg)
+![Photos by [Bienvenidos Refugiados — España](https://www.facebook.com/BienvenidosRefugiados/?ref=gs&hc_ref=ARQmaBbaNMgznWnk3GlpTTvPGwO-z8TAgIkOeiDIv0sYhZAUZnYFHAYHcnhq56Wa0Ho&fref=gs&dti=1652972374920129&hc_location=group)](../assets/d84f5d6f194d/1*dG-B7SmW4yfIrknOd-wjkg.jpeg)
 
 Photos by [Bienvenidos Refugiados — España](https://www.facebook.com/BienvenidosRefugiados/?ref=gs&hc_ref=ARQmaBbaNMgznWnk3GlpTTvPGwO-z8TAgIkOeiDIv0sYhZAUZnYFHAYHcnhq56Wa0Ho&fref=gs&dti=1652972374920129&hc_location=group)
 ### AUSTRIA
@@ -189,7 +189,7 @@ The hungerstrike in Yarl’s Wood, as we wrote about in the digest the 27th of F
 [One of the detainees is 27 years old Opelo Kgari](http://www.independent.co.uk/news/uk/home-news/opelo-kgari-deported-home-office-botswana-yarls-wood-immigration-florence-heathrow-a8238401.html) , who came to the UK from Botswana when she was 13\. Despite the fact that she has been living more than half of her life in UK, she and her 55 year old mother got the information that they should be deported and transferred to Heathrow only days after Kgari spoke out about the ill\-treatment in Yarl’s Wood\. With only minutes left, their lawyer and MPs managed to stop the deportation\.
 
 
-![Photo: [**Detained Voices**](https://www.facebook.com/detainedvoices/?hc_ref=ARQPCZzYPieVEB6W4pJhd0AumOLVeu8uqA6RprorpS42TDxSvPIELNp1xJE8kaGQpNU&fref=nf)](assets/d84f5d6f194d/1*CQnKx9EKx4C73UXxikG5NQ.jpeg)
+![Photo: [**Detained Voices**](https://www.facebook.com/detainedvoices/?hc_ref=ARQPCZzYPieVEB6W4pJhd0AumOLVeu8uqA6RprorpS42TDxSvPIELNp1xJE8kaGQpNU&fref=nf)](../assets/d84f5d6f194d/1*CQnKx9EKx4C73UXxikG5NQ.jpeg)
 
 Photo: [**Detained Voices**](https://www.facebook.com/detainedvoices/?hc_ref=ARQPCZzYPieVEB6W4pJhd0AumOLVeu8uqA6RprorpS42TDxSvPIELNp1xJE8kaGQpNU&fref=nf)
 ### SWEDEN

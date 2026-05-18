@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 01/04/2020: Greek camp in 14-day coronavirus lockdown
+title: "AYS Daily Digest 01/04/2020: Greek camp in 14-day coronavirus lockdown"
 author: Are You Syrious?
 date: 2020-04-02T10:51:02.675+0100
 last_modified_at: 2020-04-02T14:00:36.843+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,coronavirus,refugees,europe,asylum-seekers]
 description: Greek Prime Minister response to asylum shutdown / Belgium NGOs step up to address government failures / The continued detention of asylum…
 image:
-  path: assets/6de7a60811cf/1*02nBhq_HMGl3xGFe1zTmvg.jpeg
+  path: ../assets/6de7a60811cf/1*02nBhq_HMGl3xGFe1zTmvg.jpeg
 ---
 
 ### AYS Daily Digest 01/04/2020: Greek camp in 14\-day coronavirus lockdown
@@ -15,7 +15,7 @@ image:
 Greek Prime Minister response to asylum shutdown / Belgium NGOs step up to address government failures / The continued detention of asylum seekers and refugees during the COVID\-19 crisis
 
 
-![Arrivals Samos Mourtia Beach\. Source \(facebook\.com/AegeanBoatReport\)](assets/6de7a60811cf/1*02nBhq_HMGl3xGFe1zTmvg.jpeg)
+![Arrivals Samos Mourtia Beach\. Source \(facebook\.com/AegeanBoatReport\)](../assets/6de7a60811cf/1*02nBhq_HMGl3xGFe1zTmvg.jpeg)
 
 Arrivals Samos Mourtia Beach\. Source \(facebook\.com/AegeanBoatReport\)
 ### Feature
@@ -32,7 +32,7 @@ The overcrowded and unhygienic conditions of many of these camps that thousands 
 [The AEGEAN Boat Report](https://www.facebook.com/AegeanBoatReport/posts/802766616913111?hc_location=ufi) today reported that on Wednesday morning a boat carrying 39 people landed on Korakas\. The new arrivals will be quarantined for the next 14 days at the Agios Vlasios chapel, but as previously reported the chapel is already overcrowded and thus these people will be forced to sleep outside\.
 
 
-![[https://aegeanboatreport\.com/?fbclid=IwAR0NFW7ePgAE328uVzWuovSu\_giFDaLQjTtRQKmLySVL0P\_PIXU8ROeBHlA](https://aegeanboatreport.com/?fbclid=IwAR0NFW7ePgAE328uVzWuovSu_giFDaLQjTtRQKmLySVL0P_PIXU8ROeBHlA)](assets/6de7a60811cf/1*qEQT8YKLppBxmldeeSRc9A.jpeg)
+![[https://aegeanboatreport\.com/?fbclid=IwAR0NFW7ePgAE328uVzWuovSu\_giFDaLQjTtRQKmLySVL0P\_PIXU8ROeBHlA](https://aegeanboatreport.com/?fbclid=IwAR0NFW7ePgAE328uVzWuovSu_giFDaLQjTtRQKmLySVL0P_PIXU8ROeBHlA)](../assets/6de7a60811cf/1*qEQT8YKLppBxmldeeSRc9A.jpeg)
 
 [https://aegeanboatreport\.com/?fbclid=IwAR0NFW7ePgAE328uVzWuovSu\_giFDaLQjTtRQKmLySVL0P\_PIXU8ROeBHlA](https://aegeanboatreport.com/?fbclid=IwAR0NFW7ePgAE328uVzWuovSu_giFDaLQjTtRQKmLySVL0P_PIXU8ROeBHlA)
 

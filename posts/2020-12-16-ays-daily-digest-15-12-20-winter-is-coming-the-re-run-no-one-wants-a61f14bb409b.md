@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [bosnia,refugees,greece,winter,uk]
 description: 181 people rescued // sexual assault of minor in Moria // Italy accused of helping pushbacks in Balkans // plans for new Moria camp by…
 image:
-  path: assets/a61f14bb409b/1*hizSevRghcBQv8ans2CRrg.jpeg
+  path: ../assets/a61f14bb409b/1*hizSevRghcBQv8ans2CRrg.jpeg
 ---
 
 ### AYS Daily Digest 15/12/20 ‘Winter is coming’ the re\-run no one wants
@@ -15,7 +15,7 @@ image:
 _181 people rescued // sexual assault of minor in Moria // Italy accused of helping pushbacks in Balkans // plans for new Moria camp by next summer // and more…_
 
 
-![Winter has officially arrived in Velika Kladusa, Bosnia and Herzegovina\. Photo by [Alba Duez](https://www.facebook.com/NoNameKitchenBelgrade/posts/1144038492661100)](assets/a61f14bb409b/1*hizSevRghcBQv8ans2CRrg.jpeg)
+![Winter has officially arrived in Velika Kladusa, Bosnia and Herzegovina\. Photo by [Alba Duez](https://www.facebook.com/NoNameKitchenBelgrade/posts/1144038492661100)](../assets/a61f14bb409b/1*hizSevRghcBQv8ans2CRrg.jpeg)
 
 Winter has officially arrived in Velika Kladusa, Bosnia and Herzegovina\. Photo by [Alba Duez](https://www.facebook.com/NoNameKitchenBelgrade/posts/1144038492661100)
 ### FEATURE: Winter has officially arrived in Velika Kladusa
@@ -95,11 +95,11 @@ Spanish media is reporting that Maritime Rescue rescued 181 people “ _includin
 According to [Greek media](https://www.stonisi.gr/post/13639/sth-zoygkla-toy-kara-tepe-realtime?fbclid=IwAR3XdzRoLTD92WEa0Um3yIjWkqeKY92iGSYLHJ28N-6KtCCXk_8f_xreoF4#.X9fQ5c3oPxI.facebook) “A three\-year\-old girl, a child of a family of asylum seekers from Afghanistan, was found unconscious in the mud of the new camp in Kara Tepe on Monday night\. The child was bleeding and according to the first diagnosis of doctors who were in the camp and examined her, she had been raped\. The child regained consciousness in the camp doctor’s office and was transported to Mytilene Hospital for further examinations and treatment\. Police are investigating the case\.” AYS will continue to bring you updates on this tragedy\.
 
 
-![](assets/a61f14bb409b/1*i8jf_LO2kIhP6ABACbrPow.jpeg)
+![](../assets/a61f14bb409b/1*i8jf_LO2kIhP6ABACbrPow.jpeg)
 
 
 
-![From Sunday, flooding in Moria 2\.0\. Photos by [Aegean Boat Report](https://twitter.com/ABoatReport/status/1338232717830467584?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1338232717830467584%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.infomigrants.net%2Fen%2Fpost%2F29102%2Fgreece-government-criticized-as-moria-2-0-flooded-again)](assets/a61f14bb409b/1*2hBpaycN4H5n8hwFRx1E7Q.jpeg)
+![From Sunday, flooding in Moria 2\.0\. Photos by [Aegean Boat Report](https://twitter.com/ABoatReport/status/1338232717830467584?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1338232717830467584%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.infomigrants.net%2Fen%2Fpost%2F29102%2Fgreece-government-criticized-as-moria-2-0-flooded-again)](../assets/a61f14bb409b/1*2hBpaycN4H5n8hwFRx1E7Q.jpeg)
 
 From Sunday, flooding in Moria 2\.0\. Photos by [Aegean Boat Report](https://twitter.com/ABoatReport/status/1338232717830467584?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1338232717830467584%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.infomigrants.net%2Fen%2Fpost%2F29102%2Fgreece-government-criticized-as-moria-2-0-flooded-again)
 ### Der Spiegel’s article “It’s not ideal, but significantly better than initially thought”
@@ -140,7 +140,7 @@ A new study in Italy released this data, which would effectively make it harder 
 #### SPAIN
 
 
-![“In recent weeks [\#PoliceViolence](https://twitter.com/hashtag/PoliceViolence?src=hashtag_click) in [\#Melilla](https://twitter.com/hashtag/Melilla?src=hashtag_click) has increased markedly\. The aggressions in the port or what happened a few days ago in the Minors’ Centre are examples of this\. These are not exceptions, they are events which occur systematically and on a daily basis\. The one that took place a few days ago at the centre for minors left no one indifferent\. According to the people in the centre, the police came here with dogs, truncheons and rubber bullet guns\. All of this came about because a group of residents decided to demonstrate after a confinement of 21 days, locked in an enclosure that has accumulated several complaints of unhealthy violations among many other things\. The policies of fear and police brutality are once again imposing themselves on dialogue, words and common sense\.” Photo by [Solidarity Wheels](https://twitter.com/SolidaryW/status/1338817625565126662)](assets/a61f14bb409b/1*kUmXTm3J8VP9Wdc9DruPlg.jpeg)
+![“In recent weeks [\#PoliceViolence](https://twitter.com/hashtag/PoliceViolence?src=hashtag_click) in [\#Melilla](https://twitter.com/hashtag/Melilla?src=hashtag_click) has increased markedly\. The aggressions in the port or what happened a few days ago in the Minors’ Centre are examples of this\. These are not exceptions, they are events which occur systematically and on a daily basis\. The one that took place a few days ago at the centre for minors left no one indifferent\. According to the people in the centre, the police came here with dogs, truncheons and rubber bullet guns\. All of this came about because a group of residents decided to demonstrate after a confinement of 21 days, locked in an enclosure that has accumulated several complaints of unhealthy violations among many other things\. The policies of fear and police brutality are once again imposing themselves on dialogue, words and common sense\.” Photo by [Solidarity Wheels](https://twitter.com/SolidaryW/status/1338817625565126662)](../assets/a61f14bb409b/1*kUmXTm3J8VP9Wdc9DruPlg.jpeg)
 
 “In recent weeks [\#PoliceViolence](https://twitter.com/hashtag/PoliceViolence?src=hashtag_click) in [\#Melilla](https://twitter.com/hashtag/Melilla?src=hashtag_click) has increased markedly\. The aggressions in the port or what happened a few days ago in the Minors’ Centre are examples of this\. These are not exceptions, they are events which occur systematically and on a daily basis\. The one that took place a few days ago at the centre for minors left no one indifferent\. According to the people in the centre, the police came here with dogs, truncheons and rubber bullet guns\. All of this came about because a group of residents decided to demonstrate after a confinement of 21 days, locked in an enclosure that has accumulated several complaints of unhealthy violations among many other things\. The policies of fear and police brutality are once again imposing themselves on dialogue, words and common sense\.” Photo by [Solidarity Wheels](https://twitter.com/SolidaryW/status/1338817625565126662)
 ### Calls to boycott the Red Cross due to them helping migrants
@@ -186,7 +186,7 @@ From the Association for Human Rights of Andalusia \( [APDHA](https://www.apdha.
 #### BALKANS
 
 
-![Photo by [BVMN](https://www.borderviolence.eu/balkan-region-report-november-2020/?fbclid=IwAR1uMRwcZqAYsUISxcMQIyFn7-wRqoTDXct_PQJSBcvpJKsVJmf74o_tQn8)](assets/a61f14bb409b/1*ft1tAvraEi_U-SMOZYCceg.jpeg)
+![Photo by [BVMN](https://www.borderviolence.eu/balkan-region-report-november-2020/?fbclid=IwAR1uMRwcZqAYsUISxcMQIyFn7-wRqoTDXct_PQJSBcvpJKsVJmf74o_tQn8)](../assets/a61f14bb409b/1*ft1tAvraEi_U-SMOZYCceg.jpeg)
 
 Photo by [BVMN](https://www.borderviolence.eu/balkan-region-report-november-2020/?fbclid=IwAR1uMRwcZqAYsUISxcMQIyFn7-wRqoTDXct_PQJSBcvpJKsVJmf74o_tQn8)
 ### BALKAN REGION REPORT — NOVEMBER 2020

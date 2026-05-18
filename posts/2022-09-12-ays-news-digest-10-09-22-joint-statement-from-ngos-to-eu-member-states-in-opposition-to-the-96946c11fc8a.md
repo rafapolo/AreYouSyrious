@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 10/09/22: Joint Statement from NGOs to EU Member States in opposition to the…
+title: "AYS News Digest 10/09/22: Joint Statement from NGOs to EU Member States in opposition to the…"
 author: Are You Syrious?
 date: 2022-09-12T11:08:00.811+0100
 last_modified_at: 2022-09-12T11:38:33.123+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,migration,european-union,human-rights]
 description: Deportations from Tajikistan // Frontex ‘training’ merchant vessels? // Public outcry at torture in Lebanese custody // Paper pushbacks in…
 image:
-  path: assets/96946c11fc8a/0*NW7UQKuo6nszPF6O.png
+  path: ../assets/96946c11fc8a/0*NW7UQKuo6nszPF6O.png
 ---
 
 ### AYS News Digest 10/09/22: Joint Statement from NGOs to EU Member States in opposition to the Instrumentalisation Regulation
@@ -15,7 +15,7 @@ image:
 #### FEATURE
 
 
-![](assets/96946c11fc8a/0*NW7UQKuo6nszPF6O.png)
+![](../assets/96946c11fc8a/0*NW7UQKuo6nszPF6O.png)
 
 
 Under a proposed EU asylum reform, a new mechanism will allow Member States to derogate their responsibilities under EU asylum law in situations where migration has been ‘instrumentalised\.’ The undersigned NGOs oppose the reform for 5 central reasons:
@@ -87,7 +87,7 @@ Read the ECRE’s full report here:
 #### _The Guardian_ have reported that Tajikistan is ‘rounding up and deporting Afghan refugees’
 
 
-![Refugees crossing into Tajikistan from Afghanistan\. Credit: Jack Picone/Alamy — from [https://www\.theguardian\.com/global\-development/2022/sep/09/tajikistan\-rounding\-up\-and\-deporting\-afghan\-refugees?fbclid=IwAR1Xipkgkb0\_d48J7v1gXhvJUS2I5ZSElRZzJxdHDUx4vZIJFI12XMxXk50](https://www.theguardian.com/global-development/2022/sep/09/tajikistan-rounding-up-and-deporting-afghan-refugees?fbclid=IwAR1Xipkgkb0_d48J7v1gXhvJUS2I5ZSElRZzJxdHDUx4vZIJFI12XMxXk50)](assets/96946c11fc8a/0*MGe0q_xeK3fdEFSM)
+![Refugees crossing into Tajikistan from Afghanistan\. Credit: Jack Picone/Alamy — from [https://www\.theguardian\.com/global\-development/2022/sep/09/tajikistan\-rounding\-up\-and\-deporting\-afghan\-refugees?fbclid=IwAR1Xipkgkb0\_d48J7v1gXhvJUS2I5ZSElRZzJxdHDUx4vZIJFI12XMxXk50](https://www.theguardian.com/global-development/2022/sep/09/tajikistan-rounding-up-and-deporting-afghan-refugees?fbclid=IwAR1Xipkgkb0_d48J7v1gXhvJUS2I5ZSElRZzJxdHDUx4vZIJFI12XMxXk50)](../assets/96946c11fc8a/0*MGe0q_xeK3fdEFSM)
 
 Refugees crossing into Tajikistan from Afghanistan\. Credit: Jack Picone/Alamy — from [https://www\.theguardian\.com/global\-development/2022/sep/09/tajikistan\-rounding\-up\-and\-deporting\-afghan\-refugees?fbclid=IwAR1Xipkgkb0\_d48J7v1gXhvJUS2I5ZSElRZzJxdHDUx4vZIJFI12XMxXk50](https://www.theguardian.com/global-development/2022/sep/09/tajikistan-rounding-up-and-deporting-afghan-refugees?fbclid=IwAR1Xipkgkb0_d48J7v1gXhvJUS2I5ZSElRZzJxdHDUx4vZIJFI12XMxXk50)
 
@@ -112,7 +112,7 @@ Read more [here](https://www.infomigrants.net/en/post/43160/brutal-video-of-15ye
 #### MELILLA
 
 
-![Credit: Juan Medina, REUTERS — Photo from December 2014](assets/96946c11fc8a/0*snnGg50Q303pGDtP)
+![Credit: Juan Medina, REUTERS — Photo from December 2014](../assets/96946c11fc8a/0*snnGg50Q303pGDtP)
 
 Credit: Juan Medina, REUTERS — Photo from December 2014
 #### The legalisation of pushbacks on the Moroccan\-Melilla border?
@@ -126,7 +126,7 @@ Migration is being increasingly framed in a criminal context: irregular entrants
 #### A Syrian refugee named Bashar Abdel\-Saud died in Lebanese custody this week, the result of injuries sustained whilst being held there and subject to torture\.
 
 
-![Credit: Amnesty International \( [https://www\.amnesty\.org/en/latest/news/2022/09/lebanon\-transfer\-investigation\-into\-death\-in\-custody\-of\-syrian\-refugee\-to\-the\-civilian\-justice\-system/?fbclid=IwAR3CJKJlh\-Pefab\_FXo1ApL4jwPAGFn8\_Bd8SYEFp1owcB1DzUrX\-MKjRdQ](https://www.amnesty.org/en/latest/news/2022/09/lebanon-transfer-investigation-into-death-in-custody-of-syrian-refugee-to-the-civilian-justice-system/?fbclid=IwAR3CJKJlh-Pefab_FXo1ApL4jwPAGFn8_Bd8SYEFp1owcB1DzUrX-MKjRdQ) \)](assets/96946c11fc8a/1*q5mFPZjN2T14AeERQN8HCA.jpeg)
+![Credit: Amnesty International \( [https://www\.amnesty\.org/en/latest/news/2022/09/lebanon\-transfer\-investigation\-into\-death\-in\-custody\-of\-syrian\-refugee\-to\-the\-civilian\-justice\-system/?fbclid=IwAR3CJKJlh\-Pefab\_FXo1ApL4jwPAGFn8\_Bd8SYEFp1owcB1DzUrX\-MKjRdQ](https://www.amnesty.org/en/latest/news/2022/09/lebanon-transfer-investigation-into-death-in-custody-of-syrian-refugee-to-the-civilian-justice-system/?fbclid=IwAR3CJKJlh-Pefab_FXo1ApL4jwPAGFn8_Bd8SYEFp1owcB1DzUrX-MKjRdQ) \)](../assets/96946c11fc8a/1*q5mFPZjN2T14AeERQN8HCA.jpeg)
 
 Credit: Amnesty International \( [https://www\.amnesty\.org/en/latest/news/2022/09/lebanon\-transfer\-investigation\-into\-death\-in\-custody\-of\-syrian\-refugee\-to\-the\-civilian\-justice\-system/?fbclid=IwAR3CJKJlh\-Pefab\_FXo1ApL4jwPAGFn8\_Bd8SYEFp1owcB1DzUrX\-MKjRdQ](https://www.amnesty.org/en/latest/news/2022/09/lebanon-transfer-investigation-into-death-in-custody-of-syrian-refugee-to-the-civilian-justice-system/?fbclid=IwAR3CJKJlh-Pefab_FXo1ApL4jwPAGFn8_Bd8SYEFp1owcB1DzUrX-MKjRdQ) \)
 
@@ -260,14 +260,14 @@ Authorities have blocked the Kurdish\-speaking minority from Iraq entrance to th
 Read more [here](https://english.alarabiya.net/News/world/2022/09/07/Scores-of-Yazidis-stranded-outside-Greek-camp-?fbclid=IwAR2eRlUrIGjMFnz4G89W8TdPo3bn-y4ukkKid5Oru3S-63pRAs9gzF-UnJo) \.
 
 
-![Credit: AFP](assets/96946c11fc8a/0*X6Pms2_tRhWrhWkT)
+![Credit: AFP](../assets/96946c11fc8a/0*X6Pms2_tRhWrhWkT)
 
 Credit: AFP
 #### CROATIA
 #### Paper pushbacks in the form of ‘seven\-day notices’?
 
 
-![Photo by [Daniel Bernard](https://unsplash.com/@nardly?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](assets/96946c11fc8a/0*VVWXbaDG3VYCmmdO)
+![Photo by [Daniel Bernard](https://unsplash.com/@nardly?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](../assets/96946c11fc8a/0*VVWXbaDG3VYCmmdO)
 
 Photo by [Daniel Bernard](https://unsplash.com/@nardly?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
@@ -276,7 +276,7 @@ As earlier reported by AYS, many people entering Croatia are served by the polic
 #### Shootings at Loon\-Plage migrant camp in Northern France
 
 
-![Photo: picture\-alliance/dpa/MAXPPP](assets/96946c11fc8a/1*18BY1mpteCByR5N8bZXHRg.jpeg)
+![Photo: picture\-alliance/dpa/MAXPPP](../assets/96946c11fc8a/1*18BY1mpteCByR5N8bZXHRg.jpeg)
 
 Photo: picture\-alliance/dpa/MAXPPP
 
@@ -396,7 +396,7 @@ Together, let’s make sure they are not forgotten: [bit.ly/3KEggTj](https://bit
 
 
 
-![Credit: Investigate Europe](assets/96946c11fc8a/0*k2I6lH9oATpG_VPT.png)
+![Credit: Investigate Europe](../assets/96946c11fc8a/0*k2I6lH9oATpG_VPT.png)
 
 Credit: Investigate Europe
 

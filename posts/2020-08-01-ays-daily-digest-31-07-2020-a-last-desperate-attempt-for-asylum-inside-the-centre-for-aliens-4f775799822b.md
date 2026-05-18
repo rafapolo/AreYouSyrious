@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 31/07/2020: A last desperate attempt for asylum: inside the ‘Centre for Aliens”…
+title: "AYS Daily Digest 31/07/2020: A last desperate attempt for asylum: inside the ‘Centre for Aliens”…"
 author: Are You Syrious?
 date: 2020-08-01T16:20:38.888+0100
 last_modified_at: 2020-08-01T16:20:38.888+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: []
 description: Family separation and deportation in The Netherlands // Campaign for the Iuventa 10 // Libyan authorities kill two Sudanese migrants //…
 image:
-  path: assets/4f775799822b/1*qpv93-UhCDI3RWWmwaLa7w.jpeg
+  path: ../assets/4f775799822b/1*qpv93-UhCDI3RWWmwaLa7w.jpeg
 ---
 
 ### AYS Daily Digest 31/07/2020: A last desperate attempt for asylum: inside the ‘Centre for Aliens” Slovenia\.
@@ -15,11 +15,11 @@ image:
 Family separation and deportation in The Netherlands // Campaign for the _Iuventa 10 //_ Libyan authorities kill two Sudanese migrants // Croatia beat and pushed\-back a 15\-year\-old boy // English Channel crossings\.
 
 
-![](assets/4f775799822b/1*qpv93-UhCDI3RWWmwaLa7w.jpeg)
+![](../assets/4f775799822b/1*qpv93-UhCDI3RWWmwaLa7w.jpeg)
 
 
 
-![](assets/4f775799822b/1*PMmJwJcTPq_0ybaIk2_6oA.jpeg)
+![](../assets/4f775799822b/1*PMmJwJcTPq_0ybaIk2_6oA.jpeg)
 
 ### Feature:
 

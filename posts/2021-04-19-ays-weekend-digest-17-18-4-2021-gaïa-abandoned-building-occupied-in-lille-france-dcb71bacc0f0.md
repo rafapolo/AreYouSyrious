@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 17–18/4/2021: Gaïa, abandoned building occupied in Lille, France
+title: "AYS Weekend Digest 17–18/4/2021: Gaïa, abandoned building occupied in Lille, France"
 author: Are You Syrious?
 date: 2021-04-19T09:59:44.434+0100
 last_modified_at: 2021-04-19T10:34:18.803+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,squatting,transparency,balkan-route]
 description: Sea-Eye 4 en route to the Med. Homelessness in Greece. 43 people evicted and brought to reception structures in BiH. Frontex inflating…
 image:
-  path: assets/dcb71bacc0f0/1*OXoACZ3-QJv8XS8vBd35qA.jpeg
+  path: ../assets/dcb71bacc0f0/1*OXoACZ3-QJv8XS8vBd35qA.jpeg
 ---
 
 ### AYS Weekend Digest 17–18/4/2021: Gaïa, abandoned building occupied in Lille, France
@@ -15,7 +15,7 @@ image:
 Sea\-Eye 4 en route to the Med\. Homelessness in Greece\. 43 people evicted and brought to reception structures in BiH\. Frontex inflating legal expenses against activists\.
 
 
-![Trieste, 17/4/2021, Balkan Route Calling Day of Action \(photo by: [Valentina Belluno / Campagna Lesvos Calling](https://www.facebook.com/lesvoscalling/photos/a.296258295337354/296257555337428) \)](assets/dcb71bacc0f0/1*OXoACZ3-QJv8XS8vBd35qA.jpeg)
+![Trieste, 17/4/2021, Balkan Route Calling Day of Action \(photo by: [Valentina Belluno / Campagna Lesvos Calling](https://www.facebook.com/lesvoscalling/photos/a.296258295337354/296257555337428) \)](../assets/dcb71bacc0f0/1*OXoACZ3-QJv8XS8vBd35qA.jpeg)
 
 Trieste, 17/4/2021, Balkan Route Calling Day of Action \(photo by: [Valentina Belluno / Campagna Lesvos Calling](https://www.facebook.com/lesvoscalling/photos/a.296258295337354/296257555337428) \)
 #### Featured — Gaïa: Abandoned building occupied in Lille, France
@@ -23,7 +23,7 @@ Trieste, 17/4/2021, Balkan Route Calling Day of Action \(photo by: [Valentina Be
 Utopia 56 [report](http://www.utopia56.com/fr/actualite/lille-collectif-gaia-revendique-loccupation-batiment-situe-86-rue-meuniers) that on Sunday the Gaïa collective occupied an abandoned building in Lille, in northern France\.
 
 
-![Lille, occupation of Gaïa \(Photo by Utopia56\)](assets/dcb71bacc0f0/1*BuwS2CZ5qmH0bwxPEC68nA.jpeg)
+![Lille, occupation of Gaïa \(Photo by Utopia56\)](../assets/dcb71bacc0f0/1*BuwS2CZ5qmH0bwxPEC68nA.jpeg)
 
 Lille, occupation of Gaïa \(Photo by Utopia56\)
 
@@ -39,7 +39,7 @@ Named Gaïa house, it will be “a self\-managed inter\-association living space
 The building, empty for a decade, is owned by the municipality and was one of the thousands vacant homes in the country, which make up the 8\.3% of the French housing stock\. More than 3,000 homeless people live in the Lille metropolitan area, this building, empty for a decade, is part of the 8\.3% of vacant housing in the French housing stock\.
 
 
-![Lille, occupation of Gaïa \(Photo by Utopia56\)](assets/dcb71bacc0f0/1*xWcn8EVMhWfGdqgzL0_00g.jpeg)
+![Lille, occupation of Gaïa \(Photo by Utopia56\)](../assets/dcb71bacc0f0/1*xWcn8EVMhWfGdqgzL0_00g.jpeg)
 
 Lille, occupation of Gaïa \(Photo by Utopia56\)
 
@@ -70,7 +70,7 @@ SEA
 The new rescue ship SEA\-EYE 4 [left its Rostock shipyard](https://sea-eye.org/wir-schicken-noch-ein-schiff/) , in northern Germany, on Saturday morning, 17th of April, and set out to cross into the Mediterranean\.
 
 
-![Sea\-Eye 4 \(Photo by [sea\-eye](https://www.facebook.com/seaeyeorg/photos/a.730635527042347/3518979178207954/) \)](assets/dcb71bacc0f0/1*TaSlR8scQHPaijP6tY9dwQ.jpeg)
+![Sea\-Eye 4 \(Photo by [sea\-eye](https://www.facebook.com/seaeyeorg/photos/a.730635527042347/3518979178207954/) \)](../assets/dcb71bacc0f0/1*TaSlR8scQHPaijP6tY9dwQ.jpeg)
 
 Sea\-Eye 4 \(Photo by [sea\-eye](https://www.facebook.com/seaeyeorg/photos/a.730635527042347/3518979178207954/) \)
 
@@ -82,7 +82,7 @@ GREECE
 #### Age Assessments re\-start on Samos
 
 
-![\(Photo Credit: @PHupfen\)](assets/dcb71bacc0f0/1*NIi5cElYYFwLoH8Uc0ZFig.jpeg)
+![\(Photo Credit: @PHupfen\)](../assets/dcb71bacc0f0/1*NIi5cElYYFwLoH8Uc0ZFig.jpeg)
 
 \(Photo Credit: @PHupfen\)
 
@@ -90,15 +90,15 @@ GREECE
 #### Where do people transferred from islands end up?
 
 
-![](assets/dcb71bacc0f0/1*YzLzsjHqk6sD0bZtwYCHGw.jpeg)
+![](../assets/dcb71bacc0f0/1*YzLzsjHqk6sD0bZtwYCHGw.jpeg)
 
 
 
-![](assets/dcb71bacc0f0/1*97K1lV9ej4vq7LJg_8JC6A.jpeg)
+![](../assets/dcb71bacc0f0/1*97K1lV9ej4vq7LJg_8JC6A.jpeg)
 
 
 
-![\(Photo Credit: [@isabelschayani](https://twitter.com/isabelschayani) \)](assets/dcb71bacc0f0/1*G9YaazPyfCIqasJ8OOyB4g.jpeg)
+![\(Photo Credit: [@isabelschayani](https://twitter.com/isabelschayani) \)](../assets/dcb71bacc0f0/1*G9YaazPyfCIqasJ8OOyB4g.jpeg)
 
 \(Photo Credit: [@isabelschayani](https://twitter.com/isabelschayani) \)
 
@@ -125,7 +125,7 @@ Freedom and healthcare for all.
 #### Mitarakis continues his battle with reality
 
 
-![\(Photo Credit: [@teammareliberum](https://twitter.com/teammareliberum) \)](assets/dcb71bacc0f0/1*Rui-tnVmMnEBE_AzURKcpA.jpeg)
+![\(Photo Credit: [@teammareliberum](https://twitter.com/teammareliberum) \)](../assets/dcb71bacc0f0/1*Rui-tnVmMnEBE_AzURKcpA.jpeg)
 
 \(Photo Credit: [@teammareliberum](https://twitter.com/teammareliberum) \)
 
@@ -156,11 +156,11 @@ In a new episode of the Italian authorities’ low intensity war against sea res
 On Saturday, A day of action was held in Trieste against pushbacks and containment policy on the Balkan Route\.
 
 
-![](assets/dcb71bacc0f0/1*qOj1Z40xPRZLbK4H4Jj35g.jpeg)
+![](../assets/dcb71bacc0f0/1*qOj1Z40xPRZLbK4H4Jj35g.jpeg)
 
 
 
-![Trieste, 17/4/2021 \(Photos by [Valentina Belluno, Campagna Lesvos Calling](https://www.facebook.com/lesvoscalling/posts/296261782003672) \)](assets/dcb71bacc0f0/1*J7nNrpFay5ZcoB56545bzA.jpeg)
+![Trieste, 17/4/2021 \(Photos by [Valentina Belluno, Campagna Lesvos Calling](https://www.facebook.com/lesvoscalling/posts/296261782003672) \)](../assets/dcb71bacc0f0/1*J7nNrpFay5ZcoB56545bzA.jpeg)
 
 Trieste, 17/4/2021 \(Photos by [Valentina Belluno, Campagna Lesvos Calling](https://www.facebook.com/lesvoscalling/posts/296261782003672) \)
 
@@ -231,7 +231,7 @@ As we previously reported, in December 2020, Arne Semsrott and Luisa Izuzquiza, 
 [An email, leaked this weekend](https://www.spiegel.de/politik/ausland/griechenland-wie-horst-seehofer-die-aufklaerung-im-frontex-skandal-behindert-a-042669cd-5d44-4060-a7ca-62efb60355fc?fbclid=IwAR2LBSWxXlfOfMihTcOhVZSvln1bFWwHgwn7pSeoJGufqnXky2t0_zj5BUE) , from the German Interior Ministry to the Management board of Frontex, states that Seehofer’s office do not believe a new EU working group designed to investigate Frontex’s involvement in pushbacks and other human rights abuses is necessary\.
 
 
-![\(Photo Credit: [@ErikMarquardt](https://twitter.com/ErikMarquardt) \)](assets/dcb71bacc0f0/1*DN_UrdZmwR-ifUfdfQuwKw.jpeg)
+![\(Photo Credit: [@ErikMarquardt](https://twitter.com/ErikMarquardt) \)](../assets/dcb71bacc0f0/1*DN_UrdZmwR-ifUfdfQuwKw.jpeg)
 
 \(Photo Credit: [@ErikMarquardt](https://twitter.com/ErikMarquardt) \)
 
@@ -239,7 +239,7 @@ Once again Frontex has been tasked with overseeing and evaluating itself\. Lucki
 #### Missing Children
 
 
-![\(Photo credit: [Lost in Europe](https://www.facebook.com/LostinEurope.org/photos/a.440052760125663/898648584266076/) \)](assets/dcb71bacc0f0/1*7OONpm2VvE64qkE53WW1mA.png)
+![\(Photo credit: [Lost in Europe](https://www.facebook.com/LostinEurope.org/photos/a.440052760125663/898648584266076/) \)](../assets/dcb71bacc0f0/1*7OONpm2VvE64qkE53WW1mA.png)
 
 \(Photo credit: [Lost in Europe](https://www.facebook.com/LostinEurope.org/photos/a.440052760125663/898648584266076/) \)
 

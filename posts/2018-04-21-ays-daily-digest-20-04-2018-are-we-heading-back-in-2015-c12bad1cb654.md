@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 20/04/2018: Are we heading back in 2015?
+title: "AYS DAILY DIGEST 20/04/2018: Are we heading back in 2015?"
 author: Are You Syrious?
 date: 2018-04-21T09:53:39.173+0100
 last_modified_at: 2018-04-21T11:56:27.785+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,bosnia,samos]
 description: Number of people all over the Balkan route increases daily // Many people who have just arrived from war torn areas are forced to sleep…
 image:
-  path: assets/c12bad1cb654/1*yOMnkCm7As4HHPlKIhFqsQ.jpeg
+  path: ../assets/c12bad1cb654/1*yOMnkCm7As4HHPlKIhFqsQ.jpeg
 ---
 
 ### AYS DAILY DIGEST 20/04/2018: Are we heading back in 2015?
@@ -15,7 +15,7 @@ image:
 _Number of people all over the Balkan route increases daily // Many people who have just arrived from war torn areas are forced to sleep rough in Greece, Serbia, Bosnia and Hercegovina, Montenegro… // Criminalization of volunteers’ work continues all over Europe, including Croatia and Bosnia //_
 
 
-![Thessaloniki, Thursday 19 April\. Photo by NoBorder Greece\.](assets/c12bad1cb654/1*yOMnkCm7As4HHPlKIhFqsQ.jpeg)
+![Thessaloniki, Thursday 19 April\. Photo by NoBorder Greece\.](../assets/c12bad1cb654/1*yOMnkCm7As4HHPlKIhFqsQ.jpeg)
 
 Thessaloniki, Thursday 19 April\. Photo by NoBorder Greece\.
 ### Feature
@@ -50,7 +50,7 @@ However, a new decision has been passed annulling the impact of the Council of S
 Samos is still overcrowded and more people are arriving\. Currently, over 2,100 people are living in Vhaty, the city where the camp is located\.
 
 
-![Photo by [Orestis Seferoglou](https://www.facebook.com/orestissef)](assets/c12bad1cb654/1*5MJeN7fyDk0x1tZd90AMXA.jpeg)
+![Photo by [Orestis Seferoglou](https://www.facebook.com/orestissef)](../assets/c12bad1cb654/1*5MJeN7fyDk0x1tZd90AMXA.jpeg)
 
 Photo by [Orestis Seferoglou](https://www.facebook.com/orestissef)
 
@@ -114,7 +114,7 @@ Photo by [Orestis Seferoglou](https://www.facebook.com/orestissef)
 The tial continues on Monday\.
 
 
-![[Lesvos Voices](https://www.facebook.com/NBKLesvos/posts/1122079537931834) published letter by one of the 35 people arbitrarily arrested in [\#Moria](https://www.facebook.com/hashtag/moria) the day the police violently raided the camp\. Here he shares a little bit about himself and his life before that day\.](assets/c12bad1cb654/1*0_G0D3tQ_AuMr1f1Mw7t6w.jpeg)
+![[Lesvos Voices](https://www.facebook.com/NBKLesvos/posts/1122079537931834) published letter by one of the 35 people arbitrarily arrested in [\#Moria](https://www.facebook.com/hashtag/moria) the day the police violently raided the camp\. Here he shares a little bit about himself and his life before that day\.](../assets/c12bad1cb654/1*0_G0D3tQ_AuMr1f1Mw7t6w.jpeg)
 
 [Lesvos Voices](https://www.facebook.com/NBKLesvos/posts/1122079537931834) published letter by one of the 35 people arbitrarily arrested in [\#Moria](https://www.facebook.com/hashtag/moria) the day the police violently raided the camp\. Here he shares a little bit about himself and his life before that day\.
 
@@ -145,7 +145,7 @@ The Boat Refugee Foundation is looking for volunteers who can interpret in Frenc
 The number of people who are arriving is increasing every day\. Today, only in one location in Sarajevo, over 200 people were at the distribution point\. Refugees and migrants who are already in Bosnia, together with local and international volunteers, prepared and shared a meal\. Lunch, dolma, was cooked by a professional chief from Iran who came to Bosnia with with 14\-year\-old son\.
 
 
-![Photo by AYS](assets/c12bad1cb654/1*uQ8j3HPynkoUWhGJT0zw-g.jpeg)
+![Photo by AYS](../assets/c12bad1cb654/1*uQ8j3HPynkoUWhGJT0zw-g.jpeg)
 
 Photo by AYS
 
@@ -168,7 +168,7 @@ We join this group and all the others in condemning the Europe\-wide criminalisa
 [\#notacriminal](https://www.facebook.com/hashtag/notacriminal?source=feed_text)
 
 
-![By Refugee Community Kitchen](assets/c12bad1cb654/1*1KP_bOW-KPoU4WblCWF0wQ.jpeg)
+![By Refugee Community Kitchen](../assets/c12bad1cb654/1*1KP_bOW-KPoU4WblCWF0wQ.jpeg)
 
 By Refugee Community Kitchen
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 04/02/18: 47 Believed Dead off Coast of Melilla
+title: "AYS Daily Digest 04/02/18: 47 Believed Dead off Coast of Melilla"
 author: Are You Syrious?
 date: 2018-02-05T02:34:31.543+0000
 last_modified_at: 2018-03-01T13:37:57.476+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,spain,antifa,racism,digest]
 description: Protests in Ceuta//Right-wing terrorist attack in Italy//Stories from Ventimiglia//Fascist rallies in Athens//Statements from…
 image:
-  path: assets/b824a0ab9a15/1*I5MKHpcTYOkW4dRH9XKybQ.jpeg
+  path: ../assets/b824a0ab9a15/1*I5MKHpcTYOkW4dRH9XKybQ.jpeg
 ---
 
 ### AYS Daily Digest 04/02/18: 47 Believed Dead off Coast of Melilla
 #### _Protests in Ceuta//Right\-wing terrorist attack in Italy//Stories from Ventimiglia//Fascist rallies in Athens//Statements from Calais//Preparing for Cold in Paris//Racist laws proposed in Denmark//And more…_
 
 
-![Migrants aboard an intercepted boat\. 1/16/18 Photo Credit: [Proactiva Open Arms](https://www.facebook.com/proactivaservice/) \.](assets/b824a0ab9a15/1*I5MKHpcTYOkW4dRH9XKybQ.jpeg)
+![Migrants aboard an intercepted boat\. 1/16/18 Photo Credit: [Proactiva Open Arms](https://www.facebook.com/proactivaservice/) \.](../assets/b824a0ab9a15/1*I5MKHpcTYOkW4dRH9XKybQ.jpeg)
 
 Migrants aboard an intercepted boat\. 1/16/18 Photo Credit: [Proactiva Open Arms](https://www.facebook.com/proactivaservice/) \.
 ### Sea — Feature
@@ -41,7 +41,7 @@ Only one of the victims of the attack is believed to have been critically injure
 The [SolidariTea](https://www.facebook.com/refugeesolidaritea/) volunteer group, based in Italy, recently shared the testimony of one of their volunteers who had been working in Ventimiglia\. Her stories from the field show that the situation for refugees in Ventimiglia is still extremely difficult and unjust\. Many refugees, including children and families, are still sleeping in the cold, in tents or just in blankets under bridges\. They are still being harassed by police and border authorities on a daily basis as they try to make it to France\. From her [report](https://www.facebook.com/refugeesolidaritea/posts/1261556610612759?hc_location=ufi) :
 
 
-![Sleeping rough in Ventimiglia\. Photo Credit: SolidariTea\.](assets/b824a0ab9a15/1*eNXXw7gZi-NGL_U97VYM4Q.jpeg)
+![Sleeping rough in Ventimiglia\. Photo Credit: SolidariTea\.](../assets/b824a0ab9a15/1*eNXXw7gZi-NGL_U97VYM4Q.jpeg)
 
 Sleeping rough in Ventimiglia\. Photo Credit: SolidariTea\.
 
@@ -67,7 +67,7 @@ Sleeping rough in Ventimiglia\. Photo Credit: SolidariTea\.
 Yesterday there was a march in Chioggia to show solidarity with migrants and refiugees in the area, and to demand human rights for all people on the move\. One of the groups which helped organize the march, [Melting Pot Europa](https://www.facebook.com/meltingpoteuropa/) , released a statement explaining their demands:
 
 
-![People power In Chioggio\. Photo Credit: Melting Pot Europa](assets/b824a0ab9a15/1*JI_gTzNphA4sxVN2sItfPQ.jpeg)
+![People power In Chioggio\. Photo Credit: Melting Pot Europa](../assets/b824a0ab9a15/1*JI_gTzNphA4sxVN2sItfPQ.jpeg)
 
 People power In Chioggio\. Photo Credit: Melting Pot Europa
 
@@ -95,7 +95,7 @@ People power In Chioggio\. Photo Credit: Melting Pot Europa
 There were large right\-wing and fascist rallies in Athens today, featuring many members of the Golden Dawn fascist party and other violent far\-right groups\. The rallies were ostensibly over the “Macedonia” question — Greek nationalists object to Macedonia \(or FYROM\) calling itself “Macedonia” because they believe this implies a territorial claim to the Greek region of Macedonia in Northern Greece\. While the battle over the name “Macedonia” has been a long and bitterly contested issue, it is clear that the right wing rallies of today were concerned with more than this issue alone\.
 
 
-![Antifascists defending the anarchist community of Exarchia during the fascist rally\. Photo Credit: Marios Lolos\.](assets/b824a0ab9a15/1*VbElgk7bZuq68y5nwtHBbw.jpeg)
+![Antifascists defending the anarchist community of Exarchia during the fascist rally\. Photo Credit: Marios Lolos\.](../assets/b824a0ab9a15/1*VbElgk7bZuq68y5nwtHBbw.jpeg)
 
 Antifascists defending the anarchist community of Exarchia during the fascist rally\. Photo Credit: Marios Lolos\.
 
@@ -118,7 +118,7 @@ Forwarding a call from [A Drop in the Ocean](https://www.drapenihavet.no/en/home
 As AYS reported earlier this week, there have been large clashes in Calais\. Reportedly, the clashes have been between various ethnic groups, but police and people smugglers have also played a role in the violence\. Following the clashes, a number of volunteer groups and NGO’s have had blame cast upon them, and been unfairly accused of playing into the violence\. One of the organizations which has been under scrutiny since the clashes, [L’Auberge des Migrants](https://www.facebook.com/AubergeMigrants/) , today released a public statement in repsone:
 
 
-![Trying to stay warm in Calais\. 12/19/17\. Photo Credit: L’Auberge des Migrants](assets/b824a0ab9a15/1*qfUuLAxz3P47WS7EBoOWNw.jpeg)
+![Trying to stay warm in Calais\. 12/19/17\. Photo Credit: L’Auberge des Migrants](../assets/b824a0ab9a15/1*qfUuLAxz3P47WS7EBoOWNw.jpeg)
 
 Trying to stay warm in Calais\. 12/19/17\. Photo Credit: L’Auberge des Migrants
 
@@ -175,14 +175,14 @@ We have another update from Calais from the [Citizens of the World Choir](https:
 
 
 
-![Migrants in Calais\. Photo Credit: [Care 4 Calais](https://www.facebook.com/care4calais/) \. “Over this weekend in Calais we asked 300 refugees what is the one thing they most need\. The answers were as follows: 38% waterproof shoes, 19% trousers, 15% coats, 9% phones, 19% other”\.](assets/b824a0ab9a15/1*y-PdKFtatbRKMesweijdEQ.jpeg)
+![Migrants in Calais\. Photo Credit: [Care 4 Calais](https://www.facebook.com/care4calais/) \. “Over this weekend in Calais we asked 300 refugees what is the one thing they most need\. The answers were as follows: 38% waterproof shoes, 19% trousers, 15% coats, 9% phones, 19% other”\.](../assets/b824a0ab9a15/1*y-PdKFtatbRKMesweijdEQ.jpeg)
 
 Migrants in Calais\. Photo Credit: [Care 4 Calais](https://www.facebook.com/care4calais/) \. “Over this weekend in Calais we asked 300 refugees what is the one thing they most need\. The answers were as follows: 38% waterproof shoes, 19% trousers, 15% coats, 9% phones, 19% other”\.
 
 Authorities in Paris have been fencing in areas under bridges and parks where homeless refugees congregate and set up tents\. These are people who the government has ignored and abused, and they are forced to sleep rough due to the lack of social services and accommodation\. To try and solve this problem with more fences and walls is the height of stupidity\. To protest the physical barriers put up against refugees, local activists have been wrapping the fences in plastic and marking them with signs reading, “barriers of shame”\.
 
 
-![Photo Credit: [P’tit Dej\. Flanders](https://www.facebook.com/ptitdejaflandre/)](assets/b824a0ab9a15/1*Pxfg7hcOVmYbw_JOGkTa2A.jpeg)
+![Photo Credit: [P’tit Dej\. Flanders](https://www.facebook.com/ptitdejaflandre/)](../assets/b824a0ab9a15/1*Pxfg7hcOVmYbw_JOGkTa2A.jpeg)
 
 Photo Credit: [P’tit Dej\. Flanders](https://www.facebook.com/ptitdejaflandre/)
 

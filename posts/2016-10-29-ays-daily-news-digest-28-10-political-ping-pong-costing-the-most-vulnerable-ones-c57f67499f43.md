@@ -1,5 +1,5 @@
 ---
-title: AYS Daily News Digest 28/10: Political ping-pong comes at a high cost to the most vulnerable
+title: "AYS Daily News Digest 28/10: Political ping-pong comes at a high cost to the most vulnerable"
 author: Are You Syrious?
 date: 2016-10-29T04:16:01.080+0100
 last_modified_at: 2016-10-29T08:28:57.696+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,france,greece,syria]
 description: A year after the Aegean tragedy, NATO expanding its mission in the Aegean sea / AI investigation proves Greece forced illegal returns of…
 image:
-  path: assets/c57f67499f43/1*IYaNa0Q9WmrYHScBR2xyJQ.jpeg
+  path: ../assets/c57f67499f43/1*IYaNa0Q9WmrYHScBR2xyJQ.jpeg
 ---
 
 ### AYS Daily News Digest 28/10: Political ping\-pong comes at a high cost to the most vulnerable
@@ -15,7 +15,7 @@ image:
 _A year after the Aegean tragedy, NATO expanding its mission in the Aegean sea / AI investigation proves Greece forced illegal returns of Syrians to Turkey / Röszke11 Ahmad H\. trial a symbol of absurd extent of criminalizing refugees / Calais evacuation plan reveals itself as a failure and danger for the youngest refugees / France and the UK continue dispute over the responsibility for the Jungle minors / Croatia continues receiving “Dublin” deportations from EU countries_
 
 
-![A young Calais resident during the Jungle evacuation \(Photo credit: [Art Against](https://www.facebook.com/artagainstproject/) \)](assets/c57f67499f43/1*IYaNa0Q9WmrYHScBR2xyJQ.jpeg)
+![A young Calais resident during the Jungle evacuation \(Photo credit: [Art Against](https://www.facebook.com/artagainstproject/) \)](../assets/c57f67499f43/1*IYaNa0Q9WmrYHScBR2xyJQ.jpeg)
 
 A young Calais resident during the Jungle evacuation \(Photo credit: [Art Against](https://www.facebook.com/artagainstproject/) \)
 #### SEA
@@ -61,7 +61,7 @@ We [reporte](https://medium.com/@AreYouSyrious/ays-news-digest-21-10-countless-p
 
 
 
-![Cold days arriving, camp Katsikas \(Photo: Muhammad Ali\)](assets/c57f67499f43/1*PJVLJKGB6cEU7n_MtegAuw.jpeg)
+![Cold days arriving, camp Katsikas \(Photo: Muhammad Ali\)](../assets/c57f67499f43/1*PJVLJKGB6cEU7n_MtegAuw.jpeg)
 
 Cold days arriving, camp Katsikas \(Photo: Muhammad Ali\)
 #### Calls for volunteers
@@ -76,7 +76,7 @@ Exceptions to minimum time requirements can be made if you are available during 
 Please check out the [**GreeceVol**](http://www.greecevol.info/task.list.php) website to find all updates on volunteering needs and opportunities in Greece\!
 
 
-![Red Noses International mission in Greece has ended \(Photo: [**Red Noses International**](https://www.facebook.com/rednosesinternational/) **\)**](assets/c57f67499f43/1*BOl5EylmtCC18_hOsjchjg.jpeg)
+![Red Noses International mission in Greece has ended \(Photo: [**Red Noses International**](https://www.facebook.com/rednosesinternational/) **\)**](../assets/c57f67499f43/1*BOl5EylmtCC18_hOsjchjg.jpeg)
 
 Red Noses International mission in Greece has ended \(Photo: [**Red Noses International**](https://www.facebook.com/rednosesinternational/) **\)**
 #### HUNGARY
@@ -94,11 +94,11 @@ Hungary will sue the European Commission and resist mandatory migrant resettleme
 Between the Stalingrad and Jaurès metro stations, there is a growing number of people who came from Calais and other parts of the\. country, joining those who were already staying there\.
 
 
-![](assets/c57f67499f43/1*6S9ustIxz3h6RReGNM57Jw.jpeg)
+![](../assets/c57f67499f43/1*6S9ustIxz3h6RReGNM57Jw.jpeg)
 
 
 
-![Tents and sleeping places around the Stalingrad Metro station in Paris on the night from Thursday to Friday \(Photo: [Remy Buisine](https://twitter.com/RemyBuisine) \)](assets/c57f67499f43/1*mjhpcWhaofO39PxMgh4Bzw.jpeg)
+![Tents and sleeping places around the Stalingrad Metro station in Paris on the night from Thursday to Friday \(Photo: [Remy Buisine](https://twitter.com/RemyBuisine) \)](../assets/c57f67499f43/1*mjhpcWhaofO39PxMgh4Bzw.jpeg)
 
 Tents and sleeping places around the Stalingrad Metro station in Paris on the night from Thursday to Friday \(Photo: [Remy Buisine](https://twitter.com/RemyBuisine) \)
 
@@ -107,12 +107,12 @@ This Friday morning, the area was raided by the police, who were checking IDs an
 According to our sources, some refugees who seek asylum in France have been staying in such provisional camps in the city for six weeks now, but have been told there is not enough places to accommodate them in reception centres of the city\. The city authorities [claim](http://uk.businessinsider.com/migrants-forced-to-leave-calais-pitching-tents-on-the-streets-of-paris-2016-10?IR=T) the state has the responsibility to take care of these people, not the city of Paris\. Reuters reports that Paris has plans to open two migrant centers that would host up to 1,000 people\.
 
 
-![The morning of Friday, October 28, in Paris \(Photo: [**Rose Lecat**](https://www.facebook.com/rose.lecat) **\)**](assets/c57f67499f43/1*50PnrxLT_h7CgUH6ojsLmw.jpeg)
+![The morning of Friday, October 28, in Paris \(Photo: [**Rose Lecat**](https://www.facebook.com/rose.lecat) **\)**](../assets/c57f67499f43/1*50PnrxLT_h7CgUH6ojsLmw.jpeg)
 
 The morning of Friday, October 28, in Paris \(Photo: [**Rose Lecat**](https://www.facebook.com/rose.lecat) **\)**
 
 
-![This Friday morning in Paris, an area that has a large number of women staying in the refugee tents \(Photo: [**Rose Lecat**](https://www.facebook.com/rose.lecat) **\)**](assets/c57f67499f43/1*W3C4xqcQdbQgHkZX3KClfw.jpeg)
+![This Friday morning in Paris, an area that has a large number of women staying in the refugee tents \(Photo: [**Rose Lecat**](https://www.facebook.com/rose.lecat) **\)**](../assets/c57f67499f43/1*W3C4xqcQdbQgHkZX3KClfw.jpeg)
 
 This Friday morning in Paris, an area that has a large number of women staying in the refugee tents \(Photo: [**Rose Lecat**](https://www.facebook.com/rose.lecat) **\)**
 #### CALAIS
@@ -123,7 +123,7 @@ Bulldozers continue to work their way through through the Calais camp as the for
 _“It’s disappointing to see this being reported as a ‘success’ when so many vulnerable children have been left behind and so many more have run away\. We may never know where they’ve gone,”_ the [Save the Children](http://www.savethechildren.org.uk/2016-10/children-calais-still-sleeping-rough-fires-burn-jungle) team warns\.
 
 
-![Calais Jungle demolition, day 4 \(Photo: Abdul Afzali\)](assets/c57f67499f43/1*EcPJDnxyyGaHsHy0jB0D1Q.jpeg)
+![Calais Jungle demolition, day 4 \(Photo: Abdul Afzali\)](../assets/c57f67499f43/1*EcPJDnxyyGaHsHy0jB0D1Q.jpeg)
 
 Calais Jungle demolition, day 4 \(Photo: Abdul Afzali\)
 
@@ -153,7 +153,7 @@ According to volunteer organisations on site, some volunteers assisting the evac
 
 
 
-![Photo: [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/)](assets/c57f67499f43/1*MfT1sNR7nEtHQ9Y5rgvMTw.jpeg)
+![Photo: [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/)](../assets/c57f67499f43/1*MfT1sNR7nEtHQ9Y5rgvMTw.jpeg)
 
 Photo: [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/)
 ### Dispersion of responsibility issue continues
@@ -176,7 +176,7 @@ Media and NGO reports of the children’s treatment triggered protests of Britis
 According to [The Guardian](https://www.theguardian.com/world/2016/oct/28/calais-france-rebukes-britain-over-abandoned-refugee-children) , lawyers representing some of the children who are eligible to travel to the UK have expressed concern about their inability to contact children currently in the camp area\. They warn that a few of these children have either left what remains of the camp to try their luck elsewhere in France, or have been dispersed by the French authorities even though their names are on a list to come to England\.
 
 
-![Photo: [**Legal Shelter — La Cabane Juridique**](https://www.facebook.com/legalsheltercalais/)](assets/c57f67499f43/1*oshkXuQm9ROx0Ph5mO6q3Q.jpeg)
+![Photo: [**Legal Shelter — La Cabane Juridique**](https://www.facebook.com/legalsheltercalais/)](../assets/c57f67499f43/1*oshkXuQm9ROx0Ph5mO6q3Q.jpeg)
 
 Photo: [**Legal Shelter — La Cabane Juridique**](https://www.facebook.com/legalsheltercalais/)
 #### UK
@@ -197,7 +197,7 @@ Eight London councils \(Camden, Ealing, Hammersmith & Fulham, Hounslow, Islingto
 Refugee Aid Mikalište is trying to do everything they can to help all who visit them in Belgrade\. The pressure on Mikalište has increased due to the recent removal of the Info Park stand and the fact that there are not enough other places to get help\. Mikalište thanks the people who live in the street for their patience and understanding\.
 
 
-![Photo: [Refugee Aid Miksalište](https://www.facebook.com/RefugeeAidMiksaliste/?fref=nf)](assets/c57f67499f43/1*PVxyLQp_SKrS1a4B3b1eqA.jpeg)
+![Photo: [Refugee Aid Miksalište](https://www.facebook.com/RefugeeAidMiksaliste/?fref=nf)](../assets/c57f67499f43/1*PVxyLQp_SKrS1a4B3b1eqA.jpeg)
 
 Photo: [Refugee Aid Miksalište](https://www.facebook.com/RefugeeAidMiksaliste/?fref=nf)
 #### CROATIA
@@ -211,7 +211,7 @@ The daily movement of people in Croatia occurs in both directions: many people a
 The mayor of the Italian town of Montegrotto has responded angrily to local protests against the arrival of 15 refugee women with children\. “I am always open to dialogue with my citizens, but this behaviour is unbearable as a basis to build the foundations for migration,” he stated\. “We have the duty of receiving them, not a favour we’re doing\. So let’s do it properly\.” He points to the already existing model of integration, a funded project that seeks to provide employment of these people as a concrete basis for their integration in the community, Il Mattino di Padova [reports](http://mattinopadova.gelocal.it/padova/cronaca/2016/10/27/news/basta-con-gli-spauracchi-denuncio-chi-semina-odio-1.14317462) \.
 
 
-![Rome’s Baobab volunteers team and their refugee friends together on a guided tour of the historic city centre of Rome \(Photo: [Baobab Experience](https://www.facebook.com/BaobabExperience/?ref=page_internal) \)](assets/c57f67499f43/1*Kbgi4eGpZptd9vta3JGbkQ.jpeg)
+![Rome’s Baobab volunteers team and their refugee friends together on a guided tour of the historic city centre of Rome \(Photo: [Baobab Experience](https://www.facebook.com/BaobabExperience/?ref=page_internal) \)](../assets/c57f67499f43/1*Kbgi4eGpZptd9vta3JGbkQ.jpeg)
 
 Rome’s Baobab volunteers team and their refugee friends together on a guided tour of the historic city centre of Rome \(Photo: [Baobab Experience](https://www.facebook.com/BaobabExperience/?ref=page_internal) \)
 #### SYRIA

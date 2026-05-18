@@ -7,14 +7,14 @@ categories:
 tags: [refugees,migrants,asylum-seekers,digest,syria]
 description: Yazidis in Mount Sinjar Camp Not Receiving Basic Humanitarian Needs///Report Published on Overcrowded Conditions in Samos///Balkan Weather…
 image:
-  path: assets/4574134a0a99/0*np8dedtsWVwuLdb1
+  path: ../assets/4574134a0a99/0*np8dedtsWVwuLdb1
 ---
 
 ### AYS Daily Digest 17/12/19 — Denmark Denies Asylum Claims to Syrians Despite Precarious Security Situation
 #### Yazidis in Mount Sinjar Camp Not Receiving Basic Humanitarian Needs///Report Published on Overcrowded Conditions in Samos///Balkan Weather Report///Swedish Red Cross Warns Against Deportations to Afghanistan
 
 
-![The Samos hotspot\. Photographer:a volunteer for [Project Armonia](https://www.facebook.com/projectarmonia/posts/448245442788007?hc_location=ufi)](assets/4574134a0a99/0*np8dedtsWVwuLdb1)
+![The Samos hotspot\. Photographer:a volunteer for [Project Armonia](https://www.facebook.com/projectarmonia/posts/448245442788007?hc_location=ufi)](../assets/4574134a0a99/0*np8dedtsWVwuLdb1)
 
 The Samos hotspot\. Photographer:a volunteer for [Project Armonia](https://www.facebook.com/projectarmonia/posts/448245442788007?hc_location=ufi)
 
@@ -56,7 +56,7 @@ GREECE
 ### Samos Camp Over Capacity, Arrivals Continue
 
 
-![Photographer: [Project Armonia](https://www.facebook.com/projectarmonia/posts/448245442788007?hc_location=ufi) volunteer](assets/4574134a0a99/0*05KPn0R2n3an-6Qe)
+![Photographer: [Project Armonia](https://www.facebook.com/projectarmonia/posts/448245442788007?hc_location=ufi) volunteer](../assets/4574134a0a99/0*05KPn0R2n3an-6Qe)
 
 Photographer: [Project Armonia](https://www.facebook.com/projectarmonia/posts/448245442788007?hc_location=ufi) volunteer
 
@@ -99,7 +99,7 @@ If you would like to help, you can donate to Project Armonia’s winter fundrais
 Aegean Boat Report published its [summary](https://twitter.com/ABoatReport/status/1206861697765511168/photo/1) of last week’s arrivals to Greece\. About 1,839 people arrived in at least 30 boats\.
 
 
-![](assets/4574134a0a99/0*ahdksJthfzEYsjCn)
+![](../assets/4574134a0a99/0*ahdksJthfzEYsjCn)
 
 
 BALKANS

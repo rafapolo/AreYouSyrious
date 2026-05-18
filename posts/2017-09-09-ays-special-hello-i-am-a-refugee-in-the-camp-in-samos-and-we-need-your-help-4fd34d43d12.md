@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 9/9/2017: “Hello, I am a refugee in the camp in Samos and we need your help!”
+title: "AYS DAILY DIGEST 9/9/2017: “Hello, I am a refugee in the camp in Samos and we need your help!”"
 author: Are You Syrious?
 date: 2017-09-09T22:29:01.862+0100
 last_modified_at: 2017-09-10T14:14:20.789+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,samos,eu,greece,paris]
 description: Alarming messages from overcrowded camp in Samos // Not enough water, food, space // Dreadful conditions in Samos causing high tensions…
 image:
-  path: assets/4fd34d43d12/1*azX0bIu4EmZhJ4MN1AYbTw.jpeg
+  path: ../assets/4fd34d43d12/1*azX0bIu4EmZhJ4MN1AYbTw.jpeg
 ---
 
 ### AYS DAILY DIGEST 9/9/2017: “Hello, I am a refugee in the camp in Samos and we need your help\!”
@@ -15,15 +15,15 @@ image:
 _Alarming messages from overcrowded camp on Samos // Not enough water, food, space // Dreadful conditions on Samos causing high tensions inside the camp // New arrests and possible deportation in Moria // Reports about inhumane living conditions for refugees and migrants in Paris and Brussels_
 
 
-![](assets/4fd34d43d12/1*azX0bIu4EmZhJ4MN1AYbTw.jpeg)
+![](../assets/4fd34d43d12/1*azX0bIu4EmZhJ4MN1AYbTw.jpeg)
 
 
 
-![](assets/4fd34d43d12/1*J_VViQvgghRe01SNVhZkWw.jpeg)
+![](../assets/4fd34d43d12/1*J_VViQvgghRe01SNVhZkWw.jpeg)
 
 
 
-![Photo AYS](assets/4fd34d43d12/1*upxUo92_z7lpRbGEm6Zdlg.jpeg)
+![Photo AYS](../assets/4fd34d43d12/1*upxUo92_z7lpRbGEm6Zdlg.jpeg)
 
 Photo AYS
 ### Feature
@@ -117,7 +117,7 @@ No good news from France even today\. Volunteers need help to continue helping h
 [Calais Action](https://www.facebook.com/calaisaction/?ref=gs&hc_ref=ARRbL6S1TbuTJ9MWR2AcCBeeYywDdWAVwYmXxHpCfpYZuhvtTdfUAQ7UUo5vZ5YXa7Q&fref=gs&hc_location=group) published a call to Paris for blankets, sleeping bags, warm clothes, shoes, and food, but also financial support\.
 
 
-![Photo by Calais Action\.](assets/4fd34d43d12/1*Yr5uAmeF2qyMmdOzrojnpA.jpeg)
+![Photo by Calais Action\.](../assets/4fd34d43d12/1*Yr5uAmeF2qyMmdOzrojnpA.jpeg)
 
 Photo by Calais Action\.
 
@@ -129,7 +129,7 @@ _“We work with dignity, with passion, and with determination\._
 _We try and remember who needs what and where we will be able to find them the next day\. We liaise with other like\-minded groups to offer maximum support\. The media may have forgotten what is happening but the reality remains desperate\. Whatever you can give will go towards making a difference for those with no choice other than to keep on going in this harsh and unjust situation\. We can never thank you enough for choosing to support our efforts in Paris\.”_
 
 
-![](assets/4fd34d43d12/1*ifswQ4s3VE6XI_tOWNGKOA.jpeg)
+![](../assets/4fd34d43d12/1*ifswQ4s3VE6XI_tOWNGKOA.jpeg)
 
 
 This is one of the stories the team recorded in the streets of Paris:
@@ -139,7 +139,7 @@ _“We noticed an older man, probably late forties\. Most of the others are eith
 The situation is not improving in Dunkirk, but volunteers are there to help\. They started distributing winter clothes, but people who are there are sleeping in inadequate shelters and tents that are totally flooded when it rains\. Like yesterday\.
 
 
-![Photo by Care4Calais\.](assets/4fd34d43d12/1*SMmSpikbRC-HNlNOfKncpQ.jpeg)
+![Photo by Care4Calais\.](../assets/4fd34d43d12/1*SMmSpikbRC-HNlNOfKncpQ.jpeg)
 
 Photo by Care4Calais\.
 
@@ -160,7 +160,7 @@ In Germany, the state provides accommodation, food, toiletries, clothes, and “
 Germans feel differently than do their elected officials and they are showing in many ways that whoever needs refuge is welcome in their country\.
 
 
-![](assets/4fd34d43d12/1*EzRnu0osz165wZR4I9GskQ.jpeg)
+![](../assets/4fd34d43d12/1*EzRnu0osz165wZR4I9GskQ.jpeg)
 
 
 Preparations are underway for major protests in Berlin on the 16th and a strong message will be sent from there to fortress Europe as people raise their voices against the exclusion of refugees and migrants\.

@@ -1,5 +1,5 @@
 ---
-title: DAILY DIGEST 29/06/2018: Fear over compassion — the EU choice
+title: "DAILY DIGEST 29/06/2018: Fear over compassion — the EU choice"
 author: Are You Syrious?
 date: 2018-06-30T12:58:38.030+0100
 last_modified_at: 2018-06-30T20:05:59.248+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,bosnia,greece,dunja-mijatović]
 description: The EU have chosen fear over compassion, AI says // 100 people have died in a shipwreck // Over the last two weeks 320 human beings drowned…
 image:
-  path: assets/59f04ce16940/1*tBQuVNlT8-_SRPt37mXg3Q.jpeg
+  path: ../assets/59f04ce16940/1*tBQuVNlT8-_SRPt37mXg3Q.jpeg
 ---
 
 ### DAILY DIGEST 29/06/2018: Fear over compassion — the EU choice
@@ -15,7 +15,7 @@ image:
 The EU have chosen fear over compassion, AI says // 100 people have died in a shipwreck // Over the last two weeks 320 human beings drowned at sea // Political move against solidarity on Lesvos // Call to rapid action by the Greek authorities to improve reception conditions, especially in the hotspots
 
 
-![Camp in Velika Kladuša where several hundred people sleeps in tents in the field\. Photo by AYS\.](assets/59f04ce16940/1*tBQuVNlT8-_SRPt37mXg3Q.jpeg)
+![Camp in Velika Kladuša where several hundred people sleeps in tents in the field\. Photo by AYS\.](../assets/59f04ce16940/1*tBQuVNlT8-_SRPt37mXg3Q.jpeg)
 
 Camp in Velika Kladuša where several hundred people sleeps in tents in the field\. Photo by AYS\.
 ### Feature
@@ -70,7 +70,7 @@ IOM, the UN Migration Agency, reports that **44,957 migrants and refugees entere
 In the past two weeks, there have been 490 new arrivals on Samos\.
 
 
-![](assets/59f04ce16940/1*nnGUcB8BoM_Am8fPC1TcZg.jpeg)
+![](../assets/59f04ce16940/1*nnGUcB8BoM_Am8fPC1TcZg.jpeg)
 
 
 The camp, which has a total capacity of 648 people according to the Hellenic Republic Ministry of Interior, is currently responsible for 2,516 human beings, according to [Samos volunteers](https://www.facebook.com/samosvolunteers/posts/1007102189467941) , who are the greatest help for most of them\.

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 12/7/19: Sweden continues deporting people to danger
+title: "AYS Daily Digest 12/7/19: Sweden continues deporting people to danger"
 author: Are You Syrious?
 date: 2019-07-13T11:54:48.662+0100
 last_modified_at: 2019-07-13T14:18:46.109+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,sweden,afghanistan,europe]
 description: Life without borders initiates a sit-in against deportations from Sweden to Afghanistan / People disembarked from the Sea-Watch 3 still…
 image:
-  path: assets/e60c06d93a8a/1*AkwXGs79xx6gat3L8osWxw.jpeg
+  path: ../assets/e60c06d93a8a/1*AkwXGs79xx6gat3L8osWxw.jpeg
 ---
 
 ### AYS Daily Digest 12/7/19: Sweden continues deporting people to danger
 #### Life without borders initiates a sit\-in against deportations from Sweden to Afghanistan / People disembarked from the Sea\-Watch 3 still illegally detained in Italy / The effects of Greece’s new conservative government are becoming readily apparent / A surge in arrivals in Bosnia and Herzegovina continues, no humane solution in sight / & more news
 
 
-![](assets/e60c06d93a8a/1*AkwXGs79xx6gat3L8osWxw.jpeg)
+![](../assets/e60c06d93a8a/1*AkwXGs79xx6gat3L8osWxw.jpeg)
 
 #### FEATURED
 
@@ -60,7 +60,7 @@ Liv utan gränser demands that:
 The protest has permission to continue until the 19th of July but they will apply for a prolonged permit\.
 
 
-![](assets/e60c06d93a8a/1*PaI6ReZYZDOkq2XNk2Sahg.jpeg)
+![](../assets/e60c06d93a8a/1*PaI6ReZYZDOkq2XNk2Sahg.jpeg)
 
 ### The EU must issue a clear call to close down detention facilities in Libya
 
@@ -170,7 +170,7 @@ Yet another example of what future we can expect comes from reports of a sudden 
 In **Tuzla** , more and more people keep arriving, exceeding the official numbers, among them, alarmingly, a lot of minors and families with young children\.
 
 
-![Photo: [Alma Džinić\-Trutović](https://www.facebook.com/alma.dzinictrutovic?fref=gs&__tn__=%2Cd%2AF%2AF-R&eid=ARDW2CYvv9F0ooMthBtM997CCL1VOz8-xOBHbU0pYQGYkCNAlfwQgB0ypAN9ULEmSaedgndSHlVJPnJd&tn-str=%2AF&dti=348461619200701&hc_location=group_dialog) ‎](assets/e60c06d93a8a/1*RbZl6PQAMEv-CE_baMN8-Q.jpeg)
+![Photo: [Alma Džinić\-Trutović](https://www.facebook.com/alma.dzinictrutovic?fref=gs&__tn__=%2Cd%2AF%2AF-R&eid=ARDW2CYvv9F0ooMthBtM997CCL1VOz8-xOBHbU0pYQGYkCNAlfwQgB0ypAN9ULEmSaedgndSHlVJPnJd&tn-str=%2AF&dti=348461619200701&hc_location=group_dialog) ‎](../assets/e60c06d93a8a/1*RbZl6PQAMEv-CE_baMN8-Q.jpeg)
 
 Photo: [Alma Džinić\-Trutović](https://www.facebook.com/alma.dzinictrutovic?fref=gs&__tn__=%2Cd%2AF%2AF-R&eid=ARDW2CYvv9F0ooMthBtM997CCL1VOz8-xOBHbU0pYQGYkCNAlfwQgB0ypAN9ULEmSaedgndSHlVJPnJd&tn-str=%2AF&dti=348461619200701&hc_location=group_dialog) ‎
 #### ITALY
@@ -202,7 +202,7 @@ Read more \(in Italian\) [HERE](https://www.meltingpot.org/Da-un-confinamento-al
 #### People’s wall in Rome against evictions and the Security Decree Bis
 
 
-![by [Coordinamento Cittadino Lotta Per La Casa](https://www.facebook.com/Coordinamento-cittadino-Lotta-per-la-casa-116048408492166/?__xts__%5B0%5D=68.ARD24uLDnRdL37U-fVtX9vBZ_TSeq-02NujB0-KrvXvxolw0z8f7uO061OQntmB4NcXC-BhfCmlZ2l-RAl7YqB2LwqFUAb16eV_VBot1ORIrxhOrJaEg3Lcjuc4H9MHoy6j3u-e34LAH_BTveEhNh8d870Zdu3UZm5b2zTyRoL61lg5I3gT6SlIU0g5dEij_fWHvbaPYqJkzmd5VkEg5MnuwkvK7UKQv6iHwIZWsy5oHrzJa3PWw4nS-86oN42iNbFqbWWZoU_QrkgAUbc2n4AUDR4gL1rx0xcLIOb7QzrqyKYlbK9XP8DTK3xQzzCUKFDCDKH-65LJN52PyKHo8U4QOJTH8U_b98IjjAdIWEJD0bzxLzZTcMY4C-JLVOE8mRQ4D-p9KpwyvKVmM49JsVRSoXHZFbpy0_1cGoZwvAjobnqbOd88PTY2VVMxVpqyxaXrr_k4Z_NL35D0kS8E-cFV498VoJdBPxnaALLoJBmXIcZNjdMJ4yHSd5rMjNV3y&__tn__=k%2AF&tn-str=k%2AF)](assets/e60c06d93a8a/1*dAf8zwFzIb-x5PB7HAEklg.jpeg)
+![by [Coordinamento Cittadino Lotta Per La Casa](https://www.facebook.com/Coordinamento-cittadino-Lotta-per-la-casa-116048408492166/?__xts__%5B0%5D=68.ARD24uLDnRdL37U-fVtX9vBZ_TSeq-02NujB0-KrvXvxolw0z8f7uO061OQntmB4NcXC-BhfCmlZ2l-RAl7YqB2LwqFUAb16eV_VBot1ORIrxhOrJaEg3Lcjuc4H9MHoy6j3u-e34LAH_BTveEhNh8d870Zdu3UZm5b2zTyRoL61lg5I3gT6SlIU0g5dEij_fWHvbaPYqJkzmd5VkEg5MnuwkvK7UKQv6iHwIZWsy5oHrzJa3PWw4nS-86oN42iNbFqbWWZoU_QrkgAUbc2n4AUDR4gL1rx0xcLIOb7QzrqyKYlbK9XP8DTK3xQzzCUKFDCDKH-65LJN52PyKHo8U4QOJTH8U_b98IjjAdIWEJD0bzxLzZTcMY4C-JLVOE8mRQ4D-p9KpwyvKVmM49JsVRSoXHZFbpy0_1cGoZwvAjobnqbOd88PTY2VVMxVpqyxaXrr_k4Z_NL35D0kS8E-cFV498VoJdBPxnaALLoJBmXIcZNjdMJ4yHSd5rMjNV3y&__tn__=k%2AF&tn-str=k%2AF)](../assets/e60c06d93a8a/1*dAf8zwFzIb-x5PB7HAEklg.jpeg)
 
 by [Coordinamento Cittadino Lotta Per La Casa](https://www.facebook.com/Coordinamento-cittadino-Lotta-per-la-casa-116048408492166/?__xts__%5B0%5D=68.ARD24uLDnRdL37U-fVtX9vBZ_TSeq-02NujB0-KrvXvxolw0z8f7uO061OQntmB4NcXC-BhfCmlZ2l-RAl7YqB2LwqFUAb16eV_VBot1ORIrxhOrJaEg3Lcjuc4H9MHoy6j3u-e34LAH_BTveEhNh8d870Zdu3UZm5b2zTyRoL61lg5I3gT6SlIU0g5dEij_fWHvbaPYqJkzmd5VkEg5MnuwkvK7UKQv6iHwIZWsy5oHrzJa3PWw4nS-86oN42iNbFqbWWZoU_QrkgAUbc2n4AUDR4gL1rx0xcLIOb7QzrqyKYlbK9XP8DTK3xQzzCUKFDCDKH-65LJN52PyKHo8U4QOJTH8U_b98IjjAdIWEJD0bzxLzZTcMY4C-JLVOE8mRQ4D-p9KpwyvKVmM49JsVRSoXHZFbpy0_1cGoZwvAjobnqbOd88PTY2VVMxVpqyxaXrr_k4Z_NL35D0kS8E-cFV498VoJdBPxnaALLoJBmXIcZNjdMJ4yHSd5rMjNV3y&__tn__=k%2AF&tn-str=k%2AF)
 
@@ -232,15 +232,15 @@ Read more [HERE](https://www.theguardian.com/world/2019/jul/12/eritrean-man-rele
 [Collectif La Chapelle Debout](https://www.facebook.com/CollectifLaChapelleDebout/?tn-str=k%2AF&hc_location=group_dialog) report the ‘Black vests’ are in danger due to their activist movements —
 
 
-![](assets/e60c06d93a8a/1*xZk5ilC4kZt38laaIlKuKw.jpeg)
+![](../assets/e60c06d93a8a/1*xZk5ilC4kZt38laaIlKuKw.jpeg)
 
 
 
-![](assets/e60c06d93a8a/1*RUexhsGHisRC6utaGC-nlg.jpeg)
+![](../assets/e60c06d93a8a/1*RUexhsGHisRC6utaGC-nlg.jpeg)
 
 
 
-![Photos: [Collectif La Chapelle Debout](https://www.facebook.com/CollectifLaChapelleDebout/?tn-str=k%2AF&hc_location=group_dialog)](assets/e60c06d93a8a/1*Z2nUiuCTHFVKRsc5GPgLhA.jpeg)
+![Photos: [Collectif La Chapelle Debout](https://www.facebook.com/CollectifLaChapelleDebout/?tn-str=k%2AF&hc_location=group_dialog)](../assets/e60c06d93a8a/1*Z2nUiuCTHFVKRsc5GPgLhA.jpeg)
 
 Photos: [Collectif La Chapelle Debout](https://www.facebook.com/CollectifLaChapelleDebout/?tn-str=k%2AF&hc_location=group_dialog)
 

@@ -5,16 +5,16 @@ date: 2021-02-12T02:50:19.234+0000
 last_modified_at: 2021-02-12T21:37:26.619+0000
 categories: Are You Syrious?
 tags: [digest,refugees,migrants,human-rights,children-rights]
-description: Evidence of Government Attacks Against Civilians in Tigray//Mare Liberum Report: 9,000 People Pushed Back in Aegean in 2020//Hate Crime in…
+description: "Evidence of Government Attacks Against Civilians in Tigray//Mare Liberum Report: 9,000 People Pushed Back in Aegean in 2020//Hate Crime in…"
 image:
-  path: assets/64f2e4154c7d/0*rqIU4X7H13hzcCQo
+  path: ../assets/64f2e4154c7d/0*rqIU4X7H13hzcCQo
 ---
 
 ### AYS Daily Digest 11/2/2021—What is Europe Doing to Children?
 #### Evidence of Government Attacks Against Civilians in Tigray // Mare Liberum Report: 9,000 People Pushed Back in Aegean in 2020 // Hate Crime in Bihać
 
 
-![Current situation in Lipa, BiH\. Photo credit: [Inaki Agirre](https://twitter.com/ikiagirre/status/1359927278583611397?fbclid=IwAR2-X5jgiOG6GP7jJe-RjSMZQT6Mgw9rMq1vfG6Nx6PCL_SeKLYT5tgrG-M)](assets/64f2e4154c7d/0*rqIU4X7H13hzcCQo)
+![Current situation in Lipa, BiH\. Photo credit: [Inaki Agirre](https://twitter.com/ikiagirre/status/1359927278583611397?fbclid=IwAR2-X5jgiOG6GP7jJe-RjSMZQT6Mgw9rMq1vfG6Nx6PCL_SeKLYT5tgrG-M)](../assets/64f2e4154c7d/0*rqIU4X7H13hzcCQo)
 
 Current situation in Lipa, BiH\. Photo credit: [Inaki Agirre](https://twitter.com/ikiagirre/status/1359927278583611397?fbclid=IwAR2-X5jgiOG6GP7jJe-RjSMZQT6Mgw9rMq1vfG6Nx6PCL_SeKLYT5tgrG-M)
 #### FEATURE

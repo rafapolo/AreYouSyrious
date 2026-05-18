@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 17/06: “They killed my husband. If you deport us, they will kill my son as well.”
+title: "AYS News Digest 17/06: “They killed my husband. If you deport us, they will kill my son as well.”"
 author: Are You Syrious?
 date: 2016-06-17T23:32:01.115+0100
 last_modified_at: 2016-06-18T02:26:08.438+0100
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe,syria]
 description: General
 image:
-  path: assets/65ea5736837/1*BYbeYH2OsyTKm6J9kOsNmQ.jpeg
+  path: ../assets/65ea5736837/1*BYbeYH2OsyTKm6J9kOsNmQ.jpeg
 ---
 
 ### AYS News Digest 17/06: “They killed my husband\. If you deport us, they will kill my son as well\.”
 
 
-![Photos: [Nusrat Durrani](https://www.facebook.com/nusrat.durrani) and Beat Bronson](assets/65ea5736837/1*BYbeYH2OsyTKm6J9kOsNmQ.jpeg)
+![Photos: [Nusrat Durrani](https://www.facebook.com/nusrat.durrani) and Beat Bronson](../assets/65ea5736837/1*BYbeYH2OsyTKm6J9kOsNmQ.jpeg)
 
 Photos: [Nusrat Durrani](https://www.facebook.com/nusrat.durrani) and Beat Bronson
 #### General
@@ -39,7 +39,7 @@ Photos: [Nusrat Durrani](https://www.facebook.com/nusrat.durrani) and Beat Brons
 
 
 
-![Photo: _Mohammad Ghannam/MSF_](assets/65ea5736837/1*v4E27vYJG12uGuE7kIxKcg.jpeg)
+![Photo: _Mohammad Ghannam/MSF_](../assets/65ea5736837/1*v4E27vYJG12uGuE7kIxKcg.jpeg)
 
 Photo: _Mohammad Ghannam/MSF_
 ### Weather Forecast: High Wave Warning\!
@@ -213,15 +213,15 @@ Photo: _Mohammad Ghannam/MSF_
 
 
 
-![](assets/65ea5736837/1*ABXl15QGaPnaIsxXyERhVA.jpeg)
+![](../assets/65ea5736837/1*ABXl15QGaPnaIsxXyERhVA.jpeg)
 
 
 
-![](assets/65ea5736837/1*BYbeYH2OsyTKm6J9kOsNmQ.jpeg)
+![](../assets/65ea5736837/1*BYbeYH2OsyTKm6J9kOsNmQ.jpeg)
 
 
 
-![Photos: [Nusrat Durrani](https://www.facebook.com/nusrat.durrani) and Beat Bronson](assets/65ea5736837/1*xnrrjv7frfG6YtXs_semJQ.jpeg)
+![Photos: [Nusrat Durrani](https://www.facebook.com/nusrat.durrani) and Beat Bronson](../assets/65ea5736837/1*xnrrjv7frfG6YtXs_semJQ.jpeg)
 
 Photos: [Nusrat Durrani](https://www.facebook.com/nusrat.durrani) and Beat Bronson
 #### Greece
@@ -253,15 +253,15 @@ Photos: [Nusrat Durrani](https://www.facebook.com/nusrat.durrani) and Beat Brons
 
 
 
-![](assets/65ea5736837/1*HRmbKZYO0qKbYGPoKAFcWw.jpeg)
+![](../assets/65ea5736837/1*HRmbKZYO0qKbYGPoKAFcWw.jpeg)
 
 
 
-![](assets/65ea5736837/1*ex6fKiZe9hqq5F-2Z_Z5SA.jpeg)
+![](../assets/65ea5736837/1*ex6fKiZe9hqq5F-2Z_Z5SA.jpeg)
 
 
 
-![Photos: Lighthouse Relief](assets/65ea5736837/1*juOqGnKtyr2PoRRmdryeYw.jpeg)
+![Photos: Lighthouse Relief](../assets/65ea5736837/1*juOqGnKtyr2PoRRmdryeYw.jpeg)
 
 Photos: Lighthouse Relief
 ### Boat Reports in Greek Islands
@@ -308,7 +308,7 @@ Photos: Lighthouse Relief
 
 
 
-![Photo: Marios Lolos](assets/65ea5736837/1*ma3S1DX-HFzmzn2EfB2pnw.jpeg)
+![Photo: Marios Lolos](../assets/65ea5736837/1*ma3S1DX-HFzmzn2EfB2pnw.jpeg)
 
 Photo: Marios Lolos
 ### Registration ongoing in Thessaloniki
@@ -330,7 +330,7 @@ Photo: Marios Lolos
 
 
 
-![Photo: Info Park](assets/65ea5736837/1*h39zhXSMctF71HNxKCkdLg.jpeg)
+![Photo: Info Park](../assets/65ea5736837/1*h39zhXSMctF71HNxKCkdLg.jpeg)
 
 Photo: Info Park
 #### Italy
@@ -344,7 +344,7 @@ Photo: Info Park
 
 
 
-![Photo: Ansa](assets/65ea5736837/1*SibPbTpQ4aYU-i_qKUDEJw.jpeg)
+![Photo: Ansa](../assets/65ea5736837/1*SibPbTpQ4aYU-i_qKUDEJw.jpeg)
 
 Photo: Ansa
 ### Developments about the situation of refugees and refugee aid in Ventimiglia
@@ -357,7 +357,7 @@ Photo: Ansa
 
 
 
-![Photo: La Stampa](assets/65ea5736837/1*MtjO-6XtDWGmt7LBeX6OrQ.jpeg)
+![Photo: La Stampa](../assets/65ea5736837/1*MtjO-6XtDWGmt7LBeX6OrQ.jpeg)
 
 Photo: La Stampa
 ### Two smugglers arrested in Pozzallo
@@ -392,7 +392,7 @@ Photo: La Stampa
 
 
 
-![Photo: Il Sole 24 Ore Italia](assets/65ea5736837/1*injSccl5pwGNWtqLhaeM3Q.jpeg)
+![Photo: Il Sole 24 Ore Italia](../assets/65ea5736837/1*injSccl5pwGNWtqLhaeM3Q.jpeg)
 
 Photo: Il Sole 24 Ore Italia
 #### Austria
@@ -433,7 +433,7 @@ Photo: Il Sole 24 Ore Italia
 
 
 
-![](assets/65ea5736837/1*m_CNIuWjctkbc796ZhuUhA.jpeg)
+![](../assets/65ea5736837/1*m_CNIuWjctkbc796ZhuUhA.jpeg)
 
 #### France
 ### Kesha Niya Kitchen needs our help\!
@@ -499,7 +499,7 @@ Photo: Il Sole 24 Ore Italia
 
 
 
-![Photo: British Syrian Community of Manchester](assets/65ea5736837/1*bJHjkBSojA2nmxIf3IVbQQ.jpeg)
+![Photo: British Syrian Community of Manchester](../assets/65ea5736837/1*bJHjkBSojA2nmxIf3IVbQQ.jpeg)
 
 Photo: British Syrian Community of Manchester
 

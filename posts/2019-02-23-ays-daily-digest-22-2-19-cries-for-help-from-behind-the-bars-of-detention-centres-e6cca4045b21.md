@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 22/2/19: Cries for help from behind the bars of detention centres
+title: "AYS Daily Digest 22/2/19: Cries for help from behind the bars of detention centres"
 author: Are You Syrious?
 date: 2019-02-23T15:13:40.010+0000
 last_modified_at: 2019-02-23T15:13:40.010+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [newsletter,germany,refugees,rome]
 description: A growing number of calls for help from detention centres, denouncing violence and maltreatment / Baobab group in Rome asks for protective…
 image:
-  path: assets/e6cca4045b21/1*anjsv9tAZORXjgJyTayXag.jpeg
+  path: ../assets/e6cca4045b21/1*anjsv9tAZORXjgJyTayXag.jpeg
 ---
 
 ### AYS Daily Digest 22/2/19: Cries for help from behind the bars of detention centres
 #### A growing number of calls for help from detention centres, denouncing violence and maltreatment / Baobab group in Rome asks for protective measures for migrants lacking basic mechanisms of international protection — video / more news
 
 
-![](assets/e6cca4045b21/1*Tx1u1RSutf5fWmPbOOmJVA.jpeg)
+![](../assets/e6cca4045b21/1*Tx1u1RSutf5fWmPbOOmJVA.jpeg)
 
 
 [Are You Syrious?](https://medium.com/@AreYouSyrious)
@@ -22,7 +22,7 @@ image:
 Feb 23
 
 
-![Photo: [La Cimade](https://www.facebook.com/lacimade/?__xts__%5B0%5D=68.ARBnDAd_osi3DT_Bf3Hb4XyQM2V853qCqJlJaXe4K6QriyGzT8UPngwax-whDbHNdY6sM5Wv4AXtK5RZJQGjhoo7x-gtkgfeVYWsJ8H1OQt3MoCPAyJH-i_c8OiaGIAmErF4YLD3z5mn0YKL6Thr8STpcP1q6f6JBjruiG-15UvuC6eNugym1z--IEnMtkslszkgahWJ7SIfVezEo6MR5RT0aLSWrF3Mv9jqBmQTA6ULdz60oPzVKAZdGmxSrpQRBWJ37y3imwJc5JbqTLI8aGYNRByPkZNGYjunXhRTQ8ZNZ6L2CyZlfeAWd4Fjc4mL3bVf_h0qhtL6-T1aIDxLiQklY4So4-BigP6WXxYBn9ocqwE0zuTx9sT6pDhwbtXVelI9yWYq_xjfujjSyKFF6CbXo_Ku30vIlxII1kbxnK92K98bHuhI9KvveS_isEV5v4m_mm7oKcpuKt05FIeDeCt66vbokLIunVbMHcwY7cq-BpQHGY_wt2nR0bU&__tn__=k%2AF&tn-str=k%2AF)](assets/e6cca4045b21/1*anjsv9tAZORXjgJyTayXag.jpeg)
+![Photo: [La Cimade](https://www.facebook.com/lacimade/?__xts__%5B0%5D=68.ARBnDAd_osi3DT_Bf3Hb4XyQM2V853qCqJlJaXe4K6QriyGzT8UPngwax-whDbHNdY6sM5Wv4AXtK5RZJQGjhoo7x-gtkgfeVYWsJ8H1OQt3MoCPAyJH-i_c8OiaGIAmErF4YLD3z5mn0YKL6Thr8STpcP1q6f6JBjruiG-15UvuC6eNugym1z--IEnMtkslszkgahWJ7SIfVezEo6MR5RT0aLSWrF3Mv9jqBmQTA6ULdz60oPzVKAZdGmxSrpQRBWJ37y3imwJc5JbqTLI8aGYNRByPkZNGYjunXhRTQ8ZNZ6L2CyZlfeAWd4Fjc4mL3bVf_h0qhtL6-T1aIDxLiQklY4So4-BigP6WXxYBn9ocqwE0zuTx9sT6pDhwbtXVelI9yWYq_xjfujjSyKFF6CbXo_Ku30vIlxII1kbxnK92K98bHuhI9KvveS_isEV5v4m_mm7oKcpuKt05FIeDeCt66vbokLIunVbMHcwY7cq-BpQHGY_wt2nR0bU&__tn__=k%2AF&tn-str=k%2AF)](../assets/e6cca4045b21/1*anjsv9tAZORXjgJyTayXag.jpeg)
 
 Photo: [La Cimade](https://www.facebook.com/lacimade/?__xts__%5B0%5D=68.ARBnDAd_osi3DT_Bf3Hb4XyQM2V853qCqJlJaXe4K6QriyGzT8UPngwax-whDbHNdY6sM5Wv4AXtK5RZJQGjhoo7x-gtkgfeVYWsJ8H1OQt3MoCPAyJH-i_c8OiaGIAmErF4YLD3z5mn0YKL6Thr8STpcP1q6f6JBjruiG-15UvuC6eNugym1z--IEnMtkslszkgahWJ7SIfVezEo6MR5RT0aLSWrF3Mv9jqBmQTA6ULdz60oPzVKAZdGmxSrpQRBWJ37y3imwJc5JbqTLI8aGYNRByPkZNGYjunXhRTQ8ZNZ6L2CyZlfeAWd4Fjc4mL3bVf_h0qhtL6-T1aIDxLiQklY4So4-BigP6WXxYBn9ocqwE0zuTx9sT6pDhwbtXVelI9yWYq_xjfujjSyKFF6CbXo_Ku30vIlxII1kbxnK92K98bHuhI9KvveS_isEV5v4m_mm7oKcpuKt05FIeDeCt66vbokLIunVbMHcwY7cq-BpQHGY_wt2nR0bU&__tn__=k%2AF&tn-str=k%2AF)
 #### FEATURE
@@ -102,7 +102,7 @@ The Sea\-Watch 3 had been stuck in the port of Catania, Sicily, since 31st Janua
 The rescue took place on 19th January, with neither coordination nor a mandatory port of safety provided by search and rescue authorities, for 10 days\. After the disembarkation in Catania, a statement was published by the Office of the Public Prosecutor of Catania, clarifying that the crew and ship, in conducting the rescue, acted in full accordance with the law\. Subsequently, a ludicrous barrage of controls and inspections ensued to block the ship from sailing, [Sea Watch reported\.](https://sea-watch.org/en/sea-watch-3-sails-to-scheduled-shipyard-maintenance-in-france/?fbclid=IwAR1Vv1voWvMY0FIaIuYgF8pk6WFNq2dn9u0Ayf5u9J2OPw_LVE7c6Yn5I90)
 
 
-![Our crew is looking for protection from a heavy storm in the coming days\. — [sea\-eye](https://www.facebook.com/seaeyeorg/?tn-str=k%2AF)](assets/e6cca4045b21/1*hvsDCfY3SQgAYKJXJxon-w.jpeg)
+![Our crew is looking for protection from a heavy storm in the coming days\. — [sea\-eye](https://www.facebook.com/seaeyeorg/?tn-str=k%2AF)](../assets/e6cca4045b21/1*hvsDCfY3SQgAYKJXJxon-w.jpeg)
 
 Our crew is looking for protection from a heavy storm in the coming days\. — [sea\-eye](https://www.facebook.com/seaeyeorg/?tn-str=k%2AF)
 
@@ -141,11 +141,11 @@ Find the full text about the fate of a detained woman in Greece and a link to th
 [Umino](https://www.facebook.com/umino.org/?tn-str=k%2AF&hc_location=group_dialog) team reports: Nearly 50 young people populate the collapse of endangered ruins\. Most of them have been here for many months\.
 
 
-![](assets/e6cca4045b21/1*tWzCAZxusrhjjDNp4ZeJZw.jpeg)
+![](../assets/e6cca4045b21/1*tWzCAZxusrhjjDNp4ZeJZw.jpeg)
 
 
 
-![](assets/e6cca4045b21/1*k2-wxiJ0IZPKdut5cP1LXA.jpeg)
+![](../assets/e6cca4045b21/1*k2-wxiJ0IZPKdut5cP1LXA.jpeg)
 
 #### WEATHER FORECAST FOR THE BALKANS for Saturday, Feb 23
 
@@ -209,7 +209,7 @@ It is [reported](http://www.brindisioggi.it/braccio-ferro-migranti-sul-piazzale-
 The realities of the system…
 
 
-![](assets/e6cca4045b21/1*vzrFV9VMPofpPjRAzvtk2A.jpeg)
+![](../assets/e6cca4045b21/1*vzrFV9VMPofpPjRAzvtk2A.jpeg)
 
 
 
@@ -280,7 +280,7 @@ The realities of the system…
 
 
 
-![Points of view — by [Migrations en questions](https://www.facebook.com/migrationsenquestions/?__xts__%5B0%5D=68.ARCsaqhoBZwAlJb374q7ZtySjNcQdUhR-o3yWj9wCC3YbLrjtOC2Ud_swYc2iFS1ZC9ESqg9MiuiyR8-yeBbStGoHqP4WBMUUISnjIJEhu9C6oatbPh13odgKvkI4AFIsnJMEKIu5_rdW5IHTB92Oc-2UHmUCWTDCMwHG3bwvtOZMMIBpB-Y9YMvYDAoBG3E-tuTiYtzKJlKJXW0nHgz5RzKXbOJH4aJSelDuRFKl4XrjbaqT1joIo6efc8FLOsyem04ZG3tiUbbhsOWw8DyCvLSf8MZMdOPmdSPTAjQtYPZsPJBdad5EiBV8-ARGwgZWScnVT4JrtTLsFAno4oC6Ou1Y0jk7ohvYYGfTZ3by1eICk-xxbH7TCeZOeJ91nATEPGqFQVUuDQhEkdK90IG3HAhrlbNPIXhW59OvC7Pxz0IjuvHqCSYJ608YtajjosQcmArR3dMooHfa_K5z1If460r0mne-qKcuBd-6dd5CWbYeo_vTuLmC3dsTw&__tn__=k%2AF&tn-str=k%2AF)](assets/e6cca4045b21/1*ZIfIg4bcQkdjxsI9AakL9Q.png)
+![Points of view — by [Migrations en questions](https://www.facebook.com/migrationsenquestions/?__xts__%5B0%5D=68.ARCsaqhoBZwAlJb374q7ZtySjNcQdUhR-o3yWj9wCC3YbLrjtOC2Ud_swYc2iFS1ZC9ESqg9MiuiyR8-yeBbStGoHqP4WBMUUISnjIJEhu9C6oatbPh13odgKvkI4AFIsnJMEKIu5_rdW5IHTB92Oc-2UHmUCWTDCMwHG3bwvtOZMMIBpB-Y9YMvYDAoBG3E-tuTiYtzKJlKJXW0nHgz5RzKXbOJH4aJSelDuRFKl4XrjbaqT1joIo6efc8FLOsyem04ZG3tiUbbhsOWw8DyCvLSf8MZMdOPmdSPTAjQtYPZsPJBdad5EiBV8-ARGwgZWScnVT4JrtTLsFAno4oC6Ou1Y0jk7ohvYYGfTZ3by1eICk-xxbH7TCeZOeJ91nATEPGqFQVUuDQhEkdK90IG3HAhrlbNPIXhW59OvC7Pxz0IjuvHqCSYJ608YtajjosQcmArR3dMooHfa_K5z1If460r0mne-qKcuBd-6dd5CWbYeo_vTuLmC3dsTw&__tn__=k%2AF&tn-str=k%2AF)](../assets/e6cca4045b21/1*ZIfIg4bcQkdjxsI9AakL9Q.png)
 
 Points of view — by [Migrations en questions](https://www.facebook.com/migrationsenquestions/?__xts__%5B0%5D=68.ARCsaqhoBZwAlJb374q7ZtySjNcQdUhR-o3yWj9wCC3YbLrjtOC2Ud_swYc2iFS1ZC9ESqg9MiuiyR8-yeBbStGoHqP4WBMUUISnjIJEhu9C6oatbPh13odgKvkI4AFIsnJMEKIu5_rdW5IHTB92Oc-2UHmUCWTDCMwHG3bwvtOZMMIBpB-Y9YMvYDAoBG3E-tuTiYtzKJlKJXW0nHgz5RzKXbOJH4aJSelDuRFKl4XrjbaqT1joIo6efc8FLOsyem04ZG3tiUbbhsOWw8DyCvLSf8MZMdOPmdSPTAjQtYPZsPJBdad5EiBV8-ARGwgZWScnVT4JrtTLsFAno4oC6Ou1Y0jk7ohvYYGfTZ3by1eICk-xxbH7TCeZOeJ91nATEPGqFQVUuDQhEkdK90IG3HAhrlbNPIXhW59OvC7Pxz0IjuvHqCSYJ608YtajjosQcmArR3dMooHfa_K5z1If460r0mne-qKcuBd-6dd5CWbYeo_vTuLmC3dsTw&__tn__=k%2AF&tn-str=k%2AF)
 #### GERMANY/SWEDEN

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 12/01/2018: When loving your home means speaking out
+title: "AYS Daily Digest 12/01/2018: When loving your home means speaking out"
 author: Are You Syrious?
 date: 2018-01-13T12:00:41.179+0000
 last_modified_at: 2018-01-13T13:18:45.780+0000
@@ -7,7 +7,7 @@ categories:
 tags: [europe]
 description: Patriotism and solidarity called into question // Reporter detained in Greece // Updates from Greece // Finger-pointing in the Hungarian…
 image:
-  path: assets/dfe0199982f4/1*uu-PL3tj7TXgNc66QGfPqQ.jpeg
+  path: ../assets/dfe0199982f4/1*uu-PL3tj7TXgNc66QGfPqQ.jpeg
 ---
 
 ### AYS Daily Digest 12/01/2018: When loving your home means speaking out
@@ -15,7 +15,7 @@ image:
 _Patriotism and solidarity called into question // Reporter detained in Greece // Updates from Greece // Finger\-pointing in the Hungarian government // Rejection of asylum claims increasing in Austria // Italian town bands together in support of refugees // Belgian immigration minister collaborating with Sudanese government in deporting asylum seekers from Sudan // Refugees again, a bargaining tool in upcoming German coalition talks //_
 
 
-![Photo Credit: Refugee Solidarity Pikpa](assets/dfe0199982f4/1*uu-PL3tj7TXgNc66QGfPqQ.jpeg)
+![Photo Credit: Refugee Solidarity Pikpa](../assets/dfe0199982f4/1*uu-PL3tj7TXgNc66QGfPqQ.jpeg)
 
 Photo Credit: Refugee Solidarity Pikpa
 
@@ -52,7 +52,7 @@ A undertone to all of this back and forth between governments and NGOs is that m
 #### New Arrival Report
 
 
-![](assets/dfe0199982f4/1*wcGGp04Qt6qW0u457NwIRQ.jpeg)
+![](../assets/dfe0199982f4/1*wcGGp04Qt6qW0u457NwIRQ.jpeg)
 
 #### Registrations and Transfers on 11 January:
 
@@ -68,7 +68,7 @@ There is continual warning of the extreme weather that commenced on the 10 Janua
 The Organization Metadrasi recently published an update in Greek on the success of their program for unaccompanied minors which seeks to place them in Greek homestays\. In keeping with the International Convention on the Right of the Child and other national and international rules and regulations, the organization finds this solution to be beneficial both to the host community and the unaccompanied minors, who need additional support and care in order to work through the ongoing trauma of their situation\. If you read Greek, check it out, [here](http://metadrasi.org/campaigns/%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%81%CE%B9%CE%BD%CE%AE-%CF%86%CE%B9%CE%BB%CE%BF%CE%BE%CE%B5%CE%BD%CE%AF%CE%B1-%CF%83%CE%B5-%CE%BF%CE%B9%CE%BA%CE%BF%CE%B3%CE%AD%CE%BD%CE%B5%CE%B9%CE%B5%CF%82/) \.
 
 
-![Photo Credit: METAdrasi](assets/dfe0199982f4/1*AZtznOmPU3TsM_62xgO9YQ.jpeg)
+![Photo Credit: METAdrasi](../assets/dfe0199982f4/1*AZtznOmPU3TsM_62xgO9YQ.jpeg)
 
 Photo Credit: METAdrasi
 #### Islands
@@ -104,7 +104,7 @@ Read the full report [here](https://dailynewshungary.com/jobbik-seeks-explanatio
 The group [Border Crossing Spielfeld](https://www.facebook.com/RefugeesSpielfeld/photos/a.1631294960464320.1073741828.1631251033802046/1976813642579115/?type=3&theater) published a graph showing the monthly facts and figures of asylum applications, positive decisions, negative decisions, applications in process, and deportations for refugees from Afghanistan\. The data in the graph run from September 2016 to November 2017\. One can see a steady decline in positive decisions and a slow increase in negative decisions\. As the political situation in Austria continues to deteriorate, one can only expect this trend to continue\.
 
 
-![Photo credit: Border Crossing Spielfeld](assets/dfe0199982f4/1*7TiQ6ytNLKY6r3riQNQ4xA.jpeg)
+![Photo credit: Border Crossing Spielfeld](../assets/dfe0199982f4/1*7TiQ6ytNLKY6r3riQNQ4xA.jpeg)
 
 Photo credit: Border Crossing Spielfeld
 
@@ -122,7 +122,7 @@ In a positive turn, the residents of a small town, Ripabottoni, in the region of
 The organization [**Ex OPG Occupato — Je so’ pazzo**](https://www.facebook.com/exopgjesopazzo/?hc_ref=ARTHsh-bG13ycCTKkSK58YzKwDtSrrMDUk91KNYOpOKIwtW40UsLPMoiEsqtXTrjsv8) has restarted their free legal advice clinic for refugees and migrants — the organization is based in Naples\. The organization enthusiastically supports all efforts to enable refugees to enjoy their full rights, as no human is illegal\.
 
 
-![Photo Credit: [**Ex OPG Occupato — Je so’ pazzo**](https://www.facebook.com/exopgjesopazzo/?hc_ref=ARTHsh-bG13ycCTKkSK58YzKwDtSrrMDUk91KNYOpOKIwtW40UsLPMoiEsqtXTrjsv8)](assets/dfe0199982f4/1*KhJn4_1KsRmW1JsZqCvcCw.jpeg)
+![Photo Credit: [**Ex OPG Occupato — Je so’ pazzo**](https://www.facebook.com/exopgjesopazzo/?hc_ref=ARTHsh-bG13ycCTKkSK58YzKwDtSrrMDUk91KNYOpOKIwtW40UsLPMoiEsqtXTrjsv8)](../assets/dfe0199982f4/1*KhJn4_1KsRmW1JsZqCvcCw.jpeg)
 
 Photo Credit: [**Ex OPG Occupato — Je so’ pazzo**](https://www.facebook.com/exopgjesopazzo/?hc_ref=ARTHsh-bG13ycCTKkSK58YzKwDtSrrMDUk91KNYOpOKIwtW40UsLPMoiEsqtXTrjsv8)
 ### FRANCE

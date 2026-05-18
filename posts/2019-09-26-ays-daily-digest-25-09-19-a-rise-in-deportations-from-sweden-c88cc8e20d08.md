@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 25/09/19: A rise in deportations from Sweden
+title: "AYS Daily Digest 25/09/19: A rise in deportations from Sweden"
 author: Are You Syrious?
 date: 2019-09-26T11:21:45.947+0100
 last_modified_at: 2019-09-26T12:13:47.060+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,deportations,migration]
 description: Dreadful living conditions in camps exuberated after rains hit Aegean islands / increase in violence at the hands of Serbian police…
 image:
-  path: assets/c88cc8e20d08/1*zy55xqSh6NQPst-1ca_n_w.jpeg
+  path: ../assets/c88cc8e20d08/1*zy55xqSh6NQPst-1ca_n_w.jpeg
 ---
 
 ### AYS Daily Digest 25/09/19: A rise in deportations from Sweden
 #### Dreadful living conditions in camps made worse after rains hit Aegean islands // Increase in violence at the hands of Serbian police against people who have been pushed back to Macedonia // People violently returned from Croatia’s capital to Bosnia and Herzegovina, and with no paper trace or mention of international protection // Somalia a safe country — a single case in Denmark calls into question the entire basis of the former government’s return policy // & more news
 
 
-![Moria, Lesvos \(Photo: [Ihab Abassi](https://www.facebook.com/ysalaam?__tn__=%2Cd%2AF%2AF-R&eid=ARD7bqSQ0eaXZOtAYHAAZcozHXp4QODV-bKNHUYEtgVVVjSnnjHvRdg9GScRwest3S3m_ScS5TPPJojU&tn-str=%2AF) \)](assets/c88cc8e20d08/1*zy55xqSh6NQPst-1ca_n_w.jpeg)
+![Moria, Lesvos \(Photo: [Ihab Abassi](https://www.facebook.com/ysalaam?__tn__=%2Cd%2AF%2AF-R&eid=ARD7bqSQ0eaXZOtAYHAAZcozHXp4QODV-bKNHUYEtgVVVjSnnjHvRdg9GScRwest3S3m_ScS5TPPJojU&tn-str=%2AF) \)](../assets/c88cc8e20d08/1*zy55xqSh6NQPst-1ca_n_w.jpeg)
 
 Moria, Lesvos \(Photo: [Ihab Abassi](https://www.facebook.com/ysalaam?__tn__=%2Cd%2AF%2AF-R&eid=ARD7bqSQ0eaXZOtAYHAAZcozHXp4QODV-bKNHUYEtgVVVjSnnjHvRdg9GScRwest3S3m_ScS5TPPJojU&tn-str=%2AF) \)
 #### FEATURED
@@ -35,11 +35,11 @@ _“All the police work is based on a humane, compassionate and legal approach\.
 A temporary relocation mechanism can only be the first step towards a long\-term political solution to the deadlock in the Mediterranean\. For it to be fair and based on actual human needs, the [E](https://twitter.com/hashtag/EU?src=hashtag_click) U has to follow these legal and political guidelines, SAR organisations claim, as a reaction to the Malta conference:
 
 
-![](assets/c88cc8e20d08/1*bb6L3ZGlcDG90J6gXFtRcg.jpeg)
+![](../assets/c88cc8e20d08/1*bb6L3ZGlcDG90J6gXFtRcg.jpeg)
 
 
 
-![](assets/c88cc8e20d08/1*OSDpSzacNvIcwzsbam1FUw.jpeg)
+![](../assets/c88cc8e20d08/1*OSDpSzacNvIcwzsbam1FUw.jpeg)
 
 #### GREECE
 ### Islands
@@ -81,11 +81,11 @@ As the winter draws closer not much has changed in the border area of Bosnia and
 **This happens every day\.**
 
 
-![](assets/c88cc8e20d08/1*aeBVsPwr5lsiQiP_vAPtCg.jpeg)
+![](../assets/c88cc8e20d08/1*aeBVsPwr5lsiQiP_vAPtCg.jpeg)
 
 
 
-![Photos: [Lorena Fornasir](https://www.facebook.com/lorena.fornasir?__tn__=%2Cd%2AF%2AF-R&eid=ARD8p504DWW1s60sjYemEsVgDIaVBiPZ2Hsrr0hiRkjuGrdlWByYR9vdGw2Lqrqv4MRoJ-mygEyunaHo&tn-str=%2AF&hc_location=group_dialog)](assets/c88cc8e20d08/1*XA8KaqUho5yldwUwb_XrIw.jpeg)
+![Photos: [Lorena Fornasir](https://www.facebook.com/lorena.fornasir?__tn__=%2Cd%2AF%2AF-R&eid=ARD8p504DWW1s60sjYemEsVgDIaVBiPZ2Hsrr0hiRkjuGrdlWByYR9vdGw2Lqrqv4MRoJ-mygEyunaHo&tn-str=%2AF&hc_location=group_dialog)](../assets/c88cc8e20d08/1*XA8KaqUho5yldwUwb_XrIw.jpeg)
 
 Photos: [Lorena Fornasir](https://www.facebook.com/lorena.fornasir?__tn__=%2Cd%2AF%2AF-R&eid=ARD8p504DWW1s60sjYemEsVgDIaVBiPZ2Hsrr0hiRkjuGrdlWByYR9vdGw2Lqrqv4MRoJ-mygEyunaHo&tn-str=%2AF&hc_location=group_dialog)
 #### NORTHERN EUROPE

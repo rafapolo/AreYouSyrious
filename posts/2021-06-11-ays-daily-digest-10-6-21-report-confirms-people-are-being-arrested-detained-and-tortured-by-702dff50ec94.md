@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 10/6/21: Report confirms — people are being arrested, detained, and tortured by…
+title: "AYS Daily Digest 10/6/21: Report confirms — people are being arrested, detained, and tortured by…"
 author: Are You Syrious?
 date: 2021-06-11T12:51:07.425+0100
 last_modified_at: 2021-06-11T18:16:43.473+0100
 categories: Are You Syrious?
 tags: [digest,refugees,report,germany,syria]
-description: State of things at the Italian — French border / News from the SAR teams in the Mediterranean / Germany: European Court of Justice decided…
+description: "State of things at the Italian — French border / News from the SAR teams in the Mediterranean / Germany: European Court of Justice decided…"
 image:
-  path: assets/702dff50ec94/0*zYQyuAgQhxNy-DpE
+  path: ../assets/702dff50ec94/0*zYQyuAgQhxNy-DpE
 ---
 
 ### AYS Daily Digest 10/6/21: Report confirms — people are being arrested, detained, and tortured by Syrian authorities upon return
 #### State of things at the Italian\-French border / News from the SAR teams in the Mediterranean / Germany: European Court of Justice decided on the requirements for granting subsidiary protection, giving hope to Afghans, in particular / Recommended reads & more
 
 
-![[**Syria: Situation of returnees from abroad**](https://coi.easo.europa.eu/administration/easo/PLib/2021_06_EASO_Syria_Situation_returnees_from_abroad.pdf) report was drafted by the Country of Origin Information \(COI\) Unit of the Netherlands Ministry of Foreign Affairs\[2\], in accordance with the [EASO COI Report Methodology](https://coi.easo.europa.eu/administration/easo/PLib/2019_EASO_COI_Report_Methodology.pdf) , and was reviewed by Denmark, Danish Immigration Service \(DIS\), Hungary, National Directorate\-General for Aliens Policing Documentation Centre and the EASO COI Sector\.](assets/702dff50ec94/0*zYQyuAgQhxNy-DpE)
+![[**Syria: Situation of returnees from abroad**](https://coi.easo.europa.eu/administration/easo/PLib/2021_06_EASO_Syria_Situation_returnees_from_abroad.pdf) report was drafted by the Country of Origin Information \(COI\) Unit of the Netherlands Ministry of Foreign Affairs\[2\], in accordance with the [EASO COI Report Methodology](https://coi.easo.europa.eu/administration/easo/PLib/2019_EASO_COI_Report_Methodology.pdf) , and was reviewed by Denmark, Danish Immigration Service \(DIS\), Hungary, National Directorate\-General for Aliens Policing Documentation Centre and the EASO COI Sector\.](../assets/702dff50ec94/0*zYQyuAgQhxNy-DpE)
 
 [**Syria: Situation of returnees from abroad**](https://coi.easo.europa.eu/administration/easo/PLib/2021_06_EASO_Syria_Situation_returnees_from_abroad.pdf) report was drafted by the Country of Origin Information \(COI\) Unit of the Netherlands Ministry of Foreign Affairs\[2\], in accordance with the [EASO COI Report Methodology](https://coi.easo.europa.eu/administration/easo/PLib/2019_EASO_COI_Report_Methodology.pdf) , and was reviewed by Denmark, Danish Immigration Service \(DIS\), Hungary, National Directorate\-General for Aliens Policing Documentation Centre and the EASO COI Sector\.
 #### FEATURED
@@ -38,7 +38,7 @@ It’s an impossible bind: If the returnee does not adhere to the written instru
 ### Update from the Monginevro border
 
 
-![Photo: [PASSAMONTAGNA](https://www.passamontagna.info/?author=1&lang=en)](assets/702dff50ec94/0*BUHeu783lArRu5Oo.jpg)
+![Photo: [PASSAMONTAGNA](https://www.passamontagna.info/?author=1&lang=en)](../assets/702dff50ec94/0*BUHeu783lArRu5Oo.jpg)
 
 Photo: [PASSAMONTAGNA](https://www.passamontagna.info/?author=1&lang=en)
 
@@ -91,7 +91,7 @@ The group’s reports and news from the border area are available in different l
 
 
 
-![Infographic: [Watch The Med — Alarmphone](https://web.facebook.com/watchthemed.alarmphone/?__cft__[0]=AZVe60KP2kAB7K1Mart1lXbMgbXBXw2oSxT9hOLY9TFG5e4Y1WjKVuSNp_1hIkQ0XEihl8MPR4ksYc8oB3TsrkzOy51kgWpAWDyobyQ5cooKYwnTrAgYC-rtZrG4sF5DSc1QVPCXq3d2G-9Ma-rSpNUG9yyW8irkKmcFEhpYy3ydvGoJJ7l6_yjs7IYK2qhRAPs_uPFCU4bHOX2ktRYzfKqv&__tn__=-UC%2CP-y-R)](assets/702dff50ec94/0*5IQ5Br2oE3FMO9V2)
+![Infographic: [Watch The Med — Alarmphone](https://web.facebook.com/watchthemed.alarmphone/?__cft__[0]=AZVe60KP2kAB7K1Mart1lXbMgbXBXw2oSxT9hOLY9TFG5e4Y1WjKVuSNp_1hIkQ0XEihl8MPR4ksYc8oB3TsrkzOy51kgWpAWDyobyQ5cooKYwnTrAgYC-rtZrG4sF5DSc1QVPCXq3d2G-9Ma-rSpNUG9yyW8irkKmcFEhpYy3ydvGoJJ7l6_yjs7IYK2qhRAPs_uPFCU4bHOX2ktRYzfKqv&__tn__=-UC%2CP-y-R)](../assets/702dff50ec94/0*5IQ5Br2oE3FMO9V2)
 
 Infographic: [Watch The Med — Alarmphone](https://web.facebook.com/watchthemed.alarmphone/?__cft__[0]=AZVe60KP2kAB7K1Mart1lXbMgbXBXw2oSxT9hOLY9TFG5e4Y1WjKVuSNp_1hIkQ0XEihl8MPR4ksYc8oB3TsrkzOy51kgWpAWDyobyQ5cooKYwnTrAgYC-rtZrG4sF5DSc1QVPCXq3d2G-9Ma-rSpNUG9yyW8irkKmcFEhpYy3ydvGoJJ7l6_yjs7IYK2qhRAPs_uPFCU4bHOX2ktRYzfKqv&__tn__=-UC%2CP-y-R)
 
@@ -108,7 +108,7 @@ In a later update, they said they lost contact with the people: “Last time we 
 There are 9 women and many children among them\.”
 
 
-![Photo: MSF](assets/702dff50ec94/0*MJS6UCZrg4A4zcAh)
+![Photo: MSF](../assets/702dff50ec94/0*MJS6UCZrg4A4zcAh)
 
 Photo: MSF
 
@@ -160,11 +160,11 @@ Bizarre court cases of criminalization reaching mainstream media headlines are t
 **Our friends at Wave — Thessaloniki are looking for a new logistics coordinator:**
 
 
-![](assets/702dff50ec94/0*wGkJ4nFyWBzUw8QY)
+![](../assets/702dff50ec94/0*wGkJ4nFyWBzUw8QY)
 
 
 
-![](assets/702dff50ec94/0*hmBSBOyY9g9gGf5z)
+![](../assets/702dff50ec94/0*hmBSBOyY9g9gGf5z)
 
 #### FRANCE
 ### Evictions of the only property people on the move have, leaving them homeless again
@@ -211,15 +211,15 @@ At the same time, the regular clashes across the country c [ontinue](https://www
 
 
 
-![](assets/702dff50ec94/0*yhCJ4thJS3Kkbcs3)
+![](../assets/702dff50ec94/0*yhCJ4thJS3Kkbcs3)
 
 
 
-![](assets/702dff50ec94/0*u-a7LBGg-qWb7UBB)
+![](../assets/702dff50ec94/0*u-a7LBGg-qWb7UBB)
 
 
 
-![](assets/702dff50ec94/0*obmVbV0jBNWN3yTz)
+![](../assets/702dff50ec94/0*obmVbV0jBNWN3yTz)
 
 #### WORTH READING
 - From Italy: Laura Lo Verde works at the Legal Clinic for Human Rights of the University of Palermo and is a PhD student in “Human Rights: evolution, protection and limits” at the University of Palermo\. This is the third post of the blog series on “ **Migrant detention and confinement in Italy at the time of Covid\-19”** , published on Border Criminologies and edited by Francesca Esposito and Giulia Fabini\.

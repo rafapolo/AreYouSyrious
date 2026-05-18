@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 17–18/08/2019: “Rescued”vs. “Captured” and Salvini’s forked tongue…
+title: "AYS Weekend Digest 17–18/08/2019: “Rescued”vs. “Captured” and Salvini’s forked tongue…"
 author: Are You Syrious?
 date: 2019-08-19T13:06:40.911+0100
 last_modified_at: 2019-08-19T15:56:19.109+0100
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,digest,search-and-rescue,migration]
 description: Many pages have been dedicated to the strategic use of “Migrant” versus “Refugee” in broader discourse, little attention is paid to the…
 image:
-  path: assets/2466906663f8/1*-bkM8t1tRFMN_dVp1z-gow.jpeg
+  path: ../assets/2466906663f8/1*-bkM8t1tRFMN_dVp1z-gow.jpeg
 ---
 
 ### AYS Weekend Digest 17–18/08/2019: “Rescued”vs\. “Captured” and Salvini’s forked tongue…
 
 
-![Beatings in Libya drawn aboard the Ocean Viking, [Photo Credit SOS Mediterranee](https://www.facebook.com/sosmeditalia/photos/pcb.2324438834472764/2324438737806107/?type=3&theater)](assets/2466906663f8/1*-bkM8t1tRFMN_dVp1z-gow.jpeg)
+![Beatings in Libya drawn aboard the Ocean Viking, [Photo Credit SOS Mediterranee](https://www.facebook.com/sosmeditalia/photos/pcb.2324438834472764/2324438737806107/?type=3&theater)](../assets/2466906663f8/1*-bkM8t1tRFMN_dVp1z-gow.jpeg)
 
 Beatings in Libya drawn aboard the Ocean Viking, [Photo Credit SOS Mediterranee](https://www.facebook.com/sosmeditalia/photos/pcb.2324438834472764/2324438737806107/?type=3&theater)
 
@@ -176,7 +176,7 @@ In this vein, European Lawyers in **Lesvos** have received some more funding and
 Every day people continue to help those displaced in Bosnia, with the local community of **Kljuc, Bosnia** giving their all\. See all of the families stranded along the way\.
 
 
-![Photo Credit Sanella Lepirica](assets/2466906663f8/1*QTNjVYB3Pyntr3sNjUbCqQ.jpeg)
+![Photo Credit Sanella Lepirica](../assets/2466906663f8/1*QTNjVYB3Pyntr3sNjUbCqQ.jpeg)
 
 Photo Credit Sanella Lepirica
 

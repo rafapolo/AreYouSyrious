@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 18-19/08/18: AYS volunteers bullied by police in Sarajevo
+title: "AYS Weekend Digest 18-19/08/18: AYS volunteers bullied by police in Sarajevo"
 author: Are You Syrious?
 date: 2018-08-20T00:39:02.249+0100
 last_modified_at: 2018-08-20T20:25:41.872+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,solidarity,bosnia,italy]
 description: More than 10.000 refugees stuck on Lesvos. Teachers and educational materials needed in Athens. Germany reached an agreement with Greece to…
 image:
-  path: assets/ccfe63b6984c/1*pmDF-b-ZeLGIJVcm395Ukg.jpeg
+  path: ../assets/ccfe63b6984c/1*pmDF-b-ZeLGIJVcm395Ukg.jpeg
 ---
 
 ### AYS Weekend Digest 18\-19/08/18: AYS volunteers bullied by police in Sarajevo
 #### More than 10\.000 refugees stuck on Lesvos\. Teachers and educational materials needed in Athens\. Germany reached an agreement with Greece to start returning refugees\. Refugee paths grow more dangerous as people try to avoid pushbacks from Croatia\. Hungarian authorities deny food to people in transit zones\. Diciotti ship stranded with 177 people aboard off Italian coast\. Families kept locked up illegaly in Caricole detention center in Belgium\. A medical volunteer describes conditions in Calais\.
 
 
-![Photo: [Mohammad Alaa Aljaleel](https://www.facebook.com/profile.php?id=100009229294674&hc_location=group_dialog)](assets/ccfe63b6984c/1*pmDF-b-ZeLGIJVcm395Ukg.jpeg)
+![Photo: [Mohammad Alaa Aljaleel](https://www.facebook.com/profile.php?id=100009229294674&hc_location=group_dialog)](../assets/ccfe63b6984c/1*pmDF-b-ZeLGIJVcm395Ukg.jpeg)
 
 Photo: [Mohammad Alaa Aljaleel](https://www.facebook.com/profile.php?id=100009229294674&hc_location=group_dialog)
 
@@ -47,7 +47,7 @@ More than 600 people, including many women and children, have arrived to Lesvos 
 
 
 
-![A much needed container of aid made a difference on Lesvos\. Photo: Kempsons / The Hope Project](assets/ccfe63b6984c/1*aMwYN6521sNkaonxmSePpg.jpeg)
+![A much needed container of aid made a difference on Lesvos\. Photo: Kempsons / The Hope Project](../assets/ccfe63b6984c/1*aMwYN6521sNkaonxmSePpg.jpeg)
 
 A much needed container of aid made a difference on Lesvos\. Photo: Kempsons / The Hope Project
 
@@ -63,7 +63,7 @@ Refuge Rescue NGO supported 335 new arrivals to Lesvos last week, including one 
 
 
 
-![The life jacket graveyard on Lesvos grows bigger every day\. Photo: Maria Klenner / [Mare Liberum](https://www.facebook.com/MareLiberumOfficial/?fref=mentions)](assets/ccfe63b6984c/1*XnN7-aUEhtqzKO8YroVEnA.jpeg)
+![The life jacket graveyard on Lesvos grows bigger every day\. Photo: Maria Klenner / [Mare Liberum](https://www.facebook.com/MareLiberumOfficial/?fref=mentions)](../assets/ccfe63b6984c/1*XnN7-aUEhtqzKO8YroVEnA.jpeg)
 
 The life jacket graveyard on Lesvos grows bigger every day\. Photo: Maria Klenner / [Mare Liberum](https://www.facebook.com/MareLiberumOfficial/?fref=mentions)
 
@@ -89,7 +89,7 @@ A guide to applying for cash card assistance for persons with asylum or subsidia
 Depsite a drop in people trying to cross this border in the past there, the [Greek\-Albanian border](http://www.ekathimerini.com/231760/article/ekathimerini/news/greek-albanian-border-region-closely-monitored) has become more militarized and monitored in recent weeks\.
 
 
-![“Syrian child in Greek refugee camp\. Swatting at flies, she laid there exhausted from the high heat until she fell asleep from the exhaust… This is the life out here\. There is no escape from it\.” Photo Credit: [Erika Rudash](https://www.facebook.com/photo.php?fbid=1897414630342263&set=a.1869165846500475&type=3&theater) \.](assets/ccfe63b6984c/1*xBXWUEe7N6QkwpsTRuKong.jpeg)
+![“Syrian child in Greek refugee camp\. Swatting at flies, she laid there exhausted from the high heat until she fell asleep from the exhaust… This is the life out here\. There is no escape from it\.” Photo Credit: [Erika Rudash](https://www.facebook.com/photo.php?fbid=1897414630342263&set=a.1869165846500475&type=3&theater) \.](../assets/ccfe63b6984c/1*xBXWUEe7N6QkwpsTRuKong.jpeg)
 
 “Syrian child in Greek refugee camp\. Swatting at flies, she laid there exhausted from the high heat until she fell asleep from the exhaust… This is the life out here\. There is no escape from it\.” Photo Credit: [Erika Rudash](https://www.facebook.com/photo.php?fbid=1897414630342263&set=a.1869165846500475&type=3&theater) \.
 ### Bosnia
@@ -98,7 +98,7 @@ Depsite a drop in people trying to cross this border in the past there, the [Gre
 Our volunteers in Sarajevo are facing difficulties in their mission of providing nutritious meals to people who’re arriving or residing in Bosnia’s capital\. This is especially the case around the train station, where our volunteers are repeatedly ID’ed every single day\. Few days ago, a police officer approached our coordinator, a Sarajevo resident, asking for her ID again as he \(or his colelagues\) did every night for several weeks already\. He told her volunteers shouldn’t be giving out food to the refugees, despite the fact they had no food with them at that time\. Our coordinator asked him why are they not allowed to bring food to the people\. Instead of the answer, she was fined with 500 marks \(cca 275eur\) for alleged violation of public order and peace\.
 
 
-![Police officer claims our coordinator told him “to stop being rude and tell his superiors they’re inhumane in their way of treating the refugees”, while in reality she just asked why it’s not ok to distribute food\. Photo: AYS](assets/ccfe63b6984c/1*hG6s94bXjVFyvXE5KP9ZXQ.jpeg)
+![Police officer claims our coordinator told him “to stop being rude and tell his superiors they’re inhumane in their way of treating the refugees”, while in reality she just asked why it’s not ok to distribute food\. Photo: AYS](../assets/ccfe63b6984c/1*hG6s94bXjVFyvXE5KP9ZXQ.jpeg)
 
 Police officer claims our coordinator told him “to stop being rude and tell his superiors they’re inhumane in their way of treating the refugees”, while in reality she just asked why it’s not ok to distribute food\. Photo: AYS
 
@@ -116,7 +116,7 @@ The description of her misdemeanor which was presented in the warrant can only b
 All the men were caught in Croatia and repeatedly attacked by the batons, including the three minors, while they were trying to walk back across the border\. As the consequence of this, seven of them had severe injuries mainly on their backs and legs\.
 
 
-![People are robbed, beaten and pushed back from Croatia every day\. Photo: No Name Kitchen](assets/ccfe63b6984c/1*CwUPHp3hUrcff5JRCeSCHw.jpeg)
+![People are robbed, beaten and pushed back from Croatia every day\. Photo: No Name Kitchen](../assets/ccfe63b6984c/1*CwUPHp3hUrcff5JRCeSCHw.jpeg)
 
 People are robbed, beaten and pushed back from Croatia every day\. Photo: No Name Kitchen
 
@@ -127,7 +127,7 @@ It must be noted that many people are entering Croatia on foot, trying to cross 
 The Italian Coast Guard Ship [Diciotti](https://twitter.com/medhope_fcei/status/1030767848145207296?s=21) is still stranded at sea, for the third consecutive day\. There are 177 people aboard\. Italian authorities continue to refuse to allow them to disembark\.
 
 
-![Diciotti ship not allowed to disembark\. Photo: Mediterranean hope, Editing: AYS](assets/ccfe63b6984c/1*WIFcOMKrIG4zZDTRaSX_EA.jpeg)
+![Diciotti ship not allowed to disembark\. Photo: Mediterranean hope, Editing: AYS](../assets/ccfe63b6984c/1*WIFcOMKrIG4zZDTRaSX_EA.jpeg)
 
 Diciotti ship not allowed to disembark\. Photo: Mediterranean hope, Editing: AYS
 
@@ -172,7 +172,7 @@ The German government [admitted](https://www.dw.com/en/germany-admits-to-5-illeg
 A medical volunteer in Calais provided an [update](https://jelleincalais.wordpress.com/2018/08/17/day-10-kittens-dust-and-a-basket-of-scars/) on conditions there this weekend\. Many people are suffering from bed bugs because of the unyhegenic consitions they are forced to live in, and the lack of washing facilities\. Sometimes they scratchs their skin until it bleeds\. A few people in the area have contracted trenchfoot because they were wearing wet shoes at night\.
 
 
-![It’s hard to let the wounds heal in unsanitary conditions of the makeshift camp\. Photo: Jelle in Calais](assets/ccfe63b6984c/1*F4nTPgVmJfTbZeYyR5DsxQ.jpeg)
+![It’s hard to let the wounds heal in unsanitary conditions of the makeshift camp\. Photo: Jelle in Calais](../assets/ccfe63b6984c/1*F4nTPgVmJfTbZeYyR5DsxQ.jpeg)
 
 It’s hard to let the wounds heal in unsanitary conditions of the makeshift camp\. Photo: Jelle in Calais
 ### Belgium
@@ -184,7 +184,7 @@ Activists in Belgium have released a report on the conditions in the Caricole de
 On 27 August, volunteers will be collecting tents and sleeping bags for refugees after the Leeds festival\. Click [here](https://www.facebook.com/events/683230525362017/) for more info\.
 
 
-![](assets/ccfe63b6984c/1*2sbJgqO6ienHYTispsSk4g.jpeg)
+![](../assets/ccfe63b6984c/1*2sbJgqO6ienHYTispsSk4g.jpeg)
 
 ### EU
 #### Germany and Greece make refugee return agreement

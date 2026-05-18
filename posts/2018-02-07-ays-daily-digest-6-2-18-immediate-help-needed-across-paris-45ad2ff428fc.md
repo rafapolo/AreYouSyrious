@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 6/2/18: Immediate help needed across Paris
+title: "AYS Daily Digest 6/2/18: Immediate help needed across Paris"
 author: Are You Syrious?
 date: 2018-02-07T10:46:02.045+0000
 last_modified_at: 2018-03-01T13:36:17.879+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,paris,italy,switzerland,digest]
 description: Horrid conditions for many in tents in freezing temperatures / Returns to Turkey continue; hundreds of thousands of refugees are at risk of…
 image:
-  path: assets/45ad2ff428fc/1*o6z1CYQrT0bdB7RIm_f2ew.jpeg
+  path: ../assets/45ad2ff428fc/1*o6z1CYQrT0bdB7RIm_f2ew.jpeg
 ---
 
 ### AYS Daily Digest 6/2/18: Immediate help needed across Paris
 #### Horrid conditions for many in tents in freezing temperatures / Returns to Turkey continue; hundreds of thousands of refugees are at risk of being pushed to return to Syria; new arrivals in the Aegean / Croatian ombudsperson turns evidence of Madina’s case to the State Attorney / The Swiss are likely to allow the electronic devices of asylum seekers to be checked for evidence of their identity / more updates
 
 
-![Paris \(Photo: [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/) \)](assets/45ad2ff428fc/1*o6z1CYQrT0bdB7RIm_f2ew.jpeg)
+![Paris \(Photo: [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/) \)](../assets/45ad2ff428fc/1*o6z1CYQrT0bdB7RIm_f2ew.jpeg)
 
 Paris \(Photo: [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/) \)
 #### FEATURE: PARIS — HELP DESPERATELY NEEDED
@@ -61,11 +61,11 @@ I don’t think they went there in the end, as MSF was able to pay for 50 hotel 
 Politician Danielle Simonnet has [called for the opening of a new shelter, specifically for minors](https://www.youtube.com/watch?v=M11O6AfwBvQ) , in spite of the rhetoric that goes to undermine the young people presenting themselves as minors\.
 
 
-![](assets/45ad2ff428fc/1*s83n1FpfGnhyi3HH4yEwDQ.jpeg)
+![](../assets/45ad2ff428fc/1*s83n1FpfGnhyi3HH4yEwDQ.jpeg)
 
 
 
-![Photos: AYS](assets/45ad2ff428fc/1*aRj1pZ0HSBFP4sMAkL9tcg.jpeg)
+![Photos: AYS](../assets/45ad2ff428fc/1*aRj1pZ0HSBFP4sMAkL9tcg.jpeg)
 
 Photos: AYS
 
@@ -87,31 +87,31 @@ On January 30 some people went to occupy the building of the University [Paris 8
 
 
 
-![](assets/45ad2ff428fc/1*WCwtZ9-5OW0EDAIVC7XaEg.jpeg)
+![](../assets/45ad2ff428fc/1*WCwtZ9-5OW0EDAIVC7XaEg.jpeg)
 
 
 
-![](assets/45ad2ff428fc/1*s46_XW7BjxYWgQiZl_5EhA.jpeg)
+![](../assets/45ad2ff428fc/1*s46_XW7BjxYWgQiZl_5EhA.jpeg)
 
 
 
-![](assets/45ad2ff428fc/1*fzqR5kPQCh6w_2PtXWEbsA.jpeg)
+![](../assets/45ad2ff428fc/1*fzqR5kPQCh6w_2PtXWEbsA.jpeg)
 
 
 
-![](assets/45ad2ff428fc/1*7SnQuSu4vm6aX3WR84If3g.jpeg)
+![](../assets/45ad2ff428fc/1*7SnQuSu4vm6aX3WR84If3g.jpeg)
 
 
 
-![](assets/45ad2ff428fc/1*AZ0kvNIgoB2CYvV0dGNyIQ.jpeg)
+![](../assets/45ad2ff428fc/1*AZ0kvNIgoB2CYvV0dGNyIQ.jpeg)
 
 
 
-![](assets/45ad2ff428fc/1*kquwWHa641trelYOhCkfog.jpeg)
+![](../assets/45ad2ff428fc/1*kquwWHa641trelYOhCkfog.jpeg)
 
 
 
-![Photos: AYS](assets/45ad2ff428fc/1*e-ZNKyyJTkn0DbU6L5XxPw.jpeg)
+![Photos: AYS](../assets/45ad2ff428fc/1*e-ZNKyyJTkn0DbU6L5XxPw.jpeg)
 
 Photos: AYS
 
@@ -149,11 +149,11 @@ Apart from the returns to Turkey, a serious concern arises from the fact that hu
 Several large NGOs and humanitarian agencies warned about the problem in a [**report**](https://www.nrc.no/resources/reports/dangerous-ground---syrias-refugees-face-an-uncertain-future/) released yesterday\.
 
 
-![](assets/45ad2ff428fc/1*UfonJ1UAEpXV3ufAZHo4nQ.jpeg)
+![](../assets/45ad2ff428fc/1*UfonJ1UAEpXV3ufAZHo4nQ.jpeg)
 
 
 
-![In the early morning of Tuesday 6, 208 people heading towards Cyprus were found and stopped by the Coast Guard in the Manavgat County \(Antalya\)](assets/45ad2ff428fc/1*JdTlk-J13IUOnqrBH6DIUw.jpeg)
+![In the early morning of Tuesday 6, 208 people heading towards Cyprus were found and stopped by the Coast Guard in the Manavgat County \(Antalya\)](../assets/45ad2ff428fc/1*JdTlk-J13IUOnqrBH6DIUw.jpeg)
 
 In the early morning of Tuesday 6, 208 people heading towards Cyprus were found and stopped by the Coast Guard in the Manavgat County \(Antalya\)
 #### GREECE
@@ -161,7 +161,7 @@ In the early morning of Tuesday 6, 208 people heading towards Cyprus were found 
 
 
 ![“Tobi about the situation on the Lesvos: The past weeks or so it has become more apperant to me, that the people stuck on this island are more than just stuck\. They are frozen\. Their lives stuck in limbo, unable to move somewhere\. Across the south coast you see people, stripped of all political agency, reduced to being mere “alive” as opposed to being “people”\. Reduced to being dependend on outside forces for their basic needs, because someone that is only “alive” is only required to have “basic” needs\. 
-The frost not only spreads over the land, but also into the hearts of the people\. Their hope transformed from fluid, streaming expectation to christalysed, inmovable dispair\. The absence of light, of any indication that the situation might change soon\. No control over who decides they can leave, like the clouds that decide if there is going to be snow\. And this merely because their suffering is decided to be less important then that of others, decidions based on facts colder than a mid winter day\. Only waiting, like waiting for the spring to come\. And so it is, that the police found a body in the water at the port of Mytillni\. The body had been in the water for 10 days\. After autopsy, and police checks it turned out to be a refugee\. The person in question had attempted to swim to a ship, in order to be able to leave this Island\. In order to have dry clothes to wear once on the ship, he had decided to wear only his shorts\. Imagine that\.” — [**Volunteers for Lesvos**](https://www.facebook.com/volunteersforlesvos/)](assets/45ad2ff428fc/1*y09jvip4WNPXdoGuKLy6CA.jpeg)
+The frost not only spreads over the land, but also into the hearts of the people\. Their hope transformed from fluid, streaming expectation to christalysed, inmovable dispair\. The absence of light, of any indication that the situation might change soon\. No control over who decides they can leave, like the clouds that decide if there is going to be snow\. And this merely because their suffering is decided to be less important then that of others, decidions based on facts colder than a mid winter day\. Only waiting, like waiting for the spring to come\. And so it is, that the police found a body in the water at the port of Mytillni\. The body had been in the water for 10 days\. After autopsy, and police checks it turned out to be a refugee\. The person in question had attempted to swim to a ship, in order to be able to leave this Island\. In order to have dry clothes to wear once on the ship, he had decided to wear only his shorts\. Imagine that\.” — [**Volunteers for Lesvos**](https://www.facebook.com/volunteersforlesvos/)](../assets/45ad2ff428fc/1*y09jvip4WNPXdoGuKLy6CA.jpeg)
 
 “Tobi about the situation on the Lesvos: The past weeks or so it has become more apperant to me, that the people stuck on this island are more than just stuck\. They are frozen\. Their lives stuck in limbo, unable to move somewhere\. Across the south coast you see people, stripped of all political agency, reduced to being mere “alive” as opposed to being “people”\. Reduced to being dependend on outside forces for their basic needs, because someone that is only “alive” is only required to have “basic” needs\. 
 The frost not only spreads over the land, but also into the hearts of the people\. Their hope transformed from fluid, streaming expectation to christalysed, inmovable dispair\. The absence of light, of any indication that the situation might change soon\. No control over who decides they can leave, like the clouds that decide if there is going to be snow\. And this merely because their suffering is decided to be less important then that of others, decidions based on facts colder than a mid winter day\. Only waiting, like waiting for the spring to come\. And so it is, that the police found a body in the water at the port of Mytillni\. The body had been in the water for 10 days\. After autopsy, and police checks it turned out to be a refugee\. The person in question had attempted to swim to a ship, in order to be able to leave this Island\. In order to have dry clothes to wear once on the ship, he had decided to wear only his shorts\. Imagine that\.” — [**Volunteers for Lesvos**](https://www.facebook.com/volunteersforlesvos/)
@@ -234,7 +234,7 @@ There is a limited number of spaces, those interested should **apply until Febru
 Find more information [here](https://g2red.org/cultural-mediation-training-program/) \.
 
 
-![First week of [Velos Youth delivered by RYS](https://www.facebook.com/Velos-Youth-delivered-by-RYS-1705690253061937/) is on\. Check out their programme\.](assets/45ad2ff428fc/1*b_T_zTbfJWnE2Eky9MsrXw.png)
+![First week of [Velos Youth delivered by RYS](https://www.facebook.com/Velos-Youth-delivered-by-RYS-1705690253061937/) is on\. Check out their programme\.](../assets/45ad2ff428fc/1*b_T_zTbfJWnE2Eky9MsrXw.png)
 
 First week of [Velos Youth delivered by RYS](https://www.facebook.com/Velos-Youth-delivered-by-RYS-1705690253061937/) is on\. Check out their programme\.
 ### Family reunification — Refugee Info Team updates

@@ -1,20 +1,20 @@
 ---
-title: AYS Daily News Digest 27/3/18: Another limbo in front of the entrance to the EU
+title: "AYS Daily News Digest 27/3/18: Another limbo in front of the entrance to the EU"
 author: Are You Syrious?
 date: 2018-03-28T11:51:05.951+0100
 last_modified_at: 2018-03-28T16:04:19.492+0100
 categories: Are You Syrious?
 tags: [refugees,digest,balkans,europe,france]
-description: Velika Kladuša: a town in Bosnia and Herzegovina bordering with Croatia (EU) hosts those stuck nowhere — dispersion of responsibility and…
+description: "Velika Kladuša: a town in Bosnia and Herzegovina bordering with Croatia (EU) hosts those stuck nowhere — dispersion of responsibility and…"
 image:
-  path: assets/830fa3dc0d76/1*uvHLhraGJLden-2YEDmLRQ.jpeg
+  path: ../assets/830fa3dc0d76/1*uvHLhraGJLden-2YEDmLRQ.jpeg
 ---
 
 ### AYS Daily News Digest 27/3/18: Another limbo in front of the entrance to the EU
 #### Velika Kladuša: a town in Bosnia and Herzegovina bordering with Croatia \(EU\) hosts those stuck nowhere — dispersion of responsibility and lack of basic support / Ignorance and mistreatment of asylum seekers by the officials in Rome \(video\) / What follows after camp dismantling around Calais\. \.
 
 
-![Velika Kladuša, Photo: AYS](assets/830fa3dc0d76/1*uvHLhraGJLden-2YEDmLRQ.jpeg)
+![Velika Kladuša, Photo: AYS](../assets/830fa3dc0d76/1*uvHLhraGJLden-2YEDmLRQ.jpeg)
 
 Velika Kladuša, Photo: AYS
 #### FEATURE
@@ -30,11 +30,11 @@ At a first glance, the town seems like an average place where nothing out of the
 Still, somehow, he is left almost alone in the story of constant welcoming and helping throughout the past few months\. His restaurant was literally emptied of most tables and now serves as a place of welcome, the only home that dozens of refugees from different countries have at the moment\.
 
 
-![](assets/830fa3dc0d76/1*_nSEW1gPaI81fc_ZgQZF4Q.jpeg)
+![](../assets/830fa3dc0d76/1*_nSEW1gPaI81fc_ZgQZF4Q.jpeg)
 
 
 
-![Photos: Barbara Novak](assets/830fa3dc0d76/1*WVeERX_qNU5OhnZ_D8Kchg.jpeg)
+![Photos: Barbara Novak](../assets/830fa3dc0d76/1*WVeERX_qNU5OhnZ_D8Kchg.jpeg)
 
 Photos: Barbara Novak
 
@@ -58,11 +58,11 @@ He says he had asked for help and support from fellow citizens, but rarely peopl
 He has been visited by the police and the asylum offices have told him he is into wrong activities, threatening with legal penalties, but he insists on helping people with his own money, without expecting anything in return\.
 
 
-![](assets/830fa3dc0d76/1*l34YGgn-rsozJjemkX5bhg.jpeg)
+![](../assets/830fa3dc0d76/1*l34YGgn-rsozJjemkX5bhg.jpeg)
 
 
 
-![Photos: Barbara Novak](assets/830fa3dc0d76/1*4LyDY-u5Fq_oa6OFANvIXA.jpeg)
+![Photos: Barbara Novak](../assets/830fa3dc0d76/1*4LyDY-u5Fq_oa6OFANvIXA.jpeg)
 
 Photos: Barbara Novak
 
@@ -71,7 +71,7 @@ The local Islamic community seems to have also refused to join helping officiall
 He added that they have notified the police because they should be responsible for these people, but did not know of anyone in the city helping and also added:
 
 
-![](assets/830fa3dc0d76/1*RwUDBCQKDcwXrkbgrGNckg.jpeg)
+![](../assets/830fa3dc0d76/1*RwUDBCQKDcwXrkbgrGNckg.jpeg)
 
 
 
@@ -99,19 +99,19 @@ Beyond the formal framework, there are individuals opening their houses for food
 The young people from Palestine, Algeria, Syria, Morocco and other countries find different ways to try head towards the Croatian territory and proceed to Europe\. During our visit there was a group that tried to leave on a bus, through a desperate move: attached to the bottom side\. They were prevented to do that by the police\. The police presence is very strong in the town, both in cars, but also through special teams that check people in the city\.
 
 
-![](assets/830fa3dc0d76/1*qE8i0m_4LYZSIiNBAzZaVw.jpeg)
+![](../assets/830fa3dc0d76/1*qE8i0m_4LYZSIiNBAzZaVw.jpeg)
 
 
 
-![](assets/830fa3dc0d76/1*xNLixLyLPRZkIHquTLJehw.jpeg)
+![](../assets/830fa3dc0d76/1*xNLixLyLPRZkIHquTLJehw.jpeg)
 
 
 
-![](assets/830fa3dc0d76/1*tdiZRAM9i3GP3czT53T6Iw.jpeg)
+![](../assets/830fa3dc0d76/1*tdiZRAM9i3GP3czT53T6Iw.jpeg)
 
 
 
-![Photos: AYS](assets/830fa3dc0d76/1*TWrqxAOHGzgrpZ8WWTYYAA.jpeg)
+![Photos: AYS](../assets/830fa3dc0d76/1*TWrqxAOHGzgrpZ8WWTYYAA.jpeg)
 
 Photos: AYS
 
@@ -126,17 +126,17 @@ We hope the UNHCR, Red Cross and other “to whom it may concern” organization
 We hope that the UN will bear in mind their previous level of success in the same area and do better this time\.
 
 
-![](assets/830fa3dc0d76/1*zndJEpKBRh7SPkahliUUVA.jpeg)
+![](../assets/830fa3dc0d76/1*zndJEpKBRh7SPkahliUUVA.jpeg)
 
 
 
-![Photos: AYS](assets/830fa3dc0d76/1*_mdwet7OnmYSdjhP9BKdJg.jpeg)
+![Photos: AYS](../assets/830fa3dc0d76/1*_mdwet7OnmYSdjhP9BKdJg.jpeg)
 
 Photos: AYS
 #### GREECE
 
 
-![4 days ago, the Alarm Phone was alerted to a group of travelers, including 1 child, trying to cross the Greek\-Turkish land border\. They were trapped on a small islet in the river Maritsa\. The islet was shrinking due to rising water levels\. We informed the Turkish and Greek authorities and followed up on the case for 2 days\. The Greek police informed us yesterday morning that the group was rescued to Greece and detained at a detention center in the south east\. We still don’t have a confirmation from the group\. If what the Greek police says is true, we demand their immediate release from detention and wish them the very best for their onward journey\. — [**Watch The Med — Alarmphone**](https://www.facebook.com/watchthemed.alarmphone/)](assets/830fa3dc0d76/1*Qu11Cxw8VXGmuEbuivYKJA.png)
+![4 days ago, the Alarm Phone was alerted to a group of travelers, including 1 child, trying to cross the Greek\-Turkish land border\. They were trapped on a small islet in the river Maritsa\. The islet was shrinking due to rising water levels\. We informed the Turkish and Greek authorities and followed up on the case for 2 days\. The Greek police informed us yesterday morning that the group was rescued to Greece and detained at a detention center in the south east\. We still don’t have a confirmation from the group\. If what the Greek police says is true, we demand their immediate release from detention and wish them the very best for their onward journey\. — [**Watch The Med — Alarmphone**](https://www.facebook.com/watchthemed.alarmphone/)](../assets/830fa3dc0d76/1*Qu11Cxw8VXGmuEbuivYKJA.png)
 
 4 days ago, the Alarm Phone was alerted to a group of travelers, including 1 child, trying to cross the Greek\-Turkish land border\. They were trapped on a small islet in the river Maritsa\. The islet was shrinking due to rising water levels\. We informed the Turkish and Greek authorities and followed up on the case for 2 days\. The Greek police informed us yesterday morning that the group was rescued to Greece and detained at a detention center in the south east\. We still don’t have a confirmation from the group\. If what the Greek police says is true, we demand their immediate release from detention and wish them the very best for their onward journey\. — [**Watch The Med — Alarmphone**](https://www.facebook.com/watchthemed.alarmphone/)
 #### Arrivals
@@ -212,11 +212,11 @@ Another comment from the same source later on Tuesday says:
 
 
 
-![](assets/830fa3dc0d76/1*XiIMchbqqGxK701wHxDsaQ.jpeg)
+![](../assets/830fa3dc0d76/1*XiIMchbqqGxK701wHxDsaQ.jpeg)
 
 
 
-![Food distribution \(Photos: [Lisa Campbell](https://www.facebook.com/lisa.campbell.5099) \)](assets/830fa3dc0d76/1*0r0taVaCpwh65GpxVeZWsQ.jpeg)
+![Food distribution \(Photos: [Lisa Campbell](https://www.facebook.com/lisa.campbell.5099) \)](../assets/830fa3dc0d76/1*0r0taVaCpwh65GpxVeZWsQ.jpeg)
 
 Food distribution \(Photos: [Lisa Campbell](https://www.facebook.com/lisa.campbell.5099) \)
 
@@ -240,11 +240,11 @@ Over 200 people are currently without accommodation in Sarajevo, or with tempora
 People are coming to every day and help is needed\. Clothes, shoes, medical supplies… If you can help, please donate or get in touch with local charity pomozi\.ba\.
 
 
-![](assets/830fa3dc0d76/1*s53K7QQ1o8iWap65c6o9xw.jpeg)
+![](../assets/830fa3dc0d76/1*s53K7QQ1o8iWap65c6o9xw.jpeg)
 
 
 
-![Photos: AYS](assets/830fa3dc0d76/1*-_MDjOReoOK9v2Sndj15EQ.jpeg)
+![Photos: AYS](../assets/830fa3dc0d76/1*-_MDjOReoOK9v2Sndj15EQ.jpeg)
 
 Photos: AYS
 #### ITALY
@@ -267,11 +267,11 @@ On Friday, [the police came to dismantle the camp](http://www.lavoixdunord.fr/30
 Around 100 policemen who arrived repotedly didn’t apply any expulsion procedure, but the people were not informed about the action prior to that\.
 
 
-![](assets/830fa3dc0d76/1*P5nqIFJXYTf5Uw7lc_BTVA.jpeg)
+![](../assets/830fa3dc0d76/1*P5nqIFJXYTf5Uw7lc_BTVA.jpeg)
 
 
 
-![Photos: [**L’Auberge des Migrants**](https://www.facebook.com/AubergeMigrants/)](assets/830fa3dc0d76/1*8E3VhZ3FB9HCNP5Jc74HPw.jpeg)
+![Photos: [**L’Auberge des Migrants**](https://www.facebook.com/AubergeMigrants/)](../assets/830fa3dc0d76/1*8E3VhZ3FB9HCNP5Jc74HPw.jpeg)
 
 Photos: [**L’Auberge des Migrants**](https://www.facebook.com/AubergeMigrants/)
 
@@ -295,11 +295,11 @@ The volunteers send out a clear vision of the repercussions to such actions:
 #### SPAIN
 
 
-![](assets/830fa3dc0d76/1*-eY7SMvcpk9q_r6VOqjo4w.jpeg)
+![](../assets/830fa3dc0d76/1*-eY7SMvcpk9q_r6VOqjo4w.jpeg)
 
 
 
-![Photos: José Palazón, source: [**Association Marocaine des Droits Humains — Section Nador**](https://www.facebook.com/AmdhNador/?hc_ref=ARQx6QxUNpVjzCGLpaD9qEu27a0iVK8GG1KZYeioUZtUOQ6HpJ_vJ_0lWmVFybVf0bg)](assets/830fa3dc0d76/1*5pHLvW_m1rsOPng5I8F-Ow.jpeg)
+![Photos: José Palazón, source: [**Association Marocaine des Droits Humains — Section Nador**](https://www.facebook.com/AmdhNador/?hc_ref=ARQx6QxUNpVjzCGLpaD9qEu27a0iVK8GG1KZYeioUZtUOQ6HpJ_vJ_0lWmVFybVf0bg)](../assets/830fa3dc0d76/1*5pHLvW_m1rsOPng5I8F-Ow.jpeg)
 
 Photos: José Palazón, source: [**Association Marocaine des Droits Humains — Section Nador**](https://www.facebook.com/AmdhNador/?hc_ref=ARQx6QxUNpVjzCGLpaD9qEu27a0iVK8GG1KZYeioUZtUOQ6HpJ_vJ_0lWmVFybVf0bg)
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest: 21/05/20: Hungarian Transit Zones closed
+title: "AYS Daily Digest: 21/05/20: Hungarian Transit Zones closed"
 author: Are You Syrious?
 date: 2020-05-22T14:21:12.804+0100
 last_modified_at: 2020-05-22T22:26:13.088+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,greece,mediterranean]
 description: Proof of Push-Backs from Greek territory // Amnesty International concerned about harassment of volunteers in France // new deportation…
 image:
-  path: assets/f40823575d13/1*zg-lE9R29cIoqjPJYI7Y9g.jpeg
+  path: ../assets/f40823575d13/1*zg-lE9R29cIoqjPJYI7Y9g.jpeg
 ---
 
 ### AYS Daily Digest: 21/05/20: Hungarian Transit Zones closed
 #### Proof of pushbacks from Greek territory // Amnesty International concerned about harassment of volunteers in France // New deportation operation in UK
 
 
-![The shelters of Europe\. Copyright: Franziska Grillmeier](assets/f40823575d13/1*zg-lE9R29cIoqjPJYI7Y9g.jpeg)
+![The shelters of Europe\. Copyright: Franziska Grillmeier](../assets/f40823575d13/1*zg-lE9R29cIoqjPJYI7Y9g.jpeg)
 
 The shelters of Europe\. Copyright: Franziska Grillmeier
 ### FEATURE: Legal disputes shows results: 300 people were released from arbitrary detention in Hungarian transit zones
@@ -108,17 +108,17 @@ It is important to take into consideration that Europe does not provide Greece w
 The BBC recently published this video, which was filmed by an Afghan journalist currently on lockdown in a Greek refugee camp\. It gives very good insight into the life in the camps amid the coronavirus pandemic and the impossibility of adhering to basic hygiene and social distancing measures\.
 
 
-[![Coronavirus Crisis: Europe's Migrant Camps - BBC Panorama](assets/f40823575d13/858f_hqdefault.jpg "Coronavirus Crisis: Europe's Migrant Camps - BBC Panorama")](https://www.youtube.com/watch?v=xBRMxvLKt14)
+[![Coronavirus Crisis: Europe's Migrant Camps - BBC Panorama](../assets/f40823575d13/858f_hqdefault.jpg "Coronavirus Crisis: Europe's Migrant Camps - BBC Panorama")](https://www.youtube.com/watch?v=xBRMxvLKt14)
 
 
 Mare Liberum showed pictures of the new quarantine camp in Megala Therma in the north of Lesvos\. Apparently 4 of the 106 residents have tested positive for Covid\-19, but everybody still has to share the same facilities\.
 
 
-![](assets/f40823575d13/1*Wzr0IIW4bxcJWz_3j6gDhg.jpeg)
+![](../assets/f40823575d13/1*Wzr0IIW4bxcJWz_3j6gDhg.jpeg)
 
 
 
-![Copyright: Mare Liberum](assets/f40823575d13/1*Pbm7w87A3hc2PtqXhtr9HQ.jpeg)
+![Copyright: Mare Liberum](../assets/f40823575d13/1*Pbm7w87A3hc2PtqXhtr9HQ.jpeg)
 
 Copyright: Mare Liberum
 

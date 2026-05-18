@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 25/5/22: Demanding equal treatment for all refugees from Ukraine
+title: "AYS News Digest 25/5/22: Demanding equal treatment for all refugees from Ukraine"
 author: Are You Syrious?
 date: 2022-05-26T20:28:08.694+0100
 last_modified_at: 2022-05-26T22:25:45.044+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,ukraine,migration]
 description: More emergency cases reported in the Evros region as Greece repeats they will close the door / Turkey scares people who might be forced…
 image:
-  path: assets/1f4a2c44accb/1*m0iEUZjgBuO54BCAWHZOJg.jpeg
+  path: ../assets/1f4a2c44accb/1*m0iEUZjgBuO54BCAWHZOJg.jpeg
 ---
 
 ### AYS News Digest 25/5/22: Demanding **equal treatment for all refugees from Ukraine**
 #### More emergency cases reported in the Evros region as Greece repeats they will close the door / Turkey scares people who might be forced back to Syria / News on search and rescue operations in the Mediterranean / Shocking footage from the Polish\-Belarusian border / and other important news
 
 
-![](assets/1f4a2c44accb/1*m0iEUZjgBuO54BCAWHZOJg.jpeg)
+![](../assets/1f4a2c44accb/1*m0iEUZjgBuO54BCAWHZOJg.jpeg)
 
 #### FEATURE
 
@@ -78,7 +78,7 @@ Watch the [video](https://www.facebook.com/watch/?v=1076123256594027)
 Read [more](https://thecivilfleet.wordpress.com/2022/05/23/activists-save-64-refugees-a-day-after-preventing-the-libyan-coastguard-from-intercepting-75-others/?fbclid=IwAR1VDL4y0iahAIKbt3LxO5pNYiY591UOGo_KnliEXUWP52JgzlHI-pxDa2Y)
 
 
-![Photo: [https://thecivilfleet\.wordpress\.com/](https://thecivilfleet.wordpress.com/)](assets/1f4a2c44accb/0*P2zM5DCmVC7taMWj)
+![Photo: [https://thecivilfleet\.wordpress\.com/](https://thecivilfleet.wordpress.com/)](../assets/1f4a2c44accb/0*P2zM5DCmVC7taMWj)
 
 Photo: [https://thecivilfleet\.wordpress\.com/](https://thecivilfleet.wordpress.com/)
 

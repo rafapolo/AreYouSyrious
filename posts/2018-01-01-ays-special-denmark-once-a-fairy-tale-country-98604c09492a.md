@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL — Denmark: Once a fairy tale country
+title: "AYS SPECIAL — Denmark: Once a fairy tale country"
 author: Are You Syrious?
 date: 2018-01-01T11:11:03.211+0000
 last_modified_at: 2018-03-01T13:46:29.444+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [refugees,denmark,greenland,danish,special]
 description: Once upon a time… That’s how I, as a now non-Dane Dane, often find myself thinking of Denmark. Once it was a welfare state for all, once…
 image:
-  path: assets/98604c09492a/1*zQPy_yIIGy0GqnOkDpPQvA.jpeg
+  path: ../assets/98604c09492a/1*zQPy_yIIGy0GqnOkDpPQvA.jpeg
 ---
 
 ### AYS SPECIAL — Denmark: Once a fairy tale country
 
 
-![By Refugees Welcome Denmark\.](assets/98604c09492a/1*zQPy_yIIGy0GqnOkDpPQvA.jpeg)
+![By Refugees Welcome Denmark\.](../assets/98604c09492a/1*zQPy_yIIGy0GqnOkDpPQvA.jpeg)
 
 By Refugees Welcome Denmark\.
 
@@ -28,7 +28,7 @@ I’m a quarter Greenlandic\. Greenland is considered as a native non\-western c
 This law has no influence on anyone’s legal status, it is purely symbolic\. This specific law should prevent ghettos, and as so many other laws to follow in the year 2017 the law hasn’t been enforced\.
 
 
-![Inger Støjberg, immigration minister celebrating the tightening of immigration controls\. Photo: IS FB page\.](assets/98604c09492a/1*1cNOTyP_wbCEtpjFcGV-YA.jpeg)
+![Inger Støjberg, immigration minister celebrating the tightening of immigration controls\. Photo: IS FB page\.](../assets/98604c09492a/1*1cNOTyP_wbCEtpjFcGV-YA.jpeg)
 
 Inger Støjberg, immigration minister celebrating the tightening of immigration controls\. Photo: IS FB page\.
 
@@ -57,7 +57,7 @@ It is the growing activist groups like Welcome to Denmark, [flygtningebørn\.dk]
 These groups together with many others are the normal Danes and non\-Danes saying no, saying enough is enough\. These groups are fighting for either humane integration policies or against the border regime\.
 
 
-![Children’s march for asylum children's right to a future\. Photo by [Tone Olaf Nielsen](https://www.facebook.com/photo.php?fbid=10155362731709755&set=a.10151093344739755.439592.674939754&type=3&theater) \.](assets/98604c09492a/1*HiUtCtf7QmW89AHADbA3YA.jpeg)
+![Children’s march for asylum children's right to a future\. Photo by [Tone Olaf Nielsen](https://www.facebook.com/photo.php?fbid=10155362731709755&set=a.10151093344739755.439592.674939754&type=3&theater) \.](../assets/98604c09492a/1*HiUtCtf7QmW89AHADbA3YA.jpeg)
 
 Children’s march for asylum children's right to a future\. Photo by [Tone Olaf Nielsen](https://www.facebook.com/photo.php?fbid=10155362731709755&set=a.10151093344739755.439592.674939754&type=3&theater) \.
 

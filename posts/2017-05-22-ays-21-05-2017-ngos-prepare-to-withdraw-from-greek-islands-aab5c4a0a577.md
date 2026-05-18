@@ -1,5 +1,5 @@
 ---
-title: AYS 21/05/2017:NGOs prepare to withdraw from Greek islands
+title: "AYS 21/05/2017:NGOs prepare to withdraw from Greek islands"
 author: Are You Syrious?
 date: 2017-05-22T02:51:44.720+0100
 last_modified_at: 2017-05-27T10:04:27.367+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees]
 description: Uncertain future for Elliniko residents//5,000 refugees rescued in the Mediterrenean//Dispute over relocation continues//
 image:
-  path: assets/aab5c4a0a577/1*uskfGEd3GCRuWlulwXIP7Q.png
+  path: ../assets/aab5c4a0a577/1*uskfGEd3GCRuWlulwXIP7Q.png
 ---
 
 ### AYS 21/05/2017:NGOs prepare to withdraw from Greek islands
@@ -15,7 +15,7 @@ image:
 _Uncertain future for Elliniko residents//5,000 refugees rescued in the Mediterrenean//Dispute over relocation continues//_
 
 
-![Photo by [Khora Community Center](https://www.facebook.com/KhoraAthens/) team](assets/aab5c4a0a577/1*uskfGEd3GCRuWlulwXIP7Q.png)
+![Photo by [Khora Community Center](https://www.facebook.com/KhoraAthens/) team](../assets/aab5c4a0a577/1*uskfGEd3GCRuWlulwXIP7Q.png)
 
 Photo by [Khora Community Center](https://www.facebook.com/KhoraAthens/) team
 #### Greece
@@ -34,7 +34,7 @@ In the meantime, [BAAS is trying to fundraise 120,000 Swiss Francs within six we
 ### Urgent call\-outs for medical staff
 
 
-![](assets/aab5c4a0a577/0*-ZtsEZQ0ts5mWOsM.)
+![](../assets/aab5c4a0a577/0*-ZtsEZQ0ts5mWOsM.)
 
 
 [DocMobile — Medical Help e\.V](https://www.facebook.com/docmobile.org/?fref=mentions) , which offers primary medical care of refugees out of its custom van and ambulance, is currently in need of backup for different locations like Athens and southern Greece\. Available doctors, and nurses can contact kai\.wittstock@hamburg\.de\. DocMobile is also looking for dentists and dental technicians for its new DentistMobile on Lesvos\. Other volunteering opportunities for medics can be found on [Greecevol](http://greecevol.info/task.list.php?tag%5B61%5D=1&filter=set&mysearch=&sort=place) \.
@@ -75,7 +75,7 @@ The Dunkirk Refugee Women’s Centre has updated its [donation list](https://www
 Blankets, sleeping bags, size 41&42 shoes and long\-term volunteers are needed in Calais\.
 
 
-![](assets/aab5c4a0a577/0*kI1nikSsXQ60zrXW.)
+![](../assets/aab5c4a0a577/0*kI1nikSsXQ60zrXW.)
 
 
 Finally, Care4Calais needs specific items for Ramadan, including dates to break the fast, dried fruit and nuts, cereal bars, biscuits and cakes as well as money for fresh fruit and bread\.

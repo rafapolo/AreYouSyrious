@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 13/07/22: The EU strikes a new anti-trafficking deal with Morocco
+title: "AYS Daily Digest 13/07/22: The EU strikes a new anti-trafficking deal with Morocco"
 author: Are You Syrious?
 date: 2022-07-15T12:47:17.792+0100
 last_modified_at: 2022-07-15T12:54:08.321+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,morocco,europe,serbia]
 description: Deportations on the rise from Turkey to Afghanistan / In Serbia, police boasts with the same shocking images we’ve seen in Libya / France…
 image:
-  path: assets/551b94d3fe7e/0*_mpyNIgTQvaPL7ma.jpg
+  path: ../assets/551b94d3fe7e/0*_mpyNIgTQvaPL7ma.jpg
 ---
 
 ### AYS Daily Digest 13/07/22: The EU strikes a new anti\-trafficking deal with Morocco
 #### Deportations on the rise from Turkey to Afghanistan / In Serbia, police boasts with the same shocking images we’ve seen in Libya / France: evictions on the outskirts of Paris / Italy: Regular landings in Roccella Jonica, ‘the Lampedusa that Italy ignores’ / & more news
 
 
-![_A handout photo made available by a local resident shows hundreds of migrants crossing the Spanish and Morocco Melilla border near Nador, Morocco, 24 June 2022 \| Photo: EPA/STRINGER_](assets/551b94d3fe7e/0*_mpyNIgTQvaPL7ma.jpg)
+![_A handout photo made available by a local resident shows hundreds of migrants crossing the Spanish and Morocco Melilla border near Nador, Morocco, 24 June 2022 \| Photo: EPA/STRINGER_](../assets/551b94d3fe7e/0*_mpyNIgTQvaPL7ma.jpg)
 
 _A handout photo made available by a local resident shows hundreds of migrants crossing the Spanish and Morocco Melilla border near Nador, Morocco, 24 June 2022 \| Photo: EPA/STRINGER_
 
@@ -69,7 +69,7 @@ Last week roughly 900 Afghans were deported from Turkey to Afghanistan, and AMAS
 ### Repressive apparatus in place, police boasts with the same images we’ve seen in Libya
 
 
-![source: [https://www\.subotica\.com/](https://www.subotica.com/)](assets/551b94d3fe7e/0*gKaqGYCwsh0fU8CR.jpg)
+![source: [https://www\.subotica\.com/](https://www.subotica.com/)](../assets/551b94d3fe7e/0*gKaqGYCwsh0fU8CR.jpg)
 
 source: [https://www\.subotica\.com/](https://www.subotica.com/)
 
@@ -82,7 +82,7 @@ However, it is the police that often has the strongest ties to the ongoing crimi
 As in some other areas along the Balkans, the smuggling here also takes place with the knowledge, support and part taking \(and profit, of course\) of the police\. Hence, it seems the police is the one who is responsible for jeopardising both the people on the move and destabilising any possible security and peace of the locals\.
 
 
-[![Migranti u Kelebijskoj šumi nakon akcije policije](assets/551b94d3fe7e/8528_hqdefault.jpg "Migranti u Kelebijskoj šumi nakon akcije policije")](https://www.youtube.com/watch?v=ozlYNl3vUzA)
+[![Migranti u Kelebijskoj šumi nakon akcije policije](../assets/551b94d3fe7e/8528_hqdefault.jpg "Migranti u Kelebijskoj šumi nakon akcije policije")](https://www.youtube.com/watch?v=ozlYNl3vUzA)
 
 
 **APC reports that an increasing number of people are entering Serbia from North Macedonia\.** Over 1000 individuals, mostly from Syria, Pakistan and Afghanistan have been placed in Preševo reception camp\.
@@ -104,7 +104,7 @@ The automatic repatriation of citizens of Tunisian origin leads to violence agai
 ### **Regular landings in Roccella Jonica, _‘the Lampedusa that Italy ignores_ ’**
 
 
-![Source: _Vita_](assets/551b94d3fe7e/0*-wm2gC3WG1-yCKyf)
+![Source: _Vita_](../assets/551b94d3fe7e/0*-wm2gC3WG1-yCKyf)
 
 Source: _Vita_
 

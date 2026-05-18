@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 26/10/20: New evidence of pushbacks by Greek forces
+title: "AYS Daily Digest 26/10/20: New evidence of pushbacks by Greek forces"
 author: Are You Syrious?
 date: 2020-10-27T09:51:13.880+0000
 last_modified_at: 2020-10-27T14:07:48.276+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,uk,syria]
 description: MSF denounces conditions on Samos // 75 deaths after airstrikes on Idblib // New drone operation of Frontex in the Mediterranean // Expert…
 image:
-  path: assets/8cc91b06fcd3/1*uVsmlDvWREfgu4wi1pgiPQ.jpeg
+  path: ../assets/8cc91b06fcd3/1*uVsmlDvWREfgu4wi1pgiPQ.jpeg
 ---
 
 ### AYS Daily Digest 26/10/20: New evidence of pushbacks by Greek forces
 #### MSF denounces conditions on Samos // 75 deaths after airstrikes on Idblib // New drone operation of Frontex in the Mediterranean // Expert speaks about the situation in Libya // Report on UKs border controls in France
 
 
-![Turkish and Greek forces are intercepting people at sea\. Credits: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/photos/949371812252590)](assets/8cc91b06fcd3/1*uVsmlDvWREfgu4wi1pgiPQ.jpeg)
+![Turkish and Greek forces are intercepting people at sea\. Credits: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/photos/949371812252590)](../assets/8cc91b06fcd3/1*uVsmlDvWREfgu4wi1pgiPQ.jpeg)
 
 Turkish and Greek forces are intercepting people at sea\. Credits: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/photos/949371812252590)
 ### Greece: New evidence of pushbacks

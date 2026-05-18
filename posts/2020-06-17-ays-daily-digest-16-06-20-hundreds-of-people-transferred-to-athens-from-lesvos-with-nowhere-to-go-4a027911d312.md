@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,covid-19,digest,greece,germany]
 description: Protests in Tunis outside Spanish embassy // Germany to allow Dublin transfers again // reports on systematic pushbacks in Greece // more..
 image:
-  path: assets/4a027911d312/1*6OekVuXv4YHIDeEk1p-etw.jpeg
+  path: ../assets/4a027911d312/1*6OekVuXv4YHIDeEk1p-etw.jpeg
 ---
 
 ### AYS Daily Digest 16/06/20 Hundreds of people transferred to Athens from Lesvos with nowhere to go
@@ -16,7 +16,7 @@ _Protests in Tunis outside Spanish embassy // Germany to allow Dublin transfers 
 ### FEATURE Hundreds of people transferred to Athens from Lesvos left with nowhere to go
 
 
-![Photo of refugees from Lesvos, transfered to Athens with no accomadations for housing when they arrived\. Photo by [ypopto\_mousi](https://twitter.com/lk2015r/status/1272813381624397824)](assets/4a027911d312/1*6OekVuXv4YHIDeEk1p-etw.jpeg)
+![Photo of refugees from Lesvos, transfered to Athens with no accomadations for housing when they arrived\. Photo by [ypopto\_mousi](https://twitter.com/lk2015r/status/1272813381624397824)](../assets/4a027911d312/1*6OekVuXv4YHIDeEk1p-etw.jpeg)
 
 Photo of refugees from Lesvos, transfered to Athens with no accomadations for housing when they arrived\. Photo by [ypopto\_mousi](https://twitter.com/lk2015r/status/1272813381624397824)
 
@@ -44,7 +44,7 @@ Photo of refugees from Lesvos, transfered to Athens with no accomadations for ho
 
 
 
-![Refugees met with police in Victoria Square\. Photo by ypopto\_mousi](assets/4a027911d312/1*iUxtxyhxLPbX-8QKCNErhg.jpeg)
+![Refugees met with police in Victoria Square\. Photo by ypopto\_mousi](../assets/4a027911d312/1*iUxtxyhxLPbX-8QKCNErhg.jpeg)
 
 Refugees met with police in Victoria Square\. Photo by ypopto\_mousi
 #### GREECE
@@ -150,16 +150,16 @@ SOS Balkan Route released a video showing the destruction in Bihac camp\. _“It
 #### SERBIA
 
 
-![](assets/4a027911d312/1*N1M6LfGEZXrXvQcbOt7u-g.jpeg)
+![](../assets/4a027911d312/1*N1M6LfGEZXrXvQcbOt7u-g.jpeg)
 
 
 
-![](assets/4a027911d312/1*NBbgWjeEqDsZVv55rU5sUA.jpeg)
+![](../assets/4a027911d312/1*NBbgWjeEqDsZVv55rU5sUA.jpeg)
 
 
 
 ![Belgrade parks\. Photos by [Azil u Srbiji Asylum Protection in Serbia](https://twitter.com/APC_CZA/status/1272933714281013253?fbclid=IwAR3BYi-y5qYPCeHiFKpYg75ZBJYrSvaJOZ4qo_QeWNfx1k-Os6bTyRvAD4Q) 
-·](assets/4a027911d312/1*aJ4C7yjjyOBG6etJ6CAGlA.jpeg)
+·](../assets/4a027911d312/1*aJ4C7yjjyOBG6etJ6CAGlA.jpeg)
 
 Belgrade parks\. Photos by [Azil u Srbiji Asylum Protection in Serbia](https://twitter.com/APC_CZA/status/1272933714281013253?fbclid=IwAR3BYi-y5qYPCeHiFKpYg75ZBJYrSvaJOZ4qo_QeWNfx1k-Os6bTyRvAD4Q) 
 ·
@@ -211,7 +211,7 @@ InfoMigrants is reporting that hundreds of people living on the street in Grande
 Get mobilized for the [\#regularization](https://www.facebook.com/hashtag/regularization?__eep__=6&source=feed_text&epa=HASHTAG&__xts__%5B0%5D=68.ARBeQkWzDO9PvZ_5pIhq_wdYJzzXhk9B7jMcZ9-tgCdiScvsluuNw99AMJNwm9USXxmq6paNV42PMEvqb75eAx7bMGsu4vr7i2IU-8JWeo6YzVabbgScw7_9OdluofmvWv-6jCoX4-84wLlb5T7rqkR12SEQle9KibYN1pLHH9nLmWslhE74EgRqcctLNzVj3RdktXMIZ1zFOOCFfzBNIKWB1odX6L0LWEljN78VLifyZ7ewcUCJieZvk3dKtKLtnOldlrS6rMrPbfibbgeWpNRxcXRTdmknoTrHAl5t_ZmQnFYhnueQQ60uuABNXG59UeQgrWkYceGYHfm0kSf3&__tn__=%2ANK-R) of the papers\!
 Today, La Cimade is launching a campaign for the wide and sustainable regularization of all the non\-papers\. We call for the issue of a stable residence permit which guarantees the right to work, in the long term, to achieve freedom of movement and installation\.
 Post your photos with the hashtag [\#LibertéÉgalitéRégularisez](https://www.facebook.com/hashtag/libert%C3%A9%C3%A9galit%C3%A9r%C3%A9gularisez?__eep__=6&source=feed_text&epa=HASHTAG&__xts__%5B0%5D=68.ARBeQkWzDO9PvZ_5pIhq_wdYJzzXhk9B7jMcZ9-tgCdiScvsluuNw99AMJNwm9USXxmq6paNV42PMEvqb75eAx7bMGsu4vr7i2IU-8JWeo6YzVabbgScw7_9OdluofmvWv-6jCoX4-84wLlb5T7rqkR12SEQle9KibYN1pLHH9nLmWslhE74EgRqcctLNzVj3RdktXMIZ1zFOOCFfzBNIKWB1odX6L0LWEljN78VLifyZ7ewcUCJieZvk3dKtKLtnOldlrS6rMrPbfibbgeWpNRxcXRTdmknoTrHAl5t_ZmQnFYhnueQQ60uuABNXG59UeQgrWkYceGYHfm0kSf3&__tn__=%2ANK-R) and tag [La Cimade](https://www.facebook.com/lacimade/?__tn__=K-R&eid=ARCb6WDADoo-EfgbhFhOBt_vYxGeVIJ65lWzCQ95iBuaLv8Zmvf5PNb8XKx7Z6QLfnaleMrw35GaKOdi&fref=tag&__xts__%5B0%5D=68.ARBeQkWzDO9PvZ_5pIhq_wdYJzzXhk9B7jMcZ9-tgCdiScvsluuNw99AMJNwm9USXxmq6paNV42PMEvqb75eAx7bMGsu4vr7i2IU-8JWeo6YzVabbgScw7_9OdluofmvWv-6jCoX4-84wLlb5T7rqkR12SEQle9KibYN1pLHH9nLmWslhE74EgRqcctLNzVj3RdktXMIZ1zFOOCFfzBNIKWB1odX6L0LWEljN78VLifyZ7ewcUCJieZvk3dKtKLtnOldlrS6rMrPbfibbgeWpNRxcXRTdmknoTrHAl5t_ZmQnFYhnueQQ60uuABNXG59UeQgrWkYceGYHfm0kSf3) 
-Find some images and the link to the details of our proposals\. Photo by [the campaign](https://www.lacimade.org/liberteegaliteregularisez-regularisation/?fbclid=IwAR1GTGl2luUBZWmKCZrLQ2B7xJGM1Hk51O58pzbcWpkUsPiibziM2cRHbw0)](assets/4a027911d312/1*TJXKe2-O5icxUokMQmTCjQ.jpeg)
+Find some images and the link to the details of our proposals\. Photo by [the campaign](https://www.lacimade.org/liberteegaliteregularisez-regularisation/?fbclid=IwAR1GTGl2luUBZWmKCZrLQ2B7xJGM1Hk51O58pzbcWpkUsPiibziM2cRHbw0)](../assets/4a027911d312/1*TJXKe2-O5icxUokMQmTCjQ.jpeg)
 
 [\#LibertéÉgalitéRégularisez](https://www.facebook.com/hashtag/libert%C3%A9%C3%A9galit%C3%A9r%C3%A9gularisez?__eep__=6&source=feed_text&epa=HASHTAG&__xts__%5B0%5D=68.ARBeQkWzDO9PvZ_5pIhq_wdYJzzXhk9B7jMcZ9-tgCdiScvsluuNw99AMJNwm9USXxmq6paNV42PMEvqb75eAx7bMGsu4vr7i2IU-8JWeo6YzVabbgScw7_9OdluofmvWv-6jCoX4-84wLlb5T7rqkR12SEQle9KibYN1pLHH9nLmWslhE74EgRqcctLNzVj3RdktXMIZ1zFOOCFfzBNIKWB1odX6L0LWEljN78VLifyZ7ewcUCJieZvk3dKtKLtnOldlrS6rMrPbfibbgeWpNRxcXRTdmknoTrHAl5t_ZmQnFYhnueQQ60uuABNXG59UeQgrWkYceGYHfm0kSf3&__tn__=%2ANK-R) \! ✊
 Get mobilized for the [\#regularization](https://www.facebook.com/hashtag/regularization?__eep__=6&source=feed_text&epa=HASHTAG&__xts__%5B0%5D=68.ARBeQkWzDO9PvZ_5pIhq_wdYJzzXhk9B7jMcZ9-tgCdiScvsluuNw99AMJNwm9USXxmq6paNV42PMEvqb75eAx7bMGsu4vr7i2IU-8JWeo6YzVabbgScw7_9OdluofmvWv-6jCoX4-84wLlb5T7rqkR12SEQle9KibYN1pLHH9nLmWslhE74EgRqcctLNzVj3RdktXMIZ1zFOOCFfzBNIKWB1odX6L0LWEljN78VLifyZ7ewcUCJieZvk3dKtKLtnOldlrS6rMrPbfibbgeWpNRxcXRTdmknoTrHAl5t_ZmQnFYhnueQQ60uuABNXG59UeQgrWkYceGYHfm0kSf3&__tn__=%2ANK-R) of the papers\!
@@ -248,7 +248,7 @@ Find the full report with much more insight [here](https://refugeeswelcome.dk/ra
 
 
 ![“In front of the parliament now\.
-Follow the stream from the evacuate children from moria since 12” Photo by [Katrin Glatz Brubakk](https://www.facebook.com/photo.php?fbid=1175051432844643&set=a.133615620321568&type=3&theater)](assets/4a027911d312/1*XlwQENW5VcNYCDIQmkTi8Q.jpeg)
+Follow the stream from the evacuate children from moria since 12” Photo by [Katrin Glatz Brubakk](https://www.facebook.com/photo.php?fbid=1175051432844643&set=a.133615620321568&type=3&theater)](../assets/4a027911d312/1*XlwQENW5VcNYCDIQmkTi8Q.jpeg)
 
 “In front of the parliament now\.
 Follow the stream from the evacuate children from moria since 12” Photo by [Katrin Glatz Brubakk](https://www.facebook.com/photo.php?fbid=1175051432844643&set=a.133615620321568&type=3&theater)

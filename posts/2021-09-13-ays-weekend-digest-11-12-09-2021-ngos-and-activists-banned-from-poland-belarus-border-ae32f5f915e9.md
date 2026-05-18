@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest: 11–12/09/2021 NGOs and activists banned from Poland-Belarus border
+title: "AYS Weekend Digest: 11–12/09/2021 NGOs and activists banned from Poland-Belarus border"
 author: Are You Syrious?
 date: 2021-09-13T18:12:07.587+0100
 last_modified_at: 2021-09-14T07:21:29.838+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [pushback,human-rights,digest,refugees,european-union]
 description: Smuggler arrested in Libya / News from the ‘tent town’ in Sombor, Serbia / 22 MEPs call for Greek government to be challenged / Complex…
 image:
-  path: assets/ae32f5f915e9/0*S-Y4ebrBDGgsONgk
+  path: ../assets/ae32f5f915e9/0*S-Y4ebrBDGgsONgk
 ---
 
 ### AYS Weekend Digest: 11–12/09/2021 NGOs and activists banned from Poland\-Belarus border
 #### Smuggler arrested in Libya / News from the ‘tent town’ in Sombor, Serbia / 22 MEPs call for Greek government to be challenged / Complex pushback from Samos, Greece / French Navy Channel Rescues / Myth\-busting UK refugee numbers / Praise for ship captain
 
 
-![](assets/ae32f5f915e9/0*S-Y4ebrBDGgsONgk)
+![](../assets/ae32f5f915e9/0*S-Y4ebrBDGgsONgk)
 
 
 [Map of the border zone Poland\-Belarus](https://twitter.com/michalkowalowka/status/1436737334784008203?fbclid=IwAR2KPPDPh1HnDHopCKA7Y3iZ53nZhgv5DR3XrACZNgk9Cbo5XTHQFQKKXZs)
@@ -65,11 +65,11 @@ Meanwhile, [a message from people in a camp](https://twitter.com/PDimitras/statu
 Whilst on the mainland, hundreds of people turned out for [a demonstration in Thessaloniki](https://www.facebook.com/parwana.amiri.3388/posts/374514350718791) in support of Afghan people\.
 
 
-![](assets/ae32f5f915e9/0*LC6eBXuZr5oPmm9F)
+![](../assets/ae32f5f915e9/0*LC6eBXuZr5oPmm9F)
 
 
 
-![](assets/ae32f5f915e9/0*XNkJMzuoQ9dHroHi)
+![](../assets/ae32f5f915e9/0*XNkJMzuoQ9dHroHi)
 
 
 Photographer @hoshangdollawri
@@ -88,11 +88,11 @@ A ‘small town’ has been created outside of the reception centre, using tents
 More than 13,000 people are in the centre and outside, many times the intended capacity of the centre\.
 
 
-![](assets/ae32f5f915e9/0*Xv3CpqhL6KuBuFL7)
+![](../assets/ae32f5f915e9/0*Xv3CpqhL6KuBuFL7)
 
 
 
-![](assets/ae32f5f915e9/0*bvBoEibALBi8vDBn)
+![](../assets/ae32f5f915e9/0*bvBoEibALBi8vDBn)
 
 
 The ‘tent town’ in Sombor, Serbia\. Photo Klikaktiv
@@ -157,11 +157,11 @@ NGO Sea\-Eye are calling on German voters to act in the forthcoming election wit
 
 
 
-![](assets/ae32f5f915e9/0*VqTtS_Hz5QZ49__b)
+![](../assets/ae32f5f915e9/0*VqTtS_Hz5QZ49__b)
 
 
 
-![](assets/ae32f5f915e9/0*K3TssAI_G_msMK5_)
+![](../assets/ae32f5f915e9/0*K3TssAI_G_msMK5_)
 
 ### DENMARK
 ### Bizarre support from the Danish democrats to the Croatian right wing
@@ -214,11 +214,11 @@ Author and Historian [Marcus Reiker](https://twitter.com/MarcusRediker/status/14
 
 
 
-![](assets/ae32f5f915e9/0*wCwn4pBQBU9PbLVo)
+![](../assets/ae32f5f915e9/0*wCwn4pBQBU9PbLVo)
 
 
 
-![](assets/ae32f5f915e9/0*_CMlg3DLR1fi9ns7)
+![](../assets/ae32f5f915e9/0*_CMlg3DLR1fi9ns7)
 
 
 Ship Captain Pia Klemp

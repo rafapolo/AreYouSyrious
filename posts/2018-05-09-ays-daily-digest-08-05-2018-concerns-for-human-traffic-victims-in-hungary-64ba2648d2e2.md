@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,moria35,hungary,mediterranean,digest]
 description: Updates from rescues in the Central and Western Mediterranean /// Legal case to start against Italy /// Deportation halted for 7 refugees…
 image:
-  path: assets/64ba2648d2e2/1*NV1agU5lgHQP17UyYyeQ5A.jpeg
+  path: ../assets/64ba2648d2e2/1*NV1agU5lgHQP17UyYyeQ5A.jpeg
 ---
 
 ### AYS Daily Digest 08/05/2018 Concerns for human trafficking victims in Hungary
@@ -15,7 +15,7 @@ image:
 Updates from rescues in the Central and Western Mediterranean /// Legal case to start against Italy /// Deportation halted for 7 refugees of the \#Moria35 //// Updates from Sarajevo /// More info and news from Serbia, France and Germany…
 
 
-![Saving lives and standing in solidarity with those fleeing war and misery cannot be a crime \#OpenArms \#Solidarity4all \(by [Mediterranean Hope](https://www.facebook.com/Mediterranean-hope-252231521632595/) \)](assets/64ba2648d2e2/1*NV1agU5lgHQP17UyYyeQ5A.jpeg)
+![Saving lives and standing in solidarity with those fleeing war and misery cannot be a crime \#OpenArms \#Solidarity4all \(by [Mediterranean Hope](https://www.facebook.com/Mediterranean-hope-252231521632595/) \)](../assets/64ba2648d2e2/1*NV1agU5lgHQP17UyYyeQ5A.jpeg)
 
 Saving lives and standing in solidarity with those fleeing war and misery cannot be a crime \#OpenArms \#Solidarity4all \(by [Mediterranean Hope](https://www.facebook.com/Mediterranean-hope-252231521632595/) \)
 #### FEATURE: Concerns for human trafficking victims in Hungary
@@ -58,7 +58,7 @@ In a continued anti\-migrant stance the Hungarian Government offered a symbolic 
 **SEA**
 
 
-![“In these months rescue operations also have been carried out by the Libyan Coast Guard, calculating that one out of three migrants departing from Libya this year is met by the Libyan Coast Guard and turned back” \( [Flavio di Giacomo, IOM](https://www.iom.int/news/mediterranean-migrant-arrivals-reach-23715-2018-deaths-reach-619) \)](assets/64ba2648d2e2/1*xRgM5ZaWBo_-gdfSd-FUcQ.jpeg)
+![“In these months rescue operations also have been carried out by the Libyan Coast Guard, calculating that one out of three migrants departing from Libya this year is met by the Libyan Coast Guard and turned back” \( [Flavio di Giacomo, IOM](https://www.iom.int/news/mediterranean-migrant-arrivals-reach-23715-2018-deaths-reach-619) \)](../assets/64ba2648d2e2/1*xRgM5ZaWBo_-gdfSd-FUcQ.jpeg)
 
 “In these months rescue operations also have been carried out by the Libyan Coast Guard, calculating that one out of three migrants departing from Libya this year is met by the Libyan Coast Guard and turned back” \( [Flavio di Giacomo, IOM](https://www.iom.int/news/mediterranean-migrant-arrivals-reach-23715-2018-deaths-reach-619) \)
 #### **Updates from Aquarius**
@@ -114,7 +114,7 @@ The boat was finally able to set a course North\. After three days at sea the he
 
 
 
-![In the last hours 508 people have been arrested by the Libyan coastguard\. They are going back to a country were torture and human slavery are permitted\. We can’t permit it\. \#Maydayterraneo](assets/64ba2648d2e2/1*uvJivRujDF7iLO90tSPWeg.jpeg)
+![In the last hours 508 people have been arrested by the Libyan coastguard\. They are going back to a country were torture and human slavery are permitted\. We can’t permit it\. \#Maydayterraneo](../assets/64ba2648d2e2/1*uvJivRujDF7iLO90tSPWeg.jpeg)
 
 In the last hours 508 people have been arrested by the Libyan coastguard\. They are going back to a country were torture and human slavery are permitted\. We can’t permit it\. \#Maydayterraneo
 
@@ -213,7 +213,7 @@ According to Marijan Baotic, Assistant Minister of Security, the Foreign Affairs
 #### Updates from Sarajevo
 
 
-![](assets/64ba2648d2e2/1*hbjWl2RiaIL-AMTPzLRg-w.jpeg)
+![](../assets/64ba2648d2e2/1*hbjWl2RiaIL-AMTPzLRg-w.jpeg)
 
 
 More than 400 people are sleeping outside in Sarajevo city center at the moment\. Help is mostly provided by the local population and a small group of the international volunteers\. Bosnia currently has the capacity to house about 160 people\.

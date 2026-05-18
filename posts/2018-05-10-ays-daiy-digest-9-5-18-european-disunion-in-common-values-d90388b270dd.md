@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 09/05/18: European disunion in common values
+title: "AYS Daily Digest 09/05/18: European disunion in common values"
 author: Are You Syrious?
 date: 2018-05-10T11:10:20.888+0100
 last_modified_at: 2018-05-16T18:06:49.598+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [europe,digest,refugees,greece,law]
 description: Family reunification must be considered case-by-case, the EU Court says; German Chancellor suggests a broader array of options for family…
 image:
-  path: assets/d90388b270dd/1*_260bieSE_947DFjY_rZ_Q.jpeg
+  path: ../assets/d90388b270dd/1*_260bieSE_947DFjY_rZ_Q.jpeg
 ---
 
 ### AYS Daily Digest 09/05/18: European disunion in common values
 #### _Family reunification must be considered case\-by\-case, the EU Court says; German Chancellor suggests a broader array of options for family resettlement, objections by human rights groups / Several people told to leave or face arrest in Skaramagas / New SAR actions in the Mediterranean / France and Italy continue dismantling makeshift camps and information points / Water tanks continuously taken away at Calais area camps / And more news…_
 
 
-![“Today is the day of Europe, a day commemorating ‘peace and unity of the continent\.’ Unfortunately, one more year we cannot celebrate because thousands of people continue to die on their shores without the countries forming this alleged Union of values has the slightest desire to prevent it\.” — [CEAR](https://www.facebook.com/CEARefugiado/?hc_ref=ARQUvIKHYCgPV5I82UelISEyp07LlcAxxSfAFhMbLO8FWvhZpDSJLPJqGss03BLowTE&fref=nf)](assets/d90388b270dd/1*_260bieSE_947DFjY_rZ_Q.jpeg)
+![“Today is the day of Europe, a day commemorating ‘peace and unity of the continent\.’ Unfortunately, one more year we cannot celebrate because thousands of people continue to die on their shores without the countries forming this alleged Union of values has the slightest desire to prevent it\.” — [CEAR](https://www.facebook.com/CEARefugiado/?hc_ref=ARQUvIKHYCgPV5I82UelISEyp07LlcAxxSfAFhMbLO8FWvhZpDSJLPJqGss03BLowTE&fref=nf)](../assets/d90388b270dd/1*_260bieSE_947DFjY_rZ_Q.jpeg)
 
 “Today is the day of Europe, a day commemorating ‘peace and unity of the continent\.’ Unfortunately, one more year we cannot celebrate because thousands of people continue to die on their shores without the countries forming this alleged Union of values has the slightest desire to prevent it\.” — [CEAR](https://www.facebook.com/CEARefugiado/?hc_ref=ARQUvIKHYCgPV5I82UelISEyp07LlcAxxSfAFhMbLO8FWvhZpDSJLPJqGss03BLowTE&fref=nf)
 ### FEATURE: European disunity?
@@ -61,30 +61,30 @@ For a detailed specification and description regarding this decision, please rea
 #### GREECE
 
 
-![](assets/d90388b270dd/1*Ccon3owXXKWJqDlRkGTVBA.jpeg)
+![](../assets/d90388b270dd/1*Ccon3owXXKWJqDlRkGTVBA.jpeg)
 
 ### Lesvos arrivals
 
 Two boats arrived on Lesvos this Wednesday morning, carrying 103 people\.
 
 
-![](assets/d90388b270dd/1*Vo8PzFU-F0b9cpRajM1xiw.jpeg)
+![](../assets/d90388b270dd/1*Vo8PzFU-F0b9cpRajM1xiw.jpeg)
 
 ### Solidarity demonstration in Mytilini
 
 Hundreds of people came together in Mytilini on Tuesday for a protest called by the Antifascist Coordination of Lesvos\.
 
 
-![Photo by [Lesvos Solidarity — Pikpa](https://www.facebook.com/pikpalesvos/)](assets/d90388b270dd/1*q694b8yrEUspkn_bAa5Diw.jpeg)
+![Photo by [Lesvos Solidarity — Pikpa](https://www.facebook.com/pikpalesvos/)](../assets/d90388b270dd/1*q694b8yrEUspkn_bAa5Diw.jpeg)
 
 Photo by [Lesvos Solidarity — Pikpa](https://www.facebook.com/pikpalesvos/)
 
 
-![](assets/d90388b270dd/1*aegztvZpAjGGYMY2TX4pzA.jpeg)
+![](../assets/d90388b270dd/1*aegztvZpAjGGYMY2TX4pzA.jpeg)
 
 
 
-![Photo by [Lesvos Solidarity — Pikpa](https://www.facebook.com/pikpalesvos/) / [Refugee Accommodation and Solidarity Space City Plaza](https://www.facebook.com/sol2refugeesen/)](assets/d90388b270dd/1*iNLOr253d0OyZJuHiOt0VQ.jpeg)
+![Photo by [Lesvos Solidarity — Pikpa](https://www.facebook.com/pikpalesvos/) / [Refugee Accommodation and Solidarity Space City Plaza](https://www.facebook.com/sol2refugeesen/)](../assets/d90388b270dd/1*iNLOr253d0OyZJuHiOt0VQ.jpeg)
 
 Photo by [Lesvos Solidarity — Pikpa](https://www.facebook.com/pikpalesvos/) / [Refugee Accommodation and Solidarity Space City Plaza](https://www.facebook.com/sol2refugeesen/)
 ### Eviction?
@@ -173,7 +173,7 @@ On May 7th in ‘the jungle,’ authorities began to remove the shacks of refuge
 [L’Auberge des Migrants](https://www.facebook.com/AubergeMigrants/?hc_ref=ARS1zv1GBDNVHML8QMgvKsWYxMYSP4Hrc3XUMxCgVdcwoztfkyCAqD05GDLUxD8119o&fref=nf) reports that for the second time their water tanks have been taken away during one of the expulsion actions by officials in the Calais area\. They say they have the water tanks because there is no water access during the night otherwise and, in general, there is not enough access to water in the area\. Those set by the authorities are far from the places where people sleep, so people risk losing their belongings and tents while fetching water if there happens to be an expulsion or similar\.
 
 
-![](assets/d90388b270dd/1*pKATrwBIONWAY7P4mJUG9Q.jpeg)
+![](../assets/d90388b270dd/1*pKATrwBIONWAY7P4mJUG9Q.jpeg)
 
 
 
@@ -201,7 +201,7 @@ On May 7th in ‘the jungle,’ authorities began to remove the shacks of refuge
 Volunteers and team members are wanted for an upcoming event in Paris:
 
 
-![](assets/d90388b270dd/1*2RvMoukQCtASFnPcr059Lw.jpeg)
+![](../assets/d90388b270dd/1*2RvMoukQCtASFnPcr059Lw.jpeg)
 
 #### GERMANY
 ### Family resettlement

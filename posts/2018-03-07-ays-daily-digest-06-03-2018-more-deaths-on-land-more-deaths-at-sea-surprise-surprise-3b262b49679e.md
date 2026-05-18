@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 06/03/2018: More deaths on land, more deaths at sea. Surprise, surprise…
+title: "AYS Daily Digest 06/03/2018: More deaths on land, more deaths at sea. Surprise, surprise…"
 author: Are You Syrious?
 date: 2018-03-07T10:03:03.061+0000
 last_modified_at: 2018-03-07T14:06:30.728+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,syria,greece,france,digest]
 description: 23 people, including two infants, are feared to have died in the Mediterranean today. Meanwhile, over 70 civilians have died in the…
 image:
-  path: assets/3b262b49679e/1*sfGVumY9tN5virZnvuI5TA.jpeg
+  path: ../assets/3b262b49679e/1*sfGVumY9tN5virZnvuI5TA.jpeg
 ---
 
 ### AYS Daily Digest 06/03/2018: More deaths on land, more deaths at sea\. Surprise, surprise…
@@ -15,7 +15,7 @@ image:
 Overcrowding on Greek Islands continues/News from Greece/ Balkan Weather Report/ Anti\-muslim rhetoric intensifies in Hungary ahead of elections/ Family deported from Austria/ News from Spain/France/Sweden/Ireland
 
 
-![Painting by Wissam Al Jazairy](assets/3b262b49679e/1*sfGVumY9tN5virZnvuI5TA.jpeg)
+![Painting by Wissam Al Jazairy](../assets/3b262b49679e/1*sfGVumY9tN5virZnvuI5TA.jpeg)
 
 Painting by Wissam Al Jazairy
 #### FEATURE — 23 People died at sea yesterday, bringing the death toll for 2018 to 421
@@ -158,11 +158,11 @@ The Elinko Warehouse in Athens is in desperate need of donations, primarily dry 
 Extreme police brutality again is witnessed in Patras\. A fourteen year old Afghan boy was stabbed by coast guard on his foot and hit with batons while they tried to remove his shoes\. He was then driven to the hospital by the policemen who claimed he stabbed himself\.
 
 
-![](assets/3b262b49679e/1*9zC0QbXERu_sgqcUMJFTYQ.jpeg)
+![](../assets/3b262b49679e/1*9zC0QbXERu_sgqcUMJFTYQ.jpeg)
 
 
 
-![](assets/3b262b49679e/1*36DRSyxceN612sjKHpAZAw.jpeg)
+![](../assets/3b262b49679e/1*36DRSyxceN612sjKHpAZAw.jpeg)
 
 #### Greek Islands
 
@@ -273,7 +273,7 @@ Today the French Government took over the responsibility of providing food to th
 While [some are happy to see the State finally assuming on some responsibility](https://twitter.com/aubergemigrants/status/970928042569797633) , volunteers are labelling the state operation a big ‘media prank’
 
 
-![](assets/3b262b49679e/1*pJrN729MU-CBGjjSQV8nhg.png)
+![](../assets/3b262b49679e/1*pJrN729MU-CBGjjSQV8nhg.png)
 
 ### Sweden
 
@@ -286,7 +286,7 @@ Different politicians with different belongings and agendas are of course motiva
 Due to the big influx of refugees in 2015, and many decisions taken in 2016, this situation will just increase since a lot of people will finish the “establishment phase” in 2018\.
 
 
-![](assets/3b262b49679e/1*DMpEfnLQOZ-EkbuhTwv2WQ.jpeg)
+![](../assets/3b262b49679e/1*DMpEfnLQOZ-EkbuhTwv2WQ.jpeg)
 
 ### Ireland
 

@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 3/2/2017 — Malta summit: EU needs a reality check
+title: "AYS DAILY DIGEST 3/2/2017 — Malta summit: EU needs a reality check"
 author: Are You Syrious?
 date: 2017-02-03T23:42:58.696+0000
 last_modified_at: 2017-02-04T11:14:43.554+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,european-union,refugee-camps,libya]
 description: European leaders meet in Malta to discuss the EU-Libya “migration plan” / Aid groups accuse the EU of abandoning humanitarian values and…
 image:
-  path: assets/fffccc426659/1*5NjUorVBmE5yM-BwfPKxcA.jpeg
+  path: ../assets/fffccc426659/1*5NjUorVBmE5yM-BwfPKxcA.jpeg
 ---
 
 ### AYS DAILY DIGEST 3/2/2017 — Malta summit: EU needs a reality check
@@ -18,7 +18,7 @@ European leaders meet in Malta to discuss the EU\-Libya “migration plan” / A
 European leaders met today in Malta to discuss the EU\-Libya migration plan that was first proposed last month by the European Commission\. In order to “reduce migratory flows along the Central Mediterranean route”, priority will be given to “training, equipment and support to the Libyan national coast guard” and “further efforts to disrupt the business model of smugglers”, according to [the declaration published today](http://www.consilium.europa.eu/en/press/press-releases/2017/01/03-malta-declaration/) \. There is no mention of _refugees_ or _protection_ \.
 
 
-![Photo by Independent](assets/fffccc426659/1*5NjUorVBmE5yM-BwfPKxcA.jpeg)
+![Photo by Independent](../assets/fffccc426659/1*5NjUorVBmE5yM-BwfPKxcA.jpeg)
 
 Photo by Independent
 
@@ -57,24 +57,24 @@ A leftover WW2 bomb was found in the Waterfront works area where the refugee bar
 Demonstration were held today in solidarity with the refugees in the city center of Athens\. Five refugees died during the last few days in the refugee camps of Greece, three people at Moria camp on the island of Lesvos, one in Samos and a 2 month old baby in Ritsona camp outside Athens\. People took to the streets in solidarity with refugees trapped between closed borders, living under terrible conditions in freezing temperatures\. The main stops of the protesters carrying strong anti\-racist messages were outside the Ministry of Migration Policy and the Greek parliament in Athens\.
 
 
-![](assets/fffccc426659/1*dJ2KXvlzMM4s9m0V7Z8xKg.jpeg)
+![](../assets/fffccc426659/1*dJ2KXvlzMM4s9m0V7Z8xKg.jpeg)
 
 
 
-![](assets/fffccc426659/1*hQGaHPpNCygolUvkZl_UXQ.jpeg)
+![](../assets/fffccc426659/1*hQGaHPpNCygolUvkZl_UXQ.jpeg)
 
 
 
-![](assets/fffccc426659/1*ZG90Q8u_LRICvQvRcT-EfQ.jpeg)
+![](../assets/fffccc426659/1*ZG90Q8u_LRICvQvRcT-EfQ.jpeg)
 
 
 
-![](assets/fffccc426659/1*bvDPS98V3nGgJeXzJ5kGhg.jpeg)
+![](../assets/fffccc426659/1*bvDPS98V3nGgJeXzJ5kGhg.jpeg)
 
 
 
 ![Anti\-rascist protest in solidarity with refugees, outside the Ministry of Migration Policy in Athens city center\.
-Photos by Savvas Karmaniolas, Yorgos Siniorakis and Marios Lolos](assets/fffccc426659/1*1DMGTnAvdvXOacYgWyjFhg.jpeg)
+Photos by Savvas Karmaniolas, Yorgos Siniorakis and Marios Lolos](../assets/fffccc426659/1*1DMGTnAvdvXOacYgWyjFhg.jpeg)
 
 Anti\-rascist protest in solidarity with refugees, outside the Ministry of Migration Policy in Athens city center\.
 Photos by Savvas Karmaniolas, Yorgos Siniorakis and Marios Lolos
@@ -82,33 +82,33 @@ Photos by Savvas Karmaniolas, Yorgos Siniorakis and Marios Lolos
 Demonstrations were also held in Mytilene, Lesvos\. In the last week three people have died in the nearby **Moria** refugee camp from suspected inhalation of carbon monoxide from the heaters in their tents\. Conditions in the overcrowded Moria camp have deteriorated over the recent bitterly cold spell, with many residents still sleeping in inadequate shelters\. Demonstrators stood in solidarity with refugees everywhere and called for the closure of the camp, writes Help Refugees\.
 
 
-![“Where is the EU when we are suffering” , photo by Help Refugees](assets/fffccc426659/1*2Oi2C7LBRIIJdzBnGVNItg.jpeg)
+![“Where is the EU when we are suffering” , photo by Help Refugees](../assets/fffccc426659/1*2Oi2C7LBRIIJdzBnGVNItg.jpeg)
 
 “Where is the EU when we are suffering” , photo by Help Refugees
 
 One of the reasons for the need to stand in solidarity with refugees was clearly shown today in Samos camp, where refugees once again had to experience inhumane conditions\. In a situation where diseases are hard to avoid and medical help is often hard to reach, the food refugees were given was rotten and contained worms\. Just one day after the hunger strike and straight after the visit of the deputy minister \(when the authorities rushed around to tidy the camp and ensure that the most vocally angry people were out of the way\) the residents were served rotten food\.
 
 
-![](assets/fffccc426659/1*WbDOwxSQX6Jq-QG99UXjcg.jpeg)
+![](../assets/fffccc426659/1*WbDOwxSQX6Jq-QG99UXjcg.jpeg)
 
 
 
-![Samos — photos by residents of the camp](assets/fffccc426659/1*U81VE_n2hcKNkgBcsDDxSw.jpeg)
+![Samos — photos by residents of the camp](../assets/fffccc426659/1*U81VE_n2hcKNkgBcsDDxSw.jpeg)
 
 Samos — photos by residents of the camp
 
 The **ATHENS mobile shower bus** is open Monday to Friday from 9am until 4pm and available to everyone\. Towels, soap and showers are free to use for anyone who needs them\. Showers are located 5 minutes walk from Omonia Square \(location in photos\)
 
 
-![](assets/fffccc426659/1*TYQdB695RCUkRlXFaFzGZQ.jpeg)
+![](../assets/fffccc426659/1*TYQdB695RCUkRlXFaFzGZQ.jpeg)
 
 
 
-![](assets/fffccc426659/1*oitUvM-iPtTbtJSCUk-S8g.jpeg)
+![](../assets/fffccc426659/1*oitUvM-iPtTbtJSCUk-S8g.jpeg)
 
 
 
-![ATHENS — mobile howers are located 5 minutes walk from Omonia Square](assets/fffccc426659/1*I1ZDz-gpzenCcvG9K0A6oA.jpeg)
+![ATHENS — mobile howers are located 5 minutes walk from Omonia Square](../assets/fffccc426659/1*I1ZDz-gpzenCcvG9K0A6oA.jpeg)
 
 ATHENS — mobile howers are located 5 minutes walk from Omonia Square
 
@@ -172,7 +172,7 @@ Help Refugees UK is in need of volunteers in **Calais** , both those who can sta
 
 
 
-![“Warehouse photo by Jenny Noakes, in a time when we \*did\* have enough volunteers” Help Refugees UK](assets/fffccc426659/1*R_RvnkESFylbcBNs3l1bxA.jpeg)
+![“Warehouse photo by Jenny Noakes, in a time when we \*did\* have enough volunteers” Help Refugees UK](../assets/fffccc426659/1*R_RvnkESFylbcBNs3l1bxA.jpeg)
 
 “Warehouse photo by Jenny Noakes, in a time when we \*did\* have enough volunteers” Help Refugees UK
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 20–21/2/2021: Child abuse in Greece
+title: "AYS Weekend Digest 20–21/2/2021: Child abuse in Greece"
 author: Are You Syrious?
 date: 2021-02-22T13:53:18.592+0000
 last_modified_at: 2021-02-22T13:53:18.592+0000
@@ -7,18 +7,18 @@ categories: Are You Syrious?
 tags: [digest,greec,child-abuse,search-and-rescue,hostile-environment]
 description: Chaotic weekend in the central Med // Updates from the Greek islands, the Italian/French border and Germany // More evictions in Calais //…
 image:
-  path: assets/eb3d8e8d9ea0/0*R-dE-5wjfX6JNA-H.png
+  path: ../assets/eb3d8e8d9ea0/0*R-dE-5wjfX6JNA-H.png
 ---
 
 ### AYS Weekend Digest 20–21/2/2021: Child abuse in Greece
 #### Chaotic weekend in the central Med // Updates from the Greek islands, the Italian/French border and Germany // More evictions in Calais // Concerns over government\-run hotel in the UK\.
 
 
-![](assets/eb3d8e8d9ea0/0*O4gBt5sZuwdnQahT)
+![](../assets/eb3d8e8d9ea0/0*O4gBt5sZuwdnQahT)
 
 
 
-![](assets/eb3d8e8d9ea0/0*R-dE-5wjfX6JNA-H.png)
+![](../assets/eb3d8e8d9ea0/0*R-dE-5wjfX6JNA-H.png)
 
 
 Frozen tents in the refugee camp in Arsal, Lebanon \(photos via [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/photos/a.129654032010998/269087314734335/) \) \. “More than 15,000 Syrian refugees in Arsal are experiencing their second winter since a 2019 order from the Higher Defence Council, which is chaired by the president and responsible for implementing national defence strategy, required them to dismantle their shelters\. The order has forced them to live without adequate roofs and insulation, exposed to harsh winter conditions, including subzero temperatures and flooding\.” \(Read more [HERE](https://www.hrw.org/news/2021/01/19/lebanon-dire-conditions-syrian-refugees-border-town) \)
@@ -138,27 +138,27 @@ FRENCH/ITALIAN BORDER
 ### Update from the French Italian border
 
 
-![](assets/eb3d8e8d9ea0/0*RVBbykFnmiifKrXY)
+![](../assets/eb3d8e8d9ea0/0*RVBbykFnmiifKrXY)
 
 
 
-![](assets/eb3d8e8d9ea0/0*L9nxZ_jyJsd_QOVt.jpeg)
+![](../assets/eb3d8e8d9ea0/0*L9nxZ_jyJsd_QOVt.jpeg)
 
 
 
-![](assets/eb3d8e8d9ea0/0*PXpot69n8f3DWuQL)
+![](../assets/eb3d8e8d9ea0/0*PXpot69n8f3DWuQL)
 
 
 
-![](assets/eb3d8e8d9ea0/0*vS5oFHCxiPaLyu8n.jpeg)
+![](../assets/eb3d8e8d9ea0/0*vS5oFHCxiPaLyu8n.jpeg)
 
 
 
-![](assets/eb3d8e8d9ea0/0*b5CIzc_OhmaRYYzv)
+![](../assets/eb3d8e8d9ea0/0*b5CIzc_OhmaRYYzv)
 
 
 
-![](assets/eb3d8e8d9ea0/0*J6B1JhwoOOFj5fhO.jpeg)
+![](../assets/eb3d8e8d9ea0/0*J6B1JhwoOOFj5fhO.jpeg)
 
 
 \(Photo Credit: [Progetto20k](https://www.facebook.com/progetto20k/?__cft__[0]=AZUKTFLPH1bfjPwUI7ZF_ef03e1bD-Yd6u8Owpj1nQiqnFgyMRmRHpAi3fXSbFPSdukThe9STiy_RzbMbxxghc4SEcP8jJ8dhjg42ux0HgGJ-PxTd9VE5WFokSR-3yKk0oez4vnk1hZqWxQHz_KNo5ZH&__tn__=-UC%2CP-R) \)

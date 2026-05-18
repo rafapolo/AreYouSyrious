@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 07/03/2018: No place for fascism
+title: "AYS Daily Digest 07/03/2018: No place for fascism"
 author: Are You Syrious?
 date: 2018-03-07T23:41:25.206+0000
 last_modified_at: 2018-03-08T09:40:59.254+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,refugeeswelcome,greece,syria]
 description: Members of Greek Neo-nazi groups arrested ahead of major bomb attack / Chemical weapons used again in East Ghouta, at least 50 died /…
 image:
-  path: assets/f507e9374c57/1*r0uEjtpY0UpdQfTSqzWI5w.jpeg
+  path: ../assets/f507e9374c57/1*r0uEjtpY0UpdQfTSqzWI5w.jpeg
 ---
 
 ### AYS Daily Digest 07/03/2018: No place for fascism
@@ -15,7 +15,7 @@ image:
 _Members of Greek Neo\-nazi groups arrested ahead of major bomb attack / Chemical weapons used again in East Ghouta, at least 50 died / Turkey plans to establish refugee camps in Syria / New government funded distribution point in Calais / AIDA reports on Romania, Austria and more_
 
 
-![Vial, Chios — photo by [Advocates Abroad](https://www.facebook.com/advocatesabroad/?hc_ref=ARTi13qwNy8WSbYZGLjuFLVAd3l5PWJojEnFFYsK3i0rjlTGZ6MwarRvPmjtEHWIURk&hc_location=group)](assets/f507e9374c57/1*r0uEjtpY0UpdQfTSqzWI5w.jpeg)
+![Vial, Chios — photo by [Advocates Abroad](https://www.facebook.com/advocatesabroad/?hc_ref=ARTi13qwNy8WSbYZGLjuFLVAd3l5PWJojEnFFYsK3i0rjlTGZ6MwarRvPmjtEHWIURk&hc_location=group)](../assets/f507e9374c57/1*r0uEjtpY0UpdQfTSqzWI5w.jpeg)
 
 Vial, Chios — photo by [Advocates Abroad](https://www.facebook.com/advocatesabroad/?hc_ref=ARTi13qwNy8WSbYZGLjuFLVAd3l5PWJojEnFFYsK3i0rjlTGZ6MwarRvPmjtEHWIURk&hc_location=group)
 #### FEATURE
@@ -41,7 +41,7 @@ As a direct reaction during the intervention of Golden Dawn, Mark Skoufalos taci
 The President of the Municipal Council, Yannis Georgiades, explained that he was present in the room as the representative of the institution\. In response, he refused to withdraw the resolution, pointing out that it reflects the unanimous position of the City Council\.
 
 
-[![Politischios.gr: Αποχώρηση δημοτικών συμβούλων από το Δ.Σ. Χίου](assets/f507e9374c57/0c1e_hqdefault.jpg "Politischios.gr: Αποχώρηση δημοτικών συμβούλων από το Δ.Σ. Χίου")](http://www.youtube.com/watch?v=pzjEXOkm4mQ)
+[![Politischios.gr: Αποχώρηση δημοτικών συμβούλων από το Δ.Σ. Χίου](../assets/f507e9374c57/0c1e_hqdefault.jpg "Politischios.gr: Αποχώρηση δημοτικών συμβούλων από το Δ.Σ. Χίου")](http://www.youtube.com/watch?v=pzjEXOkm4mQ)
 
 #### SYRIA
 #### East Ghouta
@@ -134,7 +134,7 @@ They posted [footage](https://www.facebook.com/refugeeCkitchen/videos/2087920247
 **Paris — [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?hc_ref=ARRNmUQIbaksWUi-nv0XVg93oSNMs6DJtIEHFVhsAVDAo2l-Vot95IBNHX1czPsVdXY&fref=nf)** is looking for volunteers for their breakfast distributions in the morning\. If you have a few hours to give you are welcome to contact them or register right away [**here**](https://docs.google.com/spreadsheets/d/1CDTu2aZcuhldwhfPfrch75FxfsIFTbe97SN17bq2MQc/edit?ts=5849bb00#gid=0) \.
 
 
-![Snow and freezing temperatures hit Calais this past week\. Emergency accommodation is now closed and refugees have been sleeping rough in this awful weather\. Volunteers have been working tirelessly to keep refugees safe and warm\. — [Help Refugees](https://www.facebook.com/HelpRefugeesUK/)](assets/f507e9374c57/1*E_jp6TvS5jcH4McI8Fqccw.jpeg)
+![Snow and freezing temperatures hit Calais this past week\. Emergency accommodation is now closed and refugees have been sleeping rough in this awful weather\. Volunteers have been working tirelessly to keep refugees safe and warm\. — [Help Refugees](https://www.facebook.com/HelpRefugeesUK/)](../assets/f507e9374c57/1*E_jp6TvS5jcH4McI8Fqccw.jpeg)
 
 Snow and freezing temperatures hit Calais this past week\. Emergency accommodation is now closed and refugees have been sleeping rough in this awful weather\. Volunteers have been working tirelessly to keep refugees safe and warm\. — [Help Refugees](https://www.facebook.com/HelpRefugeesUK/)
 
@@ -147,7 +147,7 @@ Tents and belongings were destroyed in yet another evacuation:
 
 
 
-![](assets/f507e9374c57/1*QbspP9x_1SJmD5UfZmt9ow.jpeg)
+![](../assets/f507e9374c57/1*QbspP9x_1SJmD5UfZmt9ow.jpeg)
 
 
 **We strive to echo correct news from the ground through collaboration and fairness\.**

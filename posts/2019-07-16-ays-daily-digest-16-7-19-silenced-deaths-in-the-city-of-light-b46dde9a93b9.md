@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 16/7/19: Silenced deaths in the ‘city of light’
+title: "AYS Daily Digest 16/7/19: Silenced deaths in the ‘city of light’"
 author: Are You Syrious?
 date: 2019-07-16T12:15:24.602+0100
 last_modified_at: 2019-07-17T04:34:57.196+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,france,human-rights]
 description: New government presented a plan with six priorities for the situation of migration in Greece / Suffering in France’s capital hidden by…
 image:
-  path: assets/b46dde9a93b9/1*u4LoavW0HWJnO01MM11yuw.jpeg
+  path: ../assets/b46dde9a93b9/1*u4LoavW0HWJnO01MM11yuw.jpeg
 ---
 
 ### AYS Daily Digest 15/7/19: Silenced deaths in the ‘city of light’
 #### New government presented a plan with six priorities for the situation of migration in Greece **/** Suffering in France’s capital hidden by authorities / suffering and indifference continues in Bosnia and Herzegovina / Human Rights Watch sends open letter to the Croatian president / &more news
 
 
-![“Moving away some meters, we came across this chalk graffiti, a call for help: “We are young we can not get out, we need help, ‘help \!” When was it written? A few hours before? And by whom? By the victim? Or by the next one?\! \!” — Paris, Photo: [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?tn-str=k%2AF&hc_location=group_dialog)](assets/b46dde9a93b9/1*u4LoavW0HWJnO01MM11yuw.jpeg)
+![“Moving away some meters, we came across this chalk graffiti, a call for help: “We are young we can not get out, we need help, ‘help \!” When was it written? A few hours before? And by whom? By the victim? Or by the next one?\! \!” — Paris, Photo: [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?tn-str=k%2AF&hc_location=group_dialog)](../assets/b46dde9a93b9/1*u4LoavW0HWJnO01MM11yuw.jpeg)
 
 “Moving away some meters, we came across this chalk graffiti, a call for help: “We are young we can not get out, we need help, ‘help \!” When was it written? A few hours before? And by whom? By the victim? Or by the next one?\! \!” — Paris, Photo: [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?tn-str=k%2AF&hc_location=group_dialog)
 #### FEATURED

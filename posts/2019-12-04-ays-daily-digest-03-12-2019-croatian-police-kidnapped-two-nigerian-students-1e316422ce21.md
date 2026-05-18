@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,human-rights,borders,migration]
 description: Alan Kurdi and Ocean Viking Finally Allowed to Dock in Italy///Greek Government’s Plan for the Islands Does Not Impress///Horrible…
 image:
-  path: assets/1e316422ce21/0*1WfsqLxzAThMq2Db.JPG
+  path: ../assets/1e316422ce21/0*1WfsqLxzAThMq2Db.JPG
 ---
 
 ### AYS Daily Digest 03/12/19: Croatian police ‘pushed back’ two Nigerian students visiting the country for a sports competition
 #### _Alan Kurdi_ and _Ocean Viking_ Finally Allowed to Dock in Italy///Greek Government’s Plan for the Islands Does Not Impress///Horrible Conditions in Bosnia’s Camps///Afghanistan Most Dangerous Country in the World, but Deportations Continue
 
 
-![Boys stranded in Bosnia and Herzegovina \(Photo: Adi Kebo/zurnal\.info\)](assets/1e316422ce21/0*1WfsqLxzAThMq2Db.JPG)
+![Boys stranded in Bosnia and Herzegovina \(Photo: Adi Kebo/zurnal\.info\)](../assets/1e316422ce21/0*1WfsqLxzAThMq2Db.JPG)
 
 Boys stranded in Bosnia and Herzegovina \(Photo: Adi Kebo/zurnal\.info\)
 
@@ -42,7 +42,7 @@ In the past two and a half weeks alone, the police [shot two people](ays-daily-d
 ### Libyan Police Seem to Have a New, Secret Detention Center, Worrying Watchers
 
 
-![Photographer: Giulia Tranchina](assets/1e316422ce21/0*x5e2FasUqkohn32q)
+![Photographer: Giulia Tranchina](../assets/1e316422ce21/0*x5e2FasUqkohn32q)
 
 Photographer: Giulia Tranchina
 
@@ -61,7 +61,7 @@ ITALY
 ### New Hours for Caritas Intermelia
 
 
-![Photo Credits: Caritas Intermelia Organizzazione di Volontariato di Ventimiglia](assets/1e316422ce21/0*Mjz8rIHYBcS1BPJh)
+![Photo Credits: Caritas Intermelia Organizzazione di Volontariato di Ventimiglia](../assets/1e316422ce21/0*Mjz8rIHYBcS1BPJh)
 
 Photo Credits: Caritas Intermelia Organizzazione di Volontariato di Ventimiglia
 
@@ -114,7 +114,7 @@ In all of Greece, migrants are subject to surveillance and violence from the pol
 ### Winter Weather Causes Tents to Collapse in Vučjak Camp, EU Commissioner insists on immediate closure
 
 
-![Photo: Hannu\-Pekka Laiho](assets/1e316422ce21/0*i-WDvWtt-N6U37Da)
+![Photo: Hannu\-Pekka Laiho](../assets/1e316422ce21/0*i-WDvWtt-N6U37Da)
 
 Photo: Hannu\-Pekka Laiho
 

@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST: 28/12/2016: Erdogan’s Peace Plan: Dismemberment of Syria, War against Kurds
+title: "AYS DAILY DIGEST: 28/12/2016: Erdogan’s Peace Plan: Dismemberment of Syria, War against Kurds"
 author: Are You Syrious?
 date: 2016-12-29T11:02:01.995+0000
 last_modified_at: 2016-12-29T17:52:15.708+0000
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe]
 description: Feature
 image:
-  path: assets/97b0459dbaf3/1*VC_9KylUG3xoQWhVwGFwvA.jpeg
+  path: ../assets/97b0459dbaf3/1*VC_9KylUG3xoQWhVwGFwvA.jpeg
 ---
 
 ### AYS DAILY DIGEST: 28/12/2016: Erdogan’s Peace Plan: Dismemberment of Syria, War against Kurds
 
 
-![Art Against\. By Mohamed Ajeg](assets/97b0459dbaf3/1*VC_9KylUG3xoQWhVwGFwvA.jpeg)
+![Art Against\. By Mohamed Ajeg](../assets/97b0459dbaf3/1*VC_9KylUG3xoQWhVwGFwvA.jpeg)
 
 Art Against\. By Mohamed Ajeg
 #### Feature
@@ -57,7 +57,7 @@ Alternatively, if you know of any other way for him to get his pain medication, 
 #### Greece
 
 
-![Refugee woman walks through the rain: Photo Credit: Muhammed Muheisen\.](assets/97b0459dbaf3/1*v8ohHbCPWOqhIty016Fn2Q.jpeg)
+![Refugee woman walks through the rain: Photo Credit: Muhammed Muheisen\.](../assets/97b0459dbaf3/1*v8ohHbCPWOqhIty016Fn2Q.jpeg)
 
 Refugee woman walks through the rain: Photo Credit: Muhammed Muheisen\.
 ### 204 arrivals to the islands
@@ -178,7 +178,7 @@ You attract the attention of the CRS\- however careful you think you are being\-
 #### Mediterranean
 
 
-![One of the three boats picked up by SOS Mditerranee last night\.](assets/97b0459dbaf3/1*zZhfXH9EsfXQ6JFS9RbHAw.jpeg)
+![One of the three boats picked up by SOS Mditerranee last night\.](../assets/97b0459dbaf3/1*zZhfXH9EsfXQ6JFS9RbHAw.jpeg)
 
 One of the three boats picked up by SOS Mditerranee last night\.
 ### Over 800 people were rescued by SOS Mediterranee last night
@@ -188,7 +188,7 @@ The Red Crescent [has reported](https://www.today.ng/news/africa/237846/11-dead-
 ### Lest we forget, a record number of people has died crossing the Mediterranean this year
 
 
-![](assets/97b0459dbaf3/1*EVRLm3oNGbKefzMz9KpXqA.jpeg)
+![](../assets/97b0459dbaf3/1*EVRLm3oNGbKefzMz9KpXqA.jpeg)
 
 
 The above chart is not completely up to date\. The current figure for 2016 is actually 5,011 deaths\. This massive increase comes despite a decrease in the number of people making the voyage, a testament to the increasingly scrupulous practices of smugglers\.

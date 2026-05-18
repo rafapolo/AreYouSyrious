@@ -1,5 +1,5 @@
 ---
-title: Weekend Digest: 23–24.10.2021 — More than 450 rescued in Mediterranean by ship Geo Barents
+title: "Weekend Digest: 23–24.10.2021 — More than 450 rescued in Mediterranean by ship Geo Barents"
 author: Are You Syrious?
 date: 2021-10-26T09:04:00.179+0100
 last_modified_at: 2021-10-26T09:04:00.179+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,human-rights,sea-rescue,pope-francis,refugees]
 description: Pope Francis calls for global attention on Libya // Safety for Aita Mari after days at sea // Millions spent on ‘prison-camps’, despite…
 image:
-  path: assets/204d75d1cd80/0*JAp6aKbwYNGT3x91
+  path: ../assets/204d75d1cd80/0*JAp6aKbwYNGT3x91
 ---
 
 ### Weekend Digest: 23–24\.10\.2021 — More than 450 rescued in Mediterranean by ship Geo Barents
@@ -16,11 +16,11 @@ image:
 ### More than 450 rescued in Mediterranean by ship Geo Barents
 
 
-![](assets/204d75d1cd80/0*rl6sUNINIBooFeiY)
+![](../assets/204d75d1cd80/0*rl6sUNINIBooFeiY)
 
 
 
-![](assets/204d75d1cd80/0*JAp6aKbwYNGT3x91)
+![](../assets/204d75d1cd80/0*JAp6aKbwYNGT3x91)
 
 
 Photo Credit: [©Filippo Taddei/MSF](https://twitter.com/MSF_Sea/status/1452219702311280648?fbclid=IwAR1g6P0ZQ7u_Zu91_Txgm7JEbtfmNC4KS6bRjF-AHULafy6O-Z86xqCUmWo)
@@ -55,7 +55,7 @@ There is [speculation that a new migration hot\-spot is forming\.](https://www.d
 ### Millions spent on ‘prison\-camps’, despite warnings throughout the EU process
 
 
-![](assets/204d75d1cd80/0*f5u9BzKvxuuJH254)
+![](../assets/204d75d1cd80/0*f5u9BzKvxuuJH254)
 
 
 Photo Credit: [All Rights reserved: Elisa Perrigueur](https://fragdenstaat.de/en/blog/2021/10/22/how-the-eu-supports-the-construction-of-prison-like-refugee-camps/?fbclid=IwAR1N_ZkP9E2wD4EorkgirmtTqbC1bu3el6HUh3O3714x-38sdVuvrtTGU8I)
@@ -65,7 +65,7 @@ EU Commissioner for Home Affairs Ylva Johannson promised that there would be ‘
 [This long thread on Twitter](https://twitter.com/lk2015r/status/1452339882345603079?fbclid=IwAR1RpfkJBmVkzObVVcTlUReVZtvLcXuDZRKllW90uI3QkGFRDE26GFS-Vpo) examines how civilian ‘vigilantes’ have been patrolling the Evros border in efforts to keep people from crossing\. The thread contains photos, articles and videos in support of the assertion that association Ainisio Delta were involved in illegal pushbacks and other activities\.
 
 
-![](assets/204d75d1cd80/0*ZTpL8DUcpLD0q0z0)
+![](../assets/204d75d1cd80/0*ZTpL8DUcpLD0q0z0)
 
 
 [A police chase in the town of Perama](https://www.keeptalkinggreece.com/2021/10/23/greek-police-roma-dead-chase-car-shootout-perama/) has resulted in the death of an unarmed man and the injury of a 16 year old boy\. Seven police officers involved in the incident have been held on suspicion of intentional homicide\. The victims were from the Roma community\. This [twitter thread](https://twitter.com/VassilisTsarnas/status/1452304840026173442?fbclid=IwAR3dnWeAs2tkTGt4bNXPAlz9uUk8s6aYgAwDcbJcP_3efMOHfLTzmSEWOK0) provides more information, whilst [this one](https://twitter.com/EleniKonstanto/status/1452332266642886663?fbclid=IwAR1cBg2DKeyFOzw-cJw0nYpklewFAtmmgteskjtsKt_mic10y6jX8pf9EkY) states that racism is increasing in Greece, linking to this event\. A march [in memory of the man](https://twitter.com/savvaskarma/status/1452302155289960463?fbclid=IwAR1cBg2DKeyFOzw-cJw0nYpklewFAtmmgteskjtsKt_mic10y6jX8pf9EkY) who died took place on Sunday\.
@@ -75,7 +75,7 @@ EU Commissioner for Home Affairs Ylva Johannson promised that there would be ‘
 ### Pair remain trapped in UN border area on Cyprus
 
 
-![](assets/204d75d1cd80/0*ZWGmgx7DbnPSr5GN)
+![](../assets/204d75d1cd80/0*ZWGmgx7DbnPSr5GN)
 
 
 Photo Credit: [LA Times Philippos Christou / AP](https://www.latimes.com/world-nation/story/2021-10-23/african-asylum-seekers-cyprus?fbclid=IwAR0e4keFTnlgFJIh1re99ExZOa6Jy_ATLxLGlAb-RCfBUmgOGlRMWkiKaQM)
@@ -98,7 +98,7 @@ As reported in Friday’s digest, two people remain trapped in the UN buffer zon
 These are the words of the mayor of [Michałów, Poland, a town at the border area with Belarus](https://oko.press/miejsce-dzieci-nie-jest-w-lesie-kwasniewska-i-komorowska-na-manifestacji-w-michalowie/?fbclid=IwAR3dnWeAs2tkTGt4bNXPAlz9uUk8s6aYgAwDcbJcP_3efMOHfLTzmSEWOK0) , and partly in the ‘Closed Area’ declared by the Polish government\. Many residents are helping those trapped at the border, and the demonstration on Saturday saw people take to the streets in support and in solidarity with people who are trapped in the forest border area\.
 
 
-![](assets/204d75d1cd80/0*S4QOma4rxf5Kq5ge)
+![](../assets/204d75d1cd80/0*S4QOma4rxf5Kq5ge)
 
 
 Photo Credit: [Sara Cincurova](https://twitter.com/Sara_Cincurova/status/1452014261249658887?fbclid=IwAR3gh623TcKHfDFYbUOExT4AD4MaB1KBzIfeCU32i_edQcQJo34gCm3fJJE)
@@ -131,7 +131,7 @@ There remains a call for volunteers in St Denis, near Paris\. [Solidarité migra
 ### German groups call for civil action
 
 
-![](assets/204d75d1cd80/0*MrFlPp7grO-aoLuG)
+![](../assets/204d75d1cd80/0*MrFlPp7grO-aoLuG)
 
 
 Photo Credit: [Seebrücke](https://www.facebook.com/SeebrueckeSchafftsichereHaefen/posts/1501227820249396)
@@ -165,7 +165,7 @@ The report uses a variety of sources and methods to outline the disgusting profi
 Deaths in Home Office accommodation are twice as high as official figures suggest\. [The Guardian published this article](https://www.theguardian.com/uk-news/2021/oct/24/asylum-hotel-deaths-twice-as-high-as-home-office-admitted?fbclid=IwAR3j3l3Kmd8pQVbxtjHOhWURbdjIv9lpThEtcNc7lZM3ylNwV-iovgylOgo) which reveals 95 people have died in 2016\. A Home Office statement claimed that the additional figures came from including those that had stayed in ‘asylum support accommodation’\. The figures have been described as ‘appalling’\.
 
 
-![](assets/204d75d1cd80/0*B7uBB45_lvgLtqeO.jpg)
+![](../assets/204d75d1cd80/0*B7uBB45_lvgLtqeO.jpg)
 
 
 Photo Credit: [RND](https://www.rnd.de/politik/london-fluechtlingspuppe-little-amal-nach-europareise-von-menschenmenge-begruesst-SIXGXMYK6SIVAM2CERLZZF4RJA.html)
@@ -190,11 +190,11 @@ Danish activists and lawyers have been digging up this decision from the ECHR ag
 There is a strong activist demand to the Danish government to renew the policy based on this hitherto undiscovered judgement\.
 
 
-![](assets/204d75d1cd80/0*efEyHqUSjWRJY_Sw)
+![](../assets/204d75d1cd80/0*efEyHqUSjWRJY_Sw)
 
 
 
-![](assets/204d75d1cd80/0*ted6wFZXvGUKSkPD)
+![](../assets/204d75d1cd80/0*ted6wFZXvGUKSkPD)
 
 
 This picture is of a couple who are [reportedly old and sick who have had their Danish residence permits revoked\.](https://www.facebook.com/lenekjj/posts/4391226024325985) This couple are just two of many who are being treated in a similar way\.

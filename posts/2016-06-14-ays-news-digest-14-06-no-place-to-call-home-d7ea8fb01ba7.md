@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 14/06: No place to call home
+title: "AYS News Digest 14/06: No place to call home"
 author: Are You Syrious?
 date: 2016-06-14T21:02:24.655+0100
 last_modified_at: 2016-06-16T04:23:04.486+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,syria]
 description: EU envoy in Turkey resigns. Both Elliniko and Piraeus scheduled for eviction. Greek government announces significant increase of official…
 image:
-  path: assets/d7ea8fb01ba7/1*YlgXKIuFIniE5Yf56ZrWZQ.jpeg
+  path: ../assets/d7ea8fb01ba7/1*YlgXKIuFIniE5Yf56ZrWZQ.jpeg
 ---
 
 ### AYS News Digest 14/06: No place to call home
 #### EU envoy in Turkey resigns\. Both Elliniko and Piraeus scheduled for eviction\. Greek government announces significant increase of official accommodation capacities, but volunteers didn’t notice any new tents in camps\. First days in Vasilika camp: scarce food, dirty toilets\. 60 refugees rescued off Lesvos\.
 
 
-![_Rajaa Al Sharki holds her youngest son close after a tearful reunion\._ Credit: ITV Cymru Wales / Alexandra Lodge](assets/d7ea8fb01ba7/1*YlgXKIuFIniE5Yf56ZrWZQ.jpeg)
+![_Rajaa Al Sharki holds her youngest son close after a tearful reunion\._ Credit: ITV Cymru Wales / Alexandra Lodge](../assets/d7ea8fb01ba7/1*YlgXKIuFIniE5Yf56ZrWZQ.jpeg)
 
 _Rajaa Al Sharki holds her youngest son close after a tearful reunion\._ Credit: ITV Cymru Wales / Alexandra Lodge
 #### Turkey
@@ -40,7 +40,7 @@ _Rajaa Al Sharki holds her youngest son close after a tearful reunion\._ Credit:
 
 
 
-![EU diplomat Hansjoerg Haber, then the head of the observer mission to Georgia, speaks to journalists in Mukhrani in 2008 Getty Images](assets/d7ea8fb01ba7/1*4mLYZYG7-J06QDjLNJYM_g.jpeg)
+![EU diplomat Hansjoerg Haber, then the head of the observer mission to Georgia, speaks to journalists in Mukhrani in 2008 Getty Images](../assets/d7ea8fb01ba7/1*4mLYZYG7-J06QDjLNJYM_g.jpeg)
 
 EU diplomat Hansjoerg Haber, then the head of the observer mission to Georgia, speaks to journalists in Mukhrani in 2008 Getty Images
 #### Greece
@@ -55,7 +55,7 @@ EU diplomat Hansjoerg Haber, then the head of the observer mission to Georgia, s
 ### Hara camp now completely evicted
 
 
-![Bulldozing of a makeshift camp in the North\. Credits: Radio Kras](assets/d7ea8fb01ba7/1*BetC9L6MxntoqsyU1BzRqw.jpeg)
+![Bulldozing of a makeshift camp in the North\. Credits: Radio Kras](../assets/d7ea8fb01ba7/1*BetC9L6MxntoqsyU1BzRqw.jpeg)
 
 Bulldozing of a makeshift camp in the North\. Credits: Radio Kras
 
@@ -95,7 +95,7 @@ A [report](https://www.facebook.com/Northernlightsaid/posts/1797999017097387) di
 Police operation for today included eleven buses with 630 refugees leaving Hara hotel and BP\.
 
 
-![Eviction of EKO camp\. Credits: [**Hassan Alhomse**](https://www.facebook.com/profile.php?id=100010927244202)](assets/d7ea8fb01ba7/1*bEtmLEMmFBkc7F8qqesfsA.jpeg)
+![Eviction of EKO camp\. Credits: [**Hassan Alhomse**](https://www.facebook.com/profile.php?id=100010927244202)](../assets/d7ea8fb01ba7/1*bEtmLEMmFBkc7F8qqesfsA.jpeg)
 
 Eviction of EKO camp\. Credits: [**Hassan Alhomse**](https://www.facebook.com/profile.php?id=100010927244202)
 ### The first day in Vasilika camp
@@ -120,16 +120,16 @@ Eviction of EKO camp\. Credits: [**Hassan Alhomse**](https://www.facebook.com/pr
 
 
 
-![](assets/d7ea8fb01ba7/1*3VUm92vpen1-pumW6dzTDw.jpeg)
+![](../assets/d7ea8fb01ba7/1*3VUm92vpen1-pumW6dzTDw.jpeg)
 
 
 
-![Refugees slowly getting used to the new environment\. Credits: [**Hassan Alhomse**](https://www.facebook.com/profile.php?id=100010927244202&fref=photo)](assets/d7ea8fb01ba7/1*TAli6pSuvqzIs1tjGjwbaw.jpeg)
+![Refugees slowly getting used to the new environment\. Credits: [**Hassan Alhomse**](https://www.facebook.com/profile.php?id=100010927244202&fref=photo)](../assets/d7ea8fb01ba7/1*TAli6pSuvqzIs1tjGjwbaw.jpeg)
 
 Refugees slowly getting used to the new environment\. Credits: [**Hassan Alhomse**](https://www.facebook.com/profile.php?id=100010927244202&fref=photo)
 
 
-![Daily meal: pasta with some sauce\. Credits: [**Hassan Alhomse**](https://www.facebook.com/profile.php?id=100010927244202&fref=photo)](assets/d7ea8fb01ba7/1*0jBAUkaN1OwKvvyeGlC3Yg.jpeg)
+![Daily meal: pasta with some sauce\. Credits: [**Hassan Alhomse**](https://www.facebook.com/profile.php?id=100010927244202&fref=photo)](../assets/d7ea8fb01ba7/1*0jBAUkaN1OwKvvyeGlC3Yg.jpeg)
 
 Daily meal: pasta with some sauce\. Credits: [**Hassan Alhomse**](https://www.facebook.com/profile.php?id=100010927244202&fref=photo)
 ### 60 refugees rescued by the Hellenic Coastguard near to the coasts of Lesvos today
@@ -142,7 +142,7 @@ Daily meal: pasta with some sauce\. Credits: [**Hassan Alhomse**](https://www.fa
 
 
 
-![Credits: Frontex](assets/d7ea8fb01ba7/1*KqnPdKPOG7z0nCUeIO2-CQ.jpeg)
+![Credits: Frontex](../assets/d7ea8fb01ba7/1*KqnPdKPOG7z0nCUeIO2-CQ.jpeg)
 
 Credits: Frontex
 ### Jobs for 100 Greek Independent volunteers
@@ -159,7 +159,7 @@ Information available [here](http://thepolisproject.gr/agora/item/1770-100-prosl
 
 
 
-![Hungarian\-Serbian border\. Credits: About Hungary](assets/d7ea8fb01ba7/1*IYpkMmv1BvsCwPRc91CLcw.jpeg)
+![Hungarian\-Serbian border\. Credits: About Hungary](../assets/d7ea8fb01ba7/1*IYpkMmv1BvsCwPRc91CLcw.jpeg)
 
 Hungarian\-Serbian border\. Credits: About Hungary
 ### Information leaflet on Hungarian law finally available
@@ -219,12 +219,12 @@ Hungarian\-Serbian border\. Credits: About Hungary
 
 
 
-![_Rajaa Al Sharki holds her youngest son close after a tearful reunion\._ Credit: ITV Cymru Wales / Alexandra Lodge](assets/d7ea8fb01ba7/1*YlgXKIuFIniE5Yf56ZrWZQ.jpeg)
+![_Rajaa Al Sharki holds her youngest son close after a tearful reunion\._ Credit: ITV Cymru Wales / Alexandra Lodge](../assets/d7ea8fb01ba7/1*YlgXKIuFIniE5Yf56ZrWZQ.jpeg)
 
 _Rajaa Al Sharki holds her youngest son close after a tearful reunion\._ Credit: ITV Cymru Wales / Alexandra Lodge
 
 
-![_Al Sharki family reunited\. \._ Credit: ITV Cymru Wales / Alexandra Lodge](assets/d7ea8fb01ba7/1*nr-WJgpOyQ41URfOF3yx6Q.jpeg)
+![_Al Sharki family reunited\. \._ Credit: ITV Cymru Wales / Alexandra Lodge](../assets/d7ea8fb01ba7/1*nr-WJgpOyQ41URfOF3yx6Q.jpeg)
 
 _Al Sharki family reunited\. \._ Credit: ITV Cymru Wales / Alexandra Lodge
 #### Kenya

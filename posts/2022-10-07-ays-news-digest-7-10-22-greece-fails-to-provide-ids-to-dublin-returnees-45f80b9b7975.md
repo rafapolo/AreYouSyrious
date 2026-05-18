@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 7/10/22: Greece fails to provide IDs to Dublin deportees
+title: "AYS News Digest 7/10/22: Greece fails to provide IDs to Dublin deportees"
 author: Are You Syrious?
 date: 2022-10-07T23:23:59.907+0100
 last_modified_at: 2022-10-09T23:43:59.178+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,serbia,germany]
 description: Afghan sisters deported from Sweden face their next trauma // Moroccan appeal court tiples sentence // Serbia sees new influx of arrivals…
 image:
-  path: assets/45f80b9b7975/1*cJY2zN7TGY1RMHJpRfDB2g.jpeg
+  path: ../assets/45f80b9b7975/1*cJY2zN7TGY1RMHJpRfDB2g.jpeg
 ---
 
 ### AYS News Digest 7/10/22: Greece fails to provide IDs to Dublin deportees
 #### Afghan sisters deported from Sweden face their next trauma // Moroccan appeal court tiples sentence // Serbia sees new influx of arrivals and pushbacks // Germany celebrates ten years OPlatz
 
 
-![Credits: [Twitter/@PandemicDisco](https://twitter.com/PandemicDisco/status/1456275513564008456)](assets/45f80b9b7975/1*cJY2zN7TGY1RMHJpRfDB2g.jpeg)
+![Credits: [Twitter/@PandemicDisco](https://twitter.com/PandemicDisco/status/1456275513564008456)](../assets/45f80b9b7975/1*cJY2zN7TGY1RMHJpRfDB2g.jpeg)
 
 Credits: [Twitter/@PandemicDisco](https://twitter.com/PandemicDisco/status/1456275513564008456)
 ### Greece
@@ -45,7 +45,7 @@ Serbia is witnessing an increasing number of people entering from North Macedoni
 ### Germany
 
 
-![Credits: [Twitter/@Oplatz](https://twitter.com/Oplatz/status/1578135632119054337?fbclid=IwAR0qjR6X4VupxBMR8G6c29TYWtGvMeJoRgeY0QPWurKiYI2dUw0SXyGEQio)](assets/45f80b9b7975/1*Uj45xNaSPlpaGd6t51xt4A.jpeg)
+![Credits: [Twitter/@Oplatz](https://twitter.com/Oplatz/status/1578135632119054337?fbclid=IwAR0qjR6X4VupxBMR8G6c29TYWtGvMeJoRgeY0QPWurKiYI2dUw0SXyGEQio)](../assets/45f80b9b7975/1*Uj45xNaSPlpaGd6t51xt4A.jpeg)
 
 Credits: [Twitter/@Oplatz](https://twitter.com/Oplatz/status/1578135632119054337?fbclid=IwAR0qjR6X4VupxBMR8G6c29TYWtGvMeJoRgeY0QPWurKiYI2dUw0SXyGEQio)
 

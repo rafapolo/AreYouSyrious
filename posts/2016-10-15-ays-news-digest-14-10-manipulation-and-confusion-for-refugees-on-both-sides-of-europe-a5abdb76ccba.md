@@ -7,7 +7,7 @@ categories:
 tags: [refugees,france,greece,lebanon,immigration]
 description: October 14 — new date set for the demolition of the Jungle; UNHCR supporting the eviction and closing of the Jungle, while also raising…
 image:
-  path: assets/a5abdb76ccba/1*vXpDjNxnMRcShyvKdP_TAg.jpeg
+  path: ../assets/a5abdb76ccba/1*vXpDjNxnMRcShyvKdP_TAg.jpeg
 ---
 
 ### AYS NEWS DIGEST 14/10 — Manipulation and confusion for refugees on both sides of Europe
@@ -19,7 +19,7 @@ image:
 
 
 
-![Photo: [Nima Y\.](https://www.facebook.com/nyagphotos/)](assets/a5abdb76ccba/1*vXpDjNxnMRcShyvKdP_TAg.jpeg)
+![Photo: [Nima Y\.](https://www.facebook.com/nyagphotos/)](../assets/a5abdb76ccba/1*vXpDjNxnMRcShyvKdP_TAg.jpeg)
 
 Photo: [Nima Y\.](https://www.facebook.com/nyagphotos/)
 #### FRANCE
@@ -83,7 +83,7 @@ We hope those who really care about refugees are deemed “relevant” in the ey
 At the same time, many Brits have turned out for the [demonstration](http://www.oxfordtimes.co.uk/news/14803641.Protestors_rally_in_central_Oxford_against_Calais_Jungle_refugee_conditions/) in Oxford this Friday to protest the ‘horror’ faced by refugees in the Calais Jungle camp\.
 
 
-![Refugee rally in Oxford — \#DubsNow \(Photo: Twitter — @CassiopeiaKnits\)](assets/a5abdb76ccba/1*q0ghXkyJ99wA1Ioe3xMEVA.jpeg)
+![Refugee rally in Oxford — \#DubsNow \(Photo: Twitter — @CassiopeiaKnits\)](../assets/a5abdb76ccba/1*q0ghXkyJ99wA1Ioe3xMEVA.jpeg)
 
 Refugee rally in Oxford — \#DubsNow \(Photo: Twitter — @CassiopeiaKnits\)
 ### Volunteers bringing milk, sugar, coffee, tea, sleeping bags and tents are “thought to represent a danger to public order or internal security”
@@ -104,7 +104,7 @@ According to French volunteers, sometimes these people are given lodging at one 
 Volunteers are collecting warm clothes, sleeping bags, tents and other things that might help these people stranded on the streets, as the weather gets colder by the minute\.
 
 
-![Paris city centre \(hoto credit: Twitter — Mark Dummett\)](assets/a5abdb76ccba/1*dPYLd7mmjjSIPh6jSY3adA.jpeg)
+![Paris city centre \(hoto credit: Twitter — Mark Dummett\)](../assets/a5abdb76ccba/1*dPYLd7mmjjSIPh6jSY3adA.jpeg)
 
 Paris city centre \(hoto credit: Twitter — Mark Dummett\)
 #### SERBIA
@@ -112,7 +112,7 @@ Paris city centre \(hoto credit: Twitter — Mark Dummett\)
 [Miksalište](https://www.facebook.com/RefugeeAidMiksaliste/) reports welcoming 425 people who arrived today: 10 men, 32 women and 383 children\.
 
 
-![Hot Food Idomeni team provides hot meals on daily basis for everyone \(Photo: Refugee Aid Miksalište\)](assets/a5abdb76ccba/1*jTIjL0kTrN5toZJhsbgFdw.jpeg)
+![Hot Food Idomeni team provides hot meals on daily basis for everyone \(Photo: Refugee Aid Miksalište\)](../assets/a5abdb76ccba/1*jTIjL0kTrN5toZJhsbgFdw.jpeg)
 
 Hot Food Idomeni team provides hot meals on daily basis for everyone \(Photo: Refugee Aid Miksalište\)
 #### GREECE
@@ -125,7 +125,7 @@ According to the official registration, there were 89 newly registered arrivals 
 In the camps across the mainland, Vagiochori’s population has dropped by 52 people, while Elefsina has 90 new residents\. At Filippiada refugee camp, families have begun to receive hotel accommodation after their interviews, reducing the total population in the camp\. Around 70 Kurdish people who arrived at the camp two days ago after reaching to the Peloponnese by boat and have left for Athens in a private arrangement\.
 
 
-![Filippiada camp \(Photo: [Filippiada Camp News](https://www.facebook.com/filippiadacampnews/) \)](assets/a5abdb76ccba/1*S47xfTLPdvwdURAltbLTqQ.jpeg)
+![Filippiada camp \(Photo: [Filippiada Camp News](https://www.facebook.com/filippiadacampnews/) \)](../assets/a5abdb76ccba/1*S47xfTLPdvwdURAltbLTqQ.jpeg)
 
 Filippiada camp \(Photo: [Filippiada Camp News](https://www.facebook.com/filippiadacampnews/) \)
 ### Want to help?
@@ -136,7 +136,7 @@ Calling all credentialed teachers, art therapists, occupational therapists, psyc
 Note that you should be able to stay 2–4 weeks and you must be English speaking\. For more information and applying, please write to: schoolboxvolunteers@gmail\.com
 
 
-![](assets/a5abdb76ccba/1*AyOpnOme9hdzLvijgmyxwg.jpeg)
+![](../assets/a5abdb76ccba/1*AyOpnOme9hdzLvijgmyxwg.jpeg)
 
 #### Warning
 

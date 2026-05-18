@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 21/03/2017: Failure of institutions puts children in jail for weeks
+title: "AYS DAILY DIGEST 21/03/2017: Failure of institutions puts children in jail for weeks"
 author: Are You Syrious?
 date: 2017-03-22T03:31:49.555+0000
 last_modified_at: 2017-03-22T15:21:08.907+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,greece,serbia,hungary]
 description: More than 6000 people rescued in the last few days on central Mediterranean // Nea Kavala becomes more and more multicultural // Macedonia…
 image:
-  path: assets/8156fe4f0f85/1*pKnA_hLll92EXu2an8tu8Q.jpeg
+  path: ../assets/8156fe4f0f85/1*pKnA_hLll92EXu2an8tu8Q.jpeg
 ---
 
 ### AYS DAILY DIGEST 21/03/2017: Failure of institutions puts children in jail for weeks
@@ -15,7 +15,7 @@ image:
 More than 6000 people rescued in the last few days on central Mediterranean // Nea Kavala becomes more and more multicultural // Macedonia extends emergency state // Mental health deteriorates in Belgrade // Calls for a protest on the Hungarian\-Serbian border // commemorating a fatality one year after and protesting against killer borders in Italy
 
 
-![Credits: [**NGO Praxis Serbia**](https://www.facebook.com/NGO-Praxis-Serbia-371052492962101/?fref=nf)](assets/8156fe4f0f85/1*pKnA_hLll92EXu2an8tu8Q.jpeg)
+![Credits: [**NGO Praxis Serbia**](https://www.facebook.com/NGO-Praxis-Serbia-371052492962101/?fref=nf)](../assets/8156fe4f0f85/1*pKnA_hLll92EXu2an8tu8Q.jpeg)
 
 Credits: [**NGO Praxis Serbia**](https://www.facebook.com/NGO-Praxis-Serbia-371052492962101/?fref=nf)
 ### Feature
@@ -25,7 +25,7 @@ A recent inspection revealed that some children have been in a dangerous and pri
 The details were published today and according to [openDemocracyUK](https://www.opendemocracy.net/uk/shinealight/clare-sambrook/morton-hall-HMIP-immigration-detention-child-safeguarding) and relate to a surprise inspection done by HM Inspectorate of prisons last November\. This report states that procedures for safeguarding children who visited the centre were “not properly implemented”\. Reportedly a detainee with convictions for offences against children and who had been held at the centre for several months was only added to the list during our inspection while, in theory, visits staff should be made aware of detainees who posed a risk to children\.
 
 
-![Refugees are detained in a prison\-like camp](assets/8156fe4f0f85/1*c1qbrGHWbJY8NZvS_W3SEw.jpeg)
+![Refugees are detained in a prison\-like camp](../assets/8156fe4f0f85/1*c1qbrGHWbJY8NZvS_W3SEw.jpeg)
 
 Refugees are detained in a prison\-like camp
 
@@ -47,7 +47,7 @@ Yesterday, 1,800 migrants have been rescued in front of the Libyan coasts, durin
 So far, over 23,000 people arrived in Italy in 2017, 40 percent more than the ones in the same period in 2016\. The unaccompanied children included are over 2,200 \(while they totaled 25,000 in the whole 2016\) \. Lombardy is the region hosting more migrants\. Last Sunday, 3,300 people were rescued, coming from Guinea, Nigeria, Ivory Coast and Bangladesh\.
 
 
-![Credits: Giornale di Sicilia](assets/8156fe4f0f85/1*NQAS9YRrlvtmXtKiAJlduQ.jpeg)
+![Credits: Giornale di Sicilia](../assets/8156fe4f0f85/1*NQAS9YRrlvtmXtKiAJlduQ.jpeg)
 
 Credits: Giornale di Sicilia
 ### Greece
@@ -123,7 +123,7 @@ Nea Kavala camp in the north of Greece is getting more and more multicultural si
 The [**Refugee Info Bus**](https://www.facebook.com/RefugeeInfoBus/?ref=page_internal) is getting refurbished for the next part of their mission supporting refugees in Athens with information, education, and internet access\. The red mini van has now been fitted with a new electronic system, wifi system, and is insulated to protect from the hot Greek sun\. Now for the drive over to Athens, where they will be back on the ground within the week\.
 
 
-![Picture by [**Refugee Info Bus**](https://www.facebook.com/RefugeeInfoBus/?ref=page_internal)](assets/8156fe4f0f85/1*W9p_mqc--70-W2ZxAMLOjA.jpeg)
+![Picture by [**Refugee Info Bus**](https://www.facebook.com/RefugeeInfoBus/?ref=page_internal)](../assets/8156fe4f0f85/1*W9p_mqc--70-W2ZxAMLOjA.jpeg)
 
 Picture by [**Refugee Info Bus**](https://www.facebook.com/RefugeeInfoBus/?ref=page_internal)
 
@@ -240,12 +240,12 @@ Contact [here](https://www.facebook.com/groups/1157057194369287/permalink/135475
 To support this group follow the [link](https://www.paypal.me/calorTuga) or contact them on facebook\.
 
 
-![Credits: [**Calor português para os refugiados**](https://www.facebook.com/calortuga/)](assets/8156fe4f0f85/1*VbJt3-5CJTK0iEcuT_koyA.jpeg)
+![Credits: [**Calor português para os refugiados**](https://www.facebook.com/calortuga/)](../assets/8156fe4f0f85/1*VbJt3-5CJTK0iEcuT_koyA.jpeg)
 
 Credits: [**Calor português para os refugiados**](https://www.facebook.com/calortuga/)
 
 
-![Credits: [**Calor português para os refugiados**](https://www.facebook.com/calortuga/)](assets/8156fe4f0f85/1*sfZVnTcQIJXNvbqwTbIf8Q.jpeg)
+![Credits: [**Calor português para os refugiados**](https://www.facebook.com/calortuga/)](../assets/8156fe4f0f85/1*sfZVnTcQIJXNvbqwTbIf8Q.jpeg)
 
 Credits: [**Calor português para os refugiados**](https://www.facebook.com/calortuga/)
 ### Hungary

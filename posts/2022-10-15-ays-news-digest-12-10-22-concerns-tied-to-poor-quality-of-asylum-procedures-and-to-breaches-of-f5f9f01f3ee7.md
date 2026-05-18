@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 12/10/22: Concerns tied to poor quality of asylum procedures and to breaches of…
+title: "AYS News Digest 12/10/22: Concerns tied to poor quality of asylum procedures and to breaches of…"
 author: Are You Syrious?
 date: 2022-10-15T01:09:20.457+0100
 last_modified_at: 2022-10-15T03:28:10.742+0100
@@ -7,14 +7,14 @@ categories:
 tags: [digest,greece,germany,refugees,europe]
 description: Τhe state of the border procedure on the Greek islands / Being compelled to accept so-called ‘assisted returns’ / Western Europe doesn’t…
 image:
-  path: assets/f5f9f01f3ee7/1*RUVeCXUirf5Ya9gTdkqFug.jpeg
+  path: ../assets/f5f9f01f3ee7/1*RUVeCXUirf5Ya9gTdkqFug.jpeg
 ---
 
 ### AYS News Digest 12/10/22: Concerns tied to poor quality of asylum procedures and to breaches of fundamental rights in Greece
 #### Τhe state of the border procedure on the Greek islands / Being compelled to accept so\-called ‘assisted returns’ / Western Europe doesn’t like the increasing number of people arriving, unless they are Ukrainian / **Eritreans can no longer be forced to get documents through the Eritrean embassy in Germany, Court ruled**
 
 
-![By Rucke Souza](assets/f5f9f01f3ee7/1*RUVeCXUirf5Ya9gTdkqFug.jpeg)
+![By Rucke Souza](../assets/f5f9f01f3ee7/1*RUVeCXUirf5Ya9gTdkqFug.jpeg)
 
 By Rucke Souza
 #### FEATURE — Τhe state of the border procedure on the greek islands
@@ -97,7 +97,7 @@ In their latest info bulletin, InfoPark has reported on more deaths along the mo
 
 
 
-![](assets/f5f9f01f3ee7/0*hJVsgmUeQldwId_D)
+![](../assets/f5f9f01f3ee7/0*hJVsgmUeQldwId_D)
 
 
 

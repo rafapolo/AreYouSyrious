@@ -1,5 +1,5 @@
 ---
-title: AYS New Digest 22/6/2022: #DroptheCharges — the trial of M.M. has been further postponed
+title: "AYS New Digest 22/6/2022: #DroptheCharges — the trial of M.M. has been further postponed"
 author: Are You Syrious?
 date: 2022-06-22T23:45:52.371+0100
 last_modified_at: 2022-06-23T10:49:52.468+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,greece,digest,frontex,injustice]
 description: Case of Akkad v Turkiye/A woman gave birth whilst trying to reach Greece/Protests in Eleonas Camp/UN Special Rapporteur official…
 image:
-  path: assets/91c959d5f69d/0*SN_FOua4ErkpYveT
+  path: ../assets/91c959d5f69d/0*SN_FOua4ErkpYveT
 ---
 
 ### AYS New Digest 22/6/2022: \#DroptheCharges — the trial of M\.M\. has been further postponed
@@ -15,7 +15,7 @@ image:
 Case of Akkad vs\. Turkiye/A woman gave birth whilst trying to reach Greece/Protests in Eleonas Camp/UN Special Rapporteur official observation after visiting Greece/Extreme border violence at the Greek border/2021 Frontex Fundamental Rights Officer Report/Aita Mari has finally been allowed to dock in Italy/Undocumented domestic workers’ strike in Brussels/UK\-Rwanda Policy may encourage asylum seekers to take more dangerous routes/ and much more…
 
 
-![Source: No Name Kitchen, 22/6/2022](assets/91c959d5f69d/0*SN_FOua4ErkpYveT)
+![Source: No Name Kitchen, 22/6/2022](../assets/91c959d5f69d/0*SN_FOua4ErkpYveT)
 
 Source: No Name Kitchen, 22/6/2022
 ### FEATURE
@@ -93,7 +93,7 @@ About three and a half hours later, [Alarm Phone was informed that the group had
 Both the mother and baby are reported to be in good health\. When the Greek Coast Guard reached the island, [the mother was in a state of “half\-consciousness”](https://www.keeptalkinggreece.com/2022/06/22/migrant-woman-newborn-islet-lesvos-greece/?fbclid=IwAR31keX2qyI8I-sdjJ9GDr8in2shX2UXdHnJ1_lumzqYxB32VlSe7cicJE0) \.
 
 
-![](assets/91c959d5f69d/0*bgrgR2eyp6ffb8-o.jpg)
+![](../assets/91c959d5f69d/0*bgrgR2eyp6ffb8-o.jpg)
 
 
 
@@ -239,11 +239,11 @@ You can read the full report here: [Frontex Fundamental Rights Office releases a
 Events will start at 10am at Ribnjak park with several organisations participating and presenting\. There will also be opportunities for creative and social activities\. The AYS team will also be there\!
 
 
-![](assets/91c959d5f69d/0*Q1HkUi_xtV1HCsth)
+![](../assets/91c959d5f69d/0*Q1HkUi_xtV1HCsth)
 
 
 
-![](assets/91c959d5f69d/0*95NgpfsddRPKVHC7)
+![](../assets/91c959d5f69d/0*95NgpfsddRPKVHC7)
 
 ### ITALY
 #### On 22nd June, SMH announced that their ship, the Aita Mari, was allowed to dock in Italy
@@ -251,7 +251,7 @@ Events will start at 10am at Ribnjak park with several organisations participati
 The ship, with 899 passengers, was waiting to dock for days\. SMH have been contacting authorities asking to be allowed to disembark and now they have finally been able to\.
 
 
-![Source: El Diario Vasco, 22/6/2022](assets/91c959d5f69d/0*hrJak4IXqy7HblYY.jpg)
+![Source: El Diario Vasco, 22/6/2022](../assets/91c959d5f69d/0*hrJak4IXqy7HblYY.jpg)
 
 Source: El Diario Vasco, 22/6/2022
 
@@ -303,7 +303,7 @@ Operazioni di sbarco previste per domani mercoledì 22 giugno.
 [There are around 80,000 domestic workers across Belgium who are currently living undocumented](https://picum.org/undocumented-domestic-workers-go-on-first-ever-strike-in-brussels-belgium/?fbclid=IwAR1jGd_22oi9eem3kkFJiihCRsboBdUX7Bq4lDmeyhi1PWeDistrQrJWtF8) \. They often lack any formal contract and are at risk of exploitation and abuse from their employers\.
 
 
-![](assets/91c959d5f69d/0*7Fy9K_NJe8wUEQz8.jpg)
+![](../assets/91c959d5f69d/0*7Fy9K_NJe8wUEQz8.jpg)
 
 ### FRANCE
 #### Police evict 380 people, forcing them back onto the street

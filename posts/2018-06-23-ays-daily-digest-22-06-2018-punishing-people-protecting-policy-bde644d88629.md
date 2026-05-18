@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 22.06.2018: Punishing People, Protecting Policy
+title: "AYS DAILY DIGEST 22.06.2018: Punishing People, Protecting Policy"
 author: Are You Syrious?
 date: 2018-06-23T12:37:38.170+0100
 last_modified_at: 2018-06-23T12:42:21.919+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,greece,turkey,eu,humanitarianism]
 description: Mini migration policy in advance of “real” migration policy holds little hope for people struggling, more support for Borders and “People…
 image:
-  path: assets/bde644d88629/1*0kbTk0ykqV6GYhPASESYWg.jpeg
+  path: ../assets/bde644d88629/1*0kbTk0ykqV6GYhPASESYWg.jpeg
 ---
 
 ### AYS DAILY DIGEST 22\.06\.2018: Punishing People, Protecting Policy
@@ -15,7 +15,7 @@ image:
 _Mini migration policy in advance of “real” migration policy holds little hope for people struggling, more support for Borders and “People Holders” than People // Scapegoating in fallout of May Attacks in Moria // Call for volunteers in Greece // Update from Serbia // Protests in Austria // Needs in France // More…_
 
 
-![Photo Credit: [Refugee Accommodation and Solidarity Space City Plaza](https://www.facebook.com/sol2refugeesen/)](assets/bde644d88629/1*0kbTk0ykqV6GYhPASESYWg.jpeg)
+![Photo Credit: [Refugee Accommodation and Solidarity Space City Plaza](https://www.facebook.com/sol2refugeesen/)](../assets/bde644d88629/1*0kbTk0ykqV6GYhPASESYWg.jpeg)
 
 Photo Credit: [Refugee Accommodation and Solidarity Space City Plaza](https://www.facebook.com/sol2refugeesen/)
 ### FEATURE
@@ -30,7 +30,7 @@ On the tip of the tongue of any discussion of EU migration policy is the EU\-Tur
 So far this year 400 boats have been stopped on their way towards the Greek islands, with a total of 16797 people\.” [Source](https://www.facebook.com/AegeanBoatReport/posts/374442966412147?hc_location=ufi) \.
 
 
-![Photo Credit: Aegean Boat Report](assets/bde644d88629/1*pBwPvnMWFXu6YYBnSBHtTQ.jpeg)
+![Photo Credit: Aegean Boat Report](../assets/bde644d88629/1*pBwPvnMWFXu6YYBnSBHtTQ.jpeg)
 
 Photo Credit: Aegean Boat Report
 
@@ -49,7 +49,7 @@ Sources: [Reuters](https://www.reuters.com/article/us-europe-migrants-bulgaria/b
 The most recent figures from the Greek government show that there are over 17,000 people on the islands, well over the capacity of facilities which, all told is around 9,000\. There were only 61 transports to the mainland, and none of these were transports from people residing on the island\. For perspective, the next round of EU panic over the influx of people to Bosnia from Serbia was prompted by approximately 4,000 people\. Serbia’s official numbers had been hovering around 8,000–10,000 for the entire country up until this winter when the new route to Bosnia started decreasing the number of people staying in Serbia\.
 
 
-![credit: aegean boat report](assets/bde644d88629/1*bNkZQ6ncjOwbvB7g7NGpyw.jpeg)
+![credit: aegean boat report](../assets/bde644d88629/1*bNkZQ6ncjOwbvB7g7NGpyw.jpeg)
 
 credit: aegean boat report
 ### Lesvos
@@ -112,7 +112,7 @@ The sick reality was that this law was passed on World Refugee Day\. A telling c
 There was a series of protests that took place in front of the embassies of Morocco, Algeria, and Tunisia in Vienna today\. The activists took a bus to each of the embassies with a specific message for each one\. To Morocco, stories were shared of those facing hurdles to escape to Europe\. To Tunisia, a request to support their people abroad\. To Algeria \(which was ended early because of rain\) a call to end collaboration with EU border policies\.
 
 
-![Photo Credit: [Plattform Refugees Welcome](https://www.facebook.com/plattform.refugees.welcome/?hc_location=group_dialog)](assets/bde644d88629/1*JfMMWiAqWMQcyNHb4Bcdhg.jpeg)
+![Photo Credit: [Plattform Refugees Welcome](https://www.facebook.com/plattform.refugees.welcome/?hc_location=group_dialog)](../assets/bde644d88629/1*JfMMWiAqWMQcyNHb4Bcdhg.jpeg)
 
 Photo Credit: [Plattform Refugees Welcome](https://www.facebook.com/plattform.refugees.welcome/?hc_location=group_dialog)
 ### FRANCE
@@ -120,7 +120,7 @@ Photo Credit: [Plattform Refugees Welcome](https://www.facebook.com/plattform.re
 The P8 occupation needs your help\! There is a great need for food donations to the occupation of exilé\.e\.s of Paris University 8 \(Saint Denis University Metro\) now today\! \! Below is a list \(in French\) of what’s needed and how to help\!
 
 
-![](assets/bde644d88629/1*P6tMHQdgbvf5z-PcXEjr2w.jpeg)
+![](../assets/bde644d88629/1*P6tMHQdgbvf5z-PcXEjr2w.jpeg)
 
 
 Volunteers in Calais report an uptick in systematic destruction of people’s phones by police\.

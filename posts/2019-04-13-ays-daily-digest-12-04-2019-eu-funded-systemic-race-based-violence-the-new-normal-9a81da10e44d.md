@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 12/04/2019: EU Funded-Systemic-Race-Based Violence — The New Normal
+title: "AYS Daily Digest 12/04/2019: EU Funded-Systemic-Race-Based Violence — The New Normal"
 author: Are You Syrious?
 date: 2019-04-13T12:36:16.429+0100
 last_modified_at: 2019-04-13T22:54:38.510+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,violence,human-rights,european-union]
 description: Violence Against Minors on the Move in Morocco// Joint Appeal to Malta to Open Ports to Alan Kurdi Ship// Seventeen-year-old Boy Commits…
 image:
-  path: assets/9a81da10e44d/0*9V6y0jiO6DMUWzQ3
+  path: ../assets/9a81da10e44d/0*9V6y0jiO6DMUWzQ3
 ---
 
 ### AYS Daily Digest 12/04/2019: EU Funded\-Systemic\-Race\-Based Violence — The New Normal
@@ -15,16 +15,16 @@ image:
 Violence Against Minors on the Move in Morocco// Joint Appeal to Malta to Open Ports to Alan Kurdi Ship// Seventeen\-year\-old Boy Commits Suicide in Libya//News from Greece//Italy//France//Denmark
 
 
-![Photo by No Name Kitchen](assets/9a81da10e44d/0*9V6y0jiO6DMUWzQ3)
+![Photo by No Name Kitchen](../assets/9a81da10e44d/0*9V6y0jiO6DMUWzQ3)
 
 Photo by No Name Kitchen
 
 
-![](assets/9a81da10e44d/1*VokKOAzAM2bwp0s6FGTf4A.jpeg)
+![](../assets/9a81da10e44d/1*VokKOAzAM2bwp0s6FGTf4A.jpeg)
 
 
 
-![Border Violence Reports for March have been released by No Name Kitchen](assets/9a81da10e44d/1*DCMhRbIdJmik3hyPvR1p-w.jpeg)
+![Border Violence Reports for March have been released by No Name Kitchen](../assets/9a81da10e44d/1*DCMhRbIdJmik3hyPvR1p-w.jpeg)
 
 Border Violence Reports for March have been released by No Name Kitchen
 #### FEATURE: The March Border Violence reports have been released by NNK and, much the same as we have reported for the whole of the last year, violence continues at EU borders against people on the move\.
@@ -146,7 +146,7 @@ Lifting Hands International are looking for a person to manage their arts and re
 [A link to](http://www.praxis.org.rs/images/praxis_downloads/Praxis_Protection_Monitoring_Report_March_2019.pdf) — Praxis Protection Monitoring Report MARCH 2019 Refugee & Migration Situation in Belgrade, Serbia
 
 
-![Taken from Inside the Praxis Report](assets/9a81da10e44d/1*RR9PT7Aas37g6lbGktOdow.png)
+![Taken from Inside the Praxis Report](../assets/9a81da10e44d/1*RR9PT7Aas37g6lbGktOdow.png)
 
 Taken from Inside the Praxis Report
 ### ITALY

@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 19–20/09/2020: Is This Europe?
+title: "AYS Weekend Digest 19–20/09/2020: Is This Europe?"
 author: Are You Syrious?
 date: 2020-09-21T12:58:40.226+0100
 last_modified_at: 2020-09-22T08:39:54.381+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digestion,samos,azzurra,lesvos]
 description: Fire breaks out in Samos / The EU furthers its collaboration with Libya / Call for help from Azzurra quarantine ship… and more
 image:
-  path: assets/c08b886529ba/1*3-vAIbSls1P9SUBZ8cSGMg.png
+  path: ../assets/c08b886529ba/1*3-vAIbSls1P9SUBZ8cSGMg.png
 ---
 
 ### AYS Weekend Digest 19–20/9/20: Is This Europe?
@@ -15,7 +15,7 @@ image:
 Fire breaks out in Samos / The EU furthers its collaboration with Libya / Call for help from Azzurra quarantine ship / Refugees are forced into the new “Moria”
 
 
-![Photo credit: [Nicola Colin for FP](https://foreignpolicy.com/2020/09/20/europes-failed-migration-policy-caused-greeces-latest-refugee-crisis/)](assets/c08b886529ba/1*3-vAIbSls1P9SUBZ8cSGMg.png)
+![Photo credit: [Nicola Colin for FP](https://foreignpolicy.com/2020/09/20/europes-failed-migration-policy-caused-greeces-latest-refugee-crisis/)](../assets/c08b886529ba/1*3-vAIbSls1P9SUBZ8cSGMg.png)
 
 Photo credit: [Nicola Colin for FP](https://foreignpolicy.com/2020/09/20/europes-failed-migration-policy-caused-greeces-latest-refugee-crisis/)
 #### Featured: Lesvos, is this Europe?
@@ -313,11 +313,11 @@ BiH
 Speaking of the situation in Bosnia, every day more families are arriving in Velika Kladuša\.
 
 
-![](assets/c08b886529ba/1*tpm1t9wJJ8KV0_z8Q_mF3A.jpeg)
+![](../assets/c08b886529ba/1*tpm1t9wJJ8KV0_z8Q_mF3A.jpeg)
 
 
 
-![\(Photo by [Барбарче Бекарес Кастањоска](https://www.facebook.com/groups/144469886266984/user/1119820502/?__tn__=-UC*F) \)](assets/c08b886529ba/1*8xXKoKZ_oKFkjHOX-IoeKw.jpeg)
+![\(Photo by [Барбарче Бекарес Кастањоска](https://www.facebook.com/groups/144469886266984/user/1119820502/?__tn__=-UC*F) \)](../assets/c08b886529ba/1*8xXKoKZ_oKFkjHOX-IoeKw.jpeg)
 
 \(Photo by [Барбарче Бекарес Кастањоска](https://www.facebook.com/groups/144469886266984/user/1119820502/?__tn__=-UC*F) \)
 

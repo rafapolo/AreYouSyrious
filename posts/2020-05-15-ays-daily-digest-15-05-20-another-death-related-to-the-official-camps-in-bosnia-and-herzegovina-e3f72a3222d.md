@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 15/05/20: Another death related to the official camps in Bosnia and Herzegovina
+title: "AYS Daily Digest 15/05/20: Another death related to the official camps in Bosnia and Herzegovina"
 author: Are You Syrious?
 date: 2020-05-15T15:27:47.858+0100
 last_modified_at: 2020-05-15T17:43:25.982+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,human-rights,refugees,bosnia,europe]
 description: A boy died entering Miral camp in Velika Kladuša // Updates from Moria // Reports of pushbacks in Aegean Sea // Disappointing but…
 image:
-  path: assets/e3f72a3222d/1*u7HiSTmHxSqxUN7f34wGWg.jpeg
+  path: ../assets/e3f72a3222d/1*u7HiSTmHxSqxUN7f34wGWg.jpeg
 ---
 
 ### AYS Daily Digest 14/05/20: Another death related to the official camps in Bosnia and Herzegovina
 #### A boy died entering Miral camp in Velika Kladuša // Updates from Moria // Reports of pushbacks in Aegean Sea // Disappointing but foreseeable reaction by Croatia to allegations of violent pushbacks // Sanatoria for illegal field workers in Italy // conditions in CETIs in Melilla and Ceuta // & more news
 
 
-![This is how people live in Grande\-Synthe, France\. If you would like to volunteer, please see below\! \(Photo: Utopia 56\)](assets/e3f72a3222d/1*u7HiSTmHxSqxUN7f34wGWg.jpeg)
+![This is how people live in Grande\-Synthe, France\. If you would like to volunteer, please see below\! \(Photo: Utopia 56\)](../assets/e3f72a3222d/1*u7HiSTmHxSqxUN7f34wGWg.jpeg)
 
 This is how people live in Grande\-Synthe, France\. If you would like to volunteer, please see below\! \(Photo: Utopia 56\)
 #### FEATURED
@@ -81,7 +81,7 @@ On May 10th, Greek Coast Guards attacked a boat of refugees in Turkish waters\. 
 All eyes are on the Serbian police, which must respect the new decision to let people confined within the camps move freely — although residents report that this is not the state of things at the moment\. Asylum Protection Centre also reacted:
 
 
-![](assets/e3f72a3222d/1*7nJvxJg9OJs8r4cmQq9org.png)
+![](../assets/e3f72a3222d/1*7nJvxJg9OJs8r4cmQq9org.png)
 
 
 Serbia will take in 50 unaccompanied minors from the Greek islands\.

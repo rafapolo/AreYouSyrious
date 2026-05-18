@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,italy,germany]
 description: 159 people disembarked in Taranto//Police operation raiding hotspot in Samos//28.000 people on the move detected in BiH throughout…
 image:
-  path: assets/d28b248f580e/1*VwPY4BWoGn6y7pcpN2MDcQ.jpeg
+  path: ../assets/d28b248f580e/1*VwPY4BWoGn6y7pcpN2MDcQ.jpeg
 ---
 
 ### AYS Daily Digest 23/12/2019 People holding humanitarian protection to be left without accommodation by 31st December in Italy
 #### 159 people disembarked in Taranto// Police operation raiding hotspot in Samos// 28000 people on the move detected in BiH throughout 2019// Videos of horrible conditions in Velika Kladuša// Exploitation in Italian fields// 11 people found in refrigerator truck in Germany…
 
 
-![Photo credit ANSA, found on [Info Migrants](https://www.infomigrants.net/en/post/9686/migrant-reception-in-italy-the-numbers)](assets/d28b248f580e/1*VwPY4BWoGn6y7pcpN2MDcQ.jpeg)
+![Photo credit ANSA, found on [Info Migrants](https://www.infomigrants.net/en/post/9686/migrant-reception-in-italy-the-numbers)](../assets/d28b248f580e/1*VwPY4BWoGn6y7pcpN2MDcQ.jpeg)
 
 Photo credit ANSA, found on [Info Migrants](https://www.infomigrants.net/en/post/9686/migrant-reception-in-italy-the-numbers)
 #### FEATURED: People holding humanitarian protection to be left without accommodation by 31st December in Italy

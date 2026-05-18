@@ -1,13 +1,13 @@
 ---
-title: AYS Daily Digest 2/6/21: More and more unaccompanied boys on the move
+title: "AYS Daily Digest 2/6/21: More and more unaccompanied boys on the move"
 author: Are You Syrious?
 date: 2021-06-03T20:20:22.021+0100
 last_modified_at: 2021-06-03T20:20:22.021+0100
 categories: Are You Syrious?
 tags: [digest,human-rights,refugees,migration,europe]
-description: Germany: BAMF violated the law by unnecessarily storing personal information and checking people’s private phones, Regional Court says /…
+description: "Germany: BAMF violated the law by unnecessarily storing personal information and checking people’s private phones, Regional Court says /…"
 image:
-  path: assets/d00180246277/0*MZp_aIpg71CIKuc4
+  path: ../assets/d00180246277/0*MZp_aIpg71CIKuc4
 ---
 
 ### AYS Daily Digest 2/6/21: More and more unaccompanied boys on the move
@@ -15,7 +15,7 @@ image:
 Germany: BAMF violated the law by unnecessarily storing personal information and checking people’s private phones, Regional Court says / Denmark pushing for foreign application centres in countries thousands of km away / Volunteer calls, workshops, recommended reads and more
 
 
-![](assets/d00180246277/0*MZp_aIpg71CIKuc4)
+![](../assets/d00180246277/0*MZp_aIpg71CIKuc4)
 
 
 Paris — homeless people on the move temporarily housed \(Photos: Solidarité migrants Wilson\)
@@ -84,11 +84,11 @@ Trieste’s Linea d’Ombra arrived to Una\-Sana canton with aid and support to 
 Protest announcement in Wien:
 
 
-![](assets/d00180246277/0*eyzEk-JrXhVHGbdu)
+![](../assets/d00180246277/0*eyzEk-JrXhVHGbdu)
 
 
 
-![](assets/d00180246277/0*lfAp0tMrJ6MC16oN)
+![](../assets/d00180246277/0*lfAp0tMrJ6MC16oN)
 
 ### FRANCE
 ### Paris
@@ -96,11 +96,11 @@ Protest announcement in Wien:
 523people on the move staying in Paris who were homeless have now been given shelter, activists [reported](http://Solidarité migrants Wilson) \.
 
 
-![](assets/d00180246277/0*efcU21OltgtkUGio)
+![](../assets/d00180246277/0*efcU21OltgtkUGio)
 
 
 
-![](assets/d00180246277/0*uHbfrzHxZQXa-645)
+![](../assets/d00180246277/0*uHbfrzHxZQXa-645)
 
 
 [L’Auberge des Migrants](https://www.facebook.com/AubergeMigrants/?__cft__[0]=AZUrYRnMabcNwgmMmtT5NT_iukdV_knHnJHALkJNViqOhvfqln_Xb23c-Kfo8gX-Zz5YvYkjUsG6xlKwVV2ts_RALBB8nidle27Biu8aMYIWrzroIf3mk3bWkDNlqw8M5_zQTuzCgJs1JGvhJ03tljbf&__tn__=-UC%2CP-R) team is setting up workshops to help people learn how to make handy stuff like cooking stoves and similar useful things for themselves while in the field:
@@ -110,11 +110,11 @@ Protest announcement in Wien:
 From the 7th to the 11th of June, SOS Refugiados Barcelona will collect food and basic necessities for refugees in Terrassa\. It is the Catalan branch of SOS Refugiados, an organization born with the desire to help refugees fleeing countries in conflict\. You can contribute your grain of sand to the Andersen School and to the road to Martorell, 251\.
 
 
-![](assets/d00180246277/0*DmpG2jtVAP0BEbIK)
+![](../assets/d00180246277/0*DmpG2jtVAP0BEbIK)
 
 
 
-![](assets/d00180246277/0*z8JLA2u4cj9aKZKF.jpg)
+![](../assets/d00180246277/0*z8JLA2u4cj9aKZKF.jpg)
 
 ### GERMANY
 

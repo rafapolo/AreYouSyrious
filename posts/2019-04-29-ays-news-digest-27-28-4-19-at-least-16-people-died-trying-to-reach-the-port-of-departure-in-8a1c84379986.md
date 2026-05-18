@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 27–28/4/19: At least 16 people died trying to reach the port of departure in…
+title: "AYS News Digest 27–28/4/19: At least 16 people died trying to reach the port of departure in…"
 author: Are You Syrious?
 date: 2019-04-29T14:12:15.107+0100
 last_modified_at: 2019-04-29T14:12:15.107+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,bosnia,migrants,europe]
 description: A truck accident causes deaths and serious injuries in Morocco // Volunteers needed in Greece // Pressure builds up on Bosnian local…
 image:
-  path: assets/8a1c84379986/1*oyeDK2I9l9BPedY9OU6Qew.jpeg
+  path: ../assets/8a1c84379986/1*oyeDK2I9l9BPedY9OU6Qew.jpeg
 ---
 
 ### AYS News Digest 27–28/4/19: At least 16 people died trying to reach the port of departure in Morocco
 #### A truck accident causes deaths and serious injuries in Morocco // Volunteers needed in Greece // Pressure builds up on Bosnian local communities, clear strategies and human approach not in sight // Dunkirk awaits for new surge of arrivals, with no drinking water and fears of evictions // Join the protest in the Mediterranean // & more news and updates
 
 
-![By Panos Zacharis, via ArtAgainst](assets/8a1c84379986/1*oyeDK2I9l9BPedY9OU6Qew.jpeg)
+![By Panos Zacharis, via ArtAgainst](../assets/8a1c84379986/1*oyeDK2I9l9BPedY9OU6Qew.jpeg)
 
 By Panos Zacharis, via ArtAgainst
 ### FEATURED STORIES
@@ -33,7 +33,7 @@ A tragic death happened on the road as a truck with about 50 people of Sub\-Saha
 
 
 
-![Photo: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?tn-str=k%2AF)](assets/8a1c84379986/1*eF54JtL5zy5I6sPEJSJejA.jpeg)
+![Photo: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?tn-str=k%2AF)](../assets/8a1c84379986/1*eF54JtL5zy5I6sPEJSJejA.jpeg)
 
 Photo: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?tn-str=k%2AF)
 
@@ -50,14 +50,14 @@ According to a study by the International Organization for Migration, people on 
 **Bosnia and Herzegovina** — In spite of constant calls for some sort of strategy or at least support in provisional solutions to the late surge of people on the move passing through Tuzla, there seem to be no plans or announcements that some official support might come any time soon\. It seems that neither the regional government, nor the local politicians, and above all \(most likely due to their own strategies\) the international organisations, have done anything concrete, solid and sustainable to support the self organized locals in providing support to those in need\. With the weather getting warmer, there are more and more people arriving and, especially during the weekends when the offices don’t work, people spend the nights outside, sometimes for several nights\.
 
 
-![symbolic support of the local orthodox church on the occasion of their Easter celebrations](assets/8a1c84379986/1*PmkeLF6KR4o6VjfmyV_xzQ.jpeg)
+![symbolic support of the local orthodox church on the occasion of their Easter celebrations](../assets/8a1c84379986/1*PmkeLF6KR4o6VjfmyV_xzQ.jpeg)
 
 symbolic support of the local orthodox church on the occasion of their Easter celebrations
 
 Locals are organised in terms of providing food, clothes, blankets and such but the absence of decent toilets \(and showers\) has become a growing problem that is difficult to address without the support of the officials\.
 
 
-![Shoes and blankets are among the most needed items there — Photo by: S\.C\.](assets/8a1c84379986/1*qjF79CuaHN45Mwg3dSMUgA.jpeg)
+![Shoes and blankets are among the most needed items there — Photo by: S\.C\.](../assets/8a1c84379986/1*qjF79CuaHN45Mwg3dSMUgA.jpeg)
 
 Shoes and blankets are among the most needed items there — Photo by: S\.C\.
 
@@ -71,7 +71,7 @@ The local people coordinating everything have now arranged to rent a floor of on
 It is a matter of urgency to **at least** prolong the working hours of the office for foreigners and to create decent conditions for the people, firstly in regards to hygiene conditions and the reception site\.
 
 
-![](assets/8a1c84379986/1*AGPVZwFZhyN7UI1IV3LD3w.jpeg)
+![](../assets/8a1c84379986/1*AGPVZwFZhyN7UI1IV3LD3w.jpeg)
 
 #### LIBYA
 ### Forced to fight on front lines

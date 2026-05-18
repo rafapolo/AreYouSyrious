@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Dreams interrupted at Lesvos
+title: "AYS SPECIAL: Dreams interrupted at Lesvos"
 author: Are You Syrious?
 date: 2017-04-26T13:55:15.884+0100
 last_modified_at: 2018-03-01T13:48:13.393+0000
@@ -7,14 +7,14 @@ categories: AthensLive
 tags: [refugees,syria,greece,migration,special]
 description: It has been six days since 12 young boys from Syria, who are stuck for months in Lesvos, started hunger strike. This is their story.
 image:
-  path: assets/ef25d6ae1674/1*_p9-UcdzZIUBhnPWGqmJAg.jpeg
+  path: ../assets/ef25d6ae1674/1*_p9-UcdzZIUBhnPWGqmJAg.jpeg
 ---
 
 ### AYS SPECIAL: Dreams interrupted at Lesvos
 #### It has been six days since 12 young boys from Syria, who are stuck for months in Lesvos, started hunger strike\. This is their story\.
 
 
-![](assets/ef25d6ae1674/1*_p9-UcdzZIUBhnPWGqmJAg.jpeg)
+![](../assets/ef25d6ae1674/1*_p9-UcdzZIUBhnPWGqmJAg.jpeg)
 
 #### Story No 1\.
 ### Murad, 23 years old \- 9 months on Lesvos

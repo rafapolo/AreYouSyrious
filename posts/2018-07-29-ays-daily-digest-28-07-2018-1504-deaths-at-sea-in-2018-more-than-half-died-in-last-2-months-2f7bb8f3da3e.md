@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 28/07/2018: 1504 deaths at Sea in 2018. More than Half Died In Last 2 months.
+title: "AYS Daily Digest 28/07/2018: 1504 deaths at Sea in 2018. More than Half Died In Last 2 months."
 author: Are You Syrious?
 date: 2018-07-29T10:16:58.046+0100
 last_modified_at: 2018-07-29T11:06:09.112+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,human-rights,france]
 description: 283 Adults and Children Rescued Today by Salvamento Maritimo//Women Bitten By Poisonous Snake in Vial//Female Volunteers Needed in…
 image:
-  path: assets/2f7bb8f3da3e/1*cYCFNGlgaCR0WWELUv1ndA.jpeg
+  path: ../assets/2f7bb8f3da3e/1*cYCFNGlgaCR0WWELUv1ndA.jpeg
 ---
 
 ### AYS Daily Digest 28/07/2018: 1504 deaths at Sea in 2018\. More than Half Died In Last 2 months\.
@@ -15,7 +15,7 @@ image:
 283 Adults and Children Rescued Today by Salvamento Maritimo//Women Bitten By Poisonous Snake in Vial//Female Volunteers Needed in Moria//Information for people flying to Germany through Dublin Family Reunification//A Devastating recount of Police Brutality Against Refugees in Athens//Warehouse in Calais Low on Supplies// Sign the petition to stop deportations to Afghanistan from Sweden
 
 
-![Source: [Paul Scholten](https://www.facebook.com/paul.scho.5?hc_location=group_dialog)](assets/2f7bb8f3da3e/1*cYCFNGlgaCR0WWELUv1ndA.jpeg)
+![Source: [Paul Scholten](https://www.facebook.com/paul.scho.5?hc_location=group_dialog)](../assets/2f7bb8f3da3e/1*cYCFNGlgaCR0WWELUv1ndA.jpeg)
 
 Source: [Paul Scholten](https://www.facebook.com/paul.scho.5?hc_location=group_dialog)
 ### FEATURE:
@@ -39,7 +39,7 @@ What is most alarming is that until the criminalisation of Sea Rescue stops, the
 Today we stand in solidarity with all those who are demonstrating this incredibly inhumane and deadly EU policy\.
 
 
-![Source: [Seebrücke — Schafft sichere Häfen](https://www.facebook.com/SeebrueckeSchafftsichereHaefen/?hc_ref=ARThO-qsU1m4gBi2j8uCuRM6LI_TGdy6jOon5yGesnZRJ_u87hhAFhjR0MomM_2VuLc&fref=nf)](assets/2f7bb8f3da3e/1*T_tM-RoUrCJo5gNa5D1Gaw.jpeg)
+![Source: [Seebrücke — Schafft sichere Häfen](https://www.facebook.com/SeebrueckeSchafftsichereHaefen/?hc_ref=ARThO-qsU1m4gBi2j8uCuRM6LI_TGdy6jOon5yGesnZRJ_u87hhAFhjR0MomM_2VuLc&fref=nf)](../assets/2f7bb8f3da3e/1*T_tM-RoUrCJo5gNa5D1Gaw.jpeg)
 
 Source: [Seebrücke — Schafft sichere Häfen](https://www.facebook.com/SeebrueckeSchafftsichereHaefen/?hc_ref=ARThO-qsU1m4gBi2j8uCuRM6LI_TGdy6jOon5yGesnZRJ_u87hhAFhjR0MomM_2VuLc&fref=nf)
 
@@ -70,7 +70,7 @@ Source: [Seebrücke — Schafft sichere Häfen](https://www.facebook.com/Seebrue
 #### SYRIA
 
 
-![](assets/2f7bb8f3da3e/1*W0BcFPmYJDbf06qe-bTmTw.png)
+![](../assets/2f7bb8f3da3e/1*W0BcFPmYJDbf06qe-bTmTw.png)
 
 ### SEA
 #### 283 Adults and Children Rescued Today by Salvamento Maritimo
@@ -182,7 +182,7 @@ Overall there were 16 women, 28 children, and 17 men. There was no need of medic
 A women was bitten by a poisonous snake that made it inside her tent in Vial\. She required immediate medical treatment\. The snake is called an Ottoman Viper; its venom causes gangrene and can kill\.
 
 
-![](assets/2f7bb8f3da3e/1*qc824ZZ5TjWqAv-ezSNQrQ.jpeg)
+![](../assets/2f7bb8f3da3e/1*qc824ZZ5TjWqAv-ezSNQrQ.jpeg)
 
 #### **Female Volunteers Needed in Moria**
 
@@ -252,11 +252,11 @@ For more information please email greecevolunteer@liftinghandsinternational\.org
 
 
 
-![](assets/2f7bb8f3da3e/1*HAC1Sm0N3tRCMaVZX1TA3Q.jpeg)
+![](../assets/2f7bb8f3da3e/1*HAC1Sm0N3tRCMaVZX1TA3Q.jpeg)
 
 
 
-![Source: Shezrad](assets/2f7bb8f3da3e/1*SxYBX6gQI-tqj2avJnOpBA.jpeg)
+![Source: Shezrad](../assets/2f7bb8f3da3e/1*SxYBX6gQI-tqj2avJnOpBA.jpeg)
 
 Source: Shezrad
 ### FRANCE:
@@ -272,11 +272,11 @@ Source: Shezrad
 To find out more about the work they do please follow this link\.
 
 
-![](assets/2f7bb8f3da3e/1*W_HyKIDgHG20gETzQqKKwA.jpeg)
+![](../assets/2f7bb8f3da3e/1*W_HyKIDgHG20gETzQqKKwA.jpeg)
 
 
 
-![Source: Care 4 Calais](assets/2f7bb8f3da3e/1*wcWtWMKMj2RyA7Cp5bL2QQ.jpeg)
+![Source: Care 4 Calais](../assets/2f7bb8f3da3e/1*wcWtWMKMj2RyA7Cp5bL2QQ.jpeg)
 
 Source: Care 4 Calais
 ### SWEDEN

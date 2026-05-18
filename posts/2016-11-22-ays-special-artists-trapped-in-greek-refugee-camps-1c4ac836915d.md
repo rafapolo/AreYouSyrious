@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Artists trapped in Greek refugee camps
+title: "AYS SPECIAL: Artists trapped in Greek refugee camps"
 author: Are You Syrious?
 date: 2016-11-22T11:12:50.096+0000
 last_modified_at: 2018-03-01T13:44:46.064+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,syria,art,art-of-refugees,special]
 description: At the moment, 61,962 refugees are trapped in Greece. Often, when we speak about numbers, we forget one important thing — that behind each…
 image:
-  path: assets/1c4ac836915d/1*3GGyi7hoJ8av89cHuH00HQ.jpeg
+  path: ../assets/1c4ac836915d/1*3GGyi7hoJ8av89cHuH00HQ.jpeg
 ---
 
 ### AYS SPECIAL: Artists trapped in Greek refugee camps
 #### _At the moment, 61,962 refugees are trapped in Greece\. Often, when we speak about numbers, we forget one important thing — that behind each number there is an individual with a unique story, dreams, hopes, plans for the future, and passions\. Sixty\-one thousand nine hundred sixty\-two untold stories\. This article aims to present artists, their stories and works\. Art as form of self\-expression speaks more than any other means of communication and often it transcends cultural, linguistic and other barriers\. Also, for people in this situation art is like a megaphone, through which they can shout their worries and dreams, and hope to be heard\._
 
 
-![Youssef is a Syrian refugee living in the Nea Kavala camp in Greece: this is how he sees his new home](assets/1c4ac836915d/1*3GGyi7hoJ8av89cHuH00HQ.jpeg)
+![Youssef is a Syrian refugee living in the Nea Kavala camp in Greece: this is how he sees his new home](../assets/1c4ac836915d/1*3GGyi7hoJ8av89cHuH00HQ.jpeg)
 
 Youssef is a Syrian refugee living in the Nea Kavala camp in Greece: this is how he sees his new home
 
@@ -25,7 +25,7 @@ Youssef is a Syrian refugee living in the Nea Kavala camp in Greece: this is how
 “My name is Ahmad Al\-Mouhmad and I’m from Syria\. I worked for Fendi in Kuwait for 13 months as a sales representative\. Unfortunately though, everything changed for me a year ago when I went to the Syrian embassy in Kuwait to renew my passport\. I was refused a passport renewal because the law in Syria forces men my age to serve in the Syrian army to support the regime and the war\.
 
 
-![Ahmad Al\-Mouhmad](assets/1c4ac836915d/1*KtYED_q_UfBsLHAUEoTm2Q.jpeg)
+![Ahmad Al\-Mouhmad](../assets/1c4ac836915d/1*KtYED_q_UfBsLHAUEoTm2Q.jpeg)
 
 Ahmad Al\-Mouhmad
 
@@ -50,7 +50,7 @@ If Turkey is a safe place, as they say, then why have they been refused EU membe
 This is a very hard time for me, I feel trapped with no future and no options\. All I am asking for is a safe place to be and the chance to go back to a normal life\. All I need is to leave the nightmare I’m living in, to find a job so I can use my skills and passion and have a purpose, and feel like a human being again\.
 
 
-![Place where Ahmad lives today, in Europe\.](assets/1c4ac836915d/1*0aZcEZQ4RYGQ72BgivivZg.jpeg)
+![Place where Ahmad lives today, in Europe\.](../assets/1c4ac836915d/1*0aZcEZQ4RYGQ72BgivivZg.jpeg)
 
 Place where Ahmad lives today, in Europe\.
 
@@ -405,7 +405,7 @@ Detained in a military security branch in Suweida for 11 days in 2014\.
 More of his poems, translated into several languages, can be found on [Fawaz’s facebook page](https://www.facebook.com/fawazalfawaz1984/?fref=ts) \.
 
 
-![Nea Kavala, Art Withouth Borders\.](assets/1c4ac836915d/1*lUNQOl-6yjWHH-WSgAcQnQ.jpeg)
+![Nea Kavala, Art Withouth Borders\.](../assets/1c4ac836915d/1*lUNQOl-6yjWHH-WSgAcQnQ.jpeg)
 
 Nea Kavala, Art Withouth Borders\.
 ### Kayra Martinez — Nea Kavala — Art without borders
@@ -421,7 +421,7 @@ We’ve just received 4,000 postcards of four motifs from our art and when I ask
 This is my motivation\!”
 
 
-![Kayra Matinez](assets/1c4ac836915d/1*Yu2UtK18DMJgashfXlVmbA.jpeg)
+![Kayra Matinez](../assets/1c4ac836915d/1*Yu2UtK18DMJgashfXlVmbA.jpeg)
 
 Kayra Matinez
 
@@ -437,7 +437,7 @@ Kayra’s workshops have many talented artists, but this time we are presenting 
 **Yuossef, from Syria, now living at Nea Kavala, Greece**
 
 
-![](assets/1c4ac836915d/1*StuZMLi2lK1ojMddK28qcA.jpeg)
+![](../assets/1c4ac836915d/1*StuZMLi2lK1ojMddK28qcA.jpeg)
 
 
 Youssef is a Syrian refugee living in the Nea Kavala camp in Greece\. When war first broke out, his family fled to Turkey and eventually Greece where he now awaits reunification with his father in Germany\. This is his story:
@@ -447,19 +447,19 @@ Youssef is a Syrian refugee living in the Nea Kavala camp in Greece\. When war f
 [_If you can support Yuossef’s family, currently living in a tent at Nea Kavala, please donate\._](https://www.humanwire.org/cause/fatima-and-family/)
 
 
-![](assets/1c4ac836915d/1*AUfPOnJ31KJ-bymtLGb1Dg.jpeg)
+![](../assets/1c4ac836915d/1*AUfPOnJ31KJ-bymtLGb1Dg.jpeg)
 
 
 
-![](assets/1c4ac836915d/1*nsTgYgrwkD75lHxkWAmTEQ.jpeg)
+![](../assets/1c4ac836915d/1*nsTgYgrwkD75lHxkWAmTEQ.jpeg)
 
 
 
-![](assets/1c4ac836915d/1*AH2m_HiatlFaEesAcEh1ew.jpeg)
+![](../assets/1c4ac836915d/1*AH2m_HiatlFaEesAcEh1ew.jpeg)
 
 
 
-![](assets/1c4ac836915d/1*-SkELXG25dyfX5fW399bdw.jpeg)
+![](../assets/1c4ac836915d/1*-SkELXG25dyfX5fW399bdw.jpeg)
 
 
 **Ahmad Ismael, from Palestine, now living at Nea Kavala, Greece**
@@ -473,15 +473,15 @@ In our community and the countryside in particular, there was no opportunity to 
 At this point in my life, painting represents a window to release the stress of our daily life in a refugee camp in Greece\. Almost everything was taken from the children and the people here, like their hobbies and talents\. Even the children, who love school, lost their faith in the future\. This message goes out to the people who can save the children in the world who are victims of war\.”
 
 
-![](assets/1c4ac836915d/1*v1ugtw-OSL5DoG6Y33STnw.jpeg)
+![](../assets/1c4ac836915d/1*v1ugtw-OSL5DoG6Y33STnw.jpeg)
 
 
 
-![](assets/1c4ac836915d/1*Fs39rnTHniyU8aYr-LtsdA.jpeg)
+![](../assets/1c4ac836915d/1*Fs39rnTHniyU8aYr-LtsdA.jpeg)
 
 
 
-![](assets/1c4ac836915d/1*Kty_a1IVUh6Zd4ZGMYYJkg.jpeg)
+![](../assets/1c4ac836915d/1*Kty_a1IVUh6Zd4ZGMYYJkg.jpeg)
 
 
 Finally, we remind you about Abdulazez Dukhan, an 18 year\-old Syrian photographer, living in Thessaloniki and creating wonderful art\. 

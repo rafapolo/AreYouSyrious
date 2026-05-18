@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,detention,hunger-strike,mediterranean]
 description: UN report on Libya /// Updates from the Western Med /// Winter shelters opened in Thessaloniki /// Lagkadikion camp without running water…
 image:
-  path: assets/b193ca1a301e/1*iLcbkm-M73VQsvEk6AjNpw.png
+  path: ../assets/b193ca1a301e/1*iLcbkm-M73VQsvEk6AjNpw.png
 ---
 
 ### AYS Daily Digest 11/1/2019 Over 100 people on Hunger Strike in French Detention Centres
@@ -15,7 +15,7 @@ image:
 UN report on Libya /// Updates from the Western Med /// Winter shelters opened in Thessaloniki /// Lagkadikion camp without running water for days /// Lack of doctors is slowing down transfers to mainland /// Italian ports are not closed /// In France it’s true: people are numbers /// German government admits illegal deportations
 
 
-![**At least 30,510 people died or disappeared migrating in the world in the last 5 years\. More than half, 17,644 died or disappeared trying to cross the Mediterranean and reach the shores of Europe\.** \(Data: [IOM/Missing Migrants project](https://www.iom.int/news/30000-irregular-migration-deaths-disappearances-between-2014-2018-iom-report?fbclid=IwAR2JiDfC1DIkiVmAQzX6Pe7iIrN3bQ5xjdsU2mnDYqg0mUtLMWSsuV2aU0c) \)](assets/b193ca1a301e/1*iLcbkm-M73VQsvEk6AjNpw.png)
+![**At least 30,510 people died or disappeared migrating in the world in the last 5 years\. More than half, 17,644 died or disappeared trying to cross the Mediterranean and reach the shores of Europe\.** \(Data: [IOM/Missing Migrants project](https://www.iom.int/news/30000-irregular-migration-deaths-disappearances-between-2014-2018-iom-report?fbclid=IwAR2JiDfC1DIkiVmAQzX6Pe7iIrN3bQ5xjdsU2mnDYqg0mUtLMWSsuV2aU0c) \)](../assets/b193ca1a301e/1*iLcbkm-M73VQsvEk6AjNpw.png)
 
 **At least 30,510 people died or disappeared migrating in the world in the last 5 years\. More than half, 17,644 died or disappeared trying to cross the Mediterranean and reach the shores of Europe\.** \(Data: [IOM/Missing Migrants project](https://www.iom.int/news/30000-irregular-migration-deaths-disappearances-between-2014-2018-iom-report?fbclid=IwAR2JiDfC1DIkiVmAQzX6Pe7iIrN3bQ5xjdsU2mnDYqg0mUtLMWSsuV2aU0c) \)
 #### FEATURE — Over 100 people on Hunger Strike in French Detention Centres
@@ -72,7 +72,7 @@ LEBANON
 Finally there has been a break in the weather\.
 
 
-![Climbing Wall in Taanayel\-Bekaa, Lebanon \(Photo by [ClimbAid](https://www.facebook.com/ClimbAID/photos/a.472781779739812/796102250741095/?type=3&theater) \)](assets/b193ca1a301e/1*rulybSgpnkJv-3Qb98vE4Q.jpeg)
+![Climbing Wall in Taanayel\-Bekaa, Lebanon \(Photo by [ClimbAid](https://www.facebook.com/ClimbAID/photos/a.472781779739812/796102250741095/?type=3&theater) \)](../assets/b193ca1a301e/1*rulybSgpnkJv-3Qb98vE4Q.jpeg)
 
 Climbing Wall in Taanayel\-Bekaa, Lebanon \(Photo by [ClimbAid](https://www.facebook.com/ClimbAID/photos/a.472781779739812/796102250741095/?type=3&theater) \)
 
@@ -283,7 +283,7 @@ SPAIN
 UNHCR published [new data \(PDF\)](https://data2.unhcr.org/en/documents/download/67552) on arrivals in Spain in 2018\.
 
 
-![Western Med route: Comparison between 2017 and 2018 \(Data: [UNHCR](https://data2.unhcr.org/en/documents/download/67552) \)](assets/b193ca1a301e/1*TYEm1bYnYcfzTa5fr1lXOA.png)
+![Western Med route: Comparison between 2017 and 2018 \(Data: [UNHCR](https://data2.unhcr.org/en/documents/download/67552) \)](../assets/b193ca1a301e/1*TYEm1bYnYcfzTa5fr1lXOA.png)
 
 Western Med route: Comparison between 2017 and 2018 \(Data: [UNHCR](https://data2.unhcr.org/en/documents/download/67552) \)
 #### BALKAN WEATHER FORECASTS for the Weekend
@@ -304,7 +304,7 @@ FRANCE
 #### Two more convictions for people working in solidarity
 
 
-![ALL COPS ARE BORDERS \(Photo by Chez Jesus — [Rifugio Autogestito](https://www.facebook.com/362786637540072/photos/pcb.525609301257804/525609261257808/?type=3&theater) \)](assets/b193ca1a301e/1*GFwutphGPba3CO2Y6zpBHg.jpeg)
+![ALL COPS ARE BORDERS \(Photo by Chez Jesus — [Rifugio Autogestito](https://www.facebook.com/362786637540072/photos/pcb.525609301257804/525609261257808/?type=3&theater) \)](../assets/b193ca1a301e/1*GFwutphGPba3CO2Y6zpBHg.jpeg)
 
 ALL COPS ARE BORDERS \(Photo by Chez Jesus — [Rifugio Autogestito](https://www.facebook.com/362786637540072/photos/pcb.525609301257804/525609261257808/?type=3&theater) \)
 

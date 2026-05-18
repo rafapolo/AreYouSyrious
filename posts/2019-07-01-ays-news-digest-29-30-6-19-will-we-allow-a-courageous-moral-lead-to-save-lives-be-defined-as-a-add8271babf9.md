@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 29–30/6/19: Will we allow a courageous moral lead to save lives be defined as a…
+title: "AYS News Digest 29–30/6/19: Will we allow a courageous moral lead to save lives be defined as a…"
 author: Are You Syrious?
 date: 2019-07-01T09:37:22.232+0100
 last_modified_at: 2019-07-01T11:06:30.262+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,human-rights,migration]
 description: The case of Carola RAfghan refugees living in Manshera had to vacate the camp / In Spain, SAR vessels are moved from the zone where they…
 image:
-  path: assets/add8271babf9/1*g6nMe0pqauRI0adUuZyU1A.jpeg
+  path: ../assets/add8271babf9/1*g6nMe0pqauRI0adUuZyU1A.jpeg
 ---
 
 ### AYS News Digest 29–30/6/19: Will we allow a courageous moral lead to save lives be defined as a crime?
 #### The case of Carola Rackete — the case of all of us // Afghan refugees living in Manshera had to vacate the camp / In Spain, SAR vessels are being moved from the zone where they are needed the most/ Spain’s age assessments for unaccompanied minors in violation of the Convention / France: urgent need for professionals from the healthcare sector in Dunkirk and Calais / **overturned decision of the Danish Immigration Service to withdraw temporary subsidiary protection from 6 Syrians /** Middlesbrough Council has backed the \#liftTheBan campaign in the UK
 
 
-![By Antonio Rodriguez Garcia](assets/add8271babf9/1*g6nMe0pqauRI0adUuZyU1A.jpeg)
+![By Antonio Rodriguez Garcia](../assets/add8271babf9/1*g6nMe0pqauRI0adUuZyU1A.jpeg)
 
 By Antonio Rodriguez Garcia
 #### FEATURED
@@ -47,7 +47,7 @@ Unlike the imposed ban on disembarking migrants saved from a rubber dinghy off t
 It is worth repeating that fundamental human rights and a basic sense of humanity are far superior to unjust laws and orders, such as the infamous Salvini Decree, that cause the further suffering of innocent people\.
 
 
-[![Wer Menschenleben rettet, ist kein Verbrecher! Lasst uns die Seenotretter retten!!](assets/add8271babf9/72de_hqdefault.jpg "Wer Menschenleben rettet, ist kein Verbrecher! Lasst uns die Seenotretter retten!!")](http://www.youtube.com/watch?v=vRuuW5reogc)
+[![Wer Menschenleben rettet, ist kein Verbrecher! Lasst uns die Seenotretter retten!!](../assets/add8271babf9/72de_hqdefault.jpg "Wer Menschenleben rettet, ist kein Verbrecher! Lasst uns die Seenotretter retten!!")](http://www.youtube.com/watch?v=vRuuW5reogc)
 
 
 
@@ -64,7 +64,7 @@ It is worth repeating that fundamental human rights and a basic sense of humanit
 Everything we do next shows how valid, strong and legitimate the fundamental human rights of **all of us** really are\. We must not stand aside, wait and watch\. All citizens of the EU member states have the right and duty to urge their representatives to act according to what the Union declares it stands for\.
 
 
-![](assets/add8271babf9/1*sZzCafxgweTpPflWfhI0eA.jpeg)
+![](../assets/add8271babf9/1*sZzCafxgweTpPflWfhI0eA.jpeg)
 
 
 We must all urge the European institutions, the Council of Europe and the European Court of Human Rights to take action and protect Carola, Pia, and all other individuals and organisations under the pressure of criminalisation of their acts of solidarity with humanity\.
@@ -76,7 +76,7 @@ We must all urge the European institutions, the Council of Europe and the Europe
 
 
 
-![](assets/add8271babf9/1*RHcPTaeVmxzXaAJBXgs3Vw.jpeg)
+![](../assets/add8271babf9/1*RHcPTaeVmxzXaAJBXgs3Vw.jpeg)
 
 #### PAKISTAN
 
@@ -100,7 +100,7 @@ As of June 27, the Aegean Boat Report team documented 17,374 people on the Greek
 Unfortunately, under the current circumstances reportedly all of the new arrivals on Chios are staying in small pop\-up tents because Vial camp is over capacity\.
 
 
-![Photo: [Gary Capshaw](https://www.facebook.com/gary.capshaw.9?__tn__=%2Cd%2AF%2AF-R&eid=ARDIVI3OwN8gvPvJbAxJ-MHUvS9_VW-hTOv9ZETT3GuxDCeQu3V9nZicKOPb-8aSFS8__l5YEGMpfbzb&tn-str=%2AF)](assets/add8271babf9/1*4-erdwLSgviAhPgdlzouRQ.jpeg)
+![Photo: [Gary Capshaw](https://www.facebook.com/gary.capshaw.9?__tn__=%2Cd%2AF%2AF-R&eid=ARDIVI3OwN8gvPvJbAxJ-MHUvS9_VW-hTOv9ZETT3GuxDCeQu3V9nZicKOPb-8aSFS8__l5YEGMpfbzb&tn-str=%2AF)](../assets/add8271babf9/1*4-erdwLSgviAhPgdlzouRQ.jpeg)
 
 Photo: [Gary Capshaw](https://www.facebook.com/gary.capshaw.9?__tn__=%2Cd%2AF%2AF-R&eid=ARDIVI3OwN8gvPvJbAxJ-MHUvS9_VW-hTOv9ZETT3GuxDCeQu3V9nZicKOPb-8aSFS8__l5YEGMpfbzb&tn-str=%2AF)
 
@@ -167,7 +167,7 @@ Total refugees this year: 21,869
 Total boats this year: 690
 
 
-![by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?__xts__%5B0%5D=68.ARDra8WZWjCasYtxO86Fj3HOy6VAgeWVoNa7oeGQhpZ3SVYyIf_qCdiSu2chivW0ALWuS3fOt6HFyHO9THkHP7y4p7-og6JxUR_84Sj8l8-v2dVa0F4Cb18R930vhuLvxXIDicbCzr3Mvb5strajuiSc-tfARPc-muwFZzwsGsgFQNWJKS-fz3CR1I7RSmkI_OTgSX2Tyfeg8mD1nYuVldugSiMgzEnLdQuQBhrqbKODvHcuw_5oLBiWFwD86XjcgKjV9a_uobDgbnEZ7G_qP13d1QY-RJ4raoL82YO4Qun1WvZHz2aOBizuxQDOQNJoWLBBlUhpbE3B28iH2aQIDQg&__xts__%5B1%5D=68.ARDugPKiArhNw2Tt7xHLMIDaXXnwuOI3oT28OT7zP0YeO8faMd-LBceymTLl7ZSd9m2u6XgZe4UbCZhJ-RBFrrw1BA2DC2dVWUBorBvFzmXARKjIx18ioLPCkOn8eC-lA4J4a-CuVwebywVdeRWoYMFh2pGBFlO-0mzG4QbvVZL4K3rcLTJzpYh8Ja3B0Ch-EfHk5WOaOFrB4L8g3VCCPxBCifbIciYJuf6PU7HHRZblJ2W8Zr78eji12JSOP351dGZLSwEoe6688tQdr36as2k6hOD6vn39WhvswDbE1uEnzP9VuryTLO1cBRLl-17K0v2nqd0t0xgER8zczN1yQjk&__tn__=kC-R&eid=ARCcpTcw2p5T407H9K88RuLoPvL--KaTTGylthPPT3xkM71H15mNSpaybdwMbEXKzd-s0xYR3cnG2z8m&hc_ref=ARSYNwTsOCgNq5ohnIQhAAQuZiqnAYd0WPfsOt-SSr9TzchbwWyowrh7f6COFmMZI7g&fref=nf)](assets/add8271babf9/1*1CzKFUwkijxUmWIzAgDnLg.jpeg)
+![by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?__xts__%5B0%5D=68.ARDra8WZWjCasYtxO86Fj3HOy6VAgeWVoNa7oeGQhpZ3SVYyIf_qCdiSu2chivW0ALWuS3fOt6HFyHO9THkHP7y4p7-og6JxUR_84Sj8l8-v2dVa0F4Cb18R930vhuLvxXIDicbCzr3Mvb5strajuiSc-tfARPc-muwFZzwsGsgFQNWJKS-fz3CR1I7RSmkI_OTgSX2Tyfeg8mD1nYuVldugSiMgzEnLdQuQBhrqbKODvHcuw_5oLBiWFwD86XjcgKjV9a_uobDgbnEZ7G_qP13d1QY-RJ4raoL82YO4Qun1WvZHz2aOBizuxQDOQNJoWLBBlUhpbE3B28iH2aQIDQg&__xts__%5B1%5D=68.ARDugPKiArhNw2Tt7xHLMIDaXXnwuOI3oT28OT7zP0YeO8faMd-LBceymTLl7ZSd9m2u6XgZe4UbCZhJ-RBFrrw1BA2DC2dVWUBorBvFzmXARKjIx18ioLPCkOn8eC-lA4J4a-CuVwebywVdeRWoYMFh2pGBFlO-0mzG4QbvVZL4K3rcLTJzpYh8Ja3B0Ch-EfHk5WOaOFrB4L8g3VCCPxBCifbIciYJuf6PU7HHRZblJ2W8Zr78eji12JSOP351dGZLSwEoe6688tQdr36as2k6hOD6vn39WhvswDbE1uEnzP9VuryTLO1cBRLl-17K0v2nqd0t0xgER8zczN1yQjk&__tn__=kC-R&eid=ARCcpTcw2p5T407H9K88RuLoPvL--KaTTGylthPPT3xkM71H15mNSpaybdwMbEXKzd-s0xYR3cnG2z8m&hc_ref=ARSYNwTsOCgNq5ohnIQhAAQuZiqnAYd0WPfsOt-SSr9TzchbwWyowrh7f6COFmMZI7g&fref=nf)](../assets/add8271babf9/1*1CzKFUwkijxUmWIzAgDnLg.jpeg)
 
 by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?__xts__%5B0%5D=68.ARDra8WZWjCasYtxO86Fj3HOy6VAgeWVoNa7oeGQhpZ3SVYyIf_qCdiSu2chivW0ALWuS3fOt6HFyHO9THkHP7y4p7-og6JxUR_84Sj8l8-v2dVa0F4Cb18R930vhuLvxXIDicbCzr3Mvb5strajuiSc-tfARPc-muwFZzwsGsgFQNWJKS-fz3CR1I7RSmkI_OTgSX2Tyfeg8mD1nYuVldugSiMgzEnLdQuQBhrqbKODvHcuw_5oLBiWFwD86XjcgKjV9a_uobDgbnEZ7G_qP13d1QY-RJ4raoL82YO4Qun1WvZHz2aOBizuxQDOQNJoWLBBlUhpbE3B28iH2aQIDQg&__xts__%5B1%5D=68.ARDugPKiArhNw2Tt7xHLMIDaXXnwuOI3oT28OT7zP0YeO8faMd-LBceymTLl7ZSd9m2u6XgZe4UbCZhJ-RBFrrw1BA2DC2dVWUBorBvFzmXARKjIx18ioLPCkOn8eC-lA4J4a-CuVwebywVdeRWoYMFh2pGBFlO-0mzG4QbvVZL4K3rcLTJzpYh8Ja3B0Ch-EfHk5WOaOFrB4L8g3VCCPxBCifbIciYJuf6PU7HHRZblJ2W8Zr78eji12JSOP351dGZLSwEoe6688tQdr36as2k6hOD6vn39WhvswDbE1uEnzP9VuryTLO1cBRLl-17K0v2nqd0t0xgER8zczN1yQjk&__tn__=kC-R&eid=ARCcpTcw2p5T407H9K88RuLoPvL--KaTTGylthPPT3xkM71H15mNSpaybdwMbEXKzd-s0xYR3cnG2z8m&hc_ref=ARSYNwTsOCgNq5ohnIQhAAQuZiqnAYd0WPfsOt-SSr9TzchbwWyowrh7f6COFmMZI7g&fref=nf)
 ### Weather warning
@@ -178,7 +178,7 @@ A heat wave with temperatures reaching up to 41 degrees Celsius is forecast to s
 Salvamento Marítimo says that arrivals are very likely to surge during the upcoming summer, but at the same time the government’s policy is shifting — there are no extra efforts or resources being allocated for this, instead vessels are being moved from the zone where they are needed the most\.
 
 
-![By Paolo Lombardi](assets/add8271babf9/1*xHaBduxoKWp6rOtvI7mZ8A.jpeg)
+![By Paolo Lombardi](../assets/add8271babf9/1*xHaBduxoKWp6rOtvI7mZ8A.jpeg)
 
 By Paolo Lombardi
 ### Spain’s age assessments for unaccompanied minors in violation of the Convention
@@ -195,7 +195,7 @@ In cases of uncertainty, the individual should be given the benefit of the doubt
 First Aid Support Team has an urgent need for nurses, doctors and other professional from the healthcare sector in July in Dunkirk and Calais\.
 
 
-![](assets/add8271babf9/1*lCycOEsl0rha2q6z2rFhdQ.jpeg)
+![](../assets/add8271babf9/1*lCycOEsl0rha2q6z2rFhdQ.jpeg)
 
 
 If you are interested in volunteering please check out [First Aid Support Team — FAST](https://www.facebook.com/FASTFirstAidSupportTeam/?__tn__=%2CdK%2AF-R&eid=ARCQs1cBIE3usV46MIl23umBL-rHj2B8yygpjZqDd3mlppz8x7xNc4AXQGkT_Ru4NPEy4eqSXXqv71Pd) or [www\.f\-a\-s\-t\.eu](http://www.f-a-s-t.eu/?fbclid=IwAR1Jn1tsK4qrXXWPGZMppGWkBUjd4z9DQdZLBlttJ7UE3CS1oCgLwl7Es38)

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 07/01/2021: Frontex involved in pushbacks from Albania?
+title: "AYS Daily Digest 07/01/2021: Frontex involved in pushbacks from Albania?"
 author: Are You Syrious?
 date: 2021-01-08T12:39:44.662+0000
 last_modified_at: 2021-01-08T12:39:44.662+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugee,digest,albania,greece,france]
 description: Increasing number of reports on illegal activities of EU’s border agency // MVI rebuilds clinic on Lesvos // Aid workers not allowed in…
 image:
-  path: assets/bbced8d36527/1*S5Rfh2Y9s81AH-IEgCNXYQ.jpeg
+  path: ../assets/bbced8d36527/1*S5Rfh2Y9s81AH-IEgCNXYQ.jpeg
 ---
 
 ### AYS Daily Digest 07/01/2021: Frontex involved in pushbacks from Albania?
 #### Increasing number of reports on illegal activities of EU’s border agency // MVI rebuilds clinic on Lesvos // Aid workers not allowed in container detention in France // Germany does not fulfill its promises for family reunions and relocations
 
 
-![While pushbacks from Croatia to Bosnia are well documented, there is an increasing number of reported pushbacks from Albania to Greece — with Frontex’ involvement\. Credits: [Twitter/Kid\_Pex](https://twitter.com/Kid_Pex/status/1344306910133170186/photo/1)](assets/bbced8d36527/1*S5Rfh2Y9s81AH-IEgCNXYQ.jpeg)
+![While pushbacks from Croatia to Bosnia are well documented, there is an increasing number of reported pushbacks from Albania to Greece — with Frontex’ involvement\. Credits: [Twitter/Kid\_Pex](https://twitter.com/Kid_Pex/status/1344306910133170186/photo/1)](../assets/bbced8d36527/1*S5Rfh2Y9s81AH-IEgCNXYQ.jpeg)
 
 While pushbacks from Croatia to Bosnia are well documented, there is an increasing number of reported pushbacks from Albania to Greece — with Frontex’ involvement\. Credits: [Twitter/Kid\_Pex](https://twitter.com/Kid_Pex/status/1344306910133170186/photo/1)
 ### Balkans: Pushbacks from Albania
@@ -57,7 +57,7 @@ Council of Europe \(CoE\) Commissioner for Human Rights Dunja Mijatovic criticiz
 A No Name Kitchen volunteer together with an anonymous photographer stuck at Lipa camp created a video showing impressions from the ground\.
 
 
-[![Testimony from Lipa (Bosnia Herzegovina) - 4th day of hunger strike - No Name Kitchen feat. @Eddie](assets/bbced8d36527/e1eb_hqdefault.jpg "Testimony from Lipa (Bosnia Herzegovina) - 4th day of hunger strike - No Name Kitchen feat. @Eddie")](https://www.youtube.com/watch?v=u1S_QltJsMs)
+[![Testimony from Lipa (Bosnia Herzegovina) - 4th day of hunger strike - No Name Kitchen feat. @Eddie](../assets/bbced8d36527/e1eb_hqdefault.jpg "Testimony from Lipa (Bosnia Herzegovina) - 4th day of hunger strike - No Name Kitchen feat. @Eddie")](https://www.youtube.com/watch?v=u1S_QltJsMs)
 
 ### France: Aid workers not allowed
 
@@ -145,7 +145,7 @@ The Refugee Studies Center at the Oxford University invites to a Zoom webinare a
 
 
 
-[![Lamma Bada Yatathana - for Global Link, Lancaster, 2 Jan 2021](assets/bbced8d36527/1710_hqdefault.jpg "Lamma Bada Yatathana - for Global Link, Lancaster, 2 Jan 2021")](https://www.youtube.com/watch?v=N_ZUm7gA4RU)
+[![Lamma Bada Yatathana - for Global Link, Lancaster, 2 Jan 2021](../assets/bbced8d36527/1710_hqdefault.jpg "Lamma Bada Yatathana - for Global Link, Lancaster, 2 Jan 2021")](https://www.youtube.com/watch?v=N_ZUm7gA4RU)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

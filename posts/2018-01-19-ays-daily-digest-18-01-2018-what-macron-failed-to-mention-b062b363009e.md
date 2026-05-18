@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 18/01/18: What Macron failed to mention
+title: "AYS Daily Digest 18/01/18: What Macron failed to mention"
 author: Are You Syrious?
 date: 2018-01-19T00:55:29.718+0000
 last_modified_at: 2018-01-19T11:27:20.782+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,refugeeswelcome,asylum-seekers,greece,uk-politics]
 description: UK to pay £44.5m more for extra security measures in Calais / HRW publishes World Report 2018 / Greek Council for Refugees workshop finds /…
 image:
-  path: assets/b062b363009e/1*YzrYOz-nUUuGhZHYWwatKg.jpeg
+  path: ../assets/b062b363009e/1*YzrYOz-nUUuGhZHYWwatKg.jpeg
 ---
 
 ### AYS Daily Digest 18/01/18: What Macron failed to mention
@@ -15,7 +15,7 @@ image:
 _UK to pay £44\.5m more for extra security measures in Calais / HRW publishes World Report 2018 / Greek Council for Refugees workshop finds / Evacuations in Italy and France / And more news…_
 
 
-![[Humans for Rights Network](https://www.facebook.com/humansforrights/?ref=gs&fref=gs&dti=1667894290115570&hc_location=group)](assets/b062b363009e/1*YzrYOz-nUUuGhZHYWwatKg.jpeg)
+![[Humans for Rights Network](https://www.facebook.com/humansforrights/?ref=gs&fref=gs&dti=1667894290115570&hc_location=group)](../assets/b062b363009e/1*YzrYOz-nUUuGhZHYWwatKg.jpeg)
 
 [Humans for Rights Network](https://www.facebook.com/humansforrights/?ref=gs&fref=gs&dti=1667894290115570&hc_location=group)
 ### FEATURE
@@ -96,11 +96,11 @@ After two months of trying in vain to provide the 20 residents of Lavrio Afghan 
 Solidarity\!
 
 
-![](assets/b062b363009e/1*kEgL6IV-Jv_HLwi81dFh-A.jpeg)
+![](../assets/b062b363009e/1*kEgL6IV-Jv_HLwi81dFh-A.jpeg)
 
 
 
-![](assets/b062b363009e/1*Hz9M_d0NLqU2s0mcv1tj1A.jpeg)
+![](../assets/b062b363009e/1*Hz9M_d0NLqU2s0mcv1tj1A.jpeg)
 
 #### Chios
 
@@ -166,22 +166,22 @@ A volunteer working on the ground told us about the situation in Gorizia:
 
 
 
-![](assets/b062b363009e/1*epJynRh7VT8z27AvHFbyMA.jpeg)
+![](../assets/b062b363009e/1*epJynRh7VT8z27AvHFbyMA.jpeg)
 
 
 
-![Left — Gradisca, near Gorizia, right — Gorizia](assets/b062b363009e/1*Tejhvgcr40vwmIueAvpT0Q.jpeg)
+![Left — Gradisca, near Gorizia, right — Gorizia](../assets/b062b363009e/1*Tejhvgcr40vwmIueAvpT0Q.jpeg)
 
 Left — Gradisca, near Gorizia, right — Gorizia
 
 In Gradisca \(near Gorizia\) the situation is getting even worse and probably in the next few days, authorities will evacuate the makeshift shelters of the Jungle\. Four people sleep in there\. The mayor of Gradisca made another interview where she attacks those volunteers who help migrants\.
 
 
-![](assets/b062b363009e/1*euHZ44IHht-5nigk-2jhgQ.jpeg)
+![](../assets/b062b363009e/1*euHZ44IHht-5nigk-2jhgQ.jpeg)
 
 
 
-![Last week in Gradisca](assets/b062b363009e/1*DAb8j76ePEJgPFuCSGoxMw.jpeg)
+![Last week in Gradisca](../assets/b062b363009e/1*DAb8j76ePEJgPFuCSGoxMw.jpeg)
 
 Last week in Gradisca
 
@@ -214,11 +214,11 @@ It’s another dreadful night for refugees in Paris\. Volunteers on the ground h
 The water supply in Dunkirk remains disconnected, leaving many unable to enter the “emergency accommodation” \(Sports Hall\) and without access to any basic facilities whatsoever\. Many of these people opt to remain living in the cover of the woodland, while others spend their nights slumped against the outside of the sports hall, in the hope they may get a space the following day, [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/) write\. This afternoon they distributed hundreds of bottles of water from a donation made by [Share to Serve](https://www.facebook.com/sharetoserve/?fref=mentions) \.
 
 
-![](assets/b062b363009e/1*C5ySLVwTK-JY-CAegGSNqg.jpeg)
+![](../assets/b062b363009e/1*C5ySLVwTK-JY-CAegGSNqg.jpeg)
 
 
 
-![Photos by [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/)](assets/b062b363009e/1*2yLmnWCTvO1VSnNvjqJn2g.jpeg)
+![Photos by [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/)](../assets/b062b363009e/1*2yLmnWCTvO1VSnNvjqJn2g.jpeg)
 
 Photos by [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/)
 ### UK

@@ -1,20 +1,20 @@
 ---
-title: AYS News Digest 9/1/19: Sea Watch finally disembarks, permanent solution indispensable for th
+title: "AYS News Digest 9/1/19: Sea Watch finally disembarks, permanent solution indispensable for th"
 author: Are You Syrious?
 date: 2019-01-10T09:42:15.513+0000
 last_modified_at: 2019-01-10T11:52:34.712+0000
 categories: Are You Syrious?
 tags: [refugees,europe,human-rights,africa,digest]
-description: Lebanon — Syrian refugees have already been affected by storm / Greece — Reports: from camps where people are transferred from the islands…
+description: "Lebanon — Syrian refugees have already been affected by storm / Greece — Reports: from camps where people are transferred from the islands…"
 image:
-  path: assets/5cb0830f2d0/1*ybcl0bUjNQBuQJT5s6jYVA.jpeg
+  path: ../assets/5cb0830f2d0/1*ybcl0bUjNQBuQJT5s6jYVA.jpeg
 ---
 
 ### AYS News Digest 9/1/19: Sea Watch finally disembarks, permanent solution indispensable for the future
 #### Lebanon — Syrian refugees have already been affected by storm / Greece — Reports: from camps where people are transferred from the islands; on returned refugees from other European countries to Greece; OXFAM on Moria and Greek system / Spain — more than 400 people saved off the coast / France — report on the human rights situation in the area / more news
 
 
-![Photo: [Sea\-Watch](https://www.facebook.com/seawatchprojekt/?tn-str=k%2AF)](assets/5cb0830f2d0/1*ybcl0bUjNQBuQJT5s6jYVA.jpeg)
+![Photo: [Sea\-Watch](https://www.facebook.com/seawatchprojekt/?tn-str=k%2AF)](../assets/5cb0830f2d0/1*ybcl0bUjNQBuQJT5s6jYVA.jpeg)
 
 Photo: [Sea\-Watch](https://www.facebook.com/seawatchprojekt/?tn-str=k%2AF)
 #### FEATURE — Finally disembarked
@@ -91,14 +91,14 @@ More than 11,000 Syrian refugees have already been affected by storm Norma hitti
 It is [reported](https://www.alaraby.co.uk/english/news/2019/1/8/hundreds-of-syrian-refugees-rescued-as-storms-hit-lebanon) that camps in Arsal have been blanketed with snow, while in the Bekaa Valley tents were engulfed in water with NGOs and charities appealing for aid to help families without shelter and warm clothing\.
 
 
-![Photo: [Basmeh & Zeitooneh](https://www.facebook.com/basmehzeitooneh/?__tn__=%2CdkCH-R-R&eid=ARDfu-uiShM68FWCDY-eFHuw1-hLjetr5MNas_MLddez_RZn3HokXs56ysln169atDS_KTRLEQxV9TqU&hc_ref=ARSC5W0C369UL8ITZykpOt5Q1bD5qH7ecRYYmoa3SzQVIPL8ju2RJWm7_1uIMzxnwyg&fref=nf)](assets/5cb0830f2d0/1*RzkHLC7wIdEoHfTfwboV_A.jpeg)
+![Photo: [Basmeh & Zeitooneh](https://www.facebook.com/basmehzeitooneh/?__tn__=%2CdkCH-R-R&eid=ARDfu-uiShM68FWCDY-eFHuw1-hLjetr5MNas_MLddez_RZn3HokXs56ysln169atDS_KTRLEQxV9TqU&hc_ref=ARSC5W0C369UL8ITZykpOt5Q1bD5qH7ecRYYmoa3SzQVIPL8ju2RJWm7_1uIMzxnwyg&fref=nf)](../assets/5cb0830f2d0/1*RzkHLC7wIdEoHfTfwboV_A.jpeg)
 
 Photo: [Basmeh & Zeitooneh](https://www.facebook.com/basmehzeitooneh/?__tn__=%2CdkCH-R-R&eid=ARDfu-uiShM68FWCDY-eFHuw1-hLjetr5MNas_MLddez_RZn3HokXs56ysln169atDS_KTRLEQxV9TqU&hc_ref=ARSC5W0C369UL8ITZykpOt5Q1bD5qH7ecRYYmoa3SzQVIPL8ju2RJWm7_1uIMzxnwyg&fref=nf)
 
 Lebanon hosts an estimated 1\.5 million Syrian refugees, many of whom are in provisional accommodation and for many of those people it’s the 8th winter out in the cold in extreme conditions\.
 
 
-![Bekaa camp photos by: [Basmeh & Zeitooneh](https://www.facebook.com/basmehzeitooneh/?__tn__=%2CdkCH-R-R&eid=ARDfu-uiShM68FWCDY-eFHuw1-hLjetr5MNas_MLddez_RZn3HokXs56ysln169atDS_KTRLEQxV9TqU&hc_ref=ARSC5W0C369UL8ITZykpOt5Q1bD5qH7ecRYYmoa3SzQVIPL8ju2RJWm7_1uIMzxnwyg&fref=nf)](assets/5cb0830f2d0/1*kKHjgsj9VhqAu_GQcKdNmw.jpeg)
+![Bekaa camp photos by: [Basmeh & Zeitooneh](https://www.facebook.com/basmehzeitooneh/?__tn__=%2CdkCH-R-R&eid=ARDfu-uiShM68FWCDY-eFHuw1-hLjetr5MNas_MLddez_RZn3HokXs56ysln169atDS_KTRLEQxV9TqU&hc_ref=ARSC5W0C369UL8ITZykpOt5Q1bD5qH7ecRYYmoa3SzQVIPL8ju2RJWm7_1uIMzxnwyg&fref=nf)](../assets/5cb0830f2d0/1*kKHjgsj9VhqAu_GQcKdNmw.jpeg)
 
 Bekaa camp photos by: [Basmeh & Zeitooneh](https://www.facebook.com/basmehzeitooneh/?__tn__=%2CdkCH-R-R&eid=ARDfu-uiShM68FWCDY-eFHuw1-hLjetr5MNas_MLddez_RZn3HokXs56ysln169atDS_KTRLEQxV9TqU&hc_ref=ARSC5W0C369UL8ITZykpOt5Q1bD5qH7ecRYYmoa3SzQVIPL8ju2RJWm7_1uIMzxnwyg&fref=nf)
 
@@ -117,11 +117,11 @@ You can help the group by donating or otherwise — contact them at:
 contact@basmeh\-zeitooneh\.org
 
 
-![](assets/5cb0830f2d0/1*Fk1JeYSRP3m_wr31UdfFCw.jpeg)
+![](../assets/5cb0830f2d0/1*Fk1JeYSRP3m_wr31UdfFCw.jpeg)
 
 
 
-![Bekaa camp photos by: [Basmeh & Zeitooneh](https://www.facebook.com/basmehzeitooneh/?__tn__=%2CdkCH-R-R&eid=ARDfu-uiShM68FWCDY-eFHuw1-hLjetr5MNas_MLddez_RZn3HokXs56ysln169atDS_KTRLEQxV9TqU&hc_ref=ARSC5W0C369UL8ITZykpOt5Q1bD5qH7ecRYYmoa3SzQVIPL8ju2RJWm7_1uIMzxnwyg&fref=nf)](assets/5cb0830f2d0/1*jNbW-KmHMoZFiMg0VKwlDg.jpeg)
+![Bekaa camp photos by: [Basmeh & Zeitooneh](https://www.facebook.com/basmehzeitooneh/?__tn__=%2CdkCH-R-R&eid=ARDfu-uiShM68FWCDY-eFHuw1-hLjetr5MNas_MLddez_RZn3HokXs56ysln169atDS_KTRLEQxV9TqU&hc_ref=ARSC5W0C369UL8ITZykpOt5Q1bD5qH7ecRYYmoa3SzQVIPL8ju2RJWm7_1uIMzxnwyg&fref=nf)](../assets/5cb0830f2d0/1*jNbW-KmHMoZFiMg0VKwlDg.jpeg)
 
 Bekaa camp photos by: [Basmeh & Zeitooneh](https://www.facebook.com/basmehzeitooneh/?__tn__=%2CdkCH-R-R&eid=ARDfu-uiShM68FWCDY-eFHuw1-hLjetr5MNas_MLddez_RZn3HokXs56ysln169atDS_KTRLEQxV9TqU&hc_ref=ARSC5W0C369UL8ITZykpOt5Q1bD5qH7ecRYYmoa3SzQVIPL8ju2RJWm7_1uIMzxnwyg&fref=nf)
 
@@ -146,11 +146,11 @@ People are suffering from harsh cold and no heating at all. This is not the firs
 They face months, years of horrific torture for extortion and slavery if sold again\. Every day the Eritrean refugees are trying to unite and resist being taken out, but they are being beaten\. The Libyans tell them UNHCR will not come and they should obey\. They are at serious risk\.
 
 
-![](assets/5cb0830f2d0/1*nbkHIFh4VO7K16F23hBmSA.jpeg)
+![](../assets/5cb0830f2d0/1*nbkHIFh4VO7K16F23hBmSA.jpeg)
 
 
 
-![Photos via: [Care4Calais](https://www.facebook.com/care4calais/?__tn__=kC-R&eid=ARB0mzplMEnD4fm4lhltobG1cheNS85uUZ3qKSGhVDnVGfgszGClUTBpwXWm79OUIr56qEoBi2aUY4po&hc_ref=ARTlJmt1W38M895994nhJubKzCiBDUJHEALnCcfyjJwcdVRc9amlOZGLVMGwuC5maQg&fref=nf&__xts__%5B0%5D=68.ARA0sIP9IEW1yyqwwIRsaRcqZU28IKs4lqyEqoAlEc_B6TAFbShsv2BnZQGHtj9iHSntBklqHBZWwAympk8aZXt3pGOVRYAOO1VdI6tRMCFq0CrMkZba5j-LuKxjDh8Jm18xM78ynRqLlmmJwkPzo3AUPF6I5MwUAmN6O2PwIXQEw_Aen3XWNqN0NDgaTtwT0VBfvDGYd75riIFG9zI3IOTt9N7t0QglIaIiwDwFG3PP3xgL2DQsEdLZT3k7FVWws7L40WeJXmEeYXYNLnHG44Ay3WQNBVMUi1e01aw1RYOsTlvh6xHi1aq17QfOa2dqABlXJJ32A6OLN2eB7IgKLJVJbtzH)](assets/5cb0830f2d0/1*J6dhREgUas_16pmsKnPKwA.jpeg)
+![Photos via: [Care4Calais](https://www.facebook.com/care4calais/?__tn__=kC-R&eid=ARB0mzplMEnD4fm4lhltobG1cheNS85uUZ3qKSGhVDnVGfgszGClUTBpwXWm79OUIr56qEoBi2aUY4po&hc_ref=ARTlJmt1W38M895994nhJubKzCiBDUJHEALnCcfyjJwcdVRc9amlOZGLVMGwuC5maQg&fref=nf&__xts__%5B0%5D=68.ARA0sIP9IEW1yyqwwIRsaRcqZU28IKs4lqyEqoAlEc_B6TAFbShsv2BnZQGHtj9iHSntBklqHBZWwAympk8aZXt3pGOVRYAOO1VdI6tRMCFq0CrMkZba5j-LuKxjDh8Jm18xM78ynRqLlmmJwkPzo3AUPF6I5MwUAmN6O2PwIXQEw_Aen3XWNqN0NDgaTtwT0VBfvDGYd75riIFG9zI3IOTt9N7t0QglIaIiwDwFG3PP3xgL2DQsEdLZT3k7FVWws7L40WeJXmEeYXYNLnHG44Ay3WQNBVMUi1e01aw1RYOsTlvh6xHi1aq17QfOa2dqABlXJJ32A6OLN2eB7IgKLJVJbtzH)](../assets/5cb0830f2d0/1*J6dhREgUas_16pmsKnPKwA.jpeg)
 
 Photos via: [Care4Calais](https://www.facebook.com/care4calais/?__tn__=kC-R&eid=ARB0mzplMEnD4fm4lhltobG1cheNS85uUZ3qKSGhVDnVGfgszGClUTBpwXWm79OUIr56qEoBi2aUY4po&hc_ref=ARTlJmt1W38M895994nhJubKzCiBDUJHEALnCcfyjJwcdVRc9amlOZGLVMGwuC5maQg&fref=nf&__xts__%5B0%5D=68.ARA0sIP9IEW1yyqwwIRsaRcqZU28IKs4lqyEqoAlEc_B6TAFbShsv2BnZQGHtj9iHSntBklqHBZWwAympk8aZXt3pGOVRYAOO1VdI6tRMCFq0CrMkZba5j-LuKxjDh8Jm18xM78ynRqLlmmJwkPzo3AUPF6I5MwUAmN6O2PwIXQEw_Aen3XWNqN0NDgaTtwT0VBfvDGYd75riIFG9zI3IOTt9N7t0QglIaIiwDwFG3PP3xgL2DQsEdLZT3k7FVWws7L40WeJXmEeYXYNLnHG44Ay3WQNBVMUi1e01aw1RYOsTlvh6xHi1aq17QfOa2dqABlXJJ32A6OLN2eB7IgKLJVJbtzH)
 
@@ -160,11 +160,11 @@ Please UNHCR LIBYA UNHCR, the UN Refugee Agency UNHCR Italia — Agenzia ONU per
 As before, complaints over the treatment and behavior of officials in Morocco towards refugees and asylum seekers still arrive from the Nador volunteers team\. Without any legal procedure, the authorities of Nador are allowed to break down the doors of others and enter houses, as they reportedly did with a family home, while taking belongings and money from the woman with children who lived in the house:
 
 
-![](assets/5cb0830f2d0/1*WZ9DnvOFDWrbuAwPtLfXsg.jpeg)
+![](../assets/5cb0830f2d0/1*WZ9DnvOFDWrbuAwPtLfXsg.jpeg)
 
 
 
-![](assets/5cb0830f2d0/1*nPl_X8u468AuzjWT6lGU0w.jpeg)
+![](../assets/5cb0830f2d0/1*nPl_X8u468AuzjWT6lGU0w.jpeg)
 
 
 [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?__tn__=%2CdkCH-R-R&eid=ARCaGJ_I1mZp1Nvh6rD8NJw0utgLfI39aQovP2wSUHnmYHUNRcZgLi5bv9V_TMbXttA_udamZFRAGtxL&hc_ref=ARSEHCiqLK2h5BFHqwxSyUNSP6MTmp046hfcOZekwlswhwSfHlvZcTjy9WuChiqwK-c&fref=nf) denounces these violations and calls for the cessation of these acts and the prosecution of those responsible\.
@@ -173,7 +173,7 @@ Nador authorities say they have arrested a high rank of the gendarmerie suspecte
 #### GREECE
 
 
-![](assets/5cb0830f2d0/1*_4tDwHfUimsXRFtKy_YCIA.jpeg)
+![](../assets/5cb0830f2d0/1*_4tDwHfUimsXRFtKy_YCIA.jpeg)
 
 
 In the meantime, in Europe, during the past year that saw a radical shift in political will to act properly and even more radical rhetoric by the governing politicians across Europe, having passed through the appalling experience of fleeing their homes, a rather small number of refugees managed to arrive in Europe\. The number corresponds to about 0\.02% of the total EU population, and most of the people are stuck in limbo\.
@@ -187,14 +187,14 @@ Transfers to the mainland thus don’t solve many problems for the people, espec
 
 
 
-![](assets/5cb0830f2d0/1*PZKF71oopXAd09fk51BwUg.jpeg)
+![](../assets/5cb0830f2d0/1*PZKF71oopXAd09fk51BwUg.jpeg)
 
 
 Transferring people into such conditions is an unlawful solution\.
 Please, read our [**AYS SPECIAL — THE CASE OF OINOFYTA: From one hell to another — island to mainland**](ays-special-the-case-of-oinofyta-from-one-hell-to-another-island-to-mainland-ae38893f9cbc) to find out more on the reality of the situation many people are faced with, deprived of any legitimate voice that would speak on their behalf and actually DO something to CHANGE\.
 
 
-![Katsikas camp, Greece \(Photo: [Refugee Support Europe](https://www.facebook.com/RefugeeSupportEurope/?tn-str=k%2AF) \)](assets/5cb0830f2d0/1*x0pVQ_AlduQxbc7HXRYO1w.jpeg)
+![Katsikas camp, Greece \(Photo: [Refugee Support Europe](https://www.facebook.com/RefugeeSupportEurope/?tn-str=k%2AF) \)](../assets/5cb0830f2d0/1*x0pVQ_AlduQxbc7HXRYO1w.jpeg)
 
 Katsikas camp, Greece \(Photo: [Refugee Support Europe](https://www.facebook.com/RefugeeSupportEurope/?tn-str=k%2AF) \)
 

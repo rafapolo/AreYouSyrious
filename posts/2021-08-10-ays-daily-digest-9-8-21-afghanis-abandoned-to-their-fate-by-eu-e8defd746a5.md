@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 09/08/21: Afghanis Abandoned To Their Fate By The EU
+title: "AYS Daily Digest 09/08/21: Afghanis Abandoned To Their Fate By The EU"
 author: Are You Syrious?
 date: 2021-08-10T17:11:33.384+0100
 last_modified_at: 2021-08-10T19:41:54.613+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,afghanistan,european-union,greece]
 description: Info, News and Updates from Greece, Spain, Croatia, Poland, France, Ireland and the UK.
 image:
-  path: assets/e8defd746a5/1*t64MhJfke7-wdBc6Ol2Osw.jpeg
+  path: ../assets/e8defd746a5/1*t64MhJfke7-wdBc6Ol2Osw.jpeg
 ---
 
 ### AYS Daily Digest 09/08/21: Afghanis Abandoned To Their Fate By The EU
@@ -15,7 +15,7 @@ image:
 _Info, News and Updates from Greece, Spain, Croatia, Poland, France, Ireland and the UK\._
 
 
-![Monday was the [second day of disembarkation](https://twitter.com/SOSMedIntl/status/1424715672127410178/photo/1) in Pozzallo for the 550 survivors on board of Ocean Viking\. At the time of writing this digest, the third day was ongoing, with 200 people still on board\.](assets/e8defd746a5/1*t64MhJfke7-wdBc6Ol2Osw.jpeg)
+![Monday was the [second day of disembarkation](https://twitter.com/SOSMedIntl/status/1424715672127410178/photo/1) in Pozzallo for the 550 survivors on board of Ocean Viking\. At the time of writing this digest, the third day was ongoing, with 200 people still on board\.](../assets/e8defd746a5/1*t64MhJfke7-wdBc6Ol2Osw.jpeg)
 
 Monday was the [second day of disembarkation](https://twitter.com/SOSMedIntl/status/1424715672127410178/photo/1) in Pozzallo for the 550 survivors on board of Ocean Viking\. At the time of writing this digest, the third day was ongoing, with 200 people still on board\.
 
@@ -71,7 +71,7 @@ According to [ACAPS](https://www.acaps.org/country/greece/crisis/mixed-migration
 #### Athens: Solidarity banner with people on the move detained in Amygdaleza
 
 
-![Solidarity Banner \( [Indymedia](https://athens.indymedia.org/post/1613836/) \)](assets/e8defd746a5/1*pEF61WIJz7l2TYVLK61xtw.jpeg)
+![Solidarity Banner \( [Indymedia](https://athens.indymedia.org/post/1613836/) \)](../assets/e8defd746a5/1*pEF61WIJz7l2TYVLK61xtw.jpeg)
 
 Solidarity Banner \( [Indymedia](https://athens.indymedia.org/post/1613836/) \)
 
@@ -89,11 +89,11 @@ SPAIN
 #### NNK Ceuta Update
 
 
-![](assets/e8defd746a5/1*gRewI8c47e4DXu5eM5LwTg.jpeg)
+![](../assets/e8defd746a5/1*gRewI8c47e4DXu5eM5LwTg.jpeg)
 
 
 
-![\(Photo Credit: [Vicente Chaves, NNK](https://www.facebook.com/NoNameKitchenBelgrade/posts/1293489314382683) \)](assets/e8defd746a5/1*zP44ggSkiPbdfGibpnrZZg.jpeg)
+![\(Photo Credit: [Vicente Chaves, NNK](https://www.facebook.com/NoNameKitchenBelgrade/posts/1293489314382683) \)](../assets/e8defd746a5/1*zP44ggSkiPbdfGibpnrZZg.jpeg)
 
 \(Photo Credit: [Vicente Chaves, NNK](https://www.facebook.com/NoNameKitchenBelgrade/posts/1293489314382683) \)
 

@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 25/2/22: Afghans and other people who had found refuge in Ukraine are now among…
+title: "AYS News Digest 25/2/22: Afghans and other people who had found refuge in Ukraine are now among…"
 author: Are You Syrious?
 date: 2022-02-26T20:23:29.703+0000
 last_modified_at: 2022-02-26T20:23:29.703+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,ukraine,europe,refugees,news]
 description: What is happening to those who are not Ukranian and need to flee (again)? / A document with travel, accommodation, legal and other…
 image:
-  path: assets/bcd1ab7b5a06/0*1rv41-KxpfzHfNKX
+  path: ../assets/bcd1ab7b5a06/0*1rv41-KxpfzHfNKX
 ---
 
 ### AYS News Digest 25/2/22 **: Afghans and other people who had found refuge in Ukraine are now among those fleeing the country**
 #### What is happening to those who are not Ukranian and need to flee \(again\)? / A document with travel, accommodation, legal and other important information for Ukranian refugees / International hypocrisy / Greece: RSA calls for shipwrecks protocols / UK to remove people to a ‘safe third country’ whilst their asylum claim is pending / Belarus might put more pressure on Poland as Ukrainian refugees arrive / News from the French north, some reads proposed by our team & more
 
 
-![](assets/bcd1ab7b5a06/0*1rv41-KxpfzHfNKX)
+![](../assets/bcd1ab7b5a06/0*1rv41-KxpfzHfNKX)
 
 #### FEATURED
 
@@ -140,11 +140,11 @@ People who cross the English Channel in small boats now account for more than th
 ### UKRAINE
 
 
-![](assets/bcd1ab7b5a06/0*vkvAuS7uWI3QRii6)
+![](../assets/bcd1ab7b5a06/0*vkvAuS7uWI3QRii6)
 
 
 
-![visual by Hungarian Helsinki Committee](assets/bcd1ab7b5a06/0*KmH7LFpTn9FxvQQy.jpg)
+![visual by Hungarian Helsinki Committee](../assets/bcd1ab7b5a06/0*KmH7LFpTn9FxvQQy.jpg)
 
 visual by Hungarian Helsinki Committee
 
@@ -247,7 +247,7 @@ For example, in [**Denmark**](https://l.facebook.com/l.php?u=https%3A%2F%2Fcphpo
 The Bulgarian Prime Minister had very openly racist statements on this, as [reported](https://l.facebook.com/l.php?u=https%3A%2F%2Ftwitter.com%2FTihomirSabchev%2Fstatus%2F1497264454236610563%3Ffbclid%3DIwAR1MpWHBIJDBsfywE3_7zIrW2JUEr_XmG2ldzx7Hs6EgPRwU6s7yJx2tT2k&h=AT3ig628o_0GRataqCIoraJJxt1UCzIRS3-39YMe-SMQJiiwIaYNmIgRGO5BQ7L_h_fFXq693MKCdG9maw8ppk10HoLGIjHeQhNZSi12OPSAF8InPH2kpU_Q6vtm9gMi2Qf3w3Ikr2vYAwYjnrLaDCQZMUkveA&__tn__=R]-R&c[0]=AT3wsiWDwNbwqAX3MQamuUeBS-wOZ7AGd77mJrzdntHGUqXdSkCE9se3omAjMl43YklS7EZHEknzBQj5XlpMK6O0707zoTTX4rWe9bDnFYBoyiLWYeLIy0ZWFzhJxsoKQDbxDZqwP_ZCMKikNakH1BovCPsm_044GyesuL7k2bcd7tQCKyuz5DgwnfIFPhcEDCuBnoC1qAKyrSHSDbU) , while the Slovenian government “won” with their racist tweet:
 
 
-![“the Ukranian refugees arrive from a surrounding which is in a cultural, religious and historical sense something completely different from those of the Afghan refugees”\.](assets/bcd1ab7b5a06/1*3dh1mWWcBnw5BQ6UG8q9BQ.jpeg)
+![“the Ukranian refugees arrive from a surrounding which is in a cultural, religious and historical sense something completely different from those of the Afghan refugees”\.](../assets/bcd1ab7b5a06/1*3dh1mWWcBnw5BQ6UG8q9BQ.jpeg)
 
 “the Ukranian refugees arrive from a surrounding which is in a cultural, religious and historical sense something completely different from those of the Afghan refugees”\.
 #### WORTH READING

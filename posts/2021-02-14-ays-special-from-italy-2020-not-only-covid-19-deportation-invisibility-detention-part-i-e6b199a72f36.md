@@ -1,5 +1,5 @@
 ---
-title: AYS Special from Italy: 2020, not only Covid-19. Deportation, invisibility, detention… PART I
+title: "AYS Special from Italy: 2020, not only Covid-19. Deportation, invisibility, detention… PART I"
 author: Are You Syrious?
 date: 2021-02-14T08:53:00.786+0000
 last_modified_at: 2021-02-14T08:53:00.786+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [special,hotspots,lampedusa,lasciatecientrare,italy]
 description: First of a two-part report on the situation for people on the move in Italy during 2020, by LasciateCIEntrare.
 image:
-  path: assets/e6b199a72f36/0*4fAm7kStQo7RXomZ.jpeg
+  path: ../assets/e6b199a72f36/0*4fAm7kStQo7RXomZ.jpeg
 ---
 
 ### AYS Special from Italy: 2020, not only Covid\-19\. Deportation, invisibility, detention and lack of reception\. PART I
@@ -17,7 +17,7 @@ _The [LasciateCIEntrare](https://www.lasciatecientrare.it/) campaign was born in
 _Watch this space for PART II\._
 
 
-![CARA in Caltanissetta, Sicily, November 2020](assets/e6b199a72f36/0*4fAm7kStQo7RXomZ.jpeg)
+![CARA in Caltanissetta, Sicily, November 2020](../assets/e6b199a72f36/0*4fAm7kStQo7RXomZ.jpeg)
 
 CARA in Caltanissetta, Sicily, November 2020
 #### 2020 will be remembered by all of us as ‘the year of Covid\-19’\.
@@ -51,7 +51,7 @@ On one hand this label acts as a magnifying glass for chronic system failures �
 In 2020, the LasciateCIEntrare Campaign continuously monitored administrative detention centres \(CPR\), quarantine ships and the people left on the street after receiving expulsion papers — which Tunisians call “7 day permits”\. The campaign denounced repatriation practices, often carried out with impressive speed while completely detrimental to many legal rights: to information, to health, to legal counsel, to asylum\.
 
 
-![Transfer from Lampedusa, December 2020](assets/e6b199a72f36/0*FHUHijZxqhKNdQnM.jpeg)
+![Transfer from Lampedusa, December 2020](../assets/e6b199a72f36/0*FHUHijZxqhKNdQnM.jpeg)
 
 Transfer from Lampedusa, December 2020
 
@@ -61,7 +61,7 @@ This phenomenon affects ALL Tunisian citizens arriving in Italy, but in even gre
 In several cases, dozens of Tunisians have landed on Italian shores and spent days without any rights in the hotspots of Lampedusa or in Pozzallo or even in the Bisconte barracks in Trapani\. Those who arrive on the island of Pantelleria are imprisoned to “observe” the period of quarantine as established by the various Covid\-19\-related DPCMs \(Decrees of the President of the Council of Ministers\) of which there were many in 2020\. Sometimes people are repatriated directly, or after a very short stay — 2 or 3 days — in a CPR, during which time they are not given access to their phones to notify their families or activists of their whereabouts\. In the hotspots people are prevented from receiving information and from asking for asylum: “you will do it later” is the phrase that everyone receives in response to their requests\.
 
 
-![Lampedusa Hotspot, November 2020](assets/e6b199a72f36/0*6qqcnflb6ot1O_zr.jpeg)
+![Lampedusa Hotspot, November 2020](../assets/e6b199a72f36/0*6qqcnflb6ot1O_zr.jpeg)
 
 Lampedusa Hotspot, November 2020
 
@@ -76,7 +76,7 @@ One of the most striking cases that was reported to us at the end of November by
 These places have become even more inaccessible than they used to be\. We have been denied access to CPRs for almost two years now because we are considered “hostile subjects”\. Since March 2020, the “excuse” of quarantine has meant that no one apart from doctors and representatives of the national authority for the rights of persons deprived of their liberty can enter these places\. Solicited parliamentarians prefer to _“tread carefully”_ on immigration matters, _“because the period is politically complex”_ \. The only possibilities are therefore the phone — we have an SOS phone which people in difficulty in hotspots and CPRs can call or use to contact family members and activists in their countries of origin — and the intervention of the national authority for the rights of persons deprived of their liberty, to which we continuously submit reports _\._
 
 
-![CARA in Caltanissetta, Sicily, November 2020](assets/e6b199a72f36/0*B4VWxh1N4todS3Nu.jpeg)
+![CARA in Caltanissetta, Sicily, November 2020](../assets/e6b199a72f36/0*B4VWxh1N4todS3Nu.jpeg)
 
 CARA in Caltanissetta, Sicily, November 2020
 
@@ -94,7 +94,7 @@ Returning from the protest, we received the news of another CPR death: Georgian 
 A few months later [another death occurred](https://www.lasciatecientrare.it/un-cittadino-albanese-morto-al-cpr-di-gradisca-di-isonzo/) in the CPR of Gradisca\. In July, a 28 year old Albanian boy died, apparently due to his taking an excess of sedatives and tranquilisers\. The young man, who had been stopped the day before for stealing a bicycle, ended up in the CPR and died there\!
 
 
-![Gradisca d’Isonzo CPR \(photo by [Landscapes of Border Control](https://borderlandscapes.law.ox.ac.uk/location/cpr-gradisca-disonzo) \)](assets/e6b199a72f36/0*xLFpf5DHSk8cAZjO.jpeg)
+![Gradisca d’Isonzo CPR \(photo by [Landscapes of Border Control](https://borderlandscapes.law.ox.ac.uk/location/cpr-gradisca-disonzo) \)](../assets/e6b199a72f36/0*xLFpf5DHSk8cAZjO.jpeg)
 
 Gradisca d’Isonzo CPR \(photo by [Landscapes of Border Control](https://borderlandscapes.law.ox.ac.uk/location/cpr-gradisca-disonzo) \)
 

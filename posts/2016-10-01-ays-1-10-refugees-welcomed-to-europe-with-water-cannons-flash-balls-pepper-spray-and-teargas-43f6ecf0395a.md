@@ -1,5 +1,5 @@
 ---
-title: AYS 1/10: Refugees welcomed to Europe with water cannons, flash balls, pepper spray and teargas
+title: "AYS 1/10: Refugees welcomed to Europe with water cannons, flash balls, pepper spray and teargas"
 author: Are You Syrious?
 date: 2016-10-01T21:40:47.248+0100
 last_modified_at: 2016-10-01T21:40:47.248+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,syria,afghanistan,hungary]
 description: Calais closure confirmed, volunteers and refugees protest the demolitions, only to be met by police violence. Following the UK promises…
 image:
-  path: assets/43f6ecf0395a/1*HxSzJvabBNtQNScOxhfrYw.jpeg
+  path: ../assets/43f6ecf0395a/1*HxSzJvabBNtQNScOxhfrYw.jpeg
 ---
 
 ### AYS 1/10: Refugees welcomed to Europe with water cannons, flash balls, pepper spray and teargas
@@ -19,7 +19,7 @@ image:
 
 
 
-![Credits: Credits: C [**endrine Pouzet**](https://www.facebook.com/cendrine.pouzet)](assets/43f6ecf0395a/1*HxSzJvabBNtQNScOxhfrYw.jpeg)
+![Credits: Credits: C [**endrine Pouzet**](https://www.facebook.com/cendrine.pouzet)](../assets/43f6ecf0395a/1*HxSzJvabBNtQNScOxhfrYw.jpeg)
 
 Credits: Credits: C [**endrine Pouzet**](https://www.facebook.com/cendrine.pouzet)
 #### Thousands of refugee lives to be uprooted once again in forced evictions: Refugees are becoming the Europe’s new homeless class
@@ -35,20 +35,20 @@ What is more, there is little guarantee that refugees will want to go to these �
 There are currently around 200 refugees on the streets of Paris alone\. Most of them are located on Jaures street, where the refugee tents have now been fenced off, so people are crammed into a tiny space under the metro bridge\. Refugees are literally stepping on each other\. The streets are also surrounded on all sides by busy roads, which makes the space extremely dangerous, especially for children\.
 
 
-![Jaures street\. Credits: RAN UK](assets/43f6ecf0395a/1*LiR5HXh-EwCwyGL8LhD64A.jpeg)
+![Jaures street\. Credits: RAN UK](../assets/43f6ecf0395a/1*LiR5HXh-EwCwyGL8LhD64A.jpeg)
 
 Jaures street\. Credits: RAN UK
 
 
-![](assets/43f6ecf0395a/1*qlW6tWX_vL_yKiXZg5Yhtw.jpeg)
+![](../assets/43f6ecf0395a/1*qlW6tWX_vL_yKiXZg5Yhtw.jpeg)
 
 
 
-![](assets/43f6ecf0395a/1*dLe51rmv7MIHoFuRBDUjsw.jpeg)
+![](../assets/43f6ecf0395a/1*dLe51rmv7MIHoFuRBDUjsw.jpeg)
 
 
 
-![Refugee tents crammed under the bridge\. Credits: RAN UK](assets/43f6ecf0395a/1*f1zGBcryqU2nX9xAvCVJYQ.jpeg)
+![Refugee tents crammed under the bridge\. Credits: RAN UK](../assets/43f6ecf0395a/1*f1zGBcryqU2nX9xAvCVJYQ.jpeg)
 
 Refugee tents crammed under the bridge\. Credits: RAN UK
 
@@ -69,51 +69,51 @@ Over thirty organizations and groups have called for a demonstration today in Ca
 
 
 
-![Leaflet which calls for a demonstration in Calais on Oct 1st\. Credits: [Calais Migrant Solidarity](https://calaismigrantsolidarity.wordpress.com/)](assets/43f6ecf0395a/1*Lgo_Z-dkn1d91geMCVPpbA.png)
+![Leaflet which calls for a demonstration in Calais on Oct 1st\. Credits: [Calais Migrant Solidarity](https://calaismigrantsolidarity.wordpress.com/)](../assets/43f6ecf0395a/1*Lgo_Z-dkn1d91geMCVPpbA.png)
 
 Leaflet which calls for a demonstration in Calais on Oct 1st\. Credits: [Calais Migrant Solidarity](https://calaismigrantsolidarity.wordpress.com/)
 
 Following this call, about 200 migrants and some 50 protesters assembled under a bridge to protest against living conditions and demolitions in the nearby camp that President Francois Hollande has vowed to close by the end of the year\. Another 177 protesters who left Paris on Saturday aboard four coaches were blocked by police at a toll road Setques about 30 miles \(48 km\) short of the northern port\. Police was allowed to prevent volunteers from coming to Calais as protesting about anything concerning the refugees was forbidden on Thursday by the prefect, thus denying volunteers and refugees two important human rights: to move and to protest\.
 
 
-![Credits: C [**endrine Pouzet**](https://www.facebook.com/cendrine.pouzet)](assets/43f6ecf0395a/1*17BcxKbQwfsYabp5YZUkBg.jpeg)
+![Credits: C [**endrine Pouzet**](https://www.facebook.com/cendrine.pouzet)](../assets/43f6ecf0395a/1*17BcxKbQwfsYabp5YZUkBg.jpeg)
 
 Credits: C [**endrine Pouzet**](https://www.facebook.com/cendrine.pouzet)
 
 The demonstrators were met by police water cannons, flash balls, pepper spray and teargas\. The police blocked the demonstration and repeat the well used refrain “Go back to the jungle”; the jungle the Europe itself created\.
 
 
-![Credits: [**Louis Witter**](https://twitter.com/LouisWitter)](assets/43f6ecf0395a/1*IXqDAX2gqcNLYqHU0UmPAA.jpeg)
+![Credits: [**Louis Witter**](https://twitter.com/LouisWitter)](../assets/43f6ecf0395a/1*IXqDAX2gqcNLYqHU0UmPAA.jpeg)
 
 Credits: [**Louis Witter**](https://twitter.com/LouisWitter)
 
 
-![Credits: [**Louis Witter**](https://twitter.com/LouisWitter)](assets/43f6ecf0395a/1*BfD2QyUn5SRICWcDTxCmRQ.jpeg)
+![Credits: [**Louis Witter**](https://twitter.com/LouisWitter)](../assets/43f6ecf0395a/1*BfD2QyUn5SRICWcDTxCmRQ.jpeg)
 
 Credits: [**Louis Witter**](https://twitter.com/LouisWitter)
 
 
-![Clashes between police and refugees during the Calais clousure protest\. Credits: [Reuters](http://uk.mobile.reuters.com/article/worldNews/idUKKCN1213IA)](assets/43f6ecf0395a/1*9MwQNaAZoJixtj7Spa2jdw.jpeg)
+![Clashes between police and refugees during the Calais clousure protest\. Credits: [Reuters](http://uk.mobile.reuters.com/article/worldNews/idUKKCN1213IA)](../assets/43f6ecf0395a/1*9MwQNaAZoJixtj7Spa2jdw.jpeg)
 
 Clashes between police and refugees during the Calais clousure protest\. Credits: [Reuters](http://uk.mobile.reuters.com/article/worldNews/idUKKCN1213IA)
 
 
-![A refugee showing a peace sign and a British flag, thus expressing its hopes for relations between Britain and refugees\. Credits: Reuters](assets/43f6ecf0395a/1*Uf5vjVHT8Am-y9AMV5r9pg.jpeg)
+![A refugee showing a peace sign and a British flag, thus expressing its hopes for relations between Britain and refugees\. Credits: Reuters](../assets/43f6ecf0395a/1*Uf5vjVHT8Am-y9AMV5r9pg.jpeg)
 
 A refugee showing a peace sign and a British flag, thus expressing its hopes for relations between Britain and refugees\. Credits: Reuters
 
 
-![Credits: C [**endrine Pouzet**](https://www.facebook.com/cendrine.pouzet)](assets/43f6ecf0395a/1*HxSzJvabBNtQNScOxhfrYw.jpeg)
+![Credits: C [**endrine Pouzet**](https://www.facebook.com/cendrine.pouzet)](../assets/43f6ecf0395a/1*HxSzJvabBNtQNScOxhfrYw.jpeg)
 
 Credits: C [**endrine Pouzet**](https://www.facebook.com/cendrine.pouzet)
 
 
-![Credits: C [**endrine Pouzet**](https://www.facebook.com/cendrine.pouzet)](assets/43f6ecf0395a/1*fuMJbkkhfT435X9Bdg1AGw.jpeg)
+![Credits: C [**endrine Pouzet**](https://www.facebook.com/cendrine.pouzet)](../assets/43f6ecf0395a/1*fuMJbkkhfT435X9Bdg1AGw.jpeg)
 
 Credits: C [**endrine Pouzet**](https://www.facebook.com/cendrine.pouzet)
 
 
-![Credits: C [**endrine Pouzet**](https://www.facebook.com/cendrine.pouzet)](assets/43f6ecf0395a/1*aLJ8uSi_5BN3XaHMbpEGrg.jpeg)
+![Credits: C [**endrine Pouzet**](https://www.facebook.com/cendrine.pouzet)](../assets/43f6ecf0395a/1*aLJ8uSi_5BN3XaHMbpEGrg.jpeg)
 
 Credits: C [**endrine Pouzet**](https://www.facebook.com/cendrine.pouzet)
 
@@ -184,11 +184,11 @@ Priorities are:
 
 
 
-![](assets/43f6ecf0395a/1*3PnlLx0POb1IhuiXQd4gOg.jpeg)
+![](../assets/43f6ecf0395a/1*3PnlLx0POb1IhuiXQd4gOg.jpeg)
 
 
 
-![](assets/43f6ecf0395a/1*VYW0NJecEL3p_0DVHn_nCg.jpeg)
+![](../assets/43f6ecf0395a/1*VYW0NJecEL3p_0DVHn_nCg.jpeg)
 
 
 Many volunteer groups will be driving to Calais in the upcoming weeks, and in this list [here](https://docs.google.com/spreadsheets/d/1MBIIQkMVWw3-DNb8KszPbuCWvGVDLE4u6yvF8ZGVMYA/edit#gid=0) you may find the name of the organisation, its needs, collection point and drop off time\. Please go through the list, see what you have that is needed, and contact the organisation that will drive your donation to refugees\.
@@ -200,14 +200,14 @@ Donate by post: Carry The Future UK, M42, 400 Wick Ln, London E3 2JG
 Buy new from our Amazon Wishlist: [http://bit\.ly/rucksacksforcalaisfamilies](http://bit.ly/rucksacksforcalaisfamilies)
 
 
-![A donated backpack\. We hope the donor recognizes his gift and sees is it being in good hands \(or on good back\) \. Credits: [Baby Carrier Collection for Refugees — UK](https://www.facebook.com/CarryTheFutureUK/)](assets/43f6ecf0395a/1*Oa2bs4XpguffXQ-nSsNLcA.jpeg)
+![A donated backpack\. We hope the donor recognizes his gift and sees is it being in good hands \(or on good back\) \. Credits: [Baby Carrier Collection for Refugees — UK](https://www.facebook.com/CarryTheFutureUK/)](../assets/43f6ecf0395a/1*Oa2bs4XpguffXQ-nSsNLcA.jpeg)
 
 A donated backpack\. We hope the donor recognizes his gift and sees is it being in good hands \(or on good back\) \. Credits: [Baby Carrier Collection for Refugees — UK](https://www.facebook.com/CarryTheFutureUK/)
 
 With the coming eviction phone credit becomes a vital asset\. Above all, is the main mechanism for keeping in touch with unaccompanied minors during the eviction, so it’s really important\. Help through regular top\-ups\!
 
 
-![Credits: [**Calais — People to People Solidarity — Action from UK**](https://www.facebook.com/photo.php?fbid=10154117096924472&set=gm.1188202464587832&type=3)](assets/43f6ecf0395a/1*bMMaUGPQhu9llChWWvnDGA.jpeg)
+![Credits: [**Calais — People to People Solidarity — Action from UK**](https://www.facebook.com/photo.php?fbid=10154117096924472&set=gm.1188202464587832&type=3)](../assets/43f6ecf0395a/1*bMMaUGPQhu9llChWWvnDGA.jpeg)
 
 Credits: [**Calais — People to People Solidarity — Action from UK**](https://www.facebook.com/photo.php?fbid=10154117096924472&set=gm.1188202464587832&type=3)
 #### Hungary
@@ -241,17 +241,17 @@ _No decision has been reached by the EU, and there is not discussion either, of 
 The organizations believe the purpose of the referendum and accompanying campaign is to incite hatred of the refugees arriving to Europe\. They believe the real question is whether Hungary is capable of becoming a humane community\.
 
 
-![Credits: [**Tamás Zoltán Szüts**](https://www.facebook.com/szuts.tamas)](assets/43f6ecf0395a/1*RrGbfJnp3ONDtGqX3kn-PA.jpeg)
+![Credits: [**Tamás Zoltán Szüts**](https://www.facebook.com/szuts.tamas)](../assets/43f6ecf0395a/1*RrGbfJnp3ONDtGqX3kn-PA.jpeg)
 
 Credits: [**Tamás Zoltán Szüts**](https://www.facebook.com/szuts.tamas)
 
 
-![Credits: [**Tamás Zoltán Szüts**](https://www.facebook.com/szuts.tamas)](assets/43f6ecf0395a/1*-ifT_czKRwtfjt_at6pmlQ.jpeg)
+![Credits: [**Tamás Zoltán Szüts**](https://www.facebook.com/szuts.tamas)](../assets/43f6ecf0395a/1*-ifT_czKRwtfjt_at6pmlQ.jpeg)
 
 Credits: [**Tamás Zoltán Szüts**](https://www.facebook.com/szuts.tamas)
 
 
-![Credits: [**Tamás Zoltán Szüts**](https://www.facebook.com/szuts.tamas)](assets/43f6ecf0395a/1*IEVfM-6mW2vLmiJD_QYJqQ.jpeg)
+![Credits: [**Tamás Zoltán Szüts**](https://www.facebook.com/szuts.tamas)](../assets/43f6ecf0395a/1*IEVfM-6mW2vLmiJD_QYJqQ.jpeg)
 
 Credits: [**Tamás Zoltán Szüts**](https://www.facebook.com/szuts.tamas)
 ### Other important news in brief:
@@ -295,12 +295,12 @@ The young Afghan was a new kind of casualty in Europe’s migration crisis\. Whi
 #### After the eviction of Via Cupa yesterday, 15 more people arrived during the night\. They slept rough in the street
 
 
-![Credits: [**Baobab Experience**](https://www.facebook.com/BaobabExperience/)](assets/43f6ecf0395a/1*MS_2xARCxfI_qy6qHwcOUQ.jpeg)
+![Credits: [**Baobab Experience**](https://www.facebook.com/BaobabExperience/)](../assets/43f6ecf0395a/1*MS_2xARCxfI_qy6qHwcOUQ.jpeg)
 
 Credits: [**Baobab Experience**](https://www.facebook.com/BaobabExperience/)
 
 
-![Credits: [**Baobab Experience**](https://www.facebook.com/BaobabExperience/)](assets/43f6ecf0395a/1*nGQ67YP_gnVsosRmEbeMHw.jpeg)
+![Credits: [**Baobab Experience**](https://www.facebook.com/BaobabExperience/)](../assets/43f6ecf0395a/1*nGQ67YP_gnVsosRmEbeMHw.jpeg)
 
 Credits: [**Baobab Experience**](https://www.facebook.com/BaobabExperience/)
 

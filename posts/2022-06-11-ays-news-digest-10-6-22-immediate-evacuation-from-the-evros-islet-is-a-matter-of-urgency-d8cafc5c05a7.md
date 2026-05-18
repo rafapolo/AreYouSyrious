@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 10/6/22: Immediate evacuation from the Evros islet is a matter of urgency
+title: "AYS News Digest 10/6/22: Immediate evacuation from the Evros islet is a matter of urgency"
 author: Are You Syrious?
 date: 2022-06-11T20:16:21.477+0100
 last_modified_at: 2022-06-11T21:03:41.442+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,europe,greece,migration]
 description: MSF calls for the respect of human dignity in border control / New ‘camp’ on Lesvos in the “worst location possible to build the camp“ /…
 image:
-  path: assets/d8cafc5c05a7/0*rHJ_tQOWeHBCElkn.png
+  path: ../assets/d8cafc5c05a7/0*rHJ_tQOWeHBCElkn.png
 ---
 
 ### AYS News Digest 10/6/22: Immediate evacuation from the Evros islet is a matter of urgency
 #### MSF calls for the respect of human dignity in border control / New ‘camp’ on Lesvos in the “worst location possible to build the camp“ / ECRI calls out Denmark for anti\-Muslim policies in the country and recommends changes / Poland: Provincial Administrative Court in Warsaw overturned the ruling by the Border Police /
 
 
-![Via [AlarmPhone](https://alarmphone.org/en/2022/06/10/alarm-phone-demands-immediate-evacuation-of-refugees-from-a-small-islet-in-the-evros-river/?fbclid=IwAR1OGc7oO1oB2ADSJaPNFkSf6JY2sSRTo6a2FPf-3xQbTV5z2CHhroop7nQ)](assets/d8cafc5c05a7/0*rHJ_tQOWeHBCElkn.png)
+![Via [AlarmPhone](https://alarmphone.org/en/2022/06/10/alarm-phone-demands-immediate-evacuation-of-refugees-from-a-small-islet-in-the-evros-river/?fbclid=IwAR1OGc7oO1oB2ADSJaPNFkSf6JY2sSRTo6a2FPf-3xQbTV5z2CHhroop7nQ)](../assets/d8cafc5c05a7/0*rHJ_tQOWeHBCElkn.png)
 
 Via [AlarmPhone](https://alarmphone.org/en/2022/06/10/alarm-phone-demands-immediate-evacuation-of-refugees-from-a-small-islet-in-the-evros-river/?fbclid=IwAR1OGc7oO1oB2ADSJaPNFkSf6JY2sSRTo6a2FPf-3xQbTV5z2CHhroop7nQ)
 #### FEATURE
@@ -50,7 +50,7 @@ Nearly 70 per cent of the people who received medical assistance from MSF said t
 
 
 
-[![#Niger: MSF denounces the inhumane treatment of migrants & calls for dignity in border control](assets/d8cafc5c05a7/5d30_hqdefault.jpg "#Niger: MSF denounces the inhumane treatment of migrants & calls for dignity in border control")](https://www.youtube.com/watch?v=KGMIivsXbrA)
+[![#Niger: MSF denounces the inhumane treatment of migrants & calls for dignity in border control](../assets/d8cafc5c05a7/5d30_hqdefault.jpg "#Niger: MSF denounces the inhumane treatment of migrants & calls for dignity in border control")](https://www.youtube.com/watch?v=KGMIivsXbrA)
 
 
 In the meantime, convoys of returned people continue and Alarmphone Sahara denounces the practice as more people suffer:
@@ -110,7 +110,7 @@ Find the document [here](https://rsaegean.org/wp-content/uploads/2022/06/RSA_LN_
 From June 1 to June 25, a series of events will take place on the occasion of the World Refugee Day\. Schedule and detailed list of events is available [here](https://www.facebook.com/events/405739554792050/) \.
 
 
-![](assets/d8cafc5c05a7/0*BcjWmEoTrLGqhpIW)
+![](../assets/d8cafc5c05a7/0*BcjWmEoTrLGqhpIW)
 
 #### ITALY
 ### Carola Rackete takes Salvini to court again
@@ -173,7 +173,7 @@ The verdict has a broader significance — it shows a systemic problem with the 
 
 
 
-![](assets/d8cafc5c05a7/1*Do4Fw_DUiPnUvgSAt9bBCA.jpeg)
+![](../assets/d8cafc5c05a7/1*Do4Fw_DUiPnUvgSAt9bBCA.jpeg)
 
 
 
@@ -190,7 +190,7 @@ The verdict has a broader significance — it shows a systemic problem with the 
 
 
 
-![](assets/d8cafc5c05a7/1*qglJ1OXb810pqwEEg6axmg.jpeg)
+![](../assets/d8cafc5c05a7/1*qglJ1OXb810pqwEEg6axmg.jpeg)
 
 #### LITHUANIA
 
@@ -199,7 +199,7 @@ Sienos Grupe is organizing a **protest on June 13th** at 17:30 from the Cathedra
 [**Protestas : Leidimas Gyventi**](https://www.facebook.com/events/405491898159350/)
 
 
-![](assets/d8cafc5c05a7/0*Eg91sUV4aJaNvidw)
+![](../assets/d8cafc5c05a7/0*Eg91sUV4aJaNvidw)
 
 #### DENMARK
 ### ECRI calls out Denmark

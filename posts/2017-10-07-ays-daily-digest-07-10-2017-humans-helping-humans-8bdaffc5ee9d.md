@@ -7,7 +7,7 @@ categories:
 tags: [refugees,greece,vienna,hotspots,calais]
 description: SAR Operation in the Mediterranean despite bad weather /// Five New Hotspots to be built on Greek islands /// Fascist attack in Mainland…
 image:
-  path: assets/8bdaffc5ee9d/1*Ww3HPcIJ6CUDLd9BVL6ArA.jpeg
+  path: ../assets/8bdaffc5ee9d/1*Ww3HPcIJ6CUDLd9BVL6ArA.jpeg
 ---
 
 ### AYS Daily Digest 07/10/2017 — Humans helping humans
@@ -15,7 +15,7 @@ image:
 SAR Operation in the Mediterranean despite bad weather /// Five New Hotspots to be built on Greek islands /// Fascist attack in Mainland Greece /// Worsening condition in Hungary “Transit Zones” /// Demonstration in Vienna…
 
 
-![The Immigrant by Boligàn \(Art Against\)](assets/8bdaffc5ee9d/1*Ww3HPcIJ6CUDLd9BVL6ArA.jpeg)
+![The Immigrant by Boligàn \(Art Against\)](../assets/8bdaffc5ee9d/1*Ww3HPcIJ6CUDLd9BVL6ArA.jpeg)
 
 The Immigrant by Boligàn \(Art Against\)
 
@@ -55,7 +55,7 @@ There are currently only ten volunteers working to make this happen\. The group 
 **Sea**
 
 
-![Lifeline](assets/8bdaffc5ee9d/1*7gX2iSX6u0EEy6IZ8CVL7g.jpeg)
+![Lifeline](../assets/8bdaffc5ee9d/1*7gX2iSX6u0EEy6IZ8CVL7g.jpeg)
 
 Lifeline
 
@@ -141,11 +141,11 @@ Fascist attack on agricultural laborers
 [Refugee Info Bus](https://web.facebook.com/RefugeeInfoBus/posts/2030637327171685?hc_location=ufi) reports on the situation in Patras where many people are sleeping without tents\.
 
 
-![](assets/8bdaffc5ee9d/1*xj4fKkON8WzyZzJBr__AbQ.jpeg)
+![](../assets/8bdaffc5ee9d/1*xj4fKkON8WzyZzJBr__AbQ.jpeg)
 
 
 
-![Patras \(Refugee Info Bus\)](assets/8bdaffc5ee9d/1*qQuE0vOPdfEoPkfswwaQNA.jpeg)
+![Patras \(Refugee Info Bus\)](../assets/8bdaffc5ee9d/1*qQuE0vOPdfEoPkfswwaQNA.jpeg)
 
 Patras \(Refugee Info Bus\)
 
@@ -192,11 +192,11 @@ The situation in Hungary is not improving\. In the atmosphere of fear and intimi
 Demonstration in Vienna
 
 
-![](assets/8bdaffc5ee9d/1*xCczkpyhYJ7JNCZA6ugakQ.jpeg)
+![](../assets/8bdaffc5ee9d/1*xCczkpyhYJ7JNCZA6ugakQ.jpeg)
 
 
 
-![Vienna \( [Plattform für eine menschliche Asylpolitik](https://www.facebook.com/menschliche.asylpolitik/) \)](assets/8bdaffc5ee9d/1*W7zyT5_gwJKXZ598AvFLJw.jpeg)
+![Vienna \( [Plattform für eine menschliche Asylpolitik](https://www.facebook.com/menschliche.asylpolitik/) \)](../assets/8bdaffc5ee9d/1*W7zyT5_gwJKXZ598AvFLJw.jpeg)
 
 Vienna \( [Plattform für eine menschliche Asylpolitik](https://www.facebook.com/menschliche.asylpolitik/) \)
 

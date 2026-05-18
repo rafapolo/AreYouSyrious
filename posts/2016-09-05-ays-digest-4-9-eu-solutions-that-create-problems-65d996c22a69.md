@@ -1,5 +1,5 @@
 ---
-title: AYS digest 4/9: EU “Solutions” that create problems
+title: "AYS digest 4/9: EU “Solutions” that create problems"
 author: Are You Syrious?
 date: 2016-09-05T01:46:11.693+0100
 last_modified_at: 2016-09-05T08:09:52.056+0100
@@ -7,20 +7,20 @@ categories:
 tags: [refugees,europe,croatia,back-to-school,volunteers]
 description: Syria
 image:
-  path: assets/65d996c22a69/1*hc7SUfKWaOHoNef7X0IunA.jpeg
+  path: ../assets/65d996c22a69/1*hc7SUfKWaOHoNef7X0IunA.jpeg
 ---
 
 ### AYS digest 4/9: EU “Solutions” that create problems
 
 
-![“ Good morning humanity\! With a picture of a dawn from south coast of Lesvos island, we want to say that, together, we can make this planet a better place for everyone\.” Credits: [**United Rescue Aid**](https://www.facebook.com/unitedrescueaid/)](assets/65d996c22a69/1*hc7SUfKWaOHoNef7X0IunA.jpeg)
+![“ Good morning humanity\! With a picture of a dawn from south coast of Lesvos island, we want to say that, together, we can make this planet a better place for everyone\.” Credits: [**United Rescue Aid**](https://www.facebook.com/unitedrescueaid/)](../assets/65d996c22a69/1*hc7SUfKWaOHoNef7X0IunA.jpeg)
 
 “ Good morning humanity\! With a picture of a dawn from south coast of Lesvos island, we want to say that, together, we can make this planet a better place for everyone\.” Credits: [**United Rescue Aid**](https://www.facebook.com/unitedrescueaid/)
 #### Syria
 ### Aleppo under siege again
 
 
-![Credits: [**Karam Hilly**](https://www.facebook.com/profile.php?id=100008210941112) ‎](assets/65d996c22a69/1*vXeYCSLaBtgNHLD984agOg.jpeg)
+![Credits: [**Karam Hilly**](https://www.facebook.com/profile.php?id=100008210941112) ‎](../assets/65d996c22a69/1*vXeYCSLaBtgNHLD984agOg.jpeg)
 
 Credits: [**Karam Hilly**](https://www.facebook.com/profile.php?id=100008210941112) ‎
 
@@ -37,13 +37,13 @@ The Syrian Observatory for Human Rights, a Britain\-based monitor, said governme
 Remember, winter is coming\. Where will he go then?
 
 
-![Credits: [**Joost Rot**](https://www.facebook.com/joost.rot)](assets/65d996c22a69/1*-nINuofC8RfO4zqgXUaP-Q.jpeg)
+![Credits: [**Joost Rot**](https://www.facebook.com/joost.rot)](../assets/65d996c22a69/1*-nINuofC8RfO4zqgXUaP-Q.jpeg)
 
 Credits: [**Joost Rot**](https://www.facebook.com/joost.rot)
 ### Four days of peaceful protests in Syntagma Square
 
 
-![A man from Aleppo holding a picture of his dead son\. Photo: Refugee Solidarity Greece](assets/65d996c22a69/1*W_nAiSjC_6CoYZnMBbZRHQ.jpeg)
+![A man from Aleppo holding a picture of his dead son\. Photo: Refugee Solidarity Greece](../assets/65d996c22a69/1*W_nAiSjC_6CoYZnMBbZRHQ.jpeg)
 
 A man from Aleppo holding a picture of his dead son\. Photo: Refugee Solidarity Greece
 
@@ -51,17 +51,17 @@ Refugees assembled in Syntagma Square, Athens for the fourth consecutive day to 
 ### Peaceful refugee protest in Cherso
 
 
-![Credits: **‎ [AboHassan Alzobaa Smsm](https://www.facebook.com/alzobaa.hamada?fref=nf)**](assets/65d996c22a69/1*vfGTQjB3B4ukJHOI_E0uMw.jpeg)
+![Credits: **‎ [AboHassan Alzobaa Smsm](https://www.facebook.com/alzobaa.hamada?fref=nf)**](../assets/65d996c22a69/1*vfGTQjB3B4ukJHOI_E0uMw.jpeg)
 
 Credits: **‎ [AboHassan Alzobaa Smsm](https://www.facebook.com/alzobaa.hamada?fref=nf)**
 
 
-![Credits: **‎ [AboHassan Alzobaa Smsm](https://www.facebook.com/alzobaa.hamada?fref=nf)**](assets/65d996c22a69/1*K5Ji33WO9ghFFR2V8lrilg.jpeg)
+![Credits: **‎ [AboHassan Alzobaa Smsm](https://www.facebook.com/alzobaa.hamada?fref=nf)**](../assets/65d996c22a69/1*K5Ji33WO9ghFFR2V8lrilg.jpeg)
 
 Credits: **‎ [AboHassan Alzobaa Smsm](https://www.facebook.com/alzobaa.hamada?fref=nf)**
 
 
-![Credits: **‎ [AboHassan Alzobaa Smsm](https://www.facebook.com/alzobaa.hamada?fref=nf)**](assets/65d996c22a69/1*0Va3NGwBWI1mM5GUkUAJ8A.jpeg)
+![Credits: **‎ [AboHassan Alzobaa Smsm](https://www.facebook.com/alzobaa.hamada?fref=nf)**](../assets/65d996c22a69/1*0Va3NGwBWI1mM5GUkUAJ8A.jpeg)
 
 Credits: **‎ [AboHassan Alzobaa Smsm](https://www.facebook.com/alzobaa.hamada?fref=nf)**
 ### Medical concern: a 21\-year old refugee with kidney and bladder malfunction needs to be checked
@@ -70,7 +70,7 @@ Refugee community has raised a concern about 21 year old Mohammed, who has been 
 ### ERCI needs volunteers on several locations
 
 
-![ERCI team providing support to young refugees of Pikpa, who are learning how to swim\. Photo: ERCI](assets/65d996c22a69/1*pmhm-0g97-aDqlYQKvthrg.jpeg)
+![ERCI team providing support to young refugees of Pikpa, who are learning how to swim\. Photo: ERCI](../assets/65d996c22a69/1*pmhm-0g97-aDqlYQKvthrg.jpeg)
 
 ERCI team providing support to young refugees of Pikpa, who are learning how to swim\. Photo: ERCI
 
@@ -80,7 +80,7 @@ After so many hard days, we have received beautiful photos from Lesvos, where [*
 Five young men from the Kavala camp were asked by the local community representatives to participate in this year’s Torch Bearer for Love run, put on by the Kavala Association of Blood Donation and Kavala General Hospital, which aims to raise support for local blood drives\. The directors of the Kavala General Hospital and Association of Blood Donation reached out to members on Medicins du Monde, who work in the camp, seeking five residents to participate in the 2km run\.
 
 
-![Five young residents of Kavala camp participated in a local humanitarian run\. Photo: Northern Lights Aid](assets/65d996c22a69/1*JEJ9oPUDWudVcG6TxpdrYQ.jpeg)
+![Five young residents of Kavala camp participated in a local humanitarian run\. Photo: Northern Lights Aid](../assets/65d996c22a69/1*JEJ9oPUDWudVcG6TxpdrYQ.jpeg)
 
 Five young residents of Kavala camp participated in a local humanitarian run\. Photo: Northern Lights Aid
 
@@ -101,7 +101,7 @@ Minimum 10 days for each position\. Apply with [private messages on FB](https://
 [Refugee Support Greece](https://www.facebook.com/RefugeeSupportGreece/?hc_ref=PAGES_TIMELINE) is raising money for classrooms for the children aged 4–7 at Alexandreia camp\. The older children will be attending local schools soon, but 57 pre\-school kids will need to be educated on the camp\. The Ministry of Education will provide 3 teachers for classes that will will run from 8am\-12pm every weekday, but only if volunteers manage to convert 2 derelict rooms into functioning classrooms\. The large agencies can’t move quickly enough and these need to be ready in 2 weeks\.
 
 
-![One of 57 kids who need to be pre\-schooled in Alexandreia camp\. Photo: Refugee Support Greece](assets/65d996c22a69/1*yqYbzqJzgazB9xDPsgRwDw.jpeg)
+![One of 57 kids who need to be pre\-schooled in Alexandreia camp\. Photo: Refugee Support Greece](../assets/65d996c22a69/1*yqYbzqJzgazB9xDPsgRwDw.jpeg)
 
 One of 57 kids who need to be pre\-schooled in Alexandreia camp\. Photo: Refugee Support Greece
 
@@ -116,33 +116,33 @@ One of 57 kids who need to be pre\-schooled in Alexandreia camp\. Photo: Refugee
 Cleaning classrooms, building furniture, and putting the finishing touches on the community centre\. Great refugee\-volunteer teamwork, guys\!
 
 
-![Credits: [**Open Cultural Center**](https://www.facebook.com/OpenCulturalCenter/)](assets/65d996c22a69/1*xTj-qFoEA0KqyS8z6B-ZoA.jpeg)
+![Credits: [**Open Cultural Center**](https://www.facebook.com/OpenCulturalCenter/)](../assets/65d996c22a69/1*xTj-qFoEA0KqyS8z6B-ZoA.jpeg)
 
 Credits: [**Open Cultural Center**](https://www.facebook.com/OpenCulturalCenter/)
 
 
-![Credits: [**Open Cultural Center**](https://www.facebook.com/OpenCulturalCenter/)](assets/65d996c22a69/1*oBebTIG8bKkfepuglpqVgQ.jpeg)
+![Credits: [**Open Cultural Center**](https://www.facebook.com/OpenCulturalCenter/)](../assets/65d996c22a69/1*oBebTIG8bKkfepuglpqVgQ.jpeg)
 
 Credits: [**Open Cultural Center**](https://www.facebook.com/OpenCulturalCenter/)
 
 
-![Credits: [**Open Cultural Center**](https://www.facebook.com/OpenCulturalCenter/)](assets/65d996c22a69/1*-PSMzAzn1i7MQiaRsF2xbA.jpeg)
+![Credits: [**Open Cultural Center**](https://www.facebook.com/OpenCulturalCenter/)](../assets/65d996c22a69/1*-PSMzAzn1i7MQiaRsF2xbA.jpeg)
 
 Credits: [**Open Cultural Center**](https://www.facebook.com/OpenCulturalCenter/)
 
 EKO kitchen have just a few finishing touches left to be completed\. This means more healthy meals for refugees\!
 
 
-![Credits: [**Eko Kitchen**](https://www.facebook.com/Eko-Kitchen-1726250234285762/)](assets/65d996c22a69/1*j1upGP_sjQUPXVipVbgBgg.jpeg)
+![Credits: [**Eko Kitchen**](https://www.facebook.com/Eko-Kitchen-1726250234285762/)](../assets/65d996c22a69/1*j1upGP_sjQUPXVipVbgBgg.jpeg)
 
 Credits: [**Eko Kitchen**](https://www.facebook.com/Eko-Kitchen-1726250234285762/)
 
 
-![](assets/65d996c22a69/1*xg1fQnx9gqM0mC2CCli-Gg.jpeg)
+![](../assets/65d996c22a69/1*xg1fQnx9gqM0mC2CCli-Gg.jpeg)
 
 
 
-![Credits: [**Eko Kitchen**](https://www.facebook.com/Eko-Kitchen-1726250234285762/)](assets/65d996c22a69/1*6QZeEwe5Dl6vU-4t2agupg.jpeg)
+![Credits: [**Eko Kitchen**](https://www.facebook.com/Eko-Kitchen-1726250234285762/)](../assets/65d996c22a69/1*6QZeEwe5Dl6vU-4t2agupg.jpeg)
 
 Credits: [**Eko Kitchen**](https://www.facebook.com/Eko-Kitchen-1726250234285762/)
 
@@ -216,26 +216,26 @@ Check out their volunteer photos here on Tumblr and instagram:
 [I’m Human Organization iHo](https://www.facebook.com/imhumanIHO/) and [NorthStar](https://www.facebook.com/NorthStarSerbia/) ensured funding to teach children English, German, geography, and art during the months they spent in Kelebija\.
 
 
-![Credits: [I’m Human Organization iHo](https://www.facebook.com/imhumanIHO/)](assets/65d996c22a69/1*FcQ4mdpVblLqoxj_sdicgw.jpeg)
+![Credits: [I’m Human Organization iHo](https://www.facebook.com/imhumanIHO/)](../assets/65d996c22a69/1*FcQ4mdpVblLqoxj_sdicgw.jpeg)
 
 Credits: [I’m Human Organization iHo](https://www.facebook.com/imhumanIHO/)
 
 
-![Credits: [I’m Human Organization iHo](https://www.facebook.com/imhumanIHO/)](assets/65d996c22a69/1*ZjiZdteapGx60IaKgMDp6w.jpeg)
+![Credits: [I’m Human Organization iHo](https://www.facebook.com/imhumanIHO/)](../assets/65d996c22a69/1*ZjiZdteapGx60IaKgMDp6w.jpeg)
 
 Credits: [I’m Human Organization iHo](https://www.facebook.com/imhumanIHO/)
 
 
-![Credits: [I’m Human Organization iHo](https://www.facebook.com/imhumanIHO/)](assets/65d996c22a69/1*gINqTLB_lEu6PqUQriW91Q.jpeg)
+![Credits: [I’m Human Organization iHo](https://www.facebook.com/imhumanIHO/)](../assets/65d996c22a69/1*gINqTLB_lEu6PqUQriW91Q.jpeg)
 
 Credits: [I’m Human Organization iHo](https://www.facebook.com/imhumanIHO/)
 
 
-![](assets/65d996c22a69/1*uYxf64lXNfNn0WapIpIE7g.jpeg)
+![](../assets/65d996c22a69/1*uYxf64lXNfNn0WapIpIE7g.jpeg)
 
 
 
-![Credits: [I’m Human Organization iHo](https://www.facebook.com/imhumanIHO/)](assets/65d996c22a69/1*U_BKsI7zRV5WRQhvOKgv3A.jpeg)
+![Credits: [I’m Human Organization iHo](https://www.facebook.com/imhumanIHO/)](../assets/65d996c22a69/1*U_BKsI7zRV5WRQhvOKgv3A.jpeg)
 
 Credits: [I’m Human Organization iHo](https://www.facebook.com/imhumanIHO/)
 #### Croatia
@@ -271,7 +271,7 @@ We believe that quality education to refugee children is a benefit of the entire
 AYS already conducts the educational support programme for children accommodated in the Reception Center Porin in Zagreb\. In the last two months we managed to enable professional teaching support over the summer for each child of school age\. Hereby we thank each teacher, child and his/her family — and we wish them a happy first day of school, while we remind the Ministry of Education about the obligations that Croatia has towards every single child\.
 
 
-![AYS volunteers are preparing kids for school\. Photo by AYS\.](assets/65d996c22a69/1*2Hc4Sgo3YgjYlfThcQ04Rw.jpeg)
+![AYS volunteers are preparing kids for school\. Photo by AYS\.](../assets/65d996c22a69/1*2Hc4Sgo3YgjYlfThcQ04Rw.jpeg)
 
 AYS volunteers are preparing kids for school\. Photo by AYS\.
 ### Locals suggest the recent increase in a number of refugee crossings from Serbia to Croatia
@@ -312,27 +312,27 @@ Clothes: T shirts, sweat shirts, jeans, \(S/M\), socks, boxers, shorts
 Others: Backpacks, shoes
 
 
-![](assets/65d996c22a69/1*syNoBwehWtUZb5RXk3NXag.jpeg)
+![](../assets/65d996c22a69/1*syNoBwehWtUZb5RXk3NXag.jpeg)
 
 
 
-![Credits: [**Christine Dolan**](https://www.facebook.com/christine.dolan.10)](assets/65d996c22a69/1*92CTdZWmoF2bz-RPerl-RA.jpeg)
-
-Credits: [**Christine Dolan**](https://www.facebook.com/christine.dolan.10)
-
-
-![Credits: [**Christine Dolan**](https://www.facebook.com/christine.dolan.10)](assets/65d996c22a69/1*rOvB_YVeqR_I-M-QZ5bRhw.jpeg)
+![Credits: [**Christine Dolan**](https://www.facebook.com/christine.dolan.10)](../assets/65d996c22a69/1*92CTdZWmoF2bz-RPerl-RA.jpeg)
 
 Credits: [**Christine Dolan**](https://www.facebook.com/christine.dolan.10)
 
 
-![Credits: [**Christine Dolan**](https://www.facebook.com/christine.dolan.10)](assets/65d996c22a69/1*BQarPwyLIUhqecytGIZLcg.jpeg)
+![Credits: [**Christine Dolan**](https://www.facebook.com/christine.dolan.10)](../assets/65d996c22a69/1*rOvB_YVeqR_I-M-QZ5bRhw.jpeg)
+
+Credits: [**Christine Dolan**](https://www.facebook.com/christine.dolan.10)
+
+
+![Credits: [**Christine Dolan**](https://www.facebook.com/christine.dolan.10)](../assets/65d996c22a69/1*BQarPwyLIUhqecytGIZLcg.jpeg)
 
 Credits: [**Christine Dolan**](https://www.facebook.com/christine.dolan.10)
 ### Coming tomorrow: New data on refugees in France
 
 
-![Credits: [**Refugee Rights Data Project**](https://www.facebook.com/RefugeeRightsData/)](assets/65d996c22a69/1*XvzSzJAsnfLT5iCdYfQJ3g.jpeg)
+![Credits: [**Refugee Rights Data Project**](https://www.facebook.com/RefugeeRightsData/)](../assets/65d996c22a69/1*XvzSzJAsnfLT5iCdYfQJ3g.jpeg)
 
 Credits: [**Refugee Rights Data Project**](https://www.facebook.com/RefugeeRightsData/)
 
@@ -342,7 +342,7 @@ Be among the first to read them tomorrow by checking [here](https://www.facebook
 ### Please help Care4Calais make Eid celebration for Calais refugee camp
 
 
-![Credits: [**Care4Calais**](https://www.facebook.com/care4calais/)](assets/65d996c22a69/1*lCHS5u6YSTT3CJztnQOaWQ.jpeg)
+![Credits: [**Care4Calais**](https://www.facebook.com/care4calais/)](../assets/65d996c22a69/1*lCHS5u6YSTT3CJztnQOaWQ.jpeg)
 
 Credits: [**Care4Calais**](https://www.facebook.com/care4calais/)
 
@@ -354,7 +354,7 @@ Please [donate](https://gogetfunding.com/help-us-make-eid-in-calais-refugee-camp
 ### **Resistance Fields, Saturday, September 10 from 11:30 in Norrent\-Fontes**
 
 
-![Credits: [passeursdhospitalites](https://passeursdhospitalitesenglish.wordpress.com/author/passeursdhospitalites/)](assets/65d996c22a69/1*wZn7SkCsjTd5SB_vscKbpQ.jpeg)
+![Credits: [passeursdhospitalites](https://passeursdhospitalitesenglish.wordpress.com/author/passeursdhospitalites/)](../assets/65d996c22a69/1*wZn7SkCsjTd5SB_vscKbpQ.jpeg)
 
 Credits: [passeursdhospitalites](https://passeursdhospitalitesenglish.wordpress.com/author/passeursdhospitalites/)
 
@@ -377,7 +377,7 @@ Child refugees may disappear for many reasons, including falling prey to traffic
 ### Solidarity with Refugees: March to Parliament Square, London
 
 
-![Credits: [**Care4Calais**](https://www.facebook.com/care4calais/?fref=nf)](assets/65d996c22a69/1*nJFFwE2u9_toXq0Dm5vQ9w.jpeg)
+![Credits: [**Care4Calais**](https://www.facebook.com/care4calais/?fref=nf)](../assets/65d996c22a69/1*nJFFwE2u9_toXq0Dm5vQ9w.jpeg)
 
 Credits: [**Care4Calais**](https://www.facebook.com/care4calais/?fref=nf)
 
@@ -394,12 +394,12 @@ Join this important [event](https://www.facebook.com/events/332094377124657/) \!
 ### Join HackYourFuture: A free educational program that helps refugees learn computer programming
 
 
-![Credits: [**Germán D’Jesús**](https://www.facebook.com/germandj)](assets/65d996c22a69/1*PliV6-36Uq_ZD9x4AzBD_A.jpeg)
+![Credits: [**Germán D’Jesús**](https://www.facebook.com/germandj)](../assets/65d996c22a69/1*PliV6-36Uq_ZD9x4AzBD_A.jpeg)
 
 Credits: [**Germán D’Jesús**](https://www.facebook.com/germandj)
 
 
-![Credits: [**Germán D’Jesús**](https://www.facebook.com/germandj)](assets/65d996c22a69/1*yOX9JOkMM8L77coouNHZGw.jpeg)
+![Credits: [**Germán D’Jesús**](https://www.facebook.com/germandj)](../assets/65d996c22a69/1*yOX9JOkMM8L77coouNHZGw.jpeg)
 
 Credits: [**Germán D’Jesús**](https://www.facebook.com/germandj)
 

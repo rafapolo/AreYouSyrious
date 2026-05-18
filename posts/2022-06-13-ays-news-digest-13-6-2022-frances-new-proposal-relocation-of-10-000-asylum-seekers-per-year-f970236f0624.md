@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 13/6/2022: France’s new proposal — relocation of 10,000 asylum seekers per year…
+title: "AYS News Digest 13/6/2022: France’s new proposal — relocation of 10,000 asylum seekers per year…"
 author: Are You Syrious?
 date: 2022-06-13T23:28:14.102+0100
 last_modified_at: 2022-06-16T15:45:41.618+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [france,digest,european-union,refugees,unhcr]
 description: France’s new EU asylum pact proposal//Turkey announces tighter immigration measures//Alarmphone has lost contact with a group stranded on…
 image:
-  path: assets/f970236f0624/0*LyItEK-wL1-gBkNq.jpg
+  path: ../assets/f970236f0624/0*LyItEK-wL1-gBkNq.jpg
 ---
 
 ### AYS News Digest 13/6/22: France’s new proposal — relocation of 10,000 asylum seekers per year across EU states
 #### France’s new EU asylum pact proposal // Turkey announces tighter immigration measures // Alarmphone has lost contact with a group stranded on the Evros islet//High rate of fatalities still in the Mediterranean // UK protests against the first planned flight to Rwanda // FRONTEX publishes data on migration flows into the EU // UN report published on human rights violations at the EU borders // and extra resources/reading…\.
 
 
-![Source: UN News, 2022](assets/f970236f0624/0*LyItEK-wL1-gBkNq.jpg)
+![Source: UN News, 2022](../assets/f970236f0624/0*LyItEK-wL1-gBkNq.jpg)
 
 Source: UN News, 2022
 #### **GENERAL**
@@ -64,7 +64,7 @@ The proposal considers all 19 EU states in the Schengen zone to welcome asylum s
 
 
 
-![Source: Arab News, 2022](assets/f970236f0624/0*kQ18R2qVRV8Ox7V2)
+![Source: Arab News, 2022](../assets/f970236f0624/0*kQ18R2qVRV8Ox7V2)
 
 Source: Arab News, 2022
 
@@ -83,7 +83,7 @@ The previous day, another 1,682 migrants were detained across various cities in 
 Whilst the numbers of refugees and asylum seekers crossing into Europe has decreased since 2015, [the rate of fatalities is still exceptionally high, and is increasing](https://www.globalist.it/world/2022/06/11/perche-il-mediterraneo-e-sempre-piu-il-mare-della-morte/?fbclid=IwAR1hrAtItk9-aJtXcmKBdeBoiqeHf0-UCFodwFXBfW5h9OOspOtO4RiDazU) \.
 
 
-![Source: UN News, 2022](assets/f970236f0624/0*YBoDWH8b1Vqjm23t.jpg)
+![Source: UN News, 2022](../assets/f970236f0624/0*YBoDWH8b1Vqjm23t.jpg)
 
 Source: UN News, 2022
 
@@ -148,13 +148,13 @@ It was originally built in 2015, as a response to the increasing numbers of asyl
 He is accused of damaging the reputation of Carola Rackete, the former captain of Sea\-Watch 3 migrant rescue ship, after making personal, targeted, remarks on social media from June to July 2019\.
 
 
-![Source: InfoMigrants, 13/6/2022](assets/f970236f0624/0*y3g2HZhXuuWpFDyL.jpg)
+![Source: InfoMigrants, 13/6/2022](../assets/f970236f0624/0*y3g2HZhXuuWpFDyL.jpg)
 
 Source: InfoMigrants, 13/6/2022
 #### **UK**
 
 
-![](assets/f970236f0624/0*vGW70tez9c5frplY.png)
+![](../assets/f970236f0624/0*vGW70tez9c5frplY.png)
 
 
 You can use the interactive map [here](https://firmcharter.org.uk/week-of-action/?fbclid=IwAR24xl9h7XNJAMrjxfHI4rT66LiL2DrUNXSi3zb8yCgedjVEKUcNErgLTR8) to find an action/event near you\.
@@ -166,14 +166,14 @@ People have come together across the UK, opposing tighter immigration policies a
 In Manchester, protesters marched through the city centre — [there were hundreds of people](https://www.theguardian.com/uk-news/2022/jun/12/hundreds-gather-in-manchester-to-oppose-rwanda-deportation-plan?CMP=share_btn_fb&fbclid=IwAR1GUao2SA_CjOFVZ26NSXwN39qjO5n5N2c201TiEOUibzm7MUCRnDG70EU) attending, fighting against the UK’s immigration policies\.
 
 
-![Source: The Guardian, 2022](assets/f970236f0624/0*sgZQyyaVdZjGq5lr)
+![Source: The Guardian, 2022](../assets/f970236f0624/0*sgZQyyaVdZjGq5lr)
 
 Source: The Guardian, 2022
 
 In Peckham, South East London, [protesters blocked an immigration enforcement van that was holding a Nigerian man](https://www.theguardian.com/uk-news/2022/jun/11/protesters-block-immigration-officers-van-during-peckham-arrest) who had been arrested for overstaying his visa\. The protesters sat in front of the van for hours\.
 
 
-![Source: The Guardian, 2022](assets/f970236f0624/0*pK_cwjhBwAdLTf7p)
+![Source: The Guardian, 2022](../assets/f970236f0624/0*pK_cwjhBwAdLTf7p)
 
 Source: The Guardian, 2022
 

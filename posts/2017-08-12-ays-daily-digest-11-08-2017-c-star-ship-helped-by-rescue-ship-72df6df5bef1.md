@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 11/08/17: C-Star boat helped by NGO rescue ship
+title: "AYS Daily Digest 11/08/17: C-Star boat helped by NGO rescue ship"
 author: Are You Syrious?
 date: 2017-08-12T07:20:40.766+0100
 last_modified_at: 2017-08-12T21:29:41.224+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,c-star-ship,syria,chios,cédric-herrou]
 description: C-Star ship saved by NGO rescue ship / Hundreds died in US attack on Raqqa / More people arrive in Greece / Italian government continues to…
 image:
-  path: assets/72df6df5bef1/1*73BEv24jxDsaLymFFg5LZg.jpeg
+  path: ../assets/72df6df5bef1/1*73BEv24jxDsaLymFFg5LZg.jpeg
 ---
 
 ### AYS Daily Digest 11/08/17: C\-Star boat helped by NGO rescue ship
@@ -15,7 +15,7 @@ image:
 _C\-Star ship saved by NGO rescue ship / Hundreds died in US attack on Raqqa / More people arrive in Greece / Italian government continues to prosecute people who are saving lives / Protest in Sweden continues with more people joining / And more news…_
 
 
-![When you risk your life for a passport \(Illustration by Khalid Albais, Art Against\)](assets/72df6df5bef1/1*73BEv24jxDsaLymFFg5LZg.jpeg)
+![When you risk your life for a passport \(Illustration by Khalid Albais, Art Against\)](../assets/72df6df5bef1/1*73BEv24jxDsaLymFFg5LZg.jpeg)
 
 When you risk your life for a passport \(Illustration by Khalid Albais, Art Against\)
 ### FEATURE: C\-Star boat saved by NGO rescue ship
@@ -56,7 +56,7 @@ Meanwhile, the situation on Chios remains desperate, as it is on other islands\.
 We found evidence of how difficult the situation is for people on the islands in a hard\-to\-believe report about a person who tried to swim from Chios to an unknown destination\. He was located on the rocky islet of Venetiko to the south of the island by a sailing boat which rescued him and took him to the port of Chios\.
 
 
-![Arrival \(Photo by **‎** [Pothiti Kitromilidi](https://www.facebook.com/pothiti.kitromilidi?hc_ref=ARQFM_wz0yyP1ZDLh9uc5YeFZNl6w27qtSLTtDZ47wfORXtIRg43F8zLZnzsYqh-pE0&fref=nf) ‎ _to_ [Chios Eastern Shore Response Team — Info Point](https://www.facebook.com/groups/421759534684819/permalink/671434479717322/) \)](assets/72df6df5bef1/1*F7i-nP9o7xmlXS6aQ1fieQ.jpeg)
+![Arrival \(Photo by **‎** [Pothiti Kitromilidi](https://www.facebook.com/pothiti.kitromilidi?hc_ref=ARQFM_wz0yyP1ZDLh9uc5YeFZNl6w27qtSLTtDZ47wfORXtIRg43F8zLZnzsYqh-pE0&fref=nf) ‎ _to_ [Chios Eastern Shore Response Team — Info Point](https://www.facebook.com/groups/421759534684819/permalink/671434479717322/) \)](../assets/72df6df5bef1/1*F7i-nP9o7xmlXS6aQ1fieQ.jpeg)
 
 Arrival \(Photo by **‎** [Pothiti Kitromilidi](https://www.facebook.com/pothiti.kitromilidi?hc_ref=ARQFM_wz0yyP1ZDLh9uc5YeFZNl6w27qtSLTtDZ47wfORXtIRg43F8zLZnzsYqh-pE0&fref=nf) ‎ _to_ [Chios Eastern Shore Response Team — Info Point](https://www.facebook.com/groups/421759534684819/permalink/671434479717322/) \)
 
@@ -75,7 +75,7 @@ The Legal Centre Lesbos, supported by Lesvos Solidarity, provided representation
 [For more, see the latest report by the Center](http://www.legalcentrelesbos.org/2017/08/11/august-report-on-rights-violations-and-resistance-in-lesvos/) \.
 
 
-![Writing found on a bench in Koutsochero camp…”This is life? Worst day after day\.” Although many of the families here in Koutsochero have received asylum in Greece, they have still not reached real safety\-they are living in a remote and desolate camp, with no opportunities to build skills or find employment\. Our work aims to make life in this camp a bit brighter for the people who are having to live here\-but real solutions are needed\. No one should live in a camp\! By InterVolve\.](assets/72df6df5bef1/1*WG7NfpIsEhynD6Eco_Kh7A.jpeg)
+![Writing found on a bench in Koutsochero camp…”This is life? Worst day after day\.” Although many of the families here in Koutsochero have received asylum in Greece, they have still not reached real safety\-they are living in a remote and desolate camp, with no opportunities to build skills or find employment\. Our work aims to make life in this camp a bit brighter for the people who are having to live here\-but real solutions are needed\. No one should live in a camp\! By InterVolve\.](../assets/72df6df5bef1/1*WG7NfpIsEhynD6Eco_Kh7A.jpeg)
 
 Writing found on a bench in Koutsochero camp…”This is life? Worst day after day\.” Although many of the families here in Koutsochero have received asylum in Greece, they have still not reached real safety\-they are living in a remote and desolate camp, with no opportunities to build skills or find employment\. Our work aims to make life in this camp a bit brighter for the people who are having to live here\-but real solutions are needed\. No one should live in a camp\! By InterVolve\.
 #### Volunteer opportunities
@@ -99,11 +99,11 @@ Pierre Henry, DG of France asylum, visited on Thursday the Vallée Valley and C�
 “He has plans to build a few wooden huts on his land to help people from another continent to brave the winter and because now, with his friends, he has no choice\. We can’t punish him for that\. It is up to the EU to allow here in the region, as elsewhere in France and Italy, the establishment of a dignified system, which identifies, guides, supports, accepts or refuses protection\. Ciotti opposes this\. The State is playing an absurd part\. Herrou is not a problem, he is part of the solution if the idea is to find one\!”
 
 
-![](assets/72df6df5bef1/1*Z-1GLAPtRbEWlRJaHhma5w.jpeg)
+![](../assets/72df6df5bef1/1*Z-1GLAPtRbEWlRJaHhma5w.jpeg)
 
 
 
-![\(Photo by Frace Terre D’Asil\)](assets/72df6df5bef1/1*FbM3DivSnW3qU-mnKiWuQA.jpeg)
+![\(Photo by Frace Terre D’Asil\)](../assets/72df6df5bef1/1*FbM3DivSnW3qU-mnKiWuQA.jpeg)
 
 \(Photo by Frace Terre D’Asil\)
 
@@ -130,11 +130,11 @@ The EU leaders remain ignorant of the reports by various human rights organizati
 Volunteers continue to organize food distribution in front of the Office des Étrangers \(Foreigners Office\) in the heart of Europe\.
 
 
-![](assets/72df6df5bef1/1*vHazRxhJtoMWuzHSPIUveQ.jpeg)
+![](../assets/72df6df5bef1/1*vHazRxhJtoMWuzHSPIUveQ.jpeg)
 
 
 
-![\(Photos by Loïc Fraiture\)](assets/72df6df5bef1/1*wEwON3La0wRUW32-HERzTw.jpeg)
+![\(Photos by Loïc Fraiture\)](../assets/72df6df5bef1/1*wEwON3La0wRUW32-HERzTw.jpeg)
 
 \(Photos by Loïc Fraiture\)
 
@@ -150,7 +150,7 @@ The government strongly advises its citizens not to visit Afghanistan considerin
 AYS is in Stockholm with the protesters, and we will keep reporting about this\.
 
 
-[![video 1502482008](assets/72df6df5bef1/a356_hqdefault.jpg "video 1502482008")](http://www.youtube.com/watch?v=u1d-4MhGuq4)
+[![video 1502482008](../assets/72df6df5bef1/a356_hqdefault.jpg "video 1502482008")](http://www.youtube.com/watch?v=u1d-4MhGuq4)
 
 
 

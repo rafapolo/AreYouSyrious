@@ -1,5 +1,5 @@
 ---
-title: AYS 10/7: Chauvinism rears its ugly head in Greece once more, part of a long series of attacks…
+title: "AYS 10/7: Chauvinism rears its ugly head in Greece once more, part of a long series of attacks…"
 author: Are You Syrious?
 date: 2016-07-11T00:22:30.343+0100
 last_modified_at: 2016-07-11T16:22:36.287+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: Today’s clashes on Cherso in Mazaraki Camp took place between Arab and Kurdish refugees, after a group of Arabs said yesterday that they…
 image:
-  path: assets/1237df3fa6c2/1*2RaQSpf9s8PqBAbntdlN4A.jpeg
+  path: ../assets/1237df3fa6c2/1*2RaQSpf9s8PqBAbntdlN4A.jpeg
 ---
 
 ### AYS 10/7: Chauvinism rears its ugly head in Greece once more, part of a long series of attacks against the vulnerable\.
@@ -20,7 +20,7 @@ image:
 ### Journalist in Syria was targeted by the regime, according to her family\.
 
 
-![Marie Colvin in Tahrir Square in 2012\. Photographer: Ivor Prickett](assets/1237df3fa6c2/1*2RaQSpf9s8PqBAbntdlN4A.jpeg)
+![Marie Colvin in Tahrir Square in 2012\. Photographer: Ivor Prickett](../assets/1237df3fa6c2/1*2RaQSpf9s8PqBAbntdlN4A.jpeg)
 
 Marie Colvin in Tahrir Square in 2012\. Photographer: Ivor Prickett
 
@@ -58,7 +58,7 @@ Every little bit helps\!
 ### Solar power harnessed to allow refugees to charge their phones\.
 
 
-![](assets/1237df3fa6c2/1*3IWuo-4cPkCVRQvaaaY8_Q.jpeg)
+![](../assets/1237df3fa6c2/1*3IWuo-4cPkCVRQvaaaY8_Q.jpeg)
 
 
 [Sam Kellerhals reported](https://www.facebook.com/photo.php?fbid=10210178054477262&set=gm.296463980699902&type=3&hc_location=ufi) that his team made a mobile solar\-powered charging station so that refugees will have a place to charge their phones\. Refugees often have trouble keeping their phones charged, which these days is proving to be quite indispensable\. Three have been installed so far, in Kara Tepe, Malakasa, and Ritsona\. Kellerhals asks that people in those camps where such a device is needed contact him\.
@@ -68,7 +68,7 @@ Every little bit helps\!
 Despite the closing of the Balkan Route, Serbia continues to be a very lively crossing point, according to Serbian authorities\. They claim that 102,000 refugees have been registered in the country since January 2016, meaning that roughly 500 arrive each day\. Very few refugees intend to remain in Serbia, the goal is mainly to travel through Hungary and hopefully reach another EU country such as Germany\. There are currently 1,300 people, a majority of whom are women and children and who are often living in squalor, camped on the Serbo\-Hungarian border wishing to make the trip, but Hungarian authorities let only 30 people into the country each day\. With such an agonizing pace of operation, the refugees have little choice but to look for other means to cross\. According to the Helsinki Council, Hungarian authorities have detained 17,000 refugees crossing the border illegally\. The situation is so inhumane that UNICEF has voiced its concerns\.
 
 
-![Photo from Mikaliste today\.](assets/1237df3fa6c2/1*Y8qUrh_iWApGjgNL6o8ABg.jpeg)
+![Photo from Mikaliste today\.](../assets/1237df3fa6c2/1*Y8qUrh_iWApGjgNL6o8ABg.jpeg)
 
 Photo from Mikaliste today\.
 ### Miksalište continues to be a vital resource for refugees in Belgrade\.
@@ -78,7 +78,7 @@ There are currently hundreds of refugees in Belgrade, many of whom are in the ci
 ### Receiving asylum in the Croatia remains difficult\.
 
 
-![An Iftar dinner in Kutina Camp in Croatia\. Picture Credit: Merahmet](assets/1237df3fa6c2/1*Ldmd_gtg_8dkmQeSmkS8OQ.jpeg)
+![An Iftar dinner in Kutina Camp in Croatia\. Picture Credit: Merahmet](../assets/1237df3fa6c2/1*Ldmd_gtg_8dkmQeSmkS8OQ.jpeg)
 
 An Iftar dinner in Kutina Camp in Croatia\. Picture Credit: Merahmet
 

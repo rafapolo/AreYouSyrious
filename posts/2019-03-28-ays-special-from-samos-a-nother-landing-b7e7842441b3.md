@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL FROM SAMOS: A(nother) landing
+title: "AYS SPECIAL FROM SAMOS: A(nother) landing"
 author: Are You Syrious?
 date: 2019-03-28T08:30:56.889+0000
 last_modified_at: 2019-03-28T11:06:27.851+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,samos,special,aegean-sea]
 description: According to Aegean Boat Report, over 4700 people so far this year made the dangerous crossing over the Aegean Sea from Turkey to the…
 image:
-  path: assets/b7e7842441b3/1*hW-uIHB5HiQv_7w8E-DNuQ.jpeg
+  path: ../assets/b7e7842441b3/1*hW-uIHB5HiQv_7w8E-DNuQ.jpeg
 ---
 
 ### AYS SPECIAL from Samos: An\(other\) landing
@@ -15,7 +15,7 @@ image:
 _According to Aegean Boat Report, over 4700 people so far this year made the dangerous crossing over the Aegean Sea from Turkey to the Greek islands\. In March alone, 1512 people arrived\. Additionally, 6860 people were stopped by the Turkish Coastguards before they reached European waters\._
 
 
-![](assets/b7e7842441b3/1*hW-uIHB5HiQv_7w8E-DNuQ.jpeg)
+![](../assets/b7e7842441b3/1*hW-uIHB5HiQv_7w8E-DNuQ.jpeg)
 
 
 I woke up in the early morning due to the sound of loud thunder and rain pattering on the roof of the house\. Minutes later my friend and I received a message: “There is a boat”\. As we didn’t know the exact location we headed down the road along the sea\. We saw the Hellenic Coastguard boat close to the shore\. “This is very unusual”, I thought\. Normally, they patrol further outside on the Aegean Sea\.
@@ -31,7 +31,7 @@ As we were running down the hill more people were coming in our direction\. Thei
 As we reached it we saw that not everybody was able to walk up to the beach\. An elderly woman was sitting in the water next to the grey rubber dinghy\. She couldn’t get up by herself\. The friend who attend the landing with me and a man who had just lifted his three children out of the boat helped the woman to get up\.
 
 
-![](assets/b7e7842441b3/1*bkb8-1Z6CRBpPl_kkEbJxw.jpeg)
+![](../assets/b7e7842441b3/1*bkb8-1Z6CRBpPl_kkEbJxw.jpeg)
 
 
 We walked her over the rocks\. Thunder, lightning and rain were accompanying us\. The children were leading us the way up to the beach\. We all sought shelter in a small hut\. Everybody was soaking wet, shivering from the cold\. The woman found a place on the wall\. As soon as she sat down she fainted\. She lost her consciousness over and over\.

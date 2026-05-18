@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 03/01/2019: Italian mayors are defying Salvini
+title: "AYS Daily Digest 03/01/2019: Italian mayors are defying Salvini"
 author: Are You Syrious?
 date: 2019-01-04T11:36:20.342+0000
 last_modified_at: 2019-01-04T18:08:33.153+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,italy,solidarity,sea]
 description: New report released by No Name Kitchen on illegal pushbacks and violence in the Balkans//Pushbacks happening between Morocco and…
 image:
-  path: assets/70c698efe603/1*_KwHACRVcCh_nAHjMXpVBw.jpeg
+  path: ../assets/70c698efe603/1*_KwHACRVcCh_nAHjMXpVBw.jpeg
 ---
 
 ### AYS Daily Digest 03/01/2019: Italian mayors are defying Salvini
@@ -15,7 +15,7 @@ image:
 _New report released by No Name Kitchen on illegal pushbacks and violence in the Balkans // Pushbacks happening between Morocco and Spain // Missing and deaths in Libya // New classes available in Lesvos and Athens // A tragic death in Corfu // Donations needed for people in Calais and Dunkirk // And more news from Turkey, Morocco, Serbia, Italy, France, and the UK…_
 
 
-![Credit: Sea Watch](assets/70c698efe603/1*_KwHACRVcCh_nAHjMXpVBw.jpeg)
+![Credit: Sea Watch](../assets/70c698efe603/1*_KwHACRVcCh_nAHjMXpVBw.jpeg)
 
 Credit: Sea Watch
 ### FEATURE
@@ -126,7 +126,7 @@ Strange shift to the east in terms of #migration routes towards Europe. @[LibyaR
 #### Arrivals
 
 
-![Credit: Aegean Boat Report](assets/70c698efe603/1*rBhMIKRAIWINIdfeD4BGgA.jpeg)
+![Credit: Aegean Boat Report](../assets/70c698efe603/1*rBhMIKRAIWINIdfeD4BGgA.jpeg)
 
 Credit: Aegean Boat Report
 #### Islands
@@ -302,7 +302,7 @@ Zum Schluß haben wir noch an der Hauptwache auf der Zeil versucht, den Menschen
 ### UK
 
 
-![Credit: Stand Up To Racism](assets/70c698efe603/1*r7nqGhMcy1dX1xxKhFJkRA.jpeg)
+![Credit: Stand Up To Racism](../assets/70c698efe603/1*r7nqGhMcy1dX1xxKhFJkRA.jpeg)
 
 Credit: Stand Up To Racism
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Special: Frontex and Human Rights — How did we arrive here? Part 4 (2021) — February update
+title: "AYS Special: Frontex and Human Rights — How did we arrive here? Part 4 (2021) — February update"
 author: Are You Syrious?
 date: 2021-02-07T09:53:59.114+0000
 last_modified_at: 2021-03-07T12:25:02.006+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [special,frontex,human-rights,timeline,pushback]
 description: This is the fourth and last part of AYS Frontex timeline, on the events of 2021. As of now, it is updated to the end of January.
 image:
-  path: assets/9e55d65cc950/1*oovy1wy73e0ZeLTfz5bMrQ.png
+  path: ../assets/9e55d65cc950/1*oovy1wy73e0ZeLTfz5bMrQ.png
 ---
 
 ### AYS Special: Frontex and Human Rights — How did we arrive here? Part 4 \(2021 So Far\)
@@ -34,7 +34,7 @@ _Check out [PART 1 \(2004–2016\)](ays-special-frontex-and-human-rights-how-did
 **Staff:** It is [envisaged](http://Provisional estimate of budget) that Frontex staff numbers will reach 2,000 in 2021\. 1,000 headquarter staff and 1,000 members of the agency’s standing corps\. \(See table below\) \. 700 members of the standing corps should have been ready for deployment as of January 1, 2021, but by January 31, [only 255 met these requirements](https://frontex.europa.eu/media-centre/management-board-updates/conclusions-of-the-management-board-s-meeting-on-20-21-january-2021-on-the-standing-corps-in-particular-category-1-IIzzvh) \.
 
 
-![[Single Programming Document 2021–2023](https://frontex.europa.eu/assets/Key_Documents/MB_Decision/2021/MB_Decision_1_2021_adopting_SPD_2021-2023.pdf)](assets/9e55d65cc950/1*QrqfmkyoBtqzvyjYWI9wsQ.png)
+![[Single Programming Document 2021–2023](https://frontex.europa.eu/assets/Key_Documents/MB_Decision/2021/MB_Decision_1_2021_adopting_SPD_2021-2023.pdf)](../assets/9e55d65cc950/1*QrqfmkyoBtqzvyjYWI9wsQ.png)
 
 [Single Programming Document 2021–2023](https://frontex.europa.eu/assets/Key_Documents/MB_Decision/2021/MB_Decision_1_2021_adopting_SPD_2021-2023.pdf)
 #### Investigating Frontex \(up to February 2021\)
@@ -55,7 +55,7 @@ _Check out [PART 1 \(2004–2016\)](ays-special-frontex-and-human-rights-how-did
 ### February
 
 
-![Photo by [Ines Pousadela](https://twitter.com/inespousadela/status/1367488451340357640/photo/1)](assets/9e55d65cc950/1*oovy1wy73e0ZeLTfz5bMrQ.png)
+![Photo by [Ines Pousadela](https://twitter.com/inespousadela/status/1367488451340357640/photo/1)](../assets/9e55d65cc950/1*oovy1wy73e0ZeLTfz5bMrQ.png)
 
 Photo by [Ines Pousadela](https://twitter.com/inespousadela/status/1367488451340357640/photo/1)
 
@@ -166,7 +166,7 @@ Commenting the decision, Statewatch argued that it makes no sense because “it 
 ### JANUARY
 
 
-![](assets/9e55d65cc950/1*-3_92Dzv13FEQn9tGIuhBg.jpeg)
+![](../assets/9e55d65cc950/1*-3_92Dzv13FEQn9tGIuhBg.jpeg)
 
 
 **January 29:** Extremely busy day for Frontex\.

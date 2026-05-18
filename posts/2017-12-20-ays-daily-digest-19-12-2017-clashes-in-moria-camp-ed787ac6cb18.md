@@ -7,7 +7,7 @@ categories:
 tags: [refugees,moria,deportations,libya,opentheislands]
 description: #Opentheislands /// Caall for demonstration in front of Petrou Ralli detention centre, Athens /// New deportations from Norway ///…
 image:
-  path: assets/ed787ac6cb18/1*BjnoRdwzuYkBtnVhEXN6nA.jpeg
+  path: ../assets/ed787ac6cb18/1*BjnoRdwzuYkBtnVhEXN6nA.jpeg
 ---
 
 ### AYS Daily Digest 19/12/2017 Clashes in Moria Camp
@@ -15,7 +15,7 @@ image:
 \#Opentheislands /// Caall for demonstration in front of Petrou Ralli detention centre, Athens /// New deportations from Norway /// Challenges to deportations from Finland /// Lack of minors reception centres in Ventimiglia /// Family of Madina press charges against Croatian Police
 
 
-![A clear message for International Migrants Day fromLesvos \( Photo by [Lesvos Solidarity](https://twitter.com/Lesvosolidarity) \)](assets/ed787ac6cb18/1*BjnoRdwzuYkBtnVhEXN6nA.jpeg)
+![A clear message for International Migrants Day fromLesvos \( Photo by [Lesvos Solidarity](https://twitter.com/Lesvosolidarity) \)](../assets/ed787ac6cb18/1*BjnoRdwzuYkBtnVhEXN6nA.jpeg)
 
 A clear message for International Migrants Day fromLesvos \( Photo by [Lesvos Solidarity](https://twitter.com/Lesvosolidarity) \)
 
@@ -393,7 +393,7 @@ FRANCE
 
 
 
-![](assets/ed787ac6cb18/1*4aJzdMn_Ze-AU8QPEbxljA.jpeg)
+![](../assets/ed787ac6cb18/1*4aJzdMn_Ze-AU8QPEbxljA.jpeg)
 
 
 
@@ -475,7 +475,7 @@ GENERAL
 Missing Migrants project published new data on arrivals and death in the sea:
 
 
-![](assets/ed787ac6cb18/1*ttIml7XESGR4Z52dSuc81g.jpeg)
+![](../assets/ed787ac6cb18/1*ttIml7XESGR4Z52dSuc81g.jpeg)
 
 
 A new [Fatal Journeys Report](https://publications.iom.int/system/files/pdf/fatal_journeys_3_part2.pdf) was published as part of a larger project documenting the number of lives lost during migration\.

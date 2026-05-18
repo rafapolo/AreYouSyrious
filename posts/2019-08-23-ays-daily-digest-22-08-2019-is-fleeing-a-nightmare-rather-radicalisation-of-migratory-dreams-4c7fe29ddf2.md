@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 22.08.2019: is fleeing a nightmare rather “Radicalisation of Migratory Dreams”?
+title: "AYS Daily Digest 22.08.2019: is fleeing a nightmare rather “Radicalisation of Migratory Dreams”?"
 author: Are You Syrious?
 date: 2019-08-23T12:31:00.094+0100
 last_modified_at: 2019-08-23T13:26:51.935+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,sar,greece,migration]
 description: UNHCR representatives sound off about what they feel are the “obligations” of at-risk people // Arrivals to Greece // Tragic death in…
 image:
-  path: assets/4c7fe29ddf2/1*b-kvw7I0EmVoOPYZS216hg.jpeg
+  path: ../assets/4c7fe29ddf2/1*b-kvw7I0EmVoOPYZS216hg.jpeg
 ---
 
 ### AYS Daily Digest 22\.08\.2019: is fleeing a nightmare rather “Radicalisation of Migratory Dreams”?
@@ -15,7 +15,7 @@ image:
 _UNHCR representatives sound off about what they feel are the “obligations” of at\-risk people // Arrivals to Greece // Tragic death in Greece // Protest in Germany_
 
 
-![Photo Credit: [No Border Network](https://www.facebook.com/freefighters/photos/a.863656080388517/2388947594526017/?type=3&theater)](assets/4c7fe29ddf2/1*b-kvw7I0EmVoOPYZS216hg.jpeg)
+![Photo Credit: [No Border Network](https://www.facebook.com/freefighters/photos/a.863656080388517/2388947594526017/?type=3&theater)](../assets/4c7fe29ddf2/1*b-kvw7I0EmVoOPYZS216hg.jpeg)
 
 Photo Credit: [No Border Network](https://www.facebook.com/freefighters/photos/a.863656080388517/2388947594526017/?type=3&theater)
 

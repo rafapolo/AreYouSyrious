@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 5/3/19: Today’s Europe criminalizes human rights defenders — 20 years for saving…
+title: "AYS Daily Digest 5/3/19: Today’s Europe criminalizes human rights defenders — 20 years for saving…"
 author: Are You Syrious?
 date: 2019-03-06T19:18:13.962+0000
 last_modified_at: 2019-03-06T19:18:13.962+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: []
 description: Real state of things in European countries contrary to created political climate / On the lack of protection for refugee and migrant…
 image:
-  path: assets/da805e4fde18/1*hsPGtAkzqpKPOnrY9MFZFA.jpeg
+  path: ../assets/da805e4fde18/1*hsPGtAkzqpKPOnrY9MFZFA.jpeg
 ---
 
 ### AYS Daily Digest 5/3/19: Today’s Europe criminalizes human rights defenders — 20 years for saving human lives?
 #### Real state of things in European countries contrary to created political climate / On the lack of protection for refugee and migrant children in Spain / Hunger strikes in France / Morocco: officials frisking minors in Nador and engaging in push backs to Casablanca / Aid is needed across the continent, join some of the initiatives / More news
 
 
-![](assets/da805e4fde18/1*Tx1u1RSutf5fWmPbOOmJVA.jpeg)
+![](../assets/da805e4fde18/1*Tx1u1RSutf5fWmPbOOmJVA.jpeg)
 
 
 [Are You Syrious?](https://medium.com/@AreYouSyrious)
@@ -22,7 +22,7 @@ image:
 Mar 6
 
 
-![Photo by: [Watch The Med — Alarmphone](https://www.facebook.com/watchthemed.alarmphone/?__xts__%5B0%5D=68.ARAcd0p4JvOKz54M52nboDgA2kn0b27fUH-nY8Hn655AXD-sLkbEJc9RboTknDS8aY7mQJBO7r3DF07gm46d7bHxQ9aBo_22s4MgCoiG4wys1Ac-Egeh56i00SvVwwkvk0PaRT_rn8Fwp3TI5oI9gEhsskWE57jkkqGVwhihai77FWvy2i4WAa_cgIZZFRg9W3uc2Gep__quQzjy2ZMKpaCvVi4pwWLZDsFvvFz8VvC35BBE3wnU02O2c0lBM8PLg_lV7TZ_u9hXQLwIhJxQ6XLS8EbdJV1TPLNv2pHzW6f9r8baeikSqsw3QU4uLKx7v85Pmj1l6sxaLOMKCjvm4yOLnkJXBBgJgVJvRcY0Ge3HDLGCJLC8efi4mf9P_c63iR5Cc2PVkYDIgxJHAAOOWGmwElciJ8-z7k40IzJDEFyp6AF43y5sCvFxG322r_SgiM4YErrTWkCs6RpiMhhGBy4U1W8CqQ6kTTGAeQTsSP6DzxOpSU17LYaAUg&__tn__=k%2AF&tn-str=k%2AF)](assets/da805e4fde18/1*hsPGtAkzqpKPOnrY9MFZFA.jpeg)
+![Photo by: [Watch The Med — Alarmphone](https://www.facebook.com/watchthemed.alarmphone/?__xts__%5B0%5D=68.ARAcd0p4JvOKz54M52nboDgA2kn0b27fUH-nY8Hn655AXD-sLkbEJc9RboTknDS8aY7mQJBO7r3DF07gm46d7bHxQ9aBo_22s4MgCoiG4wys1Ac-Egeh56i00SvVwwkvk0PaRT_rn8Fwp3TI5oI9gEhsskWE57jkkqGVwhihai77FWvy2i4WAa_cgIZZFRg9W3uc2Gep__quQzjy2ZMKpaCvVi4pwWLZDsFvvFz8VvC35BBE3wnU02O2c0lBM8PLg_lV7TZ_u9hXQLwIhJxQ6XLS8EbdJV1TPLNv2pHzW6f9r8baeikSqsw3QU4uLKx7v85Pmj1l6sxaLOMKCjvm4yOLnkJXBBgJgVJvRcY0Ge3HDLGCJLC8efi4mf9P_c63iR5Cc2PVkYDIgxJHAAOOWGmwElciJ8-z7k40IzJDEFyp6AF43y5sCvFxG322r_SgiM4YErrTWkCs6RpiMhhGBy4U1W8CqQ6kTTGAeQTsSP6DzxOpSU17LYaAUg&__tn__=k%2AF&tn-str=k%2AF)](../assets/da805e4fde18/1*hsPGtAkzqpKPOnrY9MFZFA.jpeg)
 
 Photo by: [Watch The Med — Alarmphone](https://www.facebook.com/watchthemed.alarmphone/?__xts__%5B0%5D=68.ARAcd0p4JvOKz54M52nboDgA2kn0b27fUH-nY8Hn655AXD-sLkbEJc9RboTknDS8aY7mQJBO7r3DF07gm46d7bHxQ9aBo_22s4MgCoiG4wys1Ac-Egeh56i00SvVwwkvk0PaRT_rn8Fwp3TI5oI9gEhsskWE57jkkqGVwhihai77FWvy2i4WAa_cgIZZFRg9W3uc2Gep__quQzjy2ZMKpaCvVi4pwWLZDsFvvFz8VvC35BBE3wnU02O2c0lBM8PLg_lV7TZ_u9hXQLwIhJxQ6XLS8EbdJV1TPLNv2pHzW6f9r8baeikSqsw3QU4uLKx7v85Pmj1l6sxaLOMKCjvm4yOLnkJXBBgJgVJvRcY0Ge3HDLGCJLC8efi4mf9P_c63iR5Cc2PVkYDIgxJHAAOOWGmwElciJ8-z7k40IzJDEFyp6AF43y5sCvFxG322r_SgiM4YErrTWkCs6RpiMhhGBy4U1W8CqQ6kTTGAeQTsSP6DzxOpSU17LYaAUg&__tn__=k%2AF&tn-str=k%2AF)
 #### FEATURE — “I went to save lives and I could see myself twenty years behind bars”
@@ -102,7 +102,7 @@ The number of departures from Morocco has increased five\-fold\. Most of the mig
 When [Association Marocaine des Droits Humains](https://www.facebook.com/AmdhNador/?__tn__=%2CdkCH-R-R&eid=ARDX9CydrJSePMwTTh0MOHox37wbc1INtfbdY2vyigC2FjDomtPeCraAssbwMsb2mWw_sGqi6L3RPg9K&hc_ref=ARRKrz2Epl8irI2NjOdxaywv8OpYks6iiZ7CAw8oICSjmDzChPWUAXXpu0yYQGJ4OIY&fref=nf&hc_location=group) protested in front of a police commissioner who was stopping minors by saying he had no right to stop and repress Moroccan minors who are in a Moroccan city, he reportedly responded: “Those are the instructions\.”
 
 
-![](assets/da805e4fde18/1*m1Pu0VBHCGgFrJ_vL77eoQ.jpeg)
+![](../assets/da805e4fde18/1*m1Pu0VBHCGgFrJ_vL77eoQ.jpeg)
 
 
 About 58 Sub Saharan migrants, among them women and children, were arrested at the beach of Temsamane \(60 km west of Nador\) this Monday, [Association Marocaine des Droits Humains](https://www.facebook.com/AmdhNador/?__tn__=%2CdkCH-R-R&eid=ARDX9CydrJSePMwTTh0MOHox37wbc1INtfbdY2vyigC2FjDomtPeCraAssbwMsb2mWw_sGqi6L3RPg9K&hc_ref=ARRKrz2Epl8irI2NjOdxaywv8OpYks6iiZ7CAw8oICSjmDzChPWUAXXpu0yYQGJ4OIY&fref=nf&hc_location=group) reports\. 
@@ -116,14 +116,14 @@ A pregnant woman from the group, who is very close to giving birth, was transpor
 
 
 
-![[Missing Migrants Project](https://www.facebook.com/MissingMigrants/?tn-str=k%2AF&hc_location=group_dialog)](assets/da805e4fde18/1*WvGvzlO4Licf_sOt1eBX5w.png)
+![[Missing Migrants Project](https://www.facebook.com/MissingMigrants/?tn-str=k%2AF&hc_location=group_dialog)](../assets/da805e4fde18/1*WvGvzlO4Licf_sOt1eBX5w.png)
 
 [Missing Migrants Project](https://www.facebook.com/MissingMigrants/?tn-str=k%2AF&hc_location=group_dialog)
 
 Deaths on the three main Mediterranean Sea routes through almost seven weeks of the new year have reached 223 individuals — or about half the 437 deaths that occurred during the same period in 2018, IOM reports\.
 
 
-![](assets/da805e4fde18/1*-lQ5UYLxYVlZlWSof13dbQ.jpeg)
+![](../assets/da805e4fde18/1*-lQ5UYLxYVlZlWSof13dbQ.jpeg)
 
 
 The Frontex report _Risk Analysis for 2019_ presents various indicators related to the EU’s external borders and migration in 2018\. These include:
@@ -145,7 +145,7 @@ According to their report, 15,000 refugees and migrants reside currently on the 
 17% of the children are unaccompanied or separated from their families, mainly from Afghanistan\. Some 41% are men between 18 and 39 years old\.
 
 
-![Original UNHCR infographics available [**here\.**](https://data2.unhcr.org/en/documents/download/68240)](assets/da805e4fde18/1*7Xg0QL_cWgQdCSRg-7iDVA.jpeg)
+![Original UNHCR infographics available [**here\.**](https://data2.unhcr.org/en/documents/download/68240)](../assets/da805e4fde18/1*7Xg0QL_cWgQdCSRg-7iDVA.jpeg)
 
 Original UNHCR infographics available [**here\.**](https://data2.unhcr.org/en/documents/download/68240)
 ### Lesvos
@@ -166,7 +166,7 @@ Original UNHCR infographics available [**here\.**](https://data2.unhcr.org/en/do
 
 
 
-![](assets/da805e4fde18/1*Qc_nDdiJCKNRdhnuKDdbbA.jpeg)
+![](../assets/da805e4fde18/1*Qc_nDdiJCKNRdhnuKDdbbA.jpeg)
 
 ### Samos
 
@@ -263,7 +263,7 @@ The minister has said the Hungarians won’t have the authority of border police
 A reminder to all people on the move — Bosnia and Herzegovina is still one of the most mine\-contaminated countries in the Southeast Europe region\. Pay attention and stay safe\.
 
 
-![](assets/da805e4fde18/1*ZDHy9OPPJRaTdFk_js_lPQ.jpeg)
+![](../assets/da805e4fde18/1*ZDHy9OPPJRaTdFk_js_lPQ.jpeg)
 
 ### Need for aid and support in border areas of Bosnia
 

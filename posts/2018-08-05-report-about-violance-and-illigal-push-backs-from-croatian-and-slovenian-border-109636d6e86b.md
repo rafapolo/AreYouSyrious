@@ -5,7 +5,7 @@ date: 2018-08-05T11:51:23.980+0100
 last_modified_at: 2018-08-05T11:51:23.980+0100
 categories: Are You Syrious?
 tags: [border-violance,croatia,slovenia,bosnia,refugees]
-description: The following document presents testimonies of push-back according to the catchment place: from Croatia, inner land and the border area…
+description: "The following document presents testimonies of push-back according to the catchment place: from Croatia, inner land and the border area…"
 ---
 
 ### Report about violance and illigal push backs from Croatian and Slovenian border

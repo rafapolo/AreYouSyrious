@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [newsletter,morocco,germany]
 description: Refugees kidnapped in Nador Morocco//New arrivals in Spain//SAR ships begin operations//Unaccompanied minors in Greece//deportations from…
 image:
-  path: assets/fa50faf24801/1*dpKNbT4-tKpgUsRBq7Ee6g.jpeg
+  path: ../assets/fa50faf24801/1*dpKNbT4-tKpgUsRBq7Ee6g.jpeg
 ---
 
 ### AYS Daily Digest 21/12/18 — Italian authorities leave refugees to drown or be returned to Libyan hell
@@ -15,7 +15,7 @@ image:
 Refugees kidnapped in Nador Morocco//New arrivals in Spain//SAR ships begin operations//Unaccompanied minors in Greece//deportations from Germany//and more…
 
 
-![Photo Credit: [Proactiva Open Arms](https://www.facebook.com/proactivaservice/?__tn__=%2CdkCH-R-R&eid=ARCEaS0ky9xhEWTbMMMaYm9bPiDV5jJJFRsbr1_dNkKkZes3TNPUYOMHIn446ijmokwEcBFoFhPFmjnF&hc_ref=ARTytwRawg_V7I_asr1I74W07hZB3UkE7Ys7d9OiEGr2zxwbwgx46QH5baRaLHO7vGQ&fref=nf&hc_location=group)](assets/fa50faf24801/1*dpKNbT4-tKpgUsRBq7Ee6g.jpeg)
+![Photo Credit: [Proactiva Open Arms](https://www.facebook.com/proactivaservice/?__tn__=%2CdkCH-R-R&eid=ARCEaS0ky9xhEWTbMMMaYm9bPiDV5jJJFRsbr1_dNkKkZes3TNPUYOMHIn446ijmokwEcBFoFhPFmjnF&hc_ref=ARTytwRawg_V7I_asr1I74W07hZB3UkE7Ys7d9OiEGr2zxwbwgx46QH5baRaLHO7vGQ&fref=nf&hc_location=group)](../assets/fa50faf24801/1*dpKNbT4-tKpgUsRBq7Ee6g.jpeg)
 
 Photo Credit: [Proactiva Open Arms](https://www.facebook.com/proactivaservice/?__tn__=%2CdkCH-R-R&eid=ARCEaS0ky9xhEWTbMMMaYm9bPiDV5jJJFRsbr1_dNkKkZes3TNPUYOMHIn446ijmokwEcBFoFhPFmjnF&hc_ref=ARTytwRawg_V7I_asr1I74W07hZB3UkE7Ys7d9OiEGr2zxwbwgx46QH5baRaLHO7vGQ&fref=nf&hc_location=group)
 #### Feature
@@ -69,26 +69,26 @@ As has become common in many “transit” countries, criminal gangs and kidnapp
 AMDH is publicly sharing this information, as well as the geo\-location of where the refugees are suspected to be held, in the hopes that it will prompt the authorities to take action\.
 
 
-![A photo of the victims received by [AMDH](https://www.facebook.com/AmdhNador/?__tn__=%2CdkCH-R-R&eid=ARD3-V2Inud8ZHfiXpEqWjSeo1XmBsB0THPvY9wo2CQ-RbMmnk5fixk6eaLuWQ3rjaq2vDM6zfGM1wRs&hc_ref=ARRzc5nBOSK9mfrCZ4fY60sx6HDU5WBl-CfdMCe3foHuWCK1o5oW6h_7tqiL8UM54ik&fref=nf&hc_location=group) \.](assets/fa50faf24801/1*h8zO9PTrcsAxzXwHZ6uplQ.jpeg)
+![A photo of the victims received by [AMDH](https://www.facebook.com/AmdhNador/?__tn__=%2CdkCH-R-R&eid=ARD3-V2Inud8ZHfiXpEqWjSeo1XmBsB0THPvY9wo2CQ-RbMmnk5fixk6eaLuWQ3rjaq2vDM6zfGM1wRs&hc_ref=ARRzc5nBOSK9mfrCZ4fY60sx6HDU5WBl-CfdMCe3foHuWCK1o5oW6h_7tqiL8UM54ik&fref=nf&hc_location=group) \.](../assets/fa50faf24801/1*h8zO9PTrcsAxzXwHZ6uplQ.jpeg)
 
 A photo of the victims received by [AMDH](https://www.facebook.com/AmdhNador/?__tn__=%2CdkCH-R-R&eid=ARD3-V2Inud8ZHfiXpEqWjSeo1XmBsB0THPvY9wo2CQ-RbMmnk5fixk6eaLuWQ3rjaq2vDM6zfGM1wRs&hc_ref=ARRzc5nBOSK9mfrCZ4fY60sx6HDU5WBl-CfdMCe3foHuWCK1o5oW6h_7tqiL8UM54ik&fref=nf&hc_location=group) \.
 ### Sea — “There is no Christmas in the Mediterranean”
 
 
-![Photo Credit: [Proactiva Open Arms](https://www.facebook.com/proactivaservice/?__tn__=%2CdkCH-R-R&eid=ARCEaS0ky9xhEWTbMMMaYm9bPiDV5jJJFRsbr1_dNkKkZes3TNPUYOMHIn446ijmokwEcBFoFhPFmjnF&hc_ref=ARTytwRawg_V7I_asr1I74W07hZB3UkE7Ys7d9OiEGr2zxwbwgx46QH5baRaLHO7vGQ&fref=nf&hc_location=group)](assets/fa50faf24801/1*DWTUtok8GXNlVDiOz4FSjw.jpeg)
+![Photo Credit: [Proactiva Open Arms](https://www.facebook.com/proactivaservice/?__tn__=%2CdkCH-R-R&eid=ARCEaS0ky9xhEWTbMMMaYm9bPiDV5jJJFRsbr1_dNkKkZes3TNPUYOMHIn446ijmokwEcBFoFhPFmjnF&hc_ref=ARTytwRawg_V7I_asr1I74W07hZB3UkE7Ys7d9OiEGr2zxwbwgx46QH5baRaLHO7vGQ&fref=nf&hc_location=group)](../assets/fa50faf24801/1*DWTUtok8GXNlVDiOz4FSjw.jpeg)
 
 Photo Credit: [Proactiva Open Arms](https://www.facebook.com/proactivaservice/?__tn__=%2CdkCH-R-R&eid=ARCEaS0ky9xhEWTbMMMaYm9bPiDV5jJJFRsbr1_dNkKkZes3TNPUYOMHIn446ijmokwEcBFoFhPFmjnF&hc_ref=ARTytwRawg_V7I_asr1I74W07hZB3UkE7Ys7d9OiEGr2zxwbwgx46QH5baRaLHO7vGQ&fref=nf&hc_location=group)
 
 25 people drowned in the Western Mediterranean while trying to reach Spain today\. 783 people have drowned this year trying to reach Spain, according to [figures from the UNHCR](https://twitter.com/ACNURspain/status/1076179294173495296?fbclid=IwAR1O9V99vj0XO8ufWOF72_c23jmf_2SgUgoRSs5PqrvDlX7lyfCo0K4GYnM) \. That is already three times the number of people who died last year\. In spite of dangerous conditions, the crossings from Morocco to Spain have continued uninterrupted\.
 
 
-![](assets/fa50faf24801/1*LifGkD5O4fRF8Hbec6jOQw.jpeg)
+![](../assets/fa50faf24801/1*LifGkD5O4fRF8Hbec6jOQw.jpeg)
 
 
 Within a mere 24 hours of arriving in the SAR zone, the Open Arms rescue ship has already saved over 300 people from 3 boats\. According to the group, there were many children and pregnant women among the people rescued\. “There is no Christmas in the Mediterranean,” the group wrote today\. “If you tell us about the successes of migration policies, we will tell you about the deaths thats were disappeared\.”
 
 
-![Photo Credit: [Sea\-Eye](https://www.facebook.com/seaeyeorg/photos/a.730635527042347/1702291316543425/?type=3&theater)](assets/fa50faf24801/1*z7czV8j4FtapVcA7y7PNug.jpeg)
+![Photo Credit: [Sea\-Eye](https://www.facebook.com/seaeyeorg/photos/a.730635527042347/1702291316543425/?type=3&theater)](../assets/fa50faf24801/1*z7czV8j4FtapVcA7y7PNug.jpeg)
 
 Photo Credit: [Sea\-Eye](https://www.facebook.com/seaeyeorg/photos/a.730635527042347/1702291316543425/?type=3&theater)
 
@@ -129,7 +129,7 @@ You can see the report in full [here](https://rsaegean.org/en/greece-hundreds-of
 Last week, an immigrant in Greece was assaulted outside the grocery store he works at\. The man was viciously attacked after asking a customer not to park in a handicapped parking space, who responded by hurling slurs at the man, and attacking him with a metal rod\. Despite the obvious racist nature of this crime, the prosecutor declared that there was “no racist motive”\. Out of all the racially motivated attacks in Greece, only 2–3 have been prosecuted as crimes with racist motivations\.
 
 
-![The victim returned to work shortly after the attack\. Photo credit: AYS\.](assets/fa50faf24801/1*6b7_ZDdGzS2LU-8epNwbVw.png)
+![The victim returned to work shortly after the attack\. Photo credit: AYS\.](../assets/fa50faf24801/1*6b7_ZDdGzS2LU-8epNwbVw.png)
 
 The victim returned to work shortly after the attack\. Photo credit: AYS\.
 

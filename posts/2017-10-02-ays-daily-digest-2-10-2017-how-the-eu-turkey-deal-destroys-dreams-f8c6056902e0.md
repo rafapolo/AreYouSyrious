@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 2/10/2017: How the EU-Turkey deal destroys dreams
+title: "AYS DAILY DIGEST 2/10/2017: How the EU-Turkey deal destroys dreams"
 author: Are You Syrious?
 date: 2017-10-02T20:58:36.122+0100
 last_modified_at: 2017-10-03T08:02:37.722+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,samos,turkey,greece,france]
 description: At the island of Samos AYS spoke with one of the two people whose case was rejected at the Supreme Court and they are at risk of being…
 image:
-  path: assets/f8c6056902e0/1*q38pnIcCch_0VMyptgR9sw.jpeg
+  path: ../assets/f8c6056902e0/1*q38pnIcCch_0VMyptgR9sw.jpeg
 ---
 
 ### AYS DAILY DIGEST 2/10/2017: How the EU\-Turkey deal destroys dreams
@@ -15,7 +15,7 @@ image:
 _At the island of Samos AYS spoke with one of the two people whose case was rejected at the Supreme Court and they are at risk of being forcibly returned to Turkey\. Like all of us, he has dreams and hopes, but unlike many, he still believes that the EU is the Promised Land where human rights are priority // And more reports about dreadful situation for refugees from Europe in this digest_
 
 
-![Athens, protest, Septemebr 30\. Photo by AYS\.](assets/f8c6056902e0/1*q38pnIcCch_0VMyptgR9sw.jpeg)
+![Athens, protest, Septemebr 30\. Photo by AYS\.](../assets/f8c6056902e0/1*q38pnIcCch_0VMyptgR9sw.jpeg)
 
 Athens, protest, Septemebr 30\. Photo by AYS\.
 ### Feature
@@ -29,7 +29,7 @@ _After three weeks, I could not stay there living in such state of oppression an
 _My first, and so far the only, encounter with the EU is Samos Island, Greece\. I am here for already 16 months waiting for my identity papers\. I applied two times for asylum and was rejected\. I appealed and appealed\. Finally, my appeal got to the Supreme Court, but I have rejected again\. And now, I’m waiting for their decision to be implemented and I deported back to Turkey\. I know that some people who were deported, or came back after not finding ways to stay in EU, are now — forcefully back in Syria, some even recruited by different armies\. They are fighting because neither EU or Turkey offered them protection\._
 
 
-![Photo AYS\.](assets/f8c6056902e0/1*UdkHoMwdKQgPu0YizFv4MA.jpeg)
+![Photo AYS\.](../assets/f8c6056902e0/1*UdkHoMwdKQgPu0YizFv4MA.jpeg)
 
 Photo AYS\.
 
@@ -90,11 +90,11 @@ People in the nearby town are against this extension, as volunteers are reportin
 Volunteers alarmed us today about the fire near makeshift camp Lavrio 2\. The camp is situated close to the illegal dump that got caught in a huge fire which produced toxic fumes\. All the people were evacuated, but only after the reaction of the group of volunteers\.
 
 
-![](assets/f8c6056902e0/1*758tVVyCOrkFhlIJs7kghQ.jpeg)
+![](../assets/f8c6056902e0/1*758tVVyCOrkFhlIJs7kghQ.jpeg)
 
 
 
-![Photo by Ruhi Loren Akhtar\.](assets/f8c6056902e0/1*Tu05uaByE-jIR8rWTgf3Gw.jpeg)
+![Photo by Ruhi Loren Akhtar\.](../assets/f8c6056902e0/1*Tu05uaByE-jIR8rWTgf3Gw.jpeg)
 
 Photo by Ruhi Loren Akhtar\.
 
@@ -114,11 +114,11 @@ Read the statement from their FB page for more details\.
 “Winter is coming, the weather is getting colder and our once sunny beach “classroom” is now often cloudy and rainy\. Because of this, we need to move our classes indoors, to keep our students warm and dry\. However, in order to do this, we need your support to be able to rent a new space to hold our English classes\! If you would like to be a part of this project and keep our classes going, please consider making a donation today\!”
 
 
-![](assets/f8c6056902e0/1*sJy-lePEnKWbImogd2YqXw.jpeg)
+![](../assets/f8c6056902e0/1*sJy-lePEnKWbImogd2YqXw.jpeg)
 
 
 
-![Photo Northern Light Aid\.](assets/f8c6056902e0/1*slzos1VGvX900owG8dN7xw.jpeg)
+![Photo Northern Light Aid\.](../assets/f8c6056902e0/1*slzos1VGvX900owG8dN7xw.jpeg)
 
 Photo Northern Light Aid\.
 
@@ -141,11 +141,11 @@ Read her post to find out more, and if you can, help\.
 Police are still harassing people in Dunkirk\. Now there are around 200 people, and families, in the area living in inhuman conditions and they need help\.
 
 
-![](assets/f8c6056902e0/1*SSb97egQWqvVfMot93-w0A.jpeg)
+![](../assets/f8c6056902e0/1*SSb97egQWqvVfMot93-w0A.jpeg)
 
 
 
-![**Photo by [Joram Melissant](https://www.facebook.com/joram.melissant?hc_ref=ARRjrM9K0pkGFCtBMKdmeHnuHgxWqbDB-3crEj_KkbnfT13BYhDCwZnxtgBHp2RVlF4)**](assets/f8c6056902e0/1*FHJeXJE7p245HoOht9hHww.jpeg)
+![**Photo by [Joram Melissant](https://www.facebook.com/joram.melissant?hc_ref=ARRjrM9K0pkGFCtBMKdmeHnuHgxWqbDB-3crEj_KkbnfT13BYhDCwZnxtgBHp2RVlF4)**](../assets/f8c6056902e0/1*FHJeXJE7p245HoOht9hHww.jpeg)
 
 **Photo by [Joram Melissant](https://www.facebook.com/joram.melissant?hc_ref=ARRjrM9K0pkGFCtBMKdmeHnuHgxWqbDB-3crEj_KkbnfT13BYhDCwZnxtgBHp2RVlF4)**
 
@@ -164,7 +164,7 @@ Groups so far include Chorleywood 4 Refugees, Calais People to People Solidarity
 Ireland Welcome Refugees group on FB published an interesting and useful [explainer](https://www.facebook.com/Refugeesarewlcome/) \.
 
 
-![](assets/f8c6056902e0/1*fLExP38-jAfcEcfYgrt8MQ.jpeg)
+![](../assets/f8c6056902e0/1*fLExP38-jAfcEcfYgrt8MQ.jpeg)
 
 
 

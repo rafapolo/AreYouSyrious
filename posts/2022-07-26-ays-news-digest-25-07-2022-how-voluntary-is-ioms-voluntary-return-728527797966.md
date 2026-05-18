@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 25.07.2022: How voluntary is IOM’s ‘voluntary return’?
+title: "AYS News Digest 25.07.2022: How voluntary is IOM’s ‘voluntary return’?"
 author: Are You Syrious?
 date: 2022-07-26T11:05:50.350+0100
 last_modified_at: 2022-07-27T13:30:08.253+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,newsdigest,humanrights,iom]
 description: 50 remain trapped on Evros islet // In-flight Protest, Belgium // UK Chief Inspector of Borders and Immigration report finally published //…
 image:
-  path: assets/728527797966/0*vh2lbhiaUYxlGptQ
+  path: ../assets/728527797966/0*vh2lbhiaUYxlGptQ
 ---
 
 ### AYS News Digest 25\.07\.2022: How voluntary is IOM’s ‘voluntary return’?
@@ -15,7 +15,7 @@ image:
 ### FEATURE
 
 
-![](assets/728527797966/0*vh2lbhiaUYxlGptQ)
+![](../assets/728527797966/0*vh2lbhiaUYxlGptQ)
 
 ### How voluntary is IOM’s ‘voluntary return’?
 
@@ -84,7 +84,7 @@ Villages were evacuated as the fires spread across the island\. Greece is a top 
 [Seebrücke International are holding a demonstration in Berlin from 13th August](https://twitter.com/Seebruecke_intl/status/1550517515549392896?fbclid=IwAR1jUcdrkQW4R6dp28zi6EhJsl2QcgMcNTB63839Zcn49uIpmHDIHcOEyBM) and are calling for others to create their own events\. \#DontForgetAfghanistan
 
 
-![Photo Credit: [Seebruecke international on Twitter](https://twitter.com/SeebrueckeB/status/1550831752746237952?fbclid=IwAR3ouTaIKway80l5hhEpFzvq9JDghwE03H9fqN2vSwb6Vw1Iujs85S6FChs)](assets/728527797966/0*PxFlvs1obsPz2xZl)
+![Photo Credit: [Seebruecke international on Twitter](https://twitter.com/SeebrueckeB/status/1550831752746237952?fbclid=IwAR3ouTaIKway80l5hhEpFzvq9JDghwE03H9fqN2vSwb6Vw1Iujs85S6FChs)](../assets/728527797966/0*PxFlvs1obsPz2xZl)
 
 Photo Credit: [Seebruecke international on Twitter](https://twitter.com/SeebrueckeB/status/1550831752746237952?fbclid=IwAR3ouTaIKway80l5hhEpFzvq9JDghwE03H9fqN2vSwb6Vw1Iujs85S6FChs)
 
@@ -93,7 +93,7 @@ Described as “ [A terrorist organization with no chain of command, leadership 
 #### In\-flight Protest, Belgium
 
 
-![PHOTO CREDIT: [Getting the Voice Out](https://www.gettingthevoiceout.org/testimony-of-resistance-to-forced-eviction-fr/?fbclid=IwAR3kMhHQ5uXdk6Q6ECCbq96xr4cKEtHB_hu6aBmKhWukkQpkUukIFDkn-hU)](assets/728527797966/0*djIl3i5LbL02CRNV)
+![PHOTO CREDIT: [Getting the Voice Out](https://www.gettingthevoiceout.org/testimony-of-resistance-to-forced-eviction-fr/?fbclid=IwAR3kMhHQ5uXdk6Q6ECCbq96xr4cKEtHB_hu6aBmKhWukkQpkUukIFDkn-hU)](../assets/728527797966/0*djIl3i5LbL02CRNV)
 
 PHOTO CREDIT: [Getting the Voice Out](https://www.gettingthevoiceout.org/testimony-of-resistance-to-forced-eviction-fr/?fbclid=IwAR3kMhHQ5uXdk6Q6ECCbq96xr4cKEtHB_hu6aBmKhWukkQpkUukIFDkn-hU)
 
@@ -132,7 +132,7 @@ Published this week is a [list of abbreviations and acronyms](http://www.infomig
 #### Over [1,100 people were rescued](https://apnews.com/article/migration-sicily-government-and-politics-071caef3f5cb8ae9ab2844e2881b000b?fbclid=IwAR3MbhlHUfjLyrTp7ZLx_q7mnaiudap_MZH-_oRLAyvAgm2GgoLs5y15t60) in the Mediterranean over the course of the weekend\.
 
 
-![PHOTO CREDIT: [SOS Mediteranee on Twitter](https://twitter.com/SOSMedIntl/status/1551146466575515649/photo/2)](assets/728527797966/0*UbXSlHbFkpaL9NNU)
+![PHOTO CREDIT: [SOS Mediteranee on Twitter](https://twitter.com/SOSMedIntl/status/1551146466575515649/photo/2)](../assets/728527797966/0*UbXSlHbFkpaL9NNU)
 
 PHOTO CREDIT: [SOS Mediteranee on Twitter](https://twitter.com/SOSMedIntl/status/1551146466575515649/photo/2)
 

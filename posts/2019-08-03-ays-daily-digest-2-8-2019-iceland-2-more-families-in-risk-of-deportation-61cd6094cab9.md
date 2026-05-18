@@ -5,9 +5,9 @@ date: 2019-08-03T09:56:46.419+0100
 last_modified_at: 2019-08-03T09:59:54.721+0100
 categories: Are You Syrious?
 tags: [refugees,digest,iuventa,iceland,zainab-safari]
-description: Sea:163 people waiting for a safe port /// France:deportations to Sudan /// More bodies wash up on Libyan shores /// BiH:Updates from…
+description: "Sea:163 people waiting for a safe port /// France:deportations to Sudan /// More bodies wash up on Libyan shores /// BiH:Updates from…"
 image:
-  path: assets/61cd6094cab9/1*rH-LVUmt3vh3on8gvw9ogg.jpeg
+  path: ../assets/61cd6094cab9/1*rH-LVUmt3vh3on8gvw9ogg.jpeg
 ---
 
 ### AYS Daily Digest 2/8/2019\-Iceland, 2 more families in risk of deportation
@@ -15,7 +15,7 @@ image:
 Sea:163 people waiting for a safe port /// France:deportations to Sudan /// More bodies wash up on Libyan shores /// BiH:Updates from Vucjak, Tuzla and Kljuc /// Hungary: people starved in transit zones
 
 
-![Two years ago, on the 2nd of August 2017, the Iuventa vessel, of the organisation Jugend Rettet was seized by Italian authorities\. [\#FREEIUVENTA](https://twitter.com/jugendrettet/status/1157233928887054337?fbclid=IwAR2yRdTkDHDTNt33Q32r-lSsxlU44O-4IcJ5ICTUhZ6OcZAJqXKyeNML0SA)](assets/61cd6094cab9/1*rH-LVUmt3vh3on8gvw9ogg.jpeg)
+![Two years ago, on the 2nd of August 2017, the Iuventa vessel, of the organisation Jugend Rettet was seized by Italian authorities\. [\#FREEIUVENTA](https://twitter.com/jugendrettet/status/1157233928887054337?fbclid=IwAR2yRdTkDHDTNt33Q32r-lSsxlU44O-4IcJ5ICTUhZ6OcZAJqXKyeNML0SA)](../assets/61cd6094cab9/1*rH-LVUmt3vh3on8gvw9ogg.jpeg)
 
 Two years ago, on the 2nd of August 2017, the Iuventa vessel, of the organisation Jugend Rettet was seized by Italian authorities\. [\#FREEIUVENTA](https://twitter.com/jugendrettet/status/1157233928887054337?fbclid=IwAR2yRdTkDHDTNt33Q32r-lSsxlU44O-4IcJ5ICTUhZ6OcZAJqXKyeNML0SA)
 #### FEATURE STORY: Iceland, two more families in risk of deportation to Greece
@@ -143,7 +143,7 @@ Aegean Boat Report [inform](https://www.facebook.com/AegeanBoatReport/posts/6229
 #### Situation on the islands
 
 
-![[National Situation picture regarding the islands at Eastern Aegean Sea \(1/8/19\)](https://infocrisis.gov.gr/5136/national-situational-picture-regarding-the-islands-at-eastern-aegean-sea-1-8-2019/?lang=en)](assets/61cd6094cab9/1*BXyJnNhF7ztOWEIgIceLsw.png)
+![[National Situation picture regarding the islands at Eastern Aegean Sea \(1/8/19\)](https://infocrisis.gov.gr/5136/national-situational-picture-regarding-the-islands-at-eastern-aegean-sea-1-8-2019/?lang=en)](../assets/61cd6094cab9/1*BXyJnNhF7ztOWEIgIceLsw.png)
 
 [National Situation picture regarding the islands at Eastern Aegean Sea \(1/8/19\)](https://infocrisis.gov.gr/5136/national-situational-picture-regarding-the-islands-at-eastern-aegean-sea-1-8-2019/?lang=en)
 
@@ -160,7 +160,7 @@ BOSNIA AND HERZEGOVINA
 Cars of Hope — Wuppertal is [supporting](https://www.facebook.com/carsofhopewtal/photos/pcb.2158185511147012/2158182014480695/?type=3&theater) a team of local volunteer providing medical care in Vucjak, because there is no other medical service in the area\.
 
 
-![Vucjak camp \(Photo by [Cars of hope — Wuppertal](https://www.facebook.com/carsofhopewtal/photos/pcb.2158185511147012/2158182014480695/?type=3&theater) \)](assets/61cd6094cab9/1*JBHIknEdvGCRiBa6BX1jng.jpeg)
+![Vucjak camp \(Photo by [Cars of hope — Wuppertal](https://www.facebook.com/carsofhopewtal/photos/pcb.2158185511147012/2158182014480695/?type=3&theater) \)](../assets/61cd6094cab9/1*JBHIknEdvGCRiBa6BX1jng.jpeg)
 
 Vucjak camp \(Photo by [Cars of hope — Wuppertal](https://www.facebook.com/carsofhopewtal/photos/pcb.2158185511147012/2158182014480695/?type=3&theater) \)
 
@@ -178,11 +178,11 @@ Also the local red cross [report](https://www.facebook.com/groups/14446988626698
 A local volunteer report about a big group of families and single adults \(around 25 children and 30 adults\) left to sleep outside in Kljuc, because there is no space in the camps and buses from and to Bihac are constantly searched here\.
 
 
-![](assets/61cd6094cab9/1*BvX9x8MVVTTH5XQ6q9ab8g.jpeg)
+![](../assets/61cd6094cab9/1*BvX9x8MVVTTH5XQ6q9ab8g.jpeg)
 
 
 
-![Photos by [Sanella Lepirica](https://www.facebook.com/sanela.lepirica/posts/2564673443583870)](assets/61cd6094cab9/1*SafiX04hdPlN72pgx6cF8A.jpeg)
+![Photos by [Sanella Lepirica](https://www.facebook.com/sanela.lepirica/posts/2564673443583870)](../assets/61cd6094cab9/1*SafiX04hdPlN72pgx6cF8A.jpeg)
 
 Photos by [Sanella Lepirica](https://www.facebook.com/sanela.lepirica/posts/2564673443583870)
 
@@ -201,7 +201,7 @@ From [Calais migrant solidarity](https://calaismigrantsolidarity.wordpress.com/2
 
 
 
-![Photo by Collectif Asuad](assets/61cd6094cab9/1*jAsnvXa43xI4vkgNuRU2pA.jpeg)
+![Photo by Collectif Asuad](../assets/61cd6094cab9/1*jAsnvXa43xI4vkgNuRU2pA.jpeg)
 
 Photo by Collectif Asuad
 

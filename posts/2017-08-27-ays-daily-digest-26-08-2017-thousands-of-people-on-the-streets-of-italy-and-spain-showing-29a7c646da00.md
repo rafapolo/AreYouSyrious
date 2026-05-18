@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 26/08/17: Thousands of people on the streets of Italy and Spain showing different…
+title: "AYS Daily Digest 26/08/17: Thousands of people on the streets of Italy and Spain showing different…"
 author: Are You Syrious?
 date: 2017-08-27T07:45:52.291+0100
 last_modified_at: 2017-08-29T17:45:42.520+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,rome,baobab,greece,syria]
 description: Over 5,000 people in Rome demanding the same rights for all / Half a million people in Barcelona in a march against terror, chanting “We…
 image:
-  path: assets/29a7c646da00/1*aB33AZa_pa07ufAG7hInOQ.jpeg
+  path: ../assets/29a7c646da00/1*aB33AZa_pa07ufAG7hInOQ.jpeg
 ---
 
 ### AYS Daily Digest 26/08/17: Thousands of people on the streets of Italy and Spain showing different Europe is possible
@@ -15,7 +15,7 @@ image:
 _Over 5,000 people in Rome demanding the same rights for all / Half a million people in Barcelona in a march against terror, chanting “We are not afraid” / Call for school enrolment in Greece / Basic information for asylum seekers in Italy / Turkey to return tens of thousands of people to Syria / And more news…_
 
 
-![Rome by [@BaobabExp](http://twitter.com/BaobabExp)](assets/29a7c646da00/1*aB33AZa_pa07ufAG7hInOQ.jpeg)
+![Rome by [@BaobabExp](http://twitter.com/BaobabExp)](../assets/29a7c646da00/1*aB33AZa_pa07ufAG7hInOQ.jpeg)
 
 Rome by [@BaobabExp](http://twitter.com/BaobabExp)
 ### Feature
@@ -52,15 +52,15 @@ Meanwhile, the people who were evicted will be allowed to sleep at the Piazza Ve
 People are being asked to come in solidarity and bring mattresses, blankets, canopies, food etc\.
 
 
-![](assets/29a7c646da00/1*bOPuylOnz5_LWQ2ADOQYTA.jpeg)
+![](../assets/29a7c646da00/1*bOPuylOnz5_LWQ2ADOQYTA.jpeg)
 
 
 
-![](assets/29a7c646da00/1*kRdv7dmkmrqkcssJ8yIhCA.jpeg)
+![](../assets/29a7c646da00/1*kRdv7dmkmrqkcssJ8yIhCA.jpeg)
 
 
 
-![](assets/29a7c646da00/1*p0PzK72ylJaWj2UvpSjO8Q.jpeg)
+![](../assets/29a7c646da00/1*p0PzK72ylJaWj2UvpSjO8Q.jpeg)
 
 ### Syria
 
@@ -116,7 +116,7 @@ See their post for more about the asylum procedure and the different possible ou
 Half a million people gathered in Barcelona, Spain, in an anti\-terror march, chanting “No tinc por” and “No tenim por” \(“I am/we’re not afraid” in Catalan\) \.
 
 
-[![We Are Many, We Are Not Afraid](assets/29a7c646da00/5757_hqdefault.jpg "We Are Many, We Are Not Afraid")](http://www.youtube.com/watch?v=8WTuxOX7Gl0)
+[![We Are Many, We Are Not Afraid](../assets/29a7c646da00/5757_hqdefault.jpg "We Are Many, We Are Not Afraid")](http://www.youtube.com/watch?v=8WTuxOX7Gl0)
 
 
 They were marching along the city’s main boulevard, the Paseo de Gracia, to the Plaza de Catalunya, where a van plowed into pedestrians on August 11, killing 13 people and injuring 120\.
@@ -143,7 +143,7 @@ Refugees Welcome Sweden published information on Saturday about undocumented fam
 It is expected that the police will issue a press release on Monday explaining what happened\.
 
 
-![](assets/29a7c646da00/1*kWTs7JHhrYq7IE2oXuqxYw.jpeg)
+![](../assets/29a7c646da00/1*kWTs7JHhrYq7IE2oXuqxYw.jpeg)
 
 ### Learn to code for free
 

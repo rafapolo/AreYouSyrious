@@ -1,14 +1,13 @@
 ---
-title: AYS Daily News Digest 17/1: Massive negligence of minors and serious police abuse remain silently…
+title: "AYS Daily News Digest 17/1: Massive negligence of minors and serious police abuse remain silently…"
 author: Are You Syrious?
 date: 2017-01-18T04:18:34.074+0000
 last_modified_at: 2017-01-18T14:16:44.104+0000
 categories: 
 tags: [refugees,europe,croatia,children-rights,police-brutality]
-description: Accounts of police violence on borders surrounding Serbia pile up | Unknown number of unaccompanied minors in Croatia got lost |
-New deaths…
+description: "Accounts of police violence on borders surrounding Serbia pile up | Unknown number of unaccompanied minors in Croatia got lost | New deaths…"
 image:
-  path: assets/38c0815bdec5/1*vAR6cAb6ERjOVslOUoquKQ.jpeg
+  path: ../assets/38c0815bdec5/1*vAR6cAb6ERjOVslOUoquKQ.jpeg
 ---
 
 ### AYS Daily News Digest 17/1: Massive negligence of minors and serious police abuse remain silently ignored
@@ -16,7 +15,7 @@ image:
 New deaths of hypothermia Elliniko, neglect and despair of the refugees \| New fascist attack in a school in Piraeus \| France prepares for cold, police takes away warm covers of people \| At least 219 people died in the first 2 weeks of 2017 while trying to cross the Mediterranean
 
 
-![Young refugees in Belgrade, Serbia, 2017\. \(Photo: [John refugee](https://www.facebook.com/John-refugee-747163385440090/?hc_ref=PAGES_TIMELINE) \)](assets/38c0815bdec5/1*vAR6cAb6ERjOVslOUoquKQ.jpeg)
+![Young refugees in Belgrade, Serbia, 2017\. \(Photo: [John refugee](https://www.facebook.com/John-refugee-747163385440090/?hc_ref=PAGES_TIMELINE) \)](../assets/38c0815bdec5/1*vAR6cAb6ERjOVslOUoquKQ.jpeg)
 
 Young refugees in Belgrade, Serbia, 2017\. \(Photo: [John refugee](https://www.facebook.com/John-refugee-747163385440090/?hc_ref=PAGES_TIMELINE) \)
 #### FEATURE
@@ -96,7 +95,7 @@ January 5, 2017
 Among the refugees staying out in the open in Belgrade there were many who told stories of violence by the Croatian police when they met them in the border areas with Serbia\. Those helping them have heard a great deal of vivid stories on how Croatian police returned a number of refugees who had reached Zagreb and other cities in Croatia, but were returned back to the fields close to the border with Serbia and directed to march through the fields into Serbia\. Others speak of being beaten up, pushed or kicked upon arrival to Croatia, without a chance to speak to their defense or even mention international protection\. Some were released from hospitals in Serbia with documented details in the release papers that speak to confirm their claims of previously being beaten up\.
 
 
-![A 14 year old refugee after coming back from the Serbian\-Croatian border, where he was allegedly beaten up by the Croatian police \(Photo: Legis\)](assets/38c0815bdec5/1*fNguNcjZkaXdi-ESfI5XhQ.jpeg)
+![A 14 year old refugee after coming back from the Serbian\-Croatian border, where he was allegedly beaten up by the Croatian police \(Photo: Legis\)](../assets/38c0815bdec5/1*fNguNcjZkaXdi-ESfI5XhQ.jpeg)
 
 A 14 year old refugee after coming back from the Serbian\-Croatian border, where he was allegedly beaten up by the Croatian police \(Photo: Legis\)
 #### Macedonia — Serbia
@@ -104,18 +103,18 @@ A 14 year old refugee after coming back from the Serbian\-Croatian border, where
 Already on December 28 2015 we [reported](https://www.facebook.com/areyousyrious/photos/pcb.565437213605166/565437070271847/?type=3) about the abuse in the border areas of Macedonia with Serbia, where those trying to leave Macedonia to pass through Serbia were not only facing criminal charges, but also suffered physical abuse\. Nowadays, between Macedonia and Serbia who share 283 km of border area, the practice continues and people are constantly being pushed back illegally from Serbia by their authorities in some of the 47 stations of border police in charge of the security of the Serbian state borders, consequently showing up in Macedonia, in Lojane in particular, where their stories are documented, injuries photographed and reports done by Legis are sent to the UNHCR and Ombudsman\.
 
 
-![](assets/38c0815bdec5/1*cpPUvx889mgGu4UPVv5aVQ.jpeg)
+![](../assets/38c0815bdec5/1*cpPUvx889mgGu4UPVv5aVQ.jpeg)
 
 
 
-![These young men were violently brought back from Serbia to Macedonia\. One of them shows the marks of the hand injuried he suffered from earlier police beatings\. \(Photo: Legis\)](assets/38c0815bdec5/1*w8hY6xcrMg4JWMv43DHevQ.jpeg)
+![These young men were violently brought back from Serbia to Macedonia\. One of them shows the marks of the hand injuried he suffered from earlier police beatings\. \(Photo: Legis\)](../assets/38c0815bdec5/1*w8hY6xcrMg4JWMv43DHevQ.jpeg)
 
 These young men were violently brought back from Serbia to Macedonia\. One of them shows the marks of the hand injuried he suffered from earlier police beatings\. \(Photo: Legis\)
 
 Sources tell us that the Serbian police has a practice of illegally deporting refugees previously officially registred and lodged in one of the official camps accross the country\. Their cards received in the camp are being taken away from them and they are sent off to Macedonia without it, making it difficult to prove they were registered residents of one of the Serbian camps who got literally kicked out the camps and the country\. A call has been sent to all NGOs working with refugees in that area to take photos of the refugees’ cards because of the mentioned cases\.
 
 
-![This is a refugee boy who is staying in the outside makeshift camp in Belgrade who witnessed a number of beatings by the police, claiming that even previously Bulgarian police broke his arm\. This is one of the recent photos after encountering the border police\.](assets/38c0815bdec5/1*Znck5D7dZyDSOHIg9MNxVQ.jpeg)
+![This is a refugee boy who is staying in the outside makeshift camp in Belgrade who witnessed a number of beatings by the police, claiming that even previously Bulgarian police broke his arm\. This is one of the recent photos after encountering the border police\.](../assets/38c0815bdec5/1*Znck5D7dZyDSOHIg9MNxVQ.jpeg)
 
 This is a refugee boy who is staying in the outside makeshift camp in Belgrade who witnessed a number of beatings by the police, claiming that even previously Bulgarian police broke his arm\. This is one of the recent photos after encountering the border police\.
 #### CROATIA
@@ -155,7 +154,7 @@ Concluding the letter, **AYS demands that everyone is provided a translator; ade
 The president of Croatia, mrs\. Kolinda Grabar Kitarović recently made several statements in her interview with an Austrian newspaper regarding the refugees, among others that “those who have made their way to Europe were ‘men able to fight’ in the wars there, that she fears for women’s rights because of the amount of Muslims coming to Europe \(stating Afghan men as an example of someone whose respect towards women is an implausible scenario\) and that each EU state needs to decide for itself on taking in refugees\. Considering the fact that AYS is a Croatian based NGO, we must say these are statements from an individual politician — a completely misinformed one, as it reads from the text — and not from someone who represents the people‘s opinions\. We choose to believe if welcoming and providing aid to a human in need were put into question, a different statement would’ve been given by the collective action\. Engagements of a large number of volunteers, organisations and individuals and efforts to persuade institutions to do their job demonstrate a different spirit from the one that the president Grabar Kitarović would like to plant\. We hope \(and strive\) that these thoughts and ideas remain only in the pages of an outdated newspaper\.
 
 
-![Centre for Peace Studies and the Initiative Welcome protested in front of the Croatian Parliament to warn of the new changes in the Aliens Act, that characterize helping foreigners during their stay, transit and illegal border crossing as a criminal offense\. \(Photo: CMS\)](assets/38c0815bdec5/1*-cppefJn49nByHgBcTWBPA.jpeg)
+![Centre for Peace Studies and the Initiative Welcome protested in front of the Croatian Parliament to warn of the new changes in the Aliens Act, that characterize helping foreigners during their stay, transit and illegal border crossing as a criminal offense\. \(Photo: CMS\)](../assets/38c0815bdec5/1*-cppefJn49nByHgBcTWBPA.jpeg)
 
 Centre for Peace Studies and the Initiative Welcome protested in front of the Croatian Parliament to warn of the new changes in the Aliens Act, that characterize helping foreigners during their stay, transit and illegal border crossing as a criminal offense\. \(Photo: CMS\)
 #### GREECE
@@ -175,40 +174,40 @@ Centre for Peace Studies and the Initiative Welcome protested in front of the Cr
 Some 1000 people live in 3 makeshift camps at the former airport and abandoned stadiums, in the Elliniko area, a spot run by the Ministry\. Some refugees shared with us their reality and spoke of the life conditions they have been enduring for a lot of months now…
 
 
-![](assets/38c0815bdec5/1*KtpsAl80_7_nQdlxGKg-kw.jpeg)
+![](../assets/38c0815bdec5/1*KtpsAl80_7_nQdlxGKg-kw.jpeg)
 
 
 
-![](assets/38c0815bdec5/1*_ZsuRzXi_yPpRuCoUo9TFg.jpeg)
+![](../assets/38c0815bdec5/1*_ZsuRzXi_yPpRuCoUo9TFg.jpeg)
 
 
 
-![Photo: AYS](assets/38c0815bdec5/1*pE3KQs4E9UGDiRzj3KxyyA.jpeg)
+![Photo: AYS](../assets/38c0815bdec5/1*pE3KQs4E9UGDiRzj3KxyyA.jpeg)
 
 Photo: AYS
 
 There are no volunteers present and no visits are allowed either — each visitor must be approved by the Ministry, similar to the procedures for visits to prisons\.
 
 
-![](assets/38c0815bdec5/1*LemksJe8jD9SFNrp7AxfjA.jpeg)
+![](../assets/38c0815bdec5/1*LemksJe8jD9SFNrp7AxfjA.jpeg)
 
 
 
-![Photo: AYS](assets/38c0815bdec5/1*Id-Nvbl9N4WafUHcWD4sCA.jpeg)
+![Photo: AYS](../assets/38c0815bdec5/1*Id-Nvbl9N4WafUHcWD4sCA.jpeg)
 
 Photo: AYS
 
 People staying there can leave the premises and need to take the bus to get to the supermarket though a warehouse that most likely has everything they might need is in their reach, but they are not allowed to go there\. So, if these people need something from a warehouse with donations, they have to go to the city centre and get it from another warehouse, about an hour ride away\.
 
 
-![Although this warehouse with plenty of clothes and other things prepared and shipped precisely for these people is just a walk away, it remains out of reach for the Elliniko residents… \(Photo: AYS\)](assets/38c0815bdec5/1*nnblum7jNti0oqb23rkFRw.jpeg)
+![Although this warehouse with plenty of clothes and other things prepared and shipped precisely for these people is just a walk away, it remains out of reach for the Elliniko residents… \(Photo: AYS\)](../assets/38c0815bdec5/1*nnblum7jNti0oqb23rkFRw.jpeg)
 
 Although this warehouse with plenty of clothes and other things prepared and shipped precisely for these people is just a walk away, it remains out of reach for the Elliniko residents… \(Photo: AYS\)
 
 There are a lot of children and babies in the camp\. A small family from Afghanistan got their first child 6 months ago, while staying in the camp\. Until a month ago these people stayed in a small tent\. Now they live in a basement of one of the four stadiums that provides more warmth than the tent, but is still not an appropriate place to raise a newborn baby\.
 
 
-![](assets/38c0815bdec5/1*LXaz-KhYKBqQ3rs8Rv6w3Q.jpeg)
+![](../assets/38c0815bdec5/1*LXaz-KhYKBqQ3rs8Rv6w3Q.jpeg)
 
 
 
@@ -220,7 +219,7 @@ There are a lot of children and babies in the camp\. A small family from Afghani
 All of these people hope the camp will be closed and people moved to a better place\. Either way, they wish someone would help them move from there and ultimately they hope to leave and continue their life journey to a safe place\.
 
 
-![](assets/38c0815bdec5/1*OLYyKVqK_mGN8TgXS16Mog.jpeg)
+![](../assets/38c0815bdec5/1*OLYyKVqK_mGN8TgXS16Mog.jpeg)
 
 ### Attack at the teachers, parents and children
 
@@ -273,7 +272,7 @@ UNHCR has issued their [Weekly report](http://data.unhcr.org/mediterranean/downl
 Despite the mid\-winter weather making sea crossings seriously dangerous, the beginning of 2017 has brought [no sign of decrease](http://www.aljazeera.com/news/2017/01/180-missing-people-presumed-dead-shipwreck-170117092311329.html) in attempts to cross\.
 
 
-![Source: IOM](assets/38c0815bdec5/1*mY5qzGlczXNDiBtAvR-_UQ.jpeg)
+![Source: IOM](../assets/38c0815bdec5/1*mY5qzGlczXNDiBtAvR-_UQ.jpeg)
 
 Source: IOM
 #### FRANCE
@@ -282,7 +281,7 @@ Source: IOM
 Expecting the announced extremely low temperatures, the French have launched ‘Operation Big Cold’ and said they’ll house everyone\- French homeless and migrants\- throughout the cold front, Paris based volunteers report\. They also mention the constant obstructing of their aid providing by the French police, although [they’ve been complaining](http://l.facebook.com/l.php?u=http%3A%2F%2Fpolice.unsa.org%2FIMG%2Fpdf%2F2017-01-12_compresse_violences_imaginaires_associations.pdf&h=ATOUmzzcENzHLozdFY7ZvgqK6Qg0_tLqC43VVGgY4fSbZZBh3cbrZLl4oA03bn2S7Y84e16tjCpCpgqCqC8jkemTyRxF921PZu3i0L8zDrblmd8fdK-T2mbwfvXsXd7WTls) about the accusations made by a number of NGOs about the police violence\.
 
 
-![The police had taken all of the bedding \(provided by us and other aid groups\) from a slightly sheltered sleeping area and put it out in rain…Please [give what you](http://www.gofundme.com/prgsdonate) can so that we can purchase waterproof Bivvy bags and keep up with the French authorities’ destruction \(Photo: [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/?hc_ref=PAGES_TIMELINE) \)](assets/38c0815bdec5/1*N8a-7nLeGv4kPp2LfBjm0w.jpeg)
+![The police had taken all of the bedding \(provided by us and other aid groups\) from a slightly sheltered sleeping area and put it out in rain…Please [give what you](http://www.gofundme.com/prgsdonate) can so that we can purchase waterproof Bivvy bags and keep up with the French authorities’ destruction \(Photo: [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/?hc_ref=PAGES_TIMELINE) \)](../assets/38c0815bdec5/1*N8a-7nLeGv4kPp2LfBjm0w.jpeg)
 
 The police had taken all of the bedding \(provided by us and other aid groups\) from a slightly sheltered sleeping area and put it out in rain…Please [give what you](http://www.gofundme.com/prgsdonate) can so that we can purchase waterproof Bivvy bags and keep up with the French authorities’ destruction \(Photo: [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/?hc_ref=PAGES_TIMELINE) \)
 

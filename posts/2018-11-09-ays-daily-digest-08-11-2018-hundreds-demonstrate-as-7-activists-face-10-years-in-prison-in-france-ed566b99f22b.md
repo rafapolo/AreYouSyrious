@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 08/11/2018: Hundreds Demonstrate as 7 Activists face 10 years in Prison in France
+title: "AYS Daily Digest 08/11/2018: Hundreds Demonstrate as 7 Activists face 10 years in Prison in France"
 author: Are You Syrious?
 date: 2018-11-09T22:27:51.541+0000
 last_modified_at: 2018-11-09T22:27:51.541+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,human-rights,greece,italy]
 description: Rescues and Interceptions at Sea// 124 refugees repatriated from Libya to Somalia//Arrivals in Greece//Situation on Samos…
 image:
-  path: assets/ed566b99f22b/1*lcsxdxdh2qY8_kDup16OTA.jpeg
+  path: ../assets/ed566b99f22b/1*lcsxdxdh2qY8_kDup16OTA.jpeg
 ---
 
 ### AYS Daily Digest 08/11/2018: Hundreds Demonstrate as 7 Activists face 10 years in Prison in France
@@ -15,7 +15,7 @@ image:
 Rescues and Interceptions at Sea// 124 refugees repatriated from Libya to Somalia//Arrivals in Greece//Situation on Samos Deteriorating//Italy Passes Tough Anti\-Migrant and security Legislation ‘Salvini Decree’//People returning to Grand Synthe// and More…
 
 
-![Source: [Chez Jesus — Rifugio Autogestito](https://www.facebook.com/Chez-Jesus-Rifugio-Autogestito-362786637540072/?tn-str=k%2AF)](assets/ed566b99f22b/1*lcsxdxdh2qY8_kDup16OTA.jpeg)
+![Source: [Chez Jesus — Rifugio Autogestito](https://www.facebook.com/Chez-Jesus-Rifugio-Autogestito-362786637540072/?tn-str=k%2AF)](../assets/ed566b99f22b/1*lcsxdxdh2qY8_kDup16OTA.jpeg)
 
 Source: [Chez Jesus — Rifugio Autogestito](https://www.facebook.com/Chez-Jesus-Rifugio-Autogestito-362786637540072/?tn-str=k%2AF)
 #### FEATURE: Hundreds demonstrate as seven protesters in France face 10 years in prison and 750,000 € in fines for ‘aiding illegal immigration and organized gangs’
@@ -41,22 +41,22 @@ In Briançon, three people were arrested and jailed for 11 days and charged with
 The trial took place today\.
 
 
-![](assets/ed566b99f22b/1*x3n2MaEItdNUQJfsDCJ6gw.jpeg)
+![](../assets/ed566b99f22b/1*x3n2MaEItdNUQJfsDCJ6gw.jpeg)
 
 
 
-![[Chez Jesus — Rifugio Autogestito](https://www.facebook.com/Chez-Jesus-Rifugio-Autogestito-362786637540072/?tn-str=k%2AF)](assets/ed566b99f22b/1*JWV5Kmp3UauUGh9YmRtpHA.jpeg)
+![[Chez Jesus — Rifugio Autogestito](https://www.facebook.com/Chez-Jesus-Rifugio-Autogestito-362786637540072/?tn-str=k%2AF)](../assets/ed566b99f22b/1*JWV5Kmp3UauUGh9YmRtpHA.jpeg)
 
 [Chez Jesus — Rifugio Autogestito](https://www.facebook.com/Chez-Jesus-Rifugio-Autogestito-362786637540072/?tn-str=k%2AF)
 
 Over 1000 people attended the trial to demonstrate in support of the seven people who were arrested for attempting to cross the Italy/France border\.
 
 
-![](assets/ed566b99f22b/1*-rv4g0QggNp2RoKHrOGVEA.jpeg)
+![](../assets/ed566b99f22b/1*-rv4g0QggNp2RoKHrOGVEA.jpeg)
 
 
 
-![[Collectif Soutien Migrants 13 / El Manba](https://www.facebook.com/collectifmigrants13/?__tn__=%2CdkCH-R-R&eid=ARBeN1-2d4VyaxtOYFY5ykK488l7e74BW5uYl5ALvcmwuLh4afqeqMgGhfdx9d5Hi6FOY5abkF682IzI&hc_ref=ART_nOAigTlT5F2ITOOs9YPLB9lgmTfq9r-OKbI-COqjs7d1v4nKhHNnLhzzO_CttZo&fref=nf)](assets/ed566b99f22b/1*z0DNwTzKgiWvM9LLFutbrA.jpeg)
+![[Collectif Soutien Migrants 13 / El Manba](https://www.facebook.com/collectifmigrants13/?__tn__=%2CdkCH-R-R&eid=ARBeN1-2d4VyaxtOYFY5ykK488l7e74BW5uYl5ALvcmwuLh4afqeqMgGhfdx9d5Hi6FOY5abkF682IzI&hc_ref=ART_nOAigTlT5F2ITOOs9YPLB9lgmTfq9r-OKbI-COqjs7d1v4nKhHNnLhzzO_CttZo&fref=nf)](../assets/ed566b99f22b/1*z0DNwTzKgiWvM9LLFutbrA.jpeg)
 
 [Collectif Soutien Migrants 13 / El Manba](https://www.facebook.com/collectifmigrants13/?__tn__=%2CdkCH-R-R&eid=ARBeN1-2d4VyaxtOYFY5ykK488l7e74BW5uYl5ALvcmwuLh4afqeqMgGhfdx9d5Hi6FOY5abkF682IzI&hc_ref=ART_nOAigTlT5F2ITOOs9YPLB9lgmTfq9r-OKbI-COqjs7d1v4nKhHNnLhzzO_CttZo&fref=nf)
 
@@ -67,7 +67,7 @@ Over 1000 people attended the trial to demonstrate in support of the seven peopl
 
 
 
-![[Collectif Soutien Migrants 13 / El Manba](https://www.facebook.com/collectifmigrants13/?__tn__=%2CdkCH-R-R&eid=ARBeN1-2d4VyaxtOYFY5ykK488l7e74BW5uYl5ALvcmwuLh4afqeqMgGhfdx9d5Hi6FOY5abkF682IzI&hc_ref=ART_nOAigTlT5F2ITOOs9YPLB9lgmTfq9r-OKbI-COqjs7d1v4nKhHNnLhzzO_CttZo&fref=nf)](assets/ed566b99f22b/1*x7mkSF4350FW7Co1sbu6Bw.jpeg)
+![[Collectif Soutien Migrants 13 / El Manba](https://www.facebook.com/collectifmigrants13/?__tn__=%2CdkCH-R-R&eid=ARBeN1-2d4VyaxtOYFY5ykK488l7e74BW5uYl5ALvcmwuLh4afqeqMgGhfdx9d5Hi6FOY5abkF682IzI&hc_ref=ART_nOAigTlT5F2ITOOs9YPLB9lgmTfq9r-OKbI-COqjs7d1v4nKhHNnLhzzO_CttZo&fref=nf)](../assets/ed566b99f22b/1*x7mkSF4350FW7Co1sbu6Bw.jpeg)
 
 [Collectif Soutien Migrants 13 / El Manba](https://www.facebook.com/collectifmigrants13/?__tn__=%2CdkCH-R-R&eid=ARBeN1-2d4VyaxtOYFY5ykK488l7e74BW5uYl5ALvcmwuLh4afqeqMgGhfdx9d5Hi6FOY5abkF682IzI&hc_ref=ART_nOAigTlT5F2ITOOs9YPLB9lgmTfq9r-OKbI-COqjs7d1v4nKhHNnLhzzO_CttZo&fref=nf)
 #### MOROCCO
@@ -173,7 +173,7 @@ Arrived in the evening on Samos\.
 Two people living in Moria, Javad and Reza, have submitted a one\-minute movie to the Mobile Film Festival\. It has been selected as one of the top 51 best submissions\.
 
 
-![](assets/ed566b99f22b/1*9Z-jH6lAlOCanueC_d4llw.jpeg)
+![](../assets/ed566b99f22b/1*9Z-jH6lAlOCanueC_d4llw.jpeg)
 
 
 If they are able to reach the top 10 of most youtube views by November 15 they will be invited to the gala awards in Paris and may be able to win 20,000 euro prize money to make a feature length film\.
@@ -192,7 +192,7 @@ If they are able to reach the top 10 of most youtube views by November 15 they w
 
 
 
-[![Children of Moria - Mobile Film Festival - #StandUp4HumanRights](assets/ed566b99f22b/b073_hqdefault.jpg "Children of Moria - Mobile Film Festival - #StandUp4HumanRights")](http://www.youtube.com/watch?v=oxp_hajbyMs)
+[![Children of Moria - Mobile Film Festival - #StandUp4HumanRights](../assets/ed566b99f22b/b073_hqdefault.jpg "Children of Moria - Mobile Film Festival - #StandUp4HumanRights")](http://www.youtube.com/watch?v=oxp_hajbyMs)
 
 
 **Conditions on Samos are Getting Worse**

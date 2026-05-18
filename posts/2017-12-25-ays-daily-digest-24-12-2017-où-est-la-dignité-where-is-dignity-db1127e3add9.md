@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 24/12/2017: Où est la dignité/Where is dignity?
+title: "AYS DAILY DIGEST 24/12/2017: Où est la dignité/Where is dignity?"
 author: Are You Syrious?
 date: 2017-12-25T10:41:37.540+0000
 last_modified_at: 2017-12-25T10:41:37.540+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,moria,calais,italy,european-union]
 description: Images of Europe on the Christmas Eve are not something to be proud of // More people rescued in the Sea // Migrant died on the train from…
 image:
-  path: assets/db1127e3add9/1*vpO2ApQ87mPEPs78sRSgfg.jpeg
+  path: ../assets/db1127e3add9/1*vpO2ApQ87mPEPs78sRSgfg.jpeg
 ---
 
 ### AYS DAILY DIGEST 24/12/2017: Où est la dignité/Where is dignity?
@@ -15,7 +15,7 @@ image:
 _Images of Europe on the Christmas Eve are not something to be proud of // More people rescued in the Sea // Migrant died on the train from Italy to Austria // More restrictive measures from Austria // And more from France, Belgium, Italy, Greece…_
 
 
-![“We want documents\!” Foto di Daniele Napolitano/ collettivo Messafuoco Immagini in Lotta](assets/db1127e3add9/1*vpO2ApQ87mPEPs78sRSgfg.jpeg)
+![“We want documents\!” Foto di Daniele Napolitano/ collettivo Messafuoco Immagini in Lotta](../assets/db1127e3add9/1*vpO2ApQ87mPEPs78sRSgfg.jpeg)
 
 “We want documents\!” Foto di Daniele Napolitano/ collettivo Messafuoco Immagini in Lotta
 ### Feature
@@ -23,19 +23,19 @@ _Images of Europe on the Christmas Eve are not something to be proud of // More 
 It is holiday time, but tens of thousands of people in Europe are homeless or living in hard to bear conditions\. People are trapped in Greek islands, thousands, many are homeless on mainland;
 
 
-![](assets/db1127e3add9/1*VGbkLFwfrI8EuFFoWlvUVQ.jpeg)
+![](../assets/db1127e3add9/1*VGbkLFwfrI8EuFFoWlvUVQ.jpeg)
 
 
 
-![](assets/db1127e3add9/1*c6ZuW_D6Takf7uYP5isj2w.jpeg)
+![](../assets/db1127e3add9/1*c6ZuW_D6Takf7uYP5isj2w.jpeg)
 
 
 
-![](assets/db1127e3add9/1*7qsBRS3wfKVmHJEFYV1_oQ.jpeg)
+![](../assets/db1127e3add9/1*7qsBRS3wfKVmHJEFYV1_oQ.jpeg)
 
 
 
-![Vial, morning\. Photo by [**Georgouli Vicky**](https://www.facebook.com/georgouli.vicky?hc_ref=ARTqztoa98MoMC6WGnSOOIYirQkBjTgVGEzgUxqxVe4_40fh-Dn121QLryzQMHBWkmM)](assets/db1127e3add9/1*P5bBwVF8I0i21zzwt_pedA.jpeg)
+![Vial, morning\. Photo by [**Georgouli Vicky**](https://www.facebook.com/georgouli.vicky?hc_ref=ARTqztoa98MoMC6WGnSOOIYirQkBjTgVGEzgUxqxVe4_40fh-Dn121QLryzQMHBWkmM)](../assets/db1127e3add9/1*P5bBwVF8I0i21zzwt_pedA.jpeg)
 
 Vial, morning\. Photo by [**Georgouli Vicky**](https://www.facebook.com/georgouli.vicky?hc_ref=ARTqztoa98MoMC6WGnSOOIYirQkBjTgVGEzgUxqxVe4_40fh-Dn121QLryzQMHBWkmM)
 
@@ -66,7 +66,7 @@ According to estimates, about 400,000 migrants are in Libya, including roughly 3
 Even last night, while many people were celebrating, those who are running from wars and poverty, were trying to come to Europe\.
 
 
-![Photo by Federica Mameli/Sos Mediterranee](assets/db1127e3add9/1*63kLKhsN68lgE818B1_ePg.jpeg)
+![Photo by Federica Mameli/Sos Mediterranee](../assets/db1127e3add9/1*63kLKhsN68lgE818B1_ePg.jpeg)
 
 Photo by Federica Mameli/Sos Mediterranee
 
@@ -91,7 +91,7 @@ Help is needed in Chios\. There are so many children and not enough diapers\.
 No more walking delivered over 20,000 diapers and 1,800 boxes of baby wipes in the last couple of months, and they want to continue this mission\.
 
 
-![](assets/db1127e3add9/1*06EFnyb5WGNdE7vgaKOzmw.png)
+![](../assets/db1127e3add9/1*06EFnyb5WGNdE7vgaKOzmw.png)
 
 
 _“They are now raising funds for the next shipment which is the rate that diapers are needed will need to be really soon\! We get the diapers at an unbeatable price from a small family business in Greece\.”_
@@ -174,7 +174,7 @@ After the emergency meeting, the Prime Minister Charles Michel, suspended deport
 
 
 
-![Photo Holes in the Borders\.](assets/db1127e3add9/1*VHZq5cakZxXwjBXJhFz-aQ.jpeg)
+![Photo Holes in the Borders\.](../assets/db1127e3add9/1*VHZq5cakZxXwjBXJhFz-aQ.jpeg)
 
 Photo Holes in the Borders\.
 

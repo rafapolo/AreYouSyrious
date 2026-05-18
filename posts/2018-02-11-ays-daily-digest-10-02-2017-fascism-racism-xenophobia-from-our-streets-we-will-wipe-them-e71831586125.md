@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 10/02/2017: “Fascism, racism, xenophobia, we will wipe them off our streets!”
+title: "AYS Daily Digest 10/02/2017: “Fascism, racism, xenophobia, we will wipe them off our streets!”"
 author: Are You Syrious?
 date: 2018-02-11T09:53:05.252+0000
 last_modified_at: 2018-03-01T13:33:05.289+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,bosnia,human-rights,italy,digest]
 description: Anti-racism demonstration draws 40,000 in Italy! // Interceptions in Greece, escalating violent pushbacks at the Greek-Turkish border…
 image:
-  path: assets/e71831586125/1*Wc_peZcT9-upMEBBbsWAkA.jpeg
+  path: ../assets/e71831586125/1*Wc_peZcT9-upMEBBbsWAkA.jpeg
 ---
 
 ### AYS Daily Digest 10/02/2017: “Fascism, racism, xenophobia, we will wipe them off our streets\!” Whose streets are these — a reminder\.
@@ -15,7 +15,7 @@ image:
 _Anti\-racism demonstration draws 40,000 in Italy\! // Interceptions in Greece, escalating violent pushbacks at the Greek\-Turkish border, citizens band together to support people outside the system // Velika Kladuša, Bosnia in need of humanitarian aid for increasing numbers of people\. // Salvage operations in the wake of police evacuations in Paris // Squat supports people trapped in a bureaucratic void\._
 
 
-![](assets/e71831586125/1*Wc_peZcT9-upMEBBbsWAkA.jpeg)
+![](../assets/e71831586125/1*Wc_peZcT9-upMEBBbsWAkA.jpeg)
 
 ### FEATURE: Wiping hate off the streets, a call to action\!
 
@@ -26,7 +26,7 @@ Indeed you read that correctly, in response to an attack by an Italian man, poli
 However, yesterday, tens of thousands of people took to the streets to protest this escalating tension\.
 
 
-![Protest in Macerata\. Photo credit: [**Csa Sisma**](https://www.facebook.com/CSASISMA/)](assets/e71831586125/1*ih0PdfODr4IjT8aMH3yuDA.jpeg)
+![Protest in Macerata\. Photo credit: [**Csa Sisma**](https://www.facebook.com/CSASISMA/)](../assets/e71831586125/1*ih0PdfODr4IjT8aMH3yuDA.jpeg)
 
 Protest in Macerata\. Photo credit: [**Csa Sisma**](https://www.facebook.com/CSASISMA/)
 
@@ -46,7 +46,7 @@ Estimates place the protestors at around 40,000, and the largest demonstration t
 
 
 
-![Photo from the protest\. Photo credit: [**Csa Sisma**](https://www.facebook.com/CSASISMA/)](assets/e71831586125/1*fl4W9UxBPrCJNAvOLhw80w.jpeg)
+![Photo from the protest\. Photo credit: [**Csa Sisma**](https://www.facebook.com/CSASISMA/)](../assets/e71831586125/1*fl4W9UxBPrCJNAvOLhw80w.jpeg)
 
 Photo from the protest\. Photo credit: [**Csa Sisma**](https://www.facebook.com/CSASISMA/)
 
@@ -59,7 +59,7 @@ If you have the time, a local television station posted a live feed lasting two 
 At least one other solidarity protest \(shared with the statement “Solidarity without Borders”\) was held in [Milan, Italy](https://www.google.hr/maps?q=Milan,+Italy&um=1&ie=UTF-8&sa=X&ved=0ahUKEwiI9Z3xsJ3ZAhUKzKQKHQDMBX0Q_AUICygC) \. Protestors shouted slogans including “Fascism, racism, xenophobia, we will wipe them off our streets\!”
 
 
-![Protest in Milan Photo credit: [**Mshikamano**](https://www.facebook.com/associazionemshikamano/)](assets/e71831586125/1*qIBSGqLsPfKaddDO4LtmMw.jpeg)
+![Protest in Milan Photo credit: [**Mshikamano**](https://www.facebook.com/associazionemshikamano/)](../assets/e71831586125/1*qIBSGqLsPfKaddDO4LtmMw.jpeg)
 
 Protest in Milan Photo credit: [**Mshikamano**](https://www.facebook.com/associazionemshikamano/)
 
@@ -67,7 +67,7 @@ As the bad news piles up, it is tempting to become paralyzed, to forget that the
 ### GREECE
 
 
-![The boat intercepted towards Kos\. Terrifying winter waters\. Photo credit: ABR](assets/e71831586125/1*B8PeJY1HMNlK18_o1G8Vlw.jpeg)
+![The boat intercepted towards Kos\. Terrifying winter waters\. Photo credit: ABR](../assets/e71831586125/1*B8PeJY1HMNlK18_o1G8Vlw.jpeg)
 
 The boat intercepted towards Kos\. Terrifying winter waters\. Photo credit: ABR
 
@@ -76,7 +76,7 @@ According to [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/post
 Conditions in Vial remain appalling, with a shortage of coats, gloves, socks, and other winter wear\. Long\-term volunteer Ruhi Loren recently published [heartrending stories from the camp](https://www.facebook.com/ruhi.akhtar.7/posts/1922345997782299) \.
 
 
-![Photo credit: Ruhi Loren](assets/e71831586125/1*_ZFo6B1EcCfzqtVXLytipA.jpeg)
+![Photo credit: Ruhi Loren](../assets/e71831586125/1*_ZFo6B1EcCfzqtVXLytipA.jpeg)
 
 Photo credit: Ruhi Loren
 
@@ -170,7 +170,7 @@ _As a general reminder to those interested in assisting — Bosnia and Herzegovi
 Snow has turned to rain in Paris, but this thaw provides little relief as wet clothing can kill\. Again, volunteers are encouraged to educate themselves on spotting hypothermia\. “Juares Canal now in Paris: weather is sh\*t\. \. raining and windy… but most tents have extra cover and they are mostly well covered”
 
 
-![Photo credit: AYS](assets/e71831586125/1*hA3vesrweRmcyz9DQME0qg.jpeg)
+![Photo credit: AYS](../assets/e71831586125/1*hA3vesrweRmcyz9DQME0qg.jpeg)
 
 Photo credit: AYS
 
@@ -183,14 +183,14 @@ _So we spent the whole bloody night salvaging\. We’ve packed every single empt
 _Now we have a mountain nearly up to the ceiling of dirty laundry\.”_
 
 
-![](assets/e71831586125/1*4kAVicnl4w1qlzwvf242Jw.jpeg)
+![](../assets/e71831586125/1*4kAVicnl4w1qlzwvf242Jw.jpeg)
 
 
 Although Paris was a site of critical need this week, one must not forget the needs of those in Calais\. Above is a flyer with the most urgently\-needed winter items\.
 ### NETHERLANDS
 
 
-![Photo credit: Wir Zijn Hier](assets/e71831586125/1*MyDZcAH5GVk6ostPHJKSlw.jpeg)
+![Photo credit: Wir Zijn Hier](../assets/e71831586125/1*MyDZcAH5GVk6ostPHJKSlw.jpeg)
 
 Photo credit: Wir Zijn Hier
 

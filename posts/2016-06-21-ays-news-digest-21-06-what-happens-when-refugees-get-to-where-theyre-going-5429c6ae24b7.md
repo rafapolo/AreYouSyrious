@@ -1,5 +1,5 @@
 ---
-title: AYS NEWS DIGEST 21/06: What Happens When Refugees Get To Where They’re Going?
+title: "AYS NEWS DIGEST 21/06: What Happens When Refugees Get To Where They’re Going?"
 author: Are You Syrious?
 date: 2016-06-21T21:17:13.570+0100
 last_modified_at: 2016-06-21T21:17:15.566+0100
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe,syria]
 description: General
 image:
-  path: assets/5429c6ae24b7/1*ErgrPfFgnecopo8hsprB4w.jpeg
+  path: ../assets/5429c6ae24b7/1*ErgrPfFgnecopo8hsprB4w.jpeg
 ---
 
 ### AYS NEWS DIGEST 21/06: What Happens When Refugees Get To Where They’re Going?
 
 
-![Credits: [**Geo Messmer**](https://www.facebook.com/DaGeo?fref=photo)](assets/5429c6ae24b7/1*ErgrPfFgnecopo8hsprB4w.jpeg)
+![Credits: [**Geo Messmer**](https://www.facebook.com/DaGeo?fref=photo)](../assets/5429c6ae24b7/1*ErgrPfFgnecopo8hsprB4w.jpeg)
 
 Credits: [**Geo Messmer**](https://www.facebook.com/DaGeo?fref=photo)
 #### General
@@ -134,7 +134,7 @@ Credits: [**Geo Messmer**](https://www.facebook.com/DaGeo?fref=photo)
 
 
 
-![Credits: [**Frédérique Geffard**](https://twitter.com/fgeffardAFP)](assets/5429c6ae24b7/1*x6NOMITMQ4qQPM6OS8MYtQ.jpeg)
+![Credits: [**Frédérique Geffard**](https://twitter.com/fgeffardAFP)](../assets/5429c6ae24b7/1*x6NOMITMQ4qQPM6OS8MYtQ.jpeg)
 
 Credits: [**Frédérique Geffard**](https://twitter.com/fgeffardAFP)
 #### Afghanistan
@@ -199,7 +199,7 @@ Credits: [**Frédérique Geffard**](https://twitter.com/fgeffardAFP)
 
 
 
-![Credits: AP photo](assets/5429c6ae24b7/1*EdyoCpOEYwdqpJC7Z05qkg.jpeg)
+![Credits: AP photo](../assets/5429c6ae24b7/1*EdyoCpOEYwdqpJC7Z05qkg.jpeg)
 
 Credits: AP photo
 #### Greece
@@ -208,16 +208,16 @@ Credits: AP photo
 UNHCR and EASO started the pre\-registration of refugees in Nea Kavala\.
 
 
-![](assets/5429c6ae24b7/1*oEIJwTeqAZQ8CQDW7iAj_w.jpeg)
+![](../assets/5429c6ae24b7/1*oEIJwTeqAZQ8CQDW7iAj_w.jpeg)
 
 
 
-![Credits: [**Chris Kyle**](https://www.facebook.com/profile.php?id=100005171472798&fref=photo)](assets/5429c6ae24b7/1*KnWZFAqbOYFStwF_f_4TEg.jpeg)
+![Credits: [**Chris Kyle**](https://www.facebook.com/profile.php?id=100005171472798&fref=photo)](../assets/5429c6ae24b7/1*KnWZFAqbOYFStwF_f_4TEg.jpeg)
 
 Credits: [**Chris Kyle**](https://www.facebook.com/profile.php?id=100005171472798&fref=photo)
 
 
-![Cedits: [**Chris Kyle**](https://www.facebook.com/profile.php?id=100005171472798&fref=photo)](assets/5429c6ae24b7/1*aC1wfl-Uq2JWcs8Q-DidtQ.jpeg)
+![Cedits: [**Chris Kyle**](https://www.facebook.com/profile.php?id=100005171472798&fref=photo)](../assets/5429c6ae24b7/1*aC1wfl-Uq2JWcs8Q-DidtQ.jpeg)
 
 Cedits: [**Chris Kyle**](https://www.facebook.com/profile.php?id=100005171472798&fref=photo)
 ### VOLUNTEERS needed: Thessaloniki, Greece
@@ -237,22 +237,22 @@ Cedits: [**Chris Kyle**](https://www.facebook.com/profile.php?id=100005171472798
 ### Images of one Thessaloniki Sindos\-Frakaport camp
 
 
-![Credits: [**Geo Messmer**](https://www.facebook.com/DaGeo?fref=photo)](assets/5429c6ae24b7/1*ErgrPfFgnecopo8hsprB4w.jpeg)
+![Credits: [**Geo Messmer**](https://www.facebook.com/DaGeo?fref=photo)](../assets/5429c6ae24b7/1*ErgrPfFgnecopo8hsprB4w.jpeg)
 
 Credits: [**Geo Messmer**](https://www.facebook.com/DaGeo?fref=photo)
 
 
-![Credits: [**Geo Messmer**](https://www.facebook.com/DaGeo?fref=photo)](assets/5429c6ae24b7/1*eVR8Eh5e8fswE8r-FILLkw.jpeg)
+![Credits: [**Geo Messmer**](https://www.facebook.com/DaGeo?fref=photo)](../assets/5429c6ae24b7/1*eVR8Eh5e8fswE8r-FILLkw.jpeg)
 
 Credits: [**Geo Messmer**](https://www.facebook.com/DaGeo?fref=photo)
 
 
-![Credits: [**Geo Messmer**](https://www.facebook.com/DaGeo?fref=photo)](assets/5429c6ae24b7/1*drVJv0YSSjrBrEaNOhKZsA.jpeg)
+![Credits: [**Geo Messmer**](https://www.facebook.com/DaGeo?fref=photo)](../assets/5429c6ae24b7/1*drVJv0YSSjrBrEaNOhKZsA.jpeg)
 
 Credits: [**Geo Messmer**](https://www.facebook.com/DaGeo?fref=photo)
 
 
-![Credits: [**Geo Messmer**](https://www.facebook.com/DaGeo?fref=photo)](assets/5429c6ae24b7/1*WaIkPPJWFidDMAilm-0coA.jpeg)
+![Credits: [**Geo Messmer**](https://www.facebook.com/DaGeo?fref=photo)](../assets/5429c6ae24b7/1*WaIkPPJWFidDMAilm-0coA.jpeg)
 
 Credits: [**Geo Messmer**](https://www.facebook.com/DaGeo?fref=photo)
 ### Donations needed in Athens
@@ -314,41 +314,41 @@ Credits: [**Geo Messmer**](https://www.facebook.com/DaGeo?fref=photo)
 ### Celebrating World Refugee Day on Lesbos
 
 
-![](assets/5429c6ae24b7/1*lJa0B7BXz5K9dAysmnIoNQ.jpeg)
+![](../assets/5429c6ae24b7/1*lJa0B7BXz5K9dAysmnIoNQ.jpeg)
 
 
 
-![Credits: [**Félix Brassier**](https://www.facebook.com/felix.brassier.5?fref=photo)](assets/5429c6ae24b7/1*nGw0t76lsc3ETZ5gTkjUTA.jpeg)
-
-Credits: [**Félix Brassier**](https://www.facebook.com/felix.brassier.5?fref=photo)
-
-
-![Credits: [**Félix Brassier**](https://www.facebook.com/felix.brassier.5?fref=photo)](assets/5429c6ae24b7/1*wxBWL2iER8agJz3sokG5nw.jpeg)
+![Credits: [**Félix Brassier**](https://www.facebook.com/felix.brassier.5?fref=photo)](../assets/5429c6ae24b7/1*nGw0t76lsc3ETZ5gTkjUTA.jpeg)
 
 Credits: [**Félix Brassier**](https://www.facebook.com/felix.brassier.5?fref=photo)
 
 
-![Credits: [**Félix Brassier**](https://www.facebook.com/felix.brassier.5?fref=photo)](assets/5429c6ae24b7/1*0fN1cHKoLA0TMM775EbwuQ.jpeg)
+![Credits: [**Félix Brassier**](https://www.facebook.com/felix.brassier.5?fref=photo)](../assets/5429c6ae24b7/1*wxBWL2iER8agJz3sokG5nw.jpeg)
 
 Credits: [**Félix Brassier**](https://www.facebook.com/felix.brassier.5?fref=photo)
 
 
-![Credits: [**Félix Brassier**](https://www.facebook.com/felix.brassier.5?fref=photo)](assets/5429c6ae24b7/1*Dl9E1jOhYJC2f-o8oNUZYA.jpeg)
+![Credits: [**Félix Brassier**](https://www.facebook.com/felix.brassier.5?fref=photo)](../assets/5429c6ae24b7/1*0fN1cHKoLA0TMM775EbwuQ.jpeg)
 
 Credits: [**Félix Brassier**](https://www.facebook.com/felix.brassier.5?fref=photo)
 
 
-![Credits: [**Félix Brassier**](https://www.facebook.com/felix.brassier.5?fref=photo)](assets/5429c6ae24b7/1*HRBEalsCJlUH1c6Xyz0UOg.jpeg)
+![Credits: [**Félix Brassier**](https://www.facebook.com/felix.brassier.5?fref=photo)](../assets/5429c6ae24b7/1*Dl9E1jOhYJC2f-o8oNUZYA.jpeg)
+
+Credits: [**Félix Brassier**](https://www.facebook.com/felix.brassier.5?fref=photo)
+
+
+![Credits: [**Félix Brassier**](https://www.facebook.com/felix.brassier.5?fref=photo)](../assets/5429c6ae24b7/1*HRBEalsCJlUH1c6Xyz0UOg.jpeg)
 
 Credits: [**Félix Brassier**](https://www.facebook.com/felix.brassier.5?fref=photo)
 ### Summary statement of refugee flows in Greece, June 21, 2016
 
 
-![](assets/5429c6ae24b7/1*-p3zplNnDi4HNtFRwaLgdA.jpeg)
+![](../assets/5429c6ae24b7/1*-p3zplNnDi4HNtFRwaLgdA.jpeg)
 
 
 
-![](assets/5429c6ae24b7/1*y-wmUQoH5K9lY-0Uv7opZQ.jpeg)
+![](../assets/5429c6ae24b7/1*y-wmUQoH5K9lY-0Uv7opZQ.jpeg)
 
 #### Mediterranean
 ### Sea Watch is expanding its actions with Sea Watch Air
@@ -367,7 +367,7 @@ Credits: [**Félix Brassier**](https://www.facebook.com/felix.brassier.5?fref=ph
 
 
 
-![Credits: [**Sea\-Watch**](https://www.facebook.com/seawatchprojekt/?fref=nf)](assets/5429c6ae24b7/1*AafMTZYFQgaWeiu4Wx3zyA.jpeg)
+![Credits: [**Sea\-Watch**](https://www.facebook.com/seawatchprojekt/?fref=nf)](../assets/5429c6ae24b7/1*AafMTZYFQgaWeiu4Wx3zyA.jpeg)
 
 Credits: [**Sea\-Watch**](https://www.facebook.com/seawatchprojekt/?fref=nf)
 #### Germany
@@ -468,7 +468,7 @@ Credits: [**Sea\-Watch**](https://www.facebook.com/seawatchprojekt/?fref=nf)
 
 
 
-![Rabbi Jacobi on the bottom right\. He would never see his parents again\. Credits: Rabbi Jacobi](assets/5429c6ae24b7/1*D4XMNhV8MGpIOmpsZ8Qjcg.jpeg)
+![Rabbi Jacobi on the bottom right\. He would never see his parents again\. Credits: Rabbi Jacobi](../assets/5429c6ae24b7/1*D4XMNhV8MGpIOmpsZ8Qjcg.jpeg)
 
 Rabbi Jacobi on the bottom right\. He would never see his parents again\. Credits: Rabbi Jacobi
 #### Weather forecast

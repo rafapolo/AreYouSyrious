@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 6/11/17: Italian-funded Libyan Coast Guard Causes 5 Deaths in the Mediterranean
+title: "AYS Daily Digest 6/11/17: Italian-funded Libyan Coast Guard Causes 5 Deaths in the Mediterranean"
 author: Are You Syrious?
 date: 2017-11-07T01:15:19.060+0000
 last_modified_at: 2017-11-07T12:13:29.616+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,hate-crimes,libya,lesvos,rescue]
 description: //MSF reports 4 additional deaths//Traffickers investigated in Italy//Toxic food On Samos//Fights and Protests on Lesvos//Open Letter to EU…
 image:
-  path: assets/4c234bd2e913/1*4p3MusoVR2rZGFuvC4Qa7g.jpeg
+  path: ../assets/4c234bd2e913/1*4p3MusoVR2rZGFuvC4Qa7g.jpeg
 ---
 
 ### AYS Daily Digest 6/11/17: Italian\-funded Libyan Coast Guard Causes 5 Deaths in the Mediterranean
@@ -15,7 +15,7 @@ image:
 _//MSF reports 4 additional deaths//Traffickers investigated in Italy//Toxic food On Samos//Fights and Protests on Lesvos//Open Letter to EU demands action on Chios//Abuse in Greek detention centers//Hunger strike continues in Athens//Near\-daily hate crimes in Germany//Urgent needs in France/New initiative from Amsterdam_
 
 
-![The Sea\-Watch rescue is interrupted by the Libyan Coast Guard\. Photo Credit: [Sea\-Watch](https://www.facebook.com/seawatchprojekt/)](assets/4c234bd2e913/1*4p3MusoVR2rZGFuvC4Qa7g.jpeg)
+![The Sea\-Watch rescue is interrupted by the Libyan Coast Guard\. Photo Credit: [Sea\-Watch](https://www.facebook.com/seawatchprojekt/)](../assets/4c234bd2e913/1*4p3MusoVR2rZGFuvC4Qa7g.jpeg)
 
 The Sea\-Watch rescue is interrupted by the Libyan Coast Guard\. Photo Credit: [Sea\-Watch](https://www.facebook.com/seawatchprojekt/)
 ### FEATURE
@@ -119,7 +119,7 @@ A spokeswoman for the city of Salerno has [announced](https://www.thelocal.it/20
 According to IOM statistics, 2,839 people have died this year while attempting the crossing to Italy\. How many of these deaths can also be considered murders, and how many of the killers have their offices in Brussels and Rome? Are the Italian authorities who sign treaties and knowingly cooperate with murderous regimes not just as guilty as those that do the killing?
 
 
-![A boat rescue off the coast of Italy\. Photo Credit: [MaydayTerraneo](https://www.facebook.com/pg/MAYDAYTERRANEO/about/?ref=page_internal)](assets/4c234bd2e913/1*7ppq1Rg1kDX1dIWbI2N8cg.jpeg)
+![A boat rescue off the coast of Italy\. Photo Credit: [MaydayTerraneo](https://www.facebook.com/pg/MAYDAYTERRANEO/about/?ref=page_internal)](../assets/4c234bd2e913/1*7ppq1Rg1kDX1dIWbI2N8cg.jpeg)
 
 A boat rescue off the coast of Italy\. Photo Credit: [MaydayTerraneo](https://www.facebook.com/pg/MAYDAYTERRANEO/about/?ref=page_internal)
 
@@ -128,7 +128,7 @@ According to a recent [report](https://www.facebook.com/watchthemed.alarmphone/p
 #### Islands
 
 
-![Abandoned life jackets on the shore of Lesvos\. Photo Credit: [Refugees 4 Refugees](https://refugee4refugees.org)](assets/4c234bd2e913/1*2YwNZuh1uw0FO0PQiY3DaQ.jpeg)
+![Abandoned life jackets on the shore of Lesvos\. Photo Credit: [Refugees 4 Refugees](https://refugee4refugees.org)](../assets/4c234bd2e913/1*2YwNZuh1uw0FO0PQiY3DaQ.jpeg)
 
 Abandoned life jackets on the shore of Lesvos\. Photo Credit: [Refugees 4 Refugees](https://refugee4refugees.org)
 #### New Arrivals
@@ -152,7 +152,7 @@ Chaos [twitter.com/amna_news/stat…](https://twitter.com/amna_news/status/92759
 A refugee on the island of Samos recently posted a photograph of the food the Greek authorities are giving to people in the camp there\. The photograph shows a moldy piece of bread topped with moldy cheese\. Like the food served in many of the Greek hotspots, the food served on Samos is frequently unsafe to eat and undernourishing\. The authorities on the island have been known to serve stewed potatoes for all three meals on many days\. One volunteer on the island commented, “Would you give this to your child to eat? Or eat it yourself? Presenting Sunday dinner for the refugees in Samos\. Bread with cheese and tomato covered with mould\. No wonder so many go to the hospital with food poisoning\.”
 
 
-![Sunday Dinner on Samos\. Photo taken by a man living in the camp who prefers to remain anonymous\.](assets/4c234bd2e913/1*JuRV836OV-rF7oLPqsZHDw.jpeg)
+![Sunday Dinner on Samos\. Photo taken by a man living in the camp who prefers to remain anonymous\.](../assets/4c234bd2e913/1*JuRV836OV-rF7oLPqsZHDw.jpeg)
 
 Sunday Dinner on Samos\. Photo taken by a man living in the camp who prefers to remain anonymous\.
 
@@ -173,7 +173,7 @@ It has been [reported tonight](https://twitter.com/blacktom1961/status/927251179
 The NGO Refugee Rescue, which operates boat rescue operations off Lesvos, report rescuing 533 people in October, 226 of whom were children\. They need funds to continue their work as it costs over $2,000 a month to keep their boat running\. Click here to [donate](https://mydonate.bt.com/events/togetherwecanhelp) \.
 
 
-![New arrivals on Lesvos\. Photo Credit: [Refugees 4 Refugees](https://refugee4refugees.org) \.](assets/4c234bd2e913/1*fSRpbGtLKxIQfygdAacQGQ.jpeg)
+![New arrivals on Lesvos\. Photo Credit: [Refugees 4 Refugees](https://refugee4refugees.org) \.](../assets/4c234bd2e913/1*fSRpbGtLKxIQfygdAacQGQ.jpeg)
 
 New arrivals on Lesvos\. Photo Credit: [Refugees 4 Refugees](https://refugee4refugees.org) \.
 
@@ -234,7 +234,7 @@ Today the medical team overseeing the hunger strikers in Syntagma Square put out
 
 
 
-![Protestors in Syntagma Square\. Photo Credit: [Hunger Strike for Reunification](https://www.facebook.com/hungerstrike4familyreunification/)](assets/4c234bd2e913/1*_mUTM4mIOTQgbkHr555YXQ.jpeg)
+![Protestors in Syntagma Square\. Photo Credit: [Hunger Strike for Reunification](https://www.facebook.com/hungerstrike4familyreunification/)](../assets/4c234bd2e913/1*_mUTM4mIOTQgbkHr555YXQ.jpeg)
 
 Protestors in Syntagma Square\. Photo Credit: [Hunger Strike for Reunification](https://www.facebook.com/hungerstrike4familyreunification/)
 
@@ -268,7 +268,7 @@ According to [sources in Germany](http://www.deutschlandfunk.de/gefluechtete-in-
 It will be another difficult night for refugees sleeping on the streets of Paris as the temperature took a sudden drop today\. Volunteers on the ground are reporting increasingly desperate conditions, with not enough volunteers, a scarcity of donations, and continued neglect by civil authorities and harassment by the police\. When will people open their eyes to the suffering of their fellow humans in the “city of love”?
 
 
-![A family camping on the street in Paris\. Photo Credit: [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/)](assets/4c234bd2e913/1*mwHgBr9y2uWVYo4vNm1Mjw.jpeg)
+![A family camping on the street in Paris\. Photo Credit: [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/)](../assets/4c234bd2e913/1*mwHgBr9y2uWVYo4vNm1Mjw.jpeg)
 
 A family camping on the street in Paris\. Photo Credit: [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/)
 

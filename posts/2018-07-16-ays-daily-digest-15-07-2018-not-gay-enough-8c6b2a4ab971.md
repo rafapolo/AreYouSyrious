@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,lgbtq,ngo,skaramanga]
 description: Updates from Western Mediterranean /// 450 people allowed to disembark in Sicily /// Warning for mass deportations from Austria to Nigeria…
 image:
-  path: assets/8c6b2a4ab971/1*CJ3Gx8fKERLKsJ9GPMOLTQ.jpeg
+  path: ../assets/8c6b2a4ab971/1*CJ3Gx8fKERLKsJ9GPMOLTQ.jpeg
 ---
 
 ### AYS Daily Digest 15/07/2018 Not Gay Enough
@@ -15,7 +15,7 @@ image:
 Updates from Western Mediterranean /// 450 people allowed to disembark in Sicily /// Warning for mass deportations from Austria to Nigeria /// Threats to refugees’ health in Skaramangas Camp, Greece
 
 
-![The only moment immigration doesn’t upset anyone \(Photo by [Solidaritè Migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/) \)](assets/8c6b2a4ab971/1*CJ3Gx8fKERLKsJ9GPMOLTQ.jpeg)
+![The only moment immigration doesn’t upset anyone \(Photo by [Solidaritè Migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/) \)](../assets/8c6b2a4ab971/1*CJ3Gx8fKERLKsJ9GPMOLTQ.jpeg)
 
 The only moment immigration doesn’t upset anyone \(Photo by [Solidaritè Migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/) \)
 #### FEATURE — Not Gay Enough
@@ -142,15 +142,15 @@ We are informed that similar conditions exist in all of Attica’s refugee struc
 #### Donations needed to support homeless in Athens
 
 
-![](assets/8c6b2a4ab971/1*reUxxazv2u3V-8mPIpt17A.jpeg)
+![](../assets/8c6b2a4ab971/1*reUxxazv2u3V-8mPIpt17A.jpeg)
 
 
 
-![](assets/8c6b2a4ab971/1*ahlT5PYq09XP3ka5lVACRg.jpeg)
+![](../assets/8c6b2a4ab971/1*ahlT5PYq09XP3ka5lVACRg.jpeg)
 
 
 
-![\(Photos by [Arash Hampay](https://www.facebook.com/arashampay) \)](assets/8c6b2a4ab971/1*8ZVl7G13W0IsrGjfXn5gog.jpeg)
+![\(Photos by [Arash Hampay](https://www.facebook.com/arashampay) \)](../assets/8c6b2a4ab971/1*8ZVl7G13W0IsrGjfXn5gog.jpeg)
 
 \(Photos by [Arash Hampay](https://www.facebook.com/arashampay) \)
 
@@ -204,7 +204,7 @@ AUSTRIA
 [Plattform Refugees Welcome](https://www.facebook.com/plattform.refugees.welcome) report that two deportation flights seem to be planned for July 18 and August 16\.
 
 
-![No deportations\! \(photo by [Plattform Refugees Welcome](https://www.facebook.com/plattform.refugees.welcome) \)](assets/8c6b2a4ab971/1*Jz5UxAvuj3njqLpy7kyCcg.jpeg)
+![No deportations\! \(photo by [Plattform Refugees Welcome](https://www.facebook.com/plattform.refugees.welcome) \)](../assets/8c6b2a4ab971/1*Jz5UxAvuj3njqLpy7kyCcg.jpeg)
 
 No deportations\! \(photo by [Plattform Refugees Welcome](https://www.facebook.com/plattform.refugees.welcome) \)
 
@@ -239,7 +239,7 @@ GERMANY
 #### **More demonstrations and actions in solidarity with sea rescues planned in July**
 
 
-![[Image by Seebruecke](https://twitter.com/_Seebruecke_)](assets/8c6b2a4ab971/1*GZgcuq9rayi8RV4_P1xvOw.jpeg)
+![[Image by Seebruecke](https://twitter.com/_Seebruecke_)](../assets/8c6b2a4ab971/1*GZgcuq9rayi8RV4_P1xvOw.jpeg)
 
 [Image by Seebruecke](https://twitter.com/_Seebruecke_)
 

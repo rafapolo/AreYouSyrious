@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 12/1/21 UK: Stop Yarl’s Wood Prison Camp
+title: "AYS Daily Digest 12/1/21 UK: Stop Yarl’s Wood Prison Camp"
 author: Are You Syrious?
 date: 2021-01-13T15:31:38.921+0000
 last_modified_at: 2021-01-13T19:31:43.697+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [uk,refugees,digest,covid-19,greece]
 description: Destructive storm and curfew in Lesvos // Respiratory disease in Bosnia // Deportations in Germany // Ocean Viking is back after half a…
 image:
-  path: assets/9fdcaf7a1e7f/1*Otd6JNNdVmLnVdj5hfb6sw.jpeg
+  path: ../assets/9fdcaf7a1e7f/1*Otd6JNNdVmLnVdj5hfb6sw.jpeg
 ---
 
 ### AYS Daily Digest 12/1/21 UK: Stop Yarl’s Wood Prison Camp
@@ -15,7 +15,7 @@ image:
 _Destructive storm and curfew in Lesvos // Respiratory disease in Bosnia // Deportations in Germany // Ocean Viking is back after half a year // & more\. \._
 
 
-![Photo of Yarl Woods in 2016, by [The Establishment](http://www.womeninandbeyond.org/?p=20164)](assets/9fdcaf7a1e7f/1*Otd6JNNdVmLnVdj5hfb6sw.jpeg)
+![Photo of Yarl Woods in 2016, by [The Establishment](http://www.womeninandbeyond.org/?p=20164)](../assets/9fdcaf7a1e7f/1*Otd6JNNdVmLnVdj5hfb6sw.jpeg)
 
 Photo of Yarl Woods in 2016, by [The Establishment](http://www.womeninandbeyond.org/?p=20164)
 ### FEATURE: UK Home Office’s Plan for prison style camp in Yarl’s Wood and how to stop it
@@ -78,7 +78,7 @@ AlarmPhone also reported on a 🚨 [WEATHER ALERT](https://www.facebook.com/watc
 Agence France Presse \(AFP\) reported that 50 people were rescued by the Moroccan navy on Monday\. A newborn baby was found dead when they arrived\. The 50 were said to have left the Morracan coast on 6/1/21 but on Friday contact was lost and so ensued a rescue mission\. More [here](https://www.infomigrants.net/en/post/29569/rescued-50-migrants-plucked-from-sea-off-tunisia-one-baby-dead?fbclid=IwAR3q0LaCSfpPYujG0A1kTk4WO1WPFGSRUD-IkFG4USKoPRHdo20qHaG0jOs) \.
 
 
-![Photo by [SOS Mediterranee](https://www.infomigrants.net/en/post/20260/ocean-viking-rescues-another-104-migrants)](assets/9fdcaf7a1e7f/1*JBqgunpgm22eB5LEWEprAg.jpeg)
+![Photo by [SOS Mediterranee](https://www.infomigrants.net/en/post/20260/ocean-viking-rescues-another-104-migrants)](../assets/9fdcaf7a1e7f/1*JBqgunpgm22eB5LEWEprAg.jpeg)
 
 Photo by [SOS Mediterranee](https://www.infomigrants.net/en/post/20260/ocean-viking-rescues-another-104-migrants)
 ### After half a year, the Ocean Viking is back
@@ -93,7 +93,7 @@ The Ocean Viking left France on Monday morning to travel to the Central Mediterr
 
 
 
-![Photo by [Tim Wagner — Sea Watch](https://projekte.sueddeutsche.de/artikel/politik/seenotrettung-im-mittelmeer-2020-die-bilanz-e670960/?fbclid=IwAR1FVknQa0Fu7iGoxsEWFeBlRwUrzpYhSpZE1XIhnbgeOKMhNhSPRgApomk)](assets/9fdcaf7a1e7f/1*6n6tRmmWQPriuiDXIkcneA.jpeg)
+![Photo by [Tim Wagner — Sea Watch](https://projekte.sueddeutsche.de/artikel/politik/seenotrettung-im-mittelmeer-2020-die-bilanz-e670960/?fbclid=IwAR1FVknQa0Fu7iGoxsEWFeBlRwUrzpYhSpZE1XIhnbgeOKMhNhSPRgApomk)](../assets/9fdcaf7a1e7f/1*6n6tRmmWQPriuiDXIkcneA.jpeg)
 
 Photo by [Tim Wagner — Sea Watch](https://projekte.sueddeutsche.de/artikel/politik/seenotrettung-im-mittelmeer-2020-die-bilanz-e670960/?fbclid=IwAR1FVknQa0Fu7iGoxsEWFeBlRwUrzpYhSpZE1XIhnbgeOKMhNhSPRgApomk)
 ### Reconstructed timeline for civil sea rescuers in 2020
@@ -195,7 +195,7 @@ If the storm wasn’t already enough, due to the COVID\-19 crisis, the Deputy Mi
 Below is STRG\_F’s video that provides visual information on the situation on the ground right now\. Video in German\. If you speak German, you can also listen to [Radio Corax’s](https://radiocorax.de/moria-2-zur-aktuellen-situation-auf-lesbos/?fbclid=IwAR2buHFArwUEddWdz96F0GkheUIF6sFpL1CkC4pFYsnbd_VVOumnAOJLtfo) new podcast on “Moria 2 — on the current situation on Lesbos\.”
 
 
-[![Leid auf Lesbos: Die gewollte Katastrophe? | STRG_F](assets/9fdcaf7a1e7f/5c4a_hqdefault.jpg "Leid auf Lesbos: Die gewollte Katastrophe? | STRG_F")](https://www.youtube.com/watch?v=02bgM5MmeLw)
+[![Leid auf Lesbos: Die gewollte Katastrophe? | STRG_F](../assets/9fdcaf7a1e7f/5c4a_hqdefault.jpg "Leid auf Lesbos: Die gewollte Katastrophe? | STRG_F")](https://www.youtube.com/watch?v=02bgM5MmeLw)
 
 ### Migration Ministry to speed up new Chios Camp Construction
 
@@ -211,14 +211,14 @@ News that a new Chios camp is under construction comes after a local court ruled
 
 ![Solidarity does not quarantine\! \! \!
 Out of 31/12/2020 refugees / refugees residing in Sparta’s structure are quarantined due to few cases of coronavirus and completely abandoned by the responsible entities\. So after two days of consecutive peaceful protests, last week outside the structure, claiming the obvious, they managed to be able to supply medicines and other items of need \(at their own expense\. \. \! \! \) \. As an Anti\-Fascist Movement of Kalamata we invite to a gathering of first\-need items for the inhabitants of the Sparta structure\.
-The items we collect are: Diapers, baby wipes, baby milk, baby creams, long lasting milk, pads, antiseptics \(fluids and wipes\), personal hygiene items \(shampoos, soaps etc\) \. We collect them at the area of Kalamata Antifascist Hangout, Volcanoes 4, Historical Center Friday 15/1 from 5 pm until 7 pm and Saturday 16/1 from 10 am until 13 pm \* Collective protection measures will be strictly observed\. Photo and Info by [Anti\-Fascist Movement of Kalamata](https://www.facebook.com/antifasistikikalamatas.blogspot.gr/posts/2349398581872218)](assets/9fdcaf7a1e7f/1*7ZcnXgnKHZjfVa4cLYg22A.jpeg)
+The items we collect are: Diapers, baby wipes, baby milk, baby creams, long lasting milk, pads, antiseptics \(fluids and wipes\), personal hygiene items \(shampoos, soaps etc\) \. We collect them at the area of Kalamata Antifascist Hangout, Volcanoes 4, Historical Center Friday 15/1 from 5 pm until 7 pm and Saturday 16/1 from 10 am until 13 pm \* Collective protection measures will be strictly observed\. Photo and Info by [Anti\-Fascist Movement of Kalamata](https://www.facebook.com/antifasistikikalamatas.blogspot.gr/posts/2349398581872218)](../assets/9fdcaf7a1e7f/1*7ZcnXgnKHZjfVa4cLYg22A.jpeg)
 
 Solidarity does not quarantine\! \! \!
 Out of 31/12/2020 refugees / refugees residing in Sparta’s structure are quarantined due to few cases of coronavirus and completely abandoned by the responsible entities\. So after two days of consecutive peaceful protests, last week outside the structure, claiming the obvious, they managed to be able to supply medicines and other items of need \(at their own expense\. \. \! \! \) \. As an Anti\-Fascist Movement of Kalamata we invite to a gathering of first\-need items for the inhabitants of the Sparta structure\.
 The items we collect are: Diapers, baby wipes, baby milk, baby creams, long lasting milk, pads, antiseptics \(fluids and wipes\), personal hygiene items \(shampoos, soaps etc\) \. We collect them at the area of Kalamata Antifascist Hangout, Volcanoes 4, Historical Center Friday 15/1 from 5 pm until 7 pm and Saturday 16/1 from 10 am until 13 pm \* Collective protection measures will be strictly observed\. Photo and Info by [Anti\-Fascist Movement of Kalamata](https://www.facebook.com/antifasistikikalamatas.blogspot.gr/posts/2349398581872218)
 
 
-![“Tiny Greek lesson Nº5: καλή χρονιά = happy new year\. In Mosaik Support Center we continue this week with online Greek and English lessons\. If you want to join, please send an email to check for the requirements at [mosaik4education@gmail\.com](mailto:mosaik4education@gmail.com) \*Photo from a student while having online Greek lessons\.” Info by [**Lesvos Solidarity — Mosaik Support Center**](https://www.facebook.com/LesvosSolidarityMosaik/posts/464010208315942)](assets/9fdcaf7a1e7f/1*Et4bYe4cYeVoZ8OA-mCexQ.png)
+![“Tiny Greek lesson Nº5: καλή χρονιά = happy new year\. In Mosaik Support Center we continue this week with online Greek and English lessons\. If you want to join, please send an email to check for the requirements at [mosaik4education@gmail\.com](mailto:mosaik4education@gmail.com) \*Photo from a student while having online Greek lessons\.” Info by [**Lesvos Solidarity — Mosaik Support Center**](https://www.facebook.com/LesvosSolidarityMosaik/posts/464010208315942)](../assets/9fdcaf7a1e7f/1*Et4bYe4cYeVoZ8OA-mCexQ.png)
 
 “Tiny Greek lesson Nº5: καλή χρονιά = happy new year\. In Mosaik Support Center we continue this week with online Greek and English lessons\. If you want to join, please send an email to check for the requirements at [mosaik4education@gmail\.com](mailto:mosaik4education@gmail.com) \*Photo from a student while having online Greek lessons\.” Info by [**Lesvos Solidarity — Mosaik Support Center**](https://www.facebook.com/LesvosSolidarityMosaik/posts/464010208315942)
 #### ITALY
@@ -226,7 +226,7 @@ The items we collect are: Diapers, baby wipes, baby milk, baby creams, long last
 
 ![“Together with organizations from all over Italy, borderline\-europe\-Italy has today published an open letter to Italian Interior Minister Lamorgese\. We call on you to immediately implement at least five of the long\-planned evacuation flights of Libya under the humanitarian corridors organized by the churches in Italy\. From Italy, the affected persons can reach other European states\. As long as legal and therefore safe routes to enter the \#EU are denied, this is the only way to escape the catastrophic conditions in Libya\.
 ‘In the past few weeks, various people who would have had urgent need for a place on these flights have died\. From diseases, hunger or because they were simply left alone\. Among them were also a minor and a half\-year\-old child\.’ \(Extract from the Open Letter dated 12\.01\.2020\)
-In addition to this concrete important step for a few people, we continue to demand freedom of movement, safe entry and liberation from Libyan torture for ALL\!” Photo and text by [borderline europe](https://www.facebook.com/borderlineeurope/posts/3805769099445754)](assets/9fdcaf7a1e7f/1*r0jO88qnLjDIFk_bWtrBRw.jpeg)
+In addition to this concrete important step for a few people, we continue to demand freedom of movement, safe entry and liberation from Libyan torture for ALL\!” Photo and text by [borderline europe](https://www.facebook.com/borderlineeurope/posts/3805769099445754)](../assets/9fdcaf7a1e7f/1*r0jO88qnLjDIFk_bWtrBRw.jpeg)
 
 “Together with organizations from all over Italy, borderline\-europe\-Italy has today published an open letter to Italian Interior Minister Lamorgese\. We call on you to immediately implement at least five of the long\-planned evacuation flights of Libya under the humanitarian corridors organized by the churches in Italy\. From Italy, the affected persons can reach other European states\. As long as legal and therefore safe routes to enter the \#EU are denied, this is the only way to escape the catastrophic conditions in Libya\.
 ‘In the past few weeks, various people who would have had urgent need for a place on these flights have died\. From diseases, hunger or because they were simply left alone\. Among them were also a minor and a half\-year\-old child\.’ \(Extract from the Open Letter dated 12\.01\.2020\)
@@ -269,14 +269,14 @@ A joint statement has been released calling for support in Bosnia and Herzegovin
 #### SERBIA
 
 
-![](assets/9fdcaf7a1e7f/1*GtchwEKISPzwk2eAv6Abuw.jpeg)
+![](../assets/9fdcaf7a1e7f/1*GtchwEKISPzwk2eAv6Abuw.jpeg)
 
 
 
 ![“News from Šid, Serbia
 Waking up on the first day of the new year came with an unpleasant surprise\. The front window of one of our activists cars had been smashed in, the word “LEAVE” had been written in the dirt on the rear window\. On our van we found a nationalist symbol \(1st Jan 2021\) \. The next couple of days were followed by similar incidents\. The license plates of the same activists car were stolen \(6th Jan 2021\) \. One of the license plates of our van also vanished over night \(8th Jan 2021\) \. 
 While none of this stops us from doing our work here, events like this cost money, time, energy and nerves\. Personally, I always seek for understanding\. Why is our organisation being targeted in that way? What role do Serbian media and politics play in the portrayal of people on the move and therefore of people who stand in solidarity with them? Are unresolved collective and individuals traumas from the relatively recent war part of the reason? Are we really acting in a way that negatively impacts locals? If yes, how can we change? If no, why is it perceived this way? The past year we have made good friends within the local community\. We have started to find ways to contribute to the life here in Šid in a positive way, we have built partnerships and cooperations\. Our hope for this year is to grow even closer, to understand more and be understood better\.”
-Text and photo by [Marina Bottke/ NNK Sid](https://www.facebook.com/NoNameKitchenBelgrade/posts/1161684420896507)](assets/9fdcaf7a1e7f/1*EVzlhuTqxQJo9Nobw_sVoQ.jpeg)
+Text and photo by [Marina Bottke/ NNK Sid](https://www.facebook.com/NoNameKitchenBelgrade/posts/1161684420896507)](../assets/9fdcaf7a1e7f/1*EVzlhuTqxQJo9Nobw_sVoQ.jpeg)
 
 “News from Šid, Serbia
 Waking up on the first day of the new year came with an unpleasant surprise\. The front window of one of our activists cars had been smashed in, the word “LEAVE” had been written in the dirt on the rear window\. On our van we found a nationalist symbol \(1st Jan 2021\) \. The next couple of days were followed by similar incidents\. The license plates of the same activists car were stolen \(6th Jan 2021\) \. One of the license plates of our van also vanished over night \(8th Jan 2021\) \. 
@@ -295,7 +295,7 @@ Read their full statement [here](https://www.proasyl.de/pressemitteilung/heutige
 #### FRANCE
 
 
-![](assets/9fdcaf7a1e7f/1*Te2_uRqIX6GRlTFvc34jUA.jpeg)
+![](../assets/9fdcaf7a1e7f/1*Te2_uRqIX6GRlTFvc34jUA.jpeg)
 
 
 
@@ -307,7 +307,7 @@ Need bikes, trailers, cargo bikes and cars to form mobile teams\! \!🚲🛺🚗
 🔴 You’ll need proof of volunteering: if you’re registered, ask for it in a PM\.
 👉 🛒 The meals we will distribute together are funded through donations in kind and donations on the pot 💕💚🧡💛: [https://www\.helloasso\.com/\. \. \./soutien\-a\-wilson/formulaires/1](https://www.helloasso.com/.../soutien-a-wilson/formulaires/1) 
 ❤️ Thank you to everyone\. e for your solidarity\. 🙏 We don’t give up”
-Photos by Lucas Boirat, info by [Solidarité migrants Wilson](https://www.facebook.com/permalink.php?story_fbid=1634732053394227&id=598228360377940)](assets/9fdcaf7a1e7f/1*tU1kzTo0ggNPRpU7CD16nA.jpeg)
+Photos by Lucas Boirat, info by [Solidarité migrants Wilson](https://www.facebook.com/permalink.php?story_fbid=1634732053394227&id=598228360377940)](../assets/9fdcaf7a1e7f/1*tU1kzTo0ggNPRpU7CD16nA.jpeg)
 
 “🚨 CALLS FOR VELO MARAUDE THURSDAY 14 & SATURDAY 16 JANUARY 🚨
 Need bikes, trailers, cargo bikes and cars to form mobile teams\! \!🚲🛺🚗

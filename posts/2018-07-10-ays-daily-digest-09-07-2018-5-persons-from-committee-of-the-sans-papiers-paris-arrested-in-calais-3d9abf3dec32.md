@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 09/07/2018: 5 Persons from Committee of the Sans Papiers Paris Arrested in Calais
+title: "AYS Daily Digest 09/07/2018: 5 Persons from Committee of the Sans Papiers Paris Arrested in Calais"
 author: Are You Syrious?
 date: 2018-07-10T12:22:02.766+0100
 last_modified_at: 2018-07-10T18:40:22.615+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,human-rights,greece,paris]
 description: 80 rescued in Alboran Sea// Negotiations to get the Moonbird SAR plane back to the Mediterranean// 52 persons (27 children) arrive on…
 image:
-  path: assets/3d9abf3dec32/1*PSFj_fdj1IdHsqnkSeZ9JQ.jpeg
+  path: ../assets/3d9abf3dec32/1*PSFj_fdj1IdHsqnkSeZ9JQ.jpeg
 ---
 
 ### AYS Daily Digest 09/07/2018: 5 Persons from Committee of the Sans Papiers Paris Arrested in Calais
@@ -15,7 +15,7 @@ image:
 _80 rescued in Alboran Sea// Negotiations to get the Moonbird SAR plane back to the Mediterranean// 52 persons \(27 children\) arrive on Lesvos// & more news from Greece, Bosnia, Italy, Spain, Malta, Austria, France & The Netherlands\._
 
 
-![Source: [L’Auberge des Migrants](https://www.facebook.com/AubergeMigrants/?hc_ref=ARRZqzFiRS_kX_9-ZY1-7KQ6VC-wUmgZXenoYc8u9M9tL3u6_DIrDiL8aZLR57GsgJk&fref=nf)](assets/3d9abf3dec32/1*PSFj_fdj1IdHsqnkSeZ9JQ.jpeg)
+![Source: [L’Auberge des Migrants](https://www.facebook.com/AubergeMigrants/?hc_ref=ARRZqzFiRS_kX_9-ZY1-7KQ6VC-wUmgZXenoYc8u9M9tL3u6_DIrDiL8aZLR57GsgJk&fref=nf)](../assets/3d9abf3dec32/1*PSFj_fdj1IdHsqnkSeZ9JQ.jpeg)
 
 Source: [L’Auberge des Migrants](https://www.facebook.com/AubergeMigrants/?hc_ref=ARRZqzFiRS_kX_9-ZY1-7KQ6VC-wUmgZXenoYc8u9M9tL3u6_DIrDiL8aZLR57GsgJk&fref=nf)
 #### FEATURE:
@@ -105,7 +105,7 @@ Guardamar Caliope has rescued two boats carrying 80 people from the Alboren Sea\
 A total of 52 person landed on the coast of Eftalou
 
 
-![Source: Aegean Boat Report / Philippa Kempson](assets/3d9abf3dec32/1*72RxtqCrAyGAT_D9iG8x3g.jpeg)
+![Source: Aegean Boat Report / Philippa Kempson](../assets/3d9abf3dec32/1*72RxtqCrAyGAT_D9iG8x3g.jpeg)
 
 Source: Aegean Boat Report / Philippa Kempson
 
@@ -139,7 +139,7 @@ Lesvos:
 #### Weekly Schedule of [translation services](https://www.facebook.com/Greekforumofrefugees/photos/a.133608436673971.15209.133502636684551/1997700776931385/?type=3&theater) in Hospital in Athens
 
 
-![](assets/3d9abf3dec32/1*utHC2zpxLE0bS3OBSKDShA.png)
+![](../assets/3d9abf3dec32/1*utHC2zpxLE0bS3OBSKDShA.png)
 
 #### Germany Threatens to Return Migrants to Greece if Bilateral Agreements are Not Achieved
 
@@ -188,7 +188,7 @@ To find out more please follow [this link](https://www.refugeesupport.eu/launchi
 #### Latest Statistics on National Situational Picture of Eastern Aegean Islands
 
 
-![](assets/3d9abf3dec32/1*hYvdE6-OmDVUn1rk5F0B0g.jpeg)
+![](../assets/3d9abf3dec32/1*hYvdE6-OmDVUn1rk5F0B0g.jpeg)
 
 #### In the first 6 months of 2018 13,717 refugees arrived to Greece via the sea
 
@@ -224,7 +224,7 @@ MedVint are looking for volunteers to join their team from September onwards\. T
 
 
 
-![Source: [Federazione del Sociale USB](https://www.facebook.com/FederazionedelSociale/?hc_ref=ARRx5XD05uoLsrNP-tmq_-KELgfKapDOq9j-fbqZm1yweMiBr2OV4ZaPSVywayFtqRk&fref=nf)](assets/3d9abf3dec32/1*rdNw7MyuPmBWcHzq3C2J4w.jpeg)
+![Source: [Federazione del Sociale USB](https://www.facebook.com/FederazionedelSociale/?hc_ref=ARRx5XD05uoLsrNP-tmq_-KELgfKapDOq9j-fbqZm1yweMiBr2OV4ZaPSVywayFtqRk&fref=nf)](../assets/3d9abf3dec32/1*rdNw7MyuPmBWcHzq3C2J4w.jpeg)
 
 Source: [Federazione del Sociale USB](https://www.facebook.com/FederazionedelSociale/?hc_ref=ARRx5XD05uoLsrNP-tmq_-KELgfKapDOq9j-fbqZm1yweMiBr2OV4ZaPSVywayFtqRk&fref=nf)
 #### International Solidarity Day in Ventimiglia

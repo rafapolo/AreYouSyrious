@@ -1,5 +1,5 @@
 ---
-title: AYS Special: Moria Was Not Built in A Day
+title: "AYS Special: Moria Was Not Built in A Day"
 author: Are You Syrious?
 date: 2020-09-24T11:53:17.877+0100
 last_modified_at: 2020-09-24T11:53:17.877+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [special,refugees,moria,europe,greece]
 description: This was inescapable. Yet perfectly avoidable.
 image:
-  path: assets/9d64d83d4462/1*7ceIdO6vYZZxl56mgClCNQ.jpeg
+  path: ../assets/9d64d83d4462/1*7ceIdO6vYZZxl56mgClCNQ.jpeg
 ---
 
 ### AYS Special: Moria Was Not Built in A Day
 #### _This was inescapable\. Yet perfectly avoidable\._
 
 
-![](assets/9d64d83d4462/1*7ceIdO6vYZZxl56mgClCNQ.jpeg)
+![](../assets/9d64d83d4462/1*7ceIdO6vYZZxl56mgClCNQ.jpeg)
 
 
 On the night of Tuesday 8th September, a massive fire broke out in the camp of Moria, Lesvos\. Moria is — or used to be — the biggest “hotspot” of Europe, a vast area where around 13’000 displaced people lived in containers, tents, and makeshift structures, under the worst conditions in the EU\.
@@ -26,7 +26,7 @@ These RICs became a bottleneck in the EU’s migration flow\. In Greece, restric
 The whole endeavour around the settlement and maintenance of the “hotspots” would not have been feasible if not for the famous [EU\-Turkey statement of 2016](https://ec.europa.eu/commission/presscorner/detail/it/MEMO_16_1494) , which makes the unwarranted claim that Turkey is a “safe third country” a basis for migrants’ detention on the Greek islands, meaning that people whose claims are rejected can in theory be deported there directly\.
 
 
-![](assets/9d64d83d4462/1*o-WenvcQysOYb_olfDJO0w.png)
+![](../assets/9d64d83d4462/1*o-WenvcQysOYb_olfDJO0w.png)
 
 
 At the time of the fire, the RIC of Moria had an [official capacity](https://www.amnesty.org/en/get-involved/take-action/greece-moria-refugees-fire-danger/#:~:text=At%20the%20time%20of%20the,official%20capacity%20of%20under%203%2C000.) of under 3’000 people\. In spite of this limit, the Greek government has forced thousands of asylum applicants to remain on the island despite inadequate reception facilities\. Conditions in Moria have been denounced by multiple actors over the last five years, the overcrowding, the dismal [hygiene standards](https://www.asylumineurope.org/reports/country/greece/reception-conditions/housing/conditions-reception-facilities) in the military base and in the Olive Grove that surrounds it, as well as a lack of access to sufficient [healthcare provision](https://www.msf.org/greece-overcrowded-dangerous-and-insufficient-access-healthcare-moria) have all been [well documented](https://www.theguardian.com/global-development/2020/jan/17/moria-is-a-hell-new-arrivals-describe-life-in-a-greek-refugee-camp) by Moria residents and [NGOs supporting them](https://rsaegean.org/en/moria-nightmare/) \. Instances of violence, including [sexual assault](https://www.unhcr.org/news/stories/2019/12/5defbaeb4/asylum-seeker-greece-speaks-violence-upended-life.html) , have been a lived reality for many people residing there\. Something that even the UNHCR has [not failed to acknowledge](https://www.unhcr.org/news/latest/2019/11/5ddfa7654/unhcr-chief-urges-action-conditions-asylum-seekers-greek-island.html) , calling for Greek and EU authorities to intervene\.
@@ -40,11 +40,11 @@ It must be stressed that, for all the families and individuals forced by necessi
 Moria was never a “shelter”\. It was nothing more than a prison camp\.
 
 
-![](assets/9d64d83d4462/1*xRFnL4oZqzSyVchvlexXSg.png)
+![](../assets/9d64d83d4462/1*xRFnL4oZqzSyVchvlexXSg.png)
 
 
 
-![_Moria in September 2019 and January 2020, by: [Ihab Abassi](https://www.facebook.com/ysalaam)_](assets/9d64d83d4462/1*UIsXytODUieL8IBLotafvA.png)
+![_Moria in September 2019 and January 2020, by: [Ihab Abassi](https://www.facebook.com/ysalaam)_](../assets/9d64d83d4462/1*UIsXytODUieL8IBLotafvA.png)
 
 _Moria in September 2019 and January 2020, by: [Ihab Abassi](https://www.facebook.com/ysalaam)_
 ### **_The Fire_**
@@ -69,7 +69,7 @@ Eventually, the Greek state put the entire island under a [state of emergency](h
 Among the first measures taken as a response to the fire was the relocation of 406 unaccompanied children to the mainland and 50 women to a school in Mytilene\. Yet for the vast majority of Moria’s 13’000 ex\-residents, the authorities opted for the opening of a new “temporary accommodation centre”, with capacity for only [around 5’000 people](https://www.ruptly.tv/en/videos/20200916-002-Greece--Construction-of-new-Lesbos-camp-continues--5-000-beds-ready) , in a [shooting range area](https://twitter.com/DunyaCollective/status/1306303797136941056) close to the pre\-existing centre of Kara Tepe\.
 
 
-![](assets/9d64d83d4462/1*7fw16Oj6htX3zBftp0ZXZQ.png)
+![](../assets/9d64d83d4462/1*7fw16Oj6htX3zBftp0ZXZQ.png)
 
 
 These would be far more “admirable gestures” if they were not reactionary responses to an avoidable catastrophe\. Although it is certainly positive that the government apparently appreciates the urgency of the matter, the state of emergency has _de facto_ implied a toughening of checks and roadblocks by the police and thus, for many NGOs, the [impossibility](https://www.theguardian.com/global-development/2020/sep/09/catastrophe-warning-as-thousands-left-homeless-by-lesbos-refugee-camp-fire) of reaching their warehouses or the people they work with\.
@@ -101,7 +101,7 @@ It is remarkable, that even in the aftermath of a tragedy triggered by the forci
 Furthermore, it is utterly **unacceptable that displaced people should see their right to asylum procedures being bound to their physical presence in a camp\.** This is, to all intents and purposes, _blackmailing_ \.
 
 
-![](assets/9d64d83d4462/1*zqQ7h3vcBbkMhJCHTW5Q-w.png)
+![](../assets/9d64d83d4462/1*zqQ7h3vcBbkMhJCHTW5Q-w.png)
 
 
 We were also able to get in contact with an ex\-resident of Moria, who is now about to enter the newly established camp\. This is the description we were given: “ _We don’t know yet if it’s a closed camp, but it’s sure that we are in quarantine for now\. They are doing covid tests to everyone who arrives at the camp and they give you a number\. If you are positive you are put in a separate place, if you are negative you enter the camp\. They gave us blankets and soap but they are still lacking\. Especially drinkable water\. There is no drinkable water\. Also, for the food, you can wait even 3 hours to have the food\. And they are giving food 1 time a day\. And we are around 1000–1500 people in the camp for now\. Imagine when there will be 13\.000 people… For the toilets, there are only temporary toilets for now\. The EU helped us with this camp and that was our only solution to take a rest\. There are still places for now\. But not enough for 13\.000 people_ ”

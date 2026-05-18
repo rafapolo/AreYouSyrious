@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 22/01/2018: Germany’s Foreign Office spreaded inaccurate information
+title: "AYS DAILY DIGEST 22/01/2018: Germany’s Foreign Office spreaded inaccurate information"
 author: Are You Syrious?
 date: 2018-01-23T02:18:26.478+0000
 last_modified_at: 2018-01-23T09:22:31.680+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,germany,greece,croatia,france]
 description: New deportations scheduled from Düsseldorf and Vienna / Update on the cash assistance in Greece and forced returns of Syrians to Turkey /…
 image:
-  path: assets/569c899f47a6/1*7ciAzDoqabUBxqNJczf4YQ.jpeg
+  path: ../assets/569c899f47a6/1*7ciAzDoqabUBxqNJczf4YQ.jpeg
 ---
 
 ### AYS DAILY DIGEST 22/01/2018: Germany’s Foreign Office spreaded inaccurate information
@@ -15,7 +15,7 @@ image:
 _New deportations scheduled from Düsseldorf and Vienna / Update on the cash assistance in Greece and forced returns of Syrians to Turkey / Number of asylum request in Switzerland reach lowest number since 2010 / Minors in Calais transferred to a new reception center / and more…_
 
 
-![“Bombs in Afghanistan are a bad perspective to stay” — banner at G20\-summit\-protests\. Credits: [Flickr/Rasande Tyskar](https://www.flickr.com/photos/rasande/35119777350/in/photolist-Vvq3fA-q9z5XB-q9qhBh-bVoYj6-PA4QEb-VePDJe-WNfaBz-q9z5zT-dHB6C5-pueJhk-puenXT-W41afJ-72Zwfm-qoHrX1-qoHsGh-qoHPtN-qqW1Cw-puenbH-3fCzD8-spEzmt-qqZ9m4-qqZ4ek-qqZf4M-r149HX-XjT2AM-GTtvvE-qqVDK9-puep26-p9sA67-qqVQa7-qqPbrn-qoHrCJ-qoHPAS-dHBfkq-q9qYtG-VXxqab-q9rrZ5-VvpTUs-qqZhU6-2V2uSq-q9qPPh-qoHoaS-q9yUz2-ptZDJm-VpLvZT-AUh7cY-qHKCJg-qqPeXF-YXTZ4p-spx1x7) \(CC BY\-NC 2\.0\)](assets/569c899f47a6/1*7ciAzDoqabUBxqNJczf4YQ.jpeg)
+![“Bombs in Afghanistan are a bad perspective to stay” — banner at G20\-summit\-protests\. Credits: [Flickr/Rasande Tyskar](https://www.flickr.com/photos/rasande/35119777350/in/photolist-Vvq3fA-q9z5XB-q9qhBh-bVoYj6-PA4QEb-VePDJe-WNfaBz-q9z5zT-dHB6C5-pueJhk-puenXT-W41afJ-72Zwfm-qoHrX1-qoHsGh-qoHPtN-qqW1Cw-puenbH-3fCzD8-spEzmt-qqZ9m4-qqZ4ek-qqZf4M-r149HX-XjT2AM-GTtvvE-qqVDK9-puep26-p9sA67-qqVQa7-qqPbrn-qoHrCJ-qoHPAS-dHBfkq-q9qYtG-VXxqab-q9rrZ5-VvpTUs-qqZhU6-2V2uSq-q9qPPh-qoHoaS-q9yUz2-ptZDJm-VpLvZT-AUh7cY-qHKCJg-qqPeXF-YXTZ4p-spx1x7) \(CC BY\-NC 2\.0\)](../assets/569c899f47a6/1*7ciAzDoqabUBxqNJczf4YQ.jpeg)
 
 “Bombs in Afghanistan are a bad perspective to stay” — banner at G20\-summit\-protests\. Credits: [Flickr/Rasande Tyskar](https://www.flickr.com/photos/rasande/35119777350/in/photolist-Vvq3fA-q9z5XB-q9qhBh-bVoYj6-PA4QEb-VePDJe-WNfaBz-q9z5zT-dHB6C5-pueJhk-puenXT-W41afJ-72Zwfm-qoHrX1-qoHsGh-qoHPtN-qqW1Cw-puenbH-3fCzD8-spEzmt-qqZ9m4-qqZ4ek-qqZf4M-r149HX-XjT2AM-GTtvvE-qqVDK9-puep26-p9sA67-qqVQa7-qqPbrn-qoHrCJ-qoHPAS-dHBfkq-q9qYtG-VXxqab-q9rrZ5-VvpTUs-qqZhU6-2V2uSq-q9qPPh-qoHoaS-q9yUz2-ptZDJm-VpLvZT-AUh7cY-qHKCJg-qqPeXF-YXTZ4p-spx1x7) \(CC BY\-NC 2\.0\)
 ### Germany
@@ -60,7 +60,7 @@ For the second time, Syrian nationals have been returned from Greece to Turkey a
 The first deportation after a negative decision [was conducted](http://www.mopocp.gov.gr/index.php?option=ozo_content&lang=&perform=view&id=6265&Itemid=650) on 8th November, when four Syrians, two of them after they withdrew they applications, were returned from Greece to Turkey\. In the end of September 2017, the Greek Supreme Court [ruled](https://apnews.com/2293b9c8bffe4e06a3b57621f65bd833) that Syrians can be returned to Turkey under the deal signed in March 2016, as it would not be an unsafe country for them\. Since the deal came into force, more than 250 Syrians — most of them voluntarily due to the bad conditions on the Greek islands —\(were\) returned to Turkey under this scheme, making it the second biggest group after Pakistani \(more than 630\) \.
 
 
-![Because of the dire conditions in the hotspots, many people return to Turkey voluntarily\. Credits: [Miss Montag‏](https://twitter.com/miss_montag)](assets/569c899f47a6/1*AWc0dcOEyn3ilGSJZrNuyw.jpeg)
+![Because of the dire conditions in the hotspots, many people return to Turkey voluntarily\. Credits: [Miss Montag‏](https://twitter.com/miss_montag)](../assets/569c899f47a6/1*AWc0dcOEyn3ilGSJZrNuyw.jpeg)
 
 Because of the dire conditions in the hotspots, many people return to Turkey voluntarily\. Credits: [Miss Montag‏](https://twitter.com/miss_montag)
 
@@ -87,7 +87,7 @@ The [Victoria Square Project](https://www.facebook.com/VictoriaSquareProject/) i
 
 
 
-![This weeks schedule\. Credits: [VSP](https://www.facebook.com/VictoriaSquareProject/)](assets/569c899f47a6/1*1fYCwOWbE8i1605BI7iFNA.jpeg)
+![This weeks schedule\. Credits: [VSP](https://www.facebook.com/VictoriaSquareProject/)](../assets/569c899f47a6/1*1fYCwOWbE8i1605BI7iFNA.jpeg)
 
 This weeks schedule\. Credits: [VSP](https://www.facebook.com/VictoriaSquareProject/)
 

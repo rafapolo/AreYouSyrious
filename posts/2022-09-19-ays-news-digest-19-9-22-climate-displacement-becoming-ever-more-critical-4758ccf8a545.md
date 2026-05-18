@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 19/9/22: Climate displacement becoming ever more critical
+title: "AYS News Digest 19/9/22: Climate displacement becoming ever more critical"
 author: Are You Syrious?
 date: 2022-09-19T22:22:05.662+0100
 last_modified_at: 2022-09-20T15:54:59.236+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,climate-change,un,mediterranean]
 description: Pressure on the EU and the Greek government to create a just and sustainable asylum system / 35 people pushed back in Greece / Skin…
 image:
-  path: assets/4758ccf8a545/0*zgFLKJmArAGGbZJe.jpg
+  path: ../assets/4758ccf8a545/0*zgFLKJmArAGGbZJe.jpg
 ---
 
 ### AYS News Digest 19/9/22: Climate displacement becoming ever more critical
@@ -15,7 +15,7 @@ image:
 Pressure on the EU and the Greek government to create a just and sustainable asylum system / 35 people pushed back in Greece / Skin infections, low levels of hygiene, lack of sanitary products in Serbian camps / Boat in distress carrying 30 people, at risk of being pushed back / Local organisations in Italy have created a multi\-functional space to host refugees and offer integration support / Afghan refugee programme ‘extremely questionable’ / UK Home Office refuses the accelerate the visa case for a woman with terminal cancer…
 
 
-![Source: LeMonde — Pakistani disaster victims in Sindh province, September 7, 2022\. FAREED KHAN / AP](assets/4758ccf8a545/0*zgFLKJmArAGGbZJe.jpg)
+![Source: LeMonde — Pakistani disaster victims in Sindh province, September 7, 2022\. FAREED KHAN / AP](../assets/4758ccf8a545/0*zgFLKJmArAGGbZJe.jpg)
 
 Source: LeMonde — Pakistani disaster victims in Sindh province, September 7, 2022\. FAREED KHAN / AP
 #### FEATURE
@@ -29,7 +29,7 @@ Source: LeMonde — Pakistani disaster victims in Sindh province, September 7, 2
 
 
 
-![Source: InfoMigrants, Climate migration: No longer a distant nightmare, 16/9/22](assets/4758ccf8a545/1*5IJVEJzoSqQGCmq4g9X2Dw.jpeg)
+![Source: InfoMigrants, Climate migration: No longer a distant nightmare, 16/9/22](../assets/4758ccf8a545/1*5IJVEJzoSqQGCmq4g9X2Dw.jpeg)
 
 Source: InfoMigrants, Climate migration: No longer a distant nightmare, 16/9/22
 
@@ -47,7 +47,7 @@ The OECD has stated that [60 states have fallen into the category of ‘fragile 
 After the recent floods in Pakistan, [that have affected 33 million people](https://www.thenewhumanitarian.org/news/2022/09/19/aid-double-standards-climate-emergency-UN-General-Assembly) , the country’s Prime Minister has planned to speak at a climate action round table on the 21st September, [as part of the UN General Assembly](https://www.un.org/en/climatechange/informal-climate-leaders-roundtable-climate-action-2022) in New York\.
 
 
-![Source: Washington Post — Flooding on Sept\. 9 in Dadu District, Sindh Province, Pakistan\. Dadu is one of the worst hit parts of Pakistan, where nearly a third of the country is underwater and more than 33 million people have been affected\.](assets/4758ccf8a545/1*ElzlgQUN7SM7beceCWTGSg.png)
+![Source: Washington Post — Flooding on Sept\. 9 in Dadu District, Sindh Province, Pakistan\. Dadu is one of the worst hit parts of Pakistan, where nearly a third of the country is underwater and more than 33 million people have been affected\.](../assets/4758ccf8a545/1*ElzlgQUN7SM7beceCWTGSg.png)
 
 Source: Washington Post — Flooding on Sept\. 9 in Dadu District, Sindh Province, Pakistan\. Dadu is one of the worst hit parts of Pakistan, where nearly a third of the country is underwater and more than 33 million people have been affected\.
 
@@ -58,7 +58,7 @@ The UN’s Intergovernmental Panel on Climate Change believes 143 million people
 ### Al Jazeera video on the life of 2 Syrian refugees in Turkey:
 
 
-[![Syrian refugees in Turkey struggle to afford basic goods](assets/4758ccf8a545/9a2f_hqdefault.jpg "Syrian refugees in Turkey struggle to afford basic goods")](https://www.youtube.com/watch?v=CB9_f5j-n9U)
+[![Syrian refugees in Turkey struggle to afford basic goods](../assets/4758ccf8a545/9a2f_hqdefault.jpg "Syrian refugees in Turkey struggle to afford basic goods")](https://www.youtube.com/watch?v=CB9_f5j-n9U)
 
 ### 5 forced migrants have been found dead in the Aegean Sea
 
@@ -201,7 +201,7 @@ Sea Watch 3 also rescued 428 individuals and disembarked in a Southern Italian p
 One man was shot by a human smuggler on the shore, and then forced the group to take the body on the boat with them\.
 
 
-![Source: InfoMigrants](assets/4758ccf8a545/0*7Oe1DdneAGqxHsPc.jpg)
+![Source: InfoMigrants](../assets/4758ccf8a545/0*7Oe1DdneAGqxHsPc.jpg)
 
 Source: InfoMigrants
 ### Alarm Phone has reported on a boat in distress carrying 30 people — they fear another pushback is on the horizon
@@ -247,7 +247,7 @@ They had apparently been abandoned by smugglers in the forest\. 11 out of the 23
 ### After the recent expression and acts of Islamophobia in Leicester, a solidarity protest has been organised for Thursday
 
 
-![](assets/4758ccf8a545/0*IYH019Bdd_lW3J3r)
+![](../assets/4758ccf8a545/0*IYH019Bdd_lW3J3r)
 
 
 

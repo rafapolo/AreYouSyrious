@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 03/07/2020 : FEATURE — Where Does the Money Go in Libya?
+title: "AYS Daily Digest 03/07/2020 : FEATURE — Where Does the Money Go in Libya?"
 author: Are You Syrious?
 date: 2020-07-04T17:30:56.910+0100
 last_modified_at: 2020-07-04T17:30:56.910+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: []
 description: Greek NGO Registry Violates Human Rights/// Ocean Viking Declares State of Emergency/// Spanish Government Plans to Build New CIE/// & More…
 image:
-  path: assets/dac97c9b036e/0*DWgKITsZG5YT5dGu
+  path: ../assets/dac97c9b036e/0*DWgKITsZG5YT5dGu
 ---
 
 ### AYS Daily Digest 03/07/2020 : FEATURE — Where Does the Money Go in Libya?
 ### Greek NGO Registry Violates Human Rights/// Ocean Viking Declares State of Emergency/// Spanish Government Plans to Build New CIE/// & More News
 
 
-![](assets/dac97c9b036e/0*J4dLpqsGo3gJ8yhW.jpeg)
+![](../assets/dac97c9b036e/0*J4dLpqsGo3gJ8yhW.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----d4f21976945f----------------------)
@@ -22,11 +22,11 @@ image:
 [Jul 4](feature-where-does-the-money-go-in-libya-d4f21976945f?source=post_page-----d4f21976945f----------------------) · 10 min read
 
 
-![](assets/dac97c9b036e/0*HZ9o_MbgqAhchftJ)
+![](../assets/dac97c9b036e/0*HZ9o_MbgqAhchftJ)
 
 
 
-![](assets/dac97c9b036e/0*DWgKITsZG5YT5dGu)
+![](../assets/dac97c9b036e/0*DWgKITsZG5YT5dGu)
 
 
 Protest against a new CIE by [APDHA Campo de Gibraltar](https://www.facebook.com/1538769249698720/photos/pcb.2687622168146750/2687622091480091/?type=3&theater&ifg=1)
@@ -43,11 +43,11 @@ Most of the money is probably lining the pockets of various human traffickers an
 Italy and the EU’s deal with Libya is little more than blood money — essentially a bribe to war criminals to prevent crossings to Europe, so the EU itself doesn’t have to get its hands dirty\. None of that money is helping ordinary Libyans, and it most certainly isn’t helping the thousands of people on the move being tortured in Libya\. Conditions have worsened consistently, yet [over 5,000 people](https://www.facebook.com/Mediterranearescue/photos/a.275129016441663/613730949248133/?type=1&theater) have been returned to Libya so far this year\. Not only is Italy and the EU’s deal with Libya a waste of money, it’s also causing needless death and suffering\.
 
 
-![](assets/dac97c9b036e/0*uIGeEPmqiAliDAHy)
+![](../assets/dac97c9b036e/0*uIGeEPmqiAliDAHy)
 
 
 
-![](assets/dac97c9b036e/0*rIv_sHjDWHC68KAB)
+![](../assets/dac97c9b036e/0*rIv_sHjDWHC68KAB)
 
 
 IOM graphic, via [Mediterranea Saving Humans](https://www.facebook.com/Mediterranearescue/photos/a.275129016441663/613730949248133/?type=1&theater)

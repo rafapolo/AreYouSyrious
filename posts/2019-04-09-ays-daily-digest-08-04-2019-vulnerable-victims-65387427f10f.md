@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 08/04/2019: Vulnerable victims
+title: "AYS DAILY DIGEST 08/04/2019: Vulnerable victims"
 author: Are You Syrious?
 date: 2019-04-09T01:39:08.261+0100
 last_modified_at: 2019-04-11T14:46:18.425+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,libya,greece,europe]
 description: Thousands of people displaced and at risk, as new fights erups in Libya / Greek NGO workers association calls for protests / IOM needs to…
 image:
-  path: assets/65387427f10f/1*yE3NQYAjPjJP2ec-FRm60g.jpeg
+  path: ../assets/65387427f10f/1*yE3NQYAjPjJP2ec-FRm60g.jpeg
 ---
 
 ### AYS DAILY DIGEST 08/04/2019: Vulnerable victims
 #### Thousands of people displaced and at risk, as new fights erups in Libya / Greek NGO workers association calls for protests / IOM needs to close camps in Bosnia / Update on Dublin statistics
 
 
-![Humanitarian assistance is needed in Libya\. Source: [Twitter/United Nations](https://twitter.com/UN/status/1113970830470537216)](assets/65387427f10f/1*yE3NQYAjPjJP2ec-FRm60g.jpeg)
+![Humanitarian assistance is needed in Libya\. Source: [Twitter/United Nations](https://twitter.com/UN/status/1113970830470537216)](../assets/65387427f10f/1*yE3NQYAjPjJP2ec-FRm60g.jpeg)
 
 Humanitarian assistance is needed in Libya\. Source: [Twitter/United Nations](https://twitter.com/UN/status/1113970830470537216)
 ### Libya

@@ -5,9 +5,9 @@ date: 2019-05-24T09:56:11.407+0100
 last_modified_at: 2019-05-24T16:25:38.810+0100
 categories: Are You Syrious?
 tags: [refugees,digest,greece,diciotti,libyan-coast-guard]
-description: EU keeps standing by while people are pushed back to Libya in the Central Med /// Samos: the forgotten frontline /// Italian court expose…
+description: "EU keeps standing by while people are pushed back to Libya in the Central Med /// Samos: the forgotten frontline /// Italian court expose…"
 image:
-  path: assets/67df0acf7787/1*jxq_7ozRTybkXWiag_CKng.png
+  path: ../assets/67df0acf7787/1*jxq_7ozRTybkXWiag_CKng.png
 ---
 
 ### AYS Daily Digest 23/05/2019 — After 3 years reception in Greece is still an emergency
@@ -15,7 +15,7 @@ image:
 EU keeps standing by while people are pushed back to Libya in the Central Med /// Samos: the forgotten frontline /// Italian court expose Salvini’s fake news once more /// Facebook hides video on police brutality in Paris /// Updates from Syria /// Open letter to British PM to speed up children safe passage /// more…
 
 
-![](assets/67df0acf7787/1*jxq_7ozRTybkXWiag_CKng.png)
+![](../assets/67df0acf7787/1*jxq_7ozRTybkXWiag_CKng.png)
 
 #### Feature: After 3 years, reception in Greece is still an emergency
 
@@ -30,7 +30,7 @@ EU keeps standing by while people are pushed back to Libya in the Central Med //
 RSA state that “the Greek government never managed to move on from an emergency reception approach” to long\-term solutions or even just mid\-term ones\. As a consequence of the practice of using data and forecasts for electoral campaigning, “the numbers of refugees in need of shelter exceed those anticipated by Greek authorities for a third year in row\. As a result, refugee camps in the mainland became once more overcrowded while substandard reception conditions have a detrimental impact upon the physical and mental health of their residents”\.
 
 
-![](assets/67df0acf7787/1*FsS04taM-5FPd7Mnax30YQ.png)
+![](../assets/67df0acf7787/1*FsS04taM-5FPd7Mnax30YQ.png)
 
 
 
@@ -195,7 +195,7 @@ FRANCE
 #### Facebook censor police violence exposure
 
 
-[![From Solidarity Migrant Wilson: Paris - police violence against asylum seeker in the Parisian metro](assets/67df0acf7787/f403_hqdefault.jpg "From Solidarity Migrant Wilson: Paris - police violence against asylum seeker in the Parisian metro")](http://www.youtube.com/watch?v=W7wIOFPshrA)
+[![From Solidarity Migrant Wilson: Paris - police violence against asylum seeker in the Parisian metro](../assets/67df0acf7787/f403_hqdefault.jpg "From Solidarity Migrant Wilson: Paris - police violence against asylum seeker in the Parisian metro")](http://www.youtube.com/watch?v=W7wIOFPshrA)
 
 
 We publish this video in solidarity with Migrant Solidarity Wilson censored\. On May 21st, they published it on their Facebook page\. This video was deleted by Facebook in the afternoon while it had already been shared several thousands of times and watched more than 100,000 times\. For any explanation, they have received a message reporting that the \[video\] is “not allowed\.”

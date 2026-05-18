@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 15/06/2022: UK Rwanda flight cancelled by ECHR
+title: "AYS News Digest 15/06/2022: UK Rwanda flight cancelled by ECHR"
 author: Are You Syrious?
 date: 2022-06-16T12:41:32.615+0100
 last_modified_at: 2022-06-16T20:24:50.252+0100
@@ -7,7 +7,7 @@ categories:
 tags: [digest,newsdigest,echr,refugees]
 description: Call for action in Poland // Suspension of Schengen border code, Italy // Trial due to start of attempted suicide victim from Moira 2
 image:
-  path: assets/5edf6c22bed/0*8bkRz0sb0S2_dycd
+  path: ../assets/5edf6c22bed/0*8bkRz0sb0S2_dycd
 ---
 
 ### AYS News Digest 15/06/2022: **UK Rwanda flight cancelled by ECHR**
@@ -17,7 +17,7 @@ image:
 **UK Rwanda flight cancelled by ECHR**
 
 
-![](assets/5edf6c22bed/0*8bkRz0sb0S2_dycd)
+![](../assets/5edf6c22bed/0*8bkRz0sb0S2_dycd)
 
 
 With just minutes to spare before the flight was due to leave, the European Court of Human Rights prevented the first deportation flight\. Citing “ [real risk of inhuman and degrading treatment](https://twitter.com/JMPSimor/status/1536775864456818688?fbclid=IwAR0NtrWjX6ZQlLIyjiC6P4qYfjAnBRB7-RpRZL3PQavgsx-drQhOlwYTTpQ) \(Art\. 3 ECHR\)”, the UK government was forced to comply, preventing the six remaining people from being deported\.
@@ -88,7 +88,7 @@ A photographer has been [fined nearly €1,000](https://www.theguardian.com/worl
 #### Trial due to start of attempted suicide victim from Moira 2
 
 
-![Photo Credit: [Can’t Evict Solidarity](https://twitter.com/cantevict/status/1537091860904218626?fbclid=IwAR3LYNzwfGVnAY6zUxx1Llihy1Rnta2Y8N1ffZPaQlHwyvtrR_fC5osRyYM)](assets/5edf6c22bed/0*2dz7pIRNe8nAxGpd)
+![Photo Credit: [Can’t Evict Solidarity](https://twitter.com/cantevict/status/1537091860904218626?fbclid=IwAR3LYNzwfGVnAY6zUxx1Llihy1Rnta2Y8N1ffZPaQlHwyvtrR_fC5osRyYM)](../assets/5edf6c22bed/0*2dz7pIRNe8nAxGpd)
 
 Photo Credit: [Can’t Evict Solidarity](https://twitter.com/cantevict/status/1537091860904218626?fbclid=IwAR3LYNzwfGVnAY6zUxx1Llihy1Rnta2Y8N1ffZPaQlHwyvtrR_fC5osRyYM)
 

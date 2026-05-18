@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest: 16–17.10.2021: Polish lawyer bears witness to human rights violations
+title: "AYS Weekend Digest: 16–17.10.2021: Polish lawyer bears witness to human rights violations"
 author: Are You Syrious?
 date: 2021-10-18T20:13:31.049+0100
 last_modified_at: 2021-10-18T22:08:54.193+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,weekenddigest,europeanunion,humanrights]
 description: Protests against conditions in Libya // Lives lost off African coast // Afghan population face starvation // Turkish authorities push…
 image:
-  path: assets/799ca5074ca0/0*dLOYBG0cispm8TY2
+  path: ../assets/799ca5074ca0/0*dLOYBG0cispm8TY2
 ---
 
 ### AYS Weekend Digest: 16–17\.10\.2021: Polish lawyer bears witness to human rights violations
@@ -17,7 +17,7 @@ image:
 #### Polish lawyer bares witness to human rights violations
 
 
-![Photo Credit: [Wawalove](https://wawalove.wp.pl/dramat-na-granicy-polski-z-bialorusia-chlopiec-byl-przerazony-nie-zapomne-jego-oczu-6694008353684320a?fbclid=IwAR2jVlCLbg75qwXZrY9lF3nLQuNaqW0lUPR_NU2yFyUqXMElWf3h9iinAW4) Michal Kosc / Forum](assets/799ca5074ca0/0*dLOYBG0cispm8TY2)
+![Photo Credit: [Wawalove](https://wawalove.wp.pl/dramat-na-granicy-polski-z-bialorusia-chlopiec-byl-przerazony-nie-zapomne-jego-oczu-6694008353684320a?fbclid=IwAR2jVlCLbg75qwXZrY9lF3nLQuNaqW0lUPR_NU2yFyUqXMElWf3h9iinAW4) Michal Kosc / Forum](../assets/799ca5074ca0/0*dLOYBG0cispm8TY2)
 
 Photo Credit: [Wawalove](https://wawalove.wp.pl/dramat-na-granicy-polski-z-bialorusia-chlopiec-byl-przerazony-nie-zapomne-jego-oczu-6694008353684320a?fbclid=IwAR2jVlCLbg75qwXZrY9lF3nLQuNaqW0lUPR_NU2yFyUqXMElWf3h9iinAW4) Michal Kosc / Forum
 
@@ -46,7 +46,7 @@ This comes as people protest the treatment of refugees in Libya\. Those whom Sen
 #### Lives lost off African coast
 
 
-![Photo Credit: [AP News](https://apnews.com/article/europe-africa-migration-only-on-ap-birds-d84260007646147679759ed2bce9628c?fbclid=IwAR3TYDaQ1da2qJwj4nC_qo3dP-rD0YhmEuLIh1AQuRWQcc34yHepmjd59Rk) Seabird watches the water\.](assets/799ca5074ca0/0*zgy984n1mwzRqbKh)
+![Photo Credit: [AP News](https://apnews.com/article/europe-africa-migration-only-on-ap-birds-d84260007646147679759ed2bce9628c?fbclid=IwAR3TYDaQ1da2qJwj4nC_qo3dP-rD0YhmEuLIh1AQuRWQcc34yHepmjd59Rk) Seabird watches the water\.](../assets/799ca5074ca0/0*zgy984n1mwzRqbKh)
 
 Photo Credit: [AP News](https://apnews.com/article/europe-africa-migration-only-on-ap-birds-d84260007646147679759ed2bce9628c?fbclid=IwAR3TYDaQ1da2qJwj4nC_qo3dP-rD0YhmEuLIh1AQuRWQcc34yHepmjd59Rk) Seabird watches the water\.
 
@@ -65,7 +65,7 @@ The monitoring work of SeaWatch’s airplane ‘ Seabird’ was the subject of [
 #### Turkish authorities push people back to Iran
 
 
-![Photo Credit:© 2021 Alba Cambeiro/ SIPA Images/AP A Turkish soldier stands at the Turkish border with Iran\.](assets/799ca5074ca0/0*xzGKnoW8Wdmuh2gJ)
+![Photo Credit:© 2021 Alba Cambeiro/ SIPA Images/AP A Turkish soldier stands at the Turkish border with Iran\.](../assets/799ca5074ca0/0*xzGKnoW8Wdmuh2gJ)
 
 Photo Credit:© 2021 Alba Cambeiro/ SIPA Images/AP A Turkish soldier stands at the Turkish border with Iran\.
 
@@ -74,7 +74,7 @@ Photo Credit:© 2021 Alba Cambeiro/ SIPA Images/AP A Turkish soldier stands at t
 #### Women Afghan MPs and judges meet Greek Prime Minister
 
 
-[![Συνάντηση Κυριάκου Μητσοτάκη με γυναίκες βουλευτές και δικαστικούς από το Αφγανιστάν](assets/799ca5074ca0/e223_hqdefault.jpg "Συνάντηση Κυριάκου Μητσοτάκη με γυναίκες βουλευτές και δικαστικούς από το Αφγανιστάν")](https://www.youtube.com/watch?v=Ak5-bFZAr9U)
+[![Συνάντηση Κυριάκου Μητσοτάκη με γυναίκες βουλευτές και δικαστικούς από το Αφγανιστάν](../assets/799ca5074ca0/e223_hqdefault.jpg "Συνάντηση Κυριάκου Μητσοτάκη με γυναίκες βουλευτές και δικαστικούς από το Αφγανιστάν")](https://www.youtube.com/watch?v=Ak5-bFZAr9U)
 
 
 The Greek Prime Minister, Kyriakos Mitsotakis, [welcomed female MPs and judges](https://primeminister.gr/en/2021/10/15/27713) who have recently been evacuated from Afghanistan\. His kind words seem to have led to a helpful dialogue between the high\-powered women and their European colleague, however, this [twitter thread highlights the contradictions](https://twitter.com/samosvolunteers/status/1449391639601029120?fbclid=IwAR2WrhAgjQEcyrL3A84SS4Du3WoKCB5104_7esgidXdbvshzK0k8dczniPo) between the words and actions of the Greek government in relation to the treatment of refugees from Afghanistan\.
@@ -103,7 +103,7 @@ A trending hashtag in Greek \(‘Mitsotaki where are the children’\) has broug
 EU’s Migration Commissioner Ylva Johansson has called for a transparent investigation into pushback claims in the Aegean Sea\. This is a condition imposed before further funding will be granted\. The Greek government is [examining the possibility of designating the National Transparency Authority \(EAD\) to this role\.](https://www.ekathimerini.com/news/1169960/transparency-authority-may-probe-pushback-claims/?fbclid=IwAR3TYDaQ1da2qJwj4nC_qo3dP-rD0YhmEuLIh1AQuRWQcc34yHepmjd59Rk) This comes as more people are likely to have been pushed back as contact was lost with [a group who arrived in Ikaria\.](https://twitter.com/PDimitras/status/1449666105136586757?fbclid=IwAR20Nljg2uwbey2eOy3uo_GO0GKXYSIAgwXuRtTeCQ3S8hJkHsROUYG9yeY)
 
 
-![Photo Credit: [Deutsche Welle](https://www.dw.com/en/golden-dawn-is-down-but-far-right-rises-again-in-greece/a-59528529) /Picture Alliance\.](assets/799ca5074ca0/0*ZHPNdrQluEKPvalE)
+![Photo Credit: [Deutsche Welle](https://www.dw.com/en/golden-dawn-is-down-but-far-right-rises-again-in-greece/a-59528529) /Picture Alliance\.](../assets/799ca5074ca0/0*ZHPNdrQluEKPvalE)
 
 Photo Credit: [Deutsche Welle](https://www.dw.com/en/golden-dawn-is-down-but-far-right-rises-again-in-greece/a-59528529) /Picture Alliance\.
 
@@ -114,7 +114,7 @@ The article continues with incidents perpetrated by other right\-wing groups\. G
 #### Conditions in northern Bosnia
 
 
-![Photo Credit: [Umino](https://www.facebook.com/umino.org/posts/4113312775440431) \. A tent camp in Velika Kladuša, Bosnia\.](assets/799ca5074ca0/0*4rk_5TUFnDG48hZe)
+![Photo Credit: [Umino](https://www.facebook.com/umino.org/posts/4113312775440431) \. A tent camp in Velika Kladuša, Bosnia\.](../assets/799ca5074ca0/0*4rk_5TUFnDG48hZe)
 
 Photo Credit: [Umino](https://www.facebook.com/umino.org/posts/4113312775440431) \. A tent camp in Velika Kladuša, Bosnia\.
 
@@ -134,7 +134,7 @@ Photo Credit: [Umino](https://www.facebook.com/umino.org/posts/4113312775440431)
 #### Anniversary: French police against protesters, 60 years on\.
 
 
-![Photo Credit: [Arthur Asseraf](https://twitter.com/ArthurAsseraf)](assets/799ca5074ca0/0*oHKIk31qZdau02zL)
+![Photo Credit: [Arthur Asseraf](https://twitter.com/ArthurAsseraf)](../assets/799ca5074ca0/0*oHKIk31qZdau02zL)
 
 Photo Credit: [Arthur Asseraf](https://twitter.com/ArthurAsseraf)
 

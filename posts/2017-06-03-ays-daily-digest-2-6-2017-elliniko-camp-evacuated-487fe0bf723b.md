@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 2/6/2017: Elliniko camp evacuated
+title: "AYS DAILY DIGEST 2/6/2017: Elliniko camp evacuated"
 author: Are You Syrious?
 date: 2017-06-03T01:04:22.634+0100
 last_modified_at: 2017-06-03T10:46:19.958+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,greece,austria,germany,france]
 description: Situation still deteriorating on Chios // New team to concentrate on reunification from Greece // No Name Kitchen moves to the border with…
 image:
-  path: assets/487fe0bf723b/1*ZxqLaDUhvsx5aOrjT8PxbQ.jpeg
+  path: ../assets/487fe0bf723b/1*ZxqLaDUhvsx5aOrjT8PxbQ.jpeg
 ---
 
 ### AYS DAILY DIGEST 2/6/2017: Elliniko camp evacuated
 #### Situation still deteriorating on Chios // New team to concentrate on reunification from Greece // No Name Kitchen moves to the border with Croatia // Deportations continue from Austria despite attacks // Partnership between Utopia 56 and MSF
 
 
-![Greek policemen controlling the access to the camp area on Friday morning](assets/487fe0bf723b/1*ZxqLaDUhvsx5aOrjT8PxbQ.jpeg)
+![Greek policemen controlling the access to the camp area on Friday morning](../assets/487fe0bf723b/1*ZxqLaDUhvsx5aOrjT8PxbQ.jpeg)
 
 Greek policemen controlling the access to the camp area on Friday morning
 ### Feature
@@ -22,24 +22,24 @@ Greek policemen controlling the access to the camp area on Friday morning
 Police moved today to relocate the remaining refugees from Elliniko camp, something the government had intended to do for a long time\. Over the last few weeks, the Greek government has been trying to persuade refugees, practically all Afghan, to leave by removing vital services\. On 20 May, the NGOs providing medical care, clothing, legal advice, translation, and cleaning were withdrawn\. In the days that followed, WiFi, electricity, and water services were cut off and residents were told to accept transfers elsewhere or lose support\.
 
 
-![Photo by [**Marios Lolos**](https://www.facebook.com/marios.lolos.1)](assets/487fe0bf723b/1*FuO0Q-7_eiWV3qxA220mLQ.jpeg)
+![Photo by [**Marios Lolos**](https://www.facebook.com/marios.lolos.1)](../assets/487fe0bf723b/1*FuO0Q-7_eiWV3qxA220mLQ.jpeg)
 
 Photo by [**Marios Lolos**](https://www.facebook.com/marios.lolos.1)
 
 And this morning the police finally did it, coming in large numbers \(about 150 officers\) to the area and blocking off access to the old airport site\. According to reports, using nine buses, they started moving the families to the newly finished camp in Thiva, a camp that has been planned for about one year now, according to volunteers’ reports, but has only now been made available\. About 350 people, mostly families, were reportedly transferred to this new camp, about 70 km north of the capital, and the remaining residents \(over 100 according to reports\) were taken to Petrou Ralli police headquarters for identity checks and later moved to Derveni, a small town by the coast 140 km west of Athens \( not to be confused with the two small refugee camps in Thessaloniki area in the north\) \.
 
 
-![Photo by [**Marios Lolos**](https://www.facebook.com/marios.lolos.1)](assets/487fe0bf723b/1*5sMUlAoSS0V1GppfAggRkw.jpeg)
+![Photo by [**Marios Lolos**](https://www.facebook.com/marios.lolos.1)](../assets/487fe0bf723b/1*5sMUlAoSS0V1GppfAggRkw.jpeg)
 
 Photo by [**Marios Lolos**](https://www.facebook.com/marios.lolos.1)
 
 
-![Photo by [**Marios Lolos**](https://www.facebook.com/marios.lolos.1)](assets/487fe0bf723b/1*z42Q12WKyaRQ9gUQLYIB9w.jpeg)
+![Photo by [**Marios Lolos**](https://www.facebook.com/marios.lolos.1)](../assets/487fe0bf723b/1*z42Q12WKyaRQ9gUQLYIB9w.jpeg)
 
 Photo by [**Marios Lolos**](https://www.facebook.com/marios.lolos.1)
 
 
-![Photo by [**Marios Lolos**](https://www.facebook.com/marios.lolos.1)](assets/487fe0bf723b/1*V3osw1xwk-qYjBnvBjoNSA.jpeg)
+![Photo by [**Marios Lolos**](https://www.facebook.com/marios.lolos.1)](../assets/487fe0bf723b/1*V3osw1xwk-qYjBnvBjoNSA.jpeg)
 
 Photo by [**Marios Lolos**](https://www.facebook.com/marios.lolos.1)
 
@@ -74,12 +74,12 @@ The situation on Chios continues to be the most worrying, with many people now h
 
 
 
-![AYS](assets/487fe0bf723b/1*7EgjFQlZPs5EgqUUm457nw.jpeg)
+![AYS](../assets/487fe0bf723b/1*7EgjFQlZPs5EgqUUm457nw.jpeg)
 
 AYS
 
 
-![AYS](assets/487fe0bf723b/1*ffLTD-rJcoSFlWzJ7vNAeQ.jpeg)
+![AYS](../assets/487fe0bf723b/1*ffLTD-rJcoSFlWzJ7vNAeQ.jpeg)
 
 AYS
 
@@ -104,7 +104,7 @@ AYS is the proud donor of the mobile kitchen facility serving its third field te
 No Name Kitchen has moved its activities to Šid recently and they are celebrating their 100th dinner distribution\. They started their dinner project in the barracks of Belgrade back in January, but since they were evicted the group decided to move to move to Šid and take over cooking from ADM group\.
 
 
-![Photo by [**No Name Kitchen**](https://www.facebook.com/NoNameKitchenBelgrade/)](assets/487fe0bf723b/1*ebNlqJ2WlZTPdsoA7f6Clg.jpeg)
+![Photo by [**No Name Kitchen**](https://www.facebook.com/NoNameKitchenBelgrade/)](../assets/487fe0bf723b/1*ebNlqJ2WlZTPdsoA7f6Clg.jpeg)
 
 Photo by [**No Name Kitchen**](https://www.facebook.com/NoNameKitchenBelgrade/)
 

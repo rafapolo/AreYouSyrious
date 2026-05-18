@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL about the EU-Turkey deal: An error in the system
+title: "AYS SPECIAL about the EU-Turkey deal: An error in the system"
 author: Are You Syrious?
 date: 2018-03-21T12:06:51.579+0000
 last_modified_at: 2018-04-09T09:59:41.226+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,special,turkey,eu,deal]
 description: Deportees from the Greek islands face problems before and after their deportation / Most of them are sent back by Turkey to their home…
 image:
-  path: assets/2415621d4973/1*_KbvwvGAzJbTJYhjEfg4ag.jpeg
+  path: ../assets/2415621d4973/1*_KbvwvGAzJbTJYhjEfg4ag.jpeg
 ---
 
 ### AYS SPECIAL about the EU\-Turkey deal: An error in the system
 #### _Deportees from the Greek islands face problems before and after their deportation / Most of them are sent back by Turkey to their home countries_
 
 
-![A deportation bus on Lesvos\. Credits: [Enough is Enough\!](https://twitter.com/enough14/status/942747697324445697)](assets/2415621d4973/1*_KbvwvGAzJbTJYhjEfg4ag.jpeg)
+![A deportation bus on Lesvos\. Credits: [Enough is Enough\!](https://twitter.com/enough14/status/942747697324445697)](../assets/2415621d4973/1*_KbvwvGAzJbTJYhjEfg4ag.jpeg)
 
 A deportation bus on Lesvos\. Credits: [Enough is Enough\!](https://twitter.com/enough14/status/942747697324445697)
 
@@ -23,7 +23,7 @@ A core part of the 2016 EU\-Turkey deal was the fast deportation of asylum seeke
 Since 21st March 2016, a total of 1,571 people have been deported from the Greek islands back to Turkey under the agreement, out of them 273 Syrians\. More than 60,000 newly arrived, some 4,100 of them in 2018\. At the same time, EU countries resetteled 12,715 people \(as of 19/3/2018\) \. Bulgaria, Cyprus, the Czech Republic, Denmark, Greece, Hungary, Ireland, Poland, Romania, Slovakia, Slovenia, the United Kingdom and Norway did not take any\.
 
 
-![](assets/2415621d4973/1*DR0CpPCovswFsbF-jm74oQ.png)
+![](../assets/2415621d4973/1*DR0CpPCovswFsbF-jm74oQ.png)
 
 
 However, asylum seekers in the so\-called hotspots face legal struggles as well as the dire living conditions\. “Free legal aid is provided only to appeal the first rejection/negative decision,” a spokesperson of Emergency Legal Aid \(ELA\) — Chios explained, speaking to AYS\. There were only a handful of lawyers, contracted by NGOs, following cases in the third instance, for example appeals against rejections rendered in the second instance\. But in these cases, the Panel of Coordinates “are not looking at the asylum case itself, only for errors in the legal process\. Only if new strong evidence is brought to bear which was not available at the time of the interviews will they also take that into consideration\. It is an expensive process with private lawyers\.”
@@ -72,7 +72,7 @@ Contrary to DG Echo’s statements, the study further found interviewees who sta
 Outside the camps and detention centers conditions are also dire, as [AYS reported from the field previously this year](ays-special-turkey-the-only-hope-is-to-return-one-day-1df83003a89b) \. This is also confirmed by the study: “Outside of camps, Turkey does not provide Syrians with accommodation or assistance with accommodation costs, nor has it put into place systematic welfare provision for conditional refugees and asylum seekers\.” Even though there is a legal access to free health care in public facilities, in fact it is not given or is hampered by language barriers\.
 
 
-![One of the makeshift camps in Turkey\.](assets/2415621d4973/1*2RggsqMMV1q5Umaw7P-N9A.jpeg)
+![One of the makeshift camps in Turkey\.](../assets/2415621d4973/1*2RggsqMMV1q5Umaw7P-N9A.jpeg)
 
 One of the makeshift camps in Turkey\.
 

@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,greece,refugee-camps]
 description: Vaccine Inequality on Samos//Roundups, Brutality in Serbia//Updates and Police “Cleanup” On French-Italian Border//
 image:
-  path: assets/1322158b2f7c/0*o3OPVugc1m15QYIf
+  path: ../assets/1322158b2f7c/0*o3OPVugc1m15QYIf
 ---
 
 ### AYS Daily Digest 21/07/2021 — Baby dies in Kara Tepe, where was the medical help?
 #### Vaccine inequality on Samos//Roundups, brutality in Serbia//Updates and police “cleanup” on French\-Italian border//
 
 
-![Police officers and urban cleaners take people’s mattresses and sleeping arrangements near Ventimiglia\. Photo credit: [Kesha Niya](https://www.facebook.com/KeshaNiyaProject/posts/1563436204001241)](assets/1322158b2f7c/0*o3OPVugc1m15QYIf)
+![Police officers and urban cleaners take people’s mattresses and sleeping arrangements near Ventimiglia\. Photo credit: [Kesha Niya](https://www.facebook.com/KeshaNiyaProject/posts/1563436204001241)](../assets/1322158b2f7c/0*o3OPVugc1m15QYIf)
 
 Police officers and urban cleaners take people’s mattresses and sleeping arrangements near Ventimiglia\. Photo credit: [Kesha Niya](https://www.facebook.com/KeshaNiyaProject/posts/1563436204001241)
 #### FEATURE

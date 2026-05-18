@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 4–5/9/21: Will the German state intervene to keep its promise to reunite the…
+title: "AYS Weekend Digest 4–5/9/21: Will the German state intervene to keep its promise to reunite the…"
 author: Are You Syrious?
 date: 2021-09-06T17:19:05.780+0100
 last_modified_at: 2021-09-06T18:19:05.108+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,afghanistan,europe,germany]
 description: Moroccan activists call for mobilization against the indifference of UNHCR / Commissioner for Human Rights calls out Greece / Evictions in…
 image:
-  path: assets/b563b8c0d5c3/0*rbdBj018326AMb43
+  path: ../assets/b563b8c0d5c3/0*rbdBj018326AMb43
 ---
 
 ### AYS Weekend Digest 4–5/9/21: Will the German state intervene to keep its promise to reunite the evacuees with their families?
 #### Moroccan activists call for mobilization against the indifference of UNHCR / Commissioner for Human Rights calls out Greece / Evictions in Bosnia and Herzegovina continue, with a little help from the UN organisations / Calais needs volunteers / & more info
 
 
-![There was a demonstration by Afghan women demanding that other countries not recognize the Taliban\. The Taliban have dispersed it by force — by [**Mortaza Behboudi**](https://twitter.com/mortazabehboudi)](assets/b563b8c0d5c3/0*rbdBj018326AMb43)
+![There was a demonstration by Afghan women demanding that other countries not recognize the Taliban\. The Taliban have dispersed it by force — by [**Mortaza Behboudi**](https://twitter.com/mortazabehboudi)](../assets/b563b8c0d5c3/0*rbdBj018326AMb43)
 
 There was a demonstration by Afghan women demanding that other countries not recognize the Taliban\. The Taliban have dispersed it by force — by [**Mortaza Behboudi**](https://twitter.com/mortazabehboudi)
 #### FEATURE
@@ -34,7 +34,7 @@ Many people have gathered in different groups and initiatives spending days and 
 ### Activists call for mobilization against the indifference of UNHCR
 
 
-![](assets/b563b8c0d5c3/0*2gv78HdgdmjUio3v)
+![](../assets/b563b8c0d5c3/0*2gv78HdgdmjUio3v)
 
 
 The authorities of Oujda raided the places where the Sudanese asylum seekers gathered to sleep and have evicted them all, including the vacant ground located near the Oujda hotel\. An inhuman and unjustified action that aggravates their situation of living in the street in the absence of any assistance from UNHCR, AMDH activists report\. Even a little rest in a remote place is not tolerated\. It is more urgent than ever to mobilize against this indifference of UNHCR representatives in the face of the suffering of the Sudanese\.
@@ -92,7 +92,7 @@ Close to one third of the population currently staying in squalid camps across t
 Although the number of people on the move who are staying in these camps has significantly lessened, the living conditions and general treatment they are getting have not changed or improved\.
 
 
-![These are classes of women and girls in Moria Acadamia our partner in Camp\. Most if these students come from Afghanistan and their teachers too\. All of them want to learn and improve and especially now in this situation such places become even more important\. — [Moria Corona Awareness Team](https://www.facebook.com/MoriaCoronaAwarenessTeam/?__cft__[0]=AZVaix_m3aL4kv3GTkLK5zjZwQWyNtpiJwIreTuzZAzzOz92599cFwcBz_mNlCtbiQkQ4HEYX3hexaEDLZklj3Lh364C9ZCqlYMLy4Mxugwn8URQlZfzoVx4CItCQ1HaYaJ_vUc8eUj_n7_424Ukjofm&__tn__=-UC%2CP-R)](assets/b563b8c0d5c3/0*Yovd_MEBBx4NSYg8)
+![These are classes of women and girls in Moria Acadamia our partner in Camp\. Most if these students come from Afghanistan and their teachers too\. All of them want to learn and improve and especially now in this situation such places become even more important\. — [Moria Corona Awareness Team](https://www.facebook.com/MoriaCoronaAwarenessTeam/?__cft__[0]=AZVaix_m3aL4kv3GTkLK5zjZwQWyNtpiJwIreTuzZAzzOz92599cFwcBz_mNlCtbiQkQ4HEYX3hexaEDLZklj3Lh364C9ZCqlYMLy4Mxugwn8URQlZfzoVx4CItCQ1HaYaJ_vUc8eUj_n7_424Ukjofm&__tn__=-UC%2CP-R)](../assets/b563b8c0d5c3/0*Yovd_MEBBx4NSYg8)
 
 These are classes of women and girls in Moria Acadamia our partner in Camp\. Most if these students come from Afghanistan and their teachers too\. All of them want to learn and improve and especially now in this situation such places become even more important\. — [Moria Corona Awareness Team](https://www.facebook.com/MoriaCoronaAwarenessTeam/?__cft__[0]=AZVaix_m3aL4kv3GTkLK5zjZwQWyNtpiJwIreTuzZAzzOz92599cFwcBz_mNlCtbiQkQ4HEYX3hexaEDLZklj3Lh364C9ZCqlYMLy4Mxugwn8URQlZfzoVx4CItCQ1HaYaJ_vUc8eUj_n7_424Ukjofm&__tn__=-UC%2CP-R)
 #### SERBIA
@@ -109,7 +109,7 @@ The text is available [here\.](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.b
 NNK field volunteers active in the area around Velika Kladuša report on the most recent evictions of the empty buildings squatted by people on the move who have no other or better solution for their current situation and are not offered real protection or any chance for a fair asylum process\. Here is what they wrote:
 
 
-![](assets/b563b8c0d5c3/0*7cwP29TVa0QcJOol)
+![](../assets/b563b8c0d5c3/0*7cwP29TVa0QcJOol)
 
 
 
@@ -156,11 +156,11 @@ Refugee Info Bus is urgently recruiting a long term volunteer \(6 months \+ \) t
 “This is a crucial role within the team, helping us ensure we deliver reliable services to displaced communities,” they wrote\. Find out more and apply by following [this link](https://t.co/jBIayGeHrW?amp=1) \.
 
 
-![](assets/b563b8c0d5c3/0*XSSa7RjXRfpqmyVg)
+![](../assets/b563b8c0d5c3/0*XSSa7RjXRfpqmyVg)
 
 
 
-![](assets/b563b8c0d5c3/0*FA8oFghwZZcPd3Zc)
+![](../assets/b563b8c0d5c3/0*FA8oFghwZZcPd3Zc)
 
 #### GERMANY
 ### Cut off from the outside world
@@ -172,7 +172,7 @@ Racism, noise pollution, inadequate medical care and a lack of privacy — these
 Next Sunday, in Copenhagen — [Event link](https://www.facebook.com/events/180345567529077?ref=newsfeed)
 
 
-![](assets/b563b8c0d5c3/0*NetK1D4b_VYiaO7s)
+![](../assets/b563b8c0d5c3/0*NetK1D4b_VYiaO7s)
 
 #### BELARUS
 

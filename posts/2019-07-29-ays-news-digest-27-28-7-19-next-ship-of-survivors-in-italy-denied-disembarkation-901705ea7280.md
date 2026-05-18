@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 27–28/7/19: Next ship of survivors in Italy denied disembarkation
+title: "AYS News Digest 27–28/7/19: Next ship of survivors in Italy denied disembarkation"
 author: Are You Syrious?
 date: 2019-07-29T16:48:55.632+0100
 last_modified_at: 2019-07-29T16:48:55.632+0100
@@ -7,18 +7,18 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,eu-turkey-deal,bosnia]
 description: Confusion about EU-Turkey deal // Salvini refuses disembarkation of survivors from Italian coast guard ship // 430 unaccompanied minors and…
 image:
-  path: assets/901705ea7280/0*52nNq186kDxGr6eN.jpeg
+  path: ../assets/901705ea7280/0*52nNq186kDxGr6eN.jpeg
 ---
 
 ### AYS News Digest 27–28/7/19: Next ship of survivors in Italy denied disembarkation
 #### Confusion about EU\-Turkey deal // Salvini refuses disembarkation of survivors from Italian coast guard ship // 430 unaccompanied minors and children in Moria // Severe conditions in Vučjak, Bosnia, continue to satisfaction of the EU?\!
 
 
-![](assets/901705ea7280/0*Icyo0ZdK8z9YThca)
+![](../assets/901705ea7280/0*Icyo0ZdK8z9YThca)
 
 
 
-![](assets/901705ea7280/0*52nNq186kDxGr6eN.jpeg)
+![](../assets/901705ea7280/0*52nNq186kDxGr6eN.jpeg)
 
 
 With sit\-in and demonstrations, a network of afghan families is demonstrating against deportations to Afghanistan\. Children painted this shocking image\.
@@ -61,11 +61,11 @@ In Bosnia, for almost two months now about 800 people are living in severe condi
 The situation is worsened by violence of both Croatian and Bosnian police\. Dirk Planert, a journalist who is trying to support as good as he can on his own expenses is deeply in need of donations to buy food items, medical supply and shoes\. Contact him directly on [Facebook](https://www.facebook.com/dirk.planert?__tn__=%2CdlC-R-R&eid=ARBJmoBmKV8sQdlyll08a2FajIesJRvDwxD2Z8ddTe1TwZ7Luoui2C8mcqdl0P-s36Iom_4chLjHU0jg&hc_ref=ARSAYtzba0Plxuat7A7z7vTBRLyhTaH47BvTphmbo88MeXq7jGNdTvpI5Z3CxZpImdE&source=post_page---------------------------) if you can help\.
 
 
-![](assets/901705ea7280/0*uRChWVBCav1kSgY2)
+![](../assets/901705ea7280/0*uRChWVBCav1kSgY2)
 
 
 
-![](assets/901705ea7280/0*Kh66ti95_ut804JC.jpeg)
+![](../assets/901705ea7280/0*Kh66ti95_ut804JC.jpeg)
 
 ### Call for Help
 
@@ -82,11 +82,11 @@ Meanwhile, Salvini still does not allow more than 130 survivors of the devastati
 Mobile Refugee Support is once again reporting about growing numbers of people in Dunkirk and fears of an imminent eviction of the camp currently holding over 500 people\. People are additionally suffering from hot temperatures followed by heavy rain\. MRS is in search of donations and volunteers\. Same goes for FAST, a first aid support team that is also operating in Dunkirk and Calais and is in urgent need of medical volunteers\.
 
 
-![](assets/901705ea7280/0*Jl1A9BaO-tCd1loO)
+![](../assets/901705ea7280/0*Jl1A9BaO-tCd1loO)
 
 
 
-![](assets/901705ea7280/1*b31hiO4ynbDLRrXWEFF4aQ.png)
+![](../assets/901705ea7280/1*b31hiO4ynbDLRrXWEFF4aQ.png)
 
 
 Photo: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?tn-str=k*F&hc_location=group_dialog&source=post_page---------------------------)
@@ -103,11 +103,11 @@ Photo: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?t
 To find out more about how to get involved, and how to donate please see their website [https://www\.f\-a\-s\-t\.eu/](https://www.f-a-s-t.eu/?fbclid=IwAR1fT-hoGgEiAiz1edMqSsPCec5iXSpuaPQGI_OwruQ8ddVeAhQl12OsBkA&source=post_page---------------------------) \.
 
 
-![](assets/901705ea7280/0*1mnVql3xupJcwon_)
+![](../assets/901705ea7280/0*1mnVql3xupJcwon_)
 
 
 
-![](assets/901705ea7280/1*b31hiO4ynbDLRrXWEFF4aQ.png)
+![](../assets/901705ea7280/1*b31hiO4ynbDLRrXWEFF4aQ.png)
 
 
 Photo: [First Aid Support Team — FAST](https://www.facebook.com/FASTFirstAidSupportTeam/?tn-str=k*F&hc_location=group_dialog&source=post_page---------------------------)

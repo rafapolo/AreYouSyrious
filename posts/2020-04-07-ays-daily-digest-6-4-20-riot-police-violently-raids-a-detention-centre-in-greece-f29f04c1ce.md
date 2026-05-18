@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 6/4/20: Riot police violently raids a detention centre in Greece
+title: "AYS Daily Digest 6/4/20: Riot police violently raids a detention centre in Greece"
 author: Are You Syrious?
 date: 2020-04-07T13:49:06.333+0100
 last_modified_at: 2020-04-07T16:17:49.899+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,greece,europe,coronavirus]
 description: Marking tomorrow’s World Health Day with 1,3 million COVID-19 cases and the death toll of over 70,000 people worldwide, the world forgets…
 image:
-  path: assets/f29f04c1ce/1*0Fud_LNgH3kRRSsMFpuxqw.jpeg
+  path: ../assets/f29f04c1ce/1*0Fud_LNgH3kRRSsMFpuxqw.jpeg
 ---
 
 ### AYS Daily Digest 6/4/20: Riot Police Violently Raid a Detention Centre in Greece
 #### Marking tomorrow’s World Health Day with 1\.3 million COVID\-19 cases and the death toll of over 70,000 people worldwide, the world forgets those in forced isolation, increasing despair, and neglect with people on the move — read some of the latest news from the field
 
 
-![Camp Krnjača in Serbia, where people are isolated and without possibility to go out, leave the camp or provide their own food \(Photos: [Lagkadikia Camqu Hama](https://www.facebook.com/lagkadikia.camp.12?__tn__=%2CdCH-R-R&eid=ARAfTHeNvosr8-9I_DMBzbGGHM8ZVp3sfytdT74Iq_NkmJcdXOREmKrc2g3V68IZofZkaB-jYavmfF3D&hc_ref=ARTkF2uS3wwLq6krwaioEIxbQy9KOfKq3TMxVMipoH5LVpvfha2PjiaTZ-iNX3SeU_k&fref=nf&hc_location=group) \)](assets/f29f04c1ce/1*0Fud_LNgH3kRRSsMFpuxqw.jpeg)
+![Camp Krnjača in Serbia, where people are isolated and without possibility to go out, leave the camp or provide their own food \(Photos: [Lagkadikia Camqu Hama](https://www.facebook.com/lagkadikia.camp.12?__tn__=%2CdCH-R-R&eid=ARAfTHeNvosr8-9I_DMBzbGGHM8ZVp3sfytdT74Iq_NkmJcdXOREmKrc2g3V68IZofZkaB-jYavmfF3D&hc_ref=ARTkF2uS3wwLq6krwaioEIxbQy9KOfKq3TMxVMipoH5LVpvfha2PjiaTZ-iNX3SeU_k&fref=nf&hc_location=group) \)](../assets/f29f04c1ce/1*0Fud_LNgH3kRRSsMFpuxqw.jpeg)
 
 Camp Krnjača in Serbia, where people are isolated and without possibility to go out, leave the camp or provide their own food \(Photos: [Lagkadikia Camqu Hama](https://www.facebook.com/lagkadikia.camp.12?__tn__=%2CdCH-R-R&eid=ARAfTHeNvosr8-9I_DMBzbGGHM8ZVp3sfytdT74Iq_NkmJcdXOREmKrc2g3V68IZofZkaB-jYavmfF3D&hc_ref=ARTkF2uS3wwLq6krwaioEIxbQy9KOfKq3TMxVMipoH5LVpvfha2PjiaTZ-iNX3SeU_k&fref=nf&hc_location=group) \)
 #### FEATURED
@@ -165,7 +165,7 @@ The SCRM introduced obligatory isolation for new arrivals sent to Preševo camp,
 Growing mental health issues, gaps in service provision and supply, conflicts between different groups and the toxic influence of smugglers’ propaganda inspiring some to protest violently, these are some of the issues InfoPark documented from the testimonies of people held in these centres\.
 
 
-![Camp Krnjača in Serbia, where people are isolated and without possibility to go out, leave the camp or provide their own food \(Photos: [Lagkadikia Camqu Hama](https://www.facebook.com/lagkadikia.camp.12?__tn__=%2CdCH-R-R&eid=ARAfTHeNvosr8-9I_DMBzbGGHM8ZVp3sfytdT74Iq_NkmJcdXOREmKrc2g3V68IZofZkaB-jYavmfF3D&hc_ref=ARTkF2uS3wwLq6krwaioEIxbQy9KOfKq3TMxVMipoH5LVpvfha2PjiaTZ-iNX3SeU_k&fref=nf&hc_location=group) \)](assets/f29f04c1ce/1*59M1cec4DvYPHybMMvheVQ.jpeg)
+![Camp Krnjača in Serbia, where people are isolated and without possibility to go out, leave the camp or provide their own food \(Photos: [Lagkadikia Camqu Hama](https://www.facebook.com/lagkadikia.camp.12?__tn__=%2CdCH-R-R&eid=ARAfTHeNvosr8-9I_DMBzbGGHM8ZVp3sfytdT74Iq_NkmJcdXOREmKrc2g3V68IZofZkaB-jYavmfF3D&hc_ref=ARTkF2uS3wwLq6krwaioEIxbQy9KOfKq3TMxVMipoH5LVpvfha2PjiaTZ-iNX3SeU_k&fref=nf&hc_location=group) \)](../assets/f29f04c1ce/1*59M1cec4DvYPHybMMvheVQ.jpeg)
 
 Camp Krnjača in Serbia, where people are isolated and without possibility to go out, leave the camp or provide their own food \(Photos: [Lagkadikia Camqu Hama](https://www.facebook.com/lagkadikia.camp.12?__tn__=%2CdCH-R-R&eid=ARAfTHeNvosr8-9I_DMBzbGGHM8ZVp3sfytdT74Iq_NkmJcdXOREmKrc2g3V68IZofZkaB-jYavmfF3D&hc_ref=ARTkF2uS3wwLq6krwaioEIxbQy9KOfKq3TMxVMipoH5LVpvfha2PjiaTZ-iNX3SeU_k&fref=nf&hc_location=group) \)
 

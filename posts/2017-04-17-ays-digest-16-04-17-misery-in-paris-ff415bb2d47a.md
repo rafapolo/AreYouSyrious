@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe]
 description: Attempted suicide in Paris and desperate situation for unaccompanied minors. Volunteers needed in Greece. At least 3,000 refugees rescued…
 image:
-  path: assets/ff415bb2d47a/0*8lF6LLZnorAzhBoJ.
+  path: ../assets/ff415bb2d47a/0*8lF6LLZnorAzhBoJ.
 ---
 
 ### AYS Digest 16\.04\.17 — Misery in Paris
 
 
-![Photo by Joao Pequeno](assets/ff415bb2d47a/0*8lF6LLZnorAzhBoJ.)
+![Photo by Joao Pequeno](../assets/ff415bb2d47a/0*8lF6LLZnorAzhBoJ.)
 
 Photo by Joao Pequeno
 
@@ -26,7 +26,7 @@ Three associations, _Quartiers Solidaires, Les p’tits dejs à Flandre_ and _En
 The groups denounce the French state for multiplying hurdles and obstacles, given the lack of shelters and complicated procedures, while using its power to “repress” and “hide” refugees from the public\.
 
 
-![Photo by Cœurs de Pierres et Solidaires](assets/ff415bb2d47a/0*amPueOl1-wy4h5YA.)
+![Photo by Cœurs de Pierres et Solidaires](../assets/ff415bb2d47a/0*amPueOl1-wy4h5YA.)
 
 Photo by Cœurs de Pierres et Solidaires
 
@@ -52,12 +52,12 @@ This problem has been going on for a while now, with the DEMIE, the organism in 
 69 refugees arrived on Chios this Sunday, including 32 children\. 40 people including many children arrived in Lesvos\. 38 refugees were registered on Chios and 12 in Lesvos yesterday\.
 
 
-![](assets/ff415bb2d47a/0*JSSQvv-A1-c2MKR7.)
+![](../assets/ff415bb2d47a/0*JSSQvv-A1-c2MKR7.)
 
 ### Volunteers needed
 
 
-![Photo by Refugee Info Bus](assets/ff415bb2d47a/1*NCorkXAU1604y5iYQSmQGw.jpeg)
+![Photo by Refugee Info Bus](../assets/ff415bb2d47a/1*NCorkXAU1604y5iYQSmQGw.jpeg)
 
 Photo by Refugee Info Bus
 
@@ -80,7 +80,7 @@ MOAS rescued over 1,500 people from 9 vessels across 24 hours, from Friday to Sa
 WatchTheMed Alarm Phone says that NGOs rescue boats were over capacity and both the Iuventa boat from Jugend Rettet and Sea\-Eye had urgently signaled MAYDAY and requested support from the Italian Maritime Rescue Coordination Centre \(MRCC\) in Rome\. The Iuventa’s message came as it had more than 400 people on board, with the weather deteriorating and many more refugees in rubber boats surrounding them\.
 
 
-![Photo by Jugend Rettet](assets/ff415bb2d47a/0*ERcxMnvCBM2hWduL.)
+![Photo by Jugend Rettet](../assets/ff415bb2d47a/0*ERcxMnvCBM2hWduL.)
 
 Photo by Jugend Rettet
 

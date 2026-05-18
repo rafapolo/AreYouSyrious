@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 30–31/03/2019 Minors in France: controversial assessments and unfair treatment
+title: "AYS Weekend Digest 30–31/03/2019 Minors in France: controversial assessments and unfair treatment"
 author: Are You Syrious?
 date: 2019-04-01T11:25:58.594+0100
 last_modified_at: 2019-04-01T12:54:16.921+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,france,minors,greece]
 description: Syria — floods hit camps in Idlib and Aleppo /// Malta — Updates on the El Hiblu 1 case /// Italy — New arrivals in Lampedusa /// France —…
 image:
-  path: assets/86f92c2ce2bc/1*mmU4iqzrYBKRBIlUKhqjzQ.jpeg
+  path: ../assets/86f92c2ce2bc/1*mmU4iqzrYBKRBIlUKhqjzQ.jpeg
 ---
 
 ### AYS Weekend Digest 30–31/03/2019 Minors in France: controversial assessments and unfair treatment
@@ -15,7 +15,7 @@ image:
 Syria — floods hit camps in Idlib and Aleppo /// Malta — Updates on the El Hiblu 1 case /// Italy — New arrivals in Lampedusa /// France — Asylum lawyers on strike against new implementations /// Germany — Report on protests in Bremen against ‘Dublin’ deportation /// Bosnia — 100 people arrive in Tuzla /// Greece — baby injured in a fire in Skaramangas camp
 
 
-![Kilkis, Greece 29 March 2019: 500 refugees arrived from the Greek islands and were placed in tents in Nea Kavala camp for refugees in Northern Greece\. \(Photograph by [Nada JT](https://www.facebook.com/nada.jt) \) — [\#noborders](https://www.facebook.com/hashtag/noborders?epa=HASHTAG)](assets/86f92c2ce2bc/1*mmU4iqzrYBKRBIlUKhqjzQ.jpeg)
+![Kilkis, Greece 29 March 2019: 500 refugees arrived from the Greek islands and were placed in tents in Nea Kavala camp for refugees in Northern Greece\. \(Photograph by [Nada JT](https://www.facebook.com/nada.jt) \) — [\#noborders](https://www.facebook.com/hashtag/noborders?epa=HASHTAG)](../assets/86f92c2ce2bc/1*mmU4iqzrYBKRBIlUKhqjzQ.jpeg)
 
 Kilkis, Greece 29 March 2019: 500 refugees arrived from the Greek islands and were placed in tents in Nea Kavala camp for refugees in Northern Greece\. \(Photograph by [Nada JT](https://www.facebook.com/nada.jt) \) — [\#noborders](https://www.facebook.com/hashtag/noborders?epa=HASHTAG)
 #### FEATURE — Minors in France: controversial assessments and unfair treatment as the Constitutional Council rules in favour of bone testing to determine age of people on the move
@@ -78,7 +78,7 @@ PALESTINE
 #### Donation needed for Aida Youth Centre in Bethlehem
 
 
-[![Aida Youth Center](assets/86f92c2ce2bc/7f42_hqdefault.jpg "Aida Youth Center")](http://www.youtube.com/watch?v=BKoXfKOcfss)
+[![Aida Youth Center](../assets/86f92c2ce2bc/7f42_hqdefault.jpg "Aida Youth Center")](http://www.youtube.com/watch?v=BKoXfKOcfss)
 
 
 [Aida Youth Centre](https://www.aidacenter.org/) in the Aida Refugee Camp in Bethlehem, Palestine, which is run by people who once grew up in the camp, is trying to raise funds to ensure they can continue their much\-needed work\. The youth centre, which has been open since 1968, works tirelessly to create a safe recreation space for the youth stuck in the camp\. The centre has recently started to focus more and more on education programmes including extra\-curricular activities such as arts and crafts, music, sport, scouts and the occasional excursion, due to the damaging impact of prolonged occupation on Palestinian children and the undercapacity of other groups offering educational support\. It also provides social workers and counselling support for students and their families\.
@@ -96,20 +96,20 @@ Photos and videos have emerged of serious floods in camps surrounding Aleppo and
 
 
 
-![](assets/86f92c2ce2bc/1*nHNLudyhiu2bPZNEkEOpvA.jpeg)
+![](../assets/86f92c2ce2bc/1*nHNLudyhiu2bPZNEkEOpvA.jpeg)
 
 
 
-![Photos by [Tally Oliver](https://www.facebook.com/tally.oliver/posts/10157255812334343?hc_location=ufi)](assets/86f92c2ce2bc/1*gp1zrsTk6iXf6RHge4R6Zw.jpeg)
+![Photos by [Tally Oliver](https://www.facebook.com/tally.oliver/posts/10157255812334343?hc_location=ufi)](../assets/86f92c2ce2bc/1*gp1zrsTk6iXf6RHge4R6Zw.jpeg)
 
 Photos by [Tally Oliver](https://www.facebook.com/tally.oliver/posts/10157255812334343?hc_location=ufi)
 
 
-![](assets/86f92c2ce2bc/1*ApUo0VTq_ijT-XKgnYgUiQ.jpeg)
+![](../assets/86f92c2ce2bc/1*ApUo0VTq_ijT-XKgnYgUiQ.jpeg)
 
 
 
-![Photos by [IHH Insani Yardim Vakfi](https://www.facebook.com/ihhinsaniyardim/posts/10157382432705229?hc_location=ufi)](assets/86f92c2ce2bc/1*TqptRl0IRr3ydbXa9J8XOg.jpeg)
+![Photos by [IHH Insani Yardim Vakfi](https://www.facebook.com/ihhinsaniyardim/posts/10157382432705229?hc_location=ufi)](../assets/86f92c2ce2bc/1*TqptRl0IRr3ydbXa9J8XOg.jpeg)
 
 Photos by [IHH Insani Yardim Vakfi](https://www.facebook.com/ihhinsaniyardim/posts/10157382432705229?hc_location=ufi)
 
@@ -123,7 +123,7 @@ TURKEY
 SEA
 
 
-![Photo by [Sea\-eye](https://www.facebook.com/seaeyeorg/photos/a.732203640218869/1837167366389152/?type=3&theater&ifg=1)](assets/86f92c2ce2bc/1*rRcCEDb-CkXt1c-AW3VSBA.jpeg)
+![Photo by [Sea\-eye](https://www.facebook.com/seaeyeorg/photos/a.732203640218869/1837167366389152/?type=3&theater&ifg=1)](../assets/86f92c2ce2bc/1*rRcCEDb-CkXt1c-AW3VSBA.jpeg)
 
 Photo by [Sea\-eye](https://www.facebook.com/seaeyeorg/photos/a.732203640218869/1837167366389152/?type=3&theater&ifg=1)
 
@@ -361,11 +361,11 @@ It has [been reported](https://www.cazin.net/vijesti/migranti-sele-u-buzim-tursk
 #### Locals support people on the move in Tuzla
 
 
-![](assets/86f92c2ce2bc/1*hmaLhSOSgrXjF68zC7hbgQ.jpeg)
+![](../assets/86f92c2ce2bc/1*hmaLhSOSgrXjF68zC7hbgQ.jpeg)
 
 
 
-![Tuzla bus station\. \(Photo by Senad Cupo\)](assets/86f92c2ce2bc/1*UuQTsJXAR-05py8AugIbFg.jpeg)
+![Tuzla bus station\. \(Photo by Senad Cupo\)](../assets/86f92c2ce2bc/1*UuQTsJXAR-05py8AugIbFg.jpeg)
 
 Tuzla bus station\. \(Photo by Senad Cupo\)
 
@@ -454,7 +454,7 @@ He was taken to hospital, but has already been released\. He was due to be forci
 In response to the brutal practice of the French police \(as well as of the authorities of many other European countries\) of throwing away personal belongings, blankets, tents and sleeping bags of people on the move forced to sleep in makeshift camps, The Paris Refugee Ground Support has managed to salvage tons of items from landfill\.
 
 
-![Paris, photo by [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/photos/pcb.2334826283464145/2334825683464205/?type=3&theater)](assets/86f92c2ce2bc/1*VGqx4i455md3uizBdyjNTA.jpeg)
+![Paris, photo by [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/photos/pcb.2334826283464145/2334825683464205/?type=3&theater)](../assets/86f92c2ce2bc/1*VGqx4i455md3uizBdyjNTA.jpeg)
 
 Paris, photo by [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/photos/pcb.2334826283464145/2334825683464205/?type=3&theater)
 #### Fundraising for the Brittany — Calais solidarity truck
@@ -517,17 +517,17 @@ Read the full report [here](https://www.facebook.com/TogetherWeAreBremen/posts/6
 6,000 people protested on Saturday in Berlin for a humane asylum policy, for safe ports and solidarity cities\.
 
 
-![](assets/86f92c2ce2bc/1*wLrJFr_ZcNSTU5GfZGEgug.jpeg)
+![](../assets/86f92c2ce2bc/1*wLrJFr_ZcNSTU5GfZGEgug.jpeg)
 
 
 
-![Solidarians take the streets in Berlin \(photo by [Seebrücke — Schafft sichere Häfen](https://www.facebook.com/SeebrueckeSchafftsichereHaefen/) \)](assets/86f92c2ce2bc/1*zR5iAzH-ANdh5Zx3Lcfd4Q.jpeg)
+![Solidarians take the streets in Berlin \(photo by [Seebrücke — Schafft sichere Häfen](https://www.facebook.com/SeebrueckeSchafftsichereHaefen/) \)](../assets/86f92c2ce2bc/1*zR5iAzH-ANdh5Zx3Lcfd4Q.jpeg)
 
 Solidarians take the streets in Berlin \(photo by [Seebrücke — Schafft sichere Häfen](https://www.facebook.com/SeebrueckeSchafftsichereHaefen/) \)
 #### SOS Mediterranee initiatives in Berlin and Hamburg
 
 
-![[SOS Mediterraneè](https://www.facebook.com/SOSMEDITERRANEE/photos/a.806663182774325/2138143982959565/?type=3&theater)](assets/86f92c2ce2bc/1*i0H7aB3m9izCG-mac_dthA.png)
+![[SOS Mediterraneè](https://www.facebook.com/SOSMEDITERRANEE/photos/a.806663182774325/2138143982959565/?type=3&theater)](../assets/86f92c2ce2bc/1*i0H7aB3m9izCG-mac_dthA.png)
 
 [SOS Mediterraneè](https://www.facebook.com/SOSMEDITERRANEE/photos/a.806663182774325/2138143982959565/?type=3&theater)
 

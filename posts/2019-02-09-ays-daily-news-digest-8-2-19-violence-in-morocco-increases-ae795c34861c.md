@@ -1,5 +1,5 @@
 ---
-title: AYS Daily News Digest 8/2/19: Violence in Morocco increases
+title: "AYS Daily News Digest 8/2/19: Violence in Morocco increases"
 author: Are You Syrious?
 date: 2019-02-09T10:56:41.353+0000
 last_modified_at: 2019-02-09T15:50:11.628+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,morocco,greece,spain]
 description: Even racist attacks of civilians increase / New makeshift camps in Greece show up / Mainly South and Central American refugees in Spain
 image:
-  path: assets/ae795c34861c/1*dHUQRa1ORcIavI3MQmtdLA.jpeg
+  path: ../assets/ae795c34861c/1*dHUQRa1ORcIavI3MQmtdLA.jpeg
 ---
 
 ### AYS Daily News Digest 8/2/19: Violence in Morocco increases
 #### Even racist attacks of civilians increase / New makeshift camps in Greece show up / Mainly South and Central American refugees in Spain
 
 
-![AMDH reports, that people are being arrested, because they are black\. Credits: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?tn-str=k%2AF)](assets/ae795c34861c/1*dHUQRa1ORcIavI3MQmtdLA.jpeg)
+![AMDH reports, that people are being arrested, because they are black\. Credits: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?tn-str=k%2AF)](../assets/ae795c34861c/1*dHUQRa1ORcIavI3MQmtdLA.jpeg)
 
 AMDH reports, that people are being arrested, because they are black\. Credits: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?tn-str=k%2AF)
 #### FEATURE
@@ -22,7 +22,7 @@ AMDH reports, that people are being arrested, because they are black\. Credits: 
 There are currently repeated reports coming through that the violations of the Moroccan authorities against sub\-Saharan migrants have reached unbearable limits\.
 
 
-![“ A day of arrest of migrants in nador\. In the streets, the auxiliary forces and authority officers arrested several sub\-Saharan migrants among them women who did nothing wrong except that they were black\.”](assets/ae795c34861c/1*vv7QNRB3Hlci9eBiXqoBbg.jpeg)
+![“ A day of arrest of migrants in nador\. In the streets, the auxiliary forces and authority officers arrested several sub\-Saharan migrants among them women who did nothing wrong except that they were black\.”](../assets/ae795c34861c/1*vv7QNRB3Hlci9eBiXqoBbg.jpeg)
 
 “ A day of arrest of migrants in nador\. In the streets, the auxiliary forces and authority officers arrested several sub\-Saharan migrants among them women who did nothing wrong except that they were black\.”
 
@@ -130,7 +130,7 @@ More than half of the applicants are from Venezuela and Colombia; four of the to
 [Collectif Soutien Migrants 13 / El Manba](https://www.facebook.com/collectifmigrants13/?tn-str=k%2AF) writes about another death due to hypothermia in Montgenevre\. On Saturday they announced a solidarity march at 3pm: “Don’t let them silently turn the mountains into a cemetery\.”
 
 
-![Credits: [Collectif Soutien Migrants 13 / El Manba](https://www.facebook.com/collectifmigrants13/?tn-str=k%2AF)](assets/ae795c34861c/1*ArBhKfRLgWfy8MwGyF0eRw.jpeg)
+![Credits: [Collectif Soutien Migrants 13 / El Manba](https://www.facebook.com/collectifmigrants13/?tn-str=k%2AF)](../assets/ae795c34861c/1*ArBhKfRLgWfy8MwGyF0eRw.jpeg)
 
 Credits: [Collectif Soutien Migrants 13 / El Manba](https://www.facebook.com/collectifmigrants13/?tn-str=k%2AF)
 ### Netherlands

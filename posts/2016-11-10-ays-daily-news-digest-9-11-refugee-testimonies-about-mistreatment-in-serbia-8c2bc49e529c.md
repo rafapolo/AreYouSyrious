@@ -1,5 +1,5 @@
 ---
-title: AYS Daily News digest: 9/11: Refugee testimonies about mistreatment in Serbia
+title: "AYS Daily News digest: 9/11: Refugee testimonies about mistreatment in Serbia"
 author: Are You Syrious?
 date: 2016-11-10T02:29:59.737+0000
 last_modified_at: 2016-11-10T09:43:25.905+0000
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,human-rights,syria,serbia]
 description: Serbia, a limbo on the refugee path to safety, systematically breaching human rights / Overcrowded island of Chios getting another refugee…
 image:
-  path: assets/8c2bc49e529c/1*qIT4GLDMVBUk421MlMVRrw.jpeg
+  path: ../assets/8c2bc49e529c/1*qIT4GLDMVBUk421MlMVRrw.jpeg
 ---
 
 ### AYS Daily News digest: 9/11: Refugee testimonies about mistreatment in Serbia
 #### _Serbia, a limbo on the refugee path to safety, systematically breaching human rights / Overcrowded island of Chios getting another refugee reception centre / Hungary limited the number of applications by half / Wet, cold, dangerous — circumstances in which hundreds sleep in Paris streets / People of Aleppo left alone, attacked by all sides / Mosul evacuation under go_
 
 
-![“ No child shall be subjected to arbitrary or unlawful interference with his or her privacy, family, or correspondence, nor to unlawful attacks on his or her honour and reputation\.” — Article 16, Convention on the Rights of the Child \(Photo: [SIRIUS\.HELP](https://www.facebook.com/sirius.help/) \)](assets/8c2bc49e529c/1*qIT4GLDMVBUk421MlMVRrw.jpeg)
+![“ No child shall be subjected to arbitrary or unlawful interference with his or her privacy, family, or correspondence, nor to unlawful attacks on his or her honour and reputation\.” — Article 16, Convention on the Rights of the Child \(Photo: [SIRIUS\.HELP](https://www.facebook.com/sirius.help/) \)](../assets/8c2bc49e529c/1*qIT4GLDMVBUk421MlMVRrw.jpeg)
 
 “ No child shall be subjected to arbitrary or unlawful interference with his or her privacy, family, or correspondence, nor to unlawful attacks on his or her honour and reputation\.” — Article 16, Convention on the Rights of the Child \(Photo: [SIRIUS\.HELP](https://www.facebook.com/sirius.help/) \)
 ### One step forth, two back: Serbia systematically ignores Human Rights
@@ -22,7 +22,7 @@ image:
 For most of the refugees Serbia is meant to be a station, not a new home\. But with around 6200 refugees there estimated by UNHCR as of 2\. November 2016, the people stuck there are facing more and more problems\. This is a consequence of the stricter border controls in Hungary which have been implemented in the beginning of July and left the protection seekers stranded in Serbia, which obviously was not prepared to host that much people\. One example: In the end of June UNHCR reported agitatedly, that for the first time since February there have been more than 2000 people\. Today the number is three times higher\.
 
 
-![additional places: tents on the ground in the official camp in Subotica \(Photo: [Moving Europe](http://moving-europe.org/bordered-lives-unbound-violence/) \)](assets/8c2bc49e529c/1*sRkCsgYgsYGqHJVxoaYW8w.jpeg)
+![additional places: tents on the ground in the official camp in Subotica \(Photo: [Moving Europe](http://moving-europe.org/bordered-lives-unbound-violence/) \)](../assets/8c2bc49e529c/1*sRkCsgYgsYGqHJVxoaYW8w.jpeg)
 
 additional places: tents on the ground in the official camp in Subotica \(Photo: [Moving Europe](http://moving-europe.org/bordered-lives-unbound-violence/) \)
 #### Illegal deportations
@@ -30,7 +30,7 @@ additional places: tents on the ground in the official camp in Subotica \(Photo:
 “Go in Macedonia\. Don’t come in Serbia again\.” This sentence has been shouted to a refugee by Serbian authority\. It has come to our attention, that since several weeks authorities in Serbia have started to deport refugees from Sid and other locations back to Presevo\. When the camp in the south of the country was too overcrowded, they started to deport the protection seekers back to Macedonia without any legal process or information\. “They put everyone on four busses\. Two buses they take to the little, uh, in the Preševo camp, a closed camp\. And two buses they take to deport”, a deported refugee told AYS volunteers and continued: “Because Preševo camp is now full, they deport to Macedonia\.”\. After spending some two weeks in the forest and later in a small village, they paid 300 Euros to get back to Belgrade\.
 
 
-![](assets/8c2bc49e529c/1*ecbDn_w0SodWfmzoRzEsOw.jpeg)
+![](../assets/8c2bc49e529c/1*ecbDn_w0SodWfmzoRzEsOw.jpeg)
 
 
 
@@ -43,18 +43,18 @@ additional places: tents on the ground in the official camp in Subotica \(Photo:
 **AYS is aware of people hiding in forests or abandoned factory buildings with only little support from volunteers\.**
 
 
-![Photo: [Kimmie Whicher](https://www.facebook.com/KimberlyMae19)](assets/8c2bc49e529c/1*tmXj_LDyoBnuyuHrEsshHg.jpeg)
+![Photo: [Kimmie Whicher](https://www.facebook.com/KimberlyMae19)](../assets/8c2bc49e529c/1*tmXj_LDyoBnuyuHrEsshHg.jpeg)
 
 Photo: [Kimmie Whicher](https://www.facebook.com/KimberlyMae19)
 
 These deportations are surprising for volunteers in the field, who can’t react on these actions since there is no legal process and the deported refugees don’t get information before it happens\. For the protection seekers this is even more surprising — and frightening\. “They say, there is no deporting of people in Serbia\. Then why they deport people in Serbia?” our contact said\. During the last months Serbian police among refugees was famous for being kind of calm, nice\. At least to what they and their friends experience in Hungary or especially Bulgaria, where our contact had spend three months: “It is very very difficult and very very strict\. They are also beating us and take our mobile phones and our money\.”
 
 
-![](assets/8c2bc49e529c/1*ke-GVYhL9-PgO8i--eRVEA.jpeg)
+![](../assets/8c2bc49e529c/1*ke-GVYhL9-PgO8i--eRVEA.jpeg)
 
 
 
-![Photos: [Refugee’s Anthem](https://www.facebook.com/refugeesanthem/)](assets/8c2bc49e529c/1*3uFM07--XzeGlvkpFp5Ilw.jpeg)
+![Photos: [Refugee’s Anthem](https://www.facebook.com/refugeesanthem/)](../assets/8c2bc49e529c/1*3uFM07--XzeGlvkpFp5Ilw.jpeg)
 
 Photos: [Refugee’s Anthem](https://www.facebook.com/refugeesanthem/)
 
@@ -67,7 +67,7 @@ Further volunteers in the field reported that the or pushbacks after the deporta
 On the other side UNHCR reports, that within three days they “and partners encountered over 60 foreign nationals who reported to have been pushed\-back/unlawfully expelled into Serbia, without having been granted access to asylum procedures in Croatia”\. Same for Hungary, where the refugees reportedly were not being given any food or drinks until they came back to Serbia\.
 
 
-![Photo: [DOAM](https://www.facebook.com/doamuslims/)](assets/8c2bc49e529c/1*4Mx-6DSUWrnZmFLDFVMUXg.jpeg)
+![Photo: [DOAM](https://www.facebook.com/doamuslims/)](../assets/8c2bc49e529c/1*4Mx-6DSUWrnZmFLDFVMUXg.jpeg)
 
 Photo: [DOAM](https://www.facebook.com/doamuslims/)
 #### Leave order
@@ -82,18 +82,18 @@ This Afghan man is not the only case we know about with this order\. Other cases
 We all remember the pictures of Idomeni, Dunkirk, Calais and at least Paris\. While all of these makeshift camps have been demolished, several hundred refugees still have to wait in the same, not to say even worse, conditions compared to the mentioned camps\. In the transit zones of Kelebija/Tompa and Horgos/Röszke around 170 people camp on Serbian soil, waiting to cross the border soon\. [They have no appropriate shelter, showers or heaters there](https://medium.com/@AreYouSyrious/ays-daily-news-08-11-i-could-kill-you-here-and-no-one-would-care-562af6f68b9b#.n9cilmrz3) \. Having asked for at least showers, some were answered that they are not supposed to stay in the transit zones but the camps\.
 
 
-![\(Photo: [SIRIUS\.HELP](https://www.facebook.com/sirius.help/) \)](assets/8c2bc49e529c/1*ZcScq2qsBZ7P0NJSCApd3w.jpeg)
+![\(Photo: [SIRIUS\.HELP](https://www.facebook.com/sirius.help/) \)](../assets/8c2bc49e529c/1*ZcScq2qsBZ7P0NJSCApd3w.jpeg)
 
 \(Photo: [SIRIUS\.HELP](https://www.facebook.com/sirius.help/) \)
 
 Further in Belgrade the government has asked volunteers and NGOs to stop supporting refugees who live in the rough streets, sometimes since months\. The reason is, that they want the refugees to stay in official reception centres\. Info Park \(on 25\.10\.2016\) and Miksaliste \(2\.11\.2016\) already suspended food distributions\. Miksaliste at least until they find a way to support enough people\.
 
 
-![](assets/8c2bc49e529c/1*lxWGOmSI0VqCzhu3CZkRWw.jpeg)
+![](../assets/8c2bc49e529c/1*lxWGOmSI0VqCzhu3CZkRWw.jpeg)
 
 
 
-![Photo: Refugee Aid Miksalište](assets/8c2bc49e529c/1*gzITWTgpOIavzVZp-tuieQ.jpeg)
+![Photo: Refugee Aid Miksalište](../assets/8c2bc49e529c/1*gzITWTgpOIavzVZp-tuieQ.jpeg)
 
 Photo: Refugee Aid Miksalište
 
@@ -112,7 +112,7 @@ Furthermore internationals volunteers are being denied access, even when trying 
 **Additional reporting: Niklas Golit**
 
 
-![Photo: [Info Park](https://www.facebook.com/Info-Park-885932764794322/)](assets/8c2bc49e529c/1*eOEZUpVimBhnWljzEIDLHQ.jpeg)
+![Photo: [Info Park](https://www.facebook.com/Info-Park-885932764794322/)](../assets/8c2bc49e529c/1*eOEZUpVimBhnWljzEIDLHQ.jpeg)
 
 Photo: [Info Park](https://www.facebook.com/Info-Park-885932764794322/)
 
@@ -132,7 +132,7 @@ Photo: [Info Park](https://www.facebook.com/Info-Park-885932764794322/)
 
 
 
-![Photo: [Children of SYRIA](https://www.facebook.com/marcheforsyria/)](assets/8c2bc49e529c/1*Emhw_2Ln2l4PaUTuvv3xeg.jpeg)
+![Photo: [Children of SYRIA](https://www.facebook.com/marcheforsyria/)](../assets/8c2bc49e529c/1*Emhw_2Ln2l4PaUTuvv3xeg.jpeg)
 
 Photo: [Children of SYRIA](https://www.facebook.com/marcheforsyria/)
 #### IRAQ
@@ -144,7 +144,7 @@ Aid organizations have warned that fighting around the city could displace up to
 
 ![Gogjali, Iraq 7 November 2016
 A boy carries a lamb as he and his family flee their home trying to find safety from war operations in Mosul\.
-\(Photo: Marko Drobnjaković\)](assets/8c2bc49e529c/1*ah3YfnxO9yIZpsKSMPi1oQ.jpeg)
+\(Photo: Marko Drobnjaković\)](../assets/8c2bc49e529c/1*ah3YfnxO9yIZpsKSMPi1oQ.jpeg)
 
 Gogjali, Iraq 7 November 2016
 A boy carries a lamb as he and his family flee their home trying to find safety from war operations in Mosul\.
@@ -160,7 +160,7 @@ As the weather is getting rough lately, a strong wind destroyed some tent struct
 They claim there have been many improvements and efforts have been made to move people off the beach, though some are still living in small tents outside the camp\.
 
 
-![Photo credits: Astraparis\.gr](assets/8c2bc49e529c/1*hyTDWxBYZDOtn27Z5GbJsg.jpeg)
+![Photo credits: Astraparis\.gr](../assets/8c2bc49e529c/1*hyTDWxBYZDOtn27Z5GbJsg.jpeg)
 
 Photo credits: Astraparis\.gr
 #### **New reception centre to be opened on Chios**
@@ -172,12 +172,12 @@ Refugee students from Syria, Afghanistan, Iraq, Iran, Pakistan, Algeria, and mor
 for more information, go [here](https://www.youcaring.com/chios-east-shore-rescue-team-5175…) \.
 
 
-![“ RRDP research studying the human rights situation in refugee camps in Greece is underway\! Yesterday we completed data collection in four major camps around Athens and will proceed to further camps hosting a large number of refugees and displaced people during the next days\. The study results to be compiled into a report and made widely available to European policy makers, media and general public before the end of the year\.” \(Photo: [Refugee Rights Data Project](https://www.facebook.com/RefugeeRightsData/) \)](assets/8c2bc49e529c/1*Drm1IFi-lr6vLfy7AWYlqA.jpeg)
+![“ RRDP research studying the human rights situation in refugee camps in Greece is underway\! Yesterday we completed data collection in four major camps around Athens and will proceed to further camps hosting a large number of refugees and displaced people during the next days\. The study results to be compiled into a report and made widely available to European policy makers, media and general public before the end of the year\.” \(Photo: [Refugee Rights Data Project](https://www.facebook.com/RefugeeRightsData/) \)](../assets/8c2bc49e529c/1*Drm1IFi-lr6vLfy7AWYlqA.jpeg)
 
 “ RRDP research studying the human rights situation in refugee camps in Greece is underway\! Yesterday we completed data collection in four major camps around Athens and will proceed to further camps hosting a large number of refugees and displaced people during the next days\. The study results to be compiled into a report and made widely available to European policy makers, media and general public before the end of the year\.” \(Photo: [Refugee Rights Data Project](https://www.facebook.com/RefugeeRightsData/) \)
 
 
-![A new bus shelter built for the Oreokastro camp\. “We welcome anyone that wants to get shit done so if you have a project that needs doing, let us know\. You are welcome to come use our workshop full of helpful toys\.” \(Photo: [The Get Shit Done Team](https://www.facebook.com/The-Get-Shit-Done-Team-304001796641127/) \)](assets/8c2bc49e529c/1*SVy87MRckHB2Zl7vkX9DKA.jpeg)
+![A new bus shelter built for the Oreokastro camp\. “We welcome anyone that wants to get shit done so if you have a project that needs doing, let us know\. You are welcome to come use our workshop full of helpful toys\.” \(Photo: [The Get Shit Done Team](https://www.facebook.com/The-Get-Shit-Done-Team-304001796641127/) \)](../assets/8c2bc49e529c/1*SVy87MRckHB2Zl7vkX9DKA.jpeg)
 
 A new bus shelter built for the Oreokastro camp\. “We welcome anyone that wants to get shit done so if you have a project that needs doing, let us know\. You are welcome to come use our workshop full of helpful toys\.” \(Photo: [The Get Shit Done Team](https://www.facebook.com/The-Get-Shit-Done-Team-304001796641127/) \)
 #### **HUNGARY**
@@ -195,7 +195,7 @@ They had arrived in their new home, their little son was born in Austria\. But, 
 In the heart of the most refugee welcoming country in Europe a wall has been built\. Local politicians have expressed anger at a sound barrier built between a new refugee shelter and residential homes in the Munich district of Neuperlach, DW reports\. A 100 meters \(330 feet\) long and four metres high wall made of massive gray rocks and held together by metal wires, it has sparked outrage among the locals and politicians\.
 
 
-![](assets/8c2bc49e529c/1*B3TzmB2H2Mr1wNcQrpv90A.jpeg)
+![](../assets/8c2bc49e529c/1*B3TzmB2H2Mr1wNcQrpv90A.jpeg)
 
 #### FRANCE
 
@@ -227,11 +227,11 @@ In the heart of the most refugee welcoming country in Europe a wall has been bui
 
 
 
-![](assets/8c2bc49e529c/1*qB8Xr2dIaQaPsIi45qE3ZQ.jpeg)
+![](../assets/8c2bc49e529c/1*qB8Xr2dIaQaPsIi45qE3ZQ.jpeg)
 
 
 
-![Photo: [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/)](assets/8c2bc49e529c/1*fHb6Qw7cJtVHEEc_krey9A.jpeg)
+![Photo: [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/)](../assets/8c2bc49e529c/1*fHb6Qw7cJtVHEEc_krey9A.jpeg)
 
 Photo: [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/)
 

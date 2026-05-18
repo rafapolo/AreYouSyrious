@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 14/05/2019: Open Arms dismissed of charge for aiding illegal immigration
+title: "AYS Daily Digest 14/05/2019: Open Arms dismissed of charge for aiding illegal immigration"
 author: Are You Syrious?
 date: 2019-05-15T10:49:25.813+0100
 last_modified_at: 2019-05-18T13:49:21.696+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,human-rights,solidarity,europe]
 description: Captain of Mission Lifeline to be fined 10.000 euros//Expulsions and push-backs from and to Morocco continue//Aid agencies and EU call for…
 image:
-  path: assets/e9fc82e22851/1*JH-nnc1iyR97lkHPk2CXDg.jpeg
+  path: ../assets/e9fc82e22851/1*JH-nnc1iyR97lkHPk2CXDg.jpeg
 ---
 
 ### AYS Daily Digest 14/05/19: Open Arms dismissed of charge for aiding illegal immigration
 #### Captain of Mission Lifeline to be fined 10\.000 euros//Expulsions and push\-backs from and to Morocco continue//Aid agencies and EU call for a ceasefire and a UN Resolution for Libya//One more death in Bosnia//EU not to return people to their countries of origin if the risk of death and torture is high//2018 report on Greece for AIDA released//Story of solidarity from Italy//…
 
 
-![Credit: Proactiva Open Arms](assets/e9fc82e22851/1*JH-nnc1iyR97lkHPk2CXDg.jpeg)
+![Credit: Proactiva Open Arms](../assets/e9fc82e22851/1*JH-nnc1iyR97lkHPk2CXDg.jpeg)
 
 Credit: Proactiva Open Arms
 ### FEATURED STORIES
@@ -210,11 +210,11 @@ A sad reminder\. \.
 
 
 
-![](assets/e9fc82e22851/1*xrJRVlKlCVYdyZ6Olblrpg.jpeg)
+![](../assets/e9fc82e22851/1*xrJRVlKlCVYdyZ6Olblrpg.jpeg)
 
 
 
-![Credit: [borderline europe — Menschenrechte ohne Grenzen e\.V\.](https://www.facebook.com/borderlineeurope/?__xts__%5B0%5D=68.ARB5zA2A4GUoo7cEtdPjUsUCaw6IT11_B6h82Pe8moGgfqlihSGhDtXgmbDuBEJpnr6rLf2pB_3ZZV8uahx2vVAF-Ub6l4seMHycV5aPYYMu3GAzRUbH86rYNsOy2yk-xZx1xAMqFhHFuXplFnk_aEU4NSTBmg29tDZzFyV08-9L_jl0G85JmRVBrRai7cQ_qsgSoV9KhH854lyVBtWO5bEnNRdgkqx7zFxS2TLnpK0CC0e3Oh3JxwoWQFgoI0530qbZ1a-Cd7kbHcNqA-OutLyDb4kxHS7dpAvarhm165c6XqP8WdmnlPlWpP7oJ_qnMclYZ-j8Jr9E7jFPDWqJ1sfLfY0qMAlLxoTsoAKAQgzVX1yUs8_ivpK5y-ehtrm4d2-6dEtRnlGVWUE4o38tSdenYuN945yR5zPUKzPGipzP7vk&__tn__=k%2AF&tn-str=k%2AF)](assets/e9fc82e22851/1*at1hZnmXQ9LLbpD2ri51cQ.jpeg)
+![Credit: [borderline europe — Menschenrechte ohne Grenzen e\.V\.](https://www.facebook.com/borderlineeurope/?__xts__%5B0%5D=68.ARB5zA2A4GUoo7cEtdPjUsUCaw6IT11_B6h82Pe8moGgfqlihSGhDtXgmbDuBEJpnr6rLf2pB_3ZZV8uahx2vVAF-Ub6l4seMHycV5aPYYMu3GAzRUbH86rYNsOy2yk-xZx1xAMqFhHFuXplFnk_aEU4NSTBmg29tDZzFyV08-9L_jl0G85JmRVBrRai7cQ_qsgSoV9KhH854lyVBtWO5bEnNRdgkqx7zFxS2TLnpK0CC0e3Oh3JxwoWQFgoI0530qbZ1a-Cd7kbHcNqA-OutLyDb4kxHS7dpAvarhm165c6XqP8WdmnlPlWpP7oJ_qnMclYZ-j8Jr9E7jFPDWqJ1sfLfY0qMAlLxoTsoAKAQgzVX1yUs8_ivpK5y-ehtrm4d2-6dEtRnlGVWUE4o38tSdenYuN945yR5zPUKzPGipzP7vk&__tn__=k%2AF&tn-str=k%2AF)](../assets/e9fc82e22851/1*at1hZnmXQ9LLbpD2ri51cQ.jpeg)
 
 Credit: [borderline europe — Menschenrechte ohne Grenzen e\.V\.](https://www.facebook.com/borderlineeurope/?__xts__%5B0%5D=68.ARB5zA2A4GUoo7cEtdPjUsUCaw6IT11_B6h82Pe8moGgfqlihSGhDtXgmbDuBEJpnr6rLf2pB_3ZZV8uahx2vVAF-Ub6l4seMHycV5aPYYMu3GAzRUbH86rYNsOy2yk-xZx1xAMqFhHFuXplFnk_aEU4NSTBmg29tDZzFyV08-9L_jl0G85JmRVBrRai7cQ_qsgSoV9KhH854lyVBtWO5bEnNRdgkqx7zFxS2TLnpK0CC0e3Oh3JxwoWQFgoI0530qbZ1a-Cd7kbHcNqA-OutLyDb4kxHS7dpAvarhm165c6XqP8WdmnlPlWpP7oJ_qnMclYZ-j8Jr9E7jFPDWqJ1sfLfY0qMAlLxoTsoAKAQgzVX1yUs8_ivpK5y-ehtrm4d2-6dEtRnlGVWUE4o38tSdenYuN945yR5zPUKzPGipzP7vk&__tn__=k%2AF&tn-str=k%2AF)
 

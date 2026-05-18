@@ -1,20 +1,20 @@
 ---
-title: AYS Daily News Digest 21/11: Refugees’ deaths in Serbia — a consequence of Europe’s ignoring the…
+title: "AYS Daily News Digest 21/11: Refugees’ deaths in Serbia — a consequence of Europe’s ignoring the…"
 author: Are You Syrious?
 date: 2016-11-22T02:40:00.181+0000
 last_modified_at: 2016-11-22T10:36:42.431+0000
 categories: 
 tags: [refugees,europe,serbia,syria,european-union]
-description: Feature: Misery in Serbia, fear at the Hungarian border
+description: "Feature: Misery in Serbia, fear at the Hungarian border"
 image:
-  path: assets/6a4ec5d0792f/1*w_8ryHof9v4MFEvEsd3Q4A.jpeg
+  path: ../assets/6a4ec5d0792f/1*w_8ryHof9v4MFEvEsd3Q4A.jpeg
 ---
 
 ### AYS Daily News Digest 21/11: Refugees’ deaths in Serbia — a consequence of Europe’s ignoring the appalling conditions
 #### Feature: Misery in Serbia, fear at the Hungarian border
 
 
-![A warning sign\. \(Photo: Emir Omanović, AYS\)](assets/6a4ec5d0792f/1*w_8ryHof9v4MFEvEsd3Q4A.jpeg)
+![A warning sign\. \(Photo: Emir Omanović, AYS\)](../assets/6a4ec5d0792f/1*w_8ryHof9v4MFEvEsd3Q4A.jpeg)
 
 A warning sign\. \(Photo: Emir Omanović, AYS\)
 #### SERBIA
@@ -22,7 +22,7 @@ A warning sign\. \(Photo: Emir Omanović, AYS\)
 A 16 year\-old from Pakistan was electrocuted at the Serbian\-Hungarian border while attempting to cross\. He touched the wrong cable while navigating a train yard\. Refugees continue to report severe injuries by Hungarian border police, with severe bruising and dog bites among the main injuries\.
 
 
-![Photo: Emir Osmanović, AYS](assets/6a4ec5d0792f/1*SjrU93yC0g2IF7_BwxCutA.jpeg)
+![Photo: Emir Osmanović, AYS](../assets/6a4ec5d0792f/1*SjrU93yC0g2IF7_BwxCutA.jpeg)
 
 Photo: Emir Osmanović, AYS
 
@@ -33,11 +33,11 @@ According to volunteers, there are about 140 people in Subotica camp, 110 in Kel
 Subotica is the official “one\-stop” centre where refugees come a few months before it is their turn to cross\. They’re sent there from camps all over the country as people can register at any camp in Serbia\. Once they register, people’s names are placed on a common list\. When they become eligible to claim asylum in Hungary they get a notification and go to one of two transit zone camps: Kelebija or Horgoš\. Kelebija has a predominantly Arabic\-speaking population, mostly from Syria and Iraq, with some cases from Tunisia, Egypt, Morocco and Libya\. People from Afghanistan and Pakistan are mostly sent to Horgoš\.
 
 
-![](assets/6a4ec5d0792f/1*IYVqHEl2f8W1w9QiJHNhSA.jpeg)
+![](../assets/6a4ec5d0792f/1*IYVqHEl2f8W1w9QiJHNhSA.jpeg)
 
 
 
-![The circumstances in which people are currently living and waiting\. \(Photo: Emir Osmanović, AYS\)](assets/6a4ec5d0792f/1*ELNeqIf6tHvkaOHze8ojZQ.jpeg)
+![The circumstances in which people are currently living and waiting\. \(Photo: Emir Osmanović, AYS\)](../assets/6a4ec5d0792f/1*ELNeqIf6tHvkaOHze8ojZQ.jpeg)
 
 The circumstances in which people are currently living and waiting\. \(Photo: Emir Osmanović, AYS\)
 #### Two refugees died today in Serbia\.
@@ -59,11 +59,11 @@ A group of AYS volunteers went for the second time to support fellow Serbian vol
 Apart from supplying essential winter clothes, shoes and other very needed items, our team brought a lot of good will and was able to set up some tents for mothers with children \(one heated\) and could hand out supplies and provide some food and medication for certain cases at the camp\. Some people later went to the Subotica ER\. The medical staff turned out to be very friendly towards the people and helped as much as they could\.
 
 
-![](assets/6a4ec5d0792f/1*4ZAAgBQyC65Pc8AdysgNsw.jpeg)
+![](../assets/6a4ec5d0792f/1*4ZAAgBQyC65Pc8AdysgNsw.jpeg)
 
 
 
-![Photos: AYS](assets/6a4ec5d0792f/1*0e5sazhGqLZCiOr_Ucsbvg.jpeg)
+![Photos: AYS](../assets/6a4ec5d0792f/1*0e5sazhGqLZCiOr_Ucsbvg.jpeg)
 
 Photos: AYS
 #### Harsh realities continue on the border
@@ -71,32 +71,32 @@ Photos: AYS
 A group of people are living in an abandoned “Duty free shop” in Kelebija, on the Serbian\-Hungarian border\. In total there are 100 families and more than 30 children\. The age of the residents ranges from a newborn baby to a 76 year\-old senior\. In the absence of electric power or any form of heating, sleeping conditions are rough\. People are sleeping in an abandoned store, in poor\-quality tents and outside in the cold\.
 
 
-![](assets/6a4ec5d0792f/1*dMp07DfzJysjuW8q8JD3Tw.jpeg)
+![](../assets/6a4ec5d0792f/1*dMp07DfzJysjuW8q8JD3Tw.jpeg)
 
 
 
-![\(L\) Tents inside the former duty free shop; \(R\) communal cooking \(Photos: Emir Omanović, AYS\)](assets/6a4ec5d0792f/1*2M0_Oe7-Dj5XOcBTpRGYeg.jpeg)
+![\(L\) Tents inside the former duty free shop; \(R\) communal cooking \(Photos: Emir Omanović, AYS\)](../assets/6a4ec5d0792f/1*2M0_Oe7-Dj5XOcBTpRGYeg.jpeg)
 
 \(L\) Tents inside the former duty free shop; \(R\) communal cooking \(Photos: Emir Omanović, AYS\)
 
 Still, they manage to function as a community despite living in a state of fear and uncertainty there, in an area where all sides see them as unwanted guests and a liability given the political context\.
 
 
-![With the help of our Serbian colleagues, we managed to set up tents and provide a measure of safety and privacy to the most vulnerable people\. \(Photo: Emir Omanović, AYS\)](assets/6a4ec5d0792f/1*R2pHHp6aRdi3yLC3ikIbHQ.jpeg)
+![With the help of our Serbian colleagues, we managed to set up tents and provide a measure of safety and privacy to the most vulnerable people\. \(Photo: Emir Omanović, AYS\)](../assets/6a4ec5d0792f/1*R2pHHp6aRdi3yLC3ikIbHQ.jpeg)
 
 With the help of our Serbian colleagues, we managed to set up tents and provide a measure of safety and privacy to the most vulnerable people\. \(Photo: Emir Omanović, AYS\)
 
 This so called “No man’s land” is home to dozens of frightened refugees patiently waiting for what is going to happen\. People sleeping outside in the woods, among them children as young as 15, are a common sight\. There is even an 8 year\-old boy living here with his brother\.
 
 
-![A man prays in front of a provisional tent that has served as a home for way too long\. \(Photo: Emir Omanović\)](assets/6a4ec5d0792f/1*jCcSu5JC-wDjJjEkJLaPgw.jpeg)
+![A man prays in front of a provisional tent that has served as a home for way too long\. \(Photo: Emir Omanović\)](../assets/6a4ec5d0792f/1*jCcSu5JC-wDjJjEkJLaPgw.jpeg)
 
 A man prays in front of a provisional tent that has served as a home for way too long\. \(Photo: Emir Omanović\)
 #### SYRIA
 ### 490 Airstrikes targeted Aleppo city in the past 8 days, killing 300 civilians & injuring more than 820
 
 
-![](assets/6a4ec5d0792f/1*yOzl-hMIgj82cNx6Whse4w.jpeg)
+![](../assets/6a4ec5d0792f/1*yOzl-hMIgj82cNx6Whse4w.jpeg)
 
 #### **UN Security Council: back your resolution\!**
 
@@ -110,7 +110,7 @@ A man prays in front of a provisional tent that has served as a home for way too
 
 
 
-![“The aftermath of a barrel bomb attack carried out by Syrian regime choppers on eastern Aleppo today; the attack targeted a mosque in the Katerji district in which 3 people were killed\.” \(Photo: [Rami Jarrah](https://www.facebook.com/ramijarah?fref=nf) \)](assets/6a4ec5d0792f/1*veQDCYgmwl9SVNcDuZ-9UA.jpeg)
+![“The aftermath of a barrel bomb attack carried out by Syrian regime choppers on eastern Aleppo today; the attack targeted a mosque in the Katerji district in which 3 people were killed\.” \(Photo: [Rami Jarrah](https://www.facebook.com/ramijarah?fref=nf) \)](../assets/6a4ec5d0792f/1*veQDCYgmwl9SVNcDuZ-9UA.jpeg)
 
 “The aftermath of a barrel bomb attack carried out by Syrian regime choppers on eastern Aleppo today; the attack targeted a mosque in the Katerji district in which 3 people were killed\.” \(Photo: [Rami Jarrah](https://www.facebook.com/ramijarah?fref=nf) \)
 
@@ -145,7 +145,7 @@ Lorry drivers in Mitilini protested against the situation, which forces refugees
 As [reported](https://medium.com/@AreYouSyrious/ays-daily-news-digest-18-11-the-world-ignores-one-of-the-worst-days-for-aleppo-desperation-in-e180c1193dde#.u7cvccpwp) previously, recently there has been an increase in clashes between local residents and refugees on the islands\. The municipal authorities of Samos have called a demonstration for 1pm on Monday in order to protest the impact of the refugee crisis on the island, Greek media [announced](http://www.tovima.gr/en/article/?aid=845839) \.
 
 
-![Souda residents’ protest sign\.](assets/6a4ec5d0792f/1*8r43CKa-Ik09RD3is4eVVw.jpeg)
+![Souda residents’ protest sign\.](../assets/6a4ec5d0792f/1*8r43CKa-Ik09RD3is4eVVw.jpeg)
 
 Souda residents’ protest sign\.
 #### Chios
@@ -154,7 +154,7 @@ Authorities on Chios are calling for migrants to be moved from the island\. Gree
 Following the attacks on refugees on the island, NGOs working on site have issued a public [statement](https://www.facebook.com/StoriesfromChios/posts/161782664290200:0) with demands for the safety of Souda residents\.
 
 
-![Dozens of women and children sleeping on the streets in Chios for a third consecutive night\. \(Photo: [Juliette Georgiades](https://www.facebook.com/thomas.gata.5) \)](assets/6a4ec5d0792f/1*FBbCGTplyEBJ-pud_EL0gg.jpeg)
+![Dozens of women and children sleeping on the streets in Chios for a third consecutive night\. \(Photo: [Juliette Georgiades](https://www.facebook.com/thomas.gata.5) \)](../assets/6a4ec5d0792f/1*FBbCGTplyEBJ-pud_EL0gg.jpeg)
 
 Dozens of women and children sleeping on the streets in Chios for a third consecutive night\. \(Photo: [Juliette Georgiades](https://www.facebook.com/thomas.gata.5) \)
 
@@ -176,7 +176,7 @@ Follow the updates on the situation in Malakasa Refugee Camp [here](https://www.
 Yazidi refugees from the Petra camp were moved to other, more appropriate locations in the Thessaloniki area\. According to volunteers, some people were moved to camps with heated containers while others were sent to hotels close to the city of Thessaloniki\.
 
 
-![Yazidis from Petra waiting for transportation, hopefully to a safer and healthier environment\. \(Photo: [Tamás Zoltán Szüts](https://www.facebook.com/szuts.tamas) \)](assets/6a4ec5d0792f/1*kOLAdNG2SglRpUEgwCObFA.jpeg)
+![Yazidis from Petra waiting for transportation, hopefully to a safer and healthier environment\. \(Photo: [Tamás Zoltán Szüts](https://www.facebook.com/szuts.tamas) \)](../assets/6a4ec5d0792f/1*kOLAdNG2SglRpUEgwCObFA.jpeg)
 
 Yazidis from Petra waiting for transportation, hopefully to a safer and healthier environment\. \(Photo: [Tamás Zoltán Szüts](https://www.facebook.com/szuts.tamas) \)
 #### BULGARIA

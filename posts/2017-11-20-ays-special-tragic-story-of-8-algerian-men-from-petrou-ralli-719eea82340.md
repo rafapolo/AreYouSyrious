@@ -1,13 +1,13 @@
 ---
-title: AYS SPECIAL: The tragic story of 8 Algerian men from Petrou Ralli
+title: "AYS SPECIAL: The tragic story of 8 Algerian men from Petrou Ralli"
 author: Are You Syrious?
 date: 2017-11-20T09:17:57.172+0000
 last_modified_at: 2018-03-01T13:46:03.062+0000
 categories: Are You Syrious?
 tags: [refugees,athens,petrou-ralli,migrants,special]
-description: This story of 8 Algerian men is directly connected with two facts: the inhuman living conditions migrants are exposed to in Greek detention…
+description: "This story of 8 Algerian men is directly connected with two facts: the inhuman living conditions migrants are exposed to in Greek detention…"
 image:
-  path: assets/719eea82340/1*R0_3M4ODAEJEuiNf2o_bwg.jpeg
+  path: ../assets/719eea82340/1*R0_3M4ODAEJEuiNf2o_bwg.jpeg
 ---
 
 ### AYS SPECIAL: The tragic story of 8 Algerian men from Petrou Ralli
@@ -15,7 +15,7 @@ image:
 _This story of 8 Algerian men is directly connected with two facts: the inhuman living conditions migrants are exposed to in Greek detention centres and their unknown detention status which is completely dependant on police authorities\._
 
 
-![Photo by **Katja Lihtenvalner\.**](assets/719eea82340/1*R0_3M4ODAEJEuiNf2o_bwg.jpeg)
+![Photo by **Katja Lihtenvalner\.**](../assets/719eea82340/1*R0_3M4ODAEJEuiNf2o_bwg.jpeg)
 
 Photo by **Katja Lihtenvalner\.**
 
@@ -33,7 +33,7 @@ The conditions in Petrou Ralli were well documented [in the video](https://www.y
 This rare piece of evidence shows the kind of conditions of the facilities that migrants in Petrou Ralli are staying in:
 
 
-[![video-μαρτυρία από τα κελιά της Π. Ράλλη](assets/719eea82340/f08f_hqdefault.jpg "video-μαρτυρία από τα κελιά της Π. Ράλλη")](http://www.youtube.com/watch?v=nkbh-0QOBHk)
+[![video-μαρτυρία από τα κελιά της Π. Ράλλη](../assets/719eea82340/f08f_hqdefault.jpg "video-μαρτυρία από τα κελιά της Π. Ράλλη")](http://www.youtube.com/watch?v=nkbh-0QOBHk)
 
 
 The document is shocking\.
@@ -56,7 +56,7 @@ Iraqi Kurd Shayan Samad also confirms this [in our report for MEE](http://www.mi
 _“On the second floor there are a few abandoned, dark, very dirty and smelly cells\. In these cells there are sick migrants,”_ she adds\.
 
 
-![Photo by **Katja Lihtenvalner**](assets/719eea82340/1*m_LZxPpVAcY7RyWLz7cwNw.jpeg)
+![Photo by **Katja Lihtenvalner**](../assets/719eea82340/1*m_LZxPpVAcY7RyWLz7cwNw.jpeg)
 
 Photo by **Katja Lihtenvalner**
 ### Brutal police attack
@@ -74,7 +74,7 @@ After the attack, the police authorities went further: they arrested 8 Algerian 
 Eight Algerian men \(most of them young boys in their 20s\) are now awaiting trial as defendants in the brutal police attack, which nothing but confirms, “the ill\-treatment” criticised by CPT and [reported](https://www.globalresearch.ca/protests-at-greek-detention-camp-highlight-state-violence-against-immigrants-in-europe/5345735) by migrants and human rights organizations in numerous cases\.
 
 
-![Photo by **Katja Lihtenvalner**](assets/719eea82340/1*GbmPPTtsAqXXE9ru6c_kbQ.jpeg)
+![Photo by **Katja Lihtenvalner**](../assets/719eea82340/1*GbmPPTtsAqXXE9ru6c_kbQ.jpeg)
 
 Photo by **Katja Lihtenvalner**
 

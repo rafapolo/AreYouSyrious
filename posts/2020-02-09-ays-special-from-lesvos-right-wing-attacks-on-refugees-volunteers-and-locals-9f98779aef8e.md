@@ -1,5 +1,5 @@
 ---
-title: AYS Special from Lesvos: Right Wing Attacks on Refugees, Volunteers, and Locals
+title: "AYS Special from Lesvos: Right Wing Attacks on Refugees, Volunteers, and Locals"
 author: Are You Syrious?
 date: 2020-02-09T22:57:54.413+0000
 last_modified_at: 2020-02-11T00:42:35.895+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [lesvos,refugees-in-greece,right-wing,refugee-camps,special]
 description: Eric Maddox, Producer of Latitude Adjustment Podcast, did a series of interviews with protagonists and victims of the recent clashes on…
 image:
-  path: assets/9f98779aef8e/1*fomgXUGwwCRXm8I3zEn8iw.jpeg
+  path: ../assets/9f98779aef8e/1*fomgXUGwwCRXm8I3zEn8iw.jpeg
 ---
 
 ### AYS Special from Lesvos: **Right Wing Attacks on Refugees, Volunteers, and Locals**
 #### _In cooperation with the [Latitude Adjustment Podcast](https://www.latitudeadjustmentpod.com/podcast) , we bring you a series of interviews with protagonists and victims of the recent clashes on Lesvos, where over 20\.000 refugees are hoping to be allowed to move to the mainland\._
 
 
-![Antifascist Demonstration on the evening of February 4th\. The March went from Mitilini to Kara Tepe and back\. Photo: Eric Maddox](assets/9f98779aef8e/1*fomgXUGwwCRXm8I3zEn8iw.jpeg)
+![Antifascist Demonstration on the evening of February 4th\. The March went from Mitilini to Kara Tepe and back\. Photo: Eric Maddox](../assets/9f98779aef8e/1*fomgXUGwwCRXm8I3zEn8iw.jpeg)
 
 Antifascist Demonstration on the evening of February 4th\. The March went from Mitilini to Kara Tepe and back\. Photo: Eric Maddox
 
@@ -29,7 +29,7 @@ Tensions and a climate of fear and mistrust are on the rise on Lesvos after a we
 These attacks come after an anti\-immigration March on January 22nd, with thousands of Greeks staging a general strike across the islands and marching in Mitilini Harbor to protest against, among other things, their perceived abandonment by Athens to shoulder the responsibility for the ongoing influx of refugees on an island with a population of about 32,000 residents\. [Signs organizing the protest](https://www.instagram.com/p/B7jfzbco4cP/) were taped inside dozens of shop windows in the days leading up to the march, stating: “We Want Our Islands Back\. We Want Our Lives Back”\. [A contingent of island mayors and governors later went to Athens to petition the national government\.](https://apnews.com/04a991af9b66c2a4bcaec21d483a4089)
 
 
-![The ever\-expanding community of make\-shift dwellings around Moria Refugee Camp, Lesvos\. Photo: Eric Maddox](assets/9f98779aef8e/1*ffODErggQfcUO6lS4S2xog.jpeg)
+![The ever\-expanding community of make\-shift dwellings around Moria Refugee Camp, Lesvos\. Photo: Eric Maddox](../assets/9f98779aef8e/1*ffODErggQfcUO6lS4S2xog.jpeg)
 
 The ever\-expanding community of make\-shift dwellings around Moria Refugee Camp, Lesvos\. Photo: Eric Maddox
 
@@ -38,7 +38,7 @@ A common rebuttal to these claims is that, far from making life worse for the is
 Moria, a defunct Greek military base repurposed to provide temporary accommodation to approximately 3,000 people is now pushing towards an occupancy of around 21,000, if one includes the sprawling “ [Olive Grove](https://www.youtube.com/watch?v=VuQ8CyQ_DRs) ” which has quite simply exploded since my initial visit to the island in late 2015 — early 2016\. Amongst these residents are more than 1,000 unaccompanied children \(though this number is suspected to include hundreds more if those left to fend for themselves in the Olive Grove are taken into account\) \.
 
 
-![Some locals would be happy to see Moria and its surroundings gone for good\. Photo: Eric Maddox](assets/9f98779aef8e/1*nQjXhUt8kqrUd_j7wh4-YQ.jpeg)
+![Some locals would be happy to see Moria and its surroundings gone for good\. Photo: Eric Maddox](../assets/9f98779aef8e/1*nQjXhUt8kqrUd_j7wh4-YQ.jpeg)
 
 Some locals would be happy to see Moria and its surroundings gone for good\. Photo: Eric Maddox
 
@@ -49,7 +49,7 @@ Residents are forced to wait in long queues for food, toilets, and for access to
 It was in response to these conditions, and the long wait times for asylum \(or deportation\) processing that Afghan residents \(who constitute the overwhelming majority of Moria’s residents\), organized a march from Moria Camp to the town of Mitilini on Monday February 3rd, to protest and make their desperation public\. [A women’s march had also taken place in Mitilini a few days earlier](ays-daily-digest-30-01-20-moria-is-hell-women-take-to-the-streets-in-lesvos-b70e7d5bbeac) \. However, upon reaching the area around Kara Tepe \(a much smaller refugee camp created to accommodate extremely vulnerable individuals\) about midway between Moria and Mitilini, the protestors were confronted by riot police who unleashed torrents of tear gas on the crowd of an estimated 2,000 peaceful protestors, which included a mix of men, women, and children\. One nurse I spoke with related that she had seen a newborn exposed to the gas\. [Refocus Media Labs](https://www.facebook.com/refocusmedialabs/) , a nonprofit that trains refugees in media production skills, was present to [film and photograph the entire incident\.](https://www.youtube.com/watch?v=SHjqNjGfx-o&fbclid=IwAR3OPIRs2tsFEnsCo3mkyWPaXiDt2uFPj9Oq7gtx_ndmNpX-vggz8cQzSPo)
 
 
-![Preparing food on the periphery of Moria Refugee Camp: over 20\.000 people just want to live in dignity\. Photo: Eric Maddox](assets/9f98779aef8e/1*wjQIw_JuDsVpSuUyXgPhzw.jpeg)
+![Preparing food on the periphery of Moria Refugee Camp: over 20\.000 people just want to live in dignity\. Photo: Eric Maddox](../assets/9f98779aef8e/1*wjQIw_JuDsVpSuUyXgPhzw.jpeg)
 
 Preparing food on the periphery of Moria Refugee Camp: over 20\.000 people just want to live in dignity\. Photo: Eric Maddox
 
@@ -85,7 +85,7 @@ What follows is the first\-hand account of one foreign medic who was present at 
 
 
 
-![Food sold next to mountains of rubbish at the entrance to the formal facility of Moria Camp\. Latrines and dwelling are a few steps away\. Photo: Eric Maddox](assets/9f98779aef8e/1*yhKOfqmZ95FEpIuLCwOrCQ.jpeg)
+![Food sold next to mountains of rubbish at the entrance to the formal facility of Moria Camp\. Latrines and dwelling are a few steps away\. Photo: Eric Maddox](../assets/9f98779aef8e/1*yhKOfqmZ95FEpIuLCwOrCQ.jpeg)
 
 Food sold next to mountains of rubbish at the entrance to the formal facility of Moria Camp\. Latrines and dwelling are a few steps away\. Photo: Eric Maddox
 
@@ -109,7 +109,7 @@ Protests by refugees and those standing in solidarity continued in Mitilini on T
 
 
 
-![“The Olive Grove”, Moria Refugee Camp\. Photo: Eric Maddox](assets/9f98779aef8e/1*uNFzUFVd8zaqiaWjmhde8A.jpeg)
+![“The Olive Grove”, Moria Refugee Camp\. Photo: Eric Maddox](../assets/9f98779aef8e/1*uNFzUFVd8zaqiaWjmhde8A.jpeg)
 
 “The Olive Grove”, Moria Refugee Camp\. Photo: Eric Maddox
 
@@ -121,7 +121,7 @@ Protests by refugees and those standing in solidarity continued in Mitilini on T
 
 
 
-![Riot police followed the the antifascist protest back to Mitilini on Tuesday night\. Photo: Eric Maddox](assets/9f98779aef8e/1*dbe5_H8rUTRJBAlRhWrnGA.jpeg)
+![Riot police followed the the antifascist protest back to Mitilini on Tuesday night\. Photo: Eric Maddox](../assets/9f98779aef8e/1*dbe5_H8rUTRJBAlRhWrnGA.jpeg)
 
 Riot police followed the the antifascist protest back to Mitilini on Tuesday night\. Photo: Eric Maddox
 
@@ -182,7 +182,7 @@ _\* \* \*_
 
 
 
-![Antifascist Demonstration on the evening of February 4th\. The March went from Mitilini to Kara Tepe and back\. Photo: Eric Maddox](assets/9f98779aef8e/1*5TuAo0-lJcQZb2RXOC3uIA.jpeg)
+![Antifascist Demonstration on the evening of February 4th\. The March went from Mitilini to Kara Tepe and back\. Photo: Eric Maddox](../assets/9f98779aef8e/1*5TuAo0-lJcQZb2RXOC3uIA.jpeg)
 
 Antifascist Demonstration on the evening of February 4th\. The March went from Mitilini to Kara Tepe and back\. Photo: Eric Maddox
 
@@ -209,7 +209,7 @@ On Wednesday, February 5th Police stopped by local NGO’s and began to gather i
 
 
 
-![Rubbish overflows into stream beds around Moria Refugee Camp, with no sign of any formal trash disposal or sanitation services for the camp\. Photo: Eric Maddox](assets/9f98779aef8e/1*AytvMZrNzlyOUIUU8y6XVQ.jpeg)
+![Rubbish overflows into stream beds around Moria Refugee Camp, with no sign of any formal trash disposal or sanitation services for the camp\. Photo: Eric Maddox](../assets/9f98779aef8e/1*AytvMZrNzlyOUIUU8y6XVQ.jpeg)
 
 Rubbish overflows into stream beds around Moria Refugee Camp, with no sign of any formal trash disposal or sanitation services for the camp\. Photo: Eric Maddox
 

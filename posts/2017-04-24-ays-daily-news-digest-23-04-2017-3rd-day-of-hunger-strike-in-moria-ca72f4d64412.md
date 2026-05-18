@@ -1,5 +1,5 @@
 ---
-title: AYS Daily News Digest 23.04.2017: 3rd day of hunger strike in Moria
+title: "AYS Daily News Digest 23.04.2017: 3rd day of hunger strike in Moria"
 author: Are You Syrious?
 date: 2017-04-24T05:52:00.723+0100
 last_modified_at: 2017-04-24T09:49:15.801+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: Hunger strikes continues in Moria//Long-term volunteers needed in Calais//Austrian government pushes for closure of Mediterrenean Route
 image:
-  path: assets/ca72f4d64412/0*Jb9Jy0NwP9d5Slu9.
+  path: ../assets/ca72f4d64412/0*Jb9Jy0NwP9d5Slu9.
 ---
 
 ### AYS Daily News Digest 23\.04\.2017: 3rd day of hunger strike in Moria
@@ -15,7 +15,7 @@ image:
 _Hunger strikes continues in Moria//Long\-term volunteers needed in Calais//Austrian government pushes for closure of Mediterrenean Route_
 
 
-![Drawing by a 17 years old Afghan boy in Samos\. Taken from the [Yesterday\-Today\-Tomorrow](https://www.facebook.com/yesterdaytodaytomorrowyesterdaytodaytomorrow/?hc_ref=PAGES_TIMELINE&fref=nf) project\.](assets/ca72f4d64412/0*Jb9Jy0NwP9d5Slu9.)
+![Drawing by a 17 years old Afghan boy in Samos\. Taken from the [Yesterday\-Today\-Tomorrow](https://www.facebook.com/yesterdaytodaytomorrowyesterdaytodaytomorrow/?hc_ref=PAGES_TIMELINE&fref=nf) project\.](../assets/ca72f4d64412/0*Jb9Jy0NwP9d5Slu9.)
 
 Drawing by a 17 years old Afghan boy in Samos\. Taken from the [Yesterday\-Today\-Tomorrow](https://www.facebook.com/yesterdaytodaytomorrowyesterdaytodaytomorrow/?hc_ref=PAGES_TIMELINE&fref=nf) project\.
 #### Greece
@@ -47,7 +47,7 @@ This is their latest statement:
 
 
 
-![Photo by PIKPA](assets/ca72f4d64412/1*mHRtkAeVrcCf3XzSObsnQg.png)
+![Photo by PIKPA](../assets/ca72f4d64412/1*mHRtkAeVrcCf3XzSObsnQg.png)
 
 Photo by PIKPA
 
@@ -57,7 +57,7 @@ Meanwhile, the Pope, while talking about last year’s visit to Lesbos, compared
 After the massive deportation on the 20th April of 60 people from Kos to Turkey, the pre\-detention jail has already filled up with about 35–40 new people\. Of the 60 who were deported, 36 had not applied for asylum, despite the possibility to do so\. Volunteers complain about the lack of information given to refugees about their right to apply for asylum and their right to receive visitors\. Six solidarity groups for refugees in Kos held their first meeting this Saturday and discussed how to provide legal support and medical help\.
 
 
-![Trapped\. Picture by a a 18 years old Syrian Boy living in Kara Tepe Refugee Camp, as part of the [Yesterday/Today/Tomorrow project](https://twitter.com/Yester_Today_T) \.](assets/ca72f4d64412/0*kKxEYP5_bU0SFBbi.jpg)
+![Trapped\. Picture by a a 18 years old Syrian Boy living in Kara Tepe Refugee Camp, as part of the [Yesterday/Today/Tomorrow project](https://twitter.com/Yester_Today_T) \.](../assets/ca72f4d64412/0*kKxEYP5_bU0SFBbi.jpg)
 
 Trapped\. Picture by a a 18 years old Syrian Boy living in Kara Tepe Refugee Camp, as part of the [Yesterday/Today/Tomorrow project](https://twitter.com/Yester_Today_T) \.
 ### Salvamento Maritimo Humanitario to leave Chios
@@ -70,7 +70,7 @@ Trapped\. Picture by a a 18 years old Syrian Boy living in Kara Tepe Refugee Cam
 ### Long\-term volunteers needed in Calais
 
 
-![Photo by Solidarité migrants Wilson](assets/ca72f4d64412/1*6or9wt8WfuhGdecC3DHZ1w.png)
+![Photo by Solidarité migrants Wilson](../assets/ca72f4d64412/1*6or9wt8WfuhGdecC3DHZ1w.png)
 
 Photo by Solidarité migrants Wilson
 

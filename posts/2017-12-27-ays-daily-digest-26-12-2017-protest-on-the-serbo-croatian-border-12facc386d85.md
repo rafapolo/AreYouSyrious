@@ -7,7 +7,7 @@ categories:
 tags: [refugees,deportations,extradition,afghanistan,serbia]
 description: New rescues in the Central Mediterranean /// Boats intercepted and pushed back by Turkish Coast Guard in the Aegean /// Call for a march…
 image:
-  path: assets/12facc386d85/1*xK6S2M2C24hwtFEmAbnTzg.jpeg
+  path: ../assets/12facc386d85/1*xK6S2M2C24hwtFEmAbnTzg.jpeg
 ---
 
 ### AYS Daily Digest 26/12/2017 Protest on the Serbo\-Croatian border
@@ -15,13 +15,13 @@ image:
 New rescues in the Central Mediterranean /// Boats intercepted and pushed back by Turkish Coast Guard in the Aegean /// Call for a march against border on Italian/French mountains /// Kurdish activists extradited in Turkey despite torture threat /// New deportations from Germany to Afghanistan in January
 
 
-![WE EXIST Photo by [No Name Kitchen](https://twitter.com/nonamekitchen1)](assets/12facc386d85/1*xK6S2M2C24hwtFEmAbnTzg.jpeg)
+![WE EXIST Photo by [No Name Kitchen](https://twitter.com/nonamekitchen1)](../assets/12facc386d85/1*xK6S2M2C24hwtFEmAbnTzg.jpeg)
 
 WE EXIST Photo by [No Name Kitchen](https://twitter.com/nonamekitchen1)
 #### Protest in Tovarnik, Serbia
 
 
-[![Tovarnik](assets/12facc386d85/bb18_hqdefault.jpg "Tovarnik")](http://www.youtube.com/watch?v=xArxjOKyHHs)
+[![Tovarnik](../assets/12facc386d85/bb18_hqdefault.jpg "Tovarnik")](http://www.youtube.com/watch?v=xArxjOKyHHs)
 
 
 What started yesterday as a [gathering](https://medium.com/@AreYouSyrious/ays-daily-digest-25-12-2017-dear-santa-all-we-wanted-was-to-be-safe-f4ca0acae383?source=user_profile---------1----------------) following a false rumor about the opening of the Serbo\-Croatian border, soon turned into a protest when the numbers of the people kept growing throughout the night\.
@@ -64,7 +64,7 @@ From [No Name Kitchen](http://www.nonamekitchen.org/en/protest-in-the-border/) :
 The protest lasted till 11PM, when Serbian police brought everyone back with buses\.
 
 
-![](assets/12facc386d85/1*KPyRn_MDGNjgbgrDWoEnrA.jpeg)
+![](../assets/12facc386d85/1*KPyRn_MDGNjgbgrDWoEnrA.jpeg)
 
 
 **Afghanistan**
@@ -146,7 +146,7 @@ If you can help, get in touch with them\!
 [Briser le Frontières / Rete di solidarietà](https://www.facebook.com/briserlesfeontieres/) organised a walk against border and for freedom of movement across the Italian\-French border, from Claviere to Montgenèvre on Sunday January 7, h\.11
 
 
-![Image by Briser Les Frontières / Rete di solidarietà](assets/12facc386d85/1*2n4sbuR_8MEy5i291pnFXg.jpeg)
+![Image by Briser Les Frontières / Rete di solidarietà](../assets/12facc386d85/1*2n4sbuR_8MEy5i291pnFXg.jpeg)
 
 Image by Briser Les Frontières / Rete di solidarietà
 
@@ -178,7 +178,7 @@ While yesterday a third boat was intercepted by the Turkish Coast Guard while he
 [Riot Turtle](https://twitter.com/RiotTurtle65) reported on Christmas Day in Europe:
 
 
-[![Taking a Shower in Moria](assets/12facc386d85/3554_hqdefault.jpg "Taking a Shower in Moria")](http://www.youtube.com/watch?v=VUpvklI-nHk)
+[![Taking a Shower in Moria](../assets/12facc386d85/3554_hqdefault.jpg "Taking a Shower in Moria")](http://www.youtube.com/watch?v=VUpvklI-nHk)
 
 
 

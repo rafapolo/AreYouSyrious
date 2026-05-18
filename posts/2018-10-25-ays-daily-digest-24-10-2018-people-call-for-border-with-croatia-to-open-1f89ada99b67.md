@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 24/10/2018: People call for borders to open
+title: "AYS Daily Digest 24/10/2018: People call for borders to open"
 author: Are You Syrious?
 date: 2018-10-25T11:57:23.581+0100
 last_modified_at: 2018-10-25T16:42:02.565+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest]
 description: Around 250 people gathered at the border crossing between Bosnia and the EU // People brought from Sarajevo to new Usivak camp//Refugees…
 image:
-  path: assets/1f89ada99b67/0*PPfMEkgsStn905YN
+  path: ../assets/1f89ada99b67/0*PPfMEkgsStn905YN
 ---
 
 ### AYS Daily Digest 24/10/2018: People call for borders to open
@@ -15,7 +15,7 @@ image:
 _Around 250 people gathered at the border crossing between Bosnia and the EU // People brought from Sarajevo to n_ e _w Ušivak camp//Refugees from Grande\-Synthe brought to gyms and other temporary shelters//French police continue to push back minors to Italy//_
 
 
-![In the front of the fortress Europe\. Photos by AYS](assets/1f89ada99b67/0*PPfMEkgsStn905YN)
+![In the front of the fortress Europe\. Photos by AYS](../assets/1f89ada99b67/0*PPfMEkgsStn905YN)
 
 In the front of the fortress Europe\. Photos by AYS
 ### Feature
@@ -29,7 +29,7 @@ This is the third day and second night that people are at this border crossing w
 “I cannot go back to Gaza, and they do not want to let me go to Europe\. I do not know what else to do\. I do not know how I can continue with my life,” F\. told an AYS volunteer\.
 
 
-![Smugglers are asking 5000 Euros from Kladuša to Zagreb\. Photos by AYS](assets/1f89ada99b67/0*WRrIgOXdWOx65yWz)
+![Smugglers are asking 5000 Euros from Kladuša to Zagreb\. Photos by AYS](../assets/1f89ada99b67/0*WRrIgOXdWOx65yWz)
 
 Smugglers are asking 5000 Euros from Kladuša to Zagreb\. Photos by AYS
 
@@ -44,7 +44,7 @@ Over 200 people stayed overnight near the border\. When an AYS volunteer asked t
 Meanwhile, tensions among people abandoned in Bosnia and among the local population who have shown a lot of solidarity so far, have begun rising, and it is hard to predict what the next day will bring\.
 
 
-[![Ispovijest migranata na GP Maljevac: Tretiraju nas veoma loše](assets/1f89ada99b67/238e_hqdefault.jpg "Ispovijest migranata na GP Maljevac: Tretiraju nas veoma loše")](http://www.youtube.com/watch?v=c4GRm2bx6Yg)
+[![Ispovijest migranata na GP Maljevac: Tretiraju nas veoma loše](../assets/1f89ada99b67/238e_hqdefault.jpg "Ispovijest migranata na GP Maljevac: Tretiraju nas veoma loše")](http://www.youtube.com/watch?v=c4GRm2bx6Yg)
 
 ### Messy evening in Sarajevo following the opening of the new Ušivak camp
 
@@ -59,7 +59,7 @@ When the bus that left from the train station arrived at the camp, families were
 **This evening’s incidents seem to be caused by a sudden decision to clear the streets of Sarajevo\.** Regardless of the totally unexpected developments during the day and evening, volunteers cooking in the camp estimate that they served 270 meals\.
 
 
-![](assets/1f89ada99b67/0*cbF8OCJjIHNhgSF4)
+![](../assets/1f89ada99b67/0*cbF8OCJjIHNhgSF4)
 
 
 Regarding the camp earlier during the day, no health screening was in place as a doctor wasn’t on site\. Whatever issues this could bring is yet to be discovered, but it is likely that people have either scabies or body lice\.
@@ -71,14 +71,14 @@ Police also stopped the train from Sarajevo to Bihać, while people who were ins
 Police in Bosnia are now also demanding that taxi drivers ask people for their papers if they look like refugees\. If the taxi drivers refuse, the police threaten that they will be arrested and charged as smugglers\. It is absurd, since by law nobody but the police in Bosnia has the right to request to see anybody’s ID\.
 
 
-![The Ušivak camp when it was still empty\. Containers were brought in from outside of Bosnia, one of the poorest countries in the Europe where people produce montage wooded houses\.](assets/1f89ada99b67/0*oeDeruuoMpTwIlor)
+![The Ušivak camp when it was still empty\. Containers were brought in from outside of Bosnia, one of the poorest countries in the Europe where people produce montage wooded houses\.](../assets/1f89ada99b67/0*oeDeruuoMpTwIlor)
 
 The Ušivak camp when it was still empty\. Containers were brought in from outside of Bosnia, one of the poorest countries in the Europe where people produce montage wooded houses\.
 #### Morocco
 ### Fifty\-five migrants deported from Spain to Morocco, detained in Nador
 
 
-![](assets/1f89ada99b67/0*M9uNVLhCP7_0aApZ)
+![](../assets/1f89ada99b67/0*M9uNVLhCP7_0aApZ)
 
 
 The Association Marocaine des Droits de l’Homme reports that a summer centre has been transformed into an “illegal detention centre” for the 55 migrants deported from Spain to Morocco\. The 55 were part of a group of 208 people who managed to breach the fence at the border with Menilla\. The NGO further says that representatives of African embassies, including Guinea, Senegal and the Ivory Coast, visited the centre to identify migrants and deport them\. Many people are injured as a result of trying to cross the border\.
@@ -86,7 +86,7 @@ The Association Marocaine des Droits de l’Homme reports that a summer centre h
 ### People arrive at Lesvos, Chios and Samos
 
 
-![Photo by Salvamento Maritimo Humanitario\. 20 people from Iraq arrived on Chios with this boat\.](assets/1f89ada99b67/0*__9YP6x-ltzkkU9r)
+![Photo by Salvamento Maritimo Humanitario\. 20 people from Iraq arrived on Chios with this boat\.](../assets/1f89ada99b67/0*__9YP6x-ltzkkU9r)
 
 Photo by Salvamento Maritimo Humanitario\. 20 people from Iraq arrived on Chios with this boat\.
 
@@ -122,7 +122,7 @@ Our friend Abdul Sabur has an exhibition on in Paris, a city where he has been l
 The AIDA database managed by ECRE has compiled statistics on the recognition rate of Afghan asylum\-seekers between January and September 2018\.
 
 
-![](assets/1f89ada99b67/0*Zz3NbUq_FJCjKHuN.jpg)
+![](../assets/1f89ada99b67/0*Zz3NbUq_FJCjKHuN.jpg)
 
 
 **We strive to echo correct news from the ground through collaboration and fairness\.**

@@ -1,5 +1,5 @@
 ---
-title: AYS Digest 25/10/19: Rejected by EU, 23 people die in Libyan detention
+title: "AYS Digest 25/10/19: Rejected by EU, 23 people die in Libyan detention"
 author: Are You Syrious?
 date: 2019-10-26T13:57:51.046+0100
 last_modified_at: 2019-10-26T13:57:51.046+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,europe,digest,libya,unhcr]
 description: An in-depth look inside the Zintan camp, where refugees are calling for the UN and EU to wake up and help them survive / Far-right managed…
 image:
-  path: assets/4716d047982d/0*OK2zKaV59xNJjx12.jpeg
+  path: ../assets/4716d047982d/0*OK2zKaV59xNJjx12.jpeg
 ---
 
 ### AYS Digest 25/10/19: Rejected by EU, 23 people die in Libyan detention
 ### An in\-depth look inside the Zintan camp, where refugees are calling for the UN and EU to wake up and help them survive / Far\-right managed to sabotage EP resolution designed to help save lives / NGOs meet with the Italian Minister of the Interior to negotiate SAR disembarkation / Precedent in Croatia: Constitutional Court says asylum can be granted on the basis of gender\-based violence in the country of origin / In Tuzla, Bosnia, authorities finally recognise their responsibility to house refugees sleeping rough /
 
 
-![](assets/4716d047982d/0*2KM59qNjqBCXX5Y6.jpeg)
+![](../assets/4716d047982d/0*2KM59qNjqBCXX5Y6.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----2a47398c010c----------------------)
@@ -22,11 +22,11 @@ image:
 [Oct 26](ays-digest-25-10-19-rejected-by-eu-23-people-die-in-libyan-detention-2a47398c010c?source=post_page-----2a47398c010c----------------------) · 13 min read
 
 
-![](assets/4716d047982d/0*pK8WeyZPfTqaYs_v)
+![](../assets/4716d047982d/0*pK8WeyZPfTqaYs_v)
 
 
 
-![](assets/4716d047982d/0*OK2zKaV59xNJjx12.jpeg)
+![](../assets/4716d047982d/0*OK2zKaV59xNJjx12.jpeg)
 
 
 In Zintan, people are too hungry to properly digest anti\-TB medication\. Photo: Giulia Tranchina
@@ -40,11 +40,11 @@ People detained in Zintan, 180km southwest of Tripoli, are mostly fleeing persec
 Due to the unstable conditions in the region, there are very few alternatives for asylum seekers, apart from evacuation out of Libya which is almost impossible to acheive\. Tensions are running high and outbreaks of violence are common\. Two weeks ago, six medical workers were abducted by armed men in Zintan, only to be released [earlier this week](https://www.hrw.org/news/2019/10/24/libya-abducted-medical-staff-freed-after-12-days) \.
 
 
-![](assets/4716d047982d/0*m2d5cMMb9mEuRKqF)
+![](../assets/4716d047982d/0*m2d5cMMb9mEuRKqF)
 
 
 
-![](assets/4716d047982d/0*Azjsv3iMGV5kp0s8.jpeg)
+![](../assets/4716d047982d/0*Azjsv3iMGV5kp0s8.jpeg)
 
 
 Conditions in Zintan: four overflowing toilets, buckets to urinate, no shower and only sporadic access to water, which was not suitable for drinking\. / Photo: MSF
@@ -61,11 +61,11 @@ In June, the UNHCR managed to secure the evacuation of an additional 96 detainee
 Apart from this life\-saving action for the most vulnerable residents of the camp, asylum seekers say they are enraged by the general indifference and inaction by UNHCR and IOM over the past years\. In May, they staged a protest against the UN agencies\. Yesterday‘s protests were also triggered by the UNHCR’s rejections of evacuation appeals\.
 
 
-![](assets/4716d047982d/0*skTNp3nvzQ20CR2V)
+![](../assets/4716d047982d/0*skTNp3nvzQ20CR2V)
 
 
 
-![](assets/4716d047982d/0*eHLVvAVOne-mLsgz.jpeg)
+![](../assets/4716d047982d/0*eHLVvAVOne-mLsgz.jpeg)
 
 
 Not much has changed since the desparate protest against UNHCR in Zintan camp in May, when people were afraid of more deaths and bodies of the deceased were not even being buried\.
@@ -128,11 +128,11 @@ It must be said: the [European Union is funding the Libyan coast guard](http://w
 Smugglers and warlords are ruling the lives of those who are desperately seeking safety\. At the same time, search and rescue operations in the Mediterranean are [being criminalised](https://blamingtherescuers.org) \. Not only were they saving thousands of people from drowning, they were also reporting about the crimes of the Libyan coast guard, which deliberately destroyed refugees’ boats and sometimes even left people to die in destroyed vessels\.
 
 
-![](assets/4716d047982d/0*2iOrLQTU0PIned6C)
+![](../assets/4716d047982d/0*2iOrLQTU0PIned6C)
 
 
 
-![](assets/4716d047982d/0*Rw7a_nPWzMoIDlL9.jpeg)
+![](../assets/4716d047982d/0*Rw7a_nPWzMoIDlL9.jpeg)
 
 
 The boat carrying the bodies of a mother and a child was found about 120km off the Libyan coast by Proactiva Open Arms in 2018: They were left there by the Libyan coast guard\. Photo: Proactiva
@@ -150,11 +150,11 @@ The important part of the [rejected resolution](http://www.europarl.europa.eu/do
 
 
 
-![](assets/4716d047982d/0*IolL6rnomnaidILA)
+![](../assets/4716d047982d/0*IolL6rnomnaidILA)
 
 
 
-![](assets/4716d047982d/0*mSfNoyT3zeUHtFDG.jpeg)
+![](../assets/4716d047982d/0*mSfNoyT3zeUHtFDG.jpeg)
 
 
 The resolution did not pass by two votes: 288 in favour, 290 against and 36 that abstained\.
@@ -226,11 +226,11 @@ The **Boat Refugee Foundation** will start a new mission in Northern Greece and 
 Last month, the Constitutional Court of Croatia reached a historic decision that could have far\-reaching consequences for the fates of many immigrant women — domestic violence in the countries from which the victims fled is a reason for asylum\! In the case of Iraqi national A\.B\., who was initially denied asylum, the constitutional judges unanimously concluded that the Administrative Court and the High Administrative Court had violated her human rights guaranteed by the Constitution and the The European Convention on Human Rights\.
 
 
-![](assets/4716d047982d/0*1uK9yOjd_WHQWcH4)
+![](../assets/4716d047982d/0*1uK9yOjd_WHQWcH4)
 
 
 
-![](assets/4716d047982d/0*dgaLML29pNQ5-Fr1.png)
+![](../assets/4716d047982d/0*dgaLML29pNQ5-Fr1.png)
 
 
 
@@ -245,11 +245,11 @@ The Contstitutional Court returned the case for retrial, thereby partially corre
 ### Local government announces the opening of a reception centre on the outskirts of Tuzla
 
 
-![](assets/4716d047982d/0*X8OHUffuIwbEyHaQ)
+![](../assets/4716d047982d/0*X8OHUffuIwbEyHaQ)
 
 
 
-![](assets/4716d047982d/0*64b44lJ9pDLPDXSK.jpeg)
+![](../assets/4716d047982d/0*64b44lJ9pDLPDXSK.jpeg)
 
 
 Refugees have been sleeping rough in the increasingly cold weather\. Photo: Tuzlarije

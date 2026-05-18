@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,afghanistan,eu]
 description: Worrying Nationalist Rhetoric and Relations With Taliban Concerning Many//Tunisian Fishermen Protest Against Libyan Coast…
 image:
-  path: assets/f0935aeb3e7d/0*usRVcHY3F5ySR79p
+  path: ../assets/f0935aeb3e7d/0*usRVcHY3F5ySR79p
 ---
 
 ### AYS Daily Digest 14/09/21 — Will the EU Continue Deporting Afghan People?
@@ -15,7 +15,7 @@ image:
 Worrying Nationalist Rhetoric and Relations With Taliban Concerning Many//Tunisian Fishermen Protest Against Libyan Coast Guard//Journalists Protest Polish State of Emergency
 
 
-![An empty boat drifts past the rescue ship the Geo Barents, the fate of the people on board is unknown\. Photo credit: Vincent Haiges via [Zeit\.de](https://www.zeit.de/gesellschaft/zeitgeschehen/2021-09/seenotrettung-mittelmeer-aerzte-ohne-grenze-geo-barents-libyen-italien?utm_referrer=https%3A%2F%2Fl.facebook.com%2F)](assets/f0935aeb3e7d/0*usRVcHY3F5ySR79p)
+![An empty boat drifts past the rescue ship the Geo Barents, the fate of the people on board is unknown\. Photo credit: Vincent Haiges via [Zeit\.de](https://www.zeit.de/gesellschaft/zeitgeschehen/2021-09/seenotrettung-mittelmeer-aerzte-ohne-grenze-geo-barents-libyen-italien?utm_referrer=https%3A%2F%2Fl.facebook.com%2F)](../assets/f0935aeb3e7d/0*usRVcHY3F5ySR79p)
 
 An empty boat drifts past the rescue ship the Geo Barents, the fate of the people on board is unknown\. Photo credit: Vincent Haiges via [Zeit\.de](https://www.zeit.de/gesellschaft/zeitgeschehen/2021-09/seenotrettung-mittelmeer-aerzte-ohne-grenze-geo-barents-libyen-italien?utm_referrer=https%3A%2F%2Fl.facebook.com%2F)
 #### FEATURE

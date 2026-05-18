@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Escaping Sinjar and living in refugee camp in Iraqi Kurdistan
+title: "AYS SPECIAL: Escaping Sinjar and living in refugee camp in Iraqi Kurdistan"
 author: Are You Syrious?
 date: 2018-04-12T12:53:07.366+0100
 last_modified_at: 2018-04-12T12:53:07.366+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [iraq,special,digest,kurdistan,yezidi]
 description: AYS friend Michael K. from the Oasis Rhodes solidarity group, visited Khanke camp in Iraqi Kurdistan and brings his impressions and the…
 image:
-  path: assets/35018918c0f3/1*OVXTbDUkzmjk7LVgSbxKyQ.jpeg
+  path: ../assets/35018918c0f3/1*OVXTbDUkzmjk7LVgSbxKyQ.jpeg
 ---
 
 ### AYS SPECIAL: Escaping Sinjar and living in refugee camp in Iraqi Kurdistan
@@ -15,13 +15,13 @@ image:
 _AYS friend Michael K\. from the Oasis Rhodes solidarity group, visited Khanke camp in Iraqi Kurdistan and brings his impressions and the story of “Jack”, a men who survived genocide in Sinjar_
 
 
-![](assets/35018918c0f3/1*OVXTbDUkzmjk7LVgSbxKyQ.jpeg)
+![](../assets/35018918c0f3/1*OVXTbDUkzmjk7LVgSbxKyQ.jpeg)
 
 
 Khanke camp is one of the 27 camps organized by BRHA \(Board of Relief and Humanitarian Affairs\) in Iraqi Kurdistan since 2011\. The camp was established in mid\-August 2014 for internally displaced persons \(IDPs\) fleeing conflict in Sinjar district, Ninevah Governorate of Iraq\. The first 153 families moved in on 28 August 2014\. Now it is a home for almost 3,000 families \(about 16,500 people\) \.
 
 
-![](assets/35018918c0f3/1*-1n8J0MMXqgMT9YssGSGwg.png)
+![](../assets/35018918c0f3/1*-1n8J0MMXqgMT9YssGSGwg.png)
 
 
 We visited Khanke in April 6, 2018 and talked with many refugees, mostly of Kurdish and Yezidi origin, including Jack, a young Yezidi man from Sinjar\.
@@ -29,45 +29,45 @@ We visited Khanke in April 6, 2018 and talked with many refugees, mostly of Kurd
 Among people we met, we could feel unrest and fear about the future\. Most of the them have been living here for three years, and there is no hope there will be any change in their life any time soon\. The water quality is bad, there is a food shortage and there are no jobs for people to even try to start a life\. Education opportunities are few, and only for very small children\.
 
 
-![](assets/35018918c0f3/1*Qn9rwzZh1J55_EJ0eIG13g.jpeg)
+![](../assets/35018918c0f3/1*Qn9rwzZh1J55_EJ0eIG13g.jpeg)
 
 
 
-![](assets/35018918c0f3/1*XMTMSQqtkVMtz2IeNMYyOg.jpeg)
+![](../assets/35018918c0f3/1*XMTMSQqtkVMtz2IeNMYyOg.jpeg)
 
 
 
-![](assets/35018918c0f3/1*vTlvA3D0FIhwRa_3x7y12A.jpeg)
+![](../assets/35018918c0f3/1*vTlvA3D0FIhwRa_3x7y12A.jpeg)
 
 
 
-![](assets/35018918c0f3/1*-6Iup29aY_Dyl2pSqAWBqQ.jpeg)
+![](../assets/35018918c0f3/1*-6Iup29aY_Dyl2pSqAWBqQ.jpeg)
 
 
 
-![](assets/35018918c0f3/1*afZH8-2L3nQ940ABM0B5bg.jpeg)
+![](../assets/35018918c0f3/1*afZH8-2L3nQ940ABM0B5bg.jpeg)
 
 
 
-![](assets/35018918c0f3/1*e7Yz4YYaQFqmy8omsdFh3g.jpeg)
+![](../assets/35018918c0f3/1*e7Yz4YYaQFqmy8omsdFh3g.jpeg)
 
 
 Recently, BRHA announced that they will be ready to accept another wave of displaced Yezidis from Sinjar, being afraid that Turkey could attack that area soon\. The camp will be placed in Bardarash district and will host 3000 families\.
 
 
-![](assets/35018918c0f3/1*3eJXd6aqDRIBjp44vzNzNw.jpeg)
+![](../assets/35018918c0f3/1*3eJXd6aqDRIBjp44vzNzNw.jpeg)
 
 
 
-![](assets/35018918c0f3/1*JExlyrsn3IJkx5hnULBnzQ.jpeg)
+![](../assets/35018918c0f3/1*JExlyrsn3IJkx5hnULBnzQ.jpeg)
 
 
 
-![](assets/35018918c0f3/1*i1Zw-HWHta0MyqxY-Rr5RA.jpeg)
+![](../assets/35018918c0f3/1*i1Zw-HWHta0MyqxY-Rr5RA.jpeg)
 
 
 
-![](assets/35018918c0f3/1*7t5atLxfdkjvowEdbmwLSQ.jpeg)
+![](../assets/35018918c0f3/1*7t5atLxfdkjvowEdbmwLSQ.jpeg)
 
 
 
@@ -89,7 +89,7 @@ We left our home at 7:30 AM on Sunday in 3/ AUGUST/ 2014\.
 We left our home when ISIS attacked us, and we went on foot, heading to the mountain\. We walked about 2 hours until we had reached there\. My grandmother was 94 years old; her leg was broken, and she could not keep walking with us in the mountain\. We carried her on our backs until we reached the mountain; when we reached it, we could not carry her any more on the mountain The group left her at the bottom of the mountain, while me and my cousin stayed with her, giving what we still had of water until ISIS had reached there\. We then had to run and hide ourselves behind a big stone, not to be seen by ISIS or they would kill us also\. Believe me, we were watching her behind the stone when she was shot\. After that, we ran away, and our eyes were full of tears and crying because no one was offering us any helping hand\.
 
 
-![My Grandmother, one of the ISIS victims in Sinjar August / 2014\- Was shot by ISIS while we were forced to witness her death behind a big rock\.](assets/35018918c0f3/1*SEYyjDh6_W6iNqlKgHWDMQ.png)
+![My Grandmother, one of the ISIS victims in Sinjar August / 2014\- Was shot by ISIS while we were forced to witness her death behind a big rock\.](../assets/35018918c0f3/1*SEYyjDh6_W6iNqlKgHWDMQ.png)
 
 My Grandmother, one of the ISIS victims in Sinjar August / 2014\- Was shot by ISIS while we were forced to witness her death behind a big rock\.
 

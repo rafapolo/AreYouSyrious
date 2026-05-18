@@ -1,5 +1,5 @@
 ---
-title: AYS Digest 24.09.21 — UK: 11 teenagers dead in Last five years
+title: "AYS Digest 24.09.21 — UK: 11 teenagers dead in Last five years"
 author: Are You Syrious?
 date: 2021-09-25T12:27:23.297+0100
 last_modified_at: 2021-09-25T16:44:02.322+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,uk,libya,canary-islands,afghanistan]
 description: EU ‘supporting’ Libyan Southern border / Deadly Canary Route Worsens / 24,420 people returned to Libya in 2021 and more…
 image:
-  path: assets/e1bcd1f1aba6/1*3XkVwEZHDjuYUaj6SrphTw.jpeg
+  path: ../assets/e1bcd1f1aba6/1*3XkVwEZHDjuYUaj6SrphTw.jpeg
 ---
 
 ### AYS Digest 24\.09\.21 — UK: Eleven teenagers dead in last five years
@@ -15,7 +15,7 @@ image:
 _EU ‘supporting’ Libyan Southern border / Deadly Canary route worsens / 24,420 people returned to Libya in 2021 / 20,000 children without education in Greece / German youth hostel opens to Afghanis and more…_
 
 
-![\(Photo Credit: [The New European](https://www.theneweuropean.co.uk/) via @ [MassiveAttackUK](https://twitter.com/MassiveAttackUK/status/1441397608862322695?fbclid=IwAR2MaUu-EW8EN0J9x9VVsXV6fAFODAwELZd4iGVn890DucpoBiFNcQvVh3g) \)](assets/e1bcd1f1aba6/1*3XkVwEZHDjuYUaj6SrphTw.jpeg)
+![\(Photo Credit: [The New European](https://www.theneweuropean.co.uk/) via @ [MassiveAttackUK](https://twitter.com/MassiveAttackUK/status/1441397608862322695?fbclid=IwAR2MaUu-EW8EN0J9x9VVsXV6fAFODAwELZd4iGVn890DucpoBiFNcQvVh3g) \)](../assets/e1bcd1f1aba6/1*3XkVwEZHDjuYUaj6SrphTw.jpeg)
 
 \(Photo Credit: [The New European](https://www.theneweuropean.co.uk/) via @ [MassiveAttackUK](https://twitter.com/MassiveAttackUK/status/1441397608862322695?fbclid=IwAR2MaUu-EW8EN0J9x9VVsXV6fAFODAwELZd4iGVn890DucpoBiFNcQvVh3g) \)
 #### Featured: Eleven teenagers dead in last five years

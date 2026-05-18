@@ -1,5 +1,5 @@
 ---
-title: DEBATE: Who do you think you are?
+title: "DEBATE: Who do you think you are?"
 author: Are You Syrious?
 date: 2017-04-12T12:56:02.244+0100
 last_modified_at: 2017-04-12T12:56:02.244+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,lesvos,volunteers,volunteering]
 description: After we published a letter from Shoufu volunteer group, some other volunteers from Lesvos contacted us wiling to continue this debate we…
 image:
-  path: assets/1fa2bfc43b74/1*465WVQTc7KkTyrFk7DqtqA.jpeg
+  path: ../assets/1fa2bfc43b74/1*465WVQTc7KkTyrFk7DqtqA.jpeg
 ---
 
 ### DEBATE: Who do you think you are?
@@ -15,7 +15,7 @@ image:
 Read their story, and join the debate\.
 
 
-![_After the decline of emergency situation, there is space for work that goes beyond addressing basic needs\._](assets/1fa2bfc43b74/1*465WVQTc7KkTyrFk7DqtqA.jpeg)
+![_After the decline of emergency situation, there is space for work that goes beyond addressing basic needs\._](../assets/1fa2bfc43b74/1*465WVQTc7KkTyrFk7DqtqA.jpeg)
 
 _After the decline of emergency situation, there is space for work that goes beyond addressing basic needs\._
 
@@ -28,7 +28,7 @@ In the past two years, Greece was overwhelmed with what seemed to be an unmanage
 Now, one year after the EU\-Turkey deal, the situation has changed\. A structure for basic needs is established in most places\. Some NGOs and collectives have started to move towards organizing support that goes beyond addressing the basic needs\. Because now, past the emergency situation, there is finally room for that\. But visions can diverge fundamentally\. Do you work within the political framework and, for example, build a community center to combat the dull every\-day boredom? Or do you try to break the framework by organizing protests and inform the people about potential ways out of Greece? Those are two very different approaches, and only two out of many\.
 
 
-![_Self\-organised cooking by refugees on Lesvos_](assets/1fa2bfc43b74/1*45FXLCBfT11fIHC9ovx3rg.jpeg)
+![_Self\-organised cooking by refugees on Lesvos_](../assets/1fa2bfc43b74/1*45FXLCBfT11fIHC9ovx3rg.jpeg)
 
 _Self\-organised cooking by refugees on Lesvos_
 

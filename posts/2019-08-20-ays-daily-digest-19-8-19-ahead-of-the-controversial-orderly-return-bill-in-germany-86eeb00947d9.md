@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 19/8/19: Ahead of the controversial ‘Orderly Return Bill’ in Germany
+title: "AYS Daily Digest 19/8/19: Ahead of the controversial ‘Orderly Return Bill’ in Germany"
 author: Are You Syrious?
 date: 2019-08-20T10:47:04.629+0100
 last_modified_at: 2019-08-20T12:24:20.804+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,germany,italy]
 description: A man rescued off the Libyan coast dies / In Turkey, unregistered Syrians to return to the province they are registered in / 8+1 people…
 image:
-  path: assets/86eeb00947d9/1*3q89Av0MCrijA1bRvXotkg.jpeg
+  path: ../assets/86eeb00947d9/1*3q89Av0MCrijA1bRvXotkg.jpeg
 ---
 
 ### AYS Daily Digest 19/08/19: Ahead of the Controversial ‘ **Orderly Return Bill’ in Germany**
 #### A man rescued off the Libyan coast dies / In Turkey, unregistered Syrians to return to the province they are registered in / 8\+1 people evacuated from Open Arms, the crew urges for disembarkation as they fear navigating 5 more days could be dangerous for people on board / EU allocates €10m more to Bosnia and Herzegovina / Switzerland ahead of a trial to a **73\-year\-old woman convicted and fined in her efforts to help / & more news**
 
 
-![Yet another large shipwreck in the Mediterranean? — “A fisherman told us yesterday evening about a capsized boat off the coast of Libya\. He said he rescued 3 people and saw many dead bodies\. The survivors speak of 100\+ people on board\. At this stage we cannot verify this info but fear that another mass tragedy may have occurred\.” — [Watch The Med — Alarmphone](https://www.facebook.com/watchthemed.alarmphone/?tn-str=k%2AF&hc_location=group_dialog)](assets/86eeb00947d9/1*3q89Av0MCrijA1bRvXotkg.jpeg)
+![Yet another large shipwreck in the Mediterranean? — “A fisherman told us yesterday evening about a capsized boat off the coast of Libya\. He said he rescued 3 people and saw many dead bodies\. The survivors speak of 100\+ people on board\. At this stage we cannot verify this info but fear that another mass tragedy may have occurred\.” — [Watch The Med — Alarmphone](https://www.facebook.com/watchthemed.alarmphone/?tn-str=k%2AF&hc_location=group_dialog)](../assets/86eeb00947d9/1*3q89Av0MCrijA1bRvXotkg.jpeg)
 
 Yet another large shipwreck in the Mediterranean? — “A fisherman told us yesterday evening about a capsized boat off the coast of Libya\. He said he rescued 3 people and saw many dead bodies\. The survivors speak of 100\+ people on board\. At this stage we cannot verify this info but fear that another mass tragedy may have occurred\.” — [Watch The Med — Alarmphone](https://www.facebook.com/watchthemed.alarmphone/?tn-str=k%2AF&hc_location=group_dialog)
 #### FEATURED
@@ -131,19 +131,19 @@ Metadrasi received the $2m \(£1\.6m\) Hilton humanitarian prize for its “inno
 [ANKAA Project](https://www.facebook.com/ANKAAPROJECT/?__xts__%5B0%5D=68.ARDKizasg9DdOfPaVzBqu8HBgWz392U9O5tyZWpKKOoYEitT6XIJx0bdhS9t9NJZ-1er4V5RtUug9E1G4GvV7dba3b8j6V1ac-04s7EXj9sGw-yMqAB5TZC38fT7p6OJiXv3FJGhaswUnhj_y7jdQENqgkxIXDKLPVVQiiigTW-vDLKt70gzQGGDuOLHxD3eTSIpBS18io2Hc_rS0zpeEJFM0Z7IfjQ4ZzB5b-5zEXv2iUGIctMZvOdCxcQKvc-mtDq4F0Z5vVnVz2MFnuFAZt6qKioXrf1ilPlddAnXTRLsqLGJx0wTOi_2vXxF6wWslro9M3kmLqG7QR7muTOkRvEulqcD2j3qBEhE-n4FyGm-9Zk&__tn__=k%2AF&tn-str=k%2AF) is looking for volunteers in a number of fields:
 
 
-![](assets/86eeb00947d9/1*Q97EH8fmBhpVYA87FYX2lQ.png)
+![](../assets/86eeb00947d9/1*Q97EH8fmBhpVYA87FYX2lQ.png)
 
 
 
-![](assets/86eeb00947d9/1*9Ydt2aRaf2xSz6UzLORedw.png)
+![](../assets/86eeb00947d9/1*9Ydt2aRaf2xSz6UzLORedw.png)
 
 
 
-![](assets/86eeb00947d9/1*Rxce_qAEoUqAQQwXEM9JGQ.png)
+![](../assets/86eeb00947d9/1*Rxce_qAEoUqAQQwXEM9JGQ.png)
 
 
 
-![](assets/86eeb00947d9/1*9BfNir4TDurFPpwXWv_h5Q.png)
+![](../assets/86eeb00947d9/1*9BfNir4TDurFPpwXWv_h5Q.png)
 
 ### Athens
 #### Exhibition
@@ -193,7 +193,7 @@ Ahead of tomorrow’s appeal against the conviction of Anni Lanz, a **73\-year\-
 …Anni Lanz was charged with facilitating irregular entry into Switzerland, after she gave a lift to an Afghan asylum seeker she found sleeping outside a train station in freezing conditions in Italy, near the Swiss border\. She had originally met the man in a removal centre in Basel\.
 
 
-![](assets/86eeb00947d9/0*RTTkND9I0BPuLGFU)
+![](../assets/86eeb00947d9/0*RTTkND9I0BPuLGFU)
 
 
 **We strive to echo correct news from the ground through collaboration and fairness\. Every effort has been made to credit organisations and individuals with regard to the supply of information, video, and photo material \(in cases where the source wanted to be accredited\) \. Please notify us regarding corrections\.**

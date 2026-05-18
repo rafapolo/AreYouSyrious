@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 27/12/2016: Weather conditions to deteriorate in Greece
+title: "AYS DAILY DIGEST 27/12/2016: Weather conditions to deteriorate in Greece"
 author: Are You Syrious?
 date: 2016-12-28T06:02:04.064+0000
 last_modified_at: 2016-12-28T08:09:48.326+0000
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe]
 description: Cold weather expected throughout Greece//Calls for donations in Greece// Refugees return to Calais //NGOs still active in…
 image:
-  path: assets/daa80b7c711e/0*8LR2ccOGSpRE3qYa.
+  path: ../assets/daa80b7c711e/0*8LR2ccOGSpRE3qYa.
 ---
 
 ### AYS DAILY DIGEST 27/12/2016: Weather conditions to deteriorate in Greece
 #### _Cold weather expected throughout Greece//Calls for donations in Greece// Refugees return to Calais //NGOs still active in Belgrade//Kelebija Community Center in Serbia forced to close//_
 
 
-![\. Pikpa, Lesvos\. Photo by Knut Bry](assets/daa80b7c711e/0*8LR2ccOGSpRE3qYa.)
+![\. Pikpa, Lesvos\. Photo by Knut Bry](../assets/daa80b7c711e/0*8LR2ccOGSpRE3qYa.)
 
 \. Pikpa, Lesvos\. Photo by Knut Bry
 #### Greece
@@ -43,14 +43,14 @@ The situation on the mainland and on the islands, especially Chios, is still ext
 [Help Refugees is looking for donations to support The Food Project in Greece](https://mydonate.bt.com/donation/start.html?charity=127188) , which supplies fresh fruit and vegetables and supports smaller organisations across 16 refugee camps in northern Greece\.
 
 
-![Vasilika Camp: food boxes contain oil, eggs, sugar, tea, rice\. Photo by Eko Project](assets/daa80b7c711e/0*aKAQD0OJ4-SuXEVA.)
+![Vasilika Camp: food boxes contain oil, eggs, sugar, tea, rice\. Photo by Eko Project](../assets/daa80b7c711e/0*aKAQD0OJ4-SuXEVA.)
 
 Vasilika Camp: food boxes contain oil, eggs, sugar, tea, rice\. Photo by Eko Project
 
 Distributing ingredients enables camp residents to cook for themselves in a dignified way, making food that reminds them of the homes that they were forced to flee\. It also offers some variety and some necessary additional proteins to compliment the dull army diet\.
 
 
-![Food shop at the Alexandreia refugee camp\. Photo by Refugee Support Greece](assets/daa80b7c711e/0*tpR11DMQds7c9qTc.)
+![Food shop at the Alexandreia refugee camp\. Photo by Refugee Support Greece](../assets/daa80b7c711e/0*tpR11DMQds7c9qTc.)
 
 Food shop at the Alexandreia refugee camp\. Photo by Refugee Support Greece
 
@@ -63,7 +63,7 @@ In just two months, The Food Project has distributed a staggering amount of food
  — 6,964 litres of sunflower
 
 
-![In the Karamanlis and Frakapor refugee camps, people are able to buy additional food and items through a point system\. There are no queues, people can chose and buy only what they need and consumer\. Photo by Anas Kbabeh](assets/daa80b7c711e/0*zow6W88QMFCN_Cqe.)
+![In the Karamanlis and Frakapor refugee camps, people are able to buy additional food and items through a point system\. There are no queues, people can chose and buy only what they need and consumer\. Photo by Anas Kbabeh](../assets/daa80b7c711e/0*zow6W88QMFCN_Cqe.)
 
 In the Karamanlis and Frakapor refugee camps, people are able to buy additional food and items through a point system\. There are no queues, people can chose and buy only what they need and consumer\. Photo by Anas Kbabeh
 
@@ -87,7 +87,7 @@ News That Moves says that asylum seekers in Vizbegovo can leave the centre from 
 This morning, MSF and volunteers were helping refugees to clean the buildings where they have been abandoned in Belgrade\.
 
 
-![Photo by MSF](assets/daa80b7c711e/0*FpJoZD05vkhzTUqY.jpg)
+![Photo by MSF](../assets/daa80b7c711e/0*FpJoZD05vkhzTUqY.jpg)
 
 Photo by MSF
 
@@ -100,7 +100,7 @@ However, Belgrade remains one of the major smuggling hubs in the Balkans, and ma
 Several NGOs are still working in the city and adapting to the new situation\. Refugee Aid Miksalište for example has initiated “The Women’s Corner”, a space for women and girls to relax, play and learn\. The group says women have told them that they “ _truly appreciate this space, where in smaller groups they can hang out and build friendships, as well as study and practice the languages they are interested in learning and learn new skills such as knitting_ ”\.
 
 
-![Photo by [Refugee Aid Miksalište](https://www.facebook.com/RefugeeAidMiksaliste/)](assets/daa80b7c711e/0*RNr4WCGBkl-nALAH.)
+![Photo by [Refugee Aid Miksalište](https://www.facebook.com/RefugeeAidMiksaliste/)](../assets/daa80b7c711e/0*RNr4WCGBkl-nALAH.)
 
 Photo by [Refugee Aid Miksalište](https://www.facebook.com/RefugeeAidMiksaliste/)
 ### UNHCR reports on illegal deportations to Serbia
@@ -126,7 +126,7 @@ The county court is preparing to hold the Center’s landlord accountable for cr
 This is truly tragic for refugees sleeping rough around the Kelebija and Horgos transit zones\. The Center is offering essential services, such as a free WiFi hotspot, cell phone charging stations and a kitchen providing food, warm tea and coffee\. It also offers language classes, activities for children and distributes essential items such as winter\-weather sleeping bags\. The heated tent has become essential, given the freezing temperatures at the border — most of all, it has remained a shelter and place of refuge, in an area known for its inhospitality and harsh living conditions\.
 
 
-![Photo By NorthStar](assets/daa80b7c711e/0*0lhZBOyqfcAJg-Hi.)
+![Photo By NorthStar](../assets/daa80b7c711e/0*0lhZBOyqfcAJg-Hi.)
 
 Photo By NorthStar
 #### France
@@ -142,7 +142,7 @@ In a special [report](https://www.dropbox.com/sh/mc1qtfz8h2wx561/AAAof4FQGk50uEF
 **52 refugees, including four women, were sleeping in the streets of Como last night, under freezing temperatures\.**
 
 
-![Image by [Como senza frontiere](https://www.facebook.com/comosenzafrontiere/)](assets/daa80b7c711e/0*apflSdeAliBzn6mV.)
+![Image by [Como senza frontiere](https://www.facebook.com/comosenzafrontiere/)](../assets/daa80b7c711e/0*apflSdeAliBzn6mV.)
 
 Image by [Como senza frontiere](https://www.facebook.com/comosenzafrontiere/)
 ### Guitars needed in Rome

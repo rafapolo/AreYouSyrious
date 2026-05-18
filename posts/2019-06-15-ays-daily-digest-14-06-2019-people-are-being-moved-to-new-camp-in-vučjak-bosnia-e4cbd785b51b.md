@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 14/06/2019: People are being moved to new “camp” in Vučjak, Bosnia
+title: "AYS Daily Digest 14/06/2019: People are being moved to new “camp” in Vučjak, Bosnia"
 author: Are You Syrious?
 date: 2019-06-15T10:51:51.633+0100
 last_modified_at: 2019-06-15T13:39:57.372+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,human-rights,police-brutality,bosnia-and-herzegovina]
 description: New testimony of brutality by Croatian police// Hundreds of seasonal workers exploited in Italian fields//53 people still stranded off…
 image:
-  path: assets/e4cbd785b51b/1*5PjGzGZbIk6I7dmkQMErxw.jpeg
+  path: ../assets/e4cbd785b51b/1*5PjGzGZbIk6I7dmkQMErxw.jpeg
 ---
 
 ### AYS Daily Digest 14/06/2019: People are being moved to new “camp” in Vučjak, Bosnia
 #### New testimony of brutality by Croatian police// Hundreds _of seasonal workers exploited in Italian fields// 53 people still stranded off Italian shores// Cases of police violence at the French\-Italian border// Violent pushback from Bulgaria to Greece// First deportation from France to Eritrea// 50\+ people detained in Morocco// News from Malta, Italy, Switzerland, the UK…_
 
 
-![Saluzzo\. Credit: Spazio Popolare Autogestito Gabrio](assets/e4cbd785b51b/1*5PjGzGZbIk6I7dmkQMErxw.jpeg)
+![Saluzzo\. Credit: Spazio Popolare Autogestito Gabrio](../assets/e4cbd785b51b/1*5PjGzGZbIk6I7dmkQMErxw.jpeg)
 
 Saluzzo\. Credit: Spazio Popolare Autogestito Gabrio
 #### FEATURED STORIES

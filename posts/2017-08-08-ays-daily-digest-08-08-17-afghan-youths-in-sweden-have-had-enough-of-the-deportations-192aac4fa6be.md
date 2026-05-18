@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 08/08/17: Afghan youths in Sweden have had enough of the deportations
+title: "AYS Daily Digest 08/08/17: Afghan youths in Sweden have had enough of the deportations"
 author: Are You Syrious?
 date: 2017-08-08T23:53:27.829+0100
 last_modified_at: 2017-08-09T11:33:50.853+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,greece,sweden,france,italy]
 description: Cedric Herrou convicted for his solidarity work / Moria hunger strike over — the prisoners are free! / Libyan coastguard are using guns…
 image:
-  path: assets/192aac4fa6be/1*JZ8ClMlYYbLSaC1WJu6FPQ.jpeg
+  path: ../assets/192aac4fa6be/1*JZ8ClMlYYbLSaC1WJu6FPQ.jpeg
 ---
 
 ### AYS Daily Digest 08/08/17: Afghan youths in Sweden have had enough of the deportations
@@ -15,7 +15,7 @@ image:
 _Cedric Herrou convicted for his solidarity work / Moria hunger strike over — the prisoners are free\! / Libyan coastguard are using guns towards rescue vessel / Dublin returns to Greece to begin / Gay Iraqi asylum seeker to be deported from Germany / Deportation from France to Afghanistan tomorrow / Chaos in Calais / And more news\. \._
 
 
-![“If you believe I have the right to a life come sit with me”\. Photo: AYS](assets/192aac4fa6be/1*JZ8ClMlYYbLSaC1WJu6FPQ.jpeg)
+![“If you believe I have the right to a life come sit with me”\. Photo: AYS](../assets/192aac4fa6be/1*JZ8ClMlYYbLSaC1WJu6FPQ.jpeg)
 
 “If you believe I have the right to a life come sit with me”\. Photo: AYS
 ### Feature
@@ -54,15 +54,15 @@ It is too soon to say whether the sit\-in will have any effect\. But they have n
 In 2015 alone, there were almost 36 000 unaccompanied minors arriving\. Of them 10 600 still are waiting for decisions\. On top of that, more people have arrived since then, and the rejection rate has increased\. More appeals are being lodged against negative decisions, and more people are risking deportations\. Reports about self\-harming behaviour and testimonies by legal guardians about how their young clients are suffering is a constantly reported subject in the Swedish media\. Young Afghans are especially badly affected in the current system\.
 
 
-![](assets/192aac4fa6be/1*gKeG6Ng4vzxsltIqqaJrhQ.jpeg)
+![](../assets/192aac4fa6be/1*gKeG6Ng4vzxsltIqqaJrhQ.jpeg)
 
 
 
-![](assets/192aac4fa6be/1*A7vEikubTW0yQPCWLMRBdQ.jpeg)
+![](../assets/192aac4fa6be/1*A7vEikubTW0yQPCWLMRBdQ.jpeg)
 
 
 
-![Photos: AYS](assets/192aac4fa6be/1*8JMXf_leHptTYCD7CAvBSA.jpeg)
+![Photos: AYS](../assets/192aac4fa6be/1*8JMXf_leHptTYCD7CAvBSA.jpeg)
 
 Photos: AYS
 
@@ -83,7 +83,7 @@ Thanks to Cedric, migrants passing through the Roya valley close to the Italian 
 And the hunger strike has come to and end\. Arash Hampay is updating on today’s events [here\.](https://www.facebook.com/arashampay/posts/506428623036562?hc_location=ufi) Even though it is a happy event, let’s remember that the incident that led to this actually never should have occured\.
 
 
-![Photo: [Mosaik Support Center](https://www.facebook.com/mosaiksupportcenter/?hc_ref=ARS_CqldIcAk1MKuEIoo8Q5bQzb44DqHviBDX4iNAe8rs8CKsg7gRgAcrmU2750eCiI&fref=nf)](assets/192aac4fa6be/1*oPpsUgbOVRETkyIyxWiKxw.jpeg)
+![Photo: [Mosaik Support Center](https://www.facebook.com/mosaiksupportcenter/?hc_ref=ARS_CqldIcAk1MKuEIoo8Q5bQzb44DqHviBDX4iNAe8rs8CKsg7gRgAcrmU2750eCiI&fref=nf)](../assets/192aac4fa6be/1*oPpsUgbOVRETkyIyxWiKxw.jpeg)
 
 Photo: [Mosaik Support Center](https://www.facebook.com/mosaiksupportcenter/?hc_ref=ARS_CqldIcAk1MKuEIoo8Q5bQzb44DqHviBDX4iNAe8rs8CKsg7gRgAcrmU2750eCiI&fref=nf)
 
@@ -153,7 +153,7 @@ EU nations will start the process of Dublin returns to Greece, [Ekathimerini rep
 In Athens, funds are needed for a [school project](https://www.facebook.com/story.php?story_fbid=472072669820078&id=111893659171316&hc_location=ufi) \. [Help Refugees](https://www.facebook.com/HelpRefugeesUK/?hc_ref=ARQPei_GOGbLUUiir4nlbdGdSaoUvMh5TrpCangVhb5NBU47_k-QAaPqgTgTxqk6QAQ&fref=nf) is leading the project which will benefit mostly unaccompanied minors\. Follow the link for more information or [donate here\.](http://bit.ly/HelpRefugeesDonate) The [Zaatar — non\-profit organization](https://www.facebook.com/zaatarngo/) is also a part of the project\.
 
 
-![Photo: [Help Refugees](https://www.facebook.com/HelpRefugeesUK/?hc_ref=ARQPei_GOGbLUUiir4nlbdGdSaoUvMh5TrpCangVhb5NBU47_k-QAaPqgTgTxqk6QAQ&fref=nf)](assets/192aac4fa6be/1*mIIpk5mMJ270K_6-JvOhKQ.png)
+![Photo: [Help Refugees](https://www.facebook.com/HelpRefugeesUK/?hc_ref=ARQPei_GOGbLUUiir4nlbdGdSaoUvMh5TrpCangVhb5NBU47_k-QAaPqgTgTxqk6QAQ&fref=nf)](../assets/192aac4fa6be/1*mIIpk5mMJ270K_6-JvOhKQ.png)
 
 Photo: [Help Refugees](https://www.facebook.com/HelpRefugeesUK/?hc_ref=ARQPei_GOGbLUUiir4nlbdGdSaoUvMh5TrpCangVhb5NBU47_k-QAaPqgTgTxqk6QAQ&fref=nf)
 
@@ -166,7 +166,7 @@ In Thessaloniki there is support available for families due to delays in the cas
 Also in [Northern Greece](https://m.facebook.com/story.php?story_fbid=478026969238608&id=304001796641127&hc_location=ufi) , [The Get Shit Done Team](https://www.facebook.com/The-Get-Shit-Done-Team-304001796641127/) is working on new constructions that will make life a bit easier for people in the area\.
 
 
-![Photo: [The Get Shit Done Team](https://www.facebook.com/The-Get-Shit-Done-Team-304001796641127/)](assets/192aac4fa6be/1*9f1Iqz0wWXzMHMGZlCcazg.jpeg)
+![Photo: [The Get Shit Done Team](https://www.facebook.com/The-Get-Shit-Done-Team-304001796641127/)](../assets/192aac4fa6be/1*9f1Iqz0wWXzMHMGZlCcazg.jpeg)
 
 Photo: [The Get Shit Done Team](https://www.facebook.com/The-Get-Shit-Done-Team-304001796641127/)
 
@@ -183,11 +183,11 @@ Photo: [The Get Shit Done Team](https://www.facebook.com/The-Get-Shit-Done-Team-
 Souda continues to close down, as the [pictures show](https://www.facebook.com/groups/ROYartsaveslives/permalink/1431104476979216/?hc_location=ufi) \. More photos can also be found [here](https://m.facebook.com/story.php?story_fbid=257739048074275&id=100015145450301&hc_location=ufi) , and [here\.](https://www.facebook.com/muhamed.albakur.5/posts/257739048074275?hc_location=ufi)
 
 
-![](assets/192aac4fa6be/1*s4S-fa0YtqEhTOj00FZ7Zw.jpeg)
+![](../assets/192aac4fa6be/1*s4S-fa0YtqEhTOj00FZ7Zw.jpeg)
 
 
 
-![Photos: [Roy Art Saves Lives](https://www.facebook.com/ROYmakesart)](assets/192aac4fa6be/1*axn4nj_hZ0XSkg938HX7fw.jpeg)
+![Photos: [Roy Art Saves Lives](https://www.facebook.com/ROYmakesart)](../assets/192aac4fa6be/1*axn4nj_hZ0XSkg938HX7fw.jpeg)
 
 Photos: [Roy Art Saves Lives](https://www.facebook.com/ROYmakesart)
 #### Serbia
@@ -195,7 +195,7 @@ Photos: [Roy Art Saves Lives](https://www.facebook.com/ROYmakesart)
 [Info Park](https://www.facebook.com/infoparkserbia/?hc_ref=ARSG4uYRSkyIyjOf7oRTwIBfOfAiuRzv87GQp7Osc-z4WfKyTHbEs1Emfc46lKYtuHo) has been doing workshops for girls and women in two camps in Serbia, Pirot and Divljana\. [The workshops have been all about empowerment and sharing modern views on gender equality](https://www.facebook.com/infoparkserbia/posts/1397640630290197) , prevention of violence against women and knowing one’s rights and worth\. Read more here about the work\.
 
 
-![Photo: [Info Park](https://www.facebook.com/infoparkserbia/)](assets/192aac4fa6be/1*TGxghzEUXV2QqsS7v7WdyA.jpeg)
+![Photo: [Info Park](https://www.facebook.com/infoparkserbia/)](../assets/192aac4fa6be/1*TGxghzEUXV2QqsS7v7WdyA.jpeg)
 
 Photo: [Info Park](https://www.facebook.com/infoparkserbia/)
 #### Spain
@@ -230,11 +230,11 @@ Tomorrow there is a scheduled deportation from Roissy Airport in France to Afgha
 A busy week and a lot of items distributed at Porte La Chapelle in Paris\. Independent volunteers have been doing a lot of badly needed work, as the pictures show\.
 
 
-![](assets/192aac4fa6be/1*ZGBAliqDNCyesu7MRciuXQ.jpeg)
+![](../assets/192aac4fa6be/1*ZGBAliqDNCyesu7MRciuXQ.jpeg)
 
 
 
-![Photos: [Danika Jurisic](https://www.facebook.com/profile.php?id=100009499466124&hc_ref=ARRaPhmLhC2bYSeZloAW99x43t8NaQJZZNQdS4jsLxxR96IlYBUVKW9RwdApxOxk8K0)](assets/192aac4fa6be/1*OSyPW_loSOYWyL72JcUlOQ.jpeg)
+![Photos: [Danika Jurisic](https://www.facebook.com/profile.php?id=100009499466124&hc_ref=ARRaPhmLhC2bYSeZloAW99x43t8NaQJZZNQdS4jsLxxR96IlYBUVKW9RwdApxOxk8K0)](../assets/192aac4fa6be/1*OSyPW_loSOYWyL72JcUlOQ.jpeg)
 
 Photos: [Danika Jurisic](https://www.facebook.com/profile.php?id=100009499466124&hc_ref=ARRaPhmLhC2bYSeZloAW99x43t8NaQJZZNQdS4jsLxxR96IlYBUVKW9RwdApxOxk8K0)
 
@@ -279,7 +279,7 @@ Also, [Auberge des Migrants‏](https://twitter.com/AubergeMigrants) are updatin
 [Humans for Rights Network](https://www.facebook.com/humansforrights/?hc_ref=ARTdsi63T1a7RKiwDLubjN1dYvD5JdiR_fDWSB_ej9MmsswaBcGVJj_Rwhau4igxzn4) is updating from Calais\. As [Auberge des Migrants‏](https://twitter.com/AubergeMigrants) is also saying, buses have begun to pick up people and take them to centers where those who wish to can claim asylum in France\. They further write that many of those arriving in France have fingerprints elsewhere in the EU, which limits their chances\.
 
 
-![Photo: [Humans for Rights Network](https://www.facebook.com/humansforrights/)](assets/192aac4fa6be/1*f_AdWKsuyNNwDgrPcqPqzA.jpeg)
+![Photo: [Humans for Rights Network](https://www.facebook.com/humansforrights/)](../assets/192aac4fa6be/1*f_AdWKsuyNNwDgrPcqPqzA.jpeg)
 
 Photo: [Humans for Rights Network](https://www.facebook.com/humansforrights/)
 
@@ -325,7 +325,7 @@ T [his specific case concerns “Dom”,](https://www.facebook.com/RefugeeCampVi
 [There is a hunger strike ongoing in Scotland](https://www.facebook.com/groups/PeopletoPeopleSolidaritySouthernSEEurope/permalink/693130057551330/) \. Today marks the 24th day\. It’s in solidarity with the imprisoned refugees in Moria detention center at Lesvos\. When the encouraging news reached this guy, he also cancelled his solidarity act\. A bit too late to be a happy end, but still\.
 
 
-![Photo: [Ben Jackson](https://www.facebook.com/i.heart.big.men)](assets/192aac4fa6be/1*EzKmRgprf2lrl3hAVveyaw.jpeg)
+![Photo: [Ben Jackson](https://www.facebook.com/i.heart.big.men)](../assets/192aac4fa6be/1*EzKmRgprf2lrl3hAVveyaw.jpeg)
 
 Photo: [Ben Jackson](https://www.facebook.com/i.heart.big.men)
 #### Denmark
@@ -344,7 +344,7 @@ According to the [Migration Agency’s statistics](https://www.migrationsverket.
 [Ung i Sverige](https://www.facebook.com/ungisverige.nu/?hc_ref=ART6Y_rZ6xEPLogbfCgZw3ck9SwL_GYXd06dcPhPuY8YNSXAVQePM5dPysLZrhfgGlg) , and some local media, report that neo\-nazis attacked the sit\-in at around 9–10 pm Tuesday night\. They threw a smoke grenade and everyone on site was very scared\. The police was there and no further violence occured\. The young people, protesters and those that have joined in solidarity, are okay — but some were burnt by the grenade\. Their message stands firm: they will remain where they are\. Volunteers are there, and will stay\. Especially during night time the need for safety and adults present is of huge importance, [Ung i Sverige](https://www.facebook.com/ungisverige.nu/) writes on their fb\-page\.
 
 
-![Photo: [Ung i Sverige](https://www.facebook.com/ungisverige.nu/)](assets/192aac4fa6be/1*hYne6Ovb_GN0mCL1clxMqQ.jpeg)
+![Photo: [Ung i Sverige](https://www.facebook.com/ungisverige.nu/)](../assets/192aac4fa6be/1*hYne6Ovb_GN0mCL1clxMqQ.jpeg)
 
 Photo: [Ung i Sverige](https://www.facebook.com/ungisverige.nu/)
 

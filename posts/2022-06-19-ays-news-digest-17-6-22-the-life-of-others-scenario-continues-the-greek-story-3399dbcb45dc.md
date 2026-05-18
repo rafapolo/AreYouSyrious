@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 17/6/22: ‘The Life of Others’ scenario continues — the Greek story
+title: "AYS News Digest 17/6/22: ‘The Life of Others’ scenario continues — the Greek story"
 author: Are You Syrious?
 date: 2022-06-19T00:57:04.407+0100
 last_modified_at: 2022-06-19T08:57:24.656+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,greece,refugees,europe,report]
 description: Will the UN and partners be allowed to remain the main stakeholder and organisation the people depend on? / More refoulements after…
 image:
-  path: assets/3399dbcb45dc/0*QYC-9o36AWIMux_y
+  path: ../assets/3399dbcb45dc/0*QYC-9o36AWIMux_y
 ---
 
 ### AYS News Digest 17/6/22: ‘The Life of Others’ scenario continues — the Greek story
 #### Will the UN and partners be allowed to remain the main stakeholder and organisation the people depend on? / More refoulements after Italy\-Libya agreements / Pushbacks “de facto general policy in many States”, UN Special Rapporteur confirmed / calls for support, reports on geo areas, SAR mission reports, podcasts & recommended reads by our team
 
 
-![Utopia 56 reported about thirty women, men and children on the street demonstrating their right to accommodation\. The group joins those asking that the hundreds of free places dedicated to people in Ukraine are put into use for the concrete people in need of shelter\. — Photo: Paris by Utopia56](assets/3399dbcb45dc/0*QYC-9o36AWIMux_y)
+![Utopia 56 reported about thirty women, men and children on the street demonstrating their right to accommodation\. The group joins those asking that the hundreds of free places dedicated to people in Ukraine are put into use for the concrete people in need of shelter\. — Photo: Paris by Utopia56](../assets/3399dbcb45dc/0*QYC-9o36AWIMux_y)
 
 Utopia 56 reported about thirty women, men and children on the street demonstrating their right to accommodation\. The group joins those asking that the hundreds of free places dedicated to people in Ukraine are put into use for the concrete people in need of shelter\. — Photo: Paris by Utopia56
 #### FEATURE
@@ -204,7 +204,7 @@ The second of the strikers is a Kurd, one of a group who went on hunger strike f
 — [No Borders Team](https://www.facebook.com/nobordersteam/?__cft__[0]=AZUUkVw136KA_1bhFQEJEKamj4e5CFGaw9Va-cAKHFFoLPC2pYQgidA3QOPKuW9jWhZZonUGS6g2UwuRLjoxJlux8OSsO6S5EfpRjhyQs_6SaJ62Atf-OAWyxK0LG8XFbDZWBRCd_DMm3vBgbgpSSi-w&__tn__=-UC%2CP-R)
 
 
-![](assets/3399dbcb45dc/0*if1TyJhmEDtiqcID)
+![](../assets/3399dbcb45dc/0*if1TyJhmEDtiqcID)
 
 #### GENERAL
 

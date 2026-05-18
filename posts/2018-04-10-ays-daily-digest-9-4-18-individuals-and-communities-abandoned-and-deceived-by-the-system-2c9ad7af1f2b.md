@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 9/4/18: Individuals and communities abandoned and deceived by the system
+title: "AYS Daily Digest 9/4/18: Individuals and communities abandoned and deceived by the system"
 author: Are You Syrious?
 date: 2018-04-10T10:45:56.792+0100
 last_modified_at: 2018-04-10T10:45:56.792+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,turkey,europe,germany]
 description: Unraveling stories of people left behind by the system across the continent / Silenced hardships of Syrian refugees in Turkey / attacks at…
 image:
-  path: assets/2c9ad7af1f2b/1*FcHf1PHYRxQcubwtFIfkuw.jpeg
+  path: ../assets/2c9ad7af1f2b/1*FcHf1PHYRxQcubwtFIfkuw.jpeg
 ---
 
 ### AYS Daily Digest 9/4/18: Individuals and communities abandoned and deceived by the system
 #### Unraveling stories of people left behind by the system across the continent / Silenced hardships of Syrian refugees in Turkey / attacks at refugees in Morocco / Italy — volunteers and refugees occupied train station of Briançon / Bosnia and Herzegovina with growing number of people arriving / Germany — Lower Saxony Court accepts Dublin / more news
 
 
-![Traces of the big NGOs in the province of Izmir\. \(Photo: AYS, from the [Turkey Special](ays-special-from-turkey-abandoned-in-the-fields-654d3f925141) \)](assets/2c9ad7af1f2b/1*FcHf1PHYRxQcubwtFIfkuw.jpeg)
+![Traces of the big NGOs in the province of Izmir\. \(Photo: AYS, from the [Turkey Special](ays-special-from-turkey-abandoned-in-the-fields-654d3f925141) \)](../assets/2c9ad7af1f2b/1*FcHf1PHYRxQcubwtFIfkuw.jpeg)
 
 Traces of the big NGOs in the province of Izmir\. \(Photo: AYS, from the [Turkey Special](ays-special-from-turkey-abandoned-in-the-fields-654d3f925141) \)
 #### FEATURE
@@ -22,11 +22,11 @@ Traces of the big NGOs in the province of Izmir\. \(Photo: AYS, from the [Turkey
 F\., his younger brother and his mother are sleeping in a fitness room in a camp in Hochheim \(Taunus\) since two weeks now\. Even though they were promised a room for themselves immediately, they are still in this room between on a matress between fitness equipment\. “There is no privacy in it\. Everybody can see inside from the room outside”, he explained speaking to AYS\.
 
 
-![](assets/2c9ad7af1f2b/1*C2EygDBGKtWpskGoJd7TOA.jpeg)
+![](../assets/2c9ad7af1f2b/1*C2EygDBGKtWpskGoJd7TOA.jpeg)
 
 
 
-![Photos: AYS](assets/2c9ad7af1f2b/1*tQT5dwC7STorhSHrCkXGQg.jpeg)
+![Photos: AYS](../assets/2c9ad7af1f2b/1*tQT5dwC7STorhSHrCkXGQg.jpeg)
 
 Photos: AYS
 
@@ -55,11 +55,11 @@ With a population of more than 135,000 displaced Syrians, the Izmir province wit
 Many people, including some of the poorest and most vulnerable groups, are living in these field refugee camps\. The camps are neither official nor completely makeshift, as the landowners take rent, while the officials quietly ignore them, no wanting to draw attention to the camps and conditions people live in\.
 
 
-![](assets/2c9ad7af1f2b/1*gLszL98RIj4DRJ56daAoJw.jpeg)
+![](../assets/2c9ad7af1f2b/1*gLszL98RIj4DRJ56daAoJw.jpeg)
 
 
 
-![Photos: Photo: AYS volunteer authoring the [Turkey Special](ays-special-from-turkey-abandoned-in-the-fields-654d3f925141)](assets/2c9ad7af1f2b/1*Azp1eRIufIQrRV3c9ZSd5Q.jpeg)
+![Photos: Photo: AYS volunteer authoring the [Turkey Special](ays-special-from-turkey-abandoned-in-the-fields-654d3f925141)](../assets/2c9ad7af1f2b/1*Azp1eRIufIQrRV3c9ZSd5Q.jpeg)
 
 Photos: Photo: AYS volunteer authoring the [Turkey Special](ays-special-from-turkey-abandoned-in-the-fields-654d3f925141)
 
@@ -95,11 +95,11 @@ We have not yet received any feedback regarding the SAR action\.
 Another worrying and important information they have communicated is that the official phone number is not available / they do not answer in situations of bringing back injured people to the hospital\.
 
 
-![](assets/2c9ad7af1f2b/1*KQVOs3F8o3TUiFg5jFqIdg.jpeg)
+![](../assets/2c9ad7af1f2b/1*KQVOs3F8o3TUiFg5jFqIdg.jpeg)
 
 
 
-![Photos: AMDH](assets/2c9ad7af1f2b/1*PpOROcd1pxUFke_8lxNQzQ.jpeg)
+![Photos: AMDH](../assets/2c9ad7af1f2b/1*PpOROcd1pxUFke_8lxNQzQ.jpeg)
 
 Photos: AMDH
 #### GREECE
@@ -111,7 +111,7 @@ This weekend 15 boats, carrying a total of 607 people, tried to cross from Turke
 Only 5 boats made it, 203 people, the rest, 10 boats, carrying 404 people was apprehended by TCG/Police, the [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?hc_ref=ARRpA6-U61sv8-UK7IM4yVPRvNSjCG20FyhO8p9tynz8Hg9u_040rr5TgqILI0n0a3Q) reports\.
 
 
-![“ Each washing machine has 300 kilos of blankets being washed,rather than tossed, while another load of blankets and one of clothes wait their turn … literally their turn\.” — [**Dirty Girls Of Lesvos Island**](https://www.facebook.com/dirtygirlslesvos/)](assets/2c9ad7af1f2b/1*rSB_xyU7Jr0anGpCzOM4KQ.jpeg)
+![“ Each washing machine has 300 kilos of blankets being washed,rather than tossed, while another load of blankets and one of clothes wait their turn … literally their turn\.” — [**Dirty Girls Of Lesvos Island**](https://www.facebook.com/dirtygirlslesvos/)](../assets/2c9ad7af1f2b/1*rSB_xyU7Jr0anGpCzOM4KQ.jpeg)
 
 “ Each washing machine has 300 kilos of blankets being washed,rather than tossed, while another load of blankets and one of clothes wait their turn … literally their turn\.” — [**Dirty Girls Of Lesvos Island**](https://www.facebook.com/dirtygirlslesvos/)
 ### Open discussion
@@ -130,23 +130,23 @@ Refugees Accommodation and Solidarity Space City Plaza organises an open discuss
 [Together for Better Days](https://www.facebook.com/betterdays.ngo/) has announced opening of a new centre that is intended to serve as a child and family support hub catering specifically to people living in Moria camp\. We hope the place really serves the people in need with no restrictions or discrimination and hope to hear updates from the place\.
 
 
-![](assets/2c9ad7af1f2b/1*ueea51OEnkF_4Dp8fxcnmg.jpeg)
+![](../assets/2c9ad7af1f2b/1*ueea51OEnkF_4Dp8fxcnmg.jpeg)
 
 
 
-![](assets/2c9ad7af1f2b/1*cnwLSdzN7klzcpurTI0oTQ.jpeg)
+![](../assets/2c9ad7af1f2b/1*cnwLSdzN7klzcpurTI0oTQ.jpeg)
 
 
 
-![](assets/2c9ad7af1f2b/1*Hp8S0Rfn26ztR6NzWijQFQ.jpeg)
+![](../assets/2c9ad7af1f2b/1*Hp8S0Rfn26ztR6NzWijQFQ.jpeg)
 
 
 
-![](assets/2c9ad7af1f2b/1*ysquJUu2AaDiep46oTnlTg.jpeg)
+![](../assets/2c9ad7af1f2b/1*ysquJUu2AaDiep46oTnlTg.jpeg)
 
 
 
-![Photos: [Together for Better Days](https://www.facebook.com/betterdays.ngo/)](assets/2c9ad7af1f2b/1*MbchwuZ0Lt-yJ0PQaOwJwQ.jpeg)
+![Photos: [Together for Better Days](https://www.facebook.com/betterdays.ngo/)](../assets/2c9ad7af1f2b/1*MbchwuZ0Lt-yJ0PQaOwJwQ.jpeg)
 
 Photos: [Together for Better Days](https://www.facebook.com/betterdays.ngo/)
 
@@ -154,7 +154,7 @@ The Greek [media](http://www.lifo.gr/now/greece/187990/stin-kyllini-filoksenoynt
 #### BOSNIA AND HERZEGOVINA
 
 
-![Photo: [Dylan Longman](https://www.facebook.com/dylan.longman?hc_ref=ARRAPuPZ32gXy347z1JTIE66bUPy8m0u5_191f9OUMa61BdLR_l9vM5lerQRLil8168)](assets/2c9ad7af1f2b/1*FeW5rracX11pX9XpiUcWnQ.jpeg)
+![Photo: [Dylan Longman](https://www.facebook.com/dylan.longman?hc_ref=ARRAPuPZ32gXy347z1JTIE66bUPy8m0u5_191f9OUMa61BdLR_l9vM5lerQRLil8168)](../assets/2c9ad7af1f2b/1*FeW5rracX11pX9XpiUcWnQ.jpeg)
 
 Photo: [Dylan Longman](https://www.facebook.com/dylan.longman?hc_ref=ARRAPuPZ32gXy347z1JTIE66bUPy8m0u5_191f9OUMa61BdLR_l9vM5lerQRLil8168)
 
@@ -208,11 +208,11 @@ For more info and registration for the march, go to: [www\.laubergedesmigrants\.
 If you can help us with donations please send us a message, or alternatively donate through the following link: [https://www\.gofundme\.com/womenscentre](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.gofundme.com%2Fwomenscentre&h=ATN6Ge8oJm8vHMXXbZOApXupBd_UQA9E3kwRauZv5pwBxi7wzkAB_qITtf1W-2-DeQ086flvJdlU2_9EX8Hn1JacTHGi_0IjFC_GpCev-A2Yf5-rabSmvOxEz6xP4yvWYtyAEQ) — any amount is gratefully received\!”
 
 
-![](assets/2c9ad7af1f2b/1*qi_n8Apa8DlRcvrgS29kyA.jpeg)
+![](../assets/2c9ad7af1f2b/1*qi_n8Apa8DlRcvrgS29kyA.jpeg)
 
 
 
-![Photos: [**Dunkirk / Dunkerque Refugee Women’s Centre**](https://www.facebook.com/refugeewomenscentre/)](assets/2c9ad7af1f2b/1*E0aTHAdeklH2Tdpw9Tuh5g.jpeg)
+![Photos: [**Dunkirk / Dunkerque Refugee Women’s Centre**](https://www.facebook.com/refugeewomenscentre/)](../assets/2c9ad7af1f2b/1*E0aTHAdeklH2Tdpw9Tuh5g.jpeg)
 
 Photos: [**Dunkirk / Dunkerque Refugee Women’s Centre**](https://www.facebook.com/refugeewomenscentre/)
 #### GERMANY
@@ -246,7 +246,7 @@ The Higher Administrative Court Lüneburg \(Lower Saxony\) today ruled, that asy
 
 
 
-![Photo/text: [Abdul Ghafoor](https://www.facebook.com/abdul.ghafoor.378?hc_ref=ARSryWBTAylq64cnp7QhObsS6aoXXhs8VTnlgWalp8B0YpufgO9CSaxaLj_Y3FSo6V8&fref=nf&hc_location=group)](assets/2c9ad7af1f2b/1*7h8tD0hhwNqvWgjsl5MvDw.jpeg)
+![Photo/text: [Abdul Ghafoor](https://www.facebook.com/abdul.ghafoor.378?hc_ref=ARSryWBTAylq64cnp7QhObsS6aoXXhs8VTnlgWalp8B0YpufgO9CSaxaLj_Y3FSo6V8&fref=nf&hc_location=group)](../assets/2c9ad7af1f2b/1*7h8tD0hhwNqvWgjsl5MvDw.jpeg)
 
 Photo/text: [Abdul Ghafoor](https://www.facebook.com/abdul.ghafoor.378?hc_ref=ARSryWBTAylq64cnp7QhObsS6aoXXhs8VTnlgWalp8B0YpufgO9CSaxaLj_Y3FSo6V8&fref=nf&hc_location=group)
 #### SEA

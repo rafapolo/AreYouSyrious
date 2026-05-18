@@ -1,13 +1,13 @@
 ---
-title: AYS Weekend Digest: 9–10.10.2021: The degrading treatment of people in Northern France
+title: "AYS Weekend Digest: 9–10.10.2021: The degrading treatment of people in Northern France"
 author: Are You Syrious?
 date: 2021-10-11T17:07:06.562+0100
 last_modified_at: 2021-10-11T17:07:06.562+0100
 categories: Are You Syrious?
 tags: [digest,human-rights,european-union,pushback]
-description: 10 people reported dead off the coast of Gran Canaria // Greek army division letter: requests not to ‘hunt refugees’ // Call for equal…
+description: "10 people reported dead off the coast of Gran Canaria // Greek army division letter: requests not to ‘hunt refugees’ // Call for equal…"
 image:
-  path: assets/637da9de41f2/0*27XLDNZ4-8ZXmLRS
+  path: ../assets/637da9de41f2/0*27XLDNZ4-8ZXmLRS
 ---
 
 ### AYS Weekend Digest: 9–10\.10\.2021: The degrading treatment of people in Northern France
@@ -16,11 +16,11 @@ image:
 ### The degrading treatment of migrant children and adults in northern France
 
 
-![](assets/637da9de41f2/0*fPz2wmaYAy2DY-Ey)
+![](../assets/637da9de41f2/0*fPz2wmaYAy2DY-Ey)
 
 
 
-![](assets/637da9de41f2/0*27XLDNZ4-8ZXmLRS)
+![](../assets/637da9de41f2/0*27XLDNZ4-8ZXmLRS)
 
 
 _Human Rights Watch_ have released a report entitled [_The Degrading Treatment of Migrant Children and Adults in Northern France_](https://www.hrw.org/report/2021/10/07/enforced-misery/degrading-treatment-migrant-children-and-adults-northern-france?fbclid=IwAR2zn46HjYtNft9dfqhxfT0enYjnnBMEV7xHgHP3I-J-jH40NjYilNJCDbk#_ftn24) which describes how people are treated in northern France\. They recorded more than 90 evictions of the areas where people have tents between January 2020 and July 2021\. This accounts for 9 out of 10 evictions carried out in the whole of France\.
@@ -45,11 +45,11 @@ The emphasis of the report is highlighting the current situation, whilst also pr
 ### SEA — SAR
 
 
-![](assets/637da9de41f2/0*CT2ydFJB6kLEWKl6)
+![](../assets/637da9de41f2/0*CT2ydFJB6kLEWKl6)
 
 
 
-![](assets/637da9de41f2/0*dv3ELgee-YD_nlHZ)
+![](../assets/637da9de41f2/0*dv3ELgee-YD_nlHZ)
 
 
 **10 people reported dead off the coast of Gran Canaria**
@@ -98,11 +98,11 @@ Of 170 evaluations carried out on children in the camps, 40 needed urgent psycho
 **Call for equal assistance for Afghan refugees in BiH**
 
 
-![](assets/637da9de41f2/0*JEdK-ISko4fiDCHx)
+![](../assets/637da9de41f2/0*JEdK-ISko4fiDCHx)
 
 
 
-![](assets/637da9de41f2/0*fwEYAWadhEI6Hni2)
+![](../assets/637da9de41f2/0*fwEYAWadhEI6Hni2)
 
 
 There has been a call for all refugees from Afghanistan to be given asylum in the Balkans\. The call comes from [TRANSBALKANSKA SOLIDARNOST](https://transbalkanskasolidarnost.home.blog/azil-za-izbjegle-iz-afganistana-na-balkanu-bez-iznimke/?fbclid=IwAR18FfjoLANx-OLtbxxK1DIeH0myDEeaj6xSZ8Ohqs06-2Yxd-WOYQ7aQYc) who point out the contradictory messages and standards portrayed by western countries\. Whilst some people from Afghanistan were airlifted to safety, others are left to suffer at the borders of the EU\.
@@ -136,11 +136,11 @@ There will be a concert in support of the work of Utopia 56 in Paris on 30th Oct
 **Frankfurt declared ‘safe haven’\.**
 
 
-![](assets/637da9de41f2/0*nGihULGyZZhPn9fw)
+![](../assets/637da9de41f2/0*nGihULGyZZhPn9fw)
 
 
 
-![](assets/637da9de41f2/0*y8r6Dv8O9C-_RaVJ)
+![](../assets/637da9de41f2/0*y8r6Dv8O9C-_RaVJ)
 
 
 Frankfurt am Main has declared itself a [Safe Haven](https://www.facebook.com/SeebrueckeSchafftsichereHaefen/posts/1492085677830277) for refugees\. This has happened thanks to campaigning by local groups and NGO Seebrücke [offers support](https://www.facebook.com/SeebrueckeSchafftsichereHaefen/) for campaigners to make their city into a safe haven too\.
@@ -166,11 +166,11 @@ Additionally, the Home Office has wasted £3 million on plans and construction o
 “During my recent time as a decision\-maker, my colleagues and I were subjected to unreasonable management pressures that made it increasingly difficult for staff to consistently uphold their duty of care to claimants or make correct decisions in asylum cases\.”
 
 
-![](assets/637da9de41f2/0*w1hQN-fe03sDQXRv)
+![](../assets/637da9de41f2/0*w1hQN-fe03sDQXRv)
 
 
 
-![](assets/637da9de41f2/0*d1yUZVmyml2jsA5c)
+![](../assets/637da9de41f2/0*d1yUZVmyml2jsA5c)
 
 
 A [big protest](https://twitter.com/sallyhayd/status/1447204284974735362?fbclid=IwAR3E_hmgchM1XaEzBvHQRIDbwaWivYIToAhCjowTTYS_gueQiFKqB6FcavI) occurred in the northern city of Manchester on Sunday in support of Eritrean refugees in Libya\.
@@ -178,11 +178,11 @@ A [big protest](https://twitter.com/sallyhayd/status/1447204284974735362?fbclid=
 GENERAL
 
 
-![](assets/637da9de41f2/0*c6_EnbdFIBJqiHcy)
+![](../assets/637da9de41f2/0*c6_EnbdFIBJqiHcy)
 
 
 
-![](assets/637da9de41f2/0*YMNxmpyCOtLRDa3Q)
+![](../assets/637da9de41f2/0*YMNxmpyCOtLRDa3Q)
 
 
 A series of extremely informative info graphics has been re\-released by Josoor to help us all better understand terminology and facts about illegal pushbacks\. [See the full deck here\.](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.josoor.net%2Fpost%2Finfo-series-1-pushbacks%3Ffbclid%3DIwAR3YN2ctIUimwWCDSGfR4X4YSRAFIVSFBT6CrqHXqOzyAa-ycb7rBY_geVs&h=AT1TnxTL15mxkGQc-4COWuSjSyM-D98k1d4AbtlucuSmnvxIdceK5M61MSSZCQWxnaftg9KF0Rbe1psZJoyV-h7r9_LhnzA5-y9wWnjlWVb3FUAg4MN2EQu-IhQf-PXCoQ&__tn__=-UK-R&c[0]=AT1GTn8Fzwsfhs8eNIzuq6VUfDdM3nXEnjQgZMjaT6TBfavOGzVqk1QTkc0e9Xr7ZFEDETzI6COV1pWNPMHDIHLXn0Nx3bcm6yAHLBrxFPd2bUQU_T6xpzHw5wTRX35vvkuzAlnwXOfXn58wtq0IO5I8FBPScNe_V1_Ec1zWJoaNN6s)

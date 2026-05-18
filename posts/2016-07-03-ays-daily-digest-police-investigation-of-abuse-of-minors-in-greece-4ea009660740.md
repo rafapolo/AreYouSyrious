@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest: Police investigation of abuse of minors in Greece
+title: "AYS Daily Digest: Police investigation of abuse of minors in Greece"
 author: Are You Syrious?
 date: 2016-07-03T02:13:56.062+0100
 last_modified_at: 2016-07-03T11:19:53.301+0100
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe,jordan,macedonia,kelebija]
 description: JORDAN
 image:
-  path: assets/4ea009660740/1*uREObo8V76J7exsKvRY37g.jpeg
+  path: ../assets/4ea009660740/1*uREObo8V76J7exsKvRY37g.jpeg
 ---
 
 ### AYS Daily Digest: Police investigation of abuse of minors in Greece
 
 
-![A Kiosk near a transit zone, Serbia/Hungary border Photo Credit: Amien Essif](assets/4ea009660740/1*uREObo8V76J7exsKvRY37g.jpeg)
+![A Kiosk near a transit zone, Serbia/Hungary border Photo Credit: Amien Essif](../assets/4ea009660740/1*uREObo8V76J7exsKvRY37g.jpeg)
 
 A Kiosk near a transit zone, Serbia/Hungary border Photo Credit: Amien Essif
 #### JORDAN
@@ -56,11 +56,11 @@ There is a concrete way to help some other minors trapped in near\-isolation fro
 Macedonian news reports that dozens of refugees have been caught in sting operations [targeting smugglers transiting Macedonia](http://kurir.mk/makedonija/hronika/veleshanets-faten-dodeka-prevezuval-73-migranti/) \. As camps have been emptying across Macedonia, activists continue to push for safe passage as Macedonia quickly ascends the list of countries with an extremely dangerous reputation\.
 
 
-![](assets/4ea009660740/1*rDT3ZVGofGK2rxdqVbCXsw.jpeg)
+![](../assets/4ea009660740/1*rDT3ZVGofGK2rxdqVbCXsw.jpeg)
 
 
 
-![Night vision photos of patrols at Serbia\-Hungary border\. Photo Credit: Balasz Cseckö](assets/4ea009660740/1*fKTzRRSEfzze1boq-8lhbA.jpeg)
+![Night vision photos of patrols at Serbia\-Hungary border\. Photo Credit: Balasz Cseckö](../assets/4ea009660740/1*fKTzRRSEfzze1boq-8lhbA.jpeg)
 
 Night vision photos of patrols at Serbia\-Hungary border\. Photo Credit: Balasz Cseckö
 #### SERBIA
@@ -80,7 +80,7 @@ Predicted by Deutsche Welle in May 2016, the transit zones, not to be confused w
 Essif also reports that at times, even representatives from UNHCR are turned away from the transit zone “camp” if they lack the proper paperwork for du jour\. Patience will remain an invaluable asset on the field\.
 
 
-![Oreokastro flooding Photo: Geo Messmer](assets/4ea009660740/1*ifpFBzD3fYJZR5mBj8vjyg.jpeg)
+![Oreokastro flooding Photo: Geo Messmer](../assets/4ea009660740/1*ifpFBzD3fYJZR5mBj8vjyg.jpeg)
 
 Oreokastro flooding Photo: Geo Messmer
 #### Hungary
@@ -93,7 +93,7 @@ Migszol Csoport also experienced discrimination and was prevented from fully cov
 
 
 
-![A refugee shows solidarity with those imprisoned in Hungary Photo Credit: Amien Essif](assets/4ea009660740/1*VFqW0zitKvIxZgAxkqUifQ.jpeg)
+![A refugee shows solidarity with those imprisoned in Hungary Photo Credit: Amien Essif](../assets/4ea009660740/1*VFqW0zitKvIxZgAxkqUifQ.jpeg)
 
 A refugee shows solidarity with those imprisoned in Hungary Photo Credit: Amien Essif
 #### SLOVAKIA

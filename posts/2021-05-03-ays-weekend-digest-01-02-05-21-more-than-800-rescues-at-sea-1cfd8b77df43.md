@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 01–02/05/21: More than 800 rescues at sea
+title: "AYS Weekend Digest 01–02/05/21: More than 800 rescues at sea"
 author: Are You Syrious?
 date: 2021-05-03T10:43:55.584+0100
 last_modified_at: 2021-05-03T12:41:56.397+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,mediterranean,sea-rescue,greece]
 description: Busy days for SAR teams // Alarm Phone reports several distress calls without reactions // Corruption on food catering in Moria 2? // New…
 image:
-  path: assets/1cfd8b77df43/1*9GFXViuWk4Jwr3LOTB2NIA.jpeg
+  path: ../assets/1cfd8b77df43/1*9GFXViuWk4Jwr3LOTB2NIA.jpeg
 ---
 
 ### AYS Weekend Digest 01–02/05/21: More than 800 rescues at sea
 #### Busy days for SAR teams // Alarm Phone reports several distress calls without reactions // Corruption on food catering in Moria 2? // New testimonies of police violence at Hungarian border // Pressure on UK Home Office
 
 
-![Sea Watch alone rescued more than 400 people the last days\. Credits: [Twitter/@seawatchcrew](https://twitter.com/seawatchcrew/status/1388596486548697092/photo/2)](assets/1cfd8b77df43/1*9GFXViuWk4Jwr3LOTB2NIA.jpeg)
+![Sea Watch alone rescued more than 400 people the last days\. Credits: [Twitter/@seawatchcrew](https://twitter.com/seawatchcrew/status/1388596486548697092/photo/2)](../assets/1cfd8b77df43/1*9GFXViuWk4Jwr3LOTB2NIA.jpeg)
 
 Sea Watch alone rescued more than 400 people the last days\. Credits: [Twitter/@seawatchcrew](https://twitter.com/seawatchcrew/status/1388596486548697092/photo/2)
 ### Greece

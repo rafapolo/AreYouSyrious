@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 21/01/21: Poland’s top court rules media ban at border illegal, but ban will likely…
+title: "AYS News Digest 21/01/21: Poland’s top court rules media ban at border illegal, but ban will likely…"
 author: Are You Syrious?
 date: 2022-01-22T15:21:22.380+0000
 last_modified_at: 2022-01-22T16:08:02.467+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,migration,refugees,poland,journalism]
 description: Data breach could threaten 500,000 vulnerable people // NGOs ask ICC to investigate crimes in Libya, Med // 11 people drown off Tunisia
 image:
-  path: assets/b80db3494938/1*wlUJW4wRzi6ZK3kv2J55VQ.jpeg
+  path: ../assets/b80db3494938/1*wlUJW4wRzi6ZK3kv2J55VQ.jpeg
 ---
 
 ### AYS News Digest 21/01/21: Poland’s top court rules media ban at border illegal, but ban will likely remain
 #### Data breach could threaten 500,000 vulnerable people // NGOs ask ICC to investigate crimes in Libya, Med // 11 people drown off Tunisia
 
 
-![Soldiers at the Kuźnica border crossing in Poland in November 2021\. \(Photo: [Irek Dorozanski / DWOT, Flickr, CC BY\-NC\-ND 2\.0](https://www.flickr.com/photos/premierrp/51674607554/) \)](assets/b80db3494938/1*wlUJW4wRzi6ZK3kv2J55VQ.jpeg)
+![Soldiers at the Kuźnica border crossing in Poland in November 2021\. \(Photo: [Irek Dorozanski / DWOT, Flickr, CC BY\-NC\-ND 2\.0](https://www.flickr.com/photos/premierrp/51674607554/) \)](../assets/b80db3494938/1*wlUJW4wRzi6ZK3kv2J55VQ.jpeg)
 
 Soldiers at the Kuźnica border crossing in Poland in November 2021\. \(Photo: [Irek Dorozanski / DWOT, Flickr, CC BY\-NC\-ND 2\.0](https://www.flickr.com/photos/premierrp/51674607554/) \)
 
@@ -29,7 +29,7 @@ In fact, the Supreme Court found that denying entry to the zone is contrary to t
 Importantly, the Court also emphasized that the ban violated the protection of human rights, as the Polish Red Cross could not enter the border zone to give medical aid\. The Council of Ministers’ move also violated the right to freedom of movement within the country, the Court ruled\.
 
 
-![Signs along the Polish\-Belarusian border, near the Bug river by the town of Niemirów in 2014\. \(Photo: [Grzegorz W\. Tężycki, CC BY\-SA 4\.0](https://commons.wikimedia.org/wiki/File:Niemir%C3%B3w-Belarus-Poland-border-140501-15.jpg) \)](assets/b80db3494938/1*aJxGv126qj4Tmy0Jhwk4bw.jpeg)
+![Signs along the Polish\-Belarusian border, near the Bug river by the town of Niemirów in 2014\. \(Photo: [Grzegorz W\. Tężycki, CC BY\-SA 4\.0](https://commons.wikimedia.org/wiki/File:Niemir%C3%B3w-Belarus-Poland-border-140501-15.jpg) \)](../assets/b80db3494938/1*aJxGv126qj4Tmy0Jhwk4bw.jpeg)
 
 Signs along the Polish\-Belarusian border, near the Bug river by the town of Niemirów in 2014\. \(Photo: [Grzegorz W\. Tężycki, CC BY\-SA 4\.0](https://commons.wikimedia.org/wiki/File:Niemir%C3%B3w-Belarus-Poland-border-140501-15.jpg) \)
 

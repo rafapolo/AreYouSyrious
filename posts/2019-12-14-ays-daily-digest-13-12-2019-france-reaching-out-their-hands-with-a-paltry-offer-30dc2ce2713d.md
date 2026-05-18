@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 13/12/2019: France “reaching out their hands” with a paltry offer
+title: "AYS DAILY DIGEST 13/12/2019: France “reaching out their hands” with a paltry offer"
 author: Are You Syrious?
 date: 2019-12-14T11:21:06.063+0000
 last_modified_at: 2019-12-14T12:20:02.124+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,bosnia,pó]
 description: Number on Greek Islands over 40,000 in spite of xenophobia and anti migration sentiment — pull factor? // Volunteer needs in Greece //…
 image:
-  path: assets/30dc2ce2713d/1*gjsOOmUAgEG9dxaIaMLd_w.jpeg
+  path: ../assets/30dc2ce2713d/1*gjsOOmUAgEG9dxaIaMLd_w.jpeg
 ---
 
 ### AYS DAILY DIGEST 13/12/2019: France “reaching out” with a paltry offer
@@ -15,7 +15,7 @@ image:
 Number on Greek Islands over 40,000 in spite of xenophobia and anti migration sentiment — pull factor? // Volunteer needs in Greece // November report on violent pushbacks in the Balkans // More…
 
 
-![Photo Credit: [Franziska Grillmeier](https://web.facebook.com/franzi.grillmeier?__tn__=%2Cd%2AF%2AF-R&eid=ARCr7fZ78tpuX2dCJyREznw8zxEjvurgduhN9yeztguH4_iZN5KjewuYwlay7c3byXUIl6_x5yeY6caE&tn-str=%2AF&hc_location=group_dialog)](assets/30dc2ce2713d/1*gjsOOmUAgEG9dxaIaMLd_w.jpeg)
+![Photo Credit: [Franziska Grillmeier](https://web.facebook.com/franzi.grillmeier?__tn__=%2Cd%2AF%2AF-R&eid=ARCr7fZ78tpuX2dCJyREznw8zxEjvurgduhN9yeztguH4_iZN5KjewuYwlay7c3byXUIl6_x5yeY6caE&tn-str=%2AF&hc_location=group_dialog)](../assets/30dc2ce2713d/1*gjsOOmUAgEG9dxaIaMLd_w.jpeg)
 
 Photo Credit: [Franziska Grillmeier](https://web.facebook.com/franzi.grillmeier?__tn__=%2Cd%2AF%2AF-R&eid=ARCr7fZ78tpuX2dCJyREznw8zxEjvurgduhN9yeztguH4_iZN5KjewuYwlay7c3byXUIl6_x5yeY6caE&tn-str=%2AF&hc_location=group_dialog)
 
@@ -54,7 +54,7 @@ _We appreciate it if you would share this vacancy within your network\. Thanks a
 Khora as well is seeking volunteers\. Submit your application to khoralegal@gmail\.com
 
 
-![](assets/30dc2ce2713d/1*QMJ4-8YBIPbdXT7wcyM1kg.jpeg)
+![](../assets/30dc2ce2713d/1*QMJ4-8YBIPbdXT7wcyM1kg.jpeg)
 
 
 

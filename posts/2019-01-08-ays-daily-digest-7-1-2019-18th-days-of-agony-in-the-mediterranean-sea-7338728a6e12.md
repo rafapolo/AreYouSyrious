@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 7/1/2019: 18th days of agony in the Mediterranean Sea
+title: "AYS DAILY DIGEST 7/1/2019: 18th days of agony in the Mediterranean Sea"
 author: Are You Syrious?
 date: 2019-01-08T11:57:58.771+0000
 last_modified_at: 2019-01-08T15:37:01.769+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,moria,greece,winter]
 description: One baby died in the refugee camp in Lebanon // One young man died in Moria camp // Condition in the camps in Bosnia so desperate that…
 image:
-  path: assets/7338728a6e12/1*5dwsraXovimlJtnynGMJsQ.jpeg
+  path: ../assets/7338728a6e12/1*5dwsraXovimlJtnynGMJsQ.jpeg
 ---
 
 ### AYS DAILY DIGEST 7/1/2019: 18th day of agony on the Mediterranean Sea
@@ -15,7 +15,7 @@ image:
 _One baby died in a refugee camp in Lebanon // One young man died in Moria camp // Condition in the camps in Bosnia so desperate that people choose rather to walk a very dangerous route in the winter // 49 people are still out at sea with no help // People are still being sold as slaves in Libya //_
 
 
-![Camp Malakasa, near Athens\. By Giorgos Moutafis](assets/7338728a6e12/1*5dwsraXovimlJtnynGMJsQ.jpeg)
+![Camp Malakasa, near Athens\. By Giorgos Moutafis](../assets/7338728a6e12/1*5dwsraXovimlJtnynGMJsQ.jpeg)
 
 Camp Malakasa, near Athens\. By Giorgos Moutafis
 ### Feature
@@ -48,7 +48,7 @@ _“Let’s hold our governments accountable for their lack of action to ensure 
 In Nador, the authorities continue with pressure and criminalization of people on the move\. **On Monday, [as AMDH Nador reports](https://www.facebook.com/AmdhNador/posts/2250923855119877?__xts__%5B0%5D=68.ARARlu8DuPaX0_grE0YXt6HxmWeUxO-f7ZLg2rpq2Z_hCENtq1ukIJcgUSxOOXh4GP6fEoyMr1Kwt9_GRmGIEctTjmy56tXGyUooVJt1GlDrug3PdIvFrDpN3KIVVFzPlBE31_G9eOI6F-QkQsmVIjR5CqU_3hKogFD4VqKTLm5MMdluT1PpeKzLxgQeA9JB7IFiCfbSSps0W1O3-Hi07q4e-ntJ5w4DKZjDXxBJ1BjeIyY2LzE1NhFhTulNPXf2uggJqtbTvWDBOMfY7U4KBes49INmR2RtJaMAJ9VuRNDGZA0NF9ZStdsHElQhu98fvSWIFbA9EjCsQD2l40WtNb7zXsnf&__tn__=-R) , nearly 110 sub\-Saharan people, including women and children were, arrested** in Blessed Ensar and Arekmane\. At the same time, authorities attacked a house in the Arid district, arresting more people\.
 
 
-![By AMDH](assets/7338728a6e12/1*4bSTW50ItFEsmb8PHW1d0g.jpeg)
+![By AMDH](../assets/7338728a6e12/1*4bSTW50ItFEsmb8PHW1d0g.jpeg)
 
 By AMDH
 ### Libya
@@ -82,7 +82,7 @@ This is a video from two days ago from one of the hangars of Al Khoms, with a pe
 The camps, close to the Syrian border, is completely covered in snow\. There are 250 tents housing families with between two and five children\.
 
 
-![](assets/7338728a6e12/1*UW_F-arDKojxUMm_bPSBFg.jpeg)
+![](../assets/7338728a6e12/1*UW_F-arDKojxUMm_bPSBFg.jpeg)
 
 
 _“The encampment receives little help from NGOs\. The UN gave some oil money a month ago but some families received nothing and now many families are without fuel and they are collecting car wheels to burn\.”_
@@ -93,7 +93,7 @@ In order for volunteers to provide basic help, they need help\. You can donate b
 On 7 January, **about 260 people were rescued by Spain, and over 200 others were returned to Morocco by Moroccan forces\.**
 
 
-![](assets/7338728a6e12/1*Iy9AUOkMXi2EhYwzg34YHA.png)
+![](../assets/7338728a6e12/1*Iy9AUOkMXi2EhYwzg34YHA.png)
 
 
 In the first week of the new year, two distress cases reached the [Alarm Phone](https://www.facebook.com/.../a.15261.../2289725441301686/...) in the Western Mediterranean region, both on 6 January\.
@@ -102,14 +102,14 @@ In the first week of the new year, two distress cases reached the [Alarm Phone](
 **A 24\-year\-old Cameroonian was [found dead in his tent](http://www.efsyn.gr/arthro/nekros-24hronos-ston-prosfygiko-kataylismo-tis-morias) in Moria** on Tuesday\. The cause of death is still not public, but many are afraid he died from exposure to the severe cold and precarious living conditions\.
 
 
-![“The trip to Lesvos \(Greece\) Cost: From 600 to 800 dollars per person\. Time: From 1:30 to 5 hours depending on the state of the sea and if you take the right path\. From 50 to 80 people go in these boats\. Women and children in the middle, the men around\. The water goes under and the boat fills with water\. Sometimes the engine also stops and drifts\. Luck will tell if they land, they are caught by the Turkish coast guard and returned to Turkey or drowned\. Most people who cross don’t know to swim”\. By [Fotomovimento 15](https://www.facebook.com/Fotomovimiento.org/) M](assets/7338728a6e12/1*gT6qJLzog2ZoWhp0lNsVDA.jpeg)
+![“The trip to Lesvos \(Greece\) Cost: From 600 to 800 dollars per person\. Time: From 1:30 to 5 hours depending on the state of the sea and if you take the right path\. From 50 to 80 people go in these boats\. Women and children in the middle, the men around\. The water goes under and the boat fills with water\. Sometimes the engine also stops and drifts\. Luck will tell if they land, they are caught by the Turkish coast guard and returned to Turkey or drowned\. Most people who cross don’t know to swim”\. By [Fotomovimento 15](https://www.facebook.com/Fotomovimiento.org/) M](../assets/7338728a6e12/1*gT6qJLzog2ZoWhp0lNsVDA.jpeg)
 
 “The trip to Lesvos \(Greece\) Cost: From 600 to 800 dollars per person\. Time: From 1:30 to 5 hours depending on the state of the sea and if you take the right path\. From 50 to 80 people go in these boats\. Women and children in the middle, the men around\. The water goes under and the boat fills with water\. Sometimes the engine also stops and drifts\. Luck will tell if they land, they are caught by the Turkish coast guard and returned to Turkey or drowned\. Most people who cross don’t know to swim”\. By [Fotomovimento 15](https://www.facebook.com/Fotomovimiento.org/) M
 
 This is an extremely difficult situation for people living in the camp on Samos\. Volunteer Kayra Martinez visited the island and the camp\.
 
 
-![](assets/7338728a6e12/1*sdaBZG_cJ2iQjp9vUE8KoA.jpeg)
+![](../assets/7338728a6e12/1*sdaBZG_cJ2iQjp9vUE8KoA.jpeg)
 
 
 _“As I walked through the camp, and around the area, I tried for one second to imagine how hard it must be, day in and day out\. How do they get their strength? How do they survive? How can they be strong for their children?_
@@ -138,7 +138,7 @@ If you are interested, please e\-mail us at [info@intervolvegr\.com](mailto:info
 Just one of the camps is Miral in Velika Kladusa where people \(over 600\) complain about the negligence of those responsible\. The poor living conditions are often the cause of tensions and conflicts\. Some of the people AYS spoke with, told us they cannot sleep since they have to be alert to what is happening around them at all times\.
 
 
-![Mital camp\. Photo by Zarka Radoja\.](assets/7338728a6e12/1*E1TjLBkB5yIUmCqMssx4Lw.jpeg)
+![Mital camp\. Photo by Zarka Radoja\.](../assets/7338728a6e12/1*E1TjLBkB5yIUmCqMssx4Lw.jpeg)
 
 Mital camp\. Photo by Zarka Radoja\.
 
@@ -150,7 +150,7 @@ In the meantime, more and more people are being arrested while trying to cross t
 [An appeal for the help](https://www.facebook.com/groups/BXLVolunteers/permalink/804404256570309/?__xts__[0]=68.ARBse9MOB4S-KheduV5j17bAxmCnZuPpeqCgB0EDOogaKa-CD5XcmHvvzhdnZNB327RE5S7R9L6IerdRia46xA8uRMdEwZbtovdhx43o0gkVym-2EDBERTWwOVH9ZsNo27AwI2iZR2h1wW9eAXjFDc3V6du3LXNpT6eFyJzxB3x02SwZvwulVZCxR5b84Jh_givVg1-nJAqv0Qr0d2qXuELbBNnvtS3eeM0KLN9SwYMfSg0&__tn__=-UC-R) and a call for volunteers is coming from Brussels, too\.
 
 
-![](assets/7338728a6e12/1*sYZMtbcswmeXuhzrgaz7IA.jpeg)
+![](../assets/7338728a6e12/1*sYZMtbcswmeXuhzrgaz7IA.jpeg)
 
 ### Germany
 

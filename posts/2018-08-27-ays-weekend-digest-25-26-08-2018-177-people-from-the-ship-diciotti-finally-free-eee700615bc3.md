@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 25–26/08/2018: 177 people from the ship Diciotti finally free
+title: "AYS Weekend Digest 25–26/08/2018: 177 people from the ship Diciotti finally free"
 author: Are You Syrious?
 date: 2018-08-27T09:29:37.923+0100
 last_modified_at: 2018-08-27T10:23:11.587+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,italy,refugees,people-on-the-move,migrations]
 description: Victory and Investigation against Italy’s Matteo Salvini // Salvamento Maritimo Rescues 174 people // Over 10,000 Rohingya Refugees march…
 image:
-  path: assets/eee700615bc3/1*9gANCCnZe8vmMWm1REqgUw.jpeg
+  path: ../assets/eee700615bc3/1*9gANCCnZe8vmMWm1REqgUw.jpeg
 ---
 
 ### AYS Weekend Digest 25–26/08/2018: 177 people from the ship Diciotti finally free
@@ -15,7 +15,7 @@ image:
 Victory and Investigation against Italy’s Matteo Salvini // Salvamento Maritimo Rescues 174 people // Over 10,000 Rohingya Refugees march in Bangladesh // More reports about the violence at the EU border …
 
 
-![Source: [MEDU — Medici per i Diritti Umani](https://www.facebook.com/MEDUonlus/)](assets/eee700615bc3/1*9gANCCnZe8vmMWm1REqgUw.jpeg)
+![Source: [MEDU — Medici per i Diritti Umani](https://www.facebook.com/MEDUonlus/)](../assets/eee700615bc3/1*9gANCCnZe8vmMWm1REqgUw.jpeg)
 
 Source: [MEDU — Medici per i Diritti Umani](https://www.facebook.com/MEDUonlus/)
 #### Feature
@@ -23,7 +23,7 @@ Source: [MEDU — Medici per i Diritti Umani](https://www.facebook.com/MEDUonlus
 **Finally, after five long days waiting in the harbor and 10 at sea, the ship Diciotti was disembarked in Catania, Italy\.** It took lot of negotiation, and included massive protests against the inhumane and illegal actions of the Italian government\. The first ones to disembark were 12 adults with health problems, including tuberculosis, pneumonia, scabies and urinary infections\.
 
 
-![Photo by [Watch the Med Alarmphone](https://www.facebook.com/watchthemed.alarmphone/photos/pcb.2206586966282201/2206582426282655/?type=3&theater)](assets/eee700615bc3/1*hMLkk03QHqilTBjmCRJ1lA.jpeg)
+![Photo by [Watch the Med Alarmphone](https://www.facebook.com/watchthemed.alarmphone/photos/pcb.2206586966282201/2206582426282655/?type=3&theater)](../assets/eee700615bc3/1*hMLkk03QHqilTBjmCRJ1lA.jpeg)
 
 Photo by [Watch the Med Alarmphone](https://www.facebook.com/watchthemed.alarmphone/photos/pcb.2206586966282201/2206582426282655/?type=3&theater)
 
@@ -67,21 +67,21 @@ We cannot quietly watch fascism come back\. We have to act and resist\.
 To learn more about the plight of the Rohingya please [follow this link](https://1976km.com/aysspecial-report) \.
 
 
-![](assets/eee700615bc3/1*pT6NloIkqXYepPwo4lkcgQ.jpeg)
+![](../assets/eee700615bc3/1*pT6NloIkqXYepPwo4lkcgQ.jpeg)
 
 
 
-![](assets/eee700615bc3/1*SpmgkZw14PXwY8g5sNW5lg.jpeg)
+![](../assets/eee700615bc3/1*SpmgkZw14PXwY8g5sNW5lg.jpeg)
 
 
 
-![Source: Rajman Ali/1976KM](assets/eee700615bc3/1*4V5PWb56K57dVaKNztqQeQ.jpeg)
+![Source: Rajman Ali/1976KM](../assets/eee700615bc3/1*4V5PWb56K57dVaKNztqQeQ.jpeg)
 
 Source: Rajman Ali/1976KM
 #### MOROCCO
 
 
-![Photo by [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?hc_ref=ARQ20CmXNXjElijGXNsy_0PC-RMb-2Uv5zG3GrsS_PBw7qT21zPKXuR0P4TKvSKx0fM&fref=nf&hc_location=group&__xts__%5B0%5D=68.ARCbPKaCOnAkCX6d9Avg3wzgK8jzrpNC4fBC4wlyXpeKnbsvSc7nBPDuPK-DnezsMK40kUEXM8cQjzJmcS1Cx3C5mn7_CxtSInNE08Q35ZueoXosjJSAhYFwNLN4dtEN-dnyGBcH-q5DLVYdUoYWCCZ37wicSAbNB1Eld6Tnfbu3Sf7OkYIMLQ&__tn__=kCH-R)](assets/eee700615bc3/1*1pBHCU-WSR7Z7So35kWauA.jpeg)
+![Photo by [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?hc_ref=ARQ20CmXNXjElijGXNsy_0PC-RMb-2Uv5zG3GrsS_PBw7qT21zPKXuR0P4TKvSKx0fM&fref=nf&hc_location=group&__xts__%5B0%5D=68.ARCbPKaCOnAkCX6d9Avg3wzgK8jzrpNC4fBC4wlyXpeKnbsvSc7nBPDuPK-DnezsMK40kUEXM8cQjzJmcS1Cx3C5mn7_CxtSInNE08Q35ZueoXosjJSAhYFwNLN4dtEN-dnyGBcH-q5DLVYdUoYWCCZ37wicSAbNB1Eld6Tnfbu3Sf7OkYIMLQ&__tn__=kCH-R)](../assets/eee700615bc3/1*1pBHCU-WSR7Z7So35kWauA.jpeg)
 
 Photo by [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?hc_ref=ARQ20CmXNXjElijGXNsy_0PC-RMb-2Uv5zG3GrsS_PBw7qT21zPKXuR0P4TKvSKx0fM&fref=nf&hc_location=group&__xts__%5B0%5D=68.ARCbPKaCOnAkCX6d9Avg3wzgK8jzrpNC4fBC4wlyXpeKnbsvSc7nBPDuPK-DnezsMK40kUEXM8cQjzJmcS1Cx3C5mn7_CxtSInNE08Q35ZueoXosjJSAhYFwNLN4dtEN-dnyGBcH-q5DLVYdUoYWCCZ37wicSAbNB1Eld6Tnfbu3Sf7OkYIMLQ&__tn__=kCH-R)
 
@@ -169,11 +169,11 @@ GRACIAS! a todos los que han ayudado a salvar sus vidas. https://t.co/MJdPZbTGh2
 For a full breakdown of arrivals please [follow this link\.](https://www.facebook.com/AegeanBoatReport/posts/437211166801993?__tn__=K-R)
 
 
-![](assets/eee700615bc3/1*P8tvvEC5gXNPPCdwzBFJpw.jpeg)
+![](../assets/eee700615bc3/1*P8tvvEC5gXNPPCdwzBFJpw.jpeg)
 
 
 
-![Source: Emma Vagabond Roberts](assets/eee700615bc3/1*TH-HaDZaVC4j1amJh4lldA.jpeg)
+![Source: Emma Vagabond Roberts](../assets/eee700615bc3/1*TH-HaDZaVC4j1amJh4lldA.jpeg)
 
 Source: Emma Vagabond Roberts
 
@@ -205,13 +205,13 @@ A Fascist attack on one asylum seeker occured in Chemnitz on Saturday\. It was j
 [Help Refugees](https://www.facebook.com/HelpRefugeesUK/?hc_ref=ARRwNDu17tl8kcvU99Vz6iILj-PAq-KXhXgwdb5fnzm8bvoYaj5FvBB0OGHUbTIuDM8&fref=nf&hc_location=group&__xts__%5B0%5D=68.ARC7aTcg9sVFEEAO_1PU0bYp_jifNpWY-kNoVtT0sHrVd10ph3rr0Y4XwnoA3pIkRCgT9Bomlfc0jlhjxNi3hl6C8-mYWozgX68JDilyHHE9vfbNNEHXomNLIqCZJJHKc0aBMTI9RKvooZghSd0-gFFSUx9W3aD_bDe3OrdLL-HUEPsW5ofxxQ&__tn__=kCH-R) published a call for donations for Calais and Dunkirk\. [Find out](https://helprefugees.org/donate-goods/) what’s needed and what you can do to help get these items\.
 
 
-![](assets/eee700615bc3/1*VXr8hCEfdp4PAUXEDoPj4A.jpeg)
+![](../assets/eee700615bc3/1*VXr8hCEfdp4PAUXEDoPj4A.jpeg)
 
 
 On Friday 24 August, the women in Grande\-Synthe organised and staged a protest against the third scheduled eviction in one week\.
 
 
-![](assets/eee700615bc3/1*7JsxMMMXZH3znfk_yrPXlw.jpeg)
+![](../assets/eee700615bc3/1*7JsxMMMXZH3znfk_yrPXlw.jpeg)
 
 
 The Women’s Centre joined the women in protesting for the provision of suitable and adequate accommodation, to be allocated in a dignified and respectful manner, which does not involve the destruction of people’s belongings\.
@@ -221,7 +221,7 @@ _“While this will not be the end of evictions, the protest provided a platform
 [The Mobile Refugee Support](http://www.mobilerefugeesupport.org) reports about the people in the Dunkirk area\.
 
 
-![](assets/eee700615bc3/1*gLUP_E9GGHOVjKY4mJkZSw.jpeg)
+![](../assets/eee700615bc3/1*gLUP_E9GGHOVjKY4mJkZSw.jpeg)
 
 
 _“One evening this week after work, our team were invited to eat with a family we have gotten particularly close to over these last months\. We sat under a tarpaulin canopy attached to trees, on a ground sheet covered in blankets, and were served an incredible dinner of Kurdish dolma and biriani\. After, we drank tea and talked while the younger children climbed and clambered over our volunteers as though they were family\. With almost nothing to offer these people will share what little they do have so eagerly\.”_

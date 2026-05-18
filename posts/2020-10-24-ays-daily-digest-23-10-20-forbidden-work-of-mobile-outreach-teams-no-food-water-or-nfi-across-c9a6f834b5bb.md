@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 23/10/20: Forbidden work of mobile outreach teams — no food, water or NFI across…
+title: "AYS Daily Digest 23/10/20: Forbidden work of mobile outreach teams — no food, water or NFI across…"
 author: Are You Syrious?
 date: 2020-10-24T17:00:51.148+0100
 last_modified_at: 2020-10-24T17:00:51.148+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,human-rights,balkans,europe]
 description: Authorities made a decision to end the work of mobile teams across the Una-Sana canton, leaving many alone in a life-threatening situation…
 image:
-  path: assets/c9a6f834b5bb/0*Adi8iVvaMyIvke2N.jpeg
+  path: ../assets/c9a6f834b5bb/0*Adi8iVvaMyIvke2N.jpeg
 ---
 
 ### AYS Daily Digest 23/10/20: Forbidden work of mobile outreach teams — no food, water or NFI across USK, BiH
 ### Authorities made a decision to end the work of mobile teams across the Una\-Sana canton, leaving many alone in a life\-threatening situation in the face of the upcoming winter / Second shipwreck this week / Spain: poorly cared for and receiving inadequate food / recommended reads and more updates
 
 
-![](assets/c9a6f834b5bb/0*-U9_PeoMugH0_leN.jpeg)
+![](../assets/c9a6f834b5bb/0*-U9_PeoMugH0_leN.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----ff81d199522a--------------------------------)
@@ -22,11 +22,11 @@ image:
 [Oct 24](ays-daily-digest-23-10-20-forbidden-work-of-mobile-outreach-teams-no-food-water-or-nfi-across-ff81d199522a?source=post_page-----ff81d199522a--------------------------------) · 9 min read
 
 
-![](assets/c9a6f834b5bb/0*nGt4sAyCHlq_GVwa)
+![](../assets/c9a6f834b5bb/0*nGt4sAyCHlq_GVwa)
 
 
 
-![](assets/c9a6f834b5bb/0*nvyAZYI2r7hzpsvy.jpeg)
+![](../assets/c9a6f834b5bb/0*nvyAZYI2r7hzpsvy.jpeg)
 
 ### FEATURED
 
@@ -44,19 +44,19 @@ With the arrival of winter, while the international and local organisations take
 In Tuzla, the situation is also far from satisfactory\. There are several hundred people on the move within the Tuzla county\. The largest number is in the city of Tuzla, but also in the surrounding areas of Živinice, Srebrenik, Lukavac, Gračanica… There is not a single reception camp or organised settlement for the people in this area, and it has been a place through which thousands have passed over the past three years\. Some stay for longer, mostly sleeping rough and living in the streets, as they have no conditions to continue their travel\. A specially worrying fact in Tuzla, apart from the authorities knowingly ignoring and breaching human rights, is that the locals have grown numb to the fact that there are people sleeping in the street\. Unfortunately, for the past several nights, groups of people all across town have been sleeping under nylon bags because of the lack of sleeping bags, tents and blankets, as the volunteers’ sources ran dry a while ago, as we reported\. Although it is a common issue, a group of volunteers and several organisations have managed to do an amazing although insufficient job there\. Imagine what the officials, organised groups with their support, or collective efforts of international organisations could achieve? On an everyday basis, there is an effort to dispel the prejudice about people on the move, mostly created by the media, and poor \(if any\) reporting\.
 
 
-![](assets/c9a6f834b5bb/0*CDwLqb5HJOHsTGAW)
+![](../assets/c9a6f834b5bb/0*CDwLqb5HJOHsTGAW)
 
 
 
-![](assets/c9a6f834b5bb/0*e2ruVpFG-5CfqPhO.jpeg)
+![](../assets/c9a6f834b5bb/0*e2ruVpFG-5CfqPhO.jpeg)
 
 
 
-![](assets/c9a6f834b5bb/0*xSRSKIgoMUIOq69I)
+![](../assets/c9a6f834b5bb/0*xSRSKIgoMUIOq69I)
 
 
 
-![](assets/c9a6f834b5bb/0*Adi8iVvaMyIvke2N.jpeg)
+![](../assets/c9a6f834b5bb/0*Adi8iVvaMyIvke2N.jpeg)
 
 
 The people on the move now cannot rely on the usual points of reference and aid, so their scanty support can now only come through the unofficial support of the few grassroots volunteers still providing assistance, and those locals with some means and energy left to still try to do something\. In the meantime new testimonies of brutal police violence, severe human rights violations and inhumane treatment of people have emerged since the reports about Croatian border police robbing, beating and sexually abusing migrants entering from Bosnia and Herzegovina\.

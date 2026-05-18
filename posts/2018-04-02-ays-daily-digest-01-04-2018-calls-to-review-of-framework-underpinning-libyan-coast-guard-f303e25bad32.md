@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 01/04/2018: Calls to review the framework underpinning Libyan Coast Guard…
+title: "AYS Daily Digest 01/04/2018: Calls to review the framework underpinning Libyan Coast Guard…"
 author: Are You Syrious?
 date: 2018-04-02T09:24:26.105+0100
 last_modified_at: 2018-04-02T11:32:16.876+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,european-union,libya]
 description: MSF and SOS MEDITERRANEE call on European and international authorities to clarify the framework underpinning Libyan Coast Guard (LCG)…
 image:
-  path: assets/f303e25bad32/1*hajsILyBwF0wwn6xoHN6Zg.png
+  path: ../assets/f303e25bad32/1*hajsILyBwF0wwn6xoHN6Zg.png
 ---
 
 ### AYS Daily Digest 01/04/2018: Calls to review the framework underpinning Libyan Coast Guard intervention in international waters
@@ -15,7 +15,7 @@ image:
 MSF and SOS MEDITERRANEE call on European and international authorities to clarify the framework underpinning Libyan Coast Guard \(LCG\) intervention in international waters after Aquarius was forced to stand down a rescue operation// Two boats intercepted by Turkish Coast Guard// Proactiva Open Arms moored for two weeks// Four dead and 11 missing trying to reach Spain// 264 people arrive in Greece// More news from Greece// France and the UK
 
 
-![A young refugee in the forest where he lives very close to the Serbo\-Hungarian border\. Source: Gabriel Tizon](assets/f303e25bad32/1*hajsILyBwF0wwn6xoHN6Zg.png)
+![A young refugee in the forest where he lives very close to the Serbo\-Hungarian border\. Source: Gabriel Tizon](../assets/f303e25bad32/1*hajsILyBwF0wwn6xoHN6Zg.png)
 
 A young refugee in the forest where he lives very close to the Serbo\-Hungarian border\. Source: Gabriel Tizon
 ### FEATURE:
@@ -122,7 +122,7 @@ The Turkish Coast Guard intercepted two boats in the Aegean and Mediterranean se
 [Four people were found dead](https://www.afp.com/en/news/826/four-migrants-found-dead-spain-others-missing-rescuers-doc-13k0jj1) off the coast of Spain yesterday, with eight others still missing after embarking across the sea on a make\-shift boat\. The bodies were recovered in the waters of the Strait of Gibraltar between Morocco and southern Spain\. Only one person has been rescued\. The nationalities of the deceased are not yet known\.
 
 
-![](assets/f303e25bad32/1*wpPrnUKU0IReUYPpW9qM8Q.png)
+![](../assets/f303e25bad32/1*wpPrnUKU0IReUYPpW9qM8Q.png)
 
 
 
@@ -133,7 +133,7 @@ The Turkish Coast Guard intercepted two boats in the Aegean and Mediterranean se
 
 
 
-![](assets/f303e25bad32/1*dhmLwZkZzf8LDF1F0Vd9bA.png)
+![](../assets/f303e25bad32/1*dhmLwZkZzf8LDF1F0Vd9bA.png)
 
 #### An Easter message from Sea Watch:
 
@@ -145,7 +145,7 @@ The Turkish Coast Guard intercepted two boats in the Aegean and Mediterranean se
 
 
 
-![Training of the SAR Crew, Easter 2018](assets/f303e25bad32/1*tW8Fdf8Md39DIcMUb-whvA.jpeg)
+![Training of the SAR Crew, Easter 2018](../assets/f303e25bad32/1*tW8Fdf8Md39DIcMUb-whvA.jpeg)
 
 Training of the SAR Crew, Easter 2018
 ### EU:
@@ -166,7 +166,7 @@ Training of the SAR Crew, Easter 2018
 
 
 
-![](assets/f303e25bad32/1*9ZsPG8UvQFBR79zszTIOsA.png)
+![](../assets/f303e25bad32/1*9ZsPG8UvQFBR79zszTIOsA.png)
 
 #### GREECE:
 #### 264 people arrived in Greece yesterday
@@ -182,7 +182,7 @@ One boat carrying 64 people arrived on the south coast of Lesvos, while four boa
 DocMobile is in need of donations to continue their vital work\.
 
 
-![](assets/f303e25bad32/1*rH6loq9nzV8WCsEKLFsuEQ.png)
+![](../assets/f303e25bad32/1*rH6loq9nzV8WCsEKLFsuEQ.png)
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 15/06/2018: Bosnia — the end of the road?
+title: "AYS DAILY DIGEST 15/06/2018: Bosnia — the end of the road?"
 author: Are You Syrious?
 date: 2018-06-16T11:52:36.734+0100
 last_modified_at: 2018-06-16T15:07:23.101+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,bosnia,european-union,germany]
 description: The unclear situation for asylum seekers in Bosnia leaves many in a dangerous situation // The Aquarius should arrive in Valencia on Sunday…
 image:
-  path: assets/df98297b4594/1*DUUCKixq9Y5eArNGk7P_vQ.jpeg
+  path: ../assets/df98297b4594/1*DUUCKixq9Y5eArNGk7P_vQ.jpeg
 ---
 
 ### AYS DAILY DIGEST 15/06/2018: Bosnia — the end of the road?
@@ -15,7 +15,7 @@ image:
 _The unclear situation for asylum seekers in Bosnia leaves many in a dangerous situation // The Aquarius should arrive in Valencia on Sunday morning // Spain plans to give free health care for all undocumented people // The European Union is becoming even more xenophobic and the only way out is solidarity_
 
 
-![Photo by I Am You, Ritsona camp, Greece\.](assets/df98297b4594/1*DUUCKixq9Y5eArNGk7P_vQ.jpeg)
+![Photo by I Am You, Ritsona camp, Greece\.](../assets/df98297b4594/1*DUUCKixq9Y5eArNGk7P_vQ.jpeg)
 
 Photo by I Am You, Ritsona camp, Greece\.
 ### Feature
@@ -31,11 +31,11 @@ While little is known about the situation in Albania, the situation in Bosnia is
 The people who are arriving stay for some time in Sarajevo waiting for registration, or hoping to get a place in a camp or some type of accommodation\. There is no camp in Sarajevo, but the authorities have announced that the first one could soon be opened near the city, in the area of Hadžići\. When open, and that could be as soon as the end of June, the camp will have a capacity of about 600 people\. Later on, it can be expanded to up to 5,000\.
 
 
-![](assets/df98297b4594/1*Iayi462BwDEdRbA0w2bhaA.jpeg)
+![](../assets/df98297b4594/1*Iayi462BwDEdRbA0w2bhaA.jpeg)
 
 
 
-![Hundreds of people are sleeping rough in Sarajevo\. The number is hard to establish\. The only help is provided by locals and volunteers\. Photo AYS\.](assets/df98297b4594/1*ER_JY2CPaEm1Vfqjujhpvg.jpeg)
+![Hundreds of people are sleeping rough in Sarajevo\. The number is hard to establish\. The only help is provided by locals and volunteers\. Photo AYS\.](../assets/df98297b4594/1*ER_JY2CPaEm1Vfqjujhpvg.jpeg)
 
 Hundreds of people are sleeping rough in Sarajevo\. The number is hard to establish\. The only help is provided by locals and volunteers\. Photo AYS\.
 
@@ -52,7 +52,7 @@ The NGO restricts their freedom of movement and takes their documents\. If they 
 People who are stuck in Sarajevo have two options at present\. The other option is to stay in the city and live in the streets, squats and with locals who accept them in their homes\. Several hundred people are staying like this\. Help is still being provided only by locals and volunteers\.
 
 
-![Among people sleeping in the streets in Sarajevo there are many children\. Photo by AYS\.](assets/df98297b4594/1*6jz0geRUCtm7pFnq6WnLig.jpeg)
+![Among people sleeping in the streets in Sarajevo there are many children\. Photo by AYS\.](../assets/df98297b4594/1*6jz0geRUCtm7pFnq6WnLig.jpeg)
 
 Among people sleeping in the streets in Sarajevo there are many children\. Photo by AYS\.
 
@@ -63,7 +63,7 @@ Another area where people are staying is in the north of Bosnia, in the towns of
 The living conditions are dreadful\. The Red Cross does not permit any other organization or independent volunteers to enter the centre\. Special police are present all the time which makes the situation edgy\. People sleep on the floor in a building that is not safe to be used at all\. Food is provided once a day by the Red Cross\.
 
 
-![Center in Bihać where over 500 people are sleeping, including at least 15 families\. Photo by AYS\.](assets/df98297b4594/1*ZIGW0GXTg3aBdnjbjx0N-w.jpeg)
+![Center in Bihać where over 500 people are sleeping, including at least 15 families\. Photo by AYS\.](../assets/df98297b4594/1*ZIGW0GXTg3aBdnjbjx0N-w.jpeg)
 
 Center in Bihać where over 500 people are sleeping, including at least 15 families\. Photo by AYS\.
 
@@ -72,19 +72,19 @@ In Kladuša many people are accommodated by locals\. Others are squatting or sta
 Groups of volunteers are providing all types of help, and residents in this camp are also willing to work together\.
 
 
-![](assets/df98297b4594/1*GS4vPQuaz8h-HZmZ2j8EPA.jpeg)
+![](../assets/df98297b4594/1*GS4vPQuaz8h-HZmZ2j8EPA.jpeg)
 
 
 
-![](assets/df98297b4594/1*77Ab-PyefV-ISPpgPPaXUg.jpeg)
+![](../assets/df98297b4594/1*77Ab-PyefV-ISPpgPPaXUg.jpeg)
 
 
 
-![](assets/df98297b4594/1*7V_yJsdIJeFlUUWSebRdiw.jpeg)
+![](../assets/df98297b4594/1*7V_yJsdIJeFlUUWSebRdiw.jpeg)
 
 
 
-![Camp in Velika Kladuša where SOS Team Ljuta Krajina works to help those who are living in the camp\. Photo by AYS\.](assets/df98297b4594/1*9rowf_p8I7SPUpoGOXYrkw.jpeg)
+![Camp in Velika Kladuša where SOS Team Ljuta Krajina works to help those who are living in the camp\. Photo by AYS\.](../assets/df98297b4594/1*9rowf_p8I7SPUpoGOXYrkw.jpeg)
 
 Camp in Velika Kladuša where SOS Team Ljuta Krajina works to help those who are living in the camp\. Photo by AYS\.
 
@@ -93,7 +93,7 @@ The place is not safe at all for women and children, but there is nobody to take
 Many people are staying out in the open, sleeping rough and hoping to cross soon to Croatia\. But that is becoming almost impossible due to the closed border, but also violence by the Croatian border police\. People in villages near Kladuša are testifying about many people, including children, being pushed back and violently beaten up\. Croatian police also often enter the territory of Bosnia, villagers are saying, in an attempt to find people who are crossing in this way\.
 
 
-![In the night, many people are trying to cross the border and reach the EU\. AYS met this group of 12 boys in the forest near Kladuša\. Photo by AYS\.](assets/df98297b4594/1*ratVk2auoPy9J_JrhoenSA.jpeg)
+![In the night, many people are trying to cross the border and reach the EU\. AYS met this group of 12 boys in the forest near Kladuša\. Photo by AYS\.](../assets/df98297b4594/1*ratVk2auoPy9J_JrhoenSA.jpeg)
 
 In the night, many people are trying to cross the border and reach the EU\. AYS met this group of 12 boys in the forest near Kladuša\. Photo by AYS\.
 
@@ -116,7 +116,7 @@ Turkey continues to prevent people from crossing the sea in an attempt to reach 
 The Aquarius is still on its way to Valencia and they are hoping to reach a safe place by Sunday morning\. The boat is full of children and yesterday they received some toys and a lot of love from the crew and all who are helping\.
 
 
-![](assets/df98297b4594/1*_RlkLCY2VykhYBzKRcdAPg.jpeg)
+![](../assets/df98297b4594/1*_RlkLCY2VykhYBzKRcdAPg.jpeg)
 
 
 Some 42 people rescued by the Trenton after a shipwreck that killed 12 should land in Italy soon\. They were found and rescued off the Libyan coast\. It will arrive close to the island of Lampedusa on Sunday morning where an Italian coast guard vessel will take over the people, and then take them to an Italian port that has yet to be assigned\.
@@ -180,7 +180,7 @@ Additionally, we have heard rumours that we hope are not true, but we have to sh
 In the meantime, more people are arriving on Lesvos and other islands\.
 
 
-![](assets/df98297b4594/1*WAnA0EYp1MSm91DcfGe4Nw.jpeg)
+![](../assets/df98297b4594/1*WAnA0EYp1MSm91DcfGe4Nw.jpeg)
 
 
 On Friday early this morning, a boat arrived carrying 27 people, mainly from Afghanistan\. The night before, a boat arrived on Lesvos north carrying 43 people, mainly from Iran\.
@@ -199,11 +199,11 @@ Team SOS Ljuta Krajina needs your help\.
 Every single pair of shoes is a huge support and means much more than just covering two feet…
 
 
-![](assets/df98297b4594/1*nQPZ-1trVqg3YpzmPoS4EA.jpeg)
+![](../assets/df98297b4594/1*nQPZ-1trVqg3YpzmPoS4EA.jpeg)
 
 
 
-![Photo SOS LJuta Krajina Team\.](assets/df98297b4594/1*0OuYh8vBBrOnGpOmy8Ky5Q.jpeg)
+![Photo SOS LJuta Krajina Team\.](../assets/df98297b4594/1*0OuYh8vBBrOnGpOmy8Ky5Q.jpeg)
 
 Photo SOS LJuta Krajina Team\.
 

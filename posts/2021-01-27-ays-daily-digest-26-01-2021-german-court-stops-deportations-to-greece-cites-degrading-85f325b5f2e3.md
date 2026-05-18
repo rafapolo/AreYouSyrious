@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,greece,germany,deportations]
 description: Storm in Syria and Lebanon floods camps for people on the move// Boy missing off the Coast of Ceuta// Further militarization of Greek…
 image:
-  path: assets/85f325b5f2e3/0*ThXQB79VjH2pD56A
+  path: ../assets/85f325b5f2e3/0*ThXQB79VjH2pD56A
 ---
 
 ### AYS Daily Digest 26/01/2021 — German Court Stops Deportations to Greece, Cites “Degrading Treatment”
 #### Storm in Syria and Lebanon floods camps for people on the move// Boy missing off the Coast of Ceuta// Further militarization of Greek border// & more
 
 
-![The Evros border fence, via [@ radiofragmata](https://twitter.com/radiofragmata/status/1353836715966914560)](assets/85f325b5f2e3/0*ThXQB79VjH2pD56A)
+![The Evros border fence, via [@ radiofragmata](https://twitter.com/radiofragmata/status/1353836715966914560)](../assets/85f325b5f2e3/0*ThXQB79VjH2pD56A)
 
 The Evros border fence, via [@ radiofragmata](https://twitter.com/radiofragmata/status/1353836715966914560)
 #### FEATURE
@@ -48,7 +48,7 @@ Somewhat ironically, the same day that a German court questioned Greece’s stat
 #### Storm exposes horrible conditions for displaced people
 
 
-![From [Violations Documentation Center in Syria](https://twitter.com/VDC_Syria/status/1354098089427140609/photo/1)](assets/85f325b5f2e3/0*phzZTfX4YQjgtOTs)
+![From [Violations Documentation Center in Syria](https://twitter.com/VDC_Syria/status/1354098089427140609/photo/1)](../assets/85f325b5f2e3/0*phzZTfX4YQjgtOTs)
 
 From [Violations Documentation Center in Syria](https://twitter.com/VDC_Syria/status/1354098089427140609/photo/1)
 

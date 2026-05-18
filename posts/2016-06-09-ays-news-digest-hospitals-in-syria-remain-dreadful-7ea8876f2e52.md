@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: There was a close call yesterday when a regime airstrike hit the sidewalk outside of a children’s hospital. Syrian doctors live in fear…
 image:
-  path: assets/7ea8876f2e52/1*9Fd5nsmOWMKxYQOJrD3OXg.jpeg
+  path: ../assets/7ea8876f2e52/1*9Fd5nsmOWMKxYQOJrD3OXg.jpeg
 ---
 
 ### AYS NEWS DIGEST — Hospitals in Syria remain dreadful
@@ -55,7 +55,7 @@ Attacks on hospitals are a clear violation of international law, but it is unfor
 [News that Moves reported](https://newsthatmoves.org/en/legal-information-for-refugees-in-turkey-via-sms/) that the service has been in place since August 2015, but it is important to reiterate that such a system exists\. Refugees may send in their questions by texting \+90 534 972 52 94 or by visiting the website [http://nasihatkanun\.com](http://nasihatkanun.com/) \. Turkish lawyers are then consulted and an answer is sent to the person asking the question\. The service also sends out mass texts to subscribing people, giving them tips and recommendations\. Only 7,500 refugees have utilized the service thus far, but hopefully its usage will expand so that people can learn about their rights to help stop the intense exploitation that Syrian refugees often face in the country\.
 
 
-![A demonstration by City Plaza demanding adequate housing for refugees\. Photo Credit: Nasim Lomani](assets/7ea8876f2e52/1*9Fd5nsmOWMKxYQOJrD3OXg.jpeg)
+![A demonstration by City Plaza demanding adequate housing for refugees\. Photo Credit: Nasim Lomani](../assets/7ea8876f2e52/1*9Fd5nsmOWMKxYQOJrD3OXg.jpeg)
 
 A demonstration by City Plaza demanding adequate housing for refugees\. Photo Credit: Nasim Lomani
 #### Greece
@@ -68,7 +68,7 @@ Last year, the German Federal Chamber of Psychotherapists reported that as many 
 ### Donations needed to help feed fasting refugees\.
 
 
-![Volunteers distributing food to refugees for Ramadan\. Photo Credit:Help Refugees](assets/7ea8876f2e52/1*tnJsznDEiq0x4OE4hARgzw.jpeg)
+![Volunteers distributing food to refugees for Ramadan\. Photo Credit:Help Refugees](../assets/7ea8876f2e52/1*tnJsznDEiq0x4OE4hARgzw.jpeg)
 
 Volunteers distributing food to refugees for Ramadan\. Photo Credit:Help Refugees
 
@@ -121,7 +121,7 @@ Their Facebook page may be found [here](https://www.facebook.com/defencing/) \.
 #### Serbia
 
 
-![Refugee children in a park in Belgrade\. Photo Credit: Info Park](assets/7ea8876f2e52/1*twbDuZzkm12S0PvNT0GG8w.jpeg)
+![Refugee children in a park in Belgrade\. Photo Credit: Info Park](../assets/7ea8876f2e52/1*twbDuZzkm12S0PvNT0GG8w.jpeg)
 
 Refugee children in a park in Belgrade\. Photo Credit: Info Park
 #### Germany
@@ -153,7 +153,7 @@ As it is now Ramadan and refugees want to congregate as per tradition, the curre
 #### General
 
 
-![Imece volunteers help to keep refugee children in Turkey occupied\. Source: Imece](assets/7ea8876f2e52/1*VUSob5DRqBv5qv84BZLbWw.jpeg)
+![Imece volunteers help to keep refugee children in Turkey occupied\. Source: Imece](../assets/7ea8876f2e52/1*VUSob5DRqBv5qv84BZLbWw.jpeg)
 
 Imece volunteers help to keep refugee children in Turkey occupied\. Source: Imece
 ### Guardian article details what motivates volunteers\.

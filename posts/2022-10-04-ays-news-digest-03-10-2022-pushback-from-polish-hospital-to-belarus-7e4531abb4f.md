@@ -1,13 +1,13 @@
 ---
-title: AYS News Digest 03/10/2022: Pushback from Polish hospital to Belarus
+title: "AYS News Digest 03/10/2022: Pushback from Polish hospital to Belarus"
 author: Are You Syrious?
 date: 2022-10-04T10:21:55.325+0100
 last_modified_at: 2022-10-04T14:48:05.629+0100
 categories: Are You Syrious?
 tags: [digest,eu,humanrights,pushback,poland]
-description: President Erdogan: one million people to be returned to Syria // Weather conditions change as numbers in Serbia remain high // Slander of…
+description: "President Erdogan: one million people to be returned to Syria // Weather conditions change as numbers in Serbia remain high // Slander of…"
 image:
-  path: assets/7e4531abb4f/0*AENOs-zrJ3XMORfK
+  path: ../assets/7e4531abb4f/0*AENOs-zrJ3XMORfK
 ---
 
 ### AYS News Digest 03/10/2022: Pushback from Polish hospital to Belarus
@@ -16,7 +16,7 @@ image:
 ### Pushback from Polish hospital to Belarus
 
 
-![Photo Credit: [Egala Association](https://www.facebook.com/stowarzyszenieegala/posts/pfbid0vS5edwEB3gv9MHDmKsBPedqVhkpns3ZYuDGyDBRk75pBxwrtMqffCuCVDtuyXLWpl)](assets/7e4531abb4f/0*AENOs-zrJ3XMORfK)
+![Photo Credit: [Egala Association](https://www.facebook.com/stowarzyszenieegala/posts/pfbid0vS5edwEB3gv9MHDmKsBPedqVhkpns3ZYuDGyDBRk75pBxwrtMqffCuCVDtuyXLWpl)](../assets/7e4531abb4f/0*AENOs-zrJ3XMORfK)
 
 Photo Credit: [Egala Association](https://www.facebook.com/stowarzyszenieegala/posts/pfbid0vS5edwEB3gv9MHDmKsBPedqVhkpns3ZYuDGyDBRk75pBxwrtMqffCuCVDtuyXLWpl)
 
@@ -67,7 +67,7 @@ The racism of the asylum system is pointed out in [this Guardian article](https:
 #### GERMANY
 
 
-![](assets/7e4531abb4f/0*W_3A7nC1z-J-Z862)
+![](../assets/7e4531abb4f/0*W_3A7nC1z-J-Z862)
 
 
 Events to learn more about the situation at the Poland\-Belarus border in Germany

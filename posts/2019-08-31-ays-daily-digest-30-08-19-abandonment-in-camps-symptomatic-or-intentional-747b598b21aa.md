@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 30/08/19: “Abandonment” in Camps, Symptomatic or Intentional?
+title: "AYS Daily Digest 30/08/19: “Abandonment” in Camps, Symptomatic or Intentional?"
 author: Are You Syrious?
 date: 2019-08-31T07:15:32.682+0100
 last_modified_at: 2019-08-31T09:59:59.673+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,sweden,italy]
 description: Reflections on the situation across camps // Syria cease-fire? // Medical emergencies on Kos // Syrians no longer granted automatic asylum…
 image:
-  path: assets/747b598b21aa/1*vtNCMl3AMhLkDC0Rqt4tFA.jpeg
+  path: ../assets/747b598b21aa/1*vtNCMl3AMhLkDC0Rqt4tFA.jpeg
 ---
 
 ### AYS Daily Digest 30/08/19: “Abandonment” in Camps, Symptomatic or Intentional?
@@ -15,7 +15,7 @@ image:
 _Reflections on the situation across camps // Syria cease\-fire? // Medical emergencies on Kos // Syrians no longer granted automatic asylum in Sweden // More…_
 
 
-![Police clear an informal settlement in Italy\. Credit: Yvan Sagnet](assets/747b598b21aa/1*vtNCMl3AMhLkDC0Rqt4tFA.jpeg)
+![Police clear an informal settlement in Italy\. Credit: Yvan Sagnet](../assets/747b598b21aa/1*vtNCMl3AMhLkDC0Rqt4tFA.jpeg)
 
 Police clear an informal settlement in Italy\. Credit: Yvan Sagnet
 #### FEATURE
@@ -85,11 +85,11 @@ Medical emergency on the island\!
 
 
 
-![](assets/747b598b21aa/1*s6f_CGYfi6c6IbO2sr0EXg.jpeg)
+![](../assets/747b598b21aa/1*s6f_CGYfi6c6IbO2sr0EXg.jpeg)
 
 
 
-![Credit: [Evangelia Lazaridou](https://www.facebook.com/evangelia.lazaridou?fref=gs&__tn__=%2CdlC-R-R&eid=ARBOB1DMhU8OXFs_mGNA1Lle97IRGzQvZ77bYqN4fCOp5dFMA-qd3-Bc1jwh1m-Tbt5yvcDX-DH7NcbJ&hc_ref=ARR6gmw-KrqFWewkN4ja2-j3aKlqCZKuF-MwpcJiVz1yekSheVSl-8WXx9qR4iBgxdQ&dti=289026728095066&hc_location=group)](assets/747b598b21aa/1*2AGKhLSYiRzZ7HVDYAObhg.jpeg)
+![Credit: [Evangelia Lazaridou](https://www.facebook.com/evangelia.lazaridou?fref=gs&__tn__=%2CdlC-R-R&eid=ARBOB1DMhU8OXFs_mGNA1Lle97IRGzQvZ77bYqN4fCOp5dFMA-qd3-Bc1jwh1m-Tbt5yvcDX-DH7NcbJ&hc_ref=ARR6gmw-KrqFWewkN4ja2-j3aKlqCZKuF-MwpcJiVz1yekSheVSl-8WXx9qR4iBgxdQ&dti=289026728095066&hc_location=group)](../assets/747b598b21aa/1*2AGKhLSYiRzZ7HVDYAObhg.jpeg)
 
 Credit: [Evangelia Lazaridou](https://www.facebook.com/evangelia.lazaridou?fref=gs&__tn__=%2CdlC-R-R&eid=ARBOB1DMhU8OXFs_mGNA1Lle97IRGzQvZ77bYqN4fCOp5dFMA-qd3-Bc1jwh1m-Tbt5yvcDX-DH7NcbJ&hc_ref=ARR6gmw-KrqFWewkN4ja2-j3aKlqCZKuF-MwpcJiVz1yekSheVSl-8WXx9qR4iBgxdQ&dti=289026728095066&hc_location=group)
 

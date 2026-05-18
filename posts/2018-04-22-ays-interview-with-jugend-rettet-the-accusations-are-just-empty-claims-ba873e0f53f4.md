@@ -1,5 +1,5 @@
 ---
-title: AYS Interview with Jugend Rettet: “The accusations are just empty claims.”
+title: "AYS Interview with Jugend Rettet: “The accusations are just empty claims.”"
 author: Are You Syrious?
 date: 2018-04-22T16:53:05.491+0100
 last_modified_at: 2018-04-23T20:35:59.069+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,special,jugend-rettet,sea-rescue,mediterranean]
 description: On Monday, the Supreme Court of Cassation in Rome will decide about the seizure of the Iuventa. AYS talked to Jugend Rettets Philipp Külker…
 image:
-  path: assets/ba873e0f53f4/1*JUsBFxW5IM2-LEsERE_2pA.jpeg
+  path: ../assets/ba873e0f53f4/1*JUsBFxW5IM2-LEsERE_2pA.jpeg
 ---
 
 ### AYS Interview with Jugend Rettet: “The accusations are just empty claims\.”
 #### On Monday, the Supreme Court of Cassation in Rome will decide about the seizure of the Iuventa\. AYS talked to Jugend Rettets Philipp Külker about the trial, the situation in the Mediterranean and in Italy\.
 
 
-![Since almost eight months the Iuventa is seized\. Credits: Jugend Rettet](assets/ba873e0f53f4/1*JUsBFxW5IM2-LEsERE_2pA.jpeg)
+![Since almost eight months the Iuventa is seized\. Credits: Jugend Rettet](../assets/ba873e0f53f4/1*JUsBFxW5IM2-LEsERE_2pA.jpeg)
 
 Since almost eight months the Iuventa is seized\. Credits: Jugend Rettet
 
@@ -23,7 +23,7 @@ Since almost eight months the Iuventa is seized\. Credits: Jugend Rettet
 **Mr\. Külker, Jugend Rettet recently published a video with an analysis of the seizure of your ship, Iuventa\. What is your conclusion?**
 
 
-![Philipp Külker, spokesperson of Jugend Rettet\. Credits: Jugend Rettet](assets/ba873e0f53f4/1*k-JHmdLPaBoxzJ1fSZpOUQ.jpeg)
+![Philipp Külker, spokesperson of Jugend Rettet\. Credits: Jugend Rettet](../assets/ba873e0f53f4/1*k-JHmdLPaBoxzJ1fSZpOUQ.jpeg)
 
 Philipp Külker, spokesperson of Jugend Rettet\. Credits: Jugend Rettet
 
@@ -80,7 +80,7 @@ But we will not stand by impassively and watch as this happens\. We will see tha
 We have been keeping an eye on many directions over the last months\. The rising numbers of new arrivals are a relatively young development, we are watching it\. When we had these thoughts a few months ago, we talked to organisations on the ground, among others\. At the moment, these areas are not our main focus\. But if it is urgent, we will see what we can do\. We have not excluded the possibility of stepping further with another direction\. But for now we are completely focused on April 23 and we will see what sign is being sent by the Italians\. Even if we do not get the ship back, we will continue be active\. Considerations are moving in different directions, but there is no final decision yet\.
 
 
-![View from the Iuventa on board\. Credits: Jugend Rettet](assets/ba873e0f53f4/1*qEtAdjaDxWDPODR_YmR7xQ.jpeg)
+![View from the Iuventa on board\. Credits: Jugend Rettet](../assets/ba873e0f53f4/1*qEtAdjaDxWDPODR_YmR7xQ.jpeg)
 
 View from the Iuventa on board\. Credits: Jugend Rettet
 
@@ -145,7 +145,7 @@ Ever since Jugend Rettet was founded, we have constantly had to deal with right\
 I do not know how the public debate really impacted the political decisions\. I think one thing is affecting another, someone is electing these people\. These are opinions that exist in society\. I can see how the reactions to the Jugend Rettet project were two or one and half years ago, and they are different now, for sure\. On the one hand, the attention that is given to sea rescue\. On the other, the view of the organisations in public\. The accusation of human trafficking is made quickly and loudly\. To counter it, you have to resist really long and with hard facts\. Arguments based on rationality or legal facts are mostly too quiet in the conversation\.
 
 
-![Jugend Rettet was one of the NGOs being accused of accelerating illegal migration\.](assets/ba873e0f53f4/1*XqbzM7XYvNAbuanxRFvakQ.jpeg)
+![Jugend Rettet was one of the NGOs being accused of accelerating illegal migration\.](../assets/ba873e0f53f4/1*XqbzM7XYvNAbuanxRFvakQ.jpeg)
 
 Jugend Rettet was one of the NGOs being accused of accelerating illegal migration\.
 

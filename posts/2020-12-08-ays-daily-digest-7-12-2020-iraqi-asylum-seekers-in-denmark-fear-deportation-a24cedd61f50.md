@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 7/12/2020: Iraqi Asylum Seekers in Denmark fear deportation
+title: "AYS Daily Digest 7/12/2020: Iraqi Asylum Seekers in Denmark fear deportation"
 author: Are You Syrious?
 date: 2020-12-08T15:19:57.784+0000
 last_modified_at: 2020-12-08T15:19:57.784+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [europe,refugees,digest,greece,uk]
 description: Are You Syrious?
 image:
-  path: assets/a24cedd61f50/0*0m9GVN3b554PSNQQ.jpeg
+  path: ../assets/a24cedd61f50/0*0m9GVN3b554PSNQQ.jpeg
 ---
 
 ### AYS Daily Digest 7/12/2020: Iraqi Asylum Seekers in Denmark fear deportation
 
 
-![](assets/a24cedd61f50/0*Uc4lHgkPb0BFg44C.jpeg)
+![](../assets/a24cedd61f50/0*Uc4lHgkPb0BFg44C.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----ed6c3791e360--------------------------------)
@@ -23,11 +23,11 @@ image:
 Partnership between UNHCR and Tunisia signed // Greece: New rules in camps further restrict transparency and freedom of information // Statement by Moria Corona Awareness Team // Rainy footage from Moria 2\.0 // Deportations scheduled from Germany to Afghanistan // UK: New disturbing information about Napier Barracks
 
 
-![](assets/a24cedd61f50/0*7Q_M2kDpu_y3Zd8c)
+![](../assets/a24cedd61f50/0*7Q_M2kDpu_y3Zd8c)
 
 
 
-![](assets/a24cedd61f50/0*0m9GVN3b554PSNQQ.jpeg)
+![](../assets/a24cedd61f50/0*0m9GVN3b554PSNQQ.jpeg)
 
 ### FEAUTRE: Mass arrests of Iraqi asylum seekers in Denmark
 
@@ -106,11 +106,11 @@ MCAT struggles with the fact that many young volunteers publish photos of them s
 Moria Corona Awarness Team’s latest activity was to put up new waterproof posters in the camp in order to inform people about the coronavirus and what to do against it\.
 
 
-![](assets/a24cedd61f50/0*eA94e5T2yQj6cOT2)
+![](../assets/a24cedd61f50/0*eA94e5T2yQj6cOT2)
 
 
 
-![](assets/a24cedd61f50/0*4nYJ0YTEfFz5hrNm.jpeg)
+![](../assets/a24cedd61f50/0*4nYJ0YTEfFz5hrNm.jpeg)
 
 ### Rainy updates from Moria 2\.0
 

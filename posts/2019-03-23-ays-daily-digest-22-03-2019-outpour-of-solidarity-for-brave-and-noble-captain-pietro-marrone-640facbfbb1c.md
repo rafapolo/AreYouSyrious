@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 22/03/2019: Outpour of Solidarity For Brave and Noble Captain — Pietro Marrone
+title: "AYS Daily Digest 22/03/2019: Outpour of Solidarity For Brave and Noble Captain — Pietro Marrone"
 author: Are You Syrious?
 date: 2019-03-23T11:49:22.884+0000
 last_modified_at: 2019-03-23T11:49:22.884+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: []
 description: 70,000 Arrests made in Morocco in 2018// Protesters in Libya facing torture for over 2 weeks// Refugees in Greece may soon be kicked out of…
 image:
-  path: assets/640facbfbb1c/1*_t3geWCVfikR78j26Udn5A.jpeg
+  path: ../assets/640facbfbb1c/1*_t3geWCVfikR78j26Udn5A.jpeg
 ---
 
 ### AYS Daily Digest 22/03/2019: Outpour of Solidarity For Brave and Noble Captain — Pietro Marrone
 #### 70,000 Arrests made in Morocco in 2018// Protesters in Libya facing torture for over 2 weeks// Refugees in Greece may soon be kicked out of subsidized housing// Man dies in Fire in Italy// And more news from Spain, Malta, Germany and France
 
 
-![](assets/640facbfbb1c/1*Tx1u1RSutf5fWmPbOOmJVA.jpeg)
+![](../assets/640facbfbb1c/1*Tx1u1RSutf5fWmPbOOmJVA.jpeg)
 
 
 [Are You Syrious?](https://medium.com/@AreYouSyrious)
@@ -22,7 +22,7 @@ image:
 Mar 23
 
 
-![Open the Ports — [Iasonas Apostolopoulos](https://www.facebook.com/iasonas.apos?__tn__=%2CdCH-R-R&eid=ARDSTRbh1WMT7mP16VTOf3XRkWPqPdRnnaMzpDOEXp2OZDg2Hbl1azKm04VVMb74US60kEDoR8VKcqMM&hc_ref=ARRcum45q8Ni9XcTSctdntlGUO_m579phhLDVz1S62tCqFbkLffhjaNq1n03bKHGJU0&fref=nf)](assets/640facbfbb1c/1*_t3geWCVfikR78j26Udn5A.jpeg)
+![Open the Ports — [Iasonas Apostolopoulos](https://www.facebook.com/iasonas.apos?__tn__=%2CdCH-R-R&eid=ARDSTRbh1WMT7mP16VTOf3XRkWPqPdRnnaMzpDOEXp2OZDg2Hbl1azKm04VVMb74US60kEDoR8VKcqMM&hc_ref=ARRcum45q8Ni9XcTSctdntlGUO_m579phhLDVz1S62tCqFbkLffhjaNq1n03bKHGJU0&fref=nf)](../assets/640facbfbb1c/1*_t3geWCVfikR78j26Udn5A.jpeg)
 
 Open the Ports — [Iasonas Apostolopoulos](https://www.facebook.com/iasonas.apos?__tn__=%2CdCH-R-R&eid=ARDSTRbh1WMT7mP16VTOf3XRkWPqPdRnnaMzpDOEXp2OZDg2Hbl1azKm04VVMb74US60kEDoR8VKcqMM&hc_ref=ARRcum45q8Ni9XcTSctdntlGUO_m579phhLDVz1S62tCqFbkLffhjaNq1n03bKHGJU0&fref=nf)
 #### Feature:
@@ -32,7 +32,7 @@ Messages of support have been spreading for the captain Pietro Marrone of Mare J
 On the way back to Italy, \(12 miles\) from Lampedusa, the military police ordered Pietro Marone to stop the vessel, which had 70 people on board, and turn off the engines\. However, at the time the sea was extremely rough with 3 meter waves, and the captain refused to follow these orders, in the fear that it would bring the ship into a critical situation endangering the lives of everyone on board\. A truly heroic and noble decision\.
 
 
-![[Iasonas Apostolopoulos](https://www.facebook.com/iasonas.apos?__tn__=%2CdCH-R-R&eid=ARDSTRbh1WMT7mP16VTOf3XRkWPqPdRnnaMzpDOEXp2OZDg2Hbl1azKm04VVMb74US60kEDoR8VKcqMM&hc_ref=ARRcum45q8Ni9XcTSctdntlGUO_m579phhLDVz1S62tCqFbkLffhjaNq1n03bKHGJU0&fref=nf)](assets/640facbfbb1c/1*cqAXHciQ2Iqei6j8OktHCA.jpeg)
+![[Iasonas Apostolopoulos](https://www.facebook.com/iasonas.apos?__tn__=%2CdCH-R-R&eid=ARDSTRbh1WMT7mP16VTOf3XRkWPqPdRnnaMzpDOEXp2OZDg2Hbl1azKm04VVMb74US60kEDoR8VKcqMM&hc_ref=ARRcum45q8Ni9XcTSctdntlGUO_m579phhLDVz1S62tCqFbkLffhjaNq1n03bKHGJU0&fref=nf)](../assets/640facbfbb1c/1*cqAXHciQ2Iqei6j8OktHCA.jpeg)
 
 [Iasonas Apostolopoulos](https://www.facebook.com/iasonas.apos?__tn__=%2CdCH-R-R&eid=ARDSTRbh1WMT7mP16VTOf3XRkWPqPdRnnaMzpDOEXp2OZDg2Hbl1azKm04VVMb74US60kEDoR8VKcqMM&hc_ref=ARRcum45q8Ni9XcTSctdntlGUO_m579phhLDVz1S62tCqFbkLffhjaNq1n03bKHGJU0&fref=nf)
 

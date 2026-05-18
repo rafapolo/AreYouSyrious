@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 6/5/20: Hungry and locked up in the Western Balkans, as the EU discusses…
+title: "AYS Daily Digest 6/5/20: Hungry and locked up in the Western Balkans, as the EU discusses…"
 author: Are You Syrious?
 date: 2020-05-07T13:46:51.895+0100
 last_modified_at: 2020-05-07T14:38:16.496+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,balkans,greece,migration]
 description: All the way the international community is failing in the ‘Western Balkans’ / Greece to reexamine vulnerability certificates, as…
 image:
-  path: assets/a8d5a8215a01/1*PRbVNflVBeuUXVeUq7cxJw.jpeg
+  path: ../assets/a8d5a8215a01/1*PRbVNflVBeuUXVeUq7cxJw.jpeg
 ---
 
 ### AYS Daily Digest 6/5/20: Hungry and locked up in the Western Balkans, as the EU discusses accession
 #### All the ways the international community is failing in the ‘Western Balkans’ / Greece to reexamine vulnerability certificates, as nationalism and securitization become focal point again / Reports from the ground / As it turns out, Germany didn’t take in unaccompanied minors who needed the most care, as many were eligible by law for relocation or family reunification / Sweden asking for a ten\-year wait before another try at applying for asylum
 
 
-![Krnjača camp, Serbia, \- [photo source](http://Lagkadikia Camqu Hama)](assets/a8d5a8215a01/1*PRbVNflVBeuUXVeUq7cxJw.jpeg)
+![Krnjača camp, Serbia, \- [photo source](http://Lagkadikia Camqu Hama)](../assets/a8d5a8215a01/1*PRbVNflVBeuUXVeUq7cxJw.jpeg)
 
 Krnjača camp, Serbia, \- [photo source](http://Lagkadikia Camqu Hama)
 #### FEATURED
@@ -111,7 +111,7 @@ The volunteers of No Name Kitchen, Women in Solidarity House on Lesvos and other
 
 
 
-![](assets/a8d5a8215a01/0*PPhyzizV2xMMnkp4)
+![](../assets/a8d5a8215a01/0*PPhyzizV2xMMnkp4)
 
 #### GERMANY
 ### The lie behind the PR
@@ -136,7 +136,7 @@ As ProAsyl states, 18 of the kids already have family in Germany — and thus ha
 At the same time, it seems that most of the concern was for favorable optics, and not so much for the privacy and protection of the children while they were being taken to the planes and transported to Germany\.
 
 
-[![Relocation of unaccompanied migrant children from Greece to Germany](assets/a8d5a8215a01/af0f_hqdefault.jpg "Relocation of unaccompanied migrant children from Greece to Germany")](https://www.youtube.com/watch?v=3UGhTJfbImQ)
+[![Relocation of unaccompanied migrant children from Greece to Germany](../assets/a8d5a8215a01/af0f_hqdefault.jpg "Relocation of unaccompanied migrant children from Greece to Germany")](https://www.youtube.com/watch?v=3UGhTJfbImQ)
 
 #### SWEDEN
 ### Prolonging the waiting time between applications

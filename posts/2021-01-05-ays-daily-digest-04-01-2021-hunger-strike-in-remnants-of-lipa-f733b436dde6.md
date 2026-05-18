@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,bosnia,bosnia-and-herzegovina]
 description: Open Arms Finds Safe Port in Sicily//Fascists Appointed to Greek Cabinet//Unaccompanied Minors in Canary Islands Neglected by Government
 image:
-  path: assets/f733b436dde6/0*K-DuxJmsufO-x4EZ
+  path: ../assets/f733b436dde6/0*K-DuxJmsufO-x4EZ
 ---
 
 ### AYS Daily Digest 04/01/2021—Hunger Strike in Remnants of Lipa
 #### Open Arms finds safe port in Sicily//Fascists appointed to Greek Cabinet//Unaccompanied minors in Canary Islands neglected by government
 
 
-![The smoldering remnants of Lipa camp in Bosnia & Herzegovina\. Photo credit: [Chiara Lauvergnac](https://www.facebook.com/photo?fbid=10158344969804092&set=pcb.10158344586064092)](assets/f733b436dde6/0*K-DuxJmsufO-x4EZ)
+![The smoldering remnants of Lipa camp in Bosnia & Herzegovina\. Photo credit: [Chiara Lauvergnac](https://www.facebook.com/photo?fbid=10158344969804092&set=pcb.10158344586064092)](../assets/f733b436dde6/0*K-DuxJmsufO-x4EZ)
 
 The smoldering remnants of Lipa camp in Bosnia & Herzegovina\. Photo credit: [Chiara Lauvergnac](https://www.facebook.com/photo?fbid=10158344969804092&set=pcb.10158344586064092)
 #### FEATURE
@@ -29,7 +29,7 @@ Since the fire on Christmas Eve, the people of Lipa have been stuck due to gover
 Now, the people are protesting these conditions by refusing food from the Red Cross, food that was inadequate and unhealthy anyway\. On Sunday, [they protested](https://balkaninsight.com/2021/01/04/migrants-refugees-spurn-return-to-torched-camp-in-bosnia/?fbclid=IwAR2rBtt2hL_mizJzo8JSwfJt_-zZQxGSMirILzlHbb87BZWmWXGSjmiYZAg) in front of a visiting government delegation, asking for freedom and the right to seek asylum in the EU\.
 
 
-![Photo credit: Enzo Leclercq, via [Balkanbrucke](https://www.facebook.com/balkanbruecke/posts/235334081292070)](assets/f733b436dde6/0*SYEmZJ4QAa8VbbK9)
+![Photo credit: Enzo Leclercq, via [Balkanbrucke](https://www.facebook.com/balkanbruecke/posts/235334081292070)](../assets/f733b436dde6/0*SYEmZJ4QAa8VbbK9)
 
 Photo credit: Enzo Leclercq, via [Balkanbrucke](https://www.facebook.com/balkanbruecke/posts/235334081292070)
 

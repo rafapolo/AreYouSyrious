@@ -1,13 +1,13 @@
 ---
-title: AYS Weekend Digest 23–24/01/2021: UK — The Home Office vs the Law
+title: "AYS Weekend Digest 23–24/01/2021: UK — The Home Office vs the Law"
 author: Are You Syrious?
 date: 2021-01-25T09:00:28.616+0000
 last_modified_at: 2021-01-25T15:48:41.388+0000
 categories: Are You Syrious?
 tags: [digest,refugees,priti-patel,eu-turkey-deal,mawda]
-description: SEA: 17 people dead, more than 400 rescued and transported to Italy / ETHIOPIA: reports of attacks on refugee camps / GREECE: deportations…
+description: "SEA: 17 people dead, more than 400 rescued and transported to Italy / ETHIOPIA: reports of attacks on refugee camps / GREECE: deportations…"
 image:
-  path: assets/c101e3543b7f/1*TVHtmUe2FViQtkZyBeWuNw.jpeg
+  path: ../assets/c101e3543b7f/1*TVHtmUe2FViQtkZyBeWuNw.jpeg
 ---
 
 ### AYS Weekend Digest 23–24/01/2021: UK — The Home Office VS the Law
@@ -15,7 +15,7 @@ image:
 SEA: 17 people dead, more than 400 rescued and transported to Italy // ETHIOPIA: reports of attacks on refugee camps // GREECE: deportations under EU\-Turkey deal to restart in March // BELGIUM: trial for Mawda’s death is a symbol of the shattered justice system\.
 
 
-![Cause of death \#escape: Between 1993 and mid\-2018 more than 35,000 people died in on their way to Europe\. A book projects documents the names in an incomplete list\. In Bremen, a group lit up a candle for everyone who died in the Mediterranean\. In this year alone 86 people have already drowned\. \(Photo and text by [Niklas Golitschek](https://www.facebook.com/Niklas.golitschek/posts/3329499790488833) \)](assets/c101e3543b7f/1*TVHtmUe2FViQtkZyBeWuNw.jpeg)
+![Cause of death \#escape: Between 1993 and mid\-2018 more than 35,000 people died in on their way to Europe\. A book projects documents the names in an incomplete list\. In Bremen, a group lit up a candle for everyone who died in the Mediterranean\. In this year alone 86 people have already drowned\. \(Photo and text by [Niklas Golitschek](https://www.facebook.com/Niklas.golitschek/posts/3329499790488833) \)](../assets/c101e3543b7f/1*TVHtmUe2FViQtkZyBeWuNw.jpeg)
 
 Cause of death \#escape: Between 1993 and mid\-2018 more than 35,000 people died in on their way to Europe\. A book projects documents the names in an incomplete list\. In Bremen, a group lit up a candle for everyone who died in the Mediterranean\. In this year alone 86 people have already drowned\. \(Photo and text by [Niklas Golitschek](https://www.facebook.com/Niklas.golitschek/posts/3329499790488833) \)
 #### Featured: UK — The Home Office vs the Law
@@ -271,7 +271,7 @@ Utopia56 has [occupied](https://mobile.twitter.com/Utopia_56/status/135334745634
 #### Calais: bike racks where people sleep
 
 
-![La [Voix Du Nord](https://www.lavoixdunord.fr/924764/article/2021-01-24/calais-les-arceaux-velo-fixes-sous-les-ponts-pour-decourager-les-migrants-font) , local newspaper of the Pais\-de\-Calais report that bike racks have been installed under a bridge in Calais, a spot where people used to sleep and find shelter from the rain and the snow\.](assets/c101e3543b7f/1*3_G7mEdtm9nAdaJesX3CNw.jpeg)
+![La [Voix Du Nord](https://www.lavoixdunord.fr/924764/article/2021-01-24/calais-les-arceaux-velo-fixes-sous-les-ponts-pour-decourager-les-migrants-font) , local newspaper of the Pais\-de\-Calais report that bike racks have been installed under a bridge in Calais, a spot where people used to sleep and find shelter from the rain and the snow\.](../assets/c101e3543b7f/1*3_G7mEdtm9nAdaJesX3CNw.jpeg)
 
 La [Voix Du Nord](https://www.lavoixdunord.fr/924764/article/2021-01-24/calais-les-arceaux-velo-fixes-sous-les-ponts-pour-decourager-les-migrants-font) , local newspaper of the Pais\-de\-Calais report that bike racks have been installed under a bridge in Calais, a spot where people used to sleep and find shelter from the rain and the snow\.
 

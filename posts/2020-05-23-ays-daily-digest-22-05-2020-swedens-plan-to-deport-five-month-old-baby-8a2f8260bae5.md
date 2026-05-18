@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,migrants,europe,activist,digest]
 description: Activist Elin Ersson High Court Judgement // Increase in English Channel Crossings // Updates from Melilla // Migrant Workers in Manolada…
 image:
-  path: assets/8a2f8260bae5/1*W8dzymbf6_N3lpLYn1b7tA.jpeg
+  path: ../assets/8a2f8260bae5/1*W8dzymbf6_N3lpLYn1b7tA.jpeg
 ---
 
 ### AYS Daily Digest 22/05/2020\- Sweden’s plan to deport five\-month\-old Baby Benjamin
@@ -15,7 +15,7 @@ image:
 Activist Elin Ersson’s High Court Judgement // Increase in English Channel Crossings // Updates from Melilla // Migrant Workers in Manolada // New decree on humanitarian aid in Bosnia
 
 
-![**Centre for Peace Studies and the Welcome\! Initiative organized a street action in front of the Ministry of Interior building\. Photo: \(** [www\.cms\.hr](http://www.cms.hr) \)](assets/8a2f8260bae5/1*W8dzymbf6_N3lpLYn1b7tA.jpeg)
+![**Centre for Peace Studies and the Welcome\! Initiative organized a street action in front of the Ministry of Interior building\. Photo: \(** [www\.cms\.hr](http://www.cms.hr) \)](../assets/8a2f8260bae5/1*W8dzymbf6_N3lpLYn1b7tA.jpeg)
 
 **Centre for Peace Studies and the Welcome\! Initiative organized a street action in front of the Ministry of Interior building\. Photo: \(** [www\.cms\.hr](http://www.cms.hr) \)
 ### Feature
@@ -57,7 +57,7 @@ Together with Solidarity Wheels, No Name Kitchen shares an update from Melilla, 
 _“The Land Workers of Manolada’_ produced by Dr Apostolos Kapaslis in cooperation with the RLS Regional Office in Athens, is a short film following Bangladeshi agricultural workers in Manolada\. In the film, they explain the appalling living conditions that they are forced to enduring including a lack of drinking water, no proper toilets and unbearable heat or cold\. Furthermore, the film highlights the absurd unilateral employment contract that combined with the inhumane living conditions and the increased role of the police over their work, has prompted some international observers to [draw resemblance with labour camps](https://www.rosalux.de/en/news/id/42110/the-land-workers-of-manolada?fbclid=IwAR1BvTljq0ns0V1MVkMNwb4qv1xzEWByyaqTPWiyQrHFoRDeooMCtyLuTJU) \. The confessionals of the migrant workers in Manolada come only a few years after the European court of human right affirmed that Greece violated Article 4 of the European Convention, on the prohibition of slavery and forced labour\. The decision of [Chowdhury and others VS Greece](https://g2red.org/manolada-one-year-after-the-echr-sentence/) , a case regarding the treatment of migrant labourers in Manolada, had concluded that Greece had failed to prevent forced labour by adopting measures to end the factors giving rise to it, despite being aware of them\.
 
 
-[![Land workers of Manolada (A video by Claudio Feliziani)](assets/8a2f8260bae5/3e60_hqdefault.jpg "Land workers of Manolada (A video by Claudio Feliziani)")](https://www.youtube.com/watch?v=m8XAd8C5wRc)
+[![Land workers of Manolada (A video by Claudio Feliziani)](../assets/8a2f8260bae5/3e60_hqdefault.jpg "Land workers of Manolada (A video by Claudio Feliziani)")](https://www.youtube.com/watch?v=m8XAd8C5wRc)
 
 
 [It’s been announced](https://twitter.com/_Wiesenthal_S_/status/1263788225145036800?fbclid=IwAR2j4UZHA_thhlNvXM0i91O89pc_bqKOkY4duV9VcGBHLw80NOgSgZYBNGM) that the current quarantine being placed on the Moria Reception and Identification Centre has been extended until June 7th\. The forced quarantine was expected to be ended by Thursday but now its residence will have to endure another two weeks of lockdown\. They have been given the opportunity to appeal this lockdown, but with no legal aid and a 10 day\-deadline, there seems little hope that the 18,000 people enduing acute overcrowding and a distinct lack of sanitation facilities will be able to leave any time soon\.

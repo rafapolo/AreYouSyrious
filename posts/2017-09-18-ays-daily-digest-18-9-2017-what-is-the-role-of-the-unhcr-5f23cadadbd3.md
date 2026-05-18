@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 18/9/2017: What is the role of the UNHCR?
+title: "AYS DAILY DIGEST 18/9/2017: What is the role of the UNHCR?"
 author: Are You Syrious?
 date: 2017-09-18T21:15:54.450+0100
 last_modified_at: 2017-09-19T23:08:17.272+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,paris,unhcr,lesvos,greece]
 description: Question for the UNHCR from volunteer in Lesvos // A comedy of errors // 250,985 people left their homes in Afghanistan this year due to…
 image:
-  path: assets/5f23cadadbd3/1*wM4RFDWAlww77hEjGgyyhQ.jpeg
+  path: ../assets/5f23cadadbd3/1*wM4RFDWAlww77hEjGgyyhQ.jpeg
 ---
 
 ### AYS DAILY DIGEST 18/9/2017: What is the role of the UNHCR?
@@ -15,7 +15,7 @@ image:
 _Question for the UNHCR from volunteer in Lesvos // A comedy of errors // 250,985 people left their homes in Afghanistan this year due to conflict // Due to EU — Turkey deal hundreds of children out of school // At least 2000 people on the streets of Paris // Forced eviction of people in Fonts Camp // Case againts Jugend Rettet to start tomorrow —_ \#FreeIuventa
 
 
-![Photo [Vahida Ramujkić](https://www.facebook.com/nijedna) \.](assets/5f23cadadbd3/1*h-s3iAac8LDt2Kj_gRCvDg.jpeg)
+![Photo [Vahida Ramujkić](https://www.facebook.com/nijedna) \.](../assets/5f23cadadbd3/1*h-s3iAac8LDt2Kj_gRCvDg.jpeg)
 
 Photo [Vahida Ramujkić](https://www.facebook.com/nijedna) \.
 ### Feature
@@ -111,7 +111,7 @@ On Tuesday, September 19th, the first hearing against the [Jugend Rettet](https:
 Their boat IUVENTA has beed sized at the beginning of August, and they face accusations on their involvement in smugling\.
 
 
-![](assets/5f23cadadbd3/1*Fq-Fmp5uWdVbN_fnQsqZBw.jpeg)
+![](../assets/5f23cadadbd3/1*Fq-Fmp5uWdVbN_fnQsqZBw.jpeg)
 
 
 
@@ -137,11 +137,11 @@ This morning the first boat arrived at Kataraktis, Chios, at 7 with 36 people on
 To Samos, one boat arrived with 44 people on board\.
 
 
-![](assets/5f23cadadbd3/1*iT_3ohWff5u08rC14jDRfA.jpeg)
+![](../assets/5f23cadadbd3/1*iT_3ohWff5u08rC14jDRfA.jpeg)
 
 
 
-![Photo by [Chios Estern Shore response Team](https://www.facebook.com/groups/421759534684819/permalink/686116691582434/) \.](assets/5f23cadadbd3/1*hndxppuoWBBM0ywF14TvmQ.jpeg)
+![Photo by [Chios Estern Shore response Team](https://www.facebook.com/groups/421759534684819/permalink/686116691582434/) \.](../assets/5f23cadadbd3/1*hndxppuoWBBM0ywF14TvmQ.jpeg)
 
 Photo by [Chios Estern Shore response Team](https://www.facebook.com/groups/421759534684819/permalink/686116691582434/) \.
 
@@ -224,7 +224,7 @@ Nevertheless, there is always the good side in everything\. Or at least, people 
 “In Calais Centre\-Ville, local kids appear most evenings and play football with the boys under yet another striking Calais sunset\.”
 
 
-![Photo by the [Refuge Info Bus](https://www.facebook.com/RefugeeInfoBus/posts/2022434511325300) \.](assets/5f23cadadbd3/1*wM4RFDWAlww77hEjGgyyhQ.jpeg)
+![Photo by the [Refuge Info Bus](https://www.facebook.com/RefugeeInfoBus/posts/2022434511325300) \.](../assets/5f23cadadbd3/1*wM4RFDWAlww77hEjGgyyhQ.jpeg)
 
 Photo by the [Refuge Info Bus](https://www.facebook.com/RefugeeInfoBus/posts/2022434511325300) \.
 
@@ -272,15 +272,15 @@ SHOES sizes 41–45
 FOOD
 
 
-![](assets/5f23cadadbd3/1*yhVMVPFm-Dz5enqmBjRqog.jpeg)
+![](../assets/5f23cadadbd3/1*yhVMVPFm-Dz5enqmBjRqog.jpeg)
 
 
 
-![](assets/5f23cadadbd3/1*TH34owfI1Q6vNQy1ocxp-w.jpeg)
+![](../assets/5f23cadadbd3/1*TH34owfI1Q6vNQy1ocxp-w.jpeg)
 
 
 
-![Photo by Danika Jurisic\.](assets/5f23cadadbd3/1*jABBs0PllkLXgllHVbtOag.jpeg)
+![Photo by Danika Jurisic\.](../assets/5f23cadadbd3/1*jABBs0PllkLXgllHVbtOag.jpeg)
 
 Photo by Danika Jurisic\.
 ### General
@@ -290,7 +290,7 @@ Two interesting events are coming up in Berlin\.
 On 21 September, [Migration Hub Network](http://migrationhub.wikistage.org) is joining forces with [WikiStage](http://www.wikistage.org/debates/sharing-economy/) for the full\-day event ‘ [Innovation knows no Borders](https://www.facebook.com/events/682235791961646/) ’\.
 
 
-![](assets/5f23cadadbd3/1*F1mVf2ny6NfVwSoPhu-Rww.jpeg)
+![](../assets/5f23cadadbd3/1*F1mVf2ny6NfVwSoPhu-Rww.jpeg)
 
 
 Innovation knows no Borders consists of a series of 15\-minute talks given by a diverse group of international speakers\. Besides the talks, there will be art, live music, interactive and innovative booths, street\-food and an after\-party\.
@@ -298,7 +298,7 @@ Innovation knows no Borders consists of a series of 15\-minute talks given by a 
 Soon, in Berlin, the first conference organized by the [ConAction](https://www.facebook.com/pg/ConActionConference/about/?ref=page_internal) will take place\.
 
 
-![](assets/5f23cadadbd3/1*AOaQh3qqeiyuY1eiWRlOmQ.jpeg)
+![](../assets/5f23cadadbd3/1*AOaQh3qqeiyuY1eiWRlOmQ.jpeg)
 
 
 It is a project by volunteers from Berlin, who have been involved in helping refugees in Greece, Turkey, and Germany\. Their aim is to establish a constructive and helpful connection between the refugee\-volunteer community of Europe\.

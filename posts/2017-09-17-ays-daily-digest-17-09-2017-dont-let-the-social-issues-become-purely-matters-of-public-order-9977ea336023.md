@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 17/09/17: Don’t let social issues become purely matters of public order
+title: "AYS Daily Digest 17/09/17: Don’t let social issues become purely matters of public order"
 author: Are You Syrious?
 date: 2017-09-17T22:41:34.643+0100
 last_modified_at: 2017-09-20T10:55:41.766+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,refugeeswelcome,italy,greece,asylum-seekers]
 description: Baobab Experience answers assessor Baldassarre / 120 saved in the Mediterranean / 703 people arrive on Lesvos this weekend with 1,717 this…
 image:
-  path: assets/9977ea336023/1*bmB_WSQHQ8KsbBY6EsDPdw.jpeg
+  path: ../assets/9977ea336023/1*bmB_WSQHQ8KsbBY6EsDPdw.jpeg
 ---
 
 ### AYS Daily Digest 17/09/17: Don’t let social issues become purely matters of public order
@@ -15,7 +15,7 @@ image:
 _Baobab Experience answers assessor Baldassarre / 120 saved in the Mediterranean / 703 people arrive on Lesvos this weekend with 1,717 this month so far / News from Greece, Belgium, Italy, Sweden, and Germany / And more news…_
 
 
-![Athens, Greece on September 16th, 2017: Antifa protest march with five people arrested and a 16 year old boy seriously injured in hospital \(Photo by Marios Lolos\)](assets/9977ea336023/1*bmB_WSQHQ8KsbBY6EsDPdw.jpeg)
+![Athens, Greece on September 16th, 2017: Antifa protest march with five people arrested and a 16 year old boy seriously injured in hospital \(Photo by Marios Lolos\)](../assets/9977ea336023/1*bmB_WSQHQ8KsbBY6EsDPdw.jpeg)
 
 Athens, Greece on September 16th, 2017: Antifa protest march with five people arrested and a 16 year old boy seriously injured in hospital \(Photo by Marios Lolos\)
 ### FEATURE: _Baobab Experience answers assessor Baldassarre_
@@ -121,7 +121,7 @@ On Saturday July 9th, 2016, Baldassarre received them, along with MEDU, in the d
 More than 120 people were found and rescued at sea on Friday\. If the reconnaissance aircraft Moonbird had not discovered their sinking at the last minute, they probably wouldn’t have survived, [Sea\-Watch](https://www.facebook.com/seawatchprojekt/?hc_ref=ARQmjtScK9ES0dr2lNNTe6k9Uvwc2uWiwrw2E8h0I3XU2ATFU8q4ujmrwFrNxlbCBJE&fref=nf) writes\.
 
 
-![\(Photo by [**Sea\-Watch**](https://www.facebook.com/seawatchprojekt/?hc_ref=ARQmjtScK9ES0dr2lNNTe6k9Uvwc2uWiwrw2E8h0I3XU2ATFU8q4ujmrwFrNxlbCBJE&fref=nf) **\)**](assets/9977ea336023/1*42rmQD2ZmLGEy2wjSF1d6Q.jpeg)
+![\(Photo by [**Sea\-Watch**](https://www.facebook.com/seawatchprojekt/?hc_ref=ARQmjtScK9ES0dr2lNNTe6k9Uvwc2uWiwrw2E8h0I3XU2ATFU8q4ujmrwFrNxlbCBJE&fref=nf) **\)**](../assets/9977ea336023/1*42rmQD2ZmLGEy2wjSF1d6Q.jpeg)
 
 \(Photo by [**Sea\-Watch**](https://www.facebook.com/seawatchprojekt/?hc_ref=ARQmjtScK9ES0dr2lNNTe6k9Uvwc2uWiwrw2E8h0I3XU2ATFU8q4ujmrwFrNxlbCBJE&fref=nf) **\)**
 ### GREECE
@@ -156,15 +156,15 @@ More people are being put in detention in Rhodes and help is needed\. Oasis Rhod
 Distribution of clothes was organized at Piazzale Maslax this morning\.
 
 
-![](assets/9977ea336023/1*2VkT3VPZLKoriMDrRlQRyQ.jpeg)
+![](../assets/9977ea336023/1*2VkT3VPZLKoriMDrRlQRyQ.jpeg)
 
 
 
-![](assets/9977ea336023/1*CbctZrvN5po90hymyWulRw.jpeg)
+![](../assets/9977ea336023/1*CbctZrvN5po90hymyWulRw.jpeg)
 
 
 
-![Soldarity in the city](assets/9977ea336023/1*tIrhtKgYgpG2hfVzPaP2gg.jpeg)
+![Soldarity in the city](../assets/9977ea336023/1*tIrhtKgYgpG2hfVzPaP2gg.jpeg)
 
 Soldarity in the city
 #### Friuli Venezia Giulia
@@ -172,19 +172,19 @@ Soldarity in the city
 Inside Cara di Gradisca around 570 people are supposed to live despite the capacity being half the number\. Low hygienic conditions and long waiting times to receive psychological support or even a tooth ache medicine, only pasta with little or no oil being served, gone off or maybe even reused from other centres, sometimes with plastic inside are some of the issues people face there, a local source writes\. The appealing thing is that the company in charge of distributing food, catering agency Gam, manages the business in other centres of the area as well \(Nazareno, in Gorizia\), making large sums of money off of it\.
 
 
-![](assets/9977ea336023/1*1LYCJXxq-8sygGyEnGXq2w.jpeg)
+![](../assets/9977ea336023/1*1LYCJXxq-8sygGyEnGXq2w.jpeg)
 
 
 
-![](assets/9977ea336023/1*xLl1VRrRfwNWhX2s5OK0aQ.jpeg)
+![](../assets/9977ea336023/1*xLl1VRrRfwNWhX2s5OK0aQ.jpeg)
 
 
 
-![](assets/9977ea336023/1*UjUzSBoX6LzuRMhjfs6HnA.jpeg)
+![](../assets/9977ea336023/1*UjUzSBoX6LzuRMhjfs6HnA.jpeg)
 
 
 
-![\(Photo by Mauro Chiarabba\)](assets/9977ea336023/1*4R6z3-KAy5lXZbBwYcllrg.jpeg)
+![\(Photo by Mauro Chiarabba\)](../assets/9977ea336023/1*4R6z3-KAy5lXZbBwYcllrg.jpeg)
 
 \(Photo by Mauro Chiarabba\)
 #### Pordenone
@@ -194,15 +194,15 @@ Authorities are collecting and taking away sleeping bags and blankets donated to
 Refugees in Pordenone preparing for the night:
 
 
-![](assets/9977ea336023/1*EJ0oVgHP_4XODyV1j_WRhg.jpeg)
+![](../assets/9977ea336023/1*EJ0oVgHP_4XODyV1j_WRhg.jpeg)
 
 
 
-![](assets/9977ea336023/1*eAIqIVk7XumvgohwnmV4yw.jpeg)
+![](../assets/9977ea336023/1*eAIqIVk7XumvgohwnmV4yw.jpeg)
 
 
 
-![Photos taken today by a local volunteer](assets/9977ea336023/1*jQVP517azZVbTN6onig-kA.jpeg)
+![Photos taken today by a local volunteer](../assets/9977ea336023/1*jQVP517azZVbTN6onig-kA.jpeg)
 
 Photos taken today by a local volunteer
 #### Como
@@ -210,15 +210,15 @@ Photos taken today by a local volunteer
 Popular initiative in support of the campaign for a more welcoming city took place yesterday in Como\.
 
 
-![](assets/9977ea336023/1*xnI6tMXB5EDl-4S28VlOfg.jpeg)
+![](../assets/9977ea336023/1*xnI6tMXB5EDl-4S28VlOfg.jpeg)
 
 
 
-![](assets/9977ea336023/1*8xJ5pL_4uJ3TydGRD4XZcA.jpeg)
+![](../assets/9977ea336023/1*8xJ5pL_4uJ3TydGRD4XZcA.jpeg)
 
 
 
-![\(Photos by Marta Pezzati\)](assets/9977ea336023/1*7mXIEC8XOIjJGJXd11t-1Q.jpeg)
+![\(Photos by Marta Pezzati\)](../assets/9977ea336023/1*7mXIEC8XOIjJGJXd11t-1Q.jpeg)
 
 \(Photos by Marta Pezzati\)
 #### Ventimiglia
@@ -245,7 +245,7 @@ Care4Calais volunteers took shoes to the refugees at Maximilian Park today\. The
 
 
 
-![To buy a pair of waterproof walking boots for a refugee you can donate £20 here: [https://mydonate\.bt\.com/donation/start\.html?charity=164447](https://l.facebook.com/l.php?u=https%3A%2F%2Fmydonate.bt.com%2Fdonation%2Fstart.html%3Fcharity%3D164447&h=ATPr5aFbMmaD6PUkkiz2j8tzfyohk7Lzcchn17vlUeoR7u552MbrNcFSXVCmVS1jvPWkq-5HUM7bXkPGGqtElkY78JT1Kku-1voAhXEe2ecfcZw_eZYYh3Yw4ORnaQxv5GjafAaKsaYsdG_f8u73bcc3RFomO29UwSj0fMXUMQ5giUysiwbl-K4vQvZjX3ElD0tqTfyPy7SLo7ElhjYmZGqmW3Ktk5g_BckOAwVidf2ofUuiunnwTol38VXhYJc57T7Nh_7hMJ_Mjfk3Z_E)](assets/9977ea336023/1*jXOf7iqT85dhrKI8iTW14Q.jpeg)
+![To buy a pair of waterproof walking boots for a refugee you can donate £20 here: [https://mydonate\.bt\.com/donation/start\.html?charity=164447](https://l.facebook.com/l.php?u=https%3A%2F%2Fmydonate.bt.com%2Fdonation%2Fstart.html%3Fcharity%3D164447&h=ATPr5aFbMmaD6PUkkiz2j8tzfyohk7Lzcchn17vlUeoR7u552MbrNcFSXVCmVS1jvPWkq-5HUM7bXkPGGqtElkY78JT1Kku-1voAhXEe2ecfcZw_eZYYh3Yw4ORnaQxv5GjafAaKsaYsdG_f8u73bcc3RFomO29UwSj0fMXUMQ5giUysiwbl-K4vQvZjX3ElD0tqTfyPy7SLo7ElhjYmZGqmW3Ktk5g_BckOAwVidf2ofUuiunnwTol38VXhYJc57T7Nh_7hMJ_Mjfk3Z_E)](../assets/9977ea336023/1*jXOf7iqT85dhrKI8iTW14Q.jpeg)
 
 To buy a pair of waterproof walking boots for a refugee you can donate £20 here: [https://mydonate\.bt\.com/donation/start\.html?charity=164447](https://l.facebook.com/l.php?u=https%3A%2F%2Fmydonate.bt.com%2Fdonation%2Fstart.html%3Fcharity%3D164447&h=ATPr5aFbMmaD6PUkkiz2j8tzfyohk7Lzcchn17vlUeoR7u552MbrNcFSXVCmVS1jvPWkq-5HUM7bXkPGGqtElkY78JT1Kku-1voAhXEe2ecfcZw_eZYYh3Yw4ORnaQxv5GjafAaKsaYsdG_f8u73bcc3RFomO29UwSj0fMXUMQ5giUysiwbl-K4vQvZjX3ElD0tqTfyPy7SLo7ElhjYmZGqmW3Ktk5g_BckOAwVidf2ofUuiunnwTol38VXhYJc57T7Nh_7hMJ_Mjfk3Z_E)
 ### SWEDEN

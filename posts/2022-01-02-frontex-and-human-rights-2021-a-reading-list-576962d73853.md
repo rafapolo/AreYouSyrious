@@ -1,5 +1,5 @@
 ---
-title: Frontex and Human Rights 2021: A reading list
+title: "Frontex and Human Rights 2021: A reading list"
 author: Are You Syrious?
 date: 2022-01-02T09:19:40.055+0000
 last_modified_at: 2022-01-02T09:19:40.055+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [special,frontex,human-rights,2021,refugees]
 description: During 2021, millions of words were written on Frontex. Activist groups, monitoring networks, investigative journalists, NGOs… many groups…
 image:
-  path: assets/576962d73853/1*F-PSl0QAeQ8ShPl0xUijkA.jpeg
+  path: ../assets/576962d73853/1*F-PSl0QAeQ8ShPl0xUijkA.jpeg
 ---
 
 ### Frontex and Human Rights 2021: A reading list
@@ -15,7 +15,7 @@ image:
 During 2021, millions of words were written on Frontex\. Activist groups, monitoring networks, investigative journalists, NGOs… many groups have looked closely at the track record of the EU Border and Coast Guard Agency, at its ambiguous position somewhere between Brussels and the external borders of the EU, at the numerous criminal allegations against it\. Here is a selection of some of the year’s best, month by month\.
 
 
-![Credit: [Privacy International](https://privacyinternational.org/advocacy/3289/privacywins-eu-border-guards-cancel-plans-spy-social-media-now)](assets/576962d73853/1*F-PSl0QAeQ8ShPl0xUijkA.jpeg)
+![Credit: [Privacy International](https://privacyinternational.org/advocacy/3289/privacywins-eu-border-guards-cancel-plans-spy-social-media-now)](../assets/576962d73853/1*F-PSl0QAeQ8ShPl0xUijkA.jpeg)
 
 Credit: [Privacy International](https://privacyinternational.org/advocacy/3289/privacywins-eu-border-guards-cancel-plans-spy-social-media-now)
 ### JANUARY
@@ -47,7 +47,7 @@ Credit: [Privacy International](https://privacyinternational.org/advocacy/3289/p
 
 
 
-[![Die geheimen Dates von Frontex und der Rüstungsindustrie | ZDF Magazin Royale](assets/576962d73853/52b4_hqdefault.jpg "Die geheimen Dates von Frontex und der Rüstungsindustrie | ZDF Magazin Royale")](https://www.youtube.com/watch?v=2uk0w8SvUMw)
+[![Die geheimen Dates von Frontex und der Rüstungsindustrie | ZDF Magazin Royale](../assets/576962d73853/52b4_hqdefault.jpg "Die geheimen Dates von Frontex und der Rüstungsindustrie | ZDF Magazin Royale")](https://www.youtube.com/watch?v=2uk0w8SvUMw)
 
 ### MARCH
 - \[DOCUMENT\] Statewatch released [**Frontex correspondence**](https://www.statewatch.org/news/2021/march/eu-pushbacks-scandal-frontex-correspondence-with-national-and-eu-authorities/) between Frontex executive director Fabrice Leggeri and the European Commission, Council and Parliament, the Frontex Management Board, and the border authorities Greece, Romania, Portugal and Sweden, on the subject of alleged complicity in pushbacks in the Aegean region\.
@@ -96,7 +96,7 @@ The third instalment delves into the public image of Frontex and the narrative t
 ### SEPTEMBER
 
 
-[![Livestream: Quo vadis Frontex - Reform, control or abolish?](assets/576962d73853/46ca_hqdefault.jpg "Livestream: Quo vadis Frontex - Reform, control or abolish?")](https://www.youtube.com/watch?v=O5iEpmQrxCU)
+[![Livestream: Quo vadis Frontex - Reform, control or abolish?](../assets/576962d73853/46ca_hqdefault.jpg "Livestream: Quo vadis Frontex - Reform, control or abolish?")](https://www.youtube.com/watch?v=O5iEpmQrxCU)
 
 - [**New unmanned capabilities: When will the EU use drones for practical sea rescue?**](https://digit.site36.net/2021/09/17/new-unmanned-capabilities-when-will-the-eu-use-drones-for-practical-sea-rescue/) _Two leading drone manufacturers report readiness to equip their aircraft with life rafts\. These can be dropped with pinpoint accuracy over a maritime emergency\. But perhaps this would also encourage violations of the Geneva Refugee Convention\. By Matthias Monroy_
 
@@ -146,7 +146,7 @@ _The EU is not allowed to return refugees to countries where they face persecuti
 
 
 
-[![Investigating Frontex: How a reporting team put an EU super-agency in the spotlight](assets/576962d73853/d58e_hqdefault.jpg "Investigating Frontex: How a reporting team put an EU super-agency in the spotlight")](https://www.youtube.com/watch?v=78nAzPcFLdE)
+[![Investigating Frontex: How a reporting team put an EU super-agency in the spotlight](../assets/576962d73853/d58e_hqdefault.jpg "Investigating Frontex: How a reporting team put an EU super-agency in the spotlight")](https://www.youtube.com/watch?v=78nAzPcFLdE)
 
 - [**EU and NATO: Military, police, secret services against migration as ‘hybrid threat’**](https://digit.site36.net/2021/11/22/european-union-and-nato-military-police-and-secret-services-against-hybrid-threats/) , by Matthias Monroy\. Since the Lisbon Treaty, the EU Commission and the Council intertwined internal and external security and thus closer cooperate with NATO\. In 2015, a fighting word was created for this, which is being positioned against disinformation, cyber attacks and migration\.
 
@@ -159,7 +159,7 @@ _The effectiveness of the Frontex human rights record and accountability regime 
 
 
 
-[![On the Move with Begüm Başdaş: Sharp borders & border tech experiments with guest Petra Molnar](assets/576962d73853/696e_hqdefault.jpg "On the Move with Begüm Başdaş: Sharp borders & border tech experiments with guest Petra Molnar")](https://www.youtube.com/watch?v=wsFpF8d7Vnk)
+[![On the Move with Begüm Başdaş: Sharp borders & border tech experiments with guest Petra Molnar](../assets/576962d73853/696e_hqdefault.jpg "On the Move with Begüm Başdaş: Sharp borders & border tech experiments with guest Petra Molnar")](https://www.youtube.com/watch?v=wsFpF8d7Vnk)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

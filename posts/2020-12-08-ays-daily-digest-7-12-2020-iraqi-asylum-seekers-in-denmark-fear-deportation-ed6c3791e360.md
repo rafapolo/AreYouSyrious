@@ -1,13 +1,13 @@
 ---
-title: AYS Daily Digest 7/12/2020: Iraqi Asylum Seekers in Denmark fear deportation
+title: "AYS Daily Digest 7/12/2020: Iraqi Asylum Seekers in Denmark fear deportation"
 author: Are You Syrious?
 date: 2020-12-08T12:46:15.834+0000
 last_modified_at: 2020-12-08T15:16:58.154+0000
 categories: Are You Syrious?
 tags: [europe,refuge,digest,greece,uk]
-description: Partnership between UNHCR and Tunisia signed // Greece: New rules in camps further restrict transparency and freedom of information //…
+description: "Partnership between UNHCR and Tunisia signed // Greece: New rules in camps further restrict transparency and freedom of information //…"
 image:
-  path: assets/ed6c3791e360/1*gledwsnDn_cUf_TjV3LtOA.jpeg
+  path: ../assets/ed6c3791e360/1*gledwsnDn_cUf_TjV3LtOA.jpeg
 ---
 
 ### AYS Daily Digest 7/12/2020: Iraqi Asylum Seekers in Denmark fear deportation
@@ -15,7 +15,7 @@ image:
 Partnership between UNHCR and Tunisia signed // Greece: New rules in camps further restrict transparency and freedom of information // Statement by Moria Corona Awareness Team // Rainy footage from Moria 2\.0 // Deportations scheduled from Germany to Afghanistan // UK: New disturbing information about Napier Barracks
 
 
-![A child’s life in Europe\. Copyright: Jan Grarup](assets/ed6c3791e360/1*gledwsnDn_cUf_TjV3LtOA.jpeg)
+![A child’s life in Europe\. Copyright: Jan Grarup](../assets/ed6c3791e360/1*gledwsnDn_cUf_TjV3LtOA.jpeg)
 
 A child’s life in Europe\. Copyright: Jan Grarup
 #### FEAUTRE: Mass arrests of Iraqi asylum seekers in Denmark
@@ -121,7 +121,7 @@ MCAT struggles with the fact that many young volunteers publish photos of them s
 Moria Corona Awarness Team’s latest activity was to put up new waterproof posters in the camp in order to inform people about the coronavirus and what to do against it\.
 
 
-![Copyright: Moria Corona Awareness Team](assets/ed6c3791e360/1*ksmkDh--2KGkMhb6d1X-Tw.jpeg)
+![Copyright: Moria Corona Awareness Team](../assets/ed6c3791e360/1*ksmkDh--2KGkMhb6d1X-Tw.jpeg)
 
 Copyright: Moria Corona Awareness Team
 #### Rainy updates from Moria 2\.0

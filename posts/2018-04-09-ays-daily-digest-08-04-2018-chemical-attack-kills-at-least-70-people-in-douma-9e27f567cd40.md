@@ -1,13 +1,13 @@
 ---
-title: AYS Daily Digest 08/04/18: Chemical attack kills at least 70 people in Douma
+title: "AYS Daily Digest 08/04/18: Chemical attack kills at least 70 people in Douma"
 author: Are You Syrious?
 date: 2018-04-09T10:18:43.020+0100
 last_modified_at: 2018-04-09T11:36:04.433+0100
 categories: Are You Syrious?
 tags: [refugees,syria,digest,france,human-rights]
-description: Feature: The death toll from the latest chemical attack by the Syrian regime and pro-Syrian forces continues to rise. Many people struggle…
+description: "Feature: The death toll from the latest chemical attack by the Syrian regime and pro-Syrian forces continues to rise. Many people struggle…"
 image:
-  path: assets/9e27f567cd40/1*87nG9q_2dgkNYMepTCF8aA.jpeg
+  path: ../assets/9e27f567cd40/1*87nG9q_2dgkNYMepTCF8aA.jpeg
 ---
 
 ### AYS Daily Digest 08/04/18: Chemical attack kills at least 70 people in Douma
@@ -15,7 +15,7 @@ image:
 Feature: The death toll from the latest chemical attack by the Syrian regime and pro\-Syrian forces continues to rise\. Many people struggle for life in barely equipped hospitals\. Most of the deceased are women and children who were hiding from bombardment underground\. Activists are calling on the international community to break silence on regime war crimes // Evacuation from Eastern Ghouta to Al\-Bab// Sea\-Watch has new vessel// One hundred people rescued in the Aegean// News from Greece// News from Hungary// News from France
 
 
-![Source: Anadolu Agency/Getty Images](assets/9e27f567cd40/1*87nG9q_2dgkNYMepTCF8aA.jpeg)
+![Source: Anadolu Agency/Getty Images](../assets/9e27f567cd40/1*87nG9q_2dgkNYMepTCF8aA.jpeg)
 
 Source: Anadolu Agency/Getty Images
 #### FEATURE: Chemical Attack in Douma
@@ -58,7 +58,7 @@ Syrian activists from Douma as well as activists from other parts of Syria are u
 
 
 
-![Source: Abdulazez dukhan](assets/9e27f567cd40/1*d9YUF9QR9moj7K3EHfBTnw.jpeg)
+![Source: Abdulazez dukhan](../assets/9e27f567cd40/1*d9YUF9QR9moj7K3EHfBTnw.jpeg)
 
 Source: Abdulazez dukhan
 
@@ -103,15 +103,15 @@ Source: Abdulazez dukhan
 
 
 
-![](assets/9e27f567cd40/1*th7WzZEoZz1EilVRlEiUQg.jpeg)
+![](../assets/9e27f567cd40/1*th7WzZEoZz1EilVRlEiUQg.jpeg)
 
 
 
-![](assets/9e27f567cd40/1*1FtB8bcYth26KdY4lgp-Nw.jpeg)
+![](../assets/9e27f567cd40/1*1FtB8bcYth26KdY4lgp-Nw.jpeg)
 
 
 
-![Photos of Douma — By Firas Abdullah](assets/9e27f567cd40/1*dRG9MkoUc5pPpUMtkrK2ag.jpeg)
+![Photos of Douma — By Firas Abdullah](../assets/9e27f567cd40/1*dRG9MkoUc5pPpUMtkrK2ag.jpeg)
 
 Photos of Douma — By Firas Abdullah
 ### Syria:
@@ -119,11 +119,11 @@ Photos of Douma — By Firas Abdullah
 Many people arrive in Al\-Bab, Aleppo after forced evacuation from Eastern Ghouta\.
 
 
-![](assets/9e27f567cd40/1*HuDBTo6xNtzlNWkbeL5HNA.jpeg)
+![](../assets/9e27f567cd40/1*HuDBTo6xNtzlNWkbeL5HNA.jpeg)
 
 
 
-![Photograph by Bakr Alkasem](assets/9e27f567cd40/1*nbT43ryktVSCAxeDZIU5HA.jpeg)
+![Photograph by Bakr Alkasem](../assets/9e27f567cd40/1*nbT43ryktVSCAxeDZIU5HA.jpeg)
 
 Photograph by Bakr Alkasem
 ### Sea
@@ -182,7 +182,7 @@ Advocates Abroad is calling for oversight to keep EASO officers in line, who, th
 Dirty Girls have been washing clothes, blankets and sleeping bags for two and a half years\. They are reliant on donations to continue providing this necessary and sustainable service\. To find out more please [follow this link\.](http://www.dirtygirlsoflesvos.com)
 
 
-![](assets/9e27f567cd40/1*ZGpf6eMAxzMnhvOfFIAFlw.jpeg)
+![](../assets/9e27f567cd40/1*ZGpf6eMAxzMnhvOfFIAFlw.jpeg)
 
 #### Zataar Weekly Schedule
 
@@ -231,11 +231,11 @@ Protesters demanded:
 \- the regularization of all the undocumented\.
 
 
-![](assets/9e27f567cd40/1*JR-HjkfH61cx4nFbu6Fqrw.jpeg)
+![](../assets/9e27f567cd40/1*JR-HjkfH61cx4nFbu6Fqrw.jpeg)
 
 
 
-![Source: [Les habitant\.e\.s de P 8](https://www.facebook.com/ExileesOccupP8/?hc_ref=ARRWwk8iaZyzRTGz1eH6ac8LRpF81QR_FRwGFSKjkDiQH26TmsnaEfo_3aMtWUJ5Qu4)](assets/9e27f567cd40/1*eybVu2y8ogcgytUnT6fckQ.jpeg)
+![Source: [Les habitant\.e\.s de P 8](https://www.facebook.com/ExileesOccupP8/?hc_ref=ARRWwk8iaZyzRTGz1eH6ac8LRpF81QR_FRwGFSKjkDiQH26TmsnaEfo_3aMtWUJ5Qu4)](../assets/9e27f567cd40/1*eybVu2y8ogcgytUnT6fckQ.jpeg)
 
 Source: [Les habitant\.e\.s de P 8](https://www.facebook.com/ExileesOccupP8/?hc_ref=ARRWwk8iaZyzRTGz1eH6ac8LRpF81QR_FRwGFSKjkDiQH26TmsnaEfo_3aMtWUJ5Qu4)
 #### [Dunkirk / Dunkerque Refugee Women’s Centre](https://www.facebook.com/refugeewomenscentre/) to begin regular English lessons
@@ -250,11 +250,11 @@ Source: [Les habitant\.e\.s de P 8](https://www.facebook.com/ExileesOccupP8/?hc_
 To find out more about you can help please [follow this link\.](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.gofundme.com%2Fwomenscentre&h=ATNPEaUqmuWRrJcZEggiYphNC5OGmKwHw5O3rEWfnzsZzCLdnhE7UNPh-Egyv9MbflRF7Jm2iJwHsxYDznT8pTQeKNzx4QcAOG9s-99MUMW9qkDgnCdjH4e2qJfiGuh3eNVmF_lYaSM)
 
 
-![](assets/9e27f567cd40/1*E0aTHAdeklH2Tdpw9Tuh5g.jpeg)
+![](../assets/9e27f567cd40/1*E0aTHAdeklH2Tdpw9Tuh5g.jpeg)
 
 
 
-![](assets/9e27f567cd40/1*qi_n8Apa8DlRcvrgS29kyA.jpeg)
+![](../assets/9e27f567cd40/1*qi_n8Apa8DlRcvrgS29kyA.jpeg)
 
 
 **We strive to echo correct news from the ground through collaboration and fairness\.**

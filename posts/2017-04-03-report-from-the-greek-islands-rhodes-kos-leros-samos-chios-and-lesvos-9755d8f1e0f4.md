@@ -1,5 +1,5 @@
 ---
-title: Report from the Greek Islands: Rhodes, Kos, Leros, Samos, Chios and Lesvos
+title: "Report from the Greek Islands: Rhodes, Kos, Leros, Samos, Chios and Lesvos"
 author: Are You Syrious?
 date: 2017-04-03T12:57:38.293+0100
 last_modified_at: 2017-04-04T17:43:06.329+0100
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe,greece,greek-islands,lesvos]
 description: Just over a year ago, as the EU-Turkey deal came into effect, I left Lesvos. For the last two weeks I have travelled the islands with two…
 image:
-  path: assets/9755d8f1e0f4/1*y5AtY855J20pWBdr3gUGSg.jpeg
+  path: ../assets/9755d8f1e0f4/1*y5AtY855J20pWBdr3gUGSg.jpeg
 ---
 
 ### **Report from the Greek Islands: Rhodes, Kos, Leros, Samos, Chios and Lesvos**
 
 
-![Chios port \(Photo: [Khora Community Center](https://www.facebook.com/KhoraAthens/) team\)](assets/9755d8f1e0f4/1*y5AtY855J20pWBdr3gUGSg.jpeg)
+![Chios port \(Photo: [Khora Community Center](https://www.facebook.com/KhoraAthens/) team\)](../assets/9755d8f1e0f4/1*y5AtY855J20pWBdr3gUGSg.jpeg)
 
 Chios port \(Photo: [Khora Community Center](https://www.facebook.com/KhoraAthens/) team\)
 
@@ -27,12 +27,12 @@ In Samos hotspot, Souda Camp on Chios and Moria Camp on Lesvos some people are s
 Hotspots are all built to a similar spec, 7 foot metal fencing topped with razor wire\. Concrete and tightly packed ISO boxes\. Personal privacy is impossible\. Loudspeakers are positioned everywhere and frequently used\. A Greek solidarity worker described these sites as ‘designed to break people’\.
 
 
-![Chios, Souda \(Photo: [Khora Community Center](https://www.facebook.com/KhoraAthens/) team\)](assets/9755d8f1e0f4/1*lrVdvwOJFgVMtLjBhcmyBg.jpeg)
+![Chios, Souda \(Photo: [Khora Community Center](https://www.facebook.com/KhoraAthens/) team\)](../assets/9755d8f1e0f4/1*lrVdvwOJFgVMtLjBhcmyBg.jpeg)
 
 Chios, Souda \(Photo: [Khora Community Center](https://www.facebook.com/KhoraAthens/) team\)
 
 
-![Lesvos, Olive Grove Camp \(Photo: [Khora Community Center](https://www.facebook.com/KhoraAthens/) team\)](assets/9755d8f1e0f4/1*s_bqbQijJEiBaSeMOQjNvg.jpeg)
+![Lesvos, Olive Grove Camp \(Photo: [Khora Community Center](https://www.facebook.com/KhoraAthens/) team\)](../assets/9755d8f1e0f4/1*s_bqbQijJEiBaSeMOQjNvg.jpeg)
 
 Lesvos, Olive Grove Camp \(Photo: [Khora Community Center](https://www.facebook.com/KhoraAthens/) team\)
 
@@ -40,7 +40,7 @@ In all camps and hotspots there is a feeling of unease and tension\. Not only fr
 On Kos, in an olive grove outside the hotspot, after we had facilitated an impromptu workshop on legal rights, a young man from Kashmir came up holding the hand of his friend\. The man in his care could not make eye contact, was unable to follow conversations and seemed to be nonverbal\. We asked how someone so mentally unwell had managed the journey to Greece\. ‘He was well when he got here,’ they said\. His mental breakdown had occurred when he received his asylum rejection\.
 
 
-![Rhodes, “slaughterhouse”, official camp \(Photo: [Khora Community Center](https://www.facebook.com/KhoraAthens/) team\)](assets/9755d8f1e0f4/1*TynFFhFoXBSpBL7BHdlxqA.jpeg)
+![Rhodes, “slaughterhouse”, official camp \(Photo: [Khora Community Center](https://www.facebook.com/KhoraAthens/) team\)](../assets/9755d8f1e0f4/1*TynFFhFoXBSpBL7BHdlxqA.jpeg)
 
 Rhodes, “slaughterhouse”, official camp \(Photo: [Khora Community Center](https://www.facebook.com/KhoraAthens/) team\)
 
@@ -51,7 +51,7 @@ In Vial on Chios we were there just before a young Syrian man set himself on fir
 When I finally arrived back to Moria hotspot on Lesvos I was greeted by three young guys from Ghana debating their futures\. Two people they knew had just been taken to the police station to be deported back to Turkey\. Another man they knew had recently died\. ‘Some of us wanted to go and perform his burial rites,’ one of them said, ‘but they wouldn’t let us\. Where will his spirit go?’
 
 
-![Leros official camp \(Photo: [Khora Community Center](https://www.facebook.com/KhoraAthens/) team\)](assets/9755d8f1e0f4/1*b7KtMaMU52f4q10grg-5-g.jpeg)
+![Leros official camp \(Photo: [Khora Community Center](https://www.facebook.com/KhoraAthens/) team\)](../assets/9755d8f1e0f4/1*b7KtMaMU52f4q10grg-5-g.jpeg)
 
 Leros official camp \(Photo: [Khora Community Center](https://www.facebook.com/KhoraAthens/) team\)
 

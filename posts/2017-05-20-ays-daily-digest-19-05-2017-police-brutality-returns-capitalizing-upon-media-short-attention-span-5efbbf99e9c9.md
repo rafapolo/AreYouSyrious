@@ -1,13 +1,13 @@
 ---
-title: AYS Daily Digest 19/05/2017: Police brutality returns, capitalizing upon Media short attention span.
+title: "AYS Daily Digest 19/05/2017: Police brutality returns, capitalizing upon Media short attention span."
 author: Are You Syrious?
 date: 2017-05-20T08:10:46.078+0100
 last_modified_at: 2017-05-21T15:42:35.436+0100
 categories: 
 tags: [refugees,croatia,police-brutality]
-description: Also in this issue: calls for solidarity in Greece / attempted and successful evictions in Italy and France / Germany clamps down on asylum…
+description: "Also in this issue: calls for solidarity in Greece / attempted and successful evictions in Italy and France / Germany clamps down on asylum…"
 image:
-  path: assets/5efbbf99e9c9/1*Ugv5iF3d1vc1E2uoPmUC2Q.jpeg
+  path: ../assets/5efbbf99e9c9/1*Ugv5iF3d1vc1E2uoPmUC2Q.jpeg
 ---
 
 ### AYS Daily Digest 19/05/2017: Police brutality returns, capitalizing upon Media short attention span\.
@@ -15,7 +15,7 @@ image:
 _Also in this issue: calls for solidarity in Greece / attempted and successful evictions in Italy and France / Germany clamps down on asylum law_
 
 
-![Photo Courtesy: [**Underground Railroad**](https://www.facebook.com/Underground-Railroad-189218751575260/)](assets/5efbbf99e9c9/1*Ugv5iF3d1vc1E2uoPmUC2Q.jpeg)
+![Photo Courtesy: [**Underground Railroad**](https://www.facebook.com/Underground-Railroad-189218751575260/)](../assets/5efbbf99e9c9/1*Ugv5iF3d1vc1E2uoPmUC2Q.jpeg)
 
 Photo Courtesy: [**Underground Railroad**](https://www.facebook.com/Underground-Railroad-189218751575260/)
 ### FEATURE: Return to brutal police pushbacks from Croatia\.
@@ -23,7 +23,7 @@ Photo Courtesy: [**Underground Railroad**](https://www.facebook.com/Underground-
 Various NGOs and civil society organizations are [striving to unite their strategies](http://www.forum.tm/vijesti/nasilne-deportacije-udruge-iz-regije-zajedno-protiv-krsenja-prava-izbjeglica-5679) in order to respond to coordinated efforts on the part of governments across the region in pushing back and deporting refugees and migrants\. After [a campaign to bring attention to the systematic beating](http://welcome.cms.hr/index.php/en/2017/01/30/report-on-illegal-and-forced-push-backs-of-refugees-from-the-republic-of-croatia/) and illegal pushback of refugees and migrants in the winter of 2016/2017, activists and volunteers in Serbia and Croatia noted a reduction of reported incidents of violence against refugees\. However, that has changed\. AYS Volunteers and other volunteers in Šid and Belgrade report more refugees coming to them with stories of beatings\.
 
 
-![Photo credit: Are You Syrious](assets/5efbbf99e9c9/1*ty-8zZAMHAZRpQWVAIgs9Q.jpeg)
+![Photo credit: Are You Syrious](../assets/5efbbf99e9c9/1*ty-8zZAMHAZRpQWVAIgs9Q.jpeg)
 
 Photo credit: Are You Syrious
 
@@ -37,7 +37,7 @@ A detailed account is found below\.
 
 
 
-![Photo credit: Are You Syrious](assets/5efbbf99e9c9/1*yOUjp7u6CsdfyiIQLsIYFg.jpeg)
+![Photo credit: Are You Syrious](../assets/5efbbf99e9c9/1*yOUjp7u6CsdfyiIQLsIYFg.jpeg)
 
 Photo credit: Are You Syrious
 
@@ -83,19 +83,19 @@ Support like this is helpful in so many ways as it encourages and affirms autono
 Humans from No Border Camp Thessaloniki posted the following notice of a call for solidarity with those being taken to court in the aftermath of the Orfanotrofeio squat being evicted\. There will also be a benefit concert to help defray the court costs\.
 
 
-![](assets/5efbbf99e9c9/1*f6icp9xn2ieLHOX1xAuleQ.jpeg)
+![](../assets/5efbbf99e9c9/1*f6icp9xn2ieLHOX1xAuleQ.jpeg)
 
 #### DRAMA
 
 [**Everyday, just a smile**](https://www.facebook.com/everydayjustasmile/) brought some much needed fun to the Drama camp in the form of badminton, playing cards, beach volleyball equipment and and backgammon\. A great time was had by all as one can see\. :\)
 
 
-![Photo credit: Everyday, Just a Smile](assets/5efbbf99e9c9/1*PHyU8KfoaZzUgnv5QJAYgg.jpeg)
+![Photo credit: Everyday, Just a Smile](../assets/5efbbf99e9c9/1*PHyU8KfoaZzUgnv5QJAYgg.jpeg)
 
 Photo credit: Everyday, Just a Smile
 
 
-![Photo credit: Everyday, Just a Smile](assets/5efbbf99e9c9/1*IZc8JTPUCQegS-D5xI92Qw.jpeg)
+![Photo credit: Everyday, Just a Smile](../assets/5efbbf99e9c9/1*IZc8JTPUCQegS-D5xI92Qw.jpeg)
 
 Photo credit: Everyday, Just a Smile
 ### SERBIA
@@ -149,7 +149,7 @@ Below is an extract from the account made by volunteers Sabrina Wirth\-Sokolik a
 “This morning we left for the Dunkirk “jungle” beside the former camp across the highway\. We arrived around the time of the lunch time distribution, as usual, and caught up with some friends to see how they were doing\. When they were showing us the area where they were sleeping and the way that the water seeped through their tents overnight, they asked us if we could help get them some waterproof tarps so that they could sleep dry\. We joined forces with some lovely Dutch volunteers and purchased all the necessary equipment at nearby Auchan\. We never imagined the way the rest of the day would end up turning out…\.”
 
 
-![Evictions in Dunkirk\. Photo Credit: Adrian Torres\.](assets/5efbbf99e9c9/1*gGWwpg-h8zXpBAVK8LGfCA.jpeg)
+![Evictions in Dunkirk\. Photo Credit: Adrian Torres\.](../assets/5efbbf99e9c9/1*gGWwpg-h8zXpBAVK8LGfCA.jpeg)
 
 Evictions in Dunkirk\. Photo Credit: Adrian Torres\.
 

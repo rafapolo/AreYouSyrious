@@ -1,5 +1,5 @@
 ---
-title: AYS Daily DIgest 28/02/20: Stuck in No Man’s Land
+title: "AYS Daily DIgest 28/02/20: Stuck in No Man’s Land"
 author: Are You Syrious?
 date: 2020-02-29T11:46:35.515+0000
 last_modified_at: 2020-03-02T12:45:24.156+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,neofascism,deportations,turkey]
 description: Refugees head towards the border // Fascism on the rise in Serbia // Family Faces Deportation after 15 years in Sweden
 image:
-  path: assets/bb74e2f913ee/0*6tPqXH44y5uuq_mt
+  path: ../assets/bb74e2f913ee/0*6tPqXH44y5uuq_mt
 ---
 
 ### AYS Daily Digest 28/2/2020: Stuck in No Man’s Land
@@ -15,7 +15,7 @@ image:
 Refugees head towards the border // Fascism on the rise in Serbia // Family faces deportation after 15 years in Sweden
 
 
-![](assets/bb74e2f913ee/0*6tPqXH44y5uuq_mt)
+![](../assets/bb74e2f913ee/0*6tPqXH44y5uuq_mt)
 
 ### **Greece / Turkey Border Situation**
 

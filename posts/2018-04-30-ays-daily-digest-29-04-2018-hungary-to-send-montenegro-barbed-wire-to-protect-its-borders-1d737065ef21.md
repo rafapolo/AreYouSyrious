@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 29/04/2018: Hungary to send Montenegro barbed wire to protect its borders
+title: "AYS DAILY DIGEST 29/04/2018: Hungary to send Montenegro barbed wire to protect its borders"
 author: Are You Syrious?
 date: 2018-04-30T10:06:52.460+0100
 last_modified_at: 2018-04-30T11:03:01.180+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,fortress-europe,greece,solidarity]
 description: Barbed wire being sent to Montenegro from Hungary—a worrisome gift//Number of people crossing the border from Turkey to Greece by land…
 image:
-  path: assets/1d737065ef21/1*wmWqZ0oUXX6HmOOwK-FzCg.jpeg
+  path: ../assets/1d737065ef21/1*wmWqZ0oUXX6HmOOwK-FzCg.jpeg
 ---
 
 ### AYS DAILY DIGEST 29/04/2018: Hungary to send Montenegro barbed wire to protect its borders
@@ -15,7 +15,7 @@ image:
 _Barbed wire being sent to Montenegro from Hungary—a worrisome gift//Number of people crossing the border from Turkey to Greece by land rises//11 people drowned off the coast of Algeria//Volunteers and funds needed in Calais and Dunkirk//A recent list was published with the disturbance actions conducted by the French police in Calais //More news from the UK, Greece…_
 
 
-![Credit: Defend Solidarity — smash the borders](assets/1d737065ef21/1*wmWqZ0oUXX6HmOOwK-FzCg.jpeg)
+![Credit: Defend Solidarity — smash the borders](../assets/1d737065ef21/1*wmWqZ0oUXX6HmOOwK-FzCg.jpeg)
 
 Credit: Defend Solidarity — smash the borders
 
@@ -57,12 +57,12 @@ As the [media](https://www.theguardian.com/world/2018/apr/29/greece-reinforces-l
 As the tensions rise for those who have been stranded on the islands for a long time, new fights broke out this Sunday in Moria camp, leading to police interventions, fires, and possible damage to some of the containers used for the medical workers on site, reports AYS collaborator\.
 
 
-![Credit: NoBorder](assets/1d737065ef21/1*69XGJViODL7WSkAyrb9i4w.jpeg)
+![Credit: NoBorder](../assets/1d737065ef21/1*69XGJViODL7WSkAyrb9i4w.jpeg)
 
 Credit: NoBorder
 
 
-![Credit: DINIT](assets/1d737065ef21/1*A7-ETiJz-dlKHfoU_aoi0Q.jpeg)
+![Credit: DINIT](../assets/1d737065ef21/1*A7-ETiJz-dlKHfoU_aoi0Q.jpeg)
 
 Credit: DINIT
 

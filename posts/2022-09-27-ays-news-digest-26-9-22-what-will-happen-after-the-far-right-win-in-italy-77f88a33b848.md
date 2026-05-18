@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 26/9/22: What will happen after the far-right win in Italy?
+title: "AYS News Digest 26/9/22: What will happen after the far-right win in Italy?"
 author: Are You Syrious?
 date: 2022-09-27T21:30:03.822+0100
 last_modified_at: 2022-09-28T14:23:42.954+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [italy,home-office,digest,refugees,policy]
 description: Increasing death rates in Home Office accommodation/Six people drowned in the Aegean, including four children/Case of the 2011 shipwreck…
 image:
-  path: assets/77f88a33b848/1*r1CUCWrmrbwYfmag79nl-w.png
+  path: ../assets/77f88a33b848/1*r1CUCWrmrbwYfmag79nl-w.png
 ---
 
 ### AYS News Digest 26/9/22: What will happen after the far\-right win in Italy?
@@ -15,7 +15,7 @@ image:
 Increasing death rates in Home Office accommodation/Six people drowned in the Aegean, including four children/Case of the 2011 shipwreck has been re\-opened in France/One woman believed to have died after being forced by border guards to swim back across the Świsłocz river in Poland/and much more…
 
 
-![Men disembark the Spanish NGO Open Arms lifeguard ship after docking at Messina port, in Sicily, Italy, on Thursday\. Source: The Washington Post, 26/9/2022](assets/77f88a33b848/1*r1CUCWrmrbwYfmag79nl-w.png)
+![Men disembark the Spanish NGO Open Arms lifeguard ship after docking at Messina port, in Sicily, Italy, on Thursday\. Source: The Washington Post, 26/9/2022](../assets/77f88a33b848/1*r1CUCWrmrbwYfmag79nl-w.png)
 
 Men disembark the Spanish NGO Open Arms lifeguard ship after docking at Messina port, in Sicily, Italy, on Thursday\. Source: The Washington Post, 26/9/2022
 #### FEATURE
@@ -46,7 +46,7 @@ Another important aspect are the sea crossings\. Already a sensitive topic in th
 The question is \(how\) the EU will be able and willing to respond and find a position on all this in spite of Italy’s firm political stance which is slowly, but seemingly surely, moving towards the vision the Hungarian president has for the European societies…
 
 
-![Source: InfoMigrants \(26/9/2022\) ‘Fears for the future of migrants as Italy shifts to the right’](assets/77f88a33b848/0*zDi3fyFQjYmoat95.jpg)
+![Source: InfoMigrants \(26/9/2022\) ‘Fears for the future of migrants as Italy shifts to the right’](../assets/77f88a33b848/0*zDi3fyFQjYmoat95.jpg)
 
 Source: InfoMigrants \(26/9/2022\) ‘Fears for the future of migrants as Italy shifts to the right’
 #### SERBIA

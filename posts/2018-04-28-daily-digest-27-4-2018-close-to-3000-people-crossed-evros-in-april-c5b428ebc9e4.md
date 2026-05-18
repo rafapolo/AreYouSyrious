@@ -1,5 +1,5 @@
 ---
-title: DAILY DIGEST 27/4/2018: Close to 3000 people crossed Evros in April
+title: "DAILY DIGEST 27/4/2018: Close to 3000 people crossed Evros in April"
 author: Are You Syrious?
 date: 2018-04-28T10:03:17.423+0100
 last_modified_at: 2018-04-28T11:16:06.350+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,evros-river,greece,bosnia]
 description: No adequate accommodation for people in Greece, again // Help is needed n Athens and Thessaloniki // Situation in Italy for people on the…
 image:
-  path: assets/c5b428ebc9e4/1*qiMHE_OoZMTeSy9AnzeY1w.jpeg
+  path: ../assets/c5b428ebc9e4/1*qiMHE_OoZMTeSy9AnzeY1w.jpeg
 ---
 
 ### DAILY DIGEST 27/4/2018: Close to 3000 people crossed Evros in April
@@ -15,7 +15,7 @@ image:
 _No adequate accommodation for people in Greece, again // Help is needed n Athens and Thessaloniki // Situation in Italy for people on the move, but also volunteers, more difficult // Maybe Bosnian government have a plan to assist growing number of people who are arriving // Solidarity March on April 30th_
 
 
-![Another ugly camp reopens — Oinofyta, Greece\. Photo by Arash Humpray\.](assets/c5b428ebc9e4/1*qiMHE_OoZMTeSy9AnzeY1w.jpeg)
+![Another ugly camp reopens — Oinofyta, Greece\. Photo by Arash Humpray\.](../assets/c5b428ebc9e4/1*qiMHE_OoZMTeSy9AnzeY1w.jpeg)
 
 Another ugly camp reopens — Oinofyta, Greece\. Photo by Arash Humpray\.
 ### FEATURE
@@ -56,7 +56,7 @@ Among them is Noor Alattar who posted about life in Oinofyta:
 _“They gave me a small room with almost 10 people in an old factory and it is very dirty and very far\. Also, it is not really a camp\. This is a village only for factories\. When I was in Lesbos in Care Tepe it was better than here\. The UNHCR told me they would bring me to a good place, a safe place, because I am sick, and that I would have surgery soon\. They lied to me\. Also, here it is very dangerous\. Most of the young guys take drugs\. And there is no shop, no market, nothing here\. If someone has pains or something at night, there is no doctor\. Can someone help me? \! \! If I had known they would bring me here I wouldn’t have come\.”_
 
 
-![nPhoto by Noor Alattar](assets/c5b428ebc9e4/1*PTyTODW47OeICsRR-3V3tQ.jpeg)
+![nPhoto by Noor Alattar](../assets/c5b428ebc9e4/1*PTyTODW47OeICsRR-3V3tQ.jpeg)
 
 nPhoto by Noor Alattar
 
@@ -88,7 +88,7 @@ The centre was [opened in January](https://hurriya.noblogs.org/.../aperto-durgen
 Bad living conditions are reported in the reception centre in Mineo, Italy\. [Some are describing](https://www.facebook.com/carovanemigranti/posts/1261907113952949) it as a kind of concentration camp for migrants\.
 
 
-![PHOTO by Guadalupe Pérez Rodríguez](assets/c5b428ebc9e4/1*EAGPyS8HTHsxaogaAVTMFg.jpeg)
+![PHOTO by Guadalupe Pérez Rodríguez](../assets/c5b428ebc9e4/1*EAGPyS8HTHsxaogaAVTMFg.jpeg)
 
 PHOTO by Guadalupe Pérez Rodríguez
 ### Bosnia
@@ -107,7 +107,7 @@ If you would like to get involved at any stage of the walk, support a participan
 The [Maritime Alps](https://www.helloasso.com/associations/defends-ta-citoyennete/evenements/concert-de-cali) are ready to welcome the solidarity March of L’Auberge des Migrants\! This is the programme\-Sur\-Roya program to Cannes\.
 
 
-![](assets/c5b428ebc9e4/1*s_m7rBEXDHYOE09DCh1B0w.jpeg)
+![](../assets/c5b428ebc9e4/1*s_m7rBEXDHYOE09DCh1B0w.jpeg)
 
 
 [Délinquants solitaires group reports](https://blogs.mediapart.fr/association-gisti/blog/270418/jusqu-ou-iront-gouvernement-police-et-justice-pour-decourager-la-solidarite) on police violence against volunteers and people on the move following the crossing of the French\-Italian border\.

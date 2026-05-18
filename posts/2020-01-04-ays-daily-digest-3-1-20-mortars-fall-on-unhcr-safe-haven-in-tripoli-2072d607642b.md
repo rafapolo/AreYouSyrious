@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 3/1/20: Mortars fall on UNHCR “safe haven” in Tripoli
+title: "AYS Daily Digest 3/1/20: Mortars fall on UNHCR “safe haven” in Tripoli"
 author: Are You Syrious?
 date: 2020-01-04T10:24:12.145+0000
 last_modified_at: 2020-01-04T10:24:12.145+0000
@@ -7,18 +7,18 @@ categories: Are You Syrious?
 tags: []
 description: In the GDF centre, people are deliberately starved as UNHCR tries to make them leave / 25,000–50,000 refugees expected to flee Libya to…
 image:
-  path: assets/2072d607642b/0*IflptoVHsHL96QQb.png
+  path: ../assets/2072d607642b/0*IflptoVHsHL96QQb.png
 ---
 
 ### AYS Daily Digest 3/1/20: Mortars fall on UNHCR “safe haven” in Tripoli
 #### In the GDF centre, people are deliberately starved as UNHCR tries to make them leave / 25,000–50,000 refugees expected to flee Libya to Tunisia, new border camp announced / Up to 15 people drowned off Turkish coast / Greece publishes a list of 12 safe countries to deport people / Following months of local solidarity, Pomozi\.ba to host migrants in near Tuzla
 
 
-![](assets/2072d607642b/0*hGT91MRD6iqLKGwf)
+![](../assets/2072d607642b/0*hGT91MRD6iqLKGwf)
 
 
 
-![](assets/2072d607642b/0*IflptoVHsHL96QQb.png)
+![](../assets/2072d607642b/0*IflptoVHsHL96QQb.png)
 
 
 The mortar attack at the site happened on the day of memorial of the deadly airstrike on Tajura detention center, when at least 53 people were killed in the airstrike and 130 were injured\. Photo: [Sally Hayden](https://twitter.com/sallyhayd)
@@ -36,11 +36,11 @@ According to witnesses at the UNHCR Gathering and Departure Facility \(GDF\) in 
 Following their usual protocol in such cases, UNHCR have evacuated the site immediately, leaving people to return at their own risk\.
 
 
-![](assets/2072d607642b/0*AXQxRIdrqZ61IDUl)
+![](../assets/2072d607642b/0*AXQxRIdrqZ61IDUl)
 
 
 
-![](assets/2072d607642b/0*ZkpIX1gDwIHLd-07.png)
+![](../assets/2072d607642b/0*ZkpIX1gDwIHLd-07.png)
 
 
 Snapshot of the chaotic evacuation of the GDF\. Photo: Sally Hayden
@@ -60,11 +60,11 @@ The official capacity of the facility is 600, but it hosts up to 1100 people\. I
 In late October, many people including the most vulnerable families were told by the UNHCR officials there are no spots for them in the reallocation scheme and were asked to leave the GDF\.
 
 
-![](assets/2072d607642b/0*PMyaTIyR_SxSkTky)
+![](../assets/2072d607642b/0*PMyaTIyR_SxSkTky)
 
 
 
-![](assets/2072d607642b/0*WLeukBuY9HQDjEOj.jpeg)
+![](../assets/2072d607642b/0*WLeukBuY9HQDjEOj.jpeg)
 
 
 Families protesting rejections from UNHCR in front of the GDF in Tripoli\. Photo: Sally Hayden
@@ -88,11 +88,11 @@ The governor of Tataouine, Adel Al\-Warghi said that the border area of ​​Bi
 ### Up to 15 people drowned off Turkish coast
 
 
-![](assets/2072d607642b/0*qX3OuyqIqypJEtj9)
+![](../assets/2072d607642b/0*qX3OuyqIqypJEtj9)
 
 
 
-![](assets/2072d607642b/0*mr35Sr624xKOcnXR.jpeg)
+![](../assets/2072d607642b/0*mr35Sr624xKOcnXR.jpeg)
 
 
 The boat was heading towards Rhodes\. Nationalities of deceased are not revealed\. Photo: ABR
@@ -130,11 +130,11 @@ AlarmPhone has published a list of death and forced disappearances witnessed by 
 
 
 
-![](assets/2072d607642b/0*8siw2S1NaXqyd9rm)
+![](../assets/2072d607642b/0*8siw2S1NaXqyd9rm)
 
 
 
-![](assets/2072d607642b/0*zp_hUL1DjYxnfcrA.png)
+![](../assets/2072d607642b/0*zp_hUL1DjYxnfcrA.png)
 
 
 Families still mourn those who dissapeared in the sea\. Photo: AlarmPhone
@@ -153,11 +153,11 @@ Bosnian NGO Pomozi\.ba confirmed they will be supporting migrants in a new facil
 Pomozi\.ba has been distributing thousands of meals to refugees in Ušivak and Blažuj camps, where people evicted from Vučjak camp have been transferred\. The distribution in the camps is supported by EU funding\.
 
 
-![](assets/2072d607642b/0*UTg7cgaz3tyruDdP)
+![](../assets/2072d607642b/0*UTg7cgaz3tyruDdP)
 
 
 
-![](assets/2072d607642b/0*kzCp3z6AYcOQ-D5F.jpeg)
+![](../assets/2072d607642b/0*kzCp3z6AYcOQ-D5F.jpeg)
 
 
 Distribution in one of the camps where people from Vučjak have been transferred\. Photo: Pomozi\.ba
@@ -171,11 +171,11 @@ As temperatures fall below zero degrees celsius, people in Serbian camps are try
 A group of 42 people from Sub\-Saharan Africa, including 26 women and two small children, appeared at Chafarinas Islands this morning, trying to find refuge in Europe\. Against international laws and conventions, members of the Spanish Civil Guard collectivelly expelled them back to Morocco\. According to [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/) , upon arrival to Morocco, women and children were put on buses and brought back, even deeper into Morrocan territory, while men were put in detention\.
 
 
-![](assets/2072d607642b/0*NEAPQ3XdI0VyRZrC)
+![](../assets/2072d607642b/0*NEAPQ3XdI0VyRZrC)
 
 
 
-![](assets/2072d607642b/0*-C4Ydyv2Q4TN5p1z.jpeg)
+![](../assets/2072d607642b/0*-C4Ydyv2Q4TN5p1z.jpeg)
 
 
 They asked for protection, only to be returned back to Morocco\. Photo: [Helena Maleno Garzón](https://www.facebook.com/helena.malenogarzon?__tn__=%2CdCH-R-R&eid=ARAhaih_gS7F5ZKj_deVl1QhRmSID-yBxGcY9hIVmPt5oeI036AJRFRmtI5aNFkHOigQG1rzqvH-RJVP&hc_ref=ARQ6fB6zA7IMRtpIlbLzpT3aVZ6ixN75ZuDQbtStuF7uTUN87N4PQ5wKlL0URSgjrQ4&fref=nf&hc_location=group)

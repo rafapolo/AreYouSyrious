@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 20/08/20: A Coast Guard that does not reply emergency calls
+title: "AYS Daily Digest 20/08/20: A Coast Guard that does not reply emergency calls"
 author: Are You Syrious?
 date: 2020-08-21T13:59:36.333+0100
 last_modified_at: 2020-08-21T15:39:34.133+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,europe,digest,mediterranean,greece]
 description: While IOM and UNHCR express their grief about a shipwreck, Alarm Phone reminds them of another one that has been ignored by authorities //…
 image:
-  path: assets/3e1697b8c6bc/1*xUo13wddFdwFK2GjGrtjCQ.jpeg
+  path: ../assets/3e1697b8c6bc/1*xUo13wddFdwFK2GjGrtjCQ.jpeg
 ---
 
 ### AYS Daily Digest 20/08/20: A Coast Guard that does not reply to emergency calls
 #### While IOM and UNHCR express their grief about a shipwreck, Alarm Phone reminds them of another one that has been ignored by authorities // clashes between police and locals in Moria and attacks against refugees and support infrastructure // Greek PM upholds denial of pushbacks //
 
 
-![copyright: Carlo Lania](assets/3e1697b8c6bc/1*xUo13wddFdwFK2GjGrtjCQ.jpeg)
+![copyright: Carlo Lania](../assets/3e1697b8c6bc/1*xUo13wddFdwFK2GjGrtjCQ.jpeg)
 
 copyright: Carlo Lania
 ### FEATURE: More Lives lost at Sea
@@ -231,7 +231,7 @@ Find many useful resources on their FB page\.
 As we reported yesterday, the body of a 16\-year\-old boy from Sudan was found on Wednesday morning on the beach of Sangatte \(Pas\-de\-Calais\) \. He died while trying to cross the Channel to the UK\. His name was WAJDI HADALLAH HAMMAD\. A rally in his memory was held on Thursday at 6\.30 pm in Richelieu Park in Calais\.
 
 
-![copyright: Passeurs d’hospitalités](assets/3e1697b8c6bc/1*XbiYR0y3xV9UX7AMutS-FA.jpeg)
+![copyright: Passeurs d’hospitalités](../assets/3e1697b8c6bc/1*XbiYR0y3xV9UX7AMutS-FA.jpeg)
 
 copyright: Passeurs d’hospitalités
 ### UK

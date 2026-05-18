@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 20/4/21: With every step, proof that people are not meant to settle, feel at home…
+title: "AYS Daily Digest 20/4/21: With every step, proof that people are not meant to settle, feel at home…"
 author: Are You Syrious?
 date: 2021-04-21T16:11:24.204+0100
 last_modified_at: 2021-04-21T16:11:24.204+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [ceuta,morocco,refugees,denmark,montenegro]
 description: Montenegro centre deprives people of food, Croatian banks still don’t allow people under international protection from certain countries…
 image:
-  path: assets/c2e3cb40ddad/0*cphOHqUVsSYGsuzq
+  path: ../assets/c2e3cb40ddad/0*cphOHqUVsSYGsuzq
 ---
 
 ### AYS Daily Digest 20/4/21: With every step, proof that people are not meant to settle, feel at home, or ‘integrate’
 #### Montenegro centre deprives people of food, Croatian banks still don’t allow people under international protection from certain countries to hold bank accounts, Denmark widens the range of options to deny people the right to stay, while Spain keeps people in permanent “statelessness” // German court decides two Syrian sisters can’t be “doublined” back to Greece due to conditions there // Recommended reads & more
 
 
-![Lesvos photo by: [**Isabel Schayani**](https://twitter.com/isabelschayani)](assets/c2e3cb40ddad/0*cphOHqUVsSYGsuzq)
+![Lesvos photo by: [**Isabel Schayani**](https://twitter.com/isabelschayani)](../assets/c2e3cb40ddad/0*cphOHqUVsSYGsuzq)
 
 Lesvos photo by: [**Isabel Schayani**](https://twitter.com/isabelschayani)
 #### FEATURED
@@ -49,7 +49,7 @@ Also, as Franziska Grillmeier reports, most of the newly arrived people on Lesvo
 ### On trial
 
 
-![](assets/c2e3cb40ddad/0*dytRlHraYtn3rD6s)
+![](../assets/c2e3cb40ddad/0*dytRlHraYtn3rD6s)
 
 
 A young man from Syria is on trial today in Lesvos, threatened with decades in prison\. Because the man, known as K\.S\., fled to Greece together with his wife & children on a rubber boat, he is now accused of “illegal entry”, “facilitating illegal entry” and “provoking a shipwreck”\.
@@ -59,7 +59,7 @@ The Greek state had unlawfully suspended the right to asylum as part of a politi
 **Event announcement — Coordination against evictions:**
 
 
-![](assets/c2e3cb40ddad/0*xJ03N5Ayjgo1gpyq)
+![](../assets/c2e3cb40ddad/0*xJ03N5Ayjgo1gpyq)
 
 #### CROATIA
 ### Still no changes in the treatment of asylum seekers by the banks
@@ -95,7 +95,7 @@ Many Moroccans are trapped in the Spanish territory of Ceuta without documentati
 This is made more difficult by the fact that the land border with Morocco has been closed indefinitely since March 2020, leaving many undocumented or irregular Moroccans trapped in Ceuta and without the possibility of returning to their country to receive the rights they are deprived of in Spain\. In this way, many people remain stateless in their hometowns\. Without registering their residence, it seems impossible their situation will change, keeping the rights to which they are entitled permanently outside of their reach\.
 
 
-![Read [the story](https://www.facebook.com/NoNameKitchenBelgrade/posts/1222069071524708) about one such family who are deprived of chances to have a decent life where they live and were born, documented by the local NNK team\. \(Photo: Irina Samy, via NNK\)](assets/c2e3cb40ddad/0*GEf-4egK4eJ48NQM)
+![Read [the story](https://www.facebook.com/NoNameKitchenBelgrade/posts/1222069071524708) about one such family who are deprived of chances to have a decent life where they live and were born, documented by the local NNK team\. \(Photo: Irina Samy, via NNK\)](../assets/c2e3cb40ddad/0*GEf-4egK4eJ48NQM)
 
 Read [the story](https://www.facebook.com/NoNameKitchenBelgrade/posts/1222069071524708) about one such family who are deprived of chances to have a decent life where they live and were born, documented by the local NNK team\. \(Photo: Irina Samy, via NNK\)
 #### GERMANY
@@ -132,11 +132,11 @@ Foreign nationals applying to become Danish citizens could [reportedly](https://
 In a line of accusations, critique and opposition to the Danish government’s decision to deport people back to Syria, marking it a safe place to return to, a number of experts are now sharing their insights in the latest of critical letters addressing the decision of the official Denmark:
 
 
-![](assets/c2e3cb40ddad/1*hlx3fn9WH5ZqmXSLFU0DWw.jpeg)
+![](../assets/c2e3cb40ddad/1*hlx3fn9WH5ZqmXSLFU0DWw.jpeg)
 
 
 
-![](assets/c2e3cb40ddad/1*f7P1PYkuS-mO3Zh_HTLZuQ.jpeg)
+![](../assets/c2e3cb40ddad/1*f7P1PYkuS-mO3Zh_HTLZuQ.jpeg)
 
 
 

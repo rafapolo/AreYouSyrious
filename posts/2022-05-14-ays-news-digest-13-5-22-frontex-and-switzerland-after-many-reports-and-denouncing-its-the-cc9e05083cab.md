@@ -1,20 +1,20 @@
 ---
-title: AYS News Digest 13/5/22: Frontex and Switzerland — After many reports and denouncing, it’s the…
+title: "AYS News Digest 13/5/22: Frontex and Switzerland — After many reports and denouncing, it’s the…"
 author: Are You Syrious?
 date: 2022-05-14T21:50:28.728+0100
 last_modified_at: 2022-05-14T21:50:28.728+0100
 categories: Are You Syrious?
 tags: [digest,europe,ukraine,rwanda,refugees]
-description: Germany: 1in 3 negative asylum decisions handed down by BAMF end up being revised after initial court appeals / Hunger strike in…
+description: "Germany: 1in 3 negative asylum decisions handed down by BAMF end up being revised after initial court appeals / Hunger strike in…"
 image:
-  path: assets/cc9e05083cab/0*vx7qz0uNHKujAvCq.jpeg
+  path: ../assets/cc9e05083cab/0*vx7qz0uNHKujAvCq.jpeg
 ---
 
 ### AYS News Digest 13/5/22: Frontex and Switzerland — After many reports and denouncing, it’s the whistleblowers who raise the concern with people
 #### Germany: 1in 3 negative asylum decisions handed down by BAMF end up being revised after initial court appeals / Hunger strike in Lesznowola / embarrassing data breach in the Greek migration report / calls for volunteers in France / how to support anti Rwanda deal efforts in the UK / \+ our team prepared some very interesting and highly useful articles, analysis, reports and personal stories — don’t miss it
 
 
-![](assets/cc9e05083cab/0*vx7qz0uNHKujAvCq.jpeg)
+![](../assets/cc9e05083cab/0*vx7qz0uNHKujAvCq.jpeg)
 
 
 Photo source: Frontex
@@ -23,7 +23,7 @@ Photo source: Frontex
 Fearing that the country may end up being an accomplice in unlawful actions, a Swiss border guard who served in around 10 Frontex operations has said he will vote “no” in the upcoming referendum on whether or not to increase the Swiss funding of Frontex\.
 
 
-![](assets/cc9e05083cab/0*IMQJ1dsg_ljQpEGf)
+![](../assets/cc9e05083cab/0*IMQJ1dsg_ljQpEGf)
 
 
 “Frontex has been allowed to operate along Europe’s borders without any oversight, and why the chances are low that anything will change despite their leader resigning to avoid the music\.” Hear the latest [@refocusmedialabs](https://www.instagram.com/_u/refocusmedialabs?fbclid=IwAR2GawPJvz6tTPq6PlxHins5pcEqlITrECFUpe0m9mNjyr3fqc-fCXR4Wto) podcast
@@ -74,7 +74,7 @@ Speaking of preserving the identity, privacy and rights of those we claim to be 
 
 
 
-![](assets/cc9e05083cab/0*HchhJ4y1_qdR6r5W)
+![](../assets/cc9e05083cab/0*HchhJ4y1_qdR6r5W)
 
 
 Suspended Lives\-Letters to the world from Ritsona” — In the bookstores of France\-Paris
@@ -101,7 +101,7 @@ Salvamento Marítimo saved 15 people at sea in the early morning hours of Friday
 ### Volunteers report from the Ceuta Circle of Silence
 
 
-![](assets/cc9e05083cab/0*tAu_C6joEXRvfDZv)
+![](../assets/cc9e05083cab/0*tAu_C6joEXRvfDZv)
 
 
 NNK volunteers in Ceuta write:
@@ -133,23 +133,23 @@ As the water tanks are being pierced, distributions prohibited and provisional c
 [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__tn__=-UC*F) is looking for people willing to engage in helping:
 
 
-![](assets/cc9e05083cab/0*_pECywrdgi47dVGo.jpeg)
+![](../assets/cc9e05083cab/0*_pECywrdgi47dVGo.jpeg)
 
 
 
-![](assets/cc9e05083cab/0*I-_639KB4Ik1jukD.jpeg)
+![](../assets/cc9e05083cab/0*I-_639KB4Ik1jukD.jpeg)
 
 
 
-![](assets/cc9e05083cab/0*jvCK3IoVrSK463H7.jpeg)
+![](../assets/cc9e05083cab/0*jvCK3IoVrSK463H7.jpeg)
 
 
 
-![](assets/cc9e05083cab/0*EOLj7VW3wLy4buiw.jpeg)
+![](../assets/cc9e05083cab/0*EOLj7VW3wLy4buiw.jpeg)
 
 
 
-![](assets/cc9e05083cab/0*P2nYeWB2UJKi_hnL.jpeg)
+![](../assets/cc9e05083cab/0*P2nYeWB2UJKi_hnL.jpeg)
 
 ### POLAND
 

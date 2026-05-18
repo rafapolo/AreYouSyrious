@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 27–28/6/2020: Baby born on a dinghy was pushed back to Libya
+title: "AYS Weekend Digest 27–28/6/2020: Baby born on a dinghy was pushed back to Libya"
 author: Are You Syrious?
 date: 2020-06-29T13:49:10.831+0100
 last_modified_at: 2020-06-29T14:18:46.912+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,europe,digest,uk,carola-rackete]
 description: Interceptions and push-backs at Sea //Statement by Carola Rackete on the anniversary of her act of civil disobedience // concerns of Moria…
 image:
-  path: assets/33a3d6768d8d/1*k9RcGdCb9Zc-JDU_4Sn0EA.jpeg
+  path: ../assets/33a3d6768d8d/1*k9RcGdCb9Zc-JDU_4Sn0EA.jpeg
 ---
 
 ### AYS Weekend Digest 27–28/6/2020: Baby born on a dinghy was pushed back to Libya
 #### Interceptions and push\-backs at sea // Statement by Carola Rackete on the anniversary of her act of civil disobedience // Concerns of Moria Corona Awareness Team // Call on EU to ensure safety of LGBTIQ person in Balkan corridor // New report on Bulgaria published // News about the tragic incident in Glasgow on Friday and the situation of the people held in hotels for over three months now
 
 
-![This baby was born on board a dinghy in the Mediterranean, ignored by European authorities and later pushed back to Libya\. Picture taken from Twitter of Sara Creta\.](assets/33a3d6768d8d/1*k9RcGdCb9Zc-JDU_4Sn0EA.jpeg)
+![This baby was born on board a dinghy in the Mediterranean, ignored by European authorities and later pushed back to Libya\. Picture taken from Twitter of Sara Creta\.](../assets/33a3d6768d8d/1*k9RcGdCb9Zc-JDU_4Sn0EA.jpeg)
 
 This baby was born on board a dinghy in the Mediterranean, ignored by European authorities and later pushed back to Libya\. Picture taken from Twitter of Sara Creta\.
 ### FEATURE: Being pushed back to Libya on the first day of your life
@@ -83,7 +83,7 @@ Find her full statement here:
 In order to make the voices of these marginalized people heard Carola will host a panel today at 4pm under this link:
 
 
-[![Migration Criminalization in the eyes of non-white migration activists: Hosted by Carola Rackete.](assets/33a3d6768d8d/d7d9_hqdefault.jpg "Migration Criminalization in the eyes of non-white migration activists: Hosted by Carola Rackete.")](https://www.youtube.com/watch?v=XZ3QztOssJE)
+[![Migration Criminalization in the eyes of non-white migration activists: Hosted by Carola Rackete.](../assets/33a3d6768d8d/d7d9_hqdefault.jpg "Migration Criminalization in the eyes of non-white migration activists: Hosted by Carola Rackete.")](https://www.youtube.com/watch?v=XZ3QztOssJE)
 
 
 Various other Webinars will take place during the week\. Find more information here:
@@ -154,7 +154,7 @@ For more information, see:
 Members of _SOS Balkanroute_ handed the _Border Violence Monitoring Network’s_ report about border violence along the Balkan corridor over to various German and Austrian Members of Parliament\. The 1673 page report collects testimonies of 500 violent push\-backs at the Croatian border alone\. By handing these documents over to politicians, the activists want to make sure that the topic is not left aside\.
 
 
-![Elke Kahr, KPÖ Graz, Austria and Gregor Gysi, DIE LINKE, Germany, together with a member of SOS Balkanroute\. Copyright: Peter Brandstetter](assets/33a3d6768d8d/1*YP-su-GHMoeO256_3B3aEw.jpeg)
+![Elke Kahr, KPÖ Graz, Austria and Gregor Gysi, DIE LINKE, Germany, together with a member of SOS Balkanroute\. Copyright: Peter Brandstetter](../assets/33a3d6768d8d/1*YP-su-GHMoeO256_3B3aEw.jpeg)
 
 Elke Kahr, KPÖ Graz, Austria and Gregor Gysi, DIE LINKE, Germany, together with a member of SOS Balkanroute\. Copyright: Peter Brandstetter
 ### BULGARIA

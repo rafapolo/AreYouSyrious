@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,germany,nigeria,covid-19]
 description: Many updates from AlarmPhone // extreme poverty for refugees in Spain // France’s COVID policies have an adverse effect // COVID in Vial…
 image:
-  path: assets/439e07256b7f/1*8JHg4EdTlBFCug4dfDuC6A.jpeg
+  path: ../assets/439e07256b7f/1*8JHg4EdTlBFCug4dfDuC6A.jpeg
 ---
 
 ### AYS Daily Digest 17/08/20 Germany is set to continue deporting Nigerians back to “hell”
@@ -16,7 +16,7 @@ _Many updates from AlarmPhone // extreme poverty for refugees in Spain // France
 ### FEATURE Germany is set to continue deporting Nigerians back to “hell”
 
 
-![](assets/439e07256b7f/1*8JHg4EdTlBFCug4dfDuC6A.jpeg)
+![](../assets/439e07256b7f/1*8JHg4EdTlBFCug4dfDuC6A.jpeg)
 
 ### “This is no longer my country, it’s like hell\.”
 
@@ -74,7 +74,7 @@ And in [a further update](https://twitter.com/alarm_phone/status/129544414980254
 “ **~20 people** in distress **in Malta SAR** \! On board there are several children & women fleeing Libya & water is entering the boat\. They called us at 20\.00 CEST & we have tried to reach the Armed Forces since then but nobody answers\. The Coast Guard is refusing responsibility\. Rescue now\!”
 
 
-![“Unfortunately, the COVID\-19 health emergency does not negate the existence of other humanitarian crises\. As SeaWatch4 prepares for rescue in the context of a global pandemic, MSF medics brief all crew regarding the rigorous infection prevention and control measures onboard\.” Photo by [MSF Sea](https://twitter.com/MSF_Sea/status/1295268133708718081)](assets/439e07256b7f/1*P9OJt0P5lfdN3JjZHc1Nnw.jpeg)
+![“Unfortunately, the COVID\-19 health emergency does not negate the existence of other humanitarian crises\. As SeaWatch4 prepares for rescue in the context of a global pandemic, MSF medics brief all crew regarding the rigorous infection prevention and control measures onboard\.” Photo by [MSF Sea](https://twitter.com/MSF_Sea/status/1295268133708718081)](../assets/439e07256b7f/1*P9OJt0P5lfdN3JjZHc1Nnw.jpeg)
 
 “Unfortunately, the COVID\-19 health emergency does not negate the existence of other humanitarian crises\. As SeaWatch4 prepares for rescue in the context of a global pandemic, MSF medics brief all crew regarding the rigorous infection prevention and control measures onboard\.” Photo by [MSF Sea](https://twitter.com/MSF_Sea/status/1295268133708718081)
 
@@ -95,11 +95,11 @@ Three more people were placed in quarantine after testing positive on Monday wit
 In fact, here is a video from [Disinfaux](https://www.youtube.com/watch?v=siK8Yeyf7JQ&fbclid=IwAR3aR1UlLNeen2oXpjxhWM07eumrnSOUZL46sN-awciBAmYlO_wG8ID_KrY) on the pushbacks from 27/07/20 where they “document the existence of a makeshift detention facility in the port of Rhodes island, and the use of a ZODIAC liferaft used by the Greek Coast Guard, based on the testimony of witnesses\.” The Greek authorities have proven themselves NOT to be trusted on truthfully reporting what happens at sea…
 
 
-![](assets/439e07256b7f/1*i5cYyT2knfDgD9lGdxvd7g.png)
+![](../assets/439e07256b7f/1*i5cYyT2knfDgD9lGdxvd7g.png)
 
 
 
-![“Another Monday morning with so much rubbish to take care of\. Especially now with Corona spreading again in Lesvos we need to try to keep the camp even cleaner\. We did and we try to do all measures for protection, but as we said many times: How in such a situation? We are left here under very bad conditions and forgotten by Europe\.” Photos by [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/posts/177280717248329)](assets/439e07256b7f/1*hx4QI0qPZMZac3y2liitCw.jpeg)
+![“Another Monday morning with so much rubbish to take care of\. Especially now with Corona spreading again in Lesvos we need to try to keep the camp even cleaner\. We did and we try to do all measures for protection, but as we said many times: How in such a situation? We are left here under very bad conditions and forgotten by Europe\.” Photos by [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/posts/177280717248329)](../assets/439e07256b7f/1*hx4QI0qPZMZac3y2liitCw.jpeg)
 
 “Another Monday morning with so much rubbish to take care of\. Especially now with Corona spreading again in Lesvos we need to try to keep the camp even cleaner\. We did and we try to do all measures for protection, but as we said many times: How in such a situation? We are left here under very bad conditions and forgotten by Europe\.” Photos by [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/posts/177280717248329)
 

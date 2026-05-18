@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,covid-19,hungary,greece]
 description: Reminder of critical shortages of vaccines in Libya // BBC reporting of 91 people missing at sea // fear of serious COVID-19 spread in…
 image:
-  path: assets/67cc96fe37f1/0*3bNcEVqOusKks8wd.jpeg
+  path: ../assets/67cc96fe37f1/0*3bNcEVqOusKks8wd.jpeg
 ---
 
 ### AYS Daily Digest 25/05/20 “What makes me mad is that my children had to grow up in prison” in Hungary
 ### Reminder of critical shortages of vaccines in Libya // BBC reporting of 91 people missing at sea // fear of serious COVID\-19 spread in German shelters // and more…
 
 
-![](assets/67cc96fe37f1/0*kEFCw6gJ4d2E5FP6.jpeg)
+![](../assets/67cc96fe37f1/0*kEFCw6gJ4d2E5FP6.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----4bf6f01156e3----------------------)
@@ -22,11 +22,11 @@ image:
 [May 26](ays-daily-digest-what-makes-me-mad-is-that-my-children-had-to-grow-up-in-prison-in-hungary-4bf6f01156e3?source=post_page-----4bf6f01156e3----------------------) · 8 min read
 
 
-![](assets/67cc96fe37f1/0*Q3H2cJjL-dVndORM)
+![](../assets/67cc96fe37f1/0*Q3H2cJjL-dVndORM)
 
 
 
-![](assets/67cc96fe37f1/0*3bNcEVqOusKks8wd.jpeg)
+![](../assets/67cc96fe37f1/0*3bNcEVqOusKks8wd.jpeg)
 
 ### FEATURE “What makes me mad is that my children had to grow up in prison”
 
@@ -102,19 +102,19 @@ One person is dead and six are still missing after a shipwreck off the coast, ne
 ### SEA
 
 
-![](assets/67cc96fe37f1/0*P2eq8EF7qHgT2NBu)
+![](../assets/67cc96fe37f1/0*P2eq8EF7qHgT2NBu)
 
 
 
-![](assets/67cc96fe37f1/0*ZoQn8k51xJLlWq9U.jpeg)
+![](../assets/67cc96fe37f1/0*ZoQn8k51xJLlWq9U.jpeg)
 
 
 
-![](assets/67cc96fe37f1/0*YAg7c6w75K-ExGHg)
+![](../assets/67cc96fe37f1/0*YAg7c6w75K-ExGHg)
 
 
 
-![](assets/67cc96fe37f1/0*Xp0WUTUDtSoLmiUT.jpeg)
+![](../assets/67cc96fe37f1/0*Xp0WUTUDtSoLmiUT.jpeg)
 
 
 
@@ -131,11 +131,11 @@ Please [check out this reporting](https://www.bbc.co.uk/news/extra/vdb6u1mrrv/th
 After a Monday meeting between Alternate Minister of Migration & Asylum Giorgos Koumoutsakos and French Ambassador to Greece Patrick Maisonnave, the decision was announced for France to take in 400 asylum seekers and 350 unaccompanied minors\. The first 50 of the unaccompanied minors are not set to leave until July\. France also said it wants to ramp up its support for Frontex\. More [here](https://www.amna.gr/en/article/460474/France-to-relocate-750-asylum-seekers-and-unaccompanied-minors-from-Greece?fbclid=IwAR2F4OFg_JreZIPCcZ4TcysfLckg0wWIAzsNERPtIlrG6TXmMCWe1wULDcI) \.
 
 
-![](assets/67cc96fe37f1/0*9PV2oHGHCUjz854G)
+![](../assets/67cc96fe37f1/0*9PV2oHGHCUjz854G)
 
 
 
-![](assets/67cc96fe37f1/0*RUg03lmZuW-JF1Ux.jpeg)
+![](../assets/67cc96fe37f1/0*RUg03lmZuW-JF1Ux.jpeg)
 
 ### Apparently, the Regional Authority of the North Aegean is trying to sue Moria Corona Virus Awareness Team for using the term “Greek side of the island”
 
@@ -155,11 +155,11 @@ In an update from [Franziska Grillmeier](https://twitter.com/f_grillmeier/status
 
 
 
-![](assets/67cc96fe37f1/0*ztVnqEpTs37lbEqW)
+![](../assets/67cc96fe37f1/0*ztVnqEpTs37lbEqW)
 
 
 
-![](assets/67cc96fe37f1/0*2qRLZCg4UMfOmr4V.png)
+![](../assets/67cc96fe37f1/0*2qRLZCg4UMfOmr4V.png)
 
 ### MALTA
 
@@ -191,11 +191,11 @@ Italian news media is reporting that there was a _“second landing of \(people\
 ### SPAIN
 
 
-![](assets/67cc96fe37f1/0*QKsiedSsjdTjZBlX)
+![](../assets/67cc96fe37f1/0*QKsiedSsjdTjZBlX)
 
 
 
-![](assets/67cc96fe37f1/0*9G28j2v_MwKyZCsC.jpeg)
+![](../assets/67cc96fe37f1/0*9G28j2v_MwKyZCsC.jpeg)
 
 
 Publico is reporting that in Spain _“Dozens of Moroccan citizens, the vast majority elderly and women with children, have been living in vans and in a room of the mosque for two months waiting to be able to return to their country, while the city government looks the other way\.”_ A woman living there said:

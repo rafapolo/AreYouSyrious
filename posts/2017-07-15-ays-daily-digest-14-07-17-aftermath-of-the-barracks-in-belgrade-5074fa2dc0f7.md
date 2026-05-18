@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 14/07/17: Aftermath of the barracks in Belgrade
+title: "AYS Daily Digest 14/07/17: Aftermath of the barracks in Belgrade"
 author: Are You Syrious?
 date: 2017-07-15T00:40:21.481+0100
 last_modified_at: 2017-07-17T10:02:49.694+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,greece,italy,france,sweden]
 description: More arrivals on Lesbos / Urgent need for doctors in Greece / Thousands of new arrivals in Italy / Donations needed in northern France /…
 image:
-  path: assets/5074fa2dc0f7/1*bORpD06iiY1qkBXXXdNsMQ.jpeg
+  path: ../assets/5074fa2dc0f7/1*bORpD06iiY1qkBXXXdNsMQ.jpeg
 ---
 
 ### AYS Daily Digest 14/07/17: Aftermath of the barracks in Belgrade
@@ -15,7 +15,7 @@ image:
 _More arrivals on Lesbos / Urgent need for doctors in Greece / Thousands of new arrivals in Italy / Donations needed in northern France / Shame on the asylum services\! / And more news…_
 
 
-![Overcrowded reception area this morning in Moria, Lesvos; Photo by [**مهاجر immigrant**](https://www.facebook.com/riadh04/)](assets/5074fa2dc0f7/1*bORpD06iiY1qkBXXXdNsMQ.jpeg)
+![Overcrowded reception area this morning in Moria, Lesvos; Photo by [**مهاجر immigrant**](https://www.facebook.com/riadh04/)](../assets/5074fa2dc0f7/1*bORpD06iiY1qkBXXXdNsMQ.jpeg)
 
 Overcrowded reception area this morning in Moria, Lesvos; Photo by [**مهاجر immigrant**](https://www.facebook.com/riadh04/)
 ### Feature
@@ -43,12 +43,12 @@ There has been 545 new arrivals on Lesvos in July so far and 24 arrived last nig
 
 
 
-![Photo by Charlotte Bellis](assets/5074fa2dc0f7/1*acTTAKl8-tbgT29o8-7qSg.jpeg)
+![Photo by Charlotte Bellis](../assets/5074fa2dc0f7/1*acTTAKl8-tbgT29o8-7qSg.jpeg)
 
 Photo by Charlotte Bellis
 
 
-![Photo by Charlotte Bellis](assets/5074fa2dc0f7/1*8pf8xqNRP_TiywOg5oHaDg.jpeg)
+![Photo by Charlotte Bellis](../assets/5074fa2dc0f7/1*8pf8xqNRP_TiywOg5oHaDg.jpeg)
 
 Photo by Charlotte Bellis
 
@@ -63,15 +63,15 @@ Everyone that follows the situation in Greece knows that the conditions in the d
 
 
 
-![](assets/5074fa2dc0f7/1*elxOIzl_ksk6DYsFCJfOhA.png)
+![](../assets/5074fa2dc0f7/1*elxOIzl_ksk6DYsFCJfOhA.png)
 
 
 
-![](assets/5074fa2dc0f7/1*9K0tUHnder05oE4gbHElmQ.png)
+![](../assets/5074fa2dc0f7/1*9K0tUHnder05oE4gbHElmQ.png)
 
 
 
-![](assets/5074fa2dc0f7/1*x_R9J7qGymFJKxFNNTICqw.png)
+![](../assets/5074fa2dc0f7/1*x_R9J7qGymFJKxFNNTICqw.png)
 
 
 Although a lot of camps have toilets and showers, they often don’t have ramps and are inadequate for wheelchairs\. Rocky terrain and long distance prevent many people with disabilities to reach them\.
@@ -83,7 +83,7 @@ The Greek government and the UNHCR have been strongly criticized for their failu
 Another problem is the overcrowding situation and in Moria is getting out of hand as more people are arriving each day\. Some people have been out sleeping on a bare floor inside the camp for five days\. Volunteers spoke with one them yesterday afternoon and asked him how they are coping with mosquitoes especially at night\. He answered that they have no other options as there is nowhere else to sleep\.
 
 
-![**Photo by [United Rescue Aid](https://www.facebook.com/unitedrescueaid/?hc_ref=ARQ1RaVE41fYDPl9vN9wJ-s_UaJw2VmkBebJDE4HSyEX8-PwEA_fpVdICoYgUeju24c&fref=nf)**](assets/5074fa2dc0f7/1*_w8ZrFjyxeORX78cFxsINw.jpeg)
+![**Photo by [United Rescue Aid](https://www.facebook.com/unitedrescueaid/?hc_ref=ARQ1RaVE41fYDPl9vN9wJ-s_UaJw2VmkBebJDE4HSyEX8-PwEA_fpVdICoYgUeju24c&fref=nf)**](../assets/5074fa2dc0f7/1*_w8ZrFjyxeORX78cFxsINw.jpeg)
 
 **Photo by [United Rescue Aid](https://www.facebook.com/unitedrescueaid/?hc_ref=ARQ1RaVE41fYDPl9vN9wJ-s_UaJw2VmkBebJDE4HSyEX8-PwEA_fpVdICoYgUeju24c&fref=nf)**
 #### Mainland
@@ -109,7 +109,7 @@ A whole building has been rented in Athens by groups of volunteers that are tryi
 
 
 
-![Photo by [**En Red SOS refugiados**](https://www.facebook.com/sosrefugiados/?hc_ref=ARSbdQ2j2KitlpOP7mOJxzteO_AqnEMuY5AGZsDD2kg4eYVM3LGiRHOxHp_N3XFbNjo)](assets/5074fa2dc0f7/1*yATLC36Ei_AkHQsnFipxgA.jpeg)
+![Photo by [**En Red SOS refugiados**](https://www.facebook.com/sosrefugiados/?hc_ref=ARSbdQ2j2KitlpOP7mOJxzteO_AqnEMuY5AGZsDD2kg4eYVM3LGiRHOxHp_N3XFbNjo)](../assets/5074fa2dc0f7/1*yATLC36Ei_AkHQsnFipxgA.jpeg)
 
 Photo by [**En Red SOS refugiados**](https://www.facebook.com/sosrefugiados/?hc_ref=ARSbdQ2j2KitlpOP7mOJxzteO_AqnEMuY5AGZsDD2kg4eYVM3LGiRHOxHp_N3XFbNjo)
 
@@ -140,7 +140,7 @@ In northern France the situation remains very difficult with the police harassin
 After a relatively quiet period in the Dunkirk Jungle there has now been two evictions in the space of a week, the first eviction last week focused only on tents and blankets\. Yesterday Thursday 13th July, a second eviction went further claiming all and any possessions from baby milk to nappies, children’s toys and clothing as well as tents and blankets\.
 
 
-![Photo by [**Dunkirk / Dunkerque Refugee Women’s Centre**](https://www.facebook.com/refugeewomenscentre/?hc_ref=ARTc8tcmY1AEHbCW8C6nubZm2Po4NTmWBjTFwi7kYwlc8F_n_1-470Zx7GxKSih8B-c)](assets/5074fa2dc0f7/1*TvQ0A6StmCBwWKVItd6L7Q.jpeg)
+![Photo by [**Dunkirk / Dunkerque Refugee Women’s Centre**](https://www.facebook.com/refugeewomenscentre/?hc_ref=ARTc8tcmY1AEHbCW8C6nubZm2Po4NTmWBjTFwi7kYwlc8F_n_1-470Zx7GxKSih8B-c)](../assets/5074fa2dc0f7/1*TvQ0A6StmCBwWKVItd6L7Q.jpeg)
 
 Photo by [**Dunkirk / Dunkerque Refugee Women’s Centre**](https://www.facebook.com/refugeewomenscentre/?hc_ref=ARTc8tcmY1AEHbCW8C6nubZm2Po4NTmWBjTFwi7kYwlc8F_n_1-470Zx7GxKSih8B-c)
 

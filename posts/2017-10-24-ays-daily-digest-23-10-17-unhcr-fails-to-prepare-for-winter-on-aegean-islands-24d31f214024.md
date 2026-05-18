@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 23/10/17: Hunger Strike In Denmark
+title: "AYS Daily Digest 23/10/17: Hunger Strike In Denmark"
 author: Are You Syrious?
 date: 2017-10-24T00:36:25.852+0100
 last_modified_at: 2017-10-24T21:40:00.034+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,denmark,asylum,chios,bosnia]
 description: /Refugees held in limbo in Denmark/Worker Protests in Turkey/New Arrivals on the Aegean Islands/Situation Detoriorating on Chios/Protests…
 image:
-  path: assets/24d31f214024/1*MRhiYzwergbu8_36wXHAsw.jpeg
+  path: ../assets/24d31f214024/1*MRhiYzwergbu8_36wXHAsw.jpeg
 ---
 
 ### AYS Daily Digest 23/10/17: Hunger Strike In Denmark
@@ -15,7 +15,7 @@ image:
 _/Refugees held in limbo in Denmark/Worker Protests in Turkey/New Arrivals on the Aegean Islands/Situation Detoriorating on Chios/Protests Continue on Lesvos/Volunteer and donation needs on the Greek mainland/Soul Welders moves on/Border restrictions in Bosnia/Donations needed in UK for Calais/Anti\-Refugee parties in the Czech Republic_
 
 
-![Protestors on Lesvos\. Photo Credit: Arash Hampray](assets/24d31f214024/1*eBSIO4WDTA2zPWDXt34pCQ.jpeg)
+![Protestors on Lesvos\. Photo Credit: Arash Hampray](../assets/24d31f214024/1*eBSIO4WDTA2zPWDXt34pCQ.jpeg)
 
 Protestors on Lesvos\. Photo Credit: Arash Hampray
 ### Feature: Refugees on Hunger Strike in Denmark to Protest their Detention in Limbo
@@ -53,7 +53,7 @@ According to Valerio Neri, a Director General for the organization, “For too l
 ### Greece
 
 
-![Photo Credit: [Lesvos Solidarity](https://www.facebook.com/pg/pikpalesvos/posts/?ref=page_internal)](assets/24d31f214024/1*zglNreQkKZ-hqJRu3upfqA.jpeg)
+![Photo Credit: [Lesvos Solidarity](https://www.facebook.com/pg/pikpalesvos/posts/?ref=page_internal)](../assets/24d31f214024/1*zglNreQkKZ-hqJRu3upfqA.jpeg)
 
 Photo Credit: [Lesvos Solidarity](https://www.facebook.com/pg/pikpalesvos/posts/?ref=page_internal)
 #### Islands
@@ -108,7 +108,7 @@ Describing the area outside of the toilets in the camp, Gabrielle Tan wrote,
 
 
 
-![Photo Credit: Gabrielle Tan](assets/24d31f214024/1*rLB971PiUyL3uaA-ztXM3A.jpeg)
+![Photo Credit: Gabrielle Tan](../assets/24d31f214024/1*rLB971PiUyL3uaA-ztXM3A.jpeg)
 
 Photo Credit: Gabrielle Tan
 
@@ -134,7 +134,7 @@ Protesting similarly deplorable conditions on Lesvos, a large number of mostly I
 
 
 
-![Refugees sleeping in Sappho Square, Lesvos\. Photo Credit: [**Juliette Georgiades**](https://www.facebook.com/thomas.gata.5?hc_ref=ARRWOASnhbgHUrAJHl3UvptIR58aaM2wlQUOl-ZMyOFLUUjXugmZ3563vM6x0GqcnCo&fref=nf)](assets/24d31f214024/1*MRhiYzwergbu8_36wXHAsw.jpeg)
+![Refugees sleeping in Sappho Square, Lesvos\. Photo Credit: [**Juliette Georgiades**](https://www.facebook.com/thomas.gata.5?hc_ref=ARRWOASnhbgHUrAJHl3UvptIR58aaM2wlQUOl-ZMyOFLUUjXugmZ3563vM6x0GqcnCo&fref=nf)](../assets/24d31f214024/1*MRhiYzwergbu8_36wXHAsw.jpeg)
 
 Refugees sleeping in Sappho Square, Lesvos\. Photo Credit: [**Juliette Georgiades**](https://www.facebook.com/thomas.gata.5?hc_ref=ARRWOASnhbgHUrAJHl3UvptIR58aaM2wlQUOl-ZMyOFLUUjXugmZ3563vM6x0GqcnCo&fref=nf)
 
@@ -162,7 +162,7 @@ The UNHCR recently released a [report](https://data2.unhcr.org/en/documents/down
 After years of hard work, [Soul Welders](https://www.facebook.com/pg/SoulWelders/about/?ref=page_internal) has passed on their work on the Serbian\-Croatian and Serbian\-Hungarian border to [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?fref=gs&hc_location=group) , [Humanity Wings](https://www.facebook.com/hwmaresme/?fref=gs&hc_location=group) , and [Help\-Na](https://www.facebook.com/HelpNa/?fref=gs&hc_location=group) \. The volunteers and activists on the ground who have been working with this group feel confident that these groups will be able to continue their work, but want to remind their donors and supporters that “in Serbia, especially on the borders, refugees still need help\.” Over the years, Soul Welders has helped thousands of refugees with distributions and emergency aid, and documented many instances of police abuse\.
 
 
-![Photo Credit: Soul Welders](assets/24d31f214024/1*rPNzte0Ev8vcRTrMxKtdtw.jpeg)
+![Photo Credit: Soul Welders](../assets/24d31f214024/1*rPNzte0Ev8vcRTrMxKtdtw.jpeg)
 
 Photo Credit: Soul Welders
 ### Bosnia

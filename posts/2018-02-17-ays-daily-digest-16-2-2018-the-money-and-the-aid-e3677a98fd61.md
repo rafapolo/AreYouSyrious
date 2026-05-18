@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 16/2/2018: The money and the aid
+title: "AYS DAILY DIGEST 16/2/2018: The money and the aid"
 author: Are You Syrious?
 date: 2018-02-17T03:06:40.675+0000
 last_modified_at: 2018-03-01T13:30:05.216+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,africa,greece,bosnia,digest]
 description: How the EU prioritizes its funding for Africa / New cash card provider in Athens / Sharp increase of people arriving in Boasia / UN and CoE…
 image:
-  path: assets/e3677a98fd61/1*Xkq-_gcHWZlqHa5x82kTbw.jpeg
+  path: ../assets/e3677a98fd61/1*Xkq-_gcHWZlqHa5x82kTbw.jpeg
 ---
 
 ### AYS DAILY DIGEST 16/2/2018: The money and the aid
@@ -16,7 +16,7 @@ _How the EU prioritizes its funding for Africa / New cash card provider in Athen
 ### Feature: The money and the aid
 
 
-![Credits: [MAM Beyond borders](https://www.facebook.com/MAMbeyondborder/photos/a.563901896989517.1073741828.563881680324872/1806700572709637/?type=3&theater)](assets/e3677a98fd61/1*Xkq-_gcHWZlqHa5x82kTbw.jpeg)
+![Credits: [MAM Beyond borders](https://www.facebook.com/MAMbeyondborder/photos/a.563901896989517.1073741828.563881680324872/1806700572709637/?type=3&theater)](../assets/e3677a98fd61/1*Xkq-_gcHWZlqHa5x82kTbw.jpeg)
 
 Credits: [MAM Beyond borders](https://www.facebook.com/MAMbeyondborder/photos/a.563901896989517.1073741828.563881680324872/1806700572709637/?type=3&theater)
 
@@ -34,7 +34,7 @@ Now, it is important to have a look at the priorities of the funds\. With 32 per
 Volunteers of Cyprus Refugee Solidarity offer support for people in need\. They can provide clothing and footwear as well as transfers for people who are not residents of Kofinou from Larnaca to the store room in Aradipou\. Residents of Kofinou can use the distribution center in the camp, which is also supplied by CRS\. Starting next week, the team can also supply a limited selection for people who are setting up their homes\. Additionally, more volunteers are needed on the islands\. If you are in need or support or want to join the solidarity network on Cyprus, please get in touch with [Adam](https://www.facebook.com/adam.flude.7/posts/10215698453960502) on Facebook\.
 
 
-![Donated furniture\. Photo: Adam Flude](assets/e3677a98fd61/1*FgZk8tLGZ1gSslFNLLOAGw.jpeg)
+![Donated furniture\. Photo: Adam Flude](../assets/e3677a98fd61/1*FgZk8tLGZ1gSslFNLLOAGw.jpeg)
 
 Donated furniture\. Photo: Adam Flude
 ### Greece
@@ -42,7 +42,7 @@ Donated furniture\. Photo: Adam Flude
 Humans 4 Humanity has ran out of shoes these days\. “There is a severe shortage of men’s shoes on the island and our visitors are turning up in flip\-flops and flimsy broken sandals\. It’s been cold, rainy and the conditions in the camps are awful”, volunteer Leah Wild [states](https://www.facebook.com/leah.wild.106/posts/928170954008312) \. The next container is scheduled to arrive in one month and not before\. In order to buy more shoes directly in Mytilini, she has set up a fundraiser on [Paypal](https://www.paypal.me/bluedoorglobal) \.
 
 
-![All what’s left, flip\-flops\. Credits: Leah Wild](assets/e3677a98fd61/1*PZu2tcH_ClYfkAMWH3Jv5Q.jpeg)
+![All what’s left, flip\-flops\. Credits: Leah Wild](../assets/e3677a98fd61/1*PZu2tcH_ClYfkAMWH3Jv5Q.jpeg)
 
 All what’s left, flip\-flops\. Credits: Leah Wild
 
@@ -59,7 +59,7 @@ A Drop in the Ocean is creating a new space for workshops, a café and kids’ a
 On Samos, Help Refugees and Samos Volunteers host a makeshift library in a pop\-up tent for the children living in the camp on Tuesdays and Thursdays\. “The project aims to give everyone the opportunity to become immersed in a story and experience the joys of reading a good book”, HR [says](https://www.facebook.com/HelpRefugeesUK/posts/567344003626277?hc_location=ufi) \.
 
 
-![Children enjoying some stories and escape the harsh reality on Samos\. Credits: Help Refugees](assets/e3677a98fd61/1*y1hruS6-Niggjy4e1J8I3g.jpeg)
+![Children enjoying some stories and escape the harsh reality on Samos\. Credits: Help Refugees](../assets/e3677a98fd61/1*y1hruS6-Niggjy4e1J8I3g.jpeg)
 
 Children enjoying some stories and escape the harsh reality on Samos\. Credits: Help Refugees
 #### New Cash Card provider in Athens
@@ -67,7 +67,7 @@ Children enjoying some stories and escape the harsh reality on Samos\. Credits: 
 The Catholic Relief Services \(CRS\) has taken over the Cash assistance programme for people living in private accomodation in Athens from the beginning of this month\. This means that Refugee\.Info is no longer available to submit registrations for the cash card\. All info and instructions can be found on Refugee\.Infos homepage in [English,](http://blog.refugee.info/cash-hotline/) [French,](https://l.facebook.com/l.php?u=http%3A%2F%2Fblog.refugee.info%2Fcash-hotline-fr%2F&h=ATNNfsr_ULD3TCUi5yfkEuqEEva3_piB2H5H4r6iiO2ZX-BtOaQYauzzPLR8KUIsa6BWcCmDjV7X2cws2M4wMjJu9YOAeOg6ee1Jg1e_DmtuHfBg17xAbsUkHKW76S-YsVrET_tzELHDp0IRVdopqGQpXQp5aZ0dAwQHh1ot-pLbhX5qQp3TGyH7H_fcTmC3rnGLKig4zqfA_KzMwNI7Au_lihaZU0TWBKcMC5qF3mE) [Arabic,](https://l.facebook.com/l.php?u=http%3A%2F%2Fblog.refugee.info%2Fcash-hotline-ar%2F&h=ATNAqTDq5eB5LvCg4jJv5AL66bQhOp1hU1rjx1-ozkWSs_tg0wF3Ku__65_w9Lw_ILSDWin3LXyxOjCZCTKR7I__oXkomgbkPZ6LOdDj7XRpEMLY_eYvoarajuDZEyJip30g2C1j01B_M54xGAs3i6N368U7R0cuuEHvyY9GRR_Z0VWYNPoDV60RSuLxDG1hGgkpOpyKKi0bT5HkkNVzcGwu5AEj1UC-tuxyPVOEaV8) [Farsi](https://l.facebook.com/l.php?u=http%3A%2F%2Fblog.refugee.info%2Fcash-hotline-fa%2F&h=ATO8-6zo6l8qiPeE4UjVYHhVh5z8yyGc2RUZKim2TLX6jDOHa8LNSH2nKU-w2pFE9NM8tCUEyO1YLD5vfzVy9XCVt55a5ZoIRK696eMwdnpeX2aviuUcWXYl7TCR4-xEO-lkwsTdj7TqPKo7JetTRcwDH25a735FnLfHbQ4gPnuZ44rMkG_PiRFlK0JNrML7DUp1Ja3hb2OAcq3sQOLmfCSd53rqNc2G4anTwydLB2w) and [Urdu](https://l.facebook.com/l.php?u=http%3A%2F%2Fblog.refugee.info%2Fcash-hotline-ur%2F&h=ATM-Z2Fv4NbfCYiqIHglTpbS3gtBBaY43DrNVLHL5Oa7uqeOkrgkkuNZHuHxfc1Q20wNvzCf-9L8vyMKWcgU4bmP46soLHemMp8f3aGY2XrA7YHQzpUCMxt4SaVk7OAClB3TrwGu-mTqwVBiBxe6cGOi0r0rMs1enRvkOHrTPjSFx7c68Ez0OAW606XUTex4BvGrtWStkdsWDdeKyxgmR7r-JBoft-AYyW0pVX7vO4w) \.
 
 
-![The hotlines\. Credits: Refugee\.Info](assets/e3677a98fd61/1*ohlcH9-t5oRCuAJoGqox-w.jpeg)
+![The hotlines\. Credits: Refugee\.Info](../assets/e3677a98fd61/1*ohlcH9-t5oRCuAJoGqox-w.jpeg)
 
 The hotlines\. Credits: Refugee\.Info
 

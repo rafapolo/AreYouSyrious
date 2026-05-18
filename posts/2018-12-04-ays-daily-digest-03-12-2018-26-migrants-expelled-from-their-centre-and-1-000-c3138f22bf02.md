@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 03/12/2018: 26 migrants expelled from their centre and 1.000
+title: "AYS Daily Digest 03/12/2018: 26 migrants expelled from their centre and 1.000"
 author: Are You Syrious?
 date: 2018-12-04T01:24:54.779+0000
 last_modified_at: 2018-12-04T10:22:11.722+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,italy,human-rights,solidarity]
 description: Fire in Lebanon kills 2 Syrian refugees//Switzerland denies flag to Aquarium//Donations and volunteers needed in Greece//New testimonies…
 image:
-  path: assets/c3138f22bf02/1*-FEyHOBejp2gqUioL3clbw.jpeg
+  path: ../assets/c3138f22bf02/1*-FEyHOBejp2gqUioL3clbw.jpeg
 ---
 
 ### AYS Daily Digest 03/12/2018: 26 migrants expelled from their centre and 1,000 more to face the same, as first results of Salvini’s new decree
@@ -15,7 +15,7 @@ image:
 _Fire in Lebanon kills two Syrian refugees//Switzerland denies flag to Aquarius//Donations and volunteers needed in Greece//New testimonies of violence on the Balkan route//Protest against deportation to Afghanistan to be held in Frankfurt//…_
 
 
-![Credit: [Danilo Balducci](https://www.facebook.com/danilobalducciphotography/?__tn__=%2CdK*F-R&eid=ARCIItfG05mto3hk_i--Vt10U0XFhpdTn6re445HEGLy--i0DSUoxGuaW8zZsno-QPhajC3e93zvUQ5v)](assets/c3138f22bf02/1*-FEyHOBejp2gqUioL3clbw.jpeg)
+![Credit: [Danilo Balducci](https://www.facebook.com/danilobalducciphotography/?__tn__=%2CdK*F-R&eid=ARCIItfG05mto3hk_i--Vt10U0XFhpdTn6re445HEGLy--i0DSUoxGuaW8zZsno-QPhajC3e93zvUQ5v)](../assets/c3138f22bf02/1*-FEyHOBejp2gqUioL3clbw.jpeg)
 
 Credit: [Danilo Balducci](https://www.facebook.com/danilobalducciphotography/?__tn__=%2CdK*F-R&eid=ARCIItfG05mto3hk_i--Vt10U0XFhpdTn6re445HEGLy--i0DSUoxGuaW8zZsno-QPhajC3e93zvUQ5v)
 ### **FEATURE**
@@ -144,11 +144,11 @@ No Name Kitchen reports having collected [first hand testimonies](https://www.fa
 
 
 
-![](assets/c3138f22bf02/1*nwNSgkG0MQlwm81olkjWNg.jpeg)
+![](../assets/c3138f22bf02/1*nwNSgkG0MQlwm81olkjWNg.jpeg)
 
 
 
-![Credit: No Name Kitchen](assets/c3138f22bf02/1*jm8bkE5n6PGr7tOZgWHDaA.jpeg)
+![Credit: No Name Kitchen](../assets/c3138f22bf02/1*jm8bkE5n6PGr7tOZgWHDaA.jpeg)
 
 Credit: No Name Kitchen
 ### **SERBIA**
@@ -167,7 +167,7 @@ Credit: No Name Kitchen
 
 
 
-![Credit: AYS’ collaborator](assets/c3138f22bf02/1*w14Yipzy25P7hyddkTvwww.jpeg)
+![Credit: AYS’ collaborator](../assets/c3138f22bf02/1*w14Yipzy25P7hyddkTvwww.jpeg)
 
 Credit: AYS’ collaborator
 ### **GERMANY**

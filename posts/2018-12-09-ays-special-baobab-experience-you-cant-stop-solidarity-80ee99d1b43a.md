@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Baobab Experience — You can’t stop solidarity
+title: "AYS SPECIAL: Baobab Experience — You can’t stop solidarity"
 author: Are You Syrious?
 date: 2018-12-09T11:09:09.778+0000
 last_modified_at: 2018-12-09T19:06:07.442+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,italy,solidarity,special]
 description: After the evictions of the past 13th and 20th November, when around 180 and 50 migrants were evacuated from Piazzale Maslax, Rome, Baobab…
 image:
-  path: assets/80ee99d1b43a/1*mgiGhxkHOSkz4XIjS2HfYA.jpeg
+  path: ../assets/80ee99d1b43a/1*mgiGhxkHOSkz4XIjS2HfYA.jpeg
 ---
 
 ### AYS SPECIAL: Baobab Experience — You Can’t Stop Solidarity
 #### After the evictions of the 13th and 20th November, when around 180 and 50 migrants were evacuated from Piazzale Maslax, Rome, Baobab keeps being targeted by police raids and identification operations\. But the solidarity around the centre is overwhelming\.
 
 
-![Credit: Baobab Experience](assets/80ee99d1b43a/1*mgiGhxkHOSkz4XIjS2HfYA.jpeg)
+![Credit: Baobab Experience](../assets/80ee99d1b43a/1*mgiGhxkHOSkz4XIjS2HfYA.jpeg)
 
 Credit: Baobab Experience
 
@@ -29,11 +29,11 @@ Over the past years, many threats and evacuations have carried on, but the centr
 On the 13th of November this year, the last big eviction displaced around 180 people; only around 125 found a place in centres offered by the social services of the municipality of Rome, while around 50 people were left sleeping rough\. These last people were evicted again, identified again, brought to the Questura again and released again in the week after and, since then, the presence of the police in front of Stazione Tiburtina is constant throughout the day\.
 
 
-![](assets/80ee99d1b43a/1*VxKwZVafN2hNNdoCbNLXgg.jpeg)
+![](../assets/80ee99d1b43a/1*VxKwZVafN2hNNdoCbNLXgg.jpeg)
 
 
 
-![Credit: Baobab Experience](assets/80ee99d1b43a/1*YC3d5m3Xizpsz-B_0gyUQQ.jpeg)
+![Credit: Baobab Experience](../assets/80ee99d1b43a/1*YC3d5m3Xizpsz-B_0gyUQQ.jpeg)
 
 Credit: Baobab Experience
 
@@ -48,7 +48,7 @@ The collaboration with local authorities remains temporary and uncertain, as the
 Baobab is, nevertheless, supporting other realities in Rome that fight for the right to housing and the right to work of other migrants not residing in the camp and stands in solidarity with them\. Andrea also clearly states that Baobab is and will be a community of activists fighting for the rights of migrants\.
 
 
-![Credit: [Danilo Balducci](https://www.facebook.com/danilobalducciphotography/?__tn__=%2CdK*F-R&eid=ARDam45Szen0lIDnKZ0YEghmpkZQ7cOHynqHOO61jDdMsWcW76STBFGUBNceOF_X4v6E4KT90qutXkqa)](assets/80ee99d1b43a/1*-FEyHOBejp2gqUioL3clbw.jpeg)
+![Credit: [Danilo Balducci](https://www.facebook.com/danilobalducciphotography/?__tn__=%2CdK*F-R&eid=ARDam45Szen0lIDnKZ0YEghmpkZQ7cOHynqHOO61jDdMsWcW76STBFGUBNceOF_X4v6E4KT90qutXkqa)](../assets/80ee99d1b43a/1*-FEyHOBejp2gqUioL3clbw.jpeg)
 
 Credit: [Danilo Balducci](https://www.facebook.com/danilobalducciphotography/?__tn__=%2CdK*F-R&eid=ARDam45Szen0lIDnKZ0YEghmpkZQ7cOHynqHOO61jDdMsWcW76STBFGUBNceOF_X4v6E4KT90qutXkqa)
 
@@ -57,11 +57,11 @@ I asked Andrea about the future actions and events where Baobab will be present\
 Everyone is welcome to stop by and add their Christmas wishes and thoughts\.
 
 
-![](assets/80ee99d1b43a/1*n89UIHUba1tYGaEnCGjHFQ.jpeg)
+![](../assets/80ee99d1b43a/1*n89UIHUba1tYGaEnCGjHFQ.jpeg)
 
 
 
-![Credit: Baobab Experience](assets/80ee99d1b43a/1*UDQpZLO9XAsRwftWIgOCDQ.jpeg)
+![Credit: Baobab Experience](../assets/80ee99d1b43a/1*UDQpZLO9XAsRwftWIgOCDQ.jpeg)
 
 Credit: Baobab Experience
 

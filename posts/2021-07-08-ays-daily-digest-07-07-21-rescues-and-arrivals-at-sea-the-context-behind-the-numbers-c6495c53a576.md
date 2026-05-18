@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 07/07/21 — Rescues and Arrivals at Sea: The Context Behind the Numbers
+title: "AYS Daily Digest 07/07/21 — Rescues and Arrivals at Sea: The Context Behind the Numbers"
 author: Are You Syrious?
 date: 2021-07-08T14:02:54.915+0100
 last_modified_at: 2021-07-09T12:59:06.168+0100
 categories: Are You Syrious?
 tags: [refugees,digest,europe,human-rights,volunteering]
-description: HRW: Frontex failed to safeguard people against serious human rights violations / Protesting Lufthansa / Volunteers in France wanted /…
+description: "HRW: Frontex failed to safeguard people against serious human rights violations / Protesting Lufthansa / Volunteers in France wanted /…"
 image:
-  path: assets/c6495c53a576/1*-kZuFyJ0zIOfJ1RnDFij9A.jpeg
+  path: ../assets/c6495c53a576/1*-kZuFyJ0zIOfJ1RnDFij9A.jpeg
 ---
 
 ### AYS Daily Digest 07/07/21 — Rescues and arrivals at Sea: The context behind the numbers
 #### HRW: Frontex **f** ailed to safeguard people against serious human rights violations / Protesting Lufthansa / Volunteers in France wanted / Updates from the ground / Critiques keep on coming over UK’s proposed law
 
 
-![Photo: [SOS MEDITERRANEE](https://www.facebook.com/SOSMEDITERRANEE/?__cft__[0]=AZUZP1eccnTGFoXYYaP7UV3rCUcC9RslCiKlkg6SuBbBke9KxYLZGLw_G-P-g3SaQPSx7Kd-ALmHghYCQMc3qH4rnLV-GU46d98Q8dwY1o-vQeJSvJTP5ouElFAA-iCwq27I4tayoPMO3Mma-bUd6r8x&__tn__=-UC*F)](assets/c6495c53a576/1*-kZuFyJ0zIOfJ1RnDFij9A.jpeg)
+![Photo: [SOS MEDITERRANEE](https://www.facebook.com/SOSMEDITERRANEE/?__cft__[0]=AZUZP1eccnTGFoXYYaP7UV3rCUcC9RslCiKlkg6SuBbBke9KxYLZGLw_G-P-g3SaQPSx7Kd-ALmHghYCQMc3qH4rnLV-GU46d98Q8dwY1o-vQeJSvJTP5ouElFAA-iCwq27I4tayoPMO3Mma-bUd6r8x&__tn__=-UC*F)](../assets/c6495c53a576/1*-kZuFyJ0zIOfJ1RnDFij9A.jpeg)
 
 Photo: [SOS MEDITERRANEE](https://www.facebook.com/SOSMEDITERRANEE/?__cft__[0]=AZUZP1eccnTGFoXYYaP7UV3rCUcC9RslCiKlkg6SuBbBke9KxYLZGLw_G-P-g3SaQPSx7Kd-ALmHghYCQMc3qH4rnLV-GU46d98Q8dwY1o-vQeJSvJTP5ouElFAA-iCwq27I4tayoPMO3Mma-bUd6r8x&__tn__=-UC*F)
 #### FEATURE
@@ -92,15 +92,15 @@ Another concerning aspect of the new law is that it wants to eliminate the categ
 As temperatures rise in Greece, the [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/posts/356269429349456) are continuing to support people in the camp and clean up the situation\.
 
 
-![](assets/c6495c53a576/1*h6mZgR50wyKpMad3AWJVUQ.jpeg)
+![](../assets/c6495c53a576/1*h6mZgR50wyKpMad3AWJVUQ.jpeg)
 
 
 
-![](assets/c6495c53a576/1*H5ptu6hxA6K16alg9GCOow.jpeg)
+![](../assets/c6495c53a576/1*H5ptu6hxA6K16alg9GCOow.jpeg)
 
 
 
-![Photos: [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/?__tn__=-UC*F)](assets/c6495c53a576/1*wUHDphRbQ2w08a7SwudeNQ.jpeg)
+![Photos: [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/?__tn__=-UC*F)](../assets/c6495c53a576/1*wUHDphRbQ2w08a7SwudeNQ.jpeg)
 
 Photos: [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/?__tn__=-UC*F)
 
@@ -126,7 +126,7 @@ At the same time, [Solidarité migrants Wilson](https://www.facebook.com/Solidar
 Through an [upcoming demonstration](https://www.bpb.de/gesellschaft/migration/flucht/zahlen-zu-asyl/265765/abschiebungen governmental source of deportations since 2014 in German) , the autonomous No Border Assembly group in Berlin is raising awareness of one of many profiteers of the harsh deportation policy, which included thousands of citizens of countries as Syria, Afghanistan and Pakistan\.
 
 
-![](assets/c6495c53a576/0*uNic97eqnyqrCrg8.png)
+![](../assets/c6495c53a576/0*uNic97eqnyqrCrg8.png)
 
 
 In 2019 alone, Lufthansa and its subsidiaries verifiably carried out the deportation of 5,885 people\. That was more than 25% of all deportations from Germany this year\.

@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [refugeeswelcome,digest,slovenia,pushback,search-and-rescue]
 description: Are You Syrious?
 image:
-  path: assets/10104b92c9aa/0*uXyiN5SyP8qet1LJ.jpeg
+  path: ../assets/10104b92c9aa/0*uXyiN5SyP8qet1LJ.jpeg
 ---
 
 ### AYS Daily Digest 20/7/2020 Slovenia carried out collective expulsions and chain push\-backs
 
 
-![](assets/10104b92c9aa/0*p7Rc5kPj24iSB79H.jpeg)
+![](../assets/10104b92c9aa/0*p7Rc5kPj24iSB79H.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----929023b816d8----------------------)
@@ -23,11 +23,11 @@ image:
 Zintan detention centre attacked by armed men — More brutal pushbacks on the Evros border — Italy is trying to stop humanitarian SAR activities, again — more…
 
 
-![](assets/10104b92c9aa/0*LQxkPH4_axW_t5U_)
+![](../assets/10104b92c9aa/0*LQxkPH4_axW_t5U_)
 
 
 
-![](assets/10104b92c9aa/0*uXyiN5SyP8qet1LJ.jpeg)
+![](../assets/10104b92c9aa/0*uXyiN5SyP8qet1LJ.jpeg)
 
 ### FEATURED — Court finds Slovenian authorities guilty of Collective expulsion and Chain push\-back
 
@@ -105,11 +105,11 @@ Again, Greek politicians are [warning](https://www.theguardian.com/world/2020/ju
 Certificates that probably refers to ‘effective contributions’ like this one:
 
 
-![](assets/10104b92c9aa/0*FfnU533k-y2OzZhZ)
+![](../assets/10104b92c9aa/0*FfnU533k-y2OzZhZ)
 
 
 
-![](assets/10104b92c9aa/0*kn2dRXz1BLThxxoV.jpeg)
+![](../assets/10104b92c9aa/0*kn2dRXz1BLThxxoV.jpeg)
 
 
 

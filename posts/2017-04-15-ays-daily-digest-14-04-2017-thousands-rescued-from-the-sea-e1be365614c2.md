@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 14/04/2017: Thousands rescued from the sea
+title: "AYS Daily Digest 14/04/2017: Thousands rescued from the sea"
 author: Are You Syrious?
 date: 2017-04-15T05:11:37.731+0100
 last_modified_at: 2017-04-15T05:11:37.731+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,mediterranean,syria,france]
 description: New evacuation in Syria // More violence and arrests on Chios // New makeshift camp at Dunkirk and donations needed // Poland seeks to copy…
 image:
-  path: assets/e1be365614c2/1*yxcSCD-h-bCP9SeSy_qXYA.jpeg
+  path: ../assets/e1be365614c2/1*yxcSCD-h-bCP9SeSy_qXYA.jpeg
 ---
 
 ### AYS Daily Digest 14/04/2017: Thousands rescued from the sea
 #### New evacuation in Syria // More violence and arrests on Chios // New makeshift camp at Dunkirk and donations needed // Poland seeks to copy Hungary on detentions // Shooting in Manus detention centre
 
 
-![Photo by [MSF Sea](https://twitter.com/MSF_Sea/status/852881064284565505/photo/1?ref_src=twsrc%5Etfw&ref_url=http%3A%2F%2Fwww.aljazeera.com%2Fnews%2F2017%2F04%2Ffrenzied-rescues-save-2000-asylum-seekers-170414203519260.html)](assets/e1be365614c2/1*yxcSCD-h-bCP9SeSy_qXYA.jpeg)
+![Photo by [MSF Sea](https://twitter.com/MSF_Sea/status/852881064284565505/photo/1?ref_src=twsrc%5Etfw&ref_url=http%3A%2F%2Fwww.aljazeera.com%2Fnews%2F2017%2F04%2Ffrenzied-rescues-save-2000-asylum-seekers-170414203519260.html)](../assets/e1be365614c2/1*yxcSCD-h-bCP9SeSy_qXYA.jpeg)
 
 Photo by [MSF Sea](https://twitter.com/MSF_Sea/status/852881064284565505/photo/1?ref_src=twsrc%5Etfw&ref_url=http%3A%2F%2Fwww.aljazeera.com%2Fnews%2F2017%2F04%2Ffrenzied-rescues-save-2000-asylum-seekers-170414203519260.html)
 ### Feature
@@ -22,7 +22,7 @@ Photo by [MSF Sea](https://twitter.com/MSF_Sea/status/852881064284565505/photo/1
 It was a very busy day today in the Mediterranean off the Libyan coast which ended with **2074 refugees rescued** by several NGOs and others\. This happens just one day after reports that 97 refugees might have drowned off the coast of Libya\. MSF with their two boats started very early in the morning and by dawn one of their boats, Aquarius, had already rescued the people traveling on three rubber boats\. This one and Prudence, their other boat managed to find 9 boats during the day and save more than 1000 people from the sea\. Unfortunately a teenager was found dead on one of the rubber boats but everyone else was ok and above all happy to be alive\.As usual, they kept updating the situation on tweeter and showed what was happening today at the gates of Europe\. \. again…
 
 
-![Photo by [MSF Sea](https://twitter.com/MSF_Sea/status/852889948596383746)](assets/e1be365614c2/1*mmcVCtrOxjfV5jaW89t_YA.jpeg)
+![Photo by [MSF Sea](https://twitter.com/MSF_Sea/status/852889948596383746)](../assets/e1be365614c2/1*mmcVCtrOxjfV5jaW89t_YA.jpeg)
 
 Photo by [MSF Sea](https://twitter.com/MSF_Sea/status/852889948596383746)
 
@@ -70,12 +70,12 @@ An Iraqi refugee has to be taken to a hospital in Athens today after he was atta
 Also on Chios refugees reported today that police went into Vial detention centre and detained 25 refugees using disproportionate violence to do so\. They reportedly broke the doors of the rooms and arrested people from different nationalities without any reason\. They were then taken to the police station and after two hours of humiliation they were released\. Refugees reported the police was extremely aggressive and racist saying that they weren’t welcome there and why wouldn’t they go back to Syria\. These photos were taken by one of the targeted refugees after it happened:
 
 
-![Photo on [**Midnight Helpers**](https://www.facebook.com/groups/ROYartsaveslives/permalink/1313008712122127/)](assets/e1be365614c2/1*cYkp7sxbK12iS_SqCov-gQ.jpeg)
+![Photo on [**Midnight Helpers**](https://www.facebook.com/groups/ROYartsaveslives/permalink/1313008712122127/)](../assets/e1be365614c2/1*cYkp7sxbK12iS_SqCov-gQ.jpeg)
 
 Photo on [**Midnight Helpers**](https://www.facebook.com/groups/ROYartsaveslives/permalink/1313008712122127/)
 
 
-![Photo on [**Midnight Helpers**](https://www.facebook.com/groups/ROYartsaveslives/permalink/1313008712122127/)](assets/e1be365614c2/1*8zfs2BbVEhEuU69Y_EpwKA.jpeg)
+![Photo on [**Midnight Helpers**](https://www.facebook.com/groups/ROYartsaveslives/permalink/1313008712122127/)](../assets/e1be365614c2/1*8zfs2BbVEhEuU69Y_EpwKA.jpeg)
 
 Photo on [**Midnight Helpers**](https://www.facebook.com/groups/ROYartsaveslives/permalink/1313008712122127/)
 #### Rhodes
@@ -118,7 +118,7 @@ And contact them:
 [**SIRIUS\.HELP**](https://www.facebook.com/sirius.help/) has made a new report about the situation in the serbian — hungarian border and state that the transit zones are seeing a lot of movement and filled up much more than they anticipated as the family sector has almost reached its capacity\. There are nearly 70 children there at the moment\.
 
 
-![Photo by [**SIRIUS\.HELP**](https://www.facebook.com/sirius.help/)](assets/e1be365614c2/1*i_zomXO1mRyQVizg6lY0sQ.png)
+![Photo by [**SIRIUS\.HELP**](https://www.facebook.com/sirius.help/)](../assets/e1be365614c2/1*i_zomXO1mRyQVizg6lY0sQ.png)
 
 Photo by [**SIRIUS\.HELP**](https://www.facebook.com/sirius.help/)
 
@@ -131,12 +131,12 @@ In the last few day we got some disturbing reports from refugees about a camp ca
 After the fire and after many people being taken to shelters throughout the country, and like happened before in other places, a new camp has emerged in Dunkirk with around 300 refugees that don’t want to be taken to other parts of the country and want to keep trying to reach the UK\. These 300 people have slept in the Puythouck zone in Grande Synthe and since 9 am this morning, police and gendarmerie have surrounded the camp creating a “security zone” around it\.
 
 
-![Photo by [lepharedunkerquois](http://www.lepharedunkerquois.fr/fait-divers/grande-synthe-300-refugies-dans-un-camp-sauvage-photos-ia685b0n205669)](assets/e1be365614c2/1*q7tjdOsp1b_M-vTJ1RBVsg.jpeg)
+![Photo by [lepharedunkerquois](http://www.lepharedunkerquois.fr/fait-divers/grande-synthe-300-refugies-dans-un-camp-sauvage-photos-ia685b0n205669)](../assets/e1be365614c2/1*q7tjdOsp1b_M-vTJ1RBVsg.jpeg)
 
 Photo by [lepharedunkerquois](http://www.lepharedunkerquois.fr/fait-divers/grande-synthe-300-refugies-dans-un-camp-sauvage-photos-ia685b0n205669)
 
 
-![Photo by [lepharedunkerquois](http://www.lepharedunkerquois.fr/fait-divers/grande-synthe-300-refugies-dans-un-camp-sauvage-photos-ia685b0n205669)](assets/e1be365614c2/1*X4nIK_bgUVG3lO12nTiisg.jpeg)
+![Photo by [lepharedunkerquois](http://www.lepharedunkerquois.fr/fait-divers/grande-synthe-300-refugies-dans-un-camp-sauvage-photos-ia685b0n205669)](../assets/e1be365614c2/1*X4nIK_bgUVG3lO12nTiisg.jpeg)
 
 Photo by [lepharedunkerquois](http://www.lepharedunkerquois.fr/fait-divers/grande-synthe-300-refugies-dans-un-camp-sauvage-photos-ia685b0n205669)
 
@@ -145,7 +145,7 @@ There has been a huge emergency response since the fire took place and loads of 
 [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/?fref=nf) have made a request for essential items:
 
 
-![Image by [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/?fref=nf)](assets/e1be365614c2/1*KLn9VGubHFLEch7vt7XXyA.png)
+![Image by [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/?fref=nf)](../assets/e1be365614c2/1*KLn9VGubHFLEch7vt7XXyA.png)
 
 Image by [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/?fref=nf)
 

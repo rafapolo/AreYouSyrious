@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: 2018 Panorama of Refugee Rights in Turkey
+title: "AYS SPECIAL: 2018 Panorama of Refugee Rights in Turkey"
 author: Are You Syrious?
 date: 2018-12-27T08:34:18.298+0000
 last_modified_at: 2018-12-28T14:24:16.618+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,special,turkey,syria,2018]
 description: Once known as a country that itself produced immigrants, Turkey has become the largest recipient / destination for refugees in the seven…
 image:
-  path: assets/f8ab3da2a69/1*YJ3q-KLpPOf9gnfakKM0rg.jpeg
+  path: ../assets/f8ab3da2a69/1*YJ3q-KLpPOf9gnfakKM0rg.jpeg
 ---
 
 ### AYS SPECIAL: **2018 Panorama of Refugee Rights in Turkey**
@@ -15,7 +15,7 @@ image:
 _Once known as a country that itself produced immigrants, Turkey has become the largest recipient / destination for refugees in the seven years since the inception of the war in Syria, the country with which it shares the longest land border\. According to official counts, 4 million refugees, of which 3\.6 million are Syrians under temporary protection status, currently reside in Turkey\. The largest numbers live in border towns such as Şanlıurfa, Kilis, Gaziantep and Hatay and, due to better employment opportunities, in large western metropolises such as İstanbul and İzmir\. A total of 144,000 Syrians live in Temporary Shelter Facilities \(ie\. camps\. \) After this brief and statistic\-heavy information easily available through the UNHCR website, let us turn to the realities of refugee and refugee rights issues in 2018 Turkey\._
 
 
-![Photo by Sinan Kılıç\. Family from Kobane, Syria living in a tent in Kadifekale, İzmir\.](assets/f8ab3da2a69/1*YJ3q-KLpPOf9gnfakKM0rg.jpeg)
+![Photo by Sinan Kılıç\. Family from Kobane, Syria living in a tent in Kadifekale, İzmir\.](../assets/f8ab3da2a69/1*YJ3q-KLpPOf9gnfakKM0rg.jpeg)
 
 Photo by Sinan Kılıç\. Family from Kobane, Syria living in a tent in Kadifekale, İzmir\.
 ### **Integration**

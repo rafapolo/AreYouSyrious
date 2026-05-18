@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 27/06/17: Up to 10 000 people rescued in the Mediterranean in three days
+title: "AYS Daily Digest 27/06/17: Up to 10 000 people rescued in the Mediterranean in three days"
 author: Are You Syrious?
 date: 2017-06-27T23:08:36.751+0100
 last_modified_at: 2017-06-28T12:29:55.800+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,greece,hungary,france,syria]
 description: Rescue ships working over capacity and around the clock / Meanwhile the EU continues to focus on detention / Detainees in Syrian prison…
 image:
-  path: assets/caee4708da1d/1*uXZAcGcne6jgDE30TZQMJw.jpeg
+  path: ../assets/caee4708da1d/1*uXZAcGcne6jgDE30TZQMJw.jpeg
 ---
 
 ### AYS Daily Digest 27/06/17: Up to 10 000 people rescued in the Mediterranean in three days
@@ -15,7 +15,7 @@ image:
 _Rescue ships working over capacity and around the clock / Meanwhile the EU continues to focus on detention / Detainees in Syrian prison demands freedom / Extreme heat wave in Greece this upcoming weekend / Not enough water in Souda at Chios / More violence on the Hungarian border / And more news…_
 
 
-![Photo: [Jugend Rettet e\.V\.](https://www.facebook.com/JugendRettet/) \. Several NGO’s have been out day and night on the Mediterranean, saving people at sea\.](assets/caee4708da1d/1*uXZAcGcne6jgDE30TZQMJw.jpeg)
+![Photo: [Jugend Rettet e\.V\.](https://www.facebook.com/JugendRettet/) \. Several NGO’s have been out day and night on the Mediterranean, saving people at sea\.](../assets/caee4708da1d/1*uXZAcGcne6jgDE30TZQMJw.jpeg)
 
 Photo: [Jugend Rettet e\.V\.](https://www.facebook.com/JugendRettet/) \. Several NGO’s have been out day and night on the Mediterranean, saving people at sea\.
 ### Feature
@@ -56,7 +56,7 @@ Both [Sea\-Watch](https://www.facebook.com/seawatchprojekt/?fref=mentions) , [No
 
 
 
-![Photo: [Sea\-Watch](https://www.facebook.com/seawatchprojekt/?ref=br_rs&hc_ref=SEARCH&fref=nf)](assets/caee4708da1d/1*QWpu7Jpt3YVClW9_qXZnwg.jpeg)
+![Photo: [Sea\-Watch](https://www.facebook.com/seawatchprojekt/?ref=br_rs&hc_ref=SEARCH&fref=nf)](../assets/caee4708da1d/1*QWpu7Jpt3YVClW9_qXZnwg.jpeg)
 
 Photo: [Sea\-Watch](https://www.facebook.com/seawatchprojekt/?ref=br_rs&hc_ref=SEARCH&fref=nf)
 
@@ -74,7 +74,7 @@ As a follow up on the previous information about over crowded ships, they did a 
 [After a busy day the resources onboard are finished, including fresh water and medicines\. Other ships will continue the SAR\-operations this night\.](https://www.facebook.com/JugendRettet/photos/a.418621685013737.1073741828.409016039307635/690844791124757/?type=3&theater)
 
 
-![Photo: [Jugend Rettet e\.V\.](https://www.facebook.com/JugendRettet/)](assets/caee4708da1d/1*wLDm4Zbl68rLE-f__D6Gqg.jpeg)
+![Photo: [Jugend Rettet e\.V\.](https://www.facebook.com/JugendRettet/)](../assets/caee4708da1d/1*wLDm4Zbl68rLE-f__D6Gqg.jpeg)
 
 Photo: [Jugend Rettet e\.V\.](https://www.facebook.com/JugendRettet/)
 
@@ -128,11 +128,11 @@ There is an extreme heat wave with up to 43 degrees celcius coming to Greece soo
 Also, if you need treatment but are refused receiving it, [here is how to do](https://www.facebook.com/nobordersnetwork/posts/1432813596786528?hc_location=ufi) \. If you don’t understand the language, ask someone for help\. The background to the problem is that lately refugees have been denied social security numbers \(AMKA\), and therefore several hospitals refuse to help\.
 
 
-![](assets/caee4708da1d/1*Z3OnzaEH2Vg9PM_P5YD50Q.jpeg)
+![](../assets/caee4708da1d/1*Z3OnzaEH2Vg9PM_P5YD50Q.jpeg)
 
 
 
-![Photos: [NoBorders](https://www.facebook.com/nobordersnetwork/)](assets/caee4708da1d/1*4oyZElDNn5slSpFVLFQaIw.jpeg)
+![Photos: [NoBorders](https://www.facebook.com/nobordersnetwork/)](../assets/caee4708da1d/1*4oyZElDNn5slSpFVLFQaIw.jpeg)
 
 Photos: [NoBorders](https://www.facebook.com/nobordersnetwork/)
 #### Mainland
@@ -194,7 +194,7 @@ Doctors and nurses needed in Moria
 If this description suits in on you, send an email to [aid@ercintl\.org](mailto:aid@ercintl.org) \.
 
 
-![Photo: [ERCI — Emergency Response Centre International](https://www.facebook.com/ercintl/?ref=br_rs)](assets/caee4708da1d/1*U7R7Lhyb8TC7cNCZpURbnQ.jpeg)
+![Photo: [ERCI — Emergency Response Centre International](https://www.facebook.com/ercintl/?ref=br_rs)](../assets/caee4708da1d/1*U7R7Lhyb8TC7cNCZpURbnQ.jpeg)
 
 Photo: [ERCI — Emergency Response Centre International](https://www.facebook.com/ercintl/?ref=br_rs)
 
@@ -232,11 +232,11 @@ In the evening at around 10\.20–10\.30 pm on the 24th of June, a group of 23 y
 The abuse included dogs, sticks, being ran over by officials with shoes and getting woken up after passing out by getting water in the face\. The men were after the abuse and some time laying on the ground, put in vans and driven back to Serbia, from where they had to find their way back to the transit camp themselves\.
 
 
-![](assets/caee4708da1d/1*PNbAMrw_pwBPPWUzBtwr_Q.jpeg)
+![](../assets/caee4708da1d/1*PNbAMrw_pwBPPWUzBtwr_Q.jpeg)
 
 
 
-![Photo AYS](assets/caee4708da1d/1*-oF5KQd9uLwKPHqpd2P2-Q.jpeg)
+![Photo AYS](../assets/caee4708da1d/1*-oF5KQd9uLwKPHqpd2P2-Q.jpeg)
 
 Photo AYS
 
@@ -246,7 +246,7 @@ Staff from UNHCR and [HCIT](http://hcit.rs) took photos of the injuries but didn
 Both good and bad news is coming from France\. In Calais the administrative court on Monday, yesterday, decided that officials in Calais should give the 400–600 migrants sleeping rough in the area humanitarian aid, including much needed drinking water\. [But on the same time, the administrative court rejected a request to set up a new emergency center in the area](http://m.france24.com/en/20170626-france-calais-court-orders-officials-provide-migrants-aid-water-toilets) \. At least people on the streets will have drinking fountains to enjoy, but still no shelters\. [It was 11 ngo’s involved in the demand behind this improvement\. If the city of Calais fails with providing this, they will face a 100 euro fine per day\.](http://m.france24.com/en/20170626-france-calais-court-orders-officials-provide-migrants-aid-water-toilets) It could be seen as a victory for the human rights activists working in the area\.
 
 
-![Photo: [Help Refugees](https://www.facebook.com/HelpRefugeesUK/)](assets/caee4708da1d/1*Kqnp5WA2_ALqdRnt74vOkA.jpeg)
+![Photo: [Help Refugees](https://www.facebook.com/HelpRefugeesUK/)](../assets/caee4708da1d/1*Kqnp5WA2_ALqdRnt74vOkA.jpeg)
 
 Photo: [Help Refugees](https://www.facebook.com/HelpRefugeesUK/)
 
@@ -274,7 +274,7 @@ Also in France, in the town of Torri, the Police today blocked the way for appro
 In Paris, the police evicted refugees sleeping rough\. [Again\.](https://www.facebook.com/groups/P2PParis/permalink/1395515080535362/?hc_location=ufi)
 
 
-![Photo: [LaMeute](https://www.facebook.com/LaMeutePhotographie/)](assets/caee4708da1d/1*93uTabGU75fI1Iln7pG_Ng.jpeg)
+![Photo: [LaMeute](https://www.facebook.com/LaMeutePhotographie/)](../assets/caee4708da1d/1*93uTabGU75fI1Iln7pG_Ng.jpeg)
 
 Photo: [LaMeute](https://www.facebook.com/LaMeutePhotographie/)
 ### Italy

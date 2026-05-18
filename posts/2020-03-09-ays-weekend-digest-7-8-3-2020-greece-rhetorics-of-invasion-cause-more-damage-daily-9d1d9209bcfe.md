@@ -1,20 +1,20 @@
 ---
-title: AYS Weekend Digest 7–8/3/2020 Greece: Rhetorics of “invasion” cause more damage daily
+title: "AYS Weekend Digest 7–8/3/2020 Greece: Rhetorics of “invasion” cause more damage daily"
 author: Are You Syrious?
 date: 2020-03-09T11:42:26.100+0000
 last_modified_at: 2020-03-09T15:28:24.340+0000
 categories: Are You Syrious?
 tags: [refugees,digest,lesvos,evros,libya]
-description: Updates from Lesvos and the land border. Greece: Further cuts to support for refugees. Libya: Fire at Zintan detention centre.
+description: "Updates from Lesvos and the land border. Greece: Further cuts to support for refugees. Libya: Fire at Zintan detention centre."
 image:
-  path: assets/9d1d9209bcfe/1*O_Gy3nWZ1BV3lQyWs7dNgA.jpeg
+  path: ../assets/9d1d9209bcfe/1*O_Gy3nWZ1BV3lQyWs7dNgA.jpeg
 ---
 
 ### AYS Weekend Digest 7–8/3/2020 Greece: Rhetorics of “invasion” cause more damage daily
 #### Updates from Lesvos and the land border between Greece and Turkey\. Greece: Further cuts to support for refugees\. Libya: Fire at Zintan detention centre\. Germany: 5,000 people against institutional violence at Europe’s border\. Albania: Syrian group reach the country from Greece\.
 
 
-![“All Together Now” by Antonio Rodriguez Garcia, via [Art Against](https://www.facebook.com/artagainstproject/photos/a.704384742944296/2788346147881468/?type=3&theater)](assets/9d1d9209bcfe/1*O_Gy3nWZ1BV3lQyWs7dNgA.jpeg)
+![“All Together Now” by Antonio Rodriguez Garcia, via [Art Against](https://www.facebook.com/artagainstproject/photos/a.704384742944296/2788346147881468/?type=3&theater)](../assets/9d1d9209bcfe/1*O_Gy3nWZ1BV3lQyWs7dNgA.jpeg)
 
 “All Together Now” by Antonio Rodriguez Garcia, via [Art Against](https://www.facebook.com/artagainstproject/photos/a.704384742944296/2788346147881468/?type=3&theater)
 #### GREECE: The rhetorics of “invasion” cause more damage daily\.
@@ -22,7 +22,7 @@ image:
 Continuing our reports from the Greek borders, on Saturday 7th two buildings of the One Happy Family community centre in Lesvos were [deliberately set on fire](https://stonisi.gr/post/7443/ola-deixnoyn-emprhsmo) \. Luckily no one was inside\.
 
 
-[![Fire at the school of the "One Happy Family" refugee structure in Lesvos](assets/9d1d9209bcfe/9440_hqdefault.jpg "Fire at the school of the "One Happy Family" refugee structure in Lesvos")](https://www.youtube.com/watch?v=_K8da0zfdKU)
+[![Fire at the school of the "One Happy Family" refugee structure in Lesvos](../assets/9d1d9209bcfe/9440_hqdefault.jpg "Fire at the school of the "One Happy Family" refugee structure in Lesvos")](https://www.youtube.com/watch?v=_K8da0zfdKU)
 
 
 From One Happy Family:
@@ -44,7 +44,7 @@ From One Happy Family:
 
 
 
-![](assets/9d1d9209bcfe/1*-3eyBM8ijyaVb1VL9a7Tzw.jpeg)
+![](../assets/9d1d9209bcfe/1*-3eyBM8ijyaVb1VL9a7Tzw.jpeg)
 
 
 
@@ -61,7 +61,7 @@ From One Happy Family:
 
 
 
-![](assets/9d1d9209bcfe/1*ZxuwfToCDIBAtPJgCU2TOw.jpeg)
+![](../assets/9d1d9209bcfe/1*ZxuwfToCDIBAtPJgCU2TOw.jpeg)
 
 
 
@@ -131,7 +131,7 @@ From One Happy Family:
 The arson attack happened only a few hours after a large solidarity demonstration in Mytilene\. Thousands of people gathered to protest against the overcrowding of the islands, against the violent attacks upon activists, locals and NGOs who stand in solidarity with refugees on the islands, against the fascists — tourists of misery — who arrived on the islands from different European countries over the last week, and against the policies of both the Greek government and the European Union\.
 
 
-![Mitilene, Lesvos, 7 March 2020, People gather against the cruel policies against people on the move \(Photo by [Stand by Me Lesvos](https://www.facebook.com/www.standbymelesvos.gr/)](assets/9d1d9209bcfe/1*NXY6Ci00rBkcWbJgKZI5RQ.jpeg)
+![Mitilene, Lesvos, 7 March 2020, People gather against the cruel policies against people on the move \(Photo by [Stand by Me Lesvos](https://www.facebook.com/www.standbymelesvos.gr/)](../assets/9d1d9209bcfe/1*NXY6Ci00rBkcWbJgKZI5RQ.jpeg)
 
 Mitilene, Lesvos, 7 March 2020, People gather against the cruel policies against people on the move \(Photo by [Stand by Me Lesvos](https://www.facebook.com/www.standbymelesvos.gr/)
 
@@ -230,11 +230,11 @@ A protest was held in Parazkule, on the Turkish side of the border by women on t
 
 
 
-![](assets/9d1d9209bcfe/1*qrzVma_hAVGcXGtyuX3Dgw.jpeg)
+![](../assets/9d1d9209bcfe/1*qrzVma_hAVGcXGtyuX3Dgw.jpeg)
 
 
 
-![Images from [Alexandra Bgs](https://twitter.com/olyphanta/status/1236719128318218240) and [Mare Liberum e\.V\.](https://twitter.com/teammareliberum/status/1236697591431213056/photo/1)](assets/9d1d9209bcfe/1*eEeowwrlO1ToUQX8fqXZsg.jpeg)
+![Images from [Alexandra Bgs](https://twitter.com/olyphanta/status/1236719128318218240) and [Mare Liberum e\.V\.](https://twitter.com/teammareliberum/status/1236697591431213056/photo/1)](../assets/9d1d9209bcfe/1*eEeowwrlO1ToUQX8fqXZsg.jpeg)
 
 Images from [Alexandra Bgs](https://twitter.com/olyphanta/status/1236719128318218240) and [Mare Liberum e\.V\.](https://twitter.com/teammareliberum/status/1236697591431213056/photo/1)
 

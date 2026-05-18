@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 22/1/21: 6.5 Mil. Euros for a fake NGO
+title: "AYS Daily Digest 22/1/21: 6.5 Mil. Euros for a fake NGO"
 author: Are You Syrious?
 date: 2021-01-23T18:52:58.217+0000
 last_modified_at: 2021-01-23T18:52:58.217+0000
 categories: Are You Syrious?
 tags: [refugees,digest,ngo,syria,greece]
-description: Syria: deteriorating security conditions at al-Hol camp / Flooding in the Arsal refugee camp during strict COVID-19 lockdown makes access…
+description: "Syria: deteriorating security conditions at al-Hol camp / Flooding in the Arsal refugee camp during strict COVID-19 lockdown makes access…"
 image:
-  path: assets/3b7218f2a05d/0*0mClXNEgqfQD2Jk1.jpeg
+  path: ../assets/3b7218f2a05d/0*0mClXNEgqfQD2Jk1.jpeg
 ---
 
 ### AYS Daily Digest 22/1/21: 6\.5 Mil\. Euros for a fake NGO
 ### Syria: deteriorating security conditions at al\-Hol camp / Flooding in the Arsal refugee camp during strict COVID\-19 lockdown makes access to humanitarian aid difficult / refugees being threatened in Canary islands / Message from Napier barracks
 
 
-![](assets/3b7218f2a05d/0*z_KcZjtwRfvfcB0i.jpeg)
+![](../assets/3b7218f2a05d/0*z_KcZjtwRfvfcB0i.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----419c308e3ae3--------------------------------)
@@ -22,11 +22,11 @@ image:
 [Jan 23](ays-daily-digest-22-1-21-6-5-mio-euros-for-a-fake-ngo-419c308e3ae3?source=post_page-----419c308e3ae3--------------------------------) · 8 min read
 
 
-![](assets/3b7218f2a05d/0*bauQ3SbrThWtAOxx)
+![](../assets/3b7218f2a05d/0*bauQ3SbrThWtAOxx)
 
 
 
-![](assets/3b7218f2a05d/0*0mClXNEgqfQD2Jk1.jpeg)
+![](../assets/3b7218f2a05d/0*0mClXNEgqfQD2Jk1.jpeg)
 
 ### FEATURED
 

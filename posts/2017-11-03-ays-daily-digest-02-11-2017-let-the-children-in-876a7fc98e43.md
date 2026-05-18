@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 02/11/17: LET THE CHILDREN IN!
+title: "AYS Daily Digest 02/11/17: LET THE CHILDREN IN!"
 author: Are You Syrious?
 date: 2017-11-03T00:24:04.127+0000
 last_modified_at: 2017-11-03T04:09:13.564+0000
@@ -7,12 +7,12 @@ categories:
 tags: [refugees,children,protest,mediterranean,human-rights]
 description: Courts of Justice rules against judicial review filed by Help Refugees in order to move on and complete the implementation of the Dubs…
 image:
-  path: assets/876a7fc98e43/1*D8eCSJ8c_jU0r218qcrXYQ.jpeg
+  path: ../assets/876a7fc98e43/1*D8eCSJ8c_jU0r218qcrXYQ.jpeg
 ---
 
 
 
-![Athens: second day of the hunger strike \(Photo by Marios Lolos\)](assets/876a7fc98e43/1*D8eCSJ8c_jU0r218qcrXYQ.jpeg)
+![Athens: second day of the hunger strike \(Photo by Marios Lolos\)](../assets/876a7fc98e43/1*D8eCSJ8c_jU0r218qcrXYQ.jpeg)
 
 Athens: second day of the hunger strike \(Photo by Marios Lolos\)
 ### **AYS Daily Digest 02/11/17: LET THE CHILDREN IN\!**
@@ -29,7 +29,7 @@ The UK, in particular, launched a scheme in April 2016, called the Dubs Amendmen
 The reality was different: the Home Office guaranteed to take in safely 480 vulnerable minors \(with the original number set at 350, and only increased after public pressure\) \. After one year and a half, only around 200 children have been transferred from Calais, and even those just in 2016\.
 
 
-![\(Photo by Help Refugees\)](assets/876a7fc98e43/1*_QkmVoPx5yKBH9BilyM_tg.jpeg)
+![\(Photo by Help Refugees\)](../assets/876a7fc98e43/1*_QkmVoPx5yKBH9BilyM_tg.jpeg)
 
 \(Photo by Help Refugees\)
 
@@ -67,15 +67,15 @@ Migration Minister Mouzalas [expressed his concern](http://www.ekathimerini.com/
 Below are detailed figures and statistics regarding registrations and arrivals on the Greek islands in the month of October\. Credit for the figures goes to Tommy Olsen and AYS\.
 
 
-![](assets/876a7fc98e43/1*xGqwpwbN0cL5DdW04VEj2g.jpeg)
+![](../assets/876a7fc98e43/1*xGqwpwbN0cL5DdW04VEj2g.jpeg)
 
 
 
-![](assets/876a7fc98e43/1*pc96s1sv1OLJ7x0gWvE7eA.jpeg)
+![](../assets/876a7fc98e43/1*pc96s1sv1OLJ7x0gWvE7eA.jpeg)
 
 
 
-![](assets/876a7fc98e43/1*ZmacqwQXxaDBs4Rg9854LQ.jpeg)
+![](../assets/876a7fc98e43/1*ZmacqwQXxaDBs4Rg9854LQ.jpeg)
 
 
 4,172 new registrations were reported in October\. In total, on all of the Greek islands, 112 boats arrived in October, carrying a total of 4,116 people\.
@@ -111,7 +111,7 @@ Total official numbers on the island stand at 1,160 people\.
 In October, the other islands \(Rhodes, Leros, Tilos etc\. \) have received 12 boats, with a total of 407 people\. In September, they had 17 boats, with a total of 402 people\.
 
 
-![](assets/876a7fc98e43/1*NJsxLZ5355h10UFIIzI6oA.jpeg)
+![](../assets/876a7fc98e43/1*NJsxLZ5355h10UFIIzI6oA.jpeg)
 
 
 In October, the Turkish Coast Guard \(TCG\) has stopped 67 boats on their way to the Greek islands, with a total of 2,931 people\. In September, they stopped 75 boats, with a total of 3,408 people\.
@@ -130,7 +130,7 @@ Following what AYS [reported](ays-daily-digest-01-11-17-hunger-strike-take-us-to
 
 
 
-![This is the mother on the day we finally got the tickets, at Himalaya Travel\. The family was a mother, four teenagers, and two infant boys of their oldest \(17\-year old\) daughter\. The father \(ie\. grandfather of two boys\) was in Germany\. The husband of the oldest daughter remained in Syria at the time\. Credit: AYS](assets/876a7fc98e43/1*4H4LYEgPdvg-0MMAvFJRZQ.jpeg)
+![This is the mother on the day we finally got the tickets, at Himalaya Travel\. The family was a mother, four teenagers, and two infant boys of their oldest \(17\-year old\) daughter\. The father \(ie\. grandfather of two boys\) was in Germany\. The husband of the oldest daughter remained in Syria at the time\. Credit: AYS](../assets/876a7fc98e43/1*4H4LYEgPdvg-0MMAvFJRZQ.jpeg)
 
 This is the mother on the day we finally got the tickets, at Himalaya Travel\. The family was a mother, four teenagers, and two infant boys of their oldest \(17\-year old\) daughter\. The father \(ie\. grandfather of two boys\) was in Germany\. The husband of the oldest daughter remained in Syria at the time\. Credit: AYS
 #### _Lesvos_
@@ -237,7 +237,7 @@ Unfortunately, a number of people are still missing and feared drowned\.
 Salvamento Marítimo is constantly carrying on search and rescue missions and, between September and October, 3,232 people were assisted in 212 emergencies situations\.
 
 
-![\(Figure by Salvamento Marítimo\)](assets/876a7fc98e43/1*vYRIGExrzI1cThAczmrUvQ.jpeg)
+![\(Figure by Salvamento Marítimo\)](../assets/876a7fc98e43/1*vYRIGExrzI1cThAczmrUvQ.jpeg)
 
 \(Figure by Salvamento Marítimo\)
 

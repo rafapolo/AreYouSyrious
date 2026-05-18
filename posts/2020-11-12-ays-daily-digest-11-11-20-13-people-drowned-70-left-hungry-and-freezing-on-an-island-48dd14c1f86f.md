@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 11/11/20: 13 people drowned, 70 left hungry and freezing on an island!
+title: "AYS Daily Digest 11/11/20: 13 people drowned, 70 left hungry and freezing on an island!"
 author: Are You Syrious?
 date: 2020-11-12T15:10:13.917+0000
 last_modified_at: 2020-11-12T16:08:35.925+0000
 categories: Are You Syrious?
 tags: [digest,refugees,europe,migration,human-rights]
-description: Shipwrecks and lost lives in the sea push for direct and immediate demands to the governments / Serbia: Right wing protests, Activists and…
+description: "Shipwrecks and lost lives in the sea push for direct and immediate demands to the governments / Serbia: Right wing protests, Activists and…"
 image:
-  path: assets/48dd14c1f86f/0*cSLIZ3wJocxVJXE_
+  path: ../assets/48dd14c1f86f/0*cSLIZ3wJocxVJXE_
 ---
 
 ### AYS Daily Digest 11/11/20: 13 people drowned, 70 left hungry and freezing on an island\!
 #### Shipwrecks and lost lives in the sea push for direct and immediate demands to the governments / Serbia: Right wing protests, activists and humanitarian workers under constant pressure / Spain: Pressure piles up on people stuck in Arguineguín / West Wales in full solidarity with the Penally asylum seekers / Recommended reads & more info
 
 
-![Photo: [Proactiva Open Arms](https://www.facebook.com/proactivaservice/?__cft__[0]=AZUq4NVfVNwe70Vj6Esrh-deU_KTfSuVTIjN0TFV6P8bZPpEXEFSaVkuzoEzLrQfFQ0c4z3V9zTVaushqzwtAIFa2_h4BjwL-3_KrHrVtmLdMODT9aZwKV5S8kPqlvT4gOr43I3tZ8YlWeIPHLvCqQxS7MWYAkjT1ua1_8pCWOXlRkZbkeieZqNuRNoOPWe_y_52QQcPcM6BVw44YZicIlTP&__tn__=-UC*F)](assets/48dd14c1f86f/0*cSLIZ3wJocxVJXE_)
+![Photo: [Proactiva Open Arms](https://www.facebook.com/proactivaservice/?__cft__[0]=AZUq4NVfVNwe70Vj6Esrh-deU_KTfSuVTIjN0TFV6P8bZPpEXEFSaVkuzoEzLrQfFQ0c4z3V9zTVaushqzwtAIFa2_h4BjwL-3_KrHrVtmLdMODT9aZwKV5S8kPqlvT4gOr43I3tZ8YlWeIPHLvCqQxS7MWYAkjT1ua1_8pCWOXlRkZbkeieZqNuRNoOPWe_y_52QQcPcM6BVw44YZicIlTP&__tn__=-UC*F)](../assets/48dd14c1f86f/0*cSLIZ3wJocxVJXE_)
 
 Photo: [Proactiva Open Arms](https://www.facebook.com/proactivaservice/?__cft__[0]=AZUq4NVfVNwe70Vj6Esrh-deU_KTfSuVTIjN0TFV6P8bZPpEXEFSaVkuzoEzLrQfFQ0c4z3V9zTVaushqzwtAIFa2_h4BjwL-3_KrHrVtmLdMODT9aZwKV5S8kPqlvT4gOr43I3tZ8YlWeIPHLvCqQxS7MWYAkjT1ua1_8pCWOXlRkZbkeieZqNuRNoOPWe_y_52QQcPcM6BVw44YZicIlTP&__tn__=-UC*F)
 #### FEATURED
@@ -60,11 +60,11 @@ Josoor first reported about the situation:
 
 
 
-[![BREAKING NEWS: People pushed back stranded on island in middle of Evros](assets/48dd14c1f86f/c0e5_hqdefault.jpg "BREAKING NEWS: People pushed back stranded on island in middle of Evros")](https://www.youtube.com/watch?v=_fm3HxAtHzU)
+[![BREAKING NEWS: People pushed back stranded on island in middle of Evros](../assets/48dd14c1f86f/c0e5_hqdefault.jpg "BREAKING NEWS: People pushed back stranded on island in middle of Evros")](https://www.youtube.com/watch?v=_fm3HxAtHzU)
 
 
 
-![[“This](https://www.facebook.com/borderviolencemonitoring/?__cft__[0]=AZWn-QmC7aXEBPrEI-zx0YPlhpKIZetqrWfao-yZqYvnJd1QyepuGMyanvM5Vx_Gb2FJsbSaBej5t1I2MyGwVRIBCWOY-1Ls6WB7R0RX8yrpwAd_MnEhHLuOm-ORTGqtCJ5NS8PizVbUCATQoxrbJDGLbXPgtiHEOX-dfGfPn3TNrbk8GQ5yM0eqZsxSb9xxjrSewShIuvI-iDKRmcyZnexA&__tn__=-UC*F) is map from recent testimony published in our database \(collected in the field by volunteers of an anonymous member organization\) \. In this case, a person\-on\-the\-move described being apprehended by Greek authorities in Thessaloniki, near the city’s White Tower landmark\. The man then described being moved around to various locations over the course of three days before finally being transported to the Evros River border near Feres and pushed back to Turkey in a group of almost of 90 persons\. The full statement can be accessed on our public database [here](https://www.borderviolence.eu/.../september-15-2020-2200.../) ” \(Map and info: [Border Violence Monitoring Network](https://www.facebook.com/borderviolencemonitoring/?__cft__[0]=AZWn-QmC7aXEBPrEI-zx0YPlhpKIZetqrWfao-yZqYvnJd1QyepuGMyanvM5Vx_Gb2FJsbSaBej5t1I2MyGwVRIBCWOY-1Ls6WB7R0RX8yrpwAd_MnEhHLuOm-ORTGqtCJ5NS8PizVbUCATQoxrbJDGLbXPgtiHEOX-dfGfPn3TNrbk8GQ5yM0eqZsxSb9xxjrSewShIuvI-iDKRmcyZnexA&__tn__=-UC*F) \)](assets/48dd14c1f86f/0*SMmKlOfHgCDPeXBj)
+![[“This](https://www.facebook.com/borderviolencemonitoring/?__cft__[0]=AZWn-QmC7aXEBPrEI-zx0YPlhpKIZetqrWfao-yZqYvnJd1QyepuGMyanvM5Vx_Gb2FJsbSaBej5t1I2MyGwVRIBCWOY-1Ls6WB7R0RX8yrpwAd_MnEhHLuOm-ORTGqtCJ5NS8PizVbUCATQoxrbJDGLbXPgtiHEOX-dfGfPn3TNrbk8GQ5yM0eqZsxSb9xxjrSewShIuvI-iDKRmcyZnexA&__tn__=-UC*F) is map from recent testimony published in our database \(collected in the field by volunteers of an anonymous member organization\) \. In this case, a person\-on\-the\-move described being apprehended by Greek authorities in Thessaloniki, near the city’s White Tower landmark\. The man then described being moved around to various locations over the course of three days before finally being transported to the Evros River border near Feres and pushed back to Turkey in a group of almost of 90 persons\. The full statement can be accessed on our public database [here](https://www.borderviolence.eu/.../september-15-2020-2200.../) ” \(Map and info: [Border Violence Monitoring Network](https://www.facebook.com/borderviolencemonitoring/?__cft__[0]=AZWn-QmC7aXEBPrEI-zx0YPlhpKIZetqrWfao-yZqYvnJd1QyepuGMyanvM5Vx_Gb2FJsbSaBej5t1I2MyGwVRIBCWOY-1Ls6WB7R0RX8yrpwAd_MnEhHLuOm-ORTGqtCJ5NS8PizVbUCATQoxrbJDGLbXPgtiHEOX-dfGfPn3TNrbk8GQ5yM0eqZsxSb9xxjrSewShIuvI-iDKRmcyZnexA&__tn__=-UC*F) \)](../assets/48dd14c1f86f/0*SMmKlOfHgCDPeXBj)
 
 [“This](https://www.facebook.com/borderviolencemonitoring/?__cft__[0]=AZWn-QmC7aXEBPrEI-zx0YPlhpKIZetqrWfao-yZqYvnJd1QyepuGMyanvM5Vx_Gb2FJsbSaBej5t1I2MyGwVRIBCWOY-1Ls6WB7R0RX8yrpwAd_MnEhHLuOm-ORTGqtCJ5NS8PizVbUCATQoxrbJDGLbXPgtiHEOX-dfGfPn3TNrbk8GQ5yM0eqZsxSb9xxjrSewShIuvI-iDKRmcyZnexA&__tn__=-UC*F) is map from recent testimony published in our database \(collected in the field by volunteers of an anonymous member organization\) \. In this case, a person\-on\-the\-move described being apprehended by Greek authorities in Thessaloniki, near the city’s White Tower landmark\. The man then described being moved around to various locations over the course of three days before finally being transported to the Evros River border near Feres and pushed back to Turkey in a group of almost of 90 persons\. The full statement can be accessed on our public database [here](https://www.borderviolence.eu/.../september-15-2020-2200.../) ” \(Map and info: [Border Violence Monitoring Network](https://www.facebook.com/borderviolencemonitoring/?__cft__[0]=AZWn-QmC7aXEBPrEI-zx0YPlhpKIZetqrWfao-yZqYvnJd1QyepuGMyanvM5Vx_Gb2FJsbSaBej5t1I2MyGwVRIBCWOY-1Ls6WB7R0RX8yrpwAd_MnEhHLuOm-ORTGqtCJ5NS8PizVbUCATQoxrbJDGLbXPgtiHEOX-dfGfPn3TNrbk8GQ5yM0eqZsxSb9xxjrSewShIuvI-iDKRmcyZnexA&__tn__=-UC*F) \)
 #### SEA
@@ -130,7 +130,7 @@ In the border area with Croatia, volunteers of our allied organisation No Name K
 Here is what our friends from NNK have to say:
 
 
-![Photo: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?__cft__[0]=AZUgCqA92rh9Aj1M6PeYxEfSfNxwZfqGqp8r4He09s0PTMcyOf2JOlABuNsGsKf_uLS34YqAtIGgKOZVgWRxw-u8_fJeobVUmbzVmf-vfyajAS8CogtBt2Ml_TL-xUyPq5axrNBfrntsi5yWq4M9l75Sl3npEmy9v32UEZnaL65wCj7ZRjL5PvlPr63LK4DnWo-ArTpZFtIVDd-2QQdDryHb&__tn__=-UC*F)](assets/48dd14c1f86f/0*CQ58uBHZrXqeGXy9)
+![Photo: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?__cft__[0]=AZUgCqA92rh9Aj1M6PeYxEfSfNxwZfqGqp8r4He09s0PTMcyOf2JOlABuNsGsKf_uLS34YqAtIGgKOZVgWRxw-u8_fJeobVUmbzVmf-vfyajAS8CogtBt2Ml_TL-xUyPq5axrNBfrntsi5yWq4M9l75Sl3npEmy9v32UEZnaL65wCj7ZRjL5PvlPr63LK4DnWo-ArTpZFtIVDd-2QQdDryHb&__tn__=-UC*F)](../assets/48dd14c1f86f/0*CQ58uBHZrXqeGXy9)
 
 Photo: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?__cft__[0]=AZUgCqA92rh9Aj1M6PeYxEfSfNxwZfqGqp8r4He09s0PTMcyOf2JOlABuNsGsKf_uLS34YqAtIGgKOZVgWRxw-u8_fJeobVUmbzVmf-vfyajAS8CogtBt2Ml_TL-xUyPq5axrNBfrntsi5yWq4M9l75Sl3npEmy9v32UEZnaL65wCj7ZRjL5PvlPr63LK4DnWo-ArTpZFtIVDd-2QQdDryHb&__tn__=-UC*F)
 
@@ -211,7 +211,7 @@ If someone you know is infected with COVID\-19, here is what they should do:
 
 
 
-[![Miles de migrantes, en condiciones infrahumanas en el muelle de Arguineguín](assets/48dd14c1f86f/0afc_hqdefault.jpg "Miles de migrantes, en condiciones infrahumanas en el muelle de Arguineguín")](https://www.youtube.com/watch?v=LvruJm0ldu4)
+[![Miles de migrantes, en condiciones infrahumanas en el muelle de Arguineguín](../assets/48dd14c1f86f/0afc_hqdefault.jpg "Miles de migrantes, en condiciones infrahumanas en el muelle de Arguineguín")](https://www.youtube.com/watch?v=LvruJm0ldu4)
 
 
 Designed to temporarily accommodate a maximum of 400 people, in recent days the camp set up at the Arguineguín pier for the emergency reception of people rescued from the waters near Gran Canaria has now [reportedly](https://tiempodecanarias.com/noticia/sucesos/video-y-fotos-or-asi-son-las-condiciones-infrahumanas-en-el-muelle-de-arguineguin) exceeded 2,000 people, with peaks close to 2,500 living together under inhumane conditions\.
@@ -234,7 +234,7 @@ Statement from a protest held by Penally asylum seekers on 11 November 2020 dema
 
 
 
-![Photos: [Stand Up To Racism West Wales](https://www.facebook.com/SUTRWestWales/?__cft__[0]=AZXANkkKvjA8VoMeBnkrk3lmbtoU3gzp-l5RDxOAJrTVx5xaebXlxSckxmMkv7PMTbWHTbwbK_AL7wIKlgO8EP89gcChtBsDZ3cJbIheISK7ZMUMEu3gU5F6Ma37YxZB-x0WlzjQHvXmdQGZLsk2sjbf&__tn__=-UC%2CP-R)](assets/48dd14c1f86f/0*UYTLvixlrDAbfxZe)
+![Photos: [Stand Up To Racism West Wales](https://www.facebook.com/SUTRWestWales/?__cft__[0]=AZXANkkKvjA8VoMeBnkrk3lmbtoU3gzp-l5RDxOAJrTVx5xaebXlxSckxmMkv7PMTbWHTbwbK_AL7wIKlgO8EP89gcChtBsDZ3cJbIheISK7ZMUMEu3gU5F6Ma37YxZB-x0WlzjQHvXmdQGZLsk2sjbf&__tn__=-UC%2CP-R)](../assets/48dd14c1f86f/0*UYTLvixlrDAbfxZe)
 
 Photos: [Stand Up To Racism West Wales](https://www.facebook.com/SUTRWestWales/?__cft__[0]=AZXANkkKvjA8VoMeBnkrk3lmbtoU3gzp-l5RDxOAJrTVx5xaebXlxSckxmMkv7PMTbWHTbwbK_AL7wIKlgO8EP89gcChtBsDZ3cJbIheISK7ZMUMEu3gU5F6Ma37YxZB-x0WlzjQHvXmdQGZLsk2sjbf&__tn__=-UC%2CP-R)
 
@@ -251,7 +251,7 @@ The group Stand Up To Racism, West Wales published that they stand in full suppo
 **Please attend our Welcome Event at Penally in support of the Refugees on Saturday 14 November at 12pm**
 
 
-![](assets/48dd14c1f86f/0*Y7RPElX0yK-jBOVk)
+![](../assets/48dd14c1f86f/0*Y7RPElX0yK-jBOVk)
 
 #### ETHIOPIA — SUDAN
 

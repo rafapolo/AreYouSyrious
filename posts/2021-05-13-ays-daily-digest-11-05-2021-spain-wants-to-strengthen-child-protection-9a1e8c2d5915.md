@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 12/05/2021: Spain wants to strengthen child protection
+title: "AYS Daily Digest 12/05/2021: Spain wants to strengthen child protection"
 author: Are You Syrious?
 date: 2021-05-13T10:49:40.933+0100
 last_modified_at: 2021-05-13T13:48:35.394+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,spain,greec,pushbacks]
 description: Senate votes in favor to stop examination of genitals of minors // Worries about mental health on Lesvos // Berlin halts vaccination of…
 image:
-  path: assets/9a1e8c2d5915/1*ZprlzGnU-Ab1BH-MHY01rg.jpeg
+  path: ../assets/9a1e8c2d5915/1*ZprlzGnU-Ab1BH-MHY01rg.jpeg
 ---
 
 ### AYS Daily Digest 12/05/2021: Spain wants to strengthen child protection
 #### Senate votes in favor to stop examination of genitals of minors // Worries about mental health on Lesvos // Berlin halts vaccination of refugees and homeless // Worsening situation in Italy and France
 
 
-![Minor’s rights were strengthened by the Spanish Senate\. Credits: Twitter/ [@DrAZoubeidi](https://twitter.com/DrAZoubeidi)](assets/9a1e8c2d5915/1*ZprlzGnU-Ab1BH-MHY01rg.jpeg)
+![Minor’s rights were strengthened by the Spanish Senate\. Credits: Twitter/ [@DrAZoubeidi](https://twitter.com/DrAZoubeidi)](../assets/9a1e8c2d5915/1*ZprlzGnU-Ab1BH-MHY01rg.jpeg)
 
 Minor’s rights were strengthened by the Spanish Senate\. Credits: Twitter/ [@DrAZoubeidi](https://twitter.com/DrAZoubeidi)
 ### Spain

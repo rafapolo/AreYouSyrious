@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 24/5/2017: 100-days-long protest in Helsinki
+title: "AYS Daily Digest 24/5/2017: 100-days-long protest in Helsinki"
 author: Are You Syrious?
 date: 2017-05-25T01:28:32.164+0100
 last_modified_at: 2017-05-25T06:21:53.550+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,chios,moas,libyan-coast-guard,finland]
 description: People killed on Syrian-Turkish border /// Updates from the Mediterranean /// Chios camps overcrowded /// Statements from Serbia ///…
 image:
-  path: assets/8c67e66e4e2b/1*uTGRl0q2nqu4dEjnC3BETg.jpeg
+  path: ../assets/8c67e66e4e2b/1*uTGRl0q2nqu4dEjnC3BETg.jpeg
 ---
 
 ### AYS Daily Digest 24/5/2017: 100\-days\-long protest in Helsinki
@@ -15,13 +15,13 @@ image:
 People killed on Syrian\-Turkish border /// Updates from the Mediterranean /// Chios camps overcrowded /// Statements from Serbia /// Refugees protest in Genova /// New deportations from Germany ///
 
 
-![Rescue operation seen by MOAS Maritime Patrol Aircraft \(MOAS, @cpcatrambone\)](assets/8c67e66e4e2b/1*uTGRl0q2nqu4dEjnC3BETg.jpeg)
+![Rescue operation seen by MOAS Maritime Patrol Aircraft \(MOAS, @cpcatrambone\)](../assets/8c67e66e4e2b/1*uTGRl0q2nqu4dEjnC3BETg.jpeg)
 
 Rescue operation seen by MOAS Maritime Patrol Aircraft \(MOAS, @cpcatrambone\)
 ### FEATURE: FINLAND
 
 
-![Protest in Helsinki \(Refugee hospitality group, Outi Popp\)](assets/8c67e66e4e2b/1*FTpPFIndfSnwgqqVQuMnEg.jpeg)
+![Protest in Helsinki \(Refugee hospitality group, Outi Popp\)](../assets/8c67e66e4e2b/1*FTpPFIndfSnwgqqVQuMnEg.jpeg)
 
 Protest in Helsinki \(Refugee hospitality group, Outi Popp\)
 
@@ -94,7 +94,7 @@ On the same day, [Italian news agency](http://www.ansa.it/sito/notizie/cronaca/2
 Today, at least 31 people drowned after a shipwreck 30 miles off the Lybian coast\. Among the victims children and toddlers, MOAS reports\. A boat of a group, carrying 500 people, suddenly capsized this morning\. Rescue operations were conducted by MOAS vessel Phoenix, boats from the Italian Navy and Coast guard, the Royal Navy and commercial vessels\. More than 600 people were rescued\.
 
 
-![People in the sea after this morning shipwreck \(MOAS, @cpcatrambone\)](assets/8c67e66e4e2b/1*DRz4p5F7v9PgmyKgySFU7g.jpeg)
+![People in the sea after this morning shipwreck \(MOAS, @cpcatrambone\)](../assets/8c67e66e4e2b/1*DRz4p5F7v9PgmyKgySFU7g.jpeg)
 
 People in the sea after this morning shipwreck \(MOAS, @cpcatrambone\)
 
@@ -138,15 +138,15 @@ Media sources [reports](http://www.ekathimerini.com/218672/article/ekathimerini/
 **CHIOS**
 
 
-![](assets/8c67e66e4e2b/1*PRO2_ZTStDf3cGOPdUa3-g.jpeg)
+![](../assets/8c67e66e4e2b/1*PRO2_ZTStDf3cGOPdUa3-g.jpeg)
 
 
 
-![](assets/8c67e66e4e2b/1*azHz5aAv6ujA1FBz6Zos1Q.jpeg)
+![](../assets/8c67e66e4e2b/1*azHz5aAv6ujA1FBz6Zos1Q.jpeg)
 
 
 
-![New Arrivals on Chios \(CESRT\)](assets/8c67e66e4e2b/1*W0FdthrVYEQVMoiBiNzgXg.jpeg)
+![New Arrivals on Chios \(CESRT\)](../assets/8c67e66e4e2b/1*W0FdthrVYEQVMoiBiNzgXg.jpeg)
 
 New Arrivals on Chios \(CESRT\)
 
@@ -215,11 +215,11 @@ The mobile library has moved to Athens\!
 
 
 
-![](assets/8c67e66e4e2b/1*2S7OdrRMtmMa66ixdXLv5A.jpeg)
+![](../assets/8c67e66e4e2b/1*2S7OdrRMtmMa66ixdXLv5A.jpeg)
 
 
 
-![ECHO Refugee Library](assets/8c67e66e4e2b/1*K2fv8iKM1KZSDXvH4IK7YA.jpeg)
+![ECHO Refugee Library](../assets/8c67e66e4e2b/1*K2fv8iKM1KZSDXvH4IK7YA.jpeg)
 
 ECHO Refugee Library
 
@@ -242,15 +242,15 @@ Wednesday May 31, 9am, Meeting in front of the courthouse\.
 Read the call for solidarity [here](https://enoughisenough14.org/2017/05/23/refugeesgr-call-for-solidaity-squatsgr-orfanotrofio-thessaloniki/) \.
 
 
-![](assets/8c67e66e4e2b/1*tk9J9yGwHwGfnvub0Z1arw.jpeg)
+![](../assets/8c67e66e4e2b/1*tk9J9yGwHwGfnvub0Z1arw.jpeg)
 
 
 
-![](assets/8c67e66e4e2b/1*jUQDQTGhy6JZuEwuBQUYBg.png)
+![](../assets/8c67e66e4e2b/1*jUQDQTGhy6JZuEwuBQUYBg.png)
 
 
 
-![](assets/8c67e66e4e2b/1*dTWiomp7xzUpwfjEmRK1_g.jpeg)
+![](../assets/8c67e66e4e2b/1*dTWiomp7xzUpwfjEmRK1_g.jpeg)
 
 
 Now that Army catering left, Help Refugees is calling for donations for Alexandreia camp\. They are providing Syrian Bread Ovens to help open a new bakery, keep residents feds and busy cooking traditional Syrian food\.
@@ -305,11 +305,11 @@ Read the complete list and their statement [here](https://web.facebook.com/notes
 Statement from [No Name Kitchen](https://web.facebook.com/NoNameKitchenBelgrade/?ref=page_internal) :
 
 
-![](assets/8c67e66e4e2b/1*P8hL-__TSsf5X0pJ5LUd5Q.jpeg)
+![](../assets/8c67e66e4e2b/1*P8hL-__TSsf5X0pJ5LUd5Q.jpeg)
 
 
 
-![Overcrowded Serbian camps \(No name kitchen\)](assets/8c67e66e4e2b/1*GUoGSMzuX4EzYJb47FBrAg.jpeg)
+![Overcrowded Serbian camps \(No name kitchen\)](../assets/8c67e66e4e2b/1*GUoGSMzuX4EzYJb47FBrAg.jpeg)
 
 Overcrowded Serbian camps \(No name kitchen\)
 

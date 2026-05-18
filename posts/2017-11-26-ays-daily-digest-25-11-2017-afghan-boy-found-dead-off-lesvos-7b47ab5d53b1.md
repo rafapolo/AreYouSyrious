@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 25/11/2017: Afghan boy found dead off Lesvos
+title: "AYS Daily Digest 25/11/2017: Afghan boy found dead off Lesvos"
 author: Are You Syrious?
 date: 2017-11-26T09:24:17.156+0000
 last_modified_at: 2017-11-26T12:10:20.077+0000
@@ -7,14 +7,14 @@ categories:
 tags: [refugees]
 description: Afghan boy dies on boat reaching Lesvos//Thirty-one bodies recovered off the Libyan coast//Protests against slavery continue
 image:
-  path: assets/7b47ab5d53b1/1*eQQOdIbf6OoGcEqazCAYlw.jpeg
+  path: ../assets/7b47ab5d53b1/1*eQQOdIbf6OoGcEqazCAYlw.jpeg
 ---
 
 ### AYS Daily Digest 25/11/2017: Afghan boy found dead off Lesvos
 #### Afghan boy dies on boat reaching Lesvos//Thirty\-one bodies recovered off the Libyan coast//Protests against slavery continue
 
 
-![](assets/7b47ab5d53b1/1*eQQOdIbf6OoGcEqazCAYlw.jpeg)
+![](../assets/7b47ab5d53b1/1*eQQOdIbf6OoGcEqazCAYlw.jpeg)
 
 #### Greece
 ### Arrivals
@@ -23,7 +23,7 @@ One boat with 45 people landed on Samos and one with 62 people landed on Chios\.
 ### Occupation of Syriza building on Lesvos
 
 
-![Photo by Lesvos Solidarity — Pikpa](assets/7b47ab5d53b1/1*eIvtpGoGcF_L2NkiggzA3Q.png)
+![Photo by Lesvos Solidarity — Pikpa](../assets/7b47ab5d53b1/1*eIvtpGoGcF_L2NkiggzA3Q.png)
 
 Photo by Lesvos Solidarity — Pikpa
 
@@ -55,7 +55,7 @@ For more volunteer needs, check out [GreeceVol](http://www.greecevol.info/) \.
 [Reuters](http://news.trust.org/item/20171125113801-6lpes/) says at least 31 refugees died after their boat sank off Libya’s western coast on Saturday and some 200 others were picked up by the Coast Guard to be brought back to the port in Tripoli\.
 
 
-![Photo by SOS Méditerannée](assets/7b47ab5d53b1/1*rN_oubnAa4th1Ni7_AjE8w.png)
+![Photo by SOS Méditerannée](../assets/7b47ab5d53b1/1*rN_oubnAa4th1Ni7_AjE8w.png)
 
 Photo by SOS Méditerannée
 
@@ -65,7 +65,7 @@ The Aquarius rescued more than 400 people aboard an overcrowded wooden boat\. Mo
 Protests against the slave trade in Libya continue\. **Several demonstrations took place in Sweden** , including Gothenburg, Stockholm, and Uppsala, where the demonstration was attacked by a group of Nazis, injuring at least two **\. In Paris,** another protest took place in front of the Libyan embassy this Friday\. **In Berlin** , hundreds protested in front of the embassy on Saturday and another protest is planned in **Cologne** [this Monday](https://enoughisenough14.org/2017/11/25/cologne-demo-call-stop-enslavement-in-libya/) \.
 
 
-![Photo by MEDU](assets/7b47ab5d53b1/1*FQR-BUyPbyI-hHcW34tCVg.png)
+![Photo by MEDU](../assets/7b47ab5d53b1/1*FQR-BUyPbyI-hHcW34tCVg.png)
 
 Photo by MEDU
 
@@ -83,14 +83,14 @@ Photo by MEDU
 ### 60 unaccompanied minors offered housing after protest
 
 
-![Photos by Haidi Motola/Activestills\.org](assets/7b47ab5d53b1/1*8HpTwJBoSyinH5Zr0N1vfw.png)
+![Photos by Haidi Motola/Activestills\.org](../assets/7b47ab5d53b1/1*8HpTwJBoSyinH5Zr0N1vfw.png)
 
 Photos by Haidi Motola/Activestills\.org
 
 ActiveStills says a group of about 60 unaccompanied minors were finally offered temporary housing after occupying a church in the center of Marseille since Tuesday this week\. The minors, mostly from sub\-Saharan Africa, together with local organizations, united at the beginning of the week to protest and demand their rights for housing, schooling, and health care\.
 
 
-![Photo by [Collectif Soutien Migrants 13 / El Manba](https://www.facebook.com/collectifmigrants13/)](assets/7b47ab5d53b1/1*HZXIZ-iHX7QfWJxe-kb2XA.png)
+![Photo by [Collectif Soutien Migrants 13 / El Manba](https://www.facebook.com/collectifmigrants13/)](../assets/7b47ab5d53b1/1*HZXIZ-iHX7QfWJxe-kb2XA.png)
 
 Photo by [Collectif Soutien Migrants 13 / El Manba](https://www.facebook.com/collectifmigrants13/)
 

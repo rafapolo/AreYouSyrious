@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 17–18/08/2019: “Rescued”vs. “Captured” and Salvini’s forked tongue…
+title: "AYS Weekend Digest 17–18/08/2019: “Rescued”vs. “Captured” and Salvini’s forked tongue…"
 author: Are You Syrious?
 date: 2019-08-19T16:02:02.051+0100
 last_modified_at: 2019-08-19T16:02:02.051+0100
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [refugees,digest,search-and-rescue]
 description: Are You Syrious?
 image:
-  path: assets/5acf0feb9c6b/0*6HRFE2dTrLaCEJAC.jpeg
+  path: ../assets/5acf0feb9c6b/0*6HRFE2dTrLaCEJAC.jpeg
 ---
 
 ### AYS Weekend Digest 17–18/08/2019: “Rescued”vs\. “Captured” and Salvini’s forked tongue…
 
 
-![](assets/5acf0feb9c6b/0*QcMAhFBZ9hbMAZ0V.jpeg)
+![](../assets/5acf0feb9c6b/0*QcMAhFBZ9hbMAZ0V.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----2466906663f8----------------------)
@@ -21,11 +21,11 @@ image:
 [Aug 19](ays-weekend-digest-17-18-08-2019-rescued-vs-captured-and-salvinis-forked-tongue-2466906663f8?source=post_page-----2466906663f8----------------------) · 7 min read
 
 
-![](assets/5acf0feb9c6b/0*d6U_mwgMrYuJ3rr7)
+![](../assets/5acf0feb9c6b/0*d6U_mwgMrYuJ3rr7)
 
 
 
-![](assets/5acf0feb9c6b/0*6HRFE2dTrLaCEJAC.jpeg)
+![](../assets/5acf0feb9c6b/0*6HRFE2dTrLaCEJAC.jpeg)
 
 
 Beatings in Libya drawn aboard the Ocean Viking, [Photo Credit SOS Mediterranee](https://www.facebook.com/sosmeditalia/photos/pcb.2324438834472764/2324438737806107/?type=3&theater)
@@ -103,11 +103,11 @@ In this vein, European Lawyers in **Lesvos** have received some more funding and
 Every day people continue to help those displaced in Bosnia, with the local community of **Kljuc, Bosnia** giving their all\. See all of the families stranded along the way\.
 
 
-![](assets/5acf0feb9c6b/0*4gs7zi5cM0DIfLgB)
+![](../assets/5acf0feb9c6b/0*4gs7zi5cM0DIfLgB)
 
 
 
-![](assets/5acf0feb9c6b/0*-UKSrnS1n441_M8P.jpeg)
+![](../assets/5acf0feb9c6b/0*-UKSrnS1n441_M8P.jpeg)
 
 
 Photo Credit Sanella Lepirica

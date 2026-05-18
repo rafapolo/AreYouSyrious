@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: []
 description: Afghan People in Legal Limbo//800 People Still Waiting for Port of Safety//Demonstrations in Germany this Saturday for Sea Rescue
 image:
-  path: assets/91ecf4582e94/0*OiDDv5S-2rAI3K7p
+  path: ../assets/91ecf4582e94/0*OiDDv5S-2rAI3K7p
 ---
 
 ### AYS Daily Digest 05/08/2021 — Malakasa Camp Evacuated Due to Fires
@@ -16,7 +16,7 @@ image:
 [Are You Syrious?](?source=post_page-----fc5bed3ed226--------------------------------) · [Aug 6](ays-daily-digest-05-08-2021-malakasa-camp-evacuated-due-to-fires-fc5bed3ed226?source=post_page-----fc5bed3ed226--------------------------------) · 6 min read
 
 
-![](assets/91ecf4582e94/0*OiDDv5S-2rAI3K7p)
+![](../assets/91ecf4582e94/0*OiDDv5S-2rAI3K7p)
 
 
 Smoke draws closer to Amygdaleza camp\. Photo credit: [Solidarity with Migrants](https://www.facebook.com/solidaritymigrants/posts/358564645766071)

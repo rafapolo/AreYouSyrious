@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 29/10/17: Court rules asylum seekers have the right to freedom of movement in…
+title: "AYS Daily Digest 29/10/17: Court rules asylum seekers have the right to freedom of movement in…"
 author: Are You Syrious?
 date: 2017-10-29T23:28:05.172+0000
 last_modified_at: 2017-10-30T09:03:11.132+0000
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,spain,greece,europe,human-rights]
 description: Serious maltreatment of unaccompanied refugee minors in Greece/ Representative of the EC states “island residents are heroes”/ volunteer…
 image:
-  path: assets/2d9a99c8b42c/1*8U9RGtps3RhhU0LgbXb5_A.jpeg
+  path: ../assets/2d9a99c8b42c/1*8U9RGtps3RhhU0LgbXb5_A.jpeg
 ---
 
 ### AYS Daily Digest 29/10/17: Court rules asylum seekers have the right to freedom of movement in Spain
 #### Serious maltreatment of unaccompanied refugee minors in Greece/ Representative of the EC states “island residents are heroes”/ volunteer and aid needs across Greece / Ahmed H’s case continues / Afghan minister asks for Austrians to end deportations / Children detention practice in question in Sweden / Hunger strikes on Lesvos and in Denmark; and more news…
 
 
-![Counting the people on the photo, during the day Salvamento Maritimo teams have rescued 85 people in their search and rescue operations \(Photo: [SALVAMENTO MARÍTIMO‏](https://twitter.com/salvamentogob) \)](assets/2d9a99c8b42c/1*8U9RGtps3RhhU0LgbXb5_A.jpeg)
+![Counting the people on the photo, during the day Salvamento Maritimo teams have rescued 85 people in their search and rescue operations \(Photo: [SALVAMENTO MARÍTIMO‏](https://twitter.com/salvamentogob) \)](../assets/2d9a99c8b42c/1*8U9RGtps3RhhU0LgbXb5_A.jpeg)
 
 Counting the people on the photo, during the day Salvamento Maritimo teams have rescued 85 people in their search and rescue operations \(Photo: [SALVAMENTO MARÍTIMO‏](https://twitter.com/salvamentogob) \)
 ### FEATURE
@@ -48,7 +48,7 @@ The UN Refugee agency in their latest [report](http://data2.unhcr.org/en/situati
 Only a third of the nearly 3,000 unaccompanied refugee and migrant children currently in Greece are receiving proper shelter and care, [UNICEF warned](https://www.unicef.org/media/media_101396.html) today\. One of the most striking pieces of evidence that the authorities must do something to improve the protection of the youngest is the fact that the reception facilities for unaccompanied children on the islands are now hosting twice as many as they were designed for, compromising the safety and wellbeing of the children\. For those children who have family elsewhere in Europe, UNICEF is urging other European countries to step up family reunification\.
 
 
-[![Greece: Muslim student not allowed to be flag-bearer](assets/2d9a99c8b42c/bcae_hqdefault.jpg "Greece: Muslim student not allowed to be flag-bearer")](http://www.youtube.com/watch?v=8deB6E-W3ng)
+[![Greece: Muslim student not allowed to be flag-bearer](../assets/2d9a99c8b42c/bcae_hqdefault.jpg "Greece: Muslim student not allowed to be flag-bearer")](http://www.youtube.com/watch?v=8deB6E-W3ng)
 
 ### Lesvos
 
@@ -253,7 +253,7 @@ Do Your Part is looking for volunteers to join their volunteer team for November
 Volunteers are urgently needed at HSA for Kara Tepe Refugee camp, please register on: [www\.humanitarian\-support\-agency\.org](http://www.humanitarian-support-agency.org/)
 
 
-![](assets/2d9a99c8b42c/1*S6KghVaYwo0pd3WP7Cm5GQ.jpeg)
+![](../assets/2d9a99c8b42c/1*S6KghVaYwo0pd3WP7Cm5GQ.jpeg)
 
 ### Bosnia and Herzegovina
 

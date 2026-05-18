@@ -7,7 +7,7 @@ categories:
 tags: [refugees,opentheislands,napoli,deportations,hunger-strike]
 description: Updates from the Greek islands /// Threats to hunger strikers in Mytilene /// Ex Olympic Village in Turin evicted /// Updates from the…
 image:
-  path: assets/2de4e4aaa72b/1*cKiRPxTjovNkT9AqL5B98g.jpeg
+  path: ../assets/2de4e4aaa72b/1*cKiRPxTjovNkT9AqL5B98g.jpeg
 ---
 
 ### AYS Daily Digest 21/11/2017 Brutality in Italian reception centres
@@ -15,7 +15,7 @@ image:
 **Updates from the Greek islands /// Threats to hunger strikers in Mytilene /// Ex Olympic Village in Turin evicted /// Updates from the second march from Cona to Venice /// Deportation to Afghanistan halted in Sweden**
 
 
-![21 November 2017: Twenty days in miserable Moria and these people don’t even have a pair of warm, winter socks\. [**\#OpenTheIslands**](https://twitter.com/hashtag/OpenTheIslands?src=hash) \(photo by [MSF\_Sea](https://twitter.com/msf_sea/status/932926078313746433) \)](assets/2de4e4aaa72b/1*Wq3BLVefnKzrLk3VRnH6kw.jpeg)
+![21 November 2017: Twenty days in miserable Moria and these people don’t even have a pair of warm, winter socks\. [**\#OpenTheIslands**](https://twitter.com/hashtag/OpenTheIslands?src=hash) \(photo by [MSF\_Sea](https://twitter.com/msf_sea/status/932926078313746433) \)](../assets/2de4e4aaa72b/1*Wq3BLVefnKzrLk3VRnH6kw.jpeg)
 
 21 November 2017: Twenty days in miserable Moria and these people don’t even have a pair of warm, winter socks\. [**\#OpenTheIslands**](https://twitter.com/hashtag/OpenTheIslands?src=hash) \(photo by [MSF\_Sea](https://twitter.com/msf_sea/status/932926078313746433) \)
 #### **Feature: Brutality in Italian reception centres**
@@ -31,7 +31,7 @@ The [testimony](http://jesopazzo.org/index.php/blog/542-una-storia-nera) reveals
 In the centre in Gricignano, closed since Sunday, there lived between 160 and 170 asylum seekers\.
 
 
-[![RIFUGIATO SPARATO : TESTIMONIANZE AUDIO E VIDEO](assets/2de4e4aaa72b/35cd_hqdefault.jpg "RIFUGIATO SPARATO : TESTIMONIANZE AUDIO E VIDEO")](http://www.youtube.com/watch?v=XFqkrA4A9E4)
+[![RIFUGIATO SPARATO : TESTIMONIANZE AUDIO E VIDEO](../assets/2de4e4aaa72b/35cd_hqdefault.jpg "RIFUGIATO SPARATO : TESTIMONIANZE AUDIO E VIDEO")](http://www.youtube.com/watch?v=XFqkrA4A9E4)
 
 
 Hot water was only rarely available\. The school of Italian was non\-existent\.
@@ -184,17 +184,17 @@ The situation on Samos is continuing to deteriorate and people have had enough\.
 Despite the terrible conditions on Chios some of the children at BAAS primary school managed to enjoy World Children’s Day on Monday\.
 
 
-![Photo by [BAAS Primary School](https://medium.com/chios-voices/refugee-celebrations-of-world-childrens-day-2017-12fde43cf8c2)](assets/2de4e4aaa72b/1*cKiRPxTjovNkT9AqL5B98g.jpeg)
+![Photo by [BAAS Primary School](https://medium.com/chios-voices/refugee-celebrations-of-world-childrens-day-2017-12fde43cf8c2)](../assets/2de4e4aaa72b/1*cKiRPxTjovNkT9AqL5B98g.jpeg)
 
 Photo by [BAAS Primary School](https://medium.com/chios-voices/refugee-celebrations-of-world-childrens-day-2017-12fde43cf8c2)
 #### [Volunteer Report](https://web.facebook.com/laura.ridley.334/posts/10159777006625226?hc_location=ufi) and Photos from Vial
 
 
-![](assets/2de4e4aaa72b/1*SAEVB0elZAyskV7w65j6kw.jpeg)
+![](../assets/2de4e4aaa72b/1*SAEVB0elZAyskV7w65j6kw.jpeg)
 
 
 
-![Vial camp \(photos by Laura Ridley\)](assets/2de4e4aaa72b/1*4-6ivET8hajZ5i1IY_lMBA.jpeg)
+![Vial camp \(photos by Laura Ridley\)](../assets/2de4e4aaa72b/1*4-6ivET8hajZ5i1IY_lMBA.jpeg)
 
 Vial camp \(photos by Laura Ridley\)
 
@@ -214,7 +214,7 @@ Vial was originally intended for 800 people but now of 2300 are living there, wi
 
 
 
-![Vial camp \(photo by Laura Ridley\)](assets/2de4e4aaa72b/1*0elKbbpVBSzzu_VUMADMjg.jpeg)
+![Vial camp \(photo by Laura Ridley\)](../assets/2de4e4aaa72b/1*0elKbbpVBSzzu_VUMADMjg.jpeg)
 
 Vial camp \(photo by Laura Ridley\)
 
@@ -333,7 +333,7 @@ Support them [here](https://growish.com/59ad44df7fd05fa6198b4587) \!
 A series of solidarity groups: _“Corasol — Contre le racisme — Show Solidarity” \+ “Initiative gegen das EU\-Grenzregime in Afrika” \+ “borderline\-europe” — “Menschenrechte ohne Grenzen e\.V\.”_ launched a demonstration for November 24 against the externalisation of the EU border and of HotSpots in Northern and Central Africa\.
 
 
-![[http://corasol\.blogsport\.de/](http://corasol.blogsport.de/)](assets/2de4e4aaa72b/1*-DHFtmRmRzS44B06hLJ8yg.png)
+![[http://corasol\.blogsport\.de/](http://corasol.blogsport.de/)](../assets/2de4e4aaa72b/1*-DHFtmRmRzS44B06hLJ8yg.png)
 
 [http://corasol\.blogsport\.de/](http://corasol.blogsport.de/)
 #### Draft for complains against delayed family reunification

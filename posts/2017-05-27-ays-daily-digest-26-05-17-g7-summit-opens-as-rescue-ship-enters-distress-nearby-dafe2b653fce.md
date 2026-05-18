@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 26/05/17: G7 Summit opens as rescue ship enters distress nearby
+title: "AYS DAILY DIGEST 26/05/17: G7 Summit opens as rescue ship enters distress nearby"
 author: Are You Syrious?
 date: 2017-05-27T05:10:20.176+0100
 last_modified_at: 2017-05-27T09:57:24.986+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees]
 description: Chilling statistics on what “route closure” means / Serbia volunteers report more people sleeping rough, need for NFIs / Croatian activists…
 image:
-  path: assets/dafe2b653fce/1*E-OzjX-m-RO4VbTP26icpw.jpeg
+  path: ../assets/dafe2b653fce/1*E-OzjX-m-RO4VbTP26icpw.jpeg
 ---
 
 ### AYS DAILY DIGEST 26/05/17: G7 Summit opens as rescue ship enters distress nearby
@@ -15,7 +15,7 @@ image:
 _Chilling statistics on what “route closure” means / Serbia volunteers report more people sleeping rough, need for NFIs / Croatian activists speak out against police brutality against minors / Italian police use emergency service calls to track down refugees / Hunger strike against deportations in Germany / horror in France as people scramble to escape the heat / more…_
 
 
-![Hunger strike in Germany Photo credit: [**Refugee struggle for freedom**](https://www.facebook.com/refugeestruggle/)](assets/dafe2b653fce/1*E-OzjX-m-RO4VbTP26icpw.jpeg)
+![Hunger strike in Germany Photo credit: [**Refugee struggle for freedom**](https://www.facebook.com/refugeestruggle/)](../assets/dafe2b653fce/1*E-OzjX-m-RO4VbTP26icpw.jpeg)
 
 Hunger strike in Germany Photo credit: [**Refugee struggle for freedom**](https://www.facebook.com/refugeestruggle/)
 ### FEATURE
@@ -66,7 +66,7 @@ The following video was shot to continue to bring awareness to the desperate sit
 It has sadly been announced that the [**Mobile Flüchtlingshilfe e\.V\. — Mobile Refugee Relief**](https://www.facebook.com/MobileFluechtlingshilfe/?ref=page_internal) tea tent in Filipiada will close shortly\. Below is their announcement\.
 
 
-![Photo Credit: [**Mobile Flüchtlingshilfe e\.V\. — Mobile Refugee Relief**](https://www.facebook.com/MobileFluechtlingshilfe/?ref=page_internal)](assets/dafe2b653fce/1*EZBrBGA3D5J-vqhO3VSuRg.jpeg)
+![Photo Credit: [**Mobile Flüchtlingshilfe e\.V\. — Mobile Refugee Relief**](https://www.facebook.com/MobileFluechtlingshilfe/?ref=page_internal)](../assets/dafe2b653fce/1*EZBrBGA3D5J-vqhO3VSuRg.jpeg)
 
 Photo Credit: [**Mobile Flüchtlingshilfe e\.V\. — Mobile Refugee Relief**](https://www.facebook.com/MobileFluechtlingshilfe/?ref=page_internal)
 
@@ -96,7 +96,7 @@ Photo Credit: [**Mobile Flüchtlingshilfe e\.V\. — Mobile Refugee Relief**](ht
 
 
 
-![Photo credit: [**Mobile Flüchtlingshilfe e\.V\. — Mobile Refugee Relief**](https://www.facebook.com/MobileFluechtlingshilfe/?ref=page_internal)](assets/dafe2b653fce/1*Tc-WC-u15AYeeM2Uqou9Eg.jpeg)
+![Photo credit: [**Mobile Flüchtlingshilfe e\.V\. — Mobile Refugee Relief**](https://www.facebook.com/MobileFluechtlingshilfe/?ref=page_internal)](../assets/dafe2b653fce/1*Tc-WC-u15AYeeM2Uqou9Eg.jpeg)
 
 Photo credit: [**Mobile Flüchtlingshilfe e\.V\. — Mobile Refugee Relief**](https://www.facebook.com/MobileFluechtlingshilfe/?ref=page_internal)
 
@@ -108,7 +108,7 @@ Aid Delivery Mission reports that there is a great need for NFIs in Šid camp an
 _More and more people have come to us who are sleeping rough with no tent, really bad clothing and shoes, and in some cases, no shoes at all\. These are the things that make all the difference when you’re sleeping outside in the rain\._
 
 
-![Photo credit: Aid Delivery Mission](assets/dafe2b653fce/1*xyLHK46DYJokh1i5tmToHA.jpeg)
+![Photo credit: Aid Delivery Mission](../assets/dafe2b653fce/1*xyLHK46DYJokh1i5tmToHA.jpeg)
 
 Photo credit: Aid Delivery Mission
 
@@ -134,7 +134,7 @@ The comment of the organization NAGA is very critical: “we can’t help but as
 Information retrieved from and quote translated from [this article](https://www.osservatoriodiritti.it/2017/05/26/migranti-chiamano-ambulanza-arriva-la-polizia/) \.
 
 
-![Photo credit: InfoMigrants](assets/dafe2b653fce/1*mcau5nIRfmpBVm5tnXujCg.jpeg)
+![Photo credit: InfoMigrants](../assets/dafe2b653fce/1*mcau5nIRfmpBVm5tnXujCg.jpeg)
 
 Photo credit: InfoMigrants
 
@@ -159,7 +159,7 @@ Retrieved and translated from [here](https://www.facebook.com/MEDUonlus/posts/10
 In Ebersberg there is an ongoing hunger strike in protest against the increasingly restrictive asylum, monitoring, and deportation regulations that Germany recently instituted\. After several days, however, with increased police harassment, more and more people are leaving the protest, often needing to go to the hospital\.
 
 
-![Photo credit: [**Refugee struggle for freedom**](https://www.facebook.com/refugeestruggle/)](assets/dafe2b653fce/1*0EKI_Zcjlb9TqZyLSPBbyQ.jpeg)
+![Photo credit: [**Refugee struggle for freedom**](https://www.facebook.com/refugeestruggle/)](../assets/dafe2b653fce/1*0EKI_Zcjlb9TqZyLSPBbyQ.jpeg)
 
 Photo credit: [**Refugee struggle for freedom**](https://www.facebook.com/refugeestruggle/)
 

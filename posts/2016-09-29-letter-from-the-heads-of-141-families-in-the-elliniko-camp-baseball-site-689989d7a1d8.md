@@ -7,13 +7,13 @@ categories:
 tags: [refugees,afghanistan,greece,migration,war]
 description: September 23, 2016.
 image:
-  path: assets/689989d7a1d8/1*5GS7y2jiXPa8NBxUnIa6MA.jpeg
+  path: ../assets/689989d7a1d8/1*5GS7y2jiXPa8NBxUnIa6MA.jpeg
 ---
 
 ### Letter from the heads of 141 families in the Elliniko camp \(Baseball site\)
 
 
-![Parts of 141 signatures on the letter that was sent to us by the refugees in Elliniko](assets/689989d7a1d8/1*5GS7y2jiXPa8NBxUnIa6MA.jpeg)
+![Parts of 141 signatures on the letter that was sent to us by the refugees in Elliniko](../assets/689989d7a1d8/1*5GS7y2jiXPa8NBxUnIa6MA.jpeg)
 
 Parts of 141 signatures on the letter that was sent to us by the refugees in Elliniko
 

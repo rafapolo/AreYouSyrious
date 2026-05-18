@@ -1,5 +1,5 @@
 ---
-title: AYS Special: “We are just alive, but not living.”
+title: "AYS Special: “We are just alive, but not living.”"
 author: Are You Syrious?
 date: 2016-06-30T13:01:04.075+0100
 last_modified_at: 2018-03-01T14:19:00.554+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [refugees,syria,yazidi,cherso,special]
 description: “This is very difficult for all of us. We are just alive, but not living. We have nothing. We do not know where we are going or what is…
 image:
-  path: assets/dceda508a314/1*8d87QKJfSYzcrPyAIBCNdw.jpeg
+  path: ../assets/dceda508a314/1*8d87QKJfSYzcrPyAIBCNdw.jpeg
 ---
 
 ### AYS Special: “We are just alive, but not living\.”
 
 
-![Just alive, not living — Cherso Camp, Greece](assets/dceda508a314/1*8d87QKJfSYzcrPyAIBCNdw.jpeg)
+![Just alive, not living — Cherso Camp, Greece](../assets/dceda508a314/1*8d87QKJfSYzcrPyAIBCNdw.jpeg)
 
 Just alive, not living — Cherso Camp, Greece
 
@@ -31,7 +31,7 @@ Among them is Aishan, 20\. We ask her to tell us, if that is possible, if there 
 They are afraid of separation, and keep repeating that they want to go all together, to any other country where they will have a chance to live without prosecution\. “In order to practice our religion and preserve our customs, we need to stay together,” Aishan explains\.
 
 
-![Yazidi women in camp Cherso\. They are too afraid to leave tents and part of the camp where they live](assets/dceda508a314/1*z7oLtoYHOjhXsHKcaTn8yQ.jpeg)
+![Yazidi women in camp Cherso\. They are too afraid to leave tents and part of the camp where they live](../assets/dceda508a314/1*z7oLtoYHOjhXsHKcaTn8yQ.jpeg)
 
 Yazidi women in camp Cherso\. They are too afraid to leave tents and part of the camp where they live
 
@@ -46,7 +46,7 @@ Aishan was in the group that managed to leave the city\. She speaks good English
 Aishan remembers when ISIS came into her city and when she and her family had to leave and hide in the mountains\. They were saved by Kurdish military that opened the safe passage\.
 
 
-![There are 300 Yazidi in Cherso, mostly women and children](assets/dceda508a314/1*8JwH4b-Jh2QGBhcHSpqLdw.jpeg)
+![There are 300 Yazidi in Cherso, mostly women and children](../assets/dceda508a314/1*8JwH4b-Jh2QGBhcHSpqLdw.jpeg)
 
 There are 300 Yazidi in Cherso, mostly women and children
 

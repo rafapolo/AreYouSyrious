@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 06/12/2016: More forcible returns from Europe, while anti-refugee sentiments…
+title: "AYS DAILY DIGEST 06/12/2016: More forcible returns from Europe, while anti-refugee sentiments…"
 author: Are You Syrious?
 date: 2016-12-07T18:04:00.453+0000
 last_modified_at: 2016-12-07T22:19:42.718+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,anti-refugee-semtiment,italy,bulgaria]
 description: More victims in Syria // Refugees are still arriving to Greece // Hundreds of people in the streets of Belgrade looking for help // Borders…
 image:
-  path: assets/6fe62d13cb38/1*ukpRwA2l8V2-49KUyYsyYA.jpeg
+  path: ../assets/6fe62d13cb38/1*ukpRwA2l8V2-49KUyYsyYA.jpeg
 ---
 
 ### AYS DAILY DIGEST 06/12/2016: More forcible returns from Europe, while anti\-refugee sentiments continue to rise
@@ -15,7 +15,7 @@ image:
 _More victims in Syria // Refugees are still arriving to Greece // Hundreds of people in the streets of Belgrade looking for help // Borders like fortress and new rules that could harm refugees in Europe_
 
 
-![Love Without Borders](assets/6fe62d13cb38/1*ukpRwA2l8V2-49KUyYsyYA.jpeg)
+![Love Without Borders](../assets/6fe62d13cb38/1*ukpRwA2l8V2-49KUyYsyYA.jpeg)
 
 Love Without Borders
 ### Syria
@@ -29,7 +29,7 @@ East Aleppo is still under a regime\-enforced siege, while Russia and Assad have
 Rebels, fearing the inevitable, have called for an immediate five\-day ceasefire in order to arrange the evacuation of civilians, particularly the thousands wounded by regime airstrikes and mortar attacks, but the regime has so far yet to respond, focusing instead on ‘clearing operations’ that are widely thought to involve ethnic cleansing, arbitrary execution and forced displacement\.
 
 
-![[A man desperately searches the streets for a hospital in eastern Aleppo to save his wife’s life, he fails to do so because wherever he turns there is nothing but destruction and all hospitals and medical clinics have been put out of service](https://www.facebook.com/ramijarah/posts/10154893542822873#) \. — via Rami Jarrah](assets/6fe62d13cb38/1*ZpIdVsxRBLLHBhLBCsdXdA.jpeg)
+![[A man desperately searches the streets for a hospital in eastern Aleppo to save his wife’s life, he fails to do so because wherever he turns there is nothing but destruction and all hospitals and medical clinics have been put out of service](https://www.facebook.com/ramijarah/posts/10154893542822873#) \. — via Rami Jarrah](../assets/6fe62d13cb38/1*ZpIdVsxRBLLHBhLBCsdXdA.jpeg)
 
 [A man desperately searches the streets for a hospital in eastern Aleppo to save his wife’s life, he fails to do so because wherever he turns there is nothing but destruction and all hospitals and medical clinics have been put out of service](https://www.facebook.com/ramijarah/posts/10154893542822873#) \. — via Rami Jarrah
 
@@ -47,12 +47,12 @@ Speaking to the Guardian, one doctor based in East Aleppo said
 #### The latest Relocation statistics from the Greek Asylum service can be found [here](https://drive.google.com/file/d/0B6Da1eGN7WCjaEV6aEVhUm8waDA/view)
 
 
-![[Through Refugee Eyes](https://www.facebook.com/throughrefugeeeyes/)](assets/6fe62d13cb38/1*pcWSys6ut8OC3_wVNyF1YQ.jpeg)
+![[Through Refugee Eyes](https://www.facebook.com/throughrefugeeeyes/)](../assets/6fe62d13cb38/1*pcWSys6ut8OC3_wVNyF1YQ.jpeg)
 
 [Through Refugee Eyes](https://www.facebook.com/throughrefugeeeyes/)
 
 
-![[Through Refugee Eyes](https://www.facebook.com/throughrefugeeeyes/)](assets/6fe62d13cb38/1*e2aqR10iPywuVeHL_ci4Lw.jpeg)
+![[Through Refugee Eyes](https://www.facebook.com/throughrefugeeeyes/)](../assets/6fe62d13cb38/1*e2aqR10iPywuVeHL_ci4Lw.jpeg)
 
 [Through Refugee Eyes](https://www.facebook.com/throughrefugeeeyes/)
 
@@ -85,15 +85,15 @@ _“Over 50% of refugees in each camp are not there anymore, some of them having
 
 
 
-![](assets/6fe62d13cb38/1*bFej1UNVlSbEgbaJ-Bd86Q.jpeg)
+![](../assets/6fe62d13cb38/1*bFej1UNVlSbEgbaJ-Bd86Q.jpeg)
 
 
 
-![](assets/6fe62d13cb38/1*3ekeMUSpxJLVdiQ7d511rQ.jpeg)
+![](../assets/6fe62d13cb38/1*3ekeMUSpxJLVdiQ7d511rQ.jpeg)
 
 
 
-![[**InterVolve — International Volunteers**](https://www.facebook.com/InterVolve-International-Volunteers-219418945063168/)](assets/6fe62d13cb38/1*bdT98_AK6Pn2VucRrTxrWQ.jpeg)
+![[**InterVolve — International Volunteers**](https://www.facebook.com/InterVolve-International-Volunteers-219418945063168/)](../assets/6fe62d13cb38/1*bdT98_AK6Pn2VucRrTxrWQ.jpeg)
 
 [**InterVolve — International Volunteers**](https://www.facebook.com/InterVolve-International-Volunteers-219418945063168/)
 

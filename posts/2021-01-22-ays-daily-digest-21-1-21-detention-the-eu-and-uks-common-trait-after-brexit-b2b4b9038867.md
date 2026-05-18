@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 21/1/21: Detention — The EU and UK’s common trait after Brexit
+title: "AYS Daily Digest 21/1/21: Detention — The EU and UK’s common trait after Brexit"
 author: Are You Syrious?
 date: 2021-01-22T20:50:23.355+0000
 last_modified_at: 2021-01-22T20:50:23.355+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: []
 description: A humanitarian crisis is rapidly unfolding at Napier barracks / More lives lost to hypothermia upon arrival to the EU / Covid vaccination…
 image:
-  path: assets/b2b4b9038867/0*lcHblzf0VKpVIq3K
+  path: ../assets/b2b4b9038867/0*lcHblzf0VKpVIq3K
 ---
 
 ### AYS Daily Digest 21/1/21: Detention — The EU and UK’s common trait after Brexit
@@ -18,7 +18,7 @@ image:
 [Jan 22](ays-daily-digest-21-1-21-detention-the-eu-and-uks-common-trait-after-brexit-96b32229121e?source=post_page-----96b32229121e--------------------------------) · 7 min read
 
 
-![](assets/b2b4b9038867/0*lcHblzf0VKpVIq3K)
+![](../assets/b2b4b9038867/0*lcHblzf0VKpVIq3K)
 
 
 Photo via [Jack Shenker](https://twitter.com/hackneylad)
@@ -29,15 +29,15 @@ A covid\-19 outbreak is spiraling out of control at the UK’s first modern\-day
 Reportedly, up to 28 people are sharing two bedrooms and a bathroom, making social distancing impossible\. Now, after having waited for months for their claims to be processed, all of them are locked up inside, guarded by the police\. “Despite multiple warnings from humanitarian organisations that this site is completely unsuitable for asylum\-seeker accommodation, Home Office minister Chris Pilp has attempted to blame residents for the current crisis, warning that refugees ‘could face enforcement action’”, [Jack Shenker](https://twitter.com/hackneylad) reported\.
 
 
-![](assets/b2b4b9038867/0*56vmBX0unGvfuQVU)
+![](../assets/b2b4b9038867/0*56vmBX0unGvfuQVU)
 
 
 
-![](assets/b2b4b9038867/0*N19eI8eXU_yATXdl)
+![](../assets/b2b4b9038867/0*N19eI8eXU_yATXdl)
 
 
 
-![](assets/b2b4b9038867/0*HaA6luNAzObsO18v.jpg)
+![](../assets/b2b4b9038867/0*HaA6luNAzObsO18v.jpg)
 
 
 
@@ -77,7 +77,7 @@ A new ruling from the [Court of Rome](https://www.asgi.it/wp-content/uploads/202
 The case was supported by the Border Violence Monitoring Network \(BVMN\), who provided [first\-hand testimony from the applicant](https://www.borderviolence.eu/violence-reports/july-15-2020-0000-piazza-liberta-trieste/) \. The court found unequivocal evidence of violations of international law, and acknowledged the applicant’s right to enter Italy immediately, as well as the applicant’s right to full and proper access to the asylum system\. [Read more\.](https://www.borderviolence.eu/italian-court-ruling-on-chain-pushback/#more-16730)
 
 
-![](assets/b2b4b9038867/0*Ym9FcSnLykMgv5q4.jpg)
+![](../assets/b2b4b9038867/0*Ym9FcSnLykMgv5q4.jpg)
 
 
 [Details on the asylum data until 2020](https://viedifuga.org/asilo-in-italia-in-tutto-il-2020-40-di-richieste-lunhcr-italia-slovenia-a-rischio-il-diritto-alla-protezione/?fbclid=IwAR0uwmAMK8fIWVFv2A4P-eiqMeREUGi_9_chSUkwKqKqrJnYufmvLvVgSio)
@@ -87,7 +87,7 @@ The case was supported by the Border Violence Monitoring Network \(BVMN\), who p
 At the administrative detention centre in Vincennes, people have protested and announced a hunger strike due to a lack of understanding, information and protection during the months spent there\. As the pandemic enters the centre, they “no longer know who has corona and who doesn’t\.” No support is being provided and they say they feel alone, ignored and abandoned to all sorts of risks they cannot change or escape from\. Activists have reported that the guards followed them as they went into the courtyard to protest, but avoided getting anywhere near the people as they presumably fear getting infected, They invite the journalists to document what goes on inside these centres and how they function in reality\. [Here](https://abaslescra.noblogs.org/greve-de-la-faim-au-cra-1-de-vincennes/) ’s more \(in French\) \.
 
 
-![](assets/b2b4b9038867/0*sLM40hgon5ZRiqqz)
+![](../assets/b2b4b9038867/0*sLM40hgon5ZRiqqz)
 
 
 Photo: [@bas\_cra](https://twitter.com/bas_cra)

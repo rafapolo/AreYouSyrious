@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 24/07/18: Wildfires and Solidarity in Greece
+title: "AYS DAILY DIGEST 24/07/18: Wildfires and Solidarity in Greece"
 author: Are You Syrious?
 date: 2018-07-25T11:57:36.137+0100
 last_modified_at: 2018-07-25T14:54:40.600+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,spain,greece,fire]
 description: People coming together in Greece, again // Visegrad four refuse to comply with relocation scheme // Danger in Afghanistan // Increased…
 image:
-  path: assets/235e72458d2a/1*Xy7MSV5k5Rbz3GTQdP6blA.jpeg
+  path: ../assets/235e72458d2a/1*Xy7MSV5k5Rbz3GTQdP6blA.jpeg
 ---
 
 ### AYS DAILY DIGEST 24/07/18: Wildfires and Solidarity in Greece
@@ -15,7 +15,7 @@ image:
 _People coming together in Greece, again // Visegrad four refuse to comply with relocation scheme // Danger in Afghanistan // Increased repression in Hungary// Terrifying police brutality in France // Hundreds rescued but at least ten dead off of Spain// and more…_
 
 
-![Photo Credit Musagumus, via Art Against](assets/235e72458d2a/1*Xy7MSV5k5Rbz3GTQdP6blA.jpeg)
+![Photo Credit Musagumus, via Art Against](../assets/235e72458d2a/1*Xy7MSV5k5Rbz3GTQdP6blA.jpeg)
 
 Photo Credit Musagumus, via Art Against
 ### FEATURE: Dozens of people killed in terrifying wildfires, new crisis to be faced with solidarity\.
@@ -52,7 +52,7 @@ Contact Intervolve for more information\.
 Additionally, activist Arash Hampay who has been involved in protesting and assisting protestors of unfair deportation and detention has been gathering a group to go assist those in need\. Hampay states that many refugees want to help, and that their group Our House, which currently provides aid to the homeless in addition to refugees, is now registered with the authorities to provide aid to victims of the fire\.
 
 
-![](assets/235e72458d2a/1*_DpEwV-nFR4yCqdItYbxkQ.png)
+![](../assets/235e72458d2a/1*_DpEwV-nFR4yCqdItYbxkQ.png)
 
 
 To find out more about how to help, go [here](https://www.facebook.com/100010082855510/posts/686776231668466/) \.

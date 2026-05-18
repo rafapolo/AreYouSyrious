@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 01–02/02/20: Greece to introduce ‘weekly return routes’
+title: "AYS Weekend Digest 01–02/02/20: Greece to introduce ‘weekly return routes’"
 author: Are You Syrious?
 date: 2020-02-03T12:02:33.982+0000
 last_modified_at: 2020-02-03T14:54:26.799+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,europe,greece,migration]
 description: plans to introduce ‘weekly return routes’ for individuals whose asylum applications have been rejected / ongoing effects of the Greeks…
 image:
-  path: assets/33d5f3ed65f4/1*27QVFTXnprbXpnoJVkI31g.jpeg
+  path: ../assets/33d5f3ed65f4/1*27QVFTXnprbXpnoJVkI31g.jpeg
 ---
 
 ### AYS Weekend Digest 01–02/02/20: Greece to introduce ‘weekly return routes’
 #### Plans to introduce ‘weekly return routes’ for individuals whose asylum applications have been rejected // Ongoing effects of the Greeks government’s policy decision to refuse medical care for 55,000 people // More deportations from Sweden announced // & more news from Syria, SAR, Greece, Italy, Belgium, Malta, Spain, Norway, Denmark and Sweden
 
 
-![](assets/33d5f3ed65f4/1*27QVFTXnprbXpnoJVkI31g.jpeg)
+![](../assets/33d5f3ed65f4/1*27QVFTXnprbXpnoJVkI31g.jpeg)
 
 #### FEATURED
 
@@ -23,7 +23,7 @@ In recent weeks, Greece has been making headlines for the continued shakeup of i
 Additionally, it was announced this week that all Greek asylum applications should state all the reasons why an individual is fleeing their country of origin in the full registration\. Additionally to the brief explanation of the reason for fleeing, any individual seeking asylum will be asked about their identity, how they travelled to Greece and if they already have family in other European countries\. [The Mobile Info Team for Refugees](https://www.facebook.com/mobileinfoteam/posts/2663941213834591) in Greece recommends for those seeking full registration that _“if you have any documents from your country of origin please bring them along as it might create problems if you later in the procedure state different or new reasons why you were fleeing your home country, already think beforehand what you want to say\. If you have been persecuted by your government or anybody else, or if your life was in danger because of certain circumstances, then this might be important reasons to state in the full registration\. Make always sure to be truthful with the authorities, as making something up might lead to your asylum claim being rejected\. If you can, try to get advice from a legal NGO, a lawyer or a social worker before your full registration\.”_
 
 
-![](assets/33d5f3ed65f4/1*h1GxO7APAn94acOmqd1_Ig.jpeg)
+![](../assets/33d5f3ed65f4/1*h1GxO7APAn94acOmqd1_Ig.jpeg)
 
 #### SYRIA
 ### Germany will fund Turkey so it can ‘cope with a new influx’
@@ -53,7 +53,7 @@ In 2018, 32 of the 35 men violently arrested by the police following demonstrati
 Find out more about the case in this video:
 
 
-[![Oι 35 της Μόριας: ντοκιμαντέρ - Μoria35 documentary / english/greek subtitles](assets/33d5f3ed65f4/11e8_hqdefault.jpg "Oι 35 της Μόριας: ντοκιμαντέρ - Μoria35 documentary / english/greek subtitles")](https://www.youtube.com/watch?v=aKpXL1vRVHo)
+[![Oι 35 της Μόριας: ντοκιμαντέρ - Μoria35 documentary / english/greek subtitles](../assets/33d5f3ed65f4/11e8_hqdefault.jpg "Oι 35 της Μόριας: ντοκιμαντέρ - Μoria35 documentary / english/greek subtitles")](https://www.youtube.com/watch?v=aKpXL1vRVHo)
 
 
 We were provided with this account from an anonymous single female residing in Vial Camp, Chios, to highlight the daily struggles faced by many living in camps in the EU Member States through a simple story of a single day and night in the camp Vial\. Please, take the time to read [**AYS Special from Chios: What is life really like in a Greek Refugee Camp?**](ays-special-from-chios-what-is-life-really-like-in-a-greek-refugee-camp-73e2cd288e8b) and to understand the daily reality of thousands\.
@@ -62,14 +62,14 @@ We were provided with this account from an anonymous single female residing in V
 In [Cape Town](https://www.bbc.com/news/world-africa-51284576?fbclid=IwAR2RC6xh3Vuc2A1n_6MNAiiE-e_XhOE5aZydRbTvAt50yg3WLUixGfReFek) , South Africa, over the last four months, over 500 people have been forced to seek shelter inside Cape Town’s Central Methodist Church\. Since October the Central Methodist Church has offered this community sanctuary within its walls after the police, armed with an eviction order, sought to forcibly and often violently remove the group during a sit\-in protest outside UNHCR offices in South Africa\. Speaking to the BBC, the women sheltered within the church talk of their desire to move on from South Africa, a country ‘that since 2008 has seen multiple outbreaks of xenophobic violence’\. In addition to the violence and humiliation these men, women and children are forced to endure, a new policy set to be introduced by the South African government will undoubtedly make their lives far harder\. The Refugees Amendment Act is a new law seeking to limit the legal work that refugees can do and prevent them from taking part in all and any political activities relating to their home country\.
 
 
-![Agency [copyrights](https://ichef.bbci.co.uk/news/872/cpsprodpb/638F/production/_110678452_ch4.jpg)](assets/33d5f3ed65f4/0*JmhO0pkSaMSBxscH)
+![Agency [copyrights](https://ichef.bbci.co.uk/news/872/cpsprodpb/638F/production/_110678452_ch4.jpg)](../assets/33d5f3ed65f4/0*JmhO0pkSaMSBxscH)
 
 Agency [copyrights](https://ichef.bbci.co.uk/news/872/cpsprodpb/638F/production/_110678452_ch4.jpg)
 #### SEARCH AND RESCUE AT SEA
 ### Italy
 
 
-[![Italy accepts 363 migrants and refugees rescued at sea](assets/33d5f3ed65f4/8db7_hqdefault.jpg "Italy accepts 363 migrants and refugees rescued at sea")](https://www.youtube.com/watch?v=Zm97snJy-3Y)
+[![Italy accepts 363 migrants and refugees rescued at sea](../assets/33d5f3ed65f4/8db7_hqdefault.jpg "Italy accepts 363 migrants and refugees rescued at sea")](https://www.youtube.com/watch?v=Zm97snJy-3Y)
 
 
 After repeated denials by Spanish authorities and with only two days worth of food left for the 363 people rescued at sea by Spanish NGO open arms, their boat was finally given permission by both Italy and Malta to enter the Sicilian port of Pozzallo and dock\. It has been reported that in line with an EU agreement on settling migrants and refugees rescued in the Mediterranean, the individuals on the boat will be distributed across EU member states\.
@@ -118,24 +118,24 @@ The campaign will consist of a series of personal letters to the minister of imm
 A demonstration in Mandal against the detention of families and for the evacuation of children from Moria camp on the island of Lesvos in Greece:
 
 
-![](assets/33d5f3ed65f4/1*ZKNBtgBuwPw05hRoxOuZig.jpeg)
+![](../assets/33d5f3ed65f4/1*ZKNBtgBuwPw05hRoxOuZig.jpeg)
 
 
 
-![Photos: [Budbringeren fra Helvete](https://www.facebook.com/Budbringeren-fra-Helvete-181486232399790/?tn-str=k%2AF&hc_location=group_dialog)](assets/33d5f3ed65f4/1*4G4T1LsQpoyV_dVSMK0LIw.jpeg)
+![Photos: [Budbringeren fra Helvete](https://www.facebook.com/Budbringeren-fra-Helvete-181486232399790/?tn-str=k%2AF&hc_location=group_dialog)](../assets/33d5f3ed65f4/1*4G4T1LsQpoyV_dVSMK0LIw.jpeg)
 
 Photos: [Budbringeren fra Helvete](https://www.facebook.com/Budbringeren-fra-Helvete-181486232399790/?tn-str=k%2AF&hc_location=group_dialog)
 
 
-![](assets/33d5f3ed65f4/1*ppR-Ny8odxKuykivbigMWA.jpeg)
+![](../assets/33d5f3ed65f4/1*ppR-Ny8odxKuykivbigMWA.jpeg)
 
 
 
-![](assets/33d5f3ed65f4/1*QKziE9BsabqBPHcq1vFJ4g.jpeg)
+![](../assets/33d5f3ed65f4/1*QKziE9BsabqBPHcq1vFJ4g.jpeg)
 
 
 
-![](assets/33d5f3ed65f4/1*zf-uz1KlQIfcHDcqwqdYeQ.jpeg)
+![](../assets/33d5f3ed65f4/1*zf-uz1KlQIfcHDcqwqdYeQ.jpeg)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

@@ -7,7 +7,7 @@ categories:
 tags: [digest,refugees,humanrights,eucommission,hybridattacks]
 description: EU report against deportations to Afghanistan//Investigation into US drone strike//Missing Kurdish men deported to Syria//Education…
 image:
-  path: assets/49df33d6af4d/0*DNoScwxKdxh0Jaey.png
+  path: ../assets/49df33d6af4d/0*DNoScwxKdxh0Jaey.png
 ---
 
 ### AYS Daily Digest 15/09/2021 — EU Commission wants to tackle ‘hybrid attacks’\.
@@ -15,7 +15,7 @@ image:
 EU report against deportations to Afghanistan//Investigation into US drone strike//Missing Kurdish men deported to Syria//Education failings in Greece//Change in migration patterns to Spain
 
 
-![](assets/49df33d6af4d/0*DNoScwxKdxh0Jaey.png)
+![](../assets/49df33d6af4d/0*DNoScwxKdxh0Jaey.png)
 
 ### **FEATURE**
 
@@ -56,7 +56,7 @@ Nine Iranian Kurdish asylum seekers have been deported from Turkey to northern S
 **Sea**
 
 
-![Graphic [Seawatch International](https://twitter.com/seawatch_intl/status/1438160246342668289?fbclid=IwAR0S-APZh_11WoYy6j1UkHtEPsGML225j8e63em0pGi7l5lPR4Hi6KUalfE)](assets/49df33d6af4d/0*Q57j7y9oCkbWg0z6)
+![Graphic [Seawatch International](https://twitter.com/seawatch_intl/status/1438160246342668289?fbclid=IwAR0S-APZh_11WoYy6j1UkHtEPsGML225j8e63em0pGi7l5lPR4Hi6KUalfE)](../assets/49df33d6af4d/0*Q57j7y9oCkbWg0z6)
 
 Graphic [Seawatch International](https://twitter.com/seawatch_intl/status/1438160246342668289?fbclid=IwAR0S-APZh_11WoYy6j1UkHtEPsGML225j8e63em0pGi7l5lPR4Hi6KUalfE)
 
@@ -73,7 +73,7 @@ Alongside the new camp, the EU has required Greece to set up an [independent mec
 **Education failures**
 
 
-![[Save the Children and Greek Refugee Council Report](https://www.gcr.gr/media/k2/attachments/Education_in_Greece_Report_FInal_Edits_(002)_(1).pdf) Cover Image](assets/49df33d6af4d/1*ZJmlZjhTlGKcUz8xyCkgeA.png)
+![[Save the Children and Greek Refugee Council Report](https://www.gcr.gr/media/k2/attachments/Education_in_Greece_Report_FInal_Edits_(002)_(1).pdf) Cover Image](../assets/49df33d6af4d/1*ZJmlZjhTlGKcUz8xyCkgeA.png)
 
 [Save the Children and Greek Refugee Council Report](https://www.gcr.gr/media/k2/attachments/Education_in_Greece_Report_FInal_Edits_(002)_(1).pdf) Cover Image
 
@@ -90,7 +90,7 @@ Whilst the pandemic can be blamed for so much disruption, only a [third of child
 A violent pushback was reported by a group of people who entered Hungary from Serbia\. The group were from Syria and included a woman\. They were all kept overnight at a police station without food or water and were victims of physical violence\. This is one story among so many which are collected by members of the [Border Violence Monitoring Network](http://borderviolence.eu)
 
 
-![Photo [Asylum Protection Centre Serbia](https://twitter.com/APC_CZA/status/1438026566806691843?fbclid=IwAR1t0c-UtyLb2TCUSljVSsXs6ZKQotmCKrYxy2fu1WVGcak9G0b-499zpDM)](assets/49df33d6af4d/0*p8xf1FDW0v-5riz_)
+![Photo [Asylum Protection Centre Serbia](https://twitter.com/APC_CZA/status/1438026566806691843?fbclid=IwAR1t0c-UtyLb2TCUSljVSsXs6ZKQotmCKrYxy2fu1WVGcak9G0b-499zpDM)](../assets/49df33d6af4d/0*p8xf1FDW0v-5riz_)
 
 Photo [Asylum Protection Centre Serbia](https://twitter.com/APC_CZA/status/1438026566806691843?fbclid=IwAR1t0c-UtyLb2TCUSljVSsXs6ZKQotmCKrYxy2fu1WVGcak9G0b-499zpDM)
 
@@ -110,7 +110,7 @@ EU Parliament member Janina Ochojska [is quoted saying](https://twitter.com/f_gr
 In a shocking move, the Polish government intends to alter its migration law to rule that those who enter the country [‘in an irregular manner’](https://twitter.com/MarGorczynska/status/1437815803928326150?fbclid=IwAR3OFODPiRQjf_T0WAy9bd64RuKvxVa03_ZS6TME3wiudXDcpEUhH7XwyA4) would not have their asylum claim heard in full\. This is a clear breach of human rights law\.
 
 
-![](assets/49df33d6af4d/0*eYLauDwuDkqLXTFb)
+![](../assets/49df33d6af4d/0*eYLauDwuDkqLXTFb)
 
 
 **Spain**

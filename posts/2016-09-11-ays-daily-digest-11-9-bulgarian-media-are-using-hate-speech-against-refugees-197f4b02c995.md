@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 11/9: Bulgarian media is inciting hate against refugees
+title: "AYS DAILY DIGEST 11/9: Bulgarian media is inciting hate against refugees"
 author: Are You Syrious?
 date: 2016-09-11T23:15:57.548+0100
 last_modified_at: 2016-09-12T02:47:54.040+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,bulgaria,hate-speech,dither-dehm]
 description: Siege of Aleppo is taking more civilian lives while people are hoping to leave the city. Over 150 people arrived in Greece in last 24 hours…
 image:
-  path: assets/197f4b02c995/1*THRpAfyCKXKkaRYqh6_0IA.jpeg
+  path: ../assets/197f4b02c995/1*THRpAfyCKXKkaRYqh6_0IA.jpeg
 ---
 
 ### **AYS DAILY DIGEST 11/9: Bulgarian media is inciting hate against refugees**
@@ -15,7 +15,7 @@ image:
 _Siege of Aleppo is taking more civilian lives while people are hoping to leave the city\. Over 150 people arrived in Greece in last 24 hours while over 2300 were rescued during the weekend in the Mediterranean\. Hostility toward refugees in Bulgaria increases even more, and it is encouraged by part of the media and from the government\. The UK agreed to take 20,000 vulnerable Syrians from Lebanon and Jordan\._
 
 
-![“This is a testament to one family trapped in the anonymous column previously pictured\. As a European, I’ve always seen borders keeping people out\. A man from Aleppo described the borders as ‘penning his family in hell’\. He has succeeded in reaching Greece, but living in a derelict hospital with no right to work, is not the life this professional pharmacist hoped to build\. He can’t bring his family out the war\-torn wasteland of Aleppo, so I sketched them from photographs he showed me”, [September 2016 by Ella Baron](https://www.facebook.com/artagainstproject/photos/a.639651369417634.1073741828.639605726088865/1118356528213780/?type=3&theater) \.](assets/197f4b02c995/1*THRpAfyCKXKkaRYqh6_0IA.jpeg)
+![“This is a testament to one family trapped in the anonymous column previously pictured\. As a European, I’ve always seen borders keeping people out\. A man from Aleppo described the borders as ‘penning his family in hell’\. He has succeeded in reaching Greece, but living in a derelict hospital with no right to work, is not the life this professional pharmacist hoped to build\. He can’t bring his family out the war\-torn wasteland of Aleppo, so I sketched them from photographs he showed me”, [September 2016 by Ella Baron](https://www.facebook.com/artagainstproject/photos/a.639651369417634.1073741828.639605726088865/1118356528213780/?type=3&theater) \.](../assets/197f4b02c995/1*THRpAfyCKXKkaRYqh6_0IA.jpeg)
 
 “This is a testament to one family trapped in the anonymous column previously pictured\. As a European, I’ve always seen borders keeping people out\. A man from Aleppo described the borders as ‘penning his family in hell’\. He has succeeded in reaching Greece, but living in a derelict hospital with no right to work, is not the life this professional pharmacist hoped to build\. He can’t bring his family out the war\-torn wasteland of Aleppo, so I sketched them from photographs he showed me”, [September 2016 by Ella Baron](https://www.facebook.com/artagainstproject/photos/a.639651369417634.1073741828.639605726088865/1118356528213780/?type=3&theater) \.
 ### Eid Mubarak\!
@@ -63,7 +63,7 @@ If you can, please help this wonderful project\. Info about sponsorship can be f
 If you have any other ideas or questions on how you can help, please contact [Felipe Coimbra](https://www.facebook.com/twtfelipe) \.
 
 
-![Photo by ReVi\.](assets/197f4b02c995/1*aEva4X_Nx8x1rco6BmIwmw.jpeg)
+![Photo by ReVi\.](../assets/197f4b02c995/1*aEva4X_Nx8x1rco6BmIwmw.jpeg)
 
 Photo by ReVi\.
 ### Italy
@@ -138,12 +138,12 @@ Tomorrow, a school year starts for children in City Plaza in Athens\.
 
 
 
-![Photo by Χώρος Στέγασης Προσφύγων City Plaza](assets/197f4b02c995/1*CBBlUtJNYZ8hd1cpiklUjQ.jpeg)
+![Photo by Χώρος Στέγασης Προσφύγων City Plaza](../assets/197f4b02c995/1*CBBlUtJNYZ8hd1cpiklUjQ.jpeg)
 
 Photo by Χώρος Στέγασης Προσφύγων City Plaza
 
 
-![“I hope to go to school\.“ That is what Razan Issa said in her simple drawing\. Razan Issa is a refugee from Damascus, 11 years old she just stayed in Greece 6 months then she was trying to shout and tell the world about her suffering and refugees sufferings by her drawing she has an amazing mind and ideas and always trying to do it by simple drawing\. Share her story and support her at her FB page [Razan\. The road to Europe a dream](https://www.facebook.com/RazanThe-road-to-Europe-a-dream-167376783700603/) \. By Therough refugee eyes\.](assets/197f4b02c995/1*4Zm8-2YKPpq0rvj4O4Gy6A.jpeg)
+![“I hope to go to school\.“ That is what Razan Issa said in her simple drawing\. Razan Issa is a refugee from Damascus, 11 years old she just stayed in Greece 6 months then she was trying to shout and tell the world about her suffering and refugees sufferings by her drawing she has an amazing mind and ideas and always trying to do it by simple drawing\. Share her story and support her at her FB page [Razan\. The road to Europe a dream](https://www.facebook.com/RazanThe-road-to-Europe-a-dream-167376783700603/) \. By Therough refugee eyes\.](../assets/197f4b02c995/1*4Zm8-2YKPpq0rvj4O4Gy6A.jpeg)
 
 “I hope to go to school\.“ That is what Razan Issa said in her simple drawing\. Razan Issa is a refugee from Damascus, 11 years old she just stayed in Greece 6 months then she was trying to shout and tell the world about her suffering and refugees sufferings by her drawing she has an amazing mind and ideas and always trying to do it by simple drawing\. Share her story and support her at her FB page [Razan\. The road to Europe a dream](https://www.facebook.com/RazanThe-road-to-Europe-a-dream-167376783700603/) \. By Therough refugee eyes\.
 #### _Free kids show for Eid_

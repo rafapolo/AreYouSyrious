@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [sweden,croatia,refugees,human-rights]
 description: Over 90 people rescued brought to Malta // person stabbed to death in Moria // continued documented violence in Croatia // and more…
 image:
-  path: assets/deb6feb84bf0/1*iAPa8UcrV0-6FM2MIFA0ow.jpeg
+  path: ../assets/deb6feb84bf0/1*iAPa8UcrV0-6FM2MIFA0ow.jpeg
 ---
 
 ### AYS Daily Digest 27/07/20 Worrying asylum backlog and detention lengths in Sweden
 #### Over 90 people rescued brought to Malta // person stabbed to death in Moria // continued documented violence in Croatia // and more…
 
 
-![Photo from 2016 of a unaccompanied 16 year old minor in their group home in Gothenburg, Sweden\. The asylum case backlog is so long that many people who applied in 2016 are still waiting for an answer\. — — — Photo by [Lydia Gall/HRW](https://www.hrw.org/report/2016/06/09/seeking-refuge/unaccompanied-children-sweden#)](assets/deb6feb84bf0/1*iAPa8UcrV0-6FM2MIFA0ow.jpeg)
+![Photo from 2016 of a unaccompanied 16 year old minor in their group home in Gothenburg, Sweden\. The asylum case backlog is so long that many people who applied in 2016 are still waiting for an answer\. — — — Photo by [Lydia Gall/HRW](https://www.hrw.org/report/2016/06/09/seeking-refuge/unaccompanied-children-sweden#)](../assets/deb6feb84bf0/1*iAPa8UcrV0-6FM2MIFA0ow.jpeg)
 
 Photo from 2016 of a unaccompanied 16 year old minor in their group home in Gothenburg, Sweden\. The asylum case backlog is so long that many people who applied in 2016 are still waiting for an answer\. — — — Photo by [Lydia Gall/HRW](https://www.hrw.org/report/2016/06/09/seeking-refuge/unaccompanied-children-sweden#)
 ### FEATURE: In Sweden backlogged cases, lengthy detention, and lower expected asylum cases due to COVID\-19
@@ -63,17 +63,17 @@ A 2nd shipwreck occurred between #Zarzis &amp; #Djerba - a man died, 6 people re
 
 
 
-![387 people were rescued at sea last week… Photo by [IOM](https://twitter.com/IOM_Libya/status/1287807190271696896?fbclid=IwAR1flI4a_dsc57uTuXMJGRO-y5dTl_doYdWbyAbcGsH0App3J62rf8v0Law)](assets/deb6feb84bf0/1*QHS0RXCPDQ-F7UpyKrNaYg.jpeg)
+![387 people were rescued at sea last week… Photo by [IOM](https://twitter.com/IOM_Libya/status/1287807190271696896?fbclid=IwAR1flI4a_dsc57uTuXMJGRO-y5dTl_doYdWbyAbcGsH0App3J62rf8v0Law)](../assets/deb6feb84bf0/1*QHS0RXCPDQ-F7UpyKrNaYg.jpeg)
 
 387 people were rescued at sea last week… Photo by [IOM](https://twitter.com/IOM_Libya/status/1287807190271696896?fbclid=IwAR1flI4a_dsc57uTuXMJGRO-y5dTl_doYdWbyAbcGsH0App3J62rf8v0Law)
 #### GREECE
 
 
-![](assets/deb6feb84bf0/1*0qReDHGMWRKQ4fbq2wgGvw.jpeg)
+![](../assets/deb6feb84bf0/1*0qReDHGMWRKQ4fbq2wgGvw.jpeg)
 
 
 
-![Photos by [Kerrie Moor](https://www.facebook.com/kerrie.moor/posts/10158378231214544)](assets/deb6feb84bf0/1*BWrFZs7mINy2TO8zlcqm2w.jpeg)
+![Photos by [Kerrie Moor](https://www.facebook.com/kerrie.moor/posts/10158378231214544)](../assets/deb6feb84bf0/1*BWrFZs7mINy2TO8zlcqm2w.jpeg)
 
 Photos by [Kerrie Moor](https://www.facebook.com/kerrie.moor/posts/10158378231214544)
 
@@ -100,7 +100,7 @@ Unfortunately there has been another death in [Moria](https://www.kathimerini.gr
 #### BOSNIA AND HERZEGOVINA
 
 
-![Although not present in the mainstream media, thousands still roam around Bosnia and Herzegovina as the officials and international organisations have failed in providing the basic conditions to protect them from a wide range of life threatening circumstances they are forced to go through in a daily basis\. The few field teams and locals report of a large number of people in Velika Kladusa who are left alone in every possible way and sense of the word\. There are no new feasible solutions from any of the stake holders “in charge” of the situation… Photo by [CBA](https://www.facebook.com/CroatianBaptistAid/posts/1412507968944590)](assets/deb6feb84bf0/1*xprXLPaLPI7ATcjpZ2du5w.jpeg)
+![Although not present in the mainstream media, thousands still roam around Bosnia and Herzegovina as the officials and international organisations have failed in providing the basic conditions to protect them from a wide range of life threatening circumstances they are forced to go through in a daily basis\. The few field teams and locals report of a large number of people in Velika Kladusa who are left alone in every possible way and sense of the word\. There are no new feasible solutions from any of the stake holders “in charge” of the situation… Photo by [CBA](https://www.facebook.com/CroatianBaptistAid/posts/1412507968944590)](../assets/deb6feb84bf0/1*xprXLPaLPI7ATcjpZ2du5w.jpeg)
 
 Although not present in the mainstream media, thousands still roam around Bosnia and Herzegovina as the officials and international organisations have failed in providing the basic conditions to protect them from a wide range of life threatening circumstances they are forced to go through in a daily basis\. The few field teams and locals report of a large number of people in Velika Kladusa who are left alone in every possible way and sense of the word\. There are no new feasible solutions from any of the stake holders “in charge” of the situation… Photo by [CBA](https://www.facebook.com/CroatianBaptistAid/posts/1412507968944590)
 #### CROATIA

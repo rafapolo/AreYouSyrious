@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 19/6/17: Rome evicts its refugees; people choosing death over return to Libya
+title: "AYS Daily Digest 19/6/17: Rome evicts its refugees; people choosing death over return to Libya"
 author: Are You Syrious?
 date: 2017-06-20T02:43:31.142+0100
 last_modified_at: 2017-07-03T03:05:38.516+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,united-nations,greece,human-rights,europe]
 description: Pressure towards refugees manifests in police raids in Rome / Mediterranean countries hide collective responsibility for deadly policies /…
 image:
-  path: assets/8d49d67b74e1/1*tKnHAFDSMmzFX-7zD54NVg.jpeg
+  path: ../assets/8d49d67b74e1/1*tKnHAFDSMmzFX-7zD54NVg.jpeg
 ---
 
 ### AYS Daily Digest 19/6/17: Rome evicts its refugees; people choosing death over return to Libya
@@ -15,7 +15,7 @@ image:
 _Pressure towards refugees manifests in police raids in Rome / Mediterranean countries hide collective responsibility for deadly policies / Family reunification to be restricted to 70 per month / Refugees still suffering from smugglers and violent police along the ‘Balkan route’ / Ahead of the World Refugee Day / And more news…_
 
 
-![“Since yesterday our crew is in the search and rescue area\. During this time they had to make several rescues under bad weather conditions\. Yesterday, 74 people were admitted, who were then transferred to Von Hestia\. Then 241 people were supplied with life jackets and and have then been transferred to the Phoenix\. Today, our crew had to take care of 123 people on a rubber boat with waves of up to 2 meters\. People will currently stay on our ship until a ship can come to take them to the nearest safe port\.” — [Jugend Rettet e\.V\.](https://www.facebook.com/JugendRettet/?fref=nf) \(Photo by [Jugend Rettet e\.V\.](https://www.facebook.com/JugendRettet/?fref=nf) \)](assets/8d49d67b74e1/1*tKnHAFDSMmzFX-7zD54NVg.jpeg)
+![“Since yesterday our crew is in the search and rescue area\. During this time they had to make several rescues under bad weather conditions\. Yesterday, 74 people were admitted, who were then transferred to Von Hestia\. Then 241 people were supplied with life jackets and and have then been transferred to the Phoenix\. Today, our crew had to take care of 123 people on a rubber boat with waves of up to 2 meters\. People will currently stay on our ship until a ship can come to take them to the nearest safe port\.” — [Jugend Rettet e\.V\.](https://www.facebook.com/JugendRettet/?fref=nf) \(Photo by [Jugend Rettet e\.V\.](https://www.facebook.com/JugendRettet/?fref=nf) \)](../assets/8d49d67b74e1/1*tKnHAFDSMmzFX-7zD54NVg.jpeg)
 
 “Since yesterday our crew is in the search and rescue area\. During this time they had to make several rescues under bad weather conditions\. Yesterday, 74 people were admitted, who were then transferred to Von Hestia\. Then 241 people were supplied with life jackets and and have then been transferred to the Phoenix\. Today, our crew had to take care of 123 people on a rubber boat with waves of up to 2 meters\. People will currently stay on our ship until a ship can come to take them to the nearest safe port\.” — [Jugend Rettet e\.V\.](https://www.facebook.com/JugendRettet/?fref=nf) \(Photo by [Jugend Rettet e\.V\.](https://www.facebook.com/JugendRettet/?fref=nf) \)
 ### FEATURE: Pressure on refugees builds up in the ‘eternal city’
@@ -27,11 +27,11 @@ Police forces arrived and evicted all the people from the area, providing no inf
 According to the volunteers at Baobab, the action came from the police headquarters of the City of Rome, who then in turn referred to the owner of the area, the national railway company\.
 
 
-![](assets/8d49d67b74e1/1*vAoHTWlFH89YVnIg-JoxEA.jpeg)
+![](../assets/8d49d67b74e1/1*vAoHTWlFH89YVnIg-JoxEA.jpeg)
 
 
 
-![\(Photo and video by [Baobab Experience](https://www.facebook.com/BaobabExperience/) \)](assets/8d49d67b74e1/1*OI7ssYL5BBeRcObAhh-HQA.jpeg)
+![\(Photo and video by [Baobab Experience](https://www.facebook.com/BaobabExperience/) \)](../assets/8d49d67b74e1/1*OI7ssYL5BBeRcObAhh-HQA.jpeg)
 
 \(Photo and video by [Baobab Experience](https://www.facebook.com/BaobabExperience/) \)
 
@@ -138,7 +138,7 @@ Due to recent happenings at the squat beside Kara Tepe on Lesbos, the [No Border
 
 
 
-![\(By [Greek Forum of Refugees](https://www.facebook.com/Greekforumofrefugees/?fref=nf) ‎\)](assets/8d49d67b74e1/1*PYVT_wcSd5ct8IXlwVpzZw.png)
+![\(By [Greek Forum of Refugees](https://www.facebook.com/Greekforumofrefugees/?fref=nf) ‎\)](../assets/8d49d67b74e1/1*PYVT_wcSd5ct8IXlwVpzZw.png)
 
 \(By [Greek Forum of Refugees](https://www.facebook.com/Greekforumofrefugees/?fref=nf) ‎\)
 ### White card: how and when to renew it?
@@ -164,7 +164,7 @@ Flights to Germany will be scheduled according to the order in which Germany app
 As we all know, such a decision and unreasonable limitation goes against European laws, including people’s right to a family life\.
 
 
-![](assets/8d49d67b74e1/1*PJoTtZ-N3jIx4GIUlpSwug.jpeg)
+![](../assets/8d49d67b74e1/1*PJoTtZ-N3jIx4GIUlpSwug.jpeg)
 
 #### Support refugees at Oinofyta
 
@@ -241,11 +241,11 @@ This year’s [Refugee Weeks](http://cms.hr/system/article_document/doc/419/Prog
 
 
 
-![](assets/8d49d67b74e1/1*L2hXUQ2Rnu5dco1BK7tM8Q.jpeg)
+![](../assets/8d49d67b74e1/1*L2hXUQ2Rnu5dco1BK7tM8Q.jpeg)
 
 
 
-![\(Photos by [Refugee Community Kitchen](https://www.facebook.com/groups/RefugeeCommunityKitchen/) \)](assets/8d49d67b74e1/1*lsG7FR-W2S2N_GsqfwcjZQ.jpeg)
+![\(Photos by [Refugee Community Kitchen](https://www.facebook.com/groups/RefugeeCommunityKitchen/) \)](../assets/8d49d67b74e1/1*lsG7FR-W2S2N_GsqfwcjZQ.jpeg)
 
 \(Photos by [Refugee Community Kitchen](https://www.facebook.com/groups/RefugeeCommunityKitchen/) \)
 
@@ -257,7 +257,7 @@ This year’s [Refugee Weeks](http://cms.hr/system/article_document/doc/419/Prog
 
 
 
-![](assets/8d49d67b74e1/1*yT5M173DSw1XydDvt1dRxg.jpeg)
+![](../assets/8d49d67b74e1/1*yT5M173DSw1XydDvt1dRxg.jpeg)
 
 ### GENERAL
 

@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 20/05/2019: Tortured, starved, shot — the dramatic situation of Zintan
+title: "AYS Daily Digest 20/05/2019: Tortured, starved, shot — the dramatic situation of Zintan"
 author: Are You Syrious?
 date: 2019-05-21T09:40:36.084+0100
 last_modified_at: 2019-05-21T20:07:14.218+0100
 categories: Are You Syrious?
 tags: [refugees,libya,montenegro,digest,europe]
-description: Libya: Tortured, starved, shot — the dramatic situation of Zintan
+description: "Libya: Tortured, starved, shot — the dramatic situation of Zintan"
 image:
-  path: assets/c0fcfe7bca40/1*j0WWH13Wbz0h892ExPxx9A.jpeg
+  path: ../assets/c0fcfe7bca40/1*j0WWH13Wbz0h892ExPxx9A.jpeg
 ---
 
 ### AYS Daily Digest 20/05/19: Tortured, starved, shot — the dramatic situation of Zintan
 #### People in Libya’s detention centres going through their toughest days / More people passing through Montenegro, more help needed / Paris airport occupied: “stop any financial, logistical or political participation in deportations” / Mare Liberum [back](https://twitter.com/teammareliberum/status/1130479314758230018?fbclid=IwAR2UZd51Z9Lz9PW2qWpH1Hgd38ImrJtRGEMo3Av9ODfqRH2D0JH-aEvNPgw) at sea
 
 
-![People raising banners in Zintan camp\. Credits: [Sally Hayden/Twitter](https://twitter.com/sallyhayd/status/1129305872792981504)](assets/c0fcfe7bca40/1*j0WWH13Wbz0h892ExPxx9A.jpeg)
+![People raising banners in Zintan camp\. Credits: [Sally Hayden/Twitter](https://twitter.com/sallyhayd/status/1129305872792981504)](../assets/c0fcfe7bca40/1*j0WWH13Wbz0h892ExPxx9A.jpeg)
 
 People raising banners in Zintan camp\. Credits: [Sally Hayden/Twitter](https://twitter.com/sallyhayd/status/1129305872792981504)
 ### Libya: Tortured, starved, shot — the dramatic situation of Zintan

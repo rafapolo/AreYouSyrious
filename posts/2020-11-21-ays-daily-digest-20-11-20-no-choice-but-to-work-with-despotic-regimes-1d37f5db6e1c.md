@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 20/11/20: “No choice but to work with despotic regimes”
+title: "AYS Daily Digest 20/11/20: “No choice but to work with despotic regimes”"
 author: Are You Syrious?
 date: 2020-11-21T18:09:11.280+0000
 last_modified_at: 2020-11-21T20:31:44.627+0000
 categories: Are You Syrious?
 tags: [digest,refugees,migration,europe,france]
-description: lowest resettlement levels in recent history / France: violent evictions and a big change in relation to Afghan asylum seekers / new…
+description: "lowest resettlement levels in recent history / France: violent evictions and a big change in relation to Afghan asylum seekers / new…"
 image:
-  path: assets/1d37f5db6e1c/1*jvFkBU1D7WGoNIE905yk0Q.jpeg
+  path: ../assets/1d37f5db6e1c/1*jvFkBU1D7WGoNIE905yk0Q.jpeg
 ---
 
 ### AYS Daily Digest 20/11/20: “No choice but to work with despotic regimes”
 #### lowest resettlement levels in recent history / France: violent evictions and a big change in relation to Afghan asylum seekers / new pre\-deportation centres in the Canary islands / the lowest number of asylum applications in Finland since the 90s / recommended reads & more
 
 
-![Grande Synthe — photo: [Lagkadikia Camqu Hama](https://www.facebook.com/lagkadikia.camp.12?__cft__[0]=AZX_4u8eekgFnj9eBnw4zqzO6Uw4WLmmjJaOiFQ0bOiZwt0DPCVapJCmKQPH-jJKyRokoSYkvlfzHitiVBZkdkaflmb7uKxKKnSIhcJokOFlbedudweE09hTJG-PMhm6WdRrBC-dQ3JUkJul6V04-Qge&__tn__=-UC*F)](assets/1d37f5db6e1c/1*jvFkBU1D7WGoNIE905yk0Q.jpeg)
+![Grande Synthe — photo: [Lagkadikia Camqu Hama](https://www.facebook.com/lagkadikia.camp.12?__cft__[0]=AZX_4u8eekgFnj9eBnw4zqzO6Uw4WLmmjJaOiFQ0bOiZwt0DPCVapJCmKQPH-jJKyRokoSYkvlfzHitiVBZkdkaflmb7uKxKKnSIhcJokOFlbedudweE09hTJG-PMhm6WdRrBC-dQ3JUkJul6V04-Qge&__tn__=-UC*F)](../assets/1d37f5db6e1c/1*jvFkBU1D7WGoNIE905yk0Q.jpeg)
 
 Grande Synthe — photo: [Lagkadikia Camqu Hama](https://www.facebook.com/lagkadikia.camp.12?__cft__[0]=AZX_4u8eekgFnj9eBnw4zqzO6Uw4WLmmjJaOiFQ0bOiZwt0DPCVapJCmKQPH-jJKyRokoSYkvlfzHitiVBZkdkaflmb7uKxKKnSIhcJokOFlbedudweE09hTJG-PMhm6WdRrBC-dQ3JUkJul6V04-Qge&__tn__=-UC*F)
 #### FEATURED
@@ -53,7 +53,7 @@ The Ministry of Migration & Asylum in cooperation with the Ministry of Citizen P
 
 
 ![“Dear all, still an organisation calling itself Sultana Foundation uses the “Stand by me Lesvos” FB page to fundraise\. Please be aware the page with a crown is not ours and has nothing to do with us\. We have asked the owner many times to change it, but he refuses to do so, knowing he can fundraise with our name\. Unfortunately a lot of people and organisations are using very screwed ways of collecting money in the name of the refugees in Lesvos\. This screenshot documents just one of many examples\.
- We have nothing to do and no connection with this false “Stand by me” page: [https://www\.facebook\.com/standbymelesvos/](https://www.facebook.com/standbymelesvos/) ” — [Stand by me Lesvos](https://www.facebook.com/standbymelesvosNGO/?__cft__[0]=AZXBQI-h6tdihVn1U_7mq0Gtpj2_8y27qUtL0C1j0n70-MNk9gK31Oca7F5ZdLQbzI7MidJ-4Pa6igfLc0mYDzAGspyUTCfVnj7JINhv2zhIEa0_X2oy2u9eQ9NXhLmB3pb-C3E8M7oN_GqE7dgOzSZFUXHhCu-7UiccG3zvx9lG4Q&__tn__=-UC%2CP-y-R)](assets/1d37f5db6e1c/0*uRngJd8Quq2yEFgD)
+ We have nothing to do and no connection with this false “Stand by me” page: [https://www\.facebook\.com/standbymelesvos/](https://www.facebook.com/standbymelesvos/) ” — [Stand by me Lesvos](https://www.facebook.com/standbymelesvosNGO/?__cft__[0]=AZXBQI-h6tdihVn1U_7mq0Gtpj2_8y27qUtL0C1j0n70-MNk9gK31Oca7F5ZdLQbzI7MidJ-4Pa6igfLc0mYDzAGspyUTCfVnj7JINhv2zhIEa0_X2oy2u9eQ9NXhLmB3pb-C3E8M7oN_GqE7dgOzSZFUXHhCu-7UiccG3zvx9lG4Q&__tn__=-UC%2CP-y-R)](../assets/1d37f5db6e1c/0*uRngJd8Quq2yEFgD)
 
 “Dear all, still an organisation calling itself Sultana Foundation uses the “Stand by me Lesvos” FB page to fundraise\. Please be aware the page with a crown is not ours and has nothing to do with us\. We have asked the owner many times to change it, but he refuses to do so, knowing he can fundraise with our name\. Unfortunately a lot of people and organisations are using very screwed ways of collecting money in the name of the refugees in Lesvos\. This screenshot documents just one of many examples\.
  We have nothing to do and no connection with this false “Stand by me” page: [https://www\.facebook\.com/standbymelesvos/](https://www.facebook.com/standbymelesvos/) ” — [Stand by me Lesvos](https://www.facebook.com/standbymelesvosNGO/?__cft__[0]=AZXBQI-h6tdihVn1U_7mq0Gtpj2_8y27qUtL0C1j0n70-MNk9gK31Oca7F5ZdLQbzI7MidJ-4Pa6igfLc0mYDzAGspyUTCfVnj7JINhv2zhIEa0_X2oy2u9eQ9NXhLmB3pb-C3E8M7oN_GqE7dgOzSZFUXHhCu-7UiccG3zvx9lG4Q&__tn__=-UC%2CP-y-R)

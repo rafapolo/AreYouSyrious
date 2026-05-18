@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 07/03/2019 Italy: makeshift camp in San Ferdinando evicted
+title: "AYS Daily Digest 07/03/2019 Italy: makeshift camp in San Ferdinando evicted"
 author: Are You Syrious?
 date: 2019-03-08T10:59:32.167+0000
 last_modified_at: 2019-03-08T13:19:39.620+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,rosarno,eviction,european-union]
 description: More reports from Afghanistan /// Tragic death in the Aegean Sea /// Statement from Refugees Movement for Rights and Justice /// Racist…
 image:
-  path: assets/87b6acb6f885/1*HSeRIspjb9Ha0jH9t3fa7Q.jpeg
+  path: ../assets/87b6acb6f885/1*HSeRIspjb9Ha0jH9t3fa7Q.jpeg
 ---
 
 ### AYS Daily Digest 07/03/2019 Italy: makeshift camp in San Ferdinando evicted
@@ -19,7 +19,7 @@ More reports from Afghanistan /// Tragic death in the Aegean Sea /// Statement f
 1,000 paramilitary police evicted more than 1,500 people from the San Ferdinando camp, Southern Italy\.
 In the photograph, A\.A\., refugee from Nigeria, before the eviction, under a tent he lived in for five years\.
 \(Photograph by [Simone Padovani](https://twitter.com/SimonPadovani) — [ArtAgainst](https://www.facebook.com/artagainstproject/photos/a.639651369417634/2103939822988774/?type=3&theater) \)
-[\#noborders](https://www.facebook.com/hashtag/noborders?epa=HASHTAG)](assets/87b6acb6f885/1*HSeRIspjb9Ha0jH9t3fa7Q.jpeg)
+[\#noborders](https://www.facebook.com/hashtag/noborders?epa=HASHTAG)](../assets/87b6acb6f885/1*HSeRIspjb9Ha0jH9t3fa7Q.jpeg)
 
 Calabria, Italy 6 March 2019
 1,000 paramilitary police evicted more than 1,500 people from the San Ferdinando camp, Southern Italy\.
@@ -31,14 +31,14 @@ In the photograph, A\.A\., refugee from Nigeria, before the eviction, under a te
 As we reported yesterday, [the makeshift camp in San Ferdinando, nearby Rosarno in Southern Italy, has been evicted and demolished in the last couple of days\.](http://campagneinlotta.org/sgombero-della-tendopoli-di-san-ferdinando-quello-che-nessuno-dice/)
 
 
-![Excavator during the eviction \( [Comitato Lavoratori delle Campagne](https://www.facebook.com/comitatolavoratoridellecampagne) \)](assets/87b6acb6f885/1*86xGd59HKEepYV8MGNr7XQ.jpeg)
+![Excavator during the eviction \( [Comitato Lavoratori delle Campagne](https://www.facebook.com/comitatolavoratoridellecampagne) \)](../assets/87b6acb6f885/1*86xGd59HKEepYV8MGNr7XQ.jpeg)
 
 Excavator during the eviction \( [Comitato Lavoratori delle Campagne](https://www.facebook.com/comitatolavoratoridellecampagne) \)
 
 Other evictions and demolition operations have also been carried out in past years \(2013 and 2017\) \. This time, more than 1,000 police agents intervened, and it became one of the centrepieces of the never ending electoral campaign of Italian interior minister Salvini, who promoted it as an act of humanity and legality…
 
 
-![More than 1,000 police agents intervened \( [Comitato Lavoratori delle Campagne](https://www.facebook.com/comitatolavoratoridellecampagne) \)](assets/87b6acb6f885/1*M7HrXcVmgGnxbkPGWrLy5g.jpeg)
+![More than 1,000 police agents intervened \( [Comitato Lavoratori delle Campagne](https://www.facebook.com/comitatolavoratoridellecampagne) \)](../assets/87b6acb6f885/1*M7HrXcVmgGnxbkPGWrLy5g.jpeg)
 
 More than 1,000 police agents intervened \( [Comitato Lavoratori delle Campagne](https://www.facebook.com/comitatolavoratoridellecampagne) \)
 
@@ -69,7 +69,7 @@ Residents of the camp and their supporters denounce the widespread consensus for
 
 
 
-![During the eviction \( [Comitato Lavoratori delle Campagne](https://www.facebook.com/comitatolavoratoridellecampagne) \)](assets/87b6acb6f885/1*c0RMZrfm9TfZvMcUlYaUdQ.jpeg)
+![During the eviction \( [Comitato Lavoratori delle Campagne](https://www.facebook.com/comitatolavoratoridellecampagne) \)](../assets/87b6acb6f885/1*c0RMZrfm9TfZvMcUlYaUdQ.jpeg)
 
 During the eviction \( [Comitato Lavoratori delle Campagne](https://www.facebook.com/comitatolavoratoridellecampagne) \)
 
@@ -95,7 +95,7 @@ During the eviction \( [Comitato Lavoratori delle Campagne](https://www.facebook
 
 
 
-![The camp after the eviction \( [Comitato Lavoratori delle Campagne](https://www.facebook.com/comitatolavoratoridellecampagne) \)](assets/87b6acb6f885/1*IctNzq5GT8qbTny60V0O9g.jpeg)
+![The camp after the eviction \( [Comitato Lavoratori delle Campagne](https://www.facebook.com/comitatolavoratoridellecampagne) \)](../assets/87b6acb6f885/1*IctNzq5GT8qbTny60V0O9g.jpeg)
 
 The camp after the eviction \( [Comitato Lavoratori delle Campagne](https://www.facebook.com/comitatolavoratoridellecampagne) \)
 
@@ -109,7 +109,7 @@ AFGHANISTAN
 They remark on the harsh conditions for children in the country:
 
 
-![[Unicef NL](https://www.unicef.nl/nieuws/2019-03-06-nieuw-rapport-over-leefomstandigheden-van-kinderen-in-afghanistan?fbclid=IwAR28Ah6omDXrPo9BdKvKigYLPNqsrUsayhaDVTC19siTC_RNuQCzV_3U5Ts)](assets/87b6acb6f885/1*nu7-zXALcCdFuDhZ43Kutg.png)
+![[Unicef NL](https://www.unicef.nl/nieuws/2019-03-06-nieuw-rapport-over-leefomstandigheden-van-kinderen-in-afghanistan?fbclid=IwAR28Ah6omDXrPo9BdKvKigYLPNqsrUsayhaDVTC19siTC_RNuQCzV_3U5Ts)](../assets/87b6acb6f885/1*nu7-zXALcCdFuDhZ43Kutg.png)
 
 [Unicef NL](https://www.unicef.nl/nieuws/2019-03-06-nieuw-rapport-over-leefomstandigheden-van-kinderen-in-afghanistan?fbclid=IwAR28Ah6omDXrPo9BdKvKigYLPNqsrUsayhaDVTC19siTC_RNuQCzV_3U5Ts)
 
@@ -312,7 +312,7 @@ No Name Kitchen — Sid is continuing to provide daily breakfasts and dinners, w
 
 
 
-![](assets/87b6acb6f885/1*evWRDM98Kqp8ExcuH1vehw.jpeg)
+![](../assets/87b6acb6f885/1*evWRDM98Kqp8ExcuH1vehw.jpeg)
 
 
 
@@ -333,7 +333,7 @@ FRANCE
 [Utopia56 Paris et Ile\-de\-France](https://www.facebook.com/U56ParisIDF/photos/pcb.2058782204421229/2058782141087902/?type=3&ifg=1&__tn__=HH-R&eid=ARB4QVuWgz-UxbG39Sk2MZ3r7BTCxq3HVkWCWsJVNGA502FiW-g_vJbnfnkTy4lV9TT_zu2GDF4GNqvP) is reporting again on the difficult situation of people on the move in the French capital\.
 
 
-![Paris \(Photo by [Utopia56 Paris et Ile\-de\-France](https://www.facebook.com/U56ParisIDF) \)](assets/87b6acb6f885/1*ZT6PNp9VqQlVR0AZo40wZg.jpeg)
+![Paris \(Photo by [Utopia56 Paris et Ile\-de\-France](https://www.facebook.com/U56ParisIDF) \)](../assets/87b6acb6f885/1*ZT6PNp9VqQlVR0AZo40wZg.jpeg)
 
 Paris \(Photo by [Utopia56 Paris et Ile\-de\-France](https://www.facebook.com/U56ParisIDF) \)
 

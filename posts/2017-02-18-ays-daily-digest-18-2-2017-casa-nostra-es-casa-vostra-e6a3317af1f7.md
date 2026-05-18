@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 18/2/2017: Casa nostra es casa vostra
+title: "AYS DAILY DIGEST 18/2/2017: Casa nostra es casa vostra"
 author: Are You Syrious?
 date: 2017-02-18T23:17:04.061+0000
 last_modified_at: 2017-02-19T12:20:14.334+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,refugees-in-serbia,barcelona-protests]
 description: 300.000 people in the streets of Barcelona saying refugees are welcome // Refugees in Greece protesting inhuman living conditions in…
 image:
-  path: assets/e6a3317af1f7/1*tRoKtjxQK5eCvua8fK_f6Q.jpeg
+  path: ../assets/e6a3317af1f7/1*tRoKtjxQK5eCvua8fK_f6Q.jpeg
 ---
 
 ### AYS DAILY DIGEST 18/2/2017: Casa nostra es casa vostra
@@ -15,7 +15,7 @@ image:
 _300\.000 people in the streets of Barcelona saying refugees are welcome // Refugees in Greece protesting inhuman living conditions in Elliniko camp // Prosecution in Italy investigates those who are rescuing people from the sea instead smugglers // Volunteers efforts in Paris_
 
 
-![](assets/e6a3317af1f7/1*tRoKtjxQK5eCvua8fK_f6Q.jpeg)
+![](../assets/e6a3317af1f7/1*tRoKtjxQK5eCvua8fK_f6Q.jpeg)
 
 ### Feature
 #### Democracy killed by the borders
@@ -29,7 +29,7 @@ Hundreds of thousands of people in Barcelona went out on the streets marching to
 Unlike some other politicians, Ada Colau, the mayor of Barcelona, called residents to “fill the streets” and march under the slogan “Volem acollir” \(“We want to welcome them” in Catalan\) \. Many held signs saying: “Enough excuses, welcome them now”\.
 
 
-![Photo by Casa nostra, casa vostra](assets/e6a3317af1f7/1*8Ve9naJERgfwETX3sfggiQ.jpeg)
+![Photo by Casa nostra, casa vostra](../assets/e6a3317af1f7/1*8Ve9naJERgfwETX3sfggiQ.jpeg)
 
 Photo by Casa nostra, casa vostra
 
@@ -42,22 +42,22 @@ According to the official numbers, no relocations from Italy occurred this week\
 According to the EC figures, 8,874 persons have been relocated from Greece to other European countries since the beginning of the relocation scheme, which is 13 percent of the initial 66,400 target\.
 
 
-![](assets/e6a3317af1f7/1*gNJt7Hy5DEJtdTV1XngfSQ.jpeg)
+![](../assets/e6a3317af1f7/1*gNJt7Hy5DEJtdTV1XngfSQ.jpeg)
 
 ### Greece
 
 Residents of the Elliniko camp in Athens protested today again against the terrible living conditions\. This old, abandoned, Olympic complex has been turned into the refugee camp where over 1000 people are forced to live until today\. Conditions are more than inhuman\. The camp is under the control of the Ministry of Migrations that forbids access to independent volunteers and even friends of residents\.
 
 
-![](assets/e6a3317af1f7/1*EemFOSkItj1LAMsTw2tvCg.jpeg)
+![](../assets/e6a3317af1f7/1*EemFOSkItj1LAMsTw2tvCg.jpeg)
 
 
 
-![](assets/e6a3317af1f7/1*bwFtqB_ggOHqROn6-hyBxQ.jpeg)
+![](../assets/e6a3317af1f7/1*bwFtqB_ggOHqROn6-hyBxQ.jpeg)
 
 
 
-![Living conditions in Elliniko\. Photo AYS\.](assets/e6a3317af1f7/1*1nM-98KU1juwXGIoIz2P9g.jpeg)
+![Living conditions in Elliniko\. Photo AYS\.](../assets/e6a3317af1f7/1*1nM-98KU1juwXGIoIz2P9g.jpeg)
 
 Living conditions in Elliniko\. Photo AYS\.
 
@@ -137,7 +137,7 @@ Some interesting information is published by the media this week about the work 
 A number of organizations have their boats in the sea and they are saving lives every day\. The first once to launch a private rescue boat was the Maltese organization Moas who are in the sea since the summer of 2014\. Since 2016, they were joined by the boats by the German NGOs Sea Watch, Sea Eye, and Jugend Rettet, as well as the Dutch Lifeboat Project, the Spanish Proactiva Open Arms, and the Aquarius by SOS Mediterranean and Doctors Without Borders \(MSF\) \.
 
 
-![Photo by SOS Mediterranee, Yann Merlin\.](assets/e6a3317af1f7/1*EA_Ft_eJWRO9IwOr16WANA.jpeg)
+![Photo by SOS Mediterranee, Yann Merlin\.](../assets/e6a3317af1f7/1*EA_Ft_eJWRO9IwOr16WANA.jpeg)
 
 Photo by SOS Mediterranee, Yann Merlin\.
 
@@ -157,7 +157,7 @@ The situation is not getting any better for people in the streets of Paris or in
 Volunteers are not abandoning them\. Only in Paris numerous groups are present, as well as locals who are bringing warm clothes, blankets, sleeping bags, food, and drinks\.
 
 
-![Photo by [Solidarite migrant Wilson](http://Solidarité migrants Wilson) \.](assets/e6a3317af1f7/1*a8MjlvNWi3gldX4u_h7Y5Q.jpeg)
+![Photo by [Solidarite migrant Wilson](http://Solidarité migrants Wilson) \.](../assets/e6a3317af1f7/1*a8MjlvNWi3gldX4u_h7Y5Q.jpeg)
 
 Photo by [Solidarite migrant Wilson](http://Solidarité migrants Wilson) \.
 

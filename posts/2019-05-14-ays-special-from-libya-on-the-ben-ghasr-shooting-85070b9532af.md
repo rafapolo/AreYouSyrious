@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL from Libya: On the Ben Ghasr Shooting
+title: "AYS SPECIAL from Libya: On the Ben Ghasr Shooting"
 author: Are You Syrious?
 date: 2019-05-14T12:26:28.236+0100
 last_modified_at: 2019-05-14T13:00:52.124+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,special,libya,europe,war-crimes]
 description: As the EU keeps supporting the Libyan Coast Guard in order to stem arrivals to Europe — in spite of all the reports of abuse and criminal…
 image:
-  path: assets/85070b9532af/1*cDfDMmVSu8kjhGpbe7IH7w.jpeg
+  path: ../assets/85070b9532af/1*cDfDMmVSu8kjhGpbe7IH7w.jpeg
 ---
 
 ### AYS SPECIAL from Libya: On the Ben Ghasr Shooting
 #### As the EU keeps supporting the Libyan Coast Guard in order to stem arrivals to Europe — in spite of all the reports of abuse and criminal activities on the Libyan side — thousands of people are being returned to what is now also a war zone\. One of the journalists who have been following the story through contact with detainees in immigration detention centres shared for AYS the testimonies of people who were trapped inside during an attack on the detention center Qasr ben Ghasir\.
 
 
-![Photos taken by detainees at Qasr ben Ghasir](assets/85070b9532af/1*cDfDMmVSu8kjhGpbe7IH7w.jpeg)
+![Photos taken by detainees at Qasr ben Ghasir](../assets/85070b9532af/1*cDfDMmVSu8kjhGpbe7IH7w.jpeg)
 
 Photos taken by detainees at Qasr ben Ghasir
 
@@ -40,7 +40,7 @@ In a statement, UNHCR\-Libya wrote that the soldiers only fired their guns in th
 Desperate words ticked into my instant messenger a week ago written by a twenty\-something year old man being held in the Qasr ben Ghasir detention center,south of Tripoli in Libya\. Seven hundred refugees, many of them Eritrean people, have been held in detention there for over two weeks, caught in the battlefield between marshal Khalifa Haftar’s rebel forces and soldiers from Libya’s UN recognized government\.
 
 
-![](assets/85070b9532af/1*zg-eodteS3JaFcCBONPNqg.jpeg)
+![](../assets/85070b9532af/1*zg-eodteS3JaFcCBONPNqg.jpeg)
 
 
 **Access to food and clean drinking water had been sporadic\.** 
@@ -49,13 +49,13 @@ Among the 700 people being held there were many women, including several pregnan
 Sexual violence and rape are common in the Libyan detention centers\. “Some of the women undressed and started screaming rolling around on the floor but it did not stop the soldier’s evil deeds\. They just beat them and pulled them across the concrete floor and forced them back into their rooms,” he wrote **\.**
 
 
-![](assets/85070b9532af/1*uyQ0ETxyVy3oXBPbg0TVFA.jpeg)
+![](../assets/85070b9532af/1*uyQ0ETxyVy3oXBPbg0TVFA.jpeg)
 
 
 Other refugees in Qasr ben Ghasir are confirming the events\. Human Rights and Migration lawyer Giulia Tranchina, and a number of other journalists, myself included, have received photos and videos smuggled out and sent on IMO, Messenger and WhatsApp\. The pictures and videos taken in aftermath of this shooting show wounded and screaming people\. In the background you can clearly hear shooting\.
 
 
-[![Libyan detention centre footage](assets/85070b9532af/2791_hqdefault.jpg "Libyan detention centre footage")](http://www.youtube.com/watch?v=DIbaEWJmrxU)
+[![Libyan detention centre footage](../assets/85070b9532af/2791_hqdefault.jpg "Libyan detention centre footage")](http://www.youtube.com/watch?v=DIbaEWJmrxU)
 
 
 The 700 refugees have now been evacuated to another detention center, Zawiyah, located outside of Tripoli on the coast\.
@@ -74,7 +74,7 @@ UNHCR\-Libya and the government of Libya previously tried to evacuate the 700 re
 The English [media said](https://www.theguardian.com/world/2019/apr/25/libya-detention-centre-attack-footage-refugees-hiding-shooting) it is probably the first time a Libyan militia entered into a building filled with refugees and open fired\. According to witnesses, the soldiers storming the detention center were recognized as belonging to renegade forces of General Khalifa Haftar\. They ordered the refugees to hand over their phones and when they refused, the soldiers started firing their guns directly at the people\.
 
 
-![](assets/85070b9532af/1*Oonkr4rTca5Fc0ZPWanA4A.jpeg)
+![](../assets/85070b9532af/1*Oonkr4rTca5Fc0ZPWanA4A.jpeg)
 
 
 The phones are the only way refugees captured in Libya are able to communicate with the outside world\. According to Amnesty, one witness described seeing the symbols of the Libyan National Army on the trucks of the attackers, but other victims said it was unclear who the attackers were\.
@@ -82,7 +82,7 @@ The phones are the only way refugees captured in Libya are able to communicate w
 **Amnesty international calls the shooting to be investigated as a war crime, requiring further immediate investigations\.** UNHCR\-Libya said in a statement that shots were fired in the air, and twelve people had to go the hospital because of what the UNHCR called ”physical damage”\. According to UNHCR, there is no evidence of people being shot\.
 
 
-![](assets/85070b9532af/1*CXfaFsQa05MwFViluwocig.jpeg)
+![](../assets/85070b9532af/1*CXfaFsQa05MwFViluwocig.jpeg)
 
 
 MSF workers present in Libya has made an investigation into the existing videos and photos from the incident in Qasr ben Ghasir\. In a press release on 24 April they said that videos and other photographic evidence proves that refugees were shot at and injured when the soldiers entered Qasr ben Ghasir:

@@ -1,5 +1,5 @@
 ---
-title: AYS Special — Fire on Samos: Engineered Catastrophe
+title: "AYS Special — Fire on Samos: Engineered Catastrophe"
 author: Are You Syrious?
 date: 2019-10-24T16:19:00.319+0100
 last_modified_at: 2019-10-25T12:04:35.607+0100
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [special,refugees,samos,greece,hotspots]
 description: It’s said that the Greek islands are where time stands still. The waves and the shore, the sun in the sky, old men in the plateía, the…
 image:
-  path: assets/a1aa04e93725/1*7_Sf8t8CJHfj3Q9ngXaQ9g.jpeg
+  path: ../assets/a1aa04e93725/1*7_Sf8t8CJHfj3Q9ngXaQ9g.jpeg
 ---
 
 ### AYS Special — **Fire on Samos: Engineered Catastrophe**
 
 
-![Samos island, December 2018 — The population of the camp was already exceeding 4,000 people \(Photo by [NoBorders](https://twitter.com/Refugees_Gr/status/1072457598702628864) \)](assets/a1aa04e93725/1*7_Sf8t8CJHfj3Q9ngXaQ9g.jpeg)
+![Samos island, December 2018 — The population of the camp was already exceeding 4,000 people \(Photo by [NoBorders](https://twitter.com/Refugees_Gr/status/1072457598702628864) \)](../assets/a1aa04e93725/1*7_Sf8t8CJHfj3Q9ngXaQ9g.jpeg)
 
 Samos island, December 2018 — The population of the camp was already exceeding 4,000 people \(Photo by [NoBorders](https://twitter.com/Refugees_Gr/status/1072457598702628864) \)
 
@@ -32,11 +32,11 @@ With a camp almost ten times overcapacity and a refugee population to match the 
 **_The Camp_**
 
 
-![](assets/a1aa04e93725/1*-yWFaLvcRUdu38Mlvb9UmQ.jpeg)
+![](../assets/a1aa04e93725/1*-yWFaLvcRUdu38Mlvb9UmQ.jpeg)
 
 
 
-![Vathi Camp, Samos, 6 October 2019 \(Photo by [RSA — Refugee Support Aegean](https://twitter.com/rspaegean/status/1180803294157033472) \)](assets/a1aa04e93725/1*1mo_7XqUyb2oR-6tjABI7A.jpeg)
+![Vathi Camp, Samos, 6 October 2019 \(Photo by [RSA — Refugee Support Aegean](https://twitter.com/rspaegean/status/1180803294157033472) \)](../assets/a1aa04e93725/1*1mo_7XqUyb2oR-6tjABI7A.jpeg)
 
 Vathi Camp, Samos, 6 October 2019 \(Photo by [RSA — Refugee Support Aegean](https://twitter.com/rspaegean/status/1180803294157033472) \)
 
@@ -98,7 +98,7 @@ Everyone saw how [last month’s deadly fire on Lesvos](https://www.theguardian.
 **_The Hunger Strike — and Open Cards_**
 
 
-![Protest in Vathi, 18 October 2019 \(Photo by [Noborders](https://twitter.com/Refugees_Gr/status/1185122186618703872) \)](assets/a1aa04e93725/1*jerLNxv9SAnjlSMBus3I6w.jpeg)
+![Protest in Vathi, 18 October 2019 \(Photo by [Noborders](https://twitter.com/Refugees_Gr/status/1185122186618703872) \)](../assets/a1aa04e93725/1*jerLNxv9SAnjlSMBus3I6w.jpeg)
 
 Protest in Vathi, 18 October 2019 \(Photo by [Noborders](https://twitter.com/Refugees_Gr/status/1185122186618703872) \)
 

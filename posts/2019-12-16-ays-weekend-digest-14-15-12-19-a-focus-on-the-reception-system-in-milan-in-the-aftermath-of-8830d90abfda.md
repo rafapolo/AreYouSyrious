@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 14–15/12/19: A focus on the reception system in Milan in the aftermath of…
+title: "AYS Weekend Digest 14–15/12/19: A focus on the reception system in Milan in the aftermath of…"
 author: Are You Syrious?
 date: 2019-12-16T14:30:23.150+0000
 last_modified_at: 2019-12-16T14:30:23.150+0000
@@ -7,18 +7,18 @@ categories: Are You Syrious?
 tags: []
 description: A new body to be introduced to supervise Greek land and sea borders // New account from Chios // Cases of labour exploitation in Italian…
 image:
-  path: assets/8830d90abfda/0*Pe_51UCwZp7pHyoY.jpeg
+  path: ../assets/8830d90abfda/0*Pe_51UCwZp7pHyoY.jpeg
 ---
 
 ### AYS Weekend Digest 14–15/12/19: A focus on the reception system in Milan in the aftermath of Salvini’s Decree
 #### A new body to be introduced to supervise Greek land and sea borders // New account from Chios // Cases of labour exploitation in Italian fields // Over 70 squats evacuated in 6 months around Bordeaux // 400 guards along the land border along the Evros River // & legal and other updates
 
 
-![](assets/8830d90abfda/0*ck2qkes6uK5AhdV0)
+![](../assets/8830d90abfda/0*ck2qkes6uK5AhdV0)
 
 
 
-![](assets/8830d90abfda/0*Pe_51UCwZp7pHyoY.jpeg)
+![](../assets/8830d90abfda/0*Pe_51UCwZp7pHyoY.jpeg)
 
 
 Belgrade, December 2019\. Credit: [Igor Čoko](https://igorcoko.net) \.

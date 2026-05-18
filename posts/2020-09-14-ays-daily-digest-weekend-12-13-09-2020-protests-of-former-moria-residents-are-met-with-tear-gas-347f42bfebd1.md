@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest: Weekend 12–13/09/2020: Protests Of Former Moria Residents Are Met With Tear Gas
+title: "AYS Daily Digest: Weekend 12–13/09/2020: Protests Of Former Moria Residents Are Met With Tear Gas"
 author: Are You Syrious?
 date: 2020-09-14T13:54:21.626+0100
 last_modified_at: 2020-09-14T14:46:50.031+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,europe,moria,digest,mediterranean-sea]
 description: All the Weekends updates on the situation on Lesvos // People rescued by Etienne are finally allowed to disembark // Chain pushback…
 image:
-  path: assets/347f42bfebd1/1*55gO73HkT_AqLy5eBZC32A.jpeg
+  path: ../assets/347f42bfebd1/1*55gO73HkT_AqLy5eBZC32A.jpeg
 ---
 
 ### AYS Daily Digest: Weekend 12–13/09/2020: Protests Of Former Moria Residents Are Met With Tear Gas
 #### All the weekend updates on the situation on Lesvos // People rescued by Etienne are finally allowed to disembark // Chain pushback reported from Austria to Bosnia and Herzegovina // Joint statement by NGOs against ban of food distribution in Calais
 
 
-![Protest of former residents of Moria, Copyright: Elena Depi di Piccoli](assets/347f42bfebd1/1*55gO73HkT_AqLy5eBZC32A.jpeg)
+![Protest of former residents of Moria, Copyright: Elena Depi di Piccoli](../assets/347f42bfebd1/1*55gO73HkT_AqLy5eBZC32A.jpeg)
 
 Protest of former residents of Moria, Copyright: Elena Depi di Piccoli
 ### FEATURE
@@ -109,7 +109,7 @@ Meanwhile, a **new camp** has been set up, north of Kara Tepe at an old shooting
 It has been reported that there are only few hygiene facilities and not enough mattresses and blankets\. The tents are set up very close to each other, increasing the risk of spreading a fire\.
 
 
-![The new camp structure\. Copyright: Giogos Moutafis](assets/347f42bfebd1/1*N2FgYAjUJNrmo1IPFGmOPQ.jpeg)
+![The new camp structure\. Copyright: Giogos Moutafis](../assets/347f42bfebd1/1*N2FgYAjUJNrmo1IPFGmOPQ.jpeg)
 
 The new camp structure\. Copyright: Giogos Moutafis
 

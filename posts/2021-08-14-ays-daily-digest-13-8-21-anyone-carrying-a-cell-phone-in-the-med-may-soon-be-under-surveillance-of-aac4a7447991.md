@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 13/8/21: Anyone carrying a cell phone in the Med may soon be under surveillance by…
+title: "AYS Daily Digest 13/8/21: Anyone carrying a cell phone in the Med may soon be under surveillance by…"
 author: Are You Syrious?
 date: 2021-08-14T17:50:04.977+0100
 last_modified_at: 2021-08-14T21:13:21.358+0100
 categories: Are You Syrious?
 tags: [digest,refugees,frontex,borders,europe]
-description: All the ways Frontex acts against people / News from the Mediterranean / Paris: systemic state violence and police harassment towards…
+description: "All the ways Frontex acts against people / News from the Mediterranean / Paris: systemic state violence and police harassment towards…"
 image:
-  path: assets/aac4a7447991/0*pk0oW1B-PN_mj6-O
+  path: ../assets/aac4a7447991/0*pk0oW1B-PN_mj6-O
 ---
 
 ### AYS Daily Digest 13/8/21: Anyone carrying a cell phone in the Med may soon be under surveillance by Frontex \(and the Libyan Coast Guard\)
 #### All the ways Frontex acts against people / News from the Mediterranean / Paris: systemic state violence and police harassment towards people on the move / Denmark stops deportations to Afghanistan and announces closure of their Afghan embassy / Important recommended reads and calls for support
 
 
-![by: [Care4Calais](https://web.facebook.com/care4calais/?__cft__[0]=AZXiwfmtfDd8xMneQ9tmh3VSJp01a5UBi6scZHh0aCYfSRVSZOWlAqERVrXZA1D2O97IN-Eplgmjibcr9rmKsRPcpyZh-qeMEC59jpcJoyQ29AquwWru3RJ5DTzZb6c09jDAG9FRlTGctbcC_k87tu8suWoZ0F1-pYzm6CldZfkfW7Xjj5Ui6rfyU3-n7B6TuoWAj0r28dvi1Eyarie23lP0&__tn__=-UC%2CP-y-R)](assets/aac4a7447991/0*pk0oW1B-PN_mj6-O)
+![by: [Care4Calais](https://web.facebook.com/care4calais/?__cft__[0]=AZXiwfmtfDd8xMneQ9tmh3VSJp01a5UBi6scZHh0aCYfSRVSZOWlAqERVrXZA1D2O97IN-Eplgmjibcr9rmKsRPcpyZh-qeMEC59jpcJoyQ29AquwWru3RJ5DTzZb6c09jDAG9FRlTGctbcC_k87tu8suWoZ0F1-pYzm6CldZfkfW7Xjj5Ui6rfyU3-n7B6TuoWAj0r28dvi1Eyarie23lP0&__tn__=-UC%2CP-y-R)](../assets/aac4a7447991/0*pk0oW1B-PN_mj6-O)
 
 by: [Care4Calais](https://web.facebook.com/care4calais/?__cft__[0]=AZXiwfmtfDd8xMneQ9tmh3VSJp01a5UBi6scZHh0aCYfSRVSZOWlAqERVrXZA1D2O97IN-Eplgmjibcr9rmKsRPcpyZh-qeMEC59jpcJoyQ29AquwWru3RJ5DTzZb6c09jDAG9FRlTGctbcC_k87tu8suWoZ0F1-pYzm6CldZfkfW7Xjj5Ui6rfyU3-n7B6TuoWAj0r28dvi1Eyarie23lP0&__tn__=-UC%2CP-y-R)
 #### FEATURE — Frontex accountability — implications for its legal responsibility for fundamental rights violations
@@ -98,7 +98,7 @@ Maritime Rescue has [reportedly](https://www.europapress.es/islas-canarias/notic
 **_Gino Strada, the founder of [EMERGENCY](https://web.facebook.com/emergency.ong/?__cft__[0]=AZUPScBPG7yQI2H6o0oIhDwpzHT0rGOF1RHMY7-XFjkNW5TOz7AEoe63vA-Eh0ovGWyuKFLdRhxFl_NrR-w5Vl2NzGn5RSKuNNLbrD2ZQm73xAVxFOhegisvtFKTV07wlfXcIGjT3h18mZvNI6eUfR-I&__tn__=kK-R) , died today at the age of 73\._**
 
 
-![via [Mediterranea Berlin e\.V\.](https://web.facebook.com/mediterraneaberlinev/?__cft__[0]=AZUPScBPG7yQI2H6o0oIhDwpzHT0rGOF1RHMY7-XFjkNW5TOz7AEoe63vA-Eh0ovGWyuKFLdRhxFl_NrR-w5Vl2NzGn5RSKuNNLbrD2ZQm73xAVxFOhegisvtFKTV07wlfXcIGjT3h18mZvNI6eUfR-I&__tn__=-UC%2CP-R)](assets/aac4a7447991/0*Qw_uT_JN-f1SF0MZ)
+![via [Mediterranea Berlin e\.V\.](https://web.facebook.com/mediterraneaberlinev/?__cft__[0]=AZUPScBPG7yQI2H6o0oIhDwpzHT0rGOF1RHMY7-XFjkNW5TOz7AEoe63vA-Eh0ovGWyuKFLdRhxFl_NrR-w5Vl2NzGn5RSKuNNLbrD2ZQm73xAVxFOhegisvtFKTV07wlfXcIGjT3h18mZvNI6eUfR-I&__tn__=-UC%2CP-R)](../assets/aac4a7447991/0*Qw_uT_JN-f1SF0MZ)
 
 via [Mediterranea Berlin e\.V\.](https://web.facebook.com/mediterraneaberlinev/?__cft__[0]=AZUPScBPG7yQI2H6o0oIhDwpzHT0rGOF1RHMY7-XFjkNW5TOz7AEoe63vA-Eh0ovGWyuKFLdRhxFl_NrR-w5Vl2NzGn5RSKuNNLbrD2ZQm73xAVxFOhegisvtFKTV07wlfXcIGjT3h18mZvNI6eUfR-I&__tn__=-UC%2CP-R)
 
@@ -119,7 +119,7 @@ Read the entire story [here\.](https://wearesolomon.com/mag/on-the-move-el/antim
 #### BOSNIA AND HERZEGOVINA
 
 
-![Project update ′′ portable showers ′′ in cooperation with Colletivo Sulla Rotta Balkanica — Alto Vicentino\.](assets/aac4a7447991/0*7j03UrwVXGTlmc4b)
+![Project update ′′ portable showers ′′ in cooperation with Colletivo Sulla Rotta Balkanica — Alto Vicentino\.](../assets/aac4a7447991/0*7j03UrwVXGTlmc4b)
 
 Project update ′′ portable showers ′′ in cooperation with Colletivo Sulla Rotta Balkanica — Alto Vicentino\.
 
@@ -230,7 +230,7 @@ Utopia 56 reports from the French capital:
 
 
 
-![](assets/aac4a7447991/0*aDZBKO-9FLg2-MoY)
+![](../assets/aac4a7447991/0*aDZBKO-9FLg2-MoY)
 
 
 Among the organisations active in the area is also the NNK team reporting on the illegal pushback of minors:

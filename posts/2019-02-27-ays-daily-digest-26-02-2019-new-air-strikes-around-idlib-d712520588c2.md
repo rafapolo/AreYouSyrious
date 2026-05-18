@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 26/02/2019: New air strikes around Idlib
+title: "AYS Daily Digest 26/02/2019: New air strikes around Idlib"
 author: Are You Syrious?
 date: 2019-02-27T17:06:33.816+0000
 last_modified_at: 2019-02-27T17:06:33.816+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: []
 description: Several Syrian civilians die in bombings / Protest in Libyan camp / Hundreds of refugees in Greece face losing their homes / Four boats…
 image:
-  path: assets/d712520588c2/1*0cSl2j7GVfryKkgNXA1VqQ.jpeg
+  path: ../assets/d712520588c2/1*0cSl2j7GVfryKkgNXA1VqQ.jpeg
 ---
 
 ### AYS Daily Digest 26/02/2019: New air strikes around Idlib
 #### Several Syrian civilians die in bombings / Protest in Libyan camp / Hundreds of refugees in Greece face losing their homes / Four boats cross the UK channel
 
 
-![](assets/d712520588c2/1*Tx1u1RSutf5fWmPbOOmJVA.jpeg)
+![](../assets/d712520588c2/1*Tx1u1RSutf5fWmPbOOmJVA.jpeg)
 
 
 [Are You Syrious?](https://medium.com/@AreYouSyrious)
@@ -22,7 +22,7 @@ image:
 Feb 27
 
 
-![White Helmets looking for victims\. Source: [Syria Civil Defense](https://www.facebook.com/SyriaCivilDef/photos/pcb.2295041710820224/2295041524153576/?type=3&theater)](assets/d712520588c2/1*0cSl2j7GVfryKkgNXA1VqQ.jpeg)
+![White Helmets looking for victims\. Source: [Syria Civil Defense](https://www.facebook.com/SyriaCivilDef/photos/pcb.2295041710820224/2295041524153576/?type=3&theater)](../assets/d712520588c2/1*0cSl2j7GVfryKkgNXA1VqQ.jpeg)
 
 White Helmets looking for victims\. Source: [Syria Civil Defense](https://www.facebook.com/SyriaCivilDef/photos/pcb.2295041710820224/2295041524153576/?type=3&theater)
 ### Syria
@@ -85,7 +85,7 @@ Predominantly sunny with more clouds in Dalmatia from time to time\. Wind weak t
 Paris remains a difficult place for many people sleeping rough\. Not only do men have to sleep in the streets in camping tents, even families are abandoned by the French government in the capital city\. Faces Before Numbers reports on a family with a five\-year\-old and a 15\-month\-old child: “These three beautiful souls spent 3 years in Libya and reached our shores a couple of weeks ago, after 36 months of hell\.” While France is refusing to help people in need, at the same time the defense ministry [announced](https://www.infomigrants.net/en/post/15366/france-to-give-6-boats-to-libyan-navy-msf-voices-concern) that it will give six equipped boats to the so\-called Libyan Coast Guard, which is infamous for pull\-backs, as well as inhumane treatment of people on the run\. Italy [will send](https://www.infomigrants.net/en/post/15395/italy-strengthens-libya-accord-another-four-patrol-boats?ref=tw) four boats, too\.
 
 
-[![EU immigration: Tortured for trying to enter Europe](assets/d712520588c2/79bc_hqdefault.jpg "EU immigration: Tortured for trying to enter Europe")](http://www.youtube.com/watch?v=CXzpfBGHUdg)
+[![EU immigration: Tortured for trying to enter Europe](../assets/d712520588c2/79bc_hqdefault.jpg "EU immigration: Tortured for trying to enter Europe")](http://www.youtube.com/watch?v=CXzpfBGHUdg)
 
 
 

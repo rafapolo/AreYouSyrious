@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 13/07/17: Italian government proposal could put thousands of lives at risk
+title: "AYS Daily Digest 13/07/17: Italian government proposal could put thousands of lives at risk"
 author: Are You Syrious?
 date: 2017-07-13T22:57:49.873+0100
 last_modified_at: 2017-07-14T14:14:23.323+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,ventimiglia,italy,lesvos,arash-hampay]
 description: Appeals for help from Italy / Hunger strike on Lesbos reaches 16th day / More people detained and deported from Greece / Letter from…
 image:
-  path: assets/379a0b5a132e/1*r2O9x4KX1WJBoRPmk6VtuQ.jpeg
+  path: ../assets/379a0b5a132e/1*r2O9x4KX1WJBoRPmk6VtuQ.jpeg
 ---
 
 ### AYS Daily Digest 13/07/17: Italian government proposal could put thousands of lives at risk
@@ -15,7 +15,7 @@ image:
 _Appeals for help from Italy / Hunger strike on Lesbos reaches 16th day / More people detained and deported from Greece / Letter from Derveni camp’s Eritrean community / 50 people run away from two asylum centres in Croatia / Borrowing ideas from the US: filing a lawsuit against the government for violating the right to seek asylum / And more news…_
 
 
-![\(Photo by Theerd Royaards\)](assets/379a0b5a132e/1*r2O9x4KX1WJBoRPmk6VtuQ.jpeg)
+![\(Photo by Theerd Royaards\)](../assets/379a0b5a132e/1*r2O9x4KX1WJBoRPmk6VtuQ.jpeg)
 
 \(Photo by Theerd Royaards\)
 ### FEATURE: Shocking stories emerge from Italy
@@ -25,7 +25,7 @@ The situation in Italy is not getting any better, with disturbing reports coming
 A group of medical doctors, supported by Associazione Ambulatorio Città Aperta in Geno, visited the Ventimiglia area on July 9th with the intention to assess the situation and distribute some medicine to the people on Roya’s shores\. What they found there was shocking in many ways: people living under a bridge, among cardboards and blankets, with many suffering from respiratory diseases, skin diseases, and open wounds—some left after torture they survived in Libya\.
 
 
-![](assets/379a0b5a132e/1*h4EAEOT99wMZkUv5L1aiZQ.jpeg)
+![](../assets/379a0b5a132e/1*h4EAEOT99wMZkUv5L1aiZQ.jpeg)
 
 
 [In their report,](http://effimera.org/le-torture-affiorate-report.../) doctors are saying that it was not possible to count the number of people in the area since they live scattered and hidden in small groups\. They wash in the river and now have a small source of drinkable water, previously denied to them\.
@@ -54,14 +54,14 @@ It was the first landing on Chios in one month\.
 In total, 52 people arrived on different Greek islands on Wednesday night and during the day on Thursday, including 38 new arrivals on Lesvos\.
 
 
-![AYS](assets/379a0b5a132e/1*wlh0lZWYDUhst9ca_KCItQ.jpeg)
+![AYS](../assets/379a0b5a132e/1*wlh0lZWYDUhst9ca_KCItQ.jpeg)
 
 AYS
 
 Iranian human rights activist [Arash Hampay](https://www.facebook.com/arashampay/posts/494451544234270) and four people in detention, including Hampay’s brother, continued their hunger strike for the 16th day in a row\. They are demanding the release of all the people detained in Moria camp as well as protesting against deportations in general\. So far, local authorities and the UNHCR have yet to indicate they even notice the protest\.
 
 
-![The Moria hunger strike\.](assets/379a0b5a132e/1*_LH54kTdzsBlHJcmMMLd0Q.jpeg)
+![The Moria hunger strike\.](../assets/379a0b5a132e/1*_LH54kTdzsBlHJcmMMLd0Q.jpeg)
 
 The Moria hunger strike\.
 
@@ -237,7 +237,7 @@ There are two main procedures for family reunification and they should not be mi
 Over the last week, at least 50 people—including very small children—ran away from the reception centre Porin, Zagreb, as well as the centre in Kutina\. The move was largely driven by recent unlawful, negative decisions by the Ministry of Interior and Security Intelligence Agency\. The ministry claims that these asylum seekers represent a security threat, yet they fail to provide an argument for their assertions\.
 
 
-![“Nobody is illegal\.”](assets/379a0b5a132e/1*NQusV2LDz2H6QpqYsXVL_g.jpeg)
+![“Nobody is illegal\.”](../assets/379a0b5a132e/1*NQusV2LDz2H6QpqYsXVL_g.jpeg)
 
 “Nobody is illegal\.”
 ### FRANCE
@@ -249,7 +249,7 @@ France received 85,000 asylum requests last year, but the government is often cr
 Meanwhile, [Refugee Community Kitchen](https://www.facebook.com/groups/RefugeeCommunityKitchen/permalink/1476852609048904/) in Calais needs help to feed all the people who are living there\.
 
 
-![Welcome to Refugee Community Kitchen\!](assets/379a0b5a132e/1*dfb-DCxyzkkPRhqSjSbUng.jpeg)
+![Welcome to Refugee Community Kitchen\!](../assets/379a0b5a132e/1*dfb-DCxyzkkPRhqSjSbUng.jpeg)
 
 Welcome to Refugee Community Kitchen\!
 ### The United States

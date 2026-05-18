@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,bosnia,deportations]
 description: Winter On Its Way to Moria 2.0//Bulgarian Company Helps People on the Move Find Work in AI//More Arrivals in Lampedusa///& More
 image:
-  path: assets/26918725d5cd/0*yz6qGUELCpz5BIvE
+  path: ../assets/26918725d5cd/0*yz6qGUELCpz5BIvE
 ---
 
 ### AYS Daily Digest 06/11/2020 — Bosnia & Herzegovina Signs Repatriation Agreement With Pakistan
 ### Winter On Its Way to Moria 2\.0//Bulgarian Company Helps People on the Move Find Work in AI//More Arrivals in Lampedusa///& More
 
 
-![](assets/26918725d5cd/0*wssh8kmt0aebP2T0.jpeg)
+![](../assets/26918725d5cd/0*wssh8kmt0aebP2T0.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----915e0f2865c--------------------------------)
@@ -22,11 +22,11 @@ image:
 [Nov 7](ays-daily-digest-06-11-2020-bosnia-herzegovina-signs-repatriation-agreement-with-pakistan-915e0f2865c?source=post_page-----915e0f2865c--------------------------------) · 10 min read
 
 
-![](assets/26918725d5cd/0*HQ7DwNosv20ZZ2k_)
+![](../assets/26918725d5cd/0*HQ7DwNosv20ZZ2k_)
 
 
 
-![](assets/26918725d5cd/0*yz6qGUELCpz5BIvE)
+![](../assets/26918725d5cd/0*yz6qGUELCpz5BIvE)
 
 ### FEATURE
 ### Bosnia & Herzegovina Signs Repatriation Agreement With Pakistan

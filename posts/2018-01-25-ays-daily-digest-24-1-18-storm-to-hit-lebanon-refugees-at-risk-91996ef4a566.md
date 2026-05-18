@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 24/1/18: Storm to hit Lebanon, refugees at risk
+title: "AYS Daily Digest 24/1/18: Storm to hit Lebanon, refugees at risk"
 author: Are You Syrious?
 date: 2018-01-25T11:06:19.271+0000
 last_modified_at: 2018-01-25T11:41:56.516+0000
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,lebanon,libya,greece,uk-politics]
 description: “Storm Oscar” prepares to slam into Lebanon on Wednesday night / Situation is worsening in Afghanistan, STC backing out after team members’…
 image:
-  path: assets/91996ef4a566/1*cwrqdGCeuzCZBEuu5Gx1Xw.jpeg
+  path: ../assets/91996ef4a566/1*cwrqdGCeuzCZBEuu5Gx1Xw.jpeg
 ---
 
 ### AYS Daily Digest 24/1/18: Storm to hit Lebanon, refugees at risk
 #### “Storm Oscar” prepares to slam into Lebanon on Wednesday night / Situation is worsening in Afghanistan, STC backing out after team members’ deaths / Greece: Locals demonstrate hate towards refugees and volunteers around Vial / Croatian minister of interior still evades responsibility / France\-UK: the new deal on family reunification / Indignation in Spain; new SAR actions / News from Libya, France, Spain, Germany and more
 
 
-![headquarters / shack of the local fascist groups barring the new containers from accessing Vial \(Photo: [Leslie Meral Schick](https://www.facebook.com/leslie.schick?fref=gc&dti=1652972374920129) \)](assets/91996ef4a566/1*cwrqdGCeuzCZBEuu5Gx1Xw.jpeg)
+![headquarters / shack of the local fascist groups barring the new containers from accessing Vial \(Photo: [Leslie Meral Schick](https://www.facebook.com/leslie.schick?fref=gc&dti=1652972374920129) \)](../assets/91996ef4a566/1*cwrqdGCeuzCZBEuu5Gx1Xw.jpeg)
 
 headquarters / shack of the local fascist groups barring the new containers from accessing Vial \(Photo: [Leslie Meral Schick](https://www.facebook.com/leslie.schick?fref=gc&dti=1652972374920129) \)
 #### FEATURE — winter storm announced to hit Lebanon on Wednesday night
@@ -71,13 +71,13 @@ Further more, they found that three quarters of families forced to flee their ho
 373 people were transferred from the island of Lesvos to the mainland, making it the highest number of transfers from islands this year\.
 
 
-![](assets/91996ef4a566/1*FFHr-Ms_2MP8Mz5psnESOA.jpeg)
+![](../assets/91996ef4a566/1*FFHr-Ms_2MP8Mz5psnESOA.jpeg)
 
 
 Forwarded UNHCR island [updates](http://mindigital.gr/index.php/%CF%80%CF%81%CE%BF%CF%83%CF%86%CF%85%CE%B3%CE%B9%CE%BA%CF%8C-%CE%B6%CE%AE%CF%84%CE%B7%CE%BC%CE%B1-refugee-crisis/1905-national-situational-picture-regarding-the-islands-at-eastern-aegean-sea-23-01-2018) and statistics\.
 
 
-![](assets/91996ef4a566/1*1IDJ8A6jOci8j3M70S-Q7A.jpeg)
+![](../assets/91996ef4a566/1*1IDJ8A6jOci8j3M70S-Q7A.jpeg)
 
 ### Local opposition turns fascist
 
@@ -191,7 +191,7 @@ A raft with 40 people including 6 women has been rescued yesterday\. Another boa
 
 
 
-![](assets/91996ef4a566/1*HXjZSefotLOKWYro3tzEPA.jpeg)
+![](../assets/91996ef4a566/1*HXjZSefotLOKWYro3tzEPA.jpeg)
 
 
 [Caravana Abriendo Fronteras](https://www.facebook.com/Caravana.AF/) and friends gathered around the [V Marcha Por La Dignidad / Tarajal\-Ceuta](https://www.facebook.com/VMARCHAPORLADIGNIDAD/?hc_ref=ARQECDYZb558xoGe-Fn5bAE9_59BM9YN-BLrlcbjWI-0N9pDr8MwsX9VHjgkcizgTrc) are organizing another event to fight the tendencies that still exist and that have led to deaths commemorated through this symbolic action:

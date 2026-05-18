@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,exarcheia,search-and-rescue,safe-harbour]
 description: 503 people still waiting for a safe harbour /// Statement from Spirou Trikoupi Squat, Athens /// Updates from Greece, Bosnia, Cratia…
 image:
-  path: assets/b7190c4fb655/1*y2STKY_KIJyVlqqKNEduuQ.jpeg
+  path: ../assets/b7190c4fb655/1*y2STKY_KIJyVlqqKNEduuQ.jpeg
 ---
 
 ### AYS Daily Digest 13/08/19 **–3 people died attempting to reach Europe**
@@ -15,7 +15,7 @@ image:
 503 people still waiting for a safe harbour /// Statement from Spirou Trikoupi Squat, Athens /// Updates from Greece, Bosnia, Cratia, Austria, Sweden, Denmark…
 
 
-![\(Photo Credit: [No Borders Network](https://www.facebook.com/nobordersnetwork/posts/2419004411500770?hc_location=ufi) \)](assets/b7190c4fb655/1*y2STKY_KIJyVlqqKNEduuQ.jpeg)
+![\(Photo Credit: [No Borders Network](https://www.facebook.com/nobordersnetwork/posts/2419004411500770?hc_location=ufi) \)](../assets/b7190c4fb655/1*y2STKY_KIJyVlqqKNEduuQ.jpeg)
 
 \(Photo Credit: [No Borders Network](https://www.facebook.com/nobordersnetwork/posts/2419004411500770?hc_location=ufi) \)
 

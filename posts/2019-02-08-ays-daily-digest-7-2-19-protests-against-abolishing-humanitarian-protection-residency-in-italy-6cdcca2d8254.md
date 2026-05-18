@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,libya,greece,italy]
 description: Updated numbers of refugees in Turkey // volunteers needed in Greece and Bosnia // humanitarian crisis in Syrian camps after flooding //…
 image:
-  path: assets/6cdcca2d8254/1*m2i8PENLy5_Unr7lLw8Z4A.jpeg
+  path: ../assets/6cdcca2d8254/1*m2i8PENLy5_Unr7lLw8Z4A.jpeg
 ---
 
 ### AYS Daily Digest 7/2/19: Protests against abolishing “humanitarian protection” residency in Italy
 #### _Updated numbers of refugees in Turkey / volunteers needed in Greece and Bosnia / humanitarian crisis in Syrian camps after flooding / trafficking in Morocco / and more…_
 
 
-![“Today we have delivered with [Proactiva Open Arms](https://www.facebook.com/…/a.90945922247…/2093137634111409/…) 139\.000 signatures of citizens and citizens who ask the government of Pedro Sanchez to rectify his immigration policy and do not let anyone die in the sea\. They do not want witnesses but they will not be able to prevent us from defending the right to life of all\.](assets/6cdcca2d8254/1*yGtsWm0u_QAcRyEW7hch0g.jpeg)
+![“Today we have delivered with [Proactiva Open Arms](https://www.facebook.com/…/a.90945922247…/2093137634111409/…) 139\.000 signatures of citizens and citizens who ask the government of Pedro Sanchez to rectify his immigration policy and do not let anyone die in the sea\. They do not want witnesses but they will not be able to prevent us from defending the right to life of all\.](../assets/6cdcca2d8254/1*yGtsWm0u_QAcRyEW7hch0g.jpeg)
 
 “Today we have delivered with [Proactiva Open Arms](https://www.facebook.com/…/a.90945922247…/2093137634111409/…) 139\.000 signatures of citizens and citizens who ask the government of Pedro Sanchez to rectify his immigration policy and do not let anyone die in the sea\. They do not want witnesses but they will not be able to prevent us from defending the right to life of all\.
 ### Feature
@@ -22,11 +22,11 @@ image:
 Following the outcry from the [Salvini’s degree back in November](https://www.pri.org/stories/2019-02-01/after-salvini-decree-evictions-refugees-italy-face-uncertain-future) to target asylum\-seekers’ rights by abolishing “humanitarian protection” residency permits, protests happened in Vicenza on Thursday\.
 
 
-![](assets/6cdcca2d8254/1*A2VRXL9RkNIZH5WsdHHwZA.jpeg)
+![](../assets/6cdcca2d8254/1*A2VRXL9RkNIZH5WsdHHwZA.jpeg)
 
 
 
-![“\(We are\) against the Salvini decree and municipal ordinances that devastate lives and create social exclusion\.” Photos by [Global Info Project](https://www.facebook.com/globalproject.info/posts/2201521886553103?__xts__[0]=68.ARDnGVwrWsxt4eu-do5gZATgpyykDKp0XbDB_U6aSt9FtDXRoB8NwkyhD6ia6gfIOat358CGQDRTc7a2DpN78ymH1AgpAUQjvGnfL_ONc4Wno6Om2aXfr1Go43UBnApmHnw_YlDySRvCbYzVc36iUT3W5jRl0tB-CyEiIDZJ2VhN-rHTiz6I_SbcaE3ZuhvQvRdqF3McXLiQBtBy5UPweQAoahmOOgvPwzInHiJOzfaKhiS5BfiHi0ollSDaqyz-9Q4YEkrOsf6enzoTPAXeEydR00d9ryRH9ep3B6QxBf7syaaYmUoqXijbpVfVv40yOpwRJtEETppoOmKt5C7TIFXaFQ&__tn__=-R)](assets/6cdcca2d8254/1*AC1coGImwLsX5Tkv6mN0XA.jpeg)
+![“\(We are\) against the Salvini decree and municipal ordinances that devastate lives and create social exclusion\.” Photos by [Global Info Project](https://www.facebook.com/globalproject.info/posts/2201521886553103?__xts__[0]=68.ARDnGVwrWsxt4eu-do5gZATgpyykDKp0XbDB_U6aSt9FtDXRoB8NwkyhD6ia6gfIOat358CGQDRTc7a2DpN78ymH1AgpAUQjvGnfL_ONc4Wno6Om2aXfr1Go43UBnApmHnw_YlDySRvCbYzVc36iUT3W5jRl0tB-CyEiIDZJ2VhN-rHTiz6I_SbcaE3ZuhvQvRdqF3McXLiQBtBy5UPweQAoahmOOgvPwzInHiJOzfaKhiS5BfiHi0ollSDaqyz-9Q4YEkrOsf6enzoTPAXeEydR00d9ryRH9ep3B6QxBf7syaaYmUoqXijbpVfVv40yOpwRJtEETppoOmKt5C7TIFXaFQ&__tn__=-R)](../assets/6cdcca2d8254/1*AC1coGImwLsX5Tkv6mN0XA.jpeg)
 
 “\(We are\) against the Salvini decree and municipal ordinances that devastate lives and create social exclusion\.” Photos by [Global Info Project](https://www.facebook.com/globalproject.info/posts/2201521886553103?__xts__[0]=68.ARDnGVwrWsxt4eu-do5gZATgpyykDKp0XbDB_U6aSt9FtDXRoB8NwkyhD6ia6gfIOat358CGQDRTc7a2DpN78ymH1AgpAUQjvGnfL_ONc4Wno6Om2aXfr1Go43UBnApmHnw_YlDySRvCbYzVc36iUT3W5jRl0tB-CyEiIDZJ2VhN-rHTiz6I_SbcaE3ZuhvQvRdqF3McXLiQBtBy5UPweQAoahmOOgvPwzInHiJOzfaKhiS5BfiHi0ollSDaqyz-9Q4YEkrOsf6enzoTPAXeEydR00d9ryRH9ep3B6QxBf7syaaYmUoqXijbpVfVv40yOpwRJtEETppoOmKt5C7TIFXaFQ&__tn__=-R)
 
@@ -45,7 +45,7 @@ Several events are happening over the next few days in response to Salvini’s d
 [According to](https://www.facebook.com/GlobalDTM/photos/a.179695088858385/1122956651198886/?type=3&theater) the Turkish Directorate General for Migration Management \(DGMM\) there are now 4 million non\-Turkish people residing in Turkey seeking international protection\.
 
 
-![Photo by [Displacement Tracking Matrix — DTM](https://www.facebook.com/GlobalDTM/photos/a.179695088858385/1122956651198886/?type=3&theater)](assets/6cdcca2d8254/1*0d52Z5syv1aIgtqbQFurXw.jpeg)
+![Photo by [Displacement Tracking Matrix — DTM](https://www.facebook.com/GlobalDTM/photos/a.179695088858385/1122956651198886/?type=3&theater)](../assets/6cdcca2d8254/1*0d52Z5syv1aIgtqbQFurXw.jpeg)
 
 Photo by [Displacement Tracking Matrix — DTM](https://www.facebook.com/GlobalDTM/photos/a.179695088858385/1122956651198886/?type=3&theater)
 
@@ -55,11 +55,11 @@ Photo by [Displacement Tracking Matrix — DTM](https://www.facebook.com/GlobalD
 There were [protests](https://twitter.com/sallyhayd/status/1093517120703528962/photo/1) today in Khoms Souq al Khamise dc at frustrations towards UNHCR when they apparently took 10 new arrivals for evacuation\. Others have been detained for 10 months and still have not been registered by UNHCR\. The protests included mostly teenagers, but about 40 women were also involved\.
 
 
-![](assets/6cdcca2d8254/1*m2i8PENLy5_Unr7lLw8Z4A.jpeg)
+![](../assets/6cdcca2d8254/1*m2i8PENLy5_Unr7lLw8Z4A.jpeg)
 
 
 
-![Photos by [Sally Hayden](https://twitter.com/sallyhayd/status/1093517120703528962/photo/1)](assets/6cdcca2d8254/1*-8sA5d8OJ2DzjP0tASfS0A.jpeg)
+![Photos by [Sally Hayden](https://twitter.com/sallyhayd/status/1093517120703528962/photo/1)](../assets/6cdcca2d8254/1*-8sA5d8OJ2DzjP0tASfS0A.jpeg)
 
 Photos by [Sally Hayden](https://twitter.com/sallyhayd/status/1093517120703528962/photo/1)
 
@@ -79,7 +79,7 @@ In an update from [Association Marocaine des Droits Humains — Section Nador:](
 
 
 
-![Hospital in Nador Photo by [Association Marocaine des Droits Humains — Section Nador:](https://www.facebook.com/AmdhNador/photos/a.1693125780899690/2269650336580562/?type=3&theater)](assets/6cdcca2d8254/1*I0eWh0j-qNi5cSvTJm8xUw.jpeg)
+![Hospital in Nador Photo by [Association Marocaine des Droits Humains — Section Nador:](https://www.facebook.com/AmdhNador/photos/a.1693125780899690/2269650336580562/?type=3&theater)](../assets/6cdcca2d8254/1*I0eWh0j-qNi5cSvTJm8xUw.jpeg)
 
 Hospital in Nador Photo by [Association Marocaine des Droits Humains — Section Nador:](https://www.facebook.com/AmdhNador/photos/a.1693125780899690/2269650336580562/?type=3&theater)
 
@@ -95,7 +95,7 @@ Sea\-Watch is in need of donations:
 Sea Eye is in need of volunteers, especially ones with nautical and/or medical experience\. Find out more [here](https://www.facebook.com/SeebrueckeSchafftsichereHaefen/photos/a.640137809691739/789712568067595/?type=3&theater) \.
 
 
-![Open Arms presented 139,000 signatures to the government of [Pedro Sanchez](https://www.facebook.com/smhumanitario/photos/a.909459222479262/2093137634111409/?type=3&theater&ifg=1) to get their boats back in open waters saving lives\. Photo By [Proactiva Open Arms\.](https://www.facebook.com/proactivaservice/photos/a.232810050083187/2264419463588892/?type=3&theater)](assets/6cdcca2d8254/1*7TPFkqglm9GJBtpR1JO-vA.jpeg)
+![Open Arms presented 139,000 signatures to the government of [Pedro Sanchez](https://www.facebook.com/smhumanitario/photos/a.909459222479262/2093137634111409/?type=3&theater&ifg=1) to get their boats back in open waters saving lives\. Photo By [Proactiva Open Arms\.](https://www.facebook.com/proactivaservice/photos/a.232810050083187/2264419463588892/?type=3&theater)](../assets/6cdcca2d8254/1*7TPFkqglm9GJBtpR1JO-vA.jpeg)
 
 Open Arms presented 139,000 signatures to the government of [Pedro Sanchez](https://www.facebook.com/smhumanitario/photos/a.909459222479262/2093137634111409/?type=3&theater&ifg=1) to get their boats back in open waters saving lives\. Photo By [Proactiva Open Arms\.](https://www.facebook.com/proactivaservice/photos/a.232810050083187/2264419463588892/?type=3&theater)
 ### Greece

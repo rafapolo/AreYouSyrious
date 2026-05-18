@@ -1,5 +1,5 @@
 ---
-title: AYS Digest 11/5/22: 2,500 asylum seekers and refugees being held in prolonged, inhumane detention…
+title: "AYS Digest 11/5/22: 2,500 asylum seekers and refugees being held in prolonged, inhumane detention…"
 author: Are You Syrious?
 date: 2022-05-11T23:33:29.521+0100
 last_modified_at: 2022-05-12T10:56:01.492+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,lithuania,frontex,calais,detention]
 description: Rise in racism and xenophobia in Turkey//#OtherFaceofEurope//Jonas Grimheden speaks of pushbacks involving FRONTEX//Border enforcement and…
 image:
-  path: assets/a882087ec876/0*caS4QuOdzFabUuPK.jpg
+  path: ../assets/a882087ec876/0*caS4QuOdzFabUuPK.jpg
 ---
 
 ### AYS Digest 11/5/22: 2,500 asylum seekers and refugees being held in prolonged, inhumane detention in Lithuania
@@ -15,7 +15,7 @@ image:
 Rise in racism and xenophobia in Turkey//\#OtherFaceofEurope//Jonas Grimheden speaks of pushbacks involving FRONTEX//Border enforcement and violence in Hungary//A fire at Pournara facility in Cyprus//Las Vidas sin Rastro Campaign//Expulsions in Calais//UK\-Rwanda deal…
 
 
-![Source: InfoMigrants, 10/5/22](assets/a882087ec876/0*caS4QuOdzFabUuPK.jpg)
+![Source: InfoMigrants, 10/5/22](../assets/a882087ec876/0*caS4QuOdzFabUuPK.jpg)
 
 Source: InfoMigrants, 10/5/22
 ### **TURKEY**
@@ -179,7 +179,7 @@ The Hungarian Helsinki Committee have published information leaflets for non\-Uk
 **Asylum seekers detained in inhumane conditions**
 
 
-![Source: MSF, 6 May 2022](assets/a882087ec876/0*pmBgPyFdkA0MHRbs.jpg)
+![Source: MSF, 6 May 2022](../assets/a882087ec876/0*pmBgPyFdkA0MHRbs.jpg)
 
 Source: MSF, 6 May 2022
 
@@ -211,7 +211,7 @@ It is located outside the village of Kokkinotrimitha\. Around 100 asylum seekers
 
 
 
-![Source: CyprusMail, May 10 2022](assets/a882087ec876/0*xDAgY3dIZbzkqQy3.jpg)
+![Source: CyprusMail, May 10 2022](../assets/a882087ec876/0*xDAgY3dIZbzkqQy3.jpg)
 
 Source: CyprusMail, May 10 2022
 
@@ -385,7 +385,7 @@ This week, the [first group of asylum seekers](https://www.infomigrants.net/en/p
 Thankfully, lawyers are putting up a fight against these deportations, which has resulted in the arrangements for flights being postponed\. The UK government is also currently facing six legal actions brought by migrant rights organisations\.
 
 
-![Source: InfoMigrants, 11th May 2022](assets/a882087ec876/0*2wt7PvALkKd0-Rkj.jpg)
+![Source: InfoMigrants, 11th May 2022](../assets/a882087ec876/0*2wt7PvALkKd0-Rkj.jpg)
 
 Source: InfoMigrants, 11th May 2022
 

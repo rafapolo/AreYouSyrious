@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,migration]
 description: UNESCO World Heritage site Church of Saint Symeon Stylites damaged in a Russian air strike near Aleppo. Afghan teachers fighting for the…
 image:
-  path: assets/93ce553e7ce9/1*NLaVknmyzXCU2RpdyeqTZA.jpeg
+  path: ../assets/93ce553e7ce9/1*NLaVknmyzXCU2RpdyeqTZA.jpeg
 ---
 
 ### AYS DAILY NEWS DIGEST 13\.5\.2016\.
 #### UNESCO World Heritage site Church of Saint Symeon Stylites damaged in a Russian air strike near Aleppo\. Afghan teachers fighting for the right to education inside Elliniko camp\. Massive response to MSF’s free vaccination campaign in Idomeni\. Bulgarian police detain 75 refugees, smugglers in countrywide sweep\. Surges in illegal crossings on Balkan and Mediterranean land routes, army reinforcements on the borders of Italy and Bulgaria\. First group of 28 refugees arrive to Slovenia under the relocation scheme from Greece\. Calais needs volunteers for the upcoming census\.
 
 
-![Food distribution in Salihli, Turkey\. If you want to donate money or food for the refugees, please contact [**İmece İnisiyatifi Çeşme**](http://imececesme.com/)](assets/93ce553e7ce9/1*NLaVknmyzXCU2RpdyeqTZA.jpeg)
+![Food distribution in Salihli, Turkey\. If you want to donate money or food for the refugees, please contact [**İmece İnisiyatifi Çeşme**](http://imececesme.com/)](../assets/93ce553e7ce9/1*NLaVknmyzXCU2RpdyeqTZA.jpeg)
 
 Food distribution in Salihli, Turkey\. If you want to donate money or food for the refugees, please contact [**İmece İnisiyatifi Çeşme**](http://imececesme.com/)
 #### SYRIA
@@ -28,7 +28,7 @@ Food distribution in Salihli, Turkey\. If you want to donate money or food for t
 
 
 
-![Significant damage to the eastern\-most pediment of the south basilica narthex facade and damage to the wall adjoining the cloister/monastery, where one of at least three rockets hit the monument\. Full preliminary analysis of the damage is available in a [piece written by Byzantine art historian Shannon Steiner for AYS](https://medium.com/@AreYouSyrious/ays-report-unesco-world-heritage-site-of-qalat-se-man-destroyed-in-a-russian-airstrike-c2ea4d36b8f3#.c9a1ca1ii) \.](assets/93ce553e7ce9/1*tGAzGtdg9k-gyvTM9wTC_Q.jpeg)
+![Significant damage to the eastern\-most pediment of the south basilica narthex facade and damage to the wall adjoining the cloister/monastery, where one of at least three rockets hit the monument\. Full preliminary analysis of the damage is available in a [piece written by Byzantine art historian Shannon Steiner for AYS](https://medium.com/@AreYouSyrious/ays-report-unesco-world-heritage-site-of-qalat-se-man-destroyed-in-a-russian-airstrike-c2ea4d36b8f3#.c9a1ca1ii) \.](../assets/93ce553e7ce9/1*tGAzGtdg9k-gyvTM9wTC_Q.jpeg)
 
 Significant damage to the eastern\-most pediment of the south basilica narthex facade and damage to the wall adjoining the cloister/monastery, where one of at least three rockets hit the monument\. Full preliminary analysis of the damage is available in a [piece written by Byzantine art historian Shannon Steiner for AYS](https://medium.com/@AreYouSyrious/ays-report-unesco-world-heritage-site-of-qalat-se-man-destroyed-in-a-russian-airstrike-c2ea4d36b8f3#.c9a1ca1ii) \.
 
@@ -63,7 +63,7 @@ Significant damage to the eastern\-most pediment of the south basilica narthex f
 
 
 
-![Men’s clothes distribution has started inside Vial camp on Chios: PHOTO: Chris Trafford](assets/93ce553e7ce9/1*BsSy1H9ItwaTYKKVb20ypw.jpeg)
+![Men’s clothes distribution has started inside Vial camp on Chios: PHOTO: Chris Trafford](../assets/93ce553e7ce9/1*BsSy1H9ItwaTYKKVb20ypw.jpeg)
 
 Men’s clothes distribution has started inside Vial camp on Chios: PHOTO: Chris Trafford
 
@@ -74,7 +74,7 @@ Men’s clothes distribution has started inside Vial camp on Chios: PHOTO: Chris
 
 
 
-![Young refugees waiting to get the new clothes in Vial camp on Chios; PHOTO: Chris Trafford](assets/93ce553e7ce9/1*hTT3A9p7nU9Xoq33bSADHg.jpeg)
+![Young refugees waiting to get the new clothes in Vial camp on Chios; PHOTO: Chris Trafford](../assets/93ce553e7ce9/1*hTT3A9p7nU9Xoq33bSADHg.jpeg)
 
 Young refugees waiting to get the new clothes in Vial camp on Chios; PHOTO: Chris Trafford
 ### Refugee teacher can’t get permission to teach English in Elliniko camp, asks for help\.
@@ -93,7 +93,7 @@ Young refugees waiting to get the new clothes in Vial camp on Chios; PHOTO: Chri
 
 
 
-![Mohammad Niaz, a 28 year old Afghan teacher, posing with his makeshift dictionary; PHOTO: Mina Mohit](assets/93ce553e7ce9/1*S-avFWYfvqt1TTlokYypHg.jpeg)
+![Mohammad Niaz, a 28 year old Afghan teacher, posing with his makeshift dictionary; PHOTO: Mina Mohit](../assets/93ce553e7ce9/1*S-avFWYfvqt1TTlokYypHg.jpeg)
 
 Mohammad Niaz, a 28 year old Afghan teacher, posing with his makeshift dictionary; PHOTO: Mina Mohit
 
@@ -121,7 +121,7 @@ Mohammad Niaz, a 28 year old Afghan teacher, posing with his makeshift dictionar
 
 
 
-![New Skaramagnas school facilities; PHOTO: Norman Hering](assets/93ce553e7ce9/1*ZsA9c1KomIzkzhPRxnT5EA.jpeg)
+![New Skaramagnas school facilities; PHOTO: Norman Hering](../assets/93ce553e7ce9/1*ZsA9c1KomIzkzhPRxnT5EA.jpeg)
 
 New Skaramagnas school facilities; PHOTO: Norman Hering
 
@@ -141,7 +141,7 @@ New Skaramagnas school facilities; PHOTO: Norman Hering
 
 
 
-[![MSF Vaccinates 5,000 Refugee Children in Idomeni, Greece](assets/93ce553e7ce9/c189_hqdefault.jpg "MSF Vaccinates 5,000 Refugee Children in Idomeni, Greece")](http://www.youtube.com/watch?v=xXFpK4lw9NI)
+[![MSF Vaccinates 5,000 Refugee Children in Idomeni, Greece](../assets/93ce553e7ce9/c189_hqdefault.jpg "MSF Vaccinates 5,000 Refugee Children in Idomeni, Greece")](http://www.youtube.com/watch?v=xXFpK4lw9NI)
 
 
 
@@ -195,7 +195,7 @@ New Skaramagnas school facilities; PHOTO: Norman Hering
 
 
 
-![Police officers searching for illegal migrants in downtown Sofia; PHOTO: Novinite](assets/93ce553e7ce9/1*55-J54vXw5aXLSoQzCCeTQ.jpeg)
+![Police officers searching for illegal migrants in downtown Sofia; PHOTO: Novinite](../assets/93ce553e7ce9/1*55-J54vXw5aXLSoQzCCeTQ.jpeg)
 
 Police officers searching for illegal migrants in downtown Sofia; PHOTO: Novinite
 
@@ -207,7 +207,7 @@ Police officers searching for illegal migrants in downtown Sofia; PHOTO: Novinit
 
 
 
-![Veichles left by the smugglers after a raid in Bulgaria; PHOTO: Bulgarian Ministry of Interior](assets/93ce553e7ce9/1*RjzMQ9M5a2fxhOfKpyo7Yw.jpeg)
+![Veichles left by the smugglers after a raid in Bulgaria; PHOTO: Bulgarian Ministry of Interior](../assets/93ce553e7ce9/1*RjzMQ9M5a2fxhOfKpyo7Yw.jpeg)
 
 Veichles left by the smugglers after a raid in Bulgaria; PHOTO: Bulgarian Ministry of Interior
 
@@ -234,7 +234,7 @@ Veichles left by the smugglers after a raid in Bulgaria; PHOTO: Bulgarian Minist
 
 
 
-![Refugees arriving to their temporary accomodation in Ljubljana; PHOTO: BoBo](assets/93ce553e7ce9/1*J1Yu8b0nk0vrV8xqRcRaOQ.jpeg)
+![Refugees arriving to their temporary accomodation in Ljubljana; PHOTO: BoBo](../assets/93ce553e7ce9/1*J1Yu8b0nk0vrV8xqRcRaOQ.jpeg)
 
 Refugees arriving to their temporary accomodation in Ljubljana; PHOTO: BoBo
 #### ITALY
@@ -278,7 +278,7 @@ Refugees arriving to their temporary accomodation in Ljubljana; PHOTO: BoBo
 
 
 
-![Refugees sleeping in the streets of Paris; PHOTO: Care4Calais](assets/93ce553e7ce9/1*shqYZUr5jvezAmJEZHox5g.jpeg)
+![Refugees sleeping in the streets of Paris; PHOTO: Care4Calais](../assets/93ce553e7ce9/1*shqYZUr5jvezAmJEZHox5g.jpeg)
 
 Refugees sleeping in the streets of Paris; PHOTO: Care4Calais
 
@@ -298,7 +298,7 @@ Refugees sleeping in the streets of Paris; PHOTO: Care4Calais
 
 
 
-![Young Calais resident still hoping to reach United Kingdom; PHOTO: Mary Turner](assets/93ce553e7ce9/1*wCpSfgmKTaNydEo3pHKWbQ.jpeg)
+![Young Calais resident still hoping to reach United Kingdom; PHOTO: Mary Turner](../assets/93ce553e7ce9/1*wCpSfgmKTaNydEo3pHKWbQ.jpeg)
 
 Young Calais resident still hoping to reach United Kingdom; PHOTO: Mary Turner
 

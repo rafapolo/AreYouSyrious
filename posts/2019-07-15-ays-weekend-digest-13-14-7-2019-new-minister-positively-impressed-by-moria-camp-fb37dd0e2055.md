@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 13–14/7/2019: New minister positively impressed by Moria Camp
+title: "AYS Weekend Digest 13–14/7/2019: New minister positively impressed by Moria Camp"
 author: Are You Syrious?
 date: 2019-07-15T13:12:51.933+0100
 last_modified_at: 2019-07-23T10:52:43.168+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,moria,gilet-noirs,salvamento-maritimo]
 description: Busy weekend at Sea in Greece, Italy and Spain /// More people returned to Libya /// French police brutally attack Gilet Noirs’ peaceful…
 image:
-  path: assets/fb37dd0e2055/1*TM3D7Cvre5AcMJnEx1l22Q.jpeg
+  path: ../assets/fb37dd0e2055/1*TM3D7Cvre5AcMJnEx1l22Q.jpeg
 ---
 
 ### AYS Weekend Digest 13–14/7/2019: New minister positively impressed by Moria Camp
@@ -18,7 +18,7 @@ Busy weekend at sea in Greece, Italy and Spain /// More people returned to Libya
 #### FEATURE: New minister positively impressed by Moria Camp
 
 
-![\( [Σειμώνας Μπολίβαρ Ουλιάνοφ](https://www.facebook.com/profile.php?id=100009870279212&__tn__=%2CdlC-R-R&eid=ARALaNypRCKg2t9EDqI-KASNmUhHiu4WVP8g7d3PURANJlKNmB3droT6ZkGVLgglZ3HCexnqGss60DmG&hc_ref=ARQK3YSxUZ1OsKZOgZ--Jy3sUPq2WFLC-gBov3Bv0Mw71i2WJXVcj5Y8pe4gV7ATF5w) \)](assets/fb37dd0e2055/1*TM3D7Cvre5AcMJnEx1l22Q.jpeg)
+![\( [Σειμώνας Μπολίβαρ Ουλιάνοφ](https://www.facebook.com/profile.php?id=100009870279212&__tn__=%2CdlC-R-R&eid=ARALaNypRCKg2t9EDqI-KASNmUhHiu4WVP8g7d3PURANJlKNmB3droT6ZkGVLgglZ3HCexnqGss60DmG&hc_ref=ARQK3YSxUZ1OsKZOgZ--Jy3sUPq2WFLC-gBov3Bv0Mw71i2WJXVcj5Y8pe4gV7ATF5w) \)](../assets/fb37dd0e2055/1*TM3D7Cvre5AcMJnEx1l22Q.jpeg)
 
 \( [Σειμώνας Μπολίβαρ Ουλιάνοφ](https://www.facebook.com/profile.php?id=100009870279212&__tn__=%2CdlC-R-R&eid=ARALaNypRCKg2t9EDqI-KASNmUhHiu4WVP8g7d3PURANJlKNmB3droT6ZkGVLgglZ3HCexnqGss60DmG&hc_ref=ARQK3YSxUZ1OsKZOgZ--Jy3sUPq2WFLC-gBov3Bv0Mw71i2WJXVcj5Y8pe4gV7ATF5w) \)
 
@@ -53,7 +53,7 @@ MOROCCO
 #### People left sleeping outside at the CETI of Melilla
 
 
-![CETI Melilla \(photo by [AMDH Nador](https://www.facebook.com/AmdhNador/posts/2371771849701743) \)](assets/fb37dd0e2055/1*VY6M5MSH-2YXAeEBHlFSYQ.jpeg)
+![CETI Melilla \(photo by [AMDH Nador](https://www.facebook.com/AmdhNador/posts/2371771849701743) \)](../assets/fb37dd0e2055/1*VY6M5MSH-2YXAeEBHlFSYQ.jpeg)
 
 CETI Melilla \(photo by [AMDH Nador](https://www.facebook.com/AmdhNador/posts/2371771849701743) \)
 
@@ -154,7 +154,7 @@ Last week the right wing swept to full power in Greece. One of their main promis
 Last week, electricity was cut off to the Notara26 squat\. Since then, they are organising anti\-eviction breakfast, everyday from 5AM to 7AM, dubbed ‘ [mornings of resistance](https://www.facebook.com/645186555621294/photos/a.651281361678480/1455699934569948/?type=3&theater) \.”, a solidarity and free breakfast to generate even more presence at the most delicate hours\.
 
 
-![Notara will never die \(photo by [Notara26](https://www.facebook.com/645186555621294/photos/a.651281361678480/1455699934569948/?type=3&theater) \)](assets/fb37dd0e2055/1*Ab7g-mTghDnsakWV9bBzPQ.jpeg)
+![Notara will never die \(photo by [Notara26](https://www.facebook.com/645186555621294/photos/a.651281361678480/1455699934569948/?type=3&theater) \)](../assets/fb37dd0e2055/1*Ab7g-mTghDnsakWV9bBzPQ.jpeg)
 
 Notara will never die \(photo by [Notara26](https://www.facebook.com/645186555621294/photos/a.651281361678480/1455699934569948/?type=3&theater) \)
 
@@ -164,7 +164,7 @@ ITALY
 #### Arrivals
 
 
-![Photo by [Watch the Med — Alarm Phone](https://www.facebook.com/watchthemed.alarmphone/photos/a.1526182797655958/2409249962682566/?type=3&theater)](assets/fb37dd0e2055/1*pMcIMv4_clSURu3MIVA_WA.jpeg)
+![Photo by [Watch the Med — Alarm Phone](https://www.facebook.com/watchthemed.alarmphone/photos/a.1526182797655958/2409249962682566/?type=3&theater)](../assets/fb37dd0e2055/1*pMcIMv4_clSURu3MIVA_WA.jpeg)
 
 Photo by [Watch the Med — Alarm Phone](https://www.facebook.com/watchthemed.alarmphone/photos/a.1526182797655958/2409249962682566/?type=3&theater)
 
@@ -190,7 +190,7 @@ The national authorities are [attempting to transform the search and rescue agen
 The solidarity convoy _Abriendo Fronteras_ \(Opening borders\) has arrived in Granada on the weekend\.
 
 
-![No one is illegal \(photo by [Abriendo Fronteras](https://abriendofronteras.net/2019/07/13/granada-acogida/?fbclid=IwAR1jNeXr8afrFC1MbO2yHGIlPyoKAUhYByoAYedljzvgwmEngoqhJ4uZ7t8) \)](assets/fb37dd0e2055/1*R9r4INya0SWZCj7zP6-y1A.jpeg)
+![No one is illegal \(photo by [Abriendo Fronteras](https://abriendofronteras.net/2019/07/13/granada-acogida/?fbclid=IwAR1jNeXr8afrFC1MbO2yHGIlPyoKAUhYByoAYedljzvgwmEngoqhJ4uZ7t8) \)](../assets/fb37dd0e2055/1*R9r4INya0SWZCj7zP6-y1A.jpeg)
 
 No one is illegal \(photo by [Abriendo Fronteras](https://abriendofronteras.net/2019/07/13/granada-acogida/?fbclid=IwAR1jNeXr8afrFC1MbO2yHGIlPyoKAUhYByoAYedljzvgwmEngoqhJ4uZ7t8) \)
 
@@ -232,7 +232,7 @@ Hoy más que nunca os necesitamos. Porque en el mar sí estamos SOLOS y sin vues
 Also Italy\-based NGO Mediterranea joined the protestors:
 
 
-![Mediterranea — Saving Humans in Barcelona \(photo by [Pietro Bertora](https://www.facebook.com/Mediterranearescue/photos/a.275129016441663/397523410868889/?type=3&theater) \)](assets/fb37dd0e2055/1*ZqywjzwO70dvCXgvn3a8xg.jpeg)
+![Mediterranea — Saving Humans in Barcelona \(photo by [Pietro Bertora](https://www.facebook.com/Mediterranearescue/photos/a.275129016441663/397523410868889/?type=3&theater) \)](../assets/fb37dd0e2055/1*ZqywjzwO70dvCXgvn3a8xg.jpeg)
 
 Mediterranea — Saving Humans in Barcelona \(photo by [Pietro Bertora](https://www.facebook.com/Mediterranearescue/photos/a.275129016441663/397523410868889/?type=3&theater) \)
 
@@ -253,25 +253,25 @@ BOSNIA HERZEGOVINA
 The number of people coming to Tuzla is increasing\.
 
 
-![Tuzla \(photo by [Senad Cupo](https://www.facebook.com/photo.php?fbid=10217064699382967&set=pcb.379134052800565&type=3&theater&ifg=1) \)](assets/fb37dd0e2055/1*D5IqwvXWzOWQPLy85zjSLQ.jpeg)
+![Tuzla \(photo by [Senad Cupo](https://www.facebook.com/photo.php?fbid=10217064699382967&set=pcb.379134052800565&type=3&theater&ifg=1) \)](../assets/fb37dd0e2055/1*D5IqwvXWzOWQPLy85zjSLQ.jpeg)
 
 Tuzla \(photo by [Senad Cupo](https://www.facebook.com/photo.php?fbid=10217064699382967&set=pcb.379134052800565&type=3&theater&ifg=1) \)
 
 A local volunteer published updates \( [1](https://www.facebook.com/photo.php?fbid=10217064699382967&set=pcb.379134052800565&type=3&theater&ifg=1) , [2](https://www.facebook.com/groups/144469886266984/permalink/379007519479885/?hc_location=ufi) , [3](https://www.facebook.com/groups/144469886266984/permalink/378760246171279/?hc_location=ufi) \) from Tuzla, reporting of large numbers of children and minors without any protection and support\. Human rights of adults are also violated\.
 
 
-![](assets/fb37dd0e2055/1*jTQRkBWtiTXpFqdLdcDRCQ.jpeg)
+![](../assets/fb37dd0e2055/1*jTQRkBWtiTXpFqdLdcDRCQ.jpeg)
 
 
 
-![Tuzla \(photos by [Senad Cupo](https://www.facebook.com/photo.php?fbid=10217064699382967&set=pcb.379134052800565&type=3&theater&ifg=1) \)](assets/fb37dd0e2055/1*jyIi8JqGzyLdY8M1fGfC6g.jpeg)
+![Tuzla \(photos by [Senad Cupo](https://www.facebook.com/photo.php?fbid=10217064699382967&set=pcb.379134052800565&type=3&theater&ifg=1) \)](../assets/fb37dd0e2055/1*jyIi8JqGzyLdY8M1fGfC6g.jpeg)
 
 Tuzla \(photos by [Senad Cupo](https://www.facebook.com/photo.php?fbid=10217064699382967&set=pcb.379134052800565&type=3&theater&ifg=1) \)
 
 “Today there were about a hundred new ones in town\. I believe in the city there are around 200\. \[…\] Every one of them sleeps outside and they’re on their own\. Every one of them needs everything”\. With local authorities refusing to provide any service at all, people are sleeping in the bus station, in some mosques, in parks, etc\.
 
 
-![Tuzla bus station \(photo by [Senad Cupo](https://www.facebook.com/groups/144469886266984/permalink/378760246171279/?hc_location=ufi) \)](assets/fb37dd0e2055/1*pMfVsou7CM96VJMDGxo6xA.jpeg)
+![Tuzla bus station \(photo by [Senad Cupo](https://www.facebook.com/groups/144469886266984/permalink/378760246171279/?hc_location=ufi) \)](../assets/fb37dd0e2055/1*pMfVsou7CM96VJMDGxo6xA.jpeg)
 
 Tuzla bus station \(photo by [Senad Cupo](https://www.facebook.com/groups/144469886266984/permalink/378760246171279/?hc_location=ufi) \)
 
@@ -291,7 +291,7 @@ FRANCE
 [Solidarité migrants Wilson report](https://www.facebook.com/permalink.php?story_fbid=1178512122349558&id=598228360377940) on the situation in Paris as several dozen people were hospitalised, including two in a coma, after the police attacked the Pacific Occupation of the pantheon which had been squatted by the gilet noirs \(black vests\), a migrant movement that fights against racism and for ‘papers for all’\. Nearly 40 people were arrested on Friday\. People remained in front of the police station located at 4, Rue de la Montagne Sainte Genevieve, next to the exit of the metro Mutualité throughout the weekend\. 19 people now face deportation\.
 
 
-![\(Photo by [Solidarity migrants Wilson](https://www.facebook.com/598228360377940/photos/pcb.1178512122349558/1178519645682139/?type=3&theater&ifg=1) \)](assets/fb37dd0e2055/1*iVYhOum1bLewS6dDyQOg7A.jpeg)
+![\(Photo by [Solidarity migrants Wilson](https://www.facebook.com/598228360377940/photos/pcb.1178512122349558/1178519645682139/?type=3&theater&ifg=1) \)](../assets/fb37dd0e2055/1*iVYhOum1bLewS6dDyQOg7A.jpeg)
 
 \(Photo by [Solidarity migrants Wilson](https://www.facebook.com/598228360377940/photos/pcb.1178512122349558/1178519645682139/?type=3&theater&ifg=1) \)
 

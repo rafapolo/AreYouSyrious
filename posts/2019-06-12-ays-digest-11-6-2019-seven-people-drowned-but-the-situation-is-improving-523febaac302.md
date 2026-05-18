@@ -1,5 +1,5 @@
 ---
-title: AYS Digest 11/6/2019: Seven People Drowned, but “the situation is improving.”
+title: "AYS Digest 11/6/2019: Seven People Drowned, but “the situation is improving.”"
 author: Are You Syrious?
 date: 2019-06-12T11:02:20.039+0100
 last_modified_at: 2019-06-12T11:02:20.039+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,greece,digest,sea-rescue,bosnia]
 description: Brave fight to expose the truth on Samos // eleventh day of port blockade for Egyptian ship carrying rescued people // France spent 500…
 image:
-  path: assets/523febaac302/1*LQ5WGraZhWUaPhzU2Gj29Q.jpeg
+  path: ../assets/523febaac302/1*LQ5WGraZhWUaPhzU2Gj29Q.jpeg
 ---
 
 ### AYS Digest 11/6/2019: Seven People Drowned, but “the situation is improving\.”
@@ -15,7 +15,7 @@ image:
 _Brave fight to expose the truth on Samos // eleventh day of port blockade for Egyptian ship carrying rescued people // France spent 500 million euros on deportation, to what effect // Meetings and protests in Germany and UK_
 
 
-![Samos, photo credit: Help Refugees](assets/523febaac302/1*LQ5WGraZhWUaPhzU2Gj29Q.jpeg)
+![Samos, photo credit: Help Refugees](../assets/523febaac302/1*LQ5WGraZhWUaPhzU2Gj29Q.jpeg)
 
 Samos, photo credit: Help Refugees
 ### FEATURE
@@ -40,7 +40,7 @@ On Samos, the organization Still I Rise has gathered the necessary materials to 
 Samos has long been a black hole of information, with volunteers being subjected to extreme intimidation and harassment if they attempt to report the neglect and abuse in the camp\.
 
 
-![Samos, 2019\. Photo Credit: Still I Rise\.](assets/523febaac302/1*nRXQroocwtg43c5JnyyYyg.jpeg)
+![Samos, 2019\. Photo Credit: Still I Rise\.](../assets/523febaac302/1*nRXQroocwtg43c5JnyyYyg.jpeg)
 
 Samos, 2019\. Photo Credit: Still I Rise\.
 

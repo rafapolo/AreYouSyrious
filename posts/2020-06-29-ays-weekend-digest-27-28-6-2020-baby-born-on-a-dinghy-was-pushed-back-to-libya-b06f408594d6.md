@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 27–28/6/2020: Baby born on a dinghy was pushed back to Libya
+title: "AYS Weekend Digest 27–28/6/2020: Baby born on a dinghy was pushed back to Libya"
 author: Are You Syrious?
 date: 2020-06-29T14:21:36.096+0100
 last_modified_at: 2020-06-29T14:21:36.096+0100
@@ -7,18 +7,18 @@ categories: Are You Syrious?
 tags: []
 description: Interceptions and push-backs at sea // Statement by Carola Rackete on the anniversary of her act of civil disobedience // Concerns of Moria…
 image:
-  path: assets/b06f408594d6/0*HlxxSl_V1aewnUuf.jpeg
+  path: ../assets/b06f408594d6/0*HlxxSl_V1aewnUuf.jpeg
 ---
 
 ### AYS Weekend Digest 27–28/6/2020: Baby born on a dinghy was pushed back to Libya
 #### Interceptions and push\-backs at sea // Statement by Carola Rackete on the anniversary of her act of civil disobedience // Concerns of Moria Corona Awareness Team // Call on EU to ensure safety of LGBTIQ person in Balkan corridor // New report on Bulgaria published // News about the tragic incident in Glasgow on Friday and the situation of the people held in hotels for over three months now
 
 
-![](assets/b06f408594d6/0*HExMbObZy1-CBIfY)
+![](../assets/b06f408594d6/0*HExMbObZy1-CBIfY)
 
 
 
-![](assets/b06f408594d6/0*HlxxSl_V1aewnUuf.jpeg)
+![](../assets/b06f408594d6/0*HlxxSl_V1aewnUuf.jpeg)
 
 
 This baby was born on board a dinghy in the Mediterranean, ignored by European authorities and later pushed back to Libya\. Picture taken from Twitter of Sara Creta\.
@@ -107,11 +107,11 @@ For more information, see:
 Members of _SOS Balkanroute_ handed the _Border Violence Monitoring Network’s_ report about border violence along the Balkan corridor over to various German and Austrian Members of Parliament\. The 1673 page report collects testimonies of 500 violent push\-backs at the Croatian border alone\. By handing these documents over to politicians, the activists want to make sure that the topic is not left aside\.
 
 
-![](assets/b06f408594d6/0*DnZgrkhVPbhRgOgu)
+![](../assets/b06f408594d6/0*DnZgrkhVPbhRgOgu)
 
 
 
-![](assets/b06f408594d6/0*zsLr0EQGynBcTY0q.jpeg)
+![](../assets/b06f408594d6/0*zsLr0EQGynBcTY0q.jpeg)
 
 
 Elke Kahr, KPÖ Graz, Austria and Gregor Gysi, DIE LINKE, Germany, together with a member of SOS Balkanroute\. Copyright: Peter Brandstetter

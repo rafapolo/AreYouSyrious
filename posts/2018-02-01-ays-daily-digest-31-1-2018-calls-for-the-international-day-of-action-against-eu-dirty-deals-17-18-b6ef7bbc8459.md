@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 31/1/2018: Calls for the International day of Action against EU dirty deals, 17/18…
+title: "AYS DAILY DIGEST 31/1/2018: Calls for the International day of Action against EU dirty deals, 17/18…"
 author: Are You Syrious?
 date: 2018-02-01T11:53:33.722+0000
 last_modified_at: 2018-02-01T13:04:35.478+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,greece,euro-turkey-deal,poland,hungary]
 description: Golden Dawn cancel march in Chios /// Unfair detention of Tajiki family in Poland /// Hungarian NGOs appeal at the European Court against…
 image:
-  path: assets/b6ef7bbc8459/1*l2KfPDJxnmU56m1f5E8NTA.jpeg
+  path: ../assets/b6ef7bbc8459/1*l2KfPDJxnmU56m1f5E8NTA.jpeg
 ---
 
 ### AYS DAILY DIGEST 31/1/2018: Calls for the International day of Action against EU dirty deals, 17/18 March 2018
@@ -126,11 +126,11 @@ Volunteers from [Care4Calais](https://www.facebook.com/care4calais/posts/1807764
 People started using this route last year when the French/Italian border controls were tightened up\. However, during the winter things have become more serious\.
 
 
-![](assets/b6ef7bbc8459/1*oaE2T8ztTbzAVXCG9P63Sg.jpeg)
+![](../assets/b6ef7bbc8459/1*oaE2T8ztTbzAVXCG9P63Sg.jpeg)
 
 
 
-![Photo: Care4Calais](assets/b6ef7bbc8459/1*m_-6mYuIpY_LTKle9pFxrw.jpeg)
+![Photo: Care4Calais](../assets/b6ef7bbc8459/1*m_-6mYuIpY_LTKle9pFxrw.jpeg)
 
 Photo: Care4Calais
 
@@ -210,7 +210,7 @@ Police tried to prevent demonstrators from reaching Golden Dawn gathering, that 
 _Solidarity is our weapon\!_
 
 
-![Chios Antifa \(Photo by [Theurgia Goetia](https://medium.com/u/18d0b19d81f4) \)](assets/b6ef7bbc8459/1*HB8CHnr87JOB88UMhQ-Grg.jpeg)
+![Chios Antifa \(Photo by [Theurgia Goetia](https://medium.com/u/18d0b19d81f4) \)](../assets/b6ef7bbc8459/1*HB8CHnr87JOB88UMhQ-Grg.jpeg)
 
 Chios Antifa \(Photo by [Theurgia Goetia](https://medium.com/u/18d0b19d81f4) \)
 
@@ -264,7 +264,7 @@ Media [report](http://www.novinite.com/articles/187504/Bulgarian+Citizen+Arreste
 50\+ arrivals last night, every two people got one tent and a sleeping bag each from Paris Refugee Ground Support\.
 
 
-![](assets/b6ef7bbc8459/1*l2KfPDJxnmU56m1f5E8NTA.jpeg)
+![](../assets/b6ef7bbc8459/1*l2KfPDJxnmU56m1f5E8NTA.jpeg)
 
 
 [Taranis News](https://www.facebook.com/taranisnews/posts/2017090388504472?hc_location=ufi) report that while there have been two evictions of refugee camps in two days — Villette and du Wharf, the occupation of the university has survived to a second night\.

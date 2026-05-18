@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 13/05/2017: Two parallel realities in Greece
+title: "AYS DAILY DIGEST 13/05/2017: Two parallel realities in Greece"
 author: Are You Syrious?
 date: 2017-05-13T23:34:14.517+0100
 last_modified_at: 2017-05-14T00:08:49.550+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,serbia-refugees,calais,hungary-refugees,cedric-herrou]
 description: Migration ministry in Greece claims everything is under total control // Pictures and refugees testimonies are giving a different picture…
 image:
-  path: assets/57990d6b08f6/1*Ol0Bv_3-68LkVAc3uy-opQ.jpeg
+  path: ../assets/57990d6b08f6/1*Ol0Bv_3-68LkVAc3uy-opQ.jpeg
 ---
 
 ### AYS DAILY DIGEST 13/05/2017: Two parallel realities in Greece
@@ -15,7 +15,7 @@ image:
 _Migration ministry in Greece claims everything is under total control // Pictures and refugees testimonies are giving a different picture about their life in Greece // Disturbing images and stories from Italy, France, and Sweden // No more refugees in Belgrade // Hungary electrified border fence // Calls to solidarity and empathy // Increase in number of arrivals in Spain and Cyprus_
 
 
-![Just people to people @MOAS](assets/57990d6b08f6/1*Ol0Bv_3-68LkVAc3uy-opQ.jpeg)
+![Just people to people @MOAS](../assets/57990d6b08f6/1*Ol0Bv_3-68LkVAc3uy-opQ.jpeg)
 
 Just people to people @MOAS
 ### Greece
@@ -34,7 +34,7 @@ In totally number, there were 252 unaccompanied and separated children who have 
 Those who are in Greece are accommodated in facilities that are, according to the deputy minister, “ _acceptably decent”_ , while a large number of people are housed in apartments _“and the rent is paid by the European Union and is monitored by the UNCHR under the control of the Migration Policy ministry”_ \.
 
 
-![Many refugees are living in a tents in the official camps on islands, some of them for over a year\. Photo by Bev’s Travel\.](assets/57990d6b08f6/1*Oct39AwWzrkXmibxJQq_1Q.jpeg)
+![Many refugees are living in a tents in the official camps on islands, some of them for over a year\. Photo by Bev’s Travel\.](../assets/57990d6b08f6/1*Oct39AwWzrkXmibxJQq_1Q.jpeg)
 
 Many refugees are living in a tents in the official camps on islands, some of them for over a year\. Photo by Bev’s Travel\.
 
@@ -45,15 +45,15 @@ Camp Koutsohero is one of the places deputy minister describes as _“acceptably
 In their _“ [appeal to all humanitarian organizations, educational and human rights organization,](https://m.facebook.com/story.php?story_fbid=1302527636521179&id=687993924641223&hc_location=ufi) ”_ they call everybody to visit this place\. They write that the camp is placed in between two mountains, 20 km away from the nearest city, and close to the gravel pits\. The dust and noise are just part of the problems residents have\. They see snakes, scorpions, and foxes close by their IsoBoxes\. With summer approaching, they are afraid the situation will be even worse\.
 
 
-![](assets/57990d6b08f6/1*DUIxnkNfN1nHu7VZgx7XSg.jpeg)
+![](../assets/57990d6b08f6/1*DUIxnkNfN1nHu7VZgx7XSg.jpeg)
 
 
 
-![](assets/57990d6b08f6/1*TeSreQfRhzMXgpWAM2ZNsw.jpeg)
+![](../assets/57990d6b08f6/1*TeSreQfRhzMXgpWAM2ZNsw.jpeg)
 
 
 
-![**By [عشتار للهجرة واللجوء](https://www.facebook.com/%D8%B9%D8%B4%D8%AA%D8%A7%D8%B1-%D9%84%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D9%84%D8%AC%D9%88%D8%A1-687993924641223/)**](assets/57990d6b08f6/1*15wKHx7SzELaicEweacYxw.jpeg)
+![**By [عشتار للهجرة واللجوء](https://www.facebook.com/%D8%B9%D8%B4%D8%AA%D8%A7%D8%B1-%D9%84%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D9%84%D8%AC%D9%88%D8%A1-687993924641223/)**](../assets/57990d6b08f6/1*15wKHx7SzELaicEweacYxw.jpeg)
 
 **By [عشتار للهجرة واللجوء](https://www.facebook.com/%D8%B9%D8%B4%D8%AA%D8%A7%D8%B1-%D9%84%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D9%84%D8%AC%D9%88%D8%A1-687993924641223/)**
 
@@ -72,7 +72,7 @@ Due to the unbearable living conditions in camps, some people decided to live in
 Anyone able to help, please contact them directly through an [FB message](https://www.facebook.com/spiroutrikoupi17/posts/289364511510356?hc_location=ufi) or at [st17@riseup\.net](mailto:st17@riseup.net)
 
 
-![By [Spirou Trikupi 17,](https://www.facebook.com/spiroutrikoupi17/posts/289364511510356?hc_location=ufi) a place for all\.](assets/57990d6b08f6/1*Xw-ia0c00xRxhi4lhnanTQ.jpeg)
+![By [Spirou Trikupi 17,](https://www.facebook.com/spiroutrikoupi17/posts/289364511510356?hc_location=ufi) a place for all\.](../assets/57990d6b08f6/1*Xw-ia0c00xRxhi4lhnanTQ.jpeg)
 
 By [Spirou Trikupi 17,](https://www.facebook.com/spiroutrikoupi17/posts/289364511510356?hc_location=ufi) a place for all\.
 ### Italy
@@ -109,11 +109,11 @@ _“Yesterday the Barracks were demolished, its community crushed\. Over a thous
 The entire report you can find on [their FB page](https://www.facebook.com/refugeesolidaritea/posts/1044746362293786) \.
 
 
-![](assets/57990d6b08f6/1*A4NnZFLFnK5XqMjDVq7hkg.jpeg)
+![](../assets/57990d6b08f6/1*A4NnZFLFnK5XqMjDVq7hkg.jpeg)
 
 
 
-![By Sould Welders\.](assets/57990d6b08f6/1*oHDZMbtRzOXNuXvH2cYVkQ.jpeg)
+![By Sould Welders\.](../assets/57990d6b08f6/1*oHDZMbtRzOXNuXvH2cYVkQ.jpeg)
 
 By Sould Welders\.
 ### Hungary
@@ -136,7 +136,7 @@ The camp burned down on 10 April\.
 The situation is very bad in Calais, where many people are still sleeping out in the open\. [Care4Calais](https://www.facebook.com/care4calais/) team reports about the group of 150 people who were sleeping rough in the Calais countryside\. While they were distributing help, French riot police arrived and, using violence, pushed them and refugees away\.
 
 
-![The police pushing away refugees and volunteer\. Photo by Care4Calais\.](assets/57990d6b08f6/1*x6tApkRYhiUMUS-1oNX_hQ.jpeg)
+![The police pushing away refugees and volunteer\. Photo by Care4Calais\.](../assets/57990d6b08f6/1*x6tApkRYhiUMUS-1oNX_hQ.jpeg)
 
 The police pushing away refugees and volunteer\. Photo by Care4Calais\.
 

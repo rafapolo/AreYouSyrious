@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 12/11/19: Slovenian activists demand action after the recent deaths reported in…
+title: "AYS Daily Digest 12/11/19: Slovenian activists demand action after the recent deaths reported in…"
 author: Are You Syrious?
 date: 2019-11-13T12:58:11.040+0000
 last_modified_at: 2019-11-13T14:38:00.811+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,report,france,balkans]
 description: An update from Vučjak / Reaction from Slovenian activist to the recent deaths / A young man dies in detention centre in Paris, another one…
 image:
-  path: assets/9bff1d276c6b/1*52MDlTkOR1VNziK_A0uhgg.jpeg
+  path: ../assets/9bff1d276c6b/1*52MDlTkOR1VNziK_A0uhgg.jpeg
 ---
 
 ### AYS Daily Digest 12/11/19: Slovenian activists demand action after the recent deaths reported in the area
 #### An update from Vučjak / Reaction from Slovenian activist to the recent deaths / A young man dies in detention centre in Paris, another one takes his own life in Italy, ahead of aprobable deportation / Situation deteriorating in the north of Paris / updates from Bulgaria / & more news
 
 
-![Vučjak, November 11 \(Photo by: Arye Wachsmuth\)](assets/9bff1d276c6b/1*52MDlTkOR1VNziK_A0uhgg.jpeg)
+![Vučjak, November 11 \(Photo by: Arye Wachsmuth\)](../assets/9bff1d276c6b/1*52MDlTkOR1VNziK_A0uhgg.jpeg)
 
 Vučjak, November 11 \(Photo by: Arye Wachsmuth\)
 #### FEATURED
@@ -99,11 +99,11 @@ Conditions are getting worse by the hour at the so\-called camp Vučjak, local a
 
 
 
-![](assets/9bff1d276c6b/1*NpJazoN_tltDeM0C9jSNog.jpeg)
+![](../assets/9bff1d276c6b/1*NpJazoN_tltDeM0C9jSNog.jpeg)
 
 
 
-![Photos: Arye Wachsmuth](assets/9bff1d276c6b/1*8UIZavAEVahTTcGBjjSMnA.jpeg)
+![Photos: Arye Wachsmuth](../assets/9bff1d276c6b/1*8UIZavAEVahTTcGBjjSMnA.jpeg)
 
 Photos: Arye Wachsmuth
 
@@ -115,7 +115,7 @@ Photos: Arye Wachsmuth
 
 
 
-![](assets/9bff1d276c6b/1*8nIvZ-APYZ-kvpUpO3VXSg.jpeg)
+![](../assets/9bff1d276c6b/1*8nIvZ-APYZ-kvpUpO3VXSg.jpeg)
 
 
 
@@ -127,13 +127,13 @@ Photos: Arye Wachsmuth
 Also, you will find no one that does not have a story to tell about **the immense brutality of the Croatian police** \. We also collected interviews and photos on that issue during our stay these days\. According to many, violence is also brought upon innocent refugees by the Bosnian police, making the people even more insecure and vulnerable\.
 
 
-![](assets/9bff1d276c6b/1*rX77qp7EdcKMt10FpfT1Bg.jpeg)
+![](../assets/9bff1d276c6b/1*rX77qp7EdcKMt10FpfT1Bg.jpeg)
 
 
 A man told me in camp „oh cold now\. \. winter here“\. I am afraid he doesn’t know that during this time of year or a bit later snow can reach 1\-meter height in Vučjak — now that the EU and several political quarrels in Bosnia about what or how they will save the people is yet undecided it is getting more likely to happen\. I wonder who will take the responsibility for the deaths that are now closer to become reality than ever before, Arye Wachsmuth writes from Vučjak\.
 
 
-![All photos: Arye Wachsmuth](assets/9bff1d276c6b/1*S8jioLrHqujB8PBjPV72AA.jpeg)
+![All photos: Arye Wachsmuth](../assets/9bff1d276c6b/1*S8jioLrHqujB8PBjPV72AA.jpeg)
 
 All photos: Arye Wachsmuth
 #### FRANCE

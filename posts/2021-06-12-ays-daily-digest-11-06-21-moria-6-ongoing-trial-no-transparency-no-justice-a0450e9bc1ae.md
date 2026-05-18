@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 11/06/21: Moria 6 ongoing trial — no transparency, no justice?
+title: "AYS Daily Digest 11/06/21: Moria 6 ongoing trial — no transparency, no justice?"
 author: Are You Syrious?
 date: 2021-06-12T11:06:00.702+0100
 last_modified_at: 2021-06-12T17:18:16.207+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,greece,europe,activism]
 description: The Moria 6 case as a reflection of the EU problem / Hungary given 2 months to notify the Commission of the measures taken to ensure the…
 image:
-  path: assets/a0450e9bc1ae/0*IqKCwGXsXoFVf6RM
+  path: ../assets/a0450e9bc1ae/0*IqKCwGXsXoFVf6RM
 ---
 
 ### AYS Daily Digest 11/06/21: Moria 6 ongoing trial — no transparency, no justice?
 #### The Moria 6 case as a reflection of the EU problem / Hungary given 2 months to notify the Commission of the measures taken to ensure the full transposition of the Asylum Directive / In Croatia, the fight for fair treatment of asylees by the banks continues / Calls for support, recommended reads, weekly updates & more
 
 
-![“Destroy camps and borders — not the lives of the 6 innocent migrants from the Moria trial” Banner at the Syntagma square of Athens\.” Photo and caption credit: [Solidarity with Migrants](https://twitter.com/MigrantsSoli/status/1403324310555664385/photo/1)](assets/a0450e9bc1ae/0*IqKCwGXsXoFVf6RM)
+![“Destroy camps and borders — not the lives of the 6 innocent migrants from the Moria trial” Banner at the Syntagma square of Athens\.” Photo and caption credit: [Solidarity with Migrants](https://twitter.com/MigrantsSoli/status/1403324310555664385/photo/1)](../assets/a0450e9bc1ae/0*IqKCwGXsXoFVf6RM)
 
 “Destroy camps and borders — not the lives of the 6 innocent migrants from the Moria trial” Banner at the Syntagma square of Athens\.” Photo and caption credit: [Solidarity with Migrants](https://twitter.com/MigrantsSoli/status/1403324310555664385/photo/1)
 #### FEATURE
@@ -75,7 +75,7 @@ Along with a few more organisations providing support to people on the move and 
 ### Eighth Refugee Weeks
 
 
-![](assets/a0450e9bc1ae/0*Ftbnq7E59qLJKUCf.png)
+![](../assets/a0450e9bc1ae/0*Ftbnq7E59qLJKUCf.png)
 
 
 The Coordination for Integration, an informal network of civil society organisations that provide support in integration, is organising the 8th edition of the program titled [8\. Tjedni IZBJEGLICAma\!](https://www.facebook.com/events/311018490555519/) \(Refugee Weeks\), which will take place from June 7th until June 20th, World Refugee Day\. Events take place in Zagreb, Osijek, Split, Sisak, Rijeka, Kutina, Karlovac and Mljet\. They include panels, round tables, presentations, interactive workshops, photo exhibitions, webinars and a lot of getting together\.

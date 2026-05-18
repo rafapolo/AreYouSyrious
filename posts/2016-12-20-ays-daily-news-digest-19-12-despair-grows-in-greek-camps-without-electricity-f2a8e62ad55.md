@@ -1,5 +1,5 @@
 ---
-title: AYS Daily News Digest 19/12: Despair grows in Greek camps without electricity
+title: "AYS Daily News Digest 19/12: Despair grows in Greek camps without electricity"
 author: Are You Syrious?
 date: 2016-12-20T01:44:09.139+0000
 last_modified_at: 2016-12-20T14:48:13.455+0000
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,syria,italy,greece]
 description: Still no electricity in some Greek camps |Temperatures across Europe could be deadly for all those sleeping on city pavements and in…
 image:
-  path: assets/f2a8e62ad55/1*uAsRRvD7cqP6klggr2dxfg.jpeg
+  path: ../assets/f2a8e62ad55/1*uAsRRvD7cqP6klggr2dxfg.jpeg
 ---
 
 ### **AYS Daily News Digest 19/12: Despair grows in Greek camps without electricity**
 #### _Still no electricity in some Greek camps \|Temperatures across Europe could be deadly for all those sleeping on city pavements and in abandoned buildings \|Evacuation continues in Syria \| Other countries follow Germany’s lead in sending people back to Afghanistan \| Italy stands up for Syria; volunteers in Como overwhelmed, demanding action\| Swedish organizations fear young refugee boys are selling sex to survive \|_
 
 
-![Photo source: [Theurgia\_Goetia](https://twitter.com/Theurgia_Goetia)](assets/f2a8e62ad55/1*uAsRRvD7cqP6klggr2dxfg.jpeg)
+![Photo source: [Theurgia\_Goetia](https://twitter.com/Theurgia_Goetia)](../assets/f2a8e62ad55/1*uAsRRvD7cqP6klggr2dxfg.jpeg)
 
 Photo source: [Theurgia\_Goetia](https://twitter.com/Theurgia_Goetia)
 #### GREECE
@@ -53,7 +53,7 @@ Photo source: [Theurgia\_Goetia](https://twitter.com/Theurgia_Goetia)
 
 
 
-![](assets/f2a8e62ad55/1*V39RF1uM8QI-gLW4HFCN0w.jpeg)
+![](../assets/f2a8e62ad55/1*V39RF1uM8QI-gLW4HFCN0w.jpeg)
 
 
 News That Moves visited Chios recently to investigate the living conditions of the refugees there\. Residents in Souda camp, mostly families or groups of single men, are hosted in prefab plastic shelters\. The shelters have a slightly raised floor but no insulation on the hard plastic walls\. Some residents are hosted in large tents, even in winter\. The NTM report, stating the main issues, is available [here](https://newsthatmoves.org/en/souda-camp-an-insight/) \.
@@ -82,12 +82,12 @@ We have been covering Oraiokastro’s electricity crisis for the past few days, 
 The NGOs responsible for site management at Oraiokastro were “given a directive” by the Ministry that they should implement a plan for ‘winterisation\.’ Refugees living in the camp are complaining about the poor solution that has been imposed\. Many people are now unable to breathe properly due to the insulation material that has been installed on top of the tents in the cold, dark halls\. NGO representatives claim that a lack of funds is preventing them from making good on their earlier promise to prepare the place for winter\. NRC stated they can “carry out maintenance and repairs only\.”
 
 
-![Photo: [The Voices of Oraiokastro](https://www.facebook.com/ThevoicesofO/)](assets/f2a8e62ad55/1*4R7RgK-GUYFPIHe-RJL-BA.jpeg)
+![Photo: [The Voices of Oraiokastro](https://www.facebook.com/ThevoicesofO/)](../assets/f2a8e62ad55/1*4R7RgK-GUYFPIHe-RJL-BA.jpeg)
 
 Photo: [The Voices of Oraiokastro](https://www.facebook.com/ThevoicesofO/)
 
 
-![Somebody always cares\. These are some of the messages that came from people in the UK\. This brought back smiles on the faces of people in Oraiokastro, who say ‘thank you’ to their distant friends\. \(Photo: [The Voices of Oraiokastro](https://www.facebook.com/ThevoicesofO/) \)](assets/f2a8e62ad55/1*ljFf-QwUByDreQOb9RrgXg.jpeg)
+![Somebody always cares\. These are some of the messages that came from people in the UK\. This brought back smiles on the faces of people in Oraiokastro, who say ‘thank you’ to their distant friends\. \(Photo: [The Voices of Oraiokastro](https://www.facebook.com/ThevoicesofO/) \)](../assets/f2a8e62ad55/1*ljFf-QwUByDreQOb9RrgXg.jpeg)
 
 Somebody always cares\. These are some of the messages that came from people in the UK\. This brought back smiles on the faces of people in Oraiokastro, who say ‘thank you’ to their distant friends\. \(Photo: [The Voices of Oraiokastro](https://www.facebook.com/ThevoicesofO/) \)
 #### Thessaloniki
@@ -95,11 +95,11 @@ Somebody always cares\. These are some of the messages that came from people in 
 Micropolis Social Space provides food, shelter, support and friendship to refugees and locals in need in the city of Thessaloniki\. This beautiful initiative between locals and their Syrian friends means that as refugees wait for the relocation process to untangle, biding their time until they can move on with their lives, they are not just left to sit and wait\.
 
 
-![](assets/f2a8e62ad55/1*cD-vsqSdynduWNowLYa7Eg.jpeg)
+![](../assets/f2a8e62ad55/1*cD-vsqSdynduWNowLYa7Eg.jpeg)
 
 
 
-![Photo by: Αλληλεγγύη σε Πρόσφυγες/Μετανάστες Μικρόπολις](assets/f2a8e62ad55/1*YgcwjXCR2prpISUKxzimyA.jpeg)
+![Photo by: Αλληλεγγύη σε Πρόσφυγες/Μετανάστες Μικρόπολις](../assets/f2a8e62ad55/1*YgcwjXCR2prpISUKxzimyA.jpeg)
 
 Photo by: Αλληλεγγύη σε Πρόσφυγες/Μετανάστες Μικρόπολις
 
@@ -123,7 +123,7 @@ Their story is told in a short film here\. If you are an English or German teach
 Frontex found 9 people on board a boat that reached the north coast of Lesvos this morning\. Locals report that everyone is safe\. 87 people were officially registered on Lesvos today\. 26,000 people have been registered on the Greek islands since the EU\-Turkey deal was signed\.
 
 
-![“The hours of consecutive operations in 2016\. Regardless of the weather conditions or emergency incidents our teams, both in Lesvos and in Thessaloniki, have been operating almost non\-stop the last year\. We couldn’t have done this without our devoted and very competent volunteers who managed to handle and overcome all sorts of situations, providing safety, whether this is rescue or access to education to more than 45,500 refugees\.” — [ERCI — Emergency Response Centre International](https://www.facebook.com/ercintl/)](assets/f2a8e62ad55/1*AfcpJqBd66xCMyqo4Ujx9A.jpeg)
+![“The hours of consecutive operations in 2016\. Regardless of the weather conditions or emergency incidents our teams, both in Lesvos and in Thessaloniki, have been operating almost non\-stop the last year\. We couldn’t have done this without our devoted and very competent volunteers who managed to handle and overcome all sorts of situations, providing safety, whether this is rescue or access to education to more than 45,500 refugees\.” — [ERCI — Emergency Response Centre International](https://www.facebook.com/ercintl/)](../assets/f2a8e62ad55/1*AfcpJqBd66xCMyqo4Ujx9A.jpeg)
 
 “The hours of consecutive operations in 2016\. Regardless of the weather conditions or emergency incidents our teams, both in Lesvos and in Thessaloniki, have been operating almost non\-stop the last year\. We couldn’t have done this without our devoted and very competent volunteers who managed to handle and overcome all sorts of situations, providing safety, whether this is rescue or access to education to more than 45,500 refugees\.” — [ERCI — Emergency Response Centre International](https://www.facebook.com/ercintl/)
 #### SYRIA
@@ -167,7 +167,7 @@ Turkey has made preparations to accommodate around 1,000 [Syrian refugees](https
 People in many Italian cities and towns gathered on Monday to host marches and protests against the violence and destruction that is taking place in Syria and to support the people of Aleppo\. \(See [here](http://www.globalproject.info/it/in_movimento/tante-piazze-in-sostegno-della-popolazione-siriana-contro-massacri-guerra-e-fondamentalismo/20549) \. \)
 
 
-![](assets/f2a8e62ad55/1*pHoZynGKjRn2eB2-Yqc_Gg.jpeg)
+![](../assets/f2a8e62ad55/1*pHoZynGKjRn2eB2-Yqc_Gg.jpeg)
 
 ### Como demands a welcome
 
@@ -187,7 +187,7 @@ The letter makes the point that the welcome should not come from law enforcement
 ### Many still sleeping rough on the streets of Paris
 
 
-![Photo: [Sarah Fenby\-dixon](https://www.facebook.com/sarah.fenbydixon.1)](assets/f2a8e62ad55/1*x-0Vy54bybH3xRren5EGPA.jpeg)
+![Photo: [Sarah Fenby\-dixon](https://www.facebook.com/sarah.fenbydixon.1)](../assets/f2a8e62ad55/1*x-0Vy54bybH3xRren5EGPA.jpeg)
 
 Photo: [Sarah Fenby\-dixon](https://www.facebook.com/sarah.fenbydixon.1)
 #### Take part in creating info point for refugees in France
@@ -205,7 +205,7 @@ In the wake of the first charter flights, organized by Germany to take rejected 
 
 
 
-![Photo: [Through refugee eyes](https://www.facebook.com/throughrefugeeeyes/)](assets/f2a8e62ad55/1*p_STDchCR88Ndr0YV6d2JQ.jpeg)
+![Photo: [Through refugee eyes](https://www.facebook.com/throughrefugeeeyes/)](../assets/f2a8e62ad55/1*p_STDchCR88Ndr0YV6d2JQ.jpeg)
 
 Photo: [Through refugee eyes](https://www.facebook.com/throughrefugeeeyes/)
 #### SWEDEN

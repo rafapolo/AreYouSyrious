@@ -1,5 +1,5 @@
 ---
-title: Daily Digest 12/03/20: Cover-up of disappearing Vietnamese asylum seekers
+title: "Daily Digest 12/03/20: Cover-up of disappearing Vietnamese asylum seekers"
 author: Are You Syrious?
 date: 2020-03-13T10:06:18.716+0000
 last_modified_at: 2020-03-13T12:32:08.215+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,asylum-seekers,migrants,europe]
 description: Dutch government refusal to support unaccompanied children / fast-tracking of deportations in Cyrpus / IOMs €2,000 bribe / Frontex…
 image:
-  path: assets/c7a52e62abec/1*L_J_4VmXmjh80Kx4_uvTsQ.jpeg
+  path: ../assets/c7a52e62abec/1*L_J_4VmXmjh80Kx4_uvTsQ.jpeg
 ---
 
 ### Daily Digest 12/03/20: Cover\-up of disappearing Vietnamese asylum seekers
@@ -15,7 +15,7 @@ image:
 Dutch government refusal to support unaccompanied children / fast\-tracking of deportations in Cyrpus / IOMs €2,000 bribe / Frontex operations lack ‘proper legal basis’
 
 
-![Photo Credit: Jose Gomez [Unsplash](https://unsplash.com/s/photos/children-shadow?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](assets/c7a52e62abec/1*L_J_4VmXmjh80Kx4_uvTsQ.jpeg)
+![Photo Credit: Jose Gomez [Unsplash](https://unsplash.com/s/photos/children-shadow?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](../assets/c7a52e62abec/1*L_J_4VmXmjh80Kx4_uvTsQ.jpeg)
 
 Photo Credit: Jose Gomez [Unsplash](https://unsplash.com/s/photos/children-shadow?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 ### Feature:
@@ -45,7 +45,7 @@ In March of 2019, the entire House of Representatives requested an investigation
 Non\-profit [Stand by me Lesvos](https://www.facebook.com/www.standbymelesvos.gr/posts/589982368261456?hc_location=ufi&comment_id=Y29tbWVudDoyNDQ2NzExMTY4ODc5NTc1XzI0NDY3MzM2Njg4NzczMjU%3D) in partnership with Waves of Hope has created a Corona Awareness Team to operate in the Moria Camp\. The team consists of Farsi, Arab, French, Somali and Dari speakers and teachers, pharmacists, with community leaders managing the program\. The team will work in cooperation with Greek organisation Kitrinos and others who set up the medical emergency teams\.
 
 
-![Photo Credit: Stand by me Lesvos](assets/c7a52e62abec/1*eJp82JrN7CEgthnXXuDkSQ.jpeg)
+![Photo Credit: Stand by me Lesvos](../assets/c7a52e62abec/1*eJp82JrN7CEgthnXXuDkSQ.jpeg)
 
 Photo Credit: Stand by me Lesvos
 

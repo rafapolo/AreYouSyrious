@@ -1,5 +1,5 @@
 ---
-title: AYS DIGEST 09/12: Hungary treats refugees even more inhumanely
+title: "AYS DIGEST 09/12: Hungary treats refugees even more inhumanely"
 author: Are You Syrious?
 date: 2016-12-10T03:17:25.178+0000
 last_modified_at: 2016-12-12T08:34:44.120+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: The Hungarian government is moving refugees from shelters to freezing cold tents. The EU wants to tighten Turkey deal. Italy threatens to…
 image:
-  path: assets/1aa29732f15c/1*OXSKZV3gsMUV2OGkzY5CtA.jpeg
+  path: ../assets/1aa29732f15c/1*OXSKZV3gsMUV2OGkzY5CtA.jpeg
 ---
 
 ### AYS DIGEST 09/12: Hungary treats refugees even more inhumanely
@@ -15,7 +15,7 @@ image:
 The Hungarian government is moving refugees from shelters to freezing cold tents\. The EU wants to tighten Turkey deal\. Italy threatens to block EU budget\. Greece winterizes camps on the mainland but facing more arrivals on the islands\. IOM resettled 20 000 refugees from Turkey\. Paris in dire need of support\. Milano municipality is looking for families to host homeless people\.
 
 
-![Welcome to your new shelter\. Credits: [Migszol](http://www.migszol.com/blog/people-moved-to-freezing-tent-camp-for-bicske-closure)](assets/1aa29732f15c/1*OXSKZV3gsMUV2OGkzY5CtA.jpeg)
+![Welcome to your new shelter\. Credits: [Migszol](http://www.migszol.com/blog/people-moved-to-freezing-tent-camp-for-bicske-closure)](../assets/1aa29732f15c/1*OXSKZV3gsMUV2OGkzY5CtA.jpeg)
 
 Welcome to your new shelter\. Credits: [Migszol](http://www.migszol.com/blog/people-moved-to-freezing-tent-camp-for-bicske-closure)
 ### Feature
@@ -23,7 +23,7 @@ Welcome to your new shelter\. Credits: [Migszol](http://www.migszol.com/blog/peo
 Hungary did a lot in 2015 and 2016 to discourage refugees from entering the country\. There has been a raise of border fences, tighter crossing restrictions and hunts on human beings, just to name a few things\. While the temperatures are dropping below zero, authorities reportedly started to move protection seekers to tent camps\. “No food, all the immigration officers had to tell us was that they know the conditions are not good \[…\] that we are free to go to the Austrian border, which is not far from here,” [Open Borders cites](https://www.facebook.com/openeuborders/photos/a.1581497278846000.1073741828.1576058492723212/1694455454216848/?type=3&theater) from a message\.
 
 
-![Goodbye Bicske\. Credits: [Migszol](http://www.migszol.com/blog/people-moved-to-freezing-tent-camp-for-bicske-closure)](assets/1aa29732f15c/1*3jjr17sn5_PhZT8FyZJs2Q.jpeg)
+![Goodbye Bicske\. Credits: [Migszol](http://www.migszol.com/blog/people-moved-to-freezing-tent-camp-for-bicske-closure)](../assets/1aa29732f15c/1*3jjr17sn5_PhZT8FyZJs2Q.jpeg)
 
 Goodbye Bicske\. Credits: [Migszol](http://www.migszol.com/blog/people-moved-to-freezing-tent-camp-for-bicske-closure)
 
@@ -43,7 +43,7 @@ Seeing that eastern European countries like Poland, Hungary or Slovakia refuse t
 In the camp Alexandria 25 containers have been delivered as the camp authorities are preparing the arrival of more than 100 new residents\. The organization Refugee Support Greece is additionally going to donate an upgrade with welcome packages including kettles, washing up bowls, blankets and other crucial items\.
 
 
-![Credits: [Refugee Support Greece](https://www.facebook.com/RefugeeSupportGreece/posts/1724436497875821)](assets/1aa29732f15c/1*piVwjim3TebaTCjFmwUoeQ.jpeg)
+![Credits: [Refugee Support Greece](https://www.facebook.com/RefugeeSupportGreece/posts/1724436497875821)](../assets/1aa29732f15c/1*piVwjim3TebaTCjFmwUoeQ.jpeg)
 
 Credits: [Refugee Support Greece](https://www.facebook.com/RefugeeSupportGreece/posts/1724436497875821)
 
@@ -65,7 +65,7 @@ The Refugee\.Info Team has [published](https://www.facebook.com/refugee.info/pho
 Meanwhile on the islands there have been no new registrations today \(7\.30 am\) \. But there were new arrivals\. While media reported, some 200 refugees, mostly from North Africa, arrived on Lesvos within three hours, volunteers counted 142 on four boats\. On Chios 65 new arrivals were counted\. Greek Minister of Migration [suggested](https://www.facebook.com/chiosrefugeesinfo/photos/a.921077874688207.1073741828.912083858920942/1037377703058223/?type=3&theater) to move African refugees from islands to mainland and detain them\.
 
 
-![Amygdaleza detention center\. Credits: [Chios Refugees InfoPoint](https://www.facebook.com/chiosrefugeesinfo/photos/a.921077874688207.1073741828.912083858920942/1037377703058223/?type=3&theater)](assets/1aa29732f15c/1*87c6VV77wvf9M1C39OH65w.jpeg)
+![Amygdaleza detention center\. Credits: [Chios Refugees InfoPoint](https://www.facebook.com/chiosrefugeesinfo/photos/a.921077874688207.1073741828.912083858920942/1037377703058223/?type=3&theater)](../assets/1aa29732f15c/1*87c6VV77wvf9M1C39OH65w.jpeg)
 
 Amygdaleza detention center\. Credits: [Chios Refugees InfoPoint](https://www.facebook.com/chiosrefugeesinfo/photos/a.921077874688207.1073741828.912083858920942/1037377703058223/?type=3&theater)
 
@@ -85,7 +85,7 @@ According to a [report](https://passeursdhospitalitesenglish.wordpress.com/2016/
 there have been several crackdowns\. But the number of refugees sleeping in the rough streets is increasing again\. If you are able to support them with tents, sleeping bags, emergency blankets or winter clothes/supplies, please get in touch with [Care4Calais](https://www.facebook.com/care4calais/posts/1372985089401111) \. As volunteers on the ground in Paris don’t have capacity to store items, Care4Calais is sending them aid regularily\.
 
 
-![Credits: [Care4Calais](https://www.facebook.com/care4calais/posts/1372985089401111)](assets/1aa29732f15c/1*9lle0iF_MD9_S5MM2bRitg.jpeg)
+![Credits: [Care4Calais](https://www.facebook.com/care4calais/posts/1372985089401111)](../assets/1aa29732f15c/1*9lle0iF_MD9_S5MM2bRitg.jpeg)
 
 Credits: [Care4Calais](https://www.facebook.com/care4calais/posts/1372985089401111)
 #### Missing persons in France
@@ -108,7 +108,7 @@ Notwithstanding the efforts by the Operational Room, no places have been found, 
 In this condition, it has become difficult for us to receive them\. We need to set up a first receiving point close to Tiburtina Station immediately, endowed with social, health and legal assistance; working with the prefecture and the police headquarters to provide asylum seeking procedures to be activated for all the people who want to do it\. Waiting for more structured measures, this is the least to be done now\.
 
 
-![Credits: [Baobab Experience](https://www.facebook.com/BaobabExperience/posts/1179948198748597)](assets/1aa29732f15c/1*moxq4l_PPOxCQCOHxa9WJw.jpeg)
+![Credits: [Baobab Experience](https://www.facebook.com/BaobabExperience/posts/1179948198748597)](../assets/1aa29732f15c/1*moxq4l_PPOxCQCOHxa9WJw.jpeg)
 
 Credits: [Baobab Experience](https://www.facebook.com/BaobabExperience/posts/1179948198748597)
 #### Milan Municipality is looking for families available to host homeless people\.

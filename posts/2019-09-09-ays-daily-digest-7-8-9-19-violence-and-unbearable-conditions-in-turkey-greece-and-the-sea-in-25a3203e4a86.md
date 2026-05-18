@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 7–8/9/19: violence and unbearable conditions in Turkey, Greece, and the sea in…
+title: "AYS Daily Digest 7–8/9/19: violence and unbearable conditions in Turkey, Greece, and the sea in…"
 author: Are You Syrious?
 date: 2019-09-09T12:40:22.832+0100
 last_modified_at: 2019-09-09T12:40:22.832+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,europe,digest,greece,france]
 description: Erdogan once again threatening to open the borders // Violent attack by Turkish coast guards // Inhuman ideas from Greek MP // Situation on…
 image:
-  path: assets/25a3203e4a86/0*7EdRyBMX3XZvSu3Z.png
+  path: ../assets/25a3203e4a86/0*7EdRyBMX3XZvSu3Z.png
 ---
 
 ### AYS Daily Digest 7–8/9/19: violence and unbearable conditions in Turkey, Greece, and the sea in between
 #### Erdogan once again threatening to open the borders // Violent attack by Turkish coast guards // Inhuman ideas from Greek MP // Situation on the Greek islands // Many organizations need support // One man dies after violent attack by military in Morocco // People drowned and people rescued in the Mediterranean // Announcements of new evictions in Dunkirk and Calais
 
 
-![](assets/25a3203e4a86/0*7EdRyBMX3XZvSu3Z.png)
+![](../assets/25a3203e4a86/0*7EdRyBMX3XZvSu3Z.png)
 
 
 copyright: MSF Sea

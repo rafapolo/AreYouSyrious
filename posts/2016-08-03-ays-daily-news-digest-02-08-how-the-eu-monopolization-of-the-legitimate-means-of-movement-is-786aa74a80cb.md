@@ -1,13 +1,13 @@
 ---
-title: AYS Daily News Digest 02/08: How the EU monopolization of the ‘legitimate means of movement’ is…
+title: "AYS Daily News Digest 02/08: How the EU monopolization of the ‘legitimate means of movement’ is…"
 author: Are You Syrious?
 date: 2016-08-03T00:20:59.255+0100
 last_modified_at: 2016-08-15T07:22:47.306+0100
 categories: 
 tags: [refugees,europe,syria,paris,greece]
-description: Global armed conflicts becoming more deadly: statistics from Iraq and Syria. Refugees in Greece: “We Did Not Expect to Live This Life in…
+description: "Global armed conflicts becoming more deadly: statistics from Iraq and Syria. Refugees in Greece: “We Did Not Expect to Live This Life in…"
 image:
-  path: assets/786aa74a80cb/1*jHkP39-jbTPyuyd0uswOSw.jpeg
+  path: ../assets/786aa74a80cb/1*jHkP39-jbTPyuyd0uswOSw.jpeg
 ---
 
 ### AYS Daily News Digest 02/08: How the EU monopolization of the ‘legitimate means of movement’ is massively killing refugees
@@ -19,7 +19,7 @@ image:
 
 
 
-![“Where are you from?” “Aleppo\.” 300,000 civilians still remain under siege in Aleppo\. I met this little boy in Serbia at a refugee shelter\. His family managed to get out of Aleppo over a year ago\. Credits: Nima](assets/786aa74a80cb/1*jHkP39-jbTPyuyd0uswOSw.jpeg)
+![“Where are you from?” “Aleppo\.” 300,000 civilians still remain under siege in Aleppo\. I met this little boy in Serbia at a refugee shelter\. His family managed to get out of Aleppo over a year ago\. Credits: Nima](../assets/786aa74a80cb/1*jHkP39-jbTPyuyd0uswOSw.jpeg)
 
 “Where are you from?” “Aleppo\.” 300,000 civilians still remain under siege in Aleppo\. I met this little boy in Serbia at a refugee shelter\. His family managed to get out of Aleppo over a year ago\. Credits: Nima
 #### Iraq
@@ -56,13 +56,13 @@ Ibrahim al\-Assaad, a doctor who treated the victims, said none of the 29 injure
 ### Aleppo children continue burning tires and covering the city with black smoke to prevent airstrikes
 
 
-![Credits: [Archicivilians](https://twitter.com/archicivilians/status/760536861576204292)](assets/786aa74a80cb/1*CgNozRhdLHG9R6RwWt1VYg.jpeg)
+![Credits: [Archicivilians](https://twitter.com/archicivilians/status/760536861576204292)](../assets/786aa74a80cb/1*CgNozRhdLHG9R6RwWt1VYg.jpeg)
 
 Credits: [Archicivilians](https://twitter.com/archicivilians/status/760536861576204292)
 ### Free Aleppo messages of love
 
 
-![‘To those who stand in solidarity with us, we love you, please keep going’](assets/786aa74a80cb/1*WY6An5IMPSFsjG_wiBxh6g.jpeg)
+![‘To those who stand in solidarity with us, we love you, please keep going’](../assets/786aa74a80cb/1*WY6An5IMPSFsjG_wiBxh6g.jpeg)
 
 ‘To those who stand in solidarity with us, we love you, please keep going’
 #### Greece
@@ -91,7 +91,7 @@ Refugees attacked the UN caravans \(cabins \) after, according to one volunteer 
 Refugees\.tv has made similar statements, but says it is the asylum office that will not issue papers before June of 2017, causing refugees to destroy their premises\.
 
 
-![Photo by refugees\.tv](assets/786aa74a80cb/0*_0vhGwZk57CyAA5N.)
+![Photo by refugees\.tv](../assets/786aa74a80cb/0*_0vhGwZk57CyAA5N.)
 
 Photo by refugees\.tv
 
@@ -155,7 +155,7 @@ Muslim asylum seekers who received the booklet said they found the aid workers�
 
 
 
-![Grandpa left behind\. Credits: Nima](assets/786aa74a80cb/1*-bMHzRtg2L_Y5Na8XRUXEQ.jpeg)
+![Grandpa left behind\. Credits: Nima](../assets/786aa74a80cb/1*-bMHzRtg2L_Y5Na8XRUXEQ.jpeg)
 
 Grandpa left behind\. Credits: Nima
 
@@ -173,7 +173,7 @@ Grandpa left behind\. Credits: Nima
 
 
 
-![A refugee baby attacked by mosquitoes\. Credits: Nima](assets/786aa74a80cb/1*5Cy_ml5fcs32uPV_v5yv8g.jpeg)
+![A refugee baby attacked by mosquitoes\. Credits: Nima](../assets/786aa74a80cb/1*5Cy_ml5fcs32uPV_v5yv8g.jpeg)
 
 A refugee baby attacked by mosquitoes\. Credits: Nima
 
@@ -197,12 +197,12 @@ A refugee baby attacked by mosquitoes\. Credits: Nima
 
 
 
-![An Afghan boy traveling alone through Europe\. Credits: Nima](assets/786aa74a80cb/1*xrqFP_o8B_K2UAUV9H2Qug.jpeg)
+![An Afghan boy traveling alone through Europe\. Credits: Nima](../assets/786aa74a80cb/1*xrqFP_o8B_K2UAUV9H2Qug.jpeg)
 
 An Afghan boy traveling alone through Europe\. Credits: Nima
 
 
-![The feet of the Afghan boy who tried to walk 200km to cross the Hungarian border, only to end up being beaten back by police\. Credits: Nima](assets/786aa74a80cb/1*8KzG1ZgZrLeAYbBUu0ghKQ.jpeg)
+![The feet of the Afghan boy who tried to walk 200km to cross the Hungarian border, only to end up being beaten back by police\. Credits: Nima](../assets/786aa74a80cb/1*8KzG1ZgZrLeAYbBUu0ghKQ.jpeg)
 
 The feet of the Afghan boy who tried to walk 200km to cross the Hungarian border, only to end up being beaten back by police\. Credits: Nima
 
@@ -220,7 +220,7 @@ The feet of the Afghan boy who tried to walk 200km to cross the Hungarian border
 
 
 
-![Travelling to join the father\. Credits: Nima](assets/786aa74a80cb/1*e4vxbJ6r4vulF7HW7TqNhg.jpeg)
+![Travelling to join the father\. Credits: Nima](../assets/786aa74a80cb/1*e4vxbJ6r4vulF7HW7TqNhg.jpeg)
 
 Travelling to join the father\. Credits: Nima
 
@@ -244,7 +244,7 @@ Travelling to join the father\. Credits: Nima
 
 
 
-![Born on the road to Europe\. Credits: Nima](assets/786aa74a80cb/1*_RSMTn9tmQE3avrHT3A2Sw.jpeg)
+![Born on the road to Europe\. Credits: Nima](../assets/786aa74a80cb/1*_RSMTn9tmQE3avrHT3A2Sw.jpeg)
 
 Born on the road to Europe\. Credits: Nima
 
@@ -274,7 +274,7 @@ Born on the road to Europe\. Credits: Nima
 
 
 
-![Homeless in Greece\. Credits: Nima](assets/786aa74a80cb/1*ly9AI2oTRE9JjZsbebEDPw.jpeg)
+![Homeless in Greece\. Credits: Nima](../assets/786aa74a80cb/1*ly9AI2oTRE9JjZsbebEDPw.jpeg)
 
 Homeless in Greece\. Credits: Nima
 #### France
@@ -285,11 +285,11 @@ Two nights ago, 17 people got injured in Paris, both refugees and volunteers, af
 Many refugees are forced to sleep in the streets, and this has now became even more dangerous as police started to violently prevent them from congregating in one place\.
 
 
-![](assets/786aa74a80cb/1*I2z91Rg5cZM9l_2PIH70yg.jpeg)
+![](../assets/786aa74a80cb/1*I2z91Rg5cZM9l_2PIH70yg.jpeg)
 
 
 
-![Police beatings at the Avenue of Flanders\. Credits: **Danica Jurisic**](assets/786aa74a80cb/1*IGwwlP43v5z08hTdJ-nfJA.jpeg)
+![Police beatings at the Avenue of Flanders\. Credits: **Danica Jurisic**](../assets/786aa74a80cb/1*IGwwlP43v5z08hTdJ-nfJA.jpeg)
 
 Police beatings at the Avenue of Flanders\. Credits: **Danica Jurisic**
 ### Calais Kitchen is in urgent need of donations, they are running out of money for food
@@ -338,7 +338,7 @@ This [document](https://lookaside.fbsbx.com/file/PROVIDING%20HOUSING%20FOR%20REF
 The 2016 coming to be the deadliest year so far\. It is important to look at how European policies impacted the refugees’ **death** rate: governments keep killing refugees massively by denying them a safe passage to claim asylum in Europe\.
 
 
-![](assets/786aa74a80cb/1*VThlTJZ_zduxvxEL_7M9Qg.jpeg)
+![](../assets/786aa74a80cb/1*VThlTJZ_zduxvxEL_7M9Qg.jpeg)
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: DAILY DIGEST 18/3/2019: Hungary to teach Bosnia on how to protect borders
+title: "DAILY DIGEST 18/3/2019: Hungary to teach Bosnia on how to protect borders"
 author: Are You Syrious?
 date: 2019-03-19T10:51:29.448+0000
 last_modified_at: 2019-03-21T09:53:26.514+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,bosnia,iom,unhcr,digest]
 description: Bosnian government spreading fear and encourages hate speech toward people on the move // More people registered by volunteers in Serbia…
 image:
-  path: assets/1976fd0e8465/1*sO74E3HAQj-0pj2ftnu29w.jpeg
+  path: ../assets/1976fd0e8465/1*sO74E3HAQj-0pj2ftnu29w.jpeg
 ---
 
 ### AYS Daily Digest: 18/3/19: Hungary to teach Bosnia on how to protect borders
@@ -15,7 +15,7 @@ image:
 Bosnian government spreading fear and encourages hate speech toward people on the move // More people registered by volunteers in Serbia // UK statistics on asylum // MSF report on the 3rd year of the EU\-Turkey deal
 
 
-![People kicked out from the bus from Sarajevo to Bihac and left by the road in Velecevo, near Kljuc, Bosnia, with no help\. On Monday night, it was snowing and raining in Bosnia\. This family with kids stayed out in the open all night\. Photo by Red Cross Kljuc\.](assets/1976fd0e8465/1*sO74E3HAQj-0pj2ftnu29w.jpeg)
+![People kicked out from the bus from Sarajevo to Bihac and left by the road in Velecevo, near Kljuc, Bosnia, with no help\. On Monday night, it was snowing and raining in Bosnia\. This family with kids stayed out in the open all night\. Photo by Red Cross Kljuc\.](../assets/1976fd0e8465/1*sO74E3HAQj-0pj2ftnu29w.jpeg)
 
 People kicked out from the bus from Sarajevo to Bihac and left by the road in Velecevo, near Kljuc, Bosnia, with no help\. On Monday night, it was snowing and raining in Bosnia\. This family with kids stayed out in the open all night\. Photo by Red Cross Kljuc\.
 ### Feature
@@ -41,7 +41,7 @@ For families, big INGOs will find a way to take them to Bihać, but a single man
 If single men find a way to reach Velika Kladuša or Bihać and camps in that area, they are not allowed to enter or recive any type of help\.
 
 
-![“In this tent of five people staying under the snow in front of the Bira camp in Bihać, I asked IOM to help them, but they said that they have no time, they don’t care about them and this is humanity in Europe\.” By [Bahman Mousalou](https://www.facebook.com/profile.php?id=100007866196589&__tn__=%2Cd%2AF%2AF-R&eid=ARD27dh7qwwj86I-jdBjJbin96238fjGG4rR2WU6JwOS6qWM4sYY6AlgslhnZOqtH8_Ku5b-JNYfWtiR&tn-str=%2AF&hc_location=group_dialog)](assets/1976fd0e8465/1*9Ubge0gML4x5WZ6KOPWKjw.jpeg)
+![“In this tent of five people staying under the snow in front of the Bira camp in Bihać, I asked IOM to help them, but they said that they have no time, they don’t care about them and this is humanity in Europe\.” By [Bahman Mousalou](https://www.facebook.com/profile.php?id=100007866196589&__tn__=%2Cd%2AF%2AF-R&eid=ARD27dh7qwwj86I-jdBjJbin96238fjGG4rR2WU6JwOS6qWM4sYY6AlgslhnZOqtH8_Ku5b-JNYfWtiR&tn-str=%2AF&hc_location=group_dialog)](../assets/1976fd0e8465/1*9Ubge0gML4x5WZ6KOPWKjw.jpeg)
 
 “In this tent of five people staying under the snow in front of the Bira camp in Bihać, I asked IOM to help them, but they said that they have no time, they don’t care about them and this is humanity in Europe\.” By [Bahman Mousalou](https://www.facebook.com/profile.php?id=100007866196589&__tn__=%2Cd%2AF%2AF-R&eid=ARD27dh7qwwj86I-jdBjJbin96238fjGG4rR2WU6JwOS6qWM4sYY6AlgslhnZOqtH8_Ku5b-JNYfWtiR&tn-str=%2AF&hc_location=group_dialog)
 
@@ -67,7 +67,7 @@ People who were rescued were drifting on the sea for at least two days\. All of 
 The ship that saved them has an Italian flag and they officially requested disembarkment in Lampedusa\.
 
 
-![By ABR](assets/1976fd0e8465/1*AGJmYJhmmmZTFG4Vo7Amtw.jpeg)
+![By ABR](../assets/1976fd0e8465/1*AGJmYJhmmmZTFG4Vo7Amtw.jpeg)
 
 By ABR
 
@@ -114,7 +114,7 @@ All the people were arrested, AGR informs\.
 ### Greece
 
 
-![](assets/1976fd0e8465/1*_X0m1RGqw8SSK_5ZZPdwwg.jpeg)
+![](../assets/1976fd0e8465/1*_X0m1RGqw8SSK_5ZZPdwwg.jpeg)
 
 
 Aegean Boat Report recorded two boats landing on Monday, one outside Tsonia, Northern Lesvos, with 42 people, and another outside Nenita, Chios with 53 people\.

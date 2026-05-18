@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 24/06/18: Stranded on the “Lifeline”
+title: "AYS Daily Digest 24/06/18: Stranded on the “Lifeline”"
 author: Are You Syrious?
 date: 2018-06-25T01:53:58.317+0100
 last_modified_at: 2018-06-25T18:19:10.911+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,malta,italy,sea-rescue]
 description: Italian Authorities continue to deny rescue ships entry to its ports as EU and member states turn a blind eye
 image:
-  path: assets/50e63bf240de/1*SWYSFAVnchgNN--s0wnKTQ.jpeg
+  path: ../assets/50e63bf240de/1*SWYSFAVnchgNN--s0wnKTQ.jpeg
 ---
 
 ### AYS Daily Digest 24/06/18: Stranded on the “ _Lifeline”_
@@ -16,7 +16,7 @@ image:
 _Malta blocks ships from landing // Rescues at Sea // 1,000 people in distress in the Central Mediterranean // Italian Coast Guard breaks maritime law // Migration Summit in Brussels // Support needed for most vulnerable on Lesvos // New Arrivals in Bosnia and Calais // And more…_
 
 
-![Photo Credit: [Mission Lifeline](https://twitter.com/SEENOTRETTUNG) \. “Dear [Matteo Salvini](https://www.facebook.com/salviniofficial/) , we have no meat on board, but humans\. We cordially invite you to convince yourself that it is people we have saved from drowning\. Come here, you are welcome\!”](assets/50e63bf240de/1*SWYSFAVnchgNN--s0wnKTQ.jpeg)
+![Photo Credit: [Mission Lifeline](https://twitter.com/SEENOTRETTUNG) \. “Dear [Matteo Salvini](https://www.facebook.com/salviniofficial/) , we have no meat on board, but humans\. We cordially invite you to convince yourself that it is people we have saved from drowning\. Come here, you are welcome\!”](../assets/50e63bf240de/1*SWYSFAVnchgNN--s0wnKTQ.jpeg)
 
 Photo Credit: [Mission Lifeline](https://twitter.com/SEENOTRETTUNG) \. “Dear [Matteo Salvini](https://www.facebook.com/salviniofficial/) , we have no meat on board, but humans\. We cordially invite you to convince yourself that it is people we have saved from drowning\. Come here, you are welcome\!”
 ### Feature
@@ -185,14 +185,14 @@ Attika Human Support continues to deliver van loads of needed supplies to groups
 ### France
 
 
-![Photo Credit: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/photos/pcb.774081489464131/774084916130455/?type=3&theater)](assets/50e63bf240de/1*M--PrLePH33KE-u00K4f-g.jpeg)
+![Photo Credit: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/photos/pcb.774081489464131/774084916130455/?type=3&theater)](../assets/50e63bf240de/1*M--PrLePH33KE-u00K4f-g.jpeg)
 
 Photo Credit: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/photos/pcb.774081489464131/774084916130455/?type=3&theater)
 
 Organizations working in the Dunkirk and Calais area are reporting an increasing number of people arriving there\. The volunteers who work there anticipated that this would happen earlier this month, when many people in the area where bused to “accommodation centers” across France\. These centers are often very isolated and ill\-equipped to meet people’s basic needs, and it has happened in the past that people sent to them leave very quckly\. This seems to have happened once again\. From Mobile Refugee Support:
 
 
-![Photo Credit: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/photos/pcb.774081489464131/774084916130455/?type=3&theater)](assets/50e63bf240de/1*atps5zjHUgsFKzgJFScH_A.jpeg)
+![Photo Credit: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/photos/pcb.774081489464131/774084916130455/?type=3&theater)](../assets/50e63bf240de/1*atps5zjHUgsFKzgJFScH_A.jpeg)
 
 Photo Credit: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/photos/pcb.774081489464131/774084916130455/?type=3&theater)
 
@@ -217,11 +217,11 @@ Photo Credit: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSup
 ### Bosnia
 
 
-![](assets/50e63bf240de/1*5eNRdW3pHLAN-fgrmqUNqA.jpeg)
+![](../assets/50e63bf240de/1*5eNRdW3pHLAN-fgrmqUNqA.jpeg)
 
 
 
-![Photo Credit: [Red Cross Bihac](https://www.facebook.com/CrveniKrizBihac/photos/pcb.1946772298687888/1946770255354759/?type=3&theater&ifg=1)](assets/50e63bf240de/1*zbZMuus_kbrBx2sdlIGe5Q.jpeg)
+![Photo Credit: [Red Cross Bihac](https://www.facebook.com/CrveniKrizBihac/photos/pcb.1946772298687888/1946770255354759/?type=3&theater&ifg=1)](../assets/50e63bf240de/1*zbZMuus_kbrBx2sdlIGe5Q.jpeg)
 
 Photo Credit: [Red Cross Bihac](https://www.facebook.com/CrveniKrizBihac/photos/pcb.1946772298687888/1946770255354759/?type=3&theater&ifg=1)
 

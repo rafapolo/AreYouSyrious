@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [newsletter,refugees,turkey]
 description: More Illegal Pushbacks in the Aegean///What Is Going On In Kranidi?///NGOs Condemn Serbian Government’s Razor Wire Purchase
 image:
-  path: assets/69279962cb13/0*j77tOdq44qw_u04p
+  path: ../assets/69279962cb13/0*j77tOdq44qw_u04p
 ---
 
 ### AYS Daily Digest 26/05/2020 — Tensions Between Greece and Turkey Ramp Up
 #### More Illegal Pushbacks in the Aegean///What Is Going On In Kranidi?///NGOs Condemn Serbian Government’s Razor Wire Purchase
 
 
-![People rescued after an illegal pushback from Greece\. Photo credit: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/photos/pcb.839900739866365/839900626533043/?type=3&theater)](assets/69279962cb13/0*j77tOdq44qw_u04p)
+![People rescued after an illegal pushback from Greece\. Photo credit: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/photos/pcb.839900739866365/839900626533043/?type=3&theater)](../assets/69279962cb13/0*j77tOdq44qw_u04p)
 
 People rescued after an illegal pushback from Greece\. Photo credit: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/photos/pcb.839900739866365/839900626533043/?type=3&theater)
 

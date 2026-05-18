@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 21/02/18: France unveils repressive immigration and asylum law
+title: "AYS Daily Digest 21/02/18: France unveils repressive immigration and asylum law"
 author: Are You Syrious?
 date: 2018-02-22T11:13:39.738+0000
 last_modified_at: 2018-03-01T13:27:02.901+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,france]
 description: Concerns about cooperation between Bulgarian and Turkish border guards // At least 3,624 people sleeping in the streets of Paris //Rescue…
 image:
-  path: assets/254d49f0df96/1*kCeAhBGw96fsWP9CuE4WsQ.png
+  path: ../assets/254d49f0df96/1*kCeAhBGw96fsWP9CuE4WsQ.png
 ---
 
 ### AYS Daily Digest 21/02/18: France unveils repressive immigration and asylum law
@@ -15,7 +15,7 @@ image:
 _Concerns about cooperation between Bulgarian and Turkish border guards // At least 3,624 people sleeping in the streets of Paris //Rescue operation obstructed near Rhodes in Greece_
 
 
-![Photo by BAAM](assets/254d49f0df96/1*kCeAhBGw96fsWP9CuE4WsQ.png)
+![Photo by BAAM](../assets/254d49f0df96/1*kCeAhBGw96fsWP9CuE4WsQ.png)
 
 Photo by BAAM
 #### France
@@ -34,22 +34,22 @@ The association Cimade says the whole spirit of the law seems to be to discourag
 The presentation of the law was marked by protests in Paris\. Banners were displayed across the city to protest against bad reception conditions and a repressive immigration policy\.
 
 
-![“I shelter an unaccompanied minor\. But what is the state doing? “\. Paris d’Exil](assets/254d49f0df96/1*F45y8h2OF0Dqr4Ula8GXNw.png)
+![“I shelter an unaccompanied minor\. But what is the state doing? “\. Paris d’Exil](../assets/254d49f0df96/1*F45y8h2OF0Dqr4Ula8GXNw.png)
 
 “I shelter an unaccompanied minor\. But what is the state doing? “\. Paris d’Exil
 
 
-![](assets/254d49f0df96/1*JsmGkscHq358eTEFIp5ykQ.png)
+![](../assets/254d49f0df96/1*JsmGkscHq358eTEFIp5ykQ.png)
 
 
 
-![](assets/254d49f0df96/1*48QpH_MPHLVQU3Q4uAFbcw.png)
+![](../assets/254d49f0df96/1*48QpH_MPHLVQU3Q4uAFbcw.png)
 
 
 Employees of the National Asylum Court, which reviews appeals from OFPRA decisions, have gone on strike and also protested against the law today\. In an interview with [Streetpress](https://www.streetpress.com/sujet/1518608463-greve-juges-asile-immigration) , one employee said the shortened delays will increase their workload and make it more difficult to make correct decisions\. He insisted that their role is not to manage the “influx” of asylum\-seekers but to listen to stories of suffering and evaluate asylum cases\. He added that behind asylum cases there are men and women, that they are not only numbers\. OFPRA employees have now also joined the strike\.
 
 
-![[CNDA en Grève](https://twitter.com/CNDAengreve)](assets/254d49f0df96/1*fIWuuFafZpyiqjILuhI6yw.png)
+![[CNDA en Grève](https://twitter.com/CNDAengreve)](../assets/254d49f0df96/1*fIWuuFafZpyiqjILuhI6yw.png)
 
 [CNDA en Grève](https://twitter.com/CNDAengreve)
 ### 3,624 people sleeping in the streets of Paris
@@ -57,7 +57,7 @@ Employees of the National Asylum Court, which reviews appeals from OFPRA decisio
 The city of Paris, with the help of volunteers, has tried to count the number of people living in the streets\. It encountered 2,025 people, in addition to 200 sleeping in train stations, 49 in hospitals, 377 in metro stations, 112 in private parking and 189 in public parks\. 672 were sleeping in temporary emergency shelters due to the cold weather\. The number is very much a minimum, as many places remain unexplored, especially in construction sites and near the Paris ring road where a lot of refugees are sleeping\.
 
 
-![](assets/254d49f0df96/1*FQcZsPnMVH-XHsRZRj_g1g.png)
+![](../assets/254d49f0df96/1*FQcZsPnMVH-XHsRZRj_g1g.png)
 
 
 This comes as easterly winds from Siberia will bring increasingly cold conditions to Northern Europe this weekend and into next week\. Perceived temperatures could reach up to \-20° in the larger Paris region\. Some ways to help: Donate to [Care4Calais](https://mydonate.bt.com/donation/v4/chooseAmount.html?charity=164447&currentMonth=1) who will distribute clothes and tents in Calais and Paris\. Directly bring clothes and sleeping bags to the St\. Bernard de la Chapelle church in Paris, which does distributions every weekend\.
@@ -94,7 +94,7 @@ Baobaob Experience volunteers were threatened by racists:
 This comes as migration seems to have become the biggest focus of political parties ahead of the March 4 election, with parties like Lega Nord spreading the idea of refugees as a security threat\. The Macerata shooting, in which a right\-wing extremist wounded six Africans in a drive\-by shooting, was even blamed on Italy’s permissive migration policy by Silvio Berlusconi\. **It has become the victim of the shooting that is to blame — it isn’t the shooting itself that is marking the elections but rather the origins of the victim itself that have become the focus\.**
 
 
-![Photo by [Matteo Nardone](http://www.matteonardone.com/)](assets/254d49f0df96/1*g6Ee5mcxa9NmL7J0pw_XMQ.png)
+![Photo by [Matteo Nardone](http://www.matteonardone.com/)](../assets/254d49f0df96/1*g6Ee5mcxa9NmL7J0pw_XMQ.png)
 
 Photo by [Matteo Nardone](http://www.matteonardone.com/)
 #### Spain

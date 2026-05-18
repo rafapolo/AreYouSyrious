@@ -1,5 +1,5 @@
 ---
-title: AYS International Women’s Day Special: Who is Louise Michel?
+title: "AYS International Women’s Day Special: Who is Louise Michel?"
 author: Are You Syrious?
 date: 2021-03-08T07:44:36.121+0000
 last_modified_at: 2021-03-08T17:48:21.518+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [special,louise-michel,mediterranean,search-and-rescue,anarchism]
 description: In 2020, a homemade rescue boat, MV Louise Michel, funded by Banksy, appeared in the Central Mediterranean. But who is Louise Michel?
 image:
-  path: assets/c156eb428c75/1*S_1yrLvz_fnz0svF5EKhJw.jpeg
+  path: ../assets/c156eb428c75/1*S_1yrLvz_fnz0svF5EKhJw.jpeg
 ---
 
 ### AYS International Women’s Day Special — Who is Louise Michel?
@@ -15,7 +15,7 @@ image:
 _In 2020, artist Banksy funded a ‘homemade’ rescue vessel in the Mediterranean\. Naming the vessel, the crew decided to pay tribute to one of the most famous and fearsome revolutionary women in modern history, a free woman who dedicated her whole life to fight for the oppressed and for social revolution, and as a result was subjected to prison, deportation, exile and an attempt on her life, Louise Michel\._
 
 
-![](assets/c156eb428c75/1*hebCOLoO7e0SGLlbedFVQw.jpeg)
+![](../assets/c156eb428c75/1*hebCOLoO7e0SGLlbedFVQw.jpeg)
 
 
 Called by her peers ‘the Red Virgin’ or the new Joan d’Arc, Louise also became a symbol of the Paris Commune, the great social experiment of people’s self\-government, of which this year marks the 150th anniversary\. In France, her figure is quite well known and her memory is also alive among the Kanaks, the first nation people of the French overseas territory New Caledonia\.
@@ -24,7 +24,7 @@ Called by her peers ‘the Red Virgin’ or the new Joan d’Arc, Louise also be
 To understand it, we need to sketch out her biography as she never separated private life, action, thought and writing\.
 
 
-![[Louise Michel](https://en.wikipedia.org/wiki/Louise_Michel#/media/File:Louise_Michel2.jpg)](assets/c156eb428c75/1*S_1yrLvz_fnz0svF5EKhJw.jpeg)
+![[Louise Michel](https://en.wikipedia.org/wiki/Louise_Michel#/media/File:Louise_Michel2.jpg)](../assets/c156eb428c75/1*S_1yrLvz_fnz0svF5EKhJw.jpeg)
 
 [Louise Michel](https://en.wikipedia.org/wiki/Louise_Michel#/media/File:Louise_Michel2.jpg)
 
@@ -60,7 +60,7 @@ Louise is also a pioneer of antispeciesism and animal rights struggles\. She wri
 Louise believes that society is like a organic body, within which every life — vegetable, animal and human — has a right to existence and it is necessary to fight for all these rights\. Every non\-human animal is an individual who aspires to freedom, just like every human\. And like every human, they suffer the same oppression and hierarchy\.
 
 
-![Illustration via [CrimethInc\.](https://crimethinc.com/2017/03/18/march-18-1871-the-birth-of-the-paris-commune-a-narrative)](assets/c156eb428c75/1*RY_lW9biTu3XpyPYf6b78Q.gif)
+![Illustration via [CrimethInc\.](https://crimethinc.com/2017/03/18/march-18-1871-the-birth-of-the-paris-commune-a-narrative)](../assets/c156eb428c75/1*RY_lW9biTu3XpyPYf6b78Q.gif)
 
 Illustration via [CrimethInc\.](https://crimethinc.com/2017/03/18/march-18-1871-the-birth-of-the-paris-commune-a-narrative)
 
@@ -71,7 +71,7 @@ In 1888, Louise is victim of an attempted murder at the hand of a young Catholic
 Nowadays, Louise’s figure is being rediscovered\. The crew of the Banksy\-funded ‘homemade’ rescue boat took her name to signal the continuity of emancipatory struggles\.
 
 
-![Image by M\.V\. Louise Michel](assets/c156eb428c75/1*zbYX-OslPlBSIEJHc_B23A.png)
+![Image by M\.V\. Louise Michel](../assets/c156eb428c75/1*zbYX-OslPlBSIEJHc_B23A.png)
 
 Image by M\.V\. Louise Michel
 

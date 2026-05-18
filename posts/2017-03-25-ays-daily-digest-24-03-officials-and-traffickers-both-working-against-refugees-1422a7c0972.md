@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 24/03/2017: Inhumanity is not the solution!
+title: "AYS DAILY DIGEST 24/03/2017: Inhumanity is not the solution!"
 author: Are You Syrious?
 date: 2017-03-25T11:17:12.563+0000
 last_modified_at: 2017-03-25T18:02:01.836+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: EU countries in negotiation to enforce inhumane practices in North Africa / New arrivals and again death toll in the East Aegean Sea /…
 image:
-  path: assets/1422a7c0972/1*IssGcJ5BOmv7ywunUFNPYw.jpeg
+  path: ../assets/1422a7c0972/1*IssGcJ5BOmv7ywunUFNPYw.jpeg
 ---
 
 ### AYS DAILY DIGEST 24/03/2017: Inhumanity is not the solution\!
@@ -15,7 +15,7 @@ image:
 _EU countries in negotiation to enforce inhumane practices in North Africa / New arrivals and again death toll in the East Aegean Sea / Volunteer teams improving safety and the quality of the struggling life of fled people in island camps /Bulgarian border fence contractor provides traffickers with clever scheme/ Authorities in France and Hungary criticized / Students petition for more refugee scholarships / Finland encampment attacked in suspected arson incident_
 
 
-![Submitted by the Kempsons, humanitarian volunteers, Lesvos north shore](assets/1422a7c0972/1*IssGcJ5BOmv7ywunUFNPYw.jpeg)
+![Submitted by the Kempsons, humanitarian volunteers, Lesvos north shore](../assets/1422a7c0972/1*IssGcJ5BOmv7ywunUFNPYw.jpeg)
 
 Submitted by the Kempsons, humanitarian volunteers, Lesvos north shore
 ### FEATURE: EU countries failing to save lives, but in negotiation to enforce inhumane practices in North Africa, while accusing private rescue NGOs
@@ -44,7 +44,7 @@ The official registered new arrivals are: 20 persons on Lesvos and 21 on Chios i
 #### SOS at the northern shore off Lesvos
 
 
-![Photo and report by [Philippa and Eric Kempson — refugee support Eftalou / Molovos](https://www.facebook.com/thekempsons/posts/1848816928699545)](assets/1422a7c0972/1*_ZaAd9fypefRBWR-hAcVbQ.jpeg)
+![Photo and report by [Philippa and Eric Kempson — refugee support Eftalou / Molovos](https://www.facebook.com/thekempsons/posts/1848816928699545)](../assets/1422a7c0972/1*_ZaAd9fypefRBWR-hAcVbQ.jpeg)
 
 Photo and report by [Philippa and Eric Kempson — refugee support Eftalou / Molovos](https://www.facebook.com/thekempsons/posts/1848816928699545)
 
@@ -57,7 +57,7 @@ Photo and report by [Philippa and Eric Kempson — refugee support Eftalou / Mol
 #### New fire extinguishers for Souda camp
 
 
-![Photo by CESRT](assets/1422a7c0972/1*7nTzGF9m8xdsZ8wvVFvYiA.jpeg)
+![Photo by CESRT](../assets/1422a7c0972/1*7nTzGF9m8xdsZ8wvVFvYiA.jpeg)
 
 Photo by CESRT
 
@@ -65,7 +65,7 @@ The Chios East Shore Response Team \(CESRT\) has bought [15 new fire extinguishe
 #### Repatriation to Pakistan
 
 
-![Photo by IOM Greece](assets/1422a7c0972/1*Ct_UbbVp5UauYaMSOGnnZA.jpeg)
+![Photo by IOM Greece](../assets/1422a7c0972/1*Ct_UbbVp5UauYaMSOGnnZA.jpeg)
 
 Photo by IOM Greece
 
@@ -75,7 +75,7 @@ A total of 23 people were sent from Greece and [announced](https://www.facebook.
 Irish humanitarian workers are looking for a donation of prayer mats and/or prayer beads for Samos\. Please respond to them [here](https://www.facebook.com/permalink.php?story_fbid=1651062858243741&id=1254181771265187) \.
 
 
-![Photography students practice composition on Mytillini\. Photo courtesy of Office of Displaced Designers\.](assets/1422a7c0972/1*LejPS-SDC-Xx6mYNB_SUyQ.jpeg)
+![Photography students practice composition on Mytillini\. Photo courtesy of Office of Displaced Designers\.](../assets/1422a7c0972/1*LejPS-SDC-Xx6mYNB_SUyQ.jpeg)
 
 Photography students practice composition on Mytillini\. Photo courtesy of Office of Displaced Designers\.
 ### BULGARIA
@@ -129,7 +129,7 @@ As the debates around solidarity and disunity in Europe abound, the striking ubi
 The city of Grande Synthe will soon have a position open for the camp: 1 full time position for coordination of volunteers and projects \(May\-Sep\) — candidates need to be bilingual French\-English, be able to adapt well, be very socially competent and intuitive, have time and be able to roll with the punches\. The position would run from May to September and would be primary for a volunteer and project coordinator\. The [town hall of Grande Synthe will be the one recruiting](https://www.facebook.com/groups/172900819749383/permalink/405501916489271/) \.
 
 
-![Tea distribution in Paris, photo courtesy of Solidarithé](assets/1422a7c0972/1*Kz6glYuSrbVxW4Hsve3YzA.jpeg)
+![Tea distribution in Paris, photo courtesy of Solidarithé](../assets/1422a7c0972/1*Kz6glYuSrbVxW4Hsve3YzA.jpeg)
 
 Tea distribution in Paris, photo courtesy of Solidarithé
 
@@ -138,7 +138,7 @@ BAAM \(Bureau d’Accueil et d’Accompagnement des Migrants\) released a [scath
 _These words are those of Gérald Briant, Deputy Mayor of the 18th \(Town Hall of the 18th arrondissement of Paris\) in charge of social affairs, emergency housing and the fight against exclusion, at the district council \(gbriant @ Pcf\.fr\) \._
 
 
-![Paris, France\. Photo Courtesy of [Marc Melki](https://www.facebook.com/marc.melki.12/posts/10210345859055845)](assets/1422a7c0972/1*sTN_hCyU4BlG3INEIMj-1A.jpeg)
+![Paris, France\. Photo Courtesy of [Marc Melki](https://www.facebook.com/marc.melki.12/posts/10210345859055845)](../assets/1422a7c0972/1*sTN_hCyU4BlG3INEIMj-1A.jpeg)
 
 Paris, France\. Photo Courtesy of [Marc Melki](https://www.facebook.com/marc.melki.12/posts/10210345859055845)
 
@@ -159,7 +159,7 @@ _Needless to say, our utmost support goes to our friends of the Kitchen of Migra
 _Gerald Briant, deputy mayor of the 18th arrondissement of Paris, announces without any shame that he will FORGIVE food distributions to migrants, refugees and excluded from the neighborhood, and he begins by saying the opposite, that he will not do as the right\-wing mayor \(LR\) of Calais, and by a rather crude trick, he ends up explaining that he will, in fact, prohibit distribution\! Hallucinating …\! Hypocrisy and manipulation in all its ignoble splendor\!_
 
 
-[![Gerald Briant, adjoint au maire Paris 18 interdit la solidarité](assets/1422a7c0972/8047_hqdefault.jpg "Gerald Briant, adjoint au maire Paris 18 interdit la solidarité")](http://www.youtube.com/watch?v=BAVr9D1y0x8)
+[![Gerald Briant, adjoint au maire Paris 18 interdit la solidarité](../assets/1422a7c0972/8047_hqdefault.jpg "Gerald Briant, adjoint au maire Paris 18 interdit la solidarité")](http://www.youtube.com/watch?v=BAVr9D1y0x8)
 
 
 A village in France — Charvieu\-Chavagneux \(Isère\) \- was convicted by a court for their refusal to accept no other refugees but Christians\. — The village has to pay 600 Euro to SOS racisme, the association which launched the lawsuit\. The right\-wing Mayor recently also got negative publicity because he prohibited Arabian and Turkish language classes in a primary school, because “they might allow certain people to read documents which might radicalize them”\.

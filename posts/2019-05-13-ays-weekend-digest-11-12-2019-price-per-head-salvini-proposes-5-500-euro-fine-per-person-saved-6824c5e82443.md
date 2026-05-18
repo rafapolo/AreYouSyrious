@@ -1,5 +1,5 @@
 ---
-title: AYS WEEKEND DIGEST 11–12/2019: Price per head, Salvini proposes 5,500 euro fine per person saved.
+title: "AYS WEEKEND DIGEST 11–12/2019: Price per head, Salvini proposes 5,500 euro fine per person saved."
 author: Are You Syrious?
 date: 2019-05-13T13:17:03.062+0100
 last_modified_at: 2019-05-13T22:38:15.353+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,police-repression,digest,italy,search-and-rescue]
 description: SAR vessel launches again! // Turkish Coast Guard Updates // Death in Bosnia and Police Brutality //
 image:
-  path: assets/6824c5e82443/1*XXy-zgSOSumdm5nIxPjaIQ.jpeg
+  path: ../assets/6824c5e82443/1*XXy-zgSOSumdm5nIxPjaIQ.jpeg
 ---
 
 ### AYS WEEKEND DIGEST 11–12/2019: Price per head, Salvini proposes 5,500 euro fine per person saved\.
@@ -15,7 +15,7 @@ image:
 Repressive proposed law in order to quash dissent // SAR vessel launches again\!// 600 people have tried to leave Libya in four days // Turkish Coast Guard Updates on those intercepted // Death in Bosnia and Security Contractors’ Brutality against Refugees in Camps// Needs in France
 
 
-![Photo Credit: Sea Eye](assets/6824c5e82443/1*XXy-zgSOSumdm5nIxPjaIQ.jpeg)
+![Photo Credit: Sea Eye](../assets/6824c5e82443/1*XXy-zgSOSumdm5nIxPjaIQ.jpeg)
 
 Photo Credit: Sea Eye
 ### FEATURE: Proposed Law Tightens the Noose around Resistance and Solidarity
@@ -118,7 +118,7 @@ Many people question why, when there are camps available in Bihac, people would 
 Recently, Udruzenje Solidarnost Bosnia posted a screenshot from someone in Bihac camp\.
 
 
-![](assets/6824c5e82443/1*pvbPAg0pI1O-3QZWvf2CFA.jpeg)
+![](../assets/6824c5e82443/1*pvbPAg0pI1O-3QZWvf2CFA.jpeg)
 
 
 This is not the first time that security guards in official camps in Bosnia have been reported for violence against residents\. Although IOM has allegedly fired the security officers who were reported for violence, and they claim that this activity is not widespread in Bira, there are many other accounts of this happening\. We have statements from several different people who have witnessed security employees being aggressive with residents in the camp, and those trying to get in the camp, but especially at the parking lot and in front of the camp\. The reoccurring testimonies keep appearing: claims such as this should make everyone wonder, worry and demand answers, which is something we hope fellow journalists, if not the citizens whose taxes pay for this, and the police, will do\.
@@ -128,7 +128,7 @@ On the flipside, many people are persecuted for NOT residing in camps, and yet i
 Just like this man, many people are having to endure the terrible weather, which is only getting worse\. Rain is expected all throughout the week, and volunteers fear for those arriving, since they already have people who have become seriously ill on their journeys\. Although the local hospital has been opened to care for a woman who is really sick, she may have to leave sooner than she should\. She is with her children, and the deadline to reach the camp in Bihać, according to the migrations officers’ plan, is getting near, so instead of a recommended week long stay at the hospital, she will continue\.
 
 
-![Photo: Nedžla Masri](assets/6824c5e82443/1*yMYT60KdITr-1ob5gtvmlA.jpeg)
+![Photo: Nedžla Masri](../assets/6824c5e82443/1*yMYT60KdITr-1ob5gtvmlA.jpeg)
 
 Photo: Nedžla Masri
 
@@ -136,7 +136,7 @@ The news is that the office now works during the weekends, from 8 to 16h\.
 Photo: Just as the office closed, a group of about 20 people arrived to spend the night sleeping outside, waiting for the next working day of the office\.
 
 
-![Credit: Lejla Dervisevic\.](assets/6824c5e82443/1*6HYCCaJ8u0E40bAkGZPpqQ.jpeg)
+![Credit: Lejla Dervisevic\.](../assets/6824c5e82443/1*6HYCCaJ8u0E40bAkGZPpqQ.jpeg)
 
 Credit: Lejla Dervisevic\.
 
@@ -147,7 +147,7 @@ Also, the team is active in providing information, food, basic amenities, runnin
 ### FRANCE
 
 
-![](assets/6824c5e82443/1*RsnqjDbYkCC1iQbsFkI1wQ.jpeg)
+![](../assets/6824c5e82443/1*RsnqjDbYkCC1iQbsFkI1wQ.jpeg)
 
 
 Refugee Community Kitchen has announced that in spite of other organisations possibly debating whether to continue work, that they will continue to provide hot meals throughout the winter in Calais, Dunkirk, and Brussels\. They will need your help to continue their work, however\. To find out how to volunteer or donate, go [here](https://mailchi.mp/b630b6ad623c/rck-future-in-calais-and-northern-france) \.

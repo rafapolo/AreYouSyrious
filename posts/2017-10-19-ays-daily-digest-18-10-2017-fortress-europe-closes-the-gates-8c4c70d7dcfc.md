@@ -7,7 +7,7 @@ categories:
 tags: [refugees,opentheborders,fortress-europe,pordenone,denmark]
 description: Update from the Greek Islands and the campaign #opentheborders /// 111 people rescued yesterday off the Libyan coast /// People sleeping…
 image:
-  path: assets/8c4c70d7dcfc/1*WUQh6YKOm0EKcXVUQzl9iQ.jpeg
+  path: ../assets/8c4c70d7dcfc/1*WUQh6YKOm0EKcXVUQzl9iQ.jpeg
 ---
 
 ### AYS Daily Digest 18/10/2017 Fortress Europe closes the gates
@@ -15,7 +15,7 @@ image:
 Update from the Greek Islands and the campaign \#opentheborders /// 111 people rescued yesterday off the Libyan coast /// People sleeping rough in Pordenone /// Refugees on hunger strike in Denmark /// Germany to increase border controls on flights from Greece
 
 
-![Migrant from heart by Hassan Bleibel \(Art against\)](assets/8c4c70d7dcfc/1*WUQh6YKOm0EKcXVUQzl9iQ.jpeg)
+![Migrant from heart by Hassan Bleibel \(Art against\)](../assets/8c4c70d7dcfc/1*WUQh6YKOm0EKcXVUQzl9iQ.jpeg)
 
 Migrant from heart by Hassan Bleibel \(Art against\)
 #### Fortress Europe closes the gates
@@ -77,7 +77,7 @@ An infringement on one person’s freedom of movement sets a precedent for furth
 #### **Arrivals**
 
 
-![\(Erik Gerhardsson\)](assets/8c4c70d7dcfc/1*LeMLccqlNVczjOGkshwCEw.jpeg)
+![\(Erik Gerhardsson\)](../assets/8c4c70d7dcfc/1*LeMLccqlNVczjOGkshwCEw.jpeg)
 
 \(Erik Gerhardsson\)
 
@@ -108,7 +108,7 @@ Switzerland will soon join the SOS Méditerranée team in the Mediterranean\.
 Maydayterraneo have left for their third volunteer mission to the international waters between Libya and Italy\. To support them or to become a member of their crew look [here](https://www.migranodearena.org/es/reto/15691/may-day-mediterraneo-proemaid--smh/) \.
 
 
-![\(alarmphone\.org\)](assets/8c4c70d7dcfc/1*wq3_HpvYKskcfoOIlyTx4w.jpeg)
+![\(alarmphone\.org\)](../assets/8c4c70d7dcfc/1*wq3_HpvYKskcfoOIlyTx4w.jpeg)
 
 \(alarmphone\.org\)
 
@@ -125,7 +125,7 @@ Alarm Phone have a released a report, [Developments in the Central Mediterranean
 **Islands**
 
 
-![Vial camp, Chios \(No Borders\)](assets/8c4c70d7dcfc/1*TkNng7JiGDBxN0CY-3tqZA.jpeg)
+![Vial camp, Chios \(No Borders\)](../assets/8c4c70d7dcfc/1*TkNng7JiGDBxN0CY-3tqZA.jpeg)
 
 Vial camp, Chios \(No Borders\)
 
@@ -152,13 +152,13 @@ Chios Solidarity call for an end to the shame which is Vial Camp\! For the full 
 
 
 
-![](assets/8c4c70d7dcfc/1*rvMslS1WloNJJX3hyHHUyA.jpeg)
+![](../assets/8c4c70d7dcfc/1*rvMslS1WloNJJX3hyHHUyA.jpeg)
 
 
 **Lesvos**
 
 
-![\#opentheislands \(Lesvos Solidarity — Pikpa\)](assets/8c4c70d7dcfc/1*AbbK4C1Jm_t8pGqU2Vj68w.jpeg)
+![\#opentheislands \(Lesvos Solidarity — Pikpa\)](../assets/8c4c70d7dcfc/1*AbbK4C1Jm_t8pGqU2Vj68w.jpeg)
 
 \#opentheislands \(Lesvos Solidarity — Pikpa\)
 
@@ -167,7 +167,7 @@ Pikpa Camp report that around 90 solidarity groups and organisations are now cal
 No Border Kitchen needs support to continue with their food boxes, cooking and solidarity work\. If you can help there’s more info [here](https://web.facebook.com/NBKLesvos/posts/1022970181176104?hc_location=ufi) \.
 
 
-![Kara Tepe, Lesvos \(Because we carry\)](assets/8c4c70d7dcfc/1*nrvYOXOOKfzKJ_Xj2ckiKQ.jpeg)
+![Kara Tepe, Lesvos \(Because we carry\)](../assets/8c4c70d7dcfc/1*nrvYOXOOKfzKJ_Xj2ckiKQ.jpeg)
 
 Kara Tepe, Lesvos \(Because we carry\)
 
@@ -215,11 +215,11 @@ Soul Food Kitchen also need volunteers\. They have a jazzy video [here](https://
 #### **Italy**
 
 
-![](assets/8c4c70d7dcfc/1*sedGoPn9RszP-lBZPVRnng.jpeg)
+![](../assets/8c4c70d7dcfc/1*sedGoPn9RszP-lBZPVRnng.jpeg)
 
 
 
-![Pordenone \(photos by Sandra Uselli\)](assets/8c4c70d7dcfc/1*khTt6_FQiDPvuVcAfqrt2w.jpeg)
+![Pordenone \(photos by Sandra Uselli\)](../assets/8c4c70d7dcfc/1*khTt6_FQiDPvuVcAfqrt2w.jpeg)
 
 Pordenone \(photos by Sandra Uselli\)
 
@@ -264,7 +264,7 @@ If you are in Germany and have a court case going, you should give this article 
 
 
 
-![](assets/8c4c70d7dcfc/1*5RZBpcg_etBvoXIEDuJS9Q.jpeg)
+![](../assets/8c4c70d7dcfc/1*5RZBpcg_etBvoXIEDuJS9Q.jpeg)
 
 
 According to the [Mobile Info Team](https://web.facebook.com/mobileinfoteam/photos/a.1800063030222418.1073741830.1796286800600041/2048947152000670/?type=3&hc_location=ufi) Germany will increase border controls for flights from Greece until May 2018\.

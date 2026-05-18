@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,greece,homelessness,winter]
 description: Feature
 image:
-  path: assets/4be01e50b181/1*TrwYBk45VjwUoYGptZX27w.jpeg
+  path: ../assets/4be01e50b181/1*TrwYBk45VjwUoYGptZX27w.jpeg
 ---
 
 ### AYS DAILY DIGEST 5\.1\.17\- Additional homeless shelters available in Greece
@@ -16,7 +16,7 @@ image:
 With this winter proving to be a particularly cold one, those who find themselves without a roof over their head will be particularly at risk\. Among many of the homeless in Greece are, of course, refugees\. The infrastructure to keep the homeless warm has been expanding for a few weeks now, and it is exciting to see that more places are opening to keep people safe from the elements\. With snow expected to fall soon, these shelters may be vital to peoples’ survival\.
 
 
-![Photo by [kostasiaido](http://kostasiaido.deviantart.com/)](assets/4be01e50b181/1*TrwYBk45VjwUoYGptZX27w.jpeg)
+![Photo by [kostasiaido](http://kostasiaido.deviantart.com/)](../assets/4be01e50b181/1*TrwYBk45VjwUoYGptZX27w.jpeg)
 
 Photo by [kostasiaido](http://kostasiaido.deviantart.com/)
 
@@ -92,7 +92,7 @@ More Shelters available throughout Greece\. Please refer to the post of the [Mob
 #### Greece
 
 
-![A list of plans/promises made by the Greek government with regard to the camps](assets/4be01e50b181/1*XFhu06MQa7LD_A_lA0c8Dg.jpeg)
+![A list of plans/promises made by the Greek government with regard to the camps](../assets/4be01e50b181/1*XFhu06MQa7LD_A_lA0c8Dg.jpeg)
 
 A list of plans/promises made by the Greek government with regard to the camps
 ### Elliniko Warehouse in Pampiraiki reopens

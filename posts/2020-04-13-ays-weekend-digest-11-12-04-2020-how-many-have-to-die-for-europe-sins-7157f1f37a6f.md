@@ -1,20 +1,20 @@
 ---
-title: AYS Weekend Digest 11–12/04/2020: How many have to die for Europe sins?
+title: "AYS Weekend Digest 11–12/04/2020: How many have to die for Europe sins?"
 author: Are You Syrious?
 date: 2020-04-13T12:42:03.899+0100
 last_modified_at: 2020-04-13T19:36:39.668+0100
 categories: Are You Syrious?
 tags: [refugees,digest,mediterranean,sar,greece]
-description: Central Med: 4 boats in distress and 1 feared tragedy. Turkey: Reports of people on the move abandoned on the coast. And much more
+description: "Central Med: 4 boats in distress and 1 feared tragedy. Turkey: Reports of people on the move abandoned on the coast. And much more"
 image:
-  path: assets/7157f1f37a6f/1*XXCBeDt8dzm4ErmU7cd3Xg.jpeg
+  path: ../assets/7157f1f37a6f/1*XXCBeDt8dzm4ErmU7cd3Xg.jpeg
 ---
 
 ### AYS Weekend Digest 11–12/04/20: How many have to die for Europe’s sins?
 #### _4 boats in distress and one feared tragedy in the Central Med / Turkey: Reports of people on the move abandoned on the coast / Greece: Criminal complaint filed against coast guard / Cases of Covid\-19 confirmed among people on the move in Northern France and in detention centre in Schipol airport, The Netherlands\._
 
 
-![From Lesvos to the Central Med: We stand in solidarity with [\#AlanKurdi](https://twitter.com/hashtag/AlanKurdi?src=hashtag_click) \! \(Photo by [Mare Liberum e\.V\.](https://twitter.com/teammareliberum/status/1249292530979672070) \)](assets/7157f1f37a6f/1*XXCBeDt8dzm4ErmU7cd3Xg.jpeg)
+![From Lesvos to the Central Med: We stand in solidarity with [\#AlanKurdi](https://twitter.com/hashtag/AlanKurdi?src=hashtag_click) \! \(Photo by [Mare Liberum e\.V\.](https://twitter.com/teammareliberum/status/1249292530979672070) \)](../assets/7157f1f37a6f/1*XXCBeDt8dzm4ErmU7cd3Xg.jpeg)
 
 From Lesvos to the Central Med: We stand in solidarity with [\#AlanKurdi](https://twitter.com/hashtag/AlanKurdi?src=hashtag_click) \! \(Photo by [Mare Liberum e\.V\.](https://twitter.com/teammareliberum/status/1249292530979672070) \)
 #### Feature story — How many have to die for Europe’s sins?
@@ -104,7 +104,7 @@ In Malta, young people are [protesting against the](https://lovinmalta.com/news/
 In Italy, Mediterranea — Saving Humans launched a [digital flash mob](https://twitter.com/RescueMed/status/1249417560682115073) :
 
 
-![\#Savethem \#Leavenoonebehind \( [Mediterranea — Saving Humans](https://twitter.com/RescueMed/status/1249417560682115073) \)](assets/7157f1f37a6f/1*Dt7UC6oZWFrQZF_atQYWXw.jpeg)
+![\#Savethem \#Leavenoonebehind \( [Mediterranea — Saving Humans](https://twitter.com/RescueMed/status/1249417560682115073) \)](../assets/7157f1f37a6f/1*Dt7UC6oZWFrQZF_atQYWXw.jpeg)
 
 \#Savethem \#Leavenoonebehind \( [Mediterranea — Saving Humans](https://twitter.com/RescueMed/status/1249417560682115073) \)
 
@@ -153,7 +153,7 @@ From [Josoor English](https://www.facebook.com/josoor.english/posts/230307699665
 
 
 
-[![Refugees stranded on the Turkish coast close to the Greek islands](assets/7157f1f37a6f/d2d1_hqdefault.jpg "Refugees stranded on the Turkish coast close to the Greek islands")](https://www.youtube.com/watch?v=pgYpdIFxdlA)
+[![Refugees stranded on the Turkish coast close to the Greek islands](../assets/7157f1f37a6f/d2d1_hqdefault.jpg "Refugees stranded on the Turkish coast close to the Greek islands")](https://www.youtube.com/watch?v=pgYpdIFxdlA)
 
 
 
@@ -322,11 +322,11 @@ BOSNIA AND HERZEGOVINA
 When people try to leave these conditions and cross over into Croatia, further violence awaits for them\.
 
 
-![](assets/7157f1f37a6f/1*xumBJrDx2GDQbycO6t8dbg.jpeg)
+![](../assets/7157f1f37a6f/1*xumBJrDx2GDQbycO6t8dbg.jpeg)
 
 
 
-![\(Photo Credit: [Linea d’Ombra ODV](https://web.facebook.com/lineadombraODV/?__tn__=kC-R&eid=ARBGky458zJyw_Ws0UZ9du8dn4oGhuEt5aTcJrBK9lrK3gbmJX6vg2Mw-cX2wTTn1y7UONI9s5xb09bh&hc_ref=ARQln0zf_meBiGTijK7RlRF_MAtEmOewOqKI61RF_rOY3z5Ou1qNLyi8innlkwmjQB8&fref=nf&__xts__%5B0%5D=68.ARA-Vvzj5tlxS5oacHRC7URTzeawZ5GzimQeSsBO5kzPomHGfcrd0c79xcBa8evCBcjSsbeC_ckfidQj9t1gkUzz0g6fuQ-2cHK1ROJygvIU1Ty9soSa2JK1oEybXtXOhiaR3uBo9D57CrUCexnHYvoVHUFjFFg-UZkdc89kdTL6945AtqfnmO2rwVNrp5qsVeQJ1jVuhxjhTofzPx15p8FXeucHCvJRnZwiRnZFny2hrrJl4g8JaaFxnaX7zbFfZhPQqtOvyIjmnomKAsKq3ZBjFFREz1JVFctWfz8e1hCHscX7X4aa3zpUMvLDZyJYSb_TIHc3ZfHMoVT-wqFObEo) \)](assets/7157f1f37a6f/1*LARsdtWKDteqZUTcaEg-5g.jpeg)
+![\(Photo Credit: [Linea d’Ombra ODV](https://web.facebook.com/lineadombraODV/?__tn__=kC-R&eid=ARBGky458zJyw_Ws0UZ9du8dn4oGhuEt5aTcJrBK9lrK3gbmJX6vg2Mw-cX2wTTn1y7UONI9s5xb09bh&hc_ref=ARQln0zf_meBiGTijK7RlRF_MAtEmOewOqKI61RF_rOY3z5Ou1qNLyi8innlkwmjQB8&fref=nf&__xts__%5B0%5D=68.ARA-Vvzj5tlxS5oacHRC7URTzeawZ5GzimQeSsBO5kzPomHGfcrd0c79xcBa8evCBcjSsbeC_ckfidQj9t1gkUzz0g6fuQ-2cHK1ROJygvIU1Ty9soSa2JK1oEybXtXOhiaR3uBo9D57CrUCexnHYvoVHUFjFFg-UZkdc89kdTL6945AtqfnmO2rwVNrp5qsVeQJ1jVuhxjhTofzPx15p8FXeucHCvJRnZwiRnZFny2hrrJl4g8JaaFxnaX7zbFfZhPQqtOvyIjmnomKAsKq3ZBjFFREz1JVFctWfz8e1hCHscX7X4aa3zpUMvLDZyJYSb_TIHc3ZfHMoVT-wqFObEo) \)](../assets/7157f1f37a6f/1*LARsdtWKDteqZUTcaEg-5g.jpeg)
 
 \(Photo Credit: [Linea d’Ombra ODV](https://web.facebook.com/lineadombraODV/?__tn__=kC-R&eid=ARBGky458zJyw_Ws0UZ9du8dn4oGhuEt5aTcJrBK9lrK3gbmJX6vg2Mw-cX2wTTn1y7UONI9s5xb09bh&hc_ref=ARQln0zf_meBiGTijK7RlRF_MAtEmOewOqKI61RF_rOY3z5Ou1qNLyi8innlkwmjQB8&fref=nf&__xts__%5B0%5D=68.ARA-Vvzj5tlxS5oacHRC7URTzeawZ5GzimQeSsBO5kzPomHGfcrd0c79xcBa8evCBcjSsbeC_ckfidQj9t1gkUzz0g6fuQ-2cHK1ROJygvIU1Ty9soSa2JK1oEybXtXOhiaR3uBo9D57CrUCexnHYvoVHUFjFFg-UZkdc89kdTL6945AtqfnmO2rwVNrp5qsVeQJ1jVuhxjhTofzPx15p8FXeucHCvJRnZwiRnZFny2hrrJl4g8JaaFxnaX7zbFfZhPQqtOvyIjmnomKAsKq3ZBjFFREz1JVFctWfz8e1hCHscX7X4aa3zpUMvLDZyJYSb_TIHc3ZfHMoVT-wqFObEo) \)
 
@@ -363,7 +363,7 @@ They call for the use of empty hostels and hotels to house the most vulnerable d
 **Solidarity Support needed in Paris**
 
 
-![\(Photo Credit: [Solidarité migrants Wilson](https://web.facebook.com/Solidarité-migrants-Wilson-598228360377940/?__tn__=kC-R&eid=ARCUNOyAh43VwIYQcoxpL0O6bTklWmxS0apDBusnGj8rAfLxu6lhSksE8TJMLP7_poCcgoF_EHa4Bxwd&hc_ref=ARQhFrHsxTGLDouwvZxTa0DsBkjRv5Ktya5D2qIVixzWHEGOO7DnzIDFt-uqjbo35og&fref=nf&__xts__%5B0%5D=68.ARBdJ632WouE58jiojscohT9WVpKrRIfy0jK4U91HNYhnrhFaGi5dlx3n-ziyUCPscckjuV2gUAz84Cpnc-K3NmJbLYkXMsbDt42lwDANcMg3ey4eRizmJ3FADynU6fLq_ycRdVwN_xFZpqtHWTBpAjvciJt0ge81dHjzGUYMf-VMQD0Ps8vrR0ltCzJpOxqScsGtorflT0H8imv4kzA8hSZSCLxjHbl_b5ykbWW3mCGHxHZHrSmdPzboGxUfXF85XyVkjIqVjI64yez_-jtn41GCl0X6enVN9SbF1uWlfuttguvLW4LpgJKniSrp-_9W5kkbixoSmUXzsRXtmC32v_mAg) \)](assets/7157f1f37a6f/1*s8HxZkFgC5Chxlamwoop5g.jpeg)
+![\(Photo Credit: [Solidarité migrants Wilson](https://web.facebook.com/Solidarité-migrants-Wilson-598228360377940/?__tn__=kC-R&eid=ARCUNOyAh43VwIYQcoxpL0O6bTklWmxS0apDBusnGj8rAfLxu6lhSksE8TJMLP7_poCcgoF_EHa4Bxwd&hc_ref=ARQhFrHsxTGLDouwvZxTa0DsBkjRv5Ktya5D2qIVixzWHEGOO7DnzIDFt-uqjbo35og&fref=nf&__xts__%5B0%5D=68.ARBdJ632WouE58jiojscohT9WVpKrRIfy0jK4U91HNYhnrhFaGi5dlx3n-ziyUCPscckjuV2gUAz84Cpnc-K3NmJbLYkXMsbDt42lwDANcMg3ey4eRizmJ3FADynU6fLq_ycRdVwN_xFZpqtHWTBpAjvciJt0ge81dHjzGUYMf-VMQD0Ps8vrR0ltCzJpOxqScsGtorflT0H8imv4kzA8hSZSCLxjHbl_b5ykbWW3mCGHxHZHrSmdPzboGxUfXF85XyVkjIqVjI64yez_-jtn41GCl0X6enVN9SbF1uWlfuttguvLW4LpgJKniSrp-_9W5kkbixoSmUXzsRXtmC32v_mAg) \)](../assets/7157f1f37a6f/1*s8HxZkFgC5Chxlamwoop5g.jpeg)
 
 \(Photo Credit: [Solidarité migrants Wilson](https://web.facebook.com/Solidarité-migrants-Wilson-598228360377940/?__tn__=kC-R&eid=ARCUNOyAh43VwIYQcoxpL0O6bTklWmxS0apDBusnGj8rAfLxu6lhSksE8TJMLP7_poCcgoF_EHa4Bxwd&hc_ref=ARQhFrHsxTGLDouwvZxTa0DsBkjRv5Ktya5D2qIVixzWHEGOO7DnzIDFt-uqjbo35og&fref=nf&__xts__%5B0%5D=68.ARBdJ632WouE58jiojscohT9WVpKrRIfy0jK4U91HNYhnrhFaGi5dlx3n-ziyUCPscckjuV2gUAz84Cpnc-K3NmJbLYkXMsbDt42lwDANcMg3ey4eRizmJ3FADynU6fLq_ycRdVwN_xFZpqtHWTBpAjvciJt0ge81dHjzGUYMf-VMQD0Ps8vrR0ltCzJpOxqScsGtorflT0H8imv4kzA8hSZSCLxjHbl_b5ykbWW3mCGHxHZHrSmdPzboGxUfXF85XyVkjIqVjI64yez_-jtn41GCl0X6enVN9SbF1uWlfuttguvLW4LpgJKniSrp-_9W5kkbixoSmUXzsRXtmC32v_mAg) \)
 

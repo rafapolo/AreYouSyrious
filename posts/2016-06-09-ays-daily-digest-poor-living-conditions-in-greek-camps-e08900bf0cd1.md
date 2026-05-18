@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe]
 description: Pre-registration has started on the Greek mainland. Desperate situation in Chios for unaccompanied minors. Greek appeals committee rules in…
 image:
-  path: assets/e08900bf0cd1/0*oaQSy1KOdY8nR3rR.
+  path: ../assets/e08900bf0cd1/0*oaQSy1KOdY8nR3rR.
 ---
 
 ### AYS DAILY DIGEST — Poor Living Conditions in Greek Camps
 #### Pre\-registration has started on the Greek mainland\. Desperate situation in Chios for unaccompanied minors\. Greek appeals committee rules in favor of 35 refugees, calls Turkey ‘unsafe’\. Asylum\-seekers in terrible situation outside Hungary’s transit zones\.
 
 
-![Photo by [Marios Lolos](https://www.facebook.com/marios.lolos.1?fref=photo)](assets/e08900bf0cd1/0*oaQSy1KOdY8nR3rR.)
+![Photo by [Marios Lolos](https://www.facebook.com/marios.lolos.1?fref=photo)](../assets/e08900bf0cd1/0*oaQSy1KOdY8nR3rR.)
 
 Photo by [Marios Lolos](https://www.facebook.com/marios.lolos.1?fref=photo)
 #### Syria
@@ -27,7 +27,7 @@ The “Islamic State” retreats from villages in the Aleppo countryside as the 
 Salam LADC is expanding its social activities with Syrian refugees in the Bekaa Valley, especially its Play with Purpose project which has a strong educational emphasis\. The organization is looking for Arabic/English translators who are motivated to work on a regular and volunteer basis\. You can contact them at volunteeringlebanon@gmail\.com\.
 
 
-![Photo by Salam LADC](assets/e08900bf0cd1/0*7fDR-eaMZPfpCf91.)
+![Photo by Salam LADC](../assets/e08900bf0cd1/0*7fDR-eaMZPfpCf91.)
 
 Photo by Salam LADC
 #### Turkey
@@ -40,7 +40,7 @@ The Association for Solidarity with Refugees \(Mülteci\-Der\) has released its 
 Turkey has intercepted 30,599 individuals on land or at sea so far this year, and 160,696 since 2007
 
 
-![Map by UNHCR including number of departure points and interceptions](assets/e08900bf0cd1/1*Bxq6UaRlMHEXVBx86encGw.png)
+![Map by UNHCR including number of departure points and interceptions](../assets/e08900bf0cd1/1*Bxq6UaRlMHEXVBx86encGw.png)
 
 Map by UNHCR including number of departure points and interceptions
 #### EU
@@ -66,14 +66,14 @@ None of the visited camps have adequate medical care and in case of medical emer
 The living conditions will be even more difficult during Ramadan, as fasting will last much longer in Greece than in the Middle\-East \(due to Greece’s lengthier daylight period\) \. Living in tents under a withering heat will make fasting even harder\.
 
 
-![Children English class for beginners at the Eko station camp\. Photo by: Eko Projekt](assets/e08900bf0cd1/0*2CmhLx5gx_V2iGw2.)
+![Children English class for beginners at the Eko station camp\. Photo by: Eko Projekt](../assets/e08900bf0cd1/0*2CmhLx5gx_V2iGw2.)
 
 Children English class for beginners at the Eko station camp\. Photo by: Eko Projekt
 
 These reports focus on the overall situation and it is often easy to forget that individual tragedies are taking place inside those camps\. This [text and its photos](https://www.facebook.com/clement.martz/posts/10209767726656120?hc_location=ufi) perfectly capture what it is like to be uprooted from your normal life and forced to live in a refugee camp\.
 
 
-![Photo by: Clément Martz](assets/e08900bf0cd1/0*GiTpGQmoiwSc-InA.)
+![Photo by: Clément Martz](../assets/e08900bf0cd1/0*GiTpGQmoiwSc-InA.)
 
 Photo by: Clément Martz
 ### Voluntary relocation from Hara and BP station already started
@@ -99,18 +99,18 @@ Many unaccompanied minors in Chios have said they do not feel safe in the camp a
 As the tourist season starts, Greek authorities are trying to empty the Piraeus port\. 300 single men were relocated in a peaceful manner to Elefsina camp today\.
 
 
-![Photo by: Neca Dantas](assets/e08900bf0cd1/0*E6oknXM_YoUckd05.)
+![Photo by: Neca Dantas](../assets/e08900bf0cd1/0*E6oknXM_YoUckd05.)
 
 Photo by: Neca Dantas
 ### Protests over living conditions at the Hospitality Center in Malakasas
 
 
-![Photo by: Marios Lolos](assets/e08900bf0cd1/0*GGjxF5JM3bLEAY4B.)
+![Photo by: Marios Lolos](../assets/e08900bf0cd1/0*GGjxF5JM3bLEAY4B.)
 
 Photo by: Marios Lolos
 
 
-![Photo by: Marios Lolos](assets/e08900bf0cd1/0*vUIBou1FEk7b6tY8.)
+![Photo by: Marios Lolos](../assets/e08900bf0cd1/0*vUIBou1FEk7b6tY8.)
 
 Photo by: Marios Lolos
 ### Volunteers needed throughout Greece

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 12/06/2019: A Year After Ports Closed, Italy Passes New Deadly Decree
+title: "AYS Daily Digest 12/06/2019: A Year After Ports Closed, Italy Passes New Deadly Decree"
 author: Are You Syrious?
 date: 2019-06-13T13:27:09.761+0100
 last_modified_at: 2019-06-13T13:54:39.736+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest]
 description: People moved from Zintan Detention Centre in Libya//Concerning Developments in Bosnian Detention Centres//Hunger Strike in Austria //…
 image:
-  path: assets/dae50baa800b/0*hY6l-DZiyQ6vnSxU
+  path: ../assets/dae50baa800b/0*hY6l-DZiyQ6vnSxU
 ---
 
 ### AYS Daily Digest 12/06/2019: A Year After Ports Closed, Italy Passes New Deadly Decree
@@ -15,7 +15,7 @@ image:
 People moved from Zintan Detention Centre in Libya//Concerning Developments in Bosnian Detention Centres //Hunger Strike in Austria // Lawsuit against Conditions in Samos//More news from Greece, France and more…
 
 
-![](assets/dae50baa800b/0*hY6l-DZiyQ6vnSxU)
+![](../assets/dae50baa800b/0*hY6l-DZiyQ6vnSxU)
 
 ### Feature: A New Law has been passed in Italy **‘Decreto Sicurezza Bis,’** that among other things, means exorbitant fees for all who dare to save lives at sea\.
 
@@ -47,11 +47,11 @@ On a final note [, it is important to underline tha](https://www.articolo21.org/
 Refugees from the Zintan detention center have been transferred to a new place\. Due to the small size, the center is severely overcrowded with many being forced to sleep outside\. Lack of food has been reported at the center\. The detainees fear of the spread of TB\.
 
 
-![](assets/dae50baa800b/0*hfjnWsO7IGRcySR3)
+![](../assets/dae50baa800b/0*hfjnWsO7IGRcySR3)
 
 
 
-![](assets/dae50baa800b/0*rMU5VTV07qsnU1aI)
+![](../assets/dae50baa800b/0*rMU5VTV07qsnU1aI)
 
 #### Bosnia:
 
@@ -60,11 +60,11 @@ On Wednesday, a young father from Afghanistan reportedly drowned in the River Un
 In the aftermath of the recent fire and fights at Miral camp in Velika Kladuša, the situation in the town has been unusually calm, although with an almost palpable atmosphere of fear and distrust on all sides: of the locals, of those staying at the camp, and of many of those who are for one reason or another are not allowed into the camp\.
 
 
-![](assets/dae50baa800b/0*7fhoFo5GRGGFgyQe)
+![](../assets/dae50baa800b/0*7fhoFo5GRGGFgyQe)
 
 
 
-![Photos By AYS\.](assets/dae50baa800b/0*nH8IeGviqBQj6W7Z)
+![Photos By AYS\.](../assets/dae50baa800b/0*nH8IeGviqBQj6W7Z)
 
 Photos By AYS\.
 
@@ -117,7 +117,7 @@ As the Programme leader for Refugee Rescue, you will be involved with all facets
 Reports Arash\. Lack of consideration for the fact that some of them lost children and family members — they are transported on buses and forced to wait for registration and screening by Frontex, reports **Efi Latsoudi\.**
 
 
-![Photo by Efi Latsoudi](assets/dae50baa800b/0*hY6l-DZiyQ6vnSxU)
+![Photo by Efi Latsoudi](../assets/dae50baa800b/0*hY6l-DZiyQ6vnSxU)
 
 Photo by Efi Latsoudi
 #### [Still, I Rise](https://www.facebook.com/stilliriseNGO/photos/pcb.425807718012792/425807611346136/?type=3&theater) has filed a lawsuit against management of the Refugee Hotspot on Samos\.
@@ -130,7 +130,7 @@ Photo by Efi Latsoudi
 
 
 
-![Photo bY Still I Rise](assets/dae50baa800b/0*Gv6eDsR2r9iQZ_Sb)
+![Photo bY Still I Rise](../assets/dae50baa800b/0*Gv6eDsR2r9iQZ_Sb)
 
 Photo bY Still I Rise
 #### Inhumane Conditions in Malakassa Camp

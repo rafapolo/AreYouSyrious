@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 31/05/2018: Two refugee children shot by Croatian police
+title: "AYS Daily Digest 31/05/2018: Two refugee children shot by Croatian police"
 author: Are You Syrious?
 date: 2018-06-01T16:35:00.368+0100
 last_modified_at: 2018-06-01T16:38:21.167+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [europe,refugees,sea,volunteering,greece]
 description: Donations needed in Bosnia, Greece, and France / Evictions continue in Calais / Report on living conditions on Rhodes / And more news…
 image:
-  path: assets/5c3c811e0f07/0*T5KTZ-J4_WIUNnkM
+  path: ../assets/5c3c811e0f07/0*T5KTZ-J4_WIUNnkM
 ---
 
 ### AYS Daily Digest 31/05/2018: Two refugee children shot by Croatian police
@@ -15,7 +15,7 @@ image:
 _Donations needed in Bosnia, Greece, and France / Evictions continue in Calais / Report on living conditions on Rhodes / And more news…_
 
 
-![Photo by Dino Stanin/Pixsell](assets/5c3c811e0f07/0*T5KTZ-J4_WIUNnkM)
+![Photo by Dino Stanin/Pixsell](../assets/5c3c811e0f07/0*T5KTZ-J4_WIUNnkM)
 
 Photo by Dino Stanin/Pixsell
 ### FEATURE: Violence against refugees persists along the Croatian border
@@ -43,7 +43,7 @@ In Velika Kladusa, donations are needed to to reconstruct two old containers and
 #### Donations needed on Lesvos
 
 
-![Photo by Drop in the Ocean](assets/5c3c811e0f07/0*ciTJQRiTo2ZEPANT)
+![Photo by Drop in the Ocean](../assets/5c3c811e0f07/0*ciTJQRiTo2ZEPANT)
 
 Photo by Drop in the Ocean
 
@@ -52,7 +52,7 @@ Donations are needed in Lesvos, after over 600 people left Moria as the result o
 You can support [Refugees4Refugees](https://refugee4refugees.org/donate/) financially here or support [Humans for Humanity](https://www.gofundme.com/aid-4-refugees-feed-clothe-heal) directly here, so that they can buy essential goods such as food and water\.
 
 
-![Photo by Refugees4Refugees](assets/5c3c811e0f07/0*DFQySbCAhp_mBm-h)
+![Photo by Refugees4Refugees](../assets/5c3c811e0f07/0*DFQySbCAhp_mBm-h)
 
 Photo by Refugees4Refugees
 #### Donations needed in Athens
@@ -79,7 +79,7 @@ Among the prisoners are a pregnant woman, three minors of six–eight years old,
 #### Donations and volunteers needed in and around Calais
 
 
-![](assets/5c3c811e0f07/0*UGt_u8yOAa_TUoju)
+![](../assets/5c3c811e0f07/0*UGt_u8yOAa_TUoju)
 
 
 Help Refugees has run out of tents in the Calais warehouse and needs [donations](https://donate.helprefugees.org/campaigns/northern-france/) to replenish their stocks\. Refugee Info Bus notes that evictions take place three to five times a week and often end with the destruction of tents and personal belongings, which explains the constant need for new donations\. A volunteer for l’Auberge des Migrants says two evictions took place on Thursday morning, with tents distributed on Tuesday destroyed in less than 36 hours\.
@@ -90,14 +90,14 @@ The School Bus Project needs a Team Lead in Northern France, “ passionate abou
 #### Protest against immigration and asylum law to take place in Paris
 
 
-![](assets/5c3c811e0f07/0*PI3cBqFeGWkKEWkq)
+![](../assets/5c3c811e0f07/0*PI3cBqFeGWkKEWkq)
 
 
 On Saturday, a big [protest](https://www.facebook.com/events/371196976720656/) against the new asylum and immigration law will take place in Paris\.
 ### SEA
 
 
-![](assets/5c3c811e0f07/0*AoMARRwoJcUcJXJR)
+![](../assets/5c3c811e0f07/0*AoMARRwoJcUcJXJR)
 
 
 SOS Méditerranée has rescued 158 people off the Libyan coast, including 26 women and nine children\. They come from West Africa, Bangladesh, Sudan, and Morocco\.

@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 15.04.2017: Discrimination legalised in Italy
+title: "AYS DAILY DIGEST 15.04.2017: Discrimination legalised in Italy"
 author: Are You Syrious?
 date: 2017-04-16T01:43:02.658+0100
 last_modified_at: 2017-04-16T16:58:25.235+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,italy,racial-law,greek-islands]
 description: Racial law adopted in Italy despite strong opposition from civic society / More victims in Syria /Extension to Bulgaria-Turkey border fence…
 image:
-  path: assets/fcefb6bec65b/1*udor2ESPQSDB1gZCO70xvg.jpeg
+  path: ../assets/fcefb6bec65b/1*udor2ESPQSDB1gZCO70xvg.jpeg
 ---
 
 
@@ -16,7 +16,7 @@ AYS DAILY DIGEST 15\.04\.2017: Discrimination legalised in Italy
 _Racial law adopted in Italy despite strong opposition from civic society / More victims in Syria /Extension to Bulgaria\-Turkey border fence /An appeal for the refugees at Gare du Nord / AYS has produced and delivered to Serbia our first mobile shower trailer /_
 
 
-![War brings more war\. By Anne Derenne \( [Art Against](https://www.facebook.com/artagainstproject/) \)](assets/fcefb6bec65b/1*udor2ESPQSDB1gZCO70xvg.jpeg)
+![War brings more war\. By Anne Derenne \( [Art Against](https://www.facebook.com/artagainstproject/) \)](../assets/fcefb6bec65b/1*udor2ESPQSDB1gZCO70xvg.jpeg)
 
 War brings more war\. By Anne Derenne \( [Art Against](https://www.facebook.com/artagainstproject/) \)
 
@@ -40,7 +40,7 @@ Former CIEs \(Centres for identification and expulsion\) will increase from 4 to
 Voluntary social work for asylum seekers has been at the centre of the media debate over immigration in Italy for some time now, as it symbolically encompasses several commonplaces \- or post\-truths \- of the last months media coverage: the indolence of migrants, their parasitical role, the public money spent to provide board and accommodation to migrants, stigmatized in the motto “migrants in hotels, Italians in tents” promptly diffused by several right\-wing politicians after the tragic earthquakes in 2016; the need for a contribution to the welcoming society\. The new law gives a legal basis to local projects and personal initiatives of the last months, transforming a voluntary choice to provide a service for the community into a morally enforced scheme of free labour\.
 
 
-![There is not Italy without us\. Photo by La Republica\.](assets/fcefb6bec65b/1*HMfQe5rkT-QCnW2SObdUxA.jpeg)
+![There is not Italy without us\. Photo by La Republica\.](../assets/fcefb6bec65b/1*HMfQe5rkT-QCnW2SObdUxA.jpeg)
 
 There is not Italy without us\. Photo by La Republica\.
 
@@ -93,7 +93,7 @@ On Thursday the [Baobab camp](https://www.facebook.com/HelpRefugeesUK/photos/a.1
 Local groups continue to work in solidarity with those who have been made homeless and Baobab Experience are calling for donations of tents and sleeping bags\.
 
 
-![Another raid in Rome\. Photo by Baobab](assets/fcefb6bec65b/1*MEOQYxHYiHZmfrnvrp160Q.jpeg)
+![Another raid in Rome\. Photo by Baobab](../assets/fcefb6bec65b/1*MEOQYxHYiHZmfrnvrp160Q.jpeg)
 
 Another raid in Rome\. Photo by Baobab
 ### Croatia/Serbia
@@ -104,7 +104,7 @@ After the great success of our mobile kitchen trailer that’s currently operate
 By providing logistics and other forms of support to teams who are already on the ground, we are strengthening ties between volunteer teams and reducing costs for everyone\. Of course, AYS still remains present in the field when and where additional support and personnel is needed\.
 
 
-![Photo by AYS\.](assets/fcefb6bec65b/1*L3JECcuwHFX_Nb7pdl8ZRA.jpeg)
+![Photo by AYS\.](../assets/fcefb6bec65b/1*L3JECcuwHFX_Nb7pdl8ZRA.jpeg)
 
 Photo by AYS\.
 

@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 25/10/22: Two infants found dead in the Mediterranean
+title: "AYS News Digest 25/10/22: Two infants found dead in the Mediterranean"
 author: Are You Syrious?
 date: 2022-10-25T13:09:01.174+0100
 last_modified_at: 2022-10-25T14:29:34.753+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: []
 description: 400 people’s lives are currently at risk off Sicily // Bulgarian hospitals are ‘full’ of unidentified bodies // Violence on the Romanian…
 image:
-  path: assets/b7db883274ed/0*EwiZsGH-VwJ8EvIm.jpeg
+  path: ../assets/b7db883274ed/0*EwiZsGH-VwJ8EvIm.jpeg
 ---
 
 ### AYS News Digest 25/10/22: Two infants found dead in the Mediterranean
@@ -16,14 +16,14 @@ image:
 #### Two infants found dead on a boat in the Mediterranean
 
 
-![AP Photo/David Lohmueller](assets/b7db883274ed/0*EwiZsGH-VwJ8EvIm.jpeg)
+![AP Photo/David Lohmueller](../assets/b7db883274ed/0*EwiZsGH-VwJ8EvIm.jpeg)
 
 AP Photo/David Lohmueller
 
 The Italian coast guard recovered the bodies of two infants, aged one and two years old, last Friday\. Disabled by an explosion in waters off Malta, 36 survivors from a boat carrying 40 individuals have now been rescued and taken to Lampedusa\. One woman remains missing\. The cause of death is thought to be severe burns\.
 
 
-![A survivor disembarks in Lampedusa\. AP Photo/David Lohmueller\.](assets/b7db883274ed/0*QRwHh8J7ecfE1o5e.jpeg)
+![A survivor disembarks in Lampedusa\. AP Photo/David Lohmueller\.](../assets/b7db883274ed/0*QRwHh8J7ecfE1o5e.jpeg)
 
 A survivor disembarks in Lampedusa\. AP Photo/David Lohmueller\.
 #### SEARCH AND RESCUE \(SAR\)
@@ -107,7 +107,7 @@ _AP_ report:
 #### Hospitals in Burgas are ‘full’ of unidentified bodies
 
 
-![Credit: @lupa\.bg](assets/b7db883274ed/0*YXyXIzor5aRbbfVK.jpg)
+![Credit: @lupa\.bg](../assets/b7db883274ed/0*YXyXIzor5aRbbfVK.jpg)
 
 Credit: @lupa\.bg
 
@@ -174,7 +174,7 @@ No Name Kitchen have published a recent testimony from the Romanian/Serbian bord
 #### **The EU puts pressure on Serbia’s no\-visa relationships**
 
 
-![Police officers on the Serbia\-Hungary border Credit: Tibor Rosta/MTI](assets/b7db883274ed/0*LXIwaPlR5DM1uS6z.jpg)
+![Police officers on the Serbia\-Hungary border Credit: Tibor Rosta/MTI](../assets/b7db883274ed/0*LXIwaPlR5DM1uS6z.jpg)
 
 Police officers on the Serbia\-Hungary border Credit: Tibor Rosta/MTI
 
@@ -236,7 +236,7 @@ See below for more on OLAF’s report:
 #### Hundreds of refugees deported to Syria
 
 
-![Smoke billows from Russian airstrikes near Syria’s Bab al\-Hawa \(Cilvegözü\) border crossing with Turkey on September 27, 2022, according to AFP correspondents and the Britain\-based Syrian Observatory for Human Rights\. © 2022 Omar Haj Kadour/AFP via Getty Images](assets/b7db883274ed/0*wbpO3OsuMqhz1JKy)
+![Smoke billows from Russian airstrikes near Syria’s Bab al\-Hawa \(Cilvegözü\) border crossing with Turkey on September 27, 2022, according to AFP correspondents and the Britain\-based Syrian Observatory for Human Rights\. © 2022 Omar Haj Kadour/AFP via Getty Images](../assets/b7db883274ed/0*wbpO3OsuMqhz1JKy)
 
 Smoke billows from Russian airstrikes near Syria’s Bab al\-Hawa \(Cilvegözü\) border crossing with Turkey on September 27, 2022, according to AFP correspondents and the Britain\-based Syrian Observatory for Human Rights\. © 2022 Omar Haj Kadour/AFP via Getty Images
 
@@ -254,7 +254,7 @@ It is REALLY WORTH READING the full piece below:
 #### Investigations into new smuggling networks
 
 
-![Photo by [JOHN TOWNER](https://unsplash.com/@heytowner?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](assets/b7db883274ed/0*amoWjfw352Wqa8Ne)
+![Photo by [JOHN TOWNER](https://unsplash.com/@heytowner?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](../assets/b7db883274ed/0*amoWjfw352Wqa8Ne)
 
 Photo by [JOHN TOWNER](https://unsplash.com/@heytowner?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
@@ -315,7 +315,7 @@ RSA has produced a mini\-documentary, following four Afghan families who collect
 
 
 
-[![The new "Cartoneros" of Athens](assets/b7db883274ed/5c50_hqdefault.jpg "The new "Cartoneros" of Athens")](https://www.youtube.com/watch?v=NfTPGume_3Y)
+[![The new "Cartoneros" of Athens](../assets/b7db883274ed/5c50_hqdefault.jpg "The new "Cartoneros" of Athens")](https://www.youtube.com/watch?v=NfTPGume_3Y)
 
 
 Read more about the ‘Cartoneros’ of Athens [here](https://rsaegean.org/en/the-new-cartoneros-of-athens/?fbclid=IwAR1Mo4yp2zAq3x788X_0YHqF9pZrPLd6IhASm8t6pJg_jw6khU9ZDhjarC0) \.
@@ -338,7 +338,7 @@ Two Syrian activists in Greece, Wael and Karim, have had their asylum revoked\. 
 #### Arson suspected as fire destroys a shelter for Ukrainian refugees near Wismar
 
 
-![_A fire destroyed accommodation in Wismar, NE Germany, where Ukrainian refugees were staying in Germany \| Photo: Jens Büttner / dpa / picture alliance_](assets/b7db883274ed/0*a-vWRhH7Tvk6d5bX.jpg)
+![_A fire destroyed accommodation in Wismar, NE Germany, where Ukrainian refugees were staying in Germany \| Photo: Jens Büttner / dpa / picture alliance_](../assets/b7db883274ed/0*a-vWRhH7Tvk6d5bX.jpg)
 
 _A fire destroyed accommodation in Wismar, NE Germany, where Ukrainian refugees were staying in Germany \| Photo: Jens Büttner / dpa / picture alliance_
 

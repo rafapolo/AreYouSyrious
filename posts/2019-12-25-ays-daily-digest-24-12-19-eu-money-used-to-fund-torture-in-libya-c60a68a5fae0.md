@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 24/12/19: EU money used to fund torture in Libya
+title: "AYS Daily Digest 24/12/19: EU money used to fund torture in Libya"
 author: Are You Syrious?
 date: 2019-12-25T14:29:49.399+0000
 last_modified_at: 2019-12-25T14:30:56.776+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,libya,syrian-refugees,bosnia,migrants]
 description: Ocean Viking allowed to disembark, 159 survivors reach safety // So far in 2019, 53,443 people arrived in Greece by sea // Phone chargers…
 image:
-  path: assets/c60a68a5fae0/1*UxyqwJpppt1JeTy73U_tMA.jpeg
+  path: ../assets/c60a68a5fae0/1*UxyqwJpppt1JeTy73U_tMA.jpeg
 ---
 
 ### AYS Daily Digest 24/12/19: EU money used to fund torture in Libya
 #### Ocean Viking allowed to disembark, 159 survivors reach safety // **So far in 2019, 53,443 people arrived in Greece by sea // The White Helmets document new civillian tragedies in Syria //** Phone chargers arrive to Tuzla bus station in Bosnia // A man deported to Afghanistan after 10 years in Hungary // Boris Johnson’s Brexit bill removes legal protection for child refugees in the UK
 
 
-![Moria, Lesvos, Greece \(Photo: [Knut Bry](https://web.facebook.com/knut.bry?__tn__=%2Cd%2AF%2AF-R&eid=ARA24QHnw0e5lXhGXkAn4da_KQaAYnNP1uy2GBSBDEPuk6t_GLUQg6R-nfmorKQFrf46-4VvMRxPwGOk&tn-str=%2AF&hc_location=group_dialog) \)](assets/c60a68a5fae0/1*UxyqwJpppt1JeTy73U_tMA.jpeg)
+![Moria, Lesvos, Greece \(Photo: [Knut Bry](https://web.facebook.com/knut.bry?__tn__=%2Cd%2AF%2AF-R&eid=ARA24QHnw0e5lXhGXkAn4da_KQaAYnNP1uy2GBSBDEPuk6t_GLUQg6R-nfmorKQFrf46-4VvMRxPwGOk&tn-str=%2AF&hc_location=group_dialog) \)](../assets/c60a68a5fae0/1*UxyqwJpppt1JeTy73U_tMA.jpeg)
 
 Moria, Lesvos, Greece \(Photo: [Knut Bry](https://web.facebook.com/knut.bry?__tn__=%2Cd%2AF%2AF-R&eid=ARA24QHnw0e5lXhGXkAn4da_KQaAYnNP1uy2GBSBDEPuk6t_GLUQg6R-nfmorKQFrf46-4VvMRxPwGOk&tn-str=%2AF&hc_location=group_dialog) \)
 #### FEATURED
@@ -40,7 +40,7 @@ Human trafficking, abduction, detention and extortion of migrants and refugees c
 
 
 
-![](assets/c60a68a5fae0/0*1f9rQyG6Y3mTLOtl.jpg)
+![](../assets/c60a68a5fae0/0*1f9rQyG6Y3mTLOtl.jpg)
 
 
 
@@ -108,7 +108,7 @@ We have long considered whether to publish these reports. We decided to do this 
 
 
 
-![](assets/c60a68a5fae0/0*vz-wi3oPE0E4dAqm)
+![](../assets/c60a68a5fae0/0*vz-wi3oPE0E4dAqm)
 
 
 Despite the bad weather, two boats have arrived on Lesvos since last night, carrying 101 people\. We have no further information on arrivals on the other Aegean islands\.
@@ -141,7 +141,7 @@ A Drop in the Ocean will reimburse expenses related to travel to the location, r
 ### Phone chargers arrive to Tuzla bus station, where people sleep in conditions below minimum dignity
 
 
-![](assets/c60a68a5fae0/1*tQRRoyBEDM5Shv7KoE6kKQ.png)
+![](../assets/c60a68a5fae0/1*tQRRoyBEDM5Shv7KoE6kKQ.png)
 
 
 Migrants sleeping rough at the Tuzla bus station below every minimum of human dignity, apart from the cold and life\-threatening illnesses are also facing an inability to use electricity to charge their cell phones\. For them, phones are the only connection to families eagerly awaiting their call, and the only means of orientation on their difficult journey\. In order to alleviate this major problem, the association [Zemlja djece u BiH](https://www.facebook.com/zemljadjece/) , which has been helping migrant families with unaccompanied children and minors for months in many ways, has decided to undertake the construction and installation of a solar pillar on the plateau of the Tuzla Railway Station\. With the consent of the FBiH Railways, and the financial support of the Tuzla Community Foundation, last night, despite the heavy rain, the Association has set up a pillar and the first users, whose happiness is hard to describe in words, are already charging their cell phones\! This Association points out that the migrants themselves did all the physical work that was necessary to pour the plinth and install this pillar\.
@@ -164,11 +164,11 @@ Since recently, another volunteer team is active in the city\.
 As all of the camps in Bihać and the surrounding area are officially full, the desperate people who end up in the city, either by being pushed back or arriving from Tuzla and other places with no official refugee reception centres, come to the closed doors\. Some try to enter, some succeed, but they have problems exiting unless they want to leave the centre for good, so they hide within the camp, trying not to draw any attention to them, some living in small tents within the camp, while others share places with people they know inside the camp\. Those who are not properly registered can’t get food in the camp\.
 
 
-![](assets/c60a68a5fae0/1*d-Y4UN2bH1WwqjxkGXEIRw.jpeg)
+![](../assets/c60a68a5fae0/1*d-Y4UN2bH1WwqjxkGXEIRw.jpeg)
 
 
 
-![Photos: [Lorena Fornasir](https://web.facebook.com/lorena.fornasir?__tn__=%2CdC-R-R&eid=ARBu02ztqD_SdzHK_vLPLj3G9NR7GYX1TlFuZaEfTBkThV2wujXDZfL2Ly4yTpSQ3YkAzRMAwm_TUly4&hc_ref=ARQ2CGTbjgh9tD-Us1Cm8cqSMemdxb9rcH-aus6c3pYxN2GmQ-CkuHQ1b4i4wOWRu7k&fref=nf)](assets/c60a68a5fae0/1*ZrysreYH5P2ZAOPngA_QUQ.jpeg)
+![Photos: [Lorena Fornasir](https://web.facebook.com/lorena.fornasir?__tn__=%2CdC-R-R&eid=ARBu02ztqD_SdzHK_vLPLj3G9NR7GYX1TlFuZaEfTBkThV2wujXDZfL2Ly4yTpSQ3YkAzRMAwm_TUly4&hc_ref=ARQ2CGTbjgh9tD-Us1Cm8cqSMemdxb9rcH-aus6c3pYxN2GmQ-CkuHQ1b4i4wOWRu7k&fref=nf)](../assets/c60a68a5fae0/1*ZrysreYH5P2ZAOPngA_QUQ.jpeg)
 
 Photos: [Lorena Fornasir](https://web.facebook.com/lorena.fornasir?__tn__=%2CdC-R-R&eid=ARBu02ztqD_SdzHK_vLPLj3G9NR7GYX1TlFuZaEfTBkThV2wujXDZfL2Ly4yTpSQ3YkAzRMAwm_TUly4&hc_ref=ARQ2CGTbjgh9tD-Us1Cm8cqSMemdxb9rcH-aus6c3pYxN2GmQ-CkuHQ1b4i4wOWRu7k&fref=nf)
 

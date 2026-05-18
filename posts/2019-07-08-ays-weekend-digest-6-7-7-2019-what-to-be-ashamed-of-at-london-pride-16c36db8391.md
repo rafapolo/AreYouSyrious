@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 6–7.7.2019: What to be ashamed of at London Pride
+title: "AYS Weekend Digest 6–7.7.2019: What to be ashamed of at London Pride"
 author: Are You Syrious?
 date: 2019-07-08T11:19:30.744+0100
 last_modified_at: 2019-07-08T12:02:13.416+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,pride,bosnia,digest,italy]
 description: The Shame of Pinkwashing // Over 500 people killed by airstrikes in Syria in last two months  // Increased presence and desperate need for…
 image:
-  path: assets/16c36db8391/1*5y_pq4axG_i4cNb8JoZw7A.jpeg
+  path: ../assets/16c36db8391/1*5y_pq4axG_i4cNb8JoZw7A.jpeg
 ---
 
 ### AYS Weekend Digest 6–7\.7\.2019: What to be ashamed of at London Pride
@@ -15,7 +15,7 @@ image:
 _The Shame of Pinkwashing // Over 500 people killed by airstrikes in Syria in last two months // Increased presence and desperate need for support across the Western Balkans // Protest against unsafe detention in Libya enters third day…_
 
 
-![Photo Credit: Lesbians and Gays Support the Migrants\.](assets/16c36db8391/1*5y_pq4axG_i4cNb8JoZw7A.jpeg)
+![Photo Credit: Lesbians and Gays Support the Migrants\.](../assets/16c36db8391/1*5y_pq4axG_i4cNb8JoZw7A.jpeg)
 
 Photo Credit: Lesbians and Gays Support the Migrants\.
 
@@ -67,7 +67,7 @@ Source: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/photos/a.
 Refugee Biryani and Bananas posted a photoset showing the horrific conditions in Vial camp\. Now called “Vial Jungle”, Calais has spread all across Europe, with impromptu tents and shelters being erected in the absence of sufficient support\.
 
 
-![Photo credit; Refugee Biryani and Bananas](assets/16c36db8391/1*VrFXkeYN5VuEZCuchd9QXg.jpeg)
+![Photo credit; Refugee Biryani and Bananas](../assets/16c36db8391/1*VrFXkeYN5VuEZCuchd9QXg.jpeg)
 
 Photo credit; Refugee Biryani and Bananas
 
@@ -146,7 +146,7 @@ In _Tuzla, Bosnia_ , there has been a growing number of people arriving during t
 The mayor has reportedly said that “there is no welcome for them in Tuzla”, in spite of the fact that these Tuzlans have shown great heart struggling to welcome everyone they could with warm food, hugs, and whatever is needed\. No international organization seems to find it necessary to establish a local team in Tuzla or to provide other types of support for the hundreds that are really hard to ignore as they’re all sleeping rough while in Tuzla\.
 
 
-![Photo Credit: Senad Cupo, fb\. Anti\-migration stickers appear in Tuzla\. The website appears to have existed since June 2018](assets/16c36db8391/1*oW5i95TLJ5cevgKR8iht1A.jpeg)
+![Photo Credit: Senad Cupo, fb\. Anti\-migration stickers appear in Tuzla\. The website appears to have existed since June 2018](../assets/16c36db8391/1*oW5i95TLJ5cevgKR8iht1A.jpeg)
 
 Photo Credit: Senad Cupo, fb\. Anti\-migration stickers appear in Tuzla\. The website appears to have existed since June 2018
 
@@ -155,7 +155,7 @@ Another fight they keep fighting is the one with their fellow Tuzlans who have b
 Near Bihać and the newly “established” “camp” in Vučjak, Udruženje Solidarnost Bosnia is providing support to the hundreds of people there\. They report on the squalid conditions and the pervasive skin diseases that are resulting from the unsanitary living situation\. They are in need of donations in order to provide medication to these serious skin conditions: Please contact them [here](http://Udruženje Solidarnost - Bosnia) \.
 
 
-![Photo Credit: Udruzenje Solidarnost Bosnia](assets/16c36db8391/1*xNBDyD_MfIxr-qunEBCqdg.jpeg)
+![Photo Credit: Udruzenje Solidarnost Bosnia](../assets/16c36db8391/1*xNBDyD_MfIxr-qunEBCqdg.jpeg)
 
 Photo Credit: Udruzenje Solidarnost Bosnia
 

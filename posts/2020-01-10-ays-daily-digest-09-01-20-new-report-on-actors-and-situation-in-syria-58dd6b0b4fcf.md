@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 09/01/20: New Report on actors and situation in Syria
+title: "AYS Daily Digest 09/01/20: New Report on actors and situation in Syria"
 author: Are You Syrious?
 date: 2020-01-10T11:13:21.991+0000
 last_modified_at: 2020-01-10T14:26:04.558+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,denmark,europe,migration]
 description: New report by European Asylum Support Office on situation in Syria // Frontex reports decrease of irregular border crossing // Arrivals in…
 image:
-  path: assets/58dd6b0b4fcf/1*bWjlzPM6XloljHj4TRtwRA.jpeg
+  path: ../assets/58dd6b0b4fcf/1*bWjlzPM6XloljHj4TRtwRA.jpeg
 ---
 
 ### AYS Daily Digest 09/01/20: New Report on actors and situation in Syria
 #### New report by European Asylum Support Office on situation in Syria // Frontex reports decrease of irregular border crossing // Arrivals in Greece // Sea Watch 3 rescues 77 people // A letter to Danish ministries on situation in Ellebæk // Calls for support in the Balkans
 
 
-![Situation in regufee camps in the region of Idlib\. Copyright: Art against](assets/58dd6b0b4fcf/1*bWjlzPM6XloljHj4TRtwRA.jpeg)
+![Situation in regufee camps in the region of Idlib\. Copyright: Art against](../assets/58dd6b0b4fcf/1*bWjlzPM6XloljHj4TRtwRA.jpeg)
 
 Situation in regufee camps in the region of Idlib\. Copyright: Art against
 ### FEATURE
@@ -82,7 +82,7 @@ A month after the closure of Vucjak, members of the Red Cross Mobile Teams have 
 The tasks of the Mobile Team are providing food packages, distributing clothing and footwear, and providing first aid, as well as registering migrants at locations in the surrounding area\.
 
 
-![Copywrite: [Crveni križ grada Bihaća](https://web.facebook.com/CrveniKrizBihac/)](assets/58dd6b0b4fcf/1*3WVObzM96Ay8lI-4GO2Crg.jpeg)
+![Copywrite: [Crveni križ grada Bihaća](https://web.facebook.com/CrveniKrizBihac/)](../assets/58dd6b0b4fcf/1*3WVObzM96Ay8lI-4GO2Crg.jpeg)
 
 Copywrite: [Crveni križ grada Bihaća](https://web.facebook.com/CrveniKrizBihac/)
 ### **Tuzla**

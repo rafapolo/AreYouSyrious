@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 21/06/17: UNHCR’s resettlement is not available for everyone
+title: "AYS Daily Digest 21/06/17: UNHCR’s resettlement is not available for everyone"
 author: Are You Syrious?
 date: 2017-06-22T00:50:42.801+0100
 last_modified_at: 2017-08-29T17:16:25.894+0100
@@ -7,7 +7,7 @@ categories:
 tags: [europe,france,greece,hungary,refugees]
 description: Six EU-countries to come up with a military pact to stop next potential wave of refugees / Burglary in One Happy Family’s Community Center…
 image:
-  path: assets/63c1429a8ef4/1*Su6YJ4hYUhPtrwDq0Vi-cA.jpeg
+  path: ../assets/63c1429a8ef4/1*Su6YJ4hYUhPtrwDq0Vi-cA.jpeg
 ---
 
 ### AYS Daily Digest 21/06/17: UNHCR’s resettlement is not available for everyone
@@ -15,7 +15,7 @@ image:
 _Six EU\-countries to come up with a military pact to stop next potential wave of refugees / Burglary in One Happy Family’s Community Center at Lesvos / Latest trends in arrivals at the Greek islands / Human trafficker charged in Italy / Protests in Venice / And more news…_
 
 
-![Photo: [Liseron Beytout](https://www.facebook.com/liseron?fref=nf) , someone is asking for a place to rest\. Nothing more\.](assets/63c1429a8ef4/1*Su6YJ4hYUhPtrwDq0Vi-cA.jpeg)
+![Photo: [Liseron Beytout](https://www.facebook.com/liseron?fref=nf) , someone is asking for a place to rest\. Nothing more\.](../assets/63c1429a8ef4/1*Su6YJ4hYUhPtrwDq0Vi-cA.jpeg)
 
 Photo: [Liseron Beytout](https://www.facebook.com/liseron?fref=nf) , someone is asking for a place to rest\. Nothing more\.
 ### Feature
@@ -42,7 +42,7 @@ Talking of the sea, here is an u [pdate from Jugend Rettet e\.V\., regarding las
 
 
 
-![Photo: [Jugend Rettet e\.V\.](https://www.facebook.com/JugendRettet/)](assets/63c1429a8ef4/1*OZWcH0hYTPzKftv4rIh7Xg.jpeg)
+![Photo: [Jugend Rettet e\.V\.](https://www.facebook.com/JugendRettet/)](../assets/63c1429a8ef4/1*OZWcH0hYTPzKftv4rIh7Xg.jpeg)
 
 Photo: [Jugend Rettet e\.V\.](https://www.facebook.com/JugendRettet/)
 ### EU
@@ -80,11 +80,11 @@ A terrible incident has been reported from Moria detention center\. A resident i
 [Replacements for the stolen things are needed\. Please consider donate so they can be back in business as soon as possible](https://ohf-lesvos.org/en/donate-now/) \.
 
 
-![](assets/63c1429a8ef4/1*oXOgyY_X6Y2-AbbVbnLFxA.jpeg)
+![](../assets/63c1429a8ef4/1*oXOgyY_X6Y2-AbbVbnLFxA.jpeg)
 
 
 
-![Photos: [One Happy Family — Community Center, Lesvos](https://www.facebook.com/OHFLesvos/)](assets/63c1429a8ef4/1*2Ht5u47pNCXYATcjfZFKbQ.jpeg)
+![Photos: [One Happy Family — Community Center, Lesvos](https://www.facebook.com/OHFLesvos/)](../assets/63c1429a8ef4/1*2Ht5u47pNCXYATcjfZFKbQ.jpeg)
 
 Photos: [One Happy Family — Community Center, Lesvos](https://www.facebook.com/OHFLesvos/)
 
@@ -93,7 +93,7 @@ Photos: [One Happy Family — Community Center, Lesvos](https://www.facebook.com
 [Women do menstruate even thought they are stuck in refugee camps\. It’s just a bit harder, especially for those living in tents](https://www.facebook.com/NeedsList4Good/photos/a.356999821316658.1073741828.305539049796069/461549054195067/?type=3&hc_location=ufi) \. Every women or girls that has been camping in the forest can relate to this, which of course is an even more urgent matter for those living like this not only one period but several\. It might not be a stigma all over the world in 2017, but still something personal and that makes people a bit vulnerable in case they don’t have access to sanitary pads\. [The Unmentionables](https://www.facebook.com/theunmentionablesorg/?fref=mentions) will distribute sanitary pads to refugee women on Chios, so they can have a sanitary, safe and dignified period even in the not most dignified conditions on the Greek islands\. The pads handed out is from [Lunapads\.com](https://www.facebook.com/Lunapads/) and can be reused\. Follow the link to donate\.
 
 
-![Photo: [NeedsList](https://www.facebook.com/NeedsList4Good/) & [The Unmentionables](https://www.facebook.com/theunmentionablesorg/)](assets/63c1429a8ef4/1*RI7gEIkkk5MX0uRLqKdtpA.jpeg)
+![Photo: [NeedsList](https://www.facebook.com/NeedsList4Good/) & [The Unmentionables](https://www.facebook.com/theunmentionablesorg/)](../assets/63c1429a8ef4/1*RI7gEIkkk5MX0uRLqKdtpA.jpeg)
 
 Photo: [NeedsList](https://www.facebook.com/NeedsList4Good/) & [The Unmentionables](https://www.facebook.com/theunmentionablesorg/)
 
@@ -135,7 +135,7 @@ The conditions in Libya is so bad that people stranded there, according to UN’
 It might be fair to say that when someone in detention say that it is okay, it might, after a couple of following question turn out to sound not so okay — but for someone fleeing war and conflicts, the perception of the word “okay” might not be the same as for someone with an European passport\.
 
 
-![Photo: Röszke detention center, by an anonymous resident](assets/63c1429a8ef4/1*qYvg7p2gFrnwfxcJ-f2GPw.jpeg)
+![Photo: Röszke detention center, by an anonymous resident](../assets/63c1429a8ef4/1*qYvg7p2gFrnwfxcJ-f2GPw.jpeg)
 
 Photo: Röszke detention center, by an anonymous resident
 #### Eleven men charged for 71 migrants deaths
@@ -154,7 +154,7 @@ It is important to continue highlighting this extreme violence as much as possib
 To see who is affected and what it does to people, this video is a must\-see\. It’s made by Fresh Response and the journalist [Jaime Alekos](https://www.facebook.com/jaimealekos85?fref=mentions) for [IRIN](https://www.facebook.com/IRINnews/?fref=mentions) \. It is touching and includes fotage from Hungarys border nighttime\. This shouldn’t have to be anyones reality, since it looks surreal and inhuman, but it’s very much reality for those playing the border game — time after time\.
 
 
-[![Welcome to refugee purgatory on the Hungary border](assets/63c1429a8ef4/c810_hqdefault.jpg "Welcome to refugee purgatory on the Hungary border")](http://www.youtube.com/watch?v=m-iW3QbsBcc)
+[![Welcome to refugee purgatory on the Hungary border](../assets/63c1429a8ef4/c810_hqdefault.jpg "Welcome to refugee purgatory on the Hungary border")](http://www.youtube.com/watch?v=m-iW3QbsBcc)
 
 
 [And also, Rigardu’s full report is available here\.](http://rigardu.de/…/a-human-is-not-a-football-police-violence-at-…/)
@@ -163,11 +163,11 @@ To see who is affected and what it does to people, this video is a must\-see\. I
 [In France the harassments toward refugees are continuing\. A volunteer wrote](http://Solidarité migrants Wilson) , in french, a personal update from this morning\. People are still asking for possibilities to take showers and where to sleep without any good answers\. The police is rasict, and rather detroys than helps the situation for those in need\. But volunteers are still there, providing much needed help and food\.
 
 
-![](assets/63c1429a8ef4/1*XQBr8njO80LyuQar-Uw-YA.jpeg)
+![](../assets/63c1429a8ef4/1*XQBr8njO80LyuQar-Uw-YA.jpeg)
 
 
 
-![Photos: [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/)](assets/63c1429a8ef4/1*XgP2q0OmK-g6v3Fuiy_vWw.jpeg)
+![Photos: [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/)](../assets/63c1429a8ef4/1*XgP2q0OmK-g6v3Fuiy_vWw.jpeg)
 
 Photos: [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/)
 
@@ -207,7 +207,7 @@ Statement from Help Refugees, as it follows:
 
 
 
-![Photo: [Help Refugees](https://www.facebook.com/HelpRefugeesUK/)](assets/63c1429a8ef4/1*Hs56AjZR4pvhKtm-K1YJTA.jpeg)
+![Photo: [Help Refugees](https://www.facebook.com/HelpRefugeesUK/)](../assets/63c1429a8ef4/1*Hs56AjZR4pvhKtm-K1YJTA.jpeg)
 
 Photo: [Help Refugees](https://www.facebook.com/HelpRefugeesUK/)
 

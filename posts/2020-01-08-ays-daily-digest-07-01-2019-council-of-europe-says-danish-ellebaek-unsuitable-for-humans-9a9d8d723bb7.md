@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,migrants,denmark,human-rights]
 description: 100,000 Syrians Pushed Out of Istanbul///Protests in Samos by Local Authorities///Rights for Unaccompanied Minors Up for a Vote in UK
 image:
-  path: assets/9a9d8d723bb7/0*8w1vuhdKHD_3xBIQ
+  path: ../assets/9a9d8d723bb7/0*8w1vuhdKHD_3xBIQ
 ---
 
 ### AYS Daily Digest 07/01/20— Council of Europe Says Danish Ellebaek Center “Unsuitable for Humans”
 #### 100,000 Syrians Pushed Out of Istanbul///Protests in Samos by Local Authorities///Rights for Unaccompanied Minors Up for a Vote in UK
 
 
-![Ellebaek Prison\. Photo credit: [Refugees\.dk](http://refugees.dk/en/news/2020/january/council-of-europe-anti-torture-committe-ellebaek-is-unsuitable-for-humans/?fbclid=IwAR2JsiEbwrDXHmN2mHOCn9Z0YwaR16Lstdk_9jE_fqGol8aKWhKOe_V44wo)](assets/9a9d8d723bb7/0*8w1vuhdKHD_3xBIQ)
+![Ellebaek Prison\. Photo credit: [Refugees\.dk](http://refugees.dk/en/news/2020/january/council-of-europe-anti-torture-committe-ellebaek-is-unsuitable-for-humans/?fbclid=IwAR2JsiEbwrDXHmN2mHOCn9Z0YwaR16Lstdk_9jE_fqGol8aKWhKOe_V44wo)](../assets/9a9d8d723bb7/0*8w1vuhdKHD_3xBIQ)
 
 Ellebaek Prison\. Photo credit: [Refugees\.dk](http://refugees.dk/en/news/2020/january/council-of-europe-anti-torture-committe-ellebaek-is-unsuitable-for-humans/?fbclid=IwAR2JsiEbwrDXHmN2mHOCn9Z0YwaR16Lstdk_9jE_fqGol8aKWhKOe_V44wo)
 ### Feature — Danish Centers for Asylum Seekers Condemned by Council of Europe
@@ -32,7 +32,7 @@ The Council of Europe’s Anti\-Torture Committee published a [report](https://r
 The chief complaint of the committee was with the center’s material conditions, which they called “unacceptable\.” The facilities are prison\-like, even though people there have committed no crimes and are mostly rejected asylum seekers awaiting deportation\. They should have living conditions “approaching normality” since they are only in administrative detention\.
 
 
-![Conditions in Ellebaek\. Photographer: [Ole Jakobsen, TV2](http://refugees.dk/en/news/2020/january/council-of-europe-anti-torture-committe-ellebaek-is-unsuitable-for-humans/?fbclid=IwAR0Ikb8pLLXBAT8Wcuk1o4bsaYG5fnF4Zb8_xwbnt8XKBAcc0IZ3t-T29Pc)](assets/9a9d8d723bb7/0*NNdoyJfLIZCCJzIt)
+![Conditions in Ellebaek\. Photographer: [Ole Jakobsen, TV2](http://refugees.dk/en/news/2020/january/council-of-europe-anti-torture-committe-ellebaek-is-unsuitable-for-humans/?fbclid=IwAR0Ikb8pLLXBAT8Wcuk1o4bsaYG5fnF4Zb8_xwbnt8XKBAcc0IZ3t-T29Pc)](../assets/9a9d8d723bb7/0*NNdoyJfLIZCCJzIt)
 
 Conditions in Ellebaek\. Photographer: [Ole Jakobsen, TV2](http://refugees.dk/en/news/2020/january/council-of-europe-anti-torture-committe-ellebaek-is-unsuitable-for-humans/?fbclid=IwAR0Ikb8pLLXBAT8Wcuk1o4bsaYG5fnF4Zb8_xwbnt8XKBAcc0IZ3t-T29Pc)
 
@@ -128,7 +128,7 @@ MALTA
 ### Rescue Ship Captain Wins Appeal
 
 
-![Claus\-Peter Reisch exits the courtroom\. Photo credit: [Lifeline](https://www.facebook.com/seenotrettung/posts/712858512454024?hc_location=ufi)](assets/9a9d8d723bb7/0*UK9s02qOeA_8ttMx)
+![Claus\-Peter Reisch exits the courtroom\. Photo credit: [Lifeline](https://www.facebook.com/seenotrettung/posts/712858512454024?hc_location=ufi)](../assets/9a9d8d723bb7/0*UK9s02qOeA_8ttMx)
 
 Claus\-Peter Reisch exits the courtroom\. Photo credit: [Lifeline](https://www.facebook.com/seenotrettung/posts/712858512454024?hc_location=ufi)
 

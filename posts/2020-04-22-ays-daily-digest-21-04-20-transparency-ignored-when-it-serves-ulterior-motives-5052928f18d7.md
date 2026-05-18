@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 21/04/20: Transparency ignored when it serves ulterior motives?
+title: "AYS Daily Digest 21/04/20: Transparency ignored when it serves ulterior motives?"
 author: Are You Syrious?
 date: 2020-04-22T20:12:16.216+0100
 last_modified_at: 2020-04-22T20:12:16.216+0100
 categories: Are You Syrious?
 tags: [digest,greece,refugees,europe,balkans]
-description: Edirne: “released after 26 days in prison without guilt” / Demands to Greece from ECfHR / A letter from the people inside Miral camp in BiH…
+description: "Edirne: “released after 26 days in prison without guilt” / Demands to Greece from ECfHR / A letter from the people inside Miral camp in BiH…"
 image:
-  path: assets/5052928f18d7/0*jOdiTWhnLTGAJ5Nv
+  path: ../assets/5052928f18d7/0*jOdiTWhnLTGAJ5Nv
 ---
 
 ### AYS Daily Digest 21/04/20: Transparency ignored when it serves ulterior motives?
 ### Edirne: “released after 26 days in prison without guilt” / Demands to Greece from ECfHR / A letter from the people inside Miral camp in BiH / Stepping up for asylees in Croatia / Italy to legalize undocumented foreigners working illegally on the fields / & more
 
 
-![](assets/5052928f18d7/0*5I5DqeNxjTK8Totr.jpeg)
+![](../assets/5052928f18d7/0*5I5DqeNxjTK8Totr.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----439ab85e4ea4----------------------)
@@ -22,11 +22,11 @@ image:
 [Apr 22](ays-daily-digest-21-04-20-transparency-ignored-when-it-serves-ulterior-motives-439ab85e4ea4?source=post_page-----439ab85e4ea4----------------------) · 7 min read
 
 
-![](assets/5052928f18d7/0*S7DMfYJxyN0lrfKb)
+![](../assets/5052928f18d7/0*S7DMfYJxyN0lrfKb)
 
 
 
-![](assets/5052928f18d7/0*jOdiTWhnLTGAJ5Nv)
+![](../assets/5052928f18d7/0*jOdiTWhnLTGAJ5Nv)
 
 ### Featured
 
@@ -78,19 +78,19 @@ Located 170 kilometres southwest of Athens, this hotel has been quarantined sinc
 [L’ ALTRA VOCE](https://www.facebook.com/L-ALTRA-VOCE-1245970425495921/?__tn__=kCH-R&eid=ARCDhumpYXV7i6FWp5_XN74eEGGrTiAkPbnemHmSTtYe01cAbS77jfAMyxbWpPR6IWIpiV4P79a_JjMi&hc_ref=ARSmKrQlBbT4C57CfMmCYJ9vHjhBoEghMDXwwp6n0ftSQWWdqoIiaeqreMjSIbTEK_o&fref=nf&__xts__%5B0%5D=68.ARB4mZzcy3AYsy_sddk2nxJCG3gydy09i3abMFKOAxIPamhf_UJa7PNHrhGChfcJQomtflzE_ofyBBFfQVVPMAWWjyojMSac4RYiNyA7xwbYCcIQyZa-atZ-bWLImTbsNnRKz--f1u6rqiDxdkMywhj_Apz2z9dE4SxXUxZYgNv9QuAHC-G2bMiRtrPFFoLJYbxgpTqqNuuXp9o_WMN_ly1LPcpG-7I5ennh-TC6egQNUk2sOiufmIdThE8rtOpk722ZCmfh1IJ0mL_NOhlRHJbku08JsqRBJxUjmrTzJ6hpVkxqhnUB2ZWJ-OEL3TMGLsyNjlDgoZMFwMNE7YP5RqVCmmU5Z7hrb288d7s59k4pGpUarts) published a letter co\-signed by 70 people staying at one of the official camps in Una Sana canton, run by IOM\. From the Miral camp in Velika Kladuša, they wrote that there is not a sufficient amount of food for everyone, and people are not allowed to buy and bring inside their own food to eat at their chosing, thus selectively applying their own standards\.
 
 
-![](assets/5052928f18d7/0*8jVYGOD7u5ODFwmz)
+![](../assets/5052928f18d7/0*8jVYGOD7u5ODFwmz)
 
 
 
-![](assets/5052928f18d7/0*LqgZQSHCS3S3K_kG)
+![](../assets/5052928f18d7/0*LqgZQSHCS3S3K_kG)
 
 
 
-![](assets/5052928f18d7/0*NzA74i06prvzaAXg)
+![](../assets/5052928f18d7/0*NzA74i06prvzaAXg)
 
 
 
-![](assets/5052928f18d7/0*XZVJg3QCOvm5VbAe)
+![](../assets/5052928f18d7/0*XZVJg3QCOvm5VbAe)
 
 
 According to the people whose photos and statements made it to the Letter, there is always someone going to sleep hungry\. Also, there are frequent references to violent measures and unprofessionally harsh treatment by the outsourced security companies working in camps\. Among others, the letter states:
@@ -106,11 +106,11 @@ According to the people whose photos and statements made it to the Letter, there
 
 
 
-![](assets/5052928f18d7/0*sKoz1cLQTVqsFL7Y)
+![](../assets/5052928f18d7/0*sKoz1cLQTVqsFL7Y)
 
 
 
-![](assets/5052928f18d7/0*kov_XPBEJ4OFLWs0)
+![](../assets/5052928f18d7/0*kov_XPBEJ4OFLWs0)
 
 ### CROATIA
 

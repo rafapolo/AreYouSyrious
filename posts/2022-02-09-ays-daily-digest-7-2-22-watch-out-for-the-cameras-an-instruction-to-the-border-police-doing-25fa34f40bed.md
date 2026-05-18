@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 7/2/22: ‘Watch out for the cameras’: an instruction to the border police doing…
+title: "AYS Daily Digest 7/2/22: ‘Watch out for the cameras’: an instruction to the border police doing…"
 author: Are You Syrious?
 date: 2022-02-09T11:58:02.231+0000
 last_modified_at: 2022-02-09T11:58:02.231+0000
 categories: Are You Syrious?
 tags: [digest,croatia,refugees,human-rights,europe]
-description: Will the whistleblowers do what the international community are unable to? // Greece: surveillance of camps vs locals protesting the new…
+description: "Will the whistleblowers do what the international community are unable to? // Greece: surveillance of camps vs locals protesting the new…"
 image:
-  path: assets/25fa34f40bed/0*Kq6DEDvQUDmdfTve.jpeg
+  path: ../assets/25fa34f40bed/0*Kq6DEDvQUDmdfTve.jpeg
 ---
 
 ### AYS Daily Digest 7/2/22: ‘Watch out for the cameras’: an instruction to the border police doing pushbacks
 ### Will the whistleblowers do what the international community are unable to? // Greece: surveillance of camps vs locals protesting the new centres being built // 20 years sentence for 2 Bengali torturers of people in Libyan camps, how many will the EU signatories of the Deal get? // Homelessness grows across Europe, evictions continue and new spaces are being occupied // announced solidarity gatherings and protests // more news and a lot of recommended reads from the AYS team
 
 
-![](assets/25fa34f40bed/0*8Q8yBGGYMefRRTq7.jpeg)
+![](../assets/25fa34f40bed/0*8Q8yBGGYMefRRTq7.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----1102d5eb6c2-----------------------------------)
@@ -22,7 +22,7 @@ image:
 [Feb 8](ays-daily-digest-7-2-22-watch-out-for-the-cameras-an-instruction-to-the-border-police-doing-1102d5eb6c2?source=post_page-----1102d5eb6c2-----------------------------------) · 11 min read
 
 
-![](assets/25fa34f40bed/0*Kq6DEDvQUDmdfTve.jpeg)
+![](../assets/25fa34f40bed/0*Kq6DEDvQUDmdfTve.jpeg)
 
 
 Malta — 38 local organisations and groups came together at Gjardola Garden to protest the ongoing dying in the Mediterranean Sea\. We will never forget those who died or disappeared\. They are “Humans, not Numbers”\. — via [Alarm Phone](https://twitter.com/alarm_phone)
@@ -50,11 +50,11 @@ The letter continues with instructions on how to proceed with pushbacks:
 
 
 
-![](assets/25fa34f40bed/0*2RhWIsdwqtLvgEls)
+![](../assets/25fa34f40bed/0*2RhWIsdwqtLvgEls)
 
 
 
-![](assets/25fa34f40bed/0*QYK4ezUPwlaM3P-C)
+![](../assets/25fa34f40bed/0*QYK4ezUPwlaM3P-C)
 
 
 A signatory to the Geneva Convention on the Status of Refugees, the International Covenant on Civil and Political Rights \(ICCPR\) and the European Convention on Human Rights, Croatia has in the past few years often been the topic of many reports, testimony collections, and a station on the route of many people who sadly died along the way, mostly around the heavily guarded and unsafe border areas\. As a country with the longest terrestrial border of the EU with third countries, Croatia has — tacitly or willingly — accepted the role of the bouncer and bully within the EU, and all the tragedies that happen as a result of such decisions\.
@@ -117,21 +117,21 @@ The City has assured that with the Tarajal it wants to do the same as in Piniers
 ### Reports on evictions in Calais and Grande Synthe in January:
 
 
-![](assets/25fa34f40bed/0*Njyitik0tnXLCus6)
+![](../assets/25fa34f40bed/0*Njyitik0tnXLCus6)
 
 
 
-![](assets/25fa34f40bed/0*bVCqFgWzbjhWvekz)
+![](../assets/25fa34f40bed/0*bVCqFgWzbjhWvekz)
 
 
 by [Human Rights Observers](https://twitter.com/HumanRightsObs)
 
 
-![](assets/25fa34f40bed/0*r89p-63Oqgunb-7C)
+![](../assets/25fa34f40bed/0*r89p-63Oqgunb-7C)
 
 
 
-![](assets/25fa34f40bed/0*JA51MV9MZqaEtaiP)
+![](../assets/25fa34f40bed/0*JA51MV9MZqaEtaiP)
 
 
 Utopia teams report about the state people are in, and the “reception” conditions currently met by the state when it comes to the north of France and people on the move, constantly being pushed back, having their belongings taken away, and being evicted on an almost daily basis:
@@ -139,18 +139,18 @@ Utopia teams report about the state people are in, and the “reception” condi
 Some of the initiatives fighting this include the occupation of abandoned buildings in Calais:
 
 
-![](assets/25fa34f40bed/0*YBTxOFp-beHjOMm9)
+![](../assets/25fa34f40bed/0*YBTxOFp-beHjOMm9)
 
 
 
-![](assets/25fa34f40bed/0*eXn1Ddu-ufKx8lro)
+![](../assets/25fa34f40bed/0*eXn1Ddu-ufKx8lro)
 
 ### GERMANY
 
 The Brandenburg Ministry of the Interior has announced that it will build a so\-called “entry and exit centre” at Schönefeld Airport by 2025\. It will be a pilot project to accelerate & extend restrictive asylum procedures and deportations, Bündnis Abschiebezentrum am Flughafen BER verhindern group has reported\.
 
 
-![](assets/25fa34f40bed/0*ZaMn3eKA9SqbQeyL)
+![](../assets/25fa34f40bed/0*ZaMn3eKA9SqbQeyL)
 
 
 The first demonstration will take place this Wednesday, February 9th in Schönefeld\. The route goes from the Schönefeld S\-Bahn station \(4:45 p\.m\. \) to the final rally at Schönefeld Town Hall at 5:45 p\.m\. \(Hans\-Grade\-Allee 11\) \. The idea is to increase the pressure on the local politicians, who are holding a meeting in the Schönefeld municipal council at the same time, because the decision on the construction plans is still pending, the group writes\. 
@@ -161,11 +161,11 @@ Find out more information [here](https://noborderassembly.blackblogs.org/de/pres
 Solidarity among people in Poland continues\.
 
 
-![](assets/25fa34f40bed/0*oC5ZHPT44XY3cxpH)
+![](../assets/25fa34f40bed/0*oC5ZHPT44XY3cxpH)
 
 
 
-![](assets/25fa34f40bed/0*T5N0AzSu-GAvhHLS)
+![](../assets/25fa34f40bed/0*T5N0AzSu-GAvhHLS)
 
 
 A solidarity action aiming to show support for all people imprisoned in detention centres and to oppose the criminalisation of migration is scheduled for February 12\. Details of the event can be found [here](https://nobordersteam.noblogs.org/.../demonstracja.../) \.

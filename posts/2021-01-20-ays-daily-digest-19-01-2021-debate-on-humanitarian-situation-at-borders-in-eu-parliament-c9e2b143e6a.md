@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [eu,refugees,newsletter,greece,balkans]
 description: Awful Conditions in Arsal, Lebanon// Crackdown on NGOs in Cyprus// Turkey Will Not Accept Deportations from Greece// & More
 image:
-  path: assets/c9e2b143e6a/0*ZQp7gIXMrU4j1J41
+  path: ../assets/c9e2b143e6a/0*ZQp7gIXMrU4j1J41
 ---
 
 ### AYS Daily Digest 19/01/2021 — Debate on Humanitarian Situation at Borders in EU Parliament
 #### Awful Conditions in Arsal, Lebanon// Crackdown on NGOs in Cyprus// Turkey Will Not Accept Deportations from Greece// & More
 
 
-![Image source: [The Left in the European Parliament](https://www.facebook.com/theleft/photos/pcb.3809998645725530/3809973095728085/)](assets/c9e2b143e6a/0*ZQp7gIXMrU4j1J41)
+![Image source: [The Left in the European Parliament](https://www.facebook.com/theleft/photos/pcb.3809998645725530/3809973095728085/)](../assets/c9e2b143e6a/0*ZQp7gIXMrU4j1J41)
 
 Image source: [The Left in the European Parliament](https://www.facebook.com/theleft/photos/pcb.3809998645725530/3809973095728085/)
 #### FEATURE
@@ -130,7 +130,7 @@ The group Solidarity With Migrants will be collecting necessities this Thursday 
 #### Action organized to feed people on the move in Timișoara
 
 
-![Timișoara, Romania 17 January 2021\. Photo and post via [Art Against](https://www.facebook.com/artagainstproject/posts/3620258798023528)](assets/c9e2b143e6a/0*LnpcMqzZbSf4SmHb)
+![Timișoara, Romania 17 January 2021\. Photo and post via [Art Against](https://www.facebook.com/artagainstproject/posts/3620258798023528)](../assets/c9e2b143e6a/0*LnpcMqzZbSf4SmHb)
 
 Timișoara, Romania 17 January 2021\. Photo and post via [Art Against](https://www.facebook.com/artagainstproject/posts/3620258798023528)
 

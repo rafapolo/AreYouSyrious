@@ -1,13 +1,13 @@
 ---
-title: AYS Weekend Digest 8–9/8/2020: Bosnia, shocking attempt to burn asylum seekers alive
+title: "AYS Weekend Digest 8–9/8/2020: Bosnia, shocking attempt to burn asylum seekers alive"
 author: Are You Syrious?
 date: 2020-08-10T12:59:34.011+0100
 last_modified_at: 2020-08-10T14:44:56.153+0100
 categories: Are You Syrious?
 tags: [refugees,digest,bosnia-and-herzegovina,beirut,racism]
-description: Libya: Turkey uses brokers to recruit Syrian children and jihadists / Lebanon: resources to support survivors of the Beirut explosion…
+description: "Libya: Turkey uses brokers to recruit Syrian children and jihadists / Lebanon: resources to support survivors of the Beirut explosion…"
 image:
-  path: assets/e3b7cfc7d7e5/1*0j6FGerT6nivS1hWO68E7Q.jpeg
+  path: ../assets/e3b7cfc7d7e5/1*0j6FGerT6nivS1hWO68E7Q.jpeg
 ---
 
 ### AYS Weekend Digest 8–9/8/2020: Bosnia, shocking attempt to burn asylum seekers alive
@@ -15,7 +15,7 @@ image:
 _Libya: Turkey uses brokers to recruit Syrian children and jihadists / Lebanon: Resources to support survivors of the Beirut explosion / Greece: fire in Moria, while government lease land for closed centres / Spain: Two 13\-year\-old children drown / UK: Home Office plans to use Navy to prevent Channel crossings despite legal concerns_
 
 
-![Beirut, Lebanon, 8 August 2020\. During anti\-government protest against state corruption and repression, people demanding justice after the blast that killed hundreds\. Lebanese riot police used tear gas and rubber bullets to repress the protest outside of the Lebanese Parliament in Beirut\. People are furious at the failure to prevent the explosion at a warehouse storing over 2,000 tonnes of ammonium nitrate\. 21 people have been arrested\. [Photographs by Wael Hamzeh/European Pressphoto Agency](https://web.facebook.com/wael.hamzeh.14) \. Text: [Art Against](https://web.facebook.com/artagainstproject)](assets/e3b7cfc7d7e5/1*0j6FGerT6nivS1hWO68E7Q.jpeg)
+![Beirut, Lebanon, 8 August 2020\. During anti\-government protest against state corruption and repression, people demanding justice after the blast that killed hundreds\. Lebanese riot police used tear gas and rubber bullets to repress the protest outside of the Lebanese Parliament in Beirut\. People are furious at the failure to prevent the explosion at a warehouse storing over 2,000 tonnes of ammonium nitrate\. 21 people have been arrested\. [Photographs by Wael Hamzeh/European Pressphoto Agency](https://web.facebook.com/wael.hamzeh.14) \. Text: [Art Against](https://web.facebook.com/artagainstproject)](../assets/e3b7cfc7d7e5/1*0j6FGerT6nivS1hWO68E7Q.jpeg)
 
 Beirut, Lebanon, 8 August 2020\. During anti\-government protest against state corruption and repression, people demanding justice after the blast that killed hundreds\. Lebanese riot police used tear gas and rubber bullets to repress the protest outside of the Lebanese Parliament in Beirut\. People are furious at the failure to prevent the explosion at a warehouse storing over 2,000 tonnes of ammonium nitrate\. 21 people have been arrested\. [Photographs by Wael Hamzeh/European Pressphoto Agency](https://web.facebook.com/wael.hamzeh.14) \. Text: [Art Against](https://web.facebook.com/artagainstproject)
 
@@ -103,7 +103,7 @@ Greek Media [report](https://www.ekathimerini.com/255626/article/ekathimerini/ne
 Alarm Phone [reported](https://web.facebook.com/watchthemed.alarmphone/posts/2732638560343703) on Sunday morning that the Hellenic Coast Guard put 35 people on life\-rafts, and left them adrift south of Lesvos\. After being alerted, the Turkish Coast Guard confirmed that they rescued 80 people from life\-rafts\.
 
 
-![Photo by [Alarm Phone — Watch the Med](https://web.facebook.com/watchthemed.alarmphone/photos/a.1526182797655958/2732638493677043)](assets/e3b7cfc7d7e5/1*6VPQbkv3g1XmoaBCyP1AEg.jpeg)
+![Photo by [Alarm Phone — Watch the Med](https://web.facebook.com/watchthemed.alarmphone/photos/a.1526182797655958/2732638493677043)](../assets/e3b7cfc7d7e5/1*6VPQbkv3g1XmoaBCyP1AEg.jpeg)
 
 Photo by [Alarm Phone — Watch the Med](https://web.facebook.com/watchthemed.alarmphone/photos/a.1526182797655958/2732638493677043)
 

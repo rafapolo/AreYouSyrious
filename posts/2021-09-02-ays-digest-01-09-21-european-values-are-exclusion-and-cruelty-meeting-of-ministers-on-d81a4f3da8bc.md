@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,afghanistan,eu]
 description: Greek Migration Ministry Proposes Law to Control Rescue Operations//Poland Declares State of Emergency//Deadly Few Days on Canary Route
 image:
-  path: assets/d81a4f3da8bc/0*o7aq2D9b6Z5tWXqf.jpg
+  path: ../assets/d81a4f3da8bc/0*o7aq2D9b6Z5tWXqf.jpg
 ---
 
 ### AYS Digest 01/09/21 — “European Values” are exclusion and cruelty, meeting of ministers on Afghanistan shows
 #### Greek migration ministry proposes law to control rescue operations//Poland declares state of emergency//Deadly few days on Canary route
 
 
-![Little Amal, a puppet representing displaced children as part of the moving art installation “The Walk\.” The puppet reached Larissa in Greece, where some people threw stones at citizens who gathered to watch the art installation\. Photo credit: Andre Liohn/via [Walk With Amal](https://www.walkwithamal.org/?fbclid=IwAR3692pT0uuIOdiOE-zRQwDpqP8SmZxpJbk__z_Tevg8bE7N8zQ1f4wUIhY)](assets/d81a4f3da8bc/0*o7aq2D9b6Z5tWXqf.jpg)
+![Little Amal, a puppet representing displaced children as part of the moving art installation “The Walk\.” The puppet reached Larissa in Greece, where some people threw stones at citizens who gathered to watch the art installation\. Photo credit: Andre Liohn/via [Walk With Amal](https://www.walkwithamal.org/?fbclid=IwAR3692pT0uuIOdiOE-zRQwDpqP8SmZxpJbk__z_Tevg8bE7N8zQ1f4wUIhY)](../assets/d81a4f3da8bc/0*o7aq2D9b6Z5tWXqf.jpg)
 
 Little Amal, a puppet representing displaced children as part of the moving art installation “The Walk\.” The puppet reached Larissa in Greece, where some people threw stones at citizens who gathered to watch the art installation\. Photo credit: Andre Liohn/via [Walk With Amal](https://www.walkwithamal.org/?fbclid=IwAR3692pT0uuIOdiOE-zRQwDpqP8SmZxpJbk__z_Tevg8bE7N8zQ1f4wUIhY)
 

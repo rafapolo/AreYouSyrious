@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 29/10/21: Boat Carrying 400 Off Crete Has ‘Unclear Fate’
+title: "AYS News Digest 29/10/21: Boat Carrying 400 Off Crete Has ‘Unclear Fate’"
 author: Are You Syrious?
 date: 2021-10-30T20:37:44.774+0100
 last_modified_at: 2021-10-30T20:37:44.774+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migration,pushback,greece]
 description: Violent attacks against PoM in Greece // Mitarachi responds to Chios deaths // Germany halts far-right vigilante patrols along Polish…
 image:
-  path: assets/d58bdbfdf7e1/0*OIBlVk4ueo8mTLAt.jpeg
+  path: ../assets/d58bdbfdf7e1/0*OIBlVk4ueo8mTLAt.jpeg
 ---
 
 ### AYS News Digest 29/10/21: Boat Carrying 400 Off Crete Has ‘Unclear Fate’
 ### Violent attacks against PoM in Greece // Mitarachi responds to Chios deaths // Germany halts far\-right vigilante patrols along Polish border // Syrian activist faces deportation from Denmark
 
 
-![](assets/d58bdbfdf7e1/0*L6u_FuGf6xwSeMWR.jpeg)
+![](../assets/d58bdbfdf7e1/0*L6u_FuGf6xwSeMWR.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----e04d32a0022d--------------------------------)
@@ -23,11 +23,11 @@ image:
 ### FEATURE — What has happened to the 400 people?
 
 
-![](assets/d58bdbfdf7e1/0*-6e7jZL5eullzrI3)
+![](../assets/d58bdbfdf7e1/0*-6e7jZL5eullzrI3)
 
 
 
-![](assets/d58bdbfdf7e1/0*OIBlVk4ueo8mTLAt.jpeg)
+![](../assets/d58bdbfdf7e1/0*OIBlVk4ueo8mTLAt.jpeg)
 
 
 Yesterday’s migration news was dominated by the story of a small cargo ship carrying 400 people on the move found suffering from engine troubles off the coast of Crete\. The Turkish\-flagged ship was likely headed for Italy, the Hellenic Coast Guard \(HCG\) told [media](https://apnews.com/article/europe-greece-migration-weather-crete-fe73d87abb304261e97350f531b52648?fbclid=IwAR3pQGpm-WLC9NR4_S6gPACGDBjICO6CY8zNlslzfuWT4JDPgu5rIdoE5Wk) \. There was no immediate news on the health of the people, nor their countries of origin\.
@@ -53,7 +53,7 @@ The war in Syria continues to rage and “this is not a time for anyone to be th
 ### SOS Mediterranee comms officer shares memory
 
 
-![](assets/d58bdbfdf7e1/0*UuPzd8VldKuBUyTA.jpeg)
+![](../assets/d58bdbfdf7e1/0*UuPzd8VldKuBUyTA.jpeg)
 
 
 Photo Credit: SOS

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily News Digest 18/1/19: A system failing both the frontline states and people seeking safety
+title: "AYS Daily News Digest 18/1/19: A system failing both the frontline states and people seeking safety"
 author: Are You Syrious?
 date: 2019-01-19T10:26:56.184+0000
 last_modified_at: 2019-01-19T19:41:01.601+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,balkans,greece]
 description: Amnesty International warning of the devastating consequences of the EU politics in the Mediterranean —read the analysis / SAR teams under…
 image:
-  path: assets/5e2ad98d08bd/1*aD2ZhdNAGbdMp0R0b2U5tQ.jpeg
+  path: ../assets/5e2ad98d08bd/1*aD2ZhdNAGbdMp0R0b2U5tQ.jpeg
 ---
 
 ### AYS Daily News Digest 18/1/19: A system failing both the frontline states and people seeking safety
 #### Amnesty International warning of the devastating consequences of the EU politics in the Mediterranean —read the analysis / SAR teams under pressure again / increasing number of arrivals to Greece and the area / Afghan minors sent to adults prison in Serbia / Pressure to volunteers in Bosnia and Herzegovina / more news
 
 
-![Photo: [Pothiti Kitromilidi](https://www.facebook.com/pothiti.kitromilidi?__tn__=%2Cd%2AF%2AF-R&eid=ARBd2y1L_pAbZCqMbMewBzYZ0uviGRN4aIlEQMyEWY638CTkDLpxiJX2iVZWGyCJJwTwsui3Lx7CbKUe&tn-str=%2AF) ‎](assets/5e2ad98d08bd/1*aD2ZhdNAGbdMp0R0b2U5tQ.jpeg)
+![Photo: [Pothiti Kitromilidi](https://www.facebook.com/pothiti.kitromilidi?__tn__=%2Cd%2AF%2AF-R&eid=ARBd2y1L_pAbZCqMbMewBzYZ0uviGRN4aIlEQMyEWY638CTkDLpxiJX2iVZWGyCJJwTwsui3Lx7CbKUe&tn-str=%2AF) ‎](../assets/5e2ad98d08bd/1*aD2ZhdNAGbdMp0R0b2U5tQ.jpeg)
 
 Photo: [Pothiti Kitromilidi](https://www.facebook.com/pothiti.kitromilidi?__tn__=%2Cd%2AF%2AF-R&eid=ARBd2y1L_pAbZCqMbMewBzYZ0uviGRN4aIlEQMyEWY638CTkDLpxiJX2iVZWGyCJJwTwsui3Lx7CbKUe&tn-str=%2AF) ‎
 #### FEATURE
@@ -98,7 +98,7 @@ In a recent shipwreck off the coast of Nador, 53 people are missing, presumably 
 
 
 ![“We’re leaving people to die at sea by the hundreds, every year\. Trump, with his wall idea, would be proud of us\.”
-By Emanuele Del Rosso](assets/5e2ad98d08bd/1*e164onViHuN2SWGXkr40Fg.jpeg)
+By Emanuele Del Rosso](../assets/5e2ad98d08bd/1*e164onViHuN2SWGXkr40Fg.jpeg)
 
 “We’re leaving people to die at sea by the hundreds, every year\. Trump, with his wall idea, would be proud of us\.”
 By Emanuele Del Rosso
@@ -160,14 +160,14 @@ At the same time, more and more SAR missions with professional teams on board ar
 
 
 
-![](assets/5e2ad98d08bd/0*U2dBGMqHs988U5Gj.jpg)
+![](../assets/5e2ad98d08bd/0*U2dBGMqHs988U5Gj.jpg)
 
 #### GREECE
 
 Despite the cold weather and poor conditions at sea, an increasing number of refugees who left Turkey have reached Greece recently\. [Reportedly](https://harekact.bordermonitoring.eu/2019/01/17/refugee-arrivals-to-cyprus-and-evros-from-turkey/?fbclid=IwAR0ZfQpdohVfk9sgOWOUKf7ypPqYj7M80Uxf9v_ropSQe59lZr2-4XlXWmI) , there were also arrivals in Cyrpus and Evros\.
 
 
-![Photo: [Pothiti Kitromilidi](https://www.facebook.com/pothiti.kitromilidi?__tn__=%2Cd%2AF%2AF-R&eid=ARAnG9Uh4cmap99TFtGeyGDRIIibfkt_RyjazNZYW7uvNwA-L9HnSInpBp6yV3AhCYgSVH_W1zKJ9jeW&tn-str=%2AF) ‎](assets/5e2ad98d08bd/1*YVyh__hiIOU4ZBtEmrjyaQ.jpeg)
+![Photo: [Pothiti Kitromilidi](https://www.facebook.com/pothiti.kitromilidi?__tn__=%2Cd%2AF%2AF-R&eid=ARAnG9Uh4cmap99TFtGeyGDRIIibfkt_RyjazNZYW7uvNwA-L9HnSInpBp6yV3AhCYgSVH_W1zKJ9jeW&tn-str=%2AF) ‎](../assets/5e2ad98d08bd/1*YVyh__hiIOU4ZBtEmrjyaQ.jpeg)
 
 Photo: [Pothiti Kitromilidi](https://www.facebook.com/pothiti.kitromilidi?__tn__=%2Cd%2AF%2AF-R&eid=ARAnG9Uh4cmap99TFtGeyGDRIIibfkt_RyjazNZYW7uvNwA-L9HnSInpBp6yV3AhCYgSVH_W1zKJ9jeW&tn-str=%2AF) ‎
 
@@ -181,11 +181,11 @@ Later on, another group arrived on Karfas beach: 11 minors, 4 women and 7 men fr
 One refugee missing from the morning arrival was found dead near Farmakonisi\. The remaining people were reportedly transferred to Leros\.
 
 
-![](assets/5e2ad98d08bd/1*2s8HXxtvw73mH7UkcWHBPQ.jpeg)
+![](../assets/5e2ad98d08bd/1*2s8HXxtvw73mH7UkcWHBPQ.jpeg)
 
 
 
-![Refugees in protest in front of Asylum offices in hotspot at the island of Samos\. In the hotspot of Samos 2/3 of the refugees are out of the capacity and the living condition is horrible\. — [Refugee Accommodation and Solidarity Space City Plaza](https://www.facebook.com/sol2refugeesen/?tn-str=k%2AF)](assets/5e2ad98d08bd/1*J5eX8DWp-lVbznLHpx8lNQ.jpeg)
+![Refugees in protest in front of Asylum offices in hotspot at the island of Samos\. In the hotspot of Samos 2/3 of the refugees are out of the capacity and the living condition is horrible\. — [Refugee Accommodation and Solidarity Space City Plaza](https://www.facebook.com/sol2refugeesen/?tn-str=k%2AF)](../assets/5e2ad98d08bd/1*J5eX8DWp-lVbznLHpx8lNQ.jpeg)
 
 Refugees in protest in front of Asylum offices in hotspot at the island of Samos\. In the hotspot of Samos 2/3 of the refugees are out of the capacity and the living condition is horrible\. — [Refugee Accommodation and Solidarity Space City Plaza](https://www.facebook.com/sol2refugeesen/?tn-str=k%2AF)
 ### New centres opening in Greece
@@ -259,11 +259,11 @@ Moderately to predominately cloudy, rain and possibly thunder in Dalmatia and to
 #### FRANCE
 
 
-![](assets/5e2ad98d08bd/1*_kMxNIvUkKCfPlKYwdNqMQ.jpeg)
+![](../assets/5e2ad98d08bd/1*_kMxNIvUkKCfPlKYwdNqMQ.jpeg)
 
 
 
-![Photos: [Solidarithé](https://www.facebook.com/solidarithe/?tn-str=k%2AF&hc_location=group_dialog)](assets/5e2ad98d08bd/1*1OOpCwB3Z1EI0DiC9QIIvA.jpeg)
+![Photos: [Solidarithé](https://www.facebook.com/solidarithe/?tn-str=k%2AF&hc_location=group_dialog)](../assets/5e2ad98d08bd/1*1OOpCwB3Z1EI0DiC9QIIvA.jpeg)
 
 Photos: [Solidarithé](https://www.facebook.com/solidarithe/?tn-str=k%2AF&hc_location=group_dialog)
 

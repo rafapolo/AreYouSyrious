@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 8/1/20: EASO steps up in Greece ‘to ensure individual asylum cases are dealt with…
+title: "AYS Daily Digest 8/1/20: EASO steps up in Greece ‘to ensure individual asylum cases are dealt with…"
 author: Are You Syrious?
 date: 2020-01-09T09:42:49.598+0000
 last_modified_at: 2020-01-09T12:23:55.703+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,balkans,europe]
 description: Aditional 550 personnel to help with asylum claims in Greece, and support in Malta / Difficult situation for the people on the move stuck…
 image:
-  path: assets/63755d20ca8/1*jeRFAK7wj2nFMxbWfNoqdQ.jpeg
+  path: ../assets/63755d20ca8/1*jeRFAK7wj2nFMxbWfNoqdQ.jpeg
 ---
 
 ### AYS Daily Digest 8/1/20: EASO steps up in Greece ‘to ensure individual asylum cases are dealt with in a coherent way’
 #### Additional 550 personnel to help with asylum claims in Greece, and support in Malta / Difficult situation for the people on the move stuck in Velika Kladuša continues / Germany: 20,000 people less asked for asylum in 2019 than did so the year before / Unaccompanied minors in the streets of Paris…
 
 
-![While people wait for their cases to move from status quo, these are their living conditions\. Chios, Greece \(Photo: [Pothiti Kitromilidi](https://www.facebook.com/pothiti.kitromilidi?fref=gs&__tn__=%2Cd%2AF%2AF-R&eid=ARCxL9S6VgnFvw7OWzcHTcuY8p8r0F5jtUKuckLWeeunjUHQ1bEZ4XgFDolOGUsWjlSjX3zlY1c1jTAV&tn-str=%2AF&dti=421759534684819&hc_location=group_dialog) \)](assets/63755d20ca8/1*jeRFAK7wj2nFMxbWfNoqdQ.jpeg)
+![While people wait for their cases to move from status quo, these are their living conditions\. Chios, Greece \(Photo: [Pothiti Kitromilidi](https://www.facebook.com/pothiti.kitromilidi?fref=gs&__tn__=%2Cd%2AF%2AF-R&eid=ARCxL9S6VgnFvw7OWzcHTcuY8p8r0F5jtUKuckLWeeunjUHQ1bEZ4XgFDolOGUsWjlSjX3zlY1c1jTAV&tn-str=%2AF&dti=421759534684819&hc_location=group_dialog) \)](../assets/63755d20ca8/1*jeRFAK7wj2nFMxbWfNoqdQ.jpeg)
 
 While people wait for their cases to move from status quo, these are their living conditions\. Chios, Greece \(Photo: [Pothiti Kitromilidi](https://www.facebook.com/pothiti.kitromilidi?fref=gs&__tn__=%2Cd%2AF%2AF-R&eid=ARCxL9S6VgnFvw7OWzcHTcuY8p8r0F5jtUKuckLWeeunjUHQ1bEZ4XgFDolOGUsWjlSjX3zlY1c1jTAV&tn-str=%2AF&dti=421759534684819&hc_location=group_dialog) \)
 #### FEATURED
@@ -22,7 +22,7 @@ While people wait for their cases to move from status quo, these are their livin
 The majority of the people stranded on the Greek islands are exposed to dire conditions and severe cold weather\. Their number has tripled in the past twelve months and reached over 42,000, according to Refugee Support Aegean\.
 
 
-![](assets/63755d20ca8/0*6B1M5UktJbbbu0n3)
+![](../assets/63755d20ca8/0*6B1M5UktJbbbu0n3)
 
 
 There are still many people classified as ‘vulnerable’ \(unaccompanied minors, women with children, sick men and women…\) who are living under unsuitable conditions in and around the official island camps\. Moria will surely be defined as one of our generation’s biggest disasters and missed opportunities to help and change it\. Recent figures say there are roughly 1,500 women at the camp on Chios, too\. Many single women are forced to live in a hostile male\-dominated space\. However, particularly single men are being trapped on the islands longest as the long wait for the asylum seekers in Greece has only gotten longer\. It seems that, at least in that field, some changes have now been announced\.
@@ -44,15 +44,15 @@ The volunteers are continuing their activities, providing clothes, shoes and foo
 Follow their social media for more updates on work in Šid \(Serbia\) and Patras \(Greece\) \.
 
 
-![](assets/63755d20ca8/1*59ruOEa0jltL8gBY4sP13A.jpeg)
+![](../assets/63755d20ca8/1*59ruOEa0jltL8gBY4sP13A.jpeg)
 
 
 
-![](assets/63755d20ca8/1*O1dDi9svDk_mvBzozErT8A.jpeg)
+![](../assets/63755d20ca8/1*O1dDi9svDk_mvBzozErT8A.jpeg)
 
 
 
-![Photos: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?tn-str=k%2AF&hc_location=group_dialog)](assets/63755d20ca8/1*LDXiBLESINmcv-uiFV79EA.jpeg)
+![Photos: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?tn-str=k%2AF&hc_location=group_dialog)](../assets/63755d20ca8/1*LDXiBLESINmcv-uiFV79EA.jpeg)
 
 Photos: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?tn-str=k%2AF&hc_location=group_dialog)
 

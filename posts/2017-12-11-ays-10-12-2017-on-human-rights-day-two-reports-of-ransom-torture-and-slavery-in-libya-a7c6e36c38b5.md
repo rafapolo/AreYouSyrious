@@ -7,7 +7,7 @@ categories:
 tags: [refugees,libya,human-rights,opentheislands,blacklivesmatter]
 description: Busy weekend in the Mediterranean /// Dire hygienic conditions on the Greek islands /// Snow and no shelters in Calais /// Demonstration…
 image:
-  path: assets/a7c6e36c38b5/1*FkvW630QrJw6whC_NO7e9g.jpeg
+  path: ../assets/a7c6e36c38b5/1*FkvW630QrJw6whC_NO7e9g.jpeg
 ---
 
 ### AYS 10/12/2017 \- On Human Rights Day two reports of ransom, torture and slavery in Libya
@@ -15,7 +15,7 @@ image:
 Busy weekend in the Mediterranean /// Dire hygienic conditions on the Greek islands /// Snow and no shelters in Calais /// Demonstration against mass deportation in Sweden /// Updates from anti\-slavery demo in London
 
 
-![The Rich get richer, by Rodrigo de Matos \(Art Against\)](assets/a7c6e36c38b5/1*FkvW630QrJw6whC_NO7e9g.jpeg)
+![The Rich get richer, by Rodrigo de Matos \(Art Against\)](../assets/a7c6e36c38b5/1*FkvW630QrJw6whC_NO7e9g.jpeg)
 
 The Rich get richer, by Rodrigo de Matos \(Art Against\)
 #### **Feature — On Human Rights Day two reports of ransom, torture and slavery in Libya**
@@ -49,11 +49,11 @@ In one illegal detention building, people have been imprisoned for 8 weeks since
 Refugees staying at a smugglers connection house, who have already paid for the sea trip, are also being asked to pay $3600 each just to be taken to the legal detention\. Refugees held hostage by the smugglers report being tortured, starved and raped\. People are desperate and families don’t know what to do\.
 
 
-![](assets/a7c6e36c38b5/1*lNoYOuc1G8MHT_1ZVv85tg.jpeg)
+![](../assets/a7c6e36c38b5/1*lNoYOuc1G8MHT_1ZVv85tg.jpeg)
 
 
 
-![These are pictures from the so called legal detention, taken by the refugees\. @ [Meron Estefanos](https://twitter.com/meronina/status/939823127537836032)](assets/a7c6e36c38b5/1*E3q_gMdEwd350l5KixZyVQ.jpeg)
+![These are pictures from the so called legal detention, taken by the refugees\. @ [Meron Estefanos](https://twitter.com/meronina/status/939823127537836032)](../assets/a7c6e36c38b5/1*E3q_gMdEwd350l5KixZyVQ.jpeg)
 
 These are pictures from the so called legal detention, taken by the refugees\. @ [Meron Estefanos](https://twitter.com/meronina/status/939823127537836032)
 
@@ -254,11 +254,11 @@ The centre held 90 asylum seekers waiting to be deported\. No one was harmed but
 [Refugee Info Bus](https://web.facebook.com/RefugeeInfoBus/) is among the organisations working in Calais\.
 
 
-![](assets/a7c6e36c38b5/1*TeLYTUATGE7Cj9WkpunO3w.jpeg)
+![](../assets/a7c6e36c38b5/1*TeLYTUATGE7Cj9WkpunO3w.jpeg)
 
 
 
-![Snow in Calais \(Photos by Refugee Info Bus\)](assets/a7c6e36c38b5/1*biJhaECwch42uVOg8s_nPw.jpeg)
+![Snow in Calais \(Photos by Refugee Info Bus\)](../assets/a7c6e36c38b5/1*biJhaECwch42uVOg8s_nPw.jpeg)
 
 Snow in Calais \(Photos by Refugee Info Bus\)
 
@@ -287,7 +287,7 @@ Chris, a long term volunteer of the [Refugee Community Kitchen](https://web.face
 
 
 
-![Photo by [Chris Sees World](https://chrisseesworld.com/2017/12/09/frosty-reception/)](assets/a7c6e36c38b5/1*qZBsE0qtdcjXKaTBiKd3fQ.jpeg)
+![Photo by [Chris Sees World](https://chrisseesworld.com/2017/12/09/frosty-reception/)](../assets/a7c6e36c38b5/1*qZBsE0qtdcjXKaTBiKd3fQ.jpeg)
 
 Photo by [Chris Sees World](https://chrisseesworld.com/2017/12/09/frosty-reception/)
 
@@ -297,7 +297,7 @@ Read the full account and find some useful resources on [his website](https://ch
 #### Demonstration to stop mass deportation on Monday 11th December
 
 
-![](assets/a7c6e36c38b5/1*jK11csumUj7dgrGILgqO2g.jpeg)
+![](../assets/a7c6e36c38b5/1*jK11csumUj7dgrGILgqO2g.jpeg)
 
 
 [Refugees welcome — Swerige](https://web.facebook.com/refugeeswelcomesverige/) published a call for demonstration against a planned mass deportation from Åstorp, at 11 AM on Monday\.
@@ -312,25 +312,25 @@ Read more [here](http://mailchi.mp/0912630aa7e8/organisationer-vill-stoppa-depor
 Photos and a report on Saturday anti\-slavery [demonstration](https://web.facebook.com/events/460529561008367/?active_tab=discussion) were posted:
 
 
-![Photo by [Amma Fosuah Poku](https://web.facebook.com/ammafosuah.poku?hc_ref=ARR2dNcec9O2LnQnv4I3jSnc8xuSIqxQko_W8iG7Eb6B-mnoXUW9tlqybPJU4lAVves)](assets/a7c6e36c38b5/1*tP2ujb5ZP0xJgZFqo38xJg.jpeg)
+![Photo by [Amma Fosuah Poku](https://web.facebook.com/ammafosuah.poku?hc_ref=ARR2dNcec9O2LnQnv4I3jSnc8xuSIqxQko_W8iG7Eb6B-mnoXUW9tlqybPJU4lAVves)](../assets/a7c6e36c38b5/1*tP2ujb5ZP0xJgZFqo38xJg.jpeg)
 
 Photo by [Amma Fosuah Poku](https://web.facebook.com/ammafosuah.poku?hc_ref=ARR2dNcec9O2LnQnv4I3jSnc8xuSIqxQko_W8iG7Eb6B-mnoXUW9tlqybPJU4lAVves)
 
 Thanks to everyone who participated in the protest today\. We started in Belgrave Square, marched to the Libyan embassy in Knightsbrigde where we chanted, made our voices heard and listened to solidarity messages\.
 
 
-![Photo by [Amma Fosuah Poku](https://web.facebook.com/ammafosuah.poku?hc_ref=ARR2dNcec9O2LnQnv4I3jSnc8xuSIqxQko_W8iG7Eb6B-mnoXUW9tlqybPJU4lAVves)](assets/a7c6e36c38b5/1*dY3Tmkrc11yWEt5Q7QcSAw.jpeg)
+![Photo by [Amma Fosuah Poku](https://web.facebook.com/ammafosuah.poku?hc_ref=ARR2dNcec9O2LnQnv4I3jSnc8xuSIqxQko_W8iG7Eb6B-mnoXUW9tlqybPJU4lAVves)](../assets/a7c6e36c38b5/1*dY3Tmkrc11yWEt5Q7QcSAw.jpeg)
 
 Photo by [Amma Fosuah Poku](https://web.facebook.com/ammafosuah.poku?hc_ref=ARR2dNcec9O2LnQnv4I3jSnc8xuSIqxQko_W8iG7Eb6B-mnoXUW9tlqybPJU4lAVves)
 
 We moved on to march down Pall Mall, pass Buckingham Palace through Trafalgar Square, up to Downing Street, the official residence of the Prime Minister, all along making our voices heard\.
 
 
-![](assets/a7c6e36c38b5/1*SEicQDuPe7BJZjRtwrN-MQ.jpeg)
+![](../assets/a7c6e36c38b5/1*SEicQDuPe7BJZjRtwrN-MQ.jpeg)
 
 
 
-![Photo by [Amma Fosuah Poku](https://web.facebook.com/ammafosuah.poku?hc_ref=ARR2dNcec9O2LnQnv4I3jSnc8xuSIqxQko_W8iG7Eb6B-mnoXUW9tlqybPJU4lAVves)](assets/a7c6e36c38b5/1*bE-xHbxB2A1CDNBUFQpjbw.jpeg)
+![Photo by [Amma Fosuah Poku](https://web.facebook.com/ammafosuah.poku?hc_ref=ARR2dNcec9O2LnQnv4I3jSnc8xuSIqxQko_W8iG7Eb6B-mnoXUW9tlqybPJU4lAVves)](../assets/a7c6e36c38b5/1*bE-xHbxB2A1CDNBUFQpjbw.jpeg)
 
 Photo by [Amma Fosuah Poku](https://web.facebook.com/ammafosuah.poku?hc_ref=ARR2dNcec9O2LnQnv4I3jSnc8xuSIqxQko_W8iG7Eb6B-mnoXUW9tlqybPJU4lAVves)
 

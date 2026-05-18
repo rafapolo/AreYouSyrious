@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 2/8/21: European Court for Human Rights decides against Austria’s deportation to…
+title: "AYS Daily Digest 2/8/21: European Court for Human Rights decides against Austria’s deportation to…"
 author: Are You Syrious?
 date: 2021-08-03T17:39:05.089+0100
 last_modified_at: 2021-08-03T23:34:35.274+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,afghanistan,human-rights,europe]
 description: Dangerous crossings in the Mediterranean — more than 800 people saved during the weekend / EU Commissioner for Home Affairs Ylva Johansson…
 image:
-  path: assets/117acc7bd16c/0*1ki54qWTjrnJBYCv
+  path: ../assets/117acc7bd16c/0*1ki54qWTjrnJBYCv
 ---
 
 ### AYS Daily Digest 2/8/21: European Court for Human Rights rules against Austria’s deportation to Afghanistan
 #### Dangerous crossings in the Mediterranean — more than 800 people saved during the weekend / EU Commissioner for Home Affairs Ylva Johansson calls for barrier at the Ukranian border with Belarus / French and Greek activists need help and support / recommended reads & other news
 
 
-![Search and rescue at sea — “critical rescue of ~400 people from a large wooden boat taking on water\.” — via [SOS MEDITERRANEE](https://twitter.com/SOSMedIntl)](assets/117acc7bd16c/0*1ki54qWTjrnJBYCv)
+![Search and rescue at sea — “critical rescue of ~400 people from a large wooden boat taking on water\.” — via [SOS MEDITERRANEE](https://twitter.com/SOSMedIntl)](../assets/117acc7bd16c/0*1ki54qWTjrnJBYCv)
 
 Search and rescue at sea — “critical rescue of ~400 people from a large wooden boat taking on water\.” — via [SOS MEDITERRANEE](https://twitter.com/SOSMedIntl)
 #### FEATURE
@@ -60,7 +60,7 @@ The most recent rescue was reportedly in international waters off the Tunisian c
 The volunteers said the situation was tense, as the boat was about to sink and many people were already in the water\. Among those rescued by the Ocean Viking are at least 28 women and 33 minors, two\-thirds of whom appear to be unaccompanied\. Meanwhile, SOS Mediterranee said that “the youngest survivor rescued in this operation is just 3 months old\.”
 
 
-![Inside of a boat that carried people who experienced shipwreck \(Photo credits: via SOS Mediterranee, by: Flavio Gasperini\)](assets/117acc7bd16c/0*vdi4bMIAYHBT4ooF)
+![Inside of a boat that carried people who experienced shipwreck \(Photo credits: via SOS Mediterranee, by: Flavio Gasperini\)](../assets/117acc7bd16c/0*vdi4bMIAYHBT4ooF)
 
 Inside of a boat that carried people who experienced shipwreck \(Photo credits: via SOS Mediterranee, by: Flavio Gasperini\)
 

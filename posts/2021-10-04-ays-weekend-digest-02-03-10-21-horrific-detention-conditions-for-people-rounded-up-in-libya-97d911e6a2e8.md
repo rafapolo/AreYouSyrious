@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 02–03.10.21: Horrific Detention Conditions for People Rounded-Up in Libya
+title: "AYS Weekend Digest 02–03.10.21: Horrific Detention Conditions for People Rounded-Up in Libya"
 author: Are You Syrious?
 date: 2021-10-04T14:49:41.749+0100
 last_modified_at: 2021-10-04T14:58:41.845+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,lampedusa,libya,detention,greece]
 description: Lampedusa Day / 57 lives lost at sea / Pushbacks, Prisons and drug smuggling in Greece / Far-right attack in Athens / Homelessness in Paris…
 image:
-  path: assets/97d911e6a2e8/1*Q-8BloYcCyX5_zc3A7Q84g.jpeg
+  path: ../assets/97d911e6a2e8/1*Q-8BloYcCyX5_zc3A7Q84g.jpeg
 ---
 
 ### AYS Weekend Digest 02–03\.10\.21: Horrific Detention Conditions for People Rounded\-Up in Libya
@@ -15,7 +15,7 @@ image:
 Lampedusa Day / 57 lives lost at sea / Pushbacks, Prisons and drug smuggling in Greece / Far\-right attack in Athens / Homelessness in Paris / Fake news in the UK and more …
 
 
-![\(Photo Credit: [Open Arms](https://twitter.com/openarms_found/status/1444661712809046018) \. Invisible\. Thus 368 people died a few miles [\#Lampedusa](https://twitter.com/hashtag/Lampedusa?src=hashtag_click) that October 3rd 2013, without anyone helping them\. One of the most serious humanitarian catastrophes [\#Mediterranean](https://twitter.com/hashtag/Mediterranean?src=hashtag_click) in the 21st century, an open wound for those who still believe in humanity\. [\#3October](https://twitter.com/hashtag/3October?src=hashtag_click) [\#3ottobre](https://twitter.com/hashtag/3ottobre?src=hashtag_click) \)](assets/97d911e6a2e8/1*Q-8BloYcCyX5_zc3A7Q84g.jpeg)
+![\(Photo Credit: [Open Arms](https://twitter.com/openarms_found/status/1444661712809046018) \. Invisible\. Thus 368 people died a few miles [\#Lampedusa](https://twitter.com/hashtag/Lampedusa?src=hashtag_click) that October 3rd 2013, without anyone helping them\. One of the most serious humanitarian catastrophes [\#Mediterranean](https://twitter.com/hashtag/Mediterranean?src=hashtag_click) in the 21st century, an open wound for those who still believe in humanity\. [\#3October](https://twitter.com/hashtag/3October?src=hashtag_click) [\#3ottobre](https://twitter.com/hashtag/3ottobre?src=hashtag_click) \)](../assets/97d911e6a2e8/1*Q-8BloYcCyX5_zc3A7Q84g.jpeg)
 
 \(Photo Credit: [Open Arms](https://twitter.com/openarms_found/status/1444661712809046018) \. Invisible\. Thus 368 people died a few miles [\#Lampedusa](https://twitter.com/hashtag/Lampedusa?src=hashtag_click) that October 3rd 2013, without anyone helping them\. One of the most serious humanitarian catastrophes [\#Mediterranean](https://twitter.com/hashtag/Mediterranean?src=hashtag_click) in the 21st century, an open wound for those who still believe in humanity\. [\#3October](https://twitter.com/hashtag/3October?src=hashtag_click) [\#3ottobre](https://twitter.com/hashtag/3ottobre?src=hashtag_click) \)
 #### FEATURED: Horrific Detention Conditions for People Rounded\-Up in Libya
@@ -201,15 +201,15 @@ FRANCE
 #### Homelessness in Paris
 
 
-![](assets/97d911e6a2e8/1*PTclfxraM4nroeDLH7K6ZQ.jpeg)
+![](../assets/97d911e6a2e8/1*PTclfxraM4nroeDLH7K6ZQ.jpeg)
 
 
 
-![](assets/97d911e6a2e8/1*QtI70gq7huELWcSkBrScdQ.jpeg)
+![](../assets/97d911e6a2e8/1*QtI70gq7huELWcSkBrScdQ.jpeg)
 
 
 
-![\(Photo Credit: [Utopia 56](https://www.facebook.com/U56ParisIDF/posts/2745110725788370) \)](assets/97d911e6a2e8/1*tavF6V7UPG8V5yTiGCktqw.jpeg)
+![\(Photo Credit: [Utopia 56](https://www.facebook.com/U56ParisIDF/posts/2745110725788370) \)](../assets/97d911e6a2e8/1*tavF6V7UPG8V5yTiGCktqw.jpeg)
 
 \(Photo Credit: [Utopia 56](https://www.facebook.com/U56ParisIDF/posts/2745110725788370) \)
 

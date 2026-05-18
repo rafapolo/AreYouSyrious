@@ -1,13 +1,13 @@
 ---
-title: AYS Weekend Digest 30–31/05/2020 Greece: Vagiachori camp occupied against planned evictions
+title: "AYS Weekend Digest 30–31/05/2020 Greece: Vagiachori camp occupied against planned evictions"
 author: Are You Syrious?
 date: 2020-06-01T12:18:02.350+0100
 last_modified_at: 2020-06-01T12:56:23.085+0100
 categories: Are You Syrious?
 tags: [refugees,digest,pushback,balkan-route,turkey-greece]
-description: MALTA: delays in the inquiry over deaths at sea. GREECE: more pushbacks on land and sea. CROATIA: New BVMN report on pushback against…
+description: "MALTA: delays in the inquiry over deaths at sea. GREECE: more pushbacks on land and sea. CROATIA: New BVMN report on pushback against…"
 image:
-  path: assets/bc903088030a/1*rqRJTNk_1ZBs5FR-x3vFew.jpeg
+  path: ../assets/bc903088030a/1*rqRJTNk_1ZBs5FR-x3vFew.jpeg
 ---
 
 ### AYS Weekend Digest 30–31/05/2020 Greece: Vagiachori camp occupied against planned evictions
@@ -15,7 +15,7 @@ image:
 Malta: Delays in the inquiry over deaths at sea / Greece and Turkey: More pushbacks on land and sea / Croatia: New BVMN report on pushbacks against children\.
 
 
-![While the US burns in response to the death of George Floyd at the hands of Minneapolis police, Europe sympathises with the protests\. Between 2014 and 2019 more people were [killed in the mediterranean by EU migration policies](https://missingmigrants.iom.int/region/mediterranean) than [by US police agents](https://mappingpoliceviolence.org/nationaltrends) \. Why is Europe not burning? Black lives matter here too\. The problem is borders\. Photo via [No Name Kitchen](https://twitter.com/NoNameKitchen1/status/1267023818884820993/photo/1) \.](assets/bc903088030a/1*rqRJTNk_1ZBs5FR-x3vFew.jpeg)
+![While the US burns in response to the death of George Floyd at the hands of Minneapolis police, Europe sympathises with the protests\. Between 2014 and 2019 more people were [killed in the mediterranean by EU migration policies](https://missingmigrants.iom.int/region/mediterranean) than [by US police agents](https://mappingpoliceviolence.org/nationaltrends) \. Why is Europe not burning? Black lives matter here too\. The problem is borders\. Photo via [No Name Kitchen](https://twitter.com/NoNameKitchen1/status/1267023818884820993/photo/1) \.](../assets/bc903088030a/1*rqRJTNk_1ZBs5FR-x3vFew.jpeg)
 
 While the US burns in response to the death of George Floyd at the hands of Minneapolis police, Europe sympathises with the protests\. Between 2014 and 2019 more people were [killed in the mediterranean by EU migration policies](https://missingmigrants.iom.int/region/mediterranean) than [by US police agents](https://mappingpoliceviolence.org/nationaltrends) \. Why is Europe not burning? Black lives matter here too\. The problem is borders\. Photo via [No Name Kitchen](https://twitter.com/NoNameKitchen1/status/1267023818884820993/photo/1) \.
 #### GREECE: Vagiachori camp occupied in response to today’s planned evictions
@@ -187,7 +187,7 @@ SERBIA
 The 29th of May was the [3rd anniversary of No Name Kitchen](https://web.facebook.com/NoNameKitchenBelgrade/posts/991511871247097?hc_location=ufi) \!
 
 
-![\(Photo Credit: [No Name Kitchen](https://web.facebook.com/NoNameKitchenBelgrade/posts/991511871247097?hc_location=ufi) \)](assets/bc903088030a/1*hs4uZKiE7qy0aXXS5OZRQA.jpeg)
+![\(Photo Credit: [No Name Kitchen](https://web.facebook.com/NoNameKitchenBelgrade/posts/991511871247097?hc_location=ufi) \)](../assets/bc903088030a/1*hs4uZKiE7qy0aXXS5OZRQA.jpeg)
 
 \(Photo Credit: [No Name Kitchen](https://web.facebook.com/NoNameKitchenBelgrade/posts/991511871247097?hc_location=ufi) \)
 

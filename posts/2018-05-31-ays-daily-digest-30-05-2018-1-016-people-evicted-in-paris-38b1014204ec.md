@@ -5,9 +5,9 @@ date: 2018-05-31T10:45:17.243+0100
 last_modified_at: 2018-05-31T13:28:36.787+0100
 categories: Are You Syrious?
 tags: [refugees,digest,belgium,lesvos,mawda]
-description: Belgium: Thousands of people gather for Mawda’s Funeral /// Greece: Updates from Lesvos /// Greece: Summer School programme in Ritsona Camp…
+description: "Belgium: Thousands of people gather for Mawda’s Funeral /// Greece: Updates from Lesvos /// Greece: Summer School programme in Ritsona Camp…"
 image:
-  path: assets/38b1014204ec/1*7cD-XokrQ8z4DGemOAQXpA.jpeg
+  path: ../assets/38b1014204ec/1*7cD-XokrQ8z4DGemOAQXpA.jpeg
 ---
 
 ### AYS Daily Digest 30/05/2018–1,016 People Evicted in Paris
@@ -15,7 +15,7 @@ image:
 Belgium: Thousands of people gather for Mawda’s Funeral /// Greece: Updates from Lesvos /// Greece: Summer School programme in Ritsona Camp /// Italy: eviction halted in Matera province /// Germany: Deportation prevented in Munich /// Sea: new rescues in the Alborean Sea /// more news, info and updates from Afghanistan, Bosnia, Bulgaria, Iceland, Sweden and the UK
 
 
-![Brussels: Thousands of people wearing white at the funeral of Mawda Shawri, 2 years old, shot by a Belgian policeman \(Photos by Michel Henrion — [Help Refugees](https://www.facebook.com/HelpRefugeesUK) \)](assets/38b1014204ec/1*7cD-XokrQ8z4DGemOAQXpA.jpeg)
+![Brussels: Thousands of people wearing white at the funeral of Mawda Shawri, 2 years old, shot by a Belgian policeman \(Photos by Michel Henrion — [Help Refugees](https://www.facebook.com/HelpRefugeesUK) \)](../assets/38b1014204ec/1*7cD-XokrQ8z4DGemOAQXpA.jpeg)
 
 Brussels: Thousands of people wearing white at the funeral of Mawda Shawri, 2 years old, shot by a Belgian policeman \(Photos by Michel Henrion — [Help Refugees](https://www.facebook.com/HelpRefugeesUK) \)
 #### Feature: 1,016 People Evicted in Paris
@@ -71,7 +71,7 @@ SEA
 #### **Arrivals in 2018 reach 30,000 people**
 
 
-![](assets/38b1014204ec/1*xRgM5ZaWBo_-gdfSd-FUcQ.jpeg)
+![](../assets/38b1014204ec/1*xRgM5ZaWBo_-gdfSd-FUcQ.jpeg)
 
 #### **More than 70 people rescued in the Western Mediterranean**
 
@@ -128,7 +128,7 @@ GREEK ISLANDS
 As of 29 May, 16,815 asylum seekers are still on the island\.
 
 
-![](assets/38b1014204ec/1*TsABAXBlk27g7hR25eGIkg.jpeg)
+![](../assets/38b1014204ec/1*TsABAXBlk27g7hR25eGIkg.jpeg)
 
 
 Different numbers were published by UNHCR for [Samos](https://www.facebook.com/AegeanBoatReport/photos/a.285312485325196.1073741828.285298881993223/356068194916291/?type=3&theater) and [Lesvos](https://www.facebook.com/AegeanBoatReport/photos/a.285312485325196.1073741828.285298881993223/356169754906135/?type=3&theater) \.
@@ -344,22 +344,22 @@ FRANCE
 #### **FAST \(First Aid Support Team\) needs medical volunteers in Calais and Dunkerque**
 
 
-![](assets/38b1014204ec/1*jCQ8CL6G_pfFYFdITJJPdA.jpeg)
+![](../assets/38b1014204ec/1*jCQ8CL6G_pfFYFdITJJPdA.jpeg)
 
 
 BELGIUM
 #### **Thousands of people gathered to remember Mawda\.**
 
 
-![](assets/38b1014204ec/1*H6wMu78FzWoSy7HJywsvnw.jpeg)
+![](../assets/38b1014204ec/1*H6wMu78FzWoSy7HJywsvnw.jpeg)
 
 
 
-![](assets/38b1014204ec/1*e_DViFO72ul9qV1lZupWkw.jpeg)
+![](../assets/38b1014204ec/1*e_DViFO72ul9qV1lZupWkw.jpeg)
 
 
 
-![Photos by Michel Henrion — [Help Refugees](https://www.facebook.com/HelpRefugeesUK) and [Plateforme citoyenne de soutien aux réfugiés Bruxelles](https://www.facebook.com/plateformerefugiesbxl/)](assets/38b1014204ec/1*BnlaCC7Wkyks5vuxbwA6Lg.jpeg)
+![Photos by Michel Henrion — [Help Refugees](https://www.facebook.com/HelpRefugeesUK) and [Plateforme citoyenne de soutien aux réfugiés Bruxelles](https://www.facebook.com/plateformerefugiesbxl/)](../assets/38b1014204ec/1*BnlaCC7Wkyks5vuxbwA6Lg.jpeg)
 
 Photos by Michel Henrion — [Help Refugees](https://www.facebook.com/HelpRefugeesUK) and [Plateforme citoyenne de soutien aux réfugiés Bruxelles](https://www.facebook.com/plateformerefugiesbxl/)
 

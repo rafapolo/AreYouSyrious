@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 3/9: Italians are opening their homes for refugees
+title: "AYS DAILY DIGEST 3/9: Italians are opening their homes for refugees"
 author: Are You Syrious?
 date: 2016-09-03T23:48:59.521+0100
 last_modified_at: 2016-09-04T13:53:23.210+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,šid,tuscany,greece]
 description: Only 5 percent of people relocated so far from Greece and Italy. Government is looking for solution for overcrowded islands in both…
 image:
-  path: assets/fa73d8325ba7/1*zVhWOebcjO54X1d_ed0uTA.jpeg
+  path: ../assets/fa73d8325ba7/1*zVhWOebcjO54X1d_ed0uTA.jpeg
 ---
 
 ### AYS DAILY DIGEST 3/9: Italians are opening their homes for refugees
@@ -15,7 +15,7 @@ image:
 _Only 5 percent of people relocated so far from Greece and Italy\. Government is looking for solution for overcrowded islands in both countries\. 65 cases of malaria registered in Greece\. School year for refugees should start by the end of September\. Warm welcome for refugees by people in Tuscany, Italy\. Europe has no plan to open the borders and time soon\. People in Šid, Serbia, want to impose restrictions on freedom of movement for refugees_
 
 
-![Under siege\. By [Therough refugee eyes](https://www.facebook.com/throughrefugeeeyes/?fref=ts) \.](assets/fa73d8325ba7/1*zVhWOebcjO54X1d_ed0uTA.jpeg)
+![Under siege\. By [Therough refugee eyes](https://www.facebook.com/throughrefugeeeyes/?fref=ts) \.](../assets/fa73d8325ba7/1*zVhWOebcjO54X1d_ed0uTA.jpeg)
 
 Under siege\. By [Therough refugee eyes](https://www.facebook.com/throughrefugeeeyes/?fref=ts) \.
 ### Greece
@@ -107,7 +107,7 @@ There is no information regarding education for children who entered Greece afte
 ![“Try to realize\! 
 Try to imagine what we were able to do in that time\.
 Seven months, we were able to learn new language, continue our school or start new work
-when we left our country we were dreaming to find new way, to build our life and then when the war in Syria will stop we will be back in our country to build it again, it’s not so big dreams to continue your school, to live safe and to work But the world saw it so big for us \. \. every time we are looking at the mirror it’s the same we still here in Greece, just date is changing, just the time\.” By [Through refugee eye](https://www.facebook.com/throughrefugeeeyes/photos/a.267469110309533.1073741828.266986607024450/341090519614058/?type=3&theater) s\.](assets/fa73d8325ba7/1*hUW60IKGl3fr9E80UBdWeQ.jpeg)
+when we left our country we were dreaming to find new way, to build our life and then when the war in Syria will stop we will be back in our country to build it again, it’s not so big dreams to continue your school, to live safe and to work But the world saw it so big for us \. \. every time we are looking at the mirror it’s the same we still here in Greece, just date is changing, just the time\.” By [Through refugee eye](https://www.facebook.com/throughrefugeeeyes/photos/a.267469110309533.1073741828.266986607024450/341090519614058/?type=3&theater) s\.](../assets/fa73d8325ba7/1*hUW60IKGl3fr9E80UBdWeQ.jpeg)
 
 “Try to realize\! 
 Try to imagine what we were able to do in that time\.
@@ -150,7 +150,7 @@ According to UNHCR data, last week 4,400 were present in Serbia last week, most 
 The number of people on the Serbian side of the border with Hungary, dropped below 350 from 840 last month\. Some people were moved to centers around the country, while some, after registering to the list to cross to Hungary, are finding accommodation on their own\. Hungary continues to admit around 30 people each day\. Most of the people who are waiting at the border to cross are from Afghanistan are Syrians\.
 
 
-![Photo by Mitra Nazar in Belgrade\.](assets/fa73d8325ba7/1*1KXuGQ4_pFW6fxvdGS3Gyw.jpeg)
+![Photo by Mitra Nazar in Belgrade\.](../assets/fa73d8325ba7/1*1KXuGQ4_pFW6fxvdGS3Gyw.jpeg)
 
 Photo by Mitra Nazar in Belgrade\.
 #### Petition for restriction on freedom of movement
@@ -165,7 +165,7 @@ Working hours will be from 15 to 21, 7 days a week\.
 For more info, [visit their FB](https://www.facebook.com/izbegliceusrbiji/posts/1330998750244432) \.
 
 
-![Place to rest, socialize and relax\. Photo by [**Refugees Foundation Serbia**](https://www.facebook.com/izbegliceusrbiji/?fref=nf)](assets/fa73d8325ba7/1*O6sD8gOI_dD_KZ3Jp4lKWA.jpeg)
+![Place to rest, socialize and relax\. Photo by [**Refugees Foundation Serbia**](https://www.facebook.com/izbegliceusrbiji/?fref=nf)](../assets/fa73d8325ba7/1*O6sD8gOI_dD_KZ3Jp4lKWA.jpeg)
 
 Place to rest, socialize and relax\. Photo by [**Refugees Foundation Serbia**](https://www.facebook.com/izbegliceusrbiji/?fref=nf)
 ### Italy
@@ -196,7 +196,7 @@ The trial period is three months; the new inhabitant will be a man \(women and c
 Volunteers in the UK are calling all to join them in solidarity with the refugees\. They plan a march toward the Parliament Square\.
 
 
-![Photo [**Care4Calais**](https://www.facebook.com/care4calais/?fref=nf)](assets/fa73d8325ba7/1*nJFFwE2u9_toXq0Dm5vQ9w.jpeg)
+![Photo [**Care4Calais**](https://www.facebook.com/care4calais/?fref=nf)](../assets/fa73d8325ba7/1*nJFFwE2u9_toXq0Dm5vQ9w.jpeg)
 
 Photo [**Care4Calais**](https://www.facebook.com/care4calais/?fref=nf)
 

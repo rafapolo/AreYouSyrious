@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 25/02/2017: UNHCR vs. people testimonies about life in Greek islands
+title: "AYS DAILY DIGEST 25/02/2017: UNHCR vs. people testimonies about life in Greek islands"
 author: Are You Syrious?
 date: 2017-02-26T00:05:29.619+0000
 last_modified_at: 2017-03-06T12:40:37.765+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,moria,relocation]
 description: The slow process of relocation // Number of people arriving in Europe from Pakistan increases daily // Protests at Moria // Over 20 people…
 image:
-  path: assets/8b50869b57ae/1*41XL375uDcq84VZLfNQ0Lw.jpeg
+  path: ../assets/8b50869b57ae/1*41XL375uDcq84VZLfNQ0Lw.jpeg
 ---
 
 ### AYS DAILY DIGEST 25/02/2017: UNHCR vs\. people testimonies about life in Greek islands
@@ -15,7 +15,7 @@ image:
 _The slow process of relocation // Number of people arriving in Europe from Pakistan increases daily // Protests at Moria // Over 20 people arrested in Bosnia while trying to cross from Serbia // People in Paris moved rocks together // Welcome refugees protests in France, Bulgaria, UK…_
 
 
-![Photo by [**Philippe Caro**](https://www.facebook.com/philippe.caro.7)](assets/8b50869b57ae/1*41XL375uDcq84VZLfNQ0Lw.jpeg)
+![Photo by [**Philippe Caro**](https://www.facebook.com/philippe.caro.7)](../assets/8b50869b57ae/1*41XL375uDcq84VZLfNQ0Lw.jpeg)
 
 Photo by [**Philippe Caro**](https://www.facebook.com/philippe.caro.7)
 ### Feature
@@ -28,15 +28,15 @@ At the same period of time, the sea took lives of 366 brave people who took this
 Those who managed to find their way into Europe are facing arrests, deportations and harsh migration policies all over the continent\. Images from Hungarian\-Serbian border and the systematic violence people are faced every day with, were not in today’s major European media\. Even though, unfortunately, these images do portray the EU today\. [We reported yesterday](https://medium.com/me/stories/public) about that, but we remind about this crimes committed over people who are probably among not too many who still believe in European dream\.
 
 
-![](assets/8b50869b57ae/1*GMDCoWKwz8TeL4swiiWteQ.jpeg)
+![](../assets/8b50869b57ae/1*GMDCoWKwz8TeL4swiiWteQ.jpeg)
 
 
 
-![](assets/8b50869b57ae/1*g0dHiYNe-qPaqjANdwht3g.jpeg)
+![](../assets/8b50869b57ae/1*g0dHiYNe-qPaqjANdwht3g.jpeg)
 
 
 
-![Victims of Hungarian border police brutality\.](assets/8b50869b57ae/1*g18s05cPRROBE0VrcRQ5Ug.jpeg)
+![Victims of Hungarian border police brutality\.](../assets/8b50869b57ae/1*g18s05cPRROBE0VrcRQ5Ug.jpeg)
 
 Victims of Hungarian border police brutality\.
 
@@ -49,7 +49,7 @@ Meanwhile, relocation inside of Europe remains extremely slow, something that is
 Today, 60 new arrivals were registered in overcrowded Greek islands, adding to 189 that were already registered during the week\. New arrivals were registered in Akrotiri Peninsula in Crete\. All, including one child and 12 unaccompanied minors among, came from Pakistan\. Apparently, they have been for two days at the sea after leaving from Bodrum, Turkey\. According to the [Refugee City Plaza Hotel](https://www.facebook.com/sol2refugeesen/) sources, all people who arrived have been transferred to an indoor hall in the city of Chania\.
 
 
-![](assets/8b50869b57ae/1*JjpRhF3AWaV52L-31Bkq_w.jpeg)
+![](../assets/8b50869b57ae/1*JjpRhF3AWaV52L-31Bkq_w.jpeg)
 
 
 So far this year, 2,053 people have arrived in Greece\. People from the islands are still being transferred to the mainland, some to apartments, but many to camps all over Greece, where conditions are not improved much over the time\. In their weekly report UNHCR claims that the _“Greek authorities and humanitarian actors continued to improve conditions and shelter in priority sites, particularly in a number of Reception and Identification Centres \(RIC\) on the islands, where overcrowding remained a serious concern \(Lesvos, Samos, Chios\) \.”_ We did not get this type of information from refugees or volunteers in the field, so far\. All we can hear is that the conditions are not improving at all\.
@@ -57,7 +57,7 @@ So far this year, 2,053 people have arrived in Greece\. People from the islands 
 Two young Syrians, who are stuck in Moria, Lesvos, are telling about their everyday life in the camp, giving picture different that those given by the UNHCR\.
 
 
-[![Basel & Murad - the tent](assets/8b50869b57ae/ef8a_hqdefault.jpg "Basel & Murad - the tent")](http://www.youtube.com/watch?v=0VksLTGl2jE)
+[![Basel & Murad - the tent](../assets/8b50869b57ae/ef8a_hqdefault.jpg "Basel & Murad - the tent")](http://www.youtube.com/watch?v=0VksLTGl2jE)
 
 
 You can follow Basel and Murad on their You Tube channel Camp Moria Refugee Twins every day\.
@@ -99,7 +99,7 @@ For detailed but simplified information on all of these procedures please see [R
 [The Mobile Info Team](https://www.facebook.com/mobileinfoteam/?fref=nf) [Info sheets](http://bit.ly/info-sheets-english) on different asylum options are available online, in different languages\. Check out these info sheets to make sure you know as much as possible about the asylum procedures you need to go through\.
 
 
-![](assets/8b50869b57ae/1*IOtNKz0CZf5T8-T1OUZo3w.jpeg)
+![](../assets/8b50869b57ae/1*IOtNKz0CZf5T8-T1OUZo3w.jpeg)
 
 
 [Truck Shop, without the truck](https://www.facebook.com/mobileclothesproject/) it is a free shop where families and individuals who are now housed in apartments or hotels, can come and choose what they need and like\.
@@ -124,7 +124,7 @@ One good news is followed by bad one, unfortunately\. According to the recent su
 Officially, around 7,700 people are in Serbia now, most of them — 86 percent according to UNHCR — are accommodated in 17 governmental facilities\. The other are sleeping rough in different places, mostly close to the border, or in Belgrade\. Volunteers are with them\. A team from [Melting Pot Europa](https://www.facebook.com/meltingpoteuropa/posts/1413850628646660?hc_location=ufi) came to help people in werehouse to clean part of the place, and they set up a medical help station\. Volunteers medics come from Spazio salute popular in Padova\.
 
 
-![Melting Pot Europa](assets/8b50869b57ae/1*JW7BfNFU69nhFcr35hegBQ.jpeg)
+![Melting Pot Europa](../assets/8b50869b57ae/1*JW7BfNFU69nhFcr35hegBQ.jpeg)
 
 Melting Pot Europa
 ### Bosnia and Herzegovina
@@ -162,7 +162,7 @@ However, activists and refugees together were able to move a few blocks and begi
 
 
 
-![The Worldwide Tribe](assets/8b50869b57ae/1*WtTytyx8j2LCORN7ctbBCQ.jpeg)
+![The Worldwide Tribe](../assets/8b50869b57ae/1*WtTytyx8j2LCORN7ctbBCQ.jpeg)
 
 The Worldwide Tribe
 ### Sweden
@@ -183,7 +183,7 @@ UK
 Another Let the Children In\! the protest was held in London\. The protest took place on the opposite side of the road to the entrance to Downing Street, and quite a number of people showed up\.
 
 
-![Photo by Stephen Furner](assets/8b50869b57ae/1*_KaqfsLm_oZgmdWlU04UMQ.jpeg)
+![Photo by Stephen Furner](../assets/8b50869b57ae/1*_KaqfsLm_oZgmdWlU04UMQ.jpeg)
 
 Photo by Stephen Furner
 

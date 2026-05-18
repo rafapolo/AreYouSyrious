@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,newsdigest,serbia,humanrights,asylum]
 description: Two bodies found near Melilla // Asylum seekers encouraged to leave Croatia // Strasbourg failing asylum seekers // Recommended articles on…
 image:
-  path: assets/309b1d389777/0*pjzIKKosv_ZiagEz
+  path: ../assets/309b1d389777/0*pjzIKKosv_ZiagEz
 ---
 
 ### AYS News Digest 24\.8\.2022 Border Fence and Frontex in Serbia
@@ -16,7 +16,7 @@ image:
 ### Border fence under construction Serbia — North Macedonia
 
 
-![Photo Credit: [Klikaktiv](https://drive.google.com/file/d/1EbfhJYj_5p6D5rKTojjhG1rZ8N7HAPqf/view)](assets/309b1d389777/0*pjzIKKosv_ZiagEz)
+![Photo Credit: [Klikaktiv](https://drive.google.com/file/d/1EbfhJYj_5p6D5rKTojjhG1rZ8N7HAPqf/view)](../assets/309b1d389777/0*pjzIKKosv_ZiagEz)
 
 Photo Credit: [Klikaktiv](https://drive.google.com/file/d/1EbfhJYj_5p6D5rKTojjhG1rZ8N7HAPqf/view)
 
@@ -53,7 +53,7 @@ According to the testimonies of the people AYS spoke to, their fingerprints have
 Although most people are less likely to see Croatia as their end station \(which is largely due to the slow and ineffective asylum system, poor conditions and economic situation\), those who wish to settle there or have no other particular destination in mind and simply wish to access the EU asylum system and start life somewhere, are reportedly not being provided with a chance to express the intention to seek international protection\. We plan to further investigate the circumstances surrounding this\.
 
 
-![Photo Credit: AYS](assets/309b1d389777/0*bGXgKBtl4WCPBKPX)
+![Photo Credit: AYS](../assets/309b1d389777/0*bGXgKBtl4WCPBKPX)
 
 Photo Credit: AYS
 #### ITALY
@@ -61,11 +61,11 @@ Photo Credit: AYS
 The end of the Balkan route for many is Trieste, Italy\. When people arrive here, their condition is often far from good\. The route might be the same, yet the individual stories are all different\.
 
 
-![](assets/309b1d389777/0*kldUhWu-md4KARz9)
+![](../assets/309b1d389777/0*kldUhWu-md4KARz9)
 
 
 
-![Photo Credit: [Facebook](https://www.facebook.com/lorena.fornasir/posts/pfbid0LWCfFqPw6dJzCP2c3T7DMFgJCJQtsgk578Pf9ZtfqVP2zExfVeyYvuQH35k4FY5dl)](assets/309b1d389777/0*pu24mVsGF9kSTeda)
+![Photo Credit: [Facebook](https://www.facebook.com/lorena.fornasir/posts/pfbid0LWCfFqPw6dJzCP2c3T7DMFgJCJQtsgk578Pf9ZtfqVP2zExfVeyYvuQH35k4FY5dl)](../assets/309b1d389777/0*pu24mVsGF9kSTeda)
 
 Photo Credit: [Facebook](https://www.facebook.com/lorena.fornasir/posts/pfbid0LWCfFqPw6dJzCP2c3T7DMFgJCJQtsgk578Pf9ZtfqVP2zExfVeyYvuQH35k4FY5dl)
 #### FRANCE

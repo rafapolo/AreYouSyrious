@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,greece,covid-19,coronavirus]
 description: Organizations Limit their Activities Because of Coronavirus///Bosnian Government Stops Freedom of Movement for People on the…
 image:
-  path: assets/4659b45f7ea5/0*xvic7AJrzl6pzqjn
+  path: ../assets/4659b45f7ea5/0*xvic7AJrzl6pzqjn
 ---
 
 ### AYS Daily Digest 16/03/2020 — Fire in Moria Kills One Child
@@ -15,7 +15,7 @@ image:
 ### FEATURE — Fire Breaks Out in Moria, Injuring Many and Killing One
 
 
-![Photographer: Tessa Kraan](assets/4659b45f7ea5/0*xvic7AJrzl6pzqjn)
+![Photographer: Tessa Kraan](../assets/4659b45f7ea5/0*xvic7AJrzl6pzqjn)
 
 Photographer: Tessa Kraan
 
@@ -48,12 +48,12 @@ The cause of the fire is as of yet unknown\. The Guardian [reported](https://www
 Even if the causes that sparked the fire itself are not at this moment preciesly known, the factors which led to its uncontrolled spread are perfectly clear\. The crowded conditions in the camp make it easy for a fire to spread\. The housing, i\.e\. tents and containers, do not provide adequate conditions for cooking or heating one’s home, making it more likely that accidents occur\. There was a fire [two months ago](https://twitter.com/MSF_Sea/status/1239563010554966018?fbclid=IwAR2lgPMpHBmul9u7RallpbOMLHSdGK992gKzaMs8hnc7PMlKcv2h2-eoV-k) in Kara Tepe and five months ago in Moria itself, but no actions have been taken since then to make conditions in the camp safer\. If basic things such as fire safety cannot be guaranteed to people stuck in Moria and other Greek camps, then a rapidly spreading disease like coronavirus could cause an unimaginable catastrophe\.
 
 
-![Photo Source: [NoBorders](https://www.facebook.com/nobordersnetwork/photos/a.660787423989153/2857609304306943/?type=3&theater)](assets/4659b45f7ea5/0*PCdtrBtEgy_uOyWl)
+![Photo Source: [NoBorders](https://www.facebook.com/nobordersnetwork/photos/a.660787423989153/2857609304306943/?type=3&theater)](../assets/4659b45f7ea5/0*PCdtrBtEgy_uOyWl)
 
 Photo Source: [NoBorders](https://www.facebook.com/nobordersnetwork/photos/a.660787423989153/2857609304306943/?type=3&theater)
 
 
-![Photographer: Tessa Kraan](assets/4659b45f7ea5/0*dj5y2-Csa6G85z5j)
+![Photographer: Tessa Kraan](../assets/4659b45f7ea5/0*dj5y2-Csa6G85z5j)
 
 Photographer: Tessa Kraan
 
@@ -155,7 +155,7 @@ Due to the current epidemic, applicants for residency and other legal paperwork 
 This applies to long stay visas, residence permits \(except those given to diplomats\), temporary residence authorizations, asylum application certificates, and those with récepissés, or temporary residency cards given just after an application is submitted\.
 
 
-![Photo source: [Watizat](https://www.facebook.com/guideasile/photos/a.1874463515971259/2785721434845458/?type=3&theater)](assets/4659b45f7ea5/0*Zm8MBYr3xsBx_uIj)
+![Photo source: [Watizat](https://www.facebook.com/guideasile/photos/a.1874463515971259/2785721434845458/?type=3&theater)](../assets/4659b45f7ea5/0*Zm8MBYr3xsBx_uIj)
 
 Photo source: [Watizat](https://www.facebook.com/guideasile/photos/a.1874463515971259/2785721434845458/?type=3&theater)
 

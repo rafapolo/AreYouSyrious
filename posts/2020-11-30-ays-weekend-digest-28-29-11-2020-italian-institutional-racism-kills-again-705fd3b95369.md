@@ -7,18 +7,18 @@ categories: Are You Syrious?
 tags: [digest,italy,refugees,frontex,jamaica50]
 description: Greek minister Mitarakis visits Lesvos // New commission to investigate Frontex // Updates on the #Jamaica50 deportation flight from the…
 image:
-  path: assets/705fd3b95369/0*TEBYUj_-TrO0GIiE.jpeg
+  path: ../assets/705fd3b95369/0*TEBYUj_-TrO0GIiE.jpeg
 ---
 
 ### AYS Weekend Digest 28–29/11/2020 — Italian institutional racism kills again
 #### Greek minister Mitarakis visits Lesvos // New commission to investigate Frontex // Updates on the \#Jamaica50 deportation flight from the UK // Updates from the Tigray region, Ethiopia
 
 
-![](assets/705fd3b95369/0*fwBKB55qUUPJuG7F)
+![](../assets/705fd3b95369/0*fwBKB55qUUPJuG7F)
 
 
 
-![](assets/705fd3b95369/0*TEBYUj_-TrO0GIiE.jpeg)
+![](../assets/705fd3b95369/0*TEBYUj_-TrO0GIiE.jpeg)
 
 ### Featured — Italian institutional racism kills again
 
@@ -132,11 +132,11 @@ Also, Franziska Grillmaier [reported](https://twitter.com/f_grillmeier/status/13
 The [Solidarity with Migrants collective](https://web.facebook.com/solidaritymigrants) called for the “establishment of a health support network for immigrants\. This call is addressed to the healthcare movement as a whole, whether it is for associations of doctors, health groups, social clinics / pharmacies, collectives active in the field of health, or for individual colleagues \(regardless of speciality or employment relationship\) and others that can assist\.”
 
 
-![](assets/705fd3b95369/0*SiFTj5u0KAzmAzyg)
+![](../assets/705fd3b95369/0*SiFTj5u0KAzmAzyg)
 
 
 
-![](assets/705fd3b95369/0*3tN25FNlhW4rPieZ.png)
+![](../assets/705fd3b95369/0*3tN25FNlhW4rPieZ.png)
 
 
 

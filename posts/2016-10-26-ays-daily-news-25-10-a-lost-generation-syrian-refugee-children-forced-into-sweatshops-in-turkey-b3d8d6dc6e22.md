@@ -1,13 +1,13 @@
 ---
-title: AYS Daily News 25/10: A lost generation: Syrian refugee children forced into sweatshops in Turkey
+title: "AYS Daily News 25/10: A lost generation: Syrian refugee children forced into sweatshops in Turkey"
 author: Are You Syrious?
 date: 2016-10-26T00:06:23.855+0100
 last_modified_at: 2016-10-26T09:54:02.669+0100
 categories: 
 tags: [refugees,europe,refugee-camps,greece,child-labor]
-description: From refugees to child labourers: The fate of children in conflict zones. What about children’s education? They are future adults who need…
+description: "From refugees to child labourers: The fate of children in conflict zones. What about children’s education? They are future adults who need…"
 image:
-  path: assets/b3d8d6dc6e22/0*4WHUMUbLsHzqHNS8.
+  path: ../assets/b3d8d6dc6e22/0*4WHUMUbLsHzqHNS8.
 ---
 
 ### AYS Daily News 25/10: A lost generation: Syrian refugee children forced into sweatshops in Turkey
@@ -19,7 +19,7 @@ image:
 
 
 
-![Credits: [**Elizabeta Jačov**](https://www.facebook.com/elizabeta.jacov)](assets/b3d8d6dc6e22/0*4WHUMUbLsHzqHNS8.)
+![Credits: [**Elizabeta Jačov**](https://www.facebook.com/elizabeta.jacov)](../assets/b3d8d6dc6e22/0*4WHUMUbLsHzqHNS8.)
 
 Credits: [**Elizabeta Jačov**](https://www.facebook.com/elizabeta.jacov)
 #### Turkey
@@ -58,34 +58,34 @@ Unschooled children are not only a moral challenge, but also one that has negati
 With each passing year, the lost generation keeps growing\. We need to act now, and thus we wanted to show our work with refugee children in Croatia\. Some of them started school and speak Croatian very nicely\. Our volunteers help them with homework every day, and the most beautiful of all is, perhaps, hearing their stories of friendships they have made at school\.
 
 
-![Credits: [**Elizabeta Jačov**](https://www.facebook.com/elizabeta.jacov)](assets/b3d8d6dc6e22/0*aT23loCw0TglNoHJ.)
+![Credits: [**Elizabeta Jačov**](https://www.facebook.com/elizabeta.jacov)](../assets/b3d8d6dc6e22/0*aT23loCw0TglNoHJ.)
 
 Credits: [**Elizabeta Jačov**](https://www.facebook.com/elizabeta.jacov)
 
 
-![Credits: [**Elizabeta Jačov**](https://www.facebook.com/elizabeta.jacov)](assets/b3d8d6dc6e22/0*4SqB-7TUzz-A-THg.)
+![Credits: [**Elizabeta Jačov**](https://www.facebook.com/elizabeta.jacov)](../assets/b3d8d6dc6e22/0*4SqB-7TUzz-A-THg.)
 
 Credits: [**Elizabeta Jačov**](https://www.facebook.com/elizabeta.jacov)
 
 
-![Credits: [**Elizabeta Jačov**](https://www.facebook.com/elizabeta.jacov)](assets/b3d8d6dc6e22/0*p4c5e5TRTnlD7EaM.)
+![Credits: [**Elizabeta Jačov**](https://www.facebook.com/elizabeta.jacov)](../assets/b3d8d6dc6e22/0*p4c5e5TRTnlD7EaM.)
 
 Credits: [**Elizabeta Jačov**](https://www.facebook.com/elizabeta.jacov)
 
 
-![Credits: [**Elizabeta Jačov**](https://www.facebook.com/elizabeta.jacov)](assets/b3d8d6dc6e22/0*7v7qnSvVGvdkKJGE.)
+![Credits: [**Elizabeta Jačov**](https://www.facebook.com/elizabeta.jacov)](../assets/b3d8d6dc6e22/0*7v7qnSvVGvdkKJGE.)
 
 Credits: [**Elizabeta Jačov**](https://www.facebook.com/elizabeta.jacov)
 
 
-![Credits: [**Elizabeta Jačov**](https://www.facebook.com/elizabeta.jacov)](assets/b3d8d6dc6e22/0*0pL8917ymvhCadTt.)
+![Credits: [**Elizabeta Jačov**](https://www.facebook.com/elizabeta.jacov)](../assets/b3d8d6dc6e22/0*0pL8917ymvhCadTt.)
 
 Credits: [**Elizabeta Jačov**](https://www.facebook.com/elizabeta.jacov)
 #### France
 ### Summary of Day 2 of Jungle eviction
 
 
-![Credits: [**Refugee Info Bus**](https://www.facebook.com/RefugeeInfoBus/)](assets/b3d8d6dc6e22/0*JNlw99tm62reUKyx.jpg)
+![Credits: [**Refugee Info Bus**](https://www.facebook.com/RefugeeInfoBus/)](../assets/b3d8d6dc6e22/0*JNlw99tm62reUKyx.jpg)
 
 Credits: [**Refugee Info Bus**](https://www.facebook.com/RefugeeInfoBus/)
 - More adults were registered and transported on coaches to CAOs \(Accomodation Centres\) around France\. Later in the afternoon, no queues remained for adult registration\.
@@ -103,12 +103,12 @@ Credits: [**Refugee Info Bus**](https://www.facebook.com/RefugeeInfoBus/)
 Our main concerns today are around the registration of minors, many of whom will have to spend another night in the Jungle, risking violence, fires and other dangers\. We are also much more concerned about later in the week, when the only ones remaining are those who do not want to leave, who still want to reach England, which could bring about strong conflicts between refugees and the police\.
 
 
-![Credits: [**Refugee Info Bus**](https://www.facebook.com/RefugeeInfoBus/)](assets/b3d8d6dc6e22/0*gTkDF2_85otOxctF.)
+![Credits: [**Refugee Info Bus**](https://www.facebook.com/RefugeeInfoBus/)](../assets/b3d8d6dc6e22/0*gTkDF2_85otOxctF.)
 
 Credits: [**Refugee Info Bus**](https://www.facebook.com/RefugeeInfoBus/)
 
 
-![Credits: [**Refugee Info Bus**](https://www.facebook.com/RefugeeInfoBus/)](assets/b3d8d6dc6e22/0*xNWQmSA-f0tXz27S.)
+![Credits: [**Refugee Info Bus**](https://www.facebook.com/RefugeeInfoBus/)](../assets/b3d8d6dc6e22/0*xNWQmSA-f0tXz27S.)
 
 Credits: [**Refugee Info Bus**](https://www.facebook.com/RefugeeInfoBus/)
 ### **If you wonder where exactly in France are Calais migrants being sent, here is a list**
@@ -146,32 +146,32 @@ Volunteer teams in Samos have been dealing with the biggest amount of arrivals o
 Because we all know breakfast is the most important meal of the day\! If you would like to help the organisation with their breakfast mission, please donate some meals at: [www\.foodKIND\.org\.](http://www.foodkind.org/)
 
 
-![Credits: [**foodKIND**](https://www.facebook.com/foodKIND/)](assets/b3d8d6dc6e22/0*b6XQA3rSEIS3JLCq.jpg)
+![Credits: [**foodKIND**](https://www.facebook.com/foodKIND/)](../assets/b3d8d6dc6e22/0*b6XQA3rSEIS3JLCq.jpg)
 
 Credits: [**foodKIND**](https://www.facebook.com/foodKIND/)
 
 
-![Credits: [**foodKIND**](https://www.facebook.com/foodKIND/)](assets/b3d8d6dc6e22/0*7AcQf6gP37_GHhnS.jpg)
+![Credits: [**foodKIND**](https://www.facebook.com/foodKIND/)](../assets/b3d8d6dc6e22/0*7AcQf6gP37_GHhnS.jpg)
 
 Credits: [**foodKIND**](https://www.facebook.com/foodKIND/)
 
 
-![Credits: [**foodKIND**](https://www.facebook.com/foodKIND/)](assets/b3d8d6dc6e22/0*Ony-Vris_PP15UJO.jpg)
+![Credits: [**foodKIND**](https://www.facebook.com/foodKIND/)](../assets/b3d8d6dc6e22/0*Ony-Vris_PP15UJO.jpg)
 
 Credits: [**foodKIND**](https://www.facebook.com/foodKIND/)
 
 
-![Credits: [**foodKIND**](https://www.facebook.com/foodKIND/)](assets/b3d8d6dc6e22/0*alzWwr4mp3CD_Yly.)
+![Credits: [**foodKIND**](https://www.facebook.com/foodKIND/)](../assets/b3d8d6dc6e22/0*alzWwr4mp3CD_Yly.)
 
 Credits: [**foodKIND**](https://www.facebook.com/foodKIND/)
 
 
-![Credits: [**foodKIND**](https://www.facebook.com/foodKIND/)](assets/b3d8d6dc6e22/0*kpx3IiHXe4nf9NN8.jpg)
+![Credits: [**foodKIND**](https://www.facebook.com/foodKIND/)](../assets/b3d8d6dc6e22/0*kpx3IiHXe4nf9NN8.jpg)
 
 Credits: [**foodKIND**](https://www.facebook.com/foodKIND/)
 
 
-![Credits: [**foodKIND**](https://www.facebook.com/foodKIND/)](assets/b3d8d6dc6e22/0*bUAu_J-KTBU6C00B.)
+![Credits: [**foodKIND**](https://www.facebook.com/foodKIND/)](../assets/b3d8d6dc6e22/0*bUAu_J-KTBU6C00B.)
 
 Credits: [**foodKIND**](https://www.facebook.com/foodKIND/)
 ### ‘Have they forgotten we exist?’

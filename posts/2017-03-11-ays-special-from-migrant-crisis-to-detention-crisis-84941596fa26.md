@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: From Migrant Crisis to Detention Crisis
+title: "AYS SPECIAL: From Migrant Crisis to Detention Crisis"
 author: Are You Syrious?
 date: 2017-03-11T13:35:48.197+0000
 last_modified_at: 2018-03-01T14:07:35.170+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,moria,lesvos,greece,special]
 description: The trouble with the media sensation surrounding an image like that of Alan Kurdi is that it predicates compassion upon photogeniety. It…
 image:
-  path: assets/84941596fa26/1*nAto3mQ25KFy3095lzM_3w.jpeg
+  path: ../assets/84941596fa26/1*nAto3mQ25KFy3095lzM_3w.jpeg
 ---
 
 ### AYS SPECIAL: From Migrant Crisis to Detention Crisis
@@ -15,7 +15,7 @@ image:
 _The trouble with the media sensation surrounding an image like that of Alan Kurdi is that it predicates compassion upon photogeniety\. It encourages you to care about what can be articulated in a photograph over what can’t\. More insidiously, it permits you to stop caring about something as soon as horrific photos of it no longer inundate your newsfeed\._
 
 
-![Moria camp, Lesvos](assets/84941596fa26/1*nAto3mQ25KFy3095lzM_3w.jpeg)
+![Moria camp, Lesvos](../assets/84941596fa26/1*nAto3mQ25KFy3095lzM_3w.jpeg)
 
 Moria camp, Lesvos
 

@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [refugees,france,italy,briancon]
 description: Are You Syrious?
 image:
-  path: assets/dbdbd5fa129/0*eLVuwAMpNTdoNDzG.png
+  path: ../assets/dbdbd5fa129/0*eLVuwAMpNTdoNDzG.png
 ---
 
 ### AYS Special from Briançon — Solidarity at the Border
 
 
-![](assets/dbdbd5fa129/0*nS64Eg2LfR7Smin5.jpeg)
+![](../assets/dbdbd5fa129/0*nS64Eg2LfR7Smin5.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----557d10e21c07-----------------------------------)
@@ -23,7 +23,7 @@ image:
 _Briançon, on the French\-Italian border, is one of the first cities of arrival for people on the move coming from Italy to France\. The reception situation is increasingly dire and unequal mobilities are starkly drawn\._
 
 
-![](assets/dbdbd5fa129/0*eLVuwAMpNTdoNDzG.png)
+![](../assets/dbdbd5fa129/0*eLVuwAMpNTdoNDzG.png)
 
 
 \(Occupation of SNF Station\)
@@ -31,11 +31,11 @@ _Briançon, on the French\-Italian border, is one of the first cities of arrival
 During 2021, the number of people who need accommodation has risen consistently\. The town has seen up to 60 arrivals a day of people who cannot continue the journey due to high transport costs and the COVID\-19 pass\. As a result, there are almost no options left for people on the move\.
 
 
-![](assets/dbdbd5fa129/0*BgCEPlV-mvlQw5ET.jpeg)
+![](../assets/dbdbd5fa129/0*BgCEPlV-mvlQw5ET.jpeg)
 
 
 
-![](assets/dbdbd5fa129/0*Jp8lBkCexWEuh7HL.jpeg)
+![](../assets/dbdbd5fa129/0*Jp8lBkCexWEuh7HL.jpeg)
 
 
 \(Work being completed on the Terrasses Solidaires building\)
@@ -64,11 +64,11 @@ Not only are state actors refusing to take responsibility for the physical safet
 ### The immediate demands of Briancon activists
 
 
-![](assets/dbdbd5fa129/0*7u0cT_XM_8tdFfuI)
+![](../assets/dbdbd5fa129/0*7u0cT_XM_8tdFfuI)
 
 
 
-![](assets/dbdbd5fa129/0*2pVFTVqW1I2JYjse.png)
+![](../assets/dbdbd5fa129/0*2pVFTVqW1I2JYjse.png)
 
 - a dignified and unconditional reception system in addition to the Refuge Solidaire — a new reception centre, open day and night, funded and set up by state\-actors
 - that the State takes its responsibility and does not leave it to citizen associations to take care of people in danger\.

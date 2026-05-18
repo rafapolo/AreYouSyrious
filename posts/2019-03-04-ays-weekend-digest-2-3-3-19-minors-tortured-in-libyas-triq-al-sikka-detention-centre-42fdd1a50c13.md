@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 2–3/3/19: Minors Tortured in Libya’s Triq al Sikka Detention Centre
+title: "AYS Weekend Digest 2–3/3/19: Minors Tortured in Libya’s Triq al Sikka Detention Centre"
 author: Are You Syrious?
 date: 2019-03-04T09:26:45.200+0000
 last_modified_at: 2019-03-04T13:13:39.796+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,libya,bosnia,torture]
 description: Report from deported Refugees in Kabul // Deliberate overcrowding of camps on Greek Islands // Arrivals to Spain // Police restrict…
 image:
-  path: assets/42fdd1a50c13/1*f663UTa6hboEhQt-Sqq9YQ.png
+  path: ../assets/42fdd1a50c13/1*f663UTa6hboEhQt-Sqq9YQ.png
 ---
 
 ### AYS Weekend Digest 2–3/3/19: Minors Tortured in Libya’s Triq al Sikka detention centre
@@ -15,7 +15,7 @@ image:
 Report from deported refugees in Kabul // Deliberate overcrowding of camps on Greek islands // Arrivals to Spain // Police restrict freedom of movement in Bosnia // Huge protests against racism in Italy and more…\.
 
 
-![“According to the government statistics, there are more than 15 000 registered refugees on the Greek islands\. Strangely, the same data indicates that there are no makeshift camps on the islands\. Following this logic, the Olive Grove settlings next to Moria camp on Lesvos, a place known as “a jungle”, would have to be counted as official accommodation provided by the authorities\.” Text and image credit: [ReFOCUS Media Labs\.](https://www.instagram.com/p/Bud6V4rnqSp/?utm_source=ig_share_sheet&igshid=1ugy5tho3hnv3&fbclid=IwAR2iG2BpeE2HIlIpuwoUTt5H3g59dTdOcOqv6gWLmxx6Rl-K5hK5xYp-zvY)](assets/42fdd1a50c13/1*f663UTa6hboEhQt-Sqq9YQ.png)
+![“According to the government statistics, there are more than 15 000 registered refugees on the Greek islands\. Strangely, the same data indicates that there are no makeshift camps on the islands\. Following this logic, the Olive Grove settlings next to Moria camp on Lesvos, a place known as “a jungle”, would have to be counted as official accommodation provided by the authorities\.” Text and image credit: [ReFOCUS Media Labs\.](https://www.instagram.com/p/Bud6V4rnqSp/?utm_source=ig_share_sheet&igshid=1ugy5tho3hnv3&fbclid=IwAR2iG2BpeE2HIlIpuwoUTt5H3g59dTdOcOqv6gWLmxx6Rl-K5hK5xYp-zvY)](../assets/42fdd1a50c13/1*f663UTa6hboEhQt-Sqq9YQ.png)
 
 “According to the government statistics, there are more than 15 000 registered refugees on the Greek islands\. Strangely, the same data indicates that there are no makeshift camps on the islands\. Following this logic, the Olive Grove settlings next to Moria camp on Lesvos, a place known as “a jungle”, would have to be counted as official accommodation provided by the authorities\.” Text and image credit: [ReFOCUS Media Labs\.](https://www.instagram.com/p/Bud6V4rnqSp/?utm_source=ig_share_sheet&igshid=1ugy5tho3hnv3&fbclid=IwAR2iG2BpeE2HIlIpuwoUTt5H3g59dTdOcOqv6gWLmxx6Rl-K5hK5xYp-zvY)
 ### Feature
@@ -32,14 +32,14 @@ This is where the money is going, paying guards who torture and humiliate all th
 
 
 
-![Picture from the protests on Tuesday: Photo credit, [Sally Haydon](https://twitter.com/sallyhayd/status/1102303214567862278)](assets/42fdd1a50c13/1*pR0oArHmtlbLV9gtmnUojQ.png)
+![Picture from the protests on Tuesday: Photo credit, [Sally Haydon](https://twitter.com/sallyhayd/status/1102303214567862278)](../assets/42fdd1a50c13/1*pR0oArHmtlbLV9gtmnUojQ.png)
 
 Picture from the protests on Tuesday: Photo credit, [Sally Haydon](https://twitter.com/sallyhayd/status/1102303214567862278)
 
 The repurcussions for those who took part have been severe\. Haydon states that around 30 protestors — including around 6 minors — are now locked in an underground cell where they are subject to cruel and violent treatment to punish them for speaking out against the conditions in the detention centre\. When she made the situation clear to the UNHCR, they replied with the following message:
 
 
-![UNHCR repsone: Credit [Sally Haydon](https://twitter.com/sallyhayd/status/1102311628555632640)](assets/42fdd1a50c13/1*HiPJdORT-XCGTMpIGnu6Pg.jpeg)
+![UNHCR repsone: Credit [Sally Haydon](https://twitter.com/sallyhayd/status/1102311628555632640)](../assets/42fdd1a50c13/1*HiPJdORT-XCGTMpIGnu6Pg.jpeg)
 
 UNHCR repsone: Credit [Sally Haydon](https://twitter.com/sallyhayd/status/1102311628555632640)
 
@@ -89,7 +89,7 @@ Two boats have arrived on the Aegean islands on 03\.03\. The first boat landed o
 Greek photo journalist Yannis Behrakis died this week from cancer\. He reported on the refugee crisis in Greece, and tried to give voice to those who were often denied one for many years\. He will be remembered for his moving images and stories\.
 
 
-![A father kisses his daughter while walking towards the Greek\-Macedonian border\. Photo Credit: Yannis Behrakis](assets/42fdd1a50c13/1*etvqXK9MNdsb3F4Vd6pytA.jpeg)
+![A father kisses his daughter while walking towards the Greek\-Macedonian border\. Photo Credit: Yannis Behrakis](../assets/42fdd1a50c13/1*etvqXK9MNdsb3F4Vd6pytA.jpeg)
 
 A father kisses his daughter while walking towards the Greek\-Macedonian border\. Photo Credit: Yannis Behrakis
 #### Signs the Greek Authorities are Deliberately Keeping Aegean Camps Overcrowded
@@ -224,7 +224,7 @@ The arrival of 49 Sub\-Saharan migrants to the port of Motril, in Granada has [b
 Alongside this, the Spanish coastguard [has been criticised](https://twitter.com/scandura/status/1101813751550861312?fbclid=IwAR3py_Rjm4RAiElIlfV8dvVm6Z7PUrGjPzVVKveN1Kp5avhPSyuy4Jziypg) for not providing sufficient updates on their Search and Rescue Missions, and photos have emerged highlighting the tragedies that too often take place in the stretch of sea between Spain and Morocco\.
 
 
-![An abandoned rubber boat on a Spanish beach: Photo by [Lalia Glez\-Santiago](https://twitter.com/Laliags)](assets/42fdd1a50c13/1*cyNIIBBY6i6HaRuqDGVkPg.jpeg)
+![An abandoned rubber boat on a Spanish beach: Photo by [Lalia Glez\-Santiago](https://twitter.com/Laliags)](../assets/42fdd1a50c13/1*cyNIIBBY6i6HaRuqDGVkPg.jpeg)
 
 An abandoned rubber boat on a Spanish beach: Photo by [Lalia Glez\-Santiago](https://twitter.com/Laliags)
 ### Bosnia
@@ -232,12 +232,12 @@ An abandoned rubber boat on a Spanish beach: Photo by [Lalia Glez\-Santiago](htt
 People on the move continue to arrive in Bosnia daily\. Many are coming via Serbia to the city of Tuzla, intending to continue towards Sarajevo and further on to the Croatian border\. There are almost no resources or aid for these people, and they are relying almost wholly on assistance from locals in Bosnia\.
 
 
-![Refugees sleeping in a field in Tuzla, Bosnia\. Photo Credit: Activist in Tuzla\.](assets/42fdd1a50c13/1*jAJTPplg39LLcOBzf-dY3w.jpeg)
+![Refugees sleeping in a field in Tuzla, Bosnia\. Photo Credit: Activist in Tuzla\.](../assets/42fdd1a50c13/1*jAJTPplg39LLcOBzf-dY3w.jpeg)
 
 Refugees sleeping in a field in Tuzla, Bosnia\. Photo Credit: Activist in Tuzla\.
 
 
-![Sleeping rough in Kljuc\. Photo Credit: Red Cross Kljuc\.](assets/42fdd1a50c13/1*PQammPffDV9ViuypdqYp3Q.jpeg)
+![Sleeping rough in Kljuc\. Photo Credit: Red Cross Kljuc\.](../assets/42fdd1a50c13/1*PQammPffDV9ViuypdqYp3Q.jpeg)
 
 Sleeping rough in Kljuc\. Photo Credit: Red Cross Kljuc\.
 
@@ -257,7 +257,7 @@ In their monthly report for January, the UNHCR in Bosnia, in response to the con
 
 
 
-![Refugees in Kljuc, Bosnia\. Photo Credit: Red Cross Kljuc](assets/42fdd1a50c13/1*_l0KACON7m0egjL5qCQmcg.jpeg)
+![Refugees in Kljuc, Bosnia\. Photo Credit: Red Cross Kljuc](../assets/42fdd1a50c13/1*_l0KACON7m0egjL5qCQmcg.jpeg)
 
 Refugees in Kljuc, Bosnia\. Photo Credit: Red Cross Kljuc
 
@@ -271,7 +271,7 @@ The conversation was standard:
 Among those on the bus, five guys without a passport were told to get off, and were left along the road, in the middle of fields\. All of them followed the order of the policeman without showing resistance, apart from one person, who asked the policeman if he could continue the journey, which they would not allow\. At the other side of the road, some people were starting a fire to warm themselves\. In the five minutes of this interaction, the others passengers remained silent and indifferent\. Actions such as this represent the ongoing passive violence through the use of tools of humiliation and discrimination\.
 
 
-[![AYS Video: Police in Bosnia restricts freedom of movement for refugees](assets/42fdd1a50c13/dd4f_hqdefault.jpg "AYS Video: Police in Bosnia restricts freedom of movement for refugees")](http://www.youtube.com/watch?v=-tK4MKeSpPE)
+[![AYS Video: Police in Bosnia restricts freedom of movement for refugees](../assets/42fdd1a50c13/dd4f_hqdefault.jpg "AYS Video: Police in Bosnia restricts freedom of movement for refugees")](http://www.youtube.com/watch?v=-tK4MKeSpPE)
 
 ### Balkans
 #### Weather Forecast
@@ -307,7 +307,7 @@ Over 250 000 people took part in protests in Milan on 2nd March to show their so
 
 
 
-![Protest in Milan: Photo by [L’Altra Voce](https://www.facebook.com/1245970425495921/photos/a.1266360583456905/2133921683367453/?type=3&theater)](assets/42fdd1a50c13/1*x-o9iqvonrXREdfHDAK4uw.jpeg)
+![Protest in Milan: Photo by [L’Altra Voce](https://www.facebook.com/1245970425495921/photos/a.1266360583456905/2133921683367453/?type=3&theater)](../assets/42fdd1a50c13/1*x-o9iqvonrXREdfHDAK4uw.jpeg)
 
 Protest in Milan: Photo by [L’Altra Voce](https://www.facebook.com/1245970425495921/photos/a.1266360583456905/2133921683367453/?type=3&theater)
 
@@ -332,7 +332,7 @@ A workshop to help refugee and immigrant women to have access to education and t
 [Koussay Maraudes](https://www.facebook.com/koussay.maraudes?__tn__=%2CdC-R-R&eid=ARBlL-ethOQwzRnbQLw1n34XuyQSqajpCe7XzvvcRVii2oB0Y3xQM5ome6ARQbzQ1cyCPI3OY2HYfwTA&hc_ref=ARS7yAL1D2qYNBqgr9j8wjMnv9HqOnE2VDYWLhItHBE3uAiTdMgrARR4vZr39u1SX-I&fref=nf) has published photos of the group camped out in the doors of a chapel in Paris, with roughly 650 reportedly sleeping there — some in tents and some without\.
 
 
-![Sleeping Rough in Paris: Photo by [Koussay Maraudes](https://www.facebook.com/koussay.maraudes?__tn__=%2CdC-R-R&eid=ARBlL-ethOQwzRnbQLw1n34XuyQSqajpCe7XzvvcRVii2oB0Y3xQM5ome6ARQbzQ1cyCPI3OY2HYfwTA&hc_ref=ARS7yAL1D2qYNBqgr9j8wjMnv9HqOnE2VDYWLhItHBE3uAiTdMgrARR4vZr39u1SX-I&fref=nf)](assets/42fdd1a50c13/1*IfmLtaonJKU8mvetpJuz0w.jpeg)
+![Sleeping Rough in Paris: Photo by [Koussay Maraudes](https://www.facebook.com/koussay.maraudes?__tn__=%2CdC-R-R&eid=ARBlL-ethOQwzRnbQLw1n34XuyQSqajpCe7XzvvcRVii2oB0Y3xQM5ome6ARQbzQ1cyCPI3OY2HYfwTA&hc_ref=ARS7yAL1D2qYNBqgr9j8wjMnv9HqOnE2VDYWLhItHBE3uAiTdMgrARR4vZr39u1SX-I&fref=nf)](../assets/42fdd1a50c13/1*IfmLtaonJKU8mvetpJuz0w.jpeg)
 
 Sleeping Rough in Paris: Photo by [Koussay Maraudes](https://www.facebook.com/koussay.maraudes?__tn__=%2CdC-R-R&eid=ARBlL-ethOQwzRnbQLw1n34XuyQSqajpCe7XzvvcRVii2oB0Y3xQM5ome6ARQbzQ1cyCPI3OY2HYfwTA&hc_ref=ARS7yAL1D2qYNBqgr9j8wjMnv9HqOnE2VDYWLhItHBE3uAiTdMgrARR4vZr39u1SX-I&fref=nf)
 #### Call Outs for Donations and Volunteers

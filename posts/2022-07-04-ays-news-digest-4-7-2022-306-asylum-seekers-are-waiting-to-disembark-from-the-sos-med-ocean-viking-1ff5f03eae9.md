@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 4/7/2022: 306 asylum seekers are waiting to disembark from the SOS Med Ocean Viking
+title: "AYS News Digest 4/7/2022: 306 asylum seekers are waiting to disembark from the SOS Med Ocean Viking"
 author: Are You Syrious?
 date: 2022-07-04T22:28:07.104+0100
 last_modified_at: 2022-07-04T22:28:07.104+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,asylum-seekers,eu,borders]
 description: Shootout on Serbia-Hungary border/FRONTEX has selected an interim Executive Director/ 96 asylum seekers have reached Italy from Libya on a…
 image:
-  path: assets/1ff5f03eae9/0*9wT1VQxnwNjdEeo3
+  path: ../assets/1ff5f03eae9/0*9wT1VQxnwNjdEeo3
 ---
 
 ### AYS News Digest 4/7/2022: 306 asylum seekers are waiting to disembark from the SOS Med Ocean Viking
@@ -15,7 +15,7 @@ image:
 Shootout on Serbia\-Hungary border/FRONTEX has selected an interim Executive Director/ 96 asylum seekers have reached Italy from Libya on a UNHCR charter flight/Kenya calls for an investigation into the events in Melilla on 24th June/Protests taking place across Spain over the events in Melilla/UK Home Office plans for second flight to Rwanda/and much more…
 
 
-![Source: SOS Mediterranee, 4/7/2022](assets/1ff5f03eae9/0*9wT1VQxnwNjdEeo3)
+![Source: SOS Mediterranee, 4/7/2022](../assets/1ff5f03eae9/0*9wT1VQxnwNjdEeo3)
 
 Source: SOS Mediterranee, 4/7/2022
 ### GREECE
@@ -79,7 +79,7 @@ You can read more about Ms\. Kalnaja’s professional background here: [https://
 
 
 
-![](assets/1ff5f03eae9/0*P_CbdjDAGe9L8XBH)
+![](../assets/1ff5f03eae9/0*P_CbdjDAGe9L8XBH)
 
 
 
@@ -195,7 +195,7 @@ Follow live  📡➡️ [eptwitter.eu/q8bu](http://eptwitter.eu/q8bu) https://t.
 #### InfoMigrants reports on protests and demonstrations taking place all over Spain in response to the events of the 24th June
 
 
-![](assets/1ff5f03eae9/0*SbJ5Guyzqgzye9MG)
+![](../assets/1ff5f03eae9/0*SbJ5Guyzqgzye9MG)
 
 ### GERMANY
 #### Action guide created to support individuals in taking action against deportations from Berlin Brandenburg airport
@@ -215,7 +215,7 @@ You can access the guide here: [https://dumpharder\.neocities\.org/](https://dum
 #### The German government has proposed a new route for asylum seekers whose claims have been rejected but they cannot be deported:
 
 
-[![Germany proposes new path to residency, work for migrants in limbo * FRANCE 24 English](assets/1ff5f03eae9/4107_hqdefault.jpg "Germany proposes new path to residency, work for migrants in limbo * FRANCE 24 English")](https://www.youtube.com/watch?v=IGSjAIkgKzg)
+[![Germany proposes new path to residency, work for migrants in limbo * FRANCE 24 English](../assets/1ff5f03eae9/4107_hqdefault.jpg "Germany proposes new path to residency, work for migrants in limbo * FRANCE 24 English")](https://www.youtube.com/watch?v=IGSjAIkgKzg)
 
 ### UK
 #### The Home Office plans second flight to deport asylum seekers to Rwanda
@@ -232,7 +232,7 @@ A spokesperson for the UK Home Office stated:
 
 
 
-![Source: The Guardian, 3/7/22](assets/1ff5f03eae9/0*HA9t8p72zotBIOJ_)
+![Source: The Guardian, 3/7/22](../assets/1ff5f03eae9/0*HA9t8p72zotBIOJ_)
 
 Source: The Guardian, 3/7/22
 
@@ -266,7 +266,7 @@ Inhumane &amp; indefensible.
 #### The Lesbians and Gays support the Migrants \(LGS Migrants\) protested against police presence at the Pride Parade in London over the weekend
 
 
-![Source: Huck, 3/7/2022](assets/1ff5f03eae9/0*tqD4eRai2hilGeeP.jpg)
+![Source: Huck, 3/7/2022](../assets/1ff5f03eae9/0*tqD4eRai2hilGeeP.jpg)
 
 Source: Huck, 3/7/2022
 #### Help support Hackney Migrant Centre to ensure they can keep providing their crucial advice and guidance to refugees and asylum seekers in London: [https://www\.crowdfunder\.co\.uk/p/help\-hackney\-migrant\-centre](https://www.crowdfunder.co.uk/p/help-hackney-migrant-centre)

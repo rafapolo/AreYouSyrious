@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,greece,authoritarianism]
 description: More People in Distress in Central Mediterranean///Bosnian government accuses own embassy in Pakistan of visa fraud///Malta Forced Boat in…
 image:
-  path: assets/44b818da03df/0*FWqngzbCXnIBb7Fq
+  path: ../assets/44b818da03df/0*FWqngzbCXnIBb7Fq
 ---
 
 ### AYS Daily Digest 20/05/2020 — Greece’s Authoritarian Slide
 #### More people in distress in Central Mediterranean///Bosnian government accuses own embassy in Pakistan of visa fraud///Malta forced boat in distress to go to Italy, survivors reveal
 
 
-![Conditions at Moria\. Photo credit: [Franziska Grillmeier](https://twitter.com/f_grillmeier/status/1263067727511592960)](assets/44b818da03df/0*FWqngzbCXnIBb7Fq)
+![Conditions at Moria\. Photo credit: [Franziska Grillmeier](https://twitter.com/f_grillmeier/status/1263067727511592960)](../assets/44b818da03df/0*FWqngzbCXnIBb7Fq)
 
 Conditions at Moria\. Photo credit: [Franziska Grillmeier](https://twitter.com/f_grillmeier/status/1263067727511592960)
 
@@ -40,7 +40,7 @@ There are many people fighting to protect justice and human rights in Greece, bu
 There is some irony in the Greek government cracking down on foreigners so hard\. Farmers are saying that without loosening the restrictions against migration, this year’s crop [may rot where it grow](https://www.infomigrants.net/en/post/24875/foreign-workers-help-with-the-harvest-in-greece?fbclid=IwAR1WlIIZSMhXIuRZWN6ehO-WYWkmP31G5lNxoNY5jxCe4g06ZwqGgJTRyt8) s without the labor of foreign workers from Albania and other places\. People with refugee status are not allowed to work, despite pleas from many integration groups and the farmers themselves — the government claims they “mostly are not suited to farmwork” or are unwilling to work\. This is a transparent attempt to make people on the move seem lazy or stupid, othering them even further in the Greek consciousness\. Will this policy have to change for this year’s harvest? If it does, will the notoriously terrible working conditions for foreign laborers on Greek farms improve?
 
 
-![This week’s [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/photos/a.285312485325196/836014953588277/?type=3&theater)](assets/44b818da03df/0*0AH7jbfYnQ09jEHl)
+![This week’s [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/photos/a.285312485325196/836014953588277/?type=3&theater)](../assets/44b818da03df/0*0AH7jbfYnQ09jEHl)
 
 This week’s [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/photos/a.285312485325196/836014953588277/?type=3&theater)
 

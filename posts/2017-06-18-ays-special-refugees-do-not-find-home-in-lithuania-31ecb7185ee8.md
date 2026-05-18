@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Refugees do not find a home in Lithuania
+title: "AYS SPECIAL: Refugees do not find a home in Lithuania"
 author: Are You Syrious?
 date: 2017-06-18T10:46:40.261+0100
 last_modified_at: 2018-03-01T14:09:44.368+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,lithuania,rukla-center,syria,special]
 description: Lithuania is one of several countries that agreed to accept 1,105 people from Syria, Iraq, and Eritrea. Up until the end of May, only about…
 image:
-  path: assets/31ecb7185ee8/1*iz55cwaaPhgFHvTNFDYkYg.jpeg
+  path: ../assets/31ecb7185ee8/1*iz55cwaaPhgFHvTNFDYkYg.jpeg
 ---
 
 ### AYS SPECIAL: Refugees do not find a home in Lithuania
@@ -15,7 +15,7 @@ image:
 _Lithuania is one of several countries that agreed to accept 1,105 people from Syria, Iraq, and Eritrea\. Up until the end of May, only about 300 people had been relocated to the country\. Many of those relocated to Lithuania leave again soon after they arrive, seeing no future in the country\. One arrival writes for AYS about his experience in the country\._
 
 
-![Rukla Refugee Centre is next door to a NATO military base \(Photo by UNHCR\)](assets/31ecb7185ee8/1*iz55cwaaPhgFHvTNFDYkYg.jpeg)
+![Rukla Refugee Centre is next door to a NATO military base \(Photo by UNHCR\)](../assets/31ecb7185ee8/1*iz55cwaaPhgFHvTNFDYkYg.jpeg)
 
 Rukla Refugee Centre is next door to a NATO military base \(Photo by UNHCR\)
 

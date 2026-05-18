@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 28/8/19: “Pushback business” on the rise, perpetrators portrayed as heroes
+title: "AYS Daily Digest 28/8/19: “Pushback business” on the rise, perpetrators portrayed as heroes"
 author: Are You Syrious?
 date: 2019-08-29T09:38:14.819+0100
 last_modified_at: 2019-08-29T13:16:18.058+0100
 categories: Are You Syrious?
 tags: [refugees,digest,police-brutality,borders,europe]
-description: Documented incidents of police shooting at people during illegal collective expulsions from Croatia to Bosnia and Herzegovina / Italy: 500…
+description: "Documented incidents of police shooting at people during illegal collective expulsions from Croatia to Bosnia and Herzegovina / Italy: 500…"
 image:
-  path: assets/129ccf28feb9/1*1CzDbgPzEQgFWq9v58MXew.jpeg
+  path: ../assets/129ccf28feb9/1*1CzDbgPzEQgFWq9v58MXew.jpeg
 ---
 
 ### AYS Daily Digest 28/8/19: “Pushback business” on the rise, perpetrators portrayed as heroes
 #### Documented incidents of police shooting at people during illegal collective expulsions from Croatia to Bosnia and Herzegovina / Italy: 500 people evacuated without alternative solutions / France: The International Day of the Disappeared conference and public gathering / Ireland: Fighting for public transport for school children
 
 
-![Lesvos, Greece — “They say a picture is worth a thousand words\. Here are newly arrived people who didn’t fit into Moria camp, sleeping on the ground along one of the camp alleys” \(Photo by Aref, via [Refocus Media Labs](https://www.facebook.com/refocusmedialabs/?tn-str=k%2AF&hc_location=group_dialog) \)](assets/129ccf28feb9/1*1CzDbgPzEQgFWq9v58MXew.jpeg)
+![Lesvos, Greece — “They say a picture is worth a thousand words\. Here are newly arrived people who didn’t fit into Moria camp, sleeping on the ground along one of the camp alleys” \(Photo by Aref, via [Refocus Media Labs](https://www.facebook.com/refocusmedialabs/?tn-str=k%2AF&hc_location=group_dialog) \)](../assets/129ccf28feb9/1*1CzDbgPzEQgFWq9v58MXew.jpeg)
 
 Lesvos, Greece — “They say a picture is worth a thousand words\. Here are newly arrived people who didn’t fit into Moria camp, sleeping on the ground along one of the camp alleys” \(Photo by Aref, via [Refocus Media Labs](https://www.facebook.com/refocusmedialabs/?tn-str=k%2AF&hc_location=group_dialog) \)
 #### FEATURED
@@ -120,7 +120,7 @@ Aegean Boat Report also released their last two Weekly Reports, but warn that wi
 
 ![“ This morning at 8 am they woke us up and they took us to Sakaramagas camp\. We had to pick up our bags once again, for the third time since we got evicted\. When we arrived to the camp they informed us that we had to wait for another bus to move us to several different camps around Greece\. Most of us had to move to places around Thessaloniki, over 400 km from here\. We don’t want to do that\. They are playing with us\.
 They have evicted us from our house and they have destroyed it, but they will not also take away the life we have managed to create here in Athens\. **Our children are going to the school in Exarcheia and we refuse to make them leave it and have to adapt to a new place once again\.** We want to stay here\. We answered them that we will not go anywhere against our will\.
-We keep strong\.” Photo by [Spirou Trikoupi 17](https://www.facebook.com/spiroutrikoupi17/posts/712610879185715?hc_location=ufi)](assets/129ccf28feb9/1*aWEvi2uIvPgcswp81lfbsQ.jpeg)
+We keep strong\.” Photo by [Spirou Trikoupi 17](https://www.facebook.com/spiroutrikoupi17/posts/712610879185715?hc_location=ufi)](../assets/129ccf28feb9/1*aWEvi2uIvPgcswp81lfbsQ.jpeg)
 
 “ This morning at 8 am they woke us up and they took us to Sakaramagas camp\. We had to pick up our bags once again, for the third time since we got evicted\. When we arrived to the camp they informed us that we had to wait for another bus to move us to several different camps around Greece\. Most of us had to move to places around Thessaloniki, over 400 km from here\. We don’t want to do that\. They are playing with us\.
 They have evicted us from our house and they have destroyed it, but they will not also take away the life we have managed to create here in Athens\. **Our children are going to the school in Exarcheia and we refuse to make them leave it and have to adapt to a new place once again\.** We want to stay here\. We answered them that we will not go anywhere against our will\.
@@ -131,7 +131,7 @@ We keep strong\.” Photo by [Spirou Trikoupi 17](https://www.facebook.com/spiro
 On 6 August, an incident was documented at the border close to Velika Kladuša, where the residents living nearby filmed a van from the Croatian police leaving the scene where they reportedly drove, left, threatened and shot in the air to scare people who were trying to enter the country\. The border police officers threatened one of the people who was standing on the edge of a canal, about ten meters deep, by a forest in the Velika Kladuša area\. Moments later, other people were brought from the police van and ordered to be placed on the edge of the canal\. According to the witnesses, a Croatian police officer picked up a gun and fired several shots into the air\. The people involved then jumped into the canal, at the foot of which is the border with Bosnia and Herzegovina\.
 
 
-[![Pod prijetnjom oružjem hrvatski policajci guraju migrante u jarugu](assets/129ccf28feb9/1657_hqdefault.jpg "Pod prijetnjom oružjem hrvatski policajci guraju migrante u jarugu")](http://www.youtube.com/watch?v=pg5uXBj0_78)
+[![Pod prijetnjom oružjem hrvatski policajci guraju migrante u jarugu](../assets/129ccf28feb9/1657_hqdefault.jpg "Pod prijetnjom oružjem hrvatski policajci guraju migrante u jarugu")](http://www.youtube.com/watch?v=pg5uXBj0_78)
 
 
 The [media](https://zurnal.info/novost/22357/hrvatski-policajci-pod-prijetnjom-oruzjem-guraju-migrante-u-jarugu) who published this also collected documents that connect and prove that the same people who had earlier on been transferred from Slovenia to Croatia via readmission were later on pushed back to Bosnia and Herzegovina from Croatia through an illegal practice of collective expulsion, a constant practice of the Croatian border police who acts with support and funds of the EU\.
@@ -141,15 +141,15 @@ The [media](https://zurnal.info/novost/22357/hrvatski-policajci-pod-prijetnjom-o
 As we [reported](ays-daily-digest-23-08-2019-swiss-court-suspends-dublin-deportation-to-croatia-2752c189e7c3) earlier, the treating of a permanent condition as an emergency underlines the incapacity of the local authorities to solve the situation and their unwillingness to treat migrant workers according to the law, which would mean recognising their rights\.
 
 
-![](assets/129ccf28feb9/1*VJj2SFnH5eLTMiYkYRyzCA.jpeg)
+![](../assets/129ccf28feb9/1*VJj2SFnH5eLTMiYkYRyzCA.jpeg)
 
 
 
-![](assets/129ccf28feb9/1*vtNCMl3AMhLkDC0Rqt4tFA.jpeg)
+![](../assets/129ccf28feb9/1*vtNCMl3AMhLkDC0Rqt4tFA.jpeg)
 
 
 
-![Photos: [Yvan Sagnet](https://www.facebook.com/sagneyvan?__tn__=%2Cd%2AF%2AF-R&eid=ARBGEB0ey0z1-ZkI5TRJg8x-8IbLwvFA8Q2WLdOXLILcAek8yiFxwAPn8efP8A1bEGLVlYiZpyW_61m3&tn-str=%2AF&hc_location=group_dialog)](assets/129ccf28feb9/1*rYhqyY26fw6rNOxMx6Nn5A.jpeg)
+![Photos: [Yvan Sagnet](https://www.facebook.com/sagneyvan?__tn__=%2Cd%2AF%2AF-R&eid=ARBGEB0ey0z1-ZkI5TRJg8x-8IbLwvFA8Q2WLdOXLILcAek8yiFxwAPn8efP8A1bEGLVlYiZpyW_61m3&tn-str=%2AF&hc_location=group_dialog)](../assets/129ccf28feb9/1*rYhqyY26fw6rNOxMx6Nn5A.jpeg)
 
 Photos: [Yvan Sagnet](https://www.facebook.com/sagneyvan?__tn__=%2Cd%2AF%2AF-R&eid=ARBGEB0ey0z1-ZkI5TRJg8x-8IbLwvFA8Q2WLdOXLILcAek8yiFxwAPn8efP8A1bEGLVlYiZpyW_61m3&tn-str=%2AF&hc_location=group_dialog)
 #### FRANCE
@@ -158,7 +158,7 @@ Together with other organisations, on the occasion of the The International Day 
 They are also organising a gathering in support of the disappeared people, on Saturday, the 31st, at the place de la République, from midday onwards\.
 
 
-![](assets/129ccf28feb9/1*CkbWoSb4cuIAz8UUODN5gg.jpeg)
+![](../assets/129ccf28feb9/1*CkbWoSb4cuIAz8UUODN5gg.jpeg)
 
 #### IRELAND
 

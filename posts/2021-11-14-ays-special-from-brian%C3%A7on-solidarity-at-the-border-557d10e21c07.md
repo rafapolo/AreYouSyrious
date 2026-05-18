@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [special,refugees,france,italy,briancon]
 description: Briançon, on the French-Italian border, is one of the first cities of arrival for people on the move coming from Italy to France…
 image:
-  path: assets/557d10e21c07/1*ANqqxk7haA6cGM0rCCKe5Q.png
+  path: ../assets/557d10e21c07/1*ANqqxk7haA6cGM0rCCKe5Q.png
 ---
 
 ### AYS Special from **Brianço** n—Solidarity at the Border
@@ -15,18 +15,18 @@ image:
 _Briançon, on the French\-Italian border, is one of the first cities of arrival for people on the move coming from Italy to France\. The reception situation is increasingly dire and unequal mobilities are starkly drawn\._
 
 
-![\(Occupation of SNF Station\)](assets/557d10e21c07/1*ANqqxk7haA6cGM0rCCKe5Q.png)
+![\(Occupation of SNF Station\)](../assets/557d10e21c07/1*ANqqxk7haA6cGM0rCCKe5Q.png)
 
 \(Occupation of SNF Station\)
 
 During 2021, the number of people who need accommodation has risen consistently\. The town has seen up to 60 arrivals a day of people who cannot continue the journey due to high transport costs and the COVID\-19 pass\. As a result, there are almost no options left for people on the move\.
 
 
-![](assets/557d10e21c07/1*P-xQaVK42oO4gdLK00Knjg.jpeg)
+![](../assets/557d10e21c07/1*P-xQaVK42oO4gdLK00Knjg.jpeg)
 
 
 
-![\(Work being completed on the Terrasses Solidaires building\)](assets/557d10e21c07/1*PnWfy6Bvcgr3TAU_CIWmPA.jpeg)
+![\(Work being completed on the Terrasses Solidaires building\)](../assets/557d10e21c07/1*PnWfy6Bvcgr3TAU_CIWmPA.jpeg)
 
 \(Work being completed on the Terrasses Solidaires building\)
 
@@ -52,7 +52,7 @@ Not only are state actors refusing to take responsibility for the physical safet
 #### The immediate demands of Briancon activists
 
 
-![](assets/557d10e21c07/1*_KlVNpI34nXyCyM4J6Km6A.png)
+![](../assets/557d10e21c07/1*_KlVNpI34nXyCyM4J6Km6A.png)
 
 - a dignified and unconditional reception system in addition to the Refuge Solidaire — a new reception centre, open day and night, funded and set up by state\-actors
 - that the State takes its responsibility and does not leave it to citizen associations to take care of people in danger\.

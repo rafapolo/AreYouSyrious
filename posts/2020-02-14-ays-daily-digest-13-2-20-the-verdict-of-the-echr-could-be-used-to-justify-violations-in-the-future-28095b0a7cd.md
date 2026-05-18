@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 13/2/20: The verdict of the ECHR could be used to justify violations in the future
+title: "AYS Daily Digest 13/2/20: The verdict of the ECHR could be used to justify violations in the future"
 author: Are You Syrious?
 date: 2020-02-14T13:14:45.764+0000
 last_modified_at: 2020-02-14T13:14:45.764+0000
 categories: Are You Syrious?
 tags: [digest,refugees,migration,human-rights,europe]
-description: Hungary: in 2019 protection rate dropped down to 12% / Greece has asked Finland to resettle 5,000 unaccompanied minors / SAR crew members…
+description: "Hungary: in 2019 protection rate dropped down to 12% / Greece has asked Finland to resettle 5,000 unaccompanied minors / SAR crew members…"
 image:
-  path: assets/28095b0a7cd/0*OaGbjW7edBVBzsTm.jpg
+  path: ../assets/28095b0a7cd/0*OaGbjW7edBVBzsTm.jpg
 ---
 
 ### AYS Daily Digest 13/2/20: The verdict of the ECHR could be used to justify violations in the future
 #### Hungary: in 2019 protection rate dropped down to 12% / Greece has asked Finland to resettle 5,000 unaccompanied minors / SAR crew members honorary citizens of Palermo / The issue of Italian residency permit / Germany will not recognise the ‘flight from climatic conditions and changes’ as a reason for asylum
 
 
-![[Copyrights reserved](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.euronews.com%2F2020%2F02%2F13%2Fspain-wins-european-court-appeal-over-rapid-migrant-deportations-from-ceuta-and-melilla&psig=AOvVaw18NTbJb_NQsKKdqlSLL4By&ust=1581772342660000&source=images&cd=vfe&ved=2ahUKEwjL44imj9HnAhVH16QKHZe6CysQr4kDegUIARDOAQ)](assets/28095b0a7cd/0*OaGbjW7edBVBzsTm.jpg)
+![[Copyrights reserved](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.euronews.com%2F2020%2F02%2F13%2Fspain-wins-european-court-appeal-over-rapid-migrant-deportations-from-ceuta-and-melilla&psig=AOvVaw18NTbJb_NQsKKdqlSLL4By&ust=1581772342660000&source=images&cd=vfe&ved=2ahUKEwjL44imj9HnAhVH16QKHZe6CysQr4kDegUIARDOAQ)](../assets/28095b0a7cd/0*OaGbjW7edBVBzsTm.jpg)
 
 [Copyrights reserved](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.euronews.com%2F2020%2F02%2F13%2Fspain-wins-european-court-appeal-over-rapid-migrant-deportations-from-ceuta-and-melilla&psig=AOvVaw18NTbJb_NQsKKdqlSLL4By&ust=1581772342660000&source=images&cd=vfe&ved=2ahUKEwjL44imj9HnAhVH16QKHZe6CysQr4kDegUIARDOAQ)
 #### FEATURED — **European court of human rights rules against the right of asylum**

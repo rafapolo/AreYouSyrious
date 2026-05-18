@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 18/9/18: Reports of Human Rights violations in Morocco
+title: "AYS Daily Digest 18/9/18: Reports of Human Rights violations in Morocco"
 author: Are You Syrious?
 date: 2018-09-19T00:42:34.004+0100
 last_modified_at: 2018-09-19T16:31:55.345+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,mediterranean,sweden]
 description: Number of pull-backs and arrests increasing / Greece reportedly wants to transfer 3000 people from Lesvos to mainland / Protests in Larissa…
 image:
-  path: assets/e596d712b9ef/1*eNb-MS5GBx-svR6TsUfXpw.jpeg
+  path: ../assets/e596d712b9ef/1*eNb-MS5GBx-svR6TsUfXpw.jpeg
 ---
 
 ### AYS Daily Digest 18/9/18: Reports of Human Rights violations in Morocco
 #### Number of pull\-backs and arrests increasing / Greece reportedly wants to transfer 3000 people from Lesvos to mainland / Protests in Larissa against the Skype system in Greece; volunteers needed / Number of people coming to Europe by land on the rise
 
 
-![People trying to make it to Europe\. Credits: [Watch The Med — Alarmphone](https://www.facebook.com/watchthemed.alarmphone/photos/a.1526182797655958/2221243214816576/?type=3&theater&ifg=1)](assets/e596d712b9ef/1*eNb-MS5GBx-svR6TsUfXpw.jpeg)
+![People trying to make it to Europe\. Credits: [Watch The Med — Alarmphone](https://www.facebook.com/watchthemed.alarmphone/photos/a.1526182797655958/2221243214816576/?type=3&theater&ifg=1)](../assets/e596d712b9ef/1*eNb-MS5GBx-svR6TsUfXpw.jpeg)
 
 People trying to make it to Europe\. Credits: [Watch The Med — Alarmphone](https://www.facebook.com/watchthemed.alarmphone/photos/a.1526182797655958/2221243214816576/?type=3&theater&ifg=1)
 ### Reports of Human Rights violations in Morocco
@@ -134,7 +134,7 @@ Activists in Salzburg are calling for international protests against the EU summ
 La cuisine des migrants [is asking](https://www.facebook.com/CuisineDesMigrants/photos/a.1953857994628234/2645260485487978/?type=3&theater) for volunteers to help with distributions\. Interested persons can come directly to 73 rue Philippe de Girard Paris 18e until 2pm local time\.
 
 
-![Food distribution in Paris\. Credits: Greg Looping/Hans Lucas/ [La cuisine des migrants](https://www.facebook.com/CuisineDesMigrants/photos/a.1953857994628234/2645260485487978/?type=3&theater)](assets/e596d712b9ef/1*dP1xFypposcF7qzA5ZrtAg.jpeg)
+![Food distribution in Paris\. Credits: Greg Looping/Hans Lucas/ [La cuisine des migrants](https://www.facebook.com/CuisineDesMigrants/photos/a.1953857994628234/2645260485487978/?type=3&theater)](../assets/e596d712b9ef/1*dP1xFypposcF7qzA5ZrtAg.jpeg)
 
 Food distribution in Paris\. Credits: Greg Looping/Hans Lucas/ [La cuisine des migrants](https://www.facebook.com/CuisineDesMigrants/photos/a.1953857994628234/2645260485487978/?type=3&theater)
 ### Sweden

@@ -1,5 +1,5 @@
 ---
-title: AYS DIGEST 06/11: Germany intends to adopt Australia-like system for migrants
+title: "AYS DIGEST 06/11: Germany intends to adopt Australia-like system for migrants"
 author: Are You Syrious?
 date: 2016-11-07T00:09:23.041+0000
 last_modified_at: 2016-11-07T00:09:23.041+0000
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,greece,france,mediterranean]
 description: Volunteers prepare for the winter in the camps/ Bad weather alert for the Aegean sea/ Shooting at the Serbian-Hungarian border/ Urgent…
 image:
-  path: assets/699098a65c7d/1*G2WSDU94hjRG3dGEYROb1Q.jpeg
+  path: ../assets/699098a65c7d/1*G2WSDU94hjRG3dGEYROb1Q.jpeg
 ---
 
 ### AYS DIGEST 06/11: Germany intends to adopt Australia\-like system for migrants
 ### Volunteers prepare for the winter in the camps/ Bad weather alert for the Aegean sea/ Shooting at the Serbian\-Hungarian border/ Urgent calls for volunteers and donations in Greece and elsewhere
 
 
-![“I am still waiting here” by [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)](assets/699098a65c7d/1*G2WSDU94hjRG3dGEYROb1Q.jpeg)
+![“I am still waiting here” by [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)](../assets/699098a65c7d/1*G2WSDU94hjRG3dGEYROb1Q.jpeg)
 
 “I am still waiting here” by [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)
 #### Germany
@@ -45,17 +45,17 @@ Other opposition parties have quickly condemned this idea, Bernd Riexinger, head
 A Group of volunteers, the [**The Get Shit Done Team**](https://www.facebook.com/The-Get-Shit-Done-Team-304001796641127/?hc_ref=PAGES_TIMELINE&fref=nf) **,** have been busy at Kalochori camp, near Thessaloniki building wooden tent floors which will serve as insulation for the cold months ahead giving a bit more of comfort to the people stranded in very bad conditions in the refugee camps in Greece\. They will keep building more of these structures for other camps so any bit of help is welcome to support this big project\.
 
 
-![Building the structures](assets/699098a65c7d/1*9a4tBOpkSqg6Su1qETAvXA.jpeg)
+![Building the structures](../assets/699098a65c7d/1*9a4tBOpkSqg6Su1qETAvXA.jpeg)
 
 Building the structures
 
 
-![Transport](assets/699098a65c7d/1*o4q3RsYVeZLoVnldaLBIkA.jpeg)
+![Transport](../assets/699098a65c7d/1*o4q3RsYVeZLoVnldaLBIkA.jpeg)
 
 Transport
 
 
-![Destination](assets/699098a65c7d/1*gptFcIFl0Nxa_jB2RDbgvw.jpeg)
+![Destination](../assets/699098a65c7d/1*gptFcIFl0Nxa_jB2RDbgvw.jpeg)
 
 Destination
 

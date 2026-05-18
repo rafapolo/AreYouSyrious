@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [digest,refugees,moria,bihac,syria]
 description: 
 image:
-  path: assets/76cdcd8fc32b/0*dzhMo6JJzksuSIwP.jpeg
+  path: ../assets/76cdcd8fc32b/0*dzhMo6JJzksuSIwP.jpeg
 ---
 
 ### AYS Daily Digest 28/5/2021 — Plans for closed camps on the Greek islands to go ahead
 
 
-![](assets/76cdcd8fc32b/0*VXiIjslndKPsFvNt.jpeg)
+![](../assets/76cdcd8fc32b/0*VXiIjslndKPsFvNt.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----5c9d29ad5887--------------------------------)
@@ -23,7 +23,7 @@ image:
 The situation for children on the move in Ceuta\. The \#AspenCardScandal in the UK\. New eviction in Bosnia\. Updates from the \#Briancon7 case and from the Western Med\.
 
 
-![](assets/76cdcd8fc32b/0*dzhMo6JJzksuSIwP.jpeg)
+![](../assets/76cdcd8fc32b/0*dzhMo6JJzksuSIwP.jpeg)
 
 
 Copenhagen, Denmark, \(Credit: [Syriske Forening i Danmark — SFD](https://www.facebook.com/love.star.syria.dk/?__tn__=-UC*F) \) \. A [New \#SyriaIsNotSafe demonstration](https://www.facebook.com/events/186572406684363/) is launched for Sat 29/5 in Copenhagen, h\.15:30 CET\.
@@ -120,11 +120,11 @@ Just like last week, many of the people deported are already on their way back t
 Authorities have reportedly burned down the makeshift camps in the area, “including all personal objects and food items\.”
 
 
-![](assets/76cdcd8fc32b/0*AGzWXWI6KCDu5T5R)
+![](../assets/76cdcd8fc32b/0*AGzWXWI6KCDu5T5R)
 
 
 
-![](assets/76cdcd8fc32b/0*U2J9kKwz8vVhbPMj.jpeg)
+![](../assets/76cdcd8fc32b/0*U2J9kKwz8vVhbPMj.jpeg)
 
 
 

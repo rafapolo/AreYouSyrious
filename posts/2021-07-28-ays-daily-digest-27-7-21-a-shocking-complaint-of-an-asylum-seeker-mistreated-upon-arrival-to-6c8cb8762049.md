@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 27/7/21: A shocking complaint of an asylum seeker mistreated upon arrival to…
+title: "AYS Daily Digest 27/7/21: A shocking complaint of an asylum seeker mistreated upon arrival to…"
 author: Are You Syrious?
 date: 2021-07-28T13:35:47.303+0100
 last_modified_at: 2021-07-28T15:03:08.137+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migration,greece,human-rights]
 description: Concrete wall around Ritsona completed// European ombudsperson decided all EU-mission have to provide transparency rules// SAR updates//…
 image:
-  path: assets/6c8cb8762049/0*nnoW5xFG22vOCVgs
+  path: ../assets/6c8cb8762049/0*nnoW5xFG22vOCVgs
 ---
 
 ### AYS Daily Digest 27/7/21: A shocking complaint of an asylum seeker mistreated upon arrival to Greece
 #### **Concrete wall around Ritsona completed//** European ombudsperson decided all EU\-mission have to provide transparency rules// SAR updates// Protests in Lithuania// Recommended reads and more news
 
 
-![Photo: [ROSA](https://www.facebook.com/RosaProgressive/?__cft__[0]=AZVy4NPTxX_WI07Y-8krJIADc8cORf6q8dyyi1UrXGNpE350khVG9ji3PHs4ZXfiObmmxerhwVBUrWwAGsiiCNDtdq_dGStS14dm8SGQ3QjUImUookvtOxHbBehhYcN2rIbz59H8BP_NEjOjHAoBUTZM&__tn__=-UC%2CP-R)](assets/6c8cb8762049/0*nnoW5xFG22vOCVgs)
+![Photo: [ROSA](https://www.facebook.com/RosaProgressive/?__cft__[0]=AZVy4NPTxX_WI07Y-8krJIADc8cORf6q8dyyi1UrXGNpE350khVG9ji3PHs4ZXfiObmmxerhwVBUrWwAGsiiCNDtdq_dGStS14dm8SGQ3QjUImUookvtOxHbBehhYcN2rIbz59H8BP_NEjOjHAoBUTZM&__tn__=-UC%2CP-R)](../assets/6c8cb8762049/0*nnoW5xFG22vOCVgs)
 
 Photo: [ROSA](https://www.facebook.com/RosaProgressive/?__cft__[0]=AZVy4NPTxX_WI07Y-8krJIADc8cORf6q8dyyi1UrXGNpE350khVG9ji3PHs4ZXfiObmmxerhwVBUrWwAGsiiCNDtdq_dGStS14dm8SGQ3QjUImUookvtOxHbBehhYcN2rIbz59H8BP_NEjOjHAoBUTZM&__tn__=-UC%2CP-R)
 #### FEATURED
@@ -112,7 +112,7 @@ The Libyan coastguard is also currently supported by EU funds\. Earlier this mon
 **Concrete wall around Ritsona completed**
 
 
-![](assets/6c8cb8762049/0*W9oWBkc0mqbtgroe)
+![](../assets/6c8cb8762049/0*W9oWBkc0mqbtgroe)
 
 
 The construction of the three\-meter\-high concrete walls around Ritsona has been completed\. The wall is equipped with security cameras at the entry and exit points\.
@@ -194,17 +194,17 @@ In March, Amnesty International said that Lebanese security forces have committe
 In April, Human Rights Watch accused the Lebanese government of [leaving refugees and migrants behind](https://www.infomigrants.net/en/post/31382/refugees-and-migrants-risk-being-left-behind-in-lebanon-vaccination-plan) in its coronavirus vaccination strategy\.
 
 
-![](assets/6c8cb8762049/0*mZBKEOZ_go1cKxUZ)
+![](../assets/6c8cb8762049/0*mZBKEOZ_go1cKxUZ)
 
 
 Last weekend, the installation “In\-Humanity\-EU” by Insa Pohlenga was on display in front of the Brandenburg gate in Berlin\. Twelve Concrete stars represented the EU borders, while twelve heads symbolized the suffering and the dying of people on the borders of EU, stated the artist\.
 
 
-![](assets/6c8cb8762049/0*E2BARBgEz8AdG8oi)
+![](../assets/6c8cb8762049/0*E2BARBgEz8AdG8oi)
 
 
 
-![](assets/6c8cb8762049/0*0cYx1oHD4AjF3Pnf)
+![](../assets/6c8cb8762049/0*0cYx1oHD4AjF3Pnf)
 
 #### _LITHUANIA_
 ### **Protest against plans for a new camp**

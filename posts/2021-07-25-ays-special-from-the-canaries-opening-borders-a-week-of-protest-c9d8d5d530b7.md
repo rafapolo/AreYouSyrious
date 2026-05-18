@@ -1,5 +1,5 @@
 ---
-title: AYS Special from the Canaries: Opening Borders, a Week of Protest.
+title: "AYS Special from the Canaries: Opening Borders, a Week of Protest."
 author: Are You Syrious?
 date: 2021-07-25T13:03:50.073+0100
 last_modified_at: 2021-07-25T13:03:50.073+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [special,canary-islands,refugees,protest,spain]
 description: This year so far over 2000 people have died trying to get to Spain, the same figure that died in the entirety of 2020.
 image:
-  path: assets/c9d8d5d530b7/1*W_xT85cisgfbFFouI3Aakg.jpeg
+  path: ../assets/c9d8d5d530b7/1*W_xT85cisgfbFFouI3Aakg.jpeg
 ---
 
 ### AYS Special from the Canaries: Opening Borders, a Week of Protest\.
@@ -15,7 +15,7 @@ image:
 _This year so far [over 2000 people](https://www.arabnews.com/node/1899151/middle-east) have died trying to get to Spain, the same figure that died in the entirety of 2020\. This is an [increase of 526%](https://caminandofronteras.org/monitoreo/monitoreo-del-derecho-a-la-vida-del-primer-semestre-de-2021/) \. 12,622 people survived the crossing only to be met by diabolical conditions and often deportation\. In response to the high level of harm caused, Caravana Abriendo Fronteres organised a week of protest to make visible, denounce and combat migration policies\._
 
 
-![Photo from an activist on the ground](assets/c9d8d5d530b7/1*W_xT85cisgfbFFouI3Aakg.jpeg)
+![Photo from an activist on the ground](../assets/c9d8d5d530b7/1*W_xT85cisgfbFFouI3Aakg.jpeg)
 
 Photo from an activist on the ground
 #### Migratory Necropolitics
@@ -43,7 +43,7 @@ EU policy directly leads to people being forced to leave home\. For example, [in
 #### Deportation Islands
 
 
-![\(Photo Credit: [Statewatch](https://www.statewatch.org/analyses/2021/the-canary-cage-the-making-of-deportation-islands-on-spain-s-atlantic-border/#_ftn5) \)](assets/c9d8d5d530b7/1*4iS7VxE5DHmWB7-OqpJRBA.jpeg)
+![\(Photo Credit: [Statewatch](https://www.statewatch.org/analyses/2021/the-canary-cage-the-making-of-deportation-islands-on-spain-s-atlantic-border/#_ftn5) \)](../assets/c9d8d5d530b7/1*4iS7VxE5DHmWB7-OqpJRBA.jpeg)
 
 \(Photo Credit: [Statewatch](https://www.statewatch.org/analyses/2021/the-canary-cage-the-making-of-deportation-islands-on-spain-s-atlantic-border/#_ftn5) \)
 
@@ -83,40 +83,40 @@ The _Caravana Abriendo Fronteras_ emerged in 2016 as an initiative to publicly d
 This year, the caravana moved across the Canary islands, starting on July 17th in Gran Canaria, and concluding on the 24th in Tenerife\.
 
 
-![](assets/c9d8d5d530b7/1*mhOVJVivKJPbwwqP0AaTHQ.jpeg)
+![](../assets/c9d8d5d530b7/1*mhOVJVivKJPbwwqP0AaTHQ.jpeg)
 
 
 
-![](assets/c9d8d5d530b7/1*hg-ZNUzbKshiIo9gytfrlg.jpeg)
+![](../assets/c9d8d5d530b7/1*hg-ZNUzbKshiIo9gytfrlg.jpeg)
 
 
 
-![](assets/c9d8d5d530b7/1*NLV7N64RB9kzpwjyIsfIKw.jpeg)
+![](../assets/c9d8d5d530b7/1*NLV7N64RB9kzpwjyIsfIKw.jpeg)
 
 
 
-![Credit: Caravana [Abriendo Fronteras](https://twitter.com/Caravana_AF/)](assets/c9d8d5d530b7/1*HTk8jP9fsZBmvUBvY1s7XA.jpeg)
+![Credit: Caravana [Abriendo Fronteras](https://twitter.com/Caravana_AF/)](../assets/c9d8d5d530b7/1*HTk8jP9fsZBmvUBvY1s7XA.jpeg)
 
 Credit: Caravana [Abriendo Fronteras](https://twitter.com/Caravana_AF/)
 
 More than 350 people and dozens of groups from Spain, Italy and other European countries have joined this protest initiative during this edition\. Local groups hosted a week of events, talks and demonstrations, touching the many ‘hot spots’ on the islands: camps, CIEs, Frontex offices, municipal and government headquarters, arrival points\.
 
 
-![Photo by an activist on the ground](assets/c9d8d5d530b7/1*-5vnDmI0t9LRfLIAO53-Zg.jpeg)
+![Photo by an activist on the ground](../assets/c9d8d5d530b7/1*-5vnDmI0t9LRfLIAO53-Zg.jpeg)
 
 Photo by an activist on the ground
 
 The Caravan worked to connect migratory struggles with anti\-colonial, trans\-feminist and anti\-military topics\. Italian dock\-workers who are refusing to load weapons into ships in Genova took part in the caravan, as well as representatives from Western Sahara, various south American countries, and many more\.
 
 
-![Photo by an activist on the ground](assets/c9d8d5d530b7/1*qtg0g5J0HYIE3OBuJi-F_Q.jpeg)
+![Photo by an activist on the ground](../assets/c9d8d5d530b7/1*qtg0g5J0HYIE3OBuJi-F_Q.jpeg)
 
 Photo by an activist on the ground
 
 Once in Tenerife the Caravana was [charged](https://www.elsaltodiario.com/migracion/policia-carga-concentracion-pacifica-derechos-personas-migrantes-en-tenerife) by the police, during a peaceful demonstration in front of a government delegation office\.
 
 
-![Tenerife \(Credit: [Pressenza](https://twitter.com/pressenza/status/1418180973779369986/photo/1) \)](assets/c9d8d5d530b7/1*9FLfKCfs-yumc1Nvsu5zvw.jpeg)
+![Tenerife \(Credit: [Pressenza](https://twitter.com/pressenza/status/1418180973779369986/photo/1) \)](../assets/c9d8d5d530b7/1*9FLfKCfs-yumc1Nvsu5zvw.jpeg)
 
 Tenerife \(Credit: [Pressenza](https://twitter.com/pressenza/status/1418180973779369986/photo/1) \)
 

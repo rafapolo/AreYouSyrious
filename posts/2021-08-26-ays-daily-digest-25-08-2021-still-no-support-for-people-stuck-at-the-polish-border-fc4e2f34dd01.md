@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 25/08/2021: Still no support for people stuck at the Polish border
+title: "AYS Daily Digest 25/08/2021: Still no support for people stuck at the Polish border"
 author: Are You Syrious?
 date: 2021-08-26T13:01:11.408+0100
 last_modified_at: 2021-08-26T13:44:00.453+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,poland,afghanistan]
 description: For two weeks now, a group of 30 people has been stuck in no-mans-land at the border between Poland and Belarus // Interim measures ordered…
 image:
-  path: assets/fc4e2f34dd01/1*MtWFdumjrEqGHJqkiSsATQ.png
+  path: ../assets/fc4e2f34dd01/1*MtWFdumjrEqGHJqkiSsATQ.png
 ---
 
 ### AYS Daily Digest 25/08/2021: Still no support for people stuck at the Polish border
 #### For two weeks now, a group of 30 people has been stuck in no\-mans\-land at the border between Poland and Belarus // Interim measures ordered against Poland and Latvia by ECHR // Afghanistan: Chaos and despair at the airport as evacuation flights end // New attacks in northeast Syria // Defund Frontex campaign started // Alarm Phone wins human rights award // Updates from the sea // Greece: refugees fined €5,000 for not bringing COVID tests // Various groups in fear of pushback
 
 
-![Screenshot of Polish MP trying to break police barrier to support people stuck at the border](assets/fc4e2f34dd01/1*MtWFdumjrEqGHJqkiSsATQ.png)
+![Screenshot of Polish MP trying to break police barrier to support people stuck at the border](../assets/fc4e2f34dd01/1*MtWFdumjrEqGHJqkiSsATQ.png)
 
 Screenshot of Polish MP trying to break police barrier to support people stuck at the border
 ### FEATURE Poland: People still stuck at the border without protection, while installation of fence is announced

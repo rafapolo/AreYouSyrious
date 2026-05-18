@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 29/05/2019: What do you know about the European Migrant Smuggling Centre?
+title: "AYS DAILY DIGEST 29/05/2019: What do you know about the European Migrant Smuggling Centre?"
 author: Are You Syrious?
 date: 2019-05-30T16:32:12.281+0100
 last_modified_at: 2019-06-03T01:48:58.132+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,smuggling,securitization,special]
 description: Long read on EUROPOL’s project, and who it really helps // Harrowing night for 90 people sinking in Italian waters // Two deaths of minors…
 image:
-  path: assets/b0ddd0df161f/1*BDeUGe9cx52tHsBlTCzRVA.jpeg
+  path: ../assets/b0ddd0df161f/1*BDeUGe9cx52tHsBlTCzRVA.jpeg
 ---
 
 ### AYS Daily Digest 29/05/19: What do you know about the European Migrant Smuggling Centre?
 #### _Long read on the EUROPOL project, and whom it really helps // Harrowing night for 90 people sinking in Italian waters // Two deaths of minors in France and England // The fight to prevent deportation of an elderly woman from Denmark is ongoing_
 
 
-![Photo Credit: Kesha Niya](assets/b0ddd0df161f/1*BDeUGe9cx52tHsBlTCzRVA.jpeg)
+![Photo Credit: Kesha Niya](../assets/b0ddd0df161f/1*BDeUGe9cx52tHsBlTCzRVA.jpeg)
 
 Photo Credit: Kesha Niya
 

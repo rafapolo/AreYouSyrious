@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 4/6/2018: Occupation of the camp in Greece
+title: "AYS DAILY DIGEST 4/6/2018: Occupation of the camp in Greece"
 author: Are You Syrious?
 date: 2018-06-05T10:38:55.383+0100
 last_modified_at: 2018-06-05T10:38:55.383+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,bosnia,madina]
 description: Family of Madina, the girl who was killed by a train near the border with Serbia, is finally set free from prison in Croatia // More help…
 image:
-  path: assets/6afb4e9981bf/1*p_RVjQsovNu9i6OAW76smw.jpeg
+  path: ../assets/6afb4e9981bf/1*p_RVjQsovNu9i6OAW76smw.jpeg
 ---
 
 ### AYS DAILY DIGEST 4/6/2018: Occupation of the camp in Greece
@@ -15,7 +15,7 @@ image:
 _Family of Madina, the girl who was killed by a train near the border with Serbia, is finally set free from prison in Croatia // More help is needed in Bosnia, France and Greece // New deportations from Austria announced // Men from Iraq injured in Macedonia_
 
 
-![Photo by [Abdulazez Dukhan](https://www.facebook.com/AbdulazezDukhan)](assets/6afb4e9981bf/1*p_RVjQsovNu9i6OAW76smw.jpeg)
+![Photo by [Abdulazez Dukhan](https://www.facebook.com/AbdulazezDukhan)](../assets/6afb4e9981bf/1*p_RVjQsovNu9i6OAW76smw.jpeg)
 
 Photo by [Abdulazez Dukhan](https://www.facebook.com/AbdulazezDukhan)
 ### Feature
@@ -25,7 +25,7 @@ On Friday, June 1st, residents occupied Thivia camp protesting against the poor 
 However, after four days of occupation, the IOM team came to negotiate with representatives of the camp residents, and promised to do something to improve the living conditions\. Finally, the blockade was suspended\. But, if there is no improvement, the gates will be closed again next Friday and the occupation will continue\.
 
 
-![Photo by the resindetns of Thivia\.](assets/6afb4e9981bf/1*OLcDm6liAgWZ6PSdSl66EQ.jpeg)
+![Photo by the resindetns of Thivia\.](../assets/6afb4e9981bf/1*OLcDm6liAgWZ6PSdSl66EQ.jpeg)
 
 Photo by the resindetns of Thivia\.
 
@@ -40,7 +40,7 @@ Additionally, people in the camp get cash cards from the UN, which is a very mod
 These are just some of the issues residents of Thivia camp have to deal with\. Most of them arrived about six months ago, some from the islands and some are came to Greece recnelty via the land border\.
 
 
-![Photo by the resindetns of the Thivia](assets/6afb4e9981bf/1*f7BWClOLlmCXRyGfsJ180A.jpeg)
+![Photo by the resindetns of the Thivia](../assets/6afb4e9981bf/1*f7BWClOLlmCXRyGfsJ180A.jpeg)
 
 Photo by the resindetns of the Thivia
 
@@ -122,11 +122,11 @@ Young men \(29\) from Iraq suffered burns from an electric shock after he boarde
 An estimated 150 \(or more\) people came to the railway station in Sarajevo for dinner distribution in the evening\. Not everyone is fasting but in order to feed as many people as possible, dinner is served after Iftar since it’s Ramadan\.
 
 
-![](assets/6afb4e9981bf/1*M8csphINda2btcNOk17Eig.jpeg)
+![](../assets/6afb4e9981bf/1*M8csphINda2btcNOk17Eig.jpeg)
 
 
 
-![Photo by AYS](assets/6afb4e9981bf/1*yAwLsws__gPLeECM44hpJg.jpeg)
+![Photo by AYS](../assets/6afb4e9981bf/1*yAwLsws__gPLeECM44hpJg.jpeg)
 
 Photo by AYS
 
@@ -141,11 +141,11 @@ Meanwhile in Velika Kladuša, near the border with Croatia, over 500 people gath
 [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/) team, along with [SOS Team Kladuša](https://www.facebook.com/SOSTeamKladusa/?ref=br_rs) and local volunteers, are building a shelter for families thanks to the donation of two containers, used during the Bosnian war\.
 
 
-![](assets/6afb4e9981bf/1*puPExTPsjZKEVy-20U7RvQ.jpeg)
+![](../assets/6afb4e9981bf/1*puPExTPsjZKEVy-20U7RvQ.jpeg)
 
 
 
-![Photo by No Name Kitchen](assets/6afb4e9981bf/1*yKNJbhnE7U2ODMQyvh8PvA.jpeg)
+![Photo by No Name Kitchen](../assets/6afb4e9981bf/1*yKNJbhnE7U2ODMQyvh8PvA.jpeg)
 
 Photo by No Name Kitchen
 
@@ -154,11 +154,11 @@ The job could be finished in two weeks, but they need financial support\. Any do
 The same team started to build a pavilion in the camp because the sun is shining nearly the whole day and temperatures are high\. The pavilions will provide some shade and also protection during the periods of heavy rain\. A floor will be constructed in the upcoming days\.
 
 
-![](assets/6afb4e9981bf/1*87WQwVaoz6zawf6-ct8bjg.jpeg)
+![](../assets/6afb4e9981bf/1*87WQwVaoz6zawf6-ct8bjg.jpeg)
 
 
 
-![Photo by SOS Team Kladusa](assets/6afb4e9981bf/1*y_HIeIXUsns4-sZajWEADw.jpeg)
+![Photo by SOS Team Kladusa](../assets/6afb4e9981bf/1*y_HIeIXUsns4-sZajWEADw.jpeg)
 
 Photo by SOS Team Kladusa
 
@@ -187,11 +187,11 @@ Planned deportation this week
 [Information](https://www.facebook.com/RefugeeCampVienna/posts/1856602697725648) to all people from the Gambia\. It is suggested that a deportation flight will leave at 7\.6\.2018
 
 
-![](assets/6afb4e9981bf/1*Wn4nHmUs3ftUnSQr9PD2Ug.jpeg)
+![](../assets/6afb4e9981bf/1*Wn4nHmUs3ftUnSQr9PD2Ug.jpeg)
 
 
 
-![](assets/6afb4e9981bf/1*rdJ1aGgA3VpRvjP1U5OeRg.jpeg)
+![](../assets/6afb4e9981bf/1*rdJ1aGgA3VpRvjP1U5OeRg.jpeg)
 
 ### Belgium
 
@@ -211,7 +211,7 @@ Today I saw some policemen take the bags of my friends who couldn’t keep them 
 Today I heard some kids call my name when they were pushed into the vans\.
 
 
-![](assets/6afb4e9981bf/1*Ts0JjFQ8EMYnSokVb-NogQ.jpeg)
+![](../assets/6afb4e9981bf/1*Ts0JjFQ8EMYnSokVb-NogQ.jpeg)
 
 ### France
 
@@ -220,7 +220,7 @@ Today I heard some kids call my name when they were pushed into the vans\.
 Shoe stock is running low in Calais and donations are needed\. Previously, last week, police has stolen single shoes from refugees in a cruel extra judiciary punishment action\.
 
 
-![](assets/6afb4e9981bf/1*vxYhzakIeRJiVRVhgnI1JQ.jpeg)
+![](../assets/6afb4e9981bf/1*vxYhzakIeRJiVRVhgnI1JQ.jpeg)
 
 
 
@@ -233,7 +233,7 @@ Shoe stock is running low in Calais and donations are needed\. Previously, last 
 Police also confiscated water containers\.
 
 
-![](assets/6afb4e9981bf/1*n-DVYq7fqpvN328lNGKq_Q.jpeg)
+![](../assets/6afb4e9981bf/1*n-DVYq7fqpvN328lNGKq_Q.jpeg)
 
 
 

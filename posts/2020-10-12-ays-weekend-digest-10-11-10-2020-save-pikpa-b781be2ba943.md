@@ -1,20 +1,20 @@
 ---
-title: AYS Weekend Digest 10–11/10/2020: Save Pikpa
+title: "AYS Weekend Digest 10–11/10/2020: Save Pikpa"
 author: Are You Syrious?
 date: 2020-10-12T13:38:10.438+0100
 last_modified_at: 2020-10-12T15:34:25.199+0100
 categories: Are You Syrious?
 tags: [digest,refugees,savepikpa,syrian-turkish-border,europe]
-description: Four people die in a minefield on the Syrian-Turkish border / Libya: 350 people on the move kidnapped from their homes
+description: "Four people die in a minefield on the Syrian-Turkish border / Libya: 350 people on the move kidnapped from their homes"
 image:
-  path: assets/b781be2ba943/1*J4R9_wvzgBL2_Q0qTEHCJw.jpeg
+  path: ../assets/b781be2ba943/1*J4R9_wvzgBL2_Q0qTEHCJw.jpeg
 ---
 
 ### AYS Weekend Digest 10–11/10/2020: Save Pikpa
 #### Four people die in a minefield on the Syrian\-Turkish border / Libya: 50 people on the move kidnapped from their homes / Shipwreck off Tunisia: 11 die and 11 are missing …
 
 
-![A photo from August 2018 from our friends at Radical Wales still so relevant today](assets/b781be2ba943/1*J4R9_wvzgBL2_Q0qTEHCJw.jpeg)
+![A photo from August 2018 from our friends at Radical Wales still so relevant today](../assets/b781be2ba943/1*J4R9_wvzgBL2_Q0qTEHCJw.jpeg)
 
 A photo from August 2018 from our friends at Radical Wales still so relevant today
 #### Pikpa to be evicted Monday 12th October
@@ -56,7 +56,7 @@ Since before the ‘migration crisis’ and throughout it, Pikpa especially has 
 Acts of solidarity are spreading throughout Lesvos, Greece and the rest of Europe\.
 
 
-![Image by [fledermuc](https://twitter.com/fledermuc/status/1314588470002712576)](assets/b781be2ba943/1*0JTHLa8Wi_61n6LJeRm8Jw.jpeg)
+![Image by [fledermuc](https://twitter.com/fledermuc/status/1314588470002712576)](../assets/b781be2ba943/1*0JTHLa8Wi_61n6LJeRm8Jw.jpeg)
 
 Image by [fledermuc](https://twitter.com/fledermuc/status/1314588470002712576)
 

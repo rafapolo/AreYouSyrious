@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 21/07/18: Syria is safe now? Russia, the US think maybe…
+title: "AYS DAILY DIGEST 21/07/18: Syria is safe now? Russia, the US think maybe…"
 author: Are You Syrious?
 date: 2018-07-22T12:11:19.474+0100
 last_modified_at: 2018-07-22T13:18:45.323+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees]
 description: Who gets to decide fate of Syrians? The states, of course // Turkish detention policy is inhumane and people continue to be trapped //…
 image:
-  path: assets/84acb23d6cc1/1*4JMC9dHKSyq-Mqofx4q94w.jpeg
+  path: ../assets/84acb23d6cc1/1*4JMC9dHKSyq-Mqofx4q94w.jpeg
 ---
 
 ### AYS DAILY DIGEST 21/07/18: Syria is safe now? Russia, the US think maybe…
@@ -15,7 +15,7 @@ image:
 _Who gets to decide fate of Syrians? The states, of course // Turkish detention policy is inhumane and people continue to be trapped // Debunking of far right myths about economic impact of refugees in Greece // Serbian refugee support under media attack// Report on the broader picture in Ventimiglia // Safe water desperately needed in France // Protests in Germany and UK_
 
 
-![Photo Credit: Jenny Graham](assets/84acb23d6cc1/1*4JMC9dHKSyq-Mqofx4q94w.jpeg)
+![Photo Credit: Jenny Graham](../assets/84acb23d6cc1/1*4JMC9dHKSyq-Mqofx4q94w.jpeg)
 
 Photo Credit: Jenny Graham
 ### FEATURE: The Spoils of War…spoiled rotten
@@ -72,7 +72,7 @@ In Italy, Help\-NA posted an exhaustive report on the awful conditions, increase
 “It is paradoxically one of the hardest borders in Europe without internal borders\. Many of the migrants who arrive along the route of Libya and Italy try to cross that Franco\-Italian border, most of them are Sudanese and Eritrean and many of them are stranded in the town of Ventimiglia, try to cross along the train tracks at night either by the mount, they arrive this way to the valley\. In this area there are no established camps or reception centres, local authorities refused to install them\. People walk through the streets and mount in full winter, there have been freezes and deaths\. Aid to such persons is punishable by law, although with some exceptions \(recently humanitarian aid in France ceased to be a crime, but the attention offered in areas close to the border remains\. \) The border is strictly controlled by the police, with controls of up to two hours affecting the European population as well\. There are cases of institutional racism, on all trains identify black people, and if they do not have papers they are illegally deported by skipping any international legislation that requires protection of minors, collecting and accepting asylum applications by all people to ask her and to ensure that no one can be deported without lawyers and witnesses\. In addition, French and Italian fascist groups have carried out actions to prevent the arrival of people in transit, including to place a large network to prevent passage\.”
 
 
-![Ventimiglia, photo credit: Help\-Na](assets/84acb23d6cc1/1*hTzPd-M4YQMT3SdSjsuC2Q.jpeg)
+![Ventimiglia, photo credit: Help\-Na](../assets/84acb23d6cc1/1*hTzPd-M4YQMT3SdSjsuC2Q.jpeg)
 
 Ventimiglia, photo credit: Help\-Na
 

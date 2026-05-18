@@ -1,5 +1,5 @@
 ---
-title: AYS Special from Germany: Young people in Bremen pushed out of the system
+title: "AYS Special from Germany: Young people in Bremen pushed out of the system"
 author: Are You Syrious?
 date: 2018-05-15T08:08:33.243+0100
 last_modified_at: 2018-06-08T08:54:00.216+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,special,bremen,minor,germany]
 description: Mainly self-confessed underaged people, who are objecting the decision of the youth service that they are adults, live in the last tent…
 image:
-  path: assets/87c1fca35dc4/1*vhR--aybrJAJYbiVzxESWw.jpeg
+  path: ../assets/87c1fca35dc4/1*vhR--aybrJAJYbiVzxESWw.jpeg
 ---
 
 ### AYS Special from Germany: Young people in Bremen pushed out of the system
 #### _Mainly self\-confessed underaged people, who are objecting the decision of the youth service that they are adults, live in the last tent camp of Bremen\. Local volunteers denounce it as punishment for the appeal and want to take action together with the camp residents to close the site\._
 
 
-![_The camp at Gottlieb\-Daimler\-Straße — the last tent camp in Bremen\. Credits: AYS_](assets/87c1fca35dc4/1*vhR--aybrJAJYbiVzxESWw.jpeg)
+![_The camp at Gottlieb\-Daimler\-Straße — the last tent camp in Bremen\. Credits: AYS_](../assets/87c1fca35dc4/1*vhR--aybrJAJYbiVzxESWw.jpeg)
 
 _The camp at Gottlieb\-Daimler\-Straße — the last tent camp in Bremen\. Credits: AYS_
 
@@ -27,7 +27,7 @@ When Koroma woke up a few weeks ago, he was shocked because his nose was bleedin
 “Everybody bleeds from the nose in the morning because of the heater\. It is run with gas,“ he explains\. While it has happened to him only three times over the last few months, some of his friends have had this problem more often, especially in the winter months, when the temperatures were milder but still dry\.
 
 
-![Bleeding noses are one of the biggest problems the camp residents have\.](assets/87c1fca35dc4/1*nkWdaBQ3IU0pL78-bRPXYA.png)
+![Bleeding noses are one of the biggest problems the camp residents have\.](../assets/87c1fca35dc4/1*nkWdaBQ3IU0pL78-bRPXYA.png)
 
 Bleeding noses are one of the biggest problems the camp residents have\.
 
@@ -36,7 +36,7 @@ At night, the noisy heater is left turned on\. To avoid the dry air coming insid
 “To me, this is not a camp, it is like a prison\. But we did not commit any crime,“ another resident says\.
 
 
-![With plastic cups the residents try to keep the warm, dry air out of their rooms\.](assets/87c1fca35dc4/1*Qm73trBi3huHQiZk5WWPGQ.jpeg)
+![With plastic cups the residents try to keep the warm, dry air out of their rooms\.](../assets/87c1fca35dc4/1*Qm73trBi3huHQiZk5WWPGQ.jpeg)
 
 With plastic cups the residents try to keep the warm, dry air out of their rooms\.
 
@@ -53,7 +53,7 @@ The whole procedure of estimating the age of a young person is controversial\.
 Koroma, who says he is 17 years old, was estimated to be 25 by the youth service\. „I cried,“ he remembers the decision, adding: „It does not matter what you say\. They will decide about your age\. Then they tell you to sign something and you will get schooling and accommodation\.“ This document is in effect an agreement with the decision that they are not a minor\. „If you sign it, you cannot do anything against it anymore\.“
 
 
-![Minor or not? One of the tests is to look at the fingertips to estimate the age\.](assets/87c1fca35dc4/1*6Ix8cHm-P5sph5f7HomVIQ.jpeg)
+![Minor or not? One of the tests is to look at the fingertips to estimate the age\.](../assets/87c1fca35dc4/1*6Ix8cHm-P5sph5f7HomVIQ.jpeg)
 
 Minor or not? One of the tests is to look at the fingertips to estimate the age\.
 

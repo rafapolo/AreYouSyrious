@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,greece,protest]
 description: Ocean Viking Finally Released//Evidence of Torture in Pushback from Kalymnos Revealed//Updates From Šid
 image:
-  path: assets/ef37508c65c3/0*Tyw6_d30e3DNEnVo
+  path: ../assets/ef37508c65c3/0*Tyw6_d30e3DNEnVo
 ---
 
 ### AYS Daily Digest 21/12/2020—Greece Deports EU National for His Political Beliefs Amid Countrywide Crackdown
 #### Ocean Viking finally released//Evidence of torture in pushback from Kalymnos revealed//Updates from Šid
 
 
-![The photo exhibition “Humans of Moria,” now open in Copenhagen\. Photo credit: Nanna [Vedel\-Hertz](https://www.facebook.com/VedelHertz/posts/1829835147190441) , one of the photographers whose work is featured\.](assets/ef37508c65c3/0*Tyw6_d30e3DNEnVo)
+![The photo exhibition “Humans of Moria,” now open in Copenhagen\. Photo credit: Nanna [Vedel\-Hertz](https://www.facebook.com/VedelHertz/posts/1829835147190441) , one of the photographers whose work is featured\.](../assets/ef37508c65c3/0*Tyw6_d30e3DNEnVo)
 
 The photo exhibition “Humans of Moria,” now open in Copenhagen\. Photo credit: Nanna [Vedel\-Hertz](https://www.facebook.com/VedelHertz/posts/1829835147190441) , one of the photographers whose work is featured\.
 #### FEATURE
@@ -29,7 +29,7 @@ Erol’s arrest and deportation are troubling by themselves, but set a dangerous
 #### IOM Libya maritime update
 
 
-![Courtesy of [IOM’s Twitter](https://twitter.com/IOM_Libya/status/1341056896950788096/photo/1)](assets/ef37508c65c3/0*GodRzkRvlO2Q_eQz)
+![Courtesy of [IOM’s Twitter](https://twitter.com/IOM_Libya/status/1341056896950788096/photo/1)](../assets/ef37508c65c3/0*GodRzkRvlO2Q_eQz)
 
 Courtesy of [IOM’s Twitter](https://twitter.com/IOM_Libya/status/1341056896950788096/photo/1)
 #### SEA
@@ -63,7 +63,7 @@ UNHCR have published their monthly fact sheet on Greece, which you can read [her
 #### Updates from No Name Kitchen in Šid
 
 
-![Photo by Ed from [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/a.312076942523930/1147967262268223/)](assets/ef37508c65c3/0*QccxGSuiK4ZzW0u7)
+![Photo by Ed from [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/a.312076942523930/1147967262268223/)](../assets/ef37508c65c3/0*QccxGSuiK4ZzW0u7)
 
 Photo by Ed from [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/a.312076942523930/1147967262268223/)
 

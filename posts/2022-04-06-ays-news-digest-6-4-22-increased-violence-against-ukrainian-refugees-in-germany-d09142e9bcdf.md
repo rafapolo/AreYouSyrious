@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 6/4/22: A rise in violence against Ukrainian refugees in Germany
+title: "AYS News Digest 6/4/22: A rise in violence against Ukrainian refugees in Germany"
 author: Are You Syrious?
 date: 2022-04-06T23:54:10.284+0100
 last_modified_at: 2022-04-07T11:41:58.600+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,ukraine,deportations,refugees,greece]
 description: Four Afghans deported from Turkey to Syria/FRONTEX’s concerns of human trafficking at the Ukraine border/The transformation of RICs in…
 image:
-  path: assets/d09142e9bcdf/0*3lYHHISDw6Rtez_r
+  path: ../assets/d09142e9bcdf/0*3lYHHISDw6Rtez_r
 ---
 
 
@@ -16,7 +16,7 @@ image:
 Four Afghans deported from Turkey to Syria/FRONTEX’s concerns of human trafficking at the Ukraine border/The transformation of RICs in Greece/Italy arrests refugees and asylum seekers on charges of human smuggling/Germany has halted deportations to eastern European countries/Ten proposals from Utopia 56 for a more humane refugee reception system/and much more…
 
 
-![Source: The International Law Blog](assets/d09142e9bcdf/0*3lYHHISDw6Rtez_r)
+![Source: The International Law Blog](../assets/d09142e9bcdf/0*3lYHHISDw6Rtez_r)
 
 Source: The International Law Blog
 
@@ -81,7 +81,7 @@ Refugees and asylum seekers are charged using weak evidence, and they often lack
 168 people were [stopped by the Turkish coast guard](https://www.infomigrants.net/en/post/39681/turkey-stops-168-italybound-migrants-in-aegean?fbclid=IwAR39dA8KJLi7jfiq7nbqjpOC1M43PdUpqSpMwbfRC2oSEETMT29v1E6Dbac) on Tuesday, as authorities believed they were heading to Italy\. In March, more than 17,000 migrants were stopped in Turkey\.
 
 
-![Source: InfoMigrants](assets/d09142e9bcdf/0*L0L7OHBmgPCi0Dp-.jpg)
+![Source: InfoMigrants](../assets/d09142e9bcdf/0*L0L7OHBmgPCi0Dp-.jpg)
 
 Source: InfoMigrants
 
@@ -239,7 +239,7 @@ Since the end of February, there have been 109 offenses against Ukrainian nation
 1693 people have been sent from Algeria to Niger on 20 and 22 March, raising [the number of individuals expelled to Niger to 5069 since the beginning of 2022](https://alarmephonesahara.info/fr/blog/posts/mars-2022-arrivee-d-autres-convois-d-expulsion-situation-precaire-a-assamaka-et-dans-les-villes-du-niger?fbclid=IwAR2qsXj1QfuxUEg6Il5UCjuKGQhkDw92sm4b_d0Ilv6U_5efNzFIh323Qfo) \.
 
 
-![Source: Alarm Phone Sahara](assets/d09142e9bcdf/1*iy_9BC2IaezuN1bNb52RTg.png)
+![Source: Alarm Phone Sahara](../assets/d09142e9bcdf/1*iy_9BC2IaezuN1bNb52RTg.png)
 
 Source: Alarm Phone Sahara
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 01/10/17 : Relocation two years later: no solidarity in the EU
+title: "AYS Daily Digest 01/10/17 : Relocation two years later: no solidarity in the EU"
 author: Are You Syrious?
 date: 2017-10-01T23:59:41.078+0100
 last_modified_at: 2017-10-02T18:45:26.798+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,france,greece,relocation]
 description: EU relocation plans two years later / Appalling conditions persist on Lesvos / Calls for donations in France / And more news…
 image:
-  path: assets/95a127c6db56/1*NKelOzQcBxZTovAzsolCGg.jpeg
+  path: ../assets/95a127c6db56/1*NKelOzQcBxZTovAzsolCGg.jpeg
 ---
 
 ### AYS Daily Digest 01/10/17 : Relocation two years later: no solidarity in the EU
@@ -15,7 +15,7 @@ image:
 _EU relocation plans two years later / Appalling conditions persist on Lesvos / Calls for donations in France / And more news…_
 
 
-![Lesvos, September 2017 “ The winter is already here and Moria is full of tents again like last year\.” \(Photo: [Aris Vlahopoulos](https://www.facebook.com/aris.vlahopoulos) \)](assets/95a127c6db56/1*NKelOzQcBxZTovAzsolCGg.jpeg)
+![Lesvos, September 2017 “ The winter is already here and Moria is full of tents again like last year\.” \(Photo: [Aris Vlahopoulos](https://www.facebook.com/aris.vlahopoulos) \)](../assets/95a127c6db56/1*NKelOzQcBxZTovAzsolCGg.jpeg)
 
 Lesvos, September 2017 “ The winter is already here and Moria is full of tents again like last year\.” \(Photo: [Aris Vlahopoulos](https://www.facebook.com/aris.vlahopoulos) \)
 #### FEATURE
@@ -43,13 +43,13 @@ These poor results and the fact that the two years planned for the program have 
 
 
 
-![Infographics [here](https://data2.unhcr.org/en/documents/download/60076)](assets/95a127c6db56/1*ooeRNEMYOj8-8AXwNhzuqQ.png)
+![Infographics [here](https://data2.unhcr.org/en/documents/download/60076)](../assets/95a127c6db56/1*ooeRNEMYOj8-8AXwNhzuqQ.png)
 
 Infographics [here](https://data2.unhcr.org/en/documents/download/60076)
 #### SEA
 
 
-![by [**Euro\-Mediterranean Human Rights Monitor**](https://www.facebook.com/EuroMedHR/?ref=gs&fref=gs&hc_location=group_dialog)](assets/95a127c6db56/1*TTaybin-MJAn-c1-KsK-Bg.png)
+![by [**Euro\-Mediterranean Human Rights Monitor**](https://www.facebook.com/EuroMedHR/?ref=gs&fref=gs&hc_location=group_dialog)](../assets/95a127c6db56/1*TTaybin-MJAn-c1-KsK-Bg.png)
 
 by [**Euro\-Mediterranean Human Rights Monitor**](https://www.facebook.com/EuroMedHR/?ref=gs&fref=gs&hc_location=group_dialog)
 #### GREECE
@@ -68,7 +68,7 @@ It has become clear to everyone by now that eception conditions under the Common
 “ **Living conditions in Moria camp have become unbearable** over the past month as a dramatic [increase](https://www.theguardian.com/world/2017/sep/29/surge-in-migration-to-greece-fuels-misery-in-refugee-camps?CMP=share_btn_fb) in arrivals coincides with a deterioration in the weather and inadequate provision of food, shelter, healthcare and hygiene”, Legal centre Lesvos [September report](http://www.legalcentrelesbos.org/2017/09/30/september-report-on-rights-violations-and-resistance-in-lesvos/) states, speaking of the inhumane and dangerous conditions in Moria, a camp that is now over double its capacity: at least 4,831 people live there\.
 
 
-![Photo: [Aris Vlahopoulos](https://www.facebook.com/aris.vlahopoulos)](assets/95a127c6db56/1*mSyExmznc5a2i_vahpvXCg.jpeg)
+![Photo: [Aris Vlahopoulos](https://www.facebook.com/aris.vlahopoulos)](../assets/95a127c6db56/1*mSyExmznc5a2i_vahpvXCg.jpeg)
 
 Photo: [Aris Vlahopoulos](https://www.facebook.com/aris.vlahopoulos)
 
@@ -203,15 +203,15 @@ The scenery represents the current surrounding for thousands in European cities\
 
 
 
-![](assets/95a127c6db56/1*Y6IOlWGIkt4F9yVHBMZvKg.jpeg)
+![](../assets/95a127c6db56/1*Y6IOlWGIkt4F9yVHBMZvKg.jpeg)
 
 
 
-![](assets/95a127c6db56/1*qctI8Hjc4NxSlyaHjTCUqQ.jpeg)
+![](../assets/95a127c6db56/1*qctI8Hjc4NxSlyaHjTCUqQ.jpeg)
 
 
 
-![The area was cleaned up by the people currently staying in the area and sleeping on the concrete\. \. \(Photos: PRGS\)](assets/95a127c6db56/1*zKC3VTEki7JT_3_CGbg8Zw.jpeg)
+![The area was cleaned up by the people currently staying in the area and sleeping on the concrete\. \. \(Photos: PRGS\)](../assets/95a127c6db56/1*zKC3VTEki7JT_3_CGbg8Zw.jpeg)
 
 The area was cleaned up by the people currently staying in the area and sleeping on the concrete\. \. \(Photos: PRGS\)
 ### Calais
@@ -229,15 +229,15 @@ The area was cleaned up by the people currently staying in the area and sleeping
 
 
 
-![](assets/95a127c6db56/1*1ivIy2OZxZsC8qV4UA8SRw.jpeg)
+![](../assets/95a127c6db56/1*1ivIy2OZxZsC8qV4UA8SRw.jpeg)
 
 
 
-![](assets/95a127c6db56/1*1kAMqHSfhByHigpIcKez0w.jpeg)
+![](../assets/95a127c6db56/1*1kAMqHSfhByHigpIcKez0w.jpeg)
 
 
 
-![\(Photos by [Human Aid in Greece](https://www.facebook.com/humanaidgreece/) \)](assets/95a127c6db56/1*dtp6F3evUbzdwAH1Shg2-Q.jpeg)
+![\(Photos by [Human Aid in Greece](https://www.facebook.com/humanaidgreece/) \)](../assets/95a127c6db56/1*dtp6F3evUbzdwAH1Shg2-Q.jpeg)
 
 \(Photos by [Human Aid in Greece](https://www.facebook.com/humanaidgreece/) \)
 

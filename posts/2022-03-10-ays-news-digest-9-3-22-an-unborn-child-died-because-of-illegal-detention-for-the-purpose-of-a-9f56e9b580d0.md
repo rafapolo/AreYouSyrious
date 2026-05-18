@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 9/3/22: An unborn child died because of illegal detention for the purpose of a…
+title: "AYS News Digest 9/3/22: An unborn child died because of illegal detention for the purpose of a…"
 author: Are You Syrious?
 date: 2022-03-10T18:02:43.345+0000
 last_modified_at: 2022-03-10T18:02:43.345+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,greece,ukraine,refugees,europe]
 description: Italy and Malta still enacting punitive tactics against vessels that fulfill international and maritime law by refusing to abandon people…
 image:
-  path: assets/9f56e9b580d0/1*yE975Fy0ep1f8ydRqf81yA.jpeg
+  path: ../assets/9f56e9b580d0/1*yE975Fy0ep1f8ydRqf81yA.jpeg
 ---
 
 ### AYS News Digest 9/3/22: An unborn child died because of illegal detention for the purpose of a pushback
 #### Italy and Malta still enacting punitive tactics against vessels that fulfill international and maritime law by refusing to abandon people at sea / France: Press release condemning the banning of giving food and water in the city / Double standards of the EU’s response to people fleeing evident more and more by day / \+ more news & a list of important updates, long reads and reports chosen for you by our team
 
 
-![Illustration photo by HRW](assets/9f56e9b580d0/1*yE975Fy0ep1f8ydRqf81yA.jpeg)
+![Illustration photo by HRW](../assets/9f56e9b580d0/1*yE975Fy0ep1f8ydRqf81yA.jpeg)
 
 Illustration photo by HRW
 #### FEATURE
@@ -82,7 +82,7 @@ Abubaker’s death could have been avoided\.” A week ago, Abubaker was hit by 
 February report by the [Human Rights Observers](https://twitter.com/HumanRightsObs)
 
 
-![](assets/9f56e9b580d0/0*uqcpfKmFTggTLAKH)
+![](../assets/9f56e9b580d0/0*uqcpfKmFTggTLAKH)
 
 ### Press release condemning the banning of giving food and water in the city
 
@@ -120,7 +120,7 @@ February report by the [Human Rights Observers](https://twitter.com/HumanRightsO
 ### Fighting the double standards on the ground
 
 
-![](assets/9f56e9b580d0/0*Zh5J8dcw8m532QAM)
+![](../assets/9f56e9b580d0/0*Zh5J8dcw8m532QAM)
 
 
 German activists offer free bus service to Berlin, prioritizing 3rd\-country nationals who may face barriers & discrimination accessing free transport & housing\. Nationals of Senegal, Ethiopia, Pakistan, Algeria, Syria fleeing Ukraine are among those who have hopped on buses\. Many are students, according to activist & bus driver Luca Kruczynski \(pictured\), who’s been shuttling between Germany and Poland to transport people\.

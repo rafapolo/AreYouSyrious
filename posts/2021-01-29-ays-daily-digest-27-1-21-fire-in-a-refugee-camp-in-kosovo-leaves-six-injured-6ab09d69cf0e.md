@@ -1,13 +1,13 @@
 ---
-title: AYS Daily Digest 27/1/21: Fire in a refugee camp in Kosovo leaves six injured
+title: "AYS Daily Digest 27/1/21: Fire in a refugee camp in Kosovo leaves six injured"
 author: Are You Syrious?
 date: 2021-01-29T19:32:20.949+0000
 last_modified_at: 2021-01-29T19:32:20.949+0000
 categories: Are You Syrious?
 tags: []
-description: 6 people injured after a fire broke out in a camp in Kosovo / Ongoing: the first legal challenge to the European Union over its treatment…
+description: "6 people injured after a fire broke out in a camp in Kosovo / Ongoing: the first legal challenge to the European Union over its treatment…"
 image:
-  path: assets/6ab09d69cf0e/0*r7MAoSKGp5ngY6Cd
+  path: ../assets/6ab09d69cf0e/0*r7MAoSKGp5ngY6Cd
 ---
 
 ### AYS Daily Digest 27/1/21: Fire in a refugee camp in Kosovo leaves six injured
@@ -16,7 +16,7 @@ image:
 [Are You Syrious?](?source=post_page-----19f99ff03349--------------------------------) [Jan 29](ays-daily-digest-27-1-21-fire-in-a-refugee-camp-in-kosovo-leaves-six-injured-19f99ff03349?source=post_page-----19f99ff03349--------------------------------) · 11 min read
 
 
-![](assets/6ab09d69cf0e/0*r7MAoSKGp5ngY6Cd)
+![](../assets/6ab09d69cf0e/0*r7MAoSKGp5ngY6Cd)
 
 
 Kosovo camp \(Photo copyrights&source: [Top Channel Albania](https://www.youtube.com/watch?v=nGt0-7AtFxs) \)
@@ -82,12 +82,12 @@ It is estimated that by the coming summer the Greek police will have received �
 ### After the storm at Kara Tepe…
 
 
-![The troubles of Moria continue\. \. [Moria Corona Awareness Team](https://www.facebook.com/MoriaCoronaAwarenessTeam/?__cft__[0]=AZWWyh3u9n8ZneJtKg1H4Q7eGzI2W8YR0Us0XmLeKuECQBRVM25degcFsWHrSnzV13uHKqGeRwPvrKy_Pq5UV5IZ7VA3pnkTOPElTAZb2ApDycClKyaDghU8BVmIoWeA5-cDS7OlRuXbT3gchLVKOteg&__tn__=-UC%2CP-R) documenting a symbol of hope in the sky\.](assets/6ab09d69cf0e/0*__ZBz6J0jB4W1EnQ)
+![The troubles of Moria continue\. \. [Moria Corona Awareness Team](https://www.facebook.com/MoriaCoronaAwarenessTeam/?__cft__[0]=AZWWyh3u9n8ZneJtKg1H4Q7eGzI2W8YR0Us0XmLeKuECQBRVM25degcFsWHrSnzV13uHKqGeRwPvrKy_Pq5UV5IZ7VA3pnkTOPElTAZb2ApDycClKyaDghU8BVmIoWeA5-cDS7OlRuXbT3gchLVKOteg&__tn__=-UC%2CP-R) documenting a symbol of hope in the sky\.](../assets/6ab09d69cf0e/0*__ZBz6J0jB4W1EnQ)
 
 The troubles of Moria continue\. \. [Moria Corona Awareness Team](https://www.facebook.com/MoriaCoronaAwarenessTeam/?__cft__[0]=AZWWyh3u9n8ZneJtKg1H4Q7eGzI2W8YR0Us0XmLeKuECQBRVM25degcFsWHrSnzV13uHKqGeRwPvrKy_Pq5UV5IZ7VA3pnkTOPElTAZb2ApDycClKyaDghU8BVmIoWeA5-cDS7OlRuXbT3gchLVKOteg&__tn__=-UC%2CP-R) documenting a symbol of hope in the sky\.
 
 
-![](assets/6ab09d69cf0e/0*r2SK8ovI7fbLPTI8)
+![](../assets/6ab09d69cf0e/0*r2SK8ovI7fbLPTI8)
 
 
 As the difficulties people face are multiplying, they tend to fix things themselves, knowing not much help \(and certainly not a timely response\) is to be expected from the people running the situation\.
@@ -137,7 +137,7 @@ Speaking of border security, the Croatian Ministry of the Interior has just [spe
 Another colossal waste of money\.
 
 
-![](assets/6ab09d69cf0e/0*HBBsJy4-64nTseEs)
+![](../assets/6ab09d69cf0e/0*HBBsJy4-64nTseEs)
 
 
 Source: [bug\.hr](https://www.bug.hr/dronovi/predstavljen-hrvatski-bespilotni-zrakoplovni-sustav-velikog-dometa-10057)

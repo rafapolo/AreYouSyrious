@@ -1,5 +1,5 @@
 ---
-title: AYS Daily News Digest 13/06: Evacuations of makeshift camps around the area of Polykastro
+title: "AYS Daily News Digest 13/06: Evacuations of makeshift camps around the area of Polykastro"
 author: Are You Syrious?
 date: 2016-06-13T22:53:44.237+0100
 last_modified_at: 2016-06-14T04:30:34.459+0100
@@ -7,18 +7,18 @@ categories:
 tags: [refugees,europe,migration]
 description: Evictions of EKO, Hara and BP continue
 image:
-  path: assets/6d75a06ecd11/1*149h2sd-P7rQGBgU8vrSuQ.jpeg
+  path: ../assets/6d75a06ecd11/1*149h2sd-P7rQGBgU8vrSuQ.jpeg
 ---
 
 ### [AYS Daily News Digest 13/06:](ays-daily-news-digest-12-06-where-are-refugees-now-166860852dcd) Evacuations of makeshift camps around the area of Polykastro
 
 
-![Eviction of Eco camp: volunteers saying final goodbyes to little refugees](assets/6d75a06ecd11/1*149h2sd-P7rQGBgU8vrSuQ.jpeg)
+![Eviction of Eco camp: volunteers saying final goodbyes to little refugees](../assets/6d75a06ecd11/1*149h2sd-P7rQGBgU8vrSuQ.jpeg)
 
 Eviction of Eco camp: volunteers saying final goodbyes to little refugees
 
 
-![Eviction of Eco camp\. Photo Credit: Refugee Care\.](assets/6d75a06ecd11/1*JF0SHaDtE5zjdbBocg9lTw.jpeg)
+![Eviction of Eco camp\. Photo Credit: Refugee Care\.](../assets/6d75a06ecd11/1*JF0SHaDtE5zjdbBocg9lTw.jpeg)
 
 Eviction of Eco camp\. Photo Credit: Refugee Care\.
 ### Evictions of EKO, Hara and BP continue
@@ -26,21 +26,21 @@ Eviction of Eco camp\. Photo Credit: Refugee Care\.
 Following evictions of refugees from Hotel Hara and BP station, evacuation started this morning at ECO gas station without any warning from the police\. The volunteers said the police came around 4 am and told everyone to evacuate immediately\. Final count: 32 buses, around 1,132 refugees evacuated\. People on the ground reported that the Greek police arrested a number of volunteers\. Refugees are taken to Vasilika military camp where no media is allowed in\. [THIS](https://www.google.de/maps/place/40%C2%B030%2705.4%22N+23%C2%B005%2754.6%22E/@40.5002598,23.0921639,15z/data=!4m5!3m4!1s0x0:0x0!8m2!3d40.501503!4d23.098497) is the best known location of the camp\.
 
 
-![Refugees waiting in front of new camp facilities Photo Credit: Hassan Alhomse](assets/6d75a06ecd11/1*kCib-xqg2xocamPFk0Patg.jpeg)
+![Refugees waiting in front of new camp facilities Photo Credit: Hassan Alhomse](../assets/6d75a06ecd11/1*kCib-xqg2xocamPFk0Patg.jpeg)
 
 Refugees waiting in front of new camp facilities Photo Credit: Hassan Alhomse
 
 The new camp consists of tents inside an old abandoned facility\. According to first reports from site, it has running water and toilets, but it seems there will be not enough for all who come in during today and tomorrow\.
 
 
-![Inside the new camp\. Photo Credit: Hassan Alhomse](assets/6d75a06ecd11/1*VD3IOUaguVz4_Ezq5bF4NQ.jpeg)
+![Inside the new camp\. Photo Credit: Hassan Alhomse](../assets/6d75a06ecd11/1*VD3IOUaguVz4_Ezq5bF4NQ.jpeg)
 
 Inside the new camp\. Photo Credit: Hassan Alhomse
 
 This morning, AYS volunteers have visited at least 5 Syrian families and more than 20 very small kids still living under very bad conditions inside a gas station squat near Idomeni\. They would like to go to Athens but they will have to go to one of the camps around Thessaloniki\. Among children, we met a 5 days old baby Ahmed, who was born on site\. AYS will keep supporting refugees throughout the evictions of makeshift camps around Polykastro\.
 
 
-![Five days old Ahmed lives in a gas station squat with his family\. Photo Credit: Nidzara Ahmetasevic, AYS](assets/6d75a06ecd11/1*crSKgGg_vkOQ-rV5BfcJQQ.jpeg)
+![Five days old Ahmed lives in a gas station squat with his family\. Photo Credit: Nidzara Ahmetasevic, AYS](../assets/6d75a06ecd11/1*crSKgGg_vkOQ-rV5BfcJQQ.jpeg)
 
 Five days old Ahmed lives in a gas station squat with his family\. Photo Credit: Nidzara Ahmetasevic, AYS
 
@@ -59,7 +59,7 @@ According to the Government sources, at 8AM today there were 57,194 refugees str
 ### **So far 1,200 refugees pre\-registered in Thessaloniki and Athens areas**
 
 
-![Refugee family getting pre\-registered in a refugee camp\. Photo Credit: Ekathimerini](assets/6d75a06ecd11/1*iYZh5d_CmGacrbgROcvzIA.jpeg)
+![Refugee family getting pre\-registered in a refugee camp\. Photo Credit: Ekathimerini](../assets/6d75a06ecd11/1*iYZh5d_CmGacrbgROcvzIA.jpeg)
 
 Refugee family getting pre\-registered in a refugee camp\. Photo Credit: Ekathimerini
 
@@ -79,7 +79,7 @@ New Bulgarian University in Sofia offers major study programs in the English lan
 #### SERBIA
 
 
-![Humanitarian center Novi Sad \(Serbia\) creates with the help of Terre des homes a new space for moms and babies where they can rest and get assistance\. Photo credit: Novosadski humanitarni centar\.](assets/6d75a06ecd11/1*8WRKLD-j0B14mAzqP319ww.jpeg)
+![Humanitarian center Novi Sad \(Serbia\) creates with the help of Terre des homes a new space for moms and babies where they can rest and get assistance\. Photo credit: Novosadski humanitarni centar\.](../assets/6d75a06ecd11/1*8WRKLD-j0B14mAzqP319ww.jpeg)
 
 Humanitarian center Novi Sad \(Serbia\) creates with the help of Terre des homes a new space for moms and babies where they can rest and get assistance\. Photo credit: Novosadski humanitarni centar\.
 ### **IHO moving to the North of Serbia, support and volunteers welcome**
@@ -88,7 +88,7 @@ IHO volunteers are moving from South of Serbia to the North and looking for supp
 #### ITALY
 
 
-![Yesterday early in the morning MOAS assisted several vessels on the sea near Italy, one of them a wooden boat adrift for 3 days\. Photo credit: MOAS\.](assets/6d75a06ecd11/1*gH4wEvCl7v2ltknwG6mH4A.jpeg)
+![Yesterday early in the morning MOAS assisted several vessels on the sea near Italy, one of them a wooden boat adrift for 3 days\. Photo credit: MOAS\.](../assets/6d75a06ecd11/1*gH4wEvCl7v2ltknwG6mH4A.jpeg)
 
 Yesterday early in the morning MOAS assisted several vessels on the sea near Italy, one of them a wooden boat adrift for 3 days\. Photo credit: MOAS\.
 ### **More than 2,500 rescued off the coast of Sicily over the weekend, almost 50,000 have arrived in Italy since the start of the year**

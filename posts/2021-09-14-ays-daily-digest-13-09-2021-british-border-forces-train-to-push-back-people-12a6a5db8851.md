@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 13/09/2021: British Border Forces train to push back people
+title: "AYS Daily Digest 13/09/2021: British Border Forces train to push back people"
 author: Are You Syrious?
 date: 2021-09-14T15:34:48.513+0100
 last_modified_at: 2021-09-14T15:34:48.513+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [united-kingdom,refugees,europe,digest,poland]
 description: Amid criticism, the UK proceeds with its pushback plans // Amnesty urges UNHCR to halt plans to repatriate Syrians // school about to start…
 image:
-  path: assets/12a6a5db8851/1*QNJnIHpPAvLI3ixQAQMRrQ.jpeg
+  path: ../assets/12a6a5db8851/1*QNJnIHpPAvLI3ixQAQMRrQ.jpeg
 ---
 
 ### AYS Daily Digest 13/09/2021: British Border Forces train to push back people
@@ -15,7 +15,7 @@ image:
 Amid criticism, the UK proceeds with its pushback plans // Amnesty urges UNHCR to halt plans to repatriate Syrians // school about to start in Greece — also for children living in camps? // Rescues and landings // Updates on the situation in Poland, Lithuania and Latvia
 
 
-![Copyright: Channel Rescue](assets/12a6a5db8851/1*QNJnIHpPAvLI3ixQAQMRrQ.jpeg)
+![Copyright: Channel Rescue](../assets/12a6a5db8851/1*QNJnIHpPAvLI3ixQAQMRrQ.jpeg)
 
 Copyright: Channel Rescue
 ### FEATURE: British Border Forces practice Pushbacks

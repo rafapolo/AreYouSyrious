@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,greece,coronavirus]
 description: Coronavirus Spreads in Greece///Sea-Eye Restarts Rescue Operations///EU Court Rules Against Poland, Czech Republic, and Hungary///And More
 image:
-  path: assets/774c42f072f0/0*SL1d_yZOZaXExQ0w
+  path: ../assets/774c42f072f0/0*SL1d_yZOZaXExQ0w
 ---
 
 ### AYS Daily Digest 02/04/2020 — Greek Ban on Asylum Applications Overturned
 #### Coronavirus Spreads in Greece///Sea\-Eye Restarts Rescue Operations///EU Court Rules Against Poland, Czech Republic, and Hungary///And More
 
 
-![Night falls in Moria\. Photographer: [Mortaza Behboudi](https://twitter.com/MortazaBehboudi/status/1245759336435142659?fbclid=IwAR03bLapm8_m2NgcQ1F3YCTfhPOwwwNsaapMWEmDNdL6qblIvIVzthdW-dc)](assets/774c42f072f0/0*SL1d_yZOZaXExQ0w)
+![Night falls in Moria\. Photographer: [Mortaza Behboudi](https://twitter.com/MortazaBehboudi/status/1245759336435142659?fbclid=IwAR03bLapm8_m2NgcQ1F3YCTfhPOwwwNsaapMWEmDNdL6qblIvIVzthdW-dc)](../assets/774c42f072f0/0*SL1d_yZOZaXExQ0w)
 
 Night falls in Moria\. Photographer: [Mortaza Behboudi](https://twitter.com/MortazaBehboudi/status/1245759336435142659?fbclid=IwAR03bLapm8_m2NgcQ1F3YCTfhPOwwwNsaapMWEmDNdL6qblIvIVzthdW-dc)
 ### FEATURE — People Who Arrived in Greece in March Will Be Able to Apply for Asylum, EU Commissioner Says
@@ -120,7 +120,7 @@ FRANCE
 ### Inhumane Conditions in Grand\-Synthe Camp
 
 
-![Source: [Patrick Van de Wouwer](https://www.facebook.com/photo.php?fbid=2367583793533639&set=a.1505249269767100&type=3&theater)](assets/774c42f072f0/0*rYKwVLWGSshfQLDh)
+![Source: [Patrick Van de Wouwer](https://www.facebook.com/photo.php?fbid=2367583793533639&set=a.1505249269767100&type=3&theater)](../assets/774c42f072f0/0*rYKwVLWGSshfQLDh)
 
 Source: [Patrick Van de Wouwer](https://www.facebook.com/photo.php?fbid=2367583793533639&set=a.1505249269767100&type=3&theater)
 

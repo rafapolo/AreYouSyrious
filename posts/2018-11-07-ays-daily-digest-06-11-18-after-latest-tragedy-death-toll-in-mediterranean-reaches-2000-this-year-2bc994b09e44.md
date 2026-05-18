@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 06/11/18: After latest tragedy, death toll in Mediterranean reaches 2000 this year
+title: "AYS DAILY DIGEST 06/11/18: After latest tragedy, death toll in Mediterranean reaches 2000 this year"
 author: Are You Syrious?
 date: 2018-11-07T05:57:02.362+0000
 last_modified_at: 2018-11-07T07:38:23.303+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,borders,mediterranean,greece]
 description: Deplorable hotspot conditions denounced // Artists in Moria // San Ferdinando Camp completely flooded // 24 tons of aid to Bosnia //…
 image:
-  path: assets/2bc994b09e44/1*OEa_R2rYjlSjPRb04sLk-g.jpeg
+  path: ../assets/2bc994b09e44/1*OEa_R2rYjlSjPRb04sLk-g.jpeg
 ---
 
 ### AYS DAILY DIGEST 06/11/18: After latest tragedy, death toll in Mediterranean reaches 2000 this year
@@ -15,7 +15,7 @@ image:
 _Deplorable hotspot conditions denounced // Artists in Moria // San Ferdinando Camp completely flooded // 24 tons of aid to Bosnia // Deportations continue in Austria // Donauwörth trials beginning soon // In Iceland, winter is here // Refugee Info Bus looking for new team members //_
 
 
-![Looking out to sea\. Source: [Watch the Med](https://www.facebook.com/watchthemed.alarmphone/photos/a.1526182797655958/2249199658687598/?type=3&theater)](assets/2bc994b09e44/1*OEa_R2rYjlSjPRb04sLk-g.jpeg)
+![Looking out to sea\. Source: [Watch the Med](https://www.facebook.com/watchthemed.alarmphone/photos/a.1526182797655958/2249199658687598/?type=3&theater)](../assets/2bc994b09e44/1*OEa_R2rYjlSjPRb04sLk-g.jpeg)
 
 Looking out to sea\. Source: [Watch the Med](https://www.facebook.com/watchthemed.alarmphone/photos/a.1526182797655958/2249199658687598/?type=3&theater)
 ### Feature —
@@ -29,7 +29,7 @@ This fresh tragedy makes over 2000 people who have died attempting to cross the 
 Please sign this [petition](https://www.change.org/p/dejad-zarpar-nuestro-barco-de-rescate-ni-una-muerte-m%C3%A1s-en-el-mediterr%C3%A1neo?fbclid=IwAR0dOBAA8yK_npjs1Wi3N2cctJZiQx5WkPdHQ25DzS_uEQGPzlM_KXkQsG8&recruiter=906030780&utm_campaign=psf_combo_share_initial.pacific_abi_select_all_contacts.select_all.pacific_email_copy_en_us_3.control.pacific_email_copy_en_gb_4.v1.pacific_post_sap_share_gmail_abi.gmail_abi.pacific_email_copy_en_us_5.v1.lightning_share_by_medium_message.control.lightning_2primary_share_options_more.fake_control&utm_content=okt_psf_wa_shlinks%3Areal_control&utm_medium=whatsapp&utm_source=share_petition) urging the Spanish ministry of development to allow rescue boat Aita Mari into the Central Mediterranean, and continue to advocate for the [Aquarius](https://twitter.com/SOSMedIntl/status/1058397127347462146) and other vital rescue operations\. And please — continue to hold the E\.U\. responsible for its complicity in these deaths\.
 
 
-![Heading toward Chios port\. Source: Mare Liberum Facebook](assets/2bc994b09e44/1*6_K-os4WtscNwgnWtmmvmw.jpeg)
+![Heading toward Chios port\. Source: Mare Liberum Facebook](../assets/2bc994b09e44/1*6_K-os4WtscNwgnWtmmvmw.jpeg)
 
 Heading toward Chios port\. Source: Mare Liberum Facebook
 
@@ -38,7 +38,7 @@ The Mare Liberum, a rescue boat in the Mediterranean, has docked in Chios\. It w
 The organization posted on Facebook: “So far in 2018, 3,290 people have made it across the Aegean to Chios \(UNHCR as of 28 October\) \. This is just over half the number of arrivals in 2017, which stood at 6,294 \(23% of all Aegean arrivals\) \. Despite this drop, conditions in Vial, the only camp left on the island, remain dire, due to chronic overcrowding and lack of adequate shelter\. NGOs and civil society organisations work hard to fill gaps in official service provision for the refugee population, which is currently at double the island’s capacity\.”
 
 
-[![Commissioner's report on Greece - November 2018](assets/2bc994b09e44/0ea6_hqdefault.jpg "Commissioner's report on Greece - November 2018")](http://www.youtube.com/watch?v=hPnFkWdvCpI)
+[![Commissioner's report on Greece - November 2018](../assets/2bc994b09e44/0ea6_hqdefault.jpg "Commissioner's report on Greece - November 2018")](http://www.youtube.com/watch?v=hPnFkWdvCpI)
 
 
 Meanwhile, the Council of Europe has released a new report denouncing the poor conditions in Moria, according to the [Greek Reporter\.](https://greece.greekreporter.com/2018/11/06/council-of-europe-blasts-greece-on-lesvos-migrants-camp/?fbclid=IwAR06yFd5rZITX_1b_iCeR9EOSRqG4fRXD2ZDxNWE-8u_y611g8Fs_4P5WDg) Human Rights Commissioner Dunja Mijatović focused particularly on the long wait times for residents to access drinking water, as well as the shocking rates of sexual violence in the camp\.
@@ -107,17 +107,17 @@ This Saturday, November 10, the Regional Asylum office of Attica \(Katechaki\) w
 The [Greek Forum for Refugees](https://www.facebook.com/Greekforumofrefugees/posts/2175142195853908?hc_location=ufi) is looking for Volunteer Language Editors to teach refugees and help promote integration in Athens\. You can send them your CV at humanresources@refugees\.gr if you’re interested \(subject: “Volunteer Language Educators”\) \.
 
 
-![Asylum applications to Greece have increased 200% in the past decade\. \(the Greek Asylum Service didn’t even exist until 2011…\) Source: [Open Cultural Center](https://www.facebook.com/OpenCulturalCenter/photos/a.1304076196287462/2402120543149683/?type=3&theater&hc_location=ufi)](assets/2bc994b09e44/1*IzSF_v7biXAsniwm7lPALg.jpeg)
+![Asylum applications to Greece have increased 200% in the past decade\. \(the Greek Asylum Service didn’t even exist until 2011…\) Source: [Open Cultural Center](https://www.facebook.com/OpenCulturalCenter/photos/a.1304076196287462/2402120543149683/?type=3&theater&hc_location=ufi)](../assets/2bc994b09e44/1*IzSF_v7biXAsniwm7lPALg.jpeg)
 
 Asylum applications to Greece have increased 200% in the past decade\. \(the Greek Asylum Service didn’t even exist until 2011…\) Source: [Open Cultural Center](https://www.facebook.com/OpenCulturalCenter/photos/a.1304076196287462/2402120543149683/?type=3&theater&hc_location=ufi)
 ### Italy
 
 
-![](assets/2bc994b09e44/1*UxZfH_QLXOgxhoVNaUbYyw.jpeg)
+![](../assets/2bc994b09e44/1*UxZfH_QLXOgxhoVNaUbYyw.jpeg)
 
 
 
-![Flooding at San Ferdinando Camp\. Source: [Comitato Lavatori della Campagne](https://www.facebook.com/comitatolavoratoridellecampagne/posts/2184624771603636)](assets/2bc994b09e44/1*BvmTbn-WjXTOHzhQhlC2Kw.jpeg)
+![Flooding at San Ferdinando Camp\. Source: [Comitato Lavatori della Campagne](https://www.facebook.com/comitatolavoratoridellecampagne/posts/2184624771603636)](../assets/2bc994b09e44/1*BvmTbn-WjXTOHzhQhlC2Kw.jpeg)
 
 Flooding at San Ferdinando Camp\. Source: [Comitato Lavatori della Campagne](https://www.facebook.com/comitatolavoratoridellecampagne/posts/2184624771603636)
 
@@ -127,15 +127,15 @@ The makeshift camp of San Ferdinando, in Calabria, has been completely flooded, 
 ### Bosnia
 
 
-![](assets/2bc994b09e44/1*Xtg7Njt4aJ4bG3x673Ca_w.jpeg)
+![](../assets/2bc994b09e44/1*Xtg7Njt4aJ4bG3x673Ca_w.jpeg)
 
 
 
-![](assets/2bc994b09e44/1*N0lh0ZvnTa4AzQOtCJY4fQ.jpeg)
+![](../assets/2bc994b09e44/1*N0lh0ZvnTa4AzQOtCJY4fQ.jpeg)
 
 
 
-![Aiming to fill this truck with supplies for refugees in Bosnia\. Source: [Fabienne Dimmer](https://www.facebook.com/groups/catchasmile/)](assets/2bc994b09e44/1*X74tTdW0ETg3_wo7Hs_Jvg.jpeg)
+![Aiming to fill this truck with supplies for refugees in Bosnia\. Source: [Fabienne Dimmer](https://www.facebook.com/groups/catchasmile/)](../assets/2bc994b09e44/1*X74tTdW0ETg3_wo7Hs_Jvg.jpeg)
 
 Aiming to fill this truck with supplies for refugees in Bosnia\. Source: [Fabienne Dimmer](https://www.facebook.com/groups/catchasmile/)
 
@@ -155,7 +155,7 @@ Additonally, an independent volunteer in Bihac informed us that makeshift camp i
 Phillipe Caro has published a video [report](https://www.facebook.com/philippe.caro.7/videos/vb.100002023895875/1870272086383570/?type=2&theater) \(in French\) on the situation for refugees in Saint Denis\. There are at least 300 people sleeping rough on the Avenue Président\-Wilson currently\.
 
 
-![Source: [F\.A\.S\.T\.](https://www.facebook.com/groups/FASTCalais/permalink/2229193584027146/)](assets/2bc994b09e44/1*6_bVCivDh6uJq5od1AQBFw.jpeg)
+![Source: [F\.A\.S\.T\.](https://www.facebook.com/groups/FASTCalais/permalink/2229193584027146/)](../assets/2bc994b09e44/1*6_bVCivDh6uJq5od1AQBFw.jpeg)
 
 Source: [F\.A\.S\.T\.](https://www.facebook.com/groups/FASTCalais/permalink/2229193584027146/)
 
@@ -287,7 +287,7 @@ In Iceland, winter is…here\. If you are a refugee or asylum seeker in need of 
 ### General
 
 
-![Brochures in a number of languages\. Source: Refugee Info Bus](assets/2bc994b09e44/1*KrLQ8kxzTiPHMLzNcZYIew.jpeg)
+![Brochures in a number of languages\. Source: Refugee Info Bus](../assets/2bc994b09e44/1*KrLQ8kxzTiPHMLzNcZYIew.jpeg)
 
 Brochures in a number of languages\. Source: Refugee Info Bus
 

@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [bosnia,no-name-kitchen,border-violence,eu,velika-kladusa]
 description: Report from the border between Bosnia and Herzegovina and Croatia by the No Name Kitchen
 image:
-  path: assets/5f2ef2b941f/1*M2VcVd97eJ-0E9WYi360UA.jpeg
+  path: ../assets/5f2ef2b941f/1*M2VcVd97eJ-0E9WYi360UA.jpeg
 ---
 
 
@@ -16,7 +16,7 @@ image:
 _Report from the border between Bosnia and Herzegovina and Croatia by the No Name Kitchen_
 
 
-![Make\-shift camp in Velika Kladuša\. By NNK\.](assets/5f2ef2b941f/1*M2VcVd97eJ-0E9WYi360UA.jpeg)
+![Make\-shift camp in Velika Kladuša\. By NNK\.](../assets/5f2ef2b941f/1*M2VcVd97eJ-0E9WYi360UA.jpeg)
 
 Make\-shift camp in Velika Kladuša\. By NNK\.
 
@@ -37,7 +37,7 @@ Those facing illegal push\-backs share that they have been subjected to violence
 We have observed several patterns of the structural violence and oppression against the people who have attempted to cross the EU borderlands\.
 
 
-![](assets/5f2ef2b941f/1*HVGy-jmCdeuXHVWdF-f8AA.jpeg)
+![](../assets/5f2ef2b941f/1*HVGy-jmCdeuXHVWdF-f8AA.jpeg)
 
 
 Firstly, the victims of the physical attacks by the border authorities have been mainly people who have clearly expressed their wish to claim asylum in Croatia or Slovenia\. Simply by asking, people are deemed to be provoking or somehow aggravating the police officers\. Groups described how they were told to “shut up”, and where individuals have tried to articulate their asylum requests verbally, they have been targeted disproportionately\. Simply by speaking up, asylum seekers can now be put at further risk of extrajudicial violence\. It seems now that groups are forced to comply by remaining silent, meanwhile the relevant authorities refuse to comply with international law on asylum\.
@@ -45,7 +45,7 @@ Firstly, the victims of the physical attacks by the border authorities have been
 Further, we have noticed a close cooperation between the Slovenian and Croatian police forces\. The Slovenian police often hand the people over to the Croatian border forces dressed in black, whom people called “commando”; a unit in charge of the violent push\-backs to Bosnia\. These violent deportations take place mainly in unmarked locations, particularly forests and mountain areas, close to Velika Kladuša, Šturlić, and Bihać \(BiH\) \(viz\. map below\) \.
 
 
-![](assets/5f2ef2b941f/1*Pj-sTPVLXSyj1NQxssVaQg.jpeg)
+![](../assets/5f2ef2b941f/1*Pj-sTPVLXSyj1NQxssVaQg.jpeg)
 
 
 Several victims also reported to us that they have seen Croatian and Slovenian officers paying the local population bribes in exchange for acting informants in order to relay the initial detection of people passing through the interior and border areas\.
@@ -53,7 +53,7 @@ Several victims also reported to us that they have seen Croatian and Slovenian o
 Within the detected and reported cases by our organisations, we have identified 43 children and minors, and 13 women\. Women and children have been either directly physically attacked by the border authorities or suffered injuries during the violent deportations\.
 
 
-![](assets/5f2ef2b941f/1*8U8oDYauIFQ937UmCxYVoQ.jpeg)
+![](../assets/5f2ef2b941f/1*8U8oDYauIFQ937UmCxYVoQ.jpeg)
 
 
 For example, a 3\-years\-old girl from Iran received an injury to her back\. As the police assaulted her father who was holding her in his arms, he felt down heavily, resulting in severe trauma to the child’s torso \(viz\. photo below\) \. Other children who have escaped from the deportations without injures were made to observe their family members and friends being humiliated and attacked in front of their eyes\.
@@ -69,7 +69,7 @@ With the increasing border violence, we have also observed a higher reliance of 
 While we have witnessed the large number of testimonies that significantly prove the continued existence of \(and marked rise in\) border violence, the Croatian ministry denies allegations of police brutality\. The ministry has [stated to media](http://ba.n1info.com/a280377/English/NEWS/Croatian-ministry-denies-allegations-of-police-brutality.html) that the Croatian police is acting in accordance with national laws, as well as [international standards](http://www.unhcr.org/protect/PROTECTION/3b66c2aa10.pdf) \.
 
 
-![**_Red marks signifying the places where majority of the violent push\-backs took place\._**](assets/5f2ef2b941f/1*bqitbhvBQ1p6PnhSosOh6A.png)
+![**_Red marks signifying the places where majority of the violent push\-backs took place\._**](../assets/5f2ef2b941f/1*bqitbhvBQ1p6PnhSosOh6A.png)
 
 **_Red marks signifying the places where majority of the violent push\-backs took place\._**
 

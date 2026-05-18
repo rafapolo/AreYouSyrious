@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,lampedusa,italy]
 description: Three People Dead in Syria IDP Camp Fire// Greece Proposes Expansion of Frontex Beyond European Territorial Waters// Croatian Police Expel…
 image:
-  path: assets/2cf3abff0c07/0*dfT0xI_MghXi_Q2A
+  path: ../assets/2cf3abff0c07/0*dfT0xI_MghXi_Q2A
 ---
 
 ### AYS Daily Digest 11/05/2021 — Italy, EU Scramble to Make Deals on Migration as New Arrivals Reach Lampedusa
 #### Three People Dead in Syria IDP Camp Fire// Greece Proposes Expansion of Frontex Beyond European Territorial Waters// Croatian Police Expel LGBT Asylum Seekers
 
 
-![People on the streets of Lampedusa because the hotspot is full\. Photo credit: AP/picture alliance, via [InfoMigrants](https://twitter.com/InfoMigrants/status/1392110744368336898/photo/1)](assets/2cf3abff0c07/0*dfT0xI_MghXi_Q2A)
+![People on the streets of Lampedusa because the hotspot is full\. Photo credit: AP/picture alliance, via [InfoMigrants](https://twitter.com/InfoMigrants/status/1392110744368336898/photo/1)](../assets/2cf3abff0c07/0*dfT0xI_MghXi_Q2A)
 
 People on the streets of Lampedusa because the hotspot is full\. Photo credit: AP/picture alliance, via [InfoMigrants](https://twitter.com/InfoMigrants/status/1392110744368336898/photo/1)
 #### FEATURE

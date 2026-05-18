@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 23/2/22: After the Taliban-takover more Afghans arrive in Europe
+title: "AYS News Digest 23/2/22: After the Taliban-takover more Afghans arrive in Europe"
 author: Are You Syrious?
 date: 2022-02-26T18:22:03.668+0000
 last_modified_at: 2022-02-26T18:22:03.668+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: []
 description: Number of doubled since 2020 // EU says it’s prepared to host Ukrainian refugees // Volunteers in Serbia denied access to camp, Thousands…
 image:
-  path: assets/8e7222c1ab1d/0*FceKLu27YDS0kcek.jpeg
+  path: ../assets/8e7222c1ab1d/0*FceKLu27YDS0kcek.jpeg
 ---
 
 ### AYS News Digest 23/2/22: After the Taliban\-takover more Afghans arrive in Europe
 ### Number of doubled since 2020 // EU says it’s prepared to host Ukrainian refugees // Volunteers in Serbia denied access to camp, Thousands sleep in the open // One more dead at Belarus’ border // UK Home Office taken to court
 
 
-![](assets/8e7222c1ab1d/0*FceKLu27YDS0kcek.jpeg)
+![](../assets/8e7222c1ab1d/0*FceKLu27YDS0kcek.jpeg)
 
 
 Credits: [Twitter/@APC\_CZA](https://twitter.com/APC_CZA)

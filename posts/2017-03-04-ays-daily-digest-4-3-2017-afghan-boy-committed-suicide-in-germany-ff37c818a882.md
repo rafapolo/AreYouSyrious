@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 4/3/2017: Afghan boy committed suicide in Germany
+title: "AYS DAILY DIGEST 4/3/2017: Afghan boy committed suicide in Germany"
 author: Are You Syrious?
 date: 2017-03-04T22:37:01.564+0000
 last_modified_at: 2017-03-04T22:37:01.564+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,serbia,suicide-among-regugees,deportation-of-afghans]
 description: The desperate situation refugees are pushed into is forcing them into addiction, self harm while number of suicides among them is…
 image:
-  path: assets/ff37c818a882/1*hdoO2dJlSNlA5bywCPjMzg.jpeg
+  path: ../assets/ff37c818a882/1*hdoO2dJlSNlA5bywCPjMzg.jpeg
 ---
 
 ### AYS DAILY DIGEST 4/3/2017: Afghan boy committed suicide in Germany
@@ -15,7 +15,7 @@ image:
 _The desperate situation refugees are pushed into is forcing them into addiction, self harm while number of suicides among them is increasing // The situation in Iraq is getting worse and more and more people are forced to leave their homes // Walls of Europe are becoming higher and more dangerous // Deportation of Afghan people from Belgium and Denmark //_
 
 
-![Refugees have dinner in a bedroom offered by a volunteer for them to sleep for one night and take a break from the inhuman conditions they have in the abandoned wharehouses\. One of them has one feet broken in several places by Hungarian Border police\. Photo by NuuNoo Felicio\.](assets/ff37c818a882/1*hdoO2dJlSNlA5bywCPjMzg.jpeg)
+![Refugees have dinner in a bedroom offered by a volunteer for them to sleep for one night and take a break from the inhuman conditions they have in the abandoned wharehouses\. One of them has one feet broken in several places by Hungarian Border police\. Photo by NuuNoo Felicio\.](../assets/ff37c818a882/1*hdoO2dJlSNlA5bywCPjMzg.jpeg)
 
 Refugees have dinner in a bedroom offered by a volunteer for them to sleep for one night and take a break from the inhuman conditions they have in the abandoned wharehouses\. One of them has one feet broken in several places by Hungarian Border police\. Photo by NuuNoo Felicio\.
 ### FEATURE
@@ -92,7 +92,7 @@ They also announced to restore immigration detention as well as strengthening th
 France does not have fences, but the treatment of people who need help is brutal\. Like in the case of Hungary, no measures are proposed from any EU body to stop this, while media hardly report about it\.
 
 
-![Photo by L’Auberge des migrants](assets/ff37c818a882/1*JfTQaOl7dLmEi224Aw3x8A.jpeg)
+![Photo by L’Auberge des migrants](../assets/ff37c818a882/1*JfTQaOl7dLmEi224Aw3x8A.jpeg)
 
 Photo by L’Auberge des migrants
 
@@ -121,7 +121,7 @@ In Calais, the mayor tried to prevent refugees from washing, and volunteers are 
 
 
 
-![At home, unpacking all my luggage\. I want everyone to see this\. When I used to talk and post about the rubber bullets they shot people within Calais, I think many people visualized something small and harmless\. These are the bullets\. Not small, not harmless\. Big, heavy, hard and brutal and shot at men, women, and children\. Just think on that for a bit\. I’ve seen the bruises\. They still use these all over Europe\. Photo by Ali Reid\.](assets/ff37c818a882/1*gKBqiodTYjZPoEOcAYXpuw.jpeg)
+![At home, unpacking all my luggage\. I want everyone to see this\. When I used to talk and post about the rubber bullets they shot people within Calais, I think many people visualized something small and harmless\. These are the bullets\. Not small, not harmless\. Big, heavy, hard and brutal and shot at men, women, and children\. Just think on that for a bit\. I’ve seen the bruises\. They still use these all over Europe\. Photo by Ali Reid\.](../assets/ff37c818a882/1*gKBqiodTYjZPoEOcAYXpuw.jpeg)
 
 At home, unpacking all my luggage\. I want everyone to see this\. When I used to talk and post about the rubber bullets they shot people within Calais, I think many people visualized something small and harmless\. These are the bullets\. Not small, not harmless\. Big, heavy, hard and brutal and shot at men, women, and children\. Just think on that for a bit\. I’ve seen the bruises\. They still use these all over Europe\. Photo by Ali Reid\.
 ### BELGIUM

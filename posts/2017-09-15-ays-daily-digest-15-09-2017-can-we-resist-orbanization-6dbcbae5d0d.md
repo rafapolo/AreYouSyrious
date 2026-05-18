@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 15/09/2017: Can we resist Orbanization?
+title: "AYS DAILY DIGEST 15/09/2017: Can we resist Orbanization?"
 author: Are You Syrious?
 date: 2017-09-15T23:15:13.630+0100
 last_modified_at: 2017-09-16T10:17:33.917+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,orban,hungary,antifa,greece]
 description: Orban ideas prevails in Europe // Among about 18.000 arrivals this year in Greece, there were 34 percent children // Democracy in danger in…
 image:
-  path: assets/6dbcbae5d0d/1*2YFNn8pKHVrC0HZnf0hWlw.jpeg
+  path: ../assets/6dbcbae5d0d/1*2YFNn8pKHVrC0HZnf0hWlw.jpeg
 ---
 
 ### AYS DAILY DIGEST 15/09/2017: Can we resist Orbanization?
@@ -15,7 +15,7 @@ image:
 Orban ideas prevails in Europe // Among about 18\.000 arrivals this year in Greece, there were 34 percent children // Democracy in danger in Europe // Life on overcrowded islands affects people’s mental health // Arrest and harassment in Belgium //
 
 
-![“In one landing, an average of 30 life jackets, clothes, shoes, a motor and a rubber dingy is left on the shore\. Which is almost 200 kilos of waste\. [Lighthouse Relife](https://web.facebook.com/lighthouserelief/) volunteers cleared some of the waste, with the help from many friends\.”](assets/6dbcbae5d0d/1*2YFNn8pKHVrC0HZnf0hWlw.jpeg)
+![“In one landing, an average of 30 life jackets, clothes, shoes, a motor and a rubber dingy is left on the shore\. Which is almost 200 kilos of waste\. [Lighthouse Relife](https://web.facebook.com/lighthouserelief/) volunteers cleared some of the waste, with the help from many friends\.”](../assets/6dbcbae5d0d/1*2YFNn8pKHVrC0HZnf0hWlw.jpeg)
 
 “In one landing, an average of 30 life jackets, clothes, shoes, a motor and a rubber dingy is left on the shore\. Which is almost 200 kilos of waste\. [Lighthouse Relife](https://web.facebook.com/lighthouserelief/) volunteers cleared some of the waste, with the help from many friends\.”
 ### Feature
@@ -40,7 +40,7 @@ While the polls are showing that Europeans do not support their elected leaders 
 Today, 262 people were rescued from the in international waters off the Libyan coast to the west of Tripoli\. Among those rescued were 56 women, 7 children under 5 years and 48 unaccompanied minors\. In the evening, another 109 people were saved by humanitarian boats\.
 
 
-![Photo by SOS MEDITERRANEAN\.](assets/6dbcbae5d0d/1*QFVT1fRVVrFcQHau8euf5A.jpeg)
+![Photo by SOS MEDITERRANEAN\.](../assets/6dbcbae5d0d/1*QFVT1fRVVrFcQHau8euf5A.jpeg)
 
 Photo by SOS MEDITERRANEAN\.
 
@@ -110,15 +110,15 @@ And more people arrived today\.
 This morning, on Lesvos, 72 people arrived — 34 children, 18 women, and 20 men\.
 
 
-![](assets/6dbcbae5d0d/1*raOUjyF0bnVZW9kdVXSBVg.jpeg)
+![](../assets/6dbcbae5d0d/1*raOUjyF0bnVZW9kdVXSBVg.jpeg)
 
 
 
-![](assets/6dbcbae5d0d/1*WPizXVVRHlpK7UHn_6JXXA.jpeg)
+![](../assets/6dbcbae5d0d/1*WPizXVVRHlpK7UHn_6JXXA.jpeg)
 
 
 
-![Starfish Fondation Lesvos\.](assets/6dbcbae5d0d/1*mpbsFvhVq92l8feyl0gPTQ.jpeg)
+![Starfish Fondation Lesvos\.](../assets/6dbcbae5d0d/1*mpbsFvhVq92l8feyl0gPTQ.jpeg)
 
 Starfish Fondation Lesvos\.
 
@@ -127,15 +127,15 @@ Additionally, official registration shows that yesterday 33 people arrived on Le
 Overcrowding is creating a very tense and dangerous situation in the centres\. Last night we reported about clashes in Samos Whaty centre\. These are the pictures from the day after\.
 
 
-![](assets/6dbcbae5d0d/1*bjM0JnRw_F3TRGXikUekZw.jpeg)
+![](../assets/6dbcbae5d0d/1*bjM0JnRw_F3TRGXikUekZw.jpeg)
 
 
 
-![](assets/6dbcbae5d0d/1*WOMaKkudsozi4jIdtTrZpA.jpeg)
+![](../assets/6dbcbae5d0d/1*WOMaKkudsozi4jIdtTrZpA.jpeg)
 
 
 
-![](assets/6dbcbae5d0d/1*iA60iZM2YFSB5ob8uK4jvQ.jpeg)
+![](../assets/6dbcbae5d0d/1*iA60iZM2YFSB5ob8uK4jvQ.jpeg)
 
 
 Rocks, stones, and knives were used, and police reacted using violence, rubber bullets, and tear gas\. There are over 600 children in this centre\.
@@ -149,7 +149,7 @@ Watch the video from the last night again\.
 The situation on the islands is leaving a deep mark on the mental health of people who are kept there against their will\. This is a story from Lesvos:
 
 
-[![Refugees urgently in need of mental health help flounder on Lesbos](assets/6dbcbae5d0d/3e1d_hqdefault.jpg "Refugees urgently in need of mental health help flounder on Lesbos")](http://www.youtube.com/watch?v=kAWIdvTxN-o)
+[![Refugees urgently in need of mental health help flounder on Lesbos](../assets/6dbcbae5d0d/3e1d_hqdefault.jpg "Refugees urgently in need of mental health help flounder on Lesbos")](http://www.youtube.com/watch?v=kAWIdvTxN-o)
 
 
 
@@ -237,7 +237,7 @@ COME TOGETHER FOR REFUGEES
 An event to raise money for great groups helping refugees is organized in the Yorkshire area\. Join if you can\.
 
 
-![](assets/6dbcbae5d0d/1*7aoqDABgz2ddnASuYzyalA.jpeg)
+![](../assets/6dbcbae5d0d/1*7aoqDABgz2ddnASuYzyalA.jpeg)
 
 
 [Tickets are on sale now and the link](http://www.yorkshireticketshop.co/m.index.html) \.
@@ -251,7 +251,7 @@ ENGLISH: [http://urlz\.fr/5N8W](http://urlz.fr/5N8W)
 SPANISH: [http://urlz\.fr/5N8Q](http://urlz.fr/5N8Q)
 
 
-![](assets/6dbcbae5d0d/1*q5_c5WzU1rU1GVhGddduKA.jpeg)
+![](../assets/6dbcbae5d0d/1*q5_c5WzU1rU1GVhGddduKA.jpeg)
 
 
 

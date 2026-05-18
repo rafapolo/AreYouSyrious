@@ -1,5 +1,5 @@
 ---
-title: AYS Special 2019/2020: Activists’ voices from across Europe
+title: "AYS Special 2019/2020: Activists’ voices from across Europe"
 author: Are You Syrious?
 date: 2020-01-16T14:23:47.488+0000
 last_modified_at: 2020-11-09T13:27:57.981+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,special,europe,migration,borders]
 description: At the start of 2020, some reminders, thoughts, and recapitulation of last year’s experiences by individuals, groups and organisations…
 image:
-  path: assets/a642e29c45/1*zRVFbcfzXNzO3K6p6PQskA.jpeg
+  path: ../assets/a642e29c45/1*zRVFbcfzXNzO3K6p6PQskA.jpeg
 ---
 
 ### AYS Special 2019/2020: Activists’ voices from across Europe
 #### At the start of 2020, some reminders, thoughts, and recapitulation of last year’s experiences by individuals, groups and organisations that have decided to share their perspective to, hopefully, pave a better way for the future ahead\.
 
 
-![Repost from [Caritas Ambrosiana](https://twitter.com/caritas_milano/status/1217514374904066049?s=20) \.](assets/a642e29c45/1*zRVFbcfzXNzO3K6p6PQskA.jpeg)
+![Repost from [Caritas Ambrosiana](https://twitter.com/caritas_milano/status/1217514374904066049?s=20) \.](../assets/a642e29c45/1*zRVFbcfzXNzO3K6p6PQskA.jpeg)
 
 Repost from [Caritas Ambrosiana](https://twitter.com/caritas_milano/status/1217514374904066049?s=20) \.
 ### United system of making the people passive bystanders in their own lives
@@ -42,7 +42,7 @@ In that way, they do a disservice to the communities they intend to represent\. 
 
 
 
-![[Watch The Med — Alarmphone](https://www.facebook.com/watchthemed.alarmphone/?__xts__%5B0%5D=68.ARC1p9Qcoqz00_72A5fSsxLxAx9NkBCDEtI2rbYjWpw4rpWHmyh6jt4jPuxpG59QPNJU9iAmSRhAN6Rj4NA2Hyu1eBBQzXkL1K9N3DKoPOBPxtHPQmS-1J2AOaTh7p28mvZn4hrkhzpydDngI_QEMfWVMmkPi-E7VSyKapttI3aFr2mDxX5_SinXldvSX03zx6DDWqmIUh1LcudTFsaI11ekJwNttQRS4ZtSoA8plXvrYSNv17CnAiHvxzu4Zhbq7jOUs_R7yKl78Pmeg7eJuO6ggG_wtvlgwySA2bmdU_XK1p5ow3WRNhCD8l3Cw2JidWN_1ZSCnibqqNGnXORXYB1H21L8&__tn__=k%2AF&tn-str=k%2AF)](assets/a642e29c45/1*IfcQ-1k_pb633IKY756azw.jpeg)
+![[Watch The Med — Alarmphone](https://www.facebook.com/watchthemed.alarmphone/?__xts__%5B0%5D=68.ARC1p9Qcoqz00_72A5fSsxLxAx9NkBCDEtI2rbYjWpw4rpWHmyh6jt4jPuxpG59QPNJU9iAmSRhAN6Rj4NA2Hyu1eBBQzXkL1K9N3DKoPOBPxtHPQmS-1J2AOaTh7p28mvZn4hrkhzpydDngI_QEMfWVMmkPi-E7VSyKapttI3aFr2mDxX5_SinXldvSX03zx6DDWqmIUh1LcudTFsaI11ekJwNttQRS4ZtSoA8plXvrYSNv17CnAiHvxzu4Zhbq7jOUs_R7yKl78Pmeg7eJuO6ggG_wtvlgwySA2bmdU_XK1p5ow3WRNhCD8l3Cw2JidWN_1ZSCnibqqNGnXORXYB1H21L8&__tn__=k%2AF&tn-str=k%2AF)](../assets/a642e29c45/1*IfcQ-1k_pb633IKY756azw.jpeg)
 
 [Watch The Med — Alarmphone](https://www.facebook.com/watchthemed.alarmphone/?__xts__%5B0%5D=68.ARC1p9Qcoqz00_72A5fSsxLxAx9NkBCDEtI2rbYjWpw4rpWHmyh6jt4jPuxpG59QPNJU9iAmSRhAN6Rj4NA2Hyu1eBBQzXkL1K9N3DKoPOBPxtHPQmS-1J2AOaTh7p28mvZn4hrkhzpydDngI_QEMfWVMmkPi-E7VSyKapttI3aFr2mDxX5_SinXldvSX03zx6DDWqmIUh1LcudTFsaI11ekJwNttQRS4ZtSoA8plXvrYSNv17CnAiHvxzu4Zhbq7jOUs_R7yKl78Pmeg7eJuO6ggG_wtvlgwySA2bmdU_XK1p5ow3WRNhCD8l3Cw2JidWN_1ZSCnibqqNGnXORXYB1H21L8&__tn__=k%2AF&tn-str=k%2AF)
 
@@ -78,7 +78,7 @@ In that way, they do a disservice to the communities they intend to represent\. 
 
 
 
-![[Proactiva Open Arms](https://www.facebook.com/proactivaservice/?__xts__%5B0%5D=68.ARBZYWa8YHT5Vi4dxYIb0UKLfzbv8qggP-NqyfwU6WSIr8JL5smdCU4JYzXYU8JBqYVRGLNxQwgS2MdDionKRH_8wNql3mEOyAUJxbmGO4lkCvoxkl9ftLw8vOd6LkTTA_sslw4waP2qKTGjx1UDHPitgGApzhIpJofX_9UPyQE7NFEySvAGGwDsZe5MtkpAjreogHw65snXyFV0WZsyKXGtdpsi2AFX8UQ4l1WwZ5MlYu0JiYOn5YKVbNAEj7NdatOULoSl4rb6Og4NsZVP4UoyBfmx5-GhNsWILoUa_Br5m3z5PXAhK_9ebDxc1DQeiDwGwMv2ymdraD41dxyR_zl8ig&__tn__=k%2AF&tn-str=k%2AF)](assets/a642e29c45/1*00Ed_piAFBLFkArBffGYJw.jpeg)
+![[Proactiva Open Arms](https://www.facebook.com/proactivaservice/?__xts__%5B0%5D=68.ARBZYWa8YHT5Vi4dxYIb0UKLfzbv8qggP-NqyfwU6WSIr8JL5smdCU4JYzXYU8JBqYVRGLNxQwgS2MdDionKRH_8wNql3mEOyAUJxbmGO4lkCvoxkl9ftLw8vOd6LkTTA_sslw4waP2qKTGjx1UDHPitgGApzhIpJofX_9UPyQE7NFEySvAGGwDsZe5MtkpAjreogHw65snXyFV0WZsyKXGtdpsi2AFX8UQ4l1WwZ5MlYu0JiYOn5YKVbNAEj7NdatOULoSl4rb6Og4NsZVP4UoyBfmx5-GhNsWILoUa_Br5m3z5PXAhK_9ebDxc1DQeiDwGwMv2ymdraD41dxyR_zl8ig&__tn__=k%2AF&tn-str=k%2AF)](../assets/a642e29c45/1*00Ed_piAFBLFkArBffGYJw.jpeg)
 
 [Proactiva Open Arms](https://www.facebook.com/proactivaservice/?__xts__%5B0%5D=68.ARBZYWa8YHT5Vi4dxYIb0UKLfzbv8qggP-NqyfwU6WSIr8JL5smdCU4JYzXYU8JBqYVRGLNxQwgS2MdDionKRH_8wNql3mEOyAUJxbmGO4lkCvoxkl9ftLw8vOd6LkTTA_sslw4waP2qKTGjx1UDHPitgGApzhIpJofX_9UPyQE7NFEySvAGGwDsZe5MtkpAjreogHw65snXyFV0WZsyKXGtdpsi2AFX8UQ4l1WwZ5MlYu0JiYOn5YKVbNAEj7NdatOULoSl4rb6Og4NsZVP4UoyBfmx5-GhNsWILoUa_Br5m3z5PXAhK_9ebDxc1DQeiDwGwMv2ymdraD41dxyR_zl8ig&__tn__=k%2AF&tn-str=k%2AF)
 ### The Aegean islands — very cold ‘spots’ of European policies
@@ -130,7 +130,7 @@ From **Bosnia and Herzegovina** , No Name Kitchen volunteers in Velika Kladuša 
 
 
 
-![Photo by: Manu Brabo](assets/a642e29c45/1*_n0F10ISHLCqoTWhV8vYtA.jpeg)
+![Photo by: Manu Brabo](../assets/a642e29c45/1*_n0F10ISHLCqoTWhV8vYtA.jpeg)
 
 Photo by: Manu Brabo
 
@@ -215,7 +215,7 @@ Medu and A Buon Diritto are present around the makeshift camps to offer medical 
 
 
 
-![Credit: MEDU — Piana di Gioia Tauro, February/March 2019\.](assets/a642e29c45/1*SP9u3GWpGlUl-xkAWzKyTQ.jpeg)
+![Credit: MEDU — Piana di Gioia Tauro, February/March 2019\.](../assets/a642e29c45/1*SP9u3GWpGlUl-xkAWzKyTQ.jpeg)
 
 Credit: MEDU — Piana di Gioia Tauro, February/March 2019\.
 
@@ -230,7 +230,7 @@ MEDU also insists on the necessity to create health care interventions in the ar
 You can find their full report \(in Italian\) at this [link](https://mediciperidirittiumani.org/terraingiusta-presentato-il-v-rapporto-dalla-piana-di-gioia-tauro/) \.
 
 
-![Credit: MEDU — Piana di Gioia Tauro, February/March 2019\.](assets/a642e29c45/1*gDzxsG9rLwjvn2_iuBapfg.jpeg)
+![Credit: MEDU — Piana di Gioia Tauro, February/March 2019\.](../assets/a642e29c45/1*gDzxsG9rLwjvn2_iuBapfg.jpeg)
 
 Credit: MEDU — Piana di Gioia Tauro, February/March 2019\.
 

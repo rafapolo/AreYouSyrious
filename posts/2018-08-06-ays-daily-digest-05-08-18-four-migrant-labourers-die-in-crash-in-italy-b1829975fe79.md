@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 05/08/18: Four Migrant Labourers Die in Crash in Italy
+title: "AYS Daily Digest 05/08/18: Four Migrant Labourers Die in Crash in Italy"
 author: Are You Syrious?
 date: 2018-08-06T01:46:06.017+0100
 last_modified_at: 2018-08-06T10:42:45.710+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,malta,solidarity,digest,italy]
 description: Rescues at sea // Update from Lesvos // Help needed in Belgrade // Border Patrols in Germany // Day of Protest on Malta // Public showers…
 image:
-  path: assets/b1829975fe79/1*06h_VKWwkgM2oJJU9d1nyg.jpeg
+  path: ../assets/b1829975fe79/1*06h_VKWwkgM2oJJU9d1nyg.jpeg
 ---
 
 ### AYS Daily Digest 05/08/18: Four Migrant Labourers Die in Crash in Italy
@@ -15,7 +15,7 @@ image:
 _Rescues at sea // Update from Lesvos // Help needed in Belgrade // Border Patrols in Germany // Day of Protest on Malta // Public showers closed in Paris // and more…_
 
 
-![Illustration Credit: Osama Hajjaj](assets/b1829975fe79/1*06h_VKWwkgM2oJJU9d1nyg.jpeg)
+![Illustration Credit: Osama Hajjaj](../assets/b1829975fe79/1*06h_VKWwkgM2oJJU9d1nyg.jpeg)
 
 Illustration Credit: Osama Hajjaj
 #### Feature — Fatal Crash in Apulia
@@ -64,14 +64,14 @@ The Pampiraiki Warehouse at Elliniko near Athens will be closed from Friday 10 A
 ### Bosnia
 
 
-![A family attempts a border crossing in Bosnia\. Photo Credit: [Gabriel Tizon](http://gabrieltizon.com)](assets/b1829975fe79/1*t80dt1td9YeyECPTVVhF9A.jpeg)
+![A family attempts a border crossing in Bosnia\. Photo Credit: [Gabriel Tizon](http://gabrieltizon.com)](../assets/b1829975fe79/1*t80dt1td9YeyECPTVVhF9A.jpeg)
 
 A family attempts a border crossing in Bosnia\. Photo Credit: [Gabriel Tizon](http://gabrieltizon.com)
 
 Ghafoor Hussain, a grandfather from the UK, converted a bus into a mobile kitchen in 2015\. For the past three years he has been traveling across Europe cooking hot meals for thousands of people on the move\. Now Ghafoor has taken his bus to Bosnia, where a team of volunteers are serving food at the Sarajevo train station twice a day\. You can learn more and support the project, called Aid Brigade, [here](https://www.facebook.com/AidBrigade-1782598635182451/?hc_ref=ARRY-lS9c9yYfEcZIsxu-_clorPlGNT513mZEib1vxXjnlaGIdSfhjnXWiok2v9yJrk&hc_location=group) \.
 
 
-![Ghafoor prepping a meal in his kitchen\-bus\. Photo Credit: AidBrigade](assets/b1829975fe79/1*zyNVI8-6qkF9HsNaYobHYw.jpeg)
+![Ghafoor prepping a meal in his kitchen\-bus\. Photo Credit: AidBrigade](../assets/b1829975fe79/1*zyNVI8-6qkF9HsNaYobHYw.jpeg)
 
 Ghafoor prepping a meal in his kitchen\-bus\. Photo Credit: AidBrigade
 ### Germany
@@ -85,13 +85,13 @@ The Sea\-Eye rescue organization held a day of protest on Malta, part of the sam
 In yet another act of inhumanity, Parisian municipal authorites closed the municipal shower facilities this week that many refugees in the capital use\. This move comes right on the heels of wide\-spread shutdowns of public drinking fountains last month\. Not only has the government of Macron utterly failed in its promise to “get all refugees off the streets by 2018,” they cannot even provide people with safe drinking water or showers\. An independent volunteer posted a photo of what one young man resorted to doing just to get clean:
 
 
-![Photo Credit: Sarah Fenby\-Dixon\. “Just to clarify the actual picture…\.see the flip flops? and the bottle of shampoo? A young man is down a drain trying to get clean\. YES a drain \! It is unsafe and dangerous but he has no choice\.”](assets/b1829975fe79/1*B3LeGQtK78d6mBLMp7EIJw.jpeg)
+![Photo Credit: Sarah Fenby\-Dixon\. “Just to clarify the actual picture…\.see the flip flops? and the bottle of shampoo? A young man is down a drain trying to get clean\. YES a drain \! It is unsafe and dangerous but he has no choice\.”](../assets/b1829975fe79/1*B3LeGQtK78d6mBLMp7EIJw.jpeg)
 
 Photo Credit: Sarah Fenby\-Dixon\. “Just to clarify the actual picture…\.see the flip flops? and the bottle of shampoo? A young man is down a drain trying to get clean\. YES a drain \! It is unsafe and dangerous but he has no choice\.”
 
 
 ![Photo Credit: Sarah Fenby Dixon\. “At Porte d’Aubervilliers there were maybe 300 people last night, including about 20 young children and pregnant women\. The children were playing amongst the rubbish next to an extremely busy road\. Heartbreaking to see and a tragedy waiting to happen\. 
-It is 35C and the showers are closed\. I found refugees showering in a water mains pipe underground\. Others found a water pipe provided by a local group and stood and tried to wash in a side street near the road\. They laughed and joked about this but where is the dignity and the humanity?”](assets/b1829975fe79/1*A6LG96Gcdzsz6TMe9spyyw.jpeg)
+It is 35C and the showers are closed\. I found refugees showering in a water mains pipe underground\. Others found a water pipe provided by a local group and stood and tried to wash in a side street near the road\. They laughed and joked about this but where is the dignity and the humanity?”](../assets/b1829975fe79/1*A6LG96Gcdzsz6TMe9spyyw.jpeg)
 
 Photo Credit: Sarah Fenby Dixon\. “At Porte d’Aubervilliers there were maybe 300 people last night, including about 20 young children and pregnant women\. The children were playing amongst the rubbish next to an extremely busy road\. Heartbreaking to see and a tragedy waiting to happen\. 
 It is 35C and the showers are closed\. I found refugees showering in a water mains pipe underground\. Others found a water pipe provided by a local group and stood and tried to wash in a side street near the road\. They laughed and joked about this but where is the dignity and the humanity?”
@@ -99,7 +99,7 @@ It is 35C and the showers are closed\. I found refugees showering in a water mai
 The group Solidarity Migrants Wilson has put out a call for hygiene donations\. There is a desperate need for them this week following forced evictions at the La Chapelle metro staton\. French police frequently confiscate and destroy all refugees possession’s during these evictions, so sadly the need for donations is continuous\. You can drop off items every Tuesday and Saturday in front of the breakfast room, \(56 Boulevard Ney, Paris 18\), from 10am to 11pm\. Find out more and contact the group [here](https://www.facebook.com/permalink.php?story_fbid=957819277752178&id=598228360377940) \.
 
 
-![Photo Credit: [Calais Refugee Aid](https://www.facebook.com/CalaisRefugeeAid/?hc_ref=ARQCNM8fe5E2OAAbHq9koXKPlGw_hCPglvttL8amGD2-_9Ke5tHNDMIdlib-447v0q4&fref=nf) \.](assets/b1829975fe79/1*wO08mhW-Y1RVDOeKcwiaSA.jpeg)
+![Photo Credit: [Calais Refugee Aid](https://www.facebook.com/CalaisRefugeeAid/?hc_ref=ARQCNM8fe5E2OAAbHq9koXKPlGw_hCPglvttL8amGD2-_9Ke5tHNDMIdlib-447v0q4&fref=nf) \.](../assets/b1829975fe79/1*wO08mhW-Y1RVDOeKcwiaSA.jpeg)
 
 Photo Credit: [Calais Refugee Aid](https://www.facebook.com/CalaisRefugeeAid/?hc_ref=ARQCNM8fe5E2OAAbHq9koXKPlGw_hCPglvttL8amGD2-_9Ke5tHNDMIdlib-447v0q4&fref=nf) \.
 
@@ -115,7 +115,7 @@ The cycle of police brutality and forced evictions continues in Calais\. Volunte
 To support volunteers in Calais, or find areas to drop off donations in the UK, click [here](https://www.facebook.com/CalaisRefugeeAid/posts/1815857615146429) \.
 
 
-![](assets/b1829975fe79/1*KiqCy-0kxIadFv7cxWxU-Q.jpeg)
+![](../assets/b1829975fe79/1*KiqCy-0kxIadFv7cxWxU-Q.jpeg)
 
 
 **We strive to echo correct news from the ground through collaboration and fairness\.**

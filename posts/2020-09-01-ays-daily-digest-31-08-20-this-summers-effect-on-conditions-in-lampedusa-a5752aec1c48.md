@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [greece,italy,digest,refugees,covid-19]
 description: Many sea updates on rescue ships // pushbacks and detention in Slovenia // Vienna wants to take in 100 children from Moria // and more…
 image:
-  path: assets/a5752aec1c48/1*xGj0Th_EGK6vn1w9a1zXfw.jpeg
+  path: ../assets/a5752aec1c48/1*xGj0Th_EGK6vn1w9a1zXfw.jpeg
 ---
 
 ### AYS Daily Digest 31/08/20 This summer’s effect on conditions in Lampedusa
 #### _Many sea updates on rescue ships // pushbacks and detention in Slovenia // Vienna wants to take in 100 children from Moria // and more…_
 
 
-![Lampedusa in 2019\. Photo by [picture\-alliance/AP Photo/Ansa/Elio Desiderio](https://www.dw.com/en/italy-lampedusa-and-the-refugees/av-49519219)](assets/a5752aec1c48/1*xGj0Th_EGK6vn1w9a1zXfw.jpeg)
+![Lampedusa in 2019\. Photo by [picture\-alliance/AP Photo/Ansa/Elio Desiderio](https://www.dw.com/en/italy-lampedusa-and-the-refugees/av-49519219)](../assets/a5752aec1c48/1*xGj0Th_EGK6vn1w9a1zXfw.jpeg)
 
 Lampedusa in 2019\. Photo by [picture\-alliance/AP Photo/Ansa/Elio Desiderio](https://www.dw.com/en/italy-lampedusa-and-the-refugees/av-49519219)
 ### FEATURE: Lampedusa’s horrible conditions for refugees coming into focus again
@@ -79,7 +79,7 @@ The environment they are fleeing from includes a lot of hardship\. Mustapha Kess
 [Quote by](https://www.irishtimes.com/news/world/europe/europe-doesn-t-care-about-black-lives-activists-say-as-hundreds-abandoned-at-sea-1.4343108?fbclid=IwAR2R86_8ZjMKXnISgm4yQ0s3Z0oT8btjZdjMUS9dYj9JdEqEyhkvk5AVkWU) a refuge from Cameroon, written on board Sea\-Watch 4\.
 
 
-![Photo by [Julie Bourdin](https://www.facebook.com/seawatchprojekt/posts/2628299654054766)](assets/a5752aec1c48/1*gnBeCDFByP9x5Rhx0_u44Q.jpeg)
+![Photo by [Julie Bourdin](https://www.facebook.com/seawatchprojekt/posts/2628299654054766)](../assets/a5752aec1c48/1*gnBeCDFByP9x5Rhx0_u44Q.jpeg)
 
 Photo by [Julie Bourdin](https://www.facebook.com/seawatchprojekt/posts/2628299654054766)
 
@@ -126,7 +126,7 @@ This is excellent news\! [The Mayor of Marseille](https://www.connexionfrance.co
 #### GREECE
 
 
-![Photo by [Deportation Monitoring Aegean](https://dm-aegean.bordermonitoring.eu/2020/08/26/second-hunger-strike-in-moria-detention-centre-this-year/)](assets/a5752aec1c48/1*xa77hAxsoDApmA-p_vPCaw.jpeg)
+![Photo by [Deportation Monitoring Aegean](https://dm-aegean.bordermonitoring.eu/2020/08/26/second-hunger-strike-in-moria-detention-centre-this-year/)](../assets/a5752aec1c48/1*xa77hAxsoDApmA-p_vPCaw.jpeg)
 
 Photo by [Deportation Monitoring Aegean](https://dm-aegean.bordermonitoring.eu/2020/08/26/second-hunger-strike-in-moria-detention-centre-this-year/)
 
@@ -169,7 +169,7 @@ In an update from the [Greek Helsinki Monitor](https://twitter.com/VassilisTsarn
 To learn more about a Syrian family’s experience with pushbacks from Greece to Turkey, read Toon Beemsterboer’s piece [“Greece ends Turkey’s deal with the deportation of migrants\.”](https://www.nrc.nl/nieuws/2020/08/30/griekenland-trekt-streep-door-turkijedeal-met-deportatie-van-migranten-a4010298)
 
 
-![List of needs of Notara26 squat\. “We are squatting an empty public building in Athens, 26 Notara Str\., in order to territorialize our solidarity towards refugees/immigrants to cover their immediate needs \(shelter, food, medical help\) \.” Photo by [Κατάληψη Στέγης Προσφύγων/Μεταναστών Νοταρά 26](https://www.facebook.com/permalink.php?story_fbid=1835801729893098&id=645186555621294)](assets/a5752aec1c48/1*KXFXoZBQkFQ5UdDhcBCbJQ.png)
+![List of needs of Notara26 squat\. “We are squatting an empty public building in Athens, 26 Notara Str\., in order to territorialize our solidarity towards refugees/immigrants to cover their immediate needs \(shelter, food, medical help\) \.” Photo by [Κατάληψη Στέγης Προσφύγων/Μεταναστών Νοταρά 26](https://www.facebook.com/permalink.php?story_fbid=1835801729893098&id=645186555621294)](../assets/a5752aec1c48/1*KXFXoZBQkFQ5UdDhcBCbJQ.png)
 
 List of needs of Notara26 squat\. “We are squatting an empty public building in Athens, 26 Notara Str\., in order to territorialize our solidarity towards refugees/immigrants to cover their immediate needs \(shelter, food, medical help\) \.” Photo by [Κατάληψη Στέγης Προσφύγων/Μεταναστών Νοταρά 26](https://www.facebook.com/permalink.php?story_fbid=1835801729893098&id=645186555621294)
 #### MALTA
@@ -178,7 +178,7 @@ The government has announced that it will be spending €33,500 a day \(over €
 #### ITALY
 
 
-![Photo by [Twitter/BreakingItalyNews](https://www.infomigrants.net/en/post/26949/at-least-four-migrants-die-as-boat-catches-fire-off-italy?fbclid=IwAR19oyO1l9IuC7dh0P7JxgSTnmzYLgKPOAWUADVlYbHVs2ZUod0dUA8rNXs)](assets/a5752aec1c48/1*lbzrk1KZY3p4cAbY81dxkA.jpeg)
+![Photo by [Twitter/BreakingItalyNews](https://www.infomigrants.net/en/post/26949/at-least-four-migrants-die-as-boat-catches-fire-off-italy?fbclid=IwAR19oyO1l9IuC7dh0P7JxgSTnmzYLgKPOAWUADVlYbHVs2ZUod0dUA8rNXs)](../assets/a5752aec1c48/1*lbzrk1KZY3p4cAbY81dxkA.jpeg)
 
 Photo by [Twitter/BreakingItalyNews](https://www.infomigrants.net/en/post/26949/at-least-four-migrants-die-as-boat-catches-fire-off-italy?fbclid=IwAR19oyO1l9IuC7dh0P7JxgSTnmzYLgKPOAWUADVlYbHVs2ZUod0dUA8rNXs)
 ### Boat catches fire; at least 4 people died
@@ -225,7 +225,7 @@ _“There was a shooting last night\. The guys who did it were found and the she
 #### SLOVENIA
 
 
-![“One of the men inside the Aliens Center in Postojna cut himself as a sign of protest at his ongoing detention\. Photo courtesy of Ambasada Rog\.” Words by Božič](assets/a5752aec1c48/1*1KzgwmdgCN5uD3NCIuxPMg.jpeg)
+![“One of the men inside the Aliens Center in Postojna cut himself as a sign of protest at his ongoing detention\. Photo courtesy of Ambasada Rog\.” Words by Božič](../assets/a5752aec1c48/1*1KzgwmdgCN5uD3NCIuxPMg.jpeg)
 
 “One of the men inside the Aliens Center in Postojna cut himself as a sign of protest at his ongoing detention\. Photo courtesy of Ambasada Rog\.” Words by Božič
 
@@ -263,13 +263,13 @@ Read in full [here](https://www.facebook.com/michel.brandt.linke/posts/264060955
 #### DENMARK
 
 
-![“Wednesday 2nd of September, 2020, on the evening prior to the consultation of Minister of Justice, Nick Hækkerup \(S\) regarding critisism put forward by the European Committee for Prevention of Torture and Inhuman or Degrading Treatment or Punishment \(CPT\), the people of Copenhagen, Denmark, will take to the streets in protest against the current treatment of detainees in Ellebæk Prison\. In January 2020, CPT raised criticism against the violations of Human Rights documented behind the walls of Ellebæk Prison, centre for criminalized refugees and rejected asylum seekers, who are neither convicted nor suspected of criminal affairs\. We will meet up at 5PM and walk from Christianshavn Torv to the Danish Prison and Probation Service’s building on Strandgade to the Ministry of Justice and continue our march to Cristiansborg Slotsplads\.” Photo by event page for [Ellebæk Prison — SHUT It DOWN\!](https://www.facebook.com/events/599405160945070/)](assets/a5752aec1c48/1*SWu6KiaVab04ULaBrf8pDg.jpeg)
+![“Wednesday 2nd of September, 2020, on the evening prior to the consultation of Minister of Justice, Nick Hækkerup \(S\) regarding critisism put forward by the European Committee for Prevention of Torture and Inhuman or Degrading Treatment or Punishment \(CPT\), the people of Copenhagen, Denmark, will take to the streets in protest against the current treatment of detainees in Ellebæk Prison\. In January 2020, CPT raised criticism against the violations of Human Rights documented behind the walls of Ellebæk Prison, centre for criminalized refugees and rejected asylum seekers, who are neither convicted nor suspected of criminal affairs\. We will meet up at 5PM and walk from Christianshavn Torv to the Danish Prison and Probation Service’s building on Strandgade to the Ministry of Justice and continue our march to Cristiansborg Slotsplads\.” Photo by event page for [Ellebæk Prison — SHUT It DOWN\!](https://www.facebook.com/events/599405160945070/)](../assets/a5752aec1c48/1*SWu6KiaVab04ULaBrf8pDg.jpeg)
 
 “Wednesday 2nd of September, 2020, on the evening prior to the consultation of Minister of Justice, Nick Hækkerup \(S\) regarding critisism put forward by the European Committee for Prevention of Torture and Inhuman or Degrading Treatment or Punishment \(CPT\), the people of Copenhagen, Denmark, will take to the streets in protest against the current treatment of detainees in Ellebæk Prison\. In January 2020, CPT raised criticism against the violations of Human Rights documented behind the walls of Ellebæk Prison, centre for criminalized refugees and rejected asylum seekers, who are neither convicted nor suspected of criminal affairs\. We will meet up at 5PM and walk from Christianshavn Torv to the Danish Prison and Probation Service’s building on Strandgade to the Ministry of Justice and continue our march to Cristiansborg Slotsplads\.” Photo by event page for [Ellebæk Prison — SHUT It DOWN\!](https://www.facebook.com/events/599405160945070/)
 #### NORWAY
 
 
-![“Do you want to be part of the postcard action of Erna? We are starting the fall season of the government with a bang\. They must not believe that the people have forgotten the promise they made before the summer\. The fact that Norway evacuates when 8–10 other countries have done it first\. The goal has been reached and now we demand action behind the words\. 3,000 unique postcards have therefore been printed and anyone who wants their signature on one of them can send a PM to @JanneHeltberg with name and email…Good action and warm thoughts to the children of Moria who continue their childhood in hell, because Norway has not yet initiated evacuation\.” Photo by [Evakuer barna fra Moria nå](https://www.facebook.com/evakuerbarnaframorianaa/posts/172336764366146)](assets/a5752aec1c48/1*yfamh8WMYUCNspeTfL2DPQ.jpeg)
+![“Do you want to be part of the postcard action of Erna? We are starting the fall season of the government with a bang\. They must not believe that the people have forgotten the promise they made before the summer\. The fact that Norway evacuates when 8–10 other countries have done it first\. The goal has been reached and now we demand action behind the words\. 3,000 unique postcards have therefore been printed and anyone who wants their signature on one of them can send a PM to @JanneHeltberg with name and email…Good action and warm thoughts to the children of Moria who continue their childhood in hell, because Norway has not yet initiated evacuation\.” Photo by [Evakuer barna fra Moria nå](https://www.facebook.com/evakuerbarnaframorianaa/posts/172336764366146)](../assets/a5752aec1c48/1*yfamh8WMYUCNspeTfL2DPQ.jpeg)
 
 “Do you want to be part of the postcard action of Erna? We are starting the fall season of the government with a bang\. They must not believe that the people have forgotten the promise they made before the summer\. The fact that Norway evacuates when 8–10 other countries have done it first\. The goal has been reached and now we demand action behind the words\. 3,000 unique postcards have therefore been printed and anyone who wants their signature on one of them can send a PM to @JanneHeltberg with name and email…Good action and warm thoughts to the children of Moria who continue their childhood in hell, because Norway has not yet initiated evacuation\.” Photo by [Evakuer barna fra Moria nå](https://www.facebook.com/evakuerbarnaframorianaa/posts/172336764366146)
 #### GENERAL

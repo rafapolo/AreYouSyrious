@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 7/5/21: The Dublin Regulation cannot be circumvented unilaterally or through an…
+title: "AYS Daily Digest 7/5/21: The Dublin Regulation cannot be circumvented unilaterally or through an…"
 author: Are You Syrious?
 date: 2021-05-08T17:45:46.920+0100
 last_modified_at: 2021-05-08T17:45:46.920+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,europe,human-rights,germany]
 description: German court says recently popular bilateral deals can’t work for ad hoc deportations / New arrival points in Italy / From poor to worse —…
 image:
-  path: assets/f2a6e292c2a8/0*6qpCpahq9MHcAEI_.jpeg
+  path: ../assets/f2a6e292c2a8/0*6qpCpahq9MHcAEI_.jpeg
 ---
 
 ### AYS Daily Digest 7/5/21: The Dublin Regulation cannot be circumvented unilaterally or through an agreement between two member states, court says
 ### German court says recently popular bilateral deals can’t work for ad hoc deportations / New arrival points in Italy / From poor to worse — Greek reception management / Joint statement by Syrian NGOs rejecting Denmark’s decision to revoke residency permits of Syrian refugees / recommended reads and more
 
 
-![](assets/f2a6e292c2a8/0*tC76DvhQioaQKK4b.jpeg)
+![](../assets/f2a6e292c2a8/0*tC76DvhQioaQKK4b.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----3a21a24dd819--------------------------------)
@@ -22,11 +22,11 @@ image:
 [May 8](ays-daily-digest-7-5-21-the-dublin-regulation-cannot-be-circumvented-unilaterally-or-through-an-3a21a24dd819?source=post_page-----3a21a24dd819--------------------------------) · 8 min read
 
 
-![](assets/f2a6e292c2a8/0*tgGcpOJsTfqBj5MO)
+![](../assets/f2a6e292c2a8/0*tgGcpOJsTfqBj5MO)
 
 
 
-![](assets/f2a6e292c2a8/0*6qpCpahq9MHcAEI_.jpeg)
+![](../assets/f2a6e292c2a8/0*6qpCpahq9MHcAEI_.jpeg)
 
 ### FEATURED
 
@@ -60,11 +60,11 @@ A group of people landed on the coast of Menfi, but reportedly there was no trac
 The population at the new site has continued to grow over the last two weeks, with new arrivals every day, [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?__cft__[0]=AZVIImO0E5sULOA3XIm7xQhGUiVFteobXPlu_DcJr_-yps-Za3Z4ZtxofNwZW7unAwD-1lD3xZzroBFjLL4_p3XJ1gtHoHMJL_DMbtKlJ3cmnf2qAp-xdumhJx_hZDJd1jwbdVQI7exh3-1LQZJU5xpy&__tn__=-UC%2CP-R) reports\.
 
 
-![](assets/f2a6e292c2a8/0*uHFAov166hwfeqxx)
+![](../assets/f2a6e292c2a8/0*uHFAov166hwfeqxx)
 
 
 
-![](assets/f2a6e292c2a8/0*ZQs0AAKrM7zRze9p)
+![](../assets/f2a6e292c2a8/0*ZQs0AAKrM7zRze9p)
 
 
 With so many people in need, we have restructured and increased our regular distributions of NFI \(non\-food items\) \. Each day our volunteers take orders of the specific items people require\. These items are then packed at the warehouse and delivered the following day\.
@@ -72,19 +72,19 @@ Although time\-consuming, this method is easy to understand and fair, while stil
 With summer now around the corner and the chance of receiving festival salvage still uncertain, we are once again trying to stockpile tents in preparation for the yearly surge in numbers\.
 
 
-![](assets/f2a6e292c2a8/0*LcNbM2gSPw_u9HT9)
+![](../assets/f2a6e292c2a8/0*LcNbM2gSPw_u9HT9)
 
 
 
-![](assets/f2a6e292c2a8/0*cGVGNfDbQXaZhAJo)
+![](../assets/f2a6e292c2a8/0*cGVGNfDbQXaZhAJo)
 
 
 
-![](assets/f2a6e292c2a8/0*xpKob8Jku03uBrzb)
+![](../assets/f2a6e292c2a8/0*xpKob8Jku03uBrzb)
 
 
 
-![](assets/f2a6e292c2a8/0*f28UZpQentIfdubi)
+![](../assets/f2a6e292c2a8/0*f28UZpQentIfdubi)
 
 
 Intentional complicity in destruction, degradation and deterioration of property
@@ -101,19 +101,19 @@ It is based on dozens of testimonies \(elected officials, asylum seekers and vol
 These are not isolated events of some police forces, but rather the result of a chain of command that operates everywhere in France and at European borders\.
 
 
-![](assets/f2a6e292c2a8/0*F70vnI0olAuXbuZd)
+![](../assets/f2a6e292c2a8/0*F70vnI0olAuXbuZd)
 
 
 
-![](assets/f2a6e292c2a8/0*bkP-qiXOP8zQqJqD)
+![](../assets/f2a6e292c2a8/0*bkP-qiXOP8zQqJqD)
 
 
 
-![](assets/f2a6e292c2a8/0*uGXfu7Qp2iBFEEvT)
+![](../assets/f2a6e292c2a8/0*uGXfu7Qp2iBFEEvT)
 
 
 
-![](assets/f2a6e292c2a8/0*aKPLCYBmz6OICLU-)
+![](../assets/f2a6e292c2a8/0*aKPLCYBmz6OICLU-)
 
 
 At the same time, France has warned that foreigners who are radicalised or disturb the public order will lose their refugee status, as the debate on immigration control intensifies following last month’s murder of a police worker near Paris, media [report](https://www.rfi.fr/en/france/20210507-refugees-violating-french-values-will-be-deported-interior-minister-warns-terrorism-police?fbclid=IwAR3zZC5zs7tO2i5LVA24zmIf1cHPLrYqiAvwTSQZvCzfNoQbNXOvKJU5eKg) \. The Interior Minister Gérald Darmanin said: “Our policy is clear: judge foreigners for what they do and not for what they are\.”

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 04/04/2017: Possible nerve gas attack leaves 58 dead in Syria
+title: "AYS Daily Digest 04/04/2017: Possible nerve gas attack leaves 58 dead in Syria"
 author: Are You Syrious?
 date: 2017-04-05T01:29:14.467+0100
 last_modified_at: 2017-04-05T01:40:13.990+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,syria,eu,france]
 description: Riots in Moria as tension keeps rising // Police continues to harass refugees in Calais // Peaceful protest for shelter in Italy //…
 image:
-  path: assets/1fd76ee2162c/1*QZV6mHiWAX1kC38y00c8eg.jpeg
+  path: ../assets/1fd76ee2162c/1*QZV6mHiWAX1kC38y00c8eg.jpeg
 ---
 
 ### AYS Daily Digest 04/04/2017: Possible nerve gas attack leaves 58 dead in Syria
 #### Riots in Moria as tension keeps rising // Police continues to harass refugees in Calais // Peaceful protest for shelter in Italy // Deportations from Finland to Afghanistan // Tusk supports keeping the doors shut
 
 
-![Photo by [BAAM](https://www.facebook.com/baam.asso/)](assets/1fd76ee2162c/1*QZV6mHiWAX1kC38y00c8eg.jpeg)
+![Photo by [BAAM](https://www.facebook.com/baam.asso/)](../assets/1fd76ee2162c/1*QZV6mHiWAX1kC38y00c8eg.jpeg)
 
 Photo by [BAAM](https://www.facebook.com/baam.asso/)
 ### Feature
@@ -30,7 +30,7 @@ The attack happened early in the morning when jet planes dropped bombs on the sm
 
 
 
-![White helmets helping victims of the attack\-photo by [**One Nation**](https://www.facebook.com/onenationUK/?ref=page_internal)](assets/1fd76ee2162c/1*ihN1nmkpiVdkdPWOrAQsIg.jpeg)
+![White helmets helping victims of the attack\-photo by [**One Nation**](https://www.facebook.com/onenationUK/?ref=page_internal)](../assets/1fd76ee2162c/1*ihN1nmkpiVdkdPWOrAQsIg.jpeg)
 
 White helmets helping victims of the attack\-photo by [**One Nation**](https://www.facebook.com/onenationUK/?ref=page_internal)
 
@@ -43,7 +43,7 @@ The European Union’s top diplomat, Federica Mogherini also said that there is 
 There were also reports later on by opposition activists and AFP news agency, citing one of its journalists on the scene saying that a rocket hit a hospital where the victims were being treated, bringing rubble down on medics as they struggled to deal with victims and a member of the Syrian Civil Defence also told Al Jazeera that for the past week, Idlib has been targeted by ongoing air strikes, and after yesterday’s attack, one of its main hospitals has been mostly destroyed and can no longer function\. This organisation and the Health Directorate in Idlib also published a joint statement about the attacks:
 
 
-![](assets/1fd76ee2162c/1*XKDUDXr2rt82P22nW8wy0Q.jpeg)
+![](../assets/1fd76ee2162c/1*XKDUDXr2rt82P22nW8wy0Q.jpeg)
 
 ### Greece
 
@@ -57,15 +57,15 @@ Volunteers on Lesvos reported today that there has been unrest in Moria detentio
 
 
 
-![](assets/1fd76ee2162c/1*_ZP7NXHHJFYhC14o5tMy6A.jpeg)
+![](../assets/1fd76ee2162c/1*_ZP7NXHHJFYhC14o5tMy6A.jpeg)
 
 
 
-![](assets/1fd76ee2162c/1*EkI8FOlOcVltGGmswOnNDQ.jpeg)
+![](../assets/1fd76ee2162c/1*EkI8FOlOcVltGGmswOnNDQ.jpeg)
 
 
 
-![](assets/1fd76ee2162c/1*vIeWC5kU8lLRn5gr4PnSaw.jpeg)
+![](../assets/1fd76ee2162c/1*vIeWC5kU8lLRn5gr4PnSaw.jpeg)
 
 #### Islands
 
@@ -97,7 +97,7 @@ Humans 4 Humanity in Lesvos is a group that has been working on establishing a *
 They also are willing to hear from you if you have any other goodies that could be useful in the center or on any of the spaces so please consider getting involved contacting [**Neda Kadri**](https://www.facebook.com/neda.kadri) ‎\.
 
 
-![Photo by [**Neda Kadri**](https://www.facebook.com/neda.kadri) ‎](assets/1fd76ee2162c/1*4ACLkB62sKvT4T--teCRQw.jpeg)
+![Photo by [**Neda Kadri**](https://www.facebook.com/neda.kadri) ‎](../assets/1fd76ee2162c/1*4ACLkB62sKvT4T--teCRQw.jpeg)
 
 Photo by [**Neda Kadri**](https://www.facebook.com/neda.kadri) ‎
 
@@ -138,12 +138,12 @@ Also in Calais, Refugee Community Kitchen now prepares and serves more than 200 
 Today in Pordenone, asylum seekers peacefully protested in front of the Perfecture and asked for their right to be given a place inside the Hub\.
 
 
-![Photo by [Rete Solidale Pordenone](https://www.facebook.com/retesolidalepn/)](assets/1fd76ee2162c/1*LCBg22x-hQOsg0ALqx4sXw.jpeg)
+![Photo by [Rete Solidale Pordenone](https://www.facebook.com/retesolidalepn/)](../assets/1fd76ee2162c/1*LCBg22x-hQOsg0ALqx4sXw.jpeg)
 
 Photo by [Rete Solidale Pordenone](https://www.facebook.com/retesolidalepn/)
 
 
-![Photo by [Rete Solidale Pordenone](https://www.facebook.com/retesolidalepn/)](assets/1fd76ee2162c/1*Z_F0xLVIgkIfT-c89Jo9bw.jpeg)
+![Photo by [Rete Solidale Pordenone](https://www.facebook.com/retesolidalepn/)](../assets/1fd76ee2162c/1*Z_F0xLVIgkIfT-c89Jo9bw.jpeg)
 
 Photo by [Rete Solidale Pordenone](https://www.facebook.com/retesolidalepn/)
 ### Finland
@@ -151,7 +151,7 @@ Photo by [Rete Solidale Pordenone](https://www.facebook.com/retesolidalepn/)
 Deportations of Afghan refugees back to Afghanistan were planned for Monday evening from Helsinki by Finnish authorities and hundreds of people protested whilst some clashed with the police, while trying to stop the paddy wagons from leaving\. Police sprayed gas to calm down the the protesters and also used dogs and batons on them\.
 
 
-![Photo by [**Teo Comet Kortman**](https://www.facebook.com/cometteo)](assets/1fd76ee2162c/1*tbTJoYVx_cxhdlgfvMsD2w.jpeg)
+![Photo by [**Teo Comet Kortman**](https://www.facebook.com/cometteo)](../assets/1fd76ee2162c/1*tbTJoYVx_cxhdlgfvMsD2w.jpeg)
 
 Photo by [**Teo Comet Kortman**](https://www.facebook.com/cometteo)
 
@@ -184,7 +184,7 @@ Today the two days lasting Syria Conference in Brussels started\. In his opening
 Save the Children and artist Raul Armenteros set up a graveyard in front of the Commission’s building, remembering the Syrian children who died in the war\.
 
 
-![Photo by Save the Children](assets/1fd76ee2162c/1*V6j-kMN4zwe1qlMzJQxC_g.jpeg)
+![Photo by Save the Children](../assets/1fd76ee2162c/1*V6j-kMN4zwe1qlMzJQxC_g.jpeg)
 
 Photo by Save the Children
 

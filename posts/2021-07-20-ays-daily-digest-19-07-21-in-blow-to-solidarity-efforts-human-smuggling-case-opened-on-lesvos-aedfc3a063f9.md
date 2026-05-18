@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 19/07/21: In Blow to Solidarity Efforts, Human Smuggling Case Opened on Lesvos
+title: "AYS Daily Digest 19/07/21: In Blow to Solidarity Efforts, Human Smuggling Case Opened on Lesvos"
 author: Are You Syrious?
 date: 2021-07-20T15:21:17.752+0100
 last_modified_at: 2021-07-20T15:21:17.752+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,migration,refugees,racism]
 description: Rescue off Spain // Frontex in Evros // Hunger striker in bad health in Belgium // Racist attack in Germany // Ylva Johansson responds to…
 image:
-  path: assets/aedfc3a063f9/0*DEX0ISAEr_WFoxwL.png
+  path: ../assets/aedfc3a063f9/0*DEX0ISAEr_WFoxwL.png
 ---
 
 ### AYS Daily Digest 19/07/21: In Blow to Solidarity Efforts, Human Smuggling Case Opened on Lesvos
 ### Rescue off Spain // Frontex in Evros // Hunger striker in bad health in Belgium // Racist attack in Germany // Ylva Johansson responds to NGOs’ concerns
 
 
-![](assets/aedfc3a063f9/0*4pEHG2UF70sI7Z0f.jpeg)
+![](../assets/aedfc3a063f9/0*4pEHG2UF70sI7Z0f.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----c0ae54b4deb1--------------------------------)
@@ -23,11 +23,11 @@ image:
 ### FEATURE — 10 people, including 4 NGO workers, are caught up in legal case designed to criminalize their work on Lesvos
 
 
-![](assets/aedfc3a063f9/0*yKyle7Stcyk9t3BD)
+![](../assets/aedfc3a063f9/0*yKyle7Stcyk9t3BD)
 
 
 
-![](assets/aedfc3a063f9/0*DEX0ISAEr_WFoxwL.png)
+![](../assets/aedfc3a063f9/0*DEX0ISAEr_WFoxwL.png)
 
 
 Two Greek\-language news sites announced yesterday that the government had “dismantled a trafficking ring \[a smuggling ring\] which involves 4 NGO members & 6 ‘third country nationals\.’” The individuals are said to be from Norway, the UK and other European countries, as well as from Syria and Afghanistan, but their identities have not yet been disclosed to the public\.

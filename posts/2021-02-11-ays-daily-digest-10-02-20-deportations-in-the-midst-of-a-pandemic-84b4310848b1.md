@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 10/02/20: Deportations in the midst of a pandemic
+title: "AYS Daily Digest 10/02/20: Deportations in the midst of a pandemic"
 author: Are You Syrious?
 date: 2021-02-11T10:10:42.183+0000
 last_modified_at: 2021-02-11T14:12:21.291+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,afghanistan,ethiopia,germany]
 description: 26 people deported to Afghanistan // Two Ethopian camps to be closed // IOM condems pushbacks to Bosnia // New evictions in Northern…
 image:
-  path: assets/84b4310848b1/1*m22j7yX1iUSvrD9kwyh3bA.jpeg
+  path: ../assets/84b4310848b1/1*m22j7yX1iUSvrD9kwyh3bA.jpeg
 ---
 
 ### AYS Daily Digest 10/02/20: Deportations in the midst of a pandemic
 #### 26 people deported to Afghanistan // Two Ethiopian camps to be closed // IOM condemns pushbacks to Bosnia // New evictions in Northern France // Germany does not meet migration quota
 
 
-![“No deportations in risk areas”\. Credits: [Network against Deportation Hessen/Mainz](https://twitter.com/VgA_HessenMainz/status/1359161655989575684)](assets/84b4310848b1/1*m22j7yX1iUSvrD9kwyh3bA.jpeg)
+![“No deportations in risk areas”\. Credits: [Network against Deportation Hessen/Mainz](https://twitter.com/VgA_HessenMainz/status/1359161655989575684)](../assets/84b4310848b1/1*m22j7yX1iUSvrD9kwyh3bA.jpeg)
 
 “No deportations in risk areas”\. Credits: [Network against Deportation Hessen/Mainz](https://twitter.com/VgA_HessenMainz/status/1359161655989575684)
 ### Afghanistan: New deportations

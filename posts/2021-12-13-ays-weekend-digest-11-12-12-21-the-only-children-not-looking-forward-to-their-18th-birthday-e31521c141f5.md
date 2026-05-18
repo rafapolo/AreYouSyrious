@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 11–12/12/21: The only children not looking forward to their 18th birthday
+title: "AYS Weekend Digest 11–12/12/21: The only children not looking forward to their 18th birthday"
 author: Are You Syrious?
 date: 2021-12-13T16:14:35.988+0000
 last_modified_at: 2021-12-13T16:14:35.988+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,greece,belarus,migration,refugees]
 description: Action to support unaccompanied minors in Greece / worries about health care program continuation / updates and news from the border area…
 image:
-  path: assets/e31521c141f5/0*v-QoiWpx9RGNtsQC.jpeg
+  path: ../assets/e31521c141f5/0*v-QoiWpx9RGNtsQC.jpeg
 ---
 
 ### AYS Weekend Digest 11–12/12/21: The only children not looking forward to their 18th birthday
 #### Action to support unaccompanied minors in Greece / worries about health care program continuation / updates and news from the border area with Belarus / several suggestions for reading and watching for you today
 
 
-![](assets/e31521c141f5/0*v-QoiWpx9RGNtsQC.jpeg)
+![](../assets/e31521c141f5/0*v-QoiWpx9RGNtsQC.jpeg)
 
 ### FEATURED
 
@@ -90,11 +90,11 @@ Grupa Granica invited for support and action as a part of the gatherings taking 
 “The humanitarian crisis at the border continues, we are finding out about more victims, the temperature drops to minus 15 degrees Celsius\. The pseudo\-exceptional state was maintained, and if there was no humanitarian, medical and independent observers, there is no at the border due to the ban on entry\. But there’s something about it that helps not lose hope\. It is your unwavering commitment, your indifference, ingenuity, willingness to bring help and solidarity with refugees and refugees, with migrants and migrants\.”
 
 
-![](assets/e31521c141f5/0*IFoNjSEGPqgEHlYI)
+![](../assets/e31521c141f5/0*IFoNjSEGPqgEHlYI)
 
 
 
-![](assets/e31521c141f5/0*PC4wwfZ_Mvq1uJnP)
+![](../assets/e31521c141f5/0*PC4wwfZ_Mvq1uJnP)
 
 ### Going underground
 
@@ -113,11 +113,11 @@ On the other side, different countries are handling the situation in a different
 [l\.facebook\.com](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.politico.eu%2Farticle%2Ftale-syrian-migrant-poland-forest-belarus-lukashenko-asylum-border%2F%3Ffbclid%3DIwAR3oBlJx15YrHlG5Gs95PxJzYG7ggXHt1Wy3qo5DbI-JUoF72zyuKvrRADw&h=AT15VRMClCOMCnbMOFWrgndMN8APWWpgwnQgYFUB4Bq5KLsiWGopiReP16fJYUhDOrYSzbLrNkWqe7DlCUPweAMcG_Ev0ac-dKVdmHJS9MsD5E0AiNz1dTMaM-HXGxtifee-A2AEN35Wjw&__tn__=R]-R&c[0]=AT1z67kmzg3Jk_7UTXj2B84CDuJpOV74O1PdPxMqpt6-urQuGn_0-j85M97wMZ-BO59r3J082k0u3-ZMGuzIgFgmPy1SOA6wNIUNOTrtBst4XKAEBp2j1jOkHV-EL5PY3ASZ4DWwkPuKVUN8j4UYi4N64Zu3mjTWIpiFodyajieYDiv9g5MIZLDP2WZMavAWYCZ_Mkt5qx7V)
 
 
-![](assets/e31521c141f5/0*CImr4xbT-pg373q3)
+![](../assets/e31521c141f5/0*CImr4xbT-pg373q3)
 
 
 
-![](assets/e31521c141f5/0*vmbATaUcvZPIIn74)
+![](../assets/e31521c141f5/0*vmbATaUcvZPIIn74)
 
 
 Many people ask what they can do to help, wondering if the situation is in fact as serious as all the accounts say\. Some of the long term activists from other places visited the area in the past months and recently another team went there and shared their impressions of the situation in the woods of the bordering areas\.
@@ -134,11 +134,11 @@ The expulsion to Belarus of migrant women and men who have found themselves on t
 We want to stress that, in the face of the current crisis, absolutely no one should be sent back to Belarus — it is not a safe country\. Direct testimonies of migrant women and migrants, as well as videos published in the public space or physical examinations performed by Polish paramedics show numerous cases of violence on the part of officials of the Belarusian regime\. These include beatings, threatening with firearms, use of stun guns, brushing with dogs, theft, destruction of property, shouting and verbal aggression, lack of access to food and drink and cold detention without adequate medical care, shelter and hygiene facilities\. The actions of the Belarusian officers must be considered as torture\. We describe them in detail in the Border Group report published on 1 December\.
 
 
-![](assets/e31521c141f5/0*w8hSBkfyg3syF5iH)
+![](../assets/e31521c141f5/0*w8hSBkfyg3syF5iH)
 
 
 
-![](assets/e31521c141f5/0*GI0h4XP235POTTJU)
+![](../assets/e31521c141f5/0*GI0h4XP235POTTJU)
 
 ### WORTH READING
 - Anti\-refugee language has emerged in the public space: the term “nachodźcy” \(a Polish play on the word ‘refugee’ meaning ‘aggressor’\) which appears regularly among nationalists; and the comparing refugees to “thieves and robbers” in certain religious circles\. Beata Zwierzynska writes about the terminology used to describe people trying to enter the European Union:

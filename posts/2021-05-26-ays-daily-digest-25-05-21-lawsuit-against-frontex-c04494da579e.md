@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 25/05/21: Lawsuit against Frontex
+title: "AYS Daily Digest 25/05/21: Lawsuit against Frontex"
 author: Are You Syrious?
 date: 2021-05-26T11:25:10.309+0100
 last_modified_at: 2021-05-26T13:25:30.125+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,frontex,ecj]
 description: Lawyers file cases of pusbacks at ECJ// 100 people disembark on Cyprus// Positive Covid cases on Samos// More concrete walls planned…
 image:
-  path: assets/c04494da579e/1*tafftHXQl1IORcgTbwqnzA.jpeg
+  path: ../assets/c04494da579e/1*tafftHXQl1IORcgTbwqnzA.jpeg
 ---
 
 ### AYS Daily Digest 25/05/21: Lawsuit against Frontex
 #### Lawyers file cases of pusbacks at ECJ// 100 people disembark on Cyprus// Positive Covid cases on Samos// More concrete walls planned around Greek camps// UK Home Office postponed evictions
 
 
-![](assets/c04494da579e/1*tafftHXQl1IORcgTbwqnzA.jpeg)
+![](../assets/c04494da579e/1*tafftHXQl1IORcgTbwqnzA.jpeg)
 
 ### Feature: Lawsuit against Frontex
 
@@ -114,7 +114,7 @@ Hundreds of Syrian refugees who have spent years rebuilding their lives in Denma
 Danish authorities have in recent weeks been reconsidering the status of at least 800 refugees who were granted temporary protection after fleeing wartime violence in Damascus and the Rif Damascus governorate\. The Social Democrat\-led government now deems those areas safe\.
 
 
-[![🇩🇰🇸🇾Is Denmark abandoning Syrian refugees? | The Stream](assets/c04494da579e/4fbc_hqdefault.jpg "🇩🇰🇸🇾Is Denmark abandoning Syrian refugees? | The Stream")](https://www.youtube.com/watch?v=KSb2rGBjwGA)
+[![🇩🇰🇸🇾Is Denmark abandoning Syrian refugees? | The Stream](../assets/c04494da579e/4fbc_hqdefault.jpg "🇩🇰🇸🇾Is Denmark abandoning Syrian refugees? | The Stream")](https://www.youtube.com/watch?v=KSb2rGBjwGA)
 
 ### Finland
 

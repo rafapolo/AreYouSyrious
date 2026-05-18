@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest - 23/05/2017: Human rights are at risk in Greece
+title: "AYS Daily Digest - 23/05/2017: Human rights are at risk in Greece"
 author: Are You Syrious?
 date: 2017-05-24T00:34:25.624+0100
 last_modified_at: 2017-05-24T00:39:16.614+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,croatia,un-special-rapporteur,human-rights,chios]
 description: UN Special Rapporteur call for immediate changes // EU, one union with different systems // Busy and dangerous day at Sea // Eliniko…
 image:
-  path: assets/d929d49a0256/1*fOAkqBtrKyF3P-Na5T7xiw.jpeg
+  path: ../assets/d929d49a0256/1*fOAkqBtrKyF3P-Na5T7xiw.jpeg
 ---
 
 ### AYS Daily Digest \- 23/05/2017: Human rights are at risk in Greece
@@ -15,7 +15,7 @@ image:
 _UN Special Rapporteur call for immediate changes // EU, one union with different systems // Busy and dangerous day at Sea // Eliniko eviction continues // Elderly refugees remain separated due to language barriers and lack of information // Still more arrivals than departures on Greek islands // Tragedy and police violence in Croatia // Increase in irregular entries to Romania / And more news…_
 
 
-![Athens, Greece, 22 May, A refugee family inside Elionas camp\. Trapped in between closed borders\. Photo by Anggelos Barai\. By [Art Against](https://www.facebook.com/artagainstproject/posts/1377352738980823:0) \.](assets/d929d49a0256/1*fOAkqBtrKyF3P-Na5T7xiw.jpeg)
+![Athens, Greece, 22 May, A refugee family inside Elionas camp\. Trapped in between closed borders\. Photo by Anggelos Barai\. By [Art Against](https://www.facebook.com/artagainstproject/posts/1377352738980823:0) \.](../assets/d929d49a0256/1*fOAkqBtrKyF3P-Na5T7xiw.jpeg)
 
 Athens, Greece, 22 May, A refugee family inside Elionas camp\. Trapped in between closed borders\. Photo by Anggelos Barai\. By [Art Against](https://www.facebook.com/artagainstproject/posts/1377352738980823:0) \.
 
@@ -48,7 +48,7 @@ The report finds that there are big differences in how the member states are han
 Sea
 
 
-![Photo by Jugend Retter e\.V\.](assets/d929d49a0256/1*ZWHAy1vpT-O-sKpA66GG-w.jpeg)
+![Photo by Jugend Retter e\.V\.](../assets/d929d49a0256/1*ZWHAy1vpT-O-sKpA66GG-w.jpeg)
 
 Photo by Jugend Retter e\.V\.
 
@@ -91,7 +91,7 @@ The total number of departures during May is 807\. Which means that the islands 
 [Action from Switzerland has released a statement](https://www.facebook.com/actionfromswitzerland/posts/1081906705287151:0?hc_location=ufi) regarding the withdrawal of NGO’s on the 31st of July when the authorities are said to take over\. The message is simple, they are staying where they are\.
 
 
-![](assets/d929d49a0256/1*7glh5lA2FzHtUqxvF_nQEw.png)
+![](../assets/d929d49a0256/1*7glh5lA2FzHtUqxvF_nQEw.png)
 
 ### Croatia
 
@@ -104,11 +104,11 @@ This incident happened after three of them entered the country using one of the 
 Some of the refugees AYS spoke with, told us about brutal beatings by police in Croatia\. Police used wooden sticks, belts, and iron sticks in some cases\. In at least one case, we were informed, police order them to take off their clothes and beat them up in the genital area\.
 
 
-![](assets/d929d49a0256/1*oRSSTgWTL3-5DAYKz2Gv3w.jpeg)
+![](../assets/d929d49a0256/1*oRSSTgWTL3-5DAYKz2Gv3w.jpeg)
 
 
 
-![Photo by AYS volunteer in Sid\.](assets/d929d49a0256/1*rV-FOABuATbuxoNMNKi0ow.jpeg)
+![Photo by AYS volunteer in Sid\.](../assets/d929d49a0256/1*rV-FOABuATbuxoNMNKi0ow.jpeg)
 
 Photo by AYS volunteer in Sid\.
 

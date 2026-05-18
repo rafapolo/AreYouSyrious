@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,greece,lesvos]
 description: 82 People Leave Lesvos for Hanover//The Many Forms of State Violence in Spain//Updates from Southern Serbia//& More
 image:
-  path: assets/62e3e2624c9a/0*uSAAZCQFbkFaZVCl
+  path: ../assets/62e3e2624c9a/0*uSAAZCQFbkFaZVCl
 ---
 
 ### AYS Daily Digest 11/03/2021—53 People Land on Lesvos, Turn to NGOs For Help
@@ -15,7 +15,7 @@ image:
 82 People Leave Lesvos for Hanover//The Many Forms of State Violence in Spain//Updates from Southern Serbia//& More
 
 
-![Photo of a police raid targeting undocumented people in Barcelona, as onlookers questioned why so much police was necessary\. Photo credit: [EmergenciaFS\_BCN](https://twitter.com/EmergenciafsB/status/1369715124244742148)](assets/62e3e2624c9a/0*uSAAZCQFbkFaZVCl)
+![Photo of a police raid targeting undocumented people in Barcelona, as onlookers questioned why so much police was necessary\. Photo credit: [EmergenciaFS\_BCN](https://twitter.com/EmergenciafsB/status/1369715124244742148)](../assets/62e3e2624c9a/0*uSAAZCQFbkFaZVCl)
 
 Photo of a police raid targeting undocumented people in Barcelona, as onlookers questioned why so much police was necessary\. Photo credit: [EmergenciaFS\_BCN](https://twitter.com/EmergenciafsB/status/1369715124244742148)
 #### FEATURE
@@ -34,7 +34,7 @@ People should not need to document their physical presence on Greece three diffe
 [The VDC r](https://twitter.com/VDC_Syria/status/1369560453991514116/photo/1) eported 191 cases of arrests, disappearances, and other violent acts in Syria in February alone\. This is important context to keep in mind as countries like Denmark look to restart deportations to Syria\.
 
 
-![](assets/62e3e2624c9a/0*8jfvoqRvHDKdvN5p)
+![](../assets/62e3e2624c9a/0*8jfvoqRvHDKdvN5p)
 
 #### TUNISIA
 #### 39 People Dead Off the Coast of Sfax

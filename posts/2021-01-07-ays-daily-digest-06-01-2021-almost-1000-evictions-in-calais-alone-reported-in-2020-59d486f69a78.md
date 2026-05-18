@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,france,bosnia,spain,greece]
 description: Spain as main destination for African migrants // Unacceptable criminalization of solidarity in Bosnia // Updates on police violence in…
 image:
-  path: assets/59d486f69a78/1*IyrvSM0Up6VFNsFI_IXnlA.jpeg
+  path: ../assets/59d486f69a78/1*IyrvSM0Up6VFNsFI_IXnlA.jpeg
 ---
 
 ### AYS Daily Digest 06/01/2021 — Almost 1000 evictions in Calais alone reported in 2020
@@ -17,7 +17,7 @@ As we enter in the new year, we wish to report on some data about evictions and 
 ### FRANCE
 
 
-![Evictions in Calais — courtesy of HRObservers](assets/59d486f69a78/1*IyrvSM0Up6VFNsFI_IXnlA.jpeg)
+![Evictions in Calais — courtesy of HRObservers](../assets/59d486f69a78/1*IyrvSM0Up6VFNsFI_IXnlA.jpeg)
 
 Evictions in Calais — courtesy of HRObservers
 
@@ -49,7 +49,7 @@ Just on 5 January, 48 migrants, including seven women and two children, were [re
 Pomozi\.ba continues to support people on the move, despite the local officials and government employing a language of criminalisation for those non\-governmental organisations that support migrants with food and shelter\.
 
 
-![Volunteers of Pomozi\.ba in Lipa](assets/59d486f69a78/1*XEGjlEp-6QvP2CZHz-UWTw.jpeg)
+![Volunteers of Pomozi\.ba in Lipa](../assets/59d486f69a78/1*XEGjlEp-6QvP2CZHz-UWTw.jpeg)
 
 Volunteers of Pomozi\.ba in Lipa
 
@@ -109,7 +109,7 @@ Over [240 refugees have been transferred](https://twitter.com/APC_CZA/status/134
 ### HUNGARY
 
 
-![A picture shows people hiding in the truck\.](assets/59d486f69a78/1*bF-HM3r3AQaQFblWzDgi8g.jpeg)
+![A picture shows people hiding in the truck\.](../assets/59d486f69a78/1*bF-HM3r3AQaQFblWzDgi8g.jpeg)
 
 A picture shows people hiding in the truck\.
 

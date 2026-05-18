@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,europe]
 description: Deaths after illegal pushbacks in Bosnia // Banksy’s Search-and-Rescue ship // Far-right groups ‘migrant hunting’ in the UK // 130 people…
 image:
-  path: assets/74a60d90d7a/1*dsQvnzG_LszgNNPsV-Qdow.jpeg
+  path: ../assets/74a60d90d7a/1*dsQvnzG_LszgNNPsV-Qdow.jpeg
 ---
 
 ### AYS Daily Digest 28/8/20 \-Malta Punishing Boats for Rescuing Refugees
@@ -15,7 +15,7 @@ image:
 Deaths after illegal pushbacks in Bosnia // Banksy’s Search\-and\-Rescue ship // Far\-right groups ‘migrant hunting’ in the UK // 130 people stranded at Sea
 
 
-![Photo of the [\#LouiseMichel](https://twitter.com/hashtag/LouiseMichel?src=hashtag_click) after 89 people were rescued\. \(Photo Credit: twitter\.com/MVLouiseMichel\)](assets/74a60d90d7a/1*dsQvnzG_LszgNNPsV-Qdow.jpeg)
+![Photo of the [\#LouiseMichel](https://twitter.com/hashtag/LouiseMichel?src=hashtag_click) after 89 people were rescued\. \(Photo Credit: twitter\.com/MVLouiseMichel\)](../assets/74a60d90d7a/1*dsQvnzG_LszgNNPsV-Qdow.jpeg)
 
 Photo of the [\#LouiseMichel](https://twitter.com/hashtag/LouiseMichel?src=hashtag_click) after 89 people were rescued\. \(Photo Credit: twitter\.com/MVLouiseMichel\)
 ### Feature

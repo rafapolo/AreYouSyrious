@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 19/10/20 Evros: New fence and new pushback investigation
+title: "AYS Daily Digest 19/10/20 Evros: New fence and new pushback investigation"
 author: Are You Syrious?
 date: 2020-10-20T16:43:54.409+0100
 last_modified_at: 2020-10-20T17:33:17.293+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [greece,digest,refugees,uk,europe]
 description: 800 people sleeping on dock in Spain // 5 people die while 6 finally rescued to Italy // phones needed in Calais // body found offshore in…
 image:
-  path: assets/f2f6a7b8ac5c/1*FS2QqtqYx4X60XLooucHHA.jpeg
+  path: ../assets/f2f6a7b8ac5c/1*FS2QqtqYx4X60XLooucHHA.jpeg
 ---
 
 ### AYS Daily Digest 19/10/20 Evros: New fence and new pushback investigation
@@ -18,7 +18,7 @@ _800 people sleeping on dock in Spain // 5 people die while 6 finally rescued to
 AYS Special: A Voice from inside Penally Refugee Camp — “Putting us in this camp re\-traumatizes people\. It looks like a prison\.” — check out this important special on our Facebook page or Medium\!
 
 
-![Evros fence\. Photo by [Keep Talking Greece](https://www.keeptalkinggreece.com/2020/10/19/greece-proceeds-with-construction-of-evros-fence-with-rapid-pace)](assets/f2f6a7b8ac5c/1*FS2QqtqYx4X60XLooucHHA.jpeg)
+![Evros fence\. Photo by [Keep Talking Greece](https://www.keeptalkinggreece.com/2020/10/19/greece-proceeds-with-construction-of-evros-fence-with-rapid-pace)](../assets/f2f6a7b8ac5c/1*FS2QqtqYx4X60XLooucHHA.jpeg)
 
 Evros fence\. Photo by [Keep Talking Greece](https://www.keeptalkinggreece.com/2020/10/19/greece-proceeds-with-construction-of-evros-fence-with-rapid-pace)
 ### FEATURE: Greece full speed ahead with Evros fence, while Forensic Architecture publishes new investigation into pushbacks
@@ -56,7 +56,7 @@ In an update from The Syria Campaign:
 [Seebrücke](https://twitter.com/_Seebruecke_/status/1318256143781814274) reported on Monday that _“Eleven people who fled Algeria have been floating since October 9th on the Mediterranean and made several emergency calls, all of which were ignored by the government\. Just Alarm Phone answered the emergency calls and tried to put pressure on the authorities to finally launch a search and rescue mission\. Now six people have finally been rescued from the small boat and brought ashore in Italy, five starved or thirsted on the way because the rescue operation was delayed for so long\.”_ These 5 people did not have to die\! AYS stands in solidarity with the survivors\.
 
 
-![Heroes getting recognized, love to see it: “The captain Carola Rackete was awarded the Karl Küpper Prize of the Cologne Carnival Festival Committee on Monday\. The prize was awarded for the first time this year\.” Photo by [WDR](https://www1.wdr.de/nachrichten/rheinland/rackete-bekommt-karl-kuepper-preis-100.html)](assets/f2f6a7b8ac5c/1*ZsjP5HbpzIi3KlhBr77oWQ.jpeg)
+![Heroes getting recognized, love to see it: “The captain Carola Rackete was awarded the Karl Küpper Prize of the Cologne Carnival Festival Committee on Monday\. The prize was awarded for the first time this year\.” Photo by [WDR](https://www1.wdr.de/nachrichten/rheinland/rackete-bekommt-karl-kuepper-preis-100.html)](../assets/f2f6a7b8ac5c/1*ZsjP5HbpzIi3KlhBr77oWQ.jpeg)
 
 Heroes getting recognized, love to see it: “The captain Carola Rackete was awarded the Karl Küpper Prize of the Cologne Carnival Festival Committee on Monday\. The prize was awarded for the first time this year\.” Photo by [WDR](https://www1.wdr.de/nachrichten/rheinland/rackete-bekommt-karl-kuepper-preis-100.html)
 #### GREECE
@@ -88,7 +88,7 @@ The German news agency DPA reported that the Montenegrin coastguard intercepted 
 #### ITALY
 
 
-![“In the last few hours several landings between Sicily , Sardinia and Calabria where once again in Reggio Calabria 52 have landed from a Libyan fishing boat arrived from the Aegean Sea\.” \(Photo [@AngiKappa](http://twitter.com/AngiKappa) for [@RaiNews](http://twitter.com/RaiNews) \) Info by [Angela Caponnetto](https://twitter.com/AngiKappa/status/1318173483558371331)](assets/f2f6a7b8ac5c/1*Iwd47JBIDiZTy1mjfJrtug.jpeg)
+![“In the last few hours several landings between Sicily , Sardinia and Calabria where once again in Reggio Calabria 52 have landed from a Libyan fishing boat arrived from the Aegean Sea\.” \(Photo [@AngiKappa](http://twitter.com/AngiKappa) for [@RaiNews](http://twitter.com/RaiNews) \) Info by [Angela Caponnetto](https://twitter.com/AngiKappa/status/1318173483558371331)](../assets/f2f6a7b8ac5c/1*Iwd47JBIDiZTy1mjfJrtug.jpeg)
 
 “In the last few hours several landings between Sicily , Sardinia and Calabria where once again in Reggio Calabria 52 have landed from a Libyan fishing boat arrived from the Aegean Sea\.” \(Photo [@AngiKappa](http://twitter.com/AngiKappa) for [@RaiNews](http://twitter.com/RaiNews) \) Info by [Angela Caponnetto](https://twitter.com/AngiKappa/status/1318173483558371331)
 
@@ -96,7 +96,7 @@ Info Migrants is reporting that “ _A court in Italy’s northern town of Lecco
 #### SPAIN
 
 
-![People at the Arguineguín de Canarias dock on Monday\. Photo by [Efe](https://www.eldiario.es/canariasahora/365-dias-de-migraciones/muelle-arguineguin-alberga-800-personas-cifra-alta-habilitara-campamento_1_6303906.html)](assets/f2f6a7b8ac5c/1*zyvs53dkwUSP59ERFlIavg.jpeg)
+![People at the Arguineguín de Canarias dock on Monday\. Photo by [Efe](https://www.eldiario.es/canariasahora/365-dias-de-migraciones/muelle-arguineguin-alberga-800-personas-cifra-alta-habilitara-campamento_1_6303906.html)](../assets/f2f6a7b8ac5c/1*zyvs53dkwUSP59ERFlIavg.jpeg)
 
 People at the Arguineguín de Canarias dock on Monday\. Photo by [Efe](https://www.eldiario.es/canariasahora/365-dias-de-migraciones/muelle-arguineguin-alberga-800-personas-cifra-alta-habilitara-campamento_1_6303906.html)
 ### “More than 800 migrants spend the night on the floor of the Arguineguín de Canarias dock”
@@ -105,7 +105,7 @@ On Monday, El Diario reported that “ _The latest rescues bring to more than 80
 
 
 ![“Since this morning, around 70 residents in the \#Melilla juvenile center have demonstrated in front of the welfare counseling building calling for the end of the \#Bureaucratic Boycott and the \#Administrative Obstacles who suffer to see their rights fulfilled
-@ NoNameKitchen1” Photo by [Solidarity Wheels](https://twitter.com/SolidaryW/status/1318100516363247622)](assets/f2f6a7b8ac5c/1*JfKXNIiiYZ4bVgHVeSH3ZA.jpeg)
+@ NoNameKitchen1” Photo by [Solidarity Wheels](https://twitter.com/SolidaryW/status/1318100516363247622)](../assets/f2f6a7b8ac5c/1*JfKXNIiiYZ4bVgHVeSH3ZA.jpeg)
 
 “Since this morning, around 70 residents in the \#Melilla juvenile center have demonstrated in front of the welfare counseling building calling for the end of the \#Bureaucratic Boycott and the \#Administrative Obstacles who suffer to see their rights fulfilled
 @ NoNameKitchen1” Photo by [Solidarity Wheels](https://twitter.com/SolidaryW/status/1318100516363247622)
@@ -135,7 +135,7 @@ Orbán took advantage of this feeling of being threatened to win reelection on t
 ![“Prohibition to distribute food and food in the city centre and in Beaumarais: the third copy of the prefect of Pas\-de\-Calais is published\!
 Not surprisingly, the distribution perimeter is further expanded from October 20th \(quai de la Loire and quai Paul Devot, and a few more streets in the Beaumarais district\), and this new order runs until November 16th\.
 We’ll have to adapt, move our hot meal distribution again, which will force Calais survivors to travel even further\.
-Note that the two marauds of Active Life \(distribution of meals paid by the state\) carefully avoid downtown\. These distributions only affect 200 to 250 exiled people while their total number is around 600\.” Photo by [L’Auberge des Migrants](https://www.facebook.com/AubergeMigrants/posts/10158378619650339)](assets/f2f6a7b8ac5c/1*3fTm5uvz-YfjP493SCEShg.jpeg)
+Note that the two marauds of Active Life \(distribution of meals paid by the state\) carefully avoid downtown\. These distributions only affect 200 to 250 exiled people while their total number is around 600\.” Photo by [L’Auberge des Migrants](https://www.facebook.com/AubergeMigrants/posts/10158378619650339)](../assets/f2f6a7b8ac5c/1*3fTm5uvz-YfjP493SCEShg.jpeg)
 
 “Prohibition to distribute food and food in the city centre and in Beaumarais: the third copy of the prefect of Pas\-de\-Calais is published\!
 Not surprisingly, the distribution perimeter is further expanded from October 20th \(quai de la Loire and quai Paul Devot, and a few more streets in the Beaumarais district\), and this new order runs until November 16th\.
@@ -157,7 +157,7 @@ Note that the two marauds of Active Life \(distribution of meals paid by the sta
 ![“ **We urgently need phones to distribute to refugees and displaced people living rough in Calais and Dunkirk\.** 
 A phone is a real lifeline for the people we support but our stocks are currently very low so we are launching our \#phonechampions campaign, asking you lovely lot to organise collections in your local areas and networks\. Our friends Choose Love are kindly allowing us to direct our \#phonechampions to drop off the phones they collect at their donation points, which will then be transported out to us in Northern France\.
 We know that lockdown has been very difficult for many of us financially and so lots of people aren’t in a position to donate money right now but we also know that loads of us have an old mobile or two tucked away in a drawer and forgotten about and we would love to get our hands on them\!
-If you would like to become a \#phonechampion then you can send an email to [eli@refugeeinfobus\.com](mailto:eli@refugeeinfobus.com) to request an information pack and social media kit or to ask any questions you may have\.” Photo by [Refugee Info Bus](https://www.facebook.com/RefugeeInfoBus/posts/2840971199471623)](assets/f2f6a7b8ac5c/1*DxIpEFUQJ8bDwWBPXcOedg.jpeg)
+If you would like to become a \#phonechampion then you can send an email to [eli@refugeeinfobus\.com](mailto:eli@refugeeinfobus.com) to request an information pack and social media kit or to ask any questions you may have\.” Photo by [Refugee Info Bus](https://www.facebook.com/RefugeeInfoBus/posts/2840971199471623)](../assets/f2f6a7b8ac5c/1*DxIpEFUQJ8bDwWBPXcOedg.jpeg)
 
 “ **We urgently need phones to distribute to refugees and displaced people living rough in Calais and Dunkirk\.** 
 A phone is a real lifeline for the people we support but our stocks are currently very low so we are launching our \#phonechampions campaign, asking you lovely lot to organise collections in your local areas and networks\. Our friends Choose Love are kindly allowing us to direct our \#phonechampions to drop off the phones they collect at their donation points, which will then be transported out to us in Northern France\.
@@ -166,7 +166,7 @@ If you would like to become a \#phonechampion then you can send an email to [eli
 #### UK
 
 
-![Photo by [Paul Childs/Reuters](https://www.theguardian.com/uk-news/2020/aug/17/kent-unable-to-take-in-more-unaccompanied-child-refugees)](assets/f2f6a7b8ac5c/1*GLYKBBqdogpyCL3gAgxNEA.jpeg)
+![Photo by [Paul Childs/Reuters](https://www.theguardian.com/uk-news/2020/aug/17/kent-unable-to-take-in-more-unaccompanied-child-refugees)](../assets/f2f6a7b8ac5c/1*GLYKBBqdogpyCL3gAgxNEA.jpeg)
 
 Photo by [Paul Childs/Reuters](https://www.theguardian.com/uk-news/2020/aug/17/kent-unable-to-take-in-more-unaccompanied-child-refugees)
 ### A government watchdog warns that unaccompanied children are being held for days without access to showers or beds

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily News Digest 12/06: Where are refugees now?
+title: "AYS Daily News Digest 12/06: Where are refugees now?"
 author: Are You Syrious?
 date: 2016-06-13T01:18:22.342+0100
 last_modified_at: 2016-06-13T01:52:30.267+0100
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe,syria]
 description: General
 image:
-  path: assets/166860852dcd/1*GRl1L2KgrMWwV2qiwvODCw.jpeg
+  path: ../assets/166860852dcd/1*GRl1L2KgrMWwV2qiwvODCw.jpeg
 ---
 
 ### AYS Daily News Digest 12/06: Where are refugees now?
 
 
-![Credits: [**Guillem Cabra Cortès**](https://www.facebook.com/guillemcabra?fref=photo)](assets/166860852dcd/1*GRl1L2KgrMWwV2qiwvODCw.jpeg)
+![Credits: [**Guillem Cabra Cortès**](https://www.facebook.com/guillemcabra?fref=photo)](../assets/166860852dcd/1*GRl1L2KgrMWwV2qiwvODCw.jpeg)
 
 Credits: [**Guillem Cabra Cortès**](https://www.facebook.com/guillemcabra?fref=photo)
 #### General
@@ -54,12 +54,12 @@ Credits: [**Guillem Cabra Cortès**](https://www.facebook.com/guillemcabra?fref=
 
 
 
-![Idlib is burning\. Credits: [**Abdullateef Khaled**](https://www.facebook.com/BroAbdullateef/?fref=photo)](assets/166860852dcd/1*ZN-zuFzN3YHys4l6utaHSQ.jpeg)
+![Idlib is burning\. Credits: [**Abdullateef Khaled**](https://www.facebook.com/BroAbdullateef/?fref=photo)](../assets/166860852dcd/1*ZN-zuFzN3YHys4l6utaHSQ.jpeg)
 
 Idlib is burning\. Credits: [**Abdullateef Khaled**](https://www.facebook.com/BroAbdullateef/?fref=photo)
 
 
-![50 people, including children, were killed today in Idlib\. Credits: [**Abdullateef Khaled**](https://www.facebook.com/BroAbdullateef/?fref=photo)](assets/166860852dcd/1*NIlxnzrNUpkjW2_pmPNxjw.jpeg)
+![50 people, including children, were killed today in Idlib\. Credits: [**Abdullateef Khaled**](https://www.facebook.com/BroAbdullateef/?fref=photo)](../assets/166860852dcd/1*NIlxnzrNUpkjW2_pmPNxjw.jpeg)
 
 50 people, including children, were killed today in Idlib\. Credits: [**Abdullateef Khaled**](https://www.facebook.com/BroAbdullateef/?fref=photo)
 
@@ -69,58 +69,58 @@ A [video](https://video-ams3-1.xx.fbcdn.net/v/t42.1790-2/13450560_14993957875252
 [Here](http://syria.liveuamap.com/)
 
 
-![Credits: Liveuamap](assets/166860852dcd/1*zQDMkQySSzrDHFhd-qF6-Q.png)
+![Credits: Liveuamap](../assets/166860852dcd/1*zQDMkQySSzrDHFhd-qF6-Q.png)
 
 Credits: Liveuamap
 #### Greece
 ### EKO Gas station in Polykastro is to be evicted soon
 
 
-![Credits: [**Guillem Cabra Cortès**](https://www.facebook.com/guillemcabra?fref=photo)](assets/166860852dcd/1*FdVS7wF4F-BNsU_Iy4IzTg.jpeg)
+![Credits: [**Guillem Cabra Cortès**](https://www.facebook.com/guillemcabra?fref=photo)](../assets/166860852dcd/1*FdVS7wF4F-BNsU_Iy4IzTg.jpeg)
 
 Credits: [**Guillem Cabra Cortès**](https://www.facebook.com/guillemcabra?fref=photo)
 
 
-![Credits: [**Guillem Cabra Cortès**](https://www.facebook.com/guillemcabra?fref=photo)](assets/166860852dcd/1*aI0eod1s1DEBkmKiWWhGvg.jpeg)
+![Credits: [**Guillem Cabra Cortès**](https://www.facebook.com/guillemcabra?fref=photo)](../assets/166860852dcd/1*aI0eod1s1DEBkmKiWWhGvg.jpeg)
 
 Credits: [**Guillem Cabra Cortès**](https://www.facebook.com/guillemcabra?fref=photo)
 
 
-![Credits: [**Guillem Cabra Cortès**](https://www.facebook.com/guillemcabra?fref=photo)](assets/166860852dcd/1*mw6xcPY1XTehCJCedU5uDw.jpeg)
+![Credits: [**Guillem Cabra Cortès**](https://www.facebook.com/guillemcabra?fref=photo)](../assets/166860852dcd/1*mw6xcPY1XTehCJCedU5uDw.jpeg)
 
 Credits: [**Guillem Cabra Cortès**](https://www.facebook.com/guillemcabra?fref=photo)
 
 
-![Credits: [**Guillem Cabra Cortès**](https://www.facebook.com/guillemcabra?fref=photo)](assets/166860852dcd/1*5ev4a_fEZelUWT7KWkGUgQ.jpeg)
+![Credits: [**Guillem Cabra Cortès**](https://www.facebook.com/guillemcabra?fref=photo)](../assets/166860852dcd/1*5ev4a_fEZelUWT7KWkGUgQ.jpeg)
 
 Credits: [**Guillem Cabra Cortès**](https://www.facebook.com/guillemcabra?fref=photo)
 
 
-![Credits: [**Guillem Cabra Cortès**](https://www.facebook.com/guillemcabra?fref=photo)](assets/166860852dcd/1*lEZAMIxQHsBYyIh9Evi_fA.jpeg)
+![Credits: [**Guillem Cabra Cortès**](https://www.facebook.com/guillemcabra?fref=photo)](../assets/166860852dcd/1*lEZAMIxQHsBYyIh9Evi_fA.jpeg)
 
 Credits: [**Guillem Cabra Cortès**](https://www.facebook.com/guillemcabra?fref=photo)
 
 
-![Credits: [**Guillem Cabra Cortès**](https://www.facebook.com/guillemcabra?fref=photo)](assets/166860852dcd/1*7uGSL4nt9gRvCyrCH8AuQw.jpeg)
+![Credits: [**Guillem Cabra Cortès**](https://www.facebook.com/guillemcabra?fref=photo)](../assets/166860852dcd/1*7uGSL4nt9gRvCyrCH8AuQw.jpeg)
 
 Credits: [**Guillem Cabra Cortès**](https://www.facebook.com/guillemcabra?fref=photo)
 
 
-![Credits: [**Guillem Cabra Cortès**](https://www.facebook.com/guillemcabra?fref=photo)](assets/166860852dcd/1*MInv4NxXP7Q7ZxhjfF8NMg.jpeg)
+![Credits: [**Guillem Cabra Cortès**](https://www.facebook.com/guillemcabra?fref=photo)](../assets/166860852dcd/1*MInv4NxXP7Q7ZxhjfF8NMg.jpeg)
 
 Credits: [**Guillem Cabra Cortès**](https://www.facebook.com/guillemcabra?fref=photo)
 
 
-![Credits: [**Guillem Cabra Cortès**](https://www.facebook.com/guillemcabra?fref=photo)](assets/166860852dcd/1*0-XMPoDBJItTNdctU7f8aw.jpeg)
+![Credits: [**Guillem Cabra Cortès**](https://www.facebook.com/guillemcabra?fref=photo)](../assets/166860852dcd/1*0-XMPoDBJItTNdctU7f8aw.jpeg)
 
 Credits: [**Guillem Cabra Cortès**](https://www.facebook.com/guillemcabra?fref=photo)
 
 
-![](assets/166860852dcd/1*Rm5DXpbkWtZIvZoLt4WEDQ.jpeg)
+![](../assets/166860852dcd/1*Rm5DXpbkWtZIvZoLt4WEDQ.jpeg)
 
 
 
-![Credits: [**Guillem Cabra Cortès**](https://www.facebook.com/guillemcabra?fref=photo)](assets/166860852dcd/1*AEGoTHxlul9oyjV0X-OaXg.jpeg)
+![Credits: [**Guillem Cabra Cortès**](https://www.facebook.com/guillemcabra?fref=photo)](../assets/166860852dcd/1*AEGoTHxlul9oyjV0X-OaXg.jpeg)
 
 Credits: [**Guillem Cabra Cortès**](https://www.facebook.com/guillemcabra?fref=photo)
 ### [Call](https://noborderkitchenlesvos.noblogs.org/call-out/) for support by No Border Kitchen Lesvos in Mytilini, Lesvos
@@ -144,11 +144,11 @@ The station powers 3600 phones per month \(120 per day\) \. They have already in
 Their hope is to scale this project up to maximize our impact not only in Greece but also across the world where it may be needed\. If you would like to help them with the last push of our crowd funding campaign please visit this [link](https://www.indiegogo.com/projects/project-elpis) \!
 
 
-![](assets/166860852dcd/1*RK9P_ZGM2DaURphbvlSntw.jpeg)
+![](../assets/166860852dcd/1*RK9P_ZGM2DaURphbvlSntw.jpeg)
 
 
 
-![Elpis project\. Credits: [**Sam Cortese**](https://www.facebook.com/sam.corte?fref=photo)](assets/166860852dcd/1*UrcsHt7lyMn0i7YZrMiVkg.jpeg)
+![Elpis project\. Credits: [**Sam Cortese**](https://www.facebook.com/sam.corte?fref=photo)](../assets/166860852dcd/1*UrcsHt7lyMn0i7YZrMiVkg.jpeg)
 
 Elpis project\. Credits: [**Sam Cortese**](https://www.facebook.com/sam.corte?fref=photo)
 ### Preregistration has started in Oreokastro and Elliniko
@@ -191,7 +191,7 @@ Elpis project\. Credits: [**Sam Cortese**](https://www.facebook.com/sam.corte?fr
 
 
 
-![The pre\-registration bracelet\. Credits: Moving Europe](assets/166860852dcd/1*7Z-OcjSb3WMMdkLHeQVEGQ.jpeg)
+![The pre\-registration bracelet\. Credits: Moving Europe](../assets/166860852dcd/1*7Z-OcjSb3WMMdkLHeQVEGQ.jpeg)
 
 The pre\-registration bracelet\. Credits: Moving Europe
 ### UNHCR has published a [fact sheet](http://data.unhcr.org/mediterranean/documents.php?page=1&view=list) about their work in Greece for the period of 1 January — 31 May 2016
@@ -212,7 +212,7 @@ The pre\-registration bracelet\. Credits: Moving Europe
 
 
 
-![Credits: AYS](assets/166860852dcd/1*jwWZaBkchfAQtmYnWuKhIQ.jpeg)
+![Credits: AYS](../assets/166860852dcd/1*jwWZaBkchfAQtmYnWuKhIQ.jpeg)
 
 Credits: AYS
 ### Refugees are paying smugglers to take them back home
@@ -319,7 +319,7 @@ Last night 60 people got off at the port of Mythimnas, who were picked up by a C
 
 
 
-![Refugees stranded at Sebian\-Hungarian border\. Credits: The Hungarian Helsinki Committee](assets/166860852dcd/1*ON19kCu_a07YEjrh3Zf_Zw.jpeg)
+![Refugees stranded at Sebian\-Hungarian border\. Credits: The Hungarian Helsinki Committee](../assets/166860852dcd/1*ON19kCu_a07YEjrh3Zf_Zw.jpeg)
 
 Refugees stranded at Sebian\-Hungarian border\. Credits: The Hungarian Helsinki Committee
 #### Slovenia

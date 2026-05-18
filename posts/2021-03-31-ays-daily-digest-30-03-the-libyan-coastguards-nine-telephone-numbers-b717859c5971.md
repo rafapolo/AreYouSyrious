@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 30/03: The Libyan coastguard’s nine telephone numbers
+title: "AYS Daily Digest 30/03: The Libyan coastguard’s nine telephone numbers"
 author: Are You Syrious?
 date: 2021-03-31T11:50:05.480+0100
 last_modified_at: 2021-04-01T12:22:15.370+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,migration,search-and-rescue,solidarity]
 description: The aftermath of Johansson’s visit to Greece // Triggering pushback on Italian-French border // Landings in Lampedusa // Historic ruling…
 image:
-  path: assets/b717859c5971/1*MFPN2YuzYdy35UlLDumNPw.jpeg
+  path: ../assets/b717859c5971/1*MFPN2YuzYdy35UlLDumNPw.jpeg
 ---
 
 ### AYS Daily Digest 30/03/2021: The Libyan coastguard’s nine telephone numbers
@@ -15,7 +15,7 @@ image:
 ### FEATURE — Nine telephone numbers: Europe stands by as Libya, its henchman, kills people at sea
 
 
-![This is what a shipwreck looks like \(Photo: Alarm Phone\)](assets/b717859c5971/1*MFPN2YuzYdy35UlLDumNPw.jpeg)
+![This is what a shipwreck looks like \(Photo: Alarm Phone\)](../assets/b717859c5971/1*MFPN2YuzYdy35UlLDumNPw.jpeg)
 
 This is what a shipwreck looks like \(Photo: Alarm Phone\)
 

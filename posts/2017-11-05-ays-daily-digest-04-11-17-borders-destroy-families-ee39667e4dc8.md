@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 04/11/17: Borders Destroy Families
+title: "AYS Daily Digest 04/11/17: Borders Destroy Families"
 author: Are You Syrious?
 date: 2017-11-05T07:29:30.867+0000
 last_modified_at: 2017-11-05T07:36:34.947+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees]
 description: Protests continue on Lesvos and in Athens. Volunteers needed all over Greece. More than 2,560 refugees rescued over past four days.
 image:
-  path: assets/ee39667e4dc8/1*eCkeG1RTpmaS1SwSnx0Hyw.png
+  path: ../assets/ee39667e4dc8/1*eCkeG1RTpmaS1SwSnx0Hyw.png
 ---
 
 ### AYS Daily Digest 04/11/17: Borders Destroy Families
@@ -15,7 +15,7 @@ image:
 _Protests continue on Lesvos and in Athens\. Volunteers needed all over Greece\. More than 2,560 refugees rescued over past four days\._
 
 
-![Photo by [Open Borders](https://www.facebook.com/openeuborders/)](assets/ee39667e4dc8/1*eCkeG1RTpmaS1SwSnx0Hyw.png)
+![Photo by [Open Borders](https://www.facebook.com/openeuborders/)](../assets/ee39667e4dc8/1*eCkeG1RTpmaS1SwSnx0Hyw.png)
 
 Photo by [Open Borders](https://www.facebook.com/openeuborders/)
 #### Greece
@@ -28,14 +28,14 @@ Two boats with 62 people each arrived on Chios\.
 The Chios Eastern Shore Response Team has been extremely busy over the last couple of days by meeting arriving boats, providing refugees with new clothes and cleaning up the beaches\. The group is currently looking for new volunteers\.
 
 
-![Photo by Kayra Martinez](assets/ee39667e4dc8/1*i3ajVRsVvtAQVdwWkiQIzg.png)
+![Photo by Kayra Martinez](../assets/ee39667e4dc8/1*i3ajVRsVvtAQVdwWkiQIzg.png)
 
 Photo by Kayra Martinez
 
 Refugee Support Aegean adds that the temperature on Chios is now below 10 degrees at night and that there is no space for newcomers at the Vial hotspot\. [KeepTalkingGreece](http://www.keeptalkinggreece.com/) also warns of dropping temperatures all over Greece and Refugee Rescue says hypothermia is now becoming a constant danger\.
 
 
-![Photo by [Refugee Rescue](https://www.facebook.com/RefugeeRescueUK/)](assets/ee39667e4dc8/1*vy6-a9dWk-misG6NLjCZDg.png)
+![Photo by [Refugee Rescue](https://www.facebook.com/RefugeeRescueUK/)](../assets/ee39667e4dc8/1*vy6-a9dWk-misG6NLjCZDg.png)
 
 Photo by [Refugee Rescue](https://www.facebook.com/RefugeeRescueUK/)
 ### Hunger strike on Lesvos and in Athens
@@ -43,7 +43,7 @@ Photo by [Refugee Rescue](https://www.facebook.com/RefugeeRescueUK/)
 Today marks the 17th day of the occupation of Sapfous square on Lesvos and the 11th day of the hunger strike calling for transfers to the mainland in response to living conditions in Moria\.
 
 
-![Photo by Arash Hampay](assets/ee39667e4dc8/1*x7auYKtBu2i_oiWg6jVVBg.png)
+![Photo by Arash Hampay](../assets/ee39667e4dc8/1*x7auYKtBu2i_oiWg6jVVBg.png)
 
 Photo by Arash Hampay
 
@@ -52,20 +52,20 @@ Over 40 solidarity groups and organisations active on the Greek islands and main
 Today, Lesvos Lgbtiq\+ Refugee Solidarity also called for the transfer of LGBTQI\+ refugees to the mainland, arguing they are especially at risk in Moria as they face threats of homophobic and transphobic violence\.
 
 
-![](assets/ee39667e4dc8/1*-MTHtgVX4n41Q62iYwdFTQ.png)
+![](../assets/ee39667e4dc8/1*-MTHtgVX4n41Q62iYwdFTQ.png)
 
 
 The hunger strike at Syndagma Square, Athens, by seven women and seven men calling for a rapid reunification with their families in Germany, has entered its 4th day\. The group says many families have already been waiting for more than 18 months under deplorable conditions and calls on the Greek and German government to respect the legal limit of six months to reunify families from the date of acceptance\.
 
 
-![](assets/ee39667e4dc8/1*xxugxveZsKjRGT2OFsM55w.png)
+![](../assets/ee39667e4dc8/1*xxugxveZsKjRGT2OFsM55w.png)
 
 ### Volunteers needed
 
 The We Are Here Community Centre is in need of people to come and join their team of volunteers in the Nea Kavala refugee camp, Northern Greece\. We Are Here runs a range of educational and recreational activities for adults and children — English classes, sports, arts and crafts, a library, a women’s space, cooking, dance, and music\.
 
 
-![](assets/ee39667e4dc8/1*H--nraqFH9hwXS9FLoPWNQ.png)
+![](../assets/ee39667e4dc8/1*H--nraqFH9hwXS9FLoPWNQ.png)
 
 
 The Pampiraiki group also needs volunteers to sort and distribute donations
@@ -74,7 +74,7 @@ Both short\-term and long\-term volunteers are welcome — email pampiraiki@gmai
 ### More than 2,560 refugees rescued over past four days
 
 
-![Photo by Jugend Rettet](assets/ee39667e4dc8/1*dQ4RbMV5lwrJFKTmWQb55A.png)
+![Photo by Jugend Rettet](../assets/ee39667e4dc8/1*dQ4RbMV5lwrJFKTmWQb55A.png)
 
 Photo by Jugend Rettet
 

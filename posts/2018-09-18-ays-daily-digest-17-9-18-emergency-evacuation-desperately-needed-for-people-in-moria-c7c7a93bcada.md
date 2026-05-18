@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 17/9/18: Emergency evacuation desperately needed for people in Moria
+title: "AYS Daily Digest 17/9/18: Emergency evacuation desperately needed for people in Moria"
 author: Are You Syrious?
 date: 2018-09-18T10:33:40.958+0100
 last_modified_at: 2018-09-18T16:55:47.364+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,europe,humanitarian]
 description: Severe health issues mounting up in Moria, Lesvos — urgent evacuation indispensable / Collective suicide attempt in Austrian detention…
 image:
-  path: assets/c7c7a93bcada/1*x7tEAZTO9UKWG4klSFq4vg.jpeg
+  path: ../assets/c7c7a93bcada/1*x7tEAZTO9UKWG4klSFq4vg.jpeg
 ---
 
 ### AYS Daily Digest 17/9/18: Emergency evacuation desperately needed for people in Moria
 #### Severe health issues mounting up in Moria, Lesvos — urgent evacuation indispensable / Collective suicide attempt in Austrian detention facility / EU about to send out a 10,000\-person border force to stop people from coming / New asylum\-related legislation in France / US Administration has chosen to further cut the number of refugees who will be admitted to the U\.S\. / more info and updates
 
 
-![7 [7% of children who migrate through the Mediterranean suffer abuses\.](http://www.europapress.es/epsocial/infancia/noticia-77-ninos-emigran-mediterraneo-sufre-abusos-puerta-trasera-europa-20180415112536.html) \( _Broken Childhoods_ — Photo by: [Gabriel Tizon](https://www.facebook.com/gabrieltizonfotografo/?tn-str=k%2AF) \)](assets/c7c7a93bcada/1*x7tEAZTO9UKWG4klSFq4vg.jpeg)
+![7 [7% of children who migrate through the Mediterranean suffer abuses\.](http://www.europapress.es/epsocial/infancia/noticia-77-ninos-emigran-mediterraneo-sufre-abusos-puerta-trasera-europa-20180415112536.html) \( _Broken Childhoods_ — Photo by: [Gabriel Tizon](https://www.facebook.com/gabrieltizonfotografo/?tn-str=k%2AF) \)](../assets/c7c7a93bcada/1*x7tEAZTO9UKWG4klSFq4vg.jpeg)
 
 7 [7% of children who migrate through the Mediterranean suffer abuses\.](http://www.europapress.es/epsocial/infancia/noticia-77-ninos-emigran-mediterraneo-sufre-abusos-puerta-trasera-europa-20180415112536.html) \( _Broken Childhoods_ — Photo by: [Gabriel Tizon](https://www.facebook.com/gabrieltizonfotografo/?tn-str=k%2AF) \)
 #### FEATURE — The alarming severity of the situation in Moria
@@ -22,7 +22,7 @@ image:
 The number of asylum\-seekers on Lesvos has increased to 11,053 people as 10 boats carrying a total of 615 people of various nationalities arrived at the island over the weekend\.
 
 
-![](assets/c7c7a93bcada/1*ZfoeDaK_KUfTBk5_JOPJXA.jpeg)
+![](../assets/c7c7a93bcada/1*ZfoeDaK_KUfTBk5_JOPJXA.jpeg)
 
 
 This increase in the number of arrivals at Lesvos, in combination with the disproportionately low departure rate to the mainland, is further exacerbating the extraordinarily difficult conditions and is contributing to the growing mental health burden of the people there\.
@@ -101,7 +101,7 @@ Thanks. #savinglives https://t.co/39lTRmmmtW
 After nearly two months, the Italian media [reported](http://m.ilpiccolo.gelocal.it/trieste/cronaca/2018/09/16/news/quindici-arrivi-di-richiedenti-asilo-in-24-ore-1.17256375) 15 new arrivals of asylum seekers within 24 hours to Gorizia\.
 
 
-![[Chez Jesus — Rifugio Autogestito](https://www.facebook.com/Chez-Jesus-Rifugio-Autogestito-362786637540072/?tn-str=k%2AF) is organizing a solidarity protest](assets/c7c7a93bcada/1*_qxCZi1pLd83bkhKdaq1qw.jpeg)
+![[Chez Jesus — Rifugio Autogestito](https://www.facebook.com/Chez-Jesus-Rifugio-Autogestito-362786637540072/?tn-str=k%2AF) is organizing a solidarity protest](../assets/c7c7a93bcada/1*_qxCZi1pLd83bkhKdaq1qw.jpeg)
 
 [Chez Jesus — Rifugio Autogestito](https://www.facebook.com/Chez-Jesus-Rifugio-Autogestito-362786637540072/?tn-str=k%2AF) is organizing a solidarity protest
 #### SPAIN
@@ -189,16 +189,16 @@ The [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?hc_r
 
 
 
-![](assets/c7c7a93bcada/1*5BuLjUA4IBFleMfMFG-EUw.jpeg)
+![](../assets/c7c7a93bcada/1*5BuLjUA4IBFleMfMFG-EUw.jpeg)
 
 
 
-![Photos: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?hc_ref=ARQCOB4Vt71KoUtS2jsrW0fVNJGpMBf2iaz6I_eKx_cO4gRjo-40ztPQQINNEhlU56A&fref=nf&__xts__%5B0%5D=68.ARBBlNELuOnpgHI2POpqJRZX7mRsxFaBxS3xaouK0kPTd3ZQ00b8cakbPmVmtdKCKhSX3siyNOPlN642BELHHLKbA32t1qU6R2FwYodlMdWiyO8ZQrCgUqwB2C1h91ED5AZ_CL1QHKGeW7k6jmuVOZeOnUztjOCQNjvn2LPt-NcekpSoJtcd&__tn__=kC-R)](assets/c7c7a93bcada/1*QRWyPF4wWYDuTX3QG2LEnA.jpeg)
+![Photos: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?hc_ref=ARQCOB4Vt71KoUtS2jsrW0fVNJGpMBf2iaz6I_eKx_cO4gRjo-40ztPQQINNEhlU56A&fref=nf&__xts__%5B0%5D=68.ARBBlNELuOnpgHI2POpqJRZX7mRsxFaBxS3xaouK0kPTd3ZQ00b8cakbPmVmtdKCKhSX3siyNOPlN642BELHHLKbA32t1qU6R2FwYodlMdWiyO8ZQrCgUqwB2C1h91ED5AZ_CL1QHKGeW7k6jmuVOZeOnUztjOCQNjvn2LPt-NcekpSoJtcd&__tn__=kC-R)](../assets/c7c7a93bcada/1*QRWyPF4wWYDuTX3QG2LEnA.jpeg)
 
 Photos: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?hc_ref=ARQCOB4Vt71KoUtS2jsrW0fVNJGpMBf2iaz6I_eKx_cO4gRjo-40ztPQQINNEhlU56A&fref=nf&__xts__%5B0%5D=68.ARBBlNELuOnpgHI2POpqJRZX7mRsxFaBxS3xaouK0kPTd3ZQ00b8cakbPmVmtdKCKhSX3siyNOPlN642BELHHLKbA32t1qU6R2FwYodlMdWiyO8ZQrCgUqwB2C1h91ED5AZ_CL1QHKGeW7k6jmuVOZeOnUztjOCQNjvn2LPt-NcekpSoJtcd&__tn__=kC-R)
 
 
-![](assets/c7c7a93bcada/1*GIEphUoQGnOj42_VP3oMUw.jpeg)
+![](../assets/c7c7a93bcada/1*GIEphUoQGnOj42_VP3oMUw.jpeg)
 
 
 [Help Refugees UK / L’Auberge Des Migrants](https://www.charityjob.co.uk/recruiter/help-refugees-uk-l-auberge-des-migrants/33648) is looking for a Communications Intern\. More info [here](https://www.charityjob.co.uk/volunteer-jobs/help-refugees-uk-l-auberge-des-migrants/communications-intern/590602?tsId=1&rankId=2) \.
@@ -210,13 +210,13 @@ On Sunday, thousands of [people demonstrated in](https://www1.wdr.de/nachrichten
 #### DENMARK
 
 
-![](assets/c7c7a93bcada/1*f-IV0XqLVUiq7YMk_QN-Qw.jpeg)
+![](../assets/c7c7a93bcada/1*f-IV0XqLVUiq7YMk_QN-Qw.jpeg)
 
 
 “Be part of showing resistance by downloading the file and printing your own A3 posters” — [Close Kærshovedgård Deportation Camp](https://www.facebook.com/CLOSEKGH/?__xts__%5B0%5D=68.ARCFVckSiAGDoihioL3QL6d5aYpOFUU69eHOe_A9Vfhag4329JpH3vPMji0E97UZX2RUy5HVqfmD4KFinKfkXFfjXMT0pphZL8Xv4_vvgF6AANb6iLefOpRP19-4Cequ2Y5wHjKt0Xx3iz-5Ibi7a5F1D2uObqa70Fb46VJ1Z2Nkl2KPJKDDXw&__tn__=k%2AF&tn-str=k%2AF)
 
 
-![](assets/c7c7a93bcada/1*XuNH0k0NOfnH_oA6Y649kw.jpeg)
+![](../assets/c7c7a93bcada/1*XuNH0k0NOfnH_oA6Y649kw.jpeg)
 
 #### UK
 

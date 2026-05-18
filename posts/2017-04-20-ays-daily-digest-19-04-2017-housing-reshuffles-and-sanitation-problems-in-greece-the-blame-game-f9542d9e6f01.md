@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 19.04.2017: Housing reshuffles and sanitation problems in Greece, the blame game.
+title: "AYS Daily Digest 19.04.2017: Housing reshuffles and sanitation problems in Greece, the blame game."
 author: Are You Syrious?
 date: 2017-04-20T06:03:43.063+0100
 last_modified_at: 2017-04-20T10:58:39.311+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: Proposed relocation of refugees throughout Greece /sanitation in Skaramangas disturbingly absent / workshops continue across Greece /…
 image:
-  path: assets/f9542d9e6f01/1*bVK4O_NAu6aWsgGBt40k6Q.jpeg
+  path: ../assets/f9542d9e6f01/1*bVK4O_NAu6aWsgGBt40k6Q.jpeg
 ---
 
 ### AYS Daily Digest 19\.04\.2017: Housing reshuffles and sanitation problems in Greece, the blame game\.
@@ -15,7 +15,7 @@ image:
 _Proposed relocation of refugees throughout Greece /sanitation in Skaramangas disturbingly absent / workshops continue across Greece / commercial vessels save refugees in the sea / German state Hessen proposes more controlled residency of refugees / New ways to coordinate and collaborate in France / Bring a refugee into your home or circle of friends in UK\._
 
 
-![Skaramangas Camp\. Photo courtesy of ART Angels Relief Team](assets/f9542d9e6f01/1*bVK4O_NAu6aWsgGBt40k6Q.jpeg)
+![Skaramangas Camp\. Photo courtesy of ART Angels Relief Team](../assets/f9542d9e6f01/1*bVK4O_NAu6aWsgGBt40k6Q.jpeg)
 
 Skaramangas Camp\. Photo courtesy of ART Angels Relief Team
 ### FEATURE: Housing reshuffles and sanitation problems in Greece, the blame game\.
@@ -39,7 +39,7 @@ Although this plan is pragmatic, there may be understandable resistance from ref
 Regardless of where refugees end up, the overloading of the current situation is evident, especially when it come to infrastructure and maintenance of camps\. On a visit to Skaramangas camp, ART Angels Relief Team snapped these photos, highlighting the worsening sanitation conditions of the camp\. In the context of how perpetually concerned official bodies across Europe are of health and sanitation when it comes to the activities of informal groups not under their control, the true hypocrisy becomes evident\.
 
 
-![Skaramangas\. Credit; ART Angels Relief Team](assets/f9542d9e6f01/1*Epx_tYN6Dlog5cqWtY_73Q.jpeg)
+![Skaramangas\. Credit; ART Angels Relief Team](../assets/f9542d9e6f01/1*Epx_tYN6Dlog5cqWtY_73Q.jpeg)
 
 Skaramangas\. Credit; ART Angels Relief Team
 
@@ -103,7 +103,7 @@ _Welcome to another update from We Are Here at Nea Kavala\. This week’s been b
 _…\._
 
 
-![Nea Kavala Photo Courtesy of We Are Here](assets/f9542d9e6f01/1*z1nMiKYucW21Ddibum4WJA.jpeg)
+![Nea Kavala Photo Courtesy of We Are Here](../assets/f9542d9e6f01/1*z1nMiKYucW21Ddibum4WJA.jpeg)
 
 Nea Kavala Photo Courtesy of We Are Here
 
@@ -114,7 +114,7 @@ _We also have a new music class, with thanks to The Shropshire Music Foundation\
 Read the full report [here](https://www.facebook.com/WeAreHereCentre/posts/1985927941628801) \.
 
 
-![Refugees play cricket behind a facade for the Belgrade Waterfront building project\. Photo Courtesy: f/VilCoyote via John Refugee](assets/f9542d9e6f01/1*nJ_V14_t7_x_3ZJoJnwP4g.jpeg)
+![Refugees play cricket behind a facade for the Belgrade Waterfront building project\. Photo Courtesy: f/VilCoyote via John Refugee](../assets/f9542d9e6f01/1*nJ_V14_t7_x_3ZJoJnwP4g.jpeg)
 
 Refugees play cricket behind a facade for the Belgrade Waterfront building project\. Photo Courtesy: f/VilCoyote via John Refugee
 ### MEDITERRANEAN SEA
@@ -137,7 +137,7 @@ The mayor of Lampedusa will be awarded the Félix Houphouët\-Boigny Peace Prize
 Baobab experience is also expecting an increase of those needing aid and has put out a call for sporting shoes \(40–44\) and jackets \(S — M\) \! Follow [their page for more details](https://www.facebook.com/BaobabExperience/posts/1307436202666462) \.
 
 
-![Lesvos Solidarity — Pikpa](assets/f9542d9e6f01/1*fjNoUhJvfJJaZBNH7qLNFQ.jpeg)
+![Lesvos Solidarity — Pikpa](../assets/f9542d9e6f01/1*fjNoUhJvfJJaZBNH7qLNFQ.jpeg)
 
 Lesvos Solidarity — Pikpa
 ### GERMANY
@@ -162,7 +162,7 @@ _Anne Hidalgo, the mayor of Paris said she is worried about the situation and re
 [**Refugee Community Kitchen**](https://www.facebook.com/refugeeCkitchen/?fref=nf) conducted a salvage mission from Dunkirk camp, searching for any and all renewable material\. Keep up the good work\!
 
 
-![](assets/f9542d9e6f01/1*yTN52tssoQAJSk70u5zzww.jpeg)
+![](../assets/f9542d9e6f01/1*yTN52tssoQAJSk70u5zzww.jpeg)
 
 
 

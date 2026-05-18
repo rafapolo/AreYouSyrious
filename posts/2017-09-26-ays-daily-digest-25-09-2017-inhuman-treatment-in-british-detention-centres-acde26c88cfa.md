@@ -7,7 +7,7 @@ categories:
 tags: [refugees,detention-centres,g4s,gorizia,calais]
 description: New arrivals and new rescues on the Mediterranean and the Aegean route /// news from Rome and Gorizia in Italy, Belgium, Germany and France
 image:
-  path: assets/acde26c88cfa/1*15NK4up1ylfxzjxPPEvhNA.jpeg
+  path: ../assets/acde26c88cfa/1*15NK4up1ylfxzjxPPEvhNA.jpeg
 ---
 
 ### AYS Daily Digest 25/09/2017 Inhuman treatment in British detention centres
@@ -15,7 +15,7 @@ image:
 New arrivals and new rescues on the Mediterranean and the Aegean route /// news from Rome and Gorizia in Italy, Belgium, Germany and France
 
 
-![One of the 44 drawings of refugees who arrived at Rethymnon, Crete\. No Borders\.](assets/acde26c88cfa/1*-uwl4oL2oPmwNzHIc1_b4A.jpeg)
+![One of the 44 drawings of refugees who arrived at Rethymnon, Crete\. No Borders\.](../assets/acde26c88cfa/1*-uwl4oL2oPmwNzHIc1_b4A.jpeg)
 
 One of the 44 drawings of refugees who arrived at Rethymnon, Crete\. No Borders\.
 
@@ -70,7 +70,7 @@ In the first eight months of 2017 the number of people ‘detected’ by Frontex
 **Turkey**
 
 
-![](assets/acde26c88cfa/1*KEguf-1SE2Zf2x9xV42ZHA.jpeg)
+![](../assets/acde26c88cfa/1*KEguf-1SE2Zf2x9xV42ZHA.jpeg)
 
 
 AYS does not normally share personal donate stories but this one is particularly urgent\. Iman and her daughter Lulu are trying to get to Canada and need to raise $22k Canadian \($18,200 US\) by September 30th to secure their spots on the Canadian SAH \(Sponsorship Agreement Holder\) program, which would allow them to immigrate to Canada\. Iman is a single mother with three older sons and her daughter Lulu, who has Down Syndrome\.
@@ -165,15 +165,15 @@ The volunteer can work from Greece or remotely\. Please contact — Hestiahellas
 **Islands**
 
 
-![](assets/acde26c88cfa/1*15NK4up1ylfxzjxPPEvhNA.jpeg)
+![](../assets/acde26c88cfa/1*15NK4up1ylfxzjxPPEvhNA.jpeg)
 
 
 
-![](assets/acde26c88cfa/1*NyheLRs-24_2vM_zpR2f-A.jpeg)
+![](../assets/acde26c88cfa/1*NyheLRs-24_2vM_zpR2f-A.jpeg)
 
 
 
-![\(Petros Papadakis\)](assets/acde26c88cfa/1*O9WrG2XQP5FhEqeZUZ6Ukw.jpeg)
+![\(Petros Papadakis\)](../assets/acde26c88cfa/1*O9WrG2XQP5FhEqeZUZ6Ukw.jpeg)
 
 \(Petros Papadakis\)
 
@@ -221,7 +221,7 @@ It will be held every Saturday morning at Circolo ARCI Miskappa and it will help
 [Donations needed](https://web.facebook.com/permalink.php?story_fbid=1509658732460421&id=1245970425495921&hc_location=ufi) \!
 
 
-![L’altra Voce](assets/acde26c88cfa/1*Ut5AZlmzrjxsFOPaE3XOtg.jpeg)
+![L’altra Voce](../assets/acde26c88cfa/1*Ut5AZlmzrjxsFOPaE3XOtg.jpeg)
 
 L’altra Voce
 
@@ -354,7 +354,7 @@ Volunteers in Calais are still [witnessing](https://web.facebook.com/groups/1230
 
 
 
-![Mobile refugee support](assets/acde26c88cfa/1*5E1TlZRP8PtsoOArEAHjXQ.jpeg)
+![Mobile refugee support](../assets/acde26c88cfa/1*5E1TlZRP8PtsoOArEAHjXQ.jpeg)
 
 Mobile refugee support
 

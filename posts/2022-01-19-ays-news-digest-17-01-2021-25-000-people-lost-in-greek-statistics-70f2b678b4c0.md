@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 17/01/2021: 25,000 people lost in Greek statistics
+title: "AYS News Digest 17/01/2021: 25,000 people lost in Greek statistics"
 author: Are You Syrious?
 date: 2022-01-19T17:50:37.062+0000
 last_modified_at: 2022-01-19T17:50:37.062+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,uk,mediterranean]
 description: Coast Guard counts 29,000 rescues, government roughly 4000 arrivals // New tragedies in the Mediterranean and the Channel // Freezing…
 image:
-  path: assets/70f2b678b4c0/0*ifg2-M_POhiaqhj7.jpeg
+  path: ../assets/70f2b678b4c0/0*ifg2-M_POhiaqhj7.jpeg
 ---
 
 ### AYS News Digest 17/01/2021: 25,000 people lost in Greek statistics
 ### Coast Guard counts 29,000 rescues, government roughly 4000 arrivals // New tragedies in the Mediterranean and the Channel // Freezing temperatures in Bosnia and new evictions in Calais // UK plans resettlement deal with Rwanda and armed forces in the Channel
 
 
-![](assets/70f2b678b4c0/0*dSxMpwYHqwx69wIh.jpeg)
+![](../assets/70f2b678b4c0/0*dSxMpwYHqwx69wIh.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----f9ba4e7a4a31-----------------------------------)
@@ -22,7 +22,7 @@ image:
 [Jan 18](ays-news-digest-17-01-2021-25-000-people-lost-in-greek-statistics-f9ba4e7a4a31?source=post_page-----f9ba4e7a4a31-----------------------------------) · 4 min read
 
 
-![](assets/70f2b678b4c0/0*ifg2-M_POhiaqhj7.jpeg)
+![](../assets/70f2b678b4c0/0*ifg2-M_POhiaqhj7.jpeg)
 
 
 Some 25,000 people are missing in the Greek arrival statistics\. Credits: [Twitter/Aegean Boat Report](https://twitter.com/ABoatReport/status/1345820991684022274)

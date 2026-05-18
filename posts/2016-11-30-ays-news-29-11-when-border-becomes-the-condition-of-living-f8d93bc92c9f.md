@@ -1,5 +1,5 @@
 ---
-title: AYS News 29/11: When border becomes the condition of living
+title: "AYS News 29/11: When border becomes the condition of living"
 author: Are You Syrious?
 date: 2016-11-30T00:16:45.176+0000
 last_modified_at: 2016-11-30T00:16:45.176+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,refugee-crisis,syrian-refugees]
 description: What does it mean to build a wall at the international border; what consequences does it have and how we can bring it down, how we brought…
 image:
-  path: assets/f8d93bc92c9f/0*vpoOi7Ebz8txqncf.jpg
+  path: ../assets/f8d93bc92c9f/0*vpoOi7Ebz8txqncf.jpg
 ---
 
 ### AYS News 29/11: When border becomes the condition of living
@@ -19,7 +19,7 @@ image:
 
 
 
-![](assets/f8d93bc92c9f/0*vpoOi7Ebz8txqncf.jpg)
+![](../assets/f8d93bc92c9f/0*vpoOi7Ebz8txqncf.jpg)
 
 #### Greece
 
@@ -34,36 +34,36 @@ Withal, walls exercise a particular type of violence upon people’s livelihoods
 It has been excessively windy and rainy in eastern Greece today\. These are homes in which people lived through the today’s eastern Greece winds and rain:
 
 
-![Credits: [**Leslie Meral Schick**](https://www.facebook.com/leslie.schick)](assets/f8d93bc92c9f/0*3l9bJo3dRyL18FQt.)
+![Credits: [**Leslie Meral Schick**](https://www.facebook.com/leslie.schick)](../assets/f8d93bc92c9f/0*3l9bJo3dRyL18FQt.)
 
 Credits: [**Leslie Meral Schick**](https://www.facebook.com/leslie.schick)
 
 The rain destroyed many tent\-homes to refugees in Samos, leaving them without even that thin roof of fabric they had above their heads\. This is Samos today, after it has rained for two days continuously:
 
 
-![Credits: [**Mohammed Abdullah**](https://www.facebook.com/profile.php?id=100013475689112)](assets/f8d93bc92c9f/0*dE2HRsUEjwqMuMd2.)
+![Credits: [**Mohammed Abdullah**](https://www.facebook.com/profile.php?id=100013475689112)](../assets/f8d93bc92c9f/0*dE2HRsUEjwqMuMd2.)
 
 Credits: [**Mohammed Abdullah**](https://www.facebook.com/profile.php?id=100013475689112)
 
 
-![Credits: [**Mohammed Abdullah**](https://www.facebook.com/profile.php?id=100013475689112)](assets/f8d93bc92c9f/0*gJW0Vqj4rwe_-YU2.)
+![Credits: [**Mohammed Abdullah**](https://www.facebook.com/profile.php?id=100013475689112)](../assets/f8d93bc92c9f/0*gJW0Vqj4rwe_-YU2.)
 
 Credits: [**Mohammed Abdullah**](https://www.facebook.com/profile.php?id=100013475689112)
 
 
-![Credits: [**Mohammed Abdullah**](https://www.facebook.com/profile.php?id=100013475689112)](assets/f8d93bc92c9f/0*1wETuGG2Z6uXeHAk.)
+![Credits: [**Mohammed Abdullah**](https://www.facebook.com/profile.php?id=100013475689112)](../assets/f8d93bc92c9f/0*1wETuGG2Z6uXeHAk.)
 
 Credits: [**Mohammed Abdullah**](https://www.facebook.com/profile.php?id=100013475689112)
 
 
-![Credits: [**Mohammed Abdullah**](https://www.facebook.com/profile.php?id=100013475689112)](assets/f8d93bc92c9f/0*XHTiuPepdZmTpZQe.)
+![Credits: [**Mohammed Abdullah**](https://www.facebook.com/profile.php?id=100013475689112)](../assets/f8d93bc92c9f/0*XHTiuPepdZmTpZQe.)
 
 Credits: [**Mohammed Abdullah**](https://www.facebook.com/profile.php?id=100013475689112)
 
 Yet the wall in Samos still stands strong and mercilessly…
 
 
-![Credits: [**Mohammed Abdullah**](https://www.facebook.com/profile.php?id=100013475689112)](assets/f8d93bc92c9f/0*TkcEbv4rsG0xfPQv.)
+![Credits: [**Mohammed Abdullah**](https://www.facebook.com/profile.php?id=100013475689112)](../assets/f8d93bc92c9f/0*TkcEbv4rsG0xfPQv.)
 
 Credits: [**Mohammed Abdullah**](https://www.facebook.com/profile.php?id=100013475689112)
 
@@ -79,47 +79,47 @@ One volunteer in Greece writes:
 The following situation in Thessaloniki might be similar to what the mentioned volunteer was seeing\.
 
 
-![Credits: [**Amir Karimi**](https://www.facebook.com/amir.spn)](assets/f8d93bc92c9f/0*07wmasxhO4V94b51.)
+![Credits: [**Amir Karimi**](https://www.facebook.com/amir.spn)](../assets/f8d93bc92c9f/0*07wmasxhO4V94b51.)
 
 Credits: [**Amir Karimi**](https://www.facebook.com/amir.spn)
 
 
-![Credits: [**Amir Karimi**](https://www.facebook.com/amir.spn)](assets/f8d93bc92c9f/0*2mGAg-biOX-MDxsU.)
+![Credits: [**Amir Karimi**](https://www.facebook.com/amir.spn)](../assets/f8d93bc92c9f/0*2mGAg-biOX-MDxsU.)
 
 Credits: [**Amir Karimi**](https://www.facebook.com/amir.spn)
 
 
-![Credits: [**Amir Karimi**](https://www.facebook.com/amir.spn)](assets/f8d93bc92c9f/0*8HDRzWlPNE0zU93J.)
+![Credits: [**Amir Karimi**](https://www.facebook.com/amir.spn)](../assets/f8d93bc92c9f/0*8HDRzWlPNE0zU93J.)
 
 Credits: [**Amir Karimi**](https://www.facebook.com/amir.spn)
 
 
-![Credits: [**Amir Karimi**](https://www.facebook.com/amir.spn)](assets/f8d93bc92c9f/0*6gCR8hw4LoSAvveH.)
+![Credits: [**Amir Karimi**](https://www.facebook.com/amir.spn)](../assets/f8d93bc92c9f/0*6gCR8hw4LoSAvveH.)
 
 Credits: [**Amir Karimi**](https://www.facebook.com/amir.spn)
 
 
-![Credits: [**Amir Karimi**](https://www.facebook.com/amir.spn)](assets/f8d93bc92c9f/0*tu4C5l97GHFg5tgs.)
+![Credits: [**Amir Karimi**](https://www.facebook.com/amir.spn)](../assets/f8d93bc92c9f/0*tu4C5l97GHFg5tgs.)
 
 Credits: [**Amir Karimi**](https://www.facebook.com/amir.spn)
 
 
-![Credits: [**Amir Karimi**](https://www.facebook.com/amir.spn)](assets/f8d93bc92c9f/0*zEJ-tHUyBsjlEfu2.)
+![Credits: [**Amir Karimi**](https://www.facebook.com/amir.spn)](../assets/f8d93bc92c9f/0*zEJ-tHUyBsjlEfu2.)
 
 Credits: [**Amir Karimi**](https://www.facebook.com/amir.spn)
 
 
-![Credits: [**Amir Karimi**](https://www.facebook.com/amir.spn)](assets/f8d93bc92c9f/0*v8hBD1R_a67IzGI2.)
+![Credits: [**Amir Karimi**](https://www.facebook.com/amir.spn)](../assets/f8d93bc92c9f/0*v8hBD1R_a67IzGI2.)
 
 Credits: [**Amir Karimi**](https://www.facebook.com/amir.spn)
 
 
-![Credits: [**Amir Karimi**](https://www.facebook.com/amir.spn)](assets/f8d93bc92c9f/0*Pr2v_OW7ae94vOn-.)
+![Credits: [**Amir Karimi**](https://www.facebook.com/amir.spn)](../assets/f8d93bc92c9f/0*Pr2v_OW7ae94vOn-.)
 
 Credits: [**Amir Karimi**](https://www.facebook.com/amir.spn)
 
 
-![Credits: [**Amir Karimi**](https://www.facebook.com/amir.spn)](assets/f8d93bc92c9f/0*uHLFqyg0Na2reXC-.)
+![Credits: [**Amir Karimi**](https://www.facebook.com/amir.spn)](../assets/f8d93bc92c9f/0*uHLFqyg0Na2reXC-.)
 
 Credits: [**Amir Karimi**](https://www.facebook.com/amir.spn)
 
@@ -161,22 +161,22 @@ Indeed, winter is here\. Since last night the weather conditions are very diffic
 Refugees in Serbia have been experiencing the same\. The photographer found refugees eating lunch near the abandoned depot that serves as a shelter\. Others are trying to sleep on the cold sreets of Belgrade\.
 
 
-![Credits: [**Art Against**](https://www.facebook.com/artagainstproject/)](assets/f8d93bc92c9f/0*1mvIEz_QpsauYDYD.jpg)
+![Credits: [**Art Against**](https://www.facebook.com/artagainstproject/)](../assets/f8d93bc92c9f/0*1mvIEz_QpsauYDYD.jpg)
 
 Credits: [**Art Against**](https://www.facebook.com/artagainstproject/)
 
 
-![Credits: [**Art Against**](https://www.facebook.com/artagainstproject/)](assets/f8d93bc92c9f/0*l8FEb7COF1516gBG.jpg)
+![Credits: [**Art Against**](https://www.facebook.com/artagainstproject/)](../assets/f8d93bc92c9f/0*l8FEb7COF1516gBG.jpg)
 
 Credits: [**Art Against**](https://www.facebook.com/artagainstproject/)
 
 
-![Credits: [**Art Against**](https://www.facebook.com/artagainstproject/)](assets/f8d93bc92c9f/0*CGt9grnjFtRPKymc.jpg)
+![Credits: [**Art Against**](https://www.facebook.com/artagainstproject/)](../assets/f8d93bc92c9f/0*CGt9grnjFtRPKymc.jpg)
 
 Credits: [**Art Against**](https://www.facebook.com/artagainstproject/)
 
 
-![Credits: [**Art Against**](https://www.facebook.com/artagainstproject/)](assets/f8d93bc92c9f/0*ULXQIWb8r9jSYOva.jpg)
+![Credits: [**Art Against**](https://www.facebook.com/artagainstproject/)](../assets/f8d93bc92c9f/0*ULXQIWb8r9jSYOva.jpg)
 
 Credits: [**Art Against**](https://www.facebook.com/artagainstproject/)
 
@@ -191,32 +191,32 @@ How do we respond?
 Maybe like [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGreece/) team has today\! This morning it was 2°C in Alexandreia, even briefly snowing\. It was imperative to act quickly\. The volunteers were in the warehouse by 8am today getting ready for distribution and a delivery of 1,500 blankets, which they received from [Help Refugees](https://www.facebook.com/HelpRefugeesUK/) \. By 1pm, Refugee Support Greece delivered 3 blankets to every resident to their unheated containers\. Fantastic work by a great team\!
 
 
-![Credits: [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGreece/)](assets/f8d93bc92c9f/0*szxF9dxDdnMGgcSe.)
+![Credits: [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGreece/)](../assets/f8d93bc92c9f/0*szxF9dxDdnMGgcSe.)
 
 Credits: [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGreece/)
 
 
-![Credits: [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGreece/)](assets/f8d93bc92c9f/0*YO7h-E5q8yjQYSbN.)
+![Credits: [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGreece/)](../assets/f8d93bc92c9f/0*YO7h-E5q8yjQYSbN.)
 
 Credits: [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGreece/)
 
 
-![Credits: [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGreece/)](assets/f8d93bc92c9f/0*PU-p4hMBBaWed2yY.)
+![Credits: [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGreece/)](../assets/f8d93bc92c9f/0*PU-p4hMBBaWed2yY.)
 
 Credits: [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGreece/)
 
 
-![Credits: [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGreece/)](assets/f8d93bc92c9f/0*WEnTqGzOOWhODaLM.)
+![Credits: [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGreece/)](../assets/f8d93bc92c9f/0*WEnTqGzOOWhODaLM.)
 
 Credits: [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGreece/)
 
 
-![Credits: [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGreece/)](assets/f8d93bc92c9f/0*XiXdAqGtaG-y_g3q.)
+![Credits: [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGreece/)](../assets/f8d93bc92c9f/0*XiXdAqGtaG-y_g3q.)
 
 Credits: [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGreece/)
 
 
-![Credits: [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGreece/)](assets/f8d93bc92c9f/0*_ykeG0trQN2XRQSR.)
+![Credits: [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGreece/)](../assets/f8d93bc92c9f/0*_ykeG0trQN2XRQSR.)
 
 Credits: [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGreece/)
 
@@ -231,12 +231,12 @@ These new storage unit are designed to facilitate primary, on sight sorting\. Th
 ERCI as an organization relies heavily on the proper functioning of warehouses and supply systems\. If you have experience in construction, electrics, plumbing, carpentry, etc and wish to volunteer with their infrastructure team please visit: [www\.ercintl\.org/volunteer/](http://www.ercintl.org/volunteer/) , if you wish to donate please visit: [www\.ercintl\.org/donate/](http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.ercintl.org%2Fdonate%2F&h=mAQEH84f1AQEHpTUU1tgvb-JiHtGhGBTM8US9Xoyuk2JQIw&enc=AZOE36u0yGOSXBbWpFnX80ug3hJthj8_OA3S8uru3qbZDTXkPz-QF0gmhlhpMinAyyLGutafXMtVui61KIM_aAzZR77QWdXiefZPwODxQlgVzGkavq_S_V_FxJl-SOm34EhZ21pD6iumSYnpxBltAkpQhgAC9t9NM2q8ULpXu4ap-loUYf0Vt5QxmTn0qz9Kr8VvKo1YutRPeoYc5DXOYCmG&s=1) \.
 
 
-![Credits: [**ERCI — Emergency Response Centre International**](https://www.facebook.com/ercintl/)](assets/f8d93bc92c9f/0*sIuUMLYJj8sf2Vk5.)
+![Credits: [**ERCI — Emergency Response Centre International**](https://www.facebook.com/ercintl/)](../assets/f8d93bc92c9f/0*sIuUMLYJj8sf2Vk5.)
 
 Credits: [**ERCI — Emergency Response Centre International**](https://www.facebook.com/ercintl/)
 
 
-![Credits: [**ERCI — Emergency Response Centre International**](https://www.facebook.com/ercintl/)](assets/f8d93bc92c9f/0*tLbewxIgV7FZfQ1h.)
+![Credits: [**ERCI — Emergency Response Centre International**](https://www.facebook.com/ercintl/)](../assets/f8d93bc92c9f/0*tLbewxIgV7FZfQ1h.)
 
 Credits: [**ERCI — Emergency Response Centre International**](https://www.facebook.com/ercintl/)
 
@@ -245,7 +245,7 @@ Or as locals who protested against poor conditions at the Thessaloniki reception
 Another group of heroes consists of ‘Get Sh\*t Done’ Team which is producing raised wooden flooring in the Help Refugees Greece warehouse to protect occupants from cold and flooding\. It’s a small but extremely important step to improve living conditions\. And this is no minor operation\. In the last month, they’ve produced over 3,000m2 of new flooring\. Their work is ensuring that Greece’s often\-harsh winter is more comfortable and survivable for thousands of people\.
 
 
-![Credits: [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/)](assets/f8d93bc92c9f/0*EA6UuuuB5vlt6hwt.jpg)
+![Credits: [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/)](../assets/f8d93bc92c9f/0*EA6UuuuB5vlt6hwt.jpg)
 
 Credits: [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/)
 
@@ -280,12 +280,12 @@ Of the group, five were returned after their asylum applications were turned dow
 Refugee children in Doliana have started going to school again\!
 
 
-![Credits: [IOM Greece](https://twitter.com/IOMGREECE)](assets/f8d93bc92c9f/0*76F6TiO4UnnM9_YX.jpg)
+![Credits: [IOM Greece](https://twitter.com/IOMGREECE)](../assets/f8d93bc92c9f/0*76F6TiO4UnnM9_YX.jpg)
 
 Credits: [IOM Greece](https://twitter.com/IOMGREECE)
 
 
-![Credits: [IOM Greece](https://twitter.com/IOMGREECE)](assets/f8d93bc92c9f/0*z_w9vNy1BonGoIJ3.jpg)
+![Credits: [IOM Greece](https://twitter.com/IOMGREECE)](../assets/f8d93bc92c9f/0*z_w9vNy1BonGoIJ3.jpg)
 
 Credits: [IOM Greece](https://twitter.com/IOMGREECE)
 ### Arrivals
@@ -311,7 +311,7 @@ For more information about the Assisted Voluntary Return and Reintegration Progr
 ### How to slow the refugee crisis in Europe? Stop bombs in Syria
 
 
-![Credits: [**DOAM — Documenting Oppression Against Muslims**](https://www.facebook.com/doamuslims/)](assets/f8d93bc92c9f/0*Uw3ZhqZSBCVqJrnJ.)
+![Credits: [**DOAM — Documenting Oppression Against Muslims**](https://www.facebook.com/doamuslims/)](../assets/f8d93bc92c9f/0*Uw3ZhqZSBCVqJrnJ.)
 
 Credits: [**DOAM — Documenting Oppression Against Muslims**](https://www.facebook.com/doamuslims/)
 
@@ -320,22 +320,22 @@ Many families in besieged Aleppo are leaving their homes due the severe shelling
 25\+ more killed today in Aleppo when a regime jet launched an attack on displaced civilians fleeing by foot in Bab al\-Neyrab\.
 
 
-![Credits: [**DOAM — Documenting Oppression Against Muslims**](https://www.facebook.com/doamuslims/)](assets/f8d93bc92c9f/0*lAQb1VDtPfh04ktn.jpg)
+![Credits: [**DOAM — Documenting Oppression Against Muslims**](https://www.facebook.com/doamuslims/)](../assets/f8d93bc92c9f/0*lAQb1VDtPfh04ktn.jpg)
 
 Credits: [**DOAM — Documenting Oppression Against Muslims**](https://www.facebook.com/doamuslims/)
 
 
-![Credits: [**DOAM — Documenting Oppression Against Muslims**](https://www.facebook.com/doamuslims/)](assets/f8d93bc92c9f/0*Q3o4nWdBKfKwm6Fc.jpg)
+![Credits: [**DOAM — Documenting Oppression Against Muslims**](https://www.facebook.com/doamuslims/)](../assets/f8d93bc92c9f/0*Q3o4nWdBKfKwm6Fc.jpg)
 
 Credits: [**DOAM — Documenting Oppression Against Muslims**](https://www.facebook.com/doamuslims/)
 
 
-![Credits: [**DOAM — Documenting Oppression Against Muslims**](https://www.facebook.com/doamuslims/)](assets/f8d93bc92c9f/0*liSfOncpfTPra4cy.jpg)
+![Credits: [**DOAM — Documenting Oppression Against Muslims**](https://www.facebook.com/doamuslims/)](../assets/f8d93bc92c9f/0*liSfOncpfTPra4cy.jpg)
 
 Credits: [**DOAM — Documenting Oppression Against Muslims**](https://www.facebook.com/doamuslims/)
 
 
-![Credits: [**DOAM — Documenting Oppression Against Muslims**](https://www.facebook.com/doamuslims/)](assets/f8d93bc92c9f/0*vrAuKGNQmDZ5FPA7.jpg)
+![Credits: [**DOAM — Documenting Oppression Against Muslims**](https://www.facebook.com/doamuslims/)](../assets/f8d93bc92c9f/0*vrAuKGNQmDZ5FPA7.jpg)
 
 Credits: [**DOAM — Documenting Oppression Against Muslims**](https://www.facebook.com/doamuslims/)
 ### Aid distribution in rural Aleppo
@@ -343,12 +343,12 @@ Credits: [**DOAM — Documenting Oppression Against Muslims**](https://www.faceb
 Syria Relief team distributed parcels containing oil, rice, lentils, tomato sauce, and other food items to 437 displaced families in rural Aleppo\.
 
 
-![Credits: [**Syria Relief Operations**](https://www.facebook.com/Syria-Relief-Operations-415315011989817/)](assets/f8d93bc92c9f/0*olDYs5VTjG5oVFDX.)
+![Credits: [**Syria Relief Operations**](https://www.facebook.com/Syria-Relief-Operations-415315011989817/)](../assets/f8d93bc92c9f/0*olDYs5VTjG5oVFDX.)
 
 Credits: [**Syria Relief Operations**](https://www.facebook.com/Syria-Relief-Operations-415315011989817/)
 
 
-![Credits: [**Syria Relief Operations**](https://www.facebook.com/Syria-Relief-Operations-415315011989817/)](assets/f8d93bc92c9f/0*1zrW4teOzz5UMy0t.)
+![Credits: [**Syria Relief Operations**](https://www.facebook.com/Syria-Relief-Operations-415315011989817/)](../assets/f8d93bc92c9f/0*1zrW4teOzz5UMy0t.)
 
 Credits: [**Syria Relief Operations**](https://www.facebook.com/Syria-Relief-Operations-415315011989817/)
 #### Bulgaria
@@ -407,7 +407,7 @@ What still remains to be done after that is to wait — yet again — for the pr
 ### Summary of a refugee life in Paris
 
 
-![Credits: [**Paris Refugee Ground Support**](https://www.facebook.com/PRGS.team/)](assets/f8d93bc92c9f/0*ZwWGX5PQmwA59lNv.jpg)
+![Credits: [**Paris Refugee Ground Support**](https://www.facebook.com/PRGS.team/)](../assets/f8d93bc92c9f/0*ZwWGX5PQmwA59lNv.jpg)
 
 Credits: [**Paris Refugee Ground Support**](https://www.facebook.com/PRGS.team/)
 
@@ -437,7 +437,7 @@ Credits: [**Paris Refugee Ground Support**](https://www.facebook.com/PRGS.team/)
 
 
 
-![Credits: [**Paris Refugee Ground Support**](https://www.facebook.com/PRGS.team/)](assets/f8d93bc92c9f/0*tlzJBsl43BjRuOca.)
+![Credits: [**Paris Refugee Ground Support**](https://www.facebook.com/PRGS.team/)](../assets/f8d93bc92c9f/0*tlzJBsl43BjRuOca.)
 
 Credits: [**Paris Refugee Ground Support**](https://www.facebook.com/PRGS.team/)
 

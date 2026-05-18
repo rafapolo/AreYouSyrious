@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 26/11/20: Alarming news arriving from Lampedusa
+title: "AYS Daily Digest 26/11/20: Alarming news arriving from Lampedusa"
 author: Are You Syrious?
 date: 2020-11-28T13:48:40.288+0000
 last_modified_at: 2020-11-28T13:48:40.288+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,italy,europe,migration]
 description: Serious consequences of mismanagement in Italy / Holding Frontex responsible / Spanish ombudsman asks for the immediate closure of…
 image:
-  path: assets/e7424917c8a8/0*-9etJDS0stjqtg3F.jpg
+  path: ../assets/e7424917c8a8/0*-9etJDS0stjqtg3F.jpg
 ---
 
 ### AYS Daily Digest 26/11/20: Alarming news arriving from Lampedusa
 ### Serious consequences of mismanagement in Italy / Holding Frontex responsible / Spanish ombudsman asks for the immediate closure of Arguineguín / Sweden lists countries whose nationals have “obviously unfounded” asylum applications / recommended reads & more news
 
 
-![](assets/e7424917c8a8/0*UTZ0NyQVLuxWYyPE.jpeg)
+![](../assets/e7424917c8a8/0*UTZ0NyQVLuxWYyPE.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----ce4e46f32deb--------------------------------)
@@ -22,11 +22,11 @@ image:
 [Nov 28](ays-daily-digest-27-11-20-alarming-news-arriving-from-lampedusa-ce4e46f32deb?source=post_page-----ce4e46f32deb--------------------------------) · 6 min read
 
 
-![](assets/e7424917c8a8/0*0c23HB3b9AYKX701)
+![](../assets/e7424917c8a8/0*0c23HB3b9AYKX701)
 
 
 
-![](assets/e7424917c8a8/0*-9etJDS0stjqtg3F.jpg)
+![](../assets/e7424917c8a8/0*-9etJDS0stjqtg3F.jpg)
 
 ### FEATURED
 

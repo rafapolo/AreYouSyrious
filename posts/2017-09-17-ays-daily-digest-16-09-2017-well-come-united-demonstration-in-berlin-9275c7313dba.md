@@ -7,7 +7,7 @@ categories:
 tags: [refugees,well-come-united,berlin,mediterranean]
 description: Stranded for seven weeks on a ferry between Istanbul and Odessa /// Conditions on Greek islands aren’t changing /// Rescues in the…
 image:
-  path: assets/9275c7313dba/1*4x0hz7iWU-uU6Az_e7_1cQ.jpeg
+  path: ../assets/9275c7313dba/1*4x0hz7iWU-uU6Az_e7_1cQ.jpeg
 ---
 
 ### AYS Daily Digest 16/09/2017 We’ll Come United — Demonstration in Berlin
@@ -17,11 +17,11 @@ Stranded for seven weeks on a ferry between Istanbul and Odessa /// Conditions o
 Today up to 15,000 refugees, migrants, and supporters protested in Berlin\. After a joint speech with the alliance for sexual self\-determination at the palace, the demonstration grew and moved to the Oranien Platz in Kreuzberg\.
 
 
-![](assets/9275c7313dba/1*n6MlZacinUqMPBg3dzdRlw.jpeg)
+![](../assets/9275c7313dba/1*n6MlZacinUqMPBg3dzdRlw.jpeg)
 
 
 
-![We’ll come united photos](assets/9275c7313dba/1*y49--ZMXKoiSxQiEPSaykA.jpeg)
+![We’ll come united photos](../assets/9275c7313dba/1*y49--ZMXKoiSxQiEPSaykA.jpeg)
 
 We’ll come united photos
 
@@ -34,30 +34,30 @@ We’ll come united photos
 
 
 
-![](assets/9275c7313dba/1*4x0hz7iWU-uU6Az_e7_1cQ.jpeg)
+![](../assets/9275c7313dba/1*4x0hz7iWU-uU6Az_e7_1cQ.jpeg)
 
 
 
-![](assets/9275c7313dba/1*JgDTT6b07OuM_uM3i2piXQ.jpeg)
+![](../assets/9275c7313dba/1*JgDTT6b07OuM_uM3i2piXQ.jpeg)
 
 
 
-![](assets/9275c7313dba/1*bfGMKAbq5gXXvI0FW4cjSw.jpeg)
+![](../assets/9275c7313dba/1*bfGMKAbq5gXXvI0FW4cjSw.jpeg)
 
 
 
-![](assets/9275c7313dba/1*XLlEUYEy12jFX3brrc7geg.jpeg)
+![](../assets/9275c7313dba/1*XLlEUYEy12jFX3brrc7geg.jpeg)
 
 
 
-![We’ll come united, Melting Pot Europa, Areyousyrious? photos](assets/9275c7313dba/1*Fxu4_llaEkbX876029eOsw.jpeg)
+![We’ll come united, Melting Pot Europa, Areyousyrious? photos](../assets/9275c7313dba/1*Fxu4_llaEkbX876029eOsw.jpeg)
 
 We’ll come united, Melting Pot Europa, Areyousyrious? photos
 
 Sea Watch accompanied the demonstration carrying a dinghy from the Mediterranean Sea\.
 
 
-![Melting Pot Europa photo](assets/9275c7313dba/1*3IqWeKu9pSP0iGihNiBEZA.jpeg)
+![Melting Pot Europa photo](../assets/9275c7313dba/1*3IqWeKu9pSP0iGihNiBEZA.jpeg)
 
 Melting Pot Europa photo
 

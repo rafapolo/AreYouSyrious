@@ -1,5 +1,5 @@
 ---
-title: AYS digest 26/09: Calais to be shut down while more money is funneled to Turkey
+title: "AYS digest 26/09: Calais to be shut down while more money is funneled to Turkey"
 author: Are You Syrious?
 date: 2016-09-26T22:29:24.105+0100
 last_modified_at: 2016-09-27T20:25:33.392+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,unhcr,lesvos,hate-referendum]
 description: EU Commissioner for Humanitarian Aid and Crisis Management to visit Turkey tomorrow / UNHCR having trouble with appointments for interviews…
 image:
-  path: assets/4edb8ded00a5/1*_1-CuoGFwwdrjll8ypTFHA.jpeg
+  path: ../assets/4edb8ded00a5/1*_1-CuoGFwwdrjll8ypTFHA.jpeg
 ---
 
 ### AYS digest 26/09: Calais to be shut down while more money is funneled to Turkey
@@ -15,7 +15,7 @@ image:
 EU Commissioner for Humanitarian Aid and Crisis Management to visit Turkey tomorrow / UNHCR having trouble with appointments for interviews / Be aware of people posing as lawyers and asking for money / New deportations to Turkey from Greece / Volunteers and donations needed in Greece and France / Hungary to hold a referendum on Sunday — left wing parties and civil society organizations campaigning for abstention from the vote / Calais to be closed — vague promises made on relocation — strong measures to be upheld
 
 
-![“Jungle”, Calais](assets/4edb8ded00a5/1*_1-CuoGFwwdrjll8ypTFHA.jpeg)
+![“Jungle”, Calais](../assets/4edb8ded00a5/1*_1-CuoGFwwdrjll8ypTFHA.jpeg)
 
 “Jungle”, Calais
 #### Turkey
@@ -46,7 +46,7 @@ A dedicated group of volunteers are working at the Eleonas camp in Athens, colla
 They are also calling for any kind of help, either in the form of donations or in volunteers who have the time to assist in their vital work\.
 
 
-![Photo: Project Elea](assets/4edb8ded00a5/1*9P0K63SiJa7j3RfILWsfCw.jpeg)
+![Photo: Project Elea](../assets/4edb8ded00a5/1*9P0K63SiJa7j3RfILWsfCw.jpeg)
 
 Photo: Project Elea
 ### **Donations needed in a small squat in Thessaloniki**
@@ -56,7 +56,7 @@ Further north, a new small squat in Thessaloniki in need of some donations\. Urg
 People who wish to donate can arrange for pickups with the group, but all are also welcome to come join the residents and volunteers for tea and friendly conversation\.
 
 
-![Thessaloniki](assets/4edb8ded00a5/1*M9rjDlyH3pxBQF7Nqp8dqg.jpeg)
+![Thessaloniki](../assets/4edb8ded00a5/1*M9rjDlyH3pxBQF7Nqp8dqg.jpeg)
 
 Thessaloniki
 ### **Parents’ initiative to block refugee children attending school**
@@ -66,7 +66,7 @@ In other bad news, there is an initiative in various parts of Greece that aims t
 ### **Fear and hate referendum to be held in Hungary this Sunday**
 
 
-![Hungarian border](assets/4edb8ded00a5/1*PxLCCQXboX9MPTN94JtKlw.jpeg)
+![Hungarian border](../assets/4edb8ded00a5/1*PxLCCQXboX9MPTN94JtKlw.jpeg)
 
 Hungarian border
 
@@ -83,13 +83,13 @@ The latest numbers from Serbia have just been published by the UNHCR: “The num
 For more statistics and data, download the full [UNHCR update](https://data.unhcr.org/mediterranean/download.php?id=1955)
 
 
-![Image\. Graph from UNHCR update](assets/4edb8ded00a5/1*PAjOm0oJWFK88zqytTrgrQ.jpeg)
+![Image\. Graph from UNHCR update](../assets/4edb8ded00a5/1*PAjOm0oJWFK88zqytTrgrQ.jpeg)
 
 Image\. Graph from UNHCR update
 #### France
 
 
-![Photo borrowed from Reuters](assets/4edb8ded00a5/1*GHImmRNKQQhTVXBrWhD-aw.jpeg)
+![Photo borrowed from Reuters](../assets/4edb8ded00a5/1*GHImmRNKQQhTVXBrWhD-aw.jpeg)
 
 Photo borrowed from Reuters
 ### **“Jungle” to be closed in a month with vague promises of relocation, but assurances of government’s strong hand**

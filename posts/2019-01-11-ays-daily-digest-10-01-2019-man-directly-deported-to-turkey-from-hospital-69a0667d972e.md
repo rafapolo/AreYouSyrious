@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 10/01/2019: Man directly deported to Turkey from hospital
+title: "AYS Daily Digest 10/01/2019: Man directly deported to Turkey from hospital"
 author: Are You Syrious?
 date: 2019-01-11T00:33:56.531+0000
 last_modified_at: 2019-01-11T09:11:40.307+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,deportations,vulnerability,greece]
 description: FOOD AND MEDICINES URGENTLY NEEDED IN GREVENA, GREECE//New report by Oxfam on vulnerable refugees in Moria//Snow hit Greece//212 people…
 image:
-  path: assets/69a0667d972e/1*8EIYQZty185VQgvMKrn4UQ.jpeg
+  path: ../assets/69a0667d972e/1*8EIYQZty185VQgvMKrn4UQ.jpeg
 ---
 
 ### AYS Daily Digest 10/01/2019: Man directly deported to Turkey from hospital
@@ -15,7 +15,7 @@ image:
 _FOOD AND MEDICINE URGENTLY NEEDED IN GREVENA, GREECE // New report by Oxfam on vulnerable refugees in Moria // Snow hit Greece // 212 people are missing in the Mediterranean / /Racist raid on black people in Morocco // Man tried to set himself on fire in Libya // More news from Bosnia, Italy, France, Germany, and Sweden…_
 
 
-![Credit: Salvamento Marítimo Humanitario\. “La gente lo está pasando muy mal: muchos van en chanclas, no tienen calcetines ni ropa de abrigo suficiente\. En los contenedores están amontonados entre suciedad, con un olor que no se puede aguantar porque no pueden lavar nada”\. Vial, Chios\.](assets/69a0667d972e/1*8EIYQZty185VQgvMKrn4UQ.jpeg)
+![Credit: Salvamento Marítimo Humanitario\. “La gente lo está pasando muy mal: muchos van en chanclas, no tienen calcetines ni ropa de abrigo suficiente\. En los contenedores están amontonados entre suciedad, con un olor que no se puede aguantar porque no pueden lavar nada”\. Vial, Chios\.](../assets/69a0667d972e/1*8EIYQZty185VQgvMKrn4UQ.jpeg)
 
 Credit: Salvamento Marítimo Humanitario\. “La gente lo está pasando muy mal: muchos van en chanclas, no tienen calcetines ni ropa de abrigo suficiente\. En los contenedores están amontonados entre suciedad, con un olor que no se puede aguantar porque no pueden lavar nada”\. Vial, Chios\.
 ### FEATURE

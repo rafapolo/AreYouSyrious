@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL from Athens: “We were forced to go illegally.”
+title: "AYS SPECIAL from Athens: “We were forced to go illegally.”"
 author: Are You Syrious?
 date: 2018-09-03T13:45:15.891+0100
 last_modified_at: 2018-09-03T13:45:15.891+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [athens,cash-cards,crs,refugees]
 description: Tired of waiting, a group of refugees occupied the offices of CRS on July 27th demanding cash cards worth 150 euros, the only source of…
 image:
-  path: assets/a81d6856f217/1*nuTbMdxEYAIdtDi5gjxR2w.jpeg
+  path: ../assets/a81d6856f217/1*nuTbMdxEYAIdtDi5gjxR2w.jpeg
 ---
 
 ### AYS SPECIAL from Athens: “We were forced to go illegally\.”
@@ -15,13 +15,13 @@ image:
 _Tired of waiting, a group of refugees occupied the offices of CRS on July 27th demanding cash cards worth 150 euros, the only source of income for many in Greece_
 
 
-![](assets/a81d6856f217/1*nuTbMdxEYAIdtDi5gjxR2w.jpeg)
+![](../assets/a81d6856f217/1*nuTbMdxEYAIdtDi5gjxR2w.jpeg)
 
 
 “ _Refugees became a hashtag and meaning of a profit for many NGO’s in Greece_ ,” a 37\-year\-old Saeid Sharifi explains to AYS when we meet him and other 50 refugees in occupied offices of the Catholic Relief Services \(CRS\), in Athens\.
 
 
-![Saeid Sharifi](assets/a81d6856f217/1*8cay-U33DT-JllzNH_oSog.jpeg)
+![Saeid Sharifi](../assets/a81d6856f217/1*8cay-U33DT-JllzNH_oSog.jpeg)
 
 Saeid Sharifi
 
@@ -32,7 +32,7 @@ Apart from being without financial assistance, group of refugees coming from Ira
 After they occupied the CRS offices the families with all together 12 children found shelter in a common struggle for refugee rights\. “ _Here there are people that just want to continue their journey and only few of them that would actually like to stay in Greece\. I am one of them,_ ” explains Saeid, who at the beginning of the occupation locked his leg for doors in order that police could not separate or remove them\.
 
 
-![](assets/a81d6856f217/1*tMHQg6hs4zfhHczV--fX3A.jpeg)
+![](../assets/a81d6856f217/1*tMHQg6hs4zfhHczV--fX3A.jpeg)
 
 
 The representative of the CRS came immediately after the occupation\. According to refugees, staff showed understanding for their position, but suggested them to leave the premises\. Since refugees did not follow the staff’s orders police soon visited them\. “ _Me and some other guys were detained four times all together and taken to Omonia police station\. Police told us to leave, otherwise we will be beaten and taken to prison,_ “ men told us\. But none of these threats were ever realized\. Refugees believe intervention of UNHCR, which is providing the funding for CRS for financial assistance might play the role\.
@@ -42,7 +42,7 @@ The occupation of the offices and determination of the involved refugees resulte
 “ _We will not leave the offices till the last person got his bank card and financial assistance\. After that we continue with the new battle field: registration for the refugees on Skype_ ,” reveals the refugee group\.
 
 
-![](assets/a81d6856f217/1*ERNd5glgbFHmW-cHVl1jvQ.jpeg)
+![](../assets/a81d6856f217/1*ERNd5glgbFHmW-cHVl1jvQ.jpeg)
 
 
 The group of refugees explains to us that demands they had towards the CRS in this case but also many other NGO’s are not something luxury\. „ _We are talking about 150 euros per month for a person without shelter and without food provision,_ ” they emphasize\.
@@ -56,7 +56,7 @@ Refugees in office of the CRS created their own rooms\. They are especially prou
 **_What is CRS?_**
 
 
-![](assets/a81d6856f217/1*6zTSHQ6HH3GnD9tRlIUVOw.jpeg)
+![](../assets/a81d6856f217/1*6zTSHQ6HH3GnD9tRlIUVOw.jpeg)
 
 
 _According to [CRSs’ site](https://www.crs.org/our-work-overseas/where-we-work/greece) the organisation is “providing a cash assistance to 10,000 persons of concern at 15 sites are receiving monthly cash assistance through pre\-paid debit cards\. Having cash allows persons of concern to meet their basic needs as they see fit, giving them choice and a more dignified way to begin integrate into lives of normalcy and safety\. It also recirculates the assistance into the local economy, thereby reducing any burdens placed on their host communities\.”_

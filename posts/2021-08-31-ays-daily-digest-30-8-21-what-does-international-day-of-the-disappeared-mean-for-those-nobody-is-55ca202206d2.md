@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 30/8/21: What does International day of the disappeared mean for those nobody is…
+title: "AYS Daily Digest 30/8/21: What does International day of the disappeared mean for those nobody is…"
 author: Are You Syrious?
 date: 2021-08-31T15:04:06.980+0100
 last_modified_at: 2021-08-31T17:35:10.105+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,europe,missing-persons,migration]
 description: Is the EU Commission denying funding to the Greek Coast Guard? / Slovenian police violated the principle of non-refoulement in 2019 — Info…
 image:
-  path: assets/55ca202206d2/0*FH9yOa6QZbJvviGh.jpg
+  path: ../assets/55ca202206d2/0*FH9yOa6QZbJvviGh.jpg
 ---
 
 ### AYS Daily Digest 30/8/21: What does **International day of the disappeared mean for those nobody is looking for?**
 #### Is the EU Commission denying funding to the Greek Coast Guard? / **Slovenian police violated the principle of non\-refoulement in 2019 — Info Kolpa sends out open letter /** EU pledges against the urgent reception of Afghan refugees / Mixed Migration update & some more really good reads
 
 
-![_The people on this boat had alerted Alarm Phone, and reported that they were threatened by the so\-called Libyan coastguard within the Maltese Search and Rescue zone\. Eventually they were rescued by the Ocean Viking on 1 July 2021\. During the rescue operation a wheelchair was found on board\. Source: Flavio Gasperini / SOS Mediterranee\. — Via [AlarmPhone](https://alarmphone.org/en/2021/08/28/interceptions-and-death-at-sea-europes-answer-to-migrant-struggles-for-freedom/?post_type_release_type=post)_](assets/55ca202206d2/0*FH9yOa6QZbJvviGh.jpg)
+![_The people on this boat had alerted Alarm Phone, and reported that they were threatened by the so\-called Libyan coastguard within the Maltese Search and Rescue zone\. Eventually they were rescued by the Ocean Viking on 1 July 2021\. During the rescue operation a wheelchair was found on board\. Source: Flavio Gasperini / SOS Mediterranee\. — Via [AlarmPhone](https://alarmphone.org/en/2021/08/28/interceptions-and-death-at-sea-europes-answer-to-migrant-struggles-for-freedom/?post_type_release_type=post)_](../assets/55ca202206d2/0*FH9yOa6QZbJvviGh.jpg)
 
 _The people on this boat had alerted Alarm Phone, and reported that they were threatened by the so\-called Libyan coastguard within the Maltese Search and Rescue zone\. Eventually they were rescued by the Ocean Viking on 1 July 2021\. During the rescue operation a wheelchair was found on board\. Source: Flavio Gasperini / SOS Mediterranee\. — Via [AlarmPhone](https://alarmphone.org/en/2021/08/28/interceptions-and-death-at-sea-europes-answer-to-migrant-struggles-for-freedom/?post_type_release_type=post)_
 #### FEATURE

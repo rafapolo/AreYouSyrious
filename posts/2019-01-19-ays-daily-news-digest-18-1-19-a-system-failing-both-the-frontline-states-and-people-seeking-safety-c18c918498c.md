@@ -1,5 +1,5 @@
 ---
-title: AYS Daily News Digest 18/1/19: A system failing both the frontline states and people seeking safety
+title: "AYS Daily News Digest 18/1/19: A system failing both the frontline states and people seeking safety"
 author: Are You Syrious?
 date: 2019-01-19T19:41:57.324+0000
 last_modified_at: 2019-01-19T19:41:57.324+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: []
 description: Amnesty International warning of the devastating consequences of the EU politics in the Mediterranean —read the analysis / SAR teams under…
 image:
-  path: assets/c18c918498c/1*aD2ZhdNAGbdMp0R0b2U5tQ.jpeg
+  path: ../assets/c18c918498c/1*aD2ZhdNAGbdMp0R0b2U5tQ.jpeg
 ---
 
 ### AYS Daily News Digest 18/1/19: A system failing both the frontline states and people seeking safety
 #### Amnesty International warning of the devastating consequences of the EU politics in the Mediterranean —read the analysis / SAR teams under pressure again / increasing number of arrivals to Greece and the area / Afghan minors sent to adults prison in Serbia / Pressure to volunteers in Bosnia and Herzegovina / more news
 
 
-![](assets/c18c918498c/1*Tx1u1RSutf5fWmPbOOmJVA.jpeg)
+![](../assets/c18c918498c/1*Tx1u1RSutf5fWmPbOOmJVA.jpeg)
 
 
 [Are You Syrious?](https://medium.com/@AreYouSyrious)
@@ -22,7 +22,7 @@ image:
 Jan 19
 
 
-![Photo: [Pothiti Kitromilidi](https://www.facebook.com/pothiti.kitromilidi?__tn__=%2Cd%2AF%2AF-R&eid=ARBd2y1L_pAbZCqMbMewBzYZ0uviGRN4aIlEQMyEWY638CTkDLpxiJX2iVZWGyCJJwTwsui3Lx7CbKUe&tn-str=%2AF) ‎](assets/c18c918498c/1*aD2ZhdNAGbdMp0R0b2U5tQ.jpeg)
+![Photo: [Pothiti Kitromilidi](https://www.facebook.com/pothiti.kitromilidi?__tn__=%2Cd%2AF%2AF-R&eid=ARBd2y1L_pAbZCqMbMewBzYZ0uviGRN4aIlEQMyEWY638CTkDLpxiJX2iVZWGyCJJwTwsui3Lx7CbKUe&tn-str=%2AF) ‎](../assets/c18c918498c/1*aD2ZhdNAGbdMp0R0b2U5tQ.jpeg)
 
 Photo: [Pothiti Kitromilidi](https://www.facebook.com/pothiti.kitromilidi?__tn__=%2Cd%2AF%2AF-R&eid=ARBd2y1L_pAbZCqMbMewBzYZ0uviGRN4aIlEQMyEWY638CTkDLpxiJX2iVZWGyCJJwTwsui3Lx7CbKUe&tn-str=%2AF) ‎
 #### FEATURE

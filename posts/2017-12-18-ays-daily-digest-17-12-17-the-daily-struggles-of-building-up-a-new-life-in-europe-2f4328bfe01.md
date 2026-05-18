@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 17/12/17: The daily struggles of building up a new life in Europe
+title: "AYS Daily Digest 17/12/17: The daily struggles of building up a new life in Europe"
 author: Are You Syrious?
 date: 2017-12-18T01:48:59.742+0000
 last_modified_at: 2017-12-18T01:48:59.742+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,surveys,greece,lesvos]
 description: Survey with immigrants and refugees shows their challenges and worries / New horror stories from Lesvos / Patras city orchester gives…
 image:
-  path: assets/2f4328bfe01/1*ZnGELtrcydOJA84os2xItw.jpeg
+  path: ../assets/2f4328bfe01/1*ZnGELtrcydOJA84os2xItw.jpeg
 ---
 
 ### AYS Daily Digest 17/12/17: The daily struggles of building up a new life in Europe
@@ -15,7 +15,7 @@ image:
 _Survey with immigrants and refugees shows their challenges and worries / New horror stories from Lesvos / Patras city orchester gives solidarity concert in squat / Updates from Serbia, Germany, Belgium, France and Italy_
 
 
-![Even when they leave the camps, immigrants in Europe often face trouble in their host countries\. Credits: [Art Against](https://www.facebook.com/artagainstproject/photos/pcb.1559715397411222/1559715150744580/?type=3&theater)](assets/2f4328bfe01/1*ZnGELtrcydOJA84os2xItw.jpeg)
+![Even when they leave the camps, immigrants in Europe often face trouble in their host countries\. Credits: [Art Against](https://www.facebook.com/artagainstproject/photos/pcb.1559715397411222/1559715150744580/?type=3&theater)](../assets/2f4328bfe01/1*ZnGELtrcydOJA84os2xItw.jpeg)
 
 Even when they leave the camps, immigrants in Europe often face trouble in their host countries\. Credits: [Art Against](https://www.facebook.com/artagainstproject/photos/pcb.1559715397411222/1559715150744580/?type=3&theater)
 ### Feature: The challenge of finding a new home
@@ -23,7 +23,7 @@ Even when they leave the camps, immigrants in Europe often face trouble in their
 Those who reached Europe face many obstacles on daily baises, results of a survey conducted by The European Network Against Racism \(ENAR\) [show](http://enar-eu.org/Survey-reports-appalling-living-conditions-for-migrants-in-Europe-77) \. More than 5000 survey participants \(immigrants and refugees\) gave an insight about their experiences with finding jobs, treatment at work based on ethnicity, feeling of acceptance at the place where they live, discrimination and other topics related to their everyday life\. The research was conducted in five EU countries: Germany, Greece, Hungary, Italy and Sweden\.
 
 
-![Many people are afraid of reporting crimes — especially, when they do not have a legal status\. Source: [ENAR](http://enar-eu.org/Survey-Migrants-speak-up-1468)](assets/2f4328bfe01/1*t2yV4ktwN-xJ473GhFbFWg.jpeg)
+![Many people are afraid of reporting crimes — especially, when they do not have a legal status\. Source: [ENAR](http://enar-eu.org/Survey-Migrants-speak-up-1468)](../assets/2f4328bfe01/1*t2yV4ktwN-xJ473GhFbFWg.jpeg)
 
 Many people are afraid of reporting crimes — especially, when they do not have a legal status\. Source: [ENAR](http://enar-eu.org/Survey-Migrants-speak-up-1468)
 
@@ -33,7 +33,7 @@ Getting a job”, “immigration administration” and “missing friends and fa
 The situation on the Greek islands is very difficult, especially for vulnerable groups\. Just two days ago, Human Rights Watch published a detailed report on the situation for women in Moria hotspot on Lesvos \(read the summary in our [Friday’s digest](ays-daily-digest-15-12-17-more-responsibility-for-libya-in-sea-rescues-italy-suggests-f00e694fe8fd) \) \. Yesterday the next terrible [report](https://twitter.com/filiopk/status/942105443865976842) came out: A pregnant woman in her eight month in Moria was sleeping in a summer tent for the last two months\. Now that she was transferred to an \(isolated\) camp, she still has a dirty room that is not even heated\.
 
 
-![Not an appropiate place for a pregnant woman\. Credits: [F\. Kontrafouri فیلیو](https://twitter.com/filiopk)](assets/2f4328bfe01/1*duOZUzZ1pT7C9psNgCkgNA.jpeg)
+![Not an appropiate place for a pregnant woman\. Credits: [F\. Kontrafouri فیلیو](https://twitter.com/filiopk)](../assets/2f4328bfe01/1*duOZUzZ1pT7C9psNgCkgNA.jpeg)
 
 Not an appropiate place for a pregnant woman\. Credits: [F\. Kontrafouri فیلیو](https://twitter.com/filiopk)
 
@@ -49,7 +49,7 @@ According to volunteer and media [information](http://astraparis.gr/stin-athina-
 The city orchestra of Patras today gave a great example of solidarity\. It decided to give a concert in an abandoned factory building, where some people reside\. Several hundred people live in the squat and were happy to listen to the live performance\.
 
 
-![The city orchestra of Patras performs in an abandoned factory building\. Credits: Rando Wagner](assets/2f4328bfe01/1*tbwSWBevdpaO0cvL7xvSdQ.jpeg)
+![The city orchestra of Patras performs in an abandoned factory building\. Credits: Rando Wagner](../assets/2f4328bfe01/1*tbwSWBevdpaO0cvL7xvSdQ.jpeg)
 
 The city orchestra of Patras performs in an abandoned factory building\. Credits: Rando Wagner
 ### Serbia

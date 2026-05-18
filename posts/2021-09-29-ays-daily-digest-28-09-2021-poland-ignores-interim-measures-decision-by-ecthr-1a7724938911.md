@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 28/09/2021: Poland ignores interim measures decision by ECtHR
+title: "AYS Daily Digest 28/09/2021: Poland ignores interim measures decision by ECtHR"
 author: Are You Syrious?
 date: 2021-09-29T13:03:13.144+0100
 last_modified_at: 2021-09-29T15:14:51.936+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [poland,digest,europe,refugees,pushback]
 description: Updates from the Polish border, where many people are being pushed back and forth // Polish Government ignores decision issued by the…
 image:
-  path: assets/1a7724938911/1*MSDKXVQbZxNiemEIkC0pZA.jpeg
+  path: ../assets/1a7724938911/1*MSDKXVQbZxNiemEIkC0pZA.jpeg
 ---
 
 ### AYS Daily Digest 28/09/2021: Poland ignores interim measures decision by ECtHR
 #### Updates from the Polish border, where many people are being pushed back and forth // Polish Government ignores decision issued by the European Court for Human Rights // Pushback from Polish Police Station? // 44 year prison sentence for steering a boat to safety // Potential pushback from Kos // Repatriation of Minors to Ceuta deemed unlawful // Rescue ships waits for Port of Safety //
 
 
-![Two young girls who are stranded in the forests between Belarus and Poland together with their families\. Copyright: Murad Ismael](assets/1a7724938911/1*MSDKXVQbZxNiemEIkC0pZA.jpeg)
+![Two young girls who are stranded in the forests between Belarus and Poland together with their families\. Copyright: Murad Ismael](../assets/1a7724938911/1*MSDKXVQbZxNiemEIkC0pZA.jpeg)
 
 Two young girls who are stranded in the forests between Belarus and Poland together with their families\. Copyright: Murad Ismael
 #### FEATURE: Access for lawyers denied by Poland despite interim measures ordered by ECtHR — the situation along the border deteriorates
@@ -278,7 +278,7 @@ This article provides backround information on the French deportation system and
 
 
 
-[![UK Nationality and Borders Bill: An Evaluation with Colin Yeo](assets/1a7724938911/886b_hqdefault.jpg "UK Nationality and Borders Bill: An Evaluation with Colin Yeo")](https://www.youtube.com/watch?v=jDvfTCV9Uvw)
+[![UK Nationality and Borders Bill: An Evaluation with Colin Yeo](../assets/1a7724938911/886b_hqdefault.jpg "UK Nationality and Borders Bill: An Evaluation with Colin Yeo")](https://www.youtube.com/watch?v=jDvfTCV9Uvw)
 
 #### Report on Napier barracks and other facilities
 

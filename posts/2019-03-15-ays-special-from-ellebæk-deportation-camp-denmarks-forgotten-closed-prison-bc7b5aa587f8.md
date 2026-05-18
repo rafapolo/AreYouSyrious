@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL FROM ELLEBÆK DEPORTATION CAMP: Denmark’s forgotten, closed prison
+title: "AYS SPECIAL FROM ELLEBÆK DEPORTATION CAMP: Denmark’s forgotten, closed prison"
 author: Are You Syrious?
 date: 2019-03-15T07:53:49.644+0000
 last_modified_at: 2019-03-15T12:30:44.586+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,denmark,ellebæk,special,european-union]
 description: For the first time ever a large Danish mainstream news channel TV2 was granted permission to film inside Ellebæk prison where, at the…
 image:
-  path: assets/bc7b5aa587f8/1*a41DRW92ceNqALmwMsHVBg.jpeg
+  path: ../assets/bc7b5aa587f8/1*a41DRW92ceNqALmwMsHVBg.jpeg
 ---
 
 ### AYS SPECIAL FROM **ELLEBÆK DEPORTATION CAMP: Denmark’s forgotten, closed prison**
@@ -15,7 +15,7 @@ image:
 _For the first time ever a large Danish mainstream news channel TV2 was granted permission to film inside Ellebæk prison where, at the moment, 109 people are waiting deportation\._
 
 
-![The court yard in Ellebæk where residents have a right to spend time 3 times a day\. Ph _oto: Ole Jakobsen / TV 2_](assets/bc7b5aa587f8/1*a41DRW92ceNqALmwMsHVBg.jpeg)
+![The court yard in Ellebæk where residents have a right to spend time 3 times a day\. Ph _oto: Ole Jakobsen / TV 2_](../assets/bc7b5aa587f8/1*a41DRW92ceNqALmwMsHVBg.jpeg)
 
 The court yard in Ellebæk where residents have a right to spend time 3 times a day\. Ph _oto: Ole Jakobsen / TV 2_
 
@@ -30,7 +30,7 @@ Up to four people share the same room\. Rooms with holed walls and electrical wi
 Most worrying is the psychological torture the residents endure whilst incarcerated\. Often they do not understand the reason for the incarceration in the first place\. Being separated from friends and family, and the constant stress of not knowing when the police forcefully might put you on an airplane and deport them, is psychological torture\.
 
 
-![_Self\-harming: Cuts from razorblades\. Photo: Ole Jakobsen / TV 2_](assets/bc7b5aa587f8/1*e6IBtohlZQrtG2XvlIcvxw.jpeg)
+![_Self\-harming: Cuts from razorblades\. Photo: Ole Jakobsen / TV 2_](../assets/bc7b5aa587f8/1*e6IBtohlZQrtG2XvlIcvxw.jpeg)
 
 _Self\-harming: Cuts from razorblades\. Photo: Ole Jakobsen / TV 2_
 
@@ -65,7 +65,7 @@ The documentary showen this week in denmark is a clear portrait, backed by witne
 Whilst detention inside Ellebæk cannot extend 1\.5 years, life in Danish detention centres has no time limit\. Some of the people inside Ellebæk prison, cannot be deported as long as they do not ‘collaborate’\. This includes people from Iran, Iraq and stateless people\.
 
 
-![_‘We are kidnapped by danish police’\. Photo: Ole Jakobsen / TV 2_](assets/bc7b5aa587f8/1*azNaEnm-BzHDN3Hs632KSQ.jpeg)
+![_‘We are kidnapped by danish police’\. Photo: Ole Jakobsen / TV 2_](../assets/bc7b5aa587f8/1*azNaEnm-BzHDN3Hs632KSQ.jpeg)
 
 _‘We are kidnapped by danish police’\. Photo: Ole Jakobsen / TV 2_
 

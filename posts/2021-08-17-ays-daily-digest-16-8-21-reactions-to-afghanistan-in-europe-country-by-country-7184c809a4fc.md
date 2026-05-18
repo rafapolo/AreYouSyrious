@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 16/8/21: Reactions to Afghanistan in Europe, Country by Country
+title: "AYS Daily Digest 16/8/21: Reactions to Afghanistan in Europe, Country by Country"
 author: Are You Syrious?
 date: 2021-08-17T14:02:09.044+0100
 last_modified_at: 2021-08-17T16:08:25.795+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,afghanistan,migration,europe]
 description: Resources and petitions for Afghanistan // 2 rescues by MSF // Multiple landings in Lampedusa // Call for volunteers i
 image:
-  path: assets/7184c809a4fc/1*yAFaH5NT-IXYsz2C3wN2Nw.jpeg
+  path: ../assets/7184c809a4fc/1*yAFaH5NT-IXYsz2C3wN2Nw.jpeg
 ---
 
 ### AYS Daily Digest 16/08/21: Reactions to Afghanistan in Europe, Country by Country
@@ -15,7 +15,7 @@ image:
 ### FEATURE — Afghanistan: Reactions in Europe, And What You Can Do to Make Your Voice Heard
 
 
-![](assets/7184c809a4fc/1*yAFaH5NT-IXYsz2C3wN2Nw.jpeg)
+![](../assets/7184c809a4fc/1*yAFaH5NT-IXYsz2C3wN2Nw.jpeg)
 
 
 News agencies and social media platforms have been blowing up over the past few days with updates, takes, photos, personal reflections and petitions surrounding the developments in Afghanistan\. For those struggling to keep up with the crazy 24\-hour news cycle, Are You Syrious has made an effort to consolidate the different reactions of European countries in the wake of the Taliban takeover\. We’ve also compiled a list of what we hope are helpful resources and petitions for those who want to show their support and put pressure on their governments to take in those fleeing the country\. By the time this digest is published, some of this information may have changed, but we will continue to post updates and try our best to find the best and most accurate information out there\. Here goes\.
@@ -141,11 +141,11 @@ Demonstration was stated by #Kurdish community. https://t.co/qdxIJkX3So
 People gathered on the central square in Mytilene, Lesvos today to stand in solidarity with the Afghan people and united against hate and fear\.
 
 
-![](assets/7184c809a4fc/1*PEVX31R2PvAQJDCyohZwKA.jpeg)
+![](../assets/7184c809a4fc/1*PEVX31R2PvAQJDCyohZwKA.jpeg)
 
 
 
-![Photo credit: [Pikpa](https://www.facebook.com/pikpalesvos/posts/3016529735289104)](assets/7184c809a4fc/1*FiNCXxxzRk4i0_KGc8dqWQ.jpeg)
+![Photo credit: [Pikpa](https://www.facebook.com/pikpalesvos/posts/3016529735289104)](../assets/7184c809a4fc/1*FiNCXxxzRk4i0_KGc8dqWQ.jpeg)
 
 Photo credit: [Pikpa](https://www.facebook.com/pikpalesvos/posts/3016529735289104)
 ### SPAIN
@@ -175,7 +175,7 @@ While arrivals from Belarus to Lithuania have slowed significantly in recent wee
 Volunteers are needed by Solidarité migrants Wilson around Paris to prepare and distribute 2,000 meals this week\. Specific information at [this link](https://www.facebook.com/permalink.php?story_fbid=1789644411236323&id=598228360377940) \.
 
 
-![](assets/7184c809a4fc/1*igQkNvXlsMK4cQTPTn0Vew.jpeg)
+![](../assets/7184c809a4fc/1*igQkNvXlsMK4cQTPTn0Vew.jpeg)
 
 ### EU \+ FRONTEX
 #### Frontex in space?

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 9/10/19: Violent refugee deaths on the rise in Bosnia
+title: "AYS Daily Digest 9/10/19: Violent refugee deaths on the rise in Bosnia"
 author: Are You Syrious?
 date: 2019-10-10T10:09:38.563+0100
 last_modified_at: 2019-10-10T15:03:59.838+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,migrants,asylum-seekers,balkan-route,frontex]
 description: A man was shot by the local villager on Saturday, only a few days after two bodies were discovered in Bosnian rivers // Today, new body…
 image:
-  path: assets/ca47a1f71a63/1*gNdACWGZKh39j_O3YLyLHg.jpeg
+  path: ../assets/ca47a1f71a63/1*gNdACWGZKh39j_O3YLyLHg.jpeg
 ---
 
 ### AYS Daily Digest 9/10/19: Violent refugee deaths on the rise in Bosnia
 #### A man was shot by a local villager on Saturday, only a few days after two bodies were discovered in Bosnian rivers // Today, a new body with visible injuries was found in a camp trailer near Cazin // Bosnian police push back a family, two small children left behind // Bulgaria, Greece and Cyprus ask for European support to return people to Turkey: we have the document\! // French speakers, lawyers and psychologists needed on Lesvos /// Montenegro allows Frontex officers to work on its borders // Volunteers and donations are needed in Šid, Serbia //
 
 
-![Refugees in Vučjak camp near Bihać: dehumanised and left with no support\. Photo: Dean Dean](assets/ca47a1f71a63/1*gNdACWGZKh39j_O3YLyLHg.jpeg)
+![Refugees in Vučjak camp near Bihać: dehumanised and left with no support\. Photo: Dean Dean](../assets/ca47a1f71a63/1*gNdACWGZKh39j_O3YLyLHg.jpeg)
 
 Refugees in Vučjak camp near Bihać: dehumanised and left with no support\. Photo: Dean Dean
 #### Dead man in a trailer: police found injuries on his body
@@ -25,7 +25,7 @@ A dead unnamed migrant was found in a camp trailer in the Osmanagići village ne
 The case of a dead migrant near Cazin comes only a day after the local villager claimed responsibility for the killing of a migrant near the southern Bosnian border with Montenegro\. Yesterday at 9:30 am, M\.Č\. \(49\) called the police station in Bileća to turn himself in for the murder\. Investigation found that he had killed an undocumented migrant on Saturday evening, and then hid the body in a pit for three days\. According to his description of the crime, a group of migrants found shelter in a house in Vranjska village\. The house belongs to his neighbour, who asked him to take care of it\. After hearing noises and seeing movement in the house, the man grabbed a rifle and walked into the house\. During the frenzy, he pulled the trigger and shot one of the migrants in the face, while the others ran for their lives\. He panicked and hid the body, but later decided to confess the crime\. Ongoing investigation needs to determine if his story accurately describes the crime\.
 
 
-![The investigation aims to confirm details of the murder in Vranjska village near Bileća\.](assets/ca47a1f71a63/1*NlYu7wsr7ASg4xJj5EkauA.jpeg)
+![The investigation aims to confirm details of the murder in Vranjska village near Bileća\.](../assets/ca47a1f71a63/1*NlYu7wsr7ASg4xJj5EkauA.jpeg)
 
 The investigation aims to confirm details of the murder in Vranjska village near Bileća\.
 #### At least two bodies discovered in Bosnian rivers over the past week
@@ -34,7 +34,7 @@ Two men, one of them Pakistani and the other allegedly Syrian, have been found d
 ### Bosnian police push back a family, two small children left behind
 
 
-![6\-year old girl reached Tuzla alone, in fever, confused… Photo: Selma Dzafic](assets/ca47a1f71a63/1*9NK6Q8gxuxWco1AtjzjJWQ.png)
+![6\-year old girl reached Tuzla alone, in fever, confused… Photo: Selma Dzafic](../assets/ca47a1f71a63/1*9NK6Q8gxuxWco1AtjzjJWQ.png)
 
 6\-year old girl reached Tuzla alone, in fever, confused… Photo: Selma Dzafic
 
@@ -59,7 +59,7 @@ Worrying statements presented in the non\-paper are expected to put additional p
 ### 389 refugees finally transferred to the mainland from Symi Island
 
 
-![Hundreds were stuck on Symi, with no facilities to accomodate them\. Photo: Rachel Weschen](assets/ca47a1f71a63/1*QXjIjaQOsyHufmzJzs9u4Q.png)
+![Hundreds were stuck on Symi, with no facilities to accomodate them\. Photo: Rachel Weschen](../assets/ca47a1f71a63/1*QXjIjaQOsyHufmzJzs9u4Q.png)
 
 Hundreds were stuck on Symi, with no facilities to accomodate them\. Photo: Rachel Weschen
 
@@ -69,7 +69,7 @@ A navy ship carrying 389 refugees from Symi Island docked at the port of Piraeus
 A total of 15,333 people were counted on Lesvos today\. In Moria alone, a camp designed to host 3,000, there are 13,112 people and new arrivals are counted every day\. Many, including children and people with serious medical conditions, are sleeping on the floor or, if lucky, in summer tents\. Two weeks ago a fire broke out in the camp, killing a woman and her newborn child, and injuring many others\. The camp has not been fixed since then\. Refugees are sleeping in tents under the charred ruins\.
 
 
-![Aftermath of the tragic fire: people live in tents under burnt stairs\. Photo: RSA](assets/ca47a1f71a63/1*PovEV0vR2nWc10Q_HYvUKg.png)
+![Aftermath of the tragic fire: people live in tents under burnt stairs\. Photo: RSA](../assets/ca47a1f71a63/1*PovEV0vR2nWc10Q_HYvUKg.png)
 
 Aftermath of the tragic fire: people live in tents under burnt stairs\. Photo: RSA
 
@@ -84,7 +84,7 @@ On September alone, Fenix Humanitarian Legal Aid supported over 500 people in th
 ### SAR NGOs issue the position paper on the EU Justice and Home Affairs Council
 
 
-![Nine SAR NGOs are advocating for the humane approach in the next phase of European policy\-making, following the mini\-summit in Malta\. Photo: Sea Watch](assets/ca47a1f71a63/1*VPlO7wFi0Dik-iTJ-Qlk_A.jpeg)
+![Nine SAR NGOs are advocating for the humane approach in the next phase of European policy\-making, following the mini\-summit in Malta\. Photo: Sea Watch](../assets/ca47a1f71a63/1*VPlO7wFi0Dik-iTJ-Qlk_A.jpeg)
 
 Nine SAR NGOs are advocating for the humane approach in the next phase of European policy\-making, following the mini\-summit in Malta\. Photo: Sea Watch
 
@@ -95,7 +95,7 @@ As opposed to the paranoid narrative of Bulgaria, Malta and Greece, non\-governm
 ### No Name Kitchen needs volunteers and donations to prepare for the winter
 
 
-![Volunteers take turns to guard the unofficial camp that is often raided by the police\. Photo: NNK](assets/ca47a1f71a63/1*7s6d6GORmopcC0VzOsRESg.jpeg)
+![Volunteers take turns to guard the unofficial camp that is often raided by the police\. Photo: NNK](../assets/ca47a1f71a63/1*7s6d6GORmopcC0VzOsRESg.jpeg)
 
 Volunteers take turns to guard the unofficial camp that is often raided by the police\. Photo: NNK
 

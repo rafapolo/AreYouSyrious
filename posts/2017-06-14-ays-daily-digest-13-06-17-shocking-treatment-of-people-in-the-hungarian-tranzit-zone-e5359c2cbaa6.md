@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 13/06/17: Shocking treatment of people in Hungary’s transit zones
+title: "AYS Daily Digest 13/06/17: Shocking treatment of people in Hungary’s transit zones"
 author: Are You Syrious?
 date: 2017-06-14T04:36:20.471+0100
 last_modified_at: 2017-07-03T03:13:59.096+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,human-rights,police-brutality,europe,afghanistan]
 description: Hungary continues abuse in its “transit zones” / Syrian doctors to be employed in Syrian refugee camps in Turkey / Police violence and…
 image:
-  path: assets/e5359c2cbaa6/1*ff6Driy1GCxwCXTDiEHK_w.jpeg
+  path: ../assets/e5359c2cbaa6/1*ff6Driy1GCxwCXTDiEHK_w.jpeg
 ---
 
 ### AYS Daily Digest 13/06/17: Shocking treatment of people in Hungary’s transit zones
@@ -15,7 +15,7 @@ image:
 _Hungary continues abuse in its “transit zones” / Syrian doctors to be employed in Syrian refugee camps in Turkey / Police violence and mistreatment continue along the Serbian\-Croatian border / Volunteers urge the French state to assume responsibility in accommodating refugees / And more news…_
 
 
-![Photo by Haider Ali \(Source and and copyright belong to [Index\.hu](http://index.hu/belfold/2017/06/12/tranzitzona_roszke_tompa_borton_menekultek_terhes_no_hatosagi_tulkapas_gyerekek/) \)](assets/e5359c2cbaa6/1*ff6Driy1GCxwCXTDiEHK_w.jpeg)
+![Photo by Haider Ali \(Source and and copyright belong to [Index\.hu](http://index.hu/belfold/2017/06/12/tranzitzona_roszke_tompa_borton_menekultek_terhes_no_hatosagi_tulkapas_gyerekek/) \)](../assets/e5359c2cbaa6/1*ff6Driy1GCxwCXTDiEHK_w.jpeg)
 
 Photo by Haider Ali \(Source and and copyright belong to [Index\.hu](http://index.hu/belfold/2017/06/12/tranzitzona_roszke_tompa_borton_menekultek_terhes_no_hatosagi_tulkapas_gyerekek/) \)
 #### FEATURE—Mistreatment continues in Hungary’s transit zones
@@ -64,7 +64,7 @@ The Iraqi Ministry of Health said a woman and a younger girl died while at least
 A total of 73,189 migrants and refugees have entered Europe by sea since the start of the year through June 11th, with almost 85 per cent arriving in Italy\. The remainder landed primarily in Greece, Cyprus, and Spain, according to [reports](http://www.iom.int/news/mediterranean-migrant-arrivals-reach-73189-2017-1808-deaths) \.
 
 
-![Source: IOM](assets/e5359c2cbaa6/1*MICOrsG7oHdjYmgSLgqH5w.jpeg)
+![Source: IOM](../assets/e5359c2cbaa6/1*MICOrsG7oHdjYmgSLgqH5w.jpeg)
 
 Source: IOM
 
@@ -100,7 +100,7 @@ A total of 457 arrivals have been officially registered in Greece during the mon
 “Refugee children at the Souda refugee camp on Chios are toxically stressed,” a psychotherapist from a non\-profit organization that promotes mental health for women around the world testified at the Concordia Europe Summit\. It is already unsettling enough that these children suffer from psychosis\. Not knowing how long will they or their families will stay—nor whether or not they will be sent back to Turkey—is dangerously unsettling and only adds to their distress, [she said](http://greece.greekreporter.com/2017/06/09/nitzia-logothetis-refugee-children-toxically-stressed-in-greece/) \.
 
 
-![Volunteers at [Open Cultural Center — OCC](https://www.facebook.com/OpenCulturalCenter/) have been providing refugees in the north of Greece constant support and informal educational activities since the organization’s launch a year ago\. They now continue supporting both adults and children in urban areas where they have been resettled through a number of programs operating out of their two culture centres\. OCC has most recently started new outdoor activities in Polykastro \(Photo by [Open Cultural Center — OCC](https://www.facebook.com/OpenCulturalCenter/) \)](assets/e5359c2cbaa6/1*MMppozKYeYfSmofN07lw_A.jpeg)
+![Volunteers at [Open Cultural Center — OCC](https://www.facebook.com/OpenCulturalCenter/) have been providing refugees in the north of Greece constant support and informal educational activities since the organization’s launch a year ago\. They now continue supporting both adults and children in urban areas where they have been resettled through a number of programs operating out of their two culture centres\. OCC has most recently started new outdoor activities in Polykastro \(Photo by [Open Cultural Center — OCC](https://www.facebook.com/OpenCulturalCenter/) \)](../assets/e5359c2cbaa6/1*MMppozKYeYfSmofN07lw_A.jpeg)
 
 Volunteers at [Open Cultural Center — OCC](https://www.facebook.com/OpenCulturalCenter/) have been providing refugees in the north of Greece constant support and informal educational activities since the organization’s launch a year ago\. They now continue supporting both adults and children in urban areas where they have been resettled through a number of programs operating out of their two culture centres\. OCC has most recently started new outdoor activities in Polykastro \(Photo by [Open Cultural Center — OCC](https://www.facebook.com/OpenCulturalCenter/) \)
 ### BOSNIA AND HERZEGOVINA
@@ -167,7 +167,7 @@ Our team is confused by the apparent lack of information of the highest ranking 
 #### Hungary targets its NGOs
 
 
-![](assets/e5359c2cbaa6/1*AeE55w0Bxe6R90jmpqNMbA.png)
+![](../assets/e5359c2cbaa6/1*AeE55w0Bxe6R90jmpqNMbA.png)
 
 
 Hungary’s parliament passed the ruling party’s new and controversial piece of legislation regarding NGOs on Tuesday\.
@@ -199,7 +199,7 @@ Mamadou Ba—who is from Guinea—had been targeted by the far\-right group Gold
 ### ITALY
 
 
-![IOM’s most recent information chart](assets/e5359c2cbaa6/1*IPvRswK5HLF_H1PcgctBzg.jpeg)
+![IOM’s most recent information chart](../assets/e5359c2cbaa6/1*IPvRswK5HLF_H1PcgctBzg.jpeg)
 
 IOM’s most recent information chart
 #### Pordenone
@@ -215,20 +215,20 @@ A 16 years old boy from Sudan drowned while trying to catch a shoe he lost on th
 Mayor Raggi [wrote a letter](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.ansa.it%2Flazio%2Fnotizie%2F2017%2F06%2F13%2Fraggi-a-prefetto-roma-limitare-presenza-migranti_47fc872b-db5e-4ca2-9ce2-24359fd37958.html&h=ATNpGFwIdjo8mqtTjGFfZTvg_0ct6dyyJpOfomOTieHEmgNz32eXCyXK59HRp4FVd1h0-9xOjTiR12cdjfN12E2aembkcllowUMWYYgU3YsIY_pJSq2JmM17Bjtm8WqJ3FHFza7C) to the Prefect and says that given the continuos flow of migrants in the city, it is impossible and dangerous \( \! \) to find other accommodation and reception centres for them\. She suggests a moratorium on the number of new arrivals of migrants in town\.
 
 
-![](assets/e5359c2cbaa6/1*QidWRjAtj8CUIO020S6_RA.jpeg)
+![](../assets/e5359c2cbaa6/1*QidWRjAtj8CUIO020S6_RA.jpeg)
 
 
 
-![Via Vannina on Tuesday morning, photo by Rome volunteers](assets/e5359c2cbaa6/1*pvn7Iye32K6yv3mM1Isu8g.jpeg)
+![Via Vannina on Tuesday morning, photo by Rome volunteers](../assets/e5359c2cbaa6/1*pvn7Iye32K6yv3mM1Isu8g.jpeg)
 
 Via Vannina on Tuesday morning, photo by Rome volunteers
 
 
-![](assets/e5359c2cbaa6/1*fkIjuDtSz8KD614xCg64rw.jpeg)
+![](../assets/e5359c2cbaa6/1*fkIjuDtSz8KD614xCg64rw.jpeg)
 
 
 
-![](assets/e5359c2cbaa6/1*n2-X_tRracsiSBYdY-NqSg.jpeg)
+![](../assets/e5359c2cbaa6/1*n2-X_tRracsiSBYdY-NqSg.jpeg)
 
 #### FRANCE
 ### _‘If the State doesn’t react, the people might start dying of hunger on the streets ‘_

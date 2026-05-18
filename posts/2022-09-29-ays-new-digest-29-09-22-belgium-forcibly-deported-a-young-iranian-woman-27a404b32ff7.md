@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 29/09/22: Belgium forcibly deported a young Iranian woman
+title: "AYS News Digest 29/09/22: Belgium forcibly deported a young Iranian woman"
 author: Are You Syrious?
 date: 2022-09-29T15:51:06.586+0100
 last_modified_at: 2022-09-29T23:02:28.939+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,deportations,italy,refugees,migration]
 description: Belgium keeps deporting to Iran despite risk of death// Concern over the migration policies of Italy’s new far-right party // March against…
 image:
-  path: assets/27a404b32ff7/0*7K3cF9dHsRZfNaH9
+  path: ../assets/27a404b32ff7/0*7K3cF9dHsRZfNaH9
 ---
 
 ### AYS News Digest 29/09/22: Belgium forcibly deported a young Iranian woman
@@ -15,7 +15,7 @@ image:
 Belgium keeps deporting to Iran despite risk of death// Concern over the migration policies of Italy’s new far\-right party // March against border and asylum policies comes to Brussels // Deportations to Iran from Germany could happen anytime// And more
 
 
-![A young iranian woman, Aisha, was expelled from Belgium to Iran, transiting through Turkey\. Via: [Le Soir](https://www.lesoir.be/467211/article/2022-09-23/vive-emotion-autour-de-lexpulsion-de-belgique-dune-iranienne-de-vingt-ans?fbclid=IwAR21QvqHqdstquBdJ2Nrt5he6Af8EKiQWSs5gQU8U7n_d5gTAtebyBsfkWk)](assets/27a404b32ff7/0*7K3cF9dHsRZfNaH9)
+![A young iranian woman, Aisha, was expelled from Belgium to Iran, transiting through Turkey\. Via: [Le Soir](https://www.lesoir.be/467211/article/2022-09-23/vive-emotion-autour-de-lexpulsion-de-belgique-dune-iranienne-de-vingt-ans?fbclid=IwAR21QvqHqdstquBdJ2Nrt5he6Af8EKiQWSs5gQU8U7n_d5gTAtebyBsfkWk)](../assets/27a404b32ff7/0*7K3cF9dHsRZfNaH9)
 
 A young iranian woman, Aisha, was expelled from Belgium to Iran, transiting through Turkey\. Via: [Le Soir](https://www.lesoir.be/467211/article/2022-09-23/vive-emotion-autour-de-lexpulsion-de-belgique-dune-iranienne-de-vingt-ans?fbclid=IwAR21QvqHqdstquBdJ2Nrt5he6Af8EKiQWSs5gQU8U7n_d5gTAtebyBsfkWk)
 #### FEATURE
@@ -73,7 +73,7 @@ Once again, European asylum policies prove problematic, putting people at risk\.
 ### **Information released to Statewatch in response to its questions about bilateral cooperation Greece\-UK against migrant smuggling**
 
 
-![Via [Statewatch](https://www.statewatch.org/news/2022/september/uk-greece-bilateral-cooperation-against-migrant-smuggling/?fbclid=IwAR2YXGX_sheXFCYUZ6Uocf99u3N__4VYmQ_weJQ-3Wa0HCVbZGGMesdF74s)](assets/27a404b32ff7/0*IwFr2HGYTts3Jg8z)
+![Via [Statewatch](https://www.statewatch.org/news/2022/september/uk-greece-bilateral-cooperation-against-migrant-smuggling/?fbclid=IwAR2YXGX_sheXFCYUZ6Uocf99u3N__4VYmQ_weJQ-3Wa0HCVbZGGMesdF74s)](../assets/27a404b32ff7/0*IwFr2HGYTts3Jg8z)
 
 Via [Statewatch](https://www.statewatch.org/news/2022/september/uk-greece-bilateral-cooperation-against-migrant-smuggling/?fbclid=IwAR2YXGX_sheXFCYUZ6Uocf99u3N__4VYmQ_weJQ-3Wa0HCVbZGGMesdF74s)
 
@@ -97,7 +97,7 @@ Read the requests and answers here:
 ### **A worrying future for human rights in Italy, especially on migration policies**
 
 
-![Giorgia Meloni after her party’s victory\. Via [Giorgia Meloni twitter](https://twitter.com/GiorgiaMeloni/status/1574200445769334784)](assets/27a404b32ff7/0*YJnCe2EoTo487Eco)
+![Giorgia Meloni after her party’s victory\. Via [Giorgia Meloni twitter](https://twitter.com/GiorgiaMeloni/status/1574200445769334784)](../assets/27a404b32ff7/0*YJnCe2EoTo487Eco)
 
 Giorgia Meloni after her party’s victory\. Via [Giorgia Meloni twitter](https://twitter.com/GiorgiaMeloni/status/1574200445769334784)
 
@@ -158,7 +158,7 @@ According to data from the Federal Office for Migration and Refugees, about 3,50
 ### **Rights\. No to the death\! : with this slogan the march against European murderous borders arrives in Brussels**
 
 
-![**Via [https://rights\.nodeaths\.eu/en/](https://rights.nodeaths.eu/en/)**](assets/27a404b32ff7/0*hMbZqwYjSs0dZBNq)
+![**Via [https://rights\.nodeaths\.eu/en/](https://rights.nodeaths.eu/en/)**](../assets/27a404b32ff7/0*hMbZqwYjSs0dZBNq)
 
 **Via [https://rights\.nodeaths\.eu/en/](https://rights.nodeaths.eu/en/)**
 

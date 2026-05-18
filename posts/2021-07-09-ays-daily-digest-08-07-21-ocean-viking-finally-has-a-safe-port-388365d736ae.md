@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,sea-rescue,mediterranean]
 description: Returnees to Afghanistan CAnnot Return to Hometown Due to Taliban Invasion//Another Wall in Evros?//ECHR Rules Against Hungarian Pushbacks
 image:
-  path: assets/388365d736ae/0*hnGv5WFRVvaWM_Vm
+  path: ../assets/388365d736ae/0*hnGv5WFRVvaWM_Vm
 ---
 
 ### AYS Daily Digest 08/07/21 — Ocean Viking Finally Has a Safe Port\!
 #### Returnees to Afghanistan CAnnot Return to Hometown Due to Taliban Invasion//Another Wall in Evros?//ECHR Rules Against Hungarian Pushbacks
 
 
-![Scenes of joy aboard the Ocean Viking as a port of safety was announced\. Photo credit: Flavio Gaspeani of [SOS MEDITERRANEE](https://twitter.com/SOSMedIntl/status/1413229300443140113/photo/1)](assets/388365d736ae/0*hnGv5WFRVvaWM_Vm)
+![Scenes of joy aboard the Ocean Viking as a port of safety was announced\. Photo credit: Flavio Gaspeani of [SOS MEDITERRANEE](https://twitter.com/SOSMedIntl/status/1413229300443140113/photo/1)](../assets/388365d736ae/0*hnGv5WFRVvaWM_Vm)
 
 Scenes of joy aboard the Ocean Viking as a port of safety was announced\. Photo credit: Flavio Gaspeani of [SOS MEDITERRANEE](https://twitter.com/SOSMedIntl/status/1413229300443140113/photo/1)
 #### FEATURE

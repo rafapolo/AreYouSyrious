@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,greece,refugees,eviction,libya]
 description: Traffickers found after murder in Libya // Sea-Watch 3 is back at Sea // some people at sea outside Malta to be transferred to other EU…
 image:
-  path: assets/cdbc50dc1b1d/1*xdebvSKHt69GNjw5Ojy6Ug.jpeg
+  path: ../assets/cdbc50dc1b1d/1*xdebvSKHt69GNjw5Ojy6Ug.jpeg
 ---
 
 ### AYS Daily Digest 09/06/20 Over 11,000 people face possible evictions in Greece
 #### Traffickers found after murder in Libya // Sea\-Watch 3 is back at Sea // some people at sea outside Malta to be transferred to other EU countries // and more…
 
 
-![From [evictions](https://enoughisenough14.org/2019/08/28/greek-state-begins-evictions-of-anarchist-and-refugee-squats-in-exarcheia/) in 2019\. Photo _by [@ChristofakisN](https://twitter.com/ChristofakisN)_](assets/cdbc50dc1b1d/1*xdebvSKHt69GNjw5Ojy6Ug.jpeg)
+![From [evictions](https://enoughisenough14.org/2019/08/28/greek-state-begins-evictions-of-anarchist-and-refugee-squats-in-exarcheia/) in 2019\. Photo _by [@ChristofakisN](https://twitter.com/ChristofakisN)_](../assets/cdbc50dc1b1d/1*xdebvSKHt69GNjw5Ojy6Ug.jpeg)
 
 From [evictions](https://enoughisenough14.org/2019/08/28/greek-state-begins-evictions-of-anarchist-and-refugee-squats-in-exarcheia/) in 2019\. Photo _by [@ChristofakisN](https://twitter.com/ChristofakisN)_
 ### FEATURE 11,000 people are facing eviction in Greece because they are no longer eligible to stay at reception facilities for asylum seekers
@@ -31,19 +31,19 @@ Greece does not have enough space to hold these recognized refugees and house pe
 #### LIBYA
 
 
-![“In 10 days, at least 337 migrants who departed from Libyan shores arrived in Italy and Malta, while 194 others were intercepted at sea and returned to Libya\. IOM Libya’s Maritime Update — 29 May to 7 June\.” Info and Photo by [IOM Libya](https://twitter.com/IOM_Libya/status/1270275538142232576)](assets/cdbc50dc1b1d/1*sXxTos-pUoq-bDplKdoTfQ.jpeg)
+![“In 10 days, at least 337 migrants who departed from Libyan shores arrived in Italy and Malta, while 194 others were intercepted at sea and returned to Libya\. IOM Libya’s Maritime Update — 29 May to 7 June\.” Info and Photo by [IOM Libya](https://twitter.com/IOM_Libya/status/1270275538142232576)](../assets/cdbc50dc1b1d/1*sXxTos-pUoq-bDplKdoTfQ.jpeg)
 
 “In 10 days, at least 337 migrants who departed from Libyan shores arrived in Italy and Malta, while 194 others were intercepted at sea and returned to Libya\. IOM Libya’s Maritime Update — 29 May to 7 June\.” Info and Photo by [IOM Libya](https://twitter.com/IOM_Libya/status/1270275538142232576)
 
 
-![“Armed men attacked Zintan dc on Sunday night\. One guard was killed\. Detainees say they believe the people who attacked were trying to kidnap them & will try again\.” Info and Photo by [Sally Hayden](https://twitter.com/sallyhayd/status/1270443736259067906)](assets/cdbc50dc1b1d/1*7q9zbEv2kEHF6r5iFlqreA.png)
+![“Armed men attacked Zintan dc on Sunday night\. One guard was killed\. Detainees say they believe the people who attacked were trying to kidnap them & will try again\.” Info and Photo by [Sally Hayden](https://twitter.com/sallyhayd/status/1270443736259067906)](../assets/cdbc50dc1b1d/1*7q9zbEv2kEHF6r5iFlqreA.png)
 
 “Armed men attacked Zintan dc on Sunday night\. One guard was killed\. Detainees say they believe the people who attacked were trying to kidnap them & will try again\.” Info and Photo by [Sally Hayden](https://twitter.com/sallyhayd/status/1270443736259067906)
 
 20 traffickers were arrested in Bangladesh for killing Bangladeshis in Libya\. They killed 30 people; 26 were from Bangladesh\. According to Bangladesh national news _“The killing took place at a smuggling warehouse in desert town Mezda, near the city of Gharyan, southwest of Tripoli of Libya\. Eleven more Bangladeshis were also injured in the attack\.”_ More [here](http://www.unb.com.bd/category/Bangladesh/killing-of-bangladeshis-in-libya-20-traffickers-arrested-in-bangladesh/52769?fbclid=IwAR0c9omfYx3FzbnY-DeOoYnmuFsUICIUH9nK_q50R3uWTHFIxEMrDx3Cw-M) \.
 
 
-![“In today’s comeback mission \#Moonbird spotted 3 boats in distress in international waters between \#Malta and \#Libya\. A Libyan patrol boat was also in the area\. \#SeaWatch3 has launched search operations, but we’re afraid ~200 people have been pulled\-back to the civil war country\.” Info and Photo by [Sea\-Watch International](https://twitter.com/seawatch_intl/status/1270426393025884166)](assets/cdbc50dc1b1d/1*r2pmWKWWOEFJxGWO_BzOSA.jpeg)
+![“In today’s comeback mission \#Moonbird spotted 3 boats in distress in international waters between \#Malta and \#Libya\. A Libyan patrol boat was also in the area\. \#SeaWatch3 has launched search operations, but we’re afraid ~200 people have been pulled\-back to the civil war country\.” Info and Photo by [Sea\-Watch International](https://twitter.com/seawatch_intl/status/1270426393025884166)](../assets/cdbc50dc1b1d/1*r2pmWKWWOEFJxGWO_BzOSA.jpeg)
 
 “In today’s comeback mission \#Moonbird spotted 3 boats in distress in international waters between \#Malta and \#Libya\. A Libyan patrol boat was also in the area\. \#SeaWatch3 has launched search operations, but we’re afraid ~200 people have been pulled\-back to the civil war country\.” Info and Photo by [Sea\-Watch International](https://twitter.com/seawatch_intl/status/1270426393025884166)
 #### TUNISIA
@@ -55,7 +55,7 @@ At least 20 people are dead after a shipwreck off the coast of Sfax on Tuesday\.
 Here to save lives\. The organization said on twitter that the crew was _“constantly practicing standard safety and rescue procedures as well as an extra batch of COVID\-19 prevention measures\.”_ [More here](https://www.infomigrants.net/en/post/25258/sea-watch-3-back-sailing-the-mediterranean?fbclid=IwAR3JCfhhZwsSfYsA44vmkZ-q-bGtd-b_Ott2zk4ejj33mPKKUKT3fCTV_t0) \.
 
 
-![](assets/cdbc50dc1b1d/1*F2Qmh9sgnjXx7at5DHVqhg.jpeg)
+![](../assets/cdbc50dc1b1d/1*F2Qmh9sgnjXx7at5DHVqhg.jpeg)
 
 #### GREECE
 
@@ -92,18 +92,18 @@ Here to save lives\. The organization said on twitter that the crew was _“cons
 
 
 
-![](assets/cdbc50dc1b1d/1*0aE7xptLMuWBdqXaL0CX1Q.png)
+![](../assets/cdbc50dc1b1d/1*0aE7xptLMuWBdqXaL0CX1Q.png)
 
 
 
-![“Yesterday together with the friends from MCAT we hanged hundreds of posters for better waste management and environment awareness\. Was a good job and people liked it a lot\. Our aim, to keep Moria clean\.” Message and Photos by [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/posts/153365702973164?hc_location=ufi)](assets/cdbc50dc1b1d/1*9wWvSf8DWc2xeFxT4lc1Hw.jpeg)
+![“Yesterday together with the friends from MCAT we hanged hundreds of posters for better waste management and environment awareness\. Was a good job and people liked it a lot\. Our aim, to keep Moria clean\.” Message and Photos by [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/posts/153365702973164?hc_location=ufi)](../assets/cdbc50dc1b1d/1*9wWvSf8DWc2xeFxT4lc1Hw.jpeg)
 
 “Yesterday together with the friends from MCAT we hanged hundreds of posters for better waste management and environment awareness\. Was a good job and people liked it a lot\. Our aim, to keep Moria clean\.” Message and Photos by [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/posts/153365702973164?hc_location=ufi)
 
 The quarantine lockdown has ended in camp in Nea Kavala, northern Greece after many COVID\-19 tests came back negative\. The quarantine was first imposed after a woman in the facility came back with a positive test\. Doctors Without Borders said a quarantine for this long was unjustifiable and that vulnerable people should be transferred\. [More here\.](https://www.ekathimerini.com/253513/article/ekathimerini/news/quarantine-ends-for-nea-kavala-refugee-camp-extended-in-other-facilities?fbclid=IwAR3quiWYQom6eUsfHAiwL9GGmUbmYsQOWDq2GR-F-I7fC4Ct_DtfNUdT5rg)
 
 
-![Photo by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/photos/a.285312485325196/850087748847664/?type=1&theater)](assets/cdbc50dc1b1d/1*sDbjKC2edMPGi8e3Vtk5kQ.jpeg)
+![Photo by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/photos/a.285312485325196/850087748847664/?type=1&theater)](../assets/cdbc50dc1b1d/1*sDbjKC2edMPGi8e3Vtk5kQ.jpeg)
 
 Photo by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/photos/a.285312485325196/850087748847664/?type=1&theater)
 
@@ -125,7 +125,7 @@ Europe Must Act is holding a panel discussion on June 20th for World Refugee Day
 The European Commission made the announcement, but it is still uncertain how many people each country will accept\. The Maltese government had made an urgent appeal to other EU countries to help\. Malta has been breaking international law by not letting the people disembark and instead making them quarantine on ships currently not in use\. Some of the people on the ships have been there since April 30th, when they were rescued after distress calls at sea\. More [here](https://www.infomigrants.net/en/post/25256/france-luxembourg-portugal-to-accept-migrants-disembarked-in-malta?fbclid=IwAR2EwWR2aUEozpkrMyni4Nrpl1WYApe1j8n9vAsXLEocZbClq4vOflIw4No) \.
 
 
-![Photo by picture\-alliance/AP Photo](assets/cdbc50dc1b1d/1*MWcXEfKb2zm_pc6Ta8UZQg.jpeg)
+![Photo by picture\-alliance/AP Photo](../assets/cdbc50dc1b1d/1*MWcXEfKb2zm_pc6Ta8UZQg.jpeg)
 
 Photo by picture\-alliance/AP Photo
 
@@ -143,7 +143,7 @@ Photo by picture\-alliance/AP Photo
 #### ITALY
 
 
-![**ILLEGAL ITALIAN POLICE PUSHBACKS** : “Alishah 3 days ago managed to arrive in Bosnia to Italy together with other migrants, after two weeks of walking for the woods, without food and no water\. Arrived in Italy they were taken by the Italian police who took their fingerprints and despite their request for political asylum, instead of taking them to a reception center as the law provides, they were loaded into a police van and taken to Slovenia and handed over to the Slovenian police, against every international convention and against the same European immigration laws\. Slovenian police brought him, along with the other migrants, to Croatia and handed him over to the Croatian police, who as always beat him savagely and stole from the few belongings he had and sent back to Bosnia\.” Info and photo by freelance photographer [Pierpaolo Mittica](https://www.facebook.com/photo.php?fbid=3289980547699239&set=a.158984250798900&type=3&theater)](assets/cdbc50dc1b1d/1*BlQJelppzHbhDUMj3vfNOw.jpeg)
+![**ILLEGAL ITALIAN POLICE PUSHBACKS** : “Alishah 3 days ago managed to arrive in Bosnia to Italy together with other migrants, after two weeks of walking for the woods, without food and no water\. Arrived in Italy they were taken by the Italian police who took their fingerprints and despite their request for political asylum, instead of taking them to a reception center as the law provides, they were loaded into a police van and taken to Slovenia and handed over to the Slovenian police, against every international convention and against the same European immigration laws\. Slovenian police brought him, along with the other migrants, to Croatia and handed him over to the Croatian police, who as always beat him savagely and stole from the few belongings he had and sent back to Bosnia\.” Info and photo by freelance photographer [Pierpaolo Mittica](https://www.facebook.com/photo.php?fbid=3289980547699239&set=a.158984250798900&type=3&theater)](../assets/cdbc50dc1b1d/1*BlQJelppzHbhDUMj3vfNOw.jpeg)
 
 **ILLEGAL ITALIAN POLICE PUSHBACKS** : “Alishah 3 days ago managed to arrive in Bosnia to Italy together with other migrants, after two weeks of walking for the woods, without food and no water\. Arrived in Italy they were taken by the Italian police who took their fingerprints and despite their request for political asylum, instead of taking them to a reception center as the law provides, they were loaded into a police van and taken to Slovenia and handed over to the Slovenian police, against every international convention and against the same European immigration laws\. Slovenian police brought him, along with the other migrants, to Croatia and handed him over to the Croatian police, who as always beat him savagely and stole from the few belongings he had and sent back to Bosnia\.” Info and photo by freelance photographer [Pierpaolo Mittica](https://www.facebook.com/photo.php?fbid=3289980547699239&set=a.158984250798900&type=3&theater)
 #### BOSNIA AND HERZEGOVINA

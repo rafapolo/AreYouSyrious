@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 18/4/18: ‘Give us the migrants or we will kill you,’ The front lines of…
+title: "AYS Daily Digest 18/4/18: ‘Give us the migrants or we will kill you,’ The front lines of…"
 author: Are You Syrious?
 date: 2018-04-19T11:18:19.560+0100
 last_modified_at: 2018-04-19T18:19:48.420+0100
 categories: Are You Syrious?
 tags: [refugees,greece,solidarity,digest,europe]
-description: AYS talks to Proactiva — what happened and what’s next? / Morocco: Police expelling volunteers from Nador / Greece: Volunteers attacked on…
+description: "AYS talks to Proactiva — what happened and what’s next? / Morocco: Police expelling volunteers from Nador / Greece: Volunteers attacked on…"
 image:
-  path: assets/4a84d6762437/1*imJ4HvbIPXrqA1QChgfM1g.jpeg
+  path: ../assets/4a84d6762437/1*imJ4HvbIPXrqA1QChgfM1g.jpeg
 ---
 
 ### AYS Daily Digest 18/4/18: ‘Give us the migrants or we will kill you,’ The front lines of Criminalized Solidarity\.
 #### _AYS talks to Proactiva — what happened and what’s next? / Morocco: Police expelling volunteers from Nador / Greece: Volunteers attacked on Chios; Solidarity with the Moria 35 and Petrou 8 ahead of court / Hungary: Ilias and Ahmed vs\. Hungary at the ECHR / Italy: dismantling of Ventimiglia camp / Germany: no more systematic checks for arrivals from Greece / more news_
 
 
-![Action in Thessaloniki\. photo credit: NoBorders](assets/4a84d6762437/1*imJ4HvbIPXrqA1QChgfM1g.jpeg)
+![Action in Thessaloniki\. photo credit: NoBorders](../assets/4a84d6762437/1*imJ4HvbIPXrqA1QChgfM1g.jpeg)
 
 Action in Thessaloniki\. photo credit: NoBorders
 ### FEATURE
@@ -126,14 +126,14 @@ According to a member of the Spanish NGO, SMH, there was an attack on the volunt
 Activists in Rhodes were prevented from having a press release by police for more than one hour\. The individuals were from Rhodes solidarity group and the press release detailed criticism of the detention of refugees\. The press release was to be released at the same time of the Prime Minister’s speech at the Regional Development Conference\.
 
 
-![Photo credit: NoBorders](assets/4a84d6762437/1*bS-JE3i09N8KxEg0U01qgQ.jpeg)
+![Photo credit: NoBorders](../assets/4a84d6762437/1*bS-JE3i09N8KxEg0U01qgQ.jpeg)
 
 Photo credit: NoBorders
 
 The press release is available below in Greek\.
 
 
-![](assets/4a84d6762437/1*7eg29MOPeuT2ycics4KGzQ.jpeg)
+![](../assets/4a84d6762437/1*7eg29MOPeuT2ycics4KGzQ.jpeg)
 
 ### Athens
 #### The 8 Algerian men facing trial next week in Athens 
@@ -150,7 +150,7 @@ The campaign of prosecution of 8 Algerian men was joined with the trial against 
 People in Thessaloniki spoke out in solidarity with the Moria 35 and Petrou Ralli 8\. A large banner was draped from an arch in view of the public, informing them of the plight of these individuals\.
 
 
-![Thessaloniki Photo Credit: NoBorders](assets/4a84d6762437/1*1Kyy_qnREMGg4_kwCewVtQ.jpeg)
+![Thessaloniki Photo Credit: NoBorders](../assets/4a84d6762437/1*1Kyy_qnREMGg4_kwCewVtQ.jpeg)
 
 Thessaloniki Photo Credit: NoBorders
 
@@ -188,7 +188,7 @@ For more information about the project, check out their previous event [page](ht
 The volunteers in Sarajevo continue working with the refugees in and around the city and are in a need of a local apartment or a house to rent for a reasonable price, so if any friends from Sarajevo are reading this, please turn to [Souls of Sarajevo](https://www.facebook.com/soulsofsarajevo/?hc_ref=ARSTl3wN__CLqEZzcs5N5CywmHEf4KFBKhZKg14wJApLHHbfvlWFvxI47WaOl3VaSO8&fref=nf) page to contact them directly\.
 
 
-![](assets/4a84d6762437/1*tAxCOKlBM0bcqS9RfpR9nw.jpeg)
+![](../assets/4a84d6762437/1*tAxCOKlBM0bcqS9RfpR9nw.jpeg)
 
 
 
@@ -258,7 +258,7 @@ On 18 April 2015, a wooden barge sank in the Mediterranean\. There were over 800
 That’s why the Sea Watch team compiles a [**summary of recent developments in the Mediterranean** \.](https://sea-watch.org/en/updates-on-the-situation-in-the-mediterranean/)
 
 
-![164 people were rescued on Wednesday afternoon in the central Mediterranean sea\. The warning of the endangered boat came from MRCC Roma and they were rescued by the teams [sea\-eye\.org Italiano](https://www.facebook.com/seaeyeorgit/?fref=mentions&hc_location=group) y [SOS MEDITERRANEE France](https://www.facebook.com/sosmedfrance/?fref=mentions&hc_location=group) \.](assets/4a84d6762437/1*CUO3y_h16KU9H0UVHispsA.jpeg)
+![164 people were rescued on Wednesday afternoon in the central Mediterranean sea\. The warning of the endangered boat came from MRCC Roma and they were rescued by the teams [sea\-eye\.org Italiano](https://www.facebook.com/seaeyeorgit/?fref=mentions&hc_location=group) y [SOS MEDITERRANEE France](https://www.facebook.com/sosmedfrance/?fref=mentions&hc_location=group) \.](../assets/4a84d6762437/1*CUO3y_h16KU9H0UVHispsA.jpeg)
 
 164 people were rescued on Wednesday afternoon in the central Mediterranean sea\. The warning of the endangered boat came from MRCC Roma and they were rescued by the teams [sea\-eye\.org Italiano](https://www.facebook.com/seaeyeorgit/?fref=mentions&hc_location=group) y [SOS MEDITERRANEE France](https://www.facebook.com/sosmedfrance/?fref=mentions&hc_location=group) \.
 

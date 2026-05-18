@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL from Chios: A place of encounters
+title: "AYS SPECIAL from Chios: A place of encounters"
 author: Are You Syrious?
 date: 2019-02-20T12:37:07.417+0000
 last_modified_at: 2019-02-21T13:06:10.099+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,greece,special,europe,human-rights]
 description: Three-year-old Zina arrived on Chios early morning on the 24th of December 2018. Together with her family and 15 more people she crossed…
 image:
-  path: assets/8bb6ab325d74/1*6E2u4iGkrOhwNOA55gk6Ng.jpeg
+  path: ../assets/8bb6ab325d74/1*6E2u4iGkrOhwNOA55gk6Ng.jpeg
 ---
 
 ### AYS SPECIAL from Chios: A place of encounters
 #### _Three\-year\-old Zina arrived on Chios early morning on the 24th of December 2018\. Together with her family and 15 more people she crossed the Aegean Sea between Turkey and the Greek island of Chios in a small rubber boat\. She remembered her crossing very well, and told a volunteer who participared in the rescue about it\._
 
 
-![](assets/8bb6ab325d74/1*6E2u4iGkrOhwNOA55gk6Ng.jpeg)
+![](../assets/8bb6ab325d74/1*6E2u4iGkrOhwNOA55gk6Ng.jpeg)
 
 
 The call came around 5:15 in the morning\. After only five hours of sleep the first response team on Chios rushed out of bed and headed towards the warehouse\. “It was the second landing that night,” a volunteer who participated in rescue remembered\. They loaded the cars with clothes, blankets, food and water and drove 30\-minutes south to a beach near the village Emporios\.

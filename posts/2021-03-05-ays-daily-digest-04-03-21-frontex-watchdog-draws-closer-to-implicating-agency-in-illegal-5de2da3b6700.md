@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest — 04/03/21: Frontex watchdog draws closer to implicating agency in illegal…
+title: "AYS Daily Digest — 04/03/21: Frontex watchdog draws closer to implicating agency in illegal…"
 author: Are You Syrious?
 date: 2021-03-05T21:01:07.885+0000
 last_modified_at: 2021-03-05T21:01:07.885+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: []
 description: Italian prosecutors continue strategy of charging rescuers involved in SAR operations in the Mediterranean // Unaccompanied minors in…
 image:
-  path: assets/5de2da3b6700/0*BtX5SvLKV6DAV5Xh.jpeg
+  path: ../assets/5de2da3b6700/0*BtX5SvLKV6DAV5Xh.jpeg
 ---
 
 ### AYS Daily Digest — 04/03/21: Frontex watchdog draws closer to implicating agency in illegal pushbacks
@@ -16,7 +16,7 @@ image:
 [Are You Syrious?](?source=post_page-----1bd9459a11a6--------------------------------) [Mar 5](ays-daily-digest-04-03-2021-frontex-watchdog-draws-closer-to-determine-agency-implication-in-1bd9459a11a6?source=post_page-----1bd9459a11a6--------------------------------) · 11 min read
 
 
-![](assets/5de2da3b6700/0*BtX5SvLKV6DAV5Xh.jpeg)
+![](../assets/5de2da3b6700/0*BtX5SvLKV6DAV5Xh.jpeg)
 
 ### FEATURED: EU and FRONTEX
 
@@ -105,7 +105,7 @@ Forensic oceanography and archaeology [evidence suggests](https://blamingtheresc
 ### GERMANY
 
 
-![](assets/5de2da3b6700/0*sc_Dcr2ivD3ZSgG7.jpeg)
+![](../assets/5de2da3b6700/0*sc_Dcr2ivD3ZSgG7.jpeg)
 
 
 In the past two days, [197 people have been transferred](https://www.infomigrants.net/en/post/30651/197-refugees-transferred-from-greece-to-germany?fbclid=IwAR0-M61RnSzpujZ627h7Csw-YzXpPby3xOStNhFjUvMxeM3hwA0UurtHsuw) from Greece to Germany, where they will be settled in different German states\. This brings the total number of transfers since April of last year to 2,151\. Germany was one of several European countries that agreed to take in ‘vulnerable refugees and migrants’ from Greece last spring\. In March 2020, Berlin agreed to take in roughly 240 sick children and their core family members, as well as 53 unaccompanied minors\. The overall number of people Germany has agreed to take in from Greece is 2,750\.

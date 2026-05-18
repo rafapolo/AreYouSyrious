@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,libya,spain,greece,france]
 description: Shocking treatment of migrants at Canary Islands // New pressures to investigate Frontex’s involvement in illegal pushbacks // Reports…
 image:
-  path: assets/965040b9324f/0*lt6AfFV3SE2a43D-.jpeg
+  path: ../assets/965040b9324f/0*lt6AfFV3SE2a43D-.jpeg
 ---
 
 ### AYS Digest 12/02/2021 — New rescues in the Mediterranean, while Libyan coastguard intercepts almost half of attempts
 ### Shocking treatment of migrants at Canary Islands // New pressures to investigate Frontex’s involvement in illegal pushbacks // Reports from the field in Greece and France // Detentions in Libya // and more…
 
 
-![](assets/965040b9324f/0*u7xkVJdLNIP_ZHZi.jpeg)
+![](../assets/965040b9324f/0*u7xkVJdLNIP_ZHZi.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----bf0117f3a5d8--------------------------------)
@@ -23,11 +23,11 @@ image:
 ### SEA
 
 
-![](assets/965040b9324f/0*ZYP3jK07f6N1R954)
+![](../assets/965040b9324f/0*ZYP3jK07f6N1R954)
 
 
 
-![](assets/965040b9324f/0*lt6AfFV3SE2a43D-.jpeg)
+![](../assets/965040b9324f/0*lt6AfFV3SE2a43D-.jpeg)
 
 
 We have received news from [OpenArms](https://www.facebook.com/NewsfromtheMed/posts/1149366232183638) that a small wooden boat with 40 people on board, amongst whom a woman and a child, has been rescued by the NGO\.
@@ -43,11 +43,11 @@ Between today and next Sunday the Central Mediterranean will be hit by a [strong
 ### SPAIN
 
 
-![](assets/965040b9324f/0*glvaB3Qx0ib46DZB)
+![](../assets/965040b9324f/0*glvaB3Qx0ib46DZB)
 
 
 
-![](assets/965040b9324f/0*0EJEUDswyYHYlosi.png)
+![](../assets/965040b9324f/0*0EJEUDswyYHYlosi.png)
 
 ### New rescue missions
 
@@ -109,11 +109,11 @@ As a newly arrived migrant in France, where do you turn to for food, warm clothe
 Twice a week, [Care4Calais](https://twitter.com/Care4Calais/status/1360183415027490816?fbclid=IwAR2N4ElXbzk1xuo8Dv1mG24-LJQP3G8596UxqRCuUsX-UeFUuoKly0hQUAc) gos to distribute warm clothes, shelter and food packs in Dunkirk, 30km from Calais\. Most of those here are Kurdish — there are several families and even young children living in these awful conditions\.
 
 
-![](assets/965040b9324f/0*OfPdJmm1ftIjYQGz)
+![](../assets/965040b9324f/0*OfPdJmm1ftIjYQGz)
 
 
 
-![](assets/965040b9324f/0*C4aZ-leY7arOu5nM.jpeg)
+![](../assets/965040b9324f/0*C4aZ-leY7arOu5nM.jpeg)
 
 ### Evictions in Calais
 
@@ -132,11 +132,11 @@ the distinctive landscape of camps in contemporary France is the result of publi
 We would like to share some pictures of the different self\-organized classes on non\-formal education that [StandByMe Lesvos supports through Moria Acadamia\.](https://www.facebook.com/SBMLesvos/posts/816611468931877)
 
 
-![](assets/965040b9324f/0*1SiLLhGtzgaSIEvx)
+![](../assets/965040b9324f/0*1SiLLhGtzgaSIEvx)
 
 
 
-![](assets/965040b9324f/0*dPCel9k78d34cLks.jpeg)
+![](../assets/965040b9324f/0*dPCel9k78d34cLks.jpeg)
 
 
 

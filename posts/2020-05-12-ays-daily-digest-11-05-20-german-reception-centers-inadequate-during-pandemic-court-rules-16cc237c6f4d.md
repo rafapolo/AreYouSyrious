@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 11/05/20: German Reception Centers ‘Inadequate’ During Pandemic, Court Rules
+title: "AYS Daily Digest 11/05/20: German Reception Centers ‘Inadequate’ During Pandemic, Court Rules"
 author: Are You Syrious?
 date: 2020-05-12T16:00:06.100+0100
 last_modified_at: 2020-05-12T16:00:06.100+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: []
 description: In Serbia, police replaced the army guards / Possible food poisoning at the Lipa camp in BiH, beating as an official reaction / French…
 image:
-  path: assets/16cc237c6f4d/0*1KDWomhi4mqD721r.jpg
+  path: ../assets/16cc237c6f4d/0*1KDWomhi4mqD721r.jpg
 ---
 
 ### AYS Daily Digest 11/05/20: German Reception Centers ‘Inadequate’ During Pandemic, Court Rules
 ### In Serbia, police replaced the army guards / Possible food poisoning at the Lipa camp in BiH, beating as an official reaction / French Court of Auditors called the country’s asylum system outdated and insufficient / & more news
 
 
-![](assets/16cc237c6f4d/0*q6z-UvMkWdYbHrW6.jpeg)
+![](../assets/16cc237c6f4d/0*q6z-UvMkWdYbHrW6.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----67e97711010f----------------------)
@@ -22,11 +22,11 @@ image:
 [May 12](ays-daily-digest-11-05-20-german-reception-centers-inadequate-during-pandemic-court-rules-67e97711010f?source=post_page-----67e97711010f----------------------) · 10 min read
 
 
-![](assets/16cc237c6f4d/0*RDog8spOEQhN2eCN)
+![](../assets/16cc237c6f4d/0*RDog8spOEQhN2eCN)
 
 
 
-![](assets/16cc237c6f4d/0*1KDWomhi4mqD721r.jpg)
+![](../assets/16cc237c6f4d/0*1KDWomhi4mqD721r.jpg)
 
 
 The court in Munster\. Photo credit: [picture\-alliance/dpa/F\. Gentsch via DW](https://www.dw.com/en/german-court-covid-19-protection-inadequate-at-refugee-home/a-53395710?fbclid=IwAR2XB8HvNbv5XeBvihs0_89_5rUgy9SVYdYKpao4omExY20Jh-h-G2TP7Ao)
@@ -58,11 +58,11 @@ Unicorn Riot wrote [this article](https://unicornriot.ninja/2020/mutual-aid-to-d
 Another important initiative is _Metadrasi’s_ “Mobile Street\-Work Unit for Homeless\.” There are several hundred homeless children living alone on the streets of Athens, and they are working to distribute basic necessities and support\. You can read more about their work [here](https://www.facebook.com/metadrasi/posts/2965457340262304?hc_location=ufi) \.
 
 
-![](assets/16cc237c6f4d/0*1tBBNU0MI74KLM1L)
+![](../assets/16cc237c6f4d/0*1tBBNU0MI74KLM1L)
 
 
 
-![](assets/16cc237c6f4d/0*WHHTN4gZvKHSpTVw)
+![](../assets/16cc237c6f4d/0*WHHTN4gZvKHSpTVw)
 
 
 Source: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/830268937496212?hc_location=ufi)

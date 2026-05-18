@@ -1,13 +1,13 @@
 ---
-title: AYS Daily Digest 01/02/18: One year on, Europe is still supporting slavery in Libya
+title: "AYS Daily Digest 01/02/18: One year on, Europe is still supporting slavery in Libya"
 author: Are You Syrious?
 date: 2018-02-02T08:30:04.884+0000
 last_modified_at: 2018-03-01T13:39:24.108+0000
 categories: Are You Syrious?
 tags: [refugees,frontex,lesvos,athens,digest]
-description: WARNING: Fascists on the loose in Athens / New testimonies of Police brutality in Calais / Unfair treatment of minors on the northern…
+description: "WARNING: Fascists on the loose in Athens / New testimonies of Police brutality in Calais / Unfair treatment of minors on the northern…"
 image:
-  path: assets/2a60e73ff14b/1*PYfcP4wwok5PG9Mj6_t6UQ.jpeg
+  path: ../assets/2a60e73ff14b/1*PYfcP4wwok5PG9Mj6_t6UQ.jpeg
 ---
 
 ### AYS Daily Digest 01/02/18: One year on, Europe is still supporting slavery in Libya
@@ -15,7 +15,7 @@ image:
 _WARNING: Fascists on the loose in Athens / New testimonies of Police brutality in Calais / Unfair treatment of minors on the northern border of Italy / New FRONTEX Operation Themis to start today in the Mediterranean / Calls for demonstrations in Berlin and London / And more news…_
 
 
-![Edoardo Premoli \( \#overthefortress a Idomeni, 2016\)](assets/2a60e73ff14b/1*PYfcP4wwok5PG9Mj6_t6UQ.jpeg)
+![Edoardo Premoli \( \#overthefortress a Idomeni, 2016\)](../assets/2a60e73ff14b/1*PYfcP4wwok5PG9Mj6_t6UQ.jpeg)
 
 Edoardo Premoli \( \#overthefortress a Idomeni, 2016\)
 ### FEATURE: One year of the Italy\-Libya deal
@@ -136,7 +136,7 @@ A second boat was picked up by HCG outside Chios at 04:00, carrying 30 people \(
 
 
 
-![](assets/2a60e73ff14b/1*hyO_3h67Ogoxx2xeNwj7vQ.jpeg)
+![](../assets/2a60e73ff14b/1*hyO_3h67Ogoxx2xeNwj7vQ.jpeg)
 
 
 The [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport) published a breakdown of the first month of the year; it has been more quiet than the previous months, but this is mainly due to weather conditions of winter in the Aegean\. As the Aegean Boat Report says, “many people on the Turkish coast are waiting to cross\.”
@@ -225,7 +225,7 @@ They published this open letter:
 AYS received a video showing one more time the inhumane condition in the camp on the island Samos\.
 
 
-[![Samos](assets/2a60e73ff14b/d9b4_hqdefault.jpg "Samos")](http://www.youtube.com/watch?v=607bdrUrJlU)
+[![Samos](../assets/2a60e73ff14b/d9b4_hqdefault.jpg "Samos")](http://www.youtube.com/watch?v=607bdrUrJlU)
 
 
 
@@ -248,7 +248,7 @@ A nationalist demonstration is being organized in Athens on Sunday\. Large num
 **Please help sharing this [message from the NoBorders Network](https://www.facebook.com/nobordersnetwork/photos/a.660787423989153.1073741828.657905327610696/1642029459198273/?type=3&theater) :**
 
 
-![](assets/2a60e73ff14b/1*h9wotY5aDhw4Ti9lBqXX8w.jpeg)
+![](../assets/2a60e73ff14b/1*h9wotY5aDhw4Ti9lBqXX8w.jpeg)
 
 
 
@@ -391,11 +391,11 @@ We are asking the government to take active responsibility for leading the integ
 [Humans for Rights Network](https://www.facebook.com/humansforrights/) published further testimony of the brutality suffered by many refugees at the hands of the French police, as part of their campaign @WeAreWitnesses\.
 
 
-![](assets/2a60e73ff14b/1*dodOkCwbR3aQkbbnhTtyLA.jpeg)
+![](../assets/2a60e73ff14b/1*dodOkCwbR3aQkbbnhTtyLA.jpeg)
 
 
 
-![](assets/2a60e73ff14b/1*567Xtj__jnDssHDa61ITUQ.jpeg)
+![](../assets/2a60e73ff14b/1*567Xtj__jnDssHDa61ITUQ.jpeg)
 
 
 For most of 2017, HFRN spent time in Calais and Dunkirk gathering testimonies and evidence detailing some of the incidents which took place throughout this time\.
@@ -403,7 +403,7 @@ For most of 2017, HFRN spent time in Calais and Dunkirk gathering testimonies an
 President Macron, during his visit to Calais in January, 2018, stated that no brutality will be tolerated by security forces and at the same time threatened associations with defamation charges, challenging bodies to come forward with evidence to support these allegations against the security forces operating in and around Calais and Dunkirk\.
 
 
-![](assets/2a60e73ff14b/1*fhOhJZ_gs1Wx99cWW0ehww.jpeg)
+![](../assets/2a60e73ff14b/1*fhOhJZ_gs1Wx99cWW0ehww.jpeg)
 
 
 
@@ -458,13 +458,13 @@ More information in English is available [here](https://www.politico.eu/article/
 #### [**Demonstration call**](https://enoughisenough14.org/2018/02/01/february-11-stop-all-deportations-demo-in-berlin/) **against all deportations from Berlin: February 11th**
 
 
-![](assets/2a60e73ff14b/1*KfxWUeW3LPB7Xc2QDvY_5A.jpeg)
+![](../assets/2a60e73ff14b/1*KfxWUeW3LPB7Xc2QDvY_5A.jpeg)
 
 ### UK
 #### [**Call**](https://www.facebook.com/events/325360604635224/) **for demonstration in Parliament Square, London on February 17th, 1:30pm**
 
 
-![](assets/2a60e73ff14b/1*d9VzQtvpttxzNaDdQiO9cw.png)
+![](../assets/2a60e73ff14b/1*d9VzQtvpttxzNaDdQiO9cw.png)
 
 
 
@@ -502,7 +502,7 @@ The data are drawn from news reports, publications by civil society and human ri
 EASO has published a report on asylum trends throughout 2017, in which the authors suggested that asylum applications dropped by nearly half\.
 
 
-![Latest Asylum Trends — Screenshot from [EASO website](https://www.easo.europa.eu/latest-asylum-trends UNHCR)](assets/2a60e73ff14b/1*XPBxAb8jlFihUQ5z8uGoZA.png)
+![Latest Asylum Trends — Screenshot from [EASO website](https://www.easo.europa.eu/latest-asylum-trends UNHCR)](../assets/2a60e73ff14b/1*XPBxAb8jlFihUQ5z8uGoZA.png)
 
 Latest Asylum Trends — Screenshot from [EASO website](https://www.easo.europa.eu/latest-asylum-trends UNHCR)
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 21/07/17: Preliminary hearings for the Moria 35
+title: "AYS Daily Digest 21/07/17: Preliminary hearings for the Moria 35"
 author: Are You Syrious?
 date: 2017-07-21T22:11:25.375+0100
 last_modified_at: 2017-08-29T17:50:25.207+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,refugee-crisis,refugeeswelcome,moria,greece]
 description: Aftermath of the Moria detention centre police clashes / Amir Hampay released from prison / Greek authorities criticized for mishandling…
 image:
-  path: assets/2c4db66ec873/1*dbH4HnPl1AA1TboyCKPMJw.jpeg
+  path: ../assets/2c4db66ec873/1*dbH4HnPl1AA1TboyCKPMJw.jpeg
 ---
 
 ### AYS Daily Digest 21/07/17: Preliminary hearings for the Moria 35
@@ -15,7 +15,7 @@ image:
 _Aftermath of the Moria detention centre police clashes / Amir Hampay released from prison / Greek authorities criticized for mishandling registration and housing of unaccompanied minors / Lighthouse Relief closing in Lesvos / Calling out for volunteers in Greece / Water scarcity in Serbia / People sleeping rough in Gorizia / And more news…_
 
 
-![From a peaceful protest in Moria today](assets/2c4db66ec873/1*dbH4HnPl1AA1TboyCKPMJw.jpeg)
+![From a peaceful protest in Moria today](../assets/2c4db66ec873/1*dbH4HnPl1AA1TboyCKPMJw.jpeg)
 
 From a peaceful protest in Moria today
 #### Moria 35
@@ -32,11 +32,11 @@ The 35 refugees who were arrested in Moria Camp on Tuesday have preliminary hear
 [**Legal Centre Lesbos** ‏](https://twitter.com/lesboslegal) also condemned the police violence and treatment of detainees, saying access to food, water and medical care has been restricted and many remained without shoes\. Preliminary hearings have started without the accused having been given any food, they [wrote](https://twitter.com/lesboslegal/status/888286858521608196) , also calling for a peaceful show of solidarity with the accused outside Mytilene Court\.
 
 
-![](assets/2c4db66ec873/1*9s-Px9gG3rdPO2PtZ8iqEQ.jpeg)
+![](../assets/2c4db66ec873/1*9s-Px9gG3rdPO2PtZ8iqEQ.jpeg)
 
 
 
-![Photos from United Rescue Aid](assets/2c4db66ec873/1*qjCMRX0qhdXGuRniuwyz8g.jpeg)
+![Photos from United Rescue Aid](../assets/2c4db66ec873/1*qjCMRX0qhdXGuRniuwyz8g.jpeg)
 
 Photos from United Rescue Aid
 
@@ -148,15 +148,15 @@ See how you can help [here](https://www.facebook.com/borderfreeassociation/posts
 Hygiene packs were distributed last Friday \(July 14\) to residents of the Kikinda camp and yesterday \(July 21\) in the Sombor camp by BelgrAid\. The supplies will last for approximately one month, after which they will do another distribution\.
 
 
-![](assets/2c4db66ec873/1*6-dqzf-IObDs_8tbgqejBQ.jpeg)
+![](../assets/2c4db66ec873/1*6-dqzf-IObDs_8tbgqejBQ.jpeg)
 
 
 
-![](assets/2c4db66ec873/1*qslwGmA6wCVup70NVhXjgw.jpeg)
+![](../assets/2c4db66ec873/1*qslwGmA6wCVup70NVhXjgw.jpeg)
 
 
 
-![Photos by BelgrAid](assets/2c4db66ec873/1*f9OcsfA5EEFn5qvxMQRCZQ.jpeg)
+![Photos by BelgrAid](../assets/2c4db66ec873/1*f9OcsfA5EEFn5qvxMQRCZQ.jpeg)
 
 Photos by BelgrAid
 
@@ -176,11 +176,11 @@ Sea\-Watch carries on with their petition to end EU\-financed violence against r
 A total of 130 people slept rough in Gorizia last tonight\. They won’t have blankets tonight and food is needed: milk, biscuits, vegetables, beans, tuna, bread…
 
 
-![](assets/2c4db66ec873/1*UhfWAsIISS9IVxb2c0CKGQ.jpeg)
+![](../assets/2c4db66ec873/1*UhfWAsIISS9IVxb2c0CKGQ.jpeg)
 
 
 
-![Photos by local volunteer](assets/2c4db66ec873/1*lH7WKKihkfHdcX3aAo3paQ.jpeg)
+![Photos by local volunteer](../assets/2c4db66ec873/1*lH7WKKihkfHdcX3aAo3paQ.jpeg)
 
 Photos by local volunteer
 

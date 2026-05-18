@@ -1,5 +1,5 @@
 ---
-title: AYS Special from Libya: Protests in Tripoli against a system made “to cause suffering”
+title: "AYS Special from Libya: Protests in Tripoli against a system made “to cause suffering”"
 author: Are You Syrious?
 date: 2021-12-07T19:15:51.223+0000
 last_modified_at: 2021-12-07T19:15:51.223+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [special,libya,refugees,libyan-detention,unhcr-libya]
 description: In Libya’s capital, thousands of people on the move are stranded in front of a UNHCR Centre with nowhere to go. For almost two months now…
 image:
-  path: assets/c601d15894dc/0*3GkkzqBz8MYFMgoM.jpeg
+  path: ../assets/c601d15894dc/0*3GkkzqBz8MYFMgoM.jpeg
 ---
 
 ### AYS Special from Libya: Protests in Tripoli against a system made “to cause suffering”
 ### In Libya’s capital, thousands of people on the move are stranded in front of a UNHCR Centre with nowhere to go\. For almost two months now, the UN’s principal mechanism for the concerns of refugees has been unwilling or unable to provide them with basic support\. While the international community offers no alternative to the EU\-backed Libyan detention system, a new political movement of people on the move arises: those who have been subject to torture and detention for years are now organising to make their voices heard\. As “Refugees in Libya”, they mobilise, claim their rights, and refute the narratives that have been put forward about them\.
 
 
-![](assets/c601d15894dc/0*xv5lyhQF8XQZvz5F.jpeg)
+![](../assets/c601d15894dc/0*xv5lyhQF8XQZvz5F.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----77a6ce5ffc6-----------------------------------)
@@ -22,7 +22,7 @@ image:
 [Dec 5](special-from-libya-protests-in-tripoli-against-a-system-made-to-cause-suffering-77a6ce5ffc6?source=post_page-----77a6ce5ffc6-----------------------------------) · 12 min read
 
 
-![](assets/c601d15894dc/0*3GkkzqBz8MYFMgoM.jpeg)
+![](../assets/c601d15894dc/0*3GkkzqBz8MYFMgoM.jpeg)
 
 
 Day 43 of the protests in front of the UNHCR Community Day Center in Tripoli\. \(Copyright: Refugees in Libya\)
@@ -41,11 +41,11 @@ The situation is critical: up until today, one young person died after being hit
 As we write we’ve learnt that UNHCR announced in an statement the [permanent closure](https://www.facebook.com/UNHCRLibyaInfo/posts/116486877527494) of the Community Day Centre by the end of the year\. Already in October UNHCR had temporary suspended the centre’s activity following the first days of protest\. For the thousands of people gathered outside, the little protection they ascribed to the UN Flag on top of the building will be gone, and they fear, once again, getting caught in the hands of militias\.
 
 
-![](assets/c601d15894dc/0*R0nnj_METF3JQK6I)
+![](../assets/c601d15894dc/0*R0nnj_METF3JQK6I)
 
 
 
-![](assets/c601d15894dc/0*HL9WnDQzXtMsdESb.png)
+![](../assets/c601d15894dc/0*HL9WnDQzXtMsdESb.png)
 
 
 The situation is strained to say the least, but the people in front of the building organise and raise their voices to challenge the inaction of UNHCR, the complete silence of the international community including the African Union, as well as the EU’s discreet complicity in their fate\. They mobilise and protest day after day, demanding to be treated with basic human dignity: evacuation from the country, an end to the EU’s support of the so\-called Libyan Coast Guards \(LCG\) and for their fellows to be released from detention centres\. By creating their own means of communication through a [twitter account](https://twitter.com/RefugeesinLibya) and a [website](https://www.refugeesinlibya.org/) where they publish updates, transcripts of meetings and open letters, and where they start to tell their own stories themselves\.
@@ -167,7 +167,7 @@ In fear of being arrested again, those who escaped turned to the one place where
 This happened more than seven weeks ago\. Since then, people in front of the building, at times around 3000, continuously protest and ask for their evacuation\. They hold up posters in four different languages, calling on UNCHR for evacuation and on the international community to at last recognise their situation\.
 
 
-![](assets/c601d15894dc/0*WFkirx5FAgUAvicI.jpeg)
+![](../assets/c601d15894dc/0*WFkirx5FAgUAvicI.jpeg)
 
 
 Meanwhile, they continue to live in precarious conditions: videos posted by the protesters show rows of people sleeping on the ground at the side of a busy road, covered in light blankets or gathered around a diminishing fire\. According to one of the protesters, the people in front of the building lack blankets and tents\. As there is no toilet infrastructure, they are forced to relieve themselves at the roadside\. They struggle with flu and cold, have not enough drinking water and go hungry\. Their trust in UNHCR has been erased\.

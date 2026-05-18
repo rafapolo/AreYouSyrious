@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,coronavirus,greece,italy]
 description: 51 people back in Libya after entering Maltese waters // Luxembourg receives 12 transferred kids from Greece // Germany to transfer 50…
 image:
-  path: assets/54faecdca321/1*-9aQyT8963thXqNCJ_qZEA.jpeg
+  path: ../assets/54faecdca321/1*-9aQyT8963thXqNCJ_qZEA.jpeg
 ---
 
 ### AYS Daily Digest 15/04/20 Controversy when Italy orders people rescued at sea to quarantine on ships
@@ -15,7 +15,7 @@ image:
 _51 people back in Libya after entering Maltese waters // Luxembourg receives 12 transferred from Greece // Germany to transfer 50 kids over weekend // and more…_
 
 
-![Photo by [Frontex](https://euobserver.com/justice/121794)](assets/54faecdca321/1*-9aQyT8963thXqNCJ_qZEA.jpeg)
+![Photo by [Frontex](https://euobserver.com/justice/121794)](../assets/54faecdca321/1*-9aQyT8963thXqNCJ_qZEA.jpeg)
 
 Photo by [Frontex](https://euobserver.com/justice/121794)
 ### FEATURE: The Italian government has ordered that people rescued at sea must spend an appropriate amount of time quarantined on ships before being disembarked\.
@@ -46,7 +46,7 @@ This measure has not pleased many NGOs, who say this is unequal treatment\. Fili
 #### LIBYA
 
 
-![“47 survivors including women and children taken to \#TariqAlSikka detention centre after this horrific ordeal and 12 persons killed by \#CriminalEurope [@MaltaGov](http://twitter.com/MaltaGov) [@Armed\_Forces\_MT](http://twitter.com/Armed_Forces_MT) , Italian & European governments all refusing to rescue, deporting and paying the Libyan torturers\.” Update and photo by [Giulia Tranchina](https://www.facebook.com/photo.php?fbid=10157564815598621&set=a.10150438475713621&type=3&theater)](assets/54faecdca321/1*-dARC3Mkcb-RQaoY9XLR9w.jpeg)
+![“47 survivors including women and children taken to \#TariqAlSikka detention centre after this horrific ordeal and 12 persons killed by \#CriminalEurope [@MaltaGov](http://twitter.com/MaltaGov) [@Armed\_Forces\_MT](http://twitter.com/Armed_Forces_MT) , Italian & European governments all refusing to rescue, deporting and paying the Libyan torturers\.” Update and photo by [Giulia Tranchina](https://www.facebook.com/photo.php?fbid=10157564815598621&set=a.10150438475713621&type=3&theater)](../assets/54faecdca321/1*-dARC3Mkcb-RQaoY9XLR9w.jpeg)
 
 “47 survivors including women and children taken to \#TariqAlSikka detention centre after this horrific ordeal and 12 persons killed by \#CriminalEurope [@MaltaGov](http://twitter.com/MaltaGov) [@Armed\_Forces\_MT](http://twitter.com/Armed_Forces_MT) , Italian & European governments all refusing to rescue, deporting and paying the Libyan torturers\.” Update and photo by [Giulia Tranchina](https://www.facebook.com/photo.php?fbid=10157564815598621&set=a.10150438475713621&type=3&theater)
 
@@ -60,11 +60,11 @@ The community being transferred to Rwanda is already under immense trauma from t
 #### SEA
 
 
-![](assets/54faecdca321/1*DApgkNAcWmVNLIV-kmlPtQ.jpeg)
+![](../assets/54faecdca321/1*DApgkNAcWmVNLIV-kmlPtQ.jpeg)
 
 
 
-![“ [Update](https://twitter.com/IOM_Libya/status/1250431119805169669) : **51 people finally disembarked in Tripoli** … [We have reason](https://twitter.com/IOM_Libya/status/1250431126528602116) to believe that this is the boat reported missing a few days ago in the Maltese search and rescue zone\. All migrants were transferred to detention in Tripoli\. ” Photos and update by IOM Libya](assets/54faecdca321/1*nilZPXsWC6z8A9OPpSN1zQ.jpeg)
+![“ [Update](https://twitter.com/IOM_Libya/status/1250431119805169669) : **51 people finally disembarked in Tripoli** … [We have reason](https://twitter.com/IOM_Libya/status/1250431126528602116) to believe that this is the boat reported missing a few days ago in the Maltese search and rescue zone\. All migrants were transferred to detention in Tripoli\. ” Photos and update by IOM Libya](../assets/54faecdca321/1*nilZPXsWC6z8A9OPpSN1zQ.jpeg)
 
 “ [Update](https://twitter.com/IOM_Libya/status/1250431119805169669) : **51 people finally disembarked in Tripoli** … [We have reason](https://twitter.com/IOM_Libya/status/1250431126528602116) to believe that this is the boat reported missing a few days ago in the Maltese search and rescue zone\. All migrants were transferred to detention in Tripoli\. ” Photos and update by IOM Libya
 
@@ -190,11 +190,11 @@ Authorities in Greece are very worried that potentially 2,000 people are enterin
 #### BOSNIA AND HERZEGOVINA
 
 
-![](assets/54faecdca321/1*s_e251QRN5kgAikXe-GkzQ.jpeg)
+![](../assets/54faecdca321/1*s_e251QRN5kgAikXe-GkzQ.jpeg)
 
 
 
-![Photos by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/960278791037072)](assets/54faecdca321/1*1YFOIO1oSnsQ9w2Ofd0faA.jpeg)
+![Photos by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/960278791037072)](../assets/54faecdca321/1*1YFOIO1oSnsQ9w2Ofd0faA.jpeg)
 
 Photos by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/960278791037072)
 

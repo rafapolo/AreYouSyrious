@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 03/05/2019: Deliberate Denial of Food in Hungarian Detention Centres
+title: "AYS Daily Digest 03/05/2019: Deliberate Denial of Food in Hungarian Detention Centres"
 author: Are You Syrious?
 date: 2019-05-04T12:14:34.098+0100
 last_modified_at: 2019-05-04T12:14:34.098+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: []
 description: 28 people rescued from Desert in Niger// Five children and four women drowned off the coast Turkey// Greek Police Violence// 250 people…
 image:
-  path: assets/3ffaa72db3ce/0*64oaxDtxsiCpi67V
+  path: ../assets/3ffaa72db3ce/0*64oaxDtxsiCpi67V
 ---
 
 ### AYS Daily Digest 03/05/2019: Deliberate Denial of Food in Hungarian Detention Centres
 #### 28 people rescued from Desert in Niger// Five children and four women drowned off the coast Turkey// Greek Police Violence// 250 people returned to Libya in last 72 hours
 
 
-![](assets/3ffaa72db3ce/1*Tx1u1RSutf5fWmPbOOmJVA.jpeg)
+![](../assets/3ffaa72db3ce/1*Tx1u1RSutf5fWmPbOOmJVA.jpeg)
 
 
 [Are You Syrious?](https://medium.com/@AreYouSyrious)
@@ -22,7 +22,7 @@ image:
 May 4
 
 
-![Patras Greece by Diego Herrera](assets/3ffaa72db3ce/0*64oaxDtxsiCpi67V)
+![Patras Greece by Diego Herrera](../assets/3ffaa72db3ce/0*64oaxDtxsiCpi67V)
 
 Patras Greece by Diego Herrera
 
@@ -55,7 +55,7 @@ The [Hungarian Helsinki Committee](https://www.helsinki.hu/wp-content/uploads/De
 A member of the Alarm Phone Sahara Team has helped to rescue 28 people from Niger Republic who got stranded in the desert on their way to Libya when their car broke down\. A woman and a little girl were part of the group that was rescued between the villages of Achinouma and Latai\.
 
 
-![](assets/3ffaa72db3ce/0*pSUjQuX0P9MgtSIV)
+![](../assets/3ffaa72db3ce/0*pSUjQuX0P9MgtSIV)
 
 ### LIBYA
 

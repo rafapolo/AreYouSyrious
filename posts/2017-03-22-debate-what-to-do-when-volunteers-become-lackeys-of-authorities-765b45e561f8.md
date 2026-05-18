@@ -1,5 +1,5 @@
 ---
-title: DEBATE: What to do when volunteers become lackeys of authorities?
+title: "DEBATE: What to do when volunteers become lackeys of authorities?"
 author: Are You Syrious?
 date: 2017-03-22T11:21:09.978+0000
 last_modified_at: 2017-03-22T13:40:05.981+0000
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,debate]
 description: Our voices are being silenced. It’s not just by authorities who have and still want to arrest us but by fellow volunteers, who are slowly…
 image:
-  path: assets/765b45e561f8/1*yjQYA8hvGkHPTifUMn-50g.jpeg
+  path: ../assets/765b45e561f8/1*yjQYA8hvGkHPTifUMn-50g.jpeg
 ---
 
 ### DEBATE: What to do when volunteers become lackeys of authorities?
 #### Our voices are being silenced\. It’s not just by authorities who have and still want to arrest us but by fellow volunteers, who are slowly emulating and sucking others into the very hierarchical structures and operational ways of INGOs they once claimed to detest\. They fear speaking out, content with just delivering basic aid, celebrating their work, competing for donations, but neglecting their responsibility as witnesses\.
 
 
-![Photo: Marianna Karakoulaki](assets/765b45e561f8/1*yjQYA8hvGkHPTifUMn-50g.jpeg)
+![Photo: Marianna Karakoulaki](../assets/765b45e561f8/1*yjQYA8hvGkHPTifUMn-50g.jpeg)
 
 Photo: Marianna Karakoulaki
 

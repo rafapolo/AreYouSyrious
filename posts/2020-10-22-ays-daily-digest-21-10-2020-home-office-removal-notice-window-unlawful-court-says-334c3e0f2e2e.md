@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,croatia,uk-home-office]
 description: Greek Government Signs Agreement With Afghanistan///”Sickening” Abuse by Croatian Police During Pushbacks///More Arrivals in Lampedusa
 image:
-  path: assets/334c3e0f2e2e/0*3nxNRum-Hei1HkHR
+  path: ../assets/334c3e0f2e2e/0*3nxNRum-Hei1HkHR
 ---
 
 ### AYS Daily Digest 21/10/2020 — Home Office Removal Notice Window Unlawful, Court Says
 #### Greek Government Signs Agreement With Afghanistan // ”Sickening” Abuse by Croatian Police During Pushbacks // More Arrivals in Lampedusa
 
 
-![Photo of a man beaten by Croatian police\. Photo credit: [Danish Refugee Council](https://www.facebook.com/danishrefugeecouncil) via [The Guardian](https://www.theguardian.com/global-development/2020/oct/21/croatian-police-accused-of-sickening-assaults-on-migrants-on-balkans-trail-bosnia#img-1)](assets/334c3e0f2e2e/0*3nxNRum-Hei1HkHR)
+![Photo of a man beaten by Croatian police\. Photo credit: [Danish Refugee Council](https://www.facebook.com/danishrefugeecouncil) via [The Guardian](https://www.theguardian.com/global-development/2020/oct/21/croatian-police-accused-of-sickening-assaults-on-migrants-on-balkans-trail-bosnia#img-1)](../assets/334c3e0f2e2e/0*3nxNRum-Hei1HkHR)
 
 Photo of a man beaten by Croatian police\. Photo credit: [Danish Refugee Council](https://www.facebook.com/danishrefugeecouncil) via [The Guardian](https://www.theguardian.com/global-development/2020/oct/21/croatian-police-accused-of-sickening-assaults-on-migrants-on-balkans-trail-bosnia#img-1)
 #### FEATURE — Home Office 72\-Hour Notice Window for Deportations Ruled Unlawful

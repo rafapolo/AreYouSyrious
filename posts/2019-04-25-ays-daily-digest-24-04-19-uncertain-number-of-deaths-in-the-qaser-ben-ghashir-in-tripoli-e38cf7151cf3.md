@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,libya,greece,english,denmark]
 description: Remembering those who drowned two years ago today // new human rights report in Denmark // Sea Watch 3 and Mare Jonio, both stopped //…
 image:
-  path: assets/e38cf7151cf3/1*cVZv9Q5spbOZsHnFphHt1g.jpeg
+  path: ../assets/e38cf7151cf3/1*cVZv9Q5spbOZsHnFphHt1g.jpeg
 ---
 
 ### AYS Daily Digest 24/04/19 Uncertain number of deaths in the Qaser Ben Ghashir in Tripoli
@@ -35,18 +35,18 @@ People are [**“screaming with grief”**](https://twitter.com/sallyhayd/status
 The circumstances of the attacks on the [Qaser Ben Ghashir](https://www.infomigrants.net/fr/post/16496/migrants-attaques-en-libye-que-s-est-il-passe-au-centre-de-detention-de-qaser-ben-ghashir) detention center on Tuesday in the south of Tripoli remain unclear\. Some eye witnesses report two to six deaths occurred, and Libyan spokesman said at least six people died\. A person inside the center said he saw two bodies taken away in an ambulance\. Yet somehow the UN has only announced that about a dozen were injured\. UNHCR says those wounded were moved to the hospital\.
 
 
-![](assets/e38cf7151cf3/1*QxLn59du4FncHwt4IL3unw.jpeg)
+![](../assets/e38cf7151cf3/1*QxLn59du4FncHwt4IL3unw.jpeg)
 
 
 
-![Why one might “scream with grief\.” Photos of Qasr bin Ghashir sent to journalist [Sally Hayden on Tuesday](https://twitter.com/sallyhayd/status/1120970128760422400)](assets/e38cf7151cf3/1*biw6dJ408S9ozpaBqVX39Q.jpeg)
+![Why one might “scream with grief\.” Photos of Qasr bin Ghashir sent to journalist [Sally Hayden on Tuesday](https://twitter.com/sallyhayd/status/1120970128760422400)](../assets/e38cf7151cf3/1*biw6dJ408S9ozpaBqVX39Q.jpeg)
 
 Why one might “scream with grief\.” Photos of Qasr bin Ghashir sent to journalist [Sally Hayden on Tuesday](https://twitter.com/sallyhayd/status/1120970128760422400)
 
 [UNHCR](https://www.unhcr.org/en-us/news/press/2019/4/5cc09a824/unhcr-evacuates-hundreds-detained-refugees-libya-safety.html) was able to move “some 325 refugees” from Qaser Ben Ghashir on Wednesday with IOM\. Yet UNHCR states that they “remain concerned for some 3,000 refugees and migrants who remain in detention centres in Tripoli\.”
 
 
-![Evacuation from Qaser Ben Ghashir Dentention Center\. Photo by [IOM](https://twitter.com/IOM_Libya/status/1121132688482668545?fbclid=IwAR2Vmmbbk5PIlgBWSuIzLagcBE6eirq2RmYfRrb5eBXT3yJN6Z1XQDUJfko)](assets/e38cf7151cf3/1*ajdaE_Cfgy4BxaYimb9_1A.jpeg)
+![Evacuation from Qaser Ben Ghashir Dentention Center\. Photo by [IOM](https://twitter.com/IOM_Libya/status/1121132688482668545?fbclid=IwAR2Vmmbbk5PIlgBWSuIzLagcBE6eirq2RmYfRrb5eBXT3yJN6Z1XQDUJfko)](../assets/e38cf7151cf3/1*ajdaE_Cfgy4BxaYimb9_1A.jpeg)
 
 Evacuation from Qaser Ben Ghashir Dentention Center\. Photo by [IOM](https://twitter.com/IOM_Libya/status/1121132688482668545?fbclid=IwAR2Vmmbbk5PIlgBWSuIzLagcBE6eirq2RmYfRrb5eBXT3yJN6Z1XQDUJfko)
 
@@ -76,7 +76,7 @@ T [he Mare Jonio ship](http://"Like any vessel - continues the note by Mediterra
 
 
 
-![Photo by [Mediterranea Saving Humans](https://www.facebook.com/Mediterranearescue/photos/a.275129016441663/355936418360922/?type=3&theater)](assets/e38cf7151cf3/1*faMATqZNNPrirGcYhP4yIw.jpeg)
+![Photo by [Mediterranea Saving Humans](https://www.facebook.com/Mediterranearescue/photos/a.275129016441663/355936418360922/?type=3&theater)](../assets/e38cf7151cf3/1*faMATqZNNPrirGcYhP4yIw.jpeg)
 
 Photo by [Mediterranea Saving Humans](https://www.facebook.com/Mediterranearescue/photos/a.275129016441663/355936418360922/?type=3&theater)
 
@@ -101,7 +101,7 @@ Photo by [Mediterranea Saving Humans](https://www.facebook.com/Mediterranearescu
 Find ABR’s weekly statistics from 15–21 April [here](https://www.facebook.com/AegeanBoatReport/posts/562211644301944?hc_location=ufi) \.
 
 
-![New Arrivals close to Chios\. Photo by [Humanitarian Maritime Rescue](https://www.facebook.com/smhumanitario/photos/pcb.2208305432594628/2208305122594659/?type=3&theater)](assets/e38cf7151cf3/1*wEhsqMag3kxCeTsDXZBH_g.jpeg)
+![New Arrivals close to Chios\. Photo by [Humanitarian Maritime Rescue](https://www.facebook.com/smhumanitario/photos/pcb.2208305432594628/2208305122594659/?type=3&theater)](../assets/e38cf7151cf3/1*wEhsqMag3kxCeTsDXZBH_g.jpeg)
 
 New Arrivals close to Chios\. Photo by [Humanitarian Maritime Rescue](https://www.facebook.com/smhumanitario/photos/pcb.2208305432594628/2208305122594659/?type=3&theater)
 
@@ -119,12 +119,12 @@ Make sure everyone knows that [asylum offices](https://www.facebook.com/permalin
 
 
 
-![](assets/e38cf7151cf3/1*cVZv9Q5spbOZsHnFphHt1g.jpeg)
+![](../assets/e38cf7151cf3/1*cVZv9Q5spbOZsHnFphHt1g.jpeg)
 
 
 
 ![“Today, 2 years later, we went to the beach in Eftalou to remember and never forget\.”
-Eftalou team\. Photo by [Tjarda Hope](https://www.facebook.com/permalink.php?story_fbid=647942788983774&id=100013041760314&hc_location=ufi)](assets/e38cf7151cf3/1*6oSU_W9vf70lYhTdbeV8Fw.jpeg)
+Eftalou team\. Photo by [Tjarda Hope](https://www.facebook.com/permalink.php?story_fbid=647942788983774&id=100013041760314&hc_location=ufi)](../assets/e38cf7151cf3/1*6oSU_W9vf70lYhTdbeV8Fw.jpeg)
 
 “Today, 2 years later, we went to the beach in Eftalou to remember and never forget\.”
 Eftalou team\. Photo by [Tjarda Hope](https://www.facebook.com/permalink.php?story_fbid=647942788983774&id=100013041760314&hc_location=ufi)
@@ -147,7 +147,7 @@ Doctors for Human Rights \(MEDU\) need a medical doctor to help in their care an
 ### Serbia
 
 
-![“Volunteers from No Name Kitchen have been investigating over the last week about the situation of all the people who don’t have a place to settle in Šid\. Many of them are trying to cross the European Union by hiding on trains heading to Croatia\. We recently heard stories from No Name Kitchen of brutal police violence towards refugees who try to cross the Schengen zone by train and are discovered at the border\.” Photo by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/a.312076942523930/706653879732899/?type=3&theater)](assets/e38cf7151cf3/1*uRiOwNV3vO3uFKKuuXbPzQ.jpeg)
+![“Volunteers from No Name Kitchen have been investigating over the last week about the situation of all the people who don’t have a place to settle in Šid\. Many of them are trying to cross the European Union by hiding on trains heading to Croatia\. We recently heard stories from No Name Kitchen of brutal police violence towards refugees who try to cross the Schengen zone by train and are discovered at the border\.” Photo by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/a.312076942523930/706653879732899/?type=3&theater)](../assets/e38cf7151cf3/1*uRiOwNV3vO3uFKKuuXbPzQ.jpeg)
 
 “Volunteers from No Name Kitchen have been investigating over the last week about the situation of all the people who don’t have a place to settle in Šid\. Many of them are trying to cross the European Union by hiding on trains heading to Croatia\. We recently heard stories from No Name Kitchen of brutal police violence towards refugees who try to cross the Schengen zone by train and are discovered at the border\.” Photo by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/a.312076942523930/706653879732899/?type=3&theater)
 ### Germany

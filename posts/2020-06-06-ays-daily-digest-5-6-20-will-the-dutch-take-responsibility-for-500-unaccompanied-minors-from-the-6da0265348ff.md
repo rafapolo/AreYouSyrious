@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 5/6/20: Will the Dutch take responsibility for 500 unaccompanied minors from the…
+title: "AYS Daily Digest 5/6/20: Will the Dutch take responsibility for 500 unaccompanied minors from the…"
 author: Are You Syrious?
 date: 2020-06-06T14:04:33.192+0100
 last_modified_at: 2020-06-06T19:43:11.599+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,germany,europe,unaccompanied-minors]
 description: Ahead of the Dutch deciding on accepting children from the Greek camps, we should all ask ourselves — why aren’t they already safe and…
 image:
-  path: assets/6da0265348ff/1*k3Ttgu3hVRfhd1t25Rtbyw.jpeg
+  path: ../assets/6da0265348ff/1*k3Ttgu3hVRfhd1t25Rtbyw.jpeg
 ---
 
 ### AYS Daily Digest 5/6/20: Will the Dutch take responsibility for 500 unaccompanied minors from the Greek camps?
 #### Ahead of the Dutch governments decision on whether or not to accept children from the Greek camps, we should all ask ourselves — why aren’t they already safe and going to school? Should these discussions even take place? / Suicide attempts with desperate people in Greece / Lowest number of family reunifications in Germany / & more news
 
 
-![](assets/6da0265348ff/1*k3Ttgu3hVRfhd1t25Rtbyw.jpeg)
+![](../assets/6da0265348ff/1*k3Ttgu3hVRfhd1t25Rtbyw.jpeg)
 
 #### FEATURED
 ### The local and national politics difference

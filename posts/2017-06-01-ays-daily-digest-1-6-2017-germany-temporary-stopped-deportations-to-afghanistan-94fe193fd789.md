@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 1/6/2017: Germany temporary stopped deportations to Afghanistan
+title: "AYS DAILY DIGEST 1/6/2017: Germany temporary stopped deportations to Afghanistan"
 author: Are You Syrious?
 date: 2017-06-01T22:24:42.348+0100
 last_modified_at: 2017-06-02T07:13:38.060+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,deportations,germany,chios,afghanistan]
 description: After 90 people were killed in Kabul, Germany concluded that Afghanistan is not safe country // 300 Syrian Kurds deported from Turkey to…
 image:
-  path: assets/94fe193fd789/1*55zPP9waFF_4nc7V-9MNYw.jpeg
+  path: ../assets/94fe193fd789/1*55zPP9waFF_4nc7V-9MNYw.jpeg
 ---
 
 ### AYS DAILY DIGEST 1/6/2017: Germany temporary stopped deportations to Afghanistan
@@ -15,7 +15,7 @@ image:
 _After 90 people were killed in Kabul, Germany concluded that Afghanistan is not safe country // 300 Syrian Kurds deported from Turkey to Syria // No more space at Greek Islands // France riot police prevents volunteers from helping people_
 
 
-![Photo by [Arye Wachsmuth](https://www.facebook.com/arye.wachsmuth?fref=mentions)](assets/94fe193fd789/1*55zPP9waFF_4nc7V-9MNYw.jpeg)
+![Photo by [Arye Wachsmuth](https://www.facebook.com/arye.wachsmuth?fref=mentions)](../assets/94fe193fd789/1*55zPP9waFF_4nc7V-9MNYw.jpeg)
 
 Photo by [Arye Wachsmuth](https://www.facebook.com/arye.wachsmuth?fref=mentions)
 ### Feature
@@ -64,14 +64,14 @@ According to volunteers in the field, more people are sleeping in the fields sur
 However, some people were — finally — sent to mainland today and more will be sent in next days\.
 
 
-![AYS](assets/94fe193fd789/1*tfDXdWQCQ1xFKal1VTv1Eg.jpeg)
+![AYS](../assets/94fe193fd789/1*tfDXdWQCQ1xFKal1VTv1Eg.jpeg)
 
 AYS
 
 Officially, 66 people arrived today to Chios\. **This month, 717 arrivals were registered to this island\.** At the same period of time, **533 people were registered at Lesvos** and **680 at Samos** \. In total, during May, 2090 people arrived in Greece, which is the highest number since November 2016\.
 
 
-![AYS](assets/94fe193fd789/1*q-kgIHMJj_jh9QNv0kBMwA.jpeg)
+![AYS](../assets/94fe193fd789/1*q-kgIHMJj_jh9QNv0kBMwA.jpeg)
 
 AYS
 
@@ -80,7 +80,7 @@ Most of the new arrivals this year were at Chios \(2760\) \.
 Since the EU\-Turkey deal was signed, more than 34\.000 people were registered as new arrivals to Greece\.
 
 
-![AYS](assets/94fe193fd789/1*VYNTqg-askIX_ME43DJdIA.jpeg)
+![AYS](../assets/94fe193fd789/1*VYNTqg-askIX_ME43DJdIA.jpeg)
 
 AYS
 
@@ -107,7 +107,7 @@ If the process continues with the delay, asylum seekers will have to wait for ev
 **We [remind you of the petition you can sign against this decision](https://www.change.org/p/family-reunification-from-greece-let-them-be-together-again?recruiter=17062506&utm_source=share_petition&utm_medium=facebook&utm_campaign=share_petition&utm_term=des-lg-no_src-no_msg)** \.
 
 
-![Photo AYS](assets/94fe193fd789/1*AFBtiKgH0pNl-k4UU34n6Q.jpeg)
+![Photo AYS](../assets/94fe193fd789/1*AFBtiKgH0pNl-k4UU34n6Q.jpeg)
 
 Photo AYS
 
@@ -123,7 +123,7 @@ There is still a few places at upcoming teacher training in Thessaloniki\. The c
 Group [Be Aware And Share](https://www.facebook.com/groups/1159112204116287/permalink/1718149678212534/?hc_location=ufi) warns that, according to their information from the Greek ministry of education, there will be no access to education for children from the camp sites in Souda and Vial at any point\. _“These forgotten places have been classified as „reception and identification centers,“ only and will thus only be supplied with the utmost necessities\.”_
 
 
-![Photo by BAAS\.](assets/94fe193fd789/1*wy6kvCwlNFQWdMzOptVt2Q.jpeg)
+![Photo by BAAS\.](../assets/94fe193fd789/1*wy6kvCwlNFQWdMzOptVt2Q.jpeg)
 
 Photo by BAAS\.
 ### Volunteer drivers needed urgently
@@ -166,7 +166,7 @@ During this year alone, Are You Syrious? and Welcome\! initiative have repeatedl
 There were many people in Šid, at the border, even today\. Volunteers are still providing them any kind of help, including the generator to allow them to recharge their cell phones to be able to stay in touch with family and friends\. The group that provides them with this, [Rigardu](https://www.facebook.com/rigardu/) , needs your help to continue doing this\. They need new tires and 800 euros to buy them\. If you can help, please visit [www\.teamshowers\.com](http://www.teamshowers.com) \.
 
 
-![Photo by Rigardu\.](assets/94fe193fd789/1*oIc8n7fvUH2nDmrSCRJCdQ.jpeg)
+![Photo by Rigardu\.](../assets/94fe193fd789/1*oIc8n7fvUH2nDmrSCRJCdQ.jpeg)
 
 Photo by Rigardu\.
 ### Italy
@@ -179,7 +179,7 @@ There were four other foreigners with him who were trying to reach France on foo
 Volunteers in Calais are reporting that the police, armed for a riot, came today to prevent them from distributing clothes and food\. There are more than 500 people who need help there\. Volunteers are threatened physically and verbally and treated like criminals by the police\.
 
 
-![](assets/94fe193fd789/1*Q7w0cHuK0uzEsDfI3l5Meg.jpeg)
+![](../assets/94fe193fd789/1*Q7w0cHuK0uzEsDfI3l5Meg.jpeg)
 
 
 “We are preparing our volunteers to finish in custody in the days to come\. Because they give food and water\. It is very serious\. The Republic and its values have left Calais\. This is an attack on fundamental freedoms and an abuse of power\.”

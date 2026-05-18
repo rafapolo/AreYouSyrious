@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 18/12/19: What’s behind the “Flexible Operational Activities” of Frontex
+title: "AYS Daily Digest 18/12/19: What’s behind the “Flexible Operational Activities” of Frontex"
 author: Are You Syrious?
 date: 2019-12-19T14:36:04.043+0000
 last_modified_at: 2019-12-19T14:59:31.210+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [europe,frontex,sweden,balkans,digest]
 description: Frontex sets up further its “global mission plan” in the Balkans / 63 people rescued off the Spanish coast / a report on the so called…
 image:
-  path: assets/9826467660ca/0*V86lYcrww18Ici3x.png
+  path: ../assets/9826467660ca/0*V86lYcrww18Ici3x.png
 ---
 
 ### AYS Daily Digest 18/12/19: What’s behind the “Flexible Operational Activities” of Frontex
 #### Frontex sets up further its “global mission plan” in the Balkans / 63 people rescued off the Spanish coast / A report on the so called ‘privatized push\-backs’ / Possible drowning in Italy / In police raids at Athens squats, police allegedly assaulted and tied up neighbors who refused to let them into their homes without a warrant / Deportations from Sweden — Do you know what you are sending the children to?/ & more news
 
 
-![Synthetic map of the 7 November 2018 Nivin incident on the basis of georeferenced positions and AIS data\. \(Forensic Oceanography\) — see the report on ‘privatized push\-backs](assets/9826467660ca/0*V86lYcrww18Ici3x.png)
+![Synthetic map of the 7 November 2018 Nivin incident on the basis of georeferenced positions and AIS data\. \(Forensic Oceanography\) — see the report on ‘privatized push\-backs](../assets/9826467660ca/0*V86lYcrww18Ici3x.png)
 
 Synthetic map of the 7 November 2018 Nivin incident on the basis of georeferenced positions and AIS data\. \(Forensic Oceanography\) — see the report on ‘privatized push\-backs
 #### FEATURED
@@ -33,7 +33,7 @@ It is important to keep in mind that all countries concerned are considered cand
 Officially, Frontex claims their main goal is to “control migration flows, cross\-border crime, including smuggling, human trafficking and terrorism, and strengthening European cooperation on the land border between Albania and Greece “\. In the recently announced plan that the border police stationed at the outer EU borders would stop and turn back people arriving from other EU countries, new contracts were signed that would introduce their measures “to build regional border control capacities” and the exchange of operational information and “best practices” across the outer EU border areas, Frontex signed the deal with Serbia, Montenegro — pending for approval by the EP, as well as Albania\.
 
 
-![](assets/9826467660ca/0*4KTGDjDhH3v9P1vd.png)
+![](../assets/9826467660ca/0*4KTGDjDhH3v9P1vd.png)
 
 
 The operation there is based on a status agreement on border cooperation between the European Union and Albania, the first such agreement with a non\-EU country\. According to Frontex, the governments in Austria, Croatia, Czech Republic, Estonia, Finland, France, Germany, Latvia, the Netherlands, Romania, Poland and Slovenia sent officers, as well as 16 patrol vehicles and a thermo\-vision vehicle\.
@@ -163,11 +163,11 @@ When the Swedish PM Stefan Löfven held a Christmas speech in Visby, Gotland, pe
 Before sending their students back to Kabul the headmasters and schools should know what they are sending the students back to, volunteers and activists in Kristinehamn think\. Therefore they have started a campaign to raise money for a study trip to Kabul, so that those in charge of schools and education in the municipality can see for themselves\.
 
 
-![](assets/9826467660ca/1*bkWPZOaq9nzU_2e0V3jeCg.jpeg)
+![](../assets/9826467660ca/1*bkWPZOaq9nzU_2e0V3jeCg.jpeg)
 
 
 
-![Photos: [Ariana Esfandiari\-Doroudian](https://www.facebook.com/ariana.esfandiaridoroudian?fref=gs&__tn__=%2CdlCH-R-R&eid=ARCDx30ItTj2WrMbiWqbMi-jvBVlx6zdhVZUmtJGopDxYAqTUHrRkbuFgcTCWRzq1Yt1OpVN49RqJy5u&hc_ref=ARQNWbk8hFy-bCR1LXeBU0kkA49EHOuQ0LtaM2ZRiect5rXg9zYEpGmq8vYlsbfXz2g&dti=808057209336108&hc_location=group)](assets/9826467660ca/1*5tkvG_Eo5NPLrs0GseiJaQ.jpeg)
+![Photos: [Ariana Esfandiari\-Doroudian](https://www.facebook.com/ariana.esfandiaridoroudian?fref=gs&__tn__=%2CdlCH-R-R&eid=ARCDx30ItTj2WrMbiWqbMi-jvBVlx6zdhVZUmtJGopDxYAqTUHrRkbuFgcTCWRzq1Yt1OpVN49RqJy5u&hc_ref=ARQNWbk8hFy-bCR1LXeBU0kkA49EHOuQ0LtaM2ZRiect5rXg9zYEpGmq8vYlsbfXz2g&dti=808057209336108&hc_location=group)](../assets/9826467660ca/1*5tkvG_Eo5NPLrs0GseiJaQ.jpeg)
 
 Photos: [Ariana Esfandiari\-Doroudian](https://www.facebook.com/ariana.esfandiaridoroudian?fref=gs&__tn__=%2CdlCH-R-R&eid=ARCDx30ItTj2WrMbiWqbMi-jvBVlx6zdhVZUmtJGopDxYAqTUHrRkbuFgcTCWRzq1Yt1OpVN49RqJy5u&hc_ref=ARQNWbk8hFy-bCR1LXeBU0kkA49EHOuQ0LtaM2ZRiect5rXg9zYEpGmq8vYlsbfXz2g&dti=808057209336108&hc_location=group)
 
@@ -176,7 +176,7 @@ According to the post the municipality of Kristinehamn is violating the School A
 The situation in Kristinehamn is a result of the new interpretation of the Migration Agency’s responsibly to offer those with temporary residency because of the \(new\) High school act accommodation\. It’s a catch\-22 situation: you need to study to be granted temporary residency, you need to find accommodation by yourself near enough your school and now the municipalities say they don’t have to offer students above 20 SFI \(Swedish For Immigrants\) \. The municipalities have asked the state for more help and funding — but in the meantime a lot of young people will be badly affected, worst case scenario they’ll lose their temporary residence permits since the rules are so complicated and it’s almost impossible to meet them…
 
 
-![](assets/9826467660ca/1*MCXpPuqodaXS4vAafmE-0Q.jpeg)
+![](../assets/9826467660ca/1*MCXpPuqodaXS4vAafmE-0Q.jpeg)
 
 
 Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.

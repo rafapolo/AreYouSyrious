@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 27/11/19 Evros Pushbacks Report: Human Rights Abuses at Greece/Turkey Border
+title: "AYS Daily Digest 27/11/19 Evros Pushbacks Report: Human Rights Abuses at Greece/Turkey Border"
 author: Are You Syrious?
 date: 2019-11-28T10:40:05.691+0000
 last_modified_at: 2019-11-28T13:10:30.201+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,evros-river,pushback,human-rights]
 description: 8 deaths, 16 missing and one boat lost in Mediterranean // Nearly 40,000 people trapped on Greek Islands // MSF and UNHCR decry situation…
 image:
-  path: assets/dec9c89045fe/1*aZ8whpFEHvfq2fRkpS-Utg.jpeg
+  path: ../assets/dec9c89045fe/1*aZ8whpFEHvfq2fRkpS-Utg.jpeg
 ---
 
 ### AYS Daily Digest 27/11/19 Evros Pushbacks Report: Human Rights Abuses at Greece/Turkey Border
@@ -15,7 +15,7 @@ image:
 _Eight deaths, 16 missing and one boat lost in Mediterranean // Nearly 40,000 people trapped on Greek islands // MSF and UNHCR decry situation on Islands // Update from Patras // Only low skilled jobs for refugees in Germany // Deportations to Afghanistan_
 
 
-![\(Moria, Lesvos\. Photo Credit: [Aris Messinis, Art Against](https://www.facebook.com/artagainstproject/) \)](assets/dec9c89045fe/1*aZ8whpFEHvfq2fRkpS-Utg.jpeg)
+![\(Moria, Lesvos\. Photo Credit: [Aris Messinis, Art Against](https://www.facebook.com/artagainstproject/) \)](../assets/dec9c89045fe/1*aZ8whpFEHvfq2fRkpS-Utg.jpeg)
 
 \(Moria, Lesvos\. Photo Credit: [Aris Messinis, Art Against](https://www.facebook.com/artagainstproject/) \)
 
@@ -77,7 +77,7 @@ There are now nearly **40,000** people trapped on the Greek islands\!
 MSF have published an [open letter](https://www.msf.org/european-leaders-must-stop-punishing-asylum-seekers-greek-islands) to European leaders asking them to end containment in the Greek islands and held a [press conference](https://www.facebook.com/msf.english/videos/2528325414065146/?hc_location=ufi) to announce it’s publication\.
 
 
-![](assets/dec9c89045fe/1*AaqLRlCN_vfPNgSD46Ni2g.jpeg)
+![](../assets/dec9c89045fe/1*AaqLRlCN_vfPNgSD46Ni2g.jpeg)
 
 
 
@@ -106,19 +106,19 @@ We couldn’t agree more\.
 **Update from Patras**
 
 
-![](assets/dec9c89045fe/1*HWJoSSAp60FIWSHEmSI2TA.jpeg)
+![](../assets/dec9c89045fe/1*HWJoSSAp60FIWSHEmSI2TA.jpeg)
 
 
 
-![](assets/dec9c89045fe/1*YnhCp0mkGmS4fdVRFUsX_w.jpeg)
+![](../assets/dec9c89045fe/1*YnhCp0mkGmS4fdVRFUsX_w.jpeg)
 
 
 
-![](assets/dec9c89045fe/1*7sw2Jwavlm3UaKx3OtIbxw.jpeg)
+![](../assets/dec9c89045fe/1*7sw2Jwavlm3UaKx3OtIbxw.jpeg)
 
 
 
-![\(Photo Credit: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/850519122013040?hc_location=ufi) \)](assets/dec9c89045fe/1*-uZkFeqIF_JvmLgoMhofBA.jpeg)
+![\(Photo Credit: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/850519122013040?hc_location=ufi) \)](../assets/dec9c89045fe/1*-uZkFeqIF_JvmLgoMhofBA.jpeg)
 
 \(Photo Credit: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/850519122013040?hc_location=ufi) \)
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 14/9/20: Too little and too late — the EU’s reaction to disasters
+title: "AYS Daily Digest 14/9/20: Too little and too late — the EU’s reaction to disasters"
 author: Are You Syrious?
 date: 2020-09-15T14:10:29.098+0100
 last_modified_at: 2020-09-15T17:20:17.840+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,europe,migration,moria]
 description: The growing number of hate groups across the EU shows the system must teach by example, not avoid responsibility / 2 children and a woman…
 image:
-  path: assets/8fd269bc17b0/1*uvUvGLqxz5vYqInfxuPxtQ.jpeg
+  path: ../assets/8fd269bc17b0/1*uvUvGLqxz5vYqInfxuPxtQ.jpeg
 ---
 
 ### AYS Daily Digest 14/9/20: Too little and too late — the EU’s reaction to disasters
@@ -16,7 +16,7 @@ image:
 
 ![This image shows a drawing by a child calling for freedom\. It exists upon a wall adorned with children’s pictures depicting the negative space Moria occupies in their heads, misshaping their minds, deforming their development\.
 This wall of colourful warnings is next to a family tent erected outside on the street side, with little inside it other than too many people\. This is an image of the now\-times; I hope this is not indicative of what is to come for people who deserve better\.
-Let’s learn from these pictures, let’s draw a new pathway, let this pathway prioritise healthy development, let’s act on the messages resilient children have crafted and remember “no good Moria”\. Let’s do this for dignity and put our hearts into housing, let’s build for better and let people live in peace\. \(By [Kirsty Evans](https://www.facebook.com/kirstyevans123?__tn__=lC-R&eid=ARAM_TKfUdnxgmlpBfihjjODtSkWgmlA_Mri_25Cv2_SU-sjNhxzmBAPdmJAC3artEx2tqtXNaiJHMPa&hc_ref=ARQAnEsQUbQyXqOlkZ2uUolC6Hs9GHakHycno9ogy_s0UHihbiO9rbM1WZk-RYDMNRc&ref=nf_target&__xts__%5B0%5D=68.ARAKsNgDGe7mAMW6v6_klg98EqZt2oDK1QAILLCJzFZbOy4h2rvHl5Qnqf02B7FBn68okYnfLBdspvjM7hFVMAXHbjN8ewqaLZvjxFJQxbrX4e53HjFdjhRHhuaQvyZlTTcEq3IHTknMz3hZHxayaCY6Mf__2V5y7I3MNf-NNjSoG8PLywdM53j58sIdjiPjDdqnyPTIn50v4Pss5nT1xZgUrl5HQwBid9YVoAftL6DxgUEKVrQnLGpSbzRMBNjZKML_aNZ-KJSUlCEfQCnNd0XzsEASuQqGqLc) \)](assets/8fd269bc17b0/1*uvUvGLqxz5vYqInfxuPxtQ.jpeg)
+Let’s learn from these pictures, let’s draw a new pathway, let this pathway prioritise healthy development, let’s act on the messages resilient children have crafted and remember “no good Moria”\. Let’s do this for dignity and put our hearts into housing, let’s build for better and let people live in peace\. \(By [Kirsty Evans](https://www.facebook.com/kirstyevans123?__tn__=lC-R&eid=ARAM_TKfUdnxgmlpBfihjjODtSkWgmlA_Mri_25Cv2_SU-sjNhxzmBAPdmJAC3artEx2tqtXNaiJHMPa&hc_ref=ARQAnEsQUbQyXqOlkZ2uUolC6Hs9GHakHycno9ogy_s0UHihbiO9rbM1WZk-RYDMNRc&ref=nf_target&__xts__%5B0%5D=68.ARAKsNgDGe7mAMW6v6_klg98EqZt2oDK1QAILLCJzFZbOy4h2rvHl5Qnqf02B7FBn68okYnfLBdspvjM7hFVMAXHbjN8ewqaLZvjxFJQxbrX4e53HjFdjhRHhuaQvyZlTTcEq3IHTknMz3hZHxayaCY6Mf__2V5y7I3MNf-NNjSoG8PLywdM53j58sIdjiPjDdqnyPTIn50v4Pss5nT1xZgUrl5HQwBid9YVoAftL6DxgUEKVrQnLGpSbzRMBNjZKML_aNZ-KJSUlCEfQCnNd0XzsEASuQqGqLc) \)](../assets/8fd269bc17b0/1*uvUvGLqxz5vYqInfxuPxtQ.jpeg)
 
 This image shows a drawing by a child calling for freedom\. It exists upon a wall adorned with children’s pictures depicting the negative space Moria occupies in their heads, misshaping their minds, deforming their development\.
 This wall of colourful warnings is next to a family tent erected outside on the street side, with little inside it other than too many people\. This is an image of the now\-times; I hope this is not indicative of what is to come for people who deserve better\.
@@ -113,7 +113,7 @@ Tunisian migration had until recently been overshadowed by much larger numbers o
 
 
 ![Malta denies formally and repeatedly medical evacuations and safe harbor to [\#Openarms](https://www.facebook.com/hashtag/openarms?__eep__=6&source=feed_text&epa=HASHTAG) with 278 shipwrecks on board even though rescues were carried out in their SAR area of responsibility\. This refusal contravenes several international agreements: EU Regulation 656/2014: landing in the nearest port\.
-Image © Francisco Gentico \(via [Proactiva Open Arms](https://www.facebook.com/proactivaservice/?tn-str=k%2AF&hc_location=group_dialog) \)](assets/8fd269bc17b0/1*FvfQcjkEjHo92zIQK7NLLg.jpeg)
+Image © Francisco Gentico \(via [Proactiva Open Arms](https://www.facebook.com/proactivaservice/?tn-str=k%2AF&hc_location=group_dialog) \)](../assets/8fd269bc17b0/1*FvfQcjkEjHo92zIQK7NLLg.jpeg)
 
 Malta denies formally and repeatedly medical evacuations and safe harbor to [\#Openarms](https://www.facebook.com/hashtag/openarms?__eep__=6&source=feed_text&epa=HASHTAG) with 278 shipwrecks on board even though rescues were carried out in their SAR area of responsibility\. This refusal contravenes several international agreements: EU Regulation 656/2014: landing in the nearest port\.
 Image © Francisco Gentico \(via [Proactiva Open Arms](https://www.facebook.com/proactivaservice/?tn-str=k%2AF&hc_location=group_dialog) \)
@@ -139,7 +139,7 @@ That's exactly what the EU has been arguing.
 #### GREECE
 
 
-![](assets/8fd269bc17b0/1*VPoYaNHR5J6DYdcQUBn7MA.jpeg)
+![](../assets/8fd269bc17b0/1*VPoYaNHR5J6DYdcQUBn7MA.jpeg)
 
 ### Moria updates
 
@@ -169,18 +169,18 @@ Activists on site report that in the current emergency state it is [Médecins Sa
 We will continue sharing calls for support, local news and updates from the ground, as well as any reports done by the field teams\.
 
 
-![](assets/8fd269bc17b0/1*LqVckU1q9lY5vpPMOC6TxA.jpeg)
+![](../assets/8fd269bc17b0/1*LqVckU1q9lY5vpPMOC6TxA.jpeg)
 
 
 
-![Slowly system of distribution to members of MCAT, White Helmets and Acadamia works\. Today everyone received new masks to protect against Corona\. New posters are also soon ready to raise awareness\. Our way of distribution is that our members know when van is coming and team leaders pick up for everyone\. Takes ten minutes because we don\`t want to create big crowds\. This is always bad but especially bad since we don’t know how many people already are infected with Corona and it’s chaos we need to try to find system that prevents more spreading\. Its still not good but we work on how to do it better\. — [Moria Corona Awareness Team](https://www.facebook.com/MoriaCoronaAwarenessTeam/?__tn__=%2CdkCH-R-R&eid=ARATd_nfppf7ZDwRdkG4MrMQstoRQlsIV88T5I45EyVfIeHUCsShqGLMfLidlw1YzUctzFKWUAfHr3z9&hc_ref=ARQgUMz5tMwUqoba2cuXTAwSVUM9nxclfY94SXIDMcC_kmdWqcC5fvZtcaFmGEA0D8M&fref=nf&hc_location=group)](assets/8fd269bc17b0/1*w32a295xkzvyQysBcVnVFg.jpeg)
+![Slowly system of distribution to members of MCAT, White Helmets and Acadamia works\. Today everyone received new masks to protect against Corona\. New posters are also soon ready to raise awareness\. Our way of distribution is that our members know when van is coming and team leaders pick up for everyone\. Takes ten minutes because we don\`t want to create big crowds\. This is always bad but especially bad since we don’t know how many people already are infected with Corona and it’s chaos we need to try to find system that prevents more spreading\. Its still not good but we work on how to do it better\. — [Moria Corona Awareness Team](https://www.facebook.com/MoriaCoronaAwarenessTeam/?__tn__=%2CdkCH-R-R&eid=ARATd_nfppf7ZDwRdkG4MrMQstoRQlsIV88T5I45EyVfIeHUCsShqGLMfLidlw1YzUctzFKWUAfHr3z9&hc_ref=ARQgUMz5tMwUqoba2cuXTAwSVUM9nxclfY94SXIDMcC_kmdWqcC5fvZtcaFmGEA0D8M&fref=nf&hc_location=group)](../assets/8fd269bc17b0/1*w32a295xkzvyQysBcVnVFg.jpeg)
 
 Slowly system of distribution to members of MCAT, White Helmets and Acadamia works\. Today everyone received new masks to protect against Corona\. New posters are also soon ready to raise awareness\. Our way of distribution is that our members know when van is coming and team leaders pick up for everyone\. Takes ten minutes because we don\`t want to create big crowds\. This is always bad but especially bad since we don’t know how many people already are infected with Corona and it’s chaos we need to try to find system that prevents more spreading\. Its still not good but we work on how to do it better\. — [Moria Corona Awareness Team](https://www.facebook.com/MoriaCoronaAwarenessTeam/?__tn__=%2CdkCH-R-R&eid=ARATd_nfppf7ZDwRdkG4MrMQstoRQlsIV88T5I45EyVfIeHUCsShqGLMfLidlw1YzUctzFKWUAfHr3z9&hc_ref=ARQgUMz5tMwUqoba2cuXTAwSVUM9nxclfY94SXIDMcC_kmdWqcC5fvZtcaFmGEA0D8M&fref=nf&hc_location=group)
 
 Concern has also been raised that unaccompanied minors who had been in the Moria camp remain stranded on Lesbos, because they were not identified for transfer to the mainland\. On the other hand, that those who had been transferred hadn’t been given adequate information about what was happening\. While the EU argues over the evacuation from Lesbos, Greece is failing to provide people with food and drink\. Observers also [warn](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.spiegel.de%2Fpolitik%2Fausland%2Ffluechtlinge-auf-lesbos-nach-brand-von-moria-die-katastrophe-nach-der-katastrophe-a-f5e625f8-7b42-4a60-bc91-247bbb21e2e7%3Ffbclid%3DIwAR0Jhyk6i_mq6hBeGSdENlCxhWnf5kFUR3FcxfesnHcXYUJ4Lq5iJTSi6ZA&h=AT21vS2gg-nMdKWAwY1KeidtLejcWgMv-RT0bKHQe3vKmxrC0yyxXL2H57upvks6k8CrzxOlSPU6qL9geVVznP-GIZw7k0vGMxnhR87mlsKLSDf5as5fC_Tzf9PXU-BwiwHK9jjyo71Rjw) of “pogrom\-like conditions”\.
 
 
-![This is a flyer handed out to people from Moria \(via Anna Surinyach\)](assets/8fd269bc17b0/0*FXeICjOhHrk1dnTo)
+![This is a flyer handed out to people from Moria \(via Anna Surinyach\)](../assets/8fd269bc17b0/0*FXeICjOhHrk1dnTo)
 
 This is a flyer handed out to people from Moria \(via Anna Surinyach\)
 
@@ -245,7 +245,7 @@ No Name Kitchen has an urgent need for volunteers to assist with their projects 
 For more information, send an email to info@nonamekitchen\.org
 
 
-![](assets/8fd269bc17b0/1*UNeCvtL5OVniv9O5-e1t-A.jpeg)
+![](../assets/8fd269bc17b0/1*UNeCvtL5OVniv9O5-e1t-A.jpeg)
 
 #### CROATIA
 ### Welcoming 12 children from Moria, hopefully soon
@@ -260,7 +260,7 @@ Two people were found unconscious on Thursday evening in the trailer of a truck 
 French activists have reported that this Sunday in Rennes, during a demonstration asking for formal regularization of people now called “the undocumented” and the closure of the CRA \(Administrative Detention Centres\), as well as housing for all, a group of young anti\-migrant protesters crashed in with signs reading “refugees are not welcome“, trying to sabotage the gathering by throwing stones at people and with racist insults\.
 
 
-![In support of the people on the move and in order to wake the public to this burning issue \(Photo: Thomas Bregardis, Copyrights: [media\)](https://www.ouest-france.fr/bretagne/rennes-35000/a-rennes-ils-s-en-prennent-aux-soutiens-des-migrants-6971323?fbclid=IwAR0Jhyk6i_mq6hBeGSdENlCxhWnf5kFUR3FcxfesnHcXYUJ4Lq5iJTSi6ZA)](assets/8fd269bc17b0/0*CnkY8kSzMDAZ0OBy)
+![In support of the people on the move and in order to wake the public to this burning issue \(Photo: Thomas Bregardis, Copyrights: [media\)](https://www.ouest-france.fr/bretagne/rennes-35000/a-rennes-ils-s-en-prennent-aux-soutiens-des-migrants-6971323?fbclid=IwAR0Jhyk6i_mq6hBeGSdENlCxhWnf5kFUR3FcxfesnHcXYUJ4Lq5iJTSi6ZA)](../assets/8fd269bc17b0/0*CnkY8kSzMDAZ0OBy)
 
 In support of the people on the move and in order to wake the public to this burning issue \(Photo: Thomas Bregardis, Copyrights: [media\)](https://www.ouest-france.fr/bretagne/rennes-35000/a-rennes-ils-s-en-prennent-aux-soutiens-des-migrants-6971323?fbclid=IwAR0Jhyk6i_mq6hBeGSdENlCxhWnf5kFUR3FcxfesnHcXYUJ4Lq5iJTSi6ZA)
 #### GERMANY
@@ -323,7 +323,7 @@ The struggle for safe, secure and quality housing rages on in Glasgow\. Through 
 Buying time with concrete actions, Shelter Scotland and Legal Services Agency had enough time to take Serco to the Glasgow sheriff’s court in order to acquire interdicts to stop individual evictions\.
 
 
-![Photo: Leo Plumb/ Living Rent](assets/8fd269bc17b0/0*uTlhguYLisIclzkr.png)
+![Photo: Leo Plumb/ Living Rent](../assets/8fd269bc17b0/0*uTlhguYLisIclzkr.png)
 
 Photo: Leo Plumb/ Living Rent
 

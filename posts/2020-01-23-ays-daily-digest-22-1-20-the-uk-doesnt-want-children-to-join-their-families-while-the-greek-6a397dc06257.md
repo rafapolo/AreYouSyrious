@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 22/1/20: The UK doesn’t want children to join their families, while the Greek…
+title: "AYS Daily Digest 22/1/20: The UK doesn’t want children to join their families, while the Greek…"
 author: Are You Syrious?
 date: 2020-01-23T08:41:09.665+0000
 last_modified_at: 2020-01-23T09:10:39.598+0000
 categories: Are You Syrious?
 tags: [digest,uk,refugees,greece,legal]
-description: Legal experts warn: It is impossible for people on the islands to access the office in order to renew an asylum seeker card, leading up to…
+description: "Legal experts warn: It is impossible for people on the islands to access the office in order to renew an asylum seeker card, leading up to…"
 image:
-  path: assets/6a397dc06257/0*7b0api5qOe_mztFj
+  path: ../assets/6a397dc06257/0*7b0api5qOe_mztFj
 ---
 
 ### AYS Daily Digest 22/1/20: The UK doesn’t want children to join their families, while the Greek islands are heating up
 #### Legal experts warn: It is impossible for people on the islands to access the office in order to renew an asylum seeker card, leading up to a number of other issues and disrespect of the laws and rights / Relocation of 400 people from Greece to France is expected to start in summer / Mobile legal team set up to work across Serbia / UK overturned the Dubs Amendment
 
 
-![[Some](https://twitter.com/PatriciaNicol/status/1219607027405803521) of the reactions to today’s vote against Amendment 17 of the Brexit Bill, regarding child refugees](assets/6a397dc06257/0*7b0api5qOe_mztFj)
+![[Some](https://twitter.com/PatriciaNicol/status/1219607027405803521) of the reactions to today’s vote against Amendment 17 of the Brexit Bill, regarding child refugees](../assets/6a397dc06257/0*7b0api5qOe_mztFj)
 
 [Some](https://twitter.com/PatriciaNicol/status/1219607027405803521) of the reactions to today’s vote against Amendment 17 of the Brexit Bill, regarding child refugees
 #### FEATURED
@@ -131,7 +131,7 @@ Also, among other restraining changes, post\-traumatic stress disorder \(PTSD\) 
 Once again, it is the people on the move for finding a refuge who will suffer the consequences of no solidarity between the EU Member states and the politics of the right\-wing governments\.
 
 
-![Moria, 2020 \(Photo: [Dimitris Tosidis](https://www.facebook.com/holden.belane?__tn__=%2Cd%2AF%2AF-R&eid=ARDNVJC0B8W8r_XTmnwWh9BRuV1v9-mRPV3RMq285WG4AvYpB5_5SBLvxlaNMPLqS-tUM5OAyWzlCmp_&tn-str=%2AF) \)](assets/6a397dc06257/1*QkT-FSCqQYv5OrBp522nhA.jpeg)
+![Moria, 2020 \(Photo: [Dimitris Tosidis](https://www.facebook.com/holden.belane?__tn__=%2Cd%2AF%2AF-R&eid=ARDNVJC0B8W8r_XTmnwWh9BRuV1v9-mRPV3RMq285WG4AvYpB5_5SBLvxlaNMPLqS-tUM5OAyWzlCmp_&tn-str=%2AF) \)](../assets/6a397dc06257/1*QkT-FSCqQYv5OrBp522nhA.jpeg)
 
 Moria, 2020 \(Photo: [Dimitris Tosidis](https://www.facebook.com/holden.belane?__tn__=%2Cd%2AF%2AF-R&eid=ARDNVJC0B8W8r_XTmnwWh9BRuV1v9-mRPV3RMq285WG4AvYpB5_5SBLvxlaNMPLqS-tUM5OAyWzlCmp_&tn-str=%2AF) \)
 #### AFGHANISTAN
@@ -159,7 +159,7 @@ The organisations who engaged in this ‘fight’ were: ActionAid, Arsis, Doctor
 The APC [Asylum in Serbia](https://www.facebook.com/AzilUSrbiji/?tn-str=k%2AF&hc_location=group_dialog) mobile team is now active across Serbia and along its borders as a safe place for people seeking to get more information on their legal options and current situation\. The teams work both with people on the move currently in Serbia, asylum seekers or not, as well as with the local population, with the aim of raising awareness and ultimately an atmosphere of acceptance as a precondition for common life\.
 
 
-![Photos: APC](assets/6a397dc06257/1*GqCu9O4YRQjFbRNNncJlsQ.jpeg)
+![Photos: APC](../assets/6a397dc06257/1*GqCu9O4YRQjFbRNNncJlsQ.jpeg)
 
 Photos: APC
 #### UK
@@ -180,7 +180,7 @@ The British Government overturned a Lords amendment which would have required th
 Why somebody would be against a child joining their family members is beyond us\.
 
 
-![](assets/6a397dc06257/0*q657zTjm8gVpj0Vd)
+![](../assets/6a397dc06257/0*q657zTjm8gVpj0Vd)
 
 
 

@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,detention,bosnia,deportations,children-rights]
 description: Amnesty publish appeal against Iuventa’s criminalisation / Plan to relocate all people on the move in Krajina out of urban spaces / More…
 image:
-  path: assets/ed3414d23867/1*xMmVDmMX6pe6ijbNyNnG3g.jpeg
+  path: ../assets/ed3414d23867/1*xMmVDmMX6pe6ijbNyNnG3g.jpeg
 ---
 
 ### AYS Daily Digest 1/9/20 Freedom for Hamza and Mohamed
@@ -15,7 +15,7 @@ image:
 Amnesty publish appeal against Iuventa’s criminalisation / Plan to relocate all people on the move in Krajina out of urban spaces / More reports of pushbacks at the Evros border / Closed detention plans continue on Greek islands / Children detained in Melilla / Sudanese Poet dies in ship wreck / Protest Camp in Paris …
 
 
-![](assets/ed3414d23867/1*xMmVDmMX6pe6ijbNyNnG3g.jpeg)
+![](../assets/ed3414d23867/1*xMmVDmMX6pe6ijbNyNnG3g.jpeg)
 
 #### Featured: Northern Greece — Appeal hearing for Hamza and Mohamed
 
@@ -24,7 +24,7 @@ On Tuesday 1st of September, in the northern town of Komotini, the first appeal 
 On the 4th of February 2020, they were sentenced to **4 years and 1 month in prison** for “smuggling” and “aiding illegal immigration”\. They had fled Morocco in search for a better life and, together with other people, made it to Greece on a makeshift boat\.
 
 
-![[Photo by Borderline Europe](https://twitter.com/BorderlineEurop/status/1300708161284911106)](assets/ed3414d23867/1*xgvYSn_gPaveyaMOrdFDVw.jpeg)
+![[Photo by Borderline Europe](https://twitter.com/BorderlineEurop/status/1300708161284911106)](../assets/ed3414d23867/1*xgvYSn_gPaveyaMOrdFDVw.jpeg)
 
 [Photo by Borderline Europe](https://twitter.com/BorderlineEurop/status/1300708161284911106)
 
@@ -102,7 +102,7 @@ According to IOM data, 408 people were [returned](https://twitter.com/IOM_Libya/
 #### **Sudanese Poet among recent victims of EU deals with Libya**
 
 
-![\(Abdel Wahab Yousif\. Photo Credit: [Brendan Woodhouse](https://web.facebook.com/brendan.woodhouse.18?__cft__[0]=AZX253zdN4IbpgShGD7_BathHpR9TtsSen1hLsdpluH5l9rF36fHI63ic9RrzbDNwUQWeO_z_NRZP_F2TwdZnDmq4EgSUqd4AUtYPwXRcTc-AOxncTFnm84Gm2c3M55_OCI&__tn__=-UC%2CP-R) \)](assets/ed3414d23867/1*e7s7cboWp6Epawc-SVbSsw.jpeg)
+![\(Abdel Wahab Yousif\. Photo Credit: [Brendan Woodhouse](https://web.facebook.com/brendan.woodhouse.18?__cft__[0]=AZX253zdN4IbpgShGD7_BathHpR9TtsSen1hLsdpluH5l9rF36fHI63ic9RrzbDNwUQWeO_z_NRZP_F2TwdZnDmq4EgSUqd4AUtYPwXRcTc-AOxncTFnm84Gm2c3M55_OCI&__tn__=-UC%2CP-R) \)](../assets/ed3414d23867/1*e7s7cboWp6Epawc-SVbSsw.jpeg)
 
 \(Abdel Wahab Yousif\. Photo Credit: [Brendan Woodhouse](https://web.facebook.com/brendan.woodhouse.18?__cft__[0]=AZX253zdN4IbpgShGD7_BathHpR9TtsSen1hLsdpluH5l9rF36fHI63ic9RrzbDNwUQWeO_z_NRZP_F2TwdZnDmq4EgSUqd4AUtYPwXRcTc-AOxncTFnm84Gm2c3M55_OCI&__tn__=-UC%2CP-R) \)
 
@@ -254,11 +254,11 @@ Migration minister Mitarakis has turned to Facebook to spread further government
 In a last [shameful public attempt](https://www.facebook.com/notismitarachi/posts/3371322812957030) to justify such a plan, he described it as a measure to ensure the safety of people on the move\.
 
 
-![](assets/ed3414d23867/1*O5HlFTiFR32ibgdc1MbBsg.jpeg)
+![](../assets/ed3414d23867/1*O5HlFTiFR32ibgdc1MbBsg.jpeg)
 
 
 
-![Works for the construction on closed facilities, Greece, September 2020 \( [via migration minister Notis Mitarakis](https://www.facebook.com/notismitarachi/posts/3371322812957030) \)](assets/ed3414d23867/1*wehjHaYom1JTxjg-H7dHnQ.jpeg)
+![Works for the construction on closed facilities, Greece, September 2020 \( [via migration minister Notis Mitarakis](https://www.facebook.com/notismitarachi/posts/3371322812957030) \)](../assets/ed3414d23867/1*wehjHaYom1JTxjg-H7dHnQ.jpeg)
 
 Works for the construction on closed facilities, Greece, September 2020 \( [via migration minister Notis Mitarakis](https://www.facebook.com/notismitarachi/posts/3371322812957030) \)
 
@@ -423,7 +423,7 @@ The Children’s Platform, which brings together [68 child advocacy organization
 #### **Update from Melilla**
 
 
-![\(Social Distancing? Photo Credit: [Solidary Wheels](https://web.facebook.com/NoNameKitchenBelgrade/posts/1061689087562708) \)](assets/ed3414d23867/1*VBq_FZTI1cvWjAJ0TkJonw.jpeg)
+![\(Social Distancing? Photo Credit: [Solidary Wheels](https://web.facebook.com/NoNameKitchenBelgrade/posts/1061689087562708) \)](../assets/ed3414d23867/1*VBq_FZTI1cvWjAJ0TkJonw.jpeg)
 
 \(Social Distancing? Photo Credit: [Solidary Wheels](https://web.facebook.com/NoNameKitchenBelgrade/posts/1061689087562708) \)
 
@@ -537,7 +537,7 @@ _SWEDEN_
 #### **Families torn apart by Swedish Deportations**
 
 
-![\(Photo Credit: [Marie, Ali’s mother\. Ali’s father was deported from Sweden away from his wife and young family](https://web.facebook.com/permalink.php?story_fbid=939441366538026&id=100014165134189) earlier this year\)](assets/ed3414d23867/1*j910sw7sjhDGLC7Jyygexw.jpeg)
+![\(Photo Credit: [Marie, Ali’s mother\. Ali’s father was deported from Sweden away from his wife and young family](https://web.facebook.com/permalink.php?story_fbid=939441366538026&id=100014165134189) earlier this year\)](../assets/ed3414d23867/1*j910sw7sjhDGLC7Jyygexw.jpeg)
 
 \(Photo Credit: [Marie, Ali’s mother\. Ali’s father was deported from Sweden away from his wife and young family](https://web.facebook.com/permalink.php?story_fbid=939441366538026&id=100014165134189) earlier this year\)
 

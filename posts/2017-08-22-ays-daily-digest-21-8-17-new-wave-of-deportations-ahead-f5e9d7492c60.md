@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 21/08/17: New wave of deportations ahead
+title: "AYS Daily Digest 21/08/17: New wave of deportations ahead"
 author: Are You Syrious?
 date: 2017-08-22T03:14:44.815+0100
 last_modified_at: 2017-08-28T15:14:47.434+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,human-rights,greece,italy]
 description: New deportations from Austria to Croatia / paramilitary groups violently keeping people in Libya / evictions in Rome / Border checks…
 image:
-  path: assets/f5e9d7492c60/1*-JekOc5THNjzdcB48cVAbQ.jpeg
+  path: ../assets/f5e9d7492c60/1*-JekOc5THNjzdcB48cVAbQ.jpeg
 ---
 
 ### AYS Daily Digest 21/08/17: New wave of deportations ahead
@@ -17,7 +17,7 @@ _New deportations from Austria to Croatia / paramilitary groups violently keepin
 
 ![France — “Yesterday we went to one of the very few well established small camps still left in the north of France\. The contrast after driving through pretty french countryside is stark, to see the shacks made out of rubbish like the ones that used to be in the old Calais jungle\. We took various donations, the most important of which were firewood for cooking, and petrol for the two generators in the camp\. There are around 80 people there and they share the generators frugally to provide mobile phone charging and light at night\.
 However, the key thing we didn’t have that was requested a lot was mobile phones and power packs\. Over time their cheap phones have been broken and lost, and these provide a lifeline to contact family and friends back home in countries of origin\.
-If you can donate any mobile phones or power packs please email clare@care4calais\.org\. Thank you\.” \(Photo:C4C\)](assets/f5e9d7492c60/1*-JekOc5THNjzdcB48cVAbQ.jpeg)
+If you can donate any mobile phones or power packs please email clare@care4calais\.org\. Thank you\.” \(Photo:C4C\)](../assets/f5e9d7492c60/1*-JekOc5THNjzdcB48cVAbQ.jpeg)
 
 France — “Yesterday we went to one of the very few well established small camps still left in the north of France\. The contrast after driving through pretty french countryside is stark, to see the shacks made out of rubbish like the ones that used to be in the old Calais jungle\. We took various donations, the most important of which were firewood for cooking, and petrol for the two generators in the camp\. There are around 80 people there and they share the generators frugally to provide mobile phone charging and light at night\.
 However, the key thing we didn’t have that was requested a lot was mobile phones and power packs\. Over time their cheap phones have been broken and lost, and these provide a lifeline to contact family and friends back home in countries of origin\.
@@ -89,7 +89,7 @@ With Souda camp closing and Vial being full, as local volunteers report, the onl
 
 
 ![“225 people have arrived on four boats to Chios in the last twelve hours\. However, authorities have removed some of the flimsy tents that were supposed to host them\. Instead they plan to cram them into the prison like camp in the mountains that is already full\.
-Undoubtedly, some people, including children, will be welcomed to Europe by sleeping in the street tonight\.” — Photo and text: Izzy Tomico Ellis](assets/f5e9d7492c60/1*R1Q5Cq4r9IJiUYCK18reJA.jpeg)
+Undoubtedly, some people, including children, will be welcomed to Europe by sleeping in the street tonight\.” — Photo and text: Izzy Tomico Ellis](../assets/f5e9d7492c60/1*R1Q5Cq4r9IJiUYCK18reJA.jpeg)
 
 “225 people have arrived on four boats to Chios in the last twelve hours\. However, authorities have removed some of the flimsy tents that were supposed to host them\. Instead they plan to cram them into the prison like camp in the mountains that is already full\.
 Undoubtedly, some people, including children, will be welcomed to Europe by sleeping in the street tonight\.” — Photo and text: Izzy Tomico Ellis
@@ -97,11 +97,11 @@ Undoubtedly, some people, including children, will be welcomed to Europe by slee
 On Chios, intensive audits continue to be carried out to identify individuals who have a second negative decision on asylum\. In a police operation in the Souda camp at Chios Castle, 15 persons were taken to the Police Directorate of Chios, two of them Algerians and one Egyptian were detained, [reportedly](http://www.ana.gr/home/article/180318/Perissoteres-apo-630-afixeis-prosfugon-to-teleutaio-triimero-sta-nisia-tou-BA-Aigaiou) to be returned to Turkey\.
 
 
-![](assets/f5e9d7492c60/1*S9dYP7US005-dfNbN7RhrA.jpeg)
+![](../assets/f5e9d7492c60/1*S9dYP7US005-dfNbN7RhrA.jpeg)
 
 
 
-![With the help of [The Get Shit Done Team](https://www.facebook.com/The-Get-Shit-Done-Team-304001796641127/) and [Sea of Solidarity](https://www.facebook.com/SeaofSolidarity/?fref=mentions) , the Drops shop was opened in Chios, run by the Drops in the Ocean team \(Photos: [Dråpen i Havet](https://www.facebook.com/drapenihavet/) \)](assets/f5e9d7492c60/1*LG206rNdAaJcY5HGKjuZ2g.jpeg)
+![With the help of [The Get Shit Done Team](https://www.facebook.com/The-Get-Shit-Done-Team-304001796641127/) and [Sea of Solidarity](https://www.facebook.com/SeaofSolidarity/?fref=mentions) , the Drops shop was opened in Chios, run by the Drops in the Ocean team \(Photos: [Dråpen i Havet](https://www.facebook.com/drapenihavet/) \)](../assets/f5e9d7492c60/1*LG206rNdAaJcY5HGKjuZ2g.jpeg)
 
 With the help of [The Get Shit Done Team](https://www.facebook.com/The-Get-Shit-Done-Team-304001796641127/) and [Sea of Solidarity](https://www.facebook.com/SeaofSolidarity/?fref=mentions) , the Drops shop was opened in Chios, run by the Drops in the Ocean team \(Photos: [Dråpen i Havet](https://www.facebook.com/drapenihavet/) \)
 ### Family members joining from abroad — information
@@ -174,17 +174,17 @@ A [demonstration](https://www.facebook.com/events/109941286369424/?ti=cl) to pro
 #### \- Lesvos
 
 
-![](assets/f5e9d7492c60/1*Ha2EPxdfU8hJ4wP6kHnztg.jpeg)
+![](../assets/f5e9d7492c60/1*Ha2EPxdfU8hJ4wP6kHnztg.jpeg)
 
 
 [Starfish Foundation — Help for refugees on Lesvos](https://www.facebook.com/HelpForRefugeesInMolyvos/) invites everyone to take part at their conference that aims to create more possibilities for volunteer organizations to collaborate and work better together:
 
 
-![](assets/f5e9d7492c60/1*lNLkL2TczOrKBMgAOCCI0g.jpeg)
+![](../assets/f5e9d7492c60/1*lNLkL2TczOrKBMgAOCCI0g.jpeg)
 
 
 
-![](assets/f5e9d7492c60/1*Q3v7vJ_ldsX0qVlihB2XFQ.jpeg)
+![](../assets/f5e9d7492c60/1*Q3v7vJ_ldsX0qVlihB2XFQ.jpeg)
 
 
 [Support](http://www.dirtygirlsoflesvos.com/upcycle) the [Dirty Girls Of Lesvos Island](https://www.facebook.com/dirtygirlslesvos/) ; they upcycle materials from used \(fake\) life jackets, turning them into Messenger Bags that are given to those who donate a certain amount to the hardworking team of Firty Girls\.
@@ -224,7 +224,7 @@ Austrian soldiers have carried out border checks at the Brenner Pass between Aus
 Each month, Help Refugees team conducts a survey in Calais with [L’auberge des migrants international](https://www.facebook.com/laubergedesmigrantsinternational/?fref=mentions) \. They interviewed 126 people this month about the living conditions in Calais\.
 
 
-![](assets/f5e9d7492c60/1*TvA2fpyVWjgB9IPtlSHPeQ.jpeg)
+![](../assets/f5e9d7492c60/1*TvA2fpyVWjgB9IPtlSHPeQ.jpeg)
 
 
 
@@ -238,7 +238,7 @@ Each month, Help Refugees team conducts a survey in Calais with [L’auberge des
 
 
 
-![](assets/f5e9d7492c60/1*bRRzzhTWOaQcY8tfveFAdw.jpeg)
+![](../assets/f5e9d7492c60/1*bRRzzhTWOaQcY8tfveFAdw.jpeg)
 
 
 They continue to distribute thousands of blankets, bedding and clothes from the warehouse in Calais, but are also asking for support to be able to continue\.
@@ -247,11 +247,11 @@ They continue to distribute thousands of blankets, bedding and clothes from the 
 [Refugee Community Kitchen](https://www.facebook.com/groups/RefugeeCommunityKitchen/) is working without stopping and preparing the kitchen for the cold days coming soon, along with the growing number of refugees who are in need of their services\.
 
 
-![](assets/f5e9d7492c60/1*0N-jgwafHcKu8PyjqAJM6g.jpeg)
+![](../assets/f5e9d7492c60/1*0N-jgwafHcKu8PyjqAJM6g.jpeg)
 
 
 
-![](assets/f5e9d7492c60/1*yvqXv2UYkd1jkwwWygPIRA.jpeg)
+![](../assets/f5e9d7492c60/1*yvqXv2UYkd1jkwwWygPIRA.jpeg)
 
 
 
@@ -271,7 +271,7 @@ Dunkirk Refugee Ground Support Network is willing to provide accommodation for v
 ### Paris
 
 
-![French classes in Paris — source: [Resome](https://www.facebook.com/resomefr/)](assets/f5e9d7492c60/1*sIzoFRayBrIWy6qOD8h9Ww.jpeg)
+![French classes in Paris — source: [Resome](https://www.facebook.com/resomefr/)](../assets/f5e9d7492c60/1*sIzoFRayBrIWy6qOD8h9Ww.jpeg)
 
 French classes in Paris — source: [Resome](https://www.facebook.com/resomefr/)
 #### SWEDEN
@@ -283,7 +283,7 @@ Tomorrow there is a scheduled deportation from Märsta outside of Stockholm to A
 A group from the UK is collecting medical equipment, sewing machines, haberdashery, wool, knitting pins, fabric rolls, first aid kits and beauty products for Women’s Centre, Idlib, Syria, coordinated by Radhia Shah\.
 
 
-![](assets/f5e9d7492c60/1*pUc_FtGsK2ocMR39zwz12w.jpeg)
+![](../assets/f5e9d7492c60/1*pUc_FtGsK2ocMR39zwz12w.jpeg)
 
 ### EU & Swiss asylum cases database
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 3/3/20: Deliberate cruelty as official policy
+title: "AYS Daily Digest 3/3/20: Deliberate cruelty as official policy"
 author: Are You Syrious?
 date: 2020-03-04T13:07:12.656+0000
 last_modified_at: 2020-03-04T13:07:12.656+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,greece,europe,refugees,migration]
 description: Chios warehouse burnt down, reactions / Greek decision to suspend asylum claims draws a number of harsh reactions from all over / The…
 image:
-  path: assets/a2290587bd6c/1*jUymnjZYTcsBUZGCci_WFA.jpeg
+  path: ../assets/a2290587bd6c/1*jUymnjZYTcsBUZGCci_WFA.jpeg
 ---
 
 ### AYS Daily Digest 3/3/20: Deliberate cruelty as official policy
 #### Chios warehouse burnt down, reactions / Greek decision to suspend asylum claims draws a number of harsh reactions from all over / The bottom hit by the EU Commissioner&co\. is deeper than we thought / News on the arrivals / Tuzla volunteers stop activities / Changes in terminology on documents confuses people in Denmark
 
 
-![[“The solidarity will win\!” — Chios, photo by: Katerina Anastasiou](https://www.facebook.com/lll.KAT.lll?__tn__=%2Cd%2AF%2AF-R&eid=ARAQqnbxPe5V_vW5Dqq0I6uRSmDxZSXa5QNm9B4t04WMfFDEaglCx3Gsy8EshCjsSuSfkL1_7xrnFtB4&tn-str=%2AF)](assets/a2290587bd6c/1*jUymnjZYTcsBUZGCci_WFA.jpeg)
+![[“The solidarity will win\!” — Chios, photo by: Katerina Anastasiou](https://www.facebook.com/lll.KAT.lll?__tn__=%2Cd%2AF%2AF-R&eid=ARAQqnbxPe5V_vW5Dqq0I6uRSmDxZSXa5QNm9B4t04WMfFDEaglCx3Gsy8EshCjsSuSfkL1_7xrnFtB4&tn-str=%2AF)](../assets/a2290587bd6c/1*jUymnjZYTcsBUZGCci_WFA.jpeg)
 
 [“The solidarity will win\!” — Chios, photo by: Katerina Anastasiou](https://www.facebook.com/lll.KAT.lll?__tn__=%2Cd%2AF%2AF-R&eid=ARAQqnbxPe5V_vW5Dqq0I6uRSmDxZSXa5QNm9B4t04WMfFDEaglCx3Gsy8EshCjsSuSfkL1_7xrnFtB4&tn-str=%2AF)
 #### FEATURED
@@ -178,7 +178,7 @@ The road to Vial has been blocked by demonstrators all day\. No NGOs or voluntee
 Here is the weekly report from Aegean Boat Report for Week 9, 2020\.
 
 
-![](assets/a2290587bd6c/1*n1crqDbSGKB_OyriLQyxag.jpeg)
+![](../assets/a2290587bd6c/1*n1crqDbSGKB_OyriLQyxag.jpeg)
 
 
 Arrival numbers for 01\.03\.2020, 902 people, has not been added to population numbers by Greek government, and can be connected to the latest developments on the Greek Aegean islands and the temporary shut down of asylum registrations\.
@@ -186,11 +186,11 @@ Arrival numbers for 01\.03\.2020, 902 people, has not been added to population n
 Here is the monthly report from Aegean Boat Report for February 2020:
 
 
-![](assets/a2290587bd6c/1*sPQM0Ucrg7ztSVXl9awZRA.jpeg)
+![](../assets/a2290587bd6c/1*sPQM0Ucrg7ztSVXl9awZRA.jpeg)
 
 
 
-![](assets/a2290587bd6c/1*C9-SUZwTJAVIb92iu7nbnQ.jpeg)
+![](../assets/a2290587bd6c/1*C9-SUZwTJAVIb92iu7nbnQ.jpeg)
 
 ### Children must be relocated\!
 
@@ -211,7 +211,7 @@ Here is the monthly report from Aegean Boat Report for February 2020:
 The Tuzla volunteers informal group who upheld the efforts to help and support the people on the move in tranzit through their city will no longer work in the way and capacities they have been since the whole situation started in Tuzla\. It is no longer possible for them to keep providing the type of assistance and keep the presence they think is needed in order for things to run smoothly and people to feel welcomed\. It is no longer safe for them to work this way, they are overwhelmed with the number of people, needs, lack of manpower and aid, but also solid support from the big organisations and firstly from their city, cantonal and federal officials\. They also hope this decision will move the responsible politicians in charge of the city to do something more sustainable to help alleviate the suffering of the people\. They will keep the warehouse with needed items as some of the vulnerable people are being hosted in different ways and this still requires support\.
 
 
-![](assets/a2290587bd6c/1*RcknmuhUaPXKlG4E2IattQ.jpeg)
+![](../assets/a2290587bd6c/1*RcknmuhUaPXKlG4E2IattQ.jpeg)
 
 
 However, faced with the challenges, they feel that more radical actions are needed in order for the mangitude of peeople affected to be understood in the right places, for those in charge to take responsibility and fix what can be fixed at this point\. The local organisations will keep on providing help in the minimum scope and to the most vulnerable ones\.
@@ -221,7 +221,7 @@ Many seem to have misunderstood the recent change in wording on the asylum statu
 People are also confused over the fact that the municipality now informs all refugees about ‘access to a lot of money’ if they go home voluntarily, the Refugees\.dk [report](http://refugees.dk/en/news/2020/march/confusion-over-the-words-temporary-stay/?fbclid=IwAR1yxdTuHVUV8E2QugbhZq75lN1wvkCeUkWilYH7Nc5bVhFch1UwPmEFong) \.
 
 
-![](assets/a2290587bd6c/0*T0IFSuTV_8VxP2pL)
+![](../assets/a2290587bd6c/0*T0IFSuTV_8VxP2pL)
 
 
 

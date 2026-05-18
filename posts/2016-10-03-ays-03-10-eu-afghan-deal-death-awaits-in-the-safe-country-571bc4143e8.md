@@ -1,13 +1,13 @@
 ---
-title: AYS 03/10: EU-Afghan deal: Death awaits in this ‘safe country’
+title: "AYS 03/10: EU-Afghan deal: Death awaits in this ‘safe country’"
 author: Are You Syrious?
 date: 2016-10-03T22:40:38.764+0100
 last_modified_at: 2016-10-03T23:56:23.806+0100
 categories: 
 tags: [europe,refugees,afghanistan,migration,refugee-camps]
-description: EU-Afghan deal: Returning people to a war-torn state. 600 children have died in the Mediterranean this year. Over 6,000 refugees saved from…
+description: "EU-Afghan deal: Returning people to a war-torn state. 600 children have died in the Mediterranean this year. Over 6,000 refugees saved from…"
 image:
-  path: assets/571bc4143e8/0*ZROylufJ3jwM60tv.
+  path: ../assets/571bc4143e8/0*ZROylufJ3jwM60tv.
 ---
 
 ### AYS 03/10: EU\-Afghan deal: Death awaits in this ‘safe country’
@@ -19,7 +19,7 @@ image:
 
 
 
-![Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)](assets/571bc4143e8/0*ZROylufJ3jwM60tv.)
+![Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)](../assets/571bc4143e8/0*ZROylufJ3jwM60tv.)
 
 Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)
 ### What Afghan children are running away from?
@@ -67,7 +67,7 @@ About 6,055 migrants were rescued on Monday as they tried to reach Europe on abo
 The rescues came on the third anniversary of a migrant ship fire and sinking near the island of Lampedusa which left 366 people dead and alerted the world to the unfolding drama in the Mediterranean\.
 
 
-![**Credits: [Anima](https://www.facebook.com/anima.hrt.hr/)**](assets/571bc4143e8/0*ABsFReH0RyY3fhjY.)
+![**Credits: [Anima](https://www.facebook.com/anima.hrt.hr/)**](../assets/571bc4143e8/0*ABsFReH0RyY3fhjY.)
 
 **Credits: [Anima](https://www.facebook.com/anima.hrt.hr/)**
 ### 600 children have died in the Mediterranean this year
@@ -104,68 +104,68 @@ The toll, from a new analysis of data by Save the Children, means that two child
 
 
 
-![[Laila Baum](https://www.facebook.com/laila.baum.5) \. Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)](assets/571bc4143e8/0*8fvfFZSG1X4fLSa_.)
+![[Laila Baum](https://www.facebook.com/laila.baum.5) \. Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)](../assets/571bc4143e8/0*8fvfFZSG1X4fLSa_.)
 
 [Laila Baum](https://www.facebook.com/laila.baum.5) \. Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)
 
 
-![](assets/571bc4143e8/1*Xzg-XMW8faZY7UQ4PWftlw.jpeg)
+![](../assets/571bc4143e8/1*Xzg-XMW8faZY7UQ4PWftlw.jpeg)
 
 
 
-![[Chandra Marthaler](https://www.facebook.com/chandra.marthaler) and [Josh Mojica](https://www.facebook.com/josh.mojica.1) \. Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)](assets/571bc4143e8/1*6rJ-fuaqx9TJVtiCchluOQ.jpeg)
+![[Chandra Marthaler](https://www.facebook.com/chandra.marthaler) and [Josh Mojica](https://www.facebook.com/josh.mojica.1) \. Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)](../assets/571bc4143e8/1*6rJ-fuaqx9TJVtiCchluOQ.jpeg)
 
 [Chandra Marthaler](https://www.facebook.com/chandra.marthaler) and [Josh Mojica](https://www.facebook.com/josh.mojica.1) \. Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)
 
 
-![[Alec Terrana](https://www.facebook.com/alecterrana) \. Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)](assets/571bc4143e8/0*AITLedrNZv5ReJqq.)
+![[Alec Terrana](https://www.facebook.com/alecterrana) \. Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)](../assets/571bc4143e8/0*AITLedrNZv5ReJqq.)
 
 [Alec Terrana](https://www.facebook.com/alecterrana) \. Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)
 
 
-![[Fab Bra](https://www.facebook.com/profile.php?id=100009438927228) \. Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)](assets/571bc4143e8/0*NmIoqjAsI01yz9Q8.)
+![[Fab Bra](https://www.facebook.com/profile.php?id=100009438927228) \. Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)](../assets/571bc4143e8/0*NmIoqjAsI01yz9Q8.)
 
 [Fab Bra](https://www.facebook.com/profile.php?id=100009438927228) \. Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)
 
 
-![](assets/571bc4143e8/1*4cRmFvMpL3ZDvYsaunM3IA.jpeg)
+![](../assets/571bc4143e8/1*4cRmFvMpL3ZDvYsaunM3IA.jpeg)
 
 
 
-![[Dési Ré and](https://www.facebook.com/desiree.jaksch) [Camilla Patricia Hoeeg](https://www.facebook.com/CamillaPatricia) \. Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)](assets/571bc4143e8/1*SLrdFvt9JKOVZ2iT4VPV_A.jpeg)
+![[Dési Ré and](https://www.facebook.com/desiree.jaksch) [Camilla Patricia Hoeeg](https://www.facebook.com/CamillaPatricia) \. Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)](../assets/571bc4143e8/1*SLrdFvt9JKOVZ2iT4VPV_A.jpeg)
 
 [Dési Ré and](https://www.facebook.com/desiree.jaksch) [Camilla Patricia Hoeeg](https://www.facebook.com/CamillaPatricia) \. Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)
 
 
-![[Edgard Vega](https://www.facebook.com/edgard.vega.5) and [Maria Airam](https://www.facebook.com/maria.airam.16503) \. Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)](assets/571bc4143e8/1*ZVbnMDca36pSWkpYNSvLFw.jpeg)
+![[Edgard Vega](https://www.facebook.com/edgard.vega.5) and [Maria Airam](https://www.facebook.com/maria.airam.16503) \. Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)](../assets/571bc4143e8/1*ZVbnMDca36pSWkpYNSvLFw.jpeg)
 
 [Edgard Vega](https://www.facebook.com/edgard.vega.5) and [Maria Airam](https://www.facebook.com/maria.airam.16503) \. Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)
 
 
-![](assets/571bc4143e8/1*6n0A5TcS8T279mI4oqb2Lg.jpeg)
+![](../assets/571bc4143e8/1*6n0A5TcS8T279mI4oqb2Lg.jpeg)
 
 
 
-![[Bernat Conill Hernandez](https://www.facebook.com/bernat.conillhernandez) and [Katrin Schiesser](https://www.facebook.com/katrin.schiesser.7) \. Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)](assets/571bc4143e8/1*pmpWbofg8E0OE4W1WWAWaA.jpeg)
+![[Bernat Conill Hernandez](https://www.facebook.com/bernat.conillhernandez) and [Katrin Schiesser](https://www.facebook.com/katrin.schiesser.7) \. Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)](../assets/571bc4143e8/1*pmpWbofg8E0OE4W1WWAWaA.jpeg)
 
 [Bernat Conill Hernandez](https://www.facebook.com/bernat.conillhernandez) and [Katrin Schiesser](https://www.facebook.com/katrin.schiesser.7) \. Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)
 
 
-![](assets/571bc4143e8/1*kKQQz2FuYKsJ0MtKtM9gOg.jpeg)
+![](../assets/571bc4143e8/1*kKQQz2FuYKsJ0MtKtM9gOg.jpeg)
 
 
 
-![[Fay Sidiroglou](https://www.facebook.com/fay.sidiroglou) and [Jasmin Mer](https://www.facebook.com/jasmin.m.merkel) \. Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)](assets/571bc4143e8/1*f40MblXZT35Qlyd_Yp6_yA.jpeg)
+![[Fay Sidiroglou](https://www.facebook.com/fay.sidiroglou) and [Jasmin Mer](https://www.facebook.com/jasmin.m.merkel) \. Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)](../assets/571bc4143e8/1*f40MblXZT35Qlyd_Yp6_yA.jpeg)
 
 [Fay Sidiroglou](https://www.facebook.com/fay.sidiroglou) and [Jasmin Mer](https://www.facebook.com/jasmin.m.merkel) \. Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)
 
 
-![[Sarah Misteriosa](https://www.facebook.com/sarah.misteriosa) \. Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)](assets/571bc4143e8/0*bMHsXYiwP9NXKzqM.)
+![[Sarah Misteriosa](https://www.facebook.com/sarah.misteriosa) \. Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)](../assets/571bc4143e8/0*bMHsXYiwP9NXKzqM.)
 
 [Sarah Misteriosa](https://www.facebook.com/sarah.misteriosa) \. Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)
 
 
-![[Achilles M\. Peklaris](https://www.facebook.com/achillespek) \. Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)](assets/571bc4143e8/0*5g2qhiDKUmCQF2se.)
+![[Achilles M\. Peklaris](https://www.facebook.com/achillespek) \. Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)](../assets/571bc4143e8/0*5g2qhiDKUmCQF2se.)
 
 [Achilles M\. Peklaris](https://www.facebook.com/achillespek) \. Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)
 
@@ -184,12 +184,12 @@ Chios 29
 ### Vigilantes continue to patrol the border and harm refugees
 
 
-![Credits: [**MigSzol Csoport**](https://www.facebook.com/migszolcsoport/)](assets/571bc4143e8/0*ByPm-C-j3Dnrtwae.)
+![Credits: [**MigSzol Csoport**](https://www.facebook.com/migszolcsoport/)](../assets/571bc4143e8/0*ByPm-C-j3Dnrtwae.)
 
 Credits: [**MigSzol Csoport**](https://www.facebook.com/migszolcsoport/)
 
 
-![Credits: [**MigSzol Csoport**](https://www.facebook.com/migszolcsoport/)](assets/571bc4143e8/0*8wxqrI65ucLizQUn.)
+![Credits: [**MigSzol Csoport**](https://www.facebook.com/migszolcsoport/)](../assets/571bc4143e8/0*8wxqrI65ucLizQUn.)
 
 Credits: [**MigSzol Csoport**](https://www.facebook.com/migszolcsoport/)
 #### Serbia

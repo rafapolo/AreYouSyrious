@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 23/2/2018: Over 21.000 people prevented from entering Serbia last year
+title: "AYS DAILY DIGEST 23/2/2018: Over 21.000 people prevented from entering Serbia last year"
 author: Are You Syrious?
 date: 2018-02-24T07:49:16.715+0000
 last_modified_at: 2018-03-01T13:25:42.839+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,bosnia,balkans,eu,digets]
 description: People trapped in Serbia as a result of EU countries shutting their borders // Significant increase of people who arrived in Europe this…
 image:
-  path: assets/e986e45510af/1*yFvquw2wLC1v9PTZO7IV2g.jpeg
+  path: ../assets/e986e45510af/1*yFvquw2wLC1v9PTZO7IV2g.jpeg
 ---
 
 ### AYS DAILY DIGEST 23/2/2018: Over 21\.000 people prevented from entering Serbia last year
@@ -15,7 +15,7 @@ image:
 _People trapped in Serbia as a result of EU countries shutting their borders // Significant increase of people who arrived in Europe this year in comparison to 2017 // People trapped in snow in Bosnia // Balkan weather report and much more // Military style detention in Norway_
 
 
-![Photo by [**Médecins du Monde Hauts\-de\-France**](https://web.facebook.com/M%C3%A9decins-du-Monde-Hauts-de-France-850170168369696/?hc_ref=ARSyTcQlSj9UdZSauRZBZdsc-_MGJ_MfunvMIKRDERkk37AY3A0ToGzWOGi15V-53Os)](assets/e986e45510af/1*yFvquw2wLC1v9PTZO7IV2g.jpeg)
+![Photo by [**Médecins du Monde Hauts\-de\-France**](https://web.facebook.com/M%C3%A9decins-du-Monde-Hauts-de-France-850170168369696/?hc_ref=ARSyTcQlSj9UdZSauRZBZdsc-_MGJ_MfunvMIKRDERkk37AY3A0ToGzWOGi15V-53Os)](../assets/e986e45510af/1*yFvquw2wLC1v9PTZO7IV2g.jpeg)
 
 Photo by [**Médecins du Monde Hauts\-de\-France**](https://web.facebook.com/M%C3%A9decins-du-Monde-Hauts-de-France-850170168369696/?hc_ref=ARSyTcQlSj9UdZSauRZBZdsc-_MGJ_MfunvMIKRDERkk37AY3A0ToGzWOGi15V-53Os)
 
@@ -64,7 +64,7 @@ One boat landed on Lesvos south, Katia beach, with a total of 65 people\. Four w
 Two boats were picked up outside Samos by Frontex, one with 51 people and the other with 42 people\.
 
 
-![Photo by ERCI — [Emergency Response Centre International\.](https://www.facebook.com/ercintl/posts/769642809902139)](assets/e986e45510af/1*wE0DJEEHW6R9ugpWfyc4sQ.jpeg)
+![Photo by ERCI — [Emergency Response Centre International\.](https://www.facebook.com/ercintl/posts/769642809902139)](../assets/e986e45510af/1*wE0DJEEHW6R9ugpWfyc4sQ.jpeg)
 
 Photo by ERCI — [Emergency Response Centre International\.](https://www.facebook.com/ercintl/posts/769642809902139)
 
@@ -158,7 +158,7 @@ Severely cold weather is predicted in France, where thousands of people are slee
 [Care4Calais](https://web.facebook.com/care4calais/) has started preparing for the super cold weather expected next week and they are distributing winter coats, sleeping bags, thermal underwear, tents, socks, hats and gloves at our first location in Calais\.
 
 
-![](assets/e986e45510af/1*mwlmZBGwerz43nCXx8QaDQ.jpeg)
+![](../assets/e986e45510af/1*mwlmZBGwerz43nCXx8QaDQ.jpeg)
 
 
 But more [help is needed](https://goo.gl/jmkx7A) in order to keep people as warm as possible\.

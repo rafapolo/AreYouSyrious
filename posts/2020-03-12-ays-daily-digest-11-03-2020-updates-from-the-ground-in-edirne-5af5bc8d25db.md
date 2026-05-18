@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 11/03/2020: Updates from the ground in Edirne
+title: "AYS Daily Digest 11/03/2020: Updates from the ground in Edirne"
 author: Are You Syrious?
 date: 2020-03-12T14:13:46.670+0000
 last_modified_at: 2020-03-12T14:51:23.604+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,turkey,greece]
 description: New Aggression between Turkey and Greece // Information on Measures against Spread of Corona in Italy and Greece // Still 500 people held…
 image:
-  path: assets/5af5bc8d25db/1*5HrxfRkyWYoadurR2zTxhg.jpeg
+  path: ../assets/5af5bc8d25db/1*5HrxfRkyWYoadurR2zTxhg.jpeg
 ---
 
 ### AYS Daily Digest 11/03/2020: Updates from the ground in Edirne
@@ -15,7 +15,7 @@ image:
 New aggression between Turkey and Greece // Information on measures against spread of corona in Italy and Greece // Still 500 people held on naval vessel in Greece without access to asylum system and in inhumane conditions // Deportation from Germany to Afghanistan
 
 
-![People are still struggling to understand if and when they are able to exit the camp\. Photo: AYS](assets/5af5bc8d25db/1*5HrxfRkyWYoadurR2zTxhg.jpeg)
+![People are still struggling to understand if and when they are able to exit the camp\. Photo: AYS](../assets/5af5bc8d25db/1*5HrxfRkyWYoadurR2zTxhg.jpeg)
 
 People are still struggling to understand if and when they are able to exit the camp\. Photo: AYS
 ### FEATURE I: NEWS FROM EDIRNE CAMP
@@ -32,7 +32,7 @@ From different sources we got some insights in what seems to be going on in the 
 Our team member explains that the military police confiscated tents that volunteers wanted to distribute in the camp, as many people are without any shelter\. According to the first information, the conditions at the camp are horrendous; many people do not have any tents and got soaking wet when it rained the other night\. There seems to be some kind of food distribution but people have to wait for about four hours until it is their turn\. Toilets are extremely dirty and the overall hygienic situation is described as terrible\.
 
 
-![Many don’t have proper tents, but the military police won’t allow volunteers to distribure them\. Photo: AYS](assets/5af5bc8d25db/1*7AFxupMvH-KJ_bn55wXPBA.jpeg)
+![Many don’t have proper tents, but the military police won’t allow volunteers to distribure them\. Photo: AYS](../assets/5af5bc8d25db/1*7AFxupMvH-KJ_bn55wXPBA.jpeg)
 
 Many don’t have proper tents, but the military police won’t allow volunteers to distribure them\. Photo: AYS
 
@@ -159,11 +159,11 @@ Audiofiles of Mandinka and Arabic verison can be provided upon request\.
 The Baobab Experience, an association that has been providing support to refugees in Rome since 2015, suspended its legal assistance at the Tiburtina station\. Emergency contacts are provided on their Facebook page \(Baobab 4 Jobs\) \. They also published 10 tips to follow in English, French, Spanish, Chinese, Romanian, Arabic and Urdu\.
 
 
-![](assets/5af5bc8d25db/1*ZlsHWi24PNpfA9A0I38w8g.jpeg)
+![](../assets/5af5bc8d25db/1*ZlsHWi24PNpfA9A0I38w8g.jpeg)
 
 
 
-![copyrights: Baobab 4 Jobs](assets/5af5bc8d25db/1*xms-jCXyZwZfWPJxh7vhgQ.jpeg)
+![copyrights: Baobab 4 Jobs](../assets/5af5bc8d25db/1*xms-jCXyZwZfWPJxh7vhgQ.jpeg)
 
 copyrights: Baobab 4 Jobs
 #### GREECE
@@ -207,7 +207,7 @@ A legal basis for the detention is missing, not to speak about the conditions of
 See also this video report by Human Rights Watch:
 
 
-[![Asylum Seekers Held on Navy Boat: Bill Frelick Reports from the Scene](assets/5af5bc8d25db/cfcb_hqdefault.jpg "Asylum Seekers Held on Navy Boat: Bill Frelick Reports from the Scene")](https://www.youtube.com/watch?v=gPbSjq3xfYA)
+[![Asylum Seekers Held on Navy Boat: Bill Frelick Reports from the Scene](../assets/5af5bc8d25db/cfcb_hqdefault.jpg "Asylum Seekers Held on Navy Boat: Bill Frelick Reports from the Scene")](https://www.youtube.com/watch?v=gPbSjq3xfYA)
 
 #### GERMANY
 ### Additional proof against deportations to Afghanistan published

@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL FROM PARIS (part 2): The never ending cycle
+title: "AYS SPECIAL FROM PARIS (part 2): The never ending cycle"
 author: Are You Syrious?
 date: 2017-11-08T15:20:49.639+0000
 last_modified_at: 2018-03-01T14:32:25.920+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,paris,volunteering,france,special]
 description: The situation in Paris has worsened since the last major eviction of the streets of Porte de la Chapelle on 18th August 2017, when about…
 image:
-  path: assets/e568a1f59119/1*IOhY2ttrFap9BZ5XU43mgg.jpeg
+  path: ../assets/e568a1f59119/1*IOhY2ttrFap9BZ5XU43mgg.jpeg
 ---
 
 ### AYS SPECIAL FROM PARIS \(part 2\): The never ending cycle
@@ -15,7 +15,7 @@ image:
 _The situation in Paris has worsened since the last major eviction of the streets of Porte de la Chapelle on 18th August 2017, when about 2500 people were taken to reception centers\. However, after just couple of weeks, volunteers are estimating that there is around 1500 to 2000 people sleeping rough in France’s capital\._
 
 
-![Blankets or one of the most needed items in Paris\. Credits: AYS](assets/e568a1f59119/1*IOhY2ttrFap9BZ5XU43mgg.jpeg)
+![Blankets or one of the most needed items in Paris\. Credits: AYS](../assets/e568a1f59119/1*IOhY2ttrFap9BZ5XU43mgg.jpeg)
 
 Blankets or one of the most needed items in Paris\. Credits: AYS
 
@@ -43,7 +43,7 @@ But even families and minors are faced with extreme dificulties\. In the camp at
 The groups that are suffering the most in these circumstances are minors and families\. But even if volunteers would like to support them better, they are just not well enough equipped\. And the government does not seem to fill the gaps it has created, and that have been ignored over the last months\. Authorities looked away, letting this urban human crisis in one of the most developed countries in the world, emerge\. Volunteers, who are familiar with single cases, also complain about slow processes of the asylum procedure and a lack of help support for them\.
 
 
-![Volunteers cover more than 30 spots, where people sleep\. Credits: AYS](assets/e568a1f59119/1*q6SFJ8t5F5dvGkL0R4cCdQ.jpeg)
+![Volunteers cover more than 30 spots, where people sleep\. Credits: AYS](../assets/e568a1f59119/1*q6SFJ8t5F5dvGkL0R4cCdQ.jpeg)
 
 Volunteers cover more than 30 spots, where people sleep\. Credits: AYS
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 22/11/18: Greek Interior ministry ‘deletes’ refugees from islands
+title: "AYS Daily Digest 22/11/18: Greek Interior ministry ‘deletes’ refugees from islands"
 author: Are You Syrious?
 date: 2018-11-23T15:54:32.300+0000
 last_modified_at: 2018-11-26T11:20:30.115+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,aegean-islands,human-rights]
 description: Illegal push-back in Morocco // Return of civilian SAR ships // Balkan weather report // Racist Austrian law overturned // Sleeping rough…
 image:
-  path: assets/6a88ab14ce17/1*uRxR0KExWTPj8IKe2J-A4A.jpeg
+  path: ../assets/6a88ab14ce17/1*uRxR0KExWTPj8IKe2J-A4A.jpeg
 ---
 
 ### AYS Daily Digest 22/11/18: Greek Interior ministry ‘deletes’ refugees from islands
@@ -15,7 +15,7 @@ image:
 _Illegal push\-back in Morocco // Return of civilian SAR ships // Balkan weather report // Racist Austrian law overturned // Sleeping rough in Paris // Evictions in Italy // And more news…_
 
 
-![Refugees protesting in Paris\. Signs read — “It’s cold\. The Red Cross says stay outside\.” And, “I want to go to school\!” Photo Credit: [Agathe Nadimi](https://www.facebook.com/agathe.nadimi?__tn__=%2CdCH-R-R&eid=ARBuY8BWPnJ4ciR6I_VXDfR_YKuvLpzkHCok5VAJw69mqI_qgC3pr4h-bNnct6IVygqqXcdxDFQLxJGB&hc_ref=ARQSb4l2OUWUhVnUFaVRKZqYjkqvZ7D-gZSwzZbqgsPYMx245BhcCgxqJ4QewJrPOfw&fref=nf&hc_location=group)](assets/6a88ab14ce17/1*uRxR0KExWTPj8IKe2J-A4A.jpeg)
+![Refugees protesting in Paris\. Signs read — “It’s cold\. The Red Cross says stay outside\.” And, “I want to go to school\!” Photo Credit: [Agathe Nadimi](https://www.facebook.com/agathe.nadimi?__tn__=%2CdCH-R-R&eid=ARBuY8BWPnJ4ciR6I_VXDfR_YKuvLpzkHCok5VAJw69mqI_qgC3pr4h-bNnct6IVygqqXcdxDFQLxJGB&hc_ref=ARQSb4l2OUWUhVnUFaVRKZqYjkqvZ7D-gZSwzZbqgsPYMx245BhcCgxqJ4QewJrPOfw&fref=nf&hc_location=group)](../assets/6a88ab14ce17/1*uRxR0KExWTPj8IKe2J-A4A.jpeg)
 
 Refugees protesting in Paris\. Signs read — “It’s cold\. The Red Cross says stay outside\.” And, “I want to go to school\!” Photo Credit: [Agathe Nadimi](https://www.facebook.com/agathe.nadimi?__tn__=%2CdCH-R-R&eid=ARBuY8BWPnJ4ciR6I_VXDfR_YKuvLpzkHCok5VAJw69mqI_qgC3pr4h-bNnct6IVygqqXcdxDFQLxJGB&hc_ref=ARQSb4l2OUWUhVnUFaVRKZqYjkqvZ7D-gZSwzZbqgsPYMx245BhcCgxqJ4QewJrPOfw&fref=nf&hc_location=group)
 ### FEATURE: The transfers that didn’t happen
@@ -27,11 +27,11 @@ Why are the Greek authorities publishing this massive reduction in numbers? Are 
 Regardless of the story behind the ‘deleted’ people, it is representive of a sinister approach endorsed by both the Greek authorities and the UNHCR and IOM: the attempt to deal with humanitarian crises through data and statistics\. Rather than working towards with the basic human needs of refugees, the UNHCR and Greek authorities have chosen to focus on their self\-serving data collection and reports\. It is telling that the Greek interior ministy would simply remove over 2,500 people from their estimates without comment\. The lack of clarity or accuracy in reports by the Greek authorities are representative of their disregard for refugees’ lives\. As the [NoBorders network wrote](https://www.facebook.com/groups/1652972374920129/permalink/2121391194744909/) in regards to this story, “\[these organizations\] deal with refugees and immigrants as lifeless numbers, who can be ‘disappeared’ through a report on a simple piece of paper\.”
 
 
-![](assets/6a88ab14ce17/1*NXYqiXnz0DvJs5AvyHU6RQ.jpeg)
+![](../assets/6a88ab14ce17/1*NXYqiXnz0DvJs5AvyHU6RQ.jpeg)
 
 
 
-![Questionable data by the Greek interior ministry\. From figure one to two, you can see the exaggerated reduction in population\. Image: Aegean Boat Report\.](assets/6a88ab14ce17/1*mHeaaSOMJvTyK-lw4k6q5A.jpeg)
+![Questionable data by the Greek interior ministry\. From figure one to two, you can see the exaggerated reduction in population\. Image: Aegean Boat Report\.](../assets/6a88ab14ce17/1*mHeaaSOMJvTyK-lw4k6q5A.jpeg)
 
 Questionable data by the Greek interior ministry\. From figure one to two, you can see the exaggerated reduction in population\. Image: Aegean Boat Report\.
 ### MOROCCO
@@ -42,7 +42,7 @@ In order to fight illegal push\-backs, the Moroccan Association for Human Rights
 AMDH also made accusations against the Moroccan authorities in Nador this week, claiming that the police are deliberately arresting migrants and charging them as traffickers when they know the charges are false\. The group claims police bribery is widespread, and that the bigger people smugglers walk free, while ordinary people trying to flee to safety are arrested\. “Meanwhile, the true smugglers are spared and stay protected, continuing to lead the beautiful life in Casablanca, Rabat, Tangier and other cities,” writes the group\.
 
 
-![Photo Credit: AMDH Nador](assets/6a88ab14ce17/1*4DnQY1MkRLfigDOoXnNkiw.jpeg)
+![Photo Credit: AMDH Nador](../assets/6a88ab14ce17/1*4DnQY1MkRLfigDOoXnNkiw.jpeg)
 
 Photo Credit: AMDH Nador
 ### SEA
@@ -91,7 +91,7 @@ The EU court in Luxembourg announced this week that it is [overturning Austria�
 In Paris it is now regularly \-3℃ or lower during the night\. There are still hundreds of people sleeping on the streets, including families, children, and even infants\. One independent volunteer described the situation this week:
 
 
-![Sleeping rough in Paris\. Photo: Danika Jurisic](assets/6a88ab14ce17/1*CWvl4QXdajQveZ92OlDoww.jpeg)
+![Sleeping rough in Paris\. Photo: Danika Jurisic](../assets/6a88ab14ce17/1*CWvl4QXdajQveZ92OlDoww.jpeg)
 
 Sleeping rough in Paris\. Photo: Danika Jurisic
 
@@ -140,7 +140,7 @@ Independent volunteer Lola Siran shared a similar story about vulnerable people 
 There will be a demonstration in Paris on November 23rd to protest the abandonment of minors\. Find the details below\.
 
 
-![](assets/6a88ab14ce17/1*AQA-lHEhGC3hi1jkpfVg4g.png)
+![](../assets/6a88ab14ce17/1*AQA-lHEhGC3hi1jkpfVg4g.png)
 
 #### Authorities deny minors protection in Paris
 
@@ -148,7 +148,7 @@ Not only are many minors and children living on the streets, but these young peo
 #### Have you seen this man?
 
 
-![Ahmad\-Issa Ali went missing in the Paris about three motnhs ago\. If you have any information, please contact the phoen number listed on the poster, or message to [Solidarity Migrants Wilson](https://www.facebook.com/Solidarité-migrants-Wilson-598228360377940/?__tn__=%2CdkCH-R-R&eid=ARARCbHOh_JAxWyDu81mgo4fubWQboIY5axWe6H8ERXfL56yidIuy1mQ86scTPYBbI5sRJ7KOHSULKfB&hc_ref=ARQ7HOgSDAEg7cYZiyHhcM5XMdJco00NIXUFya_FM4AU969cjYRtlz_p2TeOnP7jaA8) \.](assets/6a88ab14ce17/1*JRad_MswxVRYNCdf9qSOJA.png)
+![Ahmad\-Issa Ali went missing in the Paris about three motnhs ago\. If you have any information, please contact the phoen number listed on the poster, or message to [Solidarity Migrants Wilson](https://www.facebook.com/Solidarité-migrants-Wilson-598228360377940/?__tn__=%2CdkCH-R-R&eid=ARARCbHOh_JAxWyDu81mgo4fubWQboIY5axWe6H8ERXfL56yidIuy1mQ86scTPYBbI5sRJ7KOHSULKfB&hc_ref=ARQ7HOgSDAEg7cYZiyHhcM5XMdJco00NIXUFya_FM4AU969cjYRtlz_p2TeOnP7jaA8) \.](../assets/6a88ab14ce17/1*JRad_MswxVRYNCdf9qSOJA.png)
 
 Ahmad\-Issa Ali went missing in the Paris about three motnhs ago\. If you have any information, please contact the phoen number listed on the poster, or message to [Solidarity Migrants Wilson](https://www.facebook.com/Solidarité-migrants-Wilson-598228360377940/?__tn__=%2CdkCH-R-R&eid=ARARCbHOh_JAxWyDu81mgo4fubWQboIY5axWe6H8ERXfL56yidIuy1mQ86scTPYBbI5sRJ7KOHSULKfB&hc_ref=ARQ7HOgSDAEg7cYZiyHhcM5XMdJco00NIXUFya_FM4AU969cjYRtlz_p2TeOnP7jaA8) \.
 ### ITALY
@@ -160,7 +160,7 @@ Ahmad\-Issa Ali went missing in the Paris about three motnhs ago\. If you have a
 There will be a national demonstration in Rome on December 15th for the rights of refugees\. Find the details below\.
 
 
-![](assets/6a88ab14ce17/1*DddFVcriCju4vpNHU4fldQ.png)
+![](../assets/6a88ab14ce17/1*DddFVcriCju4vpNHU4fldQ.png)
 
 ### GERMANY
 

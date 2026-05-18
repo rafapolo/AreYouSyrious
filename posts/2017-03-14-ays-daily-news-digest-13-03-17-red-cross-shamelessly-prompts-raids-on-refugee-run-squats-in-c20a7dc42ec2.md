@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe,greece,france,afghanistan]
 description: Feature
 image:
-  path: assets/c20a7dc42ec2/1*ZK7UNQQilGfCN2QakE4beA.jpeg
+  path: ../assets/c20a7dc42ec2/1*ZK7UNQQilGfCN2QakE4beA.jpeg
 ---
 
 ### AYS DAILY NEWS DIGEST 13/03/17 — Red Cross shamelessly prompts raids on refugee\-run squats in Athens
 
 
-![](assets/c20a7dc42ec2/1*ZK7UNQQilGfCN2QakE4beA.jpeg)
+![](../assets/c20a7dc42ec2/1*ZK7UNQQilGfCN2QakE4beA.jpeg)
 
 #### Feature
 
@@ -26,7 +26,7 @@ The raids were conducted at around 5 in the morning\. The first one was in Achar
 Residents in both buildings, including 129 refugees mostly from Syria, were arrested and taken to the police station in Petrou Ralli street\. Among those detained are people who need medical attention: two pregnant women, one diabetic, one person with epilepsy, one person with heart problems and high blood pressure, and others\. Acharnon squat was used mostly for people with some kind of medical condition\.
 
 
-![](assets/c20a7dc42ec2/1*J-PrJXihEuSAcvUcnXpCow.jpeg)
+![](../assets/c20a7dc42ec2/1*J-PrJXihEuSAcvUcnXpCow.jpeg)
 
 
 People with Greek passports and European permits were released from detention soon after the arrest, but even late in the evening refugees were still being held\. We have been told that those who can provide the address of their temporary accommodation will be set free\. Around 50 people have been released thus far, and again volunteers and activists helped them to find accommodation\. Apparently, alternative accommodation was offered in some of the camps, but many people refused to take this option\.
@@ -36,7 +36,7 @@ People who do not have regular papers will be taken tomorrow for registration an
 The people who were held by the police were also denied right to speak to a lawyer, even though some volunteer lawyers were in the front of the building offering their services\. One person inside the police station sent a message to the Khora team saying that she was told she doesn’t have the right to see a lawyer since, “she isn’t being detained, just ‘held back’ before being referred to a camp\.” People inside the station were sleeping on benches, chairs and on the floor inside\.
 
 
-![A refugee in custody sent this picture to volunteers\.](assets/c20a7dc42ec2/1*-7jhJFU_Uhf3smOAmUiUgg.jpeg)
+![A refugee in custody sent this picture to volunteers\.](../assets/c20a7dc42ec2/1*-7jhJFU_Uhf3smOAmUiUgg.jpeg)
 
 A refugee in custody sent this picture to volunteers\.
 
@@ -47,7 +47,7 @@ The occupied park and castle of Villa Zografou in the Zografou area has existed 
 The raids prompted a huge protest in the streets of Athens early in the evening, with over 2,000 people marching in solidarity\. Police “greeted” them with teargas\. Late evening protests turned into clashes with police\.
 
 
-![Photo Credit: NoBorders](assets/c20a7dc42ec2/1*hFbWH4y4BwHHhb2CMDcBAw.jpeg)
+![Photo Credit: NoBorders](../assets/c20a7dc42ec2/1*hFbWH4y4BwHHhb2CMDcBAw.jpeg)
 
 Photo Credit: NoBorders
 
@@ -83,7 +83,7 @@ The Vinojug camp, home to over 150 refugees, was emptied of its residents on Sun
 #### Serbia
 
 
-![A refugee dwelling in Belgrade\. Photo Credit: Matt Frank](assets/c20a7dc42ec2/1*8-4EOKd0uSO2JfJpvAkzhQ.jpeg)
+![A refugee dwelling in Belgrade\. Photo Credit: Matt Frank](../assets/c20a7dc42ec2/1*8-4EOKd0uSO2JfJpvAkzhQ.jpeg)
 
 A refugee dwelling in Belgrade\. Photo Credit: Matt Frank
 
@@ -97,7 +97,7 @@ The refugees, two Indians and one Pakistani, were captured along the train track
 #### Austria
 
 
-![People protest the Austrian government’s decision to deport an unknown number of Afghan refugees\. Photo Credit: Hans Breuer](assets/c20a7dc42ec2/1*ytGJgRsd9QjB7gHYvRBgyw.jpeg)
+![People protest the Austrian government’s decision to deport an unknown number of Afghan refugees\. Photo Credit: Hans Breuer](../assets/c20a7dc42ec2/1*ytGJgRsd9QjB7gHYvRBgyw.jpeg)
 
 People protest the Austrian government’s decision to deport an unknown number of Afghan refugees\. Photo Credit: Hans Breuer
 ### The Austrian government has deported an unknown number of people to Afghanistan

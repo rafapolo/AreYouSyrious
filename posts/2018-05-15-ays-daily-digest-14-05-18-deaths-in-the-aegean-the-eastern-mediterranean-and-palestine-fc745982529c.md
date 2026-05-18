@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 14/05/18: Deaths in the Aegean, the Eastern Mediterranean and Palestine
+title: "AYS DAILY DIGEST 14/05/18: Deaths in the Aegean, the Eastern Mediterranean and Palestine"
 author: Are You Syrious?
 date: 2018-05-15T09:59:38.693+0100
 last_modified_at: 2018-05-15T12:09:12.838+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,lesvos,libya,palestine,refugee-crisis]
 description: Reports from Syria as more people are displaced//Continued evidence of torture in Libya//Dangerous new Immigration Bill to be voted on in…
 image:
-  path: assets/fc745982529c/1*BzFW79HTSObL4dpTcHg5zg.jpeg
+  path: ../assets/fc745982529c/1*BzFW79HTSObL4dpTcHg5zg.jpeg
 ---
 
 ### **AYS DAILY DIGEST 14/05/18: Deaths in the Aegean, the Eastern Mediterranean and Palestine**
@@ -15,7 +15,7 @@ image:
 _Reports from Syria as more people are displaced//Continued evidence of torture in Libya//Dangerous new Immigration Bill to be voted on in Greek Parliament// New arrivals to Greek islands and Italy//Volunteer calls and needs lists for Greece and France//Reports from the ground in Italy, Bosnia, France, Austria and more…_
 
 
-![](assets/fc745982529c/1*BzFW79HTSObL4dpTcHg5zg.jpeg)
+![](../assets/fc745982529c/1*BzFW79HTSObL4dpTcHg5zg.jpeg)
 
 
 People fleeing from war, people fighting for their freedom, people desperate to live, do not deserve to die at the hands of Western ‘Democracies’ or due to EU’s willed blindness of their plight\.
@@ -196,7 +196,7 @@ w/ @[arktouros](https://twitter.com/arktouros) @[PGiannakouris](https://twitter.
 People on the ground from the Refugee Biryani and Bananas Project [report](https://www.facebook.com/RefugeeBiriyaniAndBananas/posts/1038273086330757?hc_location=ufi) on the deteriorating situation in Northern Greece and ask for support\.
 
 
-![[Refugee Biriyani and Bananas](https://www.facebook.com/RefugeeBiriyaniAndBananas/posts/1038273086330757?hc_location=ufi)](assets/fc745982529c/1*fogeSNOgMyrxo9LGUbpSnA.jpeg)
+![[Refugee Biriyani and Bananas](https://www.facebook.com/RefugeeBiriyaniAndBananas/posts/1038273086330757?hc_location=ufi)](../assets/fc745982529c/1*fogeSNOgMyrxo9LGUbpSnA.jpeg)
 
 [Refugee Biriyani and Bananas](https://www.facebook.com/RefugeeBiriyaniAndBananas/posts/1038273086330757?hc_location=ufi)
 
@@ -208,7 +208,7 @@ People on the ground from the Refugee Biryani and Bananas Project [report](https
 
 
 
-![[Refugee Biriyani and Bananas](https://www.facebook.com/RefugeeBiriyaniAndBananas/posts/1038273086330757?hc_location=ufi)](assets/fc745982529c/1*g1TBL6W2MC1Rq2L3XukyIQ.jpeg)
+![[Refugee Biriyani and Bananas](https://www.facebook.com/RefugeeBiriyaniAndBananas/posts/1038273086330757?hc_location=ufi)](../assets/fc745982529c/1*g1TBL6W2MC1Rq2L3XukyIQ.jpeg)
 
 [Refugee Biriyani and Bananas](https://www.facebook.com/RefugeeBiriyaniAndBananas/posts/1038273086330757?hc_location=ufi)
 
@@ -245,7 +245,7 @@ He will remain in a securely guarded place and is prevented from travelling\.
 CARITAS translation services in Athenian Hospitals \(14–18 May 2018\)
 
 
-![CARITAS Greece](assets/fc745982529c/1*FbEXIwADwJbjdSievoUxxA.jpeg)
+![CARITAS Greece](../assets/fc745982529c/1*FbEXIwADwJbjdSievoUxxA.jpeg)
 
 CARITAS Greece
 
@@ -256,7 +256,7 @@ The 4th caravan for the rights of migrants for dignity and justice has ended pos
 _A Raging River of people who do not surrender…_
 
 
-![[CarovaneMigranti](https://www.facebook.com/carovanemigranti/posts/1272652179545109?hc_location=ufi)](assets/fc745982529c/1*nwmn2A9RPBUfLpDP74rWow.jpeg)
+![[CarovaneMigranti](https://www.facebook.com/carovanemigranti/posts/1272652179545109?hc_location=ufi)](../assets/fc745982529c/1*nwmn2A9RPBUfLpDP74rWow.jpeg)
 
 [CarovaneMigranti](https://www.facebook.com/carovanemigranti/posts/1272652179545109?hc_location=ufi)
 

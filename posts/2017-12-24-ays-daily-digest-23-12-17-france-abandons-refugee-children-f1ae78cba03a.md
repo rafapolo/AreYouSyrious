@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 23/12/17: France Abandons Refugee Children
+title: "AYS Daily Digest 23/12/17: France Abandons Refugee Children"
 author: Are You Syrious?
 date: 2017-12-24T03:35:00.974+0000
 last_modified_at: 2017-12-24T17:30:42.738+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,paris,child-abuse,rescue,greece]
 description: //Minors abandoned in Paris// Forced marriages in Turkey//Sea rescues//New arrivals on the Aegean islands//Additional funding for…
 image:
-  path: assets/f1ae78cba03a/1*YxpRh-22VXsb9vCKwdcjyw.jpeg
+  path: ../assets/f1ae78cba03a/1*YxpRh-22VXsb9vCKwdcjyw.jpeg
 ---
 
 ### AYS Daily Digest 23/12/17: France Abandons Refugee Children
@@ -15,7 +15,7 @@ image:
 //Minors abandoned in Paris// Forced marriages in Turkey//Sea rescues//New arrivals on the Aegean islands//Additional funding for Greece//Volunteers construct showers in Serbia and Italy// And more…
 
 
-![Young girl \(on left\) sitting with police officer in Port de la Chapelle, Paris\. Photo taken by a volunteer\.](assets/f1ae78cba03a/1*YxpRh-22VXsb9vCKwdcjyw.jpeg)
+![Young girl \(on left\) sitting with police officer in Port de la Chapelle, Paris\. Photo taken by a volunteer\.](../assets/f1ae78cba03a/1*YxpRh-22VXsb9vCKwdcjyw.jpeg)
 
 Young girl \(on left\) sitting with police officer in Port de la Chapelle, Paris\. Photo taken by a volunteer\.
 ### FEATURE
@@ -138,7 +138,7 @@ A source on the ground [reported today](https://twitter.com/freethemoria35/statu
 The “Happy Family Center” on Moria has opened “baby washing cabins”, where mothers can care for their babies under hygienic conditions\. They will start with 10 mothers per day, and increase to 20 mothers per day in the near future, Inshallah\.
 
 
-![“Baby Washing Cabin” on Lesbos\. Photo Credit: [Michael Raber](https://www.facebook.com/michael.raeber.swisscross?hc_ref=ARRwsy_GLuok05EM72ZPjOhtBjYjQB9cgwCMnA8RfCLd5AAQqXg6p583cTQ93Hiekr0) \.](assets/f1ae78cba03a/1*4YZqRaQiC4qToibtjV656w.jpeg)
+![“Baby Washing Cabin” on Lesbos\. Photo Credit: [Michael Raber](https://www.facebook.com/michael.raeber.swisscross?hc_ref=ARRwsy_GLuok05EM72ZPjOhtBjYjQB9cgwCMnA8RfCLd5AAQqXg6p583cTQ93Hiekr0) \.](../assets/f1ae78cba03a/1*4YZqRaQiC4qToibtjV656w.jpeg)
 
 “Baby Washing Cabin” on Lesbos\. Photo Credit: [Michael Raber](https://www.facebook.com/michael.raeber.swisscross?hc_ref=ARRwsy_GLuok05EM72ZPjOhtBjYjQB9cgwCMnA8RfCLd5AAQqXg6p583cTQ93Hiekr0) \.
 
@@ -204,14 +204,14 @@ There is an urgent need for shoes in the Ritsona camp\. Anyone on the ground who
 ### Serbia
 
 
-![Sleeping rough in Sombor\. Photo Credit: [Umino\.](https://www.facebook.com/umino.org/?fref=gs&hc_location=group_dialog)](assets/f1ae78cba03a/1*Kv0W6Lb_aeOhQ9vLnC4UHw.jpeg)
+![Sleeping rough in Sombor\. Photo Credit: [Umino\.](https://www.facebook.com/umino.org/?fref=gs&hc_location=group_dialog)](../assets/f1ae78cba03a/1*Kv0W6Lb_aeOhQ9vLnC4UHw.jpeg)
 
 Sleeping rough in Sombor\. Photo Credit: [Umino\.](https://www.facebook.com/umino.org/?fref=gs&hc_location=group_dialog)
 
 The [Rigardu](https://www.facebook.com/rigardu/?hc_ref=ARQeMb3Pq4qHjqV2SEO-7OGt3ndch0sTYyrc9PY7jAINQTyqG8rJbNddNncVx3OQ5U0&fref=nf) organization is still operating their mobile shower initiative, helping refugees sleeping in the Sombor area to get clean\. As they state, “It’s about hygiene\. But it is also about humanity and dignity\.” Volunteers in the Sombor area report there are slightly fewer refugees there compared to a few months ago, but there are still many waiting to continue their journey, to find safety, and join relatives in Europe\. Rigardu is trying to raise slightly over 3,000 euros this month to continue their project\. You can support them [here](https://www.zusammen-fuer-fluechtlinge.de/projects/58785) \.
 
 
-![Mobile shower project, Serbia\. Photo Credit: Umino](assets/f1ae78cba03a/1*DuHxDDWDRxW0bbinWJlcww.jpeg)
+![Mobile shower project, Serbia\. Photo Credit: Umino](../assets/f1ae78cba03a/1*DuHxDDWDRxW0bbinWJlcww.jpeg)
 
 Mobile shower project, Serbia\. Photo Credit: Umino
 ### Italy
@@ -219,7 +219,7 @@ Mobile shower project, Serbia\. Photo Credit: Umino
 According to the [Baobab Experience](https://www.facebook.com/BaobabExperience/?fref=gs&hc_location=group_dialog) organization in Rome, volunteers have made some progress in meeting refugees’ needs in “Piazzale Maslax” \(a square which the group has named after a young refugee\) \. There have been thousands of refugees passing through this spot in the past year, some for only a few hours or days, some staying there for weeks or months\. Baobab reports: “Last Sunday we made a small step forward: thanks to Legambiente and architects from the [\#BAG\_BeyondArchitectureGroup](https://www.facebook.com/hashtag/bag_beyondarchitecturegroup?source=feed_text&story_id=1939596996257664) we installed four showers in modules, made with tubes and galvanized joints which are very resistant and wrapped in waterproof sheets\. While it was impossible to link them to a hydraulic service, they are fed by 10\-liter removable bags, to be filled during use with pre\-heated water\.”
 
 
-![Volunteers building the showers\. Photo Credit: [Baobab Experience](https://www.facebook.com/BaobabExperience/?fref=gs&hc_location=group_dialog) \.](assets/f1ae78cba03a/1*z6y1TIXk0wgsiGJtJakWiQ.jpeg)
+![Volunteers building the showers\. Photo Credit: [Baobab Experience](https://www.facebook.com/BaobabExperience/?fref=gs&hc_location=group_dialog) \.](../assets/f1ae78cba03a/1*z6y1TIXk0wgsiGJtJakWiQ.jpeg)
 
 Volunteers building the showers\. Photo Credit: [Baobab Experience](https://www.facebook.com/BaobabExperience/?fref=gs&hc_location=group_dialog) \.
 ### Germany

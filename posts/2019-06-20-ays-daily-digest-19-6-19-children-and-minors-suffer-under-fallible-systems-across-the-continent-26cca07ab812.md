@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 19/6/19: Children and minors suffer under fallible systems across the continent
+title: "AYS Daily Digest 19/6/19: Children and minors suffer under fallible systems across the continent"
 author: Are You Syrious?
 date: 2019-06-20T11:00:03.888+0100
 last_modified_at: 2019-06-20T12:24:32.409+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,human-rights,digest,europe,legal]
 description: Tensions in Calais running high with the recent surge of arrivals / Minors left unprotected in many cases across Bosnia and Herzegovina /…
 image:
-  path: assets/26cca07ab812/1*9gYhofXCcJPMMspGGSPe2Q.jpeg
+  path: ../assets/26cca07ab812/1*9gYhofXCcJPMMspGGSPe2Q.jpeg
 ---
 
 ### AYS Daily Digest 19/6/19: Children and minors suffer under fallible systems across the continent
 #### Tensions in Calais running high with the recent surge of arrivals / Minors left unprotected in many cases across Bosnia and Herzegovina / 22 people missing, SAR ongoing in the Mediterranean / ECHR condemns detention of minors in Greece; Greek Council for Refugees filed a complaint with the Supreme Court over violent pushbacks / & more news
 
 
-![Ključ, Bosnia and Herzegovina \(Photo: Red Cross volunteers in Ključ\)](assets/26cca07ab812/1*9gYhofXCcJPMMspGGSPe2Q.jpeg)
+![Ključ, Bosnia and Herzegovina \(Photo: Red Cross volunteers in Ključ\)](../assets/26cca07ab812/1*9gYhofXCcJPMMspGGSPe2Q.jpeg)
 
 Ključ, Bosnia and Herzegovina \(Photo: Red Cross volunteers in Ključ\)
 #### FEATURED
@@ -48,7 +48,7 @@ Ključ, Bosnia and Herzegovina \(Photo: Red Cross volunteers in Ključ\)
 
 
 
-![](assets/26cca07ab812/1*CAEB-XICP6EVMPN4zcrFTA.jpeg)
+![](../assets/26cca07ab812/1*CAEB-XICP6EVMPN4zcrFTA.jpeg)
 
 
 
@@ -77,24 +77,24 @@ With regards to their findings, the AI recommended Bosnia and Herzegovina should
 
 
 
-![Photos: [Senad Cupo](https://www.facebook.com/profile.php?id=1032645245&fref=gs&__tn__=%2Cd%2AF%2AF-R&eid=ARDB6gXrWL0mSOzpl6Wh-9WoEsR5pWogc_pkWPphoLi367W0-OlzvhhFTDLBvPrD7uMA_DH6sjjnaAz7&tn-str=%2AF&dti=348461619200701&hc_location=group_dialog)](assets/26cca07ab812/1*1eIDncgtKhaUmPJtjISgtw.jpeg)
+![Photos: [Senad Cupo](https://www.facebook.com/profile.php?id=1032645245&fref=gs&__tn__=%2Cd%2AF%2AF-R&eid=ARDB6gXrWL0mSOzpl6Wh-9WoEsR5pWogc_pkWPphoLi367W0-OlzvhhFTDLBvPrD7uMA_DH6sjjnaAz7&tn-str=%2AF&dti=348461619200701&hc_location=group_dialog)](../assets/26cca07ab812/1*1eIDncgtKhaUmPJtjISgtw.jpeg)
 
 Photos: [Senad Cupo](https://www.facebook.com/profile.php?id=1032645245&fref=gs&__tn__=%2Cd%2AF%2AF-R&eid=ARDB6gXrWL0mSOzpl6Wh-9WoEsR5pWogc_pkWPphoLi367W0-OlzvhhFTDLBvPrD7uMA_DH6sjjnaAz7&tn-str=%2AF&dti=348461619200701&hc_location=group_dialog)
 
 People keep arriving in Tuzla, and are for the most part taken care of by the group of volunteers who have been tirelessly active in assisting everyone who passes through their town in every possible manner\. However, as everywhere else, they too have been faced with different reactions to their work, as well as with the people in general\. Some of these pictures were placed in the area where people gather and wait for the Foreigners’ Office to open\.
 
 
-![](assets/26cca07ab812/1*Jb346vRFyxAwqBoIU8LYbw.jpeg)
+![](../assets/26cca07ab812/1*Jb346vRFyxAwqBoIU8LYbw.jpeg)
 
 
 The local Red Cross personnel are trying to provide everything they can in terms of assistance and basic amenities to the people who are constantly taken off the buses in Ključ\. Unfortunately, this is the current state of things there:
 
 
-![](assets/26cca07ab812/1*jH7bmGIeHlHkn0fkinCJ4w.jpeg)
+![](../assets/26cca07ab812/1*jH7bmGIeHlHkn0fkinCJ4w.jpeg)
 
 
 
-![Photos: Red Cross volunteers in Ključ](assets/26cca07ab812/1*qTNFWQyiQcHTjN-2KNhMJg.jpeg)
+![Photos: Red Cross volunteers in Ključ](../assets/26cca07ab812/1*qTNFWQyiQcHTjN-2KNhMJg.jpeg)
 
 Photos: Red Cross volunteers in Ključ
 
@@ -105,11 +105,11 @@ In cases when someone comes to Ključ with no documents issued by the police, th
 A concerning new issue is that they are now also taken to the provisional campsite in Vučjak \(still without any toilets, but with many snakes all around, people write\), thus ignoring completely any of their basic children’s rights, and rights of the UASC\.
 
 
-![](assets/26cca07ab812/1*8Rv9P4PdFjzOzw5Rp6D7Eg.jpeg)
+![](../assets/26cca07ab812/1*8Rv9P4PdFjzOzw5Rp6D7Eg.jpeg)
 
 
 
-![](assets/26cca07ab812/1*6LpfzYuGiqRjTpJ_EBMK7Q.jpeg)
+![](../assets/26cca07ab812/1*6LpfzYuGiqRjTpJ_EBMK7Q.jpeg)
 
 
 Accounts of police violence keep arriving from Bihać and especially now that those stopped by the police with camp cards often end up in Vučijak, regardless of the fact that they have another type of document stating that they are staying in Bira camp, as locals and people involved report\. According to some media stories over the past two days, the intention behind the local official politics is to gradually downsize and close Bira camp as well, but those are just comments coming from some of the politicians for the time being\. Those stuck in Bihać now are scared and running away in recent days, whenever they can, say local volunteers\. Although they try to find a safe place in other towns, it is very likely that police activities will follow in other places as well\.
@@ -138,7 +138,7 @@ On Wednesday, the SAR ship Vronskiy that covers the route between Melilla and Mo
 173 people have lost their lives so far this year on the Western Mediterranean route\.
 
 
-![**After being denied a Port of Safety for seven days, the 43 people rescued by Sea\-Watch 3 are still stuck on board the ship\. Sea\-Watch is calling on European leaders to allow disembarkation immediately\. This unbearable situation cannot continue on World Refugee Day\. The solution is there, more than 60 cities have declared their willingness to take people\. — Sea Watch [reminds](https://sea-watch.org/en/sea-watch-demands-disembarkation-43-survivors-world-refugee-day/?fbclid=IwAR3q5QNwOYfWmOZeoTl4k_zTrsSGJ2AdFWJuBPDPrt14TvsDidAUwoti0mQ)**](assets/26cca07ab812/1*Iaa7zmla3LB4wHEgBGSBdw.jpeg)
+![**After being denied a Port of Safety for seven days, the 43 people rescued by Sea\-Watch 3 are still stuck on board the ship\. Sea\-Watch is calling on European leaders to allow disembarkation immediately\. This unbearable situation cannot continue on World Refugee Day\. The solution is there, more than 60 cities have declared their willingness to take people\. — Sea Watch [reminds](https://sea-watch.org/en/sea-watch-demands-disembarkation-43-survivors-world-refugee-day/?fbclid=IwAR3q5QNwOYfWmOZeoTl4k_zTrsSGJ2AdFWJuBPDPrt14TvsDidAUwoti0mQ)**](../assets/26cca07ab812/1*Iaa7zmla3LB4wHEgBGSBdw.jpeg)
 
 **After being denied a Port of Safety for seven days, the 43 people rescued by Sea\-Watch 3 are still stuck on board the ship\. Sea\-Watch is calling on European leaders to allow disembarkation immediately\. This unbearable situation cannot continue on World Refugee Day\. The solution is there, more than 60 cities have declared their willingness to take people\. — Sea Watch [reminds](https://sea-watch.org/en/sea-watch-demands-disembarkation-43-survivors-world-refugee-day/?fbclid=IwAR3q5QNwOYfWmOZeoTl4k_zTrsSGJ2AdFWJuBPDPrt14TvsDidAUwoti0mQ)**
 #### GREECE
@@ -183,11 +183,11 @@ Let us remind you of the report we wrote about earlier—by Dunja Mijatović, Co
 About 100 people participated in the“Freedom Instead of Stock” rally on Monday evening, 17 June\.
 
 
-![](assets/26cca07ab812/1*PNutk2fsosE4bqsM_GFaJA.jpeg)
+![](../assets/26cca07ab812/1*PNutk2fsosE4bqsM_GFaJA.jpeg)
 
 
 
-![Photos: [Wiener Vernetzung gegen Abschiebungen](https://www.facebook.com/plattform.refugees.welcome/?tn-str=k%2AF&hc_location=group_dialog)](assets/26cca07ab812/1*m4uZRucgSOopV28-d33SAg.jpeg)
+![Photos: [Wiener Vernetzung gegen Abschiebungen](https://www.facebook.com/plattform.refugees.welcome/?tn-str=k%2AF&hc_location=group_dialog)](../assets/26cca07ab812/1*m4uZRucgSOopV28-d33SAg.jpeg)
 
 Photos: [Wiener Vernetzung gegen Abschiebungen](https://www.facebook.com/plattform.refugees.welcome/?tn-str=k%2AF&hc_location=group_dialog)
 
@@ -198,7 +198,7 @@ Photos: [Wiener Vernetzung gegen Abschiebungen](https://www.facebook.com/plattfo
 
 
 
-![](assets/26cca07ab812/1*aie3cWX2jvO7QlK5oaVsmg.jpeg)
+![](../assets/26cca07ab812/1*aie3cWX2jvO7QlK5oaVsmg.jpeg)
 
 #### ITALY
 
@@ -216,16 +216,16 @@ Photos: [Wiener Vernetzung gegen Abschiebungen](https://www.facebook.com/plattfo
 Comitato Antirazzista Saluzzese has reported on a restrictive and dehumanising move of erecting a fence to keep away those who had nowhere to go and had to sleep under the trees and in provisional tents:
 
 
-![](assets/26cca07ab812/1*PhDIeq6l1_XqO0Anu3IXlA.jpeg)
+![](../assets/26cca07ab812/1*PhDIeq6l1_XqO0Anu3IXlA.jpeg)
 
 
 
-![Photos: Comitato Antirazzista Saluzzese](assets/26cca07ab812/1*xCvk8NErNKeJSBThrzFXLA.jpeg)
+![Photos: Comitato Antirazzista Saluzzese](../assets/26cca07ab812/1*xCvk8NErNKeJSBThrzFXLA.jpeg)
 
 Photos: Comitato Antirazzista Saluzzese
 
 
-![](assets/26cca07ab812/1*rC0RUKm8tYWNGpndBRCcrg.jpeg)
+![](../assets/26cca07ab812/1*rC0RUKm8tYWNGpndBRCcrg.jpeg)
 
 
 The national ombudsman of the rights of persons in prison or deprived of personal liberty, [in the Report to Parliament of 2019](http://www.garantenazionaleprivatiliberta.it/gnpl/it/pub_rel_par.page) , highlighted several critical issues related to these structures and their functioning\. First of all, in relation to the recent “Security Decree”, he stressed how “ _the new law effectively reduces the exclusivity of these Centers as a place of deprivation of liberty by expanding the possibility of fulfilling this function in other places and for more extended times”;_ in fact, the new legislation provides for the preparation of structures for the detention and repatriation of irregular migrants in each Italian region, as states the **new report on the health situation in detention in Turin by the Human Rights and Migration law clinic** \. 
@@ -237,7 +237,7 @@ In most cases, there are no common spaces for the consumption of meals and recre
 Throughout Rome, as in the rest of the world, initiatives will take place to learn more about the history of people forced to leave their war\-torn land, as well as the rhetoric of anti\-migrant propaganda or by dictatorships\.
 
 
-![](assets/26cca07ab812/1*ZDCVdIfWANbkDXuiyIh2rQ.jpeg)
+![](../assets/26cca07ab812/1*ZDCVdIfWANbkDXuiyIh2rQ.jpeg)
 
 
 20 June, India Theater, 5:30 p\.m\. [– 2019 World Refugee Day at the India Theater](https://www.facebook.com/events/884711285215077/?acontext=%7B%22source%22%3A3%2C%22source_newsfeed_story_type%22%3A%22regular%22%2C%22action_history%22%3A%22%5B%7B%5C%22surface%5C%22%3A%5C%22newsfeed%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22feed_story%5C%22%2C%5C%22extra_data%5C%22%3A%5B%5D%7D%5D%22%2C%22has_source%22%3Atrue%7D&source=3&source_newsfeed_story_type=regular&action_history=%5B%7B%22surface%22%3A%22newsfeed%22%2C%22mechanism%22%3A%22feed_story%22%2C%22extra_data%22%3A%5B%5D%7D%5D&has_source=1&__tn__=K-R&eid=ARAlPdlvusO7DfUHq0vMYCG7yWJS-meb-LqMSdZGCylxjXTWGyAqj81iIsz1mw0pVvqJDEQBv9wPoP0n&fref=mentions&__xts__%5B0%5D=68.ARCDwFmvTyW2OIN_VUJ7F3dcosMYWP3QlmAzX30Rv3l09rNWLZYERBs2X5DixwIDydCB7pI2VNhY0FUydj4LWZrBIWr9KfHrSAiimpqFYXM1GfXdYNM8Wbr47NEDY8Fs3w0g5tYAvigK9tDNJz6xCCipBsun9z0J1FZAFZP7shqsle3Dc2uY7myAbaMnruq0LTyNaBeTusnGopJDRZ3yb_52yCEoHQDCgNPF4pL05lErHG1CtClnK7p5fDVi2L-584FqsiJDa5x-APIMKFDgg8jcqndW_kODMSTRZbpM21vOIwn0lasVGB-1Lop_s8vAEZpnivTSvVStELtJnLTWMMH_IQ) 
@@ -250,12 +250,12 @@ If you decide to come, be sure to check their list for donations:
 [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__xts__%5B0%5D=68.ARAn3ZwmZ-cyuBTUCeDX7FyNN91egF-XwOI91KkKiCTgOvjOC62DaG31MMwm2S1eyRQlKHqbjyCa_8bU7CX3KrwHkDq0wTspGS_HhW9VMtFA-gxe-rNhACpL4Ka1vhPgVmi35UFqHt6cYaaLnWYEB3CxQfFugdWtbbnM6-OJPbB3A8DNNSy-znQasuTGNc-xYpjfwLigYK3kfolkO-4HHp0rVA8gXH22dh1xKjJoGmMdYpKw8b1js_cnZmWgm32dQV0Ft3SrdVBm4AaeOMh0zBIb1LflYNojupdDmrvIo7uACelA32_ZtJndk6sy1tkyLolYc7uPmWZRfP8qdsTlzB08vQlm50gLWI3vG4QW-YawuRUad2gLTMmsWhHbmwwthXnpOp4wGwrdERhcjaaaGLwamQmyOPLVyaG55Hu_ei5kwOw&__tn__=k%2AF&tn-str=k%2AF) reported that the Wilson Avenue Camp in Saint\-Denis was evacuated\. Please, contact them if you have ways to help or support those without shelter\.
 
 
-![Photos: [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__xts__%5B0%5D=68.ARAn3ZwmZ-cyuBTUCeDX7FyNN91egF-XwOI91KkKiCTgOvjOC62DaG31MMwm2S1eyRQlKHqbjyCa_8bU7CX3KrwHkDq0wTspGS_HhW9VMtFA-gxe-rNhACpL4Ka1vhPgVmi35UFqHt6cYaaLnWYEB3CxQfFugdWtbbnM6-OJPbB3A8DNNSy-znQasuTGNc-xYpjfwLigYK3kfolkO-4HHp0rVA8gXH22dh1xKjJoGmMdYpKw8b1js_cnZmWgm32dQV0Ft3SrdVBm4AaeOMh0zBIb1LflYNojupdDmrvIo7uACelA32_ZtJndk6sy1tkyLolYc7uPmWZRfP8qdsTlzB08vQlm50gLWI3vG4QW-YawuRUad2gLTMmsWhHbmwwthXnpOp4wGwrdERhcjaaaGLwamQmyOPLVyaG55Hu_ei5kwOw&__tn__=k%2AF&tn-str=k%2AF)](assets/26cca07ab812/1*_G86J0p_mp_HtpX2v7Camw.jpeg)
+![Photos: [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__xts__%5B0%5D=68.ARAn3ZwmZ-cyuBTUCeDX7FyNN91egF-XwOI91KkKiCTgOvjOC62DaG31MMwm2S1eyRQlKHqbjyCa_8bU7CX3KrwHkDq0wTspGS_HhW9VMtFA-gxe-rNhACpL4Ka1vhPgVmi35UFqHt6cYaaLnWYEB3CxQfFugdWtbbnM6-OJPbB3A8DNNSy-znQasuTGNc-xYpjfwLigYK3kfolkO-4HHp0rVA8gXH22dh1xKjJoGmMdYpKw8b1js_cnZmWgm32dQV0Ft3SrdVBm4AaeOMh0zBIb1LflYNojupdDmrvIo7uACelA32_ZtJndk6sy1tkyLolYc7uPmWZRfP8qdsTlzB08vQlm50gLWI3vG4QW-YawuRUad2gLTMmsWhHbmwwthXnpOp4wGwrdERhcjaaaGLwamQmyOPLVyaG55Hu_ei5kwOw&__tn__=k%2AF&tn-str=k%2AF)](../assets/26cca07ab812/1*_G86J0p_mp_HtpX2v7Camw.jpeg)
 
 Photos: [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__xts__%5B0%5D=68.ARAn3ZwmZ-cyuBTUCeDX7FyNN91egF-XwOI91KkKiCTgOvjOC62DaG31MMwm2S1eyRQlKHqbjyCa_8bU7CX3KrwHkDq0wTspGS_HhW9VMtFA-gxe-rNhACpL4Ka1vhPgVmi35UFqHt6cYaaLnWYEB3CxQfFugdWtbbnM6-OJPbB3A8DNNSy-znQasuTGNc-xYpjfwLigYK3kfolkO-4HHp0rVA8gXH22dh1xKjJoGmMdYpKw8b1js_cnZmWgm32dQV0Ft3SrdVBm4AaeOMh0zBIb1LflYNojupdDmrvIo7uACelA32_ZtJndk6sy1tkyLolYc7uPmWZRfP8qdsTlzB08vQlm50gLWI3vG4QW-YawuRUad2gLTMmsWhHbmwwthXnpOp4wGwrdERhcjaaaGLwamQmyOPLVyaG55Hu_ei5kwOw&__tn__=k%2AF&tn-str=k%2AF)
 
 
-![](assets/26cca07ab812/1*iqFYk5wInQeUyRzfqhbHdA.jpeg)
+![](../assets/26cca07ab812/1*iqFYk5wInQeUyRzfqhbHdA.jpeg)
 
 
 
@@ -275,7 +275,7 @@ Photos: [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-m
 
 
 
-![](assets/26cca07ab812/1*wSOX5conE5R7wtwGPiD-uQ.jpeg)
+![](../assets/26cca07ab812/1*wSOX5conE5R7wtwGPiD-uQ.jpeg)
 
 #### AYS and the Daily News Digest — how to get involved?
 

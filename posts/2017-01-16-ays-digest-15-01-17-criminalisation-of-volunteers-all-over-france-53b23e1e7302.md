@@ -1,5 +1,5 @@
 ---
-title: AYS DIGEST 15.01.17: Criminalisation of volunteers all over France
+title: "AYS DIGEST 15.01.17: Criminalisation of volunteers all over France"
 author: Are You Syrious?
 date: 2017-01-16T03:08:51.149+0000
 last_modified_at: 2017-01-16T08:58:38.430+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: 122 people arrive on Lesvos//Volunteers needed in Greece//Situation still terrible in Serbia//Solidarity is getting criminalised in…
 image:
-  path: assets/53b23e1e7302/0*QbjMpQFVY_f5O_HF.
+  path: ../assets/53b23e1e7302/0*QbjMpQFVY_f5O_HF.
 ---
 
 ### AYS DIGEST 15\.01\.17: Criminalisation of volunteers all over France
@@ -15,7 +15,7 @@ image:
 _122 people arrive on Lesvos//Volunteers needed in Greece//Situation still terrible in Serbia//Solidarity is getting criminalised in France//_
 
 
-![By Refugee hotel City Plaza Athens](assets/53b23e1e7302/0*QbjMpQFVY_f5O_HF.)
+![By Refugee hotel City Plaza Athens](../assets/53b23e1e7302/0*QbjMpQFVY_f5O_HF.)
 
 By Refugee hotel City Plaza Athens
 #### Greece
@@ -25,11 +25,11 @@ By Refugee hotel City Plaza Athens
 122 people in two boats landed during the early morning on the north coast of Lesvos, with temperatures close to zero and heavy rainstorms making their voyage and landing even more difficult\.
 
 
-![](assets/53b23e1e7302/1*9fIpBZmuJ0E8LrLmOP7kDQ.png)
+![](../assets/53b23e1e7302/1*9fIpBZmuJ0E8LrLmOP7kDQ.png)
 
 
 
-![Photos by Lifeguard Hellas](assets/53b23e1e7302/1*4QXb2se7YcuONBnP1COrhw.png)
+![Photos by Lifeguard Hellas](../assets/53b23e1e7302/1*4QXb2se7YcuONBnP1COrhw.png)
 
 Photos by Lifeguard Hellas
 ### 340 people evacuated from Moria
@@ -55,11 +55,11 @@ _The immediate granting of Mohamad Abdelgawad’s requests”\._
 According to Swisscross, over the last few days the UNHCR has evacuated refugees from the Vagiochori camp to a hotel\.
 
 
-![](assets/53b23e1e7302/1*QC0562IHFuIHQ43vNkKx6Q.jpeg)
+![](../assets/53b23e1e7302/1*QC0562IHFuIHQ43vNkKx6Q.jpeg)
 
 
 
-![Photos by Schwizerchrüz\.ch](assets/53b23e1e7302/1*xEIehmNyvjhmdq7UOOId2A.jpeg)
+![Photos by Schwizerchrüz\.ch](../assets/53b23e1e7302/1*xEIehmNyvjhmdq7UOOId2A.jpeg)
 
 Photos by Schwizerchrüz\.ch
 
@@ -83,19 +83,19 @@ As a driver, you would deliver donations sourced by coordinators to refugee camp
 In Nea Kavala, refugees currently have to walk 30 minutes to the nearest supermarket, 45 minutes to the local village and 30 minutes to the clinic, in freezing temperatures and often along a dangerous highway\. Kayra Martinez is looking for volunteers who could organize some sort of shuttle service from the camp to the village\.
 
 
-![](assets/53b23e1e7302/1*jcqPcRzQPeiBcxWd4aTOVQ.png)
+![](../assets/53b23e1e7302/1*jcqPcRzQPeiBcxWd4aTOVQ.png)
 
 
 
-![](assets/53b23e1e7302/1*atlpIKk6tMKldAeD5S73qg.png)
+![](../assets/53b23e1e7302/1*atlpIKk6tMKldAeD5S73qg.png)
 
 
 
-![](assets/53b23e1e7302/1*TZNxqXca-D1ADp88HEIk1w.png)
+![](../assets/53b23e1e7302/1*TZNxqXca-D1ADp88HEIk1w.png)
 
 
 
-![Photos by Kayra Martinez](assets/53b23e1e7302/1*35q4CijYVU54wZ73_lYVfw.png)
+![Photos by Kayra Martinez](../assets/53b23e1e7302/1*35q4CijYVU54wZ73_lYVfw.png)
 
 Photos by Kayra Martinez
 ### Volunteers needed in Filippiada
@@ -107,17 +107,17 @@ You can also apply as a team leader, if you plan on staying for at least one mon
 [Greecevol](http://greecevol.info/) lists other volunteering needs in Greece and in the rest of Europe\.
 
 
-![](assets/53b23e1e7302/1*TcCee19vXVVSUUB1D6yg4A.jpeg)
+![](../assets/53b23e1e7302/1*TcCee19vXVVSUUB1D6yg4A.jpeg)
 
 
 
-![Photos by Mobile Flüchtlingshilfe e\.V\. — Mobile Refugee Relief](assets/53b23e1e7302/1*V-PfdDrT7BpeUXNpMo1n1w.jpeg)
+![Photos by Mobile Flüchtlingshilfe e\.V\. — Mobile Refugee Relief](../assets/53b23e1e7302/1*V-PfdDrT7BpeUXNpMo1n1w.jpeg)
 
 Photos by Mobile Flüchtlingshilfe e\.V\. — Mobile Refugee Relief
 ### Child friendly space back up and running in Ritsona
 
 
-![](assets/53b23e1e7302/0*MODXNUQVRlWrey-w.)
+![](../assets/53b23e1e7302/0*MODXNUQVRlWrey-w.)
 
 
 After a winter revamp the child friendly space in Ritsona camp in Greece is back up and running\. Operated by Lighthouse Relief with support from Help Refugees, it offers kids “a warm and safe environment” as well as “fun and stimulating activities”\.
@@ -129,11 +129,11 @@ After a winter revamp the child friendly space in Ritsona camp in Greece is back
 Their Sunday football matches have offered these teenagers a much needed opportunity to get out, socialise and exercise, as well as new and alternative moments for collective learning\.
 
 
-![](assets/53b23e1e7302/1*nPCfNeFEZXsxmU4Kr1VJzQ.jpeg)
+![](../assets/53b23e1e7302/1*nPCfNeFEZXsxmU4Kr1VJzQ.jpeg)
 
 
 
-![](assets/53b23e1e7302/1*0oJ-rtC4OYqNaouGOUR02w.jpeg)
+![](../assets/53b23e1e7302/1*0oJ-rtC4OYqNaouGOUR02w.jpeg)
 
 
 In order to carry on these football games, [Kapılar needs support](https://www.youcaring.com/kaplar-722264) , as it wants “ _to keep growing and ensure that our activities may continue in a healthy and sustainable manner_ ”\. In addition to the football games, Kapılar organises film screenings, food events, language classes and much more for refugees and the local community\.
@@ -142,19 +142,19 @@ In order to carry on these football games, [Kapılar needs support](https://www.
 Living conditions are still extremely difficult for refugees sleeping rough in Belgrade, as these photos by “ [John Refugee](https://www.facebook.com/John-refugee-747163385440090/) ” show\. Refugees lack access to clean water and sanitary facilities, clothes, medicine and heating\.
 
 
-![](assets/53b23e1e7302/1*bUCTiqemkA5N0TS01uaQsg.jpeg)
+![](../assets/53b23e1e7302/1*bUCTiqemkA5N0TS01uaQsg.jpeg)
 
 
 
-![](assets/53b23e1e7302/1*eZJ41z39kaCbaGaY0gzx8g.jpeg)
+![](../assets/53b23e1e7302/1*eZJ41z39kaCbaGaY0gzx8g.jpeg)
 
 
 
-![](assets/53b23e1e7302/1*xNjNQpRnemgIJywiy7N1pQ.jpeg)
+![](../assets/53b23e1e7302/1*xNjNQpRnemgIJywiy7N1pQ.jpeg)
 
 
 
-![](assets/53b23e1e7302/1*KMoEbFBy9C_MJI87KFVYbg.jpeg)
+![](../assets/53b23e1e7302/1*KMoEbFBy9C_MJI87KFVYbg.jpeg)
 
 #### France
 ### Criminalisation of volunteers all over France
@@ -171,7 +171,7 @@ The [Dunkirk Refugee Children’s Centre](https://www.facebook.com/dunkirkrefuge
 ### “Cold Welcome” in Como
 
 
-![Image by Como senza frontera](assets/53b23e1e7302/0*X4O1wnW7ku0kKotV.)
+![Image by Como senza frontera](../assets/53b23e1e7302/0*X4O1wnW7ku0kKotV.)
 
 Image by Como senza frontera
 

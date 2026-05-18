@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Notes from POLAND
+title: "AYS SPECIAL: Notes from POLAND"
 author: Are You Syrious?
 date: 2018-12-28T08:09:26.293+0000
 last_modified_at: 2018-12-28T08:09:26.293+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,poland,special,european-union,migrations]
 description: Poland has gained notoriety over the past few years for its sharp rightwing turn, refusal to take in a single refugee from the small quota…
 image:
-  path: assets/ae65a3a83845/1*KACnEQN7A9Z2cUy5TRMOgQ.jpeg
+  path: ../assets/ae65a3a83845/1*KACnEQN7A9Z2cUy5TRMOgQ.jpeg
 ---
 
 ### AYS SPECIAL: **Notes from POLAND**
@@ -15,7 +15,7 @@ image:
 _Poland has gained notoriety over the past few years for its sharp rightwing turn, refusal to take in a single refugee from the small quota allocated by the EU \(7,000 people\), and its virulent anti\-immigration rhetoric, coupled with an ugly alliance with nationalists\. The situation is difficult, even harrowing at times, but there are some bright glimmers of hope to be found among the actions of local volunteer groups\._
 
 
-![Photo by Julia Rosciszewska: Varsovians demonstrate solidarity with refugees](assets/ae65a3a83845/1*KACnEQN7A9Z2cUy5TRMOgQ.jpeg)
+![Photo by Julia Rosciszewska: Varsovians demonstrate solidarity with refugees](../assets/ae65a3a83845/1*KACnEQN7A9Z2cUy5TRMOgQ.jpeg)
 
 Photo by Julia Rosciszewska: Varsovians demonstrate solidarity with refugees
 

@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,calais,women4yemen,human-rights]
 description: Yemeni women demand seat at peace talks in Stockholm /// 6626 civilians died in Syria in 2018 so far /// More people “rescued” by North…
 image:
-  path: assets/1d37a776367b/1*8jJUEXjn13WF7gnTARvUKA.jpeg
+  path: ../assets/1d37a776367b/1*8jJUEXjn13WF7gnTARvUKA.jpeg
 ---
 
 ### AYS Weekend Digest 8–9/12/2018 Police violence in Northern France
@@ -15,7 +15,7 @@ image:
 Yemeni women demand seat at peace talks in Stockholm /// 6626 civilians died in Syria in 2018 so far /// More people “rescued” by North African coast guards /// Demonstration on Lesvos /// New project started on Samos /// Dire conditions for migrants in Paris /// Mass deportation planned in Sweden
 
 
-![\#Resist \(by [Yassin Latrache](https://www.instagram.com/yas_caricature/) / Art Against\)](assets/1d37a776367b/1*8jJUEXjn13WF7gnTARvUKA.jpeg)
+![\#Resist \(by [Yassin Latrache](https://www.instagram.com/yas_caricature/) / Art Against\)](../assets/1d37a776367b/1*8jJUEXjn13WF7gnTARvUKA.jpeg)
 
 \#Resist \(by [Yassin Latrache](https://www.instagram.com/yas_caricature/) / Art Against\)
 #### FEATURE — POLICE VIOLENCE IN NORTHERN FRANCE
@@ -308,7 +308,7 @@ Four boats arrived on the Greek islands during the weekend\.
 From [Refugee Rescue / “Mo Chara”](https://www.facebook.com/RefugeeRescueUK/posts/1989610857773021?hc_location=ufi) :
 
 
-![Photo by Refugee Rescue / “Mo Chara”](assets/1d37a776367b/1*2sI_38xF7m27gPsDujBsew.png)
+![Photo by Refugee Rescue / “Mo Chara”](../assets/1d37a776367b/1*2sI_38xF7m27gPsDujBsew.png)
 
 Photo by Refugee Rescue / “Mo Chara”
 
@@ -331,11 +331,11 @@ Please consider supporting Refugee Rescue this coming Wednesday, when your donat
 #### New project starting on Samos
 
 
-![](assets/1d37a776367b/1*eWJyccH1AA9z9_U27iX50w.jpeg)
+![](../assets/1d37a776367b/1*eWJyccH1AA9z9_U27iX50w.jpeg)
 
 
 
-![“As you can see in the pictures, most of the people are living in summer tents — the camp was built for 650 people but there are around 5000 \( \! \! \) now…” \( [Refugee4Refugees](https://www.facebook.com/Refugee4Refugees/?__tn__=%2CdkCH-R-R&eid=ARAtUpySVjY6QhlD6eO77qVs4xrUvQnvdRdEL8FbLzqtblMI2b4rAmGp2sKni75cUD_AyuyZlDVNGT1R&hc_ref=ARTgXLYotLwP-pBc1J0_jQes9tRBV4r5jSoZc4NMeVeNBSWcpitIQBWkEI_embLdyLo&fref=nf&hc_location=group) \)](assets/1d37a776367b/1*k0bBaNoX5VRVE7Qn3w8IoA.jpeg)
+![“As you can see in the pictures, most of the people are living in summer tents — the camp was built for 650 people but there are around 5000 \( \! \! \) now…” \( [Refugee4Refugees](https://www.facebook.com/Refugee4Refugees/?__tn__=%2CdkCH-R-R&eid=ARAtUpySVjY6QhlD6eO77qVs4xrUvQnvdRdEL8FbLzqtblMI2b4rAmGp2sKni75cUD_AyuyZlDVNGT1R&hc_ref=ARTgXLYotLwP-pBc1J0_jQes9tRBV4r5jSoZc4NMeVeNBSWcpitIQBWkEI_embLdyLo&fref=nf&hc_location=group) \)](../assets/1d37a776367b/1*k0bBaNoX5VRVE7Qn3w8IoA.jpeg)
 
 “As you can see in the pictures, most of the people are living in summer tents — the camp was built for 650 people but there are around 5000 \( \! \! \) now…” \( [Refugee4Refugees](https://www.facebook.com/Refugee4Refugees/?__tn__=%2CdkCH-R-R&eid=ARAtUpySVjY6QhlD6eO77qVs4xrUvQnvdRdEL8FbLzqtblMI2b4rAmGp2sKni75cUD_AyuyZlDVNGT1R&hc_ref=ARTgXLYotLwP-pBc1J0_jQes9tRBV4r5jSoZc4NMeVeNBSWcpitIQBWkEI_embLdyLo&fref=nf&hc_location=group) \)
 
@@ -347,7 +347,7 @@ Read more about the situation in Samos in our previous digests \( [1](ays-weeken
 #### Demonstration in Mytilene on Monday
 
 
-![Border kill\! demonstartion \( [Thick as Thieves AFA Lesvos](https://www.facebook.com/192190568392938/photos/gm.2077961595849797/193030574975604/?type=3&theater) \)](assets/1d37a776367b/1*nXD2F2yWDnS_7lOH1G3AZQ.jpeg)
+![Border kill\! demonstartion \( [Thick as Thieves AFA Lesvos](https://www.facebook.com/192190568392938/photos/gm.2077961595849797/193030574975604/?type=3&theater) \)](../assets/1d37a776367b/1*nXD2F2yWDnS_7lOH1G3AZQ.jpeg)
 
 Border kill\! demonstartion \( [Thick as Thieves AFA Lesvos](https://www.facebook.com/192190568392938/photos/gm.2077961595849797/193030574975604/?type=3&theater) \)
 
@@ -365,7 +365,7 @@ Read the full statement in Greek, English, French and German [here](https://athe
 The group [Thick as Thieves — Antifascist Action Lesvos](https://www.facebook.com/Thick-As-Thieves-AFA-Lesvos-192190568392938/) launch a demo in Saphous square, Mytilene, for 18:00\.
 
 
-![\( [Thick as Thieves AFA Lesvos](https://www.facebook.com/192190568392938/photos/gm.2077961595849797/193030574975604/?type=3&theater) \)](assets/1d37a776367b/1*_UPpx-r9WLzLNQ1MRBJpIA.jpeg)
+![\( [Thick as Thieves AFA Lesvos](https://www.facebook.com/192190568392938/photos/gm.2077961595849797/193030574975604/?type=3&theater) \)](../assets/1d37a776367b/1*_UPpx-r9WLzLNQ1MRBJpIA.jpeg)
 
 \( [Thick as Thieves AFA Lesvos](https://www.facebook.com/192190568392938/photos/gm.2077961595849797/193030574975604/?type=3&theater) \)
 

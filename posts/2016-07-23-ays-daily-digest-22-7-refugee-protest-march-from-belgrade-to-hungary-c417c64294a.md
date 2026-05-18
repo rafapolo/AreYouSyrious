@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 22/7: Refugee protest march from Belgrade to Hungary
+title: "AYS Daily Digest 22/7: Refugee protest march from Belgrade to Hungary"
 author: Are You Syrious?
 date: 2016-07-23T01:42:15.545+0100
 last_modified_at: 2016-07-23T01:42:15.545+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,serbia,hungary,refugee-march]
 description: About 300 people took part in protest in Belgrade, while some of them started marching toward Hungary asking for border to be open. While…
 image:
-  path: assets/c417c64294a/1*0wKXWsSy8bXoaAP2i-wK4w.jpeg
+  path: ../assets/c417c64294a/1*0wKXWsSy8bXoaAP2i-wK4w.jpeg
 ---
 
 ### AYS Daily Digest 22/7: Refugee protest march from Belgrade to Hungary
@@ -15,7 +15,7 @@ image:
 _About 300 people took part in protest in Belgrade, while some of them started marching toward Hungary asking for border to be open\. While the Europe is not ready to admit that the deal with Turkey was never really alive, more and more people are arriving to the continent every day, risking their lives and hoping to be safe\. New route is created at the north of Italy\. Meanwhile, in Syria situation is not improving and it does not look like the West cares enough about children and civilians in this country, as well as many other where wars are going on\._
 
 
-![Photo: Twitter — Benjamin Von Wyl\. Refugees who are walking from Belgrade toward Hungary\.](assets/c417c64294a/1*0wKXWsSy8bXoaAP2i-wK4w.jpeg)
+![Photo: Twitter — Benjamin Von Wyl\. Refugees who are walking from Belgrade toward Hungary\.](../assets/c417c64294a/1*0wKXWsSy8bXoaAP2i-wK4w.jpeg)
 
 Photo: Twitter — Benjamin Von Wyl\. Refugees who are walking from Belgrade toward Hungary\.
 #### **Serbia**
@@ -38,17 +38,17 @@ According to [BIRN](http://www.balkaninsight.com/en/article/serbia-is-expanding-
 Still, a large number of refugees are not “visible to the authorities” and are outside the camps, sleeping rough in parks in Belgrade\. They will soon be facing another problem, as the announced eviction of the park is planned to begin in a couple of days, leaving the refugees once again with nowhere to lay their heads\.
 
 
-![Refugees protesting earlier today, photo: Miksalište](assets/c417c64294a/1*H1DgPCS9ux0PWx5RcXmG4w.jpeg)
+![Refugees protesting earlier today, photo: Miksalište](../assets/c417c64294a/1*H1DgPCS9ux0PWx5RcXmG4w.jpeg)
 
 Refugees protesting earlier today, photo: Miksalište
 
 
-![Refugees’ protest notes directed at Hungary Photo: Info Park](assets/c417c64294a/1*E6_9Y2RPTry8vdZBe-qZkA.jpeg)
+![Refugees’ protest notes directed at Hungary Photo: Info Park](../assets/c417c64294a/1*E6_9Y2RPTry8vdZBe-qZkA.jpeg)
 
 Refugees’ protest notes directed at Hungary Photo: Info Park
 
 
-![](assets/c417c64294a/1*iXtxAA9uuRYWyRcQ7G5wng.jpeg)
+![](../assets/c417c64294a/1*iXtxAA9uuRYWyRcQ7G5wng.jpeg)
 
 #### **Syria**
 ### Disturbing development in Aleppo
@@ -69,7 +69,7 @@ Therefore, O’Brien urges all the parties involved in the conflict „to lift a
 A campaign involving children in Syrian villages asks gamers from the West to take a break from their hunt for digital creatures from the Pokemon GO game and to turn their attention to young people trapped in war zones\.
 
 
-![Do we care for them?](assets/c417c64294a/1*07tbIkwQ6VofdLdmtPYehQ.jpeg)
+![Do we care for them?](../assets/c417c64294a/1*07tbIkwQ6VofdLdmtPYehQ.jpeg)
 
 Do we care for them?
 #### **Mediterranean**
@@ -78,7 +78,7 @@ Do we care for them?
 424 lives were saved in a total of 4 operations since this morning by MOAS, Proactive Open Arms and Emergency\. Also, MSF Sea team helped 209 people, include 2 pregnant women and 50 children, of whom 45 are traveling without parents\.
 
 
-![Photo: MOAS](assets/c417c64294a/1*yuiq5J0egAv_TWLdY_1Qbg.jpeg)
+![Photo: MOAS](../assets/c417c64294a/1*yuiq5J0egAv_TWLdY_1Qbg.jpeg)
 
 Photo: MOAS
 
@@ -95,7 +95,7 @@ So far this year an estimated 2,977 deaths have been recorded, compared with 1,9
 Those deaths would bring to 2,996 the total IOM is estimating for this year’s casualties to date among migrants and refugees in the Mediterranean\.
 
 
-![Photo: MOAS](assets/c417c64294a/1*Yi4D9SgLROH5KIrYM17BVQ.jpeg)
+![Photo: MOAS](../assets/c417c64294a/1*Yi4D9SgLROH5KIrYM17BVQ.jpeg)
 
 Photo: MOAS
 #### Turkey
@@ -115,22 +115,22 @@ With the help from volunteers, a new refugee squat opened at Halides 21 in Ano P
 Despite the efforts to help and protect the refugees, we must not forget that some people are still being held in closed detention centres with no right to receive visits, to leave the premises or even to get in contact with doctors or lawyers and in such conditions they wait for a decision by the authorities, most likely to be deported\.
 
 
-![PHOTO detention centre in Xanthi, Greece Photo: Nima Yaghmaei](assets/c417c64294a/1*o_PH84DXFgcGq-3_epW-DA.jpeg)
+![PHOTO detention centre in Xanthi, Greece Photo: Nima Yaghmaei](../assets/c417c64294a/1*o_PH84DXFgcGq-3_epW-DA.jpeg)
 
 PHOTO detention centre in Xanthi, Greece Photo: Nima Yaghmaei
 
 Time is of the essence for the children who have been staying in the refugee camps for at least several months now\. So far the informal educational centres and provisional schools have done their best to provide a substitute to real education that thousands of refugee children currently stuck in Greece should be entitled to\. Another such centre was built and is ready to open its doors to around 195 children in Softex camp\.
 
 
-![](assets/c417c64294a/1*yxSY76f7SuGWq5ZSb2ffZQ.jpeg)
+![](../assets/c417c64294a/1*yxSY76f7SuGWq5ZSb2ffZQ.jpeg)
 
 
 
-![](assets/c417c64294a/1*TnSetXZbaV6N0ych3yckBw.jpeg)
+![](../assets/c417c64294a/1*TnSetXZbaV6N0ych3yckBw.jpeg)
 
 
 
-![Photo: Chloe Kousoula\.](assets/c417c64294a/1*C78K2zckejzlJA3P0s063Q.jpeg)
+![Photo: Chloe Kousoula\.](../assets/c417c64294a/1*C78K2zckejzlJA3P0s063Q.jpeg)
 
 Photo: Chloe Kousoula\.
 
@@ -175,7 +175,7 @@ There are more than 130,000 migrants living in reception centres in Italy, waiti
 Berlin government is hoping to close down the mass refugee shelter at Tempelhof airport\. According to [Deutsche Welle](http://www.dw.com/en/berlin-to-stop-housing-refugees-in-tempelhof-hangars-in-theory/a-19415068) , they want to divide the housing and administration into two locations and close the hangars as a mass refugee shelter by 2017\.
 
 
-![Photo by UNHCR\. Airport turned into refugee shelter\.](assets/c417c64294a/1*O1r-0FojbAL3Y7PYKppxNw.jpeg)
+![Photo by UNHCR\. Airport turned into refugee shelter\.](../assets/c417c64294a/1*O1r-0FojbAL3Y7PYKppxNw.jpeg)
 
 Photo by UNHCR\. Airport turned into refugee shelter\.
 
@@ -199,11 +199,11 @@ The number of such asylum applications submitted had more than tripled compared 
 Evacuation of more than a thousand of refugees from a makeshift camp located between the stations Jaurès and Colonel Fabien in Paris started earlier today\.
 
 
-![](assets/c417c64294a/1*Wm2lpKtuuPjUrMAEiRIOUg.jpeg)
+![](../assets/c417c64294a/1*Wm2lpKtuuPjUrMAEiRIOUg.jpeg)
 
 
 
-![France, photo: Twitter — Pauline Froissart](assets/c417c64294a/1*PXjM5LSM5LxQ0wZsb5JjUg.jpeg)
+![France, photo: Twitter — Pauline Froissart](../assets/c417c64294a/1*PXjM5LSM5LxQ0wZsb5JjUg.jpeg)
 
 France, photo: Twitter — Pauline Froissart
 
@@ -217,7 +217,7 @@ After a United Nations Inquiry commission concluded last month that the crimes o
 Absence of a court with the capacity and the jurisdiction to try the major perpetrators is the main obstacle in seeing convictions for genocide, war crimes and crimes against humanity, former US ambassador for war crimes Stephen Rapp claims in an [interview](https://www.justicetribune.com/articles/former-us-war-crimes-ambassador-calls-un-investigative-probe-yazidi-genocide) with the International Justice Tribune\.
 
 
-![Photo: Flickr\-UN Photo\-Amanda Voisard\.](assets/c417c64294a/1*eVTAKs3mhlyJ8Gxac9Oplw.jpeg)
+![Photo: Flickr\-UN Photo\-Amanda Voisard\.](../assets/c417c64294a/1*eVTAKs3mhlyJ8Gxac9Oplw.jpeg)
 
 Photo: Flickr\-UN Photo\-Amanda Voisard\.
 ### A new App to help us understand eachother better

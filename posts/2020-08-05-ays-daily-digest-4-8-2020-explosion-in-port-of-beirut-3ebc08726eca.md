@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,greece,moria]
 description: NGOs Call for Release of Detained Ships///German Politician Cancels Visit to Moria for Safety Reasons///Violence Against People on the…
 image:
-  path: assets/3ebc08726eca/0*h1kHAqT3cnVeuZQo.jpeg
+  path: ../assets/3ebc08726eca/0*h1kHAqT3cnVeuZQo.jpeg
 ---
 
 ### AYS Daily Digest 4/8/2020 — Explosion in Port of Beirut
 #### NGOs Call for Release of Detained Ships///German Politician Cancels Visit to Moria for Safety Reasons///Violence Against People on the Move in BiH///& More Stories
 
 
-![Aftermath of the explosion\. Source: [AP Photo/Hassan Ammar](https://apnews.com/d6503f7d779f2790218fe29121368788/gallery/2d1288d6d54e4b09a556aa20608d2f8c)](assets/3ebc08726eca/0*h1kHAqT3cnVeuZQo.jpeg)
+![Aftermath of the explosion\. Source: [AP Photo/Hassan Ammar](https://apnews.com/d6503f7d779f2790218fe29121368788/gallery/2d1288d6d54e4b09a556aa20608d2f8c)](../assets/3ebc08726eca/0*h1kHAqT3cnVeuZQo.jpeg)
 
 Aftermath of the explosion\. Source: [AP Photo/Hassan Ammar](https://apnews.com/d6503f7d779f2790218fe29121368788/gallery/2d1288d6d54e4b09a556aa20608d2f8c)
 
@@ -54,7 +54,7 @@ What is not safe enough for a German politician on a short visit is not safe eno
 Arrivals to Greece are still low this month, [per the UNHCR fact sheet](https://reliefweb.int/report/greece/unhcr-greece-factsheet-june-2020?fbclid=IwAR3wKWpEI8lY_0m9R3TuJRuCL1zRoQbRzYdKlHDS_OtGqobSrnMZ1O7oWqU) \. For example, Samos reported its [first landing since March](https://twitter.com/teammareliberum/status/1290658212149170177) \. However, this is due to the high volume of illegal pushbacks occuring at sea and even after people have landed, not because people have stopped trying to reach Greece\.
 
 
-![Weekly Statistics from [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/photos/a.285312485325196/889118848277887)](assets/3ebc08726eca/0*B8G7EZaixDbOB8Ko)
+![Weekly Statistics from [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/photos/a.285312485325196/889118848277887)](../assets/3ebc08726eca/0*B8G7EZaixDbOB8Ko)
 
 Weekly Statistics from [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/photos/a.285312485325196/889118848277887)
 
@@ -77,7 +77,7 @@ LIBYA
 #### Returns to Libya
 
 
-![Maritime update from [IOM Libya](https://twitter.com/IOM_Libya/status/1290616563951968256/photo/1)](assets/3ebc08726eca/0*KiHBwCEvSRgPOdzP)
+![Maritime update from [IOM Libya](https://twitter.com/IOM_Libya/status/1290616563951968256/photo/1)](../assets/3ebc08726eca/0*KiHBwCEvSRgPOdzP)
 
 Maritime update from [IOM Libya](https://twitter.com/IOM_Libya/status/1290616563951968256/photo/1)
 

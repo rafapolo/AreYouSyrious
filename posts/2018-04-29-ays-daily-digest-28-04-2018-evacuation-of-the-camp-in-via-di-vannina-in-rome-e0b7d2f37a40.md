@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 28/04/2018: Evacuation of the camp in via di Vannina in Rome
+title: "AYS DAILY DIGEST 28/04/2018: Evacuation of the camp in via di Vannina in Rome"
 author: Are You Syrious?
 date: 2018-04-29T09:12:45.263+0100
 last_modified_at: 2018-04-29T10:10:06.440+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,human-rights,italy,police-violence]
 description: A new report regarding the evacuation of the camp in via di Vannina in Rome has been published//New data from on Greek islands//Police…
 image:
-  path: assets/e0b7d2f37a40/1*wxnMONYRagVN6swqpsZ9og.jpeg
+  path: ../assets/e0b7d2f37a40/1*wxnMONYRagVN6swqpsZ9og.jpeg
 ---
 
 ### AYS DAILY DIGEST 28/04/2018: Evacuation of the camp in via di Vannina in Rome
@@ -15,7 +15,7 @@ image:
 _A new report regarding the evacuation of the camp in via di Vannina in Rome has been published//New data from on Greek islands//Police entering Skaramangas camp and forcibly arresting all those without papers//Support for the 3 people in solidarity detained after the Briançon march//A boat with 90 people went missing in the Alborán sea//More news from the Netherlands, UK…_
 
 
-![Credit: A Buon Diritto — March 2018](assets/e0b7d2f37a40/1*wxnMONYRagVN6swqpsZ9og.jpeg)
+![Credit: A Buon Diritto — March 2018](../assets/e0b7d2f37a40/1*wxnMONYRagVN6swqpsZ9og.jpeg)
 
 Credit: A Buon Diritto — March 2018
 ### **Feature**
@@ -47,7 +47,7 @@ Up to 26th April, 8\.114 people had reached Greece, mainly coming from Syria, Ir
 Greek government sources are showing that there is almost 9000 people now at Lesvos, over 3100 at Samos, more than 1000 at Kos and over 1600 at Chios\.
 
 
-![](assets/e0b7d2f37a40/1*kNj6HddxC2Yy1Lw1IriFOg.jpeg)
+![](../assets/e0b7d2f37a40/1*kNj6HddxC2Yy1Lw1IriFOg.jpeg)
 
 
 _Mainland_
@@ -71,15 +71,15 @@ Mobile Info Team has published a [useful reminder](https://www.facebook.com/mobi
 [Great initiative](http://Samos Volunteers Samos Volunteers, Sámos, Samos, Greece. 6K likes. https://samosvolunteers.orgwww.facebook.com) for girls in Samos\! Today they had the chance to take self\-defense classes\.
 
 
-![](assets/e0b7d2f37a40/1*kouX1J20pwYQSxwtN9JoEg.jpeg)
+![](../assets/e0b7d2f37a40/1*kouX1J20pwYQSxwtN9JoEg.jpeg)
 
 
 
-![](assets/e0b7d2f37a40/1*jBxFSI-ACenGHmn5cSfBNA.jpeg)
+![](../assets/e0b7d2f37a40/1*jBxFSI-ACenGHmn5cSfBNA.jpeg)
 
 
 
-![Credit: Samos Volunteers](assets/e0b7d2f37a40/1*I8PRcoh2u-iLzHXQiE1bkw.jpeg)
+![Credit: Samos Volunteers](../assets/e0b7d2f37a40/1*I8PRcoh2u-iLzHXQiE1bkw.jpeg)
 
 Credit: Samos Volunteers
 ### **FRANCE**
@@ -119,11 +119,11 @@ We Are Here demo\.
 On Saturday afternoon a few hundred people have walked a solidarity march Amsterdam for the undocumented refugees of We Are Here\. The We Are Here collective has been campaigning against the inhumane Dutch asylum policy for years and organized the afternoon with support from over eighty social organizations\.
 
 
-![](assets/e0b7d2f37a40/1*mgmaZLkQtxx2hAFCfJs-uA.jpeg)
+![](../assets/e0b7d2f37a40/1*mgmaZLkQtxx2hAFCfJs-uA.jpeg)
 
 
 
-![Photo by [Bond Precaire Woonvormen](https://www.facebook.com/BondPrecaireWoonvormen/?hc_ref=ARQq-m0G5B_Gq4T4DYpYDbECINf6ZCPjZ9O1O_qgso8kFzztPZT9z-9lo4aNHhXbr7w)](assets/e0b7d2f37a40/1*6GiV8eEUf9Gg0etVnSuBFw.jpeg)
+![Photo by [Bond Precaire Woonvormen](https://www.facebook.com/BondPrecaireWoonvormen/?hc_ref=ARQq-m0G5B_Gq4T4DYpYDbECINf6ZCPjZ9O1O_qgso8kFzztPZT9z-9lo4aNHhXbr7w)](../assets/e0b7d2f37a40/1*6GiV8eEUf9Gg0etVnSuBFw.jpeg)
 
 Photo by [Bond Precaire Woonvormen](https://www.facebook.com/BondPrecaireWoonvormen/?hc_ref=ARQq-m0G5B_Gq4T4DYpYDbECINf6ZCPjZ9O1O_qgso8kFzztPZT9z-9lo4aNHhXbr7w)
 

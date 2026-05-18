@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 25/06/2018: Salvini Refutes Torture in Libya
+title: "AYS Daily Digest 25/06/2018: Salvini Refutes Torture in Libya"
 author: Are You Syrious?
 date: 2018-06-26T10:43:48.621+0100
 last_modified_at: 2018-06-26T11:49:52.200+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,mediterranean,libya,torture,italy]
 description: Italian Interior Minister meets Libyan Premier // ‘Watch the Med’ statement // Ports still closed to Lifeline // Fascist attack in Athens…
 image:
-  path: assets/d5fe1efaa50a/1*nIICN3Qo_cyJSYBq-i7JDg.jpeg
+  path: ../assets/d5fe1efaa50a/1*nIICN3Qo_cyJSYBq-i7JDg.jpeg
 ---
 
 ### AYS Daily Digest 25/06/2018: Salvini Refutes Torture in Libya
 #### Italian Interior Minister meets Libyan Premier // ‘Watch the Med’ statement // Ports still closed to Lifeline // Fascist attack in Athens // Body washed up in Ventimiglia // Statement against evictions in Paris // Updates from the sea, Bosnia, projects in Greece and France and more…\.
 
 
-![Photo credit: Vincent Cochetel [https://twitter\.com/cochetel/status/1011212749613957120](https://twitter.com/cochetel/status/1011212749613957120)](assets/d5fe1efaa50a/1*nIICN3Qo_cyJSYBq-i7JDg.jpeg)
+![Photo credit: Vincent Cochetel [https://twitter\.com/cochetel/status/1011212749613957120](https://twitter.com/cochetel/status/1011212749613957120)](../assets/d5fe1efaa50a/1*nIICN3Qo_cyJSYBq-i7JDg.jpeg)
 
 Photo credit: Vincent Cochetel [https://twitter\.com/cochetel/status/1011212749613957120](https://twitter.com/cochetel/status/1011212749613957120)
 #### Feature: Salvini Refutes Torture in Libya
@@ -100,7 +100,7 @@ Watch the Med — Alarm Phone published a [statement](https://www.facebook.com/w
 
 
 
-![Image credit: Marily Stroux](assets/d5fe1efaa50a/1*g9pDrTeQUXMpTUQxq5Zi6A.jpeg)
+![Image credit: Marily Stroux](../assets/d5fe1efaa50a/1*g9pDrTeQUXMpTUQxq5Zi6A.jpeg)
 
 Image credit: Marily Stroux
 

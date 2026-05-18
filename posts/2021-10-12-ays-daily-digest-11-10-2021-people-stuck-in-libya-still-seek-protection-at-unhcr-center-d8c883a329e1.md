@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 11/10/2021: People stuck in Libya still seek protection at UNHCR Center
+title: "AYS Daily Digest 11/10/2021: People stuck in Libya still seek protection at UNHCR Center"
 author: Are You Syrious?
 date: 2021-10-12T12:50:18.230+0100
 last_modified_at: 2021-10-12T12:50:18.230+0100
 categories: Are You Syrious?
 tags: [digest,refugees,europe,libya,unhcr]
-description: Demonstration and despair in Libya // New shipwreck: 15 lives lost // Italy disregards the memory of those who died in the 2013 shipwreck…
+description: "Demonstration and despair in Libya // New shipwreck: 15 lives lost // Italy disregards the memory of those who died in the 2013 shipwreck…"
 image:
-  path: assets/d8c883a329e1/1*Biyqkoa4YRlulQaHVFFPNA.png
+  path: ../assets/d8c883a329e1/1*Biyqkoa4YRlulQaHVFFPNA.png
 ---
 
 ### AYS Daily Digest 11/10/2021: People stuck in Libya still seek protection at UNHCR Center
 #### Demonstration and despair in Libya // New shipwreck: 15 lives lost // Italy disregards the memory of those who died in the 2013 shipwreck // Greece: more fences planned // Hunger Strike in support of people in Calais started
 
 
-![In the early morning hours, people freeze outside the UNHCR Community Centre in Tripoli\. Screenshot of video tweeted by: Refugees in Libya](assets/d8c883a329e1/1*Biyqkoa4YRlulQaHVFFPNA.png)
+![In the early morning hours, people freeze outside the UNHCR Community Centre in Tripoli\. Screenshot of video tweeted by: Refugees in Libya](../assets/d8c883a329e1/1*Biyqkoa4YRlulQaHVFFPNA.png)
 
 In the early morning hours, people freeze outside the UNHCR Community Centre in Tripoli\. Screenshot of video tweeted by: Refugees in Libya
 ### FEATURE
@@ -187,7 +187,7 @@ In the last years, many young people who recently arrived to the UK and had inse
 #### Short documentary on pushbacks along EU\-borders \(in German\):
 
 
-[![Europas Schattenarmee: Pushbacks an der EU-Außengrenze - MONITOR](assets/d8c883a329e1/994b_hqdefault.jpg "Europas Schattenarmee: Pushbacks an der EU-Außengrenze - MONITOR")](https://www.youtube.com/watch?v=GAdgFwUoNiA)
+[![Europas Schattenarmee: Pushbacks an der EU-Außengrenze - MONITOR](../assets/d8c883a329e1/994b_hqdefault.jpg "Europas Schattenarmee: Pushbacks an der EU-Außengrenze - MONITOR")](https://www.youtube.com/watch?v=GAdgFwUoNiA)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

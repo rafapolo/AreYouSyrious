@@ -1,20 +1,20 @@
 ---
-title: AYS News Digest 23/5/22: International civil society calls out the Slovenian government
+title: "AYS News Digest 23/5/22: International civil society calls out the Slovenian government"
 author: Are You Syrious?
 date: 2022-05-24T22:00:52.288+0100
 last_modified_at: 2022-05-24T22:28:29.395+0100
 categories: Are You Syrious?
 tags: [digest,refugees,slovenia,uk,europe]
-description: Poland: Holes along the border / Estonia: Parliament must ensure that the bill amending the State Borders Act complies with human rights…
+description: "Poland: Holes along the border / Estonia: Parliament must ensure that the bill amending the State Borders Act complies with human rights…"
 image:
-  path: assets/98637a4ce056/0*fq00yXUhiaMrP8DM
+  path: ../assets/98637a4ce056/0*fq00yXUhiaMrP8DM
 ---
 
 ### AYS News Digest 23/5/22: International civil society calls out the Slovenian government
 #### Poland: Holes along the border / Estonia: Parliament must ensure that the bill amending the State Borders Act complies with human rights obligations / **Despite Brexit, British police can influence surveillance laws in the EU / Reports, warnings and some important data you should know about**
 
 
-![Photo: InfoKolpa](assets/98637a4ce056/0*fq00yXUhiaMrP8DM)
+![Photo: InfoKolpa](../assets/98637a4ce056/0*fq00yXUhiaMrP8DM)
 
 Photo: InfoKolpa
 #### FEATURE
@@ -84,7 +84,7 @@ _“We support the statement from Infokolpa denouncing the possible appointment 
 A fine of TL 40,000 \($2,505\) was [reportedly](https://www.turkishminute.com/2022/05/19/efugee-mayor-erects-billboards-telling-syrians-in-arabic-to-leave-turkey/?fbclid=IwAR3MdQGHbJVIJWIxRcywC4URQG3uu0KrtZsxcXS65wnpuiAtjOEr2rnhiac) issued for the Bolu Municipality for “violation of the prohibition of discrimination” of their mayor who placed racist billboards in both Arabic and Turkish, reads: “I’m calling on temporary asylum seekers: 11 years ago, you came to our country as guests\. The Turkish nation has been protecting you for years with its scarce resources\. You’ve overstayed your welcome\. You see the economic depression in our country\. Our youth are unemployed, families live below the poverty line\. Under these conditions, we have no more bread and water to share with you\. It’s time for you to go as you came\. You are no longer wanted, return to your country\.”
 
 
-![](assets/98637a4ce056/0*4hw9vxsvr2CjYHGz.jpg)
+![](../assets/98637a4ce056/0*4hw9vxsvr2CjYHGz.jpg)
 
 
 According to the Turkish own official data, 2\.6 million people have been prevented from entering Turkey at the border over the last six years\.

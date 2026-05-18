@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 8–9/2/2020: No support for people deported to Afghanistan
+title: "AYS Weekend Digest 8–9/2/2020: No support for people deported to Afghanistan"
 author: Are You Syrious?
 date: 2020-02-10T11:11:44.329+0000
 last_modified_at: 2020-02-10T18:21:52.760+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,commemoration,refugees,afghanistan,deportation]
 description: 13 die on the Iranian-Turkish border, 91 feared dead in the Central Med, Updates from Moria / Solidarity protest in Athens and Germany…
 image:
-  path: assets/e802b28a4e89/1*MdojQtxudp3oKgJcNW9FJw.jpeg
+  path: ../assets/e802b28a4e89/1*MdojQtxudp3oKgJcNW9FJw.jpeg
 ---
 
 ### AYS Weekend Digest 8–9/2/2020: No support for months for people deported to Afghanistan
@@ -15,7 +15,7 @@ image:
 13 people die on the Iranian\-Turkish border / 91 people feared dead in the Central Med / Updates from Moria / Solidarity protest in Athens / Commemoraction / Protests in Germany / Temporary shelters in Dunkirk
 
 
-![\(Memorial at Sea on the sea of Saidia, Morocco\. Photo Credit: [AlarmPhone](https://www.facebook.com/watchthemed.alarmphone/posts/2583302221944005) \)](assets/e802b28a4e89/1*MdojQtxudp3oKgJcNW9FJw.jpeg)
+![\(Memorial at Sea on the sea of Saidia, Morocco\. Photo Credit: [AlarmPhone](https://www.facebook.com/watchthemed.alarmphone/posts/2583302221944005) \)](../assets/e802b28a4e89/1*MdojQtxudp3oKgJcNW9FJw.jpeg)
 
 \(Memorial at Sea on the sea of Saidia, Morocco\. Photo Credit: [AlarmPhone](https://www.facebook.com/watchthemed.alarmphone/posts/2583302221944005) \)
 #### FEATURE STORY: No support for people deported to Afghanistan\. Deportees find themselves abandoned by the EU, International Agencies and the Afghan Government
@@ -66,15 +66,15 @@ EUROPEAN BORDERS
 #### **CommemorAction’s for People who Die at Borders**
 
 
-![](assets/e802b28a4e89/1*gjC-MWm76bcBfxh-TstobQ.jpeg)
+![](../assets/e802b28a4e89/1*gjC-MWm76bcBfxh-TstobQ.jpeg)
 
 
 
-![](assets/e802b28a4e89/1*0XTOPnVVG4_-rpsaMgI5Jw.jpeg)
+![](../assets/e802b28a4e89/1*0XTOPnVVG4_-rpsaMgI5Jw.jpeg)
 
 
 
-![\(Memorial at Sea on the sea of Saidia, Morocco\. Photo Credit: [AlarmPhone](https://www.facebook.com/watchthemed.alarmphone/posts/2583302221944005) \)](assets/e802b28a4e89/1*RSPMGYY7KuJdIef4tum2og.jpeg)
+![\(Memorial at Sea on the sea of Saidia, Morocco\. Photo Credit: [AlarmPhone](https://www.facebook.com/watchthemed.alarmphone/posts/2583302221944005) \)](../assets/e802b28a4e89/1*RSPMGYY7KuJdIef4tum2og.jpeg)
 
 \(Memorial at Sea on the sea of Saidia, Morocco\. Photo Credit: [AlarmPhone](https://www.facebook.com/watchthemed.alarmphone/posts/2583302221944005) \)
 
@@ -88,15 +88,15 @@ On the 6th of February, the [**International Day of CommemorAction for People Ki
 
 
 
-![](assets/e802b28a4e89/1*Wdt9Sfi0rHaTlbwdWCVMTA.jpeg)
+![](../assets/e802b28a4e89/1*Wdt9Sfi0rHaTlbwdWCVMTA.jpeg)
 
 
 
-![](assets/e802b28a4e89/1*zHwKXOVjeLSzvj4-eyaG7Q.jpeg)
+![](../assets/e802b28a4e89/1*zHwKXOVjeLSzvj4-eyaG7Q.jpeg)
 
 
 
-![\( _CommemorAction in Oujda, Morocco\._ Art by a Camaroonian Artist\. Photo Credit: [AlarmPhone](https://alarmephonesahara.info/en/news/6th-of-february-2020-international-day-of-commemoraction-for-people-killed-and-missing-on-the-migration-routes) \)](assets/e802b28a4e89/1*wiZNebaCybyRNHlo9fNA6g.jpeg)
+![\( _CommemorAction in Oujda, Morocco\._ Art by a Camaroonian Artist\. Photo Credit: [AlarmPhone](https://alarmephonesahara.info/en/news/6th-of-february-2020-international-day-of-commemoraction-for-people-killed-and-missing-on-the-migration-routes) \)](../assets/e802b28a4e89/1*wiZNebaCybyRNHlo9fNA6g.jpeg)
 
 \( _CommemorAction in Oujda, Morocco\._ Art by a Camaroonian Artist\. Photo Credit: [AlarmPhone](https://alarmephonesahara.info/en/news/6th-of-february-2020-international-day-of-commemoraction-for-people-killed-and-missing-on-the-migration-routes) \)
 
@@ -108,15 +108,15 @@ On the 6th of February, the [**International Day of CommemorAction for People Ki
 
 
 
-![](assets/e802b28a4e89/1*-7W0cpOX7aioKVzMLugGyA.jpeg)
+![](../assets/e802b28a4e89/1*-7W0cpOX7aioKVzMLugGyA.jpeg)
 
 
 
-![](assets/e802b28a4e89/1*QpRstDEsvtkqfuWwEOqe5A.jpeg)
+![](../assets/e802b28a4e89/1*QpRstDEsvtkqfuWwEOqe5A.jpeg)
 
 
 
-![\(CommermorAction at the land border between Algeria and Morocco\. Photo Credit: [AlarmPhone](https://www.facebook.com/watchthemed.alarmphone/posts/2583302221944005) \)](assets/e802b28a4e89/1*GOtL_p7jgYZXOVzMODFu3w.jpeg)
+![\(CommermorAction at the land border between Algeria and Morocco\. Photo Credit: [AlarmPhone](https://www.facebook.com/watchthemed.alarmphone/posts/2583302221944005) \)](../assets/e802b28a4e89/1*GOtL_p7jgYZXOVzMODFu3w.jpeg)
 
 \(CommermorAction at the land border between Algeria and Morocco\. Photo Credit: [AlarmPhone](https://www.facebook.com/watchthemed.alarmphone/posts/2583302221944005) \)
 #### **And yet we must report on more border deaths**
@@ -185,16 +185,16 @@ Read also the special report on the violence on Lesvos in the last few days, wri
 #### **RSA Update on Unaccompanied Children and Young People**
 
 
-![](assets/e802b28a4e89/1*AH1-bhobLHxqvCYBgzflkQ.jpeg)
+![](../assets/e802b28a4e89/1*AH1-bhobLHxqvCYBgzflkQ.jpeg)
 
 
 
-![](assets/e802b28a4e89/1*wAFSCaIkDKNN0e7h27Sqow.jpeg)
+![](../assets/e802b28a4e89/1*wAFSCaIkDKNN0e7h27Sqow.jpeg)
 
 #### **Solidarity with Moria from Displaced People in Athens**
 
 
-![\(Squatted polytechnio by immigrants in solidarity with immigrants in Moria\. Photo Credit: [Anarchist Migrants](https://www.facebook.com/AnarchistMigrants/photos/a.477095259694830/667820703955617) \)](assets/e802b28a4e89/1*aW6q-YTMKx4zindg7I6_8w.jpeg)
+![\(Squatted polytechnio by immigrants in solidarity with immigrants in Moria\. Photo Credit: [Anarchist Migrants](https://www.facebook.com/AnarchistMigrants/photos/a.477095259694830/667820703955617) \)](../assets/e802b28a4e89/1*aW6q-YTMKx4zindg7I6_8w.jpeg)
 
 \(Squatted polytechnio by immigrants in solidarity with immigrants in Moria\. Photo Credit: [Anarchist Migrants](https://www.facebook.com/AnarchistMigrants/photos/a.477095259694830/667820703955617) \)
 
@@ -209,11 +209,11 @@ GERMANY
 **Protest for Relocation of Unaccompanied Children and Teenagers from Greek Islands to Germany**
 
 
-![](assets/e802b28a4e89/1*7roriyHb7-wtZ3ENQeavWA.jpeg)
+![](../assets/e802b28a4e89/1*7roriyHb7-wtZ3ENQeavWA.jpeg)
 
 
 
-![\(Photo Credit: [RSA](https://twitter.com/rspaegean/status/1226174086839140352?fbclid=IwAR2e3Vju_G0pT1Pz6_NHQ1MWbkK3jipjrpR8zhlCpqk21p8DhLDCP80iaZI) \)](assets/e802b28a4e89/1*pgoksrDoN1JdaUDJp2vHnQ.jpeg)
+![\(Photo Credit: [RSA](https://twitter.com/rspaegean/status/1226174086839140352?fbclid=IwAR2e3Vju_G0pT1Pz6_NHQ1MWbkK3jipjrpR8zhlCpqk21p8DhLDCP80iaZI) \)](../assets/e802b28a4e89/1*pgoksrDoN1JdaUDJp2vHnQ.jpeg)
 
 \(Photo Credit: [RSA](https://twitter.com/rspaegean/status/1226174086839140352?fbclid=IwAR2e3Vju_G0pT1Pz6_NHQ1MWbkK3jipjrpR8zhlCpqk21p8DhLDCP80iaZI) \)
 
@@ -234,11 +234,11 @@ Mobile Refugee Support [report](https://www.facebook.com/MobileRefugeeSupport/po
 During the last months, regular evictions of makeshift shelters have continued to take place\. Every time possessions and shelters have been destroyed, “police officers and workers in hazmat suits will even begin to dismantle tents before the occupants have been removed, usually armed with knives for cutting the plastic”
 
 
-![](assets/e802b28a4e89/1*2GRoFAaERc74XarFny99IQ.jpeg)
+![](../assets/e802b28a4e89/1*2GRoFAaERc74XarFny99IQ.jpeg)
 
 
 
-![Destruction of tents and personal possessions by police and workers, Dunkirk\. Photo by [MRS](https://www.facebook.com/MobileRefugeeSupport/photos/pcb.1182435865295356/1182431995295743/?type=3&theater)](assets/e802b28a4e89/1*yU2cqDn8yJQIxgCFt8_scA.jpeg)
+![Destruction of tents and personal possessions by police and workers, Dunkirk\. Photo by [MRS](https://www.facebook.com/MobileRefugeeSupport/photos/pcb.1182435865295356/1182431995295743/?type=3&theater)](../assets/e802b28a4e89/1*yU2cqDn8yJQIxgCFt8_scA.jpeg)
 
 Destruction of tents and personal possessions by police and workers, Dunkirk\. Photo by [MRS](https://www.facebook.com/MobileRefugeeSupport/photos/pcb.1182435865295356/1182431995295743/?type=3&theater)
 

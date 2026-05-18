@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,special,bosnia,sarajevo,velika-kladusa]
 description: Since December last year, Bosnia has seen an increasing influx of people fleeing war and persecution arrive. Volunteers on the ground are…
 image:
-  path: assets/1f8d2bc2dc4e/1*xFmDPRZnQ9fSZOjazipk3g.jpeg
+  path: ../assets/1f8d2bc2dc4e/1*xFmDPRZnQ9fSZOjazipk3g.jpeg
 ---
 
 ### AYS Special — What is going on in Bosnia?
 #### Since December last year, Bosnia has seen an increasing influx of people fleeing war and persecution arrive\. Volunteers on the ground are warning about how the lack of response and neglect from as well the government as big international organisations can make the situation deteriorate\. This is an overview of what is going on in the country, which has become the biggest bottleneck along what could be called the “new Balkan route”\.
 
 
-![Friday night food distribution in the park in Sarajevo\. Photo: AYS](assets/1f8d2bc2dc4e/1*xFmDPRZnQ9fSZOjazipk3g.jpeg)
+![Friday night food distribution in the park in Sarajevo\. Photo: AYS](../assets/1f8d2bc2dc4e/1*xFmDPRZnQ9fSZOjazipk3g.jpeg)
 
 Friday night food distribution in the park in Sarajevo\. Photo: AYS
 
@@ -40,7 +40,7 @@ UNHCR recently started to pay for a number of hostels and IOM has started to wor
 We have received complaints from migrants staying at UNHCR’s accommodations saying that they are given only one meal a day\. In some cases, people have left the accommodations to stay in some of the volunteer\-driven accommodations\. Recently a family who was placed at a hostel with only single males felt unsafe and were instead accommodated by volunteers\.
 
 
-![In Sarajevo, a lot of newly arrived people including families with young children are coming to get a free meal\. Both individual locals, local volunteers and international volunteers are helping in different ways\. Photo: AYS](assets/1f8d2bc2dc4e/1*JTrIXjyYBQOvw8oRkO8wcA.jpeg)
+![In Sarajevo, a lot of newly arrived people including families with young children are coming to get a free meal\. Both individual locals, local volunteers and international volunteers are helping in different ways\. Photo: AYS](../assets/1f8d2bc2dc4e/1*JTrIXjyYBQOvw8oRkO8wcA.jpeg)
 
 In Sarajevo, a lot of newly arrived people including families with young children are coming to get a free meal\. Both individual locals, local volunteers and international volunteers are helping in different ways\. Photo: AYS
 #### Complete system crack\-down
@@ -54,7 +54,7 @@ Local media, as well as international organizations, claim that no one wants to 
 For the time being, it is hard for local activists and volunteers to support people arriving with more than basic aid since it is not even possible to register them\.
 
 
-![Volunteers are every day distributing food on the streets\. Often several times a day, as well day and night\. Photo: AYS](assets/1f8d2bc2dc4e/1*UdHWkA312I_8B8eFoFZa3Q.jpeg)
+![Volunteers are every day distributing food on the streets\. Often several times a day, as well day and night\. Photo: AYS](../assets/1f8d2bc2dc4e/1*UdHWkA312I_8B8eFoFZa3Q.jpeg)
 
 Volunteers are every day distributing food on the streets\. Often several times a day, as well day and night\. Photo: AYS
 #### Locals are helping

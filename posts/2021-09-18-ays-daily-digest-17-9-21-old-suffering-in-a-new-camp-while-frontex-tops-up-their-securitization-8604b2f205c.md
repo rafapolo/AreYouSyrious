@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 17/9/21: Old suffering in a new camp, while Frontex steps up their securitization…
+title: "AYS Daily Digest 17/9/21: Old suffering in a new camp, while Frontex steps up their securitization…"
 author: Are You Syrious?
 date: 2021-09-18T14:35:44.020+0100
 last_modified_at: 2021-09-18T15:36:57.963+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,greece,solidarity,europe]
 description: Voices against the new Samos camp / On the possible dangers of new technologies about to be put in use / Individual stories of people on…
 image:
-  path: assets/8604b2f205c/1*SzAW0J1cQ2LfmwF2FQF_Ag.jpeg
+  path: ../assets/8604b2f205c/1*SzAW0J1cQ2LfmwF2FQF_Ag.jpeg
 ---
 
 ### AYS Daily Digest 17/9/21: Old suffering in a new camp, while Frontex steps up their securitization game
 #### Voices against the new Samos camp / On the possible dangers of new technologies about to be put in use / Individual stories of people on the move / Sights from border areas in BiH / Denmark and UK put pressure on women and mothers / Recommended media coverage of what has been reported from the ground & other news
 
 
-![One of the banners at the CommemorAction held in Palermo by activists from different places \(Photo: AYS\)](assets/8604b2f205c/1*SzAW0J1cQ2LfmwF2FQF_Ag.jpeg)
+![One of the banners at the CommemorAction held in Palermo by activists from different places \(Photo: AYS\)](../assets/8604b2f205c/1*SzAW0J1cQ2LfmwF2FQF_Ag.jpeg)
 
 One of the banners at the CommemorAction held in Palermo by activists from different places \(Photo: AYS\)
 
@@ -71,7 +71,7 @@ The majority are unaccounted for. https://t.co/2NfM3KiJnR
 ### They were attacking us one by one
 
 
-![by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?__cft__[0]=AZXbi80JiTwSqZ3LMvyOrvRHpadlywLISLnLdKjMnXNweEri6cW_rulOwKfOn1zHskp--Th8209MXybMvljpLqV1yqTMBqpPDzol_vTOUndzw-9-xKvNcbwqAB0kLzUlmPiRqsqTJp7O60liM_k_rbtvvYUJFfaohMxcPE7I0GCH_gzo3XSmul2eKKqxfRYvPNJe8EyxbshYVLBWGo6zzjJd&__tn__=-UC*F)](assets/8604b2f205c/0*PFxWk1OzLJpbAvvP)
+![by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?__cft__[0]=AZXbi80JiTwSqZ3LMvyOrvRHpadlywLISLnLdKjMnXNweEri6cW_rulOwKfOn1zHskp--Th8209MXybMvljpLqV1yqTMBqpPDzol_vTOUndzw-9-xKvNcbwqAB0kLzUlmPiRqsqTJp7O60liM_k_rbtvvYUJFfaohMxcPE7I0GCH_gzo3XSmul2eKKqxfRYvPNJe8EyxbshYVLBWGo6zzjJd&__tn__=-UC*F)](../assets/8604b2f205c/0*PFxWk1OzLJpbAvvP)
 
 by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?__cft__[0]=AZXbi80JiTwSqZ3LMvyOrvRHpadlywLISLnLdKjMnXNweEri6cW_rulOwKfOn1zHskp--Th8209MXybMvljpLqV1yqTMBqpPDzol_vTOUndzw-9-xKvNcbwqAB0kLzUlmPiRqsqTJp7O60liM_k_rbtvvYUJFfaohMxcPE7I0GCH_gzo3XSmul2eKKqxfRYvPNJe8EyxbshYVLBWGo6zzjJd&__tn__=-UC*F)
 
@@ -157,11 +157,11 @@ Yesterday French president Emmanuel Macron [announced](https://www.vice.com/en/a
 Images from a commemoration action that took place in Palermo in the evening, during the transborder convergence in Palermo and Dakar, commemorating the victims of the EU external border policies\. Paying respect to the victims through our daily work is complemented with these symbolic actions that keep us all from forgetting them\.
 
 
-![](assets/8604b2f205c/1*geMunv7Y3eWF6oSzoLmkzQ.jpeg)
+![](../assets/8604b2f205c/1*geMunv7Y3eWF6oSzoLmkzQ.jpeg)
 
 
 
-![Photo: AYS](assets/8604b2f205c/1*glV5HyZTOX7-XYq4fKg5fg.jpeg)
+![Photo: AYS](../assets/8604b2f205c/1*glV5HyZTOX7-XYq4fKg5fg.jpeg)
 
 Photo: AYS
 #### WORTH READING

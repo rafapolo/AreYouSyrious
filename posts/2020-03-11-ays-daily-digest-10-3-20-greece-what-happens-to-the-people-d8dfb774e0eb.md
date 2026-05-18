@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 10/3/20: Greece — What happens to the people?
+title: "AYS Daily Digest 10/3/20: Greece — What happens to the people?"
 author: Are You Syrious?
 date: 2020-03-11T12:55:40.204+0000
 last_modified_at: 2020-03-11T13:00:54.078+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,greece,europe,refugees,bosnia]
 description: “Greece should immediately reverse this draconian policy, properly receive these people in safe and decent conditions, and allow them to…
 image:
-  path: assets/d8dfb774e0eb/1*6B-ek4YQCaOcssCXxTq8GA.jpeg
+  path: ../assets/d8dfb774e0eb/1*6B-ek4YQCaOcssCXxTq8GA.jpeg
 ---
 
 ### AYS Daily Digest 10/3/20: Greece — What happens to the people?
 #### “Greece should immediately reverse this draconian policy, properly receive these people in safe and decent conditions, and allow them to lodge asylum claims\.” — HRW / Serbia’s south after fascist attacks / People sleeping rough in Tuzla to a camp near Sarajevo / & more news
 
 
-![](assets/d8dfb774e0eb/1*6B-ek4YQCaOcssCXxTq8GA.jpeg)
+![](../assets/d8dfb774e0eb/1*6B-ek4YQCaOcssCXxTq8GA.jpeg)
 
 #### FEATURED
 ### Summarily and forcibly returned without respecting the right to seek asylum
@@ -81,7 +81,7 @@ Croatian policemen have also been sent to the Greek border, while at the same ti
 ### Athens — No middle ground\. Either with fascists or with humans: Solidarity protest
 
 
-[!["No middle ground. Either with fascists or with humans": Solidarity to migrants protest [Greece]](assets/d8dfb774e0eb/34b5_hqdefault.jpg ""No middle ground. Either with fascists or with humans": Solidarity to migrants protest [Greece]")](https://www.youtube.com/watch?v=9CxdXKOdCys)
+[!["No middle ground. Either with fascists or with humans": Solidarity to migrants protest [Greece]](../assets/d8dfb774e0eb/34b5_hqdefault.jpg ""No middle ground. Either with fascists or with humans": Solidarity to migrants protest [Greece]")](https://www.youtube.com/watch?v=9CxdXKOdCys)
 
 
 
@@ -166,24 +166,24 @@ We are open to everyone wishing to give their reflection or update of this actio
 So far, we know that there are new people arriving in Tuzla, as they have been all this time, and lines are already forming in front of the Office for foreigners…
 
 
-![](assets/d8dfb774e0eb/1*3XuZXLvxTT6OaA1M7OlQVg.jpeg)
+![](../assets/d8dfb774e0eb/1*3XuZXLvxTT6OaA1M7OlQVg.jpeg)
 
 #### GERMANY
 
 [Sächsischer Flüchtlingsrat e\.V\.](https://www.facebook.com/saxfrev/?__tn__=%2CdkCH-R-R&eid=ARBgifuM9vp8ip0qKaUvVhMDBi4hAKVZ8QCeD-7BM2pKNel3XSLTKLXMrJ-1uPbVEZONKS016WQQzx-P&hc_ref=ARSJTcY0PLQkR8EZuw3o6ZkrI2lU199yotwmVPzEmytmr99s3GB_XTEAVD9pDFDZniw&fref=nf&hc_location=group) warns of new deportations that are to take place in Leipzig/Halle\. Please, follow their page for more information on that and updates on the possible new deportations from German airports\.
 
 
-![News in English, Arabic and Persian provided by [Matthew Wright](https://www.facebook.com/matthew.wright.1428?fref=gs&__tn__=%2Cd%2AF%2AF-R&eid=ARDBBPylnY9fNf6taOVqej9BoJSzRVetfFou2j_791jWYz9x296vsK8pIR-a7Wu2xOuCvRkovIDwWnaS&tn-str=%2AF&dti=1667894290115570&hc_location=group_dialog) ‎](assets/d8dfb774e0eb/1*P-BZ4-Z07UZFJ_NiF2oujQ.jpeg)
+![News in English, Arabic and Persian provided by [Matthew Wright](https://www.facebook.com/matthew.wright.1428?fref=gs&__tn__=%2Cd%2AF%2AF-R&eid=ARDBBPylnY9fNf6taOVqej9BoJSzRVetfFou2j_791jWYz9x296vsK8pIR-a7Wu2xOuCvRkovIDwWnaS&tn-str=%2AF&dti=1667894290115570&hc_location=group_dialog) ‎](../assets/d8dfb774e0eb/1*P-BZ4-Z07UZFJ_NiF2oujQ.jpeg)
 
 News in English, Arabic and Persian provided by [Matthew Wright](https://www.facebook.com/matthew.wright.1428?fref=gs&__tn__=%2Cd%2AF%2AF-R&eid=ARDBBPylnY9fNf6taOVqej9BoJSzRVetfFou2j_791jWYz9x296vsK8pIR-a7Wu2xOuCvRkovIDwWnaS&tn-str=%2AF&dti=1667894290115570&hc_location=group_dialog) ‎
 
 
-![Arabic](assets/d8dfb774e0eb/1*zwUmoVCBDBbgyYE1Dr6PRg.jpeg)
+![Arabic](../assets/d8dfb774e0eb/1*zwUmoVCBDBbgyYE1Dr6PRg.jpeg)
 
 Arabic
 
 
-![Persian](assets/d8dfb774e0eb/1*dTqOrg1mpyaCIt6XXQJHAg.jpeg)
+![Persian](../assets/d8dfb774e0eb/1*dTqOrg1mpyaCIt6XXQJHAg.jpeg)
 
 Persian
 

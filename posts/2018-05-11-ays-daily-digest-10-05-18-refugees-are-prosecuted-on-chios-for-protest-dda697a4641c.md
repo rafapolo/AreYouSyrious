@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 10/05/18: Refugees are Prosecuted on Chios for Protesting
+title: "AYS Daily Digest 10/05/18: Refugees are Prosecuted on Chios for Protesting"
 author: Are You Syrious?
 date: 2018-05-11T01:36:15.134+0100
 last_modified_at: 2018-05-11T07:17:04.763+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,rescue,unhcr,libya]
 description: Funds promised for refugees in Lebanon//Rescues at Sea//Account of atrocities in Libya// Container houses closed in Rome//New Arrivals and…
 image:
-  path: assets/dda697a4641c/1*VzfH7W7DgbZsLBrkt3y_1A.jpeg
+  path: ../assets/dda697a4641c/1*VzfH7W7DgbZsLBrkt3y_1A.jpeg
 ---
 
 ### AYS Daily Digest 10/05/18: Refugees are Prosecuted on Chios for Protesting
@@ -15,7 +15,7 @@ image:
 _Funds promised for refugees in Lebanon//Rescues at Sea//Account of atrocities in Libya// Container houses closed in Rome//New Arrivals and donation needs in Greece//Volunteers need support in Bosnia//and more…_
 
 
-![“Life in Moria refugee camp, Lesbos, Greece, March 2018\. Photo Credit: [Orestis Seferoglou](http://Orestis Seferoglou)](assets/dda697a4641c/1*VzfH7W7DgbZsLBrkt3y_1A.jpeg)
+![“Life in Moria refugee camp, Lesbos, Greece, March 2018\. Photo Credit: [Orestis Seferoglou](http://Orestis Seferoglou)](../assets/dda697a4641c/1*VzfH7W7DgbZsLBrkt3y_1A.jpeg)
 
 “Life in Moria refugee camp, Lesbos, Greece, March 2018\. Photo Credit: [Orestis Seferoglou](http://Orestis Seferoglou)
 #### Feature
@@ -122,7 +122,7 @@ An “accomodation center” made of container houses that the Red Cross had set
 The UNHCR released some statistics today on “returns” \(deportations\) from Greece to Turkey\. The phrasing they use is misleading, and it hides an ugly truth\. Their statistics cite that 47% of the people sent back either did not wish to apply to asylum, or “withdrew their claims”\. In the language of the UNHCR and IOM, this means these people are “voluntarily” returned\. However, the people who are sent back to Turkey often have the threat of prison in Greece looming over them once their asylum claims have been rejected\. Going back to Turkey is not a choice for most refugees, but something that is forced with threats of imprisonment\.
 
 
-![](assets/dda697a4641c/1*ORdA9tfQEumzHZmDW7DrtQ.jpeg)
+![](../assets/dda697a4641c/1*ORdA9tfQEumzHZmDW7DrtQ.jpeg)
 
 
 Announcement form the Greek Asylum Service, available in Farsi and Arabic [here](https://www.facebook.com/481351218685655/photos/a.578873295600113.1073741828.481351218685655/1010055935815178/?type=3&theater) \.
@@ -158,7 +158,7 @@ An informal education center in Belgrade is looking for volunteer teachers for E
 #### Bosnia
 
 
-![Tents in Sarajevo, 5/10/18\. Photo Credit: AYS](assets/dda697a4641c/1*Q0fTlJMeduo__hFbkJBnIA.jpeg)
+![Tents in Sarajevo, 5/10/18\. Photo Credit: AYS](../assets/dda697a4641c/1*Q0fTlJMeduo__hFbkJBnIA.jpeg)
 
 Tents in Sarajevo, 5/10/18\. Photo Credit: AYS
 
@@ -172,19 +172,19 @@ Forwarding a much needed call for [donations](https://www.gofundme.com/distribut
 
 
 
-![“Our food lines are getting longer\.” Photos: [Souls of Sarajevo](https://www.facebook.com/soulsofsarajevo/)](assets/dda697a4641c/1*2xdQTtyoGhhZpaxMd-cDEA.jpeg)
+![“Our food lines are getting longer\.” Photos: [Souls of Sarajevo](https://www.facebook.com/soulsofsarajevo/)](../assets/dda697a4641c/1*2xdQTtyoGhhZpaxMd-cDEA.jpeg)
 
 “Our food lines are getting longer\.” Photos: [Souls of Sarajevo](https://www.facebook.com/soulsofsarajevo/)
 
 
-![](assets/dda697a4641c/1*ByvdJYkhXH_CIYdpGlGSUw.jpeg)
+![](../assets/dda697a4641c/1*ByvdJYkhXH_CIYdpGlGSUw.jpeg)
 
 ### France
 
 Thousands of refugees are still being left on the streets of Paris, denied their most basic human rights or almost any protections\. In this month, there have been two reported deaths of refugees in the city\. [One volunteer recently described the dire situation there](https://www.facebook.com/groups/1652972374920129/) :
 
 
-![Photos: [Marc Melki](https://www.facebook.com/photo.php?fbid=10213678917340219&set=pcb.10213678933500623&type=3&theater)](assets/dda697a4641c/1*EG-RCmz4APWLP77xHq3C2w.jpeg)
+![Photos: [Marc Melki](https://www.facebook.com/photo.php?fbid=10213678917340219&set=pcb.10213678933500623&type=3&theater)](../assets/dda697a4641c/1*EG-RCmz4APWLP77xHq3C2w.jpeg)
 
 Photos: [Marc Melki](https://www.facebook.com/photo.php?fbid=10213678917340219&set=pcb.10213678933500623&type=3&theater)
 
@@ -196,11 +196,11 @@ Photos: [Marc Melki](https://www.facebook.com/photo.php?fbid=10213678917340219&s
 
 
 
-![](assets/dda697a4641c/1*BgAD8JwaQxJg1gkeixXMlw.jpeg)
+![](../assets/dda697a4641c/1*BgAD8JwaQxJg1gkeixXMlw.jpeg)
 
 
 
-![](assets/dda697a4641c/1*VyebA5gC9aXheUdnylxSEQ.jpeg)
+![](../assets/dda697a4641c/1*VyebA5gC9aXheUdnylxSEQ.jpeg)
 
 
 The Utopia 56 volunteer group is holding a [general assembly](https://www.facebook.com/asso.utopia56/posts/1891874490844334) in Paris on 20 may for volunteers and supporters of the group\.
@@ -210,7 +210,7 @@ The Solidarity Migrants Wilson group is collecting item donations for refugees o
 There will be a solidarity march in Marseilles this Saturday, starting at 11h from the Saint Antoine station\.
 
 
-![](assets/dda697a4641c/1*g6URJEeX-6WqYAtcYE7l-g.jpeg)
+![](../assets/dda697a4641c/1*g6URJEeX-6WqYAtcYE7l-g.jpeg)
 
 ### UK
 

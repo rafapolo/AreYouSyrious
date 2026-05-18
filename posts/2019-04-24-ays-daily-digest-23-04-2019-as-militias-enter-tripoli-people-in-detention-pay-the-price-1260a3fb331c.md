@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 23.04.2019: As Militias enter Tripoli, People in Detention Pay the Price
+title: "AYS DAILY DIGEST 23.04.2019: As Militias enter Tripoli, People in Detention Pay the Price"
 author: Are You Syrious?
 date: 2019-04-24T13:13:31.868+0100
 last_modified_at: 2019-04-27T00:26:09.049+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,libya,digest,bosnia,greece]
 description: Horrific crimes against people trapped in detention in Tripoli. / Updates from Greek Islands // Further displacement after the mass squat…
 image:
-  path: assets/1260a3fb331c/1*PAGPuU7rTHHwEkLPCPdSTw.png
+  path: ../assets/1260a3fb331c/1*PAGPuU7rTHHwEkLPCPdSTw.png
 ---
 
 ### AYS Daily Digest 23/04/19: As Militias enter Tripoli, People in Detention Pay the Price
@@ -69,7 +69,7 @@ For more information, go [here](https://www.facebook.com/rlc.berlin/posts/231113
 In the aftermath of the mass evictions from squats across Athens, it appears that individuals who were residing in some camps unregistered \(i\.e\. did not have papers\) were evicted in order to make way for families previously in squats, many of whom then protested their eviction publicly\. However conditions in containers in this camp remain appallingly inadequate with many of the kitchens being burned out\. Families newly arrived are disoriented and in dire need of support\. We will be posting updates about ways groups are providing support as it follows\.
 
 
-[![Eleonas Camp 2](assets/1260a3fb331c/bc87_hqdefault.jpg "Eleonas Camp 2")](http://www.youtube.com/watch?v=gyN0Ia3YD_A)
+[![Eleonas Camp 2](../assets/1260a3fb331c/bc87_hqdefault.jpg "Eleonas Camp 2")](http://www.youtube.com/watch?v=gyN0Ia3YD_A)
 
 
 The eviction of those in the camp was very violent, with the day starting with administrators calling for police support — then all NGO and non\-residents were kept out, allowing the police to do what they will, often violently\.
@@ -88,7 +88,7 @@ The eviction of those in the camp was very violent, with the day starting with a
 Those who were removed the the camp are presumed to have been taken to a detention centre and individuals are working with those people, affirming them of their rights wherein they cannot be deported without full information on their rights\.
 
 
-[![Eleonas Camp, Athens 23 04](assets/1260a3fb331c/e765_hqdefault.jpg "Eleonas Camp, Athens 23 04")](http://www.youtube.com/watch?v=s79BWHm1cls)
+[![Eleonas Camp, Athens 23 04](../assets/1260a3fb331c/e765_hqdefault.jpg "Eleonas Camp, Athens 23 04")](http://www.youtube.com/watch?v=s79BWHm1cls)
 
 
 Finally, a reminder that silence is violence as well as people remember that a year ago, after violent attacks on refugees on Lesvos, none of the perpetrators have been brought to justice\.
@@ -114,7 +114,7 @@ In response to the outcry that the cage\-like conditions are degrading and inhum
 18 people arrived to the Tremiti island Capraia\. The people were from Iraq, and there were children among them\. There is no sign of where their boat disappeared after they landed\. Two of the children have health problems; one of them is paraplegic and the other appears to be ill\. They are receiving some levels of support\. The full story is available here [in Italian](http://www.foggiatoday.it/cronaca/sbarco-migranti-isole-tremiti-gargano-foggia.html) \. With the location of the islands \(far up Italy’s boot and on the Adriatic\), although it is impossible to confirm at this point, it would appear that this group came via Albania\.
 
 
-![Location of the Island where the people were found](assets/1260a3fb331c/1*PAGPuU7rTHHwEkLPCPdSTw.png)
+![Location of the Island where the people were found](../assets/1260a3fb331c/1*PAGPuU7rTHHwEkLPCPdSTw.png)
 
 Location of the Island where the people were found
 

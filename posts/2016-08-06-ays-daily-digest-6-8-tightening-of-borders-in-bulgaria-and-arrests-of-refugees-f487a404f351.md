@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 6/8: Tightening of borders in Bulgaria and arrests of refugees
+title: "AYS Daily Digest 6/8: Tightening of borders in Bulgaria and arrests of refugees"
 author: Are You Syrious?
 date: 2016-08-06T23:46:08.560+0100
 last_modified_at: 2016-08-07T10:51:46.485+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,yusra-mardini,olympics,refugee-team]
 description: Yusra Mardini is a hero of the day. She came first in women 100m butterly at the Olympics in Rio. Some future Olympic winners are maybe…
 image:
-  path: assets/f487a404f351/1*0j-tsHlgqCpc_qx-6yk-ug.jpeg
+  path: ../assets/f487a404f351/1*0j-tsHlgqCpc_qx-6yk-ug.jpeg
 ---
 
 ### AYS Daily Digest 6/8: Tightening of borders in Bulgaria and arrests of refugees
@@ -15,7 +15,7 @@ image:
 _Yusra Mardini is a hero of the day\. She came first in women 100m butterly at the Olympics in Rio\. Some future Olympic winners are maybe arrested or stranded inside the European rules and borders, that are becoming even more strict\. Police officer hurt in fight in Chios\. Joint action between three countries to arrest human traffickers\. Warning from Serbia — uncertain autumn and winter are coming_
 
 
-![Yustra Mardini — The golden girl\. Photo Olympics\.](assets/f487a404f351/1*0j-tsHlgqCpc_qx-6yk-ug.jpeg)
+![Yustra Mardini — The golden girl\. Photo Olympics\.](../assets/f487a404f351/1*0j-tsHlgqCpc_qx-6yk-ug.jpeg)
 
 Yustra Mardini — The golden girl\. Photo Olympics\.
 ### Go girl\!
@@ -68,7 +68,7 @@ Eco Project is working on a creation of a “day camp” that will have the scho
 They also visited refugees living in the military field of Elefsina, more than 300 Afghans\. They live in large rooms, and have no privacy, school, or any daily activities\. On their short tour, they also encounter people living in ship by the road\. To all of these places, they came with the smile and open heart, and they will continue touring\.
 
 
-![Photo by Cntaminando Sorisas\.](assets/f487a404f351/1*JaboD4I1fYiYQksvUfY8Kg.jpeg)
+![Photo by Cntaminando Sorisas\.](../assets/f487a404f351/1*JaboD4I1fYiYQksvUfY8Kg.jpeg)
 
 Photo by Cntaminando Sorisas\.
 
@@ -149,7 +149,7 @@ Number of refugees arriving to Belgrade is still increasing\. According to the [
 The same organisation is looking for for a Farsi/Pashtu/Urdu translator — cultural mediator\. If you have a speaking knowledge of these languages \(one or more\) and want to join a dynamic, young team of great humanitarian workers based in Belgrade, please contact them for more details
 
 
-![Photo by Miksaliste\. Lunch time in Miksaliste daily center\.](assets/f487a404f351/1*8Y1i4jgRCe39TcFsENpWdA.jpeg)
+![Photo by Miksaliste\. Lunch time in Miksaliste daily center\.](../assets/f487a404f351/1*8Y1i4jgRCe39TcFsENpWdA.jpeg)
 
 Photo by Miksaliste\. Lunch time in Miksaliste daily center\.
 ### New structures at the border with Hungary
@@ -163,7 +163,7 @@ However, to continue with good work, they need help\. Please visit their website
 Also, if you have a building project you would like to see realised on the Balkan route or Greece then please get in contact with The Timber Project team at [thetimberproject@gmail\.com](mailto:thetimberproject@gmail.com) \.
 
 
-![Photo by Timber project team\.](assets/f487a404f351/1*WnsoC2D9TS6uQaGVljkY3A.jpeg)
+![Photo by Timber project team\.](../assets/f487a404f351/1*WnsoC2D9TS6uQaGVljkY3A.jpeg)
 
 Photo by Timber project team\.
 #### Bulgaria
@@ -208,7 +208,7 @@ They are, police believe, part of a trans\-national criminal group of Pakistani 
 Radio NoBorder is at Como where about 400 people are stuck on their way to Swiss\. They established a post for cellular recharge\. They will soon start to broadcast\. Follow them online at radionoborder\.net
 
 
-![Photo by NoBorder\.](assets/f487a404f351/1*zCysW3tzz_9qzNkHk0pvjw.jpeg)
+![Photo by NoBorder\.](../assets/f487a404f351/1*zCysW3tzz_9qzNkHk0pvjw.jpeg)
 
 Photo by NoBorder\.
 #### General

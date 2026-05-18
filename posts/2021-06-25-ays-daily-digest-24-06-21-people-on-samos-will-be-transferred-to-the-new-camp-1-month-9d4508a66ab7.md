@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [greece,refugees,immigration,digest,human-rights]
 description: EU considering giving Turkey 3.5 billion euro to host refugees // more on pushbacks in Serbia and Croatia // arrests in Italy // and more…
 image:
-  path: assets/9d4508a66ab7/0*T_xPI2v4G1x3FEVh.jpeg
+  path: ../assets/9d4508a66ab7/0*T_xPI2v4G1x3FEVh.jpeg
 ---
 
 ### AYS Daily Digest 24/06/21 People on Samos will be transferred to the new camp < 1 month
@@ -16,7 +16,7 @@ _EU considering giving Turkey 3\.5 billion euro to host refugees // more on push
 ### FEATURE: People on Samos will be transferred to the new camp, Zervou MPRIC, “in less than 1 month”
 
 
-![Outside the RIC Photo by [Jannis Papadimitriou](https://www.infomigrants.net/fr/post/13800/the-camp-outside-the-camp)](assets/9d4508a66ab7/0*T_xPI2v4G1x3FEVh.jpeg)
+![Outside the RIC Photo by [Jannis Papadimitriou](https://www.infomigrants.net/fr/post/13800/the-camp-outside-the-camp)](../assets/9d4508a66ab7/0*T_xPI2v4G1x3FEVh.jpeg)
 
 Outside the RIC Photo by [Jannis Papadimitriou](https://www.infomigrants.net/fr/post/13800/the-camp-outside-the-camp)
 
@@ -117,7 +117,7 @@ On Thursday, [UNHCR](https://www.unhcr.org/news/press/2021/6/60d4a2c14/un-agenci
 While over 4000 people relocated out of the hellish camps in Greece is appreciated, almost [3,500 people](https://data2.unhcr.org/en/situations/mediterranean/location/5179?fbclid=IwAR1YCaz3W2OhbXMU_yku94Waz6kt-4K8c_cHkja7u3V3txVMgkV7_9toSco) have already arrived in Greece so far in 2021\. The relocation scheme as currently operating is simply not enough\.
 
 
-![Outside the RIC Photo by [Jannis Papadimitriou](https://www.infomigrants.net/fr/post/13800/the-camp-outside-the-camp)](assets/9d4508a66ab7/0*T_xPI2v4G1x3FEVh.jpeg)
+![Outside the RIC Photo by [Jannis Papadimitriou](https://www.infomigrants.net/fr/post/13800/the-camp-outside-the-camp)](../assets/9d4508a66ab7/0*T_xPI2v4G1x3FEVh.jpeg)
 
 Outside the RIC Photo by [Jannis Papadimitriou](https://www.infomigrants.net/fr/post/13800/the-camp-outside-the-camp)
 
@@ -167,26 +167,26 @@ Info Migrants reports — “ _A 38\-year\-old Serbian citizen was arrested on t
 #### SERBIA
 
 
-![“Sid\. Chain pushbacks are a daily practice according to\. From Slovenia, persons returned to Croatia, and then from Croatia with excessive use of force to Serbia or BiH\. In addition to the beatings, the Croatian police are returning people to Serbia without shoes\. Sometimes they take off all their clothes, except the laundry\. and so they push them back” Photo and Info by [Azil u Srbiji Asylum Protection in Serbia](https://twitter.com/APC_CZA/status/1408052538436468739)](assets/9d4508a66ab7/0*3WNN63sx6B0xV6HT)
+![“Sid\. Chain pushbacks are a daily practice according to\. From Slovenia, persons returned to Croatia, and then from Croatia with excessive use of force to Serbia or BiH\. In addition to the beatings, the Croatian police are returning people to Serbia without shoes\. Sometimes they take off all their clothes, except the laundry\. and so they push them back” Photo and Info by [Azil u Srbiji Asylum Protection in Serbia](https://twitter.com/APC_CZA/status/1408052538436468739)](../assets/9d4508a66ab7/0*3WNN63sx6B0xV6HT)
 
 “Sid\. Chain pushbacks are a daily practice according to\. From Slovenia, persons returned to Croatia, and then from Croatia with excessive use of force to Serbia or BiH\. In addition to the beatings, the Croatian police are returning people to Serbia without shoes\. Sometimes they take off all their clothes, except the laundry\. and so they push them back” Photo and Info by [Azil u Srbiji Asylum Protection in Serbia](https://twitter.com/APC_CZA/status/1408052538436468739)
 
 Job Opportunity with the Workshop Belgrade listed [here](https://www.theworkshopbelgrade.org/job-opportunities?fbclid=IwAR0O2BJu_zM5z7MoSaEb4afE-MaWDsn31LQiBuJMJl2C4Crnfxvfzq6dZXw) \! Help them on a new project to provide education and language lessons\.
 
 
-![](assets/9d4508a66ab7/1*fLTAZUfn48Ti3YN4_GgkYg.jpeg)
+![](../assets/9d4508a66ab7/1*fLTAZUfn48Ti3YN4_GgkYg.jpeg)
 
 
 
-![](assets/9d4508a66ab7/1*ja2Lk6BAzaK5lcFjLOT0oQ.png)
+![](../assets/9d4508a66ab7/1*ja2Lk6BAzaK5lcFjLOT0oQ.png)
 
 
 
-![](assets/9d4508a66ab7/1*PiwDO_Up3pjcrqK94mUdWA.png)
+![](../assets/9d4508a66ab7/1*PiwDO_Up3pjcrqK94mUdWA.png)
 
 
 
-![Photos by [Klikaktiv — Centar za razvoj socijalnih politika](https://www.facebook.com/klikaktiv/posts/4372414152820171)](assets/9d4508a66ab7/1*8ud45WjPgNo7QlMAVnzVWg.jpeg)
+![Photos by [Klikaktiv — Centar za razvoj socijalnih politika](https://www.facebook.com/klikaktiv/posts/4372414152820171)](../assets/9d4508a66ab7/1*8ud45WjPgNo7QlMAVnzVWg.jpeg)
 
 Photos by [Klikaktiv — Centar za razvoj socijalnih politika](https://www.facebook.com/klikaktiv/posts/4372414152820171)
 #### CROATIA

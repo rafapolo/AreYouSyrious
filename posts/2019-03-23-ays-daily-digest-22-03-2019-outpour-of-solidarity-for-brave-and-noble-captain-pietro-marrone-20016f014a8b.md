@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 22/03/2019: Outpour of Solidarity For Brave and Noble Captain — Pietro Marrone
+title: "AYS Daily Digest 22/03/2019: Outpour of Solidarity For Brave and Noble Captain — Pietro Marrone"
 author: Are You Syrious?
 date: 2019-03-23T10:53:38.390+0000
 last_modified_at: 2019-03-23T11:49:40.111+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe]
 description: 70,000 Arrests made in Morocco in 2018// Protesters in Libya facing torture for over 2 weeks// Refugees in Greece may soon be kicked out…
 image:
-  path: assets/20016f014a8b/1*_t3geWCVfikR78j26Udn5A.jpeg
+  path: ../assets/20016f014a8b/1*_t3geWCVfikR78j26Udn5A.jpeg
 ---
 
 ### AYS Daily Digest 22/03/2019: Outpour of Solidarity For Brave and Noble Captain — Pietro Marrone
 #### 70,000 Arrests made in Morocco in 2018// Protesters in Libya facing torture for over 2 weeks// Refugees in Greece may soon be kicked out of subsidized housing// Man dies in Fire in Italy// And more news from Spain, Malta, Germany and France
 
 
-![](assets/20016f014a8b/1*Tx1u1RSutf5fWmPbOOmJVA.jpeg)
+![](../assets/20016f014a8b/1*Tx1u1RSutf5fWmPbOOmJVA.jpeg)
 
 
 [Are You Syrious?](https://medium.com/@AreYouSyrious)
@@ -22,7 +22,7 @@ image:
 Mar 23
 
 
-![Open the Ports — [Iasonas Apostolopoulos](https://www.facebook.com/iasonas.apos?__tn__=%2CdCH-R-R&eid=ARDSTRbh1WMT7mP16VTOf3XRkWPqPdRnnaMzpDOEXp2OZDg2Hbl1azKm04VVMb74US60kEDoR8VKcqMM&hc_ref=ARRcum45q8Ni9XcTSctdntlGUO_m579phhLDVz1S62tCqFbkLffhjaNq1n03bKHGJU0&fref=nf)](assets/20016f014a8b/1*_t3geWCVfikR78j26Udn5A.jpeg)
+![Open the Ports — [Iasonas Apostolopoulos](https://www.facebook.com/iasonas.apos?__tn__=%2CdCH-R-R&eid=ARDSTRbh1WMT7mP16VTOf3XRkWPqPdRnnaMzpDOEXp2OZDg2Hbl1azKm04VVMb74US60kEDoR8VKcqMM&hc_ref=ARRcum45q8Ni9XcTSctdntlGUO_m579phhLDVz1S62tCqFbkLffhjaNq1n03bKHGJU0&fref=nf)](../assets/20016f014a8b/1*_t3geWCVfikR78j26Udn5A.jpeg)
 
 Open the Ports — [Iasonas Apostolopoulos](https://www.facebook.com/iasonas.apos?__tn__=%2CdCH-R-R&eid=ARDSTRbh1WMT7mP16VTOf3XRkWPqPdRnnaMzpDOEXp2OZDg2Hbl1azKm04VVMb74US60kEDoR8VKcqMM&hc_ref=ARRcum45q8Ni9XcTSctdntlGUO_m579phhLDVz1S62tCqFbkLffhjaNq1n03bKHGJU0&fref=nf)
 #### Feature:
@@ -32,7 +32,7 @@ Messages of support have been spreading for the captain Pietro Marrone of Mare J
 On the way back to Italy, \(12 miles\) from Lampedusa, the military police ordered Pietro Marone to stop the vessel, which had 70 people on board, and turn off the engines\. However, at the time the sea was extremely rough with 3 meter waves, and the captain refused to follow these orders, in the fear that it would bring the ship into a critical situation endangering the lives of everyone on board\. A truly heroic and noble decision\.
 
 
-![[Iasonas Apostolopoulos](https://www.facebook.com/iasonas.apos?__tn__=%2CdCH-R-R&eid=ARDSTRbh1WMT7mP16VTOf3XRkWPqPdRnnaMzpDOEXp2OZDg2Hbl1azKm04VVMb74US60kEDoR8VKcqMM&hc_ref=ARRcum45q8Ni9XcTSctdntlGUO_m579phhLDVz1S62tCqFbkLffhjaNq1n03bKHGJU0&fref=nf)](assets/20016f014a8b/1*cqAXHciQ2Iqei6j8OktHCA.jpeg)
+![[Iasonas Apostolopoulos](https://www.facebook.com/iasonas.apos?__tn__=%2CdCH-R-R&eid=ARDSTRbh1WMT7mP16VTOf3XRkWPqPdRnnaMzpDOEXp2OZDg2Hbl1azKm04VVMb74US60kEDoR8VKcqMM&hc_ref=ARRcum45q8Ni9XcTSctdntlGUO_m579phhLDVz1S62tCqFbkLffhjaNq1n03bKHGJU0&fref=nf)](../assets/20016f014a8b/1*cqAXHciQ2Iqei6j8OktHCA.jpeg)
 
 [Iasonas Apostolopoulos](https://www.facebook.com/iasonas.apos?__tn__=%2CdCH-R-R&eid=ARDSTRbh1WMT7mP16VTOf3XRkWPqPdRnnaMzpDOEXp2OZDg2Hbl1azKm04VVMb74US60kEDoR8VKcqMM&hc_ref=ARRcum45q8Ni9XcTSctdntlGUO_m579phhLDVz1S62tCqFbkLffhjaNq1n03bKHGJU0&fref=nf)
 
@@ -191,7 +191,7 @@ The young man left his country after being subject to horrific torture practices
 A 32 year old man has died from a fire that broke out this morning in the new tent city of San Ferdinando\. The man was transferred to the facility on the seventh of March, around two weeks ago\. The cause of the fire remains unclear\.
 
 
-![Source: [MEDU — Medici per i Diritti Umani](https://www.facebook.com/MEDUonlus/?__tn__=%2CdkCH-R-R&eid=ARBwmfM3ziMCJmMx1hS_BWCFXt60_DryIbqrXrCUtVdkwPVtZb0ZCzKFLIu81v3caSIG7odxy3B6XVRU&hc_ref=ARQAZlJryAxE_VsajT22vNmigT77JFds7sZq2DoDxFIDOjZEktjoAhVB4KKWuJ54oC8&fref=nf)](assets/20016f014a8b/0*q8plNJVUY6kdVHtq)
+![Source: [MEDU — Medici per i Diritti Umani](https://www.facebook.com/MEDUonlus/?__tn__=%2CdkCH-R-R&eid=ARBwmfM3ziMCJmMx1hS_BWCFXt60_DryIbqrXrCUtVdkwPVtZb0ZCzKFLIu81v3caSIG7odxy3B6XVRU&hc_ref=ARQAZlJryAxE_VsajT22vNmigT77JFds7sZq2DoDxFIDOjZEktjoAhVB4KKWuJ54oC8&fref=nf)](../assets/20016f014a8b/0*q8plNJVUY6kdVHtq)
 
 Source: [MEDU — Medici per i Diritti Umani](https://www.facebook.com/MEDUonlus/?__tn__=%2CdkCH-R-R&eid=ARBwmfM3ziMCJmMx1hS_BWCFXt60_DryIbqrXrCUtVdkwPVtZb0ZCzKFLIu81v3caSIG7odxy3B6XVRU&hc_ref=ARQAZlJryAxE_VsajT22vNmigT77JFds7sZq2DoDxFIDOjZEktjoAhVB4KKWuJ54oC8&fref=nf)
 #### MALTA
@@ -208,7 +208,7 @@ People who are granted refugee status have reported discrimination and disrespec
 A demonstration in Spain yesterday against the detainment of Proactiva Open Arms and other Search and Rescue
 
 
-![](assets/20016f014a8b/0*cVYVqTk4h2vLfHnK)
+![](../assets/20016f014a8b/0*cVYVqTk4h2vLfHnK)
 
 #### GERMANY
 
@@ -242,7 +242,7 @@ Care 4 Calais reports that police have increased their efforts to make life diff
 A very nicely written letter to Frontex :\- \) enjoy \!
 
 
-![](assets/20016f014a8b/0*YtAI9Pk1EP9ONXeO)
+![](../assets/20016f014a8b/0*YtAI9Pk1EP9ONXeO)
 
 
 **Apart from daily news in English, we also publish weekly summaries in [Arabic](%D9%85%D8%B9-%D8%B2%D9%8A%D8%A7%D8%AF%D8%A9-%D8%B9%D8%AF%D8%AF-%D8%A7%D9%84%D9%88%D8%A7%D9%81%D8%AF%D9%8A%D9%86-%D8%A5%D9%84%D9%89-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D9%8A%D8%B1%D8%AA%D9%81%D8%B9-%D8%B9%D8%AF%D8%AF-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D8%B1%D8%AF-%D8%A3%D9%8A%D8%B6%D9%8B%D8%A7-f20d1e8f3229) and [Persian](%D8%A8%D8%A7-%D9%88%D8%B1%D9%88%D8%AF-%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1-%D8%A8%D9%87-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF-%D8%A7%D8%AE%D8%B1%D8%A7%D8%AC-%D9%87%D8%A7-%D9%86%DB%8C%D8%B2-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%85%DB%8C-%DB%8C%D8%A7%D8%A8%D8%AF-5d4e3d41c7f6) \. Click on those links to check out the ones about the week from the 11th to the 17th of March\.**

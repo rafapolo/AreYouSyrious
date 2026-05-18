@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 6/6/2019- Libya: Between hell and hell
+title: "AYS Daily Digest 6/6/2019- Libya: Between hell and hell"
 author: Are You Syrious?
 date: 2019-06-07T12:08:17.330+0100
 last_modified_at: 2019-06-07T12:59:33.176+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,libya,matteo-salvini,discrimination]
 description: Discrimination in service provision could now be legal in Greece /// Investigations on Italian interior ministry launched /// Violence in…
 image:
-  path: assets/410aacc869b2/1*XoGOZESY9qGPrJJAa3Upbg.jpeg
+  path: ../assets/410aacc869b2/1*XoGOZESY9qGPrJJAa3Upbg.jpeg
 ---
 
 ### AYS Daily Digest 6/6/2019\- Libya: Between hell and hell
@@ -15,7 +15,7 @@ image:
 Discrimination in Service Provision Could Now Be Legal in Greece /// Investigations on Italian Interior Ministry Launched /// Violence in Miral Camp in Bosnia /// Updates on the Eviction of Lilles’ ‘5 Stars’ Squat /// Reports of Abuses in Obrenovac Center in Serbia
 
 
-![[By Agim Sulaj / Art Against](https://www.facebook.com/artagainstproject/photos/a.639651369417634/2236695069713248/?type=3&theater)](assets/410aacc869b2/1*XoGOZESY9qGPrJJAa3Upbg.jpeg)
+![[By Agim Sulaj / Art Against](https://www.facebook.com/artagainstproject/photos/a.639651369417634/2236695069713248/?type=3&theater)](../assets/410aacc869b2/1*XoGOZESY9qGPrJJAa3Upbg.jpeg)
 
 [By Agim Sulaj / Art Against](https://www.facebook.com/artagainstproject/photos/a.639651369417634/2236695069713248/?type=3&theater)
 #### FEATURE STORY: Libya \- Between Hell and Hell: Deaths at Seas and in Detention, Arrests at the Border and Forced Returns

@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 10/12/21: How the pushbacks affect real lives — a child dies in a border river
+title: "AYS News Digest 10/12/21: How the pushbacks affect real lives — a child dies in a border river"
 author: Are You Syrious?
 date: 2021-12-11T19:23:59.835+0000
 last_modified_at: 2021-12-11T21:07:12.367+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,croatia,borders,europe,belarus]
 description: death at the border / Syrians in Belarus — open letter / Homeless asylum seekers in Belgium / Hungary ignores court decisions (again) /…
 image:
-  path: assets/ec7028264272/1*LYzBnK9p1no39a9O46godA.jpeg
+  path: ../assets/ec7028264272/1*LYzBnK9p1no39a9O46godA.jpeg
 ---
 
 ### AYS News Digest 10/12/21: How the pushbacks affect real lives — a child dies in a border river
 #### Death at the border / Syrians in Belarus — open letter / Homeless asylum seekers in Belgium / Hungary ignores court decisions \(again\) / SAR updates / Recommended reading and watching material for your weekend & more
 
 
-![Search for the little Kurdish girl who lost her life in river Dragonja, Istria area, between Croatia and Slovenia \(Photo: PU Istarska\)](assets/ec7028264272/1*LYzBnK9p1no39a9O46godA.jpeg)
+![Search for the little Kurdish girl who lost her life in river Dragonja, Istria area, between Croatia and Slovenia \(Photo: PU Istarska\)](../assets/ec7028264272/1*LYzBnK9p1no39a9O46godA.jpeg)
 
 Search for the little Kurdish girl who lost her life in river Dragonja, Istria area, between Croatia and Slovenia \(Photo: PU Istarska\)
 
@@ -92,7 +92,7 @@ We agree with our friends from Info Kolpa in underlining what is most important:
 We have been asked by the activists helping in the area and by those representing the many people stuck in Belarus and fleeing for a number of reasons, to share the letter they wrote this week, addressed to organisations with any to significant power to do something about their situation, and to the international community\. We share it in full and their version:
 
 
-![](assets/ec7028264272/1*cBvsEgNcrcf0x3xwD7InNQ.jpeg)
+![](../assets/ec7028264272/1*cBvsEgNcrcf0x3xwD7InNQ.jpeg)
 
 #### SEA
 ### Seebrücke report from the Atlantic
@@ -150,15 +150,15 @@ This hasn't happened.
 #### Human rights in Greece?
 
 
-![](assets/ec7028264272/1*qAgulevQIj1owxBvwc4zuw.jpeg)
+![](../assets/ec7028264272/1*qAgulevQIj1owxBvwc4zuw.jpeg)
 
 
 
-![](assets/ec7028264272/1*OXBoAzAuSZsywpOghDBY4Q.jpeg)
+![](../assets/ec7028264272/1*OXBoAzAuSZsywpOghDBY4Q.jpeg)
 
 
 
-![\(Photo Credit: [Moria Corona Awareness Team](https://www.facebook.com/MoriaWhiteHelmets/posts/458494945793570) \)](assets/ec7028264272/1*uSkgRzLstTW2sMlEIGzm9A.jpeg)
+![\(Photo Credit: [Moria Corona Awareness Team](https://www.facebook.com/MoriaWhiteHelmets/posts/458494945793570) \)](../assets/ec7028264272/1*uSkgRzLstTW2sMlEIGzm9A.jpeg)
 
 \(Photo Credit: [Moria Corona Awareness Team](https://www.facebook.com/MoriaWhiteHelmets/posts/458494945793570) \)
 

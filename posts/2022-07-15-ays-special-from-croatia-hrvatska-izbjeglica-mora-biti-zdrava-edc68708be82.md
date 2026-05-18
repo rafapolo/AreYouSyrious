@@ -1,5 +1,5 @@
 ---
-title: AYS Special from Croatia— Hrvatska: Izbjeglica mora biti zdrava!
+title: "AYS Special from Croatia— Hrvatska: Izbjeglica mora biti zdrava!"
 author: Are You Syrious?
 date: 2022-07-15T21:36:59.062+0100
 last_modified_at: 2022-07-15T21:36:59.062+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [special,croatia,refugees,healthcare,europe]
 description: Osobe koje su u Hrvatskoj ostvarile međunarodnu zaštitu svakodnevno se susreću s preprekama pri ostvarivanju prava na primarnu zdravstvenu…
 image:
-  path: assets/edc68708be82/0*ERDnUyDEI_Y4UPPW
+  path: ../assets/edc68708be82/0*ERDnUyDEI_Y4UPPW
 ---
 
 ### AYS Special from Croatia— Hrvatska: **Izbjeglica mora biti zdrava\!**
 #### Osobe koje su u Hrvatskoj ostvarile međunarodnu zaštitu svakodnevno se susreću s preprekama pri ostvarivanju prava na primarnu zdravstvenu zaštitu — prava koje im je zakonom zagarantirano\. Razlog tome je birokratske prirode…
 
 
-![](assets/edc68708be82/0*ERDnUyDEI_Y4UPPW)
+![](../assets/edc68708be82/0*ERDnUyDEI_Y4UPPW)
 
 ### Zanemareni u sustavu koji to nije
 
@@ -31,7 +31,7 @@ U praksi to znači da:
 Upravo zbog neinformiranosti liječnika i izrazito kompliciranje procedure koja ih primorava da na kraju mjeseca dostavljaju račune Ministarstvu Zdravstva zbog refundacije troškova, velik broj liječnika odbija primiti pacijente koji imaju status međunarodne zaštite\.
 
 
-![Ministarstvo zdravstva RH](assets/edc68708be82/0*UbOyqUAFQU-eX9IL.jpg)
+![Ministarstvo zdravstva RH](../assets/edc68708be82/0*UbOyqUAFQU-eX9IL.jpg)
 
 Ministarstvo zdravstva RH
 
@@ -42,7 +42,7 @@ Nakon bezbrojnih odbijanja i preporuke da se u hitnim slučajevima dijete može 
 Roditelji, Sirijske izbjeglice, u Hrvatsku su došli procesom preseljenja iz Turske, a jedan od razloga zašto su **odlučili doći u Hrvatsku je upravo zato što** **u Turskoj obitelj nije mogla ostvariti adekvatnu zdravstvenu zaštitu** , budući da kao izbjeglice na nju nisu imali pravo\. Iako u Hrvatskoj uživaju pravo na zdravstvenu zaštitu, ostvarivanje prava pokazalo se izrazito teškim\.
 
 
-![](assets/edc68708be82/0*8S7hr4jwjSBAcFtW)
+![](../assets/edc68708be82/0*8S7hr4jwjSBAcFtW)
 
 ### Izostavljanje i neinformiranje liječnika
 
@@ -53,7 +53,7 @@ Tome kako sustav ne štiti one najranjivije svjedoči i priča mlade majke i nje
 Iako je pronašla pedijatricu koja je pristala upisati dijete, pedijatrica je, neznajući proceduru, majci sugerirala da dijete registrira u Zavodu za zdravstveno osiguranje jer ga bez matičnog broja osiguranika ne može upisati u sustav\.
 
 
-![](assets/edc68708be82/0*Jqbac9NwD-WBxmd1)
+![](../assets/edc68708be82/0*Jqbac9NwD-WBxmd1)
 
 
 Nakon što smo razgovarali s pedijatricom i objasnili joj proceduru — pojavio se sljedeći problem\. Jedan od dokumenata potrebnih kako bi osobe pod međunarodnom zaštitom ostvarile pravo na zdravstvenu zaštitu je kopija dozvole boravka\. S obzirom na to da se radilo o novorođenčetu, majka je čekala službeno priznavanje azila djetetu, nakon kojeg može podnijeti zahtjev za izdavanje iskaznice\.

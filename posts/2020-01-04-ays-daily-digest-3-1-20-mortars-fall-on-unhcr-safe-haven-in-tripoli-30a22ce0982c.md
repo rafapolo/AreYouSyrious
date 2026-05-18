@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 3/1/20: Mortars fall on UNHCR “safe haven” in Tripoli
+title: "AYS Daily Digest 3/1/20: Mortars fall on UNHCR “safe haven” in Tripoli"
 author: Are You Syrious?
 date: 2020-01-04T01:45:40.721+0000
 last_modified_at: 2020-01-04T10:21:58.689+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,lybia,unhcr,asylum-seekers,digest]
 description: In the GDF centre, people are deliberately starved as UNHCR tries to make them leave / 25,000–50,000 refugees expected to flee Lybia to…
 image:
-  path: assets/30a22ce0982c/1*WERrV5mHpeV4iGg8G4OfyQ.png
+  path: ../assets/30a22ce0982c/1*WERrV5mHpeV4iGg8G4OfyQ.png
 ---
 
 ### AYS Daily Digest 3/1/20: Mortars fall on UNHCR “safe haven” in Tripoli
 #### In the GDF centre, people are deliberately starved as UNHCR tries to make them leave / 25,000–50,000 refugees expected to flee Libya to Tunisia, new border camp announced / Up to 15 people drowned off Turkish coast / Greece publishes a list of 12 safe countries to deport people / Following months of local solidarity, Pomozi\.ba to host migrants in near Tuzla
 
 
-![The mortar attack at the site happened on the day of memorial of the deadly airstrike on Tajura detention center, when at least 53 people were killed in the airstrike and 130 were injured\. Photo: [Sally Hayden](https://twitter.com/sallyhayd)](assets/30a22ce0982c/1*WERrV5mHpeV4iGg8G4OfyQ.png)
+![The mortar attack at the site happened on the day of memorial of the deadly airstrike on Tajura detention center, when at least 53 people were killed in the airstrike and 130 were injured\. Photo: [Sally Hayden](https://twitter.com/sallyhayd)](../assets/30a22ce0982c/1*WERrV5mHpeV4iGg8G4OfyQ.png)
 
 The mortar attack at the site happened on the day of memorial of the deadly airstrike on Tajura detention center, when at least 53 people were killed in the airstrike and 130 were injured\. Photo: [Sally Hayden](https://twitter.com/sallyhayd)
 ### UNHCR staff evacuated, people left on site
@@ -31,7 +31,7 @@ According to witnesses at the UNHCR Gathering and Departure Facility \(GDF\) in 
 Following their usual protocol in such cases, UNHCR have evacuated the site immediately, leaving people to return at their own risk\.
 
 
-![Snapshot of the chaotic evacuation of the GDF\. Photo: Sally Hayden](assets/30a22ce0982c/1*amO8dXo2SRrq2MZ1hAb3hw.png)
+![Snapshot of the chaotic evacuation of the GDF\. Photo: Sally Hayden](../assets/30a22ce0982c/1*amO8dXo2SRrq2MZ1hAb3hw.png)
 
 Snapshot of the chaotic evacuation of the GDF\. Photo: Sally Hayden
 ### They got $6 million, but won’t feed people?
@@ -49,7 +49,7 @@ The official capacity of the facility is 600, but it hosts up to 1100 people\. I
 In late October, many people including the most vulnerable families were told by the UNHCR officials there are no spots for them in the reallocation scheme and were asked to leave the GDF\.
 
 
-![Families protesting rejections from UNHCR in front of the GDF in Tripoli\. Photo: Sally Hayden](assets/30a22ce0982c/1*Z44--hgSc6V15iQRr83oRw.jpeg)
+![Families protesting rejections from UNHCR in front of the GDF in Tripoli\. Photo: Sally Hayden](../assets/30a22ce0982c/1*Z44--hgSc6V15iQRr83oRw.jpeg)
 
 Families protesting rejections from UNHCR in front of the GDF in Tripoli\. Photo: Sally Hayden
 ### Mortar attack marks semi\-anniversary of the Tajoura tragedy
@@ -72,7 +72,7 @@ The governor of Tataouine, Adel Al\-Warghi said that the border area of ​​Bi
 ### Up to 15 people drowned off Turkish coast
 
 
-![The boat was heading towards Rhodes\. Nationalities of deceased are not revealed\. Photo: ABR](assets/30a22ce0982c/1*TQfWqnxaI1RvpEj9jhB0Wg.jpeg)
+![The boat was heading towards Rhodes\. Nationalities of deceased are not revealed\. Photo: ABR](../assets/30a22ce0982c/1*TQfWqnxaI1RvpEj9jhB0Wg.jpeg)
 
 The boat was heading towards Rhodes\. Nationalities of deceased are not revealed\. Photo: ABR
 
@@ -108,7 +108,7 @@ AlarmPhone has published a list of death and forced disappearances witnessed by 
 
 
 
-![Families still mourn those who dissapeared in the sea\. Photo: AlarmPhone](assets/30a22ce0982c/1*0fOPGkQn-TjtCx6_RCSdhg.png)
+![Families still mourn those who dissapeared in the sea\. Photo: AlarmPhone](../assets/30a22ce0982c/1*0fOPGkQn-TjtCx6_RCSdhg.png)
 
 Families still mourn those who dissapeared in the sea\. Photo: AlarmPhone
 #### Bosnia
@@ -125,7 +125,7 @@ Bosnian NGO Pomozi\.ba confirmed they will be supporting migrants in a new facil
 Pomozi\.ba has been distributing thousands of meals to refugees in Ušivak and Blažuj camps, where people evicted from Vučjak camp have been transferred\. The distribution in the camps is supported by EU funding\.
 
 
-![Distribution in one of the camps where people from Vučjak have been transferred\. Photo: Pomozi\.ba](assets/30a22ce0982c/1*yV3HCNRwqT8PzoT-SOUmew.jpeg)
+![Distribution in one of the camps where people from Vučjak have been transferred\. Photo: Pomozi\.ba](../assets/30a22ce0982c/1*yV3HCNRwqT8PzoT-SOUmew.jpeg)
 
 Distribution in one of the camps where people from Vučjak have been transferred\. Photo: Pomozi\.ba
 #### Serbia
@@ -142,7 +142,7 @@ As temperatures fall below zero degrees celsius, people in Serbian camps are try
 A group of 42 people from Sub\-Saharan Africa, including 26 women and two small children, appeared at Chafarinas Islands this morning, trying to find refuge in Europe\. Against international laws and conventions, members of the Spanish Civil Guard collectivelly expelled them back to Morocco\. According to [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/) , upon arrival to Morocco, women and children were put on buses and brought back, even deeper into Morrocan territory, while men were put in detention\.
 
 
-![They asked for protection, only to be returned back to Morocco\. Photo: [Helena Maleno Garzón](https://www.facebook.com/helena.malenogarzon?__tn__=%2CdCH-R-R&eid=ARAhaih_gS7F5ZKj_deVl1QhRmSID-yBxGcY9hIVmPt5oeI036AJRFRmtI5aNFkHOigQG1rzqvH-RJVP&hc_ref=ARQ6fB6zA7IMRtpIlbLzpT3aVZ6ixN75ZuDQbtStuF7uTUN87N4PQ5wKlL0URSgjrQ4&fref=nf&hc_location=group)](assets/30a22ce0982c/1*R34E3DT8v_952d4cTskOIw.jpeg)
+![They asked for protection, only to be returned back to Morocco\. Photo: [Helena Maleno Garzón](https://www.facebook.com/helena.malenogarzon?__tn__=%2CdCH-R-R&eid=ARAhaih_gS7F5ZKj_deVl1QhRmSID-yBxGcY9hIVmPt5oeI036AJRFRmtI5aNFkHOigQG1rzqvH-RJVP&hc_ref=ARQ6fB6zA7IMRtpIlbLzpT3aVZ6ixN75ZuDQbtStuF7uTUN87N4PQ5wKlL0URSgjrQ4&fref=nf&hc_location=group)](../assets/30a22ce0982c/1*R34E3DT8v_952d4cTskOIw.jpeg)
 
 They asked for protection, only to be returned back to Morocco\. Photo: [Helena Maleno Garzón](https://www.facebook.com/helena.malenogarzon?__tn__=%2CdCH-R-R&eid=ARAhaih_gS7F5ZKj_deVl1QhRmSID-yBxGcY9hIVmPt5oeI036AJRFRmtI5aNFkHOigQG1rzqvH-RJVP&hc_ref=ARQ6fB6zA7IMRtpIlbLzpT3aVZ6ixN75ZuDQbtStuF7uTUN87N4PQ5wKlL0URSgjrQ4&fref=nf&hc_location=group)
 

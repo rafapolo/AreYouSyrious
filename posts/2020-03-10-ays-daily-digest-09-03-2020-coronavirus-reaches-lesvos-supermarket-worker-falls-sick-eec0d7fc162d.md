@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,covid-19,coronavirus,lesvos]
 description: Xenophobic Rally Held in Belgrade This Weekend///Spain’s Government to Send More Police to Greece///More Information on German Fascists…
 image:
-  path: assets/eec0d7fc162d/0*N5kpkuL0rfP9ZJXh
+  path: ../assets/eec0d7fc162d/0*N5kpkuL0rfP9ZJXh
 ---
 
 ### AYS Daily Digest 09/03/2020 — Coronavirus Reaches Lesvos, Supermarket Worker Falls Ill
 #### Xenophobic Rally Held in Belgrade This Weekend/// Spain’s Government to Send More Police to Greece/// More Information on German Fascists Traveling to Greece/// & More
 
 
-![Mytilene hospital\. Source: [Politischios](https://www.politischios.gr/ygeia/epibebaionetai-krousma-koronoiou-ste-lesbo?fbclid=IwAR3-TWRqBeHcyjByU-I1C_tYtNmrPKxD3bq7qvYf3XCFDtDRmmUicbFhDC4)](assets/eec0d7fc162d/0*N5kpkuL0rfP9ZJXh)
+![Mytilene hospital\. Source: [Politischios](https://www.politischios.gr/ygeia/epibebaionetai-krousma-koronoiou-ste-lesbo?fbclid=IwAR3-TWRqBeHcyjByU-I1C_tYtNmrPKxD3bq7qvYf3XCFDtDRmmUicbFhDC4)](../assets/eec0d7fc162d/0*N5kpkuL0rfP9ZJXh)
 
 Mytilene hospital\. Source: [Politischios](https://www.politischios.gr/ygeia/epibebaionetai-krousma-koronoiou-ste-lesbo?fbclid=IwAR3-TWRqBeHcyjByU-I1C_tYtNmrPKxD3bq7qvYf3XCFDtDRmmUicbFhDC4)
 
@@ -41,14 +41,14 @@ Volunteers and solidarity workers are advised to be careful who they give interv
 There will be another solidarity march in Mytilene, Lesvos this Saturday at 11am\. More information can be found [here](https://enoughisenough14.org/2020/03/09/lesvos-call-for-march-14-no-to-the-requisition-of-lesvos-by-fascists-no-to-fear-and-shame/?fbclid=IwAR3dXdKCG_IbKpuZ3NCd1D2Oxtr5ShndGNJTwmcu-dshC1sV_GR9JDbeYc0) \.
 
 
-![poster, originally from the Lesvos Solidarity [Facebook page](https://www.facebook.com/pikpalesvos/posts/2587370428205039)](assets/eec0d7fc162d/0*cMm3XvsT_ygQ8k1I.jpg)
+![poster, originally from the Lesvos Solidarity [Facebook page](https://www.facebook.com/pikpalesvos/posts/2587370428205039)](../assets/eec0d7fc162d/0*cMm3XvsT_ygQ8k1I.jpg)
 
 poster, originally from the Lesvos Solidarity [Facebook page](https://www.facebook.com/pikpalesvos/posts/2587370428205039)
 
 The Aegean Boat Report for the week of March 2nd was released [here](https://www.facebook.com/AegeanBoatReport/posts/786449121878194?hc_location=ufi&comment_id=Y29tbWVudDoyNDQ0NDA3OTM5MTA5ODk4XzI0NDQ4Mzg2MDU3MzM0OTg%3D) \. The Greek government has not been counting March arrivals, probably due to the shutdown of asylum registrations, so we are reliant on independent sources for information more than ever\.
 
 
-![](assets/eec0d7fc162d/0*khOOyxlIzvfj5HjQ)
+![](../assets/eec0d7fc162d/0*khOOyxlIzvfj5HjQ)
 
 
 SERBIA

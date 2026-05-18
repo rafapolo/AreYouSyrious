@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 10–11/8/19: Civilian ships continue rescues with hundreds stranded on board
+title: "AYS Weekend Digest 10–11/8/19: Civilian ships continue rescues with hundreds stranded on board"
 author: Are You Syrious?
 date: 2019-08-12T10:23:02.743+0100
 last_modified_at: 2019-08-12T10:23:02.743+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,sea-rescue,digest,human-rights,migration]
 description: Hundreds of new arrivals on Aegean islands // Women and children’s center attacked on Lesvos // Police raids threaten refugees in Athens //…
 image:
-  path: assets/cc011c109ebe/0*47wZfUVxCrPf2csT.jpeg
+  path: ../assets/cc011c109ebe/0*47wZfUVxCrPf2csT.jpeg
 ---
 
 ### AYS Weekend Digest 10–11/8/19: Civilian ships continue rescues with hundreds stranded on board
@@ -15,11 +15,11 @@ image:
 _Hundreds of new arrivals on Aegean islands // Women and children’s center attacked on Lesvos // Police raids threaten refugees in Athens // Anti\-refugee paramilitary groups in Croatia and Slovenia // Terror attack against Mosque in Oslo // Iraqis lose residency under tightening Danish asylum laws // and more…_
 
 
-![](assets/cc011c109ebe/0*UI3ZHDb8j0zHyo37)
+![](../assets/cc011c109ebe/0*UI3ZHDb8j0zHyo37)
 
 
 
-![](assets/cc011c109ebe/0*47wZfUVxCrPf2csT.jpeg)
+![](../assets/cc011c109ebe/0*47wZfUVxCrPf2csT.jpeg)
 
 
 Brothers sitting outside of a refugee camp, Greece\. Photo Credit: [Gabriel Tizon](https://www.facebook.com/gabrieltizonfotografo/?__tn__=%2CdkCH-R-R&eid=ARCbeD9-IZto5GbHN1VAi7Tnc23iIz26Wok9GB8rORzkqWDLcI5GWf26J2R9vH6jylr5QmrT50dufgNb&hc_ref=ARSsjQqHjWVHCrMcNNLjuXifJlKnCChIA5WAuyGyvCeBjV3VpN4Wx6Ka21iwX5NOmwM&fref=nf&hc_location=group)
@@ -268,21 +268,21 @@ On Saturday afternoon, volunteers working with [Utopia 56 in Calais](http://utop
 
 
 
-![](assets/cc011c109ebe/0*2iZgH0IZehq_KEkH)
+![](../assets/cc011c109ebe/0*2iZgH0IZehq_KEkH)
 
 
 
-![](assets/cc011c109ebe/0*NWb6AukbGWVz8oq_.jpeg)
+![](../assets/cc011c109ebe/0*NWb6AukbGWVz8oq_.jpeg)
 
 
 The spiked corks as they were found on the road\. Photo credit: [Utopia56 Calais](https://www.facebook.com/Utopia56-Calais-258099198180444/?__tn__=%2CdkCH-R-R&eid=ARByUsWK_eZPbJwZBRPYs52eDO3CcytWxkaVFV8qoKkpROXtX-tZmMWi4bqFSZFWDa99mQlOqXz3CAug&hc_ref=ARTOwkcNRhFQ0v5ix-_VyIj1QOa9eI07SYZ2uy7-_Be3qe5ffPErX6eFWk0HSRebxJk&fref=nf&hc_location=group)
 
 
-![](assets/cc011c109ebe/0*w8tvWVPSoFALzoUT)
+![](../assets/cc011c109ebe/0*w8tvWVPSoFALzoUT)
 
 
 
-![](assets/cc011c109ebe/0*LFcwx3UyeZWRFBqE.jpeg)
+![](../assets/cc011c109ebe/0*LFcwx3UyeZWRFBqE.jpeg)
 
 
 Photo Credit: [Utopia56 Calais](https://www.facebook.com/Utopia56-Calais-258099198180444/?__tn__=%2CdkCH-R-R&eid=ARByUsWK_eZPbJwZBRPYs52eDO3CcytWxkaVFV8qoKkpROXtX-tZmMWi4bqFSZFWDa99mQlOqXz3CAug&hc_ref=ARTOwkcNRhFQ0v5ix-_VyIj1QOa9eI07SYZ2uy7-_Be3qe5ffPErX6eFWk0HSRebxJk&fref=nf&hc_location=group)

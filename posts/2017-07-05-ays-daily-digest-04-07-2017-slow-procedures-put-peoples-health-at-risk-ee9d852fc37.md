@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 04/07/17: Slow procedures endangering people’s health
+title: "AYS Daily Digest 04/07/17: Slow procedures endangering people’s health"
 author: Are You Syrious?
 date: 2017-07-05T01:01:00.262+0100
 last_modified_at: 2017-07-06T14:50:12.958+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,chios,unhcr,moria,gorizia]
 description: Residents of Chios’ Souda camp unable to leave island despite permits / Water shortage situations improve / False rumours of border opening…
 image:
-  path: assets/ee9d852fc37/1*cq1yPOI9eThjY5Ypgn0n9g.jpeg
+  path: ../assets/ee9d852fc37/1*cq1yPOI9eThjY5Ypgn0n9g.jpeg
 ---
 
 ### AYS Daily Digest 04/07/17: Slow procedures endangering people’s health
@@ -15,7 +15,7 @@ image:
 _Residents of Chios’ Souda camp unable to leave island despite permits / Water shortage situations improve / False rumours of border opening in Croatia / Hungary uses electric fences / Interior ministers take wrong measures, says HRW / New ‘Jungle’ in Dunkirk / And more news…_
 
 
-![Residents of Moria wait for their interview\. \(Photo by [مهاجر immigrant](https://www.facebook.com/riadh04/) \)](assets/ee9d852fc37/1*cq1yPOI9eThjY5Ypgn0n9g.jpeg)
+![Residents of Moria wait for their interview\. \(Photo by [مهاجر immigrant](https://www.facebook.com/riadh04/) \)](../assets/ee9d852fc37/1*cq1yPOI9eThjY5Ypgn0n9g.jpeg)
 
 Residents of Moria wait for their interview\. \(Photo by [مهاجر immigrant](https://www.facebook.com/riadh04/) \)
 ### FEATURE: Hell on Chios
@@ -44,7 +44,7 @@ It furthermore seems to be very hard to find accommodation on Chios, as people a
 At the end, volunteers are reporting that the UN is not allowing single men use a service they run that operates buses between camps, forcing some men to walk for hours to go to Vial for an interview\. Despite a number of complaints over time, the UN has done nothing to change this practice\.
 
 
-![Two of the family’s tents\. \(Photo by [Jenny](https://www.facebook.com/jenny.kali.1/posts/1699284260085754?pnref=story) \)](assets/ee9d852fc37/1*oWUHf8PqdW2OR4sprIVJCQ.jpeg)
+![Two of the family’s tents\. \(Photo by [Jenny](https://www.facebook.com/jenny.kali.1/posts/1699284260085754?pnref=story) \)](../assets/ee9d852fc37/1*oWUHf8PqdW2OR4sprIVJCQ.jpeg)
 
 Two of the family’s tents\. \(Photo by [Jenny](https://www.facebook.com/jenny.kali.1/posts/1699284260085754?pnref=story) \)
 ### GREECE
@@ -57,7 +57,7 @@ Meanwhile, the residents of Moria camp on Lesbos have finished their fifth, resp
 21 people on Lesbos were registered as new arrivals today\.
 
 
-![The situation around the hotspots is still miserable, but Europe turns a blind eye towards it\. \(Photo by [Arash Hampay](https://www.facebook.com/arashampay) \)](assets/ee9d852fc37/1*QAI7_v7TV-Z3w701jQ9Jqg.jpeg)
+![The situation around the hotspots is still miserable, but Europe turns a blind eye towards it\. \(Photo by [Arash Hampay](https://www.facebook.com/arashampay) \)](../assets/ee9d852fc37/1*QAI7_v7TV-Z3w701jQ9Jqg.jpeg)
 
 The situation around the hotspots is still miserable, but Europe turns a blind eye towards it\. \(Photo by [Arash Hampay](https://www.facebook.com/arashampay) \)
 
@@ -142,7 +142,7 @@ MSF ship _Vos Prudence_ [got stuck](http://palermo.gds.it/2017/07/04/migranti-na
 The ship headed to international waters that evening, MSF announced\. The NGO accused the port authorities of stalling the vessel as a show of force\. Italian politicians recently threatened to stop allowing rescue ships enter their harbours anymore if Italy fails to receive more support in taking in new arrivals\.
 
 
-![The _Prudence_ is at sea again\. \(Photo by [MSF Sea](https://twitter.com/msf_sea?lang=de) \)](assets/ee9d852fc37/1*h1YQBXGzqRTK7mHnyJrP6w.jpeg)
+![The _Prudence_ is at sea again\. \(Photo by [MSF Sea](https://twitter.com/msf_sea?lang=de) \)](../assets/ee9d852fc37/1*h1YQBXGzqRTK7mHnyJrP6w.jpeg)
 
 The _Prudence_ is at sea again\. \(Photo by [MSF Sea](https://twitter.com/msf_sea?lang=de) \)
 #### Austrian populists prepare for elections
@@ -166,7 +166,7 @@ An estimated 400–500 people are sleeping rough in Dunkirk’s forests\. Even t
 Food is being provided daily but other essential aid such as clothes, sleeping bags, tents, and hygiene products are not being distributed very regularly, and when they are it is only in small amounts, a volunteer reports\. To make the life of those living in the forest at least a little bit easier, blankets are especially in need at the moment\.
 
 
-![The new Dunkirk ‘Jungle\.’ \(Photo by Kelvin B\)](assets/ee9d852fc37/1*XhaLZB3jhhLRPx1KpTdLyQ.jpeg)
+![The new Dunkirk ‘Jungle\.’ \(Photo by Kelvin B\)](../assets/ee9d852fc37/1*XhaLZB3jhhLRPx1KpTdLyQ.jpeg)
 
 The new Dunkirk ‘Jungle\.’ \(Photo by Kelvin B\)
 ### FINLAND

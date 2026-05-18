@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 2/3/20: A child dies off the coast of Lesvos
+title: "AYS Daily Digest 2/3/20: A child dies off the coast of Lesvos"
 author: Are You Syrious?
 date: 2020-03-03T11:27:29.365+0000
 last_modified_at: 2020-03-03T12:51:09.535+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,turkey,greece,refugees,europe]
 description: Updates from Greece and the Greek-Turkish border; Locals respond with more violence in Lesvos // EU countries send more defense to borders…
 image:
-  path: assets/ef1d0ff4de14/1*Fv6ecKe-FUD5gSp2aRjiFg.jpeg
+  path: ../assets/ef1d0ff4de14/1*Fv6ecKe-FUD5gSp2aRjiFg.jpeg
 ---
 
 ### AYS Daily Digest 2/3/20: A child dies off the coast of Lesvos
 #### _Updates from Greece and the Greek\-Turkish border; Locals respond with more violence on Lesvos // EU countries send more defense to borders // Bulgarian pushbacks // Belgrade locals targeting refugees // A surge of arrivals in Tuzla, Bosnia and Herzegovina // and more…_
 
 
-![Taken on Saturday, these are people waiting between the Pazarkule border gate, Edirne, Turkey, and the Kastanies border gate, Evros\. Photo by [Picture\-alliance](https://www.infomigrants.net/en/post/23109/amid-escalating-violence-what-s-the-situation-for-migrants-on-the-greek-turkish-border)](assets/ef1d0ff4de14/1*Fv6ecKe-FUD5gSp2aRjiFg.jpeg)
+![Taken on Saturday, these are people waiting between the Pazarkule border gate, Edirne, Turkey, and the Kastanies border gate, Evros\. Photo by [Picture\-alliance](https://www.infomigrants.net/en/post/23109/amid-escalating-violence-what-s-the-situation-for-migrants-on-the-greek-turkish-border)](../assets/ef1d0ff4de14/1*Fv6ecKe-FUD5gSp2aRjiFg.jpeg)
 
 Taken on Saturday, these are people waiting between the Pazarkule border gate, Edirne, Turkey, and the Kastanies border gate, Evros\. Photo by [Picture\-alliance](https://www.infomigrants.net/en/post/23109/amid-escalating-violence-what-s-the-situation-for-migrants-on-the-greek-turkish-border)
 #### FEATURE: MONDAY’S UPDATES ON THE GREEK — TURKISH BORDER
@@ -30,7 +30,7 @@ The sad truth is, Alan Kurdi was not a lone example\. There have been many littl
 The video below was sent [to Sky News by the Turkish Coast Guard](https://twitter.com/Stone_SkyNews/status/1234454621818703873) and shows the Greek Coast Guard using long spears against a dinghy and also firing in front of the boat into the water\. They say it was taken at 07:26 Monday morning:
 
 
-[![Greek coastguard filmed stopping migrants coming ashore](assets/ef1d0ff4de14/b55c_hqdefault.jpg "Greek coastguard filmed stopping migrants coming ashore")](https://www.youtube.com/watch?v=w8BdEHtBWp4)
+[![Greek coastguard filmed stopping migrants coming ashore](../assets/ef1d0ff4de14/b55c_hqdefault.jpg "Greek coastguard filmed stopping migrants coming ashore")](https://www.youtube.com/watch?v=w8BdEHtBWp4)
 
 
 In response, Alarm Phone lamented: _“These images of the Greek coastguard trying to deter & capsize migrant boats are sickening\. Out in the open a war is carried out against people in distress at sea\. We condemn these criminal activities that will lead to further deaths if not immediately stopped\.”_
@@ -98,7 +98,7 @@ Update: There are reports of nearly 500 new arrivals being detained in the ferry
 
 
 ![Photo by Mare Liberum e\.V\.
-[@teammareliberum](http://twitter.com/teammareliberum)](assets/ef1d0ff4de14/1*Cd0WotZnmCQFCcQMIVQIag.jpeg)
+[@teammareliberum](http://twitter.com/teammareliberum)](../assets/ef1d0ff4de14/1*Cd0WotZnmCQFCcQMIVQIag.jpeg)
 
 Photo by Mare Liberum e\.V\.
 [@teammareliberum](http://twitter.com/teammareliberum)
@@ -108,7 +108,7 @@ Aegean Boat Report reported late on Monday evening that: _“So far today at lea
 Lesvos had two boats, where two children were taken to hospital and **one child sadly passed away** ; Chios had 1 boat, which included 20 children; Oinousses had 1 boat, in a very difficult area where they will be helicoptered out first thing in the morning; Leros had 2 boats; Farmakonisi had 3 boats; Strongyli had 1 boat\.
 
 
-![Photo by [ABR](https://www.facebook.com/AegeanBoatReport/photos/a.285312485325196/781681625688277/?type=3&theater)](assets/ef1d0ff4de14/1*JA64_om_vxt2famImT4q1Q.jpeg)
+![Photo by [ABR](https://www.facebook.com/AegeanBoatReport/photos/a.285312485325196/781681625688277/?type=3&theater)](../assets/ef1d0ff4de14/1*JA64_om_vxt2famImT4q1Q.jpeg)
 
 Photo by [ABR](https://www.facebook.com/AegeanBoatReport/photos/a.285312485325196/781681625688277/?type=3&theater)
 
@@ -156,7 +156,7 @@ Their main point addresses: _“Xenophobia, racism and their normalization must 
 
 
 ![“Between 500 and 600 people are marching in solidarity with \#RefugeesGR in \#Leipzig, \#Germany at the moment\. \- \#antireport \#Lesvos \#Evros — Image by 
-[@strassenstriche](http://twitter.com/strassenstriche) ” From [Enough14](https://twitter.com/enough14?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)](assets/ef1d0ff4de14/1*Rvqpeh-Y1D8Lvy1QwaXeAQ.jpeg)
+[@strassenstriche](http://twitter.com/strassenstriche) ” From [Enough14](https://twitter.com/enough14?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)](../assets/ef1d0ff4de14/1*Rvqpeh-Y1D8Lvy1QwaXeAQ.jpeg)
 
 “Between 500 and 600 people are marching in solidarity with \#RefugeesGR in \#Leipzig, \#Germany at the moment\. \- \#antireport \#Lesvos \#Evros — Image by 
 [@strassenstriche](http://twitter.com/strassenstriche) ” From [Enough14](https://twitter.com/enough14?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
@@ -172,7 +172,7 @@ To Charles Michel, president of the European Council, Ursula von der Leyen, pres
 
 
 
-![From an ANTIFA protests on Lesvos on Sunday; in solidarity with those in Evros\. Photo by [Souidos](https://twitter.com/Souidos/status/1234163932069269506?fbclid=IwAR20ccWhCBbcTNTPk1utEUEfOgNFJxH0N53hH_iEXorhU35AH8Uh0E0TwG0)](assets/ef1d0ff4de14/1*SrjVBXrGdUpQX_TqQBzoIQ.jpeg)
+![From an ANTIFA protests on Lesvos on Sunday; in solidarity with those in Evros\. Photo by [Souidos](https://twitter.com/Souidos/status/1234163932069269506?fbclid=IwAR20ccWhCBbcTNTPk1utEUEfOgNFJxH0N53hH_iEXorhU35AH8Uh0E0TwG0)](../assets/ef1d0ff4de14/1*SrjVBXrGdUpQX_TqQBzoIQ.jpeg)
 
 From an ANTIFA protests on Lesvos on Sunday; in solidarity with those in Evros\. Photo by [Souidos](https://twitter.com/Souidos/status/1234163932069269506?fbclid=IwAR20ccWhCBbcTNTPk1utEUEfOgNFJxH0N53hH_iEXorhU35AH8Uh0E0TwG0)
 
@@ -234,45 +234,45 @@ Following the recent developments in Belgrade, a group of civilians calling them
 During the day more than 200 new people arrived, among them were two families with seven children, followed by about 150 more people in the afternoon\. The two non\-working days in a row \(due to the Independence Day\) will surely take their toll on the situation in the city\.
 
 
-![](assets/ef1d0ff4de14/1*38CnumLBe6XwoTSKCBvk-g.jpeg)
+![](../assets/ef1d0ff4de14/1*38CnumLBe6XwoTSKCBvk-g.jpeg)
 
 
 
-![Photographed by local volunteers during their evening visit to provide blankets to those who have nothing to sleep on](assets/ef1d0ff4de14/1*_4nVcyzkNJsERZqEA2480A.jpeg)
+![Photographed by local volunteers during their evening visit to provide blankets to those who have nothing to sleep on](../assets/ef1d0ff4de14/1*_4nVcyzkNJsERZqEA2480A.jpeg)
 
 Photographed by local volunteers during their evening visit to provide blankets to those who have nothing to sleep on
 
 There is a multitude of people with barely anything needed for survival — no proper clothes, shelter, amenities, food or anything of the kind\. Along with the locals, individuals and groups who continue assisting people in transit, during the day the police assisted in making the distribution and assistance possible, given the conditions and the number of people\.
 
 
-![](assets/ef1d0ff4de14/1*3UEfpQNswoz2YU-LwvGN0g.jpeg)
+![](../assets/ef1d0ff4de14/1*3UEfpQNswoz2YU-LwvGN0g.jpeg)
 
 
 
-![](assets/ef1d0ff4de14/1*ZwZRCagJ55GM1MtRvyqjUQ.jpeg)
+![](../assets/ef1d0ff4de14/1*ZwZRCagJ55GM1MtRvyqjUQ.jpeg)
 
 
 There is a growing number of unaccompanied minors who are not treated any differently than the rest of the people\. The officials, both those of the city and the heads of the Canton, have so far done nothing to alleviate the troubles and difficulties the people are in, or to help their own citizens in dealing with what is becoming an unsurmountable number of issues, from the health problems, sleep deprivation and poor psychological state of most of the people passing through, to the desperation of those with no place to lay their head and those who have been coming back from the north of the country after a number of failed attempts to cross the border and continue, having been beaten up and robbed of their few possessions\.
 
 
-![](assets/ef1d0ff4de14/1*ed5EEBuq0oyldkPCDbKDCQ.jpeg)
+![](../assets/ef1d0ff4de14/1*ed5EEBuq0oyldkPCDbKDCQ.jpeg)
 
 
 
-![](assets/ef1d0ff4de14/1*lZGriPXWGNWrfVag8csjgg.jpeg)
+![](../assets/ef1d0ff4de14/1*lZGriPXWGNWrfVag8csjgg.jpeg)
 
 
 
-![](assets/ef1d0ff4de14/1*we5seIVc5HQU3YbI8L4Spg.jpeg)
+![](../assets/ef1d0ff4de14/1*we5seIVc5HQU3YbI8L4Spg.jpeg)
 
 
 
-![](assets/ef1d0ff4de14/1*r2tZeaIURu3Ad6kYZpV_WQ.jpeg)
+![](../assets/ef1d0ff4de14/1*r2tZeaIURu3Ad6kYZpV_WQ.jpeg)
 
 #### SWEDEN
 
 
-![WE PROTEST\(ED\) IN SEVEN CITIES \-🚩🚩🚩 SAVE HUMAN RIGHTS — AGAINST SWEDEN BREAKING AGAINST HUMAN RIGHTS AND expelling people who fled, with compulsion to the war in Afghanistan\. The deadliest country in the world, for the second year in a row\. According to new report by UN UNAMA 21 Febr 2020\. \(Many of the protests happened on Monday, one is scheduled for Tuesday\. \) Photo by [Look at Sweden Now](https://www.facebook.com/LookAtSwedenNow/photos/gm.873593733083380/147632540061054/?type=3&theater)](assets/ef1d0ff4de14/1*Sj1vhcDy_X2FUKRBXtTDaw.jpeg)
+![WE PROTEST\(ED\) IN SEVEN CITIES \-🚩🚩🚩 SAVE HUMAN RIGHTS — AGAINST SWEDEN BREAKING AGAINST HUMAN RIGHTS AND expelling people who fled, with compulsion to the war in Afghanistan\. The deadliest country in the world, for the second year in a row\. According to new report by UN UNAMA 21 Febr 2020\. \(Many of the protests happened on Monday, one is scheduled for Tuesday\. \) Photo by [Look at Sweden Now](https://www.facebook.com/LookAtSwedenNow/photos/gm.873593733083380/147632540061054/?type=3&theater)](../assets/ef1d0ff4de14/1*Sj1vhcDy_X2FUKRBXtTDaw.jpeg)
 
 WE PROTEST\(ED\) IN SEVEN CITIES \-🚩🚩🚩 SAVE HUMAN RIGHTS — AGAINST SWEDEN BREAKING AGAINST HUMAN RIGHTS AND expelling people who fled, with compulsion to the war in Afghanistan\. The deadliest country in the world, for the second year in a row\. According to new report by UN UNAMA 21 Febr 2020\. \(Many of the protests happened on Monday, one is scheduled for Tuesday\. \) Photo by [Look at Sweden Now](https://www.facebook.com/LookAtSwedenNow/photos/gm.873593733083380/147632540061054/?type=3&theater)
 #### FINLAND
@@ -281,7 +281,7 @@ WE PROTEST\(ED\) IN SEVEN CITIES \-🚩🚩🚩 SAVE HUMAN RIGHTS — AGAINST SW
 #### UK
 
 
-![Photo by Kathy of [@gunsofbrixton\_](https://twitter.com/gunsofbrixton_)](assets/ef1d0ff4de14/1*Piu_qONbJH8-mQ7sbYGt3g.png)
+![Photo by Kathy of [@gunsofbrixton\_](https://twitter.com/gunsofbrixton_)](../assets/ef1d0ff4de14/1*Piu_qONbJH8-mQ7sbYGt3g.png)
 
 Photo by Kathy of [@gunsofbrixton\_](https://twitter.com/gunsofbrixton_)
 

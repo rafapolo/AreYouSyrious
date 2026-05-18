@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 01/11/2022: Limbo at Sea as safe ports refused by Italy and Malta Unacceptable…
+title: "AYS News Digest 01/11/2022: Limbo at Sea as safe ports refused by Italy and Malta Unacceptable…"
 author: Are You Syrious?
 date: 2022-11-02T12:24:26.635+0000
 last_modified_at: 2022-11-02T12:29:24.918+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,united-kingdom,italy,malta,refugees]
 description: Unacceptable overcrowding at Manston detention facility in the UK, and Channel Crossing put in Perspective // Pushback of 110 people…
 image:
-  path: assets/9b06c8812614/0*fO4RIGQiBycBBdAe.jpeg
+  path: ../assets/9b06c8812614/0*fO4RIGQiBycBBdAe.jpeg
 ---
 
 ### AYS News Digest 01/11/2022: Limbo at Sea as safe ports refused by Italy and Malta
@@ -16,7 +16,7 @@ image:
 #### Limbo at Sea — Safe ports in Italy and Malta being refused to NGO rescue ships
 
 
-![Credit: Max Cavallari / SOS Humanity](assets/9b06c8812614/0*fO4RIGQiBycBBdAe.jpeg)
+![Credit: Max Cavallari / SOS Humanity](../assets/9b06c8812614/0*fO4RIGQiBycBBdAe.jpeg)
 
 Credit: Max Cavallari / SOS Humanity
 
@@ -94,7 +94,7 @@ Read more below:
 #### Unacceptable conditions at Manston detention centre in Kent
 
 
-![Credit: SOAS Detainee Support](assets/9b06c8812614/0*LJh9asEDDuFNz2wi)
+![Credit: SOAS Detainee Support](../assets/9b06c8812614/0*LJh9asEDDuFNz2wi)
 
 Credit: SOAS Detainee Support
 
@@ -120,7 +120,7 @@ This is persecution. FREE THEM AND CLOSE IT DOWN. https://t.co/3lWbGQT5LB
 Following the petrol bombing of an asylum facility in Dover, 700 more people arrived at Manston on 31/10\. The BBC has reported that numbers have reached 4,000 people, whilst the official capacity is capped it 1,600\.
 
 
-![SOAS Detainee Support](assets/9b06c8812614/0*6w78dQSxAVFbDNvb)
+![SOAS Detainee Support](../assets/9b06c8812614/0*6w78dQSxAVFbDNvb)
 
 SOAS Detainee Support
 
@@ -166,12 +166,12 @@ More here from [_LBC_](https://www.lbc.co.uk/news/suella-braverman-ignored-advic
 Protest on Sunday 6th November at 2PM:
 
 
-![](assets/9b06c8812614/0*oxaJaFPNWRCXJPjN)
+![](../assets/9b06c8812614/0*oxaJaFPNWRCXJPjN)
 
 #### **Man attacks immigration facility with petrol bombs in Dover**
 
 
-![Credit: Reuters](assets/9b06c8812614/0*8t7UR3nI0K95fNsv)
+![Credit: Reuters](../assets/9b06c8812614/0*8t7UR3nI0K95fNsv)
 
 Credit: Reuters
 
@@ -188,7 +188,7 @@ _Freemovement_ has looked through the data on immigration to the UK, and illustr
 
 
 
-![](assets/9b06c8812614/0*S5EL8zdRuPyAgy49.jpeg)
+![](../assets/9b06c8812614/0*S5EL8zdRuPyAgy49.jpeg)
 
 
 
@@ -383,7 +383,7 @@ Iryna Vereshchuk, Ukraine’s deputy PM, said on Tuesday that, “to return now 
 In spite of warnings as to the war’s continuing impact, many Ukrainians remain undeterred in their desire to return\.
 
 
-![](assets/9b06c8812614/0*fRdElD151CI52vP0.jpeg)
+![](../assets/9b06c8812614/0*fRdElD151CI52vP0.jpeg)
 
 
 Over 7\.75 million Ukrainian refugees have been registered across Europe since Russia invaded Ukraine in February\. [A further 2\.9 million refugees have been recorded in Russia as of October 3, 2022\.](https://www.statista.com/statistics/1312584/ukrainian-refugees-by-country/?fbclid=IwAR3ydQH1oOLpKkIvcZmV_5wir1-Zr0m_TZtpoIZH6FqWm3Q_Oa6h8MufG6g)
@@ -420,7 +420,7 @@ More [here](https://euobserver.com/migration/156344?fbclid=IwAR0U-0yPFdFLBGhBIup
 #### ‘Possible abuses’ being investigated at Baanstee\-Noord emergency shelter, which opened less than a month ago on 5th October 2022
 
 
-![A tented camp for 450 asylum seekers in Purmerend\. Credit: Cees Hartman\.](assets/9b06c8812614/0*ZwdsPuRyBRNOxUYx.jpg)
+![A tented camp for 450 asylum seekers in Purmerend\. Credit: Cees Hartman\.](../assets/9b06c8812614/0*ZwdsPuRyBRNOxUYx.jpg)
 
 A tented camp for 450 asylum seekers in Purmerend\. Credit: Cees Hartman\.
 
@@ -433,7 +433,7 @@ Testimonies from residents and former staff at the emergency shelter on Baanstee
 This comes after reports of dire conditions this summer at the Ter Apel camp in the centre of the Netherlands, [which failed to meet EU standards according to a ruling by Dutch judges\.](https://globeecho.com/news/europe/germany/refugees-in-the-netherlands-eating-and-drinking-on-bare-ground/?fbclid=IwAR3HCOMxTpq43lZISadhs03gFKuGHGoXIV3zixDV2-Us59NQpUE51zBtJTg)
 
 
-![](assets/9b06c8812614/0*avEWAnazGv3lrsB-.jpg)
+![](../assets/9b06c8812614/0*avEWAnazGv3lrsB-.jpg)
 
 
 Reports of people eating, drinking and sleeping rough outside the camp have been attributed to a financial cuts by the Dutch refugee agency, with Martijn van der Linden stating that:
@@ -481,7 +481,7 @@ More here:
 #### Actively discouraging immigration through externalisation and hostile reception
 
 
-![](assets/9b06c8812614/1*IG-2Y2xhwoKweI6MVglVTA.png)
+![](../assets/9b06c8812614/1*IG-2Y2xhwoKweI6MVglVTA.png)
 
 
 Austria’s role in border externalisation policies has been documented in [this publication](https://www.transform-network.net/fileadmin/user_upload/epaper_at_the_heart_of_fortress_europe_final.pdf) , which notes:
@@ -558,7 +558,7 @@ The violent treatment surrounding people on the move is being extended to volunt
 #### Olympic Refuge Foundation and IOC Refugee Olympic Team receive the 2022 Princess of Asturias Award for sports
 
 
-![](assets/9b06c8812614/1*nK0Z54hBiYJsX4hJqheDkg.png)
+![](../assets/9b06c8812614/1*nK0Z54hBiYJsX4hJqheDkg.png)
 
 
 Founded in 1981, the Princess of Asturias Awards aim to foster [“scientific, cultural and humanistic values that form part of the universal heritage of humanity\.”](https://www.fpa.es/en/princess-of-asturias-awards/)
@@ -614,7 +614,7 @@ IOC President, Thomas Bach, said on receiving the award that:
 
 
 
-[![Europe's 'shadow army': Refugees forced to join gangs to patrol borders](assets/9b06c8812614/3db0_hqdefault.jpg "Europe's 'shadow army': Refugees forced to join gangs to patrol borders")](https://www.youtube.com/watch?v=Vx9F8ol3Ang)
+[![Europe's 'shadow army': Refugees forced to join gangs to patrol borders](../assets/9b06c8812614/3db0_hqdefault.jpg "Europe's 'shadow army': Refugees forced to join gangs to patrol borders")](https://www.youtube.com/watch?v=Vx9F8ol3Ang)
 
 - Brief informative and emotive piece on Lampedusa’s status as a “hotspot” for refugees rescued from surrounding waters
 

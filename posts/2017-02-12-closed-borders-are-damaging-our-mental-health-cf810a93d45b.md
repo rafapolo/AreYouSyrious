@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,babel-day-care-center,nikos-gionakis,athens]
 description: Nikos Gionakis from the Babel Day Care Center in Athens, with his team, has worked with refugees, migrants and volunteers for years. In…
 image:
-  path: assets/cf810a93d45b/1*lvjgWDRoDT0M9vA7ptTBRw.jpeg
+  path: ../assets/cf810a93d45b/1*lvjgWDRoDT0M9vA7ptTBRw.jpeg
 ---
 
 ### AYS SPECIAL: Closed borders are damaging our mental health
@@ -15,7 +15,7 @@ image:
 _The Babel Day Care Center team, has been worked with refugees, migrants and volunteers for years\. One of them is Nikos Gionakis who in the interview with for AYS warns about the conditions people are left to live in, conditions devoid of hope, and they urge for changes in order to save the world we are living in\._
 
 
-![](assets/cf810a93d45b/1*lvjgWDRoDT0M9vA7ptTBRw.jpeg)
+![](../assets/cf810a93d45b/1*lvjgWDRoDT0M9vA7ptTBRw.jpeg)
 
 
 _“Closed borders do affect mental health because they mean that people are cut out from hope\. If you have hope, you can move, you can accept to do sacrifices, for some time\.”_ This is the opinion of **_Nikos Gionakis_** , member of the the **_Babel Day Care Center_** team in Athens which has worked with refugees and migrants since 2007\.
@@ -23,7 +23,7 @@ _“Closed borders do affect mental health because they mean that people are cut
 With 30 years of experience in the field of mental health, including years on the “frontline” of the so\-called refugee crisis, Nikos is definitely the person who should be trusted when he says that closed borders are a danger for all of us\.
 
 
-![_Nikos Gionakis from the Babel Daily center works for over 30 years to help people over come trauma\. He claims condition refugees are forced to live in are inhumane and that it has to be changed\._](assets/cf810a93d45b/1*69e3uJdvWYepjmzbkIPAxQ.jpeg)
+![_Nikos Gionakis from the Babel Daily center works for over 30 years to help people over come trauma\. He claims condition refugees are forced to live in are inhumane and that it has to be changed\._](../assets/cf810a93d45b/1*69e3uJdvWYepjmzbkIPAxQ.jpeg)
 
 _Nikos Gionakis from the Babel Daily center works for over 30 years to help people over come trauma\. He claims condition refugees are forced to live in are inhumane and that it has to be changed\._
 
@@ -40,7 +40,7 @@ New phenomenon that rises out of the crisis is a volunteer movement comprised of
 _“Many of them were not used to work with people who lost their families in a shipwreck\. But, who is? I spoke with some of them who were telling me about how many boats used to come in one day, and how they could not manage it, how people were in a very bad conditions, and they did not know what or how to do\. The situation was very chaotic\. There was no coordination or anything and volunteers were overwhelmed\. Many people thought that they are there to rescue people who are victims, and if they do that, they will receive gratitude\. Instead they met with very angry and frustrated people, sometimes hostile, and they did not know how to manage the situation\. Some even felt it is something personal, and became angry, started shouting at refugees… They had good intentions, strong motivation, but no knowledge or skills in order to deal with the intense situation like that\. A big part of our job became to support people who are taking care of others\. If you want to take care of others, someone has to take care of you,”_ Nikos remembers\.
 
 
-![Everybody ho comes to the Babel daily center leaves something\. People who are working their are trying to give something to everybody, too\.](assets/cf810a93d45b/1*hwkQLgGcGG6ne9rHUKnfBA.jpeg)
+![Everybody ho comes to the Babel daily center leaves something\. People who are working their are trying to give something to everybody, too\.](../assets/cf810a93d45b/1*hwkQLgGcGG6ne9rHUKnfBA.jpeg)
 
 Everybody ho comes to the Babel daily center leaves something\. People who are working their are trying to give something to everybody, too\.
 
@@ -67,7 +67,7 @@ Based on the Babel daily work experience, the most vulnerable group among refuge
 The victimization affects mental health\. The solution, according to the Babel, is not offering short term psiho social support, but to create conditions in which people will feel not as a victims, but to make them active, help to integrate in societies they are living in\. Additionally, it is very important to tell to people clearly about what is their future in the way they understand\. But, it cannot be done in camps\. _“What ever we do here in the center, is destroyed when people go back\. Not only because of the living conditions, that are awful, but because of the meaning these conditions have\. They ask themselves all the time questions like do I deserve to live in such conditions?”_
 
 
-![This is a process, Nikos repeats several time\. “Slowly\-slowly” and the change will come is one of the main lessons the Babel staff learned\. However, they urge that the approach toward the refugee crisis to be changed\.](assets/cf810a93d45b/1*Av-X3AUyZYKIxILaXlWSFw.jpeg)
+![This is a process, Nikos repeats several time\. “Slowly\-slowly” and the change will come is one of the main lessons the Babel staff learned\. However, they urge that the approach toward the refugee crisis to be changed\.](../assets/cf810a93d45b/1*Av-X3AUyZYKIxILaXlWSFw.jpeg)
 
 This is a process, Nikos repeats several time\. “Slowly\-slowly” and the change will come is one of the main lessons the Babel staff learned\. However, they urge that the approach toward the refugee crisis to be changed\.
 
@@ -76,7 +76,7 @@ The number of recent suicides and suicide attempts among the refugee and migrant
 All this will leave consequences not only for the refugee and migrant population, but for all people, those being volunteers or just locals in countries where refugees are living, people who feel guilt because they cannot do anything to change the present situation\. What kind of consequences is impossible to say now, but professional in mental health do agree that we are facing a very dangerous situation\. The change with come, Nikos believe, from ourselves\. _“But it is the process\. We have to change our behavior and attitudes\. Otherwise, we cannot change the others\.”_
 
 
-![The Babel Day Care center in Athens, open for all those who need help\.](assets/cf810a93d45b/1*_5egPI3HmCJ6zpno8Q-tOw.jpeg)
+![The Babel Day Care center in Athens, open for all those who need help\.](../assets/cf810a93d45b/1*_5egPI3HmCJ6zpno8Q-tOw.jpeg)
 
 The Babel Day Care center in Athens, open for all those who need help\.
 

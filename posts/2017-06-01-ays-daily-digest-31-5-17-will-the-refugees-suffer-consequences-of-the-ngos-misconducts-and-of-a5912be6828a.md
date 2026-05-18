@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 31/5/17: (Will) the refugees suffer consequences of the NGOs’ misconducts and of…
+title: "AYS Daily Digest 31/5/17: (Will) the refugees suffer consequences of the NGOs’ misconducts and of…"
 author: Are You Syrious?
 date: 2017-06-01T02:07:13.767+0100
 last_modified_at: 2017-06-01T14:41:51.612+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,greece,humanitarian,germany,europe]
 description: NGO accused of exploiting the refugees and misuse of funds, refugees and volunteers worried / Bad news are rumoured for the families…
 image:
-  path: assets/a5912be6828a/1*b4sAn1RZfHsApnNQdtTkzQ.jpeg
+  path: ../assets/a5912be6828a/1*b4sAn1RZfHsApnNQdtTkzQ.jpeg
 ---
 
 ### AYS Daily Digest 31/5/17: \(Will\) the refugees suffer consequences of the NGOs’ misconducts and of common EU political decisions?
@@ -16,7 +16,7 @@ image:
 
 ![Kabul, Afganistan, 31 May 2017
 “A woman sits outside a hospital after a blast near diplomatic area of Kabul\. 80 people killed, more than 300 injured\. Meanwhile the EU continues the deportations of Afghan refugees and asylum seekers back to Afghanistan\.” \(By: Art Against\)
-Photograph by Mohammad Ismail](assets/a5912be6828a/1*b4sAn1RZfHsApnNQdtTkzQ.jpeg)
+Photograph by Mohammad Ismail](../assets/a5912be6828a/1*b4sAn1RZfHsApnNQdtTkzQ.jpeg)
 
 Kabul, Afganistan, 31 May 2017
 “A woman sits outside a hospital after a blast near diplomatic area of Kabul\. 80 people killed, more than 300 injured\. Meanwhile the EU continues the deportations of Afghan refugees and asylum seekers back to Afghanistan\.” \(By: Art Against\)
@@ -64,14 +64,14 @@ A large group of refugees with children is on the street now on Chios\.
 Samos shares a similar story with 2,243 people staying there, while the capacity is 986 people and the island Kos currently hosts 2,263 people and its official capacity is 1,170\.
 
 
-![](assets/a5912be6828a/1*cxrRFojAynrWGrE7J4V84g.jpeg)
+![](../assets/a5912be6828a/1*cxrRFojAynrWGrE7J4V84g.jpeg)
 
 
 
 ![“There is a group of refugees on the island of Chios who have no housing and no place to live\.
 The camp management in Vial told them to go look for a place for themselves and told them “we are not responsible for you“
 40 people, mostly children…
-**We need help on the island of Chios** ” \(Photos: [Alaa Hasan](https://www.facebook.com/ali.surveyor.7) \)](assets/a5912be6828a/1*8DzNjJ_kq2cKd6ucbWLevA.jpeg)
+**We need help on the island of Chios** ” \(Photos: [Alaa Hasan](https://www.facebook.com/ali.surveyor.7) \)](../assets/a5912be6828a/1*8DzNjJ_kq2cKd6ucbWLevA.jpeg)
 
 “There is a group of refugees on the island of Chios who have no housing and no place to live\.
 The camp management in Vial told them to go look for a place for themselves and told them “we are not responsible for you“
@@ -87,7 +87,7 @@ The first school term will start after the summer, in September, and **the last 
 Parents can go straight to the local school and fill in the paperwork\.
 
 
-![Infographic by: Greek Forum of Refugees](assets/a5912be6828a/1*cIgN5PkYHnWHB1wRl6Xhvg.jpeg)
+![Infographic by: Greek Forum of Refugees](../assets/a5912be6828a/1*cIgN5PkYHnWHB1wRl6Xhvg.jpeg)
 
 Infographic by: Greek Forum of Refugees
 ### What will happen with the families?
@@ -111,7 +111,7 @@ Only during the past week, 58 people perished in the Mediterranean trying to rea
 People who managed to arrived alive and safe have also [reported](https://www.thelocal.it/20170530/at-least-58-people-died-trying-to-reach-italy-last-week) being attacked at sea by armed men who stole everything they had, including the boat’s motor, while many were wounded by gun shots\.
 
 
-![Photo by: [SOS MEDITERRANEE](https://www.facebook.com/SOSMEDITERRANEE/)](assets/a5912be6828a/1*mhT4rOiEijnDXtbfoPPPTQ.jpeg)
+![Photo by: [SOS MEDITERRANEE](https://www.facebook.com/SOSMEDITERRANEE/)](../assets/a5912be6828a/1*mhT4rOiEijnDXtbfoPPPTQ.jpeg)
 
 Photo by: [SOS MEDITERRANEE](https://www.facebook.com/SOSMEDITERRANEE/)
 ### Young Africans from Lampedusa to be repatriated
@@ -119,11 +119,11 @@ Photo by: [SOS MEDITERRANEE](https://www.facebook.com/SOSMEDITERRANEE/)
 Some 20 North African boys have been transferred by plane to Palermo this morning in Lampedusa \. They had their wrists bond and they were escorted by two policemen per each of them\. They will most likely be shifted to Rome from Palermo and eventually repatriated, the local organizations claim\.
 
 
-![](assets/a5912be6828a/1*yhU_MmwZCcY9RgxEbwwkEg.jpeg)
+![](../assets/a5912be6828a/1*yhU_MmwZCcY9RgxEbwwkEg.jpeg)
 
 
 
-![Photos: [Mediterranean hope](https://www.facebook.com/Mediterranean-hope-252231521632595/)](assets/a5912be6828a/1*lxEMcDgd4cxthPbJ_Y62Aw.jpeg)
+![Photos: [Mediterranean hope](https://www.facebook.com/Mediterranean-hope-252231521632595/)](../assets/a5912be6828a/1*lxEMcDgd4cxthPbJ_Y62Aw.jpeg)
 
 Photos: [Mediterranean hope](https://www.facebook.com/Mediterranean-hope-252231521632595/)
 #### FRANCE
@@ -161,20 +161,20 @@ In a [second case](http://hudoc.echr.coe.int/eng?i=001-174223) related to anothe
 Another peaceful protest against the ongoing deportations from Austria to Afghanistan was held in Vienna\.
 
 
-![](assets/a5912be6828a/1*VzuEM81ZKtCnPNgIghHk9Q.jpeg)
+![](../assets/a5912be6828a/1*VzuEM81ZKtCnPNgIghHk9Q.jpeg)
 
 
 
-![Photos: [Christian Volek](https://www.facebook.com/christian.wendelin)](assets/a5912be6828a/1*CAdXEaYs6ZDubdBCjb0Blw.jpeg)
+![Photos: [Christian Volek](https://www.facebook.com/christian.wendelin)](../assets/a5912be6828a/1*CAdXEaYs6ZDubdBCjb0Blw.jpeg)
 
 Photos: [Christian Volek](https://www.facebook.com/christian.wendelin)
 
 
-![](assets/a5912be6828a/1*Smi5aVJekc2ydCVmU3iIhA.jpeg)
+![](../assets/a5912be6828a/1*Smi5aVJekc2ydCVmU3iIhA.jpeg)
 
 
 
-![Photos: [Christian Volek](https://www.facebook.com/christian.wendelin)](assets/a5912be6828a/1*YiOXN3Z68TQxgK62BFqh_g.jpeg)
+![Photos: [Christian Volek](https://www.facebook.com/christian.wendelin)](../assets/a5912be6828a/1*YiOXN3Z68TQxgK62BFqh_g.jpeg)
 
 Photos: [Christian Volek](https://www.facebook.com/christian.wendelin)
 #### GERMANY
@@ -187,14 +187,14 @@ Only hours after the deadly attack in Kabul, police came to a school in Nürnber
 The students of the school held a spontaneous demonstration and a sit\-in for their fellow student, a well integrated 20\-year old\. More and more people joined in according to reports of various German [media](http://www.sueddeutsche.de/bayern/nuernberg-geplante-abschiebung-loest-tumulte-an-berufsschule-aus-1.3529011) \. Around 300 people, including those who were passing by, joined the spontaneous solidarity protest\.
 
 
-![Photo: [Eisbrecher W\-tal](https://www.facebook.com/eisbrecherwuppertal/)](assets/a5912be6828a/1*Nxh8wntggnyh_cPztX_OHw.jpeg)
+![Photo: [Eisbrecher W\-tal](https://www.facebook.com/eisbrecherwuppertal/)](../assets/a5912be6828a/1*Nxh8wntggnyh_cPztX_OHw.jpeg)
 
 Photo: [Eisbrecher W\-tal](https://www.facebook.com/eisbrecherwuppertal/)
 
 [Reportedly,](http://www.sueddeutsche.de/bayern/franken-geplante-abschiebung-loest-tumulte-an-nuernberger-berufsschule-aus-1.3529011) the police later used pepper spray and arrested several people, saying it was necessary, although some political parties and organizations later criticized the police actions\. Videos of the circumstances [before the police intervention](https://www.youtube.com/watch?v=29e2kr7Ijxg) and the clash that happened afterwards can be watched online\.
 
 
-![Photo: [Eisbrecher W\-tal](https://www.facebook.com/eisbrecherwuppertal/)](assets/a5912be6828a/1*j_Jyq_O5JNVX4herZsm-fw.png)
+![Photo: [Eisbrecher W\-tal](https://www.facebook.com/eisbrecherwuppertal/)](../assets/a5912be6828a/1*j_Jyq_O5JNVX4herZsm-fw.png)
 
 Photo: [Eisbrecher W\-tal](https://www.facebook.com/eisbrecherwuppertal/)
 #### SWEDEN
@@ -212,7 +212,7 @@ The Migration Agencies’ decisions are not easy to follow or understand and the
 88% of all civilian casualties from explosive violence in Afghanistan so far this year have been caused by the explosive devices, [sources](http://mailchi.mp/aoav/afghanistan-sees-53-rise-in-civilian-casualties-from-explosive-violence-compared-to-first-5-months-of-2015?e=2f93d8fa53) claim\. Between 2011–2016 Afghanistan has seen 20,625 deaths and injuries from explosive violence\. Of these, 63% \(12,922\) were civilians\. Afghanistan has seen a 53% rise in civilian casualties from explosive violence, comparing to 2015\.
 
 
-![](assets/a5912be6828a/1*PLL57mDt4RmaKJ2IA_QazQ.png)
+![](../assets/a5912be6828a/1*PLL57mDt4RmaKJ2IA_QazQ.png)
 
 
 We strive for accuracy and fairness\. Please let us know if you spot partial or inaccurate information, send us your feedback and contribute with information from the ground: areyousyrious@gmail\.com and on Facebook

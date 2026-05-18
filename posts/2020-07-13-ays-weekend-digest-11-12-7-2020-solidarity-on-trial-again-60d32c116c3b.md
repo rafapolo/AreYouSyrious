@@ -1,20 +1,20 @@
 ---
-title: AYS Weekend Digest 11–12/7/2020: Solidarity on trial, again
+title: "AYS Weekend Digest 11–12/7/2020: Solidarity on trial, again"
 author: Are You Syrious?
 date: 2020-07-13T19:02:29.284+0100
 last_modified_at: 2020-07-13T19:02:29.284+0100
 categories: Are You Syrious?
 tags: [digest,solidarity,police-brutality,hunger-strike,refugees]
-description: GREECE: Hunger Strike on Kos comes to forced end. ITALY: Police brutality and self-harm in the CPR in Gradisca D’Isonzo. And more…
+description: "GREECE: Hunger Strike on Kos comes to forced end. ITALY: Police brutality and self-harm in the CPR in Gradisca D’Isonzo. And more…"
 image:
-  path: assets/60d32c116c3b/0*dBmKbHtRWRgq4e0w.jpeg
+  path: ../assets/60d32c116c3b/0*dBmKbHtRWRgq4e0w.jpeg
 ---
 
 ### AYS Weekend Digest 11–12/7/2020: Solidarity on trial, again
 ### GREECE: Hunger Strike on Kos comes to forced end\. ITALY: Police brutality and self\-harm in the CPR in Gradisca D’Isonzo\. And more…
 
 
-![](assets/60d32c116c3b/0*CPRQhn8GG7xPLgbA.jpeg)
+![](../assets/60d32c116c3b/0*CPRQhn8GG7xPLgbA.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----c3f755bc4953----------------------)
@@ -22,11 +22,11 @@ image:
 [Jul 13](ays-daily-digest-11-12-7-2020-solidarity-on-trial-again-c3f755bc4953?source=post_page-----c3f755bc4953----------------------) · 12 min read
 
 
-![](assets/60d32c116c3b/0*v3LlOHnJf2tgvTae)
+![](../assets/60d32c116c3b/0*v3LlOHnJf2tgvTae)
 
 
 
-![](assets/60d32c116c3b/0*dBmKbHtRWRgq4e0w.jpeg)
+![](../assets/60d32c116c3b/0*dBmKbHtRWRgq4e0w.jpeg)
 
 ### Feature: Solidarity on trial, again
 
@@ -71,11 +71,11 @@ GREECE
 ### Pushbacks in the Aegean continue
 
 
-![](assets/60d32c116c3b/0*ghZWJr1nbOu8t1Qq)
+![](../assets/60d32c116c3b/0*ghZWJr1nbOu8t1Qq)
 
 
 
-![](assets/60d32c116c3b/0*lEIr2dS2g18J6LIv.jpeg)
+![](../assets/60d32c116c3b/0*lEIr2dS2g18J6LIv.jpeg)
 
 
 Aegean Boat Report has [published an overview](https://web.facebook.com/AegeanBoatReport/posts/873490133174092) of pushbacks in the Aegean since March 2020\.
@@ -124,11 +124,11 @@ However, according to eyewitness accounts gathered by solidarity citizens of the
 ### Mask Distribution in Vathy, Samos
 
 
-![](assets/60d32c116c3b/0*amcq2LtshmS3WQsO)
+![](../assets/60d32c116c3b/0*amcq2LtshmS3WQsO)
 
 
 
-![](assets/60d32c116c3b/0*itFWtHqQfMiFHYST.jpeg)
+![](../assets/60d32c116c3b/0*itFWtHqQfMiFHYST.jpeg)
 
 
 [Samos Volunteers](https://web.facebook.com/samosvolunteers/posts/1627310504113770?hc_location=ufi) reports that together with [Med’EqualiTeam](https://web.facebook.com/MedEqualiTeam/?__tn__=K-R&eid=ARCCWnmxy-SXnrFwr5xNmlabiLvrlYJBvXo4--SEbKk0WmClOgO4wRUD6dC6P3GsemEvVP-_OXzDYSFN&fref=mentions&__xts__%5B0%5D=68.ARCDb2q4V00hhW3o4G3MxahNN5g0UYSiH1bX5qwE8CGGAGOy6VEOLFGkpzx9EXYtKoDPV8lBvDVhu9LojyY3zq1bSIGNlEHJhqKKwTeOM_7BsbgjpjItrK8ThZHNOgallTZQKbrxLr7W6BAwiKrvpGYsfLc6vjTW1mGshYLP3yWcWij6vQ2zX8J-eDw0-V1MEhGYmOUeN0MPwIh1_XrINl7frdwcbGMgrlv1mOKhyGAD7WJ57ApbSfEaeprlt_IxE8gascUNUCbkbWDEOfyVd4wqh5lHhgW1ygKP7B-y8GqLjwXarl1kaK8hgFL6zYC_xu2S5iBN11kgQ4rBlSJ56yAWcw) , [Refugee 4 Refugees](https://web.facebook.com/Refugee4Refugees/?__tn__=K-R&eid=ARDTvVs7_TS8aYXRDMvLFD2fC7nAHPfImvISqOfsLmDu5cYWvtTvb4Ok_J6oSR1DsNETLu3JOcMDB9CP&fref=mentions&__xts__%5B0%5D=68.ARCDb2q4V00hhW3o4G3MxahNN5g0UYSiH1bX5qwE8CGGAGOy6VEOLFGkpzx9EXYtKoDPV8lBvDVhu9LojyY3zq1bSIGNlEHJhqKKwTeOM_7BsbgjpjItrK8ThZHNOgallTZQKbrxLr7W6BAwiKrvpGYsfLc6vjTW1mGshYLP3yWcWij6vQ2zX8J-eDw0-V1MEhGYmOUeN0MPwIh1_XrINl7frdwcbGMgrlv1mOKhyGAD7WJ57ApbSfEaeprlt_IxE8gascUNUCbkbWDEOfyVd4wqh5lHhgW1ygKP7B-y8GqLjwXarl1kaK8hgFL6zYC_xu2S5iBN11kgQ4rBlSJ56yAWcw) , [Médecins Sans Frontières Greece \(MSF\) \| Γιατροί Χωρίς Σύνορα \(ΓΧΣ\)](https://web.facebook.com/msf.greece/?__tn__=K-R&eid=ARBxIUgk7z_F3gRBnEMOltfH2AOkrlodt0opqdMILo-rLShhzvSCpPnKA_musxbCe_R56ZtsnNNLkh0y&fref=mentions&__xts__%5B0%5D=68.ARCDb2q4V00hhW3o4G3MxahNN5g0UYSiH1bX5qwE8CGGAGOy6VEOLFGkpzx9EXYtKoDPV8lBvDVhu9LojyY3zq1bSIGNlEHJhqKKwTeOM_7BsbgjpjItrK8ThZHNOgallTZQKbrxLr7W6BAwiKrvpGYsfLc6vjTW1mGshYLP3yWcWij6vQ2zX8J-eDw0-V1MEhGYmOUeN0MPwIh1_XrINl7frdwcbGMgrlv1mOKhyGAD7WJ57ApbSfEaeprlt_IxE8gascUNUCbkbWDEOfyVd4wqh5lHhgW1ygKP7B-y8GqLjwXarl1kaK8hgFL6zYC_xu2S5iBN11kgQ4rBlSJ56yAWcw) and [Choose Love](https://web.facebook.com/HelpRefugeesUK/?__tn__=K-R&eid=ARC-sA0BhMIg1C5qJEX-EVWC-nNClJCTcfxSr1KUn-iXuMl-u3JMIX3Hfi3VH4ouYMxo5fibV99tPKR3&fref=mentions&__xts__%5B0%5D=68.ARCDb2q4V00hhW3o4G3MxahNN5g0UYSiH1bX5qwE8CGGAGOy6VEOLFGkpzx9EXYtKoDPV8lBvDVhu9LojyY3zq1bSIGNlEHJhqKKwTeOM_7BsbgjpjItrK8ThZHNOgallTZQKbrxLr7W6BAwiKrvpGYsfLc6vjTW1mGshYLP3yWcWij6vQ2zX8J-eDw0-V1MEhGYmOUeN0MPwIh1_XrINl7frdwcbGMgrlv1mOKhyGAD7WJ57ApbSfEaeprlt_IxE8gascUNUCbkbWDEOfyVd4wqh5lHhgW1ygKP7B-y8GqLjwXarl1kaK8hgFL6zYC_xu2S5iBN11kgQ4rBlSJ56yAWcw) , they have prepared hygiene packs for residents of the Vathy Reception and Identification Centre\.
@@ -230,27 +230,27 @@ BELGIUM
 A national demonstration for effective regularisation policies for migrant workers and sans\-papiers was held on Saturday\. Read more [here](https://www.facebook.com/voixsp1/posts/3110474489035759) \(in French\)
 
 
-![](assets/60d32c116c3b/0*E1BL2VUPekG3KC4h)
+![](../assets/60d32c116c3b/0*E1BL2VUPekG3KC4h)
 
 
 
-![](assets/60d32c116c3b/0*HQBUVm5UX62_x5r6.jpeg)
+![](../assets/60d32c116c3b/0*HQBUVm5UX62_x5r6.jpeg)
 
 
 
-![](assets/60d32c116c3b/0*OETA9vYTcD2k0jtn)
+![](../assets/60d32c116c3b/0*OETA9vYTcD2k0jtn)
 
 
 
-![](assets/60d32c116c3b/0*3Mh8Bd2cb2TP_k9N.jpeg)
+![](../assets/60d32c116c3b/0*3Mh8Bd2cb2TP_k9N.jpeg)
 
 
 
-![](assets/60d32c116c3b/0*WzTXhptFx9oOgBMT)
+![](../assets/60d32c116c3b/0*WzTXhptFx9oOgBMT)
 
 
 
-![](assets/60d32c116c3b/0*KRgdQQ_zfw8wMLeJ.jpeg)
+![](../assets/60d32c116c3b/0*KRgdQQ_zfw8wMLeJ.jpeg)
 
 
 FRANCE

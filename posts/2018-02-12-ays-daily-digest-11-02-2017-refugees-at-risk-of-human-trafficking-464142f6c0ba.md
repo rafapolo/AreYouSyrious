@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 11/02/2017: Refugees at risk of human trafficking
+title: "AYS Daily Digest 11/02/2017: Refugees at risk of human trafficking"
 author: Are You Syrious?
 date: 2018-02-12T11:31:28.566+0000
 last_modified_at: 2018-03-01T13:32:42.419+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,human-rights,moria,lesvos]
 description: Update on Lesvos and the Moria 35//Volunteer needs in Greece//Possible deportations to Sudan from France//Donations needed in Italy//
 image:
-  path: assets/464142f6c0ba/1*WVqQRgdQYJVIBvyHeWnTMQ.png
+  path: ../assets/464142f6c0ba/1*WVqQRgdQYJVIBvyHeWnTMQ.png
 ---
 
 ### AYS Daily Digest 11/02/2017: Refugees at risk of human trafficking
@@ -15,7 +15,7 @@ image:
 _Update on Lesvos and the Moria 35//Volunteer needs in Greece//Possible deportations to Sudan from France//Donations needed in Italy//_
 
 
-![SOS Mediterranee\. Rescue of people who came across the sea from Libya to Italy\. Photo by Maud Veith\.](assets/464142f6c0ba/1*WVqQRgdQYJVIBvyHeWnTMQ.png)
+![SOS Mediterranee\. Rescue of people who came across the sea from Libya to Italy\. Photo by Maud Veith\.](../assets/464142f6c0ba/1*WVqQRgdQYJVIBvyHeWnTMQ.png)
 
 SOS Mediterranee\. Rescue of people who came across the sea from Libya to Italy\. Photo by Maud Veith\.
 ### Most refugees face human traficking along the route
@@ -41,7 +41,7 @@ An [UNHCR document](https://data2.unhcr.org/en/documents/details/61915) on refug
 It also notes that six months have passed since the arrest of 35 refugees in Moria camp after protests denouncing dehumanising conditions and calling for freedom of movement\. A trial date has still not been set and an additional two refugees face identical criminal charges\. The legal centre reports they are in a state of limbo, as they are “ _denied help by organizations like Mercy Corps, because their asylum claims have been rejected in the second instance, yet they are prohibited from leaving the island due to the ongoing criminal case against them_ ”\. Some are restricted to Lesvos while many still live in the Moria Camp\. Other members of the Moria 35 are detained in the infamous pre\-removal detention centre of Petrou Ralli in Athens\. On Saturday, people gathered outside its gates in soldiarity with the prisonners\.
 
 
-![](assets/464142f6c0ba/1*hL4zme-IcgQq7WipDN8Fcw.png)
+![](../assets/464142f6c0ba/1*hL4zme-IcgQq7WipDN8Fcw.png)
 
 
 Meanwhile, refugees have protested on Sunday against the food in Moria\. On top of bad food, there’s also no running water, tents are crammed in every corner and rubbish is everywhere\. A mix that has led MSF to warn against a [mental health emergency](http://www.msf.org/sites/msf.org/files/2017_10_mental_health_greece_report_final_low.pdf) in October and to call for an end to the containment of asylum seekers on the Greek islands\. [Huffingtonpost](http://www.huffingtonpost.de/entry/lesbos-moria-pikpa-fluechtlinge_de_5a71807ee4b0ae29f08c2fa5) recently noted the stark difference in conditions between Moria and the self\-oganised open [Pikpa](https://www.facebook.com/pg/pikpalesvos/) camp for vulnerable refugees which wants to “stand in active solidarity with the refugees and fight against the barbaric European immigration policies”\. The website argues the contrast shows how “the EU has failed in its treatment of refugees on Lesvos”\.
@@ -66,7 +66,7 @@ Meanwhile, refugees have protested on Sunday against the food in Moria\. On top 
 Lifting Hands International has opened its Refugee Center just outside the Serres Camp, with several class spaces, a women’s only space and a library\. There are also picnic tables and a sports field outside\. The grand opening took place just last week\.
 
 
-![Photo by [David Lohmueller](http://davidlohmueller.com/en)](assets/464142f6c0ba/1*ukTlUJi3K5hNiXpVOss5tg.png)
+![Photo by [David Lohmueller](http://davidlohmueller.com/en)](../assets/464142f6c0ba/1*ukTlUJi3K5hNiXpVOss5tg.png)
 
 Photo by [David Lohmueller](http://davidlohmueller.com/en)
 #### France
@@ -94,7 +94,7 @@ Paris Refugee Ground support says that the snow has thawed but that rain however
 In Gorizia, blankets, sleeping bags, soap, shampoo and food are needed as refugees are still forced to sleep in the woods despite the snow and cold temperatures\. In Rome, clothes and hygiene items are needed for around 200 people\. More donation needs can be found on the page “ [Italy — Refugee Crisis Darabase](https://www.facebook.com/groups/1834254390190027/1996501840631947/) ”\.
 
 
-![Mauro Chiarabba](assets/464142f6c0ba/1*sPtOvIf0OnvdPYHsdssH-g.png)
+![Mauro Chiarabba](../assets/464142f6c0ba/1*sPtOvIf0OnvdPYHsdssH-g.png)
 
 Mauro Chiarabba
 #### **We strive to echo correct news from the ground through collaboration and fairness\.**

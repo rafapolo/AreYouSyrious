@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,greece,moria]
 description: Shamima Begum’s Appeal to Return to UK Denied//Children Play “The Game” on the Balkan Route//More Rescues, Pullbacks to Libya//& More
 image:
-  path: assets/792d4adaa039/0*l3xFyt4XsUpVDcPq
+  path: ../assets/792d4adaa039/0*l3xFyt4XsUpVDcPq
 ---
 
 ### AYS Daily Digest 26/02/2021—Woman Charged With Arson For Setting Herself on Fire in Lesvos
 #### Shamima Begum’s appeal to return to UK denied//Children play “The Game” on the Balkan Route//More rescues, pullbacks to Libya//& more
 
 
-![“5 years ago today, our first ship, Aquarius, set sail to rescue people in distress in the central Med for the first time\. Since 2016, the humanitarian crisis deepened\. In 2021 alone, at least 170 people died or went missing at sea\. Over 3,500 were forcibly returned to Libya\.” ~From [SOS Mediterranee](https://twitter.com/SOSMedIntl/status/1365315719592890373?fbclid=IwAR1qTaUXMXIXmHgx0xJxTDGfB0cEbLBpHvC_EiK40v5c4UtrwIPfuKwFdgg)](assets/792d4adaa039/0*l3xFyt4XsUpVDcPq)
+![“5 years ago today, our first ship, Aquarius, set sail to rescue people in distress in the central Med for the first time\. Since 2016, the humanitarian crisis deepened\. In 2021 alone, at least 170 people died or went missing at sea\. Over 3,500 were forcibly returned to Libya\.” ~From [SOS Mediterranee](https://twitter.com/SOSMedIntl/status/1365315719592890373?fbclid=IwAR1qTaUXMXIXmHgx0xJxTDGfB0cEbLBpHvC_EiK40v5c4UtrwIPfuKwFdgg)](../assets/792d4adaa039/0*l3xFyt4XsUpVDcPq)
 
 “5 years ago today, our first ship, Aquarius, set sail to rescue people in distress in the central Med for the first time\. Since 2016, the humanitarian crisis deepened\. In 2021 alone, at least 170 people died or went missing at sea\. Over 3,500 were forcibly returned to Libya\.” ~From [SOS Mediterranee](https://twitter.com/SOSMedIntl/status/1365315719592890373?fbclid=IwAR1qTaUXMXIXmHgx0xJxTDGfB0cEbLBpHvC_EiK40v5c4UtrwIPfuKwFdgg)
 #### FEATURE
@@ -148,7 +148,7 @@ To be clear, what Begum did was a crime\. However, she was only 15 years old whe
 An investigation by Free Movement found that the UK has drastically increased citizenship removal procedures since 2010\.
 
 
-![Graphic via [Free Movement](https://www.freemovement.org.uk/shamima-begum-loses-case-in-supreme-court/?fbclid=IwAR0o-cHCH1XaU1doqBZ_dWrW87bzCzgGO_KkCrlG7xPpZvogaUcCXqFvbQw)](assets/792d4adaa039/0*XqapAWvEAhGBjkhM.jpeg)
+![Graphic via [Free Movement](https://www.freemovement.org.uk/shamima-begum-loses-case-in-supreme-court/?fbclid=IwAR0o-cHCH1XaU1doqBZ_dWrW87bzCzgGO_KkCrlG7xPpZvogaUcCXqFvbQw)](../assets/792d4adaa039/0*XqapAWvEAhGBjkhM.jpeg)
 
 Graphic via [Free Movement](https://www.freemovement.org.uk/shamima-begum-loses-case-in-supreme-court/?fbclid=IwAR0o-cHCH1XaU1doqBZ_dWrW87bzCzgGO_KkCrlG7xPpZvogaUcCXqFvbQw)
 

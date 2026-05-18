@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 27/06/18: Union of Cowards
+title: "AYS Daily Digest 27/06/18: Union of Cowards"
 author: Are You Syrious?
 date: 2018-06-28T04:36:22.085+0100
 last_modified_at: 2018-06-28T12:35:09.557+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,lifeline,malta,mediterranean,refugees]
 description: Rescues at sea//New Arrivals in Greece//Van crash kills three in Northern Greece//Police intimidation in Bosnia//Dublin removals to…
 image:
-  path: assets/9e0344bbe715/1*SerbiRtCC-GV2mw-5NcT8w.jpeg
+  path: ../assets/9e0344bbe715/1*SerbiRtCC-GV2mw-5NcT8w.jpeg
 ---
 
 ### AYS Daily Digest 27/06/18: Union of Cowards
@@ -15,7 +15,7 @@ image:
 _Rescues at sea//New Arrivals in Greece//Van crash kills three in Northern Greece//Police intimidation in Bosnia//Dublin removals to Bulgaria challenged in France//Protest in Austria//And more…_
 
 
-![Photo Credit: [Mission Lifeline](https://www.facebook.com/seenotrettung/photos/a.113123962427485.1073741828.111682292571652/388103434929535/?type=3&theater) , 21/06/18\. “These people have a right to flee, a right to life, a right to apply for asylum\! These obligations must be respected by the states of the EU\.”](assets/9e0344bbe715/1*K5Df9YgDgWuv26YlHIBu1w.jpeg)
+![Photo Credit: [Mission Lifeline](https://www.facebook.com/seenotrettung/photos/a.113123962427485.1073741828.111682292571652/388103434929535/?type=3&theater) , 21/06/18\. “These people have a right to flee, a right to life, a right to apply for asylum\! These obligations must be respected by the states of the EU\.”](../assets/9e0344bbe715/1*K5Df9YgDgWuv26YlHIBu1w.jpeg)
 
 Photo Credit: [Mission Lifeline](https://www.facebook.com/seenotrettung/photos/a.113123962427485.1073741828.111682292571652/388103434929535/?type=3&theater) , 21/06/18\. “These people have a right to flee, a right to life, a right to apply for asylum\! These obligations must be respected by the states of the EU\.”
 ### Feature
@@ -40,7 +40,7 @@ Maltese authorities seem to be in agreement and are impounding the ship pending 
 While Malta seems to have finally relented in this case, EU officials need to come up with a long\-term plan for disembarking refugees from rescue ships\. Since Italy started turning ships away earlier this month, far fewer rescue missions have been operating and more people are being stranded at sea\.
 
 
-![Photo Credit: Jugend Rettet/Selena Efa\. “A huge relief to finally see the [\#LIFELINE](https://www.facebook.com/hashtag/lifeline?hc_location=ufi) in a safe habour\. The last days have put an extreme burden on those rescued, the crew, and everyone on land\. As answer to German interior minister Seehofer’s call to seize the LIFELINE the crew decided to enter the harbour with a [\#freeIUVENTA](https://www.facebook.com/hashtag/freeiuventa?hc_location=ufi) banner\. Thank you for showing your support\!”](assets/9e0344bbe715/1*SerbiRtCC-GV2mw-5NcT8w.jpeg)
+![Photo Credit: Jugend Rettet/Selena Efa\. “A huge relief to finally see the [\#LIFELINE](https://www.facebook.com/hashtag/lifeline?hc_location=ufi) in a safe habour\. The last days have put an extreme burden on those rescued, the crew, and everyone on land\. As answer to German interior minister Seehofer’s call to seize the LIFELINE the crew decided to enter the harbour with a [\#freeIUVENTA](https://www.facebook.com/hashtag/freeiuventa?hc_location=ufi) banner\. Thank you for showing your support\!”](../assets/9e0344bbe715/1*SerbiRtCC-GV2mw-5NcT8w.jpeg)
 
 Photo Credit: Jugend Rettet/Selena Efa\. “A huge relief to finally see the [\#LIFELINE](https://www.facebook.com/hashtag/lifeline?hc_location=ufi) in a safe habour\. The last days have put an extreme burden on those rescued, the crew, and everyone on land\. As answer to German interior minister Seehofer’s call to seize the LIFELINE the crew decided to enter the harbour with a [\#freeIUVENTA](https://www.facebook.com/hashtag/freeiuventa?hc_location=ufi) banner\. Thank you for showing your support\!”
 
@@ -101,7 +101,7 @@ The volunteer organization the Unmentionables that provides sexual and reproduct
 [An Italian organization](https://www.facebook.com/progetto20k/posts/647492225610695) reports that during the morning of Monday the 25th, police cleared out an informal camp of hundreds of people in Ventimiglia\. Such actions by police have intensified since April and transfers by coach to southern Italy have increased\.
 
 
-![Refugees from the Alexander Maersk arrive in Pozzolla\. Photo Credit: [MEDU](https://www.facebook.com/MEDUonlus/photos/a.10151840564844817.1073741837.57296949816/10156436686989817/?type=3&theater)](assets/9e0344bbe715/1*WmXtBRi2gb3zEFUlF_qZbg.jpeg)
+![Refugees from the Alexander Maersk arrive in Pozzolla\. Photo Credit: [MEDU](https://www.facebook.com/MEDUonlus/photos/a.10151840564844817.1073741837.57296949816/10156436686989817/?type=3&theater)](../assets/9e0344bbe715/1*WmXtBRi2gb3zEFUlF_qZbg.jpeg)
 
 Refugees from the Alexander Maersk arrive in Pozzolla\. Photo Credit: [MEDU](https://www.facebook.com/MEDUonlus/photos/a.10151840564844817.1073741837.57296949816/10156436686989817/?type=3&theater)
 
@@ -126,13 +126,13 @@ On 28 June there will be a demonstration against deportations at the Österreich
 ### Germany
 
 
-![Photo Credit: Alarmphone\. “Yesterday, about 2,000 people came together in Hamburg/Germany to commemorate the thousands of people who have lost their lives in the Mediterranean Sea and to declare solidarity with their relatives and friends\. They denounced the right\-wing tide in Europe that has been producing and increasingly normalising anti\-migrant sentiments and racism which are directly connected to the increasing deaths at Europe’s borders\. They know well that Germany is one of the central architects of the European border regime, responsible for ever\-more outsourced and externalised border enforcement practices that produce suffering far beyond what is usually considered its territory\. Also in the ongoing drama with the Lifeline rescue vessel, Germany has played a cynical role: due to pressure from interior minister Seehofer, the Lifeline has still not been allowed to land in Malta\!” \[Statement from before the ship disembarked\. \]](assets/9e0344bbe715/1*gmaJ5EhRlCiuvdtHH2VUDw.jpeg)
+![Photo Credit: Alarmphone\. “Yesterday, about 2,000 people came together in Hamburg/Germany to commemorate the thousands of people who have lost their lives in the Mediterranean Sea and to declare solidarity with their relatives and friends\. They denounced the right\-wing tide in Europe that has been producing and increasingly normalising anti\-migrant sentiments and racism which are directly connected to the increasing deaths at Europe’s borders\. They know well that Germany is one of the central architects of the European border regime, responsible for ever\-more outsourced and externalised border enforcement practices that produce suffering far beyond what is usually considered its territory\. Also in the ongoing drama with the Lifeline rescue vessel, Germany has played a cynical role: due to pressure from interior minister Seehofer, the Lifeline has still not been allowed to land in Malta\!” \[Statement from before the ship disembarked\. \]](../assets/9e0344bbe715/1*gmaJ5EhRlCiuvdtHH2VUDw.jpeg)
 
 Photo Credit: Alarmphone\. “Yesterday, about 2,000 people came together in Hamburg/Germany to commemorate the thousands of people who have lost their lives in the Mediterranean Sea and to declare solidarity with their relatives and friends\. They denounced the right\-wing tide in Europe that has been producing and increasingly normalising anti\-migrant sentiments and racism which are directly connected to the increasing deaths at Europe’s borders\. They know well that Germany is one of the central architects of the European border regime, responsible for ever\-more outsourced and externalised border enforcement practices that produce suffering far beyond what is usually considered its territory\. Also in the ongoing drama with the Lifeline rescue vessel, Germany has played a cynical role: due to pressure from interior minister Seehofer, the Lifeline has still not been allowed to land in Malta\!” \[Statement from before the ship disembarked\. \]
 ### Sweden
 
 
-![Protestors at the Sturups airport, 26/06/18\. Photo Credit: [ECADA](https://www.facebook.com/ecada2017/?hc_ref=ARQ7V_dW4GcN3c3qd1AXx8_zPbr0eSE_eYa0j4YRKD8Mw91vIMZ2-Y8GXuX5scNMyHs&fref=nf&hc_location=group)](assets/9e0344bbe715/1*RPu41Vvvb8w9dQGE9B73dQ.jpeg)
+![Protestors at the Sturups airport, 26/06/18\. Photo Credit: [ECADA](https://www.facebook.com/ecada2017/?hc_ref=ARQ7V_dW4GcN3c3qd1AXx8_zPbr0eSE_eYa0j4YRKD8Mw91vIMZ2-Y8GXuX5scNMyHs&fref=nf&hc_location=group)](../assets/9e0344bbe715/1*RPu41Vvvb8w9dQGE9B73dQ.jpeg)
 
 Protestors at the Sturups airport, 26/06/18\. Photo Credit: [ECADA](https://www.facebook.com/ecada2017/?hc_ref=ARQ7V_dW4GcN3c3qd1AXx8_zPbr0eSE_eYa0j4YRKD8Mw91vIMZ2-Y8GXuX5scNMyHs&fref=nf&hc_location=group)
 
@@ -147,7 +147,7 @@ The second part of the Brussels summit on migration will take place this week, f
 There are many calls to join several organizations tomorrow for “European Solidarity Day\.” Organizations from Italy and beyond are asking people to bring paper boats with them to symbolize the need for more solidarity to save lives at sea\.
 
 
-![Photo Credit: Mediterranean Hope \#changedublin](assets/9e0344bbe715/1*tL7J5z2NnOEskP97I6-Zfg.jpeg)
+![Photo Credit: Mediterranean Hope \#changedublin](../assets/9e0344bbe715/1*tL7J5z2NnOEskP97I6-Zfg.jpeg)
 
 Photo Credit: Mediterranean Hope \#changedublin
 

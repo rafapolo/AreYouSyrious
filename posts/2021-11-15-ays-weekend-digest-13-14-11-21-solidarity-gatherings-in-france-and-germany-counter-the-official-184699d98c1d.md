@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 13–14/11/21: Solidarity gatherings in France and Germany counter the official…
+title: "AYS Weekend Digest 13–14/11/21: Solidarity gatherings in France and Germany counter the official…"
 author: Are You Syrious?
 date: 2021-11-15T22:12:18.789+0000
 last_modified_at: 2021-11-15T22:12:18.789+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,belarus,borders,europe,refugees]
 description: 8 lives lost in the sea close to the Canary islands / New SAR activities in the Med / Aletter to the minister from the people of Samos /…
 image:
-  path: assets/184699d98c1d/0*u1r3poY83FmzSoFW
+  path: ../assets/184699d98c1d/0*u1r3poY83FmzSoFW
 ---
 
 ### AYS Weekend Digest 13–14/11/21: Solidarity gatherings in France and Germany counter the official stance
 #### 8 lives lost in the sea close to the Canary islands / New SAR activities in the Med / Aletter to the minister from the people of Samos / Developments at the Belarus border, calls for help and information for those wishing to get involved…
 
 
-![](assets/184699d98c1d/0*u1r3poY83FmzSoFW)
+![](../assets/184699d98c1d/0*u1r3poY83FmzSoFW)
 
 
 Photo: [Louis Witter](https://twitter.com/LouisWitter)
@@ -28,11 +28,11 @@ Photo: [Louis Witter](https://twitter.com/LouisWitter)
 Around 1,000 people attended a demonstration in solidarity with displaced people and the demands of hunger strikers at the Saint\-Pierre church\. A concrete action of collective solidarity with the hunger strikers and people on the move suffering the consequences of bad politics\.
 
 
-![](assets/184699d98c1d/0*HhTr9vmORrh1gqDw.jpeg)
+![](../assets/184699d98c1d/0*HhTr9vmORrh1gqDw.jpeg)
 
 
 
-![](assets/184699d98c1d/0*Fk3GlaIS_65jCjMu.jpeg)
+![](../assets/184699d98c1d/0*Fk3GlaIS_65jCjMu.jpeg)
 
 
 Photos: [juliadruelle](https://twitter.com/juliadruelle)

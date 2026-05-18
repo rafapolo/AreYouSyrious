@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe]
 description: GENERAL
 image:
-  path: assets/9c67cd79e2f5/1*FiFrk1GNIqQqaoX-h_cmkw.jpeg
+  path: ../assets/9c67cd79e2f5/1*FiFrk1GNIqQqaoX-h_cmkw.jpeg
 ---
 
 ### AYS NEWS DIGEST 20/06 — World Refugee Day
 
 
-![Celebration of World Refugee Day, Info Park, Belgrade\.](assets/9c67cd79e2f5/1*FiFrk1GNIqQqaoX-h_cmkw.jpeg)
+![Celebration of World Refugee Day, Info Park, Belgrade\.](../assets/9c67cd79e2f5/1*FiFrk1GNIqQqaoX-h_cmkw.jpeg)
 
 Celebration of World Refugee Day, Info Park, Belgrade\.
 #### GENERAL
@@ -27,7 +27,7 @@ More than 50% of the refugees come from Syria, Afghanistan and Somalia\. 86% of 
 Even though today marks World Refugee Day, there are reports on serious threats to close the world’s largest refugee camp, that is camp in Dadaab, Kenya\. By closing the camp, Kenya plans to repatriate all the refugees from Somalia, or in other words: send them back to an unsafe zone\. Currently there are around 320,000 people residing in this camp and many agencies and organizations such as [MSF are urging Kenyan government not to do so\.](https://twitter.com/MSF_Sea/status/744911673698320385) The Kenyan government, on the other hand, is justifying this move as a security issue; a move against terrorism\. It is safe to assume that if and when this camp is closed the movement will affect other areas and bring much more hardship and tragedy\.
 
 
-![Daadab camp, Kenya\.](assets/9c67cd79e2f5/1*dRPtyjzczesqqNBgx9Q56w.jpeg)
+![Daadab camp, Kenya\.](../assets/9c67cd79e2f5/1*dRPtyjzczesqqNBgx9Q56w.jpeg)
 
 Daadab camp, Kenya\.
 ### **Weather warning: High waves up to 1\.7 meters in Mid Mediterranean between Libya and Italy\.**
@@ -50,18 +50,18 @@ Drop in the ocean needs more aid in several locations in Greece, mostly around A
 People who were residing in front of Park hotel in the North of Greece have been transferred to Oreokastro camp, where refugees from Idomeni were also relocated\. The atmosphere in the camp is reportedly very bad, with strict officers, dull military food and extreme heat\. There’s nothing much to do in the camp\. The first town is 30 minutes away\. We have managed to obtain photos from the site, showing both indoor and outdoor facilities
 
 
-![Oreokastro camp\.](assets/9c67cd79e2f5/1*QEi33kU-bEL6pSfsfW6QPA.jpeg)
+![Oreokastro camp\.](../assets/9c67cd79e2f5/1*QEi33kU-bEL6pSfsfW6QPA.jpeg)
 
 Oreokastro camp\.
 
 
-![Oreokastro camp\.](assets/9c67cd79e2f5/1*MdS_yKbyhE-1PM4lpxIoPg.jpeg)
+![Oreokastro camp\.](../assets/9c67cd79e2f5/1*MdS_yKbyhE-1PM4lpxIoPg.jpeg)
 
 Oreokastro camp\.
 ### Construction of Cherso cultural center is in full swing and our volunteers are working tirelessly to erect it\.
 
 
-![Chierso cultural center\. Photo credit: AYS\.](assets/9c67cd79e2f5/1*nUzX_jf_2HDA8YDVpenXFw.jpeg)
+![Chierso cultural center\. Photo credit: AYS\.](../assets/9c67cd79e2f5/1*nUzX_jf_2HDA8YDVpenXFw.jpeg)
 
 Chierso cultural center\. Photo credit: AYS\.
 ### **World refugee day**
@@ -69,7 +69,7 @@ Chierso cultural center\. Photo credit: AYS\.
 While there must have been many receptions today on account of World refugee day in many hotels around the world, with champagne served and speeches given, there were also many wonderful events that made the day brighter for those stuck on the former Balkan route and people working with them\. There were parties around Solidarity spaces in Athens, dancing in the park in Belgrade as well as concerts in Zagreb\. With more displaced people than ever in modern history, this day should serve as a reminder of what our reality really is\. We celebrate all who are on the move and all of those who work and live with people on the move\.
 
 
-![Celebration of World refugee day, Solidarity Space City Hotel Plaza, Athens\.](assets/9c67cd79e2f5/1*b34t21HxHLWpOCm4ai1FvQ.jpeg)
+![Celebration of World refugee day, Solidarity Space City Hotel Plaza, Athens\.](../assets/9c67cd79e2f5/1*b34t21HxHLWpOCm4ai1FvQ.jpeg)
 
 Celebration of World refugee day, Solidarity Space City Hotel Plaza, Athens\.
 ### **Some Italian officials pushing for more incentives for integration under a “widespread” model**

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 5/3/21: Tragic mine explosion killing young man, leaving others severely injured
+title: "AYS Daily Digest 5/3/21: Tragic mine explosion killing young man, leaving others severely injured"
 author: Are You Syrious?
 date: 2021-03-06T19:28:33.225+0000
 last_modified_at: 2021-03-06T21:10:39.148+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,europe,migration,refugees,human-rights]
 description: A group of young people on the move walked into a mine field in Croatia, ending tragically / deep investigation into how Italy tried to…
 image:
-  path: assets/9945bd2b9513/0*6OhFv012VRWsl1W7.jpg
+  path: ../assets/9945bd2b9513/0*6OhFv012VRWsl1W7.jpg
 ---
 
 ### AYS Daily Digest 5/3/21: Tragic mine explosion kills young man, leaving others severely injured
 #### A group of young people on the move walked into a minefield in Croatia, ending tragically / In\-depth investigation into how Italy tried to stop migration from Africa, using EU funds / More families across Greece left unsupported / Recommended reads, calls for action and more
 
 
-![Photos: MUP RH](assets/9945bd2b9513/0*6OhFv012VRWsl1W7.jpg)
+![Photos: MUP RH](../assets/9945bd2b9513/0*6OhFv012VRWsl1W7.jpg)
 
 Photos: MUP RH
 #### FEATURED
@@ -69,7 +69,7 @@ This poignant approach to what is unraveling in front of our eyes in the past fe
 The UN agencies have had much to do with the whole policy of the Big Wall\. Part of the Italian funding for IOM was injected into a complex system of repatriation by air, from Tripoli to more than 20 countries\. This alone has contributed to the **r** epatriation of 87,000 people over three years, they report\. Ultimately, it is the European and African security forces who benefit most from the \(by now infamous\) EU funds\.
 
 
-[![The Big Wall (english version)](assets/9945bd2b9513/b08a_hqdefault.jpg "The Big Wall (english version)")](https://www.youtube.com/watch?v=HmR96ySikkY)
+[![The Big Wall (english version)](../assets/9945bd2b9513/b08a_hqdefault.jpg "The Big Wall (english version)")](https://www.youtube.com/watch?v=HmR96ySikkY)
 
 #### THE SEA
 ### Criminal charges — a blow against civil rescue organizations in the central Mediterranean
@@ -123,7 +123,7 @@ There will be a new announcement about rescheduling, following the lifting of th
 ![Sexual exploitation and abuse by humanitarian workers are not acceptable and should be reported to the responsible organization\. Sexual relations with children are criminal acts and should be reported immediately\. If you are aware of a member of the UN pr a partner workforce who has forced a refugee to have sex or exchanged money or service for sex, you may report directly to a Protection staff whom you trust, or via the confidential complaints forms on the below websites: 
 UNHCR: [https://www\.unhcr\.org/php/complaints\.php](https://www.unhcr.org/php/complaints.php?fbclid=IwAR1COWhNdGfCXbmx6GR8JsYRexzCEm-MCvF9IYj-Y6gKmP27DO_DZKvc-ZA) 
 IOM: [https://weareallin\.iom\.int](https://weareallin.iom.int/?fbclid=IwAR2IHPhyNmtcGd5LKJcoy_zaqvzcDbmShrAqcc2kg-1GQ5qQP2R8LGdDObw) 
-UNICEF: [https://unicefcms\.i\-sight\.com/external/case/new](https://unicefcms.i-sight.com/external/case/new?fbclid=IwAR2qm5m-n5eYmV3wO-cInqpQ3Ein0ta-i2NLsRRUN8wpj82V8bIuRqoEKQU)](assets/9945bd2b9513/0*sJmDhvJ4dmJlG13v)
+UNICEF: [https://unicefcms\.i\-sight\.com/external/case/new](https://unicefcms.i-sight.com/external/case/new?fbclid=IwAR2qm5m-n5eYmV3wO-cInqpQ3Ein0ta-i2NLsRRUN8wpj82V8bIuRqoEKQU)](../assets/9945bd2b9513/0*sJmDhvJ4dmJlG13v)
 
 Sexual exploitation and abuse by humanitarian workers are not acceptable and should be reported to the responsible organization\. Sexual relations with children are criminal acts and should be reported immediately\. If you are aware of a member of the UN pr a partner workforce who has forced a refugee to have sex or exchanged money or service for sex, you may report directly to a Protection staff whom you trust, or via the confidential complaints forms on the below websites: 
 UNHCR: [https://www\.unhcr\.org/php/complaints\.php](https://www.unhcr.org/php/complaints.php?fbclid=IwAR1COWhNdGfCXbmx6GR8JsYRexzCEm-MCvF9IYj-Y6gKmP27DO_DZKvc-ZA) 
@@ -151,13 +151,13 @@ One Bridge to Idomeni and Nigrizia invite everyone to join their initiative “U
 ### The North
 
 
-![](assets/9945bd2b9513/0*AScCK4ninX2rbGsQ)
+![](../assets/9945bd2b9513/0*AScCK4ninX2rbGsQ)
 
 
 [Human Rights Observers](https://twitter.com/HumanRightsObs) have reported the second expulsion in a single week of the people staying in a provisional settlement in the Grande Synthe area\. They say a security parameter was placed by the police, so activists could only observe the expulsions and destruction of tents\.
 
 
-![Several dozens of migrants — among them at least one infant — were reportedly intercepted in the English Channel on Thursday and returned to France\. These pictures were taken during their disembarkation in the port of Calais\. Many migrants hoping to reach England from France attempt to make the trip across the English Channel on small dinghies\. This can be extremely dangerous\. The English Channel measures over 20 miles \(33 kilometers\) at its narrowest point and is one of the busiest shipping lanes in the world\. At least six people died during attempted crossings in 2020\. — [InfoMigrants](https://www.facebook.com/InfoMigrants/?__cft__[0]=AZVjj9egJg4Bu0E0iPmSg-anh2YD9KrZkqZnIvyAds1FEf9Q6-mE43JyjxcYOfimyAqLOjQC2MRjF4vyW-tEkvZrbTsZrTFIuA0xETM0afRaelrreInW1kxFPnsk7DPBvdRd-L7VXI0u_p0Tsp3Ulox4PHp82hm74FL_OBmFLPpiO3HFWriZF7xE6UcYtcXOvghYEtUyM8sn2IIzIfX4d-PX&__tn__=-UC%2CP-y-R)](assets/9945bd2b9513/0*zaitZ068evugGytR)
+![Several dozens of migrants — among them at least one infant — were reportedly intercepted in the English Channel on Thursday and returned to France\. These pictures were taken during their disembarkation in the port of Calais\. Many migrants hoping to reach England from France attempt to make the trip across the English Channel on small dinghies\. This can be extremely dangerous\. The English Channel measures over 20 miles \(33 kilometers\) at its narrowest point and is one of the busiest shipping lanes in the world\. At least six people died during attempted crossings in 2020\. — [InfoMigrants](https://www.facebook.com/InfoMigrants/?__cft__[0]=AZVjj9egJg4Bu0E0iPmSg-anh2YD9KrZkqZnIvyAds1FEf9Q6-mE43JyjxcYOfimyAqLOjQC2MRjF4vyW-tEkvZrbTsZrTFIuA0xETM0afRaelrreInW1kxFPnsk7DPBvdRd-L7VXI0u_p0Tsp3Ulox4PHp82hm74FL_OBmFLPpiO3HFWriZF7xE6UcYtcXOvghYEtUyM8sn2IIzIfX4d-PX&__tn__=-UC%2CP-y-R)](../assets/9945bd2b9513/0*zaitZ068evugGytR)
 
 Several dozens of migrants — among them at least one infant — were reportedly intercepted in the English Channel on Thursday and returned to France\. These pictures were taken during their disembarkation in the port of Calais\. Many migrants hoping to reach England from France attempt to make the trip across the English Channel on small dinghies\. This can be extremely dangerous\. The English Channel measures over 20 miles \(33 kilometers\) at its narrowest point and is one of the busiest shipping lanes in the world\. At least six people died during attempted crossings in 2020\. — [InfoMigrants](https://www.facebook.com/InfoMigrants/?__cft__[0]=AZVjj9egJg4Bu0E0iPmSg-anh2YD9KrZkqZnIvyAds1FEf9Q6-mE43JyjxcYOfimyAqLOjQC2MRjF4vyW-tEkvZrbTsZrTFIuA0xETM0afRaelrreInW1kxFPnsk7DPBvdRd-L7VXI0u_p0Tsp3Ulox4PHp82hm74FL_OBmFLPpiO3HFWriZF7xE6UcYtcXOvghYEtUyM8sn2IIzIfX4d-PX&__tn__=-UC%2CP-y-R)
 #### EU
@@ -198,7 +198,7 @@ Final Report of the Frontex Management Board Working Group:
 
 
 
-[![The UK's Privatised Migration Surveillance Regime](assets/9945bd2b9513/62fd_hqdefault.jpg "The UK's Privatised Migration Surveillance Regime")](https://www.youtube.com/watch?v=0U1ioo6A_yE)
+[![The UK's Privatised Migration Surveillance Regime](../assets/9945bd2b9513/62fd_hqdefault.jpg "The UK's Privatised Migration Surveillance Regime")](https://www.youtube.com/watch?v=0U1ioo6A_yE)
 
 - On the detention centres in France
 

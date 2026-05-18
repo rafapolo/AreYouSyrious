@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 25/3/19: More children have died in the Aegean
+title: "AYS Daily Digest 25/3/19: More children have died in the Aegean"
 author: Are You Syrious?
 date: 2019-03-26T13:59:53.605+0000
 last_modified_at: 2019-03-26T14:28:52.910+0000
 categories: Are You Syrious?
 tags: [refugees,digest,europe,human-rights,children]
-description: Greece: more lives lost and risked at sea; Report on the status of children asylum seekers; Prepare for the interview / Serbia: Possible…
+description: "Greece: more lives lost and risked at sea; Report on the status of children asylum seekers; Prepare for the interview / Serbia: Possible…"
 image:
-  path: assets/2224c8fb2b3e/1*sE3rck6e1-k6mYbGBOR8zg.jpeg
+  path: ../assets/2224c8fb2b3e/1*sE3rck6e1-k6mYbGBOR8zg.jpeg
 ---
 
 ### AYS Daily Digest 25/3/19: More children have died in the Aegean
 #### Greece: more lives lost and risked at sea; Report on the status of children asylum seekers; Prepare for the interview / Serbia: Possible eviction in Šid / France: 23 evictions took place during last week in Calais / Living conditions in Bosnian camps, according to UNHCR / UK: five days’ notice people would be removed by charter flight / more news
 
 
-![](assets/2224c8fb2b3e/1*Tx1u1RSutf5fWmPbOOmJVA.jpeg)
+![](../assets/2224c8fb2b3e/1*Tx1u1RSutf5fWmPbOOmJVA.jpeg)
 
 
 [Are You Syrious?](https://medium.com/@AreYouSyrious)
@@ -22,7 +22,7 @@ image:
 Mar 26
 
 
-![Lesvos, Greece \(Photo by [Lighthouse Relief](https://twitter.com/LighthouseRR) \)](assets/2224c8fb2b3e/1*sE3rck6e1-k6mYbGBOR8zg.jpeg)
+![Lesvos, Greece \(Photo by [Lighthouse Relief](https://twitter.com/LighthouseRR) \)](../assets/2224c8fb2b3e/1*sE3rck6e1-k6mYbGBOR8zg.jpeg)
 
 Lesvos, Greece \(Photo by [Lighthouse Relief](https://twitter.com/LighthouseRR) \)
 #### FEATURE — Another Aegean tragedy
@@ -62,7 +62,7 @@ Deportations of Sub\-Saharan migrants from the Arekmane detention centre continu
 2buses parked in front of this center transported some 40 people to Casablanca\. The centre had been illegally detaining those people for weeks\. During that time they have literally had no contact with the outside world\.
 
 
-![Photo: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?tn-str=k%2AF&hc_location=group_dialog)](assets/2224c8fb2b3e/1*EzdFM-BbqRTjq7K5FzyFNw.jpeg)
+![Photo: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?tn-str=k%2AF&hc_location=group_dialog)](../assets/2224c8fb2b3e/1*EzdFM-BbqRTjq7K5FzyFNw.jpeg)
 
 Photo: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?tn-str=k%2AF&hc_location=group_dialog)
 #### TURKEY
@@ -111,11 +111,11 @@ Try to be **very specific and tell your individual story** : why did YOU not hav
 Near Agios Panteleimonas in Athens, an area attacked by Nazi groups many times in the past, where hundreds of refugees live, the Distomo anarchists group gathered in a common action of patrol, while playing football and giving out toys for children\.
 
 
-![](assets/2224c8fb2b3e/1*pqMidG9IpZPgs_O4QM0zHw.jpeg)
+![](../assets/2224c8fb2b3e/1*pqMidG9IpZPgs_O4QM0zHw.jpeg)
 
 
 
-![Athens, photo by: [Αντιρρησίες Συνείδησης](https://www.facebook.com/antirisiessinidisis/?__tn__=kC-R&eid=ARDGBDN1cx0YLzfpuTR1EffBospZdYjIH3tVu4rDY3mVRhJBl5bXQ0ftgG4eS9jsyznv9fLQrZ5OrlmY&hc_ref=ARRyUPGrRUwjeBxRAUZsWXJSVH_YcHmDvw3Bb-1iasrHD1UTIypmcY68KOqo-3u9N-8&fref=nf&__xts__%5B0%5D=68.ARA9TGuz3dKW18zt8scyq7irAp2DZWKGjyfwTtPfHw5H0WRR6_4UmBlMiq39RX1aZbxkB3GP-D6J844IFyUkYH17M0kIOatpJSay3jHYzDVj8rXdQpbxLc3sE5nCPve1BBkJucT9DeSdUKIb-Lagg-TUmUQpi4lNVmFsvJlYO58n4ah_a0MKPzVl9SOhR2y_BWxBtAqz7dklhVGtQ4nJXzOMlisekTcBCo_u3fYq8lPQOIQZeaQv7lX7I9DRRJzSq8_YilDHFbFo3VHENd1fzakHPEUo7SDPWstFoqgd0Bt2a8PyqQCtToTBL8gAnryzGYhk5mo6M2mahwPbGywpQVQ)](assets/2224c8fb2b3e/1*edg74ul0PuG8KAH5HNoJ6w.jpeg)
+![Athens, photo by: [Αντιρρησίες Συνείδησης](https://www.facebook.com/antirisiessinidisis/?__tn__=kC-R&eid=ARDGBDN1cx0YLzfpuTR1EffBospZdYjIH3tVu4rDY3mVRhJBl5bXQ0ftgG4eS9jsyznv9fLQrZ5OrlmY&hc_ref=ARRyUPGrRUwjeBxRAUZsWXJSVH_YcHmDvw3Bb-1iasrHD1UTIypmcY68KOqo-3u9N-8&fref=nf&__xts__%5B0%5D=68.ARA9TGuz3dKW18zt8scyq7irAp2DZWKGjyfwTtPfHw5H0WRR6_4UmBlMiq39RX1aZbxkB3GP-D6J844IFyUkYH17M0kIOatpJSay3jHYzDVj8rXdQpbxLc3sE5nCPve1BBkJucT9DeSdUKIb-Lagg-TUmUQpi4lNVmFsvJlYO58n4ah_a0MKPzVl9SOhR2y_BWxBtAqz7dklhVGtQ4nJXzOMlisekTcBCo_u3fYq8lPQOIQZeaQv7lX7I9DRRJzSq8_YilDHFbFo3VHENd1fzakHPEUo7SDPWstFoqgd0Bt2a8PyqQCtToTBL8gAnryzGYhk5mo6M2mahwPbGywpQVQ)](../assets/2224c8fb2b3e/1*edg74ul0PuG8KAH5HNoJ6w.jpeg)
 
 Athens, photo by: [Αντιρρησίες Συνείδησης](https://www.facebook.com/antirisiessinidisis/?__tn__=kC-R&eid=ARDGBDN1cx0YLzfpuTR1EffBospZdYjIH3tVu4rDY3mVRhJBl5bXQ0ftgG4eS9jsyznv9fLQrZ5OrlmY&hc_ref=ARRyUPGrRUwjeBxRAUZsWXJSVH_YcHmDvw3Bb-1iasrHD1UTIypmcY68KOqo-3u9N-8&fref=nf&__xts__%5B0%5D=68.ARA9TGuz3dKW18zt8scyq7irAp2DZWKGjyfwTtPfHw5H0WRR6_4UmBlMiq39RX1aZbxkB3GP-D6J844IFyUkYH17M0kIOatpJSay3jHYzDVj8rXdQpbxLc3sE5nCPve1BBkJucT9DeSdUKIb-Lagg-TUmUQpi4lNVmFsvJlYO58n4ah_a0MKPzVl9SOhR2y_BWxBtAqz7dklhVGtQ4nJXzOMlisekTcBCo_u3fYq8lPQOIQZeaQv7lX7I9DRRJzSq8_YilDHFbFo3VHENd1fzakHPEUo7SDPWstFoqgd0Bt2a8PyqQCtToTBL8gAnryzGYhk5mo6M2mahwPbGywpQVQ)
 
@@ -193,7 +193,7 @@ No Name Kitchen has warned about the high possibility of refugees being evicted 
 
 
 
-![Photo and info source: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?tn-str=k%2AF&hc_location=group_dialog)](assets/2224c8fb2b3e/1*pYs3MqzbK3O37_phnk0wRg.jpeg)
+![Photo and info source: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?tn-str=k%2AF&hc_location=group_dialog)](../assets/2224c8fb2b3e/1*pYs3MqzbK3O37_phnk0wRg.jpeg)
 
 Photo and info source: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?tn-str=k%2AF&hc_location=group_dialog)
 #### BOSNIA AND HERZEGOVINA
@@ -203,7 +203,7 @@ A family from Yemen with a sick four\-month\-old child and another who is three 
 This is just one out of many horrible situations people are facing while in their legal limbo and lodged in the insufficiently organized reception centres in northern Bosnia\.
 
 
-![Photo: [Crveni Križ Općine Ključ](https://www.facebook.com/profile.php?id=100009318317491&__tn__=%2Cd%2AF%2AF-R&eid=ARDzR45yO3dfgKQznLuznKw-0vcy0hLLqFD5TPaoLJGpHfHiu5NPch7WewoJ-uJQW0IDfn4ILpQAe0wM&tn-str=%2AF)](assets/2224c8fb2b3e/1*T3FxYOfqTxNwy5MLih5TAQ.jpeg)
+![Photo: [Crveni Križ Općine Ključ](https://www.facebook.com/profile.php?id=100009318317491&__tn__=%2Cd%2AF%2AF-R&eid=ARDzR45yO3dfgKQznLuznKw-0vcy0hLLqFD5TPaoLJGpHfHiu5NPch7WewoJ-uJQW0IDfn4ILpQAe0wM&tn-str=%2AF)](../assets/2224c8fb2b3e/1*T3FxYOfqTxNwy5MLih5TAQ.jpeg)
 
 Photo: [Crveni Križ Općine Ključ](https://www.facebook.com/profile.php?id=100009318317491&__tn__=%2Cd%2AF%2AF-R&eid=ARDzR45yO3dfgKQznLuznKw-0vcy0hLLqFD5TPaoLJGpHfHiu5NPch7WewoJ-uJQW0IDfn4ILpQAe0wM&tn-str=%2AF)
 
@@ -274,14 +274,14 @@ Since the start of this year this rounds up the number of evictions to 229\.
 They constantly report and document such evictions, stating that tents, clothes and personal items are continually confiscated\.
 
 
-![Police evictions taking place in the Calais area \(Photo: [Refugee Info Bus](https://www.facebook.com/RefugeeInfoBus/?__tn__=kC-R&eid=ARCa7OemD25oKvh5iek2J-EKdcLPIrNNhIKRWiIk4bz5RObUnVAEC1Ut_QlZDZiRtt9pK4inMe2c_S7c&hc_ref=ARSM-TBYaW4VQQebUwvEz5yOQAofwBC-V97oc88Ocf92jXXwAqj1rNQ9OcmciyD68ps&fref=nf&__xts__%5B0%5D=68.ARAZ9SR0cJTB2CcTzWTJiF8w3msSADG8QK18DQR_0HqXbXGa63elKVuKHDTdYPbtC1U-8M6FLBnWmFOtOdukru_QylQukFHKdGwRTMTaiPqsVbb-nUscaypYfnDb367ruLiJKVYssl5lzWhcsuhieBea3sYcLbECu-092_fwPE_RHRLpHwiCjzqvEqdqi5jYMeCdQy-v0MUHhNfNzQvJQSnC76v4zp30GS-YegUNoQ8o_bUt9z19jeiaT_RyWGDuT1CC4wTenRbNMKGFga1ZPB8BfviCJxxGATEZpXOkGOQXKGHFLWLegCKSMGqzL9d3X9Ni0xqOcnjBJp3SAQ-DUySg3MgV) \)](assets/2224c8fb2b3e/1*3gIz2HER6dy55HT-M8bcqg.jpeg)
+![Police evictions taking place in the Calais area \(Photo: [Refugee Info Bus](https://www.facebook.com/RefugeeInfoBus/?__tn__=kC-R&eid=ARCa7OemD25oKvh5iek2J-EKdcLPIrNNhIKRWiIk4bz5RObUnVAEC1Ut_QlZDZiRtt9pK4inMe2c_S7c&hc_ref=ARSM-TBYaW4VQQebUwvEz5yOQAofwBC-V97oc88Ocf92jXXwAqj1rNQ9OcmciyD68ps&fref=nf&__xts__%5B0%5D=68.ARAZ9SR0cJTB2CcTzWTJiF8w3msSADG8QK18DQR_0HqXbXGa63elKVuKHDTdYPbtC1U-8M6FLBnWmFOtOdukru_QylQukFHKdGwRTMTaiPqsVbb-nUscaypYfnDb367ruLiJKVYssl5lzWhcsuhieBea3sYcLbECu-092_fwPE_RHRLpHwiCjzqvEqdqi5jYMeCdQy-v0MUHhNfNzQvJQSnC76v4zp30GS-YegUNoQ8o_bUt9z19jeiaT_RyWGDuT1CC4wTenRbNMKGFga1ZPB8BfviCJxxGATEZpXOkGOQXKGHFLWLegCKSMGqzL9d3X9Ni0xqOcnjBJp3SAQ-DUySg3MgV) \)](../assets/2224c8fb2b3e/1*3gIz2HER6dy55HT-M8bcqg.jpeg)
 
 Police evictions taking place in the Calais area \(Photo: [Refugee Info Bus](https://www.facebook.com/RefugeeInfoBus/?__tn__=kC-R&eid=ARCa7OemD25oKvh5iek2J-EKdcLPIrNNhIKRWiIk4bz5RObUnVAEC1Ut_QlZDZiRtt9pK4inMe2c_S7c&hc_ref=ARSM-TBYaW4VQQebUwvEz5yOQAofwBC-V97oc88Ocf92jXXwAqj1rNQ9OcmciyD68ps&fref=nf&__xts__%5B0%5D=68.ARAZ9SR0cJTB2CcTzWTJiF8w3msSADG8QK18DQR_0HqXbXGa63elKVuKHDTdYPbtC1U-8M6FLBnWmFOtOdukru_QylQukFHKdGwRTMTaiPqsVbb-nUscaypYfnDb367ruLiJKVYssl5lzWhcsuhieBea3sYcLbECu-092_fwPE_RHRLpHwiCjzqvEqdqi5jYMeCdQy-v0MUHhNfNzQvJQSnC76v4zp30GS-YegUNoQ8o_bUt9z19jeiaT_RyWGDuT1CC4wTenRbNMKGFga1ZPB8BfviCJxxGATEZpXOkGOQXKGHFLWLegCKSMGqzL9d3X9Ni0xqOcnjBJp3SAQ-DUySg3MgV) \)
 
 There are growing fears that the emergency centre will soon be evicted as the weather conditions improve, [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?__tn__=kC-R&eid=ARDGyRGQgjMNhvEoXU29O2pMVd4DEcLu5fg6hdx74bclU0xHGJ0-TOiH7a24N-_2-wE1W7ufn5Vq3xYi&hc_ref=ARRnOHdrkR5oQ3L5JZc_jBh_U6Amx4h1njxuF62M71Li7El8kWFHVYnJEnXN9yKYiB8&fref=nf&__xts__%5B0%5D=68.ARC2uK1XtXDdIKiCogSbdWVLhglsGniIq3WFrRAzr-ZfXjpP1f-Z_VonC3Wo20lhNVuKs-DxwY7tZGVUCbO_wjFwPK-AreQPiPuLZu6xi6YGWDLyirGgQ4ViQiJFCKDp-js8qJnuZrh4Vt5Y65HffPdADM5CaNFU_Q9R-4JOzXnePkk8VDo57hasGx8fsKeVENUmcLZB3uBvgg-rIGZKdzVHQ8h8QVf1k2kYIUDQ8w4Sx2Am2LSfHFXO6B-kJvGK1740gH6jTtKxgbPnsyYYWW20jTGkTVa3GsqhlB6ATqxOCTeu1bZqk9s2zAAvojP2CgHktMWr_dOjGxB9Ut6ytJaMwp5QPLj6vC01qq_vsglUVGsUMl9icA) warns, so the organisations present on the ground call for donations and support — they publish what is needed on their website\.
 
 
-![Photo: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?__xts__%5B0%5D=68.ARC2uK1XtXDdIKiCogSbdWVLhglsGniIq3WFrRAzr-ZfXjpP1f-Z_VonC3Wo20lhNVuKs-DxwY7tZGVUCbO_wjFwPK-AreQPiPuLZu6xi6YGWDLyirGgQ4ViQiJFCKDp-js8qJnuZrh4Vt5Y65HffPdADM5CaNFU_Q9R-4JOzXnePkk8VDo57hasGx8fsKeVENUmcLZB3uBvgg-rIGZKdzVHQ8h8QVf1k2kYIUDQ8w4Sx2Am2LSfHFXO6B-kJvGK1740gH6jTtKxgbPnsyYYWW20jTGkTVa3GsqhlB6ATqxOCTeu1bZqk9s2zAAvojP2CgHktMWr_dOjGxB9Ut6ytJaMwp5QPLj6vC01qq_vsglUVGsUMl9icA&__tn__=k%2AF&tn-str=k%2AF)](assets/2224c8fb2b3e/1*4f5RboBZisckSbyFZ8Ao3Q.jpeg)
+![Photo: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?__xts__%5B0%5D=68.ARC2uK1XtXDdIKiCogSbdWVLhglsGniIq3WFrRAzr-ZfXjpP1f-Z_VonC3Wo20lhNVuKs-DxwY7tZGVUCbO_wjFwPK-AreQPiPuLZu6xi6YGWDLyirGgQ4ViQiJFCKDp-js8qJnuZrh4Vt5Y65HffPdADM5CaNFU_Q9R-4JOzXnePkk8VDo57hasGx8fsKeVENUmcLZB3uBvgg-rIGZKdzVHQ8h8QVf1k2kYIUDQ8w4Sx2Am2LSfHFXO6B-kJvGK1740gH6jTtKxgbPnsyYYWW20jTGkTVa3GsqhlB6ATqxOCTeu1bZqk9s2zAAvojP2CgHktMWr_dOjGxB9Ut6ytJaMwp5QPLj6vC01qq_vsglUVGsUMl9icA&__tn__=k%2AF&tn-str=k%2AF)](../assets/2224c8fb2b3e/1*4f5RboBZisckSbyFZ8Ao3Q.jpeg)
 
 Photo: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?__xts__%5B0%5D=68.ARC2uK1XtXDdIKiCogSbdWVLhglsGniIq3WFrRAzr-ZfXjpP1f-Z_VonC3Wo20lhNVuKs-DxwY7tZGVUCbO_wjFwPK-AreQPiPuLZu6xi6YGWDLyirGgQ4ViQiJFCKDp-js8qJnuZrh4Vt5Y65HffPdADM5CaNFU_Q9R-4JOzXnePkk8VDo57hasGx8fsKeVENUmcLZB3uBvgg-rIGZKdzVHQ8h8QVf1k2kYIUDQ8w4Sx2Am2LSfHFXO6B-kJvGK1740gH6jTtKxgbPnsyYYWW20jTGkTVa3GsqhlB6ATqxOCTeu1bZqk9s2zAAvojP2CgHktMWr_dOjGxB9Ut6ytJaMwp5QPLj6vC01qq_vsglUVGsUMl9icA&__tn__=k%2AF&tn-str=k%2AF)
 

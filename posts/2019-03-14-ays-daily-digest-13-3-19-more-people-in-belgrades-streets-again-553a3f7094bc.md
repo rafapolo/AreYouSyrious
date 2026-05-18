@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 13/3/19: More people in Belgrade’s streets again
+title: "AYS Daily Digest 13/3/19: More people in Belgrade’s streets again"
 author: Are You Syrious?
 date: 2019-03-14T03:08:29.946+0000
 last_modified_at: 2019-03-14T10:21:41.928+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,serbia,bosnia,iom]
 description: Few people arriving in Italy / Bosnia plans to close Eastern border / EU Commission reacts on Amnesty report / IOM publishes new surves
 image:
-  path: assets/553a3f7094bc/1*esF68OBFhU4awsaqGHPOUg.jpeg
+  path: ../assets/553a3f7094bc/1*esF68OBFhU4awsaqGHPOUg.jpeg
 ---
 
 ### AYS Daily Digest 13/3/19: More people in Belgrade’s streets again
 #### Few people arriving in Italy / Bosnia plans to close Eastern border / EU Commission reacts to Amnesty report / IOM publishes new survey
 
 
-![More people are staying around the Afghani Park and the bus station again\. Photo from 2017\. Credits: Twitter/ [**Renaissance irl** ‏](https://twitter.com/renaissance_irl)](assets/553a3f7094bc/1*esF68OBFhU4awsaqGHPOUg.jpeg)
+![More people are staying around the Afghani Park and the bus station again\. Photo from 2017\. Credits: Twitter/ [**Renaissance irl** ‏](https://twitter.com/renaissance_irl)](../assets/553a3f7094bc/1*esF68OBFhU4awsaqGHPOUg.jpeg)
 
 More people are staying around the Afghani Park and the bus station again\. Photo from 2017\. Credits: Twitter/ [**Renaissance irl** ‏](https://twitter.com/renaissance_irl)
 ### Feature

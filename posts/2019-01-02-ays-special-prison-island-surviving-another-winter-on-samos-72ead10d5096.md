@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL — Prison Island: surviving another winter on Samos
+title: "AYS SPECIAL — Prison Island: surviving another winter on Samos"
 author: Are You Syrious?
 date: 2019-01-02T10:32:52.475+0000
 last_modified_at: 2019-01-03T07:15:28.443+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,samos,greece,special,aegean]
 description: As Greek and UNHCR authorities ignore their responsibilities, Samos is rapidly becoming one of the worst refugee camps in Greece
 image:
-  path: assets/72ead10d5096/1*ANxWVnzw7xGPeZU02295kg.jpeg
+  path: ../assets/72ead10d5096/1*ANxWVnzw7xGPeZU02295kg.jpeg
 ---
 
 ### AYS SPECIAL — Prison Island: surviving another winter on Samos
@@ -15,21 +15,21 @@ image:
 _As Greek and UNHCR authorities ignore their responsibilities, Samos is rapidly becoming one of the worst refugee camps in Greece_
 
 
-![A child stands in the “extended area” of the Samos refugee camp, referred to by some residents as the “jungle”\. Photo Credit: AYS\.](assets/72ead10d5096/1*ANxWVnzw7xGPeZU02295kg.jpeg)
+![A child stands in the “extended area” of the Samos refugee camp, referred to by some residents as the “jungle”\. Photo Credit: AYS\.](../assets/72ead10d5096/1*ANxWVnzw7xGPeZU02295kg.jpeg)
 
 A child stands in the “extended area” of the Samos refugee camp, referred to by some residents as the “jungle”\. Photo Credit: AYS\.
 
 _“I used to believe the worst camp in the world was Moria, but then I came here,”_ explained M\., a volunteer who has worked in a number of the Aegean Island camps\. \(We are keeping both the name of the volunteer and their group anonymous, because groups on the island have faced retaliation from the Greek authorities for sharing information\. \) _“I cannot believe the weather here, it’s crazy\. In Moria \[the camp on Lesvos\] people also live outside the camp in the olive grove, but the rain is not the same\. People are getting flooded out of their tents all the time here\. People are losing their shelter\.”_
 
 
-![People have tried to protect their tents by raising them with pallets and making make\-shift tarps, but with the constant heavy rains, it is almost impossible to stay dry\. Photo Credit: AYS\.](assets/72ead10d5096/1*IgBxJpoot-efrgLlEga0Zw.jpeg)
+![People have tried to protect their tents by raising them with pallets and making make\-shift tarps, but with the constant heavy rains, it is almost impossible to stay dry\. Photo Credit: AYS\.](../assets/72ead10d5096/1*IgBxJpoot-efrgLlEga0Zw.jpeg)
 
 People have tried to protect their tents by raising them with pallets and making make\-shift tarps, but with the constant heavy rains, it is almost impossible to stay dry\. Photo Credit: AYS\.
 
 There is no contest between the Greek detention camps to prove which is the worst, there are no world records for suffering\. While Lesvos has generally been the focus of most reports on the refugee crisis in Greece, this has been changing somewhat, with recent reports and articles by the [New York Times](https://www.nytimes.com/2018/11/14/travel/samos-greece-migrants-refugees-tourists.html) , [Al Jazeera](https://www.aljazeera.com/news/2018/12/greece-thousands-asylum-seekers-enduring-winter-tents-181225102418725.html) , [The Boston Globe](https://www.bostonglobe.com/opinion/2018/11/15/refugees-pushed-edge-survival-greek-island-samos/8UvQngBU5cKuavGNbXli0N/story.html#comments) , and the [London Times](https://www.thetimes.co.uk/article/sorry-the-article-you-were-trying-to-read-was-free-only-for-a-limited-time-b70qpw2kj?region=global) , among others\. Yet the name Samos still remains relatively unknown to those outside the island, and conditions have been steadily worsening\.
 
 
-![](assets/72ead10d5096/1*GqvN7-K4xHApDj5RJwOiBg.png)
+![](../assets/72ead10d5096/1*GqvN7-K4xHApDj5RJwOiBg.png)
 
 
 According to the most recent UNHCR report, there were 4,400 people living in the camp on 23 December\. Yet according to all of the volunteers and people AYS has spoken to, there are well over 5,000 living inside the camp\. To say “inside the camp” is not entirely accurate however, because at least half of the refugees on Samos are living outside of the confines of the camp — perched on pallets or in tents between trees on the steep hill\. Some people who live in this area call it “the jungle”\.
@@ -37,17 +37,17 @@ According to the most recent UNHCR report, there were 4,400 people living in the
 A [report from earlier this week](https://www.aljazeera.com/news/2018/12/greece-thousands-asylum-seekers-enduring-winter-tents-181225102418725.html) stated that there were nearly 3,000 people living in this area\.
 
 
-![The “jungle” area outside the camp, where people have set up makeshift shelters on the steep hill\. Photo Credit: AYS\.](assets/72ead10d5096/1*o6qMWZoa-0WppK1QbZ2CRg.jpeg)
+![The “jungle” area outside the camp, where people have set up makeshift shelters on the steep hill\. Photo Credit: AYS\.](../assets/72ead10d5096/1*o6qMWZoa-0WppK1QbZ2CRg.jpeg)
 
 The “jungle” area outside the camp, where people have set up makeshift shelters on the steep hill\. Photo Credit: AYS\.
 
 
-![More tents outside the camp\. Photo Credit: AYS\.](assets/72ead10d5096/1*RiIl0A-orpJCXGtIw59uAw.jpeg)
+![More tents outside the camp\. Photo Credit: AYS\.](../assets/72ead10d5096/1*RiIl0A-orpJCXGtIw59uAw.jpeg)
 
 More tents outside the camp\. Photo Credit: AYS\.
 
 
-![Tents outside of the camp\. Photo Credit: AYS](assets/72ead10d5096/1*wqALfFYIDEYCcKKkrUqlhw.jpeg)
+![Tents outside of the camp\. Photo Credit: AYS](../assets/72ead10d5096/1*wqALfFYIDEYCcKKkrUqlhw.jpeg)
 
 Tents outside of the camp\. Photo Credit: AYS
 
@@ -58,12 +58,12 @@ _“I know of one woman who arrived on the island this week,”_ said M\. _“Sh
 The filthy and overcrowded Samos detention camp is not safe for anyone, but it is especially unsafe for women and children\. Rape and sexual assault are major issues within the camp\. Many women are too afraid to leave their tents at night\. Instead, they pee into empty water bottles, which you find scattered around the camp\. Many do not use the “bathrooms” even during the day, because they are too disgusting or dangerous\. There have been reports of women being cornered and attacked in the camp bathrooms\.
 
 
-![The “bathroom” in the Samos camp\. Would you use such a facility? Would you let your children use it? Photo Credit: AYS](assets/72ead10d5096/1*19oFI4pRJuzcJIe3OQrPUA.jpeg)
+![The “bathroom” in the Samos camp\. Would you use such a facility? Would you let your children use it? Photo Credit: AYS](../assets/72ead10d5096/1*19oFI4pRJuzcJIe3OQrPUA.jpeg)
 
 The “bathroom” in the Samos camp\. Would you use such a facility? Would you let your children use it? Photo Credit: AYS
 
 
-![The outside of the “bathroom” facilities\.](assets/72ead10d5096/1*T9UgLd4MABhj30JVjey6Cw.jpeg)
+![The outside of the “bathroom” facilities\.](../assets/72ead10d5096/1*T9UgLd4MABhj30JVjey6Cw.jpeg)
 
 The outside of the “bathroom” facilities\.
 
@@ -78,7 +78,7 @@ The UNHCR has a mandate to protect refugees, and a particular obligation towards
 At the beginning of this year, while there were many unaccompanied minors living in the camp, unaccompanied girls were not left on their own\. Now this is the norm, and there are far more unaccompanied minors living in the camp than in the shelters in town\. AYS has learned of a case of a ten\-year\-old boy living at the camp accompanied only by his brother who is a few years older\.
 
 
-![The photo is published with the family’s permission\. AYS](assets/72ead10d5096/1*YxZuZXOhJ_JkGNLYxoiSgg.png)
+![The photo is published with the family’s permission\. AYS](../assets/72ead10d5096/1*YxZuZXOhJ_JkGNLYxoiSgg.png)
 
 The photo is published with the family’s permission\. AYS
 
@@ -105,7 +105,7 @@ There are documented cases of both HIV and tuberculosis at the Samos camp\. Ther
 People suffering from these illnesses may not die on Samos, but they may die later due to lack of treatment on the island\.
 
 
-![A walkway between two containers in the Samos detention camp\. Photo Credit: AYS](assets/72ead10d5096/1*IbRxEJE0VUHQsJh0KxfQHQ.jpeg)
+![A walkway between two containers in the Samos detention camp\. Photo Credit: AYS](../assets/72ead10d5096/1*IbRxEJE0VUHQsJh0KxfQHQ.jpeg)
 
 A walkway between two containers in the Samos detention camp\. Photo Credit: AYS
 
@@ -130,7 +130,7 @@ While journalists may be locked up for a night, the people residing at the camp 
 
 
 
-![The natural beauty of the island at dusk contrasts strongly with the overcrowded detention camp\.](assets/72ead10d5096/1*DDsJb3aYAsv4Z3LFSlK78g.jpeg)
+![The natural beauty of the island at dusk contrasts strongly with the overcrowded detention camp\.](../assets/72ead10d5096/1*DDsJb3aYAsv4Z3LFSlK78g.jpeg)
 
 The natural beauty of the island at dusk contrasts strongly with the overcrowded detention camp\.
 
@@ -145,27 +145,27 @@ The new year is not looking any more promising than the last for refugees on Sam
 **_Refugees 4 Refugees_** , a refugee\-founded NGO that supports asylum seekers in Greece, has also begun work on the island\. You can find out more and support them through their [facebook page](https://www.facebook.com/pg/Refugee4Refugees/about/?ref=page_internal) \.
 
 
-![A tent perched on pallets\. The entrance of the camp can be seen, top left\. Photo Credit: AYS](assets/72ead10d5096/1*zue7es1eHbkzdxEgax6p7g.jpeg)
+![A tent perched on pallets\. The entrance of the camp can be seen, top left\. Photo Credit: AYS](../assets/72ead10d5096/1*zue7es1eHbkzdxEgax6p7g.jpeg)
 
 A tent perched on pallets\. The entrance of the camp can be seen, top left\. Photo Credit: AYS
 
 
-![Trash accumulates inside the camp\. Photo Credit: AYS](assets/72ead10d5096/1*a2WxB459eEa7TZtvOp0lWA.jpeg)
+![Trash accumulates inside the camp\. Photo Credit: AYS](../assets/72ead10d5096/1*a2WxB459eEa7TZtvOp0lWA.jpeg)
 
 Trash accumulates inside the camp\. Photo Credit: AYS
 
 
-![Port\-o\-potties in the camp are never cleaned\. Most are unusable\. Photo Credit: AYS](assets/72ead10d5096/1*Vw5Dlam9TheFkv3puXwQkw.jpeg)
+![Port\-o\-potties in the camp are never cleaned\. Most are unusable\. Photo Credit: AYS](../assets/72ead10d5096/1*Vw5Dlam9TheFkv3puXwQkw.jpeg)
 
 Port\-o\-potties in the camp are never cleaned\. Most are unusable\. Photo Credit: AYS
 
 
-![Tarps are rarely enough to keep out the rainwater\. Photo Credit: AYS\.](assets/72ead10d5096/1*O4qgmBXQVq4qFcqA0chgBA.jpeg)
+![Tarps are rarely enough to keep out the rainwater\. Photo Credit: AYS\.](../assets/72ead10d5096/1*O4qgmBXQVq4qFcqA0chgBA.jpeg)
 
 Tarps are rarely enough to keep out the rainwater\. Photo Credit: AYS\.
 
 
-![Tents set up outside the camp\. Photo Credit: AYS\.](assets/72ead10d5096/1*NNvEngU4TcP0BQC4yYJ-Ig.jpeg)
+![Tents set up outside the camp\. Photo Credit: AYS\.](../assets/72ead10d5096/1*NNvEngU4TcP0BQC4yYJ-Ig.jpeg)
 
 Tents set up outside the camp\. Photo Credit: AYS\.
 

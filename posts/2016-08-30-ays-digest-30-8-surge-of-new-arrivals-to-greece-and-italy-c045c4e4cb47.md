@@ -1,5 +1,5 @@
 ---
-title: AYS digest 30/8: Surge of new arrivals to Greece and Italy
+title: "AYS digest 30/8: Surge of new arrivals to Greece and Italy"
 author: Are You Syrious?
 date: 2016-08-30T23:54:38.819+0100
 last_modified_at: 2016-08-31T00:25:54.448+0100
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,mediterranean,greece,migrants,migrant-crisis]
 description: 6500 people were rescued from 40 boats in Mediterranean yesterday, including newborn twins who needed urgent medical help. It was one of…
 image:
-  path: assets/c045c4e4cb47/1*kddRVGyH1Kr6fyvzLW8JUQ.jpeg
+  path: ../assets/c045c4e4cb47/1*kddRVGyH1Kr6fyvzLW8JUQ.jpeg
 ---
 
 ### AYS digest 30/8: Surge of new arrivals to Greece and Italy
 
 
-![Refugees from Eritrea and other war\-torn and poverty\-stricken areas on yesterday’s desperate attempt to reach Italian shores\. Photo: Emilio Morenatti / [Proactiva Open Arms](https://mediterranean.proactivaopenarms.org/)](assets/c045c4e4cb47/1*kddRVGyH1Kr6fyvzLW8JUQ.jpeg)
+![Refugees from Eritrea and other war\-torn and poverty\-stricken areas on yesterday’s desperate attempt to reach Italian shores\. Photo: Emilio Morenatti / [Proactiva Open Arms](https://mediterranean.proactivaopenarms.org/)](../assets/c045c4e4cb47/1*kddRVGyH1Kr6fyvzLW8JUQ.jpeg)
 
 Refugees from Eritrea and other war\-torn and poverty\-stricken areas on yesterday’s desperate attempt to reach Italian shores\. Photo: Emilio Morenatti / [Proactiva Open Arms](https://mediterranean.proactivaopenarms.org/)
 
@@ -51,7 +51,7 @@ Refugees from Eritrea and other war\-torn and poverty\-stricken areas on yesterd
 
 
 
-![Photo and text provided by our refugee friend and colleague Abdulazez Dukhan / [Through refugee eyes](https://www.facebook.com/throughrefugeeeyes/)](assets/c045c4e4cb47/1*eiuHOcrKh0Ypjdc4d7m6Yg.jpeg)
+![Photo and text provided by our refugee friend and colleague Abdulazez Dukhan / [Through refugee eyes](https://www.facebook.com/throughrefugeeeyes/)](../assets/c045c4e4cb47/1*eiuHOcrKh0Ypjdc4d7m6Yg.jpeg)
 
 Photo and text provided by our refugee friend and colleague Abdulazez Dukhan / [Through refugee eyes](https://www.facebook.com/throughrefugeeeyes/)
 #### GREECE
@@ -69,7 +69,7 @@ According to [News That Moves](https://newsthatmoves.org/en/full-registration-sc
 According to [local press](http://www.ekathimerini.com/211605/article/ekathimerini/news/greek-islands-raise-alarm-over-migrants) , local and port authorities on the islands of the eastern Aegean are demanding immediate government action to decongest overcrowded migrant camps, insisting that they cannot cope with the recent surge in arrivals from neighboring Turkey\. Lesvos Port Authority raised the alarm in a letter addressed to Shipping and Island Policy Minister Theodoros Dritsas, saying the island simply does not have the available infrastructure to accommodate the increased flows of refugees\. **The number of new arrivals to Lesvos has reached 5,226 while existing camps are only designed to host 3,500 people\. The situation on Chios is equally disheartening, with 3,309 refugees in accommodation for 1,100\.** While Interior Ministry officials have attributed the overcrowded conditions at the camps to delays in the registration process, some critics have interpreted the increased traffic as a form of pressure from Ankara, which has linked the deal’s implementation to visa\-free travel for its citizens within the EU\. Turkish Foreign Minister Mevlut Cavusoglu said as much in an interview with Kathimerini published Tuesday where he warned the pact with Brussels will collapse unless it grants Turks visa\-free travel by October “at the latest\.”
 
 
-![Frontex officer assiting refugees intercepted off Lesvos shore yesterday early in the morning\. Photo: [SIRIUS\.HELP](https://www.facebook.com/sirius.help/)](assets/c045c4e4cb47/1*m8VGlMrpi2QQimjVCSbvGQ.jpeg)
+![Frontex officer assiting refugees intercepted off Lesvos shore yesterday early in the morning\. Photo: [SIRIUS\.HELP](https://www.facebook.com/sirius.help/)](../assets/c045c4e4cb47/1*m8VGlMrpi2QQimjVCSbvGQ.jpeg)
 
 Frontex officer assiting refugees intercepted off Lesvos shore yesterday early in the morning\. Photo: [SIRIUS\.HELP](https://www.facebook.com/sirius.help/)
 ### Expert advice needed: how to get a humanitarian visa for Switzerland for a family stuck in Greece?
@@ -93,7 +93,7 @@ Versatile team of volunteers from RefuComm is [asking for Arabic and Farsi volun
 Some of you know Salam Aldeen, who came to Lesvos and created Team Humanity in 2015, a hands\-on NGO working to rescue people crossing the sea to Greece, fleeing war and imminent danger in their country\. Salam and another member of Team Humanity were arrested with three volunteers from Proem\-aid\. He was criminally charged with human trafficking and jailed\. He was released after paying a large fee but trapped in Greece, unable to leave, without support of Danish embassy or any other official instance of his country of origin\. Salam is awaiting trial where can receive 10 years in prison, as the only one of the five defendants remaining in Greece, submitting to weekly Police check\-ins and harassment by local law authorities\.
 
 
-![Salam dragging a boat full of refugees to the shore in September 2015\. Photo: Team Humanity](assets/c045c4e4cb47/1*Lch9m40Yw7kjxdsPmPUcOA.jpeg)
+![Salam dragging a boat full of refugees to the shore in September 2015\. Photo: Team Humanity](../assets/c045c4e4cb47/1*Lch9m40Yw7kjxdsPmPUcOA.jpeg)
 
 Salam dragging a boat full of refugees to the shore in September 2015\. Photo: Team Humanity
 
@@ -113,7 +113,7 @@ Volunteers and refugees from Oreokastro have decided to turn the small room acro
 [Pharma Community Kitchen](https://www.facebook.com/farmacommunitykitchen/?hc_ref=PAGES_TIMELINE&fref=nf) is trying to fill the gap which forbids kitchens inside camps for security reasons, preventing the refugees to cook for themselves, by running an independent kitchen where everyone is welcome to prepare and share the food\. Now they need volunteers to come and assist cooking preparation from 11AM to 3PM, and/or to support distribution from 6PM to 8PM\. No skills needed, just your time and a smile\! If you are willing to help, do not hesitate to [contact Céline Delbarre](https://www.facebook.com/celine.delbarre?hc_ref=SEARCH&fref=nf) on Facebook\.
 
 
-![Volunteers and refugees are trying to create something nice in a place of misery\. Photo:](assets/c045c4e4cb47/1*xwo-jluqIOcfSwjejFdhXA.jpeg)
+![Volunteers and refugees are trying to create something nice in a place of misery\. Photo:](../assets/c045c4e4cb47/1*xwo-jluqIOcfSwjejFdhXA.jpeg)
 
 Volunteers and refugees are trying to create something nice in a place of misery\. Photo:
 ### Bottled water needed in the streets of Thessaloniki
@@ -155,7 +155,7 @@ The “NDR Info” program reported that up to 30 percent of the 1\.1 million re
 A call by Xavier Bertrand, a French regional politician, for an EU “ [asylum hotspot centre](https://www.theguardian.com/uk-news/2016/mar/03/calais-border-treaty-brexit-what-is-france-saying) ” to be set up so that refugees can have their claims for asylum in Britain processed on French soil has provoked tabloid outrage in the UK, according to a [very elaborate article in The Guardian](https://www.theguardian.com/world/2016/aug/30/calais-asylum-hotspot-proposal-main-questions-answered-uk-refugees) , which aims to provide the answers to many questions about the current situation in the camp\.
 
 
-![Volunteers have been calling for a new mechanism for months\. Photo: Care4Calais](assets/c045c4e4cb47/1*JboeOjmF91XX_zMpAqZx4g.jpeg)
+![Volunteers have been calling for a new mechanism for months\. Photo: Care4Calais](../assets/c045c4e4cb47/1*JboeOjmF91XX_zMpAqZx4g.jpeg)
 
 Volunteers have been calling for a new mechanism for months\. Photo: Care4Calais
 
@@ -171,7 +171,7 @@ The Bar Human Rights Committee, which gathers lawyers from England and Wales, ha
 ### Dunkirk Children’s Centre needs toys and volunteers
 
 
-![](assets/c045c4e4cb47/1*41_vLEya46QH8C0zNgMkFQ.jpeg)
+![](../assets/c045c4e4cb47/1*41_vLEya46QH8C0zNgMkFQ.jpeg)
 
 
 After 6 months of having one room for all of the children in the camp to share, Dunkirk Children’s Centre has finally got the use of a second building\. They now have two rooms, one for 3–7 year olds and one for 7\+ \. This means that they can now provide age appropriate activities for both age groups all day long and that young children can play safely, away from the more boisterous older children\! However, this also means that they now need more volunteers, both long\- and short\-term, to help run the children’s centre\. They also need need more donations to make the second space as cosy and fun as the first\. They do not have much storage space and cannot accept certain toys so please do ask before you donate\. Things that go down particularly well are toys that require concentration and focus such as construction kits, brio train sets and very easy board games\. If you think you have the right skills and experience to volunteer with Dunkirk Children’s Centre, or you are willing to donate toys, please get in touch with them by emailing dunkirkchildrenscentre@gmail\.com\.

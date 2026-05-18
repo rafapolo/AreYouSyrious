@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 05/07/17: Sharing responsibility on the Mediterranean
+title: "AYS Daily Digest 05/07/17: Sharing responsibility on the Mediterranean"
 author: Are You Syrious?
 date: 2017-07-05T22:35:54.674+0100
 last_modified_at: 2017-07-06T09:50:33.361+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,refugeeswelcome,mediterranean,refugee-crisis,greece]
 description: 49 people missing after boat sinks near Spain / Arrests in Samos camp / Serbia reacts to EU proposals concerning Frontex operations…
 image:
-  path: assets/c200693c3d9c/1*JQT4BCBrpsnC4Y9CLv4WTA.jpeg
+  path: ../assets/c200693c3d9c/1*JQT4BCBrpsnC4Y9CLv4WTA.jpeg
 ---
 
 ### AYS Daily Digest 05/07/17: Sharing responsibility on the Mediterranean
 #### 49 people missing after boat sinks near Spain / Arrests in Samos camp / Serbia reacts to EU proposals concerning Frontex operations /Preparing for evacuation from Porte de la Chapelle and more
 
 
-![“When does this life end?” — [مهاجر immigrant](https://www.facebook.com/riadh04/)](assets/c200693c3d9c/1*JQT4BCBrpsnC4Y9CLv4WTA.jpeg)
+![“When does this life end?” — [مهاجر immigrant](https://www.facebook.com/riadh04/)](../assets/c200693c3d9c/1*JQT4BCBrpsnC4Y9CLv4WTA.jpeg)
 
 “When does this life end?” — [مهاجر immigrant](https://www.facebook.com/riadh04/)
 #### “Live up to your commitments”
@@ -93,15 +93,15 @@ Find more info [here](https://www.facebook.com/groups/hopeprojectthessaloniki/) 
 
 
 
-![](assets/c200693c3d9c/1*7GvIRx-axS6RAX1VXSFMHA.jpeg)
+![](../assets/c200693c3d9c/1*7GvIRx-axS6RAX1VXSFMHA.jpeg)
 
 
 
-![](assets/c200693c3d9c/1*KXloc16U48tiFQNVng-eIA.jpeg)
+![](../assets/c200693c3d9c/1*KXloc16U48tiFQNVng-eIA.jpeg)
 
 
 
-![“Most positive has been the feedback from the residents that we have received in the last couple of weeks, with many people coming up to us to say they are really happy with the activities we have been doing, and best of all that we have had more and more residents participating in our activities and helping out with the DIY of fixing up the office and salon space\.” — [InterVolve](https://www.facebook.com/InterVolve-219418945063168/)](assets/c200693c3d9c/1*Dm87KrciLh3fp6uAo0wesQ.jpeg)
+![“Most positive has been the feedback from the residents that we have received in the last couple of weeks, with many people coming up to us to say they are really happy with the activities we have been doing, and best of all that we have had more and more residents participating in our activities and helping out with the DIY of fixing up the office and salon space\.” — [InterVolve](https://www.facebook.com/InterVolve-219418945063168/)](../assets/c200693c3d9c/1*Dm87KrciLh3fp6uAo0wesQ.jpeg)
 
 “Most positive has been the feedback from the residents that we have received in the last couple of weeks, with many people coming up to us to say they are really happy with the activities we have been doing, and best of all that we have had more and more residents participating in our activities and helping out with the DIY of fixing up the office and salon space\.” — [InterVolve](https://www.facebook.com/InterVolve-219418945063168/)
 #### Lesvos
@@ -121,7 +121,7 @@ State Watch wrote more about the situation, you can read it [here](http://statew
 Rumor has it that the authorities will evacuate people from the Porte de la Chapelle area this week, Solidarithé [writes](https://www.facebook.com/solidarithe/posts/1833490030302444) \. They are doing their best to prepare people and help them understand what’s going on\. Please share this with anyone who is supporting people in the area, information they are distributing is available in French, English, Arabic & Pashto [here](https://www.facebook.com/solidarithe/posts/1833490030302444) \.
 
 
-![La Chapelle by [**Signal of Solidarity — Flüchtlingshilfe**](https://www.facebook.com/SignalofSolidarity/)](assets/c200693c3d9c/1*29Lau3KrIPqeWES0jSlM-g.jpeg)
+![La Chapelle by [**Signal of Solidarity — Flüchtlingshilfe**](https://www.facebook.com/SignalofSolidarity/)](../assets/c200693c3d9c/1*29Lau3KrIPqeWES0jSlM-g.jpeg)
 
 La Chapelle by [**Signal of Solidarity — Flüchtlingshilfe**](https://www.facebook.com/SignalofSolidarity/)
 
@@ -175,11 +175,11 @@ Local volunteer reports on the situation on Dunkirk\. In case you are able to he
 
 
 
-![](assets/c200693c3d9c/1*hEAWHAi0aFm61KjH-PkD5g.jpeg)
+![](../assets/c200693c3d9c/1*hEAWHAi0aFm61KjH-PkD5g.jpeg)
 
 
 
-![Photos by local volunteers](assets/c200693c3d9c/1*adXk1h2QWv7xNK9y9Qc7Sg.jpeg)
+![Photos by local volunteers](../assets/c200693c3d9c/1*adXk1h2QWv7xNK9y9Qc7Sg.jpeg)
 
 Photos by local volunteers
 #### NORWAY

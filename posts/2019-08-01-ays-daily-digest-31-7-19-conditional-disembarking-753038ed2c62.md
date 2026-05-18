@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 31/7/19: Conditional disembarking
+title: "AYS Daily Digest 31/7/19: Conditional disembarking"
 author: Are You Syrious?
 date: 2019-08-01T10:13:31.487+0100
 last_modified_at: 2019-08-01T12:14:52.927+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,italy,greece]
 description: 116 off Gregoretti allowed to disembark / more than 100,000 civilians as a result of airstrikes and clashes in Libya / In BiH funds…
 image:
-  path: assets/753038ed2c62/1*RyXqR-HvdEcFqFW7ogaN3w.jpeg
+  path: ../assets/753038ed2c62/1*RyXqR-HvdEcFqFW7ogaN3w.jpeg
 ---
 
 ### AYS Daily Digest 31/7/19: Conditional disembarking
@@ -16,7 +16,7 @@ image:
 
 ![Athens, Greece 31 July 2019
 After the protest march against the court’s decision to release the policeman who murdered the 15 year old Alexis Grigoropoulos\.
-Photograph by [Nikos Christofakis Photography](https://www.facebook.com/Christofakisphotography/?__xts__%5B0%5D=68.ARDwTD9Xowsiw5nMP1xIHO_LyIJW7OUpc1if6vxvclz_obEaL8yp3m2X78y8AIc1O-iUBNWL1Qd13kqIshBRkBGRawjEZUYlHHgJ6ioKX3SV_xeuA8xWuww9TtDM_mzlyBGSOjaXwUxThUSjjquhx0W0AfFSaDi6jz7JzHU0hDR8rXuvgGaQH5u4avxHpJYy5IWD9J2NFjoJScHjtjmvHaAnYuWPqy9FFcHQchrtuTWf7PXOsT3s1ugoEbiMy92PtTbz0und6VQ62Fbns3axLroDoltyClcO6mCXY38nODLv3ZM2TID9j8PXGcE9pyw_rE6X1wmFiVBrVKkDezHEmxx0nQ&__tn__=%2CdK%2AF-R&eid=ARAA8wqfp6EjEy0Ge3zgLXURLzXmDPqYhuYvR785qrAEJ5Go0u9VcSPeYZfAOtNlIROre4SulIYhuggL) , via ArtAgainst](assets/753038ed2c62/1*RyXqR-HvdEcFqFW7ogaN3w.jpeg)
+Photograph by [Nikos Christofakis Photography](https://www.facebook.com/Christofakisphotography/?__xts__%5B0%5D=68.ARDwTD9Xowsiw5nMP1xIHO_LyIJW7OUpc1if6vxvclz_obEaL8yp3m2X78y8AIc1O-iUBNWL1Qd13kqIshBRkBGRawjEZUYlHHgJ6ioKX3SV_xeuA8xWuww9TtDM_mzlyBGSOjaXwUxThUSjjquhx0W0AfFSaDi6jz7JzHU0hDR8rXuvgGaQH5u4avxHpJYy5IWD9J2NFjoJScHjtjmvHaAnYuWPqy9FFcHQchrtuTWf7PXOsT3s1ugoEbiMy92PtTbz0und6VQ62Fbns3axLroDoltyClcO6mCXY38nODLv3ZM2TID9j8PXGcE9pyw_rE6X1wmFiVBrVKkDezHEmxx0nQ&__tn__=%2CdK%2AF-R&eid=ARAA8wqfp6EjEy0Ge3zgLXURLzXmDPqYhuYvR785qrAEJ5Go0u9VcSPeYZfAOtNlIROre4SulIYhuggL) , via ArtAgainst](../assets/753038ed2c62/1*RyXqR-HvdEcFqFW7ogaN3w.jpeg)
 
 Athens, Greece 31 July 2019
 After the protest march against the court’s decision to release the policeman who murdered the 15 year old Alexis Grigoropoulos\.
@@ -57,7 +57,7 @@ Euro\-Med have [documented](https://euromedmonitor.org/en/article/3038?fbclid=Iw
 Targeting medical personnel is a flagrant violation of the rules of international law, according to Article 21 of the Fourth Geneva Convention of 1949, which criminalizes attacks on medical institutions and staff\.
 
 
-![](assets/753038ed2c62/1*WTG5OPTeuxqpgRlC8djpWg.jpeg)
+![](../assets/753038ed2c62/1*WTG5OPTeuxqpgRlC8djpWg.jpeg)
 
 #### SEARCH AND RESCUE
 
@@ -138,7 +138,7 @@ However, unlike before, the associations no longer gather some of the two to fou
 ### Nantes
 
 
-![](assets/753038ed2c62/1*Bq1bKSyFD9sJJ_yIp909cg.png)
+![](../assets/753038ed2c62/1*Bq1bKSyFD9sJJ_yIp909cg.png)
 
 
 [L’Autre Cantine Nantes](https://www.facebook.com/lautrecantinenantes/?tn-str=k%2AF&hc_location=group_dialog) needs donations for preparing meals:

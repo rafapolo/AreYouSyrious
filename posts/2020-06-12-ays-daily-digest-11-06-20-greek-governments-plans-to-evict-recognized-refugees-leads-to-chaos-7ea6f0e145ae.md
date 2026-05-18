@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 11/06/20: Greek Government’s plans to evict recognized refugees leads to chaos…
+title: "AYS DAILY DIGEST 11/06/20: Greek Government’s plans to evict recognized refugees leads to chaos…"
 author: Are You Syrious?
 date: 2020-06-12T21:52:41.287+0100
 last_modified_at: 2020-06-12T21:52:41.287+0100

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 2/3/20: A child dies off the coast of Lesvos
+title: "AYS Daily Digest 2/3/20: A child dies off the coast of Lesvos"
 author: Are You Syrious?
 date: 2020-03-03T12:55:13.776+0000
 last_modified_at: 2020-03-03T12:55:13.776+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,turkey,greece,refugees,europe]
 description: Updates from Greece and the Greek-Turkish border; Locals respond with more violence on Lesvos // EU countries send more defense to borders…
 image:
-  path: assets/d7ddbb4522f9/0*j-UJHLtmdrtFQ5Ct.jpeg
+  path: ../assets/d7ddbb4522f9/0*j-UJHLtmdrtFQ5Ct.jpeg
 ---
 
 ### AYS Daily Digest 2/3/20: A child dies off the coast of Lesvos
 ### Updates from Greece and the Greek\-Turkish border; Locals respond with more violence on Lesvos // EU countries send more defense to borders // Bulgarian pushbacks // Belgrade locals targeting refugees // A surge of arrivals in Tuzla, Bosnia and Herzegovina // and more…
 
 
-![](assets/d7ddbb4522f9/0*MMllCwq5tNcvgen2.jpeg)
+![](../assets/d7ddbb4522f9/0*MMllCwq5tNcvgen2.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----ef1d0ff4de14----------------------)
@@ -22,11 +22,11 @@ image:
 [Mar 3](ays-daily-digest-2-3-20-a-child-dies-off-the-coast-of-lesvos-ef1d0ff4de14?source=post_page-----ef1d0ff4de14----------------------) · 12 min read
 
 
-![](assets/d7ddbb4522f9/0*Kc721H3C__R9G1VE)
+![](../assets/d7ddbb4522f9/0*Kc721H3C__R9G1VE)
 
 
 
-![](assets/d7ddbb4522f9/0*j-UJHLtmdrtFQ5Ct.jpeg)
+![](../assets/d7ddbb4522f9/0*j-UJHLtmdrtFQ5Ct.jpeg)
 
 ### FEATURE: MONDAY’S UPDATES ON THE GREEK — TURKISH BORDER
 
@@ -84,7 +84,7 @@ Update: There are reports of nearly 500 new arrivals being detained in the ferry
 
 
 
-![](assets/d7ddbb4522f9/0*cqljIQBLg4IYldjY)
+![](../assets/d7ddbb4522f9/0*cqljIQBLg4IYldjY)
 
 
 Aegean Boat Report reported late on Monday evening that: _“So far today at least 10 boats have arrived on the Greek Aegean islands, carrying **approximately 390 people** \. It’s very difficult to get confirmed solid information, most likely there are more boats arrived that I’m not aware of, but it’s difficult times\.”_
@@ -92,11 +92,11 @@ Aegean Boat Report reported late on Monday evening that: _“So far today at lea
 Lesvos had two boats, where two children were taken to hospital and **one child sadly passed away** ; Chios had 1 boat, which included 20 children; Oinousses had 1 boat, in a very difficult area where they will be helicoptered out first thing in the morning; Leros had 2 boats; Farmakonisi had 3 boats; Strongyli had 1 boat\.
 
 
-![](assets/d7ddbb4522f9/0*C1Yyav6pdTtqEnme)
+![](../assets/d7ddbb4522f9/0*C1Yyav6pdTtqEnme)
 
 
 
-![](assets/d7ddbb4522f9/0*mkNKCLb0TB4AmeBd.jpeg)
+![](../assets/d7ddbb4522f9/0*mkNKCLb0TB4AmeBd.jpeg)
 
 
 Some other important island news:
@@ -129,11 +129,11 @@ Hundreds of groups and organizations worldwide have come together to sign the mu
 Their main point addresses: _“Xenophobia, racism and their normalization must be opposed everywhere they surface, be it in Turkey, Greece and anywhere else\. The \(use\) of the lives of migrants, asylum seekers and refugees reduced to a threat and a bargaining chip must end, both in domestic electoral campaigns and in the relations between the Turkish government and the EU\.”_ Read the statement in full [here](https://crossbordersolidarity.com/?fbclid=IwAR30NWpUsxfm1t81ytXThNJxo7yzuFoYDMZtqdYAdx6a-jhB9T8MvmiinKo#english) \.
 
 
-![](assets/d7ddbb4522f9/0*H0iPf5s1EM67DCyP)
+![](../assets/d7ddbb4522f9/0*H0iPf5s1EM67DCyP)
 
 
 
-![](assets/d7ddbb4522f9/0*eK0rDtiExoC9hiOH.jpeg)
+![](../assets/d7ddbb4522f9/0*eK0rDtiExoC9hiOH.jpeg)
 
 
 Europe Must Act Now for the Immediate Decongestion of the Aegean Islands\. \(Here is an excerpt from the open letter signed by over 75 NGOs and thousands of civilians, and counting…sign it [here\!](https://www.change.org/p/charles-michel-europe-must-act-now-for-the-immediate-decongestion-of-the-aegean-islands-37ac8a88-cf7e-4ce2-9a98-1b2969f1bda4) \)
@@ -147,7 +147,7 @@ To Charles Michel, president of the European Council, Ursula von der Leyen, pres
 
 
 
-![](assets/d7ddbb4522f9/0*CiGyCHdGnynowajC.jpeg)
+![](../assets/d7ddbb4522f9/0*CiGyCHdGnynowajC.jpeg)
 
 
 In a statement on Monday, [the UN’s refugee agency](https://www.unhcr.org/news/press/2020/3/5e5d08ad4/unhcr-statement-situation-turkey-eu-border.html?fbclid=IwAR20ccWhCBbcTNTPk1utEUEfOgNFJxH0N53hH_iEXorhU35AH8Uh0E0TwG0&__cf_chl_jschl_tk__=33312099cb92e0f91792bd0a743bce586d83ba80-1583200372-0-AYvsNp4Bye08THeb0PEW9RcrxT-Gbp-2JJGIxEyL4NdO_pYxIAfd1MdP1XZgN0CdliR9AyNf-nGzdACeSl6sBzT-d7N2DIka47y8VxxlOrxEg81Y6cmeOTfTVwxy2nkdGQ_e7HnblwynyEXwIcawM6sQ-w2AGmV7zZOX15tpBiirsxmWS5_5l2PEKf12je0xXRtPm6qYz2ofJ5suGDOMzrwF9MJbivIw1uc79xhZJqDqUjidMnXhVIx6GFh08KeXq9AEnMnul5Oe-ylB5GAYUiUPCpjb3o6XuporTpbjLFIa5-I0z87X5BJRbYYbsltjXw_9-8d_yLGYcFcMFCGwHHB74DDO7tMpPgcLgVGL1HtPXCm6zmfXbacmWj8sqIlDHmBFbcUOsFC5_M8DFQjK_kI3ymiIzKkxqVpykJtG6pAnFn5Wi60tahD3AXdYf-fBgfJ6JDKQfK8lYJG6I0tjM6k) dispassionately emphasized the need to refrain from “excessive or disproportionate force”, confirming that systems of asylum need to remain intact\. They send the reminder that:
@@ -210,65 +210,65 @@ Following the recent developments in Belgrade, a group of civilians calling them
 During the day more than 200 new people arrived, among them were two families with seven children, followed by about 150 more people in the afternoon\. The two non\-working days in a row \(due to the Independence Day\) will surely take their toll on the situation in the city\.
 
 
-![](assets/d7ddbb4522f9/0*g0IvDs8ZVPCsEHyC)
+![](../assets/d7ddbb4522f9/0*g0IvDs8ZVPCsEHyC)
 
 
 
-![](assets/d7ddbb4522f9/0*BUi0HM2xsCccuSMP)
+![](../assets/d7ddbb4522f9/0*BUi0HM2xsCccuSMP)
 
 
 
-![](assets/d7ddbb4522f9/0*PStzMrQW9GuvmWkU.jpeg)
+![](../assets/d7ddbb4522f9/0*PStzMrQW9GuvmWkU.jpeg)
 
 
 There is a multitude of people with barely anything needed for survival — no proper clothes, shelter, amenities, food or anything of the kind\. Along with the locals, individuals and groups who continue assisting people in transit, during the day the police assisted in making the distribution and assistance possible, given the conditions and the number of people\.
 
 
-![](assets/d7ddbb4522f9/0*Cj3Wl3JSx7S__XVf)
+![](../assets/d7ddbb4522f9/0*Cj3Wl3JSx7S__XVf)
 
 
 
-![](assets/d7ddbb4522f9/0*HHa44Q1-OaX8fJzQ.jpeg)
+![](../assets/d7ddbb4522f9/0*HHa44Q1-OaX8fJzQ.jpeg)
 
 
 
-![](assets/d7ddbb4522f9/0*wMdZMxEiGqwuqo3m)
+![](../assets/d7ddbb4522f9/0*wMdZMxEiGqwuqo3m)
 
 
 
-![](assets/d7ddbb4522f9/0*1OG9maLvwGeoi2Rj.jpeg)
+![](../assets/d7ddbb4522f9/0*1OG9maLvwGeoi2Rj.jpeg)
 
 
 There is a growing number of unaccompanied minors who are not treated any differently than the rest of the people\. The officials, both those of the city and the heads of the Canton, have so far done nothing to alleviate the troubles and difficulties the people are in, or to help their own citizens in dealing with what is becoming an unsurmountable number of issues, from the health problems, sleep deprivation and poor psychological state of most of the people passing through, to the desperation of those with no place to lay their head and those who have been coming back from the north of the country after a number of failed attempts to cross the border and continue, having been beaten up and robbed of their few possessions\.
 
 
-![](assets/d7ddbb4522f9/0*lvuDrShXSJnzXAHt.jpeg)
+![](../assets/d7ddbb4522f9/0*lvuDrShXSJnzXAHt.jpeg)
 
 
 
-![](assets/d7ddbb4522f9/0*XPotK4xKrGfltd5S)
+![](../assets/d7ddbb4522f9/0*XPotK4xKrGfltd5S)
 
 
 
-![](assets/d7ddbb4522f9/0*vVpcWPcrMoc4fY2v.jpeg)
+![](../assets/d7ddbb4522f9/0*vVpcWPcrMoc4fY2v.jpeg)
 
 
 
-![](assets/d7ddbb4522f9/0*x9rUmTGVS0q5FdLx)
+![](../assets/d7ddbb4522f9/0*x9rUmTGVS0q5FdLx)
 
 
 
-![](assets/d7ddbb4522f9/0*3oJ-_KD6GwYD1Isl.jpeg)
+![](../assets/d7ddbb4522f9/0*3oJ-_KD6GwYD1Isl.jpeg)
 
 
 SWEDEN
 
 
-![](assets/d7ddbb4522f9/0*rj6xG0us-mvFNGz3)
+![](../assets/d7ddbb4522f9/0*rj6xG0us-mvFNGz3)
 
 
 
-![](assets/d7ddbb4522f9/0*YUIAbWQytN4WUF4i.jpeg)
+![](../assets/d7ddbb4522f9/0*YUIAbWQytN4WUF4i.jpeg)
 
 
 FINLAND
@@ -278,11 +278,11 @@ FINLAND
 UK
 
 
-![](assets/d7ddbb4522f9/0*RiWAufpiEyM6dFwe)
+![](../assets/d7ddbb4522f9/0*RiWAufpiEyM6dFwe)
 
 
 
-![](assets/d7ddbb4522f9/0*0lH88Dyq1j5zkoXZ.png)
+![](../assets/d7ddbb4522f9/0*0lH88Dyq1j5zkoXZ.png)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

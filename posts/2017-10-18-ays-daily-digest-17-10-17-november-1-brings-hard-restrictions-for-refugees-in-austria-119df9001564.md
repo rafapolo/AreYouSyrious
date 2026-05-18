@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 17/10/17: November 1 brings hard restrictions for refugees in Austria
+title: "AYS Daily Digest 17/10/17: November 1 brings hard restrictions for refugees in Austria"
 author: Are You Syrious?
 date: 2017-10-18T01:41:25.954+0100
 last_modified_at: 2017-10-18T01:41:25.954+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,greece,human-rights,france]
 description: Difficult situation on the Greek islands finally moves the officials to relocate people to mainland — too slow / Horrible state of the Vial…
 image:
-  path: assets/119df9001564/1*I1qye5rkXN9Rovu5dIGv7Q.jpeg
+  path: ../assets/119df9001564/1*I1qye5rkXN9Rovu5dIGv7Q.jpeg
 ---
 
 ### AYS Daily Digest 17/10/17: November 1 brings hard restrictions for refugees in Austria
 #### Difficult situation on the Greek islands finally moves the officials to relocate people to mainland — too slow / Horrible state of the Vial camp ahead of winter / volunteers and aid needed in Greece, Serbia, France / current situation in Croatia / restrictions and hard conditions to be imposed upon refugees in Austria
 
 
-![Vial, Photo: عشتار للهجرة واللجوء](assets/119df9001564/1*I1qye5rkXN9Rovu5dIGv7Q.jpeg)
+![Vial, Photo: عشتار للهجرة واللجوء](../assets/119df9001564/1*I1qye5rkXN9Rovu5dIGv7Q.jpeg)
 
 Vial, Photo: عشتار للهجرة واللجوء
 #### FEATURE
@@ -96,20 +96,20 @@ One boat was picked up by Frontex at the North coast of Lesvos carrying 34 peopl
 _Vial camp ahead of winter conditions\. \._
 
 
-![](assets/119df9001564/1*ZYgRwHSsPKxoHl-5j_KGow.jpeg)
+![](../assets/119df9001564/1*ZYgRwHSsPKxoHl-5j_KGow.jpeg)
 
 
 
-![Photos: عشتار للهجرة واللجوء](assets/119df9001564/1*gW4-B_aLi-qKVYxl4Ir2nw.jpeg)
+![Photos: عشتار للهجرة واللجوء](../assets/119df9001564/1*gW4-B_aLi-qKVYxl4Ir2nw.jpeg)
 
 Photos: عشتار للهجرة واللجوء
 
 
-![](assets/119df9001564/1*RTOnz9vxGfvzm_vfBVkEnA.jpeg)
+![](../assets/119df9001564/1*RTOnz9vxGfvzm_vfBVkEnA.jpeg)
 
 
 
-![](assets/119df9001564/1*pdZ7hVhagH8r4eW5bsttfQ.jpeg)
+![](../assets/119df9001564/1*pdZ7hVhagH8r4eW5bsttfQ.jpeg)
 
 
 Today was one of the busiest days at the Children’s house on Chios\. 
@@ -240,19 +240,19 @@ If you can, please help with your donation to relieve some of the financial burd
 _Since our last visit to Paris last winter the situation hasn’t improved\. It has even become worse\. More people sleep in the streets and are being harassed more frequently by police,_ [Rastplatz](https://www.facebook.com/rastplatz/?ref=gs&hc_ref=ARRn3GZ2ADPBkTCak99j4kJGzI0t2T-TviqamnDyT27fzX3lo1GH_8HfFQT-RFyv0EE&fref=gs&hc_location=group) team reports\.
 
 
-![](assets/119df9001564/1*7gzX7tEXZMyROfpNdqKFMA.jpeg)
+![](../assets/119df9001564/1*7gzX7tEXZMyROfpNdqKFMA.jpeg)
 
 
 
-![](assets/119df9001564/1*36XsHKvz3JZzMlGeK0lmCw.jpeg)
+![](../assets/119df9001564/1*36XsHKvz3JZzMlGeK0lmCw.jpeg)
 
 
 
-![](assets/119df9001564/1*Ell2ScrKC9HNcSEPAAT5cA.jpeg)
+![](../assets/119df9001564/1*Ell2ScrKC9HNcSEPAAT5cA.jpeg)
 
 
 
-![Photos: [Rastplatz](https://www.facebook.com/rastplatz/?ref=gs&hc_ref=ARRn3GZ2ADPBkTCak99j4kJGzI0t2T-TviqamnDyT27fzX3lo1GH_8HfFQT-RFyv0EE&fref=gs&hc_location=group)](assets/119df9001564/1*MObL5vO15g0npM5fI2fXag.jpeg)
+![Photos: [Rastplatz](https://www.facebook.com/rastplatz/?ref=gs&hc_ref=ARRn3GZ2ADPBkTCak99j4kJGzI0t2T-TviqamnDyT27fzX3lo1GH_8HfFQT-RFyv0EE&fref=gs&hc_location=group)](../assets/119df9001564/1*MObL5vO15g0npM5fI2fXag.jpeg)
 
 Photos: [Rastplatz](https://www.facebook.com/rastplatz/?ref=gs&hc_ref=ARRn3GZ2ADPBkTCak99j4kJGzI0t2T-TviqamnDyT27fzX3lo1GH_8HfFQT-RFyv0EE&fref=gs&hc_location=group)
 
@@ -266,11 +266,11 @@ Photos: [Rastplatz](https://www.facebook.com/rastplatz/?ref=gs&hc_ref=ARRn3GZ2AD
 „ In addition, police repression around the centre has grown more acute\. These past weeks, the police have been waking up the migrants every two hours to make them leave\. This is torture\. Utopia 56 aspires to humanitarian centres that respect the law and where the migrants are truly welcomed\. It’s not the case\.“ — [Utopia56](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.utopia56.com%2Fen%2Factualite%2Futopia-56-is-leaving-the-paris-humanitarian-center&h=ATO5y2xjK93FiMLrQ0NJAFYh8VkO2v2uFfc0YMLkNRsiCdeVivXUZizWGJrjLHkRoYtBCWX70iSABHCgsJcf8nVzeu5UcXVFn27VbroLUtvaibPklEDNuT5adHwOZUNXui77YfBSvIzXuVmQ_6INQw-GDXw_YHggBnYz8AHo_YgFg8egk3NMXhX0IZRTbSz2EQMW1dmCn4MsEQrezeCE1cY_tiXsnhVJ3Npsa7wSnkzcpP5UWMw8BO23RbKw0RUdH4LPDKjDNI8nps3yHsdY24Uvgg)
 
 
-![](assets/119df9001564/1*lARJedOi15pXlt1sV3qTUQ.jpeg)
+![](../assets/119df9001564/1*lARJedOi15pXlt1sV3qTUQ.jpeg)
 
 
 
-![Photos: Paris Refugee Ground Support](assets/119df9001564/1*6L9WIXmbdFBp-pKFvDc2rw.jpeg)
+![Photos: Paris Refugee Ground Support](../assets/119df9001564/1*6L9WIXmbdFBp-pKFvDc2rw.jpeg)
 
 Photos: Paris Refugee Ground Support
 

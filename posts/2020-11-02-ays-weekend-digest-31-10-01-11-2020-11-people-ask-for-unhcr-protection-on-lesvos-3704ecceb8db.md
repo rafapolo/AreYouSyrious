@@ -7,18 +7,18 @@ categories: Are You Syrious?
 tags: [refugees,migrants,digest,unhcr,lesvos]
 description: COVID-19 Spreading in Syrian Camps for Displaced People /// Partial Lockdown in Greece /// Croatian State Targets Partner of AYS Program…
 image:
-  path: assets/3704ecceb8db/0*bwpqCJK5Lb6TKkU7
+  path: ../assets/3704ecceb8db/0*bwpqCJK5Lb6TKkU7
 ---
 
 ### AYS Weekend Digest 31/10–01/11/2020–11 People Ask for UNHCR Protection on Lesvos
 #### COVID\-19 Spreading in Syrian Camps for Displaced People /// Partial Lockdown in Greece /// Croatian State Targets Partner of AYS Program Manager
 
 
-![](assets/3704ecceb8db/0*13quoHLxY1Ahq8xJ)
+![](../assets/3704ecceb8db/0*13quoHLxY1Ahq8xJ)
 
 
 
-![](assets/3704ecceb8db/0*bwpqCJK5Lb6TKkU7)
+![](../assets/3704ecceb8db/0*bwpqCJK5Lb6TKkU7)
 
 
 Moria 2\.0 Photo credit: [Franziska Grillmeier](https://twitter.com/f_grillmeier/status/1322652630066335745)
@@ -54,11 +54,11 @@ The Greek government has placed several regions on [partial lockdown](https://ww
 Of course, people living in camps have been under continuous lockdown for months now, and these measures are making the conditions even harsher\. For example, [only 750 people](https://twitter.com/f_grillmeier/status/1322652630066335745) can leave Moria 2\.0 per day and nobody is allowed to leave on Sundays, even though vital services like pharmacies and lawyers are not present in the camp\. People in camps in the red zones [cannot leave](https://twitter.com/AVeizis/status/1322618522988662784?fbclid=IwAR1lDHUnX4Aps6ktu_cEUsECNohg9gbIUnLSOwp8hoOPampM5PqwjZeZwho) their facilities at all\.
 
 
-![](assets/3704ecceb8db/0*oNwyg_AARwG9b8i9)
+![](../assets/3704ecceb8db/0*oNwyg_AARwG9b8i9)
 
 
 
-![](assets/3704ecceb8db/0*midMPYDlZTHNaZkt)
+![](../assets/3704ecceb8db/0*midMPYDlZTHNaZkt)
 
 
 A map of the two tiers of lockdowns in Greece, via [Dr\. Apostolos Veizis](https://twitter.com/AVeizis/status/1322618522988662784?fbclid=IwAR1lDHUnX4Aps6ktu_cEUsECNohg9gbIUnLSOwp8hoOPampM5PqwjZeZwho)
@@ -80,11 +80,11 @@ The European Commission is [planning a visit](http://welcome.cms.hr/index.php/20
 ### Campagna Lesvos Calling and Friends Symbolically Cross Italian\-Slovenian Border
 
 
-![](assets/3704ecceb8db/0*Xk4iXutYDHfe6MkG)
+![](../assets/3704ecceb8db/0*Xk4iXutYDHfe6MkG)
 
 
 
-![](assets/3704ecceb8db/0*C7hkMyEulTvEgkNf)
+![](../assets/3704ecceb8db/0*C7hkMyEulTvEgkNf)
 
 
 
@@ -139,11 +139,11 @@ Conditions are not helped by the rising xenophobia in the UK, egged on by dehuma
 The interactive work “ [Have Your Passport Ready](https://haveyourpassportready.co.uk/?fbclid=IwAR3kh6TJ0UkL25cAnEqdaOfwZyfz0Ywr2KqPJhTmIHsvOCQSchZ-s6gVvYs) ,” by Khaled and Mohammad Aljawad, aims to combat this and other fear\-mongering misinformation floating around through a [choose\-your\-own\-adventure](https://uk.finance.yahoo.com/news/passport-ready-review-step-inside-130051873.html?guccounter=1&guce_referrer=aHR0cHM6Ly9sLmZhY2Vib29rLmNvbS8&guce_referrer_sig=AQAAAFlGZtWK42tJ39FhVu_JsQn9pwcfA6PAS-9M6_9bse6ZSBsUCLmRwxfTMNqHfJLKHaRfQWviPlNQycTFMOkKQF3HxhAu8uKkHqn6GYaiYOpTXTGK8RtnrI2PYKlO-0aERB-ElyNa3t9Km8e6e89Q55VbJNleygtziQc29vY64nAA) that takes viewers through the British immigration system\. This deserves far more attention than fluff pieces about racists\.
 
 
-![](assets/3704ecceb8db/0*ylOePtSSC5czeggB)
+![](../assets/3704ecceb8db/0*ylOePtSSC5czeggB)
 
 
 
-![](assets/3704ecceb8db/0*Kgl6hBIjDlTQotJF)
+![](../assets/3704ecceb8db/0*Kgl6hBIjDlTQotJF)
 
 
 Photo credit: [Li Sa](https://www.facebook.com/lisa.lins.75) , via [Abdulazez Dukhan](https://www.facebook.com/photo/?fbid=1579730208899839&set=a.187083341497873) & [Transbalkanska Solidarnost](https://www.facebook.com/transbalkanskasolidarnost/posts/186570519626604)

@@ -5,9 +5,9 @@ date: 2018-07-26T09:19:55.331+0100
 last_modified_at: 2018-07-26T09:19:55.331+0100
 categories: Are You Syrious?
 tags: []
-description: AYS DAILY DIGEST 25/7/18: EC moves forward with suggestions on Controlled Centers and external platforms
+description: "AYS DAILY DIGEST 25/7/18: EC moves forward with suggestions on Controlled Centers and external platforms"
 image:
-  path: assets/e9d5fe49f0a8/1*fnFyQvrOu-hWQKi7NGy5zw.jpeg
+  path: ../assets/e9d5fe49f0a8/1*fnFyQvrOu-hWQKi7NGy5zw.jpeg
 ---
 
 ### AYS DAILY DIGEST FOR July 25th, 2018
@@ -16,7 +16,7 @@ image:
 _Meanwhile, Human Rights Watch said: “Disputes over rescues put lives at risk” // As \#Athensfire continues people organize themselves to help // Attack in Thessaloniki // Sweden will upgrade the UN Child Convention to law, but has to change their migration legislation to include every child // Temporary accommodation for families in Bosnia // Dubs amendment discussed in court // And more news…_
 
 
-![Photo: Osvaldo Gutierrez Gomez, via [Art Against](https://www.facebook.com/artagainstproject/photos/a.639651369417634.1073741828.639605726088865/1791107534272006/?type=3&theater&ifg=1)](assets/e9d5fe49f0a8/1*fnFyQvrOu-hWQKi7NGy5zw.jpeg)
+![Photo: Osvaldo Gutierrez Gomez, via [Art Against](https://www.facebook.com/artagainstproject/photos/a.639651369417634.1073741828.639605726088865/1791107534272006/?type=3&theater&ifg=1)](../assets/e9d5fe49f0a8/1*fnFyQvrOu-hWQKi7NGy5zw.jpeg)
 
 Photo: Osvaldo Gutierrez Gomez, via [Art Against](https://www.facebook.com/artagainstproject/photos/a.639651369417634.1073741828.639605726088865/1791107534272006/?type=3&theater&ifg=1)
 #### FEATURE
@@ -92,11 +92,11 @@ As [featured in yesterdays digest](ays-daily-digest-24-07-18-wildfires-and-solid
 People, living as refugees in Athens, are giving blood at Athens hospital to donate for people who have been injured in the fire\.
 
 
-![](assets/e9d5fe49f0a8/1*GoAJXv3YmvXpNx658lotww.jpeg)
+![](../assets/e9d5fe49f0a8/1*GoAJXv3YmvXpNx658lotww.jpeg)
 
 
 
-![Photo: [FOTOMOVIMIENTO 15M](https://www.facebook.com/Fotomovimiento.org/?hc_ref=ARSLznV7DKgaZTMfGx-cTmi_ZghxchHweUqm6mHeoCNh5BMF8to_T0IT_hA0K67-JEw&fref=nf)](assets/e9d5fe49f0a8/1*vauGyhpIx_XAZJgAEeEpuQ.jpeg)
+![Photo: [FOTOMOVIMIENTO 15M](https://www.facebook.com/Fotomovimiento.org/?hc_ref=ARSLznV7DKgaZTMfGx-cTmi_ZghxchHweUqm6mHeoCNh5BMF8to_T0IT_hA0K67-JEw&fref=nf)](../assets/e9d5fe49f0a8/1*vauGyhpIx_XAZJgAEeEpuQ.jpeg)
 
 Photo: [FOTOMOVIMIENTO 15M](https://www.facebook.com/Fotomovimiento.org/?hc_ref=ARSLznV7DKgaZTMfGx-cTmi_ZghxchHweUqm6mHeoCNh5BMF8to_T0IT_hA0K67-JEw&fref=nf)
 
@@ -105,7 +105,7 @@ Photo: [FOTOMOVIMIENTO 15M](https://www.facebook.com/Fotomovimiento.org/?hc_ref=
 [_Leftist and anarchist groups_](https://www.facebook.com/…/a.66078742398…/1841890149212202/…) _, squats and social centers, practice extended solidarity actions by gathering clothes, medicines and food for the victims of the [\#AthensFires](https://www.facebook.com/hashtag/athensfires) all over [\#Greece](https://www.facebook.com/hashtag/greece) [\#Solidarity](https://www.facebook.com/hashtag/solidarity) has become our weapon\!_
 
 
-![People coming together and bringing donations for the people suffering from the fires\. Photo: No Borders](assets/e9d5fe49f0a8/1*rsBPkofac58JWPU5RaD5qA.jpeg)
+![People coming together and bringing donations for the people suffering from the fires\. Photo: No Borders](../assets/e9d5fe49f0a8/1*rsBPkofac58JWPU5RaD5qA.jpeg)
 
 People coming together and bringing donations for the people suffering from the fires\. Photo: No Borders
 #### Attack in Thessaloniki
@@ -117,7 +117,7 @@ The fascists was wearing helmets during the attack and one of the attackers was 
 A 28\-year\-old Algerian was stabbed on the leg, while a 33\-year\-old Greek on the square suffers multiple head and body beatings\. The incident is currently being investigated by the authorities\. According to the police, this is a clear case of robbery since a group of people attacked the three with a knife threat, injured one and grabbed a cell phone and money\. The injured person was transferred to AHEPA hospital\.
 
 
-![This morning in Thessaloniki, after the facist attack\. Photo: [Χώρος Στέγασης Προσφύγων City Plaza](https://www.facebook.com/cityplazaathens/?hc_ref=ARTuP8NqBo2M7yP7BZjoY313_zXoV1MkUMPALdUoPinef3FqFp0eM5VZFv65HplLX34&fref=nf)](assets/e9d5fe49f0a8/1*RnCAZ1B4dOgqOOqc9VCddQ.jpeg)
+![This morning in Thessaloniki, after the facist attack\. Photo: [Χώρος Στέγασης Προσφύγων City Plaza](https://www.facebook.com/cityplazaathens/?hc_ref=ARTuP8NqBo2M7yP7BZjoY313_zXoV1MkUMPALdUoPinef3FqFp0eM5VZFv65HplLX34&fref=nf)](../assets/e9d5fe49f0a8/1*RnCAZ1B4dOgqOOqc9VCddQ.jpeg)
 
 This morning in Thessaloniki, after the facist attack\. Photo: [Χώρος Στέγασης Προσφύγων City Plaza](https://www.facebook.com/cityplazaathens/?hc_ref=ARTuP8NqBo2M7yP7BZjoY313_zXoV1MkUMPALdUoPinef3FqFp0eM5VZFv65HplLX34&fref=nf)
 #### Islands
@@ -134,11 +134,11 @@ One boat arrived this morning, carrying 9 people, of whom 4 children, 2 women an
 One boat picked up outside Chios this morning, with 30 people onboard\. It was 2 children, 7 women and 21 men\.
 
 
-![](assets/e9d5fe49f0a8/1*_MpBcR5arqovCb9fMvNk6Q.jpeg)
+![](../assets/e9d5fe49f0a8/1*_MpBcR5arqovCb9fMvNk6Q.jpeg)
 
 
 
-![Photo and info: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?hc_ref=ARRbG_wvmvUATBtUAHG7tkq0p1EGRpyPkqbvz4QS0pxsVPzo2wvzvL7wJgUjquYzvNM&fref=nf)](assets/e9d5fe49f0a8/1*45ZPbsDUH8wXNeKjlanRPw.jpeg)
+![Photo and info: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?hc_ref=ARRbG_wvmvUATBtUAHG7tkq0p1EGRpyPkqbvz4QS0pxsVPzo2wvzvL7wJgUjquYzvNM&fref=nf)](../assets/e9d5fe49f0a8/1*45ZPbsDUH8wXNeKjlanRPw.jpeg)
 
 Photo and info: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?hc_ref=ARRbG_wvmvUATBtUAHG7tkq0p1EGRpyPkqbvz4QS0pxsVPzo2wvzvL7wJgUjquYzvNM&fref=nf)
 #### SERBIA
@@ -169,11 +169,11 @@ The street food\-team in Sarajevo has organized themselves under a new name and 
 Funds are also needed\. If you can support, follow [this link](http://Paypal.me/aidbrigade) \.
 
 
-![](assets/e9d5fe49f0a8/1*SZ5wa5MdV0787x1_7qdmiA.jpeg)
+![](../assets/e9d5fe49f0a8/1*SZ5wa5MdV0787x1_7qdmiA.jpeg)
 
 
 
-![A new, bigger, kitchen is being built, and the growing food line in Sarajevo\. Photo: Dylan Longman](assets/e9d5fe49f0a8/1*ou1BZMPPOweX6qYXe1Z4iQ.jpeg)
+![A new, bigger, kitchen is being built, and the growing food line in Sarajevo\. Photo: Dylan Longman](../assets/e9d5fe49f0a8/1*ou1BZMPPOweX6qYXe1Z4iQ.jpeg)
 
 A new, bigger, kitchen is being built, and the growing food line in Sarajevo\. Photo: Dylan Longman
 #### Bosanska Gradiška
@@ -188,11 +188,11 @@ At first, the number suggested by Lord Dubs was 3000\. After the government aske
 [Help Refugees](https://www.facebook.com/HelpRefugeesUK/photos/a.123267671367248.1073741830.111893659171316/664166373944039/?type=3&theater) will be there during the hearing tomorrow as well, and they need people’s support by spreading the message that the Home Office calculations of places are wrong\. In Scotland and Wales for example, the local authorities claimed they only had capacity for six children each\.
 
 
-![](assets/e9d5fe49f0a8/1*mCrpkpE5gKL3O1ov5Wz-CQ.jpeg)
+![](../assets/e9d5fe49f0a8/1*mCrpkpE5gKL3O1ov5Wz-CQ.jpeg)
 
 
 
-![Lord Dubs was in the court today as well\. Photo: [Help Refugees](https://www.facebook.com/HelpRefugeesUK/?hc_ref=ARRiCwbIHoX-4EugNRKlFqn2XHW2SUY0-2mzC4kHC0u4uub23P5ov-J65TKyp1cuLd4&fref=nf)](assets/e9d5fe49f0a8/1*_GR_BHJMXr1dGmMzR7CZ8A.jpeg)
+![Lord Dubs was in the court today as well\. Photo: [Help Refugees](https://www.facebook.com/HelpRefugeesUK/?hc_ref=ARRiCwbIHoX-4EugNRKlFqn2XHW2SUY0-2mzC4kHC0u4uub23P5ov-J65TKyp1cuLd4&fref=nf)](../assets/e9d5fe49f0a8/1*_GR_BHJMXr1dGmMzR7CZ8A.jpeg)
 
 Lord Dubs was in the court today as well\. Photo: [Help Refugees](https://www.facebook.com/HelpRefugeesUK/?hc_ref=ARRiCwbIHoX-4EugNRKlFqn2XHW2SUY0-2mzC4kHC0u4uub23P5ov-J65TKyp1cuLd4&fref=nf)
 #### SWEDEN

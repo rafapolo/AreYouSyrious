@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 17/08/17: New old route — Spain
+title: "AYS Daily Digest 17/08/17: New old route — Spain"
 author: Are You Syrious?
 date: 2017-08-18T00:44:58.032+0100
 last_modified_at: 2017-08-29T00:49:14.702+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,spain,mediterranean,greece,european-union]
 description: One million refugees in Uganda / Rescue continues in the Mediterranean / More arrivals and protests in Greece / Portable toilets and water…
 image:
-  path: assets/8b1149847fd5/1*Gyt6LDxPfdLJmorFOA0WxA.jpeg
+  path: ../assets/8b1149847fd5/1*Gyt6LDxPfdLJmorFOA0WxA.jpeg
 ---
 
 ### AYS Daily Digest 17/08/17: New old route — Spain
@@ -15,7 +15,7 @@ image:
 _One million refugees in Uganda / Rescue continues in the Mediterranean / More arrivals and protests in Greece / Portable toilets and water finally installed in Calais / Death threats to activists in Spain / Solidarity music around the world / More soldiers on the EU borders / Volunteers opportunities / And more news…_
 
 
-![Photo by [**Sea\-Eye**](https://www.facebook.com/seaeyeorg/)](assets/8b1149847fd5/1*Gyt6LDxPfdLJmorFOA0WxA.jpeg)
+![Photo by [**Sea\-Eye**](https://www.facebook.com/seaeyeorg/)](../assets/8b1149847fd5/1*Gyt6LDxPfdLJmorFOA0WxA.jpeg)
 
 Photo by [**Sea\-Eye**](https://www.facebook.com/seaeyeorg/)
 ### Feature
@@ -23,7 +23,7 @@ Photo by [**Sea\-Eye**](https://www.facebook.com/seaeyeorg/)
 Spanish coastguards rescued 599 people from 15 boats and a jet ski on Wednesday in the waters between Morocco and Spain, a large number for the daily average in this country\. At least 35 minors, including a baby, were among the refugees rescued crossing the Strait of Gibraltar and the Alboran Sea as they fled unrest or poverty in their countries\.
 
 
-![Photo by [**SALVAMENTO MARÍTIMO**](https://twitter.com/salvamentogob)](assets/8b1149847fd5/1*jQMIS88CfmC11nmDUmCmdA.jpeg)
+![Photo by [**SALVAMENTO MARÍTIMO**](https://twitter.com/salvamentogob)](../assets/8b1149847fd5/1*jQMIS88CfmC11nmDUmCmdA.jpeg)
 
 Photo by [**SALVAMENTO MARÍTIMO**](https://twitter.com/salvamentogob)
 
@@ -54,7 +54,7 @@ UNHCR has also commented on the subject and warned today that Spain lacks the re
 UNHCR figures show that most of those arriving in Spain by sea set out from Morocco, although some also embark from Algeria\. The majority of the migrants are from Cameroon, Guinea and the Gambia\. They are then placed in the CIE \(Centro de Internamiento de Extrangeros\), a migrant reception centres, where they can apply for asylum\. We have seen protests in these centres in the past where many refugees stay detained\. According to the official version everyone’s process should be dealt with fairly and equally following the same procedure\.
 
 
-![credits — CEAR](assets/8b1149847fd5/1*IKodLO6V9TWG5yIXO_FSUw.jpeg)
+![credits — CEAR](../assets/8b1149847fd5/1*IKodLO6V9TWG5yIXO_FSUw.jpeg)
 
 credits — CEAR
 
@@ -64,7 +64,7 @@ Nevertheless, according to [Spanish Commission of Help for Refugees \(CEAR\)](ht
 The United Nations said today that number of South Sudanese refugees in Uganda hit one million as hundreds of desperate families pour across the border every day seeking a haven from the civil war\. Women and children make up more than 85 percent of the arrivals\.
 
 
-![](assets/8b1149847fd5/1*D0iHbBas86sr3gTYtu4Yig.jpeg)
+![](../assets/8b1149847fd5/1*D0iHbBas86sr3gTYtu4Yig.jpeg)
 
 
 No one knows how many have died, but an August report by South Africa\-based South Sudan Human Rights Observatory said 987 civilians were killed in violence across South Sudan between May and July, mostly by government forces\.
@@ -83,14 +83,14 @@ It’s unbelievable that some European countries insist on deporting refugees ba
 In the meanwhile, the refugees crisis in central Mediterranean continues and [**SAR watch MED‏**](https://twitter.com/SARwatchMED) has reported today that 235 people were rescued by MOAS boat, Phoenix and were transferred this morning to Golfo Azurro in coordination with the Italian Coast Guard\.
 
 
-![Photo by [**MOAS**](https://twitter.com/moas_eu)](assets/8b1149847fd5/1*fMYa9duke5GgRJalth5FMw.jpeg)
+![Photo by [**MOAS**](https://twitter.com/moas_eu)](../assets/8b1149847fd5/1*fMYa9duke5GgRJalth5FMw.jpeg)
 
 Photo by [**MOAS**](https://twitter.com/moas_eu)
 
 One of the youngest passengers yet was also rescued today, little Sayid, just 26 days old\.
 
 
-![Photo by [**MOAS**](https://twitter.com/moas_eu)](assets/8b1149847fd5/1*Dq9_YU2TiPfGmqE7k4P4vw.jpeg)
+![Photo by [**MOAS**](https://twitter.com/moas_eu)](../assets/8b1149847fd5/1*Dq9_YU2TiPfGmqE7k4P4vw.jpeg)
 
 Photo by [**MOAS**](https://twitter.com/moas_eu)
 ### Greece
@@ -123,14 +123,14 @@ Having to deal with the continuous threat of eviction, City Plaza has published 
 
 
 
-[![City Plaza Movie: The eviction notice](assets/8b1149847fd5/c958_hqdefault.jpg "City Plaza Movie: The eviction notice")](http://www.youtube.com/watch?v=B7bXO0605B4)
+[![City Plaza Movie: The eviction notice](../assets/8b1149847fd5/c958_hqdefault.jpg "City Plaza Movie: The eviction notice")](http://www.youtube.com/watch?v=B7bXO0605B4)
 
 #### Volunteer opportunities
 
 [Dentists 4 All](https://www.facebook.com/dentists4all/?fref=mentions) run regular programs for children in Skaramangkas, Eleonas, and a program for adults in Sounio\(Lavrio\) camps in Greece\. They’ve now treated over 6,000 teeth but they need volunteers and support to keep it running\. If you are or know a dentist who wants to help, please get in touch\. You can also support this project donating [here](http://bit.ly/HelpRefugeesDonate) \.
 
 
-![Photo by [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/?hc_ref=ARRAJHMMBRtdaqXTYjBnZdPtrEBcS3Eimf6N9SJ-MfCYCLcSQkupzbgX1Ge4jcb2rGo&fref=nf)](assets/8b1149847fd5/1*d6xNi1T2IhD-hYRoIQD5Ww.jpeg)
+![Photo by [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/?hc_ref=ARRAJHMMBRtdaqXTYjBnZdPtrEBcS3Eimf6N9SJ-MfCYCLcSQkupzbgX1Ge4jcb2rGo&fref=nf)](../assets/8b1149847fd5/1*d6xNi1T2IhD-hYRoIQD5Ww.jpeg)
 
 Photo by [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/?hc_ref=ARRAJHMMBRtdaqXTYjBnZdPtrEBcS3Eimf6N9SJ-MfCYCLcSQkupzbgX1Ge4jcb2rGo&fref=nf)
 

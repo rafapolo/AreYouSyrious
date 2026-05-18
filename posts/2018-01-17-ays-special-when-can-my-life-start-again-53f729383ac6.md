@@ -1,5 +1,5 @@
 ---
-title: AYS Special: When Can My Life Start Again?
+title: "AYS Special: When Can My Life Start Again?"
 author: Are You Syrious?
 date: 2018-01-17T09:53:30.918+0000
 last_modified_at: 2018-03-01T14:00:18.790+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,greece,asylum,migration,special]
 description: Refugees seeking asylum in Greece are being given dates up to a year in the future just for the first interview with the asylum office. And…
 image:
-  path: assets/53f729383ac6/1*q38pnIcCch_0VMyptgR9sw.jpeg
+  path: ../assets/53f729383ac6/1*q38pnIcCch_0VMyptgR9sw.jpeg
 ---
 
 ### AYS Special: When Can My Life Start Again?
@@ -15,7 +15,7 @@ image:
 _Refugees seeking asylum in Greece are being given dates up to a year in the future just for the first interview with the asylum office\. And when that date does finally arrive there is no guarantee that the interview will even happen\._
 
 
-![Photo AYS](assets/53f729383ac6/1*q38pnIcCch_0VMyptgR9sw.jpeg)
+![Photo AYS](../assets/53f729383ac6/1*q38pnIcCch_0VMyptgR9sw.jpeg)
 
 Photo AYS
 

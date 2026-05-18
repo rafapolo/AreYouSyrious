@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 20/11/20: “No choice but to work with despotic regimes”
+title: "AYS Daily Digest 20/11/20: “No choice but to work with despotic regimes”"
 author: Are You Syrious?
 date: 2020-11-21T20:34:34.848+0000
 last_modified_at: 2020-11-21T20:34:34.848+0000
 categories: Are You Syrious?
 tags: [digest,refugees,migration,europe,france]
-description: lowest resettlement levels in recent history / France: violent evictions and a big change in relation to Afghan asylum seekers / new…
+description: "lowest resettlement levels in recent history / France: violent evictions and a big change in relation to Afghan asylum seekers / new…"
 image:
-  path: assets/f7e4c09f82e1/0*5kqD5hiwf70vpmMV.jpeg
+  path: ../assets/f7e4c09f82e1/0*5kqD5hiwf70vpmMV.jpeg
 ---
 
 ### AYS Daily Digest 20/11/20: “No choice but to work with despotic regimes”
 ### lowest resettlement levels in recent history / France: violent evictions and a big change in relation to Afghan asylum seekers / new pre\-deportation centres in the Canary islands / the lowest number of asylum applications in Finland since the 90s / recommended reads & more
 
 
-![](assets/f7e4c09f82e1/0*flGlRNTUvFet3hdM.jpeg)
+![](../assets/f7e4c09f82e1/0*flGlRNTUvFet3hdM.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----1d37f5db6e1c--------------------------------)
@@ -22,11 +22,11 @@ image:
 [Nov 21](ays-daily-digest-20-11-20-no-choice-but-to-work-with-despotic-regimes-1d37f5db6e1c?source=post_page-----1d37f5db6e1c--------------------------------) · 9 min read
 
 
-![](assets/f7e4c09f82e1/0*T-4qvxZR-j0J6THO)
+![](../assets/f7e4c09f82e1/0*T-4qvxZR-j0J6THO)
 
 
 
-![](assets/f7e4c09f82e1/0*5kqD5hiwf70vpmMV.jpeg)
+![](../assets/f7e4c09f82e1/0*5kqD5hiwf70vpmMV.jpeg)
 
 ### FEATURED
 
@@ -51,11 +51,11 @@ Proposals under discussion involve familiar and novel elements, says [ECRE Direc
 The Ministry of Migration & Asylum in cooperation with the Ministry of Citizen Protection will soon present a legislative initiative to the Greek parliament, in order to abolish the practice of protective custody for unaccompanied minors\. Α mechanism for the early identification, referral and accommodation of UAMs that cross into Greek territory has been developed in collaboration with UNHCR and will allegedly be fully operational by the end of the year\. They reported that “this will allow the SSPUAM to trace the UAMs very quickly, accommodate them in emergency accommodation shelters and then place them in long\-term shelters\.”
 
 
-![](assets/f7e4c09f82e1/0*g_BFmi_OycFHy5GH)
+![](../assets/f7e4c09f82e1/0*g_BFmi_OycFHy5GH)
 
 
 
-![](assets/f7e4c09f82e1/0*V9IZ4VLoxDFt1Wec)
+![](../assets/f7e4c09f82e1/0*V9IZ4VLoxDFt1Wec)
 
 ### BOSNIA AND HERZEGOVINA
 ### Velika Kladuša

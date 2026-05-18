@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 11/10/2018: Sea-Watch aircraft Moonbird resumes operations
+title: "AYS DAILY DIGEST 11/10/2018: Sea-Watch aircraft Moonbird resumes operations"
 author: Are You Syrious?
 date: 2018-10-12T10:46:18.799+0100
 last_modified_at: 2018-10-12T21:28:16.034+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest]
 description: Colibri plane needs donations//Living conditions on Aegean islands remain dire//Legal volunteers needed//Moroccan navy shoots 16-year old…
 image:
-  path: assets/5017bc3aa9f2/1*WZLO11DXeRnkUqdg53K9lw.jpeg
+  path: ../assets/5017bc3aa9f2/1*WZLO11DXeRnkUqdg53K9lw.jpeg
 ---
 
 ### AYS DAILY DIGEST 11/10/2018: Sea\-Watch aircraft Moonbird resumes operations
@@ -15,7 +15,7 @@ image:
 _Colibri plane needs donations / Living conditions on Aegean islands remain dire /Legal volunteers needed / Moroccan navy shoots 16\-year\-old boy / And more news…_
 
 
-![Photo Credit: Felix Weiss // sea\-watch\.org](assets/5017bc3aa9f2/1*WZLO11DXeRnkUqdg53K9lw.jpeg)
+![Photo Credit: Felix Weiss // sea\-watch\.org](../assets/5017bc3aa9f2/1*WZLO11DXeRnkUqdg53K9lw.jpeg)
 
 Photo Credit: Felix Weiss // sea\-watch\.org
 ### FEATURE
@@ -28,7 +28,7 @@ Photo Credit: Felix Weiss // sea\-watch\.org
 ### Colibri plane needs donations for repairs
 
 
-![](assets/5017bc3aa9f2/0*V7VLJUFqhXKlNs0U)
+![](../assets/5017bc3aa9f2/0*V7VLJUFqhXKlNs0U)
 
 
 **Pilotes Volontaires is looking for [donations](https://www.pilotes-volontaires.org/fr/donations/formulaire-de-don-1/)** to repair the broken windshield of its Colibri plane\. The cost is estimated at €10,000\. The plane is also active in the search and rescue zone in the central Mediterranean to look for boats in distress\.
@@ -36,7 +36,7 @@ Photo Credit: Felix Weiss // sea\-watch\.org
 #### Living conditions on Aegean islands remain dire
 
 
-![Photo Aegean Boat Report](assets/5017bc3aa9f2/0*j-85DM5exRyxhVRG)
+![Photo Aegean Boat Report](../assets/5017bc3aa9f2/0*j-85DM5exRyxhVRG)
 
 Photo Aegean Boat Report
 
@@ -57,13 +57,13 @@ It describes the condition on each individual hotspot on Chios, Kos, Leros, Lesv
 
 
 
-![“Happiness for me is to get out of Moria’s camp, and to call my mother and tell her I’m fine” — Ameen, 16, a Syrian refugee, trapped for a year on Lesvos\. Photo by V [alerio Cataldi](http://twitter.com/valerio_cataldi) \.](assets/5017bc3aa9f2/0*keZTtHAW31HOUm1Z)
+![“Happiness for me is to get out of Moria’s camp, and to call my mother and tell her I’m fine” — Ameen, 16, a Syrian refugee, trapped for a year on Lesvos\. Photo by V [alerio Cataldi](http://twitter.com/valerio_cataldi) \.](../assets/5017bc3aa9f2/0*keZTtHAW31HOUm1Z)
 
 “Happiness for me is to get out of Moria’s camp, and to call my mother and tell her I’m fine” — Ameen, 16, a Syrian refugee, trapped for a year on Lesvos\. Photo by V [alerio Cataldi](http://twitter.com/valerio_cataldi) \.
 #### Legal volunteer needed
 
 
-![Photo by Mobile Info Team](assets/5017bc3aa9f2/0*mJmvdGA11_go7jrb)
+![Photo by Mobile Info Team](../assets/5017bc3aa9f2/0*mJmvdGA11_go7jrb)
 
 Photo by Mobile Info Team
 - **The Legal Centre Lesbos is looking for lawyers, legally trained professionals and law graduates** willing to assist its legal team in defending the rights of asylum seekers and refugees\. The volunteer post is for a minimum of three months\. More information can be found on their [website](http://www.legalcentrelesbos.org/volunteers/) \.
@@ -78,7 +78,7 @@ A Syrian refugee was arrested barely 30km outside Thesaloniki \(400km inside Gre
 #### Drop in the number of incoming Dublin transfer requests for Hungary
 
 
-![](assets/5017bc3aa9f2/0*BzvG9pk9noXBDWUB)
+![](../assets/5017bc3aa9f2/0*BzvG9pk9noXBDWUB)
 
 
 The [European Council on Refugees and Exiles \(ECRE\)](https://www.facebook.com/TheECRE/?tn-str=k%2AF&hc_location=group_dialog) says **Hungary is one of few European countries that noted a drop in the number of incoming Dublin transfer requests** \. It received 1,848 requests, mainly from France and Germany — a significant number despite the fact that various governments have suspended transfers on account of human rights violations in the country\.

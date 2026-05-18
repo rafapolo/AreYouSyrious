@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 30/31.12.2017-1.1.2018: It’s time to end the hypocrisy!
+title: "AYS DAILY DIGEST 30/31.12.2017-1.1.2018: It’s time to end the hypocrisy!"
 author: Are You Syrious?
 date: 2017-12-30T22:32:52.464+0000
 last_modified_at: 2018-01-02T21:11:46.950+0000
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe,european-union,australia,new-year]
 description: Intro
 image:
-  path: assets/44ad4ecefc83/1*vblhnAZLCjz8fKJf5safCg.jpeg
+  path: ../assets/44ad4ecefc83/1*vblhnAZLCjz8fKJf5safCg.jpeg
 ---
 
 ### AYS DAILY DIGEST 30/31\.12\.2017\-1\.1\.2018: **It’s time to end the hypocrisy\!**
 
 
-![A new kind of super hero has appeared, anonymus but very important\. A brave boy selling food at the destroyed streets of Aleppo, Syria\. Photo by Abdulazez Dukhan\.](assets/44ad4ecefc83/1*vblhnAZLCjz8fKJf5safCg.jpeg)
+![A new kind of super hero has appeared, anonymus but very important\. A brave boy selling food at the destroyed streets of Aleppo, Syria\. Photo by Abdulazez Dukhan\.](../assets/44ad4ecefc83/1*vblhnAZLCjz8fKJf5safCg.jpeg)
 
 A new kind of super hero has appeared, anonymus but very important\. A brave boy selling food at the destroyed streets of Aleppo, Syria\. Photo by Abdulazez Dukhan\.
 ### Intro
@@ -30,7 +30,7 @@ Solidarity and love\!
 
 
 ![Everyone knows Batman is an imaginary actor in a movie, but have you heard about the real Batman? By 
-Abdulazez Dukhan](assets/44ad4ecefc83/1*W1nXoX4kz3ZNP1TjEJ-R3A.jpeg)
+Abdulazez Dukhan](../assets/44ad4ecefc83/1*W1nXoX4kz3ZNP1TjEJ-R3A.jpeg)
 
 Everyone knows Batman is an imaginary actor in a movie, but have you heard about the real Batman? By 
 Abdulazez Dukhan
@@ -110,7 +110,7 @@ I wish to thank all those who have been trying, in vain, to give you back a glim
 **_\(Zeynep Kurmuş Hürbaş, an independent volunteer in Turkey\)_**
 
 
-![NoBorders community Athens](assets/44ad4ecefc83/1*1afAUE4TrkSSEe0eA1ZNoA.jpeg)
+![NoBorders community Athens](../assets/44ad4ecefc83/1*1afAUE4TrkSSEe0eA1ZNoA.jpeg)
 
 NoBorders community Athens
 ### Greece
@@ -139,7 +139,7 @@ At the moment, no asylum seeker is sleeping in the streets\. The illegal refusal
 Those who are still sleeping in the streets are the last ones, the forgotten ones: around 20 young men, the so\-called “fuori progetto” \(those who concluded the asylum process as well as those who were kicked out of the reception system, even for absurd reasons\), who are sleeping either at the Bronx, a semi\-open parking lot, that has been the major gathering point for new arrivals, or in other makeshift shelters here and there, like a makeshift tent in the Comina area, four km from the city center\.
 
 
-![](assets/44ad4ecefc83/1*ApLIZJqcSBw4SSVGrENyow.jpeg)
+![](../assets/44ad4ecefc83/1*ApLIZJqcSBw4SSVGrENyow.jpeg)
 
 
 All these young men are supported by the few volunteers \(4–5 people\) still going around the streets and they receive one evening meal a day, offered by the Red Cross, which has been providing this service since last spring to all those living in the streets \(the maximum number reached was around 70\) \.
@@ -151,11 +151,11 @@ This situation represents the final chapter of a complex phase started at the en
 **_\(Lorena Fornasir, Gian Andrea Franchi, independent volunteers in Pordenone area\)_**
 
 
-![](assets/44ad4ecefc83/1*cjCgH7B7BdVNQWKfNKZqVg.jpeg)
+![](../assets/44ad4ecefc83/1*cjCgH7B7BdVNQWKfNKZqVg.jpeg)
 
 
 
-![Photo by Pics: Mauro Chiarabba & L’Altra Voce](assets/44ad4ecefc83/1*FdsgUJx2Eypd0VF-PHVhiA.jpeg)
+![Photo by Pics: Mauro Chiarabba & L’Altra Voce](../assets/44ad4ecefc83/1*FdsgUJx2Eypd0VF-PHVhiA.jpeg)
 
 Photo by Pics: Mauro Chiarabba & L’Altra Voce
 
@@ -196,7 +196,7 @@ Between 1000 and 2000 refugees and migrants — including minors and kids — sp
 These abandoned warehouses, demolished in May, were their refuge for many months due to overcrowded government camps and the lack of trust in the institutions\. Living “conditions” in the infamous Barracks were humiliating, terrifying, degrading, dehumanizing\. Serbia faced an emergency situation verging on a humanitarian disaster\.
 
 
-![Photo Lazara Marinković](assets/44ad4ecefc83/1*piYW8rA3vFPSx235zRR_Zw.jpeg)
+![Photo Lazara Marinković](../assets/44ad4ecefc83/1*piYW8rA3vFPSx235zRR_Zw.jpeg)
 
 Photo Lazara Marinković
 
@@ -213,7 +213,7 @@ Besides people getting killed or injured while trying to reach EU soil over the 
 There are serious and complex issues — human trafficking, sexual violence and other forms of abuse and exploitation among refugees — which have as yet to be dealt with properly\. If ever\.
 
 
-![Photo Lazara Marinković](assets/44ad4ecefc83/1*T-jCbRvtuytVf8CrQe3lMw.jpeg)
+![Photo Lazara Marinković](../assets/44ad4ecefc83/1*T-jCbRvtuytVf8CrQe3lMw.jpeg)
 
 Photo Lazara Marinković
 
@@ -246,7 +246,7 @@ Croatia finishes the second calendar year with the shameful organised practice o
 Not only AYS and Center for Peace Studies, but also international organisations such as MSF Serbia and UNHCR Serbia have confirmed that this is happening \(e\.g\. UNHCR Serbia has reported about 3000 cases of push\-backs from Croatia during 2017\) \. These cases include women, children, LGBT persons\. They often include harsh violence and misappropriation of the personal property of refugees\. And they are all conducted by the Croatian police\.
 
 
-![Madina Husseini](assets/44ad4ecefc83/1*NLH5KH_ej17ix9zj20URDg.jpeg)
+![Madina Husseini](../assets/44ad4ecefc83/1*NLH5KH_ej17ix9zj20URDg.jpeg)
 
 Madina Husseini
 
@@ -286,7 +286,7 @@ From Amsterdam, with solidarity and love\.
 ### Sweden
 
 
-![Photo AYS](assets/44ad4ecefc83/1*XxmTQcPYoSXUV0-V9lS10g.jpeg)
+![Photo AYS](../assets/44ad4ecefc83/1*XxmTQcPYoSXUV0-V9lS10g.jpeg)
 
 Photo AYS
 
@@ -327,11 +327,11 @@ I hoped that Australians would wake up to the injustice being committed in their
 I hoped Australians would demand change\. I hoped they would demand better\.
 
 
-![](assets/44ad4ecefc83/1*0cyl6Ff_wlUprgqxlkzFuA.jpeg)
+![](../assets/44ad4ecefc83/1*0cyl6Ff_wlUprgqxlkzFuA.jpeg)
 
 
 
-![](assets/44ad4ecefc83/1*_5zqy6C2zBqS4yQs6Zk90Q.jpeg)
+![](../assets/44ad4ecefc83/1*_5zqy6C2zBqS4yQs6Zk90Q.jpeg)
 
 
 Many did\. Many didn’t\. I hoped that the international community would demand better from Australia, too\. I hoped it would demand that Australia adhere to the obligations of the refugee convention that it signed in 1951\.
@@ -354,7 +354,7 @@ They weren’t given this chance\.
 For many, it has been five years as political prisoners\.
 
 
-![](assets/44ad4ecefc83/1*vOp_9mtpOzuDt1szBa287Q.jpeg)
+![](../assets/44ad4ecefc83/1*vOp_9mtpOzuDt1szBa287Q.jpeg)
 
 
 That’s more than enough suffering for innocent people to endure in order to find safety\. Five years too many in a tropical hell\.
@@ -400,7 +400,7 @@ This has been a difficult year and we’d like to use this opportunity to warmly
 \#opentheborders
 
 
-![Photo AYS](assets/44ad4ecefc83/1*262_gIVb_5lhIXdCH8FQtw.jpeg)
+![Photo AYS](../assets/44ad4ecefc83/1*262_gIVb_5lhIXdCH8FQtw.jpeg)
 
 Photo AYS
 

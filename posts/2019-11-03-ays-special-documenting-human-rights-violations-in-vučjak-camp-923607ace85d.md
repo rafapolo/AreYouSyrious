@@ -1,5 +1,5 @@
 ---
-title: AYS Special: Documenting human rights violations in Vučjak camp
+title: "AYS Special: Documenting human rights violations in Vučjak camp"
 author: Are You Syrious?
 date: 2019-11-03T14:30:11.827+0000
 last_modified_at: 2019-11-03T14:30:11.827+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,bosnia-and-herzegovina,asylum-europe,human-rights-violations,bihac]
 description: Our observations begin on the 14th of June with the creation of Vučjak, a camp near Bihać city in Bosnia, which has come to exemplify the…
 image:
-  path: assets/923607ace85d/1*NzI7FG0svgufrLQDMn-byw.jpeg
+  path: ../assets/923607ace85d/1*NzI7FG0svgufrLQDMn-byw.jpeg
 ---
 
 ### AYS Special: Documenting human rights violations in Vučjak camp
 #### Our observations begin on the 14th of June with the creation of Vučjak, a camp near Bihać city in Bosnia, which has come to exemplify the lack of dignity and humanity for people\-in\-transit attempting to claim asylum in Europe\.
 
 
-![No way out, no protection, no dignity: a snapshot from Vučjak camp\. Photo: Thom Davies](assets/923607ace85d/1*NzI7FG0svgufrLQDMn-byw.jpeg)
+![No way out, no protection, no dignity: a snapshot from Vučjak camp\. Photo: Thom Davies](../assets/923607ace85d/1*NzI7FG0svgufrLQDMn-byw.jpeg)
 
 No way out, no protection, no dignity: a snapshot from Vučjak camp\. Photo: Thom Davies
 
@@ -23,7 +23,7 @@ Bihać, Bosnia and Herzegovina, is a city in turmoil: located on the margins of 
 Since the writing of this [report](https://www.borderviolence.eu/wp-content/uploads/On-the-Margins-of-Europe-Report-on-Bihac.pdf) , the situation has become even more precarious: authorities have simultaneously halted funding and humanitarian aid to Vučjak and have re\-strengthened efforts to take people\-in\-transit from public spaces to the now critically over\-populated and under\-serviced Vučjak, which is now deprived of medical aid and water\. As this report shows, the crisis in Bihać extends past merely what is happening within Vučjak and is intimately tied to the EU’s border practices, particularly the illegal pushbacks that Croatia and Slovenia participate in\. There is no political solution in sight other than pushing for two things: providing basic necessities and respect for human rights for people\-in\-transit, and reforming the European Union’s dysfunctional asylum system and the persistent lack of access to this system at the EU’s borderlands\.
 
 
-![](assets/923607ace85d/1*uqeIgVpFfKKnLy39MRJ2EQ.jpeg)
+![](../assets/923607ace85d/1*uqeIgVpFfKKnLy39MRJ2EQ.jpeg)
 
 
 
@@ -38,7 +38,7 @@ Since Vučjak was created on the 14th of June in Bihać, the situation inside th
 On November 15, 2019, IOM will be closing both Miral \(in Velika Kladuša\) and Bira camps, kicking out over 2,000 people without having secured alternative accommodation centers, all while the temperatures continue to drop\. Recommendations for locations for new reception centers have been consistently rejected by local authorities\. As occurred last year, the situation will continue to be managed at the last minute in an ad hoc fashion\. The key difference is that IOM, the Bosnian authorities and the EU had the entire year to plan for winter and to create lasting solutions to the migration influx in BiH\. No such solutions are in sight\.
 
 
-![Tanks filled with water daily in Vučjak\. On them is written: “Please save water\.” / Photo: Thom Davies\.](assets/923607ace85d/1*AjUUXva5zycie7h6U6KMNw.jpeg)
+![Tanks filled with water daily in Vučjak\. On them is written: “Please save water\.” / Photo: Thom Davies\.](../assets/923607ace85d/1*AjUUXva5zycie7h6U6KMNw.jpeg)
 
 Tanks filled with water daily in Vučjak\. On them is written: “Please save water\.” / Photo: Thom Davies\.
 
@@ -50,7 +50,7 @@ Below is a summary of their main findings and a link to a downloadable pdf of th
 An evaluation of the situation in Bihać reveals three overarching patterns of violence: violence during transport and outside Vučjak, violence during evictions and removals, and violence from private security forces\.
 
 
-![Police marching people\-in\-transit to Vučjak\. Photos posted on Facebook\.](assets/923607ace85d/1*bZ-cDo0mkQGKkb2qxB_frw.jpeg)
+![Police marching people\-in\-transit to Vučjak\. Photos posted on Facebook\.](../assets/923607ace85d/1*bZ-cDo0mkQGKkb2qxB_frw.jpeg)
 
 Police marching people\-in\-transit to Vučjak\. Photos posted on Facebook\.
 
@@ -115,7 +115,7 @@ Assault is not the only cruel and degrading treatment occurring during transport
 
 
 
-![Police detaining people on the move in Bihać\. Photo: Margot Durand and Medina Husaković](assets/923607ace85d/1*3vs2rc1gJC4KGVVI0XbZgA.jpeg)
+![Police detaining people on the move in Bihać\. Photo: Margot Durand and Medina Husaković](../assets/923607ace85d/1*3vs2rc1gJC4KGVVI0XbZgA.jpeg)
 
 Police detaining people on the move in Bihać\. Photo: Margot Durand and Medina Husaković
 
@@ -126,7 +126,7 @@ The second venue for violence is during evictions\. On the 14th of June, the Una
 In the weeks following the evictions, we received messages from dozens of people who reported being beaten and injured by the police during evictions and removals\. We observed, both in direct testimony and in photographs, a litany of violences: bruised and battered bodies, black eyes, open wounds, split lips and teeth beaten out of mouths\.
 
 
-![Beaten in Croatia, beaten in Bosnia: Photo: Margot Durand and Medina Husaković](assets/923607ace85d/1*ZNyBslQ_qr5T3KBACmSGEA.jpeg)
+![Beaten in Croatia, beaten in Bosnia: Photo: Margot Durand and Medina Husaković](../assets/923607ace85d/1*ZNyBslQ_qr5T3KBACmSGEA.jpeg)
 
 Beaten in Croatia, beaten in Bosnia: Photo: Margot Durand and Medina Husaković
 
@@ -183,19 +183,19 @@ Several media outlets filmed the arrival of evicted and removed people to Vučja
 
 
 
-![](assets/923607ace85d/1*cHDjYgWxVdwbeqRJmRWA5Q.jpeg)
+![](../assets/923607ace85d/1*cHDjYgWxVdwbeqRJmRWA5Q.jpeg)
 
 
 
-![](assets/923607ace85d/1*OSgTN68ePDpvdGDI6UzqIw.jpeg)
+![](../assets/923607ace85d/1*OSgTN68ePDpvdGDI6UzqIw.jpeg)
 
 
 
-![](assets/923607ace85d/1*fxxnoQm2IQelD3yygDv__w.jpeg)
+![](../assets/923607ace85d/1*fxxnoQm2IQelD3yygDv__w.jpeg)
 
 
 
-![Photos of injuries taken in the Bihać area\. Photos: Margot Durand and Medina Husaković](assets/923607ace85d/1*vqgbobF0M7OfsulU4uBJfA.jpeg)
+![Photos of injuries taken in the Bihać area\. Photos: Margot Durand and Medina Husaković](../assets/923607ace85d/1*vqgbobF0M7OfsulU4uBJfA.jpeg)
 
 Photos of injuries taken in the Bihać area\. Photos: Margot Durand and Medina Husaković
 
@@ -244,7 +244,7 @@ Not only this, but private security forces have regularly and arbitrarily requir
 These patterns not only violate international standards for the safeguarding of people\-in\-transit, but they violate IOM’s own standards which aim to “enhance…respect for the human rights of migrants in accordance with international law” and to “uphold the human dignity and well\-being of migrants\.”
 
 
-![Medical tent in Vučjak camp near Bihać: Photo: Margot Durand and Medina Husaković](assets/923607ace85d/1*J6okGar5zzkb98upO02pPQ.jpeg)
+![Medical tent in Vučjak camp near Bihać: Photo: Margot Durand and Medina Husaković](../assets/923607ace85d/1*J6okGar5zzkb98upO02pPQ.jpeg)
 
 Medical tent in Vučjak camp near Bihać: Photo: Margot Durand and Medina Husaković
 ### **Increasing restriction of movement**
@@ -289,7 +289,7 @@ Within Bihać, since the 14th of June, there has been an increase in the forced 
 
 
 
-![People are taken off the streets and taken to Vučjak\. Photo: Margot Durand and Medina Husaković](assets/923607ace85d/1*-jcTn4BaUoatU_gGzIPFbw.jpeg)
+![People are taken off the streets and taken to Vučjak\. Photo: Margot Durand and Medina Husaković](../assets/923607ace85d/1*-jcTn4BaUoatU_gGzIPFbw.jpeg)
 
 People are taken off the streets and taken to Vučjak\. Photo: Margot Durand and Medina Husaković
 ### **Minors stripped of protection**
@@ -314,7 +314,7 @@ Secondly, reflective of the treatment of adult refugees and migrants, minors in 
 Stripped of identification, minors are then stripped of protection against police brutality and greater access to asylum procedures\. After seizing documentation, we’ve heard cases of police taking minors to Vučjak to be among adult men\. Within Vučjak, the youngest accompanied child was 7; the youngest unaccompanied child we’ve heard reports of was 11\. One end of this problem is due to local law enforcement: police officers ignore signs that someone is a minor, whether physical or otherwise, and take them to places unsafe for minors\. The other end of the problem occurs within the camp\. Officially, Vučjak settlement is a camp for adult men and the Red Cross is mandated to alert Save the Children when they become aware of any minor within Vučjak settlement\. Save the Children then takes the minors to the IOM\-run Bira camp\. However, sources show that young children removed to Vučjak often stay there, with one anonymous source confirming that a 12\-year old child had been removed by Save the Children only to return to Vučjak\. At the time of contacting this source, the child had resided in Vučjak for two days and Red Cross had not contacted Save the Children a second time\.
 
 
-![The “jungle camp” Vučjak at the site of the old landfill\. Photo: Thom Davies](assets/923607ace85d/1*3y7Yq3NcA5_KTmXy0WayYw.jpeg)
+![The “jungle camp” Vučjak at the site of the old landfill\. Photo: Thom Davies](../assets/923607ace85d/1*3y7Yq3NcA5_KTmXy0WayYw.jpeg)
 
 The “jungle camp” Vučjak at the site of the old landfill\. Photo: Thom Davies
 
@@ -343,11 +343,11 @@ One of the most concerning aspects of life for a person\-in\-transit in BiH is t
 
 
 
-![](assets/923607ace85d/1*bhBEh7Y8QJKTO603ZKcTPw.jpeg)
+![](../assets/923607ace85d/1*bhBEh7Y8QJKTO603ZKcTPw.jpeg)
 
 
 
-![Evictions and removals in Bihać area\. Photo: Margot Durand and Medina Husaković](assets/923607ace85d/1*yq00CITD3Hc3LFHkg2_EFg.jpeg)
+![Evictions and removals in Bihać area\. Photo: Margot Durand and Medina Husaković](../assets/923607ace85d/1*yq00CITD3Hc3LFHkg2_EFg.jpeg)
 
 Evictions and removals in Bihać area\. Photo: Margot Durand and Medina Husaković
 
@@ -401,7 +401,7 @@ Stripping of documentation is paired with the actionable threat of transporting 
 Some people have reported that their asylum seeker’s card has been seized by local law enforcement\. In this case, these people lose their rights as asylum seekers on BiH territory\.
 
 
-![People in Vučjak don’t have means to ask for asylum\. Photo: Thom Davies](assets/923607ace85d/1*HOTnYGlrWpJ_z3SwhtDFOA.jpeg)
+![People in Vučjak don’t have means to ask for asylum\. Photo: Thom Davies](../assets/923607ace85d/1*HOTnYGlrWpJ_z3SwhtDFOA.jpeg)
 
 People in Vučjak don’t have means to ask for asylum\. Photo: Thom Davies
 ### **Conclusion**

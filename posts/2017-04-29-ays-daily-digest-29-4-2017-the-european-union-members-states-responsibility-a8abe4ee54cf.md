@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 29.4.2017: The European Union members states responsibility
+title: "AYS DAILY DIGEST 29.4.2017: The European Union members states responsibility"
 author: Are You Syrious?
 date: 2017-04-29T22:12:03.536+0100
 last_modified_at: 2017-05-02T09:43:09.369+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,serbia,lesvos,aegean]
 description: Numbers, the only thing that matters for the EU // Update on evictions and arrests in Lesvos // The “Hub Sammartini” in Milan to…
 image:
-  path: assets/a8abe4ee54cf/1*21AIUoya6tPHnmbJ6ce83g.jpeg
+  path: ../assets/a8abe4ee54cf/1*21AIUoya6tPHnmbJ6ce83g.jpeg
 ---
 
 ### AYS DAILY DIGEST 29\.4\.2017: The European Union members states responsibility
@@ -15,7 +15,7 @@ image:
 _Numbers, the only thing that matters for the EU // Update on evictions and arrests in Lesvos // The “Hub Sammartini” in Milan to transformed into the immigration center // Help needed in Serbia and Greece_
 
 
-![A very big queue waiting for food at ‘No Name’ kitchen\. Photo by [Abdul Sabou](https://www.facebook.com/profile.php?id=100007864985647&fref=search) r](assets/a8abe4ee54cf/1*21AIUoya6tPHnmbJ6ce83g.jpeg)
+![A very big queue waiting for food at ‘No Name’ kitchen\. Photo by [Abdul Sabou](https://www.facebook.com/profile.php?id=100007864985647&fref=search) r](../assets/a8abe4ee54cf/1*21AIUoya6tPHnmbJ6ce83g.jpeg)
 
 A very big queue waiting for food at ‘No Name’ kitchen\. Photo by [Abdul Sabou](https://www.facebook.com/profile.php?id=100007864985647&fref=search) r
 ### FEATURE
@@ -32,7 +32,7 @@ The statement concludes that there are solutions, but _“no strong political wi
 Young Barış Yazgı saved for months to pay smugglers to take him on a dangerous trip\. Like many others are doing every day\. The EU Member States are primarily responsible for the border control and asylum processing\.
 
 
-![Barış Yazgı](assets/a8abe4ee54cf/1*aM-woHPKqqir6UbzSbWDCw.jpeg)
+![Barış Yazgı](../assets/a8abe4ee54cf/1*aM-woHPKqqir6UbzSbWDCw.jpeg)
 
 Barış Yazgı
 ### Greece
@@ -47,7 +47,7 @@ The NBKL issued [a statement condemning evictions and deportations](https://nobo
 _“This eviction didn’t come as a surprise\. In the last four months the repression on refugees, especially people without valid papers and from certain nationalities, as well as solidarity movements has become worse each week\. The destruction of any autonomous spaces for people to live was expected\. Many friends we support living out of the camps have been checked and arrested in the last months\. There have been many steps taken in order to clear the streets and the city of refugees and keep as many people as possible within the confines of Moria camp\. They were tightening security at Moria, police presence on streets became stronger, many people are and were detained during their asylum procedure, deportations happen on a regular basis and so on\.”_
 
 
-![Inside Section B, Moria prison\. “IOM cames every morning asking us to sign up for voluntarily deportations\.” Photo by [Voiceless on Lesbos?](https://medium.com/u/652776407e1b)](assets/a8abe4ee54cf/1*Pjnt6iMxCvZ7ilg33L1rXg.jpeg)
+![Inside Section B, Moria prison\. “IOM cames every morning asking us to sign up for voluntarily deportations\.” Photo by [Voiceless on Lesbos?](https://medium.com/u/652776407e1b)](../assets/a8abe4ee54cf/1*Pjnt6iMxCvZ7ilg33L1rXg.jpeg)
 
 Inside Section B, Moria prison\. “IOM cames every morning asking us to sign up for voluntarily deportations\.” Photo by [Voiceless on Lesbos?](https://medium.com/u/652776407e1b)
 

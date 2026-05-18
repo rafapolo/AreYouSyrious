@@ -1,5 +1,5 @@
 ---
-title: AYS Special from Samos: A New Hotspot to Keep Refugees Out of Sight, Out of Mind
+title: "AYS Special from Samos: A New Hotspot to Keep Refugees Out of Sight, Out of Mind"
 author: Are You Syrious?
 date: 2021-09-19T11:50:00.554+0100
 last_modified_at: 2021-09-20T12:00:48.390+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [special,samos,hotspots,european-commission,greece]
 description: Samos Advocacy Collective’s report on the situation one day after the inauguration of the centre
 image:
-  path: assets/bf2013202840/1*58o3sWOlKqSv56rMLZQxkg.jpeg
+  path: ../assets/bf2013202840/1*58o3sWOlKqSv56rMLZQxkg.jpeg
 ---
 
 ### AYS Special from **Samos: Nobody Is Welcome — A New Hotspot to Keep Refugees Out of Sight, Out of Mind\.**
@@ -17,7 +17,7 @@ _“In December 2020, the European Commission and the Greek government published
 This is [Samos Advocacy Collective](https://twitter.com/AdvocacySamos#) ’s report on the situation one day after the centre’s inauguration\.
 
 
-![](assets/bf2013202840/1*58o3sWOlKqSv56rMLZQxkg.jpeg)
+![](../assets/bf2013202840/1*58o3sWOlKqSv56rMLZQxkg.jpeg)
 
 
 The long\-announced MPRIC was officially inaugurated yesterday, Saturday 18th of September, on Samos — the first of the five Aegean islands where these facilities will become operational\. The Samos MPRIC, [entirely funded by the EU Commission,](https://www.theguardian.com/global-development/2021/mar/29/eu-announces-funding-for-five-new-refugee-camps-on-greek-islands) is located in Zervou, a far\-removed area on the island\. The camp is approximately 7km from Vathy town, the place on the island most of the people seeking asylum are familiar with, and 5km away from Mytilinioi, the closest village to the new facility\. The remote location of the camp also implies that the residents will be isolated from both local communities, external services and solidarity networks\.
@@ -29,7 +29,7 @@ This very Commission, under the lead of DG Home Commissioner Ylva Johansson, spo
 Surprisingly enough, Commissioner Johansson was not among the audience that attended the ceremony, together with Greek Migration Ministry Notis Mitarakis and Secretary\-General of Asylum Reception Manos Logothetis\. On her behalf, Deputy Director of Home Affair Beate Gminder, who proudly was tasked with the [raising of the EU flag](https://twitter.com/g_christides/status/1439141498398953476?s=19) at the entrance of the facility where a [large blue sign clearly marked the spot as ‘Closed Controlled Access Center of Samos’](https://twitter.com/AdvocacySamos/status/1439143084449800195?s=19) , was representing the EU during the opening ceremony\.
 
 
-![Source: Samos24\.gr](assets/bf2013202840/1*D6yoxWRBJFty84WgeeFBGA.jpeg)
+![Source: Samos24\.gr](../assets/bf2013202840/1*D6yoxWRBJFty84WgeeFBGA.jpeg)
 
 Source: Samos24\.gr
 #### **Opposition at the doorstep of the camp**
@@ -64,39 +64,39 @@ While [Greek and EU authorities](https://www.facebook.com/24samos/videos/8934993
 For two consecutive nights, in the main square of the city, an independent group of individuals — Greek locals, asylum seekers and solidarity workers — [called for a dignified and humane reception](https://twitter.com/AdvocacySamos/status/1439143523945746435?s=20) of people seeking asylum in Europe\.
 
 
-![](assets/bf2013202840/1*LhT7zFlBkq6I-Rn6Xc7u6g.jpeg)
+![](../assets/bf2013202840/1*LhT7zFlBkq6I-Rn6Xc7u6g.jpeg)
 
 
 
-![](assets/bf2013202840/1*Dsi2UsMHlG4nXRH7OHOXbQ.jpeg)
+![](../assets/bf2013202840/1*Dsi2UsMHlG4nXRH7OHOXbQ.jpeg)
 
 
 
-![](assets/bf2013202840/1*9_TPfO8_PJULxc_8RY2vGQ.jpeg)
+![](../assets/bf2013202840/1*9_TPfO8_PJULxc_8RY2vGQ.jpeg)
 
 
 
-![](assets/bf2013202840/1*us6RQS7cv9sDVPUMvALYlw.jpeg)
+![](../assets/bf2013202840/1*us6RQS7cv9sDVPUMvALYlw.jpeg)
 
 
 
-![](assets/bf2013202840/1*dCqHGyXXj6l1EHOfqS_nVQ.jpeg)
+![](../assets/bf2013202840/1*dCqHGyXXj6l1EHOfqS_nVQ.jpeg)
 
 
 
-![](assets/bf2013202840/1*WBEpvCURybt7jmMX8N5-Kw.jpeg)
+![](../assets/bf2013202840/1*WBEpvCURybt7jmMX8N5-Kw.jpeg)
 
 
 A [second day of the protest](https://twitter.com/StopFences/status/1439311276212162561?s=19) followed with, among other things, the screening of a short documentary titled _‘Samos, New Camp’_ and including three testimonies of people currently residing in the Vathy RIC and bound to move to the new location in Zervou\. The three respondents stressed their general fear of being confined in a remote area surrounded by barbed wire\.
 
 
-[![Samos | New camp](assets/bf2013202840/4ba3_hqdefault.jpg "Samos | New camp")](https://www.youtube.com/watch?v=UvNSBiLyVBY)
+[![Samos | New camp](../assets/bf2013202840/4ba3_hqdefault.jpg "Samos | New camp")](https://www.youtube.com/watch?v=UvNSBiLyVBY)
 
 
 The criticisms raised by the spontaneous protests were matched by many humanitarian organisations working on the island, speaking of the many ​​​​reasons why, once again, to confine people seeking asylum in an isolated, highly controlled, large\-scale camp facility does not count as a ‘solution’ to five years of unspeakable living conditions and systematic neglect\.
 
 
-![](assets/bf2013202840/1*rLX2LxuF5PNQTOS8m4cWMw.jpeg)
+![](../assets/bf2013202840/1*rLX2LxuF5PNQTOS8m4cWMw.jpeg)
 
 
 In the [statement released](https://www.samosvolunteers.org/s/Press-release-Zervou-2.pdf) by Samos Volunteers it is highlighted how the marginalisation, isolation and curtailment of agency in the new MPRIC will further increase the detrimental impact on people’s mental health\. Not to mention the impact on the prospect of protection from sex\- and gender\-based violence in the absence of reliable protection mechanisms and safe space areas inside the facility\.
@@ -112,7 +112,7 @@ On the same day, Just Action also [released a statement](https://www.facebook.co
 Finally, the Samos Advocacy Collective published a symbolic [open letter](https://twitter.com/AdvocacySamos/status/1439174029697560577) addressed from Samos to the other Aegean islands, reiterating that the reality being witnessed today in this one island will soon replicate for people seeking asylum elsewhere in Greece\.
 
 
-![](assets/bf2013202840/1*m2q9xfcBTOd64ATdlQny9A.jpeg)
+![](../assets/bf2013202840/1*m2q9xfcBTOd64ATdlQny9A.jpeg)
 
 #### **What comes next?**
 

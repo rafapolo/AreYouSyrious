@@ -1,5 +1,5 @@
 ---
-title: AYS DIGEST 7/10: Heroes of Peace — The White Helmets
+title: "AYS DIGEST 7/10: Heroes of Peace — The White Helmets"
 author: Are You Syrious?
 date: 2016-10-07T23:22:10.585+0100
 last_modified_at: 2016-10-08T09:15:30.574+0100
@@ -7,13 +7,13 @@ categories:
 tags: [europe,refugees,the-white-helmets,european-border-agency,eu-turkey-deal]
 description: FEATURE
 image:
-  path: assets/6fbbfb06cb72/1*oV09QNSHDphtzuofFItq7w.jpeg
+  path: ../assets/6fbbfb06cb72/1*oV09QNSHDphtzuofFItq7w.jpeg
 ---
 
 ### AYS DIGEST 7/10: Heroes of Peace — The White Helmets
 
 
-![](assets/6fbbfb06cb72/1*oV09QNSHDphtzuofFItq7w.jpeg)
+![](../assets/6fbbfb06cb72/1*oV09QNSHDphtzuofFItq7w.jpeg)
 
 ### FEATURE
 
@@ -43,7 +43,7 @@ We looked into EU success in tackling this humanitarian crisis so far\. Read AYS
 This morning, German boat crew saved lives of 126 people from the sea\. They are all safe now\.
 
 
-![After rescue\. Photo by MSF Sea\.](assets/6fbbfb06cb72/1*NUfZYIkMdSLgVf9BvOHqrg.jpeg)
+![After rescue\. Photo by MSF Sea\.](../assets/6fbbfb06cb72/1*NUfZYIkMdSLgVf9BvOHqrg.jpeg)
 
 After rescue\. Photo by MSF Sea\.
 
@@ -59,7 +59,7 @@ IOM reports that 314,003 migrants and refugees entered Europe by the sea in 2016
 IOM Rome reported Thursday that 11,432 migrants were rescued in the Channel of Sicily this week\. After the peak arrivals of Monday \(6,000\) and Tuesday \(5,000\), arrivals slowed by mid\-week\. On Wednesday just 363 migrants were rescued\. Some 38 bodies were recovered, including 22 victims of asphyxiation\.
 
 
-![](assets/6fbbfb06cb72/1*3V7DKw-pfo4l5Ktt41xD-g.jpeg)
+![](../assets/6fbbfb06cb72/1*3V7DKw-pfo4l5Ktt41xD-g.jpeg)
 
 
 So far in 2016 the Italian Ministry of Interior has registered 142,725 arrivals by sea, up 6 percent from the same time last year\.
@@ -161,7 +161,7 @@ Group of dentists volunteers issued an important reminder for all volunteers
 The number of migrants and refugees in Belgrade is getting higher daily\.
 
 
-![Photo by [**Daily news about Refugees**](https://www.facebook.com/refugees11/?hc_ref=PAGES_TIMELINE&fref=nf)](assets/6fbbfb06cb72/1*8I80JB2jy_2dt7b78yNv3Q.jpeg)
+![Photo by [**Daily news about Refugees**](https://www.facebook.com/refugees11/?hc_ref=PAGES_TIMELINE&fref=nf)](../assets/6fbbfb06cb72/1*8I80JB2jy_2dt7b78yNv3Q.jpeg)
 
 Photo by [**Daily news about Refugees**](https://www.facebook.com/refugees11/?hc_ref=PAGES_TIMELINE&fref=nf)
 
@@ -246,7 +246,7 @@ At the same time, people from Greece are being relocated to Bulgaria, sometimes 
 _“A few of our refugee friends got stopped in town by the French police\. Before being told to “Go Jungle” they all had their shoes taken from them\.”_
 
 
-![](assets/6fbbfb06cb72/1*EYNdMZ82kk4D3HBonhuAwg.jpeg)
+![](../assets/6fbbfb06cb72/1*EYNdMZ82kk4D3HBonhuAwg.jpeg)
 
 ### Germany
 

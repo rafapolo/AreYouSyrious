@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 28–29/12/19: Possible violation of the UN Convention with the new wave of…
+title: "AYS Weekend Digest 28–29/12/19: Possible violation of the UN Convention with the new wave of…"
 author: Are You Syrious?
 date: 2019-12-30T12:17:10.390+0000
 last_modified_at: 2019-12-30T12:56:44.023+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,denmark,migration,europe]
 description: Is the secrecy surrounding the Denmark-Somalia deal hiding possible violation of the UN Human Rights Convention? / Sea Eye lands in Sicily…
 image:
-  path: assets/1c3fd4dbe5e4/1*WxY-INO2FH8XRvCm_ltB2w.jpeg
+  path: ../assets/1c3fd4dbe5e4/1*WxY-INO2FH8XRvCm_ltB2w.jpeg
 ---
 
 ### AYS Weekend Digest 28–29/12/19: Possible violation of the UN Convention with the new wave of deportations from Denmark to Somalia
 #### Is the secrecy surrounding the Denmark\-Somalia deal hiding possible violation of the UN Human Rights Convention? / Sea Eye lands in Sicily with recently rescued people on board Alan Kurdi / Kos getting another legal team to help the stranded people, Greek lawyers needed / More unaccompanied minors across the Balkan Route / Donations needed in Italy
 
 
-![Young Somalis look on near the wreckage of a car bomb after an earlier double suicide attack in Mogadishu several years ago \(Photo: AU\-UN IST PHOTO / STUART PRICE\)](assets/1c3fd4dbe5e4/1*WxY-INO2FH8XRvCm_ltB2w.jpeg)
+![Young Somalis look on near the wreckage of a car bomb after an earlier double suicide attack in Mogadishu several years ago \(Photo: AU\-UN IST PHOTO / STUART PRICE\)](../assets/1c3fd4dbe5e4/1*WxY-INO2FH8XRvCm_ltB2w.jpeg)
 
 Young Somalis look on near the wreckage of a car bomb after an earlier double suicide attack in Mogadishu several years ago \(Photo: AU\-UN IST PHOTO / STUART PRICE\)
 #### FEATURED
@@ -105,7 +105,7 @@ Many such actions only deepen the discrepancies forced on the people by the auth
 [L’ ALTRA VOCE](https://www.facebook.com/L-ALTRA-VOCE-1245970425495921/?tn-str=k%2AF&hc_location=group_dialog) team needs more men’s shoes in good condition \(for this weather, of course, please don’t ever donate anything that would not serve you in the current conditions, unless stated otherwise in the call\), sizes: 41–42–43–44\.
 
 
-![](assets/1c3fd4dbe5e4/1*3wDNfn4zDZYCVA7JMb0zeA.jpeg)
+![](../assets/1c3fd4dbe5e4/1*3wDNfn4zDZYCVA7JMb0zeA.jpeg)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

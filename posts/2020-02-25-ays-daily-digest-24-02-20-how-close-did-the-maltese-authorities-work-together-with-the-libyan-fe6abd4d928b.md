@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 24/02/20: How close did the Maltese authorities work together with the Libyan…
+title: "AYS Daily Digest 24/02/20: How close did the Maltese authorities work together with the Libyan…"
 author: Are You Syrious?
 date: 2020-02-25T12:55:12.507+0000
 last_modified_at: 2020-02-25T16:24:08.233+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,migration,bosnia,italy,europe]
 description: High tension and protests on Greek Islands before arriving of riot police // passengers and crew of Ocean Vikings under quarantine in…
 image:
-  path: assets/fe6abd4d928b/1*R2JS706pthnwj1lnMuehpA.jpeg
+  path: ../assets/fe6abd4d928b/1*R2JS706pthnwj1lnMuehpA.jpeg
 ---
 
 ### AYS Daily Digest 24/02/20: How close did the Maltese authorities work together with the Libyan Coast Guard?
 #### High tension and protests on Greek Islands before the arrival of riot police // Passengers and crew of Ocean Vikings under quarantine in Italy // Finland willing to take in 175 vulnerable persons from Greek Islands // Overwhelmed volunteers and local teams in Bosnia and Herzegovina in the face of more arrivals // & more
 
 
-![Ključ, Bosnia and Herzegovina — the daily reality of people in tranzit \(Photo: [Sanella Lepirica](https://www.facebook.com/sanela.lepirica?__tn__=%2Cd%2AF%2AF-R&eid=ARB40AUzhE3NbmBltK2oj1-LVz7GQoFjLEpqmXnU8-DBSaZguuJOEy2nPoG2qvhQPQDmnofD1u0kIU-F&tn-str=%2AF) \)](assets/fe6abd4d928b/1*R2JS706pthnwj1lnMuehpA.jpeg)
+![Ključ, Bosnia and Herzegovina — the daily reality of people in tranzit \(Photo: [Sanella Lepirica](https://www.facebook.com/sanela.lepirica?__tn__=%2Cd%2AF%2AF-R&eid=ARB40AUzhE3NbmBltK2oj1-LVz7GQoFjLEpqmXnU8-DBSaZguuJOEy2nPoG2qvhQPQDmnofD1u0kIU-F&tn-str=%2AF) \)](../assets/fe6abd4d928b/1*R2JS706pthnwj1lnMuehpA.jpeg)
 
 Ključ, Bosnia and Herzegovina — the daily reality of people in tranzit \(Photo: [Sanella Lepirica](https://www.facebook.com/sanela.lepirica?__tn__=%2Cd%2AF%2AF-R&eid=ARB40AUzhE3NbmBltK2oj1-LVz7GQoFjLEpqmXnU8-DBSaZguuJOEy2nPoG2qvhQPQDmnofD1u0kIU-F&tn-str=%2AF) \)
 #### FEATURED
@@ -130,27 +130,27 @@ Find more information here:
 Ključ, asmall ‘hot spot’ along the route through Bosnia and Herzegovina, is a place where people traveling from Tuzla and Sarajevo are usually taken off the buses, and subsequently are left to deal with how to continue towards the northern towns on their own\. People have now been arriving in larger numbers\. The conditions which they find have not changed\. Officials and large organisations have not come up with any viable solution for a sustainable reception site or even dealing with arrivals, so it is the Red Cross of Ključ, along with individuals and local initiatives from other places who are bearing the whole responsibility for the situation\.
 
 
-![](assets/fe6abd4d928b/1*yvEeMMYi0TejxRwex7f8bQ.jpeg)
+![](../assets/fe6abd4d928b/1*yvEeMMYi0TejxRwex7f8bQ.jpeg)
 
 
 
-![](assets/fe6abd4d928b/1*a0EwIv57RnPWmEif-7zOFA.jpeg)
+![](../assets/fe6abd4d928b/1*a0EwIv57RnPWmEif-7zOFA.jpeg)
 
 
 
-![](assets/fe6abd4d928b/1*NwbZPyf8QABvqA9y1HqQdA.jpeg)
+![](../assets/fe6abd4d928b/1*NwbZPyf8QABvqA9y1HqQdA.jpeg)
 
 
 
-![](assets/fe6abd4d928b/1*pLzt2rN27a3jLrryLIJs4A.jpeg)
+![](../assets/fe6abd4d928b/1*pLzt2rN27a3jLrryLIJs4A.jpeg)
 
 
 
-![](assets/fe6abd4d928b/1*ko1U_5E1GtId0MAHgizCBw.jpeg)
+![](../assets/fe6abd4d928b/1*ko1U_5E1GtId0MAHgizCBw.jpeg)
 
 
 
-![Photo: [Sanella Lepirica](https://www.facebook.com/sanela.lepirica?__tn__=%2CdC-R-R&eid=ARC7xb8RaSctekCORh27379MXibvwwLP_C1CHB9f5W7HJRc4JVN1_mKFfgo1q541q0bbV-3BrF5lsnjo&hc_ref=ARTn9pSub9EwSJZv3J8czlNXRDi9Fuk8pCCp7_IIBFVN0qToB5MaWpGN04JOvrVI-cc&fref=nf)](assets/fe6abd4d928b/1*C78mmdqsrZtM1tbeCVDNlw.jpeg)
+![Photo: [Sanella Lepirica](https://www.facebook.com/sanela.lepirica?__tn__=%2CdC-R-R&eid=ARC7xb8RaSctekCORh27379MXibvwwLP_C1CHB9f5W7HJRc4JVN1_mKFfgo1q541q0bbV-3BrF5lsnjo&hc_ref=ARTn9pSub9EwSJZv3J8czlNXRDi9Fuk8pCCp7_IIBFVN0qToB5MaWpGN04JOvrVI-cc&fref=nf)](../assets/fe6abd4d928b/1*C78mmdqsrZtM1tbeCVDNlw.jpeg)
 
 Photo: [Sanella Lepirica](https://www.facebook.com/sanela.lepirica?__tn__=%2CdC-R-R&eid=ARC7xb8RaSctekCORh27379MXibvwwLP_C1CHB9f5W7HJRc4JVN1_mKFfgo1q541q0bbV-3BrF5lsnjo&hc_ref=ARTn9pSub9EwSJZv3J8czlNXRDi9Fuk8pCCp7_IIBFVN0qToB5MaWpGN04JOvrVI-cc&fref=nf)
 #### ITALY

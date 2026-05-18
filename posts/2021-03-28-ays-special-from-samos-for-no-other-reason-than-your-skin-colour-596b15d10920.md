@@ -1,5 +1,5 @@
 ---
-title: AYS Special from Samos: For No Other Reason Than Your Skin Colour
+title: "AYS Special from Samos: For No Other Reason Than Your Skin Colour"
 author: Are You Syrious?
 date: 2021-03-28T11:52:47.490+0100
 last_modified_at: 2021-03-28T11:52:47.490+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [special,samos,racism,refugees,freedom-of-movement]
 description: Racial profiling is a daily occurrence across Europe. Actors from Samos speak out about how it plays out on the Greek island.
 image:
-  path: assets/596b15d10920/1*h-FupKCn1EBDi5FcrMvgDg.jpeg
+  path: ../assets/596b15d10920/1*h-FupKCn1EBDi5FcrMvgDg.jpeg
 ---
 
 ### AYS Special from Samos: For No Other Reason Than Your Skin Colour — Racial Discrimination and Xenophobia in the Aegean
@@ -15,7 +15,7 @@ image:
 _Racial discrimination and xenophobia against people on the move, as well as people of colour, is a daily occurrence across Europe\. Actors from the Greek island of Samos are speaking out about how discrimination has resulted in such communities being subject to unlawful travel bans, struggling to access shops and services, and being disproportionately targeted by police — turning public services on Samos into spaces of anxiety and oppression\._
 
 
-![Vathi, Samos](assets/596b15d10920/1*h-FupKCn1EBDi5FcrMvgDg.jpeg)
+![Vathi, Samos](../assets/596b15d10920/1*h-FupKCn1EBDi5FcrMvgDg.jpeg)
 
 Vathi, Samos
 #### **Unlawful Travel Bans**
@@ -34,7 +34,7 @@ This discrimination violates individuals access to goods, services and rights, a
 #### **Everyday Experiences of Racism**
 
 
-![Vathi camp, Samos](assets/596b15d10920/1*Y5hwuNceW56IJNFKrOge8A.jpeg)
+![Vathi camp, Samos](../assets/596b15d10920/1*Y5hwuNceW56IJNFKrOge8A.jpeg)
 
 Vathi camp, Samos
 
@@ -44,7 +44,7 @@ Education is another human right outlined in the [Convention on the Rights of th
 #### **Race and Policing**
 
 
-![Athens, March 20, 2021 — International Day for the Elimination of Racial Discrimination\. Against the detention centres and deportations\. \(Photo by Chrysoula Patsou, via [Art Against](https://web.facebook.com/artagainstproject/posts/3783599158356157?__cft__[0]=AZVSXDn6iO8X-MjT9I3jkI6iC1CNUFfyLfSO9xmHmB3EcSZKNTCGNyBDnulxI5k3WyIugQNZPiGYn0RPG222SKK_AELdI8A-Ab4O8CYObzkXscOclqag5oM-ANJkptt5MvoGRihULpdCrNtX6QoOQwb1&__tn__=%2CO%2CP-R) \)](assets/596b15d10920/1*Q9Cqo65UZ2ma-ZdDd1C2HA.jpeg)
+![Athens, March 20, 2021 — International Day for the Elimination of Racial Discrimination\. Against the detention centres and deportations\. \(Photo by Chrysoula Patsou, via [Art Against](https://web.facebook.com/artagainstproject/posts/3783599158356157?__cft__[0]=AZVSXDn6iO8X-MjT9I3jkI6iC1CNUFfyLfSO9xmHmB3EcSZKNTCGNyBDnulxI5k3WyIugQNZPiGYn0RPG222SKK_AELdI8A-Ab4O8CYObzkXscOclqag5oM-ANJkptt5MvoGRihULpdCrNtX6QoOQwb1&__tn__=%2CO%2CP-R) \)](../assets/596b15d10920/1*Q9Cqo65UZ2ma-ZdDd1C2HA.jpeg)
 
 Athens, March 20, 2021 — International Day for the Elimination of Racial Discrimination\. Against the detention centres and deportations\. \(Photo by Chrysoula Patsou, via [Art Against](https://web.facebook.com/artagainstproject/posts/3783599158356157?__cft__[0]=AZVSXDn6iO8X-MjT9I3jkI6iC1CNUFfyLfSO9xmHmB3EcSZKNTCGNyBDnulxI5k3WyIugQNZPiGYn0RPG222SKK_AELdI8A-Ab4O8CYObzkXscOclqag5oM-ANJkptt5MvoGRihULpdCrNtX6QoOQwb1&__tn__=%2CO%2CP-R) \)
 
@@ -73,7 +73,7 @@ The racial profiling prevalent in border control reached [headlines](https://www
 #### **Final Thoughts**
 
 
-![Vathi, Samos](assets/596b15d10920/1*DUaZS3ZwjURIe9vyS_n_4Q.jpeg)
+![Vathi, Samos](../assets/596b15d10920/1*DUaZS3ZwjURIe9vyS_n_4Q.jpeg)
 
 Vathi, Samos
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 26.03.18: Human Rights are Paved Over at the EU-Turkey Summit
+title: "AYS Daily Digest 26.03.18: Human Rights are Paved Over at the EU-Turkey Summit"
 author: Are You Syrious?
 date: 2018-03-27T08:42:03.495+0100
 last_modified_at: 2018-03-27T09:29:18.081+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,turkey,european-union,digest,aegean]
 description: Feature — EU Summit//Turkey begins “operations” in Sinjar//Greek Authroities accussed of ignoring calls for help//Donation needs in…
 image:
-  path: assets/b0376bf02348/1*DuvhyfhDDgkTf_h71RWZhA.jpeg
+  path: ../assets/b0376bf02348/1*DuvhyfhDDgkTf_h71RWZhA.jpeg
 ---
 
 ### AYS Daily Digest 26\.03\.18: Human Rights are Paved Over at the EU\-Turkey Summit
@@ -20,7 +20,7 @@ image:
 
 
 
-![Vial Camp, Chios\. 12\.03\.18\. Photo Credit: [**Refugee Biriyani & Bananas**](https://www.facebook.com/RefugeeBiriyaniAndBananas/)](assets/b0376bf02348/1*DuvhyfhDDgkTf_h71RWZhA.jpeg)
+![Vial Camp, Chios\. 12\.03\.18\. Photo Credit: [**Refugee Biriyani & Bananas**](https://www.facebook.com/RefugeeBiriyaniAndBananas/)](../assets/b0376bf02348/1*DuvhyfhDDgkTf_h71RWZhA.jpeg)
 
 Vial Camp, Chios\. 12\.03\.18\. Photo Credit: [**Refugee Biriyani & Bananas**](https://www.facebook.com/RefugeeBiriyaniAndBananas/)
 ### Feature: Summit Meeting in Varna
@@ -92,7 +92,7 @@ The Italian authorities are trying to prosecute volunteers for people they have 
 At least 16 people died in an shipwreck near the island of Samos last week\. Today, the German newspaper Der Spiegel [published serious allegations](http://www.spiegel.de/panorama/griechenland-ueberlebende-fluechtlinge-erheben-schwere-vorwuerfe-a-1199713.html) against the Greek migration and Hellenic Coast Guard made by the three survivors\. Der Spiegel also claims to have independently verified some of their claims, including the fact that refugee’s phone call of distress were ignored by Greek authorities, even after being reported to them for hours by family members\. The surviving people also claim to have seen a vessel nearby after the wreck, but these claims have not been independently verified to our knowledge\. It is clear that the search and rescue operation did not begin until more than 24 hours after the shipwreck\.
 
 
-![The bodies of the victims being taken of a Hellenic Coast Guard ship, 17\.03\.18\. Photo Credit: [**Aegean Boat Report**](https://www.facebook.com/AegeanBoatReport/) **\.**](assets/b0376bf02348/1*gNfTp_VEXjVACAYq3pzU5w.jpeg)
+![The bodies of the victims being taken of a Hellenic Coast Guard ship, 17\.03\.18\. Photo Credit: [**Aegean Boat Report**](https://www.facebook.com/AegeanBoatReport/) **\.**](../assets/b0376bf02348/1*gNfTp_VEXjVACAYq3pzU5w.jpeg)
 
 The bodies of the victims being taken of a Hellenic Coast Guard ship, 17\.03\.18\. Photo Credit: [**Aegean Boat Report**](https://www.facebook.com/AegeanBoatReport/) **\.**
 
@@ -166,7 +166,7 @@ Forwarding a call for donations from AYS colleague and independent volunteer Ruh
 
 
 
-![Food packs for Chios\. Photo Credit: [**Refugee Biriyani & Bananas**](https://www.facebook.com/RefugeeBiriyaniAndBananas/)](assets/b0376bf02348/1*rXdGwh_M_Wxnt7txz8NCYg.jpeg)
+![Food packs for Chios\. Photo Credit: [**Refugee Biriyani & Bananas**](https://www.facebook.com/RefugeeBiriyaniAndBananas/)](../assets/b0376bf02348/1*rXdGwh_M_Wxnt7txz8NCYg.jpeg)
 
 Food packs for Chios\. Photo Credit: [**Refugee Biriyani & Bananas**](https://www.facebook.com/RefugeeBiriyaniAndBananas/)
 
@@ -222,7 +222,7 @@ The UK charity [Help Refugees](https://www.facebook.com/HelpRefugeesUK/) is fund
 
 
 
-![Inside the classroom at Refugee Aid Serbia\. Photo Credit: [Help Refugees](https://www.facebook.com/HelpRefugeesUK/)](assets/b0376bf02348/1*m9eTuLq-f9sO4uGObtbNoQ.jpeg)
+![Inside the classroom at Refugee Aid Serbia\. Photo Credit: [Help Refugees](https://www.facebook.com/HelpRefugeesUK/)](../assets/b0376bf02348/1*m9eTuLq-f9sO4uGObtbNoQ.jpeg)
 
 Inside the classroom at Refugee Aid Serbia\. Photo Credit: [Help Refugees](https://www.facebook.com/HelpRefugeesUK/)
 

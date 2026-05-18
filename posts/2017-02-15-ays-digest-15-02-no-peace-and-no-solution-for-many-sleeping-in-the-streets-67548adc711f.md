@@ -1,5 +1,5 @@
 ---
-title: AYS digest 15/02: No peace and no solution for many sleeping in the streets
+title: "AYS digest 15/02: No peace and no solution for many sleeping in the streets"
 author: Are You Syrious?
 date: 2017-02-15T21:36:02.665+0000
 last_modified_at: 2017-02-15T21:36:02.665+0000
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe]
 description: New arrivals in Greece — worst case of frostbite / UNHCR in coordination with local authorities reached a deal to provide more hotel…
 image:
-  path: assets/67548adc711f/1*XuAcp5BBwxyhrdvi-KPvOg.jpeg
+  path: ../assets/67548adc711f/1*XuAcp5BBwxyhrdvi-KPvOg.jpeg
 ---
 
 ### AYS digest 15/02: No peace and no solution for many sleeping in the streets
 
 
-![Port de la Chapelle\. Paris\. Photo: Jonathan Rebours](assets/67548adc711f/1*XuAcp5BBwxyhrdvi-KPvOg.jpeg)
+![Port de la Chapelle\. Paris\. Photo: Jonathan Rebours](../assets/67548adc711f/1*XuAcp5BBwxyhrdvi-KPvOg.jpeg)
 
 Port de la Chapelle\. Paris\. Photo: Jonathan Rebours
 
@@ -26,7 +26,7 @@ As reported from the field there was one boat today picked up close to Molyvos b
 Many of the men were suffering from frostbite on their feet and the picture below shows one of the worst cases\. Volunteers on the ground underlined that “If anyone doubts the desperation of these people and the need to flee this photo is testament to their determination to reach what they see as the safety of Europe\.”
 
 
-![Worst case of frostbites\. Photo Aaron Storry](assets/67548adc711f/1*wKV62X-KmBeV3RKRjidd7A.jpeg)
+![Worst case of frostbites\. Photo Aaron Storry](../assets/67548adc711f/1*wKV62X-KmBeV3RKRjidd7A.jpeg)
 
 Worst case of frostbites\. Photo Aaron Storry
 ### **UNHCR in coordination with Rhodes and Piraeus local authority to lease hotels for refugee accommodation**
@@ -49,7 +49,7 @@ People who manage to get through Macedonia are usually smuggled by cars to the n
 SoulWelders team announced today that their swimming pool project is still on the go stating that “The residents being in such deplorable conditions,have to go through extreme and unfair measures to obtain a simple clean, boiling water in dirty oil drums was the nearest\. That means outside and under freezing conditions, old stoves and a fire warming the water and an empty plastic bottles to pour their naked torso\. As a result, they can hardly ever get one\. Independent volunteers like [Jelka Zorn](https://www.facebook.com/jelka.zorn) started up the idea on how we could help them get this basic hygiene treatment and humanize their lives a little\. Together we decided that the swimming pool idea was just perfect\. For a week now, by groups of five, residents walk through town to get to a public swimming pool\. We provide them with tickets, swimming suits and towels, and they can enjoy a normal day where they take a shower and swim like everyone else\! So simple yet so meaningful” SoulWelders team thanks everybody for donating for this action since those donations made it possible\.
 
 
-![Swimmingpool joy\. Photo: SoulWelders](assets/67548adc711f/1*Nr0SsOFafcOIyQyVvLSLDw.jpeg)
+![Swimmingpool joy\. Photo: SoulWelders](../assets/67548adc711f/1*Nr0SsOFafcOIyQyVvLSLDw.jpeg)
 
 Swimmingpool joy\. Photo: SoulWelders
 #### Hungary
@@ -58,7 +58,7 @@ Swimmingpool joy\. Photo: SoulWelders
 [Signal of Solidarity — Flüchtlingshilfe](https://www.facebook.com/SignalofSolidarity/) team is operating in Budapest and the transit\-zones of Horgos/Roeszke and Kelebija/Tompa these days\. They have encountered a group which states that they have been beaten by Hungarian police while trying to cross the border\. Police, in a manner so familiar, also destroyed their phones to make them unable to orientate or communicate\.
 
 
-![The border\. Photo: Signal of Solidarity — Flüchtlingshilfe](assets/67548adc711f/1*kQFEz1SIWKjlR1VQiQjqmQ.jpeg)
+![The border\. Photo: Signal of Solidarity — Flüchtlingshilfe](../assets/67548adc711f/1*kQFEz1SIWKjlR1VQiQjqmQ.jpeg)
 
 The border\. Photo: Signal of Solidarity — Flüchtlingshilfe
 #### Italy
@@ -74,7 +74,7 @@ There is an upcoming international conference on migration to be held on Saturda
 Activists and volunteers on the ground in Paris state that the situation with rough sleepers in Paris is unbearable and that police is still harassing people for having nowhere to go\. Last night they counted 400 people sleeping rough around Hidalgo’s ‘humanitarian centre’\. Some have been here for months and the police continue to make life as unbearable as they can\.
 
 
-![Port de la Chapelle\. Photo: Jonathan Rebours](assets/67548adc711f/1*GUqSpBwJjMw8kw5wE1WVjQ.jpeg)
+![Port de la Chapelle\. Photo: Jonathan Rebours](../assets/67548adc711f/1*GUqSpBwJjMw8kw5wE1WVjQ.jpeg)
 
 Port de la Chapelle\. Photo: Jonathan Rebours
 

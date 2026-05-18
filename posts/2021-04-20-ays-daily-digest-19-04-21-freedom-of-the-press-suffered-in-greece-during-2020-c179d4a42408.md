@@ -7,7 +7,7 @@ categories:
 tags: [digest,greece,press-freedom,refugees,2020]
 description: Bodies returned to Libya // human trafficking by municipalities in Turkey // insight into the revoked resident permits of Syrians in…
 image:
-  path: assets/c179d4a42408/0*9p8cHXaXxnMhIYRR
+  path: ../assets/c179d4a42408/0*9p8cHXaXxnMhIYRR
 ---
 
 ### AYS Daily Digest 19/04/21 Freedom of the press suffered in Greece during 2020
@@ -15,7 +15,7 @@ image:
 _Bodies returned to Libya // human trafficking by municipalities in Turkey // insight into the revoked resident permits of Syrians in Denmark // and more…_
 
 
-![In a report from February 2021, [Reporters Without Borders](https://rsf.org/en/news/greeces-new-guidelines-policing-protests-threaten-press-freedom) insisted that “Greece’s new national guidelines for policing demonstrations are likely to restrict the media’s reporting and access to information, Reporters Without Borders \(RSF\) warns, calling on the Greek authorities to review the guidelines in consultation with representatives of the country’s journalists\.” Photo by Angelos Tzortzinis / AFP](assets/c179d4a42408/0*9p8cHXaXxnMhIYRR)
+![In a report from February 2021, [Reporters Without Borders](https://rsf.org/en/news/greeces-new-guidelines-policing-protests-threaten-press-freedom) insisted that “Greece’s new national guidelines for policing demonstrations are likely to restrict the media’s reporting and access to information, Reporters Without Borders \(RSF\) warns, calling on the Greek authorities to review the guidelines in consultation with representatives of the country’s journalists\.” Photo by Angelos Tzortzinis / AFP](../assets/c179d4a42408/0*9p8cHXaXxnMhIYRR)
 
 In a report from February 2021, [Reporters Without Borders](https://rsf.org/en/news/greeces-new-guidelines-policing-protests-threaten-press-freedom) insisted that “Greece’s new national guidelines for policing demonstrations are likely to restrict the media’s reporting and access to information, Reporters Without Borders \(RSF\) warns, calling on the Greek authorities to review the guidelines in consultation with representatives of the country’s journalists\.” Photo by Angelos Tzortzinis / AFP
 ### FEATURE: Freedom of the press suffered in Greece during 2020

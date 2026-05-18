@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 13/11/18: Evictions, deportations and testimonies of violence and abuse
+title: "AYS Daily Digest 13/11/18: Evictions, deportations and testimonies of violence and abuse"
 author: Are You Syrious?
 date: 2018-11-14T15:45:30.551+0000
 last_modified_at: 2018-11-14T15:45:30.551+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: []
 description: No trace of EU money in Turkey // beaten and robbed of all their belongings by Greek police, and being then forced to return to Turkey over…
 image:
-  path: assets/f45aac16759b/1*3nRLyViT1AOSp2P7Ptbvrg.jpeg
+  path: ../assets/f45aac16759b/1*3nRLyViT1AOSp2P7Ptbvrg.jpeg
 ---
 
 ### AYS Daily Digest 13/11/18: Evictions, deportations and testimonies of violence and abuse
@@ -15,7 +15,7 @@ image:
 _No trace of EU money in Turkey // beaten and robbed of all their belongings by Greek police, and being then forced to return to Turkey over the Evros border // New special: [Violent Robberies and Deportations of Refugees in Evros Region](ays-special-violent-robberies-and-deportations-of-refugees-in-greeces-evros-region-2056ba6195b0) // SAR teams need support // Help keep the Kladuša kitchen running // Volunteer reports and a special story: [Witnessing a pushback](ays-special-witnessing-a-pushback-c52523048b2f) // more news from the field_
 
 
-![Photo: [Refugee\.Info\.Italy](https://www.facebook.com/Refugee.Info.Italy/?tn-str=k%2AF)](assets/f45aac16759b/1*r_Z2bqQbUrlFwgcaV1xvQA.jpeg)
+![Photo: [Refugee\.Info\.Italy](https://www.facebook.com/Refugee.Info.Italy/?tn-str=k%2AF)](../assets/f45aac16759b/1*r_Z2bqQbUrlFwgcaV1xvQA.jpeg)
 
 Photo: [Refugee\.Info\.Italy](https://www.facebook.com/Refugee.Info.Italy/?tn-str=k%2AF)
 #### FEATURE
@@ -48,11 +48,11 @@ After becoming naturalized, foreigners increasingly end up relocating abroad \(2
 The so\-called “second generation“ is the fastest growing number\. They recognize Italian as their mother tongue, live with and like Italian peers and feel like they are all nationals, sharing everything with them except — citizenship\.
 
 
-![](assets/f45aac16759b/1*Gv91KiBw_Q76vIC5mszLxg.jpeg)
+![](../assets/f45aac16759b/1*Gv91KiBw_Q76vIC5mszLxg.jpeg)
 
 
 
-![Photos: [Refugee\.Info\.Italy](https://www.facebook.com/Refugee.Info.Italy/?tn-str=k%2AF)](assets/f45aac16759b/1*3nRLyViT1AOSp2P7Ptbvrg.jpeg)
+![Photos: [Refugee\.Info\.Italy](https://www.facebook.com/Refugee.Info.Italy/?tn-str=k%2AF)](../assets/f45aac16759b/1*3nRLyViT1AOSp2P7Ptbvrg.jpeg)
 
 Photos: [Refugee\.Info\.Italy](https://www.facebook.com/Refugee.Info.Italy/?tn-str=k%2AF)
 #### LIBYA
@@ -147,7 +147,7 @@ A few hours later, the police also decided to go visit some friends who live on 
 They were probably the only refugees for which we no longer had to worry about winter, in terms of people freezing, literally, by the cold or suffer some deadly diseases like pneumonia\. However, the police want them to go live to the shit field I’m always talking about\. He gave them an ultimatum\. For them it was, “as if we had a nuclear bomb on top”\. The violence displayed by the Croatian police when people are trying to escape the border, it’s worse than ever\. Many people are deported with fractured bones from the club hits\.
 
 
-![Photo: [Барбарче Бекарес Кастањоска](https://www.facebook.com/cestacestero?__tn__=%2CdCH-R-R&eid=ARDlDgMKv1NpPRqhEVRh7FK-PPxVePWOVfwx3FYuEeEcatO02PtsF2wDXE99QsRN7nu5-OkuKp0E98T8&hc_ref=ARSnJR5j4wuTrhOng003CU7vSq6F_P8aBk41w9iEPepm0s--8Q0vylN2EyYj-46_mQs&fref=nf&hc_location=group)](assets/f45aac16759b/1*rfnwk4oYOdfkUoFtIZO7tw.jpeg)
+![Photo: [Барбарче Бекарес Кастањоска](https://www.facebook.com/cestacestero?__tn__=%2CdCH-R-R&eid=ARDlDgMKv1NpPRqhEVRh7FK-PPxVePWOVfwx3FYuEeEcatO02PtsF2wDXE99QsRN7nu5-OkuKp0E98T8&hc_ref=ARSnJR5j4wuTrhOng003CU7vSq6F_P8aBk41w9iEPepm0s--8Q0vylN2EyYj-46_mQs&fref=nf&hc_location=group)](../assets/f45aac16759b/1*rfnwk4oYOdfkUoFtIZO7tw.jpeg)
 
 Photo: [Барбарче Бекарес Кастањоска](https://www.facebook.com/cestacestero?__tn__=%2CdCH-R-R&eid=ARDlDgMKv1NpPRqhEVRh7FK-PPxVePWOVfwx3FYuEeEcatO02PtsF2wDXE99QsRN7nu5-OkuKp0E98T8&hc_ref=ARSnJR5j4wuTrhOng003CU7vSq6F_P8aBk41w9iEPepm0s--8Q0vylN2EyYj-46_mQs&fref=nf&hc_location=group)
 
@@ -164,15 +164,15 @@ Remaining open for people to freely enjoy a hot meal has become a challenge in V
 “We’ve been back a few days now and can’t forget the people we left behind\. It is really great to be able to give the refugees and migrants a warm meal every day\. That is primarily due to people like Petra, Pixie and Asim\. They are the ones who do the purchasing every day, cleaning the vegetables and cooking the food\. 400 or 500 portions is a big job\. The bread is 1 day old but it’s nice and at the same time cheap\. \(…\)”
 
 
-![](assets/f45aac16759b/1*dSzVvHXidfJqO6fQkVjWCA.jpeg)
+![](../assets/f45aac16759b/1*dSzVvHXidfJqO6fQkVjWCA.jpeg)
 
 
 
-![](assets/f45aac16759b/1*wIxSUKXF1rZOSkU4IujhFQ.jpeg)
+![](../assets/f45aac16759b/1*wIxSUKXF1rZOSkU4IujhFQ.jpeg)
 
 
 
-![Photos: [Lemon Foundation](https://www.facebook.com/lemonfoundation/?__tn__=%2CdkCH-R-R&eid=ARBowMhfwdc5ljHMC83pAeXK0iyh-wRTrJWaop3_Q6OEN2nitGm0TEqPZD3KG0f7aGzy4hIc0XBKkk2L&hc_ref=ARQ17S_2yx-IT7qq6hI1ROc7IUBD9L4m6AqkYsV3WAhjEiO5JuTZf3cK_dhgYduZthw&fref=nf)](assets/f45aac16759b/1*jf0dqrh22o3uYzfWSgT8eQ.jpeg)
+![Photos: [Lemon Foundation](https://www.facebook.com/lemonfoundation/?__tn__=%2CdkCH-R-R&eid=ARBowMhfwdc5ljHMC83pAeXK0iyh-wRTrJWaop3_Q6OEN2nitGm0TEqPZD3KG0f7aGzy4hIc0XBKkk2L&hc_ref=ARQ17S_2yx-IT7qq6hI1ROc7IUBD9L4m6AqkYsV3WAhjEiO5JuTZf3cK_dhgYduZthw&fref=nf)](../assets/f45aac16759b/1*jf0dqrh22o3uYzfWSgT8eQ.jpeg)
 
 Photos: [Lemon Foundation](https://www.facebook.com/lemonfoundation/?__tn__=%2CdkCH-R-R&eid=ARBowMhfwdc5ljHMC83pAeXK0iyh-wRTrJWaop3_Q6OEN2nitGm0TEqPZD3KG0f7aGzy4hIc0XBKkk2L&hc_ref=ARQ17S_2yx-IT7qq6hI1ROc7IUBD9L4m6AqkYsV3WAhjEiO5JuTZf3cK_dhgYduZthw&fref=nf)
 
@@ -183,7 +183,7 @@ If interested, please send you CV to Emma, at ehammock@refugeelanguageinitiative
 #### FRANCE
 
 
-![‘The boy crossing the bridge in the background used to read a lot\. The hole he’s crossing is a toilet, used by around 1200 people\. As you can see, it is full of trash\. It was a very bad place, but there was nowhere else for anyone to go\. The people living on either side of the ‘toilet’ made the bridge to stay in contact with one another\.’ — Photo by Abdul Saboor, a photographer living in Paris, who successfully claimed asylum after fleeing Afghanistan\. His exhibition ‘Exils’ is currently on show in Paris\. To find out more, visit [http://bit\.ly/2TcvaoO](https://bit.ly/2TcvaoO?fbclid=IwAR1yzzGEqP0b8AaUDzwwW7WtJW6w1DWJJu-EtIXVWJDe4o3xFoSYS5ulVf0) \. For more of Abdul’s work, see [https://bit\.ly/2QEcwo0](https://l.facebook.com/l.php?u=https%3A%2F%2Fbit.ly%2F2QEcwo0%3Ffbclid%3DIwAR0ZIhdays_uKwUsl_dXnrkZeWNsV7BH9phbpk4ofhtP6wgjVFAzsuoQFOQ&h=AT0yXYtVI0DJgyi_V9xwchsTWCa8zxY4_1kz09IcSU0KqNP35DOCu7syiekb9gRnjnBkJZZcJTtMZL7_TqAtbTRsjIHLf_MdxMDDVv5u9eytMLfXv4A5DLcxs_Di1ripuW2TE7c) \(via [Refugee Info Bus](https://www.facebook.com/RefugeeInfoBus/?tn-str=k%2AF) \)](assets/f45aac16759b/1*WwPjBznLVqv8-2Dlc2QZjQ.jpeg)
+![‘The boy crossing the bridge in the background used to read a lot\. The hole he’s crossing is a toilet, used by around 1200 people\. As you can see, it is full of trash\. It was a very bad place, but there was nowhere else for anyone to go\. The people living on either side of the ‘toilet’ made the bridge to stay in contact with one another\.’ — Photo by Abdul Saboor, a photographer living in Paris, who successfully claimed asylum after fleeing Afghanistan\. His exhibition ‘Exils’ is currently on show in Paris\. To find out more, visit [http://bit\.ly/2TcvaoO](https://bit.ly/2TcvaoO?fbclid=IwAR1yzzGEqP0b8AaUDzwwW7WtJW6w1DWJJu-EtIXVWJDe4o3xFoSYS5ulVf0) \. For more of Abdul’s work, see [https://bit\.ly/2QEcwo0](https://l.facebook.com/l.php?u=https%3A%2F%2Fbit.ly%2F2QEcwo0%3Ffbclid%3DIwAR0ZIhdays_uKwUsl_dXnrkZeWNsV7BH9phbpk4ofhtP6wgjVFAzsuoQFOQ&h=AT0yXYtVI0DJgyi_V9xwchsTWCa8zxY4_1kz09IcSU0KqNP35DOCu7syiekb9gRnjnBkJZZcJTtMZL7_TqAtbTRsjIHLf_MdxMDDVv5u9eytMLfXv4A5DLcxs_Di1ripuW2TE7c) \(via [Refugee Info Bus](https://www.facebook.com/RefugeeInfoBus/?tn-str=k%2AF) \)](../assets/f45aac16759b/1*WwPjBznLVqv8-2Dlc2QZjQ.jpeg)
 
 ‘The boy crossing the bridge in the background used to read a lot\. The hole he’s crossing is a toilet, used by around 1200 people\. As you can see, it is full of trash\. It was a very bad place, but there was nowhere else for anyone to go\. The people living on either side of the ‘toilet’ made the bridge to stay in contact with one another\.’ — Photo by Abdul Saboor, a photographer living in Paris, who successfully claimed asylum after fleeing Afghanistan\. His exhibition ‘Exils’ is currently on show in Paris\. To find out more, visit [http://bit\.ly/2TcvaoO](https://bit.ly/2TcvaoO?fbclid=IwAR1yzzGEqP0b8AaUDzwwW7WtJW6w1DWJJu-EtIXVWJDe4o3xFoSYS5ulVf0) \. For more of Abdul’s work, see [https://bit\.ly/2QEcwo0](https://l.facebook.com/l.php?u=https%3A%2F%2Fbit.ly%2F2QEcwo0%3Ffbclid%3DIwAR0ZIhdays_uKwUsl_dXnrkZeWNsV7BH9phbpk4ofhtP6wgjVFAzsuoQFOQ&h=AT0yXYtVI0DJgyi_V9xwchsTWCa8zxY4_1kz09IcSU0KqNP35DOCu7syiekb9gRnjnBkJZZcJTtMZL7_TqAtbTRsjIHLf_MdxMDDVv5u9eytMLfXv4A5DLcxs_Di1ripuW2TE7c) \(via [Refugee Info Bus](https://www.facebook.com/RefugeeInfoBus/?tn-str=k%2AF) \)
 

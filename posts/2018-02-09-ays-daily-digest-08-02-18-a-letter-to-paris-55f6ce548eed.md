@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 08/02/18: A letter to Paris
+title: "AYS Daily Digest 08/02/18: A letter to Paris"
 author: Are You Syrious?
 date: 2018-02-09T08:35:57.312+0000
 last_modified_at: 2018-03-01T13:34:23.041+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,paris,syria,european-union,digest]
 description: Emergency accommodation in Paris / Syria Civil Defence Center attacked / More people arriving in Bosnia / Ombudswoman’s letter to the…
 image:
-  path: assets/55f6ce548eed/1*AAMIMtyRDKAraIbPz4xYsA.jpeg
+  path: ../assets/55f6ce548eed/1*AAMIMtyRDKAraIbPz4xYsA.jpeg
 ---
 
 ### AYS Daily Digest 08/02/18: A letter to Paris
@@ -26,7 +26,7 @@ As long as a minor’s age has not been confirmed, they have no support from th
 If you’re looking for more information, you can find it every Saturday, from 17:00–19:00, at Cafe Fluctua\. At the moment, 80 kids are hosted\. On average, three persons are needed for one child to not have to return to the streets\.
 
 
-![Thousands sleeping in freezing Paris today, photo from **‎** [Pierre Linguanotto](https://www.facebook.com/SAMDIPA?hc_ref=ARTMHYxYtjmHzRS59Vm9xrmI7yig5ablO23q6lNUoN4CjGyR3qcrGPtgyS6Mz4-_a68&fref=nf)](assets/55f6ce548eed/1*AAMIMtyRDKAraIbPz4xYsA.jpeg)
+![Thousands sleeping in freezing Paris today, photo from **‎** [Pierre Linguanotto](https://www.facebook.com/SAMDIPA?hc_ref=ARTMHYxYtjmHzRS59Vm9xrmI7yig5ablO23q6lNUoN4CjGyR3qcrGPtgyS6Mz4-_a68&fref=nf)](../assets/55f6ce548eed/1*AAMIMtyRDKAraIbPz4xYsA.jpeg)
 
 Thousands sleeping in freezing Paris today, photo from **‎** [Pierre Linguanotto](https://www.facebook.com/SAMDIPA?hc_ref=ARTMHYxYtjmHzRS59Vm9xrmI7yig5ablO23q6lNUoN4CjGyR3qcrGPtgyS6Mz4-_a68&fref=nf)
 
@@ -100,11 +100,11 @@ A guide for refugees in France is available in several languages [here](http://w
 The [Refugee Community Kitchen](https://www.facebook.com/refugeeCkitchen/?fref=mentions) \(RCK\) are still working hard in northern France to keep hundreds of displaced people fed\. RCK already provide lunch and dinner in Calais and dinner in Dunkirk everyday\. They are now also helping to provide lunch for the communities living in Dunkirk\.
 
 
-![](assets/55f6ce548eed/1*4uDMimi1DRt7L4MmvOmB9w.jpeg)
+![](../assets/55f6ce548eed/1*4uDMimi1DRt7L4MmvOmB9w.jpeg)
 
 
 
-![Photos from [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?hc_ref=ARQLeRWUvnLvNy26zlXjDdPiOGRiqlKEAGiAzYYwwr0zqvLUmI0vVhHzW654L8FTXlw)](assets/55f6ce548eed/1*k-hlUdcD1CNoSVvCbwAJAQ.jpeg)
+![Photos from [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?hc_ref=ARQLeRWUvnLvNy26zlXjDdPiOGRiqlKEAGiAzYYwwr0zqvLUmI0vVhHzW654L8FTXlw)](../assets/55f6ce548eed/1*k-hlUdcD1CNoSVvCbwAJAQ.jpeg)
 
 Photos from [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?hc_ref=ARQLeRWUvnLvNy26zlXjDdPiOGRiqlKEAGiAzYYwwr0zqvLUmI0vVhHzW654L8FTXlw)
 ### SWEDEN

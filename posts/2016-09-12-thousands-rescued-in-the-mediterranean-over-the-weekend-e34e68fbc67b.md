@@ -1,5 +1,5 @@
 ---
-title: AYS daily 12/09: Thousands rescued in the Mediterranean over the weekend
+title: "AYS daily 12/09: Thousands rescued in the Mediterranean over the weekend"
 author: Are You Syrious?
 date: 2016-09-12T21:51:13.407+0100
 last_modified_at: 2016-09-13T06:05:22.485+0100
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe,syria,uk-politics,greece]
 description: General
 image:
-  path: assets/e34e68fbc67b/1*BJ999endxMp4SbcompagGg.jpeg
+  path: ../assets/e34e68fbc67b/1*BJ999endxMp4SbcompagGg.jpeg
 ---
 
 ### AYS daily 12/09: Thousands rescued in the Mediterranean over the weekend
 
 
-![](assets/e34e68fbc67b/1*BJ999endxMp4SbcompagGg.jpeg)
+![](../assets/e34e68fbc67b/1*BJ999endxMp4SbcompagGg.jpeg)
 
 #### General
 ### **3400 people rescued in Mediterranean over the weekend**
@@ -26,7 +26,7 @@ To make these numbers more real, we would like to share a statement from MSF, wh
 “A healthy baby boy was born today on board MV Aquarius, a search and rescue vessel run in partnership between MSF and SOS Mediterranee\. He was born at 7:00 am ship’s time in international waters to Nigerian parents, who have called him Newman Otas\. His parents, Otas and Faith, and older brothers Victory, seven, and Rollres, five, were rescued from an overcrowded rubber boat 24 hours previously\.”
 
 
-![Welcome Newman Otas\! Photo: MSF](assets/e34e68fbc67b/1*vYP3oLOBRZrnoKGdR0tWKA.jpeg)
+![Welcome Newman Otas\! Photo: MSF](../assets/e34e68fbc67b/1*vYP3oLOBRZrnoKGdR0tWKA.jpeg)
 
 Welcome Newman Otas\! Photo: MSF
 #### Syria
@@ -44,7 +44,7 @@ The official number of new arrivals to Greek islands as of 8:00 o’clock A\.M\.
 They warn that with the winter months approaching, crossings will only become more difficult and dangerous\. More resources, as well as more vigilance from the people on the Greek side, will certainly be needed\.
 
 
-![New arrivals to Lesvos\. Photo: Light house relief](assets/e34e68fbc67b/1*GzaDDoQbTqKA-2bJe0vcYA.jpeg)
+![New arrivals to Lesvos\. Photo: Light house relief](../assets/e34e68fbc67b/1*GzaDDoQbTqKA-2bJe0vcYA.jpeg)
 
 New arrivals to Lesvos\. Photo: Light house relief
 
@@ -59,7 +59,7 @@ This situation has sparked prompted unrest at the reception center in Kos today\
 If you are curious to see how exactly people live in camps inside Greece, take a look at this video of conditions in Skaramangas camp:
 
 
-[![Copy of Organization Earth Fundraising for Green](assets/e34e68fbc67b/c57c_hqdefault.jpg "Copy of Organization Earth Fundraising for Green")](http://www.youtube.com/watch?v=Wu-A_7grtps)
+[![Copy of Organization Earth Fundraising for Green](../assets/e34e68fbc67b/c57c_hqdefault.jpg "Copy of Organization Earth Fundraising for Green")](http://www.youtube.com/watch?v=Wu-A_7grtps)
 
 
 If you’d like to help make these conditions more habitable, please that donate to the organization that has made this video [through their crowdfunding campaign](http://bit.ly/2bNxwXx) \.
@@ -84,7 +84,7 @@ If you have lost track of the locations of Greek camps, follow [this link](http:
 Organization Legis has posted pictures of celebration of Eid today in Macedonia\. Take a look:
 
 
-![Photo: Legis](assets/e34e68fbc67b/1*EYuFxvumpYjM1pMVnU7YJQ.jpeg)
+![Photo: Legis](../assets/e34e68fbc67b/1*EYuFxvumpYjM1pMVnU7YJQ.jpeg)
 
 Photo: Legis
 #### Serbia
@@ -93,7 +93,7 @@ Photo: Legis
 Some useful news and nice news coming from Serbia today\. The first German lesson in the Daily center for refugees were held today in Belgrade in Jug Bogdanova 17B\.
 
 
-![Photo: Refugee foundation Serbia](assets/e34e68fbc67b/1*Ul2HZce_y2JemGO3SxI9Bw.jpeg)
+![Photo: Refugee foundation Serbia](../assets/e34e68fbc67b/1*Ul2HZce_y2JemGO3SxI9Bw.jpeg)
 
 Photo: Refugee foundation Serbia
 #### Italy/ Switzerland
@@ -123,7 +123,7 @@ Families of refugees, they add, “can currently be reunited only by resorting t
 ### **Britain’s smallest immigrant**
 
 
-![](assets/e34e68fbc67b/1*TQEd8ORtLHuTO5KrNLvnTA.jpeg)
+![](../assets/e34e68fbc67b/1*TQEd8ORtLHuTO5KrNLvnTA.jpeg)
 
 
 Also, just to highlight the insensitive arrogance of the U\.K\. government, today a 20\-day\-old baby was fortunately saved from the back of a lorry where people had snuck into to cross into English territory\. The papers are calling her “Britain’s smallest immigrant\.”

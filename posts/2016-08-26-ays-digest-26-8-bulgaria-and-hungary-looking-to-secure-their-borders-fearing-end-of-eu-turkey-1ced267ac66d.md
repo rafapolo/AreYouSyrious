@@ -1,5 +1,5 @@
 ---
-title: AYS Digest 26/8: Bulgaria and Hungary looking to secure their borders, fearing end of EU-Turkey…
+title: "AYS Digest 26/8: Bulgaria and Hungary looking to secure their borders, fearing end of EU-Turkey…"
 author: Are You Syrious?
 date: 2016-08-26T23:27:22.991+0100
 last_modified_at: 2016-08-27T00:21:19.746+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: Syrian city Darayya evacuated. Deaths increase in the Central Mediterranean in 2016 and maximum capacity reached on Greek islands. Hungary…
 image:
-  path: assets/1ced267ac66d/0*uXbDM0MDZOXuXepC.
+  path: ../assets/1ced267ac66d/0*uXbDM0MDZOXuXepC.
 ---
 
 ### AYS Digest 26/8: Bulgaria and Hungary looking to secure their borders, fearing end of EU\-Turkey deal
@@ -15,7 +15,7 @@ image:
 _Syrian city Darayya evacuated\. Deaths increase in the Central Mediterranean in 2016 and maximum capacity reached on Greek islands\. Hungary looking to build second fence and help Serbia with border control\._
 
 
-![“ Different world, it’s small place call camp with big number of people, they have no car, no house, no work, but they still have a real smile which in a rich big cities lost it “\. Message and photo by “ [Through refugee eyes”\.](https://www.facebook.com/throughrefugeeeyes/)](assets/1ced267ac66d/0*uXbDM0MDZOXuXepC.)
+![“ Different world, it’s small place call camp with big number of people, they have no car, no house, no work, but they still have a real smile which in a rich big cities lost it “\. Message and photo by “ [Through refugee eyes”\.](https://www.facebook.com/throughrefugeeeyes/)](../assets/1ced267ac66d/0*uXbDM0MDZOXuXepC.)
 
 “ Different world, it’s small place call camp with big number of people, they have no car, no house, no work, but they still have a real smile which in a rich big cities lost it “\. Message and photo by “ [Through refugee eyes”\.](https://www.facebook.com/throughrefugeeeyes/)
 ### Syria
@@ -25,7 +25,7 @@ The [BBC](http://www.bbc.com/news/37191087) reports residents and fighters are e
 Valerie Szybala of the Syrian Institute explains that Darayya has been bombed everyday since an aid convoy in early June and worries that the evacuees will never be able to return\. On a similar note, Leila al Shami, co\-author of “Burning Country”, writes “fears abound of a plan to cleanse opposition strongholds permanently, adding that “in previous evacuation deals, even those carried out under UN auspices, many were detained by the regime, never to be seen again\.” She also says that the siege had become unbearable, as the whole city, including the hospital and agricultural lands were targeted by the army, while the only aid convoy in four years included “medicine, mosquito nets and baby formula, but no food”\. Ibrahim al\-Assil of the Syrian Nonviolence Movement adds that thousands of barrel bombs were dropped on Darayya, while more than 400 were massacred between the 20th and 25th of August 2012 alone\.
 
 
-![“Mirror Society” by Herobin](assets/1ced267ac66d/0*nbS5Knp3RzBOiD8z.)
+![“Mirror Society” by Herobin](../assets/1ced267ac66d/0*nbS5Knp3RzBOiD8z.)
 
 “Mirror Society” by Herobin
 ### General
@@ -56,12 +56,12 @@ UNHCR says it has provided accommodation for 275 unaccompanied children in more 
 Pregnant women and women with newborn babies in Ritsona camp are on a hunger strike because of living conditions in the camp and because of the slowness of the relocation programme\. They also insist on the installation of isoboxes before winter arrives\.
 
 
-![Photo provided by Vicky Bolaños](assets/1ced267ac66d/0*FDzdbSukr38nqyDz.)
+![Photo provided by Vicky Bolaños](../assets/1ced267ac66d/0*FDzdbSukr38nqyDz.)
 
 Photo provided by Vicky Bolaños
 
 
-![Photo provided by Vicky Bolaños](assets/1ced267ac66d/0*96oKC-_YRILMgI64.)
+![Photo provided by Vicky Bolaños](../assets/1ced267ac66d/0*96oKC-_YRILMgI64.)
 
 Photo provided by Vicky Bolaños
 
@@ -88,12 +88,12 @@ During a joint press conference today between Borissov and his Turkish counterpa
 There are multiple cases of individuals specifically flying to Serbia in order to access the transit zones at Kelebija\. The individuals who came by this route do not hail from what are considered refugee\-producing areas, and arrived after the official closure of the route\. There are at least two confirmed cases\. The nationalities of those involved will not be released in order to protect their identity\. However, unusual though this may be, it only highlights the pull effect that goes on regardless of EU policy and procedure\.
 
 
-![Kids having fun in Kelebija\. Photo by iHo](assets/1ced267ac66d/0*i-02cO9yyUkv7YEY.)
+![Kids having fun in Kelebija\. Photo by iHo](../assets/1ced267ac66d/0*i-02cO9yyUkv7YEY.)
 
 Kids having fun in Kelebija\. Photo by iHo
 
 
-![Photo by iHo](assets/1ced267ac66d/0*BZ9-wHTOWcY-s3lo.)
+![Photo by iHo](../assets/1ced267ac66d/0*BZ9-wHTOWcY-s3lo.)
 
 Photo by iHo
 #### Hungary

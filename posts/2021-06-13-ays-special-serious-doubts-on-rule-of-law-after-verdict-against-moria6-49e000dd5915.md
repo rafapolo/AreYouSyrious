@@ -1,5 +1,5 @@
 ---
-title: AYS Special: Serious doubts on rule of law after verdict against Moria6
+title: "AYS Special: Serious doubts on rule of law after verdict against Moria6"
 author: Are You Syrious?
 date: 2021-06-13T13:16:32.906+0100
 last_modified_at: 2021-06-14T14:13:25.334+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [special,moria6,greece,refugees,justice]
 description: The teenagers accused of setting fire to Moria in September 2020 were convicted and sentenced to ten years each.
 image:
-  path: assets/49e000dd5915/1*qSZaTsfPBp11GvIxouZYPw.jpeg
+  path: ../assets/49e000dd5915/1*qSZaTsfPBp11GvIxouZYPw.jpeg
 ---
 
 ### AYS Special: Serious doubts on rule of law after verdict against Moria6
@@ -15,7 +15,7 @@ image:
 _The teenagers accused of setting fire to Moria in September 2020 were convicted and sentenced to long prison sentences\. The trial raises serious questions about the rule of law on the Greek islands, especially when it comes to people on the move\. The judgment is yet another mosaic in Europe’s message: Moria was not a camp, Moria 2\.0 remains a persistent system of systematically shattering the rights and dignity of people who dare to hope for asylum\._
 
 
-![\(Image Credit: [Aegean Migrant Solidarity](https://www.facebook.com/CPTLesvos/photos/basw.AbrnBcvWzkwcIeU0OXG6O9G4J_diyhJjCko042dlzBYLINnQ5VzeYbgVMXINbi0FRBun9aCWuMEIW2kiRZWeu1GNeJIiiFVnt2fUwdsrKhQGOh27AmJ9pvbigsWj3zMnyzObrUYErkhLNyawr4A1YwAw/2900818476851581) \)](assets/49e000dd5915/1*qSZaTsfPBp11GvIxouZYPw.jpeg)
+![\(Image Credit: [Aegean Migrant Solidarity](https://www.facebook.com/CPTLesvos/photos/basw.AbrnBcvWzkwcIeU0OXG6O9G4J_diyhJjCko042dlzBYLINnQ5VzeYbgVMXINbi0FRBun9aCWuMEIW2kiRZWeu1GNeJIiiFVnt2fUwdsrKhQGOh27AmJ9pvbigsWj3zMnyzObrUYErkhLNyawr4A1YwAw/2900818476851581) \)](../assets/49e000dd5915/1*qSZaTsfPBp11GvIxouZYPw.jpeg)
 
 \(Image Credit: [Aegean Migrant Solidarity](https://www.facebook.com/CPTLesvos/photos/basw.AbrnBcvWzkwcIeU0OXG6O9G4J_diyhJjCko042dlzBYLINnQ5VzeYbgVMXINbi0FRBun9aCWuMEIW2kiRZWeu1GNeJIiiFVnt2fUwdsrKhQGOh27AmJ9pvbigsWj3zMnyzObrUYErkhLNyawr4A1YwAw/2900818476851581) \)
 
@@ -33,7 +33,7 @@ Defence lawyer Effie Doussi said after the trial:
 Allegedly due to pandemic\-restrictions, the public, including journalists and independent trial observers, where not allowed to follow the proceedings in the court room\. According to sources from outside the court, three international Human Rights observers, among them one from UNCHR, were also denied access even though they registered in advance\. However, at least four police officers were present inside the courtroom, despite the high police presence around the building\. The journalist and director of the local newspaper Astraparis, Giannis Stevis, denounced the exclusion of the press as an unpreceded decision of the court\.
 
 
-[![Πρωτοφανής ενέργεια ο αποκλεισμός των δημοσιογράφων από την κάλυψη της δίκης](assets/49e000dd5915/c78f_hqdefault.jpg "Πρωτοφανής ενέργεια ο αποκλεισμός των δημοσιογράφων από την κάλυψη της δίκης")](https://www.youtube.com/watch?v=nJh4Muru4OI)
+[![Πρωτοφανής ενέργεια ο αποκλεισμός των δημοσιογράφων από την κάλυψη της δίκης](../assets/49e000dd5915/c78f_hqdefault.jpg "Πρωτοφανής ενέργεια ο αποκλεισμός των δημοσιογράφων από την κάλυψη της δίκης")](https://www.youtube.com/watch?v=nJh4Muru4OI)
 
 
 The trial started with several requests by the defence, all of them were rejected by the judges\. First of all, the defence lawyers from Legal Centre Lesvos requested the court to hold the proceedings for three of the four accused at a juvenile court, arguing that they were minors at the time of the fire\. To prove that they were juveniles, the defence brought the birth certificate of one of the accused as well as medical documents stating a younger age\.
@@ -150,7 +150,7 @@ Already the trial at a juvenile court of the two youngsters accused of setting t
 In 2017, 35 residents of Moria were arrested after a peaceful protest in the camp, on charges of dangerous bodily harm against police officers\. While some of them were not even in the camp at the time of the protests, they were nevertheless sentenced to a 26\-month suspended prison sentences, after spending 10–15 months in pre\-trial detention\. In 2021 they were finally cleared of all charges in the appeal proceedings\. The brutal police violence against them during the arrest that sparked a [statement by Amnesty International](https://www.amnesty.org/download/Documents/EUR2568452017ENGLISH.pdf) was not investigated by Greek authorities\.
 
 
-[![Moria 35](assets/49e000dd5915/8354_hqdefault.jpg "Moria 35")](https://www.youtube.com/watch?v=8RRhcBqcltc)
+[![Moria 35](../assets/49e000dd5915/8354_hqdefault.jpg "Moria 35")](https://www.youtube.com/watch?v=8RRhcBqcltc)
 
 
 Another shocking but systematic juridical practice is the conviction for human smuggling of people that arrive on boats to the islands\. Upon arrival of boats with People on the Move, the present Hellenic Police, Hellenic Coast Guard or Frontex will try to establish who steered the boat in order to accuse that person of smuggling\. In some cases the authorities would even accuse the person that made an emergency call\. [A report published by Aegean Migrant Solidarity, bordermonitoring\.eu and borderline\-europe analysed 48 trials of alleged human smuggling from 2016–2019](https://bordermonitoring.eu/wp-content/uploads/2020/12/report-2020-smuggling-en_web.pdf) \. All of the people accused in these trials were convicted\. The average sentence that included human smuggling was 48\.65 years, with an average prison sentence of 19\.90 years plus a penalty fee of 396,687 Euros\. **The average duration of these trials was 38 minutes\.**

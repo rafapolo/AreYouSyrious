@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 14/02/2019: Italy rejecting the highest number of asylum applications in years
+title: "AYS Daily Digest 14/02/2019: Italy rejecting the highest number of asylum applications in years"
 author: Are You Syrious?
 date: 2019-02-15T08:43:41.308+0000
 last_modified_at: 2019-02-16T09:22:52.698+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,human-rights,italy]
 description: Another child lost his life in Syria//Volunteers needed in Lebanon//Algerian-Moroccan border is increasingly becoming a death trap//Cuts…
 image:
-  path: assets/929ad4fcc878/1*c81xkGhd3B9IpJcd0U6Iqw.jpeg
+  path: ../assets/929ad4fcc878/1*c81xkGhd3B9IpJcd0U6Iqw.jpeg
 ---
 
 ### AYS Daily Digest 14/02/2019: Italy rejecting the highest number of asylum applications in years
 #### Another child lost his life in Syria//Volunteers needed in Lebanon//The Algerian\-Moroccan border is increasingly becoming a death trap//Cuts to budget for asylum seekers in Italy//Unbearable living conditions of asylum seekers denounced in France//Demos in Paris and in Frankfurt//Lists of on and offline services for newly arrived asylum seekers in Germany//News of another death in Ceuta\. \.
 
 
-![Credit: ZeeBrug — Zorg voor veilige havens](assets/929ad4fcc878/1*c81xkGhd3B9IpJcd0U6Iqw.jpeg)
+![Credit: ZeeBrug — Zorg voor veilige havens](../assets/929ad4fcc878/1*c81xkGhd3B9IpJcd0U6Iqw.jpeg)
 
 Credit: ZeeBrug — Zorg voor veilige havens
 #### FEATURE

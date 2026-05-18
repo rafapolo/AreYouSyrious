@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 02/08/18: 700 people die in Mediterranean in past six weeks alone
+title: "AYS Daily Digest 02/08/18: 700 people die in Mediterranean in past six weeks alone"
 author: Are You Syrious?
 date: 2018-08-03T05:08:31.085+0100
 last_modified_at: 2018-08-03T15:10:59.440+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,libya,sea,eu,digest]
 description: Aid in Iraq slowing / LBC not letting anyone reach Europe since July 16 / Proactiva Open Arms rescues 87 people / More fences in Italy / EU…
 image:
-  path: assets/cb37ab4deadb/1*1z6e_JiTHuG_06FetdqPeg.jpeg
+  path: ../assets/cb37ab4deadb/1*1z6e_JiTHuG_06FetdqPeg.jpeg
 ---
 
 ### AYS Daily Digest 02/08/18: 700 people die in Mediterranean in past six weeks alone
@@ -15,7 +15,7 @@ image:
 _Aid in Iraq slowing / LBC not letting anyone reach Europe since July 16 / Proactiva Open Arms rescues 87 people / More fences in Italy / EU Commission funding Morocco‘s anti\-immigration policies / And more news…_
 
 
-![Photo by [MSF](https://twitter.com/MSF_Sea/status/1017346709662392320) from July 12th, in the middle of the last six weeks](assets/cb37ab4deadb/1*1z6e_JiTHuG_06FetdqPeg.jpeg)
+![Photo by [MSF](https://twitter.com/MSF_Sea/status/1017346709662392320) from July 12th, in the middle of the last six weeks](../assets/cb37ab4deadb/1*1z6e_JiTHuG_06FetdqPeg.jpeg)
 
 Photo by [MSF](https://twitter.com/MSF_Sea/status/1017346709662392320) from July 12th, in the middle of the last six weeks
 ### FEATURE: 700 die in Mediterranean in last six weeks alone
@@ -62,7 +62,7 @@ Only 23% of people who left Libya made it to Europe in July, according to [a res
 On Wednesday night, [Proactiva Open Arms](https://www.facebook.com/proactivaservice/posts/2000305913333583) rescued 87 people, including eight minors, who had been floating at sea for two days\. [The people](https://www.facebook.com/proactivaservice/photos/a.232810050083187.63417.111995985497928/2000693326628175/?type=3&theater) spent “more than 50 hours crammed onto a boat between spilled gasoline and other fluids\.”
 
 
-![Photo by [Proactiva Open Arms](https://www.facebook.com/proactivaservice/posts/2000305913333583)](assets/cb37ab4deadb/1*J0gYtnskfXV_jbLCGEX6Bw.jpeg)
+![Photo by [Proactiva Open Arms](https://www.facebook.com/proactivaservice/posts/2000305913333583)](../assets/cb37ab4deadb/1*J0gYtnskfXV_jbLCGEX6Bw.jpeg)
 
 Photo by [Proactiva Open Arms](https://www.facebook.com/proactivaservice/posts/2000305913333583)
 
@@ -81,7 +81,7 @@ A volunteer doctor on Samos is asking for more medical personnel to come volunte
 ### ITALY
 
 
-![Photo by [the Kesha Niya Project](https://www.facebook.com/KeshaNiyaProject/posts/703252030019667) \. To volunteer, look [here](https://www.facebook.com/KeshaNiyaProject/posts/703252030019667) \.](assets/cb37ab4deadb/1*j4h-CUTn3P0vioDLdNjzxg.jpeg)
+![Photo by [the Kesha Niya Project](https://www.facebook.com/KeshaNiyaProject/posts/703252030019667) \. To volunteer, look [here](https://www.facebook.com/KeshaNiyaProject/posts/703252030019667) \.](../assets/cb37ab4deadb/1*j4h-CUTn3P0vioDLdNjzxg.jpeg)
 
 Photo by [the Kesha Niya Project](https://www.facebook.com/KeshaNiyaProject/posts/703252030019667) \. To volunteer, look [here](https://www.facebook.com/KeshaNiyaProject/posts/703252030019667) \.
 
@@ -134,27 +134,27 @@ Peter Van der Auweraert, head of the IOM in Bosnia, tweeted about this place:
 People who are living inside sent us a bit different picture:
 
 
-![](assets/cb37ab4deadb/1*epi2kes9oJPVolfH244scQ.jpeg)
+![](../assets/cb37ab4deadb/1*epi2kes9oJPVolfH244scQ.jpeg)
 
 
 
-![](assets/cb37ab4deadb/1*C5Xb17TScVtq40dav7ZbhA.jpeg)
+![](../assets/cb37ab4deadb/1*C5Xb17TScVtq40dav7ZbhA.jpeg)
 
 
 
-![](assets/cb37ab4deadb/1*_inwAo9Fkz2zjE4fKLzZEQ.jpeg)
+![](../assets/cb37ab4deadb/1*_inwAo9Fkz2zjE4fKLzZEQ.jpeg)
 
 
 
-![](assets/cb37ab4deadb/1*kbLDtEiiBTx3N9J63UoNqg.jpeg)
+![](../assets/cb37ab4deadb/1*kbLDtEiiBTx3N9J63UoNqg.jpeg)
 
 
 
-![](assets/cb37ab4deadb/1*d22J0kUaxykDAEc_3Yb20Q.jpeg)
+![](../assets/cb37ab4deadb/1*d22J0kUaxykDAEc_3Yb20Q.jpeg)
 
 
 
-![](assets/cb37ab4deadb/1*feGdk_H7x6AsVpfGWSc0_A.jpeg)
+![](../assets/cb37ab4deadb/1*feGdk_H7x6AsVpfGWSc0_A.jpeg)
 
 ### CROATIA
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend digest 17–18/07/2021: Frontex, the EU’s Fig Leaf
+title: "AYS Weekend digest 17–18/07/2021: Frontex, the EU’s Fig Leaf"
 author: Are You Syrious?
 date: 2021-07-19T11:00:23.858+0100
 last_modified_at: 2021-07-19T12:49:02.799+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,frontex,ventimiglia,denmark]
 description: Arrivals to Samos denied / People told to stay inside Moria2 / Self harm in Corinth / June report from French-Italian Border and more…
 image:
-  path: assets/a0ac2657bb45/1*9tRyUyqVMvqkkIqsRgXHwg.jpeg
+  path: ../assets/a0ac2657bb45/1*9tRyUyqVMvqkkIqsRgXHwg.jpeg
 ---
 
 ### AYS Weekend digest 17–18/07/2021: Frontex, the EU’s Fig Leaf
@@ -15,7 +15,7 @@ image:
 Arrivals to Samos denied / People told to stay inside Moria2 / Self harm in Corinth / Update from Greek Asylum Offices / June report from French\-Italian Border / Vaccinations in Croatia / Hunger Strike continues in Belgium and more…
 
 
-![\(Photo Credit: [Inside Out](https://www.insideoutproject.net/en/news/this-saturday) \. On July 17th, activists in 16 cities covered their city walls in poster portraits of 155 people being held in Lesvos, Greece, creating “the largest pan\-European multi\-city Inside Out Action\! Europe Look Me In The Eyes will raise awareness to the conditions of refugees being held in Greece and the need for change in European migration policies\. Check our website to find an Action near you\!”\)](assets/a0ac2657bb45/1*9tRyUyqVMvqkkIqsRgXHwg.jpeg)
+![\(Photo Credit: [Inside Out](https://www.insideoutproject.net/en/news/this-saturday) \. On July 17th, activists in 16 cities covered their city walls in poster portraits of 155 people being held in Lesvos, Greece, creating “the largest pan\-European multi\-city Inside Out Action\! Europe Look Me In The Eyes will raise awareness to the conditions of refugees being held in Greece and the need for change in European migration policies\. Check our website to find an Action near you\!”\)](../assets/a0ac2657bb45/1*9tRyUyqVMvqkkIqsRgXHwg.jpeg)
 
 \(Photo Credit: [Inside Out](https://www.insideoutproject.net/en/news/this-saturday) \. On July 17th, activists in 16 cities covered their city walls in poster portraits of 155 people being held in Lesvos, Greece, creating “the largest pan\-European multi\-city Inside Out Action\! Europe Look Me In The Eyes will raise awareness to the conditions of refugees being held in Greece and the need for change in European migration policies\. Check our website to find an Action near you\!”\)
 #### FEATURED: Frontex, the EU’s fig leaf
@@ -108,14 +108,14 @@ ITALIAN/FRENCH BORDER
 #### **Kesha Niya June report**
 
 
-![\(A Transfeminist demonstration took place at the Ventimiglia/Menton border on the 5th and 6th of June in solidarity with people on the move\. Video of speech [HERE](https://www.youtube.com/watch?v=225Kr_JEYJE) \. Full report [HERE](https://parolesulconfine.com/una-manifestazione-transfemminista-contro-i-confini/?fbclid=IwAR3rfiZzlrYJsSEJj5C46DznPTL9LPHHvwPPiiPr60aE7VpXQn8qvbawb7Y) \.](assets/a0ac2657bb45/1*m7m1g95NW9KE_4EZ5I-TNA.jpeg)
+![\(A Transfeminist demonstration took place at the Ventimiglia/Menton border on the 5th and 6th of June in solidarity with people on the move\. Video of speech [HERE](https://www.youtube.com/watch?v=225Kr_JEYJE) \. Full report [HERE](https://parolesulconfine.com/una-manifestazione-transfemminista-contro-i-confini/?fbclid=IwAR3rfiZzlrYJsSEJj5C46DznPTL9LPHHvwPPiiPr60aE7VpXQn8qvbawb7Y) \.](../assets/a0ac2657bb45/1*m7m1g95NW9KE_4EZ5I-TNA.jpeg)
 
 \(A Transfeminist demonstration took place at the Ventimiglia/Menton border on the 5th and 6th of June in solidarity with people on the move\. Video of speech [HERE](https://www.youtube.com/watch?v=225Kr_JEYJE) \. Full report [HERE](https://parolesulconfine.com/una-manifestazione-transfemminista-contro-i-confini/?fbclid=IwAR3rfiZzlrYJsSEJj5C46DznPTL9LPHHvwPPiiPr60aE7VpXQn8qvbawb7Y) \.
 
 [Police violence continues](https://www.facebook.com/KeshaNiyaProject/posts/1563436204001241) at the border between Ventimiglia and Menton with people being held for more than 48 hours in an overcrowded container and repeated reports of people being beaten\. One person with a leg injury reported that the police took his crutch from him and used it to hit him\. Pushbacks also remain high\.
 
 
-![\(“Attached you find a tabella with the number of pushbacked people per day\. Please remember, that this Tabella is not complete at all, as counting people is not our focus at the ‘breakfast spot’\. Remember as well, that people can not be reduced to numbers on a sheet of paper\. Behind every number stands an individual with an individual story\. Every pushback is illegal, brutal and deeply racist\.” Data credit: [Kesha Niya](https://www.facebook.com/KeshaNiyaProject/photos/p.1563442930667235/1563442930667235/?type=3) \)](assets/a0ac2657bb45/1*a6t0A936knV7sdPqOo3Ybw.jpeg)
+![\(“Attached you find a tabella with the number of pushbacked people per day\. Please remember, that this Tabella is not complete at all, as counting people is not our focus at the ‘breakfast spot’\. Remember as well, that people can not be reduced to numbers on a sheet of paper\. Behind every number stands an individual with an individual story\. Every pushback is illegal, brutal and deeply racist\.” Data credit: [Kesha Niya](https://www.facebook.com/KeshaNiyaProject/photos/p.1563442930667235/1563442930667235/?type=3) \)](../assets/a0ac2657bb45/1*a6t0A936knV7sdPqOo3Ybw.jpeg)
 
 \(“Attached you find a tabella with the number of pushbacked people per day\. Please remember, that this Tabella is not complete at all, as counting people is not our focus at the ‘breakfast spot’\. Remember as well, that people can not be reduced to numbers on a sheet of paper\. Behind every number stands an individual with an individual story\. Every pushback is illegal, brutal and deeply racist\.” Data credit: [Kesha Niya](https://www.facebook.com/KeshaNiyaProject/photos/p.1563442930667235/1563442930667235/?type=3) \)
 
@@ -142,7 +142,7 @@ DENMARK
 #### Protests and criticism of Denmark’s ‘cosy racism’
 
 
-![\(Photo credit: [**Mais Atassi**](https://twitter.com/mais_a) **\. “** New York protesting Denmark’s racist immigration policies against Syrian refugees” **\)**](assets/a0ac2657bb45/1*IdlIfNgR2Zco0znw3ASnvg.jpeg)
+![\(Photo credit: [**Mais Atassi**](https://twitter.com/mais_a) **\. “** New York protesting Denmark’s racist immigration policies against Syrian refugees” **\)**](../assets/a0ac2657bb45/1*IdlIfNgR2Zco0znw3ASnvg.jpeg)
 
 \(Photo credit: [**Mais Atassi**](https://twitter.com/mais_a) **\. “** New York protesting Denmark’s racist immigration policies against Syrian refugees” **\)**
 

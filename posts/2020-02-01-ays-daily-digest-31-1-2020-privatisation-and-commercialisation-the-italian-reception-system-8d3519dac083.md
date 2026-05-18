@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 31/1/2020 — Privatisation and commercialisation: the Italian reception system
+title: "AYS Daily Digest 31/1/2020 — Privatisation and commercialisation: the Italian reception system"
 author: Are You Syrious?
 date: 2020-02-01T13:00:08.663+0000
 last_modified_at: 2020-02-01T13:00:22.276+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [digest,refugees,refugee-camps,libya,paris-evictions]
 description: Are You Syrious?
 image:
-  path: assets/8d3519dac083/0*euN-UsF-h-fdxfEU.jpeg
+  path: ../assets/8d3519dac083/0*euN-UsF-h-fdxfEU.jpeg
 ---
 
 ### AYS Daily Digest 31/1/2020 — Privatisation and commercialisation: the Italian reception system
 
 
-![](assets/8d3519dac083/0*HeOzo0Zraiz7mQiD.jpeg)
+![](../assets/8d3519dac083/0*HeOzo0Zraiz7mQiD.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----38e4a1cb30ec----------------------)
@@ -23,11 +23,11 @@ image:
 Children traumatised in Libya /// Report on illegal detention in Moria /// 1500 days of hot food and good vibes thanks to Chios People’s Kitchen /// ECHR study of safe third country case law
 
 
-![](assets/8d3519dac083/0*QPbvg7xERaeLCrUK)
+![](../assets/8d3519dac083/0*QPbvg7xERaeLCrUK)
 
 
 
-![](assets/8d3519dac083/0*euN-UsF-h-fdxfEU.jpeg)
+![](../assets/8d3519dac083/0*euN-UsF-h-fdxfEU.jpeg)
 
 
 Paris, France 28 January 2020
@@ -109,35 +109,35 @@ Learn more about their work and how to help [HERE](https://www.facebook.com/ligh
 After over four years of operation they are still distributing both hot meals and dry food packs to refugees trapped on Chios\.
 
 
-![](assets/8d3519dac083/0*VeFvtPJL-n7XFb-a)
+![](../assets/8d3519dac083/0*VeFvtPJL-n7XFb-a)
 
 
 
-![](assets/8d3519dac083/0*clWnT0X4SmS5i_Mq.jpeg)
+![](../assets/8d3519dac083/0*clWnT0X4SmS5i_Mq.jpeg)
 
 
 
-![](assets/8d3519dac083/0*e7r4wblaBmX6oXyS)
+![](../assets/8d3519dac083/0*e7r4wblaBmX6oXyS)
 
 
 
-![](assets/8d3519dac083/0*icO5caULuh6y5PqB.jpeg)
+![](../assets/8d3519dac083/0*icO5caULuh6y5PqB.jpeg)
 
 
 
-![](assets/8d3519dac083/0*Nfpq7X3eLhklplQL)
+![](../assets/8d3519dac083/0*Nfpq7X3eLhklplQL)
 
 
 
-![](assets/8d3519dac083/0*lQihUHB0l58Ny-Sm.jpeg)
+![](../assets/8d3519dac083/0*lQihUHB0l58Ny-Sm.jpeg)
 
 
 
-![](assets/8d3519dac083/0*uAaEQOMvFPr9-mQJ)
+![](../assets/8d3519dac083/0*uAaEQOMvFPr9-mQJ)
 
 
 
-![](assets/8d3519dac083/0*doKLUcdtaoYW0u6t.jpeg)
+![](../assets/8d3519dac083/0*doKLUcdtaoYW0u6t.jpeg)
 
 
 \(Photo Credit: [Chios People’s Kitchen](https://www.facebook.com/chiospeopleskitchen/?__tn__=kCH-R&eid=ARCSXpwKtwTG-1HKbhZT8WyiWMkVS26R9X62X2GWF0VweO3krr3gE9qxFVYxgcWZNriZgB6bdsG6ZQvl&hc_ref=ARQCp4Dh7ft3M3eTbvKYNVlQ4j9Ou5jruXHTMqYAdeiATZWK_p3sOyFJOuWpEJ_evew&fref=nf&__xts__[0]=68.ARD7fd7Ok19Uuq63G8731o8_rbc3h0-SipXJmNrMvZpfBqIkpBCL013xqmhV7xFN-FcV6Rk4tNOh5CTU36kEC0_Fn4TaQ9OXMSzOQBbnODOyGgFNSDuKJiK51FyzaskwKKdcsp_yA9Uvub5x7HQ6NL-q6zXMibHSM_97POB8_R5TZyBZOQFrFzkK5lGibw7cuA92dENyqfH2m24xZ7YqhDoKeWh37T-xK1y_yWCNXo0GYVGoUiALI-BOJveFSwlfWo-ixww0oQZSKDBLBZ7OA163DNLaQ86sM6egn1Ke0nWljJixYgyutDRoR-ZiZISFs57yuKLkmDBO0SVQvA) \)

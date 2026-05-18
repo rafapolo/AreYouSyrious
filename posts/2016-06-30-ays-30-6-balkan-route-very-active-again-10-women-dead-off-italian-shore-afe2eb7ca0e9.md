@@ -1,19 +1,19 @@
 ---
-title: AYS 30/6: Balkan route very active again, 10 women dead off Italian shore
+title: "AYS 30/6: Balkan route very active again, 10 women dead off Italian shore"
 author: Are You Syrious?
 date: 2016-06-30T23:55:12.999+0100
 last_modified_at: 2016-07-01T11:56:00.510+0100
 categories: 
 tags: [refugees,europe,balkans,italy,greece]
-description: In today’s digest: Comprehensive report from Serbo-Hungarian border, where volunteers and medical professionals are needed. Croatia seals…
+description: "In today’s digest: Comprehensive report from Serbo-Hungarian border, where volunteers and medical professionals are needed. Croatia seals…"
 image:
-  path: assets/afe2eb7ca0e9/1*rVhGeIh1lLlGYue_j953fQ.jpeg
+  path: ../assets/afe2eb7ca0e9/1*rVhGeIh1lLlGYue_j953fQ.jpeg
 ---
 
 ### AYS 30/6: Balkan route very active again, 10 women dead off Italian shore
 
 
-![Every day, hundreds of refugees attempt the dangerous sea crossing on Mediterranean route\. Photo: MSF](assets/afe2eb7ca0e9/1*rVhGeIh1lLlGYue_j953fQ.jpeg)
+![Every day, hundreds of refugees attempt the dangerous sea crossing on Mediterranean route\. Photo: MSF](../assets/afe2eb7ca0e9/1*rVhGeIh1lLlGYue_j953fQ.jpeg)
 
 Every day, hundreds of refugees attempt the dangerous sea crossing on Mediterranean route\. Photo: MSF
 
@@ -33,7 +33,7 @@ Reminding us how easily the crisis could be intensified if Turkish officials dec
 ### MSF vaccinated 957 children in Eliniko
 
 
-![](assets/afe2eb7ca0e9/1*zC_BSgsBJpKsZuVyZLqqJQ.jpeg)
+![](../assets/afe2eb7ca0e9/1*zC_BSgsBJpKsZuVyZLqqJQ.jpeg)
 
 
 After only three days, MSF managed to vaccinate 957 children in Eliniko camp near Athens, which is due to be evicted as soon as the new camps in the area will be ready to accommodate the refugees\. “We would only love to see them living in decent conditions”, said MSF team in a short twitter statement\.
@@ -47,7 +47,7 @@ Balkan route is very active again, despite the borders being officially closed\.
 Yesterday, we have published a photo of refugees queuing in front of Miksalište distribution center in Belgrade, stating “every form of help is needed”\. Unable to cope with the pressure, Miksalište has decided to close its doors in Gavrila Principa street tomorrow \(1st of July\), leaving Belgrade without the main refugee support center which has provided aid to approximately 130,000 people during the past year\.
 
 
-![Refugees waiting for food and other necessities in Miksalište distribution center\. Photo: Miksalište](assets/afe2eb7ca0e9/1*-xBoQrOt1Ex0RIFIwxnsPQ.jpeg)
+![Refugees waiting for food and other necessities in Miksalište distribution center\. Photo: Miksalište](../assets/afe2eb7ca0e9/1*-xBoQrOt1Ex0RIFIwxnsPQ.jpeg)
 
 Refugees waiting for food and other necessities in Miksalište distribution center\. Photo: Miksalište
 
@@ -62,7 +62,7 @@ Refugees waiting for food and other necessities in Miksalište distribution cent
 According to official data, there were at least 700 people in Subotica area yesterday\. Around 40% were children\. Most of the refugees are heading to Subotica going after Belgrade, in a hope of legally passing through one of two nearby border crossings \(Kelebija/Tompa and Horgoš/Röszke\) \. In cooperation with IHA and two Italian volunteers onsite, we have can now elaborate on our first draft reports from Kelebija and we can definitely confirm long\-term volunteers are needed to set up and maintain the infrastructure, while short\-term volunteers are needed to provide urgent support in the area\. There are still around 300 people onsite\. Most of them have been waiting for almost a month to be allowed in, because Hungarians are accepting a maximum of 30 people per day \(15 per each border crossing\) \. Today, volunteers have met four men from Congo who claimed they were beaten and robbed by the military\. One had a broken arm\.
 
 
-![Kelebija border camp suffocating in garbage\. Photo: Volunteers on site](assets/afe2eb7ca0e9/1*pnLGnv2iTevHs-BuW0V1ZA.jpeg)
+![Kelebija border camp suffocating in garbage\. Photo: Volunteers on site](../assets/afe2eb7ca0e9/1*pnLGnv2iTevHs-BuW0V1ZA.jpeg)
 
 Kelebija border camp suffocating in garbage\. Photo: Volunteers on site
 
@@ -73,7 +73,7 @@ There’s no clear criteria on who gets to pass the border and when\. The priori
 After last night’s unannounced closure, Croatian authorities have raised a concrete and wire barrier on Batina border crossing, preventing potential refugees to enter from the Serbian side\. According to official government statement issued today, the wall was raised as a precautionary measure “to prevent possible illegal crossings after increased number of refugees has arrived to the area”, but it has also blocked potential asylum seekers, depriving them from their legal right to claim asylum in Croatia\. Oddly enough, the national television claims the barrier was removed later in the day, but there’s still no official or first\-hand confirmation on this\.
 
 
-![Concrete and wire barrier raised on Batina border crossing\. Photo: Vecernji list](assets/afe2eb7ca0e9/1*iJsa2KW4AMdTbrCuKzBHZA.jpeg)
+![Concrete and wire barrier raised on Batina border crossing\. Photo: Vecernji list](../assets/afe2eb7ca0e9/1*iJsa2KW4AMdTbrCuKzBHZA.jpeg)
 
 Concrete and wire barrier raised on Batina border crossing\. Photo: Vecernji list
 
@@ -83,7 +83,7 @@ In the past weeks, around 50 people have been arriving daily to nearby Serbian t
 According to multiple volunteer sources, an unconfirmed number of Syrian, Iraqi and Afghan refugees who have entered Austria after the first of January 2016\. got a letter from BFA, informing them about the possibility of being sent back to Croatia according to Dublin regulation\. AYS volunteers can confirm at least 80–100 people were deported to Croatia from Austria since March, after receiving similar papers, also based on the Dublin agreement\. Some had children who have already started going to school in Austria\.
 
 
-![People campaigning against returns of refugees from Austria to Slovenia and Croatia\. Photo: Spielfeld border crossing](assets/afe2eb7ca0e9/1*1GpdN1HcmkG0T3v0ht8moA.jpeg)
+![People campaigning against returns of refugees from Austria to Slovenia and Croatia\. Photo: Spielfeld border crossing](../assets/afe2eb7ca0e9/1*1GpdN1HcmkG0T3v0ht8moA.jpeg)
 
 People campaigning against returns of refugees from Austria to Slovenia and Croatia\. Photo: Spielfeld border crossing
 
@@ -97,7 +97,7 @@ According to Croatian Ministry of Interior, first group of 8 Syrian and Eritrean
 Italy is to begin removing the remains of hundreds of people from a sunken migrant boat after raising it from the Mediterranean seabed and towing it to Sicily, the navy announced Wednesday\. The boat’s sinking off Libya in April 2015 left as many as 800 people dead in the worst maritime tragedy in the Mediterranean since World War II\. The delicate operation to lift the vessel undamaged from 380 metres \(1,245 feet\), which began on May 11 but was repeatedly hampered by poor weather conditions, was completed on Monday, the navy said in a statement\. Fingerprints, DNA samples and distinguishing body marks are to be placed on file in the hope that the data may be of help to relatives seeking missing loved ones, according to [AFP](http://en.rfi.fr/wire/20160629-italy-remove-corpses-salvaged-migrant-boat) \.
 
 
-![Delicate underwater operation finally succeeded\. Photo: Italian navy](assets/afe2eb7ca0e9/1*ELL8yw7ycwsoUHwT7Ql1SA.jpeg)
+![Delicate underwater operation finally succeeded\. Photo: Italian navy](../assets/afe2eb7ca0e9/1*ELL8yw7ycwsoUHwT7Ql1SA.jpeg)
 
 Delicate underwater operation finally succeeded\. Photo: Italian navy
 ### Refugees might finally get professional training to help them find work in Italy
@@ -114,7 +114,7 @@ On Wednesday evening, Copenhagen Police seized a total of 79,600 Danish kroner f
 The people, three men and two women, were arrested and searched and that was when the police discovered they had large sums of dollars and euros on the total corresponding to 129,600 Danish kroner\. The asylum seekers were allowed to keep 10 000 crowns was while the rest were taken by the police\.
 
 
-![Danish Integration Minister Inger Støjberg, responsible for controversial law\. Photo: Polfoto](assets/afe2eb7ca0e9/1*KA6TNU7C4_Sq4NewqTw3ag.jpeg)
+![Danish Integration Minister Inger Støjberg, responsible for controversial law\. Photo: Polfoto](../assets/afe2eb7ca0e9/1*KA6TNU7C4_Sq4NewqTw3ag.jpeg)
 
 Danish Integration Minister Inger Støjberg, responsible for controversial law\. Photo: Polfoto
 

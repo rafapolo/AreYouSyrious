@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 29/4/2021 — Libyan Coast Guard: The EU interception force
+title: "AYS Daily Digest 29/4/2021 — Libyan Coast Guard: The EU interception force"
 author: Are You Syrious?
 date: 2021-04-30T12:43:21.355+0100
 last_modified_at: 2021-04-30T18:27:52.104+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,frontex,libya,european-union]
 description: 24 bodies found in the Atlantic Ocean. Kara Tepe municipal camp finally evicted. Limited access to healthcare in Montenegro. UK and more…
 image:
-  path: assets/2bc5affd43ed/1*977oMJbYSXIa6pzryZSsBg.jpeg
+  path: ../assets/2bc5affd43ed/1*977oMJbYSXIa6pzryZSsBg.jpeg
 ---
 
 ### AYS Daily Digest 29/4/2021 — Libyan Coast Guard: The EU interception force
@@ -15,7 +15,7 @@ image:
 24 bodies found in the Atlantic Ocean\. Kara Tepe municipal camp finally evicted\. Limited access to healthcare in Montenegro\. 200\+ people reach the UK in one night\.
 
 
-![Patras, Greece 29 April 2021\. ‘Refugees and migrants wait for their chance at a better life, in Patras\. They sleep in abandoned buildings/factories\. Patras is home to about 150 refugees and migrants\. Most of them are from Afghanistan, Pakistan and Iran although there are also some from Nigeria and Sudan\. They stop in Patras to try and find passage to various European destinations by hiding in ships, containers and trucks parked in the port\.’ \(Photo and text by Chrysoula Patsou / via [Art Against](https://www.facebook.com/artagainstproject/posts/3899237926792279) \)](assets/2bc5affd43ed/1*977oMJbYSXIa6pzryZSsBg.jpeg)
+![Patras, Greece 29 April 2021\. ‘Refugees and migrants wait for their chance at a better life, in Patras\. They sleep in abandoned buildings/factories\. Patras is home to about 150 refugees and migrants\. Most of them are from Afghanistan, Pakistan and Iran although there are also some from Nigeria and Sudan\. They stop in Patras to try and find passage to various European destinations by hiding in ships, containers and trucks parked in the port\.’ \(Photo and text by Chrysoula Patsou / via [Art Against](https://www.facebook.com/artagainstproject/posts/3899237926792279) \)](../assets/2bc5affd43ed/1*977oMJbYSXIa6pzryZSsBg.jpeg)
 
 Patras, Greece 29 April 2021\. ‘Refugees and migrants wait for their chance at a better life, in Patras\. They sleep in abandoned buildings/factories\. Patras is home to about 150 refugees and migrants\. Most of them are from Afghanistan, Pakistan and Iran although there are also some from Nigeria and Sudan\. They stop in Patras to try and find passage to various European destinations by hiding in ships, containers and trucks parked in the port\.’ \(Photo and text by Chrysoula Patsou / via [Art Against](https://www.facebook.com/artagainstproject/posts/3899237926792279) \)
 #### Featured — Libyan Coast Guard: The EU interception force and the role of Frontex in the Central Mediterranean
@@ -172,11 +172,11 @@ During the night from Wednesday to Thursday, 209 people crossed the Channel aboa
 Channel Rescue has been back out [monitoring](https://www.facebook.com/channel.rescue/posts/246648457207789) Border Force operations in the channel this week to ensure authorities are complying with their human rights obligations\. Check out their [page](https://www.facebook.com/channel.rescue/) if you can support them with donation or join their team\.
 
 
-![](assets/2bc5affd43ed/1*hh2MR2kh9ZE-UFqxiWYk2Q.jpeg)
+![](../assets/2bc5affd43ed/1*hh2MR2kh9ZE-UFqxiWYk2Q.jpeg)
 
 
 
-![“On one of the busiest days for small boat crossings so far this year, we witnessed the heartbreaking sight of families with small children being disembarked at Dover having risked the voyage\. No one should be forced to make this dangerous journey\! [\#SafePassage](https://www.facebook.com/hashtag/safepassage?__eep__=6&__cft__[0]=AZW5h9DEexjVnSnyMC3lT74DkPsBKZlmP2o4S9xY6boDaBqh4UmlvrbqiTKeJ97RDZmy4m9gwT-ytkOj3ooWd8EAiEyz2Y109Xd7Z2z2NbKziHMFGvc9BQGGRHUJoxoIITH149tZTsN935LJU365nuuq&__tn__=*NK-R) ” \(Credit: [Channel Rescue](https://www.facebook.com/channel.rescue/posts/246648457207789) \)](assets/2bc5affd43ed/1*BNWxVMIbEAfQJYUFxoKSaQ.jpeg)
+![“On one of the busiest days for small boat crossings so far this year, we witnessed the heartbreaking sight of families with small children being disembarked at Dover having risked the voyage\. No one should be forced to make this dangerous journey\! [\#SafePassage](https://www.facebook.com/hashtag/safepassage?__eep__=6&__cft__[0]=AZW5h9DEexjVnSnyMC3lT74DkPsBKZlmP2o4S9xY6boDaBqh4UmlvrbqiTKeJ97RDZmy4m9gwT-ytkOj3ooWd8EAiEyz2Y109Xd7Z2z2NbKziHMFGvc9BQGGRHUJoxoIITH149tZTsN935LJU365nuuq&__tn__=*NK-R) ” \(Credit: [Channel Rescue](https://www.facebook.com/channel.rescue/posts/246648457207789) \)](../assets/2bc5affd43ed/1*BNWxVMIbEAfQJYUFxoKSaQ.jpeg)
 
 “On one of the busiest days for small boat crossings so far this year, we witnessed the heartbreaking sight of families with small children being disembarked at Dover having risked the voyage\. No one should be forced to make this dangerous journey\! [\#SafePassage](https://www.facebook.com/hashtag/safepassage?__eep__=6&__cft__[0]=AZW5h9DEexjVnSnyMC3lT74DkPsBKZlmP2o4S9xY6boDaBqh4UmlvrbqiTKeJ97RDZmy4m9gwT-ytkOj3ooWd8EAiEyz2Y109Xd7Z2z2NbKziHMFGvc9BQGGRHUJoxoIITH149tZTsN935LJU365nuuq&__tn__=*NK-R) ” \(Credit: [Channel Rescue](https://www.facebook.com/channel.rescue/posts/246648457207789) \)
 #### **Reject the Plan**

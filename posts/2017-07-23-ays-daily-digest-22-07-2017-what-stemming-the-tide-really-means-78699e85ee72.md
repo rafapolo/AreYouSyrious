@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 22/07/17: What “stemming the tide” really means…
+title: "AYS Daily Digest 22/07/17: What “stemming the tide” really means…"
 author: Are You Syrious?
 date: 2017-07-23T02:43:30.412+0100
 last_modified_at: 2017-08-29T17:47:47.816+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees]
 description: Pushback video from Greece / New info on family reunification / Legal help to arrive in Ventimiglia / Authorities close long-time refugee…
 image:
-  path: assets/78699e85ee72/1*d3Z_mfwxuCu-vHfOnf_f1g.jpeg
+  path: ../assets/78699e85ee72/1*d3Z_mfwxuCu-vHfOnf_f1g.jpeg
 ---
 
 ### AYS Daily Digest 22/07/17: What “stemming the tide” really means…
@@ -15,7 +15,7 @@ image:
 _Pushback video from Greece / New info on family reunification / Legal help to arrive in Ventimiglia / Authorities close long\-time refugee support group in Italy / More arrivals, and people sleeping rough in Spain / Phones needed in France / Belgium returning people to Greece on Dublin / And more news…_
 
 
-![Photo courtesy of Solidarithé](assets/78699e85ee72/1*d3Z_mfwxuCu-vHfOnf_f1g.jpeg)
+![Photo courtesy of Solidarithé](../assets/78699e85ee72/1*d3Z_mfwxuCu-vHfOnf_f1g.jpeg)
 
 Photo courtesy of Solidarithé
 ### FEATURE
@@ -46,7 +46,7 @@ The long heritage of colonialism and sterilization programs throughout the world
 So in this way, we must take care to analyze policies that may be truly doing some good, but make sure to criticize that deeply harmful ideas that may be tied to them\.
 
 
-![Photo credit: Team Refugees/UNHCR](assets/78699e85ee72/1*3t-K9a2_5r9Bk_dlGXDXxA.png)
+![Photo credit: Team Refugees/UNHCR](../assets/78699e85ee72/1*3t-K9a2_5r9Bk_dlGXDXxA.png)
 
 Photo credit: Team Refugees/UNHCR
 ### GREECE
@@ -129,26 +129,26 @@ Sad news today from a long\-term source of support for refugees\.
 
 
 
-![Photo credit: [**Cooperativa Caracol**](https://www.facebook.com/coopcaracol/)](assets/78699e85ee72/1*QKa3pMtp64IGFSldGrPb-w.jpeg)
+![Photo credit: [**Cooperativa Caracol**](https://www.facebook.com/coopcaracol/)](../assets/78699e85ee72/1*QKa3pMtp64IGFSldGrPb-w.jpeg)
 
 Photo credit: [**Cooperativa Caracol**](https://www.facebook.com/coopcaracol/)
 
 
-![Photo Credit: [**Cooperativa Caracol**](https://www.facebook.com/coopcaracol/)](assets/78699e85ee72/1*QKa3pMtp64IGFSldGrPb-w.jpeg)
+![Photo Credit: [**Cooperativa Caracol**](https://www.facebook.com/coopcaracol/)](../assets/78699e85ee72/1*QKa3pMtp64IGFSldGrPb-w.jpeg)
 
 Photo Credit: [**Cooperativa Caracol**](https://www.facebook.com/coopcaracol/)
 
 STAMP — an organization designed to provide refugees and migrants with legal information — will be in Ventimiglia until the 4th of August\. They are in a mobile office\.
 
 
-![Photo Credit: STAMP](assets/78699e85ee72/1*Ifn9yt_W57OFSh076pBM8A.jpeg)
+![Photo Credit: STAMP](../assets/78699e85ee72/1*Ifn9yt_W57OFSh076pBM8A.jpeg)
 
 Photo Credit: STAMP
 
 Today in Porto di Catania there was a protest against the Sea Star and all xenophobic exploitation of the refugee crisis\. Great work\. ❤
 
 
-![[**Borderline Sicilia ONLUS**](https://www.facebook.com/Borderline-Sicilia-ONLUS-1145159495525466/?hc_ref=ARQaQlXnk5GFAAhahnbKY3Tg9tvnitTAsA2Z_s7RVx7fPUVqMEdi9agTr5RKRwujMhM)](assets/78699e85ee72/1*bAiQm0yHsPxIC7xehKIzpw.jpeg)
+![[**Borderline Sicilia ONLUS**](https://www.facebook.com/Borderline-Sicilia-ONLUS-1145159495525466/?hc_ref=ARQaQlXnk5GFAAhahnbKY3Tg9tvnitTAsA2Z_s7RVx7fPUVqMEdi9agTr5RKRwujMhM)](../assets/78699e85ee72/1*bAiQm0yHsPxIC7xehKIzpw.jpeg)
 
 [**Borderline Sicilia ONLUS**](https://www.facebook.com/Borderline-Sicilia-ONLUS-1145159495525466/?hc_ref=ARQaQlXnk5GFAAhahnbKY3Tg9tvnitTAsA2Z_s7RVx7fPUVqMEdi9agTr5RKRwujMhM)
 ### SPAIN
@@ -183,7 +183,7 @@ New developments in Spain as volunteers and journalists report that around 70 Sy
 [**Refugee Youth Service France**](https://www.facebook.com/RefugeeYouthServiceFrance/?hc_ref=ARSL1fcPPSdLCki6_0GBHUHCUFENX0ePDqZ24qymSn8B1ELxXJb41J5eoYjRYmAydvs&fref=nf) **is looking to collect cell phones for vulnerable youth in France\.**
 
 
-![](assets/78699e85ee72/1*QFYvleFFRlSvoh2xh5I8ng.jpeg)
+![](../assets/78699e85ee72/1*QFYvleFFRlSvoh2xh5I8ng.jpeg)
 
 
 
@@ -214,7 +214,7 @@ Germany is falling behind on processing asylum requests, according to a news sto
 Meanwhile, in Dusseldorf Germany, there was a protest by Iraqi refugees against rejected asylum claims\.
 
 
-![](assets/78699e85ee72/1*qTDOqcWhj5GpyEHE-SK5MA.jpeg)
+![](../assets/78699e85ee72/1*qTDOqcWhj5GpyEHE-SK5MA.jpeg)
 
 ### UK
 

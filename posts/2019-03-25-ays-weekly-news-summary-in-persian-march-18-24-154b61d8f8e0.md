@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [weekly-summary,refugees,europe,persian,germany]
 description: عمومی
 image:
-  path: assets/154b61d8f8e0/1*yDyfgaHQ3-S2kX08JK1yRg.jpeg
+  path: ../assets/154b61d8f8e0/1*yDyfgaHQ3-S2kX08JK1yRg.jpeg
 ---
 
 ### آلمان و بعضی کشورهای دیگر میتوانند پناهندگان را به کشورهای ضعیف تر عضو اتحادیه برگردانند
 #### AYS Weekly News Summary in Persian, March 18–24
 
 
-![[MEDU — Medici per i Diritti Umani](https://www.facebook.com/MEDUonlus/?__tn__=%2CdkCH-R-R&eid=ARBwmfM3ziMCJmMx1hS_BWCFXt60_DryIbqrXrCUtVdkwPVtZb0ZCzKFLIu81v3caSIG7odxy3B6XVRU&hc_ref=ARQAZlJryAxE_VsajT22vNmigT77JFds7sZq2DoDxFIDOjZEktjoAhVB4KKWuJ54oC8&fref=nf)](assets/154b61d8f8e0/1*yDyfgaHQ3-S2kX08JK1yRg.jpeg)
+![[MEDU — Medici per i Diritti Umani](https://www.facebook.com/MEDUonlus/?__tn__=%2CdkCH-R-R&eid=ARBwmfM3ziMCJmMx1hS_BWCFXt60_DryIbqrXrCUtVdkwPVtZb0ZCzKFLIu81v3caSIG7odxy3B6XVRU&hc_ref=ARQAZlJryAxE_VsajT22vNmigT77JFds7sZq2DoDxFIDOjZEktjoAhVB4KKWuJ54oC8&fref=nf)](../assets/154b61d8f8e0/1*yDyfgaHQ3-S2kX08JK1yRg.jpeg)
 
 [MEDU — Medici per i Diritti Umani](https://www.facebook.com/MEDUonlus/?__tn__=%2CdkCH-R-R&eid=ARBwmfM3ziMCJmMx1hS_BWCFXt60_DryIbqrXrCUtVdkwPVtZb0ZCzKFLIu81v3caSIG7odxy3B6XVRU&hc_ref=ARQAZlJryAxE_VsajT22vNmigT77JFds7sZq2DoDxFIDOjZEktjoAhVB4KKWuJ54oC8&fref=nf)
 ### **عمومی**
@@ -63,7 +63,7 @@ Captain Joe, #SeaWatch3
 در ساموس، علاوه بر شرایط زندگی غیرقابل‌تحمل برای مردم در اردوگاه شلوغ هم هستند
 
 
-![، [https://www\.facebook\.com/AegeanBoatReport/](https://www.facebook.com/AegeanBoatReport/)](assets/154b61d8f8e0/1*zDouLmlEitgEFqbpWCZtpg.jpeg)
+![، [https://www\.facebook\.com/AegeanBoatReport/](https://www.facebook.com/AegeanBoatReport/)](../assets/154b61d8f8e0/1*zDouLmlEitgEFqbpWCZtpg.jpeg)
 
 ، [https://www\.facebook\.com/AegeanBoatReport/](https://www.facebook.com/AegeanBoatReport/)
 
@@ -82,7 +82,7 @@ _Dragan Mektic_ ، وزیر امنیت بوسنی، این احتمال را ا�
 مکتیک همچنین اعلام کرد که دولت به زودی تمام اردوگاه‌ها را از سوی سازمان آی\.ا\.ام خواهد گرفت، که بسیاری از گروه‌های حقوق بشر محلی و بین‌المللی از جمله عفو بین‌الملل در آخرین گزارش خود درخواست کرده‌اند
 
 
-![Bira Camp, Bihać](assets/154b61d8f8e0/1*2VA_Zcx08-RUJIGX8akYYg.jpeg)
+![Bira Camp, Bihać](../assets/154b61d8f8e0/1*2VA_Zcx08-RUJIGX8akYYg.jpeg)
 
 Bira Camp, Bihać
 ### کرواتی
@@ -99,7 +99,7 @@ Bira Camp, Bihać
 در حقیقت، آن‌ها خشونت فیزیکی و روان‌شناختی که توسط نیروی هوایی پاکستان _\(_ در مرزها، مسئول نگهداری دستور مرکز بازداشت _\)_ اعمال می‌شود را محکوم می‌کنند؛ فقدان مراقبت ضروری در حین اینکه بیش از حد مورد استفاده قرار می‌گیرد توزیع بد \. \. \.؛ غذای آلوده و خراب _…_
 
 
-![Photo: [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/?ref=gs&tn-str=k%2AF&fref=gs&dti=1006253006128240&hc_location=group_dialog) ‎](assets/154b61d8f8e0/1*Ybqq0ooGTCV2UIdfg18CEw.jpeg)
+![Photo: [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/?ref=gs&tn-str=k%2AF&fref=gs&dti=1006253006128240&hc_location=group_dialog) ‎](../assets/154b61d8f8e0/1*Ybqq0ooGTCV2UIdfg18CEw.jpeg)
 
 Photo: [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/?ref=gs&tn-str=k%2AF&fref=gs&dti=1006253006128240&hc_location=group_dialog) ‎
 ### **آلمان**
@@ -121,7 +121,7 @@ Inadequacies در نظام اجتماعی عضو مربوط به دولت مرب
 [**areyousyrious@gmail\.com**](mailto:areyousyrious@gmail.com)
 
 
-![](assets/154b61d8f8e0/1*gVPlislkGINC657CW8pv5w.jpeg)
+![](../assets/154b61d8f8e0/1*gVPlislkGINC657CW8pv5w.jpeg)
 
 
 

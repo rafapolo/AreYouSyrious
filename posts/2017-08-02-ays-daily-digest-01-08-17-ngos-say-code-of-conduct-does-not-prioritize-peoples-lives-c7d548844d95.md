@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 01/08/17: NGOs say code of conduct does not prioritize peoples’ lives
+title: "AYS Daily Digest 01/08/17: NGOs say code of conduct does not prioritize peoples’ lives"
 author: Are You Syrious?
 date: 2017-08-02T03:39:20.759+0100
 last_modified_at: 2017-08-02T16:02:10.317+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,turkey,c-star,greece,police-abuse]
 description: Protests against arrival of Defend Europe’s boat C-Star in Crete//Protest annonced in Athens against limits to family reunifications from…
 image:
-  path: assets/c7d548844d95/1*_1syCuR329om59JjRHkybQ.png
+  path: ../assets/c7d548844d95/1*_1syCuR329om59JjRHkybQ.png
 ---
 
 ### AYS Daily Digest 01/08/17: NGOs say code of conduct does not prioritize peoples’ lives
@@ -15,13 +15,13 @@ image:
 _Protests against arrival of Defend Europe’s boat C\-Star in Crete//Protest annonced in Athens against limits to family reunifications from Greece to Germany//Violation of asylum seekers’ rights in the south of France// Police tank hit and killed a Syrian child in Turkey_
 
 
-![Photo by MSF](assets/c7d548844d95/1*_1syCuR329om59JjRHkybQ.png)
+![Photo by MSF](../assets/c7d548844d95/1*_1syCuR329om59JjRHkybQ.png)
 
 Photo by MSF
 ### Five out of eight rescue organisations refuse to sign Italy’s code of conduct
 
 
-![Image by [**Gianluca Costantini**](https://www.facebook.com/costantinigianluca?hc_ref=ARQiQmtsRUFDiugDe-3utHfA22E3wqRBOeHx8K9WyKezuDB0yczNsrnNATnuhpMY7dk&fref=nf)](assets/c7d548844d95/1*buvuf--Qadi7z6g-l0uAFw.png)
+![Image by [**Gianluca Costantini**](https://www.facebook.com/costantinigianluca?hc_ref=ARQiQmtsRUFDiugDe-3utHfA22E3wqRBOeHx8K9WyKezuDB0yczNsrnNATnuhpMY7dk&fref=nf)](../assets/c7d548844d95/1*buvuf--Qadi7z6g-l0uAFw.png)
 
 Image by [**Gianluca Costantini**](https://www.facebook.com/costantinigianluca?hc_ref=ARQiQmtsRUFDiugDe-3utHfA22E3wqRBOeHx8K9WyKezuDB0yczNsrnNATnuhpMY7dk&fref=nf)
 
@@ -75,14 +75,14 @@ The hunger strikers demand an end to brutal violations of human rights, the illi
 The hunger strikers also call on activists overseas to show their support by fasting for 24 hours and publicising their action on social media with \#freedomstrikelesvos, holding a poster like the one below\.
 
 
-![Photo by Kini Von Teesdale](assets/c7d548844d95/1*EPQ8y3RE-CFzynFPriRgcg.png)
+![Photo by Kini Von Teesdale](../assets/c7d548844d95/1*EPQ8y3RE-CFzynFPriRgcg.png)
 
 Photo by Kini Von Teesdale
 
 More on the hunger strike and the refugee experience on Lesvos can be found in this new documentary:
 
 
-[![Sent to Their Death Joinda Productions](assets/c7d548844d95/e04d_hqdefault.jpg "Sent to Their Death Joinda Productions")](http://www.youtube.com/watch?v=eKdrq-3HU7A)
+[![Sent to Their Death Joinda Productions](../assets/c7d548844d95/e04d_hqdefault.jpg "Sent to Their Death Joinda Productions")](http://www.youtube.com/watch?v=eKdrq-3HU7A)
 
 ### Critical situation on Samos
 
@@ -170,19 +170,19 @@ Refugees call for a protest against the limitation of family reunifications from
 Soul Welders says the frequency and intensity of police abuse of refugees, including minors, at the border between Croatia and Serbia has increased in recent weeks\.
 
 
-![](assets/c7d548844d95/1*SCLgEARNHjEB8bHyLvfCKg.jpeg)
+![](../assets/c7d548844d95/1*SCLgEARNHjEB8bHyLvfCKg.jpeg)
 
 
 
-![](assets/c7d548844d95/1*rTwcmv8MsyQYBv2nOS5KTQ.jpeg)
+![](../assets/c7d548844d95/1*rTwcmv8MsyQYBv2nOS5KTQ.jpeg)
 
 
 
-![](assets/c7d548844d95/1*Opqo5PAE2h9TTXNHnMyOPg.jpeg)
+![](../assets/c7d548844d95/1*Opqo5PAE2h9TTXNHnMyOPg.jpeg)
 
 
 
-![](assets/c7d548844d95/1*TOWSt3VR8eFBIDjUtJFkEg.jpeg)
+![](../assets/c7d548844d95/1*TOWSt3VR8eFBIDjUtJFkEg.jpeg)
 
 
 This violence has been documented as well in a new [report](http://rigardu.de/wp-content/uploads/2017/07/Rigardu_report_may_july.pdf) by German association Rigardu, by Doctors without Borders, and in a [report](http://welcome.cms.hr/wp-content/uploads/2017/05/Izvje%C5%A1taj-o-novom-valu-nasilja-prema-izbjeglicama-na-granicama-Republike-Hrvatske.pdf) by Are You Syrious and the Welcome\! Initiative\.
@@ -194,12 +194,12 @@ On the 24th of July, Cédric Herrou was arrested and later put under judicial co
 Cédric and the CRS collective were hoping to make a documentary on the chaotic journey of asylum\-seekers in the region and the project’s completion was hastened by his arrest\. It shows how asylum\-seekers are brought back to the border in violation of their rights, without examining their request and without access to translators or lawyers\.
 
 
-[![Festival du droit d'asile de Cannes - par CRS (Collectif Roya Solidaire)](assets/c7d548844d95/1607_hqdefault.jpg "Festival du droit d'asile de Cannes - par CRS (Collectif Roya Solidaire)")](http://www.youtube.com/watch?v=AHF2BwFsb5o)
+[![Festival du droit d'asile de Cannes - par CRS (Collectif Roya Solidaire)](../assets/c7d548844d95/1607_hqdefault.jpg "Festival du droit d'asile de Cannes - par CRS (Collectif Roya Solidaire)")](http://www.youtube.com/watch?v=AHF2BwFsb5o)
 
 ### Two “new” reception centres to be opened in the Calais region
 
 
-![“One meal per day is not enough but I have orders”\. Photo by [Pitinome](https://www.facebook.com/julien.pitinome/)](assets/c7d548844d95/1*exYap98t-Bt3c2pdaWIFIg.png)
+![“One meal per day is not enough but I have orders”\. Photo by [Pitinome](https://www.facebook.com/julien.pitinome/)](../assets/c7d548844d95/1*exYap98t-Bt3c2pdaWIFIg.png)
 
 “One meal per day is not enough but I have orders”\. Photo by [Pitinome](https://www.facebook.com/julien.pitinome/)
 
@@ -210,7 +210,7 @@ The Ministry of the Interior also called for an investigation on police violence
 Mobile Refugee Support adds that because of constant raids by the French police, sleeping bags are in high demand at the moment\. [Taranis news](http://taranis.news/) will also soon publish the testimony of an Eritrean refugee, who says he was sprayed at point blank range in the face with tear gas\.
 
 
-![Photo by Taranis News](assets/c7d548844d95/1*hYyARA6tv6QgMi8_TIvQAQ.png)
+![Photo by Taranis News](../assets/c7d548844d95/1*hYyARA6tv6QgMi8_TIvQAQ.png)
 
 Photo by Taranis News
 
@@ -221,7 +221,7 @@ Photo by Taranis News
 Hallo to you all\! I have been away for a bit\( my well deserved vacation
 
 
-![](assets/c7d548844d95/0*egmVIW2H016BN5CN.png)
+![](../assets/c7d548844d95/0*egmVIW2H016BN5CN.png)
 
 
 :\) 

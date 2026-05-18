@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 02/12/2020: David vs. Goliat / transparency activists vs. Frontex
+title: "AYS Daily Digest 02/12/2020: David vs. Goliat / transparency activists vs. Frontex"
 author: Are You Syrious?
 date: 2020-12-03T13:48:16.130+0000
 last_modified_at: 2020-12-03T14:33:22.151+0000
 categories: Are You Syrious?
 tags: [europe,refugees,digest,frontex,winter]
-description: Frontex is taken transparency activists to court to enforce payment of legal bill // Shipwreck off Lesvos: one woman drowned, one missing…
+description: "Frontex is taken transparency activists to court to enforce payment of legal bill // Shipwreck off Lesvos: one woman drowned, one missing…"
 image:
-  path: assets/945bc62eab1f/1*tCF973QibpkkqldbpYdtuQ.jpeg
+  path: ../assets/945bc62eab1f/1*tCF973QibpkkqldbpYdtuQ.jpeg
 ---
 
 ### AYS Daily Digest 02/12/2020: David vs\. Goliath / Transparency activists vs\. Frontex
 #### Frontex is taken transparency activists to court to enforce payment of legal bill // Shipwreck off Lesvos: one woman drowned, one missing // New testimony of pushback in Aegean // Tactics to prevent illegal pushbacks // Happening now: families with children with no place to go in BiH // British immigration minister refuses to rule out to use of inhumane tactics against refugees // Senegal: Father of dead boy taken to court //
 
 
-![Winter is here in Bosnia, where camps have no hot water and at least 3,000 people do not even have a place in the camp but sleep rough; among them there are families\. Copyright: Transbalkanska Solidarnost](assets/945bc62eab1f/1*tCF973QibpkkqldbpYdtuQ.jpeg)
+![Winter is here in Bosnia, where camps have no hot water and at least 3,000 people do not even have a place in the camp but sleep rough; among them there are families\. Copyright: Transbalkanska Solidarnost](../assets/945bc62eab1f/1*tCF973QibpkkqldbpYdtuQ.jpeg)
 
 Winter is here in Bosnia, where camps have no hot water and at least 3,000 people do not even have a place in the camp but sleep rough; among them there are families\. Copyright: Transbalkanska Solidarnost
 ### FEATURE: Frontex is using bully\-boy tactics to intimidate transparency activists
@@ -256,7 +256,7 @@ Yesterday ended with a wonderful welcome to the #UNHCR Fondation Orient Occident
 This 10 minutes movie tells the story of people trapped on Lesvos and is definitely worth watching:
 
 
-[![REFUGEES ARE HUMAN (LESVOS, GREECE)](assets/945bc62eab1f/f078_hqdefault.jpg "REFUGEES ARE HUMAN (LESVOS, GREECE)")](https://www.youtube.com/watch?v=NDIBgoWQWNc)
+[![REFUGEES ARE HUMAN (LESVOS, GREECE)](../assets/945bc62eab1f/f078_hqdefault.jpg "REFUGEES ARE HUMAN (LESVOS, GREECE)")](https://www.youtube.com/watch?v=NDIBgoWQWNc)
 
 
 This photo essay collects pictures of objects people left behind when the fire broke out in Moria camp on 8 September\. They tell stories of enduring pain, of resilience, of attachment and belief\.

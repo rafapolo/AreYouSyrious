@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 1/4/19: Croatia called out by the members of the EP
+title: "AYS Daily Digest 1/4/19: Croatia called out by the members of the EP"
 author: Are You Syrious?
 date: 2019-04-02T15:26:00.545+0100
 last_modified_at: 2019-04-02T15:26:00.545+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,borders,croatia]
 description: 30 members of the European Parliament publicly called out Croatia for the illegal practice of pushbacks and acts leading to criminalisation…
 image:
-  path: assets/9cb5bc1c1800/1*mkZKKuWnGo0atPGcPxQr4g.jpeg
+  path: ../assets/9cb5bc1c1800/1*mkZKKuWnGo0atPGcPxQr4g.jpeg
 ---
 
 ### AYS Daily Digest 1/4/19: Croatia called out by the members of the EP
 #### 30 members of the European Parliament publicly called out Croatia for the illegal practice of pushbacks and acts leading to criminalisation of solidarity / Greece: Poor conditions remain in Vial, Chios; Xenophobic requests of parents on Samos against children’s school enrollment / violence by the authorities ongoing in France / more news…
 
 
-![](assets/9cb5bc1c1800/1*Tx1u1RSutf5fWmPbOOmJVA.jpeg)
+![](../assets/9cb5bc1c1800/1*Tx1u1RSutf5fWmPbOOmJVA.jpeg)
 
 
 [Are You Syrious?](https://medium.com/@AreYouSyrious)
@@ -22,7 +22,7 @@ image:
 Apr 2
 
 
-![This news digest features photos by Hrvoje Polan, a photographer and storyteller who tirelessly sought to tell the world what was unfolding in front of his eyes, covering refugee routes and war zones across the globe, and for his work and selfless dedication we give him a modest homage this way — in memoriam\. Feature photo from a series titles Stories about nonsence, source: [grain\.rs](https://grain.rs/2018/09/14/hrvoje-polan-price-o-besmislu/?fbclid=IwAR03YtcPiFSYRLrAGFEZYfhjn31W8ODVvfrQ_LhtbvI-Hb1U2_pGxmVKhXI) , by Hrvoje Polan, “ [master of photography and a brave man](http://novilist.hr/Vijesti/Hrvatska/Preminuo-Hrvoje-Polan-majstor-fotografije-i-hrabar-covjek) ”](assets/9cb5bc1c1800/1*mkZKKuWnGo0atPGcPxQr4g.jpeg)
+![This news digest features photos by Hrvoje Polan, a photographer and storyteller who tirelessly sought to tell the world what was unfolding in front of his eyes, covering refugee routes and war zones across the globe, and for his work and selfless dedication we give him a modest homage this way — in memoriam\. Feature photo from a series titles Stories about nonsence, source: [grain\.rs](https://grain.rs/2018/09/14/hrvoje-polan-price-o-besmislu/?fbclid=IwAR03YtcPiFSYRLrAGFEZYfhjn31W8ODVvfrQ_LhtbvI-Hb1U2_pGxmVKhXI) , by Hrvoje Polan, “ [master of photography and a brave man](http://novilist.hr/Vijesti/Hrvatska/Preminuo-Hrvoje-Polan-majstor-fotografije-i-hrabar-covjek) ”](../assets/9cb5bc1c1800/1*mkZKKuWnGo0atPGcPxQr4g.jpeg)
 
 This news digest features photos by Hrvoje Polan, a photographer and storyteller who tirelessly sought to tell the world what was unfolding in front of his eyes, covering refugee routes and war zones across the globe, and for his work and selfless dedication we give him a modest homage this way — in memoriam\. Feature photo from a series titles Stories about nonsence, source: [grain\.rs](https://grain.rs/2018/09/14/hrvoje-polan-price-o-besmislu/?fbclid=IwAR03YtcPiFSYRLrAGFEZYfhjn31W8ODVvfrQ_LhtbvI-Hb1U2_pGxmVKhXI) , by Hrvoje Polan, “ [master of photography and a brave man](http://novilist.hr/Vijesti/Hrvatska/Preminuo-Hrvoje-Polan-majstor-fotografije-i-hrabar-covjek) ”
 #### FEATURE
@@ -69,7 +69,7 @@ The deterrent effect that is widely created by the individual prosecutions is sh
 The president of AYS spoke of our own cases of pressure put on our volunteers who are constantly working to help inform the public of what is taking place out there on our borders, but also inland\. We have decided to come forth, as the only NGO who was present during the discussion, because our responsibility as European citizens asks us to speak directly in the faces of those who decide and because our anonymous defeatism would not bring about any change or help the lives of those we strive to support\. We spoke on behalf of our volunteer and activists friends all over the continent who have faced persecution and restrictions to their SAR and other work, and hope that these sort of small actions contribute to bringing about a visible change\.
 
 
-![by Hrvoje Polan, published in: Pescanik](assets/9cb5bc1c1800/1*18CozddfCzAO8qgku71qqQ.jpeg)
+![by Hrvoje Polan, published in: Pescanik](../assets/9cb5bc1c1800/1*18CozddfCzAO8qgku71qqQ.jpeg)
 
 by Hrvoje Polan, published in: Pescanik
 #### SEA
@@ -112,27 +112,27 @@ New photos from a long\-term resident of Vial Camp were shared with us, followed
 In Section C, all new arrivals are living there\. Inside the big tents we have small tents\. They have bad situations for health care and for cooking places and for other things\. There people ask for many things like shoes, summer clothes, etc\. \[Right now\] these are the most important things as they said, and as I noticed\.”
 
 
-![](assets/9cb5bc1c1800/1*m7g65-p2U0wfjVhVzXMPYw.jpeg)
+![](../assets/9cb5bc1c1800/1*m7g65-p2U0wfjVhVzXMPYw.jpeg)
 
 
 
-![](assets/9cb5bc1c1800/1*3emhw4bSvzBAjEuM6x4paA.jpeg)
+![](../assets/9cb5bc1c1800/1*3emhw4bSvzBAjEuM6x4paA.jpeg)
 
 
 
-![](assets/9cb5bc1c1800/1*F5qJcBWU0Yahbt4-KDIaKA.jpeg)
+![](../assets/9cb5bc1c1800/1*F5qJcBWU0Yahbt4-KDIaKA.jpeg)
 
 
 
-![](assets/9cb5bc1c1800/1*5klnhzzZIKFR4E2VdMe1YA.jpeg)
+![](../assets/9cb5bc1c1800/1*5klnhzzZIKFR4E2VdMe1YA.jpeg)
 
 
 
-![](assets/9cb5bc1c1800/1*DkdH3ZaPRp_xTSr1MITKKA.jpeg)
+![](../assets/9cb5bc1c1800/1*DkdH3ZaPRp_xTSr1MITKKA.jpeg)
 
 
 
-![](assets/9cb5bc1c1800/1*hYFjG9mbpMm4w9qa8MqneQ.jpeg)
+![](../assets/9cb5bc1c1800/1*hYFjG9mbpMm4w9qa8MqneQ.jpeg)
 
 
 [Mobile Info Team](https://www.facebook.com/mobileinfoteam/?__tn__=%2CdkCH-R-R&eid=ARAlFpEgcWT8ZnDXJTFvD20ePW8Hqk0ZvP8sUATYS3IL2yzaOYC92UFfYB9RSF63_gO0krVraETh8r_t&hc_ref=ARRbOt4ZOsAdsG4oyFJAl8z5-NAWitcT_bCNxQlVYIHj0TgiSntKoLqJS7mhGCJq-j8&fref=nf) reported on the updated situation regarding people who left Greece illegally and went on to Germany\. They write:
@@ -235,7 +235,7 @@ Write to: wilsonsolidaire@gmail\.com to announce you’re coming\.
 
 
 
-![[Faces Before Numbers](https://www.facebook.com/FacesBeforeNumbers/?__xts__%5B0%5D=68.ARAMU7nVQB7ApYJbjoY7oXAug0yyHu5GqYvMLwmJB-OIMAt-ewCdKXgHTjTG_QmJQE4tz4-fDsoJNJ605eMZ5ff4hb0aJV5A7y2IKe71rWLyl91BTd_r1LlCtn_ztQSsSoIhRuXpICR1Pf0EQJ_gs_sZ2Fs3wRdplFBI_vZgXzt3W-xn1myO_R1ZFYLRB8bS26JxTRLNvn2eSgTreZtcbKnr1NJ11wo8b_yf1RGWY3JgV3aBQ8eMG6Sxl0xNcpAPIi-xarljEIZxaWbnXGS6n-L5jNBsg-6Sh2lpEdvblBi_diCz1KELVzevSmLy27XPuRIkcHV3K3VkY_OaiFFa9BU&__tn__=k%2AF&tn-str=k%2AF)](assets/9cb5bc1c1800/1*diXOgUUfrT367MqEWvFxMw.jpeg)
+![[Faces Before Numbers](https://www.facebook.com/FacesBeforeNumbers/?__xts__%5B0%5D=68.ARAMU7nVQB7ApYJbjoY7oXAug0yyHu5GqYvMLwmJB-OIMAt-ewCdKXgHTjTG_QmJQE4tz4-fDsoJNJ605eMZ5ff4hb0aJV5A7y2IKe71rWLyl91BTd_r1LlCtn_ztQSsSoIhRuXpICR1Pf0EQJ_gs_sZ2Fs3wRdplFBI_vZgXzt3W-xn1myO_R1ZFYLRB8bS26JxTRLNvn2eSgTreZtcbKnr1NJ11wo8b_yf1RGWY3JgV3aBQ8eMG6Sxl0xNcpAPIi-xarljEIZxaWbnXGS6n-L5jNBsg-6Sh2lpEdvblBi_diCz1KELVzevSmLy27XPuRIkcHV3K3VkY_OaiFFa9BU&__tn__=k%2AF&tn-str=k%2AF)](../assets/9cb5bc1c1800/1*diXOgUUfrT367MqEWvFxMw.jpeg)
 
 [Faces Before Numbers](https://www.facebook.com/FacesBeforeNumbers/?__xts__%5B0%5D=68.ARAMU7nVQB7ApYJbjoY7oXAug0yyHu5GqYvMLwmJB-OIMAt-ewCdKXgHTjTG_QmJQE4tz4-fDsoJNJ605eMZ5ff4hb0aJV5A7y2IKe71rWLyl91BTd_r1LlCtn_ztQSsSoIhRuXpICR1Pf0EQJ_gs_sZ2Fs3wRdplFBI_vZgXzt3W-xn1myO_R1ZFYLRB8bS26JxTRLNvn2eSgTreZtcbKnr1NJ11wo8b_yf1RGWY3JgV3aBQ8eMG6Sxl0xNcpAPIi-xarljEIZxaWbnXGS6n-L5jNBsg-6Sh2lpEdvblBi_diCz1KELVzevSmLy27XPuRIkcHV3K3VkY_OaiFFa9BU&__tn__=k%2AF&tn-str=k%2AF)
 #### IRELAND
@@ -249,7 +249,7 @@ The Irish Refugee and Migrant Coalition expressed serious concerns over the anno
 
 
 
-![Photo by Hrvoje Polan, published in kulturista\.hr](assets/9cb5bc1c1800/1*dn-FBlqwxRt1f_KPEqFSww.jpeg)
+![Photo by Hrvoje Polan, published in kulturista\.hr](../assets/9cb5bc1c1800/1*dn-FBlqwxRt1f_KPEqFSww.jpeg)
 
 Photo by Hrvoje Polan, published in kulturista\.hr
 

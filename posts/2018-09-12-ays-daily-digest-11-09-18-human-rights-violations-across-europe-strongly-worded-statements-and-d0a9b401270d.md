@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 11/09/18: Human rights violations across Europe, strongly worded statements, and…
+title: "AYS DAILY DIGEST 11/09/18: Human rights violations across Europe, strongly worded statements, and…"
 author: Are You Syrious?
 date: 2018-09-12T07:39:13.016+0100
 last_modified_at: 2018-09-12T07:39:13.016+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,france,serbia,salvini]
 description: UN High Commissioner speaks out against human rights abuses in Italy // Death at sea, with no more witnesses // Protests in Malta as Sea…
 image:
-  path: assets/d0a9b401270d/1*MsqDhn275y1lm48h-oC-8A.jpeg
+  path: ../assets/d0a9b401270d/1*MsqDhn275y1lm48h-oC-8A.jpeg
 ---
 
 ### AYS DAILY DIGEST 11/09/18: Human rights violations across Europe, strongly worded statements, and little tangible action
@@ -15,7 +15,7 @@ image:
 _UN High Commissioner speaks out against human rights abuses in Italy // Death at sea, with no more witnesses // Protests in Malta as Sea Watch 3 enters its 3rd month of involuntary confinement to port // “Tomorrow, tomorrow” // Majority of migrants now entering Europe through Spain // Far right militias in Slovenia // Returning to Calais for Ethiopian New Year // Demonstrations against rescue boat ban in Amsterdam and beyond //_
 
 
-![Lesvos, Greece August 2018\. Children in Moria refugee camp\. Photo by Aris Messinis](assets/d0a9b401270d/1*MsqDhn275y1lm48h-oC-8A.jpeg)
+![Lesvos, Greece August 2018\. Children in Moria refugee camp\. Photo by Aris Messinis](../assets/d0a9b401270d/1*MsqDhn275y1lm48h-oC-8A.jpeg)
 
 Lesvos, Greece August 2018\. Children in Moria refugee camp\. Photo by Aris Messinis
 ### Feature
@@ -23,7 +23,7 @@ Lesvos, Greece August 2018\. Children in Moria refugee camp\. Photo by Aris Mess
 The newly appointed UN high commissioner for human rights , Michele Bachelet, announced that she has dispatched investigators to Italy in the wake of shocking reports of crimes targeting migrants, which come amidst a climate of state\-sanctioned and inflammatory xenophobic rhetoric\.
 
 
-![Hello [Matteo Salvini](https://www.facebook.com/salviniofficial/?fref=tag) , they belong in court because they have blood on their hands\! Photo: Nick Jaussi](assets/d0a9b401270d/1*D_EtpCSry-JQAMa9HqI1ZQ.jpeg)
+![Hello [Matteo Salvini](https://www.facebook.com/salviniofficial/?fref=tag) , they belong in court because they have blood on their hands\! Photo: Nick Jaussi](../assets/d0a9b401270d/1*D_EtpCSry-JQAMa9HqI1ZQ.jpeg)
 
 Hello [Matteo Salvini](https://www.facebook.com/salviniofficial/?fref=tag) , they belong in court because they have blood on their hands\! Photo: Nick Jaussi
 
@@ -106,7 +106,7 @@ They [tweeted](https://twitter.com/SEENOTRETTUNG/status/1039431989760278528) : �
 The Greek government released its latest u [pdate](https://www.facebook.com/AegeanBoatReport/photos/a.285312485325196/444589002730876/?type=3&hc_location=ufi) on the situation on the islands, making it clear just how drastically over capacity each and every hotspot is\. Notably, Samos is _six times over capacity\._
 
 
-![Seriously overcrowded hotspots: the island camp’s numbers vs\. their capacity\. Source: [Refugee Support Aegean](https://twitter.com/rspaegean)](assets/d0a9b401270d/1*3bDR58ld4gqbr2QD7-hOVg.jpeg)
+![Seriously overcrowded hotspots: the island camp’s numbers vs\. their capacity\. Source: [Refugee Support Aegean](https://twitter.com/rspaegean)](../assets/d0a9b401270d/1*3bDR58ld4gqbr2QD7-hOVg.jpeg)
 
 Seriously overcrowded hotspots: the island camp’s numbers vs\. their capacity\. Source: [Refugee Support Aegean](https://twitter.com/rspaegean)
 
@@ -147,7 +147,7 @@ New [data](https://data2.unhcr.org/en/documents/details/65481) from the UNHCR ab
 ### Slovenia
 
 
-![A paramilitary unit of fascists who aim to “protect the border” from migrants\.](assets/d0a9b401270d/1*_aGMw58F7We4C1kWoIZVJA.jpeg)
+![A paramilitary unit of fascists who aim to “protect the border” from migrants\.](../assets/d0a9b401270d/1*_aGMw58F7We4C1kWoIZVJA.jpeg)
 
 A paramilitary unit of fascists who aim to “protect the border” from migrants\.
 
@@ -157,7 +157,7 @@ A judge ruled to release a fascist militant who had been imprisoned for forming 
 The Spanish organization has been working with a children’s squat in the forests of Subotica\. For the past two weeks they have been installing showers and providing potable water\. They are looking for donations in order to be able to keep providing food during the weeks to come; they hope to be able to organize a movie afternoon with popcorn sometime next week\.
 
 
-![Credit: [Escuela con Alma](https://www.facebook.com/escuelaconalma/posts/1821432667946330) \.](assets/d0a9b401270d/1*Y7dfCj4AJVpmF-CCrd9Xtg.jpeg)
+![Credit: [Escuela con Alma](https://www.facebook.com/escuelaconalma/posts/1821432667946330) \.](../assets/d0a9b401270d/1*Y7dfCj4AJVpmF-CCrd9Xtg.jpeg)
 
 Credit: [Escuela con Alma](https://www.facebook.com/escuelaconalma/posts/1821432667946330) \.
 ### France
@@ -167,7 +167,7 @@ Credit: [Escuela con Alma](https://www.facebook.com/escuelaconalma/posts/1821432
 **To create a camp is not a solution — but we had to respond to a humanitarian crisis\.** But given the time that has passed since the problem began, I believe that this can no longer be seen as a crisis — rather, it should be a substantive policy, implemented by the state\.”
 
 
-![Injera for Ethiopian \+ Eritrean new year\. Credit: Faces before Numbers\.](assets/d0a9b401270d/1*VdaQBR7S2U4aAoOlpUrYew.jpeg)
+![Injera for Ethiopian \+ Eritrean new year\. Credit: Faces before Numbers\.](../assets/d0a9b401270d/1*VdaQBR7S2U4aAoOlpUrYew.jpeg)
 
 Injera for Ethiopian \+ Eritrean new year\. Credit: Faces before Numbers\.
 

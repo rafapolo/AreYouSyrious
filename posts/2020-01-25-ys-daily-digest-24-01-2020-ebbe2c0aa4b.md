@@ -1,5 +1,5 @@
 ---
-title: YS DAILY DIGEST 24.01.2020:
+title: "YS DAILY DIGEST 24.01.2020:"
 author: Are You Syrious?
 date: 2020-01-25T16:09:37.916+0000
 last_modified_at: 2020-01-25T16:09:37.916+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [refugees,police-brutality,digest,italy,greece]
 description: Are You Syrious?
 image:
-  path: assets/ebbe2c0aa4b/0*9PvdC7Yc9rmaYZWF.jpeg
+  path: ../assets/ebbe2c0aa4b/0*9PvdC7Yc9rmaYZWF.jpeg
 ---
 
 ### YS DAILY DIGEST 24\.01\.2020: Witness to Beating Murder of Man in Italian Detention Centre Deported — A Coverup at Hand?
 
 
-![](assets/ebbe2c0aa4b/0*wSg56TaGlAB2OFnY.jpeg)
+![](../assets/ebbe2c0aa4b/0*wSg56TaGlAB2OFnY.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----ebb6adfce954----------------------)
@@ -23,11 +23,11 @@ image:
 _Details emerge in the wake of police brutaliaty in Italy // More horrific testimony from Lesvos // Rescue at Sea // Hunger Strike in France_
 
 
-![](assets/ebbe2c0aa4b/0*iqjJ8AN_98LbgjYB)
+![](../assets/ebbe2c0aa4b/0*iqjJ8AN_98LbgjYB)
 
 
 
-![](assets/ebbe2c0aa4b/0*9PvdC7Yc9rmaYZWF.jpeg)
+![](../assets/ebbe2c0aa4b/0*9PvdC7Yc9rmaYZWF.jpeg)
 
 
 [Photo Credits: Kayra Martinez](https://www.facebook.com/photo.php?fbid=10156508294676829&set=pcb.10156508295126829&type=3&theater)
@@ -250,11 +250,11 @@ There is ongoing contention and discussion about evacuating unaccompanied minors
 However, in spite of this horror, some people are creating beauty\. Longtime volunteer Kayra Martinez shared some of the work at an installation at the Moria Refugee Camp organized by Zekria Farzad\.
 
 
-![](assets/ebbe2c0aa4b/0*1Uo1XpxKs5tY6tR7)
+![](../assets/ebbe2c0aa4b/0*1Uo1XpxKs5tY6tR7)
 
 
 
-![](assets/ebbe2c0aa4b/0*qJrMb8CKCjFT8H31.jpeg)
+![](../assets/ebbe2c0aa4b/0*qJrMb8CKCjFT8H31.jpeg)
 
 
 [Photo Credits: Kayra Martinez](https://www.facebook.com/photo.php?fbid=10156508294676829&set=pcb.10156508295126829&type=3&theater)

@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 22/4/22: What lies behind the UK-Rwanda deal
+title: "AYS News Digest 22/4/22: What lies behind the UK-Rwanda deal"
 author: Are You Syrious?
 date: 2022-04-25T13:54:35.687+0100
 last_modified_at: 2022-04-26T21:35:59.777+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,asylum,uk,europe]
 description: Danish Refugee Board taking steps to classify Afghanistan as a safe country // German Federal Administrative Court overruling the Leipzig…
 image:
-  path: assets/60d955054c6b/0*5JO1eKxasgYZrn--.jpeg
+  path: ../assets/60d955054c6b/0*5JO1eKxasgYZrn--.jpeg
 ---
 
 ### AYS News Digest 22/4/22: What lies behind the UK\-Rwanda deal
 ### Danish Refugee Board taking steps to classify Afghanistan as a safe country // German Federal Administrative Court overruling the Leipzig Court’s decision and permitting deportations with more reckless abandon // Mare Liberum publishes 2021 Pushback Report // some good reads and other news
 
 
-![](assets/60d955054c6b/0*5JO1eKxasgYZrn--.jpeg)
+![](../assets/60d955054c6b/0*5JO1eKxasgYZrn--.jpeg)
 
 
 Housing in Nyabiheke; Photo credits: Heaven Crawley, via [UNU](https://cpr.unu.edu/publications/articles/why-the-uk-rwanda-asylum-deal-risks-harming-global-standards.html) Centre for Policy Research

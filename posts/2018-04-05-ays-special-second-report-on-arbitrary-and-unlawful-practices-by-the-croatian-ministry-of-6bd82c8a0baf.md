@@ -5,21 +5,19 @@ date: 2018-04-05T23:17:25.942+0100
 last_modified_at: 2018-04-07T12:47:33.759+0100
 categories: Are You Syrious?
 tags: [refugees,special,croatia,asylum,soa]
-description: This article was originally published on 26. July 2017.
-Izvještaj na hrvatskom možete pronaći ovdje.
-Lesen Sie den Bericht auch auf…
+description: "This article was originally published on 26. July 2017. Izvještaj na hrvatskom možete pronaći ovdje. Lesen Sie den Bericht auch auf…"
 image:
-  path: assets/6bd82c8a0baf/1*EaonqfNrqzJSMfYe_nbHLw.jpeg
+  path: ../assets/6bd82c8a0baf/1*EaonqfNrqzJSMfYe_nbHLw.jpeg
 ---
 
 ### AYS Special — **Second report on arbitrary and unlawful practices by the Croatian Ministry of Interior \(MOI\) and Security Intelligence Agency \(SOA\)**
 
 
-![](assets/6bd82c8a0baf/1*EaonqfNrqzJSMfYe_nbHLw.jpeg)
+![](../assets/6bd82c8a0baf/1*EaonqfNrqzJSMfYe_nbHLw.jpeg)
 
 
 
-![](assets/6bd82c8a0baf/1*Hc5lLmO9pNhz4PBatuPggw.jpeg)
+![](../assets/6bd82c8a0baf/1*Hc5lLmO9pNhz4PBatuPggw.jpeg)
 
 
 **This article was originally published on 26\. July 2017\.** 
@@ -74,12 +72,12 @@ Therefore, it is visible that the institutions are not responding to the finding
 Although that the MOI information always refers to the **_cases_** — i\.e\. to the **number of the issued decisions** , the number of **real persons** — asylum seekers is far **higher\.** The reason is that **minor children are listed on the asylum application of one of their parents** \(usually mother\) \. For this reason, we have decided to show the information **both on the number of cases, as well as on the number of real persons** — asylum seekers whose lives are affected by these decisions\. This is especially important since it affects the rights of the most vulnerable group among the asylum seekers: **children and minors\.**
 
 
-![**Table 1** — Collected information on the number of the negative decisions by the MOI **based on undisclosed SOA opinion \(Art\. 41 SVA\)**](assets/6bd82c8a0baf/1*yjVqbxtIxio6Z0bIg0IR4Q.png)
+![**Table 1** — Collected information on the number of the negative decisions by the MOI **based on undisclosed SOA opinion \(Art\. 41 SVA\)**](../assets/6bd82c8a0baf/1*yjVqbxtIxio6Z0bIg0IR4Q.png)
 
 **Table 1** — Collected information on the number of the negative decisions by the MOI **based on undisclosed SOA opinion \(Art\. 41 SVA\)**
 
 
-![**Table 2** — Collected information on the number of **persons — asylum seekers with negative MOI decision based on undisclosed SOA opinion \(Art\. 41 SVA\) — including children asylum seekers listed in the application/decision of one of their parents**](assets/6bd82c8a0baf/1*B0D8AMVu7E5WLvyL-GYyLg.png)
+![**Table 2** — Collected information on the number of **persons — asylum seekers with negative MOI decision based on undisclosed SOA opinion \(Art\. 41 SVA\) — including children asylum seekers listed in the application/decision of one of their parents**](../assets/6bd82c8a0baf/1*B0D8AMVu7E5WLvyL-GYyLg.png)
 
 **Table 2** — Collected information on the number of **persons — asylum seekers with negative MOI decision based on undisclosed SOA opinion \(Art\. 41 SVA\) — including children asylum seekers listed in the application/decision of one of their parents**
 

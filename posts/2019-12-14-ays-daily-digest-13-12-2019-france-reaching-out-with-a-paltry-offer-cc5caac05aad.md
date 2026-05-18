@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 13/12/2019: France “reaching out” with a paltry offer
+title: "AYS DAILY DIGEST 13/12/2019: France “reaching out” with a paltry offer"
 author: Are You Syrious?
 date: 2019-12-14T12:22:53.834+0000
 last_modified_at: 2019-12-14T12:22:53.834+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,bosnia,pó]
 description: Are You Syrious?
 image:
-  path: assets/cc5caac05aad/0*0Gj4lAdUhuUYSdAc.jpeg
+  path: ../assets/cc5caac05aad/0*0Gj4lAdUhuUYSdAc.jpeg
 ---
 
 ### AYS DAILY DIGEST 13/12/2019: France “reaching out” with a paltry offer
 
 
-![](assets/cc5caac05aad/0*l22Qkof1S32u4EOy.jpeg)
+![](../assets/cc5caac05aad/0*l22Qkof1S32u4EOy.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----30dc2ce2713d----------------------)
@@ -23,11 +23,11 @@ image:
 Number on Greek Islands over 40,000 in spite of xenophobia and anti migration sentiment — pull factor? // Volunteer needs in Greece // November report on violent pushbacks in the Balkans // More…
 
 
-![](assets/cc5caac05aad/0*xbIUSskENFJfUwma)
+![](../assets/cc5caac05aad/0*xbIUSskENFJfUwma)
 
 
 
-![](assets/cc5caac05aad/0*0Gj4lAdUhuUYSdAc.jpeg)
+![](../assets/cc5caac05aad/0*0Gj4lAdUhuUYSdAc.jpeg)
 
 
 Photo Credit: [Franziska Grillmeier](https://web.facebook.com/franzi.grillmeier?__tn__=%2Cd%2AF%2AF-R&eid=ARCr7fZ78tpuX2dCJyREznw8zxEjvurgduhN9yeztguH4_iZN5KjewuYwlay7c3byXUIl6_x5yeY6caE&tn-str=%2AF&hc_location=group_dialog)
@@ -67,11 +67,11 @@ _We appreciate it if you would share this vacancy within your network\. Thanks a
 Khora as well is seeking volunteers\. Submit your application to khoralegal@gmail\.com
 
 
-![](assets/cc5caac05aad/0*jVJhfJqYkIyKCfN_)
+![](../assets/cc5caac05aad/0*jVJhfJqYkIyKCfN_)
 
 
 
-![](assets/cc5caac05aad/0*RrRkvyxSUJLZUHyP.jpeg)
+![](../assets/cc5caac05aad/0*RrRkvyxSUJLZUHyP.jpeg)
 
 
 

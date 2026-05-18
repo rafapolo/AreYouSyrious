@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 24-25/8/19: Woman dies in a smuggler van on Croatian border
+title: "AYS Daily Digest 24-25/8/19: Woman dies in a smuggler van on Croatian border"
 author: Are You Syrious?
 date: 2019-08-26T14:40:19.660+0100
 last_modified_at: 2019-08-26T15:06:54.370+0100
@@ -7,21 +7,21 @@ categories: Are You Syrious?
 tags: [refugees,volunteering,europe,digest,borders]
 description: 10 people survived, smuggler ran away into the minefield / Unaccompanied minor killed in overcrowded Moria camp / More than 100 Syrians…
 image:
-  path: assets/e5c673e2faf2/1*uzbr2IJLAnB2xmMYkCyfWw.jpeg
+  path: ../assets/e5c673e2faf2/1*uzbr2IJLAnB2xmMYkCyfWw.jpeg
 ---
 
 ### AYS Daily Digest 24\-25/8/19: Woman dies in a smuggler van on Croatian border
 #### 10 people survived, smuggler ran away into the minefield // Unaccompanied minor killed in overcrowded Moria camp // More than 100 Syrians still in need of help on Symi island // Bosnian local initiatives need support as they stand in solidarity with people on the move while the government\(s\) fail // Calls for volunteers & more news
 
 
-![People trying to cross Croatian border with Slovenia\. Photo: person on the move](assets/e5c673e2faf2/1*uzbr2IJLAnB2xmMYkCyfWw.jpeg)
+![People trying to cross Croatian border with Slovenia\. Photo: person on the move](../assets/e5c673e2faf2/1*uzbr2IJLAnB2xmMYkCyfWw.jpeg)
 
 People trying to cross Croatian border with Slovenia\. Photo: person on the move
 
 In the middle of the tourist season, refugees seem like the only people who are not welcome in Croatia\. Following an estimated 10,000 illegal pushbacks from Croatia to Bosnia and Herzegovina, Montenegro and Serbia in 2018, people are relying on smugglers in order to reach their desired destinations in the EU\. However, such arrangements can not guarantee safety to anyone\. On Saturday night, a smuggler van fell into the Kupa river while trying to drive away from police pursuit\. The smuggler, allegedly of Serbian origin, ran away through the mine\-suspicious area, while Croatian police officers struggled to save 11 people from drowning\. One woman unfortunately didn’t make it alive\. On Sunday afternoon, three people allegedly connected to smuggling this group of people were arrested while attempting to reach Slovenia by bus\.
 
 
-![Police officers at the site of the tragedy near Slatina Pokupska\. Photo: Pixsell agency](assets/e5c673e2faf2/1*7hj85SN24AdtbJsYitf9Aw.jpeg)
+![Police officers at the site of the tragedy near Slatina Pokupska\. Photo: Pixsell agency](../assets/e5c673e2faf2/1*7hj85SN24AdtbJsYitf9Aw.jpeg)
 
 Police officers at the site of the tragedy near Slatina Pokupska\. Photo: Pixsell agency
 
@@ -68,7 +68,7 @@ Refugee Rights Europe, together with 12 partners, published a new report which d
 ### Baby vaccine checker tool
 
 
-![CHEERing works with families to promote and support breastfeeding, and with agencies to train them in optimal infant feeding\. We developed this tool after noticing that many infants are behind on their vaccinations\. When we identify this, we refer the baby to administrators, for example, at the camp or shelter where the baby lives\. Vaccination — like breastfeeding — is a critical, preventive public health measure, especially in emergencies\. We hope this information helps other organizations who work with refugee families in Greece\.](assets/e5c673e2faf2/1*GiNUq9gmC7VdKNUB-ON2eQ.jpeg)
+![CHEERing works with families to promote and support breastfeeding, and with agencies to train them in optimal infant feeding\. We developed this tool after noticing that many infants are behind on their vaccinations\. When we identify this, we refer the baby to administrators, for example, at the camp or shelter where the baby lives\. Vaccination — like breastfeeding — is a critical, preventive public health measure, especially in emergencies\. We hope this information helps other organizations who work with refugee families in Greece\.](../assets/e5c673e2faf2/1*GiNUq9gmC7VdKNUB-ON2eQ.jpeg)
 
 CHEERing works with families to promote and support breastfeeding, and with agencies to train them in optimal infant feeding\. We developed this tool after noticing that many infants are behind on their vaccinations\. When we identify this, we refer the baby to administrators, for example, at the camp or shelter where the baby lives\. Vaccination — like breastfeeding — is a critical, preventive public health measure, especially in emergencies\. We hope this information helps other organizations who work with refugee families in Greece\.
 
@@ -76,11 +76,11 @@ CHEERing works with families to promote and support breastfeeding, and with agen
 ### Athens
 
 
-![](assets/e5c673e2faf2/1*P0ZTNmWVfAlfH6L2NKX8dg.jpeg)
+![](../assets/e5c673e2faf2/1*P0ZTNmWVfAlfH6L2NKX8dg.jpeg)
 
 
 
-![Photos: Exiled Arizona — @exiledarizona, ST 17, Nikos Christofakis, No Borders](assets/e5c673e2faf2/1*WOe1hEU4Bn1pk4P9TtBcgA.jpeg)
+![Photos: Exiled Arizona — @exiledarizona, ST 17, Nikos Christofakis, No Borders](../assets/e5c673e2faf2/1*WOe1hEU4Bn1pk4P9TtBcgA.jpeg)
 
 Photos: Exiled Arizona — @exiledarizona, ST 17, Nikos Christofakis, No Borders
 
@@ -123,7 +123,7 @@ Mission Lifeline recently announced its intention to resume its rescue operation
 A painful detail from one of thousands of human stories across the French capital…
 
 
-![Photo and text: [Chiara Lauvergnac](https://www.facebook.com/chiara.lauvergnac?__tn__=%2Cd%2AF%2AF-R&eid=ARChX5FihUvl4gkYD1fpNu7bGo1nVHp7QoBONA3svrNjS6SCly_IWv6PL0Y4I9fpkqyiNnEkuWVP981P&tn-str=%2AF&hc_location=group_dialog)](assets/e5c673e2faf2/1*JSEpK6LwmRZPjyWIThVcXg.jpeg)
+![Photo and text: [Chiara Lauvergnac](https://www.facebook.com/chiara.lauvergnac?__tn__=%2Cd%2AF%2AF-R&eid=ARChX5FihUvl4gkYD1fpNu7bGo1nVHp7QoBONA3svrNjS6SCly_IWv6PL0Y4I9fpkqyiNnEkuWVP981P&tn-str=%2AF&hc_location=group_dialog)](../assets/e5c673e2faf2/1*JSEpK6LwmRZPjyWIThVcXg.jpeg)
 
 Photo and text: [Chiara Lauvergnac](https://www.facebook.com/chiara.lauvergnac?__tn__=%2Cd%2AF%2AF-R&eid=ARChX5FihUvl4gkYD1fpNu7bGo1nVHp7QoBONA3svrNjS6SCly_IWv6PL0Y4I9fpkqyiNnEkuWVP981P&tn-str=%2AF&hc_location=group_dialog)
 
@@ -136,7 +136,7 @@ Photo and text: [Chiara Lauvergnac](https://www.facebook.com/chiara.lauvergnac?_
 #### GERMANY
 
 
-![Photo: [Unteilbar](https://www.facebook.com/buendnisunteilbar/?__xts__%5B0%5D=68.ARDaW5ReqZYbAro59ptwhvan5ngTOQHMW7nLVQK--CbFsCe7auxyLPkR8zht850deS6hUk0Fu_cBXlQ89gsx2m8sa7JDbDdX72cIgzWqAjHo0UVxjNYWJw0ZA9WA1oH9MNUbE6OgaL9sRGfBNnW0IIPqR_IdTQHsO5vITL78BmaoN0JFgfaCOE2HjscmsmTEcryuOgWl-IG789Z7O5Nt9_4409hLXCcNz5cYB57Ah1AY7bXba3Scd0KofzIjR_DlPjq2hmA5f7TgqbaNILpDUMWXjjXeRHMbgFn5JX1VmyW55kUixAdUxK_uOw0RCMCLLtnMzxVTCRUWj88_Xy_ctAOrAGLM&__tn__=k%2AF&tn-str=k%2AF)](assets/e5c673e2faf2/1*ebxUBHDK0QGSybW2Hnnu_A.jpeg)
+![Photo: [Unteilbar](https://www.facebook.com/buendnisunteilbar/?__xts__%5B0%5D=68.ARDaW5ReqZYbAro59ptwhvan5ngTOQHMW7nLVQK--CbFsCe7auxyLPkR8zht850deS6hUk0Fu_cBXlQ89gsx2m8sa7JDbDdX72cIgzWqAjHo0UVxjNYWJw0ZA9WA1oH9MNUbE6OgaL9sRGfBNnW0IIPqR_IdTQHsO5vITL78BmaoN0JFgfaCOE2HjscmsmTEcryuOgWl-IG789Z7O5Nt9_4409hLXCcNz5cYB57Ah1AY7bXba3Scd0KofzIjR_DlPjq2hmA5f7TgqbaNILpDUMWXjjXeRHMbgFn5JX1VmyW55kUixAdUxK_uOw0RCMCLLtnMzxVTCRUWj88_Xy_ctAOrAGLM&__tn__=k%2AF&tn-str=k%2AF)](../assets/e5c673e2faf2/1*ebxUBHDK0QGSybW2Hnnu_A.jpeg)
 
 Photo: [Unteilbar](https://www.facebook.com/buendnisunteilbar/?__xts__%5B0%5D=68.ARDaW5ReqZYbAro59ptwhvan5ngTOQHMW7nLVQK--CbFsCe7auxyLPkR8zht850deS6hUk0Fu_cBXlQ89gsx2m8sa7JDbDdX72cIgzWqAjHo0UVxjNYWJw0ZA9WA1oH9MNUbE6OgaL9sRGfBNnW0IIPqR_IdTQHsO5vITL78BmaoN0JFgfaCOE2HjscmsmTEcryuOgWl-IG789Z7O5Nt9_4409hLXCcNz5cYB57Ah1AY7bXba3Scd0KofzIjR_DlPjq2hmA5f7TgqbaNILpDUMWXjjXeRHMbgFn5JX1VmyW55kUixAdUxK_uOw0RCMCLLtnMzxVTCRUWj88_Xy_ctAOrAGLM&__tn__=k%2AF&tn-str=k%2AF)
 

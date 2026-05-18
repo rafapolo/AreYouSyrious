@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,greece,journalism]
 description: Deadly Shipwreck En Route to Canary Islands//Protests in Calais Against Banning Solidarity//Hunger Strike Updates From Belgium
 image:
-  path: assets/e40ced8072cd/0*bw-aD8yldzilyc-X
+  path: ../assets/e40ced8072cd/0*bw-aD8yldzilyc-X
 ---
 
 ### AYS Daily Digest 28/06/21 — Greek Government Forces Journalists to Delete Footage, Continuing Attacks on Civil Society
 #### Deadly Shipwreck En Route to Canary Islands//Protests in Calais Against Banning Solidarity//Hunger Strike Updates From Belgium
 
 
-![Protests in Calais against the government’s ban on food distribution\. Photo credit: [Refugee Info Bus](https://www.facebook.com/RefugeeInfoBus/photos/pcb.3038769083025166/3038769039691837)](assets/e40ced8072cd/0*bw-aD8yldzilyc-X)
+![Protests in Calais against the government’s ban on food distribution\. Photo credit: [Refugee Info Bus](https://www.facebook.com/RefugeeInfoBus/photos/pcb.3038769083025166/3038769039691837)](../assets/e40ced8072cd/0*bw-aD8yldzilyc-X)
 
 Protests in Calais against the government’s ban on food distribution\. Photo credit: [Refugee Info Bus](https://www.facebook.com/RefugeeInfoBus/photos/pcb.3038769083025166/3038769039691837)
 #### FEATURE
@@ -35,7 +35,7 @@ Amid this tightening landscape for journalists, particularly journalists that wi
 A shipwreck [killed 40 people](https://www.publico.es/sociedad/naufragio-ruta-canaria-caminando-fronteras-alerta-muerte-40-personas-ninos-naufragio-patera-rumbo-canarias.html?fbclid=IwAR1WdFm3hAIQvH39WIz9s4SeQjdH42li_iUqrPKGDNLT_-seYykttW5CTWE) near the coast of Western Sahara who were trying to make it to the Canary Islands, according to Caminando Fronteras\. At least two children are among the dead\. 22 survivors were rescued by a Moroccan fishing boat\.
 
 
-![Graphic courtesy of [IOM Libya](https://twitter.com/IOM_Libya/status/1409552970287661058/photo/1)](assets/e40ced8072cd/0*xYgmjApFCZxPoQ5F)
+![Graphic courtesy of [IOM Libya](https://twitter.com/IOM_Libya/status/1409552970287661058/photo/1)](../assets/e40ced8072cd/0*xYgmjApFCZxPoQ5F)
 
 Graphic courtesy of [IOM Libya](https://twitter.com/IOM_Libya/status/1409552970287661058/photo/1)
 #### ITALY

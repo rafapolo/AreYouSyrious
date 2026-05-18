@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 01/12: The strongest have been broken
+title: "AYS DAILY DIGEST 01/12: The strongest have been broken"
 author: Are You Syrious?
 date: 2016-12-02T01:59:39.407+0000
 last_modified_at: 2016-12-02T02:13:50.999+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: Temperatures in Greece remain low. While authorities are still not able to provide adequate shelter to everyone, people are suffering under…
 image:
-  path: assets/5c60b1d610dc/1*g8vxBcrfekm_QXeS7M2XDg.jpeg
+  path: ../assets/5c60b1d610dc/1*g8vxBcrfekm_QXeS7M2XDg.jpeg
 ---
 
 ### AYS DAILY DIGEST 01/12: The strongest have been broken
@@ -15,7 +15,7 @@ image:
 _Temperatures in Greece remain low\. While authorities are still not able to provide adequate shelter to everyone, people are suffering under the cold\. Kelebija Community Center has been shut down temporarily\. In Aleppo the joy died as the last clown, Anas al\-Basha, was killed during airstrikes\. Eventhough the administrative court in Austria halted deportations the government wants to continue them — and in some cases the court is fine with it\. Help still needed in Paris and Hungary\._
 
 
-![Credits: Loïs Simac / [InterVolve](https://www.facebook.com/InterVolve-International-Volunteers-219418945063168/)](assets/5c60b1d610dc/1*g8vxBcrfekm_QXeS7M2XDg.jpeg)
+![Credits: Loïs Simac / [InterVolve](https://www.facebook.com/InterVolve-International-Volunteers-219418945063168/)](../assets/5c60b1d610dc/1*g8vxBcrfekm_QXeS7M2XDg.jpeg)
 
 Credits: Loïs Simac / [InterVolve](https://www.facebook.com/InterVolve-International-Volunteers-219418945063168/)
 ### Greece
@@ -23,14 +23,14 @@ Credits: Loïs Simac / [InterVolve](https://www.facebook.com/InterVolve-Internat
 UNHCR [announced](http://www.ekathimerini.com/214213/article/ekathimerini/news/refugees-rehoused-in-greece-as-temperatures-drop) that the refugees will be moved from tents to indoor rooms\. While there have almost been not sufficient efforts made to winterize the camps before, it needed the first snow in Petra camp \(as reported in yesterday’s digest\) and temperatures below zero in other locations to prepare this steps\. But as of today a lot of camps are still in use and the refugees have to resist freezing temperatures\. Neither UNHCR nor the government gave a timeframe until the refugees will be accommedated in heated shelters\. Most of the containers remain fridges, because there is no electricity and no other heating provided till now\.
 
 
-![Credits: [refugees\.tv](https://www.facebook.com/refugees.tv)](assets/5c60b1d610dc/1*9tRL8xxcSg8ozdKHGt69MA.jpeg)
+![Credits: [refugees\.tv](https://www.facebook.com/refugees.tv)](../assets/5c60b1d610dc/1*9tRL8xxcSg8ozdKHGt69MA.jpeg)
 
 Credits: [refugees\.tv](https://www.facebook.com/refugees.tv)
 
 At least the protection seekers from Petra camp have been moved from Mount Olympus to other facilities\. The residents of Softex haven’t been that lucky\. The camp in and around an abandoned factory building is infamous for its bad conditions, as the temperatures drop it’s getting even worse\. “There are families living in a dilapidated concrete warehouse building burning anything they can to keep warm\. Temperatures are below freezing and it is snowing\. The brightest of smiles have faded\. The strongest of people have been broken,” the volunteers of InterVolve [said](https://www.facebook.com/permalink.php?story_fbid=374779022860492&id=219418945063168) \. They are still trying their best to support the people onsite\. In other camps it’s also up to volunteers to floor tents until the relocation of the residents is done\. Further there are volunteer [reports](https://www.facebook.com/debbie.callaghan.355/posts/10154299694227739) about numerous squats in Athens also being unheated\.
 
 
-![Credits: [The Get The Shit Done Team](https://www.facebook.com/The-Get-Shit-Done-Team-304001796641127/)](assets/5c60b1d610dc/1*TF3gq-bY4KvlCBOwTYh85A.jpeg)
+![Credits: [The Get The Shit Done Team](https://www.facebook.com/The-Get-Shit-Done-Team-304001796641127/)](../assets/5c60b1d610dc/1*TF3gq-bY4KvlCBOwTYh85A.jpeg)
 
 Credits: [The Get The Shit Done Team](https://www.facebook.com/The-Get-Shit-Done-Team-304001796641127/)
 
@@ -48,7 +48,7 @@ Following the deadly accident in Moria camp on Lesvos, when a gas canister explo
 It was rumored for several weeks now, that Serbian authorities are looking to crack down on some spots they deem obnoxious\. The first victim now was the Kelebija Community Center, which provided some safe space as well as social life and activities for the residents in the transit zone\. Further they covered some basic needs\. Are you Syrious? participated with tents for a women and children space\. For now KCC has to remain closed, until the responsible NGO, NorthStar, takes some bureaucratic hurdles\. But they are looking to reopen soon\.
 
 
-![Credits: [**Aleksandar Nastevski**](https://www.facebook.com/aleksandarnastevskisd)](assets/5c60b1d610dc/1*CiicwS6aNnOZJqushJ_x0A.jpeg)
+![Credits: [**Aleksandar Nastevski**](https://www.facebook.com/aleksandarnastevskisd)](../assets/5c60b1d610dc/1*CiicwS6aNnOZJqushJ_x0A.jpeg)
 
 Credits: [**Aleksandar Nastevski**](https://www.facebook.com/aleksandarnastevskisd)
 ### Syria
@@ -81,7 +81,7 @@ Meanwhile Hans Peter Lehofer, spokesman of the administrative court, explained, 
 By 24th of November the new reception center for refugees in Paris had already welcomed 1,253 people, Reuters [reports](http://uk.reuters.com/article/uk-europe-migrants-paris-centre-idUKKBN13Q4U6) \. The centre offers 400 beds for up to ten days to refugees and costs 6\.5 million Euros\. “In just 18 months, from June 2015 to November 2016, thirty makeshift camps have been cleared in Paris, with authorities providing emergency shelter for 22,000 migrants”, according to a townhall spokesman\.
 
 
-![Credits: [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team)](assets/5c60b1d610dc/1*o4E8xnS5YlKBdMNlZEUQCw.jpeg)
+![Credits: [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team)](../assets/5c60b1d610dc/1*o4E8xnS5YlKBdMNlZEUQCw.jpeg)
 
 Credits: [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team)
 
@@ -108,7 +108,7 @@ Care4Calais now also operates in Dunkirk and supports the women centre\. The top
 If you can donate, please clare@care4calais\.org\.
 
 
-![Credits: [Care4Calais](https://www.facebook.com/care4calais/)](assets/5c60b1d610dc/1*zjbU9XklAu1NaDL05xVNjA.jpeg)
+![Credits: [Care4Calais](https://www.facebook.com/care4calais/)](../assets/5c60b1d610dc/1*zjbU9XklAu1NaDL05xVNjA.jpeg)
 
 Credits: [Care4Calais](https://www.facebook.com/care4calais/)
 #### Get a christmas present, support refugees

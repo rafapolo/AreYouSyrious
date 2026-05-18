@@ -1,13 +1,13 @@
 ---
-title: AYS Daily Digest 25/10/2021: Cyprus — Psychological violence behind “voluntary” returns
+title: "AYS Daily Digest 25/10/2021: Cyprus — Psychological violence behind “voluntary” returns"
 author: Are You Syrious?
 date: 2021-10-26T11:17:29.012+0100
 last_modified_at: 2021-10-27T18:57:11.953+0100
 categories: Are You Syrious?
 tags: [digest,iom,cyprus,deportations,refugees]
-description: LIBYA: Protest in Tripoli carry on. SEA: Child dies after 2 weeks at sea trying to reach the Canaries. Geo Barents still without Safe…
+description: "LIBYA: Protest in Tripoli carry on. SEA: Child dies after 2 weeks at sea trying to reach the Canaries. Geo Barents still without Safe…"
 image:
-  path: assets/859db5ad7a46/1*XDFYAseaypGm1Vn3SJnr1g.jpeg
+  path: ../assets/859db5ad7a46/1*XDFYAseaypGm1Vn3SJnr1g.jpeg
 ---
 
 ### AYS Daily Digest 25/10/2021: Cyprus — Psychological violence behind “voluntary” returns
@@ -15,7 +15,7 @@ image:
 LIBYA: Protest in Tripoli continues\. SEA: Child dies after two weeks at sea trying to reach the Canaries\. Geo Barents still without Safe Port\. GREECE: Court case against Frontex \. FRANCE: Day15 of Solidarity Hunger Strike\. More updates from ITALY, UK, AUSTRIA, SERBIA and SPAIN\.
 
 
-![“The 16th deportation prison in Germany was officially opened \[on Monday\] in Hof, Bavaria\. ➜ Here is a list of all German detention centers with addresses, contact details, visiting times and which social services / legal advice are active there: [https://noborderassembly\.blackblogs\.org/de/abschiebehaft\-abschaffen/](https://noborderassembly.blackblogs.org/de/abschiebehaft-abschaffen/) “ \( [No Border Assembly Berlin](https://twitter.com/NoBorder_Berlin/status/1452612692598984713) \)](assets/859db5ad7a46/1*XDFYAseaypGm1Vn3SJnr1g.jpeg)
+![“The 16th deportation prison in Germany was officially opened \[on Monday\] in Hof, Bavaria\. ➜ Here is a list of all German detention centers with addresses, contact details, visiting times and which social services / legal advice are active there: [https://noborderassembly\.blackblogs\.org/de/abschiebehaft\-abschaffen/](https://noborderassembly.blackblogs.org/de/abschiebehaft-abschaffen/) “ \( [No Border Assembly Berlin](https://twitter.com/NoBorder_Berlin/status/1452612692598984713) \)](../assets/859db5ad7a46/1*XDFYAseaypGm1Vn3SJnr1g.jpeg)
 
 “The 16th deportation prison in Germany was officially opened \[on Monday\] in Hof, Bavaria\. ➜ Here is a list of all German detention centers with addresses, contact details, visiting times and which social services / legal advice are active there: [https://noborderassembly\.blackblogs\.org/de/abschiebehaft\-abschaffen/](https://noborderassembly.blackblogs.org/de/abschiebehaft-abschaffen/) “ \( [No Border Assembly Berlin](https://twitter.com/NoBorder_Berlin/status/1452612692598984713) \)
 #### FEATURED: Cyprus — Psychological violence against refugees and the complicity of Frontex and EASO
@@ -137,11 +137,11 @@ ITALY
 On 20 October 2021, Altraeconomia [reported on the collaboration between the Polytechnic of Turin and Frontex](https://altreconomia-it.translate.goog/il-politecnico-di-torino-a-fianco-di-frontex-sul-rispetto-dei-diritti-umani-intanto-cade-il-silenzio/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-GB&_x_tr_pto=nui) \. They would receive €4m to produce maps and infographics necessary in order “to support the activities” of Frontex\.
 
 
-![](assets/859db5ad7a46/1*fvmeLYbHIJPNLstojyQPpw.jpeg)
+![](../assets/859db5ad7a46/1*fvmeLYbHIJPNLstojyQPpw.jpeg)
 
 
 
-![\(Photo Credit: [@michelelancione](https://twitter.com/michelelancione) \)](assets/859db5ad7a46/1*UV_oK4Q8SoaCaWuflT7avw.png)
+![\(Photo Credit: [@michelelancione](https://twitter.com/michelelancione) \)](../assets/859db5ad7a46/1*UV_oK4Q8SoaCaWuflT7avw.png)
 
 \(Photo Credit: [@michelelancione](https://twitter.com/michelelancione) \)
 

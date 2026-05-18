@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 17/03/2018: Two years after the bloody deal that killed solidarity in Europe
+title: "AYS DAILY DIGEST 17/03/2018: Two years after the bloody deal that killed solidarity in Europe"
 author: Are You Syrious?
 date: 2018-03-18T09:53:49.297+0000
 last_modified_at: 2018-03-18T11:51:22.522+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,deportations,mediterranean,solidarity]
 description: Deportations from Austria to Croatia continue with no respect to humanity/Civilian block in East Ghouta created/Criminalisation of…
 image:
-  path: assets/d82aa96290ad/1*JlxS9LQ8IaKcIf89nfzZfw.jpeg
+  path: ../assets/d82aa96290ad/1*JlxS9LQ8IaKcIf89nfzZfw.jpeg
 ---
 
 ### AYS DAILY DIGEST 17/03/2018: Two years after the bloody deal that killed solidarity in Europe
@@ -15,7 +15,7 @@ image:
 _Deportations from Austria to Croatia continue with no respect to humanity/Civilian block in East Ghouta created/Criminalisation of solidarity: HoM and Founder of POA held for hours by Italian authorities/Testimonies from the survivors of the rescue operation in the Med/New members to be recruited for LCG/Demos all over Europe against racism, closed borders and dehumanisation of refugees/16 people confirmed dead after yesterday’s shipwreck/Balkan weather report/Dreadful conditions and heavy snow in Paris and Calais_
 
 
-![Credit: Marios Lolos](assets/d82aa96290ad/1*JlxS9LQ8IaKcIf89nfzZfw.jpeg)
+![Credit: Marios Lolos](../assets/d82aa96290ad/1*JlxS9LQ8IaKcIf89nfzZfw.jpeg)
 
 Credit: Marios Lolos
 

@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,lesvos,greece,refugees,police-brutality]
 description: Greek Government Grants Provisional Social Security Numbers///Lack of Resources for People on the Move in Tuzla///Squat at Šid Attacked…
 image:
-  path: assets/25266cdc6af1/0*e4UbzPKS0Krvj8em
+  path: ../assets/25266cdc6af1/0*e4UbzPKS0Krvj8em
 ---
 
 ### AYS Daily Digest 03/02/20 — Police Suppress Protests on Lesvos
 #### Greek Government Grants Provisional Social Security Numbers/// Lack of Resources for the rising number of People on the Move in Tuzla/// Squat at Šid Attacked Again/// Revolt in CPR Brunelleschi & more news
 
 
-![Photographer: an anonymous resident of Moria, sent to [Latitude Adjustment Podcast](https://www.instagram.com/latitude_adjustment_podcast/)](assets/25266cdc6af1/0*e4UbzPKS0Krvj8em)
+![Photographer: an anonymous resident of Moria, sent to [Latitude Adjustment Podcast](https://www.instagram.com/latitude_adjustment_podcast/)](../assets/25266cdc6af1/0*e4UbzPKS0Krvj8em)
 
 Photographer: an anonymous resident of Moria, sent to [Latitude Adjustment Podcast](https://www.instagram.com/latitude_adjustment_podcast/)
 ### Feature: Protests for Freedom and Dignity Met With Violence By Greek Police
@@ -35,14 +35,14 @@ People on the move being held at Moria marched from the camp towards the town of
 The protest, made up mostly of Afghanis, was against the horrendous conditions in Moria, which they refer to as hell, but also for freedom from the inhumane and arbitrary nature of the [asylum system](https://www.facebook.com/HopeProjectKempsons/videos/496106584431208/?__tn__=%2CdkCH-R-R&eid=ARCf56cXhHX01By5wlSJ9RybN1aCL2-7yatNPMTqYj6N0FFSUlxJK2gzJD6B0WG5six_T6oavpQTIq2H&hc_ref=ARQt4mcRLnv_5-_x3en2kLS6nMW_wBDApT-i9-INWt7LhLypNhoiyvxUK1Z8dlX-cfE&fref=nf&hc_location=group) \.
 
 
-![Photographer: [Sonia Nandzik](https://www.facebook.com/photo.php?fbid=2522532274525537&set=pcb.2522532524525512&type=3&theater)](assets/25266cdc6af1/0*Z0II7rnsnPoearkG)
+![Photographer: [Sonia Nandzik](https://www.facebook.com/photo.php?fbid=2522532274525537&set=pcb.2522532524525512&type=3&theater)](../assets/25266cdc6af1/0*Z0II7rnsnPoearkG)
 
 Photographer: [Sonia Nandzik](https://www.facebook.com/photo.php?fbid=2522532274525537&set=pcb.2522532524525512&type=3&theater)
 
 Many have been stuck on the island for months and even years while the asylum process drags on\. Others have been rejected for asylum and face deportation to dangerous countries, where they were [tortured and raped](https://www.facebook.com/RaulManarteoficial/posts/641423136400065?hc_location=ufi) \. The official asylum service and interpreters have been caught lying during the asylum process and forcing people to sign deportation papers [against their knowledge](https://www.facebook.com/sk.aldeen.3/posts/1600583260100164?hc_location=ufi) \. There have also been rumors about the Greek government not registering new arrivals, holding them for a week, and then deporting people back to Turkey [under the cover of night](https://www.facebook.com/HopeProjectKempsons/?__tn__=%2Cd%2CP-R&eid=ARBk1w_371SLhoHxyVSdKPjnlXNYEQwXUB0OQV7pO3WRb5PRueB3Bp5xgUjEH89fv8Yo3W6L3-AaU3bl) \. Although the rumors are not confirmed yet, they are plausible given the xenophobic and repressive nature of this Greek government\.
 
 
-![Photography credit: [Refocus Media Labs](https://www.facebook.com/pg/refocusmedialabs/posts/)](assets/25266cdc6af1/0*4I3isFYrTPC5oQlL)
+![Photography credit: [Refocus Media Labs](https://www.facebook.com/pg/refocusmedialabs/posts/)](../assets/25266cdc6af1/0*4I3isFYrTPC5oQlL)
 
 Photography credit: [Refocus Media Labs](https://www.facebook.com/pg/refocusmedialabs/posts/)
 
@@ -85,7 +85,7 @@ The central Bosnian city in the north\-east has seen new large groups of people 
 Volunteers [estimate](https://www.facebook.com/groups/2379336965459224/permalink/2844520482274201/) that there are 250 people sleeping rough in Tuzla, and about 100 more in private accommodation\. People urgently need tents, sleeping bags, and shoes\. People on the move are forced to shower [on the tracks](https://www.facebook.com/permalink.php?story_fbid=166602131422425&id=108916427190996&hc_location=ufi) at the train station with buckets of cold water or in [improvised](https://www.facebook.com/permalink.php?story_fbid=167172484698723&id=108916427190996&hc_location=ufi) shower cabins\.
 
 
-![Because of the sudden influx of people and lack of resources, long lines such as this one form at distribution points\.](assets/25266cdc6af1/0*t2z9GS-rt0lgt3iw)
+![Because of the sudden influx of people and lack of resources, long lines such as this one form at distribution points\.](../assets/25266cdc6af1/0*t2z9GS-rt0lgt3iw)
 
 Because of the sudden influx of people and lack of resources, long lines such as this one form at distribution points\.
 #### SERBIA
@@ -94,7 +94,7 @@ Because of the sudden influx of people and lack of resources, long lines such as
 [Last week](ays-daily-digest-28-01-2020-meps-confront-croatian-minister-over-border-violence-7b874cff9ce5) , we reported on No Name Kitchen’s squat in the town of Šid being destroyed by police and far\-right sympathizers\. On Saturday, volunteers were attacked for a [second time](https://www.facebook.com/NoNameKitchenBelgrade/?__tn__=%2CdkCH-R-R&eid=ARCO5IIISEEE3buliFpo05E5UmZqDWIZkw9X376a4_H-i0TcePD_a7smIX12Sk8p_sMtTcSohb1RZthp&hc_ref=ART1-CW-1SGYr0wyZ_9BKyWqgD8TrNxu1ekiFYnAx8DehLb9_xNrkrUpOFAgcL_8rYQ&fref=nf&hc_location=group) \.
 
 
-![Photographer: Adalberto from [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/pb.309778972753727.-2207520000../908198266245125/?type=3&theater)](assets/25266cdc6af1/0*GlO7T9o_lNsuVttU)
+![Photographer: Adalberto from [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/pb.309778972753727.-2207520000../908198266245125/?type=3&theater)](../assets/25266cdc6af1/0*GlO7T9o_lNsuVttU)
 
 Photographer: Adalberto from [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/pb.309778972753727.-2207520000../908198266245125/?type=3&theater)
 

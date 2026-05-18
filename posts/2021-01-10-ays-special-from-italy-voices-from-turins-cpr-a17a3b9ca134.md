@@ -1,13 +1,13 @@
 ---
-title: AYS Special from Italy: Voices from Turin’s CPR
+title: "AYS Special from Italy: Voices from Turin’s CPR"
 author: Are You Syrious?
 date: 2021-01-10T11:42:30.927+0000
 last_modified_at: 2021-01-10T11:42:30.927+0000
 categories: Are You Syrious?
 tags: [italy,special,detention,turin,radio-black-out]
-description: On January 6, ACAB:Aperitivo Controinformativo Ardecore Balengo, a program on Turin-based Radio Black Out, got in touch with two detainees…
+description: "On January 6, ACAB:Aperitivo Controinformativo Ardecore Balengo, a program on Turin-based Radio Black Out, got in touch with two detainees…"
 image:
-  path: assets/a17a3b9ca134/1*CEwrx6J2T-U-dNphBAQamQ.jpeg
+  path: ../assets/a17a3b9ca134/1*CEwrx6J2T-U-dNphBAQamQ.jpeg
 ---
 
 ### AYS Special from Italy: Voices from Turin’s CPR
@@ -17,7 +17,7 @@ On January 6, [**ACAB:Aperitivo Controinformativo Ardecore Balengo**](https://ra
 This comes after weeks of protest and brutal repression in several detention centres in Italy\. On Christmas night, 2 people attempting to escape from the CPR in Gradisca d’Isonzo \(northeastern Italy\), were stopped, taken back to the centre and violently beaten up\. On New Year’s eve, detainees protesting in Ponte Galeria CPR in Rome, were met with CS gas thrown into the closed structure\.
 
 
-![CPR in Corso Brunelleschi, Turin \(Photo via [A\.C\.A\.B](https://radioblackout.org/podcast/a-c-a-b-diretta-dal-cpr-6-1-21/) \)](assets/a17a3b9ca134/1*CEwrx6J2T-U-dNphBAQamQ.jpeg)
+![CPR in Corso Brunelleschi, Turin \(Photo via [A\.C\.A\.B](https://radioblackout.org/podcast/a-c-a-b-diretta-dal-cpr-6-1-21/) \)](../assets/a17a3b9ca134/1*CEwrx6J2T-U-dNphBAQamQ.jpeg)
 
 CPR in Corso Brunelleschi, Turin \(Photo via [A\.C\.A\.B](https://radioblackout.org/podcast/a-c-a-b-diretta-dal-cpr-6-1-21/) \)
 

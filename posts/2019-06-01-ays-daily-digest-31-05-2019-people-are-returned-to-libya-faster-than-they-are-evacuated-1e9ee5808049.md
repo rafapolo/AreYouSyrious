@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [newsletter,refugees,europe]
 description: Tunisia to welcome more people fleeing Libya /// Children and minors at risk in Greece /// Italian government assigns one of the farthest…
 image:
-  path: assets/1e9ee5808049/1*r7nRrleNjo-kP931kXaPtw.jpeg
+  path: ../assets/1e9ee5808049/1*r7nRrleNjo-kP931kXaPtw.jpeg
 ---
 
 ### AYS Daily Digest 31/05/2019 — People are returned to Libya faster than they are evacuated
@@ -15,7 +15,7 @@ image:
 Tunisia to welcome more people fleeing Libya /// Children and minors at risk in Greece /// Italian government assigns one of the farthest port for disembarkation to people rescued by Navy /// German BAMF rejected 75% of family reunification applications from Greece in 2019
 
 
-![](assets/1e9ee5808049/1*r7nRrleNjo-kP931kXaPtw.jpeg)
+![](../assets/1e9ee5808049/1*r7nRrleNjo-kP931kXaPtw.jpeg)
 
 
 Feature story

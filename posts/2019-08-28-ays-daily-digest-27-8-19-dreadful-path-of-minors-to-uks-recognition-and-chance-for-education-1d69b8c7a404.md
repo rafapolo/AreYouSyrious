@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 27/8/19: Dreadful path of minors to UK’s recognition and chance for education
+title: "AYS Daily Digest 27/8/19: Dreadful path of minors to UK’s recognition and chance for education"
 author: Are You Syrious?
 date: 2019-08-28T11:10:53.040+0100
 last_modified_at: 2019-08-28T16:01:50.428+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,uk,europe,migration,digest]
 description: Information Against Deportation From Turkey / Protests in camps of Nador, Morocco / horrid realities of children in Moria’s “safe zone” /…
 image:
-  path: assets/1d69b8c7a404/1*dRgs_KDDk4Nf3ve1MyEh0g.jpeg
+  path: ../assets/1d69b8c7a404/1*dRgs_KDDk4Nf3ve1MyEh0g.jpeg
 ---
 
 ### AYS Daily Digest 27/8/19: Dreadful path of minors to UK’s recognition and chance for education
 #### Information Against Deportation From Turkey / Protests in camps of Nador, Morocco / Horrible realities of children in Moria’s “safe zone” / Need for medical staff in the Aegean / As more people arrive at Symi island, help is needed / Police records in Bosnia surfaced of shots reportedly fired at people on the Bosnian side by the Croatian border police, case covered up / & more news and useful info
 
 
-![Photo by: [Sea\-Watch](https://www.facebook.com/seawatchprojekt/?tn-str=k%2AF&hc_location=group_dialog)](assets/1d69b8c7a404/1*dRgs_KDDk4Nf3ve1MyEh0g.jpeg)
+![Photo by: [Sea\-Watch](https://www.facebook.com/seawatchprojekt/?tn-str=k%2AF&hc_location=group_dialog)](../assets/1d69b8c7a404/1*dRgs_KDDk4Nf3ve1MyEh0g.jpeg)
 
 Photo by: [Sea\-Watch](https://www.facebook.com/seawatchprojekt/?tn-str=k%2AF&hc_location=group_dialog)
 #### FEATURED
@@ -74,27 +74,27 @@ An ‘Information Against Deportation From Turkey’ [brochure is available](htt
 Here is the English version:
 
 
-![](assets/1d69b8c7a404/1*NUYaSNDVq2cjGwYwxe6W5A.jpeg)
+![](../assets/1d69b8c7a404/1*NUYaSNDVq2cjGwYwxe6W5A.jpeg)
 
 
 
-![](assets/1d69b8c7a404/1*zx8Ueba9v4RMtbdp_ZdrNQ.png)
+![](../assets/1d69b8c7a404/1*zx8Ueba9v4RMtbdp_ZdrNQ.png)
 
 
 
-![](assets/1d69b8c7a404/1*ovqCyJuYELQXqm4wHasBtg.png)
+![](../assets/1d69b8c7a404/1*ovqCyJuYELQXqm4wHasBtg.png)
 
 
 
-![](assets/1d69b8c7a404/1*vyB1xfO4c7udM0ws3AfB3A.png)
+![](../assets/1d69b8c7a404/1*vyB1xfO4c7udM0ws3AfB3A.png)
 
 
 
-![](assets/1d69b8c7a404/1*CzQX-Pa3UCNXuhGKteLwBQ.png)
+![](../assets/1d69b8c7a404/1*CzQX-Pa3UCNXuhGKteLwBQ.png)
 
 
 
-![](assets/1d69b8c7a404/1*hmYuylC6NewI-6TvQSnTdA.png)
+![](../assets/1d69b8c7a404/1*hmYuylC6NewI-6TvQSnTdA.png)
 
 #### SEARCH AND RESCUE
 
@@ -170,7 +170,7 @@ When all the other volunteer organizations leave Moria in the evening, so do the
 Unaccompanied boys between 13–18 live in small containers, 20 boys to each room\.
 
 
-![Photo and info taken from a story by the volunteers of [Dråpen i Havet](https://www.facebook.com/groups/763313107147281/?ref=group_header)](assets/1d69b8c7a404/0*lQVe2BY6vZB_ocjG.jpg)
+![Photo and info taken from a story by the volunteers of [Dråpen i Havet](https://www.facebook.com/groups/763313107147281/?ref=group_header)](../assets/1d69b8c7a404/0*lQVe2BY6vZB_ocjG.jpg)
 
 Photo and info taken from a story by the volunteers of [Dråpen i Havet](https://www.facebook.com/groups/763313107147281/?ref=group_header)
 #### University of Aegean against surveillance zeppelin
@@ -178,7 +178,7 @@ Photo and info taken from a story by the volunteers of [Dråpen i Havet](https:/
 Since the end of July, a 35 metre\-long zeppelin\-type of aircraft was placed on **Samos** island, containing high\-tech surveillance systems\. The zeppelin is owned by a German company and has been rented by FRONTEX which gave it to the Greek Port Authority and the Coast Guard in order to, “oversee and record the refugee influx in the greater area of Samos and the Turkish shores”, also “to effectively guard the external borders of the E\.U\. and to tackle every form of criminal behaviour\.”
 
 
-![](assets/1d69b8c7a404/0*AiOicZohAAJ7kX9y.jpg)
+![](../assets/1d69b8c7a404/0*AiOicZohAAJ7kX9y.jpg)
 
 
 “The arrival of the zeppelin is in accordance with the context of the EU\-Turkey deal which leads to the continuation of entrapping refugees in hotspots and prisons, the increase of deportations and the intensification of repressive measures, policies which continue to be expanded by the New Democracy administration\. With the coming of the zeppelin not only the democratic and individual freedoms but also the democratic rights of citizens are becoming restricted, but the area is now getting involved in a generalized antagonism in a period where the tensions seem to climax\.
@@ -274,7 +274,7 @@ Italy has grounded two planes used by NGOs to search for boats in distress in th
 #### BELGIUM
 
 
-![Summer is over and now that we are all back from our holidays is time to get on with work again\! So…we need your help\!](assets/1d69b8c7a404/1*TSkQcKRS7PokfCSq01FkXQ.jpeg)
+![Summer is over and now that we are all back from our holidays is time to get on with work again\! So…we need your help\!](../assets/1d69b8c7a404/1*TSkQcKRS7PokfCSq01FkXQ.jpeg)
 
 Summer is over and now that we are all back from our holidays is time to get on with work again\! So…we need your help\!
 

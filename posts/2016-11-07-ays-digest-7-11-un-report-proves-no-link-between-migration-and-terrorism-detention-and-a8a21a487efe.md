@@ -1,5 +1,5 @@
 ---
-title: AYS digest 7/11: UN report proves — No link between migration and terrorism — detention and…
+title: "AYS digest 7/11: UN report proves — No link between migration and terrorism — detention and…"
 author: Are You Syrious?
 date: 2016-11-07T21:25:36.424+0000
 last_modified_at: 2016-11-07T22:52:56.170+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: No link between migration and terrorism — UN reports / Letter from the Petra camp in Greece / Reports of increased repression towards…
 image:
-  path: assets/a8a21a487efe/1*TFlSO7e9Nas-k8_r01f0LA.jpeg
+  path: ../assets/a8a21a487efe/1*TFlSO7e9Nas-k8_r01f0LA.jpeg
 ---
 
 ### AYS digest 7/11: UN report proves — No link between migration and terrorism — detention and encampment are the real threats
@@ -15,7 +15,7 @@ image:
 _No link between migration and terrorism — UN reports / Letter from the Petra camp in Greece / Reports of increased repression towards migrants, activists and volunteers / New squat in Athens and a meeting on self — education initiative of the squatters / Volunteers and donations needed in France and Greece / Baobab in Rome cleared again / Report on the silent prison that is camp in Gevgelija / Police breaking clusters of people sleeping on the streets of Paris / Calais Action active and ready for donations / Neighborhood in Munich building a wall around refugees / Damascus and Aleppo still under heavy fire_
 
 
-![Petra camp, Greece](assets/a8a21a487efe/1*TFlSO7e9Nas-k8_r01f0LA.jpeg)
+![Petra camp, Greece](../assets/a8a21a487efe/1*TFlSO7e9Nas-k8_r01f0LA.jpeg)
 
 Petra camp, Greece
 #### Greece
@@ -41,7 +41,7 @@ The repression detailed in report is much felt on the ground, with reports of po
 ### **Alternatives to the encampment and detention — new squat in Athens**
 
 
-![New squat in Athens](assets/a8a21a487efe/1*cc81xAltZ8lDIy6H2b05oQ.jpeg)
+![New squat in Athens](../assets/a8a21a487efe/1*cc81xAltZ8lDIy6H2b05oQ.jpeg)
 
 New squat in Athens
 
@@ -64,7 +64,7 @@ Last, but not least, there is a helpful video circulating that has some useful i
 A lot of work has been done since we last reported on this, but to spear us from words, watch this lovely video of what guys have built in Filippiada
 
 
-[![Filippiada after 3 weeks](assets/a8a21a487efe/3992_hqdefault.jpg "Filippiada after 3 weeks")](http://www.youtube.com/watch?v=3IRSZ6Drpss)
+[![Filippiada after 3 weeks](../assets/a8a21a487efe/3992_hqdefault.jpg "Filippiada after 3 weeks")](http://www.youtube.com/watch?v=3IRSZ6Drpss)
 
 #### Macedonia
 ### **The silent prison of Gevgelija**
@@ -74,14 +74,14 @@ There has not been many news from Macedonia filling the international news outle
 ### **Baobab cleared again**
 
 
-![Baobab community](assets/a8a21a487efe/1*H3xRAnJeDrzZhZK0bGaWhQ.jpeg)
+![Baobab community](../assets/a8a21a487efe/1*H3xRAnJeDrzZhZK0bGaWhQ.jpeg)
 
 Baobab community
 
 Baobab in Via Cupa in Rome witnessed it’s fourth clearance in little over a month\. This time, 70, already registered migrants were led by police from the Baobab to the office for foreigners\. Guys from Baobab community are following the case and have stored people’s personal belongings in order for them not to be taken away by police and are keeping the tents on sending the message that they are not yielding to the pressure\.
 
 
-![People’s belongings are saved by the community after police took them away](assets/a8a21a487efe/1*7iqWqoG7Rw9yqBhhmymyxg.jpeg)
+![People’s belongings are saved by the community after police took them away](../assets/a8a21a487efe/1*7iqWqoG7Rw9yqBhhmymyxg.jpeg)
 
 People’s belongings are saved by the community after police took them away
 ### **Course of condition of access to social and health services for foreign citizens to be held in Padua**
@@ -91,14 +91,14 @@ If you happen to be a lawyer interested into issues of migration, and violations
 ### **Just because you can’t see them clustered in one place does not mean people are not still living in the cold streets**
 
 
-![Streets of Paris](assets/a8a21a487efe/1*HEJ0JUhkb8yW3MLZWipdpQ.jpeg)
+![Streets of Paris](../assets/a8a21a487efe/1*HEJ0JUhkb8yW3MLZWipdpQ.jpeg)
 
 Streets of Paris
 
 With 4000 people taken from the streets of Paris to be placed somewhere else did not resolve the problem that those who stayed behind face\. Paris refugee ground support reports about the unaccompanied minors and others that are left out and still on the streets\. We bring their message in full “The youngest of this group was 13\. A dear friend spoke to the police, said that the group were children and could we please them? The police agreed that if they were not in the Jaures, Stalingrad, Flandres area that it was ok to give them tents\. So that’s what we did\. The dear friend pitched a tent with them, as he wanted to make sure these vulnerable children would be ok\. The police came at 4am and moved them all away, without the tents\. By no means has this situation been resolved\. From the ground, we see the need for residents to open their houses to those vulnerable, pro bono legal support, food and warmth\. It is essential that the media properly highlight the current and ongoing lack of information and resolution \. There is a need for a stronger presence of relevant local NGOs and more international NGOs taking action here and now\. Just because you can’t see them clustered in one place does not mean these people are not still on the winter streets\.”
 
 
-![Streets of Paris](assets/a8a21a487efe/1*2MfiGVbd45Q2YodTRYuC_Q.jpeg)
+![Streets of Paris](../assets/a8a21a487efe/1*2MfiGVbd45Q2YodTRYuC_Q.jpeg)
 
 Streets of Paris
 ### **La Cuisine Des Migrants — social kitchen on the streets of Paris**
@@ -114,7 +114,7 @@ Pressure is piling up on the legal system in Berlin\. While in 2015 they dealt w
 ### **Neighbors who believe that building a wall around refugees is what they need**
 
 
-![Site of the future hostel for unaccompanied minors rapped up in a wall](assets/a8a21a487efe/1*G2n41nKOGPoYQNOfvsUZjg.jpeg)
+![Site of the future hostel for unaccompanied minors rapped up in a wall](../assets/a8a21a487efe/1*G2n41nKOGPoYQNOfvsUZjg.jpeg)
 
 Site of the future hostel for unaccompanied minors rapped up in a wall
 
@@ -125,7 +125,7 @@ Our next bit of news is something that even the editor writing these lines canno
 Damascus is under heavy fire, Rami Jarrah reports: “An intense wide scale offensive is now taking place in Duma of Damascus, an area that is totally under siege by Syrian regime forces, Duma has witnessed more than 15 airstrikes this afternoon alone\. Assad’s forces have began an assault on the district placing civilians there with nowhere to go, in total dismay as how to react\.”
 
 
-![Duma, Damascus Syria, photo Rami Jarrah](assets/a8a21a487efe/1*ZKk_3aP_Rh6fnLqJ8WYjMw.jpeg)
+![Duma, Damascus Syria, photo Rami Jarrah](../assets/a8a21a487efe/1*ZKk_3aP_Rh6fnLqJ8WYjMw.jpeg)
 
 Duma, Damascus Syria, photo Rami Jarrah
 

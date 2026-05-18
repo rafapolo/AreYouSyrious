@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 1/1/2017: 47 people arrived in Greece at the beginning of new year
+title: "AYS DAILY DIGEST 1/1/2017: 47 people arrived in Greece at the beginning of new year"
 author: Are You Syrious?
 date: 2017-01-01T21:50:35.438+0000
 last_modified_at: 2017-01-05T14:44:43.956+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,refugees-in-montenegro,barada-valley,serbia]
 description: Civilians leaving Damascus area // 3 babies arrived in Greece by boat on the first morning of 2017 // Around 1000 people tried to enter…
 image:
-  path: assets/2104999f7eb2/1*ar6bzFYYMeU8yWqG2ht-cA.jpeg
+  path: ../assets/2104999f7eb2/1*ar6bzFYYMeU8yWqG2ht-cA.jpeg
 ---
 
 ### AYS DAILY DIGEST 1/1/2017: 47 people arrived in Greece at the beginning of new year
@@ -15,7 +15,7 @@ image:
 _Civilians leaving Damascus area // 3 babies arrived in Greece by boat on the first morning of 2017 // Around 1000 people tried to enter Spain from Morocco // Propaganda against refugees in Serbia // Info from Montenegro // People in the streets in Italy and France need your help_
 
 
-![“Happy New Year to all those celebrating it\! Resistance against Hungary government’s racist border policy will continue in 2017" [@MigSzolCsop](https://twitter.com/MigSzolCsop)](assets/2104999f7eb2/1*ar6bzFYYMeU8yWqG2ht-cA.jpeg)
+![“Happy New Year to all those celebrating it\! Resistance against Hungary government’s racist border policy will continue in 2017" [@MigSzolCsop](https://twitter.com/MigSzolCsop)](../assets/2104999f7eb2/1*ar6bzFYYMeU8yWqG2ht-cA.jpeg)
 
 “Happy New Year to all those celebrating it\! Resistance against Hungary government’s racist border policy will continue in 2017" [@MigSzolCsop](https://twitter.com/MigSzolCsop)
 #### Syria
@@ -24,7 +24,7 @@ _Civilians leaving Damascus area // 3 babies arrived in Greece by boat on the fi
 The new year did not start peacefully despite the ceasefire\. Media are reporting that hundreds of civilians fled Barada Valley, the mountainous region outside Damascus today\. According to Syrian military sources, people who left Barada Valley were relocated to “safer areas and their names were registered by the Syrian Arab Red Crescent”\. More details about these civilians are not available so far\.
 
 
-![Akram Abo Alfoz, living in Douma, Syria, paints bombs and bullets and turns weapons of war into art\. “These shells were embossed with the blood of innocents before I was able to bring them back to life one more time\.” Photographs/info by الرسم على الموت\. By Art Against\.](assets/2104999f7eb2/1*V6TVcutskua_Yr53GZyglg.jpeg)
+![Akram Abo Alfoz, living in Douma, Syria, paints bombs and bullets and turns weapons of war into art\. “These shells were embossed with the blood of innocents before I was able to bring them back to life one more time\.” Photographs/info by الرسم على الموت\. By Art Against\.](../assets/2104999f7eb2/1*V6TVcutskua_Yr53GZyglg.jpeg)
 
 Akram Abo Alfoz, living in Douma, Syria, paints bombs and bullets and turns weapons of war into art\. “These shells were embossed with the blood of innocents before I was able to bring them back to life one more time\.” Photographs/info by الرسم على الموت\. By Art Against\.
 #### Greece
@@ -53,7 +53,7 @@ Over the last couple of weeks, we received info about people who are stopped in 
 In Como, 74 persons slept during the New Years Eve in the streets, including three women and three kids\.
 
 
-![](assets/2104999f7eb2/1*DoXhj5IU883g2ZBw9VlP0A.png)
+![](../assets/2104999f7eb2/1*DoXhj5IU883g2ZBw9VlP0A.png)
 
 
 New Italian Prime Minister wants his country to increase ID checks, deportations, and the construction of detention centers\. Previously, Interior Minister Marco Minniti confirmed plans to build several new detention centers to facilitate faster deportations for people whose asylum applications are denied\. Previous Prime Minister Mateo Renzi objected to detention centers on humanitarian grounds\. Due to his attitude, Italy has only four pre\-repatriation camps left operating\. Media reports are suggesting that the interior ministry will open 16 more in the coming year\.
@@ -65,7 +65,7 @@ Around 1000 people tried to enter into Spain’s North African enclave of Ceuta 
 People tried to climb the top of the 6\-meter barbed wire fence but were lifted down by cranes\. Only two people were allowed into Ceuta to be taken to a hospital, while the rest were returned to Morocco\.
 
 
-[![Spain: Nearly 1,000 refugees attempt to scale Ceuta border-fence](assets/2104999f7eb2/1553_hqdefault.jpg "Spain: Nearly 1,000 refugees attempt to scale Ceuta border-fence")](http://www.youtube.com/watch?v=wmFUeelYREw)
+[![Spain: Nearly 1,000 refugees attempt to scale Ceuta border-fence](../assets/2104999f7eb2/1553_hqdefault.jpg "Spain: Nearly 1,000 refugees attempt to scale Ceuta border-fence")](http://www.youtube.com/watch?v=wmFUeelYREw)
 
 #### France
 ### Help needed
@@ -73,7 +73,7 @@ People tried to climb the top of the 6\-meter barbed wire fence but were lifted 
 People are still in the streets of Paris, but also many other cities in France\. If you can, please try to help and join other volunteers who are already doing that\.
 
 
-![](assets/2104999f7eb2/1*MlSiqvIvStcVT9K56jceEg.jpeg)
+![](../assets/2104999f7eb2/1*MlSiqvIvStcVT9K56jceEg.jpeg)
 
 #### Sweden
 ### Around 10,000 asylum applications processed monthly

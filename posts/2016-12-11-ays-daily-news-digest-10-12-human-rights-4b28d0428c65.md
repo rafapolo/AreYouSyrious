@@ -1,20 +1,20 @@
 ---
-title: AYS Daily News Digest 10/12: Human rights?
+title: "AYS Daily News Digest 10/12: Human rights?"
 author: Are You Syrious?
 date: 2016-12-11T03:33:59.864+0000
 last_modified_at: 2016-12-11T10:56:32.899+0000
 categories: 
 tags: [refugees,europe,human-rights,greece,european-union]
-description: Refugees’ reality: fleeing war only to find yourself fighting for survival elsewhere / A surge of arrivals to the Greek islands / Cherso…
+description: "Refugees’ reality: fleeing war only to find yourself fighting for survival elsewhere / A surge of arrivals to the Greek islands / Cherso…"
 image:
-  path: assets/4b28d0428c65/1*e2aqR10iPywuVeHL_ci4Lw.jpeg
+  path: ../assets/4b28d0428c65/1*e2aqR10iPywuVeHL_ci4Lw.jpeg
 ---
 
 ### AYS Daily News Digest 10/12: Human rights?
 #### Refugees’ reality: fleeing war only to find yourself fighting for survival elsewhere / A surge of arrivals to the Greek islands / Cherso closes / A risk of people freezing at the European borders / Help needed as conditions worsen / Afghans in Germany deepening their doubts about returns after the recent attacks / Syrian families in court against EU member state on account of human rights’ breach
 
 
-![Photo: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)](assets/4b28d0428c65/1*e2aqR10iPywuVeHL_ci4Lw.jpeg)
+![Photo: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)](../assets/4b28d0428c65/1*e2aqR10iPywuVeHL_ci4Lw.jpeg)
 
 Photo: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/)
 
@@ -38,7 +38,7 @@ A camp in the north of Lebanon, in Tel Abbass \(at the Lebanese\-Syrian border\)
 If you can help in any way, please [send a private message](https://www.facebook.com/forgotten.idomeni/?hc_ref=PAGES_TIMELINE) \.
 
 
-![Photo: [Forgotten in Idomeni](https://www.facebook.com/forgotten.idomeni/?hc_ref=PAGES_TIMELINE)](assets/4b28d0428c65/1*UunZJ6wSJiEMZQHZETMZag.jpeg)
+![Photo: [Forgotten in Idomeni](https://www.facebook.com/forgotten.idomeni/?hc_ref=PAGES_TIMELINE)](../assets/4b28d0428c65/1*UunZJ6wSJiEMZQHZETMZag.jpeg)
 
 Photo: [Forgotten in Idomeni](https://www.facebook.com/forgotten.idomeni/?hc_ref=PAGES_TIMELINE)
 #### GREECE
@@ -50,18 +50,18 @@ Photo: [Forgotten in Idomeni](https://www.facebook.com/forgotten.idomeni/?hc_ref
 As of yesterday the Mazarakis camp in Cherso is closed\.
 
 
-![Mazaraki camp in Cherso, August \(Photo: AYS\)](assets/4b28d0428c65/1*HdQVC0bYoec4fKn1UJacyg.jpeg)
+![Mazaraki camp in Cherso, August \(Photo: AYS\)](../assets/4b28d0428c65/1*HdQVC0bYoec4fKn1UJacyg.jpeg)
 
 Mazaraki camp in Cherso, August \(Photo: AYS\)
 
 The camp that until recently had more than a thousand people living in [harsh conditions](https://medium.com/@AreYouSyrious/ays-daily-news-digest-18-11-the-world-ignores-one-of-the-worst-days-for-aleppo-desperation-in-e180c1193dde#.myaa1l8g9) , is set to finally close\. Most of the refugees were transfered earlier and over a 100 people had remained there\. Now, the remaining refugees were taken to houses in different areas, including Kilkis, and some moved five hours away from Cherso, to a hotel in Plataria, in the Ioannina area\. Some of those people still have months to wait before their relocation interview takes place\. For some, it will mark a year in Greece, most of which they spent in a remote camp under a tent canvas…
 
 
-![](assets/4b28d0428c65/1*_WOWsIPb3YBmWAWvHGk_iQ.jpeg)
+![](../assets/4b28d0428c65/1*_WOWsIPb3YBmWAWvHGk_iQ.jpeg)
 
 
 
-![Cherso \(Photo: AYS\)](assets/4b28d0428c65/1*xsfLrz3lvPg3AscTw7ufsw.jpeg)
+![Cherso \(Photo: AYS\)](../assets/4b28d0428c65/1*xsfLrz3lvPg3AscTw7ufsw.jpeg)
 
 Cherso \(Photo: AYS\)
 #### Thessaloniki
@@ -69,15 +69,15 @@ Cherso \(Photo: AYS\)
 According to the volunteers in Thessaloniki, the homeless refugee families in the city parks and streets are not as many as before, but those stranded outside are in harsh conditions and any help or assistance in warm clothes, shoes and sleeping bags is welcome at any time\. [Team Bananas](https://www.facebook.com/TBananita/?fref=nf) still provides bananas and breakfast on the streets and together with [SOUL FOOD Kitchen](https://www.facebook.com/dirtybunch/) they help preparing, cooking and distributing 2 hot meals a day\.
 
 
-![](assets/4b28d0428c65/1*ZH43U8A0OuRx2SAKfOkjaw.jpeg)
+![](../assets/4b28d0428c65/1*ZH43U8A0OuRx2SAKfOkjaw.jpeg)
 
 
 
-![](assets/4b28d0428c65/1*rLHEFQkejQ6Rl9sjgtUkRA.jpeg)
+![](../assets/4b28d0428c65/1*rLHEFQkejQ6Rl9sjgtUkRA.jpeg)
 
 
 
-![Refugees on the streets of Thessaloniki are left to rely on the kindness of strangers — volunteers continually working to help them \(Photos: Soul Food Kitchen; M\. Ali\)](assets/4b28d0428c65/1*vhryCASLyb8Gk8nqQbBCHQ.jpeg)
+![Refugees on the streets of Thessaloniki are left to rely on the kindness of strangers — volunteers continually working to help them \(Photos: Soul Food Kitchen; M\. Ali\)](../assets/4b28d0428c65/1*vhryCASLyb8Gk8nqQbBCHQ.jpeg)
 
 Refugees on the streets of Thessaloniki are left to rely on the kindness of strangers — volunteers continually working to help them \(Photos: Soul Food Kitchen; M\. Ali\)
 #### Samos
@@ -127,11 +127,11 @@ The Sirius\.Help team reported that refugees, who are in a bad shape, wrote to t
 
 
 
-![](assets/4b28d0428c65/1*h49espvrOKo77_R4snz_vA.jpeg)
+![](../assets/4b28d0428c65/1*h49espvrOKo77_R4snz_vA.jpeg)
 
 
 
-![Photos: [SIRIUS\.HELP](https://www.facebook.com/sirius.help/)](assets/4b28d0428c65/1*QqMl_XQDtFfkdSxOOX9dww.jpeg)
+![Photos: [SIRIUS\.HELP](https://www.facebook.com/sirius.help/)](../assets/4b28d0428c65/1*QqMl_XQDtFfkdSxOOX9dww.jpeg)
 
 Photos: [SIRIUS\.HELP](https://www.facebook.com/sirius.help/)
 #### BOSNIA AND HERZEGOVINA
@@ -150,11 +150,11 @@ As a city that has endured the longest siege in the modern times, as citizens of
 Asylum seekers in Zagreb, together with AYS volunteers, made a Christmas crib for the residents and staff of the largest hospitals in Zagreb, Rebro\. The intention of this common workshop project was bringing joy to those who will spend holidays in hospital rooms\.
 
 
-![](assets/4b28d0428c65/1*c5GHoP44g6yUpf40oPu4OQ.jpeg)
+![](../assets/4b28d0428c65/1*c5GHoP44g6yUpf40oPu4OQ.jpeg)
 
 
 
-![Photo: AYS](assets/4b28d0428c65/1*tOaI4q5TjP5_3x4w7wTSLg.jpeg)
+![Photo: AYS](../assets/4b28d0428c65/1*tOaI4q5TjP5_3x4w7wTSLg.jpeg)
 
 Photo: AYS
 #### FRANCE
@@ -163,7 +163,7 @@ Photo: AYS
 Paris volunteer teams report that an evacuation is planned in the coming days in the St\. Denis area of Paris that currently has over 500 people staying there\. The Paris [team](https://www.facebook.com/PRGS.team/?fref=ts) needs more helping hands to collect, sort and distribute help, so if anyone can join — contact them\!
 
 
-![Paris \(Photo: [Care4Calais](https://www.facebook.com/care4calais/) \)](assets/4b28d0428c65/1*Jgo42XjEUPt5AAxtihhRPg.jpeg)
+![Paris \(Photo: [Care4Calais](https://www.facebook.com/care4calais/) \)](../assets/4b28d0428c65/1*Jgo42XjEUPt5AAxtihhRPg.jpeg)
 
 Paris \(Photo: [Care4Calais](https://www.facebook.com/care4calais/) \)
 #### …meanwhile …
@@ -177,7 +177,7 @@ On the occasion of the International Human Rights day, Stop Mare Mortum organiza
 entities that support the campaign Casa Nostra, Casa Vostra organized „We give birth to human rights“ event\. It took place at the University of Barcelona ending with the public reading of the Casa Nostra, Casa Vostra campaign manifesto\. People were invited to participate in this united action by bringing a candle that symbolizes Catalonia as a welcoming place\.
 
 
-![Photo: [**Stop Mare Mortum**](https://www.facebook.com/StopMareMortum/)](assets/4b28d0428c65/1*XrYIVZ0AAIinKVdurzDu4Q.jpeg)
+![Photo: [**Stop Mare Mortum**](https://www.facebook.com/StopMareMortum/)](../assets/4b28d0428c65/1*XrYIVZ0AAIinKVdurzDu4Q.jpeg)
 
 Photo: [**Stop Mare Mortum**](https://www.facebook.com/StopMareMortum/)
 
@@ -185,11 +185,11 @@ Given the constant and systematic violation of the fundamental rights of migrant
 You can sign the manifestro here: [http://www\.casanostracasavostra\.cat/](http://www.casanostracasavostra.cat/)
 
 
-![](assets/4b28d0428c65/1*xiSZOTkKTVi4j1y9XI4Y7w.jpeg)
+![](../assets/4b28d0428c65/1*xiSZOTkKTVi4j1y9XI4Y7w.jpeg)
 
 
 
-![Photo: [**Stop Mare Mortum**](https://www.facebook.com/StopMareMortum/)](assets/4b28d0428c65/1*wrofb2YfBsAoMzgRRt8Bmg.jpeg)
+![Photo: [**Stop Mare Mortum**](https://www.facebook.com/StopMareMortum/)](../assets/4b28d0428c65/1*wrofb2YfBsAoMzgRRt8Bmg.jpeg)
 
 Photo: [**Stop Mare Mortum**](https://www.facebook.com/StopMareMortum/)
 #### IRELAND
@@ -207,7 +207,7 @@ Home Office transfers of unaccompanied minors who were registered in the Calais 
 More than a hundred Afghan asylum seekers gathered in the Freiburg city center on Thursday afternoon to light candles in memory of Maria, a 19\-year\-old medical student and volunteer, found dead on October 16\. It remains to be seen if the atrocity in Freiburg will play any role in future asylum\-related debates in Germany\. But reports suggest that plans are underway to deport in the coming days the first group of Afghan migrants whose asylum requests have been rejected by Germany **,** [DW](http://m.dw.com/en/afghan-asylum-seekers-apologetic-about-freiburg-murder/a-36714266) reports\.
 
 
-![Photo credits/source: [DW](http://m.dw.com/en/afghan-asylum-seekers-apologetic-about-freiburg-murder/a-36714266)](assets/4b28d0428c65/1*WCjpIF87ThjYiHO1mulNEA.jpeg)
+![Photo credits/source: [DW](http://m.dw.com/en/afghan-asylum-seekers-apologetic-about-freiburg-murder/a-36714266)](../assets/4b28d0428c65/1*WCjpIF87ThjYiHO1mulNEA.jpeg)
 
 Photo credits/source: [DW](http://m.dw.com/en/afghan-asylum-seekers-apologetic-about-freiburg-murder/a-36714266)
 

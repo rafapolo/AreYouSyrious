@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 14/2/2018: We are a welcoming Europe, let us help
+title: "AYS DAILY DIGEST 14/2/2018: We are a welcoming Europe, let us help"
 author: Are You Syrious?
 date: 2018-02-14T23:53:58.571+0000
 last_modified_at: 2018-03-01T13:31:04.896+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,refugeeswelcome,hungary,european-union,digest]
 description: New law targeting NGOs proposed in Hungary / Evros river takes lives of two young children / New AMKA law directions for public services /…
 image:
-  path: assets/fb6956485b34/1*K-7jpcg-6wpfHA-9MKD5iA.jpeg
+  path: ../assets/fb6956485b34/1*K-7jpcg-6wpfHA-9MKD5iA.jpeg
 ---
 
 ### AYS DAILY DIGEST 14/2/2018: We are a welcoming Europe, let us help
@@ -15,7 +15,7 @@ image:
 _New law targeting NGOs proposed in Hungary / Evros river takes lives of two young children / New AMKA law directions for public services / New family support center near Vial, Chios / Updated AIDA country reports / and more_
 
 
-![In order to keep people reasonably warm after rescuing them, [Sea\-Watch](https://twitter.com/seawatchcrew) has hundreds of blankets on board\. 350 of them were used in the last mission alone, now they have to be professionally cleaned\. You can help them out [here](http://sea-watch.org/spenden) \. Photo by Sea\-Watch](assets/fb6956485b34/1*K-7jpcg-6wpfHA-9MKD5iA.jpeg)
+![In order to keep people reasonably warm after rescuing them, [Sea\-Watch](https://twitter.com/seawatchcrew) has hundreds of blankets on board\. 350 of them were used in the last mission alone, now they have to be professionally cleaned\. You can help them out [here](http://sea-watch.org/spenden) \. Photo by Sea\-Watch](../assets/fb6956485b34/1*K-7jpcg-6wpfHA-9MKD5iA.jpeg)
 
 In order to keep people reasonably warm after rescuing them, [Sea\-Watch](https://twitter.com/seawatchcrew) has hundreds of blankets on board\. 350 of them were used in the last mission alone, now they have to be professionally cleaned\. You can help them out [here](http://sea-watch.org/spenden) \. Photo by Sea\-Watch
 #### FEATURE
@@ -52,18 +52,18 @@ In the past the AMKA social security number has been denied to refugees and asyl
 A new family support center “House of People” opened today near the Vial camp\. They were able to welcome 11 families, a total of 50 people with approximately 30 children\. All of them, parents and teenagers included, had the chance to get a set of winter warm clothes as well as a hygiene kit \(diapers, shampoo, nappy cream, soap, toothbrushes, toothpaste, face towel, washing powder, razors, deodorant, sanitary pads, wet wipes, comb\) and if/when needed, a sleeping bag, a milk bottle and a dummy, [Chios Eastern Shore Response Team](https://www.facebook.com/groups/421759534684819/permalink/749474018580034/) wrote\.
 
 
-![](assets/fb6956485b34/1*WA6LPMDy1CB9zL4JR-HMUA.jpeg)
+![](../assets/fb6956485b34/1*WA6LPMDy1CB9zL4JR-HMUA.jpeg)
 
 
 
-![Photos of the new center by the CESRT volunteers](assets/fb6956485b34/1*YVE_eHcJjSB-LIVmNMtYgA.jpeg)
+![Photos of the new center by the CESRT volunteers](../assets/fb6956485b34/1*YVE_eHcJjSB-LIVmNMtYgA.jpeg)
 
 Photos of the new center by the CESRT volunteers
 
 Language classes at [Orange House](https://www.facebook.com/zaatarngo/) in central Athens:
 
 
-![](assets/fb6956485b34/1*E1it7zcMQGVr8JpKTiWVmA.jpeg)
+![](../assets/fb6956485b34/1*E1it7zcMQGVr8JpKTiWVmA.jpeg)
 
 #### BULGARIA
 
@@ -79,11 +79,11 @@ The Respite centre is a place where 50 young people from Mali, Chad, Guinée, C�
 Care4Calais attended a trilingual \(French, Arabic, English\) lesson there yesterday while bringing donations\. Their volunteers describe the young people there as extremely committed and resilient, so keen to learn or improve their French as they are trying to integrate into French society, especially knowing quite a few of them had never been to school in Western Africa\.
 
 
-![](assets/fb6956485b34/1*SuRdHGAlz64f6lLPgu4h5w.jpeg)
+![](../assets/fb6956485b34/1*SuRdHGAlz64f6lLPgu4h5w.jpeg)
 
 
 
-![Photos by a Care4Calais volunteer](assets/fb6956485b34/1*4i8bc9I4gRqanh0gLB9Vog.jpeg)
+![Photos by a Care4Calais volunteer](../assets/fb6956485b34/1*4i8bc9I4gRqanh0gLB9Vog.jpeg)
 
 Photos by a Care4Calais volunteer
 
@@ -92,11 +92,11 @@ The last week has seen temperatures plummet once again, and although an emergenc
 They are inviting people willing to volunteer on the ground with them to contact them [here](https://www.mobilerefugeesupport.org/volunteer/) \.
 
 
-![](assets/fb6956485b34/1*zgOKBMQp1rDmYDL6XHOaGQ.jpeg)
+![](../assets/fb6956485b34/1*zgOKBMQp1rDmYDL6XHOaGQ.jpeg)
 
 
 
-![Photos by MRS](assets/fb6956485b34/1*DEhHKfC90krsqNYiwOE2GA.jpeg)
+![Photos by MRS](../assets/fb6956485b34/1*DEhHKfC90krsqNYiwOE2GA.jpeg)
 
 Photos by MRS
 #### We strive to echo correct news from the ground through collaboration and fairness\.

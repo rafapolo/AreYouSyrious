@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 8–9/6/19: A curfew on people in Bihać, desperation grows as no humane solutions…
+title: "AYS News Digest 8–9/6/19: A curfew on people in Bihać, desperation grows as no humane solutions…"
 author: Are You Syrious?
 date: 2019-06-10T11:11:09.591+0100
 last_modified_at: 2019-06-10T13:34:51.088+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,europe,digest,human-rights,bosnia]
 description: Silent escalation stemming from unbearable living conditions in the Una Sana canton, particularly Bihać is leaving both those in need of…
 image:
-  path: assets/680880b7405a/1*QKuPJ1suiggDD1Xrn8QtAg.jpeg
+  path: ../assets/680880b7405a/1*QKuPJ1suiggDD1Xrn8QtAg.jpeg
 ---
 
 ### AYS News Digest 8–9/6/19: A curfew on people in Bihać, desperation grows as no humane solutions are in sight
 #### Silent escalation stemming from unbearable living conditions in the Una Sana canton, particularly Bihać, leaves both those in need of help and those assisting them desperate / Germany rejects more than 75% of family reunification requests from Greece / An accidental fire in Bekaa Valley sets off a chain of incidents further displacing 600 people while exposing deepening tensions with local residents / & more news
 
 
-![Bihać, Bosnia and Herzegovina \(Photo: AYS\)](assets/680880b7405a/1*QKuPJ1suiggDD1Xrn8QtAg.jpeg)
+![Bihać, Bosnia and Herzegovina \(Photo: AYS\)](../assets/680880b7405a/1*QKuPJ1suiggDD1Xrn8QtAg.jpeg)
 
 Bihać, Bosnia and Herzegovina \(Photo: AYS\)
 ### Featured
@@ -30,7 +30,7 @@ Last night a young man fell from a construction site building close to Una river
 Those who are in Bira cannot go out of the camp, while those who are outside are hungry and unattended in every way\. They are not allowed to buy food or enter most of the places in the city\.
 
 
-![Police in Bihać taking groups of people away from the river bank \(Photo: AYS\)](assets/680880b7405a/1*wX5yitvsJax4VNobGmVuvQ.jpeg)
+![Police in Bihać taking groups of people away from the river bank \(Photo: AYS\)](../assets/680880b7405a/1*wX5yitvsJax4VNobGmVuvQ.jpeg)
 
 Police in Bihać taking groups of people away from the river bank \(Photo: AYS\)
 
@@ -40,11 +40,11 @@ After a special meeting was held due to the escalation of the crisis in Una\-San
 In trying to protect the local tourism and the economy of the USK, the state of emergency will not technically be introduced\. However, that is only valid for the uninformed and uninvolved public, because control of movement of migrants will take place straight away, as they announced the start of curfew restrictions, stating primarily that, “migrants will have their movement restricted\.”
 
 
-![](assets/680880b7405a/1*BY0k-ETQOfbW-Zo3V6bcbQ.jpeg)
+![](../assets/680880b7405a/1*BY0k-ETQOfbW-Zo3V6bcbQ.jpeg)
 
 
 
-![People are constantly being removed from the public areas in the city \(Photo: AYS\) \.](assets/680880b7405a/1*Tn21zEqAmgB31xTSP-TbuA.jpeg)
+![People are constantly being removed from the public areas in the city \(Photo: AYS\) \.](../assets/680880b7405a/1*Tn21zEqAmgB31xTSP-TbuA.jpeg)
 
 People are constantly being removed from the public areas in the city \(Photo: AYS\) \.
 
@@ -57,7 +57,7 @@ In spite of the fact that the European Commission allegedly does not support the
 
 
 
-![Vučjak area](assets/680880b7405a/1*jrR9plui1GZJxO8OveJQUg.jpeg)
+![Vučjak area](../assets/680880b7405a/1*jrR9plui1GZJxO8OveJQUg.jpeg)
 
 Vučjak area
 
@@ -146,7 +146,7 @@ Becoming hardline on immigration does not stem the tide of disaffected working c
 ### Patras
 
 
-![](assets/680880b7405a/1*iZxgEWqpKUhqwg7B766SmA.jpeg)
+![](../assets/680880b7405a/1*iZxgEWqpKUhqwg7B766SmA.jpeg)
 
 
 
@@ -154,7 +154,7 @@ Becoming hardline on immigration does not stem the tide of disaffected working c
  When Mohammed arrived at our truck that afternoon asking for help from the nurse, we thought his hand was broken\. The inflammation was huge and the pain reached up to his shoulder; but Mohammed told us that he didn’t fall running away from the police or trying to jump the fences\. He woke up that morning with unbearable pain in his entire arm\. He was bitten by a mosquito\. After taking him to the hospital, the doctors decided that the best solution was to drain all the pus that inflamed his hand\. It was not pleasant to see the hole between his fingers after removing the infected fluid under his skin\.
  The differences between my trivial discomfort and the real pain, and the need of the medical attention that was given to Mohammed to cure the bite of a mosquito, are the horrible conditions in the place where he was sleeping for the last eight months, waiting for an opportunity to get to northern Europe\. Something is very wrong when governments do nothing to help hundreds of people forced to live in abandoned factories, full of trash and stagnant water, which is the perfect place for mosquitoes to proliferate\.
  In Patras we see it every day when we go to give food and clothes and to visit the place that has become the home of hundreds of human beings trapped in Greece\.
- I still can not assume how big was the difference between that tingling that makes me scratch at this moment and the huge pain that didn’t allow Mohammed to rest for days, leaving a scar that will become a memory of his passage through this inhuman Europe when he was just looking for a better future\. — [Sergio GI](https://www.facebook.com/gersiog?__tn__=K-R&eid=ARAZsVNbM-i-f2KZZ8QUtQQuQ50p1Vcrj0Aai0fYPStjQZ8d9sN247fhgc4mSA1gUOM5G_dQm2QC4t_K&fref=mentions&__xts__%5B0%5D=68.ARAihA4CPh_DeNz1aQnOJQ5Y8cY0fHCVIYc5YxVXfJVpqdvhflP2u62sGQbIDwziK_zStY36qKQ20mkbgslm_74zU9MRwWYF8ihvmG0wfNsin-mxdDXii_w6t41IN79vor99n2b6wGLic_KVQtLZic3HSfN_Zgx33SMLaC4fjs5_NLUVDiItMSbty4nxVFso00qRrVCov1i_dMWUG4IlguOlhTyUxddM7IntP3AAjJm2wzY51cdNsw8fZG60wGPNCrLiOMz_30_6_CrPAvLrRliQBVKktHT3T7S4xnWx7G_SQbIocJLKpLF-pQAIfwsTZCPQqv1ZNT6FxpzD1YAZtRo) , [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/)](assets/680880b7405a/1*TDs9JZWZ32PWcNv5zQaVcg.jpeg)
+ I still can not assume how big was the difference between that tingling that makes me scratch at this moment and the huge pain that didn’t allow Mohammed to rest for days, leaving a scar that will become a memory of his passage through this inhuman Europe when he was just looking for a better future\. — [Sergio GI](https://www.facebook.com/gersiog?__tn__=K-R&eid=ARAZsVNbM-i-f2KZZ8QUtQQuQ50p1Vcrj0Aai0fYPStjQZ8d9sN247fhgc4mSA1gUOM5G_dQm2QC4t_K&fref=mentions&__xts__%5B0%5D=68.ARAihA4CPh_DeNz1aQnOJQ5Y8cY0fHCVIYc5YxVXfJVpqdvhflP2u62sGQbIDwziK_zStY36qKQ20mkbgslm_74zU9MRwWYF8ihvmG0wfNsin-mxdDXii_w6t41IN79vor99n2b6wGLic_KVQtLZic3HSfN_Zgx33SMLaC4fjs5_NLUVDiItMSbty4nxVFso00qRrVCov1i_dMWUG4IlguOlhTyUxddM7IntP3AAjJm2wzY51cdNsw8fZG60wGPNCrLiOMz_30_6_CrPAvLrRliQBVKktHT3T7S4xnWx7G_SQbIocJLKpLF-pQAIfwsTZCPQqv1ZNT6FxpzD1YAZtRo) , [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/)](../assets/680880b7405a/1*TDs9JZWZ32PWcNv5zQaVcg.jpeg)
 
 Last night I couldn’t sleep\. The buzzing of a mosquito didn’t let me rest in peace\. The idea of ​​the itch that would come later made me toss and turn in bed\. That itchy sensation that makes you scratch for days\. Surely you know that feeling, so common in summer, or when the weather gets warmer\.
  When Mohammed arrived at our truck that afternoon asking for help from the nurse, we thought his hand was broken\. The inflammation was huge and the pain reached up to his shoulder; but Mohammed told us that he didn’t fall running away from the police or trying to jump the fences\. He woke up that morning with unbearable pain in his entire arm\. He was bitten by a mosquito\. After taking him to the hospital, the doctors decided that the best solution was to drain all the pus that inflamed his hand\. It was not pleasant to see the hole between his fingers after removing the infected fluid under his skin\.
@@ -166,7 +166,7 @@ MONTENEGRO
 
 
 ![People who were in prison, for whatever reason, while they were fleeing say that the life there was even better than in the camp they are currently staying\.
-The doors here in the camp are closed at 10pm and the guardians don’t care about what’s happening during the night in rooms\. They don’t care if there are fights happening, if somebody gets injured or sick or needs any other kind of help\. As nobody is allowed to go outside, everybody smokes in the dorm and there is no possibility of fresh air\. Not only the hygiene, \[but\] also the overall treatment of the people here is cruel and not acceptable\. The people here not only need a safe place and food, they are traumatized and we should not forget that they are human beings like you and me, and we should spread the world to make sure they get all the help they need\. — [Aldar Aldar](https://www.facebook.com/aldar.aldar.98622?fref=gs&__tn__=%2Cd%2AF%2AF-R&eid=ARBQvniqfLO61joyfamOHLrUXP7-JOgWvrZsvcRlgDOnztTFY4DgCtLk9vN9kYo1azlJSULyV6MEjrZf&tn-str=%2AF&dti=1157824667713728&hc_location=group_dialog) ‎](assets/680880b7405a/1*c84rNDpKRQBxuriizT-TPg.jpeg)
+The doors here in the camp are closed at 10pm and the guardians don’t care about what’s happening during the night in rooms\. They don’t care if there are fights happening, if somebody gets injured or sick or needs any other kind of help\. As nobody is allowed to go outside, everybody smokes in the dorm and there is no possibility of fresh air\. Not only the hygiene, \[but\] also the overall treatment of the people here is cruel and not acceptable\. The people here not only need a safe place and food, they are traumatized and we should not forget that they are human beings like you and me, and we should spread the world to make sure they get all the help they need\. — [Aldar Aldar](https://www.facebook.com/aldar.aldar.98622?fref=gs&__tn__=%2Cd%2AF%2AF-R&eid=ARBQvniqfLO61joyfamOHLrUXP7-JOgWvrZsvcRlgDOnztTFY4DgCtLk9vN9kYo1azlJSULyV6MEjrZf&tn-str=%2AF&dti=1157824667713728&hc_location=group_dialog) ‎](../assets/680880b7405a/1*c84rNDpKRQBxuriizT-TPg.jpeg)
 
 People who were in prison, for whatever reason, while they were fleeing say that the life there was even better than in the camp they are currently staying\.
 The doors here in the camp are closed at 10pm and the guardians don’t care about what’s happening during the night in rooms\. They don’t care if there are fights happening, if somebody gets injured or sick or needs any other kind of help\. As nobody is allowed to go outside, everybody smokes in the dorm and there is no possibility of fresh air\. Not only the hygiene, \[but\] also the overall treatment of the people here is cruel and not acceptable\. The people here not only need a safe place and food, they are traumatized and we should not forget that they are human beings like you and me, and we should spread the world to make sure they get all the help they need\. — [Aldar Aldar](https://www.facebook.com/aldar.aldar.98622?fref=gs&__tn__=%2Cd%2AF%2AF-R&eid=ARBQvniqfLO61joyfamOHLrUXP7-JOgWvrZsvcRlgDOnztTFY4DgCtLk9vN9kYo1azlJSULyV6MEjrZf&tn-str=%2AF&dti=1157824667713728&hc_location=group_dialog) ‎
@@ -225,7 +225,7 @@ Find the entire report here:
 
 
 
-![](assets/680880b7405a/1*7ZQGOLPF_AXMxxvnScl8WA.png)
+![](../assets/680880b7405a/1*7ZQGOLPF_AXMxxvnScl8WA.png)
 
 #### UK
 

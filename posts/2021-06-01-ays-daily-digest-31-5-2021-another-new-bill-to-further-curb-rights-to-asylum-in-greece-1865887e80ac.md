@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 31/5/2021: Another new bill to further curb rights to asylum in Greece
+title: "AYS Daily Digest 31/5/2021: Another new bill to further curb rights to asylum in Greece"
 author: Are You Syrious?
 date: 2021-06-01T14:19:02.094+0100
 last_modified_at: 2021-06-01T14:19:02.094+0100
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [digest,refugees,greece,moria,paris]
 description: Are You Syrious?
 image:
-  path: assets/1865887e80ac/0*6iMtyaBHjf1ZheA-.jpeg
+  path: ../assets/1865887e80ac/0*6iMtyaBHjf1ZheA-.jpeg
 ---
 
 ### AYS Daily Digest 31/5/2021: Another new bill to further curb rights to asylum in Greece
 
 
-![](assets/1865887e80ac/0*DqY9T2JtIMM2NJZw.jpeg)
+![](../assets/1865887e80ac/0*DqY9T2JtIMM2NJZw.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----7f2f971c1af0--------------------------------)
@@ -23,7 +23,7 @@ image:
 More deaths feared in the Central Med in what the Libyan Coast Guard calls a ‘successful rescue’\. Further evidence of pushbacks\. 3,000 people take to the streets in Paris\. Updates from Ceuta\. EU accused of complicity in deaths at sea by UN\.
 
 
-![](assets/1865887e80ac/0*6iMtyaBHjf1ZheA-.jpeg)
+![](../assets/1865887e80ac/0*6iMtyaBHjf1ZheA-.jpeg)
 
 
 \(Moria Corona Awareness Team teaching classes in how to make art from what people have thrown away\. Photo Credit: [Moria Corona Awareness Team](https://www.facebook.com/MoriaCoronaAwarenessTeam) \)
@@ -51,7 +51,7 @@ More deaths feared, as Alarm Phone reported having been informed on Monday about
 UNHCR Libya [report](https://twitter.com/UNHCRLibya/status/1399448735172730888) that 274 persons were brought back to Tripoli on Monday afternoon in two different operations by the Libyan Coast Guard\.
 
 
-![](assets/1865887e80ac/0*l_hc2aJ6JDIFKLXv.jpeg)
+![](../assets/1865887e80ac/0*l_hc2aJ6JDIFKLXv.jpeg)
 
 
 A Libyan Coast Guard vessel returning people to Tripoli, spotted by MSF’s GeoBarents \(Photo: [Ed Ou/The Outlaw Ocean Project](https://twitter.com/MSF_Sea/status/1399403986302783498/photo/1) \)
@@ -106,7 +106,7 @@ FRANCE
 ### Paris: 3,000 people take to the streets
 
 
-![](assets/1865887e80ac/0*aqdALcYIlESbbFHR.jpeg)
+![](../assets/1865887e80ac/0*aqdALcYIlESbbFHR.jpeg)
 
 
 [Sunday, 30 May 2021 — Paris \(Credit: Utopia 56\)](https://twitter.com/Utopia_56/status/1399474610811420672/photo/1)

@@ -1,13 +1,13 @@
 ---
-title: AYS DAILY DIGEST 18/03/2017: More than 200 new arrivals to Greece
+title: "AYS DAILY DIGEST 18/03/2017: More than 200 new arrivals to Greece"
 author: Are You Syrious?
 date: 2017-03-18T23:02:31.985+0000
 last_modified_at: 2017-03-19T08:45:12.162+0000
 categories: 
 tags: [refugees,europe,eu-turkey-deal,greece,msf]
-description: “Article 33 of the Geneva convention on refugees states: “No contracting state shall expel or return a refugee in any manner whatsoever to…
+description: "“Article 33 of the Geneva convention on refugees states: “No contracting state shall expel or return a refugee in any manner whatsoever to…"
 image:
-  path: assets/2a65cee782a1/1*JnFv4o3jaeXJKAG6ju-VIw.jpeg
+  path: ../assets/2a65cee782a1/1*JnFv4o3jaeXJKAG6ju-VIw.jpeg
 ---
 
 ### AYS DAILY DIGEST 18/03/2017: More than 200 new arrivals to Greece
@@ -15,7 +15,7 @@ image:
 _“Article 33 of the Geneva convention on refugees states: “No contracting state shall expel or return a refugee in any manner whatsoever to the frontiers of territories where his/her life or freedom would be threatened on account of his/her race, religion, nationality, membership of a particular social group or political opinion\.”_
 
 
-![Any EU\-Turkey deal protest in Athens\. Photo by Licia Shirin Conn](assets/2a65cee782a1/1*JnFv4o3jaeXJKAG6ju-VIw.jpeg)
+![Any EU\-Turkey deal protest in Athens\. Photo by Licia Shirin Conn](../assets/2a65cee782a1/1*JnFv4o3jaeXJKAG6ju-VIw.jpeg)
 
 Any EU\-Turkey deal protest in Athens\. Photo by Licia Shirin Conn
 ### FEATURE
@@ -38,24 +38,24 @@ The EU is satisfied that the deal stopped arrivals in big numbers, while being i
 Citizens of Europe are reminding their governments about the solidarity and human rights that are, or should be, in the core of European values\. Sea\-watch activist Philip Hahn, who was at Lesvos, sums it up perfectly: _“We Europeans stick to a deal that puts refugees at risk and betrays European values at the same time\!”_
 
 
-![](assets/2a65cee782a1/1*tU6Km-Y2fEe-qZ2IV_8YAQ.jpeg)
+![](../assets/2a65cee782a1/1*tU6Km-Y2fEe-qZ2IV_8YAQ.jpeg)
 
 
 
-![](assets/2a65cee782a1/1*Bb5lfTvVYq8wyT9_3I0MDg.jpeg)
+![](../assets/2a65cee782a1/1*Bb5lfTvVYq8wyT9_3I0MDg.jpeg)
 
 
 
-![Athens today\.](assets/2a65cee782a1/1*6ska2zj6fA688eknZa8lNw.jpeg)
+![Athens today\.](../assets/2a65cee782a1/1*6ska2zj6fA688eknZa8lNw.jpeg)
 
 Athens today\.
 
 
-![](assets/2a65cee782a1/1*BIDfXH_ucf9Uq_VrzRKfpQ.jpeg)
+![](../assets/2a65cee782a1/1*BIDfXH_ucf9Uq_VrzRKfpQ.jpeg)
 
 
 
-![Lesvos and Thessaloniki\.](assets/2a65cee782a1/1*vdUEYZHiQrxlJtWG04L-Wg.jpeg)
+![Lesvos and Thessaloniki\.](../assets/2a65cee782a1/1*vdUEYZHiQrxlJtWG04L-Wg.jpeg)
 
 Lesvos and Thessaloniki\.
 
@@ -68,15 +68,15 @@ If you are still not convinced about how wrong this deal is, here is simplified 
 Protest agains EU\- Turkey deal joined the anti racism day demos all over Europe\.
 
 
-![](assets/2a65cee782a1/1*Md0K8I9z8lAPLOn3BLyOoA.jpeg)
+![](../assets/2a65cee782a1/1*Md0K8I9z8lAPLOn3BLyOoA.jpeg)
 
 
 
-![](assets/2a65cee782a1/1*Ndk0QTOFGwbEUwxOwKGLPA.jpeg)
+![](../assets/2a65cee782a1/1*Ndk0QTOFGwbEUwxOwKGLPA.jpeg)
 
 
 
-![](assets/2a65cee782a1/1*8QoBjmjNRrzASbG6I-_CFw.jpeg)
+![](../assets/2a65cee782a1/1*8QoBjmjNRrzASbG6I-_CFw.jpeg)
 
 ### Syria
 #### Evacuation from Homs
@@ -90,7 +90,7 @@ In the meantime, Turkish government continue with threats of opening the borders
 Late Saturday evening, MSF, SOS Med France and Aquarius has rescued 25 very relieved people, including a pregnant lady, from a tiny overcrowded boat\.
 
 
-![Photo MSF](assets/2a65cee782a1/1*J1FRXLxHKIxSTAN-DWFPSw.jpeg)
+![Photo MSF](../assets/2a65cee782a1/1*J1FRXLxHKIxSTAN-DWFPSw.jpeg)
 
 Photo MSF
 ### Turkey
@@ -136,7 +136,7 @@ Refugees and migrants in France continue creating make shift camps as the only s
 Brave new generation is born in Germany\. Group of high school students from the Waldorf school in the eastern city of Cottbus, initiated campaign to keep their new Afghan classmates\. They are trying to raise money to fight the legal case of the three Afghan teenagers, who could be deported back to their country\.
 
 
-![Different generation](assets/2a65cee782a1/1*5G0ZIdTUxxXcG15J44dFIw.jpeg)
+![Different generation](../assets/2a65cee782a1/1*5G0ZIdTUxxXcG15J44dFIw.jpeg)
 
 Different generation
 

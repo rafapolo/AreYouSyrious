@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 25/10/18: Medical racism on Chios
+title: "AYS Daily Digest 25/10/18: Medical racism on Chios"
 author: Are You Syrious?
 date: 2018-10-26T09:55:39.622+0100
 last_modified_at: 2018-10-26T09:55:39.622+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,samos,chios,racism,bosnia]
 description: Turkey deports Syrians // New arrivals on Samos// Conditions worsen on Samos // Boat sinks in Evros region, children feared dead // Suicide…
 image:
-  path: assets/8b705edd4374/1*zitaEJzLB-Is0mzbAJnMqA.jpeg
+  path: ../assets/8b705edd4374/1*zitaEJzLB-Is0mzbAJnMqA.jpeg
 ---
 
 ### AYS Daily Digest 25/10/18: Medical racism on Chios
@@ -15,7 +15,7 @@ image:
 _Turkey deports Syrians // New arrivals on Samos// Conditions worsen on Samos // Boat sinks in Evros region, children feared dead // Suicide in Vercelli // Tunisian fishermen freed // Police raids in Germany // Protest at Danish detention center // And more news…_
 
 
-![25/20/18\. Refugees on Samos after their tents were knocked down by heavy winds\. Photo Credit: AYS](assets/8b705edd4374/1*zitaEJzLB-Is0mzbAJnMqA.jpeg)
+![25/20/18\. Refugees on Samos after their tents were knocked down by heavy winds\. Photo Credit: AYS](../assets/8b705edd4374/1*zitaEJzLB-Is0mzbAJnMqA.jpeg)
 
 25/20/18\. Refugees on Samos after their tents were knocked down by heavy winds\. Photo Credit: AYS
 ### FEATURE
@@ -92,21 +92,21 @@ On the island of Samos, the situation keeps getting worse\. As AYS reported earl
 Today was a windy day on the island, and many of the cheap tents that refugees bought at a local shop \(since authorities are not providing them\), blew away\. Following this incident, a number of refugees gathered outside of the camp manager’s office to protest\.
 
 
-![After the winds destroyed their tents, people attempted to set up again\. Photos: AYS](assets/8b705edd4374/1*4TT4eiwFGugYVS8JGiXMuw.jpeg)
+![After the winds destroyed their tents, people attempted to set up again\. Photos: AYS](../assets/8b705edd4374/1*4TT4eiwFGugYVS8JGiXMuw.jpeg)
 
 After the winds destroyed their tents, people attempted to set up again\. Photos: AYS
 
 
-![](assets/8b705edd4374/1*54C1CfBG2oxwPpi01t5BYw.jpeg)
+![](../assets/8b705edd4374/1*54C1CfBG2oxwPpi01t5BYw.jpeg)
 
 
 
-![Tents destroyed after the winds\.](assets/8b705edd4374/1*VGxFQbEXrRxrnlvFaISyRA.jpeg)
+![Tents destroyed after the winds\.](../assets/8b705edd4374/1*VGxFQbEXrRxrnlvFaISyRA.jpeg)
 
 Tents destroyed after the winds\.
 
 
-![](assets/8b705edd4374/1*1jt96VeexDJAQpZ-XaevHg.jpeg)
+![](../assets/8b705edd4374/1*1jt96VeexDJAQpZ-XaevHg.jpeg)
 
 #### Deportation stopped on Lesvos
 
@@ -132,7 +132,7 @@ In the meantime, about 150 people are still staying at the Croatian border askin
 ### ITALY
 
 
-![Photo Credit: Baobab Experience\. “A few days ago, the Guardia di Finanza \(Italian financial police\) tried to enter the building of Casapound in Rome to evict those living there\. Casapound has been squatting the building in the city center since 2003 with no consequences and the endorsement of authorities through the years, allowing close friends and family members of the militants to live there as well\. When Guardia di Finanza tried to enter the building, the militants told them: “if you enter, there will be a bloodbath”, forcing the militaries to back up\. On the other hand, Baobab is under the threat of eviction for being human\. Their reply here reads: “if you enter, there will be a sea of humanity”\.](assets/8b705edd4374/1*80V8t-SPjyKq4ml0VAJrIA.jpeg)
+![Photo Credit: Baobab Experience\. “A few days ago, the Guardia di Finanza \(Italian financial police\) tried to enter the building of Casapound in Rome to evict those living there\. Casapound has been squatting the building in the city center since 2003 with no consequences and the endorsement of authorities through the years, allowing close friends and family members of the militants to live there as well\. When Guardia di Finanza tried to enter the building, the militants told them: “if you enter, there will be a bloodbath”, forcing the militaries to back up\. On the other hand, Baobab is under the threat of eviction for being human\. Their reply here reads: “if you enter, there will be a sea of humanity”\.](../assets/8b705edd4374/1*80V8t-SPjyKq4ml0VAJrIA.jpeg)
 
 Photo Credit: Baobab Experience\. “A few days ago, the Guardia di Finanza \(Italian financial police\) tried to enter the building of Casapound in Rome to evict those living there\. Casapound has been squatting the building in the city center since 2003 with no consequences and the endorsement of authorities through the years, allowing close friends and family members of the militants to live there as well\. When Guardia di Finanza tried to enter the building, the militants told them: “if you enter, there will be a bloodbath”, forcing the militaries to back up\. On the other hand, Baobab is under the threat of eviction for being human\. Their reply here reads: “if you enter, there will be a sea of humanity”\.
 

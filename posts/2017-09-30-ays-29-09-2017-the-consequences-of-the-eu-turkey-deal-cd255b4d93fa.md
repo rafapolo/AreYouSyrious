@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 29/09/17: The consequences of the EU-Turkey deal
+title: "AYS Daily Digest 29/09/17: The consequences of the EU-Turkey deal"
 author: Are You Syrious?
 date: 2017-09-30T00:44:23.943+0100
 last_modified_at: 2017-09-30T10:18:17.898+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,turkey,greece,bulgaria,hungary]
 description: Dutch research team publishes assesment / Hospitals once again targeted in battle in Syria / Despite bad weather conditions arrivals to…
 image:
-  path: assets/cd255b4d93fa/1*OgP3ooRhyIYmUjJb_An-uQ.jpeg
+  path: ../assets/cd255b4d93fa/1*OgP3ooRhyIYmUjJb_An-uQ.jpeg
 ---
 
 ### AYS Daily Digest 29/09/17: The consequences of the EU\-Turkey deal
 #### _Dutch research team publishes assesment / Hospitals once again targeted in battle in Syria / Despite bad weather conditions arrivals to Greece continue / Bulgaria implements new law on freedom of movement / Hungarian government paid media for anti\-migration campaign_
 
 
-![Volunteers spotting boats in the North of Lesbos\. Credits: [Refugee Rescue / ‘Mo Chara’](https://www.facebook.com/RefugeeRescueUK/?ref=gs&fref=gs&hc_location=group_dialog)](assets/cd255b4d93fa/1*OgP3ooRhyIYmUjJb_An-uQ.jpeg)
+![Volunteers spotting boats in the North of Lesbos\. Credits: [Refugee Rescue / ‘Mo Chara’](https://www.facebook.com/RefugeeRescueUK/?ref=gs&fref=gs&hc_location=group_dialog)](../assets/cd255b4d93fa/1*OgP3ooRhyIYmUjJb_An-uQ.jpeg)
 
 Volunteers spotting boats in the North of Lesbos\. Credits: [Refugee Rescue / ‘Mo Chara’](https://www.facebook.com/RefugeeRescueUK/?ref=gs&fref=gs&hc_location=group_dialog)
 ### Feature: The consequences of the EU\-Turkey deal
@@ -113,7 +113,7 @@ In Gorizia some 50 people slept rough\. The night before it had been 44\.
 The situation in Pordenone is similarily bad\. Here around 50 people, with all the necessary papers to enter the hub, are on a waiting list\. The waiting time can be up to one month and more; hence they are forced to sleep on the streets\.
 
 
-![Nowhere to go in Pordenone\. Credits: [Lorena Fornasir](https://www.facebook.com/lorena.fornasir)](assets/cd255b4d93fa/1*fxtCForYQjxWJ_maeB158A.jpeg)
+![Nowhere to go in Pordenone\. Credits: [Lorena Fornasir](https://www.facebook.com/lorena.fornasir)](../assets/cd255b4d93fa/1*fxtCForYQjxWJ_maeB158A.jpeg)
 
 Nowhere to go in Pordenone\. Credits: [Lorena Fornasir](https://www.facebook.com/lorena.fornasir)
 ### Spain
@@ -124,7 +124,7 @@ In a [letter](http://www.eldiario.es/desalambre/Policia-dignidad-internos-CIE-Ma
 The 29th of September in Germany marked the day of the refugee\. On that occasion, Pro Asyl published a statement with demands to the \(newly elected\) government: the association urges the government not to implement an EU\-wide admissibility procedure for asylum seekers, as this would preclude them from an individual procedure\. Furthermore, they criticize the plans to abolish deadlines, for example for Dublin push\-backs\. Pro Asyl demands that family reunions be conducted on time, an end to readmission deals like the one with Turkey, a guarantee of fair processes and an end to deportations to Afghanistan\. The full statement can be found on their [homepage](https://www.proasyl.de/news/fluechtlingsrechte-sind-menschenrechte-was-geschehen-muss/) \(only in German\) \.
 
 
-![Pro Asyl demands to reunite the families from Greece to Germany\. Credits: [Mobile Info Team for refugees in Greece](https://www.facebook.com/mobileinfoteam/?hc_ref=ARSmqziWmAlEYGtmf5YnkQ4ZH7wK4BAOaLzSMcpdftR7vV5wzfAyxTM3SBUgFg5Za2E&fref=nf)](assets/cd255b4d93fa/1*5bYOtGZdVDfpfYamR4yVuA.jpeg)
+![Pro Asyl demands to reunite the families from Greece to Germany\. Credits: [Mobile Info Team for refugees in Greece](https://www.facebook.com/mobileinfoteam/?hc_ref=ARSmqziWmAlEYGtmf5YnkQ4ZH7wK4BAOaLzSMcpdftR7vV5wzfAyxTM3SBUgFg5Za2E&fref=nf)](../assets/cd255b4d93fa/1*5bYOtGZdVDfpfYamR4yVuA.jpeg)
 
 Pro Asyl demands to reunite the families from Greece to Germany\. Credits: [Mobile Info Team for refugees in Greece](https://www.facebook.com/mobileinfoteam/?hc_ref=ARSmqziWmAlEYGtmf5YnkQ4ZH7wK4BAOaLzSMcpdftR7vV5wzfAyxTM3SBUgFg5Za2E&fref=nf)
 

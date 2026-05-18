@@ -1,5 +1,5 @@
 ---
-title: AYS Special: Rough road from Serbia to Bosnia
+title: "AYS Special: Rough road from Serbia to Bosnia"
 author: Are You Syrious?
 date: 2018-05-19T08:51:47.684+0100
 last_modified_at: 2018-05-19T08:51:47.684+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,special,bosnia-and-herzegovina,sarajevo]
 description: More and more people are arriving from Serbia to Bosnia saying that there was no help and no future to be found in that country. People who…
 image:
-  path: assets/f18b106d8e5d/1*ZXjlCwkPSMiDKsp5TbK0dA.jpeg
+  path: ../assets/f18b106d8e5d/1*ZXjlCwkPSMiDKsp5TbK0dA.jpeg
 ---
 
 ### AYS Special: Rough road from Serbia to Bosnia
 #### **More and more people are arriving from Serbia to Bosnia saying that there was no help and no future to be found in that country\. People who are coming are broke as well as exhausted after years on the road\. At the same time as the EU borders are closed, Bosnia is called “a country of transit”\. But for Soad and Hassan, who are some of the 3500 people who have come here this year, staying not necessarily has to be an unimaginable scenario\. “People are kind in Bosnia\. It is a good country — it has peace\. That is all we want”, Hassan told AYS\.**
 
 
-![Soad and Hassan came to Bosnia together from Serbia\. No one of them know what the next step will be\. Photo: AYS](assets/f18b106d8e5d/1*ZXjlCwkPSMiDKsp5TbK0dA.jpeg)
+![Soad and Hassan came to Bosnia together from Serbia\. No one of them know what the next step will be\. Photo: AYS](../assets/f18b106d8e5d/1*ZXjlCwkPSMiDKsp5TbK0dA.jpeg)
 
 Soad and Hassan came to Bosnia together from Serbia\. No one of them know what the next step will be\. Photo: AYS
 
@@ -29,7 +29,7 @@ Her arm has been bothering her since the winter when she fell hard on the ground
 “I ran away from Macedonian people at the border with Serbia\. It was five or six of them, all young men\. Local people are sometimes hunting down and robbing refugees when we try to cross the border\. I got away, and the smuggler drove me to a hospital in Belgrade\. But the doctor did not do anything”, Soad says\.
 
 
-![Since Soad was chased down at the border between Macedonia and Serbia, she no longer can use her left arm as she used to\. It broke, and due to lack of healthcare it has healed badly\. Photo: AYS](assets/f18b106d8e5d/1*acZ2JA1Dkol1hsX1fBkYQQ.jpeg)
+![Since Soad was chased down at the border between Macedonia and Serbia, she no longer can use her left arm as she used to\. It broke, and due to lack of healthcare it has healed badly\. Photo: AYS](../assets/f18b106d8e5d/1*acZ2JA1Dkol1hsX1fBkYQQ.jpeg)
 
 Since Soad was chased down at the border between Macedonia and Serbia, she no longer can use her left arm as she used to\. It broke, and due to lack of healthcare it has healed badly\. Photo: AYS
 #### **The road to Bosnia**
@@ -43,7 +43,7 @@ After three failed attempts, they decided to try and move on to Bosnia\. After a
 “He became violent and pushed the men\. \(The\) children started crying and were afraid\. My wife Tahani did not want to give \(the smuggler\) more money as we do not have much left, but we had to\. So I gave him 150 euro more”, Hassan explains\.
 
 
-![Hassan, from Damascus, never expected to end up in Bosnia\. But he could imagine staying here, if he got the chance\. The most important thing for him is a safe future for his wife and their three children\. Photo: AYS](assets/f18b106d8e5d/1*-ZPnoA6odXoKAac6VagJEA.jpeg)
+![Hassan, from Damascus, never expected to end up in Bosnia\. But he could imagine staying here, if he got the chance\. The most important thing for him is a safe future for his wife and their three children\. Photo: AYS](../assets/f18b106d8e5d/1*-ZPnoA6odXoKAac6VagJEA.jpeg)
 
 Hassan, from Damascus, never expected to end up in Bosnia\. But he could imagine staying here, if he got the chance\. The most important thing for him is a safe future for his wife and their three children\. Photo: AYS
 
@@ -63,7 +63,7 @@ But no one could take her there, the doctor in the camp had no car and yelled �
 UNHCR told Hassan that they could not help or do something since the Serbian government did not give them an allowance to do more than provide with food and a place to sleep\. During the winter they had no hot water for 20 days, also this due to lack of resources, according to the staff Hassan asked\.
 
 
-![A courtyard, a sunny day, laundry is drying and people are doing their best to make the best out of a situation they never expected\. Photo: AYS](assets/f18b106d8e5d/1*Jdog_7GlGONuXjAudxkzOA.jpeg)
+![A courtyard, a sunny day, laundry is drying and people are doing their best to make the best out of a situation they never expected\. Photo: AYS](../assets/f18b106d8e5d/1*Jdog_7GlGONuXjAudxkzOA.jpeg)
 
 A courtyard, a sunny day, laundry is drying and people are doing their best to make the best out of a situation they never expected\. Photo: AYS
 #### Giving birth to a child
@@ -79,7 +79,7 @@ The nurses at the hospital did not speak English and there was no translator pre
 Instead, she says at the same time as she looks down with tearful eyes, she used her headscarf to stop the bleeding\.
 
 
-![The young woman had another daughter from before they left Afghanistan\. Photo: AYS](assets/f18b106d8e5d/1*fhLuVydljNx0FTJhp-fWUg.jpeg)
+![The young woman had another daughter from before they left Afghanistan\. Photo: AYS](../assets/f18b106d8e5d/1*fhLuVydljNx0FTJhp-fWUg.jpeg)
 
 The young woman had another daughter from before they left Afghanistan\. Photo: AYS
 #### **Locals helping out**

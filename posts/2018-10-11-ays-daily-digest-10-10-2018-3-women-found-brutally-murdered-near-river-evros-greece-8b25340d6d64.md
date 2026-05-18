@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 10/10/2018: 3 Women Found Brutally Murdered Near River Evros, Greece
+title: "AYS Daily Digest 10/10/2018: 3 Women Found Brutally Murdered Near River Evros, Greece"
 author: Are You Syrious?
 date: 2018-10-11T11:07:37.513+0100
 last_modified_at: 2018-10-11T12:59:01.851+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,greece,digest,human-rights]
 description: 9 Dead and 25 Missing after Boat Capsizes near Turkey// Syrian Humanitarian Crisis to Continue for years// 14 Children Dead as…
 image:
-  path: assets/8b25340d6d64/1*FtvxDvZhbgRiwUaYjTLpsg.jpeg
+  path: ../assets/8b25340d6d64/1*FtvxDvZhbgRiwUaYjTLpsg.jpeg
 ---
 
 ### AYS Daily Digest 10/10/2018: 3 Women Found Brutally Murdered Near River Evros, Greece
 #### 9 Dead and 25 Missing after Boat Capsizes off Turkish Coast // Syrian Humanitarian Crisis to Continue Well Beyond 2019// 14 Children Dead as Humanitarian Assistance is Cut in Rukban Camp, Jordan // Serbia Re\-Introduces Mandatory Visas for Iranian Citizens// Chez Jesus Refugee Shelter Evicted and Destroyed by Italian Police// MSF forced to Suspend Mental Health Services on Nauru
 
 
-![Photo by [Gabriel Tizon](https://www.facebook.com/gabrieltizonfotografo/photos/)](assets/8b25340d6d64/1*FtvxDvZhbgRiwUaYjTLpsg.jpeg)
+![Photo by [Gabriel Tizon](https://www.facebook.com/gabrieltizonfotografo/photos/)](../assets/8b25340d6d64/1*FtvxDvZhbgRiwUaYjTLpsg.jpeg)
 
 Photo by [Gabriel Tizon](https://www.facebook.com/gabrieltizonfotografo/photos/)
 #### FEATURE:
@@ -52,7 +52,7 @@ It is reported that approximately 12–13 million Syrians, half of whom are inte
 It is reported that 14 children have died in Rukban camp in Jordan at the border with Syria\. The UN are being criticized for not supplying the camp with food\. NGO access has been banned in the region and the camp is surrounded by Iranian, Russian, Syrian and US armed forces\.
 
 
-![](assets/8b25340d6d64/1*60ruj4Mjkz_6Tny1aEKahw.jpeg)
+![](../assets/8b25340d6d64/1*60ruj4Mjkz_6Tny1aEKahw.jpeg)
 
 
 
@@ -118,15 +118,15 @@ Since the introduction of the visa\-free agreement in August 2017, which was put
 **Still images of the evacuation of the shelter, devastated by the cops**
 
 
-![](assets/8b25340d6d64/1*l5WMcXZCUcPaRNjuXIspcQ.jpeg)
+![](../assets/8b25340d6d64/1*l5WMcXZCUcPaRNjuXIspcQ.jpeg)
 
 
 
-![](assets/8b25340d6d64/1*UC99SM55bLeGnbFpfNb2zg.jpeg)
+![](../assets/8b25340d6d64/1*UC99SM55bLeGnbFpfNb2zg.jpeg)
 
 
 
-![](assets/8b25340d6d64/1*hjCvuC_ryhfYqxBswIfpxA.jpeg)
+![](../assets/8b25340d6d64/1*hjCvuC_ryhfYqxBswIfpxA.jpeg)
 
 #### FRANCE
 #### A valuable tool for those wanting to assist refugees on the ground in Paris

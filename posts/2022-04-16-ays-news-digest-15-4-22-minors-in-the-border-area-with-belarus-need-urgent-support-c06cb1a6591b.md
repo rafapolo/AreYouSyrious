@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 15/4/22: Minors in the border area with Belarus need urgent support
+title: "AYS News Digest 15/4/22: Minors in the border area with Belarus need urgent support"
 author: Are You Syrious?
 date: 2022-04-16T19:49:14.461+0100
 last_modified_at: 2022-04-17T20:06:22.119+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,belarus,refugees,children,europe]
 description: BAMF ordered the examination of the more than 43.000 pending asylum applications / Pushbacks continue in the south of Spain / Is Danish…
 image:
-  path: assets/c06cb1a6591b/0*oOYFXfkAfSfKqkc2
+  path: ../assets/c06cb1a6591b/0*oOYFXfkAfSfKqkc2
 ---
 
 ### AYS News Digest 15/4/22: Minors in the border area with Belarus need urgent support
 #### BAMF ordered the examination of the more than 43\.000 pending asylum applications / Pushbacks continue in the south of Spain / Is Danish externalization compatible with adequate refugee protection? / podcasts, interviews and reading recommendations \+ more news
 
 
-![Photo: [worldsbetweenlines](https://unsplash.com/@worldsbetweenlines)](assets/c06cb1a6591b/0*oOYFXfkAfSfKqkc2)
+![Photo: [worldsbetweenlines](https://unsplash.com/@worldsbetweenlines)](../assets/c06cb1a6591b/0*oOYFXfkAfSfKqkc2)
 
 Photo: [worldsbetweenlines](https://unsplash.com/@worldsbetweenlines)
 
@@ -60,12 +60,12 @@ Grupa Granica once again reported that he has not received any help in the meant
 ### Thessaloniki protest against evictions \(photo\)
 
 
-![Photos: [Land & Freedom](https://twitter.com/laf_portal)](assets/c06cb1a6591b/0*1w8kwzOHbdgZ9lx5)
+![Photos: [Land & Freedom](https://twitter.com/laf_portal)](../assets/c06cb1a6591b/0*1w8kwzOHbdgZ9lx5)
 
 Photos: [Land & Freedom](https://twitter.com/laf_portal)
 
 
-![](assets/c06cb1a6591b/0*UdnY9OCK8u571D41)
+![](../assets/c06cb1a6591b/0*UdnY9OCK8u571D41)
 
 #### SERBIA
 ### Violent pushbacks from Hungary continue
@@ -73,7 +73,7 @@ Photos: [Land & Freedom](https://twitter.com/laf_portal)
 At the border with Hungary, people on the move are again reporting violence by the Hungarian border police against them, KlikAktiv reports\.
 
 
-![[Klikaktiv — Centar za razvoj socijalnih politika](https://web.facebook.com/klikaktiv/?__tn__=-UC*F)](assets/c06cb1a6591b/0*FesSXU6e0zvA3jKB)
+![[Klikaktiv — Centar za razvoj socijalnih politika](https://web.facebook.com/klikaktiv/?__tn__=-UC*F)](../assets/c06cb1a6591b/0*FesSXU6e0zvA3jKB)
 
 [Klikaktiv — Centar za razvoj socijalnih politika](https://web.facebook.com/klikaktiv/?__tn__=-UC*F)
 
@@ -85,7 +85,7 @@ At the border with Hungary, people on the move are again reporting violence by t
 
 
 
-![](assets/c06cb1a6591b/0*HsilF3Bk0VMTKI4T)
+![](../assets/c06cb1a6591b/0*HsilF3Bk0VMTKI4T)
 
 #### THE SEA
 
@@ -133,19 +133,19 @@ Organisations active in the field in northern France demand a stop to the hypocr
 
 
 
-![](assets/c06cb1a6591b/1*hcTJmtK6Ck0Immi-pdE5Yw.jpeg)
+![](../assets/c06cb1a6591b/1*hcTJmtK6Ck0Immi-pdE5Yw.jpeg)
 
 
 
-![](assets/c06cb1a6591b/1*VpXRE4x7c9sI8w0_kjYBHg.png)
+![](../assets/c06cb1a6591b/1*VpXRE4x7c9sI8w0_kjYBHg.png)
 
 
 
-![](assets/c06cb1a6591b/1*BnVBzFul3AYSkaeZ4INgHw.png)
+![](../assets/c06cb1a6591b/1*BnVBzFul3AYSkaeZ4INgHw.png)
 
 
 
-![by [Solidarité migrants Wilson](https://web.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__cft__[0]=AZVxbP-Fn0cLNC6olC1BBIY9p3Xmjd2mWoTAOImeh-xiRg5U7k7i52AAk99HMXnjJQtHaPwNyr7iUXA0K-Lo6gmiHxdKsZ_Ry8diXk3x8tLaRI3pZIJRtb_vLa5UVXgjqlyComvg2EeqJWsWe-AvDlWp78A9_hJmQBWJ-KK1-ubDiNN1JT5pHJ6PMmF1M1mJri745HUgGxGu2sxJBy8ej2ek&__tn__=-UC%2CP-y-R)](assets/c06cb1a6591b/1*ZFuvGjnrS4bbUC17H5xD6w.jpeg)
+![by [Solidarité migrants Wilson](https://web.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__cft__[0]=AZVxbP-Fn0cLNC6olC1BBIY9p3Xmjd2mWoTAOImeh-xiRg5U7k7i52AAk99HMXnjJQtHaPwNyr7iUXA0K-Lo6gmiHxdKsZ_Ry8diXk3x8tLaRI3pZIJRtb_vLa5UVXgjqlyComvg2EeqJWsWe-AvDlWp78A9_hJmQBWJ-KK1-ubDiNN1JT5pHJ6PMmF1M1mJri745HUgGxGu2sxJBy8ej2ek&__tn__=-UC%2CP-y-R)](../assets/c06cb1a6591b/1*ZFuvGjnrS4bbUC17H5xD6w.jpeg)
 
 by [Solidarité migrants Wilson](https://web.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__cft__[0]=AZVxbP-Fn0cLNC6olC1BBIY9p3Xmjd2mWoTAOImeh-xiRg5U7k7i52AAk99HMXnjJQtHaPwNyr7iUXA0K-Lo6gmiHxdKsZ_Ry8diXk3x8tLaRI3pZIJRtb_vLa5UVXgjqlyComvg2EeqJWsWe-AvDlWp78A9_hJmQBWJ-KK1-ubDiNN1JT5pHJ6PMmF1M1mJri745HUgGxGu2sxJBy8ej2ek&__tn__=-UC%2CP-y-R)
 #### SPAIN
@@ -175,7 +175,7 @@ Read [more](https://digit.site36.net/2022/04/14/frontex-migration-control-from-s
 #### WORTH READING & WATCHING
 
 
-[![Video: Life in Bosnia's Lipa camp a year after the fire](assets/c06cb1a6591b/88ba_hqdefault.jpg "Video: Life in Bosnia's Lipa camp a year after the fire")](https://www.youtube.com/watch?v=PksL7iSOn5c)
+[![Video: Life in Bosnia's Lipa camp a year after the fire](../assets/c06cb1a6591b/88ba_hqdefault.jpg "Video: Life in Bosnia's Lipa camp a year after the fire")](https://www.youtube.com/watch?v=PksL7iSOn5c)
 
 
 

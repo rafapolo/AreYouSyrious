@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,italy,greece-travels,libya,digest]
 description: New arrivals in Greece// demands for closures of Libyan dentention centre// cyber attack on sea rescue NGO// items needed in Italy…
 image:
-  path: assets/7089e43dadd5/1*T7bKzV465p45b_ybU7hCFg.jpeg
+  path: ../assets/7089e43dadd5/1*T7bKzV465p45b_ybU7hCFg.jpeg
 ---
 
 ### AYS Daily Digest 18/7/19 Carola Rackete’s Interrogation on Thursday
@@ -54,7 +54,7 @@ In commenting on her interrogation on Thursday, [Sea Watch](https://twitter.com/
 #### “Our Captian is serene and will explain to investigators how she has fulfilled her duty to rescue those found at sea and \(was\) left to it by the whole of Europe\.”
 
 
-![Photo provided by [Roger Torrent](https://twitter.com/rogertorrent/status/1151175256675180546)](assets/7089e43dadd5/1*T7bKzV465p45b_ybU7hCFg.jpeg)
+![Photo provided by [Roger Torrent](https://twitter.com/rogertorrent/status/1151175256675180546)](../assets/7089e43dadd5/1*T7bKzV465p45b_ybU7hCFg.jpeg)
 
 Photo provided by [Roger Torrent](https://twitter.com/rogertorrent/status/1151175256675180546)
 ### Libya
@@ -103,12 +103,12 @@ Third boat → 17 people \(five children, five women, and seven men\)
 Baobab Experience is collecting the items listed below \(find translatable link [here](https://www.facebook.com/BaobabExperience/photos/a.855775474499206/2276107892465950/?type=3&theater) \) Saturday 20 July, from 10:00 am to 12:00 noon, in via Della Marsica, 15 Rome\.
 
 
-![Photo by Baobab Experience](assets/7089e43dadd5/1*CAM-9pI_TI1vgvbXYO5T-g.jpeg)
+![Photo by Baobab Experience](../assets/7089e43dadd5/1*CAM-9pI_TI1vgvbXYO5T-g.jpeg)
 
 Photo by Baobab Experience
 
 
-![Rete Solidale Pordenone is expressing their frustration towards the nature of forcibly removing migrants in Italy and the ambiguous nature of residency permits\. Learn more [here](https://www.facebook.com/retesolidalepn/posts/2369104000037079?__xts__%5B0%5D=68.ARANMAt9X8hBVCiZRlplPBj8_JnNEEDS0xjpzXVoBKO9tffzwaHyoDZf47OAdasIUvyNg-epVU4lKOSJZ4bfrivDULzWW4rM9vZYRzmHsqxG2ryDVhMfttgTwO_65kzeMIpnmNnWNdGkjuYDlipBFYq2tXyYmRLKknQz_2N6PTMuE-H2ja64VhaYYgra7E-7U4IqqR2tbMxJBeX6uI6QBjebHtZ9QZtJ1DXdc0vuQ4deaYbP3ZDk7odXDPAaTcTNRxl1Qn_Hv9fhzalnh5VdBNncyFBh4pOZXOF-n_-kdg3AUJcYkfhoa_TRYL-XuxnAiUpkTtxfGZW6P_9f-KDIc2YNZGkB&__tn__=-R) \.](assets/7089e43dadd5/1*2-U3yZKFjp1aAoDYVQaDYA.jpeg)
+![Rete Solidale Pordenone is expressing their frustration towards the nature of forcibly removing migrants in Italy and the ambiguous nature of residency permits\. Learn more [here](https://www.facebook.com/retesolidalepn/posts/2369104000037079?__xts__%5B0%5D=68.ARANMAt9X8hBVCiZRlplPBj8_JnNEEDS0xjpzXVoBKO9tffzwaHyoDZf47OAdasIUvyNg-epVU4lKOSJZ4bfrivDULzWW4rM9vZYRzmHsqxG2ryDVhMfttgTwO_65kzeMIpnmNnWNdGkjuYDlipBFYq2tXyYmRLKknQz_2N6PTMuE-H2ja64VhaYYgra7E-7U4IqqR2tbMxJBeX6uI6QBjebHtZ9QZtJ1DXdc0vuQ4deaYbP3ZDk7odXDPAaTcTNRxl1Qn_Hv9fhzalnh5VdBNncyFBh4pOZXOF-n_-kdg3AUJcYkfhoa_TRYL-XuxnAiUpkTtxfGZW6P_9f-KDIc2YNZGkB&__tn__=-R) \.](../assets/7089e43dadd5/1*2-U3yZKFjp1aAoDYVQaDYA.jpeg)
 
 Rete Solidale Pordenone is expressing their frustration towards the nature of forcibly removing migrants in Italy and the ambiguous nature of residency permits\. Learn more [here](https://www.facebook.com/retesolidalepn/posts/2369104000037079?__xts__%5B0%5D=68.ARANMAt9X8hBVCiZRlplPBj8_JnNEEDS0xjpzXVoBKO9tffzwaHyoDZf47OAdasIUvyNg-epVU4lKOSJZ4bfrivDULzWW4rM9vZYRzmHsqxG2ryDVhMfttgTwO_65kzeMIpnmNnWNdGkjuYDlipBFYq2tXyYmRLKknQz_2N6PTMuE-H2ja64VhaYYgra7E-7U4IqqR2tbMxJBeX6uI6QBjebHtZ9QZtJ1DXdc0vuQ4deaYbP3ZDk7odXDPAaTcTNRxl1Qn_Hv9fhzalnh5VdBNncyFBh4pOZXOF-n_-kdg3AUJcYkfhoa_TRYL-XuxnAiUpkTtxfGZW6P_9f-KDIc2YNZGkB&__tn__=-R) \.
 ### We’re open to expanding our team of volunteer researchers, editors, and info gatherers\. Get in touch\!

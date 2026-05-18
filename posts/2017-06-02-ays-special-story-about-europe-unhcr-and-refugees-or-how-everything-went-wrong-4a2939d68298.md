@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Story about Europe, UNHCR and refugees or how everything went wrong
+title: "AYS SPECIAL: Story about Europe, UNHCR and refugees or how everything went wrong"
 author: Are You Syrious?
 date: 2017-06-02T09:25:38.867+0100
 last_modified_at: 2018-03-01T14:13:18.858+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,unhcr,anwar,athens,special]
 description: Anwar Nillufary (31) is Iranian Kurd, engineer, is camping outside the UNHC building in Athens for the past 60 days. He is in a hunger…
 image:
-  path: assets/4a2939d68298/1*x90wQSVQUKgjVVE_aUbOYg.jpeg
+  path: ../assets/4a2939d68298/1*x90wQSVQUKgjVVE_aUbOYg.jpeg
 ---
 
 ### AYS SPECIAL: Story about Europe, UNHCR and refugees or how everything went wrong
@@ -15,7 +15,7 @@ image:
 _Anwar Nillufary \(31\) is Iranian Kurd, engineer, is camping outside the UNHC building in Athens for the past 60 days\. He is in a hunger strike asking resettlement and protesting the lack of protection for refugees\. Doctors warned him to stop the strike, but he is determinate to continue until somebody answers his demands\. He has a legal status in Greece, but, like tens of thousands of others, has nothing else\. This is his story, but at the same time, the story of refugees in Greece today_
 
 
-![](assets/4a2939d68298/1*x90wQSVQUKgjVVE_aUbOYg.jpeg)
+![](../assets/4a2939d68298/1*x90wQSVQUKgjVVE_aUbOYg.jpeg)
 
 
 **Officially, I am a refugee**
@@ -59,7 +59,7 @@ As they were just sending me back to the office of the United Nations Refugee Ag
 All those hypocrisies and bureaucracies finally led me to come up with a decision to make a hunger strike in front of UNHCR office in Athens, Greece\. Yet despite 58\-days of a none breaking hunger strike still this office of UNHCR neither wants to help me submit my resettlement application from this office nor wants to direct me to another UNHCR office In/Outside of Europe which does resettlement\.
 
 
-![](assets/4a2939d68298/1*jVR2TYMVLBsLBUZvwrW_7w.png)
+![](../assets/4a2939d68298/1*jVR2TYMVLBsLBUZvwrW_7w.png)
 
 
 Refugees even in possession of the legal status still are not allowed to apply for resettlement on their own\. The office of the United Nations Refugee Agency, which is globally in charge of protecting refugees and finding them durable and sustainable solution\. Yet it doesn’t seem that they are doing anything good for refugees\. In fact, the same organization which is making fame and money out of human suffering has become an obsolete, uncaring, reckless and irresponsible one which lost its very prime purposes, selling out all refugees, turning blind eyes to their suffering to sever government’s interests which are finding themselves in inflicting pain and suffering on defenses people\.

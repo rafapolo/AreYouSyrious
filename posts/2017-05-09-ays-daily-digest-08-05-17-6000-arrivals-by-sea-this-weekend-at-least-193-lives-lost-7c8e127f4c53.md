@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 08/05/17: 6000 arrivals by sea this weekend, at least 193 lives lost
+title: "AYS Daily Digest 08/05/17: 6000 arrivals by sea this weekend, at least 193 lives lost"
 author: Are You Syrious?
 date: 2017-05-09T01:58:52.834+0100
 last_modified_at: 2017-05-09T02:01:05.450+0100
@@ -7,7 +7,7 @@ categories:
 tags: [italy,refugees,refugeeswelcome,asylum-seekers,european-union]
 description: Previously unheard audio of a 2013 sinking boat call in the Mediterranean / Evacuation of fighters from Barzeh started / Update on Belgrade…
 image:
-  path: assets/7c8e127f4c53/1*ptXthWDL1_NY3en2KLcaBg.jpeg
+  path: ../assets/7c8e127f4c53/1*ptXthWDL1_NY3en2KLcaBg.jpeg
 ---
 
 ### AYS Daily Digest 08/05/17: 6000 arrivals by sea this weekend, at least 193 lives lost
@@ -15,7 +15,7 @@ image:
 _Previously unheard audio of a 2013 sinking boat call in the Mediterranean / Evacuation of fighters from Barzeh started / Update on Belgrade barracks demolition / Right wing group attacks solidarity manifestation in Stockholm / Info from Greece and more_
 
 
-![source [Sea\-Watch](https://www.facebook.com/seawatchprojekt/)](assets/7c8e127f4c53/1*YiFZGXrt9oLbZ9fGFfS1Ow.jpeg)
+![source [Sea\-Watch](https://www.facebook.com/seawatchprojekt/)](../assets/7c8e127f4c53/1*YiFZGXrt9oLbZ9fGFfS1Ow.jpeg)
 
 source [Sea\-Watch](https://www.facebook.com/seawatchprojekt/)
 #### Mediterranean sea during the past weekend
@@ -137,20 +137,20 @@ House of Humanity is a project for establishing a safe space for refugees living
 Items are needed now to set up a Cafè, see how you can help [here](https://www.facebook.com/Humans4HumanityOrg/posts/1731372466889957?hc_location=ufi) \.
 
 
-![](assets/7c8e127f4c53/1*5coX1CrPeWJGoQIZiK3q2A.jpeg)
+![](../assets/7c8e127f4c53/1*5coX1CrPeWJGoQIZiK3q2A.jpeg)
 
 
 
-![](assets/7c8e127f4c53/1*-ijivAbLBckrfpoj7DKk9w.jpeg)
+![](../assets/7c8e127f4c53/1*-ijivAbLBckrfpoj7DKk9w.jpeg)
 
 
 
-![photo source: Rafat Al\-hamoud](assets/7c8e127f4c53/1*ptXthWDL1_NY3en2KLcaBg.jpeg)
+![photo source: Rafat Al\-hamoud](../assets/7c8e127f4c53/1*ptXthWDL1_NY3en2KLcaBg.jpeg)
 
 photo source: Rafat Al\-hamoud
 
 
-![](assets/7c8e127f4c53/1*Wbw_aaBvSAjmF8O4-SuWYw.jpeg)
+![](../assets/7c8e127f4c53/1*Wbw_aaBvSAjmF8O4-SuWYw.jpeg)
 
 
 There were 44 new registrations on Samos today making a total of 233 over this weekend \(Sat\-Mon\) \.
@@ -166,11 +166,11 @@ The barracks where the refugees live in the centre of Belgrade will all be demol
 No Name Kitchen working on the spot issued a [statement](https://www.facebook.com/NoNameKitchenBelgrade/posts/355090564889234?hc_location=ufi) concerning the situation\.
 
 
-![](assets/7c8e127f4c53/1*OBo_kUiRCl-6huMR-DCPAA.jpeg)
+![](../assets/7c8e127f4c53/1*OBo_kUiRCl-6huMR-DCPAA.jpeg)
 
 
 
-![Residents from the barracks at the Chai Park getting to the bus to go to their designated camps, after realising this is their only chance, photo source No Name Kitchen](assets/7c8e127f4c53/1*Dd-DXJ1-JmrUl6suq-K-aQ.jpeg)
+![Residents from the barracks at the Chai Park getting to the bus to go to their designated camps, after realising this is their only chance, photo source No Name Kitchen](../assets/7c8e127f4c53/1*Dd-DXJ1-JmrUl6suq-K-aQ.jpeg)
 
 Residents from the barracks at the Chai Park getting to the bus to go to their designated camps, after realising this is their only chance, photo source No Name Kitchen
 
@@ -223,7 +223,7 @@ The Swiss public may get the chance to vote against the country’s adherence to
 #### London — temporary accommodation needed urgently
 
 
-![](assets/7c8e127f4c53/1*z2TDRWLirWjBCNnXyVfUog.jpeg)
+![](../assets/7c8e127f4c53/1*z2TDRWLirWjBCNnXyVfUog.jpeg)
 
 #### SWEDEN
 

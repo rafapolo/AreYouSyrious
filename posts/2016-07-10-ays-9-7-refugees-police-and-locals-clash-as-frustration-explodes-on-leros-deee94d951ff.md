@@ -5,9 +5,9 @@ date: 2016-07-10T00:11:13.650+0100
 last_modified_at: 2016-07-10T11:58:06.831+0100
 categories: 
 tags: [refugees,europe,clashes,right-wing,greece]
-description: Leros: from war zone to war zone. Syria: “We are nothing but bugs being crushed and the world has abandoned us.” Starfish Foundation helps…
+description: "Leros: from war zone to war zone. Syria: “We are nothing but bugs being crushed and the world has abandoned us.” Starfish Foundation helps…"
 image:
-  path: assets/deee94d951ff/1*L3lIjtS1IAPhHYi9OH-tbw.jpeg
+  path: ../assets/deee94d951ff/1*L3lIjtS1IAPhHYi9OH-tbw.jpeg
 ---
 
 ### AYS 9/7 Refugees, police and locals clash as frustration explodes on Leros
@@ -15,7 +15,7 @@ image:
 Leros: from war zone to war zone\. Syria: “We are nothing but bugs being crushed and the world has abandoned us\.” Starfish Foundation helps narrowly avert disaster in Ristona with water\. Refugees and activists sit\-in in Athens\. Thessaloniki refugees in need of support\. Italian organization Baobab and government continue back\-and\-forth\. Bulgarian asylum numbers increase\. UN Decries Hungarian refugee policy\. Border camps squalid\. Calais NOT closed and needs help\. Iceland makes returnee regulation revisions\.
 
 
-![](assets/deee94d951ff/1*L3lIjtS1IAPhHYi9OH-tbw.jpeg)
+![](../assets/deee94d951ff/1*L3lIjtS1IAPhHYi9OH-tbw.jpeg)
 
 #### Leros, GREECE
 ### From war zone to war zone\.
@@ -25,31 +25,31 @@ The aftermath of Thursday’s events only showcased the terrifying and dangerous
 In retaliation for [the tension and disruptions](https://medium.com/@AreYouSyrious/ays-8-7-fear-of-more-violence-in-cherso-and-leros-refugees-beaten-in-hungary-1414ba1431ce#.5fhfgc856) on Thursday, police isolated all Syrian refugees in the camp, locking them in the camp and threatening them, demanding to know the responsible culprits for Thursday’s events\. Despite reports from residents of the camp saying that Syrians were not responsible for the dramatic events, police activity only heightened tension within the camp, where people weren’t fed since Thursday’s riots\. As a result, the Yazidis in the camp, who are regularly targeted during tense situations, decided to evacuate\. Over one hundred men, women, and children headed to the port at Lakki\. However, the day had more horror in store\.
 
 
-![](assets/deee94d951ff/1*4FwRNvivlXgGI0VG7HsALA.jpeg)
+![](../assets/deee94d951ff/1*4FwRNvivlXgGI0VG7HsALA.jpeg)
 
 
 
-![Yazidis leaving the camp and arriving in town\.](assets/deee94d951ff/1*vw2Jx6ZVvg6ZQ6FIhXN_cQ.jpeg)
+![Yazidis leaving the camp and arriving in town\.](../assets/deee94d951ff/1*vw2Jx6ZVvg6ZQ6FIhXN_cQ.jpeg)
 
 Yazidis leaving the camp and arriving in town\.
 
 During their flight, the Yazidis were targeted, being attacked by a group\. There are conflicting reports of who the attackers are — if they are police or citizens\. However, what does remain clear are the bruises and injuries sustained by men, children, women, even pregnant women\. Below you can see the injuries sustained by those involved in the clashes
 
 
-![](assets/deee94d951ff/1*ct4GI4Sw_ymRBZst0AHAOg.jpeg)
+![](../assets/deee94d951ff/1*ct4GI4Sw_ymRBZst0AHAOg.jpeg)
 
 
 
-![All photos courtesy of Advocates Abroad](assets/deee94d951ff/1*aFwgQUwitiei14xp_fuN4Q.jpeg)
+![All photos courtesy of Advocates Abroad](../assets/deee94d951ff/1*aFwgQUwitiei14xp_fuN4Q.jpeg)
 
 All photos courtesy of Advocates Abroad
 
 
-![](assets/deee94d951ff/1*ORWHw0JOVuO5nRGobKcGog.jpeg)
+![](../assets/deee94d951ff/1*ORWHw0JOVuO5nRGobKcGog.jpeg)
 
 
 
-![](assets/deee94d951ff/1*vHeF_YIz3qcPplhWawEDZQ.jpeg)
+![](../assets/deee94d951ff/1*vHeF_YIz3qcPplhWawEDZQ.jpeg)
 
 
 Eventually, the group was returned to the camp\. This is video of the unrest\.
@@ -86,7 +86,7 @@ What else can be said\. Doctors from SAMS USA report further casualties today in
 The initial delivery was voluntary, based on reports of inadequate water supplies to help residents cope with the searing summer heat\. Starfish Foundation sent 15 pallets of water, which were greatly welcomed\. So greatly welcomed, in fact, that the ECHO coordinator on\-site called upon Starfish Foundation in an emergency situation when water supplies on\-site were still in limbo due to required testing\. Another 15 pallets were sent\. Follow their initiatives [here](https://www.facebook.com/HelpForRefugeesInMolyvos/) \.
 
 
-![Water delivery, Ritsona\. Photo Credit: Starfish Foundation](assets/deee94d951ff/1*N7BPiDcYcM0chGfuR4YjRg.png)
+![Water delivery, Ritsona\. Photo Credit: Starfish Foundation](../assets/deee94d951ff/1*N7BPiDcYcM0chGfuR4YjRg.png)
 
 Water delivery, Ritsona\. Photo Credit: Starfish Foundation
 #### Athens
@@ -142,7 +142,7 @@ The statement, in Italian, is linked [here](https://baobabexperience.org/2016/07
 The [State Agency for Refugees recorded that 1474 people](http://www.novinite.com/articles/175354/Number+of+Asylum+Seekers+in+Bulgaria+Increased+by+300+in+June) from sixteen different countries applied for asylum in Bulgaria\. These were the lucky ones who made it past now\-famed vigilante Dinko Valev, who made [headlines as citizen arrest\-maker extraordinaire in early 2016](http://www.novinite.com/articles/175348/Bulgarian+Vigilante+Migrant+Hunter+Charged+with+Instigation+of+Violence,+Hatred) \. Valev is being charged with instigating discrimination in response to the evidence that during these arrests, he behaved in an exceptionally discriminatory and violent manner towards the group of 16 men, women, and children that he called in in February\. The Bulgarian government has dismissed the rash of citizen arrests of refugees at Bulgarian border zones as unlawful\.
 
 
-![Serbian\-Hungarian border\. Photo Credit: I’m Human Organization](assets/deee94d951ff/1*r6KZOcXGEen1vAKoT9dE5A.jpeg)
+![Serbian\-Hungarian border\. Photo Credit: I’m Human Organization](../assets/deee94d951ff/1*r6KZOcXGEen1vAKoT9dE5A.jpeg)
 
 Serbian\-Hungarian border\. Photo Credit: I’m Human Organization
 #### SERBIA
@@ -170,7 +170,7 @@ As such, tents are in urgent need at the border\. Those who cannot provide tents
 For those interested in lending a hand, but who don’t know where to start, consider checking out the Refugees Hub, which is an integrated platform designed to help match volunteers with projects that mesh with their capabilities and interests\. The opportunities can be filtered by cause and by location, allowing volunteers to target options the most convenient for them\. Check it out, [here](http://refugeeshub.org/) \!
 
 
-![Ritsona camp\. Photo Credit: Starfish Foundation](assets/deee94d951ff/1*MzZQkjRf2Ly3FkyU5kiQzQ.png)
+![Ritsona camp\. Photo Credit: Starfish Foundation](../assets/deee94d951ff/1*MzZQkjRf2Ly3FkyU5kiQzQ.png)
 
 Ritsona camp\. Photo Credit: Starfish Foundation
 #### FRANCE

@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 3/12/2017: Welcome to Europe!!
+title: "AYS DAILY DIGEST 3/12/2017: Welcome to Europe!!"
 author: Are You Syrious?
 date: 2017-12-04T09:22:34.286+0000
 last_modified_at: 2017-12-04T22:44:00.886+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,deportations,european-union,chios]
 description: 9-year-old child tried to kill himself in Chios, Greece // 15486 on Greek islands // 21 persons rescued after boat sinking near Morocco //…
 image:
-  path: assets/29259d37d515/1*8wOmuA4WdQ27-hiePAHpVg.jpeg
+  path: ../assets/29259d37d515/1*8wOmuA4WdQ27-hiePAHpVg.jpeg
 ---
 
 ### AYS DAILY DIGEST 3/12/2017: Welcome to Europe\! \!
@@ -15,7 +15,7 @@ image:
 9\-year\-old child tried to kill himself in Chios, Greece // 15486 on Greek islands // 21 persons rescued after boat sinking near Morocco // People help people in Athens // Make\-shift camp in Chios // Protsts against deportation in Austria
 
 
-![Upon arrival to EU, many refugees are forced to stay out in the open, sleeping in shelters they have to build by them selfes\. This is Chios, Greece\. Photo Ruhi Loren\.](assets/29259d37d515/1*8wOmuA4WdQ27-hiePAHpVg.jpeg)
+![Upon arrival to EU, many refugees are forced to stay out in the open, sleeping in shelters they have to build by them selfes\. This is Chios, Greece\. Photo Ruhi Loren\.](../assets/29259d37d515/1*8wOmuA4WdQ27-hiePAHpVg.jpeg)
 
 Upon arrival to EU, many refugees are forced to stay out in the open, sleeping in shelters they have to build by them selfes\. This is Chios, Greece\. Photo Ruhi Loren\.
 ### Feature
@@ -71,22 +71,22 @@ Our friend [Ruhi Loren](https://www.facebook.com/ruhi.akhtar.7) , an independent
 
 
 
-![](assets/29259d37d515/1*7D5e922IUXVvAF3Zy8SMYQ.jpeg)
+![](../assets/29259d37d515/1*7D5e922IUXVvAF3Zy8SMYQ.jpeg)
 
 
 
-![](assets/29259d37d515/1*Fam7dVkCNzd6AubmEFuMoQ.jpeg)
+![](../assets/29259d37d515/1*Fam7dVkCNzd6AubmEFuMoQ.jpeg)
 
 
 
-![By Ruhi Loren, Vial\.](assets/29259d37d515/1*PU8w2kkRPyVWm-ldfAUm3A.jpeg)
+![By Ruhi Loren, Vial\.](../assets/29259d37d515/1*PU8w2kkRPyVWm-ldfAUm3A.jpeg)
 
 By Ruhi Loren, Vial\.
 
 So far in November, a total of 2542 have been transferred from islands to the mainland\. The arrivals have slowed down, due to bad weather and this week on several days no arrivals were registered on any of the islands\.
 
 
-![AYS](assets/29259d37d515/1*K69W3h_hZB8vvvcj9w7cOQ.jpeg)
+![AYS](../assets/29259d37d515/1*K69W3h_hZB8vvvcj9w7cOQ.jpeg)
 
 AYS
 
@@ -95,15 +95,15 @@ AYS
 Currently, there are 15486 people stuck on the islands\.
 
 
-![](assets/29259d37d515/1*YOdQvuwLYmff6sYt7W5r8w.jpeg)
+![](../assets/29259d37d515/1*YOdQvuwLYmff6sYt7W5r8w.jpeg)
 
 
 
-![](assets/29259d37d515/1*hkhlyeWFaPrHXAmTQvVGjg.jpeg)
+![](../assets/29259d37d515/1*hkhlyeWFaPrHXAmTQvVGjg.jpeg)
 
 
 
-![AYS](assets/29259d37d515/1*0zXChTrz1XW6nGvNGuT2MA.jpeg)
+![AYS](../assets/29259d37d515/1*0zXChTrz1XW6nGvNGuT2MA.jpeg)
 
 AYS
 
@@ -121,7 +121,7 @@ A good story from Athens where two refugees from Syria opened a shop [People for
 The place is at Tuileries 28, in Metaxourgeio and everybody is welcome to visit\. If you have clothes to donate or want to help in any way, get in touch with them\. Or just go to the shop and show your support\.
 
 
-![](assets/29259d37d515/1*MwWSwCHEZ1hqO0Lu046olg.jpeg)
+![](../assets/29259d37d515/1*MwWSwCHEZ1hqO0Lu046olg.jpeg)
 
 
 [Humanitarian Support Agency \(HSA\)](https://www.facebook.com/HumanitarianSupportAgency/photos/a.127121260972590.1073741827.127098714308178/449652902052756/?type=3&theater) is looking for TEFL certified teachers to volunteer in Kara Tepe\.
@@ -181,7 +181,7 @@ Like in Calais or Paris, police take blankets and phones from people, and accord
 Calais: Donation needed at [Meena Center](https://www.facebook.com/permalink.php?story_fbid=510336369340505&id=160982470942565) , and unofficial women and children’s center\.
 
 
-![](assets/29259d37d515/1*8yuIBOEC18pEMiU2kJhvmQ.jpeg)
+![](../assets/29259d37d515/1*8yuIBOEC18pEMiU2kJhvmQ.jpeg)
 
 
 

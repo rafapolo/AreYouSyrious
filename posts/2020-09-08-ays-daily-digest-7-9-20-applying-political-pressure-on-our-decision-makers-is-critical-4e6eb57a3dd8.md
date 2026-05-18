@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 7/9/20: Applying political pressure on our decision-makers is critical
+title: "AYS Daily Digest 7/9/20: Applying political pressure on our decision-makers is critical"
 author: Are You Syrious?
 date: 2020-09-08T17:02:43.312+0100
 last_modified_at: 2020-09-08T17:02:43.312+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,migration,europe,refugees,balkans]
 description: News from the Balkans / The Administrative Court in Zagreb ruled the Ministry of Interior’s decision to deny asylum was illegal — all…
 image:
-  path: assets/4e6eb57a3dd8/0*JgiccNmPpS9ZK8S-.jpeg
+  path: ../assets/4e6eb57a3dd8/0*JgiccNmPpS9ZK8S-.jpeg
 ---
 
 ### AYS Daily Digest 7/9/20: Applying political pressure on our decision\-makers is critical
 ### News from the Balkans / The Administrative Court in Zagreb ruled the Ministry of Interior’s decision to deny asylum was illegal — all decisions were signed by the wrong person\. What now? / More than 140 people arrived on four different Canary islands last Sunday / UK: a powerful message of citizen solidarity that the government cannot ignore / recommended reads & more news
 
 
-![](assets/4e6eb57a3dd8/0*6BaSloS9kZLajKJW.jpeg)
+![](../assets/4e6eb57a3dd8/0*6BaSloS9kZLajKJW.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----10bcf4735d10----------------------)
@@ -22,11 +22,11 @@ image:
 [Sep 8](ays-daily-digest-7-9-20-applying-political-pressure-on-our-decision-makers-is-critical-10bcf4735d10?source=post_page-----10bcf4735d10----------------------) · 13 min read
 
 
-![](assets/4e6eb57a3dd8/0*UL6VrNv_VXDapbF_)
+![](../assets/4e6eb57a3dd8/0*UL6VrNv_VXDapbF_)
 
 
 
-![](assets/4e6eb57a3dd8/0*JgiccNmPpS9ZK8S-.jpeg)
+![](../assets/4e6eb57a3dd8/0*JgiccNmPpS9ZK8S-.jpeg)
 
 ### FEATURED — The western Balkan Route
 ### Serbia: Many families and individuals stuck in centres across the country
@@ -44,30 +44,30 @@ With fewer restrictions as precautions due to the coronavirus in the region, the
 The state, cantonal and local authorities still have not offered any viable solution for the issue of people on the move in Tuzla, since May 2018\. A **lack of insight and knowledge among officials** , false information in the public, and the increasingly frequest repressive actions of the police — following somebody’s orders, outside the legal stipulations — have targeted people on the move and in the eyes of the locals made them a threat to the local community\. This has **helped the spread of hate speech, discrimination, and racism** \.
 
 
-![](assets/4e6eb57a3dd8/0*ZQo_LB3LMy-a3Quf)
+![](../assets/4e6eb57a3dd8/0*ZQo_LB3LMy-a3Quf)
 
 
 
-![](assets/4e6eb57a3dd8/0*5qZlcxKr0UcbQoX0.jpeg)
+![](../assets/4e6eb57a3dd8/0*5qZlcxKr0UcbQoX0.jpeg)
 
 ### The ignorance behind the populist decisions
 
 The officials state that since the beginning of the year, close to 6,500 people have arrived in the country\. However, according to the estimates made by the local teams who are present in the field daily, **the number is much higher** \. The fact that remains one of the biggest problems is that the Field Office of the Office for Foreigners **stopped registering people on the move in March** this year, as we reported before\. Their lack of engagement also presents a security issue because thousands of people, without any registration, pass through the city and continue the same way \(at least\) until Sarajevo\. Most importantly, it presents a **health issue** , given that the number of those infected by Covid\-19 in Bosnia and Herzegovina is rising, and nobody is testing the people on the move\. Without registration and the so\-called “white card”, these people have **no way of receiving help and assistance** in an adequate manner\. This presents an obstacle also for those working with the people, trying to ease their stay in the area of eastern Bosnia and Herzegovina\.
 
 
-![](assets/4e6eb57a3dd8/0*EP3GLO982xAFxgko)
+![](../assets/4e6eb57a3dd8/0*EP3GLO982xAFxgko)
 
 
 
-![](assets/4e6eb57a3dd8/0*GLhOJCsOUfNHbnbB.jpeg)
+![](../assets/4e6eb57a3dd8/0*GLhOJCsOUfNHbnbB.jpeg)
 
 
 
-![](assets/4e6eb57a3dd8/0*xk4J17dz9HXsnJjH)
+![](../assets/4e6eb57a3dd8/0*xk4J17dz9HXsnJjH)
 
 
 
-![](assets/4e6eb57a3dd8/0*bXfgJe0vH-KD9tbb.jpeg)
+![](../assets/4e6eb57a3dd8/0*bXfgJe0vH-KD9tbb.jpeg)
 
 
 People on the move in Tuzla have almost no rights, and even the simplest things have become impossible\. For example, they are forbidden to enter hair salons, some market places, cafes, and the atmosphere has only been inflamed further by media reports\. The image they portray should be more objective because the common behavior in the community usually depends much on what the media say, local activists say\.
@@ -77,11 +77,11 @@ Pressure to close the Day Centre
 9families with 41 family members were staying at the PUŽ safe house during the first eight days of September\. Eighteen of them are children, and accommodation was also provided for two unaccompanied minors\. Families sometimes stay for several days there until a place in the nearest camp \(in Sarajevo\! \) opens up\. **The nearest camp is 130 kilometres away** from Tuzla\.
 
 
-![](assets/4e6eb57a3dd8/0*vPsNno1RnJylN4Ez)
+![](../assets/4e6eb57a3dd8/0*vPsNno1RnJylN4Ez)
 
 
 
-![](assets/4e6eb57a3dd8/0*EUFmQl62-pKiSLzy.jpeg)
+![](../assets/4e6eb57a3dd8/0*EUFmQl62-pKiSLzy.jpeg)
 
 
 At the Day Centre, at least 100 people have been arriving daily in order to take a shower, to equip themselves with clothes and take food\. The centre was opened in March this year, but since recently, there has been a number of city inspections\. Although **no legal obstacles were detected, they were told that providing hygiene support, food distribution and other activities for people in need can no longer take place in the centre\.** The document cites many citizens’ complaints — even though, according to the police records, there have been no security issues reported in the area around the centre\. The local community simply refuses to have in their midst the centre and the people it is providing assistance to\. The local activists and those providing help at the Centre have reportedly also been insulted and threatened\.
@@ -89,11 +89,11 @@ At the Day Centre, at least 100 people have been arriving daily in order to take
 Emmaus from Doboj East has been providing hot meals six days a week\. The meal distribution now has to take place in the streets, parks and squats, wherever people stay\. The Zemlja Djece association has been providing NFI packages for the unaccompanied minors, directing them to camps or safe houses, whenever there is enough place\. One of the activities provided by the local Caritas on the premises of Merhamet is the laundry service\. This has proven to be of huge help to all the people across the city who can come and wash their clothes there\. Medical assistance is provided by the local Red Cross in collaboration with DRC\. However, most of the more complicated issues still end up on the backs of the volunteers\. Transport to the hospital, visits and equipping people for a hospital stay, these are just some of the activities done by volunteers\.
 
 
-![](assets/4e6eb57a3dd8/0*FwjBcOdT9fGe3fza)
+![](../assets/4e6eb57a3dd8/0*FwjBcOdT9fGe3fza)
 
 
 
-![](assets/4e6eb57a3dd8/0*iZAqGrhKfJVdg0EV.jpeg)
+![](../assets/4e6eb57a3dd8/0*iZAqGrhKfJVdg0EV.jpeg)
 
 
 As in many other areas, locals report that **the international and other large organisations are definitely nowhere near doing what they can and should in the given situation\.** We do not know why, but are happy to receive and publish any official explanation in case there are objective reasons or the mentioned organisations think they have reached their maximum\. Our address is always there for everyone who wants to react or send additional information/corrections: areyousyrious@gmail\.com
@@ -105,11 +105,11 @@ Colder months ahead will no doubt exacerbate the situation\. Volunteers’ donat
 Worsening of the situation at Velčevo
 
 
-![](assets/4e6eb57a3dd8/0*wv70AiWNKdO12EZY)
+![](../assets/4e6eb57a3dd8/0*wv70AiWNKdO12EZY)
 
 
 
-![](assets/4e6eb57a3dd8/0*Nhx82m79P2G_uHKO.jpeg)
+![](../assets/4e6eb57a3dd8/0*Nhx82m79P2G_uHKO.jpeg)
 
 
 From that part of the Bosnian route, our friends active in Velčevo report an ever difficult situation getting more hard to handle or respond to with each day\. At a local Red Cross point next to a road, “in the middle of nowhere”, people trying to travel towards the Una Sana canton are being thrown out of buses and other transportation means, but are also taken there from the Republic of Srpska by policemen who want them out of their jurisdiction\.
@@ -119,11 +119,11 @@ Children with fractures, chronic patients, old people, unaccompanied minors, …
 These people are prevented from being provided accommodation at the official camps\! Why are political games always at the expense of the most vulnerable, says Sanela, coordinating the ground team
 
 
-![](assets/4e6eb57a3dd8/0*BGl98Gp8VDpVQMZh)
+![](../assets/4e6eb57a3dd8/0*BGl98Gp8VDpVQMZh)
 
 
 
-![](assets/4e6eb57a3dd8/0*0S2rG-IQjLFpvNgq.jpeg)
+![](../assets/4e6eb57a3dd8/0*0S2rG-IQjLFpvNgq.jpeg)
 
 ### Croatia: a chronic lack of knowledge or avoiding decision making?
 
@@ -193,11 +193,11 @@ Whilst South Ayrshire Council does not have the legislative power to directly re
 Will you write to your UK Council today asking them to follow the example of this Scottish Council?
 
 
-![](assets/4e6eb57a3dd8/0*YJGlYK-qpdi1gRMc)
+![](../assets/4e6eb57a3dd8/0*YJGlYK-qpdi1gRMc)
 
 
 
-![](assets/4e6eb57a3dd8/0*vqEcoYk4UTkKW4mF)
+![](../assets/4e6eb57a3dd8/0*vqEcoYk4UTkKW4mF)
 
 
 WORTH READING

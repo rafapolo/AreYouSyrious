@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 11/12/2016: Baby boy born on boat sinking in the Mediterranean
+title: "AYS DAILY DIGEST 11/12/2016: Baby boy born on boat sinking in the Mediterranean"
 author: Are You Syrious?
 date: 2016-12-11T22:16:30.349+0000
 last_modified_at: 2016-12-12T12:25:05.335+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,oreiokastro,como-refugees,msf-sea]
 description: Messages from volunteers and refugees for the EU — do something! // Greek government proposes segregation of refugees to decrease the…
 image:
-  path: assets/3d09dec7d94d/1*DctKrSxfR8NskrMhb84KhQ.jpeg
+  path: ../assets/3d09dec7d94d/1*DctKrSxfR8NskrMhb84KhQ.jpeg
 ---
 
 ### AYS DAILY DIGEST 11/12/2016: Baby boy born on boat sinking in the Mediterranean
@@ -15,7 +15,7 @@ image:
 _Messages from volunteers and refugees for the EU — do something\! // Greek government proposes segregation of refugees to decrease the number of people on islands while human rights activists are trying to prevent this // Volunteers in Como saving refugees who are sleeping in the streets // People sleeping out in the cold city of Malmo // Streets of Paris covered with tents with only volunteers to help the people_
 
 
-![Sindos women’s and children’s day\. Photo by [schwizerchrüz\.ch Michael Räber](https://www.facebook.com/swisscross.help/?ref=page_internal)](assets/3d09dec7d94d/1*DctKrSxfR8NskrMhb84KhQ.jpeg)
+![Sindos women’s and children’s day\. Photo by [schwizerchrüz\.ch Michael Räber](https://www.facebook.com/swisscross.help/?ref=page_internal)](../assets/3d09dec7d94d/1*DctKrSxfR8NskrMhb84KhQ.jpeg)
 
 Sindos women’s and children’s day\. Photo by [schwizerchrüz\.ch Michael Räber](https://www.facebook.com/swisscross.help/?ref=page_internal)
 ### Mediterranean
@@ -24,14 +24,14 @@ Sindos women’s and children’s day\. Photo by [schwizerchrüz\.ch Michael Rä
 A dramatic day at sea\. MSF and SOS MedFrance rescued more than 700 people from drowning\. They were found on a wooden boat\. Among the people rescued was a woman who gave birth to a baby boy \(3\.1 kg\) on the boat\. Baby and mother are safe and well\. It is beyond understanding why this baby and women had to go through this extreme experience in order to come to the richest continent in the world\.
 
 
-![Photo by MSF Sea](assets/3d09dec7d94d/1*k7qYnxvLht_QHt7jPpzVWA.jpeg)
+![Photo by MSF Sea](../assets/3d09dec7d94d/1*k7qYnxvLht_QHt7jPpzVWA.jpeg)
 
 Photo by MSF Sea
 
 More people were rescued from other boats making the total number for Sunday 1,164\. Six people did not survive this perilous journey\.
 
 
-![Photo by MSF Sea](assets/3d09dec7d94d/1*0JlsQFWnpzd8rdyGjexT3Q.jpeg)
+![Photo by MSF Sea](../assets/3d09dec7d94d/1*0JlsQFWnpzd8rdyGjexT3Q.jpeg)
 
 Photo by MSF Sea
 ### Weather forecast
@@ -58,7 +58,7 @@ Karl Kopp, Pro Asyl’s Director of European Affairs told ECRE:
 More people arrived to Greece today\. Officially, 45 to Chios and 1 to another island\. Volunteer [Eric Kempson](https://www.facebook.com/eric.kempson.7) was among those who help to some of the new arrivals\. He has been doing that for years now\. Watch and listen to his message to those who have the power to stop this tragedy\.
 
 
-[![2016-12-11 Lesvos, Greece: Turkish coast guard exceeds Greek border to take refugees back to Turkey](assets/3d09dec7d94d/2714_hqdefault.jpg "2016-12-11 Lesvos, Greece: Turkish coast guard exceeds Greek border to take refugees back to Turkey")](http://www.youtube.com/watch?v=qFUmgXqaEtA)
+[![2016-12-11 Lesvos, Greece: Turkish coast guard exceeds Greek border to take refugees back to Turkey](../assets/3d09dec7d94d/2714_hqdefault.jpg "2016-12-11 Lesvos, Greece: Turkish coast guard exceeds Greek border to take refugees back to Turkey")](http://www.youtube.com/watch?v=qFUmgXqaEtA)
 
 
 Volunteers at Lesvos believe more volunteers could be needed soon on a night watch on the island’s north coast\.
@@ -104,14 +104,14 @@ Some 16,300 refugees are now thought to be living on the Aegean islands\.
 In Sindos, yesterday was women’s and children’s day, and a small celebration was organized in the Community Center\.
 
 
-![Photo by [schwizerchrüz\.ch Michael Räber](https://www.facebook.com/swisscross.help/?ref=page_internal)](assets/3d09dec7d94d/1*n6IvOqYZC2Zu5Ry3azIkTw.jpeg)
+![Photo by [schwizerchrüz\.ch Michael Räber](https://www.facebook.com/swisscross.help/?ref=page_internal)](../assets/3d09dec7d94d/1*n6IvOqYZC2Zu5Ry3azIkTw.jpeg)
 
 Photo by [schwizerchrüz\.ch Michael Räber](https://www.facebook.com/swisscross.help/?ref=page_internal)
 
 In [Filippiada](https://www.facebook.com/groups/924445867653404/) , on December 14, an exhibition will be organized with artwork by the people living in this camp\.
 
 
-![](assets/3d09dec7d94d/1*Vp8zPXYkpi-u0RQsPyfoEg.jpeg)
+![](../assets/3d09dec7d94d/1*Vp8zPXYkpi-u0RQsPyfoEg.jpeg)
 
 ### Italy
 #### People count in the streets of Como to start
@@ -127,11 +127,11 @@ No good news from Serbia today\. Hundreds of people are still out in the cold, a
 [In Miksaliste](https://www.facebook.com/RefugeeAidMiksaliste/) , refugees and volunteers made a makeshift Pachis board and called everybody in Serbia to join in a game\.
 
 
-![](assets/3d09dec7d94d/1*KxVTi_1aibH56qjQIY08Yg.jpeg)
+![](../assets/3d09dec7d94d/1*KxVTi_1aibH56qjQIY08Yg.jpeg)
 
 
 
-![Foto Refugee Aid Miksaliste](assets/3d09dec7d94d/1*Q17CFg72p_cqlvOgak9Jag.jpeg)
+![Foto Refugee Aid Miksaliste](../assets/3d09dec7d94d/1*Q17CFg72p_cqlvOgak9Jag.jpeg)
 
 Foto Refugee Aid Miksaliste
 
@@ -140,18 +140,18 @@ In Bujanovac, volunteers from the [Borderfree Association](https://www.facebook.
 These “woman\-only power sessions”, as organizers call them, will continue in the next few weeks\.
 
 
-![](assets/3d09dec7d94d/1*RaGQy1xIMPFnYJMLKfiO4w.jpeg)
+![](../assets/3d09dec7d94d/1*RaGQy1xIMPFnYJMLKfiO4w.jpeg)
 
 
 
-![Photo by Borderfree Association](assets/3d09dec7d94d/1*FNEbY6_i02Z5DmG1keBZCw.jpeg)
+![Photo by Borderfree Association](../assets/3d09dec7d94d/1*FNEbY6_i02Z5DmG1keBZCw.jpeg)
 
 Photo by Borderfree Association
 
 Sometimes, life is made of a small things\. This story from [North Star team](https://www.facebook.com/NorthStarSerbia/) is another confirmation\. There is a new football field and today it was their first day of some language lessons\.
 
 
-![By NorthStar](assets/3d09dec7d94d/1*1HjvAVpjj-XqdFnkn8-VUQ.jpeg)
+![By NorthStar](../assets/3d09dec7d94d/1*1HjvAVpjj-XqdFnkn8-VUQ.jpeg)
 
 By NorthStar
 
@@ -162,7 +162,7 @@ If you’d like to get involved with them in any way, you can contact them on th
 The number of people at St Martin in Paris is growing\. Volunteers from [Rastplatz](https://www.facebook.com/rastplatz/) yesterday counted 280 tents, and an estimated 500–750 people\. People are arriving every day\.
 
 
-![By Rastplatz](assets/3d09dec7d94d/1*-LT1wDWi0BEwXQwIVvEmqA.jpeg)
+![By Rastplatz](../assets/3d09dec7d94d/1*-LT1wDWi0BEwXQwIVvEmqA.jpeg)
 
 By Rastplatz
 
@@ -175,20 +175,20 @@ Many small French organizations are aware of the new camp and deliver food, but 
 Thousands of people protested today in Berlin, Frankfurt, and Bremen against planned deportations to Afghanistan\.
 
 
-![](assets/3d09dec7d94d/1*dY8jD3DFgbBvJpKp3OeGZw.jpeg)
+![](../assets/3d09dec7d94d/1*dY8jD3DFgbBvJpKp3OeGZw.jpeg)
 
 
 
-![](assets/3d09dec7d94d/1*p6Ba1tD8cr46H3zPNM2PPg.jpeg)
+![](../assets/3d09dec7d94d/1*p6Ba1tD8cr46H3zPNM2PPg.jpeg)
 
 
 
-![Photo by the [Newsgroup Afghanista](https://www.facebook.com/pg/weltenwandertheater/photos/?tab=album&album_id=1808093609466124) n\.](assets/3d09dec7d94d/1*KY0tLECwttyzuSIiAcu4UQ.jpeg)
+![Photo by the [Newsgroup Afghanista](https://www.facebook.com/pg/weltenwandertheater/photos/?tab=album&album_id=1808093609466124) n\.](../assets/3d09dec7d94d/1*KY0tLECwttyzuSIiAcu4UQ.jpeg)
 
 Photo by the [Newsgroup Afghanista](https://www.facebook.com/pg/weltenwandertheater/photos/?tab=album&album_id=1808093609466124) n\.
 
 
-[![Germany: Thousands denounce mass deportation of Afghan refugees in Berlin](assets/3d09dec7d94d/d01d_hqdefault.jpg "Germany: Thousands denounce mass deportation of Afghan refugees in Berlin")](http://www.youtube.com/watch?v=rOzhCp3xA4o)
+[![Germany: Thousands denounce mass deportation of Afghan refugees in Berlin](../assets/3d09dec7d94d/d01d_hqdefault.jpg "Germany: Thousands denounce mass deportation of Afghan refugees in Berlin")](http://www.youtube.com/watch?v=rOzhCp3xA4o)
 
 
 At the beginning of October, the EU made a deal with the government in Afghanistan about sending tens of thousands of Afghan refugees back despite the obvious danger for all civilians in this country\.

@@ -1,26 +1,27 @@
 # how to generate this backup?
-#1 -  ZMediumToMarkdown -u AreYouSyrious 
-#2 -  ruby index.rb > README.md
+#1 -  ruby fetch.rb        (downloads missing posts + rebuilds README in one step)
+#    or manually:
+#    cd posts && ZMediumToMarkdown -u AreYouSyrious && cd ..
+#    ruby index.rb > README.md
 
 require "date"
-require "byebug"
+require "shellwords"
 
-hash = {}
+hash = Hash.new { |h, k| h[k] = [] }
 
 Dir.glob("posts/*.md").each do |p|
   begin
-    grep = `grep "date: " #{p}`
+    grep = `grep "date: " #{Shellwords.escape(p)}`
     datestr = grep.split("\n").first
     datestr = datestr.split("###").first
     datestr.gsub!("date: ", "")
     date = DateTime.parse(datestr).strftime('%Y-%m-%d')
-    
-    descgrep = `grep "description" #{p}`
+
+    descgrep = `grep "description" #{Shellwords.escape(p)}`
     descstr = descgrep.split("\n").first.gsub("description: ", "")
-    
-    hash[date] = [descstr, p]  
+
+    hash[date] << [descstr, p]
   rescue
-    # byebug
   end
 end
 
@@ -28,7 +29,8 @@ puts "# AreYouSyrious @ Medium"
 puts "backup of https://medium.com/are-you-syrious (fighting future cybernetic memory crises)"
 puts "\n---\n"
 
-result = hash.sort_by { |key| key }.to_h
-result.each do |date,v|
-  puts "- #{date} - [#{v[0]}](#{v[1]})\n"
+hash.sort_by { |key, _| key }.each do |date, posts|
+  posts.each do |desc, path|
+    puts "- #{date} - [#{desc}](#{path})\n"
+  end
 end

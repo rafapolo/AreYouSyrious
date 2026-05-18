@@ -1,13 +1,13 @@
 ---
-title: AYS News Digest 03/05/2022: Police Operation against PoM in Thessaloniki
+title: "AYS News Digest 03/05/2022: Police Operation against PoM in Thessaloniki"
 author: Are You Syrious?
 date: 2022-05-03T10:10:57.480+0100
 last_modified_at: 2022-05-03T14:40:28.371+0100
 categories: 
 tags: [digest,newsdigest,humanrights,borderviolence,pushback]
-description: Life lost at Melilla Sea Wall // UK Anti-Slavery Commissioner steps down // Criminal Court Rules: abuses against migrants in Libya ARE…
+description: "Life lost at Melilla Sea Wall // UK Anti-Slavery Commissioner steps down // Criminal Court Rules: abuses against migrants in Libya ARE…"
 image:
-  path: assets/45acdc0d3da1/0*w7LNcmcjsi5g9rRW
+  path: ../assets/45acdc0d3da1/0*w7LNcmcjsi5g9rRW
 ---
 
 ### AYS News Digest 03/05/2022: Police Operation against PoM in Thessaloniki
@@ -15,7 +15,7 @@ image:
 ### FEATURE
 
 
-![Photo Credit: [BVMN](https://twitter.com/Border_Violence/status/1520418811303895041?fbclid=IwAR2-6ukM_xYMbEiEwrjASKnaWF24cOUjFUrV7joNa3j6aTlkGiDJxMqe9MY)](assets/45acdc0d3da1/0*w7LNcmcjsi5g9rRW)
+![Photo Credit: [BVMN](https://twitter.com/Border_Violence/status/1520418811303895041?fbclid=IwAR2-6ukM_xYMbEiEwrjASKnaWF24cOUjFUrV7joNa3j6aTlkGiDJxMqe9MY)](../assets/45acdc0d3da1/0*w7LNcmcjsi5g9rRW)
 
 Photo Credit: [BVMN](https://twitter.com/Border_Violence/status/1520418811303895041?fbclid=IwAR2-6ukM_xYMbEiEwrjASKnaWF24cOUjFUrV7joNa3j6aTlkGiDJxMqe9MY)
 #### Police Operation in Thessaloniki
@@ -38,7 +38,7 @@ As attention turns towards Ukraine, [this piece sheds light on the Latvia/Belaru
 In March more than 6,000 people attempted to enter Spain, and therefore the EU, by swimming from the Moroccan port to the Spanish one\. Covid\-19 has impacted the Moroccan economy significantly and people used to be able to cross the border in order to work\.
 
 
-![Photo Credit: [InfoMigrants](https://www.infomigrants.net/en/post/40238/one-dead-as-spain-extends-closure-of-land-border-with-morocco?fbclid=IwAR23-iuYGikqXZbL54gCDNQmL4RO8kxzOYe4I6uW3rFMA-grbGeIeKv6U5w) \. Circled in Red are the harbour and border walls built between Morocco and the Spanish enclave of Melilla on the African continent \| Source : Google Maps](assets/45acdc0d3da1/0*CNC9BXb_j1I0PamL)
+![Photo Credit: [InfoMigrants](https://www.infomigrants.net/en/post/40238/one-dead-as-spain-extends-closure-of-land-border-with-morocco?fbclid=IwAR23-iuYGikqXZbL54gCDNQmL4RO8kxzOYe4I6uW3rFMA-grbGeIeKv6U5w) \. Circled in Red are the harbour and border walls built between Morocco and the Spanish enclave of Melilla on the African continent \| Source : Google Maps](../assets/45acdc0d3da1/0*CNC9BXb_j1I0PamL)
 
 Photo Credit: [InfoMigrants](https://www.infomigrants.net/en/post/40238/one-dead-as-spain-extends-closure-of-land-border-with-morocco?fbclid=IwAR23-iuYGikqXZbL54gCDNQmL4RO8kxzOYe4I6uW3rFMA-grbGeIeKv6U5w) \. Circled in Red are the harbour and border walls built between Morocco and the Spanish enclave of Melilla on the African continent \| Source : Google Maps
 #### Hunger Strike in Gran Canaria
@@ -76,7 +76,7 @@ Meanwhile in Paris, three young men were [violently arrested by police](https://
 #### BELGIUM
 
 
-![Photo Credit: [Getting The Voice Out](https://www.facebook.com/GettingTheVoiceOut/posts/pfbid02EgtvRB4riz6QmHZYUbLxVMtN4fv5RBTf3j4T7A7yS5aZT8h5pNZCnHpTsC9S6FXJl)](assets/45acdc0d3da1/0*oAgmdoQGUWuRzvRJ)
+![Photo Credit: [Getting The Voice Out](https://www.facebook.com/GettingTheVoiceOut/posts/pfbid02EgtvRB4riz6QmHZYUbLxVMtN4fv5RBTf3j4T7A7yS5aZT8h5pNZCnHpTsC9S6FXJl)](../assets/45acdc0d3da1/0*oAgmdoQGUWuRzvRJ)
 
 Photo Credit: [Getting The Voice Out](https://www.facebook.com/GettingTheVoiceOut/posts/pfbid02EgtvRB4riz6QmHZYUbLxVMtN4fv5RBTf3j4T7A7yS5aZT8h5pNZCnHpTsC9S6FXJl)
 
@@ -106,7 +106,7 @@ Whilst the [Geo Barents](https://twitter.com/MSF_Sea/status/1520873000635179013?
 [Sea Watch have made an explainer](https://sea-watch.org/en/irini/?fbclid=IwAR2XxUvN9At_lHl7R-aVjlHW9GqZjTdrsHQGyDHeuUgOmfkbEsgDauRGZ0I) about the European Military operation in the Mediterranean known as IRINI\. It concerns the training of the so\-called Libyan Coast Guard\.
 
 
-![](assets/45acdc0d3da1/0*kROxxolit7ytPI-8)
+![](../assets/45acdc0d3da1/0*kROxxolit7ytPI-8)
 
 
 [Sea Watch also share this:](https://twitter.com/seawatch_intl/status/1521146170734788608?fbclid=IwAR3CpehVn77bQxI0YxtE-2RCfQ1bIBJUKmBh2hpElLvWsim-aXEVQviZ1zY)

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 15/07/2020: Spotted, ignored and left for dead: The story of 60 people stranded…
+title: "AYS Daily Digest 15/07/2020: Spotted, ignored and left for dead: The story of 60 people stranded…"
 author: Are You Syrious?
 date: 2020-07-16T12:19:34.543+0100
 last_modified_at: 2020-07-16T14:19:22.358+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,asylum-seekers,europe]
 description: BVMN’s new report on pushbacks, police violence and EU cover-ups // Changing migration routes // Legal proceedings against search and…
 image:
-  path: assets/a7efdede827/1*J9xbm80MtwwozRzoDLQo-g.jpeg
+  path: ../assets/a7efdede827/1*J9xbm80MtwwozRzoDLQo-g.jpeg
 ---
 
 ### AYS Daily Digest 15/07/2020: Spotted, ignored and left for dead: The story of 60 people stranded at sea
@@ -15,7 +15,7 @@ image:
 BVMN’s new report on pushbacks, police violence and EU cover\-ups // Changing migration routes // Legal proceedings against search and rescue ships // Italy’s cooperation with Libya // Forced transfers in Yemen
 
 
-![Merchant ship Karewood Star and an Italian coastguard patrol boat are pictured close to a boat in distress \(Photo Credit: Sea Watch\)](assets/a7efdede827/1*J9xbm80MtwwozRzoDLQo-g.jpeg)
+![Merchant ship Karewood Star and an Italian coastguard patrol boat are pictured close to a boat in distress \(Photo Credit: Sea Watch\)](../assets/a7efdede827/1*J9xbm80MtwwozRzoDLQo-g.jpeg)
 
 Merchant ship Karewood Star and an Italian coastguard patrol boat are pictured close to a boat in distress \(Photo Credit: Sea Watch\)
 ### Feature
@@ -265,7 +265,7 @@ It’s being reported by civil society groups that the young man had been given 
 The European Union Agency for Fundamental Rights \(FRA\) [has published their 2020 update](https://fra.europa.eu/en/publication/2020/2020-update-ngos-sar-activities?fbclid=IwAR1ftbhqgUpib25W-6fM6Tx9Ox-2_bS5OqrJw1NGbTgW9jJfaZUuX5hWh2s) on NGO ships involved in search and rescue in the Mediterranean and the legal proceedings against them\.
 
 
-![[**Map showing NGO ships involved in SAR operations in the Mediterranean Sea between 2016 and 15 June 2020**](https://fra.europa.eu/en/publication/2020/2020-update-ngos-sar-activities?fbclid=IwAR1ftbhqgUpib25W-6fM6Tx9Ox-2_bS5OqrJw1NGbTgW9jJfaZUuX5hWh2s)](assets/a7efdede827/1*r1MPaCNd5zyFBUlt_Po1aw.jpeg)
+![[**Map showing NGO ships involved in SAR operations in the Mediterranean Sea between 2016 and 15 June 2020**](https://fra.europa.eu/en/publication/2020/2020-update-ngos-sar-activities?fbclid=IwAR1ftbhqgUpib25W-6fM6Tx9Ox-2_bS5OqrJw1NGbTgW9jJfaZUuX5hWh2s)](../assets/a7efdede827/1*r1MPaCNd5zyFBUlt_Po1aw.jpeg)
 
 [**Map showing NGO ships involved in SAR operations in the Mediterranean Sea between 2016 and 15 June 2020**](https://fra.europa.eu/en/publication/2020/2020-update-ngos-sar-activities?fbclid=IwAR1ftbhqgUpib25W-6fM6Tx9Ox-2_bS5OqrJw1NGbTgW9jJfaZUuX5hWh2s)
 
@@ -296,11 +296,11 @@ On Sunday 19 July at 2:00 pm a tribute will be held for the 29\-year\-old Sudane
 
 
 
-![](assets/a7efdede827/1*3-q0bEIjGfU5BdaUstF-VQ.jpeg)
+![](../assets/a7efdede827/1*3-q0bEIjGfU5BdaUstF-VQ.jpeg)
 
 
 
-![Photos of Dori shared by [Solidarite migrants Wilson](https://www.facebook.com/permalink.php?story_fbid=1484251001775667&id=598228360377940&hc_location=ufi)](assets/a7efdede827/1*MwgNvKb5pXFPqRRzDuGMMA.jpeg)
+![Photos of Dori shared by [Solidarite migrants Wilson](https://www.facebook.com/permalink.php?story_fbid=1484251001775667&id=598228360377940&hc_location=ufi)](../assets/a7efdede827/1*MwgNvKb5pXFPqRRzDuGMMA.jpeg)
 
 Photos of Dori shared by [Solidarite migrants Wilson](https://www.facebook.com/permalink.php?story_fbid=1484251001775667&id=598228360377940&hc_location=ufi)
 
@@ -321,7 +321,7 @@ Humanite\.Fr shared a report of recent updates about a group of young migrants w
 The associations demand that the public authorities take charge of all these young people present on French territory, so that they can be educated, have accommodation suited to their situation, but also care and educational monitoring\.”
 
 
-[![Mineurs isolés étrangers: " La France bafoue ses obligations "](assets/a7efdede827/f59e_hqdefault.jpg "Mineurs isolés étrangers: " La France bafoue ses obligations "")](https://www.youtube.com/watch?v=3xxLFgZ2lL8)
+[![Mineurs isolés étrangers: " La France bafoue ses obligations "](../assets/a7efdede827/f59e_hqdefault.jpg "Mineurs isolés étrangers: " La France bafoue ses obligations "")](https://www.youtube.com/watch?v=3xxLFgZ2lL8)
 
 
 **If you wish to contribute, either by writing a report or a story, or by joining the info gathering team, please let us know\.**

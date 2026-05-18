@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 25/06: Over 700 people rescued in Mediterranean
+title: "AYS DAILY DIGEST 25/06: Over 700 people rescued in Mediterranean"
 author: Are You Syrious?
 date: 2016-06-25T22:31:11.391+0100
 last_modified_at: 2016-06-25T23:10:57.714+0100
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe,mediterranean,msf,cherso]
 description: New arrivals registered in Greece and Italy. Conditions in military-run camps in Greece are aggravating with the heat. Cherso Cultural…
 image:
-  path: assets/f8f6d1dbd1ef/1*79DqgjtoqZoZYGdzHVdZOg.jpeg
+  path: ../assets/f8f6d1dbd1ef/1*79DqgjtoqZoZYGdzHVdZOg.jpeg
 ---
 
 ### AYS DAILY DIGEST 25/06: Over 700 people rescued in Mediterranean
 
 
-![MSF Sea](assets/f8f6d1dbd1ef/1*79DqgjtoqZoZYGdzHVdZOg.jpeg)
+![MSF Sea](../assets/f8f6d1dbd1ef/1*79DqgjtoqZoZYGdzHVdZOg.jpeg)
 
 MSF Sea
 
@@ -23,7 +23,7 @@ _Mediterranean_
 ### **Two boats rescued from the sea**
 
 
-![Photo MSF Sea](assets/f8f6d1dbd1ef/1*3PQwNMjRllvXcO9yyF75tA.jpeg)
+![Photo MSF Sea](../assets/f8f6d1dbd1ef/1*3PQwNMjRllvXcO9yyF75tA.jpeg)
 
 Photo MSF Sea
 
@@ -49,20 +49,20 @@ People who are in Greece and living in military\-run camps are continuously send
 
 
 
-![](assets/f8f6d1dbd1ef/1*_aB3HMKwR_KqyiLXXhrQgA.jpeg)
+![](../assets/f8f6d1dbd1ef/1*_aB3HMKwR_KqyiLXXhrQgA.jpeg)
 
 
 
-![Softex camp](assets/f8f6d1dbd1ef/1*R0ZiFzQyokW9E5WDSMf3Gg.jpeg)
+![Softex camp](../assets/f8f6d1dbd1ef/1*R0ZiFzQyokW9E5WDSMf3Gg.jpeg)
 
 Softex camp
 
 
-![](assets/f8f6d1dbd1ef/1*1EifOI3fWoyx86a2_qDTYA.jpeg)
+![](../assets/f8f6d1dbd1ef/1*1EifOI3fWoyx86a2_qDTYA.jpeg)
 
 
 
-![](assets/f8f6d1dbd1ef/1*Stk6eEeWvvD17_cAEyvT4w.jpeg)
+![](../assets/f8f6d1dbd1ef/1*Stk6eEeWvvD17_cAEyvT4w.jpeg)
 
 
 Lack of security and safty in camps
@@ -74,11 +74,11 @@ In the meantime, people in the camp are not getting any clothes and there is a l
 Today, preregistration started in Skaramangas\. Representatives of the Asylum Service began by wrist banding about 1\.000 residents to give them an appointment time and date\. They will return on Monday to finish wrist banding\. The preregistration will take about 2 weeks to complete\.
 
 
-![](assets/f8f6d1dbd1ef/1*HqDQ-CUrEZjDspOidZMkug.jpeg)
+![](../assets/f8f6d1dbd1ef/1*HqDQ-CUrEZjDspOidZMkug.jpeg)
 
 
 
-![Photo by [Norman Hering](https://www.facebook.com/norman.hering)](assets/f8f6d1dbd1ef/1*KpM3aSGwNH1gKHywqqBLZg.jpeg)
+![Photo by [Norman Hering](https://www.facebook.com/norman.hering)](../assets/f8f6d1dbd1ef/1*KpM3aSGwNH1gKHywqqBLZg.jpeg)
 
 Photo by [Norman Hering](https://www.facebook.com/norman.hering)
 ### “I am strong, but I am tired\.”
@@ -95,20 +95,20 @@ The Center continues its work trying to make life at least a bit easer for all t
 
 
 
-![](assets/f8f6d1dbd1ef/1*4kA3z-I9HBk_CbhkiTZ19Q.jpeg)
+![](../assets/f8f6d1dbd1ef/1*4kA3z-I9HBk_CbhkiTZ19Q.jpeg)
 
 
 
-![Cherso Cultural Center](assets/f8f6d1dbd1ef/1*WbszdgfucSGwGCN5Se3BYw.jpeg)
+![Cherso Cultural Center](../assets/f8f6d1dbd1ef/1*WbszdgfucSGwGCN5Se3BYw.jpeg)
 
 Cherso Cultural Center
 
 
-![](assets/f8f6d1dbd1ef/1*3B_xOFJttiDhPulMC7GHWA.jpeg)
+![](../assets/f8f6d1dbd1ef/1*3B_xOFJttiDhPulMC7GHWA.jpeg)
 
 
 
-![Photo by Cherso Cultural Center](assets/f8f6d1dbd1ef/1*UBcfBzaA3tu_-Lcodl02JA.jpeg)
+![Photo by Cherso Cultural Center](../assets/f8f6d1dbd1ef/1*UBcfBzaA3tu_-Lcodl02JA.jpeg)
 
 Photo by Cherso Cultural Center
 ### WiFi service back in Ritsona
@@ -174,7 +174,7 @@ The British authorities have made no public comments on the issue\.
 ### Refugees welcome\!
 
 
-![Photo by Calais Action](assets/f8f6d1dbd1ef/1*WBiP74e4TzPYA1gmQf9mjQ.jpeg)
+![Photo by Calais Action](../assets/f8f6d1dbd1ef/1*WBiP74e4TzPYA1gmQf9mjQ.jpeg)
 
 Photo by Calais Action
 

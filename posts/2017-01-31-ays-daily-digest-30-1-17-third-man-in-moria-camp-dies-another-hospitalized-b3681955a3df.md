@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe,greece,european-union,serbia]
 description: Feature
 image:
-  path: assets/b3681955a3df/1*P29Vxn4_jbYAlaaTSUIYYg.jpeg
+  path: ../assets/b3681955a3df/1*P29Vxn4_jbYAlaaTSUIYYg.jpeg
 ---
 
 ### AYS DAILY DIGEST 30\.1\.17 — Third man in Moria Camp dies, another hospitalized\.
 
 
-![](assets/b3681955a3df/1*P29Vxn4_jbYAlaaTSUIYYg.jpeg)
+![](../assets/b3681955a3df/1*P29Vxn4_jbYAlaaTSUIYYg.jpeg)
 
 #### Feature
 
@@ -35,7 +35,7 @@ Sometimes, it is difficult to believe just how bad conditions are on the islands
 ### New edition of Rumour Debunkings released
 
 
-![](assets/b3681955a3df/1*s86jkqU9mCuh4tEU6auGVA.jpeg)
+![](../assets/b3681955a3df/1*s86jkqU9mCuh4tEU6auGVA.jpeg)
 
 
 A higher resolution image, as well as the poster in Arabic, Greek, and Farsi, may be downloaded [here](https://drive.google.com/drive/folders/0B-_rJ_0o5IZIQlkzSXB6UHAwM2c) \. Those who wish to receive the posters as they are released may sign up for the weekly mailing list [here](http://eepurl.com/b-LtBj) \.

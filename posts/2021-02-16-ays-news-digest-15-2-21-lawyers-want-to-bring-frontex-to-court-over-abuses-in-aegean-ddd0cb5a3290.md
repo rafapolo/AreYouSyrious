@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 15/2/21: Lawyers Want to Bring Frontex to Court over Abuses in Aegean
+title: "AYS News Digest 15/2/21: Lawyers Want to Bring Frontex to Court over Abuses in Aegean"
 author: Are You Syrious?
 date: 2021-02-16T15:16:00.985+0000
 last_modified_at: 2021-02-16T22:00:22.855+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,frontex,greece,refugees,housing]
 description: Open Arms sails home // Heavy snowfall in Greece creates freezing conditions in camps // Pushbacks in Romania // Health conditions in…
 image:
-  path: assets/ddd0cb5a3290/1*KprHAKlkV8inTqkj6-5fFA.jpeg
+  path: ../assets/ddd0cb5a3290/1*KprHAKlkV8inTqkj6-5fFA.jpeg
 ---
 
 ### AYS News Digest 15/2/21: Lawyers Want to Bring Frontex to Court over Abuses in Aegean
 #### _Open Arms sails home // Heavy snowfall in Greece creates freezing conditions in camps // Pushbacks in Romania // Health conditions in Serbia // UK’s Napier Barracks found ‘unacceptable’ seven years ago_
 
 
-![Photo source: Frontex Twitter](assets/ddd0cb5a3290/1*KprHAKlkV8inTqkj6-5fFA.jpeg)
+![Photo source: Frontex Twitter](../assets/ddd0cb5a3290/1*KprHAKlkV8inTqkj6-5fFA.jpeg)
 
 Photo source: Frontex Twitter
 ### FEATURE — Frontex May Head to EU Court
@@ -40,7 +40,7 @@ And at this point, “Leggeri and his employees run the risk of making themselve
 #### A point of departure, now for Libyans, too
 
 
-![Photo Source: The Guardian](assets/ddd0cb5a3290/1*HxtAS2s2EmlwESTeNSRWaQ.png)
+![Photo Source: The Guardian](../assets/ddd0cb5a3290/1*HxtAS2s2EmlwESTeNSRWaQ.png)
 
 Photo Source: The Guardian
 
@@ -252,7 +252,7 @@ Read the full findings at the link above\.
 Speaking of reception conditions in France, check out the living conditions in Calais, via Care4Calais \(full [Facebook post](https://www.facebook.com/care4calais/posts/4073896895976570) \) \.
 
 
-![Photo Source: Care4Calais](assets/ddd0cb5a3290/1*ukVc_WAVoGm4DVP8_WBitA.jpeg)
+![Photo Source: Care4Calais](../assets/ddd0cb5a3290/1*ukVc_WAVoGm4DVP8_WBitA.jpeg)
 
 Photo Source: Care4Calais
 

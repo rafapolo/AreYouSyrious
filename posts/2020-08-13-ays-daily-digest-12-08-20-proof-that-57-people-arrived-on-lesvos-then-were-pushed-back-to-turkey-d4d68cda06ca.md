@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,uk,france]
 description: More of the English Channel undue hysteria // crews sent to Lebanon // from Tunisia to Italy increases // terrorism charges in Malta //…
 image:
-  path: assets/d4d68cda06ca/1*jMChL1pLjIWPnPCKGltUXg.jpeg
+  path: ../assets/d4d68cda06ca/1*jMChL1pLjIWPnPCKGltUXg.jpeg
 ---
 
 ### AYS Daily Digest 12/08/20 Proof that 57 people arrived on Lesvos then were pushed back to Turkey by Greece
@@ -16,11 +16,11 @@ _More of the English Channel undue hysteria // crews sent to Lebanon // from Tun
 ### FEATURE: Aegean Boat Report has proof that 57 people arrived on Lesvos then were pushed back to Turkey by Greece
 
 
-![](assets/d4d68cda06ca/1*xzvYifCONDlKvZ0dl-qd5w.jpeg)
+![](../assets/d4d68cda06ca/1*xzvYifCONDlKvZ0dl-qd5w.jpeg)
 
 
 
-![“57 people that arrived on two boats on Lesvos north yesterday seems to have disappeared, port police on Lesvos claims there was no arrivals\.” Photos by [ABR](https://www.facebook.com/AegeanBoatReport/posts/895342667655505)](assets/d4d68cda06ca/1*btSf6UejF5DK23iDGVsvYw.jpeg)
+![“57 people that arrived on two boats on Lesvos north yesterday seems to have disappeared, port police on Lesvos claims there was no arrivals\.” Photos by [ABR](https://www.facebook.com/AegeanBoatReport/posts/895342667655505)](../assets/d4d68cda06ca/1*btSf6UejF5DK23iDGVsvYw.jpeg)
 
 “57 people that arrived on two boats on Lesvos north yesterday seems to have disappeared, port police on Lesvos claims there was no arrivals\.” Photos by [ABR](https://www.facebook.com/AegeanBoatReport/posts/895342667655505)
 
@@ -65,7 +65,7 @@ In related news, German Undersecretary of Defense Peter Tauber “has informed i
 
 
 
-![Photo by [ABR](https://www.facebook.com/AegeanBoatReport/posts/895342667655505)](assets/d4d68cda06ca/1*jMChL1pLjIWPnPCKGltUXg.jpeg)
+![Photo by [ABR](https://www.facebook.com/AegeanBoatReport/posts/895342667655505)](../assets/d4d68cda06ca/1*jMChL1pLjIWPnPCKGltUXg.jpeg)
 
 Photo by [ABR](https://www.facebook.com/AegeanBoatReport/posts/895342667655505)
 
@@ -105,7 +105,7 @@ In an update from a reliable source on [Libyan evictions](https://www.facebook.c
 #### SEA
 
 
-![“What’s the first thing you’d think of to bring, when embarking on a mission in Corona times? Of course\! We have good reason for stockpiling toilet paper: a crew of 29 on \# SeaWatch4 and quite an unclear mission timeframe, thanks to the EU’s years\-long habit: denial of assistance\.” Photo by [Sea Watch International](https://twitter.com/seawatch_intl/status/1293597464407269377)](assets/d4d68cda06ca/1*nIVlEO8E-flaVAlxVOdMzg.jpeg)
+![“What’s the first thing you’d think of to bring, when embarking on a mission in Corona times? Of course\! We have good reason for stockpiling toilet paper: a crew of 29 on \# SeaWatch4 and quite an unclear mission timeframe, thanks to the EU’s years\-long habit: denial of assistance\.” Photo by [Sea Watch International](https://twitter.com/seawatch_intl/status/1293597464407269377)](../assets/d4d68cda06ca/1*nIVlEO8E-flaVAlxVOdMzg.jpeg)
 
 “What’s the first thing you’d think of to bring, when embarking on a mission in Corona times? Of course\! We have good reason for stockpiling toilet paper: a crew of 29 on \# SeaWatch4 and quite an unclear mission timeframe, thanks to the EU’s years\-long habit: denial of assistance\.” Photo by [Sea Watch International](https://twitter.com/seawatch_intl/status/1293597464407269377)
 ### The Mare Liberum is returning to monitoring and facilitating sea rescue in the Aegean next week\!
@@ -215,11 +215,11 @@ Here is a [helpful resource](https://stradasicura.squarespace.com/materiale?fbcl
 #### SERBIA
 
 
-![](assets/d4d68cda06ca/1*MjKBJc4xAVWJ2t--nL8LyQ.jpeg)
+![](../assets/d4d68cda06ca/1*MjKBJc4xAVWJ2t--nL8LyQ.jpeg)
 
 
 
-![“This is a person from Algeria, who was found lying on the street in a conscious state\. According to him, since he was found in the truck, he was brutally beaten\. The citizens called the police and the ambulance in vain, but they did not react\. We intervened and promised to go out on the field\. Worries about passivity …” Update and pictures from [Azil u Srbiji Asylum Protection in Serbia](https://twitter.com/APC_CZA/status/1293609473718857728)](assets/d4d68cda06ca/1*i1mD4-3pCeyIZsKo0r-Udw.jpeg)
+![“This is a person from Algeria, who was found lying on the street in a conscious state\. According to him, since he was found in the truck, he was brutally beaten\. The citizens called the police and the ambulance in vain, but they did not react\. We intervened and promised to go out on the field\. Worries about passivity …” Update and pictures from [Azil u Srbiji Asylum Protection in Serbia](https://twitter.com/APC_CZA/status/1293609473718857728)](../assets/d4d68cda06ca/1*i1mD4-3pCeyIZsKo0r-Udw.jpeg)
 
 “This is a person from Algeria, who was found lying on the street in a conscious state\. According to him, since he was found in the truck, he was brutally beaten\. The citizens called the police and the ambulance in vain, but they did not react\. We intervened and promised to go out on the field\. Worries about passivity …” Update and pictures from [Azil u Srbiji Asylum Protection in Serbia](https://twitter.com/APC_CZA/status/1293609473718857728)
 #### GERMANY
@@ -241,11 +241,11 @@ Here is Integration Senator [Elke Breitenbach’s](https://www.sueddeutsche.de/p
 #### FRANCE
 
 
-![](assets/d4d68cda06ca/1*MKYfSO3w9u8As8obMe26IQ.jpeg)
+![](../assets/d4d68cda06ca/1*MKYfSO3w9u8As8obMe26IQ.jpeg)
 
 
 
-![“This Wednesday 12 August, expulsions of informal living spaces took place simultaneously, from Grande Synthe and to Calais\. Seizure and destruction of personal effects, arbitrary arrests; exiles face daily moral and physical harassment\.” Photo by [Human Rights Observers](https://twitter.com/HumanRightsObs/status/1293594268959944714)](assets/d4d68cda06ca/1*WGXzHpWtLweAAEb4E_H8Iw.jpeg)
+![“This Wednesday 12 August, expulsions of informal living spaces took place simultaneously, from Grande Synthe and to Calais\. Seizure and destruction of personal effects, arbitrary arrests; exiles face daily moral and physical harassment\.” Photo by [Human Rights Observers](https://twitter.com/HumanRightsObs/status/1293594268959944714)](../assets/d4d68cda06ca/1*WGXzHpWtLweAAEb4E_H8Iw.jpeg)
 
 “This Wednesday 12 August, expulsions of informal living spaces took place simultaneously, from Grande Synthe and to Calais\. Seizure and destruction of personal effects, arbitrary arrests; exiles face daily moral and physical harassment\.” Photo by [Human Rights Observers](https://twitter.com/HumanRightsObs/status/1293594268959944714)
 
@@ -263,7 +263,7 @@ Here is Integration Senator [Elke Breitenbach’s](https://www.sueddeutsche.de/p
 #### UK
 
 
-![Photo by the [New Humanitarian](https://www.thenewhumanitarian.org/maps-and-graphics/2020/08/12/cartoon-British-TV-media-migrant-boat-coverage?fbclid=IwAR0Xz0KwbmmN_KTqGsuiJIhjvl3I3LsbvkNw3F97TxgaRW6RMNAzy9DXAgs)](assets/d4d68cda06ca/1*BUs0gWvI1w4zyERFpntg0A.jpeg)
+![Photo by the [New Humanitarian](https://www.thenewhumanitarian.org/maps-and-graphics/2020/08/12/cartoon-British-TV-media-migrant-boat-coverage?fbclid=IwAR0Xz0KwbmmN_KTqGsuiJIhjvl3I3LsbvkNw3F97TxgaRW6RMNAzy9DXAgs)](../assets/d4d68cda06ca/1*BUs0gWvI1w4zyERFpntg0A.jpeg)
 
 Photo by the [New Humanitarian](https://www.thenewhumanitarian.org/maps-and-graphics/2020/08/12/cartoon-British-TV-media-migrant-boat-coverage?fbclid=IwAR0Xz0KwbmmN_KTqGsuiJIhjvl3I3LsbvkNw3F97TxgaRW6RMNAzy9DXAgs)
 ### With increasing hysterical concern about the boats crossing from France to the UK, both are seeking to “completely gut” the migration route along the English Channel

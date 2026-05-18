@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 2/2/2017: The explosion of a train wagon in Šid leaves six people badly injured
+title: "AYS DAILY DIGEST 2/2/2017: The explosion of a train wagon in Šid leaves six people badly injured"
 author: Are You Syrious?
 date: 2017-02-02T22:52:03.751+0000
 last_modified_at: 2017-02-03T18:21:12.737+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,subotica,council-of-europe,paris]
 description: Desperate people forced to take dangerous roads // Closed borders are putting human lives in danger // People in Greece are being slowly…
 image:
-  path: assets/5fb4a8cc8067/1*Q-BgFxM5S4LPCGl5ICUOUg.jpeg
+  path: ../assets/5fb4a8cc8067/1*Q-BgFxM5S4LPCGl5ICUOUg.jpeg
 ---
 
 ### AYS DAILY DIGEST 2/2/2017: The explosion of a train wagon in Šid leaves six people badly injured
@@ -15,7 +15,7 @@ image:
 _Desperate people forced to take dangerous roads // Closed borders are putting human lives in danger // People in Greece are being slowly moved from camps in mainlands and islands // Help needed in Serbia, even though the government is still doing everything to prevent volunteers from bringing it // Hate propaganda by Serbian media // Police in France continues to hunt refugees // Council of Europe condemns detention of people in migration_
 
 
-![“Two different sides of reality, broken one and megalomaniac imagination one in a simple message\. Both trapped in the mud, down by the Belgrade waterfront\. The truth is somewhere else\. And future became legendary… Belgrade, January 2017\. A note from the refugee tragedy…” Copyright: [Igor Čoko](http://www.igorcoko.net)](assets/5fb4a8cc8067/1*Q-BgFxM5S4LPCGl5ICUOUg.jpeg)
+![“Two different sides of reality, broken one and megalomaniac imagination one in a simple message\. Both trapped in the mud, down by the Belgrade waterfront\. The truth is somewhere else\. And future became legendary… Belgrade, January 2017\. A note from the refugee tragedy…” Copyright: [Igor Čoko](http://www.igorcoko.net)](../assets/5fb4a8cc8067/1*Q-BgFxM5S4LPCGl5ICUOUg.jpeg)
 
 “Two different sides of reality, broken one and megalomaniac imagination one in a simple message\. Both trapped in the mud, down by the Belgrade waterfront\. The truth is somewhere else\. And future became legendary… Belgrade, January 2017\. A note from the refugee tragedy…” Copyright: [Igor Čoko](http://www.igorcoko.net)
 ### FEATURE
@@ -35,7 +35,7 @@ We will update this report with new information, when available\.
 Another rubber boat was found in the sea overnight\. A rescue team saved 120 passengers and brought them to safety\. Among the passengers were many children\.
 
 
-![Photo by MSF Sea](assets/5fb4a8cc8067/1*ciaPl-8p_9FRpjm4VGbeNg.jpeg)
+![Photo by MSF Sea](../assets/5fb4a8cc8067/1*ciaPl-8p_9FRpjm4VGbeNg.jpeg)
 
 Photo by MSF Sea
 ### GREECE
@@ -78,7 +78,7 @@ In Polycastro, our friend from the [Open Cultural Center](https://www.facebook.c
 _“The children were full of laughter, and adults full of smiles\. We at OCC are so happy that, with your help, the center is going to be a success\! We’re very close to opening the center full time — next week the interior walls will be installed\!”_
 
 
-![Photo by Open Cultural Center](assets/5fb4a8cc8067/1*nHUjQyGPwoL1jK_5Zl7iTQ.jpeg)
+![Photo by Open Cultural Center](../assets/5fb4a8cc8067/1*nHUjQyGPwoL1jK_5Zl7iTQ.jpeg)
 
 Photo by Open Cultural Center
 
@@ -89,16 +89,16 @@ Another AYS friend, Rando Wagner, visited people at Patras this week, where he r
 Another round of horrifying photos of refugees conditions have been released\. This time, they document the situation at Subotica, near the Hungarian border, where people are sleeping in the warehouse of an abandoned brick factory\. They lack access to sanitary facilities, and have only minimal food\. Some organizations are managing to distribute food once a day\.
 
 
-![](assets/5fb4a8cc8067/1*TgQm0sV6BiZhJv1IPBz9vg.jpeg)
+![](../assets/5fb4a8cc8067/1*TgQm0sV6BiZhJv1IPBz9vg.jpeg)
 
 
 
-![Photo by [Istočno evopska misija](https://www.facebook.com/misija.org/)](assets/5fb4a8cc8067/1*RHQ4ROT_VtdqHe00spDaaA.jpeg)
+![Photo by [Istočno evopska misija](https://www.facebook.com/misija.org/)](../assets/5fb4a8cc8067/1*RHQ4ROT_VtdqHe00spDaaA.jpeg)
 
 Photo by [Istočno evopska misija](https://www.facebook.com/misija.org/)
 
 
-[![Hot food distribution for refugees on Serbian-Hungarian borders](assets/5fb4a8cc8067/7b27_hqdefault.jpg "Hot food distribution for refugees on Serbian-Hungarian borders")](http://www.youtube.com/watch?v=len-GLZm_QA)
+[![Hot food distribution for refugees on Serbian-Hungarian borders](../assets/5fb4a8cc8067/7b27_hqdefault.jpg "Hot food distribution for refugees on Serbian-Hungarian borders")](http://www.youtube.com/watch?v=len-GLZm_QA)
 
 
 Meanwhile, the Serbian government continues to cause problems for all those who are trying to help people and bring aid\. We are hearing news about groups that have been stopped at the border while trying to bring goods for people who are living in inhuman conditions and sleeping out in the open\.
@@ -139,7 +139,7 @@ However, this is not the only center in this country where people have limited f
 The situation is not getting any better for people in Paris\. Group [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/?fref=nf) provides information about the government’s moves to help people sleeping in the streets\.
 
 
-![Photo by Danika Jurisic](assets/5fb4a8cc8067/1*65ZZixsvum14EMXrJhbgOg.jpeg)
+![Photo by Danika Jurisic](../assets/5fb4a8cc8067/1*65ZZixsvum14EMXrJhbgOg.jpeg)
 
 Photo by Danika Jurisic
 
@@ -182,7 +182,7 @@ _“One of the first actions taken under the 2016 EU\-Turkey statement was too c
 In 2010, the Council of Europe Parliamentary Assembly adopted a resolution calling on states to ensure that _“the detention of asylum seekers and irregular migrants shall be exceptional and only used after first reviewing all other alternatives and finding that there is no effective alternative\.”_
 
 
-![Protests in London\. Photo by Nataša Jandrić](assets/5fb4a8cc8067/1*WPp6Wp1ESN_rYuRyjDlI4w.jpeg)
+![Protests in London\. Photo by Nataša Jandrić](../assets/5fb4a8cc8067/1*WPp6Wp1ESN_rYuRyjDlI4w.jpeg)
 
 Protests in London\. Photo by Nataša Jandrić
 

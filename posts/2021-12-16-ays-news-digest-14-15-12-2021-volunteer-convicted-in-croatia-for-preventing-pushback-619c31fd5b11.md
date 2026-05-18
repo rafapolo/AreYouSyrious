@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 14–15/12/2021: Volunteer convicted in Croatia for preventing pushback
+title: "AYS News Digest 14–15/12/2021: Volunteer convicted in Croatia for preventing pushback"
 author: Are You Syrious?
 date: 2021-12-16T15:18:12.157+0000
 last_modified_at: 2021-12-16T15:18:12.157+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: []
 description: Are You Syrious?
 image:
-  path: assets/619c31fd5b11/0*tCTglyY0MOhIyO87
+  path: ../assets/619c31fd5b11/0*tCTglyY0MOhIyO87
 ---
 
 ### AYS News Digest 14–15/12/2021: Volunteer convicted in Croatia for preventing pushback
 
 
-![](assets/619c31fd5b11/0*Ts3pGJdy9SZVCUhQ.jpeg)
+![](../assets/619c31fd5b11/0*Ts3pGJdy9SZVCUhQ.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----ebf12c98ce10-----------------------------------)
@@ -25,11 +25,11 @@ Evidence of pushbacks from Greece to Turkey are published as camps are criticize
 ### Volunteer convicted in Croatia for preventing pushback
 
 
-![](assets/619c31fd5b11/0*eG3kOD-2z4WXqgP9)
+![](../assets/619c31fd5b11/0*eG3kOD-2z4WXqgP9)
 
 
 
-![](assets/619c31fd5b11/0*tCTglyY0MOhIyO87)
+![](../assets/619c31fd5b11/0*tCTglyY0MOhIyO87)
 
 
 Dragan Umičević has been convicted in the Croatian court\. The following statement was issued on the matter\.
@@ -45,7 +45,7 @@ Please help us with payment to our IBAN HR6824020061100765183 \(for Overseas pay
 In solidarity with Dragan, yours AYS\.
 
 
-![](assets/619c31fd5b11/0*EWQBO30WB4vXrtxp)
+![](../assets/619c31fd5b11/0*EWQBO30WB4vXrtxp)
 
 ### LIBYA
 
@@ -64,11 +64,11 @@ GREECE
 Evidence of pushbacks from Greece to Turkey are published as camps are criticized\.
 
 
-![](assets/619c31fd5b11/0*jJRSzmk2jO6Z0MMV)
+![](../assets/619c31fd5b11/0*jJRSzmk2jO6Z0MMV)
 
 
 
-![](assets/619c31fd5b11/0*YvhPs9Y-SQcoDIev)
+![](../assets/619c31fd5b11/0*YvhPs9Y-SQcoDIev)
 
 
 [This analysis](https://www.statewatch.org/analyses/2021/greece-the-new-hotspots-and-the-prevention-of-primary-flows-a-human-rights-disaster/?fbclid=IwAR2EIh1TVGdHefsg3p6HEZKMpX38gv52vwpIao8iBbi4q4ffq_5LyE1u0ZQ) explores the changes in the Greek approach to managing people as they arrive\. It cites the millions of Euros that have been spent on closed facilities and the desire for the prevention of ‘primary flows’\. [Read more here\.](https://www.statewatch.org/analyses/2021/greece-the-new-hotspots-and-the-prevention-of-primary-flows-a-human-rights-disaster/?fbclid=IwAR2EIh1TVGdHefsg3p6HEZKMpX38gv52vwpIao8iBbi4q4ffq_5LyE1u0ZQ)
@@ -106,11 +106,11 @@ But whilst the number of people both arriving and currently in Belarus is droppi
 SPAIN
 
 
-![](assets/619c31fd5b11/0*Qm5UJ24BEZXRecLn)
+![](../assets/619c31fd5b11/0*Qm5UJ24BEZXRecLn)
 
 
 
-![](assets/619c31fd5b11/0*RVSW3WUpTAy_Y_Gx)
+![](../assets/619c31fd5b11/0*RVSW3WUpTAy_Y_Gx)
 
 
 [Images of the conditions for seasonal workers](https://twitter.com/InfoMigrants/status/1470810063874912261?fbclid=IwAR3o9V2Ob3PEbBemW1ap2oD94CbwSEsnI9kBtJJfTyHUgMYJsplGovBJa3k) in Spain have been shared in order to demonstrate the reality of life for them in Spain\.
@@ -178,7 +178,7 @@ Professor M [ichelel Ancione](https://twitter.com/michelelancione) of the Polyte
 [Reframing Migration Narratives Toolkit — for Greece](https://www.humanrights360.org/reframing-migration-narratives-toolikit/?fbclid=IwAR2c-WNreCdjPkWfUcNwp6qLohWDLC8a8t0FH-Pbz87_V5cDzvSh_pxA3V0) — has been released\. Resources for those involved in campaigning\.
 
 
-![](assets/619c31fd5b11/0*V-jsBX_7Lm5zNHg9)
+![](../assets/619c31fd5b11/0*V-jsBX_7Lm5zNHg9)
 
 
 Friday evening will see an information event in Berlin with the organisation Passamontagna and No Borders Truck\. [Full details here\.](https://www.facebook.com/nonationtruck/posts/633903698023699)

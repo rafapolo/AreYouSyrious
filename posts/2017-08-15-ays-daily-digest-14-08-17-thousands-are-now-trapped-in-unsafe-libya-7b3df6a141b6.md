@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 14/08/17: Thousands are now trapped in unsafe Libya
+title: "AYS Daily Digest 14/08/17: Thousands are now trapped in unsafe Libya"
 author: Are You Syrious?
 date: 2017-08-15T02:06:57.073+0100
 last_modified_at: 2017-08-29T15:46:18.892+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,libya,borders,migrants,eu-politics]
 description: As rescue boats are being pushed out of its waters, gruesome details about torture in Libya resurface / Vial overcrowded as authorities are…
 image:
-  path: assets/7b3df6a141b6/1*8-rlU2RzYMiR5wp6IaKjfg.jpeg
+  path: ../assets/7b3df6a141b6/1*8-rlU2RzYMiR5wp6IaKjfg.jpeg
 ---
 
 ### AYS Daily Digest 14/08/17: Thousands are now trapped in unsafe Libya
@@ -15,7 +15,7 @@ image:
 _As rescue boats are being pushed out of its waters, gruesome details about torture in Libya resurface / Vial overcrowded as authorities are clearing Souda camp on Chios / Ventimiglia Church in northern Italy, a safe haven for many, forced to close / And more news…_
 
 
-![Save the Children joins NGO’s such as MSF and Sea Eye that are abandoning SAR area off Lybian coast\. Photo: STC](assets/7b3df6a141b6/1*8-rlU2RzYMiR5wp6IaKjfg.jpeg)
+![Save the Children joins NGO’s such as MSF and Sea Eye that are abandoning SAR area off Lybian coast\. Photo: STC](../assets/7b3df6a141b6/1*8-rlU2RzYMiR5wp6IaKjfg.jpeg)
 
 Save the Children joins NGO’s such as MSF and Sea Eye that are abandoning SAR area off Lybian coast\. Photo: STC
 #### Libya/Sea
@@ -79,7 +79,7 @@ Meanwhile, the Libyan navy said its order to foreign ships to stay out of their 
 ### Vial camp overcrowded as authorities continue to clear out Souda camp on Chios
 
 
-![Souda \(picuted here\) was a hideous tent camp, but Vial is not a much better alternative\. Photo: Zoe Trust](assets/7b3df6a141b6/1*NzcGHxPiSlY_RN8yLPQBWg.jpeg)
+![Souda \(picuted here\) was a hideous tent camp, but Vial is not a much better alternative\. Photo: Zoe Trust](../assets/7b3df6a141b6/1*NzcGHxPiSlY_RN8yLPQBWg.jpeg)
 
 Souda \(picuted here\) was a hideous tent camp, but Vial is not a much better alternative\. Photo: Zoe Trust
 
@@ -93,7 +93,7 @@ Souda \(picuted here\) was a hideous tent camp, but Vial is not a much better al
 ### Girl power: All\-female refugee basketball team competing against local teams in Athens
 
 
-![Women from Afghanistan, Iran, Iraq and Pakistan playing together\. Photo: Help Refugees](assets/7b3df6a141b6/1*OGrhh7HIiCO0p1XQ4z0INA.jpeg)
+![Women from Afghanistan, Iran, Iraq and Pakistan playing together\. Photo: Help Refugees](../assets/7b3df6a141b6/1*OGrhh7HIiCO0p1XQ4z0INA.jpeg)
 
 Women from Afghanistan, Iran, Iraq and Pakistan playing together\. Photo: Help Refugees
 
@@ -104,7 +104,7 @@ An all\-female basketball team was formed by refugees in Athens\. Women from Afg
 Following months of struggle, St\. Antonio’s Church in Ventimiglia has now been forced to officially close\. A place of refuge for the thousands of displaced people moving through Ventimiglia since the spring of 2016, it gave safe accommodation, food, clothing and respite to all those in need of sanctuary through only voluntary support and donations\.
 
 
-![Notice of closure after “440 days of hospitality and solidarity”\. Photo: RYS Italy](assets/7b3df6a141b6/1*pEMSYeRT7eCiok_S-qUoPQ.jpeg)
+![Notice of closure after “440 days of hospitality and solidarity”\. Photo: RYS Italy](../assets/7b3df6a141b6/1*pEMSYeRT7eCiok_S-qUoPQ.jpeg)
 
 Notice of closure after “440 days of hospitality and solidarity”\. Photo: RYS Italy
 
@@ -122,7 +122,7 @@ Ventimiglia is sometimes dubbed “little Calais” due to the many stranded peo
 The number of refugees sleeping rough on the streets of Paris is well over a thousand, and local volunteers say their living conditions are getting worse every day\. Again, many tents can be seen by the road\. Paris Refugee Ground Support will now be setting up again to cover the winter and they will be ready to start receiving donations in a week\.
 
 
-![Many people are living on the streets of Paris again\. Photo: Care4Calais](assets/7b3df6a141b6/1*YCNwdMWORjemMs_AiU2j9Q.jpeg)
+![Many people are living on the streets of Paris again\. Photo: Care4Calais](../assets/7b3df6a141b6/1*YCNwdMWORjemMs_AiU2j9Q.jpeg)
 
 Many people are living on the streets of Paris again\. Photo: Care4Calais
 ### And a little bit of good news to end this grim day: greetings from the Adriatic coast\!
@@ -130,17 +130,17 @@ Many people are living on the streets of Paris again\. Photo: Care4Calais
 Thanks to the generous private donors of the Good Hosts campaign, AYS managed to bring dozens of schoolchildren from Porin camp in Zagreb and Croatian children’s homes where unaccompanied minors are held to a one\-week vacation at the seaside\. Young refugees accompanied by their parents and our volunteers are doing yoga, learning to swim and row, attending creative workshops and visiting tourist attractions along the Adriatic coast\. Their smiles are the biggest reward for all of the hard work our field volunteers are doing on a daily basis and we wanted to share some of the good vibes with you\. ;\)
 
 
-![We’ve been swimming and rowing all day long…](assets/7b3df6a141b6/1*KPHQyJOQi_DCuGyNGzzHXw.jpeg)
+![We’ve been swimming and rowing all day long…](../assets/7b3df6a141b6/1*KPHQyJOQi_DCuGyNGzzHXw.jpeg)
 
 We’ve been swimming and rowing all day long…
 
 
-![\. \.local kids and tourists have joined their refugee peers in a graffiti workshop…](assets/7b3df6a141b6/1*cL7yqqXCYkvaLPUsjvyWVw.jpeg)
+![\. \.local kids and tourists have joined their refugee peers in a graffiti workshop…](../assets/7b3df6a141b6/1*cL7yqqXCYkvaLPUsjvyWVw.jpeg)
 
 \. \.local kids and tourists have joined their refugee peers in a graffiti workshop…
 
 
-![…and we play card games every night before going to sleep\!](assets/7b3df6a141b6/1*LJI_x_hve_tZ7u0oHjcc3A.jpeg)
+![…and we play card games every night before going to sleep\!](../assets/7b3df6a141b6/1*LJI_x_hve_tZ7u0oHjcc3A.jpeg)
 
 …and we play card games every night before going to sleep\!
 

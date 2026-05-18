@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,immigration]
 description: Aid groups have launched the largest delivery of assistance yet in Syria. Refugees break out from closed camp Vial on Chios ahead of the…
 image:
-  path: assets/c7ddb5fb6b15/1*WFcZP6FzMiKlBkyc-7Cqwg.png
+  path: ../assets/c7ddb5fb6b15/1*WFcZP6FzMiKlBkyc-7Cqwg.png
 ---
 
 ### AYS DAILY NEWS DIGEST 21/4/2016
 #### Aid groups have launched the largest delivery of assistance yet in Syria\. Refugees break out from closed camp Vial on Chios ahead of the new deal according to which refugees cannot be detained in centers for longer than 25 days\. In camp Moria on Lesvos, insufficient food portions cause hunger and fights among refugees\. UK to take in 3,000 unaccompanied children from Middle East and North Africa\.
 
 
-![Camp on Lebanese\-Syrian border\. Photographer: Christoph von Toggenburg](assets/c7ddb5fb6b15/1*WFcZP6FzMiKlBkyc-7Cqwg.png)
+![Camp on Lebanese\-Syrian border\. Photographer: Christoph von Toggenburg](../assets/c7ddb5fb6b15/1*WFcZP6FzMiKlBkyc-7Cqwg.png)
 
 Camp on Lebanese\-Syrian border\. Photographer: Christoph von Toggenburg
 
@@ -70,7 +70,7 @@ Camp on Lebanese\-Syrian border\. Photographer: Christoph von Toggenburg
 
 
 
-![Camp on Lebanese\-Syrian border\. Photographer: Christoph von Toggenburg](assets/c7ddb5fb6b15/1*mFAHrVqew_ksWsY_QQPldA.png)
+![Camp on Lebanese\-Syrian border\. Photographer: Christoph von Toggenburg](../assets/c7ddb5fb6b15/1*mFAHrVqew_ksWsY_QQPldA.png)
 
 Camp on Lebanese\-Syrian border\. Photographer: Christoph von Toggenburg
 ### A 17\-year\-old Afghan refugee died on Tuesday at Laiko Hospital in Athens from what appears to be a series of complications\.
@@ -140,7 +140,7 @@ Camp on Lebanese\-Syrian border\. Photographer: Christoph von Toggenburg
 
 
 
-![Camp on Lebanese\-Syrian border\. Photographer: Christoph von Toggenburg](assets/c7ddb5fb6b15/1*iK1xEqK2u0NWg3DdB9obog.png)
+![Camp on Lebanese\-Syrian border\. Photographer: Christoph von Toggenburg](../assets/c7ddb5fb6b15/1*iK1xEqK2u0NWg3DdB9obog.png)
 
 Camp on Lebanese\-Syrian border\. Photographer: Christoph von Toggenburg
 #### UK

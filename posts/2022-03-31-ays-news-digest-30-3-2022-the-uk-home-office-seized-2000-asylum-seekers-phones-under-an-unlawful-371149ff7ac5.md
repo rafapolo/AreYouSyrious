@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 30/3/2022: The UK Home Office seized 2000 asylum seekers’ phones under an unlawful…
+title: "AYS News Digest 30/3/2022: The UK Home Office seized 2000 asylum seekers’ phones under an unlawful…"
 author: Are You Syrious?
 date: 2022-03-31T00:36:07.156+0100
 last_modified_at: 2022-03-31T13:17:17.548+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,pushback,uk,greece]
 description: Greece national transparency watchdog claims there are no pushbacks taking place by the Greek authorities/ 34 people stranded on a river…
 image:
-  path: assets/371149ff7ac5/0*zgFoERM6IeeQS8u0.jpg
+  path: ../assets/371149ff7ac5/0*zgFoERM6IeeQS8u0.jpg
 ---
 
 ### **AYS News Digest 30/3/2022: The UK Home Office seized 2000 asylum seekers’ phones under an unlawful policy**
@@ -15,7 +15,7 @@ image:
 Greece national transparency watchdog claims there are no pushbacks taking place by the Greek authorities/ 34 people stranded on a river islet in Greece/ Italian government is providing 428 million euros to welcome Ukrainian refugees/ Germany announces it will stop providing training to the Libyan Coast Guard/ The UK Home Office seized phones from asylum seekers
 
 
-![\(Source: CrimethInc, Photograph: Items abandoned by refugees in Poland\)](assets/371149ff7ac5/0*zgFoERM6IeeQS8u0.jpg)
+![\(Source: CrimethInc, Photograph: Items abandoned by refugees in Poland\)](../assets/371149ff7ac5/0*zgFoERM6IeeQS8u0.jpg)
 
 \(Source: CrimethInc, Photograph: Items abandoned by refugees in Poland\)
 
@@ -160,7 +160,7 @@ This training began seven years ago under Operation Sophia, which was then repla
 The group of migrants were initially rescued by a German container ship\. The Sea\-Eye 4 then supported the ship, and assisted the group of migrants\. They now hope that the Maltese authorities will allow their ship to dock and disembark the passengers\.
 
 
-![\(Source: AP News\)](assets/371149ff7ac5/0*GOabb7OgdBfm58jR.jpeg)
+![\(Source: AP News\)](../assets/371149ff7ac5/0*GOabb7OgdBfm58jR.jpeg)
 
 \(Source: AP News\)
 
@@ -177,7 +177,7 @@ The group of migrants were initially rescued by a German container ship\. The Se
 In November 2019, they were released on bail, and have remained on parole in Malta\. On the [El Hiblu 3 website](https://elhiblu3.info/) , it states they have to register at the police station every day and attend monthly hearings\. [Amnesty International](https://www.amnesty.org/en/petition/w4r-2020-malta-el-hiblu-3/) has demanded that their charges be dropped and the case closed before trial\.
 
 
-![\(Source: Times Malta, Photo: El Hiblu 3 campaign\)](assets/371149ff7ac5/0*8GBRSlQeoYC3U6Db.jpg)
+![\(Source: Times Malta, Photo: El Hiblu 3 campaign\)](../assets/371149ff7ac5/0*8GBRSlQeoYC3U6Db.jpg)
 
 \(Source: Times Malta, Photo: El Hiblu 3 campaign\)
 
@@ -194,7 +194,7 @@ Around 71,940 people have arrived in Italy from Ukraine to date; the numbers of 
 **Le Monde reports that the prefect of the Pas\-de\-Calais unlawfully dismantled a migrant camp on 29 September 2020\.**
 
 
-![\(Source: Le Monde, Photograph: Bernard Barron, AFP\)](assets/371149ff7ac5/0*0fD1TYpyQFG0g9sL.jpg)
+![\(Source: Le Monde, Photograph: Bernard Barron, AFP\)](../assets/371149ff7ac5/0*0fD1TYpyQFG0g9sL.jpg)
 
 \(Source: Le Monde, Photograph: Bernard Barron, AFP\)
 

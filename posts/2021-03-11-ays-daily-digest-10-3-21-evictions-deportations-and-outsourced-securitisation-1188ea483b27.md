@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 10/3/21: Evictions, deportations and outsourced securitisation
+title: "AYS Daily Digest 10/3/21: Evictions, deportations and outsourced securitisation"
 author: Are You Syrious?
 date: 2021-03-11T15:59:58.383+0000
 last_modified_at: 2021-03-11T18:16:57.346+0000
 categories: Are You Syrious?
 tags: [digest,europe,migration,refugees,germany]
-description: Alarming developments in Greece: censorship, intimidation and restrictions on access for journalists, organisations kept away from the…
+description: "Alarming developments in Greece: censorship, intimidation and restrictions on access for journalists, organisations kept away from the…"
 image:
-  path: assets/1188ea483b27/0*IsJRjQZL2FY3NEzw
+  path: ../assets/1188ea483b27/0*IsJRjQZL2FY3NEzw
 ---
 
 ### AYS Daily Digest 10/3/21: Evictions, deportations and outsourced securitisation
 #### Alarming developments in Greece: censorship, intimidation and restrictions on access for journalists, organisations kept away from the camps and centres, people left alone / Serbia: An increase in the numbers of unaccompanied and separated children / Pro Asyl’s ight against deportations from Germany to Afghanistan / recommended reads & more
 
 
-![People recently evicted are left with no options \(Photo: [**Katy Fallon**](https://twitter.com/katymfallon) **\)**](assets/1188ea483b27/0*IsJRjQZL2FY3NEzw)
+![People recently evicted are left with no options \(Photo: [**Katy Fallon**](https://twitter.com/katymfallon) **\)**](../assets/1188ea483b27/0*IsJRjQZL2FY3NEzw)
 
 People recently evicted are left with no options \(Photo: [**Katy Fallon**](https://twitter.com/katymfallon) **\)**
 #### FEATURED
@@ -34,7 +34,7 @@ We will be reporting more extensively on this in our coming daily reports and in
 At the same time, people who had been staying in a hotel near Corinth are now being evicted and are sleeping in tents on the street, as many did earlier due to evictions from hotels, provisional accommodation in school gyms and those who were the victims of right\-wing local policies\. Most people in the Corinth case are from Iraq and Syria and after their support ended they had no means to support themselves and it remains to be seeT if any systemic solution will be presented any time soon, given the number of people affected by this situation\.
 
 
-![\(Photo: [Katy Fallon](https://twitter.com/katymfallon) \)](assets/1188ea483b27/0*E13BxtMr2aQ3J4Qf)
+![\(Photo: [Katy Fallon](https://twitter.com/katymfallon) \)](../assets/1188ea483b27/0*E13BxtMr2aQ3J4Qf)
 
 \(Photo: [Katy Fallon](https://twitter.com/katymfallon) \)
 #### GREECE
@@ -45,7 +45,7 @@ At the same time, people who had been staying in a hotel near Corinth are now be
 ### An increase in the numbers of unaccompanied and separated children
 
 
-![Info Park regularly distributes the information leaflets in Pashto, Persian, Arabic and English languages with the SOS phone number](assets/1188ea483b27/0*YViOF3FhJMQZlmif.jpg)
+![Info Park regularly distributes the information leaflets in Pashto, Persian, Arabic and English languages with the SOS phone number](../assets/1188ea483b27/0*YViOF3FhJMQZlmif.jpg)
 
 Info Park regularly distributes the information leaflets in Pashto, Persian, Arabic and English languages with the SOS phone number
 
@@ -69,7 +69,7 @@ Info Park noted an increase in the numbers of unaccompanied and separated childr
 
 
 
-![](assets/1188ea483b27/0*ALlYBfEYxiE_Yqdw)
+![](../assets/1188ea483b27/0*ALlYBfEYxiE_Yqdw)
 
 
 
@@ -167,7 +167,7 @@ Some deportations are stopped at the last minute by the courts, but many others 
 989 people have been deported to Afghanistan since 2016\. Read more on deportations from Germany [here](https://www.infomigrants.net/en/post/30778/more-than-1-000-afghan-asylum-seekers-deported-from-germany?fbclid=IwAR2GEdA4cUVokJhRHdg8XOjx1yHryTDueGmqxYl9SZ2sveuFBCqXAU4R9Xw) \. In our “worth reading” section, read more on how the pandemic affected people in search for international protection\.
 
 
-![Deportation from the almost empty Hanover airport on March 9, 2021\. Photo: [SaschaSchiessl / via Twitter](https://twitter.com/SaschaSchiessl/status/1369385551577645056) , via: _Afghanistan Zhaghdablai — Thomas Ruttig über Afghanistan_](assets/1188ea483b27/0*oQlHll351Zsz-65T)
+![Deportation from the almost empty Hanover airport on March 9, 2021\. Photo: [SaschaSchiessl / via Twitter](https://twitter.com/SaschaSchiessl/status/1369385551577645056) , via: _Afghanistan Zhaghdablai — Thomas Ruttig über Afghanistan_](../assets/1188ea483b27/0*oQlHll351Zsz-65T)
 
 Deportation from the almost empty Hanover airport on March 9, 2021\. Photo: [SaschaSchiessl / via Twitter](https://twitter.com/SaschaSchiessl/status/1369385551577645056) , via: _Afghanistan Zhaghdablai — Thomas Ruttig über Afghanistan_
 #### DENMARK

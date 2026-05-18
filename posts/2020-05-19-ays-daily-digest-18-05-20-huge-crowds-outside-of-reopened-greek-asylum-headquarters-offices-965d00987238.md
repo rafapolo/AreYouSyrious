@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: []
 description: Are You Syrious?
 image:
-  path: assets/965d00987238/0*fMYfODJZp56r8lb7.jpeg
+  path: ../assets/965d00987238/0*fMYfODJZp56r8lb7.jpeg
 ---
 
 ### AYS Daily Digest 18/05/20 Huge Crowds Outside of Reopened Greek Asylum Headquarters’ Offices
 
 
-![](assets/965d00987238/0*eVgTzCzmeKPCeA5n.jpeg)
+![](../assets/965d00987238/0*eVgTzCzmeKPCeA5n.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----87d8434ad6ed----------------------)
@@ -41,32 +41,32 @@ The headquarters of the Asylum Service reopened on Monday morning after being cl
 People started gathering outside at midnight to wait\. There has been an increase in anxiety about everyone’s cases since they’ve been out of touch for two months\. More [here\.](https://www.efsyn.gr/ellada/dikaiomata/243840_ntropiastikes-eikones-synostismoy-kai-haoys-exo-apo-tin-ypiresia-asyloy)
 
 
-![](assets/965d00987238/0*cQr66H5GJ3SOjKQn)
+![](../assets/965d00987238/0*cQr66H5GJ3SOjKQn)
 
 
 
-![](assets/965d00987238/0*fMYfODJZp56r8lb7.jpeg)
+![](../assets/965d00987238/0*fMYfODJZp56r8lb7.jpeg)
 
 
 Photo by [Ef\. Syn\.](https://www.efsyn.gr/ellada/dikaiomata/243840_ntropiastikes-eikones-synostismoy-kai-haoys-exo-apo-tin-ypiresia-asyloy)
 ### GREECE
 
 
-![](assets/965d00987238/0*MyGrIcKXzXD9okCg)
+![](../assets/965d00987238/0*MyGrIcKXzXD9okCg)
 
 
 “In the news they say today is the hottest day in Greece ever recorded in May\. So everyone wants cold water and is collecting plastic bottles for our recycling truck\. It was crazy, but we managed\. On the other hand, these pictures are very sad: For may kids this becomes the biggest fun they have in the day\. So you can imagine the lack of fun they have here\.” Pictures taken by [Amani Hussein/MCAT](https://www.facebook.com/MoriaCoronaAwarenessTeam/posts/138999727729206?hc_location=ufi)
 
 
-![](assets/965d00987238/0*H1sJcgY7QAEwuOJd)
+![](../assets/965d00987238/0*H1sJcgY7QAEwuOJd)
 
 
 
-![](assets/965d00987238/0*Mq0eMBSN8jz8XNPQ)
+![](../assets/965d00987238/0*Mq0eMBSN8jz8XNPQ)
 
 
 
-![](assets/965d00987238/0*RVX-F-C55IvR8ADk.jpeg)
+![](../assets/965d00987238/0*RVX-F-C55IvR8ADk.jpeg)
 
 
 Photos by Moria White Helmets
@@ -97,11 +97,11 @@ Update from [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/pos
 
 
 
-![](assets/965d00987238/0*WswGcy52yGyAZK-6)
+![](../assets/965d00987238/0*WswGcy52yGyAZK-6)
 
 
 
-![](assets/965d00987238/0*gSTxoRY8OMtr67B5.jpeg)
+![](../assets/965d00987238/0*gSTxoRY8OMtr67B5.jpeg)
 
 
 “I’d like to write shame but somehow the word has gone out\. At dawn, the Greek police violently evacuated a capture in which refugees lived \(that is, people in need protection under international conventions\) \. They were transferred to Petros Ralli to depict the channels the establishment of the doctrine of the “iron class” on the terrified faces of children\. And guess what they did to them next? Totally cynically left them in the middle of the street, homeless and helpless, without any concern where they sleep and if they have to eat\. The photo is taken a while ago in Exarchia square, where the refugees ended up with their children and their whole lives gathered in a trash bag\.” [Photo by Maria Louka](https://www.facebook.com/nobordersnetwork/posts/3004800269587845?hc_location=ufi)
@@ -129,7 +129,7 @@ Early on Saturday morning 38 people came close to Fuerteventura and on Sunday 49
 ### SERBIA
 
 
-![](assets/965d00987238/0*9zUecy3A76feLNaH)
+![](../assets/965d00987238/0*9zUecy3A76feLNaH)
 
 
 Photo by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/a.312076942523930/983919395339678/?type=3&theater)

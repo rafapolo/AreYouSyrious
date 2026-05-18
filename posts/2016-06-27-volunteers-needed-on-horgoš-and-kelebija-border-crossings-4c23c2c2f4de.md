@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe,syria,brexit,migration]
 description: Greece
 image:
-  path: assets/4c23c2c2f4de/1*Kk6Bd8JgtvobkXRxLgvcyg.jpeg
+  path: ../assets/4c23c2c2f4de/1*Kk6Bd8JgtvobkXRxLgvcyg.jpeg
 ---
 
 ### Volunteers needed on Horgoš and Kelebija border crossings
 
 
-![Refugees from Gaza arriving on Lesvos\. Husband is carrying his blind wife on his back and a baby in his hands\. Photo taken from lesvosnews\.net](assets/4c23c2c2f4de/1*Kk6Bd8JgtvobkXRxLgvcyg.jpeg)
+![Refugees from Gaza arriving on Lesvos\. Husband is carrying his blind wife on his back and a baby in his hands\. Photo taken from lesvosnews\.net](../assets/4c23c2c2f4de/1*Kk6Bd8JgtvobkXRxLgvcyg.jpeg)
 
 Refugees from Gaza arriving on Lesvos\. Husband is carrying his blind wife on his back and a baby in his hands\. Photo taken from lesvosnews\.net
 #### Greece
@@ -23,7 +23,7 @@ Refugees from Gaza arriving on Lesvos\. Husband is carrying his blind wife on hi
 There were 132 new arrivals on Greek islands today with 57, 046 people still stuck in Greece as numbers are not really changing and relocation program is still not properly functioning\. As Platanos refugee solidarity Lesvos reports: “One rubber boat with 56 refugees from Syria, Afhganistan, Iran, Ethiopia and Eritrea arrived yesterday at 2 pm at the beach of Kayia next to the village of Skala Sykamias\. The boat landed on its own, escaping the blockade imposed by NATO, Frontex, Greek and Turkish coastguard vessels, which are patrolling the sea of Northern Lesvos day and night\. When Greek coastguard appeared, they seemed quite frustrated about losing the boat since their strategy for the past month has been to keep refugees on the water, away from volunteer help and medical assistance, until coastguard buses arrive to take them to the detention centre of Moria\.”
 
 
-![Dhingi that just brought refugees to the shore of Lesvos Photo: Platanos refugee solidarity, Levos](assets/4c23c2c2f4de/1*O7z9pfHlXy6q7hwWSOyTcQ.jpeg)
+![Dhingi that just brought refugees to the shore of Lesvos Photo: Platanos refugee solidarity, Levos](../assets/4c23c2c2f4de/1*O7z9pfHlXy6q7hwWSOyTcQ.jpeg)
 
 Dhingi that just brought refugees to the shore of Lesvos Photo: Platanos refugee solidarity, Levos
 ### **Brexit to affect already slow relocation process\.**
@@ -36,7 +36,7 @@ He also said the ministry is initiating a short\-term plan that includes closing
 One informal shelter, run by British expats in Lesvos\. Hope center was closed after majority of local community protested it’s continuation in what was called an effort to “to protect refugees from the greed of NGOs and to protect the local economy”\. On the other side, some of the local residents defended the Hope center, but in the end, it was closed\.
 
 
-![Phillippa and Eric Kempson\. British expats that ran the Hope center in Lesvos](assets/4c23c2c2f4de/1*_KDHVXBuLr1IgbzB4pzpww.jpeg)
+![Phillippa and Eric Kempson\. British expats that ran the Hope center in Lesvos](../assets/4c23c2c2f4de/1*_KDHVXBuLr1IgbzB4pzpww.jpeg)
 
 Phillippa and Eric Kempson\. British expats that ran the Hope center in Lesvos
 ### **Join the volunteers in Samos**
@@ -57,7 +57,7 @@ The people were picked up from 25 dinghies and one boat, all north of the Libyan
 The navy spokesperson said one adult was found dead and another four injured migrants were transported by helicopter to the nearest hospital, on the island of Lampedusa\. About 60,000 boat migrants have been brought to Italy so far this year, according to the Interior Ministry\.
 
 
-![Migrants disembark from a vessel of ONG Medecins sans Frontieres \(MSF\) in the Sicilian harbour of Augusta, Italy, June 24, 2016\. Photo: Reuters](assets/4c23c2c2f4de/1*26cfbUnTuEFNGHDjRiDoyQ.jpeg)
+![Migrants disembark from a vessel of ONG Medecins sans Frontieres \(MSF\) in the Sicilian harbour of Augusta, Italy, June 24, 2016\. Photo: Reuters](../assets/4c23c2c2f4de/1*26cfbUnTuEFNGHDjRiDoyQ.jpeg)
 
 Migrants disembark from a vessel of ONG Medecins sans Frontieres \(MSF\) in the Sicilian harbour of Augusta, Italy, June 24, 2016\. Photo: Reuters
 ### **Right wing party leading the way in protests blaming migrants for economic hardship in Europe**
@@ -83,12 +83,12 @@ Follow this thread and the links for more details\. [https://twitter\.com/VGSchw
 This weekend No border camp was held on the border of Croatia and Slovenia\. On the final day of the camp, people voiced their clear demands for improving conditions of their stay in Porin center for asylum seekers in Zagreb\. Also during one of the workshops a banner of support for Roszke 11 was made\. The banner is traveling the Balkan route\.
 
 
-![Light brigade crew\. Photo: Tea Vidović](assets/4c23c2c2f4de/1*3F5yT17ZPghjLQy6fToJ0g.jpeg)
+![Light brigade crew\. Photo: Tea Vidović](../assets/4c23c2c2f4de/1*3F5yT17ZPghjLQy6fToJ0g.jpeg)
 
 Light brigade crew\. Photo: Tea Vidović
 
 
-![Workshop’s held in Kumrovec, Croatia, No border camp\. Photo: Tea Vidović](assets/4c23c2c2f4de/1*l6Jg4E8sm4duSwDaLopj8A.jpeg)
+![Workshop’s held in Kumrovec, Croatia, No border camp\. Photo: Tea Vidović](../assets/4c23c2c2f4de/1*l6Jg4E8sm4duSwDaLopj8A.jpeg)
 
 Workshop’s held in Kumrovec, Croatia, No border camp\. Photo: Tea Vidović
 ### **Croatia expecting relocated people\. Volunteers needed**
@@ -119,7 +119,7 @@ Not all is morose in Europe’s biggest island\. News from the Brits comes in ma
 Together with Amnesty international, CARE, Refugee council and many others, Calais action wrote an open letter of solidarity\. We bring you their message: “We’re proud to have co\-written this open letter in The Times today standing up for the rights of refugees and asylum seekers after [‪\#‎Brexit‬](https://www.facebook.com/hashtag/brexit?source=feed_text) \. Signed by Calais Action, the Refugee Council, Amnesty, CARE International and many other major organisations dealing with refugees, this letter calls both for a humane policy towards those seeking asylum, and a move away from the tone of fear and mistrust which has poisoned the Brexit debate and the national conversation on immigration\.
 
 
-![Open letter published in today’s Times](assets/4c23c2c2f4de/1*owxj6GRqqIiDbbajmFi-2g.jpeg)
+![Open letter published in today’s Times](../assets/4c23c2c2f4de/1*owxj6GRqqIiDbbajmFi-2g.jpeg)
 
 Open letter published in today’s Times
 

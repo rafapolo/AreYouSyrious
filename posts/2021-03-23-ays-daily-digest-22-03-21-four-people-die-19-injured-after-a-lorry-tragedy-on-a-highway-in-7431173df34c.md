@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 22/03/21: Four people die, 19 injured after a lorry tragedy on a highway in…
+title: "AYS Daily Digest 22/03/21: Four people die, 19 injured after a lorry tragedy on a highway in…"
 author: Are You Syrious?
 date: 2021-03-23T16:23:27.822+0000
 last_modified_at: 2021-03-23T16:23:27.822+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [croatia,refugees,digest,libya,european-union]
 description: Are You Syrious?
 image:
-  path: assets/7431173df34c/0*EcXwZo9QIEgFbbpQ
+  path: ../assets/7431173df34c/0*EcXwZo9QIEgFbbpQ
 ---
 
 ### AYS Daily Digest 22/03/21: Four people die, 19 injured after a lorry tragedy on a highway in Croatia
 
 
-![](assets/7431173df34c/0*CwcgAtfet6Rj-HqG.jpeg)
+![](../assets/7431173df34c/0*CwcgAtfet6Rj-HqG.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----22ff9070a477--------------------------------)
@@ -23,11 +23,11 @@ image:
 _Updates on fire off Libya’s coast when 60 people died // EU Parliament votes to suspend discharge of Frontex’s budget // new resource for evictions in Greece // and more…_
 
 
-![](assets/7431173df34c/0*IebyIsjQOh-WGHIH)
+![](../assets/7431173df34c/0*IebyIsjQOh-WGHIH)
 
 
 
-![](assets/7431173df34c/0*EcXwZo9QIEgFbbpQ)
+![](../assets/7431173df34c/0*EcXwZo9QIEgFbbpQ)
 
 ### FEATURE: Four die in Croatia highway accident
 
@@ -59,31 +59,31 @@ Here is the first testimony:
 ### GREECE
 
 
-![](assets/7431173df34c/0*CfcKeaz_EaR78gbn)
+![](../assets/7431173df34c/0*CfcKeaz_EaR78gbn)
 
 
 
-![](assets/7431173df34c/0*_NXzf9ddgCKDhcsn.jpeg)
+![](../assets/7431173df34c/0*_NXzf9ddgCKDhcsn.jpeg)
 
 
 Check out Oxford Law’s new guest post “ [Weaponising Geography on the Greek\-Turkish Border](https://www.law.ox.ac.uk/research-subject-groups/centre-criminology/centreborder-criminologies/blog/2021/03/weaponising?fbclid=IwAR13QJSuOl-09ctVttGwuF2Dz_jSMOXsxNDj1OYj5g1DSlZ5mWvpzKdAJP4) ” written by Josh Askew, who is currently reporting for Border Violence Monitoring Network \(AYS is a proud member of BVMN\) \.
 ### ITALY
 
 
-![](assets/7431173df34c/0*78BpNrR-_7qFSWdL)
+![](../assets/7431173df34c/0*78BpNrR-_7qFSWdL)
 
 
 
-![](assets/7431173df34c/0*GWrsVDrpAG92SDPJ)
+![](../assets/7431173df34c/0*GWrsVDrpAG92SDPJ)
 
 ### SPAIN
 
 
-![](assets/7431173df34c/0*Vlo4bMCqP-fia7kS)
+![](../assets/7431173df34c/0*Vlo4bMCqP-fia7kS)
 
 
 
-![](assets/7431173df34c/0*zW3ilUd-ZlJfaoTe.png)
+![](../assets/7431173df34c/0*zW3ilUd-ZlJfaoTe.png)
 
 ### Name correction for two\-year\-old who died after a week in hospital
 

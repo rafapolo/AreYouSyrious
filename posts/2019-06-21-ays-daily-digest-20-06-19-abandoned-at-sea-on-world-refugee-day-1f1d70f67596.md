@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 20.06.19: Abandoned at Sea on World Refugee Day
+title: "AYS Daily Digest 20.06.19: Abandoned at Sea on World Refugee Day"
 author: Are You Syrious?
 date: 2019-06-21T04:59:33.510+0100
 last_modified_at: 2019-06-21T05:41:04.887+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,world-refugee-day,borders,sea-rescue,digest]
 description: Resistance on World Refugee Day / Refugees abandoned by MRCC Rome/ Missing dinghies in Med. / New arrivals in Greece/ People smugglers who…
 image:
-  path: assets/1f1d70f67596/1*caW6FpdKvGJUoHX7xtm5Hg.jpeg
+  path: ../assets/1f1d70f67596/1*caW6FpdKvGJUoHX7xtm5Hg.jpeg
 ---
 
 ### AYS Daily Digest 20/06/19: Abandoned at Sea on World Refugee Day
 #### Resistance on World Refugee Day / Refugees abandoned by MRCC Rome/ Missing dinghies in Med\. / New arrivals in Greece/ People smugglers who killed 71 sentenced to life in Hungary / Demonstrations in France / Report on criminalization of solidarity / and more
 
 
-![Graphic from [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/a.312076942523930/740702206328066/?type=3&theater&ifg=1)](assets/1f1d70f67596/1*caW6FpdKvGJUoHX7xtm5Hg.jpeg)
+![Graphic from [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/a.312076942523930/740702206328066/?type=3&theater&ifg=1)](../assets/1f1d70f67596/1*caW6FpdKvGJUoHX7xtm5Hg.jpeg)
 
 Graphic from [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/a.312076942523930/740702206328066/?type=3&theater&ifg=1)
 #### Feature: Resistance on World Refugee Day
@@ -126,7 +126,7 @@ Organizations across Greece described the atrocious conditions faced by refugees
 
 
 
-![Photo Credit: [Samos Volunteers](https://samosvolunteers.org)](assets/1f1d70f67596/1*19FvtyKSgsKaaxdEaYAnvQ.jpeg)
+![Photo Credit: [Samos Volunteers](https://samosvolunteers.org)](../assets/1f1d70f67596/1*19FvtyKSgsKaaxdEaYAnvQ.jpeg)
 
 Photo Credit: [Samos Volunteers](https://samosvolunteers.org)
 

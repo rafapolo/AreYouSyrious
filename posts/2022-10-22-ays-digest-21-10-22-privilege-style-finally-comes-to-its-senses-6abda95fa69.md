@@ -1,5 +1,5 @@
 ---
-title: AYS Digest 21/10/22: Privilege Style Finally Comes to its Senses
+title: "AYS Digest 21/10/22: Privilege Style Finally Comes to its Senses"
 author: Are You Syrious?
 date: 2022-10-22T13:25:47.453+0100
 last_modified_at: 2022-10-22T14:37:25.972+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [united-kingdom,refugees,digest,european-union,migration]
 description: Mixed Migration Quarterly update published//EU Migration Forum discussed integration of young refugees//Increase in interceptions of…
 image:
-  path: assets/6abda95fa69/0*nsA683dabQni_CFq
+  path: ../assets/6abda95fa69/0*nsA683dabQni_CFq
 ---
 
 ### AYS Digest 21/10/22: Privilege Style Finally Comes to its Senses
@@ -15,7 +15,7 @@ image:
 Mixed Migration Quarterly update published//EU Migration Forum discussed integration of young refugees//Increase in interceptions of individuals crossing into Slovakia//A small village in Southern Italy, Camini, has flourished due to migrant communities//and much more…
 
 
-![Source: The Morning Star, Campaigners celebrate victory after ‘last resort’ airline pulls out of government’s Rwanda deportation scheme](assets/6abda95fa69/0*nsA683dabQni_CFq)
+![Source: The Morning Star, Campaigners celebrate victory after ‘last resort’ airline pulls out of government’s Rwanda deportation scheme](../assets/6abda95fa69/0*nsA683dabQni_CFq)
 
 Source: The Morning Star, Campaigners celebrate victory after ‘last resort’ airline pulls out of government’s Rwanda deportation scheme
 #### FEATURE
@@ -40,7 +40,7 @@ Now let’s defeat this cruel scheme altogether.
 After mounting pressure from activist groups and organisations, led by Freedom from Torture, the airline officials have made a statement saying that they do not plan to follow through with their initial agreements in the Rwanda deal\.
 
 
-![Source: The Guardian, ‘A Spanish\-registered Privilege Style Boeing 767 at Boscombe Down, Wiltshire, in June when it was due to take seven asylum seekers to Rwanda’](assets/6abda95fa69/0*5dOAWdQGZ4ksSQmL)
+![Source: The Guardian, ‘A Spanish\-registered Privilege Style Boeing 767 at Boscombe Down, Wiltshire, in June when it was due to take seven asylum seekers to Rwanda’](../assets/6abda95fa69/0*5dOAWdQGZ4ksSQmL)
 
 Source: The Guardian, ‘A Spanish\-registered Privilege Style Boeing 767 at Boscombe Down, Wiltshire, in June when it was due to take seven asylum seekers to Rwanda’
 
@@ -139,7 +139,7 @@ Other countries, such as, Austria, Hungary, and Slovenia have also imposed tempo
 Obviously, these recent increases in border control aim to prevent non\-European asylum seekers, rather than Ukrainian individuals\. Since the war broke out, Slovakia, along with Czechia and Poland, have been major destinations for Ukrainians fleeing the war\.
 
 
-![Source: InfoMigrants, _Refugees from Ukraine have been crossing at land borders of neighboring countries, like Slovakia_](assets/6abda95fa69/0*n1PjBQNqjTGEGk1U.jpg)
+![Source: InfoMigrants, _Refugees from Ukraine have been crossing at land borders of neighboring countries, like Slovakia_](../assets/6abda95fa69/0*n1PjBQNqjTGEGk1U.jpg)
 
 Source: InfoMigrants, _Refugees from Ukraine have been crossing at land borders of neighboring countries, like Slovakia_
 #### ITALY

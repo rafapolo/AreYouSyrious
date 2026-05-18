@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 06/08/17: Seenotrettung is NOT a crime!
+title: "AYS Daily Digest 06/08/17: Seenotrettung is NOT a crime!"
 author: Are You Syrious?
 date: 2017-08-07T00:49:57.517+0100
 last_modified_at: 2017-08-12T19:23:01.829+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,mediterranean,greece,germany,italy]
 description: Pressure continues on rescuing NGOs / Protests against C-Star / More arrivals in Greece / Volunteers and donations needed / Violence in…
 image:
-  path: assets/57577c2e2384/1*c8hGIT2uZkQeoqaLZTLujQ.jpeg
+  path: ../assets/57577c2e2384/1*c8hGIT2uZkQeoqaLZTLujQ.jpeg
 ---
 
 ### AYS Daily Digest 06/08/17: Seenotrettung is NOT a crime\!
@@ -15,7 +15,7 @@ image:
 Pressure continues on rescuing NGOs / Protests against C\-Star / More arrivals in Greece / Volunteers and donations needed / Violence in Serbia continues / Germany starts to send refugees back to Greece / And more news\. \. \.
 
 
-![SeaWatch in solidarity with the Jugend Rettet crew](assets/57577c2e2384/1*c8hGIT2uZkQeoqaLZTLujQ.jpeg)
+![SeaWatch in solidarity with the Jugend Rettet crew](../assets/57577c2e2384/1*c8hGIT2uZkQeoqaLZTLujQ.jpeg)
 
 SeaWatch in solidarity with the Jugend Rettet crew
 ### Feature
@@ -49,13 +49,13 @@ Apart from the restrictions imposed on Iuventa, the Jugend Rettet boat that has 
 A [**petition**](https://rettung-ist-kein-verbrechen.de/) was launched to demand the release of Iuventa boat so that its crew can go back to the sea to do what they do best\. \. save the lives of desperate people\!
 
 
-![](assets/57577c2e2384/1*k2vWmkQhjvwIoJ09QxoWvQ.jpeg)
+![](../assets/57577c2e2384/1*k2vWmkQhjvwIoJ09QxoWvQ.jpeg)
 
 
 Still about this case, new reports have emerged contradicting the “evidence” used by the authorities to restrain the boat in the first place\. It’s well known that many people try to take vantage of the refugees anywhere they go and now it seems that some groups of people are going around the refugee boats steeling their engines\. These “egine fichers” as they are being called have been filmed doing exactly this and this seems to have been understood, or used as an excuse, to charge Jugend Rettet with the crime of cooperating with people smugglers\. This [report](https://www.facebook.com/notes/erik-marquardt/seenotrettung-warum-die-beweise-gegen-jugend-rettet-nur-schikane-sind-und-wer-wi/1609369562468283/?hc_location=ufi) goes even further and states that the Libyan Coast Guard intercepted these pirates and didn’t arrest them raising concerns of possible cooperation with them\. Either way it seems clear on the video taken by the crew from Iuventa that rescuers don’t have anything to do with these people and in fact shout at them to go away\.
 
 
-[![Seefuchs-Crew vertreibt Engine Fisher](assets/57577c2e2384/a535_hqdefault.jpg "Seefuchs-Crew vertreibt Engine Fisher")](http://www.youtube.com/watch?v=7_1l70nBehA)
+[![Seefuchs-Crew vertreibt Engine Fisher](../assets/57577c2e2384/a535_hqdefault.jpg "Seefuchs-Crew vertreibt Engine Fisher")](http://www.youtube.com/watch?v=7_1l70nBehA)
 
 
 We continue to wait and hope that all pressure against NGO’s, especially Jugend Rettet is withdrawn and that we all concentrate in the most important subject: care for people in danger\.
@@ -68,7 +68,7 @@ We also get reports of further 400 people being intercepted, but this time by th
 In the meanwhile, the C\-Star, a boat chartered by anti\-immigration group “Generation Identity” which crew we showed yesterday, is not making friends out there\. Today there has been more demonstrations against the crew’s intentions and in Tunisia, fishermen vowed to block the ship carrying far\-right activists from docking at their port\.
 
 
-![Photo by [Daily Sabah](https://www.dailysabah.com/africa/2017/08/06/tunisian-fishermen-vow-to-prevent-anti-immigrant-ship-from-docking/amp)](assets/57577c2e2384/1*TBFsSCN2S_VKj2I6ha2YUA.jpeg)
+![Photo by [Daily Sabah](https://www.dailysabah.com/africa/2017/08/06/tunisian-fishermen-vow-to-prevent-anti-immigrant-ship-from-docking/amp)](../assets/57577c2e2384/1*TBFsSCN2S_VKj2I6ha2YUA.jpeg)
 
 Photo by [Daily Sabah](https://www.dailysabah.com/africa/2017/08/06/tunisian-fishermen-vow-to-prevent-anti-immigrant-ship-from-docking/amp)
 
@@ -139,7 +139,7 @@ The Council of Europe is working with the Greek Ministry of Education and the UN
 [**Refugee Rescue / ‘Mo Chara’**](https://www.facebook.com/RefugeeRescueUK/?hc_ref=ARRVl8OUu6-VbJUlIFkZ1RLt3QiHZvx70NGhcyOa4DTUL5YTkuVeM0f3L702KPWryf4&fref=nf) is looking for crucial spotters in the coming weeks\. As a spotter volunteers make sure that we loose no incoming boat out of sight\. Spotters are key to ensure that search and rescue missions are launched in time\.
 
 
-![](assets/57577c2e2384/1*7pdpw23qp5K3fOsJe44Jvw.png)
+![](../assets/57577c2e2384/1*7pdpw23qp5K3fOsJe44Jvw.png)
 
 
 Refugee4Refugees is also looking for volunteers for August and September\. They operate on the north coast of Lesvos, spotting for refugees boats, providing emergency assistance at landings, as well as providing vital water and food to newly arrived migrants\. If you can help, please get in touch [here](http://Dale Hamilton) \.
@@ -147,7 +147,7 @@ Refugee4Refugees is also looking for volunteers for August and September\. They 
 [A Drop in the Ocean](http://Dråpen i Havet) is looking for people who are able to spend more than two months at one of their three locations — Athens, Chios and Nea Kavala, Northern Greece\.
 
 
-![](assets/57577c2e2384/1*2bRjQVZnD9hfzC9T_aLmHg.png)
+![](../assets/57577c2e2384/1*2bRjQVZnD9hfzC9T_aLmHg.png)
 
 
 If you can contribute for a shorter period of time\(minimum ten days\) you are of course still more than welcome to volunteer with them, please find out how [here](https://www.drapenihavet.no/…/we-need-long-term-volunteers…/) \.
@@ -155,12 +155,12 @@ If you can contribute for a shorter period of time\(minimum ten days\) you are o
 [**DocMobile — Medical Help e\.V\.**](https://www.facebook.com/docmobile.org/?hc_ref=ARRp5fzrAF4vDKscqH6HTueLwIWK82dpXi8IH7Bkh3XTwCtaPLiEm2gr3kpzFVODY5s) is very busy providing healthcare for approximately 300 refugees in Greece\. Many have traveled back to Greece after failed attempts to reach further up North in Europe\. They now try other ways to enter countries, and end up with lots of injuries while attempting to do so\.
 
 
-![Photo by [**DocMobile — Medical Help e\.V\.**](https://www.facebook.com/docmobile.org/?hc_ref=ARSiOkWj2ON2WQIly2uOsKl0Q_s2r-la6zNYsFOdqOQ5m0fXc_OOC0TuGie7qJBjVAA)](assets/57577c2e2384/1*dT67ar_eW4y4TQPmUycNXw.jpeg)
+![Photo by [**DocMobile — Medical Help e\.V\.**](https://www.facebook.com/docmobile.org/?hc_ref=ARSiOkWj2ON2WQIly2uOsKl0Q_s2r-la6zNYsFOdqOQ5m0fXc_OOC0TuGie7qJBjVAA)](../assets/57577c2e2384/1*dT67ar_eW4y4TQPmUycNXw.jpeg)
 
 Photo by [**DocMobile — Medical Help e\.V\.**](https://www.facebook.com/docmobile.org/?hc_ref=ARSiOkWj2ON2WQIly2uOsKl0Q_s2r-la6zNYsFOdqOQ5m0fXc_OOC0TuGie7qJBjVAA)
 
 
-![Photo by [**DocMobile — Medical Help e\.V\.**](https://www.facebook.com/docmobile.org/?hc_ref=ARSiOkWj2ON2WQIly2uOsKl0Q_s2r-la6zNYsFOdqOQ5m0fXc_OOC0TuGie7qJBjVAA)](assets/57577c2e2384/1*rL_N5Hs5r5L9Bk4Fuak1vw.jpeg)
+![Photo by [**DocMobile — Medical Help e\.V\.**](https://www.facebook.com/docmobile.org/?hc_ref=ARSiOkWj2ON2WQIly2uOsKl0Q_s2r-la6zNYsFOdqOQ5m0fXc_OOC0TuGie7qJBjVAA)](../assets/57577c2e2384/1*rL_N5Hs5r5L9Bk4Fuak1vw.jpeg)
 
 Photo by [**DocMobile — Medical Help e\.V\.**](https://www.facebook.com/docmobile.org/?hc_ref=ARSiOkWj2ON2WQIly2uOsKl0Q_s2r-la6zNYsFOdqOQ5m0fXc_OOC0TuGie7qJBjVAA)
 
@@ -183,7 +183,7 @@ Pro\-asyl groupss condemns the repatriation efforts Europe intends on renewed ap
 ### Denmark
 
 
-![](assets/57577c2e2384/1*JlrhqKRgbS9Cqn0xVKKQmg.jpeg)
+![](../assets/57577c2e2384/1*JlrhqKRgbS9Cqn0xVKKQmg.jpeg)
 
 
 AMASO has been updated about a possible deportation of Afghan asylum seekers from Denmark to Afghanistan tomorrow\. Rohullah is the person being deported\. According to volunteers, Rohulla is one of the men from Afghanistan who the authorities already tried to deport\. That deportation where stopped by a passenger who said no in the plain, after getting info by activist and friends of Rohulla\. For more information on his case please follow the link [here](https://www.facebook.com/195295217167437/photos/a.1419588361404777.1073741843.195295217167437/1629290777101200/?type=3) \.
@@ -194,12 +194,12 @@ This episode represents the first step in the will to close the church of Sant�
 Alarmed and frightened by the decision taken by the Prefecture, some families decided to voluntarily leave the church and move to the streets trying to avoid the transfer to the CRI camp\.
 
 
-![Photo by [**Progetto20k**](https://www.facebook.com/progetto20k/?hc_ref=ARTr4JNmzJ72-1mFgmia60COS8o8vJ0k1RTB28ny_T87cnLka5XQoTbNvy_uT0MxE00)](assets/57577c2e2384/1*U4qvDsBdt9mOs3--unkuQA.jpeg)
+![Photo by [**Progetto20k**](https://www.facebook.com/progetto20k/?hc_ref=ARTr4JNmzJ72-1mFgmia60COS8o8vJ0k1RTB28ny_T87cnLka5XQoTbNvy_uT0MxE00)](../assets/57577c2e2384/1*U4qvDsBdt9mOs3--unkuQA.jpeg)
 
 Photo by [**Progetto20k**](https://www.facebook.com/progetto20k/?hc_ref=ARTr4JNmzJ72-1mFgmia60COS8o8vJ0k1RTB28ny_T87cnLka5XQoTbNvy_uT0MxE00)
 
 
-![Photo by [**Progetto20k**](https://www.facebook.com/progetto20k/?hc_ref=ARTr4JNmzJ72-1mFgmia60COS8o8vJ0k1RTB28ny_T87cnLka5XQoTbNvy_uT0MxE00)](assets/57577c2e2384/1*ldjM3opmlLGdNjYx7586Aw.jpeg)
+![Photo by [**Progetto20k**](https://www.facebook.com/progetto20k/?hc_ref=ARTr4JNmzJ72-1mFgmia60COS8o8vJ0k1RTB28ny_T87cnLka5XQoTbNvy_uT0MxE00)](../assets/57577c2e2384/1*ldjM3opmlLGdNjYx7586Aw.jpeg)
 
 Photo by [**Progetto20k**](https://www.facebook.com/progetto20k/?hc_ref=ARTr4JNmzJ72-1mFgmia60COS8o8vJ0k1RTB28ny_T87cnLka5XQoTbNvy_uT0MxE00)
 

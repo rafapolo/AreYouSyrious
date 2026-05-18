@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 26–27/9/2020: Abuse in detention at Alimos, Greece
+title: "AYS Weekend Digest 26–27/9/2020: Abuse in detention at Alimos, Greece"
 author: Are You Syrious?
 date: 2020-09-28T12:36:57.950+0100
 last_modified_at: 2020-09-28T12:36:57.950+0100
@@ -7,18 +7,18 @@ categories: Are You Syrious?
 tags: [lesvos,alimos,save-pikpa,central-mediterranean]
 description: First covid-related death in Malakasa camp in Greece // Updates from #SavePikpa campaign on Lesvos // More than 200 deaths in the Central…
 image:
-  path: assets/4bd1f62f639e/0*0ek8QPc5uugRzUN2.jpeg
+  path: ../assets/4bd1f62f639e/0*0ek8QPc5uugRzUN2.jpeg
 ---
 
 ### AYS Weekend Digest 26–27/9/2020: Abuse in detention at Alimos, Greece
 #### First covid\-related death in Malakasa camp in Greece // Updates from \#SavePikpa campaign on Lesvos // More than 200 deaths in the Central Med over the last week // Protests in reception centre in southern Italy // and more…
 
 
-![](assets/4bd1f62f639e/0*Q9yV5kqEk_Z5aUA_)
+![](../assets/4bd1f62f639e/0*Q9yV5kqEk_Z5aUA_)
 
 
 
-![](assets/4bd1f62f639e/0*0ek8QPc5uugRzUN2.jpeg)
+![](../assets/4bd1f62f639e/0*0ek8QPc5uugRzUN2.jpeg)
 
 
 Lesvos, September 2020, survivors of the Moria refugee camp\. \(Photograph by Aggelos Barai\)
@@ -27,11 +27,11 @@ Lesvos, September 2020, survivors of the Moria refugee camp\. \(Photograph by Ag
 AYS team members were contacted by a friend of detainees in Alimos, south of Athens, on Sunday\. On the same day, a 23 year old Palestinian young man attempted suicide at 3PM\.
 
 
-![](assets/4bd1f62f639e/0*sFl81S9BUUvl9ahL)
+![](../assets/4bd1f62f639e/0*sFl81S9BUUvl9ahL)
 
 
 
-![](assets/4bd1f62f639e/0*Y_iEZ3lOUd9eT5Hk.jpeg)
+![](../assets/4bd1f62f639e/0*Y_iEZ3lOUd9eT5Hk.jpeg)
 
 
 Fellow detainees asked for medical help right away, and continued asking for help from the officers\. At 5\.46PM no help for the man had arrived, nor any other signs of action from the police officers\.
@@ -165,7 +165,7 @@ FRANCE
 About forty people are currently living in the [squat of the former post office](https://radar.squat.net/en/saint-etienne/squat-de-lancienne-poste-de-solaure) , including school children, people in poor health and people undergoing training\.
 
 
-![](assets/4bd1f62f639e/0*dwaSGsEF9htYnsYe)
+![](../assets/4bd1f62f639e/0*dwaSGsEF9htYnsYe)
 
 
 Solaure ex\-post office squat, St\. Etienne \(Photo via [Enoughisenough14](https://enoughisenough14.org/2020/09/27/saint-etienne-france-imminent-eviction-of-the-squat-of-the-post-office-of-solaure/) \)

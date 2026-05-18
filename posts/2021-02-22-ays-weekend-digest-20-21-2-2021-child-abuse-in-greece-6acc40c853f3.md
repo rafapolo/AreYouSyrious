@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 20–21/2/2021: Child abuse in Greece
+title: "AYS Weekend Digest 20–21/2/2021: Child abuse in Greece"
 author: Are You Syrious?
 date: 2021-02-22T12:37:52.189+0000
 last_modified_at: 2021-02-22T13:38:32.980+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,greece,child-abuse,search-and-rescue,hostile-environment]
 description: Chaotic weekend in the central Med. Updates from the Greek islands, the Italian/French border, Germany, France and the UK.
 image:
-  path: assets/6acc40c853f3/1*j7igWq4gZz6kIG7Rbz6o9w.png
+  path: ../assets/6acc40c853f3/1*j7igWq4gZz6kIG7Rbz6o9w.png
 ---
 
 ### AYS Weekend Digest 20–21/2/2021: Child abuse in Greece
@@ -15,7 +15,7 @@ image:
 Chaotic weekend in the central Med // Updates from the Greek islands, the Italian/French border and Germany // More evictions in Calais // Concerns over government\-run hotel in the UK\.
 
 
-![Frozen tents in the refugee camp in Arsal, Lebanon \(photos via [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/photos/a.129654032010998/269087314734335/) \) \. “More than 15,000 Syrian refugees in Arsal are experiencing their second winter since a 2019 order from the Higher Defence Council, which is chaired by the president and responsible for implementing national defence strategy, required them to dismantle their shelters\. The order has forced them to live without adequate roofs and insulation, exposed to harsh winter conditions, including subzero temperatures and flooding\.” \(Read more [HERE](https://www.hrw.org/news/2021/01/19/lebanon-dire-conditions-syrian-refugees-border-town) \)](assets/6acc40c853f3/1*j7igWq4gZz6kIG7Rbz6o9w.png)
+![Frozen tents in the refugee camp in Arsal, Lebanon \(photos via [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/photos/a.129654032010998/269087314734335/) \) \. “More than 15,000 Syrian refugees in Arsal are experiencing their second winter since a 2019 order from the Higher Defence Council, which is chaired by the president and responsible for implementing national defence strategy, required them to dismantle their shelters\. The order has forced them to live without adequate roofs and insulation, exposed to harsh winter conditions, including subzero temperatures and flooding\.” \(Read more [HERE](https://www.hrw.org/news/2021/01/19/lebanon-dire-conditions-syrian-refugees-border-town) \)](../assets/6acc40c853f3/1*j7igWq4gZz6kIG7Rbz6o9w.png)
 
 Frozen tents in the refugee camp in Arsal, Lebanon \(photos via [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/photos/a.129654032010998/269087314734335/) \) \. “More than 15,000 Syrian refugees in Arsal are experiencing their second winter since a 2019 order from the Higher Defence Council, which is chaired by the president and responsible for implementing national defence strategy, required them to dismantle their shelters\. The order has forced them to live without adequate roofs and insulation, exposed to harsh winter conditions, including subzero temperatures and flooding\.” \(Read more [HERE](https://www.hrw.org/news/2021/01/19/lebanon-dire-conditions-syrian-refugees-border-town) \)
 #### FEATURED: Child abuse in Greece
@@ -174,15 +174,15 @@ FRENCH/ITALIAN BORDER
 #### **Update from the French Italian border**
 
 
-![](assets/6acc40c853f3/1*-cUVDs1XRXs-_eJZeaIVAQ.jpeg)
+![](../assets/6acc40c853f3/1*-cUVDs1XRXs-_eJZeaIVAQ.jpeg)
 
 
 
-![](assets/6acc40c853f3/1*6m3ZvOBrzre6F8Bqt-AkGA.jpeg)
+![](../assets/6acc40c853f3/1*6m3ZvOBrzre6F8Bqt-AkGA.jpeg)
 
 
 
-![\(Photo Credit: [Progetto20k](https://www.facebook.com/progetto20k/?__cft__[0]=AZUKTFLPH1bfjPwUI7ZF_ef03e1bD-Yd6u8Owpj1nQiqnFgyMRmRHpAi3fXSbFPSdukThe9STiy_RzbMbxxghc4SEcP8jJ8dhjg42ux0HgGJ-PxTd9VE5WFokSR-3yKk0oez4vnk1hZqWxQHz_KNo5ZH&__tn__=-UC%2CP-R) \)](assets/6acc40c853f3/1*qOUV66aowfFLYvL2dbEaqg.jpeg)
+![\(Photo Credit: [Progetto20k](https://www.facebook.com/progetto20k/?__cft__[0]=AZUKTFLPH1bfjPwUI7ZF_ef03e1bD-Yd6u8Owpj1nQiqnFgyMRmRHpAi3fXSbFPSdukThe9STiy_RzbMbxxghc4SEcP8jJ8dhjg42ux0HgGJ-PxTd9VE5WFokSR-3yKk0oez4vnk1hZqWxQHz_KNo5ZH&__tn__=-UC%2CP-R) \)](../assets/6acc40c853f3/1*qOUV66aowfFLYvL2dbEaqg.jpeg)
 
 \(Photo Credit: [Progetto20k](https://www.facebook.com/progetto20k/?__cft__[0]=AZUKTFLPH1bfjPwUI7ZF_ef03e1bD-Yd6u8Owpj1nQiqnFgyMRmRHpAi3fXSbFPSdukThe9STiy_RzbMbxxghc4SEcP8jJ8dhjg42ux0HgGJ-PxTd9VE5WFokSR-3yKk0oez4vnk1hZqWxQHz_KNo5ZH&__tn__=-UC%2CP-R) \)
 

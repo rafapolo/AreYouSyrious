@@ -1,5 +1,5 @@
 ---
-title: Stories from Ventimiglia (1): An Unexpected Journey
+title: "Stories from Ventimiglia (1): An Unexpected Journey"
 author: Are You Syrious?
 date: 2017-04-18T18:37:11.785+0100
 last_modified_at: 2017-04-20T11:35:26.658+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,ventimiglia,italy,the-hobbit]
 description: This is a story about Delia and her bar “The Hobbit”, the forefront of helping refugee and migrants in Ventimiglia. The bar is a safe place…
 image:
-  path: assets/59a8ac8b37aa/1*fFsXMgAEwHN8atCFWUFj3w.jpeg
+  path: ../assets/59a8ac8b37aa/1*fFsXMgAEwHN8atCFWUFj3w.jpeg
 ---
 
 ### Stories from Ventimiglia \(1\): An Unexpected Journey
@@ -15,7 +15,7 @@ image:
 _This is a story about Delia and her bar “The Hobbit”, the forefront of helping refugee and migrants in Ventimiglia\. The bar is a safe place for many people whose lives have taken an unforeseen twist and who have travelled so far to find refugee and freedom\. Europe shot its borders to them, but many European opened their doors and hearts sharing everything they have\._
 
 
-![The Hobbit, sanctuary for many who arrived to Italy\. Photo by Peggy Whitfield](assets/59a8ac8b37aa/1*fFsXMgAEwHN8atCFWUFj3w.jpeg)
+![The Hobbit, sanctuary for many who arrived to Italy\. Photo by Peggy Whitfield](../assets/59a8ac8b37aa/1*fFsXMgAEwHN8atCFWUFj3w.jpeg)
 
 The Hobbit, sanctuary for many who arrived to Italy\. Photo by Peggy Whitfield
 
@@ -32,7 +32,7 @@ Everyone I met had arrived in Italy in boats from Libya that resemble the horren
 The first chapter of Tolkien’s novel, “The Hobbit” is called _“An Unexpected Journey”_ — it’s ironic that a bar of the same name serves so many people whose lives have taken an unforeseen twist and who have travelled so far\. I was intrigued as to why Delia started on her own unexpected journey to help these desperate people passing through Ventimiglia\. She explained that that she felt very emotional about the plight of so many people sleeping on the floor of the train station platforms cold and hungry but that she didn’t make a conscious decision to help: _“I did not decide to act, my heart decided that I must do something,”_ she says\.
 
 
-![Delia _“I did not decide to act, my heart decided that I must do something\.” Photo by_ Peggy Whitfield\.](assets/59a8ac8b37aa/1*UM3mIMMcUlMaiLlyojkw8A.jpeg)
+![Delia _“I did not decide to act, my heart decided that I must do something\.” Photo by_ Peggy Whitfield\.](../assets/59a8ac8b37aa/1*UM3mIMMcUlMaiLlyojkw8A.jpeg)
 
 Delia _“I did not decide to act, my heart decided that I must do something\.” Photo by_ Peggy Whitfield\.
 

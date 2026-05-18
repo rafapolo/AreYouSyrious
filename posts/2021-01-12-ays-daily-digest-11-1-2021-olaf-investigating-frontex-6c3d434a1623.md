@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,frontex,european-union]
 description: Journalists denied entry into Lipa camp//Commissioner for Human Rights publishes reports on Croatia pushbacks//Hungary violated EU Court…
 image:
-  path: assets/6c3d434a1623/0*I89bZ76ehGQlTTyQ
+  path: ../assets/6c3d434a1623/0*I89bZ76ehGQlTTyQ
 ---
 
 ### AYS Daily Digest 11/1/2021 — OLAF Investigating Frontex
 ### Journalists denied entry into Lipa camp//Commissioner for Human Rights publishes reports on Croatia pushbacks//Hungary violated EU Court ruling//
 
 
-![](assets/6c3d434a1623/0*YO2FCwt44H28-Sls.jpeg)
+![](../assets/6c3d434a1623/0*YO2FCwt44H28-Sls.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----619f7514d6f9--------------------------------)
@@ -22,11 +22,11 @@ image:
 [Jan 12](ays-daily-digest-11-1-2021-olaf-investigating-frontex-619f7514d6f9?source=post_page-----619f7514d6f9--------------------------------) · 8 min read
 
 
-![](assets/6c3d434a1623/0*U8CGo9_KV4CvMNLS)
+![](../assets/6c3d434a1623/0*U8CGo9_KV4CvMNLS)
 
 
 
-![](assets/6c3d434a1623/0*I89bZ76ehGQlTTyQ)
+![](../assets/6c3d434a1623/0*I89bZ76ehGQlTTyQ)
 
 ### FEATURE
 ### Frontex under investigation
@@ -101,11 +101,11 @@ Following Brexit, [Frontex was supposed to manage the Gibraltar borders](https:/
 Solidarite Migrants Wilson is looking for people for their action tomorrow\. More information [here](https://www.facebook.com/permalink.php?story_fbid=1633826163484816&id=598228360377940) \.
 
 
-![](assets/6c3d434a1623/0*0p4kG9dRUFgQKMeW)
+![](../assets/6c3d434a1623/0*0p4kG9dRUFgQKMeW)
 
 
 
-![](assets/6c3d434a1623/0*iEm0ObAU-dAOQPCy)
+![](../assets/6c3d434a1623/0*iEm0ObAU-dAOQPCy)
 
 
 GERMANY

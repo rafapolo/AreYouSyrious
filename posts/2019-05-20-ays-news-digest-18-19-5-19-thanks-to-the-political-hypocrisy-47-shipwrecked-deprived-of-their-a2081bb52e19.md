@@ -1,20 +1,20 @@
 ---
-title: AYS News Digest 18–19/5/19: Thanks to the political hypocrisy, 47 shipwrecked deprived of their…
+title: "AYS News Digest 18–19/5/19: Thanks to the political hypocrisy, 47 shipwrecked deprived of their…"
 author: Are You Syrious?
 date: 2019-05-20T10:47:56.768+0100
 last_modified_at: 2019-05-20T12:22:22.639+0100
 categories: Are You Syrious?
 tags: [refugees,europe,human-rights,digest,police]
-description: Malta: Tragic deaths  as a consequence of indifference to political situation in Europe and dehumanization of people / Finally, UNHCR…
+description: "Malta: Tragic deaths  as a consequence of indifference to political situation in Europe and dehumanization of people / Finally, UNHCR…"
 image:
-  path: assets/a2081bb52e19/1*az-v9-4zh72illRMyeTXIA.jpeg
+  path: ../assets/a2081bb52e19/1*az-v9-4zh72illRMyeTXIA.jpeg
 ---
 
 ### AYS News Digest 18–19/5/19: Thanks to the political hypocrisy, 47 shipwrecked deprived of their rights
 #### Malta: Tragic deaths as a consequence of indifference to political situation in Europe and dehumanisation of people // Finally, UNHCR sends out the letter everyone has been waiting for, now what? // Italy: prolonged investigation into Lampedusa case // Belgium: Police raid people sleeping in the parks // All the dangers of Calais under police pressure // & more info
 
 
-![Photo Credit: Nick Jaussi/Sea\-Watch](assets/a2081bb52e19/1*az-v9-4zh72illRMyeTXIA.jpeg)
+![Photo Credit: Nick Jaussi/Sea\-Watch](../assets/a2081bb52e19/1*az-v9-4zh72illRMyeTXIA.jpeg)
 
 Photo Credit: Nick Jaussi/Sea\-Watch
 #### FEATURED
@@ -139,7 +139,7 @@ On top of this, those trapped in the detention centres continue to face near sta
 [Another source](https://twitter.com/saracreta/status/1129740098168328192?fbclid=IwAR2fWIOPyu3-pHV4NxKCaUGCXaRL_pyEafl-8a-LWVU3_xbY4jrB6dJmM0g) talks of the deplorable conditions in another Libyan detention centre in Daher Al Jabel, where 600 people continue to be detained in unsafe conditions, with many deaths registered and huge neglect of medical care and basic needs\.
 
 
-![Photo by [Sara Creta](https://twitter.com/saracreta)](assets/a2081bb52e19/1*crzeZI2oNLRwL8cwCkMK2A.jpeg)
+![Photo by [Sara Creta](https://twitter.com/saracreta)](../assets/a2081bb52e19/1*crzeZI2oNLRwL8cwCkMK2A.jpeg)
 
 Photo by [Sara Creta](https://twitter.com/saracreta)
 
@@ -193,7 +193,7 @@ Prolonged detention, ill\-treatment, abuse and not respecting the law and rights
 Although the first investigations date back to 2011, according to the investigating judge of Rome, all of this “appears to be continuing today”\. A year ago a more complete investigation was ordered as the failure to hear the Ombudsman was just one of the elements lacking in the investigation into the running of the centre\. In the meantime, as [media](https://www.avvenire.it/attualita/pagine/violazioni-e-abusi-nel-centro-di-lampedusa?fbclid=IwAR0f_8uXt7utUOOXp4LIoaadU0iS0zFXuKy6MRqNugpeznmxdOX-HF8yiVQ) report, “a series of alleged abuses of the law and criminally relevant abuses are reported\.”
 
 
-![One of the most common preconceptions is that Europe cannot accommodate or properly integrate more people into their society\. Statistics and data claim otherwise\. Source: I [nternazionale](https://buff.ly/2H2Ce30)](assets/a2081bb52e19/1*MZ88HVbihg2p9CbrF2LLEA.png)
+![One of the most common preconceptions is that Europe cannot accommodate or properly integrate more people into their society\. Statistics and data claim otherwise\. Source: I [nternazionale](https://buff.ly/2H2Ce30)](../assets/a2081bb52e19/1*MZ88HVbihg2p9CbrF2LLEA.png)
 
 One of the most common preconceptions is that Europe cannot accommodate or properly integrate more people into their society\. Statistics and data claim otherwise\. Source: I [nternazionale](https://buff.ly/2H2Ce30)
 #### BELGIUM
@@ -201,19 +201,19 @@ One of the most common preconceptions is that Europe cannot accommodate or prope
 [Plateforme citoyenne de soutien aux réfugiés Bruxelles](https://www.facebook.com/bxlrefugees/?tn-str=k%2AF&hc_location=group_dialog) reports that, ahead of the upcoming elections, police are chasing people sleeping rough out of Brussels’ city parks:
 
 
-![](assets/a2081bb52e19/1*MihUKYJmOVnOuG7GBzqz3w.jpeg)
+![](../assets/a2081bb52e19/1*MihUKYJmOVnOuG7GBzqz3w.jpeg)
 
 
 
-![](assets/a2081bb52e19/1*_kBDeXb_H5p5UNB641Lc2Q.jpeg)
+![](../assets/a2081bb52e19/1*_kBDeXb_H5p5UNB641Lc2Q.jpeg)
 
 
 
-![](assets/a2081bb52e19/1*jLLJ11Jav54lBUiH9OI3VA.jpeg)
+![](../assets/a2081bb52e19/1*jLLJ11Jav54lBUiH9OI3VA.jpeg)
 
 
 
-![](assets/a2081bb52e19/1*Wq9k0per-HwXRK9Et2IWMw.jpeg)
+![](../assets/a2081bb52e19/1*Wq9k0per-HwXRK9Et2IWMw.jpeg)
 
 #### FRANCE
 ### Calais
@@ -221,36 +221,36 @@ One of the most common preconceptions is that Europe cannot accommodate or prope
 Over 700 people are staying in the area, divided between five main campsites\. Reportedly, many among them are minors\. This is how the place looks at the moment, and here are some images with descriptions by one of the volunteers on the ground:
 
 
-![](assets/a2081bb52e19/1*L8jnoUoRIiJ4tlXYpqcgKw.jpeg)
+![](../assets/a2081bb52e19/1*L8jnoUoRIiJ4tlXYpqcgKw.jpeg)
 
 
 
-![Photos: [Chiara Lauvergnac](https://www.facebook.com/chiara.lauvergnac?__tn__=%2Cd%2AF%2AF-R&eid=ARCKzQr6WEzk2AZ8ppvqnOtoVplBSOzFFgm9sYV7VWnONZTBPjPzX6gFJF6uTN6axpBCfkuc73n_7NCU&tn-str=%2AF)](assets/a2081bb52e19/1*2YjDQj9K6hg41nXlDfV-IA.jpeg)
+![Photos: [Chiara Lauvergnac](https://www.facebook.com/chiara.lauvergnac?__tn__=%2Cd%2AF%2AF-R&eid=ARCKzQr6WEzk2AZ8ppvqnOtoVplBSOzFFgm9sYV7VWnONZTBPjPzX6gFJF6uTN6axpBCfkuc73n_7NCU&tn-str=%2AF)](../assets/a2081bb52e19/1*2YjDQj9K6hg41nXlDfV-IA.jpeg)
 
 Photos: [Chiara Lauvergnac](https://www.facebook.com/chiara.lauvergnac?__tn__=%2Cd%2AF%2AF-R&eid=ARCKzQr6WEzk2AZ8ppvqnOtoVplBSOzFFgm9sYV7VWnONZTBPjPzX6gFJF6uTN6axpBCfkuc73n_7NCU&tn-str=%2AF)
 
 Ex\-Verrotieres\. The camp that was evicted and destroyed by police near rue Verrotieres has formed again near the food distribution place\. 300 people or more, of all nationalities\. This is the biggest of 5 main camps and the one that is more at risk of destruction by police\.
 
 
-![](assets/a2081bb52e19/1*OHXkkDA1jJcMbHxNXcVlAQ.jpeg)
+![](../assets/a2081bb52e19/1*OHXkkDA1jJcMbHxNXcVlAQ.jpeg)
 
 
 
-![Photos: [Chiara Lauvergnac](https://www.facebook.com/chiara.lauvergnac?__tn__=%2Cd%2AF%2AF-R&eid=ARCKzQr6WEzk2AZ8ppvqnOtoVplBSOzFFgm9sYV7VWnONZTBPjPzX6gFJF6uTN6axpBCfkuc73n_7NCU&tn-str=%2AF)](assets/a2081bb52e19/1*uknTjNrTnjMT0KCG59o9Xw.jpeg)
+![Photos: [Chiara Lauvergnac](https://www.facebook.com/chiara.lauvergnac?__tn__=%2Cd%2AF%2AF-R&eid=ARCKzQr6WEzk2AZ8ppvqnOtoVplBSOzFFgm9sYV7VWnONZTBPjPzX6gFJF6uTN6axpBCfkuc73n_7NCU&tn-str=%2AF)](../assets/a2081bb52e19/1*uknTjNrTnjMT0KCG59o9Xw.jpeg)
 
 Photos: [Chiara Lauvergnac](https://www.facebook.com/chiara.lauvergnac?__tn__=%2Cd%2AF%2AF-R&eid=ARCKzQr6WEzk2AZ8ppvqnOtoVplBSOzFFgm9sYV7VWnONZTBPjPzX6gFJF6uTN6axpBCfkuc73n_7NCU&tn-str=%2AF)
 
 During the distribution of trousers near the food distribution place there is a heavy police presence\.
 
 
-![Photos: [Chiara Lauvergnac](https://www.facebook.com/chiara.lauvergnac?__tn__=%2Cd%2AF%2AF-R&eid=ARCKzQr6WEzk2AZ8ppvqnOtoVplBSOzFFgm9sYV7VWnONZTBPjPzX6gFJF6uTN6axpBCfkuc73n_7NCU&tn-str=%2AF)](assets/a2081bb52e19/1*vQnhm85uRlM8JKwfnfvyGQ.jpeg)
+![Photos: [Chiara Lauvergnac](https://www.facebook.com/chiara.lauvergnac?__tn__=%2Cd%2AF%2AF-R&eid=ARCKzQr6WEzk2AZ8ppvqnOtoVplBSOzFFgm9sYV7VWnONZTBPjPzX6gFJF6uTN6axpBCfkuc73n_7NCU&tn-str=%2AF)](../assets/a2081bb52e19/1*vQnhm85uRlM8JKwfnfvyGQ.jpeg)
 
 Photos: [Chiara Lauvergnac](https://www.facebook.com/chiara.lauvergnac?__tn__=%2Cd%2AF%2AF-R&eid=ARCKzQr6WEzk2AZ8ppvqnOtoVplBSOzFFgm9sYV7VWnONZTBPjPzX6gFJF6uTN6axpBCfkuc73n_7NCU&tn-str=%2AF)
 
 At night this is **the only water tap,** and these are the only toilets for hundreds of people\. From here hundreds of people drink, wash their hands, their bodies and their clothes\. Unsurprisingly, diarrhoea is rife\. HAND SANITIZER NEEDED; In other camps the water and sanitation is even worse, e\.g totally absent\. Police destroy jerrycans migrants use to collect and store water\.
 
 
-![Photos: [Chiara Lauvergnac](https://www.facebook.com/chiara.lauvergnac?__tn__=%2Cd%2AF%2AF-R&eid=ARCKzQr6WEzk2AZ8ppvqnOtoVplBSOzFFgm9sYV7VWnONZTBPjPzX6gFJF6uTN6axpBCfkuc73n_7NCU&tn-str=%2AF)](assets/a2081bb52e19/1*Pse-Kgb43AE7-FeiPKmM1A.jpeg)
+![Photos: [Chiara Lauvergnac](https://www.facebook.com/chiara.lauvergnac?__tn__=%2Cd%2AF%2AF-R&eid=ARCKzQr6WEzk2AZ8ppvqnOtoVplBSOzFFgm9sYV7VWnONZTBPjPzX6gFJF6uTN6axpBCfkuc73n_7NCU&tn-str=%2AF)](../assets/a2081bb52e19/1*Pse-Kgb43AE7-FeiPKmM1A.jpeg)
 
 Photos: [Chiara Lauvergnac](https://www.facebook.com/chiara.lauvergnac?__tn__=%2Cd%2AF%2AF-R&eid=ARCKzQr6WEzk2AZ8ppvqnOtoVplBSOzFFgm9sYV7VWnONZTBPjPzX6gFJF6uTN6axpBCfkuc73n_7NCU&tn-str=%2AF)
 

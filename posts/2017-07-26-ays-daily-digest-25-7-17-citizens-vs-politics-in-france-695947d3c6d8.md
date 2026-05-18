@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 25/07/17: Citizens versus politics in France
+title: "AYS Daily Digest 25/07/17: Citizens versus politics in France"
 author: Are You Syrious?
 date: 2017-07-26T03:37:45.370+0100
 last_modified_at: 2017-08-29T17:10:19.358+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,france,greece,human-rights]
 description: Mistreatment of refugees by police following Moria protests / More than 2,300 people dead in the Mediterranean this year / Awaiting a…
 image:
-  path: assets/695947d3c6d8/1*A9O3pCGFIzr4R6KWHQVz5w.jpeg
+  path: ../assets/695947d3c6d8/1*A9O3pCGFIzr4R6KWHQVz5w.jpeg
 ---
 
 ### AYS Daily Digest 25/07/17: Citizens versus politics in France
@@ -15,7 +15,7 @@ image:
 _Mistreatment of refugees by police following Moria protests / More than 2,300 people dead in the Mediterranean this year / Awaiting a judgement in the Austria\-Croatia Dublin III case / Organizations in France to hold a conference on inclusive and humane welcoming of refugees / And more news…_
 
 
-![DUBLIN/C: C\-490/16 C\-646/16—26 July, 9:30 a\.m\.: The European Court in Luxembourg’s rule on 700 “Dublin deportations” from Austria to Croatia\. \(Photo by [Border Crossing Spielfeld](https://www.facebook.com/RefugeesSpielfeld/?hc_ref=ARRgxXrKRSHgZ3iD-h4mIjwk7S-GRIwYzTRQBfqwMR_75fLkJlAIDOBH0-dEw8ynkHw&fref=nf) \)](assets/695947d3c6d8/1*A9O3pCGFIzr4R6KWHQVz5w.jpeg)
+![DUBLIN/C: C\-490/16 C\-646/16—26 July, 9:30 a\.m\.: The European Court in Luxembourg’s rule on 700 “Dublin deportations” from Austria to Croatia\. \(Photo by [Border Crossing Spielfeld](https://www.facebook.com/RefugeesSpielfeld/?hc_ref=ARRgxXrKRSHgZ3iD-h4mIjwk7S-GRIwYzTRQBfqwMR_75fLkJlAIDOBH0-dEw8ynkHw&fref=nf) \)](../assets/695947d3c6d8/1*A9O3pCGFIzr4R6KWHQVz5w.jpeg)
 
 DUBLIN/C: C\-490/16 C\-646/16—26 July, 9:30 a\.m\.: The European Court in Luxembourg’s rule on 700 “Dublin deportations” from Austria to Croatia\. \(Photo by [Border Crossing Spielfeld](https://www.facebook.com/RefugeesSpielfeld/?hc_ref=ARRgxXrKRSHgZ3iD-h4mIjwk7S-GRIwYzTRQBfqwMR_75fLkJlAIDOBH0-dEw8ynkHw&fref=nf) \)
 ### FEATURE: French initiative to focus on inclusive and humane welcome for refugees
@@ -107,13 +107,13 @@ No Border’s original statement can be read in full [here](https://noborderkitc
 [Refugee Education Chios](https://www.facebook.com/refugeeeducationchios/?hc_ref=ARQ8R-nVdDbdEyI1EeKI4d7VB8pur5sz6zhdDU9OFTwB6NWvz9H04-TPaN5xiDnFtZM&fref=nf) is looking for Arabic and Farsi speakers to join their team from September\.
 
 
-![](assets/695947d3c6d8/1*s1AcVDPyl2gQc-P97-2vtg.jpeg)
+![](../assets/695947d3c6d8/1*s1AcVDPyl2gQc-P97-2vtg.jpeg)
 
 
 Those interested in joining the team are encouraged to write to: nicholas@baas\-schweiz\.ch\.
 
 
-![“Thanks to the initiative of a 14\-year\-old refugee boy who started planting fruits, vegetables, and edible plants outside his container, Eleonas’ streets are becoming greener and greener\! — Project Elea” \(Photo by Campfire Innovation\)](assets/695947d3c6d8/1*ggisnCpBspBh1DSWkxsc6Q.jpeg)
+![“Thanks to the initiative of a 14\-year\-old refugee boy who started planting fruits, vegetables, and edible plants outside his container, Eleonas’ streets are becoming greener and greener\! — Project Elea” \(Photo by Campfire Innovation\)](../assets/695947d3c6d8/1*ggisnCpBspBh1DSWkxsc6Q.jpeg)
 
 “Thanks to the initiative of a 14\-year\-old refugee boy who started planting fruits, vegetables, and edible plants outside his container, Eleonas’ streets are becoming greener and greener\! — Project Elea” \(Photo by Campfire Innovation\)
 #### Athens
@@ -123,7 +123,7 @@ Ali Rahimi, an [Afghan](https://www.hrw.org/asia/afghanistan) asylum seeker, [wa
 Rahimi finally received the justice he deserved as an Athens court this week [convicted](https://www.hrw.org/news/2011/12/12/greece-rare-hate-crime-trial-opens) Ali’s attackers\. The court pointed out that today’s victims in similar cases of xenophonic violence should not have to wait this long for justice\.
 
 
-![“What is at stake is nothing less than the survival and well being of a generation of innocents\. When the larger NGOs pull their services due to funding cuts a lot of gaps will need to be covered and we intend on meeting the immediate needs of our refugee friends here in Greece that have been through so much\.” \(Photo: [Collective Calling](https://www.facebook.com/CollectiveCalling/) \)](assets/695947d3c6d8/1*a8Q4VtCOCm0s17v4wkeHfQ.jpeg)
+![“What is at stake is nothing less than the survival and well being of a generation of innocents\. When the larger NGOs pull their services due to funding cuts a lot of gaps will need to be covered and we intend on meeting the immediate needs of our refugee friends here in Greece that have been through so much\.” \(Photo: [Collective Calling](https://www.facebook.com/CollectiveCalling/) \)](../assets/695947d3c6d8/1*a8Q4VtCOCm0s17v4wkeHfQ.jpeg)
 
 “What is at stake is nothing less than the survival and well being of a generation of innocents\. When the larger NGOs pull their services due to funding cuts a lot of gaps will need to be covered and we intend on meeting the immediate needs of our refugee friends here in Greece that have been through so much\.” \(Photo: [Collective Calling](https://www.facebook.com/CollectiveCalling/) \)
 ### BULGARIA
@@ -144,7 +144,7 @@ Besides preparing two meals every day, No Name Kitchen has recently acquired a w
 
 
 
-![Infographics: IOM](assets/695947d3c6d8/1*Km5sX4u29H8KDFXjGO8V2Q.jpeg)
+![Infographics: IOM](../assets/695947d3c6d8/1*Km5sX4u29H8KDFXjGO8V2Q.jpeg)
 
 Infographics: IOM
 ### ITALY
@@ -167,11 +167,11 @@ This is a conclusion after the first day of many visits to the sanitary point pr
 In spite of the inadequate space and lack of means, many residents took part in the first Italian classes organized there today\.
 
 
-![](assets/695947d3c6d8/1*zX8w-pl-erj-Ow9CO34PfQ.jpeg)
+![](../assets/695947d3c6d8/1*zX8w-pl-erj-Ow9CO34PfQ.jpeg)
 
 
 
-![\(Photo: [Collettivo Mamadou](https://www.facebook.com/Collettivo-Mamadou-1711634685756321/) \)](assets/695947d3c6d8/1*Rw8p6JXoU7QbXXnJOXpOcw.jpeg)
+![\(Photo: [Collettivo Mamadou](https://www.facebook.com/Collettivo-Mamadou-1711634685756321/) \)](../assets/695947d3c6d8/1*Rw8p6JXoU7QbXXnJOXpOcw.jpeg)
 
 \(Photo: [Collettivo Mamadou](https://www.facebook.com/Collettivo-Mamadou-1711634685756321/) \)
 
@@ -198,11 +198,11 @@ Even though the local community has been supportive and has helped these people 
 “We can’t remain indifferent towards the many people in this country, be it those in Calais, under the bridges in paris or in la Roya, France is not fulfilling its international obligations\. It is not done by chasing the refugees, in attempts to block their path and criminalizing those who come to their aid, this crisis must be solved\.”
 
 
-![](assets/695947d3c6d8/1*ZVlvmPF5HC_cARo1GG6abA.jpeg)
+![](../assets/695947d3c6d8/1*ZVlvmPF5HC_cARo1GG6abA.jpeg)
 
 
 
-![La Roya / Nice \(Photos: [José Bové](https://www.facebook.com/BoveJose/?hc_ref=ARQ7bYE5zgkJGpUS9r9s5w7LE8oZ3Th74hYNkNSHilCjMSlyrc1HmNSfc0yyoFDoOGk) \)](assets/695947d3c6d8/1*BUyVbfj8Qg6lRD4UGw9xoA.jpeg)
+![La Roya / Nice \(Photos: [José Bové](https://www.facebook.com/BoveJose/?hc_ref=ARQ7bYE5zgkJGpUS9r9s5w7LE8oZ3Th74hYNkNSHilCjMSlyrc1HmNSfc0yyoFDoOGk) \)](../assets/695947d3c6d8/1*BUyVbfj8Qg6lRD4UGw9xoA.jpeg)
 
 La Roya / Nice \(Photos: [José Bové](https://www.facebook.com/BoveJose/?hc_ref=ARQ7bYE5zgkJGpUS9r9s5w7LE8oZ3Th74hYNkNSHilCjMSlyrc1HmNSfc0yyoFDoOGk) \)
 ### SPAIN

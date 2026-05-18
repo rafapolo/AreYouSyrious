@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 14/1/20: Animal camera traps used to “catch” people in Italy
+title: "AYS Daily Digest 14/1/20: Animal camera traps used to “catch” people in Italy"
 author: Are You Syrious?
 date: 2020-01-15T11:03:17.680+0000
 last_modified_at: 2020-01-15T11:35:30.835+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,italy,uk]
 description: In Greece, around 40,000 people stuck on the islands, some 500 transferred to the mainland; 3 smugglers arrested; In Italy, restriction of…
 image:
-  path: assets/db5f114e4c0e/1*_vGCA77e_5U2k1gzA-vDkg.jpeg
+  path: ../assets/db5f114e4c0e/1*_vGCA77e_5U2k1gzA-vDkg.jpeg
 ---
 
 ### AYS Daily Digest 14/1/20: Animal camera traps used to “catch” people in Italy
 #### In Greece, around 40,000 people stuck on the islands, some 500 transferred to the mainland; 3 smugglers arrested / Croatia harshly criticised by the MEPs for its treatment of people in the border areas / In Italy, restriction of the freedom of movement and further destroying of people’s dignity; In Norway, government’s policies heavily criticized over children coming back from the former IS areas / in UK, a court case of an abused woman from Yarl’s Wood / & more info
 
 
-![‘Nevermind democracy [here is the](http://aestheticsofcrisis.org/2014/no-euro-no-vision/) European Union’](assets/db5f114e4c0e/1*_vGCA77e_5U2k1gzA-vDkg.jpeg)
+![‘Nevermind democracy [here is the](http://aestheticsofcrisis.org/2014/no-euro-no-vision/) European Union’](../assets/db5f114e4c0e/1*_vGCA77e_5U2k1gzA-vDkg.jpeg)
 
 ‘Nevermind democracy [here is the](http://aestheticsofcrisis.org/2014/no-euro-no-vision/) European Union’
 #### FEATURED
@@ -44,7 +44,7 @@ By the end of February, more than 10,000 asylum seekers currently staying at the
 There are already 30 open accommodation structures in the country, with about 25,000 people\. According to government planning, the 10 new centers will be able to accommodate 10,000 to 15,000 people and will be established in Ilia, Arta, Amfilochia, Larissa, two more in Central Macedonia, one in Central Greece, one in Fthiotida \(the most likely in Lamia\) and two in Crete, one of which in the Prefecture of Rethymnon\.
 
 
-[![IF YOU DO MIND by NO NAME KITCHEN](assets/db5f114e4c0e/9f38_hqdefault.jpg "IF YOU DO MIND by NO NAME KITCHEN")](https://www.youtube.com/watch?v=hS7GQ-QXLVA)
+[![IF YOU DO MIND by NO NAME KITCHEN](../assets/db5f114e4c0e/9f38_hqdefault.jpg "IF YOU DO MIND by NO NAME KITCHEN")](https://www.youtube.com/watch?v=hS7GQ-QXLVA)
 
 
 NO NAME KITCHEN health program is a call to all those people who wants to take action against injustice\. The program covers health needs: basic services are often insufficient and people on the move barely access medical care within transit countries, including Bosnia\-Herzegovina, Greece, Montenegro and Serbia\.
@@ -128,7 +128,7 @@ In Velika Kladuša, one of the two main towns closest to the border with Croatia
 
 
 
-![Kladuša, photo by [Adis Imamovic Pixi](https://www.facebook.com/adis.pixi?__tn__=%2Cd%2AF%2AF-R&eid=ARDbb0Qyk9aA3KYAYsmvy2WP-pQiHJXGkgsGgnw4goOZ0esXTyykcz5nirM1nTxvf20w0ti_cJGhr2oH&tn-str=%2AF&hc_location=group_dialog)](assets/db5f114e4c0e/1*23rpaYM7SGAbwTpJyw3Zlg.jpeg)
+![Kladuša, photo by [Adis Imamovic Pixi](https://www.facebook.com/adis.pixi?__tn__=%2Cd%2AF%2AF-R&eid=ARDbb0Qyk9aA3KYAYsmvy2WP-pQiHJXGkgsGgnw4goOZ0esXTyykcz5nirM1nTxvf20w0ti_cJGhr2oH&tn-str=%2AF&hc_location=group_dialog)](../assets/db5f114e4c0e/1*23rpaYM7SGAbwTpJyw3Zlg.jpeg)
 
 Kladuša, photo by [Adis Imamovic Pixi](https://www.facebook.com/adis.pixi?__tn__=%2Cd%2AF%2AF-R&eid=ARDbb0Qyk9aA3KYAYsmvy2WP-pQiHJXGkgsGgnw4goOZ0esXTyykcz5nirM1nTxvf20w0ti_cJGhr2oH&tn-str=%2AF&hc_location=group_dialog)
 #### CROATIA

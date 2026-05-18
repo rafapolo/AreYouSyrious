@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 04/03/2022: Temporary Protection Directive reveals double-standard refugee law
+title: "AYS News Digest 04/03/2022: Temporary Protection Directive reveals double-standard refugee law"
 author: Are You Syrious?
 date: 2022-03-05T17:00:53.793+0000
 last_modified_at: 2022-03-05T17:00:53.793+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,eu,europe,pushback]
 description: Updates from the Ukrainian Borders / Pushbacks in Greece and Romania / Violence against new arrivals in Melilla / UK Govt failings /…
 image:
-  path: assets/55c4be103ac2/0*5kJoZfFlFsrVGPBM.jpeg
+  path: ../assets/55c4be103ac2/0*5kJoZfFlFsrVGPBM.jpeg
 ---
 
 ### AYS News Digest 04/03/2022: Temporary Protection Directive reveals double\-standard refugee law
@@ -15,7 +15,7 @@ image:
 Updates from the Ukrainian Borders / Pushbacks in Greece and Romania / Violence against new arrivals in Melilla / UK Govt failings / Updates from France and Germany and more\.
 
 
-![](assets/55c4be103ac2/0*5kJoZfFlFsrVGPBM.jpeg)
+![](../assets/55c4be103ac2/0*5kJoZfFlFsrVGPBM.jpeg)
 
 
 Border control, Emad Hajjaj, 2 March 2022, [Cartoon Movement](https://cartoonmovement.com/cartoon/border-control-0)
@@ -37,7 +37,7 @@ According to Unicef, 10 days into the conflict, the Russian invasion has already
 
 
 
-![](assets/55c4be103ac2/0*nCj-gTf50pgPyRDC.png)
+![](../assets/55c4be103ac2/0*nCj-gTf50pgPyRDC.png)
 
 
 Refugee arrivals from Ukraine \(since 24 February 2022\), By Country and By Date \(Source: [UNHCR](https://data2.unhcr.org/en/situations/ukraine) \)
@@ -115,7 +115,7 @@ As InfoMigrants report, people of many nationalities have been [forced to stay](
 ### Updates from the borders
 
 
-![](assets/55c4be103ac2/0*o2xE21glBeP0ghpw.jpeg)
+![](../assets/55c4be103ac2/0*o2xE21glBeP0ghpw.jpeg)
 
 
 A constantly updated document on the situation at each border crossing in the country is available [HERE](https://docs.google.com/spreadsheets/d/e/2PACX-1vTmKNAxZn2cPpBqPHnRx9Hc_GPzfi7U92h05hkNuES6pA8l7IcbfdRELMkTBWGcBFoRkUdwlnfX889X/pubhtml?gid=0&single=true) \.

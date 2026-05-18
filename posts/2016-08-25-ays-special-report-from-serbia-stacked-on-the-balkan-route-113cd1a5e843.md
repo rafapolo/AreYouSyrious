@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL REPORT FROM SERBIA: Stacked on the Balkan Route
+title: "AYS SPECIAL REPORT FROM SERBIA: Stacked on the Balkan Route"
 author: Are You Syrious?
 date: 2016-08-25T12:31:23.674+0100
 last_modified_at: 2018-03-01T14:18:07.800+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,europe,serbia,kalebija,special]
 description: Number of refugees arriving to Serbia increases every day. All of them are passing through the Balkan Route, being exploited by smugglers…
 image:
-  path: assets/113cd1a5e843/1*_TYKMNnpHpL1bIiXdzpvNQ.jpeg
+  path: ../assets/113cd1a5e843/1*_TYKMNnpHpL1bIiXdzpvNQ.jpeg
 ---
 
 ### AYS SPECIAL REPORT FROM SERBIA: Stacked on the Balkan Route
@@ -15,7 +15,7 @@ image:
 _Number of refugees arriving to Serbia increases every day\. All of them are passing through the Balkan Route, being exploited by smugglers, forced to hide from the police, humiliated, but full of hope to reach their final destination\. Along the way they are met with many volunteers who are doing their best, despite numerous obstacles, to help those who are in need\. Serbia is not final destination for most of the refugees, but facing closed borders they are forced to wait\. AYS volunteers team gathered information about situation in Serbia, pointing towards some of the most urgent issues and problems refugees but also volunteers are facing daily\._
 
 
-![Waiting to continue their journey\. Photo by Mohammed Saber](assets/113cd1a5e843/1*_TYKMNnpHpL1bIiXdzpvNQ.jpeg)
+![Waiting to continue their journey\. Photo by Mohammed Saber](../assets/113cd1a5e843/1*_TYKMNnpHpL1bIiXdzpvNQ.jpeg)
 
 Waiting to continue their journey\. Photo by Mohammed Saber
 
@@ -26,19 +26,19 @@ The reason why in Belgrade most of the refugees are men from these countries is 
 Smugglers, who are visible in the streets of Belgrade as well as in the streets of cities in Greece, do not show any signs of fear they could be arrested, unlike refugees who are living in fear of arrest and possible deportations\. One of the AYS volunteers in \#Belgrade went with pictures and videos of smugglers to the police hoping that will encourage their action, but the answer he got was “we are understaffed”\.
 
 
-![](assets/113cd1a5e843/1*2lNQkX_2CwVhJ4B2nUYNeg.jpeg)
+![](../assets/113cd1a5e843/1*2lNQkX_2CwVhJ4B2nUYNeg.jpeg)
 
 
 
-![](assets/113cd1a5e843/1*2tpyIyyu2dVRdvYv2gRYrA.jpeg)
+![](../assets/113cd1a5e843/1*2tpyIyyu2dVRdvYv2gRYrA.jpeg)
 
 
 
-![](assets/113cd1a5e843/1*jhnm6eca3i8cKk3L3mf_5w.jpeg)
+![](../assets/113cd1a5e843/1*jhnm6eca3i8cKk3L3mf_5w.jpeg)
 
 
 
-![Stuck in Serbia, refugees are greeted by volunteers who are trying to ease their journey and help in every possible way, despite obstacles\. Photo Info Park\.](assets/113cd1a5e843/1*AGAej6dDpeEV2E2exkSzQA.jpeg)
+![Stuck in Serbia, refugees are greeted by volunteers who are trying to ease their journey and help in every possible way, despite obstacles\. Photo Info Park\.](../assets/113cd1a5e843/1*AGAej6dDpeEV2E2exkSzQA.jpeg)
 
 Stuck in Serbia, refugees are greeted by volunteers who are trying to ease their journey and help in every possible way, despite obstacles\. Photo Info Park\.
 
@@ -64,7 +64,7 @@ Along with \#InfoPark, a medical container run by \#UNHCR and \#DRC is apparentl
 _No unauthorized personnel are allowed inside of the Subotica One\-Stop Center, the Horgoš Transit Zone, or the Kelebija Transit Zone; thus far all efforts by independent and many NGOs to receive authorization have been unsuccessful\. The transit zones themselves are inaccessible due to their peculiar location that is technically on Hungarian territory, meaning that whenever access is requested, individuals are referred to asking the Hungarian authorities, which is an impossible request\. The campsites themselves are also monitored by various authorities, making regular trips/operations in them challenging as well\._
 
 
-![**Photo by [Refugee’s Anthem](https://www.facebook.com/refugeesanthem/)**](assets/113cd1a5e843/1*qZ8H0r70hA7XMHqbYGta0g.jpeg)
+![**Photo by [Refugee’s Anthem](https://www.facebook.com/refugeesanthem/)**](../assets/113cd1a5e843/1*qZ8H0r70hA7XMHqbYGta0g.jpeg)
 
 **Photo by [Refugee’s Anthem](https://www.facebook.com/refugeesanthem/)**
 
@@ -87,7 +87,7 @@ KELEBIJA
 In order to ensure that there is not overlap of support, volunteers are encouraged to support ongoing efforts to provide aid and activities in the current locations: in front of Subotica One Stop Center and the “Kelebija Community Center” near the \#Kelebija campsites by “the Kafana\.”
 
 
-![Kelebija Community Center location](assets/113cd1a5e843/1*2kzegyFclbuoYq4-NkGDHQ.png)
+![Kelebija Community Center location](../assets/113cd1a5e843/1*2kzegyFclbuoYq4-NkGDHQ.png)
 
 Kelebija Community Center location
 
@@ -102,7 +102,7 @@ Independent volunteer efforts are primarily operating out of Subotica, volunteer
 Once per day, this team runs a distribution outside of Subotica One\-Stop center\. Distribution is timed to coordinate to not overlap with the timing of distribution of food inside the camp\.
 
 
-![Subotica Distribution Location](assets/113cd1a5e843/1*YYR2YPqV7Ha8M_Ue325WQg.png)
+![Subotica Distribution Location](../assets/113cd1a5e843/1*YYR2YPqV7Ha8M_Ue325WQg.png)
 
 Subotica Distribution Location
 
@@ -111,7 +111,7 @@ _Stable link for location can be found [here](https://www.bing.com/mapspreview?v
 The independent volunteer team out of Subotica also makes occasional visits to the Kelebija Community Center\. Individuals from the nearby Kelebija campsites will come to the Center, receive aid, and take it back to their campsites\.
 
 
-![Belgrade Park Photo by Refugee’s Anthem](assets/113cd1a5e843/1*3nnb_PJucY88lwJoUWaCXg.jpeg)
+![Belgrade Park Photo by Refugee’s Anthem](../assets/113cd1a5e843/1*3nnb_PJucY88lwJoUWaCXg.jpeg)
 
 Belgrade Park Photo by Refugee’s Anthem
 

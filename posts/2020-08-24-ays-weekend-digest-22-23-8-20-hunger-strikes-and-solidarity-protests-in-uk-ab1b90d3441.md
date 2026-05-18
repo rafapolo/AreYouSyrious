@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 22–23/8/20: Hunger Strikes and Solidarity Protests in UK
+title: "AYS Weekend Digest 22–23/8/20: Hunger Strikes and Solidarity Protests in UK"
 author: Are You Syrious?
 date: 2020-08-24T13:36:30.139+0100
 last_modified_at: 2020-08-24T13:36:30.139+0100
@@ -7,18 +7,18 @@ categories: Are You Syrious?
 tags: []
 description: Sicilian governor signs propagandistic decree closing all hotspots, but has no power to do it // 104 people rescued by Sea Watch 4 //…
 image:
-  path: assets/ab1b90d3441/0*WYzfegZXKc_M7mB7.jpeg
+  path: ../assets/ab1b90d3441/0*WYzfegZXKc_M7mB7.jpeg
 ---
 
 ### AYS Weekend Digest 22–23/8/20: Hunger Strikes and Solidarity Protests in UK
 #### Sicilian governor signs propagandistic decree closing all hotspots, but has no power to do it // 104 people rescued by Sea Watch 4 // Louise Michel: New independent rescue ship in the Central Med
 
 
-![](assets/ab1b90d3441/0*boKB2hmaR5Dreysn)
+![](../assets/ab1b90d3441/0*boKB2hmaR5Dreysn)
 
 
 
-![](assets/ab1b90d3441/0*WYzfegZXKc_M7mB7.jpeg)
+![](../assets/ab1b90d3441/0*WYzfegZXKc_M7mB7.jpeg)
 
 
 The Stromboli volcano as seen from the Astral, [@openarms\_fund](https://twitter.com/openarms_fund) rescue vessel, on route to the Central Mediterranean sea\. \(Photo by [Santi Palacios](https://twitter.com/SantiPalacios/status/1297455565606658048) \)
@@ -110,19 +110,19 @@ SEA
 Between [Saturday evening and Sunday morning 104 people](https://web.facebook.com/seawatchprojekt/posts/2621203854764346) were rescued by Sea Watch 4, just arrived in the central Med\. MSF medics are onboard and are [screening](https://twitter.com/MSF_Sea/status/1297227738449944576) the survivors\. The first boat in distress on Saturday was carrying 7 people and was first [spotted](https://web.facebook.com/seawatchprojekt/posts/2620674618150603) by another newly arrived ship: Louise Michel\. Named after the French anarchist, the ship is a reconverted French custom patrol, repainted by Banksy and its crew include independent international activists, [not affiliated with any NGO](https://www.letelegramme.fr/finistere/crozon/le-bateau-de-sauvetage-louise-michel-fait-peau-neuve-a-camaret-12-03-2020-12524053.php) \.
 
 
-![](assets/ab1b90d3441/0*xtehngMgRWs1zcRW)
+![](../assets/ab1b90d3441/0*xtehngMgRWs1zcRW)
 
 
 
-![](assets/ab1b90d3441/0*zJwS6fTcLCHkHDtg.jpeg)
+![](../assets/ab1b90d3441/0*zJwS6fTcLCHkHDtg.jpeg)
 
 
 
-![](assets/ab1b90d3441/0*CLOGklZ0Wry9xwPC)
+![](../assets/ab1b90d3441/0*CLOGklZ0Wry9xwPC)
 
 
 
-![](assets/ab1b90d3441/0*WXl3Ud_5lXASesIN.jpeg)
+![](../assets/ab1b90d3441/0*WXl3Ud_5lXASesIN.jpeg)
 
 
 Left: Independent Rescue Ship \#LouiseMichel \(photo by [Avvenire](https://www.avvenire.it/attualita/pagine/libia-pe-r-salvare-i-profughi-arriva-la-prima-motovedetta-civile-firmata-bansky) \) — Right: Sea Watch Rescue \(photo by [Sea Watch International](https://twitter.com/seawatch_intl/status/1297472642631557121/photo/1) \)
@@ -208,11 +208,11 @@ BALKANS
 ### Violence continues in the Balkans
 
 
-![](assets/ab1b90d3441/0*S7SliTY8C3ecM9R0)
+![](../assets/ab1b90d3441/0*S7SliTY8C3ecM9R0)
 
 
 
-![](assets/ab1b90d3441/0*SH34jPsfZ2XutHwx.jpeg)
+![](../assets/ab1b90d3441/0*SH34jPsfZ2XutHwx.jpeg)
 
 
 \(Photo Credit: [Transbalkan Solidarity Collective](https://transbalkanskasolidarnost.home.blog/violence-against-the-people-on-the-move-must-stop-now/) \)

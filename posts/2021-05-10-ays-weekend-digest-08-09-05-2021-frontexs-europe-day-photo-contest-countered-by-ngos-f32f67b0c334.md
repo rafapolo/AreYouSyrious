@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 08–09/05/2021: Frontex’s Europe Day Photo Contest Countered by NGOs
+title: "AYS Weekend Digest 08–09/05/2021: Frontex’s Europe Day Photo Contest Countered by NGOs"
 author: Are You Syrious?
 date: 2021-05-10T13:50:26.455+0100
 last_modified_at: 2021-05-10T13:50:26.455+0100
@@ -7,18 +7,18 @@ categories: Are You Syrious?
 tags: [frontex,europe-day,refugees,digest,migrants]
 description: The truth about “peace and unity” in Europe // Libyan authorities break promise about detention releases // Multiple distress cases in the…
 image:
-  path: assets/f32f67b0c334/0*RP-4uRegsMXka0oy
+  path: ../assets/f32f67b0c334/0*RP-4uRegsMXka0oy
 ---
 
 ### AYS Weekend Digest 08–09/05/2021: Frontex’s Europe Day Photo Contest Countered by NGOs
 #### The truth about “peace and unity” in Europe // Libyan authorities break promise about detention releases // Multiple distress cases in the Mediterranean
 
 
-![](assets/f32f67b0c334/0*LFvdXRKsAMPTQWwp)
+![](../assets/f32f67b0c334/0*LFvdXRKsAMPTQWwp)
 
 
 
-![](assets/f32f67b0c334/0*RP-4uRegsMXka0oy)
+![](../assets/f32f67b0c334/0*RP-4uRegsMXka0oy)
 
 
 A response to Frontex’s photo competition for Europe Day, which included the category “Border Landscapes,” from [borderline\-europe](https://twitter.com/BorderlineEurop/status/1391335722976792579?fbclid=IwAR3JdQ79sEl6MMEmn0gAufZt7FSn8HN9T6GbY107uGiLdIqtB15ilfJbitc)

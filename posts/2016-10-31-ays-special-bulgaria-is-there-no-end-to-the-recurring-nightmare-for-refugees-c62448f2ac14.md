@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Bulgaria: Is there no end to the recurring nightmare for Refugees?
+title: "AYS SPECIAL: Bulgaria: Is there no end to the recurring nightmare for Refugees?"
 author: Are You Syrious?
 date: 2016-10-31T18:01:02.060+0000
 last_modified_at: 2018-03-01T14:06:59.754+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,europe,bulgaria,human-rights-watch,special]
 description: The treatment of refugees in Bulgaria is once again creeping back into the news with stories of human rights violations that are gut…
 image:
-  path: assets/c62448f2ac14/1*wMfTKIRwt6Q6fc_HJ0Vg5w.jpeg
+  path: ../assets/c62448f2ac14/1*wMfTKIRwt6Q6fc_HJ0Vg5w.jpeg
 ---
 
 ### AYS SPECIAL: Bulgaria: Is there no end to the recurring nightmare for Refugees?
@@ -15,7 +15,7 @@ image:
 _The treatment of refugees in Bulgaria is once again creeping back into the news with stories of human rights violations that are gut wrenchingly familiar\. Together with RefuComm we compiled available information about the situation in this country where many refugees from Greece are relocated, often against their wishes\._
 
 
-![Bulgarian border\. Photo by Balkan Insight\.](assets/c62448f2ac14/1*wMfTKIRwt6Q6fc_HJ0Vg5w.jpeg)
+![Bulgarian border\. Photo by Balkan Insight\.](../assets/c62448f2ac14/1*wMfTKIRwt6Q6fc_HJ0Vg5w.jpeg)
 
 Bulgarian border\. Photo by Balkan Insight\.
 
@@ -78,7 +78,7 @@ Another contact with access to several camps told me the same story\.
 
 
 
-![](assets/c62448f2ac14/1*fr12rvWImDAdOe5YnGEaQw.jpeg)
+![](../assets/c62448f2ac14/1*fr12rvWImDAdOe5YnGEaQw.jpeg)
 
 
 
@@ -130,14 +130,14 @@ For years, it has been well documented, and recommendations have been made \(and
 [HEAR project recently conducted the research](http://hear.farbg.eu/evidence-collection/case-studies/a-family-with-a-nine-year-old-daughter/) highlighting in their report the ’non\-information‘ strategy of the Bulgarian authorities and the desperation of the refugees\.
 
 
-![HEAR project\.](assets/c62448f2ac14/1*p4_3dQviJf9-fr3L0srDWg.jpeg)
+![HEAR project\.](../assets/c62448f2ac14/1*p4_3dQviJf9-fr3L0srDWg.jpeg)
 
 HEAR project\.
 
 It also reiterated that the practice of waiting in detention centres, behind bars for months, until refugees are brought to an open camp like Harmanli, still exists, despite previous reports and recommendations that this inhumane practice should cease\. Often, unaccompanied kids are placed in detention, which is a serious violation of their rights\.
 
 
-[![HEAR: "After I was deported from Denmark, they put me in Busmantsi..."](assets/c62448f2ac14/12a6_hqdefault.jpg "HEAR: "After I was deported from Denmark, they put me in Busmantsi..."")](http://www.youtube.com/watch?v=AOn0fGOHKJ4)
+[![HEAR: "After I was deported from Denmark, they put me in Busmantsi..."](../assets/c62448f2ac14/12a6_hqdefault.jpg "HEAR: "After I was deported from Denmark, they put me in Busmantsi..."")](http://www.youtube.com/watch?v=AOn0fGOHKJ4)
 
 
 Similar [experiences were recently shared in a report by the Center for Legal Aid \(CLA\)](http://detainedinbg.com/blog/2016/09/22/final-report-who-gets-detained-increasing-the-transparency-and-accountability-of-bulgarias-detention-practices-of-asylum-seekers-and-migrants/) who said\.
@@ -149,7 +149,7 @@ Similar [experiences were recently shared in a report by the Center for Legal Ai
 
 
 
-![HEAR project\.](assets/c62448f2ac14/1*cqAMSicFDKgC7uwmb4d8nA.jpeg)
+![HEAR project\.](../assets/c62448f2ac14/1*cqAMSicFDKgC7uwmb4d8nA.jpeg)
 
 HEAR project\.
 

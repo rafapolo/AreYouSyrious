@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 04–05/7/2020: Solidarity with the Talia 52. Let them Land!
+title: "AYS Weekend Digest 04–05/7/2020: Solidarity with the Talia 52. Let them Land!"
 author: Are You Syrious?
 date: 2020-07-06T11:23:31.050+0100
 last_modified_at: 2020-07-06T14:50:06.050+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,migration,asylum-seekers,europe]
 description: 52 people held in livestock carrier vessel // 150 stuck in limbo for a week on board search and rescue ship // Greece’s “inhumane asylum…
 image:
-  path: assets/b4ef0ad37d52/1*pSPNIRYD9t94sdXFTraRiw.jpeg
+  path: ../assets/b4ef0ad37d52/1*pSPNIRYD9t94sdXFTraRiw.jpeg
 ---
 
 ### AYS Weekend Digest 04–05/7/2020: Solidarity with the Talia 52\. Let them Land\!
@@ -15,7 +15,7 @@ image:
 52 people held in a livestock carrier vessel // 150 stuck in limbo for a week on board search and rescue ship // Greece’s “inhumane asylum system” // Scotland stops receiving asylum seekers
 
 
-![Photo Credit: **Mediterranea Saving Humans** \(Twitter @RescueMed\)](assets/b4ef0ad37d52/1*pSPNIRYD9t94sdXFTraRiw.jpeg)
+![Photo Credit: **Mediterranea Saving Humans** \(Twitter @RescueMed\)](../assets/b4ef0ad37d52/1*pSPNIRYD9t94sdXFTraRiw.jpeg)
 
 Photo Credit: **Mediterranea Saving Humans** \(Twitter @RescueMed\)
 ### Feature
@@ -40,11 +40,11 @@ Alarm Phone report that these 52 people were inside the Maltese Search and Rescu
 Fortunately, [a livestock carrier vessel, the Talia](https://timesofmalta.com/articles/view/sea-sick-migrants-kept-in-stinking-animal-spaces-on-rescue-ship-off.803046?fbclid=IwAR3QTX2dInZMN4bkNUQNsQ92qf6GWrOKQVEksJyhrYZuDvx75mX2LGBYlBc) , acted in accordance with Maritime law and rescued the people in distress and offered them shelter\. The ship’s captain, Mohammad Shaaban, told Times of Malta that his ship was not an adequate place for human beings and the severe weather just made matters a lot worse\. Shaaban explained that there were two places where the migrants could be kept: either on the upper deck under a scorching sun, or in the stables below decks, but because of the seven\-metre waves they were experiencing on Saturday night keeping people on the deck of the ship was often not an option\.
 
 
-![](assets/b4ef0ad37d52/1*ESrXImdKkPv7VlPsTlvkHA.jpeg)
+![](../assets/b4ef0ad37d52/1*ESrXImdKkPv7VlPsTlvkHA.jpeg)
 
 
 
-![Conditions on board the ship \(Photo Credit: **Alarm Phone** and **Times of Malta** \)](assets/b4ef0ad37d52/1*lr3rFRgXwCp-RVp9byol3g.jpeg)
+![Conditions on board the ship \(Photo Credit: **Alarm Phone** and **Times of Malta** \)](../assets/b4ef0ad37d52/1*lr3rFRgXwCp-RVp9byol3g.jpeg)
 
 Conditions on board the ship \(Photo Credit: **Alarm Phone** and **Times of Malta** \)
 

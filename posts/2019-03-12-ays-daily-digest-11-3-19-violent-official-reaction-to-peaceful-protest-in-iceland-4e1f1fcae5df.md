@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 11/3/19: Violent official reaction to peaceful protest in Iceland
+title: "AYS Daily Digest 11/3/19: Violent official reaction to peaceful protest in Iceland"
 author: Are You Syrious?
 date: 2019-03-12T13:36:31.912+0000
 last_modified_at: 2019-03-12T13:36:31.912+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,human-rights,iceland]
 description: Arrests and eviction of a protest in Iceland / Morocco drops case against human rights activist / Hunger strike in Malta / What’s going on…
 image:
-  path: assets/4e1f1fcae5df/1*D7TEdjd7aDxNc7-r9ff8TA.jpeg
+  path: ../assets/4e1f1fcae5df/1*D7TEdjd7aDxNc7-r9ff8TA.jpeg
 ---
 
 ### AYS Daily Digest 11/3/19: Violent official reaction to peaceful protest in Iceland
 #### Arrests and eviction of a protest in Iceland / Morocco drops case against human rights activist / Hunger strike in Malta / What’s going on in camps in Bosnia and Herzegovina / Eviction in Torino, march announced for Venice / next deportation to Afghanistan from Germany / more news
 
 
-![](assets/4e1f1fcae5df/1*Tx1u1RSutf5fWmPbOOmJVA.jpeg)
+![](../assets/4e1f1fcae5df/1*Tx1u1RSutf5fWmPbOOmJVA.jpeg)
 
 
 [Are You Syrious?](https://medium.com/@AreYouSyrious)
@@ -22,7 +22,7 @@ image:
 Mar 12
 
 
-![by [Refugees in Iceland](https://www.facebook.com/refugeesiniceland/?eid=ARAihDeR8kBWPrpiGKWqCMamYQ2Pb21YqB75k7NHNXbxYA38xVchyNV3pf3ZbBdvEg7HOAAZts1mL9DJ)](assets/4e1f1fcae5df/1*D7TEdjd7aDxNc7-r9ff8TA.jpeg)
+![by [Refugees in Iceland](https://www.facebook.com/refugeesiniceland/?eid=ARAihDeR8kBWPrpiGKWqCMamYQ2Pb21YqB75k7NHNXbxYA38xVchyNV3pf3ZbBdvEg7HOAAZts1mL9DJ)](../assets/4e1f1fcae5df/1*D7TEdjd7aDxNc7-r9ff8TA.jpeg)
 
 by [Refugees in Iceland](https://www.facebook.com/refugeesiniceland/?eid=ARAihDeR8kBWPrpiGKWqCMamYQ2Pb21YqB75k7NHNXbxYA38xVchyNV3pf3ZbBdvEg7HOAAZts1mL9DJ)
 #### FEATURE
@@ -62,7 +62,7 @@ Later on, a police officer said that when the police approached to confiscate th
 As an Icelander commented the situation, saying the people are “protesting the Icelandic government’s failure to comply with international law and human rights in their treatment of asylum seekers\. Among their demands are the right to work, which they are currently denied \(despite a labor shortage\), sometimes for years\. They are not asking for any handouts, only basic human liberties\.”
 
 
-![Published by [No Borders Iceland](https://www.facebook.com/nobordersiceland/?tn-str=k%2AF) on February 14, still no reactions](assets/4e1f1fcae5df/1*_OVLj5xEjKC8H8kSRFr5GQ.png)
+![Published by [No Borders Iceland](https://www.facebook.com/nobordersiceland/?tn-str=k%2AF) on February 14, still no reactions](../assets/4e1f1fcae5df/1*_OVLj5xEjKC8H8kSRFr5GQ.png)
 
 Published by [No Borders Iceland](https://www.facebook.com/nobordersiceland/?tn-str=k%2AF) on February 14, still no reactions
 
@@ -175,11 +175,11 @@ This Saturday Venice announces a march for solidarity, share with your Friuli fr
 The police evicted one of the largest occupied residences in Turin\. Migrants were forced to abandon the site in the early hours of Monday morning, [InfoMigrants](https://www.facebook.com/InfoMigrants/?tn-str=k%2AF&hc_location=group_dialog) reported\. The eviction was agreed with the city authorities but it is as yet unclear where some of the inhabitants will be accommodated\.
 
 
-![](assets/4e1f1fcae5df/1*ehnYTHd5LyeP44ZeoOiZ9Q.jpeg)
+![](../assets/4e1f1fcae5df/1*ehnYTHd5LyeP44ZeoOiZ9Q.jpeg)
 
 
 
-![Photos: [InfoMigrants](https://www.facebook.com/InfoMigrants/?tn-str=k%2AF&hc_location=group_dialog)](assets/4e1f1fcae5df/1*c6u-3_uzhPIyc-DAnI7Igg.jpeg)
+![Photos: [InfoMigrants](https://www.facebook.com/InfoMigrants/?tn-str=k%2AF&hc_location=group_dialog)](../assets/4e1f1fcae5df/1*c6u-3_uzhPIyc-DAnI7Igg.jpeg)
 
 Photos: [InfoMigrants](https://www.facebook.com/InfoMigrants/?tn-str=k%2AF&hc_location=group_dialog)
 #### FRANCE
@@ -187,7 +187,7 @@ Photos: [InfoMigrants](https://www.facebook.com/InfoMigrants/?tn-str=k%2AF&hc_lo
 For refugees and migrant leatherworkers who want to continue working in their professional field in France, [La fabrique Nomade](https://www.facebook.com/LaFabriqueNomadeParis/?__xts__%5B0%5D=68.ARBSF4xnG_sdsFcIDMf7RQrveoRkwtc1CdogKIgWUh85wuOU9KVRCSDLPv5RntfC8oQSFC8-zH1pErqM2dJW2NE8cFFSewhysfqU_uPIn4Rt5uKTKm6LG-YhY49sV0ib_PakE9Trvg7L8pdGwKSxBQpaSNlgPtGFeI5pKv0EiYNoOQDIFx8w1D5YCKa7ul_Wa90Y1o641gu-tvtkxlxYKnTJvlsdY5Tm1UmgPFdompQaVdzwgApS7PVdoJpJBqEaCh2NhEUwIWMi3Q75Dsm7RtaIhnwOB-m2iJWsnbl4Tn-K0RHr7GzMZIwRKARFp8rgRvwnXo8NsrJ5Jd04deSyCXTZog&__tn__=k%2AF&tn-str=k%2AF) invites everyone to contact them as they wish to “accompany you in your professional integration”\.
 
 
-![](assets/4e1f1fcae5df/1*GMkcCG_IXabQN6yVpKBfeg.jpeg)
+![](../assets/4e1f1fcae5df/1*GMkcCG_IXabQN6yVpKBfeg.jpeg)
 
 
 Here are the conditions:

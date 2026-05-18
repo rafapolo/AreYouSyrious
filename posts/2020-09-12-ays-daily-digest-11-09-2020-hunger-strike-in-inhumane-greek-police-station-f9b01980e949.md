@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 11/09/2020: Hunger Strike in Inhumane Greek Police Station
+title: "AYS Daily Digest 11/09/2020: Hunger Strike in Inhumane Greek Police Station"
 author: Are You Syrious?
 date: 2020-09-12T12:30:08.588+0100
 last_modified_at: 2020-09-12T12:30:08.588+0100
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [digest,europe,refugees,migration,greece]
 description: Are You Syrious?
 image:
-  path: assets/f9b01980e949/0*hnwEgP8ltVoB-VhX.png
+  path: ../assets/f9b01980e949/0*hnwEgP8ltVoB-VhX.png
 ---
 
 ### AYS Daily Digest 11/09/2020: Hunger Strike in Inhumane Greek Police Station
 
 
-![](assets/f9b01980e949/0*Ln_z5a3n40RUdWBE.jpeg)
+![](../assets/f9b01980e949/0*Ln_z5a3n40RUdWBE.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----212060b61c75----------------------)
@@ -32,19 +32,19 @@ One individual was transferred there nine days ago, but other people have been d
 They live in small dark rooms, four people in each one, while some sleep on the floor in the corridor\. In the whole facility, there are only nine beds\. Once the hunger strike started, police raided the cells and seized personal belongings and phones\. Police told them not to complain because they are living in “VIP conditions” compared to months before, when up to 16 people were sleeping on the floor of the corridor\. Also, reportedly police has been violent towards one of the detainees, who was punched, and told them: “If you die here, we won’t put you in a grave”\.
 
 
-![](assets/f9b01980e949/0*4Yb6Lil1H0UqEq5B)
+![](../assets/f9b01980e949/0*4Yb6Lil1H0UqEq5B)
 
 
 
-![](assets/f9b01980e949/0*hnwEgP8ltVoB-VhX.png)
+![](../assets/f9b01980e949/0*hnwEgP8ltVoB-VhX.png)
 
 
 
-![](assets/f9b01980e949/0*Wfzrw8x8LerhwM2F)
+![](../assets/f9b01980e949/0*Wfzrw8x8LerhwM2F)
 
 
 
-![](assets/f9b01980e949/0*em5Og0Jyq887Gm-c.png)
+![](../assets/f9b01980e949/0*em5Og0Jyq887Gm-c.png)
 
 
 The police have allegedly refused medical treatment to one detainee who is suffering from a brain tumour, telling him that he had to give them money to buy medication when he, of course, has none because he is detained\.
@@ -70,11 +70,11 @@ Today the Border Violence Monitoring Network published the 800th pushback testim
 The graphic below shows some of the most common forms of violence described by individuals in these reports\. We must never forget that behind each one of these testimonies stands a group of persons with their own complex emotions and lifegoals which have been irreparably affected by the border policies of EU\-member states\.
 
 
-![](assets/f9b01980e949/0*vuBNp0DMb2WLTeAS)
+![](../assets/f9b01980e949/0*vuBNp0DMb2WLTeAS)
 
 
 
-![](assets/f9b01980e949/0*F8zl1pRcVqdl72Ko.png)
+![](../assets/f9b01980e949/0*F8zl1pRcVqdl72Ko.png)
 
 ### Sea
 

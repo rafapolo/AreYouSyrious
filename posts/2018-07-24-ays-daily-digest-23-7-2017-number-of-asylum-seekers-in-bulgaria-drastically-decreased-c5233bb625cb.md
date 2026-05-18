@@ -1,19 +1,19 @@
 ---
-title: AYS DAILY DIGEST 23/7/2017: Number of asylum seekers in Bulgaria drastically decreased
+title: "AYS DAILY DIGEST 23/7/2017: Number of asylum seekers in Bulgaria drastically decreased"
 author: Are You Syrious?
 date: 2018-07-24T09:23:33.112+0100
 last_modified_at: 2018-07-24T09:23:33.112+0100
 categories: Are You Syrious?
 tags: [refugees,digest,bulgaria,greece,sweden]
-description: Feature: Violations of human rights pushes people away from Bulgaria
+description: "Feature: Violations of human rights pushes people away from Bulgaria"
 image:
-  path: assets/c5233bb625cb/1*BvmGVdJyJfbSx5j_lQFjZw.jpeg
+  path: ../assets/c5233bb625cb/1*BvmGVdJyJfbSx5j_lQFjZw.jpeg
 ---
 
 ### AYS DAILY DIGEST 23/7/2017: Number of asylum seekers in Bulgaria drastically decreased
 
 
-![Our thoughts today are with the people in struggles against fire in Athen\! Photo by No Border Greece](assets/c5233bb625cb/1*BvmGVdJyJfbSx5j_lQFjZw.jpeg)
+![Our thoughts today are with the people in struggles against fire in Athen\! Photo by No Border Greece](../assets/c5233bb625cb/1*BvmGVdJyJfbSx5j_lQFjZw.jpeg)
 
 Our thoughts today are with the people in struggles against fire in Athen\! Photo by No Border Greece
 ### Feature: Violations of human rights pushes people away from Bulgaria
@@ -75,7 +75,7 @@ Universities in Greece are accepting applications [now](https://www.facebook.com
 [Swimming classes](https://www.facebook.com/1650025878606170/posts/2136836576591762/) at Pikpa are organized every day
 
 
-![](assets/c5233bb625cb/1*ff42rsK-cy3Z8GYr0347vg.jpeg)
+![](../assets/c5233bb625cb/1*ff42rsK-cy3Z8GYr0347vg.jpeg)
 
 
 Refugee women from Afghanistan and Iran will [participate](http://www.alithia.gr/.../paidia-prosfyges-stin-opera-tis...) on Opera of Masticha \(Chios traditional tree\) performance, at 27/28 of July at Chios at Olympon National school\.
@@ -93,7 +93,7 @@ Authorities in Bosnia are still looking for the solution to the current situatio
 Donations are needed in [Calais](https://www.facebook.com/…/a.10461649754…/2014709575228656/…)
 
 
-![Photo by Care4Calais](assets/c5233bb625cb/1*g6B7LdiH7uYLaUY-UCjHlw.jpeg)
+![Photo by Care4Calais](../assets/c5233bb625cb/1*g6B7LdiH7uYLaUY-UCjHlw.jpeg)
 
 Photo by Care4Calais
 

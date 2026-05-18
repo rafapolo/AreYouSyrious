@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 20/01/20: Giving names to victims — deaths in Italian deportation centres
+title: "AYS Daily Digest 20/01/20: Giving names to victims — deaths in Italian deportation centres"
 author: Are You Syrious?
 date: 2020-01-21T01:13:41.878+0000
 last_modified_at: 2020-01-21T01:13:41.878+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,people-on-the-move,refugees,italy,detention]
 description: Updates from Gradisca//Ocean Viking will disembark the 39 people rescued in Pozzallo//18 year old woman stabbed in Moria//Video testimony…
 image:
-  path: assets/ad96ac5c8b5e/1*DGbIqWANrLy_T2Ke-qkIYQ.jpeg
+  path: ../assets/ad96ac5c8b5e/1*DGbIqWANrLy_T2Ke-qkIYQ.jpeg
 ---
 
 ### AYS Daily Digest 20/01/20: Giving names to victims — deaths in Italian deportation centres
 #### Updates from Gradisca//Ocean Viking will disembark the 39 people rescued in Pozzallo//18 year old woman stabbed in Moria//Video testimony of police brutality at the Spanish\-Moroccan border//Deportation from Finland to Afghanistan//Right\-wing Progress Party leaving as part of the Norwegian Parliament…
 
 
-![Demo in solidarity with the people detained in Gradisca\. January 2020\. Credit: No Cpr e no frontiere — FVG\.](assets/ad96ac5c8b5e/1*DGbIqWANrLy_T2Ke-qkIYQ.jpeg)
+![Demo in solidarity with the people detained in Gradisca\. January 2020\. Credit: No Cpr e no frontiere — FVG\.](../assets/ad96ac5c8b5e/1*DGbIqWANrLy_T2Ke-qkIYQ.jpeg)
 
 Demo in solidarity with the people detained in Gradisca\. January 2020\. Credit: No Cpr e no frontiere — FVG\.
 #### **Twentynine people died in Italian deportation centres from 1998 until 2020\.**

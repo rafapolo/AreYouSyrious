@@ -1,5 +1,5 @@
 ---
-title: AYS Special from Slovenia: A year in review
+title: "AYS Special from Slovenia: A year in review"
 author: Are You Syrious?
 date: 2021-01-01T08:44:49.077+0000
 last_modified_at: 2021-01-01T19:52:35.259+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [special,slovenia,pushback,balkan-route,eritrea]
 description: The last weeks of 2020 saw two women giving birth in the forests of Slovenia. One child did not survive.
 image:
-  path: assets/3f3aec0c3a2a/1*Azk5M8lEov3DS0cwCMR45A.jpeg
+  path: ../assets/3f3aec0c3a2a/1*Azk5M8lEov3DS0cwCMR45A.jpeg
 ---
 
 ### AYS Special from Slovenia: A year in review
@@ -15,7 +15,7 @@ image:
 _The last weeks of 2020 saw two women giving birth in the forests of Slovenia\. One child did not survive\. The fact that refugee families are delivering babies in the forest while on a long trek towards the European Union barely made the news, and neither did the question as to why a family with small children would be avoiding the law enforcement of an EU & Schengen member state\. Those families were hiding\. A central European winter in a forest seemed more humane than European police\._
 
 
-![\(Photo Credit: _InfoKolpa_ \)](assets/3f3aec0c3a2a/1*Azk5M8lEov3DS0cwCMR45A.jpeg)
+![\(Photo Credit: _InfoKolpa_ \)](../assets/3f3aec0c3a2a/1*Azk5M8lEov3DS0cwCMR45A.jpeg)
 
 \(Photo Credit: _InfoKolpa_ \)
 
@@ -70,7 +70,7 @@ Within the procedure, police officers consider these asylum seekers _illegal ali
 #### **Chain\-pushbacks**
 
 
-![\(Photo Credit: _InfoKolpa\)_](assets/3f3aec0c3a2a/1*aFuNIchL-X4-sue5FWHHCw.jpeg)
+![\(Photo Credit: _InfoKolpa\)_](../assets/3f3aec0c3a2a/1*aFuNIchL-X4-sue5FWHHCw.jpeg)
 
 \(Photo Credit: _InfoKolpa\)_
 
@@ -86,11 +86,11 @@ Each European Union member state washes its hands of these people, claiming that
 #### **Protests against detention of asylum seekers**
 
 
-![](assets/3f3aec0c3a2a/1*IzBJEIQ3Y3VmWSv7OXEGxA.png)
+![](../assets/3f3aec0c3a2a/1*IzBJEIQ3Y3VmWSv7OXEGxA.png)
 
 
 
-![\(Photo Credit: _InfoKolpa\. Read their Special on the protests [HERE](ays-slovenia-special-protest-breaks-out-in-detention-centre-postojna-a-week-after-court-decision-e86065481fcb) \)_](assets/3f3aec0c3a2a/1*dTvsbQVD93jfV-YNKR6b6Q.png)
+![\(Photo Credit: _InfoKolpa\. Read their Special on the protests [HERE](ays-slovenia-special-protest-breaks-out-in-detention-centre-postojna-a-week-after-court-decision-e86065481fcb) \)_](../assets/3f3aec0c3a2a/1*dTvsbQVD93jfV-YNKR6b6Q.png)
 
 \(Photo Credit: _InfoKolpa\. Read their Special on the protests [HERE](ays-slovenia-special-protest-breaks-out-in-detention-centre-postojna-a-week-after-court-decision-e86065481fcb) \)_
 
@@ -140,7 +140,7 @@ The [other case](https://balkaninsight.com/2020/07/28/slovenian-court-ruling-a-b
 #### **Eritrea is not a safe country\!**
 
 
-![\(Photo Credit: _InfoKolpa\)_](assets/3f3aec0c3a2a/1*Axe_Lgw8mD-63vl8rG0VRg.jpeg)
+![\(Photo Credit: _InfoKolpa\)_](../assets/3f3aec0c3a2a/1*Axe_Lgw8mD-63vl8rG0VRg.jpeg)
 
 \(Photo Credit: _InfoKolpa\)_
 
@@ -198,11 +198,11 @@ The interconnection of several information systems, part of which is **an entry 
 The year of the pandemic, which has particularly affected vulnerable groups, including refugees and other migrants, is coming to an end\. We are entering the new year with the awareness that the situation of people on the move is not improving, the humanitarian and political crisis is escalating, and there are no effective systemic solutions in sight\. Given these intersecting crises, interpersonal solidarity, contact with people on the move, and direct action will be our guide in the coming year\.
 
 
-![](assets/3f3aec0c3a2a/1*dr4Vstm5O_hjFYntJlXbwA.jpeg)
+![](../assets/3f3aec0c3a2a/1*dr4Vstm5O_hjFYntJlXbwA.jpeg)
 
 
 
-![\(Photo Credit: _InfoKolpa\)_](assets/3f3aec0c3a2a/1*5m0xLya55-w7A6x6BM6guA.jpeg)
+![\(Photo Credit: _InfoKolpa\)_](../assets/3f3aec0c3a2a/1*5m0xLya55-w7A6x6BM6guA.jpeg)
 
 \(Photo Credit: _InfoKolpa\)_
 

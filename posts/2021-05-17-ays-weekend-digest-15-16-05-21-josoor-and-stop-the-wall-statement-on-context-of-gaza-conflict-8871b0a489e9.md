@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 15–16/05/21: Josoor and Stop the Wall Statement on context of Gaza conflict
+title: "AYS Weekend Digest 15–16/05/21: Josoor and Stop the Wall Statement on context of Gaza conflict"
 author: Are You Syrious?
 date: 2021-05-17T13:56:30.052+0100
 last_modified_at: 2021-05-17T14:22:55.225+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,gaza,palestine,refugees,protest]
 description: Arrivals on Samos and Lesvos//172 people rescued in Med//Two boats currently in distress//Antiracist demos and meetings in Greece…
 image:
-  path: assets/8871b0a489e9/1*r1b9yCYyL8_KdmP28j9PoQ.jpeg
+  path: ../assets/8871b0a489e9/1*r1b9yCYyL8_KdmP28j9PoQ.jpeg
 ---
 
 ### AYS Weekend Digest 15–16/05/21: Josoor and Stop the Wall Statement on context of Gaza conflict
@@ -15,7 +15,7 @@ image:
 Arrivals on Samos and Lesvos//172 people rescued in Med//Two boats currently in distress//Antiracist demos and meetings in Greece and Italy//Updates from France and more…
 
 
-![\(Photo Credit: [Mohammed Saber via Art Against](https://www.facebook.com/artagainstproject/photos/a.704384742944296/3950948281621243/) \)](assets/8871b0a489e9/1*r1b9yCYyL8_KdmP28j9PoQ.jpeg)
+![\(Photo Credit: [Mohammed Saber via Art Against](https://www.facebook.com/artagainstproject/photos/a.704384742944296/3950948281621243/) \)](../assets/8871b0a489e9/1*r1b9yCYyL8_KdmP28j9PoQ.jpeg)
 
 \(Photo Credit: [Mohammed Saber via Art Against](https://www.facebook.com/artagainstproject/photos/a.704384742944296/3950948281621243/) \)
 #### FEATURED: Josoor and Stop the Wall Statement on context of Gaza conflict
@@ -54,15 +54,15 @@ Read the full statement [HERE](https://www.josoor.net/post/73-years-of-the-nakba
 At the same time, protests took place throughout the world in support of the people of Palestine\.
 
 
-![](assets/8871b0a489e9/1*FR3eW2FkFRfFscRLq2ipRg.jpeg)
+![](../assets/8871b0a489e9/1*FR3eW2FkFRfFscRLq2ipRg.jpeg)
 
 
 
-![](assets/8871b0a489e9/1*1lBktaNB1yRdz4rYPdYWhA.jpeg)
+![](../assets/8871b0a489e9/1*1lBktaNB1yRdz4rYPdYWhA.jpeg)
 
 
 
-![\(From left to right\. Athens, photo credit: Chrysoula Patsou\. Chile, photo credit: Alberto Valdes\. London, photo credit: Guy Smallman\. All via [Art Against](https://www.facebook.com/artagainstproject) \)](assets/8871b0a489e9/1*rHWPVxDZ6cFkYrahxGy2lA.jpeg)
+![\(From left to right\. Athens, photo credit: Chrysoula Patsou\. Chile, photo credit: Alberto Valdes\. London, photo credit: Guy Smallman\. All via [Art Against](https://www.facebook.com/artagainstproject) \)](../assets/8871b0a489e9/1*rHWPVxDZ6cFkYrahxGy2lA.jpeg)
 
 \(From left to right\. Athens, photo credit: Chrysoula Patsou\. Chile, photo credit: Alberto Valdes\. London, photo credit: Guy Smallman\. All via [Art Against](https://www.facebook.com/artagainstproject) \)
 
@@ -81,7 +81,7 @@ For some, the current violence will force them to leave and risk their lives to 
 #### ARRIVALS
 
 
-![\(Photo credit: via [ABR](https://www.facebook.com/AegeanBoatReport/posts/1085033892019714) \)](assets/8871b0a489e9/1*OmyncYB8io4yPYjt3Q4YLQ.jpeg)
+![\(Photo credit: via [ABR](https://www.facebook.com/AegeanBoatReport/posts/1085033892019714) \)](../assets/8871b0a489e9/1*OmyncYB8io4yPYjt3Q4YLQ.jpeg)
 
 \(Photo credit: via [ABR](https://www.facebook.com/AegeanBoatReport/posts/1085033892019714) \)
 
@@ -97,12 +97,12 @@ Aegean Boat Report state that approximately 27 people arrived on Sunday at Samos
 
 
 
-![\(Photo Credit: [Sea Eye](https://www.facebook.com/seaeyeorg/posts/3600228416749696) \)](assets/8871b0a489e9/0*upA9M3a-xM9va2BO)
+![\(Photo Credit: [Sea Eye](https://www.facebook.com/seaeyeorg/posts/3600228416749696) \)](../assets/8871b0a489e9/0*upA9M3a-xM9va2BO)
 
 \(Photo Credit: [Sea Eye](https://www.facebook.com/seaeyeorg/posts/3600228416749696) \)
 
 
-![\(Photo Credit: [Sea Eye](https://www.facebook.com/seaeyeorg/posts/3600228416749696) \)](assets/8871b0a489e9/0*MG6N86TIUTePRaqK)
+![\(Photo Credit: [Sea Eye](https://www.facebook.com/seaeyeorg/posts/3600228416749696) \)](../assets/8871b0a489e9/0*MG6N86TIUTePRaqK)
 
 \(Photo Credit: [Sea Eye](https://www.facebook.com/seaeyeorg/posts/3600228416749696) \)
 
@@ -122,7 +122,7 @@ On Thursday [200 people crossed](https://www.dailymail.co.uk/news/article-957978
 **Demo Called for 29 May**
 
 
-![](assets/8871b0a489e9/1*wMnGYDSiRC6-1mNRfWaZaw.jpeg)
+![](../assets/8871b0a489e9/1*wMnGYDSiRC6-1mNRfWaZaw.jpeg)
 
 
 There will also be a series of [antiracist meetings](https://www.facebook.com/solidaritymigrants/posts/306677474288122) :

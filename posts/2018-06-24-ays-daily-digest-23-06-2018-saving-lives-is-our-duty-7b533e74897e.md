@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 23/06/2018: “Saving lives is our duty”
+title: "AYS Daily Digest 23/06/2018: “Saving lives is our duty”"
 author: Are You Syrious?
 date: 2018-06-24T01:36:33.026+0100
 last_modified_at: 2018-06-24T21:09:47.518+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,eu,mediterranean,sweden]
 description: EU still fails to find a humane response for people trying to reach Europe in search of protection and a better life / Information and…
 image:
-  path: assets/7b533e74897e/1*rueLmLIdV6bXHa3BPVH5EQ.jpeg
+  path: ../assets/7b533e74897e/1*rueLmLIdV6bXHa3BPVH5EQ.jpeg
 ---
 
 ### AYS Daily Digest 23/06/2018: “Saving lives is our duty”
@@ -15,7 +15,7 @@ image:
 _EU still fails to find a humane response for people trying to reach Europe in search of protection and a better life / Information and updates from Greece / Two ships are still waiting for permission to land at a safe harbour in Italy / More than 700 people rescued off Spain / Next deportation scheduled from Sweden to Afghanistan / And more news…_
 
 
-![The current EU policy is rather harming the people rather than supporting them to live in safety and dignity\. \(Photo by [Watch The Med — Alarmphone](https://www.facebook.com/watchthemed.alarmphone/photos/a.1526182797655958.1073741828.1525906057683632/2137036423237256/?type=3&theater) \)](assets/7b533e74897e/1*rueLmLIdV6bXHa3BPVH5EQ.jpeg)
+![The current EU policy is rather harming the people rather than supporting them to live in safety and dignity\. \(Photo by [Watch The Med — Alarmphone](https://www.facebook.com/watchthemed.alarmphone/photos/a.1526182797655958.1073741828.1525906057683632/2137036423237256/?type=3&theater) \)](../assets/7b533e74897e/1*rueLmLIdV6bXHa3BPVH5EQ.jpeg)
 
 The current EU policy is rather harming the people rather than supporting them to live in safety and dignity\. \(Photo by [Watch The Med — Alarmphone](https://www.facebook.com/watchthemed.alarmphone/photos/a.1526182797655958.1073741828.1525906057683632/2137036423237256/?type=3&theater) \)
 ### FEATURE: The EU’s inhumane response
@@ -36,7 +36,7 @@ People who arrive on the Greek islands need to process their asylum case there d
 Their [statement](https://www.facebook.com/mobileinfoteam/photos/a.1800063030222418.1073741830.1796286800600041/2196790567216327/?type=3&theater) is also available in Arabic\.
 
 
-![People usually have to stay at the island of arrival, until their case is closed\. \(Photo by [Mobile Info Team for refugees in Greece](https://www.facebook.com/mobileinfoteam/) \)](assets/7b533e74897e/1*WkuXzC3yHGUxpQaNKpVhdg.jpeg)
+![People usually have to stay at the island of arrival, until their case is closed\. \(Photo by [Mobile Info Team for refugees in Greece](https://www.facebook.com/mobileinfoteam/) \)](../assets/7b533e74897e/1*WkuXzC3yHGUxpQaNKpVhdg.jpeg)
 
 People usually have to stay at the island of arrival, until their case is closed\. \(Photo by [Mobile Info Team for refugees in Greece](https://www.facebook.com/mobileinfoteam/) \)
 
@@ -45,7 +45,7 @@ The 21st Anti\-racist Festival in Athens will take place from June 29th to July 
 Today, one boat landed on Lesvos, Aegean Boat Report [notes](https://www.facebook.com/AegeanBoatReport/posts/374884913034619) \. 53 people, including 25 children and 14 women, made their way from Turkey to European soil\. Additionally, eight boats carrying 308 people — more than half of them women and children — were [intercepted](https://www.facebook.com/AegeanBoatReport/posts/374442966412147) by the Turkish Coast Guard\. So far, 400 boats, with almost 16,800 people, were apprehended from making their way to Greece\.
 
 
-![The group which arrived today\. \(Photo by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?hc_ref=ARRD61TRncxWQCZ12B39RGW6iosJPgfV4nE5-7vc64pQqqWm4YnrWHi8Rpz6ccvqDvI&fref=nf) \)](assets/7b533e74897e/1*sRL1JIT_0x6Z5p9LCxKYDw.jpeg)
+![The group which arrived today\. \(Photo by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?hc_ref=ARRD61TRncxWQCZ12B39RGW6iosJPgfV4nE5-7vc64pQqqWm4YnrWHi8Rpz6ccvqDvI&fref=nf) \)](../assets/7b533e74897e/1*sRL1JIT_0x6Z5p9LCxKYDw.jpeg)
 
 The group which arrived today\. \(Photo by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?hc_ref=ARRD61TRncxWQCZ12B39RGW6iosJPgfV4nE5-7vc64pQqqWm4YnrWHi8Rpz6ccvqDvI&fref=nf) \)
 
@@ -87,7 +87,7 @@ The Lifeline remains stranded in international waters still, with more than 200 
 Off Spain, almost 770 people have been rescued, Salvamento Maritimo [says](https://twitter.com/salvamentogob/status/1010547890022952960) \. In total, more than 25 vessels were on the way to Estrecho, Alboran, and the Canary Islands\.
 
 
-![One of the vessels trying to make its way to Spain\. \(Photo by [Salvamento Maritimo](https://twitter.com/salvamentogob/status/1010610983117705216) \)](assets/7b533e74897e/1*WtPY2ukr25GfntRkgO4YVQ.jpeg)
+![One of the vessels trying to make its way to Spain\. \(Photo by [Salvamento Maritimo](https://twitter.com/salvamentogob/status/1010610983117705216) \)](../assets/7b533e74897e/1*WtPY2ukr25GfntRkgO4YVQ.jpeg)
 
 One of the vessels trying to make its way to Spain\. \(Photo by [Salvamento Maritimo](https://twitter.com/salvamentogob/status/1010610983117705216) \)
 ### FRANCE

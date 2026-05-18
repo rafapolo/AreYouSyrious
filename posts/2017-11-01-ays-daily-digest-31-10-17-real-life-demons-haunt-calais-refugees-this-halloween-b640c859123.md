@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 31.10.17: Real-Life Demons Haunt Calais Refugees this Halloween
+title: "AYS Daily Digest 31.10.17: Real-Life Demons Haunt Calais Refugees this Halloween"
 author: Are You Syrious?
 date: 2017-11-01T01:06:20.772+0000
 last_modified_at: 2017-11-01T10:41:29.271+0000
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,france,calais,greece,europe]
 description: Feature
 image:
-  path: assets/b640c859123/1*TKSvZS11p8ibzuQFyVCAgw.jpeg
+  path: ../assets/b640c859123/1*TKSvZS11p8ibzuQFyVCAgw.jpeg
 ---
 
 ### AYS Daily Digest 31\.10\.17: Real\-Life Demons Haunt Calais Refugees this Halloween
 
 
-![A photograph of the bruise allegedly sustained by the victim of the incident\.](assets/b640c859123/1*TKSvZS11p8ibzuQFyVCAgw.jpeg)
+![A photograph of the bruise allegedly sustained by the victim of the incident\.](../assets/b640c859123/1*TKSvZS11p8ibzuQFyVCAgw.jpeg)
 
 A photograph of the bruise allegedly sustained by the victim of the incident\.
 #### Feature
@@ -75,7 +75,7 @@ Adele Ghias,15 years old
  Mariam Mohammendi, 42 years old
 
 
-![By Arash Hampey\.](assets/b640c859123/1*M597l-uPkcUw9fVel1mvrQ.jpeg)
+![By Arash Hampey\.](../assets/b640c859123/1*M597l-uPkcUw9fVel1mvrQ.jpeg)
 
 By Arash Hampey\.
 ### UNICEF reports that there are 1,800 unaccompanied child refugees without proper shelter
@@ -154,7 +154,7 @@ Read RRDP’s latest report: [http://refugeerights\.org\.uk/reports/](http://ref
 #### Mediterranean
 
 
-![The last IOM figures on Mediterranean crossings\.](assets/b640c859123/1*GtuxP0pqa8IK5TztAB_QPg.png)
+![The last IOM figures on Mediterranean crossings\.](../assets/b640c859123/1*GtuxP0pqa8IK5TztAB_QPg.png)
 
 The last IOM figures on Mediterranean crossings\.
 ### Portuguese vessel rescues refugees

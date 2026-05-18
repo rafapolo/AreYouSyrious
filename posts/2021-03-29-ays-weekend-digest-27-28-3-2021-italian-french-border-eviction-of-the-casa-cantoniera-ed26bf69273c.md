@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 27–28/3/2021 — Italian/French border: Eviction of the Casa Cantoniera
+title: "AYS Weekend Digest 27–28/3/2021 — Italian/French border: Eviction of the Casa Cantoniera"
 author: Are You Syrious?
 date: 2021-03-29T13:55:38.055+0100
 last_modified_at: 2021-03-29T13:55:38.055+0100
@@ -7,18 +7,18 @@ categories: Are You Syrious?
 tags: [forced-evictions,digest,france,italy,spain]
 description: Deadly shipwreck off Spain // More deportations from Germany despite the pandemic // COVID outbreak in Ellebæk, Denmark // Sudden…
 image:
-  path: assets/ed26bf69273c/0*4gjoTql4o5GqHc5v.jpeg
+  path: ../assets/ed26bf69273c/0*4gjoTql4o5GqHc5v.jpeg
 ---
 
 ### AYS Weekend Digest 27–28/3/2021 — Italian/French border: Eviction of the Casa Cantoniera
 #### Deadly shipwreck off Spain // More deportations from Germany despite the pandemic // COVID outbreak in Ellebæk, Denmark // Sudden improvements in Moria 2\.0 ahead of Johansson visit // Expenditure of UK Home Office raises questions\.
 
 
-![](assets/ed26bf69273c/0*P_8s4LLO7BuOe3Be)
+![](../assets/ed26bf69273c/0*P_8s4LLO7BuOe3Be)
 
 
 
-![](assets/ed26bf69273c/0*4gjoTql4o5GqHc5v.jpeg)
+![](../assets/ed26bf69273c/0*4gjoTql4o5GqHc5v.jpeg)
 
 
 Casa Cantoniera, Oulx, Italian\-French Alpine border
@@ -31,11 +31,11 @@ In the early morning of Monday March 23rd, police [evicted](https://www.facebook
 In one morning, Italian authorities have forcibly shut down a space that for 828 had been a [hub](https://www.facebook.com/permalink.php?story_fbid=1068155123669883&id=362786637540072) of “practical solidarity and resistance against the border and the oppression and violence that comes with it\.”
 
 
-![](assets/ed26bf69273c/0*QH4gW6gDRnwiIIlq)
+![](../assets/ed26bf69273c/0*QH4gW6gDRnwiIIlq)
 
 
 
-![](assets/ed26bf69273c/0*D9Sp59gJVCK2pu_W.jpeg)
+![](../assets/ed26bf69273c/0*D9Sp59gJVCK2pu_W.jpeg)
 
 
 Casa Cantoniera, Oulx, Italian\-French Alpine border
@@ -134,11 +134,11 @@ If the last five years of hotspot islands have taught us anything, surely it’s
 ### Another avoidable death
 
 
-![](assets/ed26bf69273c/0*2wfm8exu1REwWWWV)
+![](../assets/ed26bf69273c/0*2wfm8exu1REwWWWV)
 
 
 
-![](assets/ed26bf69273c/0*4PdMunr1enk_JDbB.jpeg)
+![](../assets/ed26bf69273c/0*4PdMunr1enk_JDbB.jpeg)
 
 
 \(Together we will live, we will struggle, we will win\. Photo Credit: [@alerta\_gr](https://twitter.com/alerta_gr) \)

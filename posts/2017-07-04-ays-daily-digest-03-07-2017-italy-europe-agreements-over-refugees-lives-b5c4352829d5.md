@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 03/07/17: Italy-Europe agreements over refugees lives
+title: "AYS Daily Digest 03/07/17: Italy-Europe agreements over refugees lives"
 author: Are You Syrious?
 date: 2017-07-04T02:51:03.381+0100
 last_modified_at: 2017-07-06T15:12:41.786+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,italy,poland,mediterranean,paris]
 description: Suicide bombing in central Iraq refugee camp / Appalling conditions in Chios / Solidarity at Porte de la Chapelle / Belgium and Poland to…
 image:
-  path: assets/b5c4352829d5/1*mFYc0wormnqlQT6x-3vCdg.jpeg
+  path: ../assets/b5c4352829d5/1*mFYc0wormnqlQT6x-3vCdg.jpeg
 ---
 
 ### AYS Daily Digest 03/07/17: Italy\-Europe agreements over refugees lives
@@ -124,7 +124,7 @@ As one of the volunteers from Chios informed us, the baby lives with his young p
 While the hunger strike is still going on, refugees and volunteers reports highlight the inhumane conditions of the detention centre:
 
 
-![Moria camp](assets/b5c4352829d5/1*19AGTYUsUSBmQZ27JNHMJQ.jpeg)
+![Moria camp](../assets/b5c4352829d5/1*19AGTYUsUSBmQZ27JNHMJQ.jpeg)
 
 Moria camp
 
@@ -135,7 +135,7 @@ Moria camp
 
 
 
-![Is this a camp or a prison? \(Immigrant [**مهاجر**](https://web.facebook.com/riadh04/?fref=nf) **\)**](assets/b5c4352829d5/1*mFYc0wormnqlQT6x-3vCdg.jpeg)
+![Is this a camp or a prison? \(Immigrant [**مهاجر**](https://web.facebook.com/riadh04/?fref=nf) **\)**](../assets/b5c4352829d5/1*mFYc0wormnqlQT6x-3vCdg.jpeg)
 
 Is this a camp or a prison? \(Immigrant [**مهاجر**](https://web.facebook.com/riadh04/?fref=nf) **\)**
 #### It’s not possible to just switch from family reunification to relocation

@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 29/07/22: Investigation reveals Frontex not only covered up but financed Greek…
+title: "AYS News Digest 29/07/22: Investigation reveals Frontex not only covered up but financed Greek…"
 author: Are You Syrious?
 date: 2022-07-31T20:34:57.052+0100
 last_modified_at: 2022-08-01T02:25:59.644+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,greece,refugees,turkey,europe]
 description: Despite evidence, forced pushbacks to carry on in the Aegean Sea // French court refuses to open reception centres for Ukrainians to all…
 image:
-  path: assets/32c0039ce61e/1*unQG5jdd7lZM51diStr1CQ.jpeg
+  path: ../assets/32c0039ce61e/1*unQG5jdd7lZM51diStr1CQ.jpeg
 ---
 
 ### **AYS News Digest 29/07/22: Investigation reveals Frontex not only covered up but financed Greek pushbacks**
 #### Despite evidence, forced pushbacks to carry on in the Aegean Sea // French court refuses to open reception centres for Ukrainians to all people in need // Minors at risk of human trafficking in Europe
 
 
-![A group of 30 people on two lifeboats were pushed back toward Turkish territorial waters by the Greek Coast Guard / Photo: [TC](https://en.sg.gov.tr/pushback-news) G](assets/32c0039ce61e/1*unQG5jdd7lZM51diStr1CQ.jpeg)
+![A group of 30 people on two lifeboats were pushed back toward Turkish territorial waters by the Greek Coast Guard / Photo: [TC](https://en.sg.gov.tr/pushback-news) G](../assets/32c0039ce61e/1*unQG5jdd7lZM51diStr1CQ.jpeg)
 
 A group of 30 people on two lifeboats were pushed back toward Turkish territorial waters by the Greek Coast Guard / Photo: [TC](https://en.sg.gov.tr/pushback-news) G
 #### FEATURE
@@ -43,11 +43,11 @@ Similarly, the Greek government has long been arguing that it is carrying out ef
 Even though the report was presented in February 2022 to the European Parliament’s Committees on Budgetary Control \(CONT\) and on Civil Liberties, Justice and Home Affairs \(LIBE\) by the Director\-General of the European Anti\-Fraud Office \(OLAF\), Ville Itälä, nothing has changed so far and human rights violations and pushbacks routinely continue at the EU’s external border in Greece\.
 
 
-![](assets/32c0039ce61e/1*JukJIK7V0tRpMgdJNxcbCw.jpeg)
+![](../assets/32c0039ce61e/1*JukJIK7V0tRpMgdJNxcbCw.jpeg)
 
 
 
-![Thirty\-nine people were pushed back by Greek Coast Guards to Turkish territorial waters on 29 June\. Photograph: [Turkish Coast Guard](https://en.sg.gov.tr/pushback-news)](assets/32c0039ce61e/1*nTZOUSJIqvRf0tM87yOuRw.jpeg)
+![Thirty\-nine people were pushed back by Greek Coast Guards to Turkish territorial waters on 29 June\. Photograph: [Turkish Coast Guard](https://en.sg.gov.tr/pushback-news)](../assets/32c0039ce61e/1*nTZOUSJIqvRf0tM87yOuRw.jpeg)
 
 Thirty\-nine people were pushed back by Greek Coast Guards to Turkish territorial waters on 29 June\. Photograph: [Turkish Coast Guard](https://en.sg.gov.tr/pushback-news)
 

@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Living in a state of shock on Samos
+title: "AYS SPECIAL: Living in a state of shock on Samos"
 author: Are You Syrious?
 date: 2017-10-03T09:09:23.117+0100
 last_modified_at: 2018-03-01T13:43:31.357+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,samos,greece,samos-volunteers,special]
 description: According to some estimates, there are almost 4000 people in and around the camp in Vathy, Samos island. The capacity is around 700. There…
 image:
-  path: assets/7896853bd2e3/1*xgBwHTh4Z59WPSE6HNloUw.jpeg
+  path: ../assets/7896853bd2e3/1*xgBwHTh4Z59WPSE6HNloUw.jpeg
 ---
 
 ### AYS SPECIAL: Living in a state of shock on Samos
@@ -15,7 +15,7 @@ image:
 _According to some estimates, there are almost 4000 people in and around the camp in Vathy, Samos island\. The capacity is around 700\. There is not enough water, medical or psychological help, and the overall depression is spreading from the camp to the small city\. Although the rainy season is coming, nobody has any plans for the future\._
 
 
-![Samos port\. Over 4000 refugees stranded on the island, waiting to find out about their future\. Photo AYS\.](assets/7896853bd2e3/1*xgBwHTh4Z59WPSE6HNloUw.jpeg)
+![Samos port\. Over 4000 refugees stranded on the island, waiting to find out about their future\. Photo AYS\.](../assets/7896853bd2e3/1*xgBwHTh4Z59WPSE6HNloUw.jpeg)
 
 Samos port\. Over 4000 refugees stranded on the island, waiting to find out about their future\. Photo AYS\.
 
@@ -24,7 +24,7 @@ The bumpy, winding road up the hill leads to the forest in Vathy, Samos\. The vi
 But the road leads to the camp, encircled with wire and security cameras\. Before arriving at the main gate, on both sides of the road, on the steep hill, there are numerous tents and makeshift shelters and laundry hanging out to dry everywhere\. On the road and around the tents there are too many children\. Some are so small that they are still crawling\. Their tired parents are mostly just watching from their shelters, hiding their faces from the newcomers\. All of them have come to Samos, by boat, over the last month and a half\. Many more are inside the camp\.
 
 
-![Tent on the hill around camp in Samos\. Photo AYS\.](assets/7896853bd2e3/1*9A9076qwdFVPUy24OQ9T0A.jpeg)
+![Tent on the hill around camp in Samos\. Photo AYS\.](../assets/7896853bd2e3/1*9A9076qwdFVPUy24OQ9T0A.jpeg)
 
 Tent on the hill around camp in Samos\. Photo AYS\.
 
@@ -37,7 +37,7 @@ _“I am afraid it will be even harder when the rainy season starts, and that is
 The Samos Volunteers group is the only remaining international volunteer NGO on the island\. The group provides new arrivals with dry clothes and a basic arrival kit, among other activities\.
 
 
-![Life behind wire, with no clear plans for the future\. Photo AYS\.](assets/7896853bd2e3/1*7Fq4jawSEgU-BuFJpb3zfA.jpeg)
+![Life behind wire, with no clear plans for the future\. Photo AYS\.](../assets/7896853bd2e3/1*7Fq4jawSEgU-BuFJpb3zfA.jpeg)
 
 Life behind wire, with no clear plans for the future\. Photo AYS\.
 
@@ -54,7 +54,7 @@ The next step is a check of their bodies and belongings, followed by an info ses
 _“All this is happening while people are still in shock after a dangerous journey, and many can hardly understand what they are being told,”_ — Majida Ali, a Syrian who arrived on one of the boats over year ago, told us\.
 
 
-![One of the Frontex boats in the port\. Photo AYS\.](assets/7896853bd2e3/1*NeI33AjwhQeSdKPzb5lc8A.jpeg)
+![One of the Frontex boats in the port\. Photo AYS\.](../assets/7896853bd2e3/1*NeI33AjwhQeSdKPzb5lc8A.jpeg)
 
 One of the Frontex boats in the port\. Photo AYS\.
 
@@ -66,15 +66,15 @@ Bogdan Andrei is one of the coordinators of However, they have recently been hav
 Officially, new arrivals cannot leave the camp for 25 days\. This detention time is due to the illegal crossing\. Unlike on other islands, on Samos, this policy is not strictly implemented and people do get out and come back using the back gate at the very bottom of the camp\. That is where we meet and talk with some of them\. All in disbelief at the living conditions they have been placed in\. Some still believe they will leave very soon and be able to continue their journey\.
 
 
-![](assets/7896853bd2e3/1*Qa0VGYeekC2wvdY_si50zQ.jpeg)
+![](../assets/7896853bd2e3/1*Qa0VGYeekC2wvdY_si50zQ.jpeg)
 
 
 
-![](assets/7896853bd2e3/1*PYoHGLCRr-2V3CoRAAXKsQ.jpeg)
+![](../assets/7896853bd2e3/1*PYoHGLCRr-2V3CoRAAXKsQ.jpeg)
 
 
 
-![Inside the camp\. Photo AYS\.](assets/7896853bd2e3/1*3r7vR2p769bHHJ_EluwK1A.jpeg)
+![Inside the camp\. Photo AYS\.](../assets/7896853bd2e3/1*3r7vR2p769bHHJ_EluwK1A.jpeg)
 
 Inside the camp\. Photo AYS\.
 
@@ -98,7 +98,7 @@ Additionally, people are angry because of the living conditions they have been l
 _“There is a lot of anger, and that is understandable\. Out of despair and anger, people often fight and it creates a very dangerous situation,”_ Majida explains, describing the camp as a _“very dangerous place”_ \.
 
 
-![New arrivals living in the tent down the hill from the camp\. Photo AYS\.](assets/7896853bd2e3/1*AIpR7fCJwLacfOAE3fk_GQ.jpeg)
+![New arrivals living in the tent down the hill from the camp\. Photo AYS\.](../assets/7896853bd2e3/1*AIpR7fCJwLacfOAE3fk_GQ.jpeg)
 
 New arrivals living in the tent down the hill from the camp\. Photo AYS\.
 

@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 28/9/2018: Syrians are the biggest groups among new arrivals in Europe
+title: "AYS DAILY DIGEST 28/9/2018: Syrians are the biggest groups among new arrivals in Europe"
 author: Are You Syrious?
 date: 2018-09-29T13:16:41.896+0100
 last_modified_at: 2018-09-29T14:14:57.974+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,bosnia,unhcr,european-union]
 description: Despite the fact that most of the people who are arriving now in the EU are coming from a war-torn country, nothing is being done to…
 image:
-  path: assets/3c573beb454/1*-M29tMQHfJk2c6WZFVDXag.jpeg
+  path: ../assets/3c573beb454/1*-M29tMQHfJk2c6WZFVDXag.jpeg
 ---
 
 ### AYS DAILY DIGEST 28/9/2018: Syrians are the biggest groups among new arrivals in Europe
@@ -15,7 +15,7 @@ image:
 _Despite the fact that most of the people who are arriving now in the EU are coming from a war\-torn country, nothing is being done to improve conditions for people on the move // Help Bosnians to help people on the move // Help is needed in Greece, too_
 
 
-![By [1976km](https://www.facebook.com/1976km/?__tn__=%2CdkCH-R-R&eid=ARCMXW9knreEmtiEzz_MqF_EJ_RoKoSj-u3pn6TTDa65ZReRarM5HsmmcfYhQkkuMz3Oa-LOoExXqDgW&hc_ref=ARQ_OrnswgyuZ59QNnTzg43RUI7QEe6FzX0dtAgf5WsuF8BwihSQCC2FN0481fTqwRc&fref=nf)](assets/3c573beb454/1*-M29tMQHfJk2c6WZFVDXag.jpeg)
+![By [1976km](https://www.facebook.com/1976km/?__tn__=%2CdkCH-R-R&eid=ARCMXW9knreEmtiEzz_MqF_EJ_RoKoSj-u3pn6TTDa65ZReRarM5HsmmcfYhQkkuMz3Oa-LOoExXqDgW&hc_ref=ARQ_OrnswgyuZ59QNnTzg43RUI7QEe6FzX0dtAgf5WsuF8BwihSQCC2FN0481fTqwRc&fref=nf)](../assets/3c573beb454/1*-M29tMQHfJk2c6WZFVDXag.jpeg)
 
 By [1976km](https://www.facebook.com/1976km/?__tn__=%2CdkCH-R-R&eid=ARCMXW9knreEmtiEzz_MqF_EJ_RoKoSj-u3pn6TTDa65ZReRarM5HsmmcfYhQkkuMz3Oa-LOoExXqDgW&hc_ref=ARQ_OrnswgyuZ59QNnTzg43RUI7QEe6FzX0dtAgf5WsuF8BwihSQCC2FN0481fTqwRc&fref=nf)
 
@@ -87,19 +87,19 @@ Without a maritime flag and registration, the Aquarius cannot sail and save live
 Last week, the Greek government started letting people leave from the islands and go to the camps on mainland, but the situation in the hot spots has not improved much\. And winter is coming\.
 
 
-![](assets/3c573beb454/1*fL2QfbWxzWRfRLH66jbj7A.jpeg)
+![](../assets/3c573beb454/1*fL2QfbWxzWRfRLH66jbj7A.jpeg)
 
 
 
-![](assets/3c573beb454/1*AkGHl5h1WdJJJ_ZbUtlY3g.jpeg)
+![](../assets/3c573beb454/1*AkGHl5h1WdJJJ_ZbUtlY3g.jpeg)
 
 
 
-![](assets/3c573beb454/1*hp5doI3TDj7iVC_dGgug7A.jpeg)
+![](../assets/3c573beb454/1*hp5doI3TDj7iVC_dGgug7A.jpeg)
 
 
 
-![Chios, camp Vial\.](assets/3c573beb454/1*4x30fGKcMi0628YcXUSgnw.jpeg)
+![Chios, camp Vial\.](../assets/3c573beb454/1*4x30fGKcMi0628YcXUSgnw.jpeg)
 
 Chios, camp Vial\.
 
@@ -131,18 +131,18 @@ SAVE THE DATE
 [SOS MEDITERRANEE Italia](https://www.facebook.com/sosmeditalia/?__tn__=%2CdkCH-R-R&eid=ARBkG8QS8vuzX58xAH5CLHMqAvAf4O2-ysIvtR5U6GAxhZzUTQZIWfMXGIo0SaqY8s5wbHBAcuxDBAcn&hc_ref=ARSiz4Rfc1-dOg_YqGwp3zGoGF6OltCp40D175PMdJHJ6h2vPNnhuPg3dxEhoIuXStM&fref=nf&hc_location=group) is inviting all to join the protests on September 29, Saturday, in Palermo\.
 
 
-![](assets/3c573beb454/1*R3s1jO4znmPjKHtWN_1SQA.jpeg)
+![](../assets/3c573beb454/1*R3s1jO4znmPjKHtWN_1SQA.jpeg)
 
 #### Belgium
 
 The police in Brussels continue to harass people in Maximilian park\. This week, at least two persons were arrested\. All of them were released soon after, but this causes tensions and obviously pressure on all the people who are forced to stay in the park \(over 600\), but also volunteers who are helping\.
 
 
-![](assets/3c573beb454/1*sDDcqfIPLk7uH9jmQ6ulVg.jpeg)
+![](../assets/3c573beb454/1*sDDcqfIPLk7uH9jmQ6ulVg.jpeg)
 
 
 
-![](assets/3c573beb454/1*_LMrzls6xO8shUXpbOUEJg.jpeg)
+![](../assets/3c573beb454/1*_LMrzls6xO8shUXpbOUEJg.jpeg)
 
 
 **Refugees welcome at UGent**

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 12/6/20: 53 people drown in the Mediterranean
+title: "AYS Daily Digest 12/6/20: 53 people drown in the Mediterranean"
 author: Are You Syrious?
 date: 2020-06-13T10:41:51.988+0100
 last_modified_at: 2020-06-13T12:30:10.907+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,europe,greece]
 description: Update on the shipwreck off the coast of Tunisia // Harassment of Journalist in Bosnia // Ongoing confusion at the Greek port of Mytilene…
 image:
-  path: assets/e01bc2dbd419/1*e6NjXsA-gm9DNWxH8Qfhpw.jpeg
+  path: ../assets/e01bc2dbd419/1*e6NjXsA-gm9DNWxH8Qfhpw.jpeg
 ---
 
 ### AYS Daily Digest 12/6/20: 53 people drown in the Mediterranean
@@ -15,7 +15,7 @@ image:
 Update on the shipwreck off the coast of Tunisia // Harassment of Journalist in Bosnia // Ongoing confusion at the Greek port of Mytilene // Open letter to the EU Commission
 
 
-![[https://www\.facebook\.com/alagooon/photos/a\.1676821635940903/2651392351817155/?type=3&theater&ifg=1](https://www.facebook.com/alagooon/photos/a.1676821635940903/2651392351817155/?type=3&theater&ifg=1)](assets/e01bc2dbd419/1*e6NjXsA-gm9DNWxH8Qfhpw.jpeg)
+![[https://www\.facebook\.com/alagooon/photos/a\.1676821635940903/2651392351817155/?type=3&theater&ifg=1](https://www.facebook.com/alagooon/photos/a.1676821635940903/2651392351817155/?type=3&theater&ifg=1)](../assets/e01bc2dbd419/1*e6NjXsA-gm9DNWxH8Qfhpw.jpeg)
 
 [https://www\.facebook\.com/alagooon/photos/a\.1676821635940903/2651392351817155/?type=3&theater&ifg=1](https://www.facebook.com/alagooon/photos/a.1676821635940903/2651392351817155/?type=3&theater&ifg=1)
 ### Feature
@@ -47,11 +47,11 @@ Within the report, he speaks about multiple encounters with the Bosnian police:
 
 
 
-![](assets/e01bc2dbd419/1*i8tqGroKLigiQvlQ4YnBpA.jpeg)
+![](../assets/e01bc2dbd419/1*i8tqGroKLigiQvlQ4YnBpA.jpeg)
 
 
 
-![[https://media\.ba/bs/magazin\-novinarstvo/izvjestavanje\-sa\-terena\-tokom\-mjera\-zabrane\-rizici\-izazovi\-i\-prijetnje?fbclid=IwAR391qZTBRpygAW6Whm2VGNRYoRwSP27Lvptew1VZZgql7waBrk\-PDJcsM0](https://media.ba/bs/magazin-novinarstvo/izvjestavanje-sa-terena-tokom-mjera-zabrane-rizici-izazovi-i-prijetnje?fbclid=IwAR391qZTBRpygAW6Whm2VGNRYoRwSP27Lvptew1VZZgql7waBrk-PDJcsM0)](assets/e01bc2dbd419/1*-UpEJAA9AUplnPhwKtX2zw.jpeg)
+![[https://media\.ba/bs/magazin\-novinarstvo/izvjestavanje\-sa\-terena\-tokom\-mjera\-zabrane\-rizici\-izazovi\-i\-prijetnje?fbclid=IwAR391qZTBRpygAW6Whm2VGNRYoRwSP27Lvptew1VZZgql7waBrk\-PDJcsM0](https://media.ba/bs/magazin-novinarstvo/izvjestavanje-sa-terena-tokom-mjera-zabrane-rizici-izazovi-i-prijetnje?fbclid=IwAR391qZTBRpygAW6Whm2VGNRYoRwSP27Lvptew1VZZgql7waBrk-PDJcsM0)](../assets/e01bc2dbd419/1*-UpEJAA9AUplnPhwKtX2zw.jpeg)
 
 [https://media\.ba/bs/magazin\-novinarstvo/izvjestavanje\-sa\-terena\-tokom\-mjera\-zabrane\-rizici\-izazovi\-i\-prijetnje?fbclid=IwAR391qZTBRpygAW6Whm2VGNRYoRwSP27Lvptew1VZZgql7waBrk\-PDJcsM0](https://media.ba/bs/magazin-novinarstvo/izvjestavanje-sa-terena-tokom-mjera-zabrane-rizici-izazovi-i-prijetnje?fbclid=IwAR391qZTBRpygAW6Whm2VGNRYoRwSP27Lvptew1VZZgql7waBrk-PDJcsM0)
 

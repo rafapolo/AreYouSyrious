@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 05/02/2018: Never again!
+title: "AYS DAILY DIGEST 05/02/2018: Never again!"
 author: Are You Syrious?
 date: 2018-02-06T08:16:23.836+0000
 last_modified_at: 2018-03-01T13:37:19.124+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,fascism,winter,volunteering,digest]
 description: A new map showing fascists attacks in Italy has been published/EASO posted the latests figures regarding asylum applications in Europe in…
 image:
-  path: assets/fafeed340a67/1*I11XiXgZFUqD0uu_syQAJQ.jpeg
+  path: ../assets/fafeed340a67/1*I11XiXgZFUqD0uu_syQAJQ.jpeg
 ---
 
 ### AYS DAILY DIGEST 05/02/2018: Never again\! — A map of fascist attacks to remind us of the need to resist and take action
@@ -15,7 +15,7 @@ image:
 _A new map showing fascists attacks in Italy has been published/EASO posted the latests figures regarding asylum applications in Europe in 2017/Updates from Greece on the new Immigration and Citizenship Information System/Volunteers are needed in Serbia/Functional information on the different centres in Serbia/Another push back from Croatia/Winter in France is causing horrible troubles for those who are forced to sleep on the streets in Paris/More news and updates from Denmark, Sweden, Italy…_
 
 
-![Lets stop the fascist terrorism — No space to racism\. Spontaneous demo in Macerata after the attack, on 04/02/2018\. Credit: Csa Sisma\.](assets/fafeed340a67/1*I11XiXgZFUqD0uu_syQAJQ.jpeg)
+![Lets stop the fascist terrorism — No space to racism\. Spontaneous demo in Macerata after the attack, on 04/02/2018\. Credit: Csa Sisma\.](../assets/fafeed340a67/1*I11XiXgZFUqD0uu_syQAJQ.jpeg)
 
 Lets stop the fascist terrorism — No space to racism\. Spontaneous demo in Macerata after the attack, on 04/02/2018\. Credit: Csa Sisma\.
 
@@ -138,7 +138,7 @@ On Friday, a family of 8 \(including 6 children, of whom the youngest was just 1
 What is even worse is that children were forced to spend the night outside, sleeping rough, because UNHCR’s phone line works only from 8:30 AM, so they were “unable” to take care of the case before\.
 
 
-![Credit: AYS](assets/fafeed340a67/1*HFzlWEej5XB2zYTZBF0_5A.jpeg)
+![Credit: AYS](../assets/fafeed340a67/1*HFzlWEej5XB2zYTZBF0_5A.jpeg)
 
 Credit: AYS
 
@@ -153,17 +153,17 @@ After the fascist attack reported yesterday in Macerata, local solidarity networ
 On the same direction, the [demo](https://www.ilfattoquotidiano.it/2018/02/04/genova-corteo-antifascista-contro-lapertura-delle-sedi-di-estrema-destra-cinquemila-in-strada-la-citta-non-li-vuole/4136052/) held in Genoa on Saturday, when more than 5000 people gathered together to show solidarity to the victims of fascist attacks in the city and to claim their dissent to the concession of public spaces to the extreme right wing movements\.
 
 
-[![Corteo Genova Antifascista del 3 febbraio 2018](assets/fafeed340a67/7945_hqdefault.jpg "Corteo Genova Antifascista del 3 febbraio 2018")](http://www.youtube.com/watch?v=vNnk5YCBXr0)
+[![Corteo Genova Antifascista del 3 febbraio 2018](../assets/fafeed340a67/7945_hqdefault.jpg "Corteo Genova Antifascista del 3 febbraio 2018")](http://www.youtube.com/watch?v=vNnk5YCBXr0)
 
 
 **FRANCE**
 
 
-![](assets/fafeed340a67/1*msh1P0UpkMiwM0OhUXJ7ow.jpeg)
+![](../assets/fafeed340a67/1*msh1P0UpkMiwM0OhUXJ7ow.jpeg)
 
 
 
-![Credit: Rose Lecat](assets/fafeed340a67/1*xXLePceKykjCF-5qMWPLsA.jpeg)
+![Credit: Rose Lecat](../assets/fafeed340a67/1*xXLePceKykjCF-5qMWPLsA.jpeg)
 
 Credit: Rose Lecat
 

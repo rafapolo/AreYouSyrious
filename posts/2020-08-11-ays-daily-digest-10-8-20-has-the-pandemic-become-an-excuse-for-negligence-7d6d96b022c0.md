@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 10/8/20: Has the pandemic become an excuse for negligence?
+title: "AYS Daily Digest 10/8/20: Has the pandemic become an excuse for negligence?"
 author: Are You Syrious?
 date: 2020-08-11T15:57:07.414+0100
 last_modified_at: 2020-08-11T15:57:07.414+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,europe,pandemic,human-rights]
 description: Abusing the pandemic ‘state of emergency’ / Abused and homeless, hundreds across the cities and villages of Bosnia and Herzegovina / This…
 image:
-  path: assets/7d6d96b022c0/0*9bI-vYCTNTvE5iO2.jpeg
+  path: ../assets/7d6d96b022c0/0*9bI-vYCTNTvE5iO2.jpeg
 ---
 
 ### AYS Daily Digest 10/8/20: Has the pandemic become an excuse for negligence?
 ### Abusing the pandemic ‘state of emergency’ / Abused and homeless, hundreds across the cities and villages of Bosnia and Herzegovina / This, year, the Atlantic route to Europe exceeds the Mediterranean corridor to Greece in mortality, at least 162 died since July 31 / \+ recommended reads, reports and more
 
 
-![](assets/7d6d96b022c0/0*bolZmi6WgpGG0yZN.jpeg)
+![](../assets/7d6d96b022c0/0*bolZmi6WgpGG0yZN.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----6a1a200029----------------------)
@@ -22,11 +22,11 @@ image:
 [Aug 11](ays-daily-digest-10-8-20-has-the-pandemic-become-the-excuse-for-negligence-6a1a200029?source=post_page-----6a1a200029----------------------) · 11 min read
 
 
-![](assets/7d6d96b022c0/0*De_Oqy-jlgAf4i11)
+![](../assets/7d6d96b022c0/0*De_Oqy-jlgAf4i11)
 
 
 
-![](assets/7d6d96b022c0/0*9bI-vYCTNTvE5iO2.jpeg)
+![](../assets/7d6d96b022c0/0*9bI-vYCTNTvE5iO2.jpeg)
 
 ### FEATURED
 
@@ -62,11 +62,11 @@ Until July 15 this year, 14,810 ‘irregular crossings’ were registered by the
 On June 1, the police arrested a smuggler who was transporting 113 people\. The judge sent the smuggler for coronavirus testing, coming out negative\. Until today, no refugee or migrant who was tested came out positive, Legis reports\.
 
 
-![](assets/7d6d96b022c0/0*IP4WrNIx7Whszrbb)
+![](../assets/7d6d96b022c0/0*IP4WrNIx7Whszrbb)
 
 
 
-![](assets/7d6d96b022c0/0*O-zEFRs7LqR4Qma0)
+![](../assets/7d6d96b022c0/0*O-zEFRs7LqR4Qma0)
 
 ### SERBIA
 

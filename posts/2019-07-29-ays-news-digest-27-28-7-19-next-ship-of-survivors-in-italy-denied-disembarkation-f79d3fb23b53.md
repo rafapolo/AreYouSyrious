@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 27-28/7/19: Next ship of survivors in Italy denied disembarkation
+title: "AYS News Digest 27-28/7/19: Next ship of survivors in Italy denied disembarkation"
 author: Are You Syrious?
 date: 2019-07-29T13:58:42.991+0100
 last_modified_at: 2019-07-29T16:45:06.774+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,eu-turkey-deal,bosnia]
 description: Confusion about EU-Turkey deal // Salvini refuses disembarkation of survivors from italian coast guard ship // 430 unaccompanied minors…
 image:
-  path: assets/f79d3fb23b53/1*6jmD4qz8z2PuOWtwrNqRGw.jpeg
+  path: ../assets/f79d3fb23b53/1*6jmD4qz8z2PuOWtwrNqRGw.jpeg
 ---
 
 ### AYS News Digest 27\-28/7/19: Next ship of survivors in Italy denied disembarkation
 #### Confusion about EU\-Turkey deal // Salvini refuses disembarkation of survivors from Italian coast guard ship // 430 unaccompanied minors and children in Moria // Severe conditions in Vučjak, Bosnia, continue to satisfaction of the EU?\!
 
 
-![With sit\-in and demonstrations, a network of afghan families is demonstrating against deportations to Afghanistan\. Children painted this shocking image\.](assets/f79d3fb23b53/1*6jmD4qz8z2PuOWtwrNqRGw.jpeg)
+![With sit\-in and demonstrations, a network of afghan families is demonstrating against deportations to Afghanistan\. Children painted this shocking image\.](../assets/f79d3fb23b53/1*6jmD4qz8z2PuOWtwrNqRGw.jpeg)
 
 With sit\-in and demonstrations, a network of afghan families is demonstrating against deportations to Afghanistan\. Children painted this shocking image\.
 #### FEATURED
@@ -55,7 +55,7 @@ In Bosnia, for almost two months now about 800 people are living in severe condi
 The situation is worsened by violence of both Croatian and Bosnian police\. Dirk Planert, a journalist who is trying to support as good as he can on his own expenses is deeply in need of donations to buy food items, medical supply and shoes\. Contact him directly on [Facebook](https://www.facebook.com/dirk.planert?__tn__=%2CdlC-R-R&eid=ARBJmoBmKV8sQdlyll08a2FajIesJRvDwxD2Z8ddTe1TwZ7Luoui2C8mcqdl0P-s36Iom_4chLjHU0jg&hc_ref=ARSAYtzba0Plxuat7A7z7vTBRLyhTaH47BvTphmbo88MeXq7jGNdTvpI5Z3CxZpImdE) if you can help\.
 
 
-![](assets/f79d3fb23b53/1*VwAjinwXtbffBoMkIeLmwA.jpeg)
+![](../assets/f79d3fb23b53/1*VwAjinwXtbffBoMkIeLmwA.jpeg)
 
 #### Call for Help
 
@@ -113,7 +113,7 @@ Meanwhile, Salvini still does not allow more than 130 survivors of the devastati
 Mobile Refugee Support is once again reporting about growing numbers of people in Dunkirk and fears of an imminent eviction of the camp currently holding over 500 people\. People are additionally suffering from hot temperatures followed by heavy rain\. MRS is in search of donations and volunteers\. Same goes for FAST, a first aid support team that is also operating in Dunkirk and Calais and is in urgent need of medical volunteers\.
 
 
-![Photo: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?tn-str=k%2AF&hc_location=group_dialog)](assets/f79d3fb23b53/1*C8wX7isw7281bfrDQEp3bQ.jpeg)
+![Photo: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?tn-str=k%2AF&hc_location=group_dialog)](../assets/f79d3fb23b53/1*C8wX7isw7281bfrDQEp3bQ.jpeg)
 
 Photo: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?tn-str=k%2AF&hc_location=group_dialog)
 
@@ -129,7 +129,7 @@ Photo: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?t
 To find out more about how to get involved, and how to donate please see their website [https://www\.f\-a\-s\-t\.eu/](https://www.f-a-s-t.eu/?fbclid=IwAR1fT-hoGgEiAiz1edMqSsPCec5iXSpuaPQGI_OwruQ8ddVeAhQl12OsBkA) \.
 
 
-![Photo: [First Aid Support Team — FAST](https://www.facebook.com/FASTFirstAidSupportTeam/?tn-str=k%2AF&hc_location=group_dialog)](assets/f79d3fb23b53/1*XVz6m900heVzxGUcrKdc-g.jpeg)
+![Photo: [First Aid Support Team — FAST](https://www.facebook.com/FASTFirstAidSupportTeam/?tn-str=k%2AF&hc_location=group_dialog)](../assets/f79d3fb23b53/1*XVz6m900heVzxGUcrKdc-g.jpeg)
 
 Photo: [First Aid Support Team — FAST](https://www.facebook.com/FASTFirstAidSupportTeam/?tn-str=k%2AF&hc_location=group_dialog)
 #### SWEDEN

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 8/4/2017: Armed mob attacked refugees in Turkey
+title: "AYS Daily Digest 8/4/2017: Armed mob attacked refugees in Turkey"
 author: Are You Syrious?
 date: 2017-04-08T23:05:24.726+0100
 last_modified_at: 2017-04-11T22:51:53.314+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,refugees-in-turkey,calais,macedonia]
 description: Mob chased out people from the makeshift camp // Police was not present at the place at all // War is raging in Syria and no sign of peace…
 image:
-  path: assets/440b562e740a/1*42WLI2bRi0KIIWIs4dA5xw.jpeg
+  path: ../assets/440b562e740a/1*42WLI2bRi0KIIWIs4dA5xw.jpeg
 ---
 
 ### AYS Daily Digest 8/4/2017: Armed mob attacked refugees in Turkey
@@ -15,7 +15,7 @@ image:
 _Mob chased out people from the makeshift camp // Police was not present at the place at all // War is raging in Syria and no sign of peace // Help needed in several squats in Athens // Humanitarian corridor between Lebanon and France // Unlawful detentions in Macedonia_
 
 
-![Hope for the future\. Cartoon by Anne Derenne](assets/440b562e740a/1*42WLI2bRi0KIIWIs4dA5xw.jpeg)
+![Hope for the future\. Cartoon by Anne Derenne](../assets/440b562e740a/1*42WLI2bRi0KIIWIs4dA5xw.jpeg)
 
 Hope for the future\. Cartoon by Anne Derenne
 ### Feature
@@ -26,7 +26,7 @@ A mob of about 30 armed people attacked today unprotected refugees in Izmir’s 
 According to the reports, we received from volunteers in Izmir, the attack that took place in Pamukyazı and was carried out on a rumor that a child was beaten by the Syrians\. The attackers used scrubs and sticks\. While running aways, some Syrians, including families were children, tried to stop cars to take them away, but nobody stopped to help people\. After they left, their tents in a makeshift camp were destroyed\.
 
 
-![Angry and armed mob against refugees\.](assets/440b562e740a/1*pL85trXOUY-BSGF-he6m9g.jpeg)
+![Angry and armed mob against refugees\.](../assets/440b562e740a/1*pL85trXOUY-BSGF-he6m9g.jpeg)
 
 Angry and armed mob against refugees\.
 
@@ -37,7 +37,7 @@ Police, at least according to the reports from the field but also available pict
 It is not known where the people who were forced to flea will stay tonight or in the future\.
 
 
-![After people left, the attackers destroyed their shelters\.](assets/440b562e740a/1*BVho55zx_j-WpTncez2_nw.jpeg)
+![After people left, the attackers destroyed their shelters\.](../assets/440b562e740a/1*BVho55zx_j-WpTncez2_nw.jpeg)
 
 After people left, the attackers destroyed their shelters\.
 
@@ -54,7 +54,7 @@ However, people are helping people\. This week, the Independent Doctors Associat
 More people from this country came to Europe over the last couple of months, [MSF reminds us all](http://www.msf.org/…/yemen-war-taking-very-high-toll-civili…) \. They are also fleeing war that put over 18 million people in need of humanitarian aid, while some three million are internally displaced, and tens of thousands have died or been injured\.
 
 
-![Evolution of Mankind\. By [Dino](https://www.facebook.com/dinoillustrations/) \.](assets/440b562e740a/1*qa8ZE_QPJRgHVn-FvEQmBw.jpeg)
+![Evolution of Mankind\. By [Dino](https://www.facebook.com/dinoillustrations/) \.](../assets/440b562e740a/1*qa8ZE_QPJRgHVn-FvEQmBw.jpeg)
 
 Evolution of Mankind\. By [Dino](https://www.facebook.com/dinoillustrations/) \.
 ### Mediterranian
@@ -80,7 +80,7 @@ Today we received the report that in Moria, Lesvos, there is without the socio\-
 Help is needed in 5th school in Athens\. Here is the list
 
 
-![](assets/440b562e740a/1*Py7okjJ1OUssrPQB2Gr7mw.jpeg)
+![](../assets/440b562e740a/1*Py7okjJ1OUssrPQB2Gr7mw.jpeg)
 
 
 Supplies are urgently needed at the Koutsochero camp, where 1100 people are living, including 80 babies and 150 children\. They need:
@@ -199,7 +199,7 @@ According to the official sources, during the last week, 236 people have left th
 The EU launched new measure to strengthen the external borders\. Starting from this Friday, April 7th, stricter controls are implemented at the Schengen border between Croatia and Slovenia\.
 
 
-![Is this EU? Photo AYS\.](assets/440b562e740a/1*wcZngyfM_JDnna2U5P6iMQ.jpeg)
+![Is this EU? Photo AYS\.](../assets/440b562e740a/1*wcZngyfM_JDnna2U5P6iMQ.jpeg)
 
 Is this EU? Photo AYS\.
 
@@ -224,7 +224,7 @@ _“Thanks to amazing volunteers the guys usually have food and drinks but no on
 Over 1,500 people are staying at the camp Grande Synthe, Dunkirk\. Volunteers from the Refugee Community Kitchen are providing one meal per day for everybody\. Volunteers from [Care4Calais](https://www.facebook.com/care4calais/) are helping people to find the woods in order to be able to cook for themselves\. In order to continue, they desperately need long and short volunteers\.
 
 
-![Photo by Care4Calais\.](assets/440b562e740a/1*EQFN97koE171K8ikZOTskg.jpeg)
+![Photo by Care4Calais\.](../assets/440b562e740a/1*EQFN97koE171K8ikZOTskg.jpeg)
 
 Photo by Care4Calais\.
 

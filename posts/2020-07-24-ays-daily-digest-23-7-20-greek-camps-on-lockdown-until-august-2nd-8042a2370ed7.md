@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 23/7/20: Greek Camps on Lockdown until August 2nd
+title: "AYS Daily Digest 23/7/20: Greek Camps on Lockdown until August 2nd"
 author: Are You Syrious?
 date: 2020-07-24T19:22:00.774+0100
 last_modified_at: 2020-07-24T19:22:00.774+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: []
 description: Greece prolongs lockdown / Libya continues “concentration camp-like” treatment / Another criminal charge filed against the Croatian police…
 image:
-  path: assets/8042a2370ed7/0*YZdG7nqeVmDDOK0n
+  path: ../assets/8042a2370ed7/0*YZdG7nqeVmDDOK0n
 ---
 
 ### AYS Daily Digest 23/7/20: Greek Camps on Lockdown until August 2nd
@@ -16,7 +16,7 @@ image:
 [Jul 24](ays-daily-digest-23-7-20-greek-camps-on-lockdown-until-august-2nd-1c4721f377aa?source=post_page-----1c4721f377aa----------------------) · 11 min read
 
 
-![](assets/8042a2370ed7/0*YZdG7nqeVmDDOK0n)
+![](../assets/8042a2370ed7/0*YZdG7nqeVmDDOK0n)
 
 
 The aftermath of evictions in Dunkirk\. Photo credit: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/posts/1310700522468889)
@@ -133,11 +133,11 @@ Read more about the Italian\-Libyan deal in the piece by the Melting Pot team:
 Next Wednesday, the Italian Senate will decide on a possible trial against former Italian interior minister Matteo Salvini for deprivation of liberty in the case of Open Arms, which was not allowed to disembark in Italy for about three weeks last August\. The date was set yesterday by the conference of the chairmen of the Italian Senate\.
 
 
-![](assets/8042a2370ed7/0*ZtbF0TXG0wIsu4bW)
+![](../assets/8042a2370ed7/0*ZtbF0TXG0wIsu4bW)
 
 
 
-![](assets/8042a2370ed7/0*jRl6Me1DbJtX8rHG)
+![](../assets/8042a2370ed7/0*jRl6Me1DbJtX8rHG)
 
 
 [SOS MEDITERRANEE](https://twitter.com/SOSMedIntl)
@@ -153,11 +153,11 @@ People are returning to the Dunkirk area after a series of evictions by French a
 Mobile Refugee Support tries to provide tents and other equipment to people on the move, but it is harder this year since they cannot rely on tents salvaged from festivals\. To learn more and find out how to donate, go [here](https://www.facebook.com/MobileRefugeeSupport/posts/1310700522468889) \.
 
 
-![](assets/8042a2370ed7/0*sG64JKFeXKyuXYYM)
+![](../assets/8042a2370ed7/0*sG64JKFeXKyuXYYM)
 
 
 
-![](assets/8042a2370ed7/0*gLdVpNroZZKlKFq5)
+![](../assets/8042a2370ed7/0*gLdVpNroZZKlKFq5)
 
 
 More pictures from Dunkirk\. Source: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/photos/pcb.1310700522468889/1310698855802389/)

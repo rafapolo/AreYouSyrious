@@ -1,5 +1,5 @@
 ---
-title: AYS Daily News Digest 18/12: What happens to refugees caught smuggled through your country?
+title: "AYS Daily News Digest 18/12: What happens to refugees caught smuggled through your country?"
 author: Are You Syrious?
 date: 2016-12-19T01:31:06.730+0000
 last_modified_at: 2016-12-20T10:31:28.140+0000
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,syria,germany,balkans]
 description: Syria — the evacuation deal slows down due to buses attack | Greece — new arrivals on Lesvos; “closed” camps opening announced | Serbia —…
 image:
-  path: assets/c1105865a3d5/1*SICesf1_gcS_yVajoBgcIg.png
+  path: ../assets/c1105865a3d5/1*SICesf1_gcS_yVajoBgcIg.png
 ---
 
 ### AYS Daily News Digest 18/12: What happens to refugees caught smuggled through your country?
 #### Syria — the evacuation deal slows down due to buses attack \| Greece — new arrivals on Lesvos; “closed” camps opening announced \| Serbia — lives saved after an attempt of illegal deportation; winter threatens refugees in Belgrade\| Croatia — smuggled refugees in hospitals, what happens next? \| Germany — rallies in support of the people of Aleppo; anti\-welcoming attitude for Afghans
 
 
-![Facing the European denial — No wall or closed border will discourage a person from fleeing their home to save the lives of their children\.](assets/c1105865a3d5/1*SICesf1_gcS_yVajoBgcIg.png)
+![Facing the European denial — No wall or closed border will discourage a person from fleeing their home to save the lives of their children\.](../assets/c1105865a3d5/1*SICesf1_gcS_yVajoBgcIg.png)
 
 Facing the European denial — No wall or closed border will discourage a person from fleeing their home to save the lives of their children\.
 #### SYRIA
@@ -25,7 +25,7 @@ Following these incidents, an estimated 50,000 people are left in the besieged c
 The UN Security Council agreed on Sunday to a compromise draft resolution on U\.N\. officials monitoring the evacuations from Aleppo, after Russia refused the previous draft by France\. While they review it is uncertain how many Syrian people will continue suffering from the cold, hunger and many injuries they’ve received as civilian victims of the fight\.
 
 
-![Photo source: [Kenan Rahmani](https://www.facebook.com/kenanrahmani)](assets/c1105865a3d5/1*QSFnzEAB56SYADDoAlU4Kw.jpeg)
+![Photo source: [Kenan Rahmani](https://www.facebook.com/kenanrahmani)](../assets/c1105865a3d5/1*QSFnzEAB56SYADDoAlU4Kw.jpeg)
 
 Photo source: [Kenan Rahmani](https://www.facebook.com/kenanrahmani)
 #### GREECE
@@ -47,11 +47,11 @@ Greek Migration Minister Yiannis Mouzalas called for the creation of “closed�
 577 thousand documented migrants from various countries are currently residing in Greece, according to a [Greek Forum of Migrants](http://www.migrant.gr/) [survey](http://greece.greekreporter.com/2016/12/18/about-577000-documented-migrants-reside-in-greece/) \. This number includes around 62,000 refugees who are now stranded in Greece\. On International Migrants Day the NGO called for the implementation of more policies to ensure the refugees equal inclusion in Greek society\.
 
 
-![](assets/c1105865a3d5/1*C-X_4Q5RsEYNyjWbnHvJlg.png)
+![](../assets/c1105865a3d5/1*C-X_4Q5RsEYNyjWbnHvJlg.png)
 
 
 
-![[InterVolve — International Volunteers](https://www.facebook.com/InterVolve-International-Volunteers-219418945063168/) , one of the NGOs in mainland Greece providing an array of activities](assets/c1105865a3d5/1*Y_penqK8mq0GiLhZXiR21g.jpeg)
+![[InterVolve — International Volunteers](https://www.facebook.com/InterVolve-International-Volunteers-219418945063168/) , one of the NGOs in mainland Greece providing an array of activities](../assets/c1105865a3d5/1*Y_penqK8mq0GiLhZXiR21g.jpeg)
 
 [InterVolve — International Volunteers](https://www.facebook.com/InterVolve-International-Volunteers-219418945063168/) , one of the NGOs in mainland Greece providing an array of activities
 #### SERBIA
@@ -61,7 +61,7 @@ As we wrote yesterday, a group of Kurdish people who were registered in Serbia a
 In the night, in deep snow, the temperature at \-11 degrees, a 2 year old child was the only one kept warm enough, unaware of what his fellow human beings, who were there “to serve and protect” had in mind for him and his family\. With the only mobile phone that was still working, the family sent an SOS message to an NGO in Serbia with their location\. Luckily enough, a few individuals from the local police and ER managed to find and rescue these people and they were placed in the reception centre in Bosilegrad\.
 
 
-![Screenshot by [Gordan Paunovic](https://www.facebook.com/gordan.paunovic.5)](assets/c1105865a3d5/1*byskbRPiCZhWIGP9DWtDMA.jpeg)
+![Screenshot by [Gordan Paunovic](https://www.facebook.com/gordan.paunovic.5)](../assets/c1105865a3d5/1*byskbRPiCZhWIGP9DWtDMA.jpeg)
 
 Screenshot by [Gordan Paunovic](https://www.facebook.com/gordan.paunovic.5)
 
@@ -86,14 +86,14 @@ Such illegal deportations have occurred several times lately, but in most instan
 ### Belgrade — more need for help as the winter draws in
 
 
-![](assets/c1105865a3d5/1*RhsZPUN6KrGIRgmWu6P_UA.jpeg)
+![](../assets/c1105865a3d5/1*RhsZPUN6KrGIRgmWu6P_UA.jpeg)
 
 
 
 ![The first real snow fall of the winter here in Belgrade\. Barely equipped for autumn, it is unclear how these 1000\+ people will handle winter\.
 Shoes are worth more than gold, jackets not far behind\. Blankets, never sufficient\.
 With so many unaccompanied minors, young men and vunerable people\- the same question we’ve been asking for months became more urgent today\. Who will present a solution to this current humanitarian crisis, and when?
-Until then we press on, and wait for the answer\. — [**Refugee’s Anthem**](https://www.facebook.com/refugeesanthem/)](assets/c1105865a3d5/1*Kk4h8uALN24siuhl_AHlwg.jpeg)
+Until then we press on, and wait for the answer\. — [**Refugee’s Anthem**](https://www.facebook.com/refugeesanthem/)](../assets/c1105865a3d5/1*Kk4h8uALN24siuhl_AHlwg.jpeg)
 
 The first real snow fall of the winter here in Belgrade\. Barely equipped for autumn, it is unclear how these 1000\+ people will handle winter\.
 Shoes are worth more than gold, jackets not far behind\. Blankets, never sufficient\.
@@ -112,7 +112,7 @@ Dozens of refugees from Afghanistan and Pakistan were hospitalized in Nova Gradi
 #### GERMANY
 
 
-![Photo credits: DPA](assets/c1105865a3d5/1*6p4uxdKKGmm8KgRh1FvqxQ.jpeg)
+![Photo credits: DPA](../assets/c1105865a3d5/1*6p4uxdKKGmm8KgRh1FvqxQ.jpeg)
 
 Photo credits: DPA
 
@@ -156,7 +156,7 @@ Care4Calais team is looking for volunteers:
 
 
 
-![“Today, on [\#InternationalMigrantsDay](https://www.facebook.com/hashtag/internationalmigrantsday?source=feed_text&story_id=1791611631056202) , we want to highlight the extent of anti\-migrant racism across Europe\. Our EU map of anti\-migrant incidents shows that we urgently need to record, report and resolve racist crimes targeting migrants and refugees\.” — [ENAR](https://www.facebook.com/ENAREurope/)](assets/c1105865a3d5/1*17YoRUS4n9X_vkCHahtWUw.png)
+![“Today, on [\#InternationalMigrantsDay](https://www.facebook.com/hashtag/internationalmigrantsday?source=feed_text&story_id=1791611631056202) , we want to highlight the extent of anti\-migrant racism across Europe\. Our EU map of anti\-migrant incidents shows that we urgently need to record, report and resolve racist crimes targeting migrants and refugees\.” — [ENAR](https://www.facebook.com/ENAREurope/)](../assets/c1105865a3d5/1*17YoRUS4n9X_vkCHahtWUw.png)
 
 “Today, on [\#InternationalMigrantsDay](https://www.facebook.com/hashtag/internationalmigrantsday?source=feed_text&story_id=1791611631056202) , we want to highlight the extent of anti\-migrant racism across Europe\. Our EU map of anti\-migrant incidents shows that we urgently need to record, report and resolve racist crimes targeting migrants and refugees\.” — [ENAR](https://www.facebook.com/ENAREurope/)
 

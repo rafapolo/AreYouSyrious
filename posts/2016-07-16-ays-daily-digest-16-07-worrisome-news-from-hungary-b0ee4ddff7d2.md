@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 15/07: Worrisome news from Hungary
+title: "AYS DAILY DIGEST 15/07: Worrisome news from Hungary"
 author: Are You Syrious?
 date: 2016-07-16T02:02:36.931+0100
 last_modified_at: 2016-07-16T04:13:47.570+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,hungary,msf,turkey]
 description: Military coupe attempt in Turkey. New arrivals to Greece. Due to dare condition in Greek camps, NGOs are pulling out. Help urgently needed…
 image:
-  path: assets/b0ee4ddff7d2/1*3KymM05I7vzJ1Ep0idzEvA.jpeg
+  path: ../assets/b0ee4ddff7d2/1*3KymM05I7vzJ1Ep0idzEvA.jpeg
 ---
 
 ### AYS DAILY DIGEST 15/07: Worrisome news from Hungary
@@ -15,7 +15,7 @@ image:
 _Military coupe attempt in Turkey\. New arrivals to Greece\. Due to dare condition in Greek camps, NGOs are pulling out\. Help urgently needed at the Serbian — Hungary border\. Almost 1,000 people rescued in six operation in the Mediterranean\._
 
 
-![UNHCR worried about refugee situation at the Serbian\-Hungarian border\. Photo: UNHCR](assets/b0ee4ddff7d2/1*3KymM05I7vzJ1Ep0idzEvA.jpeg)
+![UNHCR worried about refugee situation at the Serbian\-Hungarian border\. Photo: UNHCR](../assets/b0ee4ddff7d2/1*3KymM05I7vzJ1Ep0idzEvA.jpeg)
 
 UNHCR worried about refugee situation at the Serbian\-Hungarian border\. Photo: UNHCR
 #### France
@@ -96,11 +96,11 @@ Experienced female voluteers, especially if they are arabic/farsi speakers or tr
 
 
 
-![](assets/b0ee4ddff7d2/1*4b4WFdQf0Qk5RgpdcMSSxw.jpeg)
+![](../assets/b0ee4ddff7d2/1*4b4WFdQf0Qk5RgpdcMSSxw.jpeg)
 
 
 
-![Especially the girls love to draw small pictures next to the words we learned in connection with the letter\. Photo OCC](assets/b0ee4ddff7d2/1*xEZx2xAOwrY7_i7W1MAbAg.jpeg)
+![Especially the girls love to draw small pictures next to the words we learned in connection with the letter\. Photo OCC](../assets/b0ee4ddff7d2/1*xEZx2xAOwrY7_i7W1MAbAg.jpeg)
 
 Especially the girls love to draw small pictures next to the words we learned in connection with the letter\. Photo OCC
 ### Translators without Borders are organizing a training course in translation and interpretation
@@ -110,7 +110,7 @@ This half\-day \(4 hour\) course is aimed at anyone engaged in interpretation in
 ### Help needed at the border with Hungary
 
 
-![More people at the border\. Photo by IHO](assets/b0ee4ddff7d2/1*nnwCWGan9_5QPt8YpM4W2w.jpeg)
+![More people at the border\. Photo by IHO](../assets/b0ee4ddff7d2/1*nnwCWGan9_5QPt8YpM4W2w.jpeg)
 
 More people at the border\. Photo by IHO
 
@@ -174,11 +174,11 @@ Meanwhile, the number of refugees and migrants at the Serbian\-Hungarian border 
 With donations from Croatian Red Cross and C&A Foundation, asylum center Porin in Zagreb now has a new space for kids and outside recreational area for adults\. Playground and the recreational area will be used together with local population, hoping that it will be places where people will get together, make new friendships and learn more about each other\. RC volunteers will help to develop activity programs, too\.
 
 
-![](assets/b0ee4ddff7d2/1*rGTotFn570OunjjqhNo1ZQ.jpeg)
+![](../assets/b0ee4ddff7d2/1*rGTotFn570OunjjqhNo1ZQ.jpeg)
 
 
 
-![Playground in Porin\. Photo CRC](assets/b0ee4ddff7d2/1*b-_3JOp659Z95w1os2GbNA.jpeg)
+![Playground in Porin\. Photo CRC](../assets/b0ee4ddff7d2/1*b-_3JOp659Z95w1os2GbNA.jpeg)
 
 Playground in Porin\. Photo CRC
 #### Italy

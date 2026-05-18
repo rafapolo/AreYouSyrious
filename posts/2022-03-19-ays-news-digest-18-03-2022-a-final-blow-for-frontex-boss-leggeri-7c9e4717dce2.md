@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 18/03/2022: A final blow for Frontex boss Leggeri?
+title: "AYS News Digest 18/03/2022: A final blow for Frontex boss Leggeri?"
 author: Are You Syrious?
 date: 2022-03-19T16:21:46.361+0000
 last_modified_at: 2022-03-19T16:21:46.361+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: []
 description: “Day of Political Prisoners” in Greece / The weaponization of humanitarian data / Analysis of the Libya refugee protests / Tories rebel…
 image:
-  path: assets/7c9e4717dce2/0*mebPdUTyhQlrI9zw
+  path: ../assets/7c9e4717dce2/0*mebPdUTyhQlrI9zw
 ---
 
 ### AYS News Digest 18/03/2022: A final blow for Frontex boss Leggeri?
 ### “Day of Political Prisoners” in Greece / The weaponization of humanitarian data / Analysis of the Libya refugee protests / Tories rebel against Priti Patel / Updates on Germany, France, Poland …
 
 
-![](assets/7c9e4717dce2/0*mebPdUTyhQlrI9zw)
+![](../assets/7c9e4717dce2/0*mebPdUTyhQlrI9zw)
 
 
 A pushback by the Hellenic Coast Guard, as documented by a Frontex plane and shared by Lighthouse Reports\.
@@ -67,7 +67,7 @@ What a cynical coincidence: on the International Day of Political Prisoners, 18 
 In front of the same court, another case raised scandalized voices: the internationally acclaimed Norwegian photographer Knut Bry was arrested on Wednesday on charges of espionage\. His crime? Having taken photos of Hellenic Coast Guard and Navy vessels for his new photo book on migration\. 75\-year\-old Knut Bry was also a volunteer for Lesvos Solidarity, who called his arrest “another example of the unjustified activation of the criminal mechanism against the innocent”\.
 
 
-![](assets/7c9e4717dce2/0*qGZ7mNNBno6otXDq)
+![](../assets/7c9e4717dce2/0*qGZ7mNNBno6otXDq)
 
 
 Knut Bry arrested by the Greek police\. Photo shared by Lesvos Solidarity\.

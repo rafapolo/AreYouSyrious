@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 29/07/2021: HRW demands kids in Greece to be enrolled into schools
+title: "AYS Daily Digest 29/07/2021: HRW demands kids in Greece to be enrolled into schools"
 author: Are You Syrious?
 date: 2021-07-30T11:12:02.043+0100
 last_modified_at: 2021-07-30T11:12:02.043+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,education,italy]
 description: 86% had no access to education early 2021 // Closed hotspots to be set up on Greek islands // Turkey intercepts almost 700 people at land…
 image:
-  path: assets/7af85d784328/1*I8CztYpWHGUMh1ycIn6QSw.jpeg
+  path: ../assets/7af85d784328/1*I8CztYpWHGUMh1ycIn6QSw.jpeg
 ---
 
 ### AYS Daily Digest 29/07/2021: HRW demands kids in Greece to be enrolled into schools
 #### 86% had no access to education early 2021 // Closed hotspots to be set up on Greek islands // Turkey intercepts almost 700 people at land and sea // 2000 known victims of trafficking in Italy are children // Lawyers are preparing suits at ECHR over Denmark’s deportation plans
 
 
-![Many children, especially at the Greek islands, do not have access to education\. Source: Twitter/ [@sendrelief](https://twitter.com/sendrelief)](assets/7af85d784328/1*I8CztYpWHGUMh1ycIn6QSw.jpeg)
+![Many children, especially at the Greek islands, do not have access to education\. Source: Twitter/ [@sendrelief](https://twitter.com/sendrelief)](../assets/7af85d784328/1*I8CztYpWHGUMh1ycIn6QSw.jpeg)
 
 Many children, especially at the Greek islands, do not have access to education\. Source: Twitter/ [@sendrelief](https://twitter.com/sendrelief)
 ### Greece

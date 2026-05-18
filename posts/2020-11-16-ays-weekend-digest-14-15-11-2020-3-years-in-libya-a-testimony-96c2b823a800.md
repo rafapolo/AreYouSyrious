@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 14–15/11/2020: 3 years in Libya, a testimony
+title: "AYS Weekend Digest 14–15/11/2020: 3 years in Libya, a testimony"
 author: Are You Syrious?
 date: 2020-11-16T13:17:37.137+0000
 last_modified_at: 2020-11-16T13:17:37.137+0000
@@ -7,18 +7,18 @@ categories: Are You Syrious?
 tags: [libya,digest,refugees,uk,canary-islands]
 description: Arrivals in Italy and Spain // 3 years in Libya, a testimony // TUI airlines are carrying out deportations from the UK // UK…
 image:
-  path: assets/96c2b823a800/0*1NwFJSkDbolm2ZeJ.jpeg
+  path: ../assets/96c2b823a800/0*1NwFJSkDbolm2ZeJ.jpeg
 ---
 
 ### AYS Weekend Digest 14–15/11/2020: 3 years in Libya, a testimony
 #### Arrivals in Italy and Spain // 3 years in Libya, a testimony // TUI airlines are carrying out deportations from the UK // UK: Anti\-trafficking, court rules against government
 
 
-![](assets/96c2b823a800/0*gXibBDa26XG8mcXK)
+![](../assets/96c2b823a800/0*gXibBDa26XG8mcXK)
 
 
 
-![](assets/96c2b823a800/0*1NwFJSkDbolm2ZeJ.jpeg)
+![](../assets/96c2b823a800/0*1NwFJSkDbolm2ZeJ.jpeg)
 
 
 Athens, Greece 14 November 2020
@@ -48,11 +48,11 @@ ETHIOPIA/SUDAN BORDER
 114 people died last week in the central Med, bringing the death toll for 2020 to 900 at this one crossing point alone\. Read the Civil Fleet’s points on last week’s events [HERE](https://thecivilfleet.wordpress.com/2020/11/13/mediterranean-death-toll-tops-900-after-four-shipwrecks-in-three-days-iom-warns/?fbclid=IwAR2pnonV6xHLO3yd9Q_Jk-M5zbBasrlzG9LQvnAzwBqXp2esIe_3kwuyLiU) \.
 
 
-![](assets/96c2b823a800/0*xNXgU5HVdIFQvgYS)
+![](../assets/96c2b823a800/0*xNXgU5HVdIFQvgYS)
 
 
 
-![](assets/96c2b823a800/0*wcAlxcOdHbelvYB1.jpeg)
+![](../assets/96c2b823a800/0*wcAlxcOdHbelvYB1.jpeg)
 
 
 In Memory of Youssef, Forum Lampedusa Solidale
@@ -120,11 +120,11 @@ SERBIA
 ### Police clear camp
 
 
-![](assets/96c2b823a800/0*ccYzUpmDNbeSap_A)
+![](../assets/96c2b823a800/0*ccYzUpmDNbeSap_A)
 
 
 
-![](assets/96c2b823a800/0*G5BZY3btwyqi_75t.jpeg)
+![](../assets/96c2b823a800/0*G5BZY3btwyqi_75t.jpeg)
 
 
 \(Phot credit: [NNK](https://web.facebook.com/NoNameKitchenBelgrade/posts/1122043651527251) \)
@@ -144,35 +144,35 @@ FRANCE
 ### I’ve seen people mostly\. Not ‘deportable’, undocumented, ‘strangers’\.
 
 
-![](assets/96c2b823a800/0*P0gwZ4TbDsU3dB0d)
+![](../assets/96c2b823a800/0*P0gwZ4TbDsU3dB0d)
 
 
 
-![](assets/96c2b823a800/0*jEKd38eAbxcKv_FQ.jpeg)
+![](../assets/96c2b823a800/0*jEKd38eAbxcKv_FQ.jpeg)
 
 
 
-![](assets/96c2b823a800/0*h_d2-y14UWZSyjUV)
+![](../assets/96c2b823a800/0*h_d2-y14UWZSyjUV)
 
 
 
-![](assets/96c2b823a800/0*P4zUuLYkGoz5zuHo.jpeg)
+![](../assets/96c2b823a800/0*P4zUuLYkGoz5zuHo.jpeg)
 
 
 
-![](assets/96c2b823a800/0*lK1HVgOjQ6TIXzvG)
+![](../assets/96c2b823a800/0*lK1HVgOjQ6TIXzvG)
 
 
 
-![](assets/96c2b823a800/0*6FQaXsSiBHw8rszi.jpeg)
+![](../assets/96c2b823a800/0*6FQaXsSiBHw8rszi.jpeg)
 
 
 
-![](assets/96c2b823a800/0*4SDVuREv8FZpwAlX)
+![](../assets/96c2b823a800/0*4SDVuREv8FZpwAlX)
 
 
 
-![](assets/96c2b823a800/0*FWZmAAkUsyzOgeVq.jpeg)
+![](../assets/96c2b823a800/0*FWZmAAkUsyzOgeVq.jpeg)
 
 
 \(Photo Credit: Lucas Boirat/Hans Lucas via

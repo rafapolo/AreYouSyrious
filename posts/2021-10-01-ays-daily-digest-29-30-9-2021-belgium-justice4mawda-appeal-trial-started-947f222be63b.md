@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 29–30/9/2021: Belgium, #Justice4Mawda, Appeal Trial Started
+title: "AYS Daily Digest 29–30/9/2021: Belgium, #Justice4Mawda, Appeal Trial Started"
 author: Are You Syrious?
 date: 2021-10-01T16:08:22.707+0100
 last_modified_at: 2021-10-01T16:08:22.707+0100
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [digest,justice4mawda,mimmo-lucano,refugeeswelcome,poland]
 description: Are You Syrious?
 image:
-  path: assets/947f222be63b/0*90jkQE5Gk3dd-Hcp.jpeg
+  path: ../assets/947f222be63b/0*90jkQE5Gk3dd-Hcp.jpeg
 ---
 
 ### AYS Daily Digest 29–30/9/2021: Belgium, \#Justice4Mawda, Appeal Trial Started
 
 
-![](assets/947f222be63b/0*mfrEyYua9vA-E23B.jpeg)
+![](../assets/947f222be63b/0*mfrEyYua9vA-E23B.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----57aca3247346--------------------------------)
@@ -23,7 +23,7 @@ image:
 MSF resumes works in Libyan detention centres but ends its intervention in Lampedusa hotspot\. Mimmo Lucano sentenced to 13 years in prison in Italy\. Cash assistance in Greece handed over to to authorities…
 
 
-![](assets/947f222be63b/0*90jkQE5Gk3dd-Hcp.jpeg)
+![](../assets/947f222be63b/0*90jkQE5Gk3dd-Hcp.jpeg)
 
 
 On May 17 2018, a police officer shot and killed [\#Mawda](https://twitter.com/hashtag/Mawda?src=hashtag_click) , a 2\-year\-old, who was in a van being chased by police, while trying to reach the French border\. [\#Justice4Mawda](https://twitter.com/hashtag/Justice4Mawda?src=hashtag_click) \(Credit: [Molly Crabapple](https://twitter.com/mollycrabapple/status/1443192176746323969) \)
@@ -105,7 +105,7 @@ ITALY
 ### Domenico Lucano sentenced to 13 years of prison for “aiding and abetting illegal migration”
 
 
-![](assets/947f222be63b/0*mQVRlYvkbNhCCDxv.jpeg)
+![](../assets/947f222be63b/0*mQVRlYvkbNhCCDxv.jpeg)
 
 
 Mimmo Lucano Sentenced “For crimes benefitting humanity” \(Credit: [Vauro Senesi](https://vaurosenesi.it/2021/09/30/mimmo-lucano-condannato-la-vignetta-di-vauro/#jp-carousel-16379) \)

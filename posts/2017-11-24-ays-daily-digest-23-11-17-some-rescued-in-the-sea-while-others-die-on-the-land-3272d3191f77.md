@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 23/11/17: Some rescued in the sea, while others die on the land
+title: "AYS Daily Digest 23/11/17: Some rescued in the sea, while others die on the land"
 author: Are You Syrious?
 date: 2017-11-24T12:36:16.342+0000
 last_modified_at: 2017-11-24T12:36:16.342+0000
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,greece,libya,europe,volunteering]
 description: Libyan treatment of people calls for urgent measures / A death in Croatia and in Denmark / Greece needs more people to help / Germany…
 image:
-  path: assets/3272d3191f77/1*k0Dg_cXluy6mT4v-XYQy_g.jpeg
+  path: ../assets/3272d3191f77/1*k0Dg_cXluy6mT4v-XYQy_g.jpeg
 ---
 
 ### AYS Daily Digest 23/11/17: Some rescued in the sea, while others die on the land
 #### Libyan treatment of people calls for urgent measures / A death in Croatia and in Denmark / Greece needs more people to help / Germany builds up teams for conducting deportations / Refugees in Italy fighting for their rights / Protests announcements / News from Syria, Spain, UK, Turkey …
 
 
-![SAR mission of a team in the Mediterranean — Photo: [**Maydayterraneo — Proyecto AitaMari**](https://www.facebook.com/MAYDAYTERRANEO/)](assets/3272d3191f77/1*k0Dg_cXluy6mT4v-XYQy_g.jpeg)
+![SAR mission of a team in the Mediterranean — Photo: [**Maydayterraneo — Proyecto AitaMari**](https://www.facebook.com/MAYDAYTERRANEO/)](../assets/3272d3191f77/1*k0Dg_cXluy6mT4v-XYQy_g.jpeg)
 
 SAR mission of a team in the Mediterranean — Photo: [**Maydayterraneo — Proyecto AitaMari**](https://www.facebook.com/MAYDAYTERRANEO/)
 #### FEATURE
@@ -138,26 +138,26 @@ After the Turkish police [conduced more than 1,400 raids](http://aa.com.tr/en/to
 #### Arrivals
 
 
-![](assets/3272d3191f77/1*lAPPpYlCYUxs0Oc-IlsBAQ.jpeg)
+![](../assets/3272d3191f77/1*lAPPpYlCYUxs0Oc-IlsBAQ.jpeg)
 
 
 Three people who arrived on board the boat to Samos have been detained for questioning by the police, so officially 38 were welcomed upon arrival to the island, through 41 landed\.
 
 
-![Over 1000 people have arrived on Lesvos since the beginning of November\. Our partners [Refugee Rescue / ‘Mo Chara’](https://www.facebook.com/RefugeeRescueUK/?fref=mentions) have been there for the landing of over 400 of those arrivals\. There are more young people arriving in the boats than ever before, roughly 50% of arrivals that are assisted by Refugee Rescue are children\. Almost every boat has an elderly person, a person with disability or somebody suffering from a chronic condition on board” — Help Refugees](assets/3272d3191f77/1*XaThO5DpI4N28ETMhjRItQ.jpeg)
+![Over 1000 people have arrived on Lesvos since the beginning of November\. Our partners [Refugee Rescue / ‘Mo Chara’](https://www.facebook.com/RefugeeRescueUK/?fref=mentions) have been there for the landing of over 400 of those arrivals\. There are more young people arriving in the boats than ever before, roughly 50% of arrivals that are assisted by Refugee Rescue are children\. Almost every boat has an elderly person, a person with disability or somebody suffering from a chronic condition on board” — Help Refugees](../assets/3272d3191f77/1*XaThO5DpI4N28ETMhjRItQ.jpeg)
 
 Over 1000 people have arrived on Lesvos since the beginning of November\. Our partners [Refugee Rescue / ‘Mo Chara’](https://www.facebook.com/RefugeeRescueUK/?fref=mentions) have been there for the landing of over 400 of those arrivals\. There are more young people arriving in the boats than ever before, roughly 50% of arrivals that are assisted by Refugee Rescue are children\. Almost every boat has an elderly person, a person with disability or somebody suffering from a chronic condition on board” — Help Refugees
 #### Protest at Sapho Square — update
 
 
-![Photo: [**No Border Kitchen Lesvos**](https://www.facebook.com/NBKLesvos/)](assets/3272d3191f77/1*TKhrNkJPc3o-H4_FRn3hlg.jpeg)
+![Photo: [**No Border Kitchen Lesvos**](https://www.facebook.com/NBKLesvos/)](../assets/3272d3191f77/1*TKhrNkJPc3o-H4_FRn3hlg.jpeg)
 
 Photo: [**No Border Kitchen Lesvos**](https://www.facebook.com/NBKLesvos/)
 
 Please, [read the story](https://www.facebook.com/NBKLesvos/posts/1041812392625216?hc_location=ufi) on how the situation developed and about the intrusion of the “concerned fascist citizens”, by [**No Border Kitchen Lesvos**](https://www.facebook.com/NBKLesvos/)
 
 
-![Photo: [**Lesvos Solidarity — Pikpa**](https://www.facebook.com/pikpalesvos/)](assets/3272d3191f77/1*grKaA8Y66Vq9oSO0TTDdQA.jpeg)
+![Photo: [**Lesvos Solidarity — Pikpa**](https://www.facebook.com/pikpalesvos/)](../assets/3272d3191f77/1*grKaA8Y66Vq9oSO0TTDdQA.jpeg)
 
 Photo: [**Lesvos Solidarity — Pikpa**](https://www.facebook.com/pikpalesvos/)
 
@@ -240,12 +240,12 @@ Photo: [**Lesvos Solidarity — Pikpa**](https://www.facebook.com/pikpalesvos/)
 [**Refugee Law Clinics Abroad in Chios**](https://www.facebook.com/rlcabroad/?hc_ref=ARTRNVyD33PkAjNe3KRI79-cQtRjL5uo1f9VjGkuye2SdUaI0Ui2WP5zOU09OP34C38&fref=nf) is looking for volunteers
 
 
-![](assets/3272d3191f77/1*FWEuG-0SFNbbddbYrL2Q_w.jpeg)
+![](../assets/3272d3191f77/1*FWEuG-0SFNbbddbYrL2Q_w.jpeg)
 
 ### Volunteers wanted in many other places
 
 
-![[**ERCI — Emergency Response Centre International**](https://www.facebook.com/ercintl/)](assets/3272d3191f77/1*gDM17I51bXOmv7ZZClDosw.png)
+![[**ERCI — Emergency Response Centre International**](https://www.facebook.com/ercintl/)](../assets/3272d3191f77/1*gDM17I51bXOmv7ZZClDosw.png)
 
 [**ERCI — Emergency Response Centre International**](https://www.facebook.com/ercintl/)
 
@@ -292,11 +292,11 @@ Photo: [**Lesvos Solidarity — Pikpa**](https://www.facebook.com/pikpalesvos/)
 
 
 
-![](assets/3272d3191f77/1*0_5-vysAmkslFSfo7oCMSA.jpeg)
+![](../assets/3272d3191f77/1*0_5-vysAmkslFSfo7oCMSA.jpeg)
 
 
 
-![Photo: [**Dråpen i Havet**](https://www.facebook.com/drapenihavet/?ref=gs&hc_ref=ARSwR7ZISqW9cLNyGu1cDi2xwqIWVct8OzqOe7_DG22_gz2b8RI1fg-9thxwX2P21MU&fref=gs&hc_location=group)](assets/3272d3191f77/1*TeA7k33KUBw6oriyUzVe6w.jpeg)
+![Photo: [**Dråpen i Havet**](https://www.facebook.com/drapenihavet/?ref=gs&hc_ref=ARSwR7ZISqW9cLNyGu1cDi2xwqIWVct8OzqOe7_DG22_gz2b8RI1fg-9thxwX2P21MU&fref=gs&hc_location=group)](../assets/3272d3191f77/1*TeA7k33KUBw6oriyUzVe6w.jpeg)
 
 Photo: [**Dråpen i Havet**](https://www.facebook.com/drapenihavet/?ref=gs&hc_ref=ARSwR7ZISqW9cLNyGu1cDi2xwqIWVct8OzqOe7_DG22_gz2b8RI1fg-9thxwX2P21MU&fref=gs&hc_location=group)
 #### Urgent call: Drop in the Ocean is looking for more volunteers for December, minimum stay is 7 days\.
@@ -378,7 +378,7 @@ The latest updates by :
 
 
 
-[![Così si "vive" nell'hub di Cona (VE)](assets/3272d3191f77/fc66_hqdefault.jpg "Così si "vive" nell'hub di Cona (VE)")](http://www.youtube.com/watch?v=WZaj6j58a1o)
+[![Così si "vive" nell'hub di Cona (VE)](../assets/3272d3191f77/fc66_hqdefault.jpg "Così si "vive" nell'hub di Cona (VE)")](http://www.youtube.com/watch?v=WZaj6j58a1o)
 
 
 

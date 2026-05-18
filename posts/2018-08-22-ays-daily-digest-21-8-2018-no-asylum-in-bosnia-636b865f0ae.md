@@ -1,13 +1,13 @@
 ---
-title: AYS DAILY DIGEST 21/8/2018: No asylum in Bosnia!
+title: "AYS DAILY DIGEST 21/8/2018: No asylum in Bosnia!"
 author: Are You Syrious?
 date: 2018-08-22T08:03:40.991+0100
 last_modified_at: 2018-08-22T20:41:56.715+0100
 categories: Are You Syrious?
 tags: [refugees,bosnia,digest,france,volunteers]
-description: Since 2008, not even one person was granted asylum in Bosnia // Legal experts: Italy is likely violating article 5 of the European…
+description: "Since 2008, not even one person was granted asylum in Bosnia // Legal experts: Italy is likely violating article 5 of the European…"
 image:
-  path: assets/636b865f0ae/1*yG7i7EG_KgWsqnl1l6cKoA.jpeg
+  path: ../assets/636b865f0ae/1*yG7i7EG_KgWsqnl1l6cKoA.jpeg
 ---
 
 ### AYS DAILY DIGEST 21/8/2018: No asylum in Bosnia\!
@@ -15,7 +15,7 @@ image:
 _Since 2008, not even one person was granted asylum in Bosnia // Legal experts: Italy is likely violating article 5 of the European convention on human rights // Moria is now at more than 300 percent capacity // European Commission is aware of the violence committed by the Croatian border police // Help is needed in Greece, Bosnia, Italy, France…_
 
 
-![Imagine living like this day in and day out\. Photo by Ruhi Loren, Vial, Chios\.](assets/636b865f0ae/1*yG7i7EG_KgWsqnl1l6cKoA.jpeg)
+![Imagine living like this day in and day out\. Photo by Ruhi Loren, Vial, Chios\.](../assets/636b865f0ae/1*yG7i7EG_KgWsqnl1l6cKoA.jpeg)
 
 Imagine living like this day in and day out\. Photo by Ruhi Loren, Vial, Chios\.
 ### Feature: The best people of us all
@@ -29,7 +29,7 @@ Since 2008, [over 1,200 people](http://dijaspora.mhrr.gov.ba/wp-content/uploads/
 However, despite irresponsible government, people in Bosnia are still open and welcoming\. Šuhret Fazlić, Mayor of Bihać, the city with the greatest number of asylum seekers, [spoke for the Radio Free Europe](https://www.slobodnaevropa.org/a/intervju-suhret-fazlic/29440755.html) saying that if the local people and relatively smaller number of international volunteers did not get involved, those who arrived in the city would die of hunger\.
 
 
-![Photo by Red Cross Bihać](assets/636b865f0ae/1*0jqUPn_DPOHqpeqaSZ1UEw.jpeg)
+![Photo by Red Cross Bihać](../assets/636b865f0ae/1*0jqUPn_DPOHqpeqaSZ1UEw.jpeg)
 
 Photo by Red Cross Bihać
 
@@ -48,7 +48,7 @@ The minister wants other EU countries to take some of the ship’s passengers\. 
 Until now, Rome refused to allow them to enter Italy\. So far, no other member state has publicly offered to take people from this boat\.
 
 
-![Photo by [Alarm Phone](https://www.facebook.com/1525906057683632/posts/2200963383511226/) \.](assets/636b865f0ae/1*MBkZ8tK1IFaUHuFq79dd7g.jpeg)
+![Photo by [Alarm Phone](https://www.facebook.com/1525906057683632/posts/2200963383511226/) \.](../assets/636b865f0ae/1*MBkZ8tK1IFaUHuFq79dd7g.jpeg)
 
 Photo by [Alarm Phone](https://www.facebook.com/1525906057683632/posts/2200963383511226/) \.
 
@@ -70,11 +70,11 @@ People from the camp are sending SOS messages and photographs of the appalling c
 “The people inside New Arrivals appear to be especially vulnerable, there is little medical care, the food is bad and we only just about have enough water\.”
 
 
-![](assets/636b865f0ae/1*jjJds8-5fiMMDM-23qBE7A.png)
+![](../assets/636b865f0ae/1*jjJds8-5fiMMDM-23qBE7A.png)
 
 
 
-![](assets/636b865f0ae/1*qDP4D7KoKdX_yEqH1EfSbg.png)
+![](../assets/636b865f0ae/1*qDP4D7KoKdX_yEqH1EfSbg.png)
 
 
 “There are fights in the camp every day now, especially because of the terrible conditions but also because EASO, where thousands of people are interviewed by asylum officers, cannot deal with the number of people who need help\. The EASO queues are long and they keep shutting the ‘office’ down\. There was a period where they shut it down for a straight ten days so people aren’t getting registered, appointments are being cancelled\. We are treated by the EASO staff like animals when we complain, they look over our heads and ignore us or tell us to go away\.”
@@ -84,7 +84,7 @@ The refugee camp at Moria is now at more than 300 percent capacity, and outbreak
 In Vial Camp on Chios, the situation is not much better\.
 
 
-![](assets/636b865f0ae/1*J20M7GTfBN0yYMcCL2C2_w.jpeg)
+![](../assets/636b865f0ae/1*J20M7GTfBN0yYMcCL2C2_w.jpeg)
 
 
 The independent volunteer [Ruhi Loren reports](https://www.facebook.com/ruhi.akhtar.7/posts/2256249361058626?__xts__%5B0%5D=68.ARDfKVz4bgiRimvs0Sq_h9USTh1muyO9aeHd30f_HWlqX5rrMPNU3-sd7CZkb-67a1IrVCu5MZL1bdZuXThUdPhJ_J07Xfqjnp_Xik3WrVd6KQcMoZ2c1JC_9-opm6fqamO0Hiwbq6i9&__tn__=-Rž) that in some areas the tents are so packed together that people can hardly walk through\.
@@ -94,7 +94,7 @@ Welcome to Europe published [an update on fingerprints and Dublin returns](https
 _HELP IS NEEDED_
 
 
-![By Samos volunteers](assets/636b865f0ae/1*Kt4ErqD63hwus6ugWIovsA.jpeg)
+![By Samos volunteers](../assets/636b865f0ae/1*Kt4ErqD63hwus6ugWIovsA.jpeg)
 
 By Samos volunteers
 
@@ -123,7 +123,7 @@ This answer is very weak and does not show that the EC will do anough to condemn
 Meanwhile, violence continues\. According to the latest report by No Name Kitchen, even children are the victims now\.
 
 
-![A 3\-year\-old girl shows a bruise across half of her back after a police officer pushed her, causing her to fall down\. Photo by NNK\.](assets/636b865f0ae/1*eWeJFWGLs-jVFmH328CkAQ.jpeg)
+![A 3\-year\-old girl shows a bruise across half of her back after a police officer pushed her, causing her to fall down\. Photo by NNK\.](../assets/636b865f0ae/1*eWeJFWGLs-jVFmH328CkAQ.jpeg)
 
 A 3\-year\-old girl shows a bruise across half of her back after a police officer pushed her, causing her to fall down\. Photo by NNK\.
 #### Germany

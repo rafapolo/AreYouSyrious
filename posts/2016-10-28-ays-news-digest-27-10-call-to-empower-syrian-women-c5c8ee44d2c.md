@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe,calais-eviction,children-of-calais]
 description: Feature
 image:
-  path: assets/c5c8ee44d2c/1*QASZAhKMhLimVhUjn8kAqA.jpeg
+  path: ../assets/c5c8ee44d2c/1*QASZAhKMhLimVhUjn8kAqA.jpeg
 ---
 
 ### AYS News Digest 27\.10 — As Syria burns, Putin hints at massive push to take East Aleppo\.
 
 
-![A child looks through debris following yesterday’s airstrike on a school in Hass, north of Idlib\. Photo Credit: Reuters](assets/c5c8ee44d2c/1*QASZAhKMhLimVhUjn8kAqA.jpeg)
+![A child looks through debris following yesterday’s airstrike on a school in Hass, north of Idlib\. Photo Credit: Reuters](../assets/c5c8ee44d2c/1*QASZAhKMhLimVhUjn8kAqA.jpeg)
 
 A child looks through debris following yesterday’s airstrike on a school in Hass, north of Idlib\. Photo Credit: Reuters
 #### Feature
@@ -31,7 +31,7 @@ Speaking today at a conference in Sochi, Russian president Vladimir Putin had th
 While Putin is correct in his assessment of the hypocrisy and the selective outrage voiced by the United States and its military allies, this is undoubtedly a case of the pot calling the kettle black\. All lives are valuable, and every victim of war is a calamity, be it in Syria, Yemen, Iraq, Afghanistan, or in one of the other countless active war zones\. So why then are Russia and the regime bombing rebel\-held territory indiscriminately? Why does the Russian ambassador to England have the audacity to claim that hospitals are legitimate targets because they supposedly serve as a front for “terrorists”? Why is Eastern Aleppo being blockaded as food, medical supplies, and other necessities, which the city’s 200,000 civilian inhabitants need, are dropping to critically low levels? If these are all hostages of the ‘terrorists’ occupying the city, why do so few leave despite repeated regime insistence and threats? Why does Russia continue to support the Syrian regime which has inflicted by far the largest civilian casualties of a war that is quickly approaching its sixth year with no end in sight? For whom do your bells toll, Mr\. Putin?
 
 
-![Eastern Aleppo after 5 weeks of relentless assaults\. The dotted lines represent territories captured by the regime\.](assets/c5c8ee44d2c/1*-M_pCHSl4Tk6UJUxiV2I7w.jpeg)
+![Eastern Aleppo after 5 weeks of relentless assaults\. The dotted lines represent territories captured by the regime\.](../assets/c5c8ee44d2c/1*-M_pCHSl4Tk6UJUxiV2I7w.jpeg)
 
 Eastern Aleppo after 5 weeks of relentless assaults\. The dotted lines represent territories captured by the regime\.
 ### The Hass school bombing
@@ -39,7 +39,7 @@ Eastern Aleppo after 5 weeks of relentless assaults\. The dotted lines represent
 The Syrian regime and its Russian allies have been hellbent on bringing rebel\-held areas of Syria to their knees\. The cause of East Aleppo is only the most publicized of these outrageous war crimes\. Yesterday in the town of Hass north of Idlib, the bombing of a school by jets claimed the lives of 35 people, the majority of whom were children\. Was this school too a nest of terrorists? Russia continues to deny responsibility for the attack, making the absurd allegation that the ruins are not consistent with the aftermath of an airstrike\. But even if the attack isn’t Russia’s doing, then regime jets were the ones to inflict the damage\. If this is indeed not Russia’s doing, and Russia is as outraged by this crime as the rest of the world, why do they not reprimand their ally?
 
 
-[![سوريا ادلب بلدة حاس .مجزرة يوم الأربعاء](assets/c5c8ee44d2c/9736_hqdefault.jpg "سوريا ادلب بلدة حاس .مجزرة يوم الأربعاء")](http://www.youtube.com/watch?v=XSAaWq84QMs)
+[![سوريا ادلب بلدة حاس .مجزرة يوم الأربعاء](../assets/c5c8ee44d2c/9736_hqdefault.jpg "سوريا ادلب بلدة حاس .مجزرة يوم الأربعاء")](http://www.youtube.com/watch?v=XSAaWq84QMs)
 
 ### Syrian women’s scars run deep\.
 
@@ -60,7 +60,7 @@ _The international community — and in particular the European Union — must r
 The UN has confirmed that at least 3,800 have been reported dead or missing this year, ahead of last year’s figure of 3,771, and there will still be two months to take account of\. This comes even as the number of Mediterranean crossings has dropped in comparison to last years, and estimates show that 1 in 47 refugees crossing from Libya to Italy have died\.
 
 
-![Photo by MSF Sea](assets/c5c8ee44d2c/1*TWey9ETqp1tRFYpdE3qSQw.jpeg)
+![Photo by MSF Sea](../assets/c5c8ee44d2c/1*TWey9ETqp1tRFYpdE3qSQw.jpeg)
 
 Photo by MSF Sea
 ### 29 corpses found aboard boat off the coast of Libya\.
@@ -143,7 +143,7 @@ No good news from Calais\. Treatment of unaccompanied children by the French gov
 _“Everything has been destroyed, so we are very worried about the unaccompanied minors\. We’ve been told the container camp is full, we’ve also had reports of children who’ve lost their wristbands giving them entry or those who’ve had them ripped off them in the struggle to get access\. Where they will sleep tonight is a massive concern,”_ said a Doctor of the World spokeswoman\.
 
 
-![“These are children left sleeping outside at Calais camp\.” By [**Glenys Newton**](https://www.facebook.com/glenys.newton.58?fref=nf)](assets/c5c8ee44d2c/1*U377IGCvgxbxxxWL1fP40g.jpeg)
+![“These are children left sleeping outside at Calais camp\.” By [**Glenys Newton**](https://www.facebook.com/glenys.newton.58?fref=nf)](../assets/c5c8ee44d2c/1*U377IGCvgxbxxxWL1fP40g.jpeg)
 
 “These are children left sleeping outside at Calais camp\.” By [**Glenys Newton**](https://www.facebook.com/glenys.newton.58?fref=nf)
 
@@ -192,21 +192,21 @@ ARREST AND DETENTION OF CHILDREN IN CALAIS:
 Authorities failed to ensure that accurate information reached all children, and unaccompanied children faced practical barriers in access to the registration process, HRW adds\.
 
 
-![These young boys have nowhere else to go, they’re sat in a smouldering tent waiting to hear what will happen next\. \. By Care4Calais\.](assets/c5c8ee44d2c/1*-HnC4oF7Ing0Cv_KVlXIog.jpeg)
+![These young boys have nowhere else to go, they’re sat in a smouldering tent waiting to hear what will happen next\. \. By Care4Calais\.](../assets/c5c8ee44d2c/1*-HnC4oF7Ing0Cv_KVlXIog.jpeg)
 
 These young boys have nowhere else to go, they’re sat in a smouldering tent waiting to hear what will happen next\. \. By Care4Calais\.
 
 In the meantime, embarrassing pictures are coming about methods used by the police to take people away from the camp\. They put plastic covers on the seats in busses that were taking away people from the Jungle\.
 
 
-![Is this really necessary?](assets/c5c8ee44d2c/1*iX7xjxv49G217gajaJD6kQ.jpeg)
+![Is this really necessary?](../assets/c5c8ee44d2c/1*iX7xjxv49G217gajaJD6kQ.jpeg)
 
 Is this really necessary?
 
 Despite this violent eviction, people keep coming to France\. The latest news from Paris is that a new big “wild” camp is born in 3 zones of the 19th neighborhood of the capital, next to Stalingrad metro station\. According to volunteers from the field, there is about 3000 people in this area\. Paris council promised to create a shelter for hundreds of people but now has no solution for the amount of people that arrived in the last few days, many of them are coming from Calais\.
 
 
-![Early morning\. …\.Time to leave the place we called home\. \. \. By Ifty Patel](assets/c5c8ee44d2c/1*GRA-8EKYz9ZbDDGPvQDKng.jpeg)
+![Early morning\. …\.Time to leave the place we called home\. \. \. By Ifty Patel](../assets/c5c8ee44d2c/1*GRA-8EKYz9ZbDDGPvQDKng.jpeg)
 
 Early morning\. …\.Time to leave the place we called home\. \. \. By Ifty Patel
 

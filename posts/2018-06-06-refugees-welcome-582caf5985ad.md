@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,special,refugees-welcome,balkans,statement]
 description: We, the front-line volunteers and activists, who for years now have been stepping in and picking up the slack in lieu of governments, the…
 image:
-  path: assets/582caf5985ad/1*-ZRO6l0URMiqGGjS3dkXkA.jpeg
+  path: ../assets/582caf5985ad/1*-ZRO6l0URMiqGGjS3dkXkA.jpeg
 ---
 
 ### Refugees Welcome\!
@@ -15,7 +15,7 @@ image:
 _We, the front\-line volunteers and activists, who for years now have been stepping in and picking up the slack in lieu of governments, the UN and other international organizations when it comes to the alleviation of the situation in which hundreds and thousands of people along the Balkan route find themselves in, are decisively and unequivocally raising our voices against the inhuman treatment of our fellow human beings that is taking place along the Balkan route — and beyond\._
 
 
-![Photo by Abdulazez Dukhan\. “Sometimes you choose a way without knowing where it drives you\. You choose it because it is the only way you have\.”](assets/582caf5985ad/1*-ZRO6l0URMiqGGjS3dkXkA.jpeg)
+![Photo by Abdulazez Dukhan\. “Sometimes you choose a way without knowing where it drives you\. You choose it because it is the only way you have\.”](../assets/582caf5985ad/1*-ZRO6l0URMiqGGjS3dkXkA.jpeg)
 
 Photo by Abdulazez Dukhan\. “Sometimes you choose a way without knowing where it drives you\. You choose it because it is the only way you have\.”
 

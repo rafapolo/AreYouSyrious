@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 19/12/2019: It’s “just a word” — the power of Language
+title: "AYS Daily Digest 19/12/2019: It’s “just a word” — the power of Language"
 author: Are You Syrious?
 date: 2019-12-20T09:35:49.022+0000
 last_modified_at: 2019-12-20T09:52:15.386+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,denmark,digest,sweden]
 description: New report analyses the situation for people on the move in Belgium//Salam Aldeen still imprisoned//New law in Sweden will penalise those…
 image:
-  path: assets/af7eb22a9aca/1*-2xFqhkq2P2ZT9H7srvpsw.jpeg
+  path: ../assets/af7eb22a9aca/1*-2xFqhkq2P2ZT9H7srvpsw.jpeg
 ---
 
 ### AYS Daily Digest 19/12/2019: It’s “just a word” — the power of Language
 #### New report analyses the situation for people on the move in Belgium//Salam Aldeen still imprisoned//New law in Sweden will penalise those who live in most socio\-economically “challenging” areas//
 
 
-![Photo Credit: No Name Kitchen](assets/af7eb22a9aca/1*-2xFqhkq2P2ZT9H7srvpsw.jpeg)
+![Photo Credit: No Name Kitchen](../assets/af7eb22a9aca/1*-2xFqhkq2P2ZT9H7srvpsw.jpeg)
 
 Photo Credit: No Name Kitchen
 

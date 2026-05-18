@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 23/10: Liberté, égalité, fraternité, but not for everybody.
+title: "AYS DAILY DIGEST 23/10: Liberté, égalité, fraternité, but not for everybody."
 author: Are You Syrious?
 date: 2016-10-23T23:10:40.829+0100
 last_modified_at: 2016-10-25T07:10:32.554+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,calais,the-jungle,eviction-of-calais]
 description: Clashes between police and residents of the Jungle before the eviction//Volunteers are sending alarming messages about inhuman treatment of…
 image:
-  path: assets/a448e8a0f73e/1*yyskOdhCZ3TtBb3PRKENgg.jpeg
+  path: ../assets/a448e8a0f73e/1*yyskOdhCZ3TtBb3PRKENgg.jpeg
 ---
 
 ### AYS DAILY DIGEST 23/10: Liberté, égalité, fraternité, but not for everybody\. Definitely not for people of Calais
@@ -15,7 +15,7 @@ image:
 _Clashes between police and residents of the Jungle before the eviction//Volunteers are sending alarming messages about inhuman treatment of people from the camp//Future of unaccompanied children uncertain//More arrivals to Greece and Serbia and more help needed//Italy is begging for help while after another 5,700 people arrived between Friday and Saturday_
 
 
-![Another restless night in Calais\. Night before the eviction\. Photo by [@David\_Churchill](http://twitter.com/David_Churchill)](assets/a448e8a0f73e/1*yyskOdhCZ3TtBb3PRKENgg.jpeg)
+![Another restless night in Calais\. Night before the eviction\. Photo by [@David\_Churchill](http://twitter.com/David_Churchill)](../assets/a448e8a0f73e/1*yyskOdhCZ3TtBb3PRKENgg.jpeg)
 
 Another restless night in Calais\. Night before the eviction\. Photo by [@David\_Churchill](http://twitter.com/David_Churchill)
 ### Calais eviction
@@ -34,7 +34,7 @@ Many people did not want to wait for the eviction but left on their own, heading
 
 
 
-![Calais census by Help Refugees and L’Auberge des Migrants](assets/a448e8a0f73e/1*HJ4oAs5pNtXfrArixjreUA.jpeg)
+![Calais census by Help Refugees and L’Auberge des Migrants](../assets/a448e8a0f73e/1*HJ4oAs5pNtXfrArixjreUA.jpeg)
 
 Calais census by Help Refugees and L’Auberge des Migrants
 
@@ -51,7 +51,7 @@ Previously it was explained that all the people in the camp will have to come to
 This weekend was tense and dangerous in the Jungle\.
 
 
-![Tension in the refugee camp of Calais “the jungle”, due to the imminent eviction\. Authorities announced the eviction and demolition of the camp for the end of the month\. People are trapped in between the borders, traveling for months, living under terrible conditions, and now under the threat of deportation\. [Photo](https://www.facebook.com/artagainstproject/) by Gabriel Tizon](assets/a448e8a0f73e/1*eNXC-a0Bz8vQDDV8zYRAwA.jpeg)
+![Tension in the refugee camp of Calais “the jungle”, due to the imminent eviction\. Authorities announced the eviction and demolition of the camp for the end of the month\. People are trapped in between the borders, traveling for months, living under terrible conditions, and now under the threat of deportation\. [Photo](https://www.facebook.com/artagainstproject/) by Gabriel Tizon](../assets/a448e8a0f73e/1*eNXC-a0Bz8vQDDV8zYRAwA.jpeg)
 
 Tension in the refugee camp of Calais “the jungle”, due to the imminent eviction\. Authorities announced the eviction and demolition of the camp for the end of the month\. People are trapped in between the borders, traveling for months, living under terrible conditions, and now under the threat of deportation\. [Photo](https://www.facebook.com/artagainstproject/) by Gabriel Tizon
 
@@ -82,7 +82,7 @@ Describing atmosphere during the weekend, volunteers from the [Refugee Info Bus]
 We stand together in solidarity with all residents of the Calais Jungle, hoping that the EU will finally remember values they promote — solidarity, dignity and humanity\. [The European Convention on Human Rights](http://www.echr.coe.int/Documents/Convention_ENG.pdf) in its Article 5 provides that everyone has the right to liberty and security\. Or it is just for the privileged?
 
 
-![Calais census by Help Refugees and L’Auberge des Migrants](assets/a448e8a0f73e/1*hpRBP3Gn8wn24HEuiCItnQ.jpeg)
+![Calais census by Help Refugees and L’Auberge des Migrants](../assets/a448e8a0f73e/1*hpRBP3Gn8wn24HEuiCItnQ.jpeg)
 
 Calais census by Help Refugees and L’Auberge des Migrants
 ### Greece
@@ -92,7 +92,7 @@ Today, 20 people arrived at Lesvos, 57 to Samos, 7 to Tilos \(for the first time
 Our friend Abdulzez brings a [story about Afghan refugees in Greece today](https://www.facebook.com/throughrefugeeeyes/posts/379880675735042) \.
 
 
-![By Through refugee eyes](assets/a448e8a0f73e/1*o9a6fbp7xRenQiZ7V81odw.jpeg)
+![By Through refugee eyes](../assets/a448e8a0f73e/1*o9a6fbp7xRenQiZ7V81odw.jpeg)
 
 By Through refugee eyes
 
@@ -105,7 +105,7 @@ _“After a long trip from Afganistan to Greece, it’s really difficult to go b
 _These refugees are people just trying to get on with their lives\. What can be done? What would you do if you were them?_
 
 
-![By Through refugee eyes](assets/a448e8a0f73e/1*bU9B2y4k4beBZML82amtnA.jpeg)
+![By Through refugee eyes](../assets/a448e8a0f73e/1*bU9B2y4k4beBZML82amtnA.jpeg)
 
 By Through refugee eyes
 
@@ -119,7 +119,7 @@ By Through refugee eyes
 In Kavala our friends from the [Northern Lights Aid](http://www.northernlightsaid.org) began with cinema evenings, every Wednesday and Friday\.
 
 
-![Photo by Northern Lights Aid](assets/a448e8a0f73e/1*Hkvl9uQq6Pq02z67qqzJvQ.jpeg)
+![Photo by Northern Lights Aid](../assets/a448e8a0f73e/1*Hkvl9uQq6Pq02z67qqzJvQ.jpeg)
 
 Photo by Northern Lights Aid
 

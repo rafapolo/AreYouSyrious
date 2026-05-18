@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 13/10/2020: Winter and Covid approach the Greek islands
+title: "AYS Daily Digest 13/10/2020: Winter and Covid approach the Greek islands"
 author: Are You Syrious?
 date: 2020-10-14T10:58:12.633+0100
 last_modified_at: 2020-10-14T13:20:27.338+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,greece,covid-19,refugees,samos]
 description: Samos camp under lockdown // Heavy rains on Lesvos // Rescues at sea // People with resident permits quarantined on ships in Italy // New…
 image:
-  path: assets/de6de8f2835b/1*AmOarZgfSvXdaSr6G0rWgQ.jpeg
+  path: ../assets/de6de8f2835b/1*AmOarZgfSvXdaSr6G0rWgQ.jpeg
 ---
 
 ### AYS Daily Digest 13/10/2020: Winter and Covid approach the Greek islands
 #### Samos camp under lockdown // Heavy rains on Lesvos // Rescues at sea // People with resident permits quarantined on ships in Italy // New pushback at Croatian border // Testimony of new camp in Kent
 
 
-![The Vathy camp\. Credits: [Samos Volunteers](https://www.facebook.com/samosvolunteers/photos/a.567427800102051/1726809060830580/)](assets/de6de8f2835b/1*AmOarZgfSvXdaSr6G0rWgQ.jpeg)
+![The Vathy camp\. Credits: [Samos Volunteers](https://www.facebook.com/samosvolunteers/photos/a.567427800102051/1726809060830580/)](../assets/de6de8f2835b/1*AmOarZgfSvXdaSr6G0rWgQ.jpeg)
 
 The Vathy camp\. Credits: [Samos Volunteers](https://www.facebook.com/samosvolunteers/photos/a.567427800102051/1726809060830580/)
 ### Greece

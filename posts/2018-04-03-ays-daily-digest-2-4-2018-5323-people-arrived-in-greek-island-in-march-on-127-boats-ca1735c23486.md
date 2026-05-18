@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 2/4/2018: 5323 people arrived in Greek island in March on 127 boats
+title: "AYS DAILY DIGEST 2/4/2018: 5323 people arrived in Greek island in March on 127 boats"
 author: Are You Syrious?
 date: 2018-04-03T11:36:53.768+0100
 last_modified_at: 2018-04-03T11:36:53.768+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,israel,turkey,greek-islands]
 description: More funding for walls and fortification of borders // Help needed in Greece // Kosovo deported six people to Turkey // New system of…
 image:
-  path: assets/ca1735c23486/1*lCkW0NNBsW5y-gLP_LgJ2Q.jpeg
+  path: ../assets/ca1735c23486/1*lCkW0NNBsW5y-gLP_LgJ2Q.jpeg
 ---
 
 ### AYS DAILY DIGEST 2/4/2018: 5323 people arrived in Greek island in March on 127 boats
@@ -15,7 +15,7 @@ image:
 _More funding for walls and fortification of borders // Help needed in Greece // Kosovo deported six people to Turkey // New system of registration in Paris // Israel reached deal about relocation of asylum seekers to Western countries_
 
 
-![Phoot by [Gabriel Tizon](https://www.facebook.com/gabrieltizonfotografo/photos/pcb.1691354184243730/1691345147577967/?type=3&theater)](assets/ca1735c23486/1*lCkW0NNBsW5y-gLP_LgJ2Q.jpeg)
+![Phoot by [Gabriel Tizon](https://www.facebook.com/gabrieltizonfotografo/photos/pcb.1691354184243730/1691345147577967/?type=3&theater)](../assets/ca1735c23486/1*lCkW0NNBsW5y-gLP_LgJ2Q.jpeg)
 
 Phoot by [Gabriel Tizon](https://www.facebook.com/gabrieltizonfotografo/photos/pcb.1691354184243730/1691345147577967/?type=3&theater)
 ### Feature
@@ -44,7 +44,7 @@ Monday morning at Samos started with rescue operations\. Two boats with over 100
 [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/) published a short overview of this year developments stating that so far 278 boats have tried to reach the Greek islands, with a total of 11\.631 people\.
 
 
-![](assets/ca1735c23486/1*Sc6f31KYKSxeGRk-nJdjAg.jpeg)
+![](../assets/ca1735c23486/1*Sc6f31KYKSxeGRk-nJdjAg.jpeg)
 
 
 Only 127 boats made it, only in March 60, with a total of 5323\. The rest, 151 boats, with a total of 6308 people were arrested by the Turkish Coast Guard or police\.
@@ -59,7 +59,7 @@ People who reached the islands are living in overcrowded camps, in humiliating c
 Infographic showing the universities offering some kind of service for asylum seekers or refugees in Spain by [RefuCoru](https://www.facebook.com/Refucoru/posts/777626779098501) \.
 
 
-![](assets/ca1735c23486/1*FPf29vHzV0V651vLmQqruQ.jpeg)
+![](../assets/ca1735c23486/1*FPf29vHzV0V651vLmQqruQ.jpeg)
 
 ### Greece
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 30/11/2017: Vulnerable asylum seekers moved from Lesvos
+title: "AYS Daily Digest 30/11/2017: Vulnerable asylum seekers moved from Lesvos"
 author: Are You Syrious?
 date: 2017-12-01T08:55:53.241+0000
 last_modified_at: 2017-12-01T12:08:22.770+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees]
 description: EU, UN and African Union agree to an emergency plan to repatriate stranded refugees in Libya//Temperatures drop in Calais//New humanitarian…
 image:
-  path: assets/ae945182fdba/1*WJ3vvPDqVXVq93QdAqXWlg.png
+  path: ../assets/ae945182fdba/1*WJ3vvPDqVXVq93QdAqXWlg.png
 ---
 
 ### AYS Daily Digest 30/11/2017: Vulnerable asylum seekers moved from Lesvos
@@ -15,7 +15,7 @@ image:
 _EU, UN and African Union agree to an emergency plan to repatriate stranded refugees in Libya//Temperatures drop in Calais//New humanitarian corridor opens in Italy_
 
 
-![Photo by [Together for Better Days](https://www.facebook.com/betterdays.ngo/)](assets/ae945182fdba/1*WJ3vvPDqVXVq93QdAqXWlg.png)
+![Photo by [Together for Better Days](https://www.facebook.com/betterdays.ngo/)](../assets/ae945182fdba/1*WJ3vvPDqVXVq93QdAqXWlg.png)
 
 Photo by [Together for Better Days](https://www.facebook.com/betterdays.ngo/)
 #### Feature
@@ -80,13 +80,13 @@ It’s snowing in Calais and Help Refugees says it will be making emergency orde
 You can help them by donating [here](https://mydonate.bt.com/fundr…/calaisdunkirk-refugee-support$) or [bringing physical donations to the warehouse](https://helprefugees.org/donate-goods/) \. Help Refugees also says that almost 20 grassroots refugee support groups in the UK came together last weekend and delivered 400 waterproof boots\. It hopes to [distribute another 600](https://mydonate.bt.com/events/boots1000) before temperatures drop even more\. Care4Calais says people are putting their feet into flames to warm up and says around 700 young people are currently sleeping rough in the Calais area\. The group is also looking for [donations](http://www.care4calais.org/donate) \.
 
 
-![](assets/ae945182fdba/1*iHYKE10GfoLKg4NVR_ZgvA.png)
+![](../assets/ae945182fdba/1*iHYKE10GfoLKg4NVR_ZgvA.png)
 
 
 It also snowed in Paris where hundreds of refugees are still sleeping in the streets\. This morning, police and city employees apparently threw the belongings of refugees into waste trucks\.
 
 
-![[Samuel Hanryon](https://twitter.com/Sam_hanryon/status/936534010280411136)](assets/ae945182fdba/0*qrvck2RT3qlWjZSp.jpg)
+![[Samuel Hanryon](https://twitter.com/Sam_hanryon/status/936534010280411136)](../assets/ae945182fdba/0*qrvck2RT3qlWjZSp.jpg)
 
 [Samuel Hanryon](https://twitter.com/Sam_hanryon/status/936534010280411136)
 #### General
@@ -94,7 +94,7 @@ It also snowed in Paris where hundreds of refugees are still sleeping in the str
 As we are aproaching 16 days of activism, the [Action from Switzerland](https://www.facebook.com/actionfromswitzerland/) puts out statement on vulnerability of female refugees saying that women and girls are exposed “to particular challenges related to their gender, their roles and their position in society\. They are less likely than men and boys to be able to exercise their rights\.”
 
 
-![Photo credit: [A Polaroid for a Refugee](https://www.facebook.com/DelSartoGiovanna/)](assets/ae945182fdba/1*czctijA0u2o4QuTBfb2QjQ.jpeg)
+![Photo credit: [A Polaroid for a Refugee](https://www.facebook.com/DelSartoGiovanna/)](../assets/ae945182fdba/1*czctijA0u2o4QuTBfb2QjQ.jpeg)
 
 Photo credit: [A Polaroid for a Refugee](https://www.facebook.com/DelSartoGiovanna/)
 

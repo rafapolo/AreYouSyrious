@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 2/6/21: More and more unaccompanied boys on the move
+title: "AYS Daily Digest 2/6/21: More and more unaccompanied boys on the move"
 author: Are You Syrious?
 date: 2021-06-03T15:53:20.301+0100
 last_modified_at: 2021-06-03T20:17:37.616+0100
 categories: Are You Syrious?
 tags: [digest,human-rights,refugees,migration,europe]
-description: Germany: BAMF violated the law by unnecessarily storing personal information and checking people’s private phones, Regional Court says /…
+description: "Germany: BAMF violated the law by unnecessarily storing personal information and checking people’s private phones, Regional Court says /…"
 image:
-  path: assets/57a063f293b/0*6P5TBM1RFnEEvqeJ
+  path: ../assets/57a063f293b/0*6P5TBM1RFnEEvqeJ
 ---
 
 ### AYS Daily Digest 2/6/21: More and more unaccompanied boys on the move
 #### Germany: BAMF violated the law by unnecessarily storing personal information and checking people’s private phones, Regional Court says / Denmark pushing for foreign application centres in countries thousands of km away / Volunteer calls, workshops, recommended reads and more
 
 
-![Paris — homeless people on the move temporarily housed \(Photos: Solidarité migrants Wilson\)](assets/57a063f293b/0*6P5TBM1RFnEEvqeJ)
+![Paris — homeless people on the move temporarily housed \(Photos: Solidarité migrants Wilson\)](../assets/57a063f293b/0*6P5TBM1RFnEEvqeJ)
 
 Paris — homeless people on the move temporarily housed \(Photos: Solidarité migrants Wilson\)
 #### Serbian activists and volunteer groups report a growing presence of children on the move\.
@@ -176,7 +176,7 @@ Trieste’s Linea d’Ombra arrived to Una\-Sana canton with aid and support to 
 Protest announcement in Wien:
 
 
-![More info [here\.](https://www.facebook.com/events/1240044886511839/?ref=newsfeed)](assets/57a063f293b/0*YXNLIBHNbrPCEYoS)
+![More info [here\.](https://www.facebook.com/events/1240044886511839/?ref=newsfeed)](../assets/57a063f293b/0*YXNLIBHNbrPCEYoS)
 
 More info [here\.](https://www.facebook.com/events/1240044886511839/?ref=newsfeed)
 #### FRANCE
@@ -185,17 +185,17 @@ More info [here\.](https://www.facebook.com/events/1240044886511839/?ref=newsfee
 523 people on the move staying in Paris who were homeless have now been given shelter, activists [reported](http://Solidarité migrants Wilson) \.
 
 
-![](assets/57a063f293b/0*ROPujFWepqAr4B6u)
+![](../assets/57a063f293b/0*ROPujFWepqAr4B6u)
 
 
 
-![](assets/57a063f293b/0*GzfgaRPJ0JiprklT)
+![](../assets/57a063f293b/0*GzfgaRPJ0JiprklT)
 
 
 [L’Auberge des Migrants](https://www.facebook.com/AubergeMigrants/?__cft__[0]=AZUrYRnMabcNwgmMmtT5NT_iukdV_knHnJHALkJNViqOhvfqln_Xb23c-Kfo8gX-Zz5YvYkjUsG6xlKwVV2ts_RALBB8nidle27Biu8aMYIWrzroIf3mk3bWkDNlqw8M5_zQTuzCgJs1JGvhJ03tljbf&__tn__=-UC%2CP-R) team is setting up workshops to help people learn how to make handy stuff like cooking stoves and similar useful things for themselves while in the field:
 
 
-[![JOIN our next Stove-Workshop at the Woodyard!](assets/57a063f293b/c7c0_hqdefault.jpg "JOIN our next Stove-Workshop at the Woodyard!")](https://www.youtube.com/watch?v=Fl5jYLz7Afw)
+[![JOIN our next Stove-Workshop at the Woodyard!](../assets/57a063f293b/c7c0_hqdefault.jpg "JOIN our next Stove-Workshop at the Woodyard!")](https://www.youtube.com/watch?v=Fl5jYLz7Afw)
 
 #### SPAIN
 ### Collecting food and other aid in Barcelona
@@ -203,7 +203,7 @@ More info [here\.](https://www.facebook.com/events/1240044886511839/?ref=newsfee
 From the 7th to the 11th of June, SOS Refugiados Barcelona will collect food and basic necessities for refugees in Terrassa\. It is the Catalan branch of SOS Refugiados, an organization born with the desire to help refugees fleeing countries in conflict\. You can contribute your grain of sand to the Andersen School and to the road to Martorell, 251\.
 
 
-![](assets/57a063f293b/0*1sTxr0FtOUjm91bU.jpg)
+![](../assets/57a063f293b/0*1sTxr0FtOUjm91bU.jpg)
 
 #### GERMANY
 ### Searching through phones — unlawfully
@@ -226,7 +226,7 @@ The UN High Commissioner for Refugees \(UNHCR\) has asked the Folketing to rejec
 [Europe Must Act UK](https://www.facebook.com/europemustactuk/posts/294471385739342?__cft__[0]=AZVMEpeVRDQmNaiLHG20xZQ9WwDIA2Ib92quJ84KuoUF9OkWMjKMTy3NPXJobMRnoVvl7kkJGlop7ybBY0mMqbfw8JH9srp1V7_SzM_i4ieOZ4mbfwyZUthfj18g6DTKdroezKIWTdfpeB7AbyeRPp7odgUfB_BZvONsxciBZOYA_x6lG6Z3JcpPARIDKspmb3I&__tn__=R]-R) is organising a webinar for June 13th focusing on the use of various forms of creative media in the Aegean to raise the voices of refugees and asylum seekers\!
 
 
-[![A Roadmap to Protection in Mixed Movements 2021](assets/57a063f293b/91b5_hqdefault.jpg "A Roadmap to Protection in Mixed Movements 2021")](https://www.youtube.com/watch?v=qW24jvUcDCQ)
+[![A Roadmap to Protection in Mixed Movements 2021](../assets/57a063f293b/91b5_hqdefault.jpg "A Roadmap to Protection in Mixed Movements 2021")](https://www.youtube.com/watch?v=qW24jvUcDCQ)
 
 #### WORTH READING
 - This article contributes to the debates on de\-centring the analysis of migration governance in Europe by focusing on the potential role of the EU — find the article [**here**](https://www.tandfonline.com/doi/full/10.1080/14650045.2021.1929183?fbclid=IwAR1VXnC_mcg0LjlLh8Pd52SFUVXcWxtnrdddYfBnQar1NL1x7qUQAqpwjqM&)

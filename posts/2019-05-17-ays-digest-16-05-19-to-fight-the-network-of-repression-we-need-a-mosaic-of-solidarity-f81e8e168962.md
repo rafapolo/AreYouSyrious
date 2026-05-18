@@ -1,5 +1,5 @@
 ---
-title: AYS DIGEST 16/05/19: To Fight the Network of Repression, we need a Mosaic of Solidarity
+title: "AYS DIGEST 16/05/19: To Fight the Network of Repression, we need a Mosaic of Solidarity"
 author: Are You Syrious?
 date: 2019-05-17T14:36:45.161+0100
 last_modified_at: 2019-05-17T15:05:02.250+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,solidarity,spain,search-and-rescue]
 description: Finding the energy to keep going // SAR vessel still not given safe port // Volunteer opportunities accross the region // Grand Canary…
 image:
-  path: assets/f81e8e168962/1*TEYeZOFmsoC-XrGP7MP-Dw.jpeg
+  path: ../assets/f81e8e168962/1*TEYeZOFmsoC-XrGP7MP-Dw.jpeg
 ---
 
 ### AYS DIGEST 16/05/19: To Fight the Network of Repression, we need a Mosaic of Solidarity
@@ -15,7 +15,7 @@ image:
 _Finding the energy to keep going // SAR vessel still not given safe port // Volunteer opportunities across the region // Grand Canary Islands see an increase in arrivals — a new route?_
 
 
-![IN Belgium, in memory of Mawda\. [Front AntiFasciste Liège 2\.0](https://www.facebook.com/FrontAntiFascisteLiege/?tn-str=k%2AF&hc_location=group_dialog)](assets/f81e8e168962/1*TEYeZOFmsoC-XrGP7MP-Dw.jpeg)
+![IN Belgium, in memory of Mawda\. [Front AntiFasciste Liège 2\.0](https://www.facebook.com/FrontAntiFascisteLiege/?tn-str=k%2AF&hc_location=group_dialog)](../assets/f81e8e168962/1*TEYeZOFmsoC-XrGP7MP-Dw.jpeg)
 
 IN Belgium, in memory of Mawda\. [Front AntiFasciste Liège 2\.0](https://www.facebook.com/FrontAntiFascisteLiege/?tn-str=k%2AF&hc_location=group_dialog)
 
@@ -64,7 +64,7 @@ As we see the breadth and diversity of this network, we need to boost up those p
 Two days ago, [Cardinal Konrad Krajewski, an aide to the Pope, re\-enabled the electricity](https://eu.usatoday.com/story/news/world/2019/05/13/konrad-krajewski-pope-francis-aide-turned-power-homeless/1187795001/) for an “illegally\-occupied building,” drawing the ire of our favourite man Matteo Salvini who was discouraged at his encouragement of “illegal activity”\. The power had been gone for a week due to unpaid bills, but Krajewski, when asked, explained that he could not bear to see children without hot water or electricity and will continue to pay the bills\. Other [priests in Assisi have stated that,](https://www.ilfattoquotidiano.it/2019/05/14/elemosiniere-del-papa-i-frati-di-assisi-si-schierano-dalla-sua-parte-se-quello-che-ha-fatto-e-illegale-arrestateci-tutti/5179108/) “if what he has done is illegal, arrest us all\.”
 
 
-![Port of Call? Salvini is “UnWelcomed” in Naples\. Photo Credit [Mariolina Di Carlo](https://www.facebook.com/mariolina.dicarlo?__tn__=%2Cd%2AF%2AF-R&eid=ARCFXgEGi5DKHFgR-4rvrMZ9SJRrdkJ2FPjiGpUnqZYrOGswQWokVUdnKFqRiKkwfEpppyR9Hpx0F8Ip&tn-str=%2AF&hc_location=group_dialog)](assets/f81e8e168962/1*8136DWoG5Wqamqros-v1Ug.jpeg)
+![Port of Call? Salvini is “UnWelcomed” in Naples\. Photo Credit [Mariolina Di Carlo](https://www.facebook.com/mariolina.dicarlo?__tn__=%2Cd%2AF%2AF-R&eid=ARCFXgEGi5DKHFgR-4rvrMZ9SJRrdkJ2FPjiGpUnqZYrOGswQWokVUdnKFqRiKkwfEpppyR9Hpx0F8Ip&tn-str=%2AF&hc_location=group_dialog)](../assets/f81e8e168962/1*8136DWoG5Wqamqros-v1Ug.jpeg)
 
 Port of Call? Salvini is “UnWelcomed” in Naples\. Photo Credit [Mariolina Di Carlo](https://www.facebook.com/mariolina.dicarlo?__tn__=%2Cd%2AF%2AF-R&eid=ARCFXgEGi5DKHFgR-4rvrMZ9SJRrdkJ2FPjiGpUnqZYrOGswQWokVUdnKFqRiKkwfEpppyR9Hpx0F8Ip&tn-str=%2AF&hc_location=group_dialog)
 

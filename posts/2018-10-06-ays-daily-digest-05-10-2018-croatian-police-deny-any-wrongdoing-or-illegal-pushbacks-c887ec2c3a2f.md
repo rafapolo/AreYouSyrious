@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 05/10/2018: Croatian police deny any wrongdoing or illegal pushbacks
+title: "AYS DAILY DIGEST 05/10/2018: Croatian police deny any wrongdoing or illegal pushbacks"
 author: Are You Syrious?
 date: 2018-10-06T09:17:46.408+0100
 last_modified_at: 2018-10-06T12:54:21.455+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [europe,digest,refugees,croatia]
 description: Arrivals in Greece // Possible sea pusbhack in Greece // More rescued off of Spain // People in Germany, France, and Greece find no…
 image:
-  path: assets/c887ec2c3a2f/1*80bsYn1kJzNdSfMj-4XGzw.jpeg
+  path: ../assets/c887ec2c3a2f/1*80bsYn1kJzNdSfMj-4XGzw.jpeg
 ---
 
 ### AYS DAILY DIGEST 05/10/2018: Croatian police deny any wrongdoing or illegal pushbacks…
@@ -15,7 +15,7 @@ image:
 _Arrivals in Greece // Possible sea pusbhack in Greece // More rescued off of Spain // People in Germany, France, and Greece find no respite form violence// more…_
 
 
-![Velika Kladusa: A camp of dramatizers? According to the police, yes\.](assets/c887ec2c3a2f/1*80bsYn1kJzNdSfMj-4XGzw.jpeg)
+![Velika Kladusa: A camp of dramatizers? According to the police, yes\.](../assets/c887ec2c3a2f/1*80bsYn1kJzNdSfMj-4XGzw.jpeg)
 
 Velika Kladusa: A camp of dramatizers? According to the police, yes\.
 ### **FEATURE: Croatia being held to account? Not yet…**
@@ -66,7 +66,7 @@ Aegean Boat Report notes that 45 people arrived in Samos; while around 46 people
 In the aftermath of the fight that [broke out in Diavata on the mainland](http://www.ekathimerini.com/233320/article/ekathimerini/news/iraqi-migrant-32-injured-in-diavata-brawl) , a man sustained serious injuries from a sharp object\. Last week, another man was killed in a fight near Athens\. The lack of political will to honestly engage and assist populations in centres to live without threat of violence is costing more lives\.
 
 
-![People waiting in Thessaloniki // Photo credit: Georgios Tsitiridis](assets/c887ec2c3a2f/1*PURVItpE1qkd_-0X-oTuFA.jpeg)
+![People waiting in Thessaloniki // Photo credit: Georgios Tsitiridis](../assets/c887ec2c3a2f/1*PURVItpE1qkd_-0X-oTuFA.jpeg)
 
 People waiting in Thessaloniki // Photo credit: Georgios Tsitiridis
 ### BULGARIA
@@ -82,7 +82,7 @@ Ten activists from the Identitarian movement attacked the SOS Mediterranee offic
 Faces Before Numbers posted an obituary for Semere, a man from Eritrea, who recently was stabbed to death as a result of an altercation on the street\.
 
 
-![Photo Credit: Faces before Numbers](assets/c887ec2c3a2f/1*RcxP2abiA8jISX9npNMQSg.jpeg)
+![Photo Credit: Faces before Numbers](../assets/c887ec2c3a2f/1*RcxP2abiA8jISX9npNMQSg.jpeg)
 
 Photo Credit: Faces before Numbers
 

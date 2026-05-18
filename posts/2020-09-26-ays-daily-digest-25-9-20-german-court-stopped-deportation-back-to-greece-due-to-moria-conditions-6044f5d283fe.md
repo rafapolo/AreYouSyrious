@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 25/9/20: German court stopped deportation back to Greece due to Moria conditions
+title: "AYS Daily Digest 25/9/20: German court stopped deportation back to Greece due to Moria conditions"
 author: Are You Syrious?
 date: 2020-09-26T20:45:31.655+0100
 last_modified_at: 2020-09-26T21:17:51.502+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,human-rights,europe,migration]
 description: In Libya, the militia of General Khalifa Haftar forcibly expelled more than 5,000 people since the start of this year / Trieste documents…
 image:
-  path: assets/6044f5d283fe/1*9varGiA6d0xApzlGIDw8TQ.jpeg
+  path: ../assets/6044f5d283fe/1*9varGiA6d0xApzlGIDw8TQ.jpeg
 ---
 
 ### AYS Daily Digest 25/9/20: German court stopped deportation back to Greece due to Moria conditions
 #### In Libya, the militia of General Khalifa Haftar has forcibly expelled more than 5,000 people since the start of this year / Trieste documents the suffering of people who came via the Balkan Route / Condemnation of Spain’s reopening of CIES centres / recommended reads & more updates
 
 
-![Grand Hotel Silos Centrale, Trieste, September 2020 \(Photo: [Francesco Cibati](https://www.facebook.com/francesco.cib?__tn__=%2Cd%2AF%2AF-R&eid=ARDiaTUsagQJL5WR6pzWuDR0GKvfYaSUiviDJplSlxDA9qh2pHx-Q5_U4NaSyf29pq-_-GNzYeMSLp1X&tn-str=%2AF&hc_location=group_dialog) \)](assets/6044f5d283fe/1*9varGiA6d0xApzlGIDw8TQ.jpeg)
+![Grand Hotel Silos Centrale, Trieste, September 2020 \(Photo: [Francesco Cibati](https://www.facebook.com/francesco.cib?__tn__=%2Cd%2AF%2AF-R&eid=ARDiaTUsagQJL5WR6pzWuDR0GKvfYaSUiviDJplSlxDA9qh2pHx-Q5_U4NaSyf29pq-_-GNzYeMSLp1X&tn-str=%2AF&hc_location=group_dialog) \)](../assets/6044f5d283fe/1*9varGiA6d0xApzlGIDw8TQ.jpeg)
 
 Grand Hotel Silos Centrale, Trieste, September 2020 \(Photo: [Francesco Cibati](https://www.facebook.com/francesco.cib?__tn__=%2Cd%2AF%2AF-R&eid=ARDiaTUsagQJL5WR6pzWuDR0GKvfYaSUiviDJplSlxDA9qh2pHx-Q5_U4NaSyf29pq-_-GNzYeMSLp1X&tn-str=%2AF&hc_location=group_dialog) \)
 #### FEATURED
@@ -99,7 +99,7 @@ They don’t get any food supplies, no water, no electricity. https://t.co/TTWQ1
 [Join the residents from Pikpa camp](https://www.facebook.com/pikpalesvos/posts/2762845950657485?hc_location=ufi) and make a video/picture with a placard/message to let everyone know why Pikpa must stay open\!
 
 
-[![PIKPA](assets/6044f5d283fe/b232_hqdefault.jpg "PIKPA")](https://www.youtube.com/watch?v=M8Wp44NkuQk)
+[![PIKPA](../assets/6044f5d283fe/b232_hqdefault.jpg "PIKPA")](https://www.youtube.com/watch?v=M8Wp44NkuQk)
 
 
 The local group from Pikpa invites everyone to join the group of support:
@@ -180,7 +180,7 @@ The Spanish Government has ordered deprivation of liberty of people by reopening
 
 
 
-![](assets/6044f5d283fe/0*u-XVUhsuSRFqvwaB.jpg)
+![](../assets/6044f5d283fe/0*u-XVUhsuSRFqvwaB.jpg)
 
 #### Events
 

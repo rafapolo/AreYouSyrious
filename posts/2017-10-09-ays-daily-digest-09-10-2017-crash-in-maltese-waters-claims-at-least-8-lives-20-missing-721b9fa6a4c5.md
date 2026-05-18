@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 09/10/2017: Crash in Maltese waters claims at least 8 lives, 20 missing
+title: "AYS DAILY DIGEST 09/10/2017: Crash in Maltese waters claims at least 8 lives, 20 missing"
 author: Are You Syrious?
 date: 2017-10-09T23:31:08.893+0100
 last_modified_at: 2017-10-10T00:51:13.136+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees]
 description: Deadly Crash in Maltese Waters//Strikes in Turkey//New Arrivals, Music workshop, and Volunteer opportunities//Donation needs in…
 image:
-  path: assets/721b9fa6a4c5/1*byhIvZQ74QqCF8e_e5wHXA.jpeg
+  path: ../assets/721b9fa6a4c5/1*byhIvZQ74QqCF8e_e5wHXA.jpeg
 ---
 
 ### AYS DAILY DIGEST 09/10/2017: Crash in Maltese waters claims at least 8 lives, 20 missing
@@ -15,7 +15,7 @@ image:
 _Deadly Crash in Maltese Waters//Strikes in Turkey//New Arrivals, Music workshop, and Volunteer opportunities//Donation needs in Greece//Refugees Stranded in Libya, at the mercy of militias supported by EU governments//Impending crisis in France due to lack of Support on Streets // Victory for Sudanese Refugees in Belgium\! //Refugees Caps Discussed in Germany in attempt to court Right Wing_
 
 
-![Photo credit, [Gabriel Tizon](https://www.facebook.com/gabrieltizonfotografo/photos/a.213760148669815.51627.213743695338127/1525259350853215/?type=3&theater&ifg=1)](assets/721b9fa6a4c5/1*byhIvZQ74QqCF8e_e5wHXA.jpeg)
+![Photo credit, [Gabriel Tizon](https://www.facebook.com/gabrieltizonfotografo/photos/a.213760148669815.51627.213743695338127/1525259350853215/?type=3&theater&ifg=1)](../assets/721b9fa6a4c5/1*byhIvZQ74QqCF8e_e5wHXA.jpeg)
 
 Photo credit, [Gabriel Tizon](https://www.facebook.com/gabrieltizonfotografo/photos/a.213760148669815.51627.213743695338127/1525259350853215/?type=3&theater&ifg=1)
 ### FEATURE
@@ -39,7 +39,7 @@ In spite of this tragic news, the larger image of Tunisians again, reflects warm
 Syrian workers in Turkey have been [organizing strikes](https://www.evrensel.net/haber/334735/isikkentteki-suriyeli-sayacilara-isten-cikarma-ve-tehdit) with their Turkish co\-workers to demand fair pay and treatment; as a result of this several Syrian refugees have been threatened with deportation\. The movement started in Adana, but has since spread to several cities, including Izmir\. The story linked is merely one example of the difficult conditions many migrants are forced to work under when they are protected neither by citizenship status nor labor laws\. Many international and local NGOs have repeatedly spoken out about the abuse of cheap Syrian labor and how, in particular, children have been exploited in the Turkish textile industry\.
 
 
-![Photo credit, [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?hc_ref=ARSGhx8OMsmmgyviqsl_x7eKRxQGOP5-ZIKarsTmsAYu_CIdt-7mtRw4SddTAL-NZHw&fref=gs&hc_location=group)](assets/721b9fa6a4c5/1*LjPbQz54KsjKDjIaJphT-w.jpeg)
+![Photo credit, [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?hc_ref=ARSGhx8OMsmmgyviqsl_x7eKRxQGOP5-ZIKarsTmsAYu_CIdt-7mtRw4SddTAL-NZHw&fref=gs&hc_location=group)](../assets/721b9fa6a4c5/1*LjPbQz54KsjKDjIaJphT-w.jpeg)
 
 Photo credit, [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?hc_ref=ARSGhx8OMsmmgyviqsl_x7eKRxQGOP5-ZIKarsTmsAYu_CIdt-7mtRw4SddTAL-NZHw&fref=gs&hc_location=group)
 ### GREECE
@@ -138,7 +138,7 @@ The fighting broke out as a result of Italy pledging support for the Al\-Ammu mi
 In response to this heightened power of the Al\-Ammu militia, a second militia group known as the Anti\-ISIS Operation Room wrested control of the area\. Following the clash between the militias, thousands of refugees were found stranded throughout the city\. Libya has taken these refugees out of the smuggler’s camps where they were found, and into detention centres, the same detention centres that have been repeatedly condemned as abhorrently inhumane by various human rights organizations\.
 
 
-![Refugees in Seriba\. Photo credit, [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?hc_ref=ARSGhx8OMsmmgyviqsl_x7eKRxQGOP5-ZIKarsTmsAYu_CIdt-7mtRw4SddTAL-NZHw&fref=gs&hc_location=group) See their update at the link\.](assets/721b9fa6a4c5/1*VolbUBhbCffpAid8AL1c5w.jpeg)
+![Refugees in Seriba\. Photo credit, [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?hc_ref=ARSGhx8OMsmmgyviqsl_x7eKRxQGOP5-ZIKarsTmsAYu_CIdt-7mtRw4SddTAL-NZHw&fref=gs&hc_location=group) See their update at the link\.](../assets/721b9fa6a4c5/1*VolbUBhbCffpAid8AL1c5w.jpeg)
 
 Refugees in Seriba\. Photo credit, [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?hc_ref=ARSGhx8OMsmmgyviqsl_x7eKRxQGOP5-ZIKarsTmsAYu_CIdt-7mtRw4SddTAL-NZHw&fref=gs&hc_location=group) See their update at the link\.
 ### FRANCE
@@ -151,7 +151,7 @@ Deeply unsettling news from Paris from volunteers\.
 According to volunteers on the ground, the situation in Paris is getting worse, and there was no food distribution in 2 days\. Reportedly, even the police asked volunteers to try to find some food to decrease tension\. There are up to 1500 refugees on the street right now and not enough support\. Food or monetary support can be sent to PRGS \(Paris Refugee Ground Support\), for example, to be distributed on the street as soon as possible\.
 
 
-![Photo credit, [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?hc_ref=ARRt1QNwpQpfcSnbHtMzsuFzZ5ZQykIwGJI8lH-NiLj-DO33grr-QePUVKvHmCGKL14)](assets/721b9fa6a4c5/1*MpfVlKqYqIrQaXZYukzAFw.jpeg)
+![Photo credit, [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?hc_ref=ARRt1QNwpQpfcSnbHtMzsuFzZ5ZQykIwGJI8lH-NiLj-DO33grr-QePUVKvHmCGKL14)](../assets/721b9fa6a4c5/1*MpfVlKqYqIrQaXZYukzAFw.jpeg)
 
 Photo credit, [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?hc_ref=ARRt1QNwpQpfcSnbHtMzsuFzZ5ZQykIwGJI8lH-NiLj-DO33grr-QePUVKvHmCGKL14)
 ### BELGIUM

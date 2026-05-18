@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 17/10/18: The Human Cost of Mismanaged Funds in Greece
+title: "AYS DAILY DIGEST 17/10/18: The Human Cost of Mismanaged Funds in Greece"
 author: Are You Syrious?
 date: 2018-10-18T06:05:07.239+0100
 last_modified_at: 2018-10-18T15:11:41.873+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,greece,european-commission,libya,deportes]
 description: E.U. Council will meet, discuss refugee policy tomorrow // Malta and Italy play hot-potato with rescue boats // Rumors of an eviction in…
 image:
-  path: assets/c22c181f3822/1*PfNfCa_OZlX5nPwVen4RPw.jpeg
+  path: ../assets/c22c181f3822/1*PfNfCa_OZlX5nPwVen4RPw.jpeg
 ---
 
 ### AYS DAILY DIGEST 17/10/18: The Human Cost of Mismanaged Funds in Greece
@@ -15,7 +15,7 @@ image:
 _E\.U\. Council will meet, discuss refugee policy on Thursday // Malta and Italy play hot\-potato with rescue boats // Rumors of an eviction in Dunkirk // Albania and EU agree on border externalization deal // Help needed in the Balkans // One child’s deportation halted in Sweden — but others continue//London demo in support of jailed solidarity workers this Saturday_
 
 
-![Breakfast in Moria\. [Credit: Salam Aden](https://www.facebook.com/Fotomovimiento.org/posts/2013703528697218?hc_location=ufi)](assets/c22c181f3822/1*PfNfCa_OZlX5nPwVen4RPw.jpeg)
+![Breakfast in Moria\. [Credit: Salam Aden](https://www.facebook.com/Fotomovimiento.org/posts/2013703528697218?hc_location=ufi)](../assets/c22c181f3822/1*PfNfCa_OZlX5nPwVen4RPw.jpeg)
 
 Breakfast in Moria\. [Credit: Salam Aden](https://www.facebook.com/Fotomovimiento.org/posts/2013703528697218?hc_location=ufi)
 #### Feature
@@ -99,7 +99,7 @@ Surely, situation in Central Med continues to be unpredictable.
 ### Greece
 
 
-![“My smile is stronger than borders\.” Credit: [Through Refugee Eyes](https://www.facebook.com/throughrefugeeeyes/posts/872445593145212) \.](assets/c22c181f3822/1*TTpitQn_EXblGucIcYCvZg.jpeg)
+![“My smile is stronger than borders\.” Credit: [Through Refugee Eyes](https://www.facebook.com/throughrefugeeeyes/posts/872445593145212) \.](../assets/c22c181f3822/1*TTpitQn_EXblGucIcYCvZg.jpeg)
 
 “My smile is stronger than borders\.” Credit: [Through Refugee Eyes](https://www.facebook.com/throughrefugeeeyes/posts/872445593145212) \.
 
@@ -271,7 +271,7 @@ The organization Acción Norte has loaded a truck full of winter supplies — te
 ### Italy
 
 
-![“From Brennero to Claviere, against the border\!” [Credit: Chez Jesus](https://www.facebook.com/362786637540072/photos/a.362811254204277/480070722478329/?type=3&theater)](assets/c22c181f3822/1*8qdzoWJVig-iWaBeewkrZQ.jpeg)
+![“From Brennero to Claviere, against the border\!” [Credit: Chez Jesus](https://www.facebook.com/362786637540072/photos/a.362811254204277/480070722478329/?type=3&theater)](../assets/c22c181f3822/1*8qdzoWJVig-iWaBeewkrZQ.jpeg)
 
 “From Brennero to Claviere, against the border\!” [Credit: Chez Jesus](https://www.facebook.com/362786637540072/photos/a.362811254204277/480070722478329/?type=3&theater)
 
@@ -279,14 +279,14 @@ Amadou Jawo, a 22\-year\-old asylum seeker from the Gambia, committed suicide in
 ### France
 
 
-![A panorama image of the Dunkirk makeshift camp\. Credit: Roots\.](assets/c22c181f3822/1*yfTTrL8af-WuF_NYRv_44A.jpeg)
+![A panorama image of the Dunkirk makeshift camp\. Credit: Roots\.](../assets/c22c181f3822/1*yfTTrL8af-WuF_NYRv_44A.jpeg)
 
 A panorama image of the Dunkirk makeshift camp\. Credit: Roots\.
 
 Ahead of rumored evictions, [Roots](https://www.facebook.com/charitableroots/posts/2745957238962201?hc_location=ufi) did a complete walk\-through and survey of the camp in Dunkirk, counting 686 tents in total, holding around 1,500 people\.
 
 
-![Men queue for lunch in Dunkirk\. Credit: [Mobile Refugee Support\.](https://www.facebook.com/MobileRefugeeSupport/photos/pcb.857230371149242/857225827816363/?type=3&theater)](assets/c22c181f3822/1*uwscV3BrP3FWZIBh-CNY6g.jpeg)
+![Men queue for lunch in Dunkirk\. Credit: [Mobile Refugee Support\.](https://www.facebook.com/MobileRefugeeSupport/photos/pcb.857230371149242/857225827816363/?type=3&theater)](../assets/c22c181f3822/1*uwscV3BrP3FWZIBh-CNY6g.jpeg)
 
 Men queue for lunch in Dunkirk\. Credit: [Mobile Refugee Support\.](https://www.facebook.com/MobileRefugeeSupport/photos/pcb.857230371149242/857225827816363/?type=3&theater)
 
@@ -304,7 +304,7 @@ There will be a protest in solidarity with asylum seekers at Place de la Républ
 ### Germany
 
 
-![Flashmob in support of refugees in Jena\. [Credit: @SimeonTrux](https://twitter.com/SimeonTrux/status/1052301464415158272?fbclid=IwAR2QZUENPUkjXLF_GaT0EctpNPaFKkwyvxiC_Y7oPh6NroRvdIWQk5z6H3o)](assets/c22c181f3822/1*YMi8TvkLXA9YNLd_W0c_TQ.jpeg)
+![Flashmob in support of refugees in Jena\. [Credit: @SimeonTrux](https://twitter.com/SimeonTrux/status/1052301464415158272?fbclid=IwAR2QZUENPUkjXLF_GaT0EctpNPaFKkwyvxiC_Y7oPh6NroRvdIWQk5z6H3o)](../assets/c22c181f3822/1*YMi8TvkLXA9YNLd_W0c_TQ.jpeg)
 
 Flashmob in support of refugees in Jena\. [Credit: @SimeonTrux](https://twitter.com/SimeonTrux/status/1052301464415158272?fbclid=IwAR2QZUENPUkjXLF_GaT0EctpNPaFKkwyvxiC_Y7oPh6NroRvdIWQk5z6H3o)
 ### Sweden

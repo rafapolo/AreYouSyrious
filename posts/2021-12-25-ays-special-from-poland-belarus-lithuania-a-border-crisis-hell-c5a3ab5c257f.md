@@ -1,5 +1,5 @@
 ---
-title: AYS Special from Poland, Belarus, Lithuania: A Border Crisis Hell
+title: "AYS Special from Poland, Belarus, Lithuania: A Border Crisis Hell"
 author: Are You Syrious?
 date: 2021-12-25T19:08:36.424+0000
 last_modified_at: 2021-12-25T19:08:36.424+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [special,poland,belarus,lithuania,refugees]
 description: Are You Syrious?
 image:
-  path: assets/c5a3ab5c257f/0*bsICrIoBav1xmiWu.jpeg
+  path: ../assets/c5a3ab5c257f/0*bsICrIoBav1xmiWu.jpeg
 ---
 
 ### AYS Special from Poland, Belarus, Lithuania: A Border Crisis Hell
 
 
-![](assets/c5a3ab5c257f/0*vZYjrf9ajkoXaBZp.jpeg)
+![](../assets/c5a3ab5c257f/0*vZYjrf9ajkoXaBZp.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----7f7019c3f26e-----------------------------------)
@@ -23,7 +23,7 @@ image:
 _In November, Ruhi Loren Akhtar \(Founder & CEO of Refugee Biriyani & Bananas\) travelled to the Poland, Lithuania, and Belarus border to assess the situation, raise awareness, and provide humanitarian aid, where possible, to the people who were affected and displaced there\. This is their report on what they found\._
 
 
-![](assets/c5a3ab5c257f/0*9AFjbnCbzJxU2sOl.jpeg)
+![](../assets/c5a3ab5c257f/0*9AFjbnCbzJxU2sOl.jpeg)
 
 
 What we found was a border crisis zone like no other\. It seemed like a warzone, with tanks, checkpoints, and military professionals wherever we turned in Poland\. There was an emergency red area where the borders joined from Lithuania and Poland to Belarus, which meant volunteers, humanitarians, media, and journalists could not enter there\.
@@ -66,11 +66,11 @@ Lorenzo reported that initially the people were scared to come out, hiding behin
 One of the men was elderly and was suffering from excruciating back pain\. Yet he did not want to call the medical services\. It is known that people have been pushed back after being in hospital\.
 
 
-![](assets/c5a3ab5c257f/0*v5JMAhsuxKfQxONZ.jpeg)
+![](../assets/c5a3ab5c257f/0*v5JMAhsuxKfQxONZ.jpeg)
 
 
 
-![](assets/c5a3ab5c257f/0*LHKfSH4v_Wu-g-YN.jpeg)
+![](../assets/c5a3ab5c257f/0*LHKfSH4v_Wu-g-YN.jpeg)
 
 
 They were shaking from cold\. Their feet extremely macerated due to being in wet conditions for so long\. The team left the emergency pack and supplies with them and offered some words of comfort\. It broke our hearts knowing that we had to leave them in the forest to sleep that night\.
@@ -89,11 +89,11 @@ We later learnt — that after all they had been through — when this group man
 We know of a child, four years old, who is missing in the Polish forest after she was separated from her family who were pushed back into Belarus\. Do you really think a four\-year\-old child can survive in a frozen forest alone?
 
 
-![](assets/c5a3ab5c257f/0*-cEQdolEWcU-SeV3.jpeg)
+![](../assets/c5a3ab5c257f/0*-cEQdolEWcU-SeV3.jpeg)
 
 
 
-![](assets/c5a3ab5c257f/0*bsICrIoBav1xmiWu.jpeg)
+![](../assets/c5a3ab5c257f/0*bsICrIoBav1xmiWu.jpeg)
 
 
 I say that this border crisis zone is like no other I have volunteered in\. It was not like the old Idomeni camp in Northern Greece along the border with Macedonia, where I could see thousands of people in tents\. It was not like ‘The Belgrade Barracks’ in Serbia, where there were over a thousand people squatting in a squalid abandoned warehouse\.

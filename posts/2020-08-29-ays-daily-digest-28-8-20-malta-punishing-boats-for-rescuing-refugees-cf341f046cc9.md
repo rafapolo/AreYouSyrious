@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: []
 description: Are You Syrious?
 image:
-  path: assets/cf341f046cc9/0*RQzy6WfcF6_-me-1.jpeg
+  path: ../assets/cf341f046cc9/0*RQzy6WfcF6_-me-1.jpeg
 ---
 
 ### AYS Daily Digest 28/8/20 \-Malta Punishing Boats for Rescuing Refugees
 
 
-![](assets/cf341f046cc9/0*MlfJy0kiOt1V_N0K.jpeg)
+![](../assets/cf341f046cc9/0*MlfJy0kiOt1V_N0K.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----74a60d90d7a----------------------)
@@ -23,11 +23,11 @@ image:
 Deaths after illegal pushbacks in Bosnia // Banksy’s Search\-and\-Rescue ship // Far\-right groups ‘migrant hunting’ in the UK // 130 people stranded at Sea
 
 
-![](assets/cf341f046cc9/0*HKJoIxBq7-AoaIY7)
+![](../assets/cf341f046cc9/0*HKJoIxBq7-AoaIY7)
 
 
 
-![](assets/cf341f046cc9/0*RQzy6WfcF6_-me-1.jpeg)
+![](../assets/cf341f046cc9/0*RQzy6WfcF6_-me-1.jpeg)
 
 
 Photo of the [\#LouiseMichel](https://twitter.com/hashtag/LouiseMichel?src=hashtag_click) after 89 people were rescued\. \(Photo Credit: twitter\.com/MVLouiseMichel\)

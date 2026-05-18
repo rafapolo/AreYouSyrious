@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 4–5/4/2020: Protests in German reception centres
+title: "AYS Weekend Digest 4–5/4/2020: Protests in German reception centres"
 author: Are You Syrious?
 date: 2020-04-06T14:18:34.000+0100
 last_modified_at: 2020-04-06T14:18:34.000+0100
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [digest,covid-19,lockdown,refugees,mediterranean]
 description: Are You Syrious?
 image:
-  path: assets/94a48d31b45b/0*72p108v-gxL7iBwQ.jpeg
+  path: ../assets/94a48d31b45b/0*72p108v-gxL7iBwQ.jpeg
 ---
 
 ### AYS Weekend Digest 4–5/4/2020: Protests in German reception centres
 
 
-![](assets/94a48d31b45b/0*iADfTRZ0rU-e-Riz.jpeg)
+![](../assets/94a48d31b45b/0*iADfTRZ0rU-e-Riz.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----fb632f5ad5f8----------------------)
@@ -23,11 +23,11 @@ image:
 Greece: Malakasa is the second camp in lockdown after one resident tested positive / Libya: people detained in Khoms left with no food / SEA: Rescues and returns in the Western Med / More from Germany, The Netherlands and Luxemburg
 
 
-![](assets/94a48d31b45b/0*hqhz9hRnei0h95iC)
+![](../assets/94a48d31b45b/0*hqhz9hRnei0h95iC)
 
 
 
-![](assets/94a48d31b45b/0*72p108v-gxL7iBwQ.jpeg)
+![](../assets/94a48d31b45b/0*72p108v-gxL7iBwQ.jpeg)
 
 ### FEATURE — Protests in German reception centres as more residents test positive
 
@@ -114,45 +114,45 @@ The same [local source states](https://web.facebook.com/iasonas.apos/posts/10163
 “Surely the state’s job?” I hear you ask, “aren’t they in charge of Moria? Didn’t you only [recently report](ays-daily-digest-02-04-2020-greek-ban-on-asylum-applications-overturned-774c42f072f0) that the EU were giving the Greek Government financial support to prevent the spread of COVID\-19 in camps?” Well… instead it is the residents themselves and [Team Humanity](https://web.facebook.com/sk.aldeen.3/posts/1654637514694738?hc_location=ufi) who have undertaken this task\.
 
 
-![](assets/94a48d31b45b/0*T1MlHXWop9NEsmtC)
+![](../assets/94a48d31b45b/0*T1MlHXWop9NEsmtC)
 
 
 
-![](assets/94a48d31b45b/0*yVa_HrhPNrE4ZHdr.jpeg)
+![](../assets/94a48d31b45b/0*yVa_HrhPNrE4ZHdr.jpeg)
 
 
 
-![](assets/94a48d31b45b/0*qsybBRedt9uMOT0Z)
+![](../assets/94a48d31b45b/0*qsybBRedt9uMOT0Z)
 
 
 
-![](assets/94a48d31b45b/0*9VaFflhkGC4iiv4r.jpeg)
+![](../assets/94a48d31b45b/0*9VaFflhkGC4iiv4r.jpeg)
 
 
 
-![](assets/94a48d31b45b/0*QipbcDHWDbFHQSNP)
+![](../assets/94a48d31b45b/0*QipbcDHWDbFHQSNP)
 
 
 
-![](assets/94a48d31b45b/0*NSvHkfpCIaId5QIg.jpeg)
+![](../assets/94a48d31b45b/0*NSvHkfpCIaId5QIg.jpeg)
 
 
 [**Moria Corona Awareness Team**](https://web.facebook.com/MoriaCoronaAwarenessTeam/photos/a.113457933616719/121079319521247/?type=3&__tn__=-R&hc_location=ufi) **Posters for Camps**
 
 
-![](assets/94a48d31b45b/0*70_bahb_ZBB7KcVz)
+![](../assets/94a48d31b45b/0*70_bahb_ZBB7KcVz)
 
 
 
-![](assets/94a48d31b45b/0*vTbJkxuwgIYrTM-p.jpeg)
+![](../assets/94a48d31b45b/0*vTbJkxuwgIYrTM-p.jpeg)
 
 
 
-![](assets/94a48d31b45b/0*we5tXcoO_-Jk3fga)
+![](../assets/94a48d31b45b/0*we5tXcoO_-Jk3fga)
 
 
 
-![](assets/94a48d31b45b/0*FDicy9iBvaZr2HjU.jpeg)
+![](../assets/94a48d31b45b/0*FDicy9iBvaZr2HjU.jpeg)
 
 
 **Leros Corona Awareness Team**
@@ -168,35 +168,35 @@ Now posters, awareness material and many more supplies will follow as well as ad
 Please consider to also support them with your donation: [https://standbymelesvos\.gr/support\-us/](https://l.facebook.com/l.php?u=https%3A%2F%2Fstandbymelesvos.gr%2Fsupport-us%2F%3Ffbclid%3DIwAR29bxfpceVfyhS7vLEvrD95x8qPMtMJE6NLSdhNxx5hmCG3Uqk7VqUArak&h=AT1Q4OgS0Sw3IcBKZG2zJoyGjZ2m2gtXYftMGli5_NTGl-7uqLHfQketHBH28hSqB93E3izAeDIAsMvKNSzpaab4VbwJCRy4EISXFiKv0wqjXCaoSGgJ4LCpyAemRgOmj1JsDbGEuq5DiBK8WK2AMtKKWcC7pvMBdWeBhrMT3DjHhJOALwh4vPYRGT33bux8LKZDYP18wFzlI26LQqAXSaux1-6OUUkUkauJo3cb7Bwb7jX7wrFG6MjB5ZP3jcSm5qY5NNkJSFSeyW6eACvB3xis1iUidJeaUwsEcPlAQ_XUbo-fCsvO08f7KK5F7hC0_XEe2DsINCTGMlsiSdI5iFV5nQahBhyFwYmQcWd085JE1JjPcVUTkFY_XN0ylh3PSdgGM-TrDBoQfor87StFKvRS7nq_tQOpwEq2-ZxvIKpuPFh45ENPGoPYfNEGY7AJVl_iQdvuJhabHjAG1gub3CrKM-wSQatjKd9_4nDRhmtYuc0PmnMLa7uKg2HquiKBR4_MTjH8bR7gh054kRSAX4Rx86gSap6o2VC_-hEQij5l-MS5sWq1LoFiz_ztdPIAxCQezFYFuGhb6N9TBuxpEa5K5M6IWWoYDu1x6KIVssNR6xRl2-aVkHIoIwfC3w)
 
 
-![](assets/94a48d31b45b/0*HukBfjAmBMQjEAWB)
+![](../assets/94a48d31b45b/0*HukBfjAmBMQjEAWB)
 
 
 
-![](assets/94a48d31b45b/0*VFUOxViPbKYEumhO.jpeg)
+![](../assets/94a48d31b45b/0*VFUOxViPbKYEumhO.jpeg)
 
 
 
-![](assets/94a48d31b45b/0*VXZUDw2IYYCJaVta)
+![](../assets/94a48d31b45b/0*VXZUDw2IYYCJaVta)
 
 
 
-![](assets/94a48d31b45b/0*a7oC6ZWrlsygMYRV.jpeg)
+![](../assets/94a48d31b45b/0*a7oC6ZWrlsygMYRV.jpeg)
 
 
 
-![](assets/94a48d31b45b/0*ir_Wuty0qsB0QaI-)
+![](../assets/94a48d31b45b/0*ir_Wuty0qsB0QaI-)
 
 
 
-![](assets/94a48d31b45b/0*VnPsC5HFtXuHeV9Z.jpeg)
+![](../assets/94a48d31b45b/0*VnPsC5HFtXuHeV9Z.jpeg)
 
 
 
-![](assets/94a48d31b45b/0*Lv4qAHqJ4wwOrStS)
+![](../assets/94a48d31b45b/0*Lv4qAHqJ4wwOrStS)
 
 
 
-![](assets/94a48d31b45b/0*U32kfQVCkuWFw9ox.jpeg)
+![](../assets/94a48d31b45b/0*U32kfQVCkuWFw9ox.jpeg)
 
 
 Even the children of Leros Hotspot seem much more equipped to protect the people in the camp than the Greek Government…
@@ -210,19 +210,19 @@ Another [THREAD](https://twitter.com/daniel_howden/status/1246738628040146944) h
 **Continued calls from residents, groups and activists to take action**
 
 
-![](assets/94a48d31b45b/0*M9g98G9u2FnTm5TX)
+![](../assets/94a48d31b45b/0*M9g98G9u2FnTm5TX)
 
 
 
-![](assets/94a48d31b45b/0*vE5JOv9XuaqhvoHb.jpeg)
+![](../assets/94a48d31b45b/0*vE5JOv9XuaqhvoHb.jpeg)
 
 
 
-![](assets/94a48d31b45b/0*HONufdlB3uBd6BHy)
+![](../assets/94a48d31b45b/0*HONufdlB3uBd6BHy)
 
 
 
-![](assets/94a48d31b45b/0*QYgPicsHvn_AMZ8J.jpeg)
+![](../assets/94a48d31b45b/0*QYgPicsHvn_AMZ8J.jpeg)
 
 
 The problem is, despite repeated calls and endless promises, few results can be seen\.
@@ -280,11 +280,11 @@ Given the slowness and the intricacy of the EU machine, we will keep updating yo
 This is what the “distribution” of 1,600 minors from the greek islands’ RICs to eight European countries looks like:
 
 
-![](assets/94a48d31b45b/0*rPNzrVsZMMTJffSy)
+![](../assets/94a48d31b45b/0*rPNzrVsZMMTJffSy)
 
 
 
-![](assets/94a48d31b45b/0*O62sLQCE4aLVkdo-.jpeg)
+![](../assets/94a48d31b45b/0*O62sLQCE4aLVkdo-.jpeg)
 
 
 THE NETHERLANDS

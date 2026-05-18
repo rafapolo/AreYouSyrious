@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 19/11/2018: “Human rights in the trash.”
+title: "AYS DAILY DIGEST 19/11/2018: “Human rights in the trash.”"
 author: Are You Syrious?
 date: 2018-11-20T09:37:18.672+0000
 last_modified_at: 2018-11-22T10:57:34.111+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,bosnia-and-herzegovina,bigest,winter,lesvos]
 description: First snow in the Balkans // Despite bad weather people still arriving to Greek islands // Another daemon spread his wings above the most…
 image:
-  path: assets/17d087db8712/1*lKG4z4Ghbn44M8fSkVsFDA.jpeg
+  path: ../assets/17d087db8712/1*lKG4z4Ghbn44M8fSkVsFDA.jpeg
 ---
 
 ### AYS Daily Digest 19/11/18: “Human rights in the trash\.”
@@ -15,49 +15,49 @@ image:
 _First snow in the Balkans // Despite bad weather people still arriving on Greek islands // Another daemon has spread his wings above the most vulnerable in France — drugs // Germany is looking for the way to deport more people…_
 
 
-![Camp Trnovi in Velika Kladusa, about 300 people are living here\. Photo SOS Team Kladusa\.](assets/17d087db8712/1*lKG4z4Ghbn44M8fSkVsFDA.jpeg)
+![Camp Trnovi in Velika Kladusa, about 300 people are living here\. Photo SOS Team Kladusa\.](../assets/17d087db8712/1*lKG4z4Ghbn44M8fSkVsFDA.jpeg)
 
 Camp Trnovi in Velika Kladusa, about 300 people are living here\. Photo SOS Team Kladusa\.
 
 During the night of Monday to Tuesday, all over the Balkans, but also in a big part of Europe, people who are forced to stay outside woke up in snow and heavy rain\. The situation on the Greek islands is threatening and everybody should be worried what will happen with those trapped in camps like Moria, Vial, Samos… The living conditions are unbearable, due to the lack of care from the governments and big organizations who are supposed to take care of people in need\.
 
 
-![Photo by Fotomovimento 15M\. “FUCK governments, FUCK borders\. [\#EU](https://www.facebook.com/hashtag/eu?source=feed_text&__xts__%5B0%5D=68.ARB58i3-pLkjjLy6wJMCEnb38rkq0nC7B2knrrD-G81-Hyz-3RaUWJdUAC2qHLDAG3vZaBcHrqaSHPYenllwUEPtJQLdVnJHiiEmfsK6KXLwzNQU9Ua8QNUUmYgd1GZvRU3SqeJiGkU3Wn3CZyhEetzqZQS9ZZAFipypsguomPlH18Fz8bfbRr-vHWeqnbbl35ILwb3Mm4dLsW39EkuP0TV-FHjWW9e3DnJcAGtsGkY7cpzkGT5K1Ypwsfvc7Jf6OB6hD9RbVCwsg24s9D-VdgplLKi3xLblCrJuh4ahQuPrX3fh1kmTAGfW-seNYUrM3N77XX2Cj24plorLBJ2cL8mHee77hEo8LyIUk89PLj-uwqPKUuMmUw&__tn__=%2ANK-R) , SHAME on you\! \!”](assets/17d087db8712/1*evnaVaIFib9jS-oe4hk3ZA.jpeg)
+![Photo by Fotomovimento 15M\. “FUCK governments, FUCK borders\. [\#EU](https://www.facebook.com/hashtag/eu?source=feed_text&__xts__%5B0%5D=68.ARB58i3-pLkjjLy6wJMCEnb38rkq0nC7B2knrrD-G81-Hyz-3RaUWJdUAC2qHLDAG3vZaBcHrqaSHPYenllwUEPtJQLdVnJHiiEmfsK6KXLwzNQU9Ua8QNUUmYgd1GZvRU3SqeJiGkU3Wn3CZyhEetzqZQS9ZZAFipypsguomPlH18Fz8bfbRr-vHWeqnbbl35ILwb3Mm4dLsW39EkuP0TV-FHjWW9e3DnJcAGtsGkY7cpzkGT5K1Ypwsfvc7Jf6OB6hD9RbVCwsg24s9D-VdgplLKi3xLblCrJuh4ahQuPrX3fh1kmTAGfW-seNYUrM3N77XX2Cj24plorLBJ2cL8mHee77hEo8LyIUk89PLj-uwqPKUuMmUw&__tn__=%2ANK-R) , SHAME on you\! \!”](../assets/17d087db8712/1*evnaVaIFib9jS-oe4hk3ZA.jpeg)
 
 Photo by Fotomovimento 15M\. “FUCK governments, FUCK borders\. [\#EU](https://www.facebook.com/hashtag/eu?source=feed_text&__xts__%5B0%5D=68.ARB58i3-pLkjjLy6wJMCEnb38rkq0nC7B2knrrD-G81-Hyz-3RaUWJdUAC2qHLDAG3vZaBcHrqaSHPYenllwUEPtJQLdVnJHiiEmfsK6KXLwzNQU9Ua8QNUUmYgd1GZvRU3SqeJiGkU3Wn3CZyhEetzqZQS9ZZAFipypsguomPlH18Fz8bfbRr-vHWeqnbbl35ILwb3Mm4dLsW39EkuP0TV-FHjWW9e3DnJcAGtsGkY7cpzkGT5K1Ypwsfvc7Jf6OB6hD9RbVCwsg24s9D-VdgplLKi3xLblCrJuh4ahQuPrX3fh1kmTAGfW-seNYUrM3N77XX2Cj24plorLBJ2cL8mHee77hEo8LyIUk89PLj-uwqPKUuMmUw&__tn__=%2ANK-R) , SHAME on you\! \!”
 
 
-![](assets/17d087db8712/1*GQOzSkO5j2qRKs0S2sm03Q.jpeg)
+![](../assets/17d087db8712/1*GQOzSkO5j2qRKs0S2sm03Q.jpeg)
 
 
 
-![Vial Chios, Photo by Ruhi Loren, an independent volunteer\.](assets/17d087db8712/1*6E-VROH6To2_WRtdfgnYyQ.jpeg)
+![Vial Chios, Photo by Ruhi Loren, an independent volunteer\.](../assets/17d087db8712/1*6E-VROH6To2_WRtdfgnYyQ.jpeg)
 
 Vial Chios, Photo by Ruhi Loren, an independent volunteer\.
 
 The situation in Bosnia is catastrophic\. The IOM, the organization that is supposed to take care of people in Bosnia and which is running the newly opened camps in this country, as well as their partners in the UNHCR, are not doing enough to help to all the people and there are many sleeping in the streets of Sarajevo and other cities\. Volunteers in Kladusa are trying to keep offering some kind of help\.
 
 
-![](assets/17d087db8712/1*O0l1ui9HVIJhAEwfnWynCA.jpeg)
+![](../assets/17d087db8712/1*O0l1ui9HVIJhAEwfnWynCA.jpeg)
 
 
 
-![](assets/17d087db8712/1*k1ropdJvX5-bDyi8lnDZ_w.jpeg)
+![](../assets/17d087db8712/1*k1ropdJvX5-bDyi8lnDZ_w.jpeg)
 
 
 
-![Photo by No Name Kitchen, shower place in Velika Kladusa\.](assets/17d087db8712/1*rl7GrtdgH74vz0tpCxOhgA.jpeg)
+![Photo by No Name Kitchen, shower place in Velika Kladusa\.](../assets/17d087db8712/1*rl7GrtdgH74vz0tpCxOhgA.jpeg)
 
 Photo by No Name Kitchen, shower place in Velika Kladusa\.
 
 SOS Team Kladusa is in camp Trnovi camp\.
 
 
-![](assets/17d087db8712/1*UWdLYJnobmepHEc-gGJoQg.jpeg)
+![](../assets/17d087db8712/1*UWdLYJnobmepHEc-gGJoQg.jpeg)
 
 
 
-![](assets/17d087db8712/1*PK2bkudQUKikGtaxOTKhRA.jpeg)
+![](../assets/17d087db8712/1*PK2bkudQUKikGtaxOTKhRA.jpeg)
 
 
 **Help is desperately needed\. Above all, pressure on the IOM and the UNHCR to accommodate people in decent places\.** In the case of Bosnia, this is fully their responsibility since so far they have received over 10 million Euros from the European funds to help the fewer than 10,000 people in this country\. It is absurd that anybody is left outside with that amount of money\.
@@ -71,11 +71,11 @@ People who are taken off the buses are left to stay overnight in Ključ, in a te
 During the night, 64 people slept in water, under the tent provided by the Red Cross\. “We tried to contact those who are responsible to bring the bus and transfer people, but with no success… Despite all our efforts to help migrants, we can only provide a lunch packet and first aid, while everything else is not our responsibility\.”
 
 
-![](assets/17d087db8712/1*7O2P4BmLYerA4FW7icY4zQ.jpeg)
+![](../assets/17d087db8712/1*7O2P4BmLYerA4FW7icY4zQ.jpeg)
 
 
 
-![Photos by Red Cross Ključ](assets/17d087db8712/1*NKlSMBO8g21keJHbjp2SDw.jpeg)
+![Photos by Red Cross Ključ](../assets/17d087db8712/1*NKlSMBO8g21keJHbjp2SDw.jpeg)
 
 Photos by Red Cross Ključ
 
@@ -108,7 +108,7 @@ At least 79 people are still refusing to leave the ship anchored in the port of 
 A total of 44 people were rescued by the Turkish coast guard from a boat which set off from Gömeç towards Lesvos, according to the [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?__tn__=%2CdkCH-R-R&eid=ARCoRu5v3oPUdI4xJJoJHbw6KUObCup9gPfvrEcokYHXC7J7MIP0N0TR25MNBIqJrTMJMzwaKpVFlbvN&hc_ref=ARRqaxF1r5ZUkMnCz9mLWvTqdJnneeKIFb60T0Ewiz7iKhIOBt1IjjKvTkS2cPtgi-U&fref=nf) \. Due to bad weather, the boat ended up on Yumurta Island, Ayvalik\. The people were transported to port Ayvalik, back to Turkey\.
 
 
-![](assets/17d087db8712/1*27GXdrYSw_rsSIPKc9zDWg.jpeg)
+![](../assets/17d087db8712/1*27GXdrYSw_rsSIPKc9zDWg.jpeg)
 
 ### Greece
 
@@ -143,7 +143,7 @@ So far this year, 22,450 people have arrived\. Only in November, 495 new people 
 ### Bosnia
 
 
-![Photo by Elio Germani, No Name Kitchen Velika Kladusa\.](assets/17d087db8712/1*-GgEzJ4UGHRsYLAbmwtWyg.jpeg)
+![Photo by Elio Germani, No Name Kitchen Velika Kladusa\.](../assets/17d087db8712/1*-GgEzJ4UGHRsYLAbmwtWyg.jpeg)
 
 Photo by Elio Germani, No Name Kitchen Velika Kladusa\.
 
@@ -195,7 +195,7 @@ France
 [Rastplatz](https://www.facebook.com/rastplatz/?__tn__=%2CdkCH-R-R&eid=ARBJtHgoq8x5B32n7MMDcKV1Jlfo0c9kCIldcO7ekih3tznOQk2E587ivKsI8Bfr13qg3GMGe86VvCDX&hc_ref=ART-lBiqMl5itK5LwwCRCv3W3g3Q4Z-d5jdoKzZuGn9fLnDpnU14ae2_erchVx2PC0Y&fref=nf&hc_location=group) report about “another demon” in the streets of Paris\.
 
 
-![](assets/17d087db8712/1*odvQWVqmBn9JWaqMapL-5Q.jpeg)
+![](../assets/17d087db8712/1*odvQWVqmBn9JWaqMapL-5Q.jpeg)
 
 
 “It is the third winter we have been active in Paris\. The situation hasn’t changed much — we counted 1,122 people a few days ago, and many more are hidden in unknown places\.

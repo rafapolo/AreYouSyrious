@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 14/10/22: Frontex covered up human rights violations and illegal refoulements, OLAF…
+title: "AYS News Digest 14/10/22: Frontex covered up human rights violations and illegal refoulements, OLAF…"
 author: Are You Syrious?
 date: 2022-10-15T13:40:12.524+0100
 last_modified_at: 2022-10-15T17:18:03.353+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: []
 description: OLAF report reveals Frontex’s complicity in systematic pushbacks/ Hunger strike in Polish detention centre/ The person treated inhumanely…
 image:
-  path: assets/7d5891322b25/1*EEfw-xIgmg32HOfbCXDh0A.jpeg
+  path: ../assets/7d5891322b25/1*EEfw-xIgmg32HOfbCXDh0A.jpeg
 ---
 
 ### AYS News Digest 14/10/22: Frontex covered up human rights violations and illegal refoulements, OLAF report proves
 #### OLAF report reveals Frontex’s complicity in systematic pushbacks/ Hunger strike in Polish detention centre/ The person treated inhumanely at the Polish border is still missing/ Inhumane treatment and asylum right violations in Latvia according to Amnesty International report/ Court of Ragusa rules insulting immigrants on social networks is a crime/ Asylum seekers left without any shelter in Belgium// And more
 
 
-![Via [Frontex](https://twitter.com/Frontex/status/1580812513498701825)](assets/7d5891322b25/1*EEfw-xIgmg32HOfbCXDh0A.jpeg)
+![Via [Frontex](https://twitter.com/Frontex/status/1580812513498701825)](../assets/7d5891322b25/1*EEfw-xIgmg32HOfbCXDh0A.jpeg)
 
 Via [Frontex](https://twitter.com/Frontex/status/1580812513498701825)
 #### FEATURE
@@ -102,7 +102,7 @@ Read more about the OLAF report here:
 ### People on the move increase in Serbia
 
 
-![Credit: [KlikAktiv](https://www.facebook.com/klikaktiv/posts/pfbid02MVEhmAKsXPwyfiZoPv5z3RoBS8d51J4QA5mGGxFwPmcreor48Rr9heqQaTN3Q6fil)](assets/7d5891322b25/1*-Z4W3OFQw_sKcEwvLVZxcA.jpeg)
+![Credit: [KlikAktiv](https://www.facebook.com/klikaktiv/posts/pfbid02MVEhmAKsXPwyfiZoPv5z3RoBS8d51J4QA5mGGxFwPmcreor48Rr9heqQaTN3Q6fil)](../assets/7d5891322b25/1*-Z4W3OFQw_sKcEwvLVZxcA.jpeg)
 
 Credit: [KlikAktiv](https://www.facebook.com/klikaktiv/posts/pfbid02MVEhmAKsXPwyfiZoPv5z3RoBS8d51J4QA5mGGxFwPmcreor48Rr9heqQaTN3Q6fil)
 

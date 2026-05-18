@@ -1,5 +1,5 @@
 ---
-title: AYS digest 19/9: Overcrowding, despair, and riots, or self-determination?
+title: "AYS digest 19/9: Overcrowding, despair, and riots, or self-determination?"
 author: Are You Syrious?
 date: 2016-09-19T22:58:26.049+0100
 last_modified_at: 2016-09-21T19:02:33.248+0100
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe,syria,united-nations,politics]
 description: General
 image:
-  path: assets/512393f8ccb3/1*w_AJCwdhsASQv8zzGVWLKQ.jpeg
+  path: ../assets/512393f8ccb3/1*w_AJCwdhsASQv8zzGVWLKQ.jpeg
 ---
 
 ### AYS digest 19/9: Overcrowding, despair, and riots, or self\-determination?
 
 
-![Fire raging in Moria camp in Lesvos after clashes](assets/512393f8ccb3/1*w_AJCwdhsASQv8zzGVWLKQ.jpeg)
+![Fire raging in Moria camp in Lesvos after clashes](../assets/512393f8ccb3/1*w_AJCwdhsASQv8zzGVWLKQ.jpeg)
 
 Fire raging in Moria camp in Lesvos after clashes
 #### General
@@ -69,7 +69,7 @@ Currently, we are receiving reports that camp the has nearly entirely burned to 
 We will try to provide more clarification tomorrow\.
 
 
-![Moria burning](assets/512393f8ccb3/1*VhquQQOu46PzHZf_7Vst4Q.jpeg)
+![Moria burning](../assets/512393f8ccb3/1*VhquQQOu46PzHZf_7Vst4Q.jpeg)
 
 Moria burning
 ### **With solidarity and organization, people take over two camps in the Greek mainland**
@@ -81,7 +81,7 @@ In Oraiokastro, a council consisting of community leaders and well\-educated ref
 We support these moves for dignity and control over one’s lives more than we can express in words, and will continue to follow this story\. We hope that these kinds of self\-organization and internal democratic procedures will spread, giving people a say even in such dire circumstances as the camps\. Power to them and all of us rooting over here\! Follow them on their [FB page](https://www.facebook.com/The-Voices-of-Oraiokastro-1627523520892089/?fref=ts) \.
 
 
-![Selforganized food distribution in Oraiokastro](assets/512393f8ccb3/1*axOjxgUTDZhOVahr4Xfb6g.jpeg)
+![Selforganized food distribution in Oraiokastro](../assets/512393f8ccb3/1*axOjxgUTDZhOVahr4Xfb6g.jpeg)
 
 Selforganized food distribution in Oraiokastro
 ### **Info on interviews and relocations**
@@ -98,7 +98,7 @@ RefuComm urgently needs help translating from English to Greek and vice versa\. 
 A new camp has opened in Como, Italy\. The camp can host up to 300 people and is run by Red Cross\. It seems to be furnished with air\-conditioned containers\. No fingerprints will be taken in the camp and people can enter and leave freely between the hours of 7:30 and 22h\. If people leave the camp for more than 72 hours at a time, however, they will not have access to it again\. For more information,follow the [link](https://www.facebook.com/osservatoriomigranticomo/posts/829364483864923?hc_location=ufi) \.
 
 
-![New camp in Como is led by Red cross](assets/512393f8ccb3/1*krKkpF0cP_naKxHtSmR3kQ.jpeg)
+![New camp in Como is led by Red cross](../assets/512393f8ccb3/1*krKkpF0cP_naKxHtSmR3kQ.jpeg)
 
 New camp in Como is led by Red cross
 ### **Tailoring workshop in Milan**
@@ -138,7 +138,7 @@ Theresa May, the Conservative prime minister, addressed the UN on Monday, spouti
 Meanwhile, in her ownbackyard, protesters have laid thousands of used life jackets in Parliament Square to try and prompt a real conversation on those issues\. Clearly, the establishment is not listening to the streets — or even looking at them\.
 
 
-![](assets/512393f8ccb3/1*ktSo3JDBPo5UiJvdrnmhBA.jpeg)
+![](../assets/512393f8ccb3/1*ktSo3JDBPo5UiJvdrnmhBA.jpeg)
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 09/03/2021: Guilty verdict for two in Moria fire trial
+title: "AYS Daily Digest 09/03/2021: Guilty verdict for two in Moria fire trial"
 author: Are You Syrious?
 date: 2021-03-10T13:36:48.559+0000
 last_modified_at: 2021-03-10T13:36:48.559+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [moria,search-and-rescue,tunisia,refugees,libya]
 description: Small fire in new Lesvos camp // People freed from detention in Libya // Shipwrecks off Tunisia // Evros border fence nears completion //…
 image:
-  path: assets/2993f1ae6a7d/1*iKo2cHUMO5ZyRUmrbEU2lA.jpeg
+  path: ../assets/2993f1ae6a7d/1*iKo2cHUMO5ZyRUmrbEU2lA.jpeg
 ---
 
 ### AYS Daily Digest 09/03/2021: Guilty verdict for two in Moria fire trial
 #### Small fire in new Lesvos camp // People freed from detention in Libya // Shipwrecks off Tunisia // Evros border fence nears completion // Raids in Romanian city // Rescue in the Canaries // Extension of ban on food distro in Calais
 
 
-![Avlona prison, north of Athens \(Photo source: [Protothema news](http://en.protothema.gr/clashes-broke-out-in-avlona-prison/) \)](assets/2993f1ae6a7d/1*iKo2cHUMO5ZyRUmrbEU2lA.jpeg)
+![Avlona prison, north of Athens \(Photo source: [Protothema news](http://en.protothema.gr/clashes-broke-out-in-avlona-prison/) \)](../assets/2993f1ae6a7d/1*iKo2cHUMO5ZyRUmrbEU2lA.jpeg)
 
 Avlona prison, north of Athens \(Photo source: [Protothema news](http://en.protothema.gr/clashes-broke-out-in-avlona-prison/) \)
 ### FEATURE: Guilty verdict in Moria fire trial — and another fire

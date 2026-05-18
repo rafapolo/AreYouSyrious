@@ -1,5 +1,5 @@
 ---
-title: AYS Daily News Digest 4/12/18: Denmark’s concerning aims for isolation
+title: "AYS Daily News Digest 4/12/18: Denmark’s concerning aims for isolation"
 author: Are You Syrious?
 date: 2018-12-05T12:17:17.765+0000
 last_modified_at: 2018-12-05T16:15:14.893+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,europe,digest,denmark,germany]
 description: What is going on in Denmark? / ERCI activists to be released on bail / Possible deportations in Austria, protest against German…
 image:
-  path: assets/4bd06e5c0ceb/1*Zuu_Pw5War2_xT2l-HHibQ.jpeg
+  path: ../assets/4bd06e5c0ceb/1*Zuu_Pw5War2_xT2l-HHibQ.jpeg
 ---
 
 ### AYS Daily News Digest 4/12/18: Denmark’s concerning aims for isolation
 #### _What is going on in Denmark? / ERCI activists to be released on bail / Possible deportations in Austria, protest against German deportations to Afghanistan / Makeshift camp in V\. Kladuša dismantled / New deaths off the Libyan coast — join the London protest against torture / Alarming mental health situation on Nauru / more news_
 
 
-![Protesting deportations in the Frankfurt airport \(Photo: [Hessischer Flüchtlingsrat](https://www.facebook.com/fr.hessen/?tn-str=k%2AF) \)](assets/4bd06e5c0ceb/1*Zuu_Pw5War2_xT2l-HHibQ.jpeg)
+![Protesting deportations in the Frankfurt airport \(Photo: [Hessischer Flüchtlingsrat](https://www.facebook.com/fr.hessen/?tn-str=k%2AF) \)](../assets/4bd06e5c0ceb/1*Zuu_Pw5War2_xT2l-HHibQ.jpeg)
 
 Protesting deportations in the Frankfurt airport \(Photo: [Hessischer Flüchtlingsrat](https://www.facebook.com/fr.hessen/?tn-str=k%2AF) \)
 #### FEATURE
@@ -64,7 +64,7 @@ A [recent report from a state institution](https://menneskeret.dk/udgivelser/fam
 Apart from everything else that the report documents, it is also clear that family reunifications will become barely possible, contingent on a given family’s economic situation\. Now, a mother or father will be expected to save up money for flight tickets and visa fees if or when a permission for family reunification is granted\.
 
 
-![by: [حقوقنا في الدنمارك](https://www.facebook.com/%D8%AD%D9%82%D9%88%D9%82%D9%86%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%86%D9%85%D8%A7%D8%B1%D9%83-2332902223386875/?__xts__%5B0%5D=68.ARDEs1TJbguTz0OhWa_ZNZMoAtOLsoWhJEDStBcfACSUiH8q8oSEzxp0bE7mL3IHmZFCY8o0FCcDd7cKKsVkNX25kv82PrFLHHnn35nuUwBs0b_55pxiuDpGx3XKJYXT4lhjKGh2Fq6FFxtjCaTN9tJwuEvU6Fh09_9HkFGn8P_ZZL5jOGOgqgI92ON8S-HHmmO8M93WkmhB_Ky9Fj8dqjizdpXndw5y5PFG_Y2o1ofCFBTAYAO-CWw8SgehSZUwkxfdHr_Bzr0mp3JX2JcfWC5TsBFysEIk4NYuPLFmgO5LcovKhqHAVpEznRrJcwyhoFoDWIajFyRsuBj86HQ1qHb58Gm1&__tn__=k%2AF&tn-str=k%2AF)](assets/4bd06e5c0ceb/1*at8IvQMhHAbBQP8xtIhNZw.jpeg)
+![by: [حقوقنا في الدنمارك](https://www.facebook.com/%D8%AD%D9%82%D9%88%D9%82%D9%86%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%86%D9%85%D8%A7%D8%B1%D9%83-2332902223386875/?__xts__%5B0%5D=68.ARDEs1TJbguTz0OhWa_ZNZMoAtOLsoWhJEDStBcfACSUiH8q8oSEzxp0bE7mL3IHmZFCY8o0FCcDd7cKKsVkNX25kv82PrFLHHnn35nuUwBs0b_55pxiuDpGx3XKJYXT4lhjKGh2Fq6FFxtjCaTN9tJwuEvU6Fh09_9HkFGn8P_ZZL5jOGOgqgI92ON8S-HHmmO8M93WkmhB_Ky9Fj8dqjizdpXndw5y5PFG_Y2o1ofCFBTAYAO-CWw8SgehSZUwkxfdHr_Bzr0mp3JX2JcfWC5TsBFysEIk4NYuPLFmgO5LcovKhqHAVpEznRrJcwyhoFoDWIajFyRsuBj86HQ1qHb58Gm1&__tn__=k%2AF&tn-str=k%2AF)](../assets/4bd06e5c0ceb/1*at8IvQMhHAbBQP8xtIhNZw.jpeg)
 
 by: [حقوقنا في الدنمارك](https://www.facebook.com/%D8%AD%D9%82%D9%88%D9%82%D9%86%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%86%D9%85%D8%A7%D8%B1%D9%83-2332902223386875/?__xts__%5B0%5D=68.ARDEs1TJbguTz0OhWa_ZNZMoAtOLsoWhJEDStBcfACSUiH8q8oSEzxp0bE7mL3IHmZFCY8o0FCcDd7cKKsVkNX25kv82PrFLHHnn35nuUwBs0b_55pxiuDpGx3XKJYXT4lhjKGh2Fq6FFxtjCaTN9tJwuEvU6Fh09_9HkFGn8P_ZZL5jOGOgqgI92ON8S-HHmmO8M93WkmhB_Ky9Fj8dqjizdpXndw5y5PFG_Y2o1ofCFBTAYAO-CWw8SgehSZUwkxfdHr_Bzr0mp3JX2JcfWC5TsBFysEIk4NYuPLFmgO5LcovKhqHAVpEznRrJcwyhoFoDWIajFyRsuBj86HQ1qHb58Gm1&__tn__=k%2AF&tn-str=k%2AF)
 
@@ -73,7 +73,7 @@ Read more on the situation in the deportation centre Sjælsmark under ‘Denmark
 Recently, a status widely shared among the refugees and asylum seekers in Denmark says:
 
 
-![“Dear Danish government, give back my fingerprints — and keep Denmark for yourself\.”](assets/4bd06e5c0ceb/1*K-elJx8wkrK6scwCfYJqhw.jpeg)
+![“Dear Danish government, give back my fingerprints — and keep Denmark for yourself\.”](../assets/4bd06e5c0ceb/1*K-elJx8wkrK6scwCfYJqhw.jpeg)
 
 “Dear Danish government, give back my fingerprints — and keep Denmark for yourself\.”
 #### SYRIA
@@ -106,7 +106,7 @@ Recently, a status widely shared among the refugees and asylum seekers in Denmar
 
 
 
-![[Full report](https://www.unicef.org/emergencies/files/2018-04_-_UNICEF_response_to_the_Syria_Crisis.pdf) , via [Humans of Aleppo](https://www.facebook.com/humansofaleppo/?__xts__%5B0%5D=68.ARBE5-1vJhKbPyXtklPajI_UEXL52mDDxzX2TruqYL7ArZ07JjfIClSdpsj28LrBmujXNva6KkKrLqrYQkaOTTxU4z-Uencs0BYy7RG68VH-qyNHBbdRZEuQ3O3f_vlScSHB0xkWGgszzqFml3bV6T9CI8ibeb1_Mbr_tMq22PFK0FDhLsGwrpb3shPof8X0CgQFHoBxNtAM3fruoDPcCW7cQit-Z8PGcTIWK8iV8TDbODgC1qvYRf9Uwy363mXsdNC8V1nDBwNf12lpmdT0_fBogogz3ch3GtooYiwp7gsHwCURwREHKJWY1uDPniarLhdvD7hNQksD_HfivlObYXK1LzEfjDJTXf0cbTMafNMWECCD&__tn__=k%2AF&tn-str=k%2AF)](assets/4bd06e5c0ceb/1*j8jYYt2PkW6g0XvfAyc68w.jpeg)
+![[Full report](https://www.unicef.org/emergencies/files/2018-04_-_UNICEF_response_to_the_Syria_Crisis.pdf) , via [Humans of Aleppo](https://www.facebook.com/humansofaleppo/?__xts__%5B0%5D=68.ARBE5-1vJhKbPyXtklPajI_UEXL52mDDxzX2TruqYL7ArZ07JjfIClSdpsj28LrBmujXNva6KkKrLqrYQkaOTTxU4z-Uencs0BYy7RG68VH-qyNHBbdRZEuQ3O3f_vlScSHB0xkWGgszzqFml3bV6T9CI8ibeb1_Mbr_tMq22PFK0FDhLsGwrpb3shPof8X0CgQFHoBxNtAM3fruoDPcCW7cQit-Z8PGcTIWK8iV8TDbODgC1qvYRf9Uwy363mXsdNC8V1nDBwNf12lpmdT0_fBogogz3ch3GtooYiwp7gsHwCURwREHKJWY1uDPniarLhdvD7hNQksD_HfivlObYXK1LzEfjDJTXf0cbTMafNMWECCD&__tn__=k%2AF&tn-str=k%2AF)](../assets/4bd06e5c0ceb/1*j8jYYt2PkW6g0XvfAyc68w.jpeg)
 
 [Full report](https://www.unicef.org/emergencies/files/2018-04_-_UNICEF_response_to_the_Syria_Crisis.pdf) , via [Humans of Aleppo](https://www.facebook.com/humansofaleppo/?__xts__%5B0%5D=68.ARBE5-1vJhKbPyXtklPajI_UEXL52mDDxzX2TruqYL7ArZ07JjfIClSdpsj28LrBmujXNva6KkKrLqrYQkaOTTxU4z-Uencs0BYy7RG68VH-qyNHBbdRZEuQ3O3f_vlScSHB0xkWGgszzqFml3bV6T9CI8ibeb1_Mbr_tMq22PFK0FDhLsGwrpb3shPof8X0CgQFHoBxNtAM3fruoDPcCW7cQit-Z8PGcTIWK8iV8TDbODgC1qvYRf9Uwy363mXsdNC8V1nDBwNf12lpmdT0_fBogogz3ch3GtooYiwp7gsHwCURwREHKJWY1uDPniarLhdvD7hNQksD_HfivlObYXK1LzEfjDJTXf0cbTMafNMWECCD&__tn__=k%2AF&tn-str=k%2AF)
 #### MOROCCO
@@ -164,7 +164,7 @@ Everyone else wonders: what regular way is being offered to these people so they
 As for the officially registered people on the islands, here is the usual report:
 
 
-![](assets/4bd06e5c0ceb/1*0Ly84dwh6lvSvxoP3pcjmg.jpeg)
+![](../assets/4bd06e5c0ceb/1*0Ly84dwh6lvSvxoP3pcjmg.jpeg)
 
 #### No legal aid for people on the islands
 
@@ -211,12 +211,12 @@ Good news for three jailed activists in the case of criminal accusations brought
 
 
 
-![Photos: [NoBorders](https://www.facebook.com/nobordersnetwork/?tn-str=k%2AF)](assets/4bd06e5c0ceb/1*c5AQmqb7nZ_7RlbZrVIpuw.jpeg)
+![Photos: [NoBorders](https://www.facebook.com/nobordersnetwork/?tn-str=k%2AF)](../assets/4bd06e5c0ceb/1*c5AQmqb7nZ_7RlbZrVIpuw.jpeg)
 
 Photos: [NoBorders](https://www.facebook.com/nobordersnetwork/?tn-str=k%2AF)
 
 
-![](assets/4bd06e5c0ceb/1*Q0NtYFTzUnbY2tYpPUBc6A.jpeg)
+![](../assets/4bd06e5c0ceb/1*Q0NtYFTzUnbY2tYpPUBc6A.jpeg)
 
 
 Stories turn up on daily basis all along the Balkan route where the locals and people on the move come in contact through different ways, their lives intertwined because of the risky forms of travelling people are forced to use to in order to reach their final destination — safety\.
@@ -259,7 +259,7 @@ As we reported time and time again in earlier news digest editions, the situatio
 The makeshift camp Trnovi is being dismantled and closed, sending everyone who was still staying there to the Miral company’s facility in the part of Velika Kladuša called Polje\.
 
 
-![They had 30 minutes in the morning between the police arrived and the time they burned the tents\. Employees of the Komunalija cleaning company cleaned up the area\. — Photo: AYS](assets/4bd06e5c0ceb/1*ef2KDkFz0lmJCXr4BQ53zg.jpeg)
+![They had 30 minutes in the morning between the police arrived and the time they burned the tents\. Employees of the Komunalija cleaning company cleaned up the area\. — Photo: AYS](../assets/4bd06e5c0ceb/1*ef2KDkFz0lmJCXr4BQ53zg.jpeg)
 
 They had 30 minutes in the morning between the police arrived and the time they burned the tents\. Employees of the Komunalija cleaning company cleaned up the area\. — Photo: AYS
 
@@ -269,11 +269,11 @@ This improvised camp \(Trnovi\) was formed by the municipality in May this year 
 The authorities claim everyone from the student home Borići in Bihać was transferred to the reception centre Bira\. They claim the infrastructure is being rebuilt in order to accommodate 550 families\.
 
 
-![](assets/4bd06e5c0ceb/1*HiT7lRTy-Q5ursSaYebOlQ.jpeg)
+![](../assets/4bd06e5c0ceb/1*HiT7lRTy-Q5ursSaYebOlQ.jpeg)
 
 
 
-![Borići camp in the former student dormitory building \(Photos: [Zilvia Marauan](https://www.facebook.com/zilvia.marauan?__tn__=%2Cd%2AF%2AF-R&eid=ARDi_x_-CIeDCwUYn6NLberHrxgnjRXyLf_Om4tFLHUmd4z_iTixfb8T86O9FTV6z4PZQxmMJIiP2riI&tn-str=%2AF) \)](assets/4bd06e5c0ceb/1*0WkGBgr1y979J5SvWkKlZA.jpeg)
+![Borići camp in the former student dormitory building \(Photos: [Zilvia Marauan](https://www.facebook.com/zilvia.marauan?__tn__=%2Cd%2AF%2AF-R&eid=ARDi_x_-CIeDCwUYn6NLberHrxgnjRXyLf_Om4tFLHUmd4z_iTixfb8T86O9FTV6z4PZQxmMJIiP2riI&tn-str=%2AF) \)](../assets/4bd06e5c0ceb/1*0WkGBgr1y979J5SvWkKlZA.jpeg)
 
 Borići camp in the former student dormitory building \(Photos: [Zilvia Marauan](https://www.facebook.com/zilvia.marauan?__tn__=%2Cd%2AF%2AF-R&eid=ARDi_x_-CIeDCwUYn6NLberHrxgnjRXyLf_Om4tFLHUmd4z_iTixfb8T86O9FTV6z4PZQxmMJIiP2riI&tn-str=%2AF) \)
 
@@ -287,15 +287,15 @@ In spite of growing tendencies to overlook this crisis — caused by lack of pol
 
 
 
-![](assets/4bd06e5c0ceb/1*blSlF258Oyaf1WjchRQ6sA.jpeg)
+![](../assets/4bd06e5c0ceb/1*blSlF258Oyaf1WjchRQ6sA.jpeg)
 
 
 
-![](assets/4bd06e5c0ceb/1*0CWWDGHMw6UjMgZ1lpv_Xw.jpeg)
+![](../assets/4bd06e5c0ceb/1*0CWWDGHMw6UjMgZ1lpv_Xw.jpeg)
 
 
 
-![Bihać, ‘camp’ Bira \(Photos: [Zilvia Marauan](https://www.facebook.com/zilvia.marauan?__tn__=%2Cd%2AF%2AF-R&eid=ARBvNdrRgEdU650yT-U95A_vxqWap81Lwpsxx0le83P6eaF6NsqkYxSutFMJXcJldTkrZywjvtGG6mrn&tn-str=%2AF) \)](assets/4bd06e5c0ceb/1*YOpvDGHkug_SIRsAyN_PWg.jpeg)
+![Bihać, ‘camp’ Bira \(Photos: [Zilvia Marauan](https://www.facebook.com/zilvia.marauan?__tn__=%2Cd%2AF%2AF-R&eid=ARBvNdrRgEdU650yT-U95A_vxqWap81Lwpsxx0le83P6eaF6NsqkYxSutFMJXcJldTkrZywjvtGG6mrn&tn-str=%2AF) \)](../assets/4bd06e5c0ceb/1*YOpvDGHkug_SIRsAyN_PWg.jpeg)
 
 Bihać, ‘camp’ Bira \(Photos: [Zilvia Marauan](https://www.facebook.com/zilvia.marauan?__tn__=%2Cd%2AF%2AF-R&eid=ARBvNdrRgEdU650yT-U95A_vxqWap81Lwpsxx0le83P6eaF6NsqkYxSutFMJXcJldTkrZywjvtGG6mrn&tn-str=%2AF) \)
 #### ITALY
@@ -314,19 +314,19 @@ _”Are the benches really damaging the Christmas spirit?”_ asked the former c
 ### Stop the deportations
 
 
-![](assets/4bd06e5c0ceb/1*dSUL4l1T8HKCe6dYDa5AbA.jpeg)
+![](../assets/4bd06e5c0ceb/1*dSUL4l1T8HKCe6dYDa5AbA.jpeg)
 
 
 
-![](assets/4bd06e5c0ceb/1*Yo7mcCc0ajq5BDZ4EaSeZQ.jpeg)
+![](../assets/4bd06e5c0ceb/1*Yo7mcCc0ajq5BDZ4EaSeZQ.jpeg)
 
 
 
-![](assets/4bd06e5c0ceb/1*JS8ExiOigQibZFNBAKlkmg.jpeg)
+![](../assets/4bd06e5c0ceb/1*JS8ExiOigQibZFNBAKlkmg.jpeg)
 
 
 
-![](assets/4bd06e5c0ceb/1*9y4tNbxJpuhiq3H9RXHbRg.jpeg)
+![](../assets/4bd06e5c0ceb/1*9y4tNbxJpuhiq3H9RXHbRg.jpeg)
 
 ### Human Rights Award 2018 for LIFELINE captain
 
@@ -355,15 +355,15 @@ The President of the Austrian League for Human Rights explained her decision for
 A [protest](https://www.facebook.com/events/322181978507088/) was held at the Frankfurt airport against the dubious decisions underlying deportations to Afghanistan, where a war has been going on as long as anybody remembers, and in many ways is still getting worse\.
 
 
-![](assets/4bd06e5c0ceb/1*r1XLiI_NSxNMpG6AGHEJBg.jpeg)
+![](../assets/4bd06e5c0ceb/1*r1XLiI_NSxNMpG6AGHEJBg.jpeg)
 
 
 
-![](assets/4bd06e5c0ceb/1*AbTKIn21nQMHftMdnEWC4Q.jpeg)
+![](../assets/4bd06e5c0ceb/1*AbTKIn21nQMHftMdnEWC4Q.jpeg)
 
 
 
-![Tuesday’s anti\-deportation protest in Frankfurt \(Photos: [Hessischer Flüchtlingsrat](https://www.facebook.com/fr.hessen/?tn-str=k%2AF) \)](assets/4bd06e5c0ceb/1*z_yXifwpIvAiIgKUoTpxuA.jpeg)
+![Tuesday’s anti\-deportation protest in Frankfurt \(Photos: [Hessischer Flüchtlingsrat](https://www.facebook.com/fr.hessen/?tn-str=k%2AF) \)](../assets/4bd06e5c0ceb/1*z_yXifwpIvAiIgKUoTpxuA.jpeg)
 
 Tuesday’s anti\-deportation protest in Frankfurt \(Photos: [Hessischer Flüchtlingsrat](https://www.facebook.com/fr.hessen/?tn-str=k%2AF) \)
 
@@ -391,7 +391,7 @@ The number of people deported from Saxony to Afghanistan will therefore increase
 ### Calais
 
 
-![Info & text by: [Refugee Info Bus](https://www.facebook.com/RefugeeInfoBus/?__tn__=%2CdkCH-R-R&eid=ARBxqhQALaKpAxsCNJzn4QUEqvPy4eAd-uFvWcl5b86EBS9qEqqJ_riYxB44tz3ffIb1Jjl8wpAxAc35&hc_ref=ARTYE4M-X_FF6-95lqpA8muj0eAPKvwcge2bHjigJoyTXK3ptJfXPipwrGTqUEJfMb4&fref=nf)](assets/4bd06e5c0ceb/1*Uvj4INAmP3vfl5tQETHqpA.jpeg)
+![Info & text by: [Refugee Info Bus](https://www.facebook.com/RefugeeInfoBus/?__tn__=%2CdkCH-R-R&eid=ARBxqhQALaKpAxsCNJzn4QUEqvPy4eAd-uFvWcl5b86EBS9qEqqJ_riYxB44tz3ffIb1Jjl8wpAxAc35&hc_ref=ARTYE4M-X_FF6-95lqpA8muj0eAPKvwcge2bHjigJoyTXK3ptJfXPipwrGTqUEJfMb4&fref=nf)](../assets/4bd06e5c0ceb/1*Uvj4INAmP3vfl5tQETHqpA.jpeg)
 
 Info & text by: [Refugee Info Bus](https://www.facebook.com/RefugeeInfoBus/?__tn__=%2CdkCH-R-R&eid=ARBxqhQALaKpAxsCNJzn4QUEqvPy4eAd-uFvWcl5b86EBS9qEqqJ_riYxB44tz3ffIb1Jjl8wpAxAc35&hc_ref=ARTYE4M-X_FF6-95lqpA8muj0eAPKvwcge2bHjigJoyTXK3ptJfXPipwrGTqUEJfMb4&fref=nf)
 
@@ -508,7 +508,7 @@ They reside in a suspended military complex on a field far from other cities\.
 [@afrilivesmatter](https://twitter.com/afrilivesmatter) is organising a **protest this Saturday in London** against the treatment of refugees and migrants in Libya\. It’s planned to go from Europe House, to the FCO and to the Libyan embassy\.
 
 
-![](assets/4bd06e5c0ceb/1*8pio8LZl4KzuDRPI4HqdKg.jpeg)
+![](../assets/4bd06e5c0ceb/1*8pio8LZl4KzuDRPI4HqdKg.jpeg)
 
 #### AUSTRALIA
 ### Alarming mental health situation

@@ -1,5 +1,5 @@
 ---
-title: AYS Special from Paris: the 17th November eviction
+title: "AYS Special from Paris: the 17th November eviction"
 author: Are You Syrious?
 date: 2020-12-27T13:20:32.215+0000
 last_modified_at: 2020-12-27T15:04:50.783+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [special,refugees,paris,eviction,mardi]
 description: One month after the violent eviction of November 17, it is time to reflect.
 image:
-  path: assets/ea0fcff8120/1*vsfcBDYPQOohkOU2EpLVpw.jpeg
+  path: ../assets/ea0fcff8120/1*vsfcBDYPQOohkOU2EpLVpw.jpeg
 ---
 
 ### AYS Special from Paris: the 17th November eviction
@@ -17,7 +17,7 @@ _Paris is a place of mixed stories and nationalities\. Up to 4,000 displaced peo
 _One month on from the violent evictions of the most recent large camp in Paris, which briefly brought global attention to the ongoing situation in the city, it is time to reflect\. At its largest, around 3,000 people lived in the camp at Port de Paris, which was the result of large numbers of people losing their accommodation supplied during the first French COVID lockdown combined with regular new arrivals from the Balkan route\._
 
 
-![\(Photo Credit: Rebecca Ferguson\)](assets/ea0fcff8120/1*vsfcBDYPQOohkOU2EpLVpw.jpeg)
+![\(Photo Credit: Rebecca Ferguson\)](../assets/ea0fcff8120/1*vsfcBDYPQOohkOU2EpLVpw.jpeg)
 
 \(Photo Credit: Rebecca Ferguson\)
 
@@ -34,11 +34,11 @@ Initially, the only change was a police presence at the edge of the camp, scarin
 On the night of the 17th and the morning of the 18th, the 70th camp evacuation since 2015 took place\. Volunteer associations from around Paris arrived to help the residents to be ready to leave calmly with police and to try to salvage tents and blankets, which are usually burnt and destroyed by the police\. What follows is a timeline of events\.
 
 
-![](assets/ea0fcff8120/1*WEEOXUyKqYeAfNjbnQkz_A.jpeg)
+![](../assets/ea0fcff8120/1*WEEOXUyKqYeAfNjbnQkz_A.jpeg)
 
 
 
-![\(Photo Credit: Rebecca Ferguson\)](assets/ea0fcff8120/1*CN1adKP5VNXy2oq_7ZLA8g.jpeg)
+![\(Photo Credit: Rebecca Ferguson\)](../assets/ea0fcff8120/1*CN1adKP5VNXy2oq_7ZLA8g.jpeg)
 
 \(Photo Credit: Rebecca Ferguson\)
 
@@ -49,7 +49,7 @@ On the night of the 17th and the morning of the 18th, the 70th camp evacuation s
 **09\.00:** Two buses finally arrived, and the families were slowly boarded\. No other buses arrived, people were tired, cold, and hungry, but the atmosphere remained calm and hopeful\. The Gendarmes and CRS \(French military police\) controlled the crowd, but refused to allow people to queue in an orderly manner, leading to a large crowd waiting to board buses\. The Gendarmes began waving mace \(pepper\) spray and threatening the crowd\. Some of them then began spraying the crowd, hitting women and children in the process\.
 
 
-![\(Photo Credit: Rebecca Ferguson\)](assets/ea0fcff8120/1*NbC9NBEZVXYYerFYMwh7GQ.jpeg)
+![\(Photo Credit: Rebecca Ferguson\)](../assets/ea0fcff8120/1*NbC9NBEZVXYYerFYMwh7GQ.jpeg)
 
 \(Photo Credit: Rebecca Ferguson\)
 
@@ -76,7 +76,7 @@ Those left behind were people we knew to suffer from poor mental and physical he
 For one week the police followed orders to not let anyone sleep on the streets, waking and beating anyone who tried to rest their head\. A protest camp was formed by the associations at Republique in Paris\. This time the violence of the CRS and police was [witnessed by the press](https://www.theguardian.com/world/2020/nov/24/french-minister-calls-images-of-police-breaking-up-refugee-camp-shocking) and politicians\.
 
 
-![\(Photo Credit: Rebecca Ferguson\)](assets/ea0fcff8120/1*iSNe0CcjuFsyirEb9rIhVQ.jpeg)
+![\(Photo Credit: Rebecca Ferguson\)](../assets/ea0fcff8120/1*iSNe0CcjuFsyirEb9rIhVQ.jpeg)
 
 \(Photo Credit: Rebecca Ferguson\)
 

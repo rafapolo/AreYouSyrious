@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 25/1/2019: SeaWatch 3 still needs port of safety
+title: "AYS DAILY DIGEST 25/1/2019: SeaWatch 3 still needs port of safety"
 author: Are You Syrious?
 date: 2019-01-26T14:17:11.421+0000
 last_modified_at: 2019-01-26T14:17:11.421+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: []
 description: Libyan coastguard intercepts 473 people over the course of 72 hours// 15-year-old girl killed in hate attack in Turkey // Violance in IOM…
 image:
-  path: assets/fe2ff4a4c133/0*7N3P2cqCIK5br2Wn
+  path: ../assets/fe2ff4a4c133/0*7N3P2cqCIK5br2Wn
 ---
 
 ### AYS DAILY DIGEST 25/1/2019: SeaWatch 3 still needs port of safety
@@ -15,7 +15,7 @@ image:
 _Libyan coastguard intercepts 473 people over the course of 72 hours// 15\-year\-old girl killed in hate attack in Turkey // Violance in IOM run camp in Bosnia // More than 300 people evacuated from St Denis camp//Police continues destruction of belongings in Calais//_
 
 
-![Photo by Mediterranea](assets/fe2ff4a4c133/0*7N3P2cqCIK5br2Wn)
+![Photo by Mediterranea](../assets/fe2ff4a4c133/0*7N3P2cqCIK5br2Wn)
 
 Photo by Mediterranea
 
@@ -55,7 +55,7 @@ The power cuts in Moria continue\. Refugees have to live in the same miserable s
 The average daily arrivals on all islands was 91 in this time\.
 
 
-![By Refugee Info Bus](assets/fe2ff4a4c133/1*TwHeySAmlpbps7wPxKyxqg.jpeg)
+![By Refugee Info Bus](../assets/fe2ff4a4c133/1*TwHeySAmlpbps7wPxKyxqg.jpeg)
 
 By Refugee Info Bus
 

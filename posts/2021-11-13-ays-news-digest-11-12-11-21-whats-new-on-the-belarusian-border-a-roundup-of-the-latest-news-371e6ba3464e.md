@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 11–12/11/21: What’s new on the Belarusian border? A roundup of the latest news
+title: "AYS News Digest 11–12/11/21: What’s new on the Belarusian border? A roundup of the latest news"
 author: Are You Syrious?
 date: 2021-11-13T18:00:39.815+0000
 last_modified_at: 2021-11-13T18:00:39.815+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migration,poland,belarus]
 description: Cyprus wants to limit asylum // Rescues and shipwreck in Spain // Greece militarizes its land border // Nearly 1,000 PoM detained in Serbia…
 image:
-  path: assets/371e6ba3464e/0*0E5TCOYjzpbmHF26.jpeg
+  path: ../assets/371e6ba3464e/0*0E5TCOYjzpbmHF26.jpeg
 ---
 
 ### AYS News Digest 11–12/11/21: What’s new on the Belarusian border? A roundup of the latest news
 ### Cyprus wants to limit asylum // Rescues and shipwreck in Spain // Greece militarizes its land border // Nearly 1,000 PoM detained in Serbia // Protests across Germany planned
 
 
-![](assets/371e6ba3464e/0*pSRjHusHPD4pGqt4.jpeg)
+![](../assets/371e6ba3464e/0*pSRjHusHPD4pGqt4.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----68a2765a3e75-----------------------------------)
@@ -23,11 +23,11 @@ image:
 ### FEATURE — Eyes on the Belarusian border
 
 
-![](assets/371e6ba3464e/0*XQrmxvjg9UenD8eZ)
+![](../assets/371e6ba3464e/0*XQrmxvjg9UenD8eZ)
 
 
 
-![](assets/371e6ba3464e/0*nX3oNHIeErblTclQ.jpeg)
+![](../assets/371e6ba3464e/0*nX3oNHIeErblTclQ.jpeg)
 
 
 A recent scene from the Polish border\. \(Photo credit: [Alarm Phone](https://alarmphone.org/en/2021/11/12/stop-the-war-on-migration-along-the-eu-belarus-border-freedom-of-movement-for-all/?post_type_release_type=post&fbclid=IwAR1zWy2FYRj2hPhCLvr7AvOqaS1_OpzFttqaUeVXjwh7vhxHB7FRMcR95AY) \)
@@ -60,7 +60,7 @@ Cyprus also lacks solid policies to deport those who have had their asylum appli
 ### SOS Mediterranee disembarkation in Sicily
 
 
-![](assets/371e6ba3464e/0*aRbgPiM9RI9CmP2P.jpeg)
+![](../assets/371e6ba3464e/0*aRbgPiM9RI9CmP2P.jpeg)
 
 
 \(Photo: [SOS Mediterranee Suisse](https://www.facebook.com/sosmedsuisse/posts/1811427745716023) \)
@@ -86,11 +86,11 @@ In the vein of criminalization, Statewatch published an interesting report on th
 A Greek lawyer, Thanasis Kampagiannis, published an interesting Facebook post discussing the meaning of the word ‘pushback,’ specifically in the Greek context\. He included this image, below, to demonstrate his point\.
 
 
-![](assets/371e6ba3464e/0*yxvqKrLSvCBxhaQT)
+![](../assets/371e6ba3464e/0*yxvqKrLSvCBxhaQT)
 
 
 
-![](assets/371e6ba3464e/0*0E5TCOYjzpbmHF26.jpeg)
+![](../assets/371e6ba3464e/0*0E5TCOYjzpbmHF26.jpeg)
 
 
 Here’s an excerpt from his [post](https://www.facebook.com/thanasis.kampagiannis/posts/10224135325343631) \.

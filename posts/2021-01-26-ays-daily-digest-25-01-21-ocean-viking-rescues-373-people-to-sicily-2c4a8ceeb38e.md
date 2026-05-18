@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,covid-19,italy,greece]
 description: More on lead pollution in Moria 2.0 // protests in Austria // evidence collecting about Home Office in UK // frozen bodies found in…
 image:
-  path: assets/2c4a8ceeb38e/1*2mkANA2IvOrOGM14fhAx9w.jpeg
+  path: ../assets/2c4a8ceeb38e/1*2mkANA2IvOrOGM14fhAx9w.jpeg
 ---
 
 ### AYS Daily Digest 25/01/21 Ocean Viking rescues 373 people to Sicily
@@ -15,7 +15,7 @@ image:
 _More on lead pollution in Moria 2\.0 // Protests in Austria // Evidence collecting about Home Office in UK // Frozen bodies found in Croatia // & more…_
 
 
-![The Ocean Viking\. Photo by [Julia Schaefermeyer / SOS MEDITERRANEE](https://www.facebook.com/SOSMEDITERRANEE/photos/a.827341250706518/3676171882490093/)](assets/2c4a8ceeb38e/1*2mkANA2IvOrOGM14fhAx9w.jpeg)
+![The Ocean Viking\. Photo by [Julia Schaefermeyer / SOS MEDITERRANEE](https://www.facebook.com/SOSMEDITERRANEE/photos/a.827341250706518/3676171882490093/)](../assets/2c4a8ceeb38e/1*2mkANA2IvOrOGM14fhAx9w.jpeg)
 
 The Ocean Viking\. Photo by [Julia Schaefermeyer / SOS MEDITERRANEE](https://www.facebook.com/SOSMEDITERRANEE/photos/a.827341250706518/3676171882490093/)
 ### FEATURE: Quite an eventful week on the Mediterranean → Updates from Ocean Viking, AlarmPhone & more…
@@ -46,7 +46,7 @@ Outside Nicosia, the people living in the Pournara reception centre are banned f
 #### GREECE
 
 
-![All the recent rain…terrible conditions\. Photo of Kara Tepe by [EPT](https://voreioaigaio.ert.gr/eidiseis/lesvos/me-ti-vrochi-kai-ti-laspi-antimetopoi-alli-mia-mera-oi-prosfyges-ston-kara-tepe/?fbclid=IwAR3YEW7qzGSatvX636FgLUc4RMagQXyxD7MCuFbTxNddrDLNs4Kh8rzBqmM)](assets/2c4a8ceeb38e/1*NPS7I2lkMOUPaivHtIbzTg.jpeg)
+![All the recent rain…terrible conditions\. Photo of Kara Tepe by [EPT](https://voreioaigaio.ert.gr/eidiseis/lesvos/me-ti-vrochi-kai-ti-laspi-antimetopoi-alli-mia-mera-oi-prosfyges-ston-kara-tepe/?fbclid=IwAR3YEW7qzGSatvX636FgLUc4RMagQXyxD7MCuFbTxNddrDLNs4Kh8rzBqmM)](../assets/2c4a8ceeb38e/1*NPS7I2lkMOUPaivHtIbzTg.jpeg)
 
 All the recent rain…terrible conditions\. Photo of Kara Tepe by [EPT](https://voreioaigaio.ert.gr/eidiseis/lesvos/me-ti-vrochi-kai-ti-laspi-antimetopoi-alli-mia-mera-oi-prosfyges-ston-kara-tepe/?fbclid=IwAR3YEW7qzGSatvX636FgLUc4RMagQXyxD7MCuFbTxNddrDLNs4Kh8rzBqmM)
 ### Updates on Kara Tepe \(Moria 2\.0\)
@@ -69,26 +69,26 @@ Dunya Collective points out that the bottom line is: [**This study needs to be m
 IOM actually withdrew their employees from the site two weeks ago\. Dunya Collective said “To the best of our knowledge, the IOM employees were not given any reasons\.” Is this due to the lead exposure risk? If it is unsafe for people to work in Kara Tepe, it is certainly unsafe for people to live there\.
 
 
-![](assets/2c4a8ceeb38e/1*bysjyIhrUpLkJ6zH1vUPpw.jpeg)
+![](../assets/2c4a8ceeb38e/1*bysjyIhrUpLkJ6zH1vUPpw.jpeg)
 
 
 
-![](assets/2c4a8ceeb38e/1*1ZBAKlrvBtKaBhnjR-DaDg.jpeg)
+![](../assets/2c4a8ceeb38e/1*1ZBAKlrvBtKaBhnjR-DaDg.jpeg)
 
 
 
-![](assets/2c4a8ceeb38e/1*zbDF942UyD7SZntGQouQ3A.jpeg)
+![](../assets/2c4a8ceeb38e/1*zbDF942UyD7SZntGQouQ3A.jpeg)
 
 
 
-![](assets/2c4a8ceeb38e/1*KwdF9eK6PybLL0bUVbeCJA.jpeg)
+![](../assets/2c4a8ceeb38e/1*KwdF9eK6PybLL0bUVbeCJA.jpeg)
 
 
 
 ![“We are happy to inform you about the latest spatial developments at the Community Centre\. We have used the last few months in full lockdown to expand rooms, patch things up and create new rooms\. “
 “Due to the Covid Pandemic rules, we unfortunately need separate rooms to accommodate more people\. But of course this is not the only reason\. Several separate rooms allow our partners, especially the school, to create a more concentrated learning atmosphere, which gives people a break from their chaotic everyday life in the camp\. Two classrooms were built by moving two shipping containers parallel but apart, and building a roof over them\. The resulting space was floored and a movable wall was installed in the middle\. Then the rooms were painted bright and will soon be used mainly as classrooms for the International School of Peace\. 
 Across from these classrooms, we are still repairing and extending the school’s former backyard\. This was the only part of the school that survived the fire\. Now the floor, roof and walls have been renewed and will soon be used as classrooms and a relaxation area during opening hours\. Furthermore, we have covered the lounge under the tree and the Makerspace with plexiglass, so that one can stay there despite rain and wind\. In addition, movable walls are being built in the main hall these days, which will give the students in the cybercafe more privacy and can also be flexibly converted into classrooms\. “
-“We are looking forward to seeing all the new spaces full of life soon\. We are thrilled with the quick and effective work of our volunteers Fisher, Max and Mohammed as well as the team of craftsmen of Michalis under the constant coordination of our coordinator Akis\. Thank you so much, you are amazing\!” Update and photos \(including classic meme which made this AYS editor laugh\) by [**One Happy Family — Community Center, Lesvos**](https://www.facebook.com/OHFLesvos)](assets/2c4a8ceeb38e/1*oCuwI1tT4lbzfpXmejwwmg.jpeg)
+“We are looking forward to seeing all the new spaces full of life soon\. We are thrilled with the quick and effective work of our volunteers Fisher, Max and Mohammed as well as the team of craftsmen of Michalis under the constant coordination of our coordinator Akis\. Thank you so much, you are amazing\!” Update and photos \(including classic meme which made this AYS editor laugh\) by [**One Happy Family — Community Center, Lesvos**](https://www.facebook.com/OHFLesvos)](../assets/2c4a8ceeb38e/1*oCuwI1tT4lbzfpXmejwwmg.jpeg)
 
 “We are happy to inform you about the latest spatial developments at the Community Centre\. We have used the last few months in full lockdown to expand rooms, patch things up and create new rooms\. “
 “Due to the Covid Pandemic rules, we unfortunately need separate rooms to accommodate more people\. But of course this is not the only reason\. Several separate rooms allow our partners, especially the school, to create a more concentrated learning atmosphere, which gives people a break from their chaotic everyday life in the camp\. Two classrooms were built by moving two shipping containers parallel but apart, and building a roof over them\. The resulting space was floored and a movable wall was installed in the middle\. Then the rooms were painted bright and will soon be used mainly as classrooms for the International School of Peace\. 
@@ -127,7 +127,7 @@ In [Migration Ministry news](https://www.facebook.com/migrationgovgr.info/posts/
 
 
 
-![](assets/2c4a8ceeb38e/1*L2snZo0HJUi6TTHlg9pMrQ.jpeg)
+![](../assets/2c4a8ceeb38e/1*L2snZo0HJUi6TTHlg9pMrQ.jpeg)
 
 #### SPAIN
 
@@ -141,14 +141,14 @@ In new reporting by Radnicka Prava, civil society is saying that the government 
 #### SERBIA
 
 
-![](assets/2c4a8ceeb38e/1*6RuvkBPVNqsCwvHbrJqPNw.jpeg)
+![](../assets/2c4a8ceeb38e/1*6RuvkBPVNqsCwvHbrJqPNw.jpeg)
 
 
 
 ![**Update from Sid** : “Several people in Sid had been unable to shower or have access to any basic hygiene services for two weeks\. No Name Kitchen has been unable to bring them a number of basic items and clean water since a certain part of the local population, who are acting against the organization, stole the van’s license plate, which is vital for us to carry out all daily tasks\. For months the people on the move have been living in inhumane conditions in the middle of nowhere\. And, with a new vehicle this week, we have been able to bring them water, soap and razors so that they can have a minimum of hygiene\.
 We also took the opportunity to start some treatments against scabies, as many of them have infected wounds as a result of constant scratching\. We changed the blankets and sleeping bags for clean ones and impregnated them with Permethrin, an insecticide used as a treatment and repellent against scabies or mosquitoes\.
 We have not been able to treat everyone, as it is a complex treatment and we do not have new blankets for everyone, but those who were in a worse state are very happy to have been able to get some relief from the itching caused by scabies\. We also took the opportunity to spend an afternoon playing soccer and drinking chai, something we had not been able to do for a long time\.” 
-Text and photos Anna Lofi for [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/1169447503453532)](assets/2c4a8ceeb38e/1*FhPYw4acZuR7tuzVSYad6A.jpeg)
+Text and photos Anna Lofi for [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/1169447503453532)](../assets/2c4a8ceeb38e/1*FhPYw4acZuR7tuzVSYad6A.jpeg)
 
 **Update from Sid** : “Several people in Sid had been unable to shower or have access to any basic hygiene services for two weeks\. No Name Kitchen has been unable to bring them a number of basic items and clean water since a certain part of the local population, who are acting against the organization, stole the van’s license plate, which is vital for us to carry out all daily tasks\. For months the people on the move have been living in inhumane conditions in the middle of nowhere\. And, with a new vehicle this week, we have been able to bring them water, soap and razors so that they can have a minimum of hygiene\.
 We also took the opportunity to start some treatments against scabies, as many of them have infected wounds as a result of constant scratching\. We changed the blankets and sleeping bags for clean ones and impregnated them with Permethrin, an insecticide used as a treatment and repellent against scabies or mosquitoes\.
@@ -157,13 +157,13 @@ Text and photos Anna Lofi for [No Name Kitchen](https://www.facebook.com/NoNameK
 #### AUSTRIA
 
 
-![Tent camps went up in the state capitals on Saturday in solidarity with Moria 2\.0\. They are in silent protest to the Austrian government’s refugee policy/ “Representatives of a Moria Personnel Committee once again demanded that 100 unaccompanied minor refugees be admitted\.” More [here\.](https://www.derstandard.at/story/2000123606935/zeltlager-als-zeichen-der-solidaritaet-mit-moria)](assets/2c4a8ceeb38e/1*t0z_Mbj-hzsP3UTrcUySBQ.jpeg)
+![Tent camps went up in the state capitals on Saturday in solidarity with Moria 2\.0\. They are in silent protest to the Austrian government’s refugee policy/ “Representatives of a Moria Personnel Committee once again demanded that 100 unaccompanied minor refugees be admitted\.” More [here\.](https://www.derstandard.at/story/2000123606935/zeltlager-als-zeichen-der-solidaritaet-mit-moria)](../assets/2c4a8ceeb38e/1*t0z_Mbj-hzsP3UTrcUySBQ.jpeg)
 
 Tent camps went up in the state capitals on Saturday in solidarity with Moria 2\.0\. They are in silent protest to the Austrian government’s refugee policy/ “Representatives of a Moria Personnel Committee once again demanded that 100 unaccompanied minor refugees be admitted\.” More [here\.](https://www.derstandard.at/story/2000123606935/zeltlager-als-zeichen-der-solidaritaet-mit-moria)
 #### GERMANY
 
 
-![“A 27\-year\-old man has died in a fire \(started at 6pm on sunday\) in an asylum seeker center in the northern German city of Hamburg\. Police said the man was of Afghan origin\.” Info by [InfoMigrants](https://www.infomigrants.net/en/post/29848/germany-afghan-dies-in-asylum-center-fire?fbclid=IwAR3hNe1MObUf--RtY-oiE0ScmMyytiWWr-l40BimabIRqHdTtGDkHL9UX1Y) , photo by Daniel Bockwoldt/dpa/picture alliance](assets/2c4a8ceeb38e/1*YsIsGSFsK09pPaVjpLo7Zg.jpeg)
+![“A 27\-year\-old man has died in a fire \(started at 6pm on sunday\) in an asylum seeker center in the northern German city of Hamburg\. Police said the man was of Afghan origin\.” Info by [InfoMigrants](https://www.infomigrants.net/en/post/29848/germany-afghan-dies-in-asylum-center-fire?fbclid=IwAR3hNe1MObUf--RtY-oiE0ScmMyytiWWr-l40BimabIRqHdTtGDkHL9UX1Y) , photo by Daniel Bockwoldt/dpa/picture alliance](../assets/2c4a8ceeb38e/1*YsIsGSFsK09pPaVjpLo7Zg.jpeg)
 
 “A 27\-year\-old man has died in a fire \(started at 6pm on sunday\) in an asylum seeker center in the northern German city of Hamburg\. Police said the man was of Afghan origin\.” Info by [InfoMigrants](https://www.infomigrants.net/en/post/29848/germany-afghan-dies-in-asylum-center-fire?fbclid=IwAR3hNe1MObUf--RtY-oiE0ScmMyytiWWr-l40BimabIRqHdTtGDkHL9UX1Y) , photo by Daniel Bockwoldt/dpa/picture alliance
 #### UK
@@ -176,7 +176,7 @@ In reporting by Nation\.cymru “ _There has been a “rise in extremist activit
 
 
 ![Looking for volunteers in Wakefield, Bradford, and Leeds\! 
-Are you passionate about supporting refugees, with a few hours to spare each week? We’d love to hear from you\. We are looking for dedicated volunteers to support refugees in West Yorkshire\. Every day, we are contacted by more newly arrived asylum seekers in the UK who need food, clothing and help accessing medical help and legal support\. They are housed in temporary accommodation in and around West Yorkshire, and many of them have arrived with little more than the clothes they are wearing\. In this situation, alone and struggling to adapt to life in an unfamiliar environment, they are in need of warm clothes and support\. Our volunteers in the U\.K\. reach out to asylum seekers in their area on a daily basis, collecting and distributing donations, running leisure activities, teaching English and signposting to relevant services\. They provide a friendly face and reliable listening ear to some of those who need it most, helping those who have recently arrived get to know their new local area\. You can volunteer during the week, or on the weekend — whatever suits you and your schedule best\. We have lots of resources for our volunteers — everything you need to know can be found at [our website](https://care4calais.org/get-involved/supporting-refugees-in-the-uk/?fbclid=iwar24wrtt4nuot-nbwo6klj5x_rk4qgqruapefv9c4fncgjyoyutwu1yjdcq) \.” Photo and Info by [Care 4 Calais](https://www.facebook.com/care4calais/posts/4016368445062749)](assets/2c4a8ceeb38e/1*2WyJuT0h0dGE-Bssx-9v6w.jpeg)
+Are you passionate about supporting refugees, with a few hours to spare each week? We’d love to hear from you\. We are looking for dedicated volunteers to support refugees in West Yorkshire\. Every day, we are contacted by more newly arrived asylum seekers in the UK who need food, clothing and help accessing medical help and legal support\. They are housed in temporary accommodation in and around West Yorkshire, and many of them have arrived with little more than the clothes they are wearing\. In this situation, alone and struggling to adapt to life in an unfamiliar environment, they are in need of warm clothes and support\. Our volunteers in the U\.K\. reach out to asylum seekers in their area on a daily basis, collecting and distributing donations, running leisure activities, teaching English and signposting to relevant services\. They provide a friendly face and reliable listening ear to some of those who need it most, helping those who have recently arrived get to know their new local area\. You can volunteer during the week, or on the weekend — whatever suits you and your schedule best\. We have lots of resources for our volunteers — everything you need to know can be found at [our website](https://care4calais.org/get-involved/supporting-refugees-in-the-uk/?fbclid=iwar24wrtt4nuot-nbwo6klj5x_rk4qgqruapefv9c4fncgjyoyutwu1yjdcq) \.” Photo and Info by [Care 4 Calais](https://www.facebook.com/care4calais/posts/4016368445062749)](../assets/2c4a8ceeb38e/1*2WyJuT0h0dGE-Bssx-9v6w.jpeg)
 
 Looking for volunteers in Wakefield, Bradford, and Leeds\! 
 Are you passionate about supporting refugees, with a few hours to spare each week? We’d love to hear from you\. We are looking for dedicated volunteers to support refugees in West Yorkshire\. Every day, we are contacted by more newly arrived asylum seekers in the UK who need food, clothing and help accessing medical help and legal support\. They are housed in temporary accommodation in and around West Yorkshire, and many of them have arrived with little more than the clothes they are wearing\. In this situation, alone and struggling to adapt to life in an unfamiliar environment, they are in need of warm clothes and support\. Our volunteers in the U\.K\. reach out to asylum seekers in their area on a daily basis, collecting and distributing donations, running leisure activities, teaching English and signposting to relevant services\. They provide a friendly face and reliable listening ear to some of those who need it most, helping those who have recently arrived get to know their new local area\. You can volunteer during the week, or on the weekend — whatever suits you and your schedule best\. We have lots of resources for our volunteers — everything you need to know can be found at [our website](https://care4calais.org/get-involved/supporting-refugees-in-the-uk/?fbclid=iwar24wrtt4nuot-nbwo6klj5x_rk4qgqruapefv9c4fncgjyoyutwu1yjdcq) \.” Photo and Info by [Care 4 Calais](https://www.facebook.com/care4calais/posts/4016368445062749)

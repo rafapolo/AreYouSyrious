@@ -1,5 +1,5 @@
 ---
-title: AYS WEEKEND DIGEST 29–30/09/18: Fighting the poison of “saving people.”
+title: "AYS WEEKEND DIGEST 29–30/09/18: Fighting the poison of “saving people.”"
 author: Are You Syrious?
 date: 2018-10-01T11:08:32.863+0100
 last_modified_at: 2018-10-01T19:52:36.721+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,bosnia,croatia,volunteer]
 description: Protests in Germany // Needs in France // Devastating conditions in Greece // Ten more people die along the route.
 image:
-  path: assets/636dcad40e9d/1*Yy24sH2J1DZH5y2WGSjkCQ.jpeg
+  path: ../assets/636dcad40e9d/1*Yy24sH2J1DZH5y2WGSjkCQ.jpeg
 ---
 
 ### AYS WEEKEND DIGEST 29–30/09/18: Fighting the poison of “saving people\.”
@@ -15,7 +15,7 @@ image:
 _Protests in Germany // Needs in France // Devastating conditions in Greece // Ten more people die along the route\._
 
 
-![Football scarf with the Bosnian word for “Unity” at a match attended\. Credit: [Ramo Bunić](https://twitter.com/ramobunic/status/1046090679515041793)](assets/636dcad40e9d/1*Yy24sH2J1DZH5y2WGSjkCQ.jpeg)
+![Football scarf with the Bosnian word for “Unity” at a match attended\. Credit: [Ramo Bunić](https://twitter.com/ramobunic/status/1046090679515041793)](../assets/636dcad40e9d/1*Yy24sH2J1DZH5y2WGSjkCQ.jpeg)
 
 Football scarf with the Bosnian word for “Unity” at a match attended\. Credit: [Ramo Bunić](https://twitter.com/ramobunic/status/1046090679515041793)
 
@@ -57,7 +57,7 @@ A boat capsized off the coast of Turkey with 5 people onboard dying\. Five more 
 Horrific conditions in Moria camp are only worsened through the rain\. Heavy [cold rains are a feature of fall weather](ays-daily-digest-28-9-2018-syrians-are-the-biggest-groups-among-new-arrivals-in-europe-303946541780) and Salam Aldeen has documented the horrifying misery in which thousands are trapped\. Most international officials are aware of the situations, yet there are only minor efforts\. In the photo below, people are packed into a children’s play centre to stay out of the rain\.
 
 
-![Photo credit, Salam Aldeen\.](assets/636dcad40e9d/1*XKRslWoTVB6Da5L62e_XyQ.jpeg)
+![Photo credit, Salam Aldeen\.](../assets/636dcad40e9d/1*XKRslWoTVB6Da5L62e_XyQ.jpeg)
 
 Photo credit, Salam Aldeen\.
 
@@ -81,7 +81,7 @@ Also around 1000 people live outside the official "camp", most not even in tents
 40,000 people took to the streets of Hamburg for the We’ll Come United on Saturday the 29th\! Both Alarmphone and [Solidarity at Sea](https://www.facebook.com/solidarityatsea/posts/248219885893576?__xts__%5B0%5D=68.ARBDbwjCUTTA-xmTjImu4curmJTCITlZulYUEb19BUmypzTBsGPA7kGH6aRTHxCpVfVU7REhboEI0Dae3bCSJinGoGHpk64K9-ECDRq6qlmw2JgBjhrBHSOjMfcHCxy8yW0dQqlE73ouxrMeEVSzYyMgSLzmHHo7HMQtZZRzqpMJkWbNLSGS&__tn__=H-R) participated in the march which was organized to protest against racist border policies and injustice against refugees, and to rally support for refugees and migrants\. Were you at the march, how was it? Let us know\! \!
 
 
-![Photo credit: Watch the Med — Alarm Phone](assets/636dcad40e9d/1*7oqQHJOhU5xXclNUQF-q0w.jpeg)
+![Photo credit: Watch the Med — Alarm Phone](../assets/636dcad40e9d/1*7oqQHJOhU5xXclNUQF-q0w.jpeg)
 
 Photo credit: Watch the Med — Alarm Phone
 ### France

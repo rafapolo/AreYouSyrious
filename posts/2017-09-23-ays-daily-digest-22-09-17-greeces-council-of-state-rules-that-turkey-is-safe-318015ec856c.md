@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 22/09/17: Greece’s Council of State rules that Turkey is safe
+title: "AYS Daily Digest 22/09/17: Greece’s Council of State rules that Turkey is safe"
 author: Are You Syrious?
 date: 2017-09-23T02:14:11.525+0100
 last_modified_at: 2017-09-23T09:00:22.705+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,greece,turkey,european-union,france]
 description: Tragedy in the Black Sea // Court continues to arrest Iuventa // More arrivals in Greece // Conditions on the islands deteriorate //…
 image:
-  path: assets/318015ec856c/1*SVlCFwGHAYTL1ITUXvrnVQ.jpeg
+  path: ../assets/318015ec856c/1*SVlCFwGHAYTL1ITUXvrnVQ.jpeg
 ---
 
 ### AYS Daily Digest 22/09/17: Greece’s Council of State rules that Turkey is safe
 #### Tragedy in the Black Sea // Court continues to arrest Iuventa // More arrivals in Greece // Conditions on the islands deteriorate // Possible soon closure of the Bubble in Paris // March for Peace in Calais // Greek asylum chief proposes “safe passage” // and more news
 
 
-![Protest in Lesvos — Photo by [**Lesvos Solidarity — Pikpa**](https://www.facebook.com/pikpalesvos/?hc_ref=ARSUc8cGNlOqlhzhC2fDJKu9Fv38V4W9Y2TsAMefRWIia4HY46C0EyrgsmpCrZw3-ZY)](assets/318015ec856c/1*SVlCFwGHAYTL1ITUXvrnVQ.jpeg)
+![Protest in Lesvos — Photo by [**Lesvos Solidarity — Pikpa**](https://www.facebook.com/pikpalesvos/?hc_ref=ARSUc8cGNlOqlhzhC2fDJKu9Fv38V4W9Y2TsAMefRWIia4HY46C0EyrgsmpCrZw3-ZY)](../assets/318015ec856c/1*SVlCFwGHAYTL1ITUXvrnVQ.jpeg)
 
 Protest in Lesvos — Photo by [**Lesvos Solidarity — Pikpa**](https://www.facebook.com/pikpalesvos/?hc_ref=ARSUc8cGNlOqlhzhC2fDJKu9Fv38V4W9Y2TsAMefRWIia4HY46C0EyrgsmpCrZw3-ZY)
 ### Feature
@@ -65,7 +65,7 @@ Expectations ran high today ahead of the court decision about the seizure of the
 In the end the judges from the court of Trapani decided to reject the NGO’s appeal, therefore keeping the ship under arrest\.
 
 
-![](assets/318015ec856c/1*bgDndSD6rw0BOUJ5r--UqA.png)
+![](../assets/318015ec856c/1*bgDndSD6rw0BOUJ5r--UqA.png)
 
 ### Greece
 
@@ -80,7 +80,7 @@ Other reports tell us about a boat with **62** people on board being towed to th
 In addition, many more tried to reach Greece from Turkey, but the Coast Guard prevented them from doing so, intercepting 190 people in the last 48 hours, 61 yesterday and 129 up to the time the report was compiled today\.
 
 
-![Image by [**SAR watch MED‏**](https://twitter.com/SARwatchMED)](assets/318015ec856c/1*mwm4JzyE-4C7Q6zJ1E8kTg.jpeg)
+![Image by [**SAR watch MED‏**](https://twitter.com/SARwatchMED)](../assets/318015ec856c/1*mwm4JzyE-4C7Q6zJ1E8kTg.jpeg)
 
 Image by [**SAR watch MED‏**](https://twitter.com/SARwatchMED)
 
@@ -89,26 +89,26 @@ Due to the high numbers of arrivals, the hotspots are overcrowded and Médecins 
 Save the Children also warned today that the severe overcrowding caused by the surge in new arrivals on the Greek islands is pushing up to 16 refugees into a five\-person tent\. Babies are forced to sleep on the ground and children put at grave risk\.
 
 
-![Photo by [**Open Borders**](https://www.facebook.com/openeuborders/?hc_ref=ARQoe_YwAc9y6Pu7ZhZ8ThjEQXdXc8hoFUC974IYKrQCqIw483mBcOXCe1J6iim2mtQ)](assets/318015ec856c/1*mdA-bQFu0SvJfap3xCtTbg.jpeg)
+![Photo by [**Open Borders**](https://www.facebook.com/openeuborders/?hc_ref=ARQoe_YwAc9y6Pu7ZhZ8ThjEQXdXc8hoFUC974IYKrQCqIw483mBcOXCe1J6iim2mtQ)](../assets/318015ec856c/1*mdA-bQFu0SvJfap3xCtTbg.jpeg)
 
 Photo by [**Open Borders**](https://www.facebook.com/openeuborders/?hc_ref=ARQoe_YwAc9y6Pu7ZhZ8ThjEQXdXc8hoFUC974IYKrQCqIw483mBcOXCe1J6iim2mtQ)
 
 Open Borders reports that more and more people are arriving on the Greek islands again\. On Lesvos, the Moria refugee detention center is overcrowded and makeshift camps are springing up again\.
 
 
-![Photo by [**Open Borders**](https://www.facebook.com/openeuborders/?hc_ref=ARQoe_YwAc9y6Pu7ZhZ8ThjEQXdXc8hoFUC974IYKrQCqIw483mBcOXCe1J6iim2mtQ)](assets/318015ec856c/1*qFNXbkydRBODy4q7xM8xyQ.jpeg)
+![Photo by [**Open Borders**](https://www.facebook.com/openeuborders/?hc_ref=ARQoe_YwAc9y6Pu7ZhZ8ThjEQXdXc8hoFUC974IYKrQCqIw483mBcOXCe1J6iim2mtQ)](../assets/318015ec856c/1*qFNXbkydRBODy4q7xM8xyQ.jpeg)
 
 Photo by [**Open Borders**](https://www.facebook.com/openeuborders/?hc_ref=ARQoe_YwAc9y6Pu7ZhZ8ThjEQXdXc8hoFUC974IYKrQCqIw483mBcOXCe1J6iim2mtQ)
 
 The Greek media also reported today about a network of people entitled “For Invisible Refugees" in the Dodecanese islands in the south east Aegean Sea\. The populations complain that despite having a substantial amount of refugees there they don’t get enough support\. Places like Rhodes, Kos and Leros do have hundreds of refugees each who deserve the same coverage and government attention as the rest of Greece, according to this report\. On Rhodes in particular, Open Borders reports there are 120 [r](https://www.facebook.com/hashtag/refugeesgr?source=feed_text&story_id=1842752766053782) efugees and prisoners detained together under horrible conditions in a police station\.
 
 
-![Photo by [Open Borders](https://www.facebook.com/openeuborders/?hc_ref=ARQCKNa9tw3Qa2DQ-v29rwqexicWAE6Kqg8hy1xcKdj5_seOUMUH6uAQkqTdRA5YAvs)](assets/318015ec856c/1*9VH1ZIHe52eZvi48GqJbXg.jpeg)
+![Photo by [Open Borders](https://www.facebook.com/openeuborders/?hc_ref=ARQCKNa9tw3Qa2DQ-v29rwqexicWAE6Kqg8hy1xcKdj5_seOUMUH6uAQkqTdRA5YAvs)](../assets/318015ec856c/1*9VH1ZIHe52eZvi48GqJbXg.jpeg)
 
 Photo by [Open Borders](https://www.facebook.com/openeuborders/?hc_ref=ARQCKNa9tw3Qa2DQ-v29rwqexicWAE6Kqg8hy1xcKdj5_seOUMUH6uAQkqTdRA5YAvs)
 
 
-![Photo by [**Open Borders**](https://www.facebook.com/openeuborders/?hc_ref=ARQCKNa9tw3Qa2DQ-v29rwqexicWAE6Kqg8hy1xcKdj5_seOUMUH6uAQkqTdRA5YAvs)](assets/318015ec856c/1*5bExd45dGD3vGLkAYiuyfw.jpeg)
+![Photo by [**Open Borders**](https://www.facebook.com/openeuborders/?hc_ref=ARQCKNa9tw3Qa2DQ-v29rwqexicWAE6Kqg8hy1xcKdj5_seOUMUH6uAQkqTdRA5YAvs)](../assets/318015ec856c/1*5bExd45dGD3vGLkAYiuyfw.jpeg)
 
 Photo by [**Open Borders**](https://www.facebook.com/openeuborders/?hc_ref=ARQCKNa9tw3Qa2DQ-v29rwqexicWAE6Kqg8hy1xcKdj5_seOUMUH6uAQkqTdRA5YAvs)
 
@@ -144,7 +144,7 @@ The EU coordinator of the EU\-Turkey deal, Maarten Verwe, visited Lesvos yesterd
 Credit: Arash Hampay — Knut Bry
 
 
-![Photo by [**Lesvos Solidarity — Pikpa**](https://www.facebook.com/pikpalesvos/?hc_ref=ARRj7l2MA6fDhG3PrKlQPeNbzI2zIH5odpzHwuV6GotOsFFm-no43fKsZurE64Jxb5c)](assets/318015ec856c/1*ySR-GHeAfo7qWe9OBMuA8A.jpeg)
+![Photo by [**Lesvos Solidarity — Pikpa**](https://www.facebook.com/pikpalesvos/?hc_ref=ARRj7l2MA6fDhG3PrKlQPeNbzI2zIH5odpzHwuV6GotOsFFm-no43fKsZurE64Jxb5c)](../assets/318015ec856c/1*ySR-GHeAfo7qWe9OBMuA8A.jpeg)
 
 Photo by [**Lesvos Solidarity — Pikpa**](https://www.facebook.com/pikpalesvos/?hc_ref=ARRj7l2MA6fDhG3PrKlQPeNbzI2zIH5odpzHwuV6GotOsFFm-no43fKsZurE64Jxb5c)
 #### Volunteer
@@ -210,7 +210,7 @@ Sa, Sep\. 23, 2:30p\.m\. @ Place d´Armes, Calais, FR
 Solidarity with refugees in Calais & all those suffering from war worldwide\! We are here because you exploit & destroy our countries\!
 
 
-![](assets/318015ec856c/1*YBZUcIHvf2IrNQ097BKPNg.jpeg)
+![](../assets/318015ec856c/1*YBZUcIHvf2IrNQ097BKPNg.jpeg)
 
 ### EU
 

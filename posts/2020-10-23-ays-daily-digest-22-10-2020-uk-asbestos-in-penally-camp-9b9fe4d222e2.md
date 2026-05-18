@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 22/10/2020 — UK: Asbestos in Penally camp
+title: "AYS Daily Digest 22/10/2020 — UK: Asbestos in Penally camp"
 author: Are You Syrious?
 date: 2020-10-23T13:11:48.162+0100
 last_modified_at: 2020-10-23T18:49:22.655+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,penally,ventimiglia,borders]
 description: Golden Dawn trial ends in Greece. Kesha Niya updates on Ventimiglia. 5 lives lost at Sea. Media blocked from accessing temp camp in…
 image:
-  path: assets/9b9fe4d222e2/1*BWKBn69vslKEMBDsVFtf8Q.jpeg
+  path: ../assets/9b9fe4d222e2/1*BWKBn69vslKEMBDsVFtf8Q.jpeg
 ---
 
 ### AYS Daily Digest 22/10/2020 — UK: Asbestos in Penally camp
@@ -15,7 +15,7 @@ image:
 ‘We won\!’ Golden Dawn trial ends in Greece / Updates from Kesha Niya on Ventimiglia / More lives lost at sea / Media blocked from reporting on the new temporary camp in Arguineguín, Canary Islands / A lot more from Libya, Greece, Italy, Spain, the Balkans, Germany, France, the UK, Iceland…
 
 
-![‘Illegal is to let them die’ — Javier de Isusi was awarded the 2020 National Comic Award\. He [collaborated](https://twitter.com/CEARefugio/status/1319279802327519234/photo/2) with refugees and CEAR through his comic Asylum and the illustration he made for CEAR campaign [\#IlegalEsDejarlesMorir](https://twitter.com/hashtag/IlegalEsDejarlesMorir?src=hashtag_click) \.](assets/9b9fe4d222e2/1*BWKBn69vslKEMBDsVFtf8Q.jpeg)
+![‘Illegal is to let them die’ — Javier de Isusi was awarded the 2020 National Comic Award\. He [collaborated](https://twitter.com/CEARefugio/status/1319279802327519234/photo/2) with refugees and CEAR through his comic Asylum and the illustration he made for CEAR campaign [\#IlegalEsDejarlesMorir](https://twitter.com/hashtag/IlegalEsDejarlesMorir?src=hashtag_click) \.](../assets/9b9fe4d222e2/1*BWKBn69vslKEMBDsVFtf8Q.jpeg)
 
 ‘Illegal is to let them die’ — Javier de Isusi was awarded the 2020 National Comic Award\. He [collaborated](https://twitter.com/CEARefugio/status/1319279802327519234/photo/2) with refugees and CEAR through his comic Asylum and the illustration he made for CEAR campaign [\#IlegalEsDejarlesMorir](https://twitter.com/hashtag/IlegalEsDejarlesMorir?src=hashtag_click) \.
 #### **Featured — UK: Asbestos in Penally Camp**
@@ -23,7 +23,7 @@ image:
 AYS has received proof that there is asbestos present in Penally camp, which is now the responsibility of the Home Office\.
 
 
-![](assets/9b9fe4d222e2/1*Jvj04PavXj0uFtaFZl4fXQ.png)
+![](../assets/9b9fe4d222e2/1*Jvj04PavXj0uFtaFZl4fXQ.png)
 
 
 [According to the Government’s own website](https://www.gov.uk/government/publications/asbestos-properties-incident-management-and-toxicology/asbestos-general-information#if-you-find-asbestos-in-your-home) :
@@ -238,7 +238,7 @@ After the storm, KN went back to the border, together with other groups\.
 
 
 
-![[Photo by Kesha Niya](https://www.facebook.com/KeshaNiyaProject/photos/pcb.1358905907787606/1358924937785703/)](assets/9b9fe4d222e2/1*VFKoa0OBTW8UrvFQx9F73Q.jpeg)
+![[Photo by Kesha Niya](https://www.facebook.com/KeshaNiyaProject/photos/pcb.1358905907787606/1358924937785703/)](../assets/9b9fe4d222e2/1*VFKoa0OBTW8UrvFQx9F73Q.jpeg)
 
 [Photo by Kesha Niya](https://www.facebook.com/KeshaNiyaProject/photos/pcb.1358905907787606/1358924937785703/)
 
@@ -267,7 +267,7 @@ On October 13th, several people attempting to reach France were stopped by polic
 KN activists helped the man to prepare a legal complaint against the French border police\.
 
 
-![[Photo by Kesha Niya](https://www.facebook.com/KeshaNiyaProject/photos/pcb.1358905907787606/1358924937785703/)](assets/9b9fe4d222e2/1*iWdRsiwiZnx0nuz_-Hd-jg.jpeg)
+![[Photo by Kesha Niya](https://www.facebook.com/KeshaNiyaProject/photos/pcb.1358905907787606/1358924937785703/)](../assets/9b9fe4d222e2/1*iWdRsiwiZnx0nuz_-Hd-jg.jpeg)
 
 [Photo by Kesha Niya](https://www.facebook.com/KeshaNiyaProject/photos/pcb.1358905907787606/1358924937785703/)
 
@@ -279,11 +279,11 @@ KN activists helped the man to prepare a legal complaint against the French bord
 
 
 
-![](assets/9b9fe4d222e2/1*SSDq5KFPUqlUeRmRlZk4NA.jpeg)
+![](../assets/9b9fe4d222e2/1*SSDq5KFPUqlUeRmRlZk4NA.jpeg)
 
 
 
-![Attempt to fence off the border camp \( [Photo by Kesha Niya](https://www.facebook.com/KeshaNiyaProject/photos/pcb.1358905907787606/1358924937785703/) \)](assets/9b9fe4d222e2/1*rW_cQI7HUIfv_I7WPLBTuw.jpeg)
+![Attempt to fence off the border camp \( [Photo by Kesha Niya](https://www.facebook.com/KeshaNiyaProject/photos/pcb.1358905907787606/1358924937785703/) \)](../assets/9b9fe4d222e2/1*rW_cQI7HUIfv_I7WPLBTuw.jpeg)
 
 Attempt to fence off the border camp \( [Photo by Kesha Niya](https://www.facebook.com/KeshaNiyaProject/photos/pcb.1358905907787606/1358924937785703/) \)
 
@@ -329,7 +329,7 @@ Spanish media report that families are systematically separated on arrival in th
 At the Arguineguín dock, in Gran Canaria, due to the saturation of the immigrant centers on the islands, a temporary camp had to be set up to accommodate the hundreds of migrants who arrive daily on board precarious boats\.
 
 
-![That’s how the pier of Arguineguin was on Tuesday in Gran Canaria\. More than 1\.300 people have been waiting for a solution that guarantees their rights\. Some people have had to sleep in the air as there are no tents for everyone\. \(Photo and text by [CEAR](https://www.facebook.com/CEARefugiado/posts/3522167181176893) \)](assets/9b9fe4d222e2/1*hCuvRqu3rlqsUdOkqUO8ow.jpeg)
+![That’s how the pier of Arguineguin was on Tuesday in Gran Canaria\. More than 1\.300 people have been waiting for a solution that guarantees their rights\. Some people have had to sleep in the air as there are no tents for everyone\. \(Photo and text by [CEAR](https://www.facebook.com/CEARefugiado/posts/3522167181176893) \)](../assets/9b9fe4d222e2/1*hCuvRqu3rlqsUdOkqUO8ow.jpeg)
 
 That’s how the pier of Arguineguin was on Tuesday in Gran Canaria\. More than 1\.300 people have been waiting for a solution that guarantees their rights\. Some people have had to sleep in the air as there are no tents for everyone\. \(Photo and text by [CEAR](https://www.facebook.com/CEARefugiado/posts/3522167181176893) \)
 
@@ -472,12 +472,12 @@ ICELAND
 The Institute of Immigration has also restricted the cash allowance this year and the card can now only be spent in certain grocery stores, depriving people of the ability to pay for public transport and travel to town — and recent announcements suggest that this too will soon be removed\.
 
 
-![\(Photo Credit: [No Borders Iceland](https://www.facebook.com/nobordersiceland/posts/3477266979006404) \)](assets/9b9fe4d222e2/0*OWg7ozqeFCuKvJAD)
+![\(Photo Credit: [No Borders Iceland](https://www.facebook.com/nobordersiceland/posts/3477266979006404) \)](../assets/9b9fe4d222e2/0*OWg7ozqeFCuKvJAD)
 
 \(Photo Credit: [No Borders Iceland](https://www.facebook.com/nobordersiceland/posts/3477266979006404) \)
 
 
-![\(Photo Credit: [No Borders Iceland](https://www.facebook.com/nobordersiceland/posts/3477266979006404) \)](assets/9b9fe4d222e2/0*Adm8NovrAub6eOE0)
+![\(Photo Credit: [No Borders Iceland](https://www.facebook.com/nobordersiceland/posts/3477266979006404) \)](../assets/9b9fe4d222e2/0*Adm8NovrAub6eOE0)
 
 \(Photo Credit: [No Borders Iceland](https://www.facebook.com/nobordersiceland/posts/3477266979006404) \)
 

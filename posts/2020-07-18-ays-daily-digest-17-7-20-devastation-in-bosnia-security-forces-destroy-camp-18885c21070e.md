@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 17/7/20 Devastation in Bosnia: Security forces destroy camp
+title: "AYS Daily Digest 17/7/20 Devastation in Bosnia: Security forces destroy camp"
 author: Are You Syrious?
 date: 2020-07-18T02:13:45.786+0100
 last_modified_at: 2020-07-18T02:13:45.786+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,covid-19,bosnia,greece]
 description: Huge win for family reunification in EU Courts // continued lockdown in Greece for refugees // relocation plan set for Syrian refugees in…
 image:
-  path: assets/18885c21070e/1*lLfdhxX7IZTD4mcY0rEx3g.jpeg
+  path: ../assets/18885c21070e/1*lLfdhxX7IZTD4mcY0rEx3g.jpeg
 ---
 
 ### AYS Daily Digest 17/7/20 Devastation in Bosnia: Security forces destroy camp
@@ -15,11 +15,11 @@ image:
 _Huge win for family reunification in EU Courts // continued lockdown in Greece for refugees // relocation plan set for Syrian refugees in Lebanon // and more…_
 
 
-![](assets/18885c21070e/1*lLfdhxX7IZTD4mcY0rEx3g.jpeg)
+![](../assets/18885c21070e/1*lLfdhxX7IZTD4mcY0rEx3g.jpeg)
 
 
 
-![Photos of Velika Kladusa by [NoName Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/1027320167666267)](assets/18885c21070e/1*ebKSq-TDwiZbD36Ph776fQ.jpeg)
+![Photos of Velika Kladusa by [NoName Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/1027320167666267)](../assets/18885c21070e/1*ebKSq-TDwiZbD36Ph776fQ.jpeg)
 
 Photos of Velika Kladusa by [NoName Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/1027320167666267)
 ### FEATURE → News from Velika Kladusa: “The situation was already dramatic a couple of days ago and today it is even worse\.”
@@ -131,7 +131,7 @@ The central Mediterranean route from sub\-Saharan Africa, through Niger, through
 #### GREECE
 
 
-![**“On Wednesday morning, 04\.20, TCG picked up 37 people from a life raft that was drifting north east of Simi island\.** People from the raft claims to have been put there by Greek coast guard\. They further claim to have arrived on Rhodes, but was rounded up by Greek police, before taken back to sea in a HCG vessel\. Strangely enough this is not unusual in the Aegean Sea, but the life raft used this time haven’t been used before, as far as we know, usually they are square, this one was round\. Perhaps the Greek Coast Guard is all out of the square once, and started using a different model\. Around 50 life rafts has so far been found drifting in the Aegean Sea since March\. It remains to be seen if there will be more of these rafts in the time to come\.” Photo by [ABR](https://www.facebook.com/AegeanBoatReport/posts/876799529509819)](assets/18885c21070e/1*gt77gD_3F1zgtnu-AopmLw.jpeg)
+![**“On Wednesday morning, 04\.20, TCG picked up 37 people from a life raft that was drifting north east of Simi island\.** People from the raft claims to have been put there by Greek coast guard\. They further claim to have arrived on Rhodes, but was rounded up by Greek police, before taken back to sea in a HCG vessel\. Strangely enough this is not unusual in the Aegean Sea, but the life raft used this time haven’t been used before, as far as we know, usually they are square, this one was round\. Perhaps the Greek Coast Guard is all out of the square once, and started using a different model\. Around 50 life rafts has so far been found drifting in the Aegean Sea since March\. It remains to be seen if there will be more of these rafts in the time to come\.” Photo by [ABR](https://www.facebook.com/AegeanBoatReport/posts/876799529509819)](../assets/18885c21070e/1*gt77gD_3F1zgtnu-AopmLw.jpeg)
 
 **“On Wednesday morning, 04\.20, TCG picked up 37 people from a life raft that was drifting north east of Simi island\.** People from the raft claims to have been put there by Greek coast guard\. They further claim to have arrived on Rhodes, but was rounded up by Greek police, before taken back to sea in a HCG vessel\. Strangely enough this is not unusual in the Aegean Sea, but the life raft used this time haven’t been used before, as far as we know, usually they are square, this one was round\. Perhaps the Greek Coast Guard is all out of the square once, and started using a different model\. Around 50 life rafts has so far been found drifting in the Aegean Sea since March\. It remains to be seen if there will be more of these rafts in the time to come\.” Photo by [ABR](https://www.facebook.com/AegeanBoatReport/posts/876799529509819)
 
@@ -183,7 +183,7 @@ Help [Eleonas Refugee Food Support Program](https://chuffed.org/project/eleonas-
 
 
 
-![\*NEW REPORT\* “At a critical time in Europe’s response to migration and asylum with the European Union’s New Pact on Migration in the pipeline, our latest report presents several concerns regarding pushbacks, treatment in detention, and living conditions for displaced people in Italy\. **In particular, the report raises concerns about Italy’s failure to uphold the principle of non\-refoulement** by engaging in summary pushbacks, as well as implementing bilateral readmission agreements without sufficient guarantees as stipulated in international human rights and refugee law\.” Photo by [Refugee Rights Europe](https://www.facebook.com/RefugeeRightsEurope/photos/a.1502441746729332/2344113559228809)](assets/18885c21070e/1*eTSNyyGdJ3IjjB6Re-bDhg.jpeg)
+![\*NEW REPORT\* “At a critical time in Europe’s response to migration and asylum with the European Union’s New Pact on Migration in the pipeline, our latest report presents several concerns regarding pushbacks, treatment in detention, and living conditions for displaced people in Italy\. **In particular, the report raises concerns about Italy’s failure to uphold the principle of non\-refoulement** by engaging in summary pushbacks, as well as implementing bilateral readmission agreements without sufficient guarantees as stipulated in international human rights and refugee law\.” Photo by [Refugee Rights Europe](https://www.facebook.com/RefugeeRightsEurope/photos/a.1502441746729332/2344113559228809)](../assets/18885c21070e/1*eTSNyyGdJ3IjjB6Re-bDhg.jpeg)
 
 \*NEW REPORT\* “At a critical time in Europe’s response to migration and asylum with the European Union’s New Pact on Migration in the pipeline, our latest report presents several concerns regarding pushbacks, treatment in detention, and living conditions for displaced people in Italy\. **In particular, the report raises concerns about Italy’s failure to uphold the principle of non\-refoulement** by engaging in summary pushbacks, as well as implementing bilateral readmission agreements without sufficient guarantees as stipulated in international human rights and refugee law\.” Photo by [Refugee Rights Europe](https://www.facebook.com/RefugeeRightsEurope/photos/a.1502441746729332/2344113559228809)
 #### SPAIN
@@ -215,7 +215,7 @@ _“Acquitted\! Our Alarm Phone member **Hagen** who was accused of ‘inciting 
 #### FRANCE
 
 
-![“With the ongoing evictions in Calais, the refugees have lost their ability to cook\. **Pots and pans have been confiscated and destroyed by authorities\.** This is a huge setback\. Cooking gives people a sense of togetherness and agency, and gives them choice over their diet\. We’ve rapidly adapted to this change, swapping cooking essentials for food packs that contain ready\-to eat snacks like nuts, biscuits, dates, fruit and halal chicken\. We’re focusing on things that are high in energy and nutritious, and adding fresh fruit every day\. Over the past week, we’ve given out many hundreds of these snack packs\. This week the police continue to move groups of refugees on, still forcefully and with violence\. Access to water points has been denied and state food provision has stopped\. Every day we take out hot tea and coffee and food to as many different groups as we can find\.” Photo by [Care4Calais](https://www.facebook.com/care4calais/photos/a.1046164975416459/3446383652061234)](assets/18885c21070e/1*jJaBBf9N5p1oUpuv7EeNrg.jpeg)
+![“With the ongoing evictions in Calais, the refugees have lost their ability to cook\. **Pots and pans have been confiscated and destroyed by authorities\.** This is a huge setback\. Cooking gives people a sense of togetherness and agency, and gives them choice over their diet\. We’ve rapidly adapted to this change, swapping cooking essentials for food packs that contain ready\-to eat snacks like nuts, biscuits, dates, fruit and halal chicken\. We’re focusing on things that are high in energy and nutritious, and adding fresh fruit every day\. Over the past week, we’ve given out many hundreds of these snack packs\. This week the police continue to move groups of refugees on, still forcefully and with violence\. Access to water points has been denied and state food provision has stopped\. Every day we take out hot tea and coffee and food to as many different groups as we can find\.” Photo by [Care4Calais](https://www.facebook.com/care4calais/photos/a.1046164975416459/3446383652061234)](../assets/18885c21070e/1*jJaBBf9N5p1oUpuv7EeNrg.jpeg)
 
 “With the ongoing evictions in Calais, the refugees have lost their ability to cook\. **Pots and pans have been confiscated and destroyed by authorities\.** This is a huge setback\. Cooking gives people a sense of togetherness and agency, and gives them choice over their diet\. We’ve rapidly adapted to this change, swapping cooking essentials for food packs that contain ready\-to eat snacks like nuts, biscuits, dates, fruit and halal chicken\. We’re focusing on things that are high in energy and nutritious, and adding fresh fruit every day\. Over the past week, we’ve given out many hundreds of these snack packs\. This week the police continue to move groups of refugees on, still forcefully and with violence\. Access to water points has been denied and state food provision has stopped\. Every day we take out hot tea and coffee and food to as many different groups as we can find\.” Photo by [Care4Calais](https://www.facebook.com/care4calais/photos/a.1046164975416459/3446383652061234)
 

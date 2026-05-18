@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 3/7/19: An increase in ‘Dublin returns’ to Italy
+title: "AYS Daily Digest 3/7/19: An increase in ‘Dublin returns’ to Italy"
 author: Are You Syrious?
 date: 2019-07-04T10:14:26.599+0100
 last_modified_at: 2019-07-04T12:36:11.761+0100
 categories: Are You Syrious?
 tags: [refugees,digest,libya,italy,europe]
-description: Aftermath of the bombing in Libya / An increase of Dublin returns to Italy / Germany: countrywide day of action on 6th of July / Protest…
+description: "Aftermath of the bombing in Libya / An increase of Dublin returns to Italy / Germany: countrywide day of action on 6th of July / Protest…"
 image:
-  path: assets/98888fce39fd/1*HKKGqNbhg8cim49gSKhZmQ.jpeg
+  path: ../assets/98888fce39fd/1*HKKGqNbhg8cim49gSKhZmQ.jpeg
 ---
 
 ### AYS Daily Digest 3/7/19: An increase in ‘Dublin returns’ to Italy
 #### Aftermath of the bombing in Libya / An increase of Dublin returns to Italy / Germany: countrywide day of action on 6 July / Protest in the Netherlands / Need for help and donations across France
 
 
-![People left waiting after the bombing of the detention centre Tajoura in Libya \(Photo: Sara Creta\)](assets/98888fce39fd/1*HKKGqNbhg8cim49gSKhZmQ.jpeg)
+![People left waiting after the bombing of the detention centre Tajoura in Libya \(Photo: Sara Creta\)](../assets/98888fce39fd/1*HKKGqNbhg8cim49gSKhZmQ.jpeg)
 
 People left waiting after the bombing of the detention centre Tajoura in Libya \(Photo: Sara Creta\)
 #### FEATURED
@@ -47,7 +47,7 @@ Tajoura is a military complex and the militia there force detainees to assist th
 The MSF \(Doctors Without Borders\) said a team that visited hours before the airstrike counted 126 people in that room alone\.
 
 
-![Location of the bombing, pin photo by: Sara Creta](assets/98888fce39fd/1*w6gZcAgw9jBFHOE84Q_aKQ.png)
+![Location of the bombing, pin photo by: Sara Creta](../assets/98888fce39fd/1*w6gZcAgw9jBFHOE84Q_aKQ.png)
 
 Location of the bombing, pin photo by: Sara Creta
 
@@ -105,7 +105,7 @@ As a clear comment on the EU’s reaction, we share with you this tweet:
 Seven boats arrived on the Greek Aegean Islands, in the night between 2 July to 3 July, with **185 people** on board\. See [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?tn-str=k%2AF&hc_location=group_dialog) page for details\.
 
 
-![Landing on Farmakonisi \(Photo: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?tn-str=k%2AF&hc_location=group_dialog) \)](assets/98888fce39fd/1*k3_u-rkK74OtrbJu-oOg5Q.jpeg)
+![Landing on Farmakonisi \(Photo: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?tn-str=k%2AF&hc_location=group_dialog) \)](../assets/98888fce39fd/1*k3_u-rkK74OtrbJu-oOg5Q.jpeg)
 
 Landing on Farmakonisi \(Photo: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?tn-str=k%2AF&hc_location=group_dialog) \)
 #### ITALY
@@ -159,7 +159,7 @@ They finish by saying:
 
 
 
-![Copyright: [europapress](https://www.europapress.es/andalucia/cadiz-00351/noticia-rescatados-seis-migrantes-menores-patera-navegaba-aguas-estrecho-20190703091548.html?fbclid=IwAR30U_xDWEuovUV5UWxRzYLuvSZbM-7GU92uVKCtiTd7ipXcfZvBmTvtayI)](assets/98888fce39fd/1*_EUDzcGmZmWmInQSDlQPhA.jpeg)
+![Copyright: [europapress](https://www.europapress.es/andalucia/cadiz-00351/noticia-rescatados-seis-migrantes-menores-patera-navegaba-aguas-estrecho-20190703091548.html?fbclid=IwAR30U_xDWEuovUV5UWxRzYLuvSZbM-7GU92uVKCtiTd7ipXcfZvBmTvtayI)](../assets/98888fce39fd/1*_EUDzcGmZmWmInQSDlQPhA.jpeg)
 
 Copyright: [europapress](https://www.europapress.es/andalucia/cadiz-00351/noticia-rescatados-seis-migrantes-menores-patera-navegaba-aguas-estrecho-20190703091548.html?fbclid=IwAR30U_xDWEuovUV5UWxRzYLuvSZbM-7GU92uVKCtiTd7ipXcfZvBmTvtayI)
 

@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 9/5/22: EU threatens Switzerland on Frontex, as the regular citizens plant…
+title: "AYS News Digest 9/5/22: EU threatens Switzerland on Frontex, as the regular citizens plant…"
 author: Are You Syrious?
 date: 2022-05-10T21:05:13.925+0100
 last_modified_at: 2022-05-11T00:12:55.856+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,europe,switzerland,refugees,frontex]
 description: Stateless people and those at risk of statelessness fleeing Ukraine are facing big barriers to protection // EU warns of serious…
 image:
-  path: assets/ee04967c13ac/0*nEDfee9hABvDHtj8
+  path: ../assets/ee04967c13ac/0*nEDfee9hABvDHtj8
 ---
 
 ### AYS News Digest 9/5/22: EU threatens Switzerland on Frontex, as the regular citizens plant solidarity
 #### Stateless people and those at risk of statelessness fleeing Ukraine are facing big barriers to protection // EU warns of serious consequences if Switzerland votes not to give CHF61 million for the \(securitisation and pushback\) work of Frontex // \+ more news and a handful of recommended reads for you
 
 
-![See BVMN Twitter to find out more about the SOlidarity campaign](assets/ee04967c13ac/0*nEDfee9hABvDHtj8)
+![See BVMN Twitter to find out more about the SOlidarity campaign](../assets/ee04967c13ac/0*nEDfee9hABvDHtj8)
 
 See BVMN Twitter to find out more about the SOlidarity campaign
 #### LIBYA
@@ -159,7 +159,7 @@ At the same time, detention is a reality for more people in Poland\. Another hun
 Many situations and incidents are reported, but not followed up\. One such example is the fact that the prosecutor’s office in Poland refuses to open an investigation into the deportation of people behind barbed wire to Belarus in a specific case concerning a family in Bialystok area\.
 
 
-![](assets/ee04967c13ac/1*GloHCgltdOjcCuGcnS3V8w.jpeg)
+![](../assets/ee04967c13ac/1*GloHCgltdOjcCuGcnS3V8w.jpeg)
 
 #### GENERAL
 ### \(How\) can the EU’s AI Act better protect people on the move?

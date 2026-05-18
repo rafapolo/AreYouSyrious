@@ -5,9 +5,9 @@ date: 2020-04-27T13:10:26.711+0100
 last_modified_at: 2020-04-28T10:39:02.997+0100
 categories: Are You Syrious?
 tags: [refugees,digest,samos,detention,malakasa]
-description: Libya: left in a warzone without water / Italy: protests in CPRs / BiH: Updates on government mass deportation plan
+description: "Libya: left in a warzone without water / Italy: protests in CPRs / BiH: Updates on government mass deportation plan"
 image:
-  path: assets/4e61e8457b1f/1*mwSn8cVuD2N25J-sOCOe3Q.jpeg
+  path: ../assets/4e61e8457b1f/1*mwSn8cVuD2N25J-sOCOe3Q.jpeg
 ---
 
 ### AYS Weekend Digest 25–26/4/2020 — Fires at Vathi, Samos
@@ -15,7 +15,7 @@ image:
 Libya: left in a warzone without water / Italy: protests in CPRs / BiH: Updates on government mass deportation plan
 
 
-![Vathi, Samos \(photo by [Pfützen hüpfen](https://twitter.com/PHupfen) \)](assets/4e61e8457b1f/1*mwSn8cVuD2N25J-sOCOe3Q.jpeg)
+![Vathi, Samos \(photo by [Pfützen hüpfen](https://twitter.com/PHupfen) \)](../assets/4e61e8457b1f/1*mwSn8cVuD2N25J-sOCOe3Q.jpeg)
 
 Vathi, Samos \(photo by [Pfützen hüpfen](https://twitter.com/PHupfen) \)
 #### Featured: FIRES AT VATHI, SAMOS
@@ -57,7 +57,7 @@ As MSF report, at least 100 people are left without shelter:
 Throughout the night, evacuation operations have been going on\. It is not yet clear the extent of the damage\. Most people left the camp and gathered on a empty plot of land\. While solidarians and organisations on the ground tried to assist residents providing shelter, tents, medical assistance, food and water, fights and [moments of tensions broke out](https://twitter.com/MSF_Sea/status/1254686785659158528) and [riot police entered the camp multiple times](https://www.facebook.com/samosvolunteers/posts/1555226127988875) \. In the night police stopped any kind of assistance or distribution\.
 
 
-![Evacuation at Vathi \(Samos\) — Photo by AYS](assets/4e61e8457b1f/1*F5HBvEAZNIo1nKf0NpndLQ.jpeg)
+![Evacuation at Vathi \(Samos\) — Photo by AYS](../assets/4e61e8457b1f/1*F5HBvEAZNIo1nKf0NpndLQ.jpeg)
 
 Evacuation at Vathi \(Samos\) — Photo by AYS
 

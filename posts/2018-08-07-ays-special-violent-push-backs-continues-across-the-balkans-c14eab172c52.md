@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Violent push-backs continue across the Balkans
+title: "AYS SPECIAL: Violent push-backs continue across the Balkans"
 author: Are You Syrious?
 date: 2018-08-07T21:23:12.754+0100
 last_modified_at: 2018-10-17T10:50:06.928+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,human-rights,balkans,bosnia,croatia]
 description: The past days, two testimonies of unlawful and violent push-backs were recorded by No Name Kitchen in Velika Kladuša, BiH. Sexual…
 image:
-  path: assets/c14eab172c52/1*QAF_iredx7Uf9z0_vxPrWw.jpeg
+  path: ../assets/c14eab172c52/1*QAF_iredx7Uf9z0_vxPrWw.jpeg
 ---
 
 ### AYS SPECIAL: Violent push\-backs continue across the Balkans
 #### _The past days, two testimonies of unlawful and violent push\-backs were recorded by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?hc_ref=ARTLf5yFjo9joK9iVttkcBWHEF8AFQu0xcxkUo_8uqx8TF65Q6Lz42FL5defalfK5K8&fref=nf) in Velika Kladuša, BiH\. Sexual harassment was a part of the abuse these people, including women and children, suffered from while crossing the border\. Both incidents happened only days after this [report](illegal-push-backs-and-border-violence-reports-velika-kladu%C5%A1a-bosnia-and-hercegovina-july-2018-da04fe8784de) was published, which covered several cases of border violence recorded during July\._
 
 
-![Photo: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?hc_ref=ARTQArN7Kg_Qy4arcLCKlAVA_4YT4yMMJ8EtIliJteETkZLExsVMBpKn4Q4X9BSDcAI&fref=nf)](assets/c14eab172c52/1*QAF_iredx7Uf9z0_vxPrWw.jpeg)
+![Photo: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?hc_ref=ARTQArN7Kg_Qy4arcLCKlAVA_4YT4yMMJ8EtIliJteETkZLExsVMBpKn4Q4X9BSDcAI&fref=nf)](../assets/c14eab172c52/1*QAF_iredx7Uf9z0_vxPrWw.jpeg)
 
 Photo: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?hc_ref=ARTQArN7Kg_Qy4arcLCKlAVA_4YT4yMMJ8EtIliJteETkZLExsVMBpKn4Q4X9BSDcAI&fref=nf)
 #### The following two reports were conducted in Bosnia, and the incidents altogether include a total of 28 individuals\.
@@ -68,7 +68,7 @@ _“They were hitting us and laughing at our backs\. They had both sticks and el
 _When we were walking back to the camp, we stopped, and all were crying together for few minutes because it was very hard time for us\. And after, we went back to the camp \[in Velika Kladusa\]”_ \[M\. \] \.
 
 
-![Photo: [Enzo Tomasiello](https://www.facebook.com/enzo.monkey?fref=nf) , via No Name Kitchen](assets/c14eab172c52/1*gitQduqORUz4pjRMH3jtHA.jpeg)
+![Photo: [Enzo Tomasiello](https://www.facebook.com/enzo.monkey?fref=nf) , via No Name Kitchen](../assets/c14eab172c52/1*gitQduqORUz4pjRMH3jtHA.jpeg)
 
 Photo: [Enzo Tomasiello](https://www.facebook.com/enzo.monkey?fref=nf) , via No Name Kitchen
 ### **2\. ILLEGAL PUSH BACK OF FAMILIES AND WOMEN FROM SLOVENIA TO BOSNIA**
@@ -126,7 +126,7 @@ PERPETRATORS: The main perpetrators who were verbally threatening the family wer
 **Recorded interview by No Name Kitchen**
 
 
-![Photo: [Protirasistična fronta brez meja](https://www.facebook.com/FrontaBrezMeja/?hc_ref=ARQNJ8z0cUaG5Aug0Rb_pPm9NjIczybxqXZ-KuG_fHn5EBI7la5gnk_YJge7WD8O5MQ)](assets/c14eab172c52/1*3QDyRnAcG9aDmqjv1y69rA.jpeg)
+![Photo: [Protirasistična fronta brez meja](https://www.facebook.com/FrontaBrezMeja/?hc_ref=ARQNJ8z0cUaG5Aug0Rb_pPm9NjIczybxqXZ-KuG_fHn5EBI7la5gnk_YJge7WD8O5MQ)](../assets/c14eab172c52/1*3QDyRnAcG9aDmqjv1y69rA.jpeg)
 
 Photo: [Protirasistična fronta brez meja](https://www.facebook.com/FrontaBrezMeja/?hc_ref=ARQNJ8z0cUaG5Aug0Rb_pPm9NjIczybxqXZ-KuG_fHn5EBI7la5gnk_YJge7WD8O5MQ)
 

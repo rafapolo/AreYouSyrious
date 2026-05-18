@@ -1,5 +1,5 @@
 ---
-title: AYS Interview mit Jugend Rettet: “Die Anschuldigungen sind nur leere Behauptungen.”
+title: "AYS Interview mit Jugend Rettet: “Die Anschuldigungen sind nur leere Behauptungen.”"
 author: Are You Syrious?
 date: 2018-04-23T20:31:13.304+0100
 last_modified_at: 2018-04-23T20:31:13.304+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,jugend-rettet,iuventa,interview,special]
 description: Am Montag entscheidet das Kassationsgericht in Rom über die Beschlagnahmung der Iuventa. AYS sprach mit Philipp Külker, Sprecher von Jugend…
 image:
-  path: assets/80850d927a3c/1*JUsBFxW5IM2-LEsERE_2pA.jpeg
+  path: ../assets/80850d927a3c/1*JUsBFxW5IM2-LEsERE_2pA.jpeg
 ---
 
 ### AYS Interview mit Jugend Rettet: “Die Anschuldigungen sind nur leere Behauptungen\.”
 #### Am Montag entscheidet das Kassationsgericht in Rom über die Beschlagnahmung der Iuventa\. AYS sprach mit Philipp Külker, Sprecher von Jugend Rettet über die Verhandlung, die Siutation im Mittelmeer und in Italien\.
 
 
-![](assets/80850d927a3c/1*JUsBFxW5IM2-LEsERE_2pA.jpeg)
+![](../assets/80850d927a3c/1*JUsBFxW5IM2-LEsERE_2pA.jpeg)
 
 
 > [Read the interview in English\.](ays-interview-with-jugend-rettet-the-accusations-are-just-empty-claims-ba873e0f53f4)
@@ -22,7 +22,7 @@ image:
 **Herr Külker, Jugend Rettet hat kürzlich ein Video veröffentlicht mit der Analyse zur Beschlagnahmung ihres Schiffs, Iuventa\. Was schlussfolgern Sie daraus?**
 
 
-![Philipp Külker, Sprecher von Jugend Rettet\. Credits: Jugend Rettet\.](assets/80850d927a3c/1*k-JHmdLPaBoxzJ1fSZpOUQ.jpeg)
+![Philipp Külker, Sprecher von Jugend Rettet\. Credits: Jugend Rettet\.](../assets/80850d927a3c/1*k-JHmdLPaBoxzJ1fSZpOUQ.jpeg)
 
 Philipp Külker, Sprecher von Jugend Rettet\. Credits: Jugend Rettet\.
 
@@ -79,7 +79,7 @@ Wir werden aber auch nicht tatenlos am Rand stehen und uns das angucken\. Wir we
 Wir haben in den vergangenen Monaten viel in andere Richtungen geschaut\. Die steigenden Zahlen sind eine relativ junge Entwicklung, das beobachten wir durchaus\. Vor ein paar Monaten, als wir diese Gedanken hatten, haben wir unter anderem mit Organisationen vor Ort gesprochen\. Aktuell sind diese Gebiete nicht unser Schwerpunkt\. Aber wenn es brennt, werden wir gucken, was wir machen\. Es ist also nicht ausgeschlossen, das Projekt mit einer anderen Fahrtrichtung weiterzudenken\. Erst einmal sind wir aber voll auf den 23\. April fokussiert und gucken, was von Italien für ein Signal gesendet wird\. Wenn wir das Schiff nicht zurückkriegen, werden wir trotzdem aktiv bleiben\. Die Überlegungen gehen in verschiedene Richtungen, da ist aber noch nichts final entschieden\.
 
 
-![Blick auf die Iuventa an Bord\. Credits: Jugend Rettet](assets/80850d927a3c/1*qEtAdjaDxWDPODR_YmR7xQ.jpeg)
+![Blick auf die Iuventa an Bord\. Credits: Jugend Rettet](../assets/80850d927a3c/1*qEtAdjaDxWDPODR_YmR7xQ.jpeg)
 
 Blick auf die Iuventa an Bord\. Credits: Jugend Rettet
 
@@ -144,7 +144,7 @@ Seit es Jugend Rettet gibt, haben wir auf den verschiedenen Kanälen konstant mi
 Ich weiß nicht, inwiefern die öffentliche Debatte tatsächlichen Einfluss auf politische Entscheidungen hat\. Ich denke, es beeinflusst sich gegenseitig, irgendjemand wählt ja auch diese Leute\. Es sind Meinungen, die in der Bevölkerung vorhanden sind\. Wenn ich mir anschaue, wie die Reaktionen auf das Projekt Jugend Rettet vor zwei oder anderthalb Jahren waren, ist es auf jeden Fall etwas anderes: Zum einen im Sinne der Aufmerksamkeit, die der Seenotrettung gegeben wird, zum anderen des Bildes der Öffentlichkeit von den Organisationen\. Der Vorwurf des Menschenschmuggels ist schnell und laut ausgesprochen\. Um dagegen anzugehen, muss man sich mit knallharten Fakten ganz schön lange wehren\. Da bleiben auf Vernunft basierte Argumente oder rechtliche Fakten in der Konversation meistens zu leise\.
 
 
-![Jugend Rettet war eine der Organisationen, die beschuldigt wurde, illegale Migration zu beschleunigen\.](assets/80850d927a3c/1*XqbzM7XYvNAbuanxRFvakQ.jpeg)
+![Jugend Rettet war eine der Organisationen, die beschuldigt wurde, illegale Migration zu beschleunigen\.](../assets/80850d927a3c/1*XqbzM7XYvNAbuanxRFvakQ.jpeg)
 
 Jugend Rettet war eine der Organisationen, die beschuldigt wurde, illegale Migration zu beschleunigen\.
 

@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 6/9: Pervasive sense of abandonment
+title: "AYS News Digest 6/9: Pervasive sense of abandonment"
 author: Are You Syrious?
 date: 2016-09-06T23:02:11.718+0100
 last_modified_at: 2016-09-07T11:38:48.496+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,mediterranean,calais-jungle,info-park]
 description: As the number of people who are crossing Mediterranean increases, more dangerous situations are encountered by rescue teams. Yesterday…
 image:
-  path: assets/62f18d36e067/1*huTEBDSeBfHybr0AVfL5gg.jpeg
+  path: ../assets/62f18d36e067/1*huTEBDSeBfHybr0AVfL5gg.jpeg
 ---
 
 ### AYS News Digest 6/9: Pervasive sense of abandonment
@@ -15,7 +15,7 @@ image:
 _As the number of people who are crossing Mediterranean increases, more dangerous situations are encountered by rescue teams\. Yesterday seven lives were lost at sea\. New research proves that Turkey is not safe place for refugees\. Warning from volunteers in Belgrade — Serbia could become a dangerous place for refugees\. French police used violence against people in camps, again\._
 
 
-![“We are fighting for our future”\. For our country, ourselves and “human” word\. Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/?hc_ref=PAGES_TIMELINE&fref=nf)](assets/62f18d36e067/1*huTEBDSeBfHybr0AVfL5gg.jpeg)
+![“We are fighting for our future”\. For our country, ourselves and “human” word\. Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/?hc_ref=PAGES_TIMELINE&fref=nf)](../assets/62f18d36e067/1*huTEBDSeBfHybr0AVfL5gg.jpeg)
 
 “We are fighting for our future”\. For our country, ourselves and “human” word\. Credits: [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/?hc_ref=PAGES_TIMELINE&fref=nf)
 ### Syria
@@ -23,7 +23,7 @@ _As the number of people who are crossing Mediterranean increases, more dangerou
 Once again, civilian lives are put in danger, while the siege of the Aleppo continues\. More has to be done to stop this war that is happening in the front of our eyes\.
 
 
-[![Aleppo is Besieged and Burning from Chlorine Attack](assets/62f18d36e067/0b8b_hqdefault.jpg "Aleppo is Besieged and Burning from Chlorine Attack")](http://www.youtube.com/watch?v=UY4Nisvqd6Q)
+[![Aleppo is Besieged and Burning from Chlorine Attack](../assets/62f18d36e067/0b8b_hqdefault.jpg "Aleppo is Besieged and Burning from Chlorine Attack")](http://www.youtube.com/watch?v=UY4Nisvqd6Q)
 
 ### Mediterranean
 ### One of the toughest rescues at Mediterranean ever
@@ -66,7 +66,7 @@ Salam Alden, from Denmark, who created Team Humanity that works to rescue people
 [The petition is initiated](https://www.change.org/p/council-of-the-european-union-allow-salam-aldeen-to-leave-greece?recruiter=129991170&utm_source=share_petition&utm_medium=facebook&utm_campaign=autopublish&utm_term=mob-xs-no_src-reason_msg) calling to the Greek government for Salam’s unconditional release\. Please, sign reminds the EU of the principles for which it was created\.
 
 
-![Photo by Team Humanity\.](assets/62f18d36e067/1*FVyePsYIfPoK0Bq7O-qetQ.jpeg)
+![Photo by Team Humanity\.](../assets/62f18d36e067/1*FVyePsYIfPoK0Bq7O-qetQ.jpeg)
 
 Photo by Team Humanity\.
 ### Full registration guide from RefuComm
@@ -171,15 +171,15 @@ For more questions, ask [the Greek Asylum office](https://asylo.gov.gr/en) or a 
 
 
 
-![](assets/62f18d36e067/1*M3xPSKjesKEqsuNUH6PHfw.jpeg)
+![](../assets/62f18d36e067/1*M3xPSKjesKEqsuNUH6PHfw.jpeg)
 
 
 
-![](assets/62f18d36e067/1*cNcuhppnjNTweZOdtUSQLA.jpeg)
+![](../assets/62f18d36e067/1*cNcuhppnjNTweZOdtUSQLA.jpeg)
 
 
 
-![Daily breakfast, lunch and dinner at Vial\. Credits: [**Michael Söhner**](https://www.facebook.com/MichaelSoehner?fref=ufi&rc=p)](assets/62f18d36e067/1*mEYmSXeCXuJagZL0s18Wnw.jpeg)
+![Daily breakfast, lunch and dinner at Vial\. Credits: [**Michael Söhner**](https://www.facebook.com/MichaelSoehner?fref=ufi&rc=p)](../assets/62f18d36e067/1*mEYmSXeCXuJagZL0s18Wnw.jpeg)
 
 Daily breakfast, lunch and dinner at Vial\. Credits: [**Michael Söhner**](https://www.facebook.com/MichaelSoehner?fref=ufi&rc=p)
 ### The bare life of refugees at Softex camp
@@ -222,7 +222,7 @@ Refugees who can provide for themselves can apply for permanent residency after 
 Yesterday, police in Calais fired teargas at refugees, volunteers are reporting\. The reason was not obvious\. Refugees suggest that situations such as this one happen every few days\. Some refugees even smile and make videos with their phones\. Then they run\. Teenagers, who have nothing to lose\. And are bored\. The camp they call jungle\. But it looks more like a slum\. In the middle of Europe\.
 
 
-![Credits: [**Kryz Unger**](https://www.facebook.com/kryz.unger)](assets/62f18d36e067/1*5GGbwgzIY99StvUtKvxqdg.jpeg)
+![Credits: [**Kryz Unger**](https://www.facebook.com/kryz.unger)](../assets/62f18d36e067/1*5GGbwgzIY99StvUtKvxqdg.jpeg)
 
 Credits: [**Kryz Unger**](https://www.facebook.com/kryz.unger)
 ### Belgium
@@ -233,7 +233,7 @@ Since Europe doesn’t let refugees to fly to safety, they often have to cover l
 Sponsor them and give refugees a warm welcome at the end of their long journey\!
 
 
-![](assets/62f18d36e067/1*T5tTMFMIM4bp3V8flcGgWw.png)
+![](../assets/62f18d36e067/1*T5tTMFMIM4bp3V8flcGgWw.png)
 
 ### Norway
 #### Norway builds Arctic border fence

@@ -1,20 +1,20 @@
 ---
-title: AYS DIGEST 7/1 —Surviving 2017: From cut water supply to attacks and hypothermia
+title: "AYS DIGEST 7/1 —Surviving 2017: From cut water supply to attacks and hypothermia"
 author: Are You Syrious?
 date: 2017-01-08T02:19:31.612+0000
 last_modified_at: 2017-01-08T02:19:31.612+0000
 categories: 
 tags: [refugees,europe,refugee-camps,migration,unhcr]
-description: Damascus and its surrounds cut off from water supply for days / Explosion leaves dozens dead in rebel-held town of Azaz / Refugee tents…
+description: Damascus and its surrounds cut off from water supply for days / Explosion leaves dozens dead in rebel-held town of Azaz / Refugee tents…
 image:
-  path: assets/58e4a81cf741/1*JvKDXYUP9SWcmgDR1Amy8Q.jpeg
+  path: ../assets/58e4a81cf741/1*JvKDXYUP9SWcmgDR1Amy8Q.jpeg
 ---
 
 ### AYS DIGEST 7/1 —Surviving 2017: From cut water supply to attacks and hypothermia
 #### Damascus and its surrounds cut off from water supply for days / Explosion leaves dozens dead in rebel\-held town of Azaz / Refugee tents covered in snow in Greek camps / Temperatures drop to \-20 while people still sleep rough in Serbia / Two refugees dead due to extreme cold in Bulgaria / 15 year old Syrian dies in the aftermath of NYE attack in Bremen, Germany / The Dunkirk Refugee Women’s Centre in France burned down
 
 
-![Moria camp — photo by Giorgos Kosmopoulos](assets/58e4a81cf741/1*JvKDXYUP9SWcmgDR1Amy8Q.jpeg)
+![Moria camp — photo by Giorgos Kosmopoulos](../assets/58e4a81cf741/1*JvKDXYUP9SWcmgDR1Amy8Q.jpeg)
 
 Moria camp — photo by Giorgos Kosmopoulos
 #### SYRIA
@@ -38,13 +38,13 @@ The temperatures this week have dropped dangerously low all through Greece, made
 
 
 
-[![Moria Refugee Camp in Greece Covered in snow](assets/58e4a81cf741/0106_hqdefault.jpg "Moria Refugee Camp in Greece Covered in snow")](http://www.youtube.com/watch?v=6lPAIC_qQfI)
+[![Moria Refugee Camp in Greece Covered in snow](../assets/58e4a81cf741/0106_hqdefault.jpg "Moria Refugee Camp in Greece Covered in snow")](http://www.youtube.com/watch?v=6lPAIC_qQfI)
 
 
 Although the Greek Migration Policy Minister Yiannis Mouzalas [recently stated](https://medium.com/@AreYouSyrious/greek-migration-policy-minister-yiannis-mouzalas-said-yesterday-36d9f031ab63#.stxx0q74d) that **“there are no refugees or migrants living in the cold anymore\. We successfully completed the procedures for overwintering”** these photos and videos prove otherwise\.
 
 
-![Moria camp — photo by Giorgos Kosmopoulos](assets/58e4a81cf741/1*NfYHSznHg-0I78o8P5rAng.jpeg)
+![Moria camp — photo by Giorgos Kosmopoulos](../assets/58e4a81cf741/1*NfYHSznHg-0I78o8P5rAng.jpeg)
 
 Moria camp — photo by Giorgos Kosmopoulos
 #### SERBIA
@@ -66,12 +66,12 @@ Temperatures in Serbia are dropping to extreme \-20 degrees Celsius at night, st
 MSC is putting emergency heaters to warm the abandoned buildings where refugees sleep\. Despite the predictable situation the Serbian government, UNHCR Serbia and European Commission all failed to provide an adequate response, MSF writes\.
 
 
-![Photos by [Kontrapress](https://www.facebook.com/permalink.php?story_fbid=1021093731367841&id=221841217959767)](assets/58e4a81cf741/1*c11ESjqGVgNu0Cn1HwTbFw.jpeg)
+![Photos by [Kontrapress](https://www.facebook.com/permalink.php?story_fbid=1021093731367841&id=221841217959767)](../assets/58e4a81cf741/1*c11ESjqGVgNu0Cn1HwTbFw.jpeg)
 
 Photos by [Kontrapress](https://www.facebook.com/permalink.php?story_fbid=1021093731367841&id=221841217959767)
 
 
-![Photos by [Kontrapress](https://www.facebook.com/permalink.php?story_fbid=1021093731367841&id=221841217959767)](assets/58e4a81cf741/1*XXVDJPHkW5D2UFYA45_Aag.jpeg)
+![Photos by [Kontrapress](https://www.facebook.com/permalink.php?story_fbid=1021093731367841&id=221841217959767)](../assets/58e4a81cf741/1*XXVDJPHkW5D2UFYA45_Aag.jpeg)
 
 Photos by [Kontrapress](https://www.facebook.com/permalink.php?story_fbid=1021093731367841&id=221841217959767)
 #### BULGARIA
@@ -90,7 +90,7 @@ After being attacked by a group of young men on Lüssumer Heide street in Bremen
 “It doesn’t look like it from this picture, but there is at least 100 people lying here in between dual carrige ways\. This is the patch of ground dividing the roads” independent volunteers have reported about people sleeping on the streets of Paris, where the temperatures have gone to \-7°C yesterday\.
 
 
-![Photo by Megan Stuart](assets/58e4a81cf741/1*9PKfzk6DzfV1qFnyCojsJg.jpeg)
+![Photo by Megan Stuart](../assets/58e4a81cf741/1*9PKfzk6DzfV1qFnyCojsJg.jpeg)
 
 Photo by Megan Stuart
 
@@ -101,7 +101,7 @@ The Dunkirk Refugee Women’s Centre, a space for women and children of Dunkirk 
 [Help Refugees](http://www.helprefugees.org.uk/) say they are currently doing all they can do support the volunteers who work at the Centre and are working with them to discuss further action\.
 
 
-![Photo by [Rob Crook](https://www.facebook.com/calaisaction/posts/1392956437423524)](assets/58e4a81cf741/1*pTqu_nKtoMB_xBF3bOgjBw.jpeg)
+![Photo by [Rob Crook](https://www.facebook.com/calaisaction/posts/1392956437423524)](../assets/58e4a81cf741/1*pTqu_nKtoMB_xBF3bOgjBw.jpeg)
 
 Photo by [Rob Crook](https://www.facebook.com/calaisaction/posts/1392956437423524)
 #### **Petition — Free Cédric Herrou**

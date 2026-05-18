@@ -5,9 +5,9 @@ date: 2017-04-21T09:33:08.646+0100
 last_modified_at: 2017-04-21T09:33:08.646+0100
 categories: 
 tags: [afghanistan,isis,us-forces,taliban,civilian-casualties]
-description: Last week the United States dropped the MOAB (Mass Explosive Air Blast, AKA: “Mother of All Bombs”) — the world’s largest non-nuclear…
+description: "Last week the United States dropped the MOAB (Mass Explosive Air Blast, AKA: “Mother of All Bombs”) — the world’s largest non-nuclear…"
 image:
-  path: assets/bd9eee45409a/1*SU_uMyxCEJ34_rycsyb2mg.jpeg
+  path: ../assets/bd9eee45409a/1*SU_uMyxCEJ34_rycsyb2mg.jpeg
 ---
 
 ### **“Afghanistan is Safe” is the Mother of All Bullshit**
@@ -15,7 +15,7 @@ image:
 _Last week the [United States dropped the MOAB](http://edition.cnn.com/2017/04/13/politics/afghanistan-isis-moab-bomb/) \(Mass Explosive Air Blast, AKA: “Mother of All Bombs”\) — the world’s largest non\-nuclear explosive ever used — in Achin district, Nangarhar, a province of Eastern Afghanistan\. With all eyes on Syria in recent years, the event brought attention to a widely\-forgotten conflict\._
 
 
-![\#NoWar by Emrah Arikan\. From [Art Against](https://www.facebook.com/artagainstproject/) \.](assets/bd9eee45409a/1*SU_uMyxCEJ34_rycsyb2mg.jpeg)
+![\#NoWar by Emrah Arikan\. From [Art Against](https://www.facebook.com/artagainstproject/) \.](../assets/bd9eee45409a/1*SU_uMyxCEJ34_rycsyb2mg.jpeg)
 
 \#NoWar by Emrah Arikan\. From [Art Against](https://www.facebook.com/artagainstproject/) \.
 

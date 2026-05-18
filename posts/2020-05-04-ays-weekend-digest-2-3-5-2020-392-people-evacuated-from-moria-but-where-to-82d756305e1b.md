@@ -7,18 +7,18 @@ categories: Are You Syrious?
 tags: []
 description: Deportations to NIGER carry on despite border closures / Afghan workers found drowned on the river at the border with IRAN / Updates from…
 image:
-  path: assets/82d756305e1b/0*RlvKSGt7H9W6EzKR.jpeg
+  path: ../assets/82d756305e1b/0*RlvKSGt7H9W6EzKR.jpeg
 ---
 
 ### AYS Weekend Digest 2–3/5/2020–392 people evacuated from Moria, but where to?
 #### Deportations to NIGER carry on despite border closures / Afghan workers found drowned on the river at the border with IRAN / Updates from local activists in FRANCE and SWITZERLAND / Rescues and arrivals in the Mediterranean / Rising violence again on LESVOS?
 
 
-![](assets/82d756305e1b/0*gk5HHFT_n_TmCGz6)
+![](../assets/82d756305e1b/0*gk5HHFT_n_TmCGz6)
 
 
 
-![](assets/82d756305e1b/0*RlvKSGt7H9W6EzKR.jpeg)
+![](../assets/82d756305e1b/0*RlvKSGt7H9W6EzKR.jpeg)
 
 
 In total 120,000 refugees reside in Greece at the moment\. Many remain trapped in closed structures within highly re\-traumatizing & understaffed structures such as Vathi, Moria or Malakasa \(Photo and text by [Franziska Grillmeier](https://twitter.com/f_grillmeier/status/1255198361533190144) \)
@@ -33,11 +33,11 @@ _And if you’ve missed the past episodes, find them on [LAP’s website](https:
 On Sunday, while migration and asylum minister Mitarakis visited Moria camp on the island of Lesvos, 392 people were [bussed](https://twitter.com/f_grillmeier/status/1256912049323507712) from Moria to the port of Mytilini\.
 
 
-![](assets/82d756305e1b/0*_PhQmj1UnPqthiQU)
+![](../assets/82d756305e1b/0*_PhQmj1UnPqthiQU)
 
 
 
-![](assets/82d756305e1b/0*1JmbEfcmrzrSo_eT.jpeg)
+![](../assets/82d756305e1b/0*1JmbEfcmrzrSo_eT.jpeg)
 
 
 Queueing for transfers to mainland, Moria, Lesvos 3/5/2020 \(Photo by MCAT: Amani Hussaini/Atawallah Mostafawi\)
@@ -45,19 +45,19 @@ Queueing for transfers to mainland, Moria, Lesvos 3/5/2020 \(Photo by MCAT: Aman
 As confirmed by several sources, they had all a ticket to Athens but it is still not clear where they will be taken on the mainland\. They reached Pireaus port in Attica, on [two](https://twitter.com/amna_newseng/status/1257201169883115525) different [ferries](https://twitter.com/amna_newseng/status/1257237862900289536) this morning\.
 
 
-![](assets/82d756305e1b/0*wFWz27Qb6W-1qcTr)
+![](../assets/82d756305e1b/0*wFWz27Qb6W-1qcTr)
 
 
 
-![](assets/82d756305e1b/0*Kx3nCRxvi02eu-ky.jpeg)
+![](../assets/82d756305e1b/0*Kx3nCRxvi02eu-ky.jpeg)
 
 
 
-![](assets/82d756305e1b/0*91T7dUEbHchMuEpF)
+![](../assets/82d756305e1b/0*91T7dUEbHchMuEpF)
 
 
 
-![](assets/82d756305e1b/0*deuI8FlsXMauPtMj.jpeg)
+![](../assets/82d756305e1b/0*deuI8FlsXMauPtMj.jpeg)
 
 
 Queueing for transfers to the mainland, Moria, Lesvos 3/5/2020 \(Photo by MCAT: Amani Hussaini/Atawallah Mostafawi\)
@@ -206,19 +206,19 @@ UK
 On Sunday, Demands of a Pandemic held their fourth [banner drop](https://www.facebook.com/events/644337163088936/?active_tab=discussion) \.
 
 
-![](assets/82d756305e1b/0*hamJlztlquvBPnxF)
+![](../assets/82d756305e1b/0*hamJlztlquvBPnxF)
 
 
 
-![](assets/82d756305e1b/0*Owv1M50oaHnMrECi.jpeg)
+![](../assets/82d756305e1b/0*Owv1M50oaHnMrECi.jpeg)
 
 
 
-![](assets/82d756305e1b/0*w4YFzjiQHrpvH5pk)
+![](../assets/82d756305e1b/0*w4YFzjiQHrpvH5pk)
 
 
 
-![](assets/82d756305e1b/0*rC01AbM4M-u_IdjE.jpeg)
+![](../assets/82d756305e1b/0*rC01AbM4M-u_IdjE.jpeg)
 
 
 Demands from a Pandemic — End All Cages — Photos by Filippah Metcaarf & [Keira Nightly](https://www.facebook.com/keira.dignan/posts/10215428618181349:0)

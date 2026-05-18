@@ -1,20 +1,20 @@
 ---
-title: AYS Weekend Digest 10–11/10/2020: Save Pikpa
+title: "AYS Weekend Digest 10–11/10/2020: Save Pikpa"
 author: Are You Syrious?
 date: 2020-10-12T15:40:39.944+0100
 last_modified_at: 2020-10-12T15:40:39.944+0100
 categories: Are You Syrious?
 tags: [digest,refugees,save-pikpa,syruan-turkish-border,europe]
-description: Four people die in a minefield on the Syrian-Turkish border / Libya: 50 people on the move kidnapped from their homes / Shipwreck off…
+description: "Four people die in a minefield on the Syrian-Turkish border / Libya: 50 people on the move kidnapped from their homes / Shipwreck off…"
 image:
-  path: assets/19af8662cfdd/0*J8gXm0566vlmvtD4.jpeg
+  path: ../assets/19af8662cfdd/0*J8gXm0566vlmvtD4.jpeg
 ---
 
 ### AYS Weekend Digest 10–11/10/2020: Save Pikpa
 ### Four people die in a minefield on the Syrian\-Turkish border / Libya: 50 people on the move kidnapped from their homes / Shipwreck off Tunisia: 11 die and 11 are missing …
 
 
-![](assets/19af8662cfdd/0*fBuYCt4hdhCBueNd.jpeg)
+![](../assets/19af8662cfdd/0*fBuYCt4hdhCBueNd.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----b781be2ba943--------------------------------)
@@ -22,11 +22,11 @@ image:
 [Oct 12](ays-weekend-digest-10-11-10-2020-save-pikpa-b781be2ba943?source=post_page-----b781be2ba943--------------------------------) · 13 min read
 
 
-![](assets/19af8662cfdd/0*AhczzXjstwv6QpDf)
+![](../assets/19af8662cfdd/0*AhczzXjstwv6QpDf)
 
 
 
-![](assets/19af8662cfdd/0*J8gXm0566vlmvtD4.jpeg)
+![](../assets/19af8662cfdd/0*J8gXm0566vlmvtD4.jpeg)
 
 ### Pikpa to be evicted Monday 12th October
 
@@ -54,11 +54,11 @@ Since before the ‘migration crisis’ and throughout it, Pikpa especially has 
 Acts of solidarity are spreading throughout Lesvos, Greece and the rest of Europe\.
 
 
-![](assets/19af8662cfdd/0*fxx3fsjIJDd9orlK)
+![](../assets/19af8662cfdd/0*fxx3fsjIJDd9orlK)
 
 
 
-![](assets/19af8662cfdd/0*csrLL0jAt6paxvgH.jpeg)
+![](../assets/19af8662cfdd/0*csrLL0jAt6paxvgH.jpeg)
 
 
 Below is a letter written by a neighbour of the camp, directed to the Mayor of Mytilene:

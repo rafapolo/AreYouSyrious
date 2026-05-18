@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 9/8/19: When in doubt, Europe deports
+title: "AYS Daily Digest 9/8/19: When in doubt, Europe deports"
 author: Are You Syrious?
 date: 2019-08-10T10:17:58.237+0100
 last_modified_at: 2019-08-12T00:30:27.791+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,europe,deportations,greece,human-rights]
 description: EU states’ inhumane decisions of deportations are sending thousands (back) to danger, or leaving people without a chance of a normal life…
 image:
-  path: assets/6bc32a8ed2b7/1*0ZiwZ-wH9rNhdzJm9LJl8g.jpeg
+  path: ../assets/6bc32a8ed2b7/1*0ZiwZ-wH9rNhdzJm9LJl8g.jpeg
 ---
 
 ### AYS Daily Digest 9/8/19: When in doubt, Europe deports
 #### EU states’ inhumane decisions of deportations are sending thousands \(back\) to danger, or leaving people without a chance of a normal life due to stateless status / 20,500 people on the Greek islands / IOM’s VRR programme on hold in Greece / The European Commission expects urgent answer of Croatian authorities to the allegations / & more news
 
 
-![Athens\. Exarcheia \(Source: @stack\_ff\)](assets/6bc32a8ed2b7/1*0ZiwZ-wH9rNhdzJm9LJl8g.jpeg)
+![Athens\. Exarcheia \(Source: @stack\_ff\)](../assets/6bc32a8ed2b7/1*0ZiwZ-wH9rNhdzJm9LJl8g.jpeg)
 
 Athens\. Exarcheia \(Source: @stack\_ff\)
 #### FEATURED
@@ -69,7 +69,7 @@ However, on 3 August, without being able to challenge OFPRA’s decision and des
 Days after being rescued by the Proactiva Open Arms ship, the 121 people \(including 30 children and two babies\) remain on board the overcrowded vessel, in heat and tough conditions\. They are located about 30 nautical miles from Italy, between Malta and Lampedusa\. Many have expressed their support, the latest \(and most prominent\) being the American actor Richard Gere, who visited the people on board the ship\.
 
 
-![Photo: [**Oscar Camps**](https://twitter.com/campsoscar)](assets/6bc32a8ed2b7/1*tCwrpRB0-yO7ZQwEPIXBoQ.jpeg)
+![Photo: [**Oscar Camps**](https://twitter.com/campsoscar)](../assets/6bc32a8ed2b7/1*tCwrpRB0-yO7ZQwEPIXBoQ.jpeg)
 
 Photo: [**Oscar Camps**](https://twitter.com/campsoscar)
 
@@ -121,7 +121,7 @@ There is a growing tension and an increased police presence in several areas of 
 3 different police patrols in Piraeus metro station were present this Friday morning, asking for papers, holding people off and prosecuting people for skin color or appearance, under heatwave, even refugee women with babies, [NoBorders](https://www.facebook.com/nobordersnetwork/?__tn__=%2CdkCH-R-R&eid=ARB4JrkfbxK7GOf_bfmpkASmrPfQ41dp3D_LohEE6C0YNCX4mSkYfRbLxppBHt8xjPtwsPfTLTuFUr5_&hc_ref=ARSqDAatj613-x0okOGdJZN_aHLkOwsnDgA6bNq_J-wwULHAUci21PjmRlt4LYasnCg&fref=nf&hc_location=group) team has reported\.
 
 
-![Photo: [NoBorders](https://www.facebook.com/nobordersnetwork/?__tn__=%2CdkCH-R-R&eid=ARB4JrkfbxK7GOf_bfmpkASmrPfQ41dp3D_LohEE6C0YNCX4mSkYfRbLxppBHt8xjPtwsPfTLTuFUr5_&hc_ref=ARSqDAatj613-x0okOGdJZN_aHLkOwsnDgA6bNq_J-wwULHAUci21PjmRlt4LYasnCg&fref=nf&hc_location=group)](assets/6bc32a8ed2b7/1*xH3wQcIH8meW8wjxdB6R2w.png)
+![Photo: [NoBorders](https://www.facebook.com/nobordersnetwork/?__tn__=%2CdkCH-R-R&eid=ARB4JrkfbxK7GOf_bfmpkASmrPfQ41dp3D_LohEE6C0YNCX4mSkYfRbLxppBHt8xjPtwsPfTLTuFUr5_&hc_ref=ARSqDAatj613-x0okOGdJZN_aHLkOwsnDgA6bNq_J-wwULHAUci21PjmRlt4LYasnCg&fref=nf&hc_location=group)](../assets/6bc32a8ed2b7/1*xH3wQcIH8meW8wjxdB6R2w.png)
 
 Photo: [NoBorders](https://www.facebook.com/nobordersnetwork/?__tn__=%2CdkCH-R-R&eid=ARB4JrkfbxK7GOf_bfmpkASmrPfQ41dp3D_LohEE6C0YNCX4mSkYfRbLxppBHt8xjPtwsPfTLTuFUr5_&hc_ref=ARSqDAatj613-x0okOGdJZN_aHLkOwsnDgA6bNq_J-wwULHAUci21PjmRlt4LYasnCg&fref=nf&hc_location=group)
 ### Heatwave continues
@@ -161,7 +161,7 @@ Una Sana Canton’s Health Minister made the announcement on August 8, a day aft
 Bosnian media and a Croatian refugee assistance center said they were beaten by Croatian police, an allegation that Zagreb authorities \(once again\) deny\.
 
 
-![Photo copyrights: Daniel Dzyak \(ARD\)](assets/6bc32a8ed2b7/1*u-c9y05pPafvLtnZWqhIZA.jpeg)
+![Photo copyrights: Daniel Dzyak \(ARD\)](../assets/6bc32a8ed2b7/1*u-c9y05pPafvLtnZWqhIZA.jpeg)
 
 Photo copyrights: Daniel Dzyak \(ARD\)
 #### CROATIA

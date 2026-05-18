@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 22/1/21: 6.5 Mio. Euros for a fake NGO
+title: "AYS Daily Digest 22/1/21: 6.5 Mio. Euros for a fake NGO"
 author: Are You Syrious?
 date: 2021-01-23T14:49:46.159+0000
 last_modified_at: 2021-01-23T18:49:14.597+0000
 categories: Are You Syrious?
 tags: [refugee,digest,ngo,syria,greece]
-description: Syria: deteriorating security conditions at al-Hol camp / Flooding in the Arsal refugee camp during strict COVID-19 lockdown makes access…
+description: "Syria: deteriorating security conditions at al-Hol camp / Flooding in the Arsal refugee camp during strict COVID-19 lockdown makes access…"
 image:
-  path: assets/419c308e3ae3/1*LJ1Qeho-s-5Vt9A9laPdcw.jpeg
+  path: ../assets/419c308e3ae3/1*LJ1Qeho-s-5Vt9A9laPdcw.jpeg
 ---
 
 ### AYS Daily Digest 22/1/21: 6\.5 Mil\. Euros for a fake NGO
 #### Syria: deteriorating security conditions at al\-Hol camp / Flooding in the Arsal refugee camp during strict COVID\-19 lockdown makes access to humanitarian aid difficult / refugees being threatened in Canary islands / Message from Napier barracks
 
 
-![A lot of money is spent — but it doesn’t arrive the people\. Credits: Twitter/ [refugeemoria2](https://twitter.com/refugeemoria2/status/1343511877410824192/photo/1)](assets/419c308e3ae3/1*LJ1Qeho-s-5Vt9A9laPdcw.jpeg)
+![A lot of money is spent — but it doesn’t arrive the people\. Credits: Twitter/ [refugeemoria2](https://twitter.com/refugeemoria2/status/1343511877410824192/photo/1)](../assets/419c308e3ae3/1*LJ1Qeho-s-5Vt9A9laPdcw.jpeg)
 
 A lot of money is spent — but it doesn’t arrive the people\. Credits: Twitter/ [refugeemoria2](https://twitter.com/refugeemoria2/status/1343511877410824192/photo/1)
 #### FEATURED

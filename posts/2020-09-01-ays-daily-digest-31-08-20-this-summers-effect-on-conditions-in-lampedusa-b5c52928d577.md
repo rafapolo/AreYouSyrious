@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [greece,italy,digest,refugees,covid-19]
 description: Many sea updates on rescue ships // pushbacks and detention in Slovenia // Vienna wants to take in 100 children from Moria // and more…
 image:
-  path: assets/b5c52928d577/0*NuVih2HdsLBBaB4C.jpeg
+  path: ../assets/b5c52928d577/0*NuVih2HdsLBBaB4C.jpeg
 ---
 
 ### AYS Daily Digest 31/08/20 This summer’s effect on conditions in Lampedusa
 ### Many sea updates on rescue ships // pushbacks and detention in Slovenia // Vienna wants to take in 100 children from Moria // and more…
 
 
-![](assets/b5c52928d577/0*p_KktdyJUf96GzfP.jpeg)
+![](../assets/b5c52928d577/0*p_KktdyJUf96GzfP.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----a5752aec1c48----------------------)
@@ -22,11 +22,11 @@ image:
 [Sep 1](ays-daily-digest-31-08-20-this-summers-effect-on-conditions-in-lampedusa-a5752aec1c48?source=post_page-----a5752aec1c48----------------------) · 11 min read
 
 
-![](assets/b5c52928d577/0*P-Hb78m8rqfqz1eA)
+![](../assets/b5c52928d577/0*P-Hb78m8rqfqz1eA)
 
 
 
-![](assets/b5c52928d577/0*NuVih2HdsLBBaB4C.jpeg)
+![](../assets/b5c52928d577/0*NuVih2HdsLBBaB4C.jpeg)
 
 ### FEATURE: Lampedusa’s horrible conditions for refugees coming into focus again
 
@@ -91,11 +91,11 @@ The environment they are fleeing from includes a lot of hardship\. Mustapha Kess
 [Quote by](https://www.irishtimes.com/news/world/europe/europe-doesn-t-care-about-black-lives-activists-say-as-hundreds-abandoned-at-sea-1.4343108?fbclid=IwAR2R86_8ZjMKXnISgm4yQ0s3Z0oT8btjZdjMUS9dYj9JdEqEyhkvk5AVkWU) a refuge from Cameroon, written on board Sea\-Watch 4\.
 
 
-![](assets/b5c52928d577/0*WrSLk4SgVtQxBE9y)
+![](../assets/b5c52928d577/0*WrSLk4SgVtQxBE9y)
 
 
 
-![](assets/b5c52928d577/0*Qu_aNiEbGqSFZTWv.jpeg)
+![](../assets/b5c52928d577/0*Qu_aNiEbGqSFZTWv.jpeg)
 
 
 In an update from [Sea Watch](https://www.facebook.com/seawatchprojekt/posts/2628299654054766) : “In the past week, our Moonbird crew spotted seven boats with more than 380 people on board in five missions:”
@@ -130,11 +130,11 @@ This is excellent news\! [The Mayor of Marseille](https://www.connexionfrance.co
 ### GREECE
 
 
-![](assets/b5c52928d577/0*-IcVie3Q0TqZ40h9)
+![](../assets/b5c52928d577/0*-IcVie3Q0TqZ40h9)
 
 
 
-![](assets/b5c52928d577/0*q8V8R8Hi0hG9uuo1.jpeg)
+![](../assets/b5c52928d577/0*q8V8R8Hi0hG9uuo1.jpeg)
 
 
 The second hunger strike in Moria pre\-removal detention centre \(PRO\.KE\.K\.A\) is ongoing\. About 60 detainees are involved\. For context, [Deportation Monitoring Aegean](https://dm-aegean.bordermonitoring.eu/2020/08/26/second-hunger-strike-in-moria-detention-centre-this-year/) elaborated:
@@ -172,11 +172,11 @@ In an update from the [Greek Helsinki Monitor](https://twitter.com/VassilisTsarn
 To learn more about a Syrian family’s experience with pushbacks from Greece to Turkey, read Toon Beemsterboer’s piece [“Greece ends Turkey’s deal with the deportation of migrants\.”](https://www.nrc.nl/nieuws/2020/08/30/griekenland-trekt-streep-door-turkijedeal-met-deportatie-van-migranten-a4010298)
 
 
-![](assets/b5c52928d577/0*bVz8uqnuDjsYfWoy)
+![](../assets/b5c52928d577/0*bVz8uqnuDjsYfWoy)
 
 
 
-![](assets/b5c52928d577/0*nmnLl3oAY6mzAy6R.png)
+![](../assets/b5c52928d577/0*nmnLl3oAY6mzAy6R.png)
 
 ### MALTA
 
@@ -184,11 +184,11 @@ The government has announced that it will be spending €33,500 a day \(over €
 ### ITALY
 
 
-![](assets/b5c52928d577/0*5AS8XAo6NASmKdwd)
+![](../assets/b5c52928d577/0*5AS8XAo6NASmKdwd)
 
 
 
-![](assets/b5c52928d577/0*0aNd0uyIRsNyBPe-.jpeg)
+![](../assets/b5c52928d577/0*0aNd0uyIRsNyBPe-.jpeg)
 
 ### Boat catches fire; at least 4 people died
 
@@ -218,11 +218,11 @@ _“There was a shooting last night\. The guys who did it were found and the she
 ### SLOVENIA
 
 
-![](assets/b5c52928d577/0*OpPG36gBS-8pQAzg)
+![](../assets/b5c52928d577/0*OpPG36gBS-8pQAzg)
 
 
 
-![](assets/b5c52928d577/0*wR-YMC45tN-Q7fL9.jpeg)
+![](../assets/b5c52928d577/0*wR-YMC45tN-Q7fL9.jpeg)
 
 
 Kristina Božič for Kosovo 2\.0 wrote an in\-depth report on how access to asylum in Slovenia remains problematic at best\. Many of the practices of detaining people, including children, have been compared to the tortuous Hungarian practices:
@@ -259,20 +259,20 @@ Read in full [here](https://www.facebook.com/michel.brandt.linke/posts/264060955
 ### DENMARK
 
 
-![](assets/b5c52928d577/0*loAukYPWv40ilar9)
+![](../assets/b5c52928d577/0*loAukYPWv40ilar9)
 
 
 
-![](assets/b5c52928d577/0*k5orYZp_2juRt2Vr.jpeg)
+![](../assets/b5c52928d577/0*k5orYZp_2juRt2Vr.jpeg)
 
 ### NORWAY
 
 
-![](assets/b5c52928d577/0*_dYAAjxMmCwD4PNp)
+![](../assets/b5c52928d577/0*_dYAAjxMmCwD4PNp)
 
 
 
-![](assets/b5c52928d577/0*jVCRf4uMfI4EEPY_.jpeg)
+![](../assets/b5c52928d577/0*jVCRf4uMfI4EEPY_.jpeg)
 
 ### GENERAL
 

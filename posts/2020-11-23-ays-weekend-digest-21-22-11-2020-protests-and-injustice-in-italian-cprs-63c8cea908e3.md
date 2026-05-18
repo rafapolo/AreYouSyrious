@@ -7,18 +7,18 @@ categories: Are You Syrious?
 tags: [digest,italy,mawda,deportations,detention]
 description: British Home Office plan mass deportation to Jamaica // Calls to stop the construction of the new ‘camp’ on Lesvos, Greece // First snow…
 image:
-  path: assets/63c8cea908e3/0*6PDrMM2n0P7CpHr9.jpeg
+  path: ../assets/63c8cea908e3/0*6PDrMM2n0P7CpHr9.jpeg
 ---
 
 ### AYS Weekend Digest 21–22/11/2020 Protests and injustice in Italian CPRs
 #### _British Home Office plan mass deportation to Jamaica // Calls to stop the construction of the new ‘camp’ on Lesvos, Greece // First snow over Lipa camp, BiH // Videos and reports from Tuesday’s eviction in Paris\._
 
 
-![](assets/63c8cea908e3/0*wBIhS9lyHmjTgHFi)
+![](../assets/63c8cea908e3/0*wBIhS9lyHmjTgHFi)
 
 
 
-![](assets/63c8cea908e3/0*6PDrMM2n0P7CpHr9.jpeg)
+![](../assets/63c8cea908e3/0*6PDrMM2n0P7CpHr9.jpeg)
 
 
 \(Photo Credit: [Ferri Matheeuwsen](https://www.facebook.com/ferri.matheeuwsen?__cft__[0]=AZW3veMME7ylhOe3-u7Apv8nfwtXa2ri4X4GXpiDJWLXuRl18iyZJ5y1BKivaxJ3iDgwPBf7R_W36e7_0lyceaCTOM8k95qvvC20adkOwHEYP_NqDu4QU23hGD3aItCBe69fxdeNVHGiY7hNmnJFpxhFr1-NbyHNVszfMPzSfoWoIAgKu7Ubl3KFhV7wv09KWuXp_UQ1f6hFa1Wwa06DoIWF&__tn__=-UC%2CP-y-y-R) \. A very sad morning in Calais\. Despite the rain or the cold… big dismantling in Marcq and Hospital\. Mercilessly we leave hundreds of men without blankets tents or even shoes or clothes\. What a country of shame\! I’m crying and raging\. \)

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 26/9/19: Lebanese authorities call (again) for the return of Syrian displaced…
+title: "AYS Daily Digest 26/9/19: Lebanese authorities call (again) for the return of Syrian displaced…"
 author: Are You Syrious?
 date: 2019-09-27T10:38:56.760+0100
 last_modified_at: 2019-09-27T10:38:56.760+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,moria,digest,tuzla,detention-centres]
 description: Hunger striker in Italy obtains political asylum /// Updates from Greek camps ///  Greek government stop issuing social security numbers…
 image:
-  path: assets/5acd4407ae75/1*c1jx0dY7EV7AP6XQPUU6xg.jpeg
+  path: ../assets/5acd4407ae75/1*c1jx0dY7EV7AP6XQPUU6xg.jpeg
 ---
 
 ### AYS Daily Digest 26/9/19: Lebanese authorities call \(again\) for the return of Syrian displaced people
@@ -15,7 +15,7 @@ image:
 Hunger striker in Italy obtains political asylum /// Updates from Greek camps /// Greek government stop issuing social security numbers to third nationals /// Updates from Tuzla, BiH /// New border controls between Austria and Germany
 
 
-![Moria, Lesvos, 26/9/2019 \(Photo by [NoBorders](https://www.facebook.com/657905327610696/posts/2497018837032660?sfns=mo) \)](assets/5acd4407ae75/1*c1jx0dY7EV7AP6XQPUU6xg.jpeg)
+![Moria, Lesvos, 26/9/2019 \(Photo by [NoBorders](https://www.facebook.com/657905327610696/posts/2497018837032660?sfns=mo) \)](../assets/5acd4407ae75/1*c1jx0dY7EV7AP6XQPUU6xg.jpeg)
 
 Moria, Lesvos, 26/9/2019 \(Photo by [NoBorders](https://www.facebook.com/657905327610696/posts/2497018837032660?sfns=mo) \)
 #### FEATURED
@@ -69,11 +69,11 @@ According to the [data](https://infocrisis.gov.gr/6212/national-situational-pict
 The Legal Centre Lesvos [report](https://www.facebook.com/LesvosLegal/photos/a.1152003994838312/2645522888819741/?type=1&theater) that “two nights ago, with the first heavy rains of the season, approximately 200 people were left in the rain without tents or any shelter inside Moria Camp, as the camp is now approximately four times over its capacity\. The covered concrete area used as a food line was their only shelter throughout the night\. It is difficult to describe the level of inhumanity people are enduring here”\.
 
 
-![](assets/5acd4407ae75/1*4zfA1JNAP2DIcr0sGTJ30A.jpeg)
+![](../assets/5acd4407ae75/1*4zfA1JNAP2DIcr0sGTJ30A.jpeg)
 
 
 
-![Moria, Lesvos 26/9/2019 \(Photos by [NoBorders](https://www.facebook.com/657905327610696/posts/2497018837032660?sfns=mo) \)](assets/5acd4407ae75/1*--beB3uY9UGGIEyDzbmTdQ.jpeg)
+![Moria, Lesvos 26/9/2019 \(Photos by [NoBorders](https://www.facebook.com/657905327610696/posts/2497018837032660?sfns=mo) \)](../assets/5acd4407ae75/1*--beB3uY9UGGIEyDzbmTdQ.jpeg)
 
 Moria, Lesvos 26/9/2019 \(Photos by [NoBorders](https://www.facebook.com/657905327610696/posts/2497018837032660?sfns=mo) \)
 
@@ -103,7 +103,7 @@ Please show your solidarity with migrants on Lesvos and consider sharing our rep
 According to [Greek media outlets](https://www.keeptalkinggreece.com/2019/09/26/moria-decongration-asylum-seekers-mainland/) , these people will be “distributed” to accommodation facilities in Eleonas and Schisto in Attica, in Thebes and Thermopylae, Viotia, and Katsika camp in Ioannina, Epirus\. Local volunteers informed us that 300 people were taken on Tuesday from Samos to the new temporary camp in Corinthos\.
 
 
-[![Corinth "temporary" refugee camp - 25/9/2019](assets/5acd4407ae75/53fc_hqdefault.jpg "Corinth "temporary" refugee camp - 25/9/2019")](http://www.youtube.com/watch?v=8nwa8nImIhs)
+[![Corinth "temporary" refugee camp - 25/9/2019](../assets/5acd4407ae75/53fc_hqdefault.jpg "Corinth "temporary" refugee camp - 25/9/2019")](http://www.youtube.com/watch?v=8nwa8nImIhs)
 
 
 1,000 people have been recently transferred to Nea Kevala, in northern Greece and are living in very difficult conditions\.
@@ -135,17 +135,17 @@ BOSNIA AND HERZEGOVINA
 **On Wednesday night several families arrived at the bus station in Tuzla with dozens of lively children\.**
 
 
-![](assets/5acd4407ae75/1*Xr6vySMS7JaiYtzfJSQEmg.jpeg)
+![](../assets/5acd4407ae75/1*Xr6vySMS7JaiYtzfJSQEmg.jpeg)
 
 
 The children are always the first ones to get close to the volunteers on site who try to answer their needs to the extent possible\. Small and symbolic gestures mean to families with children, such as priority in the food distribution, exhausting all means to find accommodation for them, and the overall engagement volunteers have with the little ones\.
 
 
-![](assets/5acd4407ae75/1*l24WoFCAOXLC8A-CqkAmAA.jpeg)
+![](../assets/5acd4407ae75/1*l24WoFCAOXLC8A-CqkAmAA.jpeg)
 
 
 
-![](assets/5acd4407ae75/1*ZcCIN4D67xq3EFl0CkJm3g.jpeg)
+![](../assets/5acd4407ae75/1*ZcCIN4D67xq3EFl0CkJm3g.jpeg)
 
 
 Some families went on, towards Sarajevo\. A Syrian family with four children was about to spend the night at the station when the locals were reporting about the situation, but another solution was found for them, although there still exists no permanent or official solution for people in such situation, no organized lodging\. Therefore, the volunteers use their own homes to provide shelter to the people, with the help of the Baptist church in Tuzla and the Wave organisation\. The church already hosts a lot of families and individuals who have been there for several days already\. There is no place for new families\. Food supplies sufficed for about a hundred people coming mostly from Pakistan, Bangladesh, Algeria, Morocco, Syria, … During the day, a lot of people left Tuzla\. Some took the buses to Sarajevo, while others boarded the trains to Bihać\. The train leaves every day at 17:09h, while the buses to Sarajevo also depart daily and hourly\.
@@ -155,14 +155,14 @@ A delegation of the UNHCR was visiting Tuzla for a couple fo days, coming to see
 Whether the visits and considerations are a form of diverging from the massive accountability shortfalls of UN humanitarian assistance or something might change, nobody knows and nobody was called to have their say on te issue they alone have been struggling with for the past year\. Time will tell\.
 
 
-![Photos: Senad Cupo](assets/5acd4407ae75/1*xmzsCIkzKA6bO_LnCVOe0g.jpeg)
+![Photos: Senad Cupo](../assets/5acd4407ae75/1*xmzsCIkzKA6bO_LnCVOe0g.jpeg)
 
 Photos: Senad Cupo
 
 Psychological state people are in is alarming\. Many are desperate, some have been in Bosnia and Herzegovina for too long, moving from one town to another, only some manage to cross the border\. Aside from the food and accommodation, the city craves for psychological help for the people stuck there\.
 
 
-![Volunteers in Tuzla report more segregational and racist policies by the local businesses — this notice awaited for an Italian volunteer and two families from Iran when they came to have lunch at Hotel Tazz\. I guess none of them is welcome as we all are migrants, we hope people react strongly to each such demonstration of racism wherever they encounter it\!](assets/5acd4407ae75/1*nAEPMLkxPrOGPWB-oTPKVg.jpeg)
+![Volunteers in Tuzla report more segregational and racist policies by the local businesses — this notice awaited for an Italian volunteer and two families from Iran when they came to have lunch at Hotel Tazz\. I guess none of them is welcome as we all are migrants, we hope people react strongly to each such demonstration of racism wherever they encounter it\!](../assets/5acd4407ae75/1*nAEPMLkxPrOGPWB-oTPKVg.jpeg)
 
 Volunteers in Tuzla report more segregational and racist policies by the local businesses — this notice awaited for an Italian volunteer and two families from Iran when they came to have lunch at Hotel Tazz\. I guess none of them is welcome as we all are migrants, we hope people react strongly to each such demonstration of racism wherever they encounter it\!
 

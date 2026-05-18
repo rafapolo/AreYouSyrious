@@ -1,13 +1,13 @@
 ---
-title: AYS Daily Newsletter 15/7/21: Italy votes to renew collaboration with the criminal Libyan Coast…
+title: "AYS Daily Newsletter 15/7/21: Italy votes to renew collaboration with the criminal Libyan Coast…"
 author: Are You Syrious?
 date: 2021-07-16T18:41:25.081+0100
 last_modified_at: 2021-07-16T19:12:04.852+0100
 categories: Are You Syrious?
 tags: []
-description: Greece: “A lack of compliance with European and international law in practice, with violations of rights, such as deportations or reception…
+description: "Greece: “A lack of compliance with European and international law in practice, with violations of rights, such as deportations or reception…"
 image:
-  path: assets/e2ffbe2cbd59/0*x7YP4VqEHC6CA2Bc
+  path: ../assets/e2ffbe2cbd59/0*x7YP4VqEHC6CA2Bc
 ---
 
 ### AYS Daily Newsletter 15/7/21: Italy votes to renew collaboration with the criminal Libyan Coast Guard
@@ -16,7 +16,7 @@ image:
 [Are You Syrious?](?source=post_page-----cbcf6ead4f9e--------------------------------) · [Jul 16](ays-daily-digest-15-7-21-italy-votes-for-the-renewal-of-collaboration-with-the-criminal-libyan-cbcf6ead4f9e?source=post_page-----cbcf6ead4f9e--------------------------------) · 9 min read
 
 
-![](assets/e2ffbe2cbd59/0*x7YP4VqEHC6CA2Bc)
+![](../assets/e2ffbe2cbd59/0*x7YP4VqEHC6CA2Bc)
 
 
 Italy votes “yes” on this\.
@@ -25,7 +25,7 @@ Italy votes “yes” on this\.
 Italy’s cooperation mission with the Libyan Coast Guard, which will be gradually transferred to the European mission Irini, has received confirmation as the Italian parliament voted with 361 votes in favor, 34 against and 22 abstentions\. Renewing cooperation with — and funding for — the so\-called Libyan Coast Guard is on\.
 
 
-![still via [borderline\-europe](https://twitter.com/BorderlineEurop)](assets/e2ffbe2cbd59/0*PDGbdcn_dZOum5yE)
+![still via [borderline\-europe](https://twitter.com/BorderlineEurop)](../assets/e2ffbe2cbd59/0*PDGbdcn_dZOum5yE)
 
 still via [borderline\-europe](https://twitter.com/BorderlineEurop)
 
@@ -125,11 +125,11 @@ Resurfacing of an earlier report in the Norwegian press has made [headlines](htt
 As deportations continue, the recent question is on relations with Zimbabwe, ahead of another announced deportation:
 
 
-![](assets/e2ffbe2cbd59/0*Jvm5CdV6rCmm-MG1)
+![](../assets/e2ffbe2cbd59/0*Jvm5CdV6rCmm-MG1)
 
 
 
-![](assets/e2ffbe2cbd59/0*_I-hUcJ32Tv3v5nJ)
+![](../assets/e2ffbe2cbd59/0*_I-hUcJ32Tv3v5nJ)
 
 
 A petition against deportations was started and is available here:

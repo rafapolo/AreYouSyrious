@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe]
 description: Syrian government troops launch ground assault on Aleppo. Only 4,455 refugees relocated from Greece so far. Donations needed for Calais and…
 image:
-  path: assets/55af37cdb7a7/0*-0LksPQfi3w0AF9c.jpg
+  path: ../assets/55af37cdb7a7/0*-0LksPQfi3w0AF9c.jpg
 ---
 
 ### AYS Digest 28\.09 — Calais bracing for eviction
 
 
-![Photo by The Worldwide Tribe](assets/55af37cdb7a7/0*-0LksPQfi3w0AF9c.jpg)
+![Photo by The Worldwide Tribe](../assets/55af37cdb7a7/0*-0LksPQfi3w0AF9c.jpg)
 
 Photo by The Worldwide Tribe
 
@@ -68,11 +68,11 @@ He also criticized EU member states for not accepting enough refugees under the 
 Chios residents held a protest today, demanding immediate measures to reduce the number of refugees on the island\. Organizers said the rally will be closely monitored to avoid the intrusion of far\-right elements\. Employees of the Greek and European Asylum Service on Chios also staged a symbolic protest on Tuesday, by blocking the entrance to the overcrowded Vial camp, demanding greater policing\.
 
 
-![](assets/55af37cdb7a7/0*ojTO-hze7YAXssCo.jpg)
+![](../assets/55af37cdb7a7/0*ojTO-hze7YAXssCo.jpg)
 
 
 
-![](assets/55af37cdb7a7/0*Bkt-R14-PKWOd45Z.jpg)
+![](../assets/55af37cdb7a7/0*Bkt-R14-PKWOd45Z.jpg)
 
 ### Only 4,445 refugees relocated so far
 
@@ -106,12 +106,12 @@ The group plans to buy things directly from shops in Paris until their physical 
 Parisian volunteers are also collecting hygiene items, men’s clothes, and shoes at the church St\. Bernard de la Chapelle, 12 rue St\. Bruno 75018 Paris\. If you live in Paris, you can deposit items Tuesday to Saturday from 15h to 18h\. The items are then distributed during the weekend\.
 
 
-![Photo by Craig Rennie](assets/55af37cdb7a7/0*G2xlsVjlJQ__sroB.)
+![Photo by Craig Rennie](../assets/55af37cdb7a7/0*G2xlsVjlJQ__sroB.)
 
 Photo by Craig Rennie
 
 
-![Photo by Craig Rennie](assets/55af37cdb7a7/0*xaV12oQP46hqwBn8.)
+![Photo by Craig Rennie](../assets/55af37cdb7a7/0*xaV12oQP46hqwBn8.)
 
 Photo by Craig Rennie
 ### Donations needed in Calais

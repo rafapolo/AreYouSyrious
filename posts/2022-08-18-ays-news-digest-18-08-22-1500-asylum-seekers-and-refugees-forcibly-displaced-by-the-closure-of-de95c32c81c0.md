@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 18/08/22: 1500 asylum seekers and refugees forcibly displaced by the closure of…
+title: "AYS News Digest 18/08/22: 1500 asylum seekers and refugees forcibly displaced by the closure of…"
 author: Are You Syrious?
 date: 2022-08-18T14:50:25.022+0100
 last_modified_at: 2022-08-18T17:48:53.251+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,human-rights,greece,european-union]
 description: Closure of Eleonas reception centre // further inaction on the Evros border // 17 people in distress near Lampedusa // an EU-Morocco deal…
 image:
-  path: assets/de95c32c81c0/1*VjeslTrnl9Zw3wdH476YTQ.png
+  path: ../assets/de95c32c81c0/1*VjeslTrnl9Zw3wdH476YTQ.png
 ---
 
 ### **AYS News Digest 18/08/22: 1500 asylum seekers and refugees forcibly displaced by the closure of Athens’ Eleonas camp**
@@ -15,7 +15,7 @@ image:
 Closure of Eleonas reception centre // further inaction on the Evros border // 17 people in distress near Lampedusa // an EU\-Morocco deal in the same vein as the EU\-Turkey one? // an increase in detentions and departure preventions in Tunisia and Libya // Tripoli’s flight ban violates international law // indefinite detention in Poland // Berlin airport’s deportation centre finds a dodgy donor // Frontex and EUCAP Sahel\-Niger sign an ‘operational partnership’ // Josoor forced to dissolve & much more
 
 
-![A screenshot from footage taken at Eleonas by a resident\. Available here: [https://twitter\.com/SchmitzFlorian\_/status/1559559874983469059](https://twitter.com/SchmitzFlorian_/status/1559559874983469059)](assets/de95c32c81c0/1*VjeslTrnl9Zw3wdH476YTQ.png)
+![A screenshot from footage taken at Eleonas by a resident\. Available here: [https://twitter\.com/SchmitzFlorian\_/status/1559559874983469059](https://twitter.com/SchmitzFlorian_/status/1559559874983469059)](../assets/de95c32c81c0/1*VjeslTrnl9Zw3wdH476YTQ.png)
 
 A screenshot from footage taken at Eleonas by a resident\. Available here: [https://twitter\.com/SchmitzFlorian\_/status/1559559874983469059](https://twitter.com/SchmitzFlorian_/status/1559559874983469059)
 #### Residents of Eleonas camp will be forced to live on the streets\.
@@ -172,7 +172,7 @@ Seven women and a baby are amongst the victims, who spent eight hours awaiting a
 Spanish authorities received a distress call from a vessel 7km off Fuerteventura on Monday night\. The boat was located in a distressing condition, with three deceased bodies on board amongst those who were rescued\.
 
 
-![_Spanish rescuers were busy this weekend, pulling people from the waters around their Atlantic archipelago, the Canary Islands \| Photo: Picture Alliance / Pacific Press_](assets/de95c32c81c0/1*jEkJtmsD0kEKHSN89B_pqw.jpeg)
+![_Spanish rescuers were busy this weekend, pulling people from the waters around their Atlantic archipelago, the Canary Islands \| Photo: Picture Alliance / Pacific Press_](../assets/de95c32c81c0/1*jEkJtmsD0kEKHSN89B_pqw.jpeg)
 
 _Spanish rescuers were busy this weekend, pulling people from the waters around their Atlantic archipelago, the Canary Islands \| Photo: Picture Alliance / Pacific Press_
 
@@ -197,7 +197,7 @@ The severity of their sentence illustrates the use of the judicial system as a d
 #### Morocco is set to receive €500 million from the EU to control its borders against irregular immigration\. A new EU\-Turkey deal?
 
 
-![**AP/BERNAT ARMANGUE** — Migrants next to the Spanish\-Moroccan border](assets/de95c32c81c0/1*-it3w6XiEjjBZ-fstAhVRw.jpeg)
+![**AP/BERNAT ARMANGUE** — Migrants next to the Spanish\-Moroccan border](../assets/de95c32c81c0/1*-it3w6XiEjjBZ-fstAhVRw.jpeg)
 
 **AP/BERNAT ARMANGUE** — Migrants next to the Spanish\-Moroccan border
 
@@ -234,7 +234,7 @@ More [here](https://newsrnd.com/news/2022-08-15-morocco-will-receive-500-million
 #### [On Monday, the Libyan authorities reportedly rounded up and detained dozens of migrants in Tripoli\.](https://www.thenationalnews.com/mena/2022/08/16/libya-detains-dozens-of-migrants-in-home-raids-in-tripoli/?fbclid=IwAR1Xpin-Q_1AqtTbvFBv2DqB6IngiPyNJOQRLxA-7mpvcT10mjWNB-J2kDw) People on the move stuck in Libya are increasingly targeted as scapegoats for the nation’s problems\. Such raids are now regular occurrences\.
 
 
-![Photo: EPA/STR [https://www\.infomigrants\.net/en/post/42644/dozens\-of\-migrants\-detained\-in\-libya\-during\-police\-raids?fbclid=IwAR3GFpEcFsJ1XawwSCwUY5PzyL0QkQgQ4kwy0590HDdguskKA9UpTIwu5Fg](https://www.infomigrants.net/en/post/42644/dozens-of-migrants-detained-in-libya-during-police-raids?fbclid=IwAR3GFpEcFsJ1XawwSCwUY5PzyL0QkQgQ4kwy0590HDdguskKA9UpTIwu5Fg)](assets/de95c32c81c0/1*9lU7vXXM3f3ffE5YdqUepw.jpeg)
+![Photo: EPA/STR [https://www\.infomigrants\.net/en/post/42644/dozens\-of\-migrants\-detained\-in\-libya\-during\-police\-raids?fbclid=IwAR3GFpEcFsJ1XawwSCwUY5PzyL0QkQgQ4kwy0590HDdguskKA9UpTIwu5Fg](https://www.infomigrants.net/en/post/42644/dozens-of-migrants-detained-in-libya-during-police-raids?fbclid=IwAR3GFpEcFsJ1XawwSCwUY5PzyL0QkQgQ4kwy0590HDdguskKA9UpTIwu5Fg)](../assets/de95c32c81c0/1*9lU7vXXM3f3ffE5YdqUepw.jpeg)
 
 Photo: EPA/STR [https://www\.infomigrants\.net/en/post/42644/dozens\-of\-migrants\-detained\-in\-libya\-during\-police\-raids?fbclid=IwAR3GFpEcFsJ1XawwSCwUY5PzyL0QkQgQ4kwy0590HDdguskKA9UpTIwu5Fg](https://www.infomigrants.net/en/post/42644/dozens-of-migrants-detained-in-libya-during-police-raids?fbclid=IwAR3GFpEcFsJ1XawwSCwUY5PzyL0QkQgQ4kwy0590HDdguskKA9UpTIwu5Fg)
 
@@ -356,7 +356,7 @@ See their guide below to take action\!
 #### At 9am on 16/08/22 , a group of refugees sleeping on the pavements of Brussels were forcibly moved on with no humanitarian provisions\.
 
 
-![An eviction taking place in Brussels\. Photo: Riet Dhont\.](assets/de95c32c81c0/1*56Nb9Ts6Bw2PBrwT3e4DuA.png)
+![An eviction taking place in Brussels\. Photo: Riet Dhont\.](../assets/de95c32c81c0/1*56Nb9Ts6Bw2PBrwT3e4DuA.png)
 
 An eviction taking place in Brussels\. Photo: Riet Dhont\.
 #### DENMARK

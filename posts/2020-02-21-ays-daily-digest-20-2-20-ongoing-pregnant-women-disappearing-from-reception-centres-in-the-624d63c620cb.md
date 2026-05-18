@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 20/2/20: Ongoing-Pregnant women disappearing from reception centres in the…
+title: "AYS Daily Digest 20/2/20: Ongoing-Pregnant women disappearing from reception centres in the…"
 author: Are You Syrious?
 date: 2020-02-21T12:47:20.335+0000
 last_modified_at: 2020-02-21T12:47:20.335+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migration,human-rights,europe]
 description: Worrying ongoing disappearances in the Netherlands / Frontex deports to Mauritania from Spain / Bosnia and Herzegovina’s issues exacerbate…
 image:
-  path: assets/624d63c620cb/1*sXKkI3HveCax6hOa7Uw7rA.jpeg
+  path: ../assets/624d63c620cb/1*sXKkI3HveCax6hOa7Uw7rA.jpeg
 ---
 
 ### AYS Daily Digest 20/2/20: Ongoing\-Pregnant women disappearing from reception centres in the Netherlands
 #### Worrying ongoing disappearances in the Netherlands / Frontex deports to Mauritania from Spain / Bosnia and Herzegovina’s issues exacerbate as they seem to be left alone with the growing number of issues / Serbia’s conditions provided to people in camps worsen / ‘Invisible’ struggles of people sleeping rough in France / & more news
 
 
-![Arrivals intensify as the problems mount in the Aegean \(Photo: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?tn-str=k%2AF&hc_location=group_dialog) \)](assets/624d63c620cb/1*sXKkI3HveCax6hOa7Uw7rA.jpeg)
+![Arrivals intensify as the problems mount in the Aegean \(Photo: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?tn-str=k%2AF&hc_location=group_dialog) \)](../assets/624d63c620cb/1*sXKkI3HveCax6hOa7Uw7rA.jpeg)
 
 Arrivals intensify as the problems mount in the Aegean \(Photo: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?tn-str=k%2AF&hc_location=group_dialog) \)
 #### FEATURED
@@ -190,16 +190,16 @@ They met people who are staying in about fifty tents, and distributed food kits 
 Find the entire report on the Facebook page of the group\.
 
 
-![Photos: [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__xts__%5B0%5D=68.ARBJRf7LmUI0uSwXRVT2WXkxbXhs9RKweW6bM91qmERRnK7UnFAcUy8xd5fCTdLhWuWv8f_gZrk33l4xHr1WaU23h7ex97KGDM44oLwhgVyYSpJMtyT4Iv7cX-f17FP9qgqpK04TGuesF_n8kpaJbHG7FQOvvAXmaWK_DyjwU0u1iENg5alvOyD2r2cAlIb8w0pk5R9UX1P0MnNRHAhAy6tvur5NLC3UFDIDDBQF2l8W2H7vCwlQ0PrCuMjTBM43nYC3Lqz80_qBG6xQdG98gpdmkeKLDO2qFt1EmW0znzvrwm30y6X7TRd90zHrV5GKrDD7womcQsSMn55gmxO7tFRphQ&__tn__=k%2AF&tn-str=k%2AF)](assets/624d63c620cb/1*vnFx2ALkRh2O22sZmT04Nw.png)
+![Photos: [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__xts__%5B0%5D=68.ARBJRf7LmUI0uSwXRVT2WXkxbXhs9RKweW6bM91qmERRnK7UnFAcUy8xd5fCTdLhWuWv8f_gZrk33l4xHr1WaU23h7ex97KGDM44oLwhgVyYSpJMtyT4Iv7cX-f17FP9qgqpK04TGuesF_n8kpaJbHG7FQOvvAXmaWK_DyjwU0u1iENg5alvOyD2r2cAlIb8w0pk5R9UX1P0MnNRHAhAy6tvur5NLC3UFDIDDBQF2l8W2H7vCwlQ0PrCuMjTBM43nYC3Lqz80_qBG6xQdG98gpdmkeKLDO2qFt1EmW0znzvrwm30y6X7TRd90zHrV5GKrDD7womcQsSMn55gmxO7tFRphQ&__tn__=k%2AF&tn-str=k%2AF)](../assets/624d63c620cb/1*vnFx2ALkRh2O22sZmT04Nw.png)
 
 Photos: [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__xts__%5B0%5D=68.ARBJRf7LmUI0uSwXRVT2WXkxbXhs9RKweW6bM91qmERRnK7UnFAcUy8xd5fCTdLhWuWv8f_gZrk33l4xHr1WaU23h7ex97KGDM44oLwhgVyYSpJMtyT4Iv7cX-f17FP9qgqpK04TGuesF_n8kpaJbHG7FQOvvAXmaWK_DyjwU0u1iENg5alvOyD2r2cAlIb8w0pk5R9UX1P0MnNRHAhAy6tvur5NLC3UFDIDDBQF2l8W2H7vCwlQ0PrCuMjTBM43nYC3Lqz80_qBG6xQdG98gpdmkeKLDO2qFt1EmW0znzvrwm30y6X7TRd90zHrV5GKrDD7womcQsSMn55gmxO7tFRphQ&__tn__=k%2AF&tn-str=k%2AF)
 
 
-![](assets/624d63c620cb/1*aD7onFyXBZ2Pezh-6KkZpA.jpeg)
+![](../assets/624d63c620cb/1*aD7onFyXBZ2Pezh-6KkZpA.jpeg)
 
 
 
-![](assets/624d63c620cb/1*aZAUm-rLIlHlnLbrTZliIg.jpeg)
+![](../assets/624d63c620cb/1*aZAUm-rLIlHlnLbrTZliIg.jpeg)
 
 ### Deportation alerts continue\.
 
@@ -220,7 +220,7 @@ Here’s hoping there’s a good fight and prevention\. Read what the [Utopia 56
 
 
 
-![](assets/624d63c620cb/1*DmA2SL8E5_oVZuHfFySiOQ.jpeg)
+![](../assets/624d63c620cb/1*DmA2SL8E5_oVZuHfFySiOQ.jpeg)
 
 
 
@@ -255,7 +255,7 @@ The [Home Office](https://www.independent.co.uk/topic/Home_Office) has gone ahea
 
 
 
-![](assets/624d63c620cb/1*QWuHTU03Wh97obNnVUD-Ww.jpeg)
+![](../assets/624d63c620cb/1*QWuHTU03Wh97obNnVUD-Ww.jpeg)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

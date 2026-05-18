@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: The First Frontex Fundamental Rights Report, only 10 years late
+title: "AYS SPECIAL: The First Frontex Fundamental Rights Report, only 10 years late"
 author: Are You Syrious?
 date: 2021-08-29T11:37:52.633+0100
 last_modified_at: 2021-08-29T11:38:34.189+0100
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [special,frontex,greece,refugees,borders]
 description: Originally introduced by Regulation 1168/2011, Frontex has finally managed to hire a Fundamental Rights Officer to write a report.
 image:
-  path: assets/e96ac201c64d/1*A-nVyqGWPs6irEMNVfbirA.jpeg
+  path: ../assets/e96ac201c64d/1*A-nVyqGWPs6irEMNVfbirA.jpeg
 ---
 
 ### AYS SPECIAL: The First Frontex Fundamental Rights Report, only 10 years late
 
 
-![\(Photo Credit: [@baphometx](https://twitter.com/baphometx) \)](assets/e96ac201c64d/1*A-nVyqGWPs6irEMNVfbirA.jpeg)
+![\(Photo Credit: [@baphometx](https://twitter.com/baphometx) \)](../assets/e96ac201c64d/1*A-nVyqGWPs6irEMNVfbirA.jpeg)
 
 \(Photo Credit: [@baphometx](https://twitter.com/baphometx) \)
 
@@ -148,7 +148,7 @@ In 2020 there have apparently only been 7 Admissible Complaints against Frontex\
 A FRO is permitted to form an opinion, express this opinion to the director and suggest an action plan\. They can also ‘handle’ Serious Incident Reports \(SIRs\) \. Scary stuff\.
 
 
-![\(Yes, they made a graph for this… Of the 10 incidents reported 3 are closed, 7 are still pending as of May 2021\)](assets/e96ac201c64d/1*LWz_cJUIpuxMnF7q-UzgEQ.jpeg)
+![\(Yes, they made a graph for this… Of the 10 incidents reported 3 are closed, 7 are still pending as of May 2021\)](../assets/e96ac201c64d/1*LWz_cJUIpuxMnF7q-UzgEQ.jpeg)
 
 \(Yes, they made a graph for this… Of the 10 incidents reported 3 are closed, 7 are still pending as of May 2021\)
 

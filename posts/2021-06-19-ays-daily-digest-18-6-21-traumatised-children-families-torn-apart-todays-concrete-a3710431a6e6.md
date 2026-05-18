@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 18/6/21: Traumatised children, families torn apart — today’s concrete…
+title: "AYS Daily Digest 18/6/21: Traumatised children, families torn apart — today’s concrete…"
 author: Are You Syrious?
 date: 2021-06-19T18:34:59.221+0100
 last_modified_at: 2021-06-19T19:35:16.879+0100
 categories: Are You Syrious?
 tags: [digest,france,refugees,uk,europe]
-description: Potsdam to become a welcome city / New evictions in the north of France / Spain: Racist attacks in Murcia, 2 people dead; 4 died off the…
+description: "Potsdam to become a welcome city / New evictions in the north of France / Spain: Racist attacks in Murcia, 2 people dead; 4 died off the…"
 image:
-  path: assets/a3710431a6e6/0*o9V7MkORZur8TXS4
+  path: ../assets/a3710431a6e6/0*o9V7MkORZur8TXS4
 ---
 
 ### AYS Daily Digest 18/6/21: Traumatised children, families torn apart — today’s concrete consequences of a lack of political will
 #### Potsdam to become a welcome city / New evictions in the north of France / Spain: Racist attacks in Murcia, 2 people dead; 4 died off the coast of Lanzarote / Danish policies separating Syrian families / UN criticizes UK policies / Recommended reads & more
 
 
-![Evicting people from makeshift campsites during police raids in the Grande Synthe area \(Photo: [Utopia 56 Grande\-Synthe](https://www.facebook.com/utopia56grandesynthe/?__cft__[0]=AZUG8L4duQrncf3ZaT-jLPSMsopBXE_CR2krRhxr_9J4aY4iD7uAQC7_T-dbz_BZAkIcMQHstiHz_fuN6KmxECBWooMnBlFstDUs-w_uc4NPejUvQcn5asGidEPmvf4wk2PeABMKmBS-D2S5a7smDGg1NGO_IASJzRL6G0d9eeFyUgZWenYCI4rsWB3Dh4I2aqPmGBMiX4D85Wqqak893p7M&__tn__=-UC%2CP-y-R) \)](assets/a3710431a6e6/0*o9V7MkORZur8TXS4)
+![Evicting people from makeshift campsites during police raids in the Grande Synthe area \(Photo: [Utopia 56 Grande\-Synthe](https://www.facebook.com/utopia56grandesynthe/?__cft__[0]=AZUG8L4duQrncf3ZaT-jLPSMsopBXE_CR2krRhxr_9J4aY4iD7uAQC7_T-dbz_BZAkIcMQHstiHz_fuN6KmxECBWooMnBlFstDUs-w_uc4NPejUvQcn5asGidEPmvf4wk2PeABMKmBS-D2S5a7smDGg1NGO_IASJzRL6G0d9eeFyUgZWenYCI4rsWB3Dh4I2aqPmGBMiX4D85Wqqak893p7M&__tn__=-UC%2CP-y-R) \)](../assets/a3710431a6e6/0*o9V7MkORZur8TXS4)
 
 Evicting people from makeshift campsites during police raids in the Grande Synthe area \(Photo: [Utopia 56 Grande\-Synthe](https://www.facebook.com/utopia56grandesynthe/?__cft__[0]=AZUG8L4duQrncf3ZaT-jLPSMsopBXE_CR2krRhxr_9J4aY4iD7uAQC7_T-dbz_BZAkIcMQHstiHz_fuN6KmxECBWooMnBlFstDUs-w_uc4NPejUvQcn5asGidEPmvf4wk2PeABMKmBS-D2S5a7smDGg1NGO_IASJzRL6G0d9eeFyUgZWenYCI4rsWB3Dh4I2aqPmGBMiX4D85Wqqak893p7M&__tn__=-UC%2CP-y-R) \)
 #### FEATURED
@@ -160,7 +160,7 @@ It has been almost twenty years since Quintano began collecting, interviewing an
 While some of the leading politicians in Denmark refuse to talk about the issue, others say that revoking refugee status “is not a political decision, it is a judicial decision, so that you can argue why you should still have to stay in Denmark maybe for a year, or whatever more”\. In the meantime, as a consequence of the shocking decision by the official state, hundreds of Syrian families face getting torn apart…
 
 
-[![The Danish immigration decisions tearing Syrian refugee families apart](assets/a3710431a6e6/c15f_hqdefault.jpg "The Danish immigration decisions tearing Syrian refugee families apart")](https://www.youtube.com/watch?v=hI2fXKX5qwk)
+[![The Danish immigration decisions tearing Syrian refugee families apart](../assets/a3710431a6e6/c15f_hqdefault.jpg "The Danish immigration decisions tearing Syrian refugee families apart")](https://www.youtube.com/watch?v=hI2fXKX5qwk)
 
 #### GENERAL
 ### “Europe is the problem, not part of a solution”
@@ -172,7 +172,7 @@ That is what ECRE has to say about the EU contribution at the big decision table
 
 
 
-![](assets/a3710431a6e6/0*eN2mfxylZuMRt5NE)
+![](../assets/a3710431a6e6/0*eN2mfxylZuMRt5NE)
 
 
 In the meantime, Frontex is expanding its activities to Serbia:
@@ -222,7 +222,7 @@ The UK’s UNHCR representative claims Priti Patel’s planned two\-track system
 
 
 
-![](assets/a3710431a6e6/0*cZYzYGKkYPYYysnJ)
+![](../assets/a3710431a6e6/0*cZYzYGKkYPYYysnJ)
 
 
 The total of 34,400 people being resettled is “a drop in the ocean”, given that the UNHCR estimated that 1\.4 million refugees globally require, or would benefit from, resettlement, said a UNHCR representative, so there “shouldn’t be a barrier to restarting and increasing resettlement programmes\.”

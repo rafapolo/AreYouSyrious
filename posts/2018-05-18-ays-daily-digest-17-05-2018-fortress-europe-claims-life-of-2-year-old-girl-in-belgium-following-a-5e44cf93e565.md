@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 17/05/2018: Fortress Europe claims life of 2 year old girl in Belgium following a…
+title: "AYS Daily Digest 17/05/2018: Fortress Europe claims life of 2 year old girl in Belgium following a…"
 author: Are You Syrious?
 date: 2018-05-18T10:20:13.302+0100
 last_modified_at: 2018-05-18T10:20:13.302+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,libya,european-union,greece]
 description: LCG can’t cope with retrieving number of dead migrants in Seas//158 people arrive in Greece// Asylum Interviews scheduled as late as 2020…
 image:
-  path: assets/5e44cf93e565/1*3qVaVzXPQQQHR8Jgb7jgDg.jpeg
+  path: ../assets/5e44cf93e565/1*3qVaVzXPQQQHR8Jgb7jgDg.jpeg
 ---
 
 ### AYS Daily Digest 17/05/2018: Fortress Europe claims life of 2 year old girl in Belgium following a police chase
@@ -15,7 +15,7 @@ image:
 LCG can’t cope with retrieving number of dead migrants in Seas//158 people arrive in Greece// Asylum Interviews scheduled as late as 2020 in Greece// Evictions in Bosnia//Bosnia to deploy more police officers to borders// News from Slovenia… France and more
 
 
-![Source: The enclosure, By Jean\-François Rochez](assets/5e44cf93e565/1*3qVaVzXPQQQHR8Jgb7jgDg.jpeg)
+![Source: The enclosure, By Jean\-François Rochez](../assets/5e44cf93e565/1*3qVaVzXPQQQHR8Jgb7jgDg.jpeg)
 
 Source: The enclosure, By Jean\-François Rochez
 ### Feature: A 2 year old Kurdish girl dies in Belgium after Police Car Chase
@@ -178,7 +178,7 @@ Car and van owners/drivers needed to deliver tents ect to Pomozi\.ba
 
 
 
-![](assets/5e44cf93e565/1*kkjSWc-iHv66JaG2bzW6ug.jpeg)
+![](../assets/5e44cf93e565/1*kkjSWc-iHv66JaG2bzW6ug.jpeg)
 
 #### Evictions today in Kladusa
 
@@ -206,7 +206,7 @@ It seems that [Slovenian and Austrian governments are cooperating in the forced 
 [Plateforme citoyenne de soutien aux réfugiés Bruxelles](https://www.facebook.com/plateformerefugiesbxl/) reports that police operations this morning at the park and station arrested a number of people\. Two unaccompanied Eritrean minors who have been assigned to do guardianship service, a Nigerian woman and her two children, as well as 8 others from Egypt, Sudan, Eritrea and South Africa\.
 
 
-![Source: [Plateforme citoyenne de soutien aux réfugiés Bruxelles](https://www.facebook.com/plateformerefugiesbxl/)](assets/5e44cf93e565/1*N44p6zoGSCoYZ3c5dn25Dw.jpeg)
+![Source: [Plateforme citoyenne de soutien aux réfugiés Bruxelles](https://www.facebook.com/plateformerefugiesbxl/)](../assets/5e44cf93e565/1*N44p6zoGSCoYZ3c5dn25Dw.jpeg)
 
 Source: [Plateforme citoyenne de soutien aux réfugiés Bruxelles](https://www.facebook.com/plateformerefugiesbxl/)
 ### France:
@@ -239,7 +239,7 @@ Source: [Plateforme citoyenne de soutien aux réfugiés Bruxelles](https://www.f
 #### Solidarity March
 
 
-![Source: [L’Auberge des Migrants](https://www.facebook.com/AubergeMigrants/)](assets/5e44cf93e565/1*Pxz96ZWGg2PdIvdILL0r7Q.jpeg)
+![Source: [L’Auberge des Migrants](https://www.facebook.com/AubergeMigrants/)](../assets/5e44cf93e565/1*Pxz96ZWGg2PdIvdILL0r7Q.jpeg)
 
 Source: [L’Auberge des Migrants](https://www.facebook.com/AubergeMigrants/)
 

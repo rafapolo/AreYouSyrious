@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 06/08/2018 Afghan deportations in Germany: what you need to know
+title: "AYS Daily Digest 06/08/2018 Afghan deportations in Germany: what you need to know"
 author: Are You Syrious?
 date: 2018-08-07T06:40:32.740+0100
 last_modified_at: 2018-08-07T11:34:30.076+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,germany,deportations,eu,afghanistan]
 description: As well as an Uighur man’s deportation from Germany / Italy gifting the LBC with 12 ships / language resources for refugees in France /…
 image:
-  path: assets/c006f3b20843/1*tllCBikqb6jKgUnzeCWjdg.jpeg
+  path: ../assets/c006f3b20843/1*tllCBikqb6jKgUnzeCWjdg.jpeg
 ---
 
 ### AYS Daily Digest 06/08/2018 Afghan deportations in Germany: what you need to know
@@ -35,7 +35,7 @@ They want people to know:
 Afghanistan is still one of the most dangerous places on Earth\. The Taliban has rejected offers of peace and ceasefires while continuing their almost daily attacks\. Germany and all other countries need to take refugees from Afghanistan seriously and provide them asylum\.
 
 
-![Destruction from a bomb and gun attack on a Shia mosque where dozens were killed on August 3rd\. An example of weekly headline in Afghanistan\. Photo by [Farid Zahir/AFP](https://www.aljazeera.com/news/2018/08/suicide-bombers-target-shia-mosque-eastern-afghanistan-180803104926634.html)](assets/c006f3b20843/1*tllCBikqb6jKgUnzeCWjdg.jpeg)
+![Destruction from a bomb and gun attack on a Shia mosque where dozens were killed on August 3rd\. An example of weekly headline in Afghanistan\. Photo by [Farid Zahir/AFP](https://www.aljazeera.com/news/2018/08/suicide-bombers-target-shia-mosque-eastern-afghanistan-180803104926634.html)](../assets/c006f3b20843/1*tllCBikqb6jKgUnzeCWjdg.jpeg)
 
 Destruction from a bomb and gun attack on a Shia mosque where dozens were killed on August 3rd\. An example of weekly headline in Afghanistan\. Photo by [Farid Zahir/AFP](https://www.aljazeera.com/news/2018/08/suicide-bombers-target-shia-mosque-eastern-afghanistan-180803104926634.html)
 ### **Libya**
@@ -50,7 +50,7 @@ Libya continues to be the main transit country for people to try and reach Europ
 Salvamento Maritimo reported several rescues on Monday\. First the rescue boat [Salvama Alpha](https://twitter.com/salvamentogob/status/1026398064226066433) Persei picked up 7 men outside of Alicante on Monday morning\. They are being transferred to Benidorm\.
 
 
-![Photo By [Salvamento Maritimo](https://twitter.com/salvamentogob/status/1026435854217162752)](assets/c006f3b20843/1*abywXuy4-PpiUy3y2ZAoLw.jpeg)
+![Photo By [Salvamento Maritimo](https://twitter.com/salvamentogob/status/1026435854217162752)](../assets/c006f3b20843/1*abywXuy4-PpiUy3y2ZAoLw.jpeg)
 
 Photo By [Salvamento Maritimo](https://twitter.com/salvamentogob/status/1026435854217162752)
 
@@ -63,7 +63,7 @@ Lastly, [Patrol Guardia Civil](https://twitter.com/salvamentogob/status/10265428
 [Proactivia Open Arms](https://www.facebook.com/proactivaservice/videos/2007299702634204/) reports that the 87 people they rescued on Thursday are still waiting onboard at Sea with no place to port\. They were at sea for over 24 hours before being rescued and fleeing the prisons of Libya\. How much longer will they have to wait?
 
 
-![Photo by [Proactiva Open Arms](https://www.facebook.com/proactivaservice/photos/a.232810050083187.63417.111995985497928/2007582789272562/?type=3&theater)](assets/c006f3b20843/1*kjx0r2aRIXtdYfGSRgoiwQ.jpeg)
+![Photo by [Proactiva Open Arms](https://www.facebook.com/proactivaservice/photos/a.232810050083187.63417.111995985497928/2007582789272562/?type=3&theater)](../assets/c006f3b20843/1*kjx0r2aRIXtdYfGSRgoiwQ.jpeg)
 
 Photo by [Proactiva Open Arms](https://www.facebook.com/proactivaservice/photos/a.232810050083187.63417.111995985497928/2007582789272562/?type=3&theater)
 ### **Greece**
@@ -101,7 +101,7 @@ Around [300 Lawyers in Málaga](https://www.eldiario.es/desalambre/Formacion-esp
 In the port of Motril, [the Red Cross](https://twitter.com/FeiGar/status/1026212569617448961) served 291 people who have arrived in the last 24 hours\. 189 of them were rescued by Salvamento Maritimo\.
 
 
-![Photo by [Alba Feixas](https://twitter.com/FeiGar/status/1026212569617448961)](assets/c006f3b20843/1*worrrPO4ywFi3lFkoeVtPQ.jpeg)
+![Photo by [Alba Feixas](https://twitter.com/FeiGar/status/1026212569617448961)](../assets/c006f3b20843/1*worrrPO4ywFi3lFkoeVtPQ.jpeg)
 
 Photo by [Alba Feixas](https://twitter.com/FeiGar/status/1026212569617448961)
 ### **Germany**
@@ -120,11 +120,11 @@ Bras Not Bombs is having an emergency fundraiser\! In Dunkirk, women are in desp
 Pictures of Dunkirk from three years ago and now\. Nothing has really changed, horrible conditions remain a constant\. Please consider helping [Mobile Refugee Support](https://www.facebook.com/calaisaction/posts/2100871366632024) \.
 
 
-![](assets/c006f3b20843/1*JMbpk6tZM_Nh_7sTpAfh7g.jpeg)
+![](../assets/c006f3b20843/1*JMbpk6tZM_Nh_7sTpAfh7g.jpeg)
 
 
 
-![Photos by [Calais Action](http://Germany A man belonging to the Uighurs minority in China was deported even though he had an ongoing asylum case. In fact, he was sent back just a few hours before his appointment to justify his case in person, a continued trend for Germany’s Interior Ministry.  The Federal Immigration Office in Munich claims they did not receive the fax concerning the appointment and regret the deportation. The man has not been heard from since arriving in Bejing and there is free that he might have been arrested upon arrival. Uighurs are a religious minority in China and are often persecuted, even put into labor camps.    Germany is looking to attempt tighter border controls for the French and Swiss borders. This is in scare of the increased arrivals coming to Spain and not wanting a repeat of 2015. Officials have said that they are ready to supply support to Spain if need be.   France  Bienvenue chez toi has shared a new refugee vocabulary booklet! It has over a thousand words and expressions in French, farsi, Arabic, and English. Here is the PDF version, which is useable on smartphones.   Bras Not Bombs is having an emergency fundraiser! In Dunkirk, women are in desperate need of underwear, toiletries, and wipes. Please find out how you can help here.   Pictures of Dunkirk from three years ago and now. Nothing has really changed, horrible conditions remain a constant. Please consider helping Mobile Refugee Support.   In Paris People to People Solidarity is also in huge need of clothes for their locker room. They do not have enough supplies to cloth the new arrivals every week. Find out what you can do here.   A helpful list of French course below offered in Paris.  https://www.facebook.com/baam.asso/photos/a.447233908801813.1073741832.441512719373932/883714765153723/?type=3&theater  Solidarité migrants Wilson has been busy making hygiene kits for refugees in Paris. They need your help in donating as well as organizing. Find out more here.    EU There is a petition to protect volunteers and aid workers helping refugees from being prosecuted themselves. We cannot criminalize humanitarianism. Sign here.   Asylum applications in the EU have been remaining stable, according to analyses from the European Asylum Support Office (EASO). In the first half of 2018, 301,390 applications were submitted. Yet that is a 15% decrease from the second half of 2017.    UK Asylum seekers in the UK have been prohibited from working. Help Refugees and Refugee Action call for an effective asylum procedure that eliminates this barrier creating poverty. Find out how you can write to your MP today, here.)](assets/c006f3b20843/1*4QK_yqaMkrigkeK1Kgj6Ng.jpeg)
+![Photos by [Calais Action](http://Germany A man belonging to the Uighurs minority in China was deported even though he had an ongoing asylum case. In fact, he was sent back just a few hours before his appointment to justify his case in person, a continued trend for Germany’s Interior Ministry.  The Federal Immigration Office in Munich claims they did not receive the fax concerning the appointment and regret the deportation. The man has not been heard from since arriving in Bejing and there is free that he might have been arrested upon arrival. Uighurs are a religious minority in China and are often persecuted, even put into labor camps.    Germany is looking to attempt tighter border controls for the French and Swiss borders. This is in scare of the increased arrivals coming to Spain and not wanting a repeat of 2015. Officials have said that they are ready to supply support to Spain if need be.   France  Bienvenue chez toi has shared a new refugee vocabulary booklet! It has over a thousand words and expressions in French, farsi, Arabic, and English. Here is the PDF version, which is useable on smartphones.   Bras Not Bombs is having an emergency fundraiser! In Dunkirk, women are in desperate need of underwear, toiletries, and wipes. Please find out how you can help here.   Pictures of Dunkirk from three years ago and now. Nothing has really changed, horrible conditions remain a constant. Please consider helping Mobile Refugee Support.   In Paris People to People Solidarity is also in huge need of clothes for their locker room. They do not have enough supplies to cloth the new arrivals every week. Find out what you can do here.   A helpful list of French course below offered in Paris.  https://www.facebook.com/baam.asso/photos/a.447233908801813.1073741832.441512719373932/883714765153723/?type=3&theater  Solidarité migrants Wilson has been busy making hygiene kits for refugees in Paris. They need your help in donating as well as organizing. Find out more here.    EU There is a petition to protect volunteers and aid workers helping refugees from being prosecuted themselves. We cannot criminalize humanitarianism. Sign here.   Asylum applications in the EU have been remaining stable, according to analyses from the European Asylum Support Office (EASO). In the first half of 2018, 301,390 applications were submitted. Yet that is a 15% decrease from the second half of 2017.    UK Asylum seekers in the UK have been prohibited from working. Help Refugees and Refugee Action call for an effective asylum procedure that eliminates this barrier creating poverty. Find out how you can write to your MP today, here.)](../assets/c006f3b20843/1*4QK_yqaMkrigkeK1Kgj6Ng.jpeg)
 
 Photos by [Calais Action](http://Germany A man belonging to the Uighurs minority in China was deported even though he had an ongoing asylum case. In fact, he was sent back just a few hours before his appointment to justify his case in person, a continued trend for Germany’s Interior Ministry.  The Federal Immigration Office in Munich claims they did not receive the fax concerning the appointment and regret the deportation. The man has not been heard from since arriving in Bejing and there is free that he might have been arrested upon arrival. Uighurs are a religious minority in China and are often persecuted, even put into labor camps.    Germany is looking to attempt tighter border controls for the French and Swiss borders. This is in scare of the increased arrivals coming to Spain and not wanting a repeat of 2015. Officials have said that they are ready to supply support to Spain if need be.   France  Bienvenue chez toi has shared a new refugee vocabulary booklet! It has over a thousand words and expressions in French, farsi, Arabic, and English. Here is the PDF version, which is useable on smartphones.   Bras Not Bombs is having an emergency fundraiser! In Dunkirk, women are in desperate need of underwear, toiletries, and wipes. Please find out how you can help here.   Pictures of Dunkirk from three years ago and now. Nothing has really changed, horrible conditions remain a constant. Please consider helping Mobile Refugee Support.   In Paris People to People Solidarity is also in huge need of clothes for their locker room. They do not have enough supplies to cloth the new arrivals every week. Find out what you can do here.   A helpful list of French course below offered in Paris.  https://www.facebook.com/baam.asso/photos/a.447233908801813.1073741832.441512719373932/883714765153723/?type=3&theater  Solidarité migrants Wilson has been busy making hygiene kits for refugees in Paris. They need your help in donating as well as organizing. Find out more here.    EU There is a petition to protect volunteers and aid workers helping refugees from being prosecuted themselves. We cannot criminalize humanitarianism. Sign here.   Asylum applications in the EU have been remaining stable, according to analyses from the European Asylum Support Office (EASO). In the first half of 2018, 301,390 applications were submitted. Yet that is a 15% decrease from the second half of 2017.    UK Asylum seekers in the UK have been prohibited from working. Help Refugees and Refugee Action call for an effective asylum procedure that eliminates this barrier creating poverty. Find out how you can write to your MP today, here.)
 

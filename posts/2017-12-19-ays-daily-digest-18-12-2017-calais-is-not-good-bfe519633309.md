@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 18/12/2017: “Calais is not good.
+title: "AYS DAILY DIGEST 18/12/2017: “Calais is not good."
 author: Are You Syrious?
 date: 2017-12-19T08:23:05.391+0000
 last_modified_at: 2017-12-19T08:23:05.391+0000
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,police-brutality,statistics,migration,protest]
 description: International Migrants Day opens with a report on police violence in Calais/Statistics on developments of migration movements and asylum…
 image:
-  path: assets/bfe519633309/1*PZ0x5kMy_1imZsuoWo0wgw.jpeg
+  path: ../assets/bfe519633309/1*PZ0x5kMy_1imZsuoWo0wgw.jpeg
 ---
 
 ### AYS DAILY DIGEST 18/12/2017: “Calais is not good\. Police come every time\. They collect clothes, spray, hit\. \[…\]”
 #### International Migrants Day opens with a report on police violence in Calais/Statistics on developments of migration movements and asylum applications in Europe/New transfers from Lesvos to mainland but a lot needs to be done/Videos showing inhumane conditions in Moria and Vial/Statement of Info Park/Situation in Pordenone and Gorizia is not improving/New fascist measures to be adopted by Austrian government/ [\#18d17ActionDay](https://www.facebook.com/hashtag/18d17actionday?source=feed_text&story_id=1870025539705851) actions all over Europe/New arrivals at sea and more news from Germany, UK, Denmark\. \.
 
 
-![Šid\. About 100 people were in Šid today\. The youngest one was a 10 years old child travelling with his father\. Credit: AYS](assets/bfe519633309/1*PZ0x5kMy_1imZsuoWo0wgw.jpeg)
+![Šid\. About 100 people were in Šid today\. The youngest one was a 10 years old child travelling with his father\. Credit: AYS](../assets/bfe519633309/1*PZ0x5kMy_1imZsuoWo0wgw.jpeg)
 
 Šid\. About 100 people were in Šid today\. The youngest one was a 10 years old child travelling with his father\. Credit: AYS
 
@@ -73,7 +73,7 @@ What are the most used routes?
 Central Mediterranean, Eastern Mediterranean, Western Mediterranean, Western Balkan, Eastern Europe and Western Africa \(Canary Islands\) \.
 
 
-![Credit: Infomigrants](assets/bfe519633309/1*8agV7kfQX-gQwoiUYe1V7w.png)
+![Credit: Infomigrants](../assets/bfe519633309/1*8agV7kfQX-gQwoiUYe1V7w.png)
 
 Credit: Infomigrants
 
@@ -159,19 +159,19 @@ Info Park has published their press release for International Migrants Day
 “ _They attacked me four times, each time it was something else, I was taken off the phone once, and the other time they saw me buying something, so they forced me to squeeze everything out of my pockets, the last time they attacked me because I defended the boy who just came and they were placed in my camp room\. Every time I retreated from a knife — and this is precisely why I fled my country: violence”, says an Afghan migrant who comes to the Info Park daily\. One in a series of testimonies of a difficult and especially unsafe situation that we hear every day_
 
 
-![](assets/bfe519633309/1*KhRPjtTuRBxaQaN5yS8Zuw.jpeg)
+![](../assets/bfe519633309/1*KhRPjtTuRBxaQaN5yS8Zuw.jpeg)
 
 
 
-![](assets/bfe519633309/1*mZAU1a1Bw39Si3isfwL_ug.jpeg)
+![](../assets/bfe519633309/1*mZAU1a1Bw39Si3isfwL_ug.jpeg)
 
 
 
-![](assets/bfe519633309/1*XSooB9PyDCKOmtuNlsKsjQ.jpeg)
+![](../assets/bfe519633309/1*XSooB9PyDCKOmtuNlsKsjQ.jpeg)
 
 
 
-![Credit: Help\-Na](assets/bfe519633309/1*WovCKnPCxZ8uFGrOmbAkzQ.jpeg)
+![Credit: Help\-Na](../assets/bfe519633309/1*WovCKnPCxZ8uFGrOmbAkzQ.jpeg)
 
 Credit: Help\-Na
 

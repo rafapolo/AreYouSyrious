@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 27/9/21: A 16-year-old boy died after being pushed back by the Polish border…
+title: "AYS Daily Digest 27/9/21: A 16-year-old boy died after being pushed back by the Polish border…"
 author: Are You Syrious?
 date: 2021-09-28T09:18:07.868+0100
 last_modified_at: 2021-09-28T09:21:27.456+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,poland,greece,turkey]
 description: Will anyone be charged for the attacks on Syrians in Turkey? / Reports of abuse on Crete / BVMN reports to CESCR on Bosnia and Herzegovina…
 image:
-  path: assets/c381bfa2bc62/1*QkkMjuj1MJ2UXteZy0aPBw.jpeg
+  path: ../assets/c381bfa2bc62/1*QkkMjuj1MJ2UXteZy0aPBw.jpeg
 ---
 
 ### AYS Daily Digest 27/9/21: **A 16\-year\-old boy died after being pushed back by the Polish border guards**
 #### Will anyone be charged for the attacks on Syrians in Turkey? / Reports of abuse on Crete / BVMN reports to CESCR on Bosnia and Herzegovina / Support Polish groups active to support people on the move at the border with Belarus / Mixed Migration Update / a documentary on the actions of the Libyan CG & other recommended reads and reports
 
 
-![Borders kill, not the sea](assets/c381bfa2bc62/1*QkkMjuj1MJ2UXteZy0aPBw.jpeg)
+![Borders kill, not the sea](../assets/c381bfa2bc62/1*QkkMjuj1MJ2UXteZy0aPBw.jpeg)
 
 Borders kill, not the sea
 #### FEATURED
@@ -173,7 +173,7 @@ Read more in detail [here](https://eumigrationlawblog.eu/how-long-is-too-long-th
 Also, don’t miss our team’s work on a [**Special from Denmark — Women Without Rights**](ays-special-from-denmark-women-without-rights-d4aa8f782789)
 
 
-![_During the last weeks, the Danish author and human rights activist AnneLise Marstrand\-Jørgensen published on her Facebook wall five stories under the common headline “Women without rights” \(Kvinder uden rettigheder\) \. The common theme and thread in these stories is the Danish asylum system and the practices and conditions for women who have had their residence permit revoked …_](assets/c381bfa2bc62/0*ZWulCaKbYMeMlJuo.jpeg)
+![_During the last weeks, the Danish author and human rights activist AnneLise Marstrand\-Jørgensen published on her Facebook wall five stories under the common headline “Women without rights” \(Kvinder uden rettigheder\) \. The common theme and thread in these stories is the Danish asylum system and the practices and conditions for women who have had their residence permit revoked …_](../assets/c381bfa2bc62/0*ZWulCaKbYMeMlJuo.jpeg)
 
 _During the last weeks, the Danish author and human rights activist AnneLise Marstrand\-Jørgensen published on her Facebook wall five stories under the common headline “Women without rights” \(Kvinder uden rettigheder\) \. The common theme and thread in these stories is the Danish asylum system and the practices and conditions for women who have had their residence permit revoked …_
 #### The EU
@@ -227,7 +227,7 @@ MPs on the House of Commons Women and Equalities Committee are to scrutinise the
 
 
 
-![](assets/c381bfa2bc62/0*Gy2vSaTZe2QJckMC)
+![](../assets/c381bfa2bc62/0*Gy2vSaTZe2QJckMC)
 
 - **How can the EU increase its capacity to control questionable exports that contribute to massive displacement?**
 
@@ -235,7 +235,7 @@ MPs on the House of Commons Women and Equalities Committee are to scrutinise the
 Join the webinar [here](https://us02web.zoom.us/webinar/register/WN_H9uvTMcQQtSmMvg6wHcvcg)
 
 
-![](assets/c381bfa2bc62/0*k4SRbp9AtjbA9NgN)
+![](../assets/c381bfa2bc62/0*k4SRbp9AtjbA9NgN)
 
 #### WORTH READING & WATCHING
 - make sure you read the latest Mixed Migration Update:

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 16/06/2017: Controversy over rescue operations… but they continue saving lives
+title: "AYS Daily Digest 16/06/2017: Controversy over rescue operations… but they continue saving lives"
 author: Are You Syrious?
 date: 2017-06-17T02:42:30.165+0100
 last_modified_at: 2017-07-03T02:09:18.856+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,mediterranean,hungary,italy,spain]
 description: Intimidation and destruction of tents on Chios / Cases of intolerance continue in Serbia / Fresh cases of violence in Hungary / Legal…
 image:
-  path: assets/6d251c3cf1a8/1*q4gj8pBvQQiQdVcIDzn0Kg.jpeg
+  path: ../assets/6d251c3cf1a8/1*q4gj8pBvQQiQdVcIDzn0Kg.jpeg
 ---
 
 ### AYS Daily Digest 16/06/2017: Controversy over rescue operations… but they continue saving lives
 #### Intimidation and destruction of tents on Chios / Cases of intolerance continue in Serbia / Fresh cases of violence in Hungary / Legal action in UK to restart Dubs Scheme / Amnesty International launches petition in Spain / EU says that international protection should be for five years / And more news…
 
 
-![World Press winner \(by Iranian Alireza Pakdel\)](assets/6d251c3cf1a8/1*q4gj8pBvQQiQdVcIDzn0Kg.jpeg)
+![World Press winner \(by Iranian Alireza Pakdel\)](../assets/6d251c3cf1a8/1*q4gj8pBvQQiQdVcIDzn0Kg.jpeg)
 
 World Press winner \(by Iranian Alireza Pakdel\)
 ### FEATURE
@@ -41,7 +41,7 @@ The arrivals at the Greek islands continue at a high rate which means that the c
 Volunteers have reported today that currently in Chios people are forced to move from the ‘beach’ area outside of Souda\. There is space for some of them to move into the camp although it’s cramped as it is, but the others will possibly have to move to Vial\. Vial is the worse of the two as it is run solely by the army with the reception area looking like a prison\. The municipality has been forcing refugees to leave the tents on the beach and the men hired to do the job show up intimidating everyone and carrying knives that they use to cut the tents, destroying them, to prevent refugees from coming back\.
 
 
-![Workers destroying tents close to Souda camp, Chios — photo by [**Jelle Jalla**](https://www.facebook.com/jelle.jalla)](assets/6d251c3cf1a8/1*OTDGDauHfoJJm4AySUt4nw.jpeg)
+![Workers destroying tents close to Souda camp, Chios — photo by [**Jelle Jalla**](https://www.facebook.com/jelle.jalla)](../assets/6d251c3cf1a8/1*OTDGDauHfoJJm4AySUt4nw.jpeg)
 
 Workers destroying tents close to Souda camp, Chios — photo by [**Jelle Jalla**](https://www.facebook.com/jelle.jalla)
 
@@ -78,7 +78,7 @@ Solidarity now \(in collaboration with UNICEF\), is implementing the ‘Blue Dot
 A protest is being held tomorrow at Victoria square in Athens against detention centres\. Another protest will take place at Petrou Ralli next friday\.
 
 
-![Picture by [**ATH Solidarity**](https://twitter.com/pedioareos) **[REFS Production](https://medium.com/u/2fb4633b3013)**](assets/6d251c3cf1a8/1*ema3jp_TBZJ2VU2IRD-Cjg.jpeg)
+![Picture by [**ATH Solidarity**](https://twitter.com/pedioareos) **[REFS Production](https://medium.com/u/2fb4633b3013)**](../assets/6d251c3cf1a8/1*ema3jp_TBZJ2VU2IRD-Cjg.jpeg)
 
 Picture by [**ATH Solidarity**](https://twitter.com/pedioareos) **[REFS Production](https://medium.com/u/2fb4633b3013)**
 ### Serbia
@@ -120,7 +120,7 @@ Reports also say that refugees keep getting pushed back to Serbia and arrive in 
 Unfortunately, now, almost everyday we are getting new reports of violent push backs to Serbia\. [**Refugee behind the closed borders**](https://www.facebook.com/Refugee-behind-the-closed-borders-1264829603528876/?fref=nf) reports that Hungary has begun to beat people again when they are caught trying to cross the border irregularly\.
 
 
-![Photo by [**Refugee behind the closed borders**](https://www.facebook.com/Refugee-behind-the-closed-borders-1264829603528876/?fref=nf)](assets/6d251c3cf1a8/1*irI9y0cMUmll0x3MUoUyxg.jpeg)
+![Photo by [**Refugee behind the closed borders**](https://www.facebook.com/Refugee-behind-the-closed-borders-1264829603528876/?fref=nf)](../assets/6d251c3cf1a8/1*irI9y0cMUmll0x3MUoUyxg.jpeg)
 
 Photo by [**Refugee behind the closed borders**](https://www.facebook.com/Refugee-behind-the-closed-borders-1264829603528876/?fref=nf)
 

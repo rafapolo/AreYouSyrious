@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,frontex,greece,spain,balkans]
 description: Forensic video investigation of illegal pushbacks on Croatian border (BVMN) // New developments on Canary Islands // Greece to build new…
 image:
-  path: assets/29596cb49c20/1*Qe-HMtMczCiz-TBGP2U8Bw.jpeg
+  path: ../assets/29596cb49c20/1*Qe-HMtMczCiz-TBGP2U8Bw.jpeg
 ---
 
 ### AYS Daily Digest 18/11/2020 — Frontex dismissed investigation into its involvement in illegal pushbacks
@@ -15,7 +15,7 @@ image:
 Forensic video investigation of illegal pushbacks on Croatian border \(BVMN\) // New developments on Canary Islands // Greece to build new camps on its islands by end of 2021
 
 
-![Refugees on the sea between Greece and Turkey — Turkish Coast Guard](assets/29596cb49c20/1*Qe-HMtMczCiz-TBGP2U8Bw.jpeg)
+![Refugees on the sea between Greece and Turkey — Turkish Coast Guard](../assets/29596cb49c20/1*Qe-HMtMczCiz-TBGP2U8Bw.jpeg)
 
 Refugees on the sea between Greece and Turkey — Turkish Coast Guard
 ### EU and FRONTEX

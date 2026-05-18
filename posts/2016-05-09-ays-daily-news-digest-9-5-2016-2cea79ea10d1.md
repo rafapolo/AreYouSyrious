@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,immigration]
 description: EU officials are preparing a “Plan B” that does not include Turkey. Hunger strike in Elliniko camp, protests continue on Leros. More lives…
 image:
-  path: assets/2cea79ea10d1/1*KQUm0rYZB03R3COv7iR8TQ.jpeg
+  path: ../assets/2cea79ea10d1/1*KQUm0rYZB03R3COv7iR8TQ.jpeg
 ---
 
 ### AYS DAILY NEWS DIGEST 9\.5\.2016\.
 #### EU officials are preparing a “Plan B” that does not include Turkey\. Hunger strike in Elliniko camp, protests continue on Leros\. More lives lost: 26\-year old woman from Syria shot by Slovakian authorities while trying to enter the country from Hungary, Pakistani man dies in France\. Hundreds of new asylum seekers are reported to have arrived in Hungary during the last week, with 572 people apprehended for illegal border crossing\. Please check out call for donations/volunteers in Greece and France\.
 
 
-![A day trip to the Detention Centre in Dungavel, \(Scotland\) organised by We Will Rise\. A showing of solidarity with the refugees, asylum seekers, and others within the immigration process locked inside\. Photo credit: JJDF Photography\.](assets/2cea79ea10d1/1*KQUm0rYZB03R3COv7iR8TQ.jpeg)
+![A day trip to the Detention Centre in Dungavel, \(Scotland\) organised by We Will Rise\. A showing of solidarity with the refugees, asylum seekers, and others within the immigration process locked inside\. Photo credit: JJDF Photography\.](../assets/2cea79ea10d1/1*KQUm0rYZB03R3COv7iR8TQ.jpeg)
 
 A day trip to the Detention Centre in Dungavel, \(Scotland\) organised by We Will Rise\. A showing of solidarity with the refugees, asylum seekers, and others within the immigration process locked inside\. Photo credit: JJDF Photography\.
 #### GENERAL
@@ -66,7 +66,7 @@ As volunteers report, there was a break into the warehouse in Scaramangas camp n
 ### **Idomeni is being emptied out\.**
 
 
-![Idomeni\. Photo credit: Amir Karimi](assets/2cea79ea10d1/1*rKST3cbjvUAoZKqMxWfrhA.jpeg)
+![Idomeni\. Photo credit: Amir Karimi](../assets/2cea79ea10d1/1*rKST3cbjvUAoZKqMxWfrhA.jpeg)
 
 Idomeni\. Photo credit: Amir Karimi
 

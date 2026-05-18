@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 13/9/19: Port of safety for Ocean Viking, a sustainable solution for SAR is…
+title: "AYS Daily Digest 13/9/19: Port of safety for Ocean Viking, a sustainable solution for SAR is…"
 author: Are You Syrious?
 date: 2019-09-14T10:33:33.008+0100
 last_modified_at: 2019-09-14T11:46:07.476+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,migration,europe,children]
 description: Disembarkation for Ocean Viking / Horrible conditions for refugees in Turkey continue with detention / Children across Greek’s reception…
 image:
-  path: assets/ab42525c4783/0*gxJDlBJy5yFI4NqV
+  path: ../assets/ab42525c4783/0*gxJDlBJy5yFI4NqV
 ---
 
 ### AYS Daily Digest 13/9/19: Port of safety for Ocean Viking, a sustainable solution for SAR is urgently needed\!
 #### Disembarkation for Ocean Viking / Horrible conditions for refugees in Turkey continue with detention / Children across Greek’s reception facilities missing school start over poor administration / Talks on allocation scheme / Paris volunteers need help / & more info
 
 
-![Photo: MSF Sea](assets/ab42525c4783/0*gxJDlBJy5yFI4NqV)
+![Photo: MSF Sea](../assets/ab42525c4783/0*gxJDlBJy5yFI4NqV)
 
 Photo: MSF Sea
 #### FEATURED
@@ -109,7 +109,7 @@ The **Greek Council for Refugees** is concerned about the fact that, while schoo
 
 
 
-![Photo: **Medical Volunteers International**](assets/ab42525c4783/1*5hzDEzWxOsF-ubIfuxOhvQ.jpeg)
+![Photo: **Medical Volunteers International**](../assets/ab42525c4783/1*5hzDEzWxOsF-ubIfuxOhvQ.jpeg)
 
 Photo: **Medical Volunteers International**
 

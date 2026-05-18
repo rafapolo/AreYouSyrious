@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 10/8/22: A five-year-old girl died on Evros, her family still remains there…
+title: "AYS News Digest 10/8/22: A five-year-old girl died on Evros, her family still remains there…"
 author: Are You Syrious?
 date: 2022-08-11T20:00:53.229+0100
 last_modified_at: 2022-08-11T20:53:04.241+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,evros,germany,europe]
 description: New victims of shipwrecks, but also new SAR vessels in the continuous struggle to cross into what is perceived as safety / A police officer…
 image:
-  path: assets/869b6d619c2d/0*dMjH7dRoUe1KYIJ6.jpg
+  path: ../assets/869b6d619c2d/0*dMjH7dRoUe1KYIJ6.jpg
 ---
 
 ### AYS News Digest 10/8/22: A five\-year\-old girl died on Evros, her family still remains there, helpless
 #### New victims of shipwrecks, but also new SAR vessels in the continuous struggle to cross into what is perceived as safety / A police officer fired a machine gun six times at a 16\-year old Senegalese in Germany / Recent reports pinpoint the lack of protection of migrants against the risks of exploitation, closely linked to the shortcomings of the British asylum system / More reports, news, updates and some really important and interesting propositions for reading
 
 
-![Evros \(Photo: bio\-e\.org\)](assets/869b6d619c2d/0*dMjH7dRoUe1KYIJ6.jpg)
+![Evros \(Photo: bio\-e\.org\)](../assets/869b6d619c2d/0*dMjH7dRoUe1KYIJ6.jpg)
 
 Evros \(Photo: bio\-e\.org\)
 #### FEATURE

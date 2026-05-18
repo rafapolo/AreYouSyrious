@@ -1,14 +1,13 @@
 ---
-title: AYS Weekend Digest 1–2/8/18: New arrivals, changing issues and more need for help
+title: "AYS Weekend Digest 1–2/8/18: New arrivals, changing issues and more need for help"
 author: Are You Syrious?
 date: 2018-09-03T11:33:29.298+0100
 last_modified_at: 2018-09-03T14:04:23.820+0100
 categories: Are You Syrious?
 tags: [refugees,digest,europe,france,humanitarian]
-description: A weekly summary of the most important news —
-Libya in a state of emergency, additionally putting more refugee lives in danger / Police…
+description: "A weekly summary of the most important news — Libya in a state of emergency, additionally putting more refugee lives in danger / Police…"
 image:
-  path: assets/18710e3a1865/1*Z1IfcwN9X08XYbLbM7clCw.jpeg
+  path: ../assets/18710e3a1865/1*Z1IfcwN9X08XYbLbM7clCw.jpeg
 ---
 
 ### AYS Weekend Digest 1–2/8/18: New arrivals, changing issues and more need for help
@@ -16,7 +15,7 @@ image:
 Libya in a state of emergency, additionally putting more refugee lives in danger / Police abuses and violence in Morocco / France: Big fire in Grande\-Synthe has left organizations without a base and much needed donations / Italy: Helping those saved off Diciotto / Volunteers, help and donations needed across Greece, Bosnia and Herzegovina, Italy, France / and more news
 
 
-![Greek solidarity protest — Photo via [@Nasim\_Lomani](https://twitter.com/Nasim_Lomani) ‏](assets/18710e3a1865/1*Z1IfcwN9X08XYbLbM7clCw.jpeg)
+![Greek solidarity protest — Photo via [@Nasim\_Lomani](https://twitter.com/Nasim_Lomani) ‏](../assets/18710e3a1865/1*Z1IfcwN9X08XYbLbM7clCw.jpeg)
 
 Greek solidarity protest — Photo via [@Nasim\_Lomani](https://twitter.com/Nasim_Lomani) ‏
 #### FEATURE — Updates on the volunteer arrests in Greece
@@ -35,7 +34,7 @@ If you want to show active support on your private or your organization’s soci
 [\#FreeHumanitarians](https://www.facebook.com/hashtag/freehumanitarians?hc_location=ufi)
 
 
-![](assets/18710e3a1865/1*XkF-qgLedv_68rKZMkcmpw.png)
+![](../assets/18710e3a1865/1*XkF-qgLedv_68rKZMkcmpw.png)
 
 #### IRAQ
 
@@ -88,20 +87,20 @@ Police abuse and violence continue in order to track down people on the move and
 
 
 
-![](assets/18710e3a1865/1*w4XcrkqjWB5ondhqEeBTkg.jpeg)
+![](../assets/18710e3a1865/1*w4XcrkqjWB5ondhqEeBTkg.jpeg)
 
 
 
-![](assets/18710e3a1865/1*DqBLAcN151lKLPB723MhRQ.jpeg)
+![](../assets/18710e3a1865/1*DqBLAcN151lKLPB723MhRQ.jpeg)
 
 
 
-![Photos published by: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?hc_ref=ARTTYrf23p3ukf4xB6DCbmIkXckCwxu8TR8o3iTylTMo6_iVOptKMwkNqMHrXx03khA&fref=nf&__xts__%5B0%5D=68.ARCdm-locdbN8WTgsR-UxFHFz34L5B3i1KPlHn-1biqrbPRc9CQY4i_FsjcAdeyt7r7pS8rB42cox0jRILbtqtLD8ebTIm6BM6wc6mqR3CSjYheHWbV3n2KkWirh4AuQpop4hQ0YfnFnDZaECYI_D0MMdv--E4-I2A3GLSRvpeijTMTyNi7-_A&__tn__=kC-R)](assets/18710e3a1865/1*c5ZHxhAR5hh0cxYSKFrBVw.jpeg)
+![Photos published by: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?hc_ref=ARTTYrf23p3ukf4xB6DCbmIkXckCwxu8TR8o3iTylTMo6_iVOptKMwkNqMHrXx03khA&fref=nf&__xts__%5B0%5D=68.ARCdm-locdbN8WTgsR-UxFHFz34L5B3i1KPlHn-1biqrbPRc9CQY4i_FsjcAdeyt7r7pS8rB42cox0jRILbtqtLD8ebTIm6BM6wc6mqR3CSjYheHWbV3n2KkWirh4AuQpop4hQ0YfnFnDZaECYI_D0MMdv--E4-I2A3GLSRvpeijTMTyNi7-_A&__tn__=kC-R)](../assets/18710e3a1865/1*c5ZHxhAR5hh0cxYSKFrBVw.jpeg)
 
 Photos published by: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?hc_ref=ARTTYrf23p3ukf4xB6DCbmIkXckCwxu8TR8o3iTylTMo6_iVOptKMwkNqMHrXx03khA&fref=nf&__xts__%5B0%5D=68.ARCdm-locdbN8WTgsR-UxFHFz34L5B3i1KPlHn-1biqrbPRc9CQY4i_FsjcAdeyt7r7pS8rB42cox0jRILbtqtLD8ebTIm6BM6wc6mqR3CSjYheHWbV3n2KkWirh4AuQpop4hQ0YfnFnDZaECYI_D0MMdv--E4-I2A3GLSRvpeijTMTyNi7-_A&__tn__=kC-R)
 
 
-![[Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?__xts__%5B0%5D=68.ARB0VC00jzBkam6oVPHBAWH2ZPGYgjhF5MN7DOHj2uYG0w6mxvHXMGwed8geIjWFwJoNbpkmqypp385h-UOhMAOa-oK2IVZ0_PY92bpEYMa0--PvtmesfFdxzRBcnCSIB7o70G_y4eev_Bv_DeVo4mpbXn893V6L--Fp5p__d35qwdzblrcuXOPiY6RYIsYN0NMjEPEibtvTrGqKNx1a&hc_ref=ARQOPp8gGDggQM911POmpOwVcHaMo2cGsnLebjkqFCnMsuNg3eHMJx-se9MS_j__P6E&fref=nf&hc_location=group) volunteers have documented abusive arrests and displacement of migrants in Morocco \(Photo: [AMDH — Section Nador](https://www.facebook.com/AmdhNador/?__xts__%5B0%5D=68.ARB0VC00jzBkam6oVPHBAWH2ZPGYgjhF5MN7DOHj2uYG0w6mxvHXMGwed8geIjWFwJoNbpkmqypp385h-UOhMAOa-oK2IVZ0_PY92bpEYMa0--PvtmesfFdxzRBcnCSIB7o70G_y4eev_Bv_DeVo4mpbXn893V6L--Fp5p__d35qwdzblrcuXOPiY6RYIsYN0NMjEPEibtvTrGqKNx1a&hc_ref=ARQOPp8gGDggQM911POmpOwVcHaMo2cGsnLebjkqFCnMsuNg3eHMJx-se9MS_j__P6E&fref=nf&hc_location=group) \)](assets/18710e3a1865/1*AP5uZoJ97HSIfJ1fZOkM2Q.jpeg)
+![[Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?__xts__%5B0%5D=68.ARB0VC00jzBkam6oVPHBAWH2ZPGYgjhF5MN7DOHj2uYG0w6mxvHXMGwed8geIjWFwJoNbpkmqypp385h-UOhMAOa-oK2IVZ0_PY92bpEYMa0--PvtmesfFdxzRBcnCSIB7o70G_y4eev_Bv_DeVo4mpbXn893V6L--Fp5p__d35qwdzblrcuXOPiY6RYIsYN0NMjEPEibtvTrGqKNx1a&hc_ref=ARQOPp8gGDggQM911POmpOwVcHaMo2cGsnLebjkqFCnMsuNg3eHMJx-se9MS_j__P6E&fref=nf&hc_location=group) volunteers have documented abusive arrests and displacement of migrants in Morocco \(Photo: [AMDH — Section Nador](https://www.facebook.com/AmdhNador/?__xts__%5B0%5D=68.ARB0VC00jzBkam6oVPHBAWH2ZPGYgjhF5MN7DOHj2uYG0w6mxvHXMGwed8geIjWFwJoNbpkmqypp385h-UOhMAOa-oK2IVZ0_PY92bpEYMa0--PvtmesfFdxzRBcnCSIB7o70G_y4eev_Bv_DeVo4mpbXn893V6L--Fp5p__d35qwdzblrcuXOPiY6RYIsYN0NMjEPEibtvTrGqKNx1a&hc_ref=ARQOPp8gGDggQM911POmpOwVcHaMo2cGsnLebjkqFCnMsuNg3eHMJx-se9MS_j__P6E&fref=nf&hc_location=group) \)](../assets/18710e3a1865/1*AP5uZoJ97HSIfJ1fZOkM2Q.jpeg)
 
 [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?__xts__%5B0%5D=68.ARB0VC00jzBkam6oVPHBAWH2ZPGYgjhF5MN7DOHj2uYG0w6mxvHXMGwed8geIjWFwJoNbpkmqypp385h-UOhMAOa-oK2IVZ0_PY92bpEYMa0--PvtmesfFdxzRBcnCSIB7o70G_y4eev_Bv_DeVo4mpbXn893V6L--Fp5p__d35qwdzblrcuXOPiY6RYIsYN0NMjEPEibtvTrGqKNx1a&hc_ref=ARQOPp8gGDggQM911POmpOwVcHaMo2cGsnLebjkqFCnMsuNg3eHMJx-se9MS_j__P6E&fref=nf&hc_location=group) volunteers have documented abusive arrests and displacement of migrants in Morocco \(Photo: [AMDH — Section Nador](https://www.facebook.com/AmdhNador/?__xts__%5B0%5D=68.ARB0VC00jzBkam6oVPHBAWH2ZPGYgjhF5MN7DOHj2uYG0w6mxvHXMGwed8geIjWFwJoNbpkmqypp385h-UOhMAOa-oK2IVZ0_PY92bpEYMa0--PvtmesfFdxzRBcnCSIB7o70G_y4eev_Bv_DeVo4mpbXn893V6L--Fp5p__d35qwdzblrcuXOPiY6RYIsYN0NMjEPEibtvTrGqKNx1a&hc_ref=ARQOPp8gGDggQM911POmpOwVcHaMo2cGsnLebjkqFCnMsuNg3eHMJx-se9MS_j__P6E&fref=nf&hc_location=group) \)
 #### CYPRUS
@@ -137,30 +136,30 @@ Over 4 months after the criminal court ordered their release, today, finally, on
 ### Athens
 
 
-![](assets/18710e3a1865/1*ABf5ih_bfs8BJoasFTgyew.jpeg)
+![](../assets/18710e3a1865/1*ABf5ih_bfs8BJoasFTgyew.jpeg)
 
 
 
-![](assets/18710e3a1865/1*zgGJh6p5k0m2L47by9TN9Q.jpeg)
+![](../assets/18710e3a1865/1*zgGJh6p5k0m2L47by9TN9Q.jpeg)
 
 
 
-![Athens is again full of people who are forced to stay outside due to the lack of accommodation \(Victoria Square/Photos by: Amin Rustaqi\)](assets/18710e3a1865/1*U-b0ZomcvH0TFI0OlefmCw.jpeg)
+![Athens is again full of people who are forced to stay outside due to the lack of accommodation \(Victoria Square/Photos by: Amin Rustaqi\)](../assets/18710e3a1865/1*U-b0ZomcvH0TFI0OlefmCw.jpeg)
 
 Athens is again full of people who are forced to stay outside due to the lack of accommodation \(Victoria Square/Photos by: Amin Rustaqi\)
 
 Hundreds of refugees, locals and international activists protested on Saturday in front of the Greek parliament in Athens, against European border regime / fortress Europe and thousands of dead people in the sea\.
 
 
-![](assets/18710e3a1865/1*Kz5oaQ5yWqSIF1EfU5kOhg.jpeg)
+![](../assets/18710e3a1865/1*Kz5oaQ5yWqSIF1EfU5kOhg.jpeg)
 
 
 
-![](assets/18710e3a1865/1*IQgsCJ_rOxlJKOd7JdjLsA.jpeg)
+![](../assets/18710e3a1865/1*IQgsCJ_rOxlJKOd7JdjLsA.jpeg)
 
 
 
-![Photos via Nasim Lomani](assets/18710e3a1865/1*QRL3JVWE0eWtSHxAG1w4aQ.jpeg)
+![Photos via Nasim Lomani](../assets/18710e3a1865/1*QRL3JVWE0eWtSHxAG1w4aQ.jpeg)
 
 Photos via Nasim Lomani
 
@@ -207,20 +206,20 @@ See our [earlier digest](ays-daily-digest-30-8-2018-reception-centre-in-messina-
 ### Solidarity march in Zürich
 
 
-![](assets/18710e3a1865/1*CYQEg7JUvRQZjNgCTZZ7Ww.jpeg)
+![](../assets/18710e3a1865/1*CYQEg7JUvRQZjNgCTZZ7Ww.jpeg)
 
 
 
-![](assets/18710e3a1865/1*vmZeLFsDwBM2wS0Pd6yQWg.jpeg)
+![](../assets/18710e3a1865/1*vmZeLFsDwBM2wS0Pd6yQWg.jpeg)
 
 
 
-![Photos from: [Seebrücke Demo Zürich](https://www.facebook.com/events/160604018089418/?acontext=%7B%22ref%22%3A%22106%22%2C%22action_history%22%3A%22null%22%7D)](assets/18710e3a1865/1*RpmG-gKmfSspcgdT8khpLQ.jpeg)
+![Photos from: [Seebrücke Demo Zürich](https://www.facebook.com/events/160604018089418/?acontext=%7B%22ref%22%3A%22106%22%2C%22action_history%22%3A%22null%22%7D)](../assets/18710e3a1865/1*RpmG-gKmfSspcgdT8khpLQ.jpeg)
 
 Photos from: [Seebrücke Demo Zürich](https://www.facebook.com/events/160604018089418/?acontext=%7B%22ref%22%3A%22106%22%2C%22action_history%22%3A%22null%22%7D)
 
 
-![](assets/18710e3a1865/1*4zEXeMjiy2S-q2B79HLWkA.jpeg)
+![](../assets/18710e3a1865/1*4zEXeMjiy2S-q2B79HLWkA.jpeg)
 
 #### SEA
 
@@ -247,7 +246,7 @@ forces and to support the Libyan coastguard in its efforts to bring refugees bac
 
 
 ![Tents and gazebos needed\! — “It’s almost two months we’ve been standing in the rain and the sun\. The situation is not always simple but we remain here, convinced that we must fight to the end to see our project achieved\.
-During these 60 days we have encountered so many beautiful acts of solidarity but also individual citizens who have supported us materially and morally\. We still need you right now\. For that, we ask you to help us, bringing gazebo and tents\.” — Photo: [Rifugiati sudanesi di Scorticabove](https://www.facebook.com/scorticabove/?tn-str=k%2AF&hc_location=group_dialog)](assets/18710e3a1865/1*HWQcpmfBZp8ySETeEM1ZmA.jpeg)
+During these 60 days we have encountered so many beautiful acts of solidarity but also individual citizens who have supported us materially and morally\. We still need you right now\. For that, we ask you to help us, bringing gazebo and tents\.” — Photo: [Rifugiati sudanesi di Scorticabove](https://www.facebook.com/scorticabove/?tn-str=k%2AF&hc_location=group_dialog)](../assets/18710e3a1865/1*HWQcpmfBZp8ySETeEM1ZmA.jpeg)
 
 Tents and gazebos needed\! — “It’s almost two months we’ve been standing in the rain and the sun\. The situation is not always simple but we remain here, convinced that we must fight to the end to see our project achieved\.
 During these 60 days we have encountered so many beautiful acts of solidarity but also individual citizens who have supported us materially and morally\. We still need you right now\. For that, we ask you to help us, bringing gazebo and tents\.” — Photo: [Rifugiati sudanesi di Scorticabove](https://www.facebook.com/scorticabove/?tn-str=k%2AF&hc_location=group_dialog)
@@ -284,11 +283,11 @@ The volunteers are devastated due to the incidents and following work\-load\.
 [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?hc_ref=ARTNUIBuIPrlaCCaWePr6HCAyl2TxYwdTLt_YhbJwt8Lw_DYbD8T67MVqiKrmxQlCQ4&fref=nf&__xts__%5B0%5D=68.ARCdqskwNbq8nYMVTTFI7KH941SlouTFrfSjP2FxvpsV_gw0pQyMhxX4MyhbzYgNWjY6WjGqYtbXjqakCuSM4Zx8d4_u9e_r9clHfoZKbrewNRxhlLN1-BYIyPpqwSJjeLBuHWyRMzQaEkGewf3o0QPsodxWL80jMZViY1WOgVqPCgLSbCzn&__tn__=kC-R) team reports that, with over 250 tents of varying sizes, the camp is now covering a large area of woodland, sandwiched between a motorway and a railway\.
 
 
-![](assets/18710e3a1865/1*fwlVrwcFh-H65gpOCtGLtA.jpeg)
+![](../assets/18710e3a1865/1*fwlVrwcFh-H65gpOCtGLtA.jpeg)
 
 
 
-![Photos: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?__xts__%5B0%5D=68.ARCdqskwNbq8nYMVTTFI7KH941SlouTFrfSjP2FxvpsV_gw0pQyMhxX4MyhbzYgNWjY6WjGqYtbXjqakCuSM4Zx8d4_u9e_r9clHfoZKbrewNRxhlLN1-BYIyPpqwSJjeLBuHWyRMzQaEkGewf3o0QPsodxWL80jMZViY1WOgVqPCgLSbCzn&__tn__=k%2AF&tn-str=k%2AF)](assets/18710e3a1865/1*U9XPi8-CngBz5zs0bEvoxA.jpeg)
+![Photos: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?__xts__%5B0%5D=68.ARCdqskwNbq8nYMVTTFI7KH941SlouTFrfSjP2FxvpsV_gw0pQyMhxX4MyhbzYgNWjY6WjGqYtbXjqakCuSM4Zx8d4_u9e_r9clHfoZKbrewNRxhlLN1-BYIyPpqwSJjeLBuHWyRMzQaEkGewf3o0QPsodxWL80jMZViY1WOgVqPCgLSbCzn&__tn__=k%2AF&tn-str=k%2AF)](../assets/18710e3a1865/1*U9XPi8-CngBz5zs0bEvoxA.jpeg)
 
 Photos: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?__xts__%5B0%5D=68.ARCdqskwNbq8nYMVTTFI7KH941SlouTFrfSjP2FxvpsV_gw0pQyMhxX4MyhbzYgNWjY6WjGqYtbXjqakCuSM4Zx8d4_u9e_r9clHfoZKbrewNRxhlLN1-BYIyPpqwSJjeLBuHWyRMzQaEkGewf3o0QPsodxWL80jMZViY1WOgVqPCgLSbCzn&__tn__=k%2AF&tn-str=k%2AF)
 
@@ -296,11 +295,11 @@ The tragic burning of the inter\-association warehouse in Grande\-Synthe last we
 #### BELGIUM
 
 
-![](assets/18710e3a1865/1*s-RhebTkji4pSQ_BtN-aKA.jpeg)
+![](../assets/18710e3a1865/1*s-RhebTkji4pSQ_BtN-aKA.jpeg)
 
 
 
-![Photos: [Care4Calais](https://www.facebook.com/care4calais/?tn-str=k%2AF&hc_location=group_dialog)](assets/18710e3a1865/1*foIzNnlAF74H06MJkw7WCg.jpeg)
+![Photos: [Care4Calais](https://www.facebook.com/care4calais/?tn-str=k%2AF&hc_location=group_dialog)](../assets/18710e3a1865/1*foIzNnlAF74H06MJkw7WCg.jpeg)
 
 Photos: [Care4Calais](https://www.facebook.com/care4calais/?tn-str=k%2AF&hc_location=group_dialog)
 #### SPAIN
@@ -341,7 +340,7 @@ Nearly 6,000 people participated in a far\-right demonstration since [Monday in 
 A [series](https://www.thetimes.co.uk/edition/world/gas-chambers-never-existed-say-afd-group-at-concentration-camp-f0kt5rjfk) of [articles](https://www.thetimes.co.uk/edition/world/germany-s-inexorable-drift-to-the-right-after-angela-merkel-s-migration-mistake-vkqhtdt0l) in the [_Times_](https://www.thetimes.co.uk/edition/world/fear-and-loathing-in-neo-nazi-chemnitz-cvzmw52fx) examine the events in and surrounding the recent violence in Chemnitz\. It says the atmosphere has become very hostile since the death of Daniel Hillig last Saturday\.
 
 
-![](assets/18710e3a1865/1*grTr0XoyfqIeAKXUYjcHew.jpeg)
+![](../assets/18710e3a1865/1*grTr0XoyfqIeAKXUYjcHew.jpeg)
 
 
 A nationwide “United against Racism” protest will also take place in [Hamburg](https://www.facebook.com/events/2006637416077800/) on September 29, with buses coming from more than 20 cities\.
@@ -355,7 +354,7 @@ During 2017 the number of quota refugees accepted [dropped significantly](https:
 #### UK
 
 
-![](assets/18710e3a1865/1*-UmaR75NAu0UDslwkiSiWQ.jpeg)
+![](../assets/18710e3a1865/1*-UmaR75NAu0UDslwkiSiWQ.jpeg)
 
 
 [Yorkshire Aid](https://www.facebook.com/YorkshireAid/?hc_ref=ARROUPdEH5iEv7wCKwE8Q-t4ps1KIj_D4P0vQzaE76Jg89Jb3hEnxecbYJqhehcG0oo&fref=nf&hc_location=group) salvaged hundreds of sleeping bags from the Leeds music festival during the weekend and, as they were damp due to rain and not all that clean, they need help in getting them washed before they can go to Calais\.

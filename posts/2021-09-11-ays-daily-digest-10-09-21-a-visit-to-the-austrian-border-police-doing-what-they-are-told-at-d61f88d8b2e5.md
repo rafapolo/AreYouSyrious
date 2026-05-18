@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 10/09/21: A visit to the Austrian border police — “doing what they are told” at…
+title: "AYS Daily Digest 10/09/21: A visit to the Austrian border police — “doing what they are told” at…"
 author: Are You Syrious?
 date: 2021-09-11T17:04:28.151+0100
 last_modified_at: 2021-09-11T17:04:28.151+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,europe,austria,lebanon,refugees]
 description: Lithuania ignores court decision, expells Afghans / Report on Lebanon — new government, same issues? / Dodgy collaboration of Malta and…
 image:
-  path: assets/d61f88d8b2e5/1*G5o-oZWdDWkXbfvzBJ_JJQ.jpeg
+  path: ../assets/d61f88d8b2e5/1*G5o-oZWdDWkXbfvzBJ_JJQ.jpeg
 ---
 
 ### AYS Daily Digest 10/09/21: A visit to the Austrian border police — “doing what they are told” at the initial point of chain pushbacks
 #### Lithuania ignores court decision, expells Afghans / Report on Lebanon — new government, same issues? / Dodgy collaboration of Malta and Lybia / No care for the 48 unaccompanied minors stuck in quarantine on Leros / recommended reads and reports
 
 
-![A visit to the most frequent pushback site at the Austrian border \(Photo: AYS\)](assets/d61f88d8b2e5/1*G5o-oZWdDWkXbfvzBJ_JJQ.jpeg)
+![A visit to the most frequent pushback site at the Austrian border \(Photo: AYS\)](../assets/d61f88d8b2e5/1*G5o-oZWdDWkXbfvzBJ_JJQ.jpeg)
 
 A visit to the most frequent pushback site at the Austrian border \(Photo: AYS\)
 #### FEATURE
@@ -22,15 +22,15 @@ A visit to the most frequent pushback site at the Austrian border \(Photo: AYS\)
 The [judgment](http://asyl.at/files/514/3_000686_jv_sig_xx.pdf) of the Regional Administrative Court of Styria that [concluded](https://mailchi.mp/ecre/elena-weekly-legal-update-16-july-2021?e=989a4aebdd#11) “pushbacks are to some extent methodically applied in Austria” seems to have been a tipping point for border practices to some extent\. Following the [documentation](http://www.asyl.at/de/info/presseaussendungen/systematicbreachoflawattheborderconfirmed/) of [another pushback case](https://steiermark.orf.at/stories/3120357/) involving an underage Somalian national, ECRE member asylkoordination österreich calls for the Public Prosecutor’s Office to open an investigation into the Ministry of Interior\. The Court of Justice of the EU \(CJEU\) [ruled](https://curia.europa.eu/juris/document/document.jsf?text=&docid=245748&pageIndex=0&doclang=FR&mode=req&dir=&occ=first&part=1&cid=7050543) on 9 September in favor of a rejected Iraqi asylum seeker, allowing him a new chance to apply for asylum in Austria, as ECRE writes\. However, the border police and police officials still deny any official court decision was made that would force them to change the way they work, that would prove these practices really do take place, nor that the people who appear on the Austrian border actually ask for asylum, our visit to the Austrian border today shows\. Supporting a LIBE Committee Member and members of the Austrian Pushback Alarm and Border Spielfeld group, together with InfoKolpa, Are You Syrious visited the Slovenian\-Austrian border in the point that marks the most used route, but that also had most pushback testimonies documented\.
 
 
-![](assets/d61f88d8b2e5/1*RRVniGsjt5VMe_kWIyzvyQ.jpeg)
+![](../assets/d61f88d8b2e5/1*RRVniGsjt5VMe_kWIyzvyQ.jpeg)
 
 
 
-![](assets/d61f88d8b2e5/1*ADOxAtWtCyaqZd0K_vHJJA.jpeg)
+![](../assets/d61f88d8b2e5/1*ADOxAtWtCyaqZd0K_vHJJA.jpeg)
 
 
 
-![Member of the European Parliament Bettina Vollath, who is a member of the Committee on Civil Liberties, Justice and Home Affairs \(LIBE\) visited the pushback area and the local border police point, together with members of organisations from Austria, Slovenia and Croatia, who follow, document and advocate against pushback practices, particularly chan pushbacks that, in this case, start in AUstria and end in Bosnia and Herzegovina\. \(Photo: AYS\)](assets/d61f88d8b2e5/1*r2YI-PaR5OiT6J3ndhlj2w.jpeg)
+![Member of the European Parliament Bettina Vollath, who is a member of the Committee on Civil Liberties, Justice and Home Affairs \(LIBE\) visited the pushback area and the local border police point, together with members of organisations from Austria, Slovenia and Croatia, who follow, document and advocate against pushback practices, particularly chan pushbacks that, in this case, start in AUstria and end in Bosnia and Herzegovina\. \(Photo: AYS\)](../assets/d61f88d8b2e5/1*r2YI-PaR5OiT6J3ndhlj2w.jpeg)
 
 Member of the European Parliament Bettina Vollath, who is a member of the Committee on Civil Liberties, Justice and Home Affairs \(LIBE\) visited the pushback area and the local border police point, together with members of organisations from Austria, Slovenia and Croatia, who follow, document and advocate against pushback practices, particularly chan pushbacks that, in this case, start in AUstria and end in Bosnia and Herzegovina\. \(Photo: AYS\)
 
@@ -38,7 +38,7 @@ If the area is monitored with drones, it means the entire population of small vi
 The people who come this area have to walk for a long time, after already having walked for a month or so, no public transport is at their disposal in the area, so they need to keep walking\. After Šentilj, the next place people have a possibility to cross to Austria is 10km up, there is a little ferry boat, another tight possibility is 5km further, and afterwards for more than 20km there is no way for people to cross Mura\. That is why this particular area is often used by the people on the move\.
 
 
-![This church is one of the landmarks mentioned in some of the pushback testimonies from the area\.](assets/d61f88d8b2e5/1*XYilEb2Duria4ZAHxO4C7Q.jpeg)
+![This church is one of the landmarks mentioned in some of the pushback testimonies from the area\.](../assets/d61f88d8b2e5/1*XYilEb2Duria4ZAHxO4C7Q.jpeg)
 
 This church is one of the landmarks mentioned in some of the pushback testimonies from the area\.
 

@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL — Greece: Single men, one of the most vulnerable groups
+title: "AYS SPECIAL — Greece: Single men, one of the most vulnerable groups"
 author: Are You Syrious?
 date: 2017-12-30T16:46:01.319+0000
 last_modified_at: 2018-03-01T13:42:53.186+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [refugees,greece,single-men,migrations,special]
 description: I have been a volunteer in Greece for most of the past 2 years, first in Lesvos and then in Athens as part of a team setting up and running…
 image:
-  path: assets/38eac963f58e/1*VIkxvgJaKBZo_M07mau0Fg.jpeg
+  path: ../assets/38eac963f58e/1*VIkxvgJaKBZo_M07mau0Fg.jpeg
 ---
 
 ### AYS SPECIAL — Greece: Single men, one of the most vulnerable groups
 
 
-![Photo by Progetto20k\.](assets/38eac963f58e/1*VIkxvgJaKBZo_M07mau0Fg.jpeg)
+![Photo by Progetto20k\.](../assets/38eac963f58e/1*VIkxvgJaKBZo_M07mau0Fg.jpeg)
 
 Photo by Progetto20k\.
 

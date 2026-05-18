@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 16/04/20: Testimonies from people trapped at sea
+title: "AYS Daily Digest 16/04/20: Testimonies from people trapped at sea"
 author: Are You Syrious?
 date: 2020-04-17T10:37:31.871+0100
 last_modified_at: 2020-04-17T10:37:31.871+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,europe,frontex]
 description: Heart-breaking testimonies from refugees on the move // News from inside German refugee camps dealing with COVID-19 // Austria’s agreement…
 image:
-  path: assets/e74f9f892a55/1*-pa-SruLhlDLEcn4_Hb7KQ.jpeg
+  path: ../assets/e74f9f892a55/1*-pa-SruLhlDLEcn4_Hb7KQ.jpeg
 ---
 
 ### AYS Daily Digest 16/04/20: Testimonies from people trapped at sea
@@ -15,7 +15,7 @@ image:
 Heart\-breaking testimonies from refugees on the move // News from inside German refugee camps dealing with COVID\-19 // Austria’s agreement to deport migrants and refugees // Updates from minors evacuated from Greece
 
 
-![“On board the [\#ALANKURDI](https://www.facebook.com/hashtag/alankurdi?source=feed_text&epa=HASHTAG&__xts__%5B0%5D=68.ARCPEBwcyggaEj6mAX9xel2-DkOdLNg4f1YO5kdJgK28HHCqGgHVN9nTbmDPVbpyxNCplMtEB-Wt1_uepxouX2ehouUbAm3OPeHzITLmKzENVQ5-DD_U6ZAGR45qdw5DYkBllAjejTTpK_-tQ4HbAd5gy5tsG6o1nleTOvY91l0t8QJyi_6hxvYRFXoOEOmic4f1BRsmtGErbGURfWJNNS_o8OfvTt43w27mJl5wBSJKJAEhScGjiNAZJtyZ46z8UdaQRfF-EuuOhv0JDZ8rqVmO7cjaucAluurLrmPdnJU9h0_2pBT7ZWEP2PwESuX8Hs4-gVRaw-gLpUzxu5Nulz_Cdg&__tn__=%2ANK-R) , our guests are increasingly desperate\. After 11 days on the ship without an end in sight, one person jumped overboard\. 146 people must be brought to safety\!” — @sea\-eye](assets/e74f9f892a55/1*-pa-SruLhlDLEcn4_Hb7KQ.jpeg)
+![“On board the [\#ALANKURDI](https://www.facebook.com/hashtag/alankurdi?source=feed_text&epa=HASHTAG&__xts__%5B0%5D=68.ARCPEBwcyggaEj6mAX9xel2-DkOdLNg4f1YO5kdJgK28HHCqGgHVN9nTbmDPVbpyxNCplMtEB-Wt1_uepxouX2ehouUbAm3OPeHzITLmKzENVQ5-DD_U6ZAGR45qdw5DYkBllAjejTTpK_-tQ4HbAd5gy5tsG6o1nleTOvY91l0t8QJyi_6hxvYRFXoOEOmic4f1BRsmtGErbGURfWJNNS_o8OfvTt43w27mJl5wBSJKJAEhScGjiNAZJtyZ46z8UdaQRfF-EuuOhv0JDZ8rqVmO7cjaucAluurLrmPdnJU9h0_2pBT7ZWEP2PwESuX8Hs4-gVRaw-gLpUzxu5Nulz_Cdg&__tn__=%2ANK-R) , our guests are increasingly desperate\. After 11 days on the ship without an end in sight, one person jumped overboard\. 146 people must be brought to safety\!” — @sea\-eye](../assets/e74f9f892a55/1*-pa-SruLhlDLEcn4_Hb7KQ.jpeg)
 
 “On board the [\#ALANKURDI](https://www.facebook.com/hashtag/alankurdi?source=feed_text&epa=HASHTAG&__xts__%5B0%5D=68.ARCPEBwcyggaEj6mAX9xel2-DkOdLNg4f1YO5kdJgK28HHCqGgHVN9nTbmDPVbpyxNCplMtEB-Wt1_uepxouX2ehouUbAm3OPeHzITLmKzENVQ5-DD_U6ZAGR45qdw5DYkBllAjejTTpK_-tQ4HbAd5gy5tsG6o1nleTOvY91l0t8QJyi_6hxvYRFXoOEOmic4f1BRsmtGErbGURfWJNNS_o8OfvTt43w27mJl5wBSJKJAEhScGjiNAZJtyZ46z8UdaQRfF-EuuOhv0JDZ8rqVmO7cjaucAluurLrmPdnJU9h0_2pBT7ZWEP2PwESuX8Hs4-gVRaw-gLpUzxu5Nulz_Cdg&__tn__=%2ANK-R) , our guests are increasingly desperate\. After 11 days on the ship without an end in sight, one person jumped overboard\. 146 people must be brought to safety\!” — @sea\-eye
 ### Feature

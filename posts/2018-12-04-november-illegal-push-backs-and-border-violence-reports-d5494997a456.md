@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,border-volence,special,no-name-kitchen,push-back]
 description: The following document presents testimonies of illegal push-backs where displaced people are expelled into the Bosnian territory from the…
 image:
-  path: assets/d5494997a456/1*E3fqUD6vikXQspYraY-x6A.jpeg
+  path: ../assets/d5494997a456/1*E3fqUD6vikXQspYraY-x6A.jpeg
 ---
 
 ### NOVEMBER ILLEGAL PUSH\-BACKS AND BORDER VIOLENCE REPORTS
@@ -15,7 +15,7 @@ image:
 _The following document presents testimonies of illegal push\-backs where displaced people are expelled into the Bosnian territory from the borderlands and interior of Croatia and Slovenia\. All testimonies are gathered from oral interviews via a standardised framework used by the grassroots organisations working in Velika Kladuša\._
 
 
-![](assets/d5494997a456/1*E3fqUD6vikXQspYraY-x6A.jpeg)
+![](../assets/d5494997a456/1*E3fqUD6vikXQspYraY-x6A.jpeg)
 
 
 **REPORT \[1\] Group of Seven — Pakistan — Report conducted on 5/11/18**
@@ -23,7 +23,7 @@ _The following document presents testimonies of illegal push\-backs where displa
 **Type of incident:** PUSH\-BACK — DEPORTATION — VERBALLY THREATENED — ROBBED — PHYSICAL VIOLENCE — DAMAGE OF PHONES
 
 
-![**Approximate location where the group was caught by the Croatian police**](assets/d5494997a456/1*2drSjPjktHSHYDS7HP43Sg.png)
+![**Approximate location where the group was caught by the Croatian police**](../assets/d5494997a456/1*2drSjPjktHSHYDS7HP43Sg.png)
 
 **Approximate location where the group was caught by the Croatian police**
 
@@ -70,7 +70,7 @@ During the pushback, the policemen cursed at the men, saying “ _Fuck you\!_ �
 **PHOTOS OF INJURIES**
 
 
-![](assets/d5494997a456/1*EDoQGhWFI_OH-sZZMFhF7A.jpeg)
+![](../assets/d5494997a456/1*EDoQGhWFI_OH-sZZMFhF7A.jpeg)
 
 
 **REPORT \[2\] Group of Thirteen — Bangladesh — Report conducted on 12/11/18**
@@ -78,14 +78,14 @@ During the pushback, the policemen cursed at the men, saying “ _Fuck you\!_ �
 **Type of incident:** The group was apprehended by Slovenian police close to the town of Vinica, along Route 218\. Upon their return to the Bosnian\-Croatian border, the group was pushed back at an area close to the town of Sturlić, approximately 20 miles from Velika Kladuša \(approximate location below\) \.
 
 
-![**Approximate location where the group was caught by the Slovenian polic** e](assets/d5494997a456/1*tBGZ8DLMxWlFSO0ayUfW6w.png)
+![**Approximate location where the group was caught by the Slovenian polic** e](../assets/d5494997a456/1*tBGZ8DLMxWlFSO0ayUfW6w.png)
 
 **Approximate location where the group was caught by the Slovenian polic** e
 
 **Location:** The group was apprehended by Slovenian police close to the town of Vinica, along Route 218\.
 
 
-![**Approximate location where the group was pushed back by the Croatian police**](assets/d5494997a456/1*xGbWG2nRxgjL8aKHFIc0nA.png)
+![**Approximate location where the group was pushed back by the Croatian police**](../assets/d5494997a456/1*xGbWG2nRxgjL8aKHFIc0nA.png)
 
 **Approximate location where the group was pushed back by the Croatian police**
 
@@ -150,11 +150,11 @@ The respondents described one of the officers present during their processing in
 **Type of incident:** PUSH\-BACK — DEPORTATION — VERBALLY THREATENED — ROBBED — PHYSICAL VIOLENCE — DAMAGE OF PHONES
 
 
-![](assets/d5494997a456/1*toG-4z5tEgbmc2JRHXmJVw.png)
+![](../assets/d5494997a456/1*toG-4z5tEgbmc2JRHXmJVw.png)
 
 
 
-![**Approximate location of the group when apprehended by Croatian police \[zoom in & zoom out\]**](assets/d5494997a456/1*Pe-icA-0a_9G-s2Eb4Ih6A.png)
+![**Approximate location of the group when apprehended by Croatian police \[zoom in & zoom out\]**](../assets/d5494997a456/1*Pe-icA-0a_9G-s2Eb4Ih6A.png)
 
 **Approximate location of the group when apprehended by Croatian police \[zoom in & zoom out\]**
 
@@ -271,7 +271,7 @@ Adnan reported that the group was initially stopped by a group of either five or
 **Type of incident:** PUSH BACK — DENIED ACCESS TO ASYLUM PROCEDURES — DEPORTATION — VERBALLY THREATENED — ROBBED — PHYSICAL VIOLENCE
 
 
-![**Red represents the approximate location of initial capture, 20km into Croatia** \.](assets/d5494997a456/1*10q5qKvxOtHWlozaNB02QA.png)
+![**Red represents the approximate location of initial capture, 20km into Croatia** \.](../assets/d5494997a456/1*10q5qKvxOtHWlozaNB02QA.png)
 
 **Red represents the approximate location of initial capture, 20km into Croatia** \.
 
@@ -374,7 +374,7 @@ _“It is very important, I will try\. If I can cross the border, I will do it\.
 **Type of incident:** PUSHBACK — PHYSICAL VIOLENCE — THEFT OF PERSONAL ITEMS — DESTRUCTION OF PERSONAL ITEMS
 
 
-![**Approximate location of the group when captured**](assets/d5494997a456/1*n0k-1xiRkhCwvdggJ-3UCg.png)
+![**Approximate location of the group when captured**](../assets/d5494997a456/1*n0k-1xiRkhCwvdggJ-3UCg.png)
 
 **Approximate location of the group when captured**
 
@@ -439,14 +439,14 @@ Hisham reported that he had a cracked rib as a result of the attack at the borde
 **Type of incident:** PUSH\-BACK — VERBALLY THREATENED — PHYSICAL VIOLENCE — DAMAGE OF PERSONAL ITEMS
 
 
-![**Approximate location of the group when caught by Croatian police officers**](assets/d5494997a456/1*zESUN_S11OJ97p-ANIDm5A.png)
+![**Approximate location of the group when caught by Croatian police officers**](../assets/d5494997a456/1*zESUN_S11OJ97p-ANIDm5A.png)
 
 **Approximate location of the group when caught by Croatian police officers**
 
 **Location:** The group left on foot from a secluded area of forest outside of Velika Kladusa and was stopped after walking approximately six kilometers into the interior of the country\.
 
 
-![**Approximate location of the group when pushed back by Croatian police officers**](assets/d5494997a456/1*xapjexJqte1kxenifqejpQ.png)
+![**Approximate location of the group when pushed back by Croatian police officers**](../assets/d5494997a456/1*xapjexJqte1kxenifqejpQ.png)
 
 **Approximate location of the group when pushed back by Croatian police officers**
 
@@ -511,7 +511,7 @@ The respondent remembered six police officers as being present during his group�
 The respondent had superficial bruises on his body and ear due to the beatings and the sudden braking of the transport van\. In addition, his eye was swollen, bruised, and scabbed over as a result of the kick to the face he received from a Croatian police officer\.
 
 
-![](assets/d5494997a456/1*Nr9L8bhhGD277nKeOyDADA.jpeg)
+![](../assets/d5494997a456/1*Nr9L8bhhGD277nKeOyDADA.jpeg)
 
 
 **REPORT \[8\] Group of 9 — Iraq and Syria — Report conducted on 13/11/18**
@@ -519,7 +519,7 @@ The respondent had superficial bruises on his body and ear due to the beatings a
 **Type of incident:** PUSH\-BACK — DEPORTATION — VERBALLY THREATENED — ROBBED — PHYSICAL VIOLENCE — DAMAGE OF PHONES
 
 
-![**Approximate location where the group was stopped by Croatian authorities \[zoom in & out\]**](assets/d5494997a456/1*BV-K4e6G0kVQB0JW4_WeAg.png)
+![**Approximate location where the group was stopped by Croatian authorities \[zoom in & out\]**](../assets/d5494997a456/1*BV-K4e6G0kVQB0JW4_WeAg.png)
 
 **Approximate location where the group was stopped by Croatian authorities \[zoom in & out\]**
 
@@ -576,7 +576,7 @@ One of the respondents had a wound on his head which he attributed to the strike
 **Type of incident:** PUSH BACK — DENIED ACCESS TO ASYLUM PROCEDURES — DEPORTATION — ROBBED — PHYSICAL VIOLENCE
 
 
-![**Approximate location of where the group was violently pushed back \[left\] and initially apprehended \[right\] by Croatian authoritie** s](assets/d5494997a456/1*ygWZwpAVU5l6yuigl6FaXw.png)
+![**Approximate location of where the group was violently pushed back \[left\] and initially apprehended \[right\] by Croatian authoritie** s](../assets/d5494997a456/1*ygWZwpAVU5l6yuigl6FaXw.png)
 
 **Approximate location of where the group was violently pushed back \[left\] and initially apprehended \[right\] by Croatian authoritie** s
 
@@ -693,7 +693,7 @@ While he was running, the interviewee witnessed the 17 years old Kurdish boy bei
 At the end of “this tunnel” of policemen, the interviewee and the group were physically pushed into a swamp, they try to run but the mud was about a meter deep\. The respondent witnessed a policeman taking the head of one man from North Africa and dunk his head into the water three times, the person could not breath\. The police followed them into the swamp\. To get out at the opposite end they had to climb up through the mud\.
 
 
-![](assets/d5494997a456/1*hsM4J7HF9XoYNaMSyBcB5A.png)
+![](../assets/d5494997a456/1*hsM4J7HF9XoYNaMSyBcB5A.png)
 
 
 They kept trying to escape but were only five persons at this point and one lost his shoes into the mud while another was badly beaten in the leg\. Two people had to carry this man until they reached an empty house in the forest\. The interviewee, who had a lighter, made a fire inside the house\. The 17 year old Kurdish boy was coughing blood\.
@@ -707,12 +707,12 @@ In the morning, they went to find their bags, but nothing was there anymore\. Th
 **Location:** The group was apprehended in the Croatian interior, 4 km from Slunj and were brought back to Buhača , near the Bosnian\-Croatian border, where they were pushed back
 
 
-![**4 km away from Slunj, Croatia where the group was caught by Croatian authoritie** s](assets/d5494997a456/1*IGJgMVS-JceFKfgcTMrkcQ.png)
+![**4 km away from Slunj, Croatia where the group was caught by Croatian authoritie** s](../assets/d5494997a456/1*IGJgMVS-JceFKfgcTMrkcQ.png)
 
 **4 km away from Slunj, Croatia where the group was caught by Croatian authoritie** s
 
 
-![**The approximate location in Buhača, Croatia, where the group was pushed back**](assets/d5494997a456/1*mMBgkL-FxevsU67CqA_rVA.png)
+![**The approximate location in Buhača, Croatia, where the group was pushed back**](../assets/d5494997a456/1*mMBgkL-FxevsU67CqA_rVA.png)
 
 **The approximate location in Buhača, Croatia, where the group was pushed back**
 
@@ -775,7 +775,7 @@ They all had pistols and tear gas spray bottles on their belts\.
 Apprehended : inside a company near Delnice
 
 
-![**Location of the 2nd police station — Delnice, Croatia**](assets/d5494997a456/1*hd2do8-JHKkMptZA2zyNRA.png)
+![**Location of the 2nd police station — Delnice, Croatia**](../assets/d5494997a456/1*hd2do8-JHKkMptZA2zyNRA.png)
 
 **Location of the 2nd police station — Delnice, Croatia**
 
@@ -846,7 +846,7 @@ At the second police station : A woman without face mask , a blue eyes big man w
 **Location:** The group was caught by the police in Croatia, only few kilometres away from the Bosnian border\. The violent incident happened by the Croatian border with Bosnia, nearby official border checkpoint outside of Velika Kladuša\.
 
 
-![**Approximate location where the group was attacked by the Croatian police\.**](assets/d5494997a456/1*j5sx8u3pEQNaoioARHuN1g.png)
+![**Approximate location where the group was attacked by the Croatian police\.**](../assets/d5494997a456/1*j5sx8u3pEQNaoioARHuN1g.png)
 
 **Approximate location where the group was attacked by the Croatian police\.**
 
@@ -907,7 +907,7 @@ Both Houma and Fathi said that they had bruises and pain around their legs, back
 **Location:** The group was caught by the police in Croatia, only few kilometres away from the Bosnian border with Slovenia \(Vinica\) \.
 
 
-![**Approximate location where the group was caught by the Croatian police\.**](assets/d5494997a456/1*FOO7VGML8bRyzHjL6RV4lg.png)
+![**Approximate location where the group was caught by the Croatian police\.**](../assets/d5494997a456/1*FOO7VGML8bRyzHjL6RV4lg.png)
 
 **Approximate location where the group was caught by the Croatian police\.**
 
@@ -968,7 +968,7 @@ Bizhan had a fractured hand and several bruises on his knees caused by the physi
 **Type of incident:** PUSH\-BACK — VERBALLY THREATENED — ROBBED \(MONEY, PHONES, PASSPORT\) — PHYSICAL VIOLENCE — DETAINED IN A ROOM AND VAN WITH LACK OF OXYGEN
 
 
-![**Approximate location where the group was caught by the Croatian police\.**](assets/d5494997a456/1*ZV5NOzSixWP_O5Z1_AGmkw.png)
+![**Approximate location where the group was caught by the Croatian police\.**](../assets/d5494997a456/1*ZV5NOzSixWP_O5Z1_AGmkw.png)
 
 **Approximate location where the group was caught by the Croatian police\.**
 
@@ -1029,7 +1029,7 @@ Hashim said that he had pain in his body but because he wore a thick jacket, he 
 **Type of incident:** PUSH\-BACK — NAKED BODY SEARCH — ROBBED
 
 
-![**Approximate location where the group was caught by the Croatian police\.**](assets/d5494997a456/1*0EwFkTZxPM9iLeujdCD9fA.png)
+![**Approximate location where the group was caught by the Croatian police\.**](../assets/d5494997a456/1*0EwFkTZxPM9iLeujdCD9fA.png)
 
 **Approximate location where the group was caught by the Croatian police\.**
 
@@ -1082,7 +1082,7 @@ Idris had a sprained ankle from a long walk\. He also had a blister around his a
 **Type of incident:** PUSH\-BACK — DENIED ASYLUM PROCEDURES — ROBBED \(MONEY, POWER BANKS\) — DAMAGE OF PHONES — PHYSICAL VIOLENCE — DETAINED IN A VAN WITH LACK OF OXYGEN — THREATENED BY GUNS
 
 
-![**Approximate location where the group was caught by the Croatian police\.**](assets/d5494997a456/1*jV3IBTgcszPasLEUEXhODg.png)
+![**Approximate location where the group was caught by the Croatian police\.**](../assets/d5494997a456/1*jV3IBTgcszPasLEUEXhODg.png)
 
 **Approximate location where the group was caught by the Croatian police\.**
 
@@ -1127,7 +1127,7 @@ Ibrahim’s friends then helped him to walk with a broken leg fifteen kilometers
 Five Croatian police officers dressed in black uniforms and wearing black masks over their faces and heads initially apprehended the group\.
 
 
-![](assets/d5494997a456/1*t1v-ZT2KdYGxK8f4EWfwTA.jpeg)
+![](../assets/d5494997a456/1*t1v-ZT2KdYGxK8f4EWfwTA.jpeg)
 
 
 **INJURIES AND MEDICAL TREATMENT**
@@ -1139,7 +1139,7 @@ Ibrahim had a broken leg caused by a fall while the officers were attacking him 
 **Type of incident:** PUSH\-BACK — SEARCHED NAKED — ROBBED \(MONEY, POWER BANKS\) — DAMAGE OF PHONES — PHYSICAL VIOLENCE — DETAINED IN A VAN WITH LACK OF OXYGEN
 
 
-![**Approximate location where the group was caught by the Croatian police\.**](assets/d5494997a456/1*yaqy9CrQluzP1GvUqptUcA.png)
+![**Approximate location where the group was caught by the Croatian police\.**](../assets/d5494997a456/1*yaqy9CrQluzP1GvUqptUcA.png)
 
 **Approximate location where the group was caught by the Croatian police\.**
 
@@ -1188,7 +1188,7 @@ Seven Croatian police officers dressed in black uniforms and wearing black masks
 Mehsi had an injured lip, a bulb on his head, bruises on his back, swollen ankle, and little cut behind on his head behind his ear\. These injuries were caused by a physical attack by 5 Croatian police officers with batons\.
 
 
-![](assets/d5494997a456/1*A-bl7gxuqnbtvwnfi4sWng.jpeg)
+![](../assets/d5494997a456/1*A-bl7gxuqnbtvwnfi4sWng.jpeg)
 
 
 **REPORT \[19\] Group of 6 — Afghanistan and Pakistan — Reported conducted on 7/11/18**
@@ -1196,7 +1196,7 @@ Mehsi had an injured lip, a bulb on his head, bruises on his back, swollen ankle
 **Type of incident:** PUSH\-BACK — DENIED ACCESS TO THE ASYLUM PROCEDURE — SEARCHED NAKED — ROBBED \(MONEY\) — DAMAGE OF PHONES — VERBALLY ATTACKED — PHYSICAL VIOLENCE
 
 
-![**Approximate location where the group was caught by the Croatian police\.**](assets/d5494997a456/1*X-43pHOBqd3TrzUe9QyI2Q.png)
+![**Approximate location where the group was caught by the Croatian police\.**](../assets/d5494997a456/1*X-43pHOBqd3TrzUe9QyI2Q.png)
 
 **Approximate location where the group was caught by the Croatian police\.**
 
@@ -1215,7 +1215,7 @@ Minors in the group: One 17 year old boy
 Sex: Males
 
 
-![**Approximate location where the group was attacked and pushed back to Bosnia\.**](assets/d5494997a456/1*sKVgiTT3r_1rpNX3aGzJeA.png)
+![**Approximate location where the group was attacked and pushed back to Bosnia\.**](../assets/d5494997a456/1*sKVgiTT3r_1rpNX3aGzJeA.png)
 
 **Approximate location where the group was attacked and pushed back to Bosnia\.**
 
@@ -1252,7 +1252,7 @@ The men were attacked and pushed back to Bosnia via a river by three police offi
 **Type of incident:** PUSH BACK — DENIED ACCESS TO ASYLUM PROCEDURES — DEPORTATION — VERBALLY THREATENED — ROBBED — PHYSICAL VIOLENCE
 
 
-![**Approximate location of initial capture south of Slunj, near the village of Novo Selo, Croatia\.**](assets/d5494997a456/1*gy-MA_Ah10pD2PdjFIn6jQ.png)
+![**Approximate location of initial capture south of Slunj, near the village of Novo Selo, Croatia\.**](../assets/d5494997a456/1*gy-MA_Ah10pD2PdjFIn6jQ.png)
 
 **Approximate location of initial capture south of Slunj, near the village of Novo Selo, Croatia\.**
 
@@ -1261,7 +1261,7 @@ The men were attacked and pushed back to Bosnia via a river by three police offi
 The border violence and pushback occurred on the Croatian frontier with Bosnia, opposite from Zagrad\.
 
 
-![**Approximate location of the pushback on the Croatian\-Bosnian border near Zagrad, BiH\.**](assets/d5494997a456/1*hCQrgyGsKp3g6Qnu0iR21Q.png)
+![**Approximate location of the pushback on the Croatian\-Bosnian border near Zagrad, BiH\.**](../assets/d5494997a456/1*hCQrgyGsKp3g6Qnu0iR21Q.png)
 
 **Approximate location of the pushback on the Croatian\-Bosnian border near Zagrad, BiH\.**
 
@@ -1344,7 +1344,7 @@ The injuries sustained are consistent with lateral strikes applied with extreme 
 **Type of incident:** PUSH BACK — DENIED ACCESS TO ASYLUM PROCEDURES — DEPORTATION — VERBALLY THREATENED — ROBBED — PHYSICAL VIOLENCE
 
 
-![**Approximate location of initial capture on the Croatian border with Slovenia\.**](assets/d5494997a456/1*Ypgqe_CVC0T43U_yuswNfg.png)
+![**Approximate location of initial capture on the Croatian border with Slovenia\.**](../assets/d5494997a456/1*Ypgqe_CVC0T43U_yuswNfg.png)
 
 **Approximate location of initial capture on the Croatian border with Slovenia\.**
 
@@ -1353,7 +1353,7 @@ The injuries sustained are consistent with lateral strikes applied with extreme 
 Border violence and pushback occurred on the Croatian territorial frontier with Bosnia, near to Maljevac\.
 
 
-![**Approximate location of the pushback and violence on the Croat\-Bosnian border near to Maljevac\.**](assets/d5494997a456/1*nNqbxLTa0nS7yhEvLkfNZg.png)
+![**Approximate location of the pushback and violence on the Croat\-Bosnian border near to Maljevac\.**](../assets/d5494997a456/1*nNqbxLTa0nS7yhEvLkfNZg.png)
 
 **Approximate location of the pushback and violence on the Croat\-Bosnian border near to Maljevac\.**
 

@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: Critically ill patients stuck in Syria. Dire situation in the Serbian Krnjača camp. Volunteer kitchen ransacked in Chios and dramatic…
 image:
-  path: assets/b493adecb55a/0*L3xj8vgxWdiRmW8k.
+  path: ../assets/b493adecb55a/0*L3xj8vgxWdiRmW8k.
 ---
 
 ### Are You Syrious Digest 15/8 — Critically ill patients stuck in Syria
@@ -74,7 +74,7 @@ As a reminder, camps on the Aegean islands are overpopulated, with more 3,072 pe
 In the past two days, the number of refugees living in the streets and parks of Thessaloniki has dramatically increased, reaching almost 500, up from 200 on Monday, with around 200 new people coming from Athens\. Only a few volunteers are currently active and long\-term volunteers are desperately needed\. Police is coming everyday, asking for people to join the camps but they are unwilling to do so\. Volunteers report that “despair in the park is growing and the tension is high” and new people are expected to arrive today\. Please check out their post on [Greecevol](http://greecevol.info/task.list.php?ID=230) to see how to help\.
 
 
-![](assets/b493adecb55a/0*L3xj8vgxWdiRmW8k.)
+![](../assets/b493adecb55a/0*L3xj8vgxWdiRmW8k.)
 
 ### Malaria cases reported in Thessaloniki camps and Hepatitis A outbreak in Ritsona camp
 
@@ -99,12 +99,12 @@ Yesterday, we reported that refugees were not allowed to leave the Krnjača camp
 Timber Project has finished setting up much needed infrastructure, in cooperation with I’m Human Organization \(IHO\) \. The projects include a wifi and mobile charging shelter in Kelebija as well as showers in Horgos\. IHO is hoping to have showers in Kelebija soon as well\.
 
 
-![Kelebij shelter\. Photo by IHO](assets/b493adecb55a/0*4wDQJoSUFWBfzYwk.)
+![Kelebij shelter\. Photo by IHO](../assets/b493adecb55a/0*4wDQJoSUFWBfzYwk.)
 
 Kelebij shelter\. Photo by IHO
 
 
-![Showers in Horgos\. Photo by IHO](assets/b493adecb55a/0*awzOlBth_piY6Mee.)
+![Showers in Horgos\. Photo by IHO](../assets/b493adecb55a/0*awzOlBth_piY6Mee.)
 
 Showers in Horgos\. Photo by IHO
 ### Projects led by refugees

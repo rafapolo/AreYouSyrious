@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 03/08/2018: Safe Harbours for All
+title: "AYS DAILY DIGEST 03/08/2018: Safe Harbours for All"
 author: Are You Syrious?
 date: 2018-08-04T12:02:21.849+0100
 last_modified_at: 2018-08-04T13:48:20.901+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest]
 description: More than 1,500 refugees have already lost their lives this year crossing the Mediterranean // Proactiva Open Arms is still stuck off the…
 image:
-  path: assets/a5c18bcff3db/0*qeanY4HHDad3PSjn
+  path: ../assets/a5c18bcff3db/0*qeanY4HHDad3PSjn
 ---
 
 ### AYS DAILY DIGEST 03/08/2018: Safe Harbours for All
@@ -15,13 +15,13 @@ image:
 _More than 1,500 refugees have already lost their lives this year crossing the Mediterranean // Proactiva Open Arms is still stuck off the coast of Libya//Police to control buses going from Sarajevo to Bihac or Velika Kladusa//_
 
 
-![Photo by [Seebrücke — Schafft sichere Häfen](https://www.facebook.com/SeebrueckeSchafftsichereHaefen/)](assets/a5c18bcff3db/0*qeanY4HHDad3PSjn)
+![Photo by [Seebrücke — Schafft sichere Häfen](https://www.facebook.com/SeebrueckeSchafftsichereHaefen/)](../assets/a5c18bcff3db/0*qeanY4HHDad3PSjn)
 
 Photo by [Seebrücke — Schafft sichere Häfen](https://www.facebook.com/SeebrueckeSchafftsichereHaefen/)
 #### Feature
 
 
-![](assets/a5c18bcff3db/0*QjIk8p1VefLA2PgK)
+![](../assets/a5c18bcff3db/0*QjIk8p1VefLA2PgK)
 
 
 Today, the [Seebrücke](https://www.facebook.com/SeebrueckeSchafftsichereHaefen/) movement is organising “Day Orange” in more than 40 German cities, a day in favour of a more human refugee policy and against the criminalisation of sea rescue\.
@@ -47,7 +47,7 @@ Salvamento Humanitario’s boat Salvamar Spic has rescued 83 people in total fro
 ### Volunteers needed in Calais
 
 
-![Photo by Mobile Refugee Support](assets/a5c18bcff3db/0*zDIl_pZjUIrnb2Nl)
+![Photo by Mobile Refugee Support](../assets/a5c18bcff3db/0*zDIl_pZjUIrnb2Nl)
 
 Photo by Mobile Refugee Support
 
@@ -61,7 +61,7 @@ In Paris, the situation continues to be dire, as the heatwave, police pressure a
 ### Arrivals
 
 
-![Photo by SMH](assets/a5c18bcff3db/0*3Cem9abQjF3F7vQE.jpg)
+![Photo by SMH](../assets/a5c18bcff3db/0*3Cem9abQjF3F7vQE.jpg)
 
 Photo by SMH
 

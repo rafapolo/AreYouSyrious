@@ -7,14 +7,14 @@ categories:
 tags: [hrvatska,izbjeglice,are-you-syrious,zagreb]
 description: Otvoreno pismo udruge Are You Syrious? Ministarstvu za demografiju, obitelj, mlade i socijalnu politiku, Pučkom pravobranitelju te…
 image:
-  path: assets/747904498b0a/1*9Va1ypOWr1Yp9jJwEsOGVw.jpeg
+  path: ../assets/747904498b0a/1*9Va1ypOWr1Yp9jJwEsOGVw.jpeg
 ---
 
 ### Hrvatska “izgubila” djecu bez pratnje
 #### Otvoreno pismo udruge Are You Syrious? Ministarstvu za demografiju, obitelj, mlade i socijalnu politiku, Pučkom pravobranitelju te Pravobraniteljici za djecu, povodom učestalih nestanaka maloljetnih izbjeglica iz dječjih domova u RH
 
 
-![Dio djece izbjeglica smještenih u Hrvatskoj ovog je tjedna krenuo u školu\. Drugi su završili u rukama krijumčara\. Foto: AYS](assets/747904498b0a/1*9Va1ypOWr1Yp9jJwEsOGVw.jpeg)
+![Dio djece izbjeglica smještenih u Hrvatskoj ovog je tjedna krenuo u školu\. Drugi su završili u rukama krijumčara\. Foto: AYS](../assets/747904498b0a/1*9Va1ypOWr1Yp9jJwEsOGVw.jpeg)
 
 Dio djece izbjeglica smještenih u Hrvatskoj ovog je tjedna krenuo u školu\. Drugi su završili u rukama krijumčara\. Foto: AYS
 

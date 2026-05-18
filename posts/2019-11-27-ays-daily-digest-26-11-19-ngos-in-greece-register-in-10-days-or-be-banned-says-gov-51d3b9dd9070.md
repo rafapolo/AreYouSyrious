@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 26/11/19 NGOs in Greece: Register in 10 days or be banned, says gov.
+title: "AYS Daily Digest 26/11/19 NGOs in Greece: Register in 10 days or be banned, says gov."
 author: Are You Syrious?
 date: 2019-11-27T06:28:56.342+0000
 last_modified_at: 2019-11-27T06:28:56.342+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,greece,digest,eu,france]
 description: 21 people died off the coast of Lampedusa // deportation stopped in Greece // updated stats on BoH // protests in Sweden // undue arrests…
 image:
-  path: assets/51d3b9dd9070/1*IRhWLR12m6IAy06TmWu0Pg.jpeg
+  path: ../assets/51d3b9dd9070/1*IRhWLR12m6IAy06TmWu0Pg.jpeg
 ---
 
 ### AYS Daily Digest 26/11/19 NGOs in Greece: Register in 10 days or be banned, says gov\.
@@ -15,7 +15,7 @@ image:
 _21 people died off the coast of Lampedusa // deportation stopped in Greece // updated stats on BoH // protests in Sweden // undue arrests in Belgium // new proposal for scrapping Dublin Agreement // and more…_
 
 
-![NGOs on Samos play a vital role; one that the government has been unable to provide\. Photo by [Louisa Waugh](https://www.the-waugh-zone.org/why-samos-is-still-the-real-story-of-2018/)](assets/51d3b9dd9070/1*IRhWLR12m6IAy06TmWu0Pg.jpeg)
+![NGOs on Samos play a vital role; one that the government has been unable to provide\. Photo by [Louisa Waugh](https://www.the-waugh-zone.org/why-samos-is-still-the-real-story-of-2018/)](../assets/51d3b9dd9070/1*IRhWLR12m6IAy06TmWu0Pg.jpeg)
 
 NGOs on Samos play a vital role; one that the government has been unable to provide\. Photo by [Louisa Waugh](https://www.the-waugh-zone.org/why-samos-is-still-the-real-story-of-2018/)
 ### Feature
@@ -26,7 +26,7 @@ The government wants to investigate the possibility of money laundering with org
 ### Sea
 
 
-![Photo by [Mikail Çiftçi](https://www.facebook.com/artagainstproject/photos/a.704384742944296/2569337956448956/?type=3&theater)](assets/51d3b9dd9070/1*3N6XUM0ZyssacO57gb1tiw.jpeg)
+![Photo by [Mikail Çiftçi](https://www.facebook.com/artagainstproject/photos/a.704384742944296/2569337956448956/?type=3&theater)](../assets/51d3b9dd9070/1*3N6XUM0ZyssacO57gb1tiw.jpeg)
 
 Photo by [Mikail Çiftçi](https://www.facebook.com/artagainstproject/photos/a.704384742944296/2569337956448956/?type=3&theater)
 
@@ -148,7 +148,7 @@ A deportation of an Afghani man was stopped on the 21st of November from Lesvos 
 ### Italy
 
 
-![[NGO Aita Mari](http://www.ansa.it/sicilia/notizie/2019/11/26/nave-mari-con-78-migranti-a-pozzallo_fb8baf53-7ab7-40ca-af9d-8735becf4cce.html) arrived at the Port of Pozzallo on Tuesday with 78 rescued people: 71 men, 6 women and 1 child\. Photo by [Ane Irazabal](https://twitter.com/AneIrazabal/status/1199271371014131712?fbclid=IwAR0ZGd2zHKfZMBcahddojk2lS-yBXOA7vubmBL1MGVMZ38Hq8j4K-jfNITc)](assets/51d3b9dd9070/1*BeMD5ehr_AlGXv_D2SqYaQ.jpeg)
+![[NGO Aita Mari](http://www.ansa.it/sicilia/notizie/2019/11/26/nave-mari-con-78-migranti-a-pozzallo_fb8baf53-7ab7-40ca-af9d-8735becf4cce.html) arrived at the Port of Pozzallo on Tuesday with 78 rescued people: 71 men, 6 women and 1 child\. Photo by [Ane Irazabal](https://twitter.com/AneIrazabal/status/1199271371014131712?fbclid=IwAR0ZGd2zHKfZMBcahddojk2lS-yBXOA7vubmBL1MGVMZ38Hq8j4K-jfNITc)](../assets/51d3b9dd9070/1*BeMD5ehr_AlGXv_D2SqYaQ.jpeg)
 
 [NGO Aita Mari](http://www.ansa.it/sicilia/notizie/2019/11/26/nave-mari-con-78-migranti-a-pozzallo_fb8baf53-7ab7-40ca-af9d-8735becf4cce.html) arrived at the Port of Pozzallo on Tuesday with 78 rescued people: 71 men, 6 women and 1 child\. Photo by [Ane Irazabal](https://twitter.com/AneIrazabal/status/1199271371014131712?fbclid=IwAR0ZGd2zHKfZMBcahddojk2lS-yBXOA7vubmBL1MGVMZ38Hq8j4K-jfNITc)
 ### Bosnia and Herzegovina
@@ -184,21 +184,21 @@ If time permits, a further reading of [the report](https://reliefweb.int/sites/r
 ### Belgium
 
 
-![](assets/51d3b9dd9070/1*m7pIjSA8rT4_GOIGlppd_g.jpeg)
+![](../assets/51d3b9dd9070/1*m7pIjSA8rT4_GOIGlppd_g.jpeg)
 
 
 
-![The Federal Police at Brussels North Station were arresting people on Tuesday who came into the station to find some heat inside from the cold and took them away for “identity” checks\. Photos by [Plateforme citoyenne de soutien aux réfugiés Bruxelles](https://www.facebook.com/bxlrefugees/posts/996890247316604)](assets/51d3b9dd9070/1*0qzt7077wXoyJGuw9XSfSQ.jpeg)
+![The Federal Police at Brussels North Station were arresting people on Tuesday who came into the station to find some heat inside from the cold and took them away for “identity” checks\. Photos by [Plateforme citoyenne de soutien aux réfugiés Bruxelles](https://www.facebook.com/bxlrefugees/posts/996890247316604)](../assets/51d3b9dd9070/1*0qzt7077wXoyJGuw9XSfSQ.jpeg)
 
 The Federal Police at Brussels North Station were arresting people on Tuesday who came into the station to find some heat inside from the cold and took them away for “identity” checks\. Photos by [Plateforme citoyenne de soutien aux réfugiés Bruxelles](https://www.facebook.com/bxlrefugees/posts/996890247316604)
 ### France
 
 
-![](assets/51d3b9dd9070/1*2Fb_aHAOCckvdr0chVL6tw.jpeg)
+![](../assets/51d3b9dd9070/1*2Fb_aHAOCckvdr0chVL6tw.jpeg)
 
 
 
-![“Over the past few weeks, almost every single one of our service and distribution sessions in **Dunkirk has been accompanied by torrential rain** …These conditions have led to an extremely high number of cases of **fungal infections** and conditions such as **trench foot** \. This is simply where, due to prolonged exposure to moisture and little room to dry, the skin on a person’s feet becomes infected and begins to rot…In order to prevent conditions and ailments such as these, we endeavor to replace peoples’ shoes…In order to continue to do this, we desperately need donations → **If you are able to donate any \(winter supplies\) please get in contact\.** Alternatively, you can donate to help us purchase these essential items in bulk, via our partner organisation People Not Borders \(to help\) purchase high quality, lasting footwear at affordable prices\.” Message by [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/posts/1116452811893662) ; Photos by FAST \(First Aid Support Team\)](assets/51d3b9dd9070/1*M8fc6-1ZY9fpgxn0eAhFGQ.jpeg)
+![“Over the past few weeks, almost every single one of our service and distribution sessions in **Dunkirk has been accompanied by torrential rain** …These conditions have led to an extremely high number of cases of **fungal infections** and conditions such as **trench foot** \. This is simply where, due to prolonged exposure to moisture and little room to dry, the skin on a person’s feet becomes infected and begins to rot…In order to prevent conditions and ailments such as these, we endeavor to replace peoples’ shoes…In order to continue to do this, we desperately need donations → **If you are able to donate any \(winter supplies\) please get in contact\.** Alternatively, you can donate to help us purchase these essential items in bulk, via our partner organisation People Not Borders \(to help\) purchase high quality, lasting footwear at affordable prices\.” Message by [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/posts/1116452811893662) ; Photos by FAST \(First Aid Support Team\)](../assets/51d3b9dd9070/1*M8fc6-1ZY9fpgxn0eAhFGQ.jpeg)
 
 “Over the past few weeks, almost every single one of our service and distribution sessions in **Dunkirk has been accompanied by torrential rain** …These conditions have led to an extremely high number of cases of **fungal infections** and conditions such as **trench foot** \. This is simply where, due to prolonged exposure to moisture and little room to dry, the skin on a person’s feet becomes infected and begins to rot…In order to prevent conditions and ailments such as these, we endeavor to replace peoples’ shoes…In order to continue to do this, we desperately need donations → **If you are able to donate any \(winter supplies\) please get in contact\.** Alternatively, you can donate to help us purchase these essential items in bulk, via our partner organisation People Not Borders \(to help\) purchase high quality, lasting footwear at affordable prices\.” Message by [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/posts/1116452811893662) ; Photos by FAST \(First Aid Support Team\)
 ### Sweden
@@ -206,11 +206,11 @@ The Federal Police at Brussels North Station were arresting people on Tuesday wh
 Another big deportation was set to take place from Arlanda airport Tuesday night\. 45 people are on the list, not much more is known as of now\. [Protests](https://www.facebook.com/groups/212935029139489/permalink/818686351897684/?hc_location=ufi) have occurred outside of the detention facility in Märsta since the late afternoon\.
 
 
-![](assets/51d3b9dd9070/1*G5E6IM9_LbJt35SBm5blRQ.jpeg)
+![](../assets/51d3b9dd9070/1*G5E6IM9_LbJt35SBm5blRQ.jpeg)
 
 
 
-![Photos by Elisabet Rundqvist](assets/51d3b9dd9070/1*muGg4rTvRM5P-r1f_v-4pA.jpeg)
+![Photos by Elisabet Rundqvist](../assets/51d3b9dd9070/1*muGg4rTvRM5P-r1f_v-4pA.jpeg)
 
 Photos by Elisabet Rundqvist
 

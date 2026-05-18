@@ -7,7 +7,7 @@ categories:
 tags: [refugees,denmark,morocco,lgbtq]
 description: Syrian families stranded on the Moroccan-Algerian border /// Pushbacks from Poland /// Weather warnings in the Agean sea /// New possible…
 image:
-  path: assets/945c42f31216/1*FZcKidzEbvdmdbOqpdr_cQ.jpeg
+  path: ../assets/945c42f31216/1*FZcKidzEbvdmdbOqpdr_cQ.jpeg
 ---
 
 ### AYS Daily Digest 16/5/2017 LGBTQI refugees voices unheeded
@@ -15,7 +15,7 @@ image:
 Syrian families stranded on the Moroccan\-Algerian border /// Pushbacks from Poland /// Weather warnings in the Agean sea /// New possible deportations from Denmark /// Updates from Sweden
 
 
-![Baobab Experience camp, Rome \(Matteo Mat Nardone\)](assets/945c42f31216/1*FZcKidzEbvdmdbOqpdr_cQ.jpeg)
+![Baobab Experience camp, Rome \(Matteo Mat Nardone\)](../assets/945c42f31216/1*FZcKidzEbvdmdbOqpdr_cQ.jpeg)
 
 Baobab Experience camp, Rome \(Matteo Mat Nardone\)
 
@@ -93,7 +93,7 @@ New HelpRefugees fundraiser for Syria
 In a blame game between Algeria and Morocco, dozens of Syrian families are stranded in a desert area on the border between the two countries\.
 
 
-![Moroccan\-Algerian border \(I’m Human Organisation\)](assets/945c42f31216/1*Bx3_C2auVlfNb5bBhgDFCg.jpeg)
+![Moroccan\-Algerian border \(I’m Human Organisation\)](../assets/945c42f31216/1*Bx3_C2auVlfNb5bBhgDFCg.jpeg)
 
 Moroccan\-Algerian border \(I’m Human Organisation\)
 
@@ -102,11 +102,11 @@ Moroccan\-Algerian border \(I’m Human Organisation\)
 Media sources \( [1](https://www.middleeastmonitor.com/20170512-morocco-stranded-syrians-can-enter-country-through-official-channels/) , [2](https://www.middleeastmonitor.com/20170426-activist-morocco-should-take-in-stranded-syrian-refugees/) \) report that Syrian families tried to enter Morocco from Algeria between 17–19 April near the desert town of Figuig, allegedly after Algerian authorities forced them out of the country\.
 
 
-![](assets/945c42f31216/1*HhoWAUUv-vg2bqdoeOopDg.jpeg)
+![](../assets/945c42f31216/1*HhoWAUUv-vg2bqdoeOopDg.jpeg)
 
 
 
-![Moroccan\-Algerian border \(I’m Human Organisation\)](assets/945c42f31216/1*hPfDCBnfRNx4OvmdZdkTYQ.jpeg)
+![Moroccan\-Algerian border \(I’m Human Organisation\)](../assets/945c42f31216/1*hPfDCBnfRNx4OvmdZdkTYQ.jpeg)
 
 Moroccan\-Algerian border \(I’m Human Organisation\)
 
@@ -131,7 +131,7 @@ While some MEPs focused on the lack of political will and on the procedures to s
 IOM released [new data](https://www.iom.int/news/mediterranean-migrant-arrivals-reach-53912-2017-deaths-1316) on Mediterranean migrant arrivals and deaths, updated to May 14\.
 
 
-![](assets/945c42f31216/1*XwYqUzz6IM-wvTLpXRTfEg.jpeg)
+![](../assets/945c42f31216/1*XwYqUzz6IM-wvTLpXRTfEg.jpeg)
 
 ### GREECE
 ### **WEATHER WARNING**
@@ -149,7 +149,7 @@ Chios 107 — Samos 42 — Total: 149
 With 1158 registrations this month, there have been more arrivals than in the whole of April \(1118\)
 
 
-![Souda Camp, Chios \( [Theurgia Goetia](https://medium.com/u/18d0b19d81f4) \)](assets/945c42f31216/1*aSDduFhai9p8uZ1AmRgEig.jpeg)
+![Souda Camp, Chios \( [Theurgia Goetia](https://medium.com/u/18d0b19d81f4) \)](../assets/945c42f31216/1*aSDduFhai9p8uZ1AmRgEig.jpeg)
 
 Souda Camp, Chios \( [Theurgia Goetia](https://medium.com/u/18d0b19d81f4) \)
 
@@ -248,7 +248,7 @@ Police controls of international bus services continue\.
 [Care4Calais](https://web.facebook.com/care4calais/?ref=page_internal) needs drivers urgently
 
 
-![](assets/945c42f31216/1*u12QzV1eV4Oe6N56tYdjmg.jpeg)
+![](../assets/945c42f31216/1*u12QzV1eV4Oe6N56tYdjmg.jpeg)
 
 
 

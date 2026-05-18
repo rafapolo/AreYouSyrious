@@ -1,5 +1,5 @@
 ---
-title: New Year Digest 25/12–3/1: “National interests are above human rights”
+title: "New Year Digest 25/12–3/1: “National interests are above human rights”"
 author: Are You Syrious?
 date: 2021-01-04T12:23:58.147+0000
 last_modified_at: 2021-01-04T12:23:58.147+0000
@@ -7,18 +7,18 @@ categories: Are You Syrious?
 tags: [digest,unhcr,mitsotakis,human-rights,refugees]
 description: Since December 25 at Are You Syrious? we have halted our Daily Digests and published a series of Specials which focused on different…
 image:
-  path: assets/2aac462bd400/0*i0m6StlL4IPTDH4V.jpeg
+  path: ../assets/2aac462bd400/0*i0m6StlL4IPTDH4V.jpeg
 ---
 
 ### New Year Digest 25/12–3/1: “National interests are above human rights”
 #### Since December 25 at _Are You Syrious?_ we have halted our Daily Digests and published a series of Specials which focused on different topics related to 2020\. With this digest we focus instead on the two weeks at the turn of the year\. From tomorrow we will start with our normal daily reporting\.
 
 
-![](assets/2aac462bd400/0*cumSw5zs7DFbiyUs)
+![](../assets/2aac462bd400/0*cumSw5zs7DFbiyUs)
 
 
 
-![](assets/2aac462bd400/0*i0m6StlL4IPTDH4V.jpeg)
+![](../assets/2aac462bd400/0*i0m6StlL4IPTDH4V.jpeg)
 
 
 I swear… that I will never stay silent\! I swear to smiling of displaced children\. I swear to tears of injured mothers\. I swear to million of hidden dreams\. That, I will never stay silent\! \(extract of a poem by [Parwana Amiri](https://twitter.com/parwana_amiri/status/1345814247201267712) , full poem [HERE](https://brushandbow.com/i-swear-that-i-will-never-stay-silent/) — Illustration by Shukran Shirzad, Iranian artist in Moria 2\.0, Greece\)
@@ -61,19 +61,19 @@ At the Evros land border, Alarm Phone [reported](https://twitter.com/alarm_phone
 LEBANON
 
 
-![](assets/2aac462bd400/0*yRf8f5ZvRWiYCLbd)
+![](../assets/2aac462bd400/0*yRf8f5ZvRWiYCLbd)
 
 
 
-![](assets/2aac462bd400/0*sVS7atkYQRnhTZEy.jpeg)
+![](../assets/2aac462bd400/0*sVS7atkYQRnhTZEy.jpeg)
 
 
 
-![](assets/2aac462bd400/0*fBJhEob3nMELOoSG)
+![](../assets/2aac462bd400/0*fBJhEob3nMELOoSG)
 
 
 
-![](assets/2aac462bd400/0*5qNVrMq9LK656yJY.jpeg)
+![](../assets/2aac462bd400/0*5qNVrMq9LK656yJY.jpeg)
 
 
 \(Photo Credit: [Mohammad Hamoud](https://www.facebook.com/mohammad.hamoud/posts/10224626432427044) \)
@@ -88,11 +88,11 @@ Winter did not stop people from trying to seek safety in Europe\. Alarm Phone, A
 ### Central Med
 
 
-![](assets/2aac462bd400/0*uIHREqZyiTEROjUF)
+![](../assets/2aac462bd400/0*uIHREqZyiTEROjUF)
 
 
 
-![](assets/2aac462bd400/0*or8xMb6RDhB4i21S.jpeg)
+![](../assets/2aac462bd400/0*or8xMb6RDhB4i21S.jpeg)
 
 
 January 2, Central Med \(Photo by [Joan Mateu Parra, Open Arms](https://twitter.com/openarms_found/status/1345380232933634049) \)
@@ -164,11 +164,11 @@ GENERAL
 ### Worrying New Years wishes by [UN Refugee Agency](75f2bdd89854?source=post_page-----a87e49b13fea--------------------------------)
 
 
-![](assets/2aac462bd400/0*dg_0zbbtebQEpGoA)
+![](../assets/2aac462bd400/0*dg_0zbbtebQEpGoA)
 
 
 
-![](assets/2aac462bd400/0*Uwz1pWQ2__lduLbn.png)
+![](../assets/2aac462bd400/0*Uwz1pWQ2__lduLbn.png)
 
 
 “Just look at little Husna’s smile\! At only five months old, she’s never been to her family’s home country of Afghanistan\. But — thanks to UNHCR — she is one of the 6 million people who are being supported to make a safe return to the nation” \(UNHCR, reported by Josoor’s [Natalie Gruber](https://twitter.com/NatalieSGruber/status/1345735669054844928) \)

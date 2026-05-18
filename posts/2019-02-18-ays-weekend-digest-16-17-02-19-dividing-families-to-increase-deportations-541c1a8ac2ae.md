@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 16–17/02/19: Dividing families to increase deportations
+title: "AYS Weekend Digest 16–17/02/19: Dividing families to increase deportations"
 author: Are You Syrious?
 date: 2019-02-18T09:28:29.773+0000
 last_modified_at: 2019-02-19T18:42:43.864+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,afghanistan]
 description: Report from returnees in Kabul and new scheduled deportation to Afghanistan / Urgent need for help in Greece and France / Fire in makeshift…
 image:
-  path: assets/541c1a8ac2ae/1*34x_OBm5-JMRU7eIh8ZbOA.jpeg
+  path: ../assets/541c1a8ac2ae/1*34x_OBm5-JMRU7eIh8ZbOA.jpeg
 ---
 
 ### AYS Weekend Digest 16–17/02/19: Dividing families to increase deportations
 #### Report from returnees in Kabul and new scheduled deportation to Afghanistan / Urgent need for help in Greece and France / Fire in makeshift camp in Italy
 
 
-![Credits: [Donate4Refugees](https://www.facebook.com/Donate4Refugees.org.uk/?tn-str=k%2AF)](assets/541c1a8ac2ae/1*34x_OBm5-JMRU7eIh8ZbOA.jpeg)
+![Credits: [Donate4Refugees](https://www.facebook.com/Donate4Refugees.org.uk/?tn-str=k%2AF)](../assets/541c1a8ac2ae/1*34x_OBm5-JMRU7eIh8ZbOA.jpeg)
 
 Credits: [Donate4Refugees](https://www.facebook.com/Donate4Refugees.org.uk/?tn-str=k%2AF)
 ### Afghanistan

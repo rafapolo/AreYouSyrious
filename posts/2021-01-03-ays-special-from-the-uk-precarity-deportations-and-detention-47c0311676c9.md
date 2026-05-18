@@ -1,5 +1,5 @@
 ---
-title: AYS Special from the UK: Precarity, Deportations and Detention
+title: "AYS Special from the UK: Precarity, Deportations and Detention"
 author: Are You Syrious?
 date: 2021-01-03T17:19:41.659+0000
 last_modified_at: 2021-01-03T17:19:41.659+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [hostile-environment,special,uk,sillath,immigration-act]
 description: In 2020, the UK’s final year as a member of the European Union, anti-migrant rhetoric took centre stage in British politics — perhaps not…
 image:
-  path: assets/47c0311676c9/0*Q6xOpv7Z6Q5XIHPY.jpeg
+  path: ../assets/47c0311676c9/0*Q6xOpv7Z6Q5XIHPY.jpeg
 ---
 
 ### AYS Special from the UK: Precarity, Deportations and Detention
@@ -15,11 +15,11 @@ image:
 _In 2020, the UK’s final year as a member of the European Union, anti\-migrant rhetoric took centre stage in British politics — perhaps not surprising given the xenophobic foundation of the ‘leave’ campaign\._
 
 
-![](assets/47c0311676c9/0*8dmU6-erlYG37M4z)
+![](../assets/47c0311676c9/0*8dmU6-erlYG37M4z)
 
 
 
-![](assets/47c0311676c9/0*Q6xOpv7Z6Q5XIHPY.jpeg)
+![](../assets/47c0311676c9/0*Q6xOpv7Z6Q5XIHPY.jpeg)
 
 
 Despite the devastating impact of COVID\-19 from lockdowns to huge unemployment and a complete failure of the state to keep anyone safe from the virus, energy was mustered to continue hostile and dangerous policies towards non\-citizens and people on the move\. Asylum interviews were paused, and have still only partially begun again, meaning [over 60,000 people have now been waiting over 6 months](https://www.refugeecouncil.org.uk/latest/news/asylum-claims-fall-as-people-waiting-more-than-six-months-for-a-decision-hits-record-high/?fbclid=IwAR1s2KA_cFDoj-m1nKAmjaUKhWoiLQG9lhBUUJQOy8H_cXveY16LLoNDDgA) for their interview, leaving them to live in limbo with no money and in substandard housing\. Lockdown also meant many appeal hearings were [moved to online platforms](https://www.refugeecouncil.org.uk/latest/news/changes-to-home-office-asylum-resettlement-policy-and-practice-in-response-to-covid-19/) despite a lack of internet in asylum accommodation, meaning people struggled to attend their hearings\.
@@ -42,11 +42,11 @@ Alongside this, the end of the Brexit transition period placed future restrictio
 ### Precarity in the midst of a pandemic
 
 
-![](assets/47c0311676c9/0*-NxC0rXAqY9jWsQy)
+![](../assets/47c0311676c9/0*-NxC0rXAqY9jWsQy)
 
 
 
-![](assets/47c0311676c9/0*ETMgEOK9y7K3FyVV.png)
+![](../assets/47c0311676c9/0*ETMgEOK9y7K3FyVV.png)
 
 
 A person with [NRPF](https://www.londoncouncils.gov.uk/our-key-themes/asylum-migration-and-refugees/no-recourse-public-funds) has no access to housing, healthcare, welfare or any other formal support\. This vindictive policy is key to the “ [Hostile Environment](https://www.jcwi.org.uk/the-hostile-environment-explained) ”\. During a pandemic in which many people lost their jobs, and where charities, NGOs and grassroots support groups were forced to close their doors, tens of thousands of people became completely shut off from their support networks or means to support themselves\.
@@ -73,11 +73,11 @@ At the beginning of the pandemic, emergency accommodation was offered to people 
 ### Operation Sillath
 
 
-![](assets/47c0311676c9/0*QfVmk4QO1GRrFV9N)
+![](../assets/47c0311676c9/0*QfVmk4QO1GRrFV9N)
 
 
 
-![](assets/47c0311676c9/0*6HNVtoa0snzrY30b.jpeg)
+![](../assets/47c0311676c9/0*6HNVtoa0snzrY30b.jpeg)
 
 
 The increase of people arriving to the UK by small boat — reportedly [around 8,000 people](https://www.bbc.co.uk/news/uk-england-kent-54908337) as of September this year — meant that people seeking safety were instead met with punitive measures\.
@@ -159,11 +159,11 @@ The use of hotels by these companies was quickly expanded at the beginning of th
 The use of hotels has also meant an increased easiness for immigration raids to take people to charter flights, as more people are housed together, and the raids are aided by hotel staff\.
 
 
-![](assets/47c0311676c9/0*QREtRUWulOb-2DJ7)
+![](../assets/47c0311676c9/0*QREtRUWulOb-2DJ7)
 
 
 
-![](assets/47c0311676c9/0*926A7CE3SjUrSrHV.jpeg)
+![](../assets/47c0311676c9/0*926A7CE3SjUrSrHV.jpeg)
 
 
 Despite ongoing [calls to end detention](https://www.redpepper.org.uk/the-politics-of-covid-19-urgent-calls-to-end-immigrant-detention/) in the UK, and an initial lowering of numbers detained across the country, the increased use of short\-term holding facilities — including the [repurposing of Yarls Wood](https://www.bbc.com/news/uk-england-beds-bucks-herts-53810521) — for people arriving by boat has meant detention practices remain rife\. As COVID continues to run rampant across the UK it is unsurprising that outbreaks have now happened within Brook House detention centre\.

@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 12/1/22: Syrians flee Denmark in fear of deportation — a dilemma for EU governments
+title: "AYS News Digest 12/1/22: Syrians flee Denmark in fear of deportation — a dilemma for EU governments"
 author: Are You Syrious?
 date: 2022-01-13T16:27:04.748+0000
 last_modified_at: 2022-01-14T15:50:43.824+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,denmark,refugees,europe,syria]
 description: What will the fallout off the Danish decision be for the people and for other EU Member states? / 2021 deadliest year on record in the…
 image:
-  path: assets/8eb20a3d82b4/0*NMm4xRksgFhLwQDC.jpeg
+  path: ../assets/8eb20a3d82b4/0*NMm4xRksgFhLwQDC.jpeg
 ---
 
 ### **AYS News Digest 12/1/22: Syrians flee Denmark in fear of deportation — a dilemma for EU governments**
 #### What will the fallout of the Danish decision be for the people and for other EU Member states? / 2021 deadliest year on record in the Mediterranean / EC plans no infringement procedure in case of EU Member States practicing pushbacks at the border with Belarus
 
 
-![Ocean Viking detained in Italian port one year after release — see story [here](https://en.sosmediterranee.org/news/ocean-viking-detained-in-italian-port-one-year-after-release/?fbclid=IwAR3GWQ6j8yXt_6r1ttTpFQH-dmhvLkO6f6BBE6T-sBqcz6QF1qsuV0GGPes)](assets/8eb20a3d82b4/0*NMm4xRksgFhLwQDC.jpeg)
+![Ocean Viking detained in Italian port one year after release — see story [here](https://en.sosmediterranee.org/news/ocean-viking-detained-in-italian-port-one-year-after-release/?fbclid=IwAR3GWQ6j8yXt_6r1ttTpFQH-dmhvLkO6f6BBE6T-sBqcz6QF1qsuV0GGPes)](../assets/8eb20a3d82b4/0*NMm4xRksgFhLwQDC.jpeg)
 
 Ocean Viking detained in Italian port one year after release — see story [here](https://en.sosmediterranee.org/news/ocean-viking-detained-in-italian-port-one-year-after-release/?fbclid=IwAR3GWQ6j8yXt_6r1ttTpFQH-dmhvLkO6f6BBE6T-sBqcz6QF1qsuV0GGPes)
 #### FEATURE
@@ -62,7 +62,7 @@ After the brutal detention of hundreds of people [camping in front of a communit
 [In a video](https://twitter.com/RefugeesinLibya/status/1481202383589945346) , they request for UNHCR and Libyan authorities to be held accountable\.
 
 
-![](assets/8eb20a3d82b4/0*SDqeDK2ITK9HNWEX)
+![](../assets/8eb20a3d82b4/0*SDqeDK2ITK9HNWEX)
 
 
 MSF has treated 68 people who were injured during the mass arrest two days ago\. 190 people were offered psychological support, the team [reported](https://www.ansamed.info/ansamed/en/news/sections/generalnews/2022/01/11/libya-68-migrants-treated-after-mass-arrests-in-tripoli-msf_e9d0db6f-cbe1-4eb3-a1fc-fce01dd87a24.html?fbclid=IwAR3S4PAgl1yZwq7aLnmOJNTqdIi7xfFXS8l9OG73QOIoAYf1WSYta20u0cQ) \.
@@ -101,7 +101,7 @@ People had "stab wounds, beating marks &amp; [were] separated from children", sa
 #### GREECE
 
 
-![“A day with very bad weather: Cold and windy\. Today we gave lentils and and flour for empty bottles\. Again more than 10\.000 empty bottles went to recycling\. Even on these pictures you see how peoples are freezing and suffering from the cold\.” — Photo: [Moria Corona Awareness Team](https://www.facebook.com/MoriaCoronaAwarenessTeam/?__cft__[0]=AZV-3Nkln8xsZZjHxhvZcnOsiWLglu8Fh3eQUvEZuW0OI39rVj8Z6SabQzhoH7YajuBKiFX7xiAjQEToT4rdDcxyfBYkobBfGpVEPMDwSLz4o6ZgfuJfo5ZEZrNvLnkGeOgVUHe3A0QZuCijbU2Nqtwg&__tn__=-UC*F)](assets/8eb20a3d82b4/1*dyiJ7JutihFf6gpfBIcGLQ.jpeg)
+![“A day with very bad weather: Cold and windy\. Today we gave lentils and and flour for empty bottles\. Again more than 10\.000 empty bottles went to recycling\. Even on these pictures you see how peoples are freezing and suffering from the cold\.” — Photo: [Moria Corona Awareness Team](https://www.facebook.com/MoriaCoronaAwarenessTeam/?__cft__[0]=AZV-3Nkln8xsZZjHxhvZcnOsiWLglu8Fh3eQUvEZuW0OI39rVj8Z6SabQzhoH7YajuBKiFX7xiAjQEToT4rdDcxyfBYkobBfGpVEPMDwSLz4o6ZgfuJfo5ZEZrNvLnkGeOgVUHe3A0QZuCijbU2Nqtwg&__tn__=-UC*F)](../assets/8eb20a3d82b4/1*dyiJ7JutihFf6gpfBIcGLQ.jpeg)
 
 “A day with very bad weather: Cold and windy\. Today we gave lentils and and flour for empty bottles\. Again more than 10\.000 empty bottles went to recycling\. Even on these pictures you see how peoples are freezing and suffering from the cold\.” — Photo: [Moria Corona Awareness Team](https://www.facebook.com/MoriaCoronaAwarenessTeam/?__cft__[0]=AZV-3Nkln8xsZZjHxhvZcnOsiWLglu8Fh3eQUvEZuW0OI39rVj8Z6SabQzhoH7YajuBKiFX7xiAjQEToT4rdDcxyfBYkobBfGpVEPMDwSLz4o6ZgfuJfo5ZEZrNvLnkGeOgVUHe3A0QZuCijbU2Nqtwg&__tn__=-UC*F)
 ### Naming and Shaming: Harmful asylum procedures for sexual orientation and gender identity claims on Lesvos

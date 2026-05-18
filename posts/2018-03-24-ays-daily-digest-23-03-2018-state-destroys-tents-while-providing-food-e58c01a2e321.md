@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 23.03.2018: State destroys tents while providing food
+title: "AYS DAILY DIGEST 23.03.2018: State destroys tents while providing food"
 author: Are You Syrious?
 date: 2018-03-24T09:53:26.742+0000
 last_modified_at: 2018-04-07T12:49:51.435+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest]
 description: Associations protest situation of unaccompanied minors in Paris//Proactiva Open Arms needs support//Photojournalist in Serbian…
 image:
-  path: assets/e58c01a2e321/1*QzwC1WVojfFStyrsR61fVA.png
+  path: ../assets/e58c01a2e321/1*QzwC1WVojfFStyrsR61fVA.png
 ---
 
 ### AYS DAILY DIGEST 23\.03\.2018: State destroys tents while providing food
@@ -15,7 +15,7 @@ image:
 _Associations protest situation of unaccompanied minors in Paris//Proactiva Open Arms needs support//Photojournalist in Serbian prison//Right\-wing group claims responsibility for arson attack in Athens//_
 
 
-![Paris\. Photo by [The Worldwide Tribe](https://www.facebook.com/theworldwidetribe/)](assets/e58c01a2e321/1*QzwC1WVojfFStyrsR61fVA.png)
+![Paris\. Photo by [The Worldwide Tribe](https://www.facebook.com/theworldwidetribe/)](../assets/e58c01a2e321/1*QzwC1WVojfFStyrsR61fVA.png)
 
 Paris\. Photo by [The Worldwide Tribe](https://www.facebook.com/theworldwidetribe/)
 #### France
@@ -50,7 +50,7 @@ The Eritrean refugee community has been holding regular, mass community meetings
 ### Associations protest situation of unaccompanied minors in Paris
 
 
-![Photo by Paris d’Exil](assets/e58c01a2e321/1*GNvavMkvHmJg3ZDKT_XYqQ.png)
+![Photo by Paris d’Exil](../assets/e58c01a2e321/1*GNvavMkvHmJg3ZDKT_XYqQ.png)
 
 Photo by Paris d’Exil
 
@@ -59,7 +59,7 @@ On Wednesday, associations and activists protested over the situation of unaccom
 After leaving the hospital he lived in a shelter where he resided until September 2017, when his minority was finally recognised\. After a new panic attack, he was again sent to hospital but after leaving was still able to see a psychiatrist only once a month\. Social services also placed the minor in a hotel room and “left him on his own”\. One year after arriving in France, he attempted suicide\. He was again brought to the psychatric hospital\. After leaving, social services again put him in a hotel room\. Seven days later, Nour committed suicide\. Nour’s family, with the support of associations, will possibly file a lawsuit against the child welfare services\.
 
 
-![Photo by the [Collectif Nation Refuge](https://www.facebook.com/collectifnationrefuge/)](assets/e58c01a2e321/1*KJ7GWdLJZJtKTNSWn3H3oQ.png)
+![Photo by the [Collectif Nation Refuge](https://www.facebook.com/collectifnationrefuge/)](../assets/e58c01a2e321/1*KJ7GWdLJZJtKTNSWn3H3oQ.png)
 
 Photo by the [Collectif Nation Refuge](https://www.facebook.com/collectifnationrefuge/)
 
@@ -70,7 +70,7 @@ Associations have called for respect of the presumption of minority, the protect
 The situation of minors is only part of the larger issue of refugees’ acceptance in France\. Solidarity Migrants Wilson, which distributes breakfasts in Paris, says refugees are currently ‘truly hungry’ and ‘really cold’, with still as many untreated patients and desperate people living in the streets\. The association currently needs volunteers as well as [funds](https://www.lepotcommun.fr/pot/tusyjrwc) \.
 
 
-![Photo by Solidarité Migrants Wilson](assets/e58c01a2e321/1*qsBIcCjtSl1iUGNqQ3-cSQ.png)
+![Photo by Solidarité Migrants Wilson](../assets/e58c01a2e321/1*qsBIcCjtSl1iUGNqQ3-cSQ.png)
 
 Photo by Solidarité Migrants Wilson
 ### Subsidiary protection granted to Afghan over intensity of violence in Kabul
@@ -109,7 +109,7 @@ A transgender asylum seeker who was raped earlier this month has still not been 
 #### Balkan Weather Report
 
 
-![Sarajevo](assets/e58c01a2e321/1*RriKPYIyxfnAckg18mx01A.png)
+![Sarajevo](../assets/e58c01a2e321/1*RriKPYIyxfnAckg18mx01A.png)
 
 Sarajevo
 
@@ -132,7 +132,7 @@ In Croatia it will be moderately to predominately cloudy, it will mainly snow du
 ### Proactiva Open Arms needs support
 
 
-![](assets/e58c01a2e321/1*ApmygABvkuzTJXUtnUIGAQ.png)
+![](../assets/e58c01a2e321/1*ApmygABvkuzTJXUtnUIGAQ.png)
 
 
 IOM says 13,043 refugees arrived by sea in Europe in 2018 while 497 are dead or missing\. Despite the urgent need for rescue ships, a Proactiva Open Arms refugee rescue ship got blocked in Italy following accusations of “fostering illegal immigration” and “criminal association”\. Protests will take place today at 12AM in front of the offices of the European Parliament in Barcelona and Madrid over the decision\.

@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,greece,stopdeportations]
 description: Cyprus Asks for European Help//Croatian Police Pushes Family Back to Minefield//Demonstration In Camp Near Šid
 image:
-  path: assets/c365d95ce88a/0*7r71RC7hxBvGMrEO
+  path: ../assets/c365d95ce88a/0*7r71RC7hxBvGMrEO
 ---
 
 ### AYS Daily Digest 25/06/2021 — Days of action in Samos
 #### Cyprus asks for European help//Croatian police pushes family back to minefield//Demonstration In camp near Šid
 
 
-![Photo via [RLC Berlin](https://twitter.com/rlc_berlin/status/1408400542645248004?fbclid=IwAR1AATSyi0qxuWR02NGVeobHvZyIFhcCN6Njm9b4PMhKdR_QGLlV4ELq61A)](assets/c365d95ce88a/0*7r71RC7hxBvGMrEO)
+![Photo via [RLC Berlin](https://twitter.com/rlc_berlin/status/1408400542645248004?fbclid=IwAR1AATSyi0qxuWR02NGVeobHvZyIFhcCN6Njm9b4PMhKdR_QGLlV4ELq61A)](../assets/c365d95ce88a/0*7r71RC7hxBvGMrEO)
 
 Photo via [RLC Berlin](https://twitter.com/rlc_berlin/status/1408400542645248004?fbclid=IwAR1AATSyi0qxuWR02NGVeobHvZyIFhcCN6Njm9b4PMhKdR_QGLlV4ELq61A)
 #### FEATURE

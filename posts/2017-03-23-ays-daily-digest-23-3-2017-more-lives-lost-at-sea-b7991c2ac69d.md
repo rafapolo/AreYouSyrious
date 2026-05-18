@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,libya,asylum-seekers,refugeeswelcome]
 description: Another tragedy off Libyan coast / Increase in returns from Bulgaria and Macedonia towards Serbia / Update on BelgrAid centre — volunteers…
 image:
-  path: assets/b7991c2ac69d/1*h5J3DXgaSgJ50ifUGS3mbA.jpeg
+  path: ../assets/b7991c2ac69d/1*h5J3DXgaSgJ50ifUGS3mbA.jpeg
 ---
 
 ### AYS DAILY DIGEST 23/3/2017 — More lives lost at sea
@@ -18,7 +18,7 @@ _Another tragedy off Libyan coast / Increase in returns from Bulgaria and Macedo
 Up to 250 men, women and children coming from Africa are feared dead on the Mediterranean tonight\. It is [reported](https://t.co/5g0tMHS5si) the people have probably drowned after a rescue boat found two partially submerged rubber dinghies off Libya, a spokeswoman for the NGO which operates the vessel said today\. Laura Lanuza of Spanish charity Pro\-Activa Open Arms [said](https://www.facebook.com/proactivaservice/posts/1452170701480443) its boat had recovered five floating corpses close to the dinghies, about 15 miles off the Libyan coast\. The overall number is yet to be determined, but it is already certain it will yet again be a devastating one\. To remind of the scale of recent arrivals by sea more often than not invisible in media reports — International Organization for Migration \(IOM\) published a [report](https://www.iom.int/news/mediterranean-migrant-arrivals-reach-20484-deaths-525) three days ago showing 20,484 migrants and refugees entered Europe by sea in 2017 through 19 March, with over 80 percent arriving in Italy and the rest in Spain and Greece\. On 19 March, 223 migrants, 57 of them women, two of whom were pregnant, sailing in two rubber boats were rescued off Tripoli\. On 20 March, about 120 and 200 migrants were rescued off Az Zawiyah, with reports of 10 bodies retrieved\. Some 559 people are estimated to have died or gone missing on the route\.
 
 
-![Dead migrant attached to life jacket is seen off the Libyan coast during a SAR operation by Spanish NGO [@openarms\_fund](https://twitter.com/openarms_fund) , March 23, 2017\., credit Yannis Behrakis](assets/b7991c2ac69d/1*h5J3DXgaSgJ50ifUGS3mbA.jpeg)
+![Dead migrant attached to life jacket is seen off the Libyan coast during a SAR operation by Spanish NGO [@openarms\_fund](https://twitter.com/openarms_fund) , March 23, 2017\., credit Yannis Behrakis](../assets/b7991c2ac69d/1*h5J3DXgaSgJ50ifUGS3mbA.jpeg)
 
 Dead migrant attached to life jacket is seen off the Libyan coast during a SAR operation by Spanish NGO [@openarms\_fund](https://twitter.com/openarms_fund) , March 23, 2017\., credit Yannis Behrakis
 #### GREECE
@@ -54,11 +54,11 @@ One boat carrying 18 people, including 4 children, came in on North East coast o
 There were 77 new registrations on Chios, 41 on Samos, making a total of 112\. The number of arrivals remains high, 758 people came since last Friday alone, most frequently on Chios\.
 
 
-![](assets/b7991c2ac69d/1*NjO6rZ_Why0xK_Kj4Le9SQ.jpeg)
+![](../assets/b7991c2ac69d/1*NjO6rZ_Why0xK_Kj4Le9SQ.jpeg)
 
 
 
-![Photos by NGO [Salvamento Marítimo Humanitario](https://www.facebook.com/smhumanitario/)](assets/b7991c2ac69d/1*JBVdqjwqyyWBHSzcV0cVQg.jpeg)
+![Photos by NGO [Salvamento Marítimo Humanitario](https://www.facebook.com/smhumanitario/)](../assets/b7991c2ac69d/1*JBVdqjwqyyWBHSzcV0cVQg.jpeg)
 
 Photos by NGO [Salvamento Marítimo Humanitario](https://www.facebook.com/smhumanitario/)
 
@@ -73,7 +73,7 @@ The spokesperson of the Serbian Defence Ministry said that in the last few days,
 
 
 ![No Name Kitchen invites people to an event against borders in the “Chai Park”
-this Saturday, 25th of March\.](assets/b7991c2ac69d/1*bZzPUGo2Cs8DlFkqXkYWoQ.jpeg)
+this Saturday, 25th of March\.](../assets/b7991c2ac69d/1*bZzPUGo2Cs8DlFkqXkYWoQ.jpeg)
 
 No Name Kitchen invites people to an event against borders in the “Chai Park”
 this Saturday, 25th of March\.
@@ -89,38 +89,38 @@ A local volunteer reported on the situation at the Belgrade barracks where refug
 
 
 
-![](assets/b7991c2ac69d/1*gnxZ8GdN5YHxtwAJEYZndw.jpeg)
+![](../assets/b7991c2ac69d/1*gnxZ8GdN5YHxtwAJEYZndw.jpeg)
 
 
 
-![](assets/b7991c2ac69d/1*XfwybePp60qJd3sXBAbM7A.jpeg)
+![](../assets/b7991c2ac69d/1*XfwybePp60qJd3sXBAbM7A.jpeg)
 
 
 
-![](assets/b7991c2ac69d/1*yiHuK2EHB5bKsmZV7PZ5Ew.jpeg)
+![](../assets/b7991c2ac69d/1*yiHuK2EHB5bKsmZV7PZ5Ew.jpeg)
 
 
 
-![Photos by NuuNoo Miguel](assets/b7991c2ac69d/1*KCtFBbQsY_PF5j7WtKo_zA.jpeg)
+![Photos by NuuNoo Miguel](../assets/b7991c2ac69d/1*KCtFBbQsY_PF5j7WtKo_zA.jpeg)
 
 Photos by NuuNoo Miguel
 
 In the meantime, volunteers are still working hard on making the living conditions a bit more bearable for people stranded in Serbia\.
 
 
-![](assets/b7991c2ac69d/1*Mld_6zDj1ZGOWffz81R3yQ.jpeg)
+![](../assets/b7991c2ac69d/1*Mld_6zDj1ZGOWffz81R3yQ.jpeg)
 
 
 
-![](assets/b7991c2ac69d/1*48qs5fu0Y5jOXWGq-QnMZw.jpeg)
+![](../assets/b7991c2ac69d/1*48qs5fu0Y5jOXWGq-QnMZw.jpeg)
 
 
 
-![](assets/b7991c2ac69d/1*cKkPkXZb27Os4qMPCdM9ow.jpeg)
+![](../assets/b7991c2ac69d/1*cKkPkXZb27Os4qMPCdM9ow.jpeg)
 
 
 
-![“New showers, some kind of washing area and frames for rubbish bags\. Not exactly three star hotel but better than before\. Still cooking with No Name kitchen for dinner and setting up the big kitchen and distribution center\. Today we building mobile showers in a truck so we can provide to people at the borders where there is no water supply” by Cris Herrera](assets/b7991c2ac69d/1*hblxMM_H0ere2DdWZJ0pYQ.jpeg)
+![“New showers, some kind of washing area and frames for rubbish bags\. Not exactly three star hotel but better than before\. Still cooking with No Name kitchen for dinner and setting up the big kitchen and distribution center\. Today we building mobile showers in a truck so we can provide to people at the borders where there is no water supply” by Cris Herrera](../assets/b7991c2ac69d/1*hblxMM_H0ere2DdWZJ0pYQ.jpeg)
 
 “New showers, some kind of washing area and frames for rubbish bags\. Not exactly three star hotel but better than before\. Still cooking with No Name kitchen for dinner and setting up the big kitchen and distribution center\. Today we building mobile showers in a truck so we can provide to people at the borders where there is no water supply” by Cris Herrera
 #### Update on BelgrAid centre — volunteers needed
@@ -138,27 +138,27 @@ Belgrade\-based SoulWelders reported on their recent work
 
 
 
-![](assets/b7991c2ac69d/1*YqqWVbnOu0M1AMYu5LsXWg.jpeg)
+![](../assets/b7991c2ac69d/1*YqqWVbnOu0M1AMYu5LsXWg.jpeg)
 
 
 
-![](assets/b7991c2ac69d/1*KSZeT2iXXdx9DIK2eeEdgg.jpeg)
+![](../assets/b7991c2ac69d/1*KSZeT2iXXdx9DIK2eeEdgg.jpeg)
 
 
 
-![](assets/b7991c2ac69d/1*lNGQ1x0wLP3ry5QDCOFn8A.jpeg)
+![](../assets/b7991c2ac69d/1*lNGQ1x0wLP3ry5QDCOFn8A.jpeg)
 
 
 
-![](assets/b7991c2ac69d/1*AYX1ITrX7eLGzCT5LfW40A.jpeg)
+![](../assets/b7991c2ac69d/1*AYX1ITrX7eLGzCT5LfW40A.jpeg)
 
 
 
-![](assets/b7991c2ac69d/1*ypXaCIhg2k-sh1aLsBwvZA.jpeg)
+![](../assets/b7991c2ac69d/1*ypXaCIhg2k-sh1aLsBwvZA.jpeg)
 
 
 
-![Photos by SoulWelders](assets/b7991c2ac69d/1*hX8e1xfCtByj8-QniYkXww.jpeg)
+![Photos by SoulWelders](../assets/b7991c2ac69d/1*hX8e1xfCtByj8-QniYkXww.jpeg)
 
 Photos by SoulWelders
 #### CROATIA
@@ -193,7 +193,7 @@ Denmark’s government came out with a new law change proposal which would allow
 The Federal Government has refused entry to more than 500 Syrian and Iraqi refugees over the last year, some of them being part of 12000 Syrian refugees being resettled in Australia, for failing security checks, ABC [reports](http://mobile.abc.net.au/news/2017-03-23/government-blocks-entry-to-500-syrian-and-iraqi-refugees/8380762?pfmredir=sm) \. Immigration Minister Peter Dutton called the number of refusals “startling” and said it justified the Coalition’s decision to put Syrian refugees through stringent security checks\.
 
 
-![HOW LONG CAN ASYLUM SEEKERS STAY IN A RECEPTION CENTER? This chart shows the different maximum accommodation time in several European countries, as contained in their national legal framework as application of the EU directive laying down minimum standards for the reception of asylum seekers\. It refers to the regular procedure only and are not taken into account here other procedures such as the ones included in the Dublin regulation or family reunification\. Of course, law provisions can vary a lot compared to what asylum seekers and refugees are experiencing, whether they face a shortage of places available or are confronted to other obstacles preventing them to be effectively hosted\.; by [Greek Forum of Refugees](https://www.facebook.com/Greekforumofrefugees/)](assets/b7991c2ac69d/1*sQty8qPacaM4pVShHKWckA.png)
+![HOW LONG CAN ASYLUM SEEKERS STAY IN A RECEPTION CENTER? This chart shows the different maximum accommodation time in several European countries, as contained in their national legal framework as application of the EU directive laying down minimum standards for the reception of asylum seekers\. It refers to the regular procedure only and are not taken into account here other procedures such as the ones included in the Dublin regulation or family reunification\. Of course, law provisions can vary a lot compared to what asylum seekers and refugees are experiencing, whether they face a shortage of places available or are confronted to other obstacles preventing them to be effectively hosted\.; by [Greek Forum of Refugees](https://www.facebook.com/Greekforumofrefugees/)](../assets/b7991c2ac69d/1*sQty8qPacaM4pVShHKWckA.png)
 
 HOW LONG CAN ASYLUM SEEKERS STAY IN A RECEPTION CENTER? This chart shows the different maximum accommodation time in several European countries, as contained in their national legal framework as application of the EU directive laying down minimum standards for the reception of asylum seekers\. It refers to the regular procedure only and are not taken into account here other procedures such as the ones included in the Dublin regulation or family reunification\. Of course, law provisions can vary a lot compared to what asylum seekers and refugees are experiencing, whether they face a shortage of places available or are confronted to other obstacles preventing them to be effectively hosted\.; by [Greek Forum of Refugees](https://www.facebook.com/Greekforumofrefugees/)
 

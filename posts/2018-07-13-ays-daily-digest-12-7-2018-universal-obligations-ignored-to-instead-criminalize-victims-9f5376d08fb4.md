@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 12/07/2018: Universal obligations ignored to instead criminalize victims
+title: "AYS Daily Digest 12/07/2018: Universal obligations ignored to instead criminalize victims"
 author: Are You Syrious?
 date: 2018-07-13T05:44:38.894+0100
 last_modified_at: 2018-07-13T18:11:09.902+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,digest,italy,libya,solidarity]
 description: Italian camps evicted / Accounts of Libyan and Turkish coast guards / 73 year old supportive woman in France criminalized / Trump protests…
 image:
-  path: assets/9f5376d08fb4/1*uudpUWfFqpoKMmWc3Y5M3Q.jpeg
+  path: ../assets/9f5376d08fb4/1*uudpUWfFqpoKMmWc3Y5M3Q.jpeg
 ---
 
 ### AYS Daily Digest 12/07/2018: Universal obligations ignored to instead criminalize victims
@@ -15,7 +15,7 @@ image:
 _Italian camps evicted / Accounts of Libyan and Turkish coast guards / 73 year old supportive woman in France criminalized / Trump protests in the UK / Right to work established in Ireland / And more news…_
 
 
-![Peaceful protest against Minister Salvini’s actions \(or inaction\), letting people drown at sea\. \(Photo by [Giorgia Linardi](https://twitter.com/giorgialinardi) \)](assets/9f5376d08fb4/1*uudpUWfFqpoKMmWc3Y5M3Q.jpeg)
+![Peaceful protest against Minister Salvini’s actions \(or inaction\), letting people drown at sea\. \(Photo by [Giorgia Linardi](https://twitter.com/giorgialinardi) \)](../assets/9f5376d08fb4/1*uudpUWfFqpoKMmWc3Y5M3Q.jpeg)
 
 Peaceful protest against Minister Salvini’s actions \(or inaction\), letting people drown at sea\. \(Photo by [Giorgia Linardi](https://twitter.com/giorgialinardi) \)
 ### FEATURE: Italy continues to ignore international obligations, criminalize victims
@@ -53,7 +53,7 @@ The tension from Moria is far from over\. [A volunteer clarifies](https://www.fa
 Here is a [comprehensive list](https://www.facebook.com/photo.php?fbid=10216872841357773&set=gm.908061676067947&type=3&theater) of descriptions of NGOs working on Lesvos\. Please share to people looking to volunteer so they can be well informed\.
 
 
-![](assets/9f5376d08fb4/1*Kdcf2ghmjcwFyep-WYzc3A.jpeg)
+![](../assets/9f5376d08fb4/1*Kdcf2ghmjcwFyep-WYzc3A.jpeg)
 
 #### \#SavePikpa petition
 
@@ -68,7 +68,7 @@ On Wednesday the Greek Dublin Unit published a list of the people who will be in
 Here is a useful snapshot of the health problems in Greece by the Greek NGO [Medecins du Monde](https://mdmgreece.gr/app/uploads/2018/07/SnapShot_EN-1.pdf) \.
 
 
-![Photo by [Medecins du Monde](https://mdmgreece.gr/app/uploads/2018/07/SnapShot_EN-1.pdf)](assets/9f5376d08fb4/1*n4fIZBM7SXVsiwh3QLP-Lg.jpeg)
+![Photo by [Medecins du Monde](https://mdmgreece.gr/app/uploads/2018/07/SnapShot_EN-1.pdf)](../assets/9f5376d08fb4/1*n4fIZBM7SXVsiwh3QLP-Lg.jpeg)
 
 Photo by [Medecins du Monde](https://mdmgreece.gr/app/uploads/2018/07/SnapShot_EN-1.pdf)
 #### Call for donations
@@ -100,7 +100,7 @@ Many demonstrations are planned across the country against sea drownings\. Find 
 Calais is in desperate need of the items listed below\. Find out more and how to help [here](https://helprefugees.org/donate-goods/) \.
 
 
-![](assets/9f5376d08fb4/1*Qlv0t09g2d2IBXR3i2hkAg.png)
+![](../assets/9f5376d08fb4/1*Qlv0t09g2d2IBXR3i2hkAg.png)
 
 
 Also in Calais, three organizations are refusing continue to attend the meetings of the prefect of Pas\-de\-Calais, since the state is not addressing their many concerns regarding administration and human rights conditions in the camp\. Find out more about their dire concerns [here](https://www.facebook.com/AubergeMigrants/photos/a.10152514841565339.1073741825.358496450338/10156178088775339/?type=3&theater) \.
@@ -108,7 +108,7 @@ Also in Calais, three organizations are refusing continue to attend the meetings
 After assisting two unaccompanied 15 year olds to a police station, [a 73 year old French woman](https://twitter.com/StefSimanowitz/status/1017421281032134656) is awaiting her judgement trial set for Friday\. She faces up to five years in prison and a 30,000 euro fine just for seeing that the children could be registered under the law\. Activists are applauding her compassion, which should have never been criminalized\.
 
 
-![Martine Landry is not a criminal\. \(Photo by Amnesty International\)](assets/9f5376d08fb4/1*V0mE2aE8_4G6mPHJh80H8A.jpeg)
+![Martine Landry is not a criminal\. \(Photo by Amnesty International\)](../assets/9f5376d08fb4/1*V0mE2aE8_4G6mPHJh80H8A.jpeg)
 
 Martine Landry is not a criminal\. \(Photo by Amnesty International\)
 
@@ -123,7 +123,7 @@ In the run up to the [September election](http://www.infomigrants.net/en/post/10
 [A protest](https://www.facebook.com/SafePassageInt/photos/a.161524404302318.1073741828.159240661197359/489723281482427/?type=3&theater&ifg=1) will be held on Friday at 11:30am on Parliament Square against Trump’s arrival to the UK\. Join to show the American President and May that refugees deserve safe passage\. Find more information and sign up [here](http://bit.ly/2KuVmq0) \.
 
 
-![From Thursday’s rallies\. \(Photo by [Anne\-Marie Oostveen](https://www.facebook.com/annemarie.oostveen.7) \)](assets/9f5376d08fb4/0*NVR-dc2GFS5TObCg)
+![From Thursday’s rallies\. \(Photo by [Anne\-Marie Oostveen](https://www.facebook.com/annemarie.oostveen.7) \)](../assets/9f5376d08fb4/0*NVR-dc2GFS5TObCg)
 
 From Thursday’s rallies\. \(Photo by [Anne\-Marie Oostveen](https://www.facebook.com/annemarie.oostveen.7) \)
 ### IRELAND

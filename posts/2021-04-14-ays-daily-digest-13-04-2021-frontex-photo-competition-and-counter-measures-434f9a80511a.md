@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 13/04/2021: Frontex Photo Competition and Counter-Measures
+title: "AYS Daily Digest 13/04/2021: Frontex Photo Competition and Counter-Measures"
 author: Are You Syrious?
 date: 2021-04-14T13:14:46.482+0100
 last_modified_at: 2021-04-14T13:14:46.482+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [europe,refugees,greece,frontex,ceuta]
 description: Frontex started a photo competition for its staff — BAAM is organizing a counter-competition // Evictions in Rhodos // Updates from the…
 image:
-  path: assets/434f9a80511a/1*QShFGtE4oH8KmVfC5-Eoqw.jpeg
+  path: ../assets/434f9a80511a/1*QShFGtE4oH8KmVfC5-Eoqw.jpeg
 ---
 
 ### AYS Daily Digest 13/04/2021: Frontex Photo Competition and Counter\-Measures
 #### Frontex started a photo competition for its staff — BAAM is organizing a counter\-competition // Evictions in Rhodos // Updates from the planned new camp on Lesbos // Report on Pushbacks by Greek Coast Guard // Hot return from Ceuta // Open Letter to protect Helena Maleno // UK: inquiry against Home Office // Protests in Iceland
 
 
-![“With this photo I surely will win\!” “That’s for sure\! It’s great that we can show people our work\!” Copyright: BAAM](assets/434f9a80511a/1*QShFGtE4oH8KmVfC5-Eoqw.jpeg)
+![“With this photo I surely will win\!” “That’s for sure\! It’s great that we can show people our work\!” Copyright: BAAM](../assets/434f9a80511a/1*QShFGtE4oH8KmVfC5-Eoqw.jpeg)
 
 “With this photo I surely will win\!” “That’s for sure\! It’s great that we can show people our work\!” Copyright: BAAM
 ### FEATURE: Not a belated April Fools: Frontex organizes Photo Competition\. We recommend joining the Counter\-Competition\!

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 16/12/17: Free the Moria 35
+title: "AYS Daily Digest 16/12/17: Free the Moria 35"
 author: Are You Syrious?
 date: 2017-12-17T02:58:40.971+0000
 last_modified_at: 2017-12-17T11:19:46.056+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,lesvos,police-brutality,serbia,volunteering]
 description: Funds needed on Lesbos//Academics flee Turkey//Rescues at sea and three missing ships//Sleeping rough in Serbia//Day of action in…
 image:
-  path: assets/a31867e2bb49/1*xuuALaXSBQZwJXZyTxI9hA.jpeg
+  path: ../assets/a31867e2bb49/1*xuuALaXSBQZwJXZyTxI9hA.jpeg
 ---
 
 ### AYS Daily Digest 16/12/17: Free the Moria 35
@@ -15,7 +15,7 @@ image:
 _Funds needed on Lesbos//Academics flee Turkey//Rescues at sea and three missing ships//Sleeping rough in Serbia//Day of action in Italy//Aid workers opposed by French municipality//and more…_
 
 
-![](assets/a31867e2bb49/1*xuuALaXSBQZwJXZyTxI9hA.jpeg)
+![](../assets/a31867e2bb49/1*xuuALaXSBQZwJXZyTxI9hA.jpeg)
 
 #### FEATURE: Legal Support Needed For Refugees on Lesbos
 
@@ -58,7 +58,7 @@ The Legal Center reports that the police brutality displayed during this raid wa
 [No Borders Kitchen Lesvos](https://www.facebook.com/NBKLesvos/) is currently crowdfunding to keep their work going, as the group is on the verge of bankruptcy\. You can support their vital work [here](https://www.youcaring.com/refugeesonlesvosgreece-1045272) \. From their statement today:
 
 
-![Volunteers delivering meals\. Photo Credit: No Borders Kitchen](assets/a31867e2bb49/1*by2sCDhCAUDv7ty-Vd4ntA.jpeg)
+![Volunteers delivering meals\. Photo Credit: No Borders Kitchen](../assets/a31867e2bb49/1*by2sCDhCAUDv7ty-Vd4ntA.jpeg)
 
 Volunteers delivering meals\. Photo Credit: No Borders Kitchen
 
@@ -89,7 +89,7 @@ The Turkish Ministry of Education has released new guides for refugees to help t
 ### SEA
 
 
-![Photo Credit: [Righteous of the Mediterranean](https://www.facebook.com/TheRighteousMedSea/?hc_ref=ARS01RtS2RtbF5SBF8inxqFa_-HnwpF5yaQvQrFKBuObsp_IPxC6zLI_dkC2Ia7Worw&fref=gs&hc_location=group)](assets/a31867e2bb49/1*GF6026aPPVrZwXrKOdQplw.jpeg)
+![Photo Credit: [Righteous of the Mediterranean](https://www.facebook.com/TheRighteousMedSea/?hc_ref=ARS01RtS2RtbF5SBF8inxqFa_-HnwpF5yaQvQrFKBuObsp_IPxC6zLI_dkC2Ia7Worw&fref=gs&hc_location=group)](../assets/a31867e2bb49/1*GF6026aPPVrZwXrKOdQplw.jpeg)
 
 Photo Credit: [Righteous of the Mediterranean](https://www.facebook.com/TheRighteousMedSea/?hc_ref=ARS01RtS2RtbF5SBF8inxqFa_-HnwpF5yaQvQrFKBuObsp_IPxC6zLI_dkC2Ia7Worw&fref=gs&hc_location=group)
 
@@ -132,7 +132,7 @@ There are currently three boats missing in the Mediterannean\. No more details a
 ### SERBIA
 
 
-![Graffiti in a squat in Šid, Serbia\. Photo Credit: AYS](assets/a31867e2bb49/1*_DIHRZtQvFZ74pC3WN0FCg.jpeg)
+![Graffiti in a squat in Šid, Serbia\. Photo Credit: AYS](../assets/a31867e2bb49/1*_DIHRZtQvFZ74pC3WN0FCg.jpeg)
 
 Graffiti in a squat in Šid, Serbia\. Photo Credit: AYS
 
@@ -168,7 +168,7 @@ The organization [Migration Aid](https://www.facebook.com/migrationaid.org/?hc_r
 Today was a [national day of action](https://www.facebook.com/Roma16Dicembre/photos/a.515699448798170.1073741827.515699235464858/526085724426209/?type=1&theater) in Italy for the rights of refugees and migrants, and to demand housing and social services for all\. The marches brought together over 2,500 people who took to the streets of Rome, and there were smaller marches in other cities throughout the country, including Cona and Gorzia\. Despite some police harassment, the marches were a success and showed it is possible to build political power from alliances between citizens and refugees\.
 
 
-![Marchers in Rome\. Photo Credit: [Global Project](http://www.globalproject.info/it/in_movimento/fightright-in-migliaia-a-roma-per-i-diritti-senza-confini/21216)](assets/a31867e2bb49/1*JKPd_aSWn1DWqEqIeqO-KA.jpeg)
+![Marchers in Rome\. Photo Credit: [Global Project](http://www.globalproject.info/it/in_movimento/fightright-in-migliaia-a-roma-per-i-diritti-senza-confini/21216)](../assets/a31867e2bb49/1*JKPd_aSWn1DWqEqIeqO-KA.jpeg)
 
 Marchers in Rome\. Photo Credit: [Global Project](http://www.globalproject.info/it/in_movimento/fightright-in-migliaia-a-roma-per-i-diritti-senza-confini/21216)
 ### FRANCE
@@ -176,14 +176,14 @@ Marchers in Rome\. Photo Credit: [Global Project](http://www.globalproject.info/
 This week the activist and aid group “ [Solidarity with Exiles](https://www.facebook.com/groups/177642579245883/?fref=gs&dti=177642579245883&hc_location=group_dialog) ” working in Paris put up signs on barriers that prevent refugees from sleeping in open areas\. The aim of this action was to highlight the many ways refugees are excluded and marginalized in the city, not only through policy, but through infrastructure as well\. How will putting up a fence around a park help solve the problem of homelesness?
 
 
-![“Barriers of Shame”\. Photo Credit: [Solidarity with Exiles](https://www.facebook.com/groups/177642579245883/?fref=gs&dti=177642579245883&hc_location=group_dialog)](assets/a31867e2bb49/1*pQhm-7f1SSQmQrYoyhBG2g.jpeg)
+![“Barriers of Shame”\. Photo Credit: [Solidarity with Exiles](https://www.facebook.com/groups/177642579245883/?fref=gs&dti=177642579245883&hc_location=group_dialog)](../assets/a31867e2bb49/1*pQhm-7f1SSQmQrYoyhBG2g.jpeg)
 
 “Barriers of Shame”\. Photo Credit: [Solidarity with Exiles](https://www.facebook.com/groups/177642579245883/?fref=gs&dti=177642579245883&hc_location=group_dialog)
 
 In Northern France, in the town of Grande\-Synthe, the local government has helped to find emergency accommodation for [150 refugees in the area](http://www.lavoixdunord.fr/280265/article/2017-12-14/la-ville-met-l-abri-150-migrants-du-puythouck-l-espace-jeunes) , housing them in a local youth center\. We hope that more cities and towns in Northern France will follow this lead in setting up shelters, as human lives are at risk\.
 
 
-![“In memory of those killed by this border” Photo Credit: [Gregory Leclerc](https://twitter.com/GregLeclerc)](assets/a31867e2bb49/1*XIggZWtB2KPxuT6lK3UgaQ.jpeg)
+![“In memory of those killed by this border” Photo Credit: [Gregory Leclerc](https://twitter.com/GregLeclerc)](../assets/a31867e2bb49/1*XIggZWtB2KPxuT6lK3UgaQ.jpeg)
 
 “In memory of those killed by this border” Photo Credit: [Gregory Leclerc](https://twitter.com/GregLeclerc)
 

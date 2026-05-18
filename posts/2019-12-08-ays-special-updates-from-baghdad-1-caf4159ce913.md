@@ -1,5 +1,5 @@
 ---
-title: AYS Special: Updates from Baghdad (1)
+title: "AYS Special: Updates from Baghdad (1)"
 author: Are You Syrious?
 date: 2019-12-08T17:16:41.644+0000
 last_modified_at: 2019-12-08T17:31:13.912+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [special,iraq,freedom,revolution,human-rights]
 description: Main highlights concerning the first week of December.
 image:
-  path: assets/caf4159ce913/1*udJ9KUMwsfl0VZ3Oy6wkZg.png
+  path: ../assets/caf4159ce913/1*udJ9KUMwsfl0VZ3Oy6wkZg.png
 ---
 
 ### AYS Special: Updates from Baghdad \(1\)
@@ -15,7 +15,7 @@ image:
 Main highlights concerning the first week of December\.
 
 
-![Ahmed Al\-Muhanna is a photographer who participated as a war journalist in the operations to liberate Iraq against ISIS from 2014 until 2016, but ISIS’ terrorist bullets could not kill him\. He was killed by militias of Islamist parties holding power in Iraq in the attack of al\-Khalani square\. Credit: Ali Dab Dab\.](assets/caf4159ce913/1*udJ9KUMwsfl0VZ3Oy6wkZg.png)
+![Ahmed Al\-Muhanna is a photographer who participated as a war journalist in the operations to liberate Iraq against ISIS from 2014 until 2016, but ISIS’ terrorist bullets could not kill him\. He was killed by militias of Islamist parties holding power in Iraq in the attack of al\-Khalani square\. Credit: Ali Dab Dab\.](../assets/caf4159ce913/1*udJ9KUMwsfl0VZ3Oy6wkZg.png)
 
 Ahmed Al\-Muhanna is a photographer who participated as a war journalist in the operations to liberate Iraq against ISIS from 2014 until 2016, but ISIS’ terrorist bullets could not kill him\. He was killed by militias of Islamist parties holding power in Iraq in the attack of al\-Khalani square\. Credit: Ali Dab Dab\.
 
@@ -30,21 +30,21 @@ December 6th\. New list by the US representatives was announced, including sanct
 They killed 10 people and wounded dozens\.
 
 
-![Credit: Ali Dab Dab\.](assets/caf4159ce913/1*xeJD9rA-kCiByRWPDbQ07A.png)
+![Credit: Ali Dab Dab\.](../assets/caf4159ce913/1*xeJD9rA-kCiByRWPDbQ07A.png)
 
 Credit: Ali Dab Dab\.
 
 The gunmen continued firing until 3 am of the following day, then the militants withdrew completely from al\-Khulani at 5 am\. All the time, the security forces did not move to stop them, even though the Ministry of Defense was a 6\-minute drive from the site of the attack\. Even a group called the “Blue Hats” decided two hours after the attack to go to the square and make a human line, and they were also attacked and some people were wounded\.
 
 
-![In orange, the locations of the Federal Police and the army, who never acted against the attackers\. Credit: local activists\.](assets/caf4159ce913/1*GjHs3GPorIJizPYoxNi4Gg.png)
+![In orange, the locations of the Federal Police and the army, who never acted against the attackers\. Credit: local activists\.](../assets/caf4159ce913/1*GjHs3GPorIJizPYoxNi4Gg.png)
 
 In orange, the locations of the Federal Police and the army, who never acted against the attackers\. Credit: local activists\.
 
 A document leaked from Facilities Protection signed by an officer with the rank of major, stating that security was informed earlier of this militants’ gathering\. In it, the request to withdraw the members of the group from area surrounding the mosque\.
 
 
-![Credit: local activists\.](assets/caf4159ce913/1*jGThTKWsGXtoPqruMhHzDQ.png)
+![Credit: local activists\.](../assets/caf4159ce913/1*jGThTKWsGXtoPqruMhHzDQ.png)
 
 Credit: local activists\.
 

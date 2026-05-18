@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL from Bosnia: Violent push-backs of women travelling from Croatia and Slovenia
+title: "AYS SPECIAL from Bosnia: Violent push-backs of women travelling from Croatia and Slovenia"
 author: Are You Syrious?
 date: 2018-08-18T08:36:45.792+0100
 last_modified_at: 2018-08-18T09:01:29.195+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,special,bosnia,sexual-violence,women]
 description: Many women who have escaped from countries with widespread violence cannot move legally throughout Europe due to tight border controls. For…
 image:
-  path: assets/aa4c8b5c9e6d/1*gitQduqORUz4pjRMH3jtHA.jpeg
+  path: ../assets/aa4c8b5c9e6d/1*gitQduqORUz4pjRMH3jtHA.jpeg
 ---
 
 ### AYS SPECIAL from Bosnia: Violent push\-backs of women travelling from Croatia and Slovenia
@@ -15,7 +15,7 @@ image:
 _Many women who have escaped from countries with widespread violence cannot move legally throughout Europe due to tight border controls\. For this reason, some of them have become trapped in Bosnian makeshift camps with a lack of adequate shelter, sanitation and safety\. This is a story about their journey\._
 
 
-![Photo by Enzo Tomasiello](assets/aa4c8b5c9e6d/1*gitQduqORUz4pjRMH3jtHA.jpeg)
+![Photo by Enzo Tomasiello](../assets/aa4c8b5c9e6d/1*gitQduqORUz4pjRMH3jtHA.jpeg)
 
 Photo by Enzo Tomasiello
 
@@ -38,7 +38,7 @@ Besides brutal physical attacks, border patrols often use sexual harassment and 
 Marva, a 42 year old woman from Afghanistan, walked with her children and another family for ten days from Bosnia to Slovenia with only limited water and food in 35 degree temperatures\. When they reached Slovenia the whole group was caught by the police, to whom they expressed their wish to apply for asylum in Slovenia\.
 
 
-![Photo by Pablo Herrerías Valls](assets/aa4c8b5c9e6d/1*1Fx_lK33J5T9-o8uBbz0JQ.jpeg)
+![Photo by Pablo Herrerías Valls](../assets/aa4c8b5c9e6d/1*1Fx_lK33J5T9-o8uBbz0JQ.jpeg)
 
 Photo by Pablo Herrerías Valls
 

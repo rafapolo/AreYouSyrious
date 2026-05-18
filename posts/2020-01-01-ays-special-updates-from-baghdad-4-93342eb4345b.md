@@ -1,5 +1,5 @@
 ---
-title: AYS Special: Updates from Baghdad (4)
+title: "AYS Special: Updates from Baghdad (4)"
 author: Are You Syrious?
 date: 2020-01-01T13:27:04.177+0000
 last_modified_at: 2020-01-01T13:53:00.410+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [iraq,special,protest,freedom,hezbollah]
 description: Main events concerning the uprisings for the week 23rd-31st December
 image:
-  path: assets/93342eb4345b/1*i0d4O3E8nAk5vogYfXONKw.png
+  path: ../assets/93342eb4345b/1*i0d4O3E8nAk5vogYfXONKw.png
 ---
 
 ### AYS Special: Updates from Baghdad \(4\)
 #### Main events concerning the uprisings for the week 23rd\-31st December
 
 
-![Part of Saleh’s document to Parliament, which states the formal apology for nominating Al\-Aidani and put the option to resign in the hands of Parliament\. Re\-post from local activists\.](assets/93342eb4345b/1*i0d4O3E8nAk5vogYfXONKw.png)
+![Part of Saleh’s document to Parliament, which states the formal apology for nominating Al\-Aidani and put the option to resign in the hands of Parliament\. Re\-post from local activists\.](../assets/93342eb4345b/1*i0d4O3E8nAk5vogYfXONKw.png)
 
 Part of Saleh’s document to Parliament, which states the formal apology for nominating Al\-Aidani and put the option to resign in the hands of Parliament\. Re\-post from local activists\.
 #### Adoption of a new election law\. The third party \(those with authority in government and militias\) threatens the President of the Republic and burns parts of the American embassy\.
@@ -27,7 +27,7 @@ On December 24th, the Iraqi parliament held a session to propose and vote a new 
 **An additional request by the people on the streets concerns the abolition of the military vote, the vote of displaced people and the adoption of a civil vote allowance for their constituency\.** The reason being that, since 2010, every election witnessed the rigging of all votes of the members of the military forces, of internally displaced persons and of refugees outside Iraq\. This demand was also completely ignored by the Iraqi parliament\. **Moreover, the demonstrators called for an additional change in the law to prevent dual nationals from running as candidates: they must first give up their non\-Iraqi citizenship and then run\.** This point was also ignored by the Parliament\.
 
 
-![A protester in front of the liberation monument holds a paper with the five paragraphs/demands for the election law; most of them were not approved by Parliament\. Credit: local activists\.](assets/93342eb4345b/1*U7NK-TYY7XukFAQqUd1ElQ.png)
+![A protester in front of the liberation monument holds a paper with the five paragraphs/demands for the election law; most of them were not approved by Parliament\. Credit: local activists\.](../assets/93342eb4345b/1*U7NK-TYY7XukFAQqUd1ElQ.png)
 
 A protester in front of the liberation monument holds a paper with the five paragraphs/demands for the election law; most of them were not approved by Parliament\. Credit: local activists\.
 
@@ -64,11 +64,11 @@ Religious leader Abu Ali, known for his loyalty to the Iranian leader Khamenei, 
 #### In the morning of December 31st, a group of protestors holding the Hezbollah flags and led by Qais Khazali, leader of the Asaib Ahl al\-Haq militia, head towards Al\-Khadra \(Green Zone\) from the side of the Suspension Bridge, which is usually not a common area for protests, stormed in the area, attacked the American embassy, destroyed and set fire to ​​the main gate and its outer wall\. The protesters carried pictures of Khamenei and wrote the words \(Soleimani our leader\) on the walls of the embassy\.
 
 
-![](assets/93342eb4345b/1*B6la5BRC3NRb1Mgg8dcSHw.png)
+![](../assets/93342eb4345b/1*B6la5BRC3NRb1Mgg8dcSHw.png)
 
 
 
-![Credit: re\-post from local activists\.](assets/93342eb4345b/1*Km52YxtvhhmLmJxbTf4CRw.png)
+![Credit: re\-post from local activists\.](../assets/93342eb4345b/1*Km52YxtvhhmLmJxbTf4CRw.png)
 
 Credit: re\-post from local activists\.
 

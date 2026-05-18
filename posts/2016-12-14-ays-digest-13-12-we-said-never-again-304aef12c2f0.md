@@ -1,5 +1,5 @@
 ---
-title: AYS DIGEST 13/12: “We said never again”
+title: "AYS DIGEST 13/12: “We said never again”"
 author: Are You Syrious?
 date: 2016-12-14T01:09:44.387+0000
 last_modified_at: 2016-12-14T01:09:44.387+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: Today we witnessed, how the world community turned away from humanity and left the residents of Aleppo abandoned. During the recapture of…
 image:
-  path: assets/304aef12c2f0/1*yHSqte9Ia7HcZI1XZLhgOA.jpeg
+  path: ../assets/304aef12c2f0/1*yHSqte9Ia7HcZI1XZLhgOA.jpeg
 ---
 
 ### AYS DIGEST 13/12: “We said never again”
@@ -15,7 +15,7 @@ image:
 Today we witnessed, how the world community turned away from humanity and left the residents of Aleppo abandoned\. During the recapture of Assad’s troops several war crimes have been reported\. While governments did not act, citizens in several cities stood up to show solidarity\. Report: Frontex wants to reinforce its presence in Greece\. Sweden and Germany start deporting Afghan refugees back to Afghanistan\.
 
 
-![Credits: [Firas Abdullah](https://www.facebook.com/Firas.Al.Abdullah)](assets/304aef12c2f0/1*yHSqte9Ia7HcZI1XZLhgOA.jpeg)
+![Credits: [Firas Abdullah](https://www.facebook.com/Firas.Al.Abdullah)](../assets/304aef12c2f0/1*yHSqte9Ia7HcZI1XZLhgOA.jpeg)
 
 Credits: [Firas Abdullah](https://www.facebook.com/Firas.Al.Abdullah)
 ### Feature: Humanity has fallen
@@ -80,22 +80,22 @@ With the recapture of Aleppo the war in Syria did not end\. It has just reached 
 Nevertheless worldwide solidarity was raising its voice today\. In several cities citizens stood up to protest against the war crimes happening in Aleppo\.
 
 
-![Istanbul\. Credits: [Rami Jarrah](https://www.facebook.com/ramijarah)](assets/304aef12c2f0/1*FNh5Xh3xwPiPdDSlCkiw8A.jpeg)
+![Istanbul\. Credits: [Rami Jarrah](https://www.facebook.com/ramijarah)](../assets/304aef12c2f0/1*FNh5Xh3xwPiPdDSlCkiw8A.jpeg)
 
 Istanbul\. Credits: [Rami Jarrah](https://www.facebook.com/ramijarah)
 
 
-![Manchester\. Credits: [**Feras Alkassem**](https://www.facebook.com/feras.palmyra) ‎](assets/304aef12c2f0/1*l-608UWn2j4ERjdKIatknw.jpeg)
+![Manchester\. Credits: [**Feras Alkassem**](https://www.facebook.com/feras.palmyra) ‎](../assets/304aef12c2f0/1*l-608UWn2j4ERjdKIatknw.jpeg)
 
 Manchester\. Credits: [**Feras Alkassem**](https://www.facebook.com/feras.palmyra) ‎
 
 
-![Athens\. Credits: L\. Martens](assets/304aef12c2f0/1*g5vgHSGtw0DkoEfvUwPQ6A.jpeg)
+![Athens\. Credits: L\. Martens](../assets/304aef12c2f0/1*g5vgHSGtw0DkoEfvUwPQ6A.jpeg)
 
 Athens\. Credits: L\. Martens
 
 
-![Credits: L\. Martens](assets/304aef12c2f0/1*yK_sUXSkvXspwlVGDTyVog.jpeg)
+![Credits: L\. Martens](../assets/304aef12c2f0/1*yK_sUXSkvXspwlVGDTyVog.jpeg)
 
 Credits: L\. Martens
 ### Greece
@@ -104,7 +104,7 @@ Credits: L\. Martens
 According to Lesvos volunteers on the ground 48 people arrived in the north around 13\.00, 36 men, 7 women and 5 children\. It was a cold and windy day, but everyone was ok, volunteers in the beginning took care of them\. All of them were later transferred to a transit camp\. There were no new registrations until 7\.30\.
 
 
-![Arrival on Lesvos\. Credits: [Philippa Kempson](https://www.facebook.com/photo.php?fbid=10154425589189355&set=pcb.10154425627744355&type=3&theater)](assets/304aef12c2f0/1*_lkqyapEEg0R1bdjoSFoDQ.jpeg)
+![Arrival on Lesvos\. Credits: [Philippa Kempson](https://www.facebook.com/photo.php?fbid=10154425589189355&set=pcb.10154425627744355&type=3&theater)](../assets/304aef12c2f0/1*_lkqyapEEg0R1bdjoSFoDQ.jpeg)
 
 Arrival on Lesvos\. Credits: [Philippa Kempson](https://www.facebook.com/photo.php?fbid=10154425589189355&set=pcb.10154425627744355&type=3&theater)
 
@@ -125,7 +125,7 @@ A skipper has been found guilty of causing the wreckage of a refugee boat in whi
 Melting Pot Europa [reports](https://www.facebook.com/meltingpoteuropa/posts/1335544716477252) , that a makeshift camp, called “Gran Ghetto” in Rignano Garganico is being rebuild by residents and activists\. A lot of people lost their shelter after a fire last week\. Around 800 people live there without electricity or drinkable water\.
 
 
-![Credits: [Melting Pot Europa](https://www.facebook.com/meltingpoteuropa/photos/pcb.1335544716477252/1335544626477261/?type=3&theater)](assets/304aef12c2f0/1*n8iEi9JymQEf0oxrgKlBzQ.jpeg)
+![Credits: [Melting Pot Europa](https://www.facebook.com/meltingpoteuropa/photos/pcb.1335544716477252/1335544626477261/?type=3&theater)](../assets/304aef12c2f0/1*n8iEi9JymQEf0oxrgKlBzQ.jpeg)
 
 Credits: [Melting Pot Europa](https://www.facebook.com/meltingpoteuropa/photos/pcb.1335544716477252/1335544626477261/?type=3&theater)
 
@@ -135,7 +135,7 @@ Baobab Experience and other associations are calling to participate at a demonst
 Swedish authorities wanted to deport 12 Afghan refugees back to their country of origin\. Volunteers and activists tried to block the deportations without much effort\. Two of the persons sceduled to be deported last night, got the right to stay, at least temporarily\. One of them was is a journalist\. Tomorrow on Wednesday the 14\.12\. he will be transfered to Malmö to a “förvar”\. He says that he doesn’t know what is going to happen now but is more than happy to stay\. Anything is better than Afghanistan, he says\. It was the activists work that made this possible\. They cross\-checked papers and went to the migration court \(migrationsdomstolen\) to postpone the decisions\. This is [reported](http://www.unt.se/sigtunabygden/utvisning-stoppad-4471574.aspx) by Uppsala Nya Tidning\.
 
 
-![Credits: [City Plaza](https://www.facebook.com/sol2refugeesen/photos/pcb.1653857204906616/1653856968239973/?type=3&theater)](assets/304aef12c2f0/1*gFYXrG6NYBLhVCtal4KlMQ.jpeg)
+![Credits: [City Plaza](https://www.facebook.com/sol2refugeesen/photos/pcb.1653857204906616/1653856968239973/?type=3&theater)](../assets/304aef12c2f0/1*gFYXrG6NYBLhVCtal4KlMQ.jpeg)
 
 Credits: [City Plaza](https://www.facebook.com/sol2refugeesen/photos/pcb.1653857204906616/1653856968239973/?type=3&theater)
 
@@ -154,7 +154,7 @@ Also in Germany Afghan refugees are facing deportation\. As Spiegel Online [repo
 Refugee Aid Miksalište participated at the presentation of the study “Mental Health of Refugees \- Establishing Communication and Trust”\. By the end of this year, 1,320 users got psychosocial help, among whom 31% were women, 69% men, and 28% underage\.
 
 
-![Credits: [Refugee Aid Miksalište](https://www.facebook.com/RefugeeAidMiksaliste/photos/pcb.1804309406502342/1804309269835689/?type=3&theater)](assets/304aef12c2f0/1*JzkX_4mc-e8OGQ7yujCqIQ.jpeg)
+![Credits: [Refugee Aid Miksalište](https://www.facebook.com/RefugeeAidMiksaliste/photos/pcb.1804309406502342/1804309269835689/?type=3&theater)](../assets/304aef12c2f0/1*JzkX_4mc-e8OGQ7yujCqIQ.jpeg)
 
 Credits: [Refugee Aid Miksalište](https://www.facebook.com/RefugeeAidMiksaliste/photos/pcb.1804309406502342/1804309269835689/?type=3&theater)
 ### France

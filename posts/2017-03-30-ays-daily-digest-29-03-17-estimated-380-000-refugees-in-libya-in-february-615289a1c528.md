@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 29/03/17: Estimated 380,000 refugees in Libya in February
+title: "AYS Daily Digest 29/03/17: Estimated 380,000 refugees in Libya in February"
 author: Are You Syrious?
 date: 2017-03-30T04:33:31.215+0100
 last_modified_at: 2017-03-30T04:36:17.494+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,mediterranean,greece,italy]
 description: New feared tragedy in the Mediterranean / UNHCR messing up housing deals in Greece/ More arrivals while tensions grow on the Greek islands…
 image:
-  path: assets/615289a1c528/1*TgT12bhnjLqraDpnyYyyrg.jpeg
+  path: ../assets/615289a1c528/1*TgT12bhnjLqraDpnyYyyrg.jpeg
 ---
 
 ### AYS Daily Digest 29/03/17: Estimated 380,000 refugees in Libya in February
 #### New feared tragedy in the Mediterranean / UNHCR messing up housing deals in Greece/ More arrivals while tensions grow on the Greek islands / Minors repealed between Italy and France / Calls against deportations in Paris
 
 
-![Refugees just after arriving in Lesvos\. Photo by [**Legis**](https://www.facebook.com/ngolegis/)](assets/615289a1c528/1*TgT12bhnjLqraDpnyYyyrg.jpeg)
+![Refugees just after arriving in Lesvos\. Photo by [**Legis**](https://www.facebook.com/ngolegis/)](../assets/615289a1c528/1*TgT12bhnjLqraDpnyYyyrg.jpeg)
 
 Refugees just after arriving in Lesvos\. Photo by [**Legis**](https://www.facebook.com/ngolegis/)
 ### Feature
@@ -24,13 +24,13 @@ Last year there were record numbers of refugees reaching Italy coming from Libya
 Between January and April 2016 DTM expanded its coverage to reach all areas and established a country\-wide baseline by May\.
 
 
-![](assets/615289a1c528/1*FHYrOoSMpLJ2tK5K-UJbmw.png)
+![](../assets/615289a1c528/1*FHYrOoSMpLJ2tK5K-UJbmw.png)
 
 
 As seen in the graphic, the numbers of refugees waiting to cross the Mediterranean to Italy grew enormously until about August when they had a slight decrease until the end of the year which was consistent with the rate of arrivals in Italy throughout the year\.
 
 
-![](assets/615289a1c528/1*ZCR-KMnf4drz8CvDEnC56g.png)
+![](../assets/615289a1c528/1*ZCR-KMnf4drz8CvDEnC56g.png)
 
 
 Comparing the two graphics it’s easy to see that a big number of crossings between September and December brought the numbers on the Libyan side down, although we can’t discard that the influx into Libya could have also slowed down during those months\.
@@ -47,7 +47,7 @@ Sadly, today another tragedy is likely to have happened next to the Libyan coast
 Last night another boat was found, this time with a happier end\. Proactiva Open Arms spotted a boat with about 400 refugees at 4:30 am and manage to take them all on board to safety\.
 
 
-![Photo by [**PROACTIVA OPEN ARMS**](https://twitter.com/openarms_fund)](assets/615289a1c528/1*lNLyjClBJNJuueJDqoNTuA.jpeg)
+![Photo by [**PROACTIVA OPEN ARMS**](https://twitter.com/openarms_fund)](../assets/615289a1c528/1*lNLyjClBJNJuueJDqoNTuA.jpeg)
 
 Photo by [**PROACTIVA OPEN ARMS**](https://twitter.com/openarms_fund)
 
@@ -66,12 +66,12 @@ Today it was a busy day again on the coats of the Greek islands with reports of 
 ERCI reported today that, early this morning, a dinghy carrying 46 refugees arrived at the south shore of Lesvos carrying, 2 children and 8 women included\. They arrived at the seen straight away and provided assistance, did translations and also deployed a medical team\. Everyone was reported to be safe and sound apart from a women with just a twisted ankle\. The arrivals today were from a very diverse background, consistently with recent reports, as they registered people from Cameron, Congo, Eritrea, Egypt, Syria, Iraq, Afghanistan and Iran\.
 
 
-![Photo by [**ERCI — Emergency Response Centre International**](https://www.facebook.com/ercintl/?ref=page_internal)](assets/615289a1c528/1*6lXkOJqa9ucx-5l2Jbzong.jpeg)
+![Photo by [**ERCI — Emergency Response Centre International**](https://www.facebook.com/ercintl/?ref=page_internal)](../assets/615289a1c528/1*6lXkOJqa9ucx-5l2Jbzong.jpeg)
 
 Photo by [**ERCI — Emergency Response Centre International**](https://www.facebook.com/ercintl/?ref=page_internal)
 
 
-![Photo by [**ERCI — Emergency Response Centre International**](https://www.facebook.com/ercintl/?ref=page_internal)](assets/615289a1c528/1*qhkTVUSE12DmARyXxHUBKA.jpeg)
+![Photo by [**ERCI — Emergency Response Centre International**](https://www.facebook.com/ercintl/?ref=page_internal)](../assets/615289a1c528/1*qhkTVUSE12DmARyXxHUBKA.jpeg)
 
 Photo by [**ERCI — Emergency Response Centre International**](https://www.facebook.com/ercintl/?ref=page_internal)
 
@@ -129,17 +129,17 @@ In the border between Italy and France there has been police raids in the last f
 The children took pictures of the paperwork where it states clearly their date of birth that proves they are minors\.
 
 
-![Photo by [**Alharaz**](https://www.facebook.com/Alharaz-311850302563176/)](assets/615289a1c528/1*nxo3r_rQ1KoikWo6JPFYXA.jpeg)
+![Photo by [**Alharaz**](https://www.facebook.com/Alharaz-311850302563176/)](../assets/615289a1c528/1*nxo3r_rQ1KoikWo6JPFYXA.jpeg)
 
 Photo by [**Alharaz**](https://www.facebook.com/Alharaz-311850302563176/)
 
 
-![Photo by [**Alharaz**](https://www.facebook.com/Alharaz-311850302563176/)](assets/615289a1c528/1*ovRea6wBBA7hFZSrbumBSQ.jpeg)
+![Photo by [**Alharaz**](https://www.facebook.com/Alharaz-311850302563176/)](../assets/615289a1c528/1*ovRea6wBBA7hFZSrbumBSQ.jpeg)
 
 Photo by [**Alharaz**](https://www.facebook.com/Alharaz-311850302563176/)
 
 
-![Photo by [**Alharaz**](https://www.facebook.com/Alharaz-311850302563176/)](assets/615289a1c528/1*X2ySA0a7It36SgyMisxTPA.jpeg)
+![Photo by [**Alharaz**](https://www.facebook.com/Alharaz-311850302563176/)](../assets/615289a1c528/1*X2ySA0a7It36SgyMisxTPA.jpeg)
 
 Photo by [**Alharaz**](https://www.facebook.com/Alharaz-311850302563176/)
 ### France

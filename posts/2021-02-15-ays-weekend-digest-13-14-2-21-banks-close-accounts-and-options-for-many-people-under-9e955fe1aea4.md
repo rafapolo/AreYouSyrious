@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 13–14/2/21: Banks close accounts and options for many people under…
+title: "AYS Weekend Digest 13–14/2/21: Banks close accounts and options for many people under…"
 author: Are You Syrious?
 date: 2021-02-15T20:46:46.243+0000
 last_modified_at: 2021-02-15T20:46:46.243+0000
@@ -7,18 +7,18 @@ categories: Are You Syrious?
 tags: [digest,migration,europe,human-rights,refugees]
 description: Potential new cases against the Italian state for orchestrating pushbacks to Libyan torture // Far-right still terrorizing people across…
 image:
-  path: assets/9e955fe1aea4/0*IPL89J5aUoUUJUAd
+  path: ../assets/9e955fe1aea4/0*IPL89J5aUoUUJUAd
 ---
 
 ### AYS Weekend Digest 13–14/2/21: Banks close accounts and options for many people under international protection
 #### Potential new cases against the Italian state for orchestrating pushbacks to Libyan torture // Far\-right still terrorizing people across the Aegean // Insane costs for refugee accommodation a German city make working unaffordable // Recommended reads and more info
 
 
-![](assets/9e955fe1aea4/0*V-PnsWN1T4V-f8Rn)
+![](../assets/9e955fe1aea4/0*V-PnsWN1T4V-f8Rn)
 
 
 
-![](assets/9e955fe1aea4/0*IPL89J5aUoUUJUAd)
+![](../assets/9e955fe1aea4/0*IPL89J5aUoUUJUAd)
 
 
 Constant evictions in the Calais area have become a daily reality for many in the north of France, activists report \(see more under ‘France’\)
@@ -44,11 +44,11 @@ Along with a few other organizations in Croatia, AYS has turned to the Ombudswom
 ### GREECE
 
 
-![](assets/9e955fe1aea4/0*gpkxmH3eNnsp1xZE)
+![](../assets/9e955fe1aea4/0*gpkxmH3eNnsp1xZE)
 
 
 
-![](assets/9e955fe1aea4/0*8Gl7L4HpCfwk2b8k)
+![](../assets/9e955fe1aea4/0*8Gl7L4HpCfwk2b8k)
 
 
 via [Mare Liberum e\.V\.](https://twitter.com/teammareliberum)

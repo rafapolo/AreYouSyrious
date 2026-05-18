@@ -5,9 +5,9 @@ date: 2018-07-31T10:51:21.718+0100
 last_modified_at: 2018-07-31T10:51:21.718+0100
 categories: Are You Syrious?
 tags: [italy,save-the-children,elin-ersson,croatia,refugees]
-description: AYS Daily Digest 30/07/18: Children are victims of slavery in Italy
+description: "AYS Daily Digest 30/07/18: Children are victims of slavery in Italy"
 image:
-  path: assets/cd216403f21c/1*wxvzkaR2lXEzFq0JOvLGAg.jpeg
+  path: ../assets/cd216403f21c/1*wxvzkaR2lXEzFq0JOvLGAg.jpeg
 ---
 
 ### AYS DAILY DIGEST FOR July 30th
@@ -15,7 +15,7 @@ image:
 #### Save the children reports about exploitation of vulnerable groups / World Day against Trafficking in Persons / First Pushback by Italian vessel to Libya since 2012 / Statistics updates from Italy, Libya, Greece and Spain / New wave of asylum approvals and rejections in Croatia / Prime Minister of Saxony\-Anhalt demands deporations to Syria
 
 
-![Many children on the run face exploitation and slavery in Italy and all over the world\. Credits: [Gabriel Tizon](https://twitter.com/GabrielTizonf1/status/1023874684365025280)](assets/cd216403f21c/1*wxvzkaR2lXEzFq0JOvLGAg.jpeg)
+![Many children on the run face exploitation and slavery in Italy and all over the world\. Credits: [Gabriel Tizon](https://twitter.com/GabrielTizonf1/status/1023874684365025280)](../assets/cd216403f21c/1*wxvzkaR2lXEzFq0JOvLGAg.jpeg)
 
 Many children on the run face exploitation and slavery in Italy and all over the world\. Credits: [Gabriel Tizon](https://twitter.com/GabrielTizonf1/status/1023874684365025280)
 
@@ -26,7 +26,7 @@ At a global level, according to organisations such as IOM, Walk Free Foundation 
 According to these figures, minors account for almost 10 million \(25%\) \.
 
 
-![25 percent of the victims of slavery in 2016 are assumed to be minors\. Credits: [Save the Children Italy](https://s3.savethechildren.it/public/files/uploads/pubblicazioni/piccoli-schiavi-invisibili-2018_2.pdf)](assets/cd216403f21c/1*At5utMkcAdIwBclC2dY_kw.jpeg)
+![25 percent of the victims of slavery in 2016 are assumed to be minors\. Credits: [Save the Children Italy](https://s3.savethechildren.it/public/files/uploads/pubblicazioni/piccoli-schiavi-invisibili-2018_2.pdf)](../assets/cd216403f21c/1*At5utMkcAdIwBclC2dY_kw.jpeg)
 
 25 percent of the victims of slavery in 2016 are assumed to be minors\. Credits: [Save the Children Italy](https://s3.savethechildren.it/public/files/uploads/pubblicazioni/piccoli-schiavi-invisibili-2018_2.pdf)
 

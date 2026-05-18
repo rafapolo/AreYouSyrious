@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 11/09/2020: Hunger Strike in inhumane Greek Police Station
+title: "AYS Daily Digest 11/09/2020: Hunger Strike in inhumane Greek Police Station"
 author: Are You Syrious?
 date: 2020-09-12T11:06:43.735+0100
 last_modified_at: 2020-09-12T12:26:12.539+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,europe,refugees,migration,greece]
 description: New camps being constructed in Lesbos // Evidence of inhumane conditions in Greece // Malta “not responsible” for 27 people abandoned at…
 image:
-  path: assets/212060b61c75/1*MfGssQsvTG9WNQyrNYCBhQ.png
+  path: ../assets/212060b61c75/1*MfGssQsvTG9WNQyrNYCBhQ.png
 ---
 
 ### AYS Daily Digest 11/09/2020: Hunger Strike in Inhumane Greek Police Station
@@ -18,7 +18,7 @@ New camps being constructed in Lesbos // Evidence of inhumane conditions in Gree
 On Friday, members of the AYS team in Athens were contacted by one of the people detained in Keratea\. Twelve people have been on hunger strike for five days now, while one person had to stop on Thursday\.
 
 
-[![Hunger strike in Keratea police station, Attica, Greece](assets/212060b61c75/80de_hqdefault.jpg "Hunger strike in Keratea police station, Attica, Greece")](https://www.youtube.com/watch?v=tGPGdIyjadE)
+[![Hunger strike in Keratea police station, Attica, Greece](../assets/212060b61c75/80de_hqdefault.jpg "Hunger strike in Keratea police station, Attica, Greece")](https://www.youtube.com/watch?v=tGPGdIyjadE)
 
 
 They are from Iran, Egypt, Syria, Bangladesh, Germany, Ghana, Sri Lanka and other countries\. Most have active asylum claims, while three have signed deportation papers, without anyone to translate the documents for them, and only to escape the conditions in which they are being forced to survive\.
@@ -28,11 +28,11 @@ One individual was transferred there nine days ago, but other people have been d
 They live in small dark rooms, four people in each one, while some sleep on the floor in the corridor\. In the whole facility, there are only nine beds\. Once the hunger strike started, police raided the cells and seized personal belongings and phones\. Police told them not to complain because they are living in “VIP conditions” compared to months before, when up to 16 people were sleeping on the floor of the corridor\. Also, reportedly police has been violent towards one of the detainees, who was punched, and told them: “If you die here, we won’t put you in a grave”\.
 
 
-![](assets/212060b61c75/1*koiQsONkw3NZFjsUnbwi5A.png)
+![](../assets/212060b61c75/1*koiQsONkw3NZFjsUnbwi5A.png)
 
 
 
-![The photo shows no running water and people forced to sleep on the floor](assets/212060b61c75/1*MfGssQsvTG9WNQyrNYCBhQ.png)
+![The photo shows no running water and people forced to sleep on the floor](../assets/212060b61c75/1*MfGssQsvTG9WNQyrNYCBhQ.png)
 
 The photo shows no running water and people forced to sleep on the floor
 
@@ -63,7 +63,7 @@ The [Greek newspaper Stonisi](https://www.stonisi.gr/post/11338/o-kyvos-errifthh
 [At around 2pm today](https://www.efsyn.gr/ellada/koinonia/259400_theloyme-na-fygoyme-afiste-mas-eleytheroys-fonazoyn-oi-prosfyges-exo-ap-kara) , thousands of asylum seekers and migrants, holding placards made of cardboard boxes, marched to Kara Tepe, where the camp is being constructed\. The five thousand people, mostly women and children, shouting “Azadi, azadi” or “Freedom” were met with a strong police presence with officers equipped in riot gear and carrying weapons\.
 
 
-[![Διαδήλωση-διαμαρτυρία χιλιάδων αιτούντων άσυλο στον Καρά- Τεπέ](assets/212060b61c75/8b71_hqdefault.jpg "Διαδήλωση-διαμαρτυρία χιλιάδων αιτούντων άσυλο στον Καρά- Τεπέ")](https://www.youtube.com/watch?v=IZ8474XbJeE)
+[![Διαδήλωση-διαμαρτυρία χιλιάδων αιτούντων άσυλο στον Καρά- Τεπέ](../assets/212060b61c75/8b71_hqdefault.jpg "Διαδήλωση-διαμαρτυρία χιλιάδων αιτούντων άσυλο στον Καρά- Τεπέ")](https://www.youtube.com/watch?v=IZ8474XbJeE)
 
 
 [The UN High Commissioner for Refugees \(UNHCR\)](https://www.efsyn.gr/ellada/koinonia/259400_theloyme-na-fygoyme-afiste-mas-eleytheroys-fonazoyn-oi-prosfyges-exo-ap-kara) has called for long\-term solutions for refugees and asylum seekers in Moria, seeking more support, including from European countries and institutions, and other structures on the Greek islands\.
@@ -76,7 +76,7 @@ Today the Border Violence Monitoring Network published the 800th pushback testim
 The graphic below shows some of the most common forms of violence described by individuals in these reports\. We must never forget that behind each one of these testimonies stands a group of persons with their own complex emotions and lifegoals which have been irreparably affected by the border policies of EU\-member states\.
 
 
-![](assets/212060b61c75/1*gMc2ppssMgdne01zHCPHww.png)
+![](../assets/212060b61c75/1*gMc2ppssMgdne01zHCPHww.png)
 
 ### Sea
 

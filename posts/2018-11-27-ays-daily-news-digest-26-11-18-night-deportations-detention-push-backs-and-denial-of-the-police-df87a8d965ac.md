@@ -1,5 +1,5 @@
 ---
-title: AYS Daily News Digest 26/11/18: Night deportations, detention, push backs and denial of the police
+title: "AYS Daily News Digest 26/11/18: Night deportations, detention, push backs and denial of the police"
 author: Are You Syrious?
 date: 2018-11-27T13:57:36.257+0000
 last_modified_at: 2018-11-27T13:57:36.257+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,europe,digest,report,health]
 description: The police vs. reports of illegal pushbacks, Slovenia case / No concrete reactions to the dire situation at the Abu Salim detention centre…
 image:
-  path: assets/df87a8d965ac/1*l6U5mWX3B0fVcWHkw2Iegw.jpeg
+  path: ../assets/df87a8d965ac/1*l6U5mWX3B0fVcWHkw2Iegw.jpeg
 ---
 
 ### AYS Daily News Digest 26/11/18: Night deportations, detention, push backs and denial of the police
 #### The police vs\. reports of illegal pushbacks, Slovenia case / No concrete reactions to the dire situation at the Abu Salim detention centre in Tripoli / lawsuit against Greek authorities over a death / flu epidemic in Velika Kladuša, BiH / help needed in France / 15 people in the UK could be sentenced to life imprisonment for preventing deportation / more news
 
 
-![“The sea has become a cemetery, and these islands are the tombstones“\. Moving words shared by members of the local community on Malta, in support to the many who’s lives continue to be lost at the hands of a cold, uncaring migration policy\. — [LIFELINE](https://www.facebook.com/seenotrettung/?tn-str=k%2AF&hc_location=group_dialog)](assets/df87a8d965ac/1*l6U5mWX3B0fVcWHkw2Iegw.jpeg)
+![“The sea has become a cemetery, and these islands are the tombstones“\. Moving words shared by members of the local community on Malta, in support to the many who’s lives continue to be lost at the hands of a cold, uncaring migration policy\. — [LIFELINE](https://www.facebook.com/seenotrettung/?tn-str=k%2AF&hc_location=group_dialog)](../assets/df87a8d965ac/1*l6U5mWX3B0fVcWHkw2Iegw.jpeg)
 
 “The sea has become a cemetery, and these islands are the tombstones“\. Moving words shared by members of the local community on Malta, in support to the many who’s lives continue to be lost at the hands of a cold, uncaring migration policy\. — [LIFELINE](https://www.facebook.com/seenotrettung/?tn-str=k%2AF&hc_location=group_dialog)
 #### FEATURE
@@ -52,7 +52,7 @@ In their [**answer to the Police**](https://www.borderviolence.eu/a-letter-from-
 
 
 
-![](assets/df87a8d965ac/1*KCe899jsboCoWW22wTNSEw.jpeg)
+![](../assets/df87a8d965ac/1*KCe899jsboCoWW22wTNSEw.jpeg)
 
 #### LIBYA
 ### Devastating consequences to the young lives of Libyan detainees
@@ -71,15 +71,15 @@ In their [**answer to the Police**](https://www.borderviolence.eu/a-letter-from-
 More than 500 people live in Abu Salim detention centre in Tripoli, including some who are very ill after having been smuggled in\. Among them, there are 20 children and four babies\.
 
 
-![](assets/df87a8d965ac/1*e7rVqD4xjkD9uEnv5wYXSQ.jpeg)
+![](../assets/df87a8d965ac/1*e7rVqD4xjkD9uEnv5wYXSQ.jpeg)
 
 
 
-![](assets/df87a8d965ac/1*d2lRsyP_6JINij28aJ_F2Q.jpeg)
+![](../assets/df87a8d965ac/1*d2lRsyP_6JINij28aJ_F2Q.jpeg)
 
 
 
-![Photos via [**Sally Hayden**](https://twitter.com/sallyhayd)](assets/df87a8d965ac/1*dq6bpMN24u2zdYLkLJmWpQ.jpeg)
+![Photos via [**Sally Hayden**](https://twitter.com/sallyhayd)](../assets/df87a8d965ac/1*dq6bpMN24u2zdYLkLJmWpQ.jpeg)
 
 Photos via [**Sally Hayden**](https://twitter.com/sallyhayd)
 
@@ -124,17 +124,17 @@ More than 10,000 refugees and migrants have reportedly been sent back to Libya a
 [LIFELINE](https://www.facebook.com/seenotrettung/?tn-str=k%2AF&hc_location=group_dialog) team writes: “Yesterday, our crew joined the community in Malta to commemorate those who died at sea in search of peace & safety\. April 2015 saw two of the biggest Mediterranean shipwrecks claim over 1,000 lives, the few recovered bodies laid to rest in an unmarked grave at Addolorata cemetery\.”
 
 
-![](assets/df87a8d965ac/1*fE0IZEpGs5YXh2w54VdKCA.jpeg)
+![](../assets/df87a8d965ac/1*fE0IZEpGs5YXh2w54VdKCA.jpeg)
 
 
 
-![“The sea has become a cemetery, and these islands are the tombstones“\. Moving words shared by members of the local community in support to the many who’s lives continue to be lost at the hands of a cold, uncaring migration policy\. — [LIFELINE](https://www.facebook.com/seenotrettung/?tn-str=k%2AF&hc_location=group_dialog)](assets/df87a8d965ac/1*BbhDKeoke9PlXQSB0am1Ow.jpeg)
+![“The sea has become a cemetery, and these islands are the tombstones“\. Moving words shared by members of the local community in support to the many who’s lives continue to be lost at the hands of a cold, uncaring migration policy\. — [LIFELINE](https://www.facebook.com/seenotrettung/?tn-str=k%2AF&hc_location=group_dialog)](../assets/df87a8d965ac/1*BbhDKeoke9PlXQSB0am1Ow.jpeg)
 
 “The sea has become a cemetery, and these islands are the tombstones“\. Moving words shared by members of the local community in support to the many who’s lives continue to be lost at the hands of a cold, uncaring migration policy\. — [LIFELINE](https://www.facebook.com/seenotrettung/?tn-str=k%2AF&hc_location=group_dialog)
 #### GREECE
 
 
-![[Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?tn-str=k%2AF)](assets/df87a8d965ac/1*IXl35xunKSOck53UF6t2LQ.jpeg)
+![[Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?tn-str=k%2AF)](../assets/df87a8d965ac/1*IXl35xunKSOck53UF6t2LQ.jpeg)
 
 [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?tn-str=k%2AF)
 ### Greece sued over a death in Moria
@@ -202,11 +202,11 @@ Similar to other countries, like Germany, the Croatian practice with asylum seek
 #### AUSTRIA
 
 
-![](assets/df87a8d965ac/1*_WgOxNKnxIMede_KLlnxbQ.jpeg)
+![](../assets/df87a8d965ac/1*_WgOxNKnxIMede_KLlnxbQ.jpeg)
 
 
 
-![Infographics: [Wiener Vernetzung gegen Abschiebungen](https://www.facebook.com/plattform.refugees.welcome/?tn-str=k%2AF&hc_location=group_dialog)](assets/df87a8d965ac/1*hxTy-sgduK7U54SCDBvBxw.jpeg)
+![Infographics: [Wiener Vernetzung gegen Abschiebungen](https://www.facebook.com/plattform.refugees.welcome/?tn-str=k%2AF&hc_location=group_dialog)](../assets/df87a8d965ac/1*hxTy-sgduK7U54SCDBvBxw.jpeg)
 
 Infographics: [Wiener Vernetzung gegen Abschiebungen](https://www.facebook.com/plattform.refugees.welcome/?tn-str=k%2AF&hc_location=group_dialog)
 #### FRANCE
@@ -246,7 +246,7 @@ An executive in the case of the rescued people on board of Nuestra Madre de Lore
 [Proactiva Open Arms](https://www.facebook.com/proactivaservice/?tn-str=k%2AF&hc_location=group_dialog) recalls how unsafe Libya is and again draws attention to the double standards European countries continue having when it comes to human rights and safety\.
 
 
-![“ Yes, if you are marine, fisherman or on board of a vessel, you can go to the country where diplomats were evacuated even to the Italian Ambassador\. To which secure port will they be sending Nuestra Madre de Loreto?”](assets/df87a8d965ac/1*dO3zZ5iro4HKhcnDQM32_Q.jpeg)
+![“ Yes, if you are marine, fisherman or on board of a vessel, you can go to the country where diplomats were evacuated even to the Italian Ambassador\. To which secure port will they be sending Nuestra Madre de Loreto?”](../assets/df87a8d965ac/1*dO3zZ5iro4HKhcnDQM32_Q.jpeg)
 
 “ Yes, if you are marine, fisherman or on board of a vessel, you can go to the country where diplomats were evacuated even to the Italian Ambassador\. To which secure port will they be sending Nuestra Madre de Loreto?”
 #### GERMANY
@@ -297,7 +297,7 @@ In two weeks, 15 people in Britain could be sentenced to life imprisonment for n
 
 
 
-![Photo credit: Chris Grodotzki](assets/df87a8d965ac/1*XNkcfHCR3r4K70f3aGW2XA.jpeg)
+![Photo credit: Chris Grodotzki](../assets/df87a8d965ac/1*XNkcfHCR3r4K70f3aGW2XA.jpeg)
 
 Photo credit: Chris Grodotzki
 

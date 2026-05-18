@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 24/10/17: Appeal from rescue teams for change
+title: "AYS Daily Digest 24/10/17: Appeal from rescue teams for change"
 author: Are You Syrious?
 date: 2017-10-25T01:01:44.426+0100
 last_modified_at: 2017-10-25T10:39:02.162+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,mediterranean,greece,germany,france]
 description: Protests continue on Lesvos // Conditions worsen on the islands with rain // Protest against deportations in Leipzig // One year after the…
 image:
-  path: assets/b0738120d204/1*WDf4yvOv-RELaUJozYeRzA.png
+  path: ../assets/b0738120d204/1*WDf4yvOv-RELaUJozYeRzA.png
 ---
 
 ### AYS Daily Digest 24/10/17: Appeal from rescue teams for change
 #### Protests continue on Lesvos // Conditions worsen on the islands with rain // Protest against deportations in Leipzig // One year after the “Jungle” // Belgium forbidden to deport to Sudan?
 
 
-![Photo by [Σιωπή Σημαίνει Συνενοχή](https://www.facebook.com/siopi.simenei.synenoxi/?hc_ref=ARSV_Csiu5KicxjAXgOL2iW40KOPL5j_YypUTVRgL0Qq57L44yWPhmPGtZbCrI2rRG8) \.](assets/b0738120d204/1*WDf4yvOv-RELaUJozYeRzA.png)
+![Photo by [Σιωπή Σημαίνει Συνενοχή](https://www.facebook.com/siopi.simenei.synenoxi/?hc_ref=ARSV_Csiu5KicxjAXgOL2iW40KOPL5j_YypUTVRgL0Qq57L44yWPhmPGtZbCrI2rRG8) \.](../assets/b0738120d204/1*WDf4yvOv-RELaUJozYeRzA.png)
 
 Photo by [Σιωπή Σημαίνει Συνενοχή](https://www.facebook.com/siopi.simenei.synenoxi/?hc_ref=ARSV_Csiu5KicxjAXgOL2iW40KOPL5j_YypUTVRgL0Qq57L44yWPhmPGtZbCrI2rRG8) \.
 ### Feature
@@ -42,7 +42,7 @@ During the last week, 700 people were transferred from islands to mainlands, but
 The protests continue for the 5th day on the island since a group of Afghan and Iranian refugees have decided to leave Moria due to unliveable conditions and violence\. Children faced the rain and police today rather than staying in the camp and many have been sleeping outside to point out the terrible conditions of the camp\. Violent outbreaks are common and once again refugees are demanding better treatment\. Despite countless protests, the fact that codnitions have remained largely the same on the island should be a source of shame for EU authorities\.
 
 
-![Photo by [**Legal Centre Lesbos‏**](https://twitter.com/lesboslegal)](assets/b0738120d204/1*VqJTCEYQ3n2PB6RNLILGww.jpeg)
+![Photo by [**Legal Centre Lesbos‏**](https://twitter.com/lesboslegal)](../assets/b0738120d204/1*VqJTCEYQ3n2PB6RNLILGww.jpeg)
 
 Photo by [**Legal Centre Lesbos‏**](https://twitter.com/lesboslegal)
 
@@ -62,14 +62,14 @@ Today the well known activist [**Arash Hampay**](https://www.facebook.com/arasha
 
 
 
-![Photo from the protest by [**Arash Hampay**](https://www.facebook.com/arashampay?hc_ref=ARSavSOjULTNlp1AOAqY-inBjF7ww5H0SQNWApedDFpnJLLuvphHU4GUWHQKe15wvi4)](assets/b0738120d204/1*RKHZXn2GLcOd1KU4gn59_A.jpeg)
+![Photo from the protest by [**Arash Hampay**](https://www.facebook.com/arashampay?hc_ref=ARSavSOjULTNlp1AOAqY-inBjF7ww5H0SQNWApedDFpnJLLuvphHU4GUWHQKe15wvi4)](../assets/b0738120d204/1*RKHZXn2GLcOd1KU4gn59_A.jpeg)
 
 Photo from the protest by [**Arash Hampay**](https://www.facebook.com/arashampay?hc_ref=ARSavSOjULTNlp1AOAqY-inBjF7ww5H0SQNWApedDFpnJLLuvphHU4GUWHQKe15wvi4)
 
 This video, also from the site, shows the frustration of refugees on the island\.
 
 
-[![Refugees](assets/b0738120d204/17d8_hqdefault.jpg "Refugees")](http://www.youtube.com/watch?v=hTqWQIFY_50)
+[![Refugees](../assets/b0738120d204/17d8_hqdefault.jpg "Refugees")](http://www.youtube.com/watch?v=hTqWQIFY_50)
 
 
 In these difficult times, a lot of help is needed and the Kitchen Bus is looking for volunteers to help feeding refugees on Lesvos\. The bus is able to produce thousands of hot meals per day and the group needs funds urgently to continue their task\.
@@ -81,14 +81,14 @@ OR donate just 1 Euro it will feed a refugee for a day\.
 Online donations by PayPal, credit card or transfer into their bank account following this [link](https://standbymelesvos.org/donating/) \.
 
 
-![Photo by Shafique Azam](assets/b0738120d204/1*4FzaEsfxQws6jiZu14-CYw.jpeg)
+![Photo by Shafique Azam](../assets/b0738120d204/1*4FzaEsfxQws6jiZu14-CYw.jpeg)
 
 Photo by Shafique Azam
 
 Another group, [**Dråpen i Havet**](https://www.facebook.com/drapenihavet/?hc_ref=ARSCjkDpiZEm20ctjtOgpUD0oo61KV8Dlo19vnyEixdg37QwQAKgikD7lD2Dnv8DNmA) **,** is also working on the island and is in need of volunteers\. Their work consists of patrolling the coast and sending alerts when boats are spotted on their way in\. They also assist with landings\. In addition, they’re preparing blankets, clothes and shoes for distribution at arrivals\. Their resources are also available for other organizations on the island that need assistance\.
 
 
-![Photo by [**Dråpen i Havet**](https://www.facebook.com/drapenihavet/?hc_ref=ARSCjkDpiZEm20ctjtOgpUD0oo61KV8Dlo19vnyEixdg37QwQAKgikD7lD2Dnv8DNmA)](assets/b0738120d204/1*JTGfsQSB77KYJ2XHGHrgmw.jpeg)
+![Photo by [**Dråpen i Havet**](https://www.facebook.com/drapenihavet/?hc_ref=ARSCjkDpiZEm20ctjtOgpUD0oo61KV8Dlo19vnyEixdg37QwQAKgikD7lD2Dnv8DNmA)](../assets/b0738120d204/1*JTGfsQSB77KYJ2XHGHrgmw.jpeg)
 
 Photo by [**Dråpen i Havet**](https://www.facebook.com/drapenihavet/?hc_ref=ARSCjkDpiZEm20ctjtOgpUD0oo61KV8Dlo19vnyEixdg37QwQAKgikD7lD2Dnv8DNmA)
 
@@ -106,24 +106,24 @@ Another big problem caused by this crisis is metal health issues and MSF has rep
 [**Refugee Info Bus**](https://www.facebook.com/RefugeeInfoBus/?hc_ref=ARQgiBsC3Wv6wvgd1QFZ9pvznInmAfCe3FOcc58Ueou3gmbdH8KZXmD06508at2Xrdk) is on the island where many refugees have been arriving recently\. Now that Souda camp has closed, people are forced into the increasingly unsafe, unsanitary conditions of Vial Camp\. Here, very few NGO’s are allowed to enter and because of overcrowding, the new arrivals are now forced into tents without electricity, or are simply sleeping out in the open, as winter in Greece is beginning to rear its head\.
 
 
-![photo by [**Refugee Info Bus**](https://www.facebook.com/RefugeeInfoBus/?hc_ref=ARQgiBsC3Wv6wvgd1QFZ9pvznInmAfCe3FOcc58Ueou3gmbdH8KZXmD06508at2Xrdk)](assets/b0738120d204/1*ZxkVhMgFy4D1x3Q2VlCovg.jpeg)
+![photo by [**Refugee Info Bus**](https://www.facebook.com/RefugeeInfoBus/?hc_ref=ARQgiBsC3Wv6wvgd1QFZ9pvznInmAfCe3FOcc58Ueou3gmbdH8KZXmD06508at2Xrdk)](../assets/b0738120d204/1*ZxkVhMgFy4D1x3Q2VlCovg.jpeg)
 
 photo by [**Refugee Info Bus**](https://www.facebook.com/RefugeeInfoBus/?hc_ref=ARQgiBsC3Wv6wvgd1QFZ9pvznInmAfCe3FOcc58Ueou3gmbdH8KZXmD06508at2Xrdk)
 
 
-![Photo by [**Refugee Info Bus**](https://www.facebook.com/RefugeeInfoBus/?hc_ref=ARQgiBsC3Wv6wvgd1QFZ9pvznInmAfCe3FOcc58Ueou3gmbdH8KZXmD06508at2Xrdk)](assets/b0738120d204/1*6dw-A-zm2-Dax0krq5OEoA.jpeg)
+![Photo by [**Refugee Info Bus**](https://www.facebook.com/RefugeeInfoBus/?hc_ref=ARQgiBsC3Wv6wvgd1QFZ9pvznInmAfCe3FOcc58Ueou3gmbdH8KZXmD06508at2Xrdk)](../assets/b0738120d204/1*6dw-A-zm2-Dax0krq5OEoA.jpeg)
 
 Photo by [**Refugee Info Bus**](https://www.facebook.com/RefugeeInfoBus/?hc_ref=ARQgiBsC3Wv6wvgd1QFZ9pvznInmAfCe3FOcc58Ueou3gmbdH8KZXmD06508at2Xrdk)
 
 
-![Photo by [**Εφημερίδα Πολίτης**](https://www.facebook.com/Politischios.gr/?hc_ref=ARQf1PpNsPgsmKgYGTZVgyIlr1409Y1ogP8rpYnVLjGu02BVChqRz5dA7Q2WGIrxnyE)](assets/b0738120d204/1*T95m0X5YPstQrHt9AO3YmQ.jpeg)
+![Photo by [**Εφημερίδα Πολίτης**](https://www.facebook.com/Politischios.gr/?hc_ref=ARQf1PpNsPgsmKgYGTZVgyIlr1409Y1ogP8rpYnVLjGu02BVChqRz5dA7Q2WGIrxnyE)](../assets/b0738120d204/1*T95m0X5YPstQrHt9AO3YmQ.jpeg)
 
 Photo by [**Εφημερίδα Πολίτης**](https://www.facebook.com/Politischios.gr/?hc_ref=ARQf1PpNsPgsmKgYGTZVgyIlr1409Y1ogP8rpYnVLjGu02BVChqRz5dA7Q2WGIrxnyE)
 
 Cold, starving and wet is the fundamental codnition of many refugees trapped on the island of Chios\. Most of the guys who went for breakfast to The Hero Centre this morning slept in the park in the rain last night\. They can’t even get an sub\-par temporary tent at Vial\. For the refugees of Chios, there is no shelter, no food, no money, and no country to protect them\.
 
 
-![photo by [**The Hero Centre — Chios**](https://www.facebook.com/theherocentre/)](assets/b0738120d204/1*2qRxQXai6Wo3178mii8FuA.jpeg)
+![photo by [**The Hero Centre — Chios**](https://www.facebook.com/theherocentre/)](../assets/b0738120d204/1*2qRxQXai6Wo3178mii8FuA.jpeg)
 
 photo by [**The Hero Centre — Chios**](https://www.facebook.com/theherocentre/)
 #### Samos
@@ -135,17 +135,17 @@ And the bad weather has arrived, but far from alleviating the crisis, it just ma
 So many people on Samos that have been camping outside had to face the rain and this was the result\.
 
 
-![Photo by [**MSF Sea**](https://twitter.com/MSF_Sea)](assets/b0738120d204/1*klbMtMpLK6DM7LCG8jvMWA.jpeg)
+![Photo by [**MSF Sea**](https://twitter.com/MSF_Sea)](../assets/b0738120d204/1*klbMtMpLK6DM7LCG8jvMWA.jpeg)
 
 Photo by [**MSF Sea**](https://twitter.com/MSF_Sea)
 
 
-![Photo by [**MSF Sea**](https://twitter.com/MSF_Sea)](assets/b0738120d204/1*2US7lFKVg_FGdjWmwvVhqg.jpeg)
+![Photo by [**MSF Sea**](https://twitter.com/MSF_Sea)](../assets/b0738120d204/1*2US7lFKVg_FGdjWmwvVhqg.jpeg)
 
 Photo by [**MSF Sea**](https://twitter.com/MSF_Sea)
 
 
-![Photo by [**Samos Volunteers**](https://www.facebook.com/samosvolunteers/?hc_ref=ARQmgV8BdsOZRCEE13zf5Fu8PXikidHoVy81IaLdqDHW3-Xeb_2_1CqtC3N3ksnNuaI)](assets/b0738120d204/1*Sjomy61SWsBSvDx6olc99A.jpeg)
+![Photo by [**Samos Volunteers**](https://www.facebook.com/samosvolunteers/?hc_ref=ARQmgV8BdsOZRCEE13zf5Fu8PXikidHoVy81IaLdqDHW3-Xeb_2_1CqtC3N3ksnNuaI)](../assets/b0738120d204/1*Sjomy61SWsBSvDx6olc99A.jpeg)
 
 Photo by [**Samos Volunteers**](https://www.facebook.com/samosvolunteers/?hc_ref=ARQmgV8BdsOZRCEE13zf5Fu8PXikidHoVy81IaLdqDHW3-Xeb_2_1CqtC3N3ksnNuaI)
 
@@ -170,7 +170,7 @@ There has been news recently about some camps closing in the future and we can n
 The Greek asylum services have published a useful and informative infographic that shows statistics on how many people have sought asylum in Greece between 2013 and 2017\. [**Refugee Info Bus**](https://www.facebook.com/RefugeeInfoBus/?hc_ref=ARTpYdrQb-fbxyMAlPsAsi1Y2X6b_A723siUjy0cjq0JbPXOCveOPOURdCI7uqY44-Q&fref=nf) **has** analyzed the graph and it shows that an impressive 4,594 people have left Greece to be reunited with family elsewhere in Europe, however, it also shows that 10,096 people have been accepted for family reunifications, and 17,040 people have made family reunion requests\. This means that many people are still waiting to hear from other European countries on important decisions about their future\.
 
 
-![](assets/b0738120d204/1*vk_PJs3EKV4fT1Oi_vIgpA.jpeg)
+![](../assets/b0738120d204/1*vk_PJs3EKV4fT1Oi_vIgpA.jpeg)
 
 
 **Docmobile** is looking for qualified doctors \(GP, emergency doctors, pediatricians\) to work in different places in Greece, where they provide free medical care for refugees\. Dentists are also needed for the thousands of refugees on Lesbos, with no access to dental care\. If you have relevant training or background please consider joining the team\. Contact them [here](http://greecevol.info/task.list.php?ID=609) \.
@@ -186,7 +186,7 @@ Reza wasn’t considered as threat for the national security and didn’t commit
 Also in Leipzig airport, approximately 120 people demonstrated at Leipzig / Halle airport \(Germany\) this morning against deportations to Afghanistan\. The demonstration was preceded by a protest camp on Augustusplatz, Leipzig, lasting for four days\.
 
 
-![Photo by [Enough is Enough](https://enoughisenough14.org/2017/10/24/protests-in-leipzig-this-deportation-is-ignorant-its-murderous/)](assets/b0738120d204/1*ZO715NCmZ4CiI493Ubqzxg.jpeg)
+![Photo by [Enough is Enough](https://enoughisenough14.org/2017/10/24/protests-in-leipzig-this-deportation-is-ignorant-its-murderous/)](../assets/b0738120d204/1*ZO715NCmZ4CiI493Ubqzxg.jpeg)
 
 Photo by [Enough is Enough](https://enoughisenough14.org/2017/10/24/protests-in-leipzig-this-deportation-is-ignorant-its-murderous/)
 ### France
@@ -196,7 +196,7 @@ A year has passed since the demolition of the “Jungle” at Calais and today [
 Volunteers in Northern France are asking people at home to write to their MPs and remind them of their legal obligation to protect vulnerable child refugees\.
 
 
-![Photo by [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/?hc_ref=ARTdxfsM8IEQ-JOiG4Yv4BQgNx7Nuaw0SZV8FiGBocWgM-msmixAQvEwsFadNEhS1Ew&fref=nf)](assets/b0738120d204/1*4NABSr0WUCQmZGf3WbBrdA.png)
+![Photo by [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/?hc_ref=ARTdxfsM8IEQ-JOiG4Yv4BQgNx7Nuaw0SZV8FiGBocWgM-msmixAQvEwsFadNEhS1Ew&fref=nf)](../assets/b0738120d204/1*4NABSr0WUCQmZGf3WbBrdA.png)
 
 Photo by [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/?hc_ref=ARTdxfsM8IEQ-JOiG4Yv4BQgNx7Nuaw0SZV8FiGBocWgM-msmixAQvEwsFadNEhS1Ew&fref=nf)
 
@@ -238,7 +238,7 @@ You can support them in the link [here\.](https://www.gofundme.com/refugee-first
 Today there is another good initiative in Dunkirk, [Myles Bancroft](https://www.facebook.com/myles.bancroft?fref=mentions) and **‎ [Thomas Gilbert](https://www.facebook.com/thomas.gilbert.169?hc_ref=ARREYMGSGa_mzMxWZ0AiJcd6inTU7XVLDE5ciHjWRKLYyXeNPkb0-tpMSAXSTaCKumc&fref=nf) ‎** have been doing a litter pick of the camp\. They are asking for help of anyone on the ground to keep the area clean\. The rubbish is starting to pile up in the abandoned camps throughout the woods and rats are breeding\.
 
 
-![Photo by **‎ [Thomas Gilbert](https://www.facebook.com/thomas.gilbert.169?hc_ref=ARREYMGSGa_mzMxWZ0AiJcd6inTU7XVLDE5ciHjWRKLYyXeNPkb0-tpMSAXSTaCKumc&fref=nf)**](assets/b0738120d204/1*uwvu6KH0hSi6TwZA0PtHtg.jpeg)
+![Photo by **‎ [Thomas Gilbert](https://www.facebook.com/thomas.gilbert.169?hc_ref=ARREYMGSGa_mzMxWZ0AiJcd6inTU7XVLDE5ciHjWRKLYyXeNPkb0-tpMSAXSTaCKumc&fref=nf)**](../assets/b0738120d204/1*uwvu6KH0hSi6TwZA0PtHtg.jpeg)
 
 Photo by **‎ [Thomas Gilbert](https://www.facebook.com/thomas.gilbert.169?hc_ref=ARREYMGSGa_mzMxWZ0AiJcd6inTU7XVLDE5ciHjWRKLYyXeNPkb0-tpMSAXSTaCKumc&fref=nf)**
 

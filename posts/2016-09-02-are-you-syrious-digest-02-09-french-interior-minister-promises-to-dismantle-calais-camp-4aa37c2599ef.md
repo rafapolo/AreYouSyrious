@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: Protests in Thessaloniki over delays in the asylum procedure. Finland has relocated 38 out of a total of 42 unaccompanied minors so far…
 image:
-  path: assets/4aa37c2599ef/0*fPja-LWo7h-6xjwg.
+  path: ../assets/4aa37c2599ef/0*fPja-LWo7h-6xjwg.
 ---
 
 ### Are You Syrious Digest 02/09 — French Interior Minister promises to dismantle Calais camp
@@ -15,7 +15,7 @@ image:
 _Protests in Thessaloniki over delays in the asylum procedure\. Finland has relocated 38 out of a total of 42 unaccompanied minors so far\. Bulgarian government looking to set up closed refugee camps\._
 
 
-![Friends at the Vasilika camp\. Photo by Hassan Alhomse](assets/4aa37c2599ef/0*fPja-LWo7h-6xjwg.)
+![Friends at the Vasilika camp\. Photo by Hassan Alhomse](../assets/4aa37c2599ef/0*fPja-LWo7h-6xjwg.)
 
 Friends at the Vasilika camp\. Photo by Hassan Alhomse
 #### Greece
@@ -27,12 +27,12 @@ One speedboat dropped off 20 people \(ten men, five women, four children and one
 A group of refugees held a protest in Thessaloniki, demanding open borders and expressing their frustration with delays in the asylum processing system and the relocation procedure\.
 
 
-![Photo by refugees\.tv](assets/4aa37c2599ef/0*JhJrayowx9BUKdQ0.)
+![Photo by refugees\.tv](../assets/4aa37c2599ef/0*JhJrayowx9BUKdQ0.)
 
 Photo by refugees\.tv
 
 
-![Photo: [Through Refugees Eyes](https://www.facebook.com/throughrefugeeeyes/) \.](assets/4aa37c2599ef/0*KracOHnEPfFkpWYP.)
+![Photo: [Through Refugees Eyes](https://www.facebook.com/throughrefugeeeyes/) \.](../assets/4aa37c2599ef/0*KracOHnEPfFkpWYP.)
 
 Photo: [Through Refugees Eyes](https://www.facebook.com/throughrefugeeeyes/) \.
 
@@ -43,7 +43,7 @@ According to Ekathimerini, authorities have also noted a rise in the number of r
 The new weekly issue of “Rumours” by Newsthatmoves is out\. [The information is also available in Greek, Farsi and Arabic\.](https://drive.google.com/drive/folders/0B-_rJ_0o5IZIR2VXMDRJQjJGYVU)
 
 
-![](assets/4aa37c2599ef/0*6cn8aGPrmgMksg_e.jpg)
+![](../assets/4aa37c2599ef/0*6cn8aGPrmgMksg_e.jpg)
 
 ### Winter is coming at Alexandreia camp
 

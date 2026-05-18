@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,bosnia,deportations]
 description: Winter On Its Way to Moria 2.0//Bulgarian Company Helps People on the Move Find Work in AI//More Arrivals in Lampedusa///& More
 image:
-  path: assets/915e0f2865c/0*UxoUbI1aMbUfRkTS
+  path: ../assets/915e0f2865c/0*UxoUbI1aMbUfRkTS
 ---
 
 ### AYS Daily Digest 06/11/2020 —Bosnia & Herzegovina Signs Repatriation Agreement With Pakistan
 #### Winter On Its Way to Moria 2\.0//Bulgarian Company Helps People on the Move Find Work in AI//More Arrivals in Lampedusa///& More
 
 
-![The line to exit Moria\. Source: [Moria 2 Refugees](https://twitter.com/moria2_gr/status/1324809164539965440) on Twitter](assets/915e0f2865c/0*UxoUbI1aMbUfRkTS)
+![The line to exit Moria\. Source: [Moria 2 Refugees](https://twitter.com/moria2_gr/status/1324809164539965440) on Twitter](../assets/915e0f2865c/0*UxoUbI1aMbUfRkTS)
 
 The line to exit Moria\. Source: [Moria 2 Refugees](https://twitter.com/moria2_gr/status/1324809164539965440) on Twitter
 #### FEATURE

@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,italy,greece,digest,eu]
 description: Kurds in Northern Syria determined with “human shield” // proof of “rescued” people by LCG being tortured by LCG // 1071 people dead from…
 image:
-  path: assets/c8a9b0984926/1*a4DfwknVX8K8O7QsCllt6A.jpeg
+  path: ../assets/c8a9b0984926/1*a4DfwknVX8K8O7QsCllt6A.jpeg
 ---
 
 ### AYS Daily Digest 08/10/19 Still no disembarkation plan after Interior Ministers’ Tuesday meeting
@@ -74,7 +74,7 @@ For more comprehensive analyses, please look [here](https://www.truthdig.com/art
 ### Turkey
 
 
-![“Yesterday **a boat with 12 people went down** west of Karaada island, Cesme, Turkey\. They managed to send out a distress message, and Turkish Coast Guard was immediately alerted\. Turkish Coast Guard sent out a helicopter and several vessels, and was able to locate 11 people, 4 children and 7 adults\. One person, the smugler who was the driver of the boat has not been found, and it’s believed that he managed to get to shore by himself\. This could have gone terribly wrong\. **Information was received in time, and was forwarded to TCG** \. Without this information they most likely would have picked up lifeless bodies from the sea\.” Photo by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/666371437219297)](assets/c8a9b0984926/1*hg8xppes_v-u1EZWnYNvZg.jpeg)
+![“Yesterday **a boat with 12 people went down** west of Karaada island, Cesme, Turkey\. They managed to send out a distress message, and Turkish Coast Guard was immediately alerted\. Turkish Coast Guard sent out a helicopter and several vessels, and was able to locate 11 people, 4 children and 7 adults\. One person, the smugler who was the driver of the boat has not been found, and it’s believed that he managed to get to shore by himself\. This could have gone terribly wrong\. **Information was received in time, and was forwarded to TCG** \. Without this information they most likely would have picked up lifeless bodies from the sea\.” Photo by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/666371437219297)](../assets/c8a9b0984926/1*hg8xppes_v-u1EZWnYNvZg.jpeg)
 
 “Yesterday **a boat with 12 people went down** west of Karaada island, Cesme, Turkey\. They managed to send out a distress message, and Turkish Coast Guard was immediately alerted\. Turkish Coast Guard sent out a helicopter and several vessels, and was able to locate 11 people, 4 children and 7 adults\. One person, the smugler who was the driver of the boat has not been found, and it’s believed that he managed to get to shore by himself\. This could have gone terribly wrong\. **Information was received in time, and was forwarded to TCG** \. Without this information they most likely would have picked up lifeless bodies from the sea\.” Photo by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/666371437219297)
 ### Libya
@@ -110,7 +110,7 @@ People have tried many means of getting UNHCR’s attention in order to have the
 New evidence of torture in Libyan detention centre Zawiyah, outside Tripoli:
 
 
-![Photo by sources at the detention centre, provided by [Anette Kjær Jørgensen](https://www.facebook.com/anettesaw?__tn__=%2Cd%2AF%2AF-R&eid=ARCd-q5ymCHubFFaUg_YHa6ZDUvF0zx7kOLBq9ubSJdPD8StsSng7oy3tOjthsVGgiuhFgDG8s1XtRjz&tn-str=%2AF)](assets/c8a9b0984926/1*1Cx5Em1nSnBBIQVknXkaLA.jpeg)
+![Photo by sources at the detention centre, provided by [Anette Kjær Jørgensen](https://www.facebook.com/anettesaw?__tn__=%2Cd%2AF%2AF-R&eid=ARCd-q5ymCHubFFaUg_YHa6ZDUvF0zx7kOLBq9ubSJdPD8StsSng7oy3tOjthsVGgiuhFgDG8s1XtRjz&tn-str=%2AF)](../assets/c8a9b0984926/1*1Cx5Em1nSnBBIQVknXkaLA.jpeg)
 
 Photo by sources at the detention centre, provided by [Anette Kjær Jørgensen](https://www.facebook.com/anettesaw?__tn__=%2Cd%2AF%2AF-R&eid=ARCd-q5ymCHubFFaUg_YHa6ZDUvF0zx7kOLBq9ubSJdPD8StsSng7oy3tOjthsVGgiuhFgDG8s1XtRjz&tn-str=%2AF)
 
@@ -242,24 +242,24 @@ Fourth and fifth boats were taken to port Chios → 38 people \(16 children, 7 w
 Aftermath of Lampedusa shipwreck:
 
 
-![](assets/c8a9b0984926/1*YhTv64PRl69aFit3UQ1A-w.jpeg)
+![](../assets/c8a9b0984926/1*YhTv64PRl69aFit3UQ1A-w.jpeg)
 
 
 
-![“The ‘number 6’ coffin contains the youngest of 12 years\. From 1 to 13, young women\. Among the 17 missing an 8\-month\-old child out of hand to a survivor and a young man who had just warmed up with his jacket a survivor \# shipwreck \# Lampedusa \# Migrant\.” Photos by [Angela Caponnetto](https://twitter.com/AngiKappa/status/1181696029986562049?fbclid=IwAR06_EkYEee-MqZhUrN--8dYf6PjB6aweutysEdbpziUofPG4lzq6qn_0Nw)](assets/c8a9b0984926/1*a4DfwknVX8K8O7QsCllt6A.jpeg)
+![“The ‘number 6’ coffin contains the youngest of 12 years\. From 1 to 13, young women\. Among the 17 missing an 8\-month\-old child out of hand to a survivor and a young man who had just warmed up with his jacket a survivor \# shipwreck \# Lampedusa \# Migrant\.” Photos by [Angela Caponnetto](https://twitter.com/AngiKappa/status/1181696029986562049?fbclid=IwAR06_EkYEee-MqZhUrN--8dYf6PjB6aweutysEdbpziUofPG4lzq6qn_0Nw)](../assets/c8a9b0984926/1*a4DfwknVX8K8O7QsCllt6A.jpeg)
 
 “The ‘number 6’ coffin contains the youngest of 12 years\. From 1 to 13, young women\. Among the 17 missing an 8\-month\-old child out of hand to a survivor and a young man who had just warmed up with his jacket a survivor \# shipwreck \# Lampedusa \# Migrant\.” Photos by [Angela Caponnetto](https://twitter.com/AngiKappa/status/1181696029986562049?fbclid=IwAR06_EkYEee-MqZhUrN--8dYf6PjB6aweutysEdbpziUofPG4lzq6qn_0Nw)
 
 On Thursday the the Cold Emergency Center in Via Bongioanni, managed by the Red Cross, will reopen\. They will have 6 additional places just for women\. The total number of beds is around 40 and people will have the chance to shower and have a small breakfast\. Find out more [here](https://www.lastampa.it/cuneo/2019/10/08/news/il-sottopasso-al-movicentro-di-cuneo-sara-chiuso-con-cancelli-1.37711636?fbclid=IwAR3bgPlqjNjCdK_WmUVWucBByG8nt6zcE7blDH8cnUzQSAOZzjRDPbnqd3U) \.
 
 
-![“The crew of [Iuventa10](https://www.facebook.com/iuventa10/?__tn__=K-R&eid=ARDIof06Kx4VgKYOb4mol_oFT6XkQnxGwwsogbJ5Ojpu2hWmXgsmr86Y5z6l1YKlqO5VOrBelX1em7Re&fref=mentions&__xts__%5B0%5D=68.ARD9qAm8N-0ARPvYiqZ-DeCM09PTyvvg_1cMkFNMLvegMPuG84uBY4PwbDhAyyCNW0bWU0EuGUCdDG691WMowsJ9e4LJIyhxA5qyjLHrgnaDjd3gStkSkWXET_p4tdZgYPC3ZvCouznnl1y9y3xR5wRhx3ef_zAESuVhDiIdDGp_g3UT8ukA0-3jd2Mclgg8rD1YKz91-kFrHDNVXT26ewo7TrrLIq32h2bmSaKebu-0TB9UccYW_mxEFmGZu8IAVQ1VV25TDbH8_KE6MEuWMypx1pNS8HcguXEjmTEbhjCqRLn6uSoSXffb8FUgeeAu0nThUESeQjf0o9qU0HHxMRekrTw7) is being persecuted for alleged „human trafficking” in Italy\. Now, they need your help: Did you or do you know anybody who crossed the Mediterranean Sea between 2016 and 2017 and got rescued by the rescue ship iuventa? If so, get in touch with them\!” More info at: [fb\.com/iuventa10](http://fb.com/iuventa10) Photo by Iuventa, message by [Watch the Med](https://www.facebook.com/watchthemed.alarmphone/posts/2471701189770776?hc_location=ufi)](assets/c8a9b0984926/1*iOjZdzbQmi7cEJA_RQ1g1w.jpeg)
+![“The crew of [Iuventa10](https://www.facebook.com/iuventa10/?__tn__=K-R&eid=ARDIof06Kx4VgKYOb4mol_oFT6XkQnxGwwsogbJ5Ojpu2hWmXgsmr86Y5z6l1YKlqO5VOrBelX1em7Re&fref=mentions&__xts__%5B0%5D=68.ARD9qAm8N-0ARPvYiqZ-DeCM09PTyvvg_1cMkFNMLvegMPuG84uBY4PwbDhAyyCNW0bWU0EuGUCdDG691WMowsJ9e4LJIyhxA5qyjLHrgnaDjd3gStkSkWXET_p4tdZgYPC3ZvCouznnl1y9y3xR5wRhx3ef_zAESuVhDiIdDGp_g3UT8ukA0-3jd2Mclgg8rD1YKz91-kFrHDNVXT26ewo7TrrLIq32h2bmSaKebu-0TB9UccYW_mxEFmGZu8IAVQ1VV25TDbH8_KE6MEuWMypx1pNS8HcguXEjmTEbhjCqRLn6uSoSXffb8FUgeeAu0nThUESeQjf0o9qU0HHxMRekrTw7) is being persecuted for alleged „human trafficking” in Italy\. Now, they need your help: Did you or do you know anybody who crossed the Mediterranean Sea between 2016 and 2017 and got rescued by the rescue ship iuventa? If so, get in touch with them\!” More info at: [fb\.com/iuventa10](http://fb.com/iuventa10) Photo by Iuventa, message by [Watch the Med](https://www.facebook.com/watchthemed.alarmphone/posts/2471701189770776?hc_location=ufi)](../assets/c8a9b0984926/1*iOjZdzbQmi7cEJA_RQ1g1w.jpeg)
 
 “The crew of [Iuventa10](https://www.facebook.com/iuventa10/?__tn__=K-R&eid=ARDIof06Kx4VgKYOb4mol_oFT6XkQnxGwwsogbJ5Ojpu2hWmXgsmr86Y5z6l1YKlqO5VOrBelX1em7Re&fref=mentions&__xts__%5B0%5D=68.ARD9qAm8N-0ARPvYiqZ-DeCM09PTyvvg_1cMkFNMLvegMPuG84uBY4PwbDhAyyCNW0bWU0EuGUCdDG691WMowsJ9e4LJIyhxA5qyjLHrgnaDjd3gStkSkWXET_p4tdZgYPC3ZvCouznnl1y9y3xR5wRhx3ef_zAESuVhDiIdDGp_g3UT8ukA0-3jd2Mclgg8rD1YKz91-kFrHDNVXT26ewo7TrrLIq32h2bmSaKebu-0TB9UccYW_mxEFmGZu8IAVQ1VV25TDbH8_KE6MEuWMypx1pNS8HcguXEjmTEbhjCqRLn6uSoSXffb8FUgeeAu0nThUESeQjf0o9qU0HHxMRekrTw7) is being persecuted for alleged „human trafficking” in Italy\. Now, they need your help: Did you or do you know anybody who crossed the Mediterranean Sea between 2016 and 2017 and got rescued by the rescue ship iuventa? If so, get in touch with them\!” More info at: [fb\.com/iuventa10](http://fb.com/iuventa10) Photo by Iuventa, message by [Watch the Med](https://www.facebook.com/watchthemed.alarmphone/posts/2471701189770776?hc_location=ufi)
 ### Bosnia and Herzegovina
 
 
-![**Heartbreaking** “ A little, 6\-years old girl came alone without parents to Tuzla today\. Police stopped parents at the border and sent them back to Serbia…without her\. She came to Tuzla with a fever , scared and confused\. Authorities took care of her today and IOM is informed\!” Photo by [Selma Dzafic](https://www.facebook.com/photo.php?fbid=10219710242323336&set=gm.2577996682259917&type=3&theater) ‎](assets/c8a9b0984926/1*iosN2l8LuBiQ69Iv6Si-dg.jpeg)
+![**Heartbreaking** “ A little, 6\-years old girl came alone without parents to Tuzla today\. Police stopped parents at the border and sent them back to Serbia…without her\. She came to Tuzla with a fever , scared and confused\. Authorities took care of her today and IOM is informed\!” Photo by [Selma Dzafic](https://www.facebook.com/photo.php?fbid=10219710242323336&set=gm.2577996682259917&type=3&theater) ‎](../assets/c8a9b0984926/1*iosN2l8LuBiQ69Iv6Si-dg.jpeg)
 
 **Heartbreaking** “ A little, 6\-years old girl came alone without parents to Tuzla today\. Police stopped parents at the border and sent them back to Serbia…without her\. She came to Tuzla with a fever , scared and confused\. Authorities took care of her today and IOM is informed\!” Photo by [Selma Dzafic](https://www.facebook.com/photo.php?fbid=10219710242323336&set=gm.2577996682259917&type=3&theater) ‎
 ### France

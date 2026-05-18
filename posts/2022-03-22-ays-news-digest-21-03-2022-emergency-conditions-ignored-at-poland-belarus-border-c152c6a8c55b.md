@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest: 21/03/2022 Emergency conditions ignored at Poland-Belarus Border
+title: "AYS News Digest: 21/03/2022 Emergency conditions ignored at Poland-Belarus Border"
 author: Are You Syrious?
 date: 2022-03-22T17:21:46.606+0000
 last_modified_at: 2022-03-22T17:21:46.606+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [diget,newsdigest,europeanunion,refugees]
 description: Norwegian photographer arrested in Greece // Illegal Prison Conditions in Lithuania // Housing Crisis for Refugees arriving in Germany //…
 image:
-  path: assets/c152c6a8c55b/0*utj0IasbGpuGwwzR
+  path: ../assets/c152c6a8c55b/0*utj0IasbGpuGwwzR
 ---
 
 ### **AYS News Digest: 21/03/2022 Emergency conditions ignored at Poland\-Belarus Border**
@@ -17,7 +17,7 @@ Norwegian photographer arrested in Greece // Illegal Prison Conditions in Lithua
 ### Emergency conditions ignored at Poland\-Belarus Border
 
 
-![Photo Credit: Poland\-Belarus Border, [Salam Lab](https://www.facebook.com/SalamLabPL/posts/2715527198756415)](assets/c152c6a8c55b/0*utj0IasbGpuGwwzR)
+![Photo Credit: Poland\-Belarus Border, [Salam Lab](https://www.facebook.com/SalamLabPL/posts/2715527198756415)](../assets/c152c6a8c55b/0*utj0IasbGpuGwwzR)
 
 Photo Credit: Poland\-Belarus Border, [Salam Lab](https://www.facebook.com/SalamLabPL/posts/2715527198756415)
 
@@ -58,7 +58,7 @@ At least [25 people have died](https://twitter.com/SOSMedIntl/status/15059706402
 #### LITHUANIA
 
 
-![Photo Credit: [Ewa Wołkanowska\-Kołodziej](https://www.facebook.com/ewa.wolkanowska/posts/10161747414853574)](assets/c152c6a8c55b/0*gUHs67QiCfloAuvs)
+![Photo Credit: [Ewa Wołkanowska\-Kołodziej](https://www.facebook.com/ewa.wolkanowska/posts/10161747414853574)](../assets/c152c6a8c55b/0*gUHs67QiCfloAuvs)
 
 Photo Credit: [Ewa Wołkanowska\-Kołodziej](https://www.facebook.com/ewa.wolkanowska/posts/10161747414853574)
 #### Illegal prison conditions
@@ -92,7 +92,7 @@ Meanwhile, a [2 million Euro project](https://migration.gov.gr/en/xekina-i-nea-t
 The decision to restart assessing these claims came after talks about increased aid took place between German interior minister Nancy Faeser and Greek Migration Minister Notis Mitarakis\. It’s yet to be seen if the proposed aid would result in conditions approved by the German court\.
 
 
-![[Call to action: Protest in Berlin](https://twitter.com/Abschiebez_BER/status/1504927721327058951?fbclid=IwAR0StnvUUt0Q0xrHvSUeh8-aP1loJWkyDENVGLlXzqZVXzIjrupp3Ra_bIk)](assets/c152c6a8c55b/0*6yfGkxMu0glJTwxK)
+![[Call to action: Protest in Berlin](https://twitter.com/Abschiebez_BER/status/1504927721327058951?fbclid=IwAR0StnvUUt0Q0xrHvSUeh8-aP1loJWkyDENVGLlXzqZVXzIjrupp3Ra_bIk)](../assets/c152c6a8c55b/0*6yfGkxMu0glJTwxK)
 
 [Call to action: Protest in Berlin](https://twitter.com/Abschiebez_BER/status/1504927721327058951?fbclid=IwAR0StnvUUt0Q0xrHvSUeh8-aP1loJWkyDENVGLlXzqZVXzIjrupp3Ra_bIk)
 
@@ -103,7 +103,7 @@ Former Mayor of Riace, Mimmo Lucano, was sentenced to up to 13 years in prison i
 #### UNITED KINGDOM
 
 
-![Photo Credit: [The UK Government Housing Scheme](https://homesforukraine.campaign.gov.uk/)](assets/c152c6a8c55b/0*IsUneTrOI13RmKoO)
+![Photo Credit: [The UK Government Housing Scheme](https://homesforukraine.campaign.gov.uk/)](../assets/c152c6a8c55b/0*IsUneTrOI13RmKoO)
 
 Photo Credit: [The UK Government Housing Scheme](https://homesforukraine.campaign.gov.uk/)
 #### Homes for Ukraine, but no\-one else

@@ -1,5 +1,5 @@
 ---
-title: AYS Special from Greece: Immediate Search and Rescue of Civilians Needed Now
+title: "AYS Special from Greece: Immediate Search and Rescue of Civilians Needed Now"
 author: Are You Syrious?
 date: 2022-07-11T19:42:59.826+0100
 last_modified_at: 2022-07-11T20:55:04.086+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [special,refugees,chios,somalia,pushback]
 description: In most functioning democracies search and rescue within the territory does not require the intervention of the national ombudsman.
 image:
-  path: assets/84cab804c0a2/1*qfcQhYXduP-Mit7DG0DrNA.jpeg
+  path: ../assets/84cab804c0a2/1*qfcQhYXduP-Mit7DG0DrNA.jpeg
 ---
 
 ### AYS Special from Greece: Immediate Search and Rescue of Civilians Needed Now
 #### In most functioning democracies search and rescue within the territory of the country does not require the intervention of the national ombudsman, but Greece is no ordinary country\. After the distressing discovery of [a Somali woman who had died from hunger and thirst on the 8th of July](https://astraparis.gr/pethainoyn-avoithitoi-sta-voyna-tis-chioy-prosfyges-kai-metanastes/?fbclid=IwAR3TDNve3KEE9nHR15zdbWlloiXMWDZFf-qD-4588WCPe7S_g_Q2rVYy2_s) two more women from Somalia are also missing\.
 
 
-![\(message sent from friends of the missing girls\)](assets/84cab804c0a2/1*qfcQhYXduP-Mit7DG0DrNA.jpeg)
+![\(message sent from friends of the missing girls\)](../assets/84cab804c0a2/1*qfcQhYXduP-Mit7DG0DrNA.jpeg)
 
 \(message sent from friends of the missing girls\)
 

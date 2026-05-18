@@ -1,5 +1,5 @@
 ---
-title: AYS News 15/11: Winter is coming and bringing the new crisis for refugees in Europe
+title: "AYS News 15/11: Winter is coming and bringing the new crisis for refugees in Europe"
 author: Are You Syrious?
 date: 2016-11-15T23:58:58.594+0000
 last_modified_at: 2016-11-16T10:37:09.817+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,syrian-refugees,refugee-crisis,refugee-camps]
 description: Winter comes as another danger for refugees in Europe. Greek refugee camps are in horrible condition. Day five of March of Hope in Serbia…
 image:
-  path: assets/6e343d473a16/0*1OsZsfeFz-GURX8_.
+  path: ../assets/6e343d473a16/0*1OsZsfeFz-GURX8_.
 ---
 
 ### AYS News 15/11: Winter is coming and bringing the new crisis for refugees in Europe
@@ -19,7 +19,7 @@ image:
 
 
 
-![Credits: [**A Polaroid for a Refugee**](https://www.facebook.com/DelSartoGiovanna/)](assets/6e343d473a16/0*1OsZsfeFz-GURX8_.)
+![Credits: [**A Polaroid for a Refugee**](https://www.facebook.com/DelSartoGiovanna/)](../assets/6e343d473a16/0*1OsZsfeFz-GURX8_.)
 
 Credits: [**A Polaroid for a Refugee**](https://www.facebook.com/DelSartoGiovanna/)
 #### Greece
@@ -75,16 +75,16 @@ There have been 1055 recorded new guests only on the Aegean islands\. The total 
 ### Vasilika camp: No electricity, no heating
 
 
-![Credits: [**Eidomeni Refugee Support**](https://www.facebook.com/groups/eidomeni.refugee.support/)](assets/6e343d473a16/0*xYhwKKmXkz2376sc.jpg)
+![Credits: [**Eidomeni Refugee Support**](https://www.facebook.com/groups/eidomeni.refugee.support/)](../assets/6e343d473a16/0*xYhwKKmXkz2376sc.jpg)
 
 Credits: [**Eidomeni Refugee Support**](https://www.facebook.com/groups/eidomeni.refugee.support/)
 
 
-![](assets/6e343d473a16/1*fJCSEcrE-b3J7I_r-IzVqw.jpeg)
+![](../assets/6e343d473a16/1*fJCSEcrE-b3J7I_r-IzVqw.jpeg)
 
 
 
-![Credits: [**Eidomeni Refugee Support**](https://www.facebook.com/groups/eidomeni.refugee.support/)](assets/6e343d473a16/1*kA2Hu9HG30gPGY9B6gfOlw.jpeg)
+![Credits: [**Eidomeni Refugee Support**](https://www.facebook.com/groups/eidomeni.refugee.support/)](../assets/6e343d473a16/1*kA2Hu9HG30gPGY9B6gfOlw.jpeg)
 
 Credits: [**Eidomeni Refugee Support**](https://www.facebook.com/groups/eidomeni.refugee.support/)
 ### Samos hotels refuse to take refugees from flooded camp: Choosing tourists over refugees
@@ -103,31 +103,31 @@ Three pallets of emergency supplies arrived at Eleusina camp\. Unaccompanied min
 Meal distribution from Zaporeak kitchen\. Distributions of male and baby donations to Souda camp\. And it continues\!
 
 
-![Credits: [**Chios Eastern Shore Response Team — Info Point**](https://www.facebook.com/groups/421759534684819/)](assets/6e343d473a16/0*wQ516XNgMZqBF8hO.)
+![Credits: [**Chios Eastern Shore Response Team — Info Point**](https://www.facebook.com/groups/421759534684819/)](../assets/6e343d473a16/0*wQ516XNgMZqBF8hO.)
 
 Credits: [**Chios Eastern Shore Response Team — Info Point**](https://www.facebook.com/groups/421759534684819/)
 
 
-![Credits: [**Chios Eastern Shore Response Team — Info Point**](https://www.facebook.com/groups/421759534684819/)](assets/6e343d473a16/0*mc4NvSmonM6MyGdC.)
+![Credits: [**Chios Eastern Shore Response Team — Info Point**](https://www.facebook.com/groups/421759534684819/)](../assets/6e343d473a16/0*mc4NvSmonM6MyGdC.)
 
 Credits: [**Chios Eastern Shore Response Team — Info Point**](https://www.facebook.com/groups/421759534684819/)
 
 
-![Credits: [**Chios Eastern Shore Response Team — Info Point**](https://www.facebook.com/groups/421759534684819/)](assets/6e343d473a16/0*qt5s0sQNXmcCmxC3.)
+![Credits: [**Chios Eastern Shore Response Team — Info Point**](https://www.facebook.com/groups/421759534684819/)](../assets/6e343d473a16/0*qt5s0sQNXmcCmxC3.)
 
 Credits: [**Chios Eastern Shore Response Team — Info Point**](https://www.facebook.com/groups/421759534684819/)
 
 
-![Credits: [**Chios Eastern Shore Response Team — Info Point**](https://www.facebook.com/groups/421759534684819/)](assets/6e343d473a16/0*9yOL3-Yp0ThJdts2.)
+![Credits: [**Chios Eastern Shore Response Team — Info Point**](https://www.facebook.com/groups/421759534684819/)](../assets/6e343d473a16/0*9yOL3-Yp0ThJdts2.)
 
 Credits: [**Chios Eastern Shore Response Team — Info Point**](https://www.facebook.com/groups/421759534684819/)
 
 
-![](assets/6e343d473a16/1*hQNlL1QBSuWPCfKUCZHaow.jpeg)
+![](../assets/6e343d473a16/1*hQNlL1QBSuWPCfKUCZHaow.jpeg)
 
 
 
-![Credits: [**Chios Eastern Shore Response Team — Info Point**](https://www.facebook.com/groups/421759534684819/)](assets/6e343d473a16/1*WNG62u7Wkc9w2Rn9MPIcVw.jpeg)
+![Credits: [**Chios Eastern Shore Response Team — Info Point**](https://www.facebook.com/groups/421759534684819/)](../assets/6e343d473a16/1*WNG62u7Wkc9w2Rn9MPIcVw.jpeg)
 
 Credits: [**Chios Eastern Shore Response Team — Info Point**](https://www.facebook.com/groups/421759534684819/)
 ### Locals on Chios are demanding that two camps be shut down after a riot last week
@@ -137,7 +137,7 @@ Migration Minister Yiannis Mouzalas on Monday urged media representatives from C
 ### A field trip to the Samos seaside
 
 
-![Credits: [**Samos Volunteers**](https://www.facebook.com/samosvolunteers/)](assets/6e343d473a16/0*WRYIWyeTcq5u3Vd6.)
+![Credits: [**Samos Volunteers**](https://www.facebook.com/samosvolunteers/)](../assets/6e343d473a16/0*WRYIWyeTcq5u3Vd6.)
 
 Credits: [**Samos Volunteers**](https://www.facebook.com/samosvolunteers/)
 
@@ -155,26 +155,26 @@ Thus that volunteers can bring the 178 refugees from the tents in the abandoned 
 In addition to ensuring the needed quantities of shoes, the organzation has established a shoe shop where refugees can choose which pairof shoes they like and want\. In their words, “We believe in dignity and choice\.”
 
 
-![Shoe shop\. Credits: [**The Get Shit Done Team**](https://www.facebook.com/The-Get-Shit-Done-Team-304001796641127/)](assets/6e343d473a16/0*gZ1FvMVBXKlFxMTg.)
+![Shoe shop\. Credits: [**The Get Shit Done Team**](https://www.facebook.com/The-Get-Shit-Done-Team-304001796641127/)](../assets/6e343d473a16/0*gZ1FvMVBXKlFxMTg.)
 
 Shoe shop\. Credits: [**The Get Shit Done Team**](https://www.facebook.com/The-Get-Shit-Done-Team-304001796641127/)
 ### What is a refugee shop?
 
 
-![Credits: [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGreece/)](assets/6e343d473a16/0*-cnZs_GtL8hqLv7T.jpg)
+![Credits: [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGreece/)](../assets/6e343d473a16/0*-cnZs_GtL8hqLv7T.jpg)
 
 Credits: [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGreece/)
 
 In Alexandria Refugee Support Greece has transformed their free shop\. Instead of standard baskets the families in need of food can pick what they want or need by using a system of points\. Each family has ‘points’ they can spend relative to the size of family and every item has a ‘points’ value relative to their actual cost\. As the organization says, “It’s dignified, it’s fair, we can provide what people want and life can be a little more normal\.”
 
 
-![Credits: [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGreece/)](assets/6e343d473a16/0*xJGHaNdi-mNo9ok8.)
+![Credits: [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGreece/)](../assets/6e343d473a16/0*xJGHaNdi-mNo9ok8.)
 
 Credits: [**Refugee Support Greece**](https://www.facebook.com/RefugeeSupportGreece/)
 ### Another school for refugee children on Chios opened by volunteers
 
 
-![Credits: [**BE AWARE AND SHARE \(Humanitarian Aid Organisation\)**](https://www.facebook.com/groups/1159112204116287/)](assets/6e343d473a16/0*PKwmqbVc-mcxaskK.jpg)
+![Credits: [**BE AWARE AND SHARE \(Humanitarian Aid Organisation\)**](https://www.facebook.com/groups/1159112204116287/)](../assets/6e343d473a16/0*PKwmqbVc-mcxaskK.jpg)
 
 Credits: [**BE AWARE AND SHARE \(Humanitarian Aid Organisation\)**](https://www.facebook.com/groups/1159112204116287/)
 
@@ -188,32 +188,32 @@ IBAN: CH 42 0077 0253 8101 3200 1
 BIC: BKBBCHBBXXX
 
 
-![Credits: [**BE AWARE AND SHARE \(Humanitarian Aid Organisation\)**](https://www.facebook.com/groups/1159112204116287/)](assets/6e343d473a16/0*kqjqxp6jq_Em5k3B.jpg)
+![Credits: [**BE AWARE AND SHARE \(Humanitarian Aid Organisation\)**](https://www.facebook.com/groups/1159112204116287/)](../assets/6e343d473a16/0*kqjqxp6jq_Em5k3B.jpg)
 
 Credits: [**BE AWARE AND SHARE \(Humanitarian Aid Organisation\)**](https://www.facebook.com/groups/1159112204116287/)
 
 
-![Credits: [**BE AWARE AND SHARE \(Humanitarian Aid Organisation\)**](https://www.facebook.com/groups/1159112204116287/)](assets/6e343d473a16/0*Ifz86LP0YOwlvsl0.jpg)
+![Credits: [**BE AWARE AND SHARE \(Humanitarian Aid Organisation\)**](https://www.facebook.com/groups/1159112204116287/)](../assets/6e343d473a16/0*Ifz86LP0YOwlvsl0.jpg)
 
 Credits: [**BE AWARE AND SHARE \(Humanitarian Aid Organisation\)**](https://www.facebook.com/groups/1159112204116287/)
 
 
-![Credits: [**BE AWARE AND SHARE \(Humanitarian Aid Organisation\)**](https://www.facebook.com/groups/1159112204116287/)](assets/6e343d473a16/0*vRcG6v8SXYKcaZl1.jpg)
+![Credits: [**BE AWARE AND SHARE \(Humanitarian Aid Organisation\)**](https://www.facebook.com/groups/1159112204116287/)](../assets/6e343d473a16/0*vRcG6v8SXYKcaZl1.jpg)
 
 Credits: [**BE AWARE AND SHARE \(Humanitarian Aid Organisation\)**](https://www.facebook.com/groups/1159112204116287/)
 
 
-![Credits: [**BE AWARE AND SHARE \(Humanitarian Aid Organisation\)**](https://www.facebook.com/groups/1159112204116287/)](assets/6e343d473a16/0*-Nylk9yzuGLltcbj.jpg)
+![Credits: [**BE AWARE AND SHARE \(Humanitarian Aid Organisation\)**](https://www.facebook.com/groups/1159112204116287/)](../assets/6e343d473a16/0*-Nylk9yzuGLltcbj.jpg)
 
 Credits: [**BE AWARE AND SHARE \(Humanitarian Aid Organisation\)**](https://www.facebook.com/groups/1159112204116287/)
 
 
-![Credits: [**BE AWARE AND SHARE \(Humanitarian Aid Organisation\)**](https://www.facebook.com/groups/1159112204116287/)](assets/6e343d473a16/0*TkkCj_GrxyT6jd3Q.jpg)
+![Credits: [**BE AWARE AND SHARE \(Humanitarian Aid Organisation\)**](https://www.facebook.com/groups/1159112204116287/)](../assets/6e343d473a16/0*TkkCj_GrxyT6jd3Q.jpg)
 
 Credits: [**BE AWARE AND SHARE \(Humanitarian Aid Organisation\)**](https://www.facebook.com/groups/1159112204116287/)
 
 
-![Credits: [**BE AWARE AND SHARE \(Humanitarian Aid Organisation\)**](https://www.facebook.com/groups/1159112204116287/)](assets/6e343d473a16/0*zsEVLlmMoHpMqzgV.jpg)
+![Credits: [**BE AWARE AND SHARE \(Humanitarian Aid Organisation\)**](https://www.facebook.com/groups/1159112204116287/)](../assets/6e343d473a16/0*zsEVLlmMoHpMqzgV.jpg)
 
 Credits: [**BE AWARE AND SHARE \(Humanitarian Aid Organisation\)**](https://www.facebook.com/groups/1159112204116287/)
 ### A polaroid for a refugee
@@ -221,17 +221,17 @@ Credits: [**BE AWARE AND SHARE \(Humanitarian Aid Organisation\)**](https://www.
 Receive a hand embroidered polaroid reproduction postcards by donating 25 euro to The Athena Centre for Women in Chios\! It’s their latest artistic project for the refugee women coming to the centre to get a moment away from the crisis\. \(More info about the centre via [Action from Switzerland](https://actionfromswitzerland.ch/blog/) \) \.
 
 
-![Credits: [**A Polaroid for a Refugee**](https://www.facebook.com/DelSartoGiovanna/)](assets/6e343d473a16/0*--S12bpa_WPdMERK.)
+![Credits: [**A Polaroid for a Refugee**](https://www.facebook.com/DelSartoGiovanna/)](../assets/6e343d473a16/0*--S12bpa_WPdMERK.)
 
 Credits: [**A Polaroid for a Refugee**](https://www.facebook.com/DelSartoGiovanna/)
 
 
-![Credits: [**A Polaroid for a Refugee**](https://www.facebook.com/DelSartoGiovanna/)](assets/6e343d473a16/0*GgFz8DojIq1DWvcA.)
+![Credits: [**A Polaroid for a Refugee**](https://www.facebook.com/DelSartoGiovanna/)](../assets/6e343d473a16/0*GgFz8DojIq1DWvcA.)
 
 Credits: [**A Polaroid for a Refugee**](https://www.facebook.com/DelSartoGiovanna/)
 
 
-![Credits: [**A Polaroid for a Refugee**](https://www.facebook.com/DelSartoGiovanna/)](assets/6e343d473a16/0*SQDdenxgBLbLzW1k.)
+![Credits: [**A Polaroid for a Refugee**](https://www.facebook.com/DelSartoGiovanna/)](../assets/6e343d473a16/0*SQDdenxgBLbLzW1k.)
 
 Credits: [**A Polaroid for a Refugee**](https://www.facebook.com/DelSartoGiovanna/)
 ### Tent to Home campaign
@@ -243,7 +243,7 @@ Credits: [**A Polaroid for a Refugee**](https://www.facebook.com/DelSartoGiovann
 ### Numbers
 
 
-![Credits: UNHCR Serbia](assets/6e343d473a16/0*FMpkdpQS6g5p7zH4.jpg)
+![Credits: UNHCR Serbia](../assets/6e343d473a16/0*FMpkdpQS6g5p7zH4.jpg)
 
 Credits: UNHCR Serbia
 
@@ -263,7 +263,7 @@ mainly families from Afghanistan\.
 ### Refugees learning Serbian alphabet
 
 
-[![Izbeglice uče azbuku - Refugees are learning Serbian Alphabet](assets/6e343d473a16/8ee0_hqdefault.jpg "Izbeglice uče azbuku - Refugees are learning Serbian Alphabet")](http://www.youtube.com/watch?v=OhOSUmKFJvs)
+[![Izbeglice uče azbuku - Refugees are learning Serbian Alphabet](../assets/6e343d473a16/8ee0_hqdefault.jpg "Izbeglice uče azbuku - Refugees are learning Serbian Alphabet")](http://www.youtube.com/watch?v=OhOSUmKFJvs)
 
 #### Serbia\-Croatia
 ### Day five of the March Of Hope
@@ -320,7 +320,7 @@ A European Union plan calls for relocating 160,000 asylum\-seekers by September 
 At least 6 people dead after boat sank off coast of Libya yesterday\. Aquarius rescued 112 people and recovered 5 bodies\.
 
 
-![A refugee praying after being saved at sea by MSF\.](assets/6e343d473a16/0*k3fPKbbknpl7vrHt.jpg)
+![A refugee praying after being saved at sea by MSF\.](../assets/6e343d473a16/0*k3fPKbbknpl7vrHt.jpg)
 
 A refugee praying after being saved at sea by MSF\.
 #### Iraq
@@ -328,7 +328,7 @@ A refugee praying after being saved at sea by MSF\.
 The sun sets on Hasansham camp which reached capacity in just 4 days\. The camp now houses more than 10,000 people\.
 
 
-![Credits: UNHCR](assets/6e343d473a16/0*l-MxovLYucL3MqL2.jpg)
+![Credits: UNHCR](../assets/6e343d473a16/0*l-MxovLYucL3MqL2.jpg)
 
 Credits: UNHCR
 

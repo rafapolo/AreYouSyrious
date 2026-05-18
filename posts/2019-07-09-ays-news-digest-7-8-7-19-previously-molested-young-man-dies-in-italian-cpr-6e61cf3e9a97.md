@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 7-8/7/19: Previously molested young man dies in Italian CPR
+title: "AYS News Digest 7-8/7/19: Previously molested young man dies in Italian CPR"
 author: Are You Syrious?
 date: 2019-07-09T09:48:48.117+0100
 last_modified_at: 2019-07-09T11:05:50.673+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,italy,bosnia]
 description: Hunger, despair and violence that goes unreported in the detention centres of Italy / Still no organized official assistance to the people…
 image:
-  path: assets/6e61cf3e9a97/1*QMMFpKViEoEhS0xlpeKcUw.jpeg
+  path: ../assets/6e61cf3e9a97/1*QMMFpKViEoEhS0xlpeKcUw.jpeg
 ---
 
 ### AYS News Digest 7\-8/7/19: Abused young man dies in Italian CPR
 #### Hunger, despair and violence that goes unreported in the detention centres of Italy / Still no organized official assistance to the people outside the ‘system’ in Bosnian towns along the ‘route’ / Six boats arrived on the Greek Islands / two boys collapsed after two days on the Alan Kurdi off Malta
 
 
-![A night at the bus station in Tuzla \(Photo: Senad Cupo\)](assets/6e61cf3e9a97/1*QMMFpKViEoEhS0xlpeKcUw.jpeg)
+![A night at the bus station in Tuzla \(Photo: Senad Cupo\)](../assets/6e61cf3e9a97/1*QMMFpKViEoEhS0xlpeKcUw.jpeg)
 
 A night at the bus station in Tuzla \(Photo: Senad Cupo\)
 #### FEATURED
@@ -26,7 +26,7 @@ A young man died in the night between July 7 and 8 in one of the isolation cells
 The police claims they have not received any emails or other types of information that there might have been an attack or a rape within the facilities, but an email dating from June 25 confirms otherwise\.
 
 
-![email screenshot obtained from fanpage\.it](assets/6e61cf3e9a97/0*rlLWUOsNj-_neR-D.jpg)
+![email screenshot obtained from fanpage\.it](../assets/6e61cf3e9a97/0*rlLWUOsNj-_neR-D.jpg)
 
 email screenshot obtained from fanpage\.it
 
@@ -45,18 +45,18 @@ Depriving people of their basic right to move, without previous legal grounds fo
 Bosnia and Herzegovina keeps witnessing a dramatic increase in the number of people entering the country\. A large number of people, after crossing from Serbia, arrive in Tuzla with severe health problems, injuries and infections\. Many have infectious diseases, and are still only assisted by volunteers, individuals from the town who are willing to help in any way needed\. A few of them are medical staff, and they tirelessly try to provide basic assistance to the injured and those suffering from various illnesses\.
 
 
-![](assets/6e61cf3e9a97/1*t641zSrwZmOIW3px2yBL6A.jpeg)
+![](../assets/6e61cf3e9a97/1*t641zSrwZmOIW3px2yBL6A.jpeg)
 
 
 
-![Photos from the station in Tuzla by Senad Cupo](assets/6e61cf3e9a97/1*prufYim55XgLwyxzYdV32w.jpeg)
+![Photos from the station in Tuzla by Senad Cupo](../assets/6e61cf3e9a97/1*prufYim55XgLwyxzYdV32w.jpeg)
 
 Photos from the station in Tuzla by Senad Cupo
 
 Many are still staying in and around the bus station, in the parks and other public spaces, while they are still allowed to do so\.
 
 
-![](assets/6e61cf3e9a97/1*rBlz6ElHVYDMCSIx4jXHbw.jpeg)
+![](../assets/6e61cf3e9a97/1*rBlz6ElHVYDMCSIx4jXHbw.jpeg)
 
 
 The politicians, dreading the scenario they have seen in Bihać, refuse to provide even the basic structures for these people, such as a toilet, not to mention showers, a provisional clinic, a place for people to rest, etc\. According to the statements of the mayor, the place would slowly but surely become ‘the next Bihać’\. In the meantime, those who do not succeed in reaching the Una\-Sana canton within two weeks of having their documents issued in Tuzla are being arrested and placed in police custody\. However, given the dreadful situation in the city, in some instances, arrest by the police ironically presents the only option for them to have a roof over their heads, though the entire situation is bizarre, to say the least\. The federal government still has not taken full responsibility in assessing the situation and concretely stepping up to do something\.
@@ -72,11 +72,11 @@ If the people manage to leave Tuzla on one of the bus lines going towards the Un
 Being forbidden to put up any structures for people to hide from the sun and the rain, the volunteers provide some food and basic medical assistance, along with assessing the age of minors and establishing contact with the officially responsible organisations and institutions for placing unaccompanied minors in a supposedly more secure environment, so\-called sectors for minors within a few of the existing camps in the region\.
 
 
-![](assets/6e61cf3e9a97/1*tZlyjcarsopyrVtxgVF9og.jpeg)
+![](../assets/6e61cf3e9a97/1*tZlyjcarsopyrVtxgVF9og.jpeg)
 
 
 
-![Photo: local Red Cross volunteers in Ključ](assets/6e61cf3e9a97/1*_QVZo7HQAJECE2uoK0ycSQ.jpeg)
+![Photo: local Red Cross volunteers in Ključ](../assets/6e61cf3e9a97/1*_QVZo7HQAJECE2uoK0ycSQ.jpeg)
 
 Photo: local Red Cross volunteers in Ključ
 
@@ -85,7 +85,7 @@ They have no toilets \(or showers\) and this, along with the other conditions in
 If anyone has the means or the influence to move something in the right places, now is the time to do so\.
 
 
-![](assets/6e61cf3e9a97/1*Cet-nGJsbfb6aXmaqBcE1A.jpeg)
+![](../assets/6e61cf3e9a97/1*Cet-nGJsbfb6aXmaqBcE1A.jpeg)
 
 #### GREECE
 ### Weather warning
@@ -95,13 +95,13 @@ If anyone has the means or the influence to move something in the right places, 
 Temperature increases further on Monday, July 8, as one more heat wave strikes Greece\. According to the weather forecast, the new heat wave will push the thermometer up to 42 and even 43 degrees Celsius locally in the next couple of days\.
 
 
-![](assets/6e61cf3e9a97/1*nTTuTOUFu7z7u9kKDDLInw.png)
+![](../assets/6e61cf3e9a97/1*nTTuTOUFu7z7u9kKDDLInw.png)
 
 
 6 boats have arrived on the Greek Aegean Islands during Sunday, carrying 186 people, four boats on Lesvos and two on Chios\.
 
 
-![](assets/6e61cf3e9a97/1*8c4xGAKeS-QHa38YXU9ErQ.png)
+![](../assets/6e61cf3e9a97/1*8c4xGAKeS-QHa38YXU9ErQ.png)
 
 ### Attika Human Support’s Weekly report 30th June — 6th July
 

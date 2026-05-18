@@ -1,5 +1,5 @@
 ---
-title: AYS Slovenia Special: Protest breaks out in detention centre Postojna a week after court decision…
+title: "AYS Slovenia Special: Protest breaks out in detention centre Postojna a week after court decision…"
 author: Are You Syrious?
 date: 2020-08-04T12:14:12.785+0100
 last_modified_at: 2020-08-05T07:34:09.759+0100
@@ -7,17 +7,17 @@ categories: Are You Syrious?
 tags: [special,refugees,slovenia,protest,detention-centre]
 description: The detention centre in Postojna (Centre za tujce), Slovenia, is a prison-like institution used for detaining foreigners who are, for…
 image:
-  path: assets/e86065481fcb/1*s4BTl8TXqtcfsrLHNT0lIg.png
+  path: ../assets/e86065481fcb/1*s4BTl8TXqtcfsrLHNT0lIg.png
 ---
 
 ### AYS Slovenia Special: P **rotest breaks out in detention centre Postojna a week after court decision in favour of an asylum seeker**
 
 
-![](assets/e86065481fcb/1*s4BTl8TXqtcfsrLHNT0lIg.png)
+![](../assets/e86065481fcb/1*s4BTl8TXqtcfsrLHNT0lIg.png)
 
 
 
-![](assets/e86065481fcb/1*uajTIrgmdIk4KFKIJakyJw.png)
+![](../assets/e86065481fcb/1*uajTIrgmdIk4KFKIJakyJw.png)
 
 
 The detention centre in Postojna \(Centre za tujce\), Slovenia, is a prison\-like institution used for detaining foreigners who are, for various reasons, deemed not welcome in the country\. People can be detained in Postojna for months, let go and detained again and again\. Slovenia does not extradite to a number of countries, so the underlying assumption of this institution is that “unwelcome” people would give in under such prison\-like conditions and leave the country voluntarily\. The detention centre had already been used in the past when the number of asylum seekers who arrived via the Balkan route grew beyond the official capacity, as well as a place for temporary detention of people predestined to be returned to Croatia and then further to Bosnia\. In late spring 2020 an _ad hoc_ infrastructure was constructed on the premises of the detention centre in order to facilitate detainment of an increased number of asylum seekers in a manner similar to, if not worse than, IOM\-run centres in Bosnia\. Last Tuesday’s protest in the detention centre highlights the plight that these people have faced\. They risked everything to come to Europe, they searched for safety and security\. What they found was a detention centre where they are being held, and in many cases the fundamental right to apply for asylum has been ignored by the authorities\.
@@ -25,7 +25,7 @@ The detention centre in Postojna \(Centre za tujce\), Slovenia, is a prison\-lik
 The protest was held only one week after the Slovenian Administrative court ruled in favour of a person from Cameroon who was denied the right to apply for asylum\. The court decided that “ [The Republic of Slovenia has violated the Applicant’s right to asylum](https://www.borderviolence.eu/wp-content/uploads/PRESS-KIT-FOR-INTERNATIONAL-MEDIA.pdf) \(Article 18 of the EU Charter of Fundamental Rights\), t [he prohibition of collective expulsions](https://www.borderviolence.eu/wp-content/uploads/PRESS-KIT-FOR-INTERNATIONAL-MEDIA.pdf) \(Article 19 § 1\), [and the prohibition of torture](https://www.borderviolence.eu/wp-content/uploads/PRESS-KIT-FOR-INTERNATIONAL-MEDIA.pdf) \(Article 19 § 2\)”\. His case is identical to that of the approximately 20000 people who have been “informally returned” to Bosnia in the last two years and of those seen protesting in the photos\. This demonstration in the detention centre was a desperate act and a struggle for the right to apply for international protection, as in the absence of information, communication and legal assistance they have been given no way to apply for asylum in Slovenia\.
 
 
-[![Protest in Slovenia detention centre Postojna](assets/e86065481fcb/4e36_hqdefault.jpg "Protest in Slovenia detention centre Postojna")](https://www.youtube.com/watch?v=bNdtaPFarvM)
+[![Protest in Slovenia detention centre Postojna](../assets/e86065481fcb/4e36_hqdefault.jpg "Protest in Slovenia detention centre Postojna")](https://www.youtube.com/watch?v=bNdtaPFarvM)
 
 
 Conditions within the detention centre in Postojna are appalling: around 80 people are housed in containers inside a hall, surrounded by a fence through which food is given\. There has been no provision of hygiene products or clean clothes\. Many of the people in detention are scheduled to be illegally deported \(subjected to a “pushback”\) to Croatia without being given a chance to seek asylum in Slovenia\. These deportations are happening under the Readmission agreement and in many cases the person does not know that they will be deported until the exact moment when the police come and take them\. These kind of actions by police mean systemic violation of basic rights such as prohibition of torture, non\-refoulement, the right to asylum procedure, the right of legal representation and the right of protection against collective expulsion\.
@@ -33,7 +33,7 @@ Conditions within the detention centre in Postojna are appalling: around 80 peop
 Among the people detained are a number of asylum seekers, who had already initiated their asylum procedure\. This presents a new policy, introduced during the COVID\-19 pandemic: detainment of asylum seekers in Slovenia is the beginning of the very same “Hungarian model” of detention centres for asylum seekers that was just [recently condemned by the European court of Human Rights](https://www.amnesty.org/en/latest/news/2020/05/hungary-european-court-declares-authorities-broke-eu-law-by-detaining-asylum-seekers-in-transit-zone/) \.
 
 
-[![Protest in Slovenia detention centre Postojna](assets/e86065481fcb/64fd_hqdefault.jpg "Protest in Slovenia detention centre Postojna")](https://www.youtube.com/watch?v=gA4_Haz687w)
+[![Protest in Slovenia detention centre Postojna](../assets/e86065481fcb/64fd_hqdefault.jpg "Protest in Slovenia detention centre Postojna")](https://www.youtube.com/watch?v=gA4_Haz687w)
 
 ### Degrading treatment of migrants in detention centre in Postojna
 
@@ -50,7 +50,7 @@ Postojna Detention Centre has, throughout the years, been a place of many protes
 Such unbearable conditions, no provision of hygiene products, no freedom of movement, cramped living spaces and daily illegal deportations to Croatia have led to a spontaneous protest of migrants who have been detained in a detention centre in Postojna\. Leaked protest footage shows a detainee cutting his skin in the area of the upper body and neck in a sign of desperate protest against humiliating treatment and danger of deportation to Croatia and then Bosnia and Herzegovina\. [The protest](https://www.facebook.com/ambasadarog/posts/1203048166696484?__tn__=-R) also involved a number of [detainees showing white papers](https://www.youtube.com/watch?v=tB2xn99Cmao&feature=emb_title) demanding “freedom of movement”\.
 
 
-[![Protest in Slovenia detention centre Postojna](assets/e86065481fcb/a107_hqdefault.jpg "Protest in Slovenia detention centre Postojna")](https://www.youtube.com/watch?v=F6r7sj0QuD4)
+[![Protest in Slovenia detention centre Postojna](../assets/e86065481fcb/a107_hqdefault.jpg "Protest in Slovenia detention centre Postojna")](https://www.youtube.com/watch?v=F6r7sj0QuD4)
 
 ### Unlawful detention of asylum seekers under the directives of general police command
 

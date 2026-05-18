@@ -1,5 +1,5 @@
 ---
-title: AYS New Digest 6/09/2022: A shaved cross on the heads of people on the move, border humiliations do…
+title: "AYS New Digest 6/09/2022: A shaved cross on the heads of people on the move, border humiliations do…"
 author: Are You Syrious?
 date: 2022-09-06T15:59:46.590+0100
 last_modified_at: 2022-09-06T20:08:29.477+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest]
 description: Hungarian authorities shaved the heads of people on the move in the shape of a cross// People in distress in various parts of the…
 image:
-  path: assets/b45e72a16933/1*qlkV9CBkXN2WO8gx-zqE5A.jpeg
+  path: ../assets/b45e72a16933/1*qlkV9CBkXN2WO8gx-zqE5A.jpeg
 ---
 
 ### AYS New Digest 6/09/2022: A shaved cross on the heads of people on the move, border humiliations do not stop
@@ -15,7 +15,7 @@ image:
 Hungarian authorities shaved the heads of people on the move in the shape of a cross// People in distress in various parts of the Mediterranean left unrescued or illegally pushed\-back//The body of a mother hugging her son recovered near Lebanese coast// Rise in hate crimes against Syrian refugees in Turkey//The trial begins into the legality of deportations from UK to Rwanda//LIBE did not grant discharge for Frontex agency // and more
 
 
-![Shaved head of a respondent from Morocco\. The Hungarian authorities humiliated him this way before pushing him and his group back to Serbia\. Credits: [Klikaktiv](https://www.facebook.com/klikaktiv)](assets/b45e72a16933/1*qlkV9CBkXN2WO8gx-zqE5A.jpeg)
+![Shaved head of a respondent from Morocco\. The Hungarian authorities humiliated him this way before pushing him and his group back to Serbia\. Credits: [Klikaktiv](https://www.facebook.com/klikaktiv)](../assets/b45e72a16933/1*qlkV9CBkXN2WO8gx-zqE5A.jpeg)
 
 Shaved head of a respondent from Morocco\. The Hungarian authorities humiliated him this way before pushing him and his group back to Serbia\. Credits: [Klikaktiv](https://www.facebook.com/klikaktiv)
 #### Hungary
@@ -85,7 +85,7 @@ Alarm Phone is in touch with about 90 people who fled from #Benghazi in #Libya a
 Last Friday, 2 September, [Seaeye4](https://twitter.com/United4Rescue/status/1566807941256208386?t=xI0m8oYPyP3lO8KM3rrDBQ&s=19&fbclid=IwAR1-0fzDloeiCZOqJr-glNVrDceL_y0INzTEh1cZ7MO_rtfSiVb9xBtoTME) rescued 76 people, while continuing their search for people in distress at sea\.
 
 
-![76 people were rescued by Seaeye4\. Credit: [Seaeye4](https://twitter.com/United4Rescue/status/1566807941256208386/photo/2)](assets/b45e72a16933/1*XO6xTHJnKmHmVLYT6JZpdw.jpeg)
+![76 people were rescued by Seaeye4\. Credit: [Seaeye4](https://twitter.com/United4Rescue/status/1566807941256208386/photo/2)](../assets/b45e72a16933/1*XO6xTHJnKmHmVLYT6JZpdw.jpeg)
 
 76 people were rescued by Seaeye4\. Credit: [Seaeye4](https://twitter.com/United4Rescue/status/1566807941256208386/photo/2)
 
@@ -106,7 +106,7 @@ We were called by 35 people in a rubber boat north of Khoms, Libya. They said th
 On the same day, in the same area \(close to the Libyan coast\), there are still 25 people abandoned at sea, even with many merchant vessels traveling around the ship\. Here is the tweet from [Alarm Phone](https://twitter.com/alarm_phone/status/1566890034871025664?t=QRfkX1iLIpnPj2T68yGRTQ&s=19&fbclid=IwAR29wInAxJOd1ZdtLZetCVOaS73sG_xyt7ZdP76HLlU0cv92r8mKfJth_oI) :
 
 
-![Merchant vessels around the ship with people in distress\. They are not willing to help them\. Credit: [Alarm Phone](https://twitter.com/alarm_phone/status/1566890034871025664?t=QRfkX1iLIpnPj2T68yGRTQ&s=19&fbclid=IwAR29wInAxJOd1ZdtLZetCVOaS73sG_xyt7ZdP76HLlU0cv92r8mKfJth_oI)](assets/b45e72a16933/1*LDLd3yVCNrl0lu9HecfQlg.jpeg)
+![Merchant vessels around the ship with people in distress\. They are not willing to help them\. Credit: [Alarm Phone](https://twitter.com/alarm_phone/status/1566890034871025664?t=QRfkX1iLIpnPj2T68yGRTQ&s=19&fbclid=IwAR29wInAxJOd1ZdtLZetCVOaS73sG_xyt7ZdP76HLlU0cv92r8mKfJth_oI)](../assets/b45e72a16933/1*LDLd3yVCNrl0lu9HecfQlg.jpeg)
 
 Merchant vessels around the ship with people in distress\. They are not willing to help them\. Credit: [Alarm Phone](https://twitter.com/alarm_phone/status/1566890034871025664?t=QRfkX1iLIpnPj2T68yGRTQ&s=19&fbclid=IwAR29wInAxJOd1ZdtLZetCVOaS73sG_xyt7ZdP76HLlU0cv92r8mKfJth_oI)
 
@@ -151,7 +151,7 @@ Read here more:
 Other people reached the Calabria region of Italy\. Over the past two days MSF \(Doctor without borders\) assisted 495 people who had departed from Lebanon, Turkey, Syria, and said in [tweet](https://twitter.com/MSF_Sea/status/1566853839738781696?t=yKwQ96qZuLQO4zqIUmmnRw&s=19&fbclid=IwAR3pF1h5FXBtUMvM619eWTn7Yu1X8D3xtuxMRpiyC9wxUit-9Q8QFFi4gJs)
 
 
-![The MSF helps people just arrived on the Calabria coast after days at sea\. Credit: [Msf](https://twitter.com/MSF_Sea/status/1566853839738781696?t=yKwQ96qZuLQO4zqIUmmnRw&s=19&fbclid=IwAR3pF1h5FXBtUMvM619eWTn7Yu1X8D3xtuxMRpiyC9wxUit-9Q8QFFi4gJs)](assets/b45e72a16933/1*En-h_UjRLH6UKZubSmzx3Q.jpeg)
+![The MSF helps people just arrived on the Calabria coast after days at sea\. Credit: [Msf](https://twitter.com/MSF_Sea/status/1566853839738781696?t=yKwQ96qZuLQO4zqIUmmnRw&s=19&fbclid=IwAR3pF1h5FXBtUMvM619eWTn7Yu1X8D3xtuxMRpiyC9wxUit-9Q8QFFi4gJs)](../assets/b45e72a16933/1*En-h_UjRLH6UKZubSmzx3Q.jpeg)
 
 The MSF helps people just arrived on the Calabria coast after days at sea\. Credit: [Msf](https://twitter.com/MSF_Sea/status/1566853839738781696?t=yKwQ96qZuLQO4zqIUmmnRw&s=19&fbclid=IwAR3pF1h5FXBtUMvM619eWTn7Yu1X8D3xtuxMRpiyC9wxUit-9Q8QFFi4gJs)
 #### Lebanon
@@ -188,7 +188,7 @@ Read here more:
 ### Militarisation of borders continues in Greece
 
 
-![Area near the Evros River on the Greek\-Turkish border\. Credit: _Alexandros Avramidis/tagesschau\.de, vi [a Info Migrants](https://www.infomigrants.net/en/post/43075/greece-blocked-over-150000-irregular-migrants-this-year-mitarachi?fbclid=IwAR3-VFE4jhipkC5YrZEmANowzyg_U88KAfSe025odWDK6iR3JhcuXHAm2fI)_](assets/b45e72a16933/1*XVv44BoPEm89JuzQdPbnKA.jpeg)
+![Area near the Evros River on the Greek\-Turkish border\. Credit: _Alexandros Avramidis/tagesschau\.de, vi [a Info Migrants](https://www.infomigrants.net/en/post/43075/greece-blocked-over-150000-irregular-migrants-this-year-mitarachi?fbclid=IwAR3-VFE4jhipkC5YrZEmANowzyg_U88KAfSe025odWDK6iR3JhcuXHAm2fI)_](../assets/b45e72a16933/1*XVv44BoPEm89JuzQdPbnKA.jpeg)
 
 Area near the Evros River on the Greek\-Turkish border\. Credit: _Alexandros Avramidis/tagesschau\.de, vi [a Info Migrants](https://www.infomigrants.net/en/post/43075/greece-blocked-over-150000-irregular-migrants-this-year-mitarachi?fbclid=IwAR3-VFE4jhipkC5YrZEmANowzyg_U88KAfSe025odWDK6iR3JhcuXHAm2fI)_
 
@@ -234,7 +234,7 @@ New arrivals from the Czech Republic in particular are blamed by the German auth
 The Calais food collective supports everyday people living in Calais, but French authorities are obstructing their support\. As they published in a [tweet](https://twitter.com/CalaisFoodCol/status/1566822160961867776?t=HrdRaz4ip9GCcn9-dmGlKg&s=19&fbclid=IwAR0nkPiKHYGM2F4moGBDMwkAVLAC87zJQHeIeAwTUC0pAQOOtj8bXNKhbqg) yesterday, 5 September, the municipal police of Calais removed a tank of water that allowed a hundred people to have access to water\.
 
 
-![France police removing a tank of water in Calais\. [Via Calais Food Collective](https://twitter.com/CalaisFoodCol/status/1566822160961867776?t=HrdRaz4ip9GCcn9-dmGlKg&s=19&fbclid=IwAR0nkPiKHYGM2F4moGBDMwkAVLAC87zJQHeIeAwTUC0pAQOOtj8bXNKhbqg)](assets/b45e72a16933/1*dMMdn9kk6ftDVbECYxIzaw.jpeg)
+![France police removing a tank of water in Calais\. [Via Calais Food Collective](https://twitter.com/CalaisFoodCol/status/1566822160961867776?t=HrdRaz4ip9GCcn9-dmGlKg&s=19&fbclid=IwAR0nkPiKHYGM2F4moGBDMwkAVLAC87zJQHeIeAwTUC0pAQOOtj8bXNKhbqg)](../assets/b45e72a16933/1*dMMdn9kk6ftDVbECYxIzaw.jpeg)
 
 France police removing a tank of water in Calais\. [Via Calais Food Collective](https://twitter.com/CalaisFoodCol/status/1566822160961867776?t=HrdRaz4ip9GCcn9-dmGlKg&s=19&fbclid=IwAR0nkPiKHYGM2F4moGBDMwkAVLAC87zJQHeIeAwTUC0pAQOOtj8bXNKhbqg)
 #### Netherlands
@@ -305,7 +305,7 @@ The Foreign Office considered that Rwanda was not eligible for an asylum deal, b
 Care4calais is among the organizations that are committed to fighting deportations in Rwanda\. By [tweet](https://twitter.com/Care4Calais/status/1566682750471520256?fbclid=IwAR3yFJAn-GXJRdhm146SGyiWTRlaUHgG5Q3X1TrDWWgtLHuzIOk3P99XVcc) they disseminated the image of little Amal as a sign of protest against the inhumanity of the plan\. Little Amal is a puppet who has become a figurehead for refugees all over the world\.
 
 
-![Little Amal against deportation to Rwanda\. [Via Care4 Calais](https://twitter.com/Care4Calais/status/1566682750471520256?fbclid=IwAR3yFJAn-GXJRdhm146SGyiWTRlaUHgG5Q3X1TrDWWgtLHuzIOk3P99XVcc)](assets/b45e72a16933/1*ZMXEZJLl_63xZFfaXy8QFQ.jpeg)
+![Little Amal against deportation to Rwanda\. [Via Care4 Calais](https://twitter.com/Care4Calais/status/1566682750471520256?fbclid=IwAR3yFJAn-GXJRdhm146SGyiWTRlaUHgG5Q3X1TrDWWgtLHuzIOk3P99XVcc)](../assets/b45e72a16933/1*ZMXEZJLl_63xZFfaXy8QFQ.jpeg)
 
 Little Amal against deportation to Rwanda\. [Via Care4 Calais](https://twitter.com/Care4Calais/status/1566682750471520256?fbclid=IwAR3yFJAn-GXJRdhm146SGyiWTRlaUHgG5Q3X1TrDWWgtLHuzIOk3P99XVcc)
 
@@ -404,7 +404,7 @@ Upcoming events
 
 
 
-![](assets/b45e72a16933/1*0bNw6RBsjxWh9olEREGQXA.jpeg)
+![](../assets/b45e72a16933/1*0bNw6RBsjxWh9olEREGQXA.jpeg)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious?source=email-156a28ef10e4-1660244456586-newsletter.subscribeToProfile-------------------------68bdcd3d_8cf3_4eba_889e_fd5281d60100--------3e266993d553) \.**

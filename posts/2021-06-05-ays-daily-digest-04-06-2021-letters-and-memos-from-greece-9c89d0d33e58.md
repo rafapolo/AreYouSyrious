@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 04/06/2021: Letters and memos from Greece
+title: "AYS Daily Digest 04/06/2021: Letters and memos from Greece"
 author: Are You Syrious?
 date: 2021-06-05T10:48:46.382+0100
 last_modified_at: 2021-06-05T18:12:25.028+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,frontex,migration]
 description: Greece wants to tackle border crossings with sound cannons // Syrians deported from Lebanon to Syria // Germany refuses solidarity with…
 image:
-  path: assets/9c89d0d33e58/1*WybLZo5Hu6v_hOItlGlS2Q.jpeg
+  path: ../assets/9c89d0d33e58/1*WybLZo5Hu6v_hOItlGlS2Q.jpeg
 ---
 
 ### AYS Daily Digest 04/06/2021: Letters and memos from Greece
 #### Greece wants to tackle border crossings with sound cannons // Syrians deported from Lebanon to Syria // Germany refuses solidarity with Italy // German nun fined for providing church asylum // New evictions in Bosnia and France
 
 
-![Greek authorities are increasing efforts to prevent people from crossing the border\. Credits: [Twitter/@DimKairidis](https://twitter.com/DimKairidis/status/1353679404505985024)](assets/9c89d0d33e58/1*WybLZo5Hu6v_hOItlGlS2Q.jpeg)
+![Greek authorities are increasing efforts to prevent people from crossing the border\. Credits: [Twitter/@DimKairidis](https://twitter.com/DimKairidis/status/1353679404505985024)](../assets/9c89d0d33e58/1*WybLZo5Hu6v_hOItlGlS2Q.jpeg)
 
 Greek authorities are increasing efforts to prevent people from crossing the border\. Credits: [Twitter/@DimKairidis](https://twitter.com/DimKairidis/status/1353679404505985024)
 ### Greece: Letters and memos
@@ -71,7 +71,7 @@ Greek authorities have started vaccination campaigns on the Aegean islands\. Eve
 
 
 
-[![Panel 5: Examining the Legality of Detention](assets/9c89d0d33e58/530e_hqdefault.jpg "Panel 5: Examining the Legality of Detention")](https://www.youtube.com/watch?v=S5erMM2luT0)
+[![Panel 5: Examining the Legality of Detention](../assets/9c89d0d33e58/530e_hqdefault.jpg "Panel 5: Examining the Legality of Detention")](https://www.youtube.com/watch?v=S5erMM2luT0)
 
 ### Lebanon
 

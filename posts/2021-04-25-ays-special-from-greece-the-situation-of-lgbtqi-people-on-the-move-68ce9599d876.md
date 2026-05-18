@@ -1,5 +1,5 @@
 ---
-title: AYS Special from Greece: The situation of LGBTQI+ people on the move
+title: "AYS Special from Greece: The situation of LGBTQI+ people on the move"
 author: Are You Syrious?
 date: 2021-04-25T10:52:05.767+0100
 last_modified_at: 2021-04-25T10:55:01.542+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [special,lgbtqia-refugees,greece,transgender-rights,asylum-europe]
 description: Greece attracts LGBTQI+ people because they think they will find refuge. Unfortunately this is not often the case.
 image:
-  path: assets/68ce9599d876/1*CAEkDaQjoPsFogMB6nSo3w.jpeg
+  path: ../assets/68ce9599d876/1*CAEkDaQjoPsFogMB6nSo3w.jpeg
 ---
 
 ### **AYS Special from Greece: The situation of LGBTQI\+ people on the move**
@@ -15,14 +15,14 @@ image:
 _Greece, the gateway to Europe and to all the imagery that goes with it, attracts LGBTQI\+ people, because they think they will find refuge there\. Unfortunately, [this is not often the case](https://360.ch/monde/45372-lindsay-lohan-les-pedes-et-les-refugies/) \. Greece is a conservative country, where the Church is not entirely separated from the State and where the LGBTQI\+ community is struggling to find their place\. A Special by_ [France — Athènes Connexion](https://franceathenesconnexion.wordpress.com/) _\._
 
 
-![Athens, 11 June 2019 \(Credit: [Lgbtqia\+ Refugees Welcome](https://www.facebook.com/lgbtqirefugeesingreece/?__tn__=-UC*F) \)](assets/68ce9599d876/1*CAEkDaQjoPsFogMB6nSo3w.jpeg)
+![Athens, 11 June 2019 \(Credit: [Lgbtqia\+ Refugees Welcome](https://www.facebook.com/lgbtqirefugeesingreece/?__tn__=-UC*F) \)](../assets/68ce9599d876/1*CAEkDaQjoPsFogMB6nSo3w.jpeg)
 
 Athens, 11 June 2019 \(Credit: [Lgbtqia\+ Refugees Welcome](https://www.facebook.com/lgbtqirefugeesingreece/?__tn__=-UC*F) \)
 
 One of us works as a social worker in an [NGO specialised in supporting LGBTQI\+ exiles](https://www.infomigrants.net/en/post/17481/a-safe-place-for-lgbtqi-refugees-in-athens) \. The work consists of accompanying them through their administrative procedures to obtain residence papers, to access care and health and through their inclusion path in Athens \(language learning, integration into professional life, etc\. \) \. As part of this job, one of us was able to conduct a series of interviews with the organisation [ILGA](https://ilga.org/) , to collect data on the situation of LGBTQI\+ exiles in Greece, in order to submit a report to the European Union and to change the [laws regarding the reception of people belonging to the community](https://www.refworld.org/docid/3decd1fa4.html) \. Two of us work in NGOs that support single women with children and among these women, some are part of the LGBTQI\+ community\. The data and observations that we detail below are the result of our personal knowledge along with the different studies referenced in this article\. We hope that this writing correctly reflects the situation of a community of people who have been doubly or even triply marginalised: by their exile status, their sexual orientation and their gender identity\.
 
 
-![In 2017, an Athens\-based of LGBTQI\+ refugees seized Roger Bernat’s replica of the oath stone which featured in the Documenta14 art festival \(Credit: [Lgbtqia\+ Refugees Welcome](https://www.facebook.com/lgbtqirefugeesingreece/videos/263576050783139) \)](assets/68ce9599d876/1*RdP1BsE1ZouAWIxh41Y_Bw.jpeg)
+![In 2017, an Athens\-based of LGBTQI\+ refugees seized Roger Bernat’s replica of the oath stone which featured in the Documenta14 art festival \(Credit: [Lgbtqia\+ Refugees Welcome](https://www.facebook.com/lgbtqirefugeesingreece/videos/263576050783139) \)](../assets/68ce9599d876/1*RdP1BsE1ZouAWIxh41Y_Bw.jpeg)
 
 In 2017, an Athens\-based of LGBTQI\+ refugees seized Roger Bernat’s replica of the oath stone which featured in the Documenta14 art festival \(Credit: [Lgbtqia\+ Refugees Welcome](https://www.facebook.com/lgbtqirefugeesingreece/videos/263576050783139) \)
 #### **LGBTQI \+ people around the world, and their reasons for leaving their country\.**
@@ -46,7 +46,7 @@ We observed that a very large majority of LGBTQI\+ people have been victims of s
 Exiled people belonging to the LGBTQI\+ community are doubly marginalised, first as exiles, and therefore foreigners, by the local population, then as LGBTQI\+ people by their own ethnic group or community\. Many do not dare to admit their gender identity and sexual orientation for fear of reliving harassment, discrimination or other forms of violence\. By being locked up in camps with other exiles, they sometimes relive the violence that pushed them to flee their countries of origin, which is why some hide it and do not mention it during their asylum interviews\. The fear of reprisals is too great\.
 
 
-![[Justice For Zak/Zackie](https://www.facebook.com/justice4ZakZackie/) \(Photo Credit: [Viktoria Solidarity, October 2020](https://www.facebook.com/ViktoriaSolidarity/photos/155213872923113) \)](assets/68ce9599d876/1*tn5VXSU-ViINMJ59kAS9Ew.jpeg)
+![[Justice For Zak/Zackie](https://www.facebook.com/justice4ZakZackie/) \(Photo Credit: [Viktoria Solidarity, October 2020](https://www.facebook.com/ViktoriaSolidarity/photos/155213872923113) \)](../assets/68ce9599d876/1*tn5VXSU-ViINMJ59kAS9Ew.jpeg)
 
 [Justice For Zak/Zackie](https://www.facebook.com/justice4ZakZackie/) \(Photo Credit: [Viktoria Solidarity, October 2020](https://www.facebook.com/ViktoriaSolidarity/photos/155213872923113) \)
 
@@ -58,7 +58,7 @@ The consequences of this violence and discrimination are enormous, and they are 
 NGOs, collectives, associations, and other solidarity groups are fighting to assert the fundamental rights of LGBTQI\+ people\. Their integration in the host country is crucial and should be normal\. We must redouble our efforts to provide safe spaces, institutionalised, standardised and accessible support mechanisms, and moral and physical support based on solid knowledge of the important place LGBTQI\+ people occupy in today’s world\. \.
 
 
-![[Stickers created by the queer feminist group of Viktoria Solidarity, December 2020](https://franceathenesconnexion.wordpress.com/2021/01/21/presentation-du-collectif-viktoria-solidarity/)](assets/68ce9599d876/1*gELYcif0MVw3f_G5ytfvbw.jpeg)
+![[Stickers created by the queer feminist group of Viktoria Solidarity, December 2020](https://franceathenesconnexion.wordpress.com/2021/01/21/presentation-du-collectif-viktoria-solidarity/)](../assets/68ce9599d876/1*gELYcif0MVw3f_G5ytfvbw.jpeg)
 
 [Stickers created by the queer feminist group of Viktoria Solidarity, December 2020](https://franceathenesconnexion.wordpress.com/2021/01/21/presentation-du-collectif-viktoria-solidarity/)
 

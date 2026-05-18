@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 25/3/22: Poland activists detained for helping at Belarus border
+title: "AYS News Digest 25/3/22: Poland activists detained for helping at Belarus border"
 author: Are You Syrious?
 date: 2022-03-26T12:30:14.314+0000
 last_modified_at: 2022-03-26T18:08:24.909+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,solidarity,criminalization,human-rights]
 description: El-Hiblu 3 publish their testimonies / Non-Ukrainian asylum seekers abandoned, evicted and detained everywhere / UK illegally seized…
 image:
-  path: assets/310ccf34e7fd/1*9kA8lxl4jS2TcIVVgOamIw.png
+  path: ../assets/310ccf34e7fd/1*9kA8lxl4jS2TcIVVgOamIw.png
 ---
 
 ### AYS News Digest 25/3/22: Poland activists detained for helping at Belarus border
@@ -15,7 +15,7 @@ image:
 El\-Hiblu 3 publish their testimonies / Non\-Ukrainian asylum seekers abandoned, evicted and detained everywhere / UK illegally seized refugees’ phones / Fact\-checking the Greek government / More Frontex news / Our recommendations to read this week
 
 
-![Statement by Grupa Granica](assets/310ccf34e7fd/1*9kA8lxl4jS2TcIVVgOamIw.png)
+![Statement by Grupa Granica](../assets/310ccf34e7fd/1*9kA8lxl4jS2TcIVVgOamIw.png)
 
 Statement by Grupa Granica
 ### FEATURE
@@ -74,7 +74,7 @@ Victims of slavery, torture and detention in Libya, Amara Kromah, Abdul Kader an
 “Amara had hoped that his language skills would be the key to his future, writes Amnesty, but sadly it was those skills which led to all these charges being laid against him\. Because they translated between the migrants and the captain, they have been classified as the leaders of the revolt,” [outlines InfoMigrants](https://www.infomigrants.net/en/post/39447/shattered-dreams-migrants-of-el-hiblu-3-speak-out-for-first-time?fbclid=IwAR0V7puGcmoJJQZrgSgMVaPQJ-RANtWK4r3YdZhdn2NSzg5MMiPFz05R5GA) \.
 
 
-![](assets/310ccf34e7fd/1*YYvK-zen02L6q_Ry4oOMJA.png)
+![](../assets/310ccf34e7fd/1*YYvK-zen02L6q_Ry4oOMJA.png)
 
 
 “The El Hiblu 3 live in Malta\. Every day they have to sign in with the police\. Every month they go to hearings in the Maltese court, hoping to leave as free men\. They have jobs, they have flatmates, one has children, but they are not free”, begins the document\.

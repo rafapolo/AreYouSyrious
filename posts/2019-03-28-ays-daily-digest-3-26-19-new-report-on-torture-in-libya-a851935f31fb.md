@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 3/26/19: New Report on Torture in Libya
+title: "AYS Daily Digest 3/26/19: New Report on Torture in Libya"
 author: Are You Syrious?
 date: 2019-03-28T00:33:32.277+0000
 last_modified_at: 2019-03-28T00:33:32.277+0000

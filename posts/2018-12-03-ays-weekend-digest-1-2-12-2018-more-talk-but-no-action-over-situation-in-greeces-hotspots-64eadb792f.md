@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,samos,moria,nuestramadredeloreto]
 description: The odyssey of the Nuestra Madre de Loreto finally ends /// Young man dies in the San Ferdinando ghetto, Italy /// UK recognise fewer LGBT…
 image:
-  path: assets/64eadb792f/1*ieZ6qLMKaBkYj9nYk-FOgg.jpeg
+  path: ../assets/64eadb792f/1*ieZ6qLMKaBkYj9nYk-FOgg.jpeg
 ---
 
 ### AYS Weekend Digest 1–2/12/2018 — More Talk but No Action over Situation in Greece’s Hotspots
@@ -17,7 +17,7 @@ _The odyssey of the Nuestra Madre de Loreto finally ends /// Young man dies in t
 
 ![Lesvos, Greece 29 November 2018
 After heavy rains in the Olive Grove camp next to Moria camp in Lesvos island\. 
-\(Photograph by [Anna Pantelia](http://annapantelia.com/) / [Art Against](https://www.facebook.com/artagainstproject/) \)](assets/64eadb792f/1*ieZ6qLMKaBkYj9nYk-FOgg.jpeg)
+\(Photograph by [Anna Pantelia](http://annapantelia.com/) / [Art Against](https://www.facebook.com/artagainstproject/) \)](../assets/64eadb792f/1*ieZ6qLMKaBkYj9nYk-FOgg.jpeg)
 
 Lesvos, Greece 29 November 2018
 After heavy rains in the Olive Grove camp next to Moria camp in Lesvos island\. 
@@ -25,11 +25,11 @@ After heavy rains in the Olive Grove camp next to Moria camp in Lesvos island\.
 #### FEATURE — MORE TALK BUT NO ACTION OVER SITUATION IN GREECE’S HOTSPOTS
 
 
-![](assets/64eadb792f/1*-pe87mrbEP-A9Y6n1pqeRg.jpeg)
+![](../assets/64eadb792f/1*-pe87mrbEP-A9Y6n1pqeRg.jpeg)
 
 
 
-![Samos, last weekend](assets/64eadb792f/1*3LTBgjTSI0T597UsWB6kBA.jpeg)
+![Samos, last weekend](../assets/64eadb792f/1*3LTBgjTSI0T597UsWB6kBA.jpeg)
 
 Samos, last weekend
 
@@ -57,7 +57,7 @@ We know these things are possible because they have been done in self organised 
 A volunteer in Samos describes the current conditions and asks for help\.
 
 
-![Samos, last weekend](assets/64eadb792f/1*EsGiORuhIgTrKstzHxtJVA.jpeg)
+![Samos, last weekend](../assets/64eadb792f/1*EsGiORuhIgTrKstzHxtJVA.jpeg)
 
 Samos, last weekend
 
@@ -86,7 +86,7 @@ Another independent volunteer puts the current number of residents at around 600
 
 
 
-![Samos, last weekend](assets/64eadb792f/1*RXyWb9_mJyqamviBwGkB6g.jpeg)
+![Samos, last weekend](../assets/64eadb792f/1*RXyWb9_mJyqamviBwGkB6g.jpeg)
 
 Samos, last weekend
 
@@ -161,7 +161,7 @@ MOROCCO
 #### Member of Alarm Phone arrested in Morocco
 
 
-![\(Photo by [Watch the Med — Alarm Phone](https://www.facebook.com/watchthemed.alarmphone/photos/pcb.2265325070408390/2265323990408498/?type=3&theater&ifg=1) \)](assets/64eadb792f/1*1HSHgWk1hYMaNn99ACEbdQ.jpeg)
+![\(Photo by [Watch the Med — Alarm Phone](https://www.facebook.com/watchthemed.alarmphone/photos/pcb.2265325070408390/2265323990408498/?type=3&theater&ifg=1) \)](../assets/64eadb792f/1*1HSHgWk1hYMaNn99ACEbdQ.jpeg)
 
 \(Photo by [Watch the Med — Alarm Phone](https://www.facebook.com/watchthemed.alarmphone/photos/pcb.2265325070408390/2265323990408498/?type=3&theater&ifg=1) \)
 
@@ -206,7 +206,7 @@ As [Europapress](https://www.europapress.es/epsocial/migracion/noticia-mes-mas-t
 After an odyssey lasting for 10 days, the Nuestra Madre de Loreto was finally allowed a safe port in Malta\. During the weekend one of the rescued passengers fell unconscious and had to be evacuated to Malta via helicopter\.
 
 
-![Emergency evactuation from the Nuestra Madre de Loreto on Friday night \(photo by [Sea\-Watch International](https://twitter.com/seawatch_intl) \)](assets/64eadb792f/1*PVC-2oRvmx1bKRnZcrptbw.jpeg)
+![Emergency evactuation from the Nuestra Madre de Loreto on Friday night \(photo by [Sea\-Watch International](https://twitter.com/seawatch_intl) \)](../assets/64eadb792f/1*PVC-2oRvmx1bKRnZcrptbw.jpeg)
 
 Emergency evactuation from the Nuestra Madre de Loreto on Friday night \(photo by [Sea\-Watch International](https://twitter.com/seawatch_intl) \)
 
@@ -304,18 +304,18 @@ As [reported](https://www.facebook.com/comitatolavoratoridellecampagne/?__tn__=%
 #### NO CPR demonstration in Milan
 
 
-![Minniti\-Salvini, the two\-headed monster \(Image from [Melting Pot Europa](https://www.facebook.com/meltingpoteuropa) \)](assets/64eadb792f/1*ORHdzq_fu_XkRCHxU-CM7g.jpeg)
+![Minniti\-Salvini, the two\-headed monster \(Image from [Melting Pot Europa](https://www.facebook.com/meltingpoteuropa) \)](../assets/64eadb792f/1*ORHdzq_fu_XkRCHxU-CM7g.jpeg)
 
 Minniti\-Salvini, the two\-headed monster \(Image from [Melting Pot Europa](https://www.facebook.com/meltingpoteuropa) \)
 
 Around 20, 000 people participated in the march No CPR/No Salvini Decree on Saturday\. This was a protest against the conversion of the CAS at the outskirts of Milan into a detention structure for people waiting repatriation\.
 
 
-![](assets/64eadb792f/1*kvcq_5PKTX5EZjkq0WhPew.jpeg)
+![](../assets/64eadb792f/1*kvcq_5PKTX5EZjkq0WhPew.jpeg)
 
 
 
-![\(Photos by [Melting Pot Europa\)](https://www.facebook.com/meltingpoteuropa)](assets/64eadb792f/1*fZAh8yuwkZl-CW-sfXN2_A.jpeg)
+![\(Photos by [Melting Pot Europa\)](https://www.facebook.com/meltingpoteuropa)](../assets/64eadb792f/1*fZAh8yuwkZl-CW-sfXN2_A.jpeg)
 
 \(Photos by [Melting Pot Europa\)](https://www.facebook.com/meltingpoteuropa)
 
@@ -386,11 +386,11 @@ IOM has recently opened a temporary accommodation facility in a factory in Miral
 #### Updates from Bira camp, Bihac area
 
 
-![](assets/64eadb792f/1*-7YYV43ULS8XRIQkHdvSdw.jpeg)
+![](../assets/64eadb792f/1*-7YYV43ULS8XRIQkHdvSdw.jpeg)
 
 
 
-![Bira camp \(photos by Silvia Maraone, NVO IPSIA Italia\)](assets/64eadb792f/1*G83kFglLl2UvolBYVPTadA.jpeg)
+![Bira camp \(photos by Silvia Maraone, NVO IPSIA Italia\)](../assets/64eadb792f/1*G83kFglLl2UvolBYVPTadA.jpeg)
 
 Bira camp \(photos by Silvia Maraone, NVO IPSIA Italia\)
 
@@ -454,7 +454,7 @@ Again we ask, how many people have to die?
 #### Situation in Serbia continues to deteriorate
 
 
-![Šid \(Photo by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/pcb.630823170649304/630821567316131/?type=3&theater) \)](assets/64eadb792f/1*kdnA4Lil0za0VDZ-ZdYZBA.jpeg)
+![Šid \(Photo by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/pcb.630823170649304/630821567316131/?type=3&theater) \)](../assets/64eadb792f/1*kdnA4Lil0za0VDZ-ZdYZBA.jpeg)
 
 Šid \(Photo by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/pcb.630823170649304/630821567316131/?type=3&theater) \)
 
@@ -474,7 +474,7 @@ AUSTRIA
 #### Protest against asylum policies in Hohenems
 
 
-![Protest in Hohenems \(photo by [Marie — Die Vorarlberger Straßenzeitung](https://www.facebook.com/marie.strassenzeitung/photos/a.1744425632516136/2042524599372903/?type=3&theater) \)](assets/64eadb792f/1*K6RwVH71ZKl1ecBdbJSQmg.jpeg)
+![Protest in Hohenems \(photo by [Marie — Die Vorarlberger Straßenzeitung](https://www.facebook.com/marie.strassenzeitung/photos/a.1744425632516136/2042524599372903/?type=3&theater) \)](../assets/64eadb792f/1*K6RwVH71ZKl1ecBdbJSQmg.jpeg)
 
 Protest in Hohenems \(photo by [Marie — Die Vorarlberger Straßenzeitung](https://www.facebook.com/marie.strassenzeitung/photos/a.1744425632516136/2042524599372903/?type=3&theater) \)
 
@@ -511,12 +511,12 @@ Read the full statement [HERE](https://www.facebook.com/refugeestruggle/?ref=nf&
 FRANCE
 
 
-![](assets/64eadb792f/1*80SICaW3UOm2HtBItOSs3Q.jpeg)
+![](../assets/64eadb792f/1*80SICaW3UOm2HtBItOSs3Q.jpeg)
 
 #### Increased police harassment in Calais
 
 
-![Photo by [Salam — Nord Pas De Calais](https://www.facebook.com/salamnordpasdecalais/photos/pcb.2083411821726474/2083408078393515/?type=3&theater)](assets/64eadb792f/1*CX7Sx4EOo1ZyReGRI_Fe-g.jpeg)
+![Photo by [Salam — Nord Pas De Calais](https://www.facebook.com/salamnordpasdecalais/photos/pcb.2083411821726474/2083408078393515/?type=3&theater)](../assets/64eadb792f/1*CX7Sx4EOo1ZyReGRI_Fe-g.jpeg)
 
 Photo by [Salam — Nord Pas De Calais](https://www.facebook.com/salamnordpasdecalais/photos/pcb.2083411821726474/2083408078393515/?type=3&theater)
 
@@ -530,7 +530,7 @@ More info on how to get [involved here](https://www.facebook.com/AubergeMigrants
 #### Appeals for winter clothes in Calais
 
 
-![](assets/64eadb792f/1*hl2IuMJHxLzh2DVlApXk1g.jpeg)
+![](../assets/64eadb792f/1*hl2IuMJHxLzh2DVlApXk1g.jpeg)
 
 
 More info on how to [help here](https://www.facebook.com/care4calais/photos/a.1046164975416459/2204826029550342/?type=3&theater) \.
@@ -569,7 +569,7 @@ Read the full statement [HERE](http://www.netwerktegenarmoede.be/nieuws/overheid
 #### Lost in Dublin — Calais goes to Brussels, 8/12/2018
 
 
-![](assets/64eadb792f/1*T0mNO8BhToj8M1yDUhueMQ.jpeg)
+![](../assets/64eadb792f/1*T0mNO8BhToj8M1yDUhueMQ.jpeg)
 
 
 Refugee Infobus [inform](https://www.facebook.com/RefugeeInfoBus/posts/2289927711242644?hc_location=ufi) that [L’Auberge des Migrants](https://www.facebook.com/AubergeMigrants/?__tn__=K-R&eid=ARCLfYER-PbhRMFmDbLOP_kx_w1cVaDlTvFHzeFnR_5XH0hHXbAgyhDjfmYjxoLgy287IF1_2PJ9n5zW&fref=mentions&__xts__[0]=68.ARBDph6H4kpjMRXtOIr6WuBi71LPKGvhepzmrLcuQlokt4HzHYUDa4h67TeKpEKumDX_0EpO6_bEOZfK9f58wtpA3KKyu2HhfgUoBH-VWC6Q0YsysU3gxcuE16ZbetFkWyO6dc04zK09YUoHyTgY3qQY3awyoKxm46UuMcbeVZV6D1Fx4L84kuuMYrlFuBaGFIOW2NytNwzFbJRO5b1NRE2IWjhXc-KwM6XEMpPZMtM8NWBDJoXM0pkGClWC4-5QSDohF7udHn2FWZlAQ4eRzRafWW-iu8XD_hRY8Ak0V3AeQNIV_wFAFwmMI649oArEYAI3iC2-EjUlvssmcf7yn21xg6py) are holding a protest on December 8th, in front of the European Commission in Brussels, in anticipation of the International Day of Human Rights\. The protest aims to hold European decision\-makers accountable for the appalling situation for displaced communities in Northern France, and across Europe\.

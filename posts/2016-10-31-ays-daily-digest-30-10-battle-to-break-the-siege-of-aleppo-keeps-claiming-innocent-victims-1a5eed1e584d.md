@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 30/10: Battle to break the siege of Aleppo keeps claiming innocent victims
+title: "AYS DAILY DIGEST 30/10: Battle to break the siege of Aleppo keeps claiming innocent victims"
 author: Are You Syrious?
 date: 2016-10-31T04:20:01.839+0000
 last_modified_at: 2016-10-31T09:24:25.580+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,war-in-syria,war-in-yemen,refugees-from-afghanistan]
 description: … with mutual accusations of chemical weapons use / New clashes at Souda camp, Chios Island / Stalingrad station in Paris to be cleared in…
 image:
-  path: assets/1a5eed1e584d/1*OLVp8VS1OwwnMPUu9bWlBg.jpeg
+  path: ../assets/1a5eed1e584d/1*OLVp8VS1OwwnMPUu9bWlBg.jpeg
 ---
 
 ### **AYS DAILY DIGEST 30/10:** _Battle to break the siege of Aleppo keeps claiming innocent victims_
@@ -15,7 +15,7 @@ image:
 _… with mutual accusations of chemical weapons use / New clashes at Souda camp, Chios Island / Stalingrad station in Paris to be cleared in the coming week / War in Yemen cripples healthcare for millions / UK declines France’s request to take more Calais children / Refugees face lifetime ban to enter Australia if they arrive by boat / Donation and volunteer calls for Lebanon and Greece_
 
 
-![White helmet Ibrahim rescuing a child\. [The organization is mourning his loss](https://twitter.com/syriacivildef/status/792696750767280128) , killed by an attack on the way to rescue civilians in Aleppo\.](assets/1a5eed1e584d/1*OLVp8VS1OwwnMPUu9bWlBg.jpeg)
+![White helmet Ibrahim rescuing a child\. [The organization is mourning his loss](https://twitter.com/syriacivildef/status/792696750767280128) , killed by an attack on the way to rescue civilians in Aleppo\.](../assets/1a5eed1e584d/1*OLVp8VS1OwwnMPUu9bWlBg.jpeg)
 
 White helmet Ibrahim rescuing a child\. [The organization is mourning his loss](https://twitter.com/syriacivildef/status/792696750767280128) , killed by an attack on the way to rescue civilians in Aleppo\.
 ### Syria
@@ -48,7 +48,7 @@ Full story [here](https://www.facebook.com/photo.php?fbid=10154637475472973&set=
 ### Lebanon
 
 
-![Salam LADC volunteers](assets/1a5eed1e584d/1*oWJectIqxhfAzv0-59JbBA.jpeg)
+![Salam LADC volunteers](../assets/1a5eed1e584d/1*oWJectIqxhfAzv0-59JbBA.jpeg)
 
 Salam LADC volunteers
 
@@ -68,7 +68,7 @@ The group [From Shoreham to Greece](https://www.facebook.com/groups/152137773484
 Today there was also a kind request to help a Syrian man on a wheel chair in Oreokastro camp, north of Thessaloniki\. He has very little mobility and his friends are wishing for someone that might be able to [donate Abo Ahmad an electric wheelchair](https://www.facebook.com/groups/1096358837095826/permalink/1193940574004318/) \.
 
 
-![Abo Ahmad in Oreokastro camp](assets/1a5eed1e584d/1*F4PBfP2nEgDeabjTPExFHg.jpeg)
+![Abo Ahmad in Oreokastro camp](../assets/1a5eed1e584d/1*F4PBfP2nEgDeabjTPExFHg.jpeg)
 
 Abo Ahmad in Oreokastro camp
 
@@ -97,7 +97,7 @@ De Maizière’s draft was formed after the sexual attacks in Cologne in the New
 ### France
 
 
-![Refugee tents between Stalingrad and Jaures metro stations](assets/1a5eed1e584d/1*QZMITnLa-SHbHLspKcRb5g.jpeg)
+![Refugee tents between Stalingrad and Jaures metro stations](../assets/1a5eed1e584d/1*QZMITnLa-SHbHLspKcRb5g.jpeg)
 
 Refugee tents between Stalingrad and Jaures metro stations
 
@@ -116,7 +116,7 @@ In the meanwhile there are still many people at the “jungle”, even if the th
 _“Where are the French and British governments? Where is the [British Red Cross](https://www.facebook.com/BritishRedCross/) or [Oxfam](https://www.facebook.com/Oxfam/) or any other heavily funded organizations?”_
 
 
-![by Kitchen Calais](assets/1a5eed1e584d/1*8WJSG0Tkd15J4ELdWX9NUg.jpeg)
+![by Kitchen Calais](../assets/1a5eed1e584d/1*8WJSG0Tkd15J4ELdWX9NUg.jpeg)
 
 by Kitchen Calais
 

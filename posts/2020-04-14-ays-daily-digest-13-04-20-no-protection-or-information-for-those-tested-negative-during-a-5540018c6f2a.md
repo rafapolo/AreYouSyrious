@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 13/04/20: No protection or information for those tested negative during a…
+title: "AYS Daily Digest 13/04/20: No protection or information for those tested negative during a…"
 author: Are You Syrious?
 date: 2020-04-14T10:54:18.352+0100
 last_modified_at: 2020-04-15T20:35:07.772+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,detention,coronavirus,france]
 description: People Released From Quarantine Camps in Turkey///Aita Mari Rescues 47 People Stranded at Sea///Coronavirus Hysteria & Fake News in…
 image:
-  path: assets/5540018c6f2a/0*NjXYwCufg-rD04XU
+  path: ../assets/5540018c6f2a/0*NjXYwCufg-rD04XU
 ---
 
 ### AYS Daily Digest 13/04/20: No protection or information for those testing negative during a coronavirus spread in a reception center
 #### People Released From Quarantine Camps in Turkey/// Aita Mari Rescues 47 People Stranded at Sea/// Coronavirus Hysteria & Fake News in Greece/// & More
 
 
-![A group of children living in Moria\. Photo by [Wave of Hope](https://www.facebook.com/WaveOfHopeForTheFuture/photos/rpp.426967474769723/655287768604358/?type=3&theater)](assets/5540018c6f2a/0*NjXYwCufg-rD04XU)
+![A group of children living in Moria\. Photo by [Wave of Hope](https://www.facebook.com/WaveOfHopeForTheFuture/photos/rpp.426967474769723/655287768604358/?type=3&theater)](../assets/5540018c6f2a/0*NjXYwCufg-rD04XU)
 
 A group of children living in Moria\. Photo by [Wave of Hope](https://www.facebook.com/WaveOfHopeForTheFuture/photos/rpp.426967474769723/655287768604358/?type=3&theater)
 ### FEATURE — Coronavirus Tears Through German Reception Center

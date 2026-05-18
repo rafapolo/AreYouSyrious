@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 10/08/17: Rhodes—Another island, same shameful camps
+title: "AYS Daily Digest 10/08/17: Rhodes—Another island, same shameful camps"
 author: Are You Syrious?
 date: 2017-08-11T00:55:31.241+0100
 last_modified_at: 2017-08-12T19:19:10.450+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,greece,yemen,mediterranean,italy]
 description: Deliberate drowning in Yemen / Libya repeals NGO boats / Protests in Athens / Austria reinforces border patrols / Situation deteriorates in…
 image:
-  path: assets/327832412d31/1*sSKp7As99fjUUv1vVozmPA.jpeg
+  path: ../assets/327832412d31/1*sSKp7As99fjUUv1vVozmPA.jpeg
 ---
 
 ### AYS Daily Digest 10/08/17: Rhodes—Another island, same shameful camps
@@ -15,7 +15,7 @@ image:
 _Deliberate drowning in Yemen / Libya repeals NGO boats / Protests in Athens / Austria reinforces border patrols / Situation deteriorates in Paris / Sit\-in protest continues in Sweden / More arrivals in Spain / Slavery hits record numbers in Europe / Hundreds crossing from USA to Canada / Volunteers needs / And more news…_
 
 
-![Protest in Athens agains slow reunification process with Germany \(Photo by Katja Lihtenvalner\)](assets/327832412d31/1*sSKp7As99fjUUv1vVozmPA.jpeg)
+![Protest in Athens agains slow reunification process with Germany \(Photo by Katja Lihtenvalner\)](../assets/327832412d31/1*sSKp7As99fjUUv1vVozmPA.jpeg)
 
 Protest in Athens agains slow reunification process with Germany \(Photo by Katja Lihtenvalner\)
 ### FEATURE: Rhodes—Another island, same shameful camps
@@ -25,12 +25,12 @@ A report published today on [عشتار للهجرة واللجوء](https://www
 Rhodes is a Greek island about 18 kilometres from the nearest point on the Turkish coast \(Marmaris\) \. This distance is greater than the distance between the Turkish coast and the island of Chios, for example\. This island is southeast from Kos and just below the Turkish coast\. The camp for refugees has a small dimension and is located in the northern part of the island by the coast, at the entrance of the port and this camp was previously a slaughterhouse for pigs and many of the tools used in the slaughterhouse like meat hangers are still in the structure\.
 
 
-![Entrance of the camp where is visible a Greek ministry and a UNHCR sign \(Photo by [عشتار للهجرة واللجوء](https://www.facebook.com/%D8%B9%D8%B4%D8%AA%D8%A7%D8%B1-%D9%84%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D9%84%D8%AC%D9%88%D8%A1-687993924641223/) \)](assets/327832412d31/1*7L77Ir6gbrswpZLQv1_Nrw.jpeg)
+![Entrance of the camp where is visible a Greek ministry and a UNHCR sign \(Photo by [عشتار للهجرة واللجوء](https://www.facebook.com/%D8%B9%D8%B4%D8%AA%D8%A7%D8%B1-%D9%84%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D9%84%D8%AC%D9%88%D8%A1-687993924641223/) \)](../assets/327832412d31/1*7L77Ir6gbrswpZLQv1_Nrw.jpeg)
 
 Entrance of the camp where is visible a Greek ministry and a UNHCR sign \(Photo by [عشتار للهجرة واللجوء](https://www.facebook.com/%D8%B9%D8%B4%D8%AA%D8%A7%D8%B1-%D9%84%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D9%84%D8%AC%D9%88%D8%A1-687993924641223/) \)
 
 
-![The camp is just by the port and was a slaughter house in the past \(Photo by [عشتار للهجرة واللجوء](https://www.facebook.com/%D8%B9%D8%B4%D8%AA%D8%A7%D8%B1-%D9%84%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D9%84%D8%AC%D9%88%D8%A1-687993924641223/) \)](assets/327832412d31/1*69mRZEC-goC5NrbmbEi6Fg.jpeg)
+![The camp is just by the port and was a slaughter house in the past \(Photo by [عشتار للهجرة واللجوء](https://www.facebook.com/%D8%B9%D8%B4%D8%AA%D8%A7%D8%B1-%D9%84%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D9%84%D8%AC%D9%88%D8%A1-687993924641223/) \)](../assets/327832412d31/1*69mRZEC-goC5NrbmbEi6Fg.jpeg)
 
 The camp is just by the port and was a slaughter house in the past \(Photo by [عشتار للهجرة واللجوء](https://www.facebook.com/%D8%B9%D8%B4%D8%AA%D8%A7%D8%B1-%D9%84%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D9%84%D8%AC%D9%88%D8%A1-687993924641223/) \)
 
@@ -39,29 +39,29 @@ This camp is not closed like the typical detaining centres on other islands mean
 At the moment between 60 and 70 refugees live here which we estimate to be around 10–20% of the refugees on the island and most are unmarried young people\. While most families are sorted out in homes and apartments inside the island there are still some families with children, which arrived recently to the island, living in this camp\.
 
 
-![Some refugees hand their clothe on the old meat hangers and sleep with little privacy \(Photo by [عشتار للهجرة واللجوء](https://www.facebook.com/%D8%B9%D8%B4%D8%AA%D8%A7%D8%B1-%D9%84%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D9%84%D8%AC%D9%88%D8%A1-687993924641223/) \)](assets/327832412d31/1*0yvyjjntsoPG7ES1mWE0Hw.jpeg)
+![Some refugees hand their clothe on the old meat hangers and sleep with little privacy \(Photo by [عشتار للهجرة واللجوء](https://www.facebook.com/%D8%B9%D8%B4%D8%AA%D8%A7%D8%B1-%D9%84%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D9%84%D8%AC%D9%88%D8%A1-687993924641223/) \)](../assets/327832412d31/1*0yvyjjntsoPG7ES1mWE0Hw.jpeg)
 
 Some refugees hand their clothe on the old meat hangers and sleep with little privacy \(Photo by [عشتار للهجرة واللجوء](https://www.facebook.com/%D8%B9%D8%B4%D8%AA%D8%A7%D8%B1-%D9%84%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D9%84%D8%AC%D9%88%D8%A1-687993924641223/) \)
 
 
-![A few have “private rooms” \(Photo by [عشتار للهجرة واللجوء](https://www.facebook.com/%D8%B9%D8%B4%D8%AA%D8%A7%D8%B1-%D9%84%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D9%84%D8%AC%D9%88%D8%A1-687993924641223/) \)](assets/327832412d31/1*-905e0i5HobO8IyDWoNkHw.jpeg)
+![A few have “private rooms” \(Photo by [عشتار للهجرة واللجوء](https://www.facebook.com/%D8%B9%D8%B4%D8%AA%D8%A7%D8%B1-%D9%84%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D9%84%D8%AC%D9%88%D8%A1-687993924641223/) \)](../assets/327832412d31/1*-905e0i5HobO8IyDWoNkHw.jpeg)
 
 A few have “private rooms” \(Photo by [عشتار للهجرة واللجوء](https://www.facebook.com/%D8%B9%D8%B4%D8%AA%D8%A7%D8%B1-%D9%84%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D9%84%D8%AC%D9%88%D8%A1-687993924641223/) \)
 
 They spend their time in the camp and around the area waiting for better accommodation in Rhodes and have to remain on the island until the processing of the asylum application is completed\. They then receive a blue stamp on the asylum papers to leave the island to Athens or another Greek city on the Greek mainland\. Water supply seems to be constant in this camp unlike on other islands during this dry summer but here refugees have to rely on themselves to cook food\.
 
 
-![\(Photo by [عشتار للهجرة واللجوء](https://www.facebook.com/%D8%B9%D8%B4%D8%AA%D8%A7%D8%B1-%D9%84%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D9%84%D8%AC%D9%88%D8%A1-687993924641223/) \)](assets/327832412d31/1*eiHt7q9X_zIY8wbBSpGfhQ.jpeg)
+![\(Photo by [عشتار للهجرة واللجوء](https://www.facebook.com/%D8%B9%D8%B4%D8%AA%D8%A7%D8%B1-%D9%84%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D9%84%D8%AC%D9%88%D8%A1-687993924641223/) \)](../assets/327832412d31/1*eiHt7q9X_zIY8wbBSpGfhQ.jpeg)
 
 \(Photo by [عشتار للهجرة واللجوء](https://www.facebook.com/%D8%B9%D8%B4%D8%AA%D8%A7%D8%B1-%D9%84%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D9%84%D8%AC%D9%88%D8%A1-687993924641223/) \)
 
 
-![\(Photo by [عشتار للهجرة واللجوء](https://www.facebook.com/%D8%B9%D8%B4%D8%AA%D8%A7%D8%B1-%D9%84%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D9%84%D8%AC%D9%88%D8%A1-687993924641223/) \)](assets/327832412d31/1*o4Wywa7uBYTcgxf42jCLhA.jpeg)
+![\(Photo by [عشتار للهجرة واللجوء](https://www.facebook.com/%D8%B9%D8%B4%D8%AA%D8%A7%D8%B1-%D9%84%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D9%84%D8%AC%D9%88%D8%A1-687993924641223/) \)](../assets/327832412d31/1*o4Wywa7uBYTcgxf42jCLhA.jpeg)
 
 \(Photo by [عشتار للهجرة واللجوء](https://www.facebook.com/%D8%B9%D8%B4%D8%AA%D8%A7%D8%B1-%D9%84%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D9%84%D8%AC%D9%88%D8%A1-687993924641223/) \)
 
 
-![Washing unit outside \(Photo by [عشتار للهجرة واللجوء](https://www.facebook.com/%D8%B9%D8%B4%D8%AA%D8%A7%D8%B1-%D9%84%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D9%84%D8%AC%D9%88%D8%A1-687993924641223/) \)](assets/327832412d31/1*oOOuEtwr49mrHyg4AvWEpg.jpeg)
+![Washing unit outside \(Photo by [عشتار للهجرة واللجوء](https://www.facebook.com/%D8%B9%D8%B4%D8%AA%D8%A7%D8%B1-%D9%84%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D9%84%D8%AC%D9%88%D8%A1-687993924641223/) \)](../assets/327832412d31/1*oOOuEtwr49mrHyg4AvWEpg.jpeg)
 
 Washing unit outside \(Photo by [عشتار للهجرة واللجوء](https://www.facebook.com/%D8%B9%D8%B4%D8%AA%D8%A7%D8%B1-%D9%84%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D9%84%D8%AC%D9%88%D8%A1-687993924641223/) \)
 
@@ -72,7 +72,7 @@ Local residents donate food to the refugee camp, such as beans, sugar, sugar, sa
 This camp has no cooling and heating equipment and the windows are broken and in the winter, refugees have put wood panels to close the openings\. In the summer they are exposed to the heat, insects and other dangers\.
 
 
-![\(Photo by [عشتار للهجرة واللجوء](https://www.facebook.com/%D8%B9%D8%B4%D8%AA%D8%A7%D8%B1-%D9%84%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D9%84%D8%AC%D9%88%D8%A1-687993924641223/) \)](assets/327832412d31/1*TFEDA8GHDD4MKkrvhiwkZQ.jpeg)
+![\(Photo by [عشتار للهجرة واللجوء](https://www.facebook.com/%D8%B9%D8%B4%D8%AA%D8%A7%D8%B1-%D9%84%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D9%84%D8%AC%D9%88%D8%A1-687993924641223/) \)](../assets/327832412d31/1*TFEDA8GHDD4MKkrvhiwkZQ.jpeg)
 
 \(Photo by [عشتار للهجرة واللجوء](https://www.facebook.com/%D8%B9%D8%B4%D8%AA%D8%A7%D8%B1-%D9%84%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D9%84%D8%AC%D9%88%D8%A1-687993924641223/) \)
 
@@ -84,7 +84,7 @@ We strongly support that volunteers and groups available consider giving some ex
 The U\.N\. migration agency said on Wednesday that **up to 50 migrants from Somalia and Ethiopia were “deliberately drowned”** when a smuggler forced 120\+ from their boat into the sea off Yemen’s coast\. IOM staff found the shallow graves of 29 of the migrants on a beach in Shabwa during a routine patrol which were made by the survivors of this tragedy\. They also stated that there are still 22 refugees missing from a vessel where the average passenger’s age was 16 years old\.
 
 
-![Photo by [**IOM**](https://twitter.com/UNmigration)](assets/327832412d31/1*0gDrsMUKibO9GRg9HYqZyQ.jpeg)
+![Photo by [**IOM**](https://twitter.com/UNmigration)](../assets/327832412d31/1*0gDrsMUKibO9GRg9HYqZyQ.jpeg)
 
 Photo by [**IOM**](https://twitter.com/UNmigration)
 
@@ -112,7 +112,7 @@ The commander of the Tripoli naval base where the conference was held also said 
 With all the pressure put on the NGOs in the last few weeks, especially from the European side, it remains unclear you is really shouting at these NGO’s and trying to prevent them from doing their humanitarian job\. The north African common population clearly seems to support the search and rescue operations and is against any interference has seen by the demonstrations done by Tunisian fishermen a couple of days ago against the racist ship C\-star\. The “government” of Libya itself never seemed to mind the work of the rescuers until very recently when other restrictive measures, to say the least, were imposed on NGOs\. \.
 
 
-![Photo by [**Jugend Rettet e\.V\.‏**](https://twitter.com/jugendrettet)](assets/327832412d31/1*ZSZMTkdDd03QMVMAfy-eDg.jpeg)
+![Photo by [**Jugend Rettet e\.V\.‏**](https://twitter.com/jugendrettet)](../assets/327832412d31/1*ZSZMTkdDd03QMVMAfy-eDg.jpeg)
 
 Photo by [**Jugend Rettet e\.V\.‏**](https://twitter.com/jugendrettet)
 
@@ -190,7 +190,7 @@ About 2,400 refugees are awaiting currently their transfer\. Many have spent alr
 Also in Khora there will be a legal information workshop on asylum procedures for women in the Women’s Space at 3pm, giving room for any legal questions to be answered\. Arabic & Farsi translation will be available\.
 
 
-![](assets/327832412d31/1*Fs4C3hMK5hI3Z2AbUgKbHg.png)
+![](../assets/327832412d31/1*Fs4C3hMK5hI3Z2AbUgKbHg.png)
 
 
 Legal Assessments are held by their legal support team on the ground floor daily, from 12–5pm on a drop in basis\. Individual cases are assessed and then directed to our on sight lawyer if needed\.
@@ -198,7 +198,7 @@ Legal Assessments are held by their legal support team on the ground floor daily
 [**I AM YOU**](https://www.facebook.com/iamyourescue/?hc_ref=ARSQUU8Kzke3D-0RcinWakhr14XsMIFQpgMsGVEXBzf0WaugUeVHDDy3S9s50rrdqnw) is also looking for volunteers to work on their projects so please consider get in touch on the link\.
 
 
-![](assets/327832412d31/1*VhbRreaAioZtad6Ezny7ug.jpeg)
+![](../assets/327832412d31/1*VhbRreaAioZtad6Ezny7ug.jpeg)
 
 
 [**No Border Kitchen Lesvos**](https://www.facebook.com/NBKLesvos/?hc_ref=ARS7lC1LeqzBsj-3rPgdxHfoXLdKN2FP5JGTwTTVHYg5IeiSAuQnYAwnAFkWJMBVNU4&fref=nf) needs to fundraise to continue to give an alternative to the unsuitable system existing in Moria and they have published this statement from one of their now volunteers\. Pease consider donating [here](http://youcaring.com/nbklesvos) \.
@@ -234,7 +234,7 @@ Austria is to reinforce its border with Italy, according to several newspaper re
 Today women in black demonstrated in Como against inhuman treatment of refugees, especially cooperation of Italian authorities with Libya concerning their sea mission\. Only a few but enough to make their voices be head in name of humanity\.
 
 
-![Photo by Ecoinformazioni](assets/327832412d31/1*8RaKUuEgjgXYclduqB53Kg.jpeg)
+![Photo by Ecoinformazioni](../assets/327832412d31/1*8RaKUuEgjgXYclduqB53Kg.jpeg)
 
 Photo by Ecoinformazioni
 ### FRANCE
@@ -247,7 +247,7 @@ On the barriers and on the vents of the metro, migrants try to dry their affairs
 Maybe in 70 years there will be references to refugees all over like this one in Roya in the south of France\. But that’s not enough\. \. recognition is not enough in the future\. \. we need action in the present to be able to face the past in the future\.
 
 
-![Photo by **‎ [Jeannine Saulet](https://www.facebook.com/jeannine.saulet?hc_ref=ARQnR0UpvrKvPdIbweYg5MV46fy5FEc_iVP50ODx4olaA71PYv_nyJifMYEXdfeOZiM&fref=nf) ‎**](assets/327832412d31/1*ViVmlhzr0bXp0_PJ7fCtUQ.jpeg)
+![Photo by **‎ [Jeannine Saulet](https://www.facebook.com/jeannine.saulet?hc_ref=ARQnR0UpvrKvPdIbweYg5MV46fy5FEc_iVP50ODx4olaA71PYv_nyJifMYEXdfeOZiM&fref=nf) ‎**](../assets/327832412d31/1*ViVmlhzr0bXp0_PJ7fCtUQ.jpeg)
 
 Photo by **‎ [Jeannine Saulet](https://www.facebook.com/jeannine.saulet?hc_ref=ARQnR0UpvrKvPdIbweYg5MV46fy5FEc_iVP50ODx4olaA71PYv_nyJifMYEXdfeOZiM&fref=nf) ‎**
 
@@ -312,12 +312,12 @@ According to Fatameh Khavari the participants have received several threaths, bu
 According AYS volunteers there were more than 1000 people today at the demonstration\.
 
 
-![\(Photo by AYS\)](assets/327832412d31/1*IPMWveouIGzIFg3gWjVJ4Q.jpeg)
+![\(Photo by AYS\)](../assets/327832412d31/1*IPMWveouIGzIFg3gWjVJ4Q.jpeg)
 
 \(Photo by AYS\)
 
 
-![\(Photo by AYS\)](assets/327832412d31/1*oRyO7csygGbDyEUwvSTkoQ.jpeg)
+![\(Photo by AYS\)](../assets/327832412d31/1*oRyO7csygGbDyEUwvSTkoQ.jpeg)
 
 \(Photo by AYS\)
 ### SPAIN

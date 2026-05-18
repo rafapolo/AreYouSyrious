@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 11/08/2021: Afghanistan. Finally deportations from Germany suspended
+title: "AYS Daily Digest 11/08/2021: Afghanistan. Finally deportations from Germany suspended"
 author: Are You Syrious?
 date: 2021-08-12T14:50:52.826+0100
 last_modified_at: 2021-08-12T15:07:59.918+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,europe,afghanistan,germany]
 description: Updates on the situation in Afghanistan and that of Afghans outside the Country // Self-organized crossings from Tunisia // Hunger strike…
 image:
-  path: assets/6e7023fcf08c/1*OheT97VyeqoGuNo7doStbg.jpeg
+  path: ../assets/6e7023fcf08c/1*OheT97VyeqoGuNo7doStbg.jpeg
 ---
 
 ### AYS Daily Digest 11/08/2021: Afghanistan\. Finally deportations from Germany suspended
 #### Updates on the situation in Afghanistan and that of Afghans outside the Country // Self\-organized crossings from Tunisia // Hunger strike in Algeria // Disembarkation from Ocean Vikings // Pushbacks from Latvia // Kurdish Family and couple fear deportation from Germany // Deportation flight from UK to Jamaica
 
 
-![Street life in Faizabad in 2019\. The city was conquered by the Taliban yesterday\. Copyrights: Sharif Hassan](assets/6e7023fcf08c/1*OheT97VyeqoGuNo7doStbg.jpeg)
+![Street life in Faizabad in 2019\. The city was conquered by the Taliban yesterday\. Copyrights: Sharif Hassan](../assets/6e7023fcf08c/1*OheT97VyeqoGuNo7doStbg.jpeg)
 
 Street life in Faizabad in 2019\. The city was conquered by the Taliban yesterday\. Copyrights: Sharif Hassan
 ### FEATURE: Afghanistan\.

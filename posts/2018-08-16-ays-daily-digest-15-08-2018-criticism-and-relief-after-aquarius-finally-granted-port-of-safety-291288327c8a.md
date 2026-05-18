@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 15/08/2018: Criticism and relief after Aquarius finally granted port of safety
+title: "AYS Daily Digest 15/08/2018: Criticism and relief after Aquarius finally granted port of safety"
 author: Are You Syrious?
 date: 2018-08-16T09:02:46.958+0100
 last_modified_at: 2018-08-17T15:03:13.799+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,aquarius,mediterranean,europe]
 description: Further reports of arrests and violent police raids in camps in Nador, Morocco / More reports of death and danger in Afghanistan as…
 image:
-  path: assets/291288327c8a/0*0ygV9hupxl31TmDB
+  path: ../assets/291288327c8a/0*0ygV9hupxl31TmDB
 ---
 
 ### AYS Daily Digest 15/08/2018: _Criticism and relief after Aquarius finally granted port of safety_
@@ -15,7 +15,7 @@ image:
 _Further reports of arrests and violent police raids in camps in Nador, Morocco / More reports of death and danger in Afghanistan as deportations continue / 524 people disembarked in Spain while 192 arrived on Lesvos, Greece / Sit\-in in Sweden to protest against deportations to Afghanistan / Increased police checks on freight trains on Basel\-Karlsruhe route / Another ambiguous asylum application rejection as procedures around establishing sexual orientation continue to astound — this time in Austria / And more news…_
 
 
-![People on board the Aquarius\. \(Photo credit: MSF Sea\)](assets/291288327c8a/0*0ygV9hupxl31TmDB)
+![People on board the Aquarius\. \(Photo credit: MSF Sea\)](../assets/291288327c8a/0*0ygV9hupxl31TmDB)
 
 People on board the Aquarius\. \(Photo credit: MSF Sea\)
 ### FEATURE: Praise and despair after Aquarius docks in Malta
@@ -67,7 +67,7 @@ Their tweet, below, was generous given the huge delays in finding a port of safe
 The Moroccan Association for Human Rights, [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?hc_ref=ARRyTl_rFBZ_DIuaxHiX752ewqV2TphrSwyqczh9k86atU1KbN5VQzEelX-g3R8HFJ4&fref=nf&hc_location=group) , reported arrests and posted photos of camps which they state were destroyed during police raids on Wednesday morning\.
 
 
-![Photo credit: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?hc_ref=ARRyTl_rFBZ_DIuaxHiX752ewqV2TphrSwyqczh9k86atU1KbN5VQzEelX-g3R8HFJ4&fref=nf&hc_location=group)](assets/291288327c8a/0*1QRAfeFXJfhWlNRA)
+![Photo credit: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?hc_ref=ARRyTl_rFBZ_DIuaxHiX752ewqV2TphrSwyqczh9k86atU1KbN5VQzEelX-g3R8HFJ4&fref=nf&hc_location=group)](../assets/291288327c8a/0*1QRAfeFXJfhWlNRA)
 
 Photo credit: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?hc_ref=ARRyTl_rFBZ_DIuaxHiX752ewqV2TphrSwyqczh9k86atU1KbN5VQzEelX-g3R8HFJ4&fref=nf&hc_location=group)
 ### AFGHANISTAN
@@ -144,14 +144,14 @@ See the latest [UNHCR report](https://data2.unhcr.org/en/documents/download/6515
 192 arrivals to Lesvos
 
 
-![By [Erik Gerhardsson](https://www.facebook.com/erik.gerhardsson.7?fref=gs&dti=1652972374920129&hc_location=group_dialog) ‎](assets/291288327c8a/1*xQxOrDBdGdSSTcQI2mIywg.jpeg)
+![By [Erik Gerhardsson](https://www.facebook.com/erik.gerhardsson.7?fref=gs&dti=1652972374920129&hc_location=group_dialog) ‎](../assets/291288327c8a/1*xQxOrDBdGdSSTcQI2mIywg.jpeg)
 
 By [Erik Gerhardsson](https://www.facebook.com/erik.gerhardsson.7?fref=gs&dti=1652972374920129&hc_location=group_dialog) ‎
 
 The first boat landed south of the airport, Lesvos south, at around 12:45 am, [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/427397987783311) informs\. The second boat was picked up by HCG outside the airport, Lesvos south, around 6:00 am\. The third boat landed pn the outskirts of Skala Sykamineas, Lesvos north, at 7:30 am\. The fourth boat landed in Skala Neon Kidonion, Lesvos south east, around 11:30 am\.
 
 
-![“Beautiful sunrise on Lesvos this morning\. If you look closely in the picture you’ll see both Greek coast guard and the rubber boat with refugees\. Everyone was transported safely ashore\.” \(Photo by: [Monica Skilbrei](https://www.facebook.com/monica.skilbrei) \)](assets/291288327c8a/1*h0HZA2xNpcwMKaCqPZ66DQ.jpeg)
+![“Beautiful sunrise on Lesvos this morning\. If you look closely in the picture you’ll see both Greek coast guard and the rubber boat with refugees\. Everyone was transported safely ashore\.” \(Photo by: [Monica Skilbrei](https://www.facebook.com/monica.skilbrei) \)](../assets/291288327c8a/1*h0HZA2xNpcwMKaCqPZ66DQ.jpeg)
 
 “Beautiful sunrise on Lesvos this morning\. If you look closely in the picture you’ll see both Greek coast guard and the rubber boat with refugees\. Everyone was transported safely ashore\.” \(Photo by: [Monica Skilbrei](https://www.facebook.com/monica.skilbrei) \)
 ### AUSTRIA
@@ -168,7 +168,7 @@ Homosexuality continues to be illegal in Afghanistan while asylum applications b
 Volunteer [Sarah Fenby\-Dixon](https://www.facebook.com/sarah.fenbydixon.1?hc_ref=ARSTRGvqTJKCGt5SEpFsRTsBkGL6pQMC8g8mzIi3kH4kVKA9HnxOS7RqkPGobXdBS2w&fref=nf) wrote a quick Paris update:
 
 
-![](assets/291288327c8a/1*TivTsibjMUdNaj1jY2DJrw.jpeg)
+![](../assets/291288327c8a/1*TivTsibjMUdNaj1jY2DJrw.jpeg)
 
 
 “There are still hundreds on the street but they are continually chased and scattered by the police\. During the day people seem to gather in small groups away from public gaze or hide or walk the streets\.

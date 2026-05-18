@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 1/7/22: European court decided- no right to detain people just because they…
+title: "AYS News Digest 1/7/22: European court decided- no right to detain people just because they…"
 author: Are You Syrious?
 date: 2022-07-02T19:55:32.529+0100
 last_modified_at: 2022-07-03T02:09:23.931+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,human-rights,europe,refugees,greece]
 description: BVMN investigation into the use of islets in illegal pushbacks, disregard for interim measures by the Greek state, and the unfolding…
 image:
-  path: assets/393daca19934/0*H76ddcOgFDoN7_Kf.jpg
+  path: ../assets/393daca19934/0*H76ddcOgFDoN7_Kf.jpg
 ---
 
 ### AYS News Digest 1/7/22: European court decided\- no right to detain people just because they entered ‘illegally’
 #### **BVMN investigation into the use of islets in illegal pushbacks, disregard for interim measures by the Greek state, and the unfolding dynamic of criminalisation through smear campaigns against human rights defenders /** The UN’s Independent Fact\-Finding Mission on Libya issues a report corroborating earlier claims of serious human rights abuses / Poland completes Belarus border wall / other reports, news and updates
 
 
-![](assets/393daca19934/0*H76ddcOgFDoN7_Kf.jpg)
+![](../assets/393daca19934/0*H76ddcOgFDoN7_Kf.jpg)
 
 #### FEATURE — The Court slams automatic detention and denial of asylum
 
@@ -99,7 +99,7 @@ However, the mission has nonetheless reported and documented serious human right
 There are reasonable grounds to believe that some of the acts committed in prisons amount to war crimes committed in the context of the non\-international armed conflict that took place in and around Tripoli from April 2019 to June 2020, especially when individuals linked to the LNA were tortured when its forces advanced on Tripoli\.
 
 
-![](assets/393daca19934/1*FblJM4U10KYghRccPvOIBg.png)
+![](../assets/393daca19934/1*FblJM4U10KYghRccPvOIBg.png)
 
 
 The Mission continued its investigations of extrajudicial killings in relation to violations of the right to life associated with the mass graves discovered in and around Tarhuna, in western Libya\.
@@ -134,7 +134,7 @@ All the “precious information through which it was possible to observe the nat
 However, the information is now republished in its entirety in the original layout:
 
 
-![[Report](https://i0.wp.com/altreconomia.it/app/uploads/2022/06/Schermata-2022-06-29-alle-09.44.51.png?w=619&ssl=1)](assets/393daca19934/0*IyZDVPL_4JmUfGr5)
+![[Report](https://i0.wp.com/altreconomia.it/app/uploads/2022/06/Schermata-2022-06-29-alle-09.44.51.png?w=619&ssl=1)](../assets/393daca19934/0*IyZDVPL_4JmUfGr5)
 
 [Report](https://i0.wp.com/altreconomia.it/app/uploads/2022/06/Schermata-2022-06-29-alle-09.44.51.png?w=619&ssl=1)
 
@@ -219,7 +219,7 @@ Deportations over the barbed wire, punishment for helping, troops on the street\
 Grupa Granica — a social movement formed in response to the humanitarian crisis\.
 
 
-![Photo by Nicholas Kiembłowski](assets/393daca19934/0*g4LzLTf1gCON8Csb)
+![Photo by Nicholas Kiembłowski](../assets/393daca19934/0*g4LzLTf1gCON8Csb)
 
 Photo by Nicholas Kiembłowski
 

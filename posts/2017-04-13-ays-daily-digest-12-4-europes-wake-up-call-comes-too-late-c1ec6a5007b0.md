@@ -1,13 +1,13 @@
 ---
-title: AYS Daily Digest 12/04/17: Europe’s “wake up call” comes too late.
+title: "AYS Daily Digest 12/04/17: Europe’s “wake up call” comes too late."
 author: Are You Syrious?
 date: 2017-04-13T00:17:17.785+0100
 last_modified_at: 2017-04-13T00:18:38.587+0100
 categories: 
 tags: [refugees,europe]
-description: FEATURE: Europe’s response to Child Trafficking — too little, too late. Refugees returned to Turkey bearing wounds from their time in…
+description: "FEATURE: Europe’s response to Child Trafficking — too little, too late. Refugees returned to Turkey bearing wounds from their time in…"
 image:
-  path: assets/c1ec6a5007b0/1*RehV4iw4Bwd6pXkBnd8O0A.jpeg
+  path: ../assets/c1ec6a5007b0/1*RehV4iw4Bwd6pXkBnd8O0A.jpeg
 ---
 
 ### AYS Daily Digest 12/04/17: Europe’s “wake up call” comes too late\.
@@ -15,7 +15,7 @@ image:
 _FEATURE: Europe’s response to Child Trafficking — too little, too late\. Refugees returned to Turkey bearing wounds from their time in Greece\. New arrivals increase in Greece\. Serbia shifting refugees from camp to camp\. Volunteers in France scrambling to recover after Dunkirk fire\._
 
 
-![](assets/c1ec6a5007b0/1*RehV4iw4Bwd6pXkBnd8O0A.jpeg)
+![](../assets/c1ec6a5007b0/1*RehV4iw4Bwd6pXkBnd8O0A.jpeg)
 
 ### FEATURE: Europe’s response to Child Trafficking — too little, too late\.
 
@@ -48,7 +48,7 @@ We found a quiet corner to drink tea and he promised me to answer my questions\.
 The urgency and desperation of Mustafa’s situation is only heightened by the impending [constitutional referendum in Turkey](ays-special-syrians-set-to-lose-in-the-turkish-referendum-42f839bc6fd5) which will only further complicate the political landscape\.
 
 
-![Photo Credit: Are You Syrious](assets/c1ec6a5007b0/1*v0vOkKS08ixy3eudc6noag.jpeg)
+![Photo Credit: Are You Syrious](../assets/c1ec6a5007b0/1*v0vOkKS08ixy3eudc6noag.jpeg)
 
 Photo Credit: Are You Syrious
 ### GREECE
@@ -56,14 +56,14 @@ Photo Credit: Are You Syrious
 After days of calm, several new arrivals on Chios\. The first two landed in the morning and totaled sixty\-eight people\. The driver of the first boat was arrested as a smuggler\. The third boat arrived in the afternoon with a total of fifty\-six people\.
 
 
-![People arriving today on Chios Photo credit: Leslie Meral Schick](assets/c1ec6a5007b0/1*5Yo36cgitbklm_npk2NJKg.jpeg)
+![People arriving today on Chios Photo credit: Leslie Meral Schick](../assets/c1ec6a5007b0/1*5Yo36cgitbklm_npk2NJKg.jpeg)
 
 People arriving today on Chios Photo credit: Leslie Meral Schick
 
 Additionally, one boat was picked up by Frontex and guided to Lesvos, with forty\-six people aboard\. Another boat of thirty\-eight people arrived on Samos\. This makes for a grand total of 208 people\. According to FRONTEX, 1690 people arrived in Greece during March\.
 
 
-![A new guest in Greece\. Photo credit: [**Chios Eastern Shore Response Team**](https://www.facebook.com/groups/421759534684819/)](assets/c1ec6a5007b0/1*4mY4gt8EWse4m_DpVtF5JQ.jpeg)
+![A new guest in Greece\. Photo credit: [**Chios Eastern Shore Response Team**](https://www.facebook.com/groups/421759534684819/)](../assets/c1ec6a5007b0/1*4mY4gt8EWse4m_DpVtF5JQ.jpeg)
 
 A new guest in Greece\. Photo credit: [**Chios Eastern Shore Response Team**](https://www.facebook.com/groups/421759534684819/)
 #### Mainland
@@ -83,7 +83,7 @@ Information from Mobile Info Team for Greece
 According to [**Marianna Karakoulaki** ‏](https://twitter.com/Faloulah) : A group of refugees was camping in Thessaloniki after their camp was evicted yesterday\. They say UNHCR promised to take them to private housing but instead they were taken to a different camp\. They later ended up in the camp\.
 
 
-![Waiting for a response from UNHCR\. Photo credit: Marianna Karakoulaki](assets/c1ec6a5007b0/1*OvTtaBlB-hMrf7iszuQSvg.jpeg)
+![Waiting for a response from UNHCR\. Photo credit: Marianna Karakoulaki](../assets/c1ec6a5007b0/1*OvTtaBlB-hMrf7iszuQSvg.jpeg)
 
 Waiting for a response from UNHCR\. Photo credit: Marianna Karakoulaki
 #### Athens
@@ -101,7 +101,7 @@ Call for artists in Athens
 DRAMA camp has reopened 2 days ago\. Volunteers say a few hundred kurdish people were moved from a hotel in mouries where they had been hosted for the winter\. A volunteer also sent a photo a room at the camp that he compared to elpida \(which is much nicer than “normal” camps \) the official numbers for the camp are now 234\.
 
 
-![](assets/c1ec6a5007b0/1*8YO81u3q0a8D_CzW7nlJpw.jpeg)
+![](../assets/c1ec6a5007b0/1*8YO81u3q0a8D_CzW7nlJpw.jpeg)
 
 #### Nea Kavala
 
@@ -116,7 +116,7 @@ _However it’s still an extremely stressful experience for many, and a long tri
 _In this vein, the UNHCR organised a camp community food, music and dance event on Friday\. Food to be prepared was provided to volunteer cooks from different communities around the world as well as barbecues and cooking equipment\. Food and food culture is a great talking point to bring people together, especially over some barbecued chicken\! Interestingly, one woman from Syria believes all Europeans to be vegetarian: after inviting many European volunteers to eat in her container our eating habits seem conclusive\! Our speaker worked hard on Friday too, playing world music for hours\. Hundreds of people enjoyed dancing their traditional dances and learning about others\. The day was a great success and we hope well\-worthwhile to create a community feeling between all ethnic groups\._
 
 
-![Photo from Camp Community, Food, Music and Dance festival in Nea Kavala\. Photo courtesy of “We Are Here”](assets/c1ec6a5007b0/1*tprIXe6tDBOkyNlEvtqGCw.jpeg)
+![Photo from Camp Community, Food, Music and Dance festival in Nea Kavala\. Photo courtesy of “We Are Here”](../assets/c1ec6a5007b0/1*tprIXe6tDBOkyNlEvtqGCw.jpeg)
 
 Photo from Camp Community, Food, Music and Dance festival in Nea Kavala\. Photo courtesy of “We Are Here”
 
@@ -136,7 +136,7 @@ According to Borderfree Association: 200 new [Refugees](https://www.facebook.com
 Apparently, residents of Šid are going to be moved to other camps, including Preševo, in order to make room for new people to be accommodated\. However how shifting people from one camp to others and then bringing in new residents rather than just taking new residents to other camps directly seems a bit of a roundabout way of doing things, and the proximity of Šid to the Serbian\-Croatian border might indicate that some other intentions are at work\.
 
 
-![](assets/c1ec6a5007b0/1*w_FbAWYrp9SGUilyeXpsdQ.jpeg)
+![](../assets/c1ec6a5007b0/1*w_FbAWYrp9SGUilyeXpsdQ.jpeg)
 
 
 In Belgrade, NorthStar and Refugee Aid Serbia are teaming up to create a new refugee education and well\-being center called “The Workshop\.” Follow their [progress](https://www.facebook.com/NorthStarSerbia/photos/a.1659052551032663.1073741830.1655468981391020/1852194568385126/?type=3) \!

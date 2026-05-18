@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 16/10/19: Displaced by the war in Syria, and later evicted in the European Union
+title: "AYS Daily Digest 16/10/19: Displaced by the war in Syria, and later evicted in the European Union"
 author: Are You Syrious?
 date: 2019-10-17T10:35:51.981+0100
 last_modified_at: 2019-10-17T13:21:36.516+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,greece,france,italy,digest]
 description: The fighting in northeastern Syria causes huge civilian suffering / EU puts more pressure on Greece to improve conditions in camps and…
 image:
-  path: assets/35d8e3279881/1*Nev0NNqsqfceymXghVFqoQ.jpeg
+  path: ../assets/35d8e3279881/1*Nev0NNqsqfceymXghVFqoQ.jpeg
 ---
 
 ### AYS Daily Digest 16/10/19: Displaced by the war in Syria, and later evicted in the European Union
@@ -15,7 +15,7 @@ image:
 _The fighting in northeastern Syria is causing huge civilian suffering / EU puts more pressure on Greece to improve conditions in camps and speed up asylum / 33,120 people on the Greek islands now, according to the Aegean Boat Report / In Sweden municipalities pressure the state about lack of funding / Reports of violence on the French\-Italian border / And more news…_
 
 
-![Two new evictions in Athens happened on Wednesday morning\. Photo: NoBorders](assets/35d8e3279881/1*Nev0NNqsqfceymXghVFqoQ.jpeg)
+![Two new evictions in Athens happened on Wednesday morning\. Photo: NoBorders](../assets/35d8e3279881/1*Nev0NNqsqfceymXghVFqoQ.jpeg)
 
 Two new evictions in Athens happened on Wednesday morning\. Photo: NoBorders
 ### FEATURE: Displaced by the war in Syria, and later evicted in the European Union
@@ -81,7 +81,7 @@ The EU commission is putting more pressure on Greece to speed up the asylum proc
 _While the EU\-Turkey statement continues to deliver concrete results, renewed migratory pressure in Turkey and instability in the wider region continues to cause concern\. In view of this, urgent action must be taken to improve reception conditions, increase transfers to mainland Greece from the islands and increase returns under the statement,_ the statement said according to [Ekathimerini\.](http://www.ekathimerini.com/245570/article/ekathimerini/news/eu-urges-greece-to-improve-conditions-in-migrant-camps-speed-up-asylum)
 
 
-![Protest in solidarity with refugees in Thessaloniki\. Photo: NoBorders](assets/35d8e3279881/1*nlMR8rAIGVJLJ6vOB5EQcQ.jpeg)
+![Protest in solidarity with refugees in Thessaloniki\. Photo: NoBorders](../assets/35d8e3279881/1*nlMR8rAIGVJLJ6vOB5EQcQ.jpeg)
 
 Protest in solidarity with refugees in Thessaloniki\. Photo: NoBorders
 #### Information about the new asylum law
@@ -105,7 +105,7 @@ As is also mentioned in today’s feature, [Aegean Boat Report](https://www.face
 [More details here\.](https://www.facebook.com/AegeanBoatReport/posts/672001443322963)
 
 
-![Photo: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?__tn__=%2CdkCH-R-R&eid=ARBtyJOpgk8QjmYKbOQeGoTI1dOH2bgYIq_fvQH5FU1F2ITA-XupW7qUomtJ3CQ-sHCQtpF0SrSVYVYU&hc_ref=ARRyqTRciZDVpx71zUzL-_UnI3kNBja8ES_gaj5eJdDvhe2hhuG6V1dKoCyvUfGRiHw&fref=nf&hc_location=group)](assets/35d8e3279881/1*rBttYQ2qIKaG7o8AY4Ke2w.jpeg)
+![Photo: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?__tn__=%2CdkCH-R-R&eid=ARBtyJOpgk8QjmYKbOQeGoTI1dOH2bgYIq_fvQH5FU1F2ITA-XupW7qUomtJ3CQ-sHCQtpF0SrSVYVYU&hc_ref=ARRyqTRciZDVpx71zUzL-_UnI3kNBja8ES_gaj5eJdDvhe2hhuG6V1dKoCyvUfGRiHw&fref=nf&hc_location=group)](../assets/35d8e3279881/1*rBttYQ2qIKaG7o8AY4Ke2w.jpeg)
 
 Photo: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?__tn__=%2CdkCH-R-R&eid=ARBtyJOpgk8QjmYKbOQeGoTI1dOH2bgYIq_fvQH5FU1F2ITA-XupW7qUomtJ3CQ-sHCQtpF0SrSVYVYU&hc_ref=ARRyqTRciZDVpx71zUzL-_UnI3kNBja8ES_gaj5eJdDvhe2hhuG6V1dKoCyvUfGRiHw&fref=nf&hc_location=group)
 #### Samos mayor: Move people to better conditions
@@ -116,7 +116,7 @@ After a fire broke out at the hotspot in Samos two days ago, the island’s mayo
 In Chios, the owners of the fields surrounding the Vial hotspot started plowing their fields with tractors\. The refugees living here due to the overcrowding in the camp were thereby forced to move their tents\. More information [here\.](https://twitter.com/Refugees_Gr/status/1184537404113412103)
 
 
-![Photo: NoBorders](assets/35d8e3279881/1*f_o25DpUor59rkdFOthqYw.jpeg)
+![Photo: NoBorders](../assets/35d8e3279881/1*f_o25DpUor59rkdFOthqYw.jpeg)
 
 Photo: NoBorders
 #### Human Rights Watch arriving at Lesvos
@@ -142,7 +142,7 @@ Every day there are reports about how the French police use violence\. It can be
 [More information here](https://www.facebook.com/KeshaNiyaProject/photos/a.427307434280796/1019305835080950/?type=3&theater&ifg=1) and a map of the area, below\.
 
 
-![Photo: Dan Archer/ [Lost in Europe](https://www.facebook.com/LostinEurope.org/?__tn__=kC-R&eid=ARDAOTJrji2hy76yNEHzWpFm8iVD0cDw3NrA80GhuOQ1v7MxLGRFnbI5rHN2RWGFYWCuTighyur8KsbW&hc_ref=ARRJKUyeyr4Fu8G_pyLEkcJIYP7tUAvXEF3xzdn4ySekrG6jQKz9MNxGg1XPLtgaLp4&fref=nf&__xts__%5B0%5D=68.ARDNdLNNoSqmcnzx5711diPhFwFbYnuWus_7ZSwXdjktS7vHrVkhcY7HJ90ID_4XoZ82i0bulKvkTZtEJ5nzrjpZ0yIeAhBMiVwz-hG7Qua4E9l4dw72_alwyG3G2zelPeS_4awL8y5uf3ir47tUkZXvaJNPlD4khXbL5iSEw-97qLyDNMjciOBXKzjs4a93s0okJbVgPpbuKXI8506k197g6punYwhDbTrcRmwpEadA_qK1l4-IRf6DkavXYKiGewo9DULd19dFeQBYvbgGuZ8Wh-UDVn8AOBHk7QjvexvrbVUSUZVuTSTtYNxfni8IMU-mizHWuz2ofr8y8HE)](assets/35d8e3279881/1*wCvGYSa9_0heZnsj3QJRbA.jpeg)
+![Photo: Dan Archer/ [Lost in Europe](https://www.facebook.com/LostinEurope.org/?__tn__=kC-R&eid=ARDAOTJrji2hy76yNEHzWpFm8iVD0cDw3NrA80GhuOQ1v7MxLGRFnbI5rHN2RWGFYWCuTighyur8KsbW&hc_ref=ARRJKUyeyr4Fu8G_pyLEkcJIYP7tUAvXEF3xzdn4ySekrG6jQKz9MNxGg1XPLtgaLp4&fref=nf&__xts__%5B0%5D=68.ARDNdLNNoSqmcnzx5711diPhFwFbYnuWus_7ZSwXdjktS7vHrVkhcY7HJ90ID_4XoZ82i0bulKvkTZtEJ5nzrjpZ0yIeAhBMiVwz-hG7Qua4E9l4dw72_alwyG3G2zelPeS_4awL8y5uf3ir47tUkZXvaJNPlD4khXbL5iSEw-97qLyDNMjciOBXKzjs4a93s0okJbVgPpbuKXI8506k197g6punYwhDbTrcRmwpEadA_qK1l4-IRf6DkavXYKiGewo9DULd19dFeQBYvbgGuZ8Wh-UDVn8AOBHk7QjvexvrbVUSUZVuTSTtYNxfni8IMU-mizHWuz2ofr8y8HE)](../assets/35d8e3279881/1*wCvGYSa9_0heZnsj3QJRbA.jpeg)
 
 Photo: Dan Archer/ [Lost in Europe](https://www.facebook.com/LostinEurope.org/?__tn__=kC-R&eid=ARDAOTJrji2hy76yNEHzWpFm8iVD0cDw3NrA80GhuOQ1v7MxLGRFnbI5rHN2RWGFYWCuTighyur8KsbW&hc_ref=ARRJKUyeyr4Fu8G_pyLEkcJIYP7tUAvXEF3xzdn4ySekrG6jQKz9MNxGg1XPLtgaLp4&fref=nf&__xts__%5B0%5D=68.ARDNdLNNoSqmcnzx5711diPhFwFbYnuWus_7ZSwXdjktS7vHrVkhcY7HJ90ID_4XoZ82i0bulKvkTZtEJ5nzrjpZ0yIeAhBMiVwz-hG7Qua4E9l4dw72_alwyG3G2zelPeS_4awL8y5uf3ir47tUkZXvaJNPlD4khXbL5iSEw-97qLyDNMjciOBXKzjs4a93s0okJbVgPpbuKXI8506k197g6punYwhDbTrcRmwpEadA_qK1l4-IRf6DkavXYKiGewo9DULd19dFeQBYvbgGuZ8Wh-UDVn8AOBHk7QjvexvrbVUSUZVuTSTtYNxfni8IMU-mizHWuz2ofr8y8HE)
 ### BOSNIA
@@ -157,7 +157,7 @@ _This means that people have now been without any medical care for 19 days\. The
 Now another 1500 people have been moved to Vucjak\. That brings the total number of people living in the junkyard to 2500 individuals\. From Monday there will be no water in the camp, Planert writes\. The local Red Cross has according to his info said that they will stop working in the camp\.
 
 
-![Photo: Dirk Planert](assets/35d8e3279881/1*0rf_rm5p9bTBo6b8JkPLKQ.jpeg)
+![Photo: Dirk Planert](../assets/35d8e3279881/1*0rf_rm5p9bTBo6b8JkPLKQ.jpeg)
 
 Photo: Dirk Planert
 ### SWEDEN

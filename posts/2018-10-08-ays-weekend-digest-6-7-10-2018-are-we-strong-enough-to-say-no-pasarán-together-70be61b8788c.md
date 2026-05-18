@@ -1,5 +1,5 @@
 ---
-title: AYS WEEKEND DIGEST 6/7.10.2018: Are we strong enough to say No Pasarán together?
+title: "AYS WEEKEND DIGEST 6/7.10.2018: Are we strong enough to say No Pasarán together?"
 author: Are You Syrious?
 date: 2018-10-08T16:13:49.465+0100
 last_modified_at: 2018-10-08T16:13:49.465+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,refugee-mayor,bosnia,italy,digest]
 description: Hundreds of thousands people on the streets of European cities showing solidarity // Over 1000 people rescued in the sea this weekend //…
 image:
-  path: assets/70be61b8788c/1*jAJUbYcSJ5tkQuRuYQECfg.jpeg
+  path: ../assets/70be61b8788c/1*jAJUbYcSJ5tkQuRuYQECfg.jpeg
 ---
 
 ### AYS WEEKEND DIGEST 6/7\.10\.2018: Are we strong enough to say No Pasarán together?
 #### _Hundreds of thousands people on the streets of European cities showing solidarity // Over 1000 people rescued in the sea this weekend // New arrivals to Greek islands // Thessaloniki center turned into make shift camp // First camp to be open near Sarajevo soon — maybe // Hundreds of people in forests in France…_
 
 
-![Domenico Lucano speaking to the “river of solidarity”\.](assets/70be61b8788c/1*jAJUbYcSJ5tkQuRuYQECfg.jpeg)
+![Domenico Lucano speaking to the “river of solidarity”\.](../assets/70be61b8788c/1*jAJUbYcSJ5tkQuRuYQECfg.jpeg)
 
 Domenico Lucano speaking to the “river of solidarity”\.
 #### Feature
@@ -22,7 +22,7 @@ Domenico Lucano speaking to the “river of solidarity”\.
 _“The story is us\. With our choices, our beliefs, our mistakes, our ideals, our hopes of justice that no one can ever suppress\. There will come a day when there will be more respect for human rights, more peace, more equality, more freedom than barbarism\.”_ This is a part of the message Domenico Lucano, mayor of Riace, Italy, delivered on Sunday in the front of the more than 10,000 people, or as he called it “ _the river of solidarity_ ”\.
 
 
-![Photo by Melting Pot Europe\.](assets/70be61b8788c/1*kyWXbsaKF0_dgPXYyzKyQw.jpeg)
+![Photo by Melting Pot Europe\.](../assets/70be61b8788c/1*kyWXbsaKF0_dgPXYyzKyQw.jpeg)
 
 Photo by Melting Pot Europe\.
 
@@ -33,7 +33,7 @@ Riace is a small village at the top of the hill in Calabria\. The Mayor Lucano o
 Like many other small towns across Italy, Riace has been subject to depopulation over the years\. Many young people left their homes to go abroad\. Lucano came up with the idea of inviting people who are in need of a home to the city, while contacting the Italians who left to open their old homes\. And it worked\. At its peak, the town of 1,500 hosted 500 people from 20 countries\.
 
 
-![Solidarity with “refugee mayor” from Spain\. By Caravana Abriendo Fronteras](assets/70be61b8788c/1*jpgMSvK8y9WdbfzRPwbvGQ.jpeg)
+![Solidarity with “refugee mayor” from Spain\. By Caravana Abriendo Fronteras](../assets/70be61b8788c/1*jpgMSvK8y9WdbfzRPwbvGQ.jpeg)
 
 Solidarity with “refugee mayor” from Spain\. By Caravana Abriendo Fronteras
 
@@ -42,13 +42,13 @@ The mayor was put under house arrest on October 2 as a result of a year long inv
 People went out on the streets of many cities of France also to show their solidarity, but this time with the crew of the rescue ship Aquarius\.
 
 
-![](assets/70be61b8788c/1*OJrGulPshj336dRXFekvug.jpeg)
+![](../assets/70be61b8788c/1*OJrGulPshj336dRXFekvug.jpeg)
 
 
 Several thousand people gathered this weekend in sixty cities across France, and also in Brussels, Berlin, Madrid and Palermo\. They protested dressed in orange, the color of the Aquarius boat\. The mobilization was the strongest in Marseille, the headquarters of the association SOS Méditerranée, with between 3,500 \(police estimate\) and 10,000 \(organisers estimate\) people gathered on the Old Port\.
 
 
-![By Pilots Volunteers](assets/70be61b8788c/1*Cr8E7L3wPatGXmTCxrfoZg.jpeg)
+![By Pilots Volunteers](../assets/70be61b8788c/1*Cr8E7L3wPatGXmTCxrfoZg.jpeg)
 
 By Pilots Volunteers
 
@@ -71,7 +71,7 @@ Incredible news from the Mediterranean — rescue ships have saved 1,181 human b
 A small inflatable boat carried 120 people on the Mediterranean, only to be saved by a rescue by the armed forces and brought to Malta on Sunday\.
 
 
-![By Malta Times](assets/70be61b8788c/1*7Nh85gyh6eNvL2dquWkTPA.jpeg)
+![By Malta Times](../assets/70be61b8788c/1*7Nh85gyh6eNvL2dquWkTPA.jpeg)
 
 By Malta Times
 
@@ -85,7 +85,7 @@ All the people, according to the first media reports, will stay on the island\.
 On Sunday, all the registered arrivals were on Samos, a total of 95 people\.
 
 
-![Current situation on the islands by Hellenic Ministry of Interior\.](assets/70be61b8788c/1*cpVVXuAXV-jLx-k1RSchvg.jpeg)
+![Current situation on the islands by Hellenic Ministry of Interior\.](../assets/70be61b8788c/1*cpVVXuAXV-jLx-k1RSchvg.jpeg)
 
 Current situation on the islands by Hellenic Ministry of Interior\.
 
@@ -165,7 +165,7 @@ In the meantime, hundreds of people are forced to live on the streets of Sarajev
 But, people of Bosnia — so far — do not give up on people who are still arriving to the country\. In Tuzla, a town close to the Serbian border, groups of people are organizing among themselves — bringing help and offering shelter to all those passing through the country\. The same is in Sapna, Zbornik, Bijeljina, Bihac and Kladusa\. They do not have funding, but they know what solidarity is\. And they have friends all over Europe\. Some of them recently collected donations in several European countries, transported them to Croatia from where they were taken by local volunteers to Velika Kladusa where they will be distributed to all those who in need\. The clothes and shoes are stored in a house of one local lady\.
 
 
-![Improvised storage in a living room by local family in Kladusa\.](assets/70be61b8788c/1*JChtLu11gUHz97MumjTdWg.jpeg)
+![Improvised storage in a living room by local family in Kladusa\.](../assets/70be61b8788c/1*JChtLu11gUHz97MumjTdWg.jpeg)
 
 Improvised storage in a living room by local family in Kladusa\.
 
@@ -186,7 +186,7 @@ Nevertheless, once again, the Croatian police have [denied everything](ays-daily
 “Refugees lose their phones in two main ways; either they are purposefully destroyed by the police in their pointless efforts to move the already\-displaced people onwards, or they are stolen by other members of their camp\. Without their phones, they are unable to travel anywhere as they have no maps, they can’t assure their friends and families that they are still safe and well, and often they are unable to do anything at night due to their lack of torch\.”
 
 
-![By Care4Calais\.](assets/70be61b8788c/1*KO8rKB2JIAEsNBSeRppisw.jpeg)
+![By Care4Calais\.](../assets/70be61b8788c/1*KO8rKB2JIAEsNBSeRppisw.jpeg)
 
 By Care4Calais\.
 
@@ -197,7 +197,7 @@ Numbers in Dunkirk have continued to rise steadily, Mobile Refugee Support repor
 “Despite the worsening weather and conditions, many families remain living outside\. Children as young as 1 year spend their nights huddled up in tents with nothing more than a thin fabric protecting them from the cold, autumnal nights\.”
 
 
-![Care4Calais](assets/70be61b8788c/1*FCiaGg4eQvcuagOnX3NiXw.jpeg)
+![Care4Calais](../assets/70be61b8788c/1*FCiaGg4eQvcuagOnX3NiXw.jpeg)
 
 Care4Calais
 

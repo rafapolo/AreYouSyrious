@@ -1,20 +1,20 @@
 ---
-title: AYS Weekend Digest 30–31/05/2020 Greece: Vagiachori camp occupied against planned evictions
+title: "AYS Weekend Digest 30–31/05/2020 Greece: Vagiachori camp occupied against planned evictions"
 author: Are You Syrious?
 date: 2020-06-01T12:58:16.117+0100
 last_modified_at: 2020-06-01T12:58:16.117+0100
 categories: Are You Syrious?
 tags: []
-description: Malta: Delays in the inquiry over deaths at sea / Greece and Turkey: More pushbacks on land and sea / Croatia: New BVMN report on pushbacks…
+description: "Malta: Delays in the inquiry over deaths at sea / Greece and Turkey: More pushbacks on land and sea / Croatia: New BVMN report on pushbacks…"
 image:
-  path: assets/44d7a616229a/0*pFAlPrpCUZyi7d-j.jpeg
+  path: ../assets/44d7a616229a/0*pFAlPrpCUZyi7d-j.jpeg
 ---
 
 ### AYS Weekend Digest 30–31/05/2020 Greece: Vagiachori camp occupied against planned evictions
 #### Malta: Delays in the inquiry over deaths at sea / Greece and Turkey: More pushbacks on land and sea / Croatia: New BVMN report on pushbacks against children\.
 
 
-![](assets/44d7a616229a/0*pFAlPrpCUZyi7d-j.jpeg)
+![](../assets/44d7a616229a/0*pFAlPrpCUZyi7d-j.jpeg)
 
 
 While the US burns in response to the death of George Floyd at the hands of Minneapolis police, Europe sympathises with the protests\. Between 2014 and 2019 more people were [killed in the mediterranean by EU migration policies](https://missingmigrants.iom.int/region/mediterranean) than [by US police agents](https://mappingpoliceviolence.org/nationaltrends) \. Why is Europe not burning? Black lives matter here too\. The problem is borders\. Photo via [No Name Kitchen](https://twitter.com/NoNameKitchen1/status/1267023818884820993/photo/1) \.
@@ -141,11 +141,11 @@ SERBIA
 The 29th of May was the [3rd anniversary of No Name Kitchen](https://web.facebook.com/NoNameKitchenBelgrade/posts/991511871247097?hc_location=ufi) \!
 
 
-![](assets/44d7a616229a/0*7wnTxAGLwGqZ73_E)
+![](../assets/44d7a616229a/0*7wnTxAGLwGqZ73_E)
 
 
 
-![](assets/44d7a616229a/0*nLZwMzwRFmFCOiTJ.jpeg)
+![](../assets/44d7a616229a/0*nLZwMzwRFmFCOiTJ.jpeg)
 
 
 \(Photo Credit: [No Name Kitchen](https://web.facebook.com/NoNameKitchenBelgrade/posts/991511871247097?hc_location=ufi) \)

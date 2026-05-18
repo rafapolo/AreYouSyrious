@@ -1,5 +1,5 @@
 ---
-title: AYS Special — Chios: From shoreline to the olive grove. A reflection of life on the Greek island of
+title: "AYS Special — Chios: From shoreline to the olive grove. A reflection of life on the Greek island of"
 author: Are You Syrious?
 date: 2020-01-20T22:21:48.533+0000
 last_modified_at: 2020-11-09T13:30:27.683+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,special,greece,chios,migration]
 description: Chios island has become a prison. A prison inhabited by almost 6,000 people seeking refuge but finding instead a new sort of existence…
 image:
-  path: assets/cf4d81f15f73/1*vh9mzJRRCdXwCvfJstAW4w.jpeg
+  path: ../assets/cf4d81f15f73/1*vh9mzJRRCdXwCvfJstAW4w.jpeg
 ---
 
 ### AYS Special — Chios: From shoreline to the olive grove\. A reflection of life on the Greek island of Chios in 2019
 #### Chios island has become a prison\. A prison inhabited by almost 6,000 people seeking refuge but finding instead a new sort of existence that forces them back to the basics\. This is survival, a decision born not by choice\.
 
 
-![](assets/cf4d81f15f73/1*vh9mzJRRCdXwCvfJstAW4w.jpeg)
+![](../assets/cf4d81f15f73/1*vh9mzJRRCdXwCvfJstAW4w.jpeg)
 
 
 People arriving by dinghy via the dangerous Aegean smuggling route cannot legally leave the island while they await their asylum decision; this can take months, sometimes years\.
@@ -57,17 +57,17 @@ At present, approximately 5,800 refugees live inside Vial camp\- a space with a 
 The people living in Vial are endangered by an inefficient waste disposal system which causes toxic sewage to spill out into their living quarters\. It is common to see maggots, rats and human faeces\. In a place where access to healthcare is extremely limited and often provided by volunteers, the likelihood of disease spreading is rife\. Camp residents talk about queuing for numerous hours to receive an inadequate supply of bottled water and food which is inedible due to poor taste\. The camp is littered with plastic containers, bottles and rotting meals\. Restricted access to basic hydration and nutrition in Europe in these modern times is shameful\. Many refugees are forced to spend the whole night outside the camp’s info point, queuing in the cold to ask a single question or to access basic information\. Staff inside the camp are mostly willing, but appear overwhelmed at the sheer amount of residents needing support\. Medical services are hard to access and reports of TB and scabies in the camp are frequent\.
 
 
-![](assets/cf4d81f15f73/1*NUNdefmc3tpYky2tuQ8CoA.jpeg)
+![](../assets/cf4d81f15f73/1*NUNdefmc3tpYky2tuQ8CoA.jpeg)
 
 
 Weather conditions have challenged camp residents throughout the year\. Sweltering temperatures in the summer meant many residents suffered from heatstroke and there were reports of people fainting in the distribution lines\. Ramadan was an extremely challenging time and tensions were high due to fatigue and dehydration, combined with dire living conditions\. Recent heavy rains on the island mean the camp has become extremely muddy\. Wastewater from the toilets spills onto the camp pathways that many tread every day, wearing inadequate footwear\. Children wade through filth and mud in broken flip flops\. After numerous severe storms in the winter, shelters and tent structures were battered, broken and worn down\. People toil on a daily basis to fix their ‘homes’ by stringing together cardboard and tarps; the repairing of one’s tent without enough materials has become part of every person’s daily routine\.
 
 
-![](assets/cf4d81f15f73/1*_xl_OVniiWA59eZLMNO1-w.jpeg)
+![](../assets/cf4d81f15f73/1*_xl_OVniiWA59eZLMNO1-w.jpeg)
 
 
 
-![](assets/cf4d81f15f73/1*iF-jmb8BII98wWJ0ffQKaQ.jpeg)
+![](../assets/cf4d81f15f73/1*iF-jmb8BII98wWJ0ffQKaQ.jpeg)
 
 
 In order to keep warm in the cold weather, people have resorted to cutting down olive trees on private land to burn in order to keep warm\. This has led to further deterioration of local community relations\. By the end of 2019, aggravated tensions between the local community and camp residents had reached a breaking point\. After the influx of new arrivals to Chios in the autumn, and the resulting sudden overpopulation of the camp, many local people protested against the ‘occupation of their private land’\. The population of Chalkios, \(a village near the camp\) is just 300, so many people feel their village has been negatively affected yet they are not receiving any support or learning of a long\-term solution\. The mayor of Chios recently openly stated ‘Our way of life has been lost\.’ Locals witness the environmental impact the overpopulated camp is having on their land: excessive plastic waste, loss of ancient olive trees and damaged fields\.
@@ -81,7 +81,7 @@ In order to keep warm in the cold weather, people have resorted to cutting down 
 In summer 2019, figures showed only 60 children were registered in Greek school\. Locals recently protested to demand that all refugee children must be vaccinated before attending classes in local schools\. This presented a barrier to many refugee children’s ability to access education, as vaccinations were not available at the time\. Vaccination programmes thankfully reached Chios by the end of the year\. Another issue is that many families don’t want their children to go to local Greek schools as they worry this will delay their asylum claim\. There are some parents who, out of fear for their child’s welfare, will not let them out of their tent\. This means some families are trapped inside their shelters out of a desire for basic safety\.
 
 
-![](assets/cf4d81f15f73/1*0C54503qjjqO6b6AvXI6Ug.jpeg)
+![](../assets/cf4d81f15f73/1*0C54503qjjqO6b6AvXI6Ug.jpeg)
 
 
 

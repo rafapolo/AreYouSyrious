@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 21/10/2017: Increased level of depression, anxiety disorders and post-traumatic…
+title: "AYS DAILY DIGEST 21/10/2017: Increased level of depression, anxiety disorders and post-traumatic…"
 author: Are You Syrious?
 date: 2017-10-22T10:20:47.414+0100
 last_modified_at: 2017-10-22T17:00:40.829+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,children,greece,serbia,lesvos]
 description: Urgent measures needed to protect children // 400,000 asylum applications submitted throughout Europe in 2017 // 138,300 people came by sea…
 image:
-  path: assets/e6d863bb3206/1*uosEZkjcoFmbLN5k4m_psQ.jpeg
+  path: ../assets/e6d863bb3206/1*uosEZkjcoFmbLN5k4m_psQ.jpeg
 ---
 
 ### AYS DAILY DIGEST 21/10/2017: Increased level of depression, anxiety disorders and post\-traumatic stress among child refugees due to negligence
@@ -15,7 +15,7 @@ image:
 _Urgent measures needed to protect children // 400,000 asylum applications submitted throughout Europe in 2017 // 138,300 people came by sea to Europe this year // Merkel proposes to the EU to cut pre\-accession funds to Turkey // Protests on Lesvos continue // The situation in Serbian limbo // Hungarian government limits work of the Hungarian Helsinki Committee // and much more from the Europe we live in today_
 
 
-![Photo by Lesvos Solidairty — Pikpa\.](assets/e6d863bb3206/1*uosEZkjcoFmbLN5k4m_psQ.jpeg)
+![Photo by Lesvos Solidairty — Pikpa\.](../assets/e6d863bb3206/1*uosEZkjcoFmbLN5k4m_psQ.jpeg)
 
 Photo by Lesvos Solidairty — Pikpa\.
 ### Feature
@@ -74,15 +74,15 @@ In addition to the sea arrivals, an estimated 3,300 people have arrived at the E
 The new arrivals find themselves in unbearable conditions on the islands, including Lesvos, where people are protesting for the second day\. After yesterday’s riots, around 100 people — mostly from Afghanistan — left the overcrowded area of Moria camp and spend a day and night on the main square in Mytilini, including many families with children\.
 
 
-![](assets/e6d863bb3206/1*2Fjc4QwNsJ3_oTEOq1yngQ.jpeg)
+![](../assets/e6d863bb3206/1*2Fjc4QwNsJ3_oTEOq1yngQ.jpeg)
 
 
 
-![](assets/e6d863bb3206/1*LzKsv1rMpd5NKYDDwdAssg.jpeg)
+![](../assets/e6d863bb3206/1*LzKsv1rMpd5NKYDDwdAssg.jpeg)
 
 
 
-![Photo by Arash Hampay\.](assets/e6d863bb3206/1*7T2Y_jPPsksU-nIBVaUKjw.jpeg)
+![Photo by Arash Hampay\.](../assets/e6d863bb3206/1*7T2Y_jPPsksU-nIBVaUKjw.jpeg)
 
 Photo by Arash Hampay\.
 
@@ -95,15 +95,15 @@ Another story is of a family of four that has been living in a tent with three o
 All of them, alongside others, slept last night out in the open on the main square of Mytilini\.
 
 
-![](assets/e6d863bb3206/1*2fZf3MDKHfkNKA7RoCXkqA.jpeg)
+![](../assets/e6d863bb3206/1*2fZf3MDKHfkNKA7RoCXkqA.jpeg)
 
 
 
-![](assets/e6d863bb3206/1*wIPzEpuWFDcg0jLEVJ7F3Q.jpeg)
+![](../assets/e6d863bb3206/1*wIPzEpuWFDcg0jLEVJ7F3Q.jpeg)
 
 
 
-![Photo by Arash Hampay\.](assets/e6d863bb3206/1*69q_ZxSXqxTjt7OVmWe1TA.jpeg)
+![Photo by Arash Hampay\.](../assets/e6d863bb3206/1*69q_ZxSXqxTjt7OVmWe1TA.jpeg)
 
 Photo by Arash Hampay\.
 
@@ -179,11 +179,11 @@ As of the end of September, 17,400 people have arrived in Spain by land and sea,
 _“People scattered everywhere, huddled under blankets, waiting hopefully for food donations, some in tents\. Today I joined a demonstration supporting refugees and it was heartwarming to see how many Parisians want to welcome these people\. But the political situation is getting worse\. Police are rounding people up; many have ‘disappeared’ this week\. The police violence continues unabated\.”_
 
 
-![](assets/e6d863bb3206/1*mjltnh-sab_Oza1vxPAfNQ.jpeg)
+![](../assets/e6d863bb3206/1*mjltnh-sab_Oza1vxPAfNQ.jpeg)
 
 
 
-![Photos by [**Sarah Fenby\-dixon**](https://www.facebook.com/sarah.fenbydixon.1?fref=gs&hc_ref=ARQuE1JOyMRzZsWz-As0h7J0ELJ-Yi-cLItNLh0WfpTSFZw6UbQ0On5SsB6U_zcFnds&dti=1006253006128240&hc_location=group) **‎**](assets/e6d863bb3206/1*I8LBu0vlP858DXtCtPKLDQ.jpeg)
+![Photos by [**Sarah Fenby\-dixon**](https://www.facebook.com/sarah.fenbydixon.1?fref=gs&hc_ref=ARQuE1JOyMRzZsWz-As0h7J0ELJ-Yi-cLItNLh0WfpTSFZw6UbQ0On5SsB6U_zcFnds&dti=1006253006128240&hc_location=group) **‎**](../assets/e6d863bb3206/1*I8LBu0vlP858DXtCtPKLDQ.jpeg)
 
 Photos by [**Sarah Fenby\-dixon**](https://www.facebook.com/sarah.fenbydixon.1?fref=gs&hc_ref=ARQuE1JOyMRzZsWz-As0h7J0ELJ-Yi-cLItNLh0WfpTSFZw6UbQ0On5SsB6U_zcFnds&dti=1006253006128240&hc_location=group) **‎**
 

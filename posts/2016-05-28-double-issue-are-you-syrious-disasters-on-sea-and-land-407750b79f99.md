@@ -1,5 +1,5 @@
 ---
-title: DOUBLE ISSUE: Are You Syrious — Disasters on Sea and Land
+title: "DOUBLE ISSUE: Are You Syrious — Disasters on Sea and Land"
 author: Are You Syrious?
 date: 2016-05-28T00:33:58.278+0100
 last_modified_at: 2016-05-28T06:43:16.558+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: 26.05.2016–27.05.2016
 image:
-  path: assets/407750b79f99/1*YF9Mz93d8pxbYXVBVhimYw.jpeg
+  path: ../assets/407750b79f99/1*YF9Mz93d8pxbYXVBVhimYw.jpeg
 ---
 
 ### DOUBLE ISSUE: Are You Syrious — Disasters on Sea and Land
@@ -23,7 +23,7 @@ image:
 #### 27\.5: 400,000 people are estimated to be restricted in receiving humanitarian aid in Syria, NGOs report\. 165,000 refugees are trapped between ISIS and Turkish border\. 240 job vacancies open to Syrian refugees in Turkey\. Estimated 3,900 asylum\-seekers have disappeared from Idomeni, their arrival not being registered in other official camps\. Mytillini: quest for justice unites all as hundreds protest\. CHIOS: “We want somebody to listen to us and care for us\.” Mediterranean: 45 bodies recovered and dozens more feared dead in shipwreck disasters\. 35 unaccompanied minors are stranded in Slovenia\. Anti\-refugee propaganda continues to escalate dangerously as new laws threaten deportations and pushbacks in Hungary\. 1602 refugees have been officially relocated to the United Kingdom\.
 
 
-![Photo Credit: Thierry Birrer](assets/407750b79f99/1*YF9Mz93d8pxbYXVBVhimYw.jpeg)
+![Photo Credit: Thierry Birrer](../assets/407750b79f99/1*YF9Mz93d8pxbYXVBVhimYw.jpeg)
 
 Photo Credit: Thierry Birrer
 #### SYRIA
@@ -56,11 +56,11 @@ The event will tackle critical issues relating to migration and mental health, a
 They are looking for volunteers who can join them for a minimum of 7 days\. Work will consist of handing out food, cleaning, and food preparation,contact them at [info@remar\.ch](mailto:info@remar.ch)
 
 
-![](assets/407750b79f99/1*EXLKlyrIBBCh5jTWRGR5nw.jpeg)
+![](../assets/407750b79f99/1*EXLKlyrIBBCh5jTWRGR5nw.jpeg)
 
 
 
-![Photo Credits: Thierry Birrer](assets/407750b79f99/1*c6pvERPDv7sNIiq7FjgSiw.jpeg)
+![Photo Credits: Thierry Birrer](../assets/407750b79f99/1*c6pvERPDv7sNIiq7FjgSiw.jpeg)
 
 Photo Credits: Thierry Birrer
 ### 3,900 asylum\-seekers have disappeared from Idomeni, their arrival not being registered in other official camps
@@ -75,7 +75,7 @@ Volunteers confirm that Idomeni is empty, but some volunteers are preparing a la
 On the 26th, three days of protest culminated in hundreds of people gathering in front of the port and marching, uniting refugees of different nationalities, demanding freedom, volunteers reported\. After the main protest, the gates at the port appeared unguarded, spurring on a hopeful charge toward the ferries to Athens\. However, it was not to last as the police and military met their march, evicting all participants from the port\. Volunteers hope that this act of unity will not be quenched here and that the disparate groups can remain united in their quest for freedom\.
 
 
-![Photo Credit: NoBordersKitchen](assets/407750b79f99/1*-S3RNzIFc0xP9JsXDyZqdQ.jpeg)
+![Photo Credit: NoBordersKitchen](../assets/407750b79f99/1*-S3RNzIFc0xP9JsXDyZqdQ.jpeg)
 
 Photo Credit: NoBordersKitchen
 ### CHIOS: “We want somebody to listen to us and care for us”
@@ -112,7 +112,7 @@ The Italian Navy [speaks about 16 rescue operations and more than 1900 people](h
 Unaccompanied minors are in need of proper accommodation under Slovenian statutes that require a special facility, according to NewsThatMoves\. Twenty\-five of them are over fifteen and around ten are under fifteen years of age\.
 
 
-![Serbian\-Hungarian Border\. Photo Credit: Andrew Connelly](assets/407750b79f99/1*6tTXk-GT3DPfttezPgTOqg.jpeg)
+![Serbian\-Hungarian Border\. Photo Credit: Andrew Connelly](../assets/407750b79f99/1*6tTXk-GT3DPfttezPgTOqg.jpeg)
 
 Serbian\-Hungarian Border\. Photo Credit: Andrew Connelly
 #### HUNGARY
@@ -129,7 +129,7 @@ Of these, more than one\-third [have been relocated to Scotland](http://www.theg
 Refugee Action have started a campaign to increase the availability of free English classes for refugees and asylum seekers\. Funding for ESOL was cut a few years back and adult asylum seekers are not eligible for some classes unless they can pay half their fee\. You can learn a bit more about their research into ESOL provision and support their campaign [here](http://www.refugee-action.org.uk/support_us/campaign/join_a_campaign/let_refugees_learn) \.
 
 
-![Photo Credit: Thierry Birrer](assets/407750b79f99/1*_zeuFQVjMeEiezj6BhzVAQ.jpeg)
+![Photo Credit: Thierry Birrer](../assets/407750b79f99/1*_zeuFQVjMeEiezj6BhzVAQ.jpeg)
 
 Photo Credit: Thierry Birrer
 ### **AYS DIGEST: 26\.05\.2016**
@@ -176,7 +176,7 @@ Experts say many doctors aren’t even fully licensed — they’re medical stud
 Two young men from Afghanistan attempted suicide by hanging themselves in the Vial detention center\. One of them was seriously injured\. Ambulance brought both to hospital\.
 
 
-![Photo Credit: Benjamin Julian](assets/407750b79f99/1*2xjI8kvh1TxqyrLA_picqw.jpeg)
+![Photo Credit: Benjamin Julian](../assets/407750b79f99/1*2xjI8kvh1TxqyrLA_picqw.jpeg)
 
 Photo Credit: Benjamin Julian
 ### The third day of evacuating the makeshift camp in Idomeni
@@ -186,11 +186,11 @@ At the last day the number of inhabitants in the camp was considered to be aroun
 The [Spanish medical team Alivio Dolores](https://www.facebook.com/aliviodolores/posts/172250699839878) has been 2 restless months in the Idomeni camp with an amazingly dedicated medical staff and volunteers who worked tirelessly making sure we were always open and providing quality care to all the people\. As MSF were the only medical group allowed in camp Dolores had to stay closed or we would all be escorted out of camp/arrested\. Bomberos, a Spanish group of medical staff and firefighters were thrown out of camp the night before last\. Their medical tent is now in ruins with masses of medical supplies wasted\.
 
 
-![](assets/407750b79f99/1*4-2wImXeKEOpuKC4Gbgzuw.jpeg)
+![](../assets/407750b79f99/1*4-2wImXeKEOpuKC4Gbgzuw.jpeg)
 
 
 
-![Photo Credits: Alivio Dolores](assets/407750b79f99/1*u4EPOYfZRg4VYe2ioRYUPA.jpeg)
+![Photo Credits: Alivio Dolores](../assets/407750b79f99/1*u4EPOYfZRg4VYe2ioRYUPA.jpeg)
 
 Photo Credits: Alivio Dolores
 ### Anxiety and Depression in Elliniko Camp in Athens
@@ -212,11 +212,11 @@ Construction has begun with a newly weather\-proofed flooring built from breeze 
 The library will be decorated in a barnyard rustic theme\. Here you see I AM YOU’s creative masterminds Peter constructing shelves out of wooden pallets, and Erin sewing bunting and cushions for decorations after they put up the tent with Liz\. We love our creative team and can’t wait for the big reveal this weekend\.
 
 
-![](assets/407750b79f99/1*YE3DzMN8fiZUfxXKcmaAZw.jpeg)
+![](../assets/407750b79f99/1*YE3DzMN8fiZUfxXKcmaAZw.jpeg)
 
 
 
-![Photo Credit: I AM YOU\.](assets/407750b79f99/1*PVSu5Owph3Le7LJnQWZp-Q.jpeg)
+![Photo Credit: I AM YOU\.](../assets/407750b79f99/1*PVSu5Owph3Le7LJnQWZp-Q.jpeg)
 
 Photo Credit: I AM YOU\.
 #### FRANCE
@@ -225,15 +225,15 @@ Photo Credit: I AM YOU\.
 Like a miracle, no casualties have to be reported\. Heartbreaking pictures from long\-term volunteer Ifty Patel, who safely survived the catastrophe\.
 
 
-![](assets/407750b79f99/1*Bk-OBCk8poE7FhGV4ZZezQ.jpeg)
+![](../assets/407750b79f99/1*Bk-OBCk8poE7FhGV4ZZezQ.jpeg)
 
 
 
-![](assets/407750b79f99/1*odKZK2EL-9xcol7Llp33aw.jpeg)
+![](../assets/407750b79f99/1*odKZK2EL-9xcol7Llp33aw.jpeg)
 
 
 
-![Photo Credit: Ifty Patel](assets/407750b79f99/1*2qfFodDXPEcefslbeA7VWg.jpeg)
+![Photo Credit: Ifty Patel](../assets/407750b79f99/1*2qfFodDXPEcefslbeA7VWg.jpeg)
 
 Photo Credit: Ifty Patel
 
@@ -248,7 +248,7 @@ It will take a massive effort to rebuild what has been lost, so please consider 
 With this dramatic and tragic turn of events, the internet access provided by Refugee Info Bus is only more crucial\.
 
 
-![Photo Credit: REFUGEE INFO BUS](assets/407750b79f99/1*Ncoq02tKf39V4G75PATCAg.jpeg)
+![Photo Credit: REFUGEE INFO BUS](../assets/407750b79f99/1*Ncoq02tKf39V4G75PATCAg.jpeg)
 
 Photo Credit: REFUGEE INFO BUS
 

@@ -7,7 +7,7 @@ categories:
 tags: [refugees,black-friday,lesvos,gorizia,violence-against-women]
 description: Reports of violence in Libya /// Incidents at sea in the Mediterranean /// Italy in breach of International laws /// Call for demonstration…
 image:
-  path: assets/6b5c5715d1b9/1*vZbipEY9LvLwTCAh_CMEjw.jpeg
+  path: ../assets/6b5c5715d1b9/1*vZbipEY9LvLwTCAh_CMEjw.jpeg
 ---
 
 ### AYS Daily Digest 24/11/2017 The world’s deadliest border
@@ -15,7 +15,7 @@ image:
 **Reports of violence in Libya /// Incidents at sea in the Mediterranean /// Italy in breach of International laws /// Call for demonstration in Mytilene /// Overcrowding in Moria /// Galleria Bombi closed in Gorizia /// Bitter end for protesters from Cona /// Call for demonstration in Denmark /// Info and updates from: Libya, Greece, Italy, Croatia, Serbia, Romania, France and Denmark**
 
 
-![](assets/6b5c5715d1b9/1*vZbipEY9LvLwTCAh_CMEjw.jpeg)
+![](../assets/6b5c5715d1b9/1*vZbipEY9LvLwTCAh_CMEjw.jpeg)
 
 #### The Mediterranean is the world’s deadliest border
 
@@ -29,18 +29,18 @@ IOM published a report covering irregular trans\-Mediterranean migration to Euro
 
 
 
-![Table from [_Four Decades of Cross\-Mediterranean Undocumented Migration to Europe_](https://publications.iom.int/system/files/pdf/four_decades_of_cross_mediterranean.pdf)](assets/6b5c5715d1b9/1*8oGXZanbfrS9-cclbqx6WQ.png)
+![Table from [_Four Decades of Cross\-Mediterranean Undocumented Migration to Europe_](https://publications.iom.int/system/files/pdf/four_decades_of_cross_mediterranean.pdf)](../assets/6b5c5715d1b9/1*8oGXZanbfrS9-cclbqx6WQ.png)
 
 Table from [_Four Decades of Cross\-Mediterranean Undocumented Migration to Europe_](https://publications.iom.int/system/files/pdf/four_decades_of_cross_mediterranean.pdf)
 
 Contrary to much reporting and political discussion IOM state that although the number of deaths may have decreased this year there is a higher likelihood, with the EU\-Turkey deal and Italian\-Libyan agreement in place, that an individual travelling the Mediterranean routes will die\.
 
 
-![](assets/6b5c5715d1b9/1*GwG9upxuLgzK1ViX3VWK-Q.png)
+![](../assets/6b5c5715d1b9/1*GwG9upxuLgzK1ViX3VWK-Q.png)
 
 
 
-![Graphs from [_Four Decades of Cross\-Mediterranean Undocumented Migration to Europe_](https://publications.iom.int/system/files/pdf/four_decades_of_cross_mediterranean.pdf)](assets/6b5c5715d1b9/1*P7byA4bc9eSJ6jqyEDmM1w.png)
+![Graphs from [_Four Decades of Cross\-Mediterranean Undocumented Migration to Europe_](https://publications.iom.int/system/files/pdf/four_decades_of_cross_mediterranean.pdf)](../assets/6b5c5715d1b9/1*P7byA4bc9eSJ6jqyEDmM1w.png)
 
 Graphs from [_Four Decades of Cross\-Mediterranean Undocumented Migration to Europe_](https://publications.iom.int/system/files/pdf/four_decades_of_cross_mediterranean.pdf)
 
@@ -143,7 +143,7 @@ Both ships will now be taken out of the water over winter for essential maintena
 #### Arrivals
 
 
-![[Eric Gerhardsson](https://web.facebook.com/erik.gerhardsson.7?hc_ref=ARRAUtHpQgVnrDFuuIG9mWtE1RYpOMNqLkgrzB4-32B9YImtNIAh081QJw3VCzwFt1E)](assets/6b5c5715d1b9/1*CyhJhaNx6jNzQf0Or33VEA.jpeg)
+![[Eric Gerhardsson](https://web.facebook.com/erik.gerhardsson.7?hc_ref=ARRAUtHpQgVnrDFuuIG9mWtE1RYpOMNqLkgrzB4-32B9YImtNIAh081QJw3VCzwFt1E)](../assets/6b5c5715d1b9/1*CyhJhaNx6jNzQf0Or33VEA.jpeg)
 
 [Eric Gerhardsson](https://web.facebook.com/erik.gerhardsson.7?hc_ref=ARRAUtHpQgVnrDFuuIG9mWtE1RYpOMNqLkgrzB4-32B9YImtNIAh081QJw3VCzwFt1E)
 #### Mainland
@@ -265,7 +265,7 @@ Read the full call [here](https://web.facebook.com/groups/OasisRhodes/permalink/
 #### Inhumane policies in Gorizia and Pordenone
 
 
-![Picture by [Forum Gorizia](http://forumgoriziablog.it/2017/11/cronache-di-un-black-friday-non-qualunque.html)](assets/6b5c5715d1b9/1*EndsppUsnZLgb1LQ-wQZwQ.png)
+![Picture by [Forum Gorizia](http://forumgoriziablog.it/2017/11/cronache-di-un-black-friday-non-qualunque.html)](../assets/6b5c5715d1b9/1*EndsppUsnZLgb1LQ-wQZwQ.png)
 
 Picture by [Forum Gorizia](http://forumgoriziablog.it/2017/11/cronache-di-un-black-friday-non-qualunque.html)
 
@@ -287,7 +287,7 @@ In Pordenone, while the mayor [responded](https://twitter.com/IvanGrozny3/status
 #### Updates from the march from Cona
 
 
-![We are dying in Cona camp](assets/6b5c5715d1b9/1*HXrZsRBGUT9DGIQ9rUVIEA.jpeg)
+![We are dying in Cona camp](../assets/6b5c5715d1b9/1*HXrZsRBGUT9DGIQ9rUVIEA.jpeg)
 
 We are dying in Cona camp
 

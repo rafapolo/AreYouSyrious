@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,italy,germany,afghanistan]
 description: Deportations from Sweden and Germany to Afghanistan // relocations in Bosnia // Council of Europe Commissioner for Human Rights issued 35…
 image:
-  path: assets/32bce04cac10/1*g1J1zJUhwRpfQpMiSqWzlQ.jpeg
+  path: ../assets/32bce04cac10/1*g1J1zJUhwRpfQpMiSqWzlQ.jpeg
 ---
 
 ### AYS Daily Digest 18/6/19: How Italian Police started criminalizing sea rescue with Iuventa
@@ -58,7 +58,7 @@ Iuventa continues to hand out life jackets to boats A and B and secures/disembar
 Yet an under cover Italian Police officer is hiding in a vessel close by\. A picture is taken of Iuventa and boat C and used as evidence that Iuventa was taking the boat back to Libya so smugglers could reuse it\.
 
 
-![Photo provided by [Iuventa](https://twitter.com/iuventa10/status/1140855912271249408)](assets/32bce04cac10/1*g1J1zJUhwRpfQpMiSqWzlQ.jpeg)
+![Photo provided by [Iuventa](https://twitter.com/iuventa10/status/1140855912271249408)](../assets/32bce04cac10/1*g1J1zJUhwRpfQpMiSqWzlQ.jpeg)
 
 Photo provided by [Iuventa](https://twitter.com/iuventa10/status/1140855912271249408)
 
@@ -89,7 +89,7 @@ On Tuesday, Dunja Mijatović, Council of Europe Commissioner for Human Rights is
 Find out more [here](https://www.coe.int/en/web/commissioner/-/council-of-europe-member-states-must-assume-more-responsibility-for-rescuing-migrants-at-sea-and-protecting-their-rights?fbclid=IwAR1NT_Zj5Jsfx9uGJYjJaxU2QvZCtleEazrhaLgiX-BrEfQicGb6YUrfEEQ) \.
 
 
-![SeaWatch 3 is still at see with 43 people in need of safety from Libya\. Photo by [TGCOMM 24](https://www.tgcom24.mediaset.it/mondo/migranti-il-consiglio-d-europa-dare-subito-un-porto-sicuro-alla-sea-watch-_3215140-201902a.shtml)](assets/32bce04cac10/1*YHi5IB9TpoRT5X5meaVUoA.jpeg)
+![SeaWatch 3 is still at see with 43 people in need of safety from Libya\. Photo by [TGCOMM 24](https://www.tgcom24.mediaset.it/mondo/migranti-il-consiglio-d-europa-dare-subito-un-porto-sicuro-alla-sea-watch-_3215140-201902a.shtml)](../assets/32bce04cac10/1*YHi5IB9TpoRT5X5meaVUoA.jpeg)
 
 SeaWatch 3 is still at see with 43 people in need of safety from Libya\. Photo by [TGCOMM 24](https://www.tgcom24.mediaset.it/mondo/migranti-il-consiglio-d-europa-dare-subito-un-porto-sicuro-alla-sea-watch-_3215140-201902a.shtml)
 
@@ -172,13 +172,13 @@ Activists finished a 24 hour demonstration in front of Ellebæk Prison; a deport
 The demonstration was peaceful, and it succeeded for the humans in front of the fence to get contact with the humans imprisoned behind it\. The group “Close Ellebæk” Will continue support the inmates by giving hope, saying that they are not forgotten and informing politicians and populations in general about of the inhumane conditions humans beings are being kept in\.
 
 
-![“We would like to say thanks for wonderful 24 hours by Ellebæk\! We made noise, protested and send loads of solidarity to the imprisoned\! The fight is not over, we will spend our summer with planning, organizing, do events and spread the word\! Photo by [Luk Ellebæk](https://www.facebook.com/closeellebaekprison/photos/a.2310991155804909/2360327417537949/?type=3&theater)](assets/32bce04cac10/1*l4efPDmW1DyQS8N3JnYKaw.jpeg)
+![“We would like to say thanks for wonderful 24 hours by Ellebæk\! We made noise, protested and send loads of solidarity to the imprisoned\! The fight is not over, we will spend our summer with planning, organizing, do events and spread the word\! Photo by [Luk Ellebæk](https://www.facebook.com/closeellebaekprison/photos/a.2310991155804909/2360327417537949/?type=3&theater)](../assets/32bce04cac10/1*l4efPDmW1DyQS8N3JnYKaw.jpeg)
 
 “We would like to say thanks for wonderful 24 hours by Ellebæk\! We made noise, protested and send loads of solidarity to the imprisoned\! The fight is not over, we will spend our summer with planning, organizing, do events and spread the word\! Photo by [Luk Ellebæk](https://www.facebook.com/closeellebaekprison/photos/a.2310991155804909/2360327417537949/?type=3&theater)
 ### Sweden
 
 
-![The government was planning on carrying out another deportation for Tuesday\. The number of people were unknown\. Beware, deportations back to Afghanistan have been increasing these past few weeks\. Photo by Afghanistan Migrants Advice and Support Org](assets/32bce04cac10/1*ouJpRMzk2f8aZFqwLWaumA.jpeg)
+![The government was planning on carrying out another deportation for Tuesday\. The number of people were unknown\. Beware, deportations back to Afghanistan have been increasing these past few weeks\. Photo by Afghanistan Migrants Advice and Support Org](../assets/32bce04cac10/1*ouJpRMzk2f8aZFqwLWaumA.jpeg)
 
 The government was planning on carrying out another deportation for Tuesday\. The number of people were unknown\. Beware, deportations back to Afghanistan have been increasing these past few weeks\. Photo by Afghanistan Migrants Advice and Support Org
 ### UK

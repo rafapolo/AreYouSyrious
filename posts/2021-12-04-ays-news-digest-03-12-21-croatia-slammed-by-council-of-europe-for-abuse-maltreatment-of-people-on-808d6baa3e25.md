@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 03/12/21: Croatia slammed by Council of Europe for abuse, maltreatment of people on…
+title: "AYS News Digest 03/12/21: Croatia slammed by Council of Europe for abuse, maltreatment of people on…"
 author: Are You Syrious?
 date: 2021-12-04T17:51:54.665+0000
 last_modified_at: 2021-12-04T18:22:59.745+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,migration,croatia,torture]
 description: Two people drown off Kos, Greece // Italian activist faces extradition from France // German court says people face “degrading treatment”…
 image:
-  path: assets/808d6baa3e25/1*sJ4iB_oVaZxONn_R8TiS5Q.png
+  path: ../assets/808d6baa3e25/1*sJ4iB_oVaZxONn_R8TiS5Q.png
 ---
 
 ### AYS News Digest 03/12/21: Croatia slammed by Council of Europe for abuse, maltreatment of people on the move
@@ -15,7 +15,7 @@ image:
 ### FEATURE — Council of Europe’s anti\-torture committee releases damning report on Croatia’s treatment of people on the move
 
 
-![Photo: Council of Europe](assets/808d6baa3e25/1*sJ4iB_oVaZxONn_R8TiS5Q.png)
+![Photo: Council of Europe](../assets/808d6baa3e25/1*sJ4iB_oVaZxONn_R8TiS5Q.png)
 
 Photo: Council of Europe
 
@@ -268,7 +268,7 @@ The plane landed in Lille, in northern France, and is equipped with modern senso
 #### A reminder from Care4Calais…
 
 
-![](assets/808d6baa3e25/1*bpsFzfH1vYX4MR2Da800vQ.png)
+![](../assets/808d6baa3e25/1*bpsFzfH1vYX4MR2Da800vQ.png)
 
 ### IRELAND
 #### Path for citizenship in Ireland announced

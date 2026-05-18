@@ -1,13 +1,13 @@
 ---
-title: AYS Weekend Digest 7–8/11/2020: No rights and no criteria for Tunisian people in Italy
+title: "AYS Weekend Digest 7–8/11/2020: No rights and no criteria for Tunisian people in Italy"
 author: Are You Syrious?
 date: 2020-11-09T13:07:12.447+0000
 last_modified_at: 2020-11-09T13:07:12.447+0000
 categories: Are You Syrious?
 tags: [refugees,digest,deportations,trump,tunisia-italy]
-description: AYS comments on US Presidential election // Shipwreck off Samos: 1 boy dies // Deportations from Cape Town, South Africa // Updates from…
+description: "AYS comments on US Presidential election // Shipwreck off Samos: 1 boy dies // Deportations from Cape Town, South Africa // Updates from…"
 image:
-  path: assets/e6c605974eeb/0*VMMWrckl7f4V4obv.jpeg
+  path: ../assets/e6c605974eeb/0*VMMWrckl7f4V4obv.jpeg
 ---
 
 ### AYS Weekend Digest 7–8/11/2020: No rights and no criteria for Tunisian people in Italy
@@ -15,11 +15,11 @@ image:
 AYS comments on US Presidential election // Shipwreck off Samos: 1 boy dies // Deportations from Cape Town, South Africa // Updates from Greece, Spain, Serbia, Sweden, UK…
 
 
-![](assets/e6c605974eeb/0*Xijprj_a3Bi-v76o)
+![](../assets/e6c605974eeb/0*Xijprj_a3Bi-v76o)
 
 
 
-![](assets/e6c605974eeb/0*VMMWrckl7f4V4obv.jpeg)
+![](../assets/e6c605974eeb/0*VMMWrckl7f4V4obv.jpeg)
 
 
 Moria 2\.0, November 2020 \(Photo by [moria2refugees](https://twitter.com/moria2_gr/status/1325536903291150338/photo/4) \)
@@ -197,11 +197,11 @@ While arrivals are so high, the government has cut funding for search and rescue
 As we reported on Friday, 4 people died in a sewage pipe trying to access the Spanish enclave of Melilla from Morocco\. [No Name Kitchen and Solidary Wheels](https://twitter.com/NoNameKitchen1/status/1325387542338867200) published a story from Husna, who survived the same route\.
 
 
-![](assets/e6c605974eeb/0*qYCel8ISK1Whbru4)
+![](../assets/e6c605974eeb/0*qYCel8ISK1Whbru4)
 
 
 
-![](assets/e6c605974eeb/0*cPO36PA3Wtc9EWYD.png)
+![](../assets/e6c605974eeb/0*cPO36PA3Wtc9EWYD.png)
 
 
 SERBIA
@@ -219,11 +219,11 @@ CZECH REPUBLIC
 ### 48 people found travelling hidden in a truck
 
 
-![](assets/e6c605974eeb/0*3Jo5jgcsj890hVHT)
+![](../assets/e6c605974eeb/0*3Jo5jgcsj890hVHT)
 
 
 
-![](assets/e6c605974eeb/0*GYVSwfEoKPo2_xR0.jpeg)
+![](../assets/e6c605974eeb/0*GYVSwfEoKPo2_xR0.jpeg)
 
 
 \(Photo Credit: Imago Images\)

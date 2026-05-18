@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,eu,libya]
 description: Feature
 image:
-  path: assets/4c1a0dacc0d0/1*XcfTGrw8iOvQjN_EVLk8bQ.jpeg
+  path: ../assets/4c1a0dacc0d0/1*XcfTGrw8iOvQjN_EVLk8bQ.jpeg
 ---
 
 ### AYS Daily Digest 27/03/19: EU will discontinue Operation Sophia’s maritime patrols at sea
@@ -15,7 +15,7 @@ image:
 _Human rights organizations worried by the EU decision on Sophia operation // A merchant boat taken by the people and is heading toward Malta // Politicians in Sweden reported 17 unaccompanied minors for contribution crime//_
 
 
-![Photo by [Mediterranea Saving Humans](https://twitter.com/RescueMed/status/1110966419456491520?fbclid=IwAR1uE1e4LvZdsaQTDLHl034e4ovzATm302tmrwOfV9_eajOrqD9v36Xntqc)](assets/4c1a0dacc0d0/1*XcfTGrw8iOvQjN_EVLk8bQ.jpeg)
+![Photo by [Mediterranea Saving Humans](https://twitter.com/RescueMed/status/1110966419456491520?fbclid=IwAR1uE1e4LvZdsaQTDLHl034e4ovzATm302tmrwOfV9_eajOrqD9v36Xntqc)](../assets/4c1a0dacc0d0/1*XcfTGrw8iOvQjN_EVLk8bQ.jpeg)
 
 Photo by [Mediterranea Saving Humans](https://twitter.com/RescueMed/status/1110966419456491520?fbclid=IwAR1uE1e4LvZdsaQTDLHl034e4ovzATm302tmrwOfV9_eajOrqD9v36Xntqc)
 ### Feature
@@ -61,7 +61,7 @@ To learn more in depth about what the future may hold for Operation Sophia, read
 According to [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/photos/a.285312485325196/546567712533004/?type=3&theater) , one boat landed on Lesvos Tuesday night with 26 people \(12 children, seven women, and seven men\) and another two landed on Samos \(no breakdown available\) \.
 
 
-![Winter in Greece is expected to last until the end of March, no warm weather in site yet\. Photo by [Meteo](https://www.keeptalkinggreece.com/2019/03/27/weather-forecast-march/?fbclid=IwAR0oW9gyK4eaFEsU4J8-bWHsViG0l_zuYdDmcaM6HfGurL0KRkVfOMVUAOg)](assets/4c1a0dacc0d0/1*yr2Hy_uFqxbs2dmer_QWEw.jpeg)
+![Winter in Greece is expected to last until the end of March, no warm weather in site yet\. Photo by [Meteo](https://www.keeptalkinggreece.com/2019/03/27/weather-forecast-march/?fbclid=IwAR0oW9gyK4eaFEsU4J8-bWHsViG0l_zuYdDmcaM6HfGurL0KRkVfOMVUAOg)](../assets/4c1a0dacc0d0/1*yr2Hy_uFqxbs2dmer_QWEw.jpeg)
 
 Winter in Greece is expected to last until the end of March, no warm weather in site yet\. Photo by [Meteo](https://www.keeptalkinggreece.com/2019/03/27/weather-forecast-march/?fbclid=IwAR0oW9gyK4eaFEsU4J8-bWHsViG0l_zuYdDmcaM6HfGurL0KRkVfOMVUAOg)
 

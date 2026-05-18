@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 4/9/2017: Systematic abuse at UK’s Brook House Immigration Removal Centre
+title: "AYS DAILY DIGEST 4/9/2017: Systematic abuse at UK’s Brook House Immigration Removal Centre"
 author: Are You Syrious?
 date: 2017-09-05T00:17:38.695+0100
 last_modified_at: 2017-09-05T14:02:18.015+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,refugeeswelcome,uk-politics,greece,immigration]
 description: Protest to close the Brook House centre / Libya in breach of international law regarding SAR zones / MOAS suspends Mediterranean rescue…
 image:
-  path: assets/4c5991109fe9/1*wu7LFuaec09RrS72hyLcCw.jpeg
+  path: ../assets/4c5991109fe9/1*wu7LFuaec09RrS72hyLcCw.jpeg
 ---
 
 ### AYS DAILY DIGEST 4/9/2017: Systematic abuse at UK’s Brook House Immigration Removal Centre
@@ -15,7 +15,7 @@ image:
 _Protest to close the Brook House centre / Libya in breach of international law regarding SAR zones / MOAS suspends Mediterranean rescue operations / Nearly 500 people reach Greek islands over the weekend / Declaration of Afghan Refugees in Austria / Police evacuated the Fori Imperiali “camp” in Rome_
 
 
-![Photo by [Kent Anti\-Racism Network](https://www.facebook.com/KentARN/) ‎, one of the organizers of the protest](assets/4c5991109fe9/1*wu7LFuaec09RrS72hyLcCw.jpeg)
+![Photo by [Kent Anti\-Racism Network](https://www.facebook.com/KentARN/) ‎, one of the organizers of the protest](../assets/4c5991109fe9/1*wu7LFuaec09RrS72hyLcCw.jpeg)
 
 Photo by [Kent Anti\-Racism Network](https://www.facebook.com/KentARN/) ‎, one of the organizers of the protest
 #### Systematic abuse at UK’s Brook House Immigration Removal Centre
@@ -63,7 +63,7 @@ Imagine published their [weekly schedule](https://www.facebook.com/groups/163757
 #### Lesvos
 
 
-![](assets/4c5991109fe9/1*8hkhDiiKp4clx_z78prQvQ.jpeg)
+![](../assets/4c5991109fe9/1*8hkhDiiKp4clx_z78prQvQ.jpeg)
 
 #### SERBIA
 #### Donations needed in Šid
@@ -110,7 +110,7 @@ The inability of the Afghan government to ensure adequate protection show that A
 Police evacuated the “camp” in Piazza Madonna di Loreto \(Fori Imperiali\) where 56 migrants slept last night \(all of them evacuated from via Curtatone\); municipality offered limited options that will divide families; 27 people accepted the accommodation offered by the municipality; no representative of the municipality itself is present\.
 
 
-![Photo by [Progetto Degage](https://www.facebook.com/progettodegage/)](assets/4c5991109fe9/1*2ZlaGPYsZVhmIqsBBdLVFA.jpeg)
+![Photo by [Progetto Degage](https://www.facebook.com/progettodegage/)](../assets/4c5991109fe9/1*2ZlaGPYsZVhmIqsBBdLVFA.jpeg)
 
 Photo by [Progetto Degage](https://www.facebook.com/progettodegage/)
 
@@ -144,7 +144,7 @@ Read the full report [here](https://www.facebook.com/AktionWeitblick/posts/19442
 
 
 
-![Photo by [Aktion Weitblick](https://www.facebook.com/AktionWeitblick/)](assets/4c5991109fe9/1*IBFv4VKlGrJq-GTwaEsYNg.jpeg)
+![Photo by [Aktion Weitblick](https://www.facebook.com/AktionWeitblick/)](../assets/4c5991109fe9/1*IBFv4VKlGrJq-GTwaEsYNg.jpeg)
 
 Photo by [Aktion Weitblick](https://www.facebook.com/AktionWeitblick/)
 #### Pordenone — donations needed
@@ -167,7 +167,7 @@ The building of Right To Live House started today in Kolmen Sepän Aukio, centra
 See more on their [page](http://www.architectureforpeople.org/exhibiti…/peoples-architecture) and follow the Facebook [event](https://www.facebook.com/events/270614030101734/?acontext=%7B%22source%22%3A108%2C%22action_history%22%3A%22[%7B%5C%22surface%5C%22%3A%5C%22post_page%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22surface%5C%22%2C%5C%22extra_data%5C%22%3A[]%7D]%22%2C%22has_source%22%3Atrue%7D&source=108&action_history=[%7B%22surface%22%3A%22post_page%22%2C%22mechanism%22%3A%22surface%22%2C%22extra_data%22%3A[]%7D]&has_source=1&fref=mentions) for daily reporting\.
 
 
-![Photo by Stop Deportations](assets/4c5991109fe9/1*HuQebWfnXOUwDLCkRSQXgw.jpeg)
+![Photo by Stop Deportations](../assets/4c5991109fe9/1*HuQebWfnXOUwDLCkRSQXgw.jpeg)
 
 Photo by Stop Deportations
 

@@ -1,5 +1,5 @@
 ---
-title: AYS DIGEST 30/11: Winter arrives in force to Greece
+title: "AYS DIGEST 30/11: Winter arrives in force to Greece"
 author: Are You Syrious?
 date: 2016-11-30T23:24:43.155+0000
 last_modified_at: 2016-11-30T23:24:43.155+0000
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe,greece,hungary]
 description: Feature
 image:
-  path: assets/bb9f750b8e99/1*hXN-soVuhPjJNLsdIdDulQ.jpeg
+  path: ../assets/bb9f750b8e99/1*hXN-soVuhPjJNLsdIdDulQ.jpeg
 ---
 
 ### AYS DIGEST 30/11: Winter arrives in force to Greece
 
 
-![Petra camp this morning by [Paul Carr](https://www.facebook.com/refugee.aidlesvos)](assets/bb9f750b8e99/1*hXN-soVuhPjJNLsdIdDulQ.jpeg)
+![Petra camp this morning by [Paul Carr](https://www.facebook.com/refugee.aidlesvos)](../assets/bb9f750b8e99/1*hXN-soVuhPjJNLsdIdDulQ.jpeg)
 
 Petra camp this morning by [Paul Carr](https://www.facebook.com/refugee.aidlesvos)
 ### Feature
@@ -25,7 +25,7 @@ But no preparations would have been enough for what happened last night and toda
 Throughout the day people have been moved to different parts of the country, some to hotels in Thessaloniki, some to Volvi area, Katerini and even some places in Athens\. Reports said that 5 buses were used to take all refugees away from the camp and the last information collected fortunately suggest that everyone could be rescued and is now proper shelter\.
 
 
-![Another angle from Petra, by Paul Carr](assets/bb9f750b8e99/1*7WhmRSlVAnb_0Do8ar_AVw.jpeg)
+![Another angle from Petra, by Paul Carr](../assets/bb9f750b8e99/1*7WhmRSlVAnb_0Do8ar_AVw.jpeg)
 
 Another angle from Petra, by Paul Carr
 
@@ -57,7 +57,7 @@ At Softex camp we get a emotional report from a volunteer working there today:
 
 
 
-![Photos by Loïs Simac](assets/bb9f750b8e99/1*yFsc49GmB2Og8dQgahnzuw.jpeg)
+![Photos by Loïs Simac](../assets/bb9f750b8e99/1*yFsc49GmB2Og8dQgahnzuw.jpeg)
 
 Photos by Loïs Simac
 
@@ -69,12 +69,12 @@ _I did however decide to do a little magic\! \! I donated my £200 Winter Fuel a
 _Please join me in helping as they say “ [every little bit helps](https://mydonate.bt.com/events/foodandessentials/338610) ”_
 
 
-![Photo by Refugee Support Greece](assets/bb9f750b8e99/1*EzT8jWFUHc11cmU-m4KIZQ.jpeg)
+![Photo by Refugee Support Greece](../assets/bb9f750b8e99/1*EzT8jWFUHc11cmU-m4KIZQ.jpeg)
 
 Photo by Refugee Support Greece
 
 
-![Photo by Refugee Support Greece](assets/bb9f750b8e99/1*rW9MbKHaaU_c8LGEHqtl7g.jpeg)
+![Photo by Refugee Support Greece](../assets/bb9f750b8e99/1*rW9MbKHaaU_c8LGEHqtl7g.jpeg)
 
 Photo by Refugee Support Greece
 
@@ -86,7 +86,7 @@ The bad weather has also been felt on Chios for another day and many refugees co
 Unfortunately not everyone is trying to help refugees on the island\.
 
 
-![Photo by [Gabrielle Tan](https://www.facebook.com/gabrielle.tan)](assets/bb9f750b8e99/1*rbH3A0Wq-Gm6WBhXdYHS5w.jpeg)
+![Photo by [Gabrielle Tan](https://www.facebook.com/gabrielle.tan)](../assets/bb9f750b8e99/1*rbH3A0Wq-Gm6WBhXdYHS5w.jpeg)
 
 Photo by [Gabrielle Tan](https://www.facebook.com/gabrielle.tan)
 
@@ -193,7 +193,7 @@ By the time of his arrest, H was already a legal EU resident living in Cyprus wi
 They reached the Hungarian border just as it closed, which sparked clashes between police and migrants\. In the melee H and his parents were arrested\. As H had been carrying a loudspeaker as well as his family’s passports, he was accused of being the ringleader\.
 
 
-![Ahmed literaly on a leash during the trial](assets/bb9f750b8e99/1*c-PRsf9qiHsPlnLi600rKA.jpeg)
+![Ahmed literaly on a leash during the trial](../assets/bb9f750b8e99/1*c-PRsf9qiHsPlnLi600rKA.jpeg)
 
 Ahmed literaly on a leash during the trial
 

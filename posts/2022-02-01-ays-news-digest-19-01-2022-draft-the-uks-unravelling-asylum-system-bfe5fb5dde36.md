@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [uk-border,search-and-rescue,evros,digest,refugees]
 description: Updates from Central and Western Med / New ‘smart policing’ program for Greek Police / Anti-migrants protests in Evros against the…
 image:
-  path: assets/bfe5fb5dde36/1*RTOcYpNDke7C72Uur6icvg.jpeg
+  path: ../assets/bfe5fb5dde36/1*RTOcYpNDke7C72Uur6icvg.jpeg
 ---
 
 ### AYS News Digest 19/01/2022 Draft The UK’s Unravelling Asylum System
@@ -15,7 +15,7 @@ image:
 Updates from Central and Western Med / New ‘smart policing’ program for Greek Police / Anti\-migrants protests in Evros against the expansion of Fylakio detention / Calais Food Collective faces criminalisation / Rwanda stands against Danish bribery…
 
 
-![Central Med \(Credit: [Louise Michel](https://twitter.com/MVLouiseMichel/status/1483861387558666241/photo/1) \)](assets/bfe5fb5dde36/1*RTOcYpNDke7C72Uur6icvg.jpeg)
+![Central Med \(Credit: [Louise Michel](https://twitter.com/MVLouiseMichel/status/1483861387558666241/photo/1) \)](../assets/bfe5fb5dde36/1*RTOcYpNDke7C72Uur6icvg.jpeg)
 
 Central Med \(Credit: [Louise Michel](https://twitter.com/MVLouiseMichel/status/1483861387558666241/photo/1) \)
 #### FEATURE: The UK’s Unravelling Asylum System
@@ -76,7 +76,7 @@ SEA
 Alarm Phone produced the following video clip for people who are considering crossing from Turkey to Greece, either via the Aegaen Sea or the land border at Evros / Meriç river\.
 
 
-[![Safety at Sea - Aegean region](assets/bfe5fb5dde36/49c7_hqdefault.jpg "Safety at Sea - Aegean region")](https://www.youtube.com/watch?v=rtVzgQhKXu4)
+[![Safety at Sea - Aegean region](../assets/bfe5fb5dde36/49c7_hqdefault.jpg "Safety at Sea - Aegean region")](https://www.youtube.com/watch?v=rtVzgQhKXu4)
 
 
 The video intend to provide information for a safer journey\. It shares information on precautions to take when crossing the border and how to react when fearing an illegal pushback to Turkey\.
@@ -160,7 +160,7 @@ FRANCE
 #### Calais Food Collective face Criminalisation and Harassment
 
 
-![\(Photo Credit: [Calais Food Collective](https://twitter.com/CalaisFoodCol/status/1483520977833234434/photo/1) \)](assets/bfe5fb5dde36/1*GrHMaWoWeh_QxMWeKTy59w.jpeg)
+![\(Photo Credit: [Calais Food Collective](https://twitter.com/CalaisFoodCol/status/1483520977833234434/photo/1) \)](../assets/bfe5fb5dde36/1*GrHMaWoWeh_QxMWeKTy59w.jpeg)
 
 \(Photo Credit: [Calais Food Collective](https://twitter.com/CalaisFoodCol/status/1483520977833234434/photo/1) \)
 

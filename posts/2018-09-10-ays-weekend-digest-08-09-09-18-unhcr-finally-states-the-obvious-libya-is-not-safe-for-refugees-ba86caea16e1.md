@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 08–09/09/18: UNHCR Finally States the Obvious — Libya is not safe for refugees!
+title: "AYS Weekend Digest 08–09/09/18: UNHCR Finally States the Obvious — Libya is not safe for refugees!"
 author: Are You Syrious?
 date: 2018-09-10T07:09:37.250+0100
 last_modified_at: 2018-09-10T07:09:37.250+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [libya,digest,croatia,greece,refugees]
 description: Sea Rescues//New Arrivals in Greece//Classes in Athens//Fire on Samos//Czech Vigilantes Boast Police Connections//Spanish investigation…
 image:
-  path: assets/ba86caea16e1/1*lQALRqDJiXtbDenYiLH6IQ.jpeg
+  path: ../assets/ba86caea16e1/1*lQALRqDJiXtbDenYiLH6IQ.jpeg
 ---
 
 ### AYS Weekend Digest 08–09/09/18: UNHCR Finally States the Obvious — Libya is not safe for refugees\!
@@ -15,7 +15,7 @@ image:
 _Sea Rescues//New Arrivals in Greece//Classes in Athens//Fire on Samos//Czech Vigilantes Boast Police Connections//Spanish investigation re\-opened//Memorial Vandalized in UK//And more…_
 
 
-![People on the move sleeping in the Balkans\. Photo Credit: Gabriel Tizon\.](assets/ba86caea16e1/1*lQALRqDJiXtbDenYiLH6IQ.jpeg)
+![People on the move sleeping in the Balkans\. Photo Credit: Gabriel Tizon\.](../assets/ba86caea16e1/1*lQALRqDJiXtbDenYiLH6IQ.jpeg)
 
 People on the move sleeping in the Balkans\. Photo Credit: Gabriel Tizon\.
 ### Feature
@@ -61,7 +61,7 @@ AMDH also reported on [a series of violent raids](https://www.facebook.com/AmdhN
 210 people arrived on Lesvos today in 6 boats today\. Many of them were children\. The total number of people who arrived on Lesvos this weekend is 341 as of writing\.
 
 
-![People arriving on Lesvos, 09/09/18\.](assets/ba86caea16e1/1*8Mbo4c5kyngiKnMIjt4IYw.jpeg)
+![People arriving on Lesvos, 09/09/18\.](../assets/ba86caea16e1/1*8Mbo4c5kyngiKnMIjt4IYw.jpeg)
 
 People arriving on Lesvos, 09/09/18\.
 
@@ -89,7 +89,7 @@ Refugees are being [illegally detained](http://www.efsyn.gr/arthro/mas-apigagan-
 There are free English classes being offered at Kondrigktonos 61 at 5 pm, near Victoria Square in Athens\. There will also be free meals offered every Monday, Thursday, and Saturday at the same location\.
 
 
-![“The Themistokleous 58 squat in Exarchia is a refugee run project organised around the principle of direct democracy\. Anyone is welcome to volunteer or teach a skill\. Just turn up and ask for Samir\!”](assets/ba86caea16e1/1*TJ5Ch0YmjLZnY2Q5rCmB3Q.jpeg)
+![“The Themistokleous 58 squat in Exarchia is a refugee run project organised around the principle of direct democracy\. Anyone is welcome to volunteer or teach a skill\. Just turn up and ask for Samir\!”](../assets/ba86caea16e1/1*TJ5Ch0YmjLZnY2Q5rCmB3Q.jpeg)
 
 “The Themistokleous 58 squat in Exarchia is a refugee run project organised around the principle of direct democracy\. Anyone is welcome to volunteer or teach a skill\. Just turn up and ask for Samir\!”
 ### Spain
@@ -137,7 +137,7 @@ Life remains difficult for refugees in the French capital\. As AYS has reported 
 #### Refugee Memorial Vandalized
 
 
-![Photo Credit: Shafique Azam](assets/ba86caea16e1/1*1hdzNahGZtXduxy598aDyA.jpeg)
+![Photo Credit: Shafique Azam](../assets/ba86caea16e1/1*1hdzNahGZtXduxy598aDyA.jpeg)
 
 Photo Credit: Shafique Azam
 

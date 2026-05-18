@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 18/4/22: Detained children in the ‘heart of Europe’
+title: "AYS News Digest 18/4/22: Detained children in the ‘heart of Europe’"
 author: Are You Syrious?
 date: 2022-04-19T22:29:28.372+0100
 last_modified_at: 2022-04-19T22:29:28.372+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,poland,children,europe]
 description: Pushbacks and double standards along the Polish border / thought-provoking text of someone who just came back from the Polish-Ukranian…
 image:
-  path: assets/1771fe18d637/0*5QJ3Za2xXdVU2bLy.jpg
+  path: ../assets/1771fe18d637/0*5QJ3Za2xXdVU2bLy.jpg
 ---
 
 ### AYS News Digest 18/4/22: Detained children in the ‘heart of Europe’
 #### Pushbacks and double standards along the Polish border / thought\-provoking text of someone who just came back from the Polish\-Ukranian border / **inadequate health care in Spanish centres for youth — reports from Ceuta / many good reads and reports from the ground**
 
 
-![](assets/1771fe18d637/0*5QJ3Za2xXdVU2bLy.jpg)
+![](../assets/1771fe18d637/0*5QJ3Za2xXdVU2bLy.jpg)
 
 #### FEATURE
 
@@ -201,7 +201,7 @@ Reports of pushbacks didn’t stop even during Easter days:
 This group has been pushed back 10 times before and previously were at the border facility where they requested asylum\. Grupa Granica attempted to stay in contact througout this period, but it appears this did nothing to prevent the illegal deportation:
 
 
-![](assets/1771fe18d637/0*L0EkSGFDYVvzSKQZ)
+![](../assets/1771fe18d637/0*L0EkSGFDYVvzSKQZ)
 
 #### UK
 ### The State Church criticising the State

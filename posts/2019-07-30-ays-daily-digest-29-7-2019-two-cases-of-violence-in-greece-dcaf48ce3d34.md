@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 29/7/2019: Two cases of violence in Greece
+title: "AYS Daily Digest 29/7/2019: Two cases of violence in Greece"
 author: Are You Syrious?
 date: 2019-07-30T10:40:55.305+0100
 last_modified_at: 2019-07-30T15:52:06.824+0100

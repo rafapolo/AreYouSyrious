@@ -1,5 +1,5 @@
 ---
-title: AYS digest 16/01: No home, no peace, no rest
+title: "AYS digest 16/01: No home, no peace, no rest"
 author: Are You Syrious?
 date: 2017-01-16T22:58:08.534+0000
 last_modified_at: 2017-01-17T18:45:17.548+0000
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe]
 description: Aid needed in Lebanon for kidney dialysis patients / Spike in arrivals on Greek islands / Yiannis Mouzalas announced 8,000 new…
 image:
-  path: assets/18c6dcfde63e/1*jK5mT_17aAgo454EG_-qlg.jpeg
+  path: ../assets/18c6dcfde63e/1*jK5mT_17aAgo454EG_-qlg.jpeg
 ---
 
 ### AYS digest 16/01: No home, no peace, no rest
 
 
-![Are we?](assets/18c6dcfde63e/1*jK5mT_17aAgo454EG_-qlg.jpeg)
+![Are we?](../assets/18c6dcfde63e/1*jK5mT_17aAgo454EG_-qlg.jpeg)
 
 Are we?
 
@@ -41,14 +41,14 @@ Even though funds are a mess, News that Moves has reported that during an interv
 ### **Help needed for 130 people stranded in cold abandoned factory in Patras**
 
 
-![Conditions in which 130 people live in an abandoned factory in Patras\. Photo: Rango Wagner](assets/18c6dcfde63e/1*5_pNJ-C85coerEBMasFvoQ.jpeg)
+![Conditions in which 130 people live in an abandoned factory in Patras\. Photo: Rango Wagner](../assets/18c6dcfde63e/1*5_pNJ-C85coerEBMasFvoQ.jpeg)
 
 Conditions in which 130 people live in an abandoned factory in Patras\. Photo: Rango Wagner
 
 If only the aforementioned program could help 130 refugees living in abandoned factory buildings by Patras Port in western Greece, among them a ten year old boy with his dad\. There is no electricity and only one of the buildings has running water, cold, from a single tap\. We are not holding our breath waiting for the system to help them, so if you can, please support them this winter by donating via this [link](https://www.gofundme.com/helprefugeesinPatras) \.
 
 
-![Father and son\. Photo: Rango Wagner](assets/18c6dcfde63e/1*hrgJtocjW7SfNEdUmKvBog.jpeg)
+![Father and son\. Photo: Rango Wagner](../assets/18c6dcfde63e/1*hrgJtocjW7SfNEdUmKvBog.jpeg)
 
 Father and son\. Photo: Rango Wagner
 ### **Athens solidarity centre**
@@ -73,7 +73,7 @@ Those interested in volunteering at Elpida Home refugee camp “need to be able 
 ### **Support the Samos divers**
 
 
-![](assets/18c6dcfde63e/1*wxyp4l2sxaqsZ4bAjPmEbg.jpeg)
+![](../assets/18c6dcfde63e/1*wxyp4l2sxaqsZ4bAjPmEbg.jpeg)
 
 
 Samos divers, a non\-profit rescue organization, needs support\. If you can help, please turn to [this link](https://mydonate.bt.com/events/sda/371450) \.
@@ -81,7 +81,7 @@ Samos divers, a non\-profit rescue organization, needs support\. If you can help
 ### **Transfers from Belgrade**
 
 
-![One bus\. Photo: Jan Refugee](assets/18c6dcfde63e/1*A24S0y9mx-NbfWB82kZ2PQ.jpeg)
+![One bus\. Photo: Jan Refugee](../assets/18c6dcfde63e/1*A24S0y9mx-NbfWB82kZ2PQ.jpeg)
 
 One bus\. Photo: Jan Refugee
 
@@ -89,7 +89,7 @@ Out of hundreds of people stranded in Belgrade, today some 50 were transferred t
 #### Croatia
 
 
-![First day of school\. Photo: Are You Syrious](assets/18c6dcfde63e/1*IEGl4HwTdkLqBwqtU0DrTw.jpeg)
+![First day of school\. Photo: Are You Syrious](../assets/18c6dcfde63e/1*IEGl4HwTdkLqBwqtU0DrTw.jpeg)
 
 First day of school\. Photo: Are You Syrious
 ### **Knowledge is power\!**
@@ -99,7 +99,7 @@ Today is a big day for us\! At long last, 28 children with asylum seeker status 
 In September, at the beginning of the first semester 6 other children with asylum seeker status, as well as an additional 6 who have asylum, were successfully enrolled in school\. Now, on the first day of the second semester many more have joined them\. Furthermore, today 7 children with asylum began attending regular kindergarten\.
 
 
-![First day of school\. Photo: Are You Syrious](assets/18c6dcfde63e/1*dG59U0bWUBtMJr7VRs7AFA.jpeg)
+![First day of school\. Photo: Are You Syrious](../assets/18c6dcfde63e/1*dG59U0bWUBtMJr7VRs7AFA.jpeg)
 
 First day of school\. Photo: Are You Syrious
 
@@ -146,7 +146,7 @@ Numerous first responders \(firefighters and police\) went to the camp of La Lin
 ### **Help 4 Refugee children needs help**
 
 
-![Photo: Help4Refugee Children](assets/18c6dcfde63e/1*muEaPQB3YWVJGGHu8yvmoA.jpeg)
+![Photo: Help4Refugee Children](../assets/18c6dcfde63e/1*muEaPQB3YWVJGGHu8yvmoA.jpeg)
 
 Photo: Help4Refugee Children
 

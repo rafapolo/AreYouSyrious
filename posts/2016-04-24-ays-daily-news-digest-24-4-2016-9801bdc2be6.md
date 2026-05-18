@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,immigration]
 description: At least 26 were killed in Syrian Aleppo. One person was killed and 26 were injured in a rocket attack in Turkey. Refugees were teargassed…
 image:
-  path: assets/9801bdc2be6/1*dUvfLOo32Fh2CdHma8GkrQ.jpeg
+  path: ../assets/9801bdc2be6/1*dUvfLOo32Fh2CdHma8GkrQ.jpeg
 ---
 
 ### AYS DAILY NEWS DIGEST 24\.4\.2016\.
 #### At least 26 were killed in Syrian Aleppo\. One person was killed and 26 were injured in a rocket attack in Turkey\. Refugees were teargassed in Moria\. Refugees protest in Polykastro over poor living conditions\. Protesters were pepper\-sprayed on the Italian\-Austrian border\.
 
 
-![Photo credit: Refugee Solidarity Movement Thessaloniki\-Eidomeni](assets/9801bdc2be6/1*dUvfLOo32Fh2CdHma8GkrQ.jpeg)
+![Photo credit: Refugee Solidarity Movement Thessaloniki\-Eidomeni](../assets/9801bdc2be6/1*dUvfLOo32Fh2CdHma8GkrQ.jpeg)
 
 Photo credit: Refugee Solidarity Movement Thessaloniki\-Eidomeni
 #### SYRIA
@@ -45,7 +45,7 @@ Photo credit: Refugee Solidarity Movement Thessaloniki\-Eidomeni
 
 
 
-![Aftermath of the attack in Kilis\. Photo credit: Umit Bektas / Reuters](assets/9801bdc2be6/1*1EctxHoDMxEKw3x6Z38w4Q.jpeg)
+![Aftermath of the attack in Kilis\. Photo credit: Umit Bektas / Reuters](../assets/9801bdc2be6/1*1EctxHoDMxEKw3x6Z38w4Q.jpeg)
 
 Aftermath of the attack in Kilis\. Photo credit: Umit Bektas / Reuters
 #### GREECE
@@ -141,7 +141,7 @@ Aftermath of the attack in Kilis\. Photo credit: Umit Bektas / Reuters
 
 
 
-![Memorial to the victims of train accident\. Photo credit: Legis](assets/9801bdc2be6/1*08Z_Kiyoru416H1Moh0hiA.jpeg)
+![Memorial to the victims of train accident\. Photo credit: Legis](../assets/9801bdc2be6/1*08Z_Kiyoru416H1Moh0hiA.jpeg)
 
 Memorial to the victims of train accident\. Photo credit: Legis
 #### ITALY
@@ -155,7 +155,7 @@ Memorial to the victims of train accident\. Photo credit: Legis
 
 
 
-![Riot police on the Brenner pass\. Photo credit: Ilaria Sperandio / Open Borders](assets/9801bdc2be6/1*PL0qPHLYgC9_lWeki16Qtw.jpeg)
+![Riot police on the Brenner pass\. Photo credit: Ilaria Sperandio / Open Borders](../assets/9801bdc2be6/1*PL0qPHLYgC9_lWeki16Qtw.jpeg)
 
 Riot police on the Brenner pass\. Photo credit: Ilaria Sperandio / Open Borders
 #### UK

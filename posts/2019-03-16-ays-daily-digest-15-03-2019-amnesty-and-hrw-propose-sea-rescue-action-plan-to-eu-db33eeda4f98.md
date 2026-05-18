@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 15/03/2019: Amnesty and HRW Propose Sea Rescue Action Plan to EU
+title: "AYS Daily Digest 15/03/2019: Amnesty and HRW Propose Sea Rescue Action Plan to EU"
 author: Are You Syrious?
 date: 2019-03-16T11:56:00.160+0000
 last_modified_at: 2019-03-16T13:51:45.571+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,human-rights]
 description: Racist Attack in Athens// Moon Bird Back in the Air and Patrolling the Seas// Cooperation cementing between Italy and Tunisia//…
 image:
-  path: assets/db33eeda4f98/0*RMSpeZ2hB0urOgbO
+  path: ../assets/db33eeda4f98/0*RMSpeZ2hB0urOgbO
 ---
 
 ### AYS Daily Digest 15/03/2019: Amnesty and HRW Propose Sea Rescue Action Plan to EU
@@ -15,7 +15,7 @@ image:
 Racist Attack in Athens// Moon Bird Back in the Air and Patrolling the Seas// Cooperation Cementing Between Italy and Tunisia// Organisations Denounce Criminalisation of Aid at Italian\-French Border//UK High Court Orders 69 Immigration Removals to be Stopped// Asylum Seeker Debit Cards Used to Track Their Movements in the UK
 
 
-![By Care 4 Calais](assets/db33eeda4f98/0*RMSpeZ2hB0urOgbO)
+![By Care 4 Calais](../assets/db33eeda4f98/0*RMSpeZ2hB0urOgbO)
 
 By Care 4 Calais
 

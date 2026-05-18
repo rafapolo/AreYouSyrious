@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 17/11/21: ECHR serves justice for little Madina, Croatia found guilty
+title: "AYS News Digest 17/11/21: ECHR serves justice for little Madina, Croatia found guilty"
 author: Are You Syrious?
 date: 2021-11-18T14:16:23.831+0000
 last_modified_at: 2021-11-18T14:55:23.354+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,human-rights,croatia,refugees,courts]
 description: Greece punishing “fake news” with up to five years in prison, further limiting free speech and free press, and ostracizing those who speak…
 image:
-  path: assets/cbf8e70f6e84/1*1mlIgZqlvcEKZdlK0O3HJA.jpeg
+  path: ../assets/cbf8e70f6e84/1*1mlIgZqlvcEKZdlK0O3HJA.jpeg
 ---
 
 ### AYS News Digest 17/11/21: ECHR serves justice for little Madina, Croatia found guilty
 #### Greece punishing “fake news” with up to five years in prison, further limiting free speech and free press, and ostracizing those who speak out about important issues / Report shows most of the people crossing the Channel fall under international refugee criteria, contrary to Patel’s statements / Situation at the border with Belarus; Poland to build a wall in December / Calls for feedback, reports and other good reads
 
 
-![Madina Hussiny](assets/cbf8e70f6e84/1*1mlIgZqlvcEKZdlK0O3HJA.jpeg)
+![Madina Hussiny](../assets/cbf8e70f6e84/1*1mlIgZqlvcEKZdlK0O3HJA.jpeg)
 
 Madina Hussiny
 #### FEATURED

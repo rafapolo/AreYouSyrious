@@ -1,5 +1,5 @@
 ---
-title: AYS Digest: 14/8 Parks are for People!
+title: "AYS Digest: 14/8 Parks are for People!"
 author: Are You Syrious?
 date: 2016-08-15T01:21:48.934+0100
 last_modified_at: 2016-08-16T05:26:40.615+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe]
 description: Airstrikes and bombing RAIDS on refugee camps near Turkish/Syrian border. Choppy weather and uncertain futures in Greece. Some answers on…
 image:
-  path: assets/7d4780f54305/1*0kQtT7s1twTDA_B7G51ayg.jpeg
+  path: ../assets/7d4780f54305/1*0kQtT7s1twTDA_B7G51ayg.jpeg
 ---
 
 ### AYS Digest: 14/8 Parks are for People\!
 #### Airstrikes and bombing RAIDS on refugee camps near Turkish/Syrian border\. Choppy weather and uncertain futures in Greece\. Some answers on expired police documents for pre\-registration\. AYS reporting from Thessaloniki\. Protest\-Party in Belgrade Parks\. Full information on workflow in Subotica, Serbia\. Italy slowly preparing for more visitors\. In spite of optimism, new tragedies in Calais\.
 
 
-![Belgrade event\. Photo credit Leo Vinci](assets/7d4780f54305/1*0kQtT7s1twTDA_B7G51ayg.jpeg)
+![Belgrade event\. Photo credit Leo Vinci](../assets/7d4780f54305/1*0kQtT7s1twTDA_B7G51ayg.jpeg)
 
 Belgrade event\. Photo credit Leo Vinci
 ### SYRIA
@@ -52,11 +52,11 @@ One boat landed south east of Lesvos near air port 18 people on board two people
 The Intervolve volunteers at Thessaloniki have successfully constructed some charming benches and tables for the residents\! [Providing spaces to eat](https://www.facebook.com/nicholas.rangos/posts/10157582823245643?hc_location=ufi) that aren’t on the uncovered ground is an important part of reinforcing dignity that seems to have been systematically targeted throughout the crisis\. It is imperative that volunteers be on the lookout for every opportunity to reaffirm dignity and humanity\.
 
 
-![](assets/7d4780f54305/1*TDLAPFU2Lv-UU3nCl1Ashg.jpeg)
+![](../assets/7d4780f54305/1*TDLAPFU2Lv-UU3nCl1Ashg.jpeg)
 
 
 
-![Photo credit: Intervolve International Volunteers](assets/7d4780f54305/1*2CCRAYh_JXPrxBXBJTVkFw.jpeg)
+![Photo credit: Intervolve International Volunteers](../assets/7d4780f54305/1*2CCRAYh_JXPrxBXBJTVkFw.jpeg)
 
 Photo credit: Intervolve International Volunteers
 
@@ -70,26 +70,26 @@ The following is a report from an on\-site member of AYS who is working in and a
 
 
 
-![](assets/7d4780f54305/1*a8kgbEqU1tZSkWXcKUd1LQ.jpeg)
+![](../assets/7d4780f54305/1*a8kgbEqU1tZSkWXcKUd1LQ.jpeg)
 
 
 
-![](assets/7d4780f54305/1*JDp8wZjgz14bVHqNHX7lzA.jpeg)
+![](../assets/7d4780f54305/1*JDp8wZjgz14bVHqNHX7lzA.jpeg)
 
 
 
-![](assets/7d4780f54305/1*fUi3te3YWuZ8C2QsaMetng.jpeg)
+![](../assets/7d4780f54305/1*fUi3te3YWuZ8C2QsaMetng.jpeg)
 
 ### Athens
 
 The broader public as well as refugees and volunteers celebrated Pakistan’s independence today with great festivity\. To the significant population of Pakistani individuals in camps across Greece, events like this bring a taste of home\.
 
 
-![](assets/7d4780f54305/1*8Rgs3bIiTaDNb67CMVp6fg.jpeg)
+![](../assets/7d4780f54305/1*8Rgs3bIiTaDNb67CMVp6fg.jpeg)
 
 
 
-![Photo credit: [**Hugo Miguel Caldeira**](https://www.facebook.com/hugocaldeira)](assets/7d4780f54305/1*PyOcDmWYeXdAclG8P_pScg.jpeg)
+![Photo credit: [**Hugo Miguel Caldeira**](https://www.facebook.com/hugocaldeira)](../assets/7d4780f54305/1*PyOcDmWYeXdAclG8P_pScg.jpeg)
 
 Photo credit: [**Hugo Miguel Caldeira**](https://www.facebook.com/hugocaldeira)
 ### SERBIA
@@ -100,12 +100,12 @@ Volunteers and activists held a gathering today in the parks to protest the rece
 Meanwhile, refugees continue to report less than adequate conditions at Krnjača camp where most were ostensibly relocated\. The notion of it being an “open camp” is in doubt considering the number of refugees who were required to jump the fence in order to escape back to the city\. However, volunteers point out the dramatic irony in the fact that around forty people were not allowed into the camps and ordered by the authorities to go back to the parks from which they were driven\. Nothing is sure in Belgrade at the moment besides the fact that people are bewildered and frustrated with the authorities’ handling of the situation\.
 
 
-![Belgrade Protest\-Party\. Prorty\! Photos courtesy of Leo Vinci](assets/7d4780f54305/1*m-ksZfvfNvE2XTtmGw9-DA.jpeg)
+![Belgrade Protest\-Party\. Prorty\! Photos courtesy of Leo Vinci](../assets/7d4780f54305/1*m-ksZfvfNvE2XTtmGw9-DA.jpeg)
 
 Belgrade Protest\-Party\. Prorty\! Photos courtesy of Leo Vinci
 
 
-![Protest\-Party, Photo: Leo Vinci](assets/7d4780f54305/1*xA9D_VPTbQRUXwvai4ZIlQ.jpeg)
+![Protest\-Party, Photo: Leo Vinci](../assets/7d4780f54305/1*xA9D_VPTbQRUXwvai4ZIlQ.jpeg)
 
 Protest\-Party, Photo: Leo Vinci
 ### Kelebija/Horgoš/Subotica
@@ -177,7 +177,7 @@ In more good news from Italy: the prefecture and the church in Genova are collab
 L’ecole d’arts et métiers sadly burned down last night\. This came subsequent to the relative victory of the ruling that businesses and cafes in the camp would not be shut down\. The cause of the fire is of yet unknown\.
 
 
-![Photo courtesy of Rachel Mantrell, Photo Credit: FORUM](assets/7d4780f54305/1*fE-4uvDz9JzDuw4vWvmb6A.jpeg)
+![Photo courtesy of Rachel Mantrell, Photo Credit: FORUM](../assets/7d4780f54305/1*fE-4uvDz9JzDuw4vWvmb6A.jpeg)
 
 Photo courtesy of Rachel Mantrell, Photo Credit: FORUM
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 14/12/17: Libya drops ban for privately organized international rescue teams
+title: "AYS Daily Digest 14/12/17: Libya drops ban for privately organized international rescue teams"
 author: Are You Syrious?
 date: 2017-12-15T00:05:05.637+0000
 last_modified_at: 2017-12-15T10:25:25.997+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,refugeeswelcome,europe,libya,asylum-seekers]
 description: Libyan government lifting the SAR blockade off its coast / Many rescued at sea / Röszke 11 (Ahmed H.) trial to be continued in early…
 image:
-  path: assets/96c41e4e04ad/1*XboCPK5AHXgoYuQmDpjjuw.jpeg
+  path: ../assets/96c41e4e04ad/1*XboCPK5AHXgoYuQmDpjjuw.jpeg
 ---
 
 ### AYS Daily Digest 14/12/17: Libya drops ban for privately organized international rescue teams
@@ -15,7 +15,7 @@ image:
 _Libyan government lifting the SAR blockade off its coast / Many rescued at sea / Röszke 11 \(Ahmed H\. \) trial to be continued in early January / An open letter to Emmanuel Macron / Keep City Plaza open / And more news…_
 
 
-![In order to measure the magnitude of the horror that is happening in Libya, we must only look at the conditions in which people are forced into the sea\. Today among more than 300 rescued people, a young paraplegic in a wheelchair\. [Proactiva Open Arms](https://www.facebook.com/proactivaservice/?hc_ref=ARQj4ZDLGHHMF-5nbRtK0dxCMdPS8C_vLpa_uJ4pumWLYzpN1Y-ra5nK8rQFs6bAtwA)](assets/96c41e4e04ad/1*XboCPK5AHXgoYuQmDpjjuw.jpeg)
+![In order to measure the magnitude of the horror that is happening in Libya, we must only look at the conditions in which people are forced into the sea\. Today among more than 300 rescued people, a young paraplegic in a wheelchair\. [Proactiva Open Arms](https://www.facebook.com/proactivaservice/?hc_ref=ARQj4ZDLGHHMF-5nbRtK0dxCMdPS8C_vLpa_uJ4pumWLYzpN1Y-ra5nK8rQFs6bAtwA)](../assets/96c41e4e04ad/1*XboCPK5AHXgoYuQmDpjjuw.jpeg)
 
 In order to measure the magnitude of the horror that is happening in Libya, we must only look at the conditions in which people are forced into the sea\. Today among more than 300 rescued people, a young paraplegic in a wheelchair\. [Proactiva Open Arms](https://www.facebook.com/proactivaservice/?hc_ref=ARQj4ZDLGHHMF-5nbRtK0dxCMdPS8C_vLpa_uJ4pumWLYzpN1Y-ra5nK8rQFs6bAtwA)
 #### FEATURE
@@ -164,7 +164,7 @@ Belgium Kitchen needs volunteers for its evening meal distributions at the Gare 
 If you want to help, send an SMS to Yassine at \+32 488 88 82 27 stating: your name, how you want to help \(cooking or distribution\), your availability, and if you are motorized or not\.
 
 
-![Photo by [Belgium Kitchen](https://www.facebook.com/BelgiumKitchen/)](assets/96c41e4e04ad/1*CZlZdhwxNolYcaP7wRE4Gw.jpeg)
+![Photo by [Belgium Kitchen](https://www.facebook.com/BelgiumKitchen/)](../assets/96c41e4e04ad/1*CZlZdhwxNolYcaP7wRE4Gw.jpeg)
 
 Photo by [Belgium Kitchen](https://www.facebook.com/BelgiumKitchen/)
 #### UK

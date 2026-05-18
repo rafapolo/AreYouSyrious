@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 13/12/18: EP debates about the situation in BiH
+title: "AYS Daily Digest 13/12/18: EP debates about the situation in BiH"
 author: Are You Syrious?
 date: 2018-12-14T20:05:52.791+0000
 last_modified_at: 2018-12-14T20:05:52.791+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [refugees,bosnia,digest,croatia,eu]
 description: Are You Syrious?
 image:
-  path: assets/67666d84076c/1*Tx1u1RSutf5fWmPbOOmJVA.jpeg
+  path: ../assets/67666d84076c/1*Tx1u1RSutf5fWmPbOOmJVA.jpeg
 ---
 
 ### AYS Daily Digest 13/12/18: EP debates about the situation in BiH
 
 
-![](assets/67666d84076c/1*Tx1u1RSutf5fWmPbOOmJVA.jpeg)
+![](../assets/67666d84076c/1*Tx1u1RSutf5fWmPbOOmJVA.jpeg)
 
 
 [Are You Syrious?](https://medium.com/@AreYouSyrious?source=post_header_lockup)
@@ -23,7 +23,7 @@ Dec 14
 _Frontex soon to be deployed at the border / Hunger strike in Libyan detention center / Three people die in car accident in Greece / Police in BiH increases pressure on people and locals / And more news…_
 
 
-![Photo by: [Sanella Lepirica](https://www.facebook.com/sanela.lepirica?__tn__=%2Cd%2AF%2AF-R&eid=ARCbqD3eS2tEI2qJZJc94pb0dSk90U7OdEr6SrXKG6NAmOq5vlyqgYlAFmtlINyXEr75rv4s15hQDRS-&tn-str=%2AF&hc_location=group_dialog)](assets/67666d84076c/1*KY5aKHdhCYEx5bRDrJOPRA.jpeg)
+![Photo by: [Sanella Lepirica](https://www.facebook.com/sanela.lepirica?__tn__=%2Cd%2AF%2AF-R&eid=ARCbqD3eS2tEI2qJZJc94pb0dSk90U7OdEr6SrXKG6NAmOq5vlyqgYlAFmtlINyXEr75rv4s15hQDRS-&tn-str=%2AF&hc_location=group_dialog)](../assets/67666d84076c/1*KY5aKHdhCYEx5bRDrJOPRA.jpeg)
 
 Photo by: [Sanella Lepirica](https://www.facebook.com/sanela.lepirica?__tn__=%2Cd%2AF%2AF-R&eid=ARCbqD3eS2tEI2qJZJc94pb0dSk90U7OdEr6SrXKG6NAmOq5vlyqgYlAFmtlINyXEr75rv4s15hQDRS-&tn-str=%2AF&hc_location=group_dialog)
 ### FEATURE: EP debates about the situation in BiH
@@ -75,7 +75,7 @@ Another tragic car accident claiming immigrants as victims occurred early in the
 A car ran into a truck on the road to Kavala\.
 
 
-![](assets/67666d84076c/1*g9ePh4FLDtvYmRKnQZrvYw.jpeg)
+![](../assets/67666d84076c/1*g9ePh4FLDtvYmRKnQZrvYw.jpeg)
 
 
 The car caught on fire after the crash, resulting in the death of three people, while another six were injured\.
@@ -105,22 +105,22 @@ Police from Bihać once again pushed back a group of people from the city\. Some
 This particular group was left by the road in the afternoon\. To go back to Bihać, they will have to walk since the police forbids local bus companies from taking people in, and they are trying to prevent the local population from helping anyone\. People are still resisting, but the police is putting more pressure\.
 
 
-![](assets/67666d84076c/1*KY5aKHdhCYEx5bRDrJOPRA.jpeg)
+![](../assets/67666d84076c/1*KY5aKHdhCYEx5bRDrJOPRA.jpeg)
 
 
 
-![Photos by: [Sanella Lepirica](https://www.facebook.com/sanela.lepirica?__tn__=%2Cd%2AF%2AF-R&eid=ARCbqD3eS2tEI2qJZJc94pb0dSk90U7OdEr6SrXKG6NAmOq5vlyqgYlAFmtlINyXEr75rv4s15hQDRS-&tn-str=%2AF&hc_location=group_dialog)](assets/67666d84076c/1*PdYLQL0kvt5uaYXr6q02mQ.jpeg)
+![Photos by: [Sanella Lepirica](https://www.facebook.com/sanela.lepirica?__tn__=%2Cd%2AF%2AF-R&eid=ARCbqD3eS2tEI2qJZJc94pb0dSk90U7OdEr6SrXKG6NAmOq5vlyqgYlAFmtlINyXEr75rv4s15hQDRS-&tn-str=%2AF&hc_location=group_dialog)](../assets/67666d84076c/1*PdYLQL0kvt5uaYXr6q02mQ.jpeg)
 
 Photos by: [Sanella Lepirica](https://www.facebook.com/sanela.lepirica?__tn__=%2Cd%2AF%2AF-R&eid=ARCbqD3eS2tEI2qJZJc94pb0dSk90U7OdEr6SrXKG6NAmOq5vlyqgYlAFmtlINyXEr75rv4s15hQDRS-&tn-str=%2AF&hc_location=group_dialog)
 
 42 people were pushed back in this way over the last two days, local Red Cross volunteers claim\. Citizens of the nearby villages are providing much needed help\.
 
 
-![](assets/67666d84076c/1*j2ePaq7CVHBXgkAybLG_uA.jpeg)
+![](../assets/67666d84076c/1*j2ePaq7CVHBXgkAybLG_uA.jpeg)
 
 
 
-![Photos taken from the FB page of [Crveni Križ Općine Ključ](https://www.facebook.com/profile.php?id=100009318317491&__tn__=%2Cd%2AF%2AF-R&eid=ARCQT3jSVw1tryNOpWXSwK9r1Q-YNQHITrEONP36YbYLkhpe3-vWIeKefS2vh4uXQ5nLlo43WBrANQ95&tn-str=%2AF)](assets/67666d84076c/1*JWEFnD74WmIbuT9csnAGUw.jpeg)
+![Photos taken from the FB page of [Crveni Križ Općine Ključ](https://www.facebook.com/profile.php?id=100009318317491&__tn__=%2Cd%2AF%2AF-R&eid=ARCQT3jSVw1tryNOpWXSwK9r1Q-YNQHITrEONP36YbYLkhpe3-vWIeKefS2vh4uXQ5nLlo43WBrANQ95&tn-str=%2AF)](../assets/67666d84076c/1*JWEFnD74WmIbuT9csnAGUw.jpeg)
 
 Photos taken from the FB page of [Crveni Križ Općine Ključ](https://www.facebook.com/profile.php?id=100009318317491&__tn__=%2Cd%2AF%2AF-R&eid=ARCQT3jSVw1tryNOpWXSwK9r1Q-YNQHITrEONP36YbYLkhpe3-vWIeKefS2vh4uXQ5nLlo43WBrANQ95&tn-str=%2AF)
 
@@ -128,7 +128,7 @@ Talking about Bosnia at the EP plenary session on Thursday, they said that out o
 ### FRANCE
 
 
-![Photo: [Refugee Women’s Centre](https://www.facebook.com/refugeewomenscentre/?tn-str=k%2AF&hc_location=group_dialog)](assets/67666d84076c/1*wFDxWUKQI3JjrKeDmzf-JA.jpeg)
+![Photo: [Refugee Women’s Centre](https://www.facebook.com/refugeewomenscentre/?tn-str=k%2AF&hc_location=group_dialog)](../assets/67666d84076c/1*wFDxWUKQI3JjrKeDmzf-JA.jpeg)
 
 Photo: [Refugee Women’s Centre](https://www.facebook.com/refugeewomenscentre/?tn-str=k%2AF&hc_location=group_dialog)
 
@@ -145,7 +145,7 @@ Some of them are former hotels that have been purchased by the state and turned 
 As we announced earlier, a press conference and a gathering was organized in front of the court\. The people affected with the claims and charges at court were sentenced to 12 months’ imprisonment, eight of which were suspended, and six months of suspended imprisonment — guilty of aiding the entry into a territory by a person in an irregular situation\.
 
 
-![Photo: [HDR 05](https://www.facebook.com/hauteduranceenresistance/?__tn__=%2CdkCH-R-R&eid=ARDE5MqYdgrQSA2Kj2bSIbYtOfea2Wk3tyllTOR2VJM4fVFfQz5hzwqO0QGK0tJfUJOiBDSE-KoHnCe6&hc_ref=ARSFbEjbcY1Kjm2TzOOJhwO8diCHYppkcM20GCIzNvNb2Zwe6RW8ydACufmIr5pJ1oE&fref=nf)](assets/67666d84076c/1*mEvQDTUL8BoCyf7E6MMY8Q.jpeg)
+![Photo: [HDR 05](https://www.facebook.com/hauteduranceenresistance/?__tn__=%2CdkCH-R-R&eid=ARDE5MqYdgrQSA2Kj2bSIbYtOfea2Wk3tyllTOR2VJM4fVFfQz5hzwqO0QGK0tJfUJOiBDSE-KoHnCe6&hc_ref=ARSFbEjbcY1Kjm2TzOOJhwO8diCHYppkcM20GCIzNvNb2Zwe6RW8ydACufmIr5pJ1oE&fref=nf)](../assets/67666d84076c/1*mEvQDTUL8BoCyf7E6MMY8Q.jpeg)
 
 Photo: [HDR 05](https://www.facebook.com/hauteduranceenresistance/?__tn__=%2CdkCH-R-R&eid=ARDE5MqYdgrQSA2Kj2bSIbYtOfea2Wk3tyllTOR2VJM4fVFfQz5hzwqO0QGK0tJfUJOiBDSE-KoHnCe6&hc_ref=ARSFbEjbcY1Kjm2TzOOJhwO8diCHYppkcM20GCIzNvNb2Zwe6RW8ydACufmIr5pJ1oE&fref=nf)
 
@@ -154,18 +154,18 @@ Photo: [HDR 05](https://www.facebook.com/hauteduranceenresistance/?__tn__=%2CdkC
 _SHAME_ \!
 
 
-![Photo: [Élie Ducos](https://www.facebook.com/profile.php?id=100007387035486&__tn__=%2Cd%2AF%2AF-R&eid=ARBI6KSvUAEl3oXql8PutXx-OTwAuf65hRt0JzOAZHyQBfZLVhNYX7EnE0mI3TV6BVt4ZRe_xZlKxzcL&tn-str=%2AF)](assets/67666d84076c/1*O0fvCcIvrUOpdIJMsYYAZQ.jpeg)
+![Photo: [Élie Ducos](https://www.facebook.com/profile.php?id=100007387035486&__tn__=%2Cd%2AF%2AF-R&eid=ARBI6KSvUAEl3oXql8PutXx-OTwAuf65hRt0JzOAZHyQBfZLVhNYX7EnE0mI3TV6BVt4ZRe_xZlKxzcL&tn-str=%2AF)](../assets/67666d84076c/1*O0fvCcIvrUOpdIJMsYYAZQ.jpeg)
 
 Photo: [Élie Ducos](https://www.facebook.com/profile.php?id=100007387035486&__tn__=%2Cd%2AF%2AF-R&eid=ARBI6KSvUAEl3oXql8PutXx-OTwAuf65hRt0JzOAZHyQBfZLVhNYX7EnE0mI3TV6BVt4ZRe_xZlKxzcL&tn-str=%2AF)
 
 The “ **7 de Briançon** ” announced that they would appeal the decision, media [report](https://www.ledauphine.com/hautes-alpes/2018/12/13/7-de-briancon-une-centaine-de-personnes-en-soutien?fbclid=IwAR03Lq4jw0k9Pf-qv8rt8USG687DRBm8Z6EvqxB3tYOid1tPzZQGUAwGOvM) \. Activists also [wrote](https://valleesenlutte.noblogs.org/post/2018/12/13/1312-contre-les-frontieres-rendu-du-proces-des-34-de-briancon/?fbclid=IwAR0Qpd3ds8kOHqJsIZkM8HdrprL6MNLkJPGzEJgtzU_xyZaJKW5ubNyP7uE) about it and many are writing letters of support for them\. Read a public release from [Tous Migrants](https://www.facebook.com/tousmigrants/?__tn__=%2CdkCH-R-R&eid=ARAP35MZmdQ1W1Vv3DxcSwgxK5-CwSySYmwio6h-hbdRIEliKgFApPVFJOMI_oPR8HOT6wP4QmI4ol0p&hc_ref=ART00wdgFe2_DyzD955sCfzv-mq0OYSpa-XLJSYneWvOoH1sW2Ch0UL4Bez9qD4PvV0&fref=nf) [here](https://www.facebook.com/tousmigrants/posts/2312894625608770?hc_location=ufi) \.
 
 
-![](assets/67666d84076c/1*baftuIw43pXUyS4Cyr_RfA.jpeg)
+![](../assets/67666d84076c/1*baftuIw43pXUyS4Cyr_RfA.jpeg)
 
 
 
-![Photos: [HDR 05](https://www.facebook.com/hauteduranceenresistance/?__tn__=%2CdkCH-R-R&eid=ARDE5MqYdgrQSA2Kj2bSIbYtOfea2Wk3tyllTOR2VJM4fVFfQz5hzwqO0QGK0tJfUJOiBDSE-KoHnCe6&hc_ref=ARSFbEjbcY1Kjm2TzOOJhwO8diCHYppkcM20GCIzNvNb2Zwe6RW8ydACufmIr5pJ1oE&fref=nf)](assets/67666d84076c/1*gn97aTnTn-PpQ57nlzX5Kw.jpeg)
+![Photos: [HDR 05](https://www.facebook.com/hauteduranceenresistance/?__tn__=%2CdkCH-R-R&eid=ARDE5MqYdgrQSA2Kj2bSIbYtOfea2Wk3tyllTOR2VJM4fVFfQz5hzwqO0QGK0tJfUJOiBDSE-KoHnCe6&hc_ref=ARSFbEjbcY1Kjm2TzOOJhwO8diCHYppkcM20GCIzNvNb2Zwe6RW8ydACufmIr5pJ1oE&fref=nf)](../assets/67666d84076c/1*gn97aTnTn-PpQ57nlzX5Kw.jpeg)
 
 Photos: [HDR 05](https://www.facebook.com/hauteduranceenresistance/?__tn__=%2CdkCH-R-R&eid=ARDE5MqYdgrQSA2Kj2bSIbYtOfea2Wk3tyllTOR2VJM4fVFfQz5hzwqO0QGK0tJfUJOiBDSE-KoHnCe6&hc_ref=ARSFbEjbcY1Kjm2TzOOJhwO8diCHYppkcM20GCIzNvNb2Zwe6RW8ydACufmIr5pJ1oE&fref=nf)
 #### Paris
@@ -188,7 +188,7 @@ Om the occasion of International Migrants Day, which will take place on December
 Initiatives are being organized to collect donations in different parts of the country, follow groups such as [Calais — People to People Solidarity — Action from UK](https://www.facebook.com/groups/CalaisMigrantSolidarityActionFromUK/?ref=gs&tn-str=%2AF&fref=gs&dti=882751941799554&hc_location=group_dialog) for more information and to get in touch with people who organize it\.
 
 
-![](assets/67666d84076c/1*PK0Ovx5oDHpuxtoIREXpQA.jpeg)
+![](../assets/67666d84076c/1*PK0Ovx5oDHpuxtoIREXpQA.jpeg)
 
 
 We also publish a **weekly overview in Arabic and in Persian** of some of the most important stories we covered during the previous week\.

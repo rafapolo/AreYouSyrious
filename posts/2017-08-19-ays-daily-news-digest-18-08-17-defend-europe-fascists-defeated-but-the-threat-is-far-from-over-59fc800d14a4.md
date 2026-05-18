@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 18/08/17: “Defend Europe” fascists defeated, but the threat is far from over
+title: "AYS Daily Digest 18/08/17: “Defend Europe” fascists defeated, but the threat is far from over"
 author: Are You Syrious?
 date: 2017-08-19T02:30:22.106+0100
 last_modified_at: 2017-08-29T15:51:31.298+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,spain,sweden,europe,libya]
 description: Single refugee father with sick boy seeking home in Adana / Syrian family with small children jailed pending deportation to Turkey /…
 image:
-  path: assets/59fc800d14a4/1*rvZHV6ILKDNvrZfh8mwhDg.jpeg
+  path: ../assets/59fc800d14a4/1*rvZHV6ILKDNvrZfh8mwhDg.jpeg
 ---
 
 ### AYS Daily Digest 18/08/17: “Defend Europe” fascists defeated, but the threat is far from over
@@ -15,7 +15,7 @@ image:
 _Single refugee father with sick boy seeking home in Adana / Syrian family with small children jailed pending deportation to Turkey / Bulgaria asks for 600 heavily militarized troops along border / Solidarity encampment in central Stockholm continues to draw attention / Witness testimony suggests collaboration between Libyan military and smugglers / Refugee flow into Spain continues to grow / And more news…_
 
 
-![](assets/59fc800d14a4/1*rvZHV6ILKDNvrZfh8mwhDg.jpeg)
+![](../assets/59fc800d14a4/1*rvZHV6ILKDNvrZfh8mwhDg.jpeg)
 
 #### FEATURE
 
@@ -30,13 +30,13 @@ Although this entire saga is funny in a very perverse sense and the supporters o
 The father of a young boy with cardiovascular problems who will be undergoing surgery soon is in need of a new home\. His current residence is far too dark and damp for the health of the boy, who needs a better environment for recuperating from his procedures\. However, the father has no choice but to stay there\. If you know of a place, please [Rehana Flowerinjannah](https://www.facebook.com/profile.php?id=100013106229563&fref=gs&hc_ref=ARTzGdci0neHMUeWtlzHTHKvwneb3vJDQTrc4gPLj8ZUK1CZI_kjHqmOMwoVCrfvVjE&hc_location=group) on Facebook\.
 
 
-![The father and his son](assets/59fc800d14a4/1*GYrTCwKFFxEAuOZZCWM0Vw.jpeg)
+![The father and his son](../assets/59fc800d14a4/1*GYrTCwKFFxEAuOZZCWM0Vw.jpeg)
 
 The father and his son
 #### Greece
 
 
-![Some new arrivals who landed on Lesvos this morning\. Photo Credit: Boat Report — Lesvos](assets/59fc800d14a4/1*uxRS_-HN9xs75KQ4OfRaSQ.jpeg)
+![Some new arrivals who landed on Lesvos this morning\. Photo Credit: Boat Report — Lesvos](../assets/59fc800d14a4/1*uxRS_-HN9xs75KQ4OfRaSQ.jpeg)
 
 Some new arrivals who landed on Lesvos this morning\. Photo Credit: Boat Report — Lesvos
 ### Syrian refugees and their children jailed
@@ -116,7 +116,7 @@ Bulgaria is known for its strong anti\-refugee position\. Between January 1 and 
 ### Medborgarplatsen solidarity encampment is still going strong
 
 
-![Mina Muzafari is a teenage girl who has been taking part in the demonstrations\. Photo Credit: Ung i Sverige](assets/59fc800d14a4/1*Mq2iN-tQTzEZ_pBhvB38sA.jpeg)
+![Mina Muzafari is a teenage girl who has been taking part in the demonstrations\. Photo Credit: Ung i Sverige](../assets/59fc800d14a4/1*Mq2iN-tQTzEZ_pBhvB38sA.jpeg)
 
 Mina Muzafari is a teenage girl who has been taking part in the demonstrations\. Photo Credit: Ung i Sverige
 

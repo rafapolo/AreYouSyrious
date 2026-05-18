@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 2/6/2018: Frontex aggressively tries to stop a vessel off Greece — report
+title: "AYS DAILY DIGEST 2/6/2018: Frontex aggressively tries to stop a vessel off Greece — report"
 author: Are You Syrious?
 date: 2018-06-03T01:18:57.863+0100
 last_modified_at: 2018-06-03T01:18:57.863+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,greece,frontex,bosnia,france]
 description: EU border agency also observes the situation on the land border to Turkey and purchases new vehicles / More people arriving in Velika…
 image:
-  path: assets/98bf610482c1/1*vT4zFuLdgyL7RDRrF1aUGg.jpeg
+  path: ../assets/98bf610482c1/1*vT4zFuLdgyL7RDRrF1aUGg.jpeg
 ---
 
 ### AYS DAILY DIGEST 2/6/2018: Frontex aggressively tries to stop a vessel off Greece — report
 #### EU border agency also observes the situation on the land border to Turkey and purchases new vehicles / More people arriving in Velika Kladusa, Bosnia / SOS Mediterranee criticizes MRCC for early disembarkation / More than 500 people rescued off Spain, critics about detention policy / New evictions rumored in Paris
 
 
-![Scene of the interception\. Screenshot/ [Philippa Kempson](https://www.facebook.com/philippa.kempson.1?hc_ref=ARRrdnP0WwEV-WrvDZJ3vEF0T28vX3ADq4Mqb6mEf5XzrdgpbmzUwAfXXBl0KsBVrq0)](assets/98bf610482c1/1*vT4zFuLdgyL7RDRrF1aUGg.jpeg)
+![Scene of the interception\. Screenshot/ [Philippa Kempson](https://www.facebook.com/philippa.kempson.1?hc_ref=ARRrdnP0WwEV-WrvDZJ3vEF0T28vX3ADq4Mqb6mEf5XzrdgpbmzUwAfXXBl0KsBVrq0)](../assets/98bf610482c1/1*vT4zFuLdgyL7RDRrF1aUGg.jpeg)
 
 Scene of the interception\. Screenshot/ [Philippa Kempson](https://www.facebook.com/philippa.kempson.1?hc_ref=ARRrdnP0WwEV-WrvDZJ3vEF0T28vX3ADq4Mqb6mEf5XzrdgpbmzUwAfXXBl0KsBVrq0)
 ### Greece
@@ -62,7 +62,7 @@ Miksaliste, together with its partners, on Monday will present a mural created b
 “Numbers in Velika Kladuša are growing non stop, push backs from Croatia plus people coming from Sarajevo in order to try the game”, No Name Kitchen reports from the ground\. Recently, a van with blankets and tents arrived from Sarajevo to cover the first needs\. Also, NNK got a bigger water tank and is now able to provide showers for around 80 people a day\.
 
 
-![NNK is cleaning and re\-distributing NFI’s\. Credits: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/pcb.507879492943673/507877796277176/?type=3&theater)](assets/98bf610482c1/1*5J_-R5TrzSBnoIAszK0aHg.jpeg)
+![NNK is cleaning and re\-distributing NFI’s\. Credits: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/pcb.507879492943673/507877796277176/?type=3&theater)](../assets/98bf610482c1/1*5J_-R5TrzSBnoIAszK0aHg.jpeg)
 
 NNK is cleaning and re\-distributing NFI’s\. Credits: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/pcb.507879492943673/507877796277176/?type=3&theater)
 

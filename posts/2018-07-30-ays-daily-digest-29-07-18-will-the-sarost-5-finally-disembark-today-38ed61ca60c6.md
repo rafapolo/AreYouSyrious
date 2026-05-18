@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 29.07.18: Will the Sarost 5 Finally Disembark Today?
+title: "AYS Daily Digest 29.07.18: Will the Sarost 5 Finally Disembark Today?"
 author: Are You Syrious?
 date: 2018-07-30T04:59:31.294+0100
 last_modified_at: 2018-07-30T05:25:29.291+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,sarost,tunisia,iuventa]
 description: Russian scheme to return Syrian refugees//6 drown off coast of Turkey//Italian prosecutor investigates crew of #Iuventa//New arrivals in…
 image:
-  path: assets/38ed61ca60c6/1*hYFUHcXy90xpv5D1Decb7w.jpeg
+  path: ../assets/38ed61ca60c6/1*hYFUHcXy90xpv5D1Decb7w.jpeg
 ---
 
 ### AYS Daily Digest 29\.07\.18: Will the Sarost 5 Finally Disembark Today?
@@ -15,7 +15,7 @@ image:
 Russian scheme to return Syrian refugees//6 drown off coast of Turkey//Italian prosecutor investigates crew of \#Iuventa//New arrivals in Greece//Protest in Hamburg//Help needed in France and UK//and more…
 
 
-![Photo Credit: [Alarmphone](https://www.facebook.com/watchthemed.alarmphone/photos/p.2161301234144108/2161301234144108/?type=1&opaqueCursor=Abo6wKcTUN9r82R9IqGzvNeUMttEQ0AiMcSEB_fhhz5c9y22Ppmi62__uLSqzTHYwGHYxBK9o0pVwY2Z5kav353RJ40GXnqeM80-rKSiJhVlSFDAArV844ORRM1_94jkqZT0CuLnwjKIRHQq6ET1KT4iCtDkX186aUhkBx4y1nY47S94W7CxIMwRb-0j4V3FgJnK98J8TcxJBOeHrik9jzihLK4GQTvi_HVhNMaULeXr8B5wFMzfGmxtoYSPXlSAncmi3L-j6EQErMx6UF2zVJLLTMd8s7y65KHdQ-n41meor0VjA2tUC5MBnuEq2XopJCuVAEomg8Vf2E2d8XpPgzxUH-BzfeLola50uinH8f3Wnl8LZ64jWXDiQGarD4Oc00MPj351QlLOfxq4A65toCz7haaoeCBUFZJ5LpHo1K9JD0_pMtVkRRWQnqQDDjNtj7Y&theater)](assets/38ed61ca60c6/1*hYFUHcXy90xpv5D1Decb7w.jpeg)
+![Photo Credit: [Alarmphone](https://www.facebook.com/watchthemed.alarmphone/photos/p.2161301234144108/2161301234144108/?type=1&opaqueCursor=Abo6wKcTUN9r82R9IqGzvNeUMttEQ0AiMcSEB_fhhz5c9y22Ppmi62__uLSqzTHYwGHYxBK9o0pVwY2Z5kav353RJ40GXnqeM80-rKSiJhVlSFDAArV844ORRM1_94jkqZT0CuLnwjKIRHQq6ET1KT4iCtDkX186aUhkBx4y1nY47S94W7CxIMwRb-0j4V3FgJnK98J8TcxJBOeHrik9jzihLK4GQTvi_HVhNMaULeXr8B5wFMzfGmxtoYSPXlSAncmi3L-j6EQErMx6UF2zVJLLTMd8s7y65KHdQ-n41meor0VjA2tUC5MBnuEq2XopJCuVAEomg8Vf2E2d8XpPgzxUH-BzfeLola50uinH8f3Wnl8LZ64jWXDiQGarD4Oc00MPj351QlLOfxq4A65toCz7haaoeCBUFZJ5LpHo1K9JD0_pMtVkRRWQnqQDDjNtj7Y&theater)](../assets/38ed61ca60c6/1*hYFUHcXy90xpv5D1Decb7w.jpeg)
 
 Photo Credit: [Alarmphone](https://www.facebook.com/watchthemed.alarmphone/photos/p.2161301234144108/2161301234144108/?type=1&opaqueCursor=Abo6wKcTUN9r82R9IqGzvNeUMttEQ0AiMcSEB_fhhz5c9y22Ppmi62__uLSqzTHYwGHYxBK9o0pVwY2Z5kav353RJ40GXnqeM80-rKSiJhVlSFDAArV844ORRM1_94jkqZT0CuLnwjKIRHQq6ET1KT4iCtDkX186aUhkBx4y1nY47S94W7CxIMwRb-0j4V3FgJnK98J8TcxJBOeHrik9jzihLK4GQTvi_HVhNMaULeXr8B5wFMzfGmxtoYSPXlSAncmi3L-j6EQErMx6UF2zVJLLTMd8s7y65KHdQ-n41meor0VjA2tUC5MBnuEq2XopJCuVAEomg8Vf2E2d8XpPgzxUH-BzfeLola50uinH8f3Wnl8LZ64jWXDiQGarD4Oc00MPj351QlLOfxq4A65toCz7haaoeCBUFZJ5LpHo1K9JD0_pMtVkRRWQnqQDDjNtj7Y&theater)
 #### Feature: Stranded on the Sarost 5
@@ -49,7 +49,7 @@ According to the Turkish Coast Guard, rescue operations were conducted overnight
 Turkish State news agencies have wasted no time in smearing two of the dead as people smugglers, and the rest of them as members of the banned Gulen sect\. Apparently in Erdogan’s Turkey, even an infant is capable of being a political enemy\.
 
 
-![One of the victims of today’s wreck is transported in Turkey\. Photo Credit: Aegean Boat Report](assets/38ed61ca60c6/1*09ofPaU8uxp87WvVfjlnmQ.jpeg)
+![One of the victims of today’s wreck is transported in Turkey\. Photo Credit: Aegean Boat Report](../assets/38ed61ca60c6/1*09ofPaU8uxp87WvVfjlnmQ.jpeg)
 
 One of the victims of today’s wreck is transported in Turkey\. Photo Credit: Aegean Boat Report
 ### Sea
@@ -74,7 +74,7 @@ A boat was picked up by HCG outside Lesvos south this morning around 04\.30\. Th
 A boat arrived on Samos this morning carrying 45 people — 5 children, 17 women and 23 men\.
 
 
-![Photo Credit: Aegean Boat Report](assets/38ed61ca60c6/1*ltEJaPp-_cdT3fLBtsMmRQ.jpeg)
+![Photo Credit: Aegean Boat Report](../assets/38ed61ca60c6/1*ltEJaPp-_cdT3fLBtsMmRQ.jpeg)
 
 Photo Credit: Aegean Boat Report
 

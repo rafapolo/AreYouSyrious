@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [denmark,refugees,digest,syria,immigration]
 description: Are You Syrious?
 image:
-  path: assets/2b9d1f0ebfca/0*gDWQwSYbUS_ARBP_
+  path: ../assets/2b9d1f0ebfca/0*gDWQwSYbUS_ARBP_
 ---
 
 ### AYS Daily Digest 05/04/21 “What have I done wrong?” Denmark revokes 94 Syrian’s asylum statuses and residency permits
 
 
-![](assets/2b9d1f0ebfca/0*pMIh8QfJ21pezngU.jpeg)
+![](../assets/2b9d1f0ebfca/0*pMIh8QfJ21pezngU.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----4cd5a637588f--------------------------------)
@@ -23,11 +23,11 @@ image:
 _Maltese Prime Minister to go to Libya // pushbacks in Greece // 270 people finally arrive in Lampedusa // deportations scheduled from Germany to Afghanistan // and more…_
 
 
-![](assets/2b9d1f0ebfca/0*7o_yOVqcqBRRAnKr)
+![](../assets/2b9d1f0ebfca/0*7o_yOVqcqBRRAnKr)
 
 
 
-![](assets/2b9d1f0ebfca/0*HM0-h9MK0yHfGmVE)
+![](../assets/2b9d1f0ebfca/0*HM0-h9MK0yHfGmVE)
 
 ### FEATURE: The people behind Denmark’s revocation of asylum statuses and residency permits for 94 Syrians
 
@@ -83,11 +83,11 @@ If any Syrians are deported back to the danger from which they rightfully fled, 
 TURKEY
 
 
-![](assets/2b9d1f0ebfca/0*dRyHKVnY-ha2wKPI)
+![](../assets/2b9d1f0ebfca/0*dRyHKVnY-ha2wKPI)
 
 
 
-![](assets/2b9d1f0ebfca/0*6ERAnQsCt97L1tjo)
+![](../assets/2b9d1f0ebfca/0*6ERAnQsCt97L1tjo)
 
 
 MALTA\-SEA\-LIBYA
@@ -121,11 +121,11 @@ GREECE
 On Monday, a fire broke out in what was at the time a calm area, in the Vial camp in Chios\. A total of 15 tents were completely destroyed and four were damaged\. There is still no understanding of how the fire broke out\. Thankfully, no serious injuries were reported\. More [here](https://astraparis.gr/kaikan-apo-fotia-exi-skines-stin-vial/?fbclid=IwAR0jEFFOAqH-7yRnPeUaHbQ8dqvDMgwyVq2tmeCkoYhilE83qYkG9URcp4o) \.
 
 
-![](assets/2b9d1f0ebfca/0*ZYk9AjJwgU_ZBQau)
+![](../assets/2b9d1f0ebfca/0*ZYk9AjJwgU_ZBQau)
 
 
 
-![](assets/2b9d1f0ebfca/0*ye_Pz9qxCUoJSLzh)
+![](../assets/2b9d1f0ebfca/0*ye_Pz9qxCUoJSLzh)
 
 
 200 people pushed back from Lesvos on April 2nd
@@ -160,11 +160,11 @@ According to a law passed by the new government, those leaving Greece before the
 The numbers suggest that Greece did offer protection to the majority of Turkish asylum seekers who applied after the coup\. The 2020 numbers likely underrepresent the actual recognition rate for Turkish nationals\.”
 
 
-![](assets/2b9d1f0ebfca/0*k52s_-7trz32fbpS)
+![](../assets/2b9d1f0ebfca/0*k52s_-7trz32fbpS)
 
 
 
-![](assets/2b9d1f0ebfca/0*HBJuC14s441Fk1Ni)
+![](../assets/2b9d1f0ebfca/0*HBJuC14s441Fk1Ni)
 
 
 SPAIN
@@ -186,35 +186,35 @@ Since the collective deportations to Afghanistan began in December 2016, a total
 FRANCE
 
 
-![](assets/2b9d1f0ebfca/0*PE6poRcNmaW1LtBB)
+![](../assets/2b9d1f0ebfca/0*PE6poRcNmaW1LtBB)
 
 
 
-![](assets/2b9d1f0ebfca/0*I8neShc3NJ6Kr9Z5)
+![](../assets/2b9d1f0ebfca/0*I8neShc3NJ6Kr9Z5)
 
 
 
-![](assets/2b9d1f0ebfca/0*vrL2O0vfVfe70P5a)
+![](../assets/2b9d1f0ebfca/0*vrL2O0vfVfe70P5a)
 
 
 
-![](assets/2b9d1f0ebfca/0*9q_NO_lAnDAgkiCK.jpeg)
+![](../assets/2b9d1f0ebfca/0*9q_NO_lAnDAgkiCK.jpeg)
 
 
 
-![](assets/2b9d1f0ebfca/0*4epTAoUvC7ApVdsw)
+![](../assets/2b9d1f0ebfca/0*4epTAoUvC7ApVdsw)
 
 
 
-![](assets/2b9d1f0ebfca/0*Ti4JMPD9iNp4IQfl.jpeg)
+![](../assets/2b9d1f0ebfca/0*Ti4JMPD9iNp4IQfl.jpeg)
 
 
 
-![](assets/2b9d1f0ebfca/0*DEL5U3Adtn3flplf)
+![](../assets/2b9d1f0ebfca/0*DEL5U3Adtn3flplf)
 
 
 
-![](assets/2b9d1f0ebfca/0*wVSSw0RclC0TPxLO.jpeg)
+![](../assets/2b9d1f0ebfca/0*wVSSw0RclC0TPxLO.jpeg)
 
 
 “Eight activists and collective officials are summoned by police for alleged ‘violence and degradation during the H Hôteltel\-Dieu occupation protest’”
@@ -229,11 +229,11 @@ NB: Since March 31th, some people housed following actions, including families, 
 UK
 
 
-![](assets/2b9d1f0ebfca/0*2fUcGdVHjF0GWUJ0)
+![](../assets/2b9d1f0ebfca/0*2fUcGdVHjF0GWUJ0)
 
 
 
-![](assets/2b9d1f0ebfca/0*gDWQwSYbUS_ARBP_)
+![](../assets/2b9d1f0ebfca/0*gDWQwSYbUS_ARBP_)
 
 
 UK WORTH READING: Info Migrants have just published a feature on the new group **“‘Channel Rescue,’ the citizen patrol on the lookout for migrants arriving along the English coast\.”** You can check it out [here](https://www.infomigrants.net/en/post/31225/channel-rescue-the-citizen-patrol-on-the-lookout-for-migrants-arriving-along-the-english-coast?fbclid=IwAR0sZHXLKRCDJFuQCt_4bk9d4eal8LHdPcANNJbAT99dAZDvyHzXboPNe14) \.

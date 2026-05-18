@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,sea-watch,salvini,samos]
 description: more than 10,000 people intercepted at sea by Turkish coast guard /// Sea Watch refuses to bring people back to Libya /// Plans for a new…
 image:
-  path: assets/c96712ac35a8/1*Bw_boS0fD_oCJMfJrMy3CA.jpeg
+  path: ../assets/c96712ac35a8/1*Bw_boS0fD_oCJMfJrMy3CA.jpeg
 ---
 
 ### AYS Daily Digest 13/6/2019 — Greece violated basic rights of 5 minors
@@ -15,7 +15,7 @@ image:
 More than 10,000 people intercepted at sea by Turkish coast guard /// Sea Watch refuses to bring people back to Libya /// Plans for a new camp on Samos revealed /// After 14 days, 75 people are still refused disembarkation in Tunisia /// Reception center in Bologna closed by authorities /// 15 people rescued and brought back to France on the Channel…
 
 
-![Rome — launch of the \#IOACCOLGO campaign](assets/c96712ac35a8/1*Bw_boS0fD_oCJMfJrMy3CA.jpeg)
+![Rome — launch of the \#IOACCOLGO campaign](../assets/c96712ac35a8/1*Bw_boS0fD_oCJMfJrMy3CA.jpeg)
 
 Rome — launch of the \#IOACCOLGO campaign
 #### FEATURE STORY — GREECE FOUND TO HAVE VIOLATED BASIC RIGHTS OF FIVE MINORS
@@ -110,7 +110,7 @@ Aegean Boat Report informs that seven boats arrived between Wednesday night and 
 Aegean Boat Report also [informs](https://www.facebook.com/AegeanBoatReport/posts/592544184602023) that plans for the construction of a new camp on Samos island are ready\. It will be situated in Zervou, in an area that is far from any town, service, or store\. The plans reveal already a number of issues, mainly the fact that its max capacity \(1,400 people\) is less than half of today’s asylum seeker population on the island\.
 
 
-![Location where the new camp will be built \(Image from [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport) \) \.](assets/c96712ac35a8/1*cqFPnYUcSvjc_HlaWpgNlw.jpeg)
+![Location where the new camp will be built \(Image from [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport) \) \.](../assets/c96712ac35a8/1*cqFPnYUcSvjc_HlaWpgNlw.jpeg)
 
 Location where the new camp will be built \(Image from [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport) \) \.
 
@@ -158,7 +158,7 @@ Infomigrants [published](https://twitter.com/InfoMigrants/status/113916437331285
 #### HUB IN BOLOGNA CLOSED BY AUTHORITIES
 
 
-![Hub of Via Mattei — 169 people, 35 workers — No deportations, No firings \(Foto by Radio città Fujiko\)](assets/c96712ac35a8/1*o1g9-Qmwe-dN1ZLvtRAb3Q.jpeg)
+![Hub of Via Mattei — 169 people, 35 workers — No deportations, No firings \(Foto by Radio città Fujiko\)](../assets/c96712ac35a8/1*o1g9-Qmwe-dN1ZLvtRAb3Q.jpeg)
 
 Hub of Via Mattei — 169 people, 35 workers — No deportations, No firings \(Foto by Radio città Fujiko\)
 

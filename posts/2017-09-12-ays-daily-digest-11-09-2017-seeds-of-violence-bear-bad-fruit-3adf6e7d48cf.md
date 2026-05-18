@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 11/09/2017: Seeds of violence bear bad fruit…
+title: "AYS DAILY DIGEST 11/09/2017: Seeds of violence bear bad fruit…"
 author: Are You Syrious?
 date: 2017-09-12T04:05:26.534+0100
 last_modified_at: 2017-09-12T04:05:54.185+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees]
 description: UN commissioner on human rights speaks out about violence against refugees, but where does action start and where do words end? // Violence…
 image:
-  path: assets/3adf6e7d48cf/1*-YViic05XdSiVQMppYHpEw.jpeg
+  path: ../assets/3adf6e7d48cf/1*-YViic05XdSiVQMppYHpEw.jpeg
 ---
 
 ### AYS DAILY DIGEST 11/09/2017: Seeds of violence bear bad fruit…
@@ -15,7 +15,7 @@ image:
 _UN commissioner on human rights speaks out about violence against refugees, but where does action start and where do words end? // Violence on Chios as 350 police storm the camp // Protests on Samos about squalid living conditions // Increase in passage from Macedonia to Serbia // Refugees and migrants trapped in a cycle of violence in Libya // Xenophobic misinformation in Italy // More police presence and monitoring in France // Police descend and arrest refugees waiting in line for food\._
 
 
-![Photo Credit: We Are Here](assets/3adf6e7d48cf/1*-YViic05XdSiVQMppYHpEw.jpeg)
+![Photo Credit: We Are Here](../assets/3adf6e7d48cf/1*-YViic05XdSiVQMppYHpEw.jpeg)
 
 Photo Credit: We Are Here
 ### FEATURE: The banal bureaucracy of violence against refugees
@@ -41,7 +41,7 @@ May our spines tingle cold and our faces redden with shame at how history will l
 More than ten days ago near Izmir\. A bus carrying Iraqi and Syrian refugees overturned\. The refugees were heading to the starting point at the Aegean Sea to set out to the Greek islands\. The bus driver was under the influence of alcohol and the bus, then, collided with an electrical pole, resulting in the death of a Kurdish woman and injuring most passengers with fractures and serious injuries\.
 
 
-![Helpful guide on preventing hypothermia by United Rescue Aid](assets/3adf6e7d48cf/1*3gRnM9Pl2aeVI6-GdrNhBg.jpeg)
+![Helpful guide on preventing hypothermia by United Rescue Aid](../assets/3adf6e7d48cf/1*3gRnM9Pl2aeVI6-GdrNhBg.jpeg)
 
 Helpful guide on preventing hypothermia by United Rescue Aid
 ### GREECE
@@ -70,11 +70,11 @@ In an unsettling follow up to the police actions on Saturday on Lesvos, there wa
 According to Enough is Enough, 350 police officers stormed the camp\.
 
 
-![](assets/3adf6e7d48cf/1*_wef6vi6aCbNWnd7-01jIA.jpeg)
+![](../assets/3adf6e7d48cf/1*_wef6vi6aCbNWnd7-01jIA.jpeg)
 
 
 
-![](assets/3adf6e7d48cf/1*PHmaxgIcR-Aq9e3zyIZppA.jpeg)
+![](../assets/3adf6e7d48cf/1*PHmaxgIcR-Aq9e3zyIZppA.jpeg)
 
 
 Video and photo credits: [**Mohammed R Azawi**](https://www.facebook.com/mou.vatushy?hc_ref=ARSwm_qv_8ljqlRtAkZX566Ay2GMRf5C4r8GU914hdma-HX4EPRydByCHC7ffd24hQY)
@@ -223,7 +223,7 @@ _\-Foil/Emergency Blankets\. \( by the thousands \)_
 There were over thirty arrests of people in Belgium this morning in a coordinated police operation\. As is common, the police came in the early morning, first around five to a common sleeping location\. The arrests also continued at 7, even after volunteers attempted to wake people up to warn them about the possibility\. Many items were left behind, some of them recovered\. One man was hit by a car in his successful evasion of police\. The most shameful chapter of the story comes as volunteers report that police, unsatisfied with the number of arrested, targeted a food distribution line outside of an NGO office\.
 
 
-![Photo credit: [**Plateforme citoyenne de soutien aux réfugiés Bruxelles**](https://www.facebook.com/plateformerefugiesbxl/?ref=gs&hc_ref=ARTMG08JU0ENiB-mcq54QU3_H1l0u6IlqSUH9td5-l8kiSQeNj-eOWZwg5-j2MZBc_Q&fref=gs&hc_location=group)](assets/3adf6e7d48cf/1*5ZAbSWoBuqohksw-OmYA6g.jpeg)
+![Photo credit: [**Plateforme citoyenne de soutien aux réfugiés Bruxelles**](https://www.facebook.com/plateformerefugiesbxl/?ref=gs&hc_ref=ARTMG08JU0ENiB-mcq54QU3_H1l0u6IlqSUH9td5-l8kiSQeNj-eOWZwg5-j2MZBc_Q&fref=gs&hc_location=group)](../assets/3adf6e7d48cf/1*5ZAbSWoBuqohksw-OmYA6g.jpeg)
 
 Photo credit: [**Plateforme citoyenne de soutien aux réfugiés Bruxelles**](https://www.facebook.com/plateformerefugiesbxl/?ref=gs&hc_ref=ARTMG08JU0ENiB-mcq54QU3_H1l0u6IlqSUH9td5-l8kiSQeNj-eOWZwg5-j2MZBc_Q&fref=gs&hc_location=group)
 

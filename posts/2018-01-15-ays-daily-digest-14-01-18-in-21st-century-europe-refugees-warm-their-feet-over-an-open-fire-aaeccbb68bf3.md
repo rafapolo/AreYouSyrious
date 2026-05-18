@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 14.01.18: In 21st century Europe, refugees warm their feet over an open fire
+title: "AYS Daily Digest 14.01.18: In 21st century Europe, refugees warm their feet over an open fire"
 author: Are You Syrious?
 date: 2018-01-15T10:14:45.764+0000
 last_modified_at: 2018-01-15T11:57:10.975+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,greece,samos,italy,volunteers]
 description: Story about friendship and people with open hearts from one Italian town // Help needed for vulnerable man in Paris // Case against Italy…
 image:
-  path: assets/aaeccbb68bf3/1*RePjTRhIVJDYT7JlnNR6Sw.jpeg
+  path: ../assets/aaeccbb68bf3/1*RePjTRhIVJDYT7JlnNR6Sw.jpeg
 ---
 
 ### AYS Daily Digest 14\.01\.18: In 21st century Europe, refugees warm their feet over an open fire
@@ -15,7 +15,7 @@ image:
 _Story about friendship and people with open hearts from one Italian town // Help needed for vulnerable man in Paris // Case against Italy at the European Court of Human Rights // And more from Greece, Italy, France…_
 
 
-![“When borders will no longer exist, one will not die crossing them\.” Photo Credit:](assets/aaeccbb68bf3/1*RePjTRhIVJDYT7JlnNR6Sw.jpeg)
+![“When borders will no longer exist, one will not die crossing them\.” Photo Credit:](../assets/aaeccbb68bf3/1*RePjTRhIVJDYT7JlnNR6Sw.jpeg)
 
 “When borders will no longer exist, one will not die crossing them\.” Photo Credit:
 ### Feature
@@ -41,7 +41,7 @@ We received more photos from camp at Samos showing dreadful living conditions fo
 ### Refugees warm their feet over fires
 
 
-![](assets/aaeccbb68bf3/1*iegdMfH-KZL2D-GowoWC5g.jpeg)
+![](../assets/aaeccbb68bf3/1*iegdMfH-KZL2D-GowoWC5g.jpeg)
 
 
 In the midst of this brutal winter, many people are left outside in the cold\. The situation is so severe that the Refugee Biryani & Bananas Facebook group posted a picture of refugees huddled around a fire, bare feet hovering over it to keep warm\. This is the reality for thousands of people in Europe\.
@@ -62,7 +62,7 @@ France and Britain are currently in the midst of negotiations to decide on the f
 France demands that Britain shoulder more of the burden of border defense costs, as well as to take in larger numbers of refugees\. If the two sides cannot reach an agreement, then they will have to reinstate borders on either side of the English Channel, a move that neither party wishes to pursue\.
 
 
-![Paris\. By Danika Jurisic\.](assets/aaeccbb68bf3/1*IINtGehBhgFJEqgXa7nFvA.jpeg)
+![Paris\. By Danika Jurisic\.](../assets/aaeccbb68bf3/1*IINtGehBhgFJEqgXa7nFvA.jpeg)
 
 Paris\. By Danika Jurisic\.
 ### Refugee with broken back in need of help
@@ -78,7 +78,7 @@ Donations of clothing and hygiene products are also needed, as well as basic med
 ### Care4Calais releases new list of needed items
 
 
-![](assets/aaeccbb68bf3/1*uTAYdUIMr6Gt_pqP64QEZA.jpeg)
+![](../assets/aaeccbb68bf3/1*uTAYdUIMr6Gt_pqP64QEZA.jpeg)
 
 ### Italy
 #### Children waiting relocation
@@ -97,7 +97,7 @@ Good news come from the side of the volunteering tutors foreseen by Law Zampa\. 
 ### Wheelchair\-bound refugee harassed by center supervisor
 
 
-![](assets/aaeccbb68bf3/1*5DXcNhP6qjaADEH1OqaR2A.png)
+![](../assets/aaeccbb68bf3/1*5DXcNhP6qjaADEH1OqaR2A.png)
 
 
 [Carovane Migranti](https://www.facebook.com/carovanemigranti/posts/1196096413867353) group publihsed an story about a boy in a wheelchair who has been yanked by the supervisor of the centre where he stays, Santa Maria La Morra\.
@@ -130,7 +130,7 @@ Hundreds of people have marched toward the border of the Montgenèvre with the a
 “These borders kill and try to break the future of those who are forced to abandon their land\. We are not going to watch, things to do remain a lot and we are only at the beginning, but we are and will be more and more to shout Briser Les Frontières\!”
 
 
-![Photo by Briser Les Frontières](assets/aaeccbb68bf3/1*Ge64Sgg46XotqyoliVRy-A.jpeg)
+![Photo by Briser Les Frontières](../assets/aaeccbb68bf3/1*Ge64Sgg46XotqyoliVRy-A.jpeg)
 
 Photo by Briser Les Frontières
 #### Mediterranean
@@ -139,7 +139,7 @@ Photo by Briser Les Frontières
 The Arcturus Salvamar crew located and rescued 4 people stranded in the Mediterranean\. They have been rescued and taken to Tarifa\.
 
 
-![](assets/aaeccbb68bf3/1*Ea13A9pd_q-Z0VjObMBvdw.jpeg)
+![](../assets/aaeccbb68bf3/1*Ea13A9pd_q-Z0VjObMBvdw.jpeg)
 
 
 

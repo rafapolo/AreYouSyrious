@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest: 06.06.2018: The Rule of Lawlessness
+title: "AYS Daily Digest: 06.06.2018: The Rule of Lawlessness"
 author: Are You Syrious?
 date: 2018-06-07T09:40:15.872+0100
 last_modified_at: 2018-06-07T22:12:17.296+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,greece,germany,deportations,afghanistan]
 description: Hundreds rescued in the Mediterranean // Updates on violence and the continually deteriorating situation for refugees in Greece // Head of…
 image:
-  path: assets/3f0fd9e18717/1*2SmsZZwYYoItAkcD3NOnFA.jpeg
+  path: ../assets/3f0fd9e18717/1*2SmsZZwYYoItAkcD3NOnFA.jpeg
 ---
 
 ### AYS Daily Digest: 06\.06\.2018: The Rule of Lawlessness
@@ -15,7 +15,7 @@ image:
 _Hundreds rescued in the Mediterranean // Updates on violence and the continually deteriorating situation for refugees in Greece // Head of EASO resigns amid accusations of bullying and psychological abuse // Trial for Harmanli 21 postponed, supporters kicked out of the courtroom // People injured attempting to cross deadly Spanish fence // Belgian minister wishes to bypass rules on torture to collaborate with Tunisia // Racist violence tips over 4000 in 2017, Merkel says deportations to Afghanistan can resume // Deportations don’t stop in Finland and Sweden // More…_
 
 
-![“Where do we go from here” Credit: Pete Kreiner, via Art Against](assets/3f0fd9e18717/1*2SmsZZwYYoItAkcD3NOnFA.jpeg)
+![“Where do we go from here” Credit: Pete Kreiner, via Art Against](../assets/3f0fd9e18717/1*2SmsZZwYYoItAkcD3NOnFA.jpeg)
 
 “Where do we go from here” Credit: Pete Kreiner, via Art Against
 ### SEA
@@ -137,7 +137,7 @@ Attacks on refugee´s accommodation: 412
 They also provide a mapping of these attacks
 
 
-![Photo credit: Beyond Europe\.](assets/3f0fd9e18717/1*IsZHLMOhSPFt2wPMdx443g.png)
+![Photo credit: Beyond Europe\.](../assets/3f0fd9e18717/1*IsZHLMOhSPFt2wPMdx443g.png)
 
 Photo credit: Beyond Europe\.
 ### SWEDEN

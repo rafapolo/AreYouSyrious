@@ -5,9 +5,9 @@ date: 2021-08-28T10:26:28.434+0100
 last_modified_at: 2021-08-29T11:51:33.220+0100
 categories: Are You Syrious?
 tags: [digest,afghanistan,deportations,refugees,europe]
-description: GREECE: New deportation law tabled. UK: Priti Patel asks Afghans to wait for safe routes while government stops registrations for…
+description: "GREECE: New deportation law tabled. UK: Priti Patel asks Afghans to wait for safe routes while government stops registrations for…"
 image:
-  path: assets/897b084781f4/1*7knzDIJIG8XiQMutyc-Xtw.jpeg
+  path: ../assets/897b084781f4/1*7knzDIJIG8XiQMutyc-Xtw.jpeg
 ---
 
 ### AYS Digest 27/8/21 Afghanistan, “Remember this: an oppressed journalist committed to democracy could not be saved”
@@ -15,7 +15,7 @@ image:
 GREECE: New deportation law tabled\. UK: Priti Patel asks Afghans to wait for safe routes while government stops registrations for evacuation\. DENMARK: Refugee board could overturn rejections for Afghans\.
 
 
-![“6 km of fencing has already been built on the Polish\-Belarusian border\. The fence is made of razor wire and is 2\.5 m high\. There are three\-layer entanglements under the fence\.” While 32 people have been stuck for more than 2 weeks in the no\-man’s\-land between the two countries, Europe once more shows its unwelcoming face\. \(Credit: [Mariusz Blaszczak](https://twitter.com/mblaszczak/status/1431254785160851457) \)](assets/897b084781f4/1*7knzDIJIG8XiQMutyc-Xtw.jpeg)
+![“6 km of fencing has already been built on the Polish\-Belarusian border\. The fence is made of razor wire and is 2\.5 m high\. There are three\-layer entanglements under the fence\.” While 32 people have been stuck for more than 2 weeks in the no\-man’s\-land between the two countries, Europe once more shows its unwelcoming face\. \(Credit: [Mariusz Blaszczak](https://twitter.com/mblaszczak/status/1431254785160851457) \)](../assets/897b084781f4/1*7knzDIJIG8XiQMutyc-Xtw.jpeg)
 
 “6 km of fencing has already been built on the Polish\-Belarusian border\. The fence is made of razor wire and is 2\.5 m high\. There are three\-layer entanglements under the fence\.” While 32 people have been stuck for more than 2 weeks in the no\-man’s\-land between the two countries, Europe once more shows its unwelcoming face\. \(Credit: [Mariusz Blaszczak](https://twitter.com/mblaszczak/status/1431254785160851457) \)
 #### FEATURED: “Remember this: an oppressed journalist committed to democracy could not be saved”
@@ -157,7 +157,7 @@ GERMANY
 #### Fears of anti\-migration backlash in run up to elections
 
 
-![\(Photo Credit: Anas Modmani via [InfoMigrants](https://www.infomigrants.net/en/post/34624/germany-fears-afghan-crisis-could-fuel-antimigrant-vote?fbclid=IwAR2-R1nlrBwmlCiGNOUJf3ywm5NXWSygq7tgp5-sPCv2LVxu-TuY1m26cag) \. Merkel poses with new arrivals in 2015\)](assets/897b084781f4/1*bfhptbqcgYWCHDImfGbdAQ.jpeg)
+![\(Photo Credit: Anas Modmani via [InfoMigrants](https://www.infomigrants.net/en/post/34624/germany-fears-afghan-crisis-could-fuel-antimigrant-vote?fbclid=IwAR2-R1nlrBwmlCiGNOUJf3ywm5NXWSygq7tgp5-sPCv2LVxu-TuY1m26cag) \. Merkel poses with new arrivals in 2015\)](../assets/897b084781f4/1*bfhptbqcgYWCHDImfGbdAQ.jpeg)
 
 \(Photo Credit: Anas Modmani via [InfoMigrants](https://www.infomigrants.net/en/post/34624/germany-fears-afghan-crisis-could-fuel-antimigrant-vote?fbclid=IwAR2-R1nlrBwmlCiGNOUJf3ywm5NXWSygq7tgp5-sPCv2LVxu-TuY1m26cag) \. Merkel poses with new arrivals in 2015\)
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 07/03/17: Europe at it’s best — new laws, more suffering
+title: "AYS Daily Digest 07/03/17: Europe at it’s best — new laws, more suffering"
 author: Are You Syrious?
 date: 2017-03-07T21:02:01.927+0000
 last_modified_at: 2017-03-08T08:15:17.835+0000
@@ -7,13 +7,13 @@ categories:
 tags: [europe,refugees,hungary,human-rights,france]
 description: Hungary passed a law saying that all asylum seekers are to be detained indefinitely while waiting for their status to be resolved /…
 image:
-  path: assets/40a04014d7a5/1*EDIhUx6GZAvO6g2sAqvvUw.jpeg
+  path: ../assets/40a04014d7a5/1*EDIhUx6GZAvO6g2sAqvvUw.jpeg
 ---
 
 ### AYS Daily Digest 07/03/17: Europe at it’s best — new laws, more suffering
 
 
-![Photo taken from MSF on Sea Twitter account](assets/40a04014d7a5/1*EDIhUx6GZAvO6g2sAqvvUw.jpeg)
+![Photo taken from MSF on Sea Twitter account](../assets/40a04014d7a5/1*EDIhUx6GZAvO6g2sAqvvUw.jpeg)
 
 Photo taken from MSF on Sea Twitter account
 
@@ -93,7 +93,7 @@ Good luck to Delia and all of her guests\.
 Another family from Afghanistan, Uzbek minority, has been deported from Austria \(Leibniz\) to Croatia \(Zagreb\) through theDublin III procedure despite the intervention of lawyers and supporters\. The family \(two sons, 14 and 19\) arrived in November 2015 and was well integrated in Leibniz\. The elder son recently won a kickboxing tournament and became Austrian champion in his weight class\. There is a petition on Change\.org which achieved 500 signatures in 6hrs\. Citizens of Leibniz have been protesting against the deportation on Sunday\. Austrian media have picked up the case as well\.
 
 
-![Protest against deportation\. Photo: Border crossing Spielfeld](assets/40a04014d7a5/1*GYW22T86mELibgD9b6YZcw.jpeg)
+![Protest against deportation\. Photo: Border crossing Spielfeld](../assets/40a04014d7a5/1*GYW22T86mELibgD9b6YZcw.jpeg)
 
 Protest against deportation\. Photo: Border crossing Spielfeld
 #### France
@@ -115,7 +115,7 @@ Until then they continue with their one hour of French per week, taught by the v
 Government will not impose movement limits to people fleeing from war\. In Portugal we don’t have refugee camps and never will have, said deputy minister Eduardo Cabrita\.
 
 
-![Lisbon](assets/40a04014d7a5/1*RgtZy7-y9gWxol7qDiy9WQ.jpeg)
+![Lisbon](../assets/40a04014d7a5/1*RgtZy7-y9gWxol7qDiy9WQ.jpeg)
 
 Lisbon
 

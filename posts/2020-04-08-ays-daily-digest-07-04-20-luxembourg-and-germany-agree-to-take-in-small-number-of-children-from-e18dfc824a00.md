@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [covid-19,digest,refugees,greece,france]
 description: 80 people still stranded at sea because of Italy and Malta // blackout in Libya // hunger strike in Moria // police brutality in Croatia…
 image:
-  path: assets/e18dfc824a00/1*8h8LvnagaAhZq9PJjvDsfQ.jpeg
+  path: ../assets/e18dfc824a00/1*8h8LvnagaAhZq9PJjvDsfQ.jpeg
 ---
 
 ### AYS Daily Digest 07/04/20 Luxembourg and Germany agree to take in small number of children from Greece
@@ -15,7 +15,7 @@ image:
 _80 people still stranded at sea because of Italy and Malta // blackout in Libya // hunger strike in Moria // police brutality in Croatia // helpful resources you can use to support refugees during COVID\-19 // and more…_
 
 
-![“Keep distance\! Wash your hands\! This is what the posters say how to behave in Corona times\. This is our reality at the few stations where you have water\. How should we follow what the posters say?” Photo by [MCAT/ Aman Hussaini](https://www.facebook.com/MoriaCoronaAwarenessTeam/?eid=ARC1eKtIEpcD26YQ9OevfVZpRJe_zbE_B-9YvWXY3-rc7WA2GBgOklSbuUeSniide7q67SytVNmQ3k2n)](assets/e18dfc824a00/1*8h8LvnagaAhZq9PJjvDsfQ.jpeg)
+![“Keep distance\! Wash your hands\! This is what the posters say how to behave in Corona times\. This is our reality at the few stations where you have water\. How should we follow what the posters say?” Photo by [MCAT/ Aman Hussaini](https://www.facebook.com/MoriaCoronaAwarenessTeam/?eid=ARC1eKtIEpcD26YQ9OevfVZpRJe_zbE_B-9YvWXY3-rc7WA2GBgOklSbuUeSniide7q67SytVNmQ3k2n)](../assets/e18dfc824a00/1*8h8LvnagaAhZq9PJjvDsfQ.jpeg)
 
 “Keep distance\! Wash your hands\! This is what the posters say how to behave in Corona times\. This is our reality at the few stations where you have water\. How should we follow what the posters say?” Photo by [MCAT/ Aman Hussaini](https://www.facebook.com/MoriaCoronaAwarenessTeam/?eid=ARC1eKtIEpcD26YQ9OevfVZpRJe_zbE_B-9YvWXY3-rc7WA2GBgOklSbuUeSniide7q67SytVNmQ3k2n)
 ### FEATURE Luxembourg and Germany are finally going to take in some children suffering in Greece’s island camps\.
@@ -37,7 +37,7 @@ Luxembourg is the first country escort any these children; their 12 being on Les
 #### LIBYA
 
 
-![“Western and Southern Libya are in a power blackout, and Tripoli’s water supply has been cut off since yesterday\. It’s not easy to social distance in a war zone\.” By [Andrea Gagne](https://www.facebook.com/andrea.gagne?__tn__=%2Cd*F*F-R&eid=ARAJ43kSjZ8fC3RO3XZ3Xh2FW0o9HTvAauqp9U9dhB7b253f8P2yaVmDIjU8CJJwOqasy7RJvgfDBZvc&tn-str=*F)](assets/e18dfc824a00/1*iuFUglvurQB92guTjkU0ZA.jpeg)
+![“Western and Southern Libya are in a power blackout, and Tripoli’s water supply has been cut off since yesterday\. It’s not easy to social distance in a war zone\.” By [Andrea Gagne](https://www.facebook.com/andrea.gagne?__tn__=%2Cd*F*F-R&eid=ARAJ43kSjZ8fC3RO3XZ3Xh2FW0o9HTvAauqp9U9dhB7b253f8P2yaVmDIjU8CJJwOqasy7RJvgfDBZvc&tn-str=*F)](../assets/e18dfc824a00/1*iuFUglvurQB92guTjkU0ZA.jpeg)
 
 “Western and Southern Libya are in a power blackout, and Tripoli’s water supply has been cut off since yesterday\. It’s not easy to social distance in a war zone\.” By [Andrea Gagne](https://www.facebook.com/andrea.gagne?__tn__=%2Cd*F*F-R&eid=ARAJ43kSjZ8fC3RO3XZ3Xh2FW0o9HTvAauqp9U9dhB7b253f8P2yaVmDIjU8CJJwOqasy7RJvgfDBZvc&tn-str=*F)
 #### SEA
@@ -59,7 +59,7 @@ Luxembourg is the first country escort any these children; their 12 being on Les
 Alarm Phone warns of Malta’s mishandling of their COVID\-19 response:
 
 
-![“ **In recent months we have seen how Malta repeatedly failed to carry out Search and Rescue activities in adequate and lawful ways\.** We experienced how the Armed Forces of Malta risked people’s lives by delaying rescues and how they collaborated with Libyan authorities to intercept boats within Malta SAR\. We fear that the approx\. 80 people who are still at sea — now for over 40 hours — will also have to endure unnecessarily long in acute distress or that they are at risk of being illegally returned to the hell of Libya\. They have been spotted by a European asset from the air\. We call on authorities in Malta and the EU: rescue the ~80 people without further delay\! Do not return them to the Libyan warzone\! Do not breach maritime law, international law, and human rights conventions\! Do not use the [\#Covid19](https://www.facebook.com/hashtag/covid19?epa=HASHTAG) pandemic as an excuse to violate human rights\!” Photo by [AlarmPhone](https://www.facebook.com/watchthemed.alarmphone/photos/a.1526182797655958/2630422740565286/?type=3&theater)](assets/e18dfc824a00/1*pl7ak-Q_uTbaI0u3TjXi6w.png)
+![“ **In recent months we have seen how Malta repeatedly failed to carry out Search and Rescue activities in adequate and lawful ways\.** We experienced how the Armed Forces of Malta risked people’s lives by delaying rescues and how they collaborated with Libyan authorities to intercept boats within Malta SAR\. We fear that the approx\. 80 people who are still at sea — now for over 40 hours — will also have to endure unnecessarily long in acute distress or that they are at risk of being illegally returned to the hell of Libya\. They have been spotted by a European asset from the air\. We call on authorities in Malta and the EU: rescue the ~80 people without further delay\! Do not return them to the Libyan warzone\! Do not breach maritime law, international law, and human rights conventions\! Do not use the [\#Covid19](https://www.facebook.com/hashtag/covid19?epa=HASHTAG) pandemic as an excuse to violate human rights\!” Photo by [AlarmPhone](https://www.facebook.com/watchthemed.alarmphone/photos/a.1526182797655958/2630422740565286/?type=3&theater)](../assets/e18dfc824a00/1*pl7ak-Q_uTbaI0u3TjXi6w.png)
 
 “ **In recent months we have seen how Malta repeatedly failed to carry out Search and Rescue activities in adequate and lawful ways\.** We experienced how the Armed Forces of Malta risked people’s lives by delaying rescues and how they collaborated with Libyan authorities to intercept boats within Malta SAR\. We fear that the approx\. 80 people who are still at sea — now for over 40 hours — will also have to endure unnecessarily long in acute distress or that they are at risk of being illegally returned to the hell of Libya\. They have been spotted by a European asset from the air\. We call on authorities in Malta and the EU: rescue the ~80 people without further delay\! Do not return them to the Libyan warzone\! Do not breach maritime law, international law, and human rights conventions\! Do not use the [\#Covid19](https://www.facebook.com/hashtag/covid19?epa=HASHTAG) pandemic as an excuse to violate human rights\!” Photo by [AlarmPhone](https://www.facebook.com/watchthemed.alarmphone/photos/a.1526182797655958/2630422740565286/?type=3&theater)
 ### On Monday, the rescue mission Alan Kurdi rescued 150 people\. On Tuesday, Malta and Italy refused to disembark the rescue ship due to COVID\-19 fears\.
@@ -75,7 +75,7 @@ To add to the severity of the situation, the Libyan Coast Guard fired shots in t
 #### GREECE → ISLANDS
 
 
-![Yes these pictures are of what you might be thinking…Greece is increasingly carrying out deportations to Turkey from the islands\. Photos by Ef\.Syn](assets/e18dfc824a00/1*bKG041rY-YFb-urRRgILpQ.jpeg)
+![Yes these pictures are of what you might be thinking…Greece is increasingly carrying out deportations to Turkey from the islands\. Photos by Ef\.Syn](../assets/e18dfc824a00/1*bKG041rY-YFb-urRRgILpQ.jpeg)
 
 Yes these pictures are of what you might be thinking…Greece is increasingly carrying out deportations to Turkey from the islands\. Photos by Ef\.Syn
 
@@ -92,7 +92,7 @@ More [here](https://www.efsyn.gr/ellada/koinonia/238226_epanaproothoyn-prosfyges
 **A statement from inside Moria** \( [where food lines](https://twitter.com/HIASGreece/status/1247607702466985987) are 2 hours long, people are afraid to get in the line for fear on contracting the virus; there is no running water; police are absent except to guard the gates, where they only let people out for medical emergencies; people testify that there has been increased violence since the lockdown; people have not received any updated information on asylum services…\):
 
 
-[![A Statement from inside Moria](assets/e18dfc824a00/62e3_hqdefault.jpg "A Statement from inside Moria")](https://www.youtube.com/watch?v=AyINqzZk5l0)
+[![A Statement from inside Moria](../assets/e18dfc824a00/62e3_hqdefault.jpg "A Statement from inside Moria")](https://www.youtube.com/watch?v=AyINqzZk5l0)
 
 ### 3rd day of hunger strike in Moria Prison
 
@@ -106,7 +106,7 @@ On April 5th, the prisoners in Moria’s pre\-removal detention centre went on s
 
 
 
-![Hunger Strike in Moria Photo by [No Border Kitchen Lesvos](https://www.facebook.com/NBKLesvos/photos/a.722870371186088/1700242016782247/?type=3&theater)](assets/e18dfc824a00/1*91c6xOm19ZSF7DnXsWQkpQ.jpeg)
+![Hunger Strike in Moria Photo by [No Border Kitchen Lesvos](https://www.facebook.com/NBKLesvos/photos/a.722870371186088/1700242016782247/?type=3&theater)](../assets/e18dfc824a00/1*91c6xOm19ZSF7DnXsWQkpQ.jpeg)
 
 Hunger Strike in Moria Photo by [No Border Kitchen Lesvos](https://www.facebook.com/NBKLesvos/photos/a.722870371186088/1700242016782247/?type=3&theater)
 
@@ -126,11 +126,11 @@ Hunger Strike in Moria Photo by [No Border Kitchen Lesvos](https://www.facebook.
 
 
 
-![](assets/e18dfc824a00/1*o3weLT_nRl5fCvKkPhuTKg.jpeg)
+![](../assets/e18dfc824a00/1*o3weLT_nRl5fCvKkPhuTKg.jpeg)
 
 
 
-![“Every night Team Humanity take preventive measures against COVID\-19 by disinfecting common areas within Moria camp \(water stations and bathrooms\) \. **Please help us to continue this effort\.** Support our COVID\-19 campaign to let the refugees know the world cares about their health and safety” [https://gogetfunding\.com/team\-humanity\-hope\-peace\-center/](https://gogetfunding.com/team-humanity-hope-peace-center/) Photos by [Salaam Aldeen](https://www.facebook.com/sk.aldeen.3/posts/1656490364509453?hc_location=ufi)](assets/e18dfc824a00/1*4hZBKWTls7nDpnUrTU8ZzA.jpeg)
+![“Every night Team Humanity take preventive measures against COVID\-19 by disinfecting common areas within Moria camp \(water stations and bathrooms\) \. **Please help us to continue this effort\.** Support our COVID\-19 campaign to let the refugees know the world cares about their health and safety” [https://gogetfunding\.com/team\-humanity\-hope\-peace\-center/](https://gogetfunding.com/team-humanity-hope-peace-center/) Photos by [Salaam Aldeen](https://www.facebook.com/sk.aldeen.3/posts/1656490364509453?hc_location=ufi)](../assets/e18dfc824a00/1*4hZBKWTls7nDpnUrTU8ZzA.jpeg)
 
 “Every night Team Humanity take preventive measures against COVID\-19 by disinfecting common areas within Moria camp \(water stations and bathrooms\) \. **Please help us to continue this effort\.** Support our COVID\-19 campaign to let the refugees know the world cares about their health and safety” [https://gogetfunding\.com/team\-humanity\-hope\-peace\-center/](https://gogetfunding.com/team-humanity-hope-peace-center/) Photos by [Salaam Aldeen](https://www.facebook.com/sk.aldeen.3/posts/1656490364509453?hc_location=ufi)
 
@@ -146,7 +146,7 @@ Hunger Strike in Moria Photo by [No Border Kitchen Lesvos](https://www.facebook.
 
 
 
-![“ **Please help us build an extra emergency food line and feed an additional 1,500 residents in a safe, hygienic and dignified way\.** The current foodline located inside the walls of Moria camp has become increasingly more chaotic due to the tensions of \#COVID19\. That’s why we recently decided to relieve some of the food line\-related pressures by introducing a new distribution point in our Olive Grove campUs\. And now, we want to double our impact by building an extra emergency food line in another zone, a project that will be designed, constructed and fronted by our resident volunteer team\! And this is where we need you to step in\. Please help us to make this plan a realisation\. We need your help to raise €2,000 for food line building materials in order to improve the lives of an additional 1,500 residents in a safer and more hygienic way\.” [Help Movement on the Ground here\.](https://www.facebook.com/movementontheground/posts/1672091099633862?hc_location=ufi)](assets/e18dfc824a00/1*yhhuMQfKrFBc9QYb2jwgnQ.jpeg)
+![“ **Please help us build an extra emergency food line and feed an additional 1,500 residents in a safe, hygienic and dignified way\.** The current foodline located inside the walls of Moria camp has become increasingly more chaotic due to the tensions of \#COVID19\. That’s why we recently decided to relieve some of the food line\-related pressures by introducing a new distribution point in our Olive Grove campUs\. And now, we want to double our impact by building an extra emergency food line in another zone, a project that will be designed, constructed and fronted by our resident volunteer team\! And this is where we need you to step in\. Please help us to make this plan a realisation\. We need your help to raise €2,000 for food line building materials in order to improve the lives of an additional 1,500 residents in a safer and more hygienic way\.” [Help Movement on the Ground here\.](https://www.facebook.com/movementontheground/posts/1672091099633862?hc_location=ufi)](../assets/e18dfc824a00/1*yhhuMQfKrFBc9QYb2jwgnQ.jpeg)
 
 “ **Please help us build an extra emergency food line and feed an additional 1,500 residents in a safe, hygienic and dignified way\.** The current foodline located inside the walls of Moria camp has become increasingly more chaotic due to the tensions of \#COVID19\. That’s why we recently decided to relieve some of the food line\-related pressures by introducing a new distribution point in our Olive Grove campUs\. And now, we want to double our impact by building an extra emergency food line in another zone, a project that will be designed, constructed and fronted by our resident volunteer team\! And this is where we need you to step in\. Please help us to make this plan a realisation\. We need your help to raise €2,000 for food line building materials in order to improve the lives of an additional 1,500 residents in a safer and more hygienic way\.” [Help Movement on the Ground here\.](https://www.facebook.com/movementontheground/posts/1672091099633862?hc_location=ufi)
 
@@ -183,19 +183,19 @@ In some new arrivals reports:
 
 
 
-![](assets/e18dfc824a00/1*a2nbURnQQI7vD8NXl9WWTQ.jpeg)
+![](../assets/e18dfc824a00/1*a2nbURnQQI7vD8NXl9WWTQ.jpeg)
 
 
 
 ![“We are happy to share this positive decision from the European Court of Human Rights, following our request for interim measures\!
-The Court obliges Greece to provide adequate healthcare and appropriate living conditions to a vulnerable applicant\. Our beneficiary is a pregnant woman who is living in a tent in the so\-called “jungle” area of the refugee camp in Samos, altough she is about to give birth\. Her living conditions can be seen in the pictures \(above\) \. The Court is also warning Greece to implement adequate measures to counter the corona virus in the European Hotspots\. ASF France welcomes this decision, and wishes to continue its legal aid work for asylum seekers in this complex times\.” Photos by [Legal Centre Samos](https://www.facebook.com/LegalCentreSamos/posts/531932034417345?hc_location=ufi)](assets/e18dfc824a00/1*iXUp_A6IeHZAXdeLGJwx3A.jpeg)
+The Court obliges Greece to provide adequate healthcare and appropriate living conditions to a vulnerable applicant\. Our beneficiary is a pregnant woman who is living in a tent in the so\-called “jungle” area of the refugee camp in Samos, altough she is about to give birth\. Her living conditions can be seen in the pictures \(above\) \. The Court is also warning Greece to implement adequate measures to counter the corona virus in the European Hotspots\. ASF France welcomes this decision, and wishes to continue its legal aid work for asylum seekers in this complex times\.” Photos by [Legal Centre Samos](https://www.facebook.com/LegalCentreSamos/posts/531932034417345?hc_location=ufi)](../assets/e18dfc824a00/1*iXUp_A6IeHZAXdeLGJwx3A.jpeg)
 
 “We are happy to share this positive decision from the European Court of Human Rights, following our request for interim measures\!
 The Court obliges Greece to provide adequate healthcare and appropriate living conditions to a vulnerable applicant\. Our beneficiary is a pregnant woman who is living in a tent in the so\-called “jungle” area of the refugee camp in Samos, altough she is about to give birth\. Her living conditions can be seen in the pictures \(above\) \. The Court is also warning Greece to implement adequate measures to counter the corona virus in the European Hotspots\. ASF France welcomes this decision, and wishes to continue its legal aid work for asylum seekers in this complex times\.” Photos by [Legal Centre Samos](https://www.facebook.com/LegalCentreSamos/posts/531932034417345?hc_location=ufi)
 #### GREECE → MAINLAND
 
 
-![Photo by [YANNIS KOLESIDIS / EPA\-EFE / Shutterstock](https://www.spiegel.de/politik/ausland/coronavirus-in-griechenlands-fluechtlingslagern-helft-uns-es-ist-nicht-sicher-hier-a-11dd6dea-946b-4f32-9a1c-5ee7a057eca2?fbclid=IwAR3oR_nkO0ndz-tTwIJMhfDPHkMvgxQaul65PFzHMzfEdmBbZmube5whORQ)](assets/e18dfc824a00/1*asGU_UIrih1jH3wtoTyLeQ.jpeg)
+![Photo by [YANNIS KOLESIDIS / EPA\-EFE / Shutterstock](https://www.spiegel.de/politik/ausland/coronavirus-in-griechenlands-fluechtlingslagern-helft-uns-es-ist-nicht-sicher-hier-a-11dd6dea-946b-4f32-9a1c-5ee7a057eca2?fbclid=IwAR3oR_nkO0ndz-tTwIJMhfDPHkMvgxQaul65PFzHMzfEdmBbZmube5whORQ)](../assets/e18dfc824a00/1*asGU_UIrih1jH3wtoTyLeQ.jpeg)
 
 Photo by [YANNIS KOLESIDIS / EPA\-EFE / Shutterstock](https://www.spiegel.de/politik/ausland/coronavirus-in-griechenlands-fluechtlingslagern-helft-uns-es-ist-nicht-sicher-hier-a-11dd6dea-946b-4f32-9a1c-5ee7a057eca2?fbclid=IwAR3oR_nkO0ndz-tTwIJMhfDPHkMvgxQaul65PFzHMzfEdmBbZmube5whORQ)
 ### Ritsona camp has been in lock down for 5 days now
@@ -209,14 +209,14 @@ All 23 persons are from African nations, which is unfortunately increasing acts 
 Testing has stalled in the camp because the medical professionals can only go in to conduct the tests with police, but fewer police are willing to enter now\.
 
 
-![“CALL FOR SOLIDARITY WITH DETAINED WOMEN AT PETROU RALLI PRISON: Visits to the Petrou Ralli detention centre have now been banned due to measures relating to the COVID\-19 pandemic\. Nonetheless, all the essential items that you donated were packaged and delivered to the detained women on Thursday, March 26th\. The same will be done, wherever possible, throughout April and May… until the detention centre empties\! We are calling on you, individuals and self\-organized communities from the fighting solidarity network from below; on you who always stand by the vulnerable and marginalized\. If you would like to assist by donating items from the list below, you can send us a message at our Facebook inbox/messenger or email: [spiti\.gynaikon@gmail\.com](mailto:spiti.gynaikon@gmail.com) to co\-ordinate and discuss where to deliver donations\. We have 6 different addresses in various areas of Athens, where they can be delivered or collected\.” Post made on and find out more here at [athens\.indymedia\.](https://athens.indymedia.org/post/1604243/)](assets/e18dfc824a00/1*UXTFI-zY5UjrY5X4g0fANw.png)
+![“CALL FOR SOLIDARITY WITH DETAINED WOMEN AT PETROU RALLI PRISON: Visits to the Petrou Ralli detention centre have now been banned due to measures relating to the COVID\-19 pandemic\. Nonetheless, all the essential items that you donated were packaged and delivered to the detained women on Thursday, March 26th\. The same will be done, wherever possible, throughout April and May… until the detention centre empties\! We are calling on you, individuals and self\-organized communities from the fighting solidarity network from below; on you who always stand by the vulnerable and marginalized\. If you would like to assist by donating items from the list below, you can send us a message at our Facebook inbox/messenger or email: [spiti\.gynaikon@gmail\.com](mailto:spiti.gynaikon@gmail.com) to co\-ordinate and discuss where to deliver donations\. We have 6 different addresses in various areas of Athens, where they can be delivered or collected\.” Post made on and find out more here at [athens\.indymedia\.](https://athens.indymedia.org/post/1604243/)](../assets/e18dfc824a00/1*UXTFI-zY5UjrY5X4g0fANw.png)
 
 “CALL FOR SOLIDARITY WITH DETAINED WOMEN AT PETROU RALLI PRISON: Visits to the Petrou Ralli detention centre have now been banned due to measures relating to the COVID\-19 pandemic\. Nonetheless, all the essential items that you donated were packaged and delivered to the detained women on Thursday, March 26th\. The same will be done, wherever possible, throughout April and May… until the detention centre empties\! We are calling on you, individuals and self\-organized communities from the fighting solidarity network from below; on you who always stand by the vulnerable and marginalized\. If you would like to assist by donating items from the list below, you can send us a message at our Facebook inbox/messenger or email: [spiti\.gynaikon@gmail\.com](mailto:spiti.gynaikon@gmail.com) to co\-ordinate and discuss where to deliver donations\. We have 6 different addresses in various areas of Athens, where they can be delivered or collected\.” Post made on and find out more here at [athens\.indymedia\.](https://athens.indymedia.org/post/1604243/)
 #### CROATIA
 ### Croatian police brutality…
 
 
-![“Another nightmare\. It will never end\. Last night a refugee was brutally beaten by the Croatian police\. His friends had to build a stretcher with wood to transport him back to Bosnia\. A local called the Bosnian police because the ambulance refused to pick him up on the border in Sturlic\. The Bosnian police transported the boy to the hospital\.” Photo by [Beja Kudic](https://www.facebook.com/photo.php?fbid=1150418218645492&set=a.152333821787275&type=3&theater)](assets/e18dfc824a00/1*TCAisUDb_EjsZoRgaso7ew.jpeg)
+![“Another nightmare\. It will never end\. Last night a refugee was brutally beaten by the Croatian police\. His friends had to build a stretcher with wood to transport him back to Bosnia\. A local called the Bosnian police because the ambulance refused to pick him up on the border in Sturlic\. The Bosnian police transported the boy to the hospital\.” Photo by [Beja Kudic](https://www.facebook.com/photo.php?fbid=1150418218645492&set=a.152333821787275&type=3&theater)](../assets/e18dfc824a00/1*TCAisUDb_EjsZoRgaso7ew.jpeg)
 
 “Another nightmare\. It will never end\. Last night a refugee was brutally beaten by the Croatian police\. His friends had to build a stretcher with wood to transport him back to Bosnia\. A local called the Bosnian police because the ambulance refused to pick him up on the border in Sturlic\. The Bosnian police transported the boy to the hospital\.” Photo by [Beja Kudic](https://www.facebook.com/photo.php?fbid=1150418218645492&set=a.152333821787275&type=3&theater)
 #### FRANCE
@@ -233,7 +233,7 @@ In a new PSM brief, they provide brief camp and security updates on Cherbourg, D
 [Read the full update here\.](https://www.facebook.com/chiara.lauvergnac/posts/10157582797059092?hc_location=ufi)
 
 
-![Photo by Collectif Action Logement 14\\09](assets/e18dfc824a00/1*HqCYvkh0QrxdT-27oDh-KA.jpeg)
+![Photo by Collectif Action Logement 14\\09](../assets/e18dfc824a00/1*HqCYvkh0QrxdT-27oDh-KA.jpeg)
 
 Photo by Collectif Action Logement 14\\09
 

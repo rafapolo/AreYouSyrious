@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 06/12/17: Saying NO to indifference
+title: "AYS Daily Digest 06/12/17: Saying NO to indifference"
 author: Are You Syrious?
 date: 2017-12-07T11:26:08.778+0000
 last_modified_at: 2017-12-07T14:45:46.628+0000
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,syria,greece,germany]
 description: Protests against deportations on the rise / UNHCR’s report reveals much higher numbers for sexual abuse in Syria and detention centres /…
 image:
-  path: assets/4262953c7e1a/1*GqgyObpH8XM0x4QPFCa9gQ.jpeg
+  path: ../assets/4262953c7e1a/1*GqgyObpH8XM0x4QPFCa9gQ.jpeg
 ---
 
 ### AYS Daily Digest 06/12/17: Saying NO to indifference
 #### Protests against deportations on the rise / UNHCR’s report reveals much higher numbers for sexual abuse in Syria and detention centres / Greece starts slow and symbolic process of moving people from the islands to the mainland / Help and solidarity are crucial during winter in the border areas, north of France and the big cities / Belgians against the indifference / Is Austria about to start deporting to Bangladesh? and more…
 
 
-![“Stop the indifference\!” — In front of a detention centre in Belgium \(Photo: [**Sophie Devillé**](https://www.facebook.com/sophie.deville.58) **\)**](assets/4262953c7e1a/1*GqgyObpH8XM0x4QPFCa9gQ.jpeg)
+![“Stop the indifference\!” — In front of a detention centre in Belgium \(Photo: [**Sophie Devillé**](https://www.facebook.com/sophie.deville.58) **\)**](../assets/4262953c7e1a/1*GqgyObpH8XM0x4QPFCa9gQ.jpeg)
 
 “Stop the indifference\!” — In front of a detention centre in Belgium \(Photo: [**Sophie Devillé**](https://www.facebook.com/sophie.deville.58) **\)**
 #### FEATURE
@@ -54,7 +54,7 @@ Nine out of the 20 Afghans who were deported today are from Bavaria\. Two of the
 
 
 
-![Photo: [**Fabian Scheuermann‏**](https://twitter.com/ScheuermannF)](assets/4262953c7e1a/1*3FCjaXyhAjsu73wpbEQKEg.jpeg)
+![Photo: [**Fabian Scheuermann‏**](https://twitter.com/ScheuermannF)](../assets/4262953c7e1a/1*3FCjaXyhAjsu73wpbEQKEg.jpeg)
 
 Photo: [**Fabian Scheuermann‏**](https://twitter.com/ScheuermannF)
 ### SYRIA
@@ -66,7 +66,7 @@ Many have described shocking torture while in detention, including weapons being
 #### GREECE
 
 
-![](assets/4262953c7e1a/1*K8-YLRnvxc5iKCSFwy38EQ.jpeg)
+![](../assets/4262953c7e1a/1*K8-YLRnvxc5iKCSFwy38EQ.jpeg)
 
 ### It is a European, not just a Greek, responsibility
 
@@ -197,7 +197,7 @@ Eligibility is assessed on the basis of one’s date of entry into the country, 
 #### SERBIA
 
 
-![In June 2016, as part of the “Solidarity” project, SOS Childen’s Village opened an IT corner and internet access at Miksalište\. Now, this corner has been transferred in the upper barrack, where educative workshops and games are held, so the refugees can access the computers and get the necessary information about their journey — [Refugee Aid Miksalište](https://www.facebook.com/RefugeeAidMiksaliste/?ref=gs&fref=gs&hc_location=group_dialog)](assets/4262953c7e1a/1*NiUJn5qRYQ6KEnGnTtZgIw.png)
+![In June 2016, as part of the “Solidarity” project, SOS Childen’s Village opened an IT corner and internet access at Miksalište\. Now, this corner has been transferred in the upper barrack, where educative workshops and games are held, so the refugees can access the computers and get the necessary information about their journey — [Refugee Aid Miksalište](https://www.facebook.com/RefugeeAidMiksaliste/?ref=gs&fref=gs&hc_location=group_dialog)](../assets/4262953c7e1a/1*NiUJn5qRYQ6KEnGnTtZgIw.png)
 
 In June 2016, as part of the “Solidarity” project, SOS Childen’s Village opened an IT corner and internet access at Miksalište\. Now, this corner has been transferred in the upper barrack, where educative workshops and games are held, so the refugees can access the computers and get the necessary information about their journey — [Refugee Aid Miksalište](https://www.facebook.com/RefugeeAidMiksaliste/?ref=gs&fref=gs&hc_location=group_dialog)
 #### AUSTRIA
@@ -283,13 +283,13 @@ Donations needed for refugees staying outdoors in Ventimiglia:
 Winter clothes for men, blankets, sleeping bags, hygiene articles, cell phones/chargers/SIM\-cards, food, tea, water, plastic plates/cups, medication\. Donations can be dropped of in Ventimiglia, Nice or Grasse\.
 
 
-![Infoleaflet source: [**Teresa Maffeis**](https://www.facebook.com/teresa.maffeis)](assets/4262953c7e1a/1*YE7OZkNr5Dr-Z_QeNJ8heA.jpeg)
+![Infoleaflet source: [**Teresa Maffeis**](https://www.facebook.com/teresa.maffeis)](../assets/4262953c7e1a/1*YE7OZkNr5Dr-Z_QeNJ8heA.jpeg)
 
 Infoleaflet source: [**Teresa Maffeis**](https://www.facebook.com/teresa.maffeis)
 #### FRANCE
 
 
-![](assets/4262953c7e1a/1*CGsektKJuUF0zZ6hLx7WQg.jpeg)
+![](../assets/4262953c7e1a/1*CGsektKJuUF0zZ6hLx7WQg.jpeg)
 
 
 [L’Auberge des Migrants](https://www.facebook.com/LAuberge-des-Migrants-358496450338/) is printing their logo on the sleeping bags and blankets they distribute due to confiscations, and they plan to claim their ownership if and when it happens that these are taken from the people they lend them to\.
@@ -297,15 +297,15 @@ Infoleaflet source: [**Teresa Maffeis**](https://www.facebook.com/teresa.maffeis
 Médecins du Monde will also distribute blankets and sleeping bags today in the Calais area\. Anyone who wants can sign a “loan agreement” — which means if the goods are confiscated by the police, as happens almost daily, the refugees/associations have the legal basis on which to request the return of their belongings\.
 
 
-![](assets/4262953c7e1a/1*7yJm5z7BoI0ijNuaA-T_Pw.jpeg)
+![](../assets/4262953c7e1a/1*7yJm5z7BoI0ijNuaA-T_Pw.jpeg)
 
 
 
-![](assets/4262953c7e1a/1*m0YKHMyaFErlU3XeJ8_7pA.jpeg)
+![](../assets/4262953c7e1a/1*m0YKHMyaFErlU3XeJ8_7pA.jpeg)
 
 
 
-![Photos: [**Médecins du Monde Hauts\-de\-France**](https://www.facebook.com/M%C3%A9decins-du-Monde-Hauts-de-France-850170168369696/?ref=gs&fref=gs&hc_location=group_dialog)](assets/4262953c7e1a/1*Ggvc-PNnK1ynQVISIQdTFw.jpeg)
+![Photos: [**Médecins du Monde Hauts\-de\-France**](https://www.facebook.com/M%C3%A9decins-du-Monde-Hauts-de-France-850170168369696/?ref=gs&fref=gs&hc_location=group_dialog)](../assets/4262953c7e1a/1*Ggvc-PNnK1ynQVISIQdTFw.jpeg)
 
 Photos: [**Médecins du Monde Hauts\-de\-France**](https://www.facebook.com/M%C3%A9decins-du-Monde-Hauts-de-France-850170168369696/?ref=gs&fref=gs&hc_location=group_dialog)
 
@@ -341,43 +341,43 @@ Men, children, women, a young man who was barefoot, another who was bitten by a 
 The team of HÉBERGEMENT PLATEFORME CITOYENNE finished their solidarity activities and left the Park at 2:30 in the morning after an exhausting evening/night\. \. :
 
 
-![](assets/4262953c7e1a/1*HzX4CYxTZY0NCk0cam4LLg.jpeg)
+![](../assets/4262953c7e1a/1*HzX4CYxTZY0NCk0cam4LLg.jpeg)
 
 
 
-![](assets/4262953c7e1a/1*5gBxDgcex67Q_AlMYL2UGg.jpeg)
+![](../assets/4262953c7e1a/1*5gBxDgcex67Q_AlMYL2UGg.jpeg)
 
 
 
-![](assets/4262953c7e1a/1*ZRvZJoinCd1v9EwIz3grdA.jpeg)
+![](../assets/4262953c7e1a/1*ZRvZJoinCd1v9EwIz3grdA.jpeg)
 
 
 
-![Photos: [Plateforme citoyenne de soutien aux réfugiés Bruxelles](https://www.facebook.com/plateformerefugiesbxl/?ref=gs&fref=gs&hc_location=group_dialog)](assets/4262953c7e1a/1*b11w49lC4hx3TPxE7d1Iig.jpeg)
+![Photos: [Plateforme citoyenne de soutien aux réfugiés Bruxelles](https://www.facebook.com/plateformerefugiesbxl/?ref=gs&fref=gs&hc_location=group_dialog)](../assets/4262953c7e1a/1*b11w49lC4hx3TPxE7d1Iig.jpeg)
 
 Photos: [Plateforme citoyenne de soutien aux réfugiés Bruxelles](https://www.facebook.com/plateformerefugiesbxl/?ref=gs&fref=gs&hc_location=group_dialog)
 
 
-![Photo: [Plateforme citoyenne de soutien aux réfugiés Bruxelles](https://www.facebook.com/plateformerefugiesbxl/?ref=gs&fref=gs&hc_location=group_dialog)](assets/4262953c7e1a/1*ghZk0vdINi8JMC3AUKsE-g.jpeg)
+![Photo: [Plateforme citoyenne de soutien aux réfugiés Bruxelles](https://www.facebook.com/plateformerefugiesbxl/?ref=gs&fref=gs&hc_location=group_dialog)](../assets/4262953c7e1a/1*ghZk0vdINi8JMC3AUKsE-g.jpeg)
 
 Photo: [Plateforme citoyenne de soutien aux réfugiés Bruxelles](https://www.facebook.com/plateformerefugiesbxl/?ref=gs&fref=gs&hc_location=group_dialog)
 
 More than 25,000 door hangers were distributed in Belgium to request a change of migratory policies — to support our friends in Belgium\!
 
 
-![](assets/4262953c7e1a/1*B-S_q6P8gYdUQUeT19Vnxg.jpeg)
+![](../assets/4262953c7e1a/1*B-S_q6P8gYdUQUeT19Vnxg.jpeg)
 
 
 
-![](assets/4262953c7e1a/1*OaO4u-ejcvesi-07_FmWew.jpeg)
+![](../assets/4262953c7e1a/1*OaO4u-ejcvesi-07_FmWew.jpeg)
 
 
 
-![](assets/4262953c7e1a/1*RcGjpVDO_NI6yV0a3LcffQ.jpeg)
+![](../assets/4262953c7e1a/1*RcGjpVDO_NI6yV0a3LcffQ.jpeg)
 
 
 
-![Photos: [Tout Autre Chose](https://www.facebook.com/toutautrechose/)](assets/4262953c7e1a/1*vrvSne0v59wfj1rto6v9mw.jpeg)
+![Photos: [Tout Autre Chose](https://www.facebook.com/toutautrechose/)](../assets/4262953c7e1a/1*vrvSne0v59wfj1rto6v9mw.jpeg)
 
 Photos: [Tout Autre Chose](https://www.facebook.com/toutautrechose/)
 

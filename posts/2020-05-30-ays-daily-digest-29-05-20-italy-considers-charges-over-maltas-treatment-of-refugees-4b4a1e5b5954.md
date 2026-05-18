@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,europe,pushback]
 description: Illegal pushbacks by Greece // Forced evictions of refugees // UNHCR’s Special Envoy comments on NGO rescue boats // Malta Libya relations
 image:
-  path: assets/4b4a1e5b5954/1*5fUb1EvYTXVpZWyHgfNGVw.jpeg
+  path: ../assets/4b4a1e5b5954/1*5fUb1EvYTXVpZWyHgfNGVw.jpeg
 ---
 
 ### AYS Daily Digest 29/05/20\- Italy Considers Charges Over Malta’s Treatment of Refugees
@@ -15,7 +15,7 @@ image:
 Illegal pushbacks by Greece // Forced evictions of refugees // UNHCR’s Special Envoy comments on NGO rescue boats // Malta Libya relations
 
 
-![[@alarm\_phone](https://twitter.com/alarm_phone)](assets/4b4a1e5b5954/1*5fUb1EvYTXVpZWyHgfNGVw.jpeg)
+![[@alarm\_phone](https://twitter.com/alarm_phone)](../assets/4b4a1e5b5954/1*5fUb1EvYTXVpZWyHgfNGVw.jpeg)
 
 [@alarm\_phone](https://twitter.com/alarm_phone)
 ### Feature

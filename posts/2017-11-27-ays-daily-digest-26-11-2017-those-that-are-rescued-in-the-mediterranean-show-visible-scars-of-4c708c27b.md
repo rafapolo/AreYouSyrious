@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 26/11/2017: Those that are rescued in the Mediterranean show visible scars of…
+title: "AYS DAILY DIGEST 26/11/2017: Those that are rescued in the Mediterranean show visible scars of…"
 author: Are You Syrious?
 date: 2017-11-27T10:53:02.048+0000
 last_modified_at: 2017-11-27T10:53:02.048+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,mediterranean,libya,sea-rescue-operations,greece]
 description: Testimonies from Libya // Visible scars on people rescued on the boats coming from Libya // Another dramatic week of rescue operations on…
 image:
-  path: assets/4c708c27b/1*GkIVu5v49p12YmqDmX4fjQ.jpeg
+  path: ../assets/4c708c27b/1*GkIVu5v49p12YmqDmX4fjQ.jpeg
 ---
 
 ### AYS DAILY DIGEST 26/11/2017: Those that are rescued in the Mediterranean show visible scars of sickness and violence\.
@@ -15,7 +15,7 @@ image:
 Testimonies from Libya // Visible scars on people rescued on the boats coming from Libya // Another dramatic week of rescue operations on the sea// The war in Syrian continues taking lifes of civilians // Number of refugees attempting to cross from Libya to Italy by sea has decreased since July // And more from Turkey, Greece, Italy, Sweden…
 
 
-![Chios, Greece November 2017\. Vial camp, Chios\. People including many children live under terrible and dangerous conditions during low freezing temperatures, trapped in between closed borders\. Photo by Vasiliki Antoniou](assets/4c708c27b/1*GkIVu5v49p12YmqDmX4fjQ.jpeg)
+![Chios, Greece November 2017\. Vial camp, Chios\. People including many children live under terrible and dangerous conditions during low freezing temperatures, trapped in between closed borders\. Photo by Vasiliki Antoniou](../assets/4c708c27b/1*GkIVu5v49p12YmqDmX4fjQ.jpeg)
 
 Chios, Greece November 2017\. Vial camp, Chios\. People including many children live under terrible and dangerous conditions during low freezing temperatures, trapped in between closed borders\. Photo by Vasiliki Antoniou
 ### **Feature:**
@@ -25,7 +25,7 @@ Rescue operations of this weekend by the Aquarius give deep and devastating insi
 The Aquarius team rescued 421 persons from a dangerous wooden ship and spent a long day on Sunday preparing to disembark the survivors in Catania, Sicily\. On board of the vessel rescued were over 170 women and girls from Eritrea who have escaped horrific violence and torture\.
 
 
-![](assets/4c708c27b/1*zle95RrFVquwRKfznjnuzQ.png)
+![](../assets/4c708c27b/1*zle95RrFVquwRKfznjnuzQ.png)
 
 
 ‘Today they are safe for the first time in a long time\.’ — MSF SEA
@@ -35,17 +35,17 @@ The Aquarius team rescued 421 persons from a dangerous wooden ship and spent a l
 After months spent in Libya living in inhumane and unhygienic conditions, many survivors also has severe and infected skin conditions — including nearly all of the young children and babies\.
 
 
-![](assets/4c708c27b/1*5AqT9PRnMFTnpBI_YoedFg.png)
+![](../assets/4c708c27b/1*5AqT9PRnMFTnpBI_YoedFg.png)
 
 
 
-![](assets/4c708c27b/1*Fvc81OUSFVMesoJXoU4erw.png)
+![](../assets/4c708c27b/1*Fvc81OUSFVMesoJXoU4erw.png)
 
 
 One survivor rescued by the Aquarius, a 3 year old Eritrean boy was evacuated for emergency medical care after suffering several seizures\. The MSF medical team did all what they could for the boy while on board, but the case was complex and required advanced paediatric care\. The young boy was evacuated with the coordination with Guardjacostiera to Siracusa\. This three year old boy is yet another example of a life that could very easily have been lost without the rescue teams\.
 
 
-![](assets/4c708c27b/1*_oO6w2GBUlx93cLvzZAyTw.png)
+![](../assets/4c708c27b/1*_oO6w2GBUlx93cLvzZAyTw.png)
 
 
 A [report released about the rescues this weekend](http://sosmediterranee.org/dramatic-week-in-the-mediterranean-more-than-800-people-rescued-by-sos-mediterranee-whilst-crew-witnesses-interceptions-at-sea-by-the-libyan-coast-guard/?lang=en) included a statement by Nicola Stalla, SOS MEDITERRANEE’S SAR\-coordinator described this particular rescue in a statement:
@@ -72,7 +72,7 @@ It has been a busy and dramatic week of rescue operations on the Seas, and this 
 The Spanish Rescue Vessel, Guardarmar Polimnia rescued 106 persons\. [However two dead bodies have reportedly washed up on Spanish Coast and 6 dead bodies have washed up on Moroccan coast](https://twitter.com/helenamaleno/status/934891459911790593) \.
 
 
-![](assets/4c708c27b/1*aG81b7YBO4ROo7SBF074Wg.png)
+![](../assets/4c708c27b/1*aG81b7YBO4ROo7SBF074Wg.png)
 
 
 The lifeline returned to Malta with [262 people rescued\.](https://www.facebook.com/DDBalkanKonvoi/photos/a.875422145874550.1073741828.874538332629598/1458804544202971/?type=3&theater)
@@ -108,19 +108,19 @@ If you want to join and try to do something about the situation on Lesvos and th
 [Docmobile](https://www.facebook.com/docmobile.org/) has descibed Patras as an inhumane habitat for living\. People are stuck in this small port town in between Thessaloniki and Athens, without protection or help\. ‘Some people consider themselves lucky simply for having a tent\.’
 
 
-![](assets/4c708c27b/1*zWC3RzX4teI3Pg5q57eo5w.jpeg)
+![](../assets/4c708c27b/1*zWC3RzX4teI3Pg5q57eo5w.jpeg)
 
 
 
-![](assets/4c708c27b/1*lvcPJpSGctaCPrQdeVyyKQ.jpeg)
+![](../assets/4c708c27b/1*lvcPJpSGctaCPrQdeVyyKQ.jpeg)
 
 
 
-![](assets/4c708c27b/1*bbL858az1BkysOisBErYJQ.jpeg)
+![](../assets/4c708c27b/1*bbL858az1BkysOisBErYJQ.jpeg)
 
 
 
-![Photo Docmobile](assets/4c708c27b/1*VVFigndqAWHYFx0y1p0KJQ.jpeg)
+![Photo Docmobile](../assets/4c708c27b/1*VVFigndqAWHYFx0y1p0KJQ.jpeg)
 
 Photo Docmobile
 
@@ -166,7 +166,7 @@ Care4Calais continues their fundraising campaign to buy and distribute brand new
 “Walking boots are especially important at this time of year when the whether is cold and wet\. Foot infections at this time of year are ripe amongst populations of refugees\. Refugees still have to walk miles every day to get to distributions, find new places to sleep and sometimes hide from the police\.”
 
 
-![Photo by Care4Calais](assets/4c708c27b/1*k4DBQHZRd2pxt2qN00-IMA.jpeg)
+![Photo by Care4Calais](../assets/4c708c27b/1*k4DBQHZRd2pxt2qN00-IMA.jpeg)
 
 Photo by Care4Calais
 

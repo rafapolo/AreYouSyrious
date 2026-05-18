@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 8/8: Protesting against indifference
+title: "AYS News Digest 8/8: Protesting against indifference"
 author: Are You Syrious?
 date: 2016-08-09T04:29:20.698+0100
 last_modified_at: 2016-08-09T09:28:01.285+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,syria,turkey,volunteering]
 description: Hunger used as a weapon of war; hospital specializing in children’s medicine bombed, killing medical staff, women and children in the…
 image:
-  path: assets/6cdaeb9b60cb/1*gUq52t6NbAwYQqUvSNunAg.jpeg
+  path: ../assets/6cdaeb9b60cb/1*gUq52t6NbAwYQqUvSNunAg.jpeg
 ---
 
 ### AYS News Digest 8/8: Protesting against indifference
@@ -15,7 +15,7 @@ image:
 _Hunger used as a weapon of war; hospital specializing in children’s medicine bombed, killing medical staff, women and children in the war\-torn Idlib Governorate in Syria\. The “Nein\-Doch Spiel” between Turkey and the EU continues, affecting millions stuck in limbo, while many are forced to strike due to poor living conditions in refugee camps\. Many women in camps living in fear of violence, while Italy tries to resettle the growing number of refugees_
 
 
-![Syrian refugee camp © European Union 2016 — European Parliament](assets/6cdaeb9b60cb/1*gUq52t6NbAwYQqUvSNunAg.jpeg)
+![Syrian refugee camp © European Union 2016 — European Parliament](../assets/6cdaeb9b60cb/1*gUq52t6NbAwYQqUvSNunAg.jpeg)
 
 Syrian refugee camp © European Union 2016 — European Parliament
 ### SYRIA
@@ -33,7 +33,7 @@ In the first six months of 2016, the two largest MSF\-supported reference hospit
 
 
 
-![Refugees arriving in boats to Lesvos, Greece \(Photo: Ggia\)](assets/6cdaeb9b60cb/1*La2IXOin78OT1kjD8c_zGQ.jpeg)
+![Refugees arriving in boats to Lesvos, Greece \(Photo: Ggia\)](../assets/6cdaeb9b60cb/1*La2IXOin78OT1kjD8c_zGQ.jpeg)
 
 Refugees arriving in boats to Lesvos, Greece \(Photo: Ggia\)
 ### **GENERAL**
@@ -86,7 +86,7 @@ To support this, Angela Merkel’s chief of staff said on Friday there was “no
 129 arrivals were registered in Greece since this morning, for a total of 57,047 refugees currently officially registered in the country\.
 
 
-![Children from the kindergarten class and volunteers at the Pikpa camp on Lesvos drew flags for their own Pikpa Olympics 2016 \(Photo: Lesvos Solidarity — Pikpa\)](assets/6cdaeb9b60cb/1*1CKirbH9XKXJaJ_hXgfq7w.jpeg)
+![Children from the kindergarten class and volunteers at the Pikpa camp on Lesvos drew flags for their own Pikpa Olympics 2016 \(Photo: Lesvos Solidarity — Pikpa\)](../assets/6cdaeb9b60cb/1*1CKirbH9XKXJaJ_hXgfq7w.jpeg)
 
 Children from the kindergarten class and volunteers at the Pikpa camp on Lesvos drew flags for their own Pikpa Olympics 2016 \(Photo: Lesvos Solidarity — Pikpa\)
 
@@ -96,13 +96,13 @@ We will try publish soon an AYS special on the topic of frequently asked legal q
 
 
 ![Today in Thessaloniki: Refugees from camp Softex protested against poor living conditions 
- \(Photo: Refugees\.tv\)](assets/6cdaeb9b60cb/1*Ho_51q_aMWQE5-i398rmOg.jpeg)
+ \(Photo: Refugees\.tv\)](../assets/6cdaeb9b60cb/1*Ho_51q_aMWQE5-i398rmOg.jpeg)
 
 Today in Thessaloniki: Refugees from camp Softex protested against poor living conditions 
  \(Photo: Refugees\.tv\)
 
 
-![Photo: Refugees\.tv](assets/6cdaeb9b60cb/1*YMLDQOSOjYvNDtX64VR__w.jpeg)
+![Photo: Refugees\.tv](../assets/6cdaeb9b60cb/1*YMLDQOSOjYvNDtX64VR__w.jpeg)
 
 Photo: Refugees\.tv
 
@@ -110,7 +110,7 @@ In the meantime, the Advocates Abroad team published a post on social networks c
 
 
 ![African refugees living in Moria camp protesting today on a square in Mytilini, Lesvos
- \(Photo: Yvonne Smit\)](assets/6cdaeb9b60cb/1*Mk7exEdVpUF8IXHuZBc8Iw.jpeg)
+ \(Photo: Yvonne Smit\)](../assets/6cdaeb9b60cb/1*Mk7exEdVpUF8IXHuZBc8Iw.jpeg)
 
 African refugees living in Moria camp protesting today on a square in Mytilini, Lesvos
  \(Photo: Yvonne Smit\)
@@ -146,12 +146,12 @@ it will be collected at their office in Skopje\. All those who can come and pers
 ### SERBIA
 
 
-![iHo in collaboration with The Timber Project just finished building shelters in Kelebija and their next step is bulding showers in ‪Horgos\.](assets/6cdaeb9b60cb/1*9jS6JyjAVuJl9FhwGTvPsg.jpeg)
+![iHo in collaboration with The Timber Project just finished building shelters in Kelebija and their next step is bulding showers in ‪Horgos\.](../assets/6cdaeb9b60cb/1*9jS6JyjAVuJl9FhwGTvPsg.jpeg)
 
 iHo in collaboration with The Timber Project just finished building shelters in Kelebija and their next step is bulding showers in ‪Horgos\.
 
 
-![Photos: iHo](assets/6cdaeb9b60cb/1*U2Y5wcsCQinjziT2sxMTuQ.jpeg)
+![Photos: iHo](../assets/6cdaeb9b60cb/1*U2Y5wcsCQinjziT2sxMTuQ.jpeg)
 
 Photos: iHo
 ### ITALY
@@ -170,7 +170,7 @@ On the other hand, in Grosseto, Tuscany, refugees are the ones providing help\. 
 Volunteers working at the Baobab Experience centre in Rome need help and donations\. They need: snacks, long life milk, small package fruit juice, 0,5L bottles of water, bread and backpacks\. New volunteers are always welcome in one of the three shifts \(8\.30 a\.m\-1 p\.m; 1 p\.m\. \-5 p\.m; 5 p\.m\. \-9 p\.m\. \) \. Those interested can either contact Baobab via [Facebook](https://www.facebook.com/groups/1593668944245431/) or visit them in Via Cupa and simply join in\.
 
 
-![Eritrean athlete Elias Embaye and his friends brought and served zigihini for everybody](assets/6cdaeb9b60cb/1*flY5ssHfjB-Oy6eRQ-adOQ.jpeg)
+![Eritrean athlete Elias Embaye and his friends brought and served zigihini for everybody](../assets/6cdaeb9b60cb/1*flY5ssHfjB-Oy6eRQ-adOQ.jpeg)
 
 Eritrean athlete Elias Embaye and his friends brought and served zigihini for everybody
 ### UK

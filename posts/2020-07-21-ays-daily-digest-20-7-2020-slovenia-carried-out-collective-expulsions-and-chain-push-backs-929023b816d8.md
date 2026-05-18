@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugeeswelcome,digestion,slovenia,pushback,search-and-rescue]
 description: Zintan detention centre attacked by armed men — More brutal pushbacks on the Evros — Italy is trying to stop humanitarian SAR activities…
 image:
-  path: assets/929023b816d8/1*uvb4KRCqX1aJOZc1GTOM4g.jpeg
+  path: ../assets/929023b816d8/1*uvb4KRCqX1aJOZc1GTOM4g.jpeg
 ---
 
 ### AYS Daily Digest 20/7/2020 Slovenia carried out collective expulsions and chain push\-backs
@@ -15,7 +15,7 @@ image:
 Zintan detention centre attacked by armed men — More brutal pushbacks on the Evros border — Italy is trying to stop humanitarian SAR activities, again — more…
 
 
-![Moria Camp, Lockdown extended for the 6th time\. \(Photo by [Mare Liberum e\.V\.](https://twitter.com/teammareliberum/status/1284124466742734854/photo/1) \)](assets/929023b816d8/1*uvb4KRCqX1aJOZc1GTOM4g.jpeg)
+![Moria Camp, Lockdown extended for the 6th time\. \(Photo by [Mare Liberum e\.V\.](https://twitter.com/teammareliberum/status/1284124466742734854/photo/1) \)](../assets/929023b816d8/1*uvb4KRCqX1aJOZc1GTOM4g.jpeg)
 
 Moria Camp, Lockdown extended for the 6th time\. \(Photo by [Mare Liberum e\.V\.](https://twitter.com/teammareliberum/status/1284124466742734854/photo/1) \)
 #### FEATURED — Court finds Slovenian authorities guilty of Collective expulsion and Chain push\-back
@@ -117,7 +117,7 @@ Again, Greek politicians are [warning](https://www.theguardian.com/world/2020/ju
 Certificates that probably refers to ‘effective contributions’ like this one:
 
 
-![34 year old Kurdish man was targeted and beaten up by the police in Alexandropoulis\. Then he was pushed\-back on the other side of the Evros border\. \(Photo via [EfSyn](https://www.efsyn.gr/ellada/dikaiomata/252748_ton-eklepsan-ton-htypisan-kai-ton-esteilan-stin-toyrkia) \)](assets/929023b816d8/1*QxrAcYrfACuI554k1t-SVQ.jpeg)
+![34 year old Kurdish man was targeted and beaten up by the police in Alexandropoulis\. Then he was pushed\-back on the other side of the Evros border\. \(Photo via [EfSyn](https://www.efsyn.gr/ellada/dikaiomata/252748_ton-eklepsan-ton-htypisan-kai-ton-esteilan-stin-toyrkia) \)](../assets/929023b816d8/1*QxrAcYrfACuI554k1t-SVQ.jpeg)
 
 34 year old Kurdish man was targeted and beaten up by the police in Alexandropoulis\. Then he was pushed\-back on the other side of the Evros border\. \(Photo via [EfSyn](https://www.efsyn.gr/ellada/dikaiomata/252748_ton-eklepsan-ton-htypisan-kai-ton-esteilan-stin-toyrkia) \)
 

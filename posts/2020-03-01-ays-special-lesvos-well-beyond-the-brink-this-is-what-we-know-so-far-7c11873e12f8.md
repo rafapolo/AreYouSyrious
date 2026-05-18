@@ -1,5 +1,5 @@
 ---
-title: AYS Special: Lesvos well beyond the brink (this is what we know so far)
+title: "AYS Special: Lesvos well beyond the brink (this is what we know so far)"
 author: Are You Syrious?
 date: 2020-03-01T18:00:52.305+0000
 last_modified_at: 2020-03-01T18:00:52.305+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [special,lesvos,refugee-crisis,refugees-in-greece,riots]
 description: In partnership with Refocus Media Labs, we bring you the most detailed account of violent and sometimes confusing events unfolding at the…
 image:
-  path: assets/7c11873e12f8/0*NGSnv_UCQfbmUYW4
+  path: ../assets/7c11873e12f8/0*NGSnv_UCQfbmUYW4
 ---
 
 ### AYS Special: Lesvos well beyond the brink \(this is what we know so far\)
@@ -15,7 +15,7 @@ image:
 
 
 ![Tear gas canisters fired at local protesters by riot police imported from Athens\. \(Kavala, Lesvos\)
-Photo: @dfherman @refocusmedialabs](assets/7c11873e12f8/0*NGSnv_UCQfbmUYW4)
+Photo: @dfherman @refocusmedialabs](../assets/7c11873e12f8/0*NGSnv_UCQfbmUYW4)
 
 Tear gas canisters fired at local protesters by riot police imported from Athens\. \(Kavala, Lesvos\)
 Photo: @dfherman @refocusmedialabs
@@ -32,7 +32,7 @@ Ever since the Mitsotakis’s Nea Dimokratia \(ND\) government took power in Jul
 
 
 ![North Aegean All\-Island General Strike: January 22, 2020 Mytilini, Lesvos
-photo: @dfherman](assets/7c11873e12f8/0*L5hjVQUbjm8z3QER)
+photo: @dfherman](../assets/7c11873e12f8/0*L5hjVQUbjm8z3QER)
 
 North Aegean All\-Island General Strike: January 22, 2020 Mytilini, Lesvos
 photo: @dfherman
@@ -42,7 +42,7 @@ To refugees and locals alike, closed centers will function like prisons, immedia
 
 
 ![Refugee Protest: January 30, 2020 Mytilini, Lesvos 
-photo: @dfherman](assets/7c11873e12f8/0*RO7UW9gvdCPlhjk1)
+photo: @dfherman](../assets/7c11873e12f8/0*RO7UW9gvdCPlhjk1)
 
 Refugee Protest: January 30, 2020 Mytilini, Lesvos 
 photo: @dfherman
@@ -51,7 +51,7 @@ photo: @dfherman
 A week later, on Jan 30th, refugee mothers and children took to the streets in Mytilini to peacefully demand solutions for conditions inside Moria\. In a driving rain, they peacefully marched through the port chanting and holding signs reading _“We escaped war and insecurity, but here they are kill us from the cold\.”_ Less than a week later on February 3, refugees led a larger and more comprehensive peaceful protest toward Mytilini over the conditions in Moria, summary deportations without appeal and the seemingly never\-ending delays in asylum claim procedures\. Similar to the peaceful display of Greek solidarity on the 22nd, where families of all ages gathered and marched through the center of town, refugees from all backgrounds attempted to do the same\. However, riot police previously brought in from Athens met them on the road from Kara Tepe refugee camp toward downtown Mytilini, trapping thousands and aggressively used tear gas to push back a peaceful crowd filled with women, children and elderly\. _“Azadi, Azadi, Freedom, Freedom\!”_ was their common call as they consistently attempted to re\-establish a peaceful demonstration, but police forces repeatedly escalated without provocation\.
 
 
-[![Refugee protest on Lesvos, February 3rd, 2020](assets/7c11873e12f8/4811_hqdefault.jpg "Refugee protest on Lesvos, February 3rd, 2020")](https://www.youtube.com/watch?v=SHjqNjGfx-o)
+[![Refugee protest on Lesvos, February 3rd, 2020](../assets/7c11873e12f8/4811_hqdefault.jpg "Refugee protest on Lesvos, February 3rd, 2020")](https://www.youtube.com/watch?v=SHjqNjGfx-o)
 
 
 **_How it was covered in the mainstream media: [Aljazeera Brief by Katy Fallon, Video by Douglas Herman & Ciaran Carney](https://www.aljazeera.com/news/2020/02/refugee-children-crowds-protesters-tear-gassed-lesbos-200204133656056.html)_**
@@ -60,7 +60,7 @@ Refugees set contained fires by burning tires in the streets to combat the tear 
 
 
 ![Detainees inside transported to Mytilini police station, February 3, 2020 Kara Tepe, Lesvos
-Photo: @dfherman](assets/7c11873e12f8/0*LaUPR7fxxOOcpVFY)
+Photo: @dfherman](../assets/7c11873e12f8/0*LaUPR7fxxOOcpVFY)
 
 Detainees inside transported to Mytilini police station, February 3, 2020 Kara Tepe, Lesvos
 Photo: @dfherman
@@ -69,7 +69,7 @@ The following day, another group of refugees staged a peaceful protest outside t
 
 
 ![A protester was punched by Police officer in plain clothes\. Mytilini, Lesvos
-Photo: screen grab from video by Ciaran Carney](assets/7c11873e12f8/0*MzWdBwyXtrqLdmQW)
+Photo: screen grab from video by Ciaran Carney](../assets/7c11873e12f8/0*MzWdBwyXtrqLdmQW)
 
 A protester was punched by Police officer in plain clothes\. Mytilini, Lesvos
 Photo: screen grab from video by Ciaran Carney
@@ -77,7 +77,7 @@ Photo: screen grab from video by Ciaran Carney
 Men of differing ages claiming to be undercover police, harassed journalists with cameras, demanded identification and attempted to confiscate cameras\. Several refugees reported being threatened and locals chanted _“throw them back in the sea\.”_ While these incidents were isolated, many volunteers, Greek and non\-Greek NGO workers reported feeling a growing sense of concern in public spaces and serious worries over walking alone at night\.
 
 
-[![Day 2 Lesbos protest in Mytillini](assets/7c11873e12f8/eaac_hqdefault.jpg "Day 2 Lesbos protest in Mytillini")](https://www.youtube.com/watch?v=2TjBJ8ya4Zg)
+[![Day 2 Lesbos protest in Mytillini](../assets/7c11873e12f8/eaac_hqdefault.jpg "Day 2 Lesbos protest in Mytillini")](https://www.youtube.com/watch?v=2TjBJ8ya4Zg)
 
 ### Orchestrated fear
 
@@ -85,7 +85,7 @@ In the days that followed, some residents of Moria village began hostile defense
 
 
 ![Local Antifa march against violent blockade of Moria Village\. Kara Tepe, Lesvos 
-Photo: Ahmad Ebrahimi @s\.ahmad\_ebrahimi](assets/7c11873e12f8/0*mGojlXVTfmG-tJyi)
+Photo: Ahmad Ebrahimi @s\.ahmad\_ebrahimi](../assets/7c11873e12f8/0*mGojlXVTfmG-tJyi)
 
 Local Antifa march against violent blockade of Moria Village\. Kara Tepe, Lesvos 
 Photo: Ahmad Ebrahimi @s\.ahmad\_ebrahimi
@@ -101,7 +101,7 @@ But the push to actualize the plan truly started on January 31, 2020 with the cl
 
 
 ![Daily scene on the north coast of Lesvos, near Skala Sikamineas\. Arrivals in 2019 have totalled more than 2017 and 2018 combined, yet Stage 2 first response camp was recently ordered closed\.
-Photo: @dfherman](assets/7c11873e12f8/0*KgTJGlVYYVMHRY7T)
+Photo: @dfherman](../assets/7c11873e12f8/0*KgTJGlVYYVMHRY7T)
 
 Daily scene on the north coast of Lesvos, near Skala Sikamineas\. Arrivals in 2019 have totalled more than 2017 and 2018 combined, yet Stage 2 first response camp was recently ordered closed\.
 Photo: @dfherman
@@ -110,7 +110,7 @@ The dramatic increase in arrivals in 2019 totaling nearly 60,000 \(more than 201
 
 
 ![Olive Grove behind overcrowded Moria Camp, Lesvos\. Over 15,000 people are living rough in tent city\.
-Photo: @dfherman](assets/7c11873e12f8/0*x-D7u77Oq9ARBBc5)
+Photo: @dfherman](../assets/7c11873e12f8/0*x-D7u77Oq9ARBBc5)
 
 Olive Grove behind overcrowded Moria Camp, Lesvos\. Over 15,000 people are living rough in tent city\.
 Photo: @dfherman
@@ -119,7 +119,7 @@ The impact was felt immediately with new arrivals that weekend going without imm
 
 
 ![Olive Grove behind overcrowded Moria Camp, Lesvos\. Over 15,000 people are living rough in tent city\.
-Photo: @dfherman](assets/7c11873e12f8/0*d1t7dOlL0Akp60kH)
+Photo: @dfherman](../assets/7c11873e12f8/0*d1t7dOlL0Akp60kH)
 
 Olive Grove behind overcrowded Moria Camp, Lesvos\. Over 15,000 people are living rough in tent city\.
 Photo: @dfherman
@@ -130,7 +130,7 @@ On Lesvos, the remote agricultural area in Karava, close to Mantamados had been 
 
 
 ![“Life\-jacket Graveyard” near Molyvos, Lesvos\.
-Photo: @dfherman](assets/7c11873e12f8/0*uV5n6NBhodA77OOI)
+Photo: @dfherman](../assets/7c11873e12f8/0*uV5n6NBhodA77OOI)
 
 “Life\-jacket Graveyard” near Molyvos, Lesvos\.
 Photo: @dfherman
@@ -141,7 +141,7 @@ In response, Migration Minister Notis Mitarakis announced “the freezing of req
 
 
 ![Aspironsi, uninhabited islet in the background just off the coast of Mantamados, where alternative site for closed camp was rejected by Mitsotakis’s government\. Karava, Lesvos
-Photo: @dfherman](assets/7c11873e12f8/0*9OxBN7nFjuMOpLT5)
+Photo: @dfherman](../assets/7c11873e12f8/0*9OxBN7nFjuMOpLT5)
 
 Aspironsi, uninhabited islet in the background just off the coast of Mantamados, where alternative site for closed camp was rejected by Mitsotakis’s government\. Karava, Lesvos
 Photo: @dfherman
@@ -151,7 +151,7 @@ Saturday, February 22nd was a day of local and cultural celebration in Mytilini\
 
 
 ![Cultural dance festival in Sappho Square in Mytilini, Lesvos February 22, 2020
-Photo: @dfherman](assets/7c11873e12f8/0*CxcTzPFD-F3h3EHJ)
+Photo: @dfherman](../assets/7c11873e12f8/0*CxcTzPFD-F3h3EHJ)
 
 Cultural dance festival in Sappho Square in Mytilini, Lesvos February 22, 2020
 Photo: @dfherman
@@ -160,7 +160,7 @@ On the other side of town a peaceful solidarity march had commenced protesting t
 
 
 ![Solidarity March of locals, refugees and NGOs\- Mytilini, Lesvos\. February 22, 2020
-Photo: @dfherman](assets/7c11873e12f8/0*gFg2D4issLqwe3bp)
+Photo: @dfherman](../assets/7c11873e12f8/0*gFg2D4issLqwe3bp)
 
 Solidarity March of locals, refugees and NGOs\- Mytilini, Lesvos\. February 22, 2020
 Photo: @dfherman
@@ -172,7 +172,7 @@ Once word leaked that reinforcements were en route, locals formed blockades at t
 
 
 ![Locals blockade the ferry terminal with garbage trucks throughout the night in advance of secret delivery of riot police arriving from Athens\. Mytilini, Lesvos February 24–25, 2020\. 
-Photo: @dfherman](assets/7c11873e12f8/0*OIW8INNuHHxy3Sqf)
+Photo: @dfherman](../assets/7c11873e12f8/0*OIW8INNuHHxy3Sqf)
 
 Locals blockade the ferry terminal with garbage trucks throughout the night in advance of secret delivery of riot police arriving from Athens\. Mytilini, Lesvos February 24–25, 2020\. 
 Photo: @dfherman
@@ -181,7 +181,7 @@ The crowd was mixed in sentiment and tactics\. On one side, Antifa and KKE \(com
 
 
 ![Initially peaceful blockade of Mytilini ferry terminal, Lesvos
-Photo: @dfherman](assets/7c11873e12f8/0*9VO7qzxg6Z7JkZLQ)
+Photo: @dfherman](../assets/7c11873e12f8/0*9VO7qzxg6Z7JkZLQ)
 
 Initially peaceful blockade of Mytilini ferry terminal, Lesvos
 Photo: @dfherman
@@ -190,7 +190,7 @@ After several hours of peaceful gathering, the energy shifted\. The groups in th
 
 
 ![Riot police brace for confrontation with locals at ferry terminal in early hours of February 25, 2020 
-Mytilini, Lesvos Photo: @dfherman](assets/7c11873e12f8/0*R99kRcNpzzWmbzDa)
+Mytilini, Lesvos Photo: @dfherman](../assets/7c11873e12f8/0*R99kRcNpzzWmbzDa)
 
 Riot police brace for confrontation with locals at ferry terminal in early hours of February 25, 2020 
 Mytilini, Lesvos Photo: @dfherman
@@ -199,7 +199,7 @@ Several reporters were on the scene photographing and filming the situation with
 
 
 ![An initially peaceful blockade of Mytilini ferry terminal shifts towards anger\.
-Photo: @dfherman](assets/7c11873e12f8/0*GQnoYuYUlx4SdJGz)
+Photo: @dfherman](../assets/7c11873e12f8/0*GQnoYuYUlx4SdJGz)
 
 An initially peaceful blockade of Mytilini ferry terminal shifts towards anger\.
 Photo: @dfherman
@@ -207,14 +207,14 @@ Photo: @dfherman
 More tear gas followed as the rowdy crowd returned to the front line of the fence, hurling tear gas canisters and rocks back at the police\. On the other side, the Antifa group continued to chant protest slogans denouncing the closed camps, and the more moderate groups in the middle shifted away from the front line\. Eventually the more active group of protesters pushed further in toward the port fence and a fire was lit in the street and in trash bins, to which riot police tossed more tear gas to disperse\.
 
 
-![Tear gas is used to push back more aggressive elements in crowd blockading ferry terminal in Mytilini, Lesvos February 25, 2020 photo: @dfherman](assets/7c11873e12f8/0*MAArAPGPFLbH1pw6)
+![Tear gas is used to push back more aggressive elements in crowd blockading ferry terminal in Mytilini, Lesvos February 25, 2020 photo: @dfherman](../assets/7c11873e12f8/0*MAArAPGPFLbH1pw6)
 
 Tear gas is used to push back more aggressive elements in crowd blockading ferry terminal in Mytilini, Lesvos February 25, 2020 photo: @dfherman
 
 As the scene grew out of hand, the Antifa group started marching away from the scene and back toward the port of Mytilini and Sappho Square\. A pitched battle ensued with riot police tossing more tear gas and the protesters eventually returned to the front line once it dissipated\. Police continuously used tear gas to advance their position, impacting residents in apartments directly above as tear gas vapors entered their homes\. The crowd grew more brazen, tossing bottles and rocks back at the police lines, but by the time the ferry docked, the police had controlled the area and the newly arrived reinforcements were able to disembark in full riot gear to head north along the coastal road toward Mantamados\.
 
 
-[![Extended Video From Blockade Of Mytilini Ferry Terminal](assets/7c11873e12f8/c547_hqdefault.jpg "Extended Video From Blockade Of Mytilini Ferry Terminal")](https://www.youtube.com/watch?v=hEPMW4fIfaI)
+[![Extended Video From Blockade Of Mytilini Ferry Terminal](../assets/7c11873e12f8/c547_hqdefault.jpg "Extended Video From Blockade Of Mytilini Ferry Terminal")](https://www.youtube.com/watch?v=hEPMW4fIfaI)
 
 ### Showdown in Mantamados
 
@@ -222,7 +222,7 @@ Throughout the night protesters battled with riot police along the coastal road 
 
 
 ![Scene along road to Mantamados where local protesters squared off with riot police sent from Athens\. 
-photo: posted by [**Katerina Nikos**](https://www.facebook.com/profile.php?id=100005311481518)](assets/7c11873e12f8/0*bl9FGWbE55c4282d)
+photo: posted by [**Katerina Nikos**](https://www.facebook.com/profile.php?id=100005311481518)](../assets/7c11873e12f8/0*bl9FGWbE55c4282d)
 
 Scene along road to Mantamados where local protesters squared off with riot police sent from Athens\. 
 photo: posted by [**Katerina Nikos**](https://www.facebook.com/profile.php?id=100005311481518)
@@ -231,7 +231,7 @@ By the next morning Sappho Square in Mytilini was bursting at the seams with peo
 
 
 ![Sappho Square in Mytilini, Lesvos\. Day 1 General Strike on Lesvos\.
-photo: @dfherman](assets/7c11873e12f8/0*yoNh0tXFU3vmsEWn)
+photo: @dfherman](../assets/7c11873e12f8/0*yoNh0tXFU3vmsEWn)
 
 Sappho Square in Mytilini, Lesvos\. Day 1 General Strike on Lesvos\.
 photo: @dfherman
@@ -239,7 +239,7 @@ photo: @dfherman
 A passionate and unified rally marched from Sappho Square past the port area embroiled in the blockade and up to the Ministry\.
 
 
-![Day 1 General Strike March to the Ministry in Mytilini, Lesvos\. Photo: @dfherman](assets/7c11873e12f8/0*A3bBEOzWJWBTr9yn)
+![Day 1 General Strike March to the Ministry in Mytilini, Lesvos\. Photo: @dfherman](../assets/7c11873e12f8/0*A3bBEOzWJWBTr9yn)
 
 Day 1 General Strike March to the Ministry in Mytilini, Lesvos\. Photo: @dfherman
 
@@ -247,7 +247,7 @@ Shortly after the rally ended, protesters got in cars and others in charter buse
 
 
 ![Scene along road to Mantamados where local protesters squared off with riot police sent from Athens\. 
-photo: posted by [**Katerina Nikos**](https://www.facebook.com/profile.php?id=100005311481518)](assets/7c11873e12f8/0*kgX58Zk4CCMZqnSd)
+photo: posted by [**Katerina Nikos**](https://www.facebook.com/profile.php?id=100005311481518)](../assets/7c11873e12f8/0*kgX58Zk4CCMZqnSd)
 
 Scene along road to Mantamados where local protesters squared off with riot police sent from Athens\. 
 photo: posted by [**Katerina Nikos**](https://www.facebook.com/profile.php?id=100005311481518)
@@ -256,7 +256,7 @@ The ferocity of the resistance surprised the police as local farmers, women, eld
 
 
 ![Locals protesting the creation of closed camps near Mantamados, Lesvos 
-photo: posted by [**Franziska Grillmeier**](https://twitter.com/FranziEire)](assets/7c11873e12f8/0*CTqNjig1Dbwlg-pC)
+photo: posted by [**Franziska Grillmeier**](https://twitter.com/FranziEire)](../assets/7c11873e12f8/0*CTqNjig1Dbwlg-pC)
 
 Locals protesting the creation of closed camps near Mantamados, Lesvos 
 photo: posted by [**Franziska Grillmeier**](https://twitter.com/FranziEire)
@@ -264,14 +264,14 @@ photo: posted by [**Franziska Grillmeier**](https://twitter.com/FranziEire)
 Approaching dusk it was reported on the road halfway between Mantamados and Mistegnon that “a deal has been reached” and all the protesters were slowly starting to head back\. Then more reports of police firing tear gas, using their batons to damage cars and hit people along the roads\. Reports of vulgarities, including “Turkish Seeds”, were hurled by riot police at the protesters, many of which are descendants of Greek refugees who were forced back to Lesvos and other islands in massive population transfers in 1922\.
 
 
-![Tear gas canisters and flask grenades thrown by riot police toward locals protesting the creation of closed camps near Mantamados, Lesvos photo: posted by [**Katerina Vati**](https://www.facebook.com/katerina.vati/photos?lst=664905812%3A500122425%3A1583056972)](assets/7c11873e12f8/0*BwuTxG25FirRTfEM)
+![Tear gas canisters and flask grenades thrown by riot police toward locals protesting the creation of closed camps near Mantamados, Lesvos photo: posted by [**Katerina Vati**](https://www.facebook.com/katerina.vati/photos?lst=664905812%3A500122425%3A1583056972)](../assets/7c11873e12f8/0*BwuTxG25FirRTfEM)
 
 Tear gas canisters and flask grenades thrown by riot police toward locals protesting the creation of closed camps near Mantamados, Lesvos photo: posted by [**Katerina Vati**](https://www.facebook.com/katerina.vati/photos?lst=664905812%3A500122425%3A1583056972)
 
 **_Videos and Facebook Live and Twitter feeds by journalists including [Franziska Grillmeier](https://twitter.com/FranziEire) and [Katerina Vati](https://www.facebook.com/katerina.vati/photos?lst=664905812%3A500122425%3A1583056972) chronicle the day of struggle for protesters scattering into the brush and tree line dominated for hours\._**
 
 
-[![Blockade on the Road To Mantamados](assets/7c11873e12f8/f97f_hqdefault.jpg "Blockade on the Road To Mantamados")](https://www.youtube.com/watch?v=vvhs0324AS0)
+[![Blockade on the Road To Mantamados](../assets/7c11873e12f8/f97f_hqdefault.jpg "Blockade on the Road To Mantamados")](https://www.youtube.com/watch?v=vvhs0324AS0)
 
 
 By nightfall, many of the protesters had left the road and were back in Mytilini where a group stormed a military barracks where riot police were stationed\. In prior incidents on both Chios and Lesvos, protesters stormed hotels where the additional forces were staying\. On Chios, there were reports of off\-duty police being attacked in their hotel rooms and on Lesvos, personal belongings were reportedly taken and burned in the street\.
@@ -279,7 +279,7 @@ By nightfall, many of the protesters had left the road and were back in Mytilini
 Later in the evening PM Mitsotakis announced he was calling back the reinforced riot police and forces essentially ending the standoff, but another pitched battle in front of the military barracks on the outskirts of Mytilini raged for hours into the night with thousands of islanders engaged\. New York Times reported the casualties of the day\- On Lesvos 10 residents with significant head wounds, 43 officers injured, two with shotgun wounds, and on Chios 9 more officers needed medical attention\.
 
 
-[![Local protesters wage a pitched battle outside military barracks in Mytilini, Lesvos](assets/7c11873e12f8/ba52_hqdefault.jpg "Local protesters wage a pitched battle outside military barracks in Mytilini, Lesvos")](https://www.youtube.com/watch?v=TeBNazf8jTI)
+[![Local protesters wage a pitched battle outside military barracks in Mytilini, Lesvos](../assets/7c11873e12f8/ba52_hqdefault.jpg "Local protesters wage a pitched battle outside military barracks in Mytilini, Lesvos")](https://www.youtube.com/watch?v=TeBNazf8jTI)
 
 ### **Aftermath**
 
@@ -287,7 +287,7 @@ By 9 am the reinforcements had boarded ferries to leave Lesvos and Chios, and a 
 
 
 ![Day 2 of General Strike against police brutality and creation of closed camps on Lesvos
-Photo: @dfherman](assets/7c11873e12f8/0*jpLojiCVkm1_is-D)
+Photo: @dfherman](../assets/7c11873e12f8/0*jpLojiCVkm1_is-D)
 
 Day 2 of General Strike against police brutality and creation of closed camps on Lesvos
 Photo: @dfherman
@@ -295,7 +295,7 @@ Photo: @dfherman
 People gathered and spoke passionately about their experiences during the previous day and night, and lines of taxis came honking as they lined the port road and joined the demonstration\. Several speeches kicked off another powerful show of unity before the crowd marched up to an empty Ministry building and circled back through town\.
 
 
-![Day 2 of General Strike on Lesvos\. Photo: @dfherman](assets/7c11873e12f8/0*ki7evKc2s_Xq1Dqa)
+![Day 2 of General Strike on Lesvos\. Photo: @dfherman](../assets/7c11873e12f8/0*ki7evKc2s_Xq1Dqa)
 
 Day 2 of General Strike on Lesvos\. Photo: @dfherman
 
@@ -303,7 +303,7 @@ With temporary victory in hand and no reason to head back up to Mantamados, the 
 
 
 ![Locations of alleged attacks by fascists on volunteers\. 
-Source: anonymous](assets/7c11873e12f8/0*6o0Ez0pSZY3DMNBc)
+Source: anonymous](../assets/7c11873e12f8/0*6o0Ez0pSZY3DMNBc)
 
 Locations of alleged attacks by fascists on volunteers\. 
 Source: anonymous
@@ -312,7 +312,7 @@ Cars with rental stickers were attacked with chains and smashed while volunteer 
 
 
 ![Vehicle damaged in attack by fascists against volunteers
-Source: anonymous](assets/7c11873e12f8/0*es8Yjaljy3qjt0DY)
+Source: anonymous](../assets/7c11873e12f8/0*es8Yjaljy3qjt0DY)
 
 Vehicle damaged in attack by fascists against volunteers
 Source: anonymous
@@ -320,7 +320,7 @@ Source: anonymous
 Back up at the road to enter the Karava area, local farmers and workers of all ages remained on guard\. Two older grandpas standing guard spoke of their solemn duty to protect their land in what they assumed would be a long war to come\. _“We are Greek warriors\. This is our land, and we will stay here until we die\!”_
 
 
-![Local protesters continue to stand guard at roadblock up to Karava, the proposed site of closed camps near Matamados, Lesvos photo: @dfherman](assets/7c11873e12f8/0*vhA4SauDzk7rPRZy)
+![Local protesters continue to stand guard at roadblock up to Karava, the proposed site of closed camps near Matamados, Lesvos photo: @dfherman](../assets/7c11873e12f8/0*vhA4SauDzk7rPRZy)
 
 Local protesters continue to stand guard at roadblock up to Karava, the proposed site of closed camps near Matamados, Lesvos photo: @dfherman
 ### “We will open the gates”
@@ -343,7 +343,7 @@ Shortly after reports of refugees and migrants crossing the northern land border
 
 
 ![New arrivals off boats just landed near Port Mytilini being brought to Moria for processing\. 
-photo: Kyra Sacks](assets/7c11873e12f8/0*v8qiOWdVvey-G74y)
+photo: Kyra Sacks](../assets/7c11873e12f8/0*v8qiOWdVvey-G74y)
 
 New arrivals off boats just landed near Port Mytilini being brought to Moria for processing\. 
 photo: Kyra Sacks
@@ -389,14 +389,14 @@ Numerous reports are currently flooding social media chronicling local attacks o
 
 
 
-![](assets/7c11873e12f8/0*3JfJHgKEjBYElydL)
+![](../assets/7c11873e12f8/0*3JfJHgKEjBYElydL)
 
 
 Both roads in and out of Moria camp are blocked by Police, and numerous reports of locals looking for volunteers and NGO workers are circulating\.
 
 
 ![Volunteer and employee cars parked near Moria Camp\.
-Photo: M\. \-ReFOCUS Media Labs student](assets/7c11873e12f8/0*3Pi9fJ28Ph06P4Fx)
+Photo: M\. \-ReFOCUS Media Labs student](../assets/7c11873e12f8/0*3Pi9fJ28Ph06P4Fx)
 
 Volunteer and employee cars parked near Moria Camp\.
 Photo: M\. \-ReFOCUS Media Labs student
@@ -405,7 +405,7 @@ Multiple reports coming out of that locals are attacking cars coming out of the 
 
 
 ![Volunteer and employee cars parked near Moria Camp\.
-Photo: M\. \-ReFOCUS Media Labs student](assets/7c11873e12f8/0*yhoGJgYAqLsvwG36)
+Photo: M\. \-ReFOCUS Media Labs student](../assets/7c11873e12f8/0*yhoGJgYAqLsvwG36)
 
 Volunteer and employee cars parked near Moria Camp\.
 Photo: M\. \-ReFOCUS Media Labs student
@@ -413,7 +413,7 @@ Photo: M\. \-ReFOCUS Media Labs student
 Live video also coming in from [**Giorgos Christides**](https://twitter.com/g_christides/status/1234099140793073665) in Thermi where a boat loaded with families is not being allowed to come ashore by large groups of locals\.
 
 
-[![Live Video Of Scene on Lesvos](assets/7c11873e12f8/ef34_hqdefault.jpg "Live Video Of Scene on Lesvos")](https://www.youtube.com/watch?v=DZFcvdRfRO0)
+[![Live Video Of Scene on Lesvos](../assets/7c11873e12f8/ef34_hqdefault.jpg "Live Video Of Scene on Lesvos")](https://www.youtube.com/watch?v=DZFcvdRfRO0)
 
 
 [**_Stonisi Greece_**](https://stonisi.gr/post/7298/epeisodia-to-limani-ths-thermhs) **_is reporting that Astrid Castelein\- Head of the UNHCR Sub\-Office on Lesvos was also physically threatened and “detained” by a group of locals\._**
@@ -422,7 +422,7 @@ Reports currently coming in that an Antifa demonstration is forming in Sappho Sq
 #### **NOTE: This story is unfolding, updates will follow accordingly\.**
 
 
-![](assets/7c11873e12f8/0*FT5Q4vZN_PhSUlRM)
+![](../assets/7c11873e12f8/0*FT5Q4vZN_PhSUlRM)
 
 
 **ReFOCUS Media Labs** 

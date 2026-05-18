@@ -1,5 +1,5 @@
 ---
-title: AYS Note from the Team: Please, let us know what you think!
+title: "AYS Note from the Team: Please, let us know what you think!"
 author: Are You Syrious?
 date: 2021-11-17T12:04:09.394+0000
 last_modified_at: 2021-11-17T12:04:09.394+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [reader-survey,opinion,feedback,thank-you]
 description: Take part in our Reader Survey!
 image:
-  path: assets/8eaef3db6c30/1*Ud41dZB-alO2lLZaPQf8sw.png
+  path: ../assets/8eaef3db6c30/1*Ud41dZB-alO2lLZaPQf8sw.png
 ---
 
 ### AYS Note from the Team: Please, let us know what you think\!
 #### Take part in our [Reader Survey](https://www.survio.com/survey/d/W2B7R1I4A7Q3K9L1O) \!
 
 
-![](assets/8eaef3db6c30/1*Ud41dZB-alO2lLZaPQf8sw.png)
+![](../assets/8eaef3db6c30/1*Ud41dZB-alO2lLZaPQf8sw.png)
 
 #### NOTE FROM THE TEAM
 

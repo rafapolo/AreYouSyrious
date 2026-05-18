@@ -1,19 +1,19 @@
 ---
-title: AYS 6/7: Hungarian police allowed to push back refugees behind the border fence
+title: "AYS 6/7: Hungarian police allowed to push back refugees behind the border fence"
 author: Are You Syrious?
 date: 2016-07-07T04:41:17.450+0100
 last_modified_at: 2016-07-07T09:36:21.864+0100
 categories: 
 tags: [refugees,europe,hungary,mazaraki-camp,greece]
-description: In today’s digest: Syrian military declares truce but airstrikes continue. Hungarian police allowed to push back refugees apprehended…
+description: "In today’s digest: Syrian military declares truce but airstrikes continue. Hungarian police allowed to push back refugees apprehended…"
 image:
-  path: assets/ee2afc593334/0*wyfqbblCexOmyy7e.
+  path: ../assets/ee2afc593334/0*wyfqbblCexOmyy7e.
 ---
 
 ### AYS 6/7: Hungarian police allowed to push back refugees behind the border fence
 
 
-![Kids in Ritsona camp, Greece\. Photo by Lighthouse Relief](assets/ee2afc593334/0*wyfqbblCexOmyy7e.)
+![Kids in Ritsona camp, Greece\. Photo by Lighthouse Relief](../assets/ee2afc593334/0*wyfqbblCexOmyy7e.)
 
 Kids in Ritsona camp, Greece\. Photo by Lighthouse Relief
 
@@ -27,15 +27,15 @@ The “regime of calm” is supposed to start at 01:00 on Wednesday \(22:00 GMT 
 Violet Syria launched a campaign from inside Syria, looking to stop airstrikes on civilian areas and residential places, at least during the end of Ramadan\.
 
 
-![](assets/ee2afc593334/0*n1QTuEyzjt-zp2Ge.)
+![](../assets/ee2afc593334/0*n1QTuEyzjt-zp2Ge.)
 
 
 
-![](assets/ee2afc593334/0*C07pJu9Ue6l3p_sE.)
+![](../assets/ee2afc593334/0*C07pJu9Ue6l3p_sE.)
 
 
 
-![](assets/ee2afc593334/0*9KDvDxwI2omilJtF.)
+![](../assets/ee2afc593334/0*9KDvDxwI2omilJtF.)
 
 ### 45 media activists killed in 2016
 
@@ -86,7 +86,7 @@ Other volunteering opportunities are still available throughout Greece, includin
 ### Donations needed for the Notara 26 squat
 
 
-![](assets/ee2afc593334/1*1kdAua73RF90K9vgQtiicg.png)
+![](../assets/ee2afc593334/1*1kdAua73RF90K9vgQtiicg.png)
 
 
 The Notara 26 squat provides shelter to refugees and needs donations\. Their address is Navarchou Notara 26, Athina 106 83
@@ -96,12 +96,12 @@ The Notara 26 squat provides shelter to refugees and needs donations\. Their add
 Since the Miksalište centre, the main distribution centre for refugees in Belgrade, closed its doors on the 2nd of July, other humanitarian organizations have been overwhelmed by the needs of refugees\. Miksalište will reopen tomorrow and will continue to provide its valuable help but the centre will only be open for families, women and children\.
 
 
-![Photo by Info Park](assets/ee2afc593334/0*XRZV6xBiG6ofvJi4.)
+![Photo by Info Park](../assets/ee2afc593334/0*XRZV6xBiG6ofvJi4.)
 
 Photo by Info Park
 
 
-![Photo by Info Park](assets/ee2afc593334/0*5_vl_kjl_orBVI5t.)
+![Photo by Info Park](../assets/ee2afc593334/0*5_vl_kjl_orBVI5t.)
 
 Photo by Info Park
 
@@ -122,7 +122,7 @@ Amnesty International also says that hundreds of asylum seekers, including famil
 IHO confirms similar conditions in Kelebija, in front of the Tompa transit zone, saying that volunteer support is limited by the police and people get the same food, bread and tuna, twice a day\. IHO says this place is “worse than Idomeni”, as there are “no NGOs, no offices of UNHCR, no medical assistance”, with one mobile medical team providing support for only 2 hours per week\. At least 300 people are stuck in Kelebija at the moment\.
 
 
-![Photo by “I’m Human Organization”](assets/ee2afc593334/0*pDss0DRaL7ODi8uh.)
+![Photo by “I’m Human Organization”](../assets/ee2afc593334/0*pDss0DRaL7ODi8uh.)
 
 Photo by “I’m Human Organization”
 #### Croatia
@@ -152,7 +152,7 @@ She says the decision to increase the number of refugees takes account of the sl
 It is telling that the relocation from Lebanon to Ireland is easier than from Greece or Italy\. Up to the 26th of June, only 1,849 refugees have been relocated from Greece through the EU relocation scheme\. Severaklcountries, including Portugal, have indicated their desire to relocate more refugees but have faced bureaucratic roadblocks along the way\.
 
 
-[![MEP Ana Gomes - Refugees and Relocation in Portugal](assets/ee2afc593334/6963_hqdefault.jpg "MEP Ana Gomes - Refugees and Relocation in Portugal")](http://www.youtube.com/watch?v=Q3QMkdF_aM8)
+[![MEP Ana Gomes - Refugees and Relocation in Portugal](../assets/ee2afc593334/6963_hqdefault.jpg "MEP Ana Gomes - Refugees and Relocation in Portugal")](http://www.youtube.com/watch?v=Q3QMkdF_aM8)
 
 
 More information about the relocation process is now available on [EASO’s website](https://www.easo.europa.eu/about-us/what-relocation/questions-and-answers-relocation) \.

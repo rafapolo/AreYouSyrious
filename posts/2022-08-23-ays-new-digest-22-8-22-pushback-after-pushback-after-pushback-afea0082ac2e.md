@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 22/8/22: Pushback after pushback after pushback…
+title: "AYS News Digest 22/8/22: Pushback after pushback after pushback…"
 author: Are You Syrious?
 date: 2022-08-23T10:39:18.803+0100
 last_modified_at: 2022-08-23T11:31:21.780+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,pushback,migration,borders]
 description: A reflection on the past year on the Polish-Belarusian border/Geo Barents have rescued 106 individuals in the Med/As many as 52% of…
 image:
-  path: assets/afea0082ac2e/0*PQWmhvNJyMlBlnNu
+  path: ../assets/afea0082ac2e/0*PQWmhvNJyMlBlnNu
 ---
 
 ### AYS News Digest 22/8/22: Pushback after pushback after pushback…
@@ -15,7 +15,7 @@ image:
 A reflection on the past year on the Polish\-Belarusian border/Geo Barents have rescued 106 individuals in the Med/As many as 52% of individuals from migrant backgrounds in Morocco do not have access to the COVID\-19 vaccine/Almost 6,200 individuals deported from Germany between January and June 2022/The UK Home Office is concerned about young asylum seekers lying about their age/Crisis at the Ter Apel centre in the Netherlands/And much more…
 
 
-![The mass gathering reached Syntagma and was blocked on the subway steps by MAT squads [\#antireport](https://twitter.com/hashtag/antireport?src=hashtag_click) , Source: thomas\-acht](assets/afea0082ac2e/0*PQWmhvNJyMlBlnNu)
+![The mass gathering reached Syntagma and was blocked on the subway steps by MAT squads [\#antireport](https://twitter.com/hashtag/antireport?src=hashtag_click) , Source: thomas\-acht](../assets/afea0082ac2e/0*PQWmhvNJyMlBlnNu)
 
 The mass gathering reached Syntagma and was blocked on the subway steps by MAT squads [\#antireport](https://twitter.com/hashtag/antireport?src=hashtag_click) , Source: thomas\-acht
 #### FEATURE
@@ -43,7 +43,7 @@ The systematic use of pushbacks suggest it is the preferred method of refoulemen
 AYS, among several other organisations, have regularly reported on pushbacks\. There have been several pushbacks reported on the Greek coast this last week\. For instance, [The Aegean Boat Report](https://aegeanboatreport.com/2022/08/20/just-another-pushback/?fbclid=IwAR2YevtxogYC5_Nz5L3ac7Kb1R61p8kzJkRPN4ROYO3BwKvznB8ApWuZmG0) wrote of a group of nine individuals who reached Leros on 15th August, and were in hiding\. Contact was lost before any assistance was provided, and on 16th August a boat was found drifting in the Aegean\. The Turkish authorities rescued the boat, and the Aegean Boat Report has identified this was the same group who had reached Leros and were pushed back\.
 
 
-![Source: Aegean Boat Report, ‘Just Another Pushback’](assets/afea0082ac2e/0*JfIKrQbOtD_vgOHf)
+![Source: Aegean Boat Report, ‘Just Another Pushback’](../assets/afea0082ac2e/0*JfIKrQbOtD_vgOHf)
 
 Source: Aegean Boat Report, ‘Just Another Pushback’
 
@@ -107,7 +107,7 @@ It is also very important to note pushbacks are not unique to Greece\. This ille
 Large, international organisations stated they were not able to enter the border zone without an invitation from the Polish government\. Other organisations didn’t seem to make enough effort to fight the political obstacles that prevented them from entering the border zone\.
 
 
-![Photo Monika Bryk, Source: Krytyka Polityczna 20/8/22](assets/afea0082ac2e/0*E8O9qtk-GIV42O7B)
+![Photo Monika Bryk, Source: Krytyka Polityczna 20/8/22](../assets/afea0082ac2e/0*E8O9qtk-GIV42O7B)
 
 Photo Monika Bryk, Source: Krytyka Polityczna 20/8/22
 
@@ -229,7 +229,7 @@ The boat had been adrift for five days after leaving Turkey for Europe\. Within 
 Within this group, one individual needed to be evacuated due to a medical emergency\.
 
 
-![Source: InfoMigrants, 22/8/22](assets/afea0082ac2e/0*JmolwH47rwRpi7YW)
+![Source: InfoMigrants, 22/8/22](../assets/afea0082ac2e/0*JmolwH47rwRpi7YW)
 
 Source: InfoMigrants, 22/8/22
 #### MOROCCO
@@ -269,7 +269,7 @@ Many young people desperately try to reach the European enclaves by swimming. We
 The main three countries were North Macedonia, Albania and Georgia, while 230 individuals were deported to Turkey\.
 
 
-![_Baggage of rejected asylum seekers at Leipzig\-Halle Airport © Michael Kappeler/​dpa Source: Zeit Online_](assets/afea0082ac2e/0*Vv1ImZ5zpWHzD0LS)
+![_Baggage of rejected asylum seekers at Leipzig\-Halle Airport © Michael Kappeler/​dpa Source: Zeit Online_](../assets/afea0082ac2e/0*Vv1ImZ5zpWHzD0LS)
 
 _Baggage of rejected asylum seekers at Leipzig\-Halle Airport © Michael Kappeler/​dpa Source: Zeit Online_
 

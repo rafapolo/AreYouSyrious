@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Rhodes—A forgotten place
+title: "AYS SPECIAL: Rhodes—A forgotten place"
 author: Are You Syrious?
 date: 2017-08-10T14:03:26.090+0100
 last_modified_at: 2018-03-01T14:08:27.043+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [rhode-island,rhodos,refugees,greece,special]
 description: Are You Syrious? received the report from the island of Rhodes written by one of the refugees living in the camp. Due to lot of…
 image:
-  path: assets/52e65d3fe576/1*lZ2xMn7JesBDf1DeE0zrtg.jpeg
+  path: ../assets/52e65d3fe576/1*lZ2xMn7JesBDf1DeE0zrtg.jpeg
 ---
 
 ### AYS SPECIAL: Rhodes—A forgotten place
@@ -15,14 +15,14 @@ image:
 _Are You Syrious? received the report from the island of Rhodes written by one of the refugees living in the camp\. Due to lot of difficulties people are facing every day, we agreed to protect the identity of the person who wrote the report and made the photos and images\. A transcript of the report in Arabic follows the English version below\._
 
 
-![](assets/52e65d3fe576/1*lZ2xMn7JesBDf1DeE0zrtg.jpeg)
+![](../assets/52e65d3fe576/1*lZ2xMn7JesBDf1DeE0zrtg.jpeg)
 
 
 Rhodes Island is a Greek island about 18 kilometers from the \. 
 nearest point on the Turkish coast \(Marmaris\) \. This distance is greater than the distance between the Turkish coast and the island of Chios, for example\.
 
 
-![](assets/52e65d3fe576/1*YLFNOzG0XBaNZ_emZuFf9Q.jpeg)
+![](../assets/52e65d3fe576/1*YLFNOzG0XBaNZ_emZuFf9Q.jpeg)
 
 
 At the island of Rhodes, in the northern part, and in front of the Turkish coasts, there is a camp in the building complex that was previously used as a slaughterhouse for pigs\. The tools of the slaughterhouse of meat hangers are still in the camp\.
@@ -30,13 +30,13 @@ At the island of Rhodes, in the northern part, and in front of the Turkish coast
 The camp area is about 1500 square kilometers and the back side of the camp is located directly on the island coast\.
 
 
-![](assets/52e65d3fe576/1*vU9Q0IZz-_J6bCqmoiD8NA.jpeg)
+![](../assets/52e65d3fe576/1*vU9Q0IZz-_J6bCqmoiD8NA.jpeg)
 
 
 Most people living in the camp are unmarried young people, but there are also some families with children who arrived to the island recently and will be there until transferred to other places\. Between 60 and 70 people live in the camp\.
 
 
-![](assets/52e65d3fe576/1*_MHdj7OoQdC4pG9Zxl9VOg.jpeg)
+![](../assets/52e65d3fe576/1*_MHdj7OoQdC4pG9Zxl9VOg.jpeg)
 
 
 The refugees remain on the island until the processing of the asylum application is completed\. They then receive a blue stamp on the asylum papers to leave the island to Athens or another Greek city on the Greek mainland\.
@@ -49,39 +49,39 @@ The United Nations refugee agency gives 90 euros per refugee per month
 This camp is not closed\. Meaning that refugees can freely walk around the island\.
 
 
-![Refugees in the camp cook for them selves, and food is provided by the local people\.](assets/52e65d3fe576/1*T41rIgPmtB_c9xPGNQSQEQ.jpeg)
+![Refugees in the camp cook for them selves, and food is provided by the local people\.](../assets/52e65d3fe576/1*T41rIgPmtB_c9xPGNQSQEQ.jpeg)
 
 Refugees in the camp cook for them selves, and food is provided by the local people\.
 
 
-![](assets/52e65d3fe576/1*Czst-n6hrpHLDkbt_4bR6Q.jpeg)
+![](../assets/52e65d3fe576/1*Czst-n6hrpHLDkbt_4bR6Q.jpeg)
 
 
 
-![](assets/52e65d3fe576/1*8TPxUbXu-kk-YKh0_Xjfyg.jpeg)
+![](../assets/52e65d3fe576/1*8TPxUbXu-kk-YKh0_Xjfyg.jpeg)
 
 
 
-![](assets/52e65d3fe576/1*ygPreNzs0nYYTbwbYlmWrw.jpeg)
+![](../assets/52e65d3fe576/1*ygPreNzs0nYYTbwbYlmWrw.jpeg)
 
 
 
-![Inside of the camp where man sleep\.](assets/52e65d3fe576/1*K_-mlpf4X2Y4MBFXhko8zw.jpeg)
+![Inside of the camp where man sleep\.](../assets/52e65d3fe576/1*K_-mlpf4X2Y4MBFXhko8zw.jpeg)
 
 Inside of the camp where man sleep\.
 
 
-![Some people sleep outside during hot summer nights\.](assets/52e65d3fe576/1*3gGZ8J3XMCOHJZJBJJjQDA.jpeg)
+![Some people sleep outside during hot summer nights\.](../assets/52e65d3fe576/1*3gGZ8J3XMCOHJZJBJJjQDA.jpeg)
 
 Some people sleep outside during hot summer nights\.
 
 
-![The windows are broken and in the winter refugees have to put wood to protect themselves from wind\.](assets/52e65d3fe576/1*qPTgXwBwHxXIbSAVPx-Ncg.jpeg)
+![The windows are broken and in the winter refugees have to put wood to protect themselves from wind\.](../assets/52e65d3fe576/1*qPTgXwBwHxXIbSAVPx-Ncg.jpeg)
 
 The windows are broken and in the winter refugees have to put wood to protect themselves from wind\.
 
 
-![Toilets for women\.](assets/52e65d3fe576/1*CUmhcmAv_yvecyLqJlPdBg.jpeg)
+![Toilets for women\.](../assets/52e65d3fe576/1*CUmhcmAv_yvecyLqJlPdBg.jpeg)
 
 Toilets for women\.
 

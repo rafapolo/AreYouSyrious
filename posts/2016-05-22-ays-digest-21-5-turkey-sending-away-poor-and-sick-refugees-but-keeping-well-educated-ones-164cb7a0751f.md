@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,migration]
 description: Turkey is sending away poor and sick refugees but keeping well educated ones; children are being forced to work in factories. Refugee…
 image:
-  path: assets/164cb7a0751f/1*px2vyzsUpaJHhC-nYMpJ-g.jpeg
+  path: ../assets/164cb7a0751f/1*px2vyzsUpaJHhC-nYMpJ-g.jpeg
 ---
 
 ### AYS DAILY DIGEST 21\.5\.2016
 #### Turkey is sending away poor and sick refugees but keeping well educated ones; children are being forced to work in factories\. Refugee families evicted from their homes in Istanbul ahead of World Humanitarian Summit\. Translators and law experts still urgently needed on Chios\. Asylum seekers disappearing from Bulgaria and Macedonia in huge numbers\. Refugees dying in desperate attempts to reach UK\. After getting the asylum in England, 80% of them end up being homeless\.
 
 
-![Morad \(11\) and Hassan \(14\), both from Aleppo, forced to work in Turkish factories to support their refugee families; PHOTO: Cigdem Yuksel for de Volkskrant](assets/164cb7a0751f/1*px2vyzsUpaJHhC-nYMpJ-g.jpeg)
+![Morad \(11\) and Hassan \(14\), both from Aleppo, forced to work in Turkish factories to support their refugee families; PHOTO: Cigdem Yuksel for de Volkskrant](../assets/164cb7a0751f/1*px2vyzsUpaJHhC-nYMpJ-g.jpeg)
 
 Morad \(11\) and Hassan \(14\), both from Aleppo, forced to work in Turkish factories to support their refugee families; PHOTO: Cigdem Yuksel for de Volkskrant
 #### TURKEY
@@ -46,7 +46,7 @@ Turkish volunteer initiatives and NGO’s held a press conference today, warning
 
 
 
-![Eviction of Syrian families from Tarlabaşı neighbourhood on 10th of May: PHOTO: Ülkücü Medya](assets/164cb7a0751f/1*6zwpDwl90PLr4Xml_VwKgA.jpeg)
+![Eviction of Syrian families from Tarlabaşı neighbourhood on 10th of May: PHOTO: Ülkücü Medya](../assets/164cb7a0751f/1*6zwpDwl90PLr4Xml_VwKgA.jpeg)
 
 Eviction of Syrian families from Tarlabaşı neighbourhood on 10th of May: PHOTO: Ülkücü Medya
 
@@ -56,7 +56,7 @@ One such incident occured on 10th of May, Tuesday at 6\.00 in the morning, when 
 German media [has reported](http://www.dw.com/en/turkey-refuses-eu-travel-to-highly-skilled-syrian-refugees-report/a-19274693?maca=en-rss-en-all-1573-rdf) that Ankara is banning Syrian academics from leaving Turkey, while sending mostly uneducated, sick and poor people to EU countries\. According to information from Germany, the Netherlands and Luxembourg, Turkish authorities have repeatedly withdrawn permits which had already been granted, because the refugees had been found to be well\-trained engineers, doctors or skilled workers\. Top EU officials have expressed anger at Turkey’s selective approach to sending Syrian refugees to Europe, according to Spiegel magazine\. They insist that most refugees coming from Turkey under the “one in, one out” deal are people with severe illnesses and a low educational background, stressing that it is Turkish officials who are exclusively in charge of selecting candidates for leaving for the EU\.
 
 
-![Presenting the EU\-Turkey deal two months ago: Did they really think it was going to work? PHOTO: New Europe](assets/164cb7a0751f/1*JZSviZTlJh7pTCzhmF5Lng.jpeg)
+![Presenting the EU\-Turkey deal two months ago: Did they really think it was going to work? PHOTO: New Europe](../assets/164cb7a0751f/1*JZSviZTlJh7pTCzhmF5Lng.jpeg)
 
 Presenting the EU\-Turkey deal two months ago: Did they really think it was going to work? PHOTO: New Europe
 
@@ -70,7 +70,7 @@ Situation on the overcrowded island is still very bad due to mistreatment of the
 ### Little refugees of Lesvos learning to swim, equipment needed for swimming lessons
 
 
-![Kids learning how to swim with Lifeguard Hellas Save & Rescue Team; PHOTO: Bikof Mania\-Maria](assets/164cb7a0751f/1*5VPVUW-yfAO2NlwdgCjUog.jpeg)
+![Kids learning how to swim with Lifeguard Hellas Save & Rescue Team; PHOTO: Bikof Mania\-Maria](../assets/164cb7a0751f/1*5VPVUW-yfAO2NlwdgCjUog.jpeg)
 
 Kids learning how to swim with Lifeguard Hellas Save & Rescue Team; PHOTO: Bikof Mania\-Maria
 
@@ -80,7 +80,7 @@ Lifeguard Hellas Save & Rescue Team is running the “Swim safe — love the sea
 Refugees in Northern Greece are heavily affected by the rain that has been pouring since yesterday\. Conditions are especially bad in the makeshift camp in Idomeni, where 9,007 refugees are still residing, many sleeping in tents that are not suited for heavy rain and low temperatures\.
 
 
-![Idomeni is covered in mud once again after heavy rain that pored since yesterday; PHOTO: Refugees\.tv](assets/164cb7a0751f/1*m-gHzJWWlq7MzIEfyLYDQg.jpeg)
+![Idomeni is covered in mud once again after heavy rain that pored since yesterday; PHOTO: Refugees\.tv](../assets/164cb7a0751f/1*m-gHzJWWlq7MzIEfyLYDQg.jpeg)
 
 Idomeni is covered in mud once again after heavy rain that pored since yesterday; PHOTO: Refugees\.tv
 #### BULGARIA
@@ -93,7 +93,7 @@ So far, 5305 applications for asylum were submitted in Bulgaria until April 2016
 With many people seeking unofficial ways to continue their trip towards western EU countries, the number of refugees is decreasing in both Gevgelija and Tabanovce camps\. There are around 300 refugees left in Macedonia, out of 1,400 that were stuck there after the border closure\. Legis is one of the teams providing constant support to the refugees\. Today they have distributed a lot of warm tea to fight the rain and cold\. Days seem to be very slow for the refugees who are still stuck in Macedonia\. Once full tents are now being transformed into small sports arenas and makeshift cinemas to fight boredom\.
 
 
-![Children watching cartoons in a makeshift cinema in Tabanovce camp; PHOTO: Legis](assets/164cb7a0751f/1*eFIDLeckGdhjKwpvrfo8lw.jpeg)
+![Children watching cartoons in a makeshift cinema in Tabanovce camp; PHOTO: Legis](../assets/164cb7a0751f/1*eFIDLeckGdhjKwpvrfo8lw.jpeg)
 
 Children watching cartoons in a makeshift cinema in Tabanovce camp; PHOTO: Legis
 #### ITALY

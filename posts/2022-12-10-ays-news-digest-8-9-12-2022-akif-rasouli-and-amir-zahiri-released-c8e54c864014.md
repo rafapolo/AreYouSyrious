@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 8–9/12/2022: Akif Rasouli and Amir Zahiri Released!
+title: "AYS News Digest 8–9/12/2022: Akif Rasouli and Amir Zahiri Released!"
 author: Are You Syrious?
 date: 2022-12-10T12:24:48.244+0000
 last_modified_at: 2022-12-10T20:21:44.029+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,greece,police-brutality,libya]
 description: 53 People at risk in Atlantic // Evacuations from Geo Barents // Iuventa to be Restored // Police Violence in Greece and much more…
 image:
-  path: assets/c8e54c864014/1*tiCByrnJuY9HlNtorQeo-A.jpeg
+  path: ../assets/c8e54c864014/1*tiCByrnJuY9HlNtorQeo-A.jpeg
 ---
 
 ### AYS News Digest 8–9/12/2022: Akif Rasouli and Amir Zahiri Released\!
@@ -15,15 +15,15 @@ image:
 #### FEATURE: Akif Rasouli and Amir Zahiri Released\!
 
 
-![](assets/c8e54c864014/1*tiCByrnJuY9HlNtorQeo-A.jpeg)
+![](../assets/c8e54c864014/1*tiCByrnJuY9HlNtorQeo-A.jpeg)
 
 
 
-![](assets/c8e54c864014/1*a1jfC9TbARSqd8adi98dJg.jpeg)
+![](../assets/c8e54c864014/1*a1jfC9TbARSqd8adi98dJg.jpeg)
 
 
 
-![\(Photo Credit: [Iasonas Apostolopoulos](https://www.facebook.com/iasonas.apos?__cft__[0]=AZU6qvPU1ofR4aDRDKyCIRCoXaz1P_UgmcZ8-0iEHQ-DLlYNkm9otBPtAnFx3kPSomyzQbDjwueIU0M09qzvc831lnl4QE5-42ci-gRRODMsoeBMJVeldFj70VUPTZ2KkHaGUICH5TykMbMbw2GZZbDi-x1pu5dcEV0pb5RRX3EjaJUg4_73R0HU6uwdjdftoLI&__tn__=-]C%2CP-R) \)](assets/c8e54c864014/1*sl-OTKb-AL2ivSFfcvqupg.jpeg)
+![\(Photo Credit: [Iasonas Apostolopoulos](https://www.facebook.com/iasonas.apos?__cft__[0]=AZU6qvPU1ofR4aDRDKyCIRCoXaz1P_UgmcZ8-0iEHQ-DLlYNkm9otBPtAnFx3kPSomyzQbDjwueIU0M09qzvc831lnl4QE5-42ci-gRRODMsoeBMJVeldFj70VUPTZ2KkHaGUICH5TykMbMbw2GZZbDi-x1pu5dcEV0pb5RRX3EjaJUg4_73R0HU6uwdjdftoLI&__tn__=-]C%2CP-R) \)](../assets/c8e54c864014/1*sl-OTKb-AL2ivSFfcvqupg.jpeg)
 
 \(Photo Credit: [Iasonas Apostolopoulos](https://www.facebook.com/iasonas.apos?__cft__[0]=AZU6qvPU1ofR4aDRDKyCIRCoXaz1P_UgmcZ8-0iEHQ-DLlYNkm9otBPtAnFx3kPSomyzQbDjwueIU0M09qzvc831lnl4QE5-42ci-gRRODMsoeBMJVeldFj70VUPTZ2KkHaGUICH5TykMbMbw2GZZbDi-x1pu5dcEV0pb5RRX3EjaJUg4_73R0HU6uwdjdftoLI&__tn__=-]C%2CP-R) \)
 
@@ -61,7 +61,7 @@ This sentence was handed down after they were accused of trafficking by the port
 
 
 
-![](assets/c8e54c864014/1*Dxzk-EGhNdguLIO85AxsWw.jpeg)
+![](../assets/c8e54c864014/1*Dxzk-EGhNdguLIO85AxsWw.jpeg)
 
 
 Other cases of criminalization are still ongoing\. [On Monday 5th December, the Pieter Wittenberg trial was held in relation to the ERCI case](https://www.facebook.com/HIASGreece/posts/pfbid02wFjVo1Ki72K6HVcxqXWx251KfGbmNVJPJx7W3rCJktajBQYc1GEwMXr6Abd7Ey87l) which has numerous defendants including [Sara Mardini](https://www.aljazeera.com/news/2021/11/17/activists-in-greece-face-charges-for-assisting-incoming-refugees) \. The charges include human smuggling and financial crimes\. The investigation began in 2018 and is still ongoing, with the usual absence of evidence, dubious claims and a lack of witnesses\. These cases seem designed to break the spirits of people on the move and those who work alongside them in solidarity, and yet people continue to struggle and fight for a fairer world of equality of movement across borders\.
@@ -91,11 +91,11 @@ The Court on Trapani has ruled that extensive maintenance work must be carried o
 In a week which saw the [commemoration of the murder of 15\-year\-old Alexandros Grigoropoulos](https://thepressproject.gr/the-murder-of-alexandros-grigoropoulos/) by the police and [during which the police shot another unarmed 16\-year\-old, Kostas Fragoulis, in the head](https://racistcrimeswatch.wordpress.com/2022/12/06/1-1397/) , No Name Kitchen have been collecting testimonies about police violence against people on the move in Patras\.
 
 
-![](assets/c8e54c864014/1*KCO1Z74EG42Gkj4DC6t_7A.png)
+![](../assets/c8e54c864014/1*KCO1Z74EG42Gkj4DC6t_7A.png)
 
 
 
-![\(Photo Credit: [NoNameKitchen](https://twitter.com/NoNameKitchen1) \)](assets/c8e54c864014/1*5GXyWCHnAFpmbwPt1l9O6g.jpeg)
+![\(Photo Credit: [NoNameKitchen](https://twitter.com/NoNameKitchen1) \)](../assets/c8e54c864014/1*5GXyWCHnAFpmbwPt1l9O6g.jpeg)
 
 \(Photo Credit: [NoNameKitchen](https://twitter.com/NoNameKitchen1) \)
 #### People trapped on Evros islet
@@ -131,7 +131,7 @@ A shot rings out; Abdullah falls to the ground https://t.co/0XBZUSy5WD
 #### Protest in Geneva
 
 
-![\(Photo Credit: [Chiara Lauvergnac](https://twitter.com/Lauvergnac) \)](assets/c8e54c864014/1*FBHTaEi5A_L39cypuGIpYQ.jpeg)
+![\(Photo Credit: [Chiara Lauvergnac](https://twitter.com/Lauvergnac) \)](../assets/c8e54c864014/1*FBHTaEi5A_L39cypuGIpYQ.jpeg)
 
 \(Photo Credit: [Chiara Lauvergnac](https://twitter.com/Lauvergnac) \)
 

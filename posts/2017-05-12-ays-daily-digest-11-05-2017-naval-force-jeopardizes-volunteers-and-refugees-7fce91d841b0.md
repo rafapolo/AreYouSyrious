@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 11/05/2017: Naval force jeopardizes volunteers and refugees
+title: "AYS Daily Digest 11/05/2017: Naval force jeopardizes volunteers and refugees"
 author: Are You Syrious?
 date: 2017-05-12T01:36:53.603+0100
 last_modified_at: 2017-05-12T07:00:45.181+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,sea-watch,deportations,belgrade]
 description: Lybian navy puts Sea-Watch crew and guests at risk. Miserable conditions for people stuck on Chios and new deportations taking place…
 image:
-  path: assets/7fce91d841b0/1*7YjyvGwsnjiJct5tOTbAeA.jpeg
+  path: ../assets/7fce91d841b0/1*7YjyvGwsnjiJct5tOTbAeA.jpeg
 ---
 
 ### AYS Daily Digest 11/05/2017: Naval force jeopardizes volunteers and refugees
@@ -15,7 +15,7 @@ image:
 _Lybian navy puts Sea\-Watch crew and guests at risk\. Miserable conditions for people stuck on Chios and new deportations taking place\. Barracks in Belgrade demolished\. Germany sees increase of Turkish asylum seekers\. Frightening reports from Italy\. Support needed in Calais and Paris\._
 
 
-![Footage of the incident\. Screenshot: [Sea\-Watch Video](https://www.facebook.com/seawatchprojekt/videos/1865822903635782/) , Credits: Raoul Kopacka](assets/7fce91d841b0/1*7YjyvGwsnjiJct5tOTbAeA.jpeg)
+![Footage of the incident\. Screenshot: [Sea\-Watch Video](https://www.facebook.com/seawatchprojekt/videos/1865822903635782/) , Credits: Raoul Kopacka](../assets/7fce91d841b0/1*7YjyvGwsnjiJct5tOTbAeA.jpeg)
 
 Footage of the incident\. Screenshot: [Sea\-Watch Video](https://www.facebook.com/seawatchprojekt/videos/1865822903635782/) , Credits: Raoul Kopacka
 ### Feature
@@ -126,7 +126,7 @@ While it was reported that the eviction of the barracks in Belgrade will be done
 The government threatened anyone without papers with arrest and deportation\. While it seems, that the eviction was mostly peaceful but chaotic, also some cases of violence —including the use of insecticide in the beginning — were reported\. Nevertheless it is feared, that new makeshift camps will be set\-up in future as the people are receiving insufficent support in the official sites\. Several groups announced, that they will be prepared to respond the new situation\.
 
 
-![The barracks are demolished\. Credits: [BelgrAid](https://www.facebook.com/belgraid/posts/1891930881053924)](assets/7fce91d841b0/1*izZUtRwUCLS_g0S5eoQckw.jpeg)
+![The barracks are demolished\. Credits: [BelgrAid](https://www.facebook.com/belgraid/posts/1891930881053924)](../assets/7fce91d841b0/1*izZUtRwUCLS_g0S5eoQckw.jpeg)
 
 The barracks are demolished\. Credits: [BelgrAid](https://www.facebook.com/belgraid/posts/1891930881053924)
 
@@ -135,7 +135,7 @@ People, who now want to move to official camps, can get in touch with [Info Park
 For the ones in and around Belgrade, who want to increase their Serbian language skills, Refugee Aid Miksalište provides courses on Monday, Tuesday, Thursday and Friday at 5 pm\.
 
 
-![Language course in Belgrade\. Credits: [Refugee Aid Miksalište](https://www.facebook.com/RefugeeAidMiksaliste/posts/1876372662629349)](assets/7fce91d841b0/1*766RP2XP-uO7GzPTYic-WA.jpeg)
+![Language course in Belgrade\. Credits: [Refugee Aid Miksalište](https://www.facebook.com/RefugeeAidMiksaliste/posts/1876372662629349)](../assets/7fce91d841b0/1*766RP2XP-uO7GzPTYic-WA.jpeg)
 
 Language course in Belgrade\. Credits: [Refugee Aid Miksalište](https://www.facebook.com/RefugeeAidMiksaliste/posts/1876372662629349)
 ### Germany
@@ -153,7 +153,7 @@ For each of the 50 hosted people the Red Cross received 35 Euros per day to shel
 In Rome Around 120 refugees sleeps in tents on old parking slot in Via Spinelli\. Most of them are men\. Women and children have the right to sleep in centers, but only at night – in the morning they have to leave the facilities and come back here\. The place shown in the pictures is the new Baobab place after more than 10 evictions\. During some of them all their belongings of the people, including tents, were taken\. There is no electricity and there are no toilets\. It’s up to volunteers to at least provide water in canisters\.
 
 
-![The new Baobab place in Rome\. Credits: AYS volunteer](assets/7fce91d841b0/1*zsjwFff91ZiAblBV6QHAQQ.jpeg)
+![The new Baobab place in Rome\. Credits: AYS volunteer](../assets/7fce91d841b0/1*zsjwFff91ZiAblBV6QHAQQ.jpeg)
 
 The new Baobab place in Rome\. Credits: AYS volunteer
 ### France
@@ -163,7 +163,7 @@ Help Refugees [reports](https://www.facebook.com/HelpRefugeesUK/photos/a.1232676
 After the eviction of Paris in the beginning of the week they are expecting more arrivals and request thick blankets, sleeping bags and size 41,42,43 trainers\. If you can contribute, please contact calaisdonations@gmail\.com or visit their [fundraiser](https://mydonate.bt.com/fundraisers/calaisdunkirk-refugee-support) \.
 
 
-![Volunteers distributing goods in Calais\. Credits: [Help Refugees](https://www.facebook.com/HelpRefugeesUK/photos/a.123267671367248.1073741830.111893659171316/427969517563727/?type=3)](assets/7fce91d841b0/1*aCcCd-fKwAOSsyy6wCMoDw.jpeg)
+![Volunteers distributing goods in Calais\. Credits: [Help Refugees](https://www.facebook.com/HelpRefugeesUK/photos/a.123267671367248.1073741830.111893659171316/427969517563727/?type=3)](../assets/7fce91d841b0/1*aCcCd-fKwAOSsyy6wCMoDw.jpeg)
 
 Volunteers distributing goods in Calais\. Credits: [Help Refugees](https://www.facebook.com/HelpRefugeesUK/photos/a.123267671367248.1073741830.111893659171316/427969517563727/?type=3)
 
@@ -172,7 +172,7 @@ Also in Paris volunteers are in need of support\. Some people were still left on
 More volunteers are needed to sort and dress the women and children on Friday and Saturday to dress the men\. Is note by SMS to 0603027372\. you will find all the information and the complete list of emergency room\. Donations can be dropped on Fridays from 15 pm to 19 pm and Saturdays from 9 pm to 16 pm\.
 
 
-![Impressions from the eviction\. Credits: [Care4Calais](https://www.facebook.com/care4calais/photos/pcb.1537541399612145/1537535462946072/?type=3&theater)](assets/7fce91d841b0/1*PuSQnRw-rpr958tfZcCzog.jpeg)
+![Impressions from the eviction\. Credits: [Care4Calais](https://www.facebook.com/care4calais/photos/pcb.1537541399612145/1537535462946072/?type=3&theater)](../assets/7fce91d841b0/1*PuSQnRw-rpr958tfZcCzog.jpeg)
 
 Impressions from the eviction\. Credits: [Care4Calais](https://www.facebook.com/care4calais/photos/pcb.1537541399612145/1537535462946072/?type=3&theater)
 ### Sweden
@@ -189,7 +189,7 @@ In 2016 some 63 000 unaccompanied minors have been registered in the EU\. More t
 “Action on Armed Violence” [researched](https://aoav.org.uk/wp-content/uploads/2017/03/The-Refugee-Explosion.pdf) , what kind of violence people seeking refuge in Europe experienced in their countries\.
 
 
-![Key findings of AOAV\. Credits: Action on Armes Violence](assets/7fce91d841b0/1*WIyu9F1ss-yH8k7FF5wwmQ.jpeg)
+![Key findings of AOAV\. Credits: Action on Armes Violence](../assets/7fce91d841b0/1*WIyu9F1ss-yH8k7FF5wwmQ.jpeg)
 
 Key findings of AOAV\. Credits: Action on Armes Violence
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 18/08/20: Why women are hit even harder by the lockdown
+title: "AYS Daily Digest 18/08/20: Why women are hit even harder by the lockdown"
 author: Are You Syrious?
 date: 2020-08-19T09:22:57.550+0100
 last_modified_at: 2020-08-19T16:51:51.030+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,greec,women,covid-19]
 description: Report highlights the strugges of female people on the run during the pandemic // Arrivals in Greece, Italy and UK increase // UNHCR warns…
 image:
-  path: assets/3c85c782fd7a/1*6Rgfjuh1AjW_j9M3TRVq9w.jpeg
+  path: ../assets/3c85c782fd7a/1*6Rgfjuh1AjW_j9M3TRVq9w.jpeg
 ---
 
 ### AYS Daily Digest 18/08/20: Why women are hit even harder by the lockdown
 #### Report highlights the struggles of women on the move during the pandemic // Arrivals in Greece, Italy and UK increase // UNHCR warns that 1 million displaced people in Burkina Faso lack of support
 
 
-![Due to the lockdown in Greek camps, women became even more vulnerable\. Credits: Thomas Andre Syvertsen/ Norwegian Red Cross \(via [Flickr](https://www.flickr.com/photos/ifrc/21019934472/in/photolist-y2sEcj-y41rVe-x6suWk-xKHzku-xKJtgb-y126jA-y128uY-FfjSB4-T7mpBb-y3kCX6-x6jg5u-y12bJd-xKQhB4-y128Mm-y3kEHF-x6ssXk-x6jjPJ-xKJFaS-y3kzjp-y129su-xKQjSM-xKHFib-x6jkb5-EkytoQ-x6jmGS-D1Wuv4-Ffju48-EhPWEa-F4D14W-Ffk6d6-xKJEAL-EMKbfE-EMKCMh-F4D6c1-EhWLTH-H3zxmT-ABLaSy-zxjyRe-EhBkMQ-EMJM8s-FfjBC6-EhWzFn-F4CHB7-HjGRK8-F6UQQF-Ffiku6-McVLeU-EMJQNy-PUyi2z-23REra1) \)](assets/3c85c782fd7a/1*6Rgfjuh1AjW_j9M3TRVq9w.jpeg)
+![Due to the lockdown in Greek camps, women became even more vulnerable\. Credits: Thomas Andre Syvertsen/ Norwegian Red Cross \(via [Flickr](https://www.flickr.com/photos/ifrc/21019934472/in/photolist-y2sEcj-y41rVe-x6suWk-xKHzku-xKJtgb-y126jA-y128uY-FfjSB4-T7mpBb-y3kCX6-x6jg5u-y12bJd-xKQhB4-y128Mm-y3kEHF-x6ssXk-x6jjPJ-xKJFaS-y3kzjp-y129su-xKQjSM-xKHFib-x6jkb5-EkytoQ-x6jmGS-D1Wuv4-Ffju48-EhPWEa-F4D14W-Ffk6d6-xKJEAL-EMKbfE-EMKCMh-F4D6c1-EhWLTH-H3zxmT-ABLaSy-zxjyRe-EhBkMQ-EMJM8s-FfjBC6-EhWzFn-F4CHB7-HjGRK8-F6UQQF-Ffiku6-McVLeU-EMJQNy-PUyi2z-23REra1) \)](../assets/3c85c782fd7a/1*6Rgfjuh1AjW_j9M3TRVq9w.jpeg)
 
 Due to the lockdown in Greek camps, women became even more vulnerable\. Credits: Thomas Andre Syvertsen/ Norwegian Red Cross \(via [Flickr](https://www.flickr.com/photos/ifrc/21019934472/in/photolist-y2sEcj-y41rVe-x6suWk-xKHzku-xKJtgb-y126jA-y128uY-FfjSB4-T7mpBb-y3kCX6-x6jg5u-y12bJd-xKQhB4-y128Mm-y3kEHF-x6ssXk-x6jjPJ-xKJFaS-y3kzjp-y129su-xKQjSM-xKHFib-x6jkb5-EkytoQ-x6jmGS-D1Wuv4-Ffju48-EhPWEa-F4D14W-Ffk6d6-xKJEAL-EMKbfE-EMKCMh-F4D6c1-EhWLTH-H3zxmT-ABLaSy-zxjyRe-EhBkMQ-EMJM8s-FfjBC6-EhWzFn-F4CHB7-HjGRK8-F6UQQF-Ffiku6-McVLeU-EMJQNy-PUyi2z-23REra1) \)
 

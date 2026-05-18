@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Newsletter 18/06/20: 328 people were deported back to Libya
+title: "AYS Daily Newsletter 18/06/20: 328 people were deported back to Libya"
 author: Are You Syrious?
 date: 2020-06-19T20:37:42.463+0100
 last_modified_at: 2020-06-19T20:37:42.463+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: []
 description: Autonomous landings, rescue operations, and pushbacks in the Mediterranean Sea // Reports on Greek pushback tactics // Greek president…
 image:
-  path: assets/e38bd3dea555/0*fybsZXLur_e4QeTy.jpeg
+  path: ../assets/e38bd3dea555/0*fybsZXLur_e4QeTy.jpeg
 ---
 
 ### AYS Daily Newsletter 18/06/20: 328 people were deported back to Libya
 ### Autonomous landings, rescue operations, and pushbacks in the Mediterranean Sea // Reports on Greek pushback tactics // Greek president visits shelter for unaccompanied minors // Pushback from Italy to Greece // 80 million people displaced, highest number ever
 
 
-![](assets/e38bd3dea555/0*fybsZXLur_e4QeTy.jpeg)
+![](../assets/e38bd3dea555/0*fybsZXLur_e4QeTy.jpeg)
 
 
 Copyright: Sea Watch International

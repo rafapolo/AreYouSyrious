@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 17/02/18: Children denied school on the Greek islands
+title: "AYS Daily Digest 17/02/18: Children denied school on the Greek islands"
 author: Are You Syrious?
 date: 2018-02-18T03:51:26.465+0000
 last_modified_at: 2018-03-01T13:29:36.354+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,aegean,turkey,germany,digest]
 description: Seven die in river crossing//TCG intercepts boat//Sea rescues//Guide for refugees in Bulgaria//New arrivals and donation needs in…
 image:
-  path: assets/17c148c899ff/1*6sscDfm59Kk7aqKmyjIqjg.jpeg
+  path: ../assets/17c148c899ff/1*6sscDfm59Kk7aqKmyjIqjg.jpeg
 ---
 
 ### AYS Daily Digest 17/02/18: Children denied school on the Greek islands
@@ -15,7 +15,7 @@ image:
 _Seven die in river crossing//TCG intercepts boat//Sea rescues//Guide for refugees in Bulgaria//New arrivals and donation needs in Paris//March against deportations in Hamburg//and more…_
 
 
-![Photo Credit: [Refugees Welcome International](https://www.facebook.com/refugeeswelcomeinternational/?hc_ref=ARRObqVkd_2NXUQwJ9i1WR-Qy0EsWW_7ndmZBDj0TNYmC4X_GhaoyQaupxMLojrg6a8&fref=nf&hc_location=group)](assets/17c148c899ff/1*6sscDfm59Kk7aqKmyjIqjg.jpeg)
+![Photo Credit: [Refugees Welcome International](https://www.facebook.com/refugeeswelcomeinternational/?hc_ref=ARRObqVkd_2NXUQwJ9i1WR-Qy0EsWW_7ndmZBDj0TNYmC4X_GhaoyQaupxMLojrg6a8&fref=nf&hc_location=group)](../assets/17c148c899ff/1*6sscDfm59Kk7aqKmyjIqjg.jpeg)
 
 Photo Credit: [Refugees Welcome International](https://www.facebook.com/refugeeswelcomeinternational/?hc_ref=ARRObqVkd_2NXUQwJ9i1WR-Qy0EsWW_7ndmZBDj0TNYmC4X_GhaoyQaupxMLojrg6a8&fref=nf&hc_location=group)
 ### Greece
@@ -82,7 +82,7 @@ The [SMH](https://twitter.com/salvamentogob) rescue organization saved [62 peopl
 The [_Mo Chara_ Refugee Rescue](https://www.facebook.com/RefugeeRescueUK/?hc_ref=ARTFAJrIMu0WIRJo2pAX5BpDzQpTcaDrqOpckpGLpoecCFc_P6X9oblzdwSUnnLe2IY&fref=nf) organization put out a call for donations today\. Over the past month, they rescued 360 people from the Mediterranean\. You can find the donation button through the link above\.
 
 
-![Photo Credit: Refugee Rescue](assets/17c148c899ff/1*9hYtkRGFzdQGlyFqGa38lg.jpeg)
+![Photo Credit: Refugee Rescue](../assets/17c148c899ff/1*9hYtkRGFzdQGlyFqGa38lg.jpeg)
 
 Photo Credit: Refugee Rescue
 ### Serbia
@@ -90,7 +90,7 @@ Photo Credit: Refugee Rescue
 In collaboration with the Rigardu volunteer group, the [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?hc_ref=ARTTkwjvTe-VXpg0-2NogAC0cVKDYVCoiRA-qar4wKfxmQSjV0M2e1Dw3Wf9a1RZxbQ&hc_location=group) group has created a new mobile shower system\. You can support their work [here](https://www.generosity.com/volunteer-fundraising/no-name-kitchen-serbia) \.
 
 
-![Part of the mobile shower unit\. Photo Credit: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?hc_ref=ARTTkwjvTe-VXpg0-2NogAC0cVKDYVCoiRA-qar4wKfxmQSjV0M2e1Dw3Wf9a1RZxbQ&hc_location=group)](assets/17c148c899ff/1*VYR0AY3L8qIDjbN0SbrY5g.jpeg)
+![Part of the mobile shower unit\. Photo Credit: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?hc_ref=ARTTkwjvTe-VXpg0-2NogAC0cVKDYVCoiRA-qar4wKfxmQSjV0M2e1Dw3Wf9a1RZxbQ&hc_location=group)](../assets/17c148c899ff/1*VYR0AY3L8qIDjbN0SbrY5g.jpeg)
 
 Part of the mobile shower unit\. Photo Credit: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?hc_ref=ARTTkwjvTe-VXpg0-2NogAC0cVKDYVCoiRA-qar4wKfxmQSjV0M2e1Dw3Wf9a1RZxbQ&hc_location=group)
 ### Bulgaria
@@ -98,7 +98,7 @@ Part of the mobile shower unit\. Photo Credit: [No Name Kitchen](https://www.fac
 The Refugee Info outlet has put out a guide for people who have been deported to Bulgaria\. The guide helps you understand your rights and provides a list of legal services in the country\. The guide is available in English, Arabic, Farsi, Urdu, and French \(go down to bottom right of the page to change languages\) \. Link [here\.](https://www.refugee.info/bulgaria/returned-to-bulgaria/returned-to-bulgaria)
 
 
-![A border fence in the Balkans\. Photo Credit: [Gabriel Tizon](https://www.facebook.com/gabrieltizonfotografo/?hc_ref=ARQuR_3ZdtV6BTjLjcELwH8wuuvISaQehgvEaASjHMyJEjmfPKjorYwHNhKpnAVUoHU&fref=nf)](assets/17c148c899ff/1*CaC-tUhQbKUG1A8d6VAbxQ.jpeg)
+![A border fence in the Balkans\. Photo Credit: [Gabriel Tizon](https://www.facebook.com/gabrieltizonfotografo/?hc_ref=ARQuR_3ZdtV6BTjLjcELwH8wuuvISaQehgvEaASjHMyJEjmfPKjorYwHNhKpnAVUoHU&fref=nf)](../assets/17c148c899ff/1*CaC-tUhQbKUG1A8d6VAbxQ.jpeg)
 
 A border fence in the Balkans\. Photo Credit: [Gabriel Tizon](https://www.facebook.com/gabrieltizonfotografo/?hc_ref=ARQuR_3ZdtV6BTjLjcELwH8wuuvISaQehgvEaASjHMyJEjmfPKjorYwHNhKpnAVUoHU&fref=nf)
 ### France
@@ -106,7 +106,7 @@ A border fence in the Balkans\. Photo Credit: [Gabriel Tizon](https://www.facebo
 The [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/?hc_location=group_dialog) volunteer group has reported that there were over 65 new arrivals to an area in Paris where they have been assisting people\. Many of the newly arrived refugees are children\.
 
 
-![Sleeping rough in Paris\. Photo Credit: [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/?hc_location=group_dialog)](assets/17c148c899ff/1*6sLjj-WHGgU1VhAfMNevcQ.jpeg)
+![Sleeping rough in Paris\. Photo Credit: [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/?hc_location=group_dialog)](../assets/17c148c899ff/1*6sLjj-WHGgU1VhAfMNevcQ.jpeg)
 
 Sleeping rough in Paris\. Photo Credit: [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/?hc_location=group_dialog)
 
@@ -115,7 +115,7 @@ Life is not safe on the streets of Paris, and this is no environment for childre
 New collection points for material donations have opened in Paris, where volunteers will be collecting hygiene products, clothing, backpacks, and sleeping bags\. Click [here](https://www.facebook.com/photo.php?fbid=574731402889368&set=a.113129339049579.1073741828.100010575392539&type=3&theater) for drop\-off points and item lists\.
 
 
-![](assets/17c148c899ff/1*TWewmv__slmHQhrPKGjkmA.jpeg)
+![](../assets/17c148c899ff/1*TWewmv__slmHQhrPKGjkmA.jpeg)
 
 
 There will be a demonstration in Paris on 20 February to support refugees who have been living in a squat near the Paris 8 University\. More information [here](https://www.facebook.com/events/181533945944274/) \.
@@ -123,7 +123,7 @@ There will be a demonstration in Paris on 20 February to support refugees who ha
 Today a volunteer with Care4Calais shared his story of a night spent with some Iranian friends who have been sleeping in Northern France\. His story was a simple reminder that despite the media presentation of refugees as either threats to society or helpless victims, displaced people are simply ordinary people who have lived through extraordinary circumstances\. Today we are including his goofy photo of one of his friends as a reminder that refugees are people with agency and often a sense of humor\!
 
 
-![This is what a refugee looks like\! A young person who could have been me or you, had we been born under different circumstances, or enjoy putting chess pieces up our noses\. Photo Credit: [Care4Calais\.](https://www.facebook.com/care4calais/)](assets/17c148c899ff/1*nYBq-aAORiYYFIU327z0BA.jpeg)
+![This is what a refugee looks like\! A young person who could have been me or you, had we been born under different circumstances, or enjoy putting chess pieces up our noses\. Photo Credit: [Care4Calais\.](https://www.facebook.com/care4calais/)](../assets/17c148c899ff/1*nYBq-aAORiYYFIU327z0BA.jpeg)
 
 This is what a refugee looks like\! A young person who could have been me or you, had we been born under different circumstances, or enjoy putting chess pieces up our noses\. Photo Credit: [Care4Calais\.](https://www.facebook.com/care4calais/)
 ### Germany

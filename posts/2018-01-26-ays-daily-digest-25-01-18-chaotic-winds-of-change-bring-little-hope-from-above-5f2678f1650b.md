@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 25/01/18: Chaotic “winds of change” bring little hope from above
+title: "AYS Daily Digest 25/01/18: Chaotic “winds of change” bring little hope from above"
 author: Are You Syrious?
 date: 2018-01-26T11:23:49.426+0000
 last_modified_at: 2018-01-26T12:32:03.241+0000
@@ -7,7 +7,7 @@ categories:
 tags: [europe]
 description: The erratic rulings of the European Court of Human Rights show a principle of form over substance / Bulgaria looking for European…
 image:
-  path: assets/5f2678f1650b/1*hA1XJ45sgfALrqcjY5fB5Q.jpeg
+  path: ../assets/5f2678f1650b/1*hA1XJ45sgfALrqcjY5fB5Q.jpeg
 ---
 
 ### AYS Daily Digest 25/01/18: Chaotic “winds of change” bring little hope from above
@@ -15,7 +15,7 @@ image:
 _The erratic rulings of the European Court of Human Rights show a principle of form over substance / Bulgaria looking for European “compromise” on refugee quotas / Chios municipality responds to upcoming Golden Dawn presence / Protests and volunteer opportunities in Italy / Continued police harassment in France / Volunteers speak out against wrongdoing of Belgian minister / Protest against inhumane detention center in Denmark / And more news…_
 
 
-![Photo Credit: Art Against\.](assets/5f2678f1650b/1*hA1XJ45sgfALrqcjY5fB5Q.jpeg)
+![Photo Credit: Art Against\.](../assets/5f2678f1650b/1*hA1XJ45sgfALrqcjY5fB5Q.jpeg)
 
 Photo Credit: Art Against\.
 ### FEATURE
@@ -110,7 +110,7 @@ In the aftermath of ongoing and increased activity of Golden Dawn, and the antic
 This stance should set the tone for how local and regional governments—and individual citizens — can act against the pressure to become a member of an ‘agentless state’ — a concept articulated in the work “The Banality of Evil,” which analyzes the way in which individuals generalize and justify their role in tolerating and helping to carry out fundamentally evil actions and violence upon one another\. The purpose of this agentless state is to so thoroughly recruit complicit “agents” from the population, that no formal agents are required\. A common way to do this is for people to blame their system and surroundings rather than taking personal responsibility for their responses\.
 
 
-![“Chios has enough “space” for everybody but fascists”](assets/5f2678f1650b/1*zP2KGQmbvXQwdcw80_R36A.jpeg)
+![“Chios has enough “space” for everybody but fascists”](../assets/5f2678f1650b/1*zP2KGQmbvXQwdcw80_R36A.jpeg)
 
 “Chios has enough “space” for everybody but fascists”
 
@@ -150,7 +150,7 @@ Please find attached a helpful \.pdf that seeks to answer questions relating to
 As of 20 hours ago, Tunisian protestors advocating to be moved from Lampedusa were in discussions with police\. Prior to this, around fifty people were protesting on the church steps to be removed within 48–96 hours\.
 
 
-![Peacefully protesting\. Photo credit: [**Askavusa Lampedusa**](https://www.facebook.com/askavusa/)](assets/5f2678f1650b/1*s0I15N03msAba7N7wnTRFw.jpeg)
+![Peacefully protesting\. Photo credit: [**Askavusa Lampedusa**](https://www.facebook.com/askavusa/)](../assets/5f2678f1650b/1*s0I15N03msAba7N7wnTRFw.jpeg)
 
 Peacefully protesting\. Photo credit: [**Askavusa Lampedusa**](https://www.facebook.com/askavusa/)
 
@@ -169,7 +169,7 @@ SolidariTea posted a long update on their activities in Ventimiglia\. They point
 
 
 
-![Photo Credit: SolidariTea\.](assets/5f2678f1650b/1*g_uJYYTtuOxTpYGAt-E16w.jpeg)
+![Photo Credit: SolidariTea\.](../assets/5f2678f1650b/1*g_uJYYTtuOxTpYGAt-E16w.jpeg)
 
 Photo Credit: SolidariTea\.
 
@@ -201,7 +201,7 @@ An in\-depth report was published on the volunteering movement assisting refugee
 
 
 
-![](assets/5f2678f1650b/1*oUng42IxXvQFvJkmtINWqA.jpeg)
+![](../assets/5f2678f1650b/1*oUng42IxXvQFvJkmtINWqA.jpeg)
 
 
 Additionally, the Belgium Kitchen is in need of volunteers for evening meal distribution and for kitchen prep\! Click [here](https://www.facebook.com/BelgiumKitchen/photos/a.657057397766358.1073741829.616888531783245/975268079278620/?type=3&theater) for more details, and read below for fast information\.

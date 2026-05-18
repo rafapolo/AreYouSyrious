@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,bosnia,migrants,united-kingdom]
 description: Sea-Watch 4 Rescues Over 200 People///Shipwreck Off the Coast of Chalki///Horrible Conditions in Postojna///& More
 image:
-  path: assets/713c2df8dde7/0*Vy0UMqHOsAsrsr6E.jpeg
+  path: ../assets/713c2df8dde7/0*Vy0UMqHOsAsrsr6E.jpeg
 ---
 
 ### AYS Daily Digest 25/08/2020 — Movement Restrictions Strand People on the Move in Bosnia’s Una\-Sana Canton
 #### Sea\-Watch 4 Rescues Over 200 People///Shipwreck Off the Coast of Chalki///Horrible Conditions in Postojna///& More
 
 
-![People in Bosanska Otoka\. Photo credit: Picture\-alliance/ [AP Photo via InfoMigrants](https://www.infomigrants.net/en/post/26832/region-in-northwestern-bosnia-sets-up-roadblocks-to-deter-migrants?fbclid=IwAR1wnnW6xKPPNWiRZer7x6TgvfiykH6aWK9bwhlTQpgCusFWYQrqWMu7cFw)](assets/713c2df8dde7/0*Vy0UMqHOsAsrsr6E.jpeg)
+![People in Bosanska Otoka\. Photo credit: Picture\-alliance/ [AP Photo via InfoMigrants](https://www.infomigrants.net/en/post/26832/region-in-northwestern-bosnia-sets-up-roadblocks-to-deter-migrants?fbclid=IwAR1wnnW6xKPPNWiRZer7x6TgvfiykH6aWK9bwhlTQpgCusFWYQrqWMu7cFw)](../assets/713c2df8dde7/0*Vy0UMqHOsAsrsr6E.jpeg)
 
 People in Bosanska Otoka\. Photo credit: Picture\-alliance/ [AP Photo via InfoMigrants](https://www.infomigrants.net/en/post/26832/region-in-northwestern-bosnia-sets-up-roadblocks-to-deter-migrants?fbclid=IwAR1wnnW6xKPPNWiRZer7x6TgvfiykH6aWK9bwhlTQpgCusFWYQrqWMu7cFw)
 #### FEATURE — People Trapped in Una\-Sana Canton, Violence Escalating
@@ -57,7 +57,7 @@ For more of Sea\-Watch’s important work, read their [airborne monthly fact she
 Dozens of people have perished in the past few days in the Central Mediterranean, as NGO ships languish in European harbors, and European governments ignore calls to conduct rescues at sea\. Instead, they continue to fund the violent acts of the Libyan Coast Guard\. Since 2015, the EU Emergency Trust Fund for Africa has sent 435 million euros to projects in Libya \(the breakdown of the spending can be found [here](https://ec.europa.eu/trustfundforafrica/sites/euetfa/files/july_2020_eutf_factsheet_libya_2.pdf?fbclid=IwAR1WHk0nVgEXiL0KaW41LBYKSRDo-NtCy97Pp2Mg6lHq3-5lIYx7j6z_STA) \) \. The institution has spent about [90 million euros](https://www.aljazeera.com/news/2020/08/bodies-22-migrants-refugees-retrieved-libya-coast-200824055521007.html) on funding the Libyan Coast Guard alone, with the sole purpose of stopping crossings\. Imagine how many people could be helped with that money\!
 
 
-![[IOM Libya’](https://twitter.com/IOM_Libya/status/1298220329970655235?fbclid=IwAR2KTxMntlmwKdLA0mlzY1K3u9voPjYZmD29eh668aG4Rza-9r2fxRGtXt8) s Maritime Update](assets/713c2df8dde7/0*b21Flr_Oq1NaDRLr)
+![[IOM Libya’](https://twitter.com/IOM_Libya/status/1298220329970655235?fbclid=IwAR2KTxMntlmwKdLA0mlzY1K3u9voPjYZmD29eh668aG4Rza-9r2fxRGtXt8) s Maritime Update](../assets/713c2df8dde7/0*b21Flr_Oq1NaDRLr)
 
 [IOM Libya’](https://twitter.com/IOM_Libya/status/1298220329970655235?fbclid=IwAR2KTxMntlmwKdLA0mlzY1K3u9voPjYZmD29eh668aG4Rza-9r2fxRGtXt8) s Maritime Update
 #### GREECE
@@ -65,7 +65,7 @@ Dozens of people have perished in the past few days in the Central Mediterranean
 A shipwreck has [occurred northwest of Chalki](https://www.facebook.com/AegeanBoatReport/posts/905516166638155) \. The first on the scene to assist was a cargo ship, which was later joined by ships from the Hellenic Coast Guard, two helicopters, and more vessels\. Initially, media reported that [89 people](https://twitter.com/daphnetoli/status/1298339096616751104?fbclid=IwAR1XG2SvK-pjdh7SR-JYV1-ZvCWLxPPYAbkxCDcz-Z9JO80xE5Ax7MPzW_Y) were rescued, but that number has since grown to 92\. So far, there are not many details about how the shipwreck happened and search and rescue is still ongoing, although thankfully there are no casualties reported yet\.
 
 
-![Weekly Statistics via [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/905435479979557)](assets/713c2df8dde7/1*qWrQC78FT2F2FN7jmDRTNA.jpeg)
+![Weekly Statistics via [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/905435479979557)](../assets/713c2df8dde7/1*qWrQC78FT2F2FN7jmDRTNA.jpeg)
 
 Weekly Statistics via [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/905435479979557)
 
@@ -90,7 +90,7 @@ Meanwhile, life continues as best as people can manage in Moria\. Attika Human S
 #### SLOVENIA
 
 
-![People in Postojna\. Via [Tukaj Smo](https://www.facebook.com/Tukajsmo/photos/a.120616169428203/192382515584901/?type=3&theater)](assets/713c2df8dde7/0*Wtta9qfB94Ef969n)
+![People in Postojna\. Via [Tukaj Smo](https://www.facebook.com/Tukajsmo/photos/a.120616169428203/192382515584901/?type=3&theater)](../assets/713c2df8dde7/0*Wtta9qfB94Ef969n)
 
 People in Postojna\. Via [Tukaj Smo](https://www.facebook.com/Tukajsmo/photos/a.120616169428203/192382515584901/?type=3&theater)
 

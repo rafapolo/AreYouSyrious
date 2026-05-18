@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 10/8/20: Has the pandemic become the excuse for negligence?
+title: "AYS Daily Digest 10/8/20: Has the pandemic become the excuse for negligence?"
 author: Are You Syrious?
 date: 2020-08-11T14:41:16.461+0100
 last_modified_at: 2020-08-12T08:40:49.303+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,europe,pandemic,human-rights]
 description: Abusing the pandemic ‘state of emergency’ / Abused and homeless, hundreds across Bosnia and Herzegovina + recommended reads, report, more
 image:
-  path: assets/6a1a200029/1*UlKwj_mTpI25QO8hUGXOxg.jpeg
+  path: ../assets/6a1a200029/1*UlKwj_mTpI25QO8hUGXOxg.jpeg
 ---
 
 ### AYS Daily Digest 10/8/20: Has the pandemic become an excuse for negligence?
 #### Abusing the pandemic ‘state of emergency’ / Abused and homeless, hundreds across the cities and villages of Bosnia and Herzegovina / This, year, the Atlantic route to Europe exceeds the Mediterranean corridor to Greece in mortality, at least 162 died since July 31 / \+ recommended reads, reports and more
 
 
-![The volunteer groups continue food and NFI distribution across Paris\. Read about their latest bike deliveries and visits [here](https://www.facebook.com/permalink.php?story_fbid=1506120676255366&id=598228360377940&hc_location=ufi) \. Photo: [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__xts__%5B0%5D=68.ARDxVUZF1E-I_qULfD2my3GN48C22nPs3BsgUSQq3bJ2lo5GAW5wtaPWfaFZ-GM9UUarkXtY9_BfnBazKTMzfg5Vh14p4pG8IR4c8zIdCaOFrnZaNJ81VaaRuuOcxbxW08T8P7ApNqjOm_rKaS_2E0j0M3_yeSk4OcNuFwnuWPK7xnaim2IhXZKvM9rHJs0QxmYufv7RSQzc6CHtH3YvDlrZWJx9mPUTQxqydNZVKQo4_vdsdPWUqk-vd-FvFdJm9daro686YnqheqYyPA-RCli1tZXLrf7TfDLkaoqb910HbU8vMRORsHxksS54TpLH0H_X11owf_E9RVaf-NqxIIS3aQ&__tn__=k%2AF&tn-str=k%2AF)](assets/6a1a200029/1*UlKwj_mTpI25QO8hUGXOxg.jpeg)
+![The volunteer groups continue food and NFI distribution across Paris\. Read about their latest bike deliveries and visits [here](https://www.facebook.com/permalink.php?story_fbid=1506120676255366&id=598228360377940&hc_location=ufi) \. Photo: [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__xts__%5B0%5D=68.ARDxVUZF1E-I_qULfD2my3GN48C22nPs3BsgUSQq3bJ2lo5GAW5wtaPWfaFZ-GM9UUarkXtY9_BfnBazKTMzfg5Vh14p4pG8IR4c8zIdCaOFrnZaNJ81VaaRuuOcxbxW08T8P7ApNqjOm_rKaS_2E0j0M3_yeSk4OcNuFwnuWPK7xnaim2IhXZKvM9rHJs0QxmYufv7RSQzc6CHtH3YvDlrZWJx9mPUTQxqydNZVKQo4_vdsdPWUqk-vd-FvFdJm9daro686YnqheqYyPA-RCli1tZXLrf7TfDLkaoqb910HbU8vMRORsHxksS54TpLH0H_X11owf_E9RVaf-NqxIIS3aQ&__tn__=k%2AF&tn-str=k%2AF)](../assets/6a1a200029/1*UlKwj_mTpI25QO8hUGXOxg.jpeg)
 
 The volunteer groups continue food and NFI distribution across Paris\. Read about their latest bike deliveries and visits [here](https://www.facebook.com/permalink.php?story_fbid=1506120676255366&id=598228360377940&hc_location=ufi) \. Photo: [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__xts__%5B0%5D=68.ARDxVUZF1E-I_qULfD2my3GN48C22nPs3BsgUSQq3bJ2lo5GAW5wtaPWfaFZ-GM9UUarkXtY9_BfnBazKTMzfg5Vh14p4pG8IR4c8zIdCaOFrnZaNJ81VaaRuuOcxbxW08T8P7ApNqjOm_rKaS_2E0j0M3_yeSk4OcNuFwnuWPK7xnaim2IhXZKvM9rHJs0QxmYufv7RSQzc6CHtH3YvDlrZWJx9mPUTQxqydNZVKQo4_vdsdPWUqk-vd-FvFdJm9daro686YnqheqYyPA-RCli1tZXLrf7TfDLkaoqb910HbU8vMRORsHxksS54TpLH0H_X11owf_E9RVaf-NqxIIS3aQ&__tn__=k%2AF&tn-str=k%2AF)
 #### FEATURED
@@ -53,7 +53,7 @@ Until July 15 this year, 14,810 ‘irregular crossings’ were registered by the
 On June 1, the police arrested a smuggler who was transporting 113 people\. The judge sent the smuggler for coronavirus testing, coming out negative\. Until today, no refugee or migrant who was tested came out positive, Legis reports\.
 
 
-![Although the fence is now being installed, the crossings are continuously taking place in the area of Preševo and Toplice from the direction of Kosovo \(Photo: [Asylum Protection in Serbia](https://twitter.com/APC_CZA) \)](assets/6a1a200029/0*QL1Y80okzz0jjBEW)
+![Although the fence is now being installed, the crossings are continuously taking place in the area of Preševo and Toplice from the direction of Kosovo \(Photo: [Asylum Protection in Serbia](https://twitter.com/APC_CZA) \)](../assets/6a1a200029/0*QL1Y80okzz0jjBEW)
 
 Although the fence is now being installed, the crossings are continuously taking place in the area of Preševo and Toplice from the direction of Kosovo \(Photo: [Asylum Protection in Serbia](https://twitter.com/APC_CZA) \)
 #### SERBIA

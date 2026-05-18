@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 28/2/22: Structural forms of violence in the management of migration and asylum in…
+title: "AYS News Digest 28/2/22: Structural forms of violence in the management of migration and asylum in…"
 author: Are You Syrious?
 date: 2022-03-01T20:33:34.577+0000
 last_modified_at: 2022-03-01T20:33:34.577+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,migration,ukraine,mediterranean,greece]
 description: Information on Ukraine for those fleeing and people helping them // Updates from the Mediterranean // Police pressure continues in France…
 image:
-  path: assets/1078502b4ff/0*N1NTfhyGPNCWgetH.jpeg
+  path: ../assets/1078502b4ff/0*N1NTfhyGPNCWgetH.jpeg
 ---
 
 ### AYS News Digest 28/2/22: Structural forms of violence in the management of migration and asylum in Greece
 #### Information on Ukraine for those fleeing and people helping them // Updates from the Mediterranean // Police pressure continues in France // UK: asylum seekers in hotels waiting for months for £8 // Open your eyes to the deportations and other repressive actions taking place silently while all eyes are pointed at Ukraine // Afghanistan: a new travel ban // recommended articles and news summaries…
 
 
-![](assets/1078502b4ff/0*N1NTfhyGPNCWgetH.jpeg)
+![](../assets/1078502b4ff/0*N1NTfhyGPNCWgetH.jpeg)
 
 
 Image Source: Samos Advocacy Collective
@@ -27,7 +27,7 @@ It considers violence within state borders experienced by people\-on the\-move a
 40testimonies that were collected in recent months clearly and undoubtedly speak of violence in detention, police brutality, racist violence, and hate crimes, as well as open source data on structural forms of violence present in the management of migration and asylum in Greece\.
 
 
-![](assets/1078502b4ff/0*xNXJeIuXIpHyV62b.jpg)
+![](../assets/1078502b4ff/0*xNXJeIuXIpHyV62b.jpg)
 
 
 The situation continues to deteriorate, leaving people at increasing risk of both physical harm, and structural violence against their living conditions and immediate amenities\.
@@ -87,7 +87,7 @@ Many cases of racial and other discrimination in the course of evacuation of peo
 [Africans trying to flee Ukraine complain of being blocked and of racist treatment](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.irishtimes.com%2Fnews%2Fworld%2Fafrica%2Fafricans-trying-to-flee-ukraine-complain-of-being-blocked-and-of-racist-treatment-1.4813571%3Ffbclid%3DIwAR3c0hyniMmZPDRCtFjJsxJsO_ds8l8RQxSVwat-mDXtqJ0i6OPeCICFkXM&h=AT2KZcmcnDe5MJksQgvW4rH9S5fHeMqrWdwA7SQK4rmBzPOG4pBMZ7j4rWaNGQYdQIpSbggMLy0Bq19SvdibSQSfdN-AjXTJChGvXy4WTIVVHcr6PpCdp3dCxERrksNOE-mbEMEaDhBxPc2vfCFM0gFb_IIbNg&__tn__=R]-R&c[0]=AT0v4CDYbsE03smByqXHBBn-YYOzaJ6sZ3mlZJ7cWIPzSmvzViBPkJvyUblzNagmp1KUw1dU36FVWHd7ITuJFPP5VHruth8jXrgS-Xr2cpqHtDIt54UyhG7mgnk4rH88ScR9ke4yZX4DfTYVPWFnTorPoB67w9OmXEW-bQqc4zr_zIaNgLfc3Mm27NlO3LMds1Pyf5Or-Vdn) \. Black students say they have been stopped from boarding trains, and abused by police\. Reactions from different sides arrive, among others a statement from the African Union on cases of mistreatment of Africans currently attempting to leave Ukraine:
 
 
-![](assets/1078502b4ff/0*3Rat68yVcuHfdQ7X)
+![](../assets/1078502b4ff/0*3Rat68yVcuHfdQ7X)
 
 
 The [Ukrainian Antiracist Community](https://linktr.ee/ukr.antiracist.community?fbclid=IwAR2CYMUzUZqrwC3sM0H0sTX3o_mg6A4wFqzAqx3LV41vL5QvSdsAZANhQo4) is also calling for racial equity and inclusion in the Ukrainian\-North American diaspora\.
@@ -171,7 +171,7 @@ This morning in Calais people in 10 different living areas were evicted by the p
 ### Paris
 
 
-![](assets/1078502b4ff/0*ySSPlBQ4mnX8-CEm)
+![](../assets/1078502b4ff/0*ySSPlBQ4mnX8-CEm)
 
 
 Five nights after an arson attack on displaced individuals sleeping in a tunnel in Paris, 119 people, and mostly unaccompanied minors, continue sleeping in the area without options for safe accommodation, Utopia 56 reports\.

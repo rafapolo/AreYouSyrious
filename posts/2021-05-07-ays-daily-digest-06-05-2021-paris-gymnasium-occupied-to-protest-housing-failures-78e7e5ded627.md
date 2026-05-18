@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 06/05/2021: Paris Gymnasium Occupied to Protest Housing Failures
+title: "AYS Daily Digest 06/05/2021: Paris Gymnasium Occupied to Protest Housing Failures"
 author: Are You Syrious?
 date: 2021-05-07T12:31:25.856+0100
 last_modified_at: 2021-05-07T12:31:25.856+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,search-and-rescue,migration,refugees,france]
 description: Rescues off Spain and Tunisia // Alarm Phone activist freed in Germany // Covid cases and fears rise on Lesvos // Push for European sea…
 image:
-  path: assets/78e7e5ded627/1*MX0Go4Vle38-3YVyeWcRZw.jpeg
+  path: ../assets/78e7e5ded627/1*MX0Go4Vle38-3YVyeWcRZw.jpeg
 ---
 
 ### AYS Daily Digest 06/05/2021: Paris Gymnasium Occupied to Protest Housing Failures
 #### Rescues off Spain and Tunisia // Alarm Phone activist freed in Germany // Covid cases and fears rise on Lesvos // Push for European sea rescue mission from Italian mayor
 
 
-![Homeless Parisians, including people\-on\-the\-move both with and without proper papers, gathered in the gymnasium on Thursday\. \(Photo: [Utopia56 Twitter](https://twitter.com/Utopia_56/status/1390245356101898242) \)](assets/78e7e5ded627/1*MX0Go4Vle38-3YVyeWcRZw.jpeg)
+![Homeless Parisians, including people\-on\-the\-move both with and without proper papers, gathered in the gymnasium on Thursday\. \(Photo: [Utopia56 Twitter](https://twitter.com/Utopia_56/status/1390245356101898242) \)](../assets/78e7e5ded627/1*MX0Go4Vle38-3YVyeWcRZw.jpeg)
 
 Homeless Parisians, including people\-on\-the\-move both with and without proper papers, gathered in the gymnasium on Thursday\. \(Photo: [Utopia56 Twitter](https://twitter.com/Utopia_56/status/1390245356101898242) \)
 ### FEATURE—400 People Occupy Gymnasium in Paris to Demand Proper Housing

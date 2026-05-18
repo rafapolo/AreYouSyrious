@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 9/4/2017: New Projects in Greece and Serbia
+title: "AYS DAILY DIGEST 9/4/2017: New Projects in Greece and Serbia"
 author: Are You Syrious?
 date: 2017-04-10T03:19:28.896+0100
 last_modified_at: 2017-04-10T09:00:30.149+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,greece,france,germany]
 description: Update on new projects and volunteer needs in Greece and Serbia. Protests and workshops at the French-Italian border. EU steps up returns…
 image:
-  path: assets/9995b1e706ad/0*h_IMwr9a40Mgq4RH.
+  path: ../assets/9995b1e706ad/0*h_IMwr9a40Mgq4RH.
 ---
 
 ### AYS DAILY DIGEST 9/4/2017: New Projects in Greece and Serbia
@@ -15,7 +15,7 @@ image:
 _Update on new projects and volunteer needs in Greece and Serbia\. Protests and workshops at the French\-Italian border\. EU steps up returns to Afghanistan\._
 
 
-![Photo by Jan Kees Helms‎ taken during protests against Dutch detention centers](assets/9995b1e706ad/0*h_IMwr9a40Mgq4RH.)
+![Photo by Jan Kees Helms‎ taken during protests against Dutch detention centers](../assets/9995b1e706ad/0*h_IMwr9a40Mgq4RH.)
 
 Photo by Jan Kees Helms‎ taken during protests against Dutch detention centers
 #### Feature
@@ -26,7 +26,7 @@ Photo by Jan Kees Helms‎ taken during protests against Dutch detention centers
 ECRE adds that European governments say those deported back have failed rigorous asylum tests, and that major cities like Kabul are sufficiently safe\. However, recognition rates differing between 35% and 56% across the five countries deporting and the well documented instability of Afghanistan does little to support that claim\.
 
 
-![Photo by Jan Kees Helms‎ in front of a Dutch detention centre](assets/9995b1e706ad/0*kEqNvnuabQv0958D.)
+![Photo by Jan Kees Helms‎ in front of a Dutch detention centre](../assets/9995b1e706ad/0*kEqNvnuabQv0958D.)
 
 Photo by Jan Kees Helms‎ in front of a Dutch detention centre
 #### Greece
@@ -35,7 +35,7 @@ Photo by Jan Kees Helms‎ in front of a Dutch detention centre
 The Refugee Info Bus provided refugees in Calais with Wifi and vital information and is now looking to carry out a similar project in Athens\. It is therefore looking for refugees who could volunteer for them in Greece and can pay for their flights and accommodation\. Volunteers should already have received their papers and travel documents from an EU country\. Please send them a message through their Facebook page with your availability to find out more\.
 
 
-![](assets/9995b1e706ad/0*aezPXyaJAvpbQvdl.)
+![](../assets/9995b1e706ad/0*aezPXyaJAvpbQvdl.)
 
 
 Oasis Rhodes also needs volunteers for May and June\. The group supports refugees “ _in hospitals, hotels, in the detention center, in the Asylum Office, at the harbour or at the airport”_ \. You can contact them via oasis\.rhodes@gmail\.com\.
@@ -43,7 +43,7 @@ Oasis Rhodes also needs volunteers for May and June\. The group supports refugee
 Finally, the Ellinikon Warehouse in Athens, run by the Pampiraiki Group, is always in need of short\-term and long\-term volunteers and is also in urgent need of donations, especially food and summer clothes\. More information on how to volunteer is available [here](https://www.facebook.com/groups/AthensVolunteersInformation/permalink/1043696842429279/) \.
 
 
-![](assets/9995b1e706ad/0*uBPAWlwaeIbXcGna.)
+![](../assets/9995b1e706ad/0*uBPAWlwaeIbXcGna.)
 
 
 [Thighs of Steel](https://www.facebook.com/thighsofsteel/) meanwhile will be cycling from London to Athens raising money for Help Refugees and the Khora Community Centre\. The trip is split into 7 week\-long chunks, and starts in just over a month\. There are still two empty spaces on the trip and you can email contact@helprefugees\.org\.uk if you want to participate\.
@@ -60,7 +60,7 @@ The Hero Centre in Chios is expected to open next week\. Furniture is currently 
 Meant as a space for men and boys over 14, it will, according to one volunteer, provide activities, film nights, English classes and _‘an outside garden area to have a cup of tea and relax away from the toxic environment of the camp which imprisons them”\._ One of the goals is to give men a space to chat in private about mental health issues that are pervasive in the camp\. The centre will also provide computer access to allow them to Skype with their families, work on their CVs and follow online courses in the absence of formal education\. This week, 20 pairs of trainers and sports tops arrived that will make it possible to start the Hero Running Club\.
 
 
-![](assets/9995b1e706ad/0*Wp494qbmqxS0bfG0.)
+![](../assets/9995b1e706ad/0*Wp494qbmqxS0bfG0.)
 
 
 As the volunteer puts it, young men with no family are “ _pushed to the bottom of the priority list_ ” despite being also in the need of support\. Some of them have been in the camp for more than a year with nothing to do but wait and without the ability to use their energy and skills in a productive way\. The Hero Centre will be run by the refugees, giving them back their autonomy and a sense of purpose\.
@@ -72,13 +72,13 @@ As the volunteer puts it, young men with no family are “ _pushed to the bottom
 The Truck Shop is back on the mainland and has been busy preparing clothing, household essentials and hygiene items\. It will again be running a mobile aid distribution service around Northern Greece, providing refugees with the items they need for the upcoming summer months\.
 
 
-![](assets/9995b1e706ad/0*VPyoXswUGQWJTRio.)
+![](../assets/9995b1e706ad/0*VPyoXswUGQWJTRio.)
 
 #### Serbia
 ### New Projects started and volunteers needed
 
 
-![](assets/9995b1e706ad/0*H6F8Skri10rZpOT6.)
+![](../assets/9995b1e706ad/0*H6F8Skri10rZpOT6.)
 
 
 [Belgraid](https://www.facebook.com/belgraid/) has almost completed the construction of its kitchen and will start cooking and distributing in Belgrade in about a week\. If you are interested in volunteering you can contact them directly through their Facebook page\.
@@ -86,7 +86,7 @@ The Truck Shop is back on the mainland and has been busy preparing clothing, hou
 Soulwelders have in the meantime built a shower truck, with a capacity for 40 showers to run 5 minutes each turn\. Each person will be provided with a towel, flip flops, soap, shaving cream and tooth paste\. At the end of the shower, each person will also be given a clean t\-shirt, underwear and socks\. The truck will drive twice a week to the border town of Sid and will be stationed in the barracks in Belgrade for the remaining days\.
 
 
-![](assets/9995b1e706ad/0*EismcaEjwa9XqwHt.)
+![](../assets/9995b1e706ad/0*EismcaEjwa9XqwHt.)
 
 
 Finally, Borderfree is looking for volunteers in Presevo from beginning of May for a minimum of one week\. The group organizes language and computer classes, football training, a women’s space and a library among other projects\. You can contact them through info@border\-free\.ch\.
@@ -96,7 +96,7 @@ Finally, Borderfree is looking for volunteers in Presevo from beginning of May f
 [Passeurs d’hospitalités](https://passeursdhospitalitesenglish.wordpress.com/) reports that distributions continue to be under police pressure in Calais\. On Friday, CRS forces gathered during a food distribution and started to move forward, with refugees leaving “more or less quickly, with the policemen after them until everyone had disappeared in the bushes”\. Passeurs d’hospitalités notes that the goal was not to arrest anyone but rather to prevent the distribution of food\. Four refugees, all 15 or 16 years old, were searched and questioned\.
 
 
-![Photo by Chiara Lauvergnac](assets/9995b1e706ad/0*TwnNHBqcgkVWLlKV.)
+![Photo by Chiara Lauvergnac](../assets/9995b1e706ad/0*TwnNHBqcgkVWLlKV.)
 
 Photo by Chiara Lauvergnac
 ### Dunkirk Refugee Women’s Centre repainted
@@ -104,7 +104,7 @@ Photo by Chiara Lauvergnac
 The Dunkirk Refugee Women’s Centre says that women living in the camp and volunteers have worked together to redecorate the space following the January fire\. Some walls are still visibly marked by the flames and a team of feminist artists is currently preparing a project that would require the participation of all in the centre, in order to create artistic murals around the themes of gender equality and access to basic rights\. To that end, they are currently [fundraising](https://www.leetchi.com/c/solidarite-de-refugee-womens-center-dunkerque) to buy the necessary materials\.
 
 
-![](assets/9995b1e706ad/0*3bUq8KJ_PKprK4lM.)
+![](../assets/9995b1e706ad/0*3bUq8KJ_PKprK4lM.)
 
 ### Protest at the French\-Italian border
 

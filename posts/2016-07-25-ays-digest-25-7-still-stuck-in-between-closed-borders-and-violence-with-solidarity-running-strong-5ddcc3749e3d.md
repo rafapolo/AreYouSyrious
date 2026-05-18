@@ -1,5 +1,5 @@
 ---
-title: AYS digest 25/7: Still stuck between closed borders and violence while solidarity not backing down
+title: "AYS digest 25/7: Still stuck between closed borders and violence while solidarity not backing down"
 author: Are You Syrious?
 date: 2016-07-25T21:28:33.275+0100
 last_modified_at: 2016-07-26T10:45:29.523+0100
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe,baobab,horgos,presevo]
 description: Attacks in Iraq, Germany and Syria. Slight rise in arrivals to Greece with new solidarity squat opening in Thessaloniki and two camps…
 image:
-  path: assets/5ddcc3749e3d/1*9L8vcDyoAYfCEEwBPGBCsQ.jpeg
+  path: ../assets/5ddcc3749e3d/1*9L8vcDyoAYfCEEwBPGBCsQ.jpeg
 ---
 
 ### AYS digest 25/7: Still stuck between closed borders and violence while solidarity not backing down
 
 
-![Oreokostro camp, Greece](assets/5ddcc3749e3d/1*9L8vcDyoAYfCEEwBPGBCsQ.jpeg)
+![Oreokostro camp, Greece](../assets/5ddcc3749e3d/1*9L8vcDyoAYfCEEwBPGBCsQ.jpeg)
 
 Oreokostro camp, Greece
 
@@ -28,7 +28,7 @@ Violence tightens its grip on Baghdad, where a new attack is reported to have ki
 Bombing in Syria continues at the same terrifying pace\. Two strikes took place over the space of 24 hours as part of an overnight raid in the Al\-Shaar neighbourhood of Aleppo on Sunday\. Two makeshift hospitals and a blood bank were hit\. These hospitals provide urgent medical care to more than 200,000 civilians\.
 
 
-![Aleppo\. Getty images](assets/5ddcc3749e3d/1*2amgAzkibeQOn1C0pQ-7mQ.jpeg)
+![Aleppo\. Getty images](../assets/5ddcc3749e3d/1*2amgAzkibeQOn1C0pQ-7mQ.jpeg)
 
 Aleppo\. Getty images
 #### Greece
@@ -40,7 +40,7 @@ Aleppo\. Getty images
 Not everything is so bleak: there are pockets of genuine solidarity and a willingness to do something about it\. Over 100 people \(Refugees & Activists\) have squatted a building and are now using it as a Social Center and Housing Project for Refugees in Karoulou Diehl 34 in downtown Thessaloniki\. They are calling for more people to come and show solidarity\. We send messagge of support, hope and solidarity\! Follow them through their FB page [http://bit\.ly/2apDZJZ](http://bit.ly/2apDZJZ)
 
 
-![Kοινότητα “Hurriya” squat in Thessaloniki](assets/5ddcc3749e3d/1*dBw9jRCLJ4hWsqRhhmWmgQ.jpeg)
+![Kοινότητα “Hurriya” squat in Thessaloniki](../assets/5ddcc3749e3d/1*dBw9jRCLJ4hWsqRhhmWmgQ.jpeg)
 
 Kοινότητα “Hurriya” squat in Thessaloniki
 ### **Call for volunteers in two camps**
@@ -50,7 +50,7 @@ If you are heading towards Greece, there are places calling for a helping hand\.
 The other address is Nea Kavala camp where a new women’s space opened up\. We Are Here — Community Centre is calling for experienced female volunteers to come and keep the project alive\. Feel free to contact them on [their FB page](https://www.facebook.com/WeAreHereCentre/) \.
 
 
-![Women center\. Nea Kavala camp](assets/5ddcc3749e3d/1*94au30a4xunyH5Zyt0FyvA.jpeg)
+![Women center\. Nea Kavala camp](../assets/5ddcc3749e3d/1*94au30a4xunyH5Zyt0FyvA.jpeg)
 
 Women center\. Nea Kavala camp
 #### Serbia
@@ -59,7 +59,7 @@ Women center\. Nea Kavala camp
 Belgrade authorities have decided that city parks are not to be used by all people equally\. Today they began “cleaning” the so\-called Afghan park, pushing the refugees out\. We, as well as those working in and around the park, condemn this decision to deny access to city parks to people who want and need to be there\.
 
 
-![Afghan park, Belgrade](assets/5ddcc3749e3d/1*orLwQc4JiBiaoV5RnRgN8A.jpeg)
+![Afghan park, Belgrade](../assets/5ddcc3749e3d/1*orLwQc4JiBiaoV5RnRgN8A.jpeg)
 
 Afghan park, Belgrade
 ### **150 people arrived to Preševo** **and 21 people pushed back**
@@ -67,7 +67,7 @@ Afghan park, Belgrade
 This news comes as Hungary is pushing people back and more are arriving through Serbia’s south and east borders\. Over the weekend more than 150 people have come in Preševo camp, 68 of whom are children and 35 female\. Most of them from Afghanistan with others coming from Iraq, Syria, Pakistan, Iran, Palestine, Algeria and Mauritania\. People are coming from Greece so 90% of them do not have Macedonian papers\. It seems that Serbia is not readily accepting all of those who seek shelter in Preševo\. On Friday the 21st, people arriving near the camp’s entrance were pushed back by police and into Macedonia\.
 
 
-![People pushed back from the camp in Preševo and back to Macedonia](assets/5ddcc3749e3d/1*HkFMUlqHEQZRGGZ0YmKvIA.jpeg)
+![People pushed back from the camp in Preševo and back to Macedonia](../assets/5ddcc3749e3d/1*HkFMUlqHEQZRGGZ0YmKvIA.jpeg)
 
 People pushed back from the camp in Preševo and back to Macedonia
 ### **People’s health deteriorating due to closed borders and hunger strike**
@@ -75,7 +75,7 @@ People pushed back from the camp in Preševo and back to Macedonia
 The situation on the Hungarian border is reportedly getting worse as those who are a part of a hunger strike seem to be suffering more and more, with some of them fainting\. They are appealing to all European governments and are claiming that this is not a responsibility of Serbia and Hungary alone\. We are afraid that for the most part there is no reaction from those in power while people suffer and wait\.
 
 
-![Horgoš\. Photo Miodrag Sovilj](assets/5ddcc3749e3d/1*TgLFeyiA0HlOtN5NRRhGOQ.jpeg)
+![Horgoš\. Photo Miodrag Sovilj](../assets/5ddcc3749e3d/1*TgLFeyiA0HlOtN5NRRhGOQ.jpeg)
 
 Horgoš\. Photo Miodrag Sovilj
 ### **Help to build new learning center near Kelebija**
@@ -85,7 +85,7 @@ On the other part of Subotica story, at the border crossing Kelebija, iHO plans 
 Work will start on Thursday and if you can, please support this project by donating to “Ja sam covek” organization RS35265100000016247454 \(IBAN\); RZBSRSBG \(BIC\), Raiffeisen bank AD
 
 
-![Location for the new learning center](assets/5ddcc3749e3d/1*rnhO9X-OinX6x30ZV09AGg.jpeg)
+![Location for the new learning center](../assets/5ddcc3749e3d/1*rnhO9X-OinX6x30ZV09AGg.jpeg)
 
 Location for the new learning center
 #### Italy
@@ -94,7 +94,7 @@ Location for the new learning center
 Baobab community in Rome is calling for donated supplies\. They need canned food and small size summer clothes and shoes for men\. Donations can be delivered everyday between 8:30h and 21h in Via Cupa\. Also, our friend started a crowdfunding campaign to raise funds for Baobab, so you can help from a long distance\. Please check it out [http://bit\.ly/2atsWPr](http://bit.ly/2atsWPr)
 
 
-![Baobab, Rome](assets/5ddcc3749e3d/1*DVmBWSdS-Jwbebd87I42Kg.jpeg)
+![Baobab, Rome](../assets/5ddcc3749e3d/1*DVmBWSdS-Jwbebd87I42Kg.jpeg)
 
 Baobab, Rome
 ### **Unaccompanied minors face mafia in Italy**

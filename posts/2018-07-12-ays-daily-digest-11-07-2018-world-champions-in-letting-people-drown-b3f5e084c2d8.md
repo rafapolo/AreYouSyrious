@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 11/07/2018: “World Champions in letting people drown”
+title: "AYS DAILY DIGEST 11/07/2018: “World Champions in letting people drown”"
 author: Are You Syrious?
 date: 2018-07-12T09:02:29.004+0100
 last_modified_at: 2018-07-12T09:06:18.165+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest]
 description: Protests take place in Germany and Italy over EU and state inaction in the Mediterranean//Donations needed in Calais//Protests continue…
 image:
-  path: assets/b3f5e084c2d8/0*J0SeZQym7FF-CT2e
+  path: ../assets/b3f5e084c2d8/0*J0SeZQym7FF-CT2e
 ---
 
 ### AYS DAILY DIGEST 11/07/2018: “World Champions in letting people drown”
@@ -15,13 +15,13 @@ image:
 _Protests take place in Germany and Italy over EU and state inaction in the Mediterranean//Donations needed in Calais//Protests continue against arrests during solidarity march in support of refugees//Information on illegal pushbacks in Greece//_
 
 
-![Photo by Sea\-Watch](assets/b3f5e084c2d8/0*J0SeZQym7FF-CT2e)
+![Photo by Sea\-Watch](../assets/b3f5e084c2d8/0*J0SeZQym7FF-CT2e)
 
 Photo by Sea\-Watch
 #### Feature
 
 
-![Photo by Sea\-Watch](assets/b3f5e084c2d8/0*vgy66sFOJ-EdURZc)
+![Photo by Sea\-Watch](../assets/b3f5e084c2d8/0*vgy66sFOJ-EdURZc)
 
 Photo by Sea\-Watch
 
@@ -52,7 +52,7 @@ Lifeline meanwhile is raising [funds](https://mission-lifeline.de/de/spenden) fo
 ### Refugees arrive to Greece
 
 
-![Photo by Mo’Chara](assets/b3f5e084c2d8/0*D3x4yziu1iMCaXH7)
+![Photo by Mo’Chara](../assets/b3f5e084c2d8/0*D3x4yziu1iMCaXH7)
 
 Photo by Mo’Chara
 
@@ -82,7 +82,7 @@ The petition calls on changes to the current rules that would allow child refuge
 ### Protests against arrests of undocumented people during solidarity march
 
 
-![Photo by La CSP75 — Coordination 75 des Sans Papiers](assets/b3f5e084c2d8/0*CdFdw2GBrNassXq_)
+![Photo by La CSP75 — Coordination 75 des Sans Papiers](../assets/b3f5e084c2d8/0*CdFdw2GBrNassXq_)
 
 Photo by La CSP75 — Coordination 75 des Sans Papiers
 

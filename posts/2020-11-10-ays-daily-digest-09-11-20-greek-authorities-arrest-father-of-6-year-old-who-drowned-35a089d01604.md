@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [greece,refugees,digest,spain,fascism]
 description: Over 2000 people in Canary Islands // Greece wants to change asylum law // updates on fascism in Serbia // lawsuit from Calais // and more…
 image:
-  path: assets/35a089d01604/1*E4SZXL4ZIwtnmtebIq7ylw.jpeg
+  path: ../assets/35a089d01604/1*E4SZXL4ZIwtnmtebIq7ylw.jpeg
 ---
 
 ### AYS Daily Digest 09/11/20 Greek authorities arrest father of 6\-year\-old who drowned
@@ -15,7 +15,7 @@ image:
 _Over 2000 people in Canary Islands // Greece wants to change asylum law // updates on fascism in Serbia // lawsuit from Calais // and more…_
 
 
-![Photo by [Choose Love](https://www.facebook.com/samosvolunteers/posts/1756832707828215)](assets/35a089d01604/1*E4SZXL4ZIwtnmtebIq7ylw.jpeg)
+![Photo by [Choose Love](https://www.facebook.com/samosvolunteers/posts/1756832707828215)](../assets/35a089d01604/1*E4SZXL4ZIwtnmtebIq7ylw.jpeg)
 
 Photo by [Choose Love](https://www.facebook.com/samosvolunteers/posts/1756832707828215)
 ### FEATURE: Greek authorities arrest father of 6\-year\-old who drowned off the coast of Samos
@@ -96,7 +96,7 @@ Not our usual focus, but this reporting from La Cimade is important to share:
 #### GREECE
 
 
-![“Greek authorities have yet failed to introduce adequate COVID\-19 measures, instead strict rules and draconian measures have been implemented for the camp: Residents get punished and oppressed collectively, while Moria 2\.0\. is turning more and more into a Blackbox\. Apart from a weak supply situation, the measures also lead to an isolation of Refugees in Greece from the outside world: The free internet has been cut, journalists have no access, electricity cuts are used to punish collectively and the police is constantly present\.” Photo by [Mare Liberum e\.V](https://twitter.com/teammareliberum/status/1325776294869692417)](assets/35a089d01604/1*lQXWv-CnZCQ3GLSrOmCuvw.jpeg)
+![“Greek authorities have yet failed to introduce adequate COVID\-19 measures, instead strict rules and draconian measures have been implemented for the camp: Residents get punished and oppressed collectively, while Moria 2\.0\. is turning more and more into a Blackbox\. Apart from a weak supply situation, the measures also lead to an isolation of Refugees in Greece from the outside world: The free internet has been cut, journalists have no access, electricity cuts are used to punish collectively and the police is constantly present\.” Photo by [Mare Liberum e\.V](https://twitter.com/teammareliberum/status/1325776294869692417)](../assets/35a089d01604/1*lQXWv-CnZCQ3GLSrOmCuvw.jpeg)
 
 “Greek authorities have yet failed to introduce adequate COVID\-19 measures, instead strict rules and draconian measures have been implemented for the camp: Residents get punished and oppressed collectively, while Moria 2\.0\. is turning more and more into a Blackbox\. Apart from a weak supply situation, the measures also lead to an isolation of Refugees in Greece from the outside world: The free internet has been cut, journalists have no access, electricity cuts are used to punish collectively and the police is constantly present\.” Photo by [Mare Liberum e\.V](https://twitter.com/teammareliberum/status/1325776294869692417)
 
@@ -114,7 +114,7 @@ Member of the EU Parliament [Tineke Strik](https://twitter.com/Tineke_Strik/stat
 …so more people can can be returned to Turkey under the “safe country” rule\. If this passed, the decision would be the third amendment to asylum law in the past 12 months\. Greek Migration Minister Notis Mitaraki told Info Migrants “ _Many people have come through safe countries of transit where they were very safe before coming to Greece\. We’re actually reviewing our legislation whether we should be providing asylum to people who come through countries where they’re very safe\. If somebody comes from the East and he comes to Turkey and he’s not at risk in Turkey, then he should not be applying to Greece for asylum_ \.” This would include Syrians, which it didn’t previously\. More [here](https://www.infomigrants.net/en/post/28386/greece-plans-to-increase-safe-country-returns-reduce-benefits-for-refugees?fbclid=IwAR1eyUGRnPUGzW4z0i6MjiNhW9WTGsQkm9HbtOG6KKucqZwvHpIjbUz2Enk) \.
 
 
-![“ **A boat carrying 31 people, 5 children, 10 women and 16 men was picked up north east of Kos** early this morning\. The boat was traveling from Bodrum, Turkey\. The people are for the time being in a makeshift camp in the port of Kos, next to the Port Police office, how long they will stay in this temporary facility is not known, but they will most likely be taken to a quarantine site for 14 days quarantine\. The new arrivals were afraid they would be sent back after nightfall, but since the local press on Kos have written about it this is not very likely\.” Photo by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/965685700621201)](assets/35a089d01604/1*uRxapIVqXhmyoGyVXsSZ8g.jpeg)
+![“ **A boat carrying 31 people, 5 children, 10 women and 16 men was picked up north east of Kos** early this morning\. The boat was traveling from Bodrum, Turkey\. The people are for the time being in a makeshift camp in the port of Kos, next to the Port Police office, how long they will stay in this temporary facility is not known, but they will most likely be taken to a quarantine site for 14 days quarantine\. The new arrivals were afraid they would be sent back after nightfall, but since the local press on Kos have written about it this is not very likely\.” Photo by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/965685700621201)](../assets/35a089d01604/1*uRxapIVqXhmyoGyVXsSZ8g.jpeg)
 
 “ **A boat carrying 31 people, 5 children, 10 women and 16 men was picked up north east of Kos** early this morning\. The boat was traveling from Bodrum, Turkey\. The people are for the time being in a makeshift camp in the port of Kos, next to the Port Police office, how long they will stay in this temporary facility is not known, but they will most likely be taken to a quarantine site for 14 days quarantine\. The new arrivals were afraid they would be sent back after nightfall, but since the local press on Kos have written about it this is not very likely\.” Photo by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/965685700621201)
 #### ITALY
@@ -163,12 +163,12 @@ On Monday, other rescues in Spain included:
 #### BOSNIA AND HEREZEGOVINA
 
 
-![](assets/35a089d01604/1*Ft8eYR6wHtHNBUIPB7jpyg.jpeg)
+![](../assets/35a089d01604/1*Ft8eYR6wHtHNBUIPB7jpyg.jpeg)
 
 
 
 ![**Update from Velika Kladusa, Bosnia** :“Days are getting colder and rainier in Velika Kladusa, where around 60 families are forced to live in the ‘jungle’ or in abandoned houses in a village near the city\. The number of people changes slightly daily but we counted, the lasts days, 57 families\. 220 people in total, including children and babies\.”
-“Among the many difficulties that the situation in which these people find themselves already entails, needs as basic as decent feminine hygiene pose an added challenge for women on the move\. The difficulty of obtaining drinking water, added to the scarcity of economic and material resources, make something as natural as menstruation one more obstacle… this week at NNK we have focused on making a large distribution of hygiene products to families, with the intention of maintaining it weekly\. Some days ago we have distributed pads, diapers, soap, laundry detergent and other things that we consider basic\. In this way the more than 200 people who live in this place, will be able to have at least during the next days a minimum hygiene\.” Photo and Info by [Alba Domínguez and Joan Giralt\.](https://www.facebook.com/NoNameKitchenBelgrade/posts/1117695341962082)](assets/35a089d01604/1*ZEzK_rmuHAStzEmJJ_BkYQ.jpeg)
+“Among the many difficulties that the situation in which these people find themselves already entails, needs as basic as decent feminine hygiene pose an added challenge for women on the move\. The difficulty of obtaining drinking water, added to the scarcity of economic and material resources, make something as natural as menstruation one more obstacle… this week at NNK we have focused on making a large distribution of hygiene products to families, with the intention of maintaining it weekly\. Some days ago we have distributed pads, diapers, soap, laundry detergent and other things that we consider basic\. In this way the more than 200 people who live in this place, will be able to have at least during the next days a minimum hygiene\.” Photo and Info by [Alba Domínguez and Joan Giralt\.](https://www.facebook.com/NoNameKitchenBelgrade/posts/1117695341962082)](../assets/35a089d01604/1*ZEzK_rmuHAStzEmJJ_BkYQ.jpeg)
 
 **Update from Velika Kladusa, Bosnia** :“Days are getting colder and rainier in Velika Kladusa, where around 60 families are forced to live in the ‘jungle’ or in abandoned houses in a village near the city\. The number of people changes slightly daily but we counted, the lasts days, 57 families\. 220 people in total, including children and babies\.”
 “Among the many difficulties that the situation in which these people find themselves already entails, needs as basic as decent feminine hygiene pose an added challenge for women on the move\. The difficulty of obtaining drinking water, added to the scarcity of economic and material resources, make something as natural as menstruation one more obstacle… this week at NNK we have focused on making a large distribution of hygiene products to families, with the intention of maintaining it weekly\. Some days ago we have distributed pads, diapers, soap, laundry detergent and other things that we consider basic\. In this way the more than 200 people who live in this place, will be able to have at least during the next days a minimum hygiene\.” Photo and Info by [Alba Domínguez and Joan Giralt\.](https://www.facebook.com/NoNameKitchenBelgrade/posts/1117695341962082)
@@ -190,7 +190,7 @@ The eight Pakistani men who used to live there are now “on game,” trying to 
 #### SERBIA
 
 
-![“A local family from Sombor recently contacted us and prepared their children’s shoes for refugee children\. Today, our team made happy a boy from Syria who is staying with his father in bad conditions around the camp\. They are not accepted into the camp and it is becoming increasingly difficult to get accommodation\. Many refugees are transported south\.” Photo by [Asylum Protection in Serbia](https://twitter.com/APC_CZA/status/1325761908952199170)](assets/35a089d01604/1*DYl9INUFOfY3Bhrg89ffgg.jpeg)
+![“A local family from Sombor recently contacted us and prepared their children’s shoes for refugee children\. Today, our team made happy a boy from Syria who is staying with his father in bad conditions around the camp\. They are not accepted into the camp and it is becoming increasingly difficult to get accommodation\. Many refugees are transported south\.” Photo by [Asylum Protection in Serbia](https://twitter.com/APC_CZA/status/1325761908952199170)](../assets/35a089d01604/1*DYl9INUFOfY3Bhrg89ffgg.jpeg)
 
 “A local family from Sombor recently contacted us and prepared their children’s shoes for refugee children\. Today, our team made happy a boy from Syria who is staying with his father in bad conditions around the camp\. They are not accepted into the camp and it is becoming increasingly difficult to get accommodation\. Many refugees are transported south\.” Photo by [Asylum Protection in Serbia](https://twitter.com/APC_CZA/status/1325761908952199170)
 
@@ -217,7 +217,7 @@ The eight Pakistani men who used to live there are now “on game,” trying to 
 #### FRANCE
 
 
-![L’Auberge des Migrants is reporting on an example of politically directed financial aid, where the City of Calais is rewards a 4,000 euro subsidy for “helping the poor\.” Photo by them and read more [here](https://www.facebook.com/AubergeMigrants/posts/10158429223120339) \.](assets/35a089d01604/1*c8ws9oZYVADlA6tV9vw1tw.jpeg)
+![L’Auberge des Migrants is reporting on an example of politically directed financial aid, where the City of Calais is rewards a 4,000 euro subsidy for “helping the poor\.” Photo by them and read more [here](https://www.facebook.com/AubergeMigrants/posts/10158429223120339) \.](../assets/35a089d01604/1*c8ws9oZYVADlA6tV9vw1tw.jpeg)
 
 L’Auberge des Migrants is reporting on an example of politically directed financial aid, where the City of Calais is rewards a 4,000 euro subsidy for “helping the poor\.” Photo by them and read more [here](https://www.facebook.com/AubergeMigrants/posts/10158429223120339) \.
 ### 11 migrants and 8 associations from Calais proceed against the Pas\-de\-Calais prefecture in court
@@ -225,7 +225,7 @@ L’Auberge des Migrants is reporting on an example of politically directed fina
 They claim the eviction of 800 people on September 29th was illegal\. They argue “The prefect of Pas de Calais invokes ‘flagrance’ as a legal basis for this expulsion\. However, this procedure \(…\) in no way authorizes the expulsion of people deemed ‘undesirable\.’” The hearing is scheduled for November 18th\. More [here](https://www.infomigrants.net/fr/post/28342/calais-11-migrants-et-8-associations-assignent-le-prefet-du-pas-de-calais-devant-la-justice?preview=1604913297988&fbclid=IwAR1e8073dEh9GVrfZxq-Dyto_2KXIE-gNxpncfYi7HihiZxiJs-YhiskJBA) \.
 
 
-![In Merlimont, the Accommodation Center for Transient Migrants reopened its doors last Thursday\. Photo by [Radio 6](https://www.radio6.fr/article-53877-a-merlimont-centre-dhebergement-pour-des-migrants-de-passage-a-rouvert-ses-portes-jeudi-dernier-.html?fbclid=IwAR37oD2UQbhnj7QwH0YH6OaW5t_A3cvEbxM1DE5cxX0Ou8gIm-gRGtcEjyA)](assets/35a089d01604/1*TCnhv3HBsZAAlUk9E4jXUg.jpeg)
+![In Merlimont, the Accommodation Center for Transient Migrants reopened its doors last Thursday\. Photo by [Radio 6](https://www.radio6.fr/article-53877-a-merlimont-centre-dhebergement-pour-des-migrants-de-passage-a-rouvert-ses-portes-jeudi-dernier-.html?fbclid=IwAR37oD2UQbhnj7QwH0YH6OaW5t_A3cvEbxM1DE5cxX0Ou8gIm-gRGtcEjyA)](../assets/35a089d01604/1*TCnhv3HBsZAAlUk9E4jXUg.jpeg)
 
 In Merlimont, the Accommodation Center for Transient Migrants reopened its doors last Thursday\. Photo by [Radio 6](https://www.radio6.fr/article-53877-a-merlimont-centre-dhebergement-pour-des-migrants-de-passage-a-rouvert-ses-portes-jeudi-dernier-.html?fbclid=IwAR37oD2UQbhnj7QwH0YH6OaW5t_A3cvEbxM1DE5cxX0Ou8gIm-gRGtcEjyA)
 #### EU

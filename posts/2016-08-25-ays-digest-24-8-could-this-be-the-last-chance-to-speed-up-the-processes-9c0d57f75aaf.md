@@ -1,5 +1,5 @@
 ---
-title: AYS Digest 24/8: Could this be the last chance to speed up the processes…?
+title: "AYS Digest 24/8: Could this be the last chance to speed up the processes…?"
 author: Are You Syrious?
 date: 2016-08-25T03:08:52.015+0100
 last_modified_at: 2016-08-25T05:15:16.463+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,greece,relocation,syria]
 description: Turkey-backed Syrian rebels entered IS held territory. Greece and Italy trying to speed up the relocation with the EU member states. Arson…
 image:
-  path: assets/9c0d57f75aaf/1*pnhikmJ-Ad8kWtlM4blvyQ.jpeg
+  path: ../assets/9c0d57f75aaf/1*pnhikmJ-Ad8kWtlM4blvyQ.jpeg
 ---
 
 ### AYS Digest 24/8: Could this be the last chance to speed up the processes…?
 #### Turkey\-backed Syrian rebels entered IS held territory\. Greece and Italy trying to speed up the relocation with the EU member states\. Arson at the refugee squat in Athens\. While some European countries encourage the relocation process, others indifferently allow violence towards the refugees\. So far the largest number of refugees staying in Calais, Paris consistently raiding refugee makeshift camps
 
 
-![Large number of refugee children are suffering from the injuries caused by mosquito bites at the camps \(Photo: [Through Refugee Eyes](https://www.facebook.com/throughrefugeeeyes/) \)](assets/9c0d57f75aaf/1*pnhikmJ-Ad8kWtlM4blvyQ.jpeg)
+![Large number of refugee children are suffering from the injuries caused by mosquito bites at the camps \(Photo: [Through Refugee Eyes](https://www.facebook.com/throughrefugeeeyes/) \)](../assets/9c0d57f75aaf/1*pnhikmJ-Ad8kWtlM4blvyQ.jpeg)
 
 Large number of refugee children are suffering from the injuries caused by mosquito bites at the camps \(Photo: [Through Refugee Eyes](https://www.facebook.com/throughrefugeeeyes/) \)
 #### New arrivals
@@ -28,7 +28,7 @@ This morning at 4 a\.m\. a military operation started in northern Syria\. Turkis
 Arson was reported at the Athens’ Notara 26 squat in the night from Tuesday to Wednesday\. Nobody was hurt\. Two unidentified people set the fire to the lower part of the squat that is a home to over 100 refugees\. Other refugee squats of Athens have offered support and everyone is working to repair the damage as soon as possible\. We absolutely condemn any hostile behavior, regardless of the side it comes from, and we expect the police forces of all EU countries to always serve and protect not only the citizens of their countries, but also the people they are hosting, which has not always been the case thus far\.
 
 
-![Notara squat after its first floor was destroyed in the fire \(Photo: Marina Liaki\)](assets/9c0d57f75aaf/1*leJZd9YWEWAdz0ujdkGpeA.jpeg)
+![Notara squat after its first floor was destroyed in the fire \(Photo: Marina Liaki\)](../assets/9c0d57f75aaf/1*leJZd9YWEWAdz0ujdkGpeA.jpeg)
 
 Notara squat after its first floor was destroyed in the fire \(Photo: Marina Liaki\)
 
@@ -56,7 +56,7 @@ These figures naturally do not fully meet the needs expressed by the Greek gover
 Instead of speeding up with those processes that will finally enable families to come together, put children in normal circumstances for learning and growing, and let people move on with their lives after having spent months in unbearable circumstances, [Spiegel](http://www.spiegel.de/politik/ausland/griechenland-die-schlimmen-bedingungen-im-fluechtlingslager-softex-a-1108965.html) confirms recent news that there are plans to renovate and rearrange the camps, thereby separating refugees from the rest of the society even more\. The plans include building provisional schools, despite previous announcements that refugee children would start school with their Greek friends in September\.
 
 
-![Many refugees are back in the parks of Thessaloniki, hoping to find a refuge for their children and themselves soon enough\. Last night the park was once again evicted, leaving the refugees to either sleep on the pavements or to move to remote parks far from the train station \(Photo: Arye Wachsmuth\)](assets/9c0d57f75aaf/1*RTnpmQY8mqxRJAKRevyYmg.jpeg)
+![Many refugees are back in the parks of Thessaloniki, hoping to find a refuge for their children and themselves soon enough\. Last night the park was once again evicted, leaving the refugees to either sleep on the pavements or to move to remote parks far from the train station \(Photo: Arye Wachsmuth\)](../assets/9c0d57f75aaf/1*RTnpmQY8mqxRJAKRevyYmg.jpeg)
 
 Many refugees are back in the parks of Thessaloniki, hoping to find a refuge for their children and themselves soon enough\. Last night the park was once again evicted, leaving the refugees to either sleep on the pavements or to move to remote parks far from the train station \(Photo: Arye Wachsmuth\)
 
@@ -71,7 +71,7 @@ Star Hostel Belgrade urgently needs employees\. Local volunteers interested in f
 The Croatian [Minister of Interior](http://www.mup.hr/242802.aspx) reports that on Tuesday Croatia welcomed 10 Syrians, following the EU Council decision to help Greece and Italy with the influx of refugees\. That makes a total of only 14 refugees accepted by Croatia so far under the relocation program\. According to the previous arrangement, more than 1500 people are supposed to arrive to Croatia from Greece and Italy\. For the time being, the newcomers will be temporarily placed at the Refugee Centre Porin in Zagreb\.
 
 
-![A much needed message at the Manu Chao concert on Tuesday in Varaždin, Croatia \(Photo: Emir Omanović/AYS\)](assets/9c0d57f75aaf/1*g2ve_8vLAxb1gbd61CijSw.jpeg)
+![A much needed message at the Manu Chao concert on Tuesday in Varaždin, Croatia \(Photo: Emir Omanović/AYS\)](../assets/9c0d57f75aaf/1*g2ve_8vLAxb1gbd61CijSw.jpeg)
 
 A much needed message at the Manu Chao concert on Tuesday in Varaždin, Croatia \(Photo: Emir Omanović/AYS\)
 
@@ -93,7 +93,7 @@ Italy, the main entry point for Africans but rarely their planned destination, i
 Thousands of people, including infants, are sleeping on the pavements of Paris\. Many of those people have family members in the UK, but can’t join them until their asylum case is completed\. This can take up to one year\. While they wait, they will be living on the streets of Paris or in Calais, the two refugee hubs of France\. The local police frequently arrest and/or evacuate the refugees, explaining they would be brought to a shelter\. In fact, some of them are just arrested and released and a lot of refugees return to the camps after a few days or weeks\. The tents, however, are often destroyed\. The goal is probably to prevent these camps from becoming permanent street lodging\.
 
 
-![Paris refugee provisional homes \(Photo: Rando Walter\)](assets/9c0d57f75aaf/1*AW9HxOwznwtPPokP6a4boA.jpeg)
+![Paris refugee provisional homes \(Photo: Rando Walter\)](../assets/9c0d57f75aaf/1*AW9HxOwznwtPPokP6a4boA.jpeg)
 
 Paris refugee provisional homes \(Photo: Rando Walter\)
 #### Calais
@@ -101,7 +101,7 @@ Paris refugee provisional homes \(Photo: Rando Walter\)
 Although not as frequently talked about, Calais hosts the largest number of refugees so far, [Liberation](http://www.liberation.fr/france/2016/08/21/a-calais-les-migrants-plus-nombreux-que-jamais_1473881) confirms\. There are now more people crammed into 35% of the originally planned space\. Meanwhile, police prevent wood from entering the camp because they do not want permanent shelters to be built\. Only tents are authorized\. NGOs say there are more than 9,000 people and approximately 10 more tents put up per day\. Calais Kitchens are in need of [more tea](https://www.facebook.com/calaiskitchens/photos/a.1224302977587070.1073741828.1214750961875605/1417149704969062/?type=3&hc_location=ufi) , while the Care4Calais team has conducted a [survey](https://www.facebook.com/care4calais/photos/a.1046164975416459.1073741829.1046117708754519/1263858486980439/?type=3&theater) among the refugees and are now asking for the items mostly requested by the Calais residents: joggers, hoodies, shirts, boxers, spray deodorants, shampoo and shower gel, socks, shaving kits, torches and lanterns, SIM cards etc\. If you can help, contact them at: [www\.care4calais\.org](http://www.care4calais.org) \.
 
 
-![Care4Calais team \(Photo: Care4Calais\)](assets/9c0d57f75aaf/1*mEc36yl5XwE3ROVgpDX2EQ.jpeg)
+![Care4Calais team \(Photo: Care4Calais\)](../assets/9c0d57f75aaf/1*mEc36yl5XwE3ROVgpDX2EQ.jpeg)
 
 Care4Calais team \(Photo: Care4Calais\)
 

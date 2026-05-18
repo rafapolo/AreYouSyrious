@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 29/2–01/3 2020: Greece — Emergency measures and live-ammo training at border
+title: "AYS Weekend Digest 29/2–01/3 2020: Greece — Emergency measures and live-ammo training at border"
 author: Are You Syrious?
 date: 2020-03-02T17:02:56.913+0000
 last_modified_at: 2020-03-02T17:02:56.913+0000
@@ -7,18 +7,18 @@ categories: Are You Syrious?
 tags: []
 description: Emergency measures imposed in Greece, and live ammunition training along the land and sea borders with Turkey / Reports of torture in…
 image:
-  path: assets/544c2e089cc/0*D1qzihgd5eZbgcCm.jpeg
+  path: ../assets/544c2e089cc/0*D1qzihgd5eZbgcCm.jpeg
 ---
 
 ### AYS Weekend Digest 29/2–01/3 2020: Greece — Emergency measures and live\-ammo training at border
 #### Emergency measures imposed in Greece, and live ammunition training along the land and sea borders with Turkey / Reports of torture in Libyan centres / Deceitful behaviour of IOM in Bosnia
 
 
-![](assets/544c2e089cc/0*hBja8xb5stHeQ8wp)
+![](../assets/544c2e089cc/0*hBja8xb5stHeQ8wp)
 
 
 
-![](assets/544c2e089cc/0*D1qzihgd5eZbgcCm.jpeg)
+![](../assets/544c2e089cc/0*D1qzihgd5eZbgcCm.jpeg)
 
 
 “What we have seen at the European external border in the last 48 hours is the complete breakdown of the European Union as the so\-called defender of human rights\.” \( [Sea Watch](https://twitter.com/seawatch_intl/status/1234168191989014532) \)
@@ -96,27 +96,27 @@ Attacks on journalists on Lesvos have been so severe that they led the Foreign P
 
 
 
-![](assets/544c2e089cc/0*XDHrd-6O0_WxdaNL)
+![](../assets/544c2e089cc/0*XDHrd-6O0_WxdaNL)
 
 
 
-![](assets/544c2e089cc/0*dESWUalGD_Zzfki2.jpeg)
+![](../assets/544c2e089cc/0*dESWUalGD_Zzfki2.jpeg)
 
 
 
-![](assets/544c2e089cc/0*gI3-pMVHx90OSV6x)
+![](../assets/544c2e089cc/0*gI3-pMVHx90OSV6x)
 
 
 
-![](assets/544c2e089cc/0*HWX8dxf_Q7gzKoxj.jpeg)
+![](../assets/544c2e089cc/0*HWX8dxf_Q7gzKoxj.jpeg)
 
 
 
-![](assets/544c2e089cc/0*VTWy7m1nZh1ZTqQ0)
+![](../assets/544c2e089cc/0*VTWy7m1nZh1ZTqQ0)
 
 
 
-![](assets/544c2e089cc/0*UPd-MQX6-0g4abyn.jpeg)
+![](../assets/544c2e089cc/0*UPd-MQX6-0g4abyn.jpeg)
 
 
 \(Aftermath of fires on Friday\. 20 tents were burned\. Police reacted by closing the road\. Photo Credit: [Pothiti Kitromilidi](https://www.facebook.com/pothiti.kitromilidi?fref=gs&__tn__=%2CdC-R-R&eid=ARAO5RoMZkZNjA8aexhgdHHJ5S9cB8qQ659AJcQiaKdy95m17C_LnbHW6-W68oTs700jNgpQ5JyhXhJn&hc_ref=ARTgn_bNCXPwZTYxLoIrM5zT-9SJt43oZTAs1jQB71F2g57njdZEiNhW5JUQl4ebqP4&dti=421759534684819&hc_location=group) \)
@@ -262,19 +262,19 @@ FRANCE
 
 
 
-![](assets/544c2e089cc/0*Fkg0xZLvELwKYiYt)
+![](../assets/544c2e089cc/0*Fkg0xZLvELwKYiYt)
 
 
 
-![](assets/544c2e089cc/0*fO7GyG74y1TqHgmA.jpeg)
+![](../assets/544c2e089cc/0*fO7GyG74y1TqHgmA.jpeg)
 
 
 
-![](assets/544c2e089cc/0*Zk9Gyv6LdVv3qSAI)
+![](../assets/544c2e089cc/0*Zk9Gyv6LdVv3qSAI)
 
 
 
-![](assets/544c2e089cc/0*7Khggce5wu_t0T-x.jpeg)
+![](../assets/544c2e089cc/0*7Khggce5wu_t0T-x.jpeg)
 
 
 Dunkirk makeshift camp \(Photo by [Gent4Humanity](https://www.facebook.com/VZWBelgiumGent4Humanity/posts/2543843955933415) \)
@@ -287,19 +287,19 @@ Dunkirk makeshift camp \(Photo by [Gent4Humanity](https://www.facebook.com/VZWBe
 
 
 
-![](assets/544c2e089cc/0*ow7UbA4hztEhwkMB)
+![](../assets/544c2e089cc/0*ow7UbA4hztEhwkMB)
 
 
 
-![](assets/544c2e089cc/0*8ou1bb2Oy1M91BJB.jpeg)
+![](../assets/544c2e089cc/0*8ou1bb2Oy1M91BJB.jpeg)
 
 
 
-![](assets/544c2e089cc/0*sjIV6ZMY32v9CP0w)
+![](../assets/544c2e089cc/0*sjIV6ZMY32v9CP0w)
 
 
 
-![](assets/544c2e089cc/0*-j_nrpKEwN2nvKXj.jpeg)
+![](../assets/544c2e089cc/0*-j_nrpKEwN2nvKXj.jpeg)
 
 
 Dunkirk makeshift camp \( [Gent4Humanity](https://www.facebook.com/VZWBelgiumGent4Humanity/posts/2543843955933415) \)

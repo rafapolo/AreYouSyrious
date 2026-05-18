@@ -1,5 +1,5 @@
 ---
-title: AYS Digest 11/11: Refugees march towards the Croatian border
+title: "AYS Digest 11/11: Refugees march towards the Croatian border"
 author: Are You Syrious?
 date: 2016-11-11T23:28:37.084+0000
 last_modified_at: 2016-11-12T03:36:56.267+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,france,paris,dublin,syria]
 description: UNHCR says transfers to the Greek mainland are necessary. Shelters need to be improved as winter approaches. Children sleep in the streets…
 image:
-  path: assets/55804ac4c434/0*ih2o56ka8WiYDULv.
+  path: ../assets/55804ac4c434/0*ih2o56ka8WiYDULv.
 ---
 
 ### AYS Digest 11/11: Refugees march towards the Croatian border
@@ -15,7 +15,7 @@ image:
 _UNHCR says transfers to the Greek mainland are necessary\. Shelters need to be improved as winter approaches\. Children sleep in the streets of Paris\._
 
 
-![Photo by Belgrade Updates](assets/55804ac4c434/0*ih2o56ka8WiYDULv.)
+![Photo by Belgrade Updates](../assets/55804ac4c434/0*ih2o56ka8WiYDULv.)
 
 Photo by Belgrade Updates
 #### Syria & Iraq
@@ -33,7 +33,7 @@ UNHCR says reception centres on the islands “continue to face serious challeng
 The newest [map of Greek refugee camps](http://data.unhcr.org/mediterranean/download.php?id=2157) provides evidence for this position\. Currently, the mainland houses only 34,849 refugees, out of a total capacity of 60,944\. Meanwhile on the islands, over 16,000 live in camps meant for only 8,000 people\. However, after the Moria fire in September, a spokeswoman for the European Commission, argued that transfers to the mainland should remain limited, in order to “avoid secondary movement to the rest of Europe\.”
 
 
-![](assets/55804ac4c434/1*0lwmvsTaVc-nX6zPDua4UA.png)
+![](../assets/55804ac4c434/1*0lwmvsTaVc-nX6zPDua4UA.png)
 
 ### Shelters need to improve as temperatures drop
 
@@ -42,7 +42,7 @@ UNHCR also states that “there is still an urgent need for authorities to equip
 Refugee Support Greece reports that UNHCR has sent ISO Boxes to the Alexandreia camp, meaning that refugees can finally leave their tents before temperatures drop even further\.
 
 
-![Photo by Refugee Support Greece](assets/55804ac4c434/0*YdF5rQaXix2MqC9p.)
+![Photo by Refugee Support Greece](../assets/55804ac4c434/0*YdF5rQaXix2MqC9p.)
 
 Photo by Refugee Support Greece
 
@@ -55,7 +55,7 @@ Over the long\-term, the real solution is not only to improve conditions in the 
 Until now, only 5,437 refugees out of a target of 66,400 have been relocated\.
 
 
-![Photo by David Lohmueller](assets/55804ac4c434/0*D3JXxBnmpWLgZNcg.jpg)
+![Photo by David Lohmueller](../assets/55804ac4c434/0*D3JXxBnmpWLgZNcg.jpg)
 
 Photo by David Lohmueller
 ### Useful contacts in Athens
@@ -69,13 +69,13 @@ According to No Border Activists, around 100–150 people are walking on the hig
 The march was prompted by yesterday’s police raid on refugees living in Belgrade’s abandoned warehouses, during which 109 people were taken on buses and sent to the Presevo camp\.
 
 
-![](assets/55804ac4c434/0*8Hb00N6yJEJ-kNsL.)
+![](../assets/55804ac4c434/0*8Hb00N6yJEJ-kNsL.)
 
 
 More than 1,000 people are still sleeping rough in Belgrade in extremely difficult conditions, and the approaching winter is only making matters worse\. However, camps are overcrowded and refugees fear being sent back to Macedonia, which partially explains why they prefer to sleep in the streets\.
 
 
-![Photo by Refugee Aid Miksalište](assets/55804ac4c434/0*xUnbtSuThvbtx8yH.)
+![Photo by Refugee Aid Miksalište](../assets/55804ac4c434/0*xUnbtSuThvbtx8yH.)
 
 Photo by Refugee Aid Miksalište
 #### France
@@ -91,7 +91,7 @@ Paris Refugee Ground Support walked through Paris and still found several childr
 
 
 
-![Photo by Paris Refugee Ground Support](assets/55804ac4c434/0*KSFaL0cRuWdkuRLh.)
+![Photo by Paris Refugee Ground Support](../assets/55804ac4c434/0*KSFaL0cRuWdkuRLh.)
 
 Photo by Paris Refugee Ground Support
 
@@ -103,7 +103,7 @@ As we recently wrote, an article by [Le Monde](http://www.lemonde.fr/immigration
 Baam, a local NGO, fears that the Parisian camp will also act as a triage centre, allowing the administration to decide between “good” and “bad” migrants and deport refugees according to Dublin regulations\.
 
 
-![Photo by Baam](assets/55804ac4c434/0*UfKUFVdAh8l3DvUR.)
+![Photo by Baam](../assets/55804ac4c434/0*UfKUFVdAh8l3DvUR.)
 
 Photo by Baam
 #### UK

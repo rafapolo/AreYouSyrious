@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 05/08/2019: Frontex being a silent witness of human rights violations at European…
+title: "AYS Daily Digest 05/08/2019: Frontex being a silent witness of human rights violations at European…"
 author: Are You Syrious?
 date: 2019-08-06T15:16:51.443+0100
 last_modified_at: 2019-08-06T16:24:23.788+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,frontex,human-rights,deportations]
 description: Situation of people deported into desert in Tunisia still unclear // Decreto Sicurezza Bis approved in Italy // Another vessel waits for…
 image:
-  path: assets/cb216f70954c/1*ogpL67Y6hFZofE8TFncsWw.jpeg
+  path: ../assets/cb216f70954c/1*ogpL67Y6hFZofE8TFncsWw.jpeg
 ---
 
 ### AYS Daily Digest 05/08/2019: Frontex being a silent witness of human rights violations at European borders
 #### Situation of people deported into desert in Tunisia still unclear // Decreto Sicurezza Bis approved in Italy // Another vessel waits for permission to dock // New rescue boat on its way // More news from Turkey, Malta…
 
 
-![Credit: Open Arms](assets/cb216f70954c/1*ogpL67Y6hFZofE8TFncsWw.jpeg)
+![Credit: Open Arms](../assets/cb216f70954c/1*ogpL67Y6hFZofE8TFncsWw.jpeg)
 
 Credit: Open Arms
 #### FEATURE

@@ -1,5 +1,5 @@
 ---
-title: Podcast: Turkey and Greece - the story behind the headlines
+title: "Podcast: Turkey and Greece - the story behind the headlines"
 author: Are You Syrious?
 date: 2020-03-24T14:45:34.032+0000
 last_modified_at: 2020-03-24T14:45:34.032+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [turkey,lesvos,greece,special,refugees]
 description: This unplanned special report serves as a critical update and as a preface to two extensive field reports to be released in the coming…
 image:
-  path: assets/f8c80dc0c388/1*_W0Y37fnVFjOLEJ2nSL9dA.jpeg
+  path: ../assets/f8c80dc0c388/1*_W0Y37fnVFjOLEJ2nSL9dA.jpeg
 ---
 
 ### Podcast: Turkey and Greece \- the story behind the headlines
 #### This unplanned special report serves as a critical update and as a preface to two extensive field reports to be released in the coming days, made by Eric Maddox of the Latitude Adjustment Podcast in cooperation with AYS
 
 
-![Moria camp on Lesvos is currently hosting over 20\.000 people\. Photo: Eric Maddox](assets/f8c80dc0c388/1*_W0Y37fnVFjOLEJ2nSL9dA.jpeg)
+![Moria camp on Lesvos is currently hosting over 20\.000 people\. Photo: Eric Maddox](../assets/f8c80dc0c388/1*_W0Y37fnVFjOLEJ2nSL9dA.jpeg)
 
 Moria camp on Lesvos is currently hosting over 20\.000 people\. Photo: Eric Maddox
 
@@ -33,7 +33,7 @@ One of the advantages of podcasting lay in its ability to reach people despite t
 **Deman Güler** is a human rights attorney in Turkey and manages the Human Rights Center and Commission for Refugees for the [İzmir Bar Association](https://www.izmirbarosu.org.tr/EN/?fbclid=IwAR2t4ZzqU6AiatiTGDTEuF_cZ3CI33gYXSeLHPjCpE2Lh9wekJkLeV9YGiQ) \. Those familiar with the geography of the migratory routes will recognize Izmir as one of the principal staging areas for smugglers and for those trying to cross by sea to the Greek isles\.
 
 
-![Refocus Media Labs is empowering refugees through teaching media skills\. Photo: Douglas Herman](assets/f8c80dc0c388/1*mr8-TvZbpSoaNRPeEqeY6Q.jpeg)
+![Refocus Media Labs is empowering refugees through teaching media skills\. Photo: Douglas Herman](../assets/f8c80dc0c388/1*mr8-TvZbpSoaNRPeEqeY6Q.jpeg)
 
 Refocus Media Labs is empowering refugees through teaching media skills\. Photo: Douglas Herman
 #### **The Wide\-Focus:**
@@ -43,7 +43,7 @@ Much has changed since I left Greece at the end of February, and much has change
 In 2015 large numbers of asylum seekers, mostly from Syria, made their way to the borders of the EU in what became the largest movement of refugees in Europe since the Second World War\. Many had already spent years [languishing in camps across the Middle East, North Africa, and elsewhere](https://www.amnesty.org/en/latest/campaigns/2013/12/freezing-conditions-forgotten-camps-refugees-from-syria-in-lebanons-bekaa-valley/) before finally growing desperate at their conditions and at their sense of abandonment by the international community\. European Union member states received more than 1\.2 million first\-time applications for asylum in 2015\. The overwhelming majority of those eventually granted asylum were settled in Germany\.
 
 
-![The Greek government officially asked Frontex last night to launch a rapid border intervention at its sea borders in the Aegean, as of March 2020\.](assets/f8c80dc0c388/1*80tGRyUH_deAYhwRK2S3ZA.jpeg)
+![The Greek government officially asked Frontex last night to launch a rapid border intervention at its sea borders in the Aegean, as of March 2020\.](../assets/f8c80dc0c388/1*80tGRyUH_deAYhwRK2S3ZA.jpeg)
 
 The Greek government officially asked Frontex last night to launch a rapid border intervention at its sea borders in the Aegean, as of March 2020\.
 
@@ -54,7 +54,7 @@ And while some of this will be known to those who have been following events mor
 On the other side of the Meditteranean Italy effectively sealed off its ports and Malta behaved in similar fashion, with the result that crossings shifted Westwards to Spain\. You can catch [my conversation about the situation in Malta, and about the mediterannean routes more broadly, in episode 29 of Latitude Adjustment podcast](https://www.latitudeadjustmentpod.com/podcast/2019/3/31/episode-29-maria-pisani-malta-amp-the-mediterranean-route) \.
 
 
-![A message from the Ocean Viking recorded on 21 August 2019, as the ship remained stranded in the Mediterranean Sea for the 12th day since the first of four consecutive rescues, with 356 men women and children on board waiting to be allowed to disembark in a place of safety\. Photo: MSF](assets/f8c80dc0c388/1*fCzL6UOE5oT-GDB3CM8hUw.jpeg)
+![A message from the Ocean Viking recorded on 21 August 2019, as the ship remained stranded in the Mediterranean Sea for the 12th day since the first of four consecutive rescues, with 356 men women and children on board waiting to be allowed to disembark in a place of safety\. Photo: MSF](../assets/f8c80dc0c388/1*fCzL6UOE5oT-GDB3CM8hUw.jpeg)
 
 A message from the Ocean Viking recorded on 21 August 2019, as the ship remained stranded in the Mediterranean Sea for the 12th day since the first of four consecutive rescues, with 356 men women and children on board waiting to be allowed to disembark in a place of safety\. Photo: MSF
 
@@ -68,13 +68,13 @@ In July 2019 a new right wing government took power in Greece, based in part on 
 However the result has been a continuation of the large bottleneck of refugees trapped on the Greek Islands with a policy of [malign neglect creating filthy and dangerous conditions](https://www.theguardian.com/global-development/2020/feb/11/un-calls-for-urgent-evacuation-of-lesbos-refugee-camp) that exemplify the EU’s longstanding strategy to manage migration flows through deterrence\. But to paint a crude image with words, imagine a converted former military base designed to temporarily accommodate roughty 3,000 people, currently packed beyond bursting with approximately 20,000 souls spilling out onto its periphery\. This includes unaccompanied minors, families, the elderly and infirm, and young men, all living in fetid conditions amidst mountains of [garbage which spill into the dry riverbeds](https://www.youtube.com/watch?v=Ez_U2jXX4jI&t=72s) that cut through the camp\. Filthy latrines drive people to use the surrounding hillsides as an open lavatory making the walk across what open areas remain along the camps’s periphery a rather treacherous undertaking, with the result that human excrement will likely be tracked back into crowded shelters and common areas\. These same hillsides have been stripped bare of olive trees as residents are left to scavenge whatever source of firewood they can to fend off cold and wet nights with no electricity or running water\.
 
 
-[![Come Walk Through The Moria Refugee Camp "Olive Grove"](assets/f8c80dc0c388/b0d4_hqdefault.jpg "Come Walk Through The Moria Refugee Camp "Olive Grove"")](https://www.youtube.com/watch?v=Ez_U2jXX4jI)
+[![Come Walk Through The Moria Refugee Camp "Olive Grove"](../assets/f8c80dc0c388/b0d4_hqdefault.jpg "Come Walk Through The Moria Refugee Camp "Olive Grove"")](https://www.youtube.com/watch?v=Ez_U2jXX4jI)
 
 
 Practically all of the residents of Moria that I spoke with mentioned living in constant fear as a climate of general lawlessness has been left to take hold over the camp, with reports of robberies, stabbings, and even [homicides](https://www.infomigrants.net/en/post/19064/minor-killed-at-moira-migrant-camp-on-lesbos) in recent months\. My first thought upon seeing the lack of access to hygiene resources in Mora, and and upon seeing a level of filth that can only be described as post apocalyptic, were that the camp is a looming public health catastrophe that has been all but engineered\. And this was _before_ COVID\-19 exploded in Europe and the West\. [At least one case of the virus has already been reported amongst the local population on Lesvos](ays-daily-digest-09-03-2020-coronavirus-reaches-lesvos-supermarket-worker-falls-sick-eec0d7fc162d) , making it not a question of if but rather when an outbreak will take place in Moria and in other camps, as thousands of immunocompromised people who are already struggling with ill health are forced to live in filth as NGO’s close shop in response to the Coronavirus\. This means already overwhelmed support services have presently been reduced to almost nothing in the face of a growing pandemic\. That’s Moria camp, by far the biggest camp, but still just one camp on one island\. Imagine this scenario playing out across the camps on the other Greek isles, where conditions differ only in scale\. I can’t imagine that my Armenian ancestors faced such conditions when they too came to Greece by boat as refugees roughly one hundred years ago\. Not only is it shocking to consider that one is standing on European soil in Moria Camp, there’s little evidence to suggest that one is standing in the 21st Century\. And to cap it off [a fire broke out in a crowded section of the camp](https://www.instagram.com/p/B91dqkrobgD/) on March 16th\. [The body of a 6 or 7\-year\-old girl was found in the debris](https://www.cbc.ca/news/world/greek-migrant-camp-1.5499001) \.
 
 
-![People are still trying to have normal lives and even small businesses inside Moria\. Photo: Eric Maddox](assets/f8c80dc0c388/1*vVJAH-ro9h1ji7iVB9Rl_Q.jpeg)
+![People are still trying to have normal lives and even small businesses inside Moria\. Photo: Eric Maddox](../assets/f8c80dc0c388/1*vVJAH-ro9h1ji7iVB9Rl_Q.jpeg)
 
 People are still trying to have normal lives and even small businesses inside Moria\. Photo: Eric Maddox
 
@@ -83,7 +83,7 @@ Greece’s unique geographical position as an EU member state that shares no phy
 In January island residents called for a one\-day general strike across the islands, mounting large protests that appeared to be uniformly peaceful\. However frustrations and misinformation have also led to a Rise in right wing attacks and threats on NGO staffers and refugees, [a topic that I covered in a recent written report for Are You Syrious](ays-special-from-lesvos-right-wing-attacks-on-refugees-volunteers-and-locals-9f98779aef8e) which documented first\-hand testimonies of some of the victims\.
 
 
-![Antifascist Demonstration on the evening of February 4th, in the wake of Lesvos riots\. Photo: Eric Maddox](assets/f8c80dc0c388/1*3xRCfVlcgqS18Dj6OHHgqQ.jpeg)
+![Antifascist Demonstration on the evening of February 4th, in the wake of Lesvos riots\. Photo: Eric Maddox](../assets/f8c80dc0c388/1*3xRCfVlcgqS18Dj6OHHgqQ.jpeg)
 
 Antifascist Demonstration on the evening of February 4th, in the wake of Lesvos riots\. Photo: Eric Maddox
 
@@ -97,7 +97,7 @@ As for Turkey, the country currently hosts 3\.7 million Syrian refugees\. Add to
 And then there’s Turkey’s military involvement in Syria, just on the other side of its southern border\. As the Syrian government has fought to retake Idlib \(the last remaining rebel stronghold located in the northwest of the country\) [nearly a million people have been internally displaced since Christmas, making this the largest displacement of people in Syria since the war began\.](https://www.nytimes.com/2020/02/18/world/europe/turkey-syria-idlib.html?fbclid=IwAR3Lbb_3MR81i8Uezgombm7dWubVrtWpgTZtsDNEm02ARrw8lT732ON2HoM) During this time people have been sleeping, starving and freezing to death in frigid temperatures on the periphery of an active war zone, and it’s possible that nearly a million more could join them once the final urban strongholds are taken\.
 
 
-![Syrian refugees in bordering regions in Turkey by the end of January 2020\. Photo: UNHCR](assets/f8c80dc0c388/1*1YGjktWr9zPvNfcoDn5Oyw.png)
+![Syrian refugees in bordering regions in Turkey by the end of January 2020\. Photo: UNHCR](../assets/f8c80dc0c388/1*1YGjktWr9zPvNfcoDn5Oyw.png)
 
 Syrian refugees in bordering regions in Turkey by the end of January 2020\. Photo: UNHCR
 
@@ -108,7 +108,7 @@ Reports quickly followed of [refugees being bussed from inside Turkey to the lan
 “Clashes” is a term that should be utilized with caution as it’s all too often deployed as a rhetorical cover for one side beating up on another, but in this case it’s not clear to me just who is responsible for the escalations on the border\. All that’s clear is that asylum seekers who were clearly encouraged by Turkey to make a run for a better life, were then pushed back in severe fashion, and as usual remain caught in the middle\. Greek forces at one point announced round the clock live fire drills into the stretches of the Aegean where boats cross from Turkey, while the [Greek coast guard were caught on film trying to execute an aggressive pushback of a flimsy raft loaded with people inside of Greece’s territorial waters\.](https://twitter.com/Stone_SkyNews/status/1234454621818703873)
 
 
-[![Greek coast guard 'fires shots' at refugee boat in video released by Turkish government](assets/f8c80dc0c388/1e36_hqdefault.jpg "Greek coast guard 'fires shots' at refugee boat in video released by Turkish government")](https://www.youtube.com/watch?v=Y7Y3moC6Cxc)
+[![Greek coast guard 'fires shots' at refugee boat in video released by Turkish government](../assets/f8c80dc0c388/1e36_hqdefault.jpg "Greek coast guard 'fires shots' at refugee boat in video released by Turkish government")](https://www.youtube.com/watch?v=Y7Y3moC6Cxc)
 
 
 Even a complete and prolonged cessation in crossings would do nothing to address the problem that remains on the Greek islands\. [At the moment more than 42,000 people are trapped across the islands\.](https://data2.unhcr.org/en/documents/download/74359) Many are stuck for years\. And many are deported back to Turkey where they are again deported back to war zones in phenomena known as “chain deportation” and refoulement\.
@@ -118,7 +118,7 @@ Hungary’s right wing government has since used the Coronavirus as a pretext fo
 [According to UNHCR figures that are already two years old, there are 70 million forcibly displaced people worldwide](https://www.unhcr.org/figures-at-a-glance.html) \(this includes those who have been internally displaced, IDPs, as well as those who have had to seek safety in another country, also known as refugees\) \. Of the world’s total refugee population roughly 80% are hosted in countries next to their countries of origin\. In other words, it’s important to note that when we talk about the “refugee crisis” in a global context, it’s the Global South that has borne overwhelming responsibility for hosting these vulnerable populations, and the figures that Europe is looking at accommodating \(or repelling\) represent just a tiny fraction of that number\. The number of refugees that Europe took in in 2015, at the height of the crisis, accounted for a fraction of a percentage point increase in its population\. At the moment the population of tiny Lebanon, a country currently in the middle of a political revolution and a complete financial meltdown, is roughly 20–25% Syrian\. Top hosting countries are Turkey, Pakistan, and Uganda\.
 
 
-![](assets/f8c80dc0c388/1*zruxtp84JHtDqbaGb3Hv1Q.jpeg)
+![](../assets/f8c80dc0c388/1*zruxtp84JHtDqbaGb3Hv1Q.jpeg)
 
 
 This still leaves out a lot of information, notably the conditions faced by refugees in the countries that are hosting most of them, but if you want more detailed insights into the backstory, the broader geographic and political context, and more personal narratives from refugees, volunteers, Greeks, and concerned parties then be sure to look for the episodes that will soon follow this one\. Each of those episodes will also be accompanied by an abundance of supplemental materials on the Latitude Adjustment Podcast\.
@@ -135,7 +135,7 @@ Far from being the front lines of the refugee crisis, for a very small number of
 
 
 
-![There must be a way to do better than this\. Photo: Eric Maddox](assets/f8c80dc0c388/1*DQK9KTNP_59IhOYYNEIt6A.jpeg)
+![There must be a way to do better than this\. Photo: Eric Maddox](../assets/f8c80dc0c388/1*DQK9KTNP_59IhOYYNEIt6A.jpeg)
 
 There must be a way to do better than this\. Photo: Eric Maddox
 

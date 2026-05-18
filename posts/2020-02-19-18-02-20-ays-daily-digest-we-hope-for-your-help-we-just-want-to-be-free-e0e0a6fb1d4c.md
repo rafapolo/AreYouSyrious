@@ -1,5 +1,5 @@
 ---
-title: 18/02/20 AYS Daily Digest: “We hope for your help. We just want to be free.”
+title: "18/02/20 AYS Daily Digest: “We hope for your help. We just want to be free.”"
 author: Are You Syrious?
 date: 2020-02-19T12:25:45.318+0000
 last_modified_at: 2020-02-19T20:27:24.825+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,moria,mediterranean,digest,detention-centres]
 description: Fire in the Amygdaleza Detention Centre // 14 Drowned off Canary Islands // Rising Right-Wing propaganda in Serbia // Misinformation in…
 image:
-  path: assets/e0e0a6fb1d4c/1*dguRbpQww0Kuj62OdP3SEA.png
+  path: ../assets/e0e0a6fb1d4c/1*dguRbpQww0Kuj62OdP3SEA.png
 ---
 
 ### AYS Daily Digest 18/02/20: “We hope for your help\. We just want to be free\.”
 #### Fire in the Amygdaleza Detention Centre // 14 Drowned off Canary Islands // Rising right\-wing propaganda in Serbia // Misinformation in Italy // & More
 
 
-![](assets/e0e0a6fb1d4c/1*dguRbpQww0Kuj62OdP3SEA.png)
+![](../assets/e0e0a6fb1d4c/1*dguRbpQww0Kuj62OdP3SEA.png)
 
 ### **FEATURED**
 

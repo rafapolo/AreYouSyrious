@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 25/12/2019: Athens refugee squat reminds Europe of European values
+title: "AYS Daily Digest 25/12/2019: Athens refugee squat reminds Europe of European values"
 author: Are You Syrious?
 date: 2019-12-26T10:25:52.797+0000
 last_modified_at: 2019-12-26T10:25:52.797+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,calais,athens,notara26]
 description: 22 people rescued off Gran Canaria /// People forced to sleep rough around Calais while winter shelters remain closed …
 image:
-  path: assets/d74d3482d881/1*ov_7upTmJNjUxY_9Zqf2wQ.jpeg
+  path: ../assets/d74d3482d881/1*ov_7upTmJNjUxY_9Zqf2wQ.jpeg
 ---
 
 ### AYS Daily Digest 25/12/2019: Athens refugee squat reminds Europe of European values
@@ -15,13 +15,13 @@ image:
 22 people rescued off Gran Canaria /// People forced to sleep rough around Calais while winter shelters remain closed …
 
 
-![\(Artwork by [Marian Kamensky](https://www.facebook.com/humorkamensky/photos/a.390878934331468/2620280751391264/?type=1&theater) \)](assets/d74d3482d881/1*ov_7upTmJNjUxY_9Zqf2wQ.jpeg)
+![\(Artwork by [Marian Kamensky](https://www.facebook.com/humorkamensky/photos/a.390878934331468/2620280751391264/?type=1&theater) \)](../assets/d74d3482d881/1*ov_7upTmJNjUxY_9Zqf2wQ.jpeg)
 
 \(Artwork by [Marian Kamensky](https://www.facebook.com/humorkamensky/photos/a.390878934331468/2620280751391264/?type=1&theater) \)
 #### Feature story — Athens’ refugee squat reminds Europe of European values
 
 
-![Syntagma Square, Athens \(photo by [Notara26](https://www.facebook.com/permalink.php?story_fbid=1601197050020235&id=645186555621294&hc_location=ufi) \)](assets/d74d3482d881/1*YXqjBuRzR5wrEoZDDxW_pA.jpeg)
+![Syntagma Square, Athens \(photo by [Notara26](https://www.facebook.com/permalink.php?story_fbid=1601197050020235&id=645186555621294&hc_location=ufi) \)](../assets/d74d3482d881/1*YXqjBuRzR5wrEoZDDxW_pA.jpeg)
 
 Syntagma Square, Athens \(photo by [Notara26](https://www.facebook.com/permalink.php?story_fbid=1601197050020235&id=645186555621294&hc_location=ufi) \)
 
@@ -36,11 +36,11 @@ On the afternoon of the 24th of December, the community of the refugee housing s
 18 big parcels were left under the tree representing the 18 articles of the European convention of human rights, to remind Europe of what has been written on paper\. In contrast, pictures showing how these ‘rights’ work out in reality were used to decorate the tree\.
 
 
-![](assets/d74d3482d881/1*KXSUsVx7E4KQDurZG0tkEQ.jpeg)
+![](../assets/d74d3482d881/1*KXSUsVx7E4KQDurZG0tkEQ.jpeg)
 
 
 
-![Notara26 protest in Syntagma square, Athens \(photos by [Notara26](https://www.facebook.com/permalink.php?story_fbid=1601197050020235&id=645186555621294&hc_location=ufi) \)](assets/d74d3482d881/1*NWzXZdiuryzU4DXzx39oqg.jpeg)
+![Notara26 protest in Syntagma square, Athens \(photos by [Notara26](https://www.facebook.com/permalink.php?story_fbid=1601197050020235&id=645186555621294&hc_location=ufi) \)](../assets/d74d3482d881/1*NWzXZdiuryzU4DXzx39oqg.jpeg)
 
 Notara26 protest in Syntagma square, Athens \(photos by [Notara26](https://www.facebook.com/permalink.php?story_fbid=1601197050020235&id=645186555621294&hc_location=ufi) \)
 
@@ -94,14 +94,14 @@ FRANCE
 #### Prefect of Calais refuses to answer to calls for opening winter shelters
 
 
-![The Wall of Shame \(photo by [L’auberge des migrants](https://www.facebook.com/AubergeMigrants/photos/pcb.10157465230820339/10157465226290339/?type=3&theater) \)](assets/d74d3482d881/1*5BJZasVdbh7i_TEjMJpPAQ.jpeg)
+![The Wall of Shame \(photo by [L’auberge des migrants](https://www.facebook.com/AubergeMigrants/photos/pcb.10157465230820339/10157465226290339/?type=3&theater) \)](../assets/d74d3482d881/1*5BJZasVdbh7i_TEjMJpPAQ.jpeg)
 
 The Wall of Shame \(photo by [L’auberge des migrants](https://www.facebook.com/AubergeMigrants/photos/pcb.10157465230820339/10157465226290339/?type=3&theater) \)
 
 The Auberge des Migrants [reported](https://www.facebook.com/AubergeMigrants/photos/a.10152514841565339/10157463765325339/?type=3&eid=ARDU2xQODPDBA0uXZ7gYzexj0kP6LtaOgb8mKE4dWyLPvrnN6xZf0w7ho8epMW68BQeFDbKgnri5FvsB&ifg=1) that two buildings, which have been selected to be used as winter shelters, are now ready in Calais, with a capacity of 115 beds\. Nonetheless, the prefect of the city is refusing to answer associations’ calls to open such shelters\. People are forced to seek shelter in the woods around the town in makeshift encampments made of donated tents and canvas to protect from rain, that are constantly destroyed by the police\.
 
 
-![Calais \(photo by [L’auberge des migrants](https://www.facebook.com/AubergeMigrants/photos/pcb.10157465230820339/10157465226290339/?type=3&theater) \)](assets/d74d3482d881/1*cgi9VoZWFq9TjJO_7OMzaA.jpeg)
+![Calais \(photo by [L’auberge des migrants](https://www.facebook.com/AubergeMigrants/photos/pcb.10157465230820339/10157465226290339/?type=3&theater) \)](../assets/d74d3482d881/1*cgi9VoZWFq9TjJO_7OMzaA.jpeg)
 
 Calais \(photo by [L’auberge des migrants](https://www.facebook.com/AubergeMigrants/photos/pcb.10157465230820339/10157465226290339/?type=3&theater) \)
 

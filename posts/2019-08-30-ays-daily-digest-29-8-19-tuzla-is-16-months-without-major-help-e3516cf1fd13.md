@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 29/8/19: Tuzla is 16 months without major help
+title: "AYS Daily Digest 29/8/19: Tuzla is 16 months without major help"
 author: Are You Syrious?
 date: 2019-08-30T13:04:29.068+0100
 last_modified_at: 2019-08-30T21:35:49.730+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,bosnia,greece,sea,digest]
 description: More and more unaccompanied minors in Greece / Open Arms released / Desperate appeal from Libya
 image:
-  path: assets/e3516cf1fd13/1*4-FZPWCC1KULa_lnFpq0kg.jpeg
+  path: ../assets/e3516cf1fd13/1*4-FZPWCC1KULa_lnFpq0kg.jpeg
 ---
 
 ### AYS Daily Digest 29/8/19: Tuzla is 16 months without major help
 #### More and more unaccompanied minors in Greece / Open Arms released / Desperate appeal from Libya
 
 
-![Photos by: [Senad Cupo](https://www.facebook.com/profile.php?id=1032645245&fref=gs&__tn__=%2Cd%2AF%2AF-R&eid=ARAW28Pu6wxQmySwk11Gp9_bYPXae8UoXao2XrjfQh3FH35EbsQ590TJQHVNRUb0BNMy9xPOsCO2xLzd&tn-str=%2AF&dti=144469886266984&hc_location=group_dialog)](assets/e3516cf1fd13/1*4-FZPWCC1KULa_lnFpq0kg.jpeg)
+![Photos by: [Senad Cupo](https://www.facebook.com/profile.php?id=1032645245&fref=gs&__tn__=%2Cd%2AF%2AF-R&eid=ARAW28Pu6wxQmySwk11Gp9_bYPXae8UoXao2XrjfQh3FH35EbsQ590TJQHVNRUb0BNMy9xPOsCO2xLzd&tn-str=%2AF&dti=144469886266984&hc_location=group_dialog)](../assets/e3516cf1fd13/1*4-FZPWCC1KULa_lnFpq0kg.jpeg)
 
 Photos by: [Senad Cupo](https://www.facebook.com/profile.php?id=1032645245&fref=gs&__tn__=%2Cd%2AF%2AF-R&eid=ARAW28Pu6wxQmySwk11Gp9_bYPXae8UoXao2XrjfQh3FH35EbsQ590TJQHVNRUb0BNMy9xPOsCO2xLzd&tn-str=%2AF&dti=144469886266984&hc_location=group_dialog)
 #### FEATURED
@@ -41,19 +41,19 @@ For the sake of efficient fieldwork, our recommendation is to familiarize with t
 With the coming months, winter will only, once again, exacerbate the severe situation people on the move in Bosnia and Herzegovina are in, and a change is desperately needed\.
 
 
-![](assets/e3516cf1fd13/1*U_vrX7THwhKi0HxVzDiKRQ.jpeg)
+![](../assets/e3516cf1fd13/1*U_vrX7THwhKi0HxVzDiKRQ.jpeg)
 
 
 
-![](assets/e3516cf1fd13/1*BfuBXy_qbqSrW3zdvwf-ww.jpeg)
+![](../assets/e3516cf1fd13/1*BfuBXy_qbqSrW3zdvwf-ww.jpeg)
 
 
 
-![](assets/e3516cf1fd13/1*SkCY2zsJ24DJtRuwxWrS0g.jpeg)
+![](../assets/e3516cf1fd13/1*SkCY2zsJ24DJtRuwxWrS0g.jpeg)
 
 
 
-![Photos by: [Senad Cupo](https://www.facebook.com/profile.php?id=1032645245&fref=gs&__tn__=%2Cd%2AF%2AF-R&eid=ARAW28Pu6wxQmySwk11Gp9_bYPXae8UoXao2XrjfQh3FH35EbsQ590TJQHVNRUb0BNMy9xPOsCO2xLzd&tn-str=%2AF&dti=144469886266984&hc_location=group_dialog)](assets/e3516cf1fd13/1*4-FZPWCC1KULa_lnFpq0kg.jpeg)
+![Photos by: [Senad Cupo](https://www.facebook.com/profile.php?id=1032645245&fref=gs&__tn__=%2Cd%2AF%2AF-R&eid=ARAW28Pu6wxQmySwk11Gp9_bYPXae8UoXao2XrjfQh3FH35EbsQ590TJQHVNRUb0BNMy9xPOsCO2xLzd&tn-str=%2AF&dti=144469886266984&hc_location=group_dialog)](../assets/e3516cf1fd13/1*4-FZPWCC1KULa_lnFpq0kg.jpeg)
 
 Photos by: [Senad Cupo](https://www.facebook.com/profile.php?id=1032645245&fref=gs&__tn__=%2Cd%2AF%2AF-R&eid=ARAW28Pu6wxQmySwk11Gp9_bYPXae8UoXao2XrjfQh3FH35EbsQ590TJQHVNRUb0BNMy9xPOsCO2xLzd&tn-str=%2AF&dti=144469886266984&hc_location=group_dialog)
 ### **Greece: More and More Unaccompanied Minors in Greece**
@@ -61,7 +61,7 @@ Photos by: [Senad Cupo](https://www.facebook.com/profile.php?id=1032645245&fref=
 Unicef [addresses](https://www.unicef.org/press-releases/more-1100-unaccompanied-refugee-and-migrant-children-greece-need-urgent-shelter-and) an alarming development in Greek camps\. According to the UN’s body for child protection, the number of unaccompanied and seperated minors has exceeded 1100\. It is the largest number since the beginning of 2016\.
 
 
-[![Section B - life in limbo](assets/e3516cf1fd13/9e25_hqdefault.jpg "Section B - life in limbo")](http://www.youtube.com/watch?v=gn7nsasYyow)
+[![Section B - life in limbo](../assets/e3516cf1fd13/9e25_hqdefault.jpg "Section B - life in limbo")](http://www.youtube.com/watch?v=gn7nsasYyow)
 
 
 Following a violent incident with one dead child and two injured in Moria last weekend, Unicef Regional Director for Europe and Central Asia and Special Coordinator for the Refugee and Migrant Response in Europe, Ms\. Afshan Khan [stated](https://www.unicef.org/press-releases/more-1100-unaccompanied-refugee-and-migrant-children-greece-need-urgent-shelter-and) , “that the situation in Reception Centres in Greece is at a breaking\-point\.” She urges the Greek government to transfer children to mainland and provide adequate accomodation\. She added:

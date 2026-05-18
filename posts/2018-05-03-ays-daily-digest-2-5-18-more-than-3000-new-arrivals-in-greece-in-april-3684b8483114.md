@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest: 2/5/18: More than 3000 new arrivals in Greece in April
+title: "AYS Daily Digest: 2/5/18: More than 3000 new arrivals in Greece in April"
 author: Are You Syrious?
 date: 2018-05-03T03:04:06.178+0100
 last_modified_at: 2018-05-03T10:25:35.296+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,syria,france]
 description: Lesvos and Chios see sharp increases of boat landings / More than 400 deaths recorded in the Syrian war in April / New asylum system in…
 image:
-  path: assets/3684b8483114/1*Gnt7ucTBbt7uHeM0oteoNA.jpeg
+  path: ../assets/3684b8483114/1*Gnt7ucTBbt7uHeM0oteoNA.jpeg
 ---
 
 ### AYS Daily Digest: 2/5/18: More than 3000 new arrivals in Greece in April
@@ -15,7 +15,7 @@ image:
 Lesvos and Chios see sharp increases of boat landings / More than 400 deaths recorded in the Syrian war in April / New asylum system in France comes into force, donations and volunteers needed / Sweden deports one\-third of the rejected people / EU reveals new long\-term budget
 
 
-![More people are arriving in Greece these days\. Credits: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/photos/pcb.339338429922601/339338369922607/?type=3&theater)](assets/3684b8483114/1*Gnt7ucTBbt7uHeM0oteoNA.jpeg)
+![More people are arriving in Greece these days\. Credits: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/photos/pcb.339338429922601/339338369922607/?type=3&theater)](../assets/3684b8483114/1*Gnt7ucTBbt7uHeM0oteoNA.jpeg)
 
 More people are arriving in Greece these days\. Credits: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/photos/pcb.339338429922601/339338369922607/?type=3&theater)
 ### Feature: The increase of new arrivals in Greece continues

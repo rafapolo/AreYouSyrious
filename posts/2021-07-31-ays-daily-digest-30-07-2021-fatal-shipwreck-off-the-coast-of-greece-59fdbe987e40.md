@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,shipwreck,greece]
 description: Sea-Watch Rescues 100 People//Child Drowns Trying to Reach Croatia//French Government Removes People From Place Des Vosges, Still Doesn’t…
 image:
-  path: assets/59fdbe987e40/0*WawCLNCXtvSR7rBY
+  path: ../assets/59fdbe987e40/0*WawCLNCXtvSR7rBY
 ---
 
 ### AYS Daily Digest 30/07/2021 — Fatal Shipwreck Off the Coast of Greece
 #### Sea\-Watch rescues 100 people//Child drowns trying to reach Croatia//French government removes people from Place des Vosges, still doesn’t provide housing
 
 
-![Art against human trafficking by people on the move from eastern Sudan\. Image via [Real Story](https://twitter.com/tellingthereal/status/1420987542246146053)](assets/59fdbe987e40/0*WawCLNCXtvSR7rBY)
+![Art against human trafficking by people on the move from eastern Sudan\. Image via [Real Story](https://twitter.com/tellingthereal/status/1420987542246146053)](../assets/59fdbe987e40/0*WawCLNCXtvSR7rBY)
 
 Art against human trafficking by people on the move from eastern Sudan\. Image via [Real Story](https://twitter.com/tellingthereal/status/1420987542246146053)
 #### FEATURE

@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [covid-19,digest,refugees,greece,uk]
 description: Plans for Yarl’s Wood have been withdrawn // volunteers needed in Greece // number of people in Tunisia on the move rising // and more…
 image:
-  path: assets/1edf4f79b3df/1*eGQRkNkJNb-0X1LSgRMcCA.png
+  path: ../assets/1edf4f79b3df/1*eGQRkNkJNb-0X1LSgRMcCA.png
 ---
 
 ### AYS Daily Digest 09/02/20 ‘CommemorAction’ for 91 people lost in Central Med last year
@@ -15,14 +15,14 @@ image:
 _Plans for Yarl’s Wood have been withdrawn // volunteers needed in Greece // number of people in Tunisia on the move rising // and more…_
 
 
-[![#SayTheirNames / CommemorAction 2021](assets/1edf4f79b3df/a798_hqdefault.jpg "#SayTheirNames / CommemorAction 2021")](https://www.youtube.com/watch?v=__DVKf-DI5w)
+[![#SayTheirNames / CommemorAction 2021](../assets/1edf4f79b3df/a798_hqdefault.jpg "#SayTheirNames / CommemorAction 2021")](https://www.youtube.com/watch?v=__DVKf-DI5w)
 
 ### FEATURE \#WhereAreThey: Remembering the lives of those who perished on February 9, 2020
 
 At 04\.09 on February 9, 2020, the distress hotline Alarm Phone received a call, a call that was initially no different than the dozens of others the organization receives each year\. \(In 2019, 101 boats, carrying over 6,200 people, reached out to Alarm Phone for help, compared with just 27 boats in 2018\. \) A group of 91 people were trapped on a deflating black dinghy off Garabulli, Libya\. They gave their GPS coordinates to Alarm Phone, who duly relayed the information to Italian, Maltese and Libyan authorities\. The passengers called again at 05\.35 — and then, silence\. The people on board were never heard from again\.
 
 
-![](assets/1edf4f79b3df/1*eGQRkNkJNb-0X1LSgRMcCA.png)
+![](../assets/1edf4f79b3df/1*eGQRkNkJNb-0X1LSgRMcCA.png)
 
 
 On February 9 this year, protests and commemorative events were held across Europe and in the deceased’s hometowns in Africa to remember their lives\.
@@ -103,7 +103,7 @@ A month later, Alarm Phone wrote an [open letter](https://alarmphone.org/en/2020
 Finally, in December of last year, after sending another letter to authorities, Alarm Phone received a response from Frontex: a picture of the deflated dinghy\. No human remains are visible in the photograph\.
 
 
-![The deflated rubber boat thought to belong to the 91 people who disappeared in the Mediterranean on February 9, 2020\. \(Source: Frontex\)](assets/1edf4f79b3df/1*H5y3dMxtSzNMjhlxq0dlfw.png)
+![The deflated rubber boat thought to belong to the 91 people who disappeared in the Mediterranean on February 9, 2020\. \(Source: Frontex\)](../assets/1edf4f79b3df/1*H5y3dMxtSzNMjhlxq0dlfw.png)
 
 The deflated rubber boat thought to belong to the 91 people who disappeared in the Mediterranean on February 9, 2020\. \(Source: Frontex\)
 
@@ -123,16 +123,16 @@ In a moving tribute published yesterday, Alarm Phone wrote:
 More commemorative videos can be viewed below\. You can also check out a blog post by [Civil Fleet](https://thecivilfleet.wordpress.com/2021/02/09/what-happened-to-91-people-who-went-missing-in-the-mediterranean-a-year-ago/?fbclid=IwAR112r5Zibyvjfx5gL2VVbdjDh2FQ7DfxmNXGOAM-W9bk2H-M4Z3J66BDo4) about the one year anniversary\.
 
 
-[![Where are they? Testimonies of the families of the 91 missing people](assets/1edf4f79b3df/92a4_hqdefault.jpg "Where are they? Testimonies of the families of the 91 missing people")](https://www.youtube.com/watch?v=cK1PU2phuGU)
+[![Where are they? Testimonies of the families of the 91 missing people](../assets/1edf4f79b3df/92a4_hqdefault.jpg "Where are they? Testimonies of the families of the 91 missing people")](https://www.youtube.com/watch?v=cK1PU2phuGU)
 
 
 
-[![Where are they? CommemorAction 2021 - Eltyaib message to European Authorities](assets/1edf4f79b3df/3881_hqdefault.jpg "Where are they? CommemorAction 2021 - Eltyaib message to European Authorities")](https://www.youtube.com/watch?v=v_2SzE1yz9s)
+[![Where are they? CommemorAction 2021 - Eltyaib message to European Authorities](../assets/1edf4f79b3df/3881_hqdefault.jpg "Where are they? CommemorAction 2021 - Eltyaib message to European Authorities")](https://www.youtube.com/watch?v=v_2SzE1yz9s)
 
 #### TUNISIA
 
 
-![Source: ANSAmed](assets/1edf4f79b3df/1*9up7GUTgOQK0a19fFk4T_A.jpeg)
+![Source: ANSAmed](../assets/1edf4f79b3df/1*9up7GUTgOQK0a19fFk4T_A.jpeg)
 
 Source: ANSAmed
 ### Number of people\-on\-the\-move on the rise
@@ -166,16 +166,16 @@ Let’s keep up the good work!
 
 
 
-![](assets/1edf4f79b3df/1*GkdIYAlHur6fD14l1DsmzQ.jpeg)
+![](../assets/1edf4f79b3df/1*GkdIYAlHur6fD14l1DsmzQ.jpeg)
 
 
 
-![](assets/1edf4f79b3df/1*-Qo9mJYRJ1tzemYinn-c-A.jpeg)
+![](../assets/1edf4f79b3df/1*-Qo9mJYRJ1tzemYinn-c-A.jpeg)
 
 
 
 ![Update from Patras: “They don’t speak with us”
-“These were the last words of N\., a guy who lives in one of the abandoned factories behind the new port of Patras, during a conversation about the increasing repression that the POM are facing while playing the “game”\. N\. was forced to leave his city in Afghanistan, starting a journey that sees its longest moment here, at the gates of the Mediterranean, stuck in a cold and aseptic building, waiting the right chance to reach the other side of the sea and a better future far from any kind of suffering\. In his words there was surprisingly no anger, nor hate, only the bitter awareness of the violence, as well the silence and the indifference that do not involve only the public force \(although this is the most direct and obvious example\), but are instead carried out, on a large scale, in the same place which is supposed to welcome everyone, and in which N\. as well as many others here would like to start a new life\.” Photos and Info by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/1178453019219647)](assets/1edf4f79b3df/1*y-a0QMUSNVA8mQQ8hVE6uQ.jpeg)
+“These were the last words of N\., a guy who lives in one of the abandoned factories behind the new port of Patras, during a conversation about the increasing repression that the POM are facing while playing the “game”\. N\. was forced to leave his city in Afghanistan, starting a journey that sees its longest moment here, at the gates of the Mediterranean, stuck in a cold and aseptic building, waiting the right chance to reach the other side of the sea and a better future far from any kind of suffering\. In his words there was surprisingly no anger, nor hate, only the bitter awareness of the violence, as well the silence and the indifference that do not involve only the public force \(although this is the most direct and obvious example\), but are instead carried out, on a large scale, in the same place which is supposed to welcome everyone, and in which N\. as well as many others here would like to start a new life\.” Photos and Info by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/1178453019219647)](../assets/1edf4f79b3df/1*y-a0QMUSNVA8mQQ8hVE6uQ.jpeg)
 
 Update from Patras: “They don’t speak with us”
 “These were the last words of N\., a guy who lives in one of the abandoned factories behind the new port of Patras, during a conversation about the increasing repression that the POM are facing while playing the “game”\. N\. was forced to leave his city in Afghanistan, starting a journey that sees its longest moment here, at the gates of the Mediterranean, stuck in a cold and aseptic building, waiting the right chance to reach the other side of the sea and a better future far from any kind of suffering\. In his words there was surprisingly no anger, nor hate, only the bitter awareness of the violence, as well the silence and the indifference that do not involve only the public force \(although this is the most direct and obvious example\), but are instead carried out, on a large scale, in the same place which is supposed to welcome everyone, and in which N\. as well as many others here would like to start a new life\.” Photos and Info by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/1178453019219647)
@@ -184,7 +184,7 @@ Update from Patras: “They don’t speak with us”
 Ekathimerini reports that “ _Prime Minister Kyriakos Mitsotakis announced on Tuesday a near\-total lockdown in the most populous region of Greece until February 28 on Tuesday evening, citing a “worrying” rise in hospitalizations in Attica and in the spread of the Covid\-19 variants which are more transmissible\._ ” Learn more [here](https://www.ekathimerini.com/262195/article/ekathimerini/news/attica-to-enter-two-week-hard-lockdown-amid-rise-in-hospitalizations?fbclid=IwAR3RQDPv6yCTYceB60olC41mRGbIawEDBv8jt4eWi19MrpmCA-SdHy2ve9k) \.
 
 
-![[The Hope Project said](https://www.facebook.com/HopeProjectGreece/photos/a.1659118077702651/2900804350200678/) : “Today we made up 82 individual bags, each with sleeping bag, blankets, shoes, and fitted clothes\. We also sent 65 sleeping bags for the African community\. This in collaboration with Moria Corona Awareness Team and Stand by Me Lesvos\.” [The former said](https://www.facebook.com/MoriaCoronaAwarenessTeam/posts/247385213557323) “We are very happy this system works\. It is in the beginning so still some things don’t go 100% well, but mistakes are good to learn from them\. We get better every day and now we focus on blue zone in camp where most of our sisters and brothers from Africa are living and every day we distribute to them\. Each one knows the day to receive the staff and they come to pick at our recycling points\.” Photo by the Hope Project](assets/1edf4f79b3df/1*ySZGc1HUuKxe6ncHRGb5sA.jpeg)
+![[The Hope Project said](https://www.facebook.com/HopeProjectGreece/photos/a.1659118077702651/2900804350200678/) : “Today we made up 82 individual bags, each with sleeping bag, blankets, shoes, and fitted clothes\. We also sent 65 sleeping bags for the African community\. This in collaboration with Moria Corona Awareness Team and Stand by Me Lesvos\.” [The former said](https://www.facebook.com/MoriaCoronaAwarenessTeam/posts/247385213557323) “We are very happy this system works\. It is in the beginning so still some things don’t go 100% well, but mistakes are good to learn from them\. We get better every day and now we focus on blue zone in camp where most of our sisters and brothers from Africa are living and every day we distribute to them\. Each one knows the day to receive the staff and they come to pick at our recycling points\.” Photo by the Hope Project](../assets/1edf4f79b3df/1*ySZGc1HUuKxe6ncHRGb5sA.jpeg)
 
 [The Hope Project said](https://www.facebook.com/HopeProjectGreece/photos/a.1659118077702651/2900804350200678/) : “Today we made up 82 individual bags, each with sleeping bag, blankets, shoes, and fitted clothes\. We also sent 65 sleeping bags for the African community\. This in collaboration with Moria Corona Awareness Team and Stand by Me Lesvos\.” [The former said](https://www.facebook.com/MoriaCoronaAwarenessTeam/posts/247385213557323) “We are very happy this system works\. It is in the beginning so still some things don’t go 100% well, but mistakes are good to learn from them\. We get better every day and now we focus on blue zone in camp where most of our sisters and brothers from Africa are living and every day we distribute to them\. Each one knows the day to receive the staff and they come to pick at our recycling points\.” Photo by the Hope Project
 ### Volunteers needed\! The Lava Project and Refugee Biriyani & Bananas
@@ -196,7 +196,7 @@ Application details:
 • 4 month minimum commitment
 
 
-![Photo by [Refugee Biriyani & Bananas](https://www.facebook.com/ruhi.akhtar.7/posts/4281422228541319)](assets/1edf4f79b3df/1*VuChCN2yWt6ZNabE9eYNCQ.jpeg)
+![Photo by [Refugee Biriyani & Bananas](https://www.facebook.com/ruhi.akhtar.7/posts/4281422228541319)](../assets/1edf4f79b3df/1*VuChCN2yWt6ZNabE9eYNCQ.jpeg)
 
 Photo by [Refugee Biriyani & Bananas](https://www.facebook.com/ruhi.akhtar.7/posts/4281422228541319)
 #### ITALY
@@ -255,7 +255,7 @@ Spanish law enforcement arrested [285 human trafficking suspects](https://www.st
 #### SERBIA
 
 
-![“In Sombor there are still problems, difficult situation and current weather conditions, as well as sub\-zero temperatures during the night for at least 1000 people\. Without proper toilets, without hot water and access to hygiene, most stay in inhumane conditions, in temporary tents, without enough blankets\.” Photo and Info by [Asylum Protection in Serbia](https://twitter.com/APC_CZA/status/1359130470445940738)](assets/1edf4f79b3df/1*wRqJca4OuYF-gjr8Rvu6JA.jpeg)
+![“In Sombor there are still problems, difficult situation and current weather conditions, as well as sub\-zero temperatures during the night for at least 1000 people\. Without proper toilets, without hot water and access to hygiene, most stay in inhumane conditions, in temporary tents, without enough blankets\.” Photo and Info by [Asylum Protection in Serbia](https://twitter.com/APC_CZA/status/1359130470445940738)](../assets/1edf4f79b3df/1*wRqJca4OuYF-gjr8Rvu6JA.jpeg)
 
 “In Sombor there are still problems, difficult situation and current weather conditions, as well as sub\-zero temperatures during the night for at least 1000 people\. Without proper toilets, without hot water and access to hygiene, most stay in inhumane conditions, in temporary tents, without enough blankets\.” Photo and Info by [Asylum Protection in Serbia](https://twitter.com/APC_CZA/status/1359130470445940738)
 #### FRANCE
@@ -292,7 +292,7 @@ There are reports that “ _Frontex wanted to arm more than 1,000 police officer
 #### UK
 
 
-![Yarl’s Wood plans are no more\! Photo by [Bedford Independent](https://www.bedfordindependent.co.uk/breaking-news-controversial-yarls-wood-plans-withdrawn-by-home-office/?fbclid=IwAR2yQ0zK4mMTbYVY0aG_VcbtiO6xuJTi4pOh99YwLivv5sXWroVE-4nRPMg)](assets/1edf4f79b3df/1*_ieuETosuVoLUk6qPoySzg.png)
+![Yarl’s Wood plans are no more\! Photo by [Bedford Independent](https://www.bedfordindependent.co.uk/breaking-news-controversial-yarls-wood-plans-withdrawn-by-home-office/?fbclid=IwAR2yQ0zK4mMTbYVY0aG_VcbtiO6xuJTi4pOh99YwLivv5sXWroVE-4nRPMg)](../assets/1edf4f79b3df/1*_ieuETosuVoLUk6qPoySzg.png)
 
 Yarl’s Wood plans are no more\! Photo by [Bedford Independent](https://www.bedfordindependent.co.uk/breaking-news-controversial-yarls-wood-plans-withdrawn-by-home-office/?fbclid=IwAR2yQ0zK4mMTbYVY0aG_VcbtiO6xuJTi4pOh99YwLivv5sXWroVE-4nRPMg)
 ### Plans for Yarl’s Wood are withdrawn\!

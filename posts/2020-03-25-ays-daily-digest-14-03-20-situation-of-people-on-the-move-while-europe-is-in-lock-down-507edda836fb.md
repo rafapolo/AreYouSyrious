@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest: 14/03/20: Situation of People on the Move while Europe is in lock-down
+title: "AYS Daily Digest: 14/03/20: Situation of People on the Move while Europe is in lock-down"
 author: Are You Syrious?
 date: 2020-03-25T13:37:26.778+0000
 last_modified_at: 2020-03-25T14:04:17.018+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,corona,greece]
 description: Fourth case of Corona Infection on Lesvos, no cases in the camps yet // various calls to evacuate the camps now // Images from the…
 image:
-  path: assets/507edda836fb/1*o1cF6hvcC4io8b3LeFh-Qg.jpeg
+  path: ../assets/507edda836fb/1*o1cF6hvcC4io8b3LeFh-Qg.jpeg
 ---
 
 ### AYS Daily Digest: 24/03/20: Situation of People on the Move while Europe is in lock\-down
 #### Fourth case of Corona Infection on Lesvos, no cases in the camps yet // various calls to evacuate the camps now // Images from the Greek\-Turkish border // Snow and Protests against new camp in Bosnia and Herzegovina // Evacuation of a camp in France // Vulnerable people suffer the most from lock\-down in Spain
 
 
-![Copyright: Aris Messinis](assets/507edda836fb/1*o1cF6hvcC4io8b3LeFh-Qg.jpeg)
+![Copyright: Aris Messinis](../assets/507edda836fb/1*o1cF6hvcC4io8b3LeFh-Qg.jpeg)
 
 Copyright: Aris Messinis
 ### FEATURE
@@ -43,19 +43,19 @@ See: Lesvos Legal Center
 The Moria Corona Awareness Team designed posters that will be attached in the whole camp in order to raise awareness and try to keep the virus outside of the camp\.
 
 
-![](assets/507edda836fb/1*ioOzMXOFoCweeH_J1emN8w.jpeg)
+![](../assets/507edda836fb/1*ioOzMXOFoCweeH_J1emN8w.jpeg)
 
 
 
-![](assets/507edda836fb/1*bdkUrL3XG44zeVcfsWxB5w.jpeg)
+![](../assets/507edda836fb/1*bdkUrL3XG44zeVcfsWxB5w.jpeg)
 
 
 
-![](assets/507edda836fb/1*WypsOxtk9odkYyGBCwUDbA.jpeg)
+![](../assets/507edda836fb/1*WypsOxtk9odkYyGBCwUDbA.jpeg)
 
 
 
-![Copyright: Stand by me Lesvos](assets/507edda836fb/1*sXgkJJwH1mM75DnvBQSkDw.jpeg)
+![Copyright: Stand by me Lesvos](../assets/507edda836fb/1*sXgkJJwH1mM75DnvBQSkDw.jpeg)
 
 Copyright: Stand by me Lesvos
 
@@ -85,11 +85,11 @@ Another call for action has been released by doctors from the Netherlands\. They
 Images from Pazarkule close to Edirne and right next to the border crossing to Greece after it rained for the second day in a row\. Rumours say that Turkish authorities still try to force people to riot against Greek border guards\.
 
 
-![](assets/507edda836fb/1*qj1GanqI3cqSxWfLhpJW2Q.jpeg)
+![](../assets/507edda836fb/1*qj1GanqI3cqSxWfLhpJW2Q.jpeg)
 
 
 
-![Copyright: Antonis Repanas](assets/507edda836fb/1*OI0Szly1ooAKjlB4Dy3g7Q.jpeg)
+![Copyright: Antonis Repanas](../assets/507edda836fb/1*OI0Szly1ooAKjlB4Dy3g7Q.jpeg)
 
 Copyright: Antonis Repanas
 ### BOSNIA AND HERZEGOVINA

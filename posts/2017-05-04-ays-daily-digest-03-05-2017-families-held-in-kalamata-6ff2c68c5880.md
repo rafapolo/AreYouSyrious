@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,nian-maguette,fgm,lesvos]
 description: Fascist attack on refugees in Leros / FGM in Greece / Lesvos deportation questioned / Senegalese worker dies while chased by the police in…
 image:
-  path: assets/6ff2c68c5880/1*wugQJ1FCSK3E3tsVXDv_CA.jpeg
+  path: ../assets/6ff2c68c5880/1*wugQJ1FCSK3E3tsVXDv_CA.jpeg
 ---
 
 ### AYS Daily Digest 03/05/2017 Families held in Kalamata
@@ -15,7 +15,7 @@ image:
 _Fascist attack on refugees in Leros / FGM in Greece / Lesvos deportation questioned / Senegalese worker dies while chased by the police in Italy / Berlin refugees forced into sex work / violent pushbacks on Serbian\-Romanian border_
 
 
-![Syrian Sysiphus \(by Yaser Ahmad — Art Against\)](assets/6ff2c68c5880/1*wugQJ1FCSK3E3tsVXDv_CA.jpeg)
+![Syrian Sysiphus \(by Yaser Ahmad — Art Against\)](../assets/6ff2c68c5880/1*wugQJ1FCSK3E3tsVXDv_CA.jpeg)
 
 Syrian Sysiphus \(by Yaser Ahmad — Art Against\)
 ### **Feature**
@@ -81,7 +81,7 @@ Two volunteers from the Khora Legal Support team have stayed in Kalamata with th
 
 
 
-![](assets/6ff2c68c5880/1*CEdsiz72GOYP-d99fd40YQ.jpeg)
+![](../assets/6ff2c68c5880/1*CEdsiz72GOYP-d99fd40YQ.jpeg)
 
 
 **EU**
@@ -126,7 +126,7 @@ German foreign minister and chief of African Union released a joint statement ye
 Reports from independent volunteers on Lesvos suggest that 115 people arrived yesterday\. One boat arrived in the north at Tsonia with 25 people on board\. Another two boats were picked up by the Hellenic Coastguard in the south of Lesvos with 65 people and 25 people on board\. Everyone has now been taken to Moria\.
 
 
-![Arrivals on Lesvos \(Refugee Rescue / ‘Mo Chara’\)](assets/6ff2c68c5880/1*hVeSWIu_FciBq12T2i3BrQ.jpeg)
+![Arrivals on Lesvos \(Refugee Rescue / ‘Mo Chara’\)](../assets/6ff2c68c5880/1*hVeSWIu_FciBq12T2i3BrQ.jpeg)
 
 Arrivals on Lesvos \(Refugee Rescue / ‘Mo Chara’\)
 
@@ -175,7 +175,7 @@ On the 2nd of May an urgent appeal has been received from refugees in the Moria 
 
 
 
-![](assets/6ff2c68c5880/1*dra0SFmXU0fwoZgzW_RJyw.jpeg)
+![](../assets/6ff2c68c5880/1*dra0SFmXU0fwoZgzW_RJyw.jpeg)
 
 
 **Chios**
@@ -335,15 +335,15 @@ Friends and colleagues gathered in via Arenula but where pushed away by a large 
 Updates from [Belgraid Kitchen](https://web.facebook.com/belgraid/) :
 
 
-![](assets/6ff2c68c5880/1*qd4F3A-Eh64yC6VVActSpg.jpeg)
+![](../assets/6ff2c68c5880/1*qd4F3A-Eh64yC6VVActSpg.jpeg)
 
 
 
-![](assets/6ff2c68c5880/1*C74OOI1Pn-CQOvo5281I1w.jpeg)
+![](../assets/6ff2c68c5880/1*C74OOI1Pn-CQOvo5281I1w.jpeg)
 
 
 
-![](assets/6ff2c68c5880/1*bfCbJJQp1Vu7mqWrzuR-2w.jpeg)
+![](../assets/6ff2c68c5880/1*bfCbJJQp1Vu7mqWrzuR-2w.jpeg)
 
 
 
@@ -434,7 +434,7 @@ Read the full story [here](http://freetheroszke11.weebly.com/) ; donate [here](h
 [**Help Refugees**](https://web.facebook.com/HelpRefugeesUK/?fref=nf) **call for donations of Sleeping bags to Calais\.**
 
 
-![](assets/6ff2c68c5880/1*MkEZ3dlBn23DgtFXNOc6yg.png)
+![](../assets/6ff2c68c5880/1*MkEZ3dlBn23DgtFXNOc6yg.png)
 
 
 [**Belgium Kitchen — Jungle of Calais**](https://web.facebook.com/BelgiumKitchen) **is calling for urgent donations\.**
@@ -459,11 +459,11 @@ Donate [here](https://web.facebook.com/BelgiumKitchen/posts/840379079434188:0) \
 A volunteer reports that after yesterdays demonstration refugees evicted from the Aurore Centre have slept rough for the 5th night\. This morning police came and dismantled the camp on the square\. Refugees were taken to La Boulangerie \(another centre, run by social service SAMU\) \.
 
 
-![](assets/6ff2c68c5880/1*gM8F1GIdsWY7XapwwfKwRg.jpeg)
+![](../assets/6ff2c68c5880/1*gM8F1GIdsWY7XapwwfKwRg.jpeg)
 
 
 
-![](assets/6ff2c68c5880/1*q-KjISW_k6BAbqLuNO5HiQ.jpeg)
+![](../assets/6ff2c68c5880/1*q-KjISW_k6BAbqLuNO5HiQ.jpeg)
 
 
 The [Unofficial Women and Children’s centre, Jungle Calais](https://web.facebook.com/The-Unofficial-Women-and-Childrens-Centre-Jungle-Calais-160982470942565/?fref=nf) reported that the man who was pulled out from the fire that erupted in the jungle camp on October 26th 2016 has finally made it to the UK, after the inhumane treatment received in France\.

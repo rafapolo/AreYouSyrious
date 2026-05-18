@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 28/3/22: New testimonies of abuses by Polish Border Guards
+title: "AYS News Digest 28/3/22: New testimonies of abuses by Polish Border Guards"
 author: Are You Syrious?
 date: 2022-03-30T09:30:12.102+0100
 last_modified_at: 2022-03-30T09:30:12.102+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,migration,ukraine,ethiopia,greece]
 description: Ethiopian government gives humanitarian aid workers access to Northern regions // UN investigates reports on mass graves in Libya // More…
 image:
-  path: assets/62fdd28c224c/0*eyalTOFe8FevCyxv.jpeg
+  path: ../assets/62fdd28c224c/0*eyalTOFe8FevCyxv.jpeg
 ---
 
 ### AYS News Digest 28/3/22: New testimonies of abuses by Polish Border Guards
 #### _Ethiopian government gives humanitarian aid workers access to Northern regions // UN investigates reports on mass graves in Libya // More people arrive in Northern Morocco // One man died in France_
 
 
-![](assets/62fdd28c224c/0*eyalTOFe8FevCyxv.jpeg)
+![](../assets/62fdd28c224c/0*eyalTOFe8FevCyxv.jpeg)
 
 
 “You have blood on your hands,” Grupa Granica tells the Polish Border Guards\. Credits: [Twitter/@GrupaGranica](https://twitter.com/GrupaGranica/status/1508154198881361932)

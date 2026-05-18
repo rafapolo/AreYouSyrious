@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,search-and-rescue,mediterranean,libyan-coast-guard]
 description: Deportation today from Bruxelles /// Updates from Paris /// Donations needed in Dunkirk /// Man in critical condition after attempting…
 image:
-  path: assets/89909412e264/1*3CBpXYoTXe73y-59cHDTSw.jpeg
+  path: ../assets/89909412e264/1*3CBpXYoTXe73y-59cHDTSw.jpeg
 ---
 
 ### AYS Weekend Digest 24–25/11/2018 — Delaying rescues\. A new criminal policy\.
@@ -17,7 +17,7 @@ Deportation today from Bruxelles /// Updates from Paris /// Donations needed in 
 
 ![“We will never know how many people died drowned last night in the Mediterranean after we sent a distress call and a supply boat rescued at dawn the boat that was sinking\.
 Rescued from the sea, but returned to torture, harassment and a safe death in Libya\.”
-[Sea\-Watch](https://www.facebook.com/seawatchprojekt/?__tn__=K%2AF&eid=ARBAdZwMpL5WQ1AkiI6JAvBACww6wrS-ZzBYqHcN-A1F6dPH5qYPQ0JpQj4vlIrP6ELIZkw_VUUOi01O&fref=tag&__xts__%5B0%5D=68.ARDFqsbAckS_KCJl1sDnlNX9fJYrZwOdTLcqy-0qcFfKX8pboZz21u-GItrsqkxCug3GwjFCrcmzOCYYKS0ynAEW1r7j93hJ2_vxCg9gi7QeIvUnyjT2xsZNoowfuc2thmqamz2qKN5MrS3J9TxcclbtWCal9ejwgkGFIp4djYx43ioJMNszrAMtHXk) [Mediterranea Saving Humans](https://www.facebook.com/Mediterranearescue/?__tn__=K%2AF&eid=ARBdFU-iMnd9H3rVTdpM7iMIkSlpp8KyIp4al_fGhW0PIFJQrvZmj-6F-2Xi_LvcnrOFH0MsdTeZb5ym&fref=tag&__xts__%5B0%5D=68.ARDFqsbAckS_KCJl1sDnlNX9fJYrZwOdTLcqy-0qcFfKX8pboZz21u-GItrsqkxCug3GwjFCrcmzOCYYKS0ynAEW1r7j93hJ2_vxCg9gi7QeIvUnyjT2xsZNoowfuc2thmqamz2qKN5MrS3J9TxcclbtWCal9ejwgkGFIp4djYx43ioJMNszrAMtHXk) [\#United4Med](https://www.facebook.com/hashtag/united4med?source=feed_text&__xts__%5B0%5D=68.ARDFqsbAckS_KCJl1sDnlNX9fJYrZwOdTLcqy-0qcFfKX8pboZz21u-GItrsqkxCug3GwjFCrcmzOCYYKS0ynAEW1r7j93hJ2_vxCg9gi7QeIvUnyjT2xsZNoowfuc2thmqamz2qKN5MrS3J9TxcclbtWCal9ejwgkGFIp4djYx43ioJMNszrAMtHXk&__tn__=%2ANK%2AF) \(Photo by Javier Fergó\)](assets/89909412e264/1*3CBpXYoTXe73y-59cHDTSw.jpeg)
+[Sea\-Watch](https://www.facebook.com/seawatchprojekt/?__tn__=K%2AF&eid=ARBAdZwMpL5WQ1AkiI6JAvBACww6wrS-ZzBYqHcN-A1F6dPH5qYPQ0JpQj4vlIrP6ELIZkw_VUUOi01O&fref=tag&__xts__%5B0%5D=68.ARDFqsbAckS_KCJl1sDnlNX9fJYrZwOdTLcqy-0qcFfKX8pboZz21u-GItrsqkxCug3GwjFCrcmzOCYYKS0ynAEW1r7j93hJ2_vxCg9gi7QeIvUnyjT2xsZNoowfuc2thmqamz2qKN5MrS3J9TxcclbtWCal9ejwgkGFIp4djYx43ioJMNszrAMtHXk) [Mediterranea Saving Humans](https://www.facebook.com/Mediterranearescue/?__tn__=K%2AF&eid=ARBdFU-iMnd9H3rVTdpM7iMIkSlpp8KyIp4al_fGhW0PIFJQrvZmj-6F-2Xi_LvcnrOFH0MsdTeZb5ym&fref=tag&__xts__%5B0%5D=68.ARDFqsbAckS_KCJl1sDnlNX9fJYrZwOdTLcqy-0qcFfKX8pboZz21u-GItrsqkxCug3GwjFCrcmzOCYYKS0ynAEW1r7j93hJ2_vxCg9gi7QeIvUnyjT2xsZNoowfuc2thmqamz2qKN5MrS3J9TxcclbtWCal9ejwgkGFIp4djYx43ioJMNszrAMtHXk) [\#United4Med](https://www.facebook.com/hashtag/united4med?source=feed_text&__xts__%5B0%5D=68.ARDFqsbAckS_KCJl1sDnlNX9fJYrZwOdTLcqy-0qcFfKX8pboZz21u-GItrsqkxCug3GwjFCrcmzOCYYKS0ynAEW1r7j93hJ2_vxCg9gi7QeIvUnyjT2xsZNoowfuc2thmqamz2qKN5MrS3J9TxcclbtWCal9ejwgkGFIp4djYx43ioJMNszrAMtHXk&__tn__=%2ANK%2AF) \(Photo by Javier Fergó\)](../assets/89909412e264/1*3CBpXYoTXe73y-59cHDTSw.jpeg)
 
 “We will never know how many people died drowned last night in the Mediterranean after we sent a distress call and a supply boat rescued at dawn the boat that was sinking\.
 Rescued from the sea, but returned to torture, harassment and a safe death in Libya\.”
@@ -27,7 +27,7 @@ Rescued from the sea, but returned to torture, harassment and a safe death in Li
 It’s been a very busy and confused weekend throughout the Mediterranean\. Delaying rescues seem to have become the practice of all the Mediterranean coast guards\.
 
 
-![](assets/89909412e264/1*cpfuxfnWHsCMvInLUba4ug.jpeg)
+![](../assets/89909412e264/1*cpfuxfnWHsCMvInLUba4ug.jpeg)
 
 
 **The Arrivals**
@@ -37,7 +37,7 @@ ITALY
 Three boats arrived within 24 hours in Sicily and Calabria\. One wooden fishing boat arrived autonomously on the Sicilian coast and was then brought to the port of Pozzallo\. They left from Misrata, Libya, navigated through the Maltese SAR zone and reached the Italian coast with a 30\-degree slope\. The people onboard have been denied the right to disembark for several hours\. Only when winds started to blow stronger and the risk of sinking in the port became too high, were they allowed to disembark, starting with women and children\. Five pregnant women, a 20\-year\-old man and two children have been taken to the hospital for hypothermia\. The boat carried 264 people, mostly from Eritrea \(184 men, 43 women and 37 minors, including a 10\-day\-old baby\) \.Two people — a Libyan and a Tunisian — have been stopped by the Financial Police because they are suspected of being the traffickers\.
 
 
-![Before disembarking in the Port of Pozzallo \(Photo by [Sergio Scandura](https://twitter.com/scandura) \)](assets/89909412e264/1*i57DFQgoxwlKZemfBsLcZQ.jpeg)
+![Before disembarking in the Port of Pozzallo \(Photo by [Sergio Scandura](https://twitter.com/scandura) \)](../assets/89909412e264/1*i57DFQgoxwlKZemfBsLcZQ.jpeg)
 
 Before disembarking in the Port of Pozzallo \(Photo by [Sergio Scandura](https://twitter.com/scandura) \)
 
@@ -204,7 +204,7 @@ A boat also arrived in Panteoukios, Chios north east, in the afternoon \(six peo
 [Refugee Support Aegean](https://twitter.com/rspaegean/status/1066245441539502080?fbclid=IwAR2lmGfjo2nxMElqqHY-MuS2OhP8hXalJYRsxY9ohctdLjPyaniTFpjzaKU) report that there are increasing numbers of people sleeping rough in Athens, including the extremely vulnerable\.
 
 
-![Platia Viktoria, Athens \(Photo by [Refugee Support Aegean](https://twitter.com/rspaegean/status/1066245441539502080?fbclid=IwAR2lmGfjo2nxMElqqHY-MuS2OhP8hXalJYRsxY9ohctdLjPyaniTFpjzaKU) \)](assets/89909412e264/1*2afuVs8NqIKSnLXKZ-Apog.jpeg)
+![Platia Viktoria, Athens \(Photo by [Refugee Support Aegean](https://twitter.com/rspaegean/status/1066245441539502080?fbclid=IwAR2lmGfjo2nxMElqqHY-MuS2OhP8hXalJYRsxY9ohctdLjPyaniTFpjzaKU) \)](../assets/89909412e264/1*2afuVs8NqIKSnLXKZ-Apog.jpeg)
 
 Platia Viktoria, Athens \(Photo by [Refugee Support Aegean](https://twitter.com/rspaegean/status/1066245441539502080?fbclid=IwAR2lmGfjo2nxMElqqHY-MuS2OhP8hXalJYRsxY9ohctdLjPyaniTFpjzaKU) \)
 
@@ -239,7 +239,7 @@ They work across camps in Northern Greece providing this much needed service\. D
 Our House, Lesvos and Athens, need donations and volunteers
 
 
-![\(Photo by [Our House](https://www.facebook.com/ourhousegr/photos/a.2128531914065310/2182716561980178/?type=3&theater&ifg=1) \)](assets/89909412e264/1*gzbFyH0pfrsYBUZIkiaRuA.jpeg)
+![\(Photo by [Our House](https://www.facebook.com/ourhousegr/photos/a.2128531914065310/2182716561980178/?type=3&theater&ifg=1) \)](../assets/89909412e264/1*gzbFyH0pfrsYBUZIkiaRuA.jpeg)
 
 \(Photo by [Our House](https://www.facebook.com/ourhousegr/photos/a.2128531914065310/2182716561980178/?type=3&theater&ifg=1) \)
 
@@ -267,18 +267,18 @@ During the weekend there were three demonstrations held in Rome\.
 On Saturday, 150,000 people marched through the city for the [Non Una di Meno](https://nonunadimeno.wordpress.com/) national demonstration\. The feminist march openly supported migrant, refugee, and asylum\-seeker women in their struggle for rights, decent conditions and against the Salvini Decree\.
 
 
-![](assets/89909412e264/1*ouoDwyUnPKF1y7aVlahPag.png)
+![](../assets/89909412e264/1*ouoDwyUnPKF1y7aVlahPag.png)
 
 
 
-![[\#NonUnaDiMeno](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.siracusanews.it%2Fsiracusa-psicologi-migranti-oltre-200-professionisti-decreto-sicurezza%2F%3Ffbclid%3DIwAR28p09h61dfRR-hHQSGRh8TTB-7ad0acvXXLvjz8RRKDQW1HglcjSJ1kw8&h=AT3bwJOPK12XGn6t4vi3y9jhhOF_WitYS-oigSilceyc70jetTL3CsPNoJ2ve0suZtlX4CTOntdUR5x1xZb2Yo1ygI4bExsyXeZBzjHdMT5wHHkG6bLHV8bjaC82RnQsJvcuIKMFJ-cRYyUsYbxND_uzFREClAjgIJ_pQUoH5wUIcCXNgxo93EVhTNAK8-BKGuEPkWHxpN9Dy4wt3rNkGRl7HeIrOlBORwS-7CyzwChdeD0G0CdYOU-dlJHNaHB_1ysebONuN1JGgbJDFLcpKvtonQutbNkq0OUjs8rD_rICjGhoxo7RTRKuuGxwRSgpCbeO4o-k75FXn5tiz1gI8NI2e_OfWmd7kt9_apBkkB6r4b3IvdUiTEydHXwYXB8vA1oevY6h4XcorGtVp1zP_7h8obO_EiZKrQC4uEYdk7qSyNnnigSUMBbGuO8f3LXtvCcPHdBOKreGXUo2Lbz5a9IyTRROoVgpSGXEw7PshrgUSRG9ulE0E5kbciYJv-Yrpa0cX0T4cVDJp6fNtlpJzzTRNxnxd-nTGRhk3EX3eLHuG03zxAfkNh-8hSphDDCwN48iPlzSoyC6MlphpbFrOOPPlfE7Csb3DkLMKPDXnXc0LLsb6Je8rsw)](assets/89909412e264/1*bTCgzuTNtvJT6ZrJg6C8qQ.png)
+![[\#NonUnaDiMeno](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.siracusanews.it%2Fsiracusa-psicologi-migranti-oltre-200-professionisti-decreto-sicurezza%2F%3Ffbclid%3DIwAR28p09h61dfRR-hHQSGRh8TTB-7ad0acvXXLvjz8RRKDQW1HglcjSJ1kw8&h=AT3bwJOPK12XGn6t4vi3y9jhhOF_WitYS-oigSilceyc70jetTL3CsPNoJ2ve0suZtlX4CTOntdUR5x1xZb2Yo1ygI4bExsyXeZBzjHdMT5wHHkG6bLHV8bjaC82RnQsJvcuIKMFJ-cRYyUsYbxND_uzFREClAjgIJ_pQUoH5wUIcCXNgxo93EVhTNAK8-BKGuEPkWHxpN9Dy4wt3rNkGRl7HeIrOlBORwS-7CyzwChdeD0G0CdYOU-dlJHNaHB_1ysebONuN1JGgbJDFLcpKvtonQutbNkq0OUjs8rD_rICjGhoxo7RTRKuuGxwRSgpCbeO4o-k75FXn5tiz1gI8NI2e_OfWmd7kt9_apBkkB6r4b3IvdUiTEydHXwYXB8vA1oevY6h4XcorGtVp1zP_7h8obO_EiZKrQC4uEYdk7qSyNnnigSUMBbGuO8f3LXtvCcPHdBOKreGXUo2Lbz5a9IyTRROoVgpSGXEw7PshrgUSRG9ulE0E5kbciYJv-Yrpa0cX0T4cVDJp6fNtlpJzzTRNxnxd-nTGRhk3EX3eLHuG03zxAfkNh-8hSphDDCwN48iPlzSoyC6MlphpbFrOOPPlfE7Csb3DkLMKPDXnXc0LLsb6Je8rsw)](../assets/89909412e264/1*bTCgzuTNtvJT6ZrJg6C8qQ.png)
 
 [\#NonUnaDiMeno](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.siracusanews.it%2Fsiracusa-psicologi-migranti-oltre-200-professionisti-decreto-sicurezza%2F%3Ffbclid%3DIwAR28p09h61dfRR-hHQSGRh8TTB-7ad0acvXXLvjz8RRKDQW1HglcjSJ1kw8&h=AT3bwJOPK12XGn6t4vi3y9jhhOF_WitYS-oigSilceyc70jetTL3CsPNoJ2ve0suZtlX4CTOntdUR5x1xZb2Yo1ygI4bExsyXeZBzjHdMT5wHHkG6bLHV8bjaC82RnQsJvcuIKMFJ-cRYyUsYbxND_uzFREClAjgIJ_pQUoH5wUIcCXNgxo93EVhTNAK8-BKGuEPkWHxpN9Dy4wt3rNkGRl7HeIrOlBORwS-7CyzwChdeD0G0CdYOU-dlJHNaHB_1ysebONuN1JGgbJDFLcpKvtonQutbNkq0OUjs8rD_rICjGhoxo7RTRKuuGxwRSgpCbeO4o-k75FXn5tiz1gI8NI2e_OfWmd7kt9_apBkkB6r4b3IvdUiTEydHXwYXB8vA1oevY6h4XcorGtVp1zP_7h8obO_EiZKrQC4uEYdk7qSyNnnigSUMBbGuO8f3LXtvCcPHdBOKreGXUo2Lbz5a9IyTRROoVgpSGXEw7PshrgUSRG9ulE0E5kbciYJv-Yrpa0cX0T4cVDJp6fNtlpJzzTRNxnxd-nTGRhk3EX3eLHuG03zxAfkNh-8hSphDDCwN48iPlzSoyC6MlphpbFrOOPPlfE7Csb3DkLMKPDXnXc0LLsb6Je8rsw)
 
 The day before, on Friday, 23 November, hundreds of people [participated](https://www.globalproject.info/it/in_movimento/a-roma-in-centinaia-contro-il-decreto-salvini/21745?fbclid=IwAR1rXIMmm-BOmGxjBwRM1lRVJXI2gqpzNMv8j0yGIIfjoEXSozd3SHw6-CQ) in a demonstration against the Salvini Decree, in continuity with the large protest of 10 November\. Protests will be held over the next weeks in several cities throughout the country\.
 
 
-![Demonstration in Rome, 23/11/2018 \(Photo by [Global Project](https://www.globalproject.info/it/in_movimento/a-roma-in-centinaia-contro-il-decreto-salvini/21745?fbclid=IwAR1rXIMmm-BOmGxjBwRM1lRVJXI2gqpzNMv8j0yGIIfjoEXSozd3SHw6-CQ) \)](assets/89909412e264/1*vGraNwTv2pZpinGAQXkQIg.jpeg)
+![Demonstration in Rome, 23/11/2018 \(Photo by [Global Project](https://www.globalproject.info/it/in_movimento/a-roma-in-centinaia-contro-il-decreto-salvini/21745?fbclid=IwAR1rXIMmm-BOmGxjBwRM1lRVJXI2gqpzNMv8j0yGIIfjoEXSozd3SHw6-CQ) \)](../assets/89909412e264/1*vGraNwTv2pZpinGAQXkQIg.jpeg)
 
 Demonstration in Rome, 23/11/2018 \(Photo by [Global Project](https://www.globalproject.info/it/in_movimento/a-roma-in-centinaia-contro-il-decreto-salvini/21745?fbclid=IwAR1rXIMmm-BOmGxjBwRM1lRVJXI2gqpzNMv8j0yGIIfjoEXSozd3SHw6-CQ) \)
 #### Only 30 beds available for people in need in Gorizia
@@ -343,11 +343,11 @@ A young African man jumped from the 4th floor of new courthouse building in Pari
 Paris Refugees Ground Support published a [statement](https://www.facebook.com/groups/P2PParis/permalink/1955920597828138/?hc_location=ufi) regarding donation distribution in Paris\. In their night\-time distributions they “see the aftermath of people’s good intentions turn to a disgrace every weekend”\.
 
 
-![](assets/89909412e264/1*0Az6Sp5mJx7Y3AZerJ7WUw.jpeg)
+![](../assets/89909412e264/1*0Az6Sp5mJx7Y3AZerJ7WUw.jpeg)
 
 
 
-![“The road to ruin is paved of good intention” \(Photo by [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/?tn-str=k*F&fref=gs&dti=1006253006128240&hc_location=group_dialog) \)](assets/89909412e264/1*9_RDeAomFOapijUVrvHeHA.jpeg)
+![“The road to ruin is paved of good intention” \(Photo by [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/?tn-str=k*F&fref=gs&dti=1006253006128240&hc_location=group_dialog) \)](../assets/89909412e264/1*9_RDeAomFOapijUVrvHeHA.jpeg)
 
 “The road to ruin is paved of good intention” \(Photo by [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/?tn-str=k*F&fref=gs&dti=1006253006128240&hc_location=group_dialog) \)
 
@@ -373,7 +373,7 @@ They remind of the importance of an attentive sorting and a careful planning of 
 [Refugee Mobile Support](https://www.facebook.com/MobileRefugeeSupport/) is in great need of tents, waterproof, gloves and torches\.
 
 
-![Donation Distribution in Dunkirk \(Photo by [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/) \)](assets/89909412e264/1*Le_YETi5hoYT2HEIGolkeg.jpeg)
+![Donation Distribution in Dunkirk \(Photo by [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/) \)](../assets/89909412e264/1*Le_YETi5hoYT2HEIGolkeg.jpeg)
 
 Donation Distribution in Dunkirk \(Photo by [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/) \)
 
@@ -456,7 +456,7 @@ On the 30 November, Chiff\-Chaff Café in Bedford will host [‘Winter’s Eve�
 #### Solidarity with the Stanstead 15 from Lesvos
 
 
-![\(Photo by [No Border Kitchen](https://www.facebook.com/NBKLesvos/photos/a.722860677853724/1287517348054718/?type=3&theater) , Lesvos\)](assets/89909412e264/1*NBNtXVPV_6AqxaGuyRD8Iw.jpeg)
+![\(Photo by [No Border Kitchen](https://www.facebook.com/NBKLesvos/photos/a.722860677853724/1287517348054718/?type=3&theater) , Lesvos\)](../assets/89909412e264/1*NBNtXVPV_6AqxaGuyRD8Iw.jpeg)
 
 \(Photo by [No Border Kitchen](https://www.facebook.com/NBKLesvos/photos/a.722860677853724/1287517348054718/?type=3&theater) , Lesvos\)
 
@@ -473,7 +473,7 @@ GENERAL
 #### International Day for the Elimination of Violence against Women
 
 
-![](assets/89909412e264/1*SpMd92HN6jPqS0BdT7qOjQ.png)
+![](../assets/89909412e264/1*SpMd92HN6jPqS0BdT7qOjQ.png)
 
 
 Today \(25 November\) is International Day for the Elimination of Violence against Women and begins [16 days of Activism](http://www.unwomen.org/en/news/in-focus/end-violence-against-women) \.

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 03/11/17: One of the busiest days for rescues in recent months
+title: "AYS Daily Digest 03/11/17: One of the busiest days for rescues in recent months"
 author: Are You Syrious?
 date: 2017-11-03T23:46:21.127+0000
 last_modified_at: 2017-11-04T08:33:17.354+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,refugeeswelcome,mediterranean,greece,uk]
 description: UK scheme helping 1000 carers announced / Six rescue operations carried out today, 700 rescued / 2000+ people have been rescued this week /…
 image:
-  path: assets/8e91afa50000/1*LYeglnqcIxfgonI0xXHeCA.jpeg
+  path: ../assets/8e91afa50000/1*LYeglnqcIxfgonI0xXHeCA.jpeg
 ---
 
 ### AYS Daily Digest 03/11/17: One of the busiest days for rescues in recent months
@@ -15,7 +15,7 @@ image:
 _UK scheme helping 1000 carers announced / Six rescue operations carried out today, 700 rescued / 2000\+ people have been rescued this week / boat sunk off coast of Kalymnos island / Oinofyta camp closes / Day 3 of hunger strike in Athens and more_
 
 
-![Photo: Javi Julio](assets/8e91afa50000/1*LYeglnqcIxfgonI0xXHeCA.jpeg)
+![Photo: Javi Julio](../assets/8e91afa50000/1*LYeglnqcIxfgonI0xXHeCA.jpeg)
 
 Photo: Javi Julio
 #### FEATURE
@@ -31,7 +31,7 @@ Salvamento Meritimo [wrote](https://twitter.com/salvamentogob/status/92644003607
 UNHCR published stats on refugees in Libya\. The numbers show there are 34,226 refugees, the majority of which are Syrian\. It is worth noting that these are just the UNHCR numbers for camps, yet there are many more in unofficial camps or worse\.
 
 
-![](assets/8e91afa50000/1*OU-sS0b4o9fejOWRUh7uQw.jpeg)
+![](../assets/8e91afa50000/1*OU-sS0b4o9fejOWRUh7uQw.jpeg)
 
 #### TURKEY
 
@@ -48,7 +48,7 @@ Around 230 refugees had to leave the temporary camp where they were residing, an
 “I do not know why they close the field when it is ready to face the winter and can accommodate around 600 refugees who will need shelter for the winter season,” volunteer Amy Anderson says in the video\. “Many wonder why a camp closes when thousands of refugees remain trapped in the Aegean islands\. The government argues that only some of them can be transferred to the continent, as is the case of minors and vulnerable men and women,” concludes the Euronews correspondent in the area\.
 
 
-[![Grecia cierra las puertas del campo de refugiados de Oinofyta](assets/8e91afa50000/484c_hqdefault.jpg "Grecia cierra las puertas del campo de refugiados de Oinofyta")](http://www.youtube.com/watch?v=5vXSFXu8NGM)
+[![Grecia cierra las puertas del campo de refugiados de Oinofyta](../assets/8e91afa50000/484c_hqdefault.jpg "Grecia cierra las puertas del campo de refugiados de Oinofyta")](http://www.youtube.com/watch?v=5vXSFXu8NGM)
 
 #### Athens — day 3 of hunger strike
 
@@ -59,11 +59,11 @@ A male refugee from Syria, Amr Isa, said he was staying alone in Greece, separat
 See the list of immediate needs [here](https://www.facebook.com/hungerstrike4familyreunification/posts/761648660707548?hc_location=ufi) \.
 
 
-![](assets/8e91afa50000/1*OOFGHh4na-7fHL4Aq07cGQ.jpeg)
+![](../assets/8e91afa50000/1*OOFGHh4na-7fHL4Aq07cGQ.jpeg)
 
 
 
-![Photos: [Ruhi Loren](https://www.facebook.com/ruhi.akhtar.7)](assets/8e91afa50000/1*8EJ5VPh_AdIX-QLKZplspA.jpeg)
+![Photos: [Ruhi Loren](https://www.facebook.com/ruhi.akhtar.7)](../assets/8e91afa50000/1*8EJ5VPh_AdIX-QLKZplspA.jpeg)
 
 Photos: [Ruhi Loren](https://www.facebook.com/ruhi.akhtar.7)
 

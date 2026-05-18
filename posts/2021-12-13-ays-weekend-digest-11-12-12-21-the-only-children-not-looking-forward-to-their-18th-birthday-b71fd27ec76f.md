@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 11–12/12/21: The only children not looking forward to their 18th birthday
+title: "AYS Weekend Digest 11–12/12/21: The only children not looking forward to their 18th birthday"
 author: Are You Syrious?
 date: 2021-12-13T14:30:15.183+0000
 last_modified_at: 2021-12-13T16:11:28.181+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,greece,belarus,migration,refugees]
 description: Action to support unaccompanied minors in Greece // Worries about health care programme continuation // Updates and news from the border…
 image:
-  path: assets/b71fd27ec76f/1*k3Ttgu3hVRfhd1t25Rtbyw.jpeg
+  path: ../assets/b71fd27ec76f/1*k3Ttgu3hVRfhd1t25Rtbyw.jpeg
 ---
 
 ### AYS Weekend Digest 11–12/12/21: The only children not looking forward to their 18th birthday
 #### Action to support unaccompanied minors in Greece // Worries about health care programme continuation // Updates and news from the border area with Belarus // Several suggestions for reading and watching for you today
 
 
-![](assets/b71fd27ec76f/1*k3Ttgu3hVRfhd1t25Rtbyw.jpeg)
+![](../assets/b71fd27ec76f/1*k3Ttgu3hVRfhd1t25Rtbyw.jpeg)
 
 #### FEATURED
 
@@ -106,7 +106,7 @@ Grupa Granica invited support and action as a part of the gatherings taking plac
 
 
 
-![](assets/b71fd27ec76f/0*E2-Br5RgZfcLJBvt)
+![](../assets/b71fd27ec76f/0*E2-Br5RgZfcLJBvt)
 
 ### Going underground
 
@@ -136,7 +136,7 @@ On the other side, different countries are handling the situation in a different
 
 
 
-![Photo: [Ruhi Loren Akhtar](https://www.facebook.com/ruhi.akhtar.7?__tn__=-UC*F)](assets/b71fd27ec76f/0*pcTEKUuh0hcm2kGa)
+![Photo: [Ruhi Loren Akhtar](https://www.facebook.com/ruhi.akhtar.7?__tn__=-UC*F)](../assets/b71fd27ec76f/0*pcTEKUuh0hcm2kGa)
 
 Photo: [Ruhi Loren Akhtar](https://www.facebook.com/ruhi.akhtar.7?__tn__=-UC*F)
 
@@ -179,7 +179,7 @@ Grupa Granica updates the most recent versions of human rights violations in det
 
 
 
-![](assets/b71fd27ec76f/0*ELWGG35bJ2Pi7xlG)
+![](../assets/b71fd27ec76f/0*ELWGG35bJ2Pi7xlG)
 
 #### WORTH READING
 - Anti\-refugee language has emerged in the public space: the term “nachodźcy” \(a Polish play on the word ‘refugee’ meaning ‘aggressor’\) which appears regularly among nationalists; and the comparing of refugees to “thieves and robbers” in certain religious circles\. Beata Zwierzynska writes about the terminology used to describe people trying to enter the European Union:
@@ -208,7 +208,7 @@ Grupa Granica updates the most recent versions of human rights violations in det
 
 
 
-[![CRS/RLL Seminar: Sharp Borders: Technology, Pushbacks, and Interdisciplinary Investigations](assets/b71fd27ec76f/34f9_hqdefault.jpg "CRS/RLL Seminar: Sharp Borders: Technology, Pushbacks, and Interdisciplinary Investigations")](https://www.youtube.com/watch?v=lDZUkksORx4)
+[![CRS/RLL Seminar: Sharp Borders: Technology, Pushbacks, and Interdisciplinary Investigations](../assets/b71fd27ec76f/34f9_hqdefault.jpg "CRS/RLL Seminar: Sharp Borders: Technology, Pushbacks, and Interdisciplinary Investigations")](https://www.youtube.com/watch?v=lDZUkksORx4)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

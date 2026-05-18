@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 20/05/2021: Progress Made on Human Rights in EU Migration Deals
+title: "AYS Daily Digest 20/05/2021: Progress Made on Human Rights in EU Migration Deals"
 author: Are You Syrious?
 date: 2021-05-21T15:51:02.475+0100
 last_modified_at: 2021-05-21T15:51:02.475+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [european-parliament,human-rights,digest,refugees,migration]
 description: Updates from Ceuta, Canaries and Aegean Islands // Sea-Eye 4 assigned a port // Clinic for torture victims opened in Italy // Solidarity…
 image:
-  path: assets/8fa59f67bed/0*SYP9jnbgk-o5wBAj.jpeg
+  path: ../assets/8fa59f67bed/0*SYP9jnbgk-o5wBAj.jpeg
 ---
 
 ### AYS Daily Digest 20/05/2021: Progress Made on Human Rights in EU Migration Deals
 #### Updates from Ceuta, Canaries and Aegean Islands // Sea\-Eye 4 assigned a port // Clinic for torture victims opened in Italy // Solidarity protests in Denmark
 
 
-![](assets/8fa59f67bed/0*SYP9jnbgk-o5wBAj.jpeg)
+![](../assets/8fa59f67bed/0*SYP9jnbgk-o5wBAj.jpeg)
 
 
 EU Parliament\. \(Photo: [Flickr](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Fdoommeer%2F463366699&psig=AOvVaw1CoMWNWauA1FgV6gd_YsNJ&ust=1621679048747000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCVr7HH2vACFQAAAAAdAAAAABAK) \)
@@ -163,11 +163,11 @@ Yesterday a group of Syrian refugees started a fourteen days sit\-in protest in 
 Listen to their demands, visit them in front of the parliament the next couple of weeks, offer your support and show up today at the protest against sending refugees back to Damascus and against the inhumane refugee policies in Denmark\. There will be protests in 23 cities all around Denmark so join your local network\.”
 
 
-![](assets/8fa59f67bed/0*PMik7JhAuUojJ1kP)
+![](../assets/8fa59f67bed/0*PMik7JhAuUojJ1kP)
 
 
 
-![](assets/8fa59f67bed/0*A6G5xeIBoD0wg5YJ.jpeg)
+![](../assets/8fa59f67bed/0*A6G5xeIBoD0wg5YJ.jpeg)
 
 ### WORTH READING
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 14/01/19: Open Arms Rescue Ship barred from leaving port once again
+title: "AYS Daily Digest 14/01/19: Open Arms Rescue Ship barred from leaving port once again"
 author: Are You Syrious?
 date: 2019-01-15T04:43:38.158+0000
 last_modified_at: 2019-01-15T04:43:38.158+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,digest,protest,mediterranean,hotspots]
 description: Updates from Libya // 54 still missing in Alboran Sea // Two new reception centers to open on Greek mainland // Life inside and outside an…
 image:
-  path: assets/c044728e4c26/1*5J63cG5LxptGe7hzpKPFHQ.jpeg
+  path: ../assets/c044728e4c26/1*5J63cG5LxptGe7hzpKPFHQ.jpeg
 ---
 
 ### AYS Daily Digest 14/01/19: Open Arms Rescue Ship barred from leaving port once again
@@ -15,7 +15,7 @@ image:
 _Updates from Libya // 54 still missing in Alboran Sea // Two new reception centers to open on Greek mainland // Life inside and outside an IOM camp in Bosnia // Statement on illegal push backs on Croatian border // In Italy, freezing temperatures make sleeping rough unbearable // Open Arms blocked yet again // Protests in Spain, Italy, and Belgium // Addressing rumors about Canada’s refugee program_
 
 
-![Spanish anti\-racism protestors take to the streets\. Photo credit: [Mike Gilli](https://www.facebook.com/photo.php?fbid=10157014458088270&set=pcb.10157014460708270&type=3&theater&ifg=1)](assets/c044728e4c26/1*5J63cG5LxptGe7hzpKPFHQ.jpeg)
+![Spanish anti\-racism protestors take to the streets\. Photo credit: [Mike Gilli](https://www.facebook.com/photo.php?fbid=10157014458088270&set=pcb.10157014460708270&type=3&theater&ifg=1)](../assets/c044728e4c26/1*5J63cG5LxptGe7hzpKPFHQ.jpeg)
 
 Spanish anti\-racism protestors take to the streets\. Photo credit: [Mike Gilli](https://www.facebook.com/photo.php?fbid=10157014458088270&set=pcb.10157014460708270&type=3&theater&ifg=1)
 ### Feature —
@@ -40,7 +40,7 @@ An update from journalist Sally Hayden on the situation in Khoms:
 ### Sea
 
 
-![The Mediterranean in January — high winds and rough seas\. Source: Watch the Med](assets/c044728e4c26/1*rjtw9nsosQJNEnBDzZ5Y1w.jpeg)
+![The Mediterranean in January — high winds and rough seas\. Source: Watch the Med](../assets/c044728e4c26/1*rjtw9nsosQJNEnBDzZ5Y1w.jpeg)
 
 The Mediterranean in January — high winds and rough seas\. Source: Watch the Med
 
@@ -48,7 +48,7 @@ According to [Watch The Med](https://www.facebook.com/watchthemed.alarmphone/pos
 ### Greece
 
 
-![Weekly statistics from Aegean Boat Report\.](assets/c044728e4c26/1*kiZmlk0UGLwlmrtMx_I-wg.jpeg)
+![Weekly statistics from Aegean Boat Report\.](../assets/c044728e4c26/1*kiZmlk0UGLwlmrtMx_I-wg.jpeg)
 
 Weekly statistics from Aegean Boat Report\.
 
@@ -75,7 +75,7 @@ Kitrinos Healthcare is looking for volunteer doctors to assist in their Moria Cl
 **MAINLAND —**
 
 
-![A service for Shehzad Luqman, the 27\-year\-old Pakistani worker who was murdered in a probable hate crime\. Source: [No Borders](https://twitter.com/Refugees_Gr/status/1084745096648671233?s=19&fbclid=IwAR3fKUTgAOLRack2AU4GRIOHtrZyFgM5Xa9FHkNafAOq3JI_cRlsRee-4Po)](assets/c044728e4c26/1*24W1Vf5exaAZQWMUJGqj2Q.jpeg)
+![A service for Shehzad Luqman, the 27\-year\-old Pakistani worker who was murdered in a probable hate crime\. Source: [No Borders](https://twitter.com/Refugees_Gr/status/1084745096648671233?s=19&fbclid=IwAR3fKUTgAOLRack2AU4GRIOHtrZyFgM5Xa9FHkNafAOq3JI_cRlsRee-4Po)](../assets/c044728e4c26/1*24W1Vf5exaAZQWMUJGqj2Q.jpeg)
 
 A service for Shehzad Luqman, the 27\-year\-old Pakistani worker who was murdered in a probable hate crime\. Source: [No Borders](https://twitter.com/Refugees_Gr/status/1084745096648671233?s=19&fbclid=IwAR3fKUTgAOLRack2AU4GRIOHtrZyFgM5Xa9FHkNafAOq3JI_cRlsRee-4Po)
 
@@ -89,22 +89,22 @@ The Greek Asylum Service \(GAS\) is announcing a [**new weekly Skype schedule**]
 ### Bosnia
 
 
-![](assets/c044728e4c26/1*bjk4eziCHjkHTJloNEEF-A.jpeg)
+![](../assets/c044728e4c26/1*bjk4eziCHjkHTJloNEEF-A.jpeg)
 
 
 
-![](assets/c044728e4c26/1*AfyLJqDQ9geIRmHyiTPsmw.jpeg)
+![](../assets/c044728e4c26/1*AfyLJqDQ9geIRmHyiTPsmw.jpeg)
 
 
 
-![Photo Credit: [Bostjan Videmsek](https://www.facebook.com/bostjan.videmsek/posts/2932590230099947?hc_location=ufi)](assets/c044728e4c26/1*11hBvVza7Sj379eO0hLz2w.jpeg)
+![Photo Credit: [Bostjan Videmsek](https://www.facebook.com/bostjan.videmsek/posts/2932590230099947?hc_location=ufi)](../assets/c044728e4c26/1*11hBvVza7Sj379eO0hLz2w.jpeg)
 
 Photo Credit: [Bostjan Videmsek](https://www.facebook.com/bostjan.videmsek/posts/2932590230099947?hc_location=ufi)
 
 “Dehumanization as such\.” Images from Miral camp, run by IOM in Velika Kladuša\.
 
 
-![The man’s makeshift shelter, which includes a small stove\. Photo Credit: Angélica Sánchez](assets/c044728e4c26/1*ME3qGQ3x7F5vjh74P3OOuA.jpeg)
+![The man’s makeshift shelter, which includes a small stove\. Photo Credit: Angélica Sánchez](../assets/c044728e4c26/1*ME3qGQ3x7F5vjh74P3OOuA.jpeg)
 
 The man’s makeshift shelter, which includes a small stove\. Photo Credit: Angélica Sánchez
 
@@ -125,15 +125,15 @@ Baobab Experience reports that a number of women and children have been stranded
 Some images from a sit\-in, in defense of a social space for migrants, which took place in Treviso this past Saturday:
 
 
-![](assets/c044728e4c26/1*4FK6NE9jMWjYM98cI5YYww.jpeg)
+![](../assets/c044728e4c26/1*4FK6NE9jMWjYM98cI5YYww.jpeg)
 
 
 
-![](assets/c044728e4c26/1*bdt2P_f-9OdtzGWCok_StA.jpeg)
+![](../assets/c044728e4c26/1*bdt2P_f-9OdtzGWCok_StA.jpeg)
 
 
 
-![Photo Credit: T [alking Hands](https://www.facebook.com/OpificioTalkingHands/photos/pcb.956589888062766/956588078062947/?type=3&theater)](assets/c044728e4c26/1*QY4zO9zBltdYz0d9RUP1kA.jpeg)
+![Photo Credit: T [alking Hands](https://www.facebook.com/OpificioTalkingHands/photos/pcb.956589888062766/956588078062947/?type=3&theater)](../assets/c044728e4c26/1*QY4zO9zBltdYz0d9RUP1kA.jpeg)
 
 Photo Credit: T [alking Hands](https://www.facebook.com/OpificioTalkingHands/photos/pcb.956589888062766/956588078062947/?type=3&theater)
 ### Spain
@@ -141,11 +141,11 @@ Photo Credit: T [alking Hands](https://www.facebook.com/OpificioTalkingHands/pho
 This past week, Barcelona\-based Casa Africa [celebrated](https://thefreeonline.wordpress.com/2019/01/14/no-borders-no-nations-2/?fbclid=IwAR3k8auwhfL-iRVNc5CQ2avdieHCbYUZs7AuBUtrN-kFUIIuDTBwwsabIL0) a temporary hold on the squat’s impending eviction with a breakfast\-lunch gathering\. There are currently around 20 young people from various countries in Africa living in the squat\.
 
 
-![](assets/c044728e4c26/1*FYmHdBDNz6kOylipOq1esw.jpeg)
+![](../assets/c044728e4c26/1*FYmHdBDNz6kOylipOq1esw.jpeg)
 
 
 
-![The protest, and the Casa Africa Squat\. Photo Credit: Mike Gilli](assets/c044728e4c26/1*FsOhV6FGLvOPIjbjeLllNg.jpeg)
+![The protest, and the Casa Africa Squat\. Photo Credit: Mike Gilli](../assets/c044728e4c26/1*FsOhV6FGLvOPIjbjeLllNg.jpeg)
 
 The protest, and the Casa Africa Squat\. Photo Credit: Mike Gilli
 ### France
@@ -160,7 +160,7 @@ Watch the video below:
 ### Belgium
 
 
-![](assets/c044728e4c26/1*jJu4tOxeAEh3b3mwFQGDPw.jpeg)
+![](../assets/c044728e4c26/1*jJu4tOxeAEh3b3mwFQGDPw.jpeg)
 
 
 [InfoMigrants](https://www.facebook.com/InfoMigrants/posts/1871203303001446) posted this photo from a protest in Belgium over the weekend\. “I get treated better than migrants do,” the sign reads\.

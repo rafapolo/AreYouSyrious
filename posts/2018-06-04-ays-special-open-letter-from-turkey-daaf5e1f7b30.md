@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Open letter from Turkey
+title: "AYS SPECIAL: Open letter from Turkey"
 author: Are You Syrious?
 date: 2018-06-04T07:00:01.125+0100
 last_modified_at: 2018-06-04T07:00:01.125+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,special,lgbtq,turkey,unhcr]
 description: This letter is written to you by the LGBT refugees who have been stranded for years in Turkey without any resettlement option. We believe…
 image:
-  path: assets/daaf5e1f7b30/1*OcrnuFc6fVF2ggW8iRh5rw.jpeg
+  path: ../assets/daaf5e1f7b30/1*OcrnuFc6fVF2ggW8iRh5rw.jpeg
 ---
 
 ### AYS SPECIAL: Open letter from Turkey
@@ -15,7 +15,7 @@ image:
 This letter is written to you by the LGBT refugees who have been stranded for years in Turkey without any resettlement option\. We believe you are in a position to shed light on our plight for the concerned authorities in this regard\.
 
 
-![Photo AYS](assets/daaf5e1f7b30/1*OcrnuFc6fVF2ggW8iRh5rw.jpeg)
+![Photo AYS](../assets/daaf5e1f7b30/1*OcrnuFc6fVF2ggW8iRh5rw.jpeg)
 
 Photo AYS
 

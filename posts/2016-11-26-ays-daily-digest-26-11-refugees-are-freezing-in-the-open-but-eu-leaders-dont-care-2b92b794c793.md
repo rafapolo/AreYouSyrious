@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 26/11: Refugees are freezing in the open, but EU leaders don’t care
+title: "AYS Daily Digest 26/11: Refugees are freezing in the open, but EU leaders don’t care"
 author: Are You Syrious?
 date: 2016-11-26T23:38:32.111+0000
 last_modified_at: 2016-11-27T11:09:22.711+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,greek-islands,recep-tayyip-erdogan,turkey-threat-to-europe]
 description: Citizens of Europe, unlike decision makers in their countries, do care about those who need help /// Five boats with 112 people arrived at…
 image:
-  path: assets/2b92b794c793/1*5IqkjWhnZlejn794fAtd-A.jpeg
+  path: ../assets/2b92b794c793/1*5IqkjWhnZlejn794fAtd-A.jpeg
 ---
 
 ### AYS Daily Digest 26/11: Refugees are freezing in the open, but EU leaders don’t care
@@ -15,7 +15,7 @@ image:
 _Citizens of Europe, unlike decision makers in their countries, do care about those who need help /// Five boats with 112 people arrived at Chios today /// Another blackmail from Turkey to EU /// Bulgaria threatens expulsion of Afghan refugees/// Volunteers needed for the shifts of watching and scans the shore for boats in Greece/// New camp established in Paris_
 
 
-![Refugees inside an abandoned warehouse in Belgrade\. Foto Matej Leskovsek\.](assets/2b92b794c793/1*5IqkjWhnZlejn794fAtd-A.jpeg)
+![Refugees inside an abandoned warehouse in Belgrade\. Foto Matej Leskovsek\.](../assets/2b92b794c793/1*5IqkjWhnZlejn794fAtd-A.jpeg)
 
 Refugees inside an abandoned warehouse in Belgrade\. Foto Matej Leskovsek\.
 ### Feature
@@ -45,11 +45,11 @@ When refuges arrived in Europe, unfortunately not much had been done so far to i
 Thousands of people will be left to live out in the open in Greece, Macedonia, Serbia, France, Italy… all over Europe\. Their lives are at risk\. Lives of people who are only looking for peace and a chance for a normal life\. They were not offered this chance by the West\.
 
 
-![](assets/2b92b794c793/1*qfu0GwsNXSXkmqV8-ky8lg.jpeg)
+![](../assets/2b92b794c793/1*qfu0GwsNXSXkmqV8-ky8lg.jpeg)
 
 
 
-![People are left to sleep in freezing cold all over Europe\. Foto by IRC\.](assets/2b92b794c793/1*twL_NDq_Jmlxjag_DAs5MQ.jpeg)
+![People are left to sleep in freezing cold all over Europe\. Foto by IRC\.](../assets/2b92b794c793/1*twL_NDq_Jmlxjag_DAs5MQ.jpeg)
 
 People are left to sleep in freezing cold all over Europe\. Foto by IRC\.
 
@@ -60,19 +60,19 @@ However, while their leaders remain blind to the suffering of people, we call on
 Today, people in Vienna, around 5\.000, protested against “Fortress Europe” and the decision made by its leadership to expel Afghan refugees from the EU\.
 
 
-![](assets/2b92b794c793/1*W0W9rGXm1BAbE3XCzhi7Zg.jpeg)
+![](../assets/2b92b794c793/1*W0W9rGXm1BAbE3XCzhi7Zg.jpeg)
 
 
 
-![](assets/2b92b794c793/1*2tq962OGSfEuePerkmv_hQ.jpeg)
+![](../assets/2b92b794c793/1*2tq962OGSfEuePerkmv_hQ.jpeg)
 
 
 
-![](assets/2b92b794c793/1*X6D95hMEjzmT-tiPRNvLeA.jpeg)
+![](../assets/2b92b794c793/1*X6D95hMEjzmT-tiPRNvLeA.jpeg)
 
 
 
-![Photo by [**Arye Wachsmuth**](https://www.facebook.com/arye.wachsmuth)](assets/2b92b794c793/1*55zPP9waFF_4nc7V-9MNYw.jpeg)
+![Photo by [**Arye Wachsmuth**](https://www.facebook.com/arye.wachsmuth)](../assets/2b92b794c793/1*55zPP9waFF_4nc7V-9MNYw.jpeg)
 
 Photo by [**Arye Wachsmuth**](https://www.facebook.com/arye.wachsmuth)
 
@@ -135,11 +135,11 @@ Join and [sign the petition](https://www.change.org/p/state-agency-for-refugees-
 Incredible news from Katsikas camp\. A very dedicated team [Habibi\.Works](https://www.facebook.com/HabibiWorks/posts/1015590198586404?__mref=message_bubble /react-text) from camp Katsikas completed the first stage of a geodesic dome\!
 
 
-![](assets/2b92b794c793/1*zrU2LvcIy29ElakCDIhTzA.jpeg)
+![](../assets/2b92b794c793/1*zrU2LvcIy29ElakCDIhTzA.jpeg)
 
 
 
-![Team with magic hands\. Habibi\.Works](assets/2b92b794c793/1*tQkan9JBtMhfLCZu-oFqNA.jpeg)
+![Team with magic hands\. Habibi\.Works](../assets/2b92b794c793/1*tQkan9JBtMhfLCZu-oFqNA.jpeg)
 
 Team with magic hands\. Habibi\.Works
 

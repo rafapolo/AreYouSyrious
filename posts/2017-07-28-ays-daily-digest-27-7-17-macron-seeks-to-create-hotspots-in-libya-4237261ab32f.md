@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 27/07/17: Macron seeks to create hotspots in Libya
+title: "AYS Daily Digest 27/07/17: Macron seeks to create hotspots in Libya"
 author: Are You Syrious?
 date: 2017-07-28T00:23:22.644+0100
 last_modified_at: 2017-08-29T17:09:25.946+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,france,greece,italy,serbia]
 description: Activists in danger in Libya / Almost 300 new arrivals in Greece today / New European projects for Greece / Italy to send ships to Libyan…
 image:
-  path: assets/4237261ab32f/1*WVGk_jPJ21EzEq1CgUIvCw.jpeg
+  path: ../assets/4237261ab32f/1*WVGk_jPJ21EzEq1CgUIvCw.jpeg
 ---
 
 ### AYS Daily Digest 27/07/17: Macron seeks to create hotspots in Libya
@@ -15,7 +15,7 @@ image:
 _Activists in danger in Libya / Almost 300 new arrivals in Greece today / New European projects for Greece / Italy to send ships to Libyan waters / More violence in Croatia, Hungary, and France / And more news…_
 
 
-![Moria hotspot \(Photo by [Arash Hampay](https://www.facebook.com/arashampay) \)](assets/4237261ab32f/1*WVGk_jPJ21EzEq1CgUIvCw.jpeg)
+![Moria hotspot \(Photo by [Arash Hampay](https://www.facebook.com/arashampay) \)](../assets/4237261ab32f/1*WVGk_jPJ21EzEq1CgUIvCw.jpeg)
 
 Moria hotspot \(Photo by [Arash Hampay](https://www.facebook.com/arashampay) \)
 ### FEATURE: France plans to open hotspots in Libya
@@ -61,7 +61,7 @@ We get reports of extreme violence from Libya regularly and from all kinds of pe
 
 
 
-![\(Photo by [**MSF Sea**](https://twitter.com/MSF_Sea) **\)**](assets/4237261ab32f/1*spUbeu45NznZ6LXXYCvIzA.jpeg)
+![\(Photo by [**MSF Sea**](https://twitter.com/MSF_Sea) **\)**](../assets/4237261ab32f/1*spUbeu45NznZ6LXXYCvIzA.jpeg)
 
 \(Photo by [**MSF Sea**](https://twitter.com/MSF_Sea) **\)**
 ### GREECE
@@ -100,7 +100,7 @@ A few nights ago, Arash Hampay had a message for Greek and European authorities:
 
 
 
-![\(Photo by [Mosaik Support Center](https://www.facebook.com/mosaiksupportcenter/) \)](assets/4237261ab32f/1*HiXrQFgTD5Ev39gLy-KQtg.jpeg)
+![\(Photo by [Mosaik Support Center](https://www.facebook.com/mosaiksupportcenter/) \)](../assets/4237261ab32f/1*HiXrQFgTD5Ev39gLy-KQtg.jpeg)
 
 \(Photo by [Mosaik Support Center](https://www.facebook.com/mosaiksupportcenter/) \)
 
@@ -160,7 +160,7 @@ The rest of the money will go to humanitarian NGOs to top up existing projects a
 A Regional Asylum office will be opening in Crete tomorrow in Iraklio at 13:00 hrs according to official sources\.
 
 
-![Photo by [**Greek Asylum Service — Υπηρεσία Ασύλου/Υπ\. Μεταναστευτικής Πολιτικής**](https://www.facebook.com/Greek-Asylum-Service-%CE%A5%CF%80%CE%B7%CF%81%CE%B5%CF%83%CE%AF%CE%B1-%CE%91%CF%83%CF%8D%CE%BB%CE%BF%CF%85%CE%A5%CF%80-%CE%9C%CE%B5%CF%84%CE%B1%CE%BD%CE%B1%CF%83%CF%84%CE%B5%CF%85%CF%84%CE%B9%CE%BA%CE%AE%CF%82-%CE%A0%CE%BF%CE%BB%CE%B9%CF%84%CE%B9%CE%BA%CE%AE%CF%82-481351218685655/?hc_ref=ARQhBJyr8XvbQzDz15mjchCQMOGDZwhrxu3PSgTrkGY4v1KaXHfTVo5pqh70GgLGU9s)](assets/4237261ab32f/1*oY6RFtV7bVISnrRwb-4Ocw.jpeg)
+![Photo by [**Greek Asylum Service — Υπηρεσία Ασύλου/Υπ\. Μεταναστευτικής Πολιτικής**](https://www.facebook.com/Greek-Asylum-Service-%CE%A5%CF%80%CE%B7%CF%81%CE%B5%CF%83%CE%AF%CE%B1-%CE%91%CF%83%CF%8D%CE%BB%CE%BF%CF%85%CE%A5%CF%80-%CE%9C%CE%B5%CF%84%CE%B1%CE%BD%CE%B1%CF%83%CF%84%CE%B5%CF%85%CF%84%CE%B9%CE%BA%CE%AE%CF%82-%CE%A0%CE%BF%CE%BB%CE%B9%CF%84%CE%B9%CE%BA%CE%AE%CF%82-481351218685655/?hc_ref=ARQhBJyr8XvbQzDz15mjchCQMOGDZwhrxu3PSgTrkGY4v1KaXHfTVo5pqh70GgLGU9s)](../assets/4237261ab32f/1*oY6RFtV7bVISnrRwb-4Ocw.jpeg)
 
 Photo by [**Greek Asylum Service — Υπηρεσία Ασύλου/Υπ\. Μεταναστευτικής Πολιτικής**](https://www.facebook.com/Greek-Asylum-Service-%CE%A5%CF%80%CE%B7%CF%81%CE%B5%CF%83%CE%AF%CE%B1-%CE%91%CF%83%CF%8D%CE%BB%CE%BF%CF%85%CE%A5%CF%80-%CE%9C%CE%B5%CF%84%CE%B1%CE%BD%CE%B1%CF%83%CF%84%CE%B5%CF%85%CF%84%CE%B9%CE%BA%CE%AE%CF%82-%CE%A0%CE%BF%CE%BB%CE%B9%CF%84%CE%B9%CE%BA%CE%AE%CF%82-481351218685655/?hc_ref=ARQhBJyr8XvbQzDz15mjchCQMOGDZwhrxu3PSgTrkGY4v1KaXHfTVo5pqh70GgLGU9s)
 
@@ -184,7 +184,7 @@ Between 1–23 July, 206 refugees registered intention to seek asylum in Serbia\
 Spanish reporters have joined No Name Kitchen in Sid and report about the situation and the conditions there as well as the many cases of violence from Croatian police towards refugees\.
 
 
-[![Šid, july 2017.](assets/4237261ab32f/a714_hqdefault.jpg "Šid, july 2017.")](http://www.youtube.com/watch?v=0Obtuvcr-mI)
+[![Šid, july 2017.](../assets/4237261ab32f/a714_hqdefault.jpg "Šid, july 2017.")](http://www.youtube.com/watch?v=0Obtuvcr-mI)
 
 ### Hungary
 
@@ -252,7 +252,7 @@ Cedric Herrou, the French farmer famous by being taken to court just for helping
 In the meanwhile, in the north of the country, the situation hasn’t changed, and even if Macron talks now about dignity, violence continues to happen every day\. A channel called [Jungle News](http://Jungle News) has published a video on the 25th of images that have been too common, for too long in France\.
 
 
-[![Violences policières à Calais : les images de la honte](assets/4237261ab32f/591f_hqdefault.jpg "Violences policières à Calais : les images de la honte")](http://www.youtube.com/watch?v=MIxGMfowzkY)
+[![Violences policières à Calais : les images de la honte](../assets/4237261ab32f/591f_hqdefault.jpg "Violences policières à Calais : les images de la honte")](http://www.youtube.com/watch?v=MIxGMfowzkY)
 
 
 A volunteer says the police threw gas at volunteers that were just serving water to refugees\.
@@ -260,7 +260,7 @@ A volunteer says the police threw gas at volunteers that were just serving water
 [**Dunkirk / Dunkerque Refugee Women’s Centre**](https://www.facebook.com/refugeewomenscentre/?hc_ref=ARSsdia24QWwl3b96H5Gt1OAMdp1eg5adQ4YLvbdS3JF6tl3R9k2xZQZNdDncKi37K8&fref=nf) is looking for volunteers for this Autumn\. They are looking for female volunteers that can stay preferably 1 month to be able to familiarize themselves with the refugees at the centre and vice versa\. If you have the profile and are interested please contact them on the link above\.
 
 
-![Photo by [**Dunkirk / Dunkerque Refugee Women’s Centre**](https://www.facebook.com/refugeewomenscentre/)](assets/4237261ab32f/1*jXOQW1Akcviyev6DY9W43w.jpeg)
+![Photo by [**Dunkirk / Dunkerque Refugee Women’s Centre**](https://www.facebook.com/refugeewomenscentre/)](../assets/4237261ab32f/1*jXOQW1Akcviyev6DY9W43w.jpeg)
 
 Photo by [**Dunkirk / Dunkerque Refugee Women’s Centre**](https://www.facebook.com/refugeewomenscentre/)
 

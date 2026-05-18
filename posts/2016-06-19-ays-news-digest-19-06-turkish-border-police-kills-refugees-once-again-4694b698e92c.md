@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe]
 description: Syria
 image:
-  path: assets/4694b698e92c/1*7sO-l2OwziM4d4471jX3mA.jpeg
+  path: ../assets/4694b698e92c/1*7sO-l2OwziM4d4471jX3mA.jpeg
 ---
 
 ### AYS NEWS DIGEST 19/06 — The Turkish border police has killed refugees once again\.
 
 
-![Refugees trapped on the Hungarian\-Serbian border in Kelebija crossing\. Photo Credit: Valczer Hajni](assets/4694b698e92c/1*7sO-l2OwziM4d4471jX3mA.jpeg)
+![Refugees trapped on the Hungarian\-Serbian border in Kelebija crossing\. Photo Credit: Valczer Hajni](../assets/4694b698e92c/1*7sO-l2OwziM4d4471jX3mA.jpeg)
 
 Refugees trapped on the Hungarian\-Serbian border in Kelebija crossing\. Photo Credit: Valczer Hajni
 #### Syria
@@ -40,7 +40,7 @@ Today three of our team went in to provide tents, clothes, sleeping bags and hyg
 To support the work we do in the warehouse and camp, please visit [www\.gofundme\.com/samos4refugees](http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.gofundme.com%2Fsamos4refugees&h=NAQHUJvBo) \.
 
 
-![Lifeguard volunteers teach refugee children living in Kara Tepe Camp on Lesvos how to swim\. Photo Credit:Fahrinisa Oswald](assets/4694b698e92c/1*QBKcllF8AGZLDdOY-ms4ug.jpeg)
+![Lifeguard volunteers teach refugee children living in Kara Tepe Camp on Lesvos how to swim\. Photo Credit:Fahrinisa Oswald](../assets/4694b698e92c/1*QBKcllF8AGZLDdOY-ms4ug.jpeg)
 
 Lifeguard volunteers teach refugee children living in Kara Tepe Camp on Lesvos how to swim\. Photo Credit:Fahrinisa Oswald
 ### English teacher, shoes, and powdered milk are needed at Cherso Camp\.
@@ -50,7 +50,7 @@ The teacher must be a woman, and she will be working with Yazidi women\.
 ### A large group of refugees has arrived today at Preševo One\-Stop Center\.
 
 
-![Refugees at Preševo\. Photo Credit: Youth for Refugees](assets/4694b698e92c/1*RPnG9uqXnPozwo7NJNwhxw.jpeg)
+![Refugees at Preševo\. Photo Credit: Youth for Refugees](../assets/4694b698e92c/1*RPnG9uqXnPozwo7NJNwhxw.jpeg)
 
 Refugees at Preševo\. Photo Credit: Youth for Refugees
 ### An increase in the number of refugees in Serbia has been confirmed\.
@@ -59,7 +59,7 @@ UNHCR Representative in Serbia Hans Friedrich Schodder [has confirmed that](http
 “While the \(official\) numbers of refugees have dropped since the border closure, the needs are even bigger now, when we are seeing that up to 40% of refugees are children\. Yesterday we had 200 children on the Serbo\-Hungarian border,” Schodder told Tanjug news agency, adding that the numbers of refugees passing through the country after crossing the Macedonian and/or Bulgarian borders is once again on the rise\. This coincides with the news from Preševo, where volunteers have noted an increase in arrivals, as have their colleagues in Belgrade recently\.
 
 
-![Refugees trapped on the Hungarian\-Serbian border in Kelebija crossing\. Photo Credit: Valczer Hajni](assets/4694b698e92c/1*1gTVwaOEnBBGZ-EcL3PomA.jpeg)
+![Refugees trapped on the Hungarian\-Serbian border in Kelebija crossing\. Photo Credit: Valczer Hajni](../assets/4694b698e92c/1*1gTVwaOEnBBGZ-EcL3PomA.jpeg)
 
 Refugees trapped on the Hungarian\-Serbian border in Kelebija crossing\. Photo Credit: Valczer Hajni
 #### Croatia
@@ -68,11 +68,11 @@ Refugees trapped on the Hungarian\-Serbian border in Kelebija crossing\. Photo C
 This weekend, AYS volunteers threw an open\-air party for the refugees in front of Porin hotel in Zagreb\. We had sport tournaments and games for the kids during the day, followed by the barbecue in the evening\. Many of the residents of Porin joined us in preparing delicious Iftar feast, making it a wonderful weekend for both us and them\.
 
 
-![](assets/4694b698e92c/1*9PYn-uyKiQek4TJlU3ei5Q.jpeg)
+![](../assets/4694b698e92c/1*9PYn-uyKiQek4TJlU3ei5Q.jpeg)
 
 
 
-![Refugees and AYS volunteers sharing an Iftar meal in front of Porin Hotel](assets/4694b698e92c/1*4YOVVwWSJmuelxIUUIu1Dw.jpeg)
+![Refugees and AYS volunteers sharing an Iftar meal in front of Porin Hotel](../assets/4694b698e92c/1*4YOVVwWSJmuelxIUUIu1Dw.jpeg)
 
 Refugees and AYS volunteers sharing an Iftar meal in front of Porin Hotel
 
@@ -100,7 +100,7 @@ The full report may be read [here](https://www.facebook.com/RefugeeRightsData/po
 A report was also compiled by Help Refugees, detailing the life of children living in Calais\. It’s findings are aptly summarized in the following infographic:
 
 
-![](assets/4694b698e92c/1*Bw2HhUyrRaZJC_o-jxFwuw.jpeg)
+![](../assets/4694b698e92c/1*Bw2HhUyrRaZJC_o-jxFwuw.jpeg)
 
 
 

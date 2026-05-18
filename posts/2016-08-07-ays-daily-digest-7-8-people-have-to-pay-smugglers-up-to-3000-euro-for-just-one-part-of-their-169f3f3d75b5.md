@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 7/8: Closed borders = money for smugglers
+title: "AYS Daily Digest 7/8: Closed borders = money for smugglers"
 author: Are You Syrious?
 date: 2016-08-07T22:55:55.892+0100
 last_modified_at: 2016-08-07T23:02:26.562+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,oreocastro-camp,calais,smuggling]
 description: Severe weather warning for Greece. Construction of the wall at the Turkish border with Syria in its final stage. Closed borders is very…
 image:
-  path: assets/169f3f3d75b5/1*U0EcrGRpI6WgkD-bSVGgig.jpeg
+  path: ../assets/169f3f3d75b5/1*U0EcrGRpI6WgkD-bSVGgig.jpeg
 ---
 
 ### AYS Daily Digest 7/8: Closed borders = money for smugglers
@@ -15,7 +15,7 @@ image:
 _Severe weather warning for Greece\. Construction of the wall at the Turkish border with Syria in its final stage\. Closed borders is very profitable business for smugglers\. Help needed in Greece and Calais\. Refugees are compering Oreocastro camp with cemetery\._
 
 
-![Photo by Refugees\.tv: Tents turned into tombs in a sign of protest\.](assets/169f3f3d75b5/1*U0EcrGRpI6WgkD-bSVGgig.jpeg)
+![Photo by Refugees\.tv: Tents turned into tombs in a sign of protest\.](../assets/169f3f3d75b5/1*U0EcrGRpI6WgkD-bSVGgig.jpeg)
 
 Photo by Refugees\.tv: Tents turned into tombs in a sign of protest\.
 ### Turkey
@@ -37,12 +37,12 @@ Volunteers from Lesvos informed us about 60 new arrivals yesterday, and 97 this 
 For those who are already in Greece, the life conditions are not improving\. People forced to live in Oreokastro camp turned their tents into protest\.
 
 
-![Photo by Refugees\.tv: This camp is compared to cemetery by its residents\.](assets/169f3f3d75b5/1*6pRmq-xnIIQFL0jCw5OtPA.jpeg)
+![Photo by Refugees\.tv: This camp is compared to cemetery by its residents\.](../assets/169f3f3d75b5/1*6pRmq-xnIIQFL0jCw5OtPA.jpeg)
 
 Photo by Refugees\.tv: This camp is compared to cemetery by its residents\.
 
 
-![](assets/169f3f3d75b5/1*P8JlavbdyyMFozl0NQrUxA.jpeg)
+![](../assets/169f3f3d75b5/1*P8JlavbdyyMFozl0NQrUxA.jpeg)
 
 
 Not long ago, Refugees\.tv [posted a story \(only in Arabic\)](https://www.facebook.com/refugees.tv/videos/782930835182618/) from this camp about Ibrahim, a Syrian refugee who suffers from asthma, and has war wounds\. He claims that he did not get any help from organizations present in this camp\.
@@ -75,11 +75,11 @@ You can find [more info useful](http://refucomm.com/infopacks/greece-mainland/as
 Good news from new [camp Elpida](http://us13.campaign-archive1.com/?u=bd8ba251def3497140fd25bed&id=fb939501d8) \. First 121 residents arrived in the early hours of July 24th and right away they started building a place for themselves, together with volunteers\.
 
 
-![](assets/169f3f3d75b5/1*Z_FKaUVaWXjLCk99FBdocA.jpeg)
+![](../assets/169f3f3d75b5/1*Z_FKaUVaWXjLCk99FBdocA.jpeg)
 
 
 
-![Photo by Camp Elpida: Children are getting settle in this new camp run by refugees and volunteers together\.](assets/169f3f3d75b5/1*pHCzxRT9HjzlLj_5OnfJbw.jpeg)
+![Photo by Camp Elpida: Children are getting settle in this new camp run by refugees and volunteers together\.](../assets/169f3f3d75b5/1*pHCzxRT9HjzlLj_5OnfJbw.jpeg)
 
 Photo by Camp Elpida: Children are getting settle in this new camp run by refugees and volunteers together\.
 
@@ -104,7 +104,7 @@ Refugee families have their own rooms but work with volunteers to maintain commo
 A small and experienced team of volunteers opened up a kitchen near Kalachori camp where they are feeding hundreds of people daily\. They deliver food at various places in Thessaloniki, too\. [In order to continue doing this wonderful job, they need your help](https://www.generosity.com/volunteer-fundraising/helping-refugees-in-greece) \.
 
 
-![Photo by Koyzina team\. Cooking for refugees in Thessaloniki area\.](assets/169f3f3d75b5/1*AHXp88VlHGEGC8m--5yPGA.jpeg)
+![Photo by Koyzina team\. Cooking for refugees in Thessaloniki area\.](../assets/169f3f3d75b5/1*AHXp88VlHGEGC8m--5yPGA.jpeg)
 
 Photo by Koyzina team\. Cooking for refugees in Thessaloniki area\.
 
@@ -141,7 +141,7 @@ Photo by Koyzina team\. Cooking for refugees in Thessaloniki area\.
 
 
 
-![](assets/169f3f3d75b5/1*LgDAvwwEHf6B126mvDq6QQ.jpeg)
+![](../assets/169f3f3d75b5/1*LgDAvwwEHf6B126mvDq6QQ.jpeg)
 
 
 Volunteers and teachers volunteers are needed in [Early Learning Centre](https://www.facebook.com/LayhingSiu?hc_location=ufi) \. They say that you need to be fluent in English/ se habla Español también\. But the last is not required\.
@@ -164,7 +164,7 @@ If you want to apply, get in touch with them by
 [dental@healthpointfoundation\.org](mailto:dental@healthpointfoundation.org)
 
 
-![Photo Dental team: Dentists and nurses needed for this amazing project\.](assets/169f3f3d75b5/1*8Rt77Gar2Zz_Ls6u_ZPJCQ.jpeg)
+![Photo Dental team: Dentists and nurses needed for this amazing project\.](../assets/169f3f3d75b5/1*8Rt77Gar2Zz_Ls6u_ZPJCQ.jpeg)
 
 Photo Dental team: Dentists and nurses needed for this amazing project\.
 ### Bulgaria
@@ -186,11 +186,11 @@ Nevertheless, a number of people at the Balkan Rout is higher every day\. Tighte
 The local authority in Calais has called for the eviction of people living and working in 72 Calais jungle shops and restaurants\. Volunteers are launching the legal appeal and there will be a court case on Wednesday, August 10, in Lille\. [Residents and volunteers are gathering testimonies](https://www.facebook.com/RefugeeInfoBus/) about the shops and restaurant that they will deliver to the judge\. They argue that the place is needed for all the refugees and that it serves as community center, too\. If you ever volunteered with them, please get in touch with Refugee Info Bus\. You can help to save these community spaces\.
 
 
-![](assets/169f3f3d75b5/1*De9yYmePmPlbl9WvbTj_Tw.jpeg)
+![](../assets/169f3f3d75b5/1*De9yYmePmPlbl9WvbTj_Tw.jpeg)
 
 
 
-![Photo by Refugee Info Bus: Calais community center\.](assets/169f3f3d75b5/1*9hzrPsNMnOgbwzpzhtne-w.jpeg)
+![Photo by Refugee Info Bus: Calais community center\.](../assets/169f3f3d75b5/1*9hzrPsNMnOgbwzpzhtne-w.jpeg)
 
 Photo by Refugee Info Bus: Calais community center\.
 

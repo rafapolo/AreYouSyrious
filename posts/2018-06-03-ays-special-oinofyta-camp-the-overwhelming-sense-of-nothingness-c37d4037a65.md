@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL — Oinofyta Camp: The overwhelming sense of nothingness
+title: "AYS SPECIAL — Oinofyta Camp: The overwhelming sense of nothingness"
 author: Are You Syrious?
 date: 2018-06-03T09:47:56.049+0100
 last_modified_at: 2018-12-21T04:31:16.992+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,special,greece,camp-oinofyta,europe]
 description: Camp Oinofyta was closed in November 2017 because it didn’t meet the standards of the European Commission department in charge of…
 image:
-  path: assets/c37d4037a65/1*M7aQPMdUeq1qeE3gJsUI-A.jpeg
+  path: ../assets/c37d4037a65/1*M7aQPMdUeq1qeE3gJsUI-A.jpeg
 ---
 
 ### **AYS SPECIAL — Oinofyta Camp:** The overwhelming sense of nothingness
@@ -15,7 +15,7 @@ image:
 _Camp Oinofyta was closed in November 2017 because it didn’t meet the standards of the European Commission department in charge of humanitarian aid\. On March 26, Oinofyta was reopened to accommodate people who arrived to Greece recently, as well as vulnerable transfers from the islands\. AYS visited the camp in late May and spoke with residents who are saying that the place is worse than Moria\._
 
 
-![_Camp Oinofyta\. Photo by Samim Azimy\._](assets/c37d4037a65/1*M7aQPMdUeq1qeE3gJsUI-A.jpeg)
+![_Camp Oinofyta\. Photo by Samim Azimy\._](../assets/c37d4037a65/1*M7aQPMdUeq1qeE3gJsUI-A.jpeg)
 
 _Camp Oinofyta\. Photo by Samim Azimy\._
 
@@ -24,7 +24,7 @@ When we arrive, just before sunset, the army catering truck has pulled up to the
 Ibra, my translator, excuses himself to clamber into the truck and emerges moments later with his dinner: sliced and boiled potatoes with “essence of chicken” sprinkled over them, all in a container barely bigger than his palm\. He holds it up for me to inspect: “I have been eating this since 13 December 2016\.”
 
 
-![“Do you want to eat this?” Photo by AYS](assets/c37d4037a65/1*RIKIEBlHtOk8a_RWvyuN6Q.jpeg)
+![“Do you want to eat this?” Photo by AYS](../assets/c37d4037a65/1*RIKIEBlHtOk8a_RWvyuN6Q.jpeg)
 
 “Do you want to eat this?” Photo by AYS
 
@@ -33,7 +33,7 @@ After a moment, a Greek man shows up, standing with a clipboard at a safe remove
 The light is the same as it is in Athens, golden and forgiving\. The whole scene is bizarrely calm, like how after the apocalypse is over and the dust has settled, the sun still rises in the morning and goes down at night\. As Ibra and I leave the distribution to walk into the gloom of Oinofyta’s interior, I turn around for a moment and see individual figures standing illuminated against the slope of the road out\. The sun setting on the last people on earth\.
 
 
-![Photo by Samim Azimy\.](assets/c37d4037a65/1*RSKxWSmxjOmmvVBakRo9lQ.jpeg)
+![Photo by Samim Azimy\.](../assets/c37d4037a65/1*RSKxWSmxjOmmvVBakRo9lQ.jpeg)
 
 Photo by Samim Azimy\.
 
@@ -42,7 +42,7 @@ Constructed inside a repossessed warehouse 58 kilometers to the north of Athens,
 When I visit on a Friday afternoon in late May, I meet elderly men and women, including one who needs a wheelchair; women traveling alone; people with serious, untreated medical and psychological issues; survivors of torture; pregnant women; children \(there are around 130 in the camp\); and one single father\. There are also a lot of single men \(108, according to Lisa\), a demographic group vulnerable in specific and underreported ways, and one that often mixes poorly with families and small children\.
 
 
-![The Do Your Part Community Center\. Photo by AYS](assets/c37d4037a65/1*hqAS-ss4-kyZC1KlmX0t7w.jpeg)
+![The Do Your Part Community Center\. Photo by AYS](../assets/c37d4037a65/1*hqAS-ss4-kyZC1KlmX0t7w.jpeg)
 
 The Do Your Part Community Center\. Photo by AYS
 
@@ -61,7 +61,7 @@ So who’s in charge here?
 Besides Lisa, a few employees of the International Organization for Migration \(IOM\) are the only westerners who come into the camp on a regular basis\. IOM has a supervisory role in the camp; they can’t officially register people as asylum seekers \(the Minister of Migration is responsible for that\), or directly register them for financial assistance \(the UNHCR’s domain\), or do much of anything, it seems, according to everyone I talk to\. \(As of June 3, IOM has not responded to a request for comment\) \. Their website needs updating; the only mention of Oinofyta dates from before the camp’s initial closure in November 2017\.
 
 
-![Photo by AYS](assets/c37d4037a65/1*RNTToRNmYoky_0GB0G4vSw.jpeg)
+![Photo by AYS](../assets/c37d4037a65/1*RNTToRNmYoky_0GB0G4vSw.jpeg)
 
 Photo by AYS
 
@@ -74,7 +74,7 @@ Oinofyta wasn’t always like this\. It was always isolated, and the accommodati
 “People wanted to come to Oinofyta,” Lisa tells me at the Do Your Part community center, about a 10\-minute drive from camp\. “It was never about the accommodation\.”
 
 
-![Do Your Part’s map of the old camp\. Photo by AYS\.](assets/c37d4037a65/1*z7sz8kO6u0suCW6u-T6hRQ.jpeg)
+![Do Your Part’s map of the old camp\. Photo by AYS\.](../assets/c37d4037a65/1*z7sz8kO6u0suCW6u-T6hRQ.jpeg)
 
 Do Your Part’s map of the old camp\. Photo by AYS\.
 
@@ -89,7 +89,7 @@ Now, as of March 26, Oinofyta is back open in order to meet the demand from Afri
 What modicum of self\-determination people had in the old Oinofyta has also been totally taken away\. **“** They treat us like animals,” says Roula, “Animals wouldn’t even eat the food they give us\.’
 
 
-![The “medical clinic\.” Photo by AYS](assets/c37d4037a65/1*gEAZSQl_fqcFO9h6FmNg7A.jpeg)
+![The “medical clinic\.” Photo by AYS](../assets/c37d4037a65/1*gEAZSQl_fqcFO9h6FmNg7A.jpeg)
 
 The “medical clinic\.” Photo by AYS
 
@@ -110,7 +110,7 @@ In response to the closure of Oinofyta, Lisa reopened the camp’s sewing center
 “I also can’t stand to try to go back when there’s nothing that existed before,” she adds, shaking her head\.
 
 
-![Photo by AYS\.](assets/c37d4037a65/1*MFPToby8Ttk0951j788vbQ.jpeg)
+![Photo by AYS\.](../assets/c37d4037a65/1*MFPToby8Ttk0951j788vbQ.jpeg)
 
 Photo by AYS\.
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Digest 14/12: Waiting for an evacuation
+title: "AYS Digest 14/12: Waiting for an evacuation"
 author: Are You Syrious?
 date: 2016-12-14T23:32:04.683+0000
 last_modified_at: 2016-12-15T12:31:50.383+0000
@@ -7,7 +7,7 @@ categories:
 tags: [syria,isis]
 description: Protests in solidarity with Aleppo planned today, tomorrow, this week. Unaccompanied minors go on partial hunger strike in France. Protests…
 image:
-  path: assets/f14095248f2f/0*GckyBsgD0QrVpJzx.
+  path: ../assets/f14095248f2f/0*GckyBsgD0QrVpJzx.
 ---
 
 ### AYS Digest 14/12: Waiting for an evacuation
@@ -15,7 +15,7 @@ image:
 _Protests in solidarity with Aleppo planned today, tomorrow, this week\. Unaccompanied minors go on partial hunger strike in France\. Protests against the deportation of Afghan asylum\-seekers in Germany\._
 
 
-![](assets/f14095248f2f/0*GckyBsgD0QrVpJzx.)
+![](../assets/f14095248f2f/0*GckyBsgD0QrVpJzx.)
 
 #### Syria
 ### Latest news from Aleppo
@@ -58,7 +58,7 @@ The Syrian American Medical Society says three of their medical personnel in Ale
 The UN stated yesterday that it had received reports of bodies in Aleppo “lying in the streets”, with residents unable to get them out because of the heavy bombardment\. As a result of the heavy shelling, residents of Aleppo have nowhere to sleep, while facing temperatures close to zero degrees at night\.
 
 
-![Image by [Abdulazez Dukhan](https://www.facebook.com/AbdulazezDukhan?fref=nf)](assets/f14095248f2f/0*j-lnQyrv_RRggHfo.)
+![Image by [Abdulazez Dukhan](https://www.facebook.com/AbdulazezDukhan?fref=nf)](../assets/f14095248f2f/0*j-lnQyrv_RRggHfo.)
 
 Image by [Abdulazez Dukhan](https://www.facebook.com/AbdulazezDukhan?fref=nf)
 ### Worldwide Solidarity
@@ -82,7 +82,7 @@ TO THE STREETS NOW!
 Yesterday, protests already took place in Istanbul, London, Stockholm, Brussels, Malmo, Gaziantep, Amman and Douma, amongst other cities
 
 
-![Protests in Douma, Syria\. Photo by Firas Abdullah](assets/f14095248f2f/0*YdS8jB1P__JHSLqe.)
+![Protests in Douma, Syria\. Photo by Firas Abdullah](../assets/f14095248f2f/0*YdS8jB1P__JHSLqe.)
 
 Protests in Douma, Syria\. Photo by Firas Abdullah
 
@@ -115,17 +115,17 @@ Salah Ashkar, a Syrian activist says “everyone in Aleppo city now is depending
 In Thessaloniki, residents from the Sindos, Softex & Oreokastro camps also came together to protest for family, friends and to stand in solidarity with the people of Aleppo and Syria\.
 
 
-![¨Photo by Eleanor Yankah](assets/f14095248f2f/0*tEEJ6qbQfMyxajbc.)
+![¨Photo by Eleanor Yankah](../assets/f14095248f2f/0*tEEJ6qbQfMyxajbc.)
 
 ¨Photo by Eleanor Yankah
 
 
-![¨Photo by Eleanor Yankah](assets/f14095248f2f/0*Wu3aKhu5nDUMNHhR.)
+![¨Photo by Eleanor Yankah](../assets/f14095248f2f/0*Wu3aKhu5nDUMNHhR.)
 
 ¨Photo by Eleanor Yankah
 
 
-![¨Photo by Eleanor Yankah](assets/f14095248f2f/0*uh6uOioVKGoG6J0Y.)
+![¨Photo by Eleanor Yankah](../assets/f14095248f2f/0*uh6uOioVKGoG6J0Y.)
 
 ¨Photo by Eleanor Yankah
 ### Many sites still “not fit for living in during winter”
@@ -135,7 +135,7 @@ In Lesvos, 48 new refugees were registered until this morning, while one boat wi
 In a [joint statement](http://www.ecre.org/joint-statement-eu-leaders-can-save-lives-in-winter-if-they-change-migration-policies/) ahead of the Thursday’s European Council, NGOs called on EU states to make changes so that the EU “ manages migration with respect to human rights and prevents unnecessary suffering”, saying living conditions “do not meet even the most basic standards of dignity or safety” while “many sites are not fit for living in during winter”\.
 
 
-![Image by Judith Sunderland](assets/f14095248f2f/0*KpyUL6wRQG99Xfi1.)
+![Image by Judith Sunderland](../assets/f14095248f2f/0*KpyUL6wRQG99Xfi1.)
 
 Image by Judith Sunderland
 
@@ -144,7 +144,7 @@ Samos, faces this harsh reality\. “ [No more borders, no more tears](https://w
 The real solution would be to relocate refugees to the mainland and to the rest of Europe, but this is unlikely to happen anytime soon\.
 
 
-![Photo by [No more borders, no more tears](https://www.facebook.com/No-more-borders-No-more-tears-1254181771265187/)](assets/f14095248f2f/0*tqy4wYV2f-ac5npE.)
+![Photo by [No more borders, no more tears](https://www.facebook.com/No-more-borders-No-more-tears-1254181771265187/)](../assets/f14095248f2f/0*tqy4wYV2f-ac5npE.)
 
 Photo by [No more borders, no more tears](https://www.facebook.com/No-more-borders-No-more-tears-1254181771265187/)
 ### More calls for help by volunteers and NGOs\.
@@ -184,7 +184,7 @@ The [New York Times](http://www.nytimes.com/2016/12/13/world/europe/italy-migran
 In Como, at the Swiss\-Italian border, 54 migrants were found in the streets yesterday night by freezing temperatures, including two minors\.
 
 
-![Image by [Como senza frontiere](https://www.facebook.com/comosenzafrontiere/)](assets/f14095248f2f/0*lX9j9vX1Bw1zCt-A.)
+![Image by [Como senza frontiere](https://www.facebook.com/comosenzafrontiere/)](../assets/f14095248f2f/0*lX9j9vX1Bw1zCt-A.)
 
 Image by [Como senza frontiere](https://www.facebook.com/comosenzafrontiere/)
 

@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 3/1/2017: Closed borders took three young lives this year
+title: "AYS DAILY DIGEST 3/1/2017: Closed borders took three young lives this year"
 author: Are You Syrious?
 date: 2017-01-03T21:38:49.059+0000
 last_modified_at: 2017-01-04T04:24:21.006+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,msf-sea,lesvos,como]
 description: 230 people rescued from the sea over the last 24 hours // Young Afghan man froze to death after trying to cross Evros river from Turkey to…
 image:
-  path: assets/f625edc6764f/1*r6RJMj_9smJQIYejx8aQuA.jpeg
+  path: ../assets/f625edc6764f/1*r6RJMj_9smJQIYejx8aQuA.jpeg
 ---
 
 ### AYS DAILY DIGEST 3/1/2017: Closed borders took three young lives this year
@@ -15,7 +15,7 @@ image:
 _230 people rescued from the sea over the last 24 hours // Young Afghan man froze to death after trying to cross Evros river from Turkey to Greece // Young woman froze to death while trying to cross from Turkey to Bulgaria // Young woman found dead in the center near Venice // Sweden to start performing a controversial medical age assessment for children asylum seekers_
 
 
-![The Samos camp foundstrumen creature is born, through the hands of children, adults, and the entire community\. A huge colorful and interactive addition made by many people who don’t speak the same language and come from different parts of the world\. Photo by [Artolutio](https://www.facebook.com/Artolution/?fref=nf) n\.](assets/f625edc6764f/1*r6RJMj_9smJQIYejx8aQuA.jpeg)
+![The Samos camp foundstrumen creature is born, through the hands of children, adults, and the entire community\. A huge colorful and interactive addition made by many people who don’t speak the same language and come from different parts of the world\. Photo by [Artolutio](https://www.facebook.com/Artolution/?fref=nf) n\.](../assets/f625edc6764f/1*r6RJMj_9smJQIYejx8aQuA.jpeg)
 
 The Samos camp foundstrumen creature is born, through the hands of children, adults, and the entire community\. A huge colorful and interactive addition made by many people who don’t speak the same language and come from different parts of the world\. Photo by [Artolutio](https://www.facebook.com/Artolution/?fref=nf) n\.
 #### Mediterranean
@@ -43,11 +43,11 @@ Over the last couple of months, this border crossing became very busy\. It is us
 However, people are still arriving to islands\. At Lesvos, two boats were rescued today with about 70 people, including many children\. 13 people were registered arriving at other islands\.
 
 
-![](assets/f625edc6764f/1*vnxKtVuZQ2FBf422sc_RZQ.jpeg)
+![](../assets/f625edc6764f/1*vnxKtVuZQ2FBf422sc_RZQ.jpeg)
 
 
 
-![Photo by [Refugee Rescue](https://www.facebook.com/RefugeeRescueUK/?ref=page_internal)](assets/f625edc6764f/1*sj2PofaFFMsJrsf5z247Ww.jpeg)
+![Photo by [Refugee Rescue](https://www.facebook.com/RefugeeRescueUK/?ref=page_internal)](../assets/f625edc6764f/1*sj2PofaFFMsJrsf5z247Ww.jpeg)
 
 Photo by [Refugee Rescue](https://www.facebook.com/RefugeeRescueUK/?ref=page_internal)
 
@@ -179,15 +179,15 @@ While the overwhelming majority of refugees on Chios are from Syria, there are a
 #### Safety manual for kerosene heaters
 
 
-![](assets/f625edc6764f/1*bHJIVwAVcTxnvcNKgioLuw.jpeg)
+![](../assets/f625edc6764f/1*bHJIVwAVcTxnvcNKgioLuw.jpeg)
 
 
 
-![](assets/f625edc6764f/1*nCQroNVVHLAzoFisnQm3oA.jpeg)
+![](../assets/f625edc6764f/1*nCQroNVVHLAzoFisnQm3oA.jpeg)
 
 
 
-![Immigrant and Refugee Support Athens](assets/f625edc6764f/1*TWp3cCCk4ktfkPMSjXop8Q.jpeg)
+![Immigrant and Refugee Support Athens](../assets/f625edc6764f/1*TWp3cCCk4ktfkPMSjXop8Q.jpeg)
 
 Immigrant and Refugee Support Athens
 #### Bulgaria
@@ -213,7 +213,7 @@ Centers in Italy are run by cooperatives based on government contracts, and so f
 In Como, more people are arriving daily, with a noticeable increase since December 25th, [WelCom — Osservatorio Migranti Como](https://www.facebook.com/osservatoriomigranticomo/?fref=nf) claims\. Many people are still forced to sleep outside\. Volunteers found 49 person sleeping in the street in the night between January 2 and 3rd\.
 
 
-![](assets/f625edc6764f/1*Dw0zis4SVTlUKoGkC0MG5Q.png)
+![](../assets/f625edc6764f/1*Dw0zis4SVTlUKoGkC0MG5Q.png)
 
 #### Spain
 ### \#Safepassage
@@ -221,7 +221,7 @@ In Como, more people are arriving daily, with a noticeable increase since Decemb
 A women from Morocco was arrested after they found a young man hiding in her suitcase\. He almost suffocated and doctor’s help was necessary to save him\. Woman will be charged for attempt to smuggle a person across the border into Spain’s North African enclave of Ceuta\.
 
 
-![](assets/f625edc6764f/1*NNc_eaWzzvc5jIfVGnX1pA.jpeg)
+![](../assets/f625edc6764f/1*NNc_eaWzzvc5jIfVGnX1pA.jpeg)
 
 #### Germany
 ### 420,000 asylum request processed

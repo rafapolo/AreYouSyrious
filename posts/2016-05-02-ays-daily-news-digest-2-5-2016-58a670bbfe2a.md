@@ -7,19 +7,19 @@ categories:
 tags: [refugees,europe,immigration]
 description: Even as the war is still raging in Iraq and Syria, the first trial over war crimes in Syria is to be held in Germany. All the while, the…
 image:
-  path: assets/58a670bbfe2a/1*2jTRz760WUuk9NfUguvVcA.jpeg
+  path: ../assets/58a670bbfe2a/1*2jTRz760WUuk9NfUguvVcA.jpeg
 ---
 
 ### [AYS DAILY NEWS DIGEST 2\.5\.2016\.](ays-news-digest-1-5-2016-72604bb84219)
 #### Even as the war is still raging in Iraq and Syria, the first trial over war crimes in Syria is to be held in Germany\. All the while, the number of refugees stranded in Greece continues to rise, with new recorded deaths on the coast of Italy\. Eurostat came out with new data on unaccompanied minors with an all time high number\. With no real solution in sight, European governments are still trying to prolong ID check\-ups on Schengen borders, and while they wait, France evicts 1600 refugees from the camp in the north of the country\. Calais teams asking for help\. There are also many more calls for help from solidarity teams in Greece\.
 
 
-![Storm destroys tents in Idomeni\. Photo credit: David Lohmueller](assets/58a670bbfe2a/1*2jTRz760WUuk9NfUguvVcA.jpeg)
+![Storm destroys tents in Idomeni\. Photo credit: David Lohmueller](../assets/58a670bbfe2a/1*2jTRz760WUuk9NfUguvVcA.jpeg)
 
 Storm destroys tents in Idomeni\. Photo credit: David Lohmueller
 
 
-![](assets/58a670bbfe2a/1*Dgxce9_SfbzFiDsumllPzg.jpeg)
+![](../assets/58a670bbfe2a/1*Dgxce9_SfbzFiDsumllPzg.jpeg)
 
 #### GENERAL
 ### 88,300 unaccompanied minors came to Europe last year
@@ -64,7 +64,7 @@ As we have already reported, bad weather conditions took their toll on \#Idomeni
 ### **Hotel Plaza, home to more than 220 people, is being run by a solidarity network of refugees and volunteers\. Volunteers are always needed\.**
 
 
-![Hotel Plaza Kitchen\. Photo credit: Moving Europe\.](assets/58a670bbfe2a/1*lSKn-BwY6_yligHxWaSKRw.jpeg)
+![Hotel Plaza Kitchen\. Photo credit: Moving Europe\.](../assets/58a670bbfe2a/1*lSKn-BwY6_yligHxWaSKRw.jpeg)
 
 Hotel Plaza Kitchen\. Photo credit: Moving Europe\.
 

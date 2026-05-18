@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 24/7/20: Six years in ‘inhuman’ detention and now finally free!
+title: "AYS Daily Digest 24/7/20: Six years in ‘inhuman’ detention and now finally free!"
 author: Are You Syrious?
 date: 2020-07-25T14:48:44.929+0100
 last_modified_at: 2020-07-25T14:48:44.929+0100
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: []
 description: Are You Syrious?
 image:
-  path: assets/586e883a54c9/0*kDcLza5ZBmdTI7j7.jpeg
+  path: ../assets/586e883a54c9/0*kDcLza5ZBmdTI7j7.jpeg
 ---
 
 ### AYS Daily Digest 24/7/20: Six years in ‘inhuman’ detention and now finally free\!
 
 
-![](assets/586e883a54c9/0*Zh4Lo3La9LyIVaJC.jpeg)
+![](../assets/586e883a54c9/0*Zh4Lo3La9LyIVaJC.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----38f61195350e----------------------)
@@ -23,11 +23,11 @@ image:
 Freedom for Behrouz Boochani // Death of an Eritrean asylum\-seeker in Tripoli // Lawsuit against Poland // British Home Office leaving asylum seekers homeless // Escape from quarantine in Italy
 
 
-![](assets/586e883a54c9/0*HSARZonczsOWPpXS)
+![](../assets/586e883a54c9/0*HSARZonczsOWPpXS)
 
 
 
-![](assets/586e883a54c9/0*kDcLza5ZBmdTI7j7.jpeg)
+![](../assets/586e883a54c9/0*kDcLza5ZBmdTI7j7.jpeg)
 
 
 “We have withdrawn all rescue ships because of technical defects\! Surely we cannot risk your safety by taking you on board\! \(Credit: [Klaus Stuttmann](https://www.stuttmann-karikaturen.de/?fbclid=IwAR1twPGuslrlj_PuxWgScX5_LNNEFJpCiqalffbswF_gTnU3NF00_9sa310) \)

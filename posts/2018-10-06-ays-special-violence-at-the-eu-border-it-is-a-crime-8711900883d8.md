@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Violence at the EU border: “It is a crime!”
+title: "AYS SPECIAL: Violence at the EU border: “It is a crime!”"
 author: Are You Syrious?
 date: 2018-10-06T17:36:57.024+0100
 last_modified_at: 2018-10-06T19:47:53.195+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [srebrenica,refugees,european-union,bosnia,croatia]
 description: Why violence at the EU borders remind of Srebrenica, and what role plays patriarchy in today’s Europe.
 image:
-  path: assets/8711900883d8/1*MkNcIQ3YZCYwK6YMPR6e4g.jpeg
+  path: ../assets/8711900883d8/1*MkNcIQ3YZCYwK6YMPR6e4g.jpeg
 ---
 
 ### AYS SPECIAL: Violence at the EU border: “It is a crime\!”
@@ -15,7 +15,7 @@ image:
 _Why violence at the EU borders remind of Srebrenica, and what role plays patriarchy in today’s Europe\._
 
 
-![Woman with 6 girls, her daughters, liver in this small tent in one of the make\-shift camps in Bosnia\. They tried to cross into Europe 4 times with no sucess\. Photo by AYS\.](assets/8711900883d8/1*MkNcIQ3YZCYwK6YMPR6e4g.jpeg)
+![Woman with 6 girls, her daughters, liver in this small tent in one of the make\-shift camps in Bosnia\. They tried to cross into Europe 4 times with no sucess\. Photo by AYS\.](../assets/8711900883d8/1*MkNcIQ3YZCYwK6YMPR6e4g.jpeg)
 
 Woman with 6 girls, her daughters, liver in this small tent in one of the make\-shift camps in Bosnia\. They tried to cross into Europe 4 times with no sucess\. Photo by AYS\.
 

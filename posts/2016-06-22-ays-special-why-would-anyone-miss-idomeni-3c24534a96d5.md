@@ -1,5 +1,5 @@
 ---
-title: AYS Special: Why would anyone miss Idomeni?
+title: "AYS Special: Why would anyone miss Idomeni?"
 author: Are You Syrious?
 date: 2016-06-22T14:18:51.702+0100
 last_modified_at: 2018-03-01T13:58:49.778+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [refugees,europe,idomeni,syria,special]
 description: Idomeni is a small village near the Greek — Macedonian border. Hardly anybody lives there, but the entire world knows about this place…
 image:
-  path: assets/3c24534a96d5/1*b_yIP1XOsasscuie8L0jNQ.jpeg
+  path: ../assets/3c24534a96d5/1*b_yIP1XOsasscuie8L0jNQ.jpeg
 ---
 
 ### AYS Special: Why would anyone miss Idomeni?
 
 
-![Empty train tracks near to a place where around 15,000 refugees were left stuck after the border closure\. Photo: Nidzara Ahmetasevic, AYS](assets/3c24534a96d5/1*b_yIP1XOsasscuie8L0jNQ.jpeg)
+![Empty train tracks near to a place where around 15,000 refugees were left stuck after the border closure\. Photo: Nidzara Ahmetasevic, AYS](../assets/3c24534a96d5/1*b_yIP1XOsasscuie8L0jNQ.jpeg)
 
 Empty train tracks near to a place where around 15,000 refugees were left stuck after the border closure\. Photo: Nidzara Ahmetasevic, AYS
 
@@ -22,7 +22,7 @@ Idomeni is a small village near the Greek — Macedonian border\. Hardly anybody
 Being not able to move further, without the possibility of going back home, they formed a provisional refugee camp\.
 
 
-![Small handprints are all that is left from hundreds of children in Idomeni\. Photo: Azra Ayyash, AYS](assets/3c24534a96d5/1*OP55-MlK0NKmEqpQ0rsV1g.jpeg)
+![Small handprints are all that is left from hundreds of children in Idomeni\. Photo: Azra Ayyash, AYS](../assets/3c24534a96d5/1*OP55-MlK0NKmEqpQ0rsV1g.jpeg)
 
 Small handprints are all that is left from hundreds of children in Idomeni\. Photo: Azra Ayyash, AYS
 
@@ -31,7 +31,7 @@ Small handprints are all that is left from hundreds of children in Idomeni\. Pho
 We went to Idomeni in mid\-June\. After entering the village, we passed by several white houses with closed shades and doors, seeing hardly any signs of life\. At the end of the village there is a huge empty space bordered from one side with endless fields, from the other with the railway tracks and barbed wire\. Close to the railway is a huge rusty metal board with the word ‘hope’ written on it with white paint\. People who were here hoped their lives could change when the borders open\. But the borders remained closed up to today\.
 
 
-![Little traces of what used to be an overcrowded, vivid camp full of families\. Photo: Nidzara Ahmetasevic, AYS](assets/3c24534a96d5/1*SuDHtfMIxOXMRficSXMqvw.jpeg)
+![Little traces of what used to be an overcrowded, vivid camp full of families\. Photo: Nidzara Ahmetasevic, AYS](../assets/3c24534a96d5/1*SuDHtfMIxOXMRficSXMqvw.jpeg)
 
 Little traces of what used to be an overcrowded, vivid camp full of families\. Photo: Nidzara Ahmetasevic, AYS
 
@@ -42,7 +42,7 @@ In Idomeni today there are only couple of Medicins Sans Frontiers containers tha
 “We lost many friends\. With some of them we are in touch, but for many of them we do not know where they are\. And some were the best people I ever met,” one of them told us\. “There, in the front of you, was Camp one, there was Camp two and there Camp three\. People were literally sleeping and living everywhere around\. And it was hard, but for sure better than in any of newly established camps\.”
 
 
-![Idomeni is also the place where international community failed\. Photo: Nidzara Ahmetasevic, AYS](assets/3c24534a96d5/1*ThwJIRlp5X74luTUV3Ld6w.jpeg)
+![Idomeni is also the place where international community failed\. Photo: Nidzara Ahmetasevic, AYS](../assets/3c24534a96d5/1*ThwJIRlp5X74luTUV3Ld6w.jpeg)
 
 Idomeni is also the place where international community failed\. Photo: Nidzara Ahmetasevic, AYS
 
@@ -51,7 +51,7 @@ As many volunteers explained to us, the difference was that people were free to 
 Most of the people from Idomeni were taken to government\-run camps, and hardly anybody believes it is a good solution\. Conditions in these camps are almost unbearable\. The big problem, as we were told, is that many people who were together in Idomeni, or other independent camps, became close over the time together and now they are ripped apart, living far away from each other, with limited possibility to move around\. They lost an uncountable amount in countries where they are running from, and then they were again forced to leave people they became attached to\. Government\-run camps are often closed for volunteers or media, guarded by police and army, and the atmosphere inside us rather despair than hope\.
 
 
-![Graffiti in one of abandoned facilities that served ad makeshift refugee camps\. Photo: Azra Ayyash, AYS](assets/3c24534a96d5/1*USTpUC5JhJcKzzwXH0ToNw.jpeg)
+![Graffiti in one of abandoned facilities that served ad makeshift refugee camps\. Photo: Azra Ayyash, AYS](../assets/3c24534a96d5/1*USTpUC5JhJcKzzwXH0ToNw.jpeg)
 
 Graffiti in one of abandoned facilities that served ad makeshift refugee camps\. Photo: Azra Ayyash, AYS
 
@@ -60,7 +60,7 @@ Like Idomeni, the EKO station, gas station nearby, was an independent camp until
 Hara hotel is near by\. Volunteers are saying it was one of the best\-organized places\. Today there is no trace of that life here\. Across the road is BP station\. You can still see graffiti, names engraved on wooden benches, some blankets, somebodies shoes, baby carriers…Small gas station is open after three months\. “It was hard for us but harder fir them\. We miss them\. Some of them were very good people\. Some not\. But we are all just humans,” the owner told us\. “But this was not good place for people to live here\. Camps are also not good\. And this is all Europe’s fault\. If they want, they can resolve this situation easy\.”
 
 
-![Traces of families that have left their temporary homes in a hurry\. Photo: Nidzara ahmetasevic, AYS](assets/3c24534a96d5/1*ijbl5Smq5vKWQert1MoxjQ.jpeg)
+![Traces of families that have left their temporary homes in a hurry\. Photo: Nidzara ahmetasevic, AYS](../assets/3c24534a96d5/1*ijbl5Smq5vKWQert1MoxjQ.jpeg)
 
 Traces of families that have left their temporary homes in a hurry\. Photo: Nidzara ahmetasevic, AYS
 

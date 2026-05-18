@@ -1,5 +1,5 @@
 ---
-title: DAILY DIGEST 16/03/2018: 14 lifeless bodies recovered from the sea
+title: "DAILY DIGEST 16/03/2018: 14 lifeless bodies recovered from the sea"
 author: Are You Syrious?
 date: 2018-03-17T11:40:57.742+0000
 last_modified_at: 2018-03-17T19:11:51.630+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,bosnia,digest,greece,shipwrecks]
 description: The situation in Bosnia is getting out of control // Another shipwreck near Greece / 14 lifeless bodies, including 4 children, recovered…
 image:
-  path: assets/d4ec43d2da58/1*YYMBWsljYTMYVYsovDnMzA.jpeg
+  path: ../assets/d4ec43d2da58/1*YYMBWsljYTMYVYsovDnMzA.jpeg
 ---
 
 ### DAILY DIGEST 16/03/2018: 14 lifeless bodies recovered from the sea
@@ -15,7 +15,7 @@ image:
 _The situation in Bosnia is getting out of control // Another shipwreck near Greece / 14 lifeless bodies, including 4 children, recovered from the sea // Protests against EU — Turkey deal all over Europe // Concentration camp for refugees in Bulgaria // Asylum seekers in the UK do not feel safe in provided accommodation_
 
 
-![People are still forced to move through Europe in this way, only to reach the palce where they will be safe\. Photo by @Fotomovimento15M](assets/d4ec43d2da58/1*YYMBWsljYTMYVYsovDnMzA.jpeg)
+![People are still forced to move through Europe in this way, only to reach the palce where they will be safe\. Photo by @Fotomovimento15M](../assets/d4ec43d2da58/1*YYMBWsljYTMYVYsovDnMzA.jpeg)
 
 People are still forced to move through Europe in this way, only to reach the palce where they will be safe\. Photo by @Fotomovimento15M
 ### Feature
@@ -33,11 +33,11 @@ There are many people who belong to so\-called vulnerable categories, including 
 In Sarajevo, the group of local and international volunteers opened a safe house for about 50 people\. They will need all types of help in order to keep this place running, from volunteers who would be willing to stay in the house, to those who could help with day to day activities, but also help in order to be able to provide food and basics for all the people\.
 
 
-![](assets/d4ec43d2da58/1*lrInf05D8KSceKhmu_Sc0A.jpeg)
+![](../assets/d4ec43d2da58/1*lrInf05D8KSceKhmu_Sc0A.jpeg)
 
 
 
-![Newly established center for vulnerable people on the move in Sarajevo\. Photo by AYS\.](assets/d4ec43d2da58/1*cT_Tq1fojPkNPUVa3czqIw.jpeg)
+![Newly established center for vulnerable people on the move in Sarajevo\. Photo by AYS\.](../assets/d4ec43d2da58/1*cT_Tq1fojPkNPUVa3czqIw.jpeg)
 
 Newly established center for vulnerable people on the move in Sarajevo\. Photo by AYS\.
 
@@ -68,7 +68,7 @@ The situation in Afrin area is getting worse, while thousands of civilians are b
 No good news from Ghouta where from more than 11\.000 people left so far and more are ready to leave\.
 
 
-![Photo Syria Civil Defence](assets/d4ec43d2da58/1*PdVA0BcFM932LdTbGus1vA.jpeg)
+![Photo Syria Civil Defence](../assets/d4ec43d2da58/1*PdVA0BcFM932LdTbGus1vA.jpeg)
 
 Photo Syria Civil Defence
 ### Sea
@@ -78,7 +78,7 @@ The dramatic day in the sea\. After saving 218 people from a shipwreck, Pro Acti
 Among those rescued were children, women and men\.
 
 
-![Photo ProActiva Open Arms](assets/d4ec43d2da58/1*vLw31bgOfMorZCUr5T2hpg.jpeg)
+![Photo ProActiva Open Arms](../assets/d4ec43d2da58/1*vLw31bgOfMorZCUr5T2hpg.jpeg)
 
 Photo ProActiva Open Arms
 
@@ -130,7 +130,7 @@ A huge search and rescue operation is ongoing\.
 Last night, more people arrived on Lesvos, Samos, Agathonisi, and Chios\.
 
 
-![Photo from Chios by Hugo Clair](assets/d4ec43d2da58/1*PM4tsb73tk8D7iKSSWXKzg.jpeg)
+![Photo from Chios by Hugo Clair](../assets/d4ec43d2da58/1*PM4tsb73tk8D7iKSSWXKzg.jpeg)
 
 Photo from Chios by Hugo Clair
 
@@ -143,7 +143,7 @@ If you can help, get in touch with [Oasis solidarity group](https://www.facebook
 On Samos, approximately 50 Kurdish people protested against the Turkish invasion of Afrin, and Erdogan’s continued arrests and crackdown on Kurds in Turkey\.
 
 
-![Photo by AYS](assets/d4ec43d2da58/1*E-qZoHCGM_qiKZWAhkNBFA.jpeg)
+![Photo by AYS](../assets/d4ec43d2da58/1*E-qZoHCGM_qiKZWAhkNBFA.jpeg)
 
 Photo by AYS
 

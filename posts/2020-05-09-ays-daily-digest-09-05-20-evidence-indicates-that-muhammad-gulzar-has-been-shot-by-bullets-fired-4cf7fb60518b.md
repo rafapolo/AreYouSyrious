@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 08/05/20: Evidence indicates that Muhammad Gulzar has been shot by bullets fired…
+title: "AYS Daily Digest 08/05/20: Evidence indicates that Muhammad Gulzar has been shot by bullets fired…"
 author: Are You Syrious?
 date: 2020-05-09T14:04:17.742+0100
 last_modified_at: 2020-05-11T12:02:28.493+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,europe,refugees,greece,sea]
 description: Forensic architectures new analysis on killing in the Evros Border region // No access to health care for syrian refugees in Jordan border…
 image:
-  path: assets/4cf7fb60518b/1*IyYeEes2Hp_ZyHr7naGtlw.jpeg
+  path: ../assets/4cf7fb60518b/1*IyYeEes2Hp_ZyHr7naGtlw.jpeg
 ---
 
 ### AYS Daily Digest 08/05/20: Evidence indicates that Muhammad Gulzar has been shot by bullets fired from the Greek side of the border
 #### Forensic architecture’s new analysis on killing in the Evros Border region // No access to health care for Syrian refugees in Jordan border region // Libya in times of civil war, corona pandemic and human rights violations // Updates from Moria // Safe port found for people saved by merchant vessel
 
 
-![Turkish\-Greek border, where Muhammad Gulzar has been shot, at the beginning of March\. Copyrights: Ruhi Loren Akhtar](assets/4cf7fb60518b/1*IyYeEes2Hp_ZyHr7naGtlw.jpeg)
+![Turkish\-Greek border, where Muhammad Gulzar has been shot, at the beginning of March\. Copyrights: Ruhi Loren Akhtar](../assets/4cf7fb60518b/1*IyYeEes2Hp_ZyHr7naGtlw.jpeg)
 
 Turkish\-Greek border, where Muhammad Gulzar has been shot, at the beginning of March\. Copyrights: Ruhi Loren Akhtar
 ### FEATURE: The Killing of Muhammad Gulzar
@@ -154,7 +154,7 @@ The fact that the people in the camp are basically left alone with the garbage a
 This video gives an insight into people’s life in Moria and the fight for joy and some kind of normality\.
 
 
-[![The Kitemaker of Moria](assets/4cf7fb60518b/31eb_hqdefault.jpg "The Kitemaker of Moria")](https://www.youtube.com/watch?v=xFMMPJgSt08)
+[![The Kitemaker of Moria](../assets/4cf7fb60518b/31eb_hqdefault.jpg "The Kitemaker of Moria")](https://www.youtube.com/watch?v=xFMMPJgSt08)
 
 
 A new piece of work by the Afghan journalist Mortaza Behboudi has been published by the French\-German TV channel Arte\. Behboudi is in Moria as a correspondent\. His newest video is on the situation of women in the camp\.

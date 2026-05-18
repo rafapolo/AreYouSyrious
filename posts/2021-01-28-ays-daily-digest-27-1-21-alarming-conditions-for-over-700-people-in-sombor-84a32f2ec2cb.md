@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 27/1/21: Alarming conditions for over 700 people in Sombor
+title: "AYS Daily Digest 27/1/21: Alarming conditions for over 700 people in Sombor"
 author: Are You Syrious?
 date: 2021-01-28T19:01:09.651+0000
 last_modified_at: 2021-01-28T22:20:42.406+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,france,serbia,refugees,europe]
 description: Another example of poorly run official camps putting people in more danger / ASGI demanding investigation into the use of public funds in…
 image:
-  path: assets/84a32f2ec2cb/0*aWPQpRsBb2ZPlbNX
+  path: ../assets/84a32f2ec2cb/0*aWPQpRsBb2ZPlbNX
 ---
 
 ### AYS Daily Digest 27/1/21: Alarming conditions for over 700 people in Sombor
 #### Another example of poorly run official camps putting people in greater danger / ASGI demanding investigation into the use of public funds in detention centres in Libya / French collective actions as example of a concrete response to bad politics / recommended reads & podcast, and more
 
 
-![Official camp in Sombor, Serbia \(Photo: [@APC\_CZA](https://twitter.com/APC_CZA) \)](assets/84a32f2ec2cb/0*aWPQpRsBb2ZPlbNX)
+![Official camp in Sombor, Serbia \(Photo: [@APC\_CZA](https://twitter.com/APC_CZA) \)](../assets/84a32f2ec2cb/0*aWPQpRsBb2ZPlbNX)
 
 Official camp in Sombor, Serbia \(Photo: [@APC\_CZA](https://twitter.com/APC_CZA) \)
 #### FEATURED
@@ -181,11 +181,11 @@ Mililtary camps providing the “international minimum” are not examples of go
 Make it happen whenever and wherever you can\!
 
 
-![](assets/84a32f2ec2cb/0*UNlFK9DprZcps6tC)
+![](../assets/84a32f2ec2cb/0*UNlFK9DprZcps6tC)
 
 
 
-![[D’ailleurs nous sommes d’ici 67](https://www.facebook.com/DNSI67/?__cft__[0]=AZWNrcR3YORY8_wdBRgtsrU65vEpo6t04JhbAhJwydxRgKU4V9lKkvIoLP3unwY9drdl0TIuE2QWavnDGKv26g_s3q3_y9G-vNNYtZDe0UJhGD40T8xWKLF6Pt_nXaTvkHOlXIPLnym6z5Tk0fMr8h0E&__tn__=-UC*F) has organised a gathering in Strasbourg in an action in support of the non\-documented people and people on the move who are in a pat position in the countries of the EU\. Visit their page for more info on similar actions \(Photos: [D’ailleurs nous sommes d’ici 67](https://www.facebook.com/DNSI67/?__cft__[0]=AZWNrcR3YORY8_wdBRgtsrU65vEpo6t04JhbAhJwydxRgKU4V9lKkvIoLP3unwY9drdl0TIuE2QWavnDGKv26g_s3q3_y9G-vNNYtZDe0UJhGD40T8xWKLF6Pt_nXaTvkHOlXIPLnym6z5Tk0fMr8h0E&__tn__=-UC*F) \)](assets/84a32f2ec2cb/0*ed8tYINDFzQ8pAvT)
+![[D’ailleurs nous sommes d’ici 67](https://www.facebook.com/DNSI67/?__cft__[0]=AZWNrcR3YORY8_wdBRgtsrU65vEpo6t04JhbAhJwydxRgKU4V9lKkvIoLP3unwY9drdl0TIuE2QWavnDGKv26g_s3q3_y9G-vNNYtZDe0UJhGD40T8xWKLF6Pt_nXaTvkHOlXIPLnym6z5Tk0fMr8h0E&__tn__=-UC*F) has organised a gathering in Strasbourg in an action in support of the non\-documented people and people on the move who are in a pat position in the countries of the EU\. Visit their page for more info on similar actions \(Photos: [D’ailleurs nous sommes d’ici 67](https://www.facebook.com/DNSI67/?__cft__[0]=AZWNrcR3YORY8_wdBRgtsrU65vEpo6t04JhbAhJwydxRgKU4V9lKkvIoLP3unwY9drdl0TIuE2QWavnDGKv26g_s3q3_y9G-vNNYtZDe0UJhGD40T8xWKLF6Pt_nXaTvkHOlXIPLnym6z5Tk0fMr8h0E&__tn__=-UC*F) \)](../assets/84a32f2ec2cb/0*ed8tYINDFzQ8pAvT)
 
 [D’ailleurs nous sommes d’ici 67](https://www.facebook.com/DNSI67/?__cft__[0]=AZWNrcR3YORY8_wdBRgtsrU65vEpo6t04JhbAhJwydxRgKU4V9lKkvIoLP3unwY9drdl0TIuE2QWavnDGKv26g_s3q3_y9G-vNNYtZDe0UJhGD40T8xWKLF6Pt_nXaTvkHOlXIPLnym6z5Tk0fMr8h0E&__tn__=-UC*F) has organised a gathering in Strasbourg in an action in support of the non\-documented people and people on the move who are in a pat position in the countries of the EU\. Visit their page for more info on similar actions \(Photos: [D’ailleurs nous sommes d’ici 67](https://www.facebook.com/DNSI67/?__cft__[0]=AZWNrcR3YORY8_wdBRgtsrU65vEpo6t04JhbAhJwydxRgKU4V9lKkvIoLP3unwY9drdl0TIuE2QWavnDGKv26g_s3q3_y9G-vNNYtZDe0UJhGD40T8xWKLF6Pt_nXaTvkHOlXIPLnym6z5Tk0fMr8h0E&__tn__=-UC*F) \)
 #### GENERAL

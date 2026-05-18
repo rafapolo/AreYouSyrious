@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 19/05/2018: New statistics of Greek Asylum Service report extremely low number of…
+title: "AYS DAILY DIGEST 19/05/2018: New statistics of Greek Asylum Service report extremely low number of…"
 author: Are You Syrious?
 date: 2018-05-20T08:50:35.038+0100
 last_modified_at: 2018-05-20T17:54:40.127+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,statistics,greece,bosnia-and-herzegovina]
 description: New data published by GAS for the period 2013–2018//Arrivals in Chios//New data published by UNHCR in regards to the increased number of…
 image:
-  path: assets/4f53a55b0cf2/1*za23Q6IsHHFezK9md57ugQ.jpeg
+  path: ../assets/4f53a55b0cf2/1*za23Q6IsHHFezK9md57ugQ.jpeg
 ---
 
 ### AYS DAILY DIGEST 19/05/2018: New statistics of Greek Asylum Service report extremely low number of unaccompanied minors granted protection
@@ -15,7 +15,7 @@ image:
 _New data published by GAS for the period 2013–2018//Arrivals in Chios//New data published by UNHCR in regards to the increased number of arrivals in BiH and issues with asylum applications//Deportation from Austria to take place on Wednesday//Protest in Switzerland against deportation plan//Another death on the French\-Italian border//More news from Belgium\. \._
 
 
-![Credit: Salvamento Marítimo Humanitario](assets/4f53a55b0cf2/1*za23Q6IsHHFezK9md57ugQ.jpeg)
+![Credit: Salvamento Marítimo Humanitario](../assets/4f53a55b0cf2/1*za23Q6IsHHFezK9md57ugQ.jpeg)
 
 Credit: Salvamento Marítimo Humanitario
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 05/11/17: 26 women found dead aboard a vessel upon arrival in Italy
+title: "AYS Daily Digest 05/11/17: 26 women found dead aboard a vessel upon arrival in Italy"
 author: Are You Syrious?
 date: 2017-11-06T02:20:58.136+0000
 last_modified_at: 2017-11-06T15:44:35.770+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,italy,greece,europe,volunteering]
 description: The Spanish ship Cantabria helped bring to shore more than 400 refugees who were on a vessel heading to Cantabria. Among them were the…
 image:
-  path: assets/9189ba55cb8f/1*QO-yGWUgOFR-jKhgTp8Sig.png
+  path: ../assets/9189ba55cb8f/1*QO-yGWUgOFR-jKhgTp8Sig.png
 ---
 
 ### AYS Daily Digest 05/11/17: 26 women found dead aboard a vessel upon arrival in Italy
@@ -27,7 +27,7 @@ The Spanish ship Cantabria helped bring to shore more than 400 refugees who were
 The autopsy will reveal the cause of death and if they have been subject to violence\.
 
 
-![A SAR mission, Photo: [**Sea\-Watch**](https://www.facebook.com/seawatchprojekt/)](assets/9189ba55cb8f/1*QO-yGWUgOFR-jKhgTp8Sig.png)
+![A SAR mission, Photo: [**Sea\-Watch**](https://www.facebook.com/seawatchprojekt/)](../assets/9189ba55cb8f/1*QO-yGWUgOFR-jKhgTp8Sig.png)
 
 A SAR mission, Photo: [**Sea\-Watch**](https://www.facebook.com/seawatchprojekt/)
 #### SYRIA
@@ -51,14 +51,14 @@ Friday afternoon while travelling in a fishing boat south of the Dardanelles in 
 Sappho square: it is day 18 of the protest, and day 10 of the hunger strike for men and the 5th day of the hunger strike for the women who recently joined, among whom there are minors\. There has been no response from authorities on the island as of yet\.
 
 
-![Photo: [**Arash Hampay**](https://www.facebook.com/arashampay)](assets/9189ba55cb8f/1*m_arS8lwhVaXtHHjjSD9rg.jpeg)
+![Photo: [**Arash Hampay**](https://www.facebook.com/arashampay)](../assets/9189ba55cb8f/1*m_arS8lwhVaXtHHjjSD9rg.jpeg)
 
 Photo: [**Arash Hampay**](https://www.facebook.com/arashampay)
 
 Today, some of the protestors needed medical attention again\.
 
 
-![Photo: [Ruhi Loren](https://www.facebook.com/ruhi.akhtar.7)](assets/9189ba55cb8f/1*zujz_i1BY9ffiKnr90Pxtw.jpeg)
+![Photo: [Ruhi Loren](https://www.facebook.com/ruhi.akhtar.7)](../assets/9189ba55cb8f/1*zujz_i1BY9ffiKnr90Pxtw.jpeg)
 
 Photo: [Ruhi Loren](https://www.facebook.com/ruhi.akhtar.7)
 
@@ -70,11 +70,11 @@ Starting from last Monday and until they run out of stock, sleeping bags, blanke
 The teams of Docmobile are already preparing for hard winter weeks\. The nights are already extremely cold for this season\. Currently, they are especially looking after Patras, but are also maintaining their work in the Thessaloniki area\.
 
 
-![](assets/9189ba55cb8f/1*600MHmh9-xuKh74EGsMZiQ.jpeg)
+![](../assets/9189ba55cb8f/1*600MHmh9-xuKh74EGsMZiQ.jpeg)
 
 
 
-![Photos: [**DocMobile — Medical Help e\.V\.**](https://www.facebook.com/docmobile.org/)](assets/9189ba55cb8f/1*vcn5EMonEgKn5wbjeVZsyw.jpeg)
+![Photos: [**DocMobile — Medical Help e\.V\.**](https://www.facebook.com/docmobile.org/)](../assets/9189ba55cb8f/1*vcn5EMonEgKn5wbjeVZsyw.jpeg)
 
 Photos: [**DocMobile — Medical Help e\.V\.**](https://www.facebook.com/docmobile.org/)
 ### Athens
@@ -91,7 +91,7 @@ The struggle of the 7 women and 7 men on hunger strike goes on despite the cold 
 A protest will be held on Wednesday, November 8 at noon\.
 
 
-![](assets/9189ba55cb8f/1*39ccEME4Q7SRbsI_vVUtmg.jpeg)
+![](../assets/9189ba55cb8f/1*39ccEME4Q7SRbsI_vVUtmg.jpeg)
 
 
 Event — Athens: 
@@ -105,7 +105,7 @@ Learn more:
 [Απεργία Πείνας Προσφύγων/Hunger Strike: “Reunite us with our families now”](https://www.facebook.com/hungerstrike4familyreunification/?fref=mentions)
 
 
-![Photo: **[NoBorders](https://www.facebook.com/nobordersnetwork/?hc_ref=ARQqFy7PIQb4Tn7-JVZ5fNgoZpyRCPHnIs8PiNkI1FE9paJPJEPsrqqof-1eqFiBqW0)**](assets/9189ba55cb8f/1*IBJ9Lz9Vzin-6QSZyIsMCQ.jpeg)
+![Photo: **[NoBorders](https://www.facebook.com/nobordersnetwork/?hc_ref=ARQqFy7PIQb4Tn7-JVZ5fNgoZpyRCPHnIs8PiNkI1FE9paJPJEPsrqqof-1eqFiBqW0)**](../assets/9189ba55cb8f/1*IBJ9Lz9Vzin-6QSZyIsMCQ.jpeg)
 
 Photo: **[NoBorders](https://www.facebook.com/nobordersnetwork/?hc_ref=ARQqFy7PIQb4Tn7-JVZ5fNgoZpyRCPHnIs8PiNkI1FE9paJPJEPsrqqof-1eqFiBqW0)**
 #### A large tent is needed for educational and social activities in Lavrio camp\.
@@ -117,7 +117,7 @@ All the containers are too small for activities for a big number of people & als
 People are constrained to their small containers and can’t even interact with each other leading to increasing isolation which was already a problem as Lavrio 2 is so far away from Athens with poor transportation\. We all know what the effects of low morale can be on people already effected by war and conflict in their home countries and on a journey for refuge\.”
 
 
-![Photo: [Ruhi Loren](https://www.facebook.com/ruhi.akhtar.7)](assets/9189ba55cb8f/1*nvSN2zrFJx7hrDgwVGofjg.jpeg)
+![Photo: [Ruhi Loren](https://www.facebook.com/ruhi.akhtar.7)](../assets/9189ba55cb8f/1*nvSN2zrFJx7hrDgwVGofjg.jpeg)
 
 Photo: [Ruhi Loren](https://www.facebook.com/ruhi.akhtar.7)
 ### Volunteering
@@ -125,7 +125,7 @@ Photo: [Ruhi Loren](https://www.facebook.com/ruhi.akhtar.7)
 [Northern Greece Volunteers](https://www.facebook.com/northerngreecevolunteers/?hc_ref=ARSQon9KOnnSQywYnxQvKVqAY8y5rLQb7aR46rs55mlQ83CXUfn_35Jv7cQmev-fQQo&fref=nf) need all kinds of VOLUNTEERS — teachers, doctors, translators & more\. Visit our website to find out more — [https://goo\.gl/J9S12u](https://goo.gl/J9S12u)
 
 
-![](assets/9189ba55cb8f/1*1e4WJC49UZ73LHcWb9LY-w.jpeg)
+![](../assets/9189ba55cb8f/1*1e4WJC49UZ73LHcWb9LY-w.jpeg)
 
 #### Volunteers are welcome to join the team at the Elliniko warehouse
 
@@ -178,7 +178,7 @@ Last morning in Taranto, 324 people of several nationalities [arrived](https://l
 “The increased police presence in Dunkirk has brought with it much anxiety, uncertainty and even a restriction of certain key items\. Ourselves and other organisations such as [Dunkirk / Dunkerque Refugee Women’s Centre](https://www.facebook.com/refugeewomenscentre/?fref=mentions) and [Care4calais](https://www.facebook.com/pages/Care4calais/1726727180917033?fref=mentions) have been refused entry to the camp now on various occasions with necessities such as blankets, tarpaulins and even our generator,” [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?hc_ref=ARQ6jNB1vMrnL61ai4tf0yDRv05DJ91jGJhgAvcm7HKVIZVNIAmsoo-7wj4c5vgmxBI&fref=nf) team reports\.
 
 
-![“There are over 700 refugees in Calais now, and they all need warm coats, waterproof shoes, sleeping bags, shelter from the rain and so much more\. We don’t have anywhere near enough\. And it’s days like this, when it rains and the temperature drops that you really feel it\. There is nothing worse than saying “next time” and not knowing when that will be\. The media attention may have gone, but please don’t forget the refugees in Calais\. They need winter clothes and shoes, sleeping bags and tents\. Dry socks, hats and gloves\.” — [**Care4Calais**](https://www.facebook.com/care4calais/)](assets/9189ba55cb8f/1*8czLyGhxx6TcGHoTJx4yvA.jpeg)
+![“There are over 700 refugees in Calais now, and they all need warm coats, waterproof shoes, sleeping bags, shelter from the rain and so much more\. We don’t have anywhere near enough\. And it’s days like this, when it rains and the temperature drops that you really feel it\. There is nothing worse than saying “next time” and not knowing when that will be\. The media attention may have gone, but please don’t forget the refugees in Calais\. They need winter clothes and shoes, sleeping bags and tents\. Dry socks, hats and gloves\.” — [**Care4Calais**](https://www.facebook.com/care4calais/)](../assets/9189ba55cb8f/1*8czLyGhxx6TcGHoTJx4yvA.jpeg)
 
 “There are over 700 refugees in Calais now, and they all need warm coats, waterproof shoes, sleeping bags, shelter from the rain and so much more\. We don’t have anywhere near enough\. And it’s days like this, when it rains and the temperature drops that you really feel it\. There is nothing worse than saying “next time” and not knowing when that will be\. The media attention may have gone, but please don’t forget the refugees in Calais\. They need winter clothes and shoes, sleeping bags and tents\. Dry socks, hats and gloves\.” — [**Care4Calais**](https://www.facebook.com/care4calais/)
 

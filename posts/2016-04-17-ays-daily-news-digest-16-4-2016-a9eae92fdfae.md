@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,immigration]
 description: Today, the body of a girl believed to be a 3-year-old Syrian refugee was found in a fisherman’s net in Turkey. Pope Francis visited Lesvos…
 image:
-  path: assets/a9eae92fdfae/1*4F8faP7gDkVyS5GqrKgeEw.jpeg
+  path: ../assets/a9eae92fdfae/1*4F8faP7gDkVyS5GqrKgeEw.jpeg
 ---
 
 ### AYS DAILY NEWS DIGEST 16\.4\.2016
@@ -105,7 +105,7 @@ image:
 
 
 
-![Photo: Let’s Help Refugees in Europe — Syrian refugees reaction when they have heard a jet flying over Idomeni as part of a Greek military exercise\.](assets/a9eae92fdfae/1*4F8faP7gDkVyS5GqrKgeEw.jpeg)
+![Photo: Let’s Help Refugees in Europe — Syrian refugees reaction when they have heard a jet flying over Idomeni as part of a Greek military exercise\.](../assets/a9eae92fdfae/1*4F8faP7gDkVyS5GqrKgeEw.jpeg)
 
 Photo: Let’s Help Refugees in Europe — Syrian refugees reaction when they have heard a jet flying over Idomeni as part of a Greek military exercise\.
 ### Idomeni military exercises shock refugees into returning to Piraeus Port\. Security at the port has increased, and pharmacy translators are needed\.
@@ -127,7 +127,7 @@ Photo: Let’s Help Refugees in Europe — Syrian refugees reaction when they ha
 
 
 
-![Meet Rahaf, the refugee hamster living in the flower beds in on of the gates at Piraeus\. Photographer: Erica Schroeder](assets/a9eae92fdfae/1*WNV-9HdWBXutE5m9R3P9Bw.jpeg)
+![Meet Rahaf, the refugee hamster living in the flower beds in on of the gates at Piraeus\. Photographer: Erica Schroeder](../assets/a9eae92fdfae/1*WNV-9HdWBXutE5m9R3P9Bw.jpeg)
 
 Meet Rahaf, the refugee hamster living in the flower beds in on of the gates at Piraeus\. Photographer: Erica Schroeder
 ### Volunteers needed to distribute aid from Elliniko warehouse\.

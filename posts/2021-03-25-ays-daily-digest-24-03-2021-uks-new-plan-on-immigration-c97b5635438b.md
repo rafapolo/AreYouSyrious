@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 24/03/2021: UK’s new plan on immigration
+title: "AYS Daily Digest 24/03/2021: UK’s new plan on immigration"
 author: Are You Syrious?
 date: 2021-03-25T11:04:55.755+0000
 last_modified_at: 2021-03-25T12:45:35.144+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,uk,france,lebanon]
 description: Bones for the “good”, punishment for the “bad” immigrants // Report on torture of Syrian refugees in Lebanon // More than 50 percent on…
 image:
-  path: assets/c97b5635438b/1*jLChHJvv5OuokWGi54EHrQ.jpeg
+  path: ../assets/c97b5635438b/1*jLChHJvv5OuokWGi54EHrQ.jpeg
 ---
 
 ### AYS Daily Digest 24/03/2021: UK’s new plan on immigration
 #### Bones for the “good”, punishment for the “bad” immigrants // Report on torture of Syrian refugees in Lebanon // More than 50 percent on Lesvos are women and children // EU’s migration plan with Northern African countries
 
 
-![In Calais, many people are still hoping to make it to the UK\. The Home office wants to cut their rights even further\. Credits: Niklas Golitschek](assets/c97b5635438b/1*jLChHJvv5OuokWGi54EHrQ.jpeg)
+![In Calais, many people are still hoping to make it to the UK\. The Home office wants to cut their rights even further\. Credits: Niklas Golitschek](../assets/c97b5635438b/1*jLChHJvv5OuokWGi54EHrQ.jpeg)
 
 In Calais, many people are still hoping to make it to the UK\. The Home office wants to cut their rights even further\. Credits: Niklas Golitschek
 ### UK

@@ -7,7 +7,7 @@ categories:
 tags: [digest,migration,refugees,human-rights,migrants]
 description: Documented pushback on Samos // Protests in Barcelona // French activists remember baby who died in Calais // Channel crossings increase
 image:
-  path: assets/2bdd5b6eba5f/1*iPyqPvOqFjsVpD1DGWF3nw.jpeg
+  path: ../assets/2bdd5b6eba5f/1*iPyqPvOqFjsVpD1DGWF3nw.jpeg
 ---
 
 ### AYS Daily Digest 06/09/21 — Bill Restricting Rescue NGOs Voted into Greek Law
@@ -15,7 +15,7 @@ image:
 ### FEATURE — Anti\-rescue NGOs bill passes in Greek parliament
 
 
-![Source: [Pixabay](https://pixabay.com/photos/life-jackets-syria-war-orange-3290742/)](assets/2bdd5b6eba5f/1*iPyqPvOqFjsVpD1DGWF3nw.jpeg)
+![Source: [Pixabay](https://pixabay.com/photos/life-jackets-syria-war-orange-3290742/)](../assets/2bdd5b6eba5f/1*iPyqPvOqFjsVpD1DGWF3nw.jpeg)
 
 Source: [Pixabay](https://pixabay.com/photos/life-jackets-syria-war-orange-3290742/)
 
@@ -150,7 +150,7 @@ Today, we were alerted to a wooden boat carrying ~9 people, including women and 
 #### Protests in Barcelona, via No Name Kitchen
 
 
-![\(Source: [Facebook](https://www.facebook.com/NoNameKitchenBelgrade/posts/1312434272488187) \)](assets/2bdd5b6eba5f/1*5-LtoyXgWJDxDSDXWsMn2A.jpeg)
+![\(Source: [Facebook](https://www.facebook.com/NoNameKitchenBelgrade/posts/1312434272488187) \)](../assets/2bdd5b6eba5f/1*5-LtoyXgWJDxDSDXWsMn2A.jpeg)
 
 \(Source: [Facebook](https://www.facebook.com/NoNameKitchenBelgrade/posts/1312434272488187) \)
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 12/09/19: Deportation is no solution
+title: "AYS Daily Digest 12/09/19: Deportation is no solution"
 author: Are You Syrious?
 date: 2019-09-13T10:43:05.089+0100
 last_modified_at: 2019-09-13T10:43:05.089+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,deportations,digest,europe,germany]
 description: German parliamentary secretary urges Greece to speed up returns to Turkey / 74.000 people benefit from Cash Assistance in Greece /…
 image:
-  path: assets/70025e311d4d/1*0N_mvsIfZxuVrttzcFf6qg.jpeg
+  path: ../assets/70025e311d4d/1*0N_mvsIfZxuVrttzcFf6qg.jpeg
 ---
 
 ### AYS Daily Digest 12/09/19: Deportation is no solution
 #### German parliamentary secretary urges Greece to speed up returns to Turkey / 74\.000 people benefit from Cash Assistance in Greece / Operation “Sophia” continues with no rescue ships / German Protestant Church and SMH want to send rescue ships to the Med / Germany criticized for delaying family reunifications from Greece
 
 
-![Credits: Twitter/ [Giorgos Kosmopoulos](https://twitter.com/GiorgosKosmop) \(July [2016](https://twitter.com/GiorgosKosmop/status/758638235354619904) \)](assets/70025e311d4d/1*0N_mvsIfZxuVrttzcFf6qg.jpeg)
+![Credits: Twitter/ [Giorgos Kosmopoulos](https://twitter.com/GiorgosKosmop) \(July [2016](https://twitter.com/GiorgosKosmop/status/758638235354619904) \)](../assets/70025e311d4d/1*0N_mvsIfZxuVrttzcFf6qg.jpeg)
 
 Credits: Twitter/ [Giorgos Kosmopoulos](https://twitter.com/GiorgosKosmop) \(July [2016](https://twitter.com/GiorgosKosmop/status/758638235354619904) \)
 #### FEATURED

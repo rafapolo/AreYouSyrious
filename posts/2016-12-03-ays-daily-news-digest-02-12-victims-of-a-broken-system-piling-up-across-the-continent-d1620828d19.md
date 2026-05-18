@@ -1,5 +1,5 @@
 ---
-title: AYS Daily News Digest 02/12: Victims of a broken system piling up across the continent
+title: "AYS Daily News Digest 02/12: Victims of a broken system piling up across the continent"
 author: Are You Syrious?
 date: 2016-12-03T03:29:38.864+0000
 last_modified_at: 2016-12-03T13:45:32.661+0000
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,greece,france,syria]
 description: Urgent medical evacuations needed in Aleppo; countless displaced / Overwhelming disappointment among both refugees and volunteers across…
 image:
-  path: assets/d1620828d19/1*J5aFyy78Ox_BNGLSrY0bgg.jpeg
+  path: ../assets/d1620828d19/1*J5aFyy78Ox_BNGLSrY0bgg.jpeg
 ---
 
 ### AYS Daily News Digest 02/12: Victims of a broken system piling up across the continent
 #### _Urgent medical evacuations needed in Aleppo; countless displaced / Overwhelming disappointment among both refugees and volunteers across cold Greece; a man dies on Samos due to negligence / “limbo” in transit Balkan countries / Results and the report on the situation of Calais migrants in reception centres across France_
 
 
-![Photo: [Xa Bi](https://www.facebook.com/xabiloz)](assets/d1620828d19/1*J5aFyy78Ox_BNGLSrY0bgg.jpeg)
+![Photo: [Xa Bi](https://www.facebook.com/xabiloz)](../assets/d1620828d19/1*J5aFyy78Ox_BNGLSrY0bgg.jpeg)
 
 Photo: [Xa Bi](https://www.facebook.com/xabiloz)
 #### SYRIA
@@ -25,21 +25,21 @@ A four\-month\-old baby has reportedly died today from the cold in Aleppo\. Many
 Hostilities have intensified significantly in Aleppo since 24 November, resulting in the displacement of an estimated 31,500 people within Aleppo city and a further deterioration of the humanitarian situation in the remaining besieged neighborhoods\.
 
 
-![Photo: Red Crescent Syria](assets/d1620828d19/1*6ECHPeT0HBz24CTaX0d3zg.jpeg)
+![Photo: Red Crescent Syria](../assets/d1620828d19/1*6ECHPeT0HBz24CTaX0d3zg.jpeg)
 
 Photo: Red Crescent Syria
 
 Little to no assistance can be extended to the 5,000 IDPs who have been displaced within East Aleppo, as the ability of humanitarian actors to respond is severely limited by lack of access\. Resources inside East Aleppo are nearly depleted following almost five months without humanitarian deliveries\. Medical facilities have mostly shut down, with only a few operating at absolute minimum capacity\. Sources inside East Aleppo indicate that, as fuel for ambulances runs low, some wounded individuals are being rushed to medical facilities on vegetable carriages\.
 
 
-![Photo: [Free Syria — Salam](https://www.facebook.com/Free.SyriaSalam/)](assets/d1620828d19/1*qBBIl-KbM2mM9RUEcY__Cw.jpeg)
+![Photo: [Free Syria — Salam](https://www.facebook.com/Free.SyriaSalam/)](../assets/d1620828d19/1*qBBIl-KbM2mM9RUEcY__Cw.jpeg)
 
 Photo: [Free Syria — Salam](https://www.facebook.com/Free.SyriaSalam/)
 
 WHO’s partners have identified 400 cases in Eastern Aleppo requiring urgent medical evacuations\. Lacking any means of transportation besides walking, civilians remain at great risk of death and injury as long as indiscriminate shelling and airstrikes continue\.
 
 
-![Photo: Red Crescent Syria](assets/d1620828d19/1*Q2VlRXuPk0h2AgCVuF7jGA.jpeg)
+![Photo: Red Crescent Syria](../assets/d1620828d19/1*Q2VlRXuPk0h2AgCVuF7jGA.jpeg)
 
 Photo: Red Crescent Syria
 ### Urgent call for safe routes out of East Aleppo
@@ -63,7 +63,7 @@ Hundreds of people in several cities, towns and villages of Syria held demonstra
 
 
 
-![Credits: [**Legis**](https://www.facebook.com/legis.mk/?fref=nf)](assets/d1620828d19/1*5Df4Z4Mit2M3SReJPqehtA.jpeg)
+![Credits: [**Legis**](https://www.facebook.com/legis.mk/?fref=nf)](../assets/d1620828d19/1*5Df4Z4Mit2M3SReJPqehtA.jpeg)
 
 Credits: [**Legis**](https://www.facebook.com/legis.mk/?fref=nf)
 #### MACEDONIA
@@ -80,11 +80,11 @@ The unprecedented global displacement crisis must be met with a genuine sense of
 The Macedonian NGO Legis has criticised EU policies for putting refugees at risk\. In an in\-depth [statement](http://legis.mk/news/2151/eu-policies-put-refugees-at-risk) , the group outlines the humanitarian and political crisis that has developed in the last two years\. The statement also lists several crucial points of action that the EU must take to adhere to its own human rights values and ensure thriving, pluralistic and tolerant societies on either side of the Mediterranean\.
 
 
-![](assets/d1620828d19/1*MwtjbxIXcBBOWltLNjCdrw.jpeg)
+![](../assets/d1620828d19/1*MwtjbxIXcBBOWltLNjCdrw.jpeg)
 
 
 
-![Harsh conditions in refugee camp in Lebanon are making the already tough and dangerous life there barely possible \(Photo credit: Youssef Ta\)](assets/d1620828d19/1*pGiVB2vYMkek3qBgVvdeGg.jpeg)
+![Harsh conditions in refugee camp in Lebanon are making the already tough and dangerous life there barely possible \(Photo credit: Youssef Ta\)](../assets/d1620828d19/1*pGiVB2vYMkek3qBgVvdeGg.jpeg)
 
 Harsh conditions in refugee camp in Lebanon are making the already tough and dangerous life there barely possible \(Photo credit: Youssef Ta\)
 #### GREECE
@@ -123,11 +123,11 @@ On the north coast of the island, they are in need of experienced volunteers to 
 
 
 
-![](assets/d1620828d19/1*15-f2CBJUe4FnCOw4vHnbg.jpeg)
+![](../assets/d1620828d19/1*15-f2CBJUe4FnCOw4vHnbg.jpeg)
 
 
 
-![State of the camp on Samos \(Photo: [Majida Ali](https://www.facebook.com/profile.php?id=100009525601484) \)](assets/d1620828d19/1*1ZhsV2bsuxet_wz5eZZSUw.jpeg)
+![State of the camp on Samos \(Photo: [Majida Ali](https://www.facebook.com/profile.php?id=100009525601484) \)](../assets/d1620828d19/1*1ZhsV2bsuxet_wz5eZZSUw.jpeg)
 
 State of the camp on Samos \(Photo: [Majida Ali](https://www.facebook.com/profile.php?id=100009525601484) \)
 #### The islands’ internal relocation problem
@@ -139,7 +139,7 @@ Some politicians [dispute](https://newsthatmoves.org/en/mep-says-mouzalas-spread
 A volunteer reported that thirteen Iraqi refugees are sleeping outside on the streets of the island Kastelorizo, **in need of help and shelter** before they apply for asylum and get transferred from the island\. If you can help, contact the [volunteer](https://www.facebook.com/profile.php?id=100007841867374) on location\.
 
 
-![a boy from the family who is staying on the island streets for the third day\. \. \(Photo: Saad Kasem\)](assets/d1620828d19/1*Dij4SeFya4vetzux6qX4yw.jpeg)
+![a boy from the family who is staying on the island streets for the third day\. \. \(Photo: Saad Kasem\)](../assets/d1620828d19/1*Dij4SeFya4vetzux6qX4yw.jpeg)
 
 a boy from the family who is staying on the island streets for the third day\. \. \(Photo: Saad Kasem\)
 ### Despite sporadic improvements, the situation is deteriorating
@@ -171,7 +171,7 @@ Refugees from the camp [Oraiokastro](https://www.facebook.com/ThevoicesofO/posts
 
 
 
-![Latest rumor vs\. information by News That Moves](assets/d1620828d19/1*GjUf9EIffO7yMds8nDKyXw.jpeg)
+![Latest rumor vs\. information by News That Moves](../assets/d1620828d19/1*GjUf9EIffO7yMds8nDKyXw.jpeg)
 
 Latest rumor vs\. information by News That Moves
 #### ROMANIA
@@ -182,7 +182,7 @@ The so\-called Dublin III, an EU regulation that establishes a method for decidi
 As many [accounts](https://www.afghanistan-analysts.org/afghan-exodus-notes-from-a-belgrade-squat/) on the situation in Serbia confirm, the conditions are worsening as winter draws near\. Serbia remains a roadblock on the route towards Western Europe for many refugees, who have been stranded in official and makeshift camps for months now\.
 
 
-![Football training warm up at Bujanovac camp in Serbia \(Photo: [Borderfree Association](https://www.facebook.com/borderfreeassociation/) \)](assets/d1620828d19/1*VVTUb0TF_EARSbXFTWug0w.jpeg)
+![Football training warm up at Bujanovac camp in Serbia \(Photo: [Borderfree Association](https://www.facebook.com/borderfreeassociation/) \)](../assets/d1620828d19/1*VVTUb0TF_EARSbXFTWug0w.jpeg)
 
 Football training warm up at Bujanovac camp in Serbia \(Photo: [Borderfree Association](https://www.facebook.com/borderfreeassociation/) \)
 #### Changes in Miksalište
@@ -201,7 +201,7 @@ A [protest](https://www.facebook.com/events/210883196022903/?acontext=%7B%22ref%
 Hungarians invite everyone to join their protest and show support in different ways from other countries\.
 
 
-![Photo: [**MigSzol Csoport**](https://www.facebook.com/migszolcsoport/)](assets/d1620828d19/1*zVP9x--VtTHLGhXYDaLuXw.jpeg)
+![Photo: [**MigSzol Csoport**](https://www.facebook.com/migszolcsoport/)](../assets/d1620828d19/1*zVP9x--VtTHLGhXYDaLuXw.jpeg)
 
 Photo: [**MigSzol Csoport**](https://www.facebook.com/migszolcsoport/)
 
@@ -230,7 +230,7 @@ The Jesuit Refugee Service in Croatia invites all families in and around Zagreb 
 
 
 
-![Photo: MSF Sea](assets/d1620828d19/1*pBnQY4rBlhzdqbL1rbW4nA.jpeg)
+![Photo: MSF Sea](../assets/d1620828d19/1*pBnQY4rBlhzdqbL1rbW4nA.jpeg)
 
 Photo: MSF Sea
 #### FRANCE
@@ -243,7 +243,7 @@ According to the report, the interview process by British officials from the Hom
 The full report can be accessed [here](https://www.dropbox.com/sh/mc1qtfz8h2wx561/AAAof4FQGk50uEF9p6Iabj3Ha?dl=0) \.
 
 
-![Image: [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/)](assets/d1620828d19/1*9dV9fZKH6buQZhDiye9rwA.jpeg)
+![Image: [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/)](../assets/d1620828d19/1*9dV9fZKH6buQZhDiye9rwA.jpeg)
 
 Image: [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/)
 #### Help still needed in Paris

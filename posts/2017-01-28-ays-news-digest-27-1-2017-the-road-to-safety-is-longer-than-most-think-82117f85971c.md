@@ -7,13 +7,13 @@ categories:
 tags: [europe,refugees]
 description: FEATURE
 image:
-  path: assets/82117f85971c/1*jP-qensLYPoAd4c0C6NzDg.jpeg
+  path: ../assets/82117f85971c/1*jP-qensLYPoAd4c0C6NzDg.jpeg
 ---
 
 ### AYS News Digest 27\.1\.2017— the road to safety is longer than most people think\.
 
 
-![“How can you judge us?” Photo Credit: [Abdulazez Dukhan](https://www.facebook.com/throughrefugeeeyes/photos/a.267469110309533.1073741828.266986607024450/452144841841958/?type=3&theater)](assets/82117f85971c/1*jP-qensLYPoAd4c0C6NzDg.jpeg)
+![“How can you judge us?” Photo Credit: [Abdulazez Dukhan](https://www.facebook.com/throughrefugeeeyes/photos/a.267469110309533.1073741828.266986607024450/452144841841958/?type=3&theater)](../assets/82117f85971c/1*jP-qensLYPoAd4c0C6NzDg.jpeg)
 
 “How can you judge us?” Photo Credit: [Abdulazez Dukhan](https://www.facebook.com/throughrefugeeeyes/photos/a.267469110309533.1073741828.266986607024450/452144841841958/?type=3&theater)
 #### _FEATURE_
@@ -30,7 +30,7 @@ A great tragedy in Sweden as three refugee boys attempted suicide, with one dyin
 In the context of the horror people are fleeing as well as the period of intensive trauma that characterizes the journey to reach Europe, it is, sadly, no wonder that many succumb to misery and despondency\. As the network of refugee support across Europe continues to develop, it is crucial to maintain contact and provide support to people in every community\. Additionally, may this be a catalyst for citizens to pressure their governments to prioritize humanity in the face of ever\-growing hostility\.
 
 
-![Photo Credit: [Abdulazez Dukhan](https://www.facebook.com/throughrefugeeeyes/?fref=nf)](assets/82117f85971c/1*ShUT9siIazzXZWMdIQ6WlQ.jpeg)
+![Photo Credit: [Abdulazez Dukhan](https://www.facebook.com/throughrefugeeeyes/?fref=nf)](../assets/82117f85971c/1*ShUT9siIazzXZWMdIQ6WlQ.jpeg)
 
 Photo Credit: [Abdulazez Dukhan](https://www.facebook.com/throughrefugeeeyes/?fref=nf)
 
@@ -97,7 +97,7 @@ The following is a report from Marina Liaki:
 The next installment of NewsThatMoves’s “In the Loop” has been published, focusing on the feedback provided by refugees residing in Greece\.
 
 
-![Photo Credit: [NewsThatMoves](https://newsthatmoves.org/en/in-the-loop-32-cash-accommodation-minorities-at-sites/)](assets/82117f85971c/1*KzOp3g3aMApH0iofXpi8Gw.png)
+![Photo Credit: [NewsThatMoves](https://newsthatmoves.org/en/in-the-loop-32-cash-accommodation-minorities-at-sites/)](../assets/82117f85971c/1*KzOp3g3aMApH0iofXpi8Gw.png)
 
 Photo Credit: [NewsThatMoves](https://newsthatmoves.org/en/in-the-loop-32-cash-accommodation-minorities-at-sites/)
 
@@ -133,7 +133,7 @@ Human Rights and Asylum Law Enthusiasts\!
 
 
 
-![Firewood distribution in Belgrade by People in Motion](assets/82117f85971c/1*w7EwK96b5w4zpKhNnfBU2w.jpeg)
+![Firewood distribution in Belgrade by People in Motion](../assets/82117f85971c/1*w7EwK96b5w4zpKhNnfBU2w.jpeg)
 
 Firewood distribution in Belgrade by People in Motion
 ### ITALY
@@ -153,7 +153,7 @@ In **Como** , volunteers and INGOs are again at odds as some volunteers in the R
 _Four months after the centre’s opening, the coordinator of “camerieri del sorriso” Mariateresa Carminati announced she would leave the operation\. One reason \(among many\) is the prohibition by Red Cross supervisors not allowing the volunteers to give information on legal assistance to a couple of Pakistani individuals\. So far, 150 volunteers are engaged in the distribution of meals, but around 80 may be leaving too\. The service will continue in spite of this\._
 
 
-![Photo Credit: [Osservatorio Migranti Como](https://www.facebook.com/osservatoriomigranticomo)](assets/82117f85971c/1*4uIAmMmpaV621hSuTe7pXw.jpeg)
+![Photo Credit: [Osservatorio Migranti Como](https://www.facebook.com/osservatoriomigranticomo)](../assets/82117f85971c/1*4uIAmMmpaV621hSuTe7pXw.jpeg)
 
 Photo Credit: [Osservatorio Migranti Como](https://www.facebook.com/osservatoriomigranticomo)
 
@@ -169,7 +169,7 @@ _Miracle in Austria — deported family allowed to return\._
 Saving the best for last — a hopeful miracle in Austria\. At long last, a positive decision coming in the wake of deportations that happened throughout 2016\. One family that had been deported from Austria to Croatia and was anxiously awaiting the decision has been informed that they are entitled to return to Austria\! It is hoped that this case will set a precedent and that all of the unlawful deportations will be resolved in a similar manner\. For full details, refer to Refugees Spielfeld [page](https://www.facebook.com/RefugeesSpielfeld/photos/a.1631564003770749.1073741829.1631251033802046/1823814911212323/?type=3) \. Are You Syrious is happy to have been able to provide support to this family while they awaited their decision in Zagreb and wishes them a happy settling into their new home\!
 
 
-![Family celebrates the good news\. Photo Credit: Bordercrossing Spielfeld](assets/82117f85971c/1*0_xBWtpvZ3qPX3i0jREl3A.jpeg)
+![Family celebrates the good news\. Photo Credit: Bordercrossing Spielfeld](../assets/82117f85971c/1*0_xBWtpvZ3qPX3i0jREl3A.jpeg)
 
 Family celebrates the good news\. Photo Credit: Bordercrossing Spielfeld
 

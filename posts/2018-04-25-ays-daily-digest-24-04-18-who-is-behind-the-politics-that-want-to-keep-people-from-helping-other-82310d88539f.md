@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 24/04/18: Who is behind the politics that want to keep people from helping other…
+title: "AYS Daily Digest 24/04/18: Who is behind the politics that want to keep people from helping other…"
 author: Are You Syrious?
 date: 2018-04-25T13:51:08.238+0100
 last_modified_at: 2018-04-25T13:51:08.238+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,libya,europe,turkey]
 description: Volunteers accused of criminal activities, rescue vessels impounded, SAR professionals disabled from work, dubious documents issued and…
 image:
-  path: assets/82310d88539f/1*PlFD5ieWBrKqysEPSo_CqA.jpeg
+  path: ../assets/82310d88539f/1*PlFD5ieWBrKqysEPSo_CqA.jpeg
 ---
 
 ### AYS Daily Digest 24/04/18: Who is behind the politics that want to keep people from helping other people?
 #### Volunteers accused of criminal activities, rescue vessels impounded, SAR professionals disabled from work, dubious documents issued and people still kept in dire conditions — a growing number of actions to support claims of a shaping of political decisions to stop people from coming and/or staying in Europe // news from the Mediterranean, Morocco, Libya, Turkey, Greece, Bosnia and Herzegovina & Croatia, Italy, France, Sweden, Norway and the UK
 
 
-![Greetings to the French authors of the sign “Protect the people, not borders\!” — Photo: [Judith Gueyfier](https://www.facebook.com/judith.gueyfier?hc_ref=ART3MfD6Eqcfpxr_8yRnyo8Bw6W687HcxrkwrJ0g23awiA2MT3KqGN0ezVLl8-3wcIE&fref=nf)](assets/82310d88539f/1*PlFD5ieWBrKqysEPSo_CqA.jpeg)
+![Greetings to the French authors of the sign “Protect the people, not borders\!” — Photo: [Judith Gueyfier](https://www.facebook.com/judith.gueyfier?hc_ref=ART3MfD6Eqcfpxr_8yRnyo8Bw6W687HcxrkwrJ0g23awiA2MT3KqGN0ezVLl8-3wcIE&fref=nf)](../assets/82310d88539f/1*PlFD5ieWBrKqysEPSo_CqA.jpeg)
 
 Greetings to the French authors of the sign “Protect the people, not borders\!” — Photo: [Judith Gueyfier](https://www.facebook.com/judith.gueyfier?hc_ref=ART3MfD6Eqcfpxr_8yRnyo8Bw6W687HcxrkwrJ0g23awiA2MT3KqGN0ezVLl8-3wcIE&fref=nf)
 #### FEATURE
@@ -98,11 +98,11 @@ Eleda has repeatedly stressed that the obsession with the application of geograp
 Therefore, they clearly state it is essential to ensure that there is no increase in right\-wing expression and activities and resulting further social destabilisation in Greece\.
 
 
-![](assets/82310d88539f/1*MRzTXngkeDOfLTQlndQUCg.jpeg)
+![](../assets/82310d88539f/1*MRzTXngkeDOfLTQlndQUCg.jpeg)
 
 
 
-![<“…burn them alive” …\. \.these words will haunt me forever……\.they were chanted by the fascists on Sunday night as they threw Molotov cocktails, fireworks and more \(amidst an array of missiles\) into our group of scared, peaceful people…\. \.and doing so knowing that there were many children there, with their families ……\. \.I have been walking around in a completely state of shock, wearing a cloak of mistrust as I look intensely at the faces of the people around me here, not knowing whose side they are on?> — [1951RefugeeConvention](https://www.facebook.com/1951RefugeeConvention/)](assets/82310d88539f/1*g4m79Y-W0zmw2VPVdg_FhA.jpeg)
+![<“…burn them alive” …\. \.these words will haunt me forever……\.they were chanted by the fascists on Sunday night as they threw Molotov cocktails, fireworks and more \(amidst an array of missiles\) into our group of scared, peaceful people…\. \.and doing so knowing that there were many children there, with their families ……\. \.I have been walking around in a completely state of shock, wearing a cloak of mistrust as I look intensely at the faces of the people around me here, not knowing whose side they are on?> — [1951RefugeeConvention](https://www.facebook.com/1951RefugeeConvention/)](../assets/82310d88539f/1*g4m79Y-W0zmw2VPVdg_FhA.jpeg)
 
 <“…burn them alive” …\. \.these words will haunt me forever……\.they were chanted by the fascists on Sunday night as they threw Molotov cocktails, fireworks and more \(amidst an array of missiles\) into our group of scared, peaceful people…\. \.and doing so knowing that there were many children there, with their families ……\. \.I have been walking around in a completely state of shock, wearing a cloak of mistrust as I look intensely at the faces of the people around me here, not knowing whose side they are on?> — [1951RefugeeConvention](https://www.facebook.com/1951RefugeeConvention/)
 ### Islands
@@ -110,11 +110,11 @@ Therefore, they clearly state it is essential to ensure that there is no increas
 Six boats arrived with a total of 234 people during the night from Monday to Tuesday\. At the same time five boats was apprehended by TCG, with a total of 187 people ABR team reports\.
 
 
-![](assets/82310d88539f/1*hkLM0uoI3FBV1tLsPp8loQ.jpeg)
+![](../assets/82310d88539f/1*hkLM0uoI3FBV1tLsPp8loQ.jpeg)
 
 
 
-![Photos: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/)](assets/82310d88539f/1*iPIQe5kBAORTI_SsBEN2oQ.jpeg)
+![Photos: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/)](../assets/82310d88539f/1*iPIQe5kBAORTI_SsBEN2oQ.jpeg)
 
 Photos: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/)
 
@@ -165,19 +165,19 @@ According to the latest UN report, in January this year 157 people arrived in Bo
 The volunteers in Bosnia and Herzegovina still struggle to help and assist the refugees stuck there in order to provide them at least the basic amenities\.
 
 
-![](assets/82310d88539f/1*2pLWfdbaJQ9DEyAJZv005Q.jpeg)
+![](../assets/82310d88539f/1*2pLWfdbaJQ9DEyAJZv005Q.jpeg)
 
 
 
-![](assets/82310d88539f/1*QDfxaHcLc29By3JLEYKCQQ.jpeg)
+![](../assets/82310d88539f/1*QDfxaHcLc29By3JLEYKCQQ.jpeg)
 
 
 
-![](assets/82310d88539f/1*ok_I7GgCbYPwbmfTQuRQUw.jpeg)
+![](../assets/82310d88539f/1*ok_I7GgCbYPwbmfTQuRQUw.jpeg)
 
 
 
-![Photos: [Dylan Longman](https://www.facebook.com/dylan.longman?hc_ref=ARRdXJMoauSiqUkw6vjZwt_UqV7kiEzcFujE_aFq5pGUDuEpqV1ghPJBTDLgQIF7f2o)](assets/82310d88539f/1*kbxCX2AI24prPh8VpVLYug.jpeg)
+![Photos: [Dylan Longman](https://www.facebook.com/dylan.longman?hc_ref=ARRdXJMoauSiqUkw6vjZwt_UqV7kiEzcFujE_aFq5pGUDuEpqV1ghPJBTDLgQIF7f2o)](../assets/82310d88539f/1*kbxCX2AI24prPh8VpVLYug.jpeg)
 
 Photos: [Dylan Longman](https://www.facebook.com/dylan.longman?hc_ref=ARRdXJMoauSiqUkw6vjZwt_UqV7kiEzcFujE_aFq5pGUDuEpqV1ghPJBTDLgQIF7f2o)
 
@@ -206,7 +206,7 @@ Photos: [Dylan Longman](https://www.facebook.com/dylan.longman?hc_ref=ARRdXJMoau
 ### More violence from the officials
 
 
-![Photo: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?hc_location=group_dialog)](assets/82310d88539f/1*hQiBbylpQIgVlNerBUUU2w.jpeg)
+![Photo: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?hc_location=group_dialog)](../assets/82310d88539f/1*hQiBbylpQIgVlNerBUUU2w.jpeg)
 
 Photo: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?hc_location=group_dialog)
 
@@ -272,7 +272,7 @@ Today in the French town of Gap there will be a court hearing for the arrested c
 This prosecution is an attack against the solidarity of exploited people\.
 
 
-![Via [Subversión \#1312](https://www.facebook.com/subanarchyshow/?hc_ref=ARQ-xQX_hd1H9mOjUDC81Igb133F0HDauJl-WaS53Z_ZCjsAgDvcIuJpqInTerRlqi0)](assets/82310d88539f/1*hr3ZoPTnzRn-X_kn5D3yLw.jpeg)
+![Via [Subversión \#1312](https://www.facebook.com/subanarchyshow/?hc_ref=ARQ-xQX_hd1H9mOjUDC81Igb133F0HDauJl-WaS53Z_ZCjsAgDvcIuJpqInTerRlqi0)](../assets/82310d88539f/1*hr3ZoPTnzRn-X_kn5D3yLw.jpeg)
 
 Via [Subversión \#1312](https://www.facebook.com/subanarchyshow/?hc_ref=ARQ-xQX_hd1H9mOjUDC81Igb133F0HDauJl-WaS53Z_ZCjsAgDvcIuJpqInTerRlqi0)
 ### Volunteers needed\!
@@ -311,7 +311,7 @@ An 18\-year old boy took lis own life in an asylum reception centre in Norway\.
 
 ![I am disgusted and appalled by the case I have just received\. My constituent arrived from Jamaica in 1964 aged 6\. He has shown me his letter from the Home Office telling him that he will be deported despite having a National Insurance card from 1974 & NHS documentation from 1964\.
  The Home Secretary and the Immigration Minister you must sort this today\. Why is my constituent being treated like an illegal immigrant despite providing documentation from 1964? This is an outrageous miscarriage of justice\. Grant him his citizenship and passport\.
- I have had 6 Windrush cases come in this morning already at it is only half past 11\. Each case is heartbreaking and an utterly shameful indictment of this government\. I am so angry at the way my constituents have been treated\. **The scale of this crisis is absolutely unfathomable\.** — [David Lammy](https://www.facebook.com/DavidLammyTottenham/?hc_location=group_dialog)](assets/82310d88539f/1*lGlf0NW3esvv9Z0lrCckpg.jpeg)
+ I have had 6 Windrush cases come in this morning already at it is only half past 11\. Each case is heartbreaking and an utterly shameful indictment of this government\. I am so angry at the way my constituents have been treated\. **The scale of this crisis is absolutely unfathomable\.** — [David Lammy](https://www.facebook.com/DavidLammyTottenham/?hc_location=group_dialog)](../assets/82310d88539f/1*lGlf0NW3esvv9Z0lrCckpg.jpeg)
 
 I am disgusted and appalled by the case I have just received\. My constituent arrived from Jamaica in 1964 aged 6\. He has shown me his letter from the Home Office telling him that he will be deported despite having a National Insurance card from 1974 & NHS documentation from 1964\.
  The Home Secretary and the Immigration Minister you must sort this today\. Why is my constituent being treated like an illegal immigrant despite providing documentation from 1964? This is an outrageous miscarriage of justice\. Grant him his citizenship and passport\.

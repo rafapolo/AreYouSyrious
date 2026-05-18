@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Here is Adnan’s story
+title: "AYS SPECIAL: Here is Adnan’s story"
 author: Are You Syrious?
 date: 2017-04-09T18:38:47.461+0100
 last_modified_at: 2018-03-01T13:59:52.318+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,syria,refugee-camps,children-in-war,special]
 description: Giulia Baccosi is a volunteer who spend last summer working in Kalochori camp, near Thessaloniki. There she met Adnan (17), a young man who…
 image:
-  path: assets/a4c246b92a07/1*QrC5xv6DF7EHCa36betyvA.jpeg
+  path: ../assets/a4c246b92a07/1*QrC5xv6DF7EHCa36betyvA.jpeg
 ---
 
 ### AYS SPECIAL: Here is Adnan’s story
@@ -15,7 +15,7 @@ image:
 _Giulia Baccosi is a volunteer who spend last summer working in Kalochori camp, near Thessaloniki\. There she met Adnan \(17\), a young man who used to help her with translation, but also to find her way in the camp\. And they became friends\. After almost a year, they came up with the story\._
 
 
-![Adnan and Giulia in Kalochori, friends for life\.](assets/a4c246b92a07/1*QrC5xv6DF7EHCa36betyvA.jpeg)
+![Adnan and Giulia in Kalochori, friends for life\.](../assets/a4c246b92a07/1*QrC5xv6DF7EHCa36betyvA.jpeg)
 
 Adnan and Giulia in Kalochori, friends for life\.
 
@@ -32,7 +32,7 @@ I only invite you to consider that there is much more behind the word “refugee
 **Chapter 1\.**
 
 
-![Adnan with his school friends in Syria\.](assets/a4c246b92a07/1*7hFXm8mNUmeFI-Fo1huGIg.jpeg)
+![Adnan with his school friends in Syria\.](../assets/a4c246b92a07/1*7hFXm8mNUmeFI-Fo1huGIg.jpeg)
 
 Adnan with his school friends in Syria\.
 
@@ -47,7 +47,7 @@ We were all living in harmony despite the diversity of the population and we had
 The war broke out and prevented me because the conditions were getting bad day by day: no heating, no electricity, no water to drink, everything became so expensive\.
 
 
-![Adnan back in Syria\.](assets/a4c246b92a07/1*MadYZWnD1nJlW-1plimNuA.jpeg)
+![Adnan back in Syria\.](../assets/a4c246b92a07/1*MadYZWnD1nJlW-1plimNuA.jpeg)
 
 Adnan back in Syria\.
 
@@ -62,7 +62,7 @@ But what can we do when the death is following us? When is taking our dreams awa
 One week after we found a man\. His work was to bring people to Turkey\. My father contacted him, then next week he called us to be ready to start the trip and he asked for 700 dollars for each of us\. I soled my computer and other things at home till we got enough\. After that, in one midnight, we went to the border of Turkey\. Everywhere was so dark and cold, we run like two hours to pass the border, finally we passed safe, we went to one park in the city close to the border, we spent all the night there till the morning came…
 
 
-![War in Syria by Adnan](assets/a4c246b92a07/1*d6CwHzl6xLgyqdOigxSSfA.jpeg)
+![War in Syria by Adnan](../assets/a4c246b92a07/1*d6CwHzl6xLgyqdOigxSSfA.jpeg)
 
 War in Syria by Adnan
 
@@ -91,7 +91,7 @@ I find a new work in a coffee shop working 16 hours a day, but just because one 
 One hour in middle of the death sea and when I open my eyes I saw there are lights, it is Greece\! It is an island and its named is Chios\. We reach the beach and some organizations come to help us to come down the boat, and they give us water and some blankets and they take us to the bus to go to the border of Macedonia\.
 
 
-![Life in Idomeni by Adnan\.](assets/a4c246b92a07/1*TiCdEnoDkHElD7D4nbryFg.jpeg)
+![Life in Idomeni by Adnan\.](../assets/a4c246b92a07/1*TiCdEnoDkHElD7D4nbryFg.jpeg)
 
 Life in Idomeni by Adnan\.
 
@@ -114,7 +114,7 @@ And Finally after 11 months in Greece the good news arrives, our visa come and w
 **Chapter 4\.**
 
 
-![By Adnan\.](assets/a4c246b92a07/1*rrcP4Y_pqw5zpwOjddGuxA.jpeg)
+![By Adnan\.](../assets/a4c246b92a07/1*rrcP4Y_pqw5zpwOjddGuxA.jpeg)
 
 By Adnan\.
 

@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Syrian princess trapped in Greece
+title: "AYS SPECIAL: Syrian princess trapped in Greece"
 author: Are You Syrious?
 date: 2017-08-11T18:40:40.776+0100
 last_modified_at: 2018-03-01T14:00:44.541+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,syria,khora-center,athens,special]
 description: Among the refugees trapped in Greece there are many princesses and princes. AYS met one of them in Khora Community Centre in Athens. Due to…
 image:
-  path: assets/81944118a9b0/1*6PsT1Ftb39-g3SAW31BDIA.jpeg
+  path: ../assets/81944118a9b0/1*6PsT1Ftb39-g3SAW31BDIA.jpeg
 ---
 
 ### AYS SPECIAL: Syrian princess trapped in Greece
@@ -15,7 +15,7 @@ image:
 Among the refugees trapped in Greece there are many princesses and princes\. AYS met one of them in Khora Community Centre in Athens\. Due to complicated bureaucratic procedures, she is trapped in Greece with her mother, far aways from sisters, brother and father\.
 
 
-![Photo AYS](assets/81944118a9b0/1*6PsT1Ftb39-g3SAW31BDIA.jpeg)
+![Photo AYS](../assets/81944118a9b0/1*6PsT1Ftb39-g3SAW31BDIA.jpeg)
 
 Photo AYS
 
@@ -24,7 +24,7 @@ Danaa Mohammed Ali came to Athens from Damascus over nine months ago with her mo
 While waiting, Dania dreams\. She has made a small pink crown and she walks around Athens like a princess\. _“I made a crown, but I know I am not a princess\. But, I love princesses because they sleep in a big house, they are so beautiful, and nobody can kill them and they are happy,”_ this nine\-year\-old Syrian princess told us in very good English\.
 
 
-![Photo AYS](assets/81944118a9b0/1*S4BJ_FreoxAGu0Dj3xJD9w.jpeg)
+![Photo AYS](../assets/81944118a9b0/1*S4BJ_FreoxAGu0Dj3xJD9w.jpeg)
 
 Photo AYS
 
@@ -51,7 +51,7 @@ After our short conversation, the two of them left, Naheda holding Dania close a
 The two of them are victims of the slow procedure which violates one of the basic human rights — the right to family life\. Many people — about 2,400 now in Greece — have been in the same situation for a very long time and they are demanding their immediate transfer to Germany\.
 
 
-![Photo by Katja Litnevalner\.](assets/81944118a9b0/1*l1TUby-p3xUSjaQ7OL9K7A.jpeg)
+![Photo by Katja Litnevalner\.](../assets/81944118a9b0/1*l1TUby-p3xUSjaQ7OL9K7A.jpeg)
 
 Photo by Katja Litnevalner\.
 

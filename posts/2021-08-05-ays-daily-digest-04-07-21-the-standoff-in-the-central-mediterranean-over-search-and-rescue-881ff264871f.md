@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 04/08/21: The ‘Standoff’ in the Central Mediterranean over Search and Rescue
+title: "AYS Daily Digest 04/08/21: The ‘Standoff’ in the Central Mediterranean over Search and Rescue"
 author: Are You Syrious?
 date: 2021-08-05T16:23:01.342+0100
 last_modified_at: 2021-08-05T16:47:27.721+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,migration,search-and-rescue,asylum]
 description: Torture allegations in Melilla // Personal story of a transgender Syrian facing deportation from Turkey // MSF ship released // Crackdown…
 image:
-  path: assets/881ff264871f/1*tpyK-T3KGP8uSnioMQQecQ.jpeg
+  path: ../assets/881ff264871f/1*tpyK-T3KGP8uSnioMQQecQ.jpeg
 ---
 
 ### AYS Daily Digest 04/08/21: The ‘Standoff’ in the Central Mediterranean over Search and Rescue
@@ -15,7 +15,7 @@ image:
 ### FEATURE — SAR ships plead for port of safety as health of rescued people aboard deteriorates
 
 
-![Rescued people aboard the Ocean Viking in the Central Mediterranean this week\. \(Photo: [SOS MEDITERRANEE](https://twitter.com/SOSMedIntl/status/1423263849403256833) \)](assets/881ff264871f/1*tpyK-T3KGP8uSnioMQQecQ.jpeg)
+![Rescued people aboard the Ocean Viking in the Central Mediterranean this week\. \(Photo: [SOS MEDITERRANEE](https://twitter.com/SOSMedIntl/status/1423263849403256833) \)](../assets/881ff264871f/1*tpyK-T3KGP8uSnioMQQecQ.jpeg)
 
 Rescued people aboard the Ocean Viking in the Central Mediterranean this week\. \(Photo: [SOS MEDITERRANEE](https://twitter.com/SOSMedIntl/status/1423263849403256833) \)
 
@@ -191,7 +191,7 @@ Amidst the influx of arrivals, Italy is [calling for the redistribution of peopl
 #### Official charges against Italian couple in Trieste
 
 
-![Photo: [borderline europe](https://www.facebook.com/nonationtruck/posts/549934566420613)](assets/881ff264871f/1*fk3fJYL6_RjuVLokjKu0Vw.png)
+![Photo: [borderline europe](https://www.facebook.com/nonationtruck/posts/549934566420613)](../assets/881ff264871f/1*fk3fJYL6_RjuVLokjKu0Vw.png)
 
 Photo: [borderline europe](https://www.facebook.com/nonationtruck/posts/549934566420613)
 

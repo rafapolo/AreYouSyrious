@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 21/06/2018: Italy to seize two rescue ships
+title: "AYS Daily Digest 21/06/2018: Italy to seize two rescue ships"
 author: Are You Syrious?
 date: 2018-06-22T10:07:11.941+0100
 last_modified_at: 2018-06-22T15:11:40.254+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,eu-summit,rescue,lifeline]
 description: 220 people have drowned at sea off the coast of Libya over the past two days / Rescues continue off the coast of Spain / Mini EU summit on…
 image:
-  path: assets/f13ad5abca47/0*b5UnK8OOxuTppNO2.jpg
+  path: ../assets/f13ad5abca47/0*b5UnK8OOxuTppNO2.jpg
 ---
 
 ### AYS Daily Digest 21/06/2018: Italy to seize two rescue ships
@@ -15,7 +15,7 @@ image:
 _220 people have drowned at sea off the coast of Libya over the past two days / Rescues continue off the coast of Spain / Mini EU summit on migration takes place on Sunday / Solidarity march moves on in France / And more news…_
 
 
-![Photo by Danilo Campailla](assets/f13ad5abca47/0*b5UnK8OOxuTppNO2.jpg)
+![Photo by Danilo Campailla](../assets/f13ad5abca47/0*b5UnK8OOxuTppNO2.jpg)
 
 Photo by Danilo Campailla
 ### FEATURE
@@ -29,7 +29,7 @@ The Netherlands’ representation at the EU said the ship is owned by German NGO
 While Transport Minister Toninelli has said that the Libyan Coast Guard was already intervening in the rescue operations, Lifeline argues that they themselves were the “best equipped asset on scene, due to a situation in need of immediate response\.” It notes that the Libyan Coast Guard is not equipped with adequate life\-saving equipment and has no medical personnel on board, while refugees are not safe if taken back to Libya\. Lifeline adds that they were rescued in international waters, in line with international law\. Mission Lifeline now fears that a similar situation to the Aquarius one week ago could be on the horizon for them\.
 
 
-![Photo by Danilo Campailla](assets/f13ad5abca47/0*xcm11yOuO61hmq0w)
+![Photo by Danilo Campailla](../assets/f13ad5abca47/0*xcm11yOuO61hmq0w)
 
 Photo by Danilo Campailla
 
@@ -59,7 +59,7 @@ Other volunteer needs can be found on [Greecevol](https://www.greecevol.info/) ,
 #### People return to Dunkirk
 
 
-![Photo by Care4Calais](assets/f13ad5abca47/0*PBKldUnK_AnJBd3v)
+![Photo by Care4Calais](../assets/f13ad5abca47/0*PBKldUnK_AnJBd3v)
 
 Photo by Care4Calais
 
@@ -70,7 +70,7 @@ Refugee Info Bus continues to highlight the prominent police presence in Calais\
 #### Solidarity march continues north after leg in Paris
 
 
-![](assets/f13ad5abca47/0*xarU_r651DM9Wt4h)
+![](../assets/f13ad5abca47/0*xarU_r651DM9Wt4h)
 
 
 On Thursday, 170 people left Porte de la Chapelle in Paris as part of the solidarity march for migrants, stopping in Saint\-Denis, and continuing on until Sarcelles\. Undocumented migrants from Paris have now joined the march and will continue the route with the others\. The march, which started in Ventimiglia at the end of April, will continue on until London, passing through Calais\.

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 27/03/17: Number of Turkish asylum seekers doubled in 2016
+title: "AYS Daily Digest 27/03/17: Number of Turkish asylum seekers doubled in 2016"
 author: Are You Syrious?
 date: 2017-03-28T01:28:55.138+0100
 last_modified_at: 2017-03-28T10:36:32.902+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,turkey,coup,greece]
 description: More than 5000 people asked for asylum in EU-countries since the coup attempt / Help Refugees supports people in need in Idlib, Syria / Two…
 image:
-  path: assets/1b4347851a77/1*rcNBmXp_fLaoCfLPPBYOyw.jpeg
+  path: ../assets/1b4347851a77/1*rcNBmXp_fLaoCfLPPBYOyw.jpeg
 ---
 
 ### AYS Daily Digest 27/03/17: Number of Turkish asylum seekers doubled in 2016
@@ -15,7 +15,7 @@ image:
 _More than 5000 people asked for asylum in EU\-countries since the coup attempt / Help Refugees supports people in need in Idlib, Syria / Two people swim from Cesme to Chios / Man found hanged at Piraeus port / ECJ will rule on deportations / Still around 400 people in Calais / Insight report from Milano_
 
 
-![Credits: [Help Refugees](https://www.facebook.com/HelpRefugeesUK/photos/pcb.405603183133694/405602666467079/?type=3&theater)](assets/1b4347851a77/1*rcNBmXp_fLaoCfLPPBYOyw.jpeg)
+![Credits: [Help Refugees](https://www.facebook.com/HelpRefugeesUK/photos/pcb.405603183133694/405602666467079/?type=3&theater)](../assets/1b4347851a77/1*rcNBmXp_fLaoCfLPPBYOyw.jpeg)
 
 Credits: [Help Refugees](https://www.facebook.com/HelpRefugeesUK/photos/pcb.405603183133694/405602666467079/?type=3&theater)
 ### Feature
@@ -27,7 +27,7 @@ The case of eight Turkish soldiers, who landed with a helicopter in Greece on th
 [Further](http://www.hurriyetdailynews.com/236-turkish-citizens-sought-asylum-in-greece-since-coup-attempt.aspx?pageID=238&nID=111241&NewsCatID=351) , Turkish authorities demanded the extradition a second time, and Greece has to decide about it again\. But Greece is not the only country to take decision on asylum applications from soldiers of a NATO ally\. Norway already granted asylum to four soldiers and one military attache\. Germany received more than 5000 asylum applications of Turkish citizens since the coup attemp, data from the German Federal Ministry of the Interior revealed\.
 
 
-![Asylum applications from Turkish cizizens in Europe\. Credits: AYS Screenshot/ [Eurostat Database](http://appsso.eurostat.ec.europa.eu/nui/submitViewTableAction.do)](assets/1b4347851a77/1*8DTiYMaDsMmPr_k57Pxf7g.png)
+![Asylum applications from Turkish cizizens in Europe\. Credits: AYS Screenshot/ [Eurostat Database](http://appsso.eurostat.ec.europa.eu/nui/submitViewTableAction.do)](../assets/1b4347851a77/1*8DTiYMaDsMmPr_k57Pxf7g.png)
 
 Asylum applications from Turkish cizizens in Europe\. Credits: AYS Screenshot/ [Eurostat Database](http://appsso.eurostat.ec.europa.eu/nui/submitViewTableAction.do)
 
@@ -58,7 +58,7 @@ Meanwhile the High Negotiations Committee of the Syrian Opposition a declaration
 In Izmir volunteers recently distributed more than 1200 kilograms of food to people in need\. More than 100 families benefited from ther activities\. Further they tried to provide the children some lessons in tent\-schools\.
 
 
-![Volunteers entertain and educate children in Izmir\. Credits: [Paul Carr](https://www.facebook.com/photo.php?fbid=407400632959708&set=pcb.407392876293817&type=3&theater)](assets/1b4347851a77/1*7h1JTrNr3DBIAFpWgip6SQ.jpeg)
+![Volunteers entertain and educate children in Izmir\. Credits: [Paul Carr](https://www.facebook.com/photo.php?fbid=407400632959708&set=pcb.407392876293817&type=3&theater)](../assets/1b4347851a77/1*7h1JTrNr3DBIAFpWgip6SQ.jpeg)
 
 Volunteers entertain and educate children in Izmir\. Credits: [Paul Carr](https://www.facebook.com/photo.php?fbid=407400632959708&set=pcb.407392876293817&type=3&theater)
 ### Greece
@@ -72,7 +72,7 @@ Today we’ve also seen another proof of how desperate the situation in Turkey i
 In a nine hours long action two people from Algeria swam from Cesme to direction Chios, until the Hellenic Coast Guard picked them up\.
 
 
-![The swim\-suits of the two people, who swam from Turkey to Greece\. Credits: [Pothiti Kitromilidi](https://www.facebook.com/groups/421759534684819/permalink/609230182604419/)](assets/1b4347851a77/1*SQWvHa6CsJZZWpR9TTDNxw.jpeg)
+![The swim\-suits of the two people, who swam from Turkey to Greece\. Credits: [Pothiti Kitromilidi](https://www.facebook.com/groups/421759534684819/permalink/609230182604419/)](../assets/1b4347851a77/1*SQWvHa6CsJZZWpR9TTDNxw.jpeg)
 
 The swim\-suits of the two people, who swam from Turkey to Greece\. Credits: [Pothiti Kitromilidi](https://www.facebook.com/groups/421759534684819/permalink/609230182604419/)
 
@@ -83,7 +83,7 @@ To encourage people on the Agean islands to return to their home countries volun
 Following media reports of people being held in cages for hours during the registration in the closed camp of Vial, volunteers now report that the cage has been removed\. But the situation remains tense, also in the open camp Souda\.
 
 
-![Not Lesvos in 2015, but Chios in 2017\. Credits: [Samantha Malin](https://www.facebook.com/photo.php?fbid=10155155834068792&set=pcb.608976789296425&type=3&theater) \(cropped by AYS\)](assets/1b4347851a77/1*88C8rrOM9ZmIymP42keYCw.jpeg)
+![Not Lesvos in 2015, but Chios in 2017\. Credits: [Samantha Malin](https://www.facebook.com/photo.php?fbid=10155155834068792&set=pcb.608976789296425&type=3&theater) \(cropped by AYS\)](../assets/1b4347851a77/1*88C8rrOM9ZmIymP42keYCw.jpeg)
 
 Not Lesvos in 2015, but Chios in 2017\. Credits: [Samantha Malin](https://www.facebook.com/photo.php?fbid=10155155834068792&set=pcb.608976789296425&type=3&theater) \(cropped by AYS\)
 
@@ -104,7 +104,7 @@ To continue their work in camps around Thessaloniki, Kitrinos Healthcare team is
 A Czech team of volunteers in Sid distributed several supplies to people during the last week and organized a spring celebration\. As they are only four people, they are asking for support\. If you want to join them, please contact dobrovolnici@plnu\.cz\.
 
 
-![Food distribution in Sid\. Credits: Czech team](assets/1b4347851a77/1*jCB4ODZ8U0dSCV9N_nTrAg.jpeg)
+![Food distribution in Sid\. Credits: Czech team](../assets/1b4347851a77/1*jCB4ODZ8U0dSCV9N_nTrAg.jpeg)
 
 Food distribution in Sid\. Credits: Czech team
 ### Austria
@@ -117,7 +117,7 @@ Number of refugees in Calais stabilised around 300–400, mostly young men and t
 Salam distributes bread, tea and other things during the day\. L’auberge needs volunteers, money to buy food and to recycle sleeping bags and small and medium clothes for men\.
 
 
-![Volunteers distribute food in Calais\. Credits: [L’Auberge des Migrants](https://www.facebook.com/LAuberge-des-Migrants-358496450338/)](assets/1b4347851a77/1*WDjFnPovdhc8KkswcoXc_Q.jpeg)
+![Volunteers distribute food in Calais\. Credits: [L’Auberge des Migrants](https://www.facebook.com/LAuberge-des-Migrants-358496450338/)](../assets/1b4347851a77/1*WDjFnPovdhc8KkswcoXc_Q.jpeg)
 
 Volunteers distribute food in Calais\. Credits: [L’Auberge des Migrants](https://www.facebook.com/LAuberge-des-Migrants-358496450338/)
 ### Italy
@@ -137,7 +137,7 @@ Even though Italy has made huge efforts during the last months, the situation is
 The number of new arrivals remains high\. MSF reports, that only the Prudence and the Aquarius are on their way to the mainland to disembark more than 900 people\.
 
 
-![On the safe way to Italy\. Credits: [MSF\_SEA](https://twitter.com/MSF_Sea/status/846378482091413505)](assets/1b4347851a77/1*mZb5mOvxl8C7NhjMCOFhIQ.jpeg)
+![On the safe way to Italy\. Credits: [MSF\_SEA](https://twitter.com/MSF_Sea/status/846378482091413505)](../assets/1b4347851a77/1*mZb5mOvxl8C7NhjMCOFhIQ.jpeg)
 
 On the safe way to Italy\. Credits: [MSF\_SEA](https://twitter.com/MSF_Sea/status/846378482091413505)
 ### Morocco

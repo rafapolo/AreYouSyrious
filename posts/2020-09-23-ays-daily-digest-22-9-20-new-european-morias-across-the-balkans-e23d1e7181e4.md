@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 22/9/20: New European ‘Morias’ across the Balkans
+title: "AYS Daily Digest 22/9/20: New European ‘Morias’ across the Balkans"
 author: Are You Syrious?
 date: 2020-09-23T17:01:24.638+0100
 last_modified_at: 2020-09-23T19:23:56.305+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,un,refugees,migration,greece]
 description: Reflections from Bosnia and Herzegovina, staring in the face of collective misery and indifference / Will the new Pact prolong the same…
 image:
-  path: assets/e23d1e7181e4/1*tqCYLDmiltjDYp1Z8QZkmw.jpeg
+  path: ../assets/e23d1e7181e4/1*tqCYLDmiltjDYp1Z8QZkmw.jpeg
 ---
 
 ### AYS Daily Digest 22/9/20: New European ‘ _Morias’_ across the Balkans
 #### Reflections from Bosnia and Herzegovina, staring in the face of collective misery and indifference / Will the new Pact prolong the same mistakes tat brought to the current state in Greek camps and across the Balkans? / news and updates from Greece, Slovenia, France, Spain and Sweden
 
 
-![“Moria 2”, as the activist call it\. The second, provisional camp set up for the people evacuated from Moria \(Photo: [DunyaCollective](https://twitter.com/DunyaCollective) \)](assets/e23d1e7181e4/1*tqCYLDmiltjDYp1Z8QZkmw.jpeg)
+![“Moria 2”, as the activist call it\. The second, provisional camp set up for the people evacuated from Moria \(Photo: [DunyaCollective](https://twitter.com/DunyaCollective) \)](../assets/e23d1e7181e4/1*tqCYLDmiltjDYp1Z8QZkmw.jpeg)
 
 “Moria 2”, as the activist call it\. The second, provisional camp set up for the people evacuated from Moria \(Photo: [DunyaCollective](https://twitter.com/DunyaCollective) \)
 #### FEATURED
@@ -63,7 +63,7 @@ image:
 
 
 
-![Photo originally published by [Transbalkanska solidarnost](https://www.facebook.com/transbalkanskasolidarnost/?__xts__%5B0%5D=68.ARCKs23CtVANyWYc4XpTFGTkoLVVTWh0fVqbT-WtvRKZK3rooY9AVe3iFqdNpA7TG7TJpjcFWEuE5m5oKKAiN-OTz9-au2GUN_hD4hYe9wxpUzMmwYNCD_gc5UaXNbVpzFZg-VZZ8T94XA86lGOEYpkdwvZ9w-obXJ-lbgg8xyQjoi-9YQC39brBcwYh3wVcMaU_pDX5SfFEkvocm4hVRVbaojeBDsg-J5Brz55styU3dIdD7X5FCuWwVh7HAcNo_2i_C2W6LtdiH02WMruqj40jBUA8hmE1DYC4c-OgJ7SCE-Wgh4QyahMymcGMpWfJVtsiUM667avPzheKWpwPBGw&__tn__=k%2AF&tn-str=k%2AF) — the families who were left outside the Ušivak camp were taken in the day afterwards, but places in an unequipped common tent, all together\.](assets/e23d1e7181e4/1*oOYy8AbROtVD7URDBA18PQ.jpeg)
+![Photo originally published by [Transbalkanska solidarnost](https://www.facebook.com/transbalkanskasolidarnost/?__xts__%5B0%5D=68.ARCKs23CtVANyWYc4XpTFGTkoLVVTWh0fVqbT-WtvRKZK3rooY9AVe3iFqdNpA7TG7TJpjcFWEuE5m5oKKAiN-OTz9-au2GUN_hD4hYe9wxpUzMmwYNCD_gc5UaXNbVpzFZg-VZZ8T94XA86lGOEYpkdwvZ9w-obXJ-lbgg8xyQjoi-9YQC39brBcwYh3wVcMaU_pDX5SfFEkvocm4hVRVbaojeBDsg-J5Brz55styU3dIdD7X5FCuWwVh7HAcNo_2i_C2W6LtdiH02WMruqj40jBUA8hmE1DYC4c-OgJ7SCE-Wgh4QyahMymcGMpWfJVtsiUM667avPzheKWpwPBGw&__tn__=k%2AF&tn-str=k%2AF) — the families who were left outside the Ušivak camp were taken in the day afterwards, but places in an unequipped common tent, all together\.](../assets/e23d1e7181e4/1*oOYy8AbROtVD7URDBA18PQ.jpeg)
 
 Photo originally published by [Transbalkanska solidarnost](https://www.facebook.com/transbalkanskasolidarnost/?__xts__%5B0%5D=68.ARCKs23CtVANyWYc4XpTFGTkoLVVTWh0fVqbT-WtvRKZK3rooY9AVe3iFqdNpA7TG7TJpjcFWEuE5m5oKKAiN-OTz9-au2GUN_hD4hYe9wxpUzMmwYNCD_gc5UaXNbVpzFZg-VZZ8T94XA86lGOEYpkdwvZ9w-obXJ-lbgg8xyQjoi-9YQC39brBcwYh3wVcMaU_pDX5SfFEkvocm4hVRVbaojeBDsg-J5Brz55styU3dIdD7X5FCuWwVh7HAcNo_2i_C2W6LtdiH02WMruqj40jBUA8hmE1DYC4c-OgJ7SCE-Wgh4QyahMymcGMpWfJVtsiUM667avPzheKWpwPBGw&__tn__=k%2AF&tn-str=k%2AF) — the families who were left outside the Ušivak camp were taken in the day afterwards, but places in an unequipped common tent, all together\.
 
@@ -149,14 +149,14 @@ The tents at #Moria2 where set up quickly. They have no floor. What's if it rain
 Apart from the field not being safe for children or for sleeping, as it was used as a military shooting range, local groups say there is not enough food and water\. Water is distributed once a day in a food line, and according to some, only one bottle \(1,5 l\) per person is distributed per day\. The food delivered is the same as in Moria and of poor quality\.
 
 
-![Food line in the camp](assets/e23d1e7181e4/1*9IcglGmrzF4gMyDNtJXh8Q.jpeg)
+![Food line in the camp](../assets/e23d1e7181e4/1*9IcglGmrzF4gMyDNtJXh8Q.jpeg)
 
 Food line in the camp
 
 There doesn’t seem to be any proper organized medical infrastructure inside the new camp\. Patients have been asking for medical treatment for days, some groups say\. The situation remains as chaotic at it was in Moria\.
 
 
-![](assets/e23d1e7181e4/1*Hp5MmRag8PIR6L46NQ1oHA.jpeg)
+![](../assets/e23d1e7181e4/1*Hp5MmRag8PIR6L46NQ1oHA.jpeg)
 
 
 
@@ -350,7 +350,7 @@ Esto es lo poco que le importa el derecho a la vida a Marlaska y @[abalosmeco](h
 The Swedish Campaign group HÅLL IHOP SVERIGE will have a crucial meeting with the Swedish government representative\. Abdul Ghafoor will share his years of experience working with deportees, the challenges they face post deportation and the trend of re — migration among those deported to Afghanistan:
 
 
-![[Afghanistan Migrants Advice & Support Org](https://www.facebook.com/AmasoAfg/?tn-str=k%2AF&hc_location=group_dialog)](assets/e23d1e7181e4/1*_uE0blUK4H_7NpNrxukKLg.jpeg)
+![[Afghanistan Migrants Advice & Support Org](https://www.facebook.com/AmasoAfg/?tn-str=k%2AF&hc_location=group_dialog)](../assets/e23d1e7181e4/1*_uE0blUK4H_7NpNrxukKLg.jpeg)
 
 [Afghanistan Migrants Advice & Support Org](https://www.facebook.com/AmasoAfg/?tn-str=k%2AF&hc_location=group_dialog)
 #### FOR FURTHER READING

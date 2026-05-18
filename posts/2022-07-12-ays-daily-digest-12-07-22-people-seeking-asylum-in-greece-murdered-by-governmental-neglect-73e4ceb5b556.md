@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 12/07/22: People seeking asylum in Greece murdered by governmental neglect
+title: "AYS Daily Digest 12/07/22: People seeking asylum in Greece murdered by governmental neglect"
 author: Are You Syrious?
 date: 2022-07-12T19:35:02.230+0100
 last_modified_at: 2022-07-12T21:51:39.447+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,greece,refugees,europe,migration]
 description: One woman tragically and needlessly died. The other two women remain missing / People still stuck on board Geo Barents / Syrian aid access…
 image:
-  path: assets/73e4ceb5b556/1*qZoKJ_JGW19C2FFD5ITsxg.jpeg
+  path: ../assets/73e4ceb5b556/1*qZoKJ_JGW19C2FFD5ITsxg.jpeg
 ---
 
 ### AYS Daily Digest 12/07/22: People seeking asylum in Greece murdered by governmental neglect
 #### One woman tragically and needlessly died\. The other two women remain missing / People still stuck on board Geo Barents / Syrian aid access resolution expires amid UN Security Council standoff / What Germany’s asylum reform means for people with a ‘Duldung’ / & more reporting and news from our info team
 
 
-![In Strasbourg, fighting for a chance for those without regularised stay \(Photo: D’ailleurs Nous Sommes d’Ici 67\)](assets/73e4ceb5b556/1*qZoKJ_JGW19C2FFD5ITsxg.jpeg)
+![In Strasbourg, fighting for a chance for those without regularised stay \(Photo: D’ailleurs Nous Sommes d’Ici 67\)](../assets/73e4ceb5b556/1*qZoKJ_JGW19C2FFD5ITsxg.jpeg)
 
 In Strasbourg, fighting for a chance for those without regularised stay \(Photo: D’ailleurs Nous Sommes d’Ici 67\)
 #### **FEATURE**
@@ -170,11 +170,11 @@ Find our newest report from France in the Specials sections, tomorrow\!
 In the meantime, in Strasbourg, meeting with the representatives of the City of Strasbourg due to eviction and an announcement that people will be placed in a gymnasium sports hall… D’ailleurs Nous Sommes d’Ici 67:
 
 
-![](assets/73e4ceb5b556/1*lK0twzpEKvFZZcbgzHVd9A.jpeg)
+![](../assets/73e4ceb5b556/1*lK0twzpEKvFZZcbgzHVd9A.jpeg)
 
 
 
-![Photos: D’ailleurs Nous Sommes d’Ici 67](assets/73e4ceb5b556/1*zi79TnvTv9_oU0KXx2XKPQ.jpeg)
+![Photos: D’ailleurs Nous Sommes d’Ici 67](../assets/73e4ceb5b556/1*zi79TnvTv9_oU0KXx2XKPQ.jpeg)
 
 Photos: D’ailleurs Nous Sommes d’Ici 67
 #### POLAND

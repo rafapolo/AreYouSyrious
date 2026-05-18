@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Being recruited by smugglers
+title: "AYS SPECIAL: Being recruited by smugglers"
 author: Are You Syrious?
 date: 2019-01-04T08:29:04.539+0000
 last_modified_at: 2019-01-06T17:37:03.704+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,special,bosnia-and-herzegovina,balkan-route,migrations]
 description: To reach the European Union from Bosnia one person needs over 3000 euros. Since there are no legal opportunities for transit and crossing…
 image:
-  path: assets/144b3cb2cf7e/1*-WZhJD0dXwrs60LX2w-cWg.jpeg
+  path: ../assets/144b3cb2cf7e/1*-WZhJD0dXwrs60LX2w-cWg.jpeg
 ---
 
 ### AYS SPECIAL: Being recruited by smugglers
@@ -15,7 +15,7 @@ image:
 _To reach the European Union from Bosnia one person needs over 3000 euros\. Since there are no legal opportunities for transit and crossing the border irregularly on foot is almost impossible, people have become reliant on smugglers\. In a bid to earn their way towards Europe, some turn to the very smuggling networks that they seek to move with\._
 
 
-![](assets/144b3cb2cf7e/1*-WZhJD0dXwrs60LX2w-cWg.jpeg)
+![](../assets/144b3cb2cf7e/1*-WZhJD0dXwrs60LX2w-cWg.jpeg)
 
 
 **Velika Kladuša, in the north\-west of Bosnia and Herzegovina** — A quiet flat filled with cigarette smoke\. Ahmad \(22, Syria\) is sunk into a couch and holds a tissue full of his own blood\. He is cleaning his open wounds and removing thorns from his skin after a long walk in the forest\. His hands are shaking and his eyes, exhausted, are struggling to stay open\. He returned several hours before from the Croatian border which marks the entry\-point into the European Union for refugees and migrants travelling along the Balkan Route\.
@@ -27,7 +27,7 @@ Ahmad is similar to the other 23,000 people\-in\-transit who entered Bosnia\-Her
 The majority of those seeking to pass along this route and claim asylum suffer physical violence from police officers, are robbed, and then [pushed back to Bosnia](http://www.nonamekitchen.org/wp-content/uploads/2017/04/Selected-November-reports.pdf) \. Since there are no legal opportunities for transit, and crossing the border irregularly on foot is almost impossible, people have become reliant on smugglers\. Human smugglers offer “safer” alternatives of transport in cars to Slovenia and then Italy\. From there, people continue their journeys further on towards western and northern Europe\.
 
 
-![People on the move rather pay thousands of euros to smugglers than walk through mountains and risk being beaten and pushed back by Croatian police, like this man\. Photo by Angélica Sánchez](assets/144b3cb2cf7e/1*a-3WoYGUnba5sJ-E6rpwjw.jpeg)
+![People on the move rather pay thousands of euros to smugglers than walk through mountains and risk being beaten and pushed back by Croatian police, like this man\. Photo by Angélica Sánchez](../assets/144b3cb2cf7e/1*a-3WoYGUnba5sJ-E6rpwjw.jpeg)
 
 People on the move rather pay thousands of euros to smugglers than walk through mountains and risk being beaten and pushed back by Croatian police, like this man\. Photo by Angélica Sánchez
 
@@ -44,7 +44,7 @@ _“If you understand GPS, you can speak a few languages and you are not scared,
 Like Omar, his boss, Abu Hamza was a refugee himself several years ago and saw an opportunity for good business in “helping” people cross the border\. While sitting in a café in Velika Kladuša, one can notice several young men from Afghanistan and Pakistan recruiting clients and negotiating the prices of transit\.
 
 
-![Young men and minors working for human smugglers recruit clients, negotiate the prices of transit, and walk them across the borders to an awaiting car\. Photo by Angélica Sánchez](assets/144b3cb2cf7e/1*wTxmTxYtSiC4gjlZxIwuig.jpeg)
+![Young men and minors working for human smugglers recruit clients, negotiate the prices of transit, and walk them across the borders to an awaiting car\. Photo by Angélica Sánchez](../assets/144b3cb2cf7e/1*wTxmTxYtSiC4gjlZxIwuig.jpeg)
 
 Young men and minors working for human smugglers recruit clients, negotiate the prices of transit, and walk them across the borders to an awaiting car\. Photo by Angélica Sánchez
 
@@ -59,7 +59,7 @@ Young men work for diverse smuggling networks in these small north\-western Bosn
 _“Me and my friends gave a smuggler 10,000 euros\. We were waiting in a forest in Croatia for days, but no car came\. We have never seen the smuggler and our money anymore,”_ said Faled \(27, Palestine\) _“That is why I got involved in smuggling\. I want to give people fair prices and be a person who helps them, not to abuse them\.”_
 
 
-![People on the move surviving for months and years in abandoned houses and provisional camps see smuggling as the only opportunity to make money and move on from Bosnia\. Photo by Angélica Sánchez](assets/144b3cb2cf7e/1*abBfMv2gZhEmETT9NepgkQ.jpeg)
+![People on the move surviving for months and years in abandoned houses and provisional camps see smuggling as the only opportunity to make money and move on from Bosnia\. Photo by Angélica Sánchez](../assets/144b3cb2cf7e/1*abBfMv2gZhEmETT9NepgkQ.jpeg)
 
 People on the move surviving for months and years in abandoned houses and provisional camps see smuggling as the only opportunity to make money and move on from Bosnia\. Photo by Angélica Sánchez
 

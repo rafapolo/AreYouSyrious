@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 31/8: Devastating effects of the lack of information on refugees
+title: "AYS DAILY DIGEST 31/8: Devastating effects of the lack of information on refugees"
 author: Are You Syrious?
 date: 2016-08-31T22:50:48.016+0100
 last_modified_at: 2016-09-01T08:51:22.019+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,greece,msf,italy]
 description: More arrivals to Italy and Greece and more help is needed. Greece islands are overcrowded, again. German Chancellor admits EU ignored the…
 image:
-  path: assets/1fcfd2e0b13/1*4gyEla314k2SOCpNQRxsuw.jpeg
+  path: ../assets/1fcfd2e0b13/1*4gyEla314k2SOCpNQRxsuw.jpeg
 ---
 
 ### AYS DAILY DIGEST 31/8: Devastating effects of the lack of information on refugees
@@ -15,7 +15,7 @@ image:
 _More arrivals to Italy and Greece and more help is needed\. Greece islands are overcrowded, again\. German Chancellor admits EU ignored the need for a pan\-European solution for refugee crisis\. Paris to open two new refugee centers\. Info for refugees who are being relocated to Romania_
 
 
-![Music workshop delivered by the [Symbiosis team](https://www.facebook.com/symbiosislesvos/) at Pikpa solidarity refugee camp\. \| Photos by Elizabeth Argyll & Jesper Houborg & some of the children at PIKPA](assets/1fcfd2e0b13/1*4gyEla314k2SOCpNQRxsuw.jpeg)
+![Music workshop delivered by the [Symbiosis team](https://www.facebook.com/symbiosislesvos/) at Pikpa solidarity refugee camp\. \| Photos by Elizabeth Argyll & Jesper Houborg & some of the children at PIKPA](../assets/1fcfd2e0b13/1*4gyEla314k2SOCpNQRxsuw.jpeg)
 
 Music workshop delivered by the [Symbiosis team](https://www.facebook.com/symbiosislesvos/) at Pikpa solidarity refugee camp\. \| Photos by Elizabeth Argyll & Jesper Houborg & some of the children at PIKPA
 ### Greece
@@ -33,7 +33,7 @@ According to the official figures, since March, the number of refugees on Greek 
 Karrar and his sister are living in Vasilika camp\. He filmed a short video to show us the lives they and others lead in the camp\. Children from the camps have questions for Europeans\. Do we have answers?
 
 
-[!["Just Crumbs" - about refugees in Greece - مجرد بقايا"عن اللاجئين في اليونان"](assets/1fcfd2e0b13/93d7_hqdefault.jpg ""Just Crumbs" - about refugees in Greece - مجرد بقايا"عن اللاجئين في اليونان"")](http://www.youtube.com/watch?v=Dqr7_wvxVL0)
+[!["Just Crumbs" - about refugees in Greece - مجرد بقايا"عن اللاجئين في اليونان"](../assets/1fcfd2e0b13/93d7_hqdefault.jpg ""Just Crumbs" - about refugees in Greece - مجرد بقايا"عن اللاجئين في اليونان"")](http://www.youtube.com/watch?v=Dqr7_wvxVL0)
 
 
 [Help Refugees](http://helprefugees.org.uk) did a mini survey in Vasilika camp finding out that 1,093 people are living there\. Out of that number, 510 are under the age of 18\. The results are showing also that around half of the people in the camp have relatives in Europe, meaning they can join them\.
@@ -90,7 +90,7 @@ Our friend today writes about Lagadika camp\.
 
 
 
-![](assets/1fcfd2e0b13/1*oHg5EPuL2B6Ee34F8Lb4cA.jpeg)
+![](../assets/1fcfd2e0b13/1*oHg5EPuL2B6Ee34F8Lb4cA.jpeg)
 
 
 [InterVolvere](https://www.facebook.com/219418945063168/photos/a.256091268062602.1073741829.219418945063168/331476300524098/?type=3&hc_location=ufi) needs your help, urgently\. Due to increasing demands in the two camps they work in, Softex and Vasilika, and emergency response to other camps in the region, their warehouse stock is running dangerously low\.
@@ -173,20 +173,20 @@ Below is the list of continuous needs for distributions in camps\.
 In Kara Tepe camp, [ART Angels Relief Team](https://www.facebook.com/AngelsReliefTeamART/) is working with refugees on creating beautiful things\. Both men and women from Afghanistan, Eritrea, Iraq and Syria are involved in their art, sewing, and music community\. But they need donations of fabrics textiles in white, black, brown, dark blue, cotton, viscose, and lino, plus sewing tools\. They also need three more chairs\.
 
 
-![](assets/1fcfd2e0b13/1*sGOhJUwnBgVY_FFO8Lj9AA.jpeg)
+![](../assets/1fcfd2e0b13/1*sGOhJUwnBgVY_FFO8Lj9AA.jpeg)
 
 
 
-![Photo by ART\.](assets/1fcfd2e0b13/1*5gKci5NpMg5A3_U70gsjZg.jpeg)
+![Photo by ART\.](../assets/1fcfd2e0b13/1*5gKci5NpMg5A3_U70gsjZg.jpeg)
 
 Photo by ART\.
 
 
-![](assets/1fcfd2e0b13/1*oHBeOQvgcqIxkzAfC6NzIw.jpeg)
+![](../assets/1fcfd2e0b13/1*oHBeOQvgcqIxkzAfC6NzIw.jpeg)
 
 
 
-![](assets/1fcfd2e0b13/1*JcsIKa1tKl2BYU6ftKSy3Q.jpeg)
+![](../assets/1fcfd2e0b13/1*JcsIKa1tKl2BYU6ftKSy3Q.jpeg)
 
 
 Latest figures are showing that 30 percent of the refugee population on Chios are women, aged 15 years or over\. Currently, there are only volunteer\-led social projects that exist on Chios and are aimed at mothers with babies, or provide schooling for children\. There are currently no facilities specifically catering to the needs of the women on the island\. They have no safe place to gather, to take a break from camp life and to just be themselves\.
@@ -263,7 +263,7 @@ Food is needed in the camp\. [Dunkirk Refugee Solidarity](https://www.facebook.c
 Please don’t forget them\.
 
 
-![Half empty kitchen shelves\. Photo by Dunkirk Refugee Solidarity\.](assets/1fcfd2e0b13/1*50J7RiDkFLGvOL5iyRLTHw.jpeg)
+![Half empty kitchen shelves\. Photo by Dunkirk Refugee Solidarity\.](../assets/1fcfd2e0b13/1*50J7RiDkFLGvOL5iyRLTHw.jpeg)
 
 Half empty kitchen shelves\. Photo by Dunkirk Refugee Solidarity\.
 ### General

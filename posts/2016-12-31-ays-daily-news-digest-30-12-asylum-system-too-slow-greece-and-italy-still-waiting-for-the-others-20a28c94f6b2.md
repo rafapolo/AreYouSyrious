@@ -1,5 +1,5 @@
 ---
-title: AYS Daily News Digest 30/12: asylum system too slow, Greece and Italy still waiting for the others…
+title: "AYS Daily News Digest 30/12: asylum system too slow, Greece and Italy still waiting for the others…"
 author: Are You Syrious?
 date: 2016-12-31T04:01:06.464+0000
 last_modified_at: 2016-12-31T04:01:06.464+0000
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,greece,germany,italy]
 description: winter seriously threatening people on Greek islands, in camps and streets; growing need to tackle the problem of drugs and prostitution…
 image:
-  path: assets/20a28c94f6b2/1*GlF3q58V7ElTGCGkR97UeQ.jpeg
+  path: ../assets/20a28c94f6b2/1*GlF3q58V7ElTGCGkR97UeQ.jpeg
 ---
 
 ### AYS Daily News Digest 30/12: asylum system too slow, Greece and Italy still waiting for the others to pitch in
 #### winter seriously threatening people on Greek islands, in camps and streets; growing need to tackle the problem of drugs and prostitution among young refugees in Greece; Oraiokastro finally getting electricity provided by the volunteers \| Despite nationwide truce deal in Syria, airstrikes under way and anti\-regime protests going on\| Italy struggling at the end of a difficult year \| France faces rejection by Mali \| increasing number of asylum applications in Germany
 
 
-![A Yazidi child in a camp in Greece where they live and wait\. Photo: [Migrant Jaeyd Yezidi](https://www.facebook.com/profile.php?id=100004580628675)](assets/20a28c94f6b2/1*GlF3q58V7ElTGCGkR97UeQ.jpeg)
+![A Yazidi child in a camp in Greece where they live and wait\. Photo: [Migrant Jaeyd Yezidi](https://www.facebook.com/profile.php?id=100004580628675)](../assets/20a28c94f6b2/1*GlF3q58V7ElTGCGkR97UeQ.jpeg)
 
 A Yazidi child in a camp in Greece where they live and wait\. Photo: [Migrant Jaeyd Yezidi](https://www.facebook.com/profile.php?id=100004580628675)
 #### GREECE
@@ -29,7 +29,7 @@ No new registrations were officially made on the Greek islands this Friday\.
 
 
 
-![Photo by: [Lighthouse Relief](https://www.facebook.com/lighthouserelief/)](assets/20a28c94f6b2/1*DuaX11Y15xGZBdOqOo6_rw.jpeg)
+![Photo by: [Lighthouse Relief](https://www.facebook.com/lighthouserelief/)](../assets/20a28c94f6b2/1*DuaX11Y15xGZBdOqOo6_rw.jpeg)
 
 Photo by: [Lighthouse Relief](https://www.facebook.com/lighthouserelief/)
 
@@ -43,11 +43,11 @@ Continuing worsening of the [weather conditions](https://medium.com/@AreYouSyrio
 
 
 
-![](assets/20a28c94f6b2/1*LwqpgA01ma_kkUJcuwHTSw.jpeg)
+![](../assets/20a28c94f6b2/1*LwqpgA01ma_kkUJcuwHTSw.jpeg)
 
 
 
-![Moria camp, December 30 \(Photos: [Philippa Kempson](https://www.facebook.com/philippa.kempson.1) \)](assets/20a28c94f6b2/1*d_GFDV5BsCXEPglr6br6sQ.jpeg)
+![Moria camp, December 30 \(Photos: [Philippa Kempson](https://www.facebook.com/philippa.kempson.1) \)](../assets/20a28c94f6b2/1*d_GFDV5BsCXEPglr6br6sQ.jpeg)
 
 Moria camp, December 30 \(Photos: [Philippa Kempson](https://www.facebook.com/philippa.kempson.1) \)
 
@@ -69,7 +69,7 @@ We need lamps and chairs for our ISO Box in Kara Tepe\.
 2\. Violins 4/4 x 2, 1/8 x 2\.
 3\.We need few good quality violin cases 4/4 x 2, 2/2 x1\.
 5\. We need an Irish Harp or Ancient Greek Lyra\.
-6\. We need volunteers,art therapist with a car for 4 hours for 5 days a week\. “— contact: artangelsreliefteam@gmail\.com](assets/20a28c94f6b2/1*tEf0UrQGxZ2Beqh3zEkozg.jpeg)
+6\. We need volunteers,art therapist with a car for 4 hours for 5 days a week\. “— contact: artangelsreliefteam@gmail\.com](../assets/20a28c94f6b2/1*tEf0UrQGxZ2Beqh3zEkozg.jpeg)
 
 [**ART Angels Relief Team**](https://www.facebook.com/ARTMusicTeam/) **working with children on Lesvos need support:** “We need financial support\.
 Volunteers composers and choir director, string musicians,Guitar and flute teachers\.
@@ -87,16 +87,16 @@ We need lamps and chairs for our ISO Box in Kara Tepe\.
 Thanks to the efforts of a group of volunteers and some residents of the camp, Oraiokastro might finally have reliable electricity inside the halls\.
 
 
-![](assets/20a28c94f6b2/1*dWgqo4mE2d7RvVNZSKq3Dg.jpeg)
+![](../assets/20a28c94f6b2/1*dWgqo4mE2d7RvVNZSKq3Dg.jpeg)
 
 
 
-![Taking matters into their own hands is [The Get Shit Done Team](https://www.facebook.com/The-Get-Shit-Done-Team-304001796641127/) with the support of Help Refugees](assets/20a28c94f6b2/1*P42Uj6ZI7y9W5Mm0N0TWXg.jpeg)
+![Taking matters into their own hands is [The Get Shit Done Team](https://www.facebook.com/The-Get-Shit-Done-Team-304001796641127/) with the support of Help Refugees](../assets/20a28c94f6b2/1*P42Uj6ZI7y9W5Mm0N0TWXg.jpeg)
 
 Taking matters into their own hands is [The Get Shit Done Team](https://www.facebook.com/The-Get-Shit-Done-Team-304001796641127/) with the support of Help Refugees
 
 
-![“After many talks with the Commander, Military electrical engineers, Swiss Cross and the refugee community the work finally begins\. First up laying the 200m warehouse with cable trays along both sides\. No easy task\. All the tents are less than 1m from the walls and less than 1m apart from each other\. With safety harnesses attached the team with the support of the refugee community scurry the ladders with tray and drills in hand\. While back at the workshop the 4m posts are being prepared\. It’s all go and together we will get this camp electrified\!” — [The Get Shit Done Team](https://www.facebook.com/The-Get-Shit-Done-Team-304001796641127/)](assets/20a28c94f6b2/1*bw9FnbArkJXyROrrx6krnQ.jpeg)
+![“After many talks with the Commander, Military electrical engineers, Swiss Cross and the refugee community the work finally begins\. First up laying the 200m warehouse with cable trays along both sides\. No easy task\. All the tents are less than 1m from the walls and less than 1m apart from each other\. With safety harnesses attached the team with the support of the refugee community scurry the ladders with tray and drills in hand\. While back at the workshop the 4m posts are being prepared\. It’s all go and together we will get this camp electrified\!” — [The Get Shit Done Team](https://www.facebook.com/The-Get-Shit-Done-Team-304001796641127/)](../assets/20a28c94f6b2/1*bw9FnbArkJXyROrrx6krnQ.jpeg)
 
 “After many talks with the Commander, Military electrical engineers, Swiss Cross and the refugee community the work finally begins\. First up laying the 200m warehouse with cable trays along both sides\. No easy task\. All the tents are less than 1m from the walls and less than 1m apart from each other\. With safety harnesses attached the team with the support of the refugee community scurry the ladders with tray and drills in hand\. While back at the workshop the 4m posts are being prepared\. It’s all go and together we will get this camp electrified\!” — [The Get Shit Done Team](https://www.facebook.com/The-Get-Shit-Done-Team-304001796641127/)
 
@@ -108,7 +108,7 @@ Those preparing for interviews or without a provided translation of the Greek do
 Notara 26 squat is looking for donations\. Please consider helping them by donating or providing the following:
 
 
-![](assets/20a28c94f6b2/1*oMYVqMf8tqAVvVWFet_fyQ.jpeg)
+![](../assets/20a28c94f6b2/1*oMYVqMf8tqAVvVWFet_fyQ.jpeg)
 
 
 Due to extremely low temperatures 5 metro stations in Athens will remain open during the night in order to host homeless people:
@@ -131,7 +131,7 @@ You can also join [Refugees’ Refuge](https://www.facebook.com/RefugeesRefuge/)
 
 ![إذا رأيت شخص بلا مأوى في اثينا يحتاج إلى مساعدة، فرجاءً اتصل على الرقم: 1595
 If you see a homeless person in Athens who may need help, call: 1595, [Refugee\.Info](https://www.facebook.com/refugee.info/?fref=nf) warns\.
-اگر فرد بی خانمانی را در آتن دیدید که به کمک احتیاج داشت، لطفن با شماره زیر تماس بگیرید: 1595](assets/20a28c94f6b2/1*XxfNqpCbMQThCA2NiyK9BA.jpeg)
+اگر فرد بی خانمانی را در آتن دیدید که به کمک احتیاج داشت، لطفن با شماره زیر تماس بگیرید: 1595](../assets/20a28c94f6b2/1*XxfNqpCbMQThCA2NiyK9BA.jpeg)
 
 إذا رأيت شخص بلا مأوى في اثينا يحتاج إلى مساعدة، فرجاءً اتصل على الرقم: 1595
 If you see a homeless person in Athens who may need help, call: 1595, [Refugee\.Info](https://www.facebook.com/refugee.info/?fref=nf) warns\.
@@ -145,7 +145,7 @@ Some of them end up going deeper into the area of drug abuse\. Few organisations
 Greek court on Friday ordered the conditional release of two Spanish self\-styled activists arrested for allegedly trying to take a group of migrants out of the country\. In a taped message, the pair said they wanted to make a political statement of “disobedience” to the “barbaric” policies of European governments who have raised borders of “death” to refugees\. Over 13,000 people had earlier signed an online petition to release the two activists, [Ekathimerini](http://www.ekathimerini.com/214946/article/ekathimerini/news/spaniards-arrested-for-transporting-migrants-released) reports\.
 
 
-![Protest in Thessaloniki in support to the two Spanish activists \(Photo: [**Aitor Txabarri**](https://twitter.com/aitortxabarrii) **\)**](assets/20a28c94f6b2/1*K-flGwmoof-bwMCoHq4e1g.jpeg)
+![Protest in Thessaloniki in support to the two Spanish activists \(Photo: [**Aitor Txabarri**](https://twitter.com/aitortxabarrii) **\)**](../assets/20a28c94f6b2/1*K-flGwmoof-bwMCoHq4e1g.jpeg)
 
 Protest in Thessaloniki in support to the two Spanish activists \(Photo: [**Aitor Txabarri**](https://twitter.com/aitortxabarrii) **\)**
 #### SYRIA
@@ -157,11 +157,11 @@ The UN [expressed concern](http://reliefweb.int/report/syrian-arab-republic/four
 After the declaration of a nation\-wide ceasefire, Syrians across rebel\-held towns and cities came out today to protest against the Assad regime\.
 
 
-![](assets/20a28c94f6b2/1*YOyTtsDKlkvgI974-1JPsQ.jpeg)
+![](../assets/20a28c94f6b2/1*YOyTtsDKlkvgI974-1JPsQ.jpeg)
 
 
 
-![\(left photo sign translates: “The people are the revolution and it’s our right to know who is negotiating and what is happening”\) — Protesters gathered in different parts of Syria \( Photos by: Muhammad Mansour\)](assets/20a28c94f6b2/1*EJ7MciUbqkgTl39oMG7ItQ.jpeg)
+![\(left photo sign translates: “The people are the revolution and it’s our right to know who is negotiating and what is happening”\) — Protesters gathered in different parts of Syria \( Photos by: Muhammad Mansour\)](../assets/20a28c94f6b2/1*EJ7MciUbqkgTl39oMG7ItQ.jpeg)
 
 \(left photo sign translates: “The people are the revolution and it’s our right to know who is negotiating and what is happening”\) — Protesters gathered in different parts of Syria \( Photos by: Muhammad Mansour\)
 #### JORDAN
@@ -195,7 +195,7 @@ As there was no further developments in the situation, the team assisting the re
 In 2015, EU member states promised to relocate 40,000 asylum seekers from Italy to other countries over two years, but only 2,654 have so far been moved\. Several states have refused to take any\. After an agreement between the European Union and Turkey to curb the flow of migrants sailing for Greece, Italy became the focus of people smugglers based mostly in Libya, who pack men, women and children onto unsafe boats for the crossing, [Reuters](http://news.trust.org/item/20161230153019-zqxuz) reports\.
 
 
-![“A cold welcome” by [**Como senza frontiere**](https://www.facebook.com/comosenzafrontiere/?fref=nf) — at 2am in the night 51 person was found in the street at temperature of \-1 degree celsius\.](assets/20a28c94f6b2/1*1JiILSSYbUukdmpUc62EZg.png)
+![“A cold welcome” by [**Como senza frontiere**](https://www.facebook.com/comosenzafrontiere/?fref=nf) — at 2am in the night 51 person was found in the street at temperature of \-1 degree celsius\.](../assets/20a28c94f6b2/1*1JiILSSYbUukdmpUc62EZg.png)
 
 “A cold welcome” by [**Como senza frontiere**](https://www.facebook.com/comosenzafrontiere/?fref=nf) — at 2am in the night 51 person was found in the street at temperature of \-1 degree celsius\.
 #### \-Eviction\!
@@ -204,7 +204,7 @@ In 2015, EU member states promised to relocate 40,000 asylum seekers from Italy 
 North of Milan, about 50 refugees have squatted an empty 3 story building on December 21\. A local priest wrote an [open letter](http://milano.fanpage.it/migranti-occupano-palazzo-a-milano-un-prete-sgombero-la-replica-non-abbiate-paura/) to the police to get them to evacuate the building, claiming the situation could become uncontrollable and that he is concerned about safety and public order\. The police claimed they cannot do anything if the owner of the building doesn’t complain\. The refugees answered by letter in which they ask them not to be afraid, inviting to solidarity, claiming they want to contribute to the town and inviting the parish priest to have a tea together and talk about the possible solutions\.
 
 
-![Letter sent by the refugees](assets/20a28c94f6b2/1*d6LYr-jyAGMnPdXonlamug.jpeg)
+![Letter sent by the refugees](../assets/20a28c94f6b2/1*d6LYr-jyAGMnPdXonlamug.jpeg)
 
 Letter sent by the refugees
 #### FRANCE
@@ -235,7 +235,7 @@ Germany’s official crime statistics show that the number of crimes committed b
 CalAid needs help sorting and packing aid **Sunday 8 January** 9\.30am — 4\.30pm in Slough\. If you can help pls email info@calaid\.co\.uk
 
 
-![News That Moves latest edition of Rumours](assets/20a28c94f6b2/1*XRouDFfuO8ZG4mZMLS5RmQ.jpeg)
+![News That Moves latest edition of Rumours](../assets/20a28c94f6b2/1*XRouDFfuO8ZG4mZMLS5RmQ.jpeg)
 
 News That Moves latest edition of Rumours
 

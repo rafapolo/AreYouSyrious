@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 28/01/2018: More than 200 reach Lesvos in one day
+title: "AYS Daily Digest 28/01/2018: More than 200 reach Lesvos in one day"
 author: Are You Syrious?
 date: 2018-01-29T01:37:43.344+0000
 last_modified_at: 2018-01-29T10:16:02.040+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,refugeeswelcome,asylum-seekers,europe,libya]
 description: 200 arrive on Lesvos / Increasing pull-backs in Libya / 1500 people in the streets of Paris / Tents needed in Calais / Calls for donations…
 image:
-  path: assets/f1c4b6283936/1*rHz4kaPdTOiNt4aJhpjTEg.jpeg
+  path: ../assets/f1c4b6283936/1*rHz4kaPdTOiNt4aJhpjTEg.jpeg
 ---
 
 ### AYS Daily Digest 28/01/2018: More than 200 reach Lesvos in one day
@@ -16,7 +16,7 @@ image:
 
 ![Lesvos, Greece January 2018
 A refugee boy with a stray dog in Moria refugee camp\. People live under terrible and dangerous conditions in tents under freezing temperatures\.
-Photo by Fotomovimiento](assets/f1c4b6283936/1*rHz4kaPdTOiNt4aJhpjTEg.jpeg)
+Photo by Fotomovimiento](../assets/f1c4b6283936/1*rHz4kaPdTOiNt4aJhpjTEg.jpeg)
 
 Lesvos, Greece January 2018
 A refugee boy with a stray dog in Moria refugee camp\. People live under terrible and dangerous conditions in tents under freezing temperatures\.
@@ -59,11 +59,11 @@ SOS MEDITERRANEE published a [press release](http://sosmediterranee.org/tragic-d
 The LCG should not have refused the support of SOS Med\. SOS Med was instructed by MRCC and was better equipped\. According to the SAR rules, in such cases, SOS Med becomes the on\-scene co\-ordination and the activities shall be co\-ordinated to ensure the most effective result, [Paolo Biondi](https://twitter.com/PaoloBiondi82) wrote\.
 
 
-![](assets/f1c4b6283936/1*LHHcZB4RxidwrnfsR6CX1Q.jpeg)
+![](../assets/f1c4b6283936/1*LHHcZB4RxidwrnfsR6CX1Q.jpeg)
 
 
 
-![Photos by Laurin Schmid / [SOS MEDITERRANEE France](https://www.facebook.com/sosmedfrance/?fref=mentions)](assets/f1c4b6283936/1*Wx0G-VjV78ZV5o316G79wQ.jpeg)
+![Photos by Laurin Schmid / [SOS MEDITERRANEE France](https://www.facebook.com/sosmedfrance/?fref=mentions)](../assets/f1c4b6283936/1*Wx0G-VjV78ZV5o316G79wQ.jpeg)
 
 Photos by Laurin Schmid / [SOS MEDITERRANEE France](https://www.facebook.com/sosmedfrance/?fref=mentions)
 
@@ -109,11 +109,11 @@ For almost a year, RLCA has been providing legal information for asylum seekers 
 [IHA — InterEuropean Human Aid Association](https://www.facebook.com/iha.help/) ’s Food Project currently supports three refugee camps and two community centres in the Thessaloniki area\. Their team on the ground considers people’s wishes as far as possible in their budget planning and when ordering at the greengrocer\. Though choice is limited during the winter months, they are able to offer a balanced selection of vegetables\. Donations are still welcome [here](http://www.iha.help/en/help/donating-money/) \.
 
 
-![](assets/f1c4b6283936/1*mc6fdmd-rRtKtCusYs_9Mg.jpeg)
+![](../assets/f1c4b6283936/1*mc6fdmd-rRtKtCusYs_9Mg.jpeg)
 
 
 
-![Photos: IHA](assets/f1c4b6283936/1*k42COeuZT5mC6V3ZlMSp0Q.jpeg)
+![Photos: IHA](../assets/f1c4b6283936/1*k42COeuZT5mC6V3ZlMSp0Q.jpeg)
 
 Photos: IHA
 #### SERBIA
@@ -128,7 +128,7 @@ All refugees and asylum seekers in Belgrade are welcome to join hourly classes i
 If you have any questions, please write at: theworkshop@northstarserbia\.org
 
 
-![[The Workshop: Belgrade](https://www.facebook.com/theworkshopbelgrade/)](assets/f1c4b6283936/1*sYEYJag9CATWDa6YJZZ4Lg.jpeg)
+![[The Workshop: Belgrade](https://www.facebook.com/theworkshopbelgrade/)](../assets/f1c4b6283936/1*sYEYJag9CATWDa6YJZZ4Lg.jpeg)
 
 [The Workshop: Belgrade](https://www.facebook.com/theworkshopbelgrade/)
 #### GERMANY
@@ -136,7 +136,7 @@ If you have any questions, please write at: theworkshop@northstarserbia\.org
 People gathered today for the [Recht auf Flucht](https://www.facebook.com/hashtag/rechtaufflucht?source=feed_text&story_id=783647998511102) \(“right to escape”\) at Alexanderplatz in Berlin, with the aim to stand up for the fundamental right to migration and asylum\. More on the event [here](https://www.facebook.com/JugendRettet/posts/783647998511102) \.
 
 
-![Photo by [Jugend Rettet e\.V\.](https://www.facebook.com/JugendRettet/?hc_ref=ARRtMbgl6GubZPqNDqo84HExn_H2yqIyF08oeZcVRiLCPJGFA8c26aVJVXKr2CVAAWU&fref=nf)](assets/f1c4b6283936/1*Tlyk5e4V-Ltu0yqo-DmnbA.jpeg)
+![Photo by [Jugend Rettet e\.V\.](https://www.facebook.com/JugendRettet/?hc_ref=ARRtMbgl6GubZPqNDqo84HExn_H2yqIyF08oeZcVRiLCPJGFA8c26aVJVXKr2CVAAWU&fref=nf)](../assets/f1c4b6283936/1*Tlyk5e4V-Ltu0yqo-DmnbA.jpeg)
 
 Photo by [Jugend Rettet e\.V\.](https://www.facebook.com/JugendRettet/?hc_ref=ARRtMbgl6GubZPqNDqo84HExn_H2yqIyF08oeZcVRiLCPJGFA8c26aVJVXKr2CVAAWU&fref=nf)
 #### FRANCE
@@ -144,11 +144,11 @@ Photo by [Jugend Rettet e\.V\.](https://www.facebook.com/JugendRettet/?hc_ref=AR
 Our friends from PRGS are very busy and have reported still very high numbers of people on the streets of Paris and, even after three evacuations and one eviction, the count yesterday was 1173 in various locations of the city\. [Solidarithé](https://www.facebook.com/solidarithe/) writes about 1500 people in the street, sleeping rough and living in really bad conditions\. Among them the situation of unaccompanied minors is particularly dramatic\. They are in Port de la Chapelle almost every day helping out\.
 
 
-![](assets/f1c4b6283936/1*pwBI5jTnkWqJEaGYDldkxQ.jpeg)
+![](../assets/f1c4b6283936/1*pwBI5jTnkWqJEaGYDldkxQ.jpeg)
 
 
 
-![Two weeks ago by the canal](assets/f1c4b6283936/1*UuaTSWnu5lDL-du0KG9lhg.jpeg)
+![Two weeks ago by the canal](../assets/f1c4b6283936/1*UuaTSWnu5lDL-du0KG9lhg.jpeg)
 
 Two weeks ago by the canal
 #### Paris, where does you rubbish go?

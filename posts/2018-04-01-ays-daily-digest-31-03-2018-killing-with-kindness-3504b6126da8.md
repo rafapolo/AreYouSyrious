@@ -1,13 +1,13 @@
 ---
-title: AYS DAILY DIGEST 31.03.2018: Killing with “Kindness”
+title: "AYS DAILY DIGEST 31.03.2018: Killing with “Kindness”"
 author: Are You Syrious?
 date: 2018-04-01T07:34:22.333+0100
 last_modified_at: 2018-04-01T07:34:22.333+0100
 categories: Are You Syrious?
 tags: [refugees,digest,serbia,squats,turkey]
-description: Case Study Serbia: how refugees are targeted through “benevolent” actions // Rescuers made to hold back, observing boat in distress for…
+description: "Case Study Serbia: how refugees are targeted through “benevolent” actions // Rescuers made to hold back, observing boat in distress for…"
 image:
-  path: assets/3504b6126da8/1*viZG2yxY7uFNM7uLU5jjow.jpeg
+  path: ../assets/3504b6126da8/1*viZG2yxY7uFNM7uLU5jjow.jpeg
 ---
 
 ### AYS DAILY DIGEST 31\.03\.2018: Killing with “Kindness”
@@ -15,7 +15,7 @@ image:
 Case Study Serbia: how refugees are targeted through “benevolent” actions // Rescuers made to hold back, observing boat in distress for hours // More arrive to Greece, exacerbating tense, horrific living conditions // Austrian play designed to indoctrinate public on “good” versus “bad” migration // Snippets of hope from France // Netherlands restricting help for refugees\.
 
 
-![Children Look In at Protest Camp on Border of Israel\. Photo Credit: Mohammed Abed, [Art Against](https://www.facebook.com/artagainstproject/photos/a.639651369417634.1073741828.639605726088865/1663968266985934/?type=3&theater&ifg=1)](assets/3504b6126da8/1*viZG2yxY7uFNM7uLU5jjow.jpeg)
+![Children Look In at Protest Camp on Border of Israel\. Photo Credit: Mohammed Abed, [Art Against](https://www.facebook.com/artagainstproject/photos/a.639651369417634.1073741828.639605726088865/1663968266985934/?type=3&theater&ifg=1)](../assets/3504b6126da8/1*viZG2yxY7uFNM7uLU5jjow.jpeg)
 
 Children Look In at Protest Camp on Border of Israel\. Photo Credit: Mohammed Abed, [Art Against](https://www.facebook.com/artagainstproject/photos/a.639651369417634.1073741828.639605726088865/1663968266985934/?type=3&theater&ifg=1)
 ### FEATURE
@@ -127,7 +127,7 @@ Translated from [here](https://www.ouest-france.fr/pays-de-la-loire/nantes-44000
 [Citizens of the World Choir](https://www.facebook.com/CitizensoftheWorldChoir/?hc_ref=ARRgn3yHWOSVEATB6ob8B_NO7RfCBNtLO6flmez8nIp_F7UlHxA7hB_70knh_gYVFjg&fref=nf) posted an update with a report on a program run by a member this week\. More importantly, rehearsals are open from April 7th\-April 18th to any refugee or asylum\-seeker who wishes to join their international choir\! There are only seven spots available, but no previous musical experience is necessary\. Go to their Facebook page for more info\.
 
 
-![](assets/3504b6126da8/1*FHLJBA9Oqn4IWDi1GVqplw.jpeg)
+![](../assets/3504b6126da8/1*FHLJBA9Oqn4IWDi1GVqplw.jpeg)
 
 ### THE NETHERLANDS
 

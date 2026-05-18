@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 26/06/17: Hundreds of refugees on march from Italy to France
+title: "AYS Daily Digest 26/06/17: Hundreds of refugees on march from Italy to France"
 author: Are You Syrious?
 date: 2017-06-26T22:26:48.946+0100
 last_modified_at: 2017-07-02T23:07:02.892+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,ventimiglia,italy,calais,turkey]
 description: Police violence against refugees in Italy / Hundreds of people on the move / Restriction of freedoms for people from Iraq in Turkey /…
 image:
-  path: assets/609b38367432/1*Hc_dfs7fnjDJ0WnPoVxcfw.jpeg
+  path: ../assets/609b38367432/1*Hc_dfs7fnjDJ0WnPoVxcfw.jpeg
 ---
 
 ### AYS Daily Digest 26/06/17: Hundreds of refugees on march from Italy to France
@@ -15,7 +15,7 @@ image:
 _Police violence against refugees in Italy / Hundreds of people on the move / Restriction of freedoms for people from Iraq in Turkey / Hundreds of young people living rough in the woods and fields around Calais_
 
 
-![Photo from [**@** ivnbkn](https://twitter.com/ivnbkn)](assets/609b38367432/1*Hc_dfs7fnjDJ0WnPoVxcfw.jpeg)
+![Photo from [**@** ivnbkn](https://twitter.com/ivnbkn)](../assets/609b38367432/1*Hc_dfs7fnjDJ0WnPoVxcfw.jpeg)
 
 Photo from [**@** ivnbkn](https://twitter.com/ivnbkn)
 ### Feature
@@ -23,7 +23,7 @@ Photo from [**@** ivnbkn](https://twitter.com/ivnbkn)
 Early Monday morning, group of several hundred \(according to some sources up to 400\) people started marching from Italy toward France\. On their way, the police stopped them from crossing\. However, according to some sources, a big number of people are still on the move in the nearby area, putting their lives at risk in a terrain they do not know\.
 
 
-![](assets/609b38367432/1*7kGlcOEbDx3FwZU6zq6NKg.jpeg)
+![](../assets/609b38367432/1*7kGlcOEbDx3FwZU6zq6NKg.jpeg)
 
 
 Refugees, mostly from Sudan, were marching from Ventimiglia in Italy towards the French border\. As the local media are reporting, the march started after several nights full of tensions\.
@@ -55,7 +55,7 @@ According to this letter, not much help is coming from UNHCR\. The person who wr
 Another busy day for those saving lives in the Mediterranean\. [Two rubber boats with 280 people on board were found this morning](https://www.facebook.com/JugendRettet/photos/a.418621685013737.1073741828.409016039307635/690086211200615/?type=3&theater) \.
 
 
-![Photo [Sea Watch](https://www.facebook.com/seawatchprojekt/posts/1886786564872749) \.](assets/609b38367432/1*8bVP1hlb000OLGtxviz8iA.jpeg)
+![Photo [Sea Watch](https://www.facebook.com/seawatchprojekt/posts/1886786564872749) \.](../assets/609b38367432/1*8bVP1hlb000OLGtxviz8iA.jpeg)
 
 Photo [Sea Watch](https://www.facebook.com/seawatchprojekt/posts/1886786564872749) \.
 
@@ -105,7 +105,7 @@ To get involved, please see Calais Action FB page\.
 Previously, volunteers have been prevented from distributing food\. However, the Lille Tribunal on Monday ruled against the establishment of an emergency welcome centre for migrants in Calais, but has instructed that measures to help them should be put into place\.
 
 
-![](assets/609b38367432/1*F2fTEmvA73QXKQKTNYymgA.png)
+![](../assets/609b38367432/1*F2fTEmvA73QXKQKTNYymgA.png)
 
 ### Sweden
 

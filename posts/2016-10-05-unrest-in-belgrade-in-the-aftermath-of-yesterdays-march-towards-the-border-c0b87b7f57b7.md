@@ -1,5 +1,5 @@
 ---
-title: AYS digest 05/10: Unrest in Belgrade in the aftermath of yesterday’s march towards the border
+title: "AYS digest 05/10: Unrest in Belgrade in the aftermath of yesterday’s march towards the border"
 author: Are You Syrious?
 date: 2016-10-05T22:23:27.156+0100
 last_modified_at: 2016-10-06T08:44:42.581+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: Unrest in the parks, media frenzy and organizations trying to decipher what really happened yesterday/ Two international activists arrested…
 image:
-  path: assets/c0b87b7f57b7/1*e1mEdd3UyYQVM2iHtuj_fA.jpeg
+  path: ../assets/c0b87b7f57b7/1*e1mEdd3UyYQVM2iHtuj_fA.jpeg
 ---
 
 ### **AYS digest 05/10: Unrest in Belgrade in the aftermath of yesterday’s march towards the border**
@@ -15,7 +15,7 @@ image:
 _Unrest in the parks, media frenzy and organizations trying to decipher what really happened yesterday/ Two international activists arrested and released in relation to the protest / Dangerous precedent unfolding as the first man is to be deported to Turkey under the EU — Turkey deal / 11,000 rescues in Mediterranean in just three days / Calais needs help and hope / Streets of Paris full of refugees sleeping rough /_
 
 
-![Sleeping rough in Belgrade\. Photo Mette Flansome](assets/c0b87b7f57b7/1*e1mEdd3UyYQVM2iHtuj_fA.jpeg)
+![Sleeping rough in Belgrade\. Photo Mette Flansome](../assets/c0b87b7f57b7/1*e1mEdd3UyYQVM2iHtuj_fA.jpeg)
 
 Sleeping rough in Belgrade\. Photo Mette Flansome
 
@@ -24,7 +24,7 @@ As people have returned to Belgrade following the yesterday’s exhausting march
 Many are casting blame on to those who led the protest, while others are warning that the blame is not to be assigned solely to the leaders of the unrest, but that we should re\-examine the bigger picture\. No border Serbia states that media and some other organizations have accused them of leading the protest\. They are stating that it wasn’t them who led it, but regardless, we should consider how the horrible conditions people are forced to live in are those that lead them to dangerous paths and perhaps justified unrest\.
 
 
-![Belgrade\. Photo Mette Flansome](assets/c0b87b7f57b7/1*WHEMTgn1AxLadiv03NA_eA.jpeg)
+![Belgrade\. Photo Mette Flansome](../assets/c0b87b7f57b7/1*WHEMTgn1AxLadiv03NA_eA.jpeg)
 
 Belgrade\. Photo Mette Flansome
 
@@ -43,7 +43,7 @@ This video was posted today with this message from Info Park: “By now you have
 Also, Refugee foundation Serbia is warning that the weather is cold and getting colder and that their Day center is overcrowded with people seeking warmth\. They are asking for volunteer help, as well as for donations of winter clothes and shoes\. If you are able to help you can contact them on their FB page or go to their Day center\.
 
 
-![Refugee foundation Serbia Day center](assets/c0b87b7f57b7/1*JwiAueS0AMX_3srUfDd-mw.jpeg)
+![Refugee foundation Serbia Day center](../assets/c0b87b7f57b7/1*JwiAueS0AMX_3srUfDd-mw.jpeg)
 
 Refugee foundation Serbia Day center
 
@@ -52,7 +52,7 @@ As the next days are going to be difficult, organizations on the ground are work
 Also, in more news of life returning to “normal”, the Psychological Innovation Network \(PIN\) held an English cafe workshop in Refugee foundation Serbia\. The workshop was full and seemed to be fun based on these photos\.
 
 
-![English cafe workshop\. Refugee foundation Serbia](assets/c0b87b7f57b7/1*QoknTf3WqazFBuwNd55Hqw.jpeg)
+![English cafe workshop\. Refugee foundation Serbia](../assets/c0b87b7f57b7/1*QoknTf3WqazFBuwNd55Hqw.jpeg)
 
 English cafe workshop\. Refugee foundation Serbia
 #### Greece
@@ -71,7 +71,7 @@ To add insult to injury, Amnesty international published the story of Noori\. No
 #### Mediterranean
 
 
-![Mediterranean yesterday\. Photo: Art against](assets/c0b87b7f57b7/1*oFqqCElnD_2TJyuTZdXOMA.jpeg)
+![Mediterranean yesterday\. Photo: Art against](../assets/c0b87b7f57b7/1*oFqqCElnD_2TJyuTZdXOMA.jpeg)
 
 Mediterranean yesterday\. Photo: Art against
 ### **11,000 people rescued in the Mediterranean in just three days**
@@ -79,7 +79,7 @@ Mediterranean yesterday\. Photo: Art against
 As we’ve been reporting since Monday, staggering numbers of people have arrived, amounting to 11,000 people who were rescued from the Mediterranean sea in just three days\. The total death toll for Monday and Tuesday is up to 50\. Wednesday saw a sharp decline in rescues with only 368\. The latest surge in new arrivals means at least 142,000 migrants have reached Italy since the start of the year and around 3,100 have died making the perilous trip\.
 
 
-![Mediterranean yesterday\. Photo: Art against](assets/c0b87b7f57b7/1*-MuppDASVVstXk3Tab02Pg.jpeg)
+![Mediterranean yesterday\. Photo: Art against](../assets/c0b87b7f57b7/1*-MuppDASVVstXk3Tab02Pg.jpeg)
 
 Mediterranean yesterday\. Photo: Art against
 #### France
@@ -107,17 +107,17 @@ Founder, Care4Calais
 Even though the Jungle situation is uncertain, many are opting for moving to Paris which is by now filled with those that are forced to sleep on its streets\. We bring you a couple of photographs from those very streets\.
 
 
-![Streets of Paris\. Photo: Heather Young](assets/c0b87b7f57b7/1*Fw2ovAjS0DxfVtmwLHdQMA.jpeg)
+![Streets of Paris\. Photo: Heather Young](../assets/c0b87b7f57b7/1*Fw2ovAjS0DxfVtmwLHdQMA.jpeg)
 
 Streets of Paris\. Photo: Heather Young
 
 
-![Streets of Paris\. Photo: Heather Young](assets/c0b87b7f57b7/1*hhwMwhDFX-Jdi_tc3QHOxg.jpeg)
+![Streets of Paris\. Photo: Heather Young](../assets/c0b87b7f57b7/1*hhwMwhDFX-Jdi_tc3QHOxg.jpeg)
 
 Streets of Paris\. Photo: Heather Young
 
 
-![Streets of Paris\. Photo: Heather Young](assets/c0b87b7f57b7/1*ZmfvUGDlfAKvRzI1TiqMXw.jpeg)
+![Streets of Paris\. Photo: Heather Young](../assets/c0b87b7f57b7/1*ZmfvUGDlfAKvRzI1TiqMXw.jpeg)
 
 Streets of Paris\. Photo: Heather Young
 ### **Help needed in Calais**

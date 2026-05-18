@@ -5,9 +5,9 @@ date: 2018-08-04T14:46:01.552+0100
 last_modified_at: 2018-08-05T09:22:47.634+0100
 categories: Are You Syrious?
 tags: [refugees,special,bosnia-and-herzegovina,border-violence,croatia]
-description: The following document presents testimonies of push-back according to the catchment place: from Croatia, inner land and the border area…
+description: "The following document presents testimonies of push-back according to the catchment place: from Croatia, inner land and the border area…"
 image:
-  path: assets/da04fe8784de/1*29zmxp6osD8NyFDH3XDtIQ.jpeg
+  path: ../assets/da04fe8784de/1*29zmxp6osD8NyFDH3XDtIQ.jpeg
 ---
 
 
@@ -16,7 +16,7 @@ image:
 _The following document presents testimonies of push\-back according to the catchment place: from Croatia, inner land and the border area between Bosnia and Croatia; and from Slovenia\._
 
 
-![](assets/da04fe8784de/1*29zmxp6osD8NyFDH3XDtIQ.jpeg)
+![](../assets/da04fe8784de/1*29zmxp6osD8NyFDH3XDtIQ.jpeg)
 
 
 **Report and photos by [NO NAME KITCHEN](https://www.facebook.com/NoNameKitchenBelgrade/)**
@@ -34,12 +34,12 @@ MINORS IN THE GROUP: no
 COUNTRY AND LOCATION WHERE THE INCIDENT HAPPENED: Croatian inner land, forest near Karlovac \(viz\. approximate GPS location **Map** 1, below\) \. The men were all taken by a car to Glinice \(viz\. approximate GPS location **Map 2** , below\), from where deported to Bosnia\.
 
 
-![**Map 1**](assets/da04fe8784de/1*R5ITVNwhfpRI1ou2_jfn0g.png)
+![**Map 1**](../assets/da04fe8784de/1*R5ITVNwhfpRI1ou2_jfn0g.png)
 
 **Map 1**
 
 
-![**Map 2**](assets/da04fe8784de/1*o0ej2XCpRBfD0OdXmGGuTQ.png)
+![**Map 2**](../assets/da04fe8784de/1*o0ej2XCpRBfD0OdXmGGuTQ.png)
 
 **Map 2**
 
@@ -88,7 +88,7 @@ MINORS IN THE GROUP: No\.
 COUNTRY AND LOCATION WHERE THE INCIDENT HAPPENED: Croatian inner land, a forest near Karlovac \(viz\. approximate GPS location map below\) \.
 
 
-![](assets/da04fe8784de/1*kGvKBEkjRdPI_OYlRtgQnA.png)
+![](../assets/da04fe8784de/1*kGvKBEkjRdPI_OYlRtgQnA.png)
 
 
 DATE AND TIME OF THE INDICENT: 07/07/2018, 4 am\.
@@ -219,7 +219,7 @@ PERPETRATORS: Seven police officers with a dog and civil car\. The officers were
 **PHOTOS OF THE MEN’S INJURIES**
 
 
-![**Fractured and infected elbow from the attack by a police baton\.**](assets/da04fe8784de/1*hdkhN7t67J0E0Z59Q9XKUA.jpeg)
+![**Fractured and infected elbow from the attack by a police baton\.**](../assets/da04fe8784de/1*hdkhN7t67J0E0Z59Q9XKUA.jpeg)
 
 **Fractured and infected elbow from the attack by a police baton\.**
 
@@ -396,7 +396,7 @@ PERPETRATORS: Slovenian and Croatian police officers\.
 **PHOTOGRAPHY OF DAMAGED PHONES**
 
 
-![](assets/da04fe8784de/1*zeU_zlCc8W7kyk9axz8vzA.jpeg)
+![](../assets/da04fe8784de/1*zeU_zlCc8W7kyk9axz8vzA.jpeg)
 
 
 **14/07/2018 Velika Kladusa \(Bosnia\)**
@@ -457,11 +457,11 @@ MINORS IN THE GROUP: 1 \(15\-years\-old Iranian girl\) **INCIDENT**
 COUNTRY AND LOCATION WHERE THE INCIDENT HAPPENED: Croatian border zone\. Two places of deportation — son was deported with other single men from the location close to Bihac \(viz\. **Map location 1** , below\) and the rest of the family in a mountain place around 25 km from Velika Kladusa \(viz\. **Map location 2** , below\) \.
 
 
-![](assets/da04fe8784de/1*nwda2NYFSWkWbjq2G2vV2w.png)
+![](../assets/da04fe8784de/1*nwda2NYFSWkWbjq2G2vV2w.png)
 
 
 
-![**Map location 1 Map location 2**](assets/da04fe8784de/1*D7a_gbcKA4rcJ78W-PY5nQ.png)
+![**Map location 1 Map location 2**](../assets/da04fe8784de/1*D7a_gbcKA4rcJ78W-PY5nQ.png)
 
 **Map location 1 Map location 2**
 
@@ -494,12 +494,12 @@ DOCUMENTS SIGNED: None\.
 PERPETRATORS: Group of the 5 police men\. All of theme were tall men with the police uniforms, the one who was the most brutal had blue eyes and blond hair\.
 
 
-![**PHOTOS OF INJURIES OF THE FAMILY**](assets/da04fe8784de/1*1Fx_lK33J5T9-o8uBbz0JQ.jpeg)
+![**PHOTOS OF INJURIES OF THE FAMILY**](../assets/da04fe8784de/1*1Fx_lK33J5T9-o8uBbz0JQ.jpeg)
 
 **PHOTOS OF INJURIES OF THE FAMILY**
 
 
-![](assets/da04fe8784de/1*eMGs6PnOROMKvvXlootxjQ.jpeg)
+![](../assets/da04fe8784de/1*eMGs6PnOROMKvvXlootxjQ.jpeg)
 
 
 **23/07/2018 Velika Kladusa \(Bosnia\)**
@@ -527,7 +527,7 @@ MINORS IN THE GROUP: No\.
 COUNTRY AND LOCATION WHERE THE INCIDENT HAPPENED: Slovenia, in a forest close to the village called Malicka \(viz\. Map below\) \.
 
 
-![**Map location**](assets/da04fe8784de/1*pLcdS9pQoQjYL9L51KTYig.jpeg)
+![**Map location**](../assets/da04fe8784de/1*pLcdS9pQoQjYL9L51KTYig.jpeg)
 
 **Map location**
 
@@ -574,7 +574,7 @@ MINORS IN THE GROUP: 5 children involved — the youngest one was 4 months old, 
 COUNTRY AND LOCATION WHERE THE INCIDENT HAPPENED: Families were caught by the police in the Croatian inner land, a forest close to the village called Begovo Brdo \(viz\. snapshot of Jacob’s GPS below\) \. Deportation happened on the Croatian\-Bosnian border, close to Velika Kladusa\.
 
 
-![](assets/da04fe8784de/1*A5nANQAg1uh5zQT6T5XRpA.jpeg)
+![](../assets/da04fe8784de/1*A5nANQAg1uh5zQT6T5XRpA.jpeg)
 
 
 DATE AND TIME OF THE INDICENT: 23/07/2018, 10 pm\.
@@ -600,7 +600,7 @@ PERPETRATORS: 6 police officers in 3 cars, three wearing army uniforms and three
 **PHOTOS OF THE FAMILY INJURIES**
 
 
-![**Bruise on the left arm of a one\-year\-old child from the push by a police officer\.**](assets/da04fe8784de/1*m_F_n0gtdUwE5KYvscx2yg.jpeg)
+![**Bruise on the left arm of a one\-year\-old child from the push by a police officer\.**](../assets/da04fe8784de/1*m_F_n0gtdUwE5KYvscx2yg.jpeg)
 
 **Bruise on the left arm of a one\-year\-old child from the push by a police officer\.**
 
@@ -706,7 +706,7 @@ TYPE OF INCIDENT: push back x denied access to asylum procedures x deportation x
 COUNTRY AND LOCATION WHERE THE INCIDENT HAPPENED: Croatian interior\. The group were caught 9 km into the territory along motorway 1 \(nearest town: Slunj\) \. Violence occurred at rural border area, south west of Velika Kladusa \(viz\. approximate GPS location map below\) \.
 
 
-![](assets/da04fe8784de/1*ezVDS9TS6GdMO7BvZPphiA.png)
+![](../assets/da04fe8784de/1*ezVDS9TS6GdMO7BvZPphiA.png)
 
 
 DESCRIPTION OF INDICENT: Sangeen described how the group walked through the night in the Croatian jungle, but at 11am the next morning the police found them\. The group were about 9 km from the border\. The police saw them walking in the trees and they shouted from the road, “Come here, come here\!”\. There were two police officers and they put them in the van\. The groups first words were to ask to claim asylum, which they repeated several times\. Thepolice told them to “shut up”\. The police drove Sangeen and the others back and pushed them out onto a field with some woods at the border with Bosnia\. It was on the south west side of Velika Kladusa, but they did not know where they had taken them\. Firstly, only two police officers made the arrest, but there were 8 more officers waiting at the border\. When Sangeen got out of the car they were waiting with sticks in a line\. He told how the police made sure to steal everything: phones, money, power banks, even cigarettes\. One policeman even took the his can of red bull, they took everything\.
@@ -743,7 +743,7 @@ during this incident, but also aimed a gun near his head and fired a live round 
 encounter\. The perpetrator was a tall man, bald, with a red face\. He smelled of alcohol on both occasions\.
 
 
-![**PHOTOS OF SANGEEN’S INJURIES**](assets/da04fe8784de/1*sKgpVxU1QDC8V0Z3XFp4jw.jpeg)
+![**PHOTOS OF SANGEEN’S INJURIES**](../assets/da04fe8784de/1*sKgpVxU1QDC8V0Z3XFp4jw.jpeg)
 
 **PHOTOS OF SANGEEN’S INJURIES**
 
@@ -754,7 +754,7 @@ This image above shows the impact of a baton on the victim’s right collar bone
 The photo above shows an injury sustained to the elbow, also inflicted by the police\. The mark is consistent with the use of the victims arms to protect his head from the strike of a baton\. This confirms the testimony of the victim, evidencing the fact that police wantonly began to physically beat the victim \(completely unsolicited\) and that the only recourse was to protect his head from the harsh blows by holding up his arms\. As a result, he sustained bruising and cuts to his forearm, and was unable to avoid injury, despite \(as his testimony confirms\) asking for them to stop because he couldn’t breath\.
 
 
-![](assets/da04fe8784de/1*TRxYdkIEFCyIeTqGUD8ImQ.jpeg)
+![](../assets/da04fe8784de/1*TRxYdkIEFCyIeTqGUD8ImQ.jpeg)
 
 
 The image on the left shows bruising and friction marks applied to the skin of a companion to the victim\. The marks cover the length of the back and were inflicted by multiple strikes with a baton\. The vertical lines are consistent with the same “overhead” arm action described in the above evidence\. The location of the wounds on the victims back \(stretching from ribcage to torso\) also confirm the testimony provided that the police officers beat the group from behind as they tried to flee the scene\.

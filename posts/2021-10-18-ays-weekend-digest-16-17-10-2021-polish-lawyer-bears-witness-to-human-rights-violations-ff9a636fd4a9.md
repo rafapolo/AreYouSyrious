@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest: 16–17.10.2021: Polish lawyer bears witness to human rights violations
+title: "AYS Weekend Digest: 16–17.10.2021: Polish lawyer bears witness to human rights violations"
 author: Are You Syrious?
 date: 2021-10-18T22:13:25.009+0100
 last_modified_at: 2021-10-18T22:13:25.009+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,european-union,migration]
 description: Protests against conditions in Libya // Lives lost off African coast // Afghan population face starvation // Turkish authorities push…
 image:
-  path: assets/ff9a636fd4a9/0*3D2yKA8fQ1x8_a3P
+  path: ../assets/ff9a636fd4a9/0*3D2yKA8fQ1x8_a3P
 ---
 
 ### AYS Weekend Digest: 16–17\.10\.2021: Polish lawyer bears witness to human rights violations
@@ -16,11 +16,11 @@ image:
 ### Polish lawyer bares witness to human rights violations
 
 
-![](assets/ff9a636fd4a9/0*PCa6OZS1CragxEl9)
+![](../assets/ff9a636fd4a9/0*PCa6OZS1CragxEl9)
 
 
 
-![](assets/ff9a636fd4a9/0*3D2yKA8fQ1x8_a3P)
+![](../assets/ff9a636fd4a9/0*3D2yKA8fQ1x8_a3P)
 
 
 Lawyer Marta Górczyńska has given an in\-depth account of witnessing [the treatment of people trapped at the Polish\-Belarusian border](https://wawalove.wp.pl/dramat-na-granicy-polski-z-bialorusia-chlopiec-byl-przerazony-nie-zapomne-jego-oczu-6694008353684320a?fbclid=IwAR0suHmXMBRenkXcwqL2F8oyD_4hMJvHDmLkha4O8oiMEakHisP9dlGSaBo&src01=6a4c8&src02=isgf) during a visit at the end of September\.
@@ -47,11 +47,11 @@ This comes as people protest the treatment of refugees in Libya\. Those whom Sen
 ### Lives lost off African coast
 
 
-![](assets/ff9a636fd4a9/0*oqBvicGs-5JUdKbg)
+![](../assets/ff9a636fd4a9/0*oqBvicGs-5JUdKbg)
 
 
 
-![](assets/ff9a636fd4a9/0*hng2S5i_bJ7utv1n)
+![](../assets/ff9a636fd4a9/0*hng2S5i_bJ7utv1n)
 
 
 One person was left dead after a boat faced problems off the coast of Morocco\. [Accusations against Moroccan authorities](https://twitter.com/alarm_phone/status/1449451192065605633?fbclid=IwAR0BoeZGQIGB8C9RsjqHCcHp8I77PBzOyTy4Py3i1lR11sQ53tCz9fOGMdo) were levelled when the boat was destabilized, causing most of the passengers to have to swim for shore\. Hours later a body was found\.
@@ -69,11 +69,11 @@ The monitoring work of SeaWatch’s airplane ‘ Seabird’ was the subject of [
 ### Turkish authorities push people back to Iran
 
 
-![](assets/ff9a636fd4a9/0*WKPoLD670bGc9cTm)
+![](../assets/ff9a636fd4a9/0*WKPoLD670bGc9cTm)
 
 
 
-![](assets/ff9a636fd4a9/0*u0d4w-cCe-ucZRZi)
+![](../assets/ff9a636fd4a9/0*u0d4w-cCe-ucZRZi)
 
 
 [Six people from Afghanistan told Human Rights Watch](https://www.hrw.org/news/2021/10/15/turkey-soldiers-beat-push-afghan-asylum-seekers-back-iran?fbclid=IwAR0tvj0x2q-9BGVRT5AuvcbHZsvvbeZJL0odYucYeVsEOLYAokLYPSZEmXs) that the Turkish army severely beat them and others before deporting them in groups of between 50 and 300 people as they sought safety\. The story told by the group interviewed includes how they fled the Taliban to Pakistan and Iran before smugglers had taken them to the border with Turkey, high in the mountains\. Groups included women and small children\.
@@ -89,11 +89,11 @@ A trending hashtag in Greek \(‘Mitsotaki where are the children’\) has broug
 EU’s Migration Commissioner Ylva Johansson has called for a transparent investigation into pushback claims in the Aegean Sea\. This is a condition imposed before further funding will be granted\. The Greek government is [examining the possibility of designating the National Transparency Authority \(EAD\) to this role\.](https://www.ekathimerini.com/news/1169960/transparency-authority-may-probe-pushback-claims/?fbclid=IwAR3TYDaQ1da2qJwj4nC_qo3dP-rD0YhmEuLIh1AQuRWQcc34yHepmjd59Rk) This comes as more people are likely to have been pushed back as contact was lost with [a group who arrived in Ikaria\.](https://twitter.com/PDimitras/status/1449666105136586757?fbclid=IwAR20Nljg2uwbey2eOy3uo_GO0GKXYSIAgwXuRtTeCQ3S8hJkHsROUYG9yeY)
 
 
-![](assets/ff9a636fd4a9/0*uvzbEe6XjljcwPKd)
+![](../assets/ff9a636fd4a9/0*uvzbEe6XjljcwPKd)
 
 
 
-![](assets/ff9a636fd4a9/0*8EGVq0KUeiw2ILu_)
+![](../assets/ff9a636fd4a9/0*8EGVq0KUeiw2ILu_)
 
 
 The concerning rise of far\-right parties in Greece is the topic of [this article](https://www.dw.com/en/golden-dawn-is-down-but-far-right-rises-again-in-greece/a-59528529) \. The photo above shows the actions of right\-wing youths in Thessaloniki in September when they acted against fellow school students who protested government education proposals\.
@@ -103,11 +103,11 @@ The article continues with incidents perpetrated by other right\-wing groups\. G
 ### Conditions in northern Bosnia
 
 
-![](assets/ff9a636fd4a9/0*RdQDKAOLdkmxiuRj)
+![](../assets/ff9a636fd4a9/0*RdQDKAOLdkmxiuRj)
 
 
 
-![](assets/ff9a636fd4a9/0*5uTlWiA70lcXYpNm)
+![](../assets/ff9a636fd4a9/0*5uTlWiA70lcXYpNm)
 
 
 [German organisation Umino reported from their aid mission to northern Bosnia](https://www.facebook.com/umino.org/posts/4113312775440431) \. They describe how the situation is for people living near the border of the European Union\. Official organisations and local people help those who are sleeping in tents outside of the town of Velika Kladuša\.
@@ -126,11 +126,11 @@ The article continues with incidents perpetrated by other right\-wing groups\. G
 ### Anniversary: French police against protesters, 60 years on\.
 
 
-![](assets/ff9a636fd4a9/0*i4nlyPY8aZiT-7-d)
+![](../assets/ff9a636fd4a9/0*i4nlyPY8aZiT-7-d)
 
 
 
-![](assets/ff9a636fd4a9/0*JdCqHCWnOjNjoewE)
+![](../assets/ff9a636fd4a9/0*JdCqHCWnOjNjoewE)
 
 
 60 years ago this weekend, on 17th October 1961, Parisian police threw Algerian protesters in the River Seine\. [This twitter thread](https://twitter.com/ArthurAsseraf/status/1449080493383770112?fbclid=IwAR01FCdDGqPXD-ZWi-eBWIA2MB6uA2eg6dusku0xFsXpZ7-rT-_pK8rIrZc) explores the history of Algerian people working in France following colonial rule\.

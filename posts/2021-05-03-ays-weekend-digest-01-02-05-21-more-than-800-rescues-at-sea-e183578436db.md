@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 01–02/05/21: More than 800 rescues at sea
+title: "AYS Weekend Digest 01–02/05/21: More than 800 rescues at sea"
 author: Are You Syrious?
 date: 2021-05-03T12:46:07.555+0100
 last_modified_at: 2021-05-03T12:46:07.555+0100
@@ -7,18 +7,18 @@ categories: Are You Syrious?
 tags: [digest,refugees,mediterranean,sea-rescue,greece]
 description: Busy days for SAR teams // Alarm Phone reports several distress calls without reactions // Corruption on food catering in Moria 2? // New…
 image:
-  path: assets/e183578436db/0*8EI5-xTJyU5bJG39.jpeg
+  path: ../assets/e183578436db/0*8EI5-xTJyU5bJG39.jpeg
 ---
 
 ### AYS Weekend Digest 01–02/05/21: More than 800 rescues at sea
 #### Busy days for SAR teams // Alarm Phone reports several distress calls without reactions // Corruption on food catering in Moria 2? // New testimonies of police violence at Hungarian border // Pressure on UK Home Office
 
 
-![](assets/e183578436db/0*O4uQ6lELEZt8Nt6L)
+![](../assets/e183578436db/0*O4uQ6lELEZt8Nt6L)
 
 
 
-![](assets/e183578436db/0*8EI5-xTJyU5bJG39.jpeg)
+![](../assets/e183578436db/0*8EI5-xTJyU5bJG39.jpeg)
 
 ### Greece
 

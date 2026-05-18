@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,eu,european-union]
 description: An initial analysis of the European Union’s New Pact on Migration and Asylum///Alan Kurdi Sets Sail for Marseille///Greek Government to…
 image:
-  path: assets/a96f6af44212/0*0d88g61zbWXGBfE6
+  path: ../assets/a96f6af44212/0*0d88g61zbWXGBfE6
 ---
 
 ### AYS Daily Digest 23/09/2020 — What is the EU’s Deal, Anyway?
 #### An initial analysis of the European Union’s New Pact on Migration and Asylum///Alan Kurdi Sets Sail for Marseille///Greek Government to Close Pikpa Camp///& More
 
 
-![A glimpse into the present and future of Europe’s borders, from Lesvos\. Photo credit: [Refocus Media Labs](https://twitter.com/refocusmedialab/status/1307990418538344449/photo/)](assets/a96f6af44212/0*0d88g61zbWXGBfE6)
+![A glimpse into the present and future of Europe’s borders, from Lesvos\. Photo credit: [Refocus Media Labs](https://twitter.com/refocusmedialab/status/1307990418538344449/photo/)](../assets/a96f6af44212/0*0d88g61zbWXGBfE6)
 
 A glimpse into the present and future of Europe’s borders, from Lesvos\. Photo credit: [Refocus Media Labs](https://twitter.com/refocusmedialab/status/1307990418538344449/photo/)
 ### FEATURE — What is in the European Union’s New Pact on Migration and Asylum?
@@ -192,7 +192,7 @@ The push for closed camps and the targeting of humane alternatives like Pikpa is
 
 
 
-![Photo of the graffiti, via [NoBorders](https://www.facebook.com/nobordersnetwork/posts/3363025770431958)](assets/a96f6af44212/0*h3AsbLlzVAgOtIsV)
+![Photo of the graffiti, via [NoBorders](https://www.facebook.com/nobordersnetwork/posts/3363025770431958)](../assets/a96f6af44212/0*h3AsbLlzVAgOtIsV)
 
 Photo of the graffiti, via [NoBorders](https://www.facebook.com/nobordersnetwork/posts/3363025770431958)
 #### More Coronavirus Cases, Greek Government Blames People on the Move

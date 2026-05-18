@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 14/04/2018: Lampedusa: Hotspots and human rights violations
+title: "AYS DAILY DIGEST 14/04/2018: Lampedusa: Hotspots and human rights violations"
 author: Are You Syrious?
 date: 2018-04-15T09:15:29.345+0100
 last_modified_at: 2018-04-16T15:42:51.617+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,hotspots,human-rights,eu]
 description: Latest updates on the US, UK and France attack in Syria//New operation in the Aegean sea from June//Shower facilities temporarily out of…
 image:
-  path: assets/5c2acedf6702/1*UL9g43IkbTLzy8fYP-Vh_w.jpeg
+  path: ../assets/5c2acedf6702/1*UL9g43IkbTLzy8fYP-Vh_w.jpeg
 ---
 
 ### AYS DAILY DIGEST 14/04/2018: Lampedusa: Hotspots and human rights violations
@@ -15,7 +15,7 @@ image:
 _Latest updates on the US, UK and France attack in Syria//New operation in the Aegean sea from June//Shower facilities temporarily out of service in Zaatar house//New arrivals in Greece//Volunteers needed for Refugee Law Clinics abroad in Chios//Demo for Moria35//Report from Lampedusa about living conditions//Save the children published guidelines on the role of tutor for unaccompanied minors in Italy//Volunteers needed in Ventimiglia//The death rate of people trying to cross to Spain raised by 150% in early 2018//Protest against the imprisonment of 8 Iranian asylum seekers in Denmark//_
 
 
-![Credit: Javcho Savov](assets/5c2acedf6702/1*UL9g43IkbTLzy8fYP-Vh_w.jpeg)
+![Credit: Javcho Savov](../assets/5c2acedf6702/1*UL9g43IkbTLzy8fYP-Vh_w.jpeg)
 
 Credit: Javcho Savov
 

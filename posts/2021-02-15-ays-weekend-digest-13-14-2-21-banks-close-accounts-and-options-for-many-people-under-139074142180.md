@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 13–14/2/21: Banks close accounts and options for many people under…
+title: "AYS Weekend Digest 13–14/2/21: Banks close accounts and options for many people under…"
 author: Are You Syrious?
 date: 2021-02-15T17:21:59.460+0000
 last_modified_at: 2021-02-15T19:02:06.994+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,migration,europe,refugees,human-rights]
 description: Potential new cases against the Italian state for orchestrating pushbacks to Lybian torture / Far-right still terrorizing people across…
 image:
-  path: assets/139074142180/0*_j-eZG7QcqhEpvd-
+  path: ../assets/139074142180/0*_j-eZG7QcqhEpvd-
 ---
 
 ### AYS Weekend Digest 13–14/2/21: Banks close accounts and options for many people under international protection
 #### Potential new cases against the Italian state for orchestrating pushbacks to Libyan torture // Far\-right still terrorizing people across the Aegean // Insane costs for refugee accommodation a German city make working unaffordable // Recommended reads and more info
 
 
-![Constant evictions in the Calais area have become a daily reality for many in the north of France, activists report \(see more under ‘France’\)](assets/139074142180/0*_j-eZG7QcqhEpvd-)
+![Constant evictions in the Calais area have become a daily reality for many in the north of France, activists report \(see more under ‘France’\)](../assets/139074142180/0*_j-eZG7QcqhEpvd-)
 
 Constant evictions in the Calais area have become a daily reality for many in the north of France, activists report \(see more under ‘France’\)
 #### FEATURED — Under international protection, but guilty until proven innocent…
@@ -39,7 +39,7 @@ Along with a few other organizations in Croatia, AYS has turned to the Ombudswom
 #### GREECE
 
 
-![via [**Mare Liberum e\.V\.**](https://twitter.com/teammareliberum)](assets/139074142180/0*IrGehx8fnx0H0vaq)
+![via [**Mare Liberum e\.V\.**](https://twitter.com/teammareliberum)](../assets/139074142180/0*IrGehx8fnx0H0vaq)
 
 via [**Mare Liberum e\.V\.**](https://twitter.com/teammareliberum)
 

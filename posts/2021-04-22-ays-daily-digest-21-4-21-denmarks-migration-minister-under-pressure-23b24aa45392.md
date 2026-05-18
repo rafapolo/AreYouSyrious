@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 21/4/21: Denmark’s Migration Minister under pressure
+title: "AYS Daily Digest 21/4/21: Denmark’s Migration Minister under pressure"
 author: Are You Syrious?
 date: 2021-04-22T10:39:29.668+0100
 last_modified_at: 2021-04-22T13:25:06.353+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,denmark,greece,germany,digest]
 description: Deleted Op-Ed article and sources revoking their statements raise critics on deporation plans to Syria // New evidence of pushbacks in…
 image:
-  path: assets/23b24aa45392/1*Jdy0C70sjoYzxtj0iqcEMQ.jpeg
+  path: ../assets/23b24aa45392/1*Jdy0C70sjoYzxtj0iqcEMQ.jpeg
 ---
 
 ### AYS Daily Digest 21/4/21: Denmark’s Migration Minister under pressure
 #### Deleted Op\-Ed article and sources revoking their statements raise critics on deportation plans to Syria // New evidence of pushbacks in Greece // Oxfam criticizes Kara Tepe closure // Human trafficker released in Libya // Refugees exploited in Germany
 
 
-![In Copenhagen people protested against the plans of the Danish government to deport refugees back to Syria\. Credits: [Twitter/@LilasRabah1](https://twitter.com/LilasRabah1/status/1384963998584557701/photo/1)](assets/23b24aa45392/1*Jdy0C70sjoYzxtj0iqcEMQ.jpeg)
+![In Copenhagen people protested against the plans of the Danish government to deport refugees back to Syria\. Credits: [Twitter/@LilasRabah1](https://twitter.com/LilasRabah1/status/1384963998584557701/photo/1)](../assets/23b24aa45392/1*Jdy0C70sjoYzxtj0iqcEMQ.jpeg)
 
 In Copenhagen people protested against the plans of the Danish government to deport refugees back to Syria\. Credits: [Twitter/@LilasRabah1](https://twitter.com/LilasRabah1/status/1384963998584557701/photo/1)
 ### Denmark

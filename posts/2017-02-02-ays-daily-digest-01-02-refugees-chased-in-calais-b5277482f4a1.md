@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 01/02: Refugees chased in Calais
+title: "AYS DAILY DIGEST 01/02: Refugees chased in Calais"
 author: Are You Syrious?
 date: 2017-02-02T05:49:40.771+0000
 last_modified_at: 2017-02-02T09:49:48.998+0000
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe]
 description: IRC builds emergency shelters in Moria//Refugees chased by police in Calais while associations feel “betrayed” by government//EU summit…
 image:
-  path: assets/b5277482f4a1/1*PY1Eqp-BZlHQoTBNPoVP0Q.png
+  path: ../assets/b5277482f4a1/1*PY1Eqp-BZlHQoTBNPoVP0Q.png
 ---
 
 ### AYS DAILY DIGEST 01/02: Refugees chased in Calais
 
 
-![**Refugees sleeping rough in Paris \(Calais photos these days are hard to find and maybe not wise to publish\) \.** Photo by Joao Pequeno](assets/b5277482f4a1/1*PY1Eqp-BZlHQoTBNPoVP0Q.png)
+![**Refugees sleeping rough in Paris \(Calais photos these days are hard to find and maybe not wise to publish\) \.** Photo by Joao Pequeno](../assets/b5277482f4a1/1*PY1Eqp-BZlHQoTBNPoVP0Q.png)
 
 **Refugees sleeping rough in Paris \(Calais photos these days are hard to find and maybe not wise to publish\) \.** Photo by Joao Pequeno
 
@@ -23,7 +23,7 @@ _IRC builds emergency shelters in Moria//Refugees chased by police in Calais whi
 76 refugees were registered on the Aegean Islands today, including 17 on Samos and 59 on other islands\.
 
 
-![Photo by Samos Volunteers](assets/b5277482f4a1/1*DHD3bjfv_DuJjUWkoix48g.png)
+![Photo by Samos Volunteers](../assets/b5277482f4a1/1*DHD3bjfv_DuJjUWkoix48g.png)
 
 Photo by Samos Volunteers
 
@@ -35,12 +35,12 @@ As the procedure remains slow, hundreds of people will gather for a car rally on
 On Samos, one person fell unconscious as the hunger strike entered its second day\. Refugees are protesting the slow asylum process\. The Refugee Rights Data Project, based however on surveys made on mainland Greece, says most people expressed concern about being stuck ‘in limbo’, as they face uncertainty and slow bureaucratic procedures\. 80% said they had spent more than eight months in Greece\.
 
 
-![Photo by Hessam Ghafelpour](assets/b5277482f4a1/1*E9hp6WfLDtOnl2fPGJKZpA.png)
+![Photo by Hessam Ghafelpour](../assets/b5277482f4a1/1*E9hp6WfLDtOnl2fPGJKZpA.png)
 
 Photo by Hessam Ghafelpour
 
 
-![Photo by Hessam Ghafelpour](assets/b5277482f4a1/1*B4_R1ovn60Cy5abnbE-YyA.png)
+![Photo by Hessam Ghafelpour](../assets/b5277482f4a1/1*B4_R1ovn60Cy5abnbE-YyA.png)
 
 Photo by Hessam Ghafelpour
 ### Changes in Moria
@@ -70,7 +70,7 @@ Hub Leros is looking to set up a library\. Residents have been stuck on the isla
 The Hub is the centre for adult refugees created by [Echo100PLU](http://echo100plus.com/) S and is a space for learning, creativity, community and social engagement\.
 
 
-![](assets/b5277482f4a1/1*9zxTmuwrn3eY93DcUgVDEQ.png)
+![](../assets/b5277482f4a1/1*9zxTmuwrn3eY93DcUgVDEQ.png)
 
 
 Books are needed in Arabic, Dari, Urdu, Kurdish, Farsi as well as in basic English, German and Dutch\. Textbooks are also need in subjects like medicine, biomedical sciences,engineering, psychology, economics, history, politics, philosophy and law\. We imagine that books to learn languages including English, German and Dutch would be welcome as well\.
@@ -79,7 +79,7 @@ Books are needed in Arabic, Dari, Urdu, Kurdish, Farsi as well as in basic Engli
 The Polykastro Open Cultural Center will have its soft launch on Thursday, with families able to visit, play some music and offer their feedback\. The shelves and walls will go up next week and the center will hopefully open soon after that\. The center hopes to be an education and culture space, using teachers from the community whenever possible, as well as a community gathering space, education center and much much more\.
 
 
-![Photo by the Polykastro Open Cultural Center](assets/b5277482f4a1/1*T5hLoHkJFQggLYlmE4HwXg.png)
+![Photo by the Polykastro Open Cultural Center](../assets/b5277482f4a1/1*T5hLoHkJFQggLYlmE4HwXg.png)
 
 Photo by the Polykastro Open Cultural Center
 ### Classrooms in Alexendreia repurposed as kids join the local school
@@ -87,7 +87,7 @@ Photo by the Polykastro Open Cultural Center
 In Alexandreia, kids between 7 and 12 are now joining the local school and classrooms in the camp will therefore be opened to adults to learn English, Greek and other skills\.
 
 
-![Photo by Refugee Support Greece](assets/b5277482f4a1/1*oG8T0XP8sFPgr7NiX4Jz1A.png)
+![Photo by Refugee Support Greece](../assets/b5277482f4a1/1*oG8T0XP8sFPgr7NiX4Jz1A.png)
 
 Photo by Refugee Support Greece
 #### France
@@ -114,12 +114,12 @@ After the fire, the [Dunkirk Refugee Women’s Centre](https://www.facebook.com/
 \+ 1 inside facade resting room, but damaged by the fire and hard to access\.
 
 
-![Photo by Refugee Women’s Centre](assets/b5277482f4a1/1*iEz7QjTVHB0r-q97t6rErg.png)
+![Photo by Refugee Women’s Centre](../assets/b5277482f4a1/1*iEz7QjTVHB0r-q97t6rErg.png)
 
 Photo by Refugee Women’s Centre
 
 
-![Photo by Refugee Women’s Centre](assets/b5277482f4a1/1*WvkiwMAxDaOcWbLpQbgODw.png)
+![Photo by Refugee Women’s Centre](../assets/b5277482f4a1/1*WvkiwMAxDaOcWbLpQbgODw.png)
 
 Photo by Refugee Women’s Centre
 ### Refugees still sleep rough in Paris and living conditions are terrible in Massy Palaiseau
@@ -148,12 +148,12 @@ Many other problems are described in the letter, including humiliations, verbal 
 [Soulwelders](https://www.facebook.com/SoulWelders/) has started building woodstoves for the people stuck in Belgrade’s abandoned warehouse\. The goal is to find an easy solution that allows to people to heat themselves with clean firewood, rather than burning up toxic waste that endangers their health\.
 
 
-![Photo by Nadine Allgeier](assets/b5277482f4a1/1*u3SCI51dQSQA0nLdZ2AIWQ.png)
+![Photo by Nadine Allgeier](../assets/b5277482f4a1/1*u3SCI51dQSQA0nLdZ2AIWQ.png)
 
 Photo by Nadine Allgeier
 
 
-![Photo by Matteo Congregalli](assets/b5277482f4a1/1*yh1ESfF89_14U8oPXHh7Tg.png)
+![Photo by Matteo Congregalli](../assets/b5277482f4a1/1*yh1ESfF89_14U8oPXHh7Tg.png)
 
 Photo by Matteo Congregalli
 

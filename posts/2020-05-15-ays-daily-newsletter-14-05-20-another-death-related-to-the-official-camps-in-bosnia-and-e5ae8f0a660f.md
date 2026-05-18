@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Newsletter 14/05/20: Another death related to the official camps in Bosnia and…
+title: "AYS Daily Newsletter 14/05/20: Another death related to the official camps in Bosnia and…"
 author: Are You Syrious?
 date: 2020-05-15T17:46:27.020+0100
 last_modified_at: 2020-05-15T17:46:27.020+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: []
 description: A boy died entering Miral camp in Velika Kladuša // Updates from Moria // Reports of pushbacks in Aegean Sea // Disappointing but…
 image:
-  path: assets/e5ae8f0a660f/0*F6MTj9s6xUCy229N.jpeg
+  path: ../assets/e5ae8f0a660f/0*F6MTj9s6xUCy229N.jpeg
 ---
 
 ### AYS Daily Newsletter 14/05/20: Another death related to the official camps in Bosnia and Herzegovina
 ### A boy died entering Miral camp in Velika Kladuša // Updates from Moria // Reports of pushbacks in Aegean Sea // Disappointing but foreseeable reaction by Croatia to allegations of violent pushbacks // Sanatoria for illegal field workers in Italy // conditions in CETIs in Melilla and Ceuta // & more news
 
 
-![](assets/e5ae8f0a660f/0*F6MTj9s6xUCy229N.jpeg)
+![](../assets/e5ae8f0a660f/0*F6MTj9s6xUCy229N.jpeg)
 
 
 This is how people live in Grande\-Synthe, France\. If you would like to volunteer, please see below\! \(Photo: Utopia 56\)
@@ -87,11 +87,11 @@ On May 10th, Greek Coast Guards attacked a boat of refugees in Turkish waters\. 
 All eyes are on the Serbian police, which must respect the new decision to let people confined within the camps move freely — although residents report that this is not the state of things at the moment\. Asylum Protection Centre also reacted:
 
 
-![](assets/e5ae8f0a660f/0*n50V_sIlE8-BKVV5)
+![](../assets/e5ae8f0a660f/0*n50V_sIlE8-BKVV5)
 
 
 
-![](assets/e5ae8f0a660f/0*fekLZg2opoWwjzVT.png)
+![](../assets/e5ae8f0a660f/0*fekLZg2opoWwjzVT.png)
 
 
 Serbia will take in 50 unaccompanied minors from the Greek islands\.

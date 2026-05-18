@@ -1,5 +1,5 @@
 ---
-title: AYS Digest 25/10/19: Rejected by EU, 23 people die in Libyan detention
+title: "AYS Digest 25/10/19: Rejected by EU, 23 people die in Libyan detention"
 author: Are You Syrious?
 date: 2019-10-26T10:08:03.774+0100
 last_modified_at: 2019-10-26T13:52:10.988+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,europe,digest,libya,unhcr]
 description: A deep look inside the Zintan camp, where refugees are calling for UN and EU to wake up and help them survive / Far-right managed to…
 image:
-  path: assets/2a47398c010c/1*hzEMprv1ovm-VrAyw6K2JQ.jpeg
+  path: ../assets/2a47398c010c/1*hzEMprv1ovm-VrAyw6K2JQ.jpeg
 ---
 
 ### AYS Digest 25/10/19: Rejected by EU, 23 people die in Libyan detention
 #### An in\-depth look inside the Zintan camp, where refugees are calling for the UN and EU to wake up and help them survive / Far\-right managed to sabotage EP resolution designed to help save lives / NGOs meet with the Italian Minister of the Interior to negotiate SAR disembarkation / Precedent in Croatia: Constitutional Court says asylum can be granted on the basis of gender\-based violence in the country of origin / In Tuzla, Bosnia, authorities finally recognise their responsibility to house refugees sleeping rough /
 
 
-![In Zintan, people are too hungry to properly digest anti\-TB medication\. Photo: Giulia Tranchina](assets/2a47398c010c/1*hzEMprv1ovm-VrAyw6K2JQ.jpeg)
+![In Zintan, people are too hungry to properly digest anti\-TB medication\. Photo: Giulia Tranchina](../assets/2a47398c010c/1*hzEMprv1ovm-VrAyw6K2JQ.jpeg)
 
 In Zintan, people are too hungry to properly digest anti\-TB medication\. Photo: Giulia Tranchina
 #### Feature story
@@ -27,7 +27,7 @@ People detained in Zintan, 180km southwest of Tripoli, are mostly fleeing persec
 Due to the unstable conditions in the region, there are very few alternatives for asylum seekers, apart from evacuation out of Libya which is almost impossible to acheive\. Tensions are running high and outbreaks of violence are common\. Two weeks ago, six medical workers were abducted by armed men in Zintan, only to be released [earlier this week](https://www.hrw.org/news/2019/10/24/libya-abducted-medical-staff-freed-after-12-days) \.
 
 
-![Conditions in Zintan: four overflowing toilets, buckets to urinate, no shower and only sporadic access to water, which was not suitable for drinking\. / Photo: MSF](assets/2a47398c010c/1*YBxIEmccpDqe3QewQ3defA.jpeg)
+![Conditions in Zintan: four overflowing toilets, buckets to urinate, no shower and only sporadic access to water, which was not suitable for drinking\. / Photo: MSF](../assets/2a47398c010c/1*YBxIEmccpDqe3QewQ3defA.jpeg)
 
 Conditions in Zintan: four overflowing toilets, buckets to urinate, no shower and only sporadic access to water, which was not suitable for drinking\. / Photo: MSF
 
@@ -42,7 +42,7 @@ In June, the UNHCR managed to secure the evacuation of an additional 96 detainee
 Apart from this life\-saving action for the most vulnerable residents of the camp, asylum seekers say they are enraged by the general indifference and inaction by UNHCR and IOM over the past years\. In May, they staged a protest against the UN agencies\. Yesterday‘s protests were also triggered by the UNHCR’s rejections of evacuation appeals\.
 
 
-![Not much has changed since the desparate protest against UNHCR in Zintan camp in May, when people were afraid of more deaths and bodies of the deceased were not even being buried\.](assets/2a47398c010c/1*FbanJ1GzZL8eQSibx9JXqg.jpeg)
+![Not much has changed since the desparate protest against UNHCR in Zintan camp in May, when people were afraid of more deaths and bodies of the deceased were not even being buried\.](../assets/2a47398c010c/1*FbanJ1GzZL8eQSibx9JXqg.jpeg)
 
 Not much has changed since the desparate protest against UNHCR in Zintan camp in May, when people were afraid of more deaths and bodies of the deceased were not even being buried\.
 #### In their own words:
@@ -104,7 +104,7 @@ It must be said: the [European Union is funding the Libyan coast guard](http://w
 Smugglers and warlords are ruling the lives of those who are desperately seeking safety\. At the same time, search and rescue operations in the Mediterranean are [being criminalised](https://blamingtherescuers.org) \. Not only were they saving thousands of people from drowning, they were also reporting about the crimes of the Libyan coast guard, which deliberately destroyed refugees’ boats and sometimes even left people to die in destroyed vessels\.
 
 
-![The boat carrying the bodies of a mother and a child was found about 120km off the Libyan coast by Proactiva Open Arms in 2018: They were left there by the Libyan coast guard\. Photo: Proactiva](assets/2a47398c010c/1*fGsDhfgjgLfYb_RTmBN0sw.jpeg)
+![The boat carrying the bodies of a mother and a child was found about 120km off the Libyan coast by Proactiva Open Arms in 2018: They were left there by the Libyan coast guard\. Photo: Proactiva](../assets/2a47398c010c/1*fGsDhfgjgLfYb_RTmBN0sw.jpeg)
 
 The boat carrying the bodies of a mother and a child was found about 120km off the Libyan coast by Proactiva Open Arms in 2018: They were left there by the Libyan coast guard\. Photo: Proactiva
 
@@ -121,7 +121,7 @@ The important part of the [rejected resolution](http://www.europarl.europa.eu/do
 
 
 
-![The resolution did not pass by two votes: 288 in favour, 290 against and 36 that abstained\.](assets/2a47398c010c/1*Njd_3THrAaK8FOrID7gaAw.jpeg)
+![The resolution did not pass by two votes: 288 in favour, 290 against and 36 that abstained\.](../assets/2a47398c010c/1*Njd_3THrAaK8FOrID7gaAw.jpeg)
 
 The resolution did not pass by two votes: 288 in favour, 290 against and 36 that abstained\.
 #### Failed attempt to provide secure corridors from Libya
@@ -211,7 +211,7 @@ The **Boat Refugee Foundation** will start a new mission in Northern Greece and 
 Last month, the Constitutional Court of Croatia reached a historic decision that could have far\-reaching consequences for the fates of many immigrant women — domestic violence in the countries from which the victims fled is a reason for asylum\! In the case of Iraqi national A\.B\., who was initially denied asylum, the constitutional judges unanimously concluded that the Administrative Court and the High Administrative Court had violated her human rights guaranteed by the Constitution and the The European Convention on Human Rights\.
 
 
-![](assets/2a47398c010c/1*kZGXFddZI68ihTpNWrgyqA.png)
+![](../assets/2a47398c010c/1*kZGXFddZI68ihTpNWrgyqA.png)
 
 
 
@@ -226,7 +226,7 @@ The Contstitutional Court returned the case for retrial, thereby partially corre
 ### Local government announces the opening of a reception centre on the outskirts of Tuzla
 
 
-![Refugees have been sleeping rough in the increasingly cold weather\. Photo: Tuzlarije](assets/2a47398c010c/1*pNsCIZVaGprzfE7BB3uHnA.jpeg)
+![Refugees have been sleeping rough in the increasingly cold weather\. Photo: Tuzlarije](../assets/2a47398c010c/1*pNsCIZVaGprzfE7BB3uHnA.jpeg)
 
 Refugees have been sleeping rough in the increasingly cold weather\. Photo: Tuzlarije
 

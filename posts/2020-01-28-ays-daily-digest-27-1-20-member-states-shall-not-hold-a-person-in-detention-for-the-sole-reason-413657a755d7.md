@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 27/1/20: “Member States shall not hold a person in detention for the sole reason…
+title: "AYS Daily Digest 27/1/20: “Member States shall not hold a person in detention for the sole reason…"
 author: Are You Syrious?
 date: 2020-01-28T14:15:24.685+0000
 last_modified_at: 2020-01-28T17:03:16.428+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,greece,balkans,migration]
 description: The new Greek law goes against Directive 2013/32/EU of the European Parliament and of the Council / More than 484 people saved across the…
 image:
-  path: assets/413657a755d7/0*ZbLsNYL7b2yBhkMn.jpg
+  path: ../assets/413657a755d7/0*ZbLsNYL7b2yBhkMn.jpg
 ---
 
 ### AYS Daily Digest 27/1/20: “Member States shall not hold a person in detention for the sole reason that he/she is an applicant”
 #### The new Greek law goes against Directive 2013/32/EU of the European Parliament and of the Council / More than 484 people saved across the Mediterranean during weekend / Serbia: physical punishment and degrading access to Afghans from security and KIRS / Still no proper local shelter available for those sleeping rough in Grande\-Synthe / &more news
 
 
-![Read more on the D [etention and Reception Conditions](https://rsaegean.org/en/category/topics/detention-and-reception-conditions/) [EU\-Turkey Statement](https://rsaegean.org/en/category/topics/eu-turkey-statement/) [Stop The Toxic Deal](https://rsaegean.org/en/category/stop-the-toxic-deal-2/) [Χωρίς κατηγορία](https://rsaegean.org/en/category/%ce%b1%cf%84%ce%b1%ce%be%ce%b9%ce%bd%cf%8c%ce%bc%ce%b7%cf%84%ce%b1/) from 24 January 2020 \(Photo source: RSA\)](assets/413657a755d7/0*ZbLsNYL7b2yBhkMn.jpg)
+![Read more on the D [etention and Reception Conditions](https://rsaegean.org/en/category/topics/detention-and-reception-conditions/) [EU\-Turkey Statement](https://rsaegean.org/en/category/topics/eu-turkey-statement/) [Stop The Toxic Deal](https://rsaegean.org/en/category/stop-the-toxic-deal-2/) [Χωρίς κατηγορία](https://rsaegean.org/en/category/%ce%b1%cf%84%ce%b1%ce%be%ce%b9%ce%bd%cf%8c%ce%bc%ce%b7%cf%84%ce%b1/) from 24 January 2020 \(Photo source: RSA\)](../assets/413657a755d7/0*ZbLsNYL7b2yBhkMn.jpg)
 
 Read more on the D [etention and Reception Conditions](https://rsaegean.org/en/category/topics/detention-and-reception-conditions/) [EU\-Turkey Statement](https://rsaegean.org/en/category/topics/eu-turkey-statement/) [Stop The Toxic Deal](https://rsaegean.org/en/category/stop-the-toxic-deal-2/) [Χωρίς κατηγορία](https://rsaegean.org/en/category/%ce%b1%cf%84%ce%b1%ce%be%ce%b9%ce%bd%cf%8c%ce%bc%ce%b7%cf%84%ce%b1/) from 24 January 2020 \(Photo source: RSA\)
 #### FEATURED
@@ -130,19 +130,19 @@ On a day marking the 75th anniversary of the liberation of the Nazi Germany conc
 
 
 
-![](assets/413657a755d7/1*LVkzP5JNc2irnV3EmWMnSA.jpeg)
+![](../assets/413657a755d7/1*LVkzP5JNc2irnV3EmWMnSA.jpeg)
 
 
 
-![](assets/413657a755d7/1*g546X4AfHiwwty2LiJS10w.jpeg)
+![](../assets/413657a755d7/1*g546X4AfHiwwty2LiJS10w.jpeg)
 
 
 
-![](assets/413657a755d7/1*BoJ2TFeEprrE6JoncVonYg.jpeg)
+![](../assets/413657a755d7/1*BoJ2TFeEprrE6JoncVonYg.jpeg)
 
 
 
-![Photos and testimony by: [Kayra Martinez](https://www.facebook.com/kayra.martinez?__tn__=%2Cd%2AF%2AF-R&eid=ARBNjucDVp39uguzhs4BraUixuzBrgGlNLSiDfJ-_jL3dOM20PdQcRXoefVBwqhsn9yy6ulVI4W3Z-9i&tn-str=%2AF&hc_location=group_dialog)](assets/413657a755d7/1*0SmxdI2dp2pNJ9dLTWQPcA.jpeg)
+![Photos and testimony by: [Kayra Martinez](https://www.facebook.com/kayra.martinez?__tn__=%2Cd%2AF%2AF-R&eid=ARBNjucDVp39uguzhs4BraUixuzBrgGlNLSiDfJ-_jL3dOM20PdQcRXoefVBwqhsn9yy6ulVI4W3Z-9i&tn-str=%2AF&hc_location=group_dialog)](../assets/413657a755d7/1*0SmxdI2dp2pNJ9dLTWQPcA.jpeg)
 
 Photos and testimony by: [Kayra Martinez](https://www.facebook.com/kayra.martinez?__tn__=%2Cd%2AF%2AF-R&eid=ARBNjucDVp39uguzhs4BraUixuzBrgGlNLSiDfJ-_jL3dOM20PdQcRXoefVBwqhsn9yy6ulVI4W3Z-9i&tn-str=%2AF&hc_location=group_dialog)
 
@@ -150,7 +150,7 @@ Read more on Moria [here](https://rsaegean.org/en/moria-nightmare/?fbclid=IwAR2q
 Also, over the next two months, [Latitude Adjustment Podcast](https://www.youtube.com/watch?v=y3WXZpwn8CE&feature=youtu.be&fbclid=IwAR0zygJ32G-cwWQHoQeWhYKUSXcGTW_FkxJbSZX7Cjk6ZOscfiSACGJNlr8) will be working on a series of podcast episodes highlighting the stories of the people on the move along the borders of the European Union, reporting with the support of AYS\. His stories will be published also on our social media \(Instagram, Facebook and Twitter\) \.
 
 
-![For more detailed statistics go to [aegeanboatreport\.com\.](http://aegeanboatreport.com/?fbclid=IwAR1ufkpGEoRLK-T1O8t7678fOwSB-5vmwM5kejtvV12JLcQzU8GzKqjTYAg) / ABR Statistics\.](assets/413657a755d7/1*_eAa69e9hreX2sjBHHUVZA.jpeg)
+![For more detailed statistics go to [aegeanboatreport\.com\.](http://aegeanboatreport.com/?fbclid=IwAR1ufkpGEoRLK-T1O8t7678fOwSB-5vmwM5kejtvV12JLcQzU8GzKqjTYAg) / ABR Statistics\.](../assets/413657a755d7/1*_eAa69e9hreX2sjBHHUVZA.jpeg)
 
 For more detailed statistics go to [aegeanboatreport\.com\.](http://aegeanboatreport.com/?fbclid=IwAR1ufkpGEoRLK-T1O8t7678fOwSB-5vmwM5kejtvV12JLcQzU8GzKqjTYAg) / ABR Statistics\.
 
@@ -215,15 +215,15 @@ In addition to the inhumane tapping, the conditions in the large tents are still
 
 
 
-![](assets/413657a755d7/1*icprWa6zzcB7UbiCo5I_2g.jpeg)
+![](../assets/413657a755d7/1*icprWa6zzcB7UbiCo5I_2g.jpeg)
 
 
 
-![](assets/413657a755d7/1*va2QF8Z73vYpYgfYCKu2Ng.jpeg)
+![](../assets/413657a755d7/1*va2QF8Z73vYpYgfYCKu2Ng.jpeg)
 
 
 
-![Photos: [Refugee Women’s Centre](https://www.facebook.com/refugeewomenscentre/?tn-str=k%2AF&hc_location=group_dialog)](assets/413657a755d7/1*gjUut-A5gSGobKAJnrOQzw.jpeg)
+![Photos: [Refugee Women’s Centre](https://www.facebook.com/refugeewomenscentre/?tn-str=k%2AF&hc_location=group_dialog)](../assets/413657a755d7/1*gjUut-A5gSGobKAJnrOQzw.jpeg)
 
 Photos: [Refugee Women’s Centre](https://www.facebook.com/refugeewomenscentre/?tn-str=k%2AF&hc_location=group_dialog)
 #### DENMARK

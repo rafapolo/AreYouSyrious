@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 17/06/21: More than 13,000 illegal pullbacks to Libya
+title: "AYS Daily Digest 17/06/21: More than 13,000 illegal pullbacks to Libya"
 author: Are You Syrious?
 date: 2021-06-18T13:35:52.841+0100
 last_modified_at: 2021-06-18T20:35:47.001+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,libya,lebanon,greece]
 description: Lebanese bank burns 250 million USD in UN aid // New footage from Malakasa camp // New vaccination campaign in Sicily
 image:
-  path: assets/344ec813d0b7/1*nBTz2ZatEEkMlb5DoWimiQ.jpeg
+  path: ../assets/344ec813d0b7/1*nBTz2ZatEEkMlb5DoWimiQ.jpeg
 ---
 
 ### AYS Daily Digest 17/06/21: More than 13,000 illegal pullbacks to Libya
 #### Lebanese bank burns 250 million USD in UN aid // New footage from Malakasa camp // New vaccination campaign in Sicily
 
 
-![More than 13,000 people were pulled back to Libya in 2021 — a place that is not safe for them\. Credits: Twitter/@TilleyMarc](assets/344ec813d0b7/1*nBTz2ZatEEkMlb5DoWimiQ.jpeg)
+![More than 13,000 people were pulled back to Libya in 2021 — a place that is not safe for them\. Credits: Twitter/@TilleyMarc](../assets/344ec813d0b7/1*nBTz2ZatEEkMlb5DoWimiQ.jpeg)
 
 More than 13,000 people were pulled back to Libya in 2021 — a place that is not safe for them\. Credits: Twitter/@TilleyMarc
 ### Lebanon
@@ -121,7 +121,7 @@ Following an assumed arrival at Portuguese shores, police detained five people, 
 NoNameKitchen is looking for donations to start their Vouchers for Food programme near Velika Kladusa\.
 
 
-[![VOUCHERS PROGRAM IN BOSNIA - By NO NAME KITCHEN](assets/344ec813d0b7/3d65_hqdefault.jpg "VOUCHERS PROGRAM IN BOSNIA - By NO NAME KITCHEN")](https://www.youtube.com/watch?v=mlTWCMhOjcg)
+[![VOUCHERS PROGRAM IN BOSNIA - By NO NAME KITCHEN](../assets/344ec813d0b7/3d65_hqdefault.jpg "VOUCHERS PROGRAM IN BOSNIA - By NO NAME KITCHEN")](https://www.youtube.com/watch?v=mlTWCMhOjcg)
 
 ### UK
 

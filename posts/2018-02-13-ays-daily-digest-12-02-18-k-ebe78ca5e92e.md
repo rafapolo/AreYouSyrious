@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 12/02/18: K.
+title: "AYS Daily Digest 12/02/18: K."
 author: Are You Syrious?
 date: 2018-02-13T01:21:49.338+0000
 last_modified_at: 2018-03-01T13:31:52.962+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,turkey,germany,digest]
 description: Migration statistics from Turkey and Greece / Volunteers urgently needed in Serbia / People sleeping rough in Sarajevo, Bosnia / Paris…
 image:
-  path: assets/ebe78ca5e92e/1*ZHGl1zkeBz7OgG5KlHsppg.jpeg
+  path: ../assets/ebe78ca5e92e/1*ZHGl1zkeBz7OgG5KlHsppg.jpeg
 ---
 
 ### AYS Daily Digest 12/02/18: K\. got his documents stolen and was pushed back to Turkey despite legal refugee status in Germany
 #### Migration statistics from Turkey and Greece / Volunteers urgently needed in Serbia / People sleeping rough in Sarajevo, Bosnia / Paris remains cold and snowy / Protest against deportations in Austria / Riots in Italy / Civilians continue to fill gaps in Belgium / And more news from France, Finland, UK, and elsewhere
 
 
-![K\.’s documents were basically thrown away, just as 14 months of his life\. Photo: Vasco Gargalo \( [Art Against](https://www.facebook.com/artagainstproject/) \)](assets/ebe78ca5e92e/1*ZHGl1zkeBz7OgG5KlHsppg.jpeg)
+![K\.’s documents were basically thrown away, just as 14 months of his life\. Photo: Vasco Gargalo \( [Art Against](https://www.facebook.com/artagainstproject/) \)](../assets/ebe78ca5e92e/1*ZHGl1zkeBz7OgG5KlHsppg.jpeg)
 
 K\.’s documents were basically thrown away, just as 14 months of his life\. Photo: Vasco Gargalo \( [Art Against](https://www.facebook.com/artagainstproject/) \)
 ### Feature
@@ -43,7 +43,7 @@ Monthly migration statistics for 2017 and the first months of 2018 available for
 More statistics and numbers from Turkey here:
 
 
-![Photo and information: [**Aegean Boat Report**](https://www.facebook.com/AegeanBoatReport/?hc_ref=ARSOMxjNGf2Spehl_wZSbXGQLDPKDexqYXzUb4VzdcVQI8Z1YxG9wuxxJBPMbA1ZekM)](assets/ebe78ca5e92e/1*Mu0Cso7szjM6cIIYbaGm0w.jpeg)
+![Photo and information: [**Aegean Boat Report**](https://www.facebook.com/AegeanBoatReport/?hc_ref=ARSOMxjNGf2Spehl_wZSbXGQLDPKDexqYXzUb4VzdcVQI8Z1YxG9wuxxJBPMbA1ZekM)](../assets/ebe78ca5e92e/1*Mu0Cso7szjM6cIIYbaGm0w.jpeg)
 
 Photo and information: [**Aegean Boat Report**](https://www.facebook.com/AegeanBoatReport/?hc_ref=ARSOMxjNGf2Spehl_wZSbXGQLDPKDexqYXzUb4VzdcVQI8Z1YxG9wuxxJBPMbA1ZekM)
 ### Greece
@@ -60,14 +60,14 @@ As a part of this, Moria on Lesvos remains [hell on earth](http://harekact.borde
 [**Hestia Hellas**](https://www.facebook.com/hestiahellasGR/?hc_ref=ARRz82CKMRq1UnuY5JmFq6ya0RoxYzujk9hHu3eraEvSI9txQmIMkWPZv6kWfULPn8Y&fref=nf) is open every Monday, Wednesday and Friday from 11:00 until 14:00\. Book an appointment and join in and improve your computer skills, including basic typing skills, using microsoft Word and Excel\. Contact them for more information\!
 
 
-![Photo: [**Hestia Hellas**](https://www.facebook.com/hestiahellasGR/?hc_ref=ARRz82CKMRq1UnuY5JmFq6ya0RoxYzujk9hHu3eraEvSI9txQmIMkWPZv6kWfULPn8Y&fref=nf)](assets/ebe78ca5e92e/1*ep5ElVU69LO-WBAEKK7puQ.jpeg)
+![Photo: [**Hestia Hellas**](https://www.facebook.com/hestiahellasGR/?hc_ref=ARRz82CKMRq1UnuY5JmFq6ya0RoxYzujk9hHu3eraEvSI9txQmIMkWPZv6kWfULPn8Y&fref=nf)](../assets/ebe78ca5e92e/1*ep5ElVU69LO-WBAEKK7puQ.jpeg)
 
 Photo: [**Hestia Hellas**](https://www.facebook.com/hestiahellasGR/?hc_ref=ARRz82CKMRq1UnuY5JmFq6ya0RoxYzujk9hHu3eraEvSI9txQmIMkWPZv6kWfULPn8Y&fref=nf)
 
 [Also in Athens](https://www.facebook.com/zaatarngo/posts/1698930050127331?hc_location=ufi) , [**Zaatar — non\-profit organization**](https://www.facebook.com/zaatarngo/?hc_ref=ARQPic9g8iL2tIX04btdsrClMzkmLFPU1EnOEIt4kiDzlrnMjyChs534sixI0uVD5Us) is open\! Se the schedule below for this weeks activities and language classes\.
 
 
-![Photo: [**Zaatar — non\-profit organization**](https://www.facebook.com/zaatarngo/?hc_ref=ARQPic9g8iL2tIX04btdsrClMzkmLFPU1EnOEIt4kiDzlrnMjyChs534sixI0uVD5Us)](assets/ebe78ca5e92e/1*OLxnPB5nKf66U_yzONiEzQ.jpeg)
+![Photo: [**Zaatar — non\-profit organization**](https://www.facebook.com/zaatarngo/?hc_ref=ARQPic9g8iL2tIX04btdsrClMzkmLFPU1EnOEIt4kiDzlrnMjyChs534sixI0uVD5Us)](../assets/ebe78ca5e92e/1*OLxnPB5nKf66U_yzONiEzQ.jpeg)
 
 Photo: [**Zaatar — non\-profit organization**](https://www.facebook.com/zaatarngo/?hc_ref=ARQPic9g8iL2tIX04btdsrClMzkmLFPU1EnOEIt4kiDzlrnMjyChs534sixI0uVD5Us)
 #### Islands
@@ -75,7 +75,7 @@ Photo: [**Zaatar — non\-profit organization**](https://www.facebook.com/zaatar
 [**Aegean Boat Report**](https://www.facebook.com/AegeanBoatReport/?hc_ref=ARTSBZ68iRiT1xtx0h0Fu-5lFPBlRWZUcvPPwMVg5vTuyklVBue7Ozg-sVC28DMbCMM&fref=nf) released the latest figures [for the islands](https://www.facebook.com/AegeanBoatReport/posts/306015703254874?hc_location=ufi) , as of the 11th of February\. See the photo below for more details and numbers from different organisations and islands\.
 
 
-![Photo: [**Aegean Boat Report**](https://www.facebook.com/AegeanBoatReport/?hc_ref=ARTuCcTJlraR9XB8NWU6DliQmCvby_c1YDL6DdGZauS8gr_3pphBxi_zDdW2al7BP2o&fref=nf)](assets/ebe78ca5e92e/1*oyBKapVchDsp2vYdNTX_Kg.jpeg)
+![Photo: [**Aegean Boat Report**](https://www.facebook.com/AegeanBoatReport/?hc_ref=ARTuCcTJlraR9XB8NWU6DliQmCvby_c1YDL6DdGZauS8gr_3pphBxi_zDdW2al7BP2o&fref=nf)](../assets/ebe78ca5e92e/1*oyBKapVchDsp2vYdNTX_Kg.jpeg)
 
 Photo: [**Aegean Boat Report**](https://www.facebook.com/AegeanBoatReport/?hc_ref=ARTuCcTJlraR9XB8NWU6DliQmCvby_c1YDL6DdGZauS8gr_3pphBxi_zDdW2al7BP2o&fref=nf)
 #### Lesvos
@@ -83,7 +83,7 @@ Photo: [**Aegean Boat Report**](https://www.facebook.com/AegeanBoatReport/?hc_re
 [At 11 pm tonight](https://www.facebook.com/AegeanBoatReport/posts/306044589918652) , the 12th of February, a boat with 34 people was picked up by Frontex\. Among the people on the boat, there was 13 children, 9 women and 12 men\. They were all transfered to Skala Sikamineas and dropped there around midnight\.
 
 
-![Location of the pick up\. Photo: [**Aegean Boat Report**](https://www.facebook.com/AegeanBoatReport/?hc_ref=ARSq0wNyoCGOAZMf55RwUWKa1UMP9HLmyeSj3lSeNX5YMa1v6-2X433ccXZqF9qqRW4&fref=nf)](assets/ebe78ca5e92e/1*uWUMneRSe5N0kJLLDSASAw.jpeg)
+![Location of the pick up\. Photo: [**Aegean Boat Report**](https://www.facebook.com/AegeanBoatReport/?hc_ref=ARSq0wNyoCGOAZMf55RwUWKa1UMP9HLmyeSj3lSeNX5YMa1v6-2X433ccXZqF9qqRW4&fref=nf)](../assets/ebe78ca5e92e/1*uWUMneRSe5N0kJLLDSASAw.jpeg)
 
 Location of the pick up\. Photo: [**Aegean Boat Report**](https://www.facebook.com/AegeanBoatReport/?hc_ref=ARSq0wNyoCGOAZMf55RwUWKa1UMP9HLmyeSj3lSeNX5YMa1v6-2X433ccXZqF9qqRW4&fref=nf)
 #### More protests in Moria
@@ -91,11 +91,11 @@ Location of the pick up\. Photo: [**Aegean Boat Report**](https://www.facebook.c
 [Today there](https://www.facebook.com/nobordersnetwork/posts/1652499711484581?hc_location=ufi) was protests in Moria again, [**NoBorders**](https://www.facebook.com/nobordersnetwork/?hc_ref=ARSJMXMRD7dgp8PfjyXpBtorewxgJH9HHW9Mag3B9DorGRrP5WjLkwx-8qXK6tIA3RA) writes\. This time due to bad food and especially bad breakfast\. People have been living under these conditions for years now, and no wonder they complain over poor food\. To eat is an important part of life, which the people in Moria are neglected to do with dignity\.
 
 
-![](assets/ebe78ca5e92e/1*J-fF_UzmSSI5W6CafDwIbA.jpeg)
+![](../assets/ebe78ca5e92e/1*J-fF_UzmSSI5W6CafDwIbA.jpeg)
 
 
 
-![Moria today\. Photo: [**NoBorders**](https://www.facebook.com/nobordersnetwork/?hc_ref=ARSJMXMRD7dgp8PfjyXpBtorewxgJH9HHW9Mag3B9DorGRrP5WjLkwx-8qXK6tIA3RA)](assets/ebe78ca5e92e/1*jO3m971_e4x802kOH8HzWQ.jpeg)
+![Moria today\. Photo: [**NoBorders**](https://www.facebook.com/nobordersnetwork/?hc_ref=ARSJMXMRD7dgp8PfjyXpBtorewxgJH9HHW9Mag3B9DorGRrP5WjLkwx-8qXK6tIA3RA)](../assets/ebe78ca5e92e/1*jO3m971_e4x802kOH8HzWQ.jpeg)
 
 Moria today\. Photo: [**NoBorders**](https://www.facebook.com/nobordersnetwork/?hc_ref=ARSJMXMRD7dgp8PfjyXpBtorewxgJH9HHW9Mag3B9DorGRrP5WjLkwx-8qXK6tIA3RA)
 ### Italy
@@ -133,11 +133,11 @@ People stuck in Northern France need the same support and emergency supplies\.
 To donate to either Paris or Calais and the surroundings, get in touch at calaisdonations@gmail\.com
 
 
-![](assets/ebe78ca5e92e/1*uqZcR5aynnKTvGhwPhdNQw.jpeg)
+![](../assets/ebe78ca5e92e/1*uqZcR5aynnKTvGhwPhdNQw.jpeg)
 
 
 
-![The beautiful city of Paris today\. Photo: [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/?hc_ref=ARR-C2iA59P0p8HGGOvspDg6MAE_7eFcz9OwWHVUpgFPoqBUAuMgAdeIirjPB2FnPpg)](assets/ebe78ca5e92e/1*Ti3mfflWfvETEgeKKuAiqQ.jpeg)
+![The beautiful city of Paris today\. Photo: [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/?hc_ref=ARR-C2iA59P0p8HGGOvspDg6MAE_7eFcz9OwWHVUpgFPoqBUAuMgAdeIirjPB2FnPpg)](../assets/ebe78ca5e92e/1*Ti3mfflWfvETEgeKKuAiqQ.jpeg)
 
 The beautiful city of Paris today\. Photo: [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/?hc_ref=ARR-C2iA59P0p8HGGOvspDg6MAE_7eFcz9OwWHVUpgFPoqBUAuMgAdeIirjPB2FnPpg)
 #### Chinese — French translator needed for a court case\!
@@ -189,7 +189,7 @@ A new and extensive report has been done on refugee living standards and accommo
 One of the questions asked was: _“Do you feel safe inside the accommodation?”_ A shocking 45 percent answered no, and more than 18 percent said that they felt “very unsafe”\. Only 9 percent felt safe in their current housing situation\. This, of course, affects the general well\-being of a person\. For more information, the full report is [available here](http://refugeerights.org.uk/wp-content/uploads/2018/02/RRE_A-Hostile-Environment.pdf) \.
 
 
-![Photo: [**Faces Before Numbers**](https://www.facebook.com/FacesBeforeNumbers/?hc_ref=ARRu2Fpd8tjW0ufXHdHpBNtMoSpCu4nvWEGpG25r4qepWWlMAfhumhidykGiUJIwx84&fref=nf)](assets/ebe78ca5e92e/1*uvVe_4hOS9BdicjRMTb3WA.jpeg)
+![Photo: [**Faces Before Numbers**](https://www.facebook.com/FacesBeforeNumbers/?hc_ref=ARRu2Fpd8tjW0ufXHdHpBNtMoSpCu4nvWEGpG25r4qepWWlMAfhumhidykGiUJIwx84&fref=nf)](../assets/ebe78ca5e92e/1*uvVe_4hOS9BdicjRMTb3WA.jpeg)
 
 Photo: [**Faces Before Numbers**](https://www.facebook.com/FacesBeforeNumbers/?hc_ref=ARRu2Fpd8tjW0ufXHdHpBNtMoSpCu4nvWEGpG25r4qepWWlMAfhumhidykGiUJIwx84&fref=nf)
 

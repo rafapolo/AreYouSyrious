@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,migration,refugees,immigration,human-rights]
 description: Rescues off Spain // Multiple drownings during pushbacks in Meriç river // Updates on protest camp in France // Remembering Alan Kurdi
 image:
-  path: assets/5cb22228b080/1*YLtt0p0GeO6eEBuWh7Iq8g.jpeg
+  path: ../assets/5cb22228b080/1*YLtt0p0GeO6eEBuWh7Iq8g.jpeg
 ---
 
 ### AYS Digest 03/09/21 — MEPs challenge Slovenia over chain\-pushbacks of people on the move
@@ -15,7 +15,7 @@ image:
 ### FEATURE — “Tell us what you will do to stop the illegality, impunity and the brutality”: MEPs confront Slovenia over chain\-pushbacks
 
 
-![MEPs from the Left in the European Parliament pose with BVMN’s Black Book of Pushbacks this month\. \(Source: [Twitter](https://twitter.com/Left_EU/status/1433443368953122817) \)](assets/5cb22228b080/1*YLtt0p0GeO6eEBuWh7Iq8g.jpeg)
+![MEPs from the Left in the European Parliament pose with BVMN’s Black Book of Pushbacks this month\. \(Source: [Twitter](https://twitter.com/Left_EU/status/1433443368953122817) \)](../assets/5cb22228b080/1*YLtt0p0GeO6eEBuWh7Iq8g.jpeg)
 
 MEPs from the Left in the European Parliament pose with BVMN’s Black Book of Pushbacks this month\. \(Source: [Twitter](https://twitter.com/Left_EU/status/1433443368953122817) \)
 
@@ -109,7 +109,7 @@ Med’EqualiTeam has compiled a list of resources for new arrivals to Samos, whi
 #### Progetto20k on the recent death of a young man on French\-Italian border
 
 
-![](assets/5cb22228b080/1*wKHzhV16XU8TPdlJuBZ3og.jpeg)
+![](../assets/5cb22228b080/1*wKHzhV16XU8TPdlJuBZ3og.jpeg)
 
 
 
@@ -222,7 +222,7 @@ Info Kolpa is hosting an event on Saturday, September 11 at 18:00\. Read the eve
 
 
 
-[![600 exilés sans-abri campent devant la préfecture d'Île de France](assets/5cb22228b080/f340_hqdefault.jpg "600 exilés sans-abri campent devant la préfecture d'Île de France")](https://www.youtube.com/watch?v=_rYt3G5y38s)
+[![600 exilés sans-abri campent devant la préfecture d'Île de France](../assets/5cb22228b080/f340_hqdefault.jpg "600 exilés sans-abri campent devant la préfecture d'Île de France")](https://www.youtube.com/watch?v=_rYt3G5y38s)
 
 #### Expulsion in Calais — video
 
@@ -303,7 +303,7 @@ A former minister for migration in Demark who was known for separating migrant c
 #### Commemorations of Alan Kurdi
 
 
-![Source: [InfoMigrants](https://www.facebook.com/InfoMigrants/posts/4094654497322971)](assets/5cb22228b080/1*8aR_7TK4jAyzQSXTXS13tw.jpeg)
+![Source: [InfoMigrants](https://www.facebook.com/InfoMigrants/posts/4094654497322971)](../assets/5cb22228b080/1*8aR_7TK4jAyzQSXTXS13tw.jpeg)
 
 Source: [InfoMigrants](https://www.facebook.com/InfoMigrants/posts/4094654497322971)
 

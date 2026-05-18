@@ -7,20 +7,20 @@ categories: Are You Syrious?
 tags: [refugees,eu,libya,greece,digest]
 description: Hunger in Libya // Fascist protests on Poland’s Independence Day // petition against militarization against refugees in BiH // co-founder…
 image:
-  path: assets/4f763b498a56/1*S-OTzf8CrR9MozOGiTYRlA.jpeg
+  path: ../assets/4f763b498a56/1*S-OTzf8CrR9MozOGiTYRlA.jpeg
 ---
 
 ### AYS Daily Digest 11/11/19: Frontex is set to be “strengthened”
 #### _Hunger in Libya // Fascist protests on Poland’s Independence Day // Petition against militarization against refugees in BiH // Co\-founder of White Helmets found dead in Istanbul // and more…_
 
 
-![Photo by EU/N Doychinov, provided by [DW](https://www.dw.com/en/eu-border-force-frontex-implicated-in-migrant-abuse/a-49892097)](assets/4f763b498a56/1*S-OTzf8CrR9MozOGiTYRlA.jpeg)
+![Photo by EU/N Doychinov, provided by [DW](https://www.dw.com/en/eu-border-force-frontex-implicated-in-migrant-abuse/a-49892097)](../assets/4f763b498a56/1*S-OTzf8CrR9MozOGiTYRlA.jpeg)
 
 Photo by EU/N Doychinov, provided by [DW](https://www.dw.com/en/eu-border-force-frontex-implicated-in-migrant-abuse/a-49892097)
 #### Just another mechanism for:
 
 
-![Picture by [Yannis Antonopoulos](https://www.cartoonmovement.com/p/5918/cartoons?p=2)](assets/4f763b498a56/1*MdJFgOCTzrG_wmsvWWg7vQ.jpeg)
+![Picture by [Yannis Antonopoulos](https://www.cartoonmovement.com/p/5918/cartoons?p=2)](../assets/4f763b498a56/1*MdJFgOCTzrG_wmsvWWg7vQ.jpeg)
 
 Picture by [Yannis Antonopoulos](https://www.cartoonmovement.com/p/5918/cartoons?p=2)
 #### FEATURED
@@ -92,7 +92,7 @@ In a new arrivals update from Saturday to Monday from [Aegean Boat Report](https
 **Monday** : Lesvos \(2 boats, 87 people\) and Kos \(1 boat, 15 people\) \.
 
 
-![“Demonstration after the police attacked to the students of Economical University of Athens\.” Photo by [Nasim Lomani](https://www.facebook.com/photo.php?fbid=10157653129837497&set=a.10151529381012497&type=3&theater)](assets/4f763b498a56/1*eAhgNFwlyWk4qD84SdEAhg.jpeg)
+![“Demonstration after the police attacked to the students of Economical University of Athens\.” Photo by [Nasim Lomani](https://www.facebook.com/photo.php?fbid=10157653129837497&set=a.10151529381012497&type=3&theater)](../assets/4f763b498a56/1*eAhgNFwlyWk4qD84SdEAhg.jpeg)
 
 “Demonstration after the police attacked to the students of Economical University of Athens\.” Photo by [Nasim Lomani](https://www.facebook.com/photo.php?fbid=10157653129837497&set=a.10151529381012497&type=3&theater)
 ### Italy
@@ -124,7 +124,7 @@ A boat capsized in the Danube on Sunday night with 10 people who were trying to 
 ### Bosnia and Herzegovina
 
 
-[![AKCIJA POLICIJE - DOM PENZIONERA BIHAĆ](assets/4f763b498a56/88cd_hqdefault.jpg "AKCIJA POLICIJE - DOM PENZIONERA BIHAĆ")](https://www.youtube.com/watch?v=5xc01bAz5T4)
+[![AKCIJA POLICIJE - DOM PENZIONERA BIHAĆ](../assets/4f763b498a56/88cd_hqdefault.jpg "AKCIJA POLICIJE - DOM PENZIONERA BIHAĆ")](https://www.youtube.com/watch?v=5xc01bAz5T4)
 
 
 [German media T](https://www.dw.com/bs/migrantima-na-balkanskoj-ruti-prijeti-bijela-smrt/a-51200150?fbclid=IwAR2r7Rl9eidQMjSY_FDJieQpB2uYPNSkXjuprLrGMkRbt5fC8_J0kykpgrI) ageszeitung writes about the fate of many people trapped in Bosnia and Herzegovina this winter:
@@ -179,7 +179,7 @@ The EU Delegation to BiH Johann Sattler asked for the camp to be closed due to h
 ### Poland
 
 
-![47,000 people demonstrated in Warsaw’s Independence Day march on Monday Photo by [Reuters](https://www.voanews.com/europe/tens-thousands-join-polands-nationalist-independence-day-march)](assets/4f763b498a56/1*Gug-sxXfk3yEWfG0iNaYdg.jpeg)
+![47,000 people demonstrated in Warsaw’s Independence Day march on Monday Photo by [Reuters](https://www.voanews.com/europe/tens-thousands-join-polands-nationalist-independence-day-march)](../assets/4f763b498a56/1*Gug-sxXfk3yEWfG0iNaYdg.jpeg)
 
 47,000 people demonstrated in Warsaw’s Independence Day march on Monday Photo by [Reuters](https://www.voanews.com/europe/tens-thousands-join-polands-nationalist-independence-day-march)
 
@@ -189,14 +189,14 @@ In [Warsaw’s Independence](https://www.repubblica.it/esteri/2019/11/11/news/po
 ### France
 
 
-![Photo provided by [Phil Kerton](https://www.facebook.com/photo.php?fbid=10157965320712806&set=gm.10156743704314562&type=3&theater&ifg=1)](assets/4f763b498a56/1*cna8XmI3OrBN9qiClVON2A.jpeg)
+![Photo provided by [Phil Kerton](https://www.facebook.com/photo.php?fbid=10157965320712806&set=gm.10156743704314562&type=3&theater&ifg=1)](../assets/4f763b498a56/1*cna8XmI3OrBN9qiClVON2A.jpeg)
 
 Photo provided by [Phil Kerton](https://www.facebook.com/photo.php?fbid=10157965320712806&set=gm.10156743704314562&type=3&theater&ifg=1)
 
 Ways to help Solidarité migrants Wilson on Tuesday:
 
 
-![“From 15:00 Collective Kitchen to prepare meals \(in Saint\-Denis, not far from the front\-popular metro; address given in pm\) \. At 20:00 we will all meet on Wilson Avenue in Saint\-Denis \(at church level, at 131 → where we usually make meals\) \. Team building to go distribute meals\.” Photo by [Solidarité migrants Wilson](https://www.facebook.com/permalink.php?story_fbid=1274310092769760&id=598228360377940)](assets/4f763b498a56/1*Nb46wrgOiqIWY--YRCiHKg.jpeg)
+![“From 15:00 Collective Kitchen to prepare meals \(in Saint\-Denis, not far from the front\-popular metro; address given in pm\) \. At 20:00 we will all meet on Wilson Avenue in Saint\-Denis \(at church level, at 131 → where we usually make meals\) \. Team building to go distribute meals\.” Photo by [Solidarité migrants Wilson](https://www.facebook.com/permalink.php?story_fbid=1274310092769760&id=598228360377940)](../assets/4f763b498a56/1*Nb46wrgOiqIWY--YRCiHKg.jpeg)
 
 “From 15:00 Collective Kitchen to prepare meals \(in Saint\-Denis, not far from the front\-popular metro; address given in pm\) \. At 20:00 we will all meet on Wilson Avenue in Saint\-Denis \(at church level, at 131 → where we usually make meals\) \. Team building to go distribute meals\.” Photo by [Solidarité migrants Wilson](https://www.facebook.com/permalink.php?story_fbid=1274310092769760&id=598228360377940)
 ### EU

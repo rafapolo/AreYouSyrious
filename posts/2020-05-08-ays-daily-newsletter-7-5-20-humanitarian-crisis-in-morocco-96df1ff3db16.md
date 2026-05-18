@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Newsletter 7/5/20: Humanitarian Crisis in Morocco
+title: "AYS Daily Newsletter 7/5/20: Humanitarian Crisis in Morocco"
 author: Are You Syrious?
 date: 2020-05-08T22:01:33.652+0100
 last_modified_at: 2020-05-08T22:01:33.652+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: []
 description: Worsening situation aboard MV Marina /// Proposed Asylum Law in Greece Sparking Criticism /// Growing Concerns Over Conditions in Lampedusa…
 image:
-  path: assets/96df1ff3db16/0*jfVRe3Uc_xgB6A2_.jpeg
+  path: ../assets/96df1ff3db16/0*jfVRe3Uc_xgB6A2_.jpeg
 ---
 
 ### AYS Daily Newsletter 7/5/20: Humanitarian Crisis in Morocco
@@ -15,7 +15,7 @@ image:
 ### FEATURED — Human Rights Abuses in Morocco
 
 
-![](assets/96df1ff3db16/0*jfVRe3Uc_xgB6A2_.jpeg)
+![](../assets/96df1ff3db16/0*jfVRe3Uc_xgB6A2_.jpeg)
 
 
 Photo: [Salaheddine Lemaizi](https://www.facebook.com/salaheddinelemaizi?__tn__=%2CdlCH-R-R&eid=ARAKKAyK5JcNpEn4YreqehGwpQYvvXBDprqy_O3pUNN57xLjapBTRAdol-Aa9R7gnvXesOVlAdkfmuLb&hc_ref=ARSL7HYWussgPnulfa_PXI8IhnRcD1gQeHRMJB_JThPvshdgJPPKqyIEA41T3vVRSsA&ref=nf_target&hc_location=group)

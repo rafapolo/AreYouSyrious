@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 04/10/2019: Italy’s new plan to accelerate expulsions and forced returns
+title: "AYS DAILY DIGEST 04/10/2019: Italy’s new plan to accelerate expulsions and forced returns"
 author: Are You Syrious?
 date: 2019-10-05T10:27:48.919+0100
 last_modified_at: 2019-10-05T17:58:23.892+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,italy,greece,germany]
 description: New report on immigration detention in Greece highlights worrying number of children imprisoned//Seehofer willing to strengthen EU-Turkey…
 image:
-  path: assets/ac2c059e7bcc/1*UsOmA5UD6umxLbe6bpHOJA.jpeg
+  path: ../assets/ac2c059e7bcc/1*UsOmA5UD6umxLbe6bpHOJA.jpeg
 ---
 
 ### AYS DAILY DIGEST 04/10/2019: Italy’s new plan to accelerate expulsions and forced returns
 #### New report on immigration detention in Greece highlights worrying number of children imprisoned//Seehofer willing to strengthen EU\-Turkey deal//700 people currently stranded in Brussels//6\-year\-old child died after being rescued off the Spanish shore…
 
 
-![Credit: Sanella Lepirica\. October 2019\.](assets/ac2c059e7bcc/1*UsOmA5UD6umxLbe6bpHOJA.jpeg)
+![Credit: Sanella Lepirica\. October 2019\.](../assets/ac2c059e7bcc/1*UsOmA5UD6umxLbe6bpHOJA.jpeg)
 
 Credit: Sanella Lepirica\. October 2019\.
 #### FEATURED

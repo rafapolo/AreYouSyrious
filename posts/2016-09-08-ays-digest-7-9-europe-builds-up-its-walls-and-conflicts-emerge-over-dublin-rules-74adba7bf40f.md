@@ -7,7 +7,7 @@ categories:
 tags: [europe,refugees]
 description: Some Greek camps to close and camps in northern Greece flooded by heavy rain. Relocation remains slow. Austria threatens to sue Hungary if…
 image:
-  path: assets/74adba7bf40f/0*YIW1hP9RBNPOyB5f.jpg
+  path: ../assets/74adba7bf40f/0*YIW1hP9RBNPOyB5f.jpg
 ---
 
 ### AYS Digest 7/9 — Europe builds up its walls and conflicts emerge over Dublin rules
@@ -15,14 +15,14 @@ image:
 _Some Greek camps to close and camps in northern Greece flooded by heavy rain\. Relocation remains slow\. Austria threatens to sue Hungary if it does not take back refugees while UK plans to build ‘big, new wall” in Calais\._
 
 
-![Watermelons in Kavala\. Photo by Northern Lights Aid\.](assets/74adba7bf40f/0*YIW1hP9RBNPOyB5f.jpg)
+![Watermelons in Kavala\. Photo by Northern Lights Aid\.](../assets/74adba7bf40f/0*YIW1hP9RBNPOyB5f.jpg)
 
 Watermelons in Kavala\. Photo by Northern Lights Aid\.
 #### Syria
 ### Four White Helmets volunteers killed in double\-tap attack
 
 
-![](assets/74adba7bf40f/0*G9fY83pDqLwSflBl.)
+![](../assets/74adba7bf40f/0*G9fY83pDqLwSflBl.)
 
 
 The Syria Campaign says Hasan Hannan, pictured above, and three other volunteers were killed in a double\-tap attack, when airstrikes targeted rescuers responding to an earlier attack\.
@@ -34,7 +34,7 @@ The Syrian Observatory for Human Rights says the doctor was killed by shelling i
 A suspected chlorine attack has hit eastern Aleppo on Tuesday, with eyewitnesses saying the attack came from a missile fired by a Syrian government jet
 
 
-[![Aleppo suspected government chlorine strike](assets/74adba7bf40f/fe2b_hqdefault.jpg "Aleppo suspected government chlorine strike")](http://www.youtube.com/watch?v=5Bx4cpz2dnQ)
+[![Aleppo suspected government chlorine strike](../assets/74adba7bf40f/fe2b_hqdefault.jpg "Aleppo suspected government chlorine strike")](http://www.youtube.com/watch?v=5Bx4cpz2dnQ)
 
 #### Greece
 ### Greece to close some refugee camps and open new ones
@@ -46,17 +46,17 @@ Among the facilities that are to close are those in Sindos and Oraiokastro and i
 Heavy rain today has demonstrated why facilities need to be improved, with several camps in northern Greece completely flooded\.
 
 
-![Nea Kavalah camp after the rain\. Photo by Mohamad Hadi Almadanis\.](assets/74adba7bf40f/0*geK6XUv7GOwjNfGH.)
+![Nea Kavalah camp after the rain\. Photo by Mohamad Hadi Almadanis\.](../assets/74adba7bf40f/0*geK6XUv7GOwjNfGH.)
 
 Nea Kavalah camp after the rain\. Photo by Mohamad Hadi Almadanis\.
 
 
-![Oreokastro camp\. Photo by Mohamad Hadi Almadanis\.](assets/74adba7bf40f/0*Lbz3J1OrhF0d7tS1.)
+![Oreokastro camp\. Photo by Mohamad Hadi Almadanis\.](../assets/74adba7bf40f/0*Lbz3J1OrhF0d7tS1.)
 
 Oreokastro camp\. Photo by Mohamad Hadi Almadanis\.
 
 
-![Vasilika camp\. Photo by Araz Kurdish\.](assets/74adba7bf40f/0*ezayFMav_MwzzajB.)
+![Vasilika camp\. Photo by Araz Kurdish\.](../assets/74adba7bf40f/0*ezayFMav_MwzzajB.)
 
 Vasilika camp\. Photo by Araz Kurdish\.
 
@@ -73,12 +73,12 @@ Refugee numbers continue to increase, with one boat of 47 people arriving in Chi
 UNHCR is also concerned that refugees in Chios will resort to camping outside of designated sites, as all sites have surpassed maximum capacity\. Volunteers said refugees that landed today in Chios had to sleep on the beach\.
 
 
-![Photo posted on Through Refugees Eyes](assets/74adba7bf40f/0*HjfT_CT2JEdABH6f.jpg)
+![Photo posted on Through Refugees Eyes](../assets/74adba7bf40f/0*HjfT_CT2JEdABH6f.jpg)
 
 Photo posted on Through Refugees Eyes
 
 
-![Photo posted on Through Refugees Eyes](assets/74adba7bf40f/0*4hxthcb95uzgt3A5.)
+![Photo posted on Through Refugees Eyes](../assets/74adba7bf40f/0*4hxthcb95uzgt3A5.)
 
 Photo posted on Through Refugees Eyes
 ### Children to start attending school at end of the month
@@ -118,7 +118,7 @@ However, Simon Cox, a migration lawyer for the Open Society Justice Initiative, 
 Refugees at the camp have started a protest and are calling for help, saying conditions are really bad, especially the food\.
 
 
-![](assets/74adba7bf40f/0*o4gAfHgGb411HaeN.)
+![](../assets/74adba7bf40f/0*o4gAfHgGb411HaeN.)
 
 #### Serbia
 ### Donations needed for Refugee Aid Mikaliste
@@ -126,7 +126,7 @@ Refugees at the camp have started a protest and are calling for help, saying con
 Refugee Aid Mikaliste in Belgrade needs warm clothes as weather deteriorates and as winter approaches\. You can find the location of their donation centres on their [website](http://refugeeaidmiksaliste.rs/donate-now/) \.
 
 
-![Photo by Refugee Aid Mikaliste](assets/74adba7bf40f/0*wtOMUg2jJCDAZ3us.jpg)
+![Photo by Refugee Aid Mikaliste](../assets/74adba7bf40f/0*wtOMUg2jJCDAZ3us.jpg)
 
 Photo by Refugee Aid Mikaliste
 ### Austria
@@ -145,7 +145,7 @@ Austria is also thinking about reactivting border controls at its border with It
 The Guardian reports UK’s immigration minister Robert Goodwill says work is about to begin on “a big, new wall” in Calais, to prevent refugees from reaching the UK\. The £1\.9m wall will be built in two sections on either side of the road to prevent migrants from jumping on lorries\. François Guennoc of Auberge des Migrants says _“when you put walls up anywhere in the world, people find ways to go round them\. It’s a waste of money\. It could make it more dangerous for people, it will push up tariffs for people smugglers and people will end up taking more risks\.”_ Goodwill adds the wall is only one part of a £17m deal with France and admits he is yet to visit Calais\.
 
 
-![Photo by the Worldwide Tribe](assets/74adba7bf40f/0*KPDO8vNwgorbiy1o.jpg)
+![Photo by the Worldwide Tribe](../assets/74adba7bf40f/0*KPDO8vNwgorbiy1o.jpg)
 
 Photo by the Worldwide Tribe
 
@@ -154,7 +154,7 @@ The Refugee Rights Data Project points out that the wall is unlikely to make the
 Tear\-gas was shot at refugees in Calais by French police at least four times Tuesday night, according to Direct Action Volunteers\. Here’s a video of what happened\.
 
 
-[![Calais 'jungle' unprovoked blanket tear gas attack 7.9.16](assets/74adba7bf40f/03b0_hqdefault.jpg "Calais 'jungle' unprovoked blanket tear gas attack 7.9.16")](http://www.youtube.com/watch?v=IlPp2-2GD2E)
+[![Calais 'jungle' unprovoked blanket tear gas attack 7.9.16](../assets/74adba7bf40f/03b0_hqdefault.jpg "Calais 'jungle' unprovoked blanket tear gas attack 7.9.16")](http://www.youtube.com/watch?v=IlPp2-2GD2E)
 
 
 

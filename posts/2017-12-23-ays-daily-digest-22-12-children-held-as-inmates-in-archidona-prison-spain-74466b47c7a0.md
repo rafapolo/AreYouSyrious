@@ -7,7 +7,7 @@ categories:
 tags: [refugees,paris,bosnia,europe]
 description: Spain condemned for Archidona prison/ Heavy airstrikes continue in Ghouta, Syria / Over 9,000 civilians deaths in fight to free Mosul/ 162…
 image:
-  path: assets/74466b47c7a0/1*vFv5yPN_I9xIsQiYMVsgyw.jpeg
+  path: ../assets/74466b47c7a0/1*vFv5yPN_I9xIsQiYMVsgyw.jpeg
 ---
 
 ### AYS Daily Digest 22/12 “Children held as inmates in Archidona Prison, Spain”
@@ -15,7 +15,7 @@ image:
 _Spain condemned for Archidona prison/ Heavy airstrikes continue in Ghouta, Syria / Over 9,000 civilians deaths in fight to free Mosul/ 162 women and children evacuated from Libya to Italy/ Tensions remain high on Aegean Islands/ Greece receives 7 million Euros to improve reception facilities/Bulgaria assigned presidency of European Council/ and news from Bosnia, Serbia, Germany, The Netherlands and France\._
 
 
-![Refugees are not criminals and should not be criminalised for seeking Asylum\. A photo from Section B Prison facility, Moria, Lesvos\. Source: Loys Ha](assets/74466b47c7a0/1*vFv5yPN_I9xIsQiYMVsgyw.jpeg)
+![Refugees are not criminals and should not be criminalised for seeking Asylum\. A photo from Section B Prison facility, Moria, Lesvos\. Source: Loys Ha](../assets/74466b47c7a0/1*vFv5yPN_I9xIsQiYMVsgyw.jpeg)
 
 Refugees are not criminals and should not be criminalised for seeking Asylum\. A photo from Section B Prison facility, Moria, Lesvos\. Source: Loys Ha
 ### **Feature: Spain condemned by UN for Archidona Prison facility**
@@ -44,7 +44,7 @@ Three [minors, however, remain in Archidona prison and are scheduled for deporta
 Yesterday saw one of the [largest demonstrations](https://www.euroweeklynews.com/3.0.15/news/on-euro-weekly-news/spain-news-in-english/146813-in-depth-%E2%80%98humiliation%E2%80%99-%E2%80%98riots%E2%80%99-%E2%80%98minor-incidents%E2%80%99-insiders-dispute-what-is-really-happening-at-archidona-prison) against the migrants’ internment at the ‘unopened’ prison and their deportation back to Algeria so far\.
 
 
-![Source: Acaip Cordoba](assets/74466b47c7a0/1*5ONRdRVAU8fIX8sDrz7f8Q.png)
+![Source: Acaip Cordoba](../assets/74466b47c7a0/1*5ONRdRVAU8fIX8sDrz7f8Q.png)
 
 Source: Acaip Cordoba
 
@@ -278,7 +278,7 @@ The Unmentionables are looking for volunteers to join their team on ground\. The
 No Border School are launching a new project in collaboration with [مؤسسة جفرا في اليونان/Jafra foundation in Greece](https://www.facebook.com/JafraFoundationinGreece/?fref=mentions) and need your help to do so\. You can support them by sharing this video below\.
 
 
-[![Education for Community by Jafra and No Border School](assets/74466b47c7a0/2d68_hqdefault.jpg "Education for Community by Jafra and No Border School")](http://www.youtube.com/watch?v=ojHqi7Z84ds)
+[![Education for Community by Jafra and No Border School](../assets/74466b47c7a0/2d68_hqdefault.jpg "Education for Community by Jafra and No Border School")](http://www.youtube.com/watch?v=ojHqi7Z84ds)
 
 ### Bulgaria:
 
@@ -368,15 +368,15 @@ Christmas in Paris sounds like a romantic idea for many, but not for the hundred
 
 
 
-![](assets/74466b47c7a0/1*L7_6DhzkndLTtr3P30SEQA.jpeg)
+![](../assets/74466b47c7a0/1*L7_6DhzkndLTtr3P30SEQA.jpeg)
 
 
 
-![](assets/74466b47c7a0/1*JMK48aOQons0LPk6y9Tcew.jpeg)
+![](../assets/74466b47c7a0/1*JMK48aOQons0LPk6y9Tcew.jpeg)
 
 
 
-![Source: Care4Calais](assets/74466b47c7a0/1*TIrQA6n9LyyqLVXk6tjnHQ.jpeg)
+![Source: Care4Calais](../assets/74466b47c7a0/1*TIrQA6n9LyyqLVXk6tjnHQ.jpeg)
 
 Source: Care4Calais
 

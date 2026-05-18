@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 20/03/2017: While EU is preparing a new deal, more people arrive in Italy every…
+title: "AYS DAILY DIGEST 20/03/2017: While EU is preparing a new deal, more people arrive in Italy every…"
 author: Are You Syrious?
 date: 2017-03-20T23:32:04.138+0000
 last_modified_at: 2017-03-21T01:00:09.372+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,refugees-in-italy,lampedusa,hotspots]
 description: Over 1000 people arrived in Italy today // Increase of new arrivals in Greece // People stranded in Serbia want to go back to Greece…
 image:
-  path: assets/514b9c6361c/1*-te6SK3ySs-U43a5aIKNXA.jpeg
+  path: ../assets/514b9c6361c/1*-te6SK3ySs-U43a5aIKNXA.jpeg
 ---
 
 ### AYS DAILY DIGEST 20/03/2017: While EU is preparing a new deal, more people arrive in Italy every day
@@ -15,7 +15,7 @@ image:
 _Over 1000 people arrived in Italy today // Increase of new arrivals in Greece // People stranded in Serbia want to go back to Greece, Turkey or their countries or origin after the new law in Hungary // Conditions in camps in Germany not much better than in Greece_
 
 
-![Refugees in the Mediterranean\. By Vasco Gargalo \(Art Against\)](assets/514b9c6361c/1*-te6SK3ySs-U43a5aIKNXA.jpeg)
+![Refugees in the Mediterranean\. By Vasco Gargalo \(Art Against\)](../assets/514b9c6361c/1*-te6SK3ySs-U43a5aIKNXA.jpeg)
 
 Refugees in the Mediterranean\. By Vasco Gargalo \(Art Against\)
 ### Feature
@@ -24,7 +24,7 @@ Refugees in the Mediterranean\. By Vasco Gargalo \(Art Against\)
 This morning, around 9\.30, 116 people, including 15 women and a 5 year old child, landed in Molo Favarolo, Lampedusa\. By the end of the day, 560 people arrived\. They are from Cameroon, Ghana, Côte d’Ivoire, Gambia, Nigeria, Senegal, Guinea Bissau\.
 
 
-![By Mediterranean Hope\.](assets/514b9c6361c/1*-W3ELPPK3DbnWaXwz7bEGg.jpeg)
+![By Mediterranean Hope\.](../assets/514b9c6361c/1*-W3ELPPK3DbnWaXwz7bEGg.jpeg)
 
 By Mediterranean Hope\.
 
@@ -58,7 +58,7 @@ With the good weather, the number of arrivals to Greece is slowly increasing\. T
 Volunteers from Chios are reporting that hot spot Vial is full of people, as well as camp Souda, where people still sleep in tents\. Those who have been waiting there for over a year to cross, are becoming more depressed, not seeing a way to leave this island where many are stranded for over a year, living in camp under tent\.
 
 
-![](assets/514b9c6361c/1*m4_kscPInxIGZ8MlCbFIVg.jpeg)
+![](../assets/514b9c6361c/1*m4_kscPInxIGZ8MlCbFIVg.jpeg)
 
 
 Local media in Greece are also reporting about the increase of new arrivals saying that 566 people arrived at Lesvos, Samos, and Chios since last Thursday\.
@@ -122,7 +122,7 @@ Meanwhile, the construction of the new detentions centers is going on\. Official
 Many refugees who are stuck in Greece, or elsewhere in the Balkans, are hoping to get to Germany\. However, those who arrived are in some cases disappointed with living conditions and the treatment they received upon arrival\. [Ali Borsan](https://medium.com/u/b2547dd4a88e) , who lived for almost a year in Nea Karvala camp, was relocated to Berlin at the beginning of march\. He claims that he lives in a camp where no privacy exists\. _“It is impossible to find a place or time to read, study, or to get some quiet time to think, to learn something, or to cry,”_ he twits\. In another one, Ali writes: _“Don’t build big hopes on relocation results\. Now we are in a camp same as Nea Karvali camp\. You can’t change anything\.”_
 
 
-![New camp in Berlin where Ali lives after almost a year in Nea Krvala\.](assets/514b9c6361c/1*ixVB1OB_uSlh6hYt9FR6LQ.jpeg)
+![New camp in Berlin where Ali lives after almost a year in Nea Krvala\.](../assets/514b9c6361c/1*ixVB1OB_uSlh6hYt9FR6LQ.jpeg)
 
 New camp in Berlin where Ali lives after almost a year in Nea Krvala\.
 
@@ -134,7 +134,7 @@ RISE \(Refugees Ideas and Solution for Europe\), a network operating across 14 c
 Through a series of informative posters, they will try to draw attention to the worrisome situations refugees face but also to solutions and best practices that exist\. This is the poster about language lessons provided in different states for refugees\. To learn the language is the first step toward the integration\.
 
 
-![](assets/514b9c6361c/1*2vghWfnd_48Vi1XN02cOfw.png)
+![](../assets/514b9c6361c/1*2vghWfnd_48Vi1XN02cOfw.png)
 
 
 

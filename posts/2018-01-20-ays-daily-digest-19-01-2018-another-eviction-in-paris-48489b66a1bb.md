@@ -7,7 +7,7 @@ categories:
 tags: [refugees,paris,crypteia,athens,opentheborder]
 description: Updates from Gorizia /// Uk and France signed border agreement /// Demonstration called for the closure of Kærshovedgård deportation camp…
 image:
-  path: assets/48489b66a1bb/1*t6cqi-xQ6drQe1_rAv4-vw.jpeg
+  path: ../assets/48489b66a1bb/1*t6cqi-xQ6drQe1_rAv4-vw.jpeg
 ---
 
 ### AYS Daily Digest 19/01/2018 Another eviction in Paris
@@ -16,7 +16,7 @@ Updates from Gorizia /// Uk and France signed border agreement /// Demonstration
 #### Feature: Another eviction in St\. Denis, Paris
 
 
-![St\. Denis, Paris \(Photo by [Verein FAIR\.](https://www.facebook.com/VereinFAIR/) \)](assets/48489b66a1bb/1*t6cqi-xQ6drQe1_rAv4-vw.jpeg)
+![St\. Denis, Paris \(Photo by [Verein FAIR\.](https://www.facebook.com/VereinFAIR/) \)](../assets/48489b66a1bb/1*t6cqi-xQ6drQe1_rAv4-vw.jpeg)
 
 St\. Denis, Paris \(Photo by [Verein FAIR\.](https://www.facebook.com/VereinFAIR/) \)
 
@@ -79,7 +79,7 @@ Because there is no truce at sea, because \#Europa is blind and deaf, because th
 [SOS Meditterranee](https://www.facebook.com/sosmedfrance/photos/pcb.2084149225191391/2084147361858244/?type=3&theater) report more than 1600 people have been rescued in the Mediterranean in the last few days\.
 
 
-![](assets/48489b66a1bb/1*AtJZqDIVpOn1RPqViJNk3g.jpeg)
+![](../assets/48489b66a1bb/1*AtJZqDIVpOn1RPqViJNk3g.jpeg)
 
 
 
@@ -115,11 +115,11 @@ One boat arrived on Kagia beach, in the North coast of Lesvos, carrying 32 peopl
 #### Increased injuries in Patras
 
 
-![](assets/48489b66a1bb/1*pF8QISRlEnYkxPpYiAiBWg.jpeg)
+![](../assets/48489b66a1bb/1*pF8QISRlEnYkxPpYiAiBWg.jpeg)
 
 
 
-![Photos by [NoBorder](https://m.facebook.com/story.php?story_fbid=1628694340531785&id=657905327610696&hc_location=ufi) s](assets/48489b66a1bb/1*78SSwZTTM_h5h2BLur3zvw.jpeg)
+![Photos by [NoBorder](https://m.facebook.com/story.php?story_fbid=1628694340531785&id=657905327610696&hc_location=ufi) s](../assets/48489b66a1bb/1*78SSwZTTM_h5h2BLur3zvw.jpeg)
 
 Photos by [NoBorder](https://m.facebook.com/story.php?story_fbid=1628694340531785&id=657905327610696&hc_location=ufi) s
 

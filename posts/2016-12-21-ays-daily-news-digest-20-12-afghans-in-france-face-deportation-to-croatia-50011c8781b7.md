@@ -1,5 +1,5 @@
 ---
-title: AYS Daily News Digest 20/12: Afghans in France facing deportation to Croatia
+title: "AYS Daily News Digest 20/12: Afghans in France facing deportation to Croatia"
 author: Are You Syrious?
 date: 2016-12-21T01:20:11.691+0000
 last_modified_at: 2016-12-21T13:58:19.949+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,croatia,italy,france]
 description: Attorneys try to stop the disputable practice, which Austria and Slovenia have already been criticized for. The forgotten children of…
 image:
-  path: assets/50011c8781b7/1*nECQpsQE6IjvyJnytUK9jQ.jpeg
+  path: ../assets/50011c8781b7/1*nECQpsQE6IjvyJnytUK9jQ.jpeg
 ---
 
 ### AYS Daily News Digest 20/12: Afghans in France facing deportation to Croatia
@@ -15,7 +15,7 @@ image:
 Attorneys try to stop the disputable practice, which Austria and Slovenia have already been criticized for\. The forgotten children of Calais: unaccompanied minors leave facilities in despair trying to get to UK and reunite with their families\. The circle of the street camps in Paris\. 19 Syrians deported from Greece to Turkey\. Samos and mainland volunteers need your support\. Five refugees drown in the Aegen Sea\. New integration project launched in Treviso, Italy\. Sicily faced massive increase of new arrivals in 2016\. Centre for Peace Studies calls out for demonstration in Zagreb on Thursday\.
 
 
-![Nowhere to go, no place so stay\. Refugees in Belgrade\. Credits: [**Igor Čoko**](https://www.facebook.com/antonio.cimavica)](assets/50011c8781b7/1*nECQpsQE6IjvyJnytUK9jQ.jpeg)
+![Nowhere to go, no place so stay\. Refugees in Belgrade\. Credits: [**Igor Čoko**](https://www.facebook.com/antonio.cimavica)](../assets/50011c8781b7/1*nECQpsQE6IjvyJnytUK9jQ.jpeg)
 
 Nowhere to go, no place so stay\. Refugees in Belgrade\. Credits: [**Igor Čoko**](https://www.facebook.com/antonio.cimavica)
 ### Feature: Disputable practice
@@ -29,7 +29,7 @@ The unaccompanied minors who were moved out of the Calais jungle during the evic
 In the reception centres in France they seem to be left alone\. “ Children were self\-harming with lighters and razors, were hunger striking and threatening suicide\. \[…\] In 11 out of 12 of the centres I visited, children received no psychological support”, Benjamin Hunter reports\. They often don’t receive information on their cases and are lacking on legal support\. He is aware of minors, who have already left the facilities, sleeping in the wild, trying to find their own way to finally reach their families\.
 
 
-![The rough streets of Paris\. Credits: [Calais Action](https://www.facebook.com/calaisaction/photos/pcb.1377299028989265/1377294405656394/?type=3&theater)](assets/50011c8781b7/1*5dchyb_wMaCZ29waqndGNg.jpeg)
+![The rough streets of Paris\. Credits: [Calais Action](https://www.facebook.com/calaisaction/photos/pcb.1377299028989265/1377294405656394/?type=3&theater)](../assets/50011c8781b7/1*5dchyb_wMaCZ29waqndGNg.jpeg)
 
 The rough streets of Paris\. Credits: [Calais Action](https://www.facebook.com/calaisaction/photos/pcb.1377299028989265/1377294405656394/?type=3&theater)
 #### Meanwhile Tim Farron, Leader of the British Liberal Democrats,
@@ -56,7 +56,7 @@ met volunteers on the ground in Paris to see the situation\. Calais Action [repo
 
 
 
-![Visit in Paris\. Credits: [Calais Action](https://www.facebook.com/calaisaction/photos/a.1018687118183793.1073741828.1018579608194544/1377019949017173/?type=3&theater)](assets/50011c8781b7/1*3nvotG3WXUqdqX35r1Lw9w.jpeg)
+![Visit in Paris\. Credits: [Calais Action](https://www.facebook.com/calaisaction/photos/a.1018687118183793.1073741828.1018579608194544/1377019949017173/?type=3&theater)](../assets/50011c8781b7/1*3nvotG3WXUqdqX35r1Lw9w.jpeg)
 
 Visit in Paris\. Credits: [Calais Action](https://www.facebook.com/calaisaction/photos/a.1018687118183793.1073741828.1018579608194544/1377019949017173/?type=3&theater)
 
@@ -71,7 +71,7 @@ Since the deal the number of new arrivals has massively decreased, but they inde
 On Lesvos No Border Kitchen is inviting everyone for Chapati right next to the former site of Better Days for Moria on 24th December\. For more information, see their [Facebook event](https://www.facebook.com/events/279759409086231/) \.
 
 
-![Hellenic Coast Guard tows the vessel to Skala Sikaminea\. Credits: [Philippa Kempson](https://www.facebook.com/photo.php?fbid=10154446769629355&set=pcb.10154446774044355&type=3&theater)](assets/50011c8781b7/1*jLZmTaZp_5T85BXvPeJ5CA.jpeg)
+![Hellenic Coast Guard tows the vessel to Skala Sikaminea\. Credits: [Philippa Kempson](https://www.facebook.com/photo.php?fbid=10154446769629355&set=pcb.10154446774044355&type=3&theater)](../assets/50011c8781b7/1*jLZmTaZp_5T85BXvPeJ5CA.jpeg)
 
 Hellenic Coast Guard tows the vessel to Skala Sikaminea\. Credits: [Philippa Kempson](https://www.facebook.com/photo.php?fbid=10154446769629355&set=pcb.10154446774044355&type=3&theater)
 
@@ -115,7 +115,7 @@ Meanwhile several thousand people, Red Cross [says](http://m.dw.com/en/red-cross
 Talking Hands project is a carpentry project in Treviso where 15 asylum seekers \(at the moment\) get the chance to tell their stories and aspirations through the use of various materials\. They collaborate with a local Italian designer in order to improve their skills, as well as sending a good message in terms of integration\. You can follow their work on [Facebook](https://www.facebook.com/OpificioTalkingHands) \(as of now only in Italian language\) \.
 
 
-![Credits: [**Talking Hands — Con le mani mi racconto**](https://www.facebook.com/OpificioTalkingHands/)](assets/50011c8781b7/1*ChcDYS1fHeNnl8xEqGOytw.jpeg)
+![Credits: [**Talking Hands — Con le mani mi racconto**](https://www.facebook.com/OpificioTalkingHands/)](../assets/50011c8781b7/1*ChcDYS1fHeNnl8xEqGOytw.jpeg)
 
 Credits: [**Talking Hands — Con le mani mi racconto**](https://www.facebook.com/OpificioTalkingHands/)
 #### Over 9,000 migrants [have landed in Sardinia](http://www.ansa.it/sardegna/notizie/2016/12/20/sardegnasbarcati-9000-migranti-nel-2016_d0fc8064-0cff-454c-9abf-f251256dc7be.html) in 2016,
@@ -127,7 +127,7 @@ In Palermo, 25,000 migrants [have landed](http://palermo.gds.it/2016/12/20/a-pal
 In Como 68 people were sleeping in the rough streets last night with temperatures at zero degree\. Rifugio Do Guanella is [another structure](http://www.settimanalediocesidicomo.it/2016/12/20/il-rifugio-di-don-guanella/) in Como which opened the doors to everybody, Friday to Wednesday, offering showers, tea and rest\. Don Leonello Bigelli manages a house full of migrants and homeless, who look for some clothes or sign in for a shower\. The idea comes from Bigelli’s experience in Milan Central Station; his supervisors asked him to support the tragic situation in Como, while Afghan and Pakistani migrants walking along from the Balkan route\.
 
 
-![Credits: [**Como senza frontiere**](https://www.facebook.com/comosenzafrontiere/)](assets/50011c8781b7/1*_69IiurUhKM6IQnvcPOM5A.png)
+![Credits: [**Como senza frontiere**](https://www.facebook.com/comosenzafrontiere/)](../assets/50011c8781b7/1*_69IiurUhKM6IQnvcPOM5A.png)
 
 Credits: [**Como senza frontiere**](https://www.facebook.com/comosenzafrontiere/)
 

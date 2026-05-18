@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 3–4/10/20: Open call for examples of human(itarian) crisis when ‘strongly…
+title: "AYS Weekend Digest 3–4/10/20: Open call for examples of human(itarian) crisis when ‘strongly…"
 author: Are You Syrious?
 date: 2020-10-05T15:28:03.727+0100
 last_modified_at: 2020-10-05T19:51:25.392+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,europe,un,migration,refugees]
 description: International community surprised by the fact that what was announced is actually happening / Reports from Kos raise concerns / 3 people…
 image:
-  path: assets/9fefe1066f77/1*-RDXW6fvsDnF7g_TxEfU6g.jpeg
+  path: ../assets/9fefe1066f77/1*-RDXW6fvsDnF7g_TxEfU6g.jpeg
 ---
 
 ### AYS Weekend Digest 3–4/10/20: Open call for examples of human\(itarian\) crisis when ‘strongly condemning’ made any difference
 #### International community surprised by the fact that what was announced is actually happening // Reports from Greek island of Kos raise concerns // 3 people lose lives while trying to reach Spain // Denmark wants to confiscate and tap rejected asylum seekers’ phones, plans to pay those who don’t appeal // on the inhuman treatment of asylum seekers in the UK / & more news
 
 
-![Vienna, Austria: Several thousand people [joined a demonstration in Vienna](https://www.derstandard.de/story/2000120466298/tausende-demonstrierten-in-wien-fuer-aufnahme-von-fluechtlingen) on Saturday afternoon under the motto “We have space”\. Volkshilfe Österreich and the platform for a human asylum policy called for this to show that civil society in Austria is still ready to help people in need \(Photo: [SOS Balkanroute](https://www.facebook.com/SOSBalkanroute/?__cft__[0]=AZWA1YKSVNLkg1SDR3V0mPdXzYWnfYjReYnXBofJoARyJJnNuVCCQrTtqerllHlhnaI74WRRFColvfGvnWuIBI0ZKF5W-ltS72gWIIMc_0YiGlgua04AA8Anf0cR1E_E0qm_fssFX9hVvGlrZeW2vFfeFNzVuh0UGMCJ9zc3X4Pzfl8McoiTAYjWeg3JHhqJZHq84rEIek6Pn1A20indSx5U3FbzpaJS7Ofx4esCT3TMpZ3u4SrNs8nmIAP_7HprU6s&__tn__=kC%2CP-y-R) \)](assets/9fefe1066f77/1*-RDXW6fvsDnF7g_TxEfU6g.jpeg)
+![Vienna, Austria: Several thousand people [joined a demonstration in Vienna](https://www.derstandard.de/story/2000120466298/tausende-demonstrierten-in-wien-fuer-aufnahme-von-fluechtlingen) on Saturday afternoon under the motto “We have space”\. Volkshilfe Österreich and the platform for a human asylum policy called for this to show that civil society in Austria is still ready to help people in need \(Photo: [SOS Balkanroute](https://www.facebook.com/SOSBalkanroute/?__cft__[0]=AZWA1YKSVNLkg1SDR3V0mPdXzYWnfYjReYnXBofJoARyJJnNuVCCQrTtqerllHlhnaI74WRRFColvfGvnWuIBI0ZKF5W-ltS72gWIIMc_0YiGlgua04AA8Anf0cR1E_E0qm_fssFX9hVvGlrZeW2vFfeFNzVuh0UGMCJ9zc3X4Pzfl8McoiTAYjWeg3JHhqJZHq84rEIek6Pn1A20indSx5U3FbzpaJS7Ofx4esCT3TMpZ3u4SrNs8nmIAP_7HprU6s&__tn__=kC%2CP-y-R) \)](../assets/9fefe1066f77/1*-RDXW6fvsDnF7g_TxEfU6g.jpeg)
 
 Vienna, Austria: Several thousand people [joined a demonstration in Vienna](https://www.derstandard.de/story/2000120466298/tausende-demonstrierten-in-wien-fuer-aufnahme-von-fluechtlingen) on Saturday afternoon under the motto “We have space”\. Volkshilfe Österreich and the platform for a human asylum policy called for this to show that civil society in Austria is still ready to help people in need \(Photo: [SOS Balkanroute](https://www.facebook.com/SOSBalkanroute/?__cft__[0]=AZWA1YKSVNLkg1SDR3V0mPdXzYWnfYjReYnXBofJoARyJJnNuVCCQrTtqerllHlhnaI74WRRFColvfGvnWuIBI0ZKF5W-ltS72gWIIMc_0YiGlgua04AA8Anf0cR1E_E0qm_fssFX9hVvGlrZeW2vFfeFNzVuh0UGMCJ9zc3X4Pzfl8McoiTAYjWeg3JHhqJZHq84rEIek6Pn1A20indSx5U3FbzpaJS7Ofx4esCT3TMpZ3u4SrNs8nmIAP_7HprU6s&__tn__=kC%2CP-y-R) \)
 

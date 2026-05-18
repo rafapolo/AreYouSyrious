@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 07/08/17: A growing number of arrivals, and of obstacles
+title: "AYS Daily Digest 07/08/17: A growing number of arrivals, and of obstacles"
 author: Are You Syrious?
 date: 2017-08-08T04:28:32.961+0100
 last_modified_at: 2017-08-12T19:05:12.107+0100
@@ -7,7 +7,7 @@ categories:
 tags: [europe,refugees,greece,italy,france]
 description: One of the Röszke11 free! / Greece seeing more arrivals with the summer peak / Anti-NGO rhetoric sparks debates and new refusals / Need for…
 image:
-  path: assets/1bfec1b0b443/1*nrRDeAt-It2YL5WDqQydLA.jpeg
+  path: ../assets/1bfec1b0b443/1*nrRDeAt-It2YL5WDqQydLA.jpeg
 ---
 
 ### AYS Daily Digest 07/08/17: A growing number of arrivals, and of obstacles
@@ -15,7 +15,7 @@ image:
 _One of the Röszke11 free\! / Greece seeing more arrivals with the summer peak / Anti\-NGO rhetoric sparks debates and new refusals / Need for volunteers / Worries in Austria over possible new returns to Croatia / Anti\-deportation protest in Sweden / And more news…_
 
 
-![Golfo Azzurro \(Photo by [Tim Eisenlohr](https://www.facebook.com/xxtim) \)](assets/1bfec1b0b443/1*nrRDeAt-It2YL5WDqQydLA.jpeg)
+![Golfo Azzurro \(Photo by [Tim Eisenlohr](https://www.facebook.com/xxtim) \)](../assets/1bfec1b0b443/1*nrRDeAt-It2YL5WDqQydLA.jpeg)
 
 Golfo Azzurro \(Photo by [Tim Eisenlohr](https://www.facebook.com/xxtim) \)
 ### FEATURE: A rise in arrivals to Greece
@@ -25,17 +25,17 @@ The number of newly arrived people has been growing on Samos, especially in the 
 A number of 128 people were registered by the local organizations arriving on Chios island today: 74 people in total on the first vessel \(33 men,15 women and 26 children\) and 54 people on the second vessel \(30 men, 13 women and 11 children\) \. The people came from Etiopia, Libanon, Iran, Iraq and Syria\.
 
 
-![](assets/1bfec1b0b443/1*zJVyl7Uma7wcHmvtkbeZ-w.png)
+![](../assets/1bfec1b0b443/1*zJVyl7Uma7wcHmvtkbeZ-w.png)
 
 
 At the same time, 1,645 undocumented immigrants were returned to their countries of origin last month, according to figures provided by the Greek Police Monday\. According to official [sources](http://www.ekathimerini.com/220713/article/ekathimerini/news/more-than-1600-undocumented-migrants-returned-home-in-july) , they were sent back after being found entering or residing in Greece without the required permit, or they were returned to their native countries via a voluntary repatriation program developed in collaboration with the International Organization for Migration
 
 
-![](assets/1bfec1b0b443/1*qyKVUWaKf12xk-rjXnESjw.jpeg)
+![](../assets/1bfec1b0b443/1*qyKVUWaKf12xk-rjXnESjw.jpeg)
 
 
 
-![Photos: [Pothiti Kitromilidi](https://www.facebook.com/pothiti.kitromilidi) ‎](assets/1bfec1b0b443/1*fBQmVRWMR0sEPdApGHomDw.jpeg)
+![Photos: [Pothiti Kitromilidi](https://www.facebook.com/pothiti.kitromilidi) ‎](../assets/1bfec1b0b443/1*fBQmVRWMR0sEPdApGHomDw.jpeg)
 
 Photos: [Pothiti Kitromilidi](https://www.facebook.com/pothiti.kitromilidi) ‎
 #### LIBYA
@@ -101,7 +101,7 @@ The vessel picked the migrants off Libya and that Italy has not given permission
 Malta is refusing entry to the vessel because its nearest port of call had been Lempedusa when the rescues were made\.
 
 
-[![Mediterráneo: Italia y Malta se pasan la pelota](assets/1bfec1b0b443/1764_hqdefault.jpg "Mediterráneo: Italia y Malta se pasan la pelota")](http://www.youtube.com/watch?v=C0a7jb9eL3s)
+[![Mediterráneo: Italia y Malta se pasan la pelota](../assets/1bfec1b0b443/1764_hqdefault.jpg "Mediterráneo: Italia y Malta se pasan la pelota")](http://www.youtube.com/watch?v=C0a7jb9eL3s)
 
 ### The surreal debate over NGOs
 
@@ -257,7 +257,7 @@ However, they remind everyone that Ahmed H\., who is charged with terrorism is s
 
 
 
-![](assets/1bfec1b0b443/1*XOT2L7VwtrU4UoECyvN1Qg.jpeg)
+![](../assets/1bfec1b0b443/1*XOT2L7VwtrU4UoECyvN1Qg.jpeg)
 
 #### CROATIA
 

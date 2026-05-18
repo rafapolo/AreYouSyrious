@@ -1,5 +1,5 @@
 ---
-title: AYS Daily News Digest 07/02: More money, less care and slow relocation
+title: "AYS Daily News Digest 07/02: More money, less care and slow relocation"
 author: Are You Syrious?
 date: 2017-02-08T03:58:32.693+0000
 last_modified_at: 2017-02-08T03:58:32.693+0000
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,italy,greece,media]
 description: well hidden poor conditions in Moria | More refugees in Athens | Oraiokastro closed | Refugees smuggled from Serbia, found in 2 trucks in…
 image:
-  path: assets/9d5f7bf9351e/1*7Q9-9cBaskcQclam3jnl-w.jpeg
+  path: ../assets/9d5f7bf9351e/1*7Q9-9cBaskcQclam3jnl-w.jpeg
 ---
 
 ### AYS Daily News Digest 07/02: More money, less care and slow relocation
 #### well hidden poor conditions in Moria \| More refugees in Athens \| Oraiokastro closed \| Refugees smuggled from Serbia, found in 2 trucks in Croatia \| Austria wants to tighten the closed borders \| Numbers of people saved at sea in Italy jump high \| EU and Italy violate the principle of non\-refoulement by signing the deal with Lybia
 
 
-![Moria, Lesvos \(Photo taken by a resident on Tuesday, February 7\)](assets/9d5f7bf9351e/1*7Q9-9cBaskcQclam3jnl-w.jpeg)
+![Moria, Lesvos \(Photo taken by a resident on Tuesday, February 7\)](../assets/9d5f7bf9351e/1*7Q9-9cBaskcQclam3jnl-w.jpeg)
 
 Moria, Lesvos \(Photo taken by a resident on Tuesday, February 7\)
 #### RELOCATION
@@ -34,7 +34,7 @@ Meanwhile on Lesvos…
 #### “Nobody is staying in tents” — Moria tonight
 
 
-![Photo and video by a resident in Moria camp, via [Philippa Kempson](https://www.facebook.com/philippa.kempson.1)](assets/9d5f7bf9351e/1*jJn5njOfE4X9-d9KYNObmw.jpeg)
+![Photo and video by a resident in Moria camp, via [Philippa Kempson](https://www.facebook.com/philippa.kempson.1)](../assets/9d5f7bf9351e/1*jJn5njOfE4X9-d9KYNObmw.jpeg)
 
 Photo and video by a resident in Moria camp, via [Philippa Kempson](https://www.facebook.com/philippa.kempson.1)
 
@@ -69,18 +69,18 @@ In the past days the world media was flooded in photos of vulnerable people duri
 If you are or have been working or volunteering with refugees in similar circumstances, please take time to read these notes about consideration, privacy and respect\.
 
 
-![Photo of the No Photo leaflet taken by AYS volunteer in Belgrade](assets/9d5f7bf9351e/1*Dqmm15WU9lcCK289gxCh5w.jpeg)
+![Photo of the No Photo leaflet taken by AYS volunteer in Belgrade](../assets/9d5f7bf9351e/1*Dqmm15WU9lcCK289gxCh5w.jpeg)
 
 Photo of the No Photo leaflet taken by AYS volunteer in Belgrade
 
 
-![](assets/9d5f7bf9351e/1*yPbMgtouV0cTylEi55kqiw.jpeg)
+![](../assets/9d5f7bf9351e/1*yPbMgtouV0cTylEi55kqiw.jpeg)
 
 
 The **SoulWelders** group have organized a steady supply of good wood to be distributed every morning to the residents of the warehouses behind the train station in Belgrade\. Their next step is to fit the woodburners they had built into the big spaces where people sleep\. They are cutting the big barrel burners along side a smaller cooking woodburner so people can keep warm and cook at the same time\. Their project keeps the people from inhaling lethal smokes from the materials they were previously burning and the team hopes for no more open fires very soon\. [Contact](https://www.facebook.com/SoulWelders/?hc_ref=PAGES_TIMELINE&fref=nf) to support or join them\.
 
 
-![The system: Every evening tickets are distributed so that people can collect their wood for fire burners the next morning\. \(Photo: SoulWelders\)](assets/9d5f7bf9351e/1*C_C-U1A4yvEi9hAQOKWtvA.jpeg)
+![The system: Every evening tickets are distributed so that people can collect their wood for fire burners the next morning\. \(Photo: SoulWelders\)](../assets/9d5f7bf9351e/1*C_C-U1A4yvEi9hAQOKWtvA.jpeg)
 
 The system: Every evening tickets are distributed so that people can collect their wood for fire burners the next morning\. \(Photo: SoulWelders\)
 
@@ -109,7 +109,7 @@ They come mainly from Africa: Guinea, Ivory Coast, Nigeria, Senegal, Gambia and 
 Like in other parts of Italy, the transit centre in [via Sammartini](http://www.vita.it/it/article/2017/02/06/milano-posti-esauriti-allhub-ora-dove-andranno-i-profughi/142359/) in Milan is overcrowded as it used to be just a transit centre for the refugees who were _en route_ to northern European countries\. Nowadays more and more people decide to stay permanently and ask for asylum and as the spring draws near, the question rises — how will they welcome the expected surge of people since already people have to look for alternative solutions to stay in the city\.
 
 
-![A group of self organized people showing solidarity on daily basis by personally preparing, providing and distributing food to the refugees along Baobab\. Visit their page and sign your name if you can\. \(Photo: [**PASTI Baobab Experience**](https://www.facebook.com/PASTI-Baobab-Experience-1295938570502827/) **\)**](assets/9d5f7bf9351e/1*-sPs_7jF6u79A_kXii9H0A.jpeg)
+![A group of self organized people showing solidarity on daily basis by personally preparing, providing and distributing food to the refugees along Baobab\. Visit their page and sign your name if you can\. \(Photo: [**PASTI Baobab Experience**](https://www.facebook.com/PASTI-Baobab-Experience-1295938570502827/) **\)**](../assets/9d5f7bf9351e/1*-sPs_7jF6u79A_kXii9H0A.jpeg)
 
 A group of self organized people showing solidarity on daily basis by personally preparing, providing and distributing food to the refugees along Baobab\. Visit their page and sign your name if you can\. \(Photo: [**PASTI Baobab Experience**](https://www.facebook.com/PASTI-Baobab-Experience-1295938570502827/) **\)**
 ### The Association for Juridical Studies on Immigration [condems the agreement](https://www.libyaobserver.ly/news/asgi-eu-and-italy-de-facto-violate-principle-non-refoulement) reached by Libya and Italy
@@ -119,7 +119,7 @@ In their statement, they claim that through these agreements, the EU and Italy d
 
 
 ![A protest was held in Calabria on Monday, against exploitation\.
-They obtained to have the electricity back at the makeshift camp, to have the garbage removed from the ghetto and to fix a meeting with the Prefect of Reggio Calabria in order to solve the documents issue\. \(Photo: [**Melting Pot Europa**](https://www.facebook.com/meltingpoteuropa/) **\)**](assets/9d5f7bf9351e/1*zvwroL5plvloL-UQgTkICg.jpeg)
+They obtained to have the electricity back at the makeshift camp, to have the garbage removed from the ghetto and to fix a meeting with the Prefect of Reggio Calabria in order to solve the documents issue\. \(Photo: [**Melting Pot Europa**](https://www.facebook.com/meltingpoteuropa/) **\)**](../assets/9d5f7bf9351e/1*zvwroL5plvloL-UQgTkICg.jpeg)
 
 A protest was held in Calabria on Monday, against exploitation\.
 They obtained to have the electricity back at the makeshift camp, to have the garbage removed from the ghetto and to fix a meeting with the Prefect of Reggio Calabria in order to solve the documents issue\. \(Photo: [**Melting Pot Europa**](https://www.facebook.com/meltingpoteuropa/) **\)**

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 10/09/2019: What is “Our European Way of Life”
+title: "AYS Daily Digest 10/09/2019: What is “Our European Way of Life”"
 author: Are You Syrious?
 date: 2019-09-11T02:29:01.229+0100
 last_modified_at: 2019-09-11T02:29:01.229+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,europe,greece,italy,digest]
 description: Also new “transit” centers in mainland Greece // AlarmPhone’s 8 week report // Malta allowing Alan Jurdi to disembark // segregated buses…
 image:
-  path: assets/ad7af981711a/1*vR5roHcQ8l4sY6hn8B9YvA.jpeg
+  path: ../assets/ad7af981711a/1*vR5roHcQ8l4sY6hn8B9YvA.jpeg
 ---
 
 ### AYS Daily Digest 10/09/2019: What is “Our European Way of Life”
@@ -15,7 +15,7 @@ image:
 _Also new “transit” centers in mainland Greece // AlarmPhone’s 8 week report // Malta allowing Alan Jurdi to disembark // segregated buses in Bosnia // and more…_
 
 
-![[Cartoon](https://voxeurop.eu/en/content/press-review/5090942-unprecedented-failure-eu-and-its-member-states) by Gianfranco Uber from 2016, yet still articulates the everyday human cost of “protecting our European way of life\.”](assets/ad7af981711a/1*vR5roHcQ8l4sY6hn8B9YvA.jpeg)
+![[Cartoon](https://voxeurop.eu/en/content/press-review/5090942-unprecedented-failure-eu-and-its-member-states) by Gianfranco Uber from 2016, yet still articulates the everyday human cost of “protecting our European way of life\.”](../assets/ad7af981711a/1*vR5roHcQ8l4sY6hn8B9YvA.jpeg)
 
 [Cartoon](https://voxeurop.eu/en/content/press-review/5090942-unprecedented-failure-eu-and-its-member-states) by Gianfranco Uber from 2016, yet still articulates the everyday human cost of “protecting our European way of life\.”
 ### Feature
@@ -166,7 +166,7 @@ Horrible news from Bosnia where photos and testimony has emerged of Bus operator
 Quote [here](https://www.facebook.com/photo.php?fbid=10157321004214799&set=a.10151223220654799&type=3&theater) \.
 
 
-![](assets/ad7af981711a/1*wWTWXauBOE8Wrbq8zooeTw.jpeg)
+![](../assets/ad7af981711a/1*wWTWXauBOE8Wrbq8zooeTw.jpeg)
 
 
 Photo and testimony, Emir Alagic

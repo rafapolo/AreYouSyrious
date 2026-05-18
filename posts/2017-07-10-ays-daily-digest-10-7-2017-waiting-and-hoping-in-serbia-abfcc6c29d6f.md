@@ -1,13 +1,13 @@
 ---
-title: AYS Daily Digest 10/07/17: Waiting and hoping in Serbia
+title: "AYS Daily Digest 10/07/17: Waiting and hoping in Serbia"
 author: Are You Syrious?
 date: 2017-07-10T23:59:24.664+0100
 last_modified_at: 2017-07-11T16:33:32.830+0100
 categories: 
 tags: [refugees,serbia,greece,spain,sweden]
-description: News from Sjenica, Serbia: 200 hundred people waiting / Protests in Greece / No positive decision on asylum in Serbia since start of 2017 /…
+description: "News from Sjenica, Serbia: 200 hundred people waiting / Protests in Greece / No positive decision on asylum in Serbia since start of 2017 /…"
 image:
-  path: assets/abfcc6c29d6f/1*SR19GAdyNo6XDwyJfB4ksQ.jpeg
+  path: ../assets/abfcc6c29d6f/1*SR19GAdyNo6XDwyJfB4ksQ.jpeg
 ---
 
 ### AYS Daily Digest 10/07/17: Waiting and hoping in Serbia
@@ -15,7 +15,7 @@ image:
 _News from Sjenica, Serbia: 200 hundred people waiting / Protests in Greece / No positive decision on asylum in Serbia since start of 2017 / Number of new arrivals on Spain’s southern coast more than doubles compared to last year / Neo\-Nazis sentenced in Sweden / And more news…_
 
 
-![More than 90 children are living in an improvised camp in Sjenica, Serbia \(Photo: AYS\)](assets/abfcc6c29d6f/1*SR19GAdyNo6XDwyJfB4ksQ.jpeg)
+![More than 90 children are living in an improvised camp in Sjenica, Serbia \(Photo: AYS\)](../assets/abfcc6c29d6f/1*SR19GAdyNo6XDwyJfB4ksQ.jpeg)
 
 More than 90 children are living in an improvised camp in Sjenica, Serbia \(Photo: AYS\)
 ### FEATURE: Over 200 people waiting in Sjenica, Serbia
@@ -56,7 +56,7 @@ Another day and another protest in Moria\. Rock has been thrown, and tear gas, a
 
 
 
-![Photo by [**United Rescue Aid**](https://www.facebook.com/unitedrescueaid/)](assets/abfcc6c29d6f/1*3eSSKqOXlfQkDUSSMemKoA.jpeg)
+![Photo by [**United Rescue Aid**](https://www.facebook.com/unitedrescueaid/)](../assets/abfcc6c29d6f/1*3eSSKqOXlfQkDUSSMemKoA.jpeg)
 
 Photo by [**United Rescue Aid**](https://www.facebook.com/unitedrescueaid/)
 
@@ -76,7 +76,7 @@ _Dear Mayor\! You probably have power\. You have a high position in the state\. 
 _You cannot silence me, stop wasting your time trying\. Instead, use your energy to practice justice\._
 
 
-![Photo Arash Hampay\.](assets/abfcc6c29d6f/1*LdIxhsNXEZRC3_w2ygPrTA.jpeg)
+![Photo Arash Hampay\.](../assets/abfcc6c29d6f/1*LdIxhsNXEZRC3_w2ygPrTA.jpeg)
 
 Photo Arash Hampay\.
 
@@ -160,15 +160,15 @@ During the last month, 329 people registered their intention to seek asylum in S
 Since the beginning of the year, the Asylum Office has not yet made any positive decisions on granting refugee status or subsidiary protection\.
 
 
-![](assets/abfcc6c29d6f/1*-88E41FvSjPXA5pq8e5Vng.jpeg)
+![](../assets/abfcc6c29d6f/1*-88E41FvSjPXA5pq8e5Vng.jpeg)
 
 
 
-![](assets/abfcc6c29d6f/1*maQ9liWaiLwwwi2bp-A4qA.jpeg)
+![](../assets/abfcc6c29d6f/1*maQ9liWaiLwwwi2bp-A4qA.jpeg)
 
 
 
-![Every day life in Sid\. Photo: No Name Kitchen](assets/abfcc6c29d6f/1*KcvEWBxvPQBciU1i7WORHg.jpeg)
+![Every day life in Sid\. Photo: No Name Kitchen](../assets/abfcc6c29d6f/1*KcvEWBxvPQBciU1i7WORHg.jpeg)
 
 Every day life in Sid\. Photo: No Name Kitchen
 

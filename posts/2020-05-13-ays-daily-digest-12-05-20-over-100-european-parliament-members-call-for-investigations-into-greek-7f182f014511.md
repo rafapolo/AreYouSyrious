@@ -5,15 +5,15 @@ date: 2020-05-13T05:31:52.496+0100
 last_modified_at: 2020-05-13T11:25:58.505+0100
 categories: Are You Syrious?
 tags: [refugees,digest,covid-19,greece,turkey]
-description: FEATURE: More than 100 European Parliament members have called for investigations into the shooting of migrants on the Greek-Turkish border
+description: "FEATURE: More than 100 European Parliament members have called for investigations into the shooting of migrants on the Greek-Turkish border"
 image:
-  path: assets/7f182f014511/1*Prh-ub5n_BfmgVGsO2RDnA.jpeg
+  path: ../assets/7f182f014511/1*Prh-ub5n_BfmgVGsO2RDnA.jpeg
 ---
 
 ### AYS Daily Digest 12/05/20 Over 100 European Parliament members call for investigations into Greek shootings
 
 
-![People carrying away a shooting victim back in March; one of them died later on\. Photo by [Sky News](https://news.sky.com/story/they-shot-us-with-rifles-migrants-blame-greek-authorities-for-border-bloodshed-11949747)](assets/7f182f014511/1*Prh-ub5n_BfmgVGsO2RDnA.jpeg)
+![People carrying away a shooting victim back in March; one of them died later on\. Photo by [Sky News](https://news.sky.com/story/they-shot-us-with-rifles-migrants-blame-greek-authorities-for-border-bloodshed-11949747)](../assets/7f182f014511/1*Prh-ub5n_BfmgVGsO2RDnA.jpeg)
 
 People carrying away a shooting victim back in March; one of them died later on\. Photo by [Sky News](https://news.sky.com/story/they-shot-us-with-rifles-migrants-blame-greek-authorities-for-border-bloodshed-11949747)
 ### FEATURE: More than 100 European Parliament members have called for investigations into the shooting of migrants on the Greek\-Turkish border
@@ -69,18 +69,18 @@ Most of the signatories are from left\-leaning parties, while more conservative 
 
 
 ![“Only c\. 40 migrant crossings were detected by [@Frontex](http://twitter.com/Frontex) 
- in East Med in April — 99% fewer than March\. Detections in EU lowest since 2009\. Record low numbers were mainly due to effects of \#Covid\_19, which have also delayed reporting of border crossing data by national authorities” Photo by [Giorgos Christides](https://twitter.com/g_christides/status/1260204458149064705)](assets/7f182f014511/1*Vb_51hnJS6z-CYLlwgPD6g.jpeg)
+ in East Med in April — 99% fewer than March\. Detections in EU lowest since 2009\. Record low numbers were mainly due to effects of \#Covid\_19, which have also delayed reporting of border crossing data by national authorities” Photo by [Giorgos Christides](https://twitter.com/g_christides/status/1260204458149064705)](../assets/7f182f014511/1*Vb_51hnJS6z-CYLlwgPD6g.jpeg)
 
 “Only c\. 40 migrant crossings were detected by [@Frontex](http://twitter.com/Frontex) 
  in East Med in April — 99% fewer than March\. Detections in EU lowest since 2009\. Record low numbers were mainly due to effects of \#Covid\_19, which have also delayed reporting of border crossing data by national authorities” Photo by [Giorgos Christides](https://twitter.com/g_christides/status/1260204458149064705)
 #### GREECE
 
 
-![](assets/7f182f014511/1*8nZsf7A8ySAGBYWsTongxQ.jpeg)
+![](../assets/7f182f014511/1*8nZsf7A8ySAGBYWsTongxQ.jpeg)
 
 
 
-![**“Two refugees who arrived in Kalo Limani, Lesvos north west on May 6th, has tested positive for COVID\-19\.** They arrived last Wednesday together with 49 others, 9 people out of 51 was routinely tested, two was positive, but without any symptoms\. They where taken to the new quarantine site in Megales Thermis, between Eftalou and Skala Sikamineas on Lesvos north, where they were supposed to stay in quarantine for 14 days\. **The 19 people who arrived on Sunday in Lapsarna was also taken to the same quarantine area\. It’s unknown if people arriving on different dates are being held separately instead the quarantine area\.** All 70 residents in quarantine facility will now be tested for COVID\-19, alongside with coast guard officials and workers who may have come in contact with the new arrivals\. **It’s clear that there must be found a second quarantine structure on the island, for new arrivals, if a new boat arrives now, they can’t be quarantined in the existing structure due to the virus\.** The existing quarantine area in the old IRC structure took months to find, it’s crucial that this second area is found immediately\.” By [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/830853427437763?hc_location=ufi)](assets/7f182f014511/1*OMvm4imwkL1hM0rr9bf1Xw.jpeg)
+![**“Two refugees who arrived in Kalo Limani, Lesvos north west on May 6th, has tested positive for COVID\-19\.** They arrived last Wednesday together with 49 others, 9 people out of 51 was routinely tested, two was positive, but without any symptoms\. They where taken to the new quarantine site in Megales Thermis, between Eftalou and Skala Sikamineas on Lesvos north, where they were supposed to stay in quarantine for 14 days\. **The 19 people who arrived on Sunday in Lapsarna was also taken to the same quarantine area\. It’s unknown if people arriving on different dates are being held separately instead the quarantine area\.** All 70 residents in quarantine facility will now be tested for COVID\-19, alongside with coast guard officials and workers who may have come in contact with the new arrivals\. **It’s clear that there must be found a second quarantine structure on the island, for new arrivals, if a new boat arrives now, they can’t be quarantined in the existing structure due to the virus\.** The existing quarantine area in the old IRC structure took months to find, it’s crucial that this second area is found immediately\.” By [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/830853427437763?hc_location=ufi)](../assets/7f182f014511/1*OMvm4imwkL1hM0rr9bf1Xw.jpeg)
 
 **“Two refugees who arrived in Kalo Limani, Lesvos north west on May 6th, has tested positive for COVID\-19\.** They arrived last Wednesday together with 49 others, 9 people out of 51 was routinely tested, two was positive, but without any symptoms\. They where taken to the new quarantine site in Megales Thermis, between Eftalou and Skala Sikamineas on Lesvos north, where they were supposed to stay in quarantine for 14 days\. **The 19 people who arrived on Sunday in Lapsarna was also taken to the same quarantine area\. It’s unknown if people arriving on different dates are being held separately instead the quarantine area\.** All 70 residents in quarantine facility will now be tested for COVID\-19, alongside with coast guard officials and workers who may have come in contact with the new arrivals\. **It’s clear that there must be found a second quarantine structure on the island, for new arrivals, if a new boat arrives now, they can’t be quarantined in the existing structure due to the virus\.** The existing quarantine area in the old IRC structure took months to find, it’s crucial that this second area is found immediately\.” By [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/830853427437763?hc_location=ufi)
 
@@ -109,7 +109,7 @@ Most of the signatories are from left\-leaning parties, while more conservative 
 
 
 
-![“Recent numbers: ~ 19,000 refugees are seeking asylum on [\#Lesbos](https://twitter.com/hashtag/Lesbos?src=hashtag_click) \. The majority of the population are from [\#Afghanistan](https://twitter.com/hashtag/Afghanistan?src=hashtag_click) \(78%\), [\#Syria](https://twitter.com/hashtag/Syria?src=hashtag_click) \(8%\) \+ [\#Somalia](https://twitter.com/hashtag/Somalia?src=hashtag_click) \(4%\) \. Women account for 23% of population \+ children for 41%\( \! \) \. According to UNHCR approx\. 11% of children are unaccompanied\.” Photo and info by [Franziska Grillmeier](https://twitter.com/f_grillmeier/status/1260135605561942016?fbclid=IwAR3_fI872maMjQgHyuf8ByFY7I6WdZrG6xVfW0zm5qWWmRd15-HblIXNyDY)](assets/7f182f014511/1*9s8GuKIdpOL-X7JpotLf-g.jpeg)
+![“Recent numbers: ~ 19,000 refugees are seeking asylum on [\#Lesbos](https://twitter.com/hashtag/Lesbos?src=hashtag_click) \. The majority of the population are from [\#Afghanistan](https://twitter.com/hashtag/Afghanistan?src=hashtag_click) \(78%\), [\#Syria](https://twitter.com/hashtag/Syria?src=hashtag_click) \(8%\) \+ [\#Somalia](https://twitter.com/hashtag/Somalia?src=hashtag_click) \(4%\) \. Women account for 23% of population \+ children for 41%\( \! \) \. According to UNHCR approx\. 11% of children are unaccompanied\.” Photo and info by [Franziska Grillmeier](https://twitter.com/f_grillmeier/status/1260135605561942016?fbclid=IwAR3_fI872maMjQgHyuf8ByFY7I6WdZrG6xVfW0zm5qWWmRd15-HblIXNyDY)](../assets/7f182f014511/1*9s8GuKIdpOL-X7JpotLf-g.jpeg)
 
 “Recent numbers: ~ 19,000 refugees are seeking asylum on [\#Lesbos](https://twitter.com/hashtag/Lesbos?src=hashtag_click) \. The majority of the population are from [\#Afghanistan](https://twitter.com/hashtag/Afghanistan?src=hashtag_click) \(78%\), [\#Syria](https://twitter.com/hashtag/Syria?src=hashtag_click) \(8%\) \+ [\#Somalia](https://twitter.com/hashtag/Somalia?src=hashtag_click) \(4%\) \. Women account for 23% of population \+ children for 41%\( \! \) \. According to UNHCR approx\. 11% of children are unaccompanied\.” Photo and info by [Franziska Grillmeier](https://twitter.com/f_grillmeier/status/1260135605561942016?fbclid=IwAR3_fI872maMjQgHyuf8ByFY7I6WdZrG6xVfW0zm5qWWmRd15-HblIXNyDY)
 
@@ -128,21 +128,21 @@ Here is an insightful piece from Mare Liberum’s new interview with activists f
 
 ![“A friend living in the Kos camp has just sent this to me, it’s a poster which has been put up around camp\.
  
-I am wondering how it’s acceptable to deny people food and shelter for not registering? 3 days to register & after checks by police & food & shelter forfeited if not?” Photo by [Katy Fallon](https://twitter.com/katymfallon/status/1260180135946354688)](assets/7f182f014511/1*WKrVEJJGCJdRT_qeoLanIg.jpeg)
+I am wondering how it’s acceptable to deny people food and shelter for not registering? 3 days to register & after checks by police & food & shelter forfeited if not?” Photo by [Katy Fallon](https://twitter.com/katymfallon/status/1260180135946354688)](../assets/7f182f014511/1*WKrVEJJGCJdRT_qeoLanIg.jpeg)
 
 “A friend living in the Kos camp has just sent this to me, it’s a poster which has been put up around camp\.
  
 I am wondering how it’s acceptable to deny people food and shelter for not registering? 3 days to register & after checks by police & food & shelter forfeited if not?” Photo by [Katy Fallon](https://twitter.com/katymfallon/status/1260180135946354688)
 
 
-![“Today is the international day of nurses and we all should thank and commemorate the great job nurses in Lesvos and the other islands did during these difficult times\. They worked day and night and helped that none of our islands was hit hard from the virus\. They and all the medical staff did a great almost impossible work for everyone on the island\. This is a picture from Mytillini Hospital taken by Stonisi\.” Photo and words by [Stand by me Lesvos](https://www.facebook.com/www.standbymelesvos.gr/photos/a.246519512607745/630504914209201/?type=1&theater)](assets/7f182f014511/1*NGc27SeJTGMmAAvPAvtddA.png)
+![“Today is the international day of nurses and we all should thank and commemorate the great job nurses in Lesvos and the other islands did during these difficult times\. They worked day and night and helped that none of our islands was hit hard from the virus\. They and all the medical staff did a great almost impossible work for everyone on the island\. This is a picture from Mytillini Hospital taken by Stonisi\.” Photo and words by [Stand by me Lesvos](https://www.facebook.com/www.standbymelesvos.gr/photos/a.246519512607745/630504914209201/?type=1&theater)](../assets/7f182f014511/1*NGc27SeJTGMmAAvPAvtddA.png)
 
 “Today is the international day of nurses and we all should thank and commemorate the great job nurses in Lesvos and the other islands did during these difficult times\. They worked day and night and helped that none of our islands was hit hard from the virus\. They and all the medical staff did a great almost impossible work for everyone on the island\. This is a picture from Mytillini Hospital taken by Stonisi\.” Photo and words by [Stand by me Lesvos](https://www.facebook.com/www.standbymelesvos.gr/photos/a.246519512607745/630504914209201/?type=1&theater)
 
 Three NGOs in Athens were raided by Greece’s National Transparency Authority and the Economic Police for investigations concerning economic wrong doing\. These NGOs assist refugees and manage shelters\. Greek media reports that _“\(The NGOs\) also say that the Greek state is being taken to court for breaching an agreement on the funding of the two shelters\.”_ More [here\.](https://www.ekathimerini.com/252583/article/ekathimerini/news/transparency-watchdog-investigates-three-ngos?fbclid=IwAR2zcrfgJEfhSL-pJ3-V9QcQq8DB03xWy_52tfZ3D-VG_B4AzUEYQyxSCIA)
 
 
-![“The Ministry of Migration and Asylum publishes the April 2020 newsletter, with data on immigration flows, the total number of people staying at the Reception and Identification Centers \(RIC\), transportation to the mainland, and data related to the examination of asylum applications and appeals\.” Photo by [Migration Greece Info](https://www.facebook.com/migrationgovgr.info/posts/1615543421933090?hc_location=ufi)](assets/7f182f014511/1*Ty0y-eNCi5dSki_QCdmxUA.jpeg)
+![“The Ministry of Migration and Asylum publishes the April 2020 newsletter, with data on immigration flows, the total number of people staying at the Reception and Identification Centers \(RIC\), transportation to the mainland, and data related to the examination of asylum applications and appeals\.” Photo by [Migration Greece Info](https://www.facebook.com/migrationgovgr.info/posts/1615543421933090?hc_location=ufi)](../assets/7f182f014511/1*Ty0y-eNCi5dSki_QCdmxUA.jpeg)
 
 “The Ministry of Migration and Asylum publishes the April 2020 newsletter, with data on immigration flows, the total number of people staying at the Reception and Identification Centers \(RIC\), transportation to the mainland, and data related to the examination of asylum applications and appeals\.” Photo by [Migration Greece Info](https://www.facebook.com/migrationgovgr.info/posts/1615543421933090?hc_location=ufi)
 
@@ -151,11 +151,11 @@ Want to listen to a good summary podcast about what’s been going on in Greece 
 #### ITALY
 
 
-![](assets/7f182f014511/1*W4caOZwcF7HhSLMnwPBbNg.jpeg)
+![](../assets/7f182f014511/1*W4caOZwcF7HhSLMnwPBbNg.jpeg)
 
 
 
-![“A hundred migrants and homeless people who were hosted until 3 May at the Emergenza Freddo facility in Piazza d’Armi in Turin, Italy, are now without a roof over their heads\. Since the day of closure, some of them have been sleeping in front of city hall, camped under the arcades\. On May 11, some migrants are seen holding up banners, asking for ‘sanatoria’ \(amnesty\) \. One sign read: ‘There is no worse virus than the lack of humanity’; another read ‘We are not invisible’\.” By InfoMigrants and photos by Marco Alpozzi/LaPresse via ZUMA Press](assets/7f182f014511/1*GZyaDRWN0pg6vDlazIcWdg.jpeg)
+![“A hundred migrants and homeless people who were hosted until 3 May at the Emergenza Freddo facility in Piazza d’Armi in Turin, Italy, are now without a roof over their heads\. Since the day of closure, some of them have been sleeping in front of city hall, camped under the arcades\. On May 11, some migrants are seen holding up banners, asking for ‘sanatoria’ \(amnesty\) \. One sign read: ‘There is no worse virus than the lack of humanity’; another read ‘We are not invisible’\.” By InfoMigrants and photos by Marco Alpozzi/LaPresse via ZUMA Press](../assets/7f182f014511/1*GZyaDRWN0pg6vDlazIcWdg.jpeg)
 
 “A hundred migrants and homeless people who were hosted until 3 May at the Emergenza Freddo facility in Piazza d’Armi in Turin, Italy, are now without a roof over their heads\. Since the day of closure, some of them have been sleeping in front of city hall, camped under the arcades\. On May 11, some migrants are seen holding up banners, asking for ‘sanatoria’ \(amnesty\) \. One sign read: ‘There is no worse virus than the lack of humanity’; another read ‘We are not invisible’\.” By InfoMigrants and photos by Marco Alpozzi/LaPresse via ZUMA Press
 #### BALKANS
@@ -179,13 +179,13 @@ Want to listen to a good summary podcast about what’s been going on in Greece 
 
 
 
-![Photo by [Border Violence Monitoring Network](https://www.borderviolence.eu/special-report-covid-19-and-border-violence-along-the-balkan-route/?fbclid=IwAR2C0zpFVLEx9cSSeGm90sXVfFkUFcRgxRL-sOxOD80c6vZR3U_hOiSUuXw)](assets/7f182f014511/1*QGgODBhQC68uFRjgcLJPPw.jpeg)
+![Photo by [Border Violence Monitoring Network](https://www.borderviolence.eu/special-report-covid-19-and-border-violence-along-the-balkan-route/?fbclid=IwAR2C0zpFVLEx9cSSeGm90sXVfFkUFcRgxRL-sOxOD80c6vZR3U_hOiSUuXw)](../assets/7f182f014511/1*QGgODBhQC68uFRjgcLJPPw.jpeg)
 
 Photo by [Border Violence Monitoring Network](https://www.borderviolence.eu/special-report-covid-19-and-border-violence-along-the-balkan-route/?fbclid=IwAR2C0zpFVLEx9cSSeGm90sXVfFkUFcRgxRL-sOxOD80c6vZR3U_hOiSUuXw)
 #### BOSNIA AND HERZEGOVINA
 
 
-![Refugees camping in the open in Tuzla, Bosnia and Herzegovina\.](assets/7f182f014511/1*TzuqqsUqUMwu7jIN0SmfjA.jpeg)
+![Refugees camping in the open in Tuzla, Bosnia and Herzegovina\.](../assets/7f182f014511/1*TzuqqsUqUMwu7jIN0SmfjA.jpeg)
 
 Refugees camping in the open in Tuzla, Bosnia and Herzegovina\.
 
@@ -221,7 +221,7 @@ Human rights groups are calling for the closure of some prominent asylum seeker 
 #### GENERAL
 
 
-![“The impact of \#Covid\_19 on the lives of \#refugees & \#migrants across West Africa, North Africa, & Latin America — in their own words” Photo by [Mixed Migration Centre](https://twitter.com/Mixed_Migration/status/1260157295729823744)](assets/7f182f014511/1*R-4YiNe4eIqWl1lUMzFEKQ.jpeg)
+![“The impact of \#Covid\_19 on the lives of \#refugees & \#migrants across West Africa, North Africa, & Latin America — in their own words” Photo by [Mixed Migration Centre](https://twitter.com/Mixed_Migration/status/1260157295729823744)](../assets/7f182f014511/1*R-4YiNe4eIqWl1lUMzFEKQ.jpeg)
 
 “The impact of \#Covid\_19 on the lives of \#refugees & \#migrants across West Africa, North Africa, & Latin America — in their own words” Photo by [Mixed Migration Centre](https://twitter.com/Mixed_Migration/status/1260157295729823744)
 

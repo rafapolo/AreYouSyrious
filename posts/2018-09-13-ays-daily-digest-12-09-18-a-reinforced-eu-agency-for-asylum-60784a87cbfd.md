@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 12/09/18: A reinforced EU Agency for Asylum
+title: "AYS DAILY DIGEST 12/09/18: A reinforced EU Agency for Asylum"
 author: Are You Syrious?
 date: 2018-09-13T08:35:40.067+0100
 last_modified_at: 2018-09-13T12:33:20.143+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [europe,digest,eu,asylum,libya]
 description: Brussels wants to be involved in decisions / More than 13 million Syrians in need of aid / German government admits inhumane conditions in…
 image:
-  path: assets/60784a87cbfd/1*uPa0NTTgSEOMr8E9Pb6hrA.jpeg
+  path: ../assets/60784a87cbfd/1*uPa0NTTgSEOMr8E9Pb6hrA.jpeg
 ---
 
 ### AYS DAILY DIGEST 12/09/18: A reinforced EU Agency for Asylum
 #### Brussels wants to be involved in decisions / More than 13 million Syrians in need of aid / German government admits inhumane conditions in Libyan camps / New reports of violence in Morocco / Eviction in Como
 
 
-![The EU Commission wants a reinforced Asylum Agency\. Credits: [European Asylum Support Office](https://www.easo.europa.eu/news-events/number-asylum-applications-lodged-eu-early-summer-remains-stable)](assets/60784a87cbfd/1*uPa0NTTgSEOMr8E9Pb6hrA.jpeg)
+![The EU Commission wants a reinforced Asylum Agency\. Credits: [European Asylum Support Office](https://www.easo.europa.eu/news-events/number-asylum-applications-lodged-eu-early-summer-remains-stable)](../assets/60784a87cbfd/1*uPa0NTTgSEOMr8E9Pb6hrA.jpeg)
 
 The EU Commission wants a reinforced Asylum Agency\. Credits: [European Asylum Support Office](https://www.easo.europa.eu/news-events/number-asylum-applications-lodged-eu-early-summer-remains-stable)
 ### The EU Commission proposes a reinforced EU Agency for Asylum
@@ -27,7 +27,7 @@ The EU Commission today proposed a reinforced EU Agency for Asylum\. “ Its sta
 
 
 
-![Tasks of the propsed new agency\. Credits: [EASO/Twitter](https://twitter.com/EASO/status/1039794240753225728)](assets/60784a87cbfd/1*nyp7Fat-OvpMWB3k_Bbk9Q.jpeg)
+![Tasks of the propsed new agency\. Credits: [EASO/Twitter](https://twitter.com/EASO/status/1039794240753225728)](../assets/60784a87cbfd/1*nyp7Fat-OvpMWB3k_Bbk9Q.jpeg)
 
 Tasks of the propsed new agency\. Credits: [EASO/Twitter](https://twitter.com/EASO/status/1039794240753225728)
 
@@ -123,7 +123,7 @@ The conditions in Moria on Lesvos have often been criticized as inhumane and now
 The [Feox team](https://www.facebook.com/permalink.php?story_fbid=2213454292272537&id=1584119558539350) is still present on Chios and distributes non\-food items to the people of the Vial camp\. They also organise trips for children and families and provide transfers to the hospital\.
 
 
-![Distribution outside Vial camp\. Credits: [Feox rescue team](https://www.facebook.com/1584119558539350/photos/pcb.2213454292272537/2213446425606657/?type=3&theater)](assets/60784a87cbfd/1*4W6iHsDPqGWhdUtzOI3HDg.jpeg)
+![Distribution outside Vial camp\. Credits: [Feox rescue team](https://www.facebook.com/1584119558539350/photos/pcb.2213454292272537/2213446425606657/?type=3&theater)](../assets/60784a87cbfd/1*4W6iHsDPqGWhdUtzOI3HDg.jpeg)
 
 Distribution outside Vial camp\. Credits: [Feox rescue team](https://www.facebook.com/1584119558539350/photos/pcb.2213454292272537/2213446425606657/?type=3&theater)
 

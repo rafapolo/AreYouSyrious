@@ -1,5 +1,5 @@
 ---
-title: AYS Special from Greece: Militarisation — A tendency in 2020
+title: "AYS Special from Greece: Militarisation — A tendency in 2020"
 author: Are You Syrious?
 date: 2020-12-29T10:08:23.196+0000
 last_modified_at: 2020-12-29T18:05:26.593+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [greece,militarization,police-brutality,special,refugees]
 description: Militarisation is a trend that had a significant impact on Greece in 2020, for both people on the move and Greeks in general.
 image:
-  path: assets/891a2e95b8b5/1*2yjV1m__tAyguTOIHNP7xw.jpeg
+  path: ../assets/891a2e95b8b5/1*2yjV1m__tAyguTOIHNP7xw.jpeg
 ---
 
 ### AYS Special from Greece: Militarisation — A tendency in 2020
@@ -15,7 +15,7 @@ image:
 _Both people on the move and Greeks in general, have felt the impact of the growing militarisation of, and oppression by, the Greek state by means of expanding the role, the operational scope and tactics, the resources and the equipment of the police this year\. It is a phenomenon which also existed under previous governments, but has been significantly increased since the new centre\-right government of the Nea Demokratia \(ND\) party came into power in July 2019\._
 
 
-![\(Image Credit: [Rafat Alkhateeb via Art Against](https://www.facebook.com/artagainstproject/photos/a.704384742944296/3564553166927425/) \)](assets/891a2e95b8b5/1*2yjV1m__tAyguTOIHNP7xw.jpeg)
+![\(Image Credit: [Rafat Alkhateeb via Art Against](https://www.facebook.com/artagainstproject/photos/a.704384742944296/3564553166927425/) \)](../assets/891a2e95b8b5/1*2yjV1m__tAyguTOIHNP7xw.jpeg)
 
 \(Image Credit: [Rafat Alkhateeb via Art Against](https://www.facebook.com/artagainstproject/photos/a.704384742944296/3564553166927425/) \)
 
@@ -53,7 +53,7 @@ Since the beginning of June, this policy of forcing refugees to leave accommodat
 “All refugees have left Viktoria Square for temporary accommodation, thanks to the actions of the migration ministry’s first reception service and Greek police,” adding that solidarity activists “have come to the square to exploit human suffering in order to create certain impressions,” underlining the confrontational line of this government\.
 
 
-![June, 2020 — Refugees met with police in Viktoria Square\. \(Photo by [ypopto\_mousi](https://twitter.com/ypopto_mousi) \)](assets/891a2e95b8b5/0*mhQgkBW_aOdUY5yi)
+![June, 2020 — Refugees met with police in Viktoria Square\. \(Photo by [ypopto\_mousi](https://twitter.com/ypopto_mousi) \)](../assets/891a2e95b8b5/0*mhQgkBW_aOdUY5yi)
 
 June, 2020 — Refugees met with police in Viktoria Square\. \(Photo by [ypopto\_mousi](https://twitter.com/ypopto_mousi) \)
 #### The Evictions
@@ -63,7 +63,7 @@ During last winter, up until February, the police made several attempts to [atta
 In May, an abandoned building on Themistokleous Street in Athens, a squat that has hosted migrants and refugees since 2016, was [evicted](https://www.keeptalkinggreece.com/2020/05/18/greece-police-exarchia-squat-asylum-service/) by a strong police force at 6am\.
 
 
-![May 18, 2020 — Evacuation of the Themistokleous squat in Exarcheia \(Photo by: [Marios Lolos](https://twitter.com/lolosmarios/status/1262256400958455808) \)](assets/891a2e95b8b5/0*SbOyYtkepAsV_u8H)
+![May 18, 2020 — Evacuation of the Themistokleous squat in Exarcheia \(Photo by: [Marios Lolos](https://twitter.com/lolosmarios/status/1262256400958455808) \)](../assets/891a2e95b8b5/0*SbOyYtkepAsV_u8H)
 
 May 18, 2020 — Evacuation of the Themistokleous squat in Exarcheia \(Photo by: [Marios Lolos](https://twitter.com/lolosmarios/status/1262256400958455808) \)
 
@@ -74,7 +74,7 @@ In June, the police [evicted and sealed](https://en.squat.net/2020/07/04/athens-
 More raids followed during the summer\. The 16\-year old squat [Terra Incognita](https://en.squat.net/2020/08/18/thessaloniki-terra-incognita-evicted/) and the [Libertatia Squat](https://www.youtube.com/watch?v=8j1eeSLgalU&feature=emb_logo) in Thessaloniki were evicted in August, and on the 5th of September, police raided the legendary [Rosa Nera Squat](https://fromgreecetoanarchy.tumblr.com/post/628630941784555520/video-they-evacuated-a-squat-but-didnt-expect) in Chania on Crete\. They made 16 arrests and injured a journalist with a flashbang during the raid\. [Large demonstrations](https://www.youtube.com/watch?v=41a2DyJayzY) with the participation of a large proportion of Chania’s residents followed together with a strong police presence\.
 
 
-![September 5, 2020 — Evacuation of the Rosa Nera Squat, Chania, Crete \(Photo by [Sofia Theodoraki](https://www.facebook.com/sofia.theodoraki.3/posts/10221736983112500) \)](assets/891a2e95b8b5/0*ew9wCPQrHoyrQ6uA)
+![September 5, 2020 — Evacuation of the Rosa Nera Squat, Chania, Crete \(Photo by [Sofia Theodoraki](https://www.facebook.com/sofia.theodoraki.3/posts/10221736983112500) \)](../assets/891a2e95b8b5/0*ew9wCPQrHoyrQ6uA)
 
 September 5, 2020 — Evacuation of the Rosa Nera Squat, Chania, Crete \(Photo by [Sofia Theodoraki](https://www.facebook.com/sofia.theodoraki.3/posts/10221736983112500) \)
 #### Policing Migration
@@ -82,7 +82,7 @@ September 5, 2020 — Evacuation of the Rosa Nera Squat, Chania, Crete \(Photo b
 The year began with local protests on the islands of Lesvos and Chios against the construction of new closed detention centres\. Special forces, transferred during the night on ferries from the mainland, [deployed teargas, water cannons and sound flares against locals](ays-special-frontex-and-human-rights-how-did-we-arrive-here-part-1-2004-2016-17cffb340c07) throwing stones and some Molotov cocktails in response\. The local mayor and a priest were treated at the local hospitals after having inhaled teargas\.
 
 
-![“Why, Mr\. Mitsotakis?” — February 25, 2020 — Karava, Lesvos \(Photo by Michael Bakas\)](assets/891a2e95b8b5/0*hg5bWIqva2a_6JsM)
+![“Why, Mr\. Mitsotakis?” — February 25, 2020 — Karava, Lesvos \(Photo by Michael Bakas\)](../assets/891a2e95b8b5/0*hg5bWIqva2a_6JsM)
 
 “Why, Mr\. Mitsotakis?” — February 25, 2020 — Karava, Lesvos \(Photo by Michael Bakas\)
 
@@ -91,7 +91,7 @@ On the 9th of September, [Moria camp on Lesvos](ays-special-moria-was-not-built-
 The situation escalated quickly, and refugees [protesting](https://www.france24.com/en/20200912-teargas-fired-at-migrant-protesters-on-greek-island-of-lesbos) against the transfer to a prison\-like camp were met by police in combat gear and large doses of teargas\. Several children were present in the teargas attacks\.
 
 
-[![Moria: Greek riot police firing asphyxiating gas at children and elderly fleeing a burning hell](assets/891a2e95b8b5/00d2_hqdefault.jpg "Moria: Greek riot police firing asphyxiating gas at children and elderly fleeing a burning hell")](https://www.youtube.com/watch?v=xYUwNV-0oJw)
+[![Moria: Greek riot police firing asphyxiating gas at children and elderly fleeing a burning hell](../assets/891a2e95b8b5/00d2_hqdefault.jpg "Moria: Greek riot police firing asphyxiating gas at children and elderly fleeing a burning hell")](https://www.youtube.com/watch?v=xYUwNV-0oJw)
 
 
 The appalling conditions which they now have to contend with in the new camp have been [well documented](https://www.infomigrants.net/en/post/29102/greece-government-criticized-as-moria-2-0-flooded-again) , but lesser known is the fact that a permanent police force of [over 300 officers](https://www.cnn.gr/ellada/story/234702/apokleistiko-froyrio-o-kataylismos-toy-kara-tepe-me-isxyri-astynomiki-paroysia) is planned to be stationed there, allocated from other directorates\.
@@ -143,11 +143,11 @@ A few days later, students followed by teachers and parents rallied for better c
 After another protest by school students to get better protection against COVID\-19, riot police in combat gear [rounded up and detained several of the protesters](https://www.avgi.gr/koinonia/369267_tromokratia-kai-kynigito-mathiton-prin-kai-meta-tin-poreia) \. In a quasi\-dystopian turn, children of 14 and 15\-years\-old were treated as if they were criminals — [though this is only unusual in that the children were Greek](https://www.thenewhumanitarian.org/news-feature/2020/12/18/Greece-detention-migrant-children) \.
 
 
-![](assets/891a2e95b8b5/1*IUWO5ioNgqodoR3tDKHv2w.jpeg)
+![](../assets/891a2e95b8b5/1*IUWO5ioNgqodoR3tDKHv2w.jpeg)
 
 
 
-![October 15, 2020 — Athens \(Photo source: [BLOCO Μαθητών/\-τριών](https://www.facebook.com/blocomathites/posts/2855803817995359) \)](assets/891a2e95b8b5/1*MLXlc5NCeg-henmawmZg8g.jpeg)
+![October 15, 2020 — Athens \(Photo source: [BLOCO Μαθητών/\-τριών](https://www.facebook.com/blocomathites/posts/2855803817995359) \)](../assets/891a2e95b8b5/1*MLXlc5NCeg-henmawmZg8g.jpeg)
 
 October 15, 2020 — Athens \(Photo source: [BLOCO Μαθητών/\-τριών](https://www.facebook.com/blocomathites/posts/2855803817995359) \)
 
@@ -168,7 +168,7 @@ The deep symbolism of these specific police decrees has resounded strongly throu
 On the day of the ban, many people wanted to pay tribute to the 1973 uprising, and as expected, police squads with water cannons and teargas [came to resemble](https://dete.gr/astynomikoi-kai-avres-parelavnoun-san-stratos-vinteo/) the armed forces of these Junta times\. More teargas and more police dispersion on motorcycles and with batons [continued](https://www.keeptalkinggreece.com/2020/11/17/greece-police-violence-polytechnio/) throughout the day and evening, targeting journalists and ordinary protestors alike\.
 
 
-[![Riot in Athens: The Orwellian ban on gatherings of more than 3 people leads to riots all over Greece](assets/891a2e95b8b5/d1d6_hqdefault.jpg "Riot in Athens: The Orwellian ban on gatherings of more than 3 people leads to riots all over Greece")](https://www.youtube.com/watch?v=VrbwOE4_YtI)
+[![Riot in Athens: The Orwellian ban on gatherings of more than 3 people leads to riots all over Greece](../assets/891a2e95b8b5/d1d6_hqdefault.jpg "Riot in Athens: The Orwellian ban on gatherings of more than 3 people leads to riots all over Greece")](https://www.youtube.com/watch?v=VrbwOE4_YtI)
 
 
 The events also [marked](https://www.iefimerida.gr/ellada/i-nea-omada-odos-tis-elas) the premiere of the new anti\-protest police force\. The same scenario was repeated on 6th of December on the anniversary of the Grigoropoulos killing\.
@@ -187,7 +187,7 @@ The events also [marked](https://www.iefimerida.gr/ellada/i-nea-omada-odos-tis-e
 5,000 police officers were deployed to the centre of Athens and to Exarcheia in particular\. Numerous arrests were made of citizens wishing to honour the site of the killing, including several prominent lawyers and academics\. Journalists had their access to events blocked, but a [single event](https://www.aftodioikisi.gr/politiki/o-chrysocho-dis-zitaei-kai-ta-resta-i-dithen-aristeri-eyaisthisia-einai-mia-tyfli-adiallaxia/) in which a police officer desecrated some flowers handed to him by a citizen turned into a symbolic representation of the police oppression of this day, sacred to many Greeks\.
 
 
-![Don’t Forget \(Illustration by [John Antono](https://johnantono.blogspot.com/2020/12/den-ksexnoun.html) \)](assets/891a2e95b8b5/0*eYJ8VIcYrgdc7YyO)
+![Don’t Forget \(Illustration by [John Antono](https://johnantono.blogspot.com/2020/12/den-ksexnoun.html) \)](../assets/891a2e95b8b5/0*eYJ8VIcYrgdc7YyO)
 
 Don’t Forget \(Illustration by [John Antono](https://johnantono.blogspot.com/2020/12/den-ksexnoun.html) \)
 

@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,médenine,tunisia,bihac]
 description: 43 people still stranded on the Sea Watch 3 /// Emergency accommodation needed in Nantes /// Red Cross Bosnia prevent aid delivery in…
 image:
-  path: assets/2ac14b5a17ad/1*epwMTNXkFAG51yX8qWg1-w.jpeg
+  path: ../assets/2ac14b5a17ad/1*epwMTNXkFAG51yX8qWg1-w.jpeg
 ---
 
 ### AYS Daily Digest 24/6/19: Tunisia, World Refugee Day celebrated with arrests and beatings
@@ -15,7 +15,7 @@ image:
 
 
 ![Streets of Valencia, Spain — By [Himed&Reyben](https://www.facebook.com/himedreyben/?__tn__=%2CdK%2AF-R&eid=ARDFcikgq70TSDPGkhVmT3INHi3sDVmWTJXzgI0m8rRMMKqQ3aQ6CQGAqvgivmUdaAaWusUqA1qdDZCv&hc_location=group_dialog) — Photograph by @mrbt62 
-[\#noborders](https://www.facebook.com/hashtag/noborders?epa=HASHTAG) — [\#OpenEUborders](https://www.facebook.com/hashtag/openeuborders?epa=HASHTAG)](assets/2ac14b5a17ad/1*epwMTNXkFAG51yX8qWg1-w.jpeg)
+[\#noborders](https://www.facebook.com/hashtag/noborders?epa=HASHTAG) — [\#OpenEUborders](https://www.facebook.com/hashtag/openeuborders?epa=HASHTAG)](../assets/2ac14b5a17ad/1*epwMTNXkFAG51yX8qWg1-w.jpeg)
 
 Streets of Valencia, Spain — By [Himed&Reyben](https://www.facebook.com/himedreyben/?__tn__=%2CdK%2AF-R&eid=ARDFcikgq70TSDPGkhVmT3INHi3sDVmWTJXzgI0m8rRMMKqQ3aQ6CQGAqvgivmUdaAaWusUqA1qdDZCv&hc_location=group_dialog) — Photograph by @mrbt62 
 [\#noborders](https://www.facebook.com/hashtag/noborders?epa=HASHTAG) — [\#OpenEUborders](https://www.facebook.com/hashtag/openeuborders?epa=HASHTAG)

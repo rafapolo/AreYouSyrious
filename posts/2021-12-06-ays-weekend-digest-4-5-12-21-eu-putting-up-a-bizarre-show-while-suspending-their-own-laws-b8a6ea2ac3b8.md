@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 4–5/12/21: EU putting up a bizarre show while suspending their own laws
+title: "AYS Weekend Digest 4–5/12/21: EU putting up a bizarre show while suspending their own laws"
 author: Are You Syrious?
 date: 2021-12-06T15:40:39.159+0000
 last_modified_at: 2021-12-06T15:40:39.159+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,belarus,migration,europe]
 description: What is going on — at the border with Belarus, in the heads of the decision makers of the EU Commission, on the Greek islands, in front of…
 image:
-  path: assets/b8a6ea2ac3b8/0*fPPYrL-2CEpnhfIr
+  path: ../assets/b8a6ea2ac3b8/0*fPPYrL-2CEpnhfIr
 ---
 
 ### AYS Weekend Digest 4–5/12/21: EU putting up a bizarre show while suspending their own laws
 #### What is going on — at the border with Belarus, in the heads of the decision makers of the EU Commission, on the Greek islands, in front of the UNHCR offices in Libya and all around us? News, updates from the field, calls for support \(Grupa Granica\) and some really good long reads on the most important topics at the moment — read, share and act\!
 
 
-![](assets/b8a6ea2ac3b8/0*fPPYrL-2CEpnhfIr)
+![](../assets/b8a6ea2ac3b8/0*fPPYrL-2CEpnhfIr)
 
 
 Blankets and sleeping bags lie abandoned in the forest on the border between Poland and Belarus, November 11, 2021\. © 2021 Michael Kappeler/picture\-alliance/dpa/AP Images — via [HRW](https://www.hrw.org/news/2021/12/03/asylum-rights-thrown-frozen-ditch-poland-belarus-border?fbclid=IwAR22QdgwY5vmHhtp1BI9pIgfL6HFtn-fptSmnz-AygOlAVgu7zmPNX19kxI)
@@ -107,7 +107,7 @@ Greece’s National Meteorological Service EMY issued a weather warning on Sunda
 ### Strong solidarity of Briançon
 
 
-![](assets/b8a6ea2ac3b8/0*728-0ap9psAIa9LF.jpg)
+![](../assets/b8a6ea2ac3b8/0*728-0ap9psAIa9LF.jpg)
 
 
 Photo: Juliette Pascal
@@ -149,11 +149,11 @@ Also, a political move was put in motion to help change the existing hardship mi
 
 
 
-![](assets/b8a6ea2ac3b8/0*obUZA0WEEfUUeD3n)
+![](../assets/b8a6ea2ac3b8/0*obUZA0WEEfUUeD3n)
 
 
 
-![](assets/b8a6ea2ac3b8/0*T9VMZPoPU2dT1ZKf)
+![](../assets/b8a6ea2ac3b8/0*T9VMZPoPU2dT1ZKf)
 
 
 To achieve a safer system for all, the Government must:

@@ -1,5 +1,5 @@
 ---
-title: AYS 06/05/2017: Frontex to be deployed to Serbia and Macedonia
+title: "AYS 06/05/2017: Frontex to be deployed to Serbia and Macedonia"
 author: Are You Syrious?
 date: 2017-05-06T23:13:45.125+0100
 last_modified_at: 2017-05-06T23:13:45.125+0100
@@ -7,7 +7,7 @@ categories:
 tags: [europe,refugees,frontex,calais,unicef]
 description: New plans to fortify EU // Children stranded at the European borders suffer psychologically // New arrivals and calls for help in Greece //…
 image:
-  path: assets/315bd8baff5f/1*G42I4yOJeLZoHoYXg-nQMQ.jpeg
+  path: ../assets/315bd8baff5f/1*G42I4yOJeLZoHoYXg-nQMQ.jpeg
 ---
 
 ### AYS 06/05/2017: Frontex to be deployed to Serbia and Macedonia
@@ -15,7 +15,7 @@ image:
 _New plans to fortify EU // Children stranded at the European borders suffer psychologically // New arrivals and calls for help in Greece // Images from detention center in Hungary // British and French governments urged to act and help unaccompanied children from Calais jungle_
 
 
-![Boys play at Kara Tepe refugee camp on the outskirts of Mytilini, Lesvos, Greece, Monday 13 March 2017\. Kara Tepe is a space for the more vulnerable refugee including women, children, and families\. ©UNICEF/UN057951/Gilbertson VII Photo](assets/315bd8baff5f/1*G42I4yOJeLZoHoYXg-nQMQ.jpeg)
+![Boys play at Kara Tepe refugee camp on the outskirts of Mytilini, Lesvos, Greece, Monday 13 March 2017\. Kara Tepe is a space for the more vulnerable refugee including women, children, and families\. ©UNICEF/UN057951/Gilbertson VII Photo](../assets/315bd8baff5f/1*G42I4yOJeLZoHoYXg-nQMQ.jpeg)
 
 Boys play at Kara Tepe refugee camp on the outskirts of Mytilini, Lesvos, Greece, Monday 13 March 2017\. Kara Tepe is a space for the more vulnerable refugee including women, children, and families\. ©UNICEF/UN057951/Gilbertson VII Photo
 #### Feature
@@ -34,7 +34,7 @@ Giving total immunity for armed officers in the foreign country was not success 
 _“The deployment of Member States’ border guards on the territory of neighboring states is yet another tool to implement the EU’s externalization and containment agenda”_ , [said ECRE Senior Legal & Policy Officer, Kris Pollet](http://www.ecre.org/frontex-2-0-deploying-armed-groups-on-the-balkan-route/) \. _“Notwithstanding the inclusion of a fundamental rights clause, these type of agreements effectively shift the EU’s external borders and may prevent refugees from accessing effective protection in Europe\. Operating such agreements in a country such as Serbia, which UNHCR considers not to be a safe third country, entails increased risks of Frontex’ and Member States’ complicity to serious fundamental rights violations\.”_
 
 
-![By Farhad Foroutanian\. From Art Against\.](assets/315bd8baff5f/1*tG4me5sh4-3-mmvUxtdw1w.jpeg)
+![By Farhad Foroutanian\. From Art Against\.](../assets/315bd8baff5f/1*tG4me5sh4-3-mmvUxtdw1w.jpeg)
 
 By Farhad Foroutanian\. From Art Against\.
 
@@ -42,7 +42,7 @@ So far, the increase of border controls has only made smugglers more rich and th
 ### Sea
 
 
-![By [@MSF\_Sea](http://twitter.com/MSF_Sea)](assets/315bd8baff5f/1*HlYk8YLkFuLSAf32oVnWFA.jpeg)
+![By [@MSF\_Sea](http://twitter.com/MSF_Sea)](../assets/315bd8baff5f/1*HlYk8YLkFuLSAf32oVnWFA.jpeg)
 
 By [@MSF\_Sea](http://twitter.com/MSF_Sea)
 
@@ -97,7 +97,7 @@ According to the International Federation of Iraqi Refugees \(IFIR\), dozens of 
 More people arrived on Friday and Saturday\. On Friday, two boats were picked up by Greek coast guard, one in Chios with 40 people and the other at Lesvos with 55 people\. On Saturday morning, one boat landed on the north of Lesvos at Karakas with 15 people and one at Chios with 37 people, and one on Samos with 15 people on board\.
 
 
-![When luxury meets despair\. Souda camp\. By [@Theurgia\_Goetia](http://twitter.com/Theurgia_Goetia)](assets/315bd8baff5f/1*BvCpluqJYCQmzHBxq0yhug.jpeg)
+![When luxury meets despair\. Souda camp\. By [@Theurgia\_Goetia](http://twitter.com/Theurgia_Goetia)](../assets/315bd8baff5f/1*BvCpluqJYCQmzHBxq0yhug.jpeg)
 
 When luxury meets despair\. Souda camp\. By [@Theurgia\_Goetia](http://twitter.com/Theurgia_Goetia)
 
@@ -164,7 +164,7 @@ _\- mini\-vocabulary and visual dictionary_
 #### Behind the borders
 
 
-![By SyriousHelp](assets/315bd8baff5f/1*rUrmEOtik0odQcggL5ZXwQ.jpeg)
+![By SyriousHelp](../assets/315bd8baff5f/1*rUrmEOtik0odQcggL5ZXwQ.jpeg)
 
 By SyriousHelp
 

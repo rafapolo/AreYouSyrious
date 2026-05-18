@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [greece,refugees,digest,migration,un]
 description: Horrid scenes from the Aegean exacerbate the already unbearable situation for the people / The European Commission intends to take legal…
 image:
-  path: assets/1d4739f9e2e/0*UeyT04V3J_ZHhzWk.jpeg
+  path: ../assets/1d4739f9e2e/0*UeyT04V3J_ZHhzWk.jpeg
 ---
 
 ### AYS Daily Digest 02/11/20 — Another fire hits Vathy camp on Samos
 ### Horrid scenes from the Aegean exacerbate the already unbearable situation for the people / The European Commission intends to take legal action against Hungary for its breach of EU asylum legislation / Sweden: proposals to employ the ex\-UASCs / recommended reads & calls for action
 
 
-![](assets/1d4739f9e2e/0*qLFkAT6DkMdEOKxH.jpeg)
+![](../assets/1d4739f9e2e/0*qLFkAT6DkMdEOKxH.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----7ec577ad374--------------------------------)
@@ -22,11 +22,11 @@ image:
 [Nov 3](ays-daily-digest-02-11-2020-7ec577ad374?source=post_page-----7ec577ad374--------------------------------) · 8 min read
 
 
-![](assets/1d4739f9e2e/0*g3YuYKtxEfxbbhEp)
+![](../assets/1d4739f9e2e/0*g3YuYKtxEfxbbhEp)
 
 
 
-![](assets/1d4739f9e2e/0*UeyT04V3J_ZHhzWk.jpeg)
+![](../assets/1d4739f9e2e/0*UeyT04V3J_ZHhzWk.jpeg)
 
 
 According to Samos Volunteers and [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/959782687878169) , a fire broke out last night in the Vathy camp on the island of Samos, destroying around 150 tents and other accommodation structures, and threatening the lives and already precarious conditions of migrant families living there\. Currently, around 250 people have been displaced\. The causes of the fire remain undetermined\. The camp has been in a continuous lockdown due to COVID\-19\.
@@ -34,11 +34,11 @@ According to Samos Volunteers and [Aegean Boat Report](https://www.facebook.com/
 [R4R \(Refugee for Refugees\)](https://www.facebook.com/Refugee4Refugees/posts/1360285050981833) also reports from the camp, and asks for support for its ongoing operations\.
 
 
-![](assets/1d4739f9e2e/0*IipI3sXVGu0gJpmn)
+![](../assets/1d4739f9e2e/0*IipI3sXVGu0gJpmn)
 
 
 
-![](assets/1d4739f9e2e/0*Mo7axRZtzPio51yB.jpeg)
+![](../assets/1d4739f9e2e/0*Mo7axRZtzPio51yB.jpeg)
 
 
 [Lesvos Solidarity\-Pikpa](https://www.facebook.com/pikpalesvos/posts/2798648690410544) expresses its solidarity with those affected by the fire, and reports further on the situation for those evicted from Pikpa last Friday, now moved to the old Kara Tepe camp\.
@@ -108,11 +108,11 @@ SPAIN
 [Melilla Acoge](https://www.facebook.com/AcogeMelilla/?__cft__[0]=AZWkI0GJbSeK5YvG1ldfsCrm7wy_d22JAom4Pct_aQ9COh6lFKXblVkpVtLimQ1y0rzSlNPze8fFmZrAsNzZ0pPLosnybHzNbRyzWjRteBmzF2DWP87mA6EnjO5SHSPQIZtFaMnkFo8vnioQxusoGiDG8TLqyJZxqzB6MAH3brts10mIQjPA8Z42_Y7MC-GrjfwEDSqAhIlCVJ36S0eTyUcL&__tn__=-UC%2CP-y-R) needs shelves\!
 
 
-![](assets/1d4739f9e2e/0*QbkCQyMueyyZD0sf)
+![](../assets/1d4739f9e2e/0*QbkCQyMueyyZD0sf)
 
 
 
-![](assets/1d4739f9e2e/0*SXGNli4W8B4SyM0z.jpeg)
+![](../assets/1d4739f9e2e/0*SXGNli4W8B4SyM0z.jpeg)
 
 ### SWEDEN
 

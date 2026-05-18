@@ -1,5 +1,5 @@
 ---
-title: AYS Digest 18/9: Volunteers call on UK to resettle unaccompanied minors from Calais
+title: "AYS Digest 18/9: Volunteers call on UK to resettle unaccompanied minors from Calais"
 author: Are You Syrious?
 date: 2016-09-19T07:31:24.918+0100
 last_modified_at: 2016-09-19T08:08:20.139+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: After the “ Refugees Welcome” rally this Saturday in London, volunteers call on the government to relocate unaccompanied minors to the UK…
 image:
-  path: assets/757f4cf02bad/0*UWVplxA2qqnBENWe.
+  path: ../assets/757f4cf02bad/0*UWVplxA2qqnBENWe.
 ---
 
 ### AYS Digest 18/9: Volunteers call on UK to resettle unaccompanied minors from Calais
@@ -15,7 +15,7 @@ image:
 _After the “ Refugees Welcome” rally this Saturday in London, volunteers call on the government to relocate unaccompanied minors to the UK\. This comes after a 14\-year old boy was killed in a hit and run accident while trying to reach his family in Britain\. Theresa May however is expected to talk about “reducing today’s unmanaged population movement” during today’s UN summit\. Most experts do not believe the summit will yield results, while IOM analysts believe 10,000 refugees could die this year\. Female volunteers in Greece are needed to conduct interviews with pregnant women and mothers of newborns to present a report on the reproductive rights of refugee women in Greece\._
 
 
-![Homeless refugees in Greece\. Photo by Refugee Biriyani & Bananas](assets/757f4cf02bad/0*UWVplxA2qqnBENWe.)
+![Homeless refugees in Greece\. Photo by Refugee Biriyani & Bananas](../assets/757f4cf02bad/0*UWVplxA2qqnBENWe.)
 
 Homeless refugees in Greece\. Photo by Refugee Biriyani & Bananas
 #### Syria
@@ -45,7 +45,7 @@ On Twitter, Jeff Crisp of the Refugee Studies Centre Oxford, hopes the UN Refuge
 _“Last year we had more than 5,000 deaths across the world\. This year we’re already at more than 4,000, but outside of the Mediterranean and Europe the information is so poor we really think it’s a gross underestimate,” she said, adding that experts expect the figure to be twice that, and “greater than anything we’ve seen\.”_
 
 
-![Photo by [r2hox](https://www.instagram.com/r2hox/)](assets/757f4cf02bad/1*BDR-lm6TfxWiLiDAXAuxMw.png)
+![Photo by [r2hox](https://www.instagram.com/r2hox/)](../assets/757f4cf02bad/1*BDR-lm6TfxWiLiDAXAuxMw.png)
 
 Photo by [r2hox](https://www.instagram.com/r2hox/)
 
@@ -78,17 +78,17 @@ Refucomm, a group that provides information to refugees on everything from Greek
 Photos of Sindos Karamanlis show how living spaces, inside or outside refugee camps, are being built and improved by refugees and volunteers\.
 
 
-![Spaces built by refugees and volunteers in Sindos Karamanlis\. Photo by أبو إيمار الرجب](assets/757f4cf02bad/0*xxRaVAhBEkstp16I.)
+![Spaces built by refugees and volunteers in Sindos Karamanlis\. Photo by أبو إيمار الرجب](../assets/757f4cf02bad/0*xxRaVAhBEkstp16I.)
 
 Spaces built by refugees and volunteers in Sindos Karamanlis\. Photo by أبو إيمار الرجب
 
 
-![Spaces built by refugees and volunteers in Sindos Karamanlis\. Photo by أبو إيمار الرجب](assets/757f4cf02bad/0*A2tpQBT9epwNk04C.)
+![Spaces built by refugees and volunteers in Sindos Karamanlis\. Photo by أبو إيمار الرجب](../assets/757f4cf02bad/0*A2tpQBT9epwNk04C.)
 
 Spaces built by refugees and volunteers in Sindos Karamanlis\. Photo by أبو إيمار الرجب
 
 
-![Spaces built by refugees and volunteers in Sindos Karamanlis\. Photo by أبو إيمار الرجب](assets/757f4cf02bad/0*Ql-8xz5XcdjCC0Cp.)
+![Spaces built by refugees and volunteers in Sindos Karamanlis\. Photo by أبو إيمار الرجب](../assets/757f4cf02bad/0*Ql-8xz5XcdjCC0Cp.)
 
 Spaces built by refugees and volunteers in Sindos Karamanlis\. Photo by أبو إيمار الرجب
 #### Serbia
@@ -123,12 +123,12 @@ _The crowd cheered and waved its banners\.The demonstration was indeed a fantast
 _As Juliette Stevenson highlighted at yesterday’s rally, there is a list of names \- compiled by @CitizensUK — of children in Calais which is sitting on Amber Rudd’s desk, ALL of them have a legal right to asylum in the UK and have family waiting to receive them\. Please lobby your MP and local councils telling them to expedite these children’s claims under the Dubs Amendment and demand that they are ready and willing to receive their quota of refugees — a template letter is on our pinned post\. Councils say that they do not have enough foster parents, so PLEASE offer yourself as a foster carer, or help advertise for others in your borough\!_
 
 
-![Photo Credits: Rob Pinney, Clare Struthers](assets/757f4cf02bad/0*pMBsP3M5IjD80DIo.jpg)
+![Photo Credits: Rob Pinney, Clare Struthers](../assets/757f4cf02bad/0*pMBsP3M5IjD80DIo.jpg)
 
 Photo Credits: Rob Pinney, Clare Struthers
 
 
-![Photo Credits: Rob Pinney, Clare Struthers](assets/757f4cf02bad/0*Q7nkXJfsyNm5ml2i.jpg)
+![Photo Credits: Rob Pinney, Clare Struthers](../assets/757f4cf02bad/0*Q7nkXJfsyNm5ml2i.jpg)
 
 Photo Credits: Rob Pinney, Clare Struthers
 ### Politicians call on May to resettle more refugees
@@ -147,12 +147,12 @@ A 14 year\-old Afghan boy was killed in a hit and run accident on Friday after t
 Calais still needs help, as winter approaches and rain is predicted for the next week\. Refugee Info Bus says the natural water level in the Jungle is only only one or two feet below ground level, meaning that homes, bedding and possessions get flooded every time there is a heavy rain\. Putting pallets below tents could help ease the situation, but the police won’t let pallets into the camp as it is considered a building material\.
 
 
-![Photo by Refugee Info Bus](assets/757f4cf02bad/0*3ptulfNUox1VwyPb.)
+![Photo by Refugee Info Bus](../assets/757f4cf02bad/0*3ptulfNUox1VwyPb.)
 
 Photo by Refugee Info Bus
 
 
-![Photo by Refugee Info Bus](assets/757f4cf02bad/0*0fuUdCT7i5dbSSFH.)
+![Photo by Refugee Info Bus](../assets/757f4cf02bad/0*0fuUdCT7i5dbSSFH.)
 
 Photo by Refugee Info Bus
 

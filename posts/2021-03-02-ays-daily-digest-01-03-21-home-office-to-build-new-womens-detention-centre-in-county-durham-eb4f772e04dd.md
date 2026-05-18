@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [uk,refugees,digest,greece,denmark]
 description: Are You Syrious?
 image:
-  path: assets/eb4f772e04dd/0*nIVTL1318UniueOC.jpeg
+  path: ../assets/eb4f772e04dd/0*nIVTL1318UniueOC.jpeg
 ---
 
 ### AYS Daily Digest 01/03/21 Home Office to build new women’s detention centre in County Durham
 
 
-![](assets/eb4f772e04dd/0*Kscprx7XEtsWs7bX.jpeg)
+![](../assets/eb4f772e04dd/0*Kscprx7XEtsWs7bX.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----661080e7256b--------------------------------)
@@ -23,11 +23,11 @@ image:
 _Press release from Mediterranea Saving Humans after police operation against them // evictions in Greece // deportations from Denmark and Spain // UK to consider life sentences for smugglers // and more…_
 
 
-![](assets/eb4f772e04dd/0*lzJs2ku7ZFxqS53i)
+![](../assets/eb4f772e04dd/0*lzJs2ku7ZFxqS53i)
 
 
 
-![](assets/eb4f772e04dd/0*nIVTL1318UniueOC.jpeg)
+![](../assets/eb4f772e04dd/0*nIVTL1318UniueOC.jpeg)
 
 ### FEATURE: Home Office is building a new women’s detention centre in County Durham
 
@@ -83,11 +83,11 @@ Agnes \(photo above\), a refugee woman who was imprisoned in Yarl’s Wood and i
 AYS will continue to follow this story and stands in solidarity with anyone conducting the lifesaving work of sea rescue\.
 
 
-![](assets/eb4f772e04dd/0*arfFYTDl2btr-N_Z)
+![](../assets/eb4f772e04dd/0*arfFYTDl2btr-N_Z)
 
 
 
-![](assets/eb4f772e04dd/0*xfM1YDPtWjG3kPeD.jpeg)
+![](../assets/eb4f772e04dd/0*xfM1YDPtWjG3kPeD.jpeg)
 
 ### Sea Watch 3 saved 363 people this weekend
 
@@ -141,11 +141,11 @@ Journalist [Katy Fallon](https://twitter.com/katymfallon/status/1366364392506466
 A man is being treated for severe burns from a gas explosion that happened in Chios\. He was transferred to a hospital in Athens overnight and now is back at the ICU of Chios General Hospital\. Apparently he has burns on 35% of his body\. More [here](http://www.kounoupi.gr/%CE%95%CE%B9%CE%B4%CE%AE%CF%83%CE%B5%CE%B9%CF%82/me-sovara-egkaymata-apo-ekrixi-se-gkazaki-nosileyetai-prosfygas?fbclid=IwAR0esXlLPNd-AeCDGBe9_oCHZOnA73-35mCxrScPL8prMP9buAIo6qOYUK8) \.
 
 
-![](assets/eb4f772e04dd/0*cwmjCX_E5_jDY4H8)
+![](../assets/eb4f772e04dd/0*cwmjCX_E5_jDY4H8)
 
 
 
-![](assets/eb4f772e04dd/0*rB4AyfSX1TljHRPu.png)
+![](../assets/eb4f772e04dd/0*rB4AyfSX1TljHRPu.png)
 
 ### “As a doctor in a European refugee camp, I found deep neglect and xenophobia”
 
@@ -194,45 +194,45 @@ El Pais is reporting that “ _The number of asylum applications filed in the Ca
 ### BOSNIA AND HEREZEGOVINA
 
 
-![](assets/eb4f772e04dd/0*zasM5hdhy9NDY9On)
+![](../assets/eb4f772e04dd/0*zasM5hdhy9NDY9On)
 
 
 
-![](assets/eb4f772e04dd/0*s2pPXj-aVTeea15y.jpeg)
+![](../assets/eb4f772e04dd/0*s2pPXj-aVTeea15y.jpeg)
 
 
 
-![](assets/eb4f772e04dd/0*g0MBVKh50nraRZXP)
+![](../assets/eb4f772e04dd/0*g0MBVKh50nraRZXP)
 
 
 
-![](assets/eb4f772e04dd/0*3I1H-FInPHGDuQ6d.jpeg)
+![](../assets/eb4f772e04dd/0*3I1H-FInPHGDuQ6d.jpeg)
 
 
 
-![](assets/eb4f772e04dd/0*BUhRkOYIM4BsQ4O4)
+![](../assets/eb4f772e04dd/0*BUhRkOYIM4BsQ4O4)
 
 
 
-![](assets/eb4f772e04dd/0*nkJ4ISAQ8IuOSTYf.jpeg)
+![](../assets/eb4f772e04dd/0*nkJ4ISAQ8IuOSTYf.jpeg)
 
 
 
-![](assets/eb4f772e04dd/0*zVS8TShaEDR6i66f)
+![](../assets/eb4f772e04dd/0*zVS8TShaEDR6i66f)
 
 
 
-![](assets/eb4f772e04dd/0*9hyRkW-afARwn0dE.jpeg)
+![](../assets/eb4f772e04dd/0*9hyRkW-afARwn0dE.jpeg)
 
 ### SERBIA
 ### AUSTRIA
 
 
-![](assets/eb4f772e04dd/0*EMB3AE6Q1VCECd5R)
+![](../assets/eb4f772e04dd/0*EMB3AE6Q1VCECd5R)
 
 
 
-![](assets/eb4f772e04dd/0*p1Bdo0pvPTDsJAv0.jpeg)
+![](../assets/eb4f772e04dd/0*p1Bdo0pvPTDsJAv0.jpeg)
 
 ### DENMARK
 ### UNHCR expressing severe concern over Denmark’s new “Zero asylum seeker” policy goal
@@ -247,11 +247,11 @@ On more of the Social Democratic Party’s immigration decisions like this, Jaco
 ### FRANCE
 
 
-![](assets/eb4f772e04dd/0*bqulxxzCP5cNctjW)
+![](../assets/eb4f772e04dd/0*bqulxxzCP5cNctjW)
 
 
 
-![](assets/eb4f772e04dd/0*FeHseYrMKKYi8pzJ.jpeg)
+![](../assets/eb4f772e04dd/0*FeHseYrMKKYi8pzJ.jpeg)
 
 ### UK
 ### Government considering a law that would give life sentences to people smugglers

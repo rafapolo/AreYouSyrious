@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 02/09/22: Seven years since the death of two-year-old Alan Kurdi
+title: "AYS News Digest 02/09/22: Seven years since the death of two-year-old Alan Kurdi"
 author: Are You Syrious?
 date: 2022-09-02T23:14:48.269+0100
 last_modified_at: 2022-09-03T09:20:00.190+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,greece,frontex,european-union]
 description: Survivors of a shipwreck filed lawsuit against Lebanese military//EU continues to support the interception of boats by Libyan forces//Greek…
 image:
-  path: assets/dea0eff8b5e3/0*YFJaNr43t8rHFH9N
+  path: ../assets/dea0eff8b5e3/0*YFJaNr43t8rHFH9N
 ---
 
 ### AYS News Digest 02/09/22: Seven years since the death of two\-year\-old Alan Kurdi
@@ -15,7 +15,7 @@ image:
 Survivors of a shipwreck filed lawsuit against Lebanese military//EU continues to support the interception of boats by Libyan forces//Greek government has threatened Der Spiegel with legal action//A group of four refugees have been found not guilty after being accused of stealing property on Samos//FRONTEX officer argues there should be more monitoring on how Greek authorities manage asylum seekers//460 individuals still waiting on the Ocean Viking//Hunger strikes and protests taking place in detention centres due to the horrendous conditions and abuse taking place// and much more…
 
 
-![Source: The Civil Fleet — Solidarity is Not a Crime](assets/dea0eff8b5e3/0*YFJaNr43t8rHFH9N)
+![Source: The Civil Fleet — Solidarity is Not a Crime](../assets/dea0eff8b5e3/0*YFJaNr43t8rHFH9N)
 
 Source: The Civil Fleet — Solidarity is Not a Crime
 #### TURKEY
@@ -141,13 +141,13 @@ Images and videos of the passengers at sea were sent to Aegean Boat Report\. The
 The boat was crammed with people and despite several shipping boats sailing past them, no one came to help\.
 
 
-![](assets/dea0eff8b5e3/0*qQe5O8aL6LINU9YG)
+![](../assets/dea0eff8b5e3/0*qQe5O8aL6LINU9YG)
 
 
 A Greek Coast Guard vessel was spotted a few hundred metres from the boat, but it did not come any closer and just stayed there for roughly one hour\.
 
 
-![](assets/dea0eff8b5e3/0*q3oTCc2_Tw6hxnsQ)
+![](../assets/dea0eff8b5e3/0*q3oTCc2_Tw6hxnsQ)
 
 
 The group sent a video claiming that the Greek Coast Guard had circled the boat but did not provide any assistance\. The Aegean Boat Report lost contact with the group\.
@@ -241,7 +241,7 @@ Human rights organisations have stated that the authorities are not taking the s
 They have been waiting eight days to disembark and there are many with severe medical issues that need treating\.
 
 
-![](assets/dea0eff8b5e3/0*mtSwvBm1TPaH4c61)
+![](../assets/dea0eff8b5e3/0*mtSwvBm1TPaH4c61)
 
 
 _“We have never experienced such level of severe medical cases on board Ocean Viking before\. The survivors were found in the middle of high seas in unimaginable situations\. In a desperate attempt to find safety, they were near to die at sea, either by drowning, or by dehydration\. Per maritime law, their rescues will only be completed when they will have reached a Place of Safety\. The current blockade for their disembarkation must find an end without further delay,” — Xavier Lauth, SOS MEDITERRANEE Director of Operations_

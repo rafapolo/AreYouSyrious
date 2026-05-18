@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Precarious living conditions for millions of refugees in Lebanon
+title: "AYS SPECIAL: Precarious living conditions for millions of refugees in Lebanon"
 author: Are You Syrious?
 date: 2017-09-04T16:42:19.521+0100
 last_modified_at: 2018-03-01T14:11:24.018+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,lebanon,beqaa-valley,syrians,special]
 description: One of the AYS team members visited Lebanon and camps where mostly Syrian refugees are living, to find out more about their living…
 image:
-  path: assets/81f8845b6a9a/1*Vyxi5PKojCuXAPZd0MNwJA.jpeg
+  path: ../assets/81f8845b6a9a/1*Vyxi5PKojCuXAPZd0MNwJA.jpeg
 ---
 
 ### AYS SPECIAL: Precarious living conditions for millions of refugees in Lebanon
@@ -15,7 +15,7 @@ image:
 _One of the AYS team members visited Lebanon and camps where mostly Syrian refugees are living, to find out more about their living conditions, but also about the local communities and the government’s reaction to new settlements being created and the consequent increase in the number of people in the area\. After volunteering for two weeks with a local [NGO Salam LADC](https://www.salamladc.org/Whatwedo) , she brings an overview of rules, conditions and pictures of every day life for people who are running away from war only to find difficult living conditions, hard to cope with\._
 
 
-![Little garden in a settlement\. Credit: LusseC\.](assets/81f8845b6a9a/1*Vyxi5PKojCuXAPZd0MNwJA.jpeg)
+![Little garden in a settlement\. Credit: LusseC\.](../assets/81f8845b6a9a/1*Vyxi5PKojCuXAPZd0MNwJA.jpeg)
 
 Little garden in a settlement\. Credit: LusseC\.
 
@@ -32,7 +32,7 @@ Initially, Lebanon had an open\-border with Syria, and between 2013 and 2014, [U
 According to the research conducted by the [Force Migration Forum](https://forcedmigrationforum.com/2017/06/22/why-are-there-no-syrian-refugee-%20camps-in-lebanon/) , there are three main reasons why this sort of non\-encampment policy is implemented:
 
 
-![Credit: Salam LADC](assets/81f8845b6a9a/1*UjXdPg-r8JVHO2bJg1jR6g.jpeg)
+![Credit: Salam LADC](../assets/81f8845b6a9a/1*UjXdPg-r8JVHO2bJg1jR6g.jpeg)
 
 Credit: Salam LADC
 
@@ -46,7 +46,7 @@ In terms of what services the government guarantees to refugees, the spectrum is
 In February, [HRW published](https://www.hrw.org/news/2017/02/14/lebanon-new-refugee-policy-step-forward) an article explaining clearly the residency regulations for refugees introduced in January 2015\. According to their findings, all Syrians — 15 and over — are required to pay an annual $200 renewal fee per person, _“present valid identification and an entry slip obtained at the border, submit a housing pledge confirming their place of residence, and provide two photographs stamped by a Lebanese local official\.”_
 
 
-![Makeshift camp in the Beqaa Valley\. Credit: LusseC\.](assets/81f8845b6a9a/1*pWn_4R0OItdlnG9hq_ANOw.jpeg)
+![Makeshift camp in the Beqaa Valley\. Credit: LusseC\.](../assets/81f8845b6a9a/1*pWn_4R0OItdlnG9hq_ANOw.jpeg)
 
 Makeshift camp in the Beqaa Valley\. Credit: LusseC\.
 
@@ -55,7 +55,7 @@ Sofia Kordonets, law expert and former volunteer with Salam LADC, explained for 
 Additionally, every new coming family, even without registration, used to receive arrival kits \(mattresses, blankets, jerry cans, kitchen ware, mats\) and materials to build a tent\. This no longer holds true\. Now new arrivals need to wait anywhere from 1–3 months to receive assistance, and most are not getting anything\. This is why Salam LADC has started providing new arrival kits\. UNHCR is low on staff, and funds for this, and are also looking at changing over to a total cash distribution system\.
 
 
-![Credit: LusseC\.](assets/81f8845b6a9a/1*Ls7F2hDinYoB6pMT_ISCag.jpeg)
+![Credit: LusseC\.](../assets/81f8845b6a9a/1*Ls7F2hDinYoB6pMT_ISCag.jpeg)
 
 Credit: LusseC\.
 
@@ -72,16 +72,16 @@ _“Some of the most common life threatening emergency cases are: heart attack, 
 UNHCR provides also some health assistance related to: care for new born babies, some orthopedic cases\.
 
 
-![](assets/81f8845b6a9a/1*KnwYko9-2z2HSA8dekMmIA.jpeg)
+![](../assets/81f8845b6a9a/1*KnwYko9-2z2HSA8dekMmIA.jpeg)
 
 
 
-![Newly arrived refugees living nearby the mountains that lead to Syria\. Beqaa Valley\. Credit: LusseC\.](assets/81f8845b6a9a/1*20cXho8C9uuwN6kY0yaf4Q.jpeg)
+![Newly arrived refugees living nearby the mountains that lead to Syria\. Beqaa Valley\. Credit: LusseC\.](../assets/81f8845b6a9a/1*20cXho8C9uuwN6kY0yaf4Q.jpeg)
 
 Newly arrived refugees living nearby the mountains that lead to Syria\. Beqaa Valley\. Credit: LusseC\.
 
 
-![](assets/81f8845b6a9a/1*ziUfcS7nGcXkdUli4kvqVw.jpeg)
+![](../assets/81f8845b6a9a/1*ziUfcS7nGcXkdUli4kvqVw.jpeg)
 
 
 If there’s a life threatening condition, refugees should go to the nearest health facility and remember to call NEXtCARE immediately\. If they go to hospital that is not partner of the program and the UNHCR, they have to pay\. If in UNHCR is parter with hospital, they will cover 75% of hospital bill\. \(To know more on access to healthcare supported by UNHCR check the health brochure available in any UNHCR centre, in NEXtCARE centres in hospitals [or online](http://www.refugees-lebanon.org/) \)
@@ -91,14 +91,14 @@ If a woman is not registered with UNHCR or delivers a baby at home, she’s not 
 Education is guaranteed as refugee children are allowed to attend regular lessons at public schools \(always if previously registered through UNHCR\); in addition, various local NGOs are committed to support this call by organising education sections for children and women \(HumanWire, Women now for development, Salam, Intersos etc\. \) \.
 
 
-![Bus Project\. Credit: Salam LADC](assets/81f8845b6a9a/1*lulC5xhNg8Xsiv2MZIoEZg.jpeg)
+![Bus Project\. Credit: Salam LADC](../assets/81f8845b6a9a/1*lulC5xhNg8Xsiv2MZIoEZg.jpeg)
 
 Bus Project\. Credit: Salam LADC
 
 Recreational and educational activities are also implemented by the creation of community centres in different communities\. Lebanese and Syrian staff is hired for different projects, depending on previous experience and skills; during summer time, classes are secured by local NGOs who organise lessons/games in different settlements \(see Bus project of Salam\) \.
 
 
-![The very very cool Bus project by SALAM LADC, providing workshop for Women on Health and Educational and Fun activities for the children of numerous Syrian refugees settlements around the Beqaa Valley\. Credit: LusseC\.](assets/81f8845b6a9a/1*2OX6l2YuGSaSKHk_qTbMyw.jpeg)
+![The very very cool Bus project by SALAM LADC, providing workshop for Women on Health and Educational and Fun activities for the children of numerous Syrian refugees settlements around the Beqaa Valley\. Credit: LusseC\.](../assets/81f8845b6a9a/1*2OX6l2YuGSaSKHk_qTbMyw.jpeg)
 
 The very very cool Bus project by SALAM LADC, providing workshop for Women on Health and Educational and Fun activities for the children of numerous Syrian refugees settlements around the Beqaa Valley\. Credit: LusseC\.
 
@@ -127,14 +127,14 @@ In some cases, refugees can’t afford the rent due to insolvency of the employe
 When a critical situation in a new/existing settlement arise, bigger NGOs should be contacted in order to deal with the emergency: UNHCR, Unicef, Save the Children, NRC, Medair are some of the main woking in settlements and that deal with different needs\.
 
 
-![Flood in December 2016\. Settlement: Qab Elias\. Credit: Sofia Kordonets](assets/81f8845b6a9a/1*QRdjRqxjNdKbvwZYnkscmA.jpeg)
+![Flood in December 2016\. Settlement: Qab Elias\. Credit: Sofia Kordonets](../assets/81f8845b6a9a/1*QRdjRqxjNdKbvwZYnkscmA.jpeg)
 
 Flood in December 2016\. Settlement: Qab Elias\. Credit: Sofia Kordonets
 
 In both cases Salam or actually any other organisation or probably even individuals can refer the case to UNHCR and they will provide what is needed after their own assessment\.
 
 
-![“Heating system” in winter\. Settlement: Khodr Baalbek\. Credit: Sofia Kordonets](assets/81f8845b6a9a/1*DgPUrNRAhCjjuc_BHfexPQ.jpeg)
+![“Heating system” in winter\. Settlement: Khodr Baalbek\. Credit: Sofia Kordonets](../assets/81f8845b6a9a/1*DgPUrNRAhCjjuc_BHfexPQ.jpeg)
 
 “Heating system” in winter\. Settlement: Khodr Baalbek\. Credit: Sofia Kordonets
 
@@ -153,7 +153,7 @@ Settlements are regularly monitored\. Arrivals are constant\.
 The other three settlements we visited are located in the Northern part of the Beqaa Valley, all of them relatively new; the residents of one of them \(the newest\) were all fleeing Raqqah; they barely had water and one makeshift toilets\.
 
 
-![The harsh reality of many refugee settlements in Lebanon where there is not enough rubbish collection or even sometimes there is none, therefore polluting the streams nearby and creating additional health issues\. Credit: LusseC\.](assets/81f8845b6a9a/1*jXEFeEZbz_PKcN_goTuTyg.jpeg)
+![The harsh reality of many refugee settlements in Lebanon where there is not enough rubbish collection or even sometimes there is none, therefore polluting the streams nearby and creating additional health issues\. Credit: LusseC\.](../assets/81f8845b6a9a/1*jXEFeEZbz_PKcN_goTuTyg.jpeg)
 
 The harsh reality of many refugee settlements in Lebanon where there is not enough rubbish collection or even sometimes there is none, therefore polluting the streams nearby and creating additional health issues\. Credit: LusseC\.
 
@@ -166,11 +166,11 @@ Talking to the residents though we discovered that the land owner allows the res
 In this specific settlement, the salary for men is 15\.000 Lebanese Pound/day \($ 9–10\), while for women is 10\.000 Lebanese Pound/day \($ 6–7\), but there’s always more work for women as it is mainly picking tasks\. Five working days a week during high season\.
 
 
-![](assets/81f8845b6a9a/1*tVzWZQ8ubBlkoz02jBymOQ.jpeg)
+![](../assets/81f8845b6a9a/1*tVzWZQ8ubBlkoz02jBymOQ.jpeg)
 
 
 
-![Syrian refugees, mostly women and children working in the field, for long hours, everyday for few dollars\. Beqaa Valley\. Credit: LusseC\.](assets/81f8845b6a9a/1*-lYrBaZRIgyUYJ4Gg5Vpwg.jpeg)
+![Syrian refugees, mostly women and children working in the field, for long hours, everyday for few dollars\. Beqaa Valley\. Credit: LusseC\.](../assets/81f8845b6a9a/1*-lYrBaZRIgyUYJ4Gg5Vpwg.jpeg)
 
 Syrian refugees, mostly women and children working in the field, for long hours, everyday for few dollars\. Beqaa Valley\. Credit: LusseC\.
 
@@ -187,7 +187,7 @@ In their report, HRW wrote that without residency, refugees can be arrested, and
 Additionally, to maintain residency, Syrians not registered with UNHCR have to provide a “pledge of responsibility” signed by a Lebanese national or registered entity to sponsor an individual or family\. Some people charge refugees up to $1,000 for sponsorship\.
 
 
-![Women and children workers heading to farms around the area for a long and hard day under the sun\. Credit: LusseC\.](assets/81f8845b6a9a/1*2fLJ6LAYwd7oWGG7pnkWwQ.jpeg)
+![Women and children workers heading to farms around the area for a long and hard day under the sun\. Credit: LusseC\.](../assets/81f8845b6a9a/1*2fLJ6LAYwd7oWGG7pnkWwQ.jpeg)
 
 Women and children workers heading to farms around the area for a long and hard day under the sun\. Credit: LusseC\.
 
@@ -202,7 +202,7 @@ All of them collaborate and I was positively impressed by the good work done for
 While I was in the Beqaa, I took part to two community dinners, where Syrian families open their house to volunteers and other members of the community to cook and share a typical meal together, and just sharing a tea and a cigarette with an old Syrian granddad and his grandchildren, while looking at the sunset, is worth the whole experience\. As well as looking at the eyes and smiles of children who receive a small gift and a cake for their birthdays thanks to the Birthday Project which guarantees a special day to these kids in settlements, a glimmer of hope and positivity\.
 
 
-![Cinema nights\. Credit: Salam LADC](assets/81f8845b6a9a/1*zosTNA6O_jaFwz5e2DCZlA.jpeg)
+![Cinema nights\. Credit: Salam LADC](../assets/81f8845b6a9a/1*zosTNA6O_jaFwz5e2DCZlA.jpeg)
 
 Cinema nights\. Credit: Salam LADC
 

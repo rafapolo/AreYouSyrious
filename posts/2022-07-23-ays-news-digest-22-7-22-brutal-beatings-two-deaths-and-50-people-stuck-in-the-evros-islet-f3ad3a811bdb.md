@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 22/7/22: Brutal beatings, two deaths and 50 people stuck on the Evros islet
+title: "AYS News Digest 22/7/22: Brutal beatings, two deaths and 50 people stuck on the Evros islet"
 author: Are You Syrious?
 date: 2022-07-23T15:01:05.102+0100
 last_modified_at: 2022-07-24T18:11:42.471+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,europe,greece,human-rights]
 description: Italian authorities breached rights of asylum-seeker to be presumed a minor until his age had been properly assessed // Ombudsman opens…
 image:
-  path: assets/f3ad3a811bdb/0*GlaAXCp57bNPAAME
+  path: ../assets/f3ad3a811bdb/0*GlaAXCp57bNPAAME
 ---
 
 ### AYS News Digest 22/7/22: Brutal beatings, two deaths and 50 people stuck on the Evros islet
 #### Italian authorities breached rights of asylum\-seeker to be presumed a minor until his age had been properly assessed // Ombudsman opens investigation into EU\-Gambia repatriation agreement // French authorities leave people without water “by mistake” // reports, analysis and suggested reads from our team
 
 
-![](assets/f3ad3a811bdb/0*GlaAXCp57bNPAAME)
+![](../assets/f3ad3a811bdb/0*GlaAXCp57bNPAAME)
 
 #### FEATURE
 
@@ -43,7 +43,7 @@ image:
 “What the trapped people are telling constitutes another brutal and criminal, if not outright murderous, attempt to illegally repatriate refugees from the Greek bank of the Evros to islands in the river, where they are abandoned by the Greek authorities to cross to Turkey on their own,” media reported\.
 
 
-[![Νεκρός πρόσφυγας στον ποταμό Έβρο](assets/f3ad3a811bdb/0edb_hqdefault.jpg "Νεκρός πρόσφυγας στον ποταμό Έβρο")](https://www.youtube.com/watch?v=p29AIP6yyrk)
+[![Νεκρός πρόσφυγας στον ποταμό Έβρο](../assets/f3ad3a811bdb/0edb_hqdefault.jpg "Νεκρός πρόσφυγας στον ποταμό Έβρο")](https://www.youtube.com/watch?v=p29AIP6yyrk)
 
 
 The people appealed to the European Court of Human Rights with the help of Hellenic Council for Refugees and HumanRights360, asking for an urgent order to be given to the Greek government to carry out a rescue operation, to ensure basic conditions and to register their request for asylum\.
@@ -53,7 +53,7 @@ The Greek member organisations of the Border Violence Monitoring Network \(BVMN\
 Earlier in July the BVMN shared a [letter](https://www.borderviolence.eu/letter-of-concern-to-frontex-2/) of concern the Network had sent to Frontex, regarding illegal pushbacks at the Greek\-Turkish border and the recent publication of new evidence of Greek authorities coercing asylum seekers into pushing other transit groups back to Turkey by Lighthouse Reports, Le Monde, der Spiegel, the Guardian, and other media outlets:
 
 
-![](assets/f3ad3a811bdb/0*VyCaw7C0gz41l9NP.png)
+![](../assets/f3ad3a811bdb/0*VyCaw7C0gz41l9NP.png)
 
 #### TURKEY
 ### Securitisation widened to the network of taxi drivers
@@ -114,7 +114,7 @@ On 6 July 2022, thanks to the support of the Strategic Litigation: International
 In response to everyone who voiced their concern, anger and disbelief at the fact that the local authorities had taken away water from the area and left people without the most basic need in life during a heat wave, the Prefecture has responded they “did it by mistake”, assuring the public that the water will be reinstalled in the same place:
 
 
-![](assets/f3ad3a811bdb/0*gZvuKTrxbqDR9g5s)
+![](../assets/f3ad3a811bdb/0*gZvuKTrxbqDR9g5s)
 
 #### GERMANY
 ### Hassan, an activist and a _spiritus movens_ from Sudan has died

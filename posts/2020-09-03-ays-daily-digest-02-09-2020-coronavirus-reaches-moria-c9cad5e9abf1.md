@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 02/09/2020: Coronavirus reaches Moria
+title: "AYS Daily Digest 02/09/2020: Coronavirus reaches Moria"
 author: Are You Syrious?
 date: 2020-09-03T13:36:11.580+0100
 last_modified_at: 2020-09-03T14:05:44.053+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,moria,digest,europe,alan-kurdi]
 description: Quarantine imposed over Moria after first positive case  // 5th death anniversary of Alan Kurdi. New rescue ship will carry his borther’s…
 image:
-  path: assets/c9cad5e9abf1/1*NPkd6vk5fvK6BWakl9qBKA.jpeg
+  path: ../assets/c9cad5e9abf1/1*NPkd6vk5fvK6BWakl9qBKA.jpeg
 ---
 
 ### AYS Daily Digest 02/09/2020: Coronavirus reaches Moria
 #### Quarantine imposed over Moria after first positive case // 5th death anniversary of Alan Kurdi\. New rescue ship will carry his brother’s name // People stranded in Bosnia and Herzegovina // Port of Palermo allows disembarkation for people on SeaWatch 4
 
 
-![Info signs in Moria\. Copyright: Stand by me Lesvos](assets/c9cad5e9abf1/1*NPkd6vk5fvK6BWakl9qBKA.jpeg)
+![Info signs in Moria\. Copyright: Stand by me Lesvos](../assets/c9cad5e9abf1/1*NPkd6vk5fvK6BWakl9qBKA.jpeg)
 
 Info signs in Moria\. Copyright: Stand by me Lesvos
 ### FEATURE: First infection reported from Moria Camp
@@ -152,7 +152,7 @@ More than 200 people on the move pitched their tents in front of Paris City Hall
 On Tuesday morning the people were evicted by the police by force\. After negotiations with the prefecture and Paris City Hall the people were given a room within the City Hall building, while others were transferred to hotels\.
 
 
-![Copyright: Utopia 56](assets/c9cad5e9abf1/1*-Pp0gbj9DZu97muWpFqsDw.jpeg)
+![Copyright: Utopia 56](../assets/c9cad5e9abf1/1*-Pp0gbj9DZu97muWpFqsDw.jpeg)
 
 Copyright: Utopia 56
 

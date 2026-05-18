@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 14/11/2022: British and French coastguards “passed the buck” instead of saving…
+title: "AYS News Digest 14/11/2022: British and French coastguards “passed the buck” instead of saving…"
 author: Are You Syrious?
 date: 2022-11-15T11:10:35.382+0000
 last_modified_at: 2022-11-15T14:30:02.737+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,newsdigest,uk,refugees]
 description: Winter is coming in Serbia // The trial of humanitarian worker Seán Binder in Greece // Journalist to stand trial against Italian PM // UK…
 image:
-  path: assets/f3334ff4f105/0*a7j7cPKxXf1R3KcJ
+  path: ../assets/f3334ff4f105/0*a7j7cPKxXf1R3KcJ
 ---
 
 ### AYS News Digest 14/11/2022: British and French coastguards “passed the buck” instead of saving lives\.
@@ -16,7 +16,7 @@ image:
 #### British and French coastguards “passed the buck” instead of saving lives\.
 
 
-![Dover Cliffs: Photo by [Niklas Weiss](https://unsplash.com/@treesoftheplanet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/dover?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](assets/f3334ff4f105/0*a7j7cPKxXf1R3KcJ)
+![Dover Cliffs: Photo by [Niklas Weiss](https://unsplash.com/@treesoftheplanet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/dover?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](../assets/f3334ff4f105/0*a7j7cPKxXf1R3KcJ)
 
 Dover Cliffs: Photo by [Niklas Weiss](https://unsplash.com/@treesoftheplanet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/dover?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 

@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Locals of Velika Kladuša Put International Organisations To Shame
+title: "AYS SPECIAL: Locals of Velika Kladuša Put International Organisations To Shame"
 author: Are You Syrious?
 date: 2018-12-01T15:13:15.653+0000
 last_modified_at: 2018-12-01T15:13:15.653+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [bosnia,daily-digest,ays,refugees,international-community]
 description: At6am, before the break of dawn, in what once used to be a pizzeria, a group of war veterans begin their working day providing warm meals…
 image:
-  path: assets/55be90734ab9/1*RrmE1D7Gakjgw4V57DTyBQ.jpeg
+  path: ../assets/55be90734ab9/1*RrmE1D7Gakjgw4V57DTyBQ.jpeg
 ---
 
 ### AYS SPECIAL: Locals of Velika Kladuša Put International Organisations To Shame
 
 
-![Asim Latić Latan, the owner of the former pizzeria turned community kitchen\. All photos by Nevia Elezovic from [No Borders Photography](https://www.facebook.com/NoBordersPh/)](assets/55be90734ab9/1*RrmE1D7Gakjgw4V57DTyBQ.jpeg)
+![Asim Latić Latan, the owner of the former pizzeria turned community kitchen\. All photos by Nevia Elezovic from [No Borders Photography](https://www.facebook.com/NoBordersPh/)](../assets/55be90734ab9/1*RrmE1D7Gakjgw4V57DTyBQ.jpeg)
 
 Asim Latić Latan, the owner of the former pizzeria turned community kitchen\. All photos by Nevia Elezovic from [No Borders Photography](https://www.facebook.com/NoBordersPh/)
 
@@ -40,15 +40,15 @@ _‘I owed money for electricity, water, food, everything\. At the beginning, ne
 In the restaurant all meals are served warm, on fine china plates and with metal cutlery, salt, pepper, water and napkins on the tables\. Latan serves his new patrons the same way he would serve any patron that comes in, only they are allowed to eat for free\.
 
 
-![](assets/55be90734ab9/1*MlVX0YULXXuz9JSb9frgYg.jpeg)
+![](../assets/55be90734ab9/1*MlVX0YULXXuz9JSb9frgYg.jpeg)
 
 
 
-![](assets/55be90734ab9/1*kFVhzgt3oByU2uJQnxmdMg.jpeg)
+![](../assets/55be90734ab9/1*kFVhzgt3oByU2uJQnxmdMg.jpeg)
 
 
 
-![How food is served and tables are prepared every morning, awaiting patrons \.](assets/55be90734ab9/1*2BQVM65wJ6jFUrJsnBijeg.jpeg)
+![How food is served and tables are prepared every morning, awaiting patrons \.](../assets/55be90734ab9/1*2BQVM65wJ6jFUrJsnBijeg.jpeg)
 
 How food is served and tables are prepared every morning, awaiting patrons \.
 
@@ -61,7 +61,7 @@ I ask Ali why he chooses to work here, and he tells me, ‘ _I do this because i
 It continues like this for two and a half hours\. The local team and their helpers diligently working to serve those who come for food\. Despite the fast pace of the operation, it runs smoothly and the atmosphere remains exceptionally calm throughout\. It’s kept this way by the warm\-spirited and playful nature of team, who joke around with all who enter and refer to everyone by the Bosnian term ‘kolega,’ which means colleague\. They do this as a sign of respect, to show their patrons that they consider them as equals despite their current circumstances\. A nuance small, but too often missed by aid workers\.
 
 
-![Refik \(left\) and Hako \(right\) jokingly posing for a photo](assets/55be90734ab9/1*8D7ewB9a8FmroM8ntdu5HA.jpeg)
+![Refik \(left\) and Hako \(right\) jokingly posing for a photo](../assets/55be90734ab9/1*8D7ewB9a8FmroM8ntdu5HA.jpeg)
 
 Refik \(left\) and Hako \(right\) jokingly posing for a photo
 

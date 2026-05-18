@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 16/7/2018: Six children suffocated while dreaming to reach Europe
+title: "AYS DAILY DIGEST 16/7/2018: Six children suffocated while dreaming to reach Europe"
 author: Are You Syrious?
 date: 2018-07-17T11:23:31.067+0100
 last_modified_at: 2018-07-17T11:23:31.067+0100
@@ -7,7 +7,7 @@ categories:
 tags: [europe,digest,bosnia,libya]
 description: More than 100 people found in a truck in Libya // Finally, some good news from Greece about Pikpa // More pushbacks at the border between…
 image:
-  path: assets/38e2e1ec9d40/1*p2fajJeLbPFcvNYPsijlvA.jpeg
+  path: ../assets/38e2e1ec9d40/1*p2fajJeLbPFcvNYPsijlvA.jpeg
 ---
 
 ### AYS DAILY DIGEST 16/7/2018: Six children suffocated while dreaming to reach Europe
@@ -15,7 +15,7 @@ image:
 _More than 100 people found in a truck in Libya // Finally, some good news from Greece about Pikpa // More pushbacks at the border between Greece and Turkey // Alarming situation in Bosnia and help needed // Push backs from Slovenia // Protests against deportation to Afghanistan in Sweden_
 
 
-![Picture by the local security forces Pictures of the local security forces in this area are showing the interior of the cooling truck, which also had life jackets and several tanks with fuel, which were apparently intended for use in a boat trip\.](assets/38e2e1ec9d40/1*p2fajJeLbPFcvNYPsijlvA.jpeg)
+![Picture by the local security forces Pictures of the local security forces in this area are showing the interior of the cooling truck, which also had life jackets and several tanks with fuel, which were apparently intended for use in a boat trip\.](../assets/38e2e1ec9d40/1*p2fajJeLbPFcvNYPsijlvA.jpeg)
 
 Picture by the local security forces Pictures of the local security forces in this area are showing the interior of the cooling truck, which also had life jackets and several tanks with fuel, which were apparently intended for use in a boat trip\.
 ### Feature
@@ -45,7 +45,7 @@ The fight against the Region’s decision to close Pikpa continues: the appeal w
 On Monday, 42 people arrived at Chios by boat, among them 12 minors\.
 
 
-![Photo by Refugee 4 Refugee from Lesvos](assets/38e2e1ec9d40/1*zp1WEw_cc-T4w-UyNa9MFQ.jpeg)
+![Photo by Refugee 4 Refugee from Lesvos](../assets/38e2e1ec9d40/1*zp1WEw_cc-T4w-UyNa9MFQ.jpeg)
 
 Photo by Refugee 4 Refugee from Lesvos
 
@@ -88,7 +88,7 @@ He also said that according to the law in this country, the army cannot be engag
 In the meantime, volunteers in the field continue to help in the best possible way, which is not easy\.
 
 
-![By Gabriel Tizon\. An 11\-Year\-old refugee girl will be in this morning at the only possible place of temporary settlement at the border of Velika Kladuša\.](assets/38e2e1ec9d40/1*maHv1OENbM-lHBaFCIzFdg.jpeg)
+![By Gabriel Tizon\. An 11\-Year\-old refugee girl will be in this morning at the only possible place of temporary settlement at the border of Velika Kladuša\.](../assets/38e2e1ec9d40/1*maHv1OENbM-lHBaFCIzFdg.jpeg)
 
 By Gabriel Tizon\. An 11\-Year\-old refugee girl will be in this morning at the only possible place of temporary settlement at the border of Velika Kladuša\.
 
@@ -124,11 +124,11 @@ There are currently over 200 tents in the woodland, housing the growing populati
 Volunteers in the area need help to continue working\. They need help with charging cables or torches to sleeping bags and backpacks\.
 
 
-![](assets/38e2e1ec9d40/1*M3qUPYfgri4OLM2-TAaN_w.jpeg)
+![](../assets/38e2e1ec9d40/1*M3qUPYfgri4OLM2-TAaN_w.jpeg)
 
 
 
-![Photos by the [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/posts/793803654158581)](assets/38e2e1ec9d40/1*pQZrBDsk-0hJv9lY9UhZMQ.jpeg)
+![Photos by the [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/posts/793803654158581)](../assets/38e2e1ec9d40/1*pQZrBDsk-0hJv9lY9UhZMQ.jpeg)
 
 Photos by the [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/posts/793803654158581)
 

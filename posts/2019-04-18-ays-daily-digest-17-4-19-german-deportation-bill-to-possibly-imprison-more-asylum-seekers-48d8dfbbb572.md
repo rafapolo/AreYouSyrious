@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,libya,eu,frontex,digest]
 description: Frontex gains more power // Volunteers needed in France // people still trapped in Libyan detention centers among fighting // donations…
 image:
-  path: assets/48d8dfbbb572/1*uAv7tgqvMbKuwJFi5qFd4g.jpeg
+  path: ../assets/48d8dfbbb572/1*uAv7tgqvMbKuwJFi5qFd4g.jpeg
 ---
 
 ### AYS Daily Digest 17/4/19 German deportation bill to possibly imprison more asylum seekers
@@ -15,7 +15,7 @@ image:
 _Frontex gains more power // Volunteers needed in France // People still trapped in Libyan detention centers among fighting // Donations needed in Serbia // and more…_
 
 
-![Squat in Sid, Serbia\. No Name Kitchen group, which is helping to people stack in this border city, is in need of clothes for distribution “we try to give decent clothes, that you like and with which you feel at ease\. We do not share the vision that anything goes, because we want to cover a basic need without the loss of dignity on the way\.” Photo by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/a.312076942523930/702868060111481/?type=3&theater)](assets/48d8dfbbb572/1*uAv7tgqvMbKuwJFi5qFd4g.jpeg)
+![Squat in Sid, Serbia\. No Name Kitchen group, which is helping to people stack in this border city, is in need of clothes for distribution “we try to give decent clothes, that you like and with which you feel at ease\. We do not share the vision that anything goes, because we want to cover a basic need without the loss of dignity on the way\.” Photo by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/a.312076942523930/702868060111481/?type=3&theater)](../assets/48d8dfbbb572/1*uAv7tgqvMbKuwJFi5qFd4g.jpeg)
 
 Squat in Sid, Serbia\. No Name Kitchen group, which is helping to people stack in this border city, is in need of clothes for distribution “we try to give decent clothes, that you like and with which you feel at ease\. We do not share the vision that anything goes, because we want to cover a basic need without the loss of dignity on the way\.” Photo by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/a.312076942523930/702868060111481/?type=3&theater)
 ### Feature
@@ -62,7 +62,7 @@ In an update about Athens, the Skaramangas refugee camp is currently housing 2,6
 Additionally, the police continues with squat evictions in Exarchia\. On Thursday early morning, around 6am, two buldings were forcefully evicted\. One of them Clandestina refugee squat with over 70 people inside\. Apparently, some people were arrested\. We will try to have more in tomorrow digest\.
 
 
-![Eviction in Exarchia\. By No Borders Athens](assets/48d8dfbbb572/1*MLg5JxJmrANTleSWfqxIXA.jpeg)
+![Eviction in Exarchia\. By No Borders Athens](../assets/48d8dfbbb572/1*MLg5JxJmrANTleSWfqxIXA.jpeg)
 
 Eviction in Exarchia\. By No Borders Athens
 
@@ -107,7 +107,7 @@ Please check out their pharmacy order [here](https://www.facebook.com/vestiairem
 [Utopia 56 Paris and Ile\-de\-France](https://www.facebook.com/U56ParisIDF/photos/a.1952115035087947/2081885725444210/?type=3&theater) really needs volunteers to help them with their accommodations for shelter\. Find out more here\.
 
 
-![“Skills necessary? None, just know how to take the subway, the tram or the bus\. Small bonus: have a driver’s license to drive the vehicle of the association\. Double bonus: have your own car\!” Photo by [Utopia 56 Paris](https://www.facebook.com/U56ParisIDF/photos/a.1952115035087947/2081885725444210/?type=3&theater)](assets/48d8dfbbb572/1*X4aySwEvm31zUPIEataLWA.jpeg)
+![“Skills necessary? None, just know how to take the subway, the tram or the bus\. Small bonus: have a driver’s license to drive the vehicle of the association\. Double bonus: have your own car\!” Photo by [Utopia 56 Paris](https://www.facebook.com/U56ParisIDF/photos/a.1952115035087947/2081885725444210/?type=3&theater)](../assets/48d8dfbbb572/1*X4aySwEvm31zUPIEataLWA.jpeg)
 
 “Skills necessary? None, just know how to take the subway, the tram or the bus\. Small bonus: have a driver’s license to drive the vehicle of the association\. Double bonus: have your own car\!” Photo by [Utopia 56 Paris](https://www.facebook.com/U56ParisIDF/photos/a.1952115035087947/2081885725444210/?type=3&theater)
 
@@ -123,11 +123,11 @@ Please check out their pharmacy order [here](https://www.facebook.com/vestiairem
 
 
 
-![](assets/48d8dfbbb572/1*Pbl2zjK_5qxPuMtmitUhPw.jpeg)
+![](../assets/48d8dfbbb572/1*Pbl2zjK_5qxPuMtmitUhPw.jpeg)
 
 
 
-![“the hunt of the \#police from Paris to prevent tent relocations have dispersed everyone\. And Force people to seek refuge in places more and more improbable, remote, invisible… and dangerous\!” Photos by [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__tn__=kC-R&eid=ARBin6WBDaNJu-HVlOVYPs-wNrx8cuEnV2719F7fopWp0hP3r9R-ecwONUuIB0kdbMTulOR0vaEP7uMJ&hc_ref=ARRvOLnugk_tKTmqNIYw2LSDD0bbw4VeCLKtoCODxNUk7Mrisu2IvTZZWPm9m5XdKNo&fref=nf&__xts__%5B0%5D=68.ARAfWVf8AFAtFmqAUgtDwIuP9jYCFW-DHrz-1WvkasJaTa00Vdw5cfN9RPOxMqTsYQibPxiBUbP4cKygoHjSfi95jwNGu5KO03HYthYwp1hsX6_GVoSfV0EHIkgZzAbViScAx0H_zbcTCz8lFESo_4canRzkSZ1lPjpnSMKilZw6o-Eak8_mYfF3Ws2RpDgoBPg0wuh4-jmBIwjt_QODGAys_93srNsKQlr0MlsBIqkPLyPJR53hy9VXoXLgVy7DETxQun4Rj8H0lGNYuhv6pylixvIkK9b_mjOJxmIp9iOxxPvVQQy94tevHIYFqrksl74grQ65xVo3bnHMy8vTpIsoVw)](assets/48d8dfbbb572/1*PKjsV38rRQNN8YJC3TJbRQ.jpeg)
+![“the hunt of the \#police from Paris to prevent tent relocations have dispersed everyone\. And Force people to seek refuge in places more and more improbable, remote, invisible… and dangerous\!” Photos by [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__tn__=kC-R&eid=ARBin6WBDaNJu-HVlOVYPs-wNrx8cuEnV2719F7fopWp0hP3r9R-ecwONUuIB0kdbMTulOR0vaEP7uMJ&hc_ref=ARRvOLnugk_tKTmqNIYw2LSDD0bbw4VeCLKtoCODxNUk7Mrisu2IvTZZWPm9m5XdKNo&fref=nf&__xts__%5B0%5D=68.ARAfWVf8AFAtFmqAUgtDwIuP9jYCFW-DHrz-1WvkasJaTa00Vdw5cfN9RPOxMqTsYQibPxiBUbP4cKygoHjSfi95jwNGu5KO03HYthYwp1hsX6_GVoSfV0EHIkgZzAbViScAx0H_zbcTCz8lFESo_4canRzkSZ1lPjpnSMKilZw6o-Eak8_mYfF3Ws2RpDgoBPg0wuh4-jmBIwjt_QODGAys_93srNsKQlr0MlsBIqkPLyPJR53hy9VXoXLgVy7DETxQun4Rj8H0lGNYuhv6pylixvIkK9b_mjOJxmIp9iOxxPvVQQy94tevHIYFqrksl74grQ65xVo3bnHMy8vTpIsoVw)](../assets/48d8dfbbb572/1*PKjsV38rRQNN8YJC3TJbRQ.jpeg)
 
 “the hunt of the \#police from Paris to prevent tent relocations have dispersed everyone\. And Force people to seek refuge in places more and more improbable, remote, invisible… and dangerous\!” Photos by [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__tn__=kC-R&eid=ARBin6WBDaNJu-HVlOVYPs-wNrx8cuEnV2719F7fopWp0hP3r9R-ecwONUuIB0kdbMTulOR0vaEP7uMJ&hc_ref=ARRvOLnugk_tKTmqNIYw2LSDD0bbw4VeCLKtoCODxNUk7Mrisu2IvTZZWPm9m5XdKNo&fref=nf&__xts__%5B0%5D=68.ARAfWVf8AFAtFmqAUgtDwIuP9jYCFW-DHrz-1WvkasJaTa00Vdw5cfN9RPOxMqTsYQibPxiBUbP4cKygoHjSfi95jwNGu5KO03HYthYwp1hsX6_GVoSfV0EHIkgZzAbViScAx0H_zbcTCz8lFESo_4canRzkSZ1lPjpnSMKilZw6o-Eak8_mYfF3Ws2RpDgoBPg0wuh4-jmBIwjt_QODGAys_93srNsKQlr0MlsBIqkPLyPJR53hy9VXoXLgVy7DETxQun4Rj8H0lGNYuhv6pylixvIkK9b_mjOJxmIp9iOxxPvVQQy94tevHIYFqrksl74grQ65xVo3bnHMy8vTpIsoVw)
 ### EU

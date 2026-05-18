@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 6–7/11/21: Activists and local church step in so that people would not die in…
+title: "AYS Weekend Digest 6–7/11/21: Activists and local church step in so that people would not die in…"
 author: Are You Syrious?
 date: 2021-11-08T21:07:41.137+0000
 last_modified_at: 2021-11-08T21:07:41.137+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,humanitarian,italy,france]
 description: Report from the French-Italian border // What is happening with UNHCR in Libya // Safe corridors provided consistently by the Italian…
 image:
-  path: assets/9355581fd919/0*wAyOw1Rhadol9SrA
+  path: ../assets/9355581fd919/0*wAyOw1Rhadol9SrA
 ---
 
 ### AYS Weekend Digest 6–7/11/21: Activists and local church step in so that people would not die in the Alps
 #### Report from the French\-Italian border // What is happening with UNHCR in Libya // Safe corridors provided consistently by the Italian community work better than any EU programme so far // UK border forces refuse pushbacks // & some good reads and recommended podcasts
 
 
-![](assets/9355581fd919/0*wAyOw1Rhadol9SrA)
+![](../assets/9355581fd919/0*wAyOw1Rhadol9SrA)
 
 
 Photo: [Paris d’Exil](https://twitter.com/paris_dexil)
@@ -26,11 +26,11 @@ A group of volunteers spent Sunday morning trying to stop the eviction in Calais
 As soon as the CRS arrived, and without even talking to them, the forces started pushing the people away and pepper\-sprayed them\.
 
 
-![](assets/9355581fd919/0*iKeV94xGa45ayS2h)
+![](../assets/9355581fd919/0*iKeV94xGa45ayS2h)
 
 
 
-![](assets/9355581fd919/0*AoySRNTAgfzThJ0p)
+![](../assets/9355581fd919/0*AoySRNTAgfzThJ0p)
 
 
 Documented and here published with the permission of [Abdul Saboor](https://www.facebook.com/profile.php?id=100007864985647&__tn__=-UC*F)

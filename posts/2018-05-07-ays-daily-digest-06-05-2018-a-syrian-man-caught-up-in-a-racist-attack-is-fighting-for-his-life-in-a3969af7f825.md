@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 06/05/2018: A Syrian man caught up in a racist attack is fighting for his life in…
+title: "AYS Daily Digest 06/05/2018: A Syrian man caught up in a racist attack is fighting for his life in…"
 author: Are You Syrious?
 date: 2018-05-07T11:07:43.410+0100
 last_modified_at: 2018-05-07T13:46:23.486+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,racism,greece,human-rights]
 description: A Syrian refugee is in a critical condition after being stabbed six times in Scotland//Five search and rescue volunteers accused of ‘Human…
 image:
-  path: assets/a3969af7f825/1*c5I-KAAs1uG6cIH8I37_bw.png
+  path: ../assets/a3969af7f825/1*c5I-KAAs1uG6cIH8I37_bw.png
 ---
 
 ### AYS Daily Digest 06/05/2018: A Syrian man caught up in a racist attack is fighting for his life in Edinburgh
@@ -15,7 +15,7 @@ image:
 A Syrian refugee is in a critical condition after being stabbed six times in Scotland//Five search and rescue volunteers accused of ‘Human Trafficking’ go on trial today// 350 people arrive to Greek Island in one day\!// More news from Greece// Libyan Coast Guard intercepts another rescue operation// Rescues at Sea// Hungarian Prime Minister states no EU funding should be designated for ‘migrants’// More info from Romania// Austria// France
 
 
-![Source: The Welcome Tent](assets/a3969af7f825/1*c5I-KAAs1uG6cIH8I37_bw.png)
+![Source: The Welcome Tent](../assets/a3969af7f825/1*c5I-KAAs1uG6cIH8I37_bw.png)
 
 Source: The Welcome Tent
 #### Feature: A Syrian refugee is in a critical condition after being stabbed six times in Scotland
@@ -56,7 +56,7 @@ The organisers of the appeal are calling on the police to find the attackers and
 The Aquarius was ordered to move away from a rubber boat in distress off the coast of Tripoli despite repeated calls to assist\. The boat was intercepted by the Libyan coast guard\.
 
 
-![](assets/a3969af7f825/1*vvnq-5IIiQD9COvVkV5FRA.jpeg)
+![](../assets/a3969af7f825/1*vvnq-5IIiQD9COvVkV5FRA.jpeg)
 
 
 
@@ -81,11 +81,11 @@ Proactiva Open Arms announces that after months of tension with the Libyan coast
 
 
 
-![](assets/a3969af7f825/1*NyFBj1OvBuLjDpCVYa99Pg.jpeg)
+![](../assets/a3969af7f825/1*NyFBj1OvBuLjDpCVYa99Pg.jpeg)
 
 
 
-![](assets/a3969af7f825/1*UIBpgI5RPwMHtamYdYMAfw.jpeg)
+![](../assets/a3969af7f825/1*UIBpgI5RPwMHtamYdYMAfw.jpeg)
 
 #### GREECE:
 #### PROEM Trial:
@@ -170,11 +170,11 @@ Arrivals to Greek islands continue to be very high, with over 350 people arrivin
 Since May 1st, 831 people have arrived from Turkey to the Greek islands of the Eastern Aegean\. Reception centres on the islands remain critically overcrowded as travel restrictions continue between the Greek islands and the mainland\.
 
 
-![](assets/a3969af7f825/1*UtzdNvrr8thSSFU77Q5hHw.jpeg)
+![](../assets/a3969af7f825/1*UtzdNvrr8thSSFU77Q5hHw.jpeg)
 
 
 
-![Source: Philippa Kempson](assets/a3969af7f825/1*DD5GwcpgePlRGt4dBD8X9Q.jpeg)
+![Source: Philippa Kempson](../assets/a3969af7f825/1*DD5GwcpgePlRGt4dBD8X9Q.jpeg)
 
 Source: Philippa Kempson
 
@@ -226,23 +226,23 @@ Mosquito repellent and nets for babies
 #### Vial Hotspot in Chios After the Rain
 
 
-![](assets/a3969af7f825/1*Urb_-yftvBWSWk1H8b5Xfg.jpeg)
+![](../assets/a3969af7f825/1*Urb_-yftvBWSWk1H8b5Xfg.jpeg)
 
 
 
-![](assets/a3969af7f825/1*i54n-DSpzzsnDg_itGkCXw.jpeg)
+![](../assets/a3969af7f825/1*i54n-DSpzzsnDg_itGkCXw.jpeg)
 
 
 
-![](assets/a3969af7f825/1*Zw3WrxQw48Ok483Qlq2k0w.jpeg)
+![](../assets/a3969af7f825/1*Zw3WrxQw48Ok483Qlq2k0w.jpeg)
 
 
 
-![](assets/a3969af7f825/1*Dn65S5xGcb_oRo9jeNhFxg.jpeg)
+![](../assets/a3969af7f825/1*Dn65S5xGcb_oRo9jeNhFxg.jpeg)
 
 
 
-![Source: [Mary Wenker](https://www.facebook.com/mary.wenker?hc_ref=ARRwCkQm7hdNHjj7NWtUbRiSWM7YFYAjBQi7dYCcyXKZES7Bm96mIISB2TezxUKd538)](assets/a3969af7f825/1*LGL71P-69pm7A8GgU2WtkA.jpeg)
+![Source: [Mary Wenker](https://www.facebook.com/mary.wenker?hc_ref=ARRwCkQm7hdNHjj7NWtUbRiSWM7YFYAjBQi7dYCcyXKZES7Bm96mIISB2TezxUKd538)](../assets/a3969af7f825/1*LGL71P-69pm7A8GgU2WtkA.jpeg)
 
 Source: [Mary Wenker](https://www.facebook.com/mary.wenker?hc_ref=ARRwCkQm7hdNHjj7NWtUbRiSWM7YFYAjBQi7dYCcyXKZES7Bm96mIISB2TezxUKd538)
 #### DocMobile Volunteer warns medical support in Thessaloniki is still desperately needed as people continue to arrive:
@@ -285,19 +285,19 @@ Source: [Mary Wenker](https://www.facebook.com/mary.wenker?hc_ref=ARRwCkQm7hdNHj
 
 
 
-![](assets/a3969af7f825/1*p0lZ365Yz4fkSp5jAP1FUw.jpeg)
+![](../assets/a3969af7f825/1*p0lZ365Yz4fkSp5jAP1FUw.jpeg)
 
 
 
-![](assets/a3969af7f825/1*RktBLxPx0mCk2FBCokRPQA.jpeg)
+![](../assets/a3969af7f825/1*RktBLxPx0mCk2FBCokRPQA.jpeg)
 
 
 
-![](assets/a3969af7f825/1*EQuYD9IUE_wJSr2zXhOegQ.jpeg)
+![](../assets/a3969af7f825/1*EQuYD9IUE_wJSr2zXhOegQ.jpeg)
 
 
 
-![Source: DocMobile](assets/a3969af7f825/1*d8KDT_9ImXzWADrs0BUFew.jpeg)
+![Source: DocMobile](../assets/a3969af7f825/1*d8KDT_9ImXzWADrs0BUFew.jpeg)
 
 Source: DocMobile
 #### Lifting Hands International is looking for new coordinator:
@@ -316,15 +316,15 @@ Responsibilities include:
 Today, 140 meals were distributed by local volunteers and Red Cross in Bihać\. In Kladuša at just one distribution point almost 400 people came to eat\. Food is being prepared by the locals in a small restaurant and shared to everybody\.
 
 
-![](assets/a3969af7f825/1*__pcE1v80kUqnjtpwLk0Ug.jpeg)
+![](../assets/a3969af7f825/1*__pcE1v80kUqnjtpwLk0Ug.jpeg)
 
 
 
-![](assets/a3969af7f825/1*wXnrwLW64vXkXdhsknc50Q.jpeg)
+![](../assets/a3969af7f825/1*wXnrwLW64vXkXdhsknc50Q.jpeg)
 
 
 
-![photos by Red Cross Bihac and Adis Imamovic Pikxi](assets/a3969af7f825/1*HpEKPLDLOfU2C2s9iBi6eA.jpeg)
+![photos by Red Cross Bihac and Adis Imamovic Pikxi](../assets/a3969af7f825/1*HpEKPLDLOfU2C2s9iBi6eA.jpeg)
 
 photos by Red Cross Bihac and Adis Imamovic Pikxi
 #### THE EU:
@@ -362,19 +362,19 @@ The final version of the proposal which was revealed by the Commission on Wednes
 
 
 
-![](assets/a3969af7f825/1*epqM-AXvHVB22y1pM2aNOA.jpeg)
+![](../assets/a3969af7f825/1*epqM-AXvHVB22y1pM2aNOA.jpeg)
 
 
 
-![](assets/a3969af7f825/1*KwMWIqZ_dzkDbwTA-Bsrgw.jpeg)
+![](../assets/a3969af7f825/1*KwMWIqZ_dzkDbwTA-Bsrgw.jpeg)
 
 
 
-![](assets/a3969af7f825/1*rnEzjvSOx2D26DWa3Fqgsg.jpeg)
+![](../assets/a3969af7f825/1*rnEzjvSOx2D26DWa3Fqgsg.jpeg)
 
 
 
-![](assets/a3969af7f825/1*8EdajeDOsIt4mZHATbb00g.jpeg)
+![](../assets/a3969af7f825/1*8EdajeDOsIt4mZHATbb00g.jpeg)
 
 #### AUSTRIA:
 
@@ -405,11 +405,11 @@ There are unconfirmed reports that three people have been killed in Paris last n
 Many people in cities big and small opened up their homes to those who joined in\.
 
 
-![](assets/a3969af7f825/1*Eyea9ZXzY-nZCKl71FZO4g.jpeg)
+![](../assets/a3969af7f825/1*Eyea9ZXzY-nZCKl71FZO4g.jpeg)
 
 
 
-![Source: L’Auberge des Migrants](assets/a3969af7f825/1*Obr6kJYA-q-rEzKB669E-A.jpeg)
+![Source: L’Auberge des Migrants](../assets/a3969af7f825/1*Obr6kJYA-q-rEzKB669E-A.jpeg)
 
 Source: L’Auberge des Migrants
 #### L’Auberge des Migrants are in need of volunteers:

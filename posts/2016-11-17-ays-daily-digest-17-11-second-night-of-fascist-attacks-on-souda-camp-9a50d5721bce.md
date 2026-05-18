@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 17/11: Second night of fascist attacks on Souda camp
+title: "AYS DAILY DIGEST 17/11: Second night of fascist attacks on Souda camp"
 author: Are You Syrious?
 date: 2016-11-17T23:38:22.574+0000
 last_modified_at: 2016-11-18T07:59:25.904+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,golden-dawn,chios-attacks,borders]
 description: At least 2 injured in fascist attack on Souda camp // More than 40 persons killed in Aleppo // So far this year, 170,586 persons have…
 image:
-  path: assets/9a50d5721bce/1*6P1dad2qnOoU9qVaflv4Ng.jpeg
+  path: ../assets/9a50d5721bce/1*6P1dad2qnOoU9qVaflv4Ng.jpeg
 ---
 
 ### AYS DAILY DIGEST 17/11: Second night of fascist attacks on Souda camp
@@ -15,7 +15,7 @@ image:
 _At least 2 injured in fascist attack on Souda camp // More than 40 persons killed in Aleppo // So far this year, 170,586 persons have arrived by sea to Greece and 164,694 to Italy // Only 27 persons were saved today from a boat carrying 130 // An estimated 151 persons camp in the open at the two border sites near the Hungarian transit zones // Europe to introduce a European Travel Information and Authorization System_
 
 
-![This is a refugee tent burned in fascist attack on Souda camp, Chios, Europe\. Photo by **Almwuostafaa Alkhtyipe\.**](assets/9a50d5721bce/1*6P1dad2qnOoU9qVaflv4Ng.jpeg)
+![This is a refugee tent burned in fascist attack on Souda camp, Chios, Europe\. Photo by **Almwuostafaa Alkhtyipe\.**](../assets/9a50d5721bce/1*6P1dad2qnOoU9qVaflv4Ng.jpeg)
 
 This is a refugee tent burned in fascist attack on Souda camp, Chios, Europe\. Photo by **Almwuostafaa Alkhtyipe\.**
 ### Terror in Souda camp
@@ -50,11 +50,11 @@ A couple of nights before the attacks, Ilias Kasidiaris from neo\-nazi party Gol
 During the day, volunteers and refugees were cleaning the rocks and burnt tents after the cruel attack from the night before\. Attackers used big rocks and threw fire bombs on tents\. \(for more read our [Digest from November 16](https://medium.com/@AreYouSyrious/ays-digest-16-11-support-needed-in-refugee-camps-as-temperatures-drop-d3299efbd2a0#.eq2u9sbik) \)
 
 
-![](assets/9a50d5721bce/1*03qJq3Dfw5FQi0_iDm09ww.jpeg)
+![](../assets/9a50d5721bce/1*03qJq3Dfw5FQi0_iDm09ww.jpeg)
 
 
 
-![Photo by [**Almwuostafaa Alkhtyipe**](https://www.facebook.com/profile.php?id=100010483995512)](assets/9a50d5721bce/1*JRA1pWX7GE4OknxnJoazQg.jpeg)
+![Photo by [**Almwuostafaa Alkhtyipe**](https://www.facebook.com/profile.php?id=100010483995512)](../assets/9a50d5721bce/1*JRA1pWX7GE4OknxnJoazQg.jpeg)
 
 Photo by [**Almwuostafaa Alkhtyipe**](https://www.facebook.com/profile.php?id=100010483995512)
 
@@ -90,7 +90,7 @@ In the past five days, there have been 13 attacks on medical facilities across n
 ### 340 people drowned during the last week
 
 
-![Photo MSF Sea](assets/9a50d5721bce/1*V4SmOUOd9bLP6yOZpcX6pQ.jpeg)
+![Photo MSF Sea](../assets/9a50d5721bce/1*V4SmOUOd9bLP6yOZpcX6pQ.jpeg)
 
 Photo MSF Sea
 

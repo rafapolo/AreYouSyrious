@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,afghanistan,eu]
 description: Protests in Major European Cities Contrast With Official Inaction//People Stuck in No Man’s Land at Belarus Border as Authorities On Both…
 image:
-  path: assets/a98677cc1de3/0*4FTwd3XFcaU5PqDW
+  path: ../assets/a98677cc1de3/0*4FTwd3XFcaU5PqDW
 ---
 
 ### AYS Daily Digest 18/08/2021 — Protests in Europe in favor of resettling Afghan people
 #### Protests in major European cities contrast with official inaction//People stuck in no man’s land at Belarus border as authorities on both sides get violent//No more deportations of minors from Ceuta
 
 
-![Photo from a demonstration in front of the Swiss parliament\. Credit: Mustafa Naderi via [Refocus Media Labs](https://www.facebook.com/refocusmedialabs/posts/3369714956592043)](assets/a98677cc1de3/0*4FTwd3XFcaU5PqDW)
+![Photo from a demonstration in front of the Swiss parliament\. Credit: Mustafa Naderi via [Refocus Media Labs](https://www.facebook.com/refocusmedialabs/posts/3369714956592043)](../assets/a98677cc1de3/0*4FTwd3XFcaU5PqDW)
 
 Photo from a demonstration in front of the Swiss parliament\. Credit: Mustafa Naderi via [Refocus Media Labs](https://www.facebook.com/refocusmedialabs/posts/3369714956592043)
 #### FEATURE

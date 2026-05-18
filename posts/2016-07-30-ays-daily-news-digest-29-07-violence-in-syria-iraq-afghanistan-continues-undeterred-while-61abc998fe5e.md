@@ -7,7 +7,7 @@ categories:
 tags: []
 description: As long as war and violence continues, people will continue to flee to Europe. News in Syria, Iraq, Afghanistan show us what people are…
 image:
-  path: assets/61abc998fe5e/0*7txRKtWOcVRGHjSk.
+  path: ../assets/61abc998fe5e/0*7txRKtWOcVRGHjSk.
 ---
 
 ### AYS DAILY NEWS DIGEST 29/07 — Violence in Syria, Iraq, Afghanistan continues, while migrant deaths rise in 2016\.
@@ -15,7 +15,7 @@ image:
 _As long as war and violence continues, people will continue to flee to Europe\. News in Syria, Iraq, Afghanistan show us what people are fleeing from\. Meanwhile, 3,034 have died so far, trying to cross the Mediterranean to reach Europe\._
 
 
-![Operation Refugee Child sent backpacks filled with gifts to Northern Greece\. Photo by Kayra Martinez](assets/61abc998fe5e/0*7txRKtWOcVRGHjSk.)
+![Operation Refugee Child sent backpacks filled with gifts to Northern Greece\. Photo by Kayra Martinez](../assets/61abc998fe5e/0*7txRKtWOcVRGHjSk.)
 
 Operation Refugee Child sent backpacks filled with gifts to Northern Greece\. Photo by Kayra Martinez
 ### 251,557 migrants entered Europe by sea in 2016, over 3,000 die
@@ -74,7 +74,7 @@ Provisions have been made that the people transferred from Piraeus to Oinofyta a
 We hope that the Skype calls will indeed function better than in Idomeni\.
 
 
-![Idomeni\. Photo by AYS](assets/61abc998fe5e/1*8H9zlm-l7NLFgSI68QytVg.jpeg)
+![Idomeni\. Photo by AYS](../assets/61abc998fe5e/1*8H9zlm-l7NLFgSI68QytVg.jpeg)
 
 Idomeni\. Photo by AYS
 ### €11m awarded in emergency funding to Italy and Greece
@@ -92,7 +92,7 @@ As the number of arrivals seems to pick up again, United Rescue Aid is asking fo
 Even sharing the flyer with refugees who are already in Europe could prove useful, as they remain in contact with people who might risk the journey in the future\.
 
 
-![é](assets/61abc998fe5e/0*RVSFGnZ-eCzdupDP.jpg)
+![é](../assets/61abc998fe5e/0*RVSFGnZ-eCzdupDP.jpg)
 
 é
 ### _Weather report_
@@ -107,7 +107,7 @@ The Disaster Tech Lab, who install wifi in refugee camps, have faced difficulty 
 Volunteers are still needed in Kelebija as the situation remains extremely difficult\. The camp is meant for 300 people but there are currently 1,300 people there\. IMO, one of the only NGOs there, says 20 people arrive daily, but only 15 per day are allowed to enter Hungary’s transit zone\. Human Rights Watch has reported extensively on the situation at the Hungarian\-Serbian border, describing “cruel, violent pushbacks”, as well as the “ lack of sanitary facilities and even basic shelter for those stuck outside the transit zones”\. IMO says they were able to install internet for more than 100 devices and electricity to charge up to 50 mobile phones \- 2 shelters and learning centres are currently being build\. They plan to start a similar operation in Horgos, the area outside the other transit zone at the border\. The organization needs urgent help from other NGOS, focused on legal assistance in particular\. Donations are welcomed as well\. You can contact them through their [Facebook page](https://www.facebook.com/imhumanIHO/) \.
 
 
-![The “I’m Human Organization” trailer in Kelebija\. Photo by IMO](assets/61abc998fe5e/0*l7jL5mIExM8U9zfp.jpg)
+![The “I’m Human Organization” trailer in Kelebija\. Photo by IMO](../assets/61abc998fe5e/0*l7jL5mIExM8U9zfp.jpg)
 
 The “I’m Human Organization” trailer in Kelebija\. Photo by IMO
 

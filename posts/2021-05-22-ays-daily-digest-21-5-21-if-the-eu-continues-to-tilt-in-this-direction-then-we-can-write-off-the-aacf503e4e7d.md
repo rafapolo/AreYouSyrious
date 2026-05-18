@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 21/5/21: “If the EU continues to tilt in this direction, then we can write off the…
+title: "AYS Daily Digest 21/5/21: “If the EU continues to tilt in this direction, then we can write off the…"
 author: Are You Syrious?
 date: 2021-05-22T11:30:24.995+0100
 last_modified_at: 2021-05-22T14:39:35.442+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,greece,refugees,migration,europe]
 description: Greek Migration Minister Mitarakis says pushbacks are necessary / Acquisitions are overturning the very first acquittal verdict in the…
 image:
-  path: assets/aacf503e4e7d/0*_GcvgpC27uzIG-VD
+  path: ../assets/aacf503e4e7d/0*_GcvgpC27uzIG-VD
 ---
 
 ### AYS Daily Digest 21/5/21: “If the EU continues to tilt in this direction, then we can write off the 1951 Refugee Convention for good\.”
 #### Greek Migration Minister Mitarakis says pushbacks are necessary / Acquisitions are overturning the very first acquittal verdict in the Easter Monday pushback case of the Maltese officials / The uncertain situation for unaccompanied minors in Ceuta / Calls for participation, support and indignation — take part\! / Recommended reads and more
 
 
-![The title is a quote from Sea\-Eye chairman Gorden Isler\. Featured photo — On board the Sea\-Eye 4 look at Italy’s shores \(All copyrights reserved — [Photo: _Guillaume Duez/Sea\-Eye_](https://thecivilfleet.wordpress.com/2021/05/21/rescued-refugees-reach-dry-land-after-authorities-send-them-on-a-two-day-detour/?fbclid=IwAR0KBMki-RvcqishG1sGcOcx5x0HJNtLvpBzQsQHirC0e06SRbeqRISoy40) _\)_](assets/aacf503e4e7d/0*_GcvgpC27uzIG-VD)
+![The title is a quote from Sea\-Eye chairman Gorden Isler\. Featured photo — On board the Sea\-Eye 4 look at Italy’s shores \(All copyrights reserved — [Photo: _Guillaume Duez/Sea\-Eye_](https://thecivilfleet.wordpress.com/2021/05/21/rescued-refugees-reach-dry-land-after-authorities-send-them-on-a-two-day-detour/?fbclid=IwAR0KBMki-RvcqishG1sGcOcx5x0HJNtLvpBzQsQHirC0e06SRbeqRISoy40) _\)_](../assets/aacf503e4e7d/0*_GcvgpC27uzIG-VD)
 
 The title is a quote from Sea\-Eye chairman Gorden Isler\. Featured photo — On board the Sea\-Eye 4 look at Italy’s shores \(All copyrights reserved — [Photo: _Guillaume Duez/Sea\-Eye_](https://thecivilfleet.wordpress.com/2021/05/21/rescued-refugees-reach-dry-land-after-authorities-send-them-on-a-two-day-detour/?fbclid=IwAR0KBMki-RvcqishG1sGcOcx5x0HJNtLvpBzQsQHirC0e06SRbeqRISoy40) _\)_
 #### FEATURED
@@ -28,7 +28,7 @@ At the time of reporting this, the Alarm Phone team [reported](https://l.faceboo
 ### Granted international protection — where are the people now?
 
 
-![3,914 people, including 768 unaccompanied children, who have been granted refugee or subsidiary protection status have been relocated from Greece to other European countries since April 2020\.](assets/aacf503e4e7d/0*XsPCA0W-00EWTuIj)
+![3,914 people, including 768 unaccompanied children, who have been granted refugee or subsidiary protection status have been relocated from Greece to other European countries since April 2020\.](../assets/aacf503e4e7d/0*XsPCA0W-00EWTuIj)
 
 3,914 people, including 768 unaccompanied children, who have been granted refugee or subsidiary protection status have been relocated from Greece to other European countries since April 2020\.
 
@@ -46,7 +46,7 @@ At the time of reporting this, the Alarm Phone team [reported](https://l.faceboo
 ECHO Refugee Library is back in the field\. This week at Korinthos Camp, a number of people were happy to see them back and to make young and older readers more alive and hopeful in the midst of a tough situation\. _“I am glad you are here\. You have been missed\. We have not had anything to read for months\!”_
 
 
-![](assets/aacf503e4e7d/0*mBE9N9CN-HCj4M9K)
+![](../assets/aacf503e4e7d/0*mBE9N9CN-HCj4M9K)
 
 #### MALTA
 ### The turn of the tide in the ‘Easter Monday massacre’ case
@@ -111,11 +111,11 @@ Many people see swimming to the Spanish enclave as their quickest and most likel
 No Name Kitchen is putting together masks and food items for individuals in Ceuta without basic access\. Along with Elin Association, Maakum Ceuta, APDHA, and Solidarity Wheels, they have released a statement condemning developments in Ceuta:
 
 
-![](assets/aacf503e4e7d/0*WtUuIOgQXlna-Al1)
+![](../assets/aacf503e4e7d/0*WtUuIOgQXlna-Al1)
 
 
 
-![](assets/aacf503e4e7d/0*E4xLfC0hXtK64DZz)
+![](../assets/aacf503e4e7d/0*E4xLfC0hXtK64DZz)
 
 
 [Follow and support](http://Bit.ly/SOSCEUTA) the ground teams there\.
@@ -155,7 +155,7 @@ The event is taking place **this Wednesday, online** — [link here](https://www
 You can support Khora Asylum Support Team at [https://khorafundraising\.org/](https://khorafundraising.org/?fbclid=IwAR3ItAnS3Z5VSi8typGtpxpR9mC8MshZbh3GW8_g6t_ecFSzm5kzvT9HWGE)
 
 
-![](assets/aacf503e4e7d/0*EZvZXXjx5RNFpkc_)
+![](../assets/aacf503e4e7d/0*EZvZXXjx5RNFpkc_)
 
 #### May 29 at 12 pmUTC\+02 — May 31 at11 pm UTC\+02
 
@@ -204,7 +204,7 @@ In Copenhagen, Denmark, over 50 members of the Syrian Association in Denmark \(S
 
 
 
-![](assets/aacf503e4e7d/0*GgY3aQA85J9ZAyiQ)
+![](../assets/aacf503e4e7d/0*GgY3aQA85J9ZAyiQ)
 
 #### GENERAL
 

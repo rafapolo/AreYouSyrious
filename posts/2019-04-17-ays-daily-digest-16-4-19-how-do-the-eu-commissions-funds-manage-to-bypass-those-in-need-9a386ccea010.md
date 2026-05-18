@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 16/4/19: How do the EU Commission’s funds manage to bypass those in need?
+title: "AYS Daily Digest 16/4/19: How do the EU Commission’s funds manage to bypass those in need?"
 author: Are You Syrious?
 date: 2019-04-17T11:55:24.296+0100
 last_modified_at: 2019-04-18T13:26:06.528+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,bosnia,italy]
 description: Protest held in Athens / surge of arrivals through Serbia / Italy in the midst of legal cases regarding detention and treatment of people…
 image:
-  path: assets/9a386ccea010/1*wAjJ0b8Jm-WLELkU3D4rzw.jpeg
+  path: ../assets/9a386ccea010/1*wAjJ0b8Jm-WLELkU3D4rzw.jpeg
 ---
 
 ### AYS Daily Digest 16/4/19: How do the EU Commission’s funds manage to bypass those in need? — case: Tuzla
 #### Protest held in Athens / surge of arrivals through Serbia / Italy in the midst of legal cases regarding detention and treatment of people arriving to the south / Bone tests disregarded as age evidence / volunteering opportunities
 
 
-![Photo from the prottest in Athens by: [Marios Lolos](https://www.facebook.com/marios.lolos.1?__tn__=%2Cd%2AF%2AF-R&eid=ARD7HqZh4La353Qa_5hTn4ifGzec54pd5vrRMezZ1KnENevAQndXmUlrbqoir4FvJl66uhSmWG5cDf9N&tn-str=%2AF&hc_location=group_dialog)](assets/9a386ccea010/1*wAjJ0b8Jm-WLELkU3D4rzw.jpeg)
+![Photo from the prottest in Athens by: [Marios Lolos](https://www.facebook.com/marios.lolos.1?__tn__=%2Cd%2AF%2AF-R&eid=ARD7HqZh4La353Qa_5hTn4ifGzec54pd5vrRMezZ1KnENevAQndXmUlrbqoir4FvJl66uhSmWG5cDf9N&tn-str=%2AF&hc_location=group_dialog)](../assets/9a386ccea010/1*wAjJ0b8Jm-WLELkU3D4rzw.jpeg)
 
 Photo from the prottest in Athens by: [Marios Lolos](https://www.facebook.com/marios.lolos.1?__tn__=%2Cd%2AF%2AF-R&eid=ARD7HqZh4La353Qa_5hTn4ifGzec54pd5vrRMezZ1KnENevAQndXmUlrbqoir4FvJl66uhSmWG5cDf9N&tn-str=%2AF&hc_location=group_dialog)
 #### FEATURE
@@ -22,7 +22,7 @@ Photo from the prottest in Athens by: [Marios Lolos](https://www.facebook.com/ma
 In Bosnia and Herzegovina, for a while now people have been arriving from the east part of the country, coming from Serbia to Tuzla\. It has once again become a point of transit for many and, although it has been so for some months now, the problem is ignored by the only authorities who could make possible to assist the people who gather usually around the bus station or in front of the field office of the Service for Foreigners’ Affairs \(SFA\) \. It is responsible for the first step in the process of seeking asylum\. In order to obtain the document from the office, people sleep rough on the pavement, sometime just in front of the lit and heated empty front space of the office that, of course, does not work on weekends and is [open](https://help.unhcr.org/bosniaandherzegovina/where-to-seek-help/the-service-for-foreigners-affairs/) on workdays from 9am to 5pm\.
 
 
-![Photo: AYS](assets/9a386ccea010/1*uGQJUZzpwVKzHdt_KN16Lw.jpeg)
+![Photo: AYS](../assets/9a386ccea010/1*uGQJUZzpwVKzHdt_KN16Lw.jpeg)
 
 Photo: AYS
 
@@ -31,15 +31,15 @@ A very well organized small group of volunteers from Tuzla have been handling th
 Citizens who have been organizing small groups of helpers in the past months have run out of strenghts, options, finances and ways to point to the problem\. They have already asked for an organised reception system, toilets to be made available 24/7, water supply, shower, food, clothes and health assistance, and if possible, an organized 24hour accommodation, as the people usually don’t stay there for logner\.
 
 
-![](assets/9a386ccea010/1*SW1iofDsdtBhIfU-pMi7GQ.jpeg)
+![](../assets/9a386ccea010/1*SW1iofDsdtBhIfU-pMi7GQ.jpeg)
 
 
 
-![](assets/9a386ccea010/1*-rxvak4DsuhUfyEo6HfvpQ.jpeg)
+![](../assets/9a386ccea010/1*-rxvak4DsuhUfyEo6HfvpQ.jpeg)
 
 
 
-![Photos: AYS](assets/9a386ccea010/1*CYzuOLF2dS6lIhdmtkj9Yw.jpeg)
+![Photos: AYS](../assets/9a386ccea010/1*CYzuOLF2dS6lIhdmtkj9Yw.jpeg)
 
 Photos: AYS
 
@@ -49,7 +49,7 @@ Perhaps some explanations are due on the implementation and control of Asylum, M
 #### GREECE
 
 
-![[Refugee Rescue / ‘Mo Chara’](https://www.facebook.com/RefugeeRescueUK/?__xts__%5B0%5D=68.ARD82eKA2IQjj0JWcplSVj-vNNXkNDjWUYFwvPqSbVG2mvh_AzfOCp6UWeYpSdKLbVA9Xiedr52593skJKvbn7qi0vnmFzfB09nn66zDLEyn41xG-BhP7cmZU9Cp0R6ex0TBQfLsvaow3BSS4gGaJT_WQgd8C0Lhb49wc23xPx9ML7Pjm3X6UnopgpmY38VPteFsVrFUzA9IyjwRg-8ydN6bkBaVo7eN47zNT94xv4vL2ieMBhiQsK-26FgBLFeW6PyLUkIhO1jvj_fYUXF-YNYcx4ofHsq1P-M_EwX_AgjVLrAenjtDVQoSMFrj87H3q4GxwwdtRilxVyY3yb0DUgHCflQD&__tn__=k%2AF&tn-str=k%2AF)](assets/9a386ccea010/1*xJHzSj2BEDyhxTKYdV1nwg.png)
+![[Refugee Rescue / ‘Mo Chara’](https://www.facebook.com/RefugeeRescueUK/?__xts__%5B0%5D=68.ARD82eKA2IQjj0JWcplSVj-vNNXkNDjWUYFwvPqSbVG2mvh_AzfOCp6UWeYpSdKLbVA9Xiedr52593skJKvbn7qi0vnmFzfB09nn66zDLEyn41xG-BhP7cmZU9Cp0R6ex0TBQfLsvaow3BSS4gGaJT_WQgd8C0Lhb49wc23xPx9ML7Pjm3X6UnopgpmY38VPteFsVrFUzA9IyjwRg-8ydN6bkBaVo7eN47zNT94xv4vL2ieMBhiQsK-26FgBLFeW6PyLUkIhO1jvj_fYUXF-YNYcx4ofHsq1P-M_EwX_AgjVLrAenjtDVQoSMFrj87H3q4GxwwdtRilxVyY3yb0DUgHCflQD&__tn__=k%2AF&tn-str=k%2AF)](../assets/9a386ccea010/1*xJHzSj2BEDyhxTKYdV1nwg.png)
 
 [Refugee Rescue / ‘Mo Chara’](https://www.facebook.com/RefugeeRescueUK/?__xts__%5B0%5D=68.ARD82eKA2IQjj0JWcplSVj-vNNXkNDjWUYFwvPqSbVG2mvh_AzfOCp6UWeYpSdKLbVA9Xiedr52593skJKvbn7qi0vnmFzfB09nn66zDLEyn41xG-BhP7cmZU9Cp0R6ex0TBQfLsvaow3BSS4gGaJT_WQgd8C0Lhb49wc23xPx9ML7Pjm3X6UnopgpmY38VPteFsVrFUzA9IyjwRg-8ydN6bkBaVo7eN47zNT94xv4vL2ieMBhiQsK-26FgBLFeW6PyLUkIhO1jvj_fYUXF-YNYcx4ofHsq1P-M_EwX_AgjVLrAenjtDVQoSMFrj87H3q4GxwwdtRilxVyY3yb0DUgHCflQD&__tn__=k%2AF&tn-str=k%2AF)
 

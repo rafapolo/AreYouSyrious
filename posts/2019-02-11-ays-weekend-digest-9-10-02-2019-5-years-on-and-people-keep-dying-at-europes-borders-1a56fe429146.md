@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,ceuta,mediterranean,european-union]
 description: Protests in various Italian cities /// Racist attacks against refugee camp in Northern Lebanon /// Young girls attacked in Berlin ///Row…
 image:
-  path: assets/1a56fe429146/1*iDe6riXtSxTRZA_WPWwjXQ.jpeg
+  path: ../assets/1a56fe429146/1*iDe6riXtSxTRZA_WPWwjXQ.jpeg
 ---
 
 ### AYS Weekend Digest 9–10/02/19: 5 years on and people keep dying at Europe’s borders
@@ -15,13 +15,13 @@ image:
 Protests in various Italian cities /// Racist attacks against refugee camp in Northern Lebanon /// Young girls attacked in Berlin /// Row among authorities regarding social housing for migrants in Italy /// People keep sleeping in summer tents in Greece /// Unsanitary conditions in Swiss reception centre /// Attempt to cover up real conditions of Libyan centre exposed
 
 
-![[Sea Eye Vessel](https://www.facebook.com/seaeyeorg/photos/a.730635527042347/1771049893000900/?type=3&theater) renamed “Alan Kurdi”](assets/1a56fe429146/1*iDe6riXtSxTRZA_WPWwjXQ.jpeg)
+![[Sea Eye Vessel](https://www.facebook.com/seaeyeorg/photos/a.730635527042347/1771049893000900/?type=3&theater) renamed “Alan Kurdi”](../assets/1a56fe429146/1*iDe6riXtSxTRZA_WPWwjXQ.jpeg)
 
 [Sea Eye Vessel](https://www.facebook.com/seaeyeorg/photos/a.730635527042347/1771049893000900/?type=3&theater) renamed “Alan Kurdi”
 #### 5 years on and people keep dying at Europe’s borders
 
 
-![Tarajal, Ceuta \(Photo by [Watch the Med — Alarm Phone](https://www.facebook.com/watchthemed.alarmphone/photos/pcb.2310729352534628/2310718329202397/?type=3&theater) \)](assets/1a56fe429146/1*aHlQU01Vu-Nql-lxkjDYEw.jpeg)
+![Tarajal, Ceuta \(Photo by [Watch the Med — Alarm Phone](https://www.facebook.com/watchthemed.alarmphone/photos/pcb.2310729352534628/2310718329202397/?type=3&theater) \)](../assets/1a56fe429146/1*aHlQU01Vu-Nql-lxkjDYEw.jpeg)
 
 Tarajal, Ceuta \(Photo by [Watch the Med — Alarm Phone](https://www.facebook.com/watchthemed.alarmphone/photos/pcb.2310729352534628/2310718329202397/?type=3&theater) \)
 
@@ -30,7 +30,7 @@ Protests have been held at Tarajal, in Ceuta, Spain on 9th February in memory on
 They were met with rubber bullets and tear gas by the Spanish Guarda Civil, who continued to fire at people in the sea, while they tried to cross into Spanish territory by swimming around the fence\. Though 14 people were officially reported dead, many more were never accounted for — Roger, Yves, Samba, Larios, Daouda, Luc, Youssouf, Armand, Ousmane, Keita, Jeannot, Oumarou, Blasie and many others are still missing\.
 
 
-![Tarajal, Ceuta \(Photo by [Watch the Med — Alarm Phone](https://www.facebook.com/watchthemed.alarmphone/photos/pcb.2310729352534628/2310718329202397/?type=3&theater) \)](assets/1a56fe429146/1*VUlRUUYABsHelGyMByJWBw.jpeg)
+![Tarajal, Ceuta \(Photo by [Watch the Med — Alarm Phone](https://www.facebook.com/watchthemed.alarmphone/photos/pcb.2310729352534628/2310718329202397/?type=3&theater) \)](../assets/1a56fe429146/1*VUlRUUYABsHelGyMByJWBw.jpeg)
 
 Tarajal, Ceuta \(Photo by [Watch the Med — Alarm Phone](https://www.facebook.com/watchthemed.alarmphone/photos/pcb.2310729352534628/2310718329202397/?type=3&theater) \)
 
@@ -45,7 +45,7 @@ After 5 years we still report deaths at the hands of Europe’s border policies\
 After the death of the young Togolese person we reported on Friday, a [protest was held over the weekend](http://alpesdusud.alpes1.com/news/hautes-alpes/75437/hautes-alpes-deces-du-jeune-migrant-une-manifestation-prevue-ce-samedi-a-briancon?fbclid=IwAR1kCQLAOME_WCAbC5JV4hAzieitS1XyjOHPgQUpPifkl8fV3kvT52M79eg) in Briançon in the Hautes\-Alpes region of France in his memory\.
 
 
-![La Frontière Tue \(Photo by [Chez JesOulx — Rifugio Autogestito](https://www.facebook.com/Chez-JesOulx-Rifugio-Autogestito-362786637540072/) \)](assets/1a56fe429146/1*26kX_DOSKPs1oAUpB7H6oA.jpeg)
+![La Frontière Tue \(Photo by [Chez JesOulx — Rifugio Autogestito](https://www.facebook.com/Chez-JesOulx-Rifugio-Autogestito-362786637540072/) \)](../assets/1a56fe429146/1*26kX_DOSKPs1oAUpB7H6oA.jpeg)
 
 La Frontière Tue \(Photo by [Chez JesOulx — Rifugio Autogestito](https://www.facebook.com/Chez-JesOulx-Rifugio-Autogestito-362786637540072/) \)
 
@@ -161,7 +161,7 @@ GREECE
 Many other boats have also been stopped in the last week according to ABR\.
 
 
-![](assets/1a56fe429146/1*Yn3-CCFoW6Dm7AzaU34osQ.jpeg)
+![](../assets/1a56fe429146/1*Yn3-CCFoW6Dm7AzaU34osQ.jpeg)
 
 
 On Sunday several [arrivals were also reported](https://www.facebook.com/AegeanBoatReport/posts/522697838253325?hc_location=ufi) \.
@@ -178,15 +178,15 @@ GREEK ISLANDS
 People are still housed in tents at Vial Camp on Chios\.
 
 
-![](assets/1a56fe429146/1*_5rvg1YutdM3zQKP4dmZ6g.png)
+![](../assets/1a56fe429146/1*_5rvg1YutdM3zQKP4dmZ6g.png)
 
 
 
-![](assets/1a56fe429146/1*sE-G4vpeeeMUTAA9TYbWdQ.jpeg)
+![](../assets/1a56fe429146/1*sE-G4vpeeeMUTAA9TYbWdQ.jpeg)
 
 
 
-![Vial, Chios \(Photos by [Chios People’s warehouse](https://www.facebook.com/chiospeopleswarehouse/photos/pcb.546688135828926/546687702495636/?type=3&theater) \)](assets/1a56fe429146/1*Uf3usXfeewI9jBwZbv_LIg.png)
+![Vial, Chios \(Photos by [Chios People’s warehouse](https://www.facebook.com/chiospeopleswarehouse/photos/pcb.546688135828926/546687702495636/?type=3&theater) \)](../assets/1a56fe429146/1*Uf3usXfeewI9jBwZbv_LIg.png)
 
 Vial, Chios \(Photos by [Chios People’s warehouse](https://www.facebook.com/chiospeopleswarehouse/photos/pcb.546688135828926/546687702495636/?type=3&theater) \)
 
@@ -195,11 +195,11 @@ The programme of [free travel from Vial has also been suspended](https://twitter
 And the situation has not improved on Samos at the Vathy camp either\.
 
 
-![](assets/1a56fe429146/1*Jk4igATKXtvjeSWlPOVQOQ.jpeg)
+![](../assets/1a56fe429146/1*Jk4igATKXtvjeSWlPOVQOQ.jpeg)
 
 
 
-![Vathy, Samos \(photos by [Donate4Refugees\.org\.uk](https://www.facebook.com/Donate4Refugees.org.uk/posts/2278373362452971?hc_location=ufi) \)](assets/1a56fe429146/1*xf3BDKx6qlzwUKLZQcD9JA.jpeg)
+![Vathy, Samos \(photos by [Donate4Refugees\.org\.uk](https://www.facebook.com/Donate4Refugees.org.uk/posts/2278373362452971?hc_location=ufi) \)](../assets/1a56fe429146/1*xf3BDKx6qlzwUKLZQcD9JA.jpeg)
 
 Vathy, Samos \(photos by [Donate4Refugees\.org\.uk](https://www.facebook.com/Donate4Refugees.org.uk/posts/2278373362452971?hc_location=ufi) \)
 
@@ -257,29 +257,29 @@ Demonstrations and meetings have been held in different cities over the weekend\
 In Catania, people in their hundreds marched to the port where SeaWatch3 is blocked by Italian authorities, to express solidarity with the crew\.
 
 
-![](assets/1a56fe429146/1*jech5aGpOcp4i5yvkZ_zqw.jpeg)
+![](../assets/1a56fe429146/1*jech5aGpOcp4i5yvkZ_zqw.jpeg)
 
 
 
-![\#OpenPorts / No more shipwrecks, European asylum right \(photo by [Globalproject\.info](https://www.facebook.com/globalproject.info/photos/pcb.2204136009625024/2204132722958686/?type=3&theater) \)](assets/1a56fe429146/1*eLH76a4UnKFpj0st3kGnwA.jpeg)
+![\#OpenPorts / No more shipwrecks, European asylum right \(photo by [Globalproject\.info](https://www.facebook.com/globalproject.info/photos/pcb.2204136009625024/2204132722958686/?type=3&theater) \)](../assets/1a56fe429146/1*eLH76a4UnKFpj0st3kGnwA.jpeg)
 
 \#OpenPorts / No more shipwrecks, European asylum right \(photo by [Globalproject\.info](https://www.facebook.com/globalproject.info/photos/pcb.2204136009625024/2204132722958686/?type=3&theater) \)
 
 In Ancona, anti\-racists protested against Italian policies such as closing ports to rescue ships and limiting the rights of asylum seekers and undocumented people\.
 
 
-![photo by [Globalproject\.info](https://www.facebook.com/globalproject.info/photos/pcb.2204136009625024/2204132722958686/?type=3&theater)](assets/1a56fe429146/1*hJlpsUn0kkkDhFJ9zoGJUQ.jpeg)
+![photo by [Globalproject\.info](https://www.facebook.com/globalproject.info/photos/pcb.2204136009625024/2204132722958686/?type=3&theater)](../assets/1a56fe429146/1*hJlpsUn0kkkDhFJ9zoGJUQ.jpeg)
 
 photo by [Globalproject\.info](https://www.facebook.com/globalproject.info/photos/pcb.2204136009625024/2204132722958686/?type=3&theater)
 
 In Venice, 6,000 people took to the streets for the “side by side” march\.
 
 
-![](assets/1a56fe429146/1*02txVfkNaK3J7BIGM61tEg.jpeg)
+![](../assets/1a56fe429146/1*02txVfkNaK3J7BIGM61tEg.jpeg)
 
 
 
-![Side by Side march in Venice \(photo by [Melting Pot Europa](https://www.facebook.com/meltingpoteuropa/photos/pcb.2287167031315011/2287164794648568/?type=3&theater) \)](assets/1a56fe429146/1*RlLTrRFBjh4CWoDRqBZF-Q.jpeg)
+![Side by Side march in Venice \(photo by [Melting Pot Europa](https://www.facebook.com/meltingpoteuropa/photos/pcb.2287167031315011/2287164794648568/?type=3&theater) \)](../assets/1a56fe429146/1*RlLTrRFBjh4CWoDRqBZF-Q.jpeg)
 
 Side by Side march in Venice \(photo by [Melting Pot Europa](https://www.facebook.com/meltingpoteuropa/photos/pcb.2287167031315011/2287164794648568/?type=3&theater) \)
 
@@ -305,7 +305,7 @@ SPAIN
 #### Update on Asylum Applicant numbers and statistics for 2018\.
 
 
-![](assets/1a56fe429146/1*CJpbrTHa-wGjeXOH1FWp4w.png)
+![](../assets/1a56fe429146/1*CJpbrTHa-wGjeXOH1FWp4w.png)
 
 
 See the full statistics [HERE](https://data2.unhcr.org/en/documents/download/67907) \.
@@ -327,7 +327,7 @@ BOSNIA AND HERZEGOVINA
 [Efforts continue](https://www.facebook.com/profile.php?id=100009318317491&sk=photos&collection_token=100009318317491%3A2305272732%3A69&set=a.2275500136103908&type=3) by the Red Cross Municipality of Kljuc to provide food, warm clothes, blankets and firewood to migrants stuck in Velečevo, as cold weather and harsh conditions continue\.
 
 
-![Velika Kladusa \(Photo by [Crveni Križ Općine Ključ](https://www.facebook.com/profile.php?id=100009318317491&__tn__=%2Cd%2AF%2AF-R&eid=ARCkYUk3IfRxvWm_zrGSrcgVw6Krp9nP-4wvs-Z7756AGOCkMfHpEtGGCZkeRJRp9fey0Cg4S7D5Yg2W&tn-str=%2AF) \)](assets/1a56fe429146/1*TELlo6smyokjPzoihOg7bQ.jpeg)
+![Velika Kladusa \(Photo by [Crveni Križ Općine Ključ](https://www.facebook.com/profile.php?id=100009318317491&__tn__=%2Cd%2AF%2AF-R&eid=ARCkYUk3IfRxvWm_zrGSrcgVw6Krp9nP-4wvs-Z7756AGOCkMfHpEtGGCZkeRJRp9fey0Cg4S7D5Yg2W&tn-str=%2AF) \)](../assets/1a56fe429146/1*TELlo6smyokjPzoihOg7bQ.jpeg)
 
 Velika Kladusa \(Photo by [Crveni Križ Općine Ključ](https://www.facebook.com/profile.php?id=100009318317491&__tn__=%2Cd%2AF%2AF-R&eid=ARCkYUk3IfRxvWm_zrGSrcgVw6Krp9nP-4wvs-Z7756AGOCkMfHpEtGGCZkeRJRp9fey0Cg4S7D5Yg2W&tn-str=%2AF) \)
 

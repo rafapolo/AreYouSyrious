@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 07.11.19- Italy: How do evictions solve a refugee housing crisis?
+title: "AYS Daily Digest 07.11.19- Italy: How do evictions solve a refugee housing crisis?"
 author: Are You Syrious?
 date: 2019-07-12T05:12:02.672+0100
 last_modified_at: 2019-07-12T13:38:11.765+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,italy,digest,eviction,housing-crisis]
 description: Evictions in Italy // Over 300 new arrivals in Greece // Solidarity housing initiative suspended // Medical needs in Dunkirk //…
 image:
-  path: assets/451d708da1d3/1*pQWkMgoftlyJZ4F6qTwqEA.jpeg
+  path: ../assets/451d708da1d3/1*pQWkMgoftlyJZ4F6qTwqEA.jpeg
 ---
 
 ### AYS Daily Digest 07/11/19: Italy — How do evictions solve a refugee housing crisis?
 #### _Evictions in Italy // Over 300 new arrivals in Greece // Solidarity housing initiative suspended // Medical needs in Dunkirk // Deportation and attack on protestors in Leipzig_
 
 
-![Residents of the settlement stand on roofs to save their houses\. Photo Credit: [Comitato Lavoratori delle Campagne](https://www.facebook.com/comitatolavoratoridellecampagne/)](assets/451d708da1d3/1*pQWkMgoftlyJZ4F6qTwqEA.jpeg)
+![Residents of the settlement stand on roofs to save their houses\. Photo Credit: [Comitato Lavoratori delle Campagne](https://www.facebook.com/comitatolavoratoridellecampagne/)](../assets/451d708da1d3/1*pQWkMgoftlyJZ4F6qTwqEA.jpeg)
 
 Residents of the settlement stand on roofs to save their houses\. Photo Credit: [Comitato Lavoratori delle Campagne](https://www.facebook.com/comitatolavoratoridellecampagne/)
 #### Feature: Evictions at Piazzale Spadolini and Borgo Mezanone
@@ -75,7 +75,7 @@ The Tajoura detention center where over 100 refugees were killed last week in a 
 A study undertaken by the Kadir Has university on the Turkish citizens’ attitudes towards Syrian refugees showed that the majority of citizens were “not satisfied” with their presence in the country\. The study was organized according to political party\. Interestingly, Erdogan’s AKP party has the second highest rate of respondents who said they were “satisfied” with the presence of Syrian refugees \(at a mere 10\.3%\), and the lowest number of respondents who said that they were unsatisfied\.
 
 
-![Source: Center for Turkish Studies, Kadir Has University, Istanbul, Turkey](assets/451d708da1d3/1*_3L0rW-0ReDQ77ebvOZyQQ.jpeg)
+![Source: Center for Turkish Studies, Kadir Has University, Istanbul, Turkey](../assets/451d708da1d3/1*_3L0rW-0ReDQ77ebvOZyQQ.jpeg)
 
 Source: Center for Turkish Studies, Kadir Has University, Istanbul, Turkey
 ### Greece
@@ -108,16 +108,16 @@ The eighth boat was carrying 30 people, and in the ninth boat there were 36 peop
 Photographs were released today from the “hotspot” \(read: detention camp\) on Samos\. The camp has become one of the most overcrowded refugee camps in Greece, with over 4,000 refugees crammed into a hillside space intended for 700\. The Samos camp has become increasingly hard to access for volunteer groups and NGOs, as local authorities have prohibited access to the camp further and further\.
 
 
-![Trash piles up in the Samos camp, where trash collection is inadequate and infrequent\. The rubbish attracts rats to the camp, which in turn bring snakes\. Photo Credit: AYS](assets/451d708da1d3/1*grFBjR9oFvFv_zDpLqqqJA.jpeg)
+![Trash piles up in the Samos camp, where trash collection is inadequate and infrequent\. The rubbish attracts rats to the camp, which in turn bring snakes\. Photo Credit: AYS](../assets/451d708da1d3/1*grFBjR9oFvFv_zDpLqqqJA.jpeg)
 
 Trash piles up in the Samos camp, where trash collection is inadequate and infrequent\. The rubbish attracts rats to the camp, which in turn bring snakes\. Photo Credit: AYS
 
 
-![](assets/451d708da1d3/1*uifvFCruvdVv_BD2B1dCzQ.jpeg)
+![](../assets/451d708da1d3/1*uifvFCruvdVv_BD2B1dCzQ.jpeg)
 
 
 
-![Makeshift tent structures are the only accomodation for most residents in the camp\. Photo Credit: AYS\.](assets/451d708da1d3/1*uE55GebA5ECrUpa6Cs8Rvg.jpeg)
+![Makeshift tent structures are the only accomodation for most residents in the camp\. Photo Credit: AYS\.](../assets/451d708da1d3/1*uE55GebA5ECrUpa6Cs8Rvg.jpeg)
 
 Makeshift tent structures are the only accomodation for most residents in the camp\. Photo Credit: AYS\.
 
@@ -171,7 +171,7 @@ The solidarity accommodation program, which provided temporary shelter for refug
 According to the group’s statement, this decision was not made alone, but in discussions with refugees and beneficiaries of the accommodation program\. A group of refugees have set up a protest camp at the Aubervilliers rail station, and do not intend to leave until there is a real proposal made by the city government\.
 
 
-![The cap at porte d’Aubervilliers\. Photo Credit: [Utopia 56 Paris et Ile\-de\-France](https://www.facebook.com/U56ParisIDF/)](assets/451d708da1d3/1*N6eYyQdxAMzvJylyb6Xyyg.jpeg)
+![The cap at porte d’Aubervilliers\. Photo Credit: [Utopia 56 Paris et Ile\-de\-France](https://www.facebook.com/U56ParisIDF/)](../assets/451d708da1d3/1*N6eYyQdxAMzvJylyb6Xyyg.jpeg)
 
 The cap at porte d’Aubervilliers\. Photo Credit: [Utopia 56 Paris et Ile\-de\-France](https://www.facebook.com/U56ParisIDF/)
 #### Continued Lack of Medical Care for Refugees in Dunkirk
@@ -185,7 +185,7 @@ Volunteers working in Dunkirk described rising cases of chicken pox this week, w
 
 
 
-![](assets/451d708da1d3/1*OYG8tq8FgamfqI1zb2zv9A.jpeg)
+![](../assets/451d708da1d3/1*OYG8tq8FgamfqI1zb2zv9A.jpeg)
 
 
 

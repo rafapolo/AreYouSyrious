@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 07/06/2018: Italy closes its case against Proactiva Open Arms
+title: "AYS DAILY DIGEST 07/06/2018: Italy closes its case against Proactiva Open Arms"
 author: Are You Syrious?
 date: 2018-06-08T10:01:03.599+0100
 last_modified_at: 2018-06-08T13:58:44.423+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest]
 description: Greek authorities routinely confine asylum-seeking women with unrelated men//140 forced evictions took place in Calais over the last seven…
 image:
-  path: assets/bf099fff554b/0*jRGHylLAWXMPc0Km
+  path: ../assets/bf099fff554b/0*jRGHylLAWXMPc0Km
 ---
 
 ### AYS DAILY DIGEST 07/06/2018: Italy closes its case against Proactiva Open Arms
@@ -15,7 +15,7 @@ image:
 _Greek authorities routinely confine asylum\-seeking women with unrelated men//140 forced evictions took place in Calais over the last seven months//Turkey suspends migrant readmission deal with Greece_
 
 
-![Photo by Proactiva Open Arms](assets/bf099fff554b/0*jRGHylLAWXMPc0Km)
+![Photo by Proactiva Open Arms](../assets/bf099fff554b/0*jRGHylLAWXMPc0Km)
 
 Photo by Proactiva Open Arms
 #### Feature
@@ -27,7 +27,7 @@ This comes as [Reuters](https://www.reuters.com/article/us-libya-migrants-un/u-n
 Seawatch meanwhile says it has been navigating with 232 people on board for more than 80 hours\. It has still not been told in which Italian port it will be allowed to dock\. Many people are suffering from sea sickness\.
 
 
-![Photo by Erik Marquardt](assets/bf099fff554b/0*qOsODRBGD1o8W992)
+![Photo by Erik Marquardt](../assets/bf099fff554b/0*qOsODRBGD1o8W992)
 
 Photo by Erik Marquardt
 
@@ -55,7 +55,7 @@ Drop in the Ocean has been approached by IOM who wants them to start doing child
 ### 140 forced evictions in Calais over the last seven months
 
 
-![Photo by L’Auberge des Migrants](assets/bf099fff554b/0*8Pr-UgNAfTu7l2GO)
+![Photo by L’Auberge des Migrants](../assets/bf099fff554b/0*8Pr-UgNAfTu7l2GO)
 
 Photo by L’Auberge des Migrants
 

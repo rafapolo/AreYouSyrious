@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 22–23/2/2020: Fascists patrol the streets of Belgrade
+title: "AYS Weekend Digest 22–23/2/2020: Fascists patrol the streets of Belgrade"
 author: Are You Syrious?
 date: 2020-02-24T11:48:01.181+0000
 last_modified_at: 2020-02-24T11:48:01.181+0000
@@ -7,18 +7,18 @@ categories: Are You Syrious?
 tags: []
 description: Far-right activity in Serbia / Anti-fascist protests across Greece / Finnish governments plans to accept 175 refugees / Update from the…
 image:
-  path: assets/182db3c92f35/0*VebmAgCPkZt63FnL.jpeg
+  path: ../assets/182db3c92f35/0*VebmAgCPkZt63FnL.jpeg
 ---
 
 ### AYS Weekend Digest 22–23/2/2020: Fascists patrol the streets of Belgrade
 #### Far\-right activity in Serbia / Anti\-fascist protests across Greece / Finnish governments plans to accept 175 refugees / Update from the Latitude Adjustment Podcast\.
 
 
-![](assets/182db3c92f35/0*qtsKL4XrJveB1ZEn)
+![](../assets/182db3c92f35/0*qtsKL4XrJveB1ZEn)
 
 
 
-![](assets/182db3c92f35/0*VebmAgCPkZt63FnL.jpeg)
+![](../assets/182db3c92f35/0*VebmAgCPkZt63FnL.jpeg)
 
 
 Credit: Marios Lolos
@@ -49,19 +49,19 @@ The UNHCR is concerned that hundreds of unaccompanied children in Greece –alre
  — [@rspaegean](http://twitter.com/rspaegean)
 
 
-![](assets/182db3c92f35/0*1ai8_vX2ovLaCiWT)
+![](../assets/182db3c92f35/0*1ai8_vX2ovLaCiWT)
 
 
 
-![](assets/182db3c92f35/0*24jxgyqr9B7npZH7.jpeg)
+![](../assets/182db3c92f35/0*24jxgyqr9B7npZH7.jpeg)
 
 
 
-![](assets/182db3c92f35/0*1mLl27EACseUmF6b)
+![](../assets/182db3c92f35/0*1mLl27EACseUmF6b)
 
 
 
-![](assets/182db3c92f35/0*JFdwGmCqxIjq9qhD.jpeg)
+![](../assets/182db3c92f35/0*JFdwGmCqxIjq9qhD.jpeg)
 
 
 Broken and unsanitary bathroom facilities at Amygdaleza\. Credit: [The Crisis Isn’t Over](943d9fd29334?source=post_page-----32df1335f497----------------------)

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 26/12/19: Pushback on Rescuing Children in Germany
+title: "AYS Daily Digest 26/12/19: Pushback on Rescuing Children in Germany"
 author: Are You Syrious?
 date: 2019-12-27T11:04:54.130+0000
 last_modified_at: 2019-12-27T11:04:54.130+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,refugeeswelcome,germany,human-rights]
 description: German government officials state decrease in asylum applications but continue to say deportation support inadequate // Tragic drowning in…
 image:
-  path: assets/37ef2b0772f5/1*gVBe1Op6a9DwPxw7rZw9yA.jpeg
+  path: ../assets/37ef2b0772f5/1*gVBe1Op6a9DwPxw7rZw9yA.jpeg
 ---
 
 ### AYS Daily Digest 26/12/19: Pushback on Rescuing Children in Germany
@@ -15,7 +15,7 @@ image:
 _German government officials state decrease in asylum applications but continue to say deportation support inadequate // Tragic drowning in Turkish Lake as boat capsizes // Two lives lost to misery and hopelessness in Greece // Sea rescue continues…_
 
 
-![The “Gift” of Human Rights\. photo by [Notara26](https://www.facebook.com/permalink.php?story_fbid=1601197050020235&id=645186555621294&hc_location=ufi)](assets/37ef2b0772f5/1*gVBe1Op6a9DwPxw7rZw9yA.jpeg)
+![The “Gift” of Human Rights\. photo by [Notara26](https://www.facebook.com/permalink.php?story_fbid=1601197050020235&id=645186555621294&hc_location=ufi)](../assets/37ef2b0772f5/1*gVBe1Op6a9DwPxw7rZw9yA.jpeg)
 
 The “Gift” of Human Rights\. photo by [Notara26](https://www.facebook.com/permalink.php?story_fbid=1601197050020235&id=645186555621294&hc_location=ufi)
 ### Germany’s New Slogan “Refugee Children \(Un\)Welcome”

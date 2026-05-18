@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: From the heart to those who walk the path of hope and pain
+title: "AYS SPECIAL: From the heart to those who walk the path of hope and pain"
 author: Are You Syrious?
 date: 2018-11-22T13:12:53.639+0000
 last_modified_at: 2018-11-22T13:45:43.120+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [syria,refugees,special,berlin,balkan-route]
 description: من القلب إلى من يسير على درب الأمل والألم
 image:
-  path: assets/25ebcac7ff41/1*7O2P4BmLYerA4FW7icY4zQ.jpeg
+  path: ../assets/25ebcac7ff41/1*7O2P4BmLYerA4FW7icY4zQ.jpeg
 ---
 
 ### AYS SPECIAL: From the heart to those who walk the path of hope and pain
@@ -23,7 +23,7 @@ Ali Ahmad, is Syrian who left his home in Al\-Salamiyah in December 2015\. His j
 علي أحمد، سوري غادر سوريا في كانون الأول ٢٠١٥، ولد في مدينة السلمية، طريقه مر عبر تركيا، اليونان \(ثمانية أشهر\) حيث كان في إيدوميني ومن ثم مخيم سوفتكس بالقرب مدينة سالونيك، وثم لاحقا كان على طريق البلقان\. حيث عبر دول مقدونيا ثم صربيا وهنغاريا والنمسا وأخيرا وصل إلى برلين، حيث يعيش الآن\.
 
 
-![Balkan route 2018, Ključ, Bosnia and Herzegovina](assets/25ebcac7ff41/1*7O2P4BmLYerA4FW7icY4zQ.jpeg)
+![Balkan route 2018, Ključ, Bosnia and Herzegovina](../assets/25ebcac7ff41/1*7O2P4BmLYerA4FW7icY4zQ.jpeg)
 
 Balkan route 2018, Ključ, Bosnia and Herzegovina
 

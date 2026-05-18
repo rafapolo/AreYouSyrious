@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 06/03/19: Ten key failures of the EU
+title: "AYS Daily Digest 06/03/19: Ten key failures of the EU"
 author: Are You Syrious?
 date: 2019-03-07T12:51:47.255+0000
 last_modified_at: 2019-03-07T17:17:57.675+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,bosnia,migration,europe,digest]
 description: What others call failure, for the EU it is achievement // Only 1.4 percent of Syrian refugees are enrolled in secondary schools in Lebanon…
 image:
-  path: assets/584dd8d9074a/1*kkFxZutiYyYd3punnfpiuA.jpeg
+  path: ../assets/584dd8d9074a/1*kkFxZutiYyYd3punnfpiuA.jpeg
 ---
 
 ### AYS Daily Digest 6/03/19: Ten key failures of the EU
@@ -15,7 +15,7 @@ image:
 _What others call failure, is achievement for the EU // Only 1\.4 percent of Syrian refugees are enrolled in secondary schools in Lebanon // First border crossing opened between Turkey and Syria // Eviction in San Bernardino camp // Daily evictions in Calais // Bosnian police illegally restrict freedom of movement of potential asylum seekers_
 
 
-![The place where the law does not exist, illigal check point in Kljuc, made by the local police, with the aim to prevent people on the move from traveling to the north of the country and fiurther on toward the EU\. Photo by Clowns Withouth Borders, USA\.](assets/584dd8d9074a/1*kkFxZutiYyYd3punnfpiuA.jpeg)
+![The place where the law does not exist, illigal check point in Kljuc, made by the local police, with the aim to prevent people on the move from traveling to the north of the country and fiurther on toward the EU\. Photo by Clowns Withouth Borders, USA\.](../assets/584dd8d9074a/1*kkFxZutiYyYd3punnfpiuA.jpeg)
 
 The place where the law does not exist, illigal check point in Kljuc, made by the local police, with the aim to prevent people on the move from traveling to the north of the country and fiurther on toward the EU\. Photo by Clowns Withouth Borders, USA\.
 ### Feature: Ten Key failures
@@ -72,7 +72,7 @@ The public prosecutor in Greece [began](https://www.cbc.ca/news/world/greek-pros
 The Refugee Support Europe group has been kicked out of the Katsikas camp after 14 months by the local government\. “Unbelievably, the Greek authorities have no plans to replace any of the services that we are delivering on Katsikas camp,” RSE states in their FB post\.
 
 
-![Camp Katsikas, by RSE](assets/584dd8d9074a/1*iIfJFofZlR5gH0FCuo8mlg.jpeg)
+![Camp Katsikas, by RSE](../assets/584dd8d9074a/1*iIfJFofZlR5gH0FCuo8mlg.jpeg)
 
 Camp Katsikas, by RSE
 
@@ -91,7 +91,7 @@ Safe Passage and Praxis released a report addressing the inadequacies of family 
 On 13 March, at noon there will be a [protest](https://www.facebook.com/events/2311211112539210/) at Syntagma Square in Athens against the racist policies of the Greek government\.
 
 
-![](assets/584dd8d9074a/1*doENeuJ5n871iKa8uoc-Fw.jpeg)
+![](../assets/584dd8d9074a/1*doENeuJ5n871iKa8uoc-Fw.jpeg)
 
 
 One of the Khora volunteers is running a half marathon in Athens in just over a week to help raise money for their new kitchen and cafe space\! [Please donate to support](https://www.gofundme.com/phillysdinnerdash4khorakitchen?fbclid=IwAR0jAFHCJW3RFLDUSWuN_nvZG4tnPOj26umvD-M9QzEAeCoc_-W3yeCziRs) , if you can\!
@@ -117,7 +117,7 @@ Partly sunny windy and even warmer\. Locally more clouds with a chance of rain\.
 “Every bus and car on its way from Sarajevo to Bihać is searched, and any migrants are removed by the police and left here with no resources,” writes Dustin J Allen, adding that the only help is provided by the local Red Cross\.
 
 
-![Only basic assistance is provided in Kljuc\. The fact that the police is breaking the law and limiting the freedom of the movement, is not being addressed in Bosnia or by the international organizations involved in providing help\. Photo by Dustin J\. Allen\.](assets/584dd8d9074a/1*iHcZbTd4KjJY3MgfbYhE8w.jpeg)
+![Only basic assistance is provided in Kljuc\. The fact that the police is breaking the law and limiting the freedom of the movement, is not being addressed in Bosnia or by the international organizations involved in providing help\. Photo by Dustin J\. Allen\.](../assets/584dd8d9074a/1*iHcZbTd4KjJY3MgfbYhE8w.jpeg)
 
 Only basic assistance is provided in Kljuc\. The fact that the police is breaking the law and limiting the freedom of the movement, is not being addressed in Bosnia or by the international organizations involved in providing help\. Photo by Dustin J\. Allen\.
 
@@ -127,7 +127,7 @@ In Velika Kladuša, a city on the border, around 1000 people are still staying i
 Human Rights observers of the Refugee Info Bus [speak](https://www.facebook.com/RefugeeInfoBus/posts/2349354945299920) about evictions happening every two days at each place where they are living in Calais\.
 
 
-![By Refugee Info Bus](assets/584dd8d9074a/1*JO-rXXvdrOtUPIVAfCFN8w.jpeg)
+![By Refugee Info Bus](../assets/584dd8d9074a/1*JO-rXXvdrOtUPIVAfCFN8w.jpeg)
 
 By Refugee Info Bus
 

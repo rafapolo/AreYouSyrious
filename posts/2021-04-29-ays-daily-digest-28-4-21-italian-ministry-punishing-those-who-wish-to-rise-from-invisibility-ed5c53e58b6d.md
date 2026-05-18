@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 28/4/21: Italian Ministry punishing those who wish to rise from invisibility
+title: "AYS Daily Digest 28/4/21: Italian Ministry punishing those who wish to rise from invisibility"
 author: Are You Syrious?
 date: 2021-04-29T18:22:33.681+0100
 last_modified_at: 2021-04-29T18:58:27.506+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,greece,europe,refugees,migration]
 description: Detailed report on how Danish officials misread the data leading them to the fatal error of announcing returns to “safe Damascus” /…
 image:
-  path: assets/ed5c53e58b6d/0*pTPRoVbcBl8N4rCP.jpg
+  path: ../assets/ed5c53e58b6d/0*pTPRoVbcBl8N4rCP.jpg
 ---
 
 ### AYS Daily Digest 28/4/21: Italian Ministry punishing those who wish to rise from invisibility
 #### Detailed report on how Danish officials misread the data leading them to the fatal error of announcing returns to “safe Damascus” / Expulsions continue in France / Austria finding way to legalize the ongoing chain pushbacks / Recommended reads & more
 
 
-![“Never slaves” \(Photo: [Meltingpot\)](https://www.meltingpot.org/Illogico-e-illegittimo-impedire-la-regolarizzazione-a-chi.html?var_mode=calcul&fbclid=IwAR0u_P4P5Rbo1oRKtUi8M-TvRQNMhbCFAYXWbTVXB47aRCPadcz9QIcOCIs#.YIrWi5AzY2x)](assets/ed5c53e58b6d/0*pTPRoVbcBl8N4rCP.jpg)
+![“Never slaves” \(Photo: [Meltingpot\)](https://www.meltingpot.org/Illogico-e-illegittimo-impedire-la-regolarizzazione-a-chi.html?var_mode=calcul&fbclid=IwAR0u_P4P5Rbo1oRKtUi8M-TvRQNMhbCFAYXWbTVXB47aRCPadcz9QIcOCIs#.YIrWi5AzY2x)](../assets/ed5c53e58b6d/0*pTPRoVbcBl8N4rCP.jpg)
 
 “Never slaves” \(Photo: [Meltingpot\)](https://www.meltingpot.org/Illogico-e-illegittimo-impedire-la-regolarizzazione-a-chi.html?var_mode=calcul&fbclid=IwAR0u_P4P5Rbo1oRKtUi8M-TvRQNMhbCFAYXWbTVXB47aRCPadcz9QIcOCIs#.YIrWi5AzY2x)
 
@@ -118,7 +118,7 @@ A number of mostly Austrian organisations have expressed sharp criticism over th
 Another expulsion took place on Tuesday morning behind Conforama in Coquelles, reported [L’Auberge des Migrants](https://www.facebook.com/AubergeMigrants/?__cft__[0]=AZV0euMkgARe2niZ1qB7p4bSJ2DiVELNp_BHJSWQOo1yILrawP_LJvUhxh1YpBhHwL4dfBy7jqyilYfhBrdKaCcwPFzaaJv6Gdzf7r-vKxAXcs0ak74aYrcqmmZtm05BHGOcYto1mN0bmCrQPOO2QAUF&__tn__=-UC%2CP-R) \. The reasons remain unknown and questions are raised about respect for the rights of the people on the move\. About 100 people were reportedly forced to board buses heading to unknown destinations under the pretext of shelter, as Human Rights Observers teams witnessed\.
 
 
-![](assets/ed5c53e58b6d/0*OB_YpVD94T5Fs9P7)
+![](../assets/ed5c53e58b6d/0*OB_YpVD94T5Fs9P7)
 
 ### Dramatic increase in mortality in 2020 among people born abroad
 

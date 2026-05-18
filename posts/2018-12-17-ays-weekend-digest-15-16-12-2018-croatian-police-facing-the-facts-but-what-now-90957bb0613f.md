@@ -1,5 +1,5 @@
 ---
-title: AYS WEEKEND DIGEST 15–16/12/2018: Croatian Police “Facing the Facts”, but what now?
+title: "AYS WEEKEND DIGEST 15–16/12/2018: Croatian Police “Facing the Facts”, but what now?"
 author: Are You Syrious?
 date: 2018-12-17T11:50:39.562+0000
 last_modified_at: 2018-12-17T11:50:39.562+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,croatia,human-rights]
 description: Eye-opening video evidence has been published about collective expulsions from Croatia, but what does this mean in a world of “fake news”…
 image:
-  path: assets/90957bb0613f/1*H2WWtCziSTww1wQETnxRKA.jpeg
+  path: ../assets/90957bb0613f/1*H2WWtCziSTww1wQETnxRKA.jpeg
 ---
 
 ### AYS WEEKEND DIGEST 15–16/12/2018: Croatian Police “Facing the Facts”, but what now?
@@ -15,7 +15,7 @@ image:
 _Eye\-opening video evidence has been published about collective expulsions from Croatia, but what does this mean in a world of “fake news”? // Italy braces for new punishment against those with humanitarian protection // Belgian authorities force families to queue repeatedly, in a humiliating fashion // Actions in The Netherlands and Sweden\._
 
 
-![Photo Credit: Adil Izemrane, Olive Grove, Moria, Greece…is this hope?](assets/90957bb0613f/1*H2WWtCziSTww1wQETnxRKA.jpeg)
+![Photo Credit: Adil Izemrane, Olive Grove, Moria, Greece…is this hope?](../assets/90957bb0613f/1*H2WWtCziSTww1wQETnxRKA.jpeg)
 
 Photo Credit: Adil Izemrane, Olive Grove, Moria, Greece…is this hope?
 
@@ -54,7 +54,7 @@ Aegean Boat Report posted a weekly retrospective — 13 boats arrived to Greece,
 Below can be found a schedule of interpreters for hospitals in Greece\.
 
 
-![Courtesy of Greek Forum for Refugees](assets/90957bb0613f/1*6p5gkYHqS3AMT_cXncghEg.jpeg)
+![Courtesy of Greek Forum for Refugees](../assets/90957bb0613f/1*6p5gkYHqS3AMT_cXncghEg.jpeg)
 
 Courtesy of Greek Forum for Refugees
 ### BOSNIA

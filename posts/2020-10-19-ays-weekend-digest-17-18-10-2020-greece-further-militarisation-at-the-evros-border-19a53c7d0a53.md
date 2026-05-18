@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 17–18/10/2020 — Greece: Further militarisation at the Evros border
+title: "AYS Weekend Digest 17–18/10/2020 — Greece: Further militarisation at the Evros border"
 author: Are You Syrious?
 date: 2020-10-19T12:04:07.270+0100
 last_modified_at: 2020-10-19T15:39:52.537+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,evros,borders,modern-slavery]
 description: Six die in the Central Med while civil fleet is blocked / Sans papiers march in Paris / Medicins du Mond in Bordeaux / New report by BVMN
 image:
-  path: assets/19a53c7d0a53/1*DTqmMG_axdxK7kFQU0n8Fw.jpeg
+  path: ../assets/19a53c7d0a53/1*DTqmMG_axdxK7kFQU0n8Fw.jpeg
 ---
 
 ### AYS Weekend Digest 17–18/10/2020: **Further militarisation at the Evros border**
 #### 6 people die in the Central Med while the whole of the civil fleet is blocked / Sans papiers march in Paris / Medicines du Monde support people on the move and homeless in Bordeaux
 
 
-![‘Here we drown Algerians’ — 59 years ago, on the 17th of October 1961, the French police killed more than 200 Algerians in Paris\. “The 200 deaths occurred after a peaceful march by some 30,000 Algerians was attacked by a 20,000 strong force of French police, and scores of bodies were later found in the river Seine, after it is believed, the French police killed them, and dumped their bodies in the river\.” \(Read more about it [HERE](https://libcom.org/history/papon-killing-200-algerians-paris-during-1961) and [HERE](https://medium.com/@riadkaced/17-october-1961-the-algerian-civil-rights-movement-in-paris-1defeb023e58) \)](assets/19a53c7d0a53/1*DTqmMG_axdxK7kFQU0n8Fw.jpeg)
+![‘Here we drown Algerians’ — 59 years ago, on the 17th of October 1961, the French police killed more than 200 Algerians in Paris\. “The 200 deaths occurred after a peaceful march by some 30,000 Algerians was attacked by a 20,000 strong force of French police, and scores of bodies were later found in the river Seine, after it is believed, the French police killed them, and dumped their bodies in the river\.” \(Read more about it [HERE](https://libcom.org/history/papon-killing-200-algerians-paris-during-1961) and [HERE](https://medium.com/@riadkaced/17-october-1961-the-algerian-civil-rights-movement-in-paris-1defeb023e58) \)](../assets/19a53c7d0a53/1*DTqmMG_axdxK7kFQU0n8Fw.jpeg)
 
 ‘Here we drown Algerians’ — 59 years ago, on the 17th of October 1961, the French police killed more than 200 Algerians in Paris\. “The 200 deaths occurred after a peaceful march by some 30,000 Algerians was attacked by a 20,000 strong force of French police, and scores of bodies were later found in the river Seine, after it is believed, the French police killed them, and dumped their bodies in the river\.” \(Read more about it [HERE](https://libcom.org/history/papon-killing-200-algerians-paris-during-1961) and [HERE](https://medium.com/@riadkaced/17-october-1961-the-algerian-civil-rights-movement-in-paris-1defeb023e58) \)
 #### **Featured: Further militarisation at the Evros border**
@@ -22,11 +22,11 @@ image:
 Over the weekend, Greek PM Mitsotakis [visited](https://www.ekathimerini.com/258187/article/ekathimerini/news/new-evros-fence-to-be-completed-by-april-next-year-pm-says-during-on-site-inspection) the border region with Turkey by the Evros/Meriç river, to announce the installation of the new fence at the border\.
 
 
-![](assets/19a53c7d0a53/1*nZA7g4g0sHCqbuiYtDlIjA.jpeg)
+![](../assets/19a53c7d0a53/1*nZA7g4g0sHCqbuiYtDlIjA.jpeg)
 
 
 
-![Section of the new fence installed on the Evros border and presentation of the completed fence \(photos by [mr\.w0bb1t](https://twitter.com/_w0bb1t_) \)](assets/19a53c7d0a53/1*om3d4vuZCzvKgF0k7egN5Q.jpeg)
+![Section of the new fence installed on the Evros border and presentation of the completed fence \(photos by [mr\.w0bb1t](https://twitter.com/_w0bb1t_) \)](../assets/19a53c7d0a53/1*om3d4vuZCzvKgF0k7egN5Q.jpeg)
 
 Section of the new fence installed on the Evros border and presentation of the completed fence \(photos by [mr\.w0bb1t](https://twitter.com/_w0bb1t_) \)
 
@@ -76,15 +76,15 @@ Existing border surveillance technologies — drones and cameras — will be [up
 As Lena K\. notes, Evros has long been a [militarised area](https://twitter.com/lk2015r/status/1317414890404040704) , well beyond the fence\. The border is comprised by civilian and military assemblages used to control cross border movement\.
 
 
-![](assets/19a53c7d0a53/1*fX1qdIgrOxUy2nfgQjgBXw.png)
+![](../assets/19a53c7d0a53/1*fX1qdIgrOxUy2nfgQjgBXw.png)
 
 
 
-![](assets/19a53c7d0a53/1*Ljugy-6wN-Sz6Q9a38ReBQ.jpeg)
+![](../assets/19a53c7d0a53/1*Ljugy-6wN-Sz6Q9a38ReBQ.jpeg)
 
 
 
-![Left to Right: \(1\) Feres Border Guard station\. Surrounded by fields and farms, outside the town\. One of the main detention places in the area\. \(2\) The Poros ‘informal’ detention site revealed in March\. It’s near the location of the new fence\. Mostly forgotten now, at least until that CoE report is finally published\. Testimonies often point to more secret/informal detention sites in Evros\. \(3\) This is the ‘cage’ at the back of the Tychero Border Guard station\. Believed to be the outside space for detainees\. \(Photos and text by [Lena K\.](https://twitter.com/lk2015r/status/1317414890404040704) \)](assets/19a53c7d0a53/1*SbRNtIMIP2x1lgyEP7zHMw.png)
+![Left to Right: \(1\) Feres Border Guard station\. Surrounded by fields and farms, outside the town\. One of the main detention places in the area\. \(2\) The Poros ‘informal’ detention site revealed in March\. It’s near the location of the new fence\. Mostly forgotten now, at least until that CoE report is finally published\. Testimonies often point to more secret/informal detention sites in Evros\. \(3\) This is the ‘cage’ at the back of the Tychero Border Guard station\. Believed to be the outside space for detainees\. \(Photos and text by [Lena K\.](https://twitter.com/lk2015r/status/1317414890404040704) \)](../assets/19a53c7d0a53/1*SbRNtIMIP2x1lgyEP7zHMw.png)
 
 Left to Right: \(1\) Feres Border Guard station\. Surrounded by fields and farms, outside the town\. One of the main detention places in the area\. \(2\) The Poros ‘informal’ detention site revealed in March\. It’s near the location of the new fence\. Mostly forgotten now, at least until that CoE report is finally published\. Testimonies often point to more secret/informal detention sites in Evros\. \(3\) This is the ‘cage’ at the back of the Tychero Border Guard station\. Believed to be the outside space for detainees\. \(Photos and text by [Lena K\.](https://twitter.com/lk2015r/status/1317414890404040704) \)
 
@@ -96,7 +96,7 @@ SEA
 As we reported before, Sea\-Watch 4, Sea\-Watch 3, Ocean Viking, Mare Jonio, Aita Mari, Moonbird and Alan Kurdi are effectively [blocked](https://twitter.com/MSF_Sea/status/1316295131331469314) by EU & Italian authorities\.
 
 
-[![SEARCH AND RESCUE | Sea-Watch 4 trapped in port of Palermo](assets/19a53c7d0a53/cb85_hqdefault.jpg "SEARCH AND RESCUE | Sea-Watch 4 trapped in port of Palermo")](https://www.youtube.com/watch?v=pr-OOh6gTTk)
+[![SEARCH AND RESCUE | Sea-Watch 4 trapped in port of Palermo](../assets/19a53c7d0a53/cb85_hqdefault.jpg "SEARCH AND RESCUE | Sea-Watch 4 trapped in port of Palermo")](https://www.youtube.com/watch?v=pr-OOh6gTTk)
 
 
 While no humanitarian vessel was able to take to the sea, on Sunday, Alarm Phone was [contacted again](https://twitter.com/alarm_phone/status/1317591662160433153) by relatives of people on board a dinghy that had left from Algeria on the 9th of October and was still at sea more than a week later\. The boat left the coast of Annaba with 12 people on board\. Since Tuesday 13th, Alarm Phone has alerted EU authorities, but nothing has been done\. Finally, on Sunday night, when the dinghy was not far from Sicily, the Italian coast guard launched a rescue operation\. Only six people survived, while the other six died of thirst and hunger\.
@@ -223,7 +223,7 @@ BOSNIA AND HERZOGOVINA
 **Spike in violent pushbacks at Bosnia/Croatia border**
 
 
-![\(Photo Credit: [Mario and Katie, No Name Kitchen](https://twitter.com/NoNameKitchen1/status/1317766947891777536) \)](assets/19a53c7d0a53/1*NoNVsB315VyR-sdnCUabvQ.png)
+![\(Photo Credit: [Mario and Katie, No Name Kitchen](https://twitter.com/NoNameKitchen1/status/1317766947891777536) \)](../assets/19a53c7d0a53/1*NoNVsB315VyR-sdnCUabvQ.png)
 
 \(Photo Credit: [Mario and Katie, No Name Kitchen](https://twitter.com/NoNameKitchen1/status/1317766947891777536) \)
 
@@ -239,27 +239,27 @@ No Name Kitchen continue to report on pushbacks at the Croatian border:
 The Cetingrad area from the Croatian/EU side has seen the heaviest rise in violence\. The most recent documented testimony collected by No Name Kitchen dates from Oct 15th \( [there is also another from the 11th](https://www.borderviolence.eu/violence-reports/october-11-2020-0022-videkic-selo-croatia/?fbclid=IwAR00DJVLileWgISCp69qSzzNIKP9EsO_LrzR2zTH4f-TKvrys43A-IgiKJM) \) and is published by [Border violence Monitoring](https://www.borderviolence.eu/violence-reports/october-15-2020-0000-buhaca-croatia/?fbclid=IwAR0h5SMuhUfzLw3mgjY6eIReW6SmbPA4V6lGNDsLbk-BeIf4wwY2C8vwH6s) Network\.
 
 
-![](assets/19a53c7d0a53/1*pVK_fP4xnkRrD9hdtsfF4w.jpeg)
+![](../assets/19a53c7d0a53/1*pVK_fP4xnkRrD9hdtsfF4w.jpeg)
 
 
 
-![](assets/19a53c7d0a53/1*6SmzKRNGlfP12R1WOv7Cgg.jpeg)
+![](../assets/19a53c7d0a53/1*6SmzKRNGlfP12R1WOv7Cgg.jpeg)
 
 
 
-![](assets/19a53c7d0a53/1*YMDhIONGqzGQJICTfjL8Gw.jpeg)
+![](../assets/19a53c7d0a53/1*YMDhIONGqzGQJICTfjL8Gw.jpeg)
 
 
 
-![](assets/19a53c7d0a53/1*D1jEPK93zNmRiNcVTIUe6Q.jpeg)
+![](../assets/19a53c7d0a53/1*D1jEPK93zNmRiNcVTIUe6Q.jpeg)
 
 
 
-![](assets/19a53c7d0a53/1*xGT8RvRYPBwVMlON9aMpaw.jpeg)
+![](../assets/19a53c7d0a53/1*xGT8RvRYPBwVMlON9aMpaw.jpeg)
 
 
 
-![\(Photo Credit: [No Name Kitchen](https://www.borderviolence.eu/violence-reports/october-15-2020-0000-buhaca-croatia/?fbclid=IwAR0h5SMuhUfzLw3mgjY6eIReW6SmbPA4V6lGNDsLbk-BeIf4wwY2C8vwH6s) \)](assets/19a53c7d0a53/1*nubTkgM2uvqPNfMwakFPWA.jpeg)
+![\(Photo Credit: [No Name Kitchen](https://www.borderviolence.eu/violence-reports/october-15-2020-0000-buhaca-croatia/?fbclid=IwAR0h5SMuhUfzLw3mgjY6eIReW6SmbPA4V6lGNDsLbk-BeIf4wwY2C8vwH6s) \)](../assets/19a53c7d0a53/1*nubTkgM2uvqPNfMwakFPWA.jpeg)
 
 \(Photo Credit: [No Name Kitchen](https://www.borderviolence.eu/violence-reports/october-15-2020-0000-buhaca-croatia/?fbclid=IwAR0h5SMuhUfzLw3mgjY6eIReW6SmbPA4V6lGNDsLbk-BeIf4wwY2C8vwH6s) \)
 
@@ -277,15 +277,15 @@ The Cetingrad area from the Croatian/EU side has seen the heaviest rise in viole
 
 
 
-![](assets/19a53c7d0a53/1*6-sJTLxkbfDpTLKKLkbKxg.jpeg)
+![](../assets/19a53c7d0a53/1*6-sJTLxkbfDpTLKKLkbKxg.jpeg)
 
 
 
-![](assets/19a53c7d0a53/1*RoC8nDHo0ZGMRsdGboO4ZQ.jpeg)
+![](../assets/19a53c7d0a53/1*RoC8nDHo0ZGMRsdGboO4ZQ.jpeg)
 
 
 
-![\(Photo Credit: [No Name Kitchen](https://www.borderviolence.eu/violence-reports/october-15-2020-0000-buhaca-croatia/?fbclid=IwAR0h5SMuhUfzLw3mgjY6eIReW6SmbPA4V6lGNDsLbk-BeIf4wwY2C8vwH6s) \)](assets/19a53c7d0a53/1*4xpo9dIQQUmOBRE67kqe2g.jpeg)
+![\(Photo Credit: [No Name Kitchen](https://www.borderviolence.eu/violence-reports/october-15-2020-0000-buhaca-croatia/?fbclid=IwAR0h5SMuhUfzLw3mgjY6eIReW6SmbPA4V6lGNDsLbk-BeIf4wwY2C8vwH6s) \)](../assets/19a53c7d0a53/1*4xpo9dIQQUmOBRE67kqe2g.jpeg)
 
 \(Photo Credit: [No Name Kitchen](https://www.borderviolence.eu/violence-reports/october-15-2020-0000-buhaca-croatia/?fbclid=IwAR0h5SMuhUfzLw3mgjY6eIReW6SmbPA4V6lGNDsLbk-BeIf4wwY2C8vwH6s) \)
 
@@ -463,15 +463,15 @@ The letter has been [signed by over 50 experts](https://afterexploitation.com/20
 300 people gathered outside the controversial refugee camp on Saturday to support the people being forced to live there\. [Kent Refugee Action Network](https://twitter.com/_KRAN_/status/1317410709764976640) \(KRAN\) organised the demo and residents of the camp also took part from the inside\.
 
 
-![](assets/19a53c7d0a53/1*KDQUC6QbrGLrxE_DesypFg.jpeg)
+![](../assets/19a53c7d0a53/1*KDQUC6QbrGLrxE_DesypFg.jpeg)
 
 
 
-![](assets/19a53c7d0a53/1*BrOR6xPZqHtXQpalOWOcMA.jpeg)
+![](../assets/19a53c7d0a53/1*BrOR6xPZqHtXQpalOWOcMA.jpeg)
 
 
 
-![\(Photo Credit: [Care4Calais](https://twitter.com/Care4Calais/status/1317440610903744512?fbclid=IwAR3qpv8-N3BjkoxtGehloGe1QlqNEAzGQuKStq8mj82cklzXtHPhZXxORII) \)](assets/19a53c7d0a53/1*sBQGAmmF6dqoFBM1siXejg.jpeg)
+![\(Photo Credit: [Care4Calais](https://twitter.com/Care4Calais/status/1317440610903744512?fbclid=IwAR3qpv8-N3BjkoxtGehloGe1QlqNEAzGQuKStq8mj82cklzXtHPhZXxORII) \)](../assets/19a53c7d0a53/1*sBQGAmmF6dqoFBM1siXejg.jpeg)
 
 \(Photo Credit: [Care4Calais](https://twitter.com/Care4Calais/status/1317440610903744512?fbclid=IwAR3qpv8-N3BjkoxtGehloGe1QlqNEAzGQuKStq8mj82cklzXtHPhZXxORII) \)
 

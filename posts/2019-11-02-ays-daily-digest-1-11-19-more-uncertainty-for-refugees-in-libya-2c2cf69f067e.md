@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 1/11/19: More uncertainty for Refugees in Libya
+title: "AYS Daily Digest 1/11/19: More uncertainty for Refugees in Libya"
 author: Are You Syrious?
 date: 2019-11-02T14:10:03.745+0000
 last_modified_at: 2019-11-02T14:10:03.745+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [refugees,digest,libya,unhcr,vucjak]
 description: Are You Syrious?
 image:
-  path: assets/2c2cf69f067e/0*GmYbd11FYUjnvXCZ.jpeg
+  path: ../assets/2c2cf69f067e/0*GmYbd11FYUjnvXCZ.jpeg
 ---
 
 ### AYS Daily Digest 1/11/19: More uncertainty for Refugees in Libya
 
 
-![](assets/2c2cf69f067e/0*hwloOsfpkbhqWlqv.jpeg)
+![](../assets/2c2cf69f067e/0*hwloOsfpkbhqWlqv.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----4a5579539934----------------------)
@@ -23,11 +23,11 @@ image:
 More about proposed change in Greek asylum law /// 300 people rescued in the Med /// Updates from Vucjak /// Death in Calais /// Revolts in French CRAs
 
 
-![](assets/2c2cf69f067e/0*hOFIkK7jYFjSm16T)
+![](../assets/2c2cf69f067e/0*hOFIkK7jYFjSm16T)
 
 
 
-![](assets/2c2cf69f067e/0*GmYbd11FYUjnvXCZ.jpeg)
+![](../assets/2c2cf69f067e/0*GmYbd11FYUjnvXCZ.jpeg)
 
 
 We want to live, Calais \(Photo by [Calais Migrant Solidarity](https://calaismigrantsolidarity.wordpress.com/2019/11/01/death-at-the-border-mort-a-la-frontiere-4/?fbclid=IwAR0S0-5VkXP7d8nHnO4hZN_S6JcNGXWNmtJpSZIqjMh06LvucuXWJTaTpnU) \)
@@ -68,11 +68,11 @@ The Alan Kurdi has a safe port\!
 GREECE
 
 
-![](assets/2c2cf69f067e/0*PFM-21Uu1Pf8rsW4)
+![](../assets/2c2cf69f067e/0*PFM-21Uu1Pf8rsW4)
 
 
 
-![](assets/2c2cf69f067e/0*fIe1f3V_Bq-08c5m.jpeg)
+![](../assets/2c2cf69f067e/0*fIe1f3V_Bq-08c5m.jpeg)
 
 ### Greece’s new asylum law
 
@@ -133,11 +133,11 @@ BOSNIA AND HERZEGOVINA
 Ipsia BiH, active in the Una\-Sana canton since June, have been going for tea distribution in Vucjak camp\. They [wrote](https://web.facebook.com/IPSIA.BIH/posts/3182906098447867) about the camp:
 
 
-![](assets/2c2cf69f067e/0*JydlXAal6ZrrtWc5)
+![](../assets/2c2cf69f067e/0*JydlXAal6ZrrtWc5)
 
 
 
-![](assets/2c2cf69f067e/0*jZe7TDmN2Aa7c7NN.jpeg)
+![](../assets/2c2cf69f067e/0*jZe7TDmN2Aa7c7NN.jpeg)
 
 
 Vucjak \(Photo by [Ipsia BiH](https://web.facebook.com/IPSIA.BIH/photos/pcb.3182906098447867/3182700775135066/?type=3&theater) \)

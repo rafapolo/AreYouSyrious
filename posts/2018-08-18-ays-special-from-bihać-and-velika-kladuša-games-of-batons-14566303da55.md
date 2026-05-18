@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL from Bihać and Velika Kladuša: Games of batons
+title: "AYS SPECIAL from Bihać and Velika Kladuša: Games of batons"
 author: Are You Syrious?
 date: 2018-08-18T08:33:04.410+0100
 last_modified_at: 2018-08-18T09:21:55.612+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [bosnia,bihać,velika-kladuša,ays-digest,refugees]
 description: AYS team went again to two cities in Bosnia close to the border with Croatia only to find even more precarious living conditions, as well…
 image:
-  path: assets/14566303da55/1*UFNQpWhmPtVNuLKqLtfk2g.jpeg
+  path: ../assets/14566303da55/1*UFNQpWhmPtVNuLKqLtfk2g.jpeg
 ---
 
 ### AYS SPECIAL from Bihać and Velika Kladuša: Games of batons
@@ -15,7 +15,7 @@ image:
 _AYS team went again to two cities in Bosnia close to the border with Croatia only to find even more precarious living conditions, as well as numerous proof of border violence committed by the police forces from the EU\._
 
 
-![Makeshift camp in Velika Kladusa\. By No Name Kitchen\.](assets/14566303da55/1*UFNQpWhmPtVNuLKqLtfk2g.jpeg)
+![Makeshift camp in Velika Kladusa\. By No Name Kitchen\.](../assets/14566303da55/1*UFNQpWhmPtVNuLKqLtfk2g.jpeg)
 
 Makeshift camp in Velika Kladusa\. By No Name Kitchen\.
 
@@ -26,11 +26,11 @@ If you come to Bihać and decide to take a coffee at the bar near the bus statio
 They will tell you that the Croatian police have stolen all their money and destroyed all papers, including, for example the medical documentation that they carried from Greece proving the rape attempts committed by unknown persons on the Balkan Route\. They will tell you that they have been treated like animals by the Croatian police\. And the only question that they will have is ‘Why? Why does the Croatian police do this?’ And you will have no answer and no choice but to look at the wounds by batons and fists on their back, legs and arms\. And it will take only 30 minutes since the moment you walk in the cafe\.
 
 
-![](assets/14566303da55/1*L4CRgtOZs_t0EbXPsxT-AA.jpeg)
+![](../assets/14566303da55/1*L4CRgtOZs_t0EbXPsxT-AA.jpeg)
 
 
 
-![Photo by residents of the Đački dom camp in BIhać\.](assets/14566303da55/1*7G2d-9bNCsZ9oEVJITP4Gg.jpeg)
+![Photo by residents of the Đački dom camp in BIhać\.](../assets/14566303da55/1*7G2d-9bNCsZ9oEVJITP4Gg.jpeg)
 
 Photo by residents of the Đački dom camp in BIhać\.
 
@@ -45,14 +45,14 @@ Now, the Government is saying that there has been more than 10,000 registered pe
 So many people are arriving to Unsko\-Sanski kanton/county, yet the formal camp has been set up only recently in the ex\-student dormitory Borići and the management has been given to the Danish Refugee Council and IOM\.
 
 
-![Outside of the Đački dom, Borići camp\. Place run by the Red Cross BIhać, Danish Red Cross and IOM\. Photo One Bridge to Idomeni\.](assets/14566303da55/1*JazTY38gMdBIHwiWHoVw4Q.jpeg)
+![Outside of the Đački dom, Borići camp\. Place run by the Red Cross BIhać, Danish Red Cross and IOM\. Photo One Bridge to Idomeni\.](../assets/14566303da55/1*JazTY38gMdBIHwiWHoVw4Q.jpeg)
 
 Outside of the Đački dom, Borići camp\. Place run by the Red Cross BIhać, Danish Red Cross and IOM\. Photo One Bridge to Idomeni\.
 
 As volunteers report, the very structure, which has not been in use for 30 years, is insufficient and completely inadequate for accommodation of the people — it is wet, dirty and dangerous\. Also, not all its’ inhabitants are accommodated in the building — many of the people are sleeping in tents outside\.
 
 
-![Đački dom camp\. By One Bridge to Idomeni\.](assets/14566303da55/1*5g7tjlfS1MY-CelHFIdT1g.jpeg)
+![Đački dom camp\. By One Bridge to Idomeni\.](../assets/14566303da55/1*5g7tjlfS1MY-CelHFIdT1g.jpeg)
 
 Đački dom camp\. By One Bridge to Idomeni\.
 
@@ -63,7 +63,7 @@ Let’s add that despite the severity of the situation and the fact that the bui
 Just an hour drive from Bihać, the town of Velika Kladuša is currently hosting an unknown number of refugees, for which independent volunteer groups in the field carefully assess that it could be close to a couple of thousand\. The main three \(visible sides\) include an ex\-hotel Sedra \(formal camp, mostly for families\), a place called Helicopter squat, and the informal camp in the middle of the field, surrounded by the bushes and woods\.
 
 
-![Photo AYS\.](assets/14566303da55/1*dH2geJaezI1onRTs0fuRTA.jpeg)
+![Photo AYS\.](../assets/14566303da55/1*dH2geJaezI1onRTs0fuRTA.jpeg)
 
 Photo AYS\.
 
@@ -86,7 +86,7 @@ Some of them want to continue their journey to Germany, Italy, Belgium, yet some
 Almost every fourth person we saw in the camp has some kind of a sign of push\-back by the Croatian police on his or her body\. Yes, this includes women too\.
 
 
-![Photo AYS](assets/14566303da55/1*SBy_BcaNPPen2EWXlJxbYw.jpeg)
+![Photo AYS](../assets/14566303da55/1*SBy_BcaNPPen2EWXlJxbYw.jpeg)
 
 Photo AYS
 
@@ -97,7 +97,7 @@ However, the Croatian Ministry of Interior drops the accusations without counter
 After being stopped by the police in Croatia, the people are usually picked up by the police and driven in vans without windows in burning heat to the Bosnian territory and dropped there\. One cannot be sure how legal it is for Croatian police to go to Bosnian territory and simply to leave the beaten people\.
 
 
-![Photo AYS](assets/14566303da55/1*xA-2ns0Jp_YXrwYFu3kHaw.jpeg)
+![Photo AYS](../assets/14566303da55/1*xA-2ns0Jp_YXrwYFu3kHaw.jpeg)
 
 Photo AYS
 

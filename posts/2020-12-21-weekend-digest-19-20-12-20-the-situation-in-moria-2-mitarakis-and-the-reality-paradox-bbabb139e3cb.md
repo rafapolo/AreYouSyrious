@@ -1,5 +1,5 @@
 ---
-title: Weekend Digest 19–20/12/20: The situation in Moria #2 — Mitarakis and the reality paradox
+title: "Weekend Digest 19–20/12/20: The situation in Moria #2 — Mitarakis and the reality paradox"
 author: Are You Syrious?
 date: 2020-12-21T12:08:37.470+0000
 last_modified_at: 2020-12-21T12:08:37.470+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,moria,mitarakis,missing-migrants,refugees]
 description: Abandoned clinic squatted in Brussels // Protests throughout Europe // 4 children dead off Libya // Golden Dawn MEP to ask for political…
 image:
-  path: assets/bbabb139e3cb/0*sOV733Sb3BJgsFjk.png
+  path: ../assets/bbabb139e3cb/0*sOV733Sb3BJgsFjk.png
 ---
 
 ### Weekend Digest 19–20/12/20: The situation in Moria \#2 — Mitarakis and the reality paradox
@@ -15,11 +15,11 @@ image:
 Abandoned clinic squatted in Brussels // Protests throughout Europe // 4 children dead off Libya // Golden Dawn MEP to ask for political asylum…
 
 
-![](assets/bbabb139e3cb/0*DeeBWtVEJHSDTO0W)
+![](../assets/bbabb139e3cb/0*DeeBWtVEJHSDTO0W)
 
 
 
-![](assets/bbabb139e3cb/0*sOV733Sb3BJgsFjk.png)
+![](../assets/bbabb139e3cb/0*sOV733Sb3BJgsFjk.png)
 
 
 \(Photo Credit: [Baobab Experience](https://twitter.com/BaobabExp/status/1340682227269689345?fbclid=IwAR1rVRAw3w79H-kpj4pfx8WsdX6iqrKbSn2rXtDIafELZ3NJg8rnxrJiKFA) \)
@@ -32,11 +32,11 @@ He states that the problems faced in the camp are usual in the first few weeks o
 He states that the flooding is a result of overspill from nearby flooded fields and that flood defences have been put in place — yet this picture is from 8 days ago\.
 
 
-![](assets/bbabb139e3cb/0*TM298oUppnUh301F)
+![](../assets/bbabb139e3cb/0*TM298oUppnUh301F)
 
 
 
-![](assets/bbabb139e3cb/0*tTs3GWPQKLre2qAW.png)
+![](../assets/bbabb139e3cb/0*tTs3GWPQKLre2qAW.png)
 
 
 \(Photo Credit: [Moria Corona Awareness Team](https://web.facebook.com/MoriaCoronaAwarenessTeam/) \)
@@ -44,11 +44,11 @@ He states that the flooding is a result of overspill from nearby flooded fields 
 And here is a picture of the Moria White Helmets digging the ditches\.
 
 
-![](assets/bbabb139e3cb/0*zcIW-lGG-SCpNXyX)
+![](../assets/bbabb139e3cb/0*zcIW-lGG-SCpNXyX)
 
 
 
-![](assets/bbabb139e3cb/0*00XLEQ4zoWPV1W1f.jpeg)
+![](../assets/bbabb139e3cb/0*00XLEQ4zoWPV1W1f.jpeg)
 
 
 \(Photo Credit: [Moria White Helmets](https://web.facebook.com/MoriaWhiteHelmets/photos/pcb.225384702437930/225384552437945) \)
@@ -56,11 +56,11 @@ And here is a picture of the Moria White Helmets digging the ditches\.
 He says that through a new contract with DEI there will be electricity throughout the camp — yet when the police recently wanted electricity in their porta cabin they asked the Moria White Helmets to connect it\.
 
 
-![](assets/bbabb139e3cb/0*hRPkzzgi3ZpbIrU-)
+![](../assets/bbabb139e3cb/0*hRPkzzgi3ZpbIrU-)
 
 
 
-![](assets/bbabb139e3cb/0*RTEhD6CQCW2no7fo.png)
+![](../assets/bbabb139e3cb/0*RTEhD6CQCW2no7fo.png)
 
 
 \(Photo Credit: [Moria White Helmets](https://web.facebook.com/MoriaWhiteHelmets/) \)
@@ -70,11 +70,11 @@ He wanted to be congratulated on having 36 hot showers installed — there are o
 He states that there are 9 canteens, 15 more have been given permission and safe cooking areas have been created, all of which suggests people have enough food — yet here is a picture of food distribution carried out by the Moria White Helmets and Stand By Me Lesvos this month\.
 
 
-![](assets/bbabb139e3cb/0*s76jjo2YW_5RYrUa)
+![](../assets/bbabb139e3cb/0*s76jjo2YW_5RYrUa)
 
 
 
-![](assets/bbabb139e3cb/0*En6kZBLwFF6U7wbi.jpeg)
+![](../assets/bbabb139e3cb/0*En6kZBLwFF6U7wbi.jpeg)
 
 
 \(Photo Credit: [Moria White Helmets](https://web.facebook.com/MoriaWhiteHelmets/photos/pcb.223323982644002/223323609310706/) , 11\.12\.20\)
@@ -91,19 +91,19 @@ GREECE
 The [Moria Corona Awareness Team](https://web.facebook.com/MoriaCoronaAwarenessTeam/?__cft__[0]=AZXJbKjqh4CkcJ68jZvbdHO7Ftpg99_bp4LmnqxF6WD_so5-ajHTFa0c0C67q3m0x7BhR9yiT3b2K96i3iZihL_WXjBRFVr6fgkCf2TpljSGbPavakUdO9nDv7dqPHnLMfCoCRcDxsUf_SpoY-4gCgse&__tn__=-UC%2CP-R) have drawn attention to the continued lack of understanding shown by some NGOs in the camp\. In a [recent article](https://www.parool.nl/ps/steffi-de-pous-vond-haar-roeping-op-lesbos-ik-wilde-altijd-helper-worden~ba54357b/?fbclid=IwAR08KQvBnIO-apmpT4Q4cXOfblchdlWzyMOkM8MX8q3ozHvSEJwZEzcX5pg&utm_source=link&utm_medium=app&utm_campaign=shared%20content&utm_content=free&referrer=https%3A%2F%2Fl.facebook.com%2F) by Because We Carry it was suggested that Afghan people don’t know how to use the toilets which have been installed in the camp\. These pictures explain why nobody would want to go anywhere near them\.
 
 
-![](assets/bbabb139e3cb/0*GqtO0wa4XULt4yyu)
+![](../assets/bbabb139e3cb/0*GqtO0wa4XULt4yyu)
 
 
 
-![](assets/bbabb139e3cb/0*p6oDzA9YSY1yuM4-.jpeg)
+![](../assets/bbabb139e3cb/0*p6oDzA9YSY1yuM4-.jpeg)
 
 
 
-![](assets/bbabb139e3cb/0*EfNYWigxSNrqOPDj)
+![](../assets/bbabb139e3cb/0*EfNYWigxSNrqOPDj)
 
 
 
-![](assets/bbabb139e3cb/0*efjt3kCr8mozaaTS.png)
+![](../assets/bbabb139e3cb/0*efjt3kCr8mozaaTS.png)
 
 
 \(Photo Credit: [Moria Corona Awareness Team](https://web.facebook.com/MoriaCoronaAwarenessTeam/posts/215716153390896?_rdc=1&_rdr) \)

@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 12/8: Abuse of refugees rights across Europe matched by new initiatives gaining…
+title: "AYS DAILY DIGEST 12/8: Abuse of refugees rights across Europe matched by new initiatives gaining…"
 author: Are You Syrious?
 date: 2016-08-13T01:05:57.348+0100
 last_modified_at: 2016-08-13T20:25:38.098+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: The numbers in Greece for today and deportations in Lesvos. Refugees learning to code, learning to swim and teaching tools for English. Aid…
 image:
-  path: assets/5595f6e5c2a3/1*dHrtCG_XSqk_LaZKssYt1w.jpeg
+  path: ../assets/5595f6e5c2a3/1*dHrtCG_XSqk_LaZKssYt1w.jpeg
 ---
 
 ### AYS DAILY DIGEST 12/8: **Abuse of refugees rights across Europe matched by new initiatives gaining ground and old spaces for integration refusing to be closed**
@@ -19,7 +19,7 @@ image:
 
 
 
-![Credits: Elpida camp](assets/5595f6e5c2a3/1*dHrtCG_XSqk_LaZKssYt1w.jpeg)
+![Credits: Elpida camp](../assets/5595f6e5c2a3/1*dHrtCG_XSqk_LaZKssYt1w.jpeg)
 
 Credits: Elpida camp
 #### **GENERAL**
@@ -34,12 +34,12 @@ An idea for the reintroduction on the Nansen passport has been voiced, drawing o
 For all the Refugee supporters, a new project is on the works in London\. An opportunity to learn about coding and becoming a developer for free for refugees and recruiting its first batch of students in London/UK\. HackYourFuture is a free educational program that helps refugees learn computer programming\. The 6\-month program is focused on teaching refugees how to program, get skills that are demanded on the job\-market, and connect them with companies that hire programmers\. The program started in The Netherlands and their first 7 graduates have already found internships and jobs at great companies\! A new 6 months program is about to start in London teaching individuals how to become a full\-stack JavaScript web developer and languages such as HTML/CSS, Javascript, Angular, Node\.js, MongoDB and more in a weekly face\-to\-face day session\. Requirements are writing and reading English at a good level and high motivation\. email to [london@hackyourfuture\.net](mailto:london@hackyourfuture.net)
 
 
-![Refugees learning to code\. Credits: [**Germán D’Jesús**](https://www.facebook.com/germandj)](assets/5595f6e5c2a3/1*4HeyJgaLAlzpLDujnmlU2Q.jpeg)
+![Refugees learning to code\. Credits: [**Germán D’Jesús**](https://www.facebook.com/germandj)](../assets/5595f6e5c2a3/1*4HeyJgaLAlzpLDujnmlU2Q.jpeg)
 
 Refugees learning to code\. Credits: [**Germán D’Jesús**](https://www.facebook.com/germandj)
 
 
-![Credits: [**Germán D’Jesús**](https://www.facebook.com/germandj)](assets/5595f6e5c2a3/1*Zo0LCKmMqa8yuDZ_Gwtxqw.jpeg)
+![Credits: [**Germán D’Jesús**](https://www.facebook.com/germandj)](../assets/5595f6e5c2a3/1*Zo0LCKmMqa8yuDZ_Gwtxqw.jpeg)
 
 Credits: [**Germán D’Jesús**](https://www.facebook.com/germandj)
 #### **SYRIA**
@@ -56,25 +56,25 @@ Check out the video here:
 ### Education efforts in Izmir
 
 
-![](assets/5595f6e5c2a3/1*anZhf79PV4V2Bc7EsemQRQ.jpeg)
+![](../assets/5595f6e5c2a3/1*anZhf79PV4V2Bc7EsemQRQ.jpeg)
 
 
 
-![Credits: [**İmece İnisiyatifi Çeşme**](https://www.facebook.com/imeceinisiyatifi/)](assets/5595f6e5c2a3/1*Jsk3SquqHqvLltOYItEYog.jpeg)
-
-Credits: [**İmece İnisiyatifi Çeşme**](https://www.facebook.com/imeceinisiyatifi/)
-
-
-![](assets/5595f6e5c2a3/1*GAp9V5IYhD70CVYAPTGqgA.jpeg)
-
-
-
-![Credits: [**İmece İnisiyatifi Çeşme**](https://www.facebook.com/imeceinisiyatifi/)](assets/5595f6e5c2a3/1*OG34du8NcVGFDfyAKnGntg.jpeg)
+![Credits: [**İmece İnisiyatifi Çeşme**](https://www.facebook.com/imeceinisiyatifi/)](../assets/5595f6e5c2a3/1*Jsk3SquqHqvLltOYItEYog.jpeg)
 
 Credits: [**İmece İnisiyatifi Çeşme**](https://www.facebook.com/imeceinisiyatifi/)
 
 
-![Credits: [**İmece İnisiyatifi Çeşme**](https://www.facebook.com/imeceinisiyatifi/)](assets/5595f6e5c2a3/1*2CoeA56t4KsQIADahUZIww.jpeg)
+![](../assets/5595f6e5c2a3/1*GAp9V5IYhD70CVYAPTGqgA.jpeg)
+
+
+
+![Credits: [**İmece İnisiyatifi Çeşme**](https://www.facebook.com/imeceinisiyatifi/)](../assets/5595f6e5c2a3/1*OG34du8NcVGFDfyAKnGntg.jpeg)
+
+Credits: [**İmece İnisiyatifi Çeşme**](https://www.facebook.com/imeceinisiyatifi/)
+
+
+![Credits: [**İmece İnisiyatifi Çeşme**](https://www.facebook.com/imeceinisiyatifi/)](../assets/5595f6e5c2a3/1*2CoeA56t4KsQIADahUZIww.jpeg)
 
 Credits: [**İmece İnisiyatifi Çeşme**](https://www.facebook.com/imeceinisiyatifi/)
 #### **GREECE**
@@ -95,16 +95,16 @@ In Souda camp swimming lessons are organized for children according to swimming 
 ### Beautifying the Frakapor camp: Cooperation between volunteers and refugees
 
 
-![Credits: [**schwizerchrüz\.ch Michael Räber**](https://www.facebook.com/swisscross.help/)](assets/5595f6e5c2a3/1*XUEafKigxIkymFk0oOzKig.jpeg)
+![Credits: [**schwizerchrüz\.ch Michael Räber**](https://www.facebook.com/swisscross.help/)](../assets/5595f6e5c2a3/1*XUEafKigxIkymFk0oOzKig.jpeg)
 
 Credits: [**schwizerchrüz\.ch Michael Räber**](https://www.facebook.com/swisscross.help/)
 
 
-![](assets/5595f6e5c2a3/1*iVpZCDjDPp6dhjpO0EOLeQ.jpeg)
+![](../assets/5595f6e5c2a3/1*iVpZCDjDPp6dhjpO0EOLeQ.jpeg)
 
 
 
-![Credits: Credits: [**schwizerchrüz\.ch Michael Räber**](https://www.facebook.com/swisscross.help/)](assets/5595f6e5c2a3/1*fGahSW0pLZHy25zWm5dEOw.jpeg)
+![Credits: Credits: [**schwizerchrüz\.ch Michael Räber**](https://www.facebook.com/swisscross.help/)](../assets/5595f6e5c2a3/1*fGahSW0pLZHy25zWm5dEOw.jpeg)
 
 Credits: Credits: [**schwizerchrüz\.ch Michael Räber**](https://www.facebook.com/swisscross.help/)
 ### **No Border Kitchen Lesvos Stands Its Ground**
@@ -135,26 +135,26 @@ Believing that the parks should be what they are meant to be: a place to meet, t
 ### Food donations in Miksaliste
 
 
-![Credits: [**Refugee Aid Miksalište**](https://www.facebook.com/RefugeeAidMiksaliste/)](assets/5595f6e5c2a3/1*pcbRLJUDOMMRliI-WE2jIQ.jpeg)
+![Credits: [**Refugee Aid Miksalište**](https://www.facebook.com/RefugeeAidMiksaliste/)](../assets/5595f6e5c2a3/1*pcbRLJUDOMMRliI-WE2jIQ.jpeg)
 
 Credits: [**Refugee Aid Miksalište**](https://www.facebook.com/RefugeeAidMiksaliste/)
 
 
-![Credits: [**Refugee Aid Miksalište**](https://www.facebook.com/RefugeeAidMiksaliste/)](assets/5595f6e5c2a3/1*XJWUhpvtxT0A0zEH82jAAw.jpeg)
+![Credits: [**Refugee Aid Miksalište**](https://www.facebook.com/RefugeeAidMiksaliste/)](../assets/5595f6e5c2a3/1*XJWUhpvtxT0A0zEH82jAAw.jpeg)
 
 Credits: [**Refugee Aid Miksalište**](https://www.facebook.com/RefugeeAidMiksaliste/)
 
 
-![](assets/5595f6e5c2a3/1*PXWVZLNO4Xy5_Ng0E3I3yA.jpeg)
+![](../assets/5595f6e5c2a3/1*PXWVZLNO4Xy5_Ng0E3I3yA.jpeg)
 
 
 
-![Credits: [**Refugee Aid Miksalište**](https://www.facebook.com/RefugeeAidMiksaliste/)](assets/5595f6e5c2a3/1*wOGfZtbnRFivDM-mhtBMIQ.jpeg)
+![Credits: [**Refugee Aid Miksalište**](https://www.facebook.com/RefugeeAidMiksaliste/)](../assets/5595f6e5c2a3/1*wOGfZtbnRFivDM-mhtBMIQ.jpeg)
 
 Credits: [**Refugee Aid Miksalište**](https://www.facebook.com/RefugeeAidMiksaliste/)
 
 
-![Credits: [**Refugee Aid Miksalište**](https://www.facebook.com/RefugeeAidMiksaliste/)](assets/5595f6e5c2a3/1*fXOFv7KugIEThzdyqQHtwQ.jpeg)
+![Credits: [**Refugee Aid Miksalište**](https://www.facebook.com/RefugeeAidMiksaliste/)](../assets/5595f6e5c2a3/1*fXOFv7KugIEThzdyqQHtwQ.jpeg)
 
 Credits: [**Refugee Aid Miksalište**](https://www.facebook.com/RefugeeAidMiksaliste/)
 #### **BULGARIA**
@@ -167,7 +167,7 @@ More then 300 people’s documents have been inspected during the last 24 hours 
 There have been reports of continued heavy control of the Swiss/Italian border, especially controls of people crossing by train\. If not seeking asylum individuals are immediately sent back to Italy\.
 
 
-![Changes on the Swiss\-Italian border\. Credits: [**Welcome to Europe**](https://www.facebook.com/w2eu.info/)](assets/5595f6e5c2a3/1*Wr3KLmagIhnFKEEkZm52jQ.jpeg)
+![Changes on the Swiss\-Italian border\. Credits: [**Welcome to Europe**](https://www.facebook.com/w2eu.info/)](../assets/5595f6e5c2a3/1*Wr3KLmagIhnFKEEkZm52jQ.jpeg)
 
 Changes on the Swiss\-Italian border\. Credits: [**Welcome to Europe**](https://www.facebook.com/w2eu.info/)
 #### **FRANCE**
@@ -176,29 +176,29 @@ Changes on the Swiss\-Italian border\. Credits: [**Welcome to Europe**](https://
 The Help Refugees latest census has revealed that there are now a staggering 9,106 people living in the Calais camp\. This is the highest number recorded since the monthly census has been conducted, showing that the population has increased by 29% since early July\. There are currently 865 children living in the Jungle\. 78% of them are alone\. This is the highest number of unaccompanied children relying on our services to date\. The Dubs Amendment was passed in May 2016\. Since then no unaccompanied refugee child has been resettled in the UK under this law\. For the first time people are reporting to the volunteer medical services saying that they are hungry\. The camp is running out food\.
 
 
-![Latest Calais census\. Credits: [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/)](assets/5595f6e5c2a3/1*5qmNrXhZ83cfLnq2WBd7tA.jpeg)
+![Latest Calais census\. Credits: [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/)](../assets/5595f6e5c2a3/1*5qmNrXhZ83cfLnq2WBd7tA.jpeg)
 
 Latest Calais census\. Credits: [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/)
 ### **Shops and Restaurants in Calais to Remain Open**
 
 
-![Credits: [**Care4Calais**](https://www.facebook.com/care4calais/)](assets/5595f6e5c2a3/1*-1Gzhck1a8O7smXBBj2fMA.jpeg)
+![Credits: [**Care4Calais**](https://www.facebook.com/care4calais/)](../assets/5595f6e5c2a3/1*-1Gzhck1a8O7smXBBj2fMA.jpeg)
 
 Credits: [**Care4Calais**](https://www.facebook.com/care4calais/)
 
 On average, each shop and restaurant of 36 surveyed, serves as emergency accommodation for 4 newly arrived people during the night, totalling 252 places to stay every night\. 30 people charge their phones in each one every day, totalling 2124 people who can keep in contact with their family on a daily basis\. 12 free meals and food items are served daily in each restaurant — this totals 857, includes 200 free meals a day for unaccompanied minors in the Jungle Books Café\. The Prefecture’s request to demolish the shops and restaurants in Calais was rejected on ALL COUNTS by the Tribunal Administrative in Lille and they will, for now, remain open\. What is needed the most is food and tents, to donate physical goods to Calais email: [calaisdonations@gmail\.com](mailto:calaisdonations@gmail.com) To purchase goods online to be delivered straight to the Calais warehouse go to: [https://www\.leisurefayre\.com/section](https://www.leisurefayre.com/section) [\.…/86100/1/help\_refugees](https://www.leisurefayre.com/section.php/86100/1/help_refugees) To donate to Refugee Community Kitchen: [https://mydonate\.bt\.com/](https://mydonate.bt.com/) […/helprefugeesandrefugeecommunityki…](https://mydonate.bt.com/charities/helprefugeesandrefugeecommunitykitchen)
 
 
-![](assets/5595f6e5c2a3/1*CgQMjXHdWczxOAKKdeF5Kg.jpeg)
+![](../assets/5595f6e5c2a3/1*CgQMjXHdWczxOAKKdeF5Kg.jpeg)
 
 
 
-![An Afghan restaurant that now has the right to re\-open, after being demolished\. Credits: [**Calais Action**](https://www.facebook.com/calaisaction/)](assets/5595f6e5c2a3/1*w8fTqGts_naOxoqvrUV_KA.jpeg)
+![An Afghan restaurant that now has the right to re\-open, after being demolished\. Credits: [**Calais Action**](https://www.facebook.com/calaisaction/)](../assets/5595f6e5c2a3/1*w8fTqGts_naOxoqvrUV_KA.jpeg)
 
 An Afghan restaurant that now has the right to re\-open, after being demolished\. Credits: [**Calais Action**](https://www.facebook.com/calaisaction/)
 
 
-![Donations of sleeping bags and blankets arriving\. More are needed\. Credits: [**Calais Action**](https://www.facebook.com/calaisaction/)](assets/5595f6e5c2a3/1*dEa5uPYl3y0hSb0TrPxWwA.jpeg)
+![Donations of sleeping bags and blankets arriving\. More are needed\. Credits: [**Calais Action**](https://www.facebook.com/calaisaction/)](../assets/5595f6e5c2a3/1*dEa5uPYl3y0hSb0TrPxWwA.jpeg)
 
 Donations of sleeping bags and blankets arriving\. More are needed\. Credits: [**Calais Action**](https://www.facebook.com/calaisaction/)
 ### **The Welcome Caravan was forced to close**

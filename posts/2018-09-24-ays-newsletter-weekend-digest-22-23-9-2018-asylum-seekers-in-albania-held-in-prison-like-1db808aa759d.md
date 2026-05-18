@@ -1,13 +1,13 @@
 ---
-title: AYS NEWSLETTER: Weekend Digest 22-23/9/2018 Asylum seekers in Albania held in prison-like…
+title: "AYS NEWSLETTER: Weekend Digest 22-23/9/2018 Asylum seekers in Albania held in prison-like…"
 author: Are You Syrious?
 date: 2018-09-24T12:52:58.717+0100
 last_modified_at: 2018-09-24T12:52:58.717+0100
 categories: Are You Syrious?
 tags: [refugees,digest,bosnia,albania,croatia]
-description: And: Asylum seekers from Syria tried to commit suicide in Albanian closed center // Transfer of people from islands to the mainlands…
+description: "And: Asylum seekers from Syria tried to commit suicide in Albanian closed center // Transfer of people from islands to the mainlands…"
 image:
-  path: assets/1db808aa759d/1*8bwYJRqKWgD5dOylBHPT9g.jpeg
+  path: ../assets/1db808aa759d/1*8bwYJRqKWgD5dOylBHPT9g.jpeg
 ---
 
 ### AYS NEWSLETTER: Weekend Digest 22\-23/9/2018 Asylum seekers in Albania held in prison\-like facilities
@@ -15,7 +15,7 @@ image:
 _And: Asylum seekers from Syria tried to commit suicide in Albanian closed center // Transfer of people from islands to the mainlands continues in Greece // Violence against people on the move in Bosnia // The right to family life applies to everyone, including refugees and migrants, the Council of Europe warns // Help is needed in Greece, Bosnia, France, Italy…_
 
 
-![Bihac, make shift camp Borici\. Photo AYS\.](assets/1db808aa759d/1*8bwYJRqKWgD5dOylBHPT9g.jpeg)
+![Bihac, make shift camp Borici\. Photo AYS\.](../assets/1db808aa759d/1*8bwYJRqKWgD5dOylBHPT9g.jpeg)
 
 Bihac, make shift camp Borici\. Photo AYS\.
 ### Feature
@@ -23,7 +23,7 @@ Bihac, make shift camp Borici\. Photo AYS\.
 At the end of the last week, an activist from Albania reached out to AYS saying that **32 people are held in an immigration center, a closed facility near Kakavije, the border crossing with Greece** \. Later on, one person who is inside the center also got in touch with AYS to tell us about the cruel conditions and treatment of the people in this place\.
 
 
-![](assets/1db808aa759d/1*zdoQ4l2ESFRpGZ80yDmKeA.jpeg)
+![](../assets/1db808aa759d/1*zdoQ4l2ESFRpGZ80yDmKeA.jpeg)
 
 
 The information given is that eight people from Syria, two from Palestine, five from Algeria and 17 from Pakistan, are held in the center\. The Syrian man who contacted AYS told us that he, as well as many others, have asked for asylum, but they have\. been put in this center with no freedom of movement, limited possibility to contact anybody or to receive visits\.
@@ -35,11 +35,11 @@ For several hours a day they have access to their phones and WiFi\. Apparently, 
 Since his arrival, he has not seen any representatives from the UNHCR or IOM; or any NGO which deals with refugees\. He did not get any information about the procedures or his rights in Albania\.
 
 
-![](assets/1db808aa759d/1*3oTqAmVhG7KyAIrfqxWlrA.jpeg)
+![](../assets/1db808aa759d/1*3oTqAmVhG7KyAIrfqxWlrA.jpeg)
 
 
 
-![](assets/1db808aa759d/1*mYj5SM6lMZx6QzWWwR9FAg.jpeg)
+![](../assets/1db808aa759d/1*mYj5SM6lMZx6QzWWwR9FAg.jpeg)
 
 
 Due to very harsh conditions, last week people in the center organized a sit\-in protest, but the guards punished them and four of them were put in solitary confinement for two days\. Due to very bad conditions and cruel treatment, some people in the center are self harming themselves, or have tried to kill themselves\.
@@ -60,7 +60,7 @@ AYS reached out to local NGOs and we hope to receive more information about the 
 **Since September 15, a Syrian is looking for little Allsa, his 5\-year old daughter** who was separated from him while he was illegally pushed back from Croatia to Bosnia\. Please, if you can help or have any information, share it with us or the nearest police\.
 
 
-![](assets/1db808aa759d/1*Zcwgst3JuJQFosDAOz3yDA.jpeg)
+![](../assets/1db808aa759d/1*Zcwgst3JuJQFosDAOz3yDA.jpeg)
 
 
 According to his testimony, Allsa’s mother has passed away, and the two of them ran off from the war in hope they will find safety in the EU\. They entered the Republic of Croatia some 12 days ago, along with another refugee family from Iraq\. After two days of walking they were exhausted and hungry\. Alssa was waiting with the other family while her father was getting food and water from a local store\.
@@ -87,7 +87,7 @@ A boat with 39 Syrian refugees aboard sank off the coast of Lebanon as it sailed
 This is the first time in almost a year that people tried to get to Europe by boat from Lebanon\.
 
 
-![By Aegean Boat Report\.](assets/1db808aa759d/1*8BEvwNBJcZHRIW2KHcVMPw.jpeg)
+![By Aegean Boat Report\.](../assets/1db808aa759d/1*8BEvwNBJcZHRIW2KHcVMPw.jpeg)
 
 By Aegean Boat Report\.
 #### Morocco
@@ -118,7 +118,7 @@ After being stripped of its Gibraltar registration, the Aquarius has now lost it
 **This weekend 13 boats arrived to Greece, carrying 404 people** \. According to the Aegean Boat Report\. Over the weekend, two boats arrived on Samos, one with 44 people and the second with 47 people\. Also, two boats arrived on Lesvos, one with 56 people and the other with 26 people\.
 
 
-![By [Anglika Song](https://www.facebook.com/photo.php?fbid=10161051100760615&set=p.10161051100760615&type=3&theater) , Milvos, Lesvos\.](assets/1db808aa759d/1*eVMYIphjabU6Xy3bYA_vZw.jpeg)
+![By [Anglika Song](https://www.facebook.com/photo.php?fbid=10161051100760615&set=p.10161051100760615&type=3&theater) , Milvos, Lesvos\.](../assets/1db808aa759d/1*eVMYIphjabU6Xy3bYA_vZw.jpeg)
 
 By [Anglika Song](https://www.facebook.com/photo.php?fbid=10161051100760615&set=p.10161051100760615&type=3&theater) , Milvos, Lesvos\.
 
@@ -179,7 +179,7 @@ It is not yet clear when the trial against the six fishermen will begin before t
 **The situation in Bosnia continues to be miserable for people on the move** who are in this country\. In Kladusa and Bihac, more than 1,500 are sleeping rough in the make shift camps\. More people are in Sarajevo, Tuzla, Mostar…
 
 
-![Shelter in make shift camp in Velika Kladusa\. Photo by AYS\.](assets/1db808aa759d/1*GgPQUdAGRQgfRHe0_dORTQ.jpeg)
+![Shelter in make shift camp in Velika Kladusa\. Photo by AYS\.](../assets/1db808aa759d/1*GgPQUdAGRQgfRHe0_dORTQ.jpeg)
 
 Shelter in make shift camp in Velika Kladusa\. Photo by AYS\.
 
@@ -190,7 +190,7 @@ In Bihac, police is harassing people in the streets not allowing them to be seen
 Among people who are sleeping rough in this small pine forest there are many women and children\. Women have told us they do not feel safe during the day, and the night is scary and long\. They have no possibility to use toilets in the night, at all\. They sleep in tents mostly, sometimes more than 10 people in one small tent\.
 
 
-![Tent where 10 people are living in Borici camp, Bihac\. Photo AYS\.](assets/1db808aa759d/1*zjD0FyITdry6fyUbRSNhXw.jpeg)
+![Tent where 10 people are living in Borici camp, Bihac\. Photo AYS\.](../assets/1db808aa759d/1*zjD0FyITdry6fyUbRSNhXw.jpeg)
 
 Tent where 10 people are living in Borici camp, Bihac\. Photo AYS\.
 
@@ -199,7 +199,7 @@ Additionally, police in Bihac, but also in Sarajevo, are harassing people, and s
 People in this forest told us that officers from the Office for Foreigners often come in the morning and kick people who are laying on the ground or kick their tents\. Last week, one police woman used a gun to hit one elderly man, a father of two, after he asked her not to kick their tent since one of the children inside is sick\. She responded with insults and violence\. The video of the assault was posted online, but the same police woman is still in the camp making everybody feel uncomfortable\.
 
 
-[![Incident u Đačkom domu u Bihaću](assets/1db808aa759d/c290_hqdefault.jpg "Incident u Đačkom domu u Bihaću")](http://www.youtube.com/watch?v=bCrCELQ_6BE)
+[![Incident u Đačkom domu u Bihaću](../assets/1db808aa759d/c290_hqdefault.jpg "Incident u Đačkom domu u Bihaću")](http://www.youtube.com/watch?v=bCrCELQ_6BE)
 
 
 **This type of violence is becoming an every day occurrence in Sarajevo, too** where people are forced to sleep outside due to lack of accommodation\.
@@ -218,7 +218,7 @@ If you can help, please do so\.
 Last week the Supreme Administrative Court ruled that the actions of the Polish Border Guard, denying asylum\-seekers access to Polish territory and contact with their lawyers, were in breach of the law\.
 
 
-![Attorneys trying to contact their clients through the window of the railway station\. [\#adwokacinagranicy](https://twitter.com/hashtag/adwokacinagranicy?src=hash)](assets/1db808aa759d/1*rwxOUMDY0XkUh11sUcR1zA.jpeg)
+![Attorneys trying to contact their clients through the window of the railway station\. [\#adwokacinagranicy](https://twitter.com/hashtag/adwokacinagranicy?src=hash)](../assets/1db808aa759d/1*rwxOUMDY0XkUh11sUcR1zA.jpeg)
 
 Attorneys trying to contact their clients through the window of the railway station\. [\#adwokacinagranicy](https://twitter.com/hashtag/adwokacinagranicy?src=hash)
 #### France

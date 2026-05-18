@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 25/04/2018: Attack in Exarchia has Greater Symbolism
+title: "AYS DAILY DIGEST 25/04/2018: Attack in Exarchia has Greater Symbolism"
 author: Are You Syrious?
 date: 2018-04-26T09:56:06.694+0100
 last_modified_at: 2018-04-26T23:07:36.860+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest]
 description: Minor attack has great echoes in Greece // Updates on Greek government response and actions // Needs in Greece // Ways to resist…
 image:
-  path: assets/d9e9a1638355/1*-wHT4EcgoT4p9XA1b9DHtg.jpeg
+  path: ../assets/d9e9a1638355/1*-wHT4EcgoT4p9XA1b9DHtg.jpeg
 ---
 
 ### AYS DAILY DIGEST 25/04/2018: Attack in Exarchia has Greater Symbolism
@@ -15,7 +15,7 @@ image:
 _Minor attack has great echoes in Greece // Updates on Greek government response and actions // Needs in Greece // Ways to resist deportation in Austria // French legislation may be in contravention to EU migration framework // More_
 
 
-![](assets/d9e9a1638355/1*-wHT4EcgoT4p9XA1b9DHtg.jpeg)
+![](../assets/d9e9a1638355/1*-wHT4EcgoT4p9XA1b9DHtg.jpeg)
 
 ### **FEATURE**
 
@@ -56,7 +56,7 @@ Nea Kavala, Northern Greece
 [We Are Here — Community Centre](https://www.facebook.com/WeAreHereCentre/) has need of a long\-term helper for their children’s centre\. The space is child\-friendly and encourages creative play and social development\. The minimum time commitment is 6 weeks and the position starts in May\. To apply, go [here](http://goo.gl/forms/bJ6MhKEqopwDw9QA3) \.
 
 
-![](assets/d9e9a1638355/1*EF7PzS_7uE5dYRHD6DLC2Q.jpeg)
+![](../assets/d9e9a1638355/1*EF7PzS_7uE5dYRHD6DLC2Q.jpeg)
 
 
 Serres, Northern Greece
@@ -83,26 +83,26 @@ The Kempsons need help\! See their post below
 ERCI needs FARSI translators on Lesvos\! Please read the below description\.
 
 
-![](assets/d9e9a1638355/1*8y9V4HyQsAmhonzsOml2kA.png)
+![](../assets/d9e9a1638355/1*8y9V4HyQsAmhonzsOml2kA.png)
 
 ### AUSTRIA
 
 The organization [ECADA \- European Citizens Against Deportation to Afghanistan](https://www.facebook.com/ecada2017/?hc_ref=ARRF2vNq_0Rmxk2KnQdx3CqXhsG0Q430SDPsbFkUqAHwbsFbVdCaJpAtCvAUgekrXVg) provided useful information on how citizens can help to intercept and protest on a deportation flight\. They are encouraging action against the deportation of a man from Afghanistan \(via Turkish Airlines, which is a Star Alliance member\) back to Kabul\. Please follow their page for the latest in terms of social media activism and read the helpful brochure below to see how you can truly “Stand up and make a difference\.”
 
 
-![](assets/d9e9a1638355/1*ONS0-6R69o7dlDvvaLLntg.jpeg)
+![](../assets/d9e9a1638355/1*ONS0-6R69o7dlDvvaLLntg.jpeg)
 
 ### ITALY
 
 
-![Protest on behalf of the liberation of activists from jail, credit: [Chez Jesus — Rifugio Autogestito](https://www.facebook.com/Chez-Jesus-Rifugio-Autogestito-362786637540072/?hc_ref=ARQlxxYIPM5UJm_5ou7GB3uLrX8HXxBKZl_qSCi6RR08NZNHmpppScIFTK0E5uGaZt8&fref=nf&hc_location=group)](assets/d9e9a1638355/1*5xi2LBALPQKc-v3EA1KLSQ.jpeg)
+![Protest on behalf of the liberation of activists from jail, credit: [Chez Jesus — Rifugio Autogestito](https://www.facebook.com/Chez-Jesus-Rifugio-Autogestito-362786637540072/?hc_ref=ARQlxxYIPM5UJm_5ou7GB3uLrX8HXxBKZl_qSCi6RR08NZNHmpppScIFTK0E5uGaZt8&fref=nf&hc_location=group)](../assets/d9e9a1638355/1*5xi2LBALPQKc-v3EA1KLSQ.jpeg)
 
 Protest on behalf of the liberation of activists from jail, credit: [Chez Jesus — Rifugio Autogestito](https://www.facebook.com/Chez-Jesus-Rifugio-Autogestito-362786637540072/?hc_ref=ARQlxxYIPM5UJm_5ou7GB3uLrX8HXxBKZl_qSCi6RR08NZNHmpppScIFTK0E5uGaZt8&fref=nf&hc_location=group)
 
 In the fallout after the earlier protest in the Clavièr\-Briançon march, three individuals have been arrested on the charge of “facilitating illegal migration” \(sounds familiar by this point, doesn’t it?\) \. There are ongoing protests against their arrest and detention on the 26th and 27th\. Their next court hearing is on May 31st, so they can be kept in jail until that point\.
 
 
-![Photo from the March\. Credit [Radio No Tav](https://www.facebook.com/radionotav/?hc_ref=ARS7EEIGdmeTieepzDorRBpEt8G_JfQq-3QVZmtd-4d5Ku45QMEsdplnocDAVpPAJn0&fref=nf)](assets/d9e9a1638355/1*SpH4PEkNOXThwLwJ-4J69w.jpeg)
+![Photo from the March\. Credit [Radio No Tav](https://www.facebook.com/radionotav/?hc_ref=ARS7EEIGdmeTieepzDorRBpEt8G_JfQq-3QVZmtd-4d5Ku45QMEsdplnocDAVpPAJn0&fref=nf)](../assets/d9e9a1638355/1*SpH4PEkNOXThwLwJ-4J69w.jpeg)
 
 Photo from the March\. Credit [Radio No Tav](https://www.facebook.com/radionotav/?hc_ref=ARS7EEIGdmeTieepzDorRBpEt8G_JfQq-3QVZmtd-4d5Ku45QMEsdplnocDAVpPAJn0&fref=nf)
 
@@ -133,7 +133,7 @@ It is unclear whether this will have any effect on the legislation\.
 [Solidarithe](https://www.facebook.com/solidarithe/photos/a.1768173616834086.1073741829.1751515661833215/1984245238560255/?type=3&permPage=1) looks back on one year of work, 200,000 cups of tea served\. Please take a moment to hear from them and support their work\.
 
 
-![Photo credit: Solidarithe](assets/d9e9a1638355/1*D7jYED5HfO4SYBVYoH_Kzg.jpeg)
+![Photo credit: Solidarithe](../assets/d9e9a1638355/1*D7jYED5HfO4SYBVYoH_Kzg.jpeg)
 
 Photo credit: Solidarithe
 ### THE NETHERLANDS

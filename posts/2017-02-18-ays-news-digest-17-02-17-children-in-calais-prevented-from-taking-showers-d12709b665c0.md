@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe]
 description: Volunteers needed in Dunkirk//Home Office gives bad justifications for abandoning the Dubs amendment//Turkish camps evicted//
 image:
-  path: assets/d12709b665c0/1*wanc3Lg3Gk6vLAHuSFhfvA.jpeg
+  path: ../assets/d12709b665c0/1*wanc3Lg3Gk6vLAHuSFhfvA.jpeg
 ---
 
 ### AYS NEWS DIGEST 17\.02\.17 — Children in Calais prevented from taking showers
 
 
-![Photo by Care4Calais](assets/d12709b665c0/1*wanc3Lg3Gk6vLAHuSFhfvA.jpeg)
+![Photo by Care4Calais](../assets/d12709b665c0/1*wanc3Lg3Gk6vLAHuSFhfvA.jpeg)
 
 Photo by Care4Calais
 
@@ -36,7 +36,7 @@ Given the context, there is a great need for volunteers and a vital need for don
 Herts for Refugees has managed to source a really good quality and low cost supply of ex army kit\. A 4 season sleeping bag and army issue bivvy is just £17\.50 for the two; an army issue blanket is £6\. You can text PARI15 followed by the amount you want to donate to 70070 or paypal: [info@hertsforrefugees\.org](mailto:info@hertsforrefugees.org) \. You can also buy for direct delivery to the warehouse from [Leysurefare](https://www.leisurefayre.com/section.php/86100/1/help_refugees) \.
 
 
-![Photo by Megan Stuart](assets/d12709b665c0/1*9At-EjcGQ1YeE8OfSirb5w.png)
+![Photo by Megan Stuart](../assets/d12709b665c0/1*9At-EjcGQ1YeE8OfSirb5w.png)
 
 Photo by Megan Stuart
 #### Dunkirk
@@ -49,7 +49,7 @@ The role of the Youth Coordinator will focus on liaising with local authorities 
 The role requires strong skills in logistics and excellent interpersonal skills\. Fluency in either French or English is essential\. Please contact dunkirkchildrenscentre@gmail\.com for more information\.
 
 
-![Photo by Refugee Children’s Centre](assets/d12709b665c0/1*OQyj3CCIW6RmkZ0HFWUb7Q.png)
+![Photo by Refugee Children’s Centre](../assets/d12709b665c0/1*OQyj3CCIW6RmkZ0HFWUb7Q.png)
 
 Photo by Refugee Children’s Centre
 
@@ -63,7 +63,7 @@ The centre is also looking for volunteers to fill the following positions:
 ### Show of solidarity in Paris
 
 
-![Photo by Solidarité migrants Wilson](assets/d12709b665c0/1*p79QrTLMpL3Glu3up_0j-A.png)
+![Photo by Solidarité migrants Wilson](../assets/d12709b665c0/1*p79QrTLMpL3Glu3up_0j-A.png)
 
 Photo by Solidarité migrants Wilson
 
@@ -111,11 +111,11 @@ Regardless the roadblocks, Lord Dubs trucks on and is launching a fund to help b
 Refugee Support Greece has started to prepare for new arrivals at the Katsikas camp, cleaning out the hangar and dismantling old shelves before the building team moves in to create a series of dignified shopping spaces\.
 
 
-![](assets/d12709b665c0/1*8m-hXSoNm1VNW3E1x3TkLQ.jpeg)
+![](../assets/d12709b665c0/1*8m-hXSoNm1VNW3E1x3TkLQ.jpeg)
 
 
 
-![Photos by Refugee Support Greece](assets/d12709b665c0/1*x7oQnzaTmHjJ5CvpC4PRtw.jpeg)
+![Photos by Refugee Support Greece](../assets/d12709b665c0/1*x7oQnzaTmHjJ5CvpC4PRtw.jpeg)
 
 Photos by Refugee Support Greece
 ### Racists lock school gates in Oraiokastro
@@ -123,7 +123,7 @@ Photos by Refugee Support Greece
 Members of the “Patriotic Union” locked school gates to stop refugee kids attending school in Oraiokastro\.
 
 
-[![Λουκέτο στο 1ο Δημοτικό Σχολείο Ωραιοκάστρου έβαλαν ακροδεξιοί πριν την υποδοχή προσφυγόπουλων](assets/d12709b665c0/8f92_hqdefault.jpg "Λουκέτο στο 1ο Δημοτικό Σχολείο Ωραιοκάστρου έβαλαν ακροδεξιοί πριν την υποδοχή προσφυγόπουλων")](http://www.youtube.com/watch?v=5a7rs-cz4Ek)
+[![Λουκέτο στο 1ο Δημοτικό Σχολείο Ωραιοκάστρου έβαλαν ακροδεξιοί πριν την υποδοχή προσφυγόπουλων](../assets/d12709b665c0/8f92_hqdefault.jpg "Λουκέτο στο 1ο Δημοτικό Σχολείο Ωραιοκάστρου έβαλαν ακροδεξιοί πριν την υποδοχή προσφυγόπουλων")](http://www.youtube.com/watch?v=5a7rs-cz4Ek)
 
 
 Anti\-racist groups and residents turned out to support the kids and face down the racists at the school gates and the children were later able to enter through another building\.
@@ -132,7 +132,7 @@ Anti\-racist groups and residents turned out to support the kids and face down t
 In just a few days, Swisscross has been able to start or advance several new projects\. The group has started to work with No Borders and the social kitchen “The Other Human” to provide foodstuffs so that refugees can cook their own specialties and also provided 20kg of flour to Pakistani refugees so that they can start baking bread\.
 
 
-![Photo by schwizerchrüz\.ch Michael Räber](assets/d12709b665c0/1*J7TtFRv5QXGDpv_d0NMSzg.png)
+![Photo by schwizerchrüz\.ch Michael Räber](../assets/d12709b665c0/1*J7TtFRv5QXGDpv_d0NMSzg.png)
 
 Photo by schwizerchrüz\.ch Michael Räber
 
@@ -143,12 +143,12 @@ Photo by schwizerchrüz\.ch Michael Räber
 Swisscross is also building a community centre for the residents of Kara Tepe and Moria and previously helped people completely clean and empty the squats they are living in\.
 
 
-![Before and after\. Photo by schwizerchrüz\.ch Michael Räber](assets/d12709b665c0/1*CjHW0YuZz51B5ha8w15flg.jpeg)
+![Before and after\. Photo by schwizerchrüz\.ch Michael Räber](../assets/d12709b665c0/1*CjHW0YuZz51B5ha8w15flg.jpeg)
 
 Before and after\. Photo by schwizerchrüz\.ch Michael Räber
 
 
-![](assets/d12709b665c0/1*hD5yGHo20Yqo-_hH17Z-ow.jpeg)
+![](../assets/d12709b665c0/1*hD5yGHo20Yqo-_hH17Z-ow.jpeg)
 
 
 The group is [looking for new volunteers](https://swisscrosshelp.herokuapp.com/volunteers_en) for its projects on Lesvos\. For more volunteering opportunities you can check out [Greecevol](http://greecevol.info/) as usual\.
@@ -160,7 +160,7 @@ As a volunteer from Athens informed us, the backlog of full registration intervi
 The [Athens Volunteers Information and Co\-ordination Group](https://www.facebook.com/groups/AthensVolunteersInformation/) has compiled a [guidance note](https://drive.google.com/drive/folders/0B5eHzYChsokickdsVVMzcVNGeVU) highlighting some of the issues that volunteers need to think about when considering providing housing of refugees\. The guidance note includes “hints and tips for future management of housing needs” and has been updated to include legal issues as well\.
 
 
-![Photo by Nurture Project](assets/d12709b665c0/1*76TdCDPpM0C8lXBFyT5N0A.png)
+![Photo by Nurture Project](../assets/d12709b665c0/1*76TdCDPpM0C8lXBFyT5N0A.png)
 
 Photo by Nurture Project
 ### Arrivals, Registrations, Relocations
@@ -200,11 +200,11 @@ Last week, we wrote about the eviction of refugee camps in Turkey\. In an update
 
 
 
-![](assets/d12709b665c0/1*aDIDkGy_XYYaErDMg9B2Iw.jpeg)
+![](../assets/d12709b665c0/1*aDIDkGy_XYYaErDMg9B2Iw.jpeg)
 
 
 
-![Photos by [The Worldwide Tribe](https://www.facebook.com/theworldwidetribe/)](assets/d12709b665c0/1*7iIDXS1ZAf-_4VsImw_PRQ.jpeg)
+![Photos by [The Worldwide Tribe](https://www.facebook.com/theworldwidetribe/)](../assets/d12709b665c0/1*7iIDXS1ZAf-_4VsImw_PRQ.jpeg)
 
 Photos by [The Worldwide Tribe](https://www.facebook.com/theworldwidetribe/)
 

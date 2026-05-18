@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 19/02/2019: Anti-torture committee criticises situation of patients in detention…
+title: "AYS Daily Digest 19/02/2019: Anti-torture committee criticises situation of patients in detention…"
 author: Are You Syrious?
 date: 2019-02-20T10:14:14.707+0000
 last_modified_at: 2019-02-20T10:14:14.707+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,human-rights,detention,greece]
 description: Unaccompanied minor pushed back from Melilla wins case against Spain//Report on horrible living conditions in Samos//Four trials against…
 image:
-  path: assets/24c7be432075/1*Ilk0yKC6Bhenbifz-pf5ww.jpeg
+  path: ../assets/24c7be432075/1*Ilk0yKC6Bhenbifz-pf5ww.jpeg
 ---
 
 ### AYS Daily Digest 19/02/2019: Anti\-torture committee criticises situation of patients in detention facilities in Greece
 #### Unaccompanied minor pushed back from Melilla wins case against Spain//Report on horrible living conditions in Samos//Four trials against asylum seekers in Lesvos//Suspicious death in police custody in Athens//Greek government to end cash support within few months//EU Commissioner on Human Rights concerned over new Salvini Decree//34 new arrivals in the UK through the Channel//More news from France, Germany…
 
 
-![Credit: Samos Volunteers](assets/24c7be432075/1*Ilk0yKC6Bhenbifz-pf5ww.jpeg)
+![Credit: Samos Volunteers](../assets/24c7be432075/1*Ilk0yKC6Bhenbifz-pf5ww.jpeg)
 
 Credit: Samos Volunteers
 #### FEATURE
@@ -93,7 +93,7 @@ Another 14 people \(number to be confirmed\) have been [rescued](https://www.fac
 _Samos_
 
 
-![Credit: RSA — Refugee Support Aegean](assets/24c7be432075/1*gIFUTpL6rXIyQc-NP1PyRQ.png)
+![Credit: RSA — Refugee Support Aegean](../assets/24c7be432075/1*gIFUTpL6rXIyQc-NP1PyRQ.png)
 
 Credit: RSA — Refugee Support Aegean
 

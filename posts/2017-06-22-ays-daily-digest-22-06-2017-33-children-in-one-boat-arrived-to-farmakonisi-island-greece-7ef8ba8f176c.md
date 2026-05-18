@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 22/06/17: 33 children in one boat arrive on Farmakonisi in Greece
+title: "AYS Daily Digest 22/06/17: 33 children in one boat arrive on Farmakonisi in Greece"
 author: Are You Syrious?
 date: 2017-06-22T22:56:28.869+0100
 last_modified_at: 2017-07-03T02:07:38.986+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,greece,france,port-de-la-chapelle,mediterranean]
 description: Hundreds of people saved from the sea / What to do in case of a negative asylum application decision / Action day planned against the…
 image:
-  path: assets/7ef8ba8f176c/1*Ao72chLeDmiA-_4tP5ya7g.jpeg
+  path: ../assets/7ef8ba8f176c/1*Ao72chLeDmiA-_4tP5ya7g.jpeg
 ---
 
 ### AYS Daily Digest 22/06/17: 33 children in one boat arrive on Farmakonisi in Greece
@@ -15,7 +15,7 @@ image:
 _Hundreds of people saved from the sea / What to do in case of a negative asylum application decision / Action day planned against the evictions of refugee squats in Greece / Police violence continues in Paris / More incidents of police violence in Serbia / Free wifi in the city of Paris / Germany to continue deportations to Afghanistan / And more news…_
 
 
-![\(Photo by Susanne Friedel, SOS MÉDITERRANÉE\)](assets/7ef8ba8f176c/1*Ao72chLeDmiA-_4tP5ya7g.jpeg)
+![\(Photo by Susanne Friedel, SOS MÉDITERRANÉE\)](../assets/7ef8ba8f176c/1*Ao72chLeDmiA-_4tP5ya7g.jpeg)
 
 \(Photo by Susanne Friedel, SOS MÉDITERRANÉE\)
 ### FEATURE: Hundreds of people saved from the sea today
@@ -25,7 +25,7 @@ There is no time to rest for the people saving lives in the Mediterranean\. Afte
 [Jugend Rettet](https://www.facebook.com/JugendRettet/?fref=mentions) Group saved 127 lives together with sea\-eye\.org and [SOS MÉDITERRANÉE France](https://www.facebook.com/sosmedfrance/) \. In another joint effort last night which included Turkish cargo ships as well as the SOS MÉDITERRANÉE France team, 118 people were rescued at sea\.
 
 
-![\(Photo by Susanne Friedel, SOS MÉDITERRANÉE\)](assets/7ef8ba8f176c/1*7erYnwjRyEkGwBFujLKTiw.jpeg)
+![\(Photo by Susanne Friedel, SOS MÉDITERRANÉE\)](../assets/7ef8ba8f176c/1*7erYnwjRyEkGwBFujLKTiw.jpeg)
 
 \(Photo by Susanne Friedel, SOS MÉDITERRANÉE\)
 
@@ -115,7 +115,7 @@ Another organization, [Refugee Rights Data Project](http://www.refugeerights.org
 Tomorrow, June 23rd, marks an action day against the evictions of refugee squats in Greece\. Support is pouring in from all over Europe\.
 
 
-![\(Photo by City Plaza\)](assets/7ef8ba8f176c/1*8Z7vMxfnEXrMhsjxV8LQUg.jpeg)
+![\(Photo by City Plaza\)](../assets/7ef8ba8f176c/1*8Z7vMxfnEXrMhsjxV8LQUg.jpeg)
 
 \(Photo by City Plaza\)
 
@@ -191,7 +191,7 @@ See the full program of the festival [here](http://antiracistfestival.gr) \.
 
 
 
-![](assets/7ef8ba8f176c/1*PKipXSAMTS0sAuvBpPuFWA.jpeg)
+![](../assets/7ef8ba8f176c/1*PKipXSAMTS0sAuvBpPuFWA.jpeg)
 
 #### Upcoming heatwave
 
@@ -204,11 +204,11 @@ An even stronger heatwave is anticipated at the end of the month with temperatur
 A group of people recently tried to cross the Serbian border from Macedonia, but were arrested and beaten up by the police and apparently robbed, only to be pushed back to Macedonia at the end\. All of the refugees are from Iraq, and two were badly beaten up with batons\. One was even taken to the hospital\.
 
 
-![](assets/7ef8ba8f176c/1*nDNvP4YFrJ6rZn1TcE-ttA.jpeg)
+![](../assets/7ef8ba8f176c/1*nDNvP4YFrJ6rZn1TcE-ttA.jpeg)
 
 
 
-![Police abuse continues along the Macedonia\-Serbia border \(Photo by AYS\)](assets/7ef8ba8f176c/1*h8TI0UIrp9nJRuoujGh8Jg.jpeg)
+![Police abuse continues along the Macedonia\-Serbia border \(Photo by AYS\)](../assets/7ef8ba8f176c/1*h8TI0UIrp9nJRuoujGh8Jg.jpeg)
 
 Police abuse continues along the Macedonia\-Serbia border \(Photo by AYS\)
 ### FRANCE

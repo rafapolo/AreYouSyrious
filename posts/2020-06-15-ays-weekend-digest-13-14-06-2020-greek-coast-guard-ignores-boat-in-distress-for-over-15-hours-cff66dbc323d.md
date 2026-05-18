@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [newsletter,greece,france,refugees]
 description: Deadly Shipwreck Off Of Libyan Coast///People Evicted From Camps Sleeping Rough in Athens///Bosnian Law Against Distribution of Food///&…
 image:
-  path: assets/cff66dbc323d/0*x8_AgqzCpgHRReGr.jpeg
+  path: ../assets/cff66dbc323d/0*x8_AgqzCpgHRReGr.jpeg
 ---
 
 ### AYS Weekend Digest 13–14/06/2020 — Greek Coast Guard Ignores Boat in Distress for Over 15 Hours
@@ -15,7 +15,7 @@ image:
 Deadly Shipwreck Off Of Libyan Coast///People Evicted From Camps Sleeping Rough in Athens///Bosnian Law Against Distribution of Food///& More
 
 
-![Cartoonist: Emanuele Del Rosso, via [Cartoon Movement](https://www.cartoonmovement.com/cartoon/68183?fbclid=IwAR2KyvSKxaXjJKMkapmpaltj1EIy7GfaN3Sz2bntbhnma77T-5KbwqxR7t8)](assets/cff66dbc323d/0*x8_AgqzCpgHRReGr.jpeg)
+![Cartoonist: Emanuele Del Rosso, via [Cartoon Movement](https://www.cartoonmovement.com/cartoon/68183?fbclid=IwAR2KyvSKxaXjJKMkapmpaltj1EIy7GfaN3Sz2bntbhnma77T-5KbwqxR7t8)](../assets/cff66dbc323d/0*x8_AgqzCpgHRReGr.jpeg)
 
 Cartoonist: Emanuele Del Rosso, via [Cartoon Movement](https://www.cartoonmovement.com/cartoon/68183?fbclid=IwAR2KyvSKxaXjJKMkapmpaltj1EIy7GfaN3Sz2bntbhnma77T-5KbwqxR7t8)
 
@@ -69,7 +69,7 @@ Border Violence Monitoring and associated organizations have characterized the G
 A Black Lives Matter rally took place in Athens on Sunday\. Photos of the event can be found [here](https://www.facebook.com/SGYF2019/posts/2730558570600830?hc_location=ufi) \.
 
 
-![Photo credit: [The Syrian & Greek Youth Forum](https://www.facebook.com/SGYF2019/posts/2730558570600830?hc_location=ufi)](assets/cff66dbc323d/0*SY07g6SehqCrDra7)
+![Photo credit: [The Syrian & Greek Youth Forum](https://www.facebook.com/SGYF2019/posts/2730558570600830?hc_location=ufi)](../assets/cff66dbc323d/0*SY07g6SehqCrDra7)
 
 Photo credit: [The Syrian & Greek Youth Forum](https://www.facebook.com/SGYF2019/posts/2730558570600830?hc_location=ufi)
 
@@ -155,7 +155,7 @@ We don’t know what will happen at the meeting, but Berlin and Thuringia are li
 On Sunday a “Belt of Solidarity” demonstration took place in Berlin\. People gathered to show their opposition to the “ [deadly EU border regime\.](https://www.facebook.com/MareLiberumOfficial/posts/647551875973719) ” This demonstration was especially relevant after Saturday’s distress call in the Aegean was only resolved due to public pressure\.
 
 
-![Belt of Solidarity demonstration\. Source: [Mare Liberum](https://www.facebook.com/MareLiberumOfficial/photos/pcb.647551875973719/647551499307090/?type=3&theater)](assets/cff66dbc323d/0*pzAEuLI4I9Z1gHaz)
+![Belt of Solidarity demonstration\. Source: [Mare Liberum](https://www.facebook.com/MareLiberumOfficial/photos/pcb.647551875973719/647551499307090/?type=3&theater)](../assets/cff66dbc323d/0*pzAEuLI4I9Z1gHaz)
 
 Belt of Solidarity demonstration\. Source: [Mare Liberum](https://www.facebook.com/MareLiberumOfficial/photos/pcb.647551875973719/647551499307090/?type=3&theater)
 

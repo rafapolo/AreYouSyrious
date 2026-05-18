@@ -1,5 +1,5 @@
 ---
-title: AYS DIGEST 08.09.17: Croatia tries to Deport Unaccompanied Minor
+title: "AYS DIGEST 08.09.17: Croatia tries to Deport Unaccompanied Minor"
 author: Are You Syrious?
 date: 2017-09-09T03:06:13.299+0100
 last_modified_at: 2017-09-09T10:46:07.592+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,deportations,libya,human-rights,greece]
 description: Human Rights Abuses in Libya Condemned by High Commissioner//Highest arrival numbers since EU-Turkey Deal//Greece states it has no-one on…
 image:
-  path: assets/4d99d1a67dfe/1*Xb78h2JwN4c9a3MhAXCDVA.jpeg
+  path: ../assets/4d99d1a67dfe/1*Xb78h2JwN4c9a3MhAXCDVA.jpeg
 ---
 
 ### AYS DIGEST 08\.09\.17: Croatia tries to Deport Unaccompanied Minor
@@ -15,7 +15,7 @@ image:
 **_Human Rights Abuses in Libya Condemned by High Commissioner//Highest arrival numbers since EU\-Turkey Deal//Greece states it has no\-one on file eligible for relocation//Demonstration today in Germany//Deportation Warnings_**
 
 
-![Mustafa Shirzad](assets/4d99d1a67dfe/1*Xb78h2JwN4c9a3MhAXCDVA.jpeg)
+![Mustafa Shirzad](../assets/4d99d1a67dfe/1*Xb78h2JwN4c9a3MhAXCDVA.jpeg)
 
 Mustafa Shirzad
 
@@ -28,7 +28,7 @@ AYS is especially concerned by the fact that the minor was not informed of the p
 **Lebanon**
 
 
-![Climb Aid](assets/4d99d1a67dfe/1*hLLlKdoXMtLJ4FA38aHLgA.jpeg)
+![Climb Aid](../assets/4d99d1a67dfe/1*hLLlKdoXMtLJ4FA38aHLgA.jpeg)
 
 Climb Aid
 
@@ -163,7 +163,7 @@ Athens Volunteer Information and Co\-ordination Group have compiled a new list o
 [Solidarity Now](https://www.facebook.com/SolidarityNow/posts/1102918083175080) are starting free French classes in Athens and Thessaloniki for people being relocated to France, Belgium, Switzerland or Luxembourg\.
 
 
-![](assets/4d99d1a67dfe/1*OVG3gIucIFcDC-zeo5dZQQ.jpeg)
+![](../assets/4d99d1a67dfe/1*OVG3gIucIFcDC-zeo5dZQQ.jpeg)
 
 
 **Call for Volunteers**
@@ -197,7 +197,7 @@ A total of 229 people were safely rescued from the sea today by [Proactiva Open 
 **Demonstration Today**
 
 
-![Enough is Enough](assets/4d99d1a67dfe/1*CYVHu1YMq6n45JffHqwiFQ.png)
+![Enough is Enough](../assets/4d99d1a67dfe/1*CYVHu1YMq6n45JffHqwiFQ.png)
 
 Enough is Enough
 
@@ -210,7 +210,7 @@ Deportations from Dusseldorf to Afghanistan and Kosovo/Albania are due on Tuesda
 **France**
 
 
-![Care4Calais](assets/4d99d1a67dfe/1*rM8KvXLMog1mvLFzyIP-2A.jpeg)
+![Care4Calais](../assets/4d99d1a67dfe/1*rM8KvXLMog1mvLFzyIP-2A.jpeg)
 
 Care4Calais
 

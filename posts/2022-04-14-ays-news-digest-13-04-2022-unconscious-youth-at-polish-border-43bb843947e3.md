@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 13/04/2022: Unconscious youth at Polish border
+title: "AYS News Digest 13/04/2022: Unconscious youth at Polish border"
 author: Are You Syrious?
 date: 2022-04-14T11:35:47.741+0100
 last_modified_at: 2022-04-14T14:51:35.393+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,newsdigest,humanrights,migration,refugees]
 description: UN Committee on Enforced Disappearances “gravely concerned” about Greece // Italian detention centres are abusing detainees // Confiscated…
 image:
-  path: assets/43bb843947e3/1*RV1nV2AhC5yKG-IhGFU89Q.png
+  path: ../assets/43bb843947e3/1*RV1nV2AhC5yKG-IhGFU89Q.png
 ---
 
 ### AYS News Digest 13/04/2022: Unconscious youth at Polish border
@@ -16,7 +16,7 @@ image:
 #### **Unconscious youth at Polish border**
 
 
-![Photo Credit: Google Maps](assets/43bb843947e3/1*RV1nV2AhC5yKG-IhGFU89Q.png)
+![Photo Credit: Google Maps](../assets/43bb843947e3/1*RV1nV2AhC5yKG-IhGFU89Q.png)
 
 Photo Credit: Google Maps
 
@@ -60,7 +60,7 @@ In a different and positive story, The Justice of the Peace in Milan has ruled i
 #### UKRAINE
 
 
-![Photo Credit: [Blindspots](https://www.facebook.com/blindspots.support/posts/479098520666250)](assets/43bb843947e3/0*tQ6gcm8Szi_zp9nm)
+![Photo Credit: [Blindspots](https://www.facebook.com/blindspots.support/posts/479098520666250)](../assets/43bb843947e3/0*tQ6gcm8Szi_zp9nm)
 
 Photo Credit: [Blindspots](https://www.facebook.com/blindspots.support/posts/479098520666250)
 
@@ -86,7 +86,7 @@ An estimated 213,000 third\-country nationals have left Ukraine since the war be
 #### LIBYA
 
 
-![Photo Credit: [Refugees in Libya](https://twitter.com/MigControl/status/1513851420306550785?fbclid=IwAR0l4HM8VrEOSRQGGR0D4RyONmqnHY8B4Uv9r_lxdMPoT-RCVSrKBGb93cs)](assets/43bb843947e3/0*Y_9r9mclPbG-TsHp)
+![Photo Credit: [Refugees in Libya](https://twitter.com/MigControl/status/1513851420306550785?fbclid=IwAR0l4HM8VrEOSRQGGR0D4RyONmqnHY8B4Uv9r_lxdMPoT-RCVSrKBGb93cs)](../assets/43bb843947e3/0*Y_9r9mclPbG-TsHp)
 
 Photo Credit: [Refugees in Libya](https://twitter.com/MigControl/status/1513851420306550785?fbclid=IwAR0l4HM8VrEOSRQGGR0D4RyONmqnHY8B4Uv9r_lxdMPoT-RCVSrKBGb93cs)
 

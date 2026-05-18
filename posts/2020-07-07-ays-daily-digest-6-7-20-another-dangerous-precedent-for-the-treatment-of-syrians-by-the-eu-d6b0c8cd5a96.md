@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 6/7/20: Another dangerous precedent for the treatment of Syrians by the EU
+title: "AYS Daily Digest 6/7/20: Another dangerous precedent for the treatment of Syrians by the EU"
 author: Are You Syrious?
 date: 2020-07-07T16:46:15.716+0100
 last_modified_at: 2020-07-07T16:46:15.716+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,sweden,syria,europe,refugees]
 description: On the importance of identifying and cataloguing the bodies of those who drown in the Mediterranean / Updates from Chios / Report on the…
 image:
-  path: assets/d6b0c8cd5a96/0*s0Ca-IzTFGJugbSS
+  path: ../assets/d6b0c8cd5a96/0*s0Ca-IzTFGJugbSS
 ---
 
 ### AYS Daily Digest 6/7/20: Another dangerous precedent for the treatment of Syrians by the EU
 ### On the importance of identifying and cataloguing the bodies of those who drown in the Mediterranean / Updates from Chios / Report on the Balkans / News from Ventimiglia after months of lockdown and social distancing / five years past the peak of Europe’s migration crisis, fixing its broken common asylum system is no longer a top priority of the EU / & more news
 
 
-![](assets/d6b0c8cd5a96/0*Fzu-4plO4FKyJUvZ.jpeg)
+![](../assets/d6b0c8cd5a96/0*Fzu-4plO4FKyJUvZ.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----74b934763ee7----------------------)
@@ -22,11 +22,11 @@ image:
 [Jul 7](ays-daily-digest-6-7-20-another-dangerous-precedent-for-the-treatment-of-syrians-by-the-eu-74b934763ee7?source=post_page-----74b934763ee7----------------------) · 9 min read
 
 
-![](assets/d6b0c8cd5a96/0*0fw_6hTHrAL55a47)
+![](../assets/d6b0c8cd5a96/0*0fw_6hTHrAL55a47)
 
 
 
-![](assets/d6b0c8cd5a96/0*s0Ca-IzTFGJugbSS)
+![](../assets/d6b0c8cd5a96/0*s0Ca-IzTFGJugbSS)
 
 ### FEATURED
 
@@ -67,19 +67,19 @@ About 150 people have been kicked out of Vial \(most of whom have status\) \. Th
 There are tensions among the locals, who are very angry\. According to the local volunteers, “some have thrown rubbish on a road near Vial in what seemed to be an unorganized movement by some locals”\. The situation with waste disposal in Vial is dire, but no NGOs can go in and there has reportedly never been any will on behalf of the municipality to do anything about it\. The \(technical\) water still shuts off reportedly about 5pm each day, since UNHCR stepped in a few months ago and now provide 40,000 litres per day\. Regarding drinking water, people only get 2 litres a day, and sometimes in a family they will get even less per person\. Needless to say, the 2 litres is less than enough in this heat\.
 
 
-![](assets/d6b0c8cd5a96/0*mY8b21Os1TQ0167Y)
+![](../assets/d6b0c8cd5a96/0*mY8b21Os1TQ0167Y)
 
 
 
-![](assets/d6b0c8cd5a96/0*GwkbB5uNf6AoTtOt.jpeg)
+![](../assets/d6b0c8cd5a96/0*GwkbB5uNf6AoTtOt.jpeg)
 
 
 
-![](assets/d6b0c8cd5a96/0*jfIF6YmnYeerVVQw)
+![](../assets/d6b0c8cd5a96/0*jfIF6YmnYeerVVQw)
 
 
 
-![](assets/d6b0c8cd5a96/0*pSD9JXasROgoa7_Q.jpeg)
+![](../assets/d6b0c8cd5a96/0*pSD9JXasROgoa7_Q.jpeg)
 
 
 

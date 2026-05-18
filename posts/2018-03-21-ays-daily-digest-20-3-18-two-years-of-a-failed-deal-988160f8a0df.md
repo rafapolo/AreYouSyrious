@@ -1,13 +1,13 @@
 ---
-title: AYS Daily Digest 20/3/18: Two years of a failed deal
+title: "AYS Daily Digest 20/3/18: Two years of a failed deal"
 author: Are You Syrious?
 date: 2018-03-21T11:41:23.950+0000
 last_modified_at: 2018-03-21T14:57:37.118+0000
 categories: Are You Syrious?
 tags: [refugees,digest,germany,turkey,europe]
-description: EU-Turkey deal: Deportees from the Greek islands face problems before and after their deportation / French volunteer teams need donations…
+description: "EU-Turkey deal: Deportees from the Greek islands face problems before and after their deportation / French volunteer teams need donations…"
 image:
-  path: assets/988160f8a0df/1*ulKz2oGWDQVv9MK-xJorjA.png
+  path: ../assets/988160f8a0df/1*ulKz2oGWDQVv9MK-xJorjA.png
 ---
 
 ### AYS Daily Digest 20/3/18: Two years of a failed deal
@@ -17,7 +17,7 @@ image:
 ![“Two years ago the “EU\-Turkey Deal” took effect\!
  Since then, refugees are stuck on the islands, there is no improvement of the humanitarian situation on the islands, people are still facing inhumane and degrading conditions in the Hot spots\. Proceedings are still too long in the Hot spots and in breach of EU Migration Law\. The idea of a solidarity system is not implemented and has failed at the external borders of the EU\. 
  Our letter to the EU Commssion: [here](https://refugeelawclinicabroad.files.wordpress.com/2018/02/response_letter_to_eu_com_answer_chios_2018_01_24.pdf) \.
- Our statement regarding the conditions in the Hotspot Vial: [here](https://refugeelawclinicabroad.files.wordpress.com/2018/03/statement-vial_general_jan-18_english.pdf) \. “— [**Refugee Law Clinics Abroad in Chios**](https://www.facebook.com/rlcabroad/)](assets/988160f8a0df/1*ulKz2oGWDQVv9MK-xJorjA.png)
+ Our statement regarding the conditions in the Hotspot Vial: [here](https://refugeelawclinicabroad.files.wordpress.com/2018/03/statement-vial_general_jan-18_english.pdf) \. “— [**Refugee Law Clinics Abroad in Chios**](https://www.facebook.com/rlcabroad/)](../assets/988160f8a0df/1*ulKz2oGWDQVv9MK-xJorjA.png)
 
 “Two years ago the “EU\-Turkey Deal” took effect\!
  Since then, refugees are stuck on the islands, there is no improvement of the humanitarian situation on the islands, people are still facing inhumane and degrading conditions in the Hot spots\. Proceedings are still too long in the Hot spots and in breach of EU Migration Law\. The idea of a solidarity system is not implemented and has failed at the external borders of the EU\. 
@@ -61,7 +61,7 @@ In case of the need for free health care for children, from now on for about two
 Notara squat needs offer of vehicle to transfer furnitures from Kipseli area to the squat/they cover expenses of gasoline
 
 
-![](assets/988160f8a0df/1*awFuYxU0D30eC7XMCvY36g.jpeg)
+![](../assets/988160f8a0df/1*awFuYxU0D30eC7XMCvY36g.jpeg)
 
 #### BALKAN WEATHER REPORT
 
@@ -94,7 +94,7 @@ In Croatia it will be predominately cloudy wight precipitation, in most areas la
 A volunteer on the groud [shared](https://www.facebook.com/groups/refugeefoundationBENELUX/?ref=group_header) that at the moment, only morning and evening ‘Foodpack’ are distributed, no tea and no warm meals, and not much more\.
 
 
-![Photo: **‎** [Yolande Koster\-Kaiser](https://www.facebook.com/yolande.kosterkaiser?hc_ref=ARSJ1nhcROt1i1zDU-iHNgPrwmPVJ1AjjH1C-pKHIPP8FwbSM55972aNXbVXK43jhWU&fref=nf) ‎](assets/988160f8a0df/1*ZM2EMawxb6MiSVNQh9CqYg.jpeg)
+![Photo: **‎** [Yolande Koster\-Kaiser](https://www.facebook.com/yolande.kosterkaiser?hc_ref=ARSJ1nhcROt1i1zDU-iHNgPrwmPVJ1AjjH1C-pKHIPP8FwbSM55972aNXbVXK43jhWU&fref=nf) ‎](../assets/988160f8a0df/1*ZM2EMawxb6MiSVNQh9CqYg.jpeg)
 
 Photo: **‎** [Yolande Koster\-Kaiser](https://www.facebook.com/yolande.kosterkaiser?hc_ref=ARSJ1nhcROt1i1zDU-iHNgPrwmPVJ1AjjH1C-pKHIPP8FwbSM55972aNXbVXK43jhWU&fref=nf) ‎
 
@@ -113,7 +113,7 @@ Volunteers say that every day up to 100 persons are seen waiting in the front of
 “The UNHCR lets them wait every day in the front of their office and then they take them to the hostel to sleep,” we are told by the local volunteers\.
 
 
-![Waiting in front of the UNHCR offices](assets/988160f8a0df/1*tdxMfLYJhSFu1dT59hgXpQ.jpeg)
+![Waiting in front of the UNHCR offices](../assets/988160f8a0df/1*tdxMfLYJhSFu1dT59hgXpQ.jpeg)
 
 Waiting in front of the UNHCR offices
 
@@ -123,7 +123,7 @@ Volunteers are bringing them food, blankets, hot tea and trying to take care of 
 Consider donating to [Pomozi\.ba](https://www.indiegogo.com/projects/pomozi-ba-is-helping-syrian-refugees--2) , an charity from Bosnia and Herzegovina who has for a long time been helping those in need and has extensively supported the local teams now working and helping the refugees\. \(If you donate, please stress that is it for refugees\) \.
 
 
-![Recent help from Pomozi\.ba crew includes donation of 90 mattresses for refugees taken care of by the local volunteer team \(All photos were taken by the volunteers currently in Sarajevo area\)](assets/988160f8a0df/1*QjfZQyGNMOw8KwxPQzoAzA.jpeg)
+![Recent help from Pomozi\.ba crew includes donation of 90 mattresses for refugees taken care of by the local volunteer team \(All photos were taken by the volunteers currently in Sarajevo area\)](../assets/988160f8a0df/1*QjfZQyGNMOw8KwxPQzoAzA.jpeg)
 
 Recent help from Pomozi\.ba crew includes donation of 90 mattresses for refugees taken care of by the local volunteer team \(All photos were taken by the volunteers currently in Sarajevo area\)
 #### AUSTRIA / CROATIA
@@ -191,11 +191,11 @@ Please, consider donating or providing sleeping bags, duvets, blankets etc\.
 Read the full report [here](http://refugeerights.org.uk/wp-content/uploads/2018/03/RRDP_StillOnTheStreets.pdf) \.
 
 
-![](assets/988160f8a0df/1*2J52k7cWVKb1-YXNXgYbMg.jpeg)
+![](../assets/988160f8a0df/1*2J52k7cWVKb1-YXNXgYbMg.jpeg)
 
 
 
-![<Temperatures are dropping again in Paris\. Since the last week, heavy rains, snow, and low temperatures are making the day of people sleeping rough not easy\. As well as Tea and Coffee and information, together with [Sciences Po Refugee Help](https://www.facebook.com/sciencesporefugeehelp/?fref=mentions) we distributed blankets, socks, and foot and hand warmers to give a concrete support to refugees living in the street of Paris\. We cannot accept that such a situation is slowly becoming “normal”\. It is not acceptable to have people living in this conditions\.> Photos: [Solidarithé](https://www.facebook.com/solidarithe/)](assets/988160f8a0df/1*0WBCnJNw32S9oBzxFod8Ig.jpeg)
+![<Temperatures are dropping again in Paris\. Since the last week, heavy rains, snow, and low temperatures are making the day of people sleeping rough not easy\. As well as Tea and Coffee and information, together with [Sciences Po Refugee Help](https://www.facebook.com/sciencesporefugeehelp/?fref=mentions) we distributed blankets, socks, and foot and hand warmers to give a concrete support to refugees living in the street of Paris\. We cannot accept that such a situation is slowly becoming “normal”\. It is not acceptable to have people living in this conditions\.> Photos: [Solidarithé](https://www.facebook.com/solidarithe/)](../assets/988160f8a0df/1*0WBCnJNw32S9oBzxFod8Ig.jpeg)
 
 <Temperatures are dropping again in Paris\. Since the last week, heavy rains, snow, and low temperatures are making the day of people sleeping rough not easy\. As well as Tea and Coffee and information, together with [Sciences Po Refugee Help](https://www.facebook.com/sciencesporefugeehelp/?fref=mentions) we distributed blankets, socks, and foot and hand warmers to give a concrete support to refugees living in the street of Paris\. We cannot accept that such a situation is slowly becoming “normal”\. It is not acceptable to have people living in this conditions\.> Photos: [Solidarithé](https://www.facebook.com/solidarithe/)
 
@@ -277,7 +277,7 @@ It is time to show how many people stand with solidarity and saving human lives 
 Consider helping the team in ways available to you\.
 
 
-![](assets/988160f8a0df/1*Upx3uEslq23prb3deQpUyg.jpeg)
+![](../assets/988160f8a0df/1*Upx3uEslq23prb3deQpUyg.jpeg)
 
 
 

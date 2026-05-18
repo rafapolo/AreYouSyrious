@@ -7,13 +7,13 @@ categories:
 tags: [refugees,greece,france,serbia,miksaliste]
 description: Feature
 image:
-  path: assets/49e2149b4e66/1*U_I3JEsh4H_YJ_tBGA9zTw.jpeg
+  path: ../assets/49e2149b4e66/1*U_I3JEsh4H_YJ_tBGA9zTw.jpeg
 ---
 
 ### AYS NEWS DIGEST 20/10 — MSF calls attention to squalid conditions in Greek camps\.
 
 
-![Refugees after having been rescued in the Mediterranean by MOAS\. Photo Credit: Yara Nardi](assets/49e2149b4e66/1*U_I3JEsh4H_YJ_tBGA9zTw.jpeg)
+![Refugees after having been rescued in the Mediterranean by MOAS\. Photo Credit: Yara Nardi](../assets/49e2149b4e66/1*U_I3JEsh4H_YJ_tBGA9zTw.jpeg)
 
 Refugees after having been rescued in the Mediterranean by MOAS\. Photo Credit: Yara Nardi
 #### Feature
@@ -21,7 +21,7 @@ Refugees after having been rescued in the Mediterranean by MOAS\. Photo Credit: 
 In its new report, MSF has condemned the unacceptable conditions that refugees are forced to endure\. They no longer have to fear bombs, but this does not mean that there isn’t plenty of room to complain\. The report is titled “ [Greece in 2016: Vulnerable People Left Behind](http://reliefweb.int/sites/reliefweb.int/files/resources/Summary_Report_Greece_201016.pdf) ”, and calls attention to the difficulties faced by the 60,000 refugees stranded in Greece\. The most atrocious examples are to be seen in the Hotspots on the islands, which are currently at 200% over capacity and are preventing refugees from coming to the mainland until the painfully slow bureaucracy processes their asylum application\. the majority of whom live in flimsy tents and otherwise no protection from the elements, even as winter approaches\.
 
 
-![An example of the kind of tents refugees must dwell in\. Taken in Softex Camp\. Photo Credit: Gerhild Salzer](assets/49e2149b4e66/1*OCwoc-S_Yrj3Nfdl5Is5Uw.jpeg)
+![An example of the kind of tents refugees must dwell in\. Taken in Softex Camp\. Photo Credit: Gerhild Salzer](../assets/49e2149b4e66/1*OCwoc-S_Yrj3Nfdl5Is5Uw.jpeg)
 
 An example of the kind of tents refugees must dwell in\. Taken in Softex Camp\. Photo Credit: Gerhild Salzer
 
@@ -32,14 +32,14 @@ In addition to the weather\-related difficulties, services are severely lacking\
 Greece alone cannot be blamed, of course\. Mismanagement of resources and incompetence of authorities aside, country has been in the midst of one financial crisis or another for several years\. This is why a large part of the blame falls on the structural failures of the EU\. For instance, of the 160,000 refugees who were to be resettled from Greece and Italy to other EU countries, only a bit over 5,000, in other words 3%, have been relocated to other countries\. Europe has the resources to care for these people, and yet it seems that policy makers spend most of their time sending insincere condolences unbacked by concrete action\.
 
 
-![“RIP human rights\. EU = shame\.” A refugee protests outside of UNHCR headquarters in Athens\. Photo Credit: NoBorders](assets/49e2149b4e66/1*TZPaojKapGV0Klsve9uImg.jpeg)
+![“RIP human rights\. EU = shame\.” A refugee protests outside of UNHCR headquarters in Athens\. Photo Credit: NoBorders](../assets/49e2149b4e66/1*TZPaojKapGV0Klsve9uImg.jpeg)
 
 “RIP human rights\. EU = shame\.” A refugee protests outside of UNHCR headquarters in Athens\. Photo Credit: NoBorders
 #### Syria
 ### Amidst a break in hostilities, residents of East Aleppo protest against regime violence\.
 
 
-![](assets/49e2149b4e66/1*qjFVORnfPq41gZhaoui_7A.jpeg)
+![](../assets/49e2149b4e66/1*qjFVORnfPq41gZhaoui_7A.jpeg)
 
 
 Taking advantage of today’s relative calm, the residents of rebel\-occupied Aleppo have taken the chance to protest against the regime’s brutality\. The people refuse to give in to the regime’s violent attempts to force them to vacate their homes in an attempt to further isolate rebel fighters and break their morale\.
@@ -56,7 +56,7 @@ An airstrike hit the White Helmets’ center in Kafranbel\. Consequently, 3 volu
 IHA, Epigrafes Nea Magnisia, and Team Bananas are coming together to provide a much needed service to to Northern Greece\. It’s only October, and it is already starting to get quite chilly\. Project Clothes is now working with refugee camps in Northern Greece, with its “shop” providing a wide array of clothing in proper sizes for men, women, and children\.
 
 
-![](assets/49e2149b4e66/1*j3qwpyLayMjds3zctKum9w.jpeg)
+![](../assets/49e2149b4e66/1*j3qwpyLayMjds3zctKum9w.jpeg)
 
 
 The project is in the process of expanding its mobile truck “shop” and selection of clothing\. You may help them do so by making a contribution [here](https://www.gofundme.com/project-clothes-2utxcp8) \.
@@ -75,13 +75,13 @@ The indicates that over 500 people continue to be dependent on the services prov
 Miksaliste is also in need for blankets, because many refugees are sleeping on the street, as well as warm clothing and shoes, as cold days are coming\. Also, they need hygiene products, and the most razors, shampoos and soaps\. Please, help if you can\.
 
 
-![Miskalište’s IT center provides an opportunity for refugees to use computers to stay in touch with their loved ones\.](assets/49e2149b4e66/1*CfRmIF68LqgqB9-gxwCJSA.png)
+![Miskalište’s IT center provides an opportunity for refugees to use computers to stay in touch with their loved ones\.](../assets/49e2149b4e66/1*CfRmIF68LqgqB9-gxwCJSA.png)
 
 Miskalište’s IT center provides an opportunity for refugees to use computers to stay in touch with their loved ones\.
 #### France
 
 
-![Man in Jaures prays as the evacuation takes place\. Photo Credit:Rose Lecat](assets/49e2149b4e66/1*9TGSb97SClpEu7o9fdGVZw.jpeg)
+![Man in Jaures prays as the evacuation takes place\. Photo Credit:Rose Lecat](../assets/49e2149b4e66/1*9TGSb97SClpEu7o9fdGVZw.jpeg)
 
 Man in Jaures prays as the evacuation takes place\. Photo Credit:Rose Lecat
 ### Tents in Jaures metro area destroyed by French authorities\.
@@ -97,7 +97,7 @@ Pasta, rice, lentils, beans, onion, canned tomatoes, peas, potatoes, sugar, coff
 ### MOAS has rescued 434 people from boats\.
 
 
-![Refugees after having been rescued in the Mediterranean by MOAS\. Photo Credit: Yara Nardi](assets/49e2149b4e66/1*ZVykvlwnXRyu9OAAHjlDfA.jpeg)
+![Refugees after having been rescued in the Mediterranean by MOAS\. Photo Credit: Yara Nardi](../assets/49e2149b4e66/1*ZVykvlwnXRyu9OAAHjlDfA.jpeg)
 
 Refugees after having been rescued in the Mediterranean by MOAS\. Photo Credit: Yara Nardi
 #### General

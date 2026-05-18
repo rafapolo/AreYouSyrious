@@ -1,5 +1,5 @@
 ---
-title: AYS Special — Lebanon: Dreams bigger than Shatila
+title: "AYS Special — Lebanon: Dreams bigger than Shatila"
 author: Are You Syrious?
 date: 2018-02-06T11:16:00.981+0000
 last_modified_at: 2018-03-01T13:36:52.029+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [syria,lebanon,palestine,refugees,special]
 description: In the Palestinian refugee camp Shatila, everyday life isn’t easy. Both for those who has been living here for a long time, and for those…
 image:
-  path: assets/281df6272cbe/1*X_DowRxDciQPiVWAzlcx1Q.jpeg
+  path: ../assets/281df6272cbe/1*X_DowRxDciQPiVWAzlcx1Q.jpeg
 ---
 
 ### AYS Special — Lebanon: Dreams bigger than Shatila
@@ -15,7 +15,7 @@ image:
 _In the Palestinian refugee camp Shatila, everyday life isn’t easy\. Both for those who has been living here for a long time, and for those who came more recently\. About 22 000 people live on a surface not much bigger than a square kilometre\. Since the war in Syria, the number of residents has doubled, the rents increased and the atmosphere changed\. The alleys are narrow and the dangers lurks everywhere\. Despite that, there is a strong unity in what the residents call “little Palestine”\._
 
 
-![Children and youth’s are hanging out in the camps only youth center\. This is the only playground in Shatila\. Photo: Samuel Bramley](assets/281df6272cbe/1*X_DowRxDciQPiVWAzlcx1Q.jpeg)
+![Children and youth’s are hanging out in the camps only youth center\. This is the only playground in Shatila\. Photo: Samuel Bramley](../assets/281df6272cbe/1*X_DowRxDciQPiVWAzlcx1Q.jpeg)
 
 Children and youth’s are hanging out in the camps only youth center\. This is the only playground in Shatila\. Photo: Samuel Bramley
 
@@ -24,11 +24,11 @@ Narrow streets gets a new meaning in the Palestinian refugee camp Shatila, south
 But, Shatila isn’t Lebanon\. It’s a small version of Palestine, which Lebanese authorities has little or no control over\. Palestinian political organizations such as Hamas and Fatah runs the camp with iron hand\. Especially Fatah’s green flags are visible in and around Shatila\.
 
 
-![](assets/281df6272cbe/1*EurSkDTJAmRYVeW9hQKhhA.jpeg)
+![](../assets/281df6272cbe/1*EurSkDTJAmRYVeW9hQKhhA.jpeg)
 
 
 
-![Abu Mouajhed at his office at CYC\. A few metres away, Shatilas busy mainstreet is located\. Photo: Samuel Bramley](assets/281df6272cbe/1*E_YB_poKLVhrHXPqkNWmLA.jpeg)
+![Abu Mouajhed at his office at CYC\. A few metres away, Shatilas busy mainstreet is located\. Photo: Samuel Bramley](../assets/281df6272cbe/1*E_YB_poKLVhrHXPqkNWmLA.jpeg)
 
 Abu Mouajhed at his office at CYC\. A few metres away, Shatilas busy mainstreet is located\. Photo: Samuel Bramley
 
@@ -41,11 +41,11 @@ Abu Mouajhed is running Chatila Youth Center \(CYC\), located in the heart of th
 Electricity wires creates what looks like a spider net if looking towards the sky, which it is impossible to catch more than a small glimpse of in most locations\. The incidents related to the poor electricity situation is many\. But just as with so much in Shatila, there is no reliable statistics over the number of accidents\.
 
 
-![](assets/281df6272cbe/1*6eCiNFeD-Pf-p_oSzrTLIA.jpeg)
+![](../assets/281df6272cbe/1*6eCiNFeD-Pf-p_oSzrTLIA.jpeg)
 
 
 
-![The electricity situation in Shatila is nowhere close safe\. Especially for children, this creates an uncertain environment\. Photo: Samuel Bramley](assets/281df6272cbe/1*9gPPUAeudAuUC0Ns4I7w0Q.jpeg)
+![The electricity situation in Shatila is nowhere close safe\. Especially for children, this creates an uncertain environment\. Photo: Samuel Bramley](../assets/281df6272cbe/1*9gPPUAeudAuUC0Ns4I7w0Q.jpeg)
 
 The electricity situation in Shatila is nowhere close safe\. Especially for children, this creates an uncertain environment\. Photo: Samuel Bramley
 
@@ -74,16 +74,16 @@ Shatila has gone through several periods of change\. During the Lebanese civil w
 “I said that we need a center for youths and children\.”
 
 
-![In Shatila, the only playground is surrounded by high buildings\. Even though it is one of the most open spaces here, the sun rarely hits the ground\. Photos: Samuel Bramley](assets/281df6272cbe/1*k-tXlrwtanOqUxcp5f_yng.jpeg)
+![In Shatila, the only playground is surrounded by high buildings\. Even though it is one of the most open spaces here, the sun rarely hits the ground\. Photos: Samuel Bramley](../assets/281df6272cbe/1*k-tXlrwtanOqUxcp5f_yng.jpeg)
 
 In Shatila, the only playground is surrounded by high buildings\. Even though it is one of the most open spaces here, the sun rarely hits the ground\. Photos: Samuel Bramley
 
 
-![](assets/281df6272cbe/1*ACPeLr_MyXMxVtSuZmyfQg.jpeg)
+![](../assets/281df6272cbe/1*ACPeLr_MyXMxVtSuZmyfQg.jpeg)
 
 
 
-![In Shatila’s mosqe, memories from the histrorical and brutal Sabra\-Shatila massacre are clearly visible\. All the victims are honoured and remembered on the walls\. Photo: Samuel Bramley](assets/281df6272cbe/1*nwmpWRNTAzIEetqv537hVA.jpeg)
+![In Shatila’s mosqe, memories from the histrorical and brutal Sabra\-Shatila massacre are clearly visible\. All the victims are honoured and remembered on the walls\. Photo: Samuel Bramley](../assets/281df6272cbe/1*nwmpWRNTAzIEetqv537hVA.jpeg)
 
 In Shatila’s mosqe, memories from the histrorical and brutal Sabra\-Shatila massacre are clearly visible\. All the victims are honoured and remembered on the walls\. Photo: Samuel Bramley
 
@@ -107,7 +107,7 @@ In a tiny but clean apartment with beige carpets, a narrow bed with patterned be
 “If I could, I would go back to Jarmouk instantly\. There, it was more safe\. Here we have nothing\. Nothing is as it should be,” says Tahani Abowani\.
 
 
-![Tahani Abowani is not keen on letting her son Ali Al Omary out of sight\. Photo: Samuel Bramley](assets/281df6272cbe/1*ZUKq6TAJQG_4T3aApbXpUA.jpeg)
+![Tahani Abowani is not keen on letting her son Ali Al Omary out of sight\. Photo: Samuel Bramley](../assets/281df6272cbe/1*ZUKq6TAJQG_4T3aApbXpUA.jpeg)
 
 Tahani Abowani is not keen on letting her son Ali Al Omary out of sight\. Photo: Samuel Bramley
 
@@ -118,16 +118,16 @@ According to UNRWA, it used to be 150 000 people before the war in Syria\. If Ta
 “We left Syria and came here to get to a safe place\. But it didn’t turn out to be true\. In Shatila, small things are becoming big since everyone is at ease,” says Tahani Abowani\.
 
 
-![](assets/281df6272cbe/1*WSaIbsQIjMHZ23ggMoVmPw.jpeg)
+![](../assets/281df6272cbe/1*WSaIbsQIjMHZ23ggMoVmPw.jpeg)
 
 
 
-![Tahani Abowani shows an old photo from Jarmouk from when her kids Sondos Al Omary \(right\) and Ali Al Omary were younger\. Photo: Samuel Bramley](assets/281df6272cbe/1*urT0hbPQrtiDbt4WmgHtvA.jpeg)
+![Tahani Abowani shows an old photo from Jarmouk from when her kids Sondos Al Omary \(right\) and Ali Al Omary were younger\. Photo: Samuel Bramley](../assets/281df6272cbe/1*urT0hbPQrtiDbt4WmgHtvA.jpeg)
 
 Tahani Abowani shows an old photo from Jarmouk from when her kids Sondos Al Omary \(right\) and Ali Al Omary were younger\. Photo: Samuel Bramley
 
 
-![Not far away from her is Tahani Abowani living\. She prefers to stay at home, in the narrow alleys she doesn’t feel safe\. Photo: Samuel Bramley](assets/281df6272cbe/1*njg-TAYJ1laCHDv7DVL27A.jpeg)
+![Not far away from her is Tahani Abowani living\. She prefers to stay at home, in the narrow alleys she doesn’t feel safe\. Photo: Samuel Bramley](../assets/281df6272cbe/1*njg-TAYJ1laCHDv7DVL27A.jpeg)
 
 Not far away from her is Tahani Abowani living\. She prefers to stay at home, in the narrow alleys she doesn’t feel safe\. Photo: Samuel Bramley
 
@@ -147,12 +147,12 @@ The sound of 22 000 voices is mixed with the sounds from scooters and call for p
 “It’s different now\. I can not open my window when I leave home because it smell so badly on the streets\. 25 years ago everything was better here,” says Ayda Yassien\.
 
 
-![Liyla Frajee has never been to Palestine, but regardless of that she laughs high and sings a song about her country of origin\. Photo: Samuel Bramley](assets/281df6272cbe/1*o221SZWPh9a7Rkx9_iH_BQ.jpeg)
+![Liyla Frajee has never been to Palestine, but regardless of that she laughs high and sings a song about her country of origin\. Photo: Samuel Bramley](../assets/281df6272cbe/1*o221SZWPh9a7Rkx9_iH_BQ.jpeg)
 
 Liyla Frajee has never been to Palestine, but regardless of that she laughs high and sings a song about her country of origin\. Photo: Samuel Bramley
 
 
-![Omar Ayuoti \(middle\) and his mother Ayda Yassien \(right\) is having coffee with their neighbours\. Photo: Samuel Bramley](assets/281df6272cbe/1*jJJs-J29U_irGx8n-jPaSQ.jpeg)
+![Omar Ayuoti \(middle\) and his mother Ayda Yassien \(right\) is having coffee with their neighbours\. Photo: Samuel Bramley](../assets/281df6272cbe/1*jJJs-J29U_irGx8n-jPaSQ.jpeg)
 
 Omar Ayuoti \(middle\) and his mother Ayda Yassien \(right\) is having coffee with their neighbours\. Photo: Samuel Bramley
 
@@ -170,7 +170,7 @@ Maram Salal is fifteen years old and has lived in Shatila all her life\. With a 
 “I know that it isn’t safe here, but I’m not afraid\. You can avoid what’s dangerous if you want to\. It’s just not to question and stay away from trouble,” she says\.
 
 
-![Maram Salal is 15 years old and knows nothing else than living in Shatila\. But, in the future she would like to travel and learn more about life outside of Shatila\. Photo: Samuel Bramley](assets/281df6272cbe/1*RQnJ9xDJ3eud9beTjCX0mw.jpeg)
+![Maram Salal is 15 years old and knows nothing else than living in Shatila\. But, in the future she would like to travel and learn more about life outside of Shatila\. Photo: Samuel Bramley](../assets/281df6272cbe/1*RQnJ9xDJ3eud9beTjCX0mw.jpeg)
 
 Maram Salal is 15 years old and knows nothing else than living in Shatila\. But, in the future she would like to travel and learn more about life outside of Shatila\. Photo: Samuel Bramley
 
@@ -186,7 +186,7 @@ One can be to get a scholarship for a good university that otherwise costs more 
 “I want to become a doctor\. But if I can’t work as one, I’ll open a shop here in Shatila,” he says\.
 
 
-![The view downwards the street from Ayda Yassien’s and Omars apartment\. Photo: Samuel Bramley](assets/281df6272cbe/1*NXIJH_ctElUvjY7NAhzCjw.jpeg)
+![The view downwards the street from Ayda Yassien’s and Omars apartment\. Photo: Samuel Bramley](../assets/281df6272cbe/1*NXIJH_ctElUvjY7NAhzCjw.jpeg)
 
 The view downwards the street from Ayda Yassien’s and Omars apartment\. Photo: Samuel Bramley
 
@@ -202,7 +202,7 @@ Abu Mojahed believes that youths in Shatila struggle in head\-wind\. It is hard 
 “I’m picking them up from school here in the camp since mom works in the afternoons\. When she get back, I’ll go to CYC and studies,” says Maram Salal\.
 
 
-![Maram Salal pick up her 11\-year old brother Ibrahim Salal from school every day\. When he grows up, he would like to become a policer officer\. Photo: Samuel Bramley](assets/281df6272cbe/1*p1aGpzYO8MoGIQiE_f112g.jpeg)
+![Maram Salal pick up her 11\-year old brother Ibrahim Salal from school every day\. When he grows up, he would like to become a policer officer\. Photo: Samuel Bramley](../assets/281df6272cbe/1*p1aGpzYO8MoGIQiE_f112g.jpeg)
 
 Maram Salal pick up her 11\-year old brother Ibrahim Salal from school every day\. When he grows up, he would like to become a policer officer\. Photo: Samuel Bramley
 

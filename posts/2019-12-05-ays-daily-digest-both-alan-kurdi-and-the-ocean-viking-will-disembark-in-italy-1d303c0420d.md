@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,greece,italy,digest,germany]
 description: 57 people died heading to Canary islands // new Greek closed detention plan possibly halted // deportations from Germany and Sweden to…
 image:
-  path: assets/1d303c0420d/1*WtRI8Q0LKVjeOvxH4hozAQ.jpeg
+  path: ../assets/1d303c0420d/1*WtRI8Q0LKVjeOvxH4hozAQ.jpeg
 ---
 
 ### AYS Daily Digest 4/12/19 Both Alan Kurdi and the Ocean Viking will disembark in Italy
@@ -16,7 +16,7 @@ _57 people died heading to Canary islands // New Greek closed detention plan pos
 ### Feature: Both Alan Kurdi and the Ocean Viking will land in Italy
 
 
-![Photo by SOS MEDITERRANEE](assets/1d303c0420d/1*WtRI8Q0LKVjeOvxH4hozAQ.jpeg)
+![Photo by SOS MEDITERRANEE](../assets/1d303c0420d/1*WtRI8Q0LKVjeOvxH4hozAQ.jpeg)
 
 Photo by SOS MEDITERRANEE
 
@@ -81,13 +81,13 @@ The government’s plan to build closed camps on the islands might be halted, si
 
 
 
-![**A four\-year\-old** arrived without any parents to Moria on Tuesday\. “He’s got pink crocs and dirty Olaf pants\. He’s probably from Syria…” Photo by [Trude Jacobsen](https://www.facebook.com/groups/763313107147281/permalink/1973386429473270/)](assets/1d303c0420d/1*Tptbl8I1OAhCmCozzQQO-Q.jpeg)
+![**A four\-year\-old** arrived without any parents to Moria on Tuesday\. “He’s got pink crocs and dirty Olaf pants\. He’s probably from Syria…” Photo by [Trude Jacobsen](https://www.facebook.com/groups/763313107147281/permalink/1973386429473270/)](../assets/1d303c0420d/1*Tptbl8I1OAhCmCozzQQO-Q.jpeg)
 
 **A four\-year\-old** arrived without any parents to Moria on Tuesday\. “He’s got pink crocs and dirty Olaf pants\. He’s probably from Syria…” Photo by [Trude Jacobsen](https://www.facebook.com/groups/763313107147281/permalink/1973386429473270/)
 ### Bosnia and Herzegovina
 
 
-![Vujak camp 2019\. Photo provided by [Info Migrants](https://www.facebook.com/InfoMigrants/photos/pcb.2423597541095350/2423632451091859/?type=3&theater)](assets/1d303c0420d/1*RXoObuoBPQKMCpclluLHJw.jpeg)
+![Vujak camp 2019\. Photo provided by [Info Migrants](https://www.facebook.com/InfoMigrants/photos/pcb.2423597541095350/2423632451091859/?type=3&theater)](../assets/1d303c0420d/1*RXoObuoBPQKMCpclluLHJw.jpeg)
 
 Vujak camp 2019\. Photo provided by [Info Migrants](https://www.facebook.com/InfoMigrants/photos/pcb.2423597541095350/2423632451091859/?type=3&theater)
 
@@ -96,7 +96,7 @@ As covered in yesterday’s digest, continued sever winter conditions are haunti
 [4,000 people](https://erccportal.jrc.ec.europa.eu/ercmaps/20191128_DM_Bosnia_refugee.pdf?fbclid=IwAR3U6bVbSciyyvwmERdoRMNoGnzmTSbHnRFmMF0mFwjljPmdwr47oJguKCU) are estimated to be sleeping in these “rough conditions\.”
 
 
-![“It snowed so heavily in Vucjak camp on the Bosnia & Herzegovina–Croatian Border last night that many tents collapsed\! This is what happens when the Balkan Route From Hell Freezes over\! \! But what about the almost 1000 men and boys living there?\! What about them\!” Photo by [Ruhi Loren](https://www.facebook.com/photo.php?fbid=3074963869187167&set=gm.529490177900899&type=3&theater)](assets/1d303c0420d/1*_9QFDdvd-3w0xyHLs8KdhA.jpeg)
+![“It snowed so heavily in Vucjak camp on the Bosnia & Herzegovina–Croatian Border last night that many tents collapsed\! This is what happens when the Balkan Route From Hell Freezes over\! \! But what about the almost 1000 men and boys living there?\! What about them\!” Photo by [Ruhi Loren](https://www.facebook.com/photo.php?fbid=3074963869187167&set=gm.529490177900899&type=3&theater)](../assets/1d303c0420d/1*_9QFDdvd-3w0xyHLs8KdhA.jpeg)
 
 “It snowed so heavily in Vucjak camp on the Bosnia & Herzegovina–Croatian Border last night that many tents collapsed\! This is what happens when the Balkan Route From Hell Freezes over\! \! But what about the almost 1000 men and boys living there?\! What about them\!” Photo by [Ruhi Loren](https://www.facebook.com/photo.php?fbid=3074963869187167&set=gm.529490177900899&type=3&theater)
 ### Germany
@@ -105,7 +105,7 @@ On the same day that the Japanese doctor was murdered in Afghanistan along with 
 ### Sweden
 
 
-![“Protest: against the new forced deportation which as been ordered, Tuesday, 10 December 2019\! \! \! Stockholm: 1\. At The City Hall, Craft Street, 5:45 pm–7\.00 pm\. 2\. at the storage units in mast at 1:00 pm–until the buses go to Arlanda\. For Info: Elizabeth Golden, 0739 52 90 91” Photo by [Look at Sweden Now](https://www.facebook.com/LookAtSwedenNow/photos/bc.AbqG3SbsVFIflEThKij-U46toNEvg0XXe2ywWaWLJDUrMQ0zWW3WRt5Uya8YkG49lLE5yqRQTS2-exvOgkxuNXjg_VtwBkMBYMUZMQJMzWq3uvnoYBVaOlx2gvUsE134Yy2XsIvd6yy1btKewlVdpd0Hi1TfQwnbYokw3MfjDzVn0qJSVf_0r6K_uY4dssl6X_M/103065321184443/?type=1&opaqueCursor=Abp09vZpDAJVeITFob9-Hs3fvPxk_H_zG9LgugdLmLf2I07mVZpKfEAfdjm-pVfR_ILGiqnDGVOZUKI2C8G35nlxjIBua2RZLbBKoLoiGk2E4UZnkJ-TFymwu6LIYVWeVo-pAOB8m_DAurJKvOgF18P18twvnwg15JmbylV_veCzUh1jZhNMkve75t3P3U3BwGBI7tGVVWXv_SXyuh5EaUgwk01MYXrXTacfh8EhnFPdgXPmNGimpLcVfEQEZcxlz_aHePXcDdK0QaAgFmzsJXViTnmAEFnk-FdIpKeLuOOdm5ScTE9-fBgo2zJ_E1js99kt7-28eBNGL_40TslTlv_x9iBOkhJm_hhKMWtAM9PgJx1VH9jNb0Aze07kTWP9yyHSq7bfNDqVLu0LeKiaSFasaMwdnqJ7AITsxPCjjtsaZalqjKyNZ1wP1a3hVxOVz19-pZ1UyjoSK1pSgKbBQ-pD&theater)](assets/1d303c0420d/1*VDsG81rXr__xkuHDcJq-SA.jpeg)
+![“Protest: against the new forced deportation which as been ordered, Tuesday, 10 December 2019\! \! \! Stockholm: 1\. At The City Hall, Craft Street, 5:45 pm–7\.00 pm\. 2\. at the storage units in mast at 1:00 pm–until the buses go to Arlanda\. For Info: Elizabeth Golden, 0739 52 90 91” Photo by [Look at Sweden Now](https://www.facebook.com/LookAtSwedenNow/photos/bc.AbqG3SbsVFIflEThKij-U46toNEvg0XXe2ywWaWLJDUrMQ0zWW3WRt5Uya8YkG49lLE5yqRQTS2-exvOgkxuNXjg_VtwBkMBYMUZMQJMzWq3uvnoYBVaOlx2gvUsE134Yy2XsIvd6yy1btKewlVdpd0Hi1TfQwnbYokw3MfjDzVn0qJSVf_0r6K_uY4dssl6X_M/103065321184443/?type=1&opaqueCursor=Abp09vZpDAJVeITFob9-Hs3fvPxk_H_zG9LgugdLmLf2I07mVZpKfEAfdjm-pVfR_ILGiqnDGVOZUKI2C8G35nlxjIBua2RZLbBKoLoiGk2E4UZnkJ-TFymwu6LIYVWeVo-pAOB8m_DAurJKvOgF18P18twvnwg15JmbylV_veCzUh1jZhNMkve75t3P3U3BwGBI7tGVVWXv_SXyuh5EaUgwk01MYXrXTacfh8EhnFPdgXPmNGimpLcVfEQEZcxlz_aHePXcDdK0QaAgFmzsJXViTnmAEFnk-FdIpKeLuOOdm5ScTE9-fBgo2zJ_E1js99kt7-28eBNGL_40TslTlv_x9iBOkhJm_hhKMWtAM9PgJx1VH9jNb0Aze07kTWP9yyHSq7bfNDqVLu0LeKiaSFasaMwdnqJ7AITsxPCjjtsaZalqjKyNZ1wP1a3hVxOVz19-pZ1UyjoSK1pSgKbBQ-pD&theater)](../assets/1d303c0420d/1*VDsG81rXr__xkuHDcJq-SA.jpeg)
 
 “Protest: against the new forced deportation which as been ordered, Tuesday, 10 December 2019\! \! \! Stockholm: 1\. At The City Hall, Craft Street, 5:45 pm–7\.00 pm\. 2\. at the storage units in mast at 1:00 pm–until the buses go to Arlanda\. For Info: Elizabeth Golden, 0739 52 90 91” Photo by [Look at Sweden Now](https://www.facebook.com/LookAtSwedenNow/photos/bc.AbqG3SbsVFIflEThKij-U46toNEvg0XXe2ywWaWLJDUrMQ0zWW3WRt5Uya8YkG49lLE5yqRQTS2-exvOgkxuNXjg_VtwBkMBYMUZMQJMzWq3uvnoYBVaOlx2gvUsE134Yy2XsIvd6yy1btKewlVdpd0Hi1TfQwnbYokw3MfjDzVn0qJSVf_0r6K_uY4dssl6X_M/103065321184443/?type=1&opaqueCursor=Abp09vZpDAJVeITFob9-Hs3fvPxk_H_zG9LgugdLmLf2I07mVZpKfEAfdjm-pVfR_ILGiqnDGVOZUKI2C8G35nlxjIBua2RZLbBKoLoiGk2E4UZnkJ-TFymwu6LIYVWeVo-pAOB8m_DAurJKvOgF18P18twvnwg15JmbylV_veCzUh1jZhNMkve75t3P3U3BwGBI7tGVVWXv_SXyuh5EaUgwk01MYXrXTacfh8EhnFPdgXPmNGimpLcVfEQEZcxlz_aHePXcDdK0QaAgFmzsJXViTnmAEFnk-FdIpKeLuOOdm5ScTE9-fBgo2zJ_E1js99kt7-28eBNGL_40TslTlv_x9iBOkhJm_hhKMWtAM9PgJx1VH9jNb0Aze07kTWP9yyHSq7bfNDqVLu0LeKiaSFasaMwdnqJ7AITsxPCjjtsaZalqjKyNZ1wP1a3hVxOVz19-pZ1UyjoSK1pSgKbBQ-pD&theater)
 ### Lastly…
@@ -113,7 +113,7 @@ On the same day that the Japanese doctor was murdered in Afghanistan along with 
 … in reference to the news from yesterday’s digest about Croatian police deporting Nigerian students to Bosnia and Herzegovina \(who had literally only come to the country to play in a tennis tournament\)…
 
 
-![“Sad but true” Photo provided by Erman Hadzic](assets/1d303c0420d/1*Q9RbY-K1P5BxVJL4KA5xBQ.jpeg)
+![“Sad but true” Photo provided by Erman Hadzic](../assets/1d303c0420d/1*Q9RbY-K1P5BxVJL4KA5xBQ.jpeg)
 
 “Sad but true” Photo provided by Erman Hadzic
 

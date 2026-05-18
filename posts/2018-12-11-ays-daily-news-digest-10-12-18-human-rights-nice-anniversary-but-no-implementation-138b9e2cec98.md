@@ -1,5 +1,5 @@
 ---
-title: AYS Daily News Digest 10/12/18: Human Rights — Nice anniversary, but no implementation
+title: "AYS Daily News Digest 10/12/18: Human Rights — Nice anniversary, but no implementation"
 author: Are You Syrious?
 date: 2018-12-11T13:23:33.113+0000
 last_modified_at: 2018-12-11T15:41:31.391+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,human-rights,news]
 description: State of things for human rights of people fleeing danger and those helping them / Stansted 15 defendants guilty of terror charges /…
 image:
-  path: assets/138b9e2cec98/1*m0iEUZjgBuO54BCAWHZOJg.jpeg
+  path: ../assets/138b9e2cec98/1*m0iEUZjgBuO54BCAWHZOJg.jpeg
 ---
 
 ### AYS Daily News Digest 10/12/18: Human Rights — Nice anniversary, but no implementation
 #### State of things for human rights of people fleeing danger and those helping them / Stansted 15 defendants guilty of terror charges / Demands for ‘decongestion’ on Samos / push backs on the increase from Hungary and Romania / MSF appeals to the UN in Libya / support protest ahead of the coming verdict in Briançon / violent treatment of refugees in Bosnia / more news
 
 
-![Photo: [FOTOMOVIMIENTO 15M](https://www.facebook.com/Fotomovimiento.org/?tn-str=k%2AF&hc_location=group_dialog)](assets/138b9e2cec98/1*m0iEUZjgBuO54BCAWHZOJg.jpeg)
+![Photo: [FOTOMOVIMIENTO 15M](https://www.facebook.com/Fotomovimiento.org/?tn-str=k%2AF&hc_location=group_dialog)](../assets/138b9e2cec98/1*m0iEUZjgBuO54BCAWHZOJg.jpeg)
 
 Photo: [FOTOMOVIMIENTO 15M](https://www.facebook.com/Fotomovimiento.org/?tn-str=k%2AF&hc_location=group_dialog)
 #### FEATURE
@@ -56,7 +56,7 @@ The rule of \(out\)law against people and, ultimately, in favour of criminals, s
 
 
 
-![](assets/138b9e2cec98/1*FDFHRav5DoEMeWVC77DJEg.jpeg)
+![](../assets/138b9e2cec98/1*FDFHRav5DoEMeWVC77DJEg.jpeg)
 
 #### GENERAL
 
@@ -91,7 +91,7 @@ As confirmed to AYS volunteers last week by residents of the camp, women staying
 #### GREECE
 
 
-![](assets/138b9e2cec98/1*TlPsLL6TIy-TQpbHTdKW0A.jpeg)
+![](../assets/138b9e2cec98/1*TlPsLL6TIy-TQpbHTdKW0A.jpeg)
 
 
 
@@ -100,7 +100,7 @@ As confirmed to AYS volunteers last week by residents of the camp, women staying
 ### Chios
 
 
-![“ distributing toiletries to more that 70 families on Saturday the new arrivals told us that they have lost everything on their journey”, volunteers write \(Photo: [Janne Hegna](https://www.facebook.com/janne.hegna?__tn__=%2CdlCH-R-R&eid=ARAPR1MfqxiZYFz4kPwYVwwBhyX2NDmm2d6PcYBRTB2e53OF0clImyot1GMp7RSHGRWJ-nutYVYOGlLH&hc_ref=ARTFktUgbyp7yK30tqC5cvuLEMSgyHvgfTbJeM_tRvE9NDLE887HQ1HqQE33h8cmDRQ) \)](assets/138b9e2cec98/1*oaR7wkI_sEHQ5KVisH-ReA.jpeg)
+![“ distributing toiletries to more that 70 families on Saturday the new arrivals told us that they have lost everything on their journey”, volunteers write \(Photo: [Janne Hegna](https://www.facebook.com/janne.hegna?__tn__=%2CdlCH-R-R&eid=ARAPR1MfqxiZYFz4kPwYVwwBhyX2NDmm2d6PcYBRTB2e53OF0clImyot1GMp7RSHGRWJ-nutYVYOGlLH&hc_ref=ARTFktUgbyp7yK30tqC5cvuLEMSgyHvgfTbJeM_tRvE9NDLE887HQ1HqQE33h8cmDRQ) \)](../assets/138b9e2cec98/1*oaR7wkI_sEHQ5KVisH-ReA.jpeg)
 
 “ distributing toiletries to more that 70 families on Saturday the new arrivals told us that they have lost everything on their journey”, volunteers write \(Photo: [Janne Hegna](https://www.facebook.com/janne.hegna?__tn__=%2CdlCH-R-R&eid=ARAPR1MfqxiZYFz4kPwYVwwBhyX2NDmm2d6PcYBRTB2e53OF0clImyot1GMp7RSHGRWJ-nutYVYOGlLH&hc_ref=ARTFktUgbyp7yK30tqC5cvuLEMSgyHvgfTbJeM_tRvE9NDLE887HQ1HqQE33h8cmDRQ) \)
 ### Demands for ‘decongestion’ on Samos
@@ -153,7 +153,7 @@ The police from the Bihać area continues with internal push\-backs, trying to p
 This practice of internal push backs started in October\. The police in Bihać claims they do that due to the lack of accommodation capacities in the area\.
 
 
-![Photo: AYS](assets/138b9e2cec98/1*gBDPHj7dbz8uw2ArodXuJg.jpeg)
+![Photo: AYS](../assets/138b9e2cec98/1*gBDPHj7dbz8uw2ArodXuJg.jpeg)
 
 Photo: AYS
 
@@ -178,7 +178,7 @@ Photo: AYS
 Human rights defenders need your support, today more than ever\.
 
 
-![](assets/138b9e2cec98/1*a8HAjrNz91RlIIFAoDIWKg.jpeg)
+![](../assets/138b9e2cec98/1*a8HAjrNz91RlIIFAoDIWKg.jpeg)
 
 ### Indefinite arbitrary detention for those found at sea and brought back to Libya
 
@@ -225,26 +225,26 @@ The [MSF program manager for Libya wrote an open letter today to Ghassan Salamé
 To start off the Human Rights day, at 5:30 in the morning the Italian police started an eviction in Rome\.
 
 
-![](assets/138b9e2cec98/1*QogTnshG69ElGYHkWJfp5A.jpeg)
+![](../assets/138b9e2cec98/1*QogTnshG69ElGYHkWJfp5A.jpeg)
 
 
 
-![Photo by: [Melting Pot Europa](https://www.facebook.com/meltingpoteuropa/?tn-str=k%2AF)](assets/138b9e2cec98/1*abT9ufgJ3vl6uMaBtTBnCg.jpeg)
+![Photo by: [Melting Pot Europa](https://www.facebook.com/meltingpoteuropa/?tn-str=k%2AF)](../assets/138b9e2cec98/1*abT9ufgJ3vl6uMaBtTBnCg.jpeg)
 
 Photo by: [Melting Pot Europa](https://www.facebook.com/meltingpoteuropa/?tn-str=k%2AF)
 
 Dozens of trucks and armored police and Carabinieri were in front of the structure occupied in Via Tiburtina as the former Penicillina factory was cleared out, though by that time reportedly most of the people and things were already out of the premises\. The people who used to stay there are mostly asylum seekers, people under international protection, people whose residency status was irregular and migrants previously forced out of the official centres\.
 
 
-![](assets/138b9e2cec98/1*iaQrAVpnMX7e_CrS9TD9vA.jpeg)
+![](../assets/138b9e2cec98/1*iaQrAVpnMX7e_CrS9TD9vA.jpeg)
 
 
 
-![](assets/138b9e2cec98/1*fJKKxEW86NZE392sY3ftTQ.jpeg)
+![](../assets/138b9e2cec98/1*fJKKxEW86NZE392sY3ftTQ.jpeg)
 
 
 
-![Photos from Rome by: [Melting Pot Europa](https://www.facebook.com/meltingpoteuropa/?tn-str=k%2AF)](assets/138b9e2cec98/1*3Vhbd4VM7F-dzIg0wcyzLQ.jpeg)
+![Photos from Rome by: [Melting Pot Europa](https://www.facebook.com/meltingpoteuropa/?tn-str=k%2AF)](../assets/138b9e2cec98/1*3Vhbd4VM7F-dzIg0wcyzLQ.jpeg)
 
 Photos from Rome by: [Melting Pot Europa](https://www.facebook.com/meltingpoteuropa/?tn-str=k%2AF)
 
@@ -311,7 +311,7 @@ In solidarity with the French people prosecuted for helping people on the move, 
 
 
 
-![by: [HDR 05](https://www.facebook.com/hauteduranceenresistance/?tn-str=k%2AF)](assets/138b9e2cec98/1*8ABt7nvHvIuzMX8I3FtjEw.jpeg)
+![by: [HDR 05](https://www.facebook.com/hauteduranceenresistance/?tn-str=k%2AF)](../assets/138b9e2cec98/1*8ABt7nvHvIuzMX8I3FtjEw.jpeg)
 
 by: [HDR 05](https://www.facebook.com/hauteduranceenresistance/?tn-str=k%2AF)
 
@@ -320,11 +320,11 @@ by: [HDR 05](https://www.facebook.com/hauteduranceenresistance/?tn-str=k%2AF)
 
 
 
-![](assets/138b9e2cec98/1*AeEvGjAOlila6xfP2cJeUA.jpeg)
+![](../assets/138b9e2cec98/1*AeEvGjAOlila6xfP2cJeUA.jpeg)
 
 
 
-![Protest photos: [L’Auberge des Migrants](https://www.facebook.com/AubergeMigrants/?tn-str=k%2AF)](assets/138b9e2cec98/1*GaizGoeEQjwH-X-ROHgEGw.jpeg)
+![Protest photos: [L’Auberge des Migrants](https://www.facebook.com/AubergeMigrants/?tn-str=k%2AF)](../assets/138b9e2cec98/1*GaizGoeEQjwH-X-ROHgEGw.jpeg)
 
 Protest photos: [L’Auberge des Migrants](https://www.facebook.com/AubergeMigrants/?tn-str=k%2AF)
 
@@ -334,11 +334,11 @@ People in exile can download the guide very quickly if they have a smartphone\. 
 Have a nice week\!”
 
 
-![](assets/138b9e2cec98/1*TutEd0_FEH78DmInN-amDg.jpeg)
+![](../assets/138b9e2cec98/1*TutEd0_FEH78DmInN-amDg.jpeg)
 
 
 
-![Young people in the lines for food distribution are larger in numbers, SAJE groups reports \(Photos: [SAJE](https://www.facebook.com/lesajeparis/?__xts__%5B0%5D=68.ARAb-qY58KAoMfRvFDrm-0DQN03kW5TScv3izTMV1PmKRzlefU7S5Oy3tFORQDJqzTic5BgSs78t1zAxKNCE3ee8e1GxkURle9kwQSWUsW_JUdx7ZoJCgiL5VvFWhDwRlHios8CJuyURMHcgElcbboTSNt7Z6IQlagzIBGNlwNc9Dx2orYlLKm0Udz2rOp3bJ6lyd91qIX94DnSbcHHIusGJUKc-yxqgM3N2ViKz8Z4e0EBQ2FgPztEpwxpe7z4ibgBgv_0RKlpLZPZwQm1YSHE3bhXeO4xPhmTp_s9bzJpUBt0EnnESI9CfRRH3U50mGiJp8beXkmKFKrwH2p484JEbOeBcwfHQP7QkUlm9XmyUEba_1Hga4s8&__tn__=k%2AF&tn-str=k%2AF) \)](assets/138b9e2cec98/1*5uVOCQjoZ_49oIJudiVxFQ.jpeg)
+![Young people in the lines for food distribution are larger in numbers, SAJE groups reports \(Photos: [SAJE](https://www.facebook.com/lesajeparis/?__xts__%5B0%5D=68.ARAb-qY58KAoMfRvFDrm-0DQN03kW5TScv3izTMV1PmKRzlefU7S5Oy3tFORQDJqzTic5BgSs78t1zAxKNCE3ee8e1GxkURle9kwQSWUsW_JUdx7ZoJCgiL5VvFWhDwRlHios8CJuyURMHcgElcbboTSNt7Z6IQlagzIBGNlwNc9Dx2orYlLKm0Udz2rOp3bJ6lyd91qIX94DnSbcHHIusGJUKc-yxqgM3N2ViKz8Z4e0EBQ2FgPztEpwxpe7z4ibgBgv_0RKlpLZPZwQm1YSHE3bhXeO4xPhmTp_s9bzJpUBt0EnnESI9CfRRH3U50mGiJp8beXkmKFKrwH2p484JEbOeBcwfHQP7QkUlm9XmyUEba_1Hga4s8&__tn__=k%2AF&tn-str=k%2AF) \)](../assets/138b9e2cec98/1*5uVOCQjoZ_49oIJudiVxFQ.jpeg)
 
 Young people in the lines for food distribution are larger in numbers, SAJE groups reports \(Photos: [SAJE](https://www.facebook.com/lesajeparis/?__xts__%5B0%5D=68.ARAb-qY58KAoMfRvFDrm-0DQN03kW5TScv3izTMV1PmKRzlefU7S5Oy3tFORQDJqzTic5BgSs78t1zAxKNCE3ee8e1GxkURle9kwQSWUsW_JUdx7ZoJCgiL5VvFWhDwRlHios8CJuyURMHcgElcbboTSNt7Z6IQlagzIBGNlwNc9Dx2orYlLKm0Udz2rOp3bJ6lyd91qIX94DnSbcHHIusGJUKc-yxqgM3N2ViKz8Z4e0EBQ2FgPztEpwxpe7z4ibgBgv_0RKlpLZPZwQm1YSHE3bhXeO4xPhmTp_s9bzJpUBt0EnnESI9CfRRH3U50mGiJp8beXkmKFKrwH2p484JEbOeBcwfHQP7QkUlm9XmyUEba_1Hga4s8&__tn__=k%2AF&tn-str=k%2AF) \)
 
@@ -350,15 +350,15 @@ The State Office for Refugee Affairs \(LAF\) systematically delays registration,
 #### DENMARK
 
 
-![](assets/138b9e2cec98/1*uiPgLJsVzzIWx06qifTHeQ.jpeg)
+![](../assets/138b9e2cec98/1*uiPgLJsVzzIWx06qifTHeQ.jpeg)
 
 
 
-![](assets/138b9e2cec98/1*6nbSi4EtLW6Ve8jekDhG8A.jpeg)
+![](../assets/138b9e2cec98/1*6nbSi4EtLW6Ve8jekDhG8A.jpeg)
 
 
 
-![Protests in Denmark, photos: [Camilla Lynge](https://www.facebook.com/camilla.lynge.16?__tn__=%2CdlCH-R-R&eid=ARB6QYq2jMQE0WdglfRkXfbAhnfHmGY1EEZnReyGJNSe8do7OOqEuuy_MQd_XxsLXBzRJ61Jy0pMSDIR&hc_ref=ARTr0QanWKeFFksFwXVYVKwJNR4dA6ZqfKhL7F2zmqnVRkiFFwz6JA3fR8RsMhilCRU)](assets/138b9e2cec98/1*AOEm2cWoLAAiIRQO-QwDPg.jpeg)
+![Protests in Denmark, photos: [Camilla Lynge](https://www.facebook.com/camilla.lynge.16?__tn__=%2CdlCH-R-R&eid=ARB6QYq2jMQE0WdglfRkXfbAhnfHmGY1EEZnReyGJNSe8do7OOqEuuy_MQd_XxsLXBzRJ61Jy0pMSDIR&hc_ref=ARTr0QanWKeFFksFwXVYVKwJNR4dA6ZqfKhL7F2zmqnVRkiFFwz6JA3fR8RsMhilCRU)](../assets/138b9e2cec98/1*AOEm2cWoLAAiIRQO-QwDPg.jpeg)
 
 Protests in Denmark, photos: [Camilla Lynge](https://www.facebook.com/camilla.lynge.16?__tn__=%2CdlCH-R-R&eid=ARB6QYq2jMQE0WdglfRkXfbAhnfHmGY1EEZnReyGJNSe8do7OOqEuuy_MQd_XxsLXBzRJ61Jy0pMSDIR&hc_ref=ARTr0QanWKeFFksFwXVYVKwJNR4dA6ZqfKhL7F2zmqnVRkiFFwz6JA3fR8RsMhilCRU)
 

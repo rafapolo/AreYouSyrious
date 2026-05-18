@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 10/10/19: World Mental Health Day — Psychological distress worse than ever, with…
+title: "AYS Daily Digest 10/10/19: World Mental Health Day — Psychological distress worse than ever, with…"
 author: Are You Syrious?
 date: 2019-10-11T12:04:21.853+0100
 last_modified_at: 2019-10-11T12:04:21.853+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,mental-health,migration,europe]
 description: Tens of thousands displaced people after first Turkish attacks in Syria / In Libya, UNHCR & IOM of whitewashing the deadly cost of…
 image:
-  path: assets/280c43629df8/0*qIHUXY-AtEf9k536
+  path: ../assets/280c43629df8/0*qIHUXY-AtEf9k536
 ---
 
 ### AYS Daily Digest 10/10/19: World Mental Health Day — Psychological distress worse than ever, with new attacks, displacement and thousands stuck in inhumane conditions
 #### Tens of thousands displaced people after first Turkish attacks in Syria / In Libya, UNHCR & IOM of whitewashing the deadly cost of European Union migration policy to safeguard tens of millions of euro of funding / Balkan Route still leaving scars for life on those who pass it / Need for help across France’s provisional campsites / & more news
 
 
-![Gael Cloarec/SOPA Images/LightRocket via Getty Images](assets/280c43629df8/0*qIHUXY-AtEf9k536)
+![Gael Cloarec/SOPA Images/LightRocket via Getty Images](../assets/280c43629df8/0*qIHUXY-AtEf9k536)
 
 Gael Cloarec/SOPA Images/LightRocket via Getty Images
 #### FEATURED
@@ -40,11 +40,11 @@ Reportedly, the **aid workers said they had been told to leave by their organisa
 In the UK, protesters in Bristol have blocked the entrance to BAE Filton, shutting down multiple businesses who trade with Turkey:
 
 
-![](assets/280c43629df8/1*nNJzBJ7bpNHhReM7_K4gew.jpeg)
+![](../assets/280c43629df8/1*nNJzBJ7bpNHhReM7_K4gew.jpeg)
 
 
 
-![Photo: Friends of Kurdistan — Manchester](assets/280c43629df8/1*5ppdR7AK5KfUMiRqagoMlQ.jpeg)
+![Photo: Friends of Kurdistan — Manchester](../assets/280c43629df8/1*5ppdR7AK5KfUMiRqagoMlQ.jpeg)
 
 Photo: Friends of Kurdistan — Manchester
 
@@ -55,7 +55,7 @@ Emergency demonstrations have been scheduled for London, Tuesday in Liverpool, n
 
 
 
-![Boycott against Turkish Airlines at Barcelona airport in support of Rojava for the invasion of Turkey \(Photo: [The Women’s Revolution in Rojava](https://www.facebook.com/WomenLifeFreedom/?tn-str=k%2AF&hc_location=group_dialog) \)](assets/280c43629df8/1*p6tFLe1ZtYD5YgdTNoA08Q.jpeg)
+![Boycott against Turkish Airlines at Barcelona airport in support of Rojava for the invasion of Turkey \(Photo: [The Women’s Revolution in Rojava](https://www.facebook.com/WomenLifeFreedom/?tn-str=k%2AF&hc_location=group_dialog) \)](../assets/280c43629df8/1*p6tFLe1ZtYD5YgdTNoA08Q.jpeg)
 
 Boycott against Turkish Airlines at Barcelona airport in support of Rojava for the invasion of Turkey \(Photo: [The Women’s Revolution in Rojava](https://www.facebook.com/WomenLifeFreedom/?tn-str=k%2AF&hc_location=group_dialog) \)
 
@@ -86,7 +86,7 @@ On World Mental Health Day [Side by Side : Humanitarian Aid to Refugees](https:/
 Messages from Abu Salim detention centre, Tripoli, on Monday:
 
 
-![](assets/280c43629df8/1*hgVPzE2SfCstbSVstcquNw.jpeg)
+![](../assets/280c43629df8/1*hgVPzE2SfCstbSVstcquNw.jpeg)
 
 
 Following this, at least eight people left the dc to go & find smugglers in Zuwara\. One was a 17\-year\-old, according to others still in Abu Salim, Sally Hayden reports\.
@@ -223,13 +223,13 @@ Greek police [say](http://www.ekathimerini.com/245363/article/ekathimerini/news/
 In Velika Kladuša, local media reported a death of a person they think was a refugee migrant\. The person was reportedly hit by a car in an accident that happened close to Podzvizd\.
 
 
-![Ključ, Bosnia and Herzegovina — still one of the most desperate stations on the route to the west\. Photo: Sanella L\.](assets/280c43629df8/1*qxmu59EP5WNrJJZ1LbTdgQ.jpeg)
+![Ključ, Bosnia and Herzegovina — still one of the most desperate stations on the route to the west\. Photo: Sanella L\.](../assets/280c43629df8/1*qxmu59EP5WNrJJZ1LbTdgQ.jpeg)
 
 Ključ, Bosnia and Herzegovina — still one of the most desperate stations on the route to the west\. Photo: Sanella L\.
 #### ITALY
 
 
-![In Trieste \(Italy\) peeople arrive with new wounds after having passed the ‘Balkan Route’ — Photo: [Lorena Fornasir](https://www.facebook.com/lorena.fornasir?__tn__=%2Cd%2AF%2AF-R&eid=ARDFNU0msZz-KbnHmyPZVEUe9tSEP1n6u0GIH7ehUJJ7HhWZjVu_7IEYYwwX-c1-W3z3d3yNrAtAyV3E&tn-str=%2AF&hc_location=group_dialog)](assets/280c43629df8/1*57GgmiIOgF_00UhMBKuAeQ.jpeg)
+![In Trieste \(Italy\) peeople arrive with new wounds after having passed the ‘Balkan Route’ — Photo: [Lorena Fornasir](https://www.facebook.com/lorena.fornasir?__tn__=%2Cd%2AF%2AF-R&eid=ARDFNU0msZz-KbnHmyPZVEUe9tSEP1n6u0GIH7ehUJJ7HhWZjVu_7IEYYwwX-c1-W3z3d3yNrAtAyV3E&tn-str=%2AF&hc_location=group_dialog)](../assets/280c43629df8/1*57GgmiIOgF_00UhMBKuAeQ.jpeg)
 
 In Trieste \(Italy\) peeople arrive with new wounds after having passed the ‘Balkan Route’ — Photo: [Lorena Fornasir](https://www.facebook.com/lorena.fornasir?__tn__=%2Cd%2AF%2AF-R&eid=ARDFNU0msZz-KbnHmyPZVEUe9tSEP1n6u0GIH7ehUJJ7HhWZjVu_7IEYYwwX-c1-W3z3d3yNrAtAyV3E&tn-str=%2AF&hc_location=group_dialog)
 
@@ -241,7 +241,7 @@ Prosecutors have criticised over jailing of Eritrean man wrongly identified as h
 It has also put an immense strain on aid organisations, who are working tirelessly to meet people’s needs\. The weather has taken a turn for the worse; it is windy, rainy and cold\. People are sleeping on wet ground\. Adults and children are wrapping themselves in cling film to stay warm\.
 
 
-![](assets/280c43629df8/1*Yq_Qqg3pDmQs3Pby9YFmNQ.jpeg)
+![](../assets/280c43629df8/1*Yq_Qqg3pDmQs3Pby9YFmNQ.jpeg)
 
 
 Since the eviction on the 27th of September RWC has distributed over 90 tents, an average of 6 tents a day, and of course this has rapidly exhausted our stock\.”
@@ -251,7 +251,7 @@ Since the eviction on the 27th of September RWC has distributed over 90 tents, a
 **£14 can buy a winter sleeping bag**
 
 
-![Photos: [Refugee Women’s Centre](https://www.facebook.com/refugeewomenscentre/?tn-str=k%2AF&hc_location=group_dialog)](assets/280c43629df8/1*5H6PQKx619z-Cmqz_xyE0A.jpeg)
+![Photos: [Refugee Women’s Centre](https://www.facebook.com/refugeewomenscentre/?tn-str=k%2AF&hc_location=group_dialog)](../assets/280c43629df8/1*5H6PQKx619z-Cmqz_xyE0A.jpeg)
 
 Photos: [Refugee Women’s Centre](https://www.facebook.com/refugeewomenscentre/?tn-str=k%2AF&hc_location=group_dialog)
 

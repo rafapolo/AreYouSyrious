@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 5/4/17: After 15 months in Germany, woken up and deported to Croatia
+title: "AYS Daily Digest 5/4/17: After 15 months in Germany, woken up and deported to Croatia"
 author: Are You Syrious?
 date: 2017-04-06T03:10:26.952+0100
 last_modified_at: 2017-04-06T13:43:05.205+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,croatia,greece,dutch]
 description: Croatia — rising number or refused demands for asylum and deported people from other EU countries, lowest number of relocations // UN…
 image:
-  path: assets/2f3956f7c7b9/1*C3XfuOJkEeuZSyi2DySxSA.jpeg
+  path: ../assets/2f3956f7c7b9/1*C3XfuOJkEeuZSyi2DySxSA.jpeg
 ---
 
 ### AYS Daily Digest 5/4/17: After 15 months in Germany, woken up and deported to Croatia
@@ -15,7 +15,7 @@ image:
 
 
 ![The chemical bombing of Syria and innocent children that nobody is held responsible for — — — — an illustration by Shahrokh Heidari
-Via [Syrilution Creative Arts](https://www.facebook.com/syrilution/)](assets/2f3956f7c7b9/1*C3XfuOJkEeuZSyi2DySxSA.jpeg)
+Via [Syrilution Creative Arts](https://www.facebook.com/syrilution/)](../assets/2f3956f7c7b9/1*C3XfuOJkEeuZSyi2DySxSA.jpeg)
 
 The chemical bombing of Syria and innocent children that nobody is held responsible for — — — — an illustration by Shahrokh Heidari
 Via [Syrilution Creative Arts](https://www.facebook.com/syrilution/)
@@ -40,7 +40,7 @@ The average waiting time for receiving asylum in Croatia should be about 6 month
 After a period of 9 months, asylum seekers can get a work permit\. Asylum seekers have the right to free emergency medical assistance and necessary treatment \(life threatening conditions\), while those who have asylum in the country have the same rights \(health insurance\) as other Croatian citizens\.
 
 
-![circle of numbers in different languages made by the elementary school students at the afternoon homework class in Porin \(Photo:AYS\)](assets/2f3956f7c7b9/1*37_T26Ckvf9rNW20o4vjSg.jpeg)
+![circle of numbers in different languages made by the elementary school students at the afternoon homework class in Porin \(Photo:AYS\)](../assets/2f3956f7c7b9/1*37_T26Ckvf9rNW20o4vjSg.jpeg)
 
 circle of numbers in different languages made by the elementary school students at the afternoon homework class in Porin \(Photo:AYS\)
 
@@ -74,27 +74,27 @@ However, the U\.S\. government believes the chemical agent sarin was used in the
 #### SEA
 
 
-![](assets/2f3956f7c7b9/1*vp2KyH8pnR4ZNAN2DVK7tg.jpeg)
+![](../assets/2f3956f7c7b9/1*vp2KyH8pnR4ZNAN2DVK7tg.jpeg)
 
 
 
 ![“After 2 days spent patrolling its assigned area of operations since the launch of the new mission, today the Phoenix was engaged in 3 different rescues, pulling to safety 320 people from 3 different boats\. 
-2 boats were spotted this early morning by our maritime patrol aircraft, this year for the first time operating alongside our Phoenix, allowing the rescue to be conducted smoothly and with no danger\. Operations have been ongoing for approximately 12 hours since the early morning\.” — [**MOAS**](https://www.facebook.com/migrantoffshoreaidstation/)](assets/2f3956f7c7b9/1*UHw8C8XUuHLLL9N2Xwky8Q.jpeg)
+2 boats were spotted this early morning by our maritime patrol aircraft, this year for the first time operating alongside our Phoenix, allowing the rescue to be conducted smoothly and with no danger\. Operations have been ongoing for approximately 12 hours since the early morning\.” — [**MOAS**](https://www.facebook.com/migrantoffshoreaidstation/)](../assets/2f3956f7c7b9/1*UHw8C8XUuHLLL9N2Xwky8Q.jpeg)
 
 “After 2 days spent patrolling its assigned area of operations since the launch of the new mission, today the Phoenix was engaged in 3 different rescues, pulling to safety 320 people from 3 different boats\. 
 2 boats were spotted this early morning by our maritime patrol aircraft, this year for the first time operating alongside our Phoenix, allowing the rescue to be conducted smoothly and with no danger\. Operations have been ongoing for approximately 12 hours since the early morning\.” — [**MOAS**](https://www.facebook.com/migrantoffshoreaidstation/)
 
 
-![“The MSF Aquarius has rescued 101 [p](https://twitter.com/hashtag/people?src=hash) eople from a rubber boat\. They’re exhausted and seasick but relieved to be alive\.” — [**MSF Sea**](https://twitter.com/MSF_Sea)](assets/2f3956f7c7b9/1*zI580lK_PUJ21N5Cd99naA.jpeg)
+![“The MSF Aquarius has rescued 101 [p](https://twitter.com/hashtag/people?src=hash) eople from a rubber boat\. They’re exhausted and seasick but relieved to be alive\.” — [**MSF Sea**](https://twitter.com/MSF_Sea)](../assets/2f3956f7c7b9/1*zI580lK_PUJ21N5Cd99naA.jpeg)
 
 “The MSF Aquarius has rescued 101 [p](https://twitter.com/hashtag/people?src=hash) eople from a rubber boat\. They’re exhausted and seasick but relieved to be alive\.” — [**MSF Sea**](https://twitter.com/MSF_Sea)
 
 
-![](assets/2f3956f7c7b9/1*XnrSc6Zf__ljGbl4MZIpOg.jpeg)
+![](../assets/2f3956f7c7b9/1*XnrSc6Zf__ljGbl4MZIpOg.jpeg)
 
 
 
-![This week, 558 refugees have been saved at see and brought to Sicily, of whom 61 minors \(Photo: [Borderline Sicilia ONLUS](https://www.facebook.com/Borderline-Sicilia-ONLUS-1145159495525466/) \)](assets/2f3956f7c7b9/1*shYkCQ51Hw_fQ-Ps8s-bQQ.jpeg)
+![This week, 558 refugees have been saved at see and brought to Sicily, of whom 61 minors \(Photo: [Borderline Sicilia ONLUS](https://www.facebook.com/Borderline-Sicilia-ONLUS-1145159495525466/) \)](../assets/2f3956f7c7b9/1*shYkCQ51Hw_fQ-Ps8s-bQQ.jpeg)
 
 This week, 558 refugees have been saved at see and brought to Sicily, of whom 61 minors \(Photo: [Borderline Sicilia ONLUS](https://www.facebook.com/Borderline-Sicilia-ONLUS-1145159495525466/) \)
 #### GREECE
@@ -139,15 +139,15 @@ Bulgarian president defends the controversial scrapping of a government regulati
 The EC president Tusk [expressed](http://www.reuters.com/article/us-eu-bulgaria-tusk-idUSKBN1761EU?feedType=RSS&feedName=worldNews) the EU’s determination to ‘keep routes of illegal migration’ in the Balkans ‘closed’ and made clear the bloc remains ‘committed to the full implementation of the EU\-Turkey statement\.’ [Tusk also](http://statewatch.org/news/2017/apr/eu-tusk-slovenia-bulgaria.htm) welcomed President Radev’s efforts to increase security on Bulgaria’s southeastern border with Turkey and pledged additional financing if the situation worsened\.
 
 
-![](assets/2f3956f7c7b9/1*DpJwCeeDRtuMZjkUjkUrYQ.jpeg)
+![](../assets/2f3956f7c7b9/1*DpJwCeeDRtuMZjkUjkUrYQ.jpeg)
 
 
 
-![](assets/2f3956f7c7b9/1*zUbBjzE_xhC2q-t-xHvU0g.jpeg)
+![](../assets/2f3956f7c7b9/1*zUbBjzE_xhC2q-t-xHvU0g.jpeg)
 
 
 
-![](assets/2f3956f7c7b9/1*opIdhq7aV46EtqnMH3-SXw.jpeg)
+![](../assets/2f3956f7c7b9/1*opIdhq7aV46EtqnMH3-SXw.jpeg)
 
 
 The Afghan sewing / knitting / embroidery workshop has just started at the camp in Harmanli\. For the time being, it is more of a workshop, an educational activity, but they have the ambition to start producing high quality items that could be sold in order to fund the workshop and teach people how they could run a small business\. They want to produce clothes, household items, accessories and toys\.
@@ -205,7 +205,7 @@ Romania will carry out systematic checks at the entry and exit points of the cou
 NATO could have a role in defending the EU’s external borders against illegal migration\. Hungary is likely to raise its defence budget to comply with NATO guidelines by 2024, earlier than expected, the minister said\. Once the police\-trained “border hunters” has been trained, the number of soldiers defending Hungary’s southern border [may be](http://number of soldiers defending Hungary’s southern border may be reduced   Read more at: https://dailynewshungary.com/border-hunter-units-may-soon-relieve-military-border-hungarian-defence-minister-says/) reduced\.
 
 
-![Photo source: [Daily News Hungary](https://dailynewshungary.com/border-hunter-units-may-soon-relieve-military-border-hungarian-defence-minister-says/)](assets/2f3956f7c7b9/1*73fPmpnRqOyyc5orDG4veQ.jpeg)
+![Photo source: [Daily News Hungary](https://dailynewshungary.com/border-hunter-units-may-soon-relieve-military-border-hungarian-defence-minister-says/)](../assets/2f3956f7c7b9/1*73fPmpnRqOyyc5orDG4veQ.jpeg)
 
 Photo source: [Daily News Hungary](https://dailynewshungary.com/border-hunter-units-may-soon-relieve-military-border-hungarian-defence-minister-says/)
 #### ITALY
@@ -305,7 +305,7 @@ The Danish protesters and activists [demand](https://stopudvisningerne.tumblr.co
 
 
 
-![](assets/2f3956f7c7b9/1*COJaXk9NfvT1iDs-j6rIxw.png)
+![](../assets/2f3956f7c7b9/1*COJaXk9NfvT1iDs-j6rIxw.png)
 
 
 We appreciate all contribution and strive for accuracy and collaboration\. Please direct your feedback, corrections and information you wish to share to: areyousyrious@gmail\.com or message us on [Facebook](https://www.facebook.com/areyousyrious/)

@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,sea-rescue,italy,human-rights]
 description: Feature
 image:
-  path: assets/6c89f6d3e506/0*TWYHz8aNwr-sGTvY
+  path: ../assets/6c89f6d3e506/0*TWYHz8aNwr-sGTvY
 ---
 
 ### **AYS Daily Digest 15/8/19: 15th day at sea for Open Arms**
@@ -15,7 +15,7 @@ image:
 _New arrivals in Greece / Overcrowding in Aegean camps / Assistance needed in Bosnia / Unaccompanied minors in Serbia / Refugees continue to cross English Channel_
 
 
-![\(15th day at sea for Open Arms\. Lampedusa is so close yet unobtainable… Photo by [Francisco Gentico](https://www.facebook.com/2088704344683209/photos/pcb.2479881818898791/2479881765565463/?type=3&theater) \)](assets/6c89f6d3e506/0*TWYHz8aNwr-sGTvY)
+![\(15th day at sea for Open Arms\. Lampedusa is so close yet unobtainable… Photo by [Francisco Gentico](https://www.facebook.com/2088704344683209/photos/pcb.2479881818898791/2479881765565463/?type=3&theater) \)](../assets/6c89f6d3e506/0*TWYHz8aNwr-sGTvY)
 
 \(15th day at sea for Open Arms\. Lampedusa is so close yet unobtainable… Photo by [Francisco Gentico](https://www.facebook.com/2088704344683209/photos/pcb.2479881818898791/2479881765565463/?type=3&theater) \)
 
@@ -78,7 +78,7 @@ Urgent call for volunteer teachers, psychologists, pedagogues, and social worker
 ### **Bosnia**
 
 
-![\(Tuzla…Photo by [Senad Cupo](https://www.facebook.com/photo.php?fbid=10217297649526575&set=gm.394302207950416&type=3&theater&ifg=1) \)](assets/6c89f6d3e506/0*xm2aaokGg9kUAgE4)
+![\(Tuzla…Photo by [Senad Cupo](https://www.facebook.com/photo.php?fbid=10217297649526575&set=gm.394302207950416&type=3&theater&ifg=1) \)](../assets/6c89f6d3e506/0*xm2aaokGg9kUAgE4)
 
 \(Tuzla…Photo by [Senad Cupo](https://www.facebook.com/photo.php?fbid=10217297649526575&set=gm.394302207950416&type=3&theater&ifg=1) \)
 
@@ -86,7 +86,7 @@ In an update from Camp Vucjak: “About ten of the men who were deported to Vucj
 ### **Serbia**
 
 
-![\(In front of the internment center in Obrenovac\. Photo by Azil u Srbiji Asylum\)](assets/6c89f6d3e506/0*qyxWlG4N3kDXaQJ2)
+![\(In front of the internment center in Obrenovac\. Photo by Azil u Srbiji Asylum\)](../assets/6c89f6d3e506/0*qyxWlG4N3kDXaQJ2)
 
 \(In front of the internment center in Obrenovac\. Photo by Azil u Srbiji Asylum\)
 
@@ -96,7 +96,7 @@ Many unaccompanied minors are still at risk around the internment centre in Obre
 [With more people](https://france3-regions.francetvinfo.fr/hauts-de-france/migrante-iranienne-disparue-au-large-du-pas-calais-apres-tentative-traversee-manche-1710956.html?fbclid=IwAR2f7SQgTEdwUKHd82QafneCXDMxAG-zNhWekmoc5muV2Oa7uNUk-G3vzvA) trying to cross the English Channel in some boats to the UK, one woman is still missing at sea since Friday August 9th\. Two other people from the same boat were found\. People are continuing to risk this particular journey at a deadly cost\.
 
 
-![\(The Solidarity Association of Saint Bernard Locker Room\-Breakfast\-Shelter needs volunteers\! Also a lot of clothing donations\. Find out more [here](https://www.facebook.com/photo.php?fbid=10157308086328536&set=a.180492843535&type=3&theater&ifg=1) \. Photo by Pedro Pablo Naranjo\)](assets/6c89f6d3e506/0*z7U8HhhwztX7Cb-J)
+![\(The Solidarity Association of Saint Bernard Locker Room\-Breakfast\-Shelter needs volunteers\! Also a lot of clothing donations\. Find out more [here](https://www.facebook.com/photo.php?fbid=10157308086328536&set=a.180492843535&type=3&theater&ifg=1) \. Photo by Pedro Pablo Naranjo\)](../assets/6c89f6d3e506/0*z7U8HhhwztX7Cb-J)
 
 \(The Solidarity Association of Saint Bernard Locker Room\-Breakfast\-Shelter needs volunteers\! Also a lot of clothing donations\. Find out more [here](https://www.facebook.com/photo.php?fbid=10157308086328536&set=a.180492843535&type=3&theater&ifg=1) \. Photo by Pedro Pablo Naranjo\)
 ### **Scotland**

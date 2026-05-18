@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,greece,moria]
 description: Shamima Begum’s appeal to return to UK denied//Children play “The Game” on the Balkan Route//More rescues, pullbacks to Libya//& more
 image:
-  path: assets/7a5b71a769ca/0*TdsBrwI5oXOlvMuj
+  path: ../assets/7a5b71a769ca/0*TdsBrwI5oXOlvMuj
 ---
 
 ### AYS Daily Digest 26/02/2021 — Woman Charged With Arson For Setting Herself on Fire in Lesvos
 ### Shamima Begum’s appeal to return to UK denied//Children play “The Game” on the Balkan Route//More rescues, pullbacks to Libya//& more
 
 
-![](assets/7a5b71a769ca/0*FOwE0M27vkGXLb9T.jpeg)
+![](../assets/7a5b71a769ca/0*FOwE0M27vkGXLb9T.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----792d4adaa039--------------------------------)
@@ -22,11 +22,11 @@ image:
 [Feb 27](ays-daily-digest-26-02-2021-woman-charged-with-arson-for-setting-herself-on-fire-in-lesvos-792d4adaa039?source=post_page-----792d4adaa039--------------------------------) · 8 min read
 
 
-![](assets/7a5b71a769ca/0*6-SuSHHSWr7p-wQd)
+![](../assets/7a5b71a769ca/0*6-SuSHHSWr7p-wQd)
 
 
 
-![](assets/7a5b71a769ca/0*TdsBrwI5oXOlvMuj)
+![](../assets/7a5b71a769ca/0*TdsBrwI5oXOlvMuj)
 
 ### FEATURE
 ### Woman charged with arson for attempting self\-immolation
@@ -109,11 +109,11 @@ To be clear, what Begum did was a crime\. However, she was only 15 years old whe
 An investigation by Free Movement found that the UK has drastically increased citizenship removal procedures since 2010\.
 
 
-![](assets/7a5b71a769ca/0*F0v9B-PgGxXRYC1B)
+![](../assets/7a5b71a769ca/0*F0v9B-PgGxXRYC1B)
 
 
 
-![](assets/7a5b71a769ca/0*EAS1p3BhWCmrHIF6.jpeg)
+![](../assets/7a5b71a769ca/0*EAS1p3BhWCmrHIF6.jpeg)
 
 
 Many homeless people on the move have been voluntarily repatriated from Northern Ireland since the beginning of the pandemic; however, advocates are questioning [exactly how voluntary](https://www.thedetail.tv/articles/concerns-over-voluntary-repatriation-of-homeless-migrants-during-covid-19?fbclid=IwAR1CIoh30e0zO_lr88a53VUpfxoe6O-8UBQORl6erYjauqIppBN2SlwkcFE) those repatriations were\. Most people who return are either misled by officials about the support they have available to them or threatened with deportation if they do not comply\. Many EU nationals who are particularly vulnerable are not aware that they are eligible for the government’s Settlement Schemes\.

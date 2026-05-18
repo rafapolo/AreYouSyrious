@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 17/12/20: “Hungary has failed to fulfill its obligations under EU law”
+title: "AYS Daily Digest 17/12/20: “Hungary has failed to fulfill its obligations under EU law”"
 author: Are You Syrious?
 date: 2020-12-18T15:42:57.919+0000
 last_modified_at: 2020-12-18T17:16:17.020+0000
 categories: Are You Syrious?
 tags: [digest,refugees,hungary,europe,human-rights]
-description: Big report on the effect EU’s approach has had on the mental health of thousands / CJEU: “Hungary has failed to fulfill its obligations…
+description: "Big report on the effect EU’s approach has had on the mental health of thousands / CJEU: “Hungary has failed to fulfill its obligations…"
 image:
-  path: assets/eb014bc284f0/0*LDR_HqN7vyXRz5K3
+  path: ../assets/eb014bc284f0/0*LDR_HqN7vyXRz5K3
 ---
 
 ### AYS Daily Digest 17/12/20: “Hungary has failed to fulfill its obligations under EU law”
 #### Big report on the effect EU’s approach has had on the mental health of thousands / CJEU: “Hungary has failed to fulfill its obligations under EU law” / Uncertainty over deportations from Sweden to Afghanistan / A fight to \#CloseTheBarracks / Recommended reads, videos and more
 
 
-![Lesvos, camp perspective, photo via: [Art Against](https://www.facebook.com/artagainstproject/?__tn__=-UC*F)](assets/eb014bc284f0/0*LDR_HqN7vyXRz5K3)
+![Lesvos, camp perspective, photo via: [Art Against](https://www.facebook.com/artagainstproject/?__tn__=-UC*F)](../assets/eb014bc284f0/0*LDR_HqN7vyXRz5K3)
 
 Lesvos, camp perspective, photo via: [Art Against](https://www.facebook.com/artagainstproject/?__tn__=-UC*F)
 #### FEATURED
@@ -106,7 +106,7 @@ People have great difficulty finding jobs, especially since the closure of cafes
 AYS representatives will take part in the discussion around the issue of the “protection of European values” following a screening of a film about the Iuventa SAR team\. The discussion will be available online today, **Friday December 18, at 6pm CET** on [https://festivaloftolerance\.com/film\-i\-diskusija](https://festivaloftolerance.com/film-i-diskusija?fbclid=IwAR3lsY7OFW7Qu_IjTlQgnG3tu795UX2KJuhyF7Wvb7hJ_-VrPUFlJ2_Hu30)
 
 
-![](assets/eb014bc284f0/0*XwHyk9iTCyBwFgZ_)
+![](../assets/eb014bc284f0/0*XwHyk9iTCyBwFgZ_)
 
 #### THE NETHERLANDS
 ### Reacting to deportations
@@ -145,7 +145,7 @@ In the meantime, the Spanish Ombudsman expressed he is firmly against the so cal
 With a “sea of ​​lights” in front of the Foreign Ministry, a demonstration was held on Thursday in Vienna for the people in need of urgent housing, stuck in horrid camps in Greece\.
 
 
-![Photo: dr\. [Karin Tschare\-Fehr](https://www.facebook.com/karin.tscharefehr?__tn__=-UC*F)](assets/eb014bc284f0/0*4GF6DRktZTmUK6KM)
+![Photo: dr\. [Karin Tschare\-Fehr](https://www.facebook.com/karin.tscharefehr?__tn__=-UC*F)](../assets/eb014bc284f0/0*4GF6DRktZTmUK6KM)
 
 Photo: dr\. [Karin Tschare\-Fehr](https://www.facebook.com/karin.tscharefehr?__tn__=-UC*F)
 
@@ -232,7 +232,7 @@ If this wasn’t enough, the barracks have become targets for the far\-right\. I
 
 
 
-[![Mother](assets/eb014bc284f0/c172_hqdefault.jpg "Mother")](https://www.youtube.com/watch?v=r15PwRtrqFk)
+[![Mother](../assets/eb014bc284f0/c172_hqdefault.jpg "Mother")](https://www.youtube.com/watch?v=r15PwRtrqFk)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

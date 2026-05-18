@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 6/2/20: Pressure to be heard at the Serbian-Hungarian b
+title: "AYS Daily Digest 6/2/20: Pressure to be heard at the Serbian-Hungarian b"
 author: Are You Syrious?
 date: 2020-02-07T12:10:24.111+0000
 last_modified_at: 2020-02-07T13:52:53.544+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,europe,migration,refugees,balkan-route]
 description: Demonstrations across Europe // The Convoy of Hope reaches the border // An Activist attacked on Lesvos // Changing Citizenship Laws in…
 image:
-  path: assets/d80e2c79f73f/1*zNgCYY-dqdrCiaYWg8Pk4g.png
+  path: ../assets/d80e2c79f73f/1*zNgCYY-dqdrCiaYWg8Pk4g.png
 ---
 
 ### **AYS Daily Digest 6/2/20: Pressure to be heard at the Serbian\-Hungarian border**
 #### Demonstrations across Europe // Convoy of Hope reaches the border // An activist attacked on Lesvos // Changing citizenship laws in Denmark & Much More
 
 
-![Image source: [Art Against](https://www.facebook.com/artagainstproject/?tn-str=k%2AF)](assets/d80e2c79f73f/1*zNgCYY-dqdrCiaYWg8Pk4g.png)
+![Image source: [Art Against](https://www.facebook.com/artagainstproject/?tn-str=k%2AF)](../assets/d80e2c79f73f/1*zNgCYY-dqdrCiaYWg8Pk4g.png)
 
 Image source: [Art Against](https://www.facebook.com/artagainstproject/?tn-str=k%2AF)
 #### FEATURED

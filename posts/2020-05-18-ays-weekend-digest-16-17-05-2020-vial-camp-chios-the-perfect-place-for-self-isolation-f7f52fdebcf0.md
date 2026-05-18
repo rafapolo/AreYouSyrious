@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 16–17/05/2020 Vial camp, Chios: the perfect place for self-isolation…
+title: "AYS Weekend Digest 16–17/05/2020 Vial camp, Chios: the perfect place for self-isolation…"
 author: Are You Syrious?
 date: 2020-05-18T13:06:20.072+0100
 last_modified_at: 2020-05-18T16:00:03.981+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,covid-19,mediterranean,racism]
 description: The Central Med is a black hole / Serbia sends the army again to camps / Is Italian regularisation of migrant workers only a silver lining…
 image:
-  path: assets/f7f52fdebcf0/1*9cZqPXhNdBg1_SvYzmfVcg.jpeg
+  path: ../assets/f7f52fdebcf0/1*9cZqPXhNdBg1_SvYzmfVcg.jpeg
 ---
 
 ### AYS Weekend Digest 16–17/05/2020 Vial camp, Chios: the perfect place for self\-isolation…
@@ -15,7 +15,7 @@ image:
 The Central Med is a black hole / Serbia sends the army to camps again / Is Italian regularisation of migrant workers only a silver lining? / And more…
 
 
-![BREAKING: This morning, Monday 18th May, the housing squat Themistocleous58 in Exarchia, Athens was evicted by the Greek Police\. It has been home for around 50 people since 2016\. This is what the Greek government means when talking about going back to normality\. \(Photo by [Marios Lolos](https://twitter.com/lolosmarios/status/1262256400958455808) \)](assets/f7f52fdebcf0/1*9cZqPXhNdBg1_SvYzmfVcg.jpeg)
+![BREAKING: This morning, Monday 18th May, the housing squat Themistocleous58 in Exarchia, Athens was evicted by the Greek Police\. It has been home for around 50 people since 2016\. This is what the Greek government means when talking about going back to normality\. \(Photo by [Marios Lolos](https://twitter.com/lolosmarios/status/1262256400958455808) \)](../assets/f7f52fdebcf0/1*9cZqPXhNdBg1_SvYzmfVcg.jpeg)
 
 BREAKING: This morning, Monday 18th May, the housing squat Themistocleous58 in Exarchia, Athens was evicted by the Greek Police\. It has been home for around 50 people since 2016\. This is what the Greek government means when talking about going back to normality\. \(Photo by [Marios Lolos](https://twitter.com/lolosmarios/status/1262256400958455808) \)
 
@@ -24,31 +24,31 @@ BREAKING: This morning, Monday 18th May, the housing squat Themistocleous58 in E
 The perfect situation for hygiene and self isolation?
 
 
-![](assets/f7f52fdebcf0/1*xJoltbYrMo4Zo6Hb6E3EVg.jpeg)
+![](../assets/f7f52fdebcf0/1*xJoltbYrMo4Zo6Hb6E3EVg.jpeg)
 
 
 
-![](assets/f7f52fdebcf0/1*jOn32DQ_7N3G6Az-DkC-HQ.jpeg)
+![](../assets/f7f52fdebcf0/1*jOn32DQ_7N3G6Az-DkC-HQ.jpeg)
 
 
 
-![](assets/f7f52fdebcf0/1*av6pv-pOpDDBRgHeqNQk6Q.jpeg)
+![](../assets/f7f52fdebcf0/1*av6pv-pOpDDBRgHeqNQk6Q.jpeg)
 
 
 
-![](assets/f7f52fdebcf0/1*Zl8q38O9FAmm5Tc5EPOGrw.jpeg)
+![](../assets/f7f52fdebcf0/1*Zl8q38O9FAmm5Tc5EPOGrw.jpeg)
 
 
 
-![](assets/f7f52fdebcf0/1*6y4m7C0tmNfLStQT_goSmw.jpeg)
+![](../assets/f7f52fdebcf0/1*6y4m7C0tmNfLStQT_goSmw.jpeg)
 
 
 
-![](assets/f7f52fdebcf0/1*D3HK4Jq4W4cBqXPaU-ykqw.jpeg)
+![](../assets/f7f52fdebcf0/1*D3HK4Jq4W4cBqXPaU-ykqw.jpeg)
 
 
 
-![\(Photo Credit: From residents of Vial via [Jenny Zinovia Kali](https://web.facebook.com/jenny.kali.1?fref=gs&__tn__=%2Cd%2AF%2AF-R&eid=ARAYWD8p1nO_kZR64d3L3XuHTMLzKfZgSr6txezr1LlyvRP-CfQA4POmbj9QS4gCMl6xqY4LHTRAu2jJ&tn-str=%2AF&dti=1508309029486384&hc_location=group_dialog) ‎ [Αλληλεγγύη στη Χίο / Solidarity in Chios](https://web.facebook.com/groups/1508309029486384/?ref=gs&tn-str=%2AF&fref=gs&dti=1508309029486384&hc_location=group_dialog) \)](assets/f7f52fdebcf0/1*fZjbCFN1D-JDa-6FiNYYBw.jpeg)
+![\(Photo Credit: From residents of Vial via [Jenny Zinovia Kali](https://web.facebook.com/jenny.kali.1?fref=gs&__tn__=%2Cd%2AF%2AF-R&eid=ARAYWD8p1nO_kZR64d3L3XuHTMLzKfZgSr6txezr1LlyvRP-CfQA4POmbj9QS4gCMl6xqY4LHTRAu2jJ&tn-str=%2AF&dti=1508309029486384&hc_location=group_dialog) ‎ [Αλληλεγγύη στη Χίο / Solidarity in Chios](https://web.facebook.com/groups/1508309029486384/?ref=gs&tn-str=%2AF&fref=gs&dti=1508309029486384&hc_location=group_dialog) \)](../assets/f7f52fdebcf0/1*fZjbCFN1D-JDa-6FiNYYBw.jpeg)
 
 \(Photo Credit: From residents of Vial via [Jenny Zinovia Kali](https://web.facebook.com/jenny.kali.1?fref=gs&__tn__=%2Cd%2AF%2AF-R&eid=ARAYWD8p1nO_kZR64d3L3XuHTMLzKfZgSr6txezr1LlyvRP-CfQA4POmbj9QS4gCMl6xqY4LHTRAu2jJ&tn-str=%2AF&dti=1508309029486384&hc_location=group_dialog) ‎ [Αλληλεγγύη στη Χίο / Solidarity in Chios](https://web.facebook.com/groups/1508309029486384/?ref=gs&tn-str=%2AF&fref=gs&dti=1508309029486384&hc_location=group_dialog) \)
 
@@ -72,11 +72,11 @@ An Eritrean man died on Saturday in the Zintan ‘official’ detention centre, 
 
 
 
-![](assets/f7f52fdebcf0/1*Vl3QyrNWYOmFF5yLM0PE_w.jpeg)
+![](../assets/f7f52fdebcf0/1*Vl3QyrNWYOmFF5yLM0PE_w.jpeg)
 
 
 
-![Zintan detention centre, Libya \(Photos via [Giulia Tranchina](https://www.facebook.com/rastajuly/posts/10157676074763621) \)](assets/f7f52fdebcf0/1*rWkKv2zxAvP_S3fvfirZnw.jpeg)
+![Zintan detention centre, Libya \(Photos via [Giulia Tranchina](https://www.facebook.com/rastajuly/posts/10157676074763621) \)](../assets/f7f52fdebcf0/1*rWkKv2zxAvP_S3fvfirZnw.jpeg)
 
 Zintan detention centre, Libya \(Photos via [Giulia Tranchina](https://www.facebook.com/rastajuly/posts/10157676074763621) \)
 
@@ -238,11 +238,11 @@ A local volunteer and refugee rights advocate wrote an [update](https://www.face
 
 
 
-![](assets/f7f52fdebcf0/1*ljigSuyqNAu1H9TvaPm6UQ.jpeg)
+![](../assets/f7f52fdebcf0/1*ljigSuyqNAu1H9TvaPm6UQ.jpeg)
 
 
 
-![Paris, May 2020 \(Photos by [Danika Jurisic](https://www.facebook.com/permalink.php?story_fbid=2644805565846066&id=100009499466124) \)](assets/f7f52fdebcf0/1*mFtXS6JnFHle-amwwMoLPA.jpeg)
+![Paris, May 2020 \(Photos by [Danika Jurisic](https://www.facebook.com/permalink.php?story_fbid=2644805565846066&id=100009499466124) \)](../assets/f7f52fdebcf0/1*mFtXS6JnFHle-amwwMoLPA.jpeg)
 
 Paris, May 2020 \(Photos by [Danika Jurisic](https://www.facebook.com/permalink.php?story_fbid=2644805565846066&id=100009499466124) \)
 
@@ -286,11 +286,11 @@ GERMANY
 LeaveNoOneBehind protests
 
 
-![](assets/f7f52fdebcf0/1*tM83rzMfErd6mSMLbrcNvg.jpeg)
+![](../assets/f7f52fdebcf0/1*tM83rzMfErd6mSMLbrcNvg.jpeg)
 
 
 
-![<\- Munster, Frankfurt \-> \(Photos from [Seebrucke Munster](https://twitter.com/MsSeebrucke/status/1261610331127844865/photo/2) , [Seebrucke Frankfurt](https://twitter.com/SeebrueckeFfm/status/1261656348623855621/photo/2) \)](assets/f7f52fdebcf0/1*YPo9TGbmpYSvIVVEfoKCEw.jpeg)
+![<\- Munster, Frankfurt \-> \(Photos from [Seebrucke Munster](https://twitter.com/MsSeebrucke/status/1261610331127844865/photo/2) , [Seebrucke Frankfurt](https://twitter.com/SeebrueckeFfm/status/1261656348623855621/photo/2) \)](../assets/f7f52fdebcf0/1*YPo9TGbmpYSvIVVEfoKCEw.jpeg)
 
 <\- Munster, Frankfurt \-> \(Photos from [Seebrucke Munster](https://twitter.com/MsSeebrucke/status/1261610331127844865/photo/2) , [Seebrucke Frankfurt](https://twitter.com/SeebrueckeFfm/status/1261656348623855621/photo/2) \)
 

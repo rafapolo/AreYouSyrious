@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe]
 description: SYRIA
 image:
-  path: assets/36b91f1bfc/1*EJ0CsRyx9l6hOFop7ALZ3w.jpeg
+  path: ../assets/36b91f1bfc/1*EJ0CsRyx9l6hOFop7ALZ3w.jpeg
 ---
 
 ### AYS Daily Digest — Updated Pre\-registration Information for Greece\!
 
 
-![Photo Credit: Vassil Garnizov, Hot Food Idomeni](assets/36b91f1bfc/1*EJ0CsRyx9l6hOFop7ALZ3w.jpeg)
+![Photo Credit: Vassil Garnizov, Hot Food Idomeni](../assets/36b91f1bfc/1*EJ0CsRyx9l6hOFop7ALZ3w.jpeg)
 
 Photo Credit: Vassil Garnizov, Hot Food Idomeni
 #### SYRIA
@@ -37,7 +37,7 @@ Furthermore it is often not a Greek civil servant that asks the questions but so
 Regardless of the pressure put on legal teams from EASO, legal assistance and aid remains one of the most powerful ways to affirm the humanity of refugees\. Teams accepting help can be found here by filtering opportunities [with “legal / info”](http://www.greecevol.info/task.list.php) \.
 
 
-![Photo Credit: Vassil Garnizov, Hot Food Idomeni](assets/36b91f1bfc/1*uYBsUhXy852lTwf2R6E_LA.jpeg)
+![Photo Credit: Vassil Garnizov, Hot Food Idomeni](../assets/36b91f1bfc/1*uYBsUhXy852lTwf2R6E_LA.jpeg)
 
 Photo Credit: Vassil Garnizov, Hot Food Idomeni
 
@@ -58,7 +58,7 @@ _It is expected that they will be moved to an ex\-military camp at Asimakopoulou
 ### Volunteers in several locations have reported incidents of serious food poisoning\.
 
 
-![Image Credit: Anonymous](assets/36b91f1bfc/1*poXjfUOoQjQXI1s5H9TLkw.png)
+![Image Credit: Anonymous](../assets/36b91f1bfc/1*poXjfUOoQjQXI1s5H9TLkw.png)
 
 Image Credit: Anonymous
 
@@ -101,12 +101,12 @@ _Q: 3\) there are many people who are not on an official or unofficial site nor 
 As mentioned, we have been informed that the Greek Asylum Service website is the ‘official’ website for further future information and volunteers are asked to refer to this for updates\.
 
 
-![Photo Credits: Vassil Garnizov, Hot Food Idomeni](assets/36b91f1bfc/1*FYtMWqgn-JnjjUHOz94AyQ.jpeg)
+![Photo Credits: Vassil Garnizov, Hot Food Idomeni](../assets/36b91f1bfc/1*FYtMWqgn-JnjjUHOz94AyQ.jpeg)
 
 Photo Credits: Vassil Garnizov, Hot Food Idomeni
 
 
-![](assets/36b91f1bfc/1*YShZwRYs9HNKhFj612K3TA.jpeg)
+![](../assets/36b91f1bfc/1*YShZwRYs9HNKhFj612K3TA.jpeg)
 
 ### Volunteers needed in Squats and other capacities\.
 

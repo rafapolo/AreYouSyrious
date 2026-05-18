@@ -7,18 +7,18 @@ categories: Are You Syrious?
 tags: [digest,milan,alan-kurdi,canary-islands,refugees]
 description: More pushbacks involving Bulgarian, Greek and Turkish authorities. Sea-Eye’s Alan Kurdi is free again. Attempted breakout from Milan’s CPR…
 image:
-  path: assets/df76982e188d/0*ugPPA9ArhPzOIDmC.jpeg
+  path: ../assets/df76982e188d/0*ugPPA9ArhPzOIDmC.jpeg
 ---
 
 ### AYS Weekend Digest 10–11/4/2021 — Bans on Protests and Criminalisation in the Canaries
 #### More pushbacks involving Bulgarian, Greek and Turkish authorities\. Sea\-Eye’s Alan Kurdi is free again\. Attempted breakout from Milan’s CPR\. Continued evictions in Calais and Grande\-Synthe and much more…
 
 
-![](assets/df76982e188d/0*lq5k0i-gQDxVZXOc)
+![](../assets/df76982e188d/0*lq5k0i-gQDxVZXOc)
 
 
 
-![](assets/df76982e188d/0*ugPPA9ArhPzOIDmC.jpeg)
+![](../assets/df76982e188d/0*ugPPA9ArhPzOIDmC.jpeg)
 
 ### Featured — Bans on Protests and Criminalisation in the Canaries
 
@@ -81,11 +81,11 @@ On Saturday, the Tenerife Migrants Support Assembly held a press conference in f
 
 
 
-![](assets/df76982e188d/0*0qcaYz4sw7XpmBC-)
+![](../assets/df76982e188d/0*0qcaYz4sw7XpmBC-)
 
 
 
-![](assets/df76982e188d/0*QyI7P-YwokXFcwAw.jpeg)
+![](../assets/df76982e188d/0*QyI7P-YwokXFcwAw.jpeg)
 
 
 In Tenerife city centre, on Saturday, police [stopped and identified](https://twitter.com/AsambleaMigraTF/status/1380842923311370241?fbclid=IwAR17HVaIsiWpdvO8GvtWEk580aiFXmAJxaBrngbO4xFS0ecIiPOpmVxoOBg) activists of the assembly before their press conference\. On Sunday, they carried on their intimidatory actions in front of the camp, [identifying](https://twitter.com/AsambleaMigraTF/status/1381237247803019264?fbclid=IwAR3g3Og0bfUM5MtfapNJEfybX5-jQEKceDtIplIk2hjUxrQVhStJF35ebZ8) people who were there to express their solidarity and to [distribute food and NFI](https://twitter.com/Yendy_Hernandez/status/1380803063431192578/photo/3) \. The local government delegate of Tenerife has blamed volunteers for the mistreatment of people living in Las Raices and “preventing the camp from functioning normally\.”
@@ -99,19 +99,19 @@ The Spanish government, which dubbed itself as the “most progressive in histor
 Similar policies are in place in the Spanish enclaves in Northern Africa, Ceuta and Melilla\. No Name Kitchen [wrote a post](https://www.facebook.com/NoNameKitchenBelgrade/posts/1215364352195180) on how Ceuta has become a real cage for many people on the move, “on the one hand, there are the 8 kilometres long and 10 metres high fences that divides Spain and Morocco, on the other, the Mediterranean Sea creates its own natural border\.”
 
 
-![](assets/df76982e188d/0*xjNrPy9TmFE2Otat)
+![](../assets/df76982e188d/0*xjNrPy9TmFE2Otat)
 
 
 
-![](assets/df76982e188d/0*bPPYNhTZLWcvgGbu.jpeg)
+![](../assets/df76982e188d/0*bPPYNhTZLWcvgGbu.jpeg)
 
 
 
-![](assets/df76982e188d/0*lZaxhVVd7bNzRjDW)
+![](../assets/df76982e188d/0*lZaxhVVd7bNzRjDW)
 
 
 
-![](assets/df76982e188d/0*JWsfR2uuXYJ-zE74.jpeg)
+![](../assets/df76982e188d/0*JWsfR2uuXYJ-zE74.jpeg)
 
 
 Ceuta, like Melilla, is not part of the Schengen area, meaning that “once people in transit arrive in the autonomous city, although they are technically inside Spain and Europe, they do not have freedom of movement to travel to the peninsula, remaining trapped inside it\.”

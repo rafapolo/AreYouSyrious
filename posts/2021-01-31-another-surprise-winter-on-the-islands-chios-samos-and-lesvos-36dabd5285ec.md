@@ -1,5 +1,5 @@
 ---
-title: AYS Special from the Greek Islands: Another ‘Surprise’ Winter on Chios, Samos and Lesvos
+title: "AYS Special from the Greek Islands: Another ‘Surprise’ Winter on Chios, Samos and Lesvos"
 author: Are You Syrious?
 date: 2021-01-31T12:33:25.640+0000
 last_modified_at: 2021-02-01T14:31:20.202+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [samos,special,chios,lesvos,refugees]
 description: Residents, activists and volunteers speak out for the sixth winter in a row about conditions on the islands and the astounding, if…
 image:
-  path: assets/36dabd5285ec/1*mJl7B8v0BIk_dCajqYfXtg.jpeg
+  path: ../assets/36dabd5285ec/1*mJl7B8v0BIk_dCajqYfXtg.jpeg
 ---
 
 ### AYS Special from the Greek Islands: Another ‘Surprise’ Winter on Chios, Samos and Lesvos
@@ -15,7 +15,7 @@ image:
 _Residents, activists and volunteers speak out for the sixth winter in a row about conditions on the islands and the astounding, if predictable, lack of planning by the responsible bodies\._
 
 
-![\(Vial camp, Chios\. Photo credit: Refugee Biryani and Bananas\)](assets/36dabd5285ec/1*mJl7B8v0BIk_dCajqYfXtg.jpeg)
+![\(Vial camp, Chios\. Photo credit: Refugee Biryani and Bananas\)](../assets/36dabd5285ec/1*mJl7B8v0BIk_dCajqYfXtg.jpeg)
 
 \(Vial camp, Chios\. Photo credit: Refugee Biryani and Bananas\)
 #### CHIOS
@@ -30,11 +30,11 @@ The word winter here has become synonymous with ‘struggle’\. In the past few
 
 
 
-![](assets/36dabd5285ec/1*ZHEF_pEBzsaL41ktNB3gIQ.jpeg)
+![](../assets/36dabd5285ec/1*ZHEF_pEBzsaL41ktNB3gIQ.jpeg)
 
 
 
-![](assets/36dabd5285ec/1*us4QYqbWfMF89LpQqIofhg.jpeg)
+![](../assets/36dabd5285ec/1*us4QYqbWfMF89LpQqIofhg.jpeg)
 
 
 
@@ -75,11 +75,11 @@ These measures were imposed mid\-October, following mass\-testing of Vial reside
 In the coldest winter Chios has seen in years, asylum seekers and refugees have been severed from access to the most basic channels of support\. Until mid\-December, NGOs were strictly prohibited from accessing the camp\. Various winterisation campaigns were therefore abruptly halted and aid, which was ready to be distributed, had to wait as the conditions declined\.
 
 
-![](assets/36dabd5285ec/1*nl4broECXq1xvJpxPBm0lw.jpeg)
+![](../assets/36dabd5285ec/1*nl4broECXq1xvJpxPBm0lw.jpeg)
 
 
 
-![](assets/36dabd5285ec/1*_96q6fia_nv7vdD1ZY4fWQ.jpeg)
+![](../assets/36dabd5285ec/1*_96q6fia_nv7vdD1ZY4fWQ.jpeg)
 
 
 As you can see from the testimonials included here — from volunteers who live in Vial, from students engaging in online learning, and from chance encounters with residents who have managed to leave the camp — it is abundantly clear that this confinement has served to exacerbate the conditions\. Not only is the situation unbearable, people cannot even escape from it\.
@@ -88,11 +88,11 @@ As you can see from the testimonials included here — from volunteers who live 
 Over the last few weeks, temperatures have dropped drastically in Samos\. The impact that these freezing temperatures have on the people living in and around the Samos camp is clear, and yet, no adequate action has been taken by the responsible authorities\.
 
 
-![](assets/36dabd5285ec/1*HD7YAtx5zi9dHuMZyoHqMA.jpeg)
+![](../assets/36dabd5285ec/1*HD7YAtx5zi9dHuMZyoHqMA.jpeg)
 
 
 
-![](assets/36dabd5285ec/1*FC2BwfrlgNRTiSETJNQNOQ.jpeg)
+![](../assets/36dabd5285ec/1*FC2BwfrlgNRTiSETJNQNOQ.jpeg)
 
 
 In Samos, only around [800 of the 3,500\+ people](ays-special-from-samos-fires-human-rights-violations-and-pushbacks-374b8227d5af) seeking asylum are currently accommodated inside the official RIC facility\. [2,700 people](ays-special-from-samos-fires-human-rights-violations-and-pushbacks-374b8227d5af) live on the slopes of the mountain above Vathy in tents and makeshift shelters which offer very little protection against the cold\. Among these people, over 500 fall within the ‘vulnerable categories’ i\.e\. newborns, pregnant women, people with disabilities and chronic illnesses, elderly people, SGBV survivors, single women, single parents & separated children\. However, even those who do not fall under the label of ‘vulnerable’ must not be forgotten — the cold weather [affects every single person](https://twitter.com/katymfallon/status/1350875704578236417?s=21) who is living in camps in both Samos and across Greece\.
@@ -117,11 +117,11 @@ Overcrowded and ill\-equipped camps are not safe places for anybody to be confin
 This week it snowed in Lesvos\. The snow follows weeks of rain, thunderstorms, the kind of wind that you only feel on the coast of an island in the sea\. The snow falls on mud, and on tents that are already soaked through and freezing, on scattered blankets and broken furniture in the sea wind\. It is difficult to restate again how bad the conditions are, when it is something that we have been talking about every year, that gets worse every year\.
 
 
-![](assets/36dabd5285ec/1*NxU7mdcA_hlP2_S3tMweMQ.jpeg)
+![](../assets/36dabd5285ec/1*NxU7mdcA_hlP2_S3tMweMQ.jpeg)
 
 
 
-![](assets/36dabd5285ec/1*-cQ8E19zBFHTdfbj7L59Yg.jpeg)
+![](../assets/36dabd5285ec/1*-cQ8E19zBFHTdfbj7L59Yg.jpeg)
 
 
 The last time it snowed, really snowed, was 2016\. The camp was buried in snow and six people died, freezing, or from carbon monoxide poisoning while trying to keep warm\. In 2017, we demanded ‘No More Deaths from Cold’\. In 2018, there was so much rain we still talk about it, two years on\. Last year, 20,000 people spent the winter in Moria camp, ten times its supposed capacity\. Under the cover of winter and total police impunity, a man hung himself inside Moria prison, one incident among many attempts\. What can we say this year that has not been said?
@@ -131,29 +131,29 @@ Does the story need a “human element”? Perhaps we should talk about the call
 It’s not new that winter has allowed disease to spread in the camp, that parents cut their children’s hair because they have inflamed and itching scabs behind their ears and on their mouths\. It’s not new that the medicine prescribed is inadequate, that no treatment is effective when 8000 people are crushed together, in the damp air\. It’s not new that the electricity cuts out, that people light fires in their tents to stay warm at night, that children warm their feet over hot coals and toxic fumes\.
 
 
-![](assets/36dabd5285ec/1*RBVQ_azlWyunJl_25HnoLA.jpeg)
+![](../assets/36dabd5285ec/1*RBVQ_azlWyunJl_25HnoLA.jpeg)
 
 
 
-![](assets/36dabd5285ec/1*s8VIv6HSpk45jHJeWs8IQA.jpeg)
+![](../assets/36dabd5285ec/1*s8VIv6HSpk45jHJeWs8IQA.jpeg)
 
 
 
-![](assets/36dabd5285ec/1*Oi1CMjAT-O2bLPqOHqByzw.jpeg)
+![](../assets/36dabd5285ec/1*Oi1CMjAT-O2bLPqOHqByzw.jpeg)
 
 
 Maybe we can say this winter is crueller before, with the lockdown and the travel restrictions\. People who have every right to leave the island, who have papers referring them for urgent medical treatment in Athens, are stuck in the camp alongside the unlucky ones without any paper giving them the right to leave\. One woman I know has shrapnel in her mouth, her back, her leg and her arms, a war injury, which has caused nerve damage and seizures\. She is now 8 months pregnant — her previous pregnancy ended in miscarriage, and she is terrified this will happen again\. Surgery in Athens could remove the shrapnel, and she has a referral paper from the public hospital\. This paper was written last August\. It is a golden ticket — most people cannot even get an appointment at the public hospital\. But she is still living in the camp, and her family was recently moved from their tent into a larger one, shared with more people\. Her situation is not unusual\. The mud in the camp is tracked through with wheelchairs, with crutches, with sore and limping feet\.
 
 
-![](assets/36dabd5285ec/1*nAzdz9oNlZtIlOShO1gdvg.jpeg)
+![](../assets/36dabd5285ec/1*nAzdz9oNlZtIlOShO1gdvg.jpeg)
 
 
 
-![](assets/36dabd5285ec/1*4ehDTuj8VFnLNGInQf-OiQ.jpeg)
+![](../assets/36dabd5285ec/1*4ehDTuj8VFnLNGInQf-OiQ.jpeg)
 
 
 
-![](assets/36dabd5285ec/1*FYEwtKQs3ASV9VBBQH3nog.jpeg)
+![](../assets/36dabd5285ec/1*FYEwtKQs3ASV9VBBQH3nog.jpeg)
 
 
 There are many others with reasons to leave, without papers to confirm it\. Single men have the least chance of all, and rumours have begun to spread that one of the big tents, housing 150 men, will be converted into a new detention centre\. Already they have a stricter curfew than the rest of the camp, in the name of ‘preventing sexual violence’\. Perhaps none of the orchestrators imagined that single men can also be victims of sexual violence\. This rumour, along with the news that Turkey has accepted the proposed deportations, has brought new panic to the island\. Syrian people are trapped by the five year\-old EU\-Turkey deal — in nearly every case \(I do not know an exception\), their asylum claim is deemed ‘inadmissible’\. Europe will not even ask them about why they left Syria, issuing them with decisions that tell them they can safely return to Turkey, even as Turkey continues to carry out push backs and deportations of Syrians back to Assad’s regime\. In fact, anyone whose asylum claim is rejected, and then rejected on appeal, is trapped on the island\. There is no way to move forward, no way to move back, and no support while they are stuck\. They are waiting for the deportations to start, watching to see when police will start to detain people again as they pick up their decisions, their rejections\.

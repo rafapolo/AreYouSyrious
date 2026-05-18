@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 21/11/22 : Fifth anniversary of litlle Madina’s death, who died after an illegal…
+title: "AYS News Digest 21/11/22 : Fifth anniversary of litlle Madina’s death, who died after an illegal…"
 author: Are You Syrious?
 date: 2022-11-23T09:33:57.653+0000
 last_modified_at: 2022-11-23T12:38:42.714+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: []
 description: Five years ago litlle Madina Hussiny lost her life at craoatian border after being pushback//227 people were deported back in Afghanistan…
 image:
-  path: assets/57b6ee88e207/1*3QEiUuCn2ntd7VqDGtF_yQ.jpeg
+  path: ../assets/57b6ee88e207/1*3QEiUuCn2ntd7VqDGtF_yQ.jpeg
 ---
 
 ### AYS News Digest 21/11/22 : Fifth anniversary of little Madina’s death, who died after an illegal pushback
 #### Five years ago little Madina Hussiny lost her life at the Croatian border after being pushbacked // 227 people were deported back to Afghanistan from Turkey // People of colour do not feel safe in Malta where protests were held // A 16\-year\-old refugee found hypothermic at the Polish\-Belarusian border // A man died in Manston detention centre in Kent, UK // An increase of Europe’s barbed wire fences
 
 
-![Message from Madina Hussiny during the World Refugee Day campaign in 2016\. Photographer unknown, via [e\-erim](https://e-erim.ief.hr/pojam/p-madina-hussiny-p?locale=hr&fbclid=IwAR0Dxk78SgZP0bSAYHZf9W69o6YX87XBazZcwe7EGndVtF17usJ5URebrp0)](assets/57b6ee88e207/1*3QEiUuCn2ntd7VqDGtF_yQ.jpeg)
+![Message from Madina Hussiny during the World Refugee Day campaign in 2016\. Photographer unknown, via [e\-erim](https://e-erim.ief.hr/pojam/p-madina-hussiny-p?locale=hr&fbclid=IwAR0Dxk78SgZP0bSAYHZf9W69o6YX87XBazZcwe7EGndVtF17usJ5URebrp0)](../assets/57b6ee88e207/1*3QEiUuCn2ntd7VqDGtF_yQ.jpeg)
 
 Message from Madina Hussiny during the World Refugee Day campaign in 2016\. Photographer unknown, via [e\-erim](https://e-erim.ief.hr/pojam/p-madina-hussiny-p?locale=hr&fbclid=IwAR0Dxk78SgZP0bSAYHZf9W69o6YX87XBazZcwe7EGndVtF17usJ5URebrp0)
 #### FEATURE
@@ -32,7 +32,7 @@ On the anniversary of her death, in 2018, we wrote:
 
 
 
-![First anniversary of Madina Hussiny’s death\. Zagreb, 2018 Photo: Initiative for the Madina Hussiny Square, via [e\-erim](https://e-erim.ief.hr/pojam/p-madina-hussiny-p?locale=en)](assets/57b6ee88e207/1*Obs0LCxSn4xsILYrZtia8Q.jpeg)
+![First anniversary of Madina Hussiny’s death\. Zagreb, 2018 Photo: Initiative for the Madina Hussiny Square, via [e\-erim](https://e-erim.ief.hr/pojam/p-madina-hussiny-p?locale=en)](../assets/57b6ee88e207/1*Obs0LCxSn4xsILYrZtia8Q.jpeg)
 
 First anniversary of Madina Hussiny’s death\. Zagreb, 2018 Photo: Initiative for the Madina Hussiny Square, via [e\-erim](https://e-erim.ief.hr/pojam/p-madina-hussiny-p?locale=en)
 

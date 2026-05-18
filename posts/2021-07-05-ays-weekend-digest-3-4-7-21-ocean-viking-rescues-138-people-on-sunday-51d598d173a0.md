@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [greece,refugees,immigration,digest,italy]
 description: Update on Samos with news of closed camp // state of emergency issued in Lithuania // evictions in France // and more…
 image:
-  path: assets/51d598d173a0/1*pbIgAplR7EjEaJlI9Gl6Rw.jpeg
+  path: ../assets/51d598d173a0/1*pbIgAplR7EjEaJlI9Gl6Rw.jpeg
 ---
 
 ### AYS Weekend Digest 3–4/7/21 Ocean Viking rescues 138 people on Sunday
@@ -16,15 +16,15 @@ _Update on Samos with news of closed camp // state of emergency issued in Lithua
 ### FEATURE: Ocean Viking rescues 138 people on Sunday after eventful few days
 
 
-![](assets/51d598d173a0/1*fNyPXblsZfneSfqR-DE-kg.jpeg)
+![](../assets/51d598d173a0/1*fNyPXblsZfneSfqR-DE-kg.jpeg)
 
 
 
-![](assets/51d598d173a0/1*rGVGw6bSXU8CLN1uHtlPUw.jpeg)
+![](../assets/51d598d173a0/1*rGVGw6bSXU8CLN1uHtlPUw.jpeg)
 
 
 
-![Photos by [SOS MEDITERRANEE](https://www.facebook.com/infoforrefugees/posts/4204035946342713)](assets/51d598d173a0/1*pbIgAplR7EjEaJlI9Gl6Rw.jpeg)
+![Photos by [SOS MEDITERRANEE](https://www.facebook.com/infoforrefugees/posts/4204035946342713)](../assets/51d598d173a0/1*pbIgAplR7EjEaJlI9Gl6Rw.jpeg)
 
 Photos by [SOS MEDITERRANEE](https://www.facebook.com/infoforrefugees/posts/4204035946342713)
 
@@ -145,7 +145,7 @@ Alarm Phone also released a very thorough timeline of the trial, which has been 
 #### BOSNIA AND HERZEGOVINA
 
 
-![“During this time 30 but also 40 boys a day in almost extreme conditions\. They are survivors of the vicious Balkan route\. Linea d’Ombra ODV continues to provide for the most elementary needs: food, clothes, intimate, health care\. We need your support\. We need few things but aim: t\-shirt SIZE M, sweatpants locked in ankle size M\. Supporting us is very simple through the WWMIH group — “We Will Make It Happen “— just go to the link\.” Photo and Info by [Linea d’Ombra ODV](https://www.facebook.com/lorena.fornasir/posts/4056580201125713)](assets/51d598d173a0/0*SB9zxbp1WJuUwJ3z)
+![“During this time 30 but also 40 boys a day in almost extreme conditions\. They are survivors of the vicious Balkan route\. Linea d’Ombra ODV continues to provide for the most elementary needs: food, clothes, intimate, health care\. We need your support\. We need few things but aim: t\-shirt SIZE M, sweatpants locked in ankle size M\. Supporting us is very simple through the WWMIH group — “We Will Make It Happen “— just go to the link\.” Photo and Info by [Linea d’Ombra ODV](https://www.facebook.com/lorena.fornasir/posts/4056580201125713)](../assets/51d598d173a0/0*SB9zxbp1WJuUwJ3z)
 
 “During this time 30 but also 40 boys a day in almost extreme conditions\. They are survivors of the vicious Balkan route\. Linea d’Ombra ODV continues to provide for the most elementary needs: food, clothes, intimate, health care\. We need your support\. We need few things but aim: t\-shirt SIZE M, sweatpants locked in ankle size M\. Supporting us is very simple through the WWMIH group — “We Will Make It Happen “— just go to the link\.” Photo and Info by [Linea d’Ombra ODV](https://www.facebook.com/lorena.fornasir/posts/4056580201125713)
 #### LITHUANIA

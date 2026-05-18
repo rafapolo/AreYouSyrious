@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL FROM TURKEY: The Kimlik is the issue
+title: "AYS SPECIAL FROM TURKEY: The Kimlik is the issue"
 author: Are You Syrious?
 date: 2017-03-18T11:17:00.696+0000
 last_modified_at: 2018-03-01T13:54:33.719+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,turkey,kimlik,eu-turkey-deal,special]
 description: There are many things that can be said about the Turkey EU deal. But one thing that is certainly true is that this deal was one in which…
 image:
-  path: assets/20d0f5e7efa1/1*Lm9huCOntLqUN43En94UGA.jpeg
+  path: ../assets/20d0f5e7efa1/1*Lm9huCOntLqUN43En94UGA.jpeg
 ---
 
 ### AYS SPECIAL FROM TURKEY: _The Kimlik is the issue_
@@ -15,7 +15,7 @@ image:
 _There are many things that can be said about the Turkey EU deal\. But one thing that is certainly true is that this deal was one in which the Turkish government accepted the responsibility to care for refugees, the majority of whom are Syrian, within their borders\. Whilst clearly important, it is even more so than most people realise\._
 
 
-![](assets/20d0f5e7efa1/1*Lm9huCOntLqUN43En94UGA.jpeg)
+![](../assets/20d0f5e7efa1/1*Lm9huCOntLqUN43En94UGA.jpeg)
 
 
 One of the biggest problems facing Syrians here is that they are not legally considered refugees by the authorities\. Turkey has applied [“geographic limitations”](https://www.hrw.org/reports/2000/turkey2/Turk009-10.htm) to the “1951 convention of the status of refugees”\. Essentially, Europeans can be refugees in Turkey but Syrians and people from other Middle Eastern countries cannot\. This means that every right afforded to Syrians beyond those of “guests” must be fought for and then granted by the state\. The biggest issues encountered by refugees living here are:

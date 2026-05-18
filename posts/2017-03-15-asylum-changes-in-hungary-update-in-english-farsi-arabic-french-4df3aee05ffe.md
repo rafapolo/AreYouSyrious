@@ -1,5 +1,5 @@
 ---
-title: ASYLUM CHANGES in Hungary: Update in English, Farsi, Arabic, French!
+title: "ASYLUM CHANGES in Hungary: Update in English, Farsi, Arabic, French!"
 author: Are You Syrious?
 date: 2017-03-15T16:38:48.040+0000
 last_modified_at: 2017-05-08T20:34:55.717+0100
@@ -7,14 +7,14 @@ categories:
 tags: []
 description: All asylum seekers entering Hungary legally through the Transit Zone will be detained in a container camp at the Hungarian border with…
 image:
-  path: assets/4df3aee05ffe/1*_MfatkcHir599JrV6enorQ.jpeg
+  path: ../assets/4df3aee05ffe/1*_MfatkcHir599JrV6enorQ.jpeg
 ---
 
 ### ASYLUM CHANGES in Hungary: Update in English, Farsi, Arabic, French\!
 #### **All asylum seekers entering Hungary legally through the Transit Zone will be detained** in a container camp at the Hungarian border with Serbia\. This includes families, unaccompanied minors above the age of 14, single women and men\. More languages below\.
 
 
-![](assets/4df3aee05ffe/1*_MfatkcHir599JrV6enorQ.jpeg)
+![](../assets/4df3aee05ffe/1*_MfatkcHir599JrV6enorQ.jpeg)
 
 
 Please consider the following changes carefully, when planning to enter Hungary: The asylum law in Hungary will change in March 2017\. **All asylum seekers entering Hungary legally through the Transit Zone will be detained** in a container camp at the Hungarian border with Serbia\. This includes families, unaccompanied minors above the age of 14, single women and men\. Unaccompanied children under the age of 14 will be brought to an open facility in a different part of the country\. **Detention will last for the whole duration of the asylum procedure\.** In practice, the asylum procedure in Hungary lasts 4 to 9 months\. There will be no legal way to oppose detention and there will be no option for bail out \(bail out = paying money to go out\) \.

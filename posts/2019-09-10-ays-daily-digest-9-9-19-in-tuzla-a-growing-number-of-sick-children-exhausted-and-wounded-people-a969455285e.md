@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 9/9/19: In Tuzla, a growing number of sick children, exhausted and wounded people…
+title: "AYS Daily Digest 9/9/19: In Tuzla, a growing number of sick children, exhausted and wounded people…"
 author: Are You Syrious?
 date: 2019-09-10T12:48:08.016+0100
 last_modified_at: 2019-09-10T13:51:41.265+0100
@@ -7,20 +7,20 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,migration,detention]
 description: Detention more and more normalized as a step in the process which in itself is usually not communicated to the person involved With a…
 image:
-  path: assets/a969455285e/1*rhhy_pHqUAelFSBrzPwJ_A.jpeg
+  path: ../assets/a969455285e/1*rhhy_pHqUAelFSBrzPwJ_A.jpeg
 ---
 
 ### AYS Daily Digest 9/9/19: In Tuzla, a growing number of sick children, exhausted and wounded people on the move
 #### Detention more and more normalized as a step in the process which in itself is usually not communicated to the person involved with a steady rise in arrivals, Cyprus asks for help from the EU / a surge in arrivals to Tuzla, critical lack of support / deportation from Iceland,…
 
 
-![Kalesija, Tuzla \(Bosnia and Herzegovina\) — Photo: Senad Cupo](assets/a969455285e/1*rhhy_pHqUAelFSBrzPwJ_A.jpeg)
+![Kalesija, Tuzla \(Bosnia and Herzegovina\) — Photo: Senad Cupo](../assets/a969455285e/1*rhhy_pHqUAelFSBrzPwJ_A.jpeg)
 
 Kalesija, Tuzla \(Bosnia and Herzegovina\) — Photo: Senad Cupo
 #### FEATURED
 
 
-![](assets/a969455285e/1*yeXMDnHilA-9M1wIcZ6RWg.jpeg)
+![](../assets/a969455285e/1*yeXMDnHilA-9M1wIcZ6RWg.jpeg)
 
 
 On Sunday night, while the local volunteers in Tuzla were distributing the evening meal at the bus station, a man arrived carrying a sick child\. He laid the child on the concrete floor, where just the night before more than a hundred people had slept\. People started panicking at first, then they called the ambulance and the police to assist him\. The boy arrived with his father, his mother reportedly died in Syria, and he was in a very bad condition upon arrival to Tuzla\. Increasingly this type of situation has been occuring, according to the locals who have made themselves available at clothes and food distributions for these the people who are arriving and passing through Tuzla\. The pressure on locals and arrivals is building up\.
@@ -71,7 +71,7 @@ In collaboration with the Croatian police, the Bonian authorities have organized
 The Movement of Immigrants and Refugees of Caserta is shocked by what happened, they have published that they are doing everything to find out the identity of these workers and support their families\.
 
 
-![Photo: [Csa Ex Canapificio Caserta](https://www.facebook.com/Csa-Ex-Canapificio-Caserta-527886284018191/?__tn__=%2CdkCH-R-R&eid=ARCEEGRYHFXTcsURGIX7qo5p_PA7moOiwXiWq0jMgq1dFOAjSx4PAQHW-ogscEfCaDjvb9EfYZntuV3-&hc_ref=ARRao6npAtrYFu9fCZHKOyl0eCO8ETMIQEU_02vvEgKRMMUCiufFucWZENHskUA0Ti0&fref=nf&hc_location=group)](assets/a969455285e/1*N9VcL4zPcm42wb5AygaSgQ.jpeg)
+![Photo: [Csa Ex Canapificio Caserta](https://www.facebook.com/Csa-Ex-Canapificio-Caserta-527886284018191/?__tn__=%2CdkCH-R-R&eid=ARCEEGRYHFXTcsURGIX7qo5p_PA7moOiwXiWq0jMgq1dFOAjSx4PAQHW-ogscEfCaDjvb9EfYZntuV3-&hc_ref=ARRao6npAtrYFu9fCZHKOyl0eCO8ETMIQEU_02vvEgKRMMUCiufFucWZENHskUA0Ti0&fref=nf&hc_location=group)](../assets/a969455285e/1*N9VcL4zPcm42wb5AygaSgQ.jpeg)
 
 Photo: [Csa Ex Canapificio Caserta](https://www.facebook.com/Csa-Ex-Canapificio-Caserta-527886284018191/?__tn__=%2CdkCH-R-R&eid=ARCEEGRYHFXTcsURGIX7qo5p_PA7moOiwXiWq0jMgq1dFOAjSx4PAQHW-ogscEfCaDjvb9EfYZntuV3-&hc_ref=ARRao6npAtrYFu9fCZHKOyl0eCO8ETMIQEU_02vvEgKRMMUCiufFucWZENHskUA0Ti0&fref=nf&hc_location=group)
 #### FRANCE

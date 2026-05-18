@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: The criminalization of refugees
+title: "AYS SPECIAL: The criminalization of refugees"
 author: Are You Syrious?
 date: 2018-03-11T21:21:14.405+0000
 last_modified_at: 2018-03-12T10:19:08.536+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,greece,european-union,freedom-of-speech,special]
 description: Recently we receved an letter from a refugee from Iraq who is stranded in Greece. He asked us to publish this story, without mentioning his…
 image:
-  path: assets/2cf979976ce1/1*3_C6guOqdkU7LN2DiOK-4g.jpeg
+  path: ../assets/2cf979976ce1/1*3_C6guOqdkU7LN2DiOK-4g.jpeg
 ---
 
 ### AYS SPECIAL: The criminalization of refugees
@@ -15,7 +15,7 @@ image:
 _Recently we receved an letter from a refugee from Iraq who is stranded in Greece\. He asked us to publish this story, without mentioning his name\. It shows again the problem of lack of freedom of speech for many refugees in Greece, but also all over Europe\. Not only that people are living in unbearable conditions, but they are also afraid to talk openly about that being afraid they could lose even this little they have\._
 
 
-![By: Fotomoviment 15M](assets/2cf979976ce1/1*3_C6guOqdkU7LN2DiOK-4g.jpeg)
+![By: Fotomoviment 15M](../assets/2cf979976ce1/1*3_C6guOqdkU7LN2DiOK-4g.jpeg)
 
 By: Fotomoviment 15M
 

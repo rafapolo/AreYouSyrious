@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,moria,coronavirus,niger,deportations]
 description: Deportations to NIGER carry on despite border closures / Afghan workers found drowned on the river at the border with IRAN / Updates from…
 image:
-  path: assets/af35c3ba5383/1*Je5zT1lFYZgqJP1plTR6aQ.jpeg
+  path: ../assets/af35c3ba5383/1*Je5zT1lFYZgqJP1plTR6aQ.jpeg
 ---
 
 ### AYS Weekend Digest 2–3/5/2020–392 people evacuated from Moria, but where to?
@@ -15,7 +15,7 @@ image:
 Deportations to NIGER carry on despite border closures / Afghan workers found drowned on the river at the border with IRAN / Updates from local activists in FRANCE and SWITZERLAND / Rescues and arrivals in the Mediterranean / Rising violence again on LESVOS?
 
 
-![In total 120,000 refugees reside in Greece at the moment\. Many remain trapped in closed structures within highly re\-traumatizing & understaffed structures such as Vathi, Moria or Malakasa \(Photo and text by [Franziska Grillmeier](https://twitter.com/f_grillmeier/status/1255198361533190144) \)](assets/af35c3ba5383/1*Je5zT1lFYZgqJP1plTR6aQ.jpeg)
+![In total 120,000 refugees reside in Greece at the moment\. Many remain trapped in closed structures within highly re\-traumatizing & understaffed structures such as Vathi, Moria or Malakasa \(Photo and text by [Franziska Grillmeier](https://twitter.com/f_grillmeier/status/1255198361533190144) \)](../assets/af35c3ba5383/1*Je5zT1lFYZgqJP1plTR6aQ.jpeg)
 
 In total 120,000 refugees reside in Greece at the moment\. Many remain trapped in closed structures within highly re\-traumatizing & understaffed structures such as Vathi, Moria or Malakasa \(Photo and text by [Franziska Grillmeier](https://twitter.com/f_grillmeier/status/1255198361533190144) \)
 
@@ -33,18 +33,18 @@ _And if you’ve missed the past episodes, find them on [LAP’s website](https:
 On Sunday, while migration and asylum minister Mitarakis visited Moria camp on the island of Lesvos, 392 people were [bussed](https://twitter.com/f_grillmeier/status/1256912049323507712) from Moria to the port of Mytilini\.
 
 
-![Queueing for transfers to mainland, Moria, Lesvos 3/5/2020 \(Photo by MCAT: Amani Hussaini/Atawallah Mostafawi\)](assets/af35c3ba5383/1*6FN-oHHvMeRmM_LyYaOevQ.jpeg)
+![Queueing for transfers to mainland, Moria, Lesvos 3/5/2020 \(Photo by MCAT: Amani Hussaini/Atawallah Mostafawi\)](../assets/af35c3ba5383/1*6FN-oHHvMeRmM_LyYaOevQ.jpeg)
 
 Queueing for transfers to mainland, Moria, Lesvos 3/5/2020 \(Photo by MCAT: Amani Hussaini/Atawallah Mostafawi\)
 
 As confirmed by several sources, they had all a ticket to Athens but it is still not clear where they will be taken on the mainland\. They reached Pireaus port in Attica, on [two](https://twitter.com/amna_newseng/status/1257201169883115525) different [ferries](https://twitter.com/amna_newseng/status/1257237862900289536) this morning\.
 
 
-![](assets/af35c3ba5383/1*kN4kRokNX2fxWiBch6nHhw.jpeg)
+![](../assets/af35c3ba5383/1*kN4kRokNX2fxWiBch6nHhw.jpeg)
 
 
 
-![Queueing for transfers to the mainland, Moria, Lesvos 3/5/2020 \(Photo by MCAT: Amani Hussaini/Atawallah Mostafawi\)](assets/af35c3ba5383/1*VyYBLft2Z9iCgUsbz-nVYA.jpeg)
+![Queueing for transfers to the mainland, Moria, Lesvos 3/5/2020 \(Photo by MCAT: Amani Hussaini/Atawallah Mostafawi\)](../assets/af35c3ba5383/1*VyYBLft2Z9iCgUsbz-nVYA.jpeg)
 
 Queueing for transfers to the mainland, Moria, Lesvos 3/5/2020 \(Photo by MCAT: Amani Hussaini/Atawallah Mostafawi\)
 
@@ -243,11 +243,11 @@ UK
 On Sunday, Demands of a Pandemic held their fourth [banner drop](https://www.facebook.com/events/644337163088936/?active_tab=discussion) \.
 
 
-![](assets/af35c3ba5383/1*KWq5ysKpTPqpsaJfdg5DFw.jpeg)
+![](../assets/af35c3ba5383/1*KWq5ysKpTPqpsaJfdg5DFw.jpeg)
 
 
 
-![Demands from a Pandemic — End All Cages — Photos by Filippah Metcaarf & [Keira Nightly](https://www.facebook.com/keira.dignan/posts/10215428618181349:0)](assets/af35c3ba5383/1*JZO5YKh0KJn3Dy8Km5s4Dg.jpeg)
+![Demands from a Pandemic — End All Cages — Photos by Filippah Metcaarf & [Keira Nightly](https://www.facebook.com/keira.dignan/posts/10215428618181349:0)](../assets/af35c3ba5383/1*JZO5YKh0KJn3Dy8Km5s4Dg.jpeg)
 
 Demands from a Pandemic — End All Cages — Photos by Filippah Metcaarf & [Keira Nightly](https://www.facebook.com/keira.dignan/posts/10215428618181349:0)
 

@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 07.09.2017:Human Cruelty — the cost of current “migration management”
+title: "AYS DAILY DIGEST 07.09.2017:Human Cruelty — the cost of current “migration management”"
 author: Are You Syrious?
 date: 2017-09-08T05:51:28.396+0100
 last_modified_at: 2017-09-08T05:53:25.069+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,crete,libya,migration,europe]
 description: Registration updates in Greece and call for action in Crete // Volunteer opportunities in Greece and Serbia // Call to support…
 image:
-  path: assets/80c461eb803a/1*3tGhspQjbI8q4Jkhxe0jfA.jpeg
+  path: ../assets/80c461eb803a/1*3tGhspQjbI8q4Jkhxe0jfA.jpeg
 ---
 
 ### AYS DAILY DIGEST 07\.09\.2017:Human Cruelty — the cost of current “migration management”
@@ -15,7 +15,7 @@ image:
 _Registration updates in Greece and call for action in Crete // Volunteer opportunities in Greece and Serbia // Call to support anti\-deportation action in Austria // Needs list for urgent support in France // Loan project in UK // Finland deports another_
 
 
-![Photo credit: [**Acaro Tzigano Josè Arcadio**](https://www.facebook.com/acaro.tzigano?fref=gs&hc_location=group_dialog)](assets/80c461eb803a/1*3tGhspQjbI8q4Jkhxe0jfA.jpeg)
+![Photo credit: [**Acaro Tzigano Josè Arcadio**](https://www.facebook.com/acaro.tzigano?fref=gs&hc_location=group_dialog)](../assets/80c461eb803a/1*3tGhspQjbI8q4Jkhxe0jfA.jpeg)
 
 Photo credit: [**Acaro Tzigano Josè Arcadio**](https://www.facebook.com/acaro.tzigano?fref=gs&hc_location=group_dialog)
 ### Feature: Human Cruelty — the cost of current “migration management”
@@ -166,12 +166,12 @@ Are you the one? Please apply through volunteer@movementontheground\.com\. Don�
 [**TruckShop**](https://www.facebook.com/freedomofchoiceproject/?hc_ref=ARQpN-44GD3vVF5KAs7WgttAvBsYcGKIeYigKmwkNjKg6Jwu98NqFoTdJrARMVYQPX0) has announced a new project that will soon be active in Serbia — a mobile washing and drying facility\! It is being co\-sponsored by MSF and will be able to be moved to different locations, hopefully reducing the incidences of skin disease both inside and outside the camps in Serbia\. Read mere below\.
 
 
-![Photo credit: TruckShop](assets/80c461eb803a/1*BTA_s_w2MI9mKJAgRsbCoQ.jpeg)
+![Photo credit: TruckShop](../assets/80c461eb803a/1*BTA_s_w2MI9mKJAgRsbCoQ.jpeg)
 
 Photo credit: TruckShop
 
 
-![Photo Credit: TruckShop](assets/80c461eb803a/1*_BuOl2Y46wR15jxRgPgYFA.png)
+![Photo Credit: TruckShop](../assets/80c461eb803a/1*_BuOl2Y46wR15jxRgPgYFA.png)
 
 Photo Credit: TruckShop
 
@@ -218,7 +218,7 @@ Mit freundlichen Grüßen,…”
 Go [here](https://www.facebook.com/fluechtlingewillkommensalzburg) to follow the story\.
 
 
-![Photo credit: Calais Action](assets/80c461eb803a/1*Yr5uAmeF2qyMmdOzrojnpA.jpeg)
+![Photo credit: Calais Action](../assets/80c461eb803a/1*Yr5uAmeF2qyMmdOzrojnpA.jpeg)
 
 Photo credit: Calais Action
 ### FRANCE

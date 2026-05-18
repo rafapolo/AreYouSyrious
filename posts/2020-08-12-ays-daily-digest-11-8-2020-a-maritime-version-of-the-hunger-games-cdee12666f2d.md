@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [newsletter,refugees,europe,uk,human-rights]
 description: Racist attacks on the rise in Italy / Violent pushbacks from Romania to Serbia / Shots fired by HCG off the coast of Rhodes, Greece /…
 image:
-  path: assets/cdee12666f2d/1*nEYgcmyrgaacjntNu-POgQ.jpeg
+  path: ../assets/cdee12666f2d/1*nEYgcmyrgaacjntNu-POgQ.jpeg
 ---
 
 ### AYS Daily Digest 11/8/2020 \-“A maritime version of The Hunger Games”
@@ -15,7 +15,7 @@ image:
 Racist attacks on the rise in Italy / Violent pushbacks from Romania to Serbia / Shots fired by HCG off the coast of Rhodes, Greece / Offshore detention plans to continue in Malta / Situation in Tuzla, Bosnia, is deteriorating and much more…
 
 
-![Tuzla, August 2020 \(Photo taken by a long\-term volunteer\)](assets/cdee12666f2d/1*nEYgcmyrgaacjntNu-POgQ.jpeg)
+![Tuzla, August 2020 \(Photo taken by a long\-term volunteer\)](../assets/cdee12666f2d/1*nEYgcmyrgaacjntNu-POgQ.jpeg)
 
 Tuzla, August 2020 \(Photo taken by a long\-term volunteer\)
 
@@ -73,7 +73,7 @@ GREECE
 Last night 45 people in distress off Lesvos [called](https://twitter.com/alarm_phone/status/1293339825660211201) Alarm Phone\. Luckily, around 06:00 in the morning, they were [picked up by](https://twitter.com/alarm_phone/status/1293453950180614144) the Greek Coast Guard & arrived safely on Lesvos\. As reported below, it is believed that one more boat arrived on the coast of Rhodes carrying 17 people\.
 
 
-![[Aegean Boat Report](https://aegeanboatreport.com/)](assets/cdee12666f2d/1*dlDYu8zlzL22657IaZCUiA.jpeg)
+![[Aegean Boat Report](https://aegeanboatreport.com/)](../assets/cdee12666f2d/1*dlDYu8zlzL22657IaZCUiA.jpeg)
 
 [Aegean Boat Report](https://aegeanboatreport.com/)
 #### Shots fired by Hellenic Coast Guard
@@ -196,7 +196,7 @@ GERMANY
 #### Rage against deportations — Demo in Munchen, Thursday 13
 
 
-![[**Flüchtlingsrat Bay**](https://twitter.com/BFR_089)](assets/cdee12666f2d/1*Egx-XRv7jFh7GbO4br0ksQ.jpeg)
+![[**Flüchtlingsrat Bay**](https://twitter.com/BFR_089)](../assets/cdee12666f2d/1*Egx-XRv7jFh7GbO4br0ksQ.jpeg)
 
 [**Flüchtlingsrat Bay**](https://twitter.com/BFR_089)
 

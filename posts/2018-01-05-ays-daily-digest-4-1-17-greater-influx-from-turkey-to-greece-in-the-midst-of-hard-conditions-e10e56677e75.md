@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 04/01/17: Greater influx from Turkey to Greece in the midst of hard conditions
+title: "AYS Daily Digest 04/01/17: Greater influx from Turkey to Greece in the midst of hard conditions"
 author: Are You Syrious?
 date: 2018-01-05T09:45:47.274+0000
 last_modified_at: 2018-01-05T21:49:29.782+0000
 categories: 
 tags: [refugees,greece,france,europe,migration]
-description: Islands in poor condition, receiving new arrivals / Information on detention in Greece: free showers and need for aid / Serbian locals…
+description: "Islands in poor condition, receiving new arrivals / Information on detention in Greece: free showers and need for aid / Serbian locals…"
 image:
-  path: assets/e10e56677e75/1*J2F7vBsuQG3CWePwIME_Gg.jpeg
+  path: ../assets/e10e56677e75/1*J2F7vBsuQG3CWePwIME_Gg.jpeg
 ---
 
 ### AYS Daily Digest 04/01/17: Greater influx from Turkey to Greece in the midst of hard conditions
 #### _Islands in poor condition, receiving new arrivals / Information on detention in Greece: free showers and need for aid / Serbian locals protest against refugees using their power and water / Croatia’s reception centre with no cooked dinners for a month now / Italian police’s racial profiling and disappearance of refugees / Refugees in France continue struggling / EU countries bond over anti\-refugee stance / Updates, volunteer calls, and more news\. \. \._
 
 
-![Paris \(Photo from [Rastplatz](https://www.facebook.com/rastplatz/?hc_ref=ARRxB-geYtb8viGd3P4Coqf3b8ILKIjIu5VYhIYiYwIgZSbIez4fLxwmrf9XAMn1Exw) \)](assets/e10e56677e75/1*J2F7vBsuQG3CWePwIME_Gg.jpeg)
+![Paris \(Photo from [Rastplatz](https://www.facebook.com/rastplatz/?hc_ref=ARRxB-geYtb8viGd3P4Coqf3b8ILKIjIu5VYhIYiYwIgZSbIez4fLxwmrf9XAMn1Exw) \)](../assets/e10e56677e75/1*J2F7vBsuQG3CWePwIME_Gg.jpeg)
 
 Paris \(Photo from [Rastplatz](https://www.facebook.com/rastplatz/?hc_ref=ARRxB-geYtb8viGd3P4Coqf3b8ILKIjIu5VYhIYiYwIgZSbIez4fLxwmrf9XAMn1Exw) \)
 #### FEATURE: influx of arrivals from Turkey to Greece
@@ -120,7 +120,7 @@ Bad weather, still no #safepassage
 The update above was given by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?hc_ref=ARTa1ZbpuBIRskH25K5e_pUHPM5Mrjou6DsKVH-v1_P-0qjjK7p4PiLLn1upOW_iSko) \. Visit their page for more detailed statistics and information\.
 
 
-![](assets/e10e56677e75/1*g_iv4zUOKZ9hViJlwQL_rg.jpeg)
+![](../assets/e10e56677e75/1*g_iv4zUOKZ9hViJlwQL_rg.jpeg)
 
 
 
@@ -177,7 +177,7 @@ The Orange House is currently providing 480 showers a month to residents of Athe
 
 
 
-![Photo from [Help Refugees](https://www.facebook.com/HelpRefugeesUK/)](assets/e10e56677e75/1*FtaMcrTicqDXffd4q3UIIg.jpeg)
+![Photo from [Help Refugees](https://www.facebook.com/HelpRefugeesUK/)](../assets/e10e56677e75/1*FtaMcrTicqDXffd4q3UIIg.jpeg)
 
 Photo from [Help Refugees](https://www.facebook.com/HelpRefugeesUK/)
 #### SERBIA
@@ -185,11 +185,11 @@ Photo from [Help Refugees](https://www.facebook.com/HelpRefugeesUK/)
 An [update](https://www.slobodnaevropa.org/a/28955305.html) on the situation among the locals of Bački Vinogradi, a small town in the Vojvodina region of Serbia that borders with Hungary, comes from the local mayor\. After the media having written about hostility from the locals towards the refugees who have settled some 15 km in the area of Horgos, the mayor reportedly wanted to state clearly that no violence was perpetrated against the people from the side of the locals, claiming they had only expressed unease with the fact that the refugees were using their electricity and water\.
 
 
-![](assets/e10e56677e75/1*Wd3PhBgCtE_Gb16AcMFQWA.jpeg)
+![](../assets/e10e56677e75/1*Wd3PhBgCtE_Gb16AcMFQWA.jpeg)
 
 
 
-![Photos by Gabriel Tizon](assets/e10e56677e75/1*ltyLNjmYQ7VKj1Cg7PoIVg.jpeg)
+![Photos by Gabriel Tizon](../assets/e10e56677e75/1*ltyLNjmYQ7VKj1Cg7PoIVg.jpeg)
 
 Photos by Gabriel Tizon
 #### CROATIA
@@ -225,23 +225,23 @@ On Wednesday, another round up on an ethnic basis was done in Ventimiglia, Itali
 The following is a photo story by [Rastplatz](https://www.facebook.com/rastplatz/?hc_ref=ARRxB-geYtb8viGd3P4Coqf3b8ILKIjIu5VYhIYiYwIgZSbIez4fLxwmrf9XAMn1Exw) , in collaboration with [Stand up for refugees](https://www.facebook.com/sufr.ch/?fref=mentions) [Verein FAIR\.](https://www.facebook.com/VereinFAIR/?fref=mentions) , [Projekt Soup\-Port: Flüchtlingshilfe vor Ort](https://www.facebook.com/vereinsoliba/?fref=mentions) , [Everyday, just a smile](https://www.facebook.com/everydayjustasmile/?fref=mentions) , [Be Aware And Share — BAAS](https://www.facebook.com/beawareandshare.baas/?fref=mentions) , and [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/?fref=mentions) \.
 
 
-![](assets/e10e56677e75/1*weGP2TKeBwurvXr6HYmDPA.jpeg)
+![](../assets/e10e56677e75/1*weGP2TKeBwurvXr6HYmDPA.jpeg)
 
 
 
-![](assets/e10e56677e75/1*re7GQU1w-TouD6RsCy7n2w.jpeg)
+![](../assets/e10e56677e75/1*re7GQU1w-TouD6RsCy7n2w.jpeg)
 
 
 
-![](assets/e10e56677e75/1*aHWpaC_LWdXLiQETv4PQrw.jpeg)
+![](../assets/e10e56677e75/1*aHWpaC_LWdXLiQETv4PQrw.jpeg)
 
 
 
-![](assets/e10e56677e75/1*sGC56mr6-dSExKcIYWuFPw.jpeg)
+![](../assets/e10e56677e75/1*sGC56mr6-dSExKcIYWuFPw.jpeg)
 
 
 
-![](assets/e10e56677e75/1*cMYjqfKhKQ03OvSCH2os-Q.jpeg)
+![](../assets/e10e56677e75/1*cMYjqfKhKQ03OvSCH2os-Q.jpeg)
 
 #### SPAIN
 ### SAR missions

@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 14/01/2017: More than 100 people have drowned in the Mediterranean sea
+title: "AYS DAILY DIGEST 14/01/2017: More than 100 people have drowned in the Mediterranean sea"
 author: Are You Syrious?
 date: 2017-01-15T00:24:41.252+0000
 last_modified_at: 2017-01-15T10:17:46.195+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,refugees-in-belgrade,mr-mouzalas,croatia]
 description: Another tragedy in the Mediterranean with little to no reaction from the EU / When politicians in the EU react, usually it is to tighten…
 image:
-  path: assets/91159c2a8308/1*u_nb_HntNQ6sXmDGm3jiZA.jpeg
+  path: ../assets/91159c2a8308/1*u_nb_HntNQ6sXmDGm3jiZA.jpeg
 ---
 
 ### AYS DAILY DIGEST 14/01/2017: More than 100 people have drowned in the Mediterranean sea
@@ -15,7 +15,7 @@ image:
 _Another tragedy in the Mediterranean with little to no reaction from the EU / When politicians in the EU react, usually it is to tighten borders and impose new rules // People in Greece remind their government about weak response all the time, but today we are bringing a letter from Lesvos for Mr\. Mouzalas // Volunteers in Serbia are helping people with frostbite, while Hungarian government stubbornly refuses to act humanely // Young refugees in Croatia victims of a poor system and lack of responsibility // No good news from France // Are You Syrious and Hot Food Idomeni helping people in Belgrade together_
 
 
-![Photo by Igor Čoko\. Belgrade\.](assets/91159c2a8308/1*u_nb_HntNQ6sXmDGm3jiZA.jpeg)
+![Photo by Igor Čoko\. Belgrade\.](../assets/91159c2a8308/1*u_nb_HntNQ6sXmDGm3jiZA.jpeg)
 
 Photo by Igor Čoko\. Belgrade\.
 ### Feature
@@ -24,7 +24,7 @@ Photo by Igor Čoko\. Belgrade\.
 Closed borders are taking more lives every day\. If people are not freezing to death, they die in the sea while trying to fulfill their dreams and come to, what they believe, is freedom and peace\. Today, a boat with 107 people has sunk in the sea between Libya and Italy\. Only 4 people were rescued\. By the end of the day 8 bodies were recovered from the sea\. The search for remaining 95 is still going on\.
 
 
-![Photo by MSF Sea](assets/91159c2a8308/1*jVn-4FgK1naGmFSUxMVMdw.jpeg)
+![Photo by MSF Sea](../assets/91159c2a8308/1*jVn-4FgK1naGmFSUxMVMdw.jpeg)
 
 Photo by MSF Sea
 
@@ -66,15 +66,15 @@ _“People are becoming increasingly more desperate while the provision of psych
 These are some of the pictures, taken by residents of the camp, today\.
 
 
-![](assets/91159c2a8308/1*7G4ITM3jZrZEtrG-0WWzpw.jpeg)
+![](../assets/91159c2a8308/1*7G4ITM3jZrZEtrG-0WWzpw.jpeg)
 
 
 
-![](assets/91159c2a8308/1*V2Xey3iEQJZL2z1Qe2tIaw.jpeg)
+![](../assets/91159c2a8308/1*V2Xey3iEQJZL2z1Qe2tIaw.jpeg)
 
 
 
-![](assets/91159c2a8308/1*36OdNbeyIEY-l2etsbNcPg.jpeg)
+![](../assets/91159c2a8308/1*36OdNbeyIEY-l2etsbNcPg.jpeg)
 
 ### Serbia
 #### More pictures of horror from Serbia
@@ -92,11 +92,11 @@ In Serbia, the government is doing hardly anything to help people who are stayin
 
 
 
-![](assets/91159c2a8308/1*ALEzpxIbZeAUZZX9tGyVxQ.jpeg)
+![](../assets/91159c2a8308/1*ALEzpxIbZeAUZZX9tGyVxQ.jpeg)
 
 
 
-![Photo by InfoPark](assets/91159c2a8308/1*1CcrunA3wb8nelBVZ2A1LA.jpeg)
+![Photo by InfoPark](../assets/91159c2a8308/1*1CcrunA3wb8nelBVZ2A1LA.jpeg)
 
 Photo by InfoPark
 
@@ -152,7 +152,7 @@ You can also [donate to Care4Calais](http://care4calais.org/donate) \.
 Temperatures in Paris are due to go down to \-5 this upcoming week\.
 
 
-![Photo by Danika Jurisic\.](assets/91159c2a8308/1*PaE14P9c50ds3O1mr-Kvgw.jpeg)
+![Photo by Danika Jurisic\.](../assets/91159c2a8308/1*PaE14P9c50ds3O1mr-Kvgw.jpeg)
 
 Photo by Danika Jurisic\.
 

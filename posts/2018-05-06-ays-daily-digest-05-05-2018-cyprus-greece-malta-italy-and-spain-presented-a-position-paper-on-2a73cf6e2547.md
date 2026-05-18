@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 05/05/2018: Cyprus, Greece, Malta, Italy and Spain presented a Position paper on…
+title: "AYS DAILY DIGEST 05/05/2018: Cyprus, Greece, Malta, Italy and Spain presented a Position paper on…"
 author: Are You Syrious?
 date: 2018-05-06T09:20:58.474+0100
 last_modified_at: 2018-05-06T10:08:59.986+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,solidarity,europe]
 description: The 5 Southern Member States have issued a joint document with their request to the European Council when dealing with the Dublin…
 image:
-  path: assets/2a73cf6e2547/1*Z5Mjp6G8FKM_mUKt3E7xnw.jpeg
+  path: ../assets/2a73cf6e2547/1*Z5Mjp6G8FKM_mUKt3E7xnw.jpeg
 ---
 
 ### AYS DAILY DIGEST 05/05/2018: Cyprus, Greece, Malta, Italy and Spain presented a Position paper on the new reform of the Dublin regulation
@@ -15,7 +15,7 @@ image:
 _The 5 Southern Member States have issued a joint document with their request to the European Council when dealing with the Dublin regulation//37 people rescued at sea//LCG harassing Proactiva’s and Sea Watch’s vessels//New data available on arrivals on the Greek islands and the situation of unaccompanied minors in Greece//Bomberos arrived on Lesvos to face trial//An Afghan man died presumably after a fight in Patras//More news from France, Germany…_
 
 
-![Credit: Daniel Medina](assets/2a73cf6e2547/1*Z5Mjp6G8FKM_mUKt3E7xnw.jpeg)
+![Credit: Daniel Medina](../assets/2a73cf6e2547/1*Z5Mjp6G8FKM_mUKt3E7xnw.jpeg)
 
 Credit: Daniel Medina
 

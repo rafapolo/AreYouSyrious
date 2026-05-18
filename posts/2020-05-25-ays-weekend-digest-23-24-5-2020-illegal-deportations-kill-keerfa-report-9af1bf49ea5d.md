@@ -1,24 +1,24 @@
 ---
-title: AYS Weekend Digest 23–24/5/2020: Illegal deportations kill, Keerfa report
+title: "AYS Weekend Digest 23–24/5/2020: Illegal deportations kill, Keerfa report"
 author: Are You Syrious?
 date: 2020-05-25T15:41:17.636+0100
 last_modified_at: 2020-05-25T15:41:17.636+0100
 categories: Are You Syrious?
 tags: []
-description: GREECE: one man reportedly died during an illegal pushback from Greece to Turkey / LIBYA: UNHCR publish misleading statements / Several…
+description: "GREECE: one man reportedly died during an illegal pushback from Greece to Turkey / LIBYA: UNHCR publish misleading statements / Several…"
 image:
-  path: assets/9af1bf49ea5d/0*DXtFkd_xn4ftxn8P.jpeg
+  path: ../assets/9af1bf49ea5d/0*DXtFkd_xn4ftxn8P.jpeg
 ---
 
 ### AYS Weekend Digest 23–24/5/2020: Illegal deportations kill, Keerfa report
 #### GREECE: one man reportedly died during an illegal pushback from Greece to Turkey / LIBYA: UNHCR publish misleading statements / Several boats in distress in the CENTRAL MED
 
 
-![](assets/9af1bf49ea5d/0*XJJYoV1CeX-hQViW)
+![](../assets/9af1bf49ea5d/0*XJJYoV1CeX-hQViW)
 
 
 
-![](assets/9af1bf49ea5d/0*DXtFkd_xn4ftxn8P.jpeg)
+![](../assets/9af1bf49ea5d/0*DXtFkd_xn4ftxn8P.jpeg)
 
 
 Vasilis Dimakis, a prisoner in Greek prison system is being systematically denied access to education, despite being awarded with a scholarship at the Department of Political Science and Public Administration of the School of Economics and Political Sciences of the University of Athens since the academic year 2017–2018\. [Αλληλεγγύη στον κρατούμενο φοιτητή Βασίλη Δημάκη](https://www.facebook.com/justicevdimakis/?__xts__%5B0%5D=68.ARCzQpusB2bGpgCjk5IRgvxI-Ne4-Mq-1IeG8WWvYr7Ei_FWbOHwE50-HKG8rxbSycZBcZeDzDFUKhAyJ_Rg0r3e_tLApmaPEuZ3S-0f0l_mJoAo49XFw8qV8uh4lm7wz4UHfzVMS8de6aJR7untxVM2nyv7Tqw-OqEhDD5E2AVRyvMIEf-VT-rVGffk0YPrBMACTKxol2KNxiZ-5v7pPIigT9yQhZrkmoDHZil8nfYQ6Km5lD7RLEe4T9kxIQLBwyBPPAc6B-Y02ZkjdneZIywlPV5q-DANaTYnesestSun6Zqr4vn92FNRe4BeIl4Z5iongZBXHq_P8rX9OWmFdZs) — Artwork by Yorgos
@@ -75,11 +75,11 @@ Read more in this piece by [Katja Lihtenvalner](https://virusnimameja.com/2020/0
 ### Abuse and deception against evicted residents of Themistokleous squat
 
 
-![](assets/9af1bf49ea5d/0*H4joTqBpwL4Se-y5)
+![](../assets/9af1bf49ea5d/0*H4joTqBpwL4Se-y5)
 
 
 
-![](assets/9af1bf49ea5d/0*qZ53VnTLDvbPx1xY.jpeg)
+![](../assets/9af1bf49ea5d/0*qZ53VnTLDvbPx1xY.jpeg)
 
 
 Solidarity Demonstration in Exarchia, Athens \(Photo by [Anarcha Feminism](https://www.facebook.com/anarchafeminism1312/photos/pcb.547478386155958/547478112822652/?type=3&theater) \)

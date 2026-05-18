@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Lessons to be learned from Italy
+title: "AYS SPECIAL: Lessons to be learned from Italy"
 author: Are You Syrious?
 date: 2018-07-10T06:44:39.705+0100
 last_modified_at: 2018-07-16T08:28:48.754+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,special,italy,piacenza,srebrenic]
 description: Italians work hard to welcome recently arrived refugees, despite a new government that doesn’t want them. Lara J Nettelfield went to…
 image:
-  path: assets/95bf199b8bd5/1*m7pIhCBkAkDlKFAA5SVczg.jpeg
+  path: ../assets/95bf199b8bd5/1*m7pIhCBkAkDlKFAA5SVczg.jpeg
 ---
 
 ### AYS SPECIAL: Lessons to be learned from Italy
@@ -15,7 +15,7 @@ image:
 _Italians work hard to welcome recently arrived refugees, despite a new government that doesn’t want them\. Lara J Nettelfield went to Piacenza, Italy to participate in an event for World Refugee Day and learned about the city’s efforts to welcome forced migrants\._
 
 
-![By [Mustafa Jacoub](https://www.facebook.com/abo.jacoub/)](assets/95bf199b8bd5/1*m7pIhCBkAkDlKFAA5SVczg.jpeg)
+![By [Mustafa Jacoub](https://www.facebook.com/abo.jacoub/)](../assets/95bf199b8bd5/1*m7pIhCBkAkDlKFAA5SVczg.jpeg)
 
 By [Mustafa Jacoub](https://www.facebook.com/abo.jacoub/)
 
@@ -50,7 +50,7 @@ In Germany, he applied for asylum but after a year was returned to Italy, the fi
 The Protection System for Asylum Seekers and Refugees or [SPRAR](http://www.sprar.it/) program \( _Sistema di Protezione per Richiedenti Asilo e Rifugiati_ \) was created in 2002\. Piacenza launched its program in 2011\. It’s the Italian government’s most structured reception program for forced migrants\. Local municipalities work with local civil society organizations and private firms to provide extensive reception services that include housing, language classes, and vocational training\.
 
 
-![SPRAR program office in Piacenza, Italy\. Photo by LN](assets/95bf199b8bd5/1*TTv2iYIYBfPzQxz63SojYQ.jpeg)
+![SPRAR program office in Piacenza, Italy\. Photo by LN](../assets/95bf199b8bd5/1*TTv2iYIYBfPzQxz63SojYQ.jpeg)
 
 SPRAR program office in Piacenza, Italy\. Photo by LN
 
@@ -93,7 +93,7 @@ Many see parallels with darker eras before\.
 Ferrante reminds us of the fragility of our societies\. “Sometimes I imagine, anxiously, that the consensus around the bad feelings Salvini embodies \(and stimulates\) may spread beyond his intentions and slide into the mass brutality that in times of crisis is always lying in wait…”
 
 
-![Piacenza city center\. Photo by LN](assets/95bf199b8bd5/1*2Q-9_RlJ764ZZeQetDjC-Q.jpeg)
+![Piacenza city center\. Photo by LN](../assets/95bf199b8bd5/1*2Q-9_RlJ764ZZeQetDjC-Q.jpeg)
 
 Piacenza city center\. Photo by LN
 
@@ -102,7 +102,7 @@ Even little things can belie deeper attitudes\. One comment from the meeting sta
 The project’s architects are also trying to broaden the city’s currents of influence and demonstrate the benefits of diversity\. They hosted an event for World Refugee Day titled _Srebrenica’s Refugees: Never Forget_ \. The keynote speaker was the Mufti Emeritus of Bosnia and Herzegovina, Mustafa Cerić\. \(I was also invited to take part because of my research in this area\. \) The hall was filled with all 164 seats taken\. Many of the town’s refugees and asylum seekers joined\.
 
 
-![World Refugee Day conference in Piacenza\. Photo by LN](assets/95bf199b8bd5/1*ufchGvmplXT3NV-tp2TGHQ.jpeg)
+![World Refugee Day conference in Piacenza\. Photo by LN](../assets/95bf199b8bd5/1*ufchGvmplXT3NV-tp2TGHQ.jpeg)
 
 World Refugee Day conference in Piacenza\. Photo by LN
 

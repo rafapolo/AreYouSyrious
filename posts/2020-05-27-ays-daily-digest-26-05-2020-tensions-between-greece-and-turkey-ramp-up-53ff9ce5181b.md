@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,greece,turkey]
 description: More Illegal Pushbacks in the Aegean///What Is Going On In Kranidi?///NGOs Condemn Serbian Government’s Razor Wire Purchase
 image:
-  path: assets/53ff9ce5181b/0*j77tOdq44qw_u04p
+  path: ../assets/53ff9ce5181b/0*j77tOdq44qw_u04p
 ---
 
 ### AYS Daily Digest 26/05/20 — Tensions Between Greece and Turkey Ramp Up
 #### More Illegal Pushbacks in the Aegean///What Is Going On In Kranidi?///NGOs Condemn Serbian Government’s Razor Wire Purchase
 
 
-![People rescued after an illegal pushback from Greece\. Photo credit: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/photos/pcb.839900739866365/839900626533043/?type=3&theater)](assets/53ff9ce5181b/0*j77tOdq44qw_u04p)
+![People rescued after an illegal pushback from Greece\. Photo credit: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/photos/pcb.839900739866365/839900626533043/?type=3&theater)](../assets/53ff9ce5181b/0*j77tOdq44qw_u04p)
 
 People rescued after an illegal pushback from Greece\. Photo credit: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/photos/pcb.839900739866365/839900626533043/?type=3&theater)
 
@@ -30,11 +30,11 @@ While two governments duke it out over meters of land and tiny silt islands, one
 ### Losing jobs they had to work hard to get as refugees in the country, during the pandemic — if we don’t help them, they lose home for the second time
 
 
-![](assets/53ff9ce5181b/0*fLiQqe55zvUEeI9C)
+![](../assets/53ff9ce5181b/0*fLiQqe55zvUEeI9C)
 
 
 
-![](assets/53ff9ce5181b/0*RRmxsOLdvWXExxGU.jpeg)
+![](../assets/53ff9ce5181b/0*RRmxsOLdvWXExxGU.jpeg)
 
 
 **Along with a number of problems they already had to face in a foreign country, the pandemic was the last straw because many lost their jobs because of it, and were left without a place to live due to the earthquake that hit Croatian capital\. Now they face losing jobs, homes and potentially being separated from their children\.**

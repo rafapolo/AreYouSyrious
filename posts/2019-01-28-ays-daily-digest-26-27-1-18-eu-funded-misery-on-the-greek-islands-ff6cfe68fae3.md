@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 26–27/1/18: EU-funded misery on the Greek islands
+title: "AYS Daily Digest 26–27/1/18: EU-funded misery on the Greek islands"
 author: Are You Syrious?
 date: 2019-01-28T10:36:23.861+0000
 last_modified_at: 2019-01-28T14:56:51.679+0000
@@ -7,24 +7,24 @@ categories: Are You Syrious?
 tags: [refugees,europe,digest,greece,italy]
 description: Unbearable situation in the Aegean continues / Solidarity protests and international pressure over Italy / Spain proposes increase in…
 image:
-  path: assets/ff6cfe68fae3/1*7QdO4tT-keulGiXLBsfFjw.jpeg
+  path: ../assets/ff6cfe68fae3/1*7QdO4tT-keulGiXLBsfFjw.jpeg
 ---
 
 ### AYS Daily Digest 26–27/1/18: EU\-funded misery on the Greek islands
 #### Unbearable situation continues in the Aegean / Solidarity protests and international pressure over Italy / Spain proposes increase in deportations and detention / New deportations from Germany to Afghanistan announced / A legislative change in Iceland announces equal reception conditions for resettled refugees and asylum seekers / more news and updates
 
 
-![Samos, Greece \(Photo: [Nicoletta Novara](https://www.facebook.com/nicoletta.novara.3?__tn__=%2CdKH-R-R&eid=ARAWwAtfTUEkj7qPJeJH7ledbzRrTYCIaFOw5xYs7ljNI2SAwjLzQ5_LFMFjnM3NjInO6XoMcZXCU3-g&fref=mentions) \)](assets/ff6cfe68fae3/1*7QdO4tT-keulGiXLBsfFjw.jpeg)
+![Samos, Greece \(Photo: [Nicoletta Novara](https://www.facebook.com/nicoletta.novara.3?__tn__=%2CdKH-R-R&eid=ARAWwAtfTUEkj7qPJeJH7ledbzRrTYCIaFOw5xYs7ljNI2SAwjLzQ5_LFMFjnM3NjInO6XoMcZXCU3-g&fref=mentions) \)](../assets/ff6cfe68fae3/1*7QdO4tT-keulGiXLBsfFjw.jpeg)
 
 Samos, Greece \(Photo: [Nicoletta Novara](https://www.facebook.com/nicoletta.novara.3?__tn__=%2CdKH-R-R&eid=ARAWwAtfTUEkj7qPJeJH7ledbzRrTYCIaFOw5xYs7ljNI2SAwjLzQ5_LFMFjnM3NjInO6XoMcZXCU3-g&fref=mentions) \)
 #### FEATURE
 
 
-![](assets/ff6cfe68fae3/1*M9XHxdHqepBdM-Q3rNnuRQ.jpeg)
+![](../assets/ff6cfe68fae3/1*M9XHxdHqepBdM-Q3rNnuRQ.jpeg)
 
 
 
-![Photos: [Nicoletta Novara](https://www.facebook.com/nicoletta.novara.3?__tn__=%2CdKH-R-R&eid=ARAWwAtfTUEkj7qPJeJH7ledbzRrTYCIaFOw5xYs7ljNI2SAwjLzQ5_LFMFjnM3NjInO6XoMcZXCU3-g&fref=mentions)](assets/ff6cfe68fae3/1*UsIlLWs-hBcpW7zC5kVugw.jpeg)
+![Photos: [Nicoletta Novara](https://www.facebook.com/nicoletta.novara.3?__tn__=%2CdKH-R-R&eid=ARAWwAtfTUEkj7qPJeJH7ledbzRrTYCIaFOw5xYs7ljNI2SAwjLzQ5_LFMFjnM3NjInO6XoMcZXCU3-g&fref=mentions)](../assets/ff6cfe68fae3/1*UsIlLWs-hBcpW7zC5kVugw.jpeg)
 
 Photos: [Nicoletta Novara](https://www.facebook.com/nicoletta.novara.3?__tn__=%2CdKH-R-R&eid=ARAWwAtfTUEkj7qPJeJH7ledbzRrTYCIaFOw5xYs7ljNI2SAwjLzQ5_LFMFjnM3NjInO6XoMcZXCU3-g&fref=mentions)
 
@@ -87,15 +87,15 @@ Photos: [Nicoletta Novara](https://www.facebook.com/nicoletta.novara.3?__tn__=%2
 
 
 
-![](assets/ff6cfe68fae3/1*_xRjhUM6d7FkzEjE1HnOGA.jpeg)
+![](../assets/ff6cfe68fae3/1*_xRjhUM6d7FkzEjE1HnOGA.jpeg)
 
 
 
-![](assets/ff6cfe68fae3/1*NRfW-d83kImYL1PYdX-Tbg.jpeg)
+![](../assets/ff6cfe68fae3/1*NRfW-d83kImYL1PYdX-Tbg.jpeg)
 
 
 
-![Photos: [Nicoletta Novara](https://www.facebook.com/nicoletta.novara.3?__tn__=%2CdKH-R-R&eid=ARAWwAtfTUEkj7qPJeJH7ledbzRrTYCIaFOw5xYs7ljNI2SAwjLzQ5_LFMFjnM3NjInO6XoMcZXCU3-g&fref=mentions)](assets/ff6cfe68fae3/1*z8lGsZdJOzW1A9qvQI_z0A.jpeg)
+![Photos: [Nicoletta Novara](https://www.facebook.com/nicoletta.novara.3?__tn__=%2CdKH-R-R&eid=ARAWwAtfTUEkj7qPJeJH7ledbzRrTYCIaFOw5xYs7ljNI2SAwjLzQ5_LFMFjnM3NjInO6XoMcZXCU3-g&fref=mentions)](../assets/ff6cfe68fae3/1*z8lGsZdJOzW1A9qvQI_z0A.jpeg)
 
 Photos: [Nicoletta Novara](https://www.facebook.com/nicoletta.novara.3?__tn__=%2CdKH-R-R&eid=ARAWwAtfTUEkj7qPJeJH7ledbzRrTYCIaFOw5xYs7ljNI2SAwjLzQ5_LFMFjnM3NjInO6XoMcZXCU3-g&fref=mentions)
 
@@ -113,15 +113,15 @@ Photos: [Nicoletta Novara](https://www.facebook.com/nicoletta.novara.3?__tn__=%2
 
 
 
-![](assets/ff6cfe68fae3/1*KXBbq_1fIRxmLNikp8u0Yw.jpeg)
+![](../assets/ff6cfe68fae3/1*KXBbq_1fIRxmLNikp8u0Yw.jpeg)
 
 
 
-![](assets/ff6cfe68fae3/1*Ww9xpN0fqUqvz7ejvOgyhg.jpeg)
+![](../assets/ff6cfe68fae3/1*Ww9xpN0fqUqvz7ejvOgyhg.jpeg)
 
 
 
-![Photos: [Nicoletta Novara](https://www.facebook.com/nicoletta.novara.3?__tn__=%2CdKH-R-R&eid=ARAWwAtfTUEkj7qPJeJH7ledbzRrTYCIaFOw5xYs7ljNI2SAwjLzQ5_LFMFjnM3NjInO6XoMcZXCU3-g&fref=mentions)](assets/ff6cfe68fae3/1*bBCFv7RAqqGj2F1EFxs_HA.jpeg)
+![Photos: [Nicoletta Novara](https://www.facebook.com/nicoletta.novara.3?__tn__=%2CdKH-R-R&eid=ARAWwAtfTUEkj7qPJeJH7ledbzRrTYCIaFOw5xYs7ljNI2SAwjLzQ5_LFMFjnM3NjInO6XoMcZXCU3-g&fref=mentions)](../assets/ff6cfe68fae3/1*bBCFv7RAqqGj2F1EFxs_HA.jpeg)
 
 Photos: [Nicoletta Novara](https://www.facebook.com/nicoletta.novara.3?__tn__=%2CdKH-R-R&eid=ARAWwAtfTUEkj7qPJeJH7ledbzRrTYCIaFOw5xYs7ljNI2SAwjLzQ5_LFMFjnM3NjInO6XoMcZXCU3-g&fref=mentions)
 
@@ -150,11 +150,11 @@ As we reported yesterday, the power cuts in Moria continue and so does the ongoi
 
 
 
-![](assets/ff6cfe68fae3/1*JjlD6DIhZJR2i3tsw_pZCw.jpeg)
+![](../assets/ff6cfe68fae3/1*JjlD6DIhZJR2i3tsw_pZCw.jpeg)
 
 
 
-![Photo: Anna Alboth](assets/ff6cfe68fae3/1*C15x6OEGwWZ7P1s0AnolXg.jpeg)
+![Photo: Anna Alboth](../assets/ff6cfe68fae3/1*C15x6OEGwWZ7P1s0AnolXg.jpeg)
 
 Photo: Anna Alboth
 
@@ -163,11 +163,11 @@ Photo: Anna Alboth
 
 
 
-![](assets/ff6cfe68fae3/1*lnIqCd2xEcnAP43ANViQHA.jpeg)
+![](../assets/ff6cfe68fae3/1*lnIqCd2xEcnAP43ANViQHA.jpeg)
 
 
 
-![Moria, Lesvos \(Photos: Anna Alboth\)](assets/ff6cfe68fae3/1*LzP75LdcMGRzZ75gboChfA.jpeg)
+![Moria, Lesvos \(Photos: Anna Alboth\)](../assets/ff6cfe68fae3/1*LzP75LdcMGRzZ75gboChfA.jpeg)
 
 Moria, Lesvos \(Photos: Anna Alboth\)
 ### Athens
@@ -263,7 +263,7 @@ Mostly cloudy, rain \(in some places heavier, with strong winds\) in the Adriati
 ### Sarajevo
 
 
-![“Almost 30 stoves we installed in total over the last weeks together with AidBrigade\. As the fire wood is expensive and hard to store in the wet weather we were looking for a more effective and sustainable solution\. Two weeks ago we started with the support of Kunterbunter Handlungsspielraum — KbH to distribute fire briquettes together with the wood, which burns better and keep the warmth longer\. Another advantage is that the briquettes are creating less ash which makes it easier for the guys to clean the stoves\. The test run was very good to we are expecting a big delivery this week and will continue this mix for the next weeks\.” — BASIS](assets/ff6cfe68fae3/1*exJSvhFBffEzSHhja8NhkQ.jpeg)
+![“Almost 30 stoves we installed in total over the last weeks together with AidBrigade\. As the fire wood is expensive and hard to store in the wet weather we were looking for a more effective and sustainable solution\. Two weeks ago we started with the support of Kunterbunter Handlungsspielraum — KbH to distribute fire briquettes together with the wood, which burns better and keep the warmth longer\. Another advantage is that the briquettes are creating less ash which makes it easier for the guys to clean the stoves\. The test run was very good to we are expecting a big delivery this week and will continue this mix for the next weeks\.” — BASIS](../assets/ff6cfe68fae3/1*exJSvhFBffEzSHhja8NhkQ.jpeg)
 
 “Almost 30 stoves we installed in total over the last weeks together with AidBrigade\. As the fire wood is expensive and hard to store in the wet weather we were looking for a more effective and sustainable solution\. Two weeks ago we started with the support of Kunterbunter Handlungsspielraum — KbH to distribute fire briquettes together with the wood, which burns better and keep the warmth longer\. Another advantage is that the briquettes are creating less ash which makes it easier for the guys to clean the stoves\. The test run was very good to we are expecting a big delivery this week and will continue this mix for the next weeks\.” — BASIS
 #### ITALY
@@ -272,11 +272,11 @@ Mostly cloudy, rain \(in some places heavier, with strong winds\) in the Adriati
 “Dozens of people are kept inside these metal containers for up to 24 hours or more, without food, water, toilets, medical attention or a roof\. The floor is kept wet so no one can sit or lie down, making it an unbearable situation for the already exhausted, tired and sick people there\.”
 
 
-![](assets/ff6cfe68fae3/1*3TvSUE3K7Ju0FyR5UNDbxA.jpeg)
+![](../assets/ff6cfe68fae3/1*3TvSUE3K7Ju0FyR5UNDbxA.jpeg)
 
 
 
-![Photos: [Kesha Niya](https://www.facebook.com/KeshaNiyaProject/?__tn__=%2CdkCH-R-R&eid=ARCBZVAZ0aEXY-tPdOjG59bzfV0fQgwZoq-BM5Jb4KR534urbIue7fuFgce1kj8jK0e7WGXfKERJ536v&hc_ref=ARTZ1Q2R7-YjQiI7q6pPEPQ2rMiq_UBADa4b2G7NPXE1mIbj2nJDs-XCa2omgq_lWZk&fref=nf&hc_location=group)](assets/ff6cfe68fae3/1*fiBpI1u9g7qz8LpmLc2I5g.jpeg)
+![Photos: [Kesha Niya](https://www.facebook.com/KeshaNiyaProject/?__tn__=%2CdkCH-R-R&eid=ARCBZVAZ0aEXY-tPdOjG59bzfV0fQgwZoq-BM5Jb4KR534urbIue7fuFgce1kj8jK0e7WGXfKERJ536v&hc_ref=ARTZ1Q2R7-YjQiI7q6pPEPQ2rMiq_UBADa4b2G7NPXE1mIbj2nJDs-XCa2omgq_lWZk&fref=nf&hc_location=group)](../assets/ff6cfe68fae3/1*fiBpI1u9g7qz8LpmLc2I5g.jpeg)
 
 Photos: [Kesha Niya](https://www.facebook.com/KeshaNiyaProject/?__tn__=%2CdkCH-R-R&eid=ARCBZVAZ0aEXY-tPdOjG59bzfV0fQgwZoq-BM5Jb4KR534urbIue7fuFgce1kj8jK0e7WGXfKERJ536v&hc_ref=ARTZ1Q2R7-YjQiI7q6pPEPQ2rMiq_UBADa4b2G7NPXE1mIbj2nJDs-XCa2omgq_lWZk&fref=nf&hc_location=group)
 
@@ -330,7 +330,7 @@ There are no legal grounds [reportedly](http://www.asgi.it/media/comunicati-stam
 More than 10,000 people have gathered in Genova, protesting against the infamous Salvini decree, supporting the Sea Watch and other search and rescue crews who are and have been saving lives across the Mediterranean sea, only to be left to float, with people who need a safe port onboard their vessel\.
 
 
-[![A Genova 10mila in piazza contro il decreto Salvini: "Liberate i 47 migranti della Sea Watch"](assets/ff6cfe68fae3/67d6_hqdefault.jpg "A Genova 10mila in piazza contro il decreto Salvini: "Liberate i 47 migranti della Sea Watch"")](http://www.youtube.com/watch?v=okSibYEsYe0)
+[![A Genova 10mila in piazza contro il decreto Salvini: "Liberate i 47 migranti della Sea Watch"](../assets/ff6cfe68fae3/67d6_hqdefault.jpg "A Genova 10mila in piazza contro il decreto Salvini: "Liberate i 47 migranti della Sea Watch"")](http://www.youtube.com/watch?v=okSibYEsYe0)
 
 
 Demonstrating against current policies and those who spread hate across social media and in real life, a loud and willing majority of people wanted to [make it clear](https://video.repubblica.it/edizione/genova/a-genova-10mila-in-piazza-contro-il-decreto-salvini-liberate-i-47-migranti-della-sea-watch/325536/326152?fbclid=IwAR0cdV3wwgM6jqZ8jCXU6GoSxzTymNmFlwYXFvlguxHluR-mYpCz-RxtLzo&refresh_ce) they are “ready to face the phenomenon of migration with all seriousness and humanity\.”

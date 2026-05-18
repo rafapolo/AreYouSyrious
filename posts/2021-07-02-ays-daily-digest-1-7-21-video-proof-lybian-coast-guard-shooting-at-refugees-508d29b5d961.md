@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 1/7/21: Video proof: Lybian coast guard shooting at refugees
+title: "AYS Daily Digest 1/7/21: Video proof: Lybian coast guard shooting at refugees"
 author: Are You Syrious?
 date: 2021-07-02T19:28:03.376+0100
 last_modified_at: 2021-07-02T19:28:03.376+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,migrants,search-and-rescue,people-on-the-move,lybia]
 description: Sea Watch revealed a video of the so-called Lybian coast guard opening fire to a boat with about 50 people // Lesvos mutual aid &…
 image:
-  path: assets/508d29b5d961/0*TReed0Z6jXDJoOFc
+  path: ../assets/508d29b5d961/0*TReed0Z6jXDJoOFc
 ---
 
 ### AYS Daily Digest 1/7/21: Video proof: Lybian coast guard shooting at refugees
 #### Sea Watch revealed a video of the so\-called Lybian coast guard opening fire to a boat with about 50 people // Lesvos mutual aid & solidarity network looking for support // Movement On The Ground decides to work in the new camp on Samos // Hunger strikers at the ULB University in Brussels need medical support
 
 
-![“Ocean Viking spotted this wooden vessel in the Italian rescue zone\. Empty\. Inside we could see bottles of water and wrappers\. Circumstances remain unclear\.” — Photo: [**Nikolaj Nielsen**](https://twitter.com/NikolajNielsen)](assets/508d29b5d961/0*TReed0Z6jXDJoOFc)
+![“Ocean Viking spotted this wooden vessel in the Italian rescue zone\. Empty\. Inside we could see bottles of water and wrappers\. Circumstances remain unclear\.” — Photo: [**Nikolaj Nielsen**](https://twitter.com/NikolajNielsen)](../assets/508d29b5d961/0*TReed0Z6jXDJoOFc)
 
 “Ocean Viking spotted this wooden vessel in the Italian rescue zone\. Empty\. Inside we could see bottles of water and wrappers\. Circumstances remain unclear\.” — Photo: [**Nikolaj Nielsen**](https://twitter.com/NikolajNielsen)
 
@@ -70,7 +70,7 @@ At the same time, with the Vathy camp set to close, and the remaining people in 
 An activist network of comrades and friends active on Lesvos, with ties to a number of collectives and movements, is looking for support in order to pursue with their activities on the ground:
 
 
-![](assets/508d29b5d961/0*NV61q4Fm2VQ3Wsk0.jpg)
+![](../assets/508d29b5d961/0*NV61q4Fm2VQ3Wsk0.jpg)
 
 
 

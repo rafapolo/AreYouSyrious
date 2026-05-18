@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,migrants,uk,denmark,libya]
 description: 
 image:
-  path: assets/ec9dde231314/0*EyC2UJiE6rxyyfZu
+  path: ../assets/ec9dde231314/0*EyC2UJiE6rxyyfZu
 ---
 
 ### AYS Daily Digest 27/04/2021 — More Details on Cruelty of Home Office’s New Plan for Immigration
 #### Upcoming Syrian Presidential Elections Illegitimate, Rights Groups Say// Statements on Closure of Kara Tepe Camp// Plenary Debates RE: Frontex Budget
 
 
-![Photos of some of the people who died last week in a shipwreck that killed 130 people\. Collection via [Avvenire](https://www.avvenire.it/attualita/pagine/i-volti-dei-desaparecidos-del-mediterraneo-1?fbclid=IwAR10VM8gSrEvlm5Euo4Dkln5xiv_O3uQxa90MRu_Qd2I7T2cLyVNsYliFJ4)](assets/ec9dde231314/0*EyC2UJiE6rxyyfZu)
+![Photos of some of the people who died last week in a shipwreck that killed 130 people\. Collection via [Avvenire](https://www.avvenire.it/attualita/pagine/i-volti-dei-desaparecidos-del-mediterraneo-1?fbclid=IwAR10VM8gSrEvlm5Euo4Dkln5xiv_O3uQxa90MRu_Qd2I7T2cLyVNsYliFJ4)](../assets/ec9dde231314/0*EyC2UJiE6rxyyfZu)
 
 Photos of some of the people who died last week in a shipwreck that killed 130 people\. Collection via [Avvenire](https://www.avvenire.it/attualita/pagine/i-volti-dei-desaparecidos-del-mediterraneo-1?fbclid=IwAR10VM8gSrEvlm5Euo4Dkln5xiv_O3uQxa90MRu_Qd2I7T2cLyVNsYliFJ4)
 #### FEATURE
@@ -81,7 +81,7 @@ The International Rescue Committee, which has been operating in Greece since 201
 Others have also criticized the move to close Kara Tepe\. MSF psychologist Maria Eliana Tunno called the situation on the island “absurd” and said that the prospect of [moving to Moria 2\.0](https://www.infomigrants.net/en/post/31806/lesbos-msf-condemns-closure-of-kara-tepe-refugee-camp?fbclid=IwAR2IQW1NDGF_S48-eWkNPqCh7fVgzB-c27gvSihixu9a7q-HprD1Z-anRcQ) has caused at least one patient to suffer a serious relapse\. The artist Yorgos Konstantinou pointed out the difference between [Mitsotakis’ promises in 2019](https://www.facebook.com/pikpalesvos/posts/2934726486802763) to guarantee decent living conditions compared to his government’s current actions\.
 
 
-![Translated text from the artist [Yorgos Konstantinou](https://www.facebook.com/photo/?fbid=10223510185439427&set=a.10201051125376962) ’s work: Mitsotakis 2019: “We will guarantee decent living conditions at all the welcoming facilities, with special care for families and other vulnerable groups” Mitsotakis 2021: “We close the only decent facilities for refugees \( Pikpa and Kara Tepe 1\) on Lesvos\. We are responsible of the fact that 85% of refugee children have no access to school\. We have hundreds of families living in tents\. On muddy ground, without heating, electricity or water\. We stop providing cash assistance to refugees and their families\. We invest millions in barbed wires, fences and building closed camps\.”](assets/ec9dde231314/0*EOF1cgDAQr33vg8v)
+![Translated text from the artist [Yorgos Konstantinou](https://www.facebook.com/photo/?fbid=10223510185439427&set=a.10201051125376962) ’s work: Mitsotakis 2019: “We will guarantee decent living conditions at all the welcoming facilities, with special care for families and other vulnerable groups” Mitsotakis 2021: “We close the only decent facilities for refugees \( Pikpa and Kara Tepe 1\) on Lesvos\. We are responsible of the fact that 85% of refugee children have no access to school\. We have hundreds of families living in tents\. On muddy ground, without heating, electricity or water\. We stop providing cash assistance to refugees and their families\. We invest millions in barbed wires, fences and building closed camps\.”](../assets/ec9dde231314/0*EOF1cgDAQr33vg8v)
 
 Translated text from the artist [Yorgos Konstantinou](https://www.facebook.com/photo/?fbid=10223510185439427&set=a.10201051125376962) ’s work: Mitsotakis 2019: “We will guarantee decent living conditions at all the welcoming facilities, with special care for families and other vulnerable groups” Mitsotakis 2021: “We close the only decent facilities for refugees \( Pikpa and Kara Tepe 1\) on Lesvos\. We are responsible of the fact that 85% of refugee children have no access to school\. We have hundreds of families living in tents\. On muddy ground, without heating, electricity or water\. We stop providing cash assistance to refugees and their families\. We invest millions in barbed wires, fences and building closed camps\.”
 #### Jamal’s artwork travels while he is detained
@@ -99,7 +99,7 @@ Today is the second day of Khora Asylum Support Team’s fundraiser\. Learn more
 #### Awful Food Supply in Lipa Camp
 
 
-![Photo credit: [Muhammad Afridi](https://www.facebook.com/photo/?fbid=1473452259662641&set=gm.769945167052783)](assets/ec9dde231314/0*iqkkMo8i-ej5w7ql)
+![Photo credit: [Muhammad Afridi](https://www.facebook.com/photo/?fbid=1473452259662641&set=gm.769945167052783)](../assets/ec9dde231314/0*iqkkMo8i-ej5w7ql)
 
 Photo credit: [Muhammad Afridi](https://www.facebook.com/photo/?fbid=1473452259662641&set=gm.769945167052783)
 
@@ -205,7 +205,7 @@ Although EU officials have criticized Denmark’s decision to repatriate people 
 Hundreds of local municipalities across the continent have expressed their readiness to welcome people on the move\. However, these messages are often ignored by those with higher power\. This video aims to highlight local initiatives to build a grassroots movement across the continent that can affect legislation\.
 
 
-[![#RefugeesWelcome in Your Community: Be Part of A Welcoming Europe](assets/ec9dde231314/e2bc_hqdefault.jpg "#RefugeesWelcome in Your Community: Be Part of A Welcoming Europe")](https://www.youtube.com/watch?v=gxGP6L4uXUI)
+[![#RefugeesWelcome in Your Community: Be Part of A Welcoming Europe](../assets/ec9dde231314/e2bc_hqdefault.jpg "#RefugeesWelcome in Your Community: Be Part of A Welcoming Europe")](https://www.youtube.com/watch?v=gxGP6L4uXUI)
 
 #### WORTH READING
 

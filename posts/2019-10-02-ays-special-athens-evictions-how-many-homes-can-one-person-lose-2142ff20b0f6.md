@@ -1,5 +1,5 @@
 ---
-title: AYS Special — Athens Evictions: How many homes can one person lose?
+title: "AYS Special — Athens Evictions: How many homes can one person lose?"
 author: Are You Syrious?
 date: 2019-10-02T15:31:01.101+0100
 last_modified_at: 2019-10-02T15:31:01.101+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,special,exarcheia,greece,athens]
 description: Only a few days after the victory in the general elections in July, Greek police enacted the eviction of the “City Plaza”, with embedded…
 image:
-  path: assets/2142ff20b0f6/1*294EBEFYbNrbcJFCMkHHbQ.jpeg
+  path: ../assets/2142ff20b0f6/1*294EBEFYbNrbcJFCMkHHbQ.jpeg
 ---
 
 ### AYS Special — Athens Evictions: How many homes can one person lose?
@@ -25,7 +25,7 @@ On the 23rd of September, 143 people have been evicted from 5th School\.
 The following article was written by one of our Athens\-based editors on [her blog](http://musty.wordpress.com/2019/09/26/athens-evictions-how-many-homes-can-one-person-lose/?fbclid=IwAR0pJE5nKOW8GqtYdgSvXp8cFwq0VNH72l1KEezGq_JnNW5NHPE22l3I3Nk) , we are pleased to repost it and share it\.
 
 
-![Photo Credit: Marios Lolos, Art Against](assets/2142ff20b0f6/1*294EBEFYbNrbcJFCMkHHbQ.jpeg)
+![Photo Credit: Marios Lolos, Art Against](../assets/2142ff20b0f6/1*294EBEFYbNrbcJFCMkHHbQ.jpeg)
 
 Photo Credit: Marios Lolos, Art Against
 

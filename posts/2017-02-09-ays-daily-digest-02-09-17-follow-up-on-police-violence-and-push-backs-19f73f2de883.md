@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,police-brutality,refugee-camps,calais]
 description: Follow up on reports of police violence and push-backs from Croatia / Volunteers report from Serbia, Macedonia, Greece and more / Teens…
 image:
-  path: assets/19f73f2de883/1*YRTl__rtG4HfL28lequA8A.jpeg
+  path: ../assets/19f73f2de883/1*YRTl__rtG4HfL28lequA8A.jpeg
 ---
 
 ### AYS DAILY DIGEST 09/02/17 — Follow up on police violence and push\-backs
@@ -15,7 +15,7 @@ image:
 _Follow up on reports of police violence and push\-backs from Croatia / Volunteers report from Serbia, Macedonia, Greece and more / Teens arrested for attempted homicide in Denmark / Swedish journalist convicted of smuggling / New deportation plans call for new solidarity demonstrations_
 
 
-![Photo by [Igor Čoko](http://www.igorcoko.net)](assets/19f73f2de883/1*YRTl__rtG4HfL28lequA8A.jpeg)
+![Photo by [Igor Čoko](http://www.igorcoko.net)](../assets/19f73f2de883/1*YRTl__rtG4HfL28lequA8A.jpeg)
 
 Photo by [Igor Čoko](http://www.igorcoko.net)
 #### FEATURE
@@ -36,19 +36,19 @@ The Centre for Peace Studies warned about refugees’s statements they were even
 In July 2016, FSWL started the School Tent project\. Now, with donations and support, they were able to fully equip the school, providing teachers’ salaries and stationery for children, and covering other expenses\. 60 students aged 6–12 are now able to attend school there\.
 
 
-![](assets/19f73f2de883/1*rz30P_7UJEgn74QN4oLR6g.jpeg)
+![](../assets/19f73f2de883/1*rz30P_7UJEgn74QN4oLR6g.jpeg)
 
 
 
-![](assets/19f73f2de883/1*nUH013qq4J6YNX5hb9vAmA.jpeg)
+![](../assets/19f73f2de883/1*nUH013qq4J6YNX5hb9vAmA.jpeg)
 
 
 
-![](assets/19f73f2de883/1*wvn1LsAcsAZzH73OuAuMew.jpeg)
+![](../assets/19f73f2de883/1*wvn1LsAcsAZzH73OuAuMew.jpeg)
 
 
 
-![Photos by From Syria With Love](assets/19f73f2de883/1*bjiLFm8IbEZBWfXOi08UEA.jpeg)
+![Photos by From Syria With Love](../assets/19f73f2de883/1*bjiLFm8IbEZBWfXOi08UEA.jpeg)
 
 Photos by From Syria With Love
 ### Volunteers report from Serbia, Macedonia and Greece
@@ -78,11 +78,11 @@ Photos by From Syria With Love
 More photos can be found [at their page](https://www.facebook.com/migszolszeged/) \.
 
 
-![](assets/19f73f2de883/1*8ry1qnkGSfQLc6jymEXJWA.jpeg)
+![](../assets/19f73f2de883/1*8ry1qnkGSfQLc6jymEXJWA.jpeg)
 
 
 
-![[Subotica, Brick Factory](https://www.facebook.com/media/set/?set=a.397784280559327.1073741862.126963164308108&type=3) , photos by MigSzol Szeged](assets/19f73f2de883/1*OOr7M5rNeNrlOeF0X8D3dA.jpeg)
+![[Subotica, Brick Factory](https://www.facebook.com/media/set/?set=a.397784280559327.1073741862.126963164308108&type=3) , photos by MigSzol Szeged](../assets/19f73f2de883/1*OOr7M5rNeNrlOeF0X8D3dA.jpeg)
 
 [Subotica, Brick Factory](https://www.facebook.com/media/set/?set=a.397784280559327.1073741862.126963164308108&type=3) , photos by MigSzol Szeged
 
@@ -109,11 +109,11 @@ High wire around the camp makes it look rather like concentration camp than a pl
 The camp is placed in an industrial shipyard filled with rusting shipping containers, and absolutely everything is screaming that this is not a good place to live, especially not for children\. The site and its surroundings are full of steel, dust, and rocks, by the sea\. In a close proximity there is a bus stop, by the road and it take about 45 minutes to get to Athens\. As we were informed, there are several NGOs working inside the camp, as well as the school and medical facilities\. But yet, like any other camp, it is an extremely inhumane place and people should not be forced to live inside\.
 
 
-![](assets/19f73f2de883/1*YGe1ZvxNvSEGOg9O7U-jcA.jpeg)
+![](../assets/19f73f2de883/1*YGe1ZvxNvSEGOg9O7U-jcA.jpeg)
 
 
 
-![Photos by AYS volunteer](assets/19f73f2de883/1*HQpwWJxI0sNiDl62a6vHlA.jpeg)
+![Photos by AYS volunteer](../assets/19f73f2de883/1*HQpwWJxI0sNiDl62a6vHlA.jpeg)
 
 Photos by AYS volunteer
 
@@ -140,11 +140,11 @@ Okikopolis Social Centre
 
 
 
-![](assets/19f73f2de883/1*i6oDKwhZvnjhWfspfdPkFg.jpeg)
+![](../assets/19f73f2de883/1*i6oDKwhZvnjhWfspfdPkFg.jpeg)
 
 
 
-![Photos by Northern Light Aid](assets/19f73f2de883/1*d1onELgJdZY7RhSsVPNTYw.jpeg)
+![Photos by Northern Light Aid](../assets/19f73f2de883/1*d1onELgJdZY7RhSsVPNTYw.jpeg)
 
 Photos by Northern Light Aid
 #### DENMARK
@@ -196,7 +196,7 @@ One of the main tenets of Merkel’s plan concerns a central coordination centre
 [**Action Against Deportations**](https://enoughisenough14.org/2017/02/09/germany-february-11-day-of-action-against-deportations/) will be held **this Saturday, February 11th\.** Demonstrations are planned in Berlin, Hamburg, Wiesbaden, Düsseldorf and several other cities\.
 
 
-![](assets/19f73f2de883/1*2GHtWwiOFC00yGR6TUhONQ.jpeg)
+![](../assets/19f73f2de883/1*2GHtWwiOFC00yGR6TUhONQ.jpeg)
 
 
 A map with details about the demonstrations and other useful information can be found here: [https://enoughisenough14\.org/2017/02/09/germany\-february\-11\-day\-of\-action\-against\-deportations/](https://enoughisenough14.org/2017/02/09/germany-february-11-day-of-action-against-deportations/)
@@ -235,27 +235,27 @@ Images filmed by refugees in the centre:
 Signal of Solidarity brought much needed aid to Calais today\. A baby stroller for a mother with a five\-week old baby, several hundred sleeping bags, blankets, sweaters, jackets, hats, gloves and scarves, two pallets with winter clothes, blankets… all of this was brought from Germany with the help of volunteers\.
 
 
-![](assets/19f73f2de883/1*47TGdFXvXf133rmX3gTYbQ.jpeg)
+![](../assets/19f73f2de883/1*47TGdFXvXf133rmX3gTYbQ.jpeg)
 
 
 
-![](assets/19f73f2de883/1*nmdX8OYGShkixBhDfrBWpg.jpeg)
+![](../assets/19f73f2de883/1*nmdX8OYGShkixBhDfrBWpg.jpeg)
 
 
 
-![](assets/19f73f2de883/1*9yzu_B6JQPZd9d3Z69veiQ.jpeg)
+![](../assets/19f73f2de883/1*9yzu_B6JQPZd9d3Z69veiQ.jpeg)
 
 
 
-![](assets/19f73f2de883/1*Jnf4SmH_Ty9BGjMvtpX1aQ.jpeg)
+![](../assets/19f73f2de883/1*Jnf4SmH_Ty9BGjMvtpX1aQ.jpeg)
 
 
 
-![](assets/19f73f2de883/1*tYFWx79lcr5gnWaGC3U6Lw.jpeg)
+![](../assets/19f73f2de883/1*tYFWx79lcr5gnWaGC3U6Lw.jpeg)
 
 
 
-![Photos by Signal of Solidarity](assets/19f73f2de883/1*ANejZZqABaRRdtNvJS57Lw.jpeg)
+![Photos by Signal of Solidarity](../assets/19f73f2de883/1*ANejZZqABaRRdtNvJS57Lw.jpeg)
 
 Photos by Signal of Solidarity
 #### [**Dunkirk Refugee Children’s Centr**](https://www.facebook.com/dunkirkrefugeechildrenscentre/?ref=page_internal&fref=nf) **e—** HELP FROM HOME project

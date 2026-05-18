@@ -1,5 +1,5 @@
 ---
-title: AYS Daily News Digest 17/12/18: What is a signed agreement for people freezing in&out of the camps?
+title: "AYS Daily News Digest 17/12/18: What is a signed agreement for people freezing in&out of the camps?"
 author: Are You Syrious?
 date: 2018-12-18T12:00:57.806+0000
 last_modified_at: 2018-12-19T21:35:21.759+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,news,migrants]
 description: A boy dies in Bira camp, Bosnia / protest for the people in Sjælsmark / EUBAM and Operation Sophia prolonged / A report on Inadequacies…
 image:
-  path: assets/6b5580a924ef/1*rRPUJ8stKN6QPESUKdTX5A.jpeg
+  path: ../assets/6b5580a924ef/1*rRPUJ8stKN6QPESUKdTX5A.jpeg
 ---
 
 ### AYS Daily News Digest 17/12/18: What is a signed agreement for people freezing in & out of the camps?
 #### A boy dies in Bira camp, Bosnia / protest for the people in Sjælsmark / EUBAM and Operation Sophia prolonged / A report on Inadequacies and Delays in Spain’s Asylum Procedure / Protest at Sjælsmark in Denmark / People across UK taking a stand on the Stansted 15 verdict / more news
 
 
-![Photo: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?tn-str=k%2AF&hc_location=group_dialog) France](assets/6b5580a924ef/1*rRPUJ8stKN6QPESUKdTX5A.jpeg)
+![Photo: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?tn-str=k%2AF&hc_location=group_dialog) France](../assets/6b5580a924ef/1*rRPUJ8stKN6QPESUKdTX5A.jpeg)
 
 Photo: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?tn-str=k%2AF&hc_location=group_dialog) France
 #### FEATURE — Death in a camp
@@ -44,11 +44,11 @@ Along with that, the EU agreed last Friday to extend their naval mission, known 
 More information in the coming AYS Special\.
 
 
-![](assets/6b5580a924ef/1*gDTztxO-ncv4wjqTvvv8pw.jpeg)
+![](../assets/6b5580a924ef/1*gDTztxO-ncv4wjqTvvv8pw.jpeg)
 
 
 
-![Photos: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?__xts__%5B0%5D=68.ARBpHyvF9-jtUmk8Ubfq1HnLJBRbHqD9NDHhPgAzWN4VjgnaGz1lYmTMJ76EtuupSznZg-QusptII0Qi0E00UYJple18-uAb8WwqKhmVhthLPX5-Gf4gU3k1swJFhSnfc6RCJ2LtgBKUF_aA_7nXimOoddpzSfiea89AWgcDJZmYExfNLDX9OgLnaZuUu_7mo9Yb3J44JanBmfHPkazfBL7mUAZ8fCUKyrhFyQX1x6ebrYNLdQtANTWf7cjCOtqPQwviBtQ2Jp5g2uXKNu6DharJd_79ueKN6moJo8TWDH59jBgF9IaBonzo88MDKu3MKunGdKSBVnKTD5pRr1gW-NSTlkDA&__tn__=k%2AF&tn-str=k%2AF)](assets/6b5580a924ef/1*GQcfclDJSQZwPntVDeWinQ.jpeg)
+![Photos: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?__xts__%5B0%5D=68.ARBpHyvF9-jtUmk8Ubfq1HnLJBRbHqD9NDHhPgAzWN4VjgnaGz1lYmTMJ76EtuupSznZg-QusptII0Qi0E00UYJple18-uAb8WwqKhmVhthLPX5-Gf4gU3k1swJFhSnfc6RCJ2LtgBKUF_aA_7nXimOoddpzSfiea89AWgcDJZmYExfNLDX9OgLnaZuUu_7mo9Yb3J44JanBmfHPkazfBL7mUAZ8fCUKyrhFyQX1x6ebrYNLdQtANTWf7cjCOtqPQwviBtQ2Jp5g2uXKNu6DharJd_79ueKN6moJo8TWDH59jBgF9IaBonzo88MDKu3MKunGdKSBVnKTD5pRr1gW-NSTlkDA&__tn__=k%2AF&tn-str=k%2AF)](../assets/6b5580a924ef/1*GQcfclDJSQZwPntVDeWinQ.jpeg)
 
 Photos: [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/?__xts__%5B0%5D=68.ARBpHyvF9-jtUmk8Ubfq1HnLJBRbHqD9NDHhPgAzWN4VjgnaGz1lYmTMJ76EtuupSznZg-QusptII0Qi0E00UYJple18-uAb8WwqKhmVhthLPX5-Gf4gU3k1swJFhSnfc6RCJ2LtgBKUF_aA_7nXimOoddpzSfiea89AWgcDJZmYExfNLDX9OgLnaZuUu_7mo9Yb3J44JanBmfHPkazfBL7mUAZ8fCUKyrhFyQX1x6ebrYNLdQtANTWf7cjCOtqPQwviBtQ2Jp5g2uXKNu6DharJd_79ueKN6moJo8TWDH59jBgF9IaBonzo88MDKu3MKunGdKSBVnKTD5pRr1gW-NSTlkDA&__tn__=k%2AF&tn-str=k%2AF)
 
@@ -139,22 +139,22 @@ Partly sunny and changeably overcast\. Some rain is expected in Dalmatia early i
 Another group of migrants was forbidden to cross into the Una\-Sana canton \(bordering with Croatia\) coming from Sarajevo\. They were assisted by Red Cross volunteers in Ključ, who reported about the event\.
 
 
-![Photo previously published by the [Crveni Križ Općine Ključ](https://www.facebook.com/profile.php?id=100009318317491&__tn__=%2Cd%2AF%2AF-R&eid=ARCiE7AyCsS_c7uAAwE03wpkSZr84-gtFR4w6A9_vNeZPnb2U7DF2AgogSdCO9jkdQu3CGCBPLt0a0Di&tn-str=%2AF&hc_location=group_dialog)](assets/6b5580a924ef/1*q97g9HFYRGxA37Cq8Jc-IA.jpeg)
+![Photo previously published by the [Crveni Križ Općine Ključ](https://www.facebook.com/profile.php?id=100009318317491&__tn__=%2Cd%2AF%2AF-R&eid=ARCiE7AyCsS_c7uAAwE03wpkSZr84-gtFR4w6A9_vNeZPnb2U7DF2AgogSdCO9jkdQu3CGCBPLt0a0Di&tn-str=%2AF&hc_location=group_dialog)](../assets/6b5580a924ef/1*q97g9HFYRGxA37Cq8Jc-IA.jpeg)
 
 Photo previously published by the [Crveni Križ Općine Ključ](https://www.facebook.com/profile.php?id=100009318317491&__tn__=%2Cd%2AF%2AF-R&eid=ARCiE7AyCsS_c7uAAwE03wpkSZr84-gtFR4w6A9_vNeZPnb2U7DF2AgogSdCO9jkdQu3CGCBPLt0a0Di&tn-str=%2AF&hc_location=group_dialog)
 
 They also reported on another avoided accident, when a group of 20 people got lost in the dangerous winter conditions within the region, trying to reach Croatia\. They were rescued from the snow\-covered hills by the Bihać teams of mountain rescue, Red Cross, and other organizations that helped\.
 
 
-![](assets/6b5580a924ef/1*iI13smSgo4HCTKZ6-QDwvw.jpeg)
+![](../assets/6b5580a924ef/1*iI13smSgo4HCTKZ6-QDwvw.jpeg)
 
 
 
-![](assets/6b5580a924ef/1*QhpjaR83v9aQ2rVZr1YCQQ.jpeg)
+![](../assets/6b5580a924ef/1*QhpjaR83v9aQ2rVZr1YCQQ.jpeg)
 
 
 
-![Photos: [Crveni Križ Općine Ključ](https://www.facebook.com/profile.php?id=100009318317491&__tn__=%2Cd%2AF%2AF-R&eid=ARCiE7AyCsS_c7uAAwE03wpkSZr84-gtFR4w6A9_vNeZPnb2U7DF2AgogSdCO9jkdQu3CGCBPLt0a0Di&tn-str=%2AF&hc_location=group_dialog)](assets/6b5580a924ef/1*DQLF66XQtoDpPRslBl4GCA.jpeg)
+![Photos: [Crveni Križ Općine Ključ](https://www.facebook.com/profile.php?id=100009318317491&__tn__=%2Cd%2AF%2AF-R&eid=ARCiE7AyCsS_c7uAAwE03wpkSZr84-gtFR4w6A9_vNeZPnb2U7DF2AgogSdCO9jkdQu3CGCBPLt0a0Di&tn-str=%2AF&hc_location=group_dialog)](../assets/6b5580a924ef/1*DQLF66XQtoDpPRslBl4GCA.jpeg)
 
 Photos: [Crveni Križ Općine Ključ](https://www.facebook.com/profile.php?id=100009318317491&__tn__=%2Cd%2AF%2AF-R&eid=ARCiE7AyCsS_c7uAAwE03wpkSZr84-gtFR4w6A9_vNeZPnb2U7DF2AgogSdCO9jkdQu3CGCBPLt0a0Di&tn-str=%2AF&hc_location=group_dialog)
 
@@ -170,7 +170,7 @@ Please, read \(and encourage your Croatian friends to read\) an analysis of the 
 #### FRANCE
 
 
-![](assets/6b5580a924ef/1*pCClc2rOnL3tsYRsbNmezg.jpeg)
+![](../assets/6b5580a924ef/1*pCClc2rOnL3tsYRsbNmezg.jpeg)
 
 
 [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?__tn__=%2CdkCH-R-R&eid=ARBsCdvp8cYTr_Z3oXuzjK4BUgTu6cTno13XFAtWwM8u-NhEbjf8USRZKzdw52c8fQNTPEQY5eOB9M5J&hc_ref=ARSdGVEsplLHsb8DBVQuQya6YV1LvIEIBLi-bdTKAre4HVmxAzWccE8LRDHaEz9EDAc&fref=nf&hc_location=group) report that there are currently around 200 displaced people in the area where they work, living in small scattered camps\. Police continue to patrol the area, forcing people to camp further afield and out of sight\. Over this week our teams have distributed over 150 sleeping bags and, in collaboration with [Help Refugees](https://www.facebook.com/HelpRefugeesUK/?__tn__=%2CdKH-R-R&eid=ARDQ5A775sZH33pk0nCCSe0h4h7ExcJdLe3r2mNJQxqs_e2ckBIM60leeilv1vYOVOx86rmZJxn6bsc9&fref=mentions&hc_location=group) , over 100 tents\.
@@ -204,7 +204,7 @@ A joint [press release](http://www.forumrefugies.org/s-informer/communiques/augm
 ### The protest we were previously announcing is taking place\!
 
 
-![](assets/6b5580a924ef/1*nBd6VaNkcvl6H3SU5CIlZA.jpeg)
+![](../assets/6b5580a924ef/1*nBd6VaNkcvl6H3SU5CIlZA.jpeg)
 
 
 Here’s the link to the protest event:

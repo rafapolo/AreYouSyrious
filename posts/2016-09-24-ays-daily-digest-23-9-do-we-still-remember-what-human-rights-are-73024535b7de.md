@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 23/9: Do we still recognise human rights?
+title: "AYS DAILY DIGEST 23/9: Do we still recognise human rights?"
 author: Are You Syrious?
 date: 2016-09-24T01:02:06.911+0100
 last_modified_at: 2016-09-24T05:46:00.569+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,elliniko-camp,european-union,refugees-in-greece,msf-rescue-operation]
 description: More refugees are arriving from Syria every day, while the war is raging and taking more lives. Aleppo is under constant attacks and people…
 image:
-  path: assets/73024535b7de/1*sACsPdwCtM3kpVN0AupUUg.jpeg
+  path: ../assets/73024535b7de/1*sACsPdwCtM3kpVN0AupUUg.jpeg
 ---
 
 ### AYS DAILY DIGEST 23/9: Do we still recognise human rights?
@@ -15,7 +15,7 @@ image:
 _More refugees are arriving from Syria every day, while the war is raging and taking more lives\. Aleppo is under constant attacks and people are being killed every day\. People who arrive to Europe dream of freedom and safety, only to be left on the streets\. European leaders still cannot figure out how to resolve this humanitarian crisis\. Nordic countries are demanding EU to punish Hungarian prime minister\. Preparations for eviction of Calais Junge camp are ongoing\._
 
 
-![“You can call them names, you can say horrific xenophobic things about them but the truth remains — this family could so easily be yours\.” MSF](assets/73024535b7de/1*sACsPdwCtM3kpVN0AupUUg.jpeg)
+![“You can call them names, you can say horrific xenophobic things about them but the truth remains — this family could so easily be yours\.” MSF](../assets/73024535b7de/1*sACsPdwCtM3kpVN0AupUUg.jpeg)
 
 “You can call them names, you can say horrific xenophobic things about them but the truth remains — this family could so easily be yours\.” MSF
 #### Syria
@@ -26,7 +26,7 @@ According to some estimates, 27 people got killed in a warplane attack in Aleppo
 MSF teams rescued 380 people today\. 129 were found on a rubber boat in the sea\. Everybody is safe now\.
 
 
-![MSF](assets/73024535b7de/1*5ndEvCls8QsdxEKNgS8EIA.jpeg)
+![MSF](../assets/73024535b7de/1*5ndEvCls8QsdxEKNgS8EIA.jpeg)
 
 MSF
 
@@ -40,11 +40,11 @@ For a long time we are reporting about dire situation on overcrowded islands, bu
 Those who arrive are often sent by the UNHCR to the mainland, Athens in the first place, where instead of big organizations or officials, volunteers are taking care of them\. Our friend Rando Wagner found a family of 12 from Aleppo at the Omonia Square in Athens\. The UNHCR sent them from the islands to the mainland, but did not provide them with anything\. Volunteers moved them to the Archanon school Squat, which is now well over maximum capacity as well\.
 
 
-![](assets/73024535b7de/1*lUw2sPb3v7KGTa4xow5rUQ.jpeg)
+![](../assets/73024535b7de/1*lUw2sPb3v7KGTa4xow5rUQ.jpeg)
 
 
 
-![They escaped the city under the siege and they were left to sleep on the streets\. Photo Rando Wagner\.](assets/73024535b7de/1*hmkclktDBgvoGAG_xk9b7w.jpeg)
+![They escaped the city under the siege and they were left to sleep on the streets\. Photo Rando Wagner\.](../assets/73024535b7de/1*hmkclktDBgvoGAG_xk9b7w.jpeg)
 
 They escaped the city under the siege and they were left to sleep on the streets\. Photo Rando Wagner\.
 
@@ -53,7 +53,7 @@ Due to unbearable conditions, and the fact that many refugees will be forced to 
 In the Thessaloniki area, at the Softex camp, police arrested 25 people on Friday morning\. According to ground volunteers, they are being accused àf thievery, dealing with drugs and several other crimes\. This is the third time this kind of arrests happens in Softex camp, which many people consider the most dangerous camp in Greece\. It is overcrowded and people live in extremely inhumane conditions\.
 
 
-![Softex camp\. Photo AYS\.](assets/73024535b7de/1*ai-Hy0HrG7hq9Wt2p38j9Q.jpeg)
+![Softex camp\. Photo AYS\.](../assets/73024535b7de/1*ai-Hy0HrG7hq9Wt2p38j9Q.jpeg)
 
 Softex camp\. Photo AYS\.
 
@@ -167,7 +167,7 @@ While nobody is watching, more people are arriving to Macedonia, while about 180
 
 
 
-[![Migrants - unconditionally held in transit centres](assets/73024535b7de/c52c_hqdefault.jpg "Migrants - unconditionally held in transit centres")](http://www.youtube.com/watch?v=zjA3R465Byo)
+[![Migrants - unconditionally held in transit centres](../assets/73024535b7de/c52c_hqdefault.jpg "Migrants - unconditionally held in transit centres")](http://www.youtube.com/watch?v=zjA3R465Byo)
 
 
 UNHCR, the Red Cross and the local NGO Legis are currently working on providing refugees in camps with warm clothing for the coming autumn and winter\.
@@ -184,18 +184,18 @@ There are more than 580 asylum seekers in Porin, meaning that this place is over
 About 100 refugees are living in tents at the Hungarian\-Serbian border while only 15 are allowed to enter transit area per day\. For a long time, they spend there, they’ve built a playground with swings for kids\.
 
 
-![Photo by Sirius\.Help](assets/73024535b7de/1*hOqpbkXB0f1qWEawMb4G-Q.jpeg)
+![Photo by Sirius\.Help](../assets/73024535b7de/1*hOqpbkXB0f1qWEawMb4G-Q.jpeg)
 
 Photo by Sirius\.Help
 
 Organization Sirius Help provides help for all the people in transit\.
 
 
-![](assets/73024535b7de/1*s90UA_s3IX9Nf42575xQGQ.jpeg)
+![](../assets/73024535b7de/1*s90UA_s3IX9Nf42575xQGQ.jpeg)
 
 
 
-![](assets/73024535b7de/1*Gp6N4ZFW-bBgrR1fi3fKBQ.jpeg)
+![](../assets/73024535b7de/1*Gp6N4ZFW-bBgrR1fi3fKBQ.jpeg)
 
 
 In the meantime, Hungarian PM said the EU should round up and deport asylum seekers, taking them “to supervised refugees camps on an island or in North Africa”\. Will EU leaders in Vienna say anything about this?
@@ -222,7 +222,7 @@ As authorities announced earlier, the Calais “Jungle” will be evicted in the
 Info Bus expressed their concern because of the eviction of Calais, promising that they will continue to provide their services, including internet provision and workshops on UK and French asylum and human rights, regardless of any decisions made by the authorities\.
 
 
-![](assets/73024535b7de/1*oN4z8XFOT0IW1VLWVwrINw.jpeg)
+![](../assets/73024535b7de/1*oN4z8XFOT0IW1VLWVwrINw.jpeg)
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 27/03/2020: The end of a cynical game
+title: "AYS Daily Digest 27/03/2020: The end of a cynical game"
 author: Are You Syrious?
 date: 2020-03-28T13:44:22.455+0000
 last_modified_at: 2020-03-28T13:44:22.455+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,turkey,greece]
 description: Turkish authorities evict poeple from Pazarkule // Inhumane punishment in Bosnia // Greece introduces measures to tackle Covid-19 and…
 image:
-  path: assets/4c41d79d52a5/0*8ZL5mDfV2uhloYhi.jpeg
+  path: ../assets/4c41d79d52a5/0*8ZL5mDfV2uhloYhi.jpeg
 ---
 
 ### AYS Daily Digest 27/03/2020: The end of a cynical game
 ### Turkish authorities evict poeple from Pazarkule // Inhumane punishment in Bosnia // Greece introduces measures to tackle Covid\-19 and ignores human rights // The number of attacks on protected people remains on a high level in 2019
 
 
-![](assets/4c41d79d52a5/0*OSTpHMNcOgaoMhbn.jpeg)
+![](../assets/4c41d79d52a5/0*OSTpHMNcOgaoMhbn.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----3c42cd42b56d----------------------)
@@ -22,11 +22,11 @@ image:
 [Mar 28](ays-daily-digest-27-03-2020-the-end-of-a-cynical-game-3c42cd42b56d?source=post_page-----3c42cd42b56d----------------------) · 5 min read
 
 
-![](assets/4c41d79d52a5/0*i9Z69FoLL2xU8NpC)
+![](../assets/4c41d79d52a5/0*i9Z69FoLL2xU8NpC)
 
 
 
-![](assets/4c41d79d52a5/0*8ZL5mDfV2uhloYhi.jpeg)
+![](../assets/4c41d79d52a5/0*8ZL5mDfV2uhloYhi.jpeg)
 
 ### Feature: The end of a cynical game
 
@@ -44,11 +44,11 @@ The AYS source writes:
 People cannot understand what is happening to them and why they have now been imprisoned after being misused for a cynical political game\. “We told them we wouldn’t do anything\. We came to the border with your will\. Why do you do this to us,” is one of the messages AYS was sent\. From officials the people hear that even they do not know what to do now\. Reportedly the Turkish interior minister said that after the risk of being infected is over they are free to go back to the border\.
 
 
-![](assets/4c41d79d52a5/0*YKFv2D5_mbffhqvU)
+![](../assets/4c41d79d52a5/0*YKFv2D5_mbffhqvU)
 
 
 
-![](assets/4c41d79d52a5/0*mH5fd4tiAlxM2N0C.jpeg)
+![](../assets/4c41d79d52a5/0*mH5fd4tiAlxM2N0C.jpeg)
 
 
 Refererring to Germany’s Federal Intelligence Service \(BND\), Spiegel [reports](https://www.spiegel.de/politik/deutschland/fluechtlinge-tuerkei-steuerte-laut-bnd-ansturm-auf-griechenlands-grenze-a-00000000-0002-0001-0000-000170213666) that clashes between people and border guards at the Turkish\-Greek border were organized by the Turkish authorities\. Reportedly they forced people in buses to go to the border\. It is also said that Turkish forces were among the crowd\. While Turkish representatives deny such accusations, AYS has also received footage suggesting that Turkish people were directly involved in the scenes, encouraging people to be violent, at a time when no one was allowed to enter the site\.

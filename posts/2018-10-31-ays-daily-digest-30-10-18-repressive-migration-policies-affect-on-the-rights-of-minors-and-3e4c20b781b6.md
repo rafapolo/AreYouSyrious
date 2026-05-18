@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 30/10/18: Repressive migration policies’ affect on the rights of minors and…
+title: "AYS Daily Digest 30/10/18: Repressive migration policies’ affect on the rights of minors and…"
 author: Are You Syrious?
 date: 2018-10-31T11:28:07.323+0000
 last_modified_at: 2018-10-31T17:04:31.526+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,europe,digest,italy,usa]
 description: People protesting at the border crossing in Bosnia and Herzegovina left the site, refugees in BiH still in need of a solution / As the…
 image:
-  path: assets/3e4c20b781b6/1*u3-NOQT4uXJuCucKCD0LfQ.jpeg
+  path: ../assets/3e4c20b781b6/1*u3-NOQT4uXJuCucKCD0LfQ.jpeg
 ---
 
 ### AYS Daily Digest 30/10/18: Repressive migration policies’ effect on the rights of minors and children
 #### People protesting at the border crossing in Bosnia and Herzegovina left the site; refugees in BiH still in need of a solution / As the number of people who lost their lives on the sea this year reaches 1987, SAR teams call for action and appeals rise for a change in approach to cooperation with Libya / Protests in Austria / Help needed in France and Italy / Corridoi umanitari bring another 83 Syrians safely to Italy\! / more news…
 
 
-![Rome, photo: Baobab Experience](assets/3e4c20b781b6/1*u3-NOQT4uXJuCucKCD0LfQ.jpeg)
+![Rome, photo: Baobab Experience](../assets/3e4c20b781b6/1*u3-NOQT4uXJuCucKCD0LfQ.jpeg)
 
 Rome, photo: Baobab Experience
 #### FEATURE
@@ -67,7 +67,7 @@ More evidence and testimonies arrive daily from those who are suffering because 
 
 
 
-![Messages Hayden received from Zintan detention centre, where she’s been told,, four people died in a month\.](assets/3e4c20b781b6/1*IX7clWYPK5JWn7TX5UF1Ew.jpeg)
+![Messages Hayden received from Zintan detention centre, where she’s been told,, four people died in a month\.](../assets/3e4c20b781b6/1*IX7clWYPK5JWn7TX5UF1Ew.jpeg)
 
 Messages Hayden received from Zintan detention centre, where she’s been told,, four people died in a month\.
 #### SEA
@@ -104,15 +104,15 @@ your support is important: [apdhe.org/proactiva-open…](https://apdhe.org/proac
 “Over 60 % of the material that was used host the boys by night need to be thrown away, large part of the common spaces suffered huge damage, big trees fell on the piazzale too and almost miraculously we are here counting damage to things and not people \.”
 
 
-![](assets/3e4c20b781b6/1*sf5hC2DmLcvdQpVP4oHw3Q.jpeg)
+![](../assets/3e4c20b781b6/1*sf5hC2DmLcvdQpVP4oHw3Q.jpeg)
 
 
 
-![](assets/3e4c20b781b6/1*l3zUmAXAmgjpwPSbRWLpkg.jpeg)
+![](../assets/3e4c20b781b6/1*l3zUmAXAmgjpwPSbRWLpkg.jpeg)
 
 
 
-![photos: Baobab Experience](assets/3e4c20b781b6/1*atErNTBP_XdIxiXkKvkdVw.jpeg)
+![photos: Baobab Experience](../assets/3e4c20b781b6/1*atErNTBP_XdIxiXkKvkdVw.jpeg)
 
 photos: Baobab Experience
 
@@ -140,7 +140,7 @@ Prosecution in Ragusa opened an investigation into the case of the USS Trenton�
 83 Syrian refugees will arrive on Wednesday, 31 October and are to be welcomed by the Italian Protestant churches and Comunità di Sant’Egidio\-Community of Sant’Egidio [Mediterranean hope](https://www.facebook.com/Mediterranean-hope-252231521632595/?__tn__=%2CdkCH-R-R&eid=ARCe9FLJwJXtFpWv3bFvZ2rYLFrhWEG3SoccRuLO2khNyMeYz2g1ZUSEsGWheue_otC40G7MlqAnNmBm&hc_ref=ARSLY6zckyxZ1BGcySy8jP5m789NBOsPUc-rkQD2QXZh_8iMCXT6Qqgs3lUkQwPXPlw&fref=nf&hc_location=group) reports\. Thanks to the project Corridoi umanitari, which secures a a safe passage for refugees, 2,100 people have so far been given the chance to arrive to safety — unharmed and without having suffered the dangerous journey and hostile perceptions of the public\.
 
 
-![by [Mediterranean hope](https://www.facebook.com/Mediterranean-hope-252231521632595/?__xts__%5B0%5D=68.ARCthlAcVzRkZ0Aa6CJgMsOrpDdQROs2dFelp1yshY_6jeT1fjBBVRNjDS7-CbwOhI4NT2eYjVrcycFmgD3bK9V6ibITMUSifhnNZI65MusPmTvBgXpBtzKK2BH1Jwut2y8kFc1N2ZkjKOUupB147wfec18yl-0fw2o-EoyW0F8X34crM7kFKDuyR16GVrIxO7oHv2Rp2n1ZNPR24MCaWrrJ&__tn__=k%2AF&tn-str=k%2AF)](assets/3e4c20b781b6/1*M6pTe9tR-3_Q5FdDNnWtpg.jpeg)
+![by [Mediterranean hope](https://www.facebook.com/Mediterranean-hope-252231521632595/?__xts__%5B0%5D=68.ARCthlAcVzRkZ0Aa6CJgMsOrpDdQROs2dFelp1yshY_6jeT1fjBBVRNjDS7-CbwOhI4NT2eYjVrcycFmgD3bK9V6ibITMUSifhnNZI65MusPmTvBgXpBtzKK2BH1Jwut2y8kFc1N2ZkjKOUupB147wfec18yl-0fw2o-EoyW0F8X34crM7kFKDuyR16GVrIxO7oHv2Rp2n1ZNPR24MCaWrrJ&__tn__=k%2AF&tn-str=k%2AF)](../assets/3e4c20b781b6/1*M6pTe9tR-3_Q5FdDNnWtpg.jpeg)
 
 by [Mediterranean hope](https://www.facebook.com/Mediterranean-hope-252231521632595/?__xts__%5B0%5D=68.ARCthlAcVzRkZ0Aa6CJgMsOrpDdQROs2dFelp1yshY_6jeT1fjBBVRNjDS7-CbwOhI4NT2eYjVrcycFmgD3bK9V6ibITMUSifhnNZI65MusPmTvBgXpBtzKK2BH1Jwut2y8kFc1N2ZkjKOUupB147wfec18yl-0fw2o-EoyW0F8X34crM7kFKDuyR16GVrIxO7oHv2Rp2n1ZNPR24MCaWrrJ&__tn__=k%2AF&tn-str=k%2AF)
 #### GREECE
@@ -173,7 +173,7 @@ The fifth boat landed on Farmakonisi and transported to Leros, with 50 people\.
 10 people was transferred from Mykonos to Leros\.
 
 
-![Photo: [**SMH‏**](https://twitter.com/smhumanitario)](assets/3e4c20b781b6/1*qaXuw2OaLMcpLwC3LeIOOQ.jpeg)
+![Photo: [**SMH‏**](https://twitter.com/smhumanitario)](../assets/3e4c20b781b6/1*qaXuw2OaLMcpLwC3LeIOOQ.jpeg)
 
 Photo: [**SMH‏**](https://twitter.com/smhumanitario)
 
@@ -184,7 +184,7 @@ Photo: [**SMH‏**](https://twitter.com/smhumanitario)
 **Lesvos — Moria** : In the midst of horrid living conditions, sometimes it is immediate contact, communication and art that help the people keep their mind off the difficulties they face\. [Art Project Moria](https://www.facebook.com/artprojectmoria/) invites people to join their art workshops and drawing activities:
 
 
-![](assets/3e4c20b781b6/1*HQKNJtZ1TtbP1PZlsnexaQ.jpeg)
+![](../assets/3e4c20b781b6/1*HQKNJtZ1TtbP1PZlsnexaQ.jpeg)
 
 
 
@@ -278,7 +278,7 @@ Where? Weekly, from 10 until 21h at Avenue Van Volxem 2, Forest\.
 Grey weather, cold, rainy this morning in Calais\. Homeless people who were housed under the entrance hall of the bcmo, Place de Norvège, were expelled\. Why? To set up a fence and prevent us from taking refuge\!
 This building, which belonged to the dockers when there were still in Calais, has been empty for a long time, and served a few years ago as a shelter from the cold\.
 From now on, the daily distribution of meals in the Place de Norvège by L’auberge and Utopie, for the homeless — exiles but also French homeless, will be done under the rain or snow\.
-Another attempt, at the arrival of winter, to try to discourage exiles and those who help them… — [L’Auberge des Migrants](https://www.facebook.com/AubergeMigrants/?tn-str=k%2AF&hc_location=group_dialog)](assets/3e4c20b781b6/1*4OTwniicEAHR2tVk1yAzSg.jpeg)
+Another attempt, at the arrival of winter, to try to discourage exiles and those who help them… — [L’Auberge des Migrants](https://www.facebook.com/AubergeMigrants/?tn-str=k%2AF&hc_location=group_dialog)](../assets/3e4c20b781b6/1*4OTwniicEAHR2tVk1yAzSg.jpeg)
 
 Early winter in Calais: City Hall against homeless people\!
 Grey weather, cold, rainy this morning in Calais\. Homeless people who were housed under the entrance hall of the bcmo, Place de Norvège, were expelled\. Why? To set up a fence and prevent us from taking refuge\!
@@ -290,31 +290,31 @@ Another attempt, at the arrival of winter, to try to discourage exiles and those
 “Temperatures fall more and more, it blows an icy wind and rains\. 120 tents of many sleeping bags and blankets as well as hats, gloves and scarves we were able to distribute yesterday to the many refugees living on Paris ‘ streets”, [One Love Switzerland](https://www.facebook.com/1loveswitzerland/?__tn__=%2CdKH-R-R&eid=ARCGMpswszN6_j2eHXP3pJ2l2KL3YFeTkjb4C5Ihjb1L1nLeebs5wpyh7OIyWt6s-RBtfQIbmNWeDLYq&fref=tag) [Paris Refugee Ground Support](https://www.facebook.com/PRGS.team/?__tn__=%2CdKH-R-R&eid=ARAY1PDIJnAXzgn9vqpxDT4PGTSyI88olDLmxu1T0x5ukctWS4X7rgykpk2WH2oKBlS9kvt27MNEco3_&fref=tag) and [Rastplatz](https://www.facebook.com/rastplatz/?__tn__=%2CdkCH-R-R&eid=ARDdmWFrgXJyGgJwUl-pSx0nv9sVCxO81c6FS8gUro-3i3WPRHGTWHUuhEjFsutN_d9LatXRbNcSXcoD&hc_ref=ARRmGCzVDduHINC8facAck18SmDUBrLYZXAJ5oUz-OoSg6BiUTK1UP6ZPkqKyq5y1JI&fref=nf) report from night distributions in Paris\.
 
 
-![](assets/3e4c20b781b6/1*eVK-t49X6UyOvQefmPoXWQ.jpeg)
+![](../assets/3e4c20b781b6/1*eVK-t49X6UyOvQefmPoXWQ.jpeg)
 
 
 
-![](assets/3e4c20b781b6/1*0sx5STRysAz0DqZ6H1tbJQ.jpeg)
+![](../assets/3e4c20b781b6/1*0sx5STRysAz0DqZ6H1tbJQ.jpeg)
 
 
 
-![Paris photos: [Rastplatz](https://www.facebook.com/rastplatz/?__tn__=%2CdkCH-R-R&eid=ARDdmWFrgXJyGgJwUl-pSx0nv9sVCxO81c6FS8gUro-3i3WPRHGTWHUuhEjFsutN_d9LatXRbNcSXcoD&hc_ref=ARRmGCzVDduHINC8facAck18SmDUBrLYZXAJ5oUz-OoSg6BiUTK1UP6ZPkqKyq5y1JI&fref=nf)](assets/3e4c20b781b6/1*DrfUmXIbzXGHnsK-tfXfTg.jpeg)
+![Paris photos: [Rastplatz](https://www.facebook.com/rastplatz/?__tn__=%2CdkCH-R-R&eid=ARDdmWFrgXJyGgJwUl-pSx0nv9sVCxO81c6FS8gUro-3i3WPRHGTWHUuhEjFsutN_d9LatXRbNcSXcoD&hc_ref=ARRmGCzVDduHINC8facAck18SmDUBrLYZXAJ5oUz-OoSg6BiUTK1UP6ZPkqKyq5y1JI&fref=nf)](../assets/3e4c20b781b6/1*DrfUmXIbzXGHnsK-tfXfTg.jpeg)
 
 Paris photos: [Rastplatz](https://www.facebook.com/rastplatz/?__tn__=%2CdkCH-R-R&eid=ARDdmWFrgXJyGgJwUl-pSx0nv9sVCxO81c6FS8gUro-3i3WPRHGTWHUuhEjFsutN_d9LatXRbNcSXcoD&hc_ref=ARRmGCzVDduHINC8facAck18SmDUBrLYZXAJ5oUz-OoSg6BiUTK1UP6ZPkqKyq5y1JI&fref=nf)
 ### **Briançon**
 
 
-![[Comité de soutien aux 3\+4 de Briançon](https://www.facebook.com/soutien3plus4db/)](assets/3e4c20b781b6/1*6rczExS4BdtEUD9ZIpRFdg.jpeg)
+![[Comité de soutien aux 3\+4 de Briançon](https://www.facebook.com/soutien3plus4db/)](../assets/3e4c20b781b6/1*6rczExS4BdtEUD9ZIpRFdg.jpeg)
 
 [Comité de soutien aux 3\+4 de Briançon](https://www.facebook.com/soutien3plus4db/)
 #### UK
 
 
-![](assets/3e4c20b781b6/1*6wRcFR7563d5kqTNBC57uw.jpeg)
+![](../assets/3e4c20b781b6/1*6wRcFR7563d5kqTNBC57uw.jpeg)
 
 
 
-![](assets/3e4c20b781b6/1*LYkl53d_BZJVRHW-fe9GNw.jpeg)
+![](../assets/3e4c20b781b6/1*LYkl53d_BZJVRHW-fe9GNw.jpeg)
 
 #### US
 ### Most dramatic move yet in Trump’s hard\-line immigration campaign

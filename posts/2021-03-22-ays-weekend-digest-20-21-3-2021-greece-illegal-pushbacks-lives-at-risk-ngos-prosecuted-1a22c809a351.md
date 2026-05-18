@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 20–21/3/2021: Greece: Illegal pushbacks, Lives at risk, NGOs prosecuted
+title: "AYS Weekend Digest 20–21/3/2021: Greece: Illegal pushbacks, Lives at risk, NGOs prosecuted"
 author: Are You Syrious?
 date: 2021-03-22T10:25:26.129+0000
 last_modified_at: 2021-03-22T12:10:10.863+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,criminalisation,greece,sea-rescue,racism]
 description: Ocean Viking still waiting for Safe Port. 2-year-old girl dies in the Canaries. Administrative pressure against volunteers in France…
 image:
-  path: assets/1a22c809a351/1*7sAPvt7ZkUlTy_PlL-6CjA.jpeg
+  path: ../assets/1a22c809a351/1*7sAPvt7ZkUlTy_PlL-6CjA.jpeg
 ---
 
 ### AYS Weekend Digest 20–21/3/2021: Greece: ‘Illegal pushbacks, Lives at risk, NGOs prosecuted’, statement
@@ -15,7 +15,7 @@ image:
 Ocean Viking still waiting for Safe Port — 2\-year\-old girl dies in the Canaries — Administrative pressure against volunteers in France — Vulnerable resettlement schemes closed in the UK
 
 
-![Unity y— Artwork by [Menekşe Çam](https://cartoonmovement.com/cartoon/unityy)](assets/1a22c809a351/1*7sAPvt7ZkUlTy_PlL-6CjA.jpeg)
+![Unity y— Artwork by [Menekşe Çam](https://cartoonmovement.com/cartoon/unityy)](../assets/1a22c809a351/1*7sAPvt7ZkUlTy_PlL-6CjA.jpeg)
 
 Unity y— Artwork by [Menekşe Çam](https://cartoonmovement.com/cartoon/unityy)
 #### Featured — Coalition of NGOs calls for an end to pushbacks and to criminalisation of solidarity
@@ -188,7 +188,7 @@ DENMARK
 #### A party for Moria’s children without children
 
 
-![Photo via [InfoMigrants](https://www.facebook.com/InfoMigrants/photos/pcb.3616676965120729/3616655728456186/)](assets/1a22c809a351/1*kUETTAo_vMeHfU27YARVlQ.jpeg)
+![Photo via [InfoMigrants](https://www.facebook.com/InfoMigrants/photos/pcb.3616676965120729/3616655728456186/)](../assets/1a22c809a351/1*kUETTAo_vMeHfU27YARVlQ.jpeg)
 
 Photo via [InfoMigrants](https://www.facebook.com/InfoMigrants/photos/pcb.3616676965120729/3616655728456186/)
 

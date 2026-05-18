@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST: 24/09: Where Human Rights Go to Die
+title: "AYS DAILY DIGEST: 24/09: Where Human Rights Go to Die"
 author: Are You Syrious?
 date: 2020-09-25T19:45:04.485+0100
 last_modified_at: 2020-09-25T21:33:31.655+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,european-union,refugees,greece,migration]
 description: Human Rights Violations All Around the World including Yemen, USA and Lebanon
 image:
-  path: assets/1dd85247e75d/0*QajDmRsoHfOSuRQ1
+  path: ../assets/1dd85247e75d/0*QajDmRsoHfOSuRQ1
 ---
 
 ### **AYS DAILY DIGEST: 24/09: Where Human Rights Go to Die**
@@ -15,7 +15,7 @@ image:
 **Human Rights Violations All Around the World including Yemen, USA, and Lebanon**
 
 
-![](assets/1dd85247e75d/0*QajDmRsoHfOSuRQ1)
+![](../assets/1dd85247e75d/0*QajDmRsoHfOSuRQ1)
 
 
 **EU MIGRATION PACT**

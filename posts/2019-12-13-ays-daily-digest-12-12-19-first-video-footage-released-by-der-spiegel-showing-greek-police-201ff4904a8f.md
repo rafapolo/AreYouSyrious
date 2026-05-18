@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,turkey,morocco]
 description: Re-locations in Denmark // new EU funding for Morrocco and MENA // update on the Alldeen case // what’s next for people in Vujak // and…
 image:
-  path: assets/201ff4904a8f/1*EudHgqLKdDb1hB0t-xTbHw.jpeg
+  path: ../assets/201ff4904a8f/1*EudHgqLKdDb1hB0t-xTbHw.jpeg
 ---
 
 ### AYS Daily Digest 12/12/19 First video footage released by Der Spiegel showing Greek police pushbacks to Turkey on Evros
@@ -15,7 +15,7 @@ image:
 _Re\-locations in Denmark // New EU funding for Morrocco and MENA // Update on the Alldeen case // What’s next for people in Vujak // and more…_
 
 
-![People trying to cross the Evros River to Greece from Turkey\. Photo provided by the [Greek Reporter](https://greece.greekreporter.com/2018/08/02/ten-thousand-migrants-crossed-greeces-evros-border-in-2018/)](assets/201ff4904a8f/1*EudHgqLKdDb1hB0t-xTbHw.jpeg)
+![People trying to cross the Evros River to Greece from Turkey\. Photo provided by the [Greek Reporter](https://greece.greekreporter.com/2018/08/02/ten-thousand-migrants-crossed-greeces-evros-border-in-2018/)](../assets/201ff4904a8f/1*EudHgqLKdDb1hB0t-xTbHw.jpeg)
 
 People trying to cross the Evros River to Greece from Turkey\. Photo provided by the [Greek Reporter](https://greece.greekreporter.com/2018/08/02/ten-thousand-migrants-crossed-greeces-evros-border-in-2018/)
 #### FEATURED
@@ -23,7 +23,7 @@ People trying to cross the Evros River to Greece from Turkey\. Photo provided by
 [Videos](https://www.youtube.com/watch?v=AtHiOYjuN7s) released on Thursday by German weekly Der Spiegel, shows Greek law enforcement wearing masks and pushing over a dozen people back inside the Turkish border\. Der Spiegal interviewed retired and serving law enforcement officers, who say that this practice has been going on [for years](https://www.aa.com.tr/en/europe/greece-s-illegal-pushback-of-refugees-caught-on-video/1672144?fbclid=IwAR0CZXt-ZODSNJleoeIGzgXzOu7ikRKcpCJXUb3KYNPl2MR_TgsD4bjOoGI) \. For a long while this practice has been speculated, but this is the first time it’s been caught on camera:
 
 
-[![Pushbacks an EU-Grenze: "Ein schlecht gehütetes Geheimnis"](assets/201ff4904a8f/af03_hqdefault.jpg "Pushbacks an EU-Grenze: "Ein schlecht gehütetes Geheimnis"")](https://www.youtube.com/watch?v=AtHiOYjuN7s)
+[![Pushbacks an EU-Grenze: "Ein schlecht gehütetes Geheimnis"](../assets/201ff4904a8f/af03_hqdefault.jpg "Pushbacks an EU-Grenze: "Ein schlecht gehütetes Geheimnis"")](https://www.youtube.com/watch?v=AtHiOYjuN7s)
 
 
 [Der Spiegal](https://www.spiegel.de/politik/ausland/griechenland-videos-zeigen-mutmasslich-illegale-abschiebung-von-migranten-a-1300891.html) says:
@@ -59,7 +59,7 @@ Recent reports from Moria state that there are currently [17,800 people in Moria
 
 
 
-![Photo: [Franziska Grillmeier](https://web.facebook.com/franzi.grillmeier?__tn__=%2Cd%2AF%2AF-R&eid=ARBSYxM3cwxlWpQRvUzOidzN2zzBhluTc74Uo4cOw-9lyKn3lJhYM28BzB_Ja_KRynCy8lsgHVX9ORrk&tn-str=%2AF)](assets/201ff4904a8f/1*lH-IdV0rWmUkcxCLv3m13A.jpeg)
+![Photo: [Franziska Grillmeier](https://web.facebook.com/franzi.grillmeier?__tn__=%2Cd%2AF%2AF-R&eid=ARBSYxM3cwxlWpQRvUzOidzN2zzBhluTc74Uo4cOw-9lyKn3lJhYM28BzB_Ja_KRynCy8lsgHVX9ORrk&tn-str=%2AF)](../assets/201ff4904a8f/1*lH-IdV0rWmUkcxCLv3m13A.jpeg)
 
 Photo: [Franziska Grillmeier](https://web.facebook.com/franzi.grillmeier?__tn__=%2Cd%2AF%2AF-R&eid=ARBSYxM3cwxlWpQRvUzOidzN2zzBhluTc74Uo4cOw-9lyKn3lJhYM28BzB_Ja_KRynCy8lsgHVX9ORrk&tn-str=%2AF)
 ### Chios
@@ -68,19 +68,19 @@ In Vial, many tents collapsed last night due to torrential rain\.
 The people spent the night exposed to cold and rain\. All their clothes are soaked\.
 
 
-![](assets/201ff4904a8f/1*lhMY1koCBA-1D8QHRCefSw.jpeg)
+![](../assets/201ff4904a8f/1*lhMY1koCBA-1D8QHRCefSw.jpeg)
 
 
 
-![](assets/201ff4904a8f/1*F8GzLwKtWlGOb9eMfrZfRQ.jpeg)
+![](../assets/201ff4904a8f/1*F8GzLwKtWlGOb9eMfrZfRQ.jpeg)
 
 
 
-![](assets/201ff4904a8f/1*QXFMJMOTOVQY2a3ClKAWAQ.jpeg)
+![](../assets/201ff4904a8f/1*QXFMJMOTOVQY2a3ClKAWAQ.jpeg)
 
 
 
-![Photos: ‎ [Jenny Zinovia Kali](https://www.facebook.com/jenny.kali.1?fref=gs&__tn__=%2CdCH-R-R&eid=ARCQ7aPpCJliG7gvVWcMGokBJYdHG0AXkl7Fw5c8BtrEYm1xptRBkP9CeCyq_RuiX9LeUwn1f-zcwLQi&hc_ref=ART9LrORs7KUyjkRg6CAcNr-S4DqL4kBeB1PRK22o5rNCA76lbGSUlnBGRpHvMOLgDM&dti=1508309029486384&hc_location=group) ‎](assets/201ff4904a8f/1*MLrLBYGQobUHH9B7rF8t7w.jpeg)
+![Photos: ‎ [Jenny Zinovia Kali](https://www.facebook.com/jenny.kali.1?fref=gs&__tn__=%2CdCH-R-R&eid=ARCQ7aPpCJliG7gvVWcMGokBJYdHG0AXkl7Fw5c8BtrEYm1xptRBkP9CeCyq_RuiX9LeUwn1f-zcwLQi&hc_ref=ART9LrORs7KUyjkRg6CAcNr-S4DqL4kBeB1PRK22o5rNCA76lbGSUlnBGRpHvMOLgDM&dti=1508309029486384&hc_location=group) ‎](../assets/201ff4904a8f/1*MLrLBYGQobUHH9B7rF8t7w.jpeg)
 
 Photos: ‎ [Jenny Zinovia Kali](https://www.facebook.com/jenny.kali.1?fref=gs&__tn__=%2CdCH-R-R&eid=ARCQ7aPpCJliG7gvVWcMGokBJYdHG0AXkl7Fw5c8BtrEYm1xptRBkP9CeCyq_RuiX9LeUwn1f-zcwLQi&hc_ref=ART9LrORs7KUyjkRg6CAcNr-S4DqL4kBeB1PRK22o5rNCA76lbGSUlnBGRpHvMOLgDM&dti=1508309029486384&hc_location=group) ‎
 

@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 23/11/22: People on the Move in Austria, Serbia, and Croatia left freezing due to…
+title: "AYS News Digest 23/11/22: People on the Move in Austria, Serbia, and Croatia left freezing due to…"
 author: Are You Syrious?
 date: 2022-11-23T23:56:36.659+0000
 last_modified_at: 2022-11-24T12:59:04.481+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,uk,refugees,emergency-response,human-rights]
 description: IOM reports that 50,000 People on the Move have died in transit since 2014// Still no formal investigation on LFJL’s claims regarding…
 image:
-  path: assets/84d6fd8b8e42/0*XG3CxsbqJq0OZGFV
+  path: ../assets/84d6fd8b8e42/0*XG3CxsbqJq0OZGFV
 ---
 
 ### AYS News Digest 23/11/22: People on the Move in Austria, Serbia, and Croatia left freezing due to cold and wet weather conditions
@@ -15,7 +15,7 @@ image:
 IOM reports that 50,000 People on the Move have died in transit since 2014// Still no formal investigation on LFJL’s claims regarding crimes against refugees in Libya// 490 asylum seekers arrived at the port of Paleochora, Crete// Suella Braverman unintentionally highlights the fact the UK asylum system is clearly broken…
 
 
-![Source: Border Crossing Spielfeld, [Facebook](https://www.facebook.com/RefugeesSpielfeld/photos/a.1631564003770749/3209810302612770)](assets/84d6fd8b8e42/0*XG3CxsbqJq0OZGFV)
+![Source: Border Crossing Spielfeld, [Facebook](https://www.facebook.com/RefugeesSpielfeld/photos/a.1631564003770749/3209810302612770)](../assets/84d6fd8b8e42/0*XG3CxsbqJq0OZGFV)
 
 Source: Border Crossing Spielfeld, [Facebook](https://www.facebook.com/RefugeesSpielfeld/photos/a.1631564003770749/3209810302612770)
 #### GENERAL
@@ -86,11 +86,11 @@ A year ago today, LFJL, ECCHR Berlin, and the International Federation for Human
 ### Sea Punks have announced they have managed to fundraise enough for a new ship, Sea Punk 1
 
 
-![](assets/84d6fd8b8e42/0*r74s_nhWbCuDoRvM)
+![](../assets/84d6fd8b8e42/0*r74s_nhWbCuDoRvM)
 
 
 
-![](assets/84d6fd8b8e42/0*TQ0Kqd-v6OE63qkw)
+![](../assets/84d6fd8b8e42/0*TQ0Kqd-v6OE63qkw)
 
 #### GREECE
 ### 490 asylum seekers arrived at the port of Paleochora, Crete
@@ -110,7 +110,7 @@ They will be spending a second night on the boat as there have been complication
 
 
 
-![](assets/84d6fd8b8e42/0*4wmRLH9RxsXmGW-s.jpg)
+![](../assets/84d6fd8b8e42/0*4wmRLH9RxsXmGW-s.jpg)
 
 
 [Images of misery… Second night on the ferry boat the 490 refugees and migrants of Paleochora \| Photos \(zarpanews\.gr\)](https://www.zarpanews.gr/eikones-exathliosis-deyteri-vradia-sto-ferry-boat-oi-490-prosfyges-kai-metanastes-tis-palaiochoras-photos/)
@@ -122,7 +122,7 @@ They will be spending a second night on the boat as there have been complication
 ### Klikaktiv has posted regarding the upcoming cold winter months and the work they have done to protect people on the move in northern Serbia
 
 
-![](assets/84d6fd8b8e42/0*hw6sfBVuGuM6HQ7n)
+![](../assets/84d6fd8b8e42/0*hw6sfBVuGuM6HQ7n)
 
 
 The full post here: [\(3\) Facebook](https://www.facebook.com/klikaktiv/posts/pfbid0hS85uUPtqRsAGJgzR7JMRj3FtrdEspbRNVQx6dD3q82yfNDBqRJadbVz8VXsyU1Ml)
@@ -147,7 +147,7 @@ AYS Free Shop remains the only place consistently and constantly providing peopl
 Donations are of course always welcome:
 
 
-![](assets/84d6fd8b8e42/0*X6pE7HCC9kGlPlj0)
+![](../assets/84d6fd8b8e42/0*X6pE7HCC9kGlPlj0)
 
 #### ITALY
 ### 3rd December — Free training \- Protection of victims of labor and corporal exploitation
@@ -162,7 +162,7 @@ With:
 Coordination: Alessandra Pelliccia — Melting Pot Europe
 
 
-![](assets/84d6fd8b8e42/0*xodn-0urSVf4CcfQ)
+![](../assets/84d6fd8b8e42/0*xodn-0urSVf4CcfQ)
 
 #### AUSTRIA
 ### Emergency conditions in Austria
@@ -179,7 +179,7 @@ Cold and wet weather has left 300 individuals sleeping in wet tents for roughly 
 The group is mainly from Syria and they have spent months travelling through Turkey, Greece and the Balkan route in order to reach Austria\. They are now being made to remain in these tents before being sent to more permanent forms of accommodation\.
 
 
-![Border Crossing Spielfeld: [Facebook](https://www.facebook.com/RefugeesSpielfeld/photos/a.1631294960464320/3205142079746259)](assets/84d6fd8b8e42/0*2msSiZj_WLm9sYae)
+![Border Crossing Spielfeld: [Facebook](https://www.facebook.com/RefugeesSpielfeld/photos/a.1631294960464320/3205142079746259)](../assets/84d6fd8b8e42/0*2msSiZj_WLm9sYae)
 
 Border Crossing Spielfeld: [Facebook](https://www.facebook.com/RefugeesSpielfeld/photos/a.1631294960464320/3205142079746259)
 

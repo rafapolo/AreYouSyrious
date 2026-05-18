@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [spain,digest,greece,refugees,covid-19]
 description: New report from Border Violence Monitoring Network // more evidence for Mytilene Port Authority violence // doubled law enforcement along…
 image:
-  path: assets/3a299f34d3b/1*3x4OhEovU-iOXezUO4YHnw.jpeg
+  path: ../assets/3a299f34d3b/1*3x4OhEovU-iOXezUO4YHnw.jpeg
 ---
 
 ### AYS Daily Digest 16/11/20 Canary Islands “will not become” the new Lesvos
@@ -15,7 +15,7 @@ image:
 _New report from Border Violence Monitoring Network // more evidence for Mytilene Port Authority violence // doubled law enforcement along Spanish/French border // COVID conditions in Serbia // and more…_
 
 
-![Wooden boat found Friday 16 October 2020 off the coast of the Canary Islands\. Photo by [AP/JAVIER BAULUZ](https://atalayar.com/en/content/migration-overflows-provisional-refugee-camps-canary-islands)](assets/3a299f34d3b/1*3x4OhEovU-iOXezUO4YHnw.jpeg)
+![Wooden boat found Friday 16 October 2020 off the coast of the Canary Islands\. Photo by [AP/JAVIER BAULUZ](https://atalayar.com/en/content/migration-overflows-provisional-refugee-camps-canary-islands)](../assets/3a299f34d3b/1*3x4OhEovU-iOXezUO4YHnw.jpeg)
 
 Wooden boat found Friday 16 October 2020 off the coast of the Canary Islands\. Photo by [AP/JAVIER BAULUZ](https://atalayar.com/en/content/migration-overflows-provisional-refugee-camps-canary-islands)
 ### FEATURE: Spain’s Minister of the Interior, Fernando Grande\-Marlaska, stated that the Canary Islands “will not become” the new Lesvos
@@ -58,11 +58,11 @@ A report and video from the [“Journal of the Editors”](https://www.stonisi.g
 
 
 
-![](assets/3a299f34d3b/1*YMJFNvYz0Lf54pp0Lffkmw.jpeg)
+![](../assets/3a299f34d3b/1*YMJFNvYz0Lf54pp0Lffkmw.jpeg)
 
 
 
-![Photos by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/971670753356029)](assets/3a299f34d3b/1*kRHHVAE7Ilx8eRnefGArNA.jpeg)
+![Photos by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/971670753356029)](../assets/3a299f34d3b/1*kRHHVAE7Ilx8eRnefGArNA.jpeg)
 
 Photos by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/971670753356029)
 ### ABR: The Greek Coast Guard performed 16 illegal pushbacks this month
@@ -127,7 +127,7 @@ El Pais is reporting that “ _The Constitutional Court will support in the plen
 #### THE BALKANS
 
 
-![“Every day, the Hungarian police continue to push about 150 people into Serbia, most often near Horgos, Kelebija and a smaller number near Bajmok\. People from Syria, Iraq, Morocco, Algeria, Afghanistan try to cross into Hungary every day by jumping over fences, tunnels, and truck trailers\.” Info and photo by [Asylum Protection in Serbia](https://twitter.com/APC_CZA/status/1328245603541905411)](assets/3a299f34d3b/1*DqEAzhyv2FHR6LQOzhUjSQ.jpeg)
+![“Every day, the Hungarian police continue to push about 150 people into Serbia, most often near Horgos, Kelebija and a smaller number near Bajmok\. People from Syria, Iraq, Morocco, Algeria, Afghanistan try to cross into Hungary every day by jumping over fences, tunnels, and truck trailers\.” Info and photo by [Asylum Protection in Serbia](https://twitter.com/APC_CZA/status/1328245603541905411)](../assets/3a299f34d3b/1*DqEAzhyv2FHR6LQOzhUjSQ.jpeg)
 
 “Every day, the Hungarian police continue to push about 150 people into Serbia, most often near Horgos, Kelebija and a smaller number near Bajmok\. People from Syria, Iraq, Morocco, Algeria, Afghanistan try to cross into Hungary every day by jumping over fences, tunnels, and truck trailers\.” Info and photo by [Asylum Protection in Serbia](https://twitter.com/APC_CZA/status/1328245603541905411)
 
@@ -159,7 +159,7 @@ Update from Info Park about the general situation in Serbia:
 
 
 
-![Photo by [Border Violence Monitoring Network](https://www.borderviolence.eu/balkan-region-report-october-2020/?fbclid=IwAR2OCE5mz76BOOVLjPAq4KwdNXIYbvb-m0MqQmat7mr42NOj6Cy_TL_cIIY)](assets/3a299f34d3b/1*LYr5RWZB--TCzusBhqu2Jg.jpeg)
+![Photo by [Border Violence Monitoring Network](https://www.borderviolence.eu/balkan-region-report-october-2020/?fbclid=IwAR2OCE5mz76BOOVLjPAq4KwdNXIYbvb-m0MqQmat7mr42NOj6Cy_TL_cIIY)](../assets/3a299f34d3b/1*LYr5RWZB--TCzusBhqu2Jg.jpeg)
 
 Photo by [Border Violence Monitoring Network](https://www.borderviolence.eu/balkan-region-report-october-2020/?fbclid=IwAR2OCE5mz76BOOVLjPAq4KwdNXIYbvb-m0MqQmat7mr42NOj6Cy_TL_cIIY)
 ### BALKAN REGION REPORT — OCTOBER 2020
@@ -201,7 +201,7 @@ _– Do you speak a language that we do not cover yet or have you found a mistak
 #### FRANCE
 
 
-![“‘It’s cold and we have no showers and no duvets’ More than 2000 \#migrants survive in camping tents in front of the Stade de France in Saint\-Denis\. \#DisasterPact” Photo by [Mortaza](https://twitter.com/MortazaBehboudi/status/1328277575966330880) B\.](assets/3a299f34d3b/1*B4F56VYjs2S_0fGj62sp4w.jpeg)
+![“‘It’s cold and we have no showers and no duvets’ More than 2000 \#migrants survive in camping tents in front of the Stade de France in Saint\-Denis\. \#DisasterPact” Photo by [Mortaza](https://twitter.com/MortazaBehboudi/status/1328277575966330880) B\.](../assets/3a299f34d3b/1*B4F56VYjs2S_0fGj62sp4w.jpeg)
 
 “‘It’s cold and we have no showers and no duvets’ More than 2000 \#migrants survive in camping tents in front of the Stade de France in Saint\-Denis\. \#DisasterPact” Photo by [Mortaza](https://twitter.com/MortazaBehboudi/status/1328277575966330880) B\.
 ### New report on poverty in France
@@ -212,7 +212,7 @@ Info Migrants summarizes “ _The Catholic Secours, which helped nearly 1\.4 mil
 ![“Prohibition on distributing meals in the city center: 4rd version of the prefectural order
 Released tonight, this version lists a long list of streets and docks prohibited for distribution, but no change from version 3\.
 However, it seems that the latest expulsions, Coquelles sector, have scattered the exiled people, towards downtown, and towards the city of Europe\.
-Continuing our meal distributions near downtown, and bags of food and wood elsewhere\. It’s been 12 years since the Auberge des Migrants has been on the pitch, it won’t stop, despite the rain of PV that is falling on our Human Rights Observers team right now\.” Info and Photo by [L’Auberge des Migrants](https://www.facebook.com/AubergeMigrants/posts/10158445891200339)](assets/3a299f34d3b/1*hSIiT5812MPX_44V0fM0Bg.jpeg)
+Continuing our meal distributions near downtown, and bags of food and wood elsewhere\. It’s been 12 years since the Auberge des Migrants has been on the pitch, it won’t stop, despite the rain of PV that is falling on our Human Rights Observers team right now\.” Info and Photo by [L’Auberge des Migrants](https://www.facebook.com/AubergeMigrants/posts/10158445891200339)](../assets/3a299f34d3b/1*hSIiT5812MPX_44V0fM0Bg.jpeg)
 
 “Prohibition on distributing meals in the city center: 4rd version of the prefectural order
 Released tonight, this version lists a long list of streets and docks prohibited for distribution, but no change from version 3\.
@@ -223,7 +223,7 @@ To help unaccompanied minors who have been refused by the Social Assistance for 
 #### EU
 
 
-![Please check out Refugee Rights Europe’s new report\! \! “Our new report published alongside the End Pushbacks Partnership shows that pushbacks are not just isolated incidents, but a systematic Europe\-wide approach to asylum and migration\.” Photo by [Refugee Rights Europe](https://www.facebook.com/RefugeeRightsEurope/photos/a.1502441746729332/2443906339249530/)](assets/3a299f34d3b/1*KgY6SmJwtVS4waK83npzEw.jpeg)
+![Please check out Refugee Rights Europe’s new report\! \! “Our new report published alongside the End Pushbacks Partnership shows that pushbacks are not just isolated incidents, but a systematic Europe\-wide approach to asylum and migration\.” Photo by [Refugee Rights Europe](https://www.facebook.com/RefugeeRightsEurope/photos/a.1502441746729332/2443906339249530/)](../assets/3a299f34d3b/1*KgY6SmJwtVS4waK83npzEw.jpeg)
 
 Please check out Refugee Rights Europe’s new report\! \! “Our new report published alongside the End Pushbacks Partnership shows that pushbacks are not just isolated incidents, but a systematic Europe\-wide approach to asylum and migration\.” Photo by [Refugee Rights Europe](https://www.facebook.com/RefugeeRightsEurope/photos/a.1502441746729332/2443906339249530/)
 ### \#DisasterPact was the \#1 trending hashtag in Germany on Monday\!

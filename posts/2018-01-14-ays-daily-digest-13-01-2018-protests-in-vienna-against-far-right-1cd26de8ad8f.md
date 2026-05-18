@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 13/01/2018: Protests in Vienna against far-right
+title: "AYS Daily Digest 13/01/2018: Protests in Vienna against far-right"
 author: Are You Syrious?
 date: 2018-01-14T12:54:38.948+0000
 last_modified_at: 2018-01-14T15:44:29.040+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,austria,vienna,protest,antifa]
 description: Austrians protest against far-right//43 refugees arrive on Lesvos//New information from southern Croatia//Amnesty International calls on…
 image:
-  path: assets/1cd26de8ad8f/1*zMwwbBBso9CVlnfKZpNshA.png
+  path: ../assets/1cd26de8ad8f/1*zMwwbBBso9CVlnfKZpNshA.png
 ---
 
 ### AYS Daily Digest 13/01/2018: Protests in Vienna against far\-right
@@ -15,7 +15,7 @@ image:
 _Austrians protest against far\-right//43 refugees arrive on Lesvos//New information from southern Croatia//Amnesty International calls on the attacks against civilians in Idlib to stop_
 
 
-![Photo by Arye Wachmuth](assets/1cd26de8ad8f/1*zMwwbBBso9CVlnfKZpNshA.png)
+![Photo by Arye Wachmuth](../assets/1cd26de8ad8f/1*zMwwbBBso9CVlnfKZpNshA.png)
 
 Photo by Arye Wachmuth
 #### Feature:
@@ -32,13 +32,13 @@ Many organisations warned against repeating history, including the federation of
 The “Grandmas against the Right” were at the forefront of the protest, fighting against antisemtisim, racism and fascism\.
 
 
-![](assets/1cd26de8ad8f/1*Fm5UpvXyzoOQ1_JoaFI5NA.png)
+![](../assets/1cd26de8ad8f/1*Fm5UpvXyzoOQ1_JoaFI5NA.png)
 
 
 Organizers say 70,000 people protested in the freezing rain despite expectations that only 10,000 — 20,000 would participate according to police\.
 
 
-![Photo by Arye Wachmuth](assets/1cd26de8ad8f/1*1u97cs0Br9y8XvpcPx-CcA.png)
+![Photo by Arye Wachmuth](../assets/1cd26de8ad8f/1*1u97cs0Br9y8XvpcPx-CcA.png)
 
 Photo by Arye Wachmuth
 #### Greece
@@ -49,7 +49,7 @@ One boat with 43 people on board landed on the South coast of Lesvos early in th
 Philippa and Erik Kempson on Lesvos say they are in need of supplies, including trousers, gloves, shoes and [more](https://www.facebook.com/thekempsons/posts/1976407082607195) \.
 
 
-![Photo by Philippa and Erik Kempson](assets/1cd26de8ad8f/1*PsBDNmYuciL0D-4hqVFClw.png)
+![Photo by Philippa and Erik Kempson](../assets/1cd26de8ad8f/1*PsBDNmYuciL0D-4hqVFClw.png)
 
 Photo by Philippa and Erik Kempson
 ### Volunteer needs

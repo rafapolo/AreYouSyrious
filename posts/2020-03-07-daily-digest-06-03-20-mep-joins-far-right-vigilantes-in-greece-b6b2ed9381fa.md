@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,greece,refugees,migrants,far-right]
 description: ICC to Investigate War Crimes in Afghanistan///Serbian Paper References Battle Against Ottomans in Headline About People on the…
 image:
-  path: assets/b6b2ed9381fa/0*ra0YFJq55c7GigBZ
+  path: ../assets/b6b2ed9381fa/0*ra0YFJq55c7GigBZ
 ---
 
 ### Daily Digest 06/03/20 — MEP Joins Far\-Right Vigilantes in Greece
 #### ICC to Investigate War Crimes in Afghanistan///Serbian Paper References Battle Against Ottomans in Headline About People on the Move///German Mayors Ask to Accept Children From Refugee Camps//////Swedish Far\-Right Politician Deported From Turkey
 
 
-![Far\-right MEP Ioannis Lagos in Evros\. Photo credits: [Left\.gr](https://left.gr/news/kai-o-lagos-se-peripolia-me-katoikoys-ston-evro-fotografies?fbclid=IwAR0hxt6AIMwDjE9Gd2m3yE5u-qmf8OJjCBqDACUOQKLR9H5nCOVvQ9znseY)](assets/b6b2ed9381fa/0*ra0YFJq55c7GigBZ)
+![Far\-right MEP Ioannis Lagos in Evros\. Photo credits: [Left\.gr](https://left.gr/news/kai-o-lagos-se-peripolia-me-katoikoys-ston-evro-fotografies?fbclid=IwAR0hxt6AIMwDjE9Gd2m3yE5u-qmf8OJjCBqDACUOQKLR9H5nCOVvQ9znseY)](../assets/b6b2ed9381fa/0*ra0YFJq55c7GigBZ)
 
 Far\-right MEP Ioannis Lagos in Evros\. Photo credits: [Left\.gr](https://left.gr/news/kai-o-lagos-se-peripolia-me-katoikoys-ston-evro-fotografies?fbclid=IwAR0hxt6AIMwDjE9Gd2m3yE5u-qmf8OJjCBqDACUOQKLR9H5nCOVvQ9znseY)
 ### Feature: Golden Dawn MEP Among Fascist Vigilantes Attacking People in Greece
@@ -63,7 +63,7 @@ Even though the news coming out of Greece can seem more overwhelming than usual,
 If you are on Lesvos, there is a solidarity rally on Saturday, 7 March, at 11 am\. More information is on the poster below \(in Greek\) \.
 
 
-![Source: [NoBorders](https://www.facebook.com/nobordersnetwork/photos/a.773767229357838/2837781359623071/?type=3&theater)](assets/b6b2ed9381fa/0*IpPOX8DNx7zt4T4-)
+![Source: [NoBorders](https://www.facebook.com/nobordersnetwork/photos/a.773767229357838/2837781359623071/?type=3&theater)](../assets/b6b2ed9381fa/0*IpPOX8DNx7zt4T4-)
 
 Source: [NoBorders](https://www.facebook.com/nobordersnetwork/photos/a.773767229357838/2837781359623071/?type=3&theater)
 
@@ -140,7 +140,7 @@ While there is need for precautionary measures to stop this disease, it is clear
 ### And finally, an image that sums up Europe…
 
 
-![Artist: [Miki & Duarte](https://twitter.com/MikiyDuarte)](assets/b6b2ed9381fa/0*lfJxkQQsrJ944n6h)
+![Artist: [Miki & Duarte](https://twitter.com/MikiyDuarte)](../assets/b6b2ed9381fa/0*lfJxkQQsrJ944n6h)
 
 Artist: [Miki & Duarte](https://twitter.com/MikiyDuarte)
 

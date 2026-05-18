@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 7/7/20: Black Lives on the move systematically left to die
+title: "AYS Daily Digest 7/7/20: Black Lives on the move systematically left to die"
 author: Are You Syrious?
 date: 2020-07-08T18:52:19.385+0100
 last_modified_at: 2020-07-08T19:10:54.899+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,mediterranean,europe,human-rights]
 description: On the situation at the Mediterranean — report by Alarm Phone / updates from Greece / Family reunification again in Germany / Finland’s…
 image:
-  path: assets/23047cfa952f/1*eT1lV_uX_OgbOTSeziE0fg.jpeg
+  path: ../assets/23047cfa952f/1*eT1lV_uX_OgbOTSeziE0fg.jpeg
 ---
 
 ### AYS Daily Digest 7/7/20: **Black Lives on the move systematically left to die**
 #### On the situation at the Mediterranean — report by Alarm Phone / updates from Greece / Family reunification again in Germany / Finland’s government decides to give up on their original plans to control people / & more news
 
 
-![Paris\- Photo: [Danika Jurisic](https://www.facebook.com/profile.php?id=100009499466124&__tn__=%2CdCH-R-R&eid=ARCwhJ6Hv_tF4PJy9AEj5J3dkMhKDs86Qu97oUnon813Cuiz3pfLHK6Aedfde4W2rA7vjTD24Z_E8iCp&hc_ref=ARSlIei53ZAWDPCjpoYf5FbULGE_SPHXrcmxk2Bi_81NrlaPir5BskJWOyCIeXGI10I&fref=nf&hc_location=group)](assets/23047cfa952f/1*eT1lV_uX_OgbOTSeziE0fg.jpeg)
+![Paris\- Photo: [Danika Jurisic](https://www.facebook.com/profile.php?id=100009499466124&__tn__=%2CdCH-R-R&eid=ARCwhJ6Hv_tF4PJy9AEj5J3dkMhKDs86Qu97oUnon813Cuiz3pfLHK6Aedfde4W2rA7vjTD24Z_E8iCp&hc_ref=ARSlIei53ZAWDPCjpoYf5FbULGE_SPHXrcmxk2Bi_81NrlaPir5BskJWOyCIeXGI10I&fref=nf&hc_location=group)](../assets/23047cfa952f/1*eT1lV_uX_OgbOTSeziE0fg.jpeg)
 
 Paris\- Photo: [Danika Jurisic](https://www.facebook.com/profile.php?id=100009499466124&__tn__=%2CdCH-R-R&eid=ARCwhJ6Hv_tF4PJy9AEj5J3dkMhKDs86Qu97oUnon813Cuiz3pfLHK6Aedfde4W2rA7vjTD24Z_E8iCp&hc_ref=ARSlIei53ZAWDPCjpoYf5FbULGE_SPHXrcmxk2Bi_81NrlaPir5BskJWOyCIeXGI10I&fref=nf&hc_location=group)
 #### FEATURED
@@ -87,7 +87,7 @@ A Turkish registered tanker was stopped in Izmir by the Turkish coast guard\. On
 A video released shows people crammed into the ship’s tanks with poor ventilation: some of the refugees arrested were having problems breathing\. This could easily have ended up in a major disaster, if not stopped in time, [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?__tn__=%2CdkCH-R-R&eid=ARCIRUYBJh11cVLfVvVaziIZDIqGvjUgSuwG5SqafgOyfkzqL9sl4ySzyAaGbw-3tly3L7mozwFPReJc&hc_ref=ARSqd5Bewq0-KWZIQuJDG-AOXfTLXOc2dLyTfoYDG2ba9HW5WHXMpAlebetBjbIIrCM&fref=nf&hc_location=group) wrote\.
 
 
-![Photo: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?__tn__=%2CdkCH-R-R&eid=ARCIRUYBJh11cVLfVvVaziIZDIqGvjUgSuwG5SqafgOyfkzqL9sl4ySzyAaGbw-3tly3L7mozwFPReJc&hc_ref=ARSqd5Bewq0-KWZIQuJDG-AOXfTLXOc2dLyTfoYDG2ba9HW5WHXMpAlebetBjbIIrCM&fref=nf&hc_location=group)](assets/23047cfa952f/1*n7f-YU5ITyYAaz80CQQ54A.jpeg)
+![Photo: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?__tn__=%2CdkCH-R-R&eid=ARCIRUYBJh11cVLfVvVaziIZDIqGvjUgSuwG5SqafgOyfkzqL9sl4ySzyAaGbw-3tly3L7mozwFPReJc&hc_ref=ARSqd5Bewq0-KWZIQuJDG-AOXfTLXOc2dLyTfoYDG2ba9HW5WHXMpAlebetBjbIIrCM&fref=nf&hc_location=group)](../assets/23047cfa952f/1*n7f-YU5ITyYAaz80CQQ54A.jpeg)
 
 Photo: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?__tn__=%2CdkCH-R-R&eid=ARCIRUYBJh11cVLfVvVaziIZDIqGvjUgSuwG5SqafgOyfkzqL9sl4ySzyAaGbw-3tly3L7mozwFPReJc&hc_ref=ARSqd5Bewq0-KWZIQuJDG-AOXfTLXOc2dLyTfoYDG2ba9HW5WHXMpAlebetBjbIIrCM&fref=nf&hc_location=group)
 
@@ -97,7 +97,7 @@ EU interior ministers are scheduled to hold an informal meeting today to discuss
 #### GREECE
 
 
-![[Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?tn-str=k%2AF&hc_location=group_dialog)](assets/23047cfa952f/1*DCQ0zYBX-qgpvJvFoUV4nA.jpeg)
+![[Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?tn-str=k%2AF&hc_location=group_dialog)](../assets/23047cfa952f/1*DCQ0zYBX-qgpvJvFoUV4nA.jpeg)
 
 [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?tn-str=k%2AF&hc_location=group_dialog)
 
@@ -204,11 +204,11 @@ Local activists report from the streets of Paris:
 
 
 
-![](assets/23047cfa952f/1*hlOPhPiQXoJWjY4hY9Yndg.jpeg)
+![](../assets/23047cfa952f/1*hlOPhPiQXoJWjY4hY9Yndg.jpeg)
 
 
 
-![](assets/23047cfa952f/1*Xqo-wyV_0OCB4z9HGytAfA.jpeg)
+![](../assets/23047cfa952f/1*Xqo-wyV_0OCB4z9HGytAfA.jpeg)
 
 #### FINLAND
 

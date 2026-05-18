@@ -1,5 +1,5 @@
 ---
-title: Stories from Ventimiglia (2): A glimmers of hope
+title: "Stories from Ventimiglia (2): A glimmers of hope"
 author: Are You Syrious?
 date: 2017-04-20T11:53:00.930+0100
 last_modified_at: 2017-04-20T11:53:00.930+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,ventimiglia,italy,people-on-the-move]
 description: Border towns all over the world have a special and unique atmosphere and this is definitely true of Ventimiglia, a small town on the…
 image:
-  path: assets/c2274826e62d/1*m9Htvn4TITSJvRPB-S0Wbw.png
+  path: ../assets/c2274826e62d/1*m9Htvn4TITSJvRPB-S0Wbw.png
 ---
 
 ### Stories from Ventimiglia \(2\): A glimmers of hope
@@ -15,7 +15,7 @@ image:
 _Border towns all over the world have a special and unique atmosphere and this is definitely true of Ventimiglia, a small town on the Italian Riviera, situated 20 miles from France\. Formerly, a sleepy outpost for French holiday\-makers, in recent years Ventimiglia has become the main crossing point for refugees and migrants hoping to settle in France or the UK\. As numbers increased dramatically last summer, tensions in the town have begun to bubble to surface and volunteers and activists are becoming lightning rods for discontent for the prefecture\._
 
 
-![The Red Cross camp in Ventimiglia\. By [Peggy Whitfield](https://www.facebook.com/peggy.whitfield.77) \.](assets/c2274826e62d/1*m9Htvn4TITSJvRPB-S0Wbw.png)
+![The Red Cross camp in Ventimiglia\. By [Peggy Whitfield](https://www.facebook.com/peggy.whitfield.77) \.](../assets/c2274826e62d/1*m9Htvn4TITSJvRPB-S0Wbw.png)
 
 The Red Cross camp in Ventimiglia\. By [Peggy Whitfield](https://www.facebook.com/peggy.whitfield.77) \.
 

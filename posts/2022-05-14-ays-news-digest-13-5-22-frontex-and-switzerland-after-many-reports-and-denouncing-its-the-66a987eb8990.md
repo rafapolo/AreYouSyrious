@@ -1,20 +1,20 @@
 ---
-title: AYS News Digest 13/5/22: Frontex and Switzerland — After many reports and denouncing, it’s the…
+title: "AYS News Digest 13/5/22: Frontex and Switzerland — After many reports and denouncing, it’s the…"
 author: Are You Syrious?
 date: 2022-05-14T21:15:03.048+0100
 last_modified_at: 2022-05-14T21:46:03.711+0100
 categories: Are You Syrious?
 tags: [digest,refugees,switzerland,europe,report]
-description: Germany: 1in 3 negative asylum decisions handed down by BAMF end up being revised after initial court appeals / Hunger strike in…
+description: "Germany: 1in 3 negative asylum decisions handed down by BAMF end up being revised after initial court appeals / Hunger strike in…"
 image:
-  path: assets/66a987eb8990/1*-0hzmrH69crQkv3m8qAT0w.jpeg
+  path: ../assets/66a987eb8990/1*-0hzmrH69crQkv3m8qAT0w.jpeg
 ---
 
 ### AYS News Digest 13/5/22: Frontex and Switzerland — After many reports and denouncements, it’s the whistleblowers who raise the concern
 #### Germany: 1in 3 negative asylum decisions handed down by BAMF end up being revised after initial court appeals // Hunger strike in Lesznowola // Embarrassing data breach in the Greek migration report // Calls for volunteers in France // How to support anti Rwanda deal efforts in the UK // \+ our team prepared some very interesting and highly useful articles, analysis, reports and personal stories — don’t miss them
 
 
-![Photo source: Frontex](assets/66a987eb8990/1*-0hzmrH69crQkv3m8qAT0w.jpeg)
+![Photo source: Frontex](../assets/66a987eb8990/1*-0hzmrH69crQkv3m8qAT0w.jpeg)
 
 Photo source: Frontex
 #### FEATURE
@@ -22,7 +22,7 @@ Photo source: Frontex
 Fearing that the country may end up being an accomplice in unlawful actions, a Swiss border guard who served in around 10 Frontex operations has said he will vote “no” in the upcoming referendum on whether or not to increase the Swiss funding of Frontex\.
 
 
-![“Frontex has been allowed to operate along Europe’s borders without any oversight, and why the chances are low that anything will change despite their leader resigning to avoid the music\.” Hear the latest [@refocusmedialabs](https://www.instagram.com/_u/refocusmedialabs?fbclid=IwAR2GawPJvz6tTPq6PlxHins5pcEqlITrECFUpe0m9mNjyr3fqc-fCXR4Wto) podcast](assets/66a987eb8990/0*x5CtWuPpXiPMOwvH)
+![“Frontex has been allowed to operate along Europe’s borders without any oversight, and why the chances are low that anything will change despite their leader resigning to avoid the music\.” Hear the latest [@refocusmedialabs](https://www.instagram.com/_u/refocusmedialabs?fbclid=IwAR2GawPJvz6tTPq6PlxHins5pcEqlITrECFUpe0m9mNjyr3fqc-fCXR4Wto) podcast](../assets/66a987eb8990/0*x5CtWuPpXiPMOwvH)
 
 “Frontex has been allowed to operate along Europe’s borders without any oversight, and why the chances are low that anything will change despite their leader resigning to avoid the music\.” Hear the latest [@refocusmedialabs](https://www.instagram.com/_u/refocusmedialabs?fbclid=IwAR2GawPJvz6tTPq6PlxHins5pcEqlITrECFUpe0m9mNjyr3fqc-fCXR4Wto) podcast
 
@@ -95,7 +95,7 @@ Speaking on preserving the identity, privacy and rights of those we claim to be 
 
 
 
-![Suspended Lives \- “Letters to the world from Ritsona” — In the bookstores of France\-Paris](assets/66a987eb8990/0*HzRnkVhMghmn2dQ9)
+![Suspended Lives \- “Letters to the world from Ritsona” — In the bookstores of France\-Paris](../assets/66a987eb8990/0*HzRnkVhMghmn2dQ9)
 
 Suspended Lives \- “Letters to the world from Ritsona” — In the bookstores of France\-Paris
 
@@ -134,7 +134,7 @@ Salvamento Marítimo saved 15 people at sea in the early hours of Friday, May 13
 ### Volunteers report from the Ceuta Circle of Silence
 
 
-![](assets/66a987eb8990/0*Q2WX9IgGDMaPVLr6)
+![](../assets/66a987eb8990/0*Q2WX9IgGDMaPVLr6)
 
 
 NNK volunteers in Ceuta write:
@@ -177,23 +177,23 @@ As water tanks are being pierced, distributions prohibited and provisional camps
 [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__tn__=-UC*F) is looking for people willing to help:
 
 
-![](assets/66a987eb8990/1*z8zYdMdzIJJZE3LJi-Y16g.jpeg)
+![](../assets/66a987eb8990/1*z8zYdMdzIJJZE3LJi-Y16g.jpeg)
 
 
 
-![](assets/66a987eb8990/1*Wo5IYLzSQMPn3O_pp8QjWQ.jpeg)
+![](../assets/66a987eb8990/1*Wo5IYLzSQMPn3O_pp8QjWQ.jpeg)
 
 
 
-![](assets/66a987eb8990/1*KzC23cGwAE465ASz17Mr1Q.jpeg)
+![](../assets/66a987eb8990/1*KzC23cGwAE465ASz17Mr1Q.jpeg)
 
 
 
-![](assets/66a987eb8990/1*mOHruAeeYzKvnqpraazOhQ.jpeg)
+![](../assets/66a987eb8990/1*mOHruAeeYzKvnqpraazOhQ.jpeg)
 
 
 
-![](assets/66a987eb8990/1*rm2ALx_4JpyqLLKVl7v2Dg.jpeg)
+![](../assets/66a987eb8990/1*rm2ALx_4JpyqLLKVl7v2Dg.jpeg)
 
 #### POLAND
 
@@ -317,7 +317,7 @@ With @[JaneVKP](https://twitter.com/JaneVKP), @[sarahchander](https://twitter.co
 
 
 
-[![Yale Law School: A Reconceptualization of the Mediterranean Migrant Crisis | #TheOutlawOceanProject](assets/66a987eb8990/d232_hqdefault.jpg "Yale Law School: A Reconceptualization of the Mediterranean Migrant Crisis | #TheOutlawOceanProject")](https://www.youtube.com/watch?v=WmXXcbg260M)
+[![Yale Law School: A Reconceptualization of the Mediterranean Migrant Crisis | #TheOutlawOceanProject](../assets/66a987eb8990/d232_hqdefault.jpg "Yale Law School: A Reconceptualization of the Mediterranean Migrant Crisis | #TheOutlawOceanProject")](https://www.youtube.com/watch?v=WmXXcbg260M)
 
 - ELENA Weekly update:
 

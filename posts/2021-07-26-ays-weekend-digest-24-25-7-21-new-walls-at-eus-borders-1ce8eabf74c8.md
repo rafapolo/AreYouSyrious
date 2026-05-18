@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 24–25/7/21: New walls at EU’s borders.
+title: "AYS Weekend Digest 24–25/7/21: New walls at EU’s borders."
 author: Are You Syrious?
 date: 2021-07-26T11:46:08.884+0100
 last_modified_at: 2021-07-26T11:46:08.884+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [lithuania,belarus,digest,refugees,borders]
 description: Walls and armoured vehicles between Belarus and Lithuania // Busy weekend in the central Med // Tunisia on the brink of authoritarianism //…
 image:
-  path: assets/1ce8eabf74c8/0*iMw0EQle4cfQJHwQ.jpeg
+  path: ../assets/1ce8eabf74c8/0*iMw0EQle4cfQJHwQ.jpeg
 ---
 
 ### AYS Weekend Digest 24–25/7/21: New walls at EU’s borders\.
 #### Walls and armoured vehicles between Belarus and Lithuania // Busy weekend in the central Med // Tunisia on the brink of authoritarianism // More from Greece, Italy, Ceuta, France and the UK\.
 
 
-![](assets/1ce8eabf74c8/0*iMw0EQle4cfQJHwQ.jpeg)
+![](../assets/1ce8eabf74c8/0*iMw0EQle4cfQJHwQ.jpeg)
 
 
 From Thursday 22 the resistant camp & caravan ‘Por la vida’ in the French\-Italian Western Alps is taking place\. Six days of camping, talks, events and discussions\. A 2\-day march crossed the border with more than 300 people passing through Alpine paths, reaching Briancon and Gap in France\. \(Credit: [Vallées en lutte](https://valleesenlutte.org/spip.php?article141) \),
@@ -88,7 +88,7 @@ SPAIN
 ### Demonstration in Ceuta
 
 
-![](assets/1ce8eabf74c8/0*LKdyOELnfajPu5Hb.jpeg)
+![](../assets/1ce8eabf74c8/0*LKdyOELnfajPu5Hb.jpeg)
 
 
 17 July 2021, Ceuta \(Photo by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/1283032818761666) \)

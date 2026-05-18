@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [france,uk,refugees,sweden]
 description: 4 people die in English Channel // Canary Islands rescuers overwhelmed, union reports // more reports of Croatian Police brutality //…
 image:
-  path: assets/d7b08dc102c6/0*pJiOEl7EGmDBkdTc.jpeg
+  path: ../assets/d7b08dc102c6/0*pJiOEl7EGmDBkdTc.jpeg
 ---
 
 ### AYS Daily Digest 27/10/20 Frontex says “no evidence” of pushbacks, videos and eye witnesses say otherwise
@@ -15,7 +15,7 @@ image:
 _4 people die in English Channel // Canary Islands rescuers overwhelmed, union reports // more reports of Croatian Police brutality // evictions crises in Calais // and more…_
 
 
-![](assets/d7b08dc102c6/0*pJiOEl7EGmDBkdTc.jpeg)
+![](../assets/d7b08dc102c6/0*pJiOEl7EGmDBkdTc.jpeg)
 
 ### FEATURE: Frontex says they investigated themselves, found no evidence to “substantiate any accusations of violations of the law or Frontex Code of Conduct”
 
@@ -48,7 +48,7 @@ AYS will continue to report on any pushbacks along the Greek/Turkish land and se
 ### LIBYA
 
 
-![](assets/d7b08dc102c6/0*6qqcAj7VqT8-xyzk.jpeg)
+![](../assets/d7b08dc102c6/0*6qqcAj7VqT8-xyzk.jpeg)
 
 ### SEA
 
@@ -63,12 +63,12 @@ _“In Malta, three youths risk life in prison for their roles in helping fellow
 ### ITALY
 
 
-![](assets/d7b08dc102c6/0*M0-OdjJTFO9ukH2u.jpeg)
+![](../assets/d7b08dc102c6/0*M0-OdjJTFO9ukH2u.jpeg)
 
 ### SPAIN
 
 
-![](assets/d7b08dc102c6/0*rPmiwqNAIYhiYUSE.jpeg)
+![](../assets/d7b08dc102c6/0*rPmiwqNAIYhiYUSE.jpeg)
 
 ### “The migration crisis in the Canary Islands is being faced by 25 rescuers”
 
@@ -116,7 +116,7 @@ In another attack of police brutality on October 9th at Petrinja Police Station,
 
 
 
-![](assets/d7b08dc102c6/0*-vEOSn3emwuCW_tb.png)
+![](../assets/d7b08dc102c6/0*-vEOSn3emwuCW_tb.png)
 
 ### GERMANY
 
@@ -126,7 +126,7 @@ On Monday, a coalition of 43 aid organizations released a statement condemning h
 ### FRANCE
 
 
-![](assets/d7b08dc102c6/0*emOoOwcR-ZTy6gvc.jpeg)
+![](../assets/d7b08dc102c6/0*emOoOwcR-ZTy6gvc.jpeg)
 
 ### An update from Care4Calias on the death of 4 people in the English Channel:
 
@@ -157,7 +157,7 @@ The EU Observer reported that _“According to the court, the refugee was ‘pre
 ### SWEDEN
 
 
-![](assets/d7b08dc102c6/0*J2xss1GT_ySlJuyJ.jpeg)
+![](../assets/d7b08dc102c6/0*J2xss1GT_ySlJuyJ.jpeg)
 
 
 Dagens Juridik reported that The Swedish Migration Agency has not prioritized three cases after the court ordered them to do so, and now they are facing severe criticism\. Prolonged asylum cases has become a major issue for the agency\. More [here](https://www.dagensjuridik.se/nyheter/migrationsverket-prioriterade-inte-arenden-trots-domstolsbeslut/?fbclid=IwAR1KPIL5KFv7rHA_gQn8iCY9Nj5xtoghzmtx_u1ap-eoTyhN5rVcvOq2TWk) \.
@@ -179,7 +179,7 @@ Authorities are denying these claims\. More [here](https://grapevine.is/news/202
 The number of people entering the EU from Turkey dropped by 70% in the first 9 months of 2020, reported German daily Welt\. In the first 9 months of this year, 14,579 people entered the EU from Turkey; for the same period in 2019, 48,554 people entered from Turkey\. DW further states “ _321,685 asylum applications were made in the EU \(plus Norway and Switzerland\) from January to September of this year\. Spain lead all countries with 72,500\. Germany was second with 60,694, followed by France \(60,621\), Greece \(36,127\) and Italy \(16,051\)_ \.” More [here](https://www.dw.com/en/eu-migration-turkey/a-55406468?fbclid=IwAR1qcUkHwxjn4x0xwf5wKJXJ4n05njr-nXYqrKvZ8a0dv66RTF7nu40WU9Y) \.
 
 
-![](assets/d7b08dc102c6/0*LmiTd9DVPqhNhcfi.png)
+![](../assets/d7b08dc102c6/0*LmiTd9DVPqhNhcfi.png)
 
 
 [Europe Must Act](https://www.facebook.com/europemustact/posts/184051229874246) provided an excellent summary of the European Commission’s New Pact on Migration and Asylum as a refresher:

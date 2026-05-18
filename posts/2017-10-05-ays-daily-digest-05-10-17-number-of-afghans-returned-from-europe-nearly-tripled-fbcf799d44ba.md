@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 05/10/17: Number of Afghans returned from Europe nearly tripled
+title: "AYS Daily Digest 05/10/17: Number of Afghans returned from Europe nearly tripled"
 author: Are You Syrious?
 date: 2017-10-05T23:36:00.115+0100
 last_modified_at: 2017-10-05T23:36:54.220+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,afghanistan,european-union,refugeeswelcome,asylum-seekers]
 description: Alarmphone‘s third anniversary / NGOs facing more risks in Libya / Increased sea and land arrivals in Greece / Inadequate sleeping…
 image:
-  path: assets/fbcf799d44ba/1*x2CjdcS5t9VobYIi8rbNBw.jpeg
+  path: ../assets/fbcf799d44ba/1*x2CjdcS5t9VobYIi8rbNBw.jpeg
 ---
 
 ### AYS Daily Digest 05/10/17: Number of Afghans returned from Europe nearly tripled
 #### Alarmphone‘s third anniversary / NGOs facing more risks in Libya / Increased sea and land arrivals in Greece / Inadequate sleeping conditions from Greece to France, help needed / Proposal to open a reception centre in Brussels / and more
 
 
-![“Safe passage doesn’t look like this… Until peace — could we at least issue some humanitarian visa and avoid people drowning while seeking safety?” [United Rescue Aid](https://www.facebook.com/unitedrescueaid/?ref=gs&fref=gs&hc_location=group_dialog)](assets/fbcf799d44ba/1*x2CjdcS5t9VobYIi8rbNBw.jpeg)
+![“Safe passage doesn’t look like this… Until peace — could we at least issue some humanitarian visa and avoid people drowning while seeking safety?” [United Rescue Aid](https://www.facebook.com/unitedrescueaid/?ref=gs&fref=gs&hc_location=group_dialog)](../assets/fbcf799d44ba/1*x2CjdcS5t9VobYIi8rbNBw.jpeg)
 
 “Safe passage doesn’t look like this… Until peace — could we at least issue some humanitarian visa and avoid people drowning while seeking safety?” [United Rescue Aid](https://www.facebook.com/unitedrescueaid/?ref=gs&fref=gs&hc_location=group_dialog)
 #### FEATURE
@@ -64,7 +64,7 @@ Due to the drop in boats reaching international waters north of Libya, MSF has d
 “Lifeline” is leaving the port very soon to save lives\. Donations are still needed for gas costs, you can contribute [here](http://www.dresden-balkan-konvoi.org/) \. [Sea\-Watch](https://www.facebook.com/seawatchprojekt/?hc_ref=ART6481_qvt2FxR9jzk96MYKAHCcPZlCEgcDGiwP5MJbkTZUJDzIoOuw0R5mi-kb_Zg&fref=nf) Moonbird airplane is now ready to fly again too\. Tomorrow morning, the crew will be in standby waiting for calls from the Maritime Rescue Coordination Centre or other requests, they reported\.
 
 
-![Photo: [Dresden\-Balkan\-Konvoi](https://www.facebook.com/DDBalkanKonvoi/?hc_ref=ARQ8GYsHe7aEm3mcfaoNtuZziSxTe1inbEEdC1I-RutE5M0yK7nIpaOfF4lP5QYVf78)](assets/fbcf799d44ba/1*oVuD0HjRrdZCtybeR5BKaw.jpeg)
+![Photo: [Dresden\-Balkan\-Konvoi](https://www.facebook.com/DDBalkanKonvoi/?hc_ref=ARQ8GYsHe7aEm3mcfaoNtuZziSxTe1inbEEdC1I-RutE5M0yK7nIpaOfF4lP5QYVf78)](../assets/fbcf799d44ba/1*oVuD0HjRrdZCtybeR5BKaw.jpeg)
 
 Photo: [Dresden\-Balkan\-Konvoi](https://www.facebook.com/DDBalkanKonvoi/?hc_ref=ARQ8GYsHe7aEm3mcfaoNtuZziSxTe1inbEEdC1I-RutE5M0yK7nIpaOfF4lP5QYVf78)
 #### LIBYA
@@ -105,7 +105,7 @@ Samos Volunteers just published a [press release](https://static1.squarespace.co
 Bogdan Andrei, coordinator of Samos Volunteers, calls for immediate action to ease living conditions: “This is the worst camp situation I have encountered on Samos in the past two years\. When the rain starts, hundreds of people will be flooded out of their tents and left without a place to sleep\. No actor present on the island currently has the ability to effectively assist those in need\.”
 
 
-![Photo: [Samos Volunteers](https://www.facebook.com/samosvolunteers/)](assets/fbcf799d44ba/1*BFC8xy1dCPHzy6Q5Ur08kQ.jpeg)
+![Photo: [Samos Volunteers](https://www.facebook.com/samosvolunteers/)](../assets/fbcf799d44ba/1*BFC8xy1dCPHzy6Q5Ur08kQ.jpeg)
 
 Photo: [Samos Volunteers](https://www.facebook.com/samosvolunteers/)
 
@@ -119,7 +119,7 @@ There are no sleeping bags, they are absolutely needed as winter is approaching 
 Free Italian courses
 
 
-![](assets/fbcf799d44ba/1*8_v0CG7ZuUsXRIhz7AtA6w.jpeg)
+![](../assets/fbcf799d44ba/1*8_v0CG7ZuUsXRIhz7AtA6w.jpeg)
 
 #### FRANCE
 
@@ -146,7 +146,7 @@ The Irish Refugee Council [asked](http://www.irishrefugeecouncil.ie/event/take-a
 Refugee & Migrant Solidarity Ireland’s solidarity dinner will be held next week and the organizers are looking for more people to participate on 14th of October\.
 
 
-![[Immigrant Council\.ie](https://twitter.com/immigrationIRL)](assets/fbcf799d44ba/1*3QQaE9QZfvlD6SakHO7H-g.jpeg)
+![[Immigrant Council\.ie](https://twitter.com/immigrationIRL)](../assets/fbcf799d44ba/1*3QQaE9QZfvlD6SakHO7H-g.jpeg)
 
 [Immigrant Council\.ie](https://twitter.com/immigrationIRL)
 

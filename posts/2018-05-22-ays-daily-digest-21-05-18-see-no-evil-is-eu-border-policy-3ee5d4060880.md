@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 21.05.18: “See no Evil” is the EU Border Policy
+title: "AYS Daily Digest 21.05.18: “See no Evil” is the EU Border Policy"
 author: Are You Syrious?
 date: 2018-05-22T03:00:22.655+0100
 last_modified_at: 2018-05-23T18:35:23.689+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,morocco,borders,belgium]
 description: Border Externalization Continues//Death in Morocco//Arrivals in Spain//New Arrivals in Greece// Asylum System separates families//Fascist…
 image:
-  path: assets/3ee5d4060880/1*Yh6GsFbc39zjE4II0A-yRg.jpeg
+  path: ../assets/3ee5d4060880/1*Yh6GsFbc39zjE4II0A-yRg.jpeg
 ---
 
 ### AYS Daily Digest 21\.05\.18: “See no Evil” is the EU Border Policy
@@ -15,7 +15,7 @@ image:
 Border Externalization Continues//Death in Morocco//Arrivals in Spain//New Arrivals in Greece// Asylum System separates families//Fascist attack in Italy//Deportation flights from UK//And more…
 
 
-![Infographic by [TNI](https://www.tni.org/en/publication/expanding-the-fortress) , showing the export of EU weapons \(shown by blue missiles\) and troops \(blue men\), to third countries\.](assets/3ee5d4060880/1*Yh6GsFbc39zjE4II0A-yRg.jpeg)
+![Infographic by [TNI](https://www.tni.org/en/publication/expanding-the-fortress) , showing the export of EU weapons \(shown by blue missiles\) and troops \(blue men\), to third countries\.](../assets/3ee5d4060880/1*Yh6GsFbc39zjE4II0A-yRg.jpeg)
 
 Infographic by [TNI](https://www.tni.org/en/publication/expanding-the-fortress) , showing the export of EU weapons \(shown by blue missiles\) and troops \(blue men\), to third countries\.
 
@@ -36,7 +36,7 @@ The money that the EU is spending to “aid” refugees is only causing more peo
 **The boosting and militarization of border security has led to a higher death toll for forcibly displaced persons\.** In general, measures to block one migration route force people to take more dangerous routes\. In 2017, 1 out of every 57 migrants crossing the Mediterranean died, compared to 1 out of every 267 migrants in 2015\.”
 
 
-![A woman who had just been rescued from an overpacked dinghy off the Ivory Coast\. Photo Credit: [MSF](https://www.facebook.com/MSFTurkiye/)](assets/3ee5d4060880/1*4VBUWBRDwdp4CRGhQeskWw.jpeg)
+![A woman who had just been rescued from an overpacked dinghy off the Ivory Coast\. Photo Credit: [MSF](https://www.facebook.com/MSFTurkiye/)](../assets/3ee5d4060880/1*4VBUWBRDwdp4CRGhQeskWw.jpeg)
 
 A woman who had just been rescued from an overpacked dinghy off the Ivory Coast\. Photo Credit: [MSF](https://www.facebook.com/MSFTurkiye/)
 
@@ -47,7 +47,7 @@ The EU is turning a blind eye to serious human rights abuses as it funds regimes
 Today the EU made another step in this direction, as the European Commission [announced a plan today](http://statewatch.org/news/2018/may/eu-com-ilo-proposal.htm) to set up an EU\-coordination network with over 500 national officials working in non\-EU countries\. The aim of this new network would be to “prevent and combat illegal immigration, and facilitate the return of illegal immigrants and managing legal migration”, according to the EC\.
 
 
-![People trapped in a detention center, Libya 16/05/17\. Photo Credit: [MSF](https://www.msf-me.org/article/libya-providing-healthcare-detained-refugees-and-migrants)](assets/3ee5d4060880/1*9YI6fnKCCnatL33N6iGwUg.jpeg)
+![People trapped in a detention center, Libya 16/05/17\. Photo Credit: [MSF](https://www.msf-me.org/article/libya-providing-healthcare-detained-refugees-and-migrants)](../assets/3ee5d4060880/1*9YI6fnKCCnatL33N6iGwUg.jpeg)
 
 People trapped in a detention center, Libya 16/05/17\. Photo Credit: [MSF](https://www.msf-me.org/article/libya-providing-healthcare-detained-refugees-and-migrants)
 
@@ -97,14 +97,14 @@ The SMH sea rescue vessel Marina Arcturus rescued 23 people from three dinghies 
 Aegean Boat Report noted that while only 8 boats arrived on the Greek islands this week, carrying a total of 361 people, 19 boats have been intercepted by the Turkish Coast Guard, carrying a total of 925 people\. It is easy to focus on the new arrivals numbers and forget how many people are being forcibly returned to Turkey each week\.
 
 
-![A boat being intercepted by the Turkish Coast Guard\. Photo Credit: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/)](assets/3ee5d4060880/1*qq78WKGYsXBA54kppHXjvQ.jpeg)
+![A boat being intercepted by the Turkish Coast Guard\. Photo Credit: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/)](../assets/3ee5d4060880/1*qq78WKGYsXBA54kppHXjvQ.jpeg)
 
 A boat being intercepted by the Turkish Coast Guard\. Photo Credit: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/)
 
 The volunteer\-run [Hope Project](https://www.facebook.com/HopeProjectKempsons/?hc_ref=ARQWKUt2-a0Lkj6Wa_etyJCafuhBG3kYspzio95eAQPrz6cX4xPaqk-d7hL3Cdcxksg&fref=nf) on Lesvos is running low on funds, and is asking their supporters to make a contribution\. Donate [here](https://mydonate.bt.com/fundraisers/thehopeproject) \. You can also see their list of needed clothing and hygiene items [here](https://www.facebook.com/HopeProjectKempsons/?hc_ref=ARQWKUt2-a0Lkj6Wa_etyJCafuhBG3kYspzio95eAQPrz6cX4xPaqk-d7hL3Cdcxksg&fref=nf) \.
 
 
-![Lesvos 21\.05\.18\. Photo Credit: [Hope Project](https://www.facebook.com/HopeProjectKempsons/?hc_ref=ARQWKUt2-a0Lkj6Wa_etyJCafuhBG3kYspzio95eAQPrz6cX4xPaqk-d7hL3Cdcxksg&fref=nf)](assets/3ee5d4060880/1*BxPvqxOwYtsrY_cOMcj6GA.jpeg)
+![Lesvos 21\.05\.18\. Photo Credit: [Hope Project](https://www.facebook.com/HopeProjectKempsons/?hc_ref=ARQWKUt2-a0Lkj6Wa_etyJCafuhBG3kYspzio95eAQPrz6cX4xPaqk-d7hL3Cdcxksg&fref=nf)](../assets/3ee5d4060880/1*BxPvqxOwYtsrY_cOMcj6GA.jpeg)
 
 Lesvos 21\.05\.18\. Photo Credit: [Hope Project](https://www.facebook.com/HopeProjectKempsons/?hc_ref=ARQWKUt2-a0Lkj6Wa_etyJCafuhBG3kYspzio95eAQPrz6cX4xPaqk-d7hL3Cdcxksg&fref=nf)
 
@@ -121,7 +121,7 @@ Lesvos 21\.05\.18\. Photo Credit: [Hope Project](https://www.facebook.com/HopePr
 Today AYS friend [Arash Hampay](https://www.facebook.com/arashampay?hc_ref=ARTQgLr38Q3_E9eKuQhG6p8EvVwao6i3_9oHD3-SP95KjBsHXAU5oufeol5uOExknYQ) announced that his brother had been rejected for asylum a second time, and is now in prison facing the threat of deportation\. As Hampay points out, despite having the same asylum case, he was accepted while his brother was denied\. His story is an example of the arbitrary and brutal asylum process on the Aegean islands\.
 
 
-![Hampay \(left\) and his brother\. Photo Credit: [Arash Hampay](https://www.facebook.com/arashampay)](assets/3ee5d4060880/1*mJQ6HHVfLv_tQGBB9CaXOQ.jpeg)
+![Hampay \(left\) and his brother\. Photo Credit: [Arash Hampay](https://www.facebook.com/arashampay)](../assets/3ee5d4060880/1*mJQ6HHVfLv_tQGBB9CaXOQ.jpeg)
 
 Hampay \(left\) and his brother\. Photo Credit: [Arash Hampay](https://www.facebook.com/arashampay)
 
@@ -157,7 +157,7 @@ Forwarding a call for donations from The Hub education group:
 
 
 
-![Funds to fix a mysteriously dented roof are also needed\. Photo Credit: The Hub Leros](assets/3ee5d4060880/1*CeUFpqCNuTa6TAj5RkVgWQ.jpeg)
+![Funds to fix a mysteriously dented roof are also needed\. Photo Credit: The Hub Leros](../assets/3ee5d4060880/1*CeUFpqCNuTa6TAj5RkVgWQ.jpeg)
 
 Funds to fix a mysteriously dented roof are also needed\. Photo Credit: The Hub Leros
 #### Mainland
@@ -165,7 +165,7 @@ Funds to fix a mysteriously dented roof are also needed\. Photo Credit: The Hub 
 Caritas released their schedule for free translation services in Athenian hospitals\. See below\.
 
 
-![](assets/3ee5d4060880/1*h7s6nzpztRKjTqoAMCSi9g.png)
+![](../assets/3ee5d4060880/1*h7s6nzpztRKjTqoAMCSi9g.png)
 
 ### Italy
 
@@ -173,7 +173,7 @@ A fascist attack occured in the Italian town of Appian, in South Tyrol, sometime
 ### Austria / Belgium
 
 
-![Photo Credit: Help Refugees\. “A child in Northern France drew this yesterday after Belgian police shot and killed their friend, two\-year old Mawda\. It says it all\. Utterly heartbreaking to see European authorities acting with such disregard for human life\. Something has to change to stop tragedies like this from happening again and again\.”](assets/3ee5d4060880/1*qiHFBgv55rrVANo5Sb5zyg.jpeg)
+![Photo Credit: Help Refugees\. “A child in Northern France drew this yesterday after Belgian police shot and killed their friend, two\-year old Mawda\. It says it all\. Utterly heartbreaking to see European authorities acting with such disregard for human life\. Something has to change to stop tragedies like this from happening again and again\.”](../assets/3ee5d4060880/1*qiHFBgv55rrVANo5Sb5zyg.jpeg)
 
 Photo Credit: Help Refugees\. “A child in Northern France drew this yesterday after Belgian police shot and killed their friend, two\-year old Mawda\. It says it all\. Utterly heartbreaking to see European authorities acting with such disregard for human life\. Something has to change to stop tragedies like this from happening again and again\.”
 

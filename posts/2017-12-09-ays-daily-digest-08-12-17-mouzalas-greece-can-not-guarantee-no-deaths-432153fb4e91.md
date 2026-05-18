@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 08/12/17: Mouzalas: Greece can not guarantee no deaths
+title: "AYS Daily Digest 08/12/17: Mouzalas: Greece can not guarantee no deaths"
 author: Are You Syrious?
 date: 2017-12-09T02:42:20.292+0000
 last_modified_at: 2017-12-09T09:59:56.940+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,greece,mouzalas,libya,france]
 description: Greek migration minister gives controversial statements / 14 protestors still detained and in danger of deportation on Lesvos / Germany…
 image:
-  path: assets/432153fb4e91/1*KW4qWKWHGPp2yEuMnBQe3Q.jpeg
+  path: ../assets/432153fb4e91/1*KW4qWKWHGPp2yEuMnBQe3Q.jpeg
 ---
 
 ### AYS Daily Digest 08/12/17: Mouzalas: Greece can not guarantee no deaths
@@ -15,7 +15,7 @@ image:
 _Greek migration minister gives controversial statements / 14 protestors still detained and in danger of deportation on Lesvos / Germany extends deportation ban for Syrian nationals / Switzerland agrees to resettle 80 people from Libya / Only 20\.000 people in government\-controlled camps in Libya / France passes new law to detain Dublin cases_
 
 
-![Moria camp in the end of November\. Credits: [One Happy Family](https://www.facebook.com/OHFLesvos/photos/pcb.375846202859275/375841409526421/?type=3&theater)](assets/432153fb4e91/1*KW4qWKWHGPp2yEuMnBQe3Q.jpeg)
+![Moria camp in the end of November\. Credits: [One Happy Family](https://www.facebook.com/OHFLesvos/photos/pcb.375846202859275/375841409526421/?type=3&theater)](../assets/432153fb4e91/1*KW4qWKWHGPp2yEuMnBQe3Q.jpeg)
 
 Moria camp in the end of November\. Credits: [One Happy Family](https://www.facebook.com/OHFLesvos/photos/pcb.375846202859275/375841409526421/?type=3&theater)
 ### Feature: Greece can’t guarantee no deaths this winter
@@ -62,7 +62,7 @@ Confronted with criticisms of this agreement, Mouzalas replied: “Everyone who 
 The No Border Kitchen Lesvos [reports](https://www.facebook.com/NBKLesvos/posts/1049174745222314?hc_location=ufi) , that **14 protesters are still detained** and in danger of deportation\. “Their arrest itself was based on a lie\. They are charged with illegally occupying Saphous square by putting up tents\. Just… there were NO TENTS\!”, NBK states\. According to their account, all 14 detainees are from North African countries and hence going through an accelerated procedure\. The activists further report that IOM staff pressured them in detention to sign up for their voluntary return programme\. “We expect that they will be detained for the entire course of their procedure and then deported\.” Among the 14 detainees there is one cancer patient and one suffering from epilepsy, says NBK\.
 
 
-![Protests against the conditions in Moria camp earlier this month\. Credits: [No Border Kitchen Lesvos](https://www.facebook.com/NBKLesvos/photos/a.722870371186088.1073741830.689281511211641/1047272742079181/?type=3&theater)](assets/432153fb4e91/1*dT_DDSWFgTVPD3NwTWHztg.jpeg)
+![Protests against the conditions in Moria camp earlier this month\. Credits: [No Border Kitchen Lesvos](https://www.facebook.com/NBKLesvos/photos/a.722870371186088.1073741830.689281511211641/1047272742079181/?type=3&theater)](../assets/432153fb4e91/1*dT_DDSWFgTVPD3NwTWHztg.jpeg)
 
 Protests against the conditions in Moria camp earlier this month\. Credits: [No Border Kitchen Lesvos](https://www.facebook.com/NBKLesvos/photos/a.722870371186088.1073741830.689281511211641/1047272742079181/?type=3&theater)
 
@@ -86,7 +86,7 @@ Metadrasi is looking for volunteers to host unaccompanied minors\. They are happ
 The interior ministers of the Gerrman federal states [have decided](https://www.zdf.de/nachrichten/heute/innenminister-einigen-sich-syrien-abschiebestopp-bis-100.html) at their autumn conference in Leipzig to **extend the deportation ban for Syrian nationals until the end of 2018\.** At the same time they urged the government to **re\-evaluate the security situation** in the war\-torn county\. As soon as they get the report, the interior ministers want to discuss the deportation ban again\. It will take a couple of months for the evaluation to be published, Federal Interior Minister Thomas de Maiziere stated\.
 
 
-![Maybe soon a safe country according to German evaluations: Syria\. Credits: [Human Rights Watch](https://twitter.com/hrw/status/936550028797251584)](assets/432153fb4e91/1*977obfaOv_5nsH56LHYsDg.jpeg)
+![Maybe soon a safe country according to German evaluations: Syria\. Credits: [Human Rights Watch](https://twitter.com/hrw/status/936550028797251584)](../assets/432153fb4e91/1*977obfaOv_5nsH56LHYsDg.jpeg)
 
 Maybe soon a safe country according to German evaluations: Syria\. Credits: [Human Rights Watch](https://twitter.com/hrw/status/936550028797251584)
 
@@ -167,7 +167,7 @@ The “Forum réfugiés” has a denounced this measure in a statement, saying t
 With the help of Jangala and The Worldwide Tribe, Mobile Refugee Support managed to install a free WiFi station in their van alongside their mobile charging generator\. This will enable people to charge their phones and use free internet when MRS is onsite\.
 
 
-![Free charging, free internet\. Credits: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/photos/a.640458526159762.1073741828.638892649649683/684549038417377/?type=3)](assets/432153fb4e91/1*BQxS4Gf6MW5Hj7O9TXgYeA.jpeg)
+![Free charging, free internet\. Credits: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/photos/a.640458526159762.1073741828.638892649649683/684549038417377/?type=3)](../assets/432153fb4e91/1*BQxS4Gf6MW5Hj7O9TXgYeA.jpeg)
 
 Free charging, free internet\. Credits: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/photos/a.640458526159762.1073741828.638892649649683/684549038417377/?type=3)
 ### Portugal

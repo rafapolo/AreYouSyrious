@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,immigration]
 description: Most of the refugees in Lebanon want to go back to Syria, says the UNHCR Spokesperson. New arrivals to Greek islands have been reported —…
 image:
-  path: assets/b9ed6c3c4fb5/1*LtSV0qBpsJS23HddVyxUig.jpeg
+  path: ../assets/b9ed6c3c4fb5/1*LtSV0qBpsJS23HddVyxUig.jpeg
 ---
 
 ### AYS DAILY NEWS DIGEST 7\.5\.2016
 #### Most of the refugees in Lebanon want to go back to Syria, says the UNHCR Spokesperson\. New arrivals to Greek islands have been reported — 29 to Lesvos, 14 to Samos and 1 to Chios\. Refugees are on a hunger strike in Chios Viale center\. Greek mainland camp Thermopylae needs help — medical supplies, condensed milk and baby formula\. Bulgarian PM calls for ‘more solidarity’ by the Central EU countries regarding their readiness to accept the system of quotas\. “Take us away from this prison” — Refugees were protesting in the streets of Lampedusa island\. The number of migrants is growing in Italian city of Pordenone — blankets were stolen from the people who were sleeping in the streets due to slow asylum registration procedure\. First refugees according to the quota system will arrive to Croatia in July\.
 
 
-![Photo by Sol Carrillo — after a month without milk distribution in Souda camp at Chios, volunteers managed to deliver it for all the children who are there\.](assets/b9ed6c3c4fb5/1*LtSV0qBpsJS23HddVyxUig.jpeg)
+![Photo by Sol Carrillo — after a month without milk distribution in Souda camp at Chios, volunteers managed to deliver it for all the children who are there\.](../assets/b9ed6c3c4fb5/1*LtSV0qBpsJS23HddVyxUig.jpeg)
 
 Photo by Sol Carrillo — after a month without milk distribution in Souda camp at Chios, volunteers managed to deliver it for all the children who are there\.
 #### LEBANON
@@ -38,7 +38,7 @@ Refugees started a hunger strike four days ago in Viale, at Chios — after 47 d
 Volunteers in Athens are financing the stay of a number of refugee families with babies in a hotel in Omonia — due to the lack of personal funds, these families might soon to be on the street\. In the meantime, they need food, powdered milk, and diapers in sizes 4 and 5\. If you can help, please contact Maggie Mullin\.
 
 
-![Photo by Nasim Lomani, City Plaza, Athens](assets/b9ed6c3c4fb5/1*wgcTvVqEtG3DGbELWCW3hw.jpeg)
+![Photo by Nasim Lomani, City Plaza, Athens](../assets/b9ed6c3c4fb5/1*wgcTvVqEtG3DGbELWCW3hw.jpeg)
 
 Photo by Nasim Lomani, City Plaza, Athens
 ### Volunteers report on the yesterday’s distribution incident at the E1 School Box in Piraeus\.
@@ -61,7 +61,7 @@ Bulgarian PM Borisov has broken ranks with other Central European states that op
 This week there was a meeting of the Working Group for the Integration of Foreigners, related to the urgent adoption of the action plan for the removal of obstacles to the realization of certain rights in the area of ​​integration of foreigners in the period from 2016 and 2018\. It was said at the meeting that the Government should soon adopt a proposal of a new model for relocation of persons who meet the requirements for the approval of international protection\. The national model of relocation of persons will be decentralized, meaning that they will be accommodated across the country\. The first refugees will arrive to Croatia in July — 30 of them from Turkey, 10 from Italy and 10 from Greece\. These persons should be located in the cities of Zagreb, Rijeka and Split\. By the end of 2017 Croatia should receive 1,617 people \(84 people a month starting from July 2016 until the end of 2017\) \. The representative of the Ministry of Health’s Task Force said that the Law on Compulsory Health Insurance and Medical Care in Croatia is to be changed very soon \(in July\), due to the difficulties that refugees encounter in practice\.
 
 
-![Photo by Matija Kralj, AYS and other lovely people having fun at the concert, Zagreb, Croatia](assets/b9ed6c3c4fb5/1*-3CiohCpP9ARhl4Rd38ePQ.jpeg)
+![Photo by Matija Kralj, AYS and other lovely people having fun at the concert, Zagreb, Croatia](../assets/b9ed6c3c4fb5/1*-3CiohCpP9ARhl4Rd38ePQ.jpeg)
 
 Photo by Matija Kralj, AYS and other lovely people having fun at the concert, Zagreb, Croatia
 ### AYS organizes rock concert visit for refugees\.
@@ -73,7 +73,7 @@ AYS took another step forward in integration of refugees in Croatia — almost 7
 “Take us away from this prison” — Migrants were protesting in the streets of Lampedusa island yesterday asking to leave the island, where they have been held for months and where more than 70 migrants have been on a hunger and thirst strike against the identification and hotspot system\. Another 400 people have landed on the island in the last 24 hours\. \(Source: La Repubblica\)
 
 
-![Photo by Giacomo Zandonini, Lampedusa protest](assets/b9ed6c3c4fb5/1*ymkI0IcZ9Vtvb2lrxnTOyQ.jpeg)
+![Photo by Giacomo Zandonini, Lampedusa protest](../assets/b9ed6c3c4fb5/1*ymkI0IcZ9Vtvb2lrxnTOyQ.jpeg)
 
 Photo by Giacomo Zandonini, Lampedusa protest
 ### Refugees forced to sleep on the street in Pordenone as a result of slow accommodation\.

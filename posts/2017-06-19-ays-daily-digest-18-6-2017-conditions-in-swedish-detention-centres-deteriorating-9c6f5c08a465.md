@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 18/06/17: Conditions in Swedish detention centres deteriorating
+title: "AYS Daily Digest 18/06/17: Conditions in Swedish detention centres deteriorating"
 author: Are You Syrious?
 date: 2017-06-19T06:42:30.390+0100
 last_modified_at: 2017-08-29T17:17:17.959+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,sweden,lithuania,volunteers]
 description: Police violence at the border between Croatia and Serbia / High Court hears Help Refugees’ challenge to reopen the Dubs Scheme on the 20th…
 image:
-  path: assets/9c6f5c08a465/1*Spvtaa9wgBSuW-QXtgVnMg.png
+  path: ../assets/9c6f5c08a465/1*Spvtaa9wgBSuW-QXtgVnMg.png
 ---
 
 ### AYS Daily Digest 18/06/17: Conditions in Swedish detention centres deteriorating
@@ -15,7 +15,7 @@ image:
 _Police violence at the border between Croatia and Serbia / High Court hears Help Refugees’ challenge to reopen the Dubs Scheme on the 20th / Refugee squats in Athens call for an international day of action against evictions / And more news…_
 
 
-![Austrians protest against deportations in March\. Photo by Arye Wachsmuth](assets/9c6f5c08a465/1*Spvtaa9wgBSuW-QXtgVnMg.png)
+![Austrians protest against deportations in March\. Photo by Arye Wachsmuth](../assets/9c6f5c08a465/1*Spvtaa9wgBSuW-QXtgVnMg.png)
 
 Austrians protest against deportations in March\. Photo by Arye Wachsmuth
 #### Feature
@@ -32,17 +32,17 @@ The daily newspaper DN reveals that staff at the detention centre in Kållered a
 52 people were rescued off Crete and transferred to Athens\. Two boats arrived on Lesvos this morning, including one on the north coast with 55 people on board\. Refugee Rescue, a sea rescue team, says people were forced to stay at the Stage 2 transit area yesterday night, as the Moria camp was apparently full\.
 
 
-![](assets/9c6f5c08a465/1*z93QZC6xG6rOK5rz_7wB6A.jpeg)
+![](../assets/9c6f5c08a465/1*z93QZC6xG6rOK5rz_7wB6A.jpeg)
 
 
 
-![Handprints as a statement against deportations on Chios\. Photo by Cicilie Bråten](assets/9c6f5c08a465/1*7XkH3KKVlrkAzs_CG3rwVw.jpeg)
+![Handprints as a statement against deportations on Chios\. Photo by Cicilie Bråten](../assets/9c6f5c08a465/1*7XkH3KKVlrkAzs_CG3rwVw.jpeg)
 
 Handprints as a statement against deportations on Chios\. Photo by Cicilie Bråten
 ### Hands off the squats
 
 
-![](assets/9c6f5c08a465/0*5ZLiS_GlE0wDTcmF.)
+![](../assets/9c6f5c08a465/0*5ZLiS_GlE0wDTcmF.)
 
 
 Squats in Athens say that in the last few days new information was leaked on court decisions on the eviction of three of them, Papoutsadiko, Zoodoxou Pigis 119 and City Plaza\. They therefore call for [a protest in front of the Ministry of Migration](https://www.facebook.com/events/629127390617724/) and for an International Action of solidarity towards all squats and against evictions on the 23rd of June\.
@@ -53,7 +53,7 @@ Squats in Athens say that in the last few days new information was leaked on cou
 ### Police violence at the border
 
 
-![Photo by Rigardu](assets/9c6f5c08a465/1*j7EaVTPK0UQY0SSKGGfFQQ.jpeg)
+![Photo by Rigardu](../assets/9c6f5c08a465/1*j7EaVTPK0UQY0SSKGGfFQQ.jpeg)
 
 Photo by Rigardu
 
@@ -68,7 +68,7 @@ Are You Syrious? and Welcome\! initiative already published a [report](http://we
 Collettivo SPAM met with refugees in Gorizia, at the border with Slovenia, and says refugees living in governmental centres for accommodation of asylum seekers \(CARA\) and in the “jungle” are steadily increasing\. Around 20 refugees are arriving each day in the jungle, with many kicked out of accommodation centres and others forced to live there after the eviction of the bunker, a basement that was managed by volunteers\. The jungle is missing food and water and there is a constant danger coming from inundations and attacks by wild animals\.
 
 
-![Photo by Collettivo SPAM](assets/9c6f5c08a465/0*V32sdl-RpTSY4sdN.)
+![Photo by Collettivo SPAM](../assets/9c6f5c08a465/0*V32sdl-RpTSY4sdN.)
 
 Photo by Collettivo SPAM
 #### UK
@@ -101,14 +101,14 @@ In related news, One Human Race calls on the UK government [to continue and spee
 ### NGOs going back to the rescue zone
 
 
-![Photo by Proactiva Open Arms](assets/9c6f5c08a465/0*Ccdl0CUisX-F8047.jpg)
+![Photo by Proactiva Open Arms](../assets/9c6f5c08a465/0*Ccdl0CUisX-F8047.jpg)
 
 Photo by Proactiva Open Arms
 
 Both Sea\-Watch 2 and the SOS Méditerranée boat Aquarius are heading back towards the search and rescue area off the Libyan coast\. This morning , Sea Watch 2 discovered an almost completely immersed dinghy, with no people in sight\. 4,000 people have been rescued over the past three days by coast guards, NGOs and merchant ships\.
 
 
-![Photo by Sea\-Watch 2](assets/9c6f5c08a465/0*df5MUpLv3kIp-CB0.)
+![Photo by Sea\-Watch 2](../assets/9c6f5c08a465/0*df5MUpLv3kIp-CB0.)
 
 Photo by Sea\-Watch 2
 

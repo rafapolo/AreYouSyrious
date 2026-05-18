@@ -1,5 +1,5 @@
 ---
-title: AYS DIGEST 17/8: Police evictions across many fronts.
+title: "AYS DIGEST 17/8: Police evictions across many fronts."
 author: Are You Syrious?
 date: 2016-08-18T01:16:56.857+0100
 last_modified_at: 2016-08-18T08:27:29.802+0100
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe]
 description: SYRIA
 image:
-  path: assets/b3ac1926dc7a/1*J0NT2yd7_Mci2BZLHRACrw.jpeg
+  path: ../assets/b3ac1926dc7a/1*J0NT2yd7_Mci2BZLHRACrw.jpeg
 ---
 
 ### AYS DIGEST 17/8: Police evictions across many fronts\.
 
 
-![Photo Courtesy: EKO Kitchen](assets/b3ac1926dc7a/1*J0NT2yd7_Mci2BZLHRACrw.jpeg)
+![Photo Courtesy: EKO Kitchen](../assets/b3ac1926dc7a/1*J0NT2yd7_Mci2BZLHRACrw.jpeg)
 
 Photo Courtesy: EKO Kitchen
 ### SYRIA
@@ -26,15 +26,15 @@ Additionally, 30 containers of aid were dropped on the regime\-controlled area o
 There’s [a new batch of beautiful ReVi bracelets in stock](https://www.facebook.com/revistore/) \. The organization works to provide crafting jobs to refugees in Turkey, ensuring that the income goes to replace income made by children in the family\. Hopefully, by receiving equitable pay for fine handicrafts, the need to send children to work in disturbingly criminal conditions can be diminished\.
 
 
-![](assets/b3ac1926dc7a/1*ty0jkl1SqmT8khobNQqcSQ.jpeg)
+![](../assets/b3ac1926dc7a/1*ty0jkl1SqmT8khobNQqcSQ.jpeg)
 
 
 
-![](assets/b3ac1926dc7a/1*NVprrH9AqORcX7THSxyjHA.jpeg)
+![](../assets/b3ac1926dc7a/1*NVprrH9AqORcX7THSxyjHA.jpeg)
 
 
 
-![Photos courtesy of ReVi](assets/b3ac1926dc7a/1*ddcZQ9Ppz9iP12XY4wN-nA.jpeg)
+![Photos courtesy of ReVi](../assets/b3ac1926dc7a/1*ddcZQ9Ppz9iP12XY4wN-nA.jpeg)
 
 Photos courtesy of ReVi
 
@@ -51,7 +51,7 @@ Safe Assist Outreach’s weather report now includes weather for Libya and Italy
 Teams from multiple organizations, including AYS, report that police are evicting refugees from the park and treating volunteers with some hostility, blaming them for making the location habitable and therefore incentivizing more refugees to come and wait in the park\.
 
 
-![Thessaloniki\. Photo Credit: Ruhi Loren Akhtar](assets/b3ac1926dc7a/1*BUJNR39F81hsElwFG4nszg.jpeg)
+![Thessaloniki\. Photo Credit: Ruhi Loren Akhtar](../assets/b3ac1926dc7a/1*BUJNR39F81hsElwFG4nszg.jpeg)
 
 Thessaloniki\. Photo Credit: Ruhi Loren Akhtar
 
@@ -156,7 +156,7 @@ The children also go on archaeological visits and museum tours\. This is a great
 By this morning there were 404 refugees in the camp\. Throughout Wednesday, approximately 80 more refugees arrived, most of them from Dimitrovgrad, entering Serbia from Bulgaria \(22 children, 2 babies, 1 grandmother\) \. After police processing, they were sent to Reception Center Presevo\. Most of them traveled in transportation organized by UNHCR\. The Presevo camp is now a closed camp — no refugees are allowed outside of the camp\.
 
 
-![Photo Credit: Refugee Behind The Closed Borders](assets/b3ac1926dc7a/1*DFrtoAmC0Kc0Ul42s205JQ.jpeg)
+![Photo Credit: Refugee Behind The Closed Borders](../assets/b3ac1926dc7a/1*DFrtoAmC0Kc0Ul42s205JQ.jpeg)
 
 Photo Credit: Refugee Behind The Closed Borders
 
@@ -176,7 +176,7 @@ At the Hungarian border, I’m Human Organization reports that many shelters wer
 The project [Refugee Behind the Close Borders](https://www.facebook.com/Refugee-behind-the-closed-borders-1264829603528876/) gives an intimate look at one of the unofficial camps near the Serbian\-Hungarian border\. The page is administered by a “resident” of the camp himself, and can often answer questions\. If you want to learn about things from the perspective of the people going through them, this would be an excellent place to start\.
 
 
-![Photo Credit: Refugee behind The Closed Borders](assets/b3ac1926dc7a/1*VKme87sxPdAD4e7Txq_lDg.jpeg)
+![Photo Credit: Refugee behind The Closed Borders](../assets/b3ac1926dc7a/1*VKme87sxPdAD4e7Txq_lDg.jpeg)
 
 Photo Credit: Refugee behind The Closed Borders
 ### ITALY
@@ -192,7 +192,7 @@ According to Refucomm, there is good news from Germany\. On July 26th, the home 
 Refugees and migrants were evicted from various locations across Paris\. Around 800 people all told were taken\. Police says most of them will be brought to “emergency shelters”\.
 
 
-![Refugees in Paris Photo Credit: Salam Quand Meme](assets/b3ac1926dc7a/1*AHuDG7hVWhaYeMjO4YdfMQ.jpeg)
+![Refugees in Paris Photo Credit: Salam Quand Meme](../assets/b3ac1926dc7a/1*AHuDG7hVWhaYeMjO4YdfMQ.jpeg)
 
 Refugees in Paris Photo Credit: Salam Quand Meme
 
@@ -208,7 +208,7 @@ The following [is a translated report from RFI\.](http://www.rfi.fr/france/20160
 Utopia has announced that they will be leaving Liniere camp shortly, planning to depart by the end of September\. Their reasons for shutting down operations vary from moral \(not wanting to be complicit in executing a limited refugee policy\) to practical \(with the arrival and establishment of other groups, their services could be better used in other camps\) \. Learn more about the decision [here](http://www.utopia56.com/en/actualite/utopia-56-will-be-gradually-leaving-the-liniere-camp) \.
 
 
-![[Two Weeks of Food for Softex\!](https://www.facebook.com/permalink.php?story_fbid=156244101479355&id=100012812979209&hc_location=ufi) Photo Credit: Ribhi Hazin](assets/b3ac1926dc7a/1*0Yu-BPVZOAUwJUeP2u5WUQ.jpeg)
+![[Two Weeks of Food for Softex\!](https://www.facebook.com/permalink.php?story_fbid=156244101479355&id=100012812979209&hc_location=ufi) Photo Credit: Ribhi Hazin](../assets/b3ac1926dc7a/1*0Yu-BPVZOAUwJUeP2u5WUQ.jpeg)
 
 [Two Weeks of Food for Softex\!](https://www.facebook.com/permalink.php?story_fbid=156244101479355&id=100012812979209&hc_location=ufi) Photo Credit: Ribhi Hazin
 ### UK

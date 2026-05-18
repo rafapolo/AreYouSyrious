@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [refugees,greece,immigration,digest,libya]
 description: Are You Syrious?
 image:
-  path: assets/a66182f8fe41/0*pQrSeT06Lhcq-jYo
+  path: ../assets/a66182f8fe41/0*pQrSeT06Lhcq-jYo
 ---
 
 ### AYS Daily Digest 10/05/21–700 people back to Libyan detention
 
 
-![](assets/a66182f8fe41/0*taGKJoWq4me-PpWS.jpeg)
+![](../assets/a66182f8fe41/0*taGKJoWq4me-PpWS.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----3391b69dfb6d--------------------------------)
@@ -23,7 +23,7 @@ image:
 _Man detained illegally for 4 years in UK // UNHCR condemns UK’s new asylum plan // evictions in Calais // and more…_
 
 
-![](assets/a66182f8fe41/0*13NV6SQZxCnIlUR_)
+![](../assets/a66182f8fe41/0*13NV6SQZxCnIlUR_)
 
 
 Photo by [UNHCR Libya](https://twitter.com/UNHCRLibya/status/1391763343162200064?fbclid=IwAR36ekTQRaeO6Ag9PD7FIdqA1ehTWZ6zZtvru8F0NITQB7cgUaMLeJ6ke2Y)
@@ -143,7 +143,7 @@ Translation: “This morning in Calais, people were exiled and expelled from 7 p
 Check out this event for housing is a right: 12/05 at 13:00, place de la République\.
 
 
-![](assets/a66182f8fe41/0*pQrSeT06Lhcq-jYo)
+![](../assets/a66182f8fe41/0*pQrSeT06Lhcq-jYo)
 
 
 Photo and Info by [Paris d’Exil](https://twitter.com/paris_dexil/status/1391687924639576066)

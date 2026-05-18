@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL FROM IRAQ: Four years after genocide against Yazidis
+title: "AYS SPECIAL FROM IRAQ: Four years after genocide against Yazidis"
 author: Are You Syrious?
 date: 2018-08-05T11:44:23.869+0100
 last_modified_at: 2018-08-05T12:14:50.414+0100
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [iraq,special,yazidi,kurdistan,genocide]
 description: Bajed Kandala is a camp in the North-West of the Kurdistan Region, in Iraq, where desplaced Yazidi people have been living for four years…
 image:
-  path: assets/e0c1173463dd/1*d9q_2avd8VutTTU3a_Uo6w.jpeg
+  path: ../assets/e0c1173463dd/1*d9q_2avd8VutTTU3a_Uo6w.jpeg
 ---
 
 ### AYS SPECIAL FROM IRAQ: Four years after genocide against Yazidis
 
 
-![Photo by [Khairi Aezdeen](https://www.facebook.com/kheri.ali)](assets/e0c1173463dd/1*d9q_2avd8VutTTU3a_Uo6w.jpeg)
+![Photo by [Khairi Aezdeen](https://www.facebook.com/kheri.ali)](../assets/e0c1173463dd/1*d9q_2avd8VutTTU3a_Uo6w.jpeg)
 
 Photo by [Khairi Aezdeen](https://www.facebook.com/kheri.ali)
 
@@ -42,7 +42,7 @@ The camp has a population of about 11,000 Yezidis\. As in most refugee camps, de
 Here, the school doesn’t have enough teachers and so students have lessons only three days a week\.
 
 
-![Photo by [Hade S Shingaly](https://www.facebook.com/hade.said)](assets/e0c1173463dd/1*pvV7H34itjrCD2z2XpWoQg.jpeg)
+![Photo by [Hade S Shingaly](https://www.facebook.com/hade.said)](../assets/e0c1173463dd/1*pvV7H34itjrCD2z2XpWoQg.jpeg)
 
 Photo by [Hade S Shingaly](https://www.facebook.com/hade.said)
 
@@ -55,7 +55,7 @@ At the moment, Yazidis feel like they are the group abandoned by everybody and l
 For their Memorial Day, Yazidis from Bajed Kandala Camp asked permission to come back to Sinjar\. To return to their land, closer to their homes just for one day\. It has been denied\. Sinjar is still full of mines and has been declared unsafe\.
 
 
-![Photo by [Hade S Shingaly](https://www.facebook.com/hade.said)](assets/e0c1173463dd/1*8J-3Si9OOTf4T8rMin3WUg.jpeg)
+![Photo by [Hade S Shingaly](https://www.facebook.com/hade.said)](../assets/e0c1173463dd/1*8J-3Si9OOTf4T8rMin3WUg.jpeg)
 
 Photo by [Hade S Shingaly](https://www.facebook.com/hade.said)
 

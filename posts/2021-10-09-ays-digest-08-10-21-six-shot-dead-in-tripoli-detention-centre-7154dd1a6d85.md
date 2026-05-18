@@ -1,5 +1,5 @@
 ---
-title: AYS Digest 08/10/21: Six shot dead in Tripoli detention centre
+title: "AYS Digest 08/10/21: Six shot dead in Tripoli detention centre"
 author: Are You Syrious?
 date: 2021-10-09T16:25:00.758+0100
 last_modified_at: 2021-10-09T16:49:15.011+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,migration,pushbacks,migrants]
 description: Eighth person dies on Polish border // Croatia admits pushbacks, fires officers // Serbian lawyer defending pushback victims wins UN prize…
 image:
-  path: assets/7154dd1a6d85/1*Il9-6MQRokYhNl1ihVx2Ig.jpeg
+  path: ../assets/7154dd1a6d85/1*Il9-6MQRokYhNl1ihVx2Ig.jpeg
 ---
 
 ### AYS Digest 08/10/21: Six shot dead in Tripoli detention centre
@@ -15,7 +15,7 @@ image:
 ### FEATURE — Six people shot dead in Tripoli detention centre, thousands escape
 
 
-![UNHCR Libya, IOM and IRC prepare items to distribute to over 1,000 people being held at the Al Mabani detention centre in Tripoli in February\. Six people were killed at this centre this week and at least 24 others were injured\. \(Photo: [UNHCR Libya](https://twitter.com/unhcrlibya/status/1361282208443600903) \)](assets/7154dd1a6d85/1*Il9-6MQRokYhNl1ihVx2Ig.jpeg)
+![UNHCR Libya, IOM and IRC prepare items to distribute to over 1,000 people being held at the Al Mabani detention centre in Tripoli in February\. Six people were killed at this centre this week and at least 24 others were injured\. \(Photo: [UNHCR Libya](https://twitter.com/unhcrlibya/status/1361282208443600903) \)](../assets/7154dd1a6d85/1*Il9-6MQRokYhNl1ihVx2Ig.jpeg)
 
 UNHCR Libya, IOM and IRC prepare items to distribute to over 1,000 people being held at the Al Mabani detention centre in Tripoli in February\. Six people were killed at this centre this week and at least 24 others were injured\. \(Photo: [UNHCR Libya](https://twitter.com/unhcrlibya/status/1361282208443600903) \)
 
@@ -145,7 +145,7 @@ RSA further noted that the decision has already led to the “mass, rapid reject
 #### Greece unveils new ‘eye in the sky’ drone for surveillance, security
 
 
-![Deputy Minister of National Defense Nikolaos Chardalias looks at ‘Archytas’\. \(Photo: Greek Ministry of Defense via [greekreporter\.com](https://greekreporter.com/2021/10/08/greece-unveils-prototype-vertical-take-off-landing-drone/?fbclid=IwAR3mTiTft3UF5qPZq1ZJDWFHuUctCKE3-vI3T8d4k3QbySUmBIohWgTGKn0) \. \)](assets/7154dd1a6d85/1*h3BQ-vjbl4NrEaCdw3fFmQ.jpeg)
+![Deputy Minister of National Defense Nikolaos Chardalias looks at ‘Archytas’\. \(Photo: Greek Ministry of Defense via [greekreporter\.com](https://greekreporter.com/2021/10/08/greece-unveils-prototype-vertical-take-off-landing-drone/?fbclid=IwAR3mTiTft3UF5qPZq1ZJDWFHuUctCKE3-vI3T8d4k3QbySUmBIohWgTGKn0) \. \)](../assets/7154dd1a6d85/1*h3BQ-vjbl4NrEaCdw3fFmQ.jpeg)
 
 Deputy Minister of National Defense Nikolaos Chardalias looks at ‘Archytas’\. \(Photo: Greek Ministry of Defense via [greekreporter\.com](https://greekreporter.com/2021/10/08/greece-unveils-prototype-vertical-take-off-landing-drone/?fbclid=IwAR3mTiTft3UF5qPZq1ZJDWFHuUctCKE3-vI3T8d4k3QbySUmBIohWgTGKn0) \. \)
 
@@ -246,7 +246,7 @@ screen: #gazetapl https://t.co/p7UaW53FwI
 #### Little Amal, Syrian refugee puppet, arrives in Belgium
 
 
-![Amal and her supporters\. \(Source: [yenisafak\.com](https://www.yenisafak.com/en/world/little-amal-symbol-of-child-refugees-reaches-brussels-3581825?fbclid=IwAR07UBvwg5P7eVILAlL9myi3MV0nZjSYeYaHJeDP0B6kmwAT9tVMMFkrqCU) \)](assets/7154dd1a6d85/1*g7HXq6qLCNV9s5n_C8rM0Q.jpeg)
+![Amal and her supporters\. \(Source: [yenisafak\.com](https://www.yenisafak.com/en/world/little-amal-symbol-of-child-refugees-reaches-brussels-3581825?fbclid=IwAR07UBvwg5P7eVILAlL9myi3MV0nZjSYeYaHJeDP0B6kmwAT9tVMMFkrqCU) \)](../assets/7154dd1a6d85/1*g7HXq6qLCNV9s5n_C8rM0Q.jpeg)
 
 Amal and her supporters\. \(Source: [yenisafak\.com](https://www.yenisafak.com/en/world/little-amal-symbol-of-child-refugees-reaches-brussels-3581825?fbclid=IwAR07UBvwg5P7eVILAlL9myi3MV0nZjSYeYaHJeDP0B6kmwAT9tVMMFkrqCU) \)
 

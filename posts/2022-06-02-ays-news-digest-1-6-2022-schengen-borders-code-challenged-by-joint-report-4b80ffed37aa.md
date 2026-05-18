@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 1/6/2022: Schengen Borders Code challenged by joint report
+title: "AYS News Digest 1/6/2022: Schengen Borders Code challenged by joint report"
 author: Are You Syrious?
 date: 2022-06-02T10:47:46.442+0100
 last_modified_at: 2022-06-02T10:47:46.442+0100
@@ -7,7 +7,7 @@ categories:
 tags: [digest,newsdigest,humanrights,eu,schengen]
 description: Deported from Turkey to Afghanistan // Group trapped on Evros River island, again. // Trapped in Ukraine Detention // Activist Freed from…
 image:
-  path: assets/4b80ffed37aa/0*lc2vhqbqWLycC_R6
+  path: ../assets/4b80ffed37aa/0*lc2vhqbqWLycC_R6
 ---
 
 ### AYS News Digest 1/6/2022: Schengen Borders Code challenged by joint report
@@ -16,7 +16,7 @@ image:
 #### Schengen Borders Code challenged by joint report
 
 
-![](assets/4b80ffed37aa/0*lc2vhqbqWLycC_R6)
+![](../assets/4b80ffed37aa/0*lc2vhqbqWLycC_R6)
 
 
 Proposals to changes to the Schengen Borders Code \(SBC\) have been challenged\. In a [joint report](https://www.borderviolence.eu/wp-content/uploads/BVMNASGIJOINTANALYSIS.pdf) by the Border Violence Monitoring Network and The Association for Juridical Studies on Immigration \(ASGI\), the impact of the changes have been analysed in detail\.
@@ -91,7 +91,7 @@ Children are continued victims of border practices in Poland\. [A photo of the w
 #### SPAIN
 
 
-![Photo Credit: [Shoah\.org\.uk](https://shoah.org.uk/sultana-khaya-moroccan-occupying-forces-intend-to-physically-eliminate-me/)](assets/4b80ffed37aa/0*ADDHf-73m673m6Qu.jpg)
+![Photo Credit: [Shoah\.org\.uk](https://shoah.org.uk/sultana-khaya-moroccan-occupying-forces-intend-to-physically-eliminate-me/)](../assets/4b80ffed37aa/0*ADDHf-73m673m6Qu.jpg)
 
 Photo Credit: [Shoah\.org\.uk](https://shoah.org.uk/sultana-khaya-moroccan-occupying-forces-intend-to-physically-eliminate-me/)
 #### Activist Freed from Western Sahara
@@ -134,7 +134,7 @@ There are too few legal ways to enter the EU\. In a report by the EU Rights Agen
 [The full report, with detailed background, is available here\.](https://fra.europa.eu/sites/default/files/fra-focus_02-2015_legal-entry-to-the-eu.pdf)
 
 
-![](assets/4b80ffed37aa/0*E1HH2zmC_WBDCv8i)
+![](../assets/4b80ffed37aa/0*E1HH2zmC_WBDCv8i)
 
 
 Photo Credit: [EURightsAgency via Twitter](https://twitter.com/MarGorczynska/status/1531920888303702022?fbclid=IwAR34-_hygiud_xi-1Nm5P7fXcDf00L-mcTTBbZdPrnSXZPwI2DMtpOBJ5E8)

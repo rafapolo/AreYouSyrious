@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 04/06/2021: Letters and memos from Greece
+title: "AYS Daily Digest 04/06/2021: Letters and memos from Greece"
 author: Are You Syrious?
 date: 2021-06-05T18:15:37.994+0100
 last_modified_at: 2021-06-05T18:15:37.994+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,frontex,migration]
 description: Greece wants to tackle border crossings with sound cannons // Syrians deported from Lebanon to Syria // Germany refuses solidarity with…
 image:
-  path: assets/d5281518e18e/0*UtUnnGKak4ZgIz5A.jpeg
+  path: ../assets/d5281518e18e/0*UtUnnGKak4ZgIz5A.jpeg
 ---
 
 ### AYS Daily Digest 04/06/2021: Letters and memos from Greece
 ### Greece wants to tackle border crossings with sound cannons // Syrians deported from Lebanon to Syria // Germany refuses solidarity with Italy // German nun fined for providing church asylum // New evictions in Bosnia and France
 
 
-![](assets/d5281518e18e/0*pfawU8X_Bc3dc4f-.jpeg)
+![](../assets/d5281518e18e/0*pfawU8X_Bc3dc4f-.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----9c89d0d33e58--------------------------------)
@@ -22,7 +22,7 @@ image:
 [Jun 5](ays-daily-digest-04-06-2021-letters-and-memos-from-greece-9c89d0d33e58?source=post_page-----9c89d0d33e58--------------------------------) · 8 min read
 
 
-![](assets/d5281518e18e/0*UtUnnGKak4ZgIz5A.jpeg)
+![](../assets/d5281518e18e/0*UtUnnGKak4ZgIz5A.jpeg)
 
 
 Greek authorities are increasing efforts to prevent people from crossing the border\. Credits: [Twitter/@DimKairidis](https://twitter.com/DimKairidis/status/1353679404505985024)

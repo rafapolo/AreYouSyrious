@@ -1,5 +1,5 @@
 ---
-title: AYS digest 1/10/2018: Death toll in Mediterranean reaches a historic high
+title: "AYS digest 1/10/2018: Death toll in Mediterranean reaches a historic high"
 author: Are You Syrious?
 date: 2018-10-02T00:05:19.712+0100
 last_modified_at: 2018-10-02T16:40:33.852+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,mediterranean,sea-rescue,greece,co]
 description: Temperatures at Croatian border drop to 2 degrees Celsius / Confusion over the “anti-immigration tax” in Hungary / Authorities continuously…
 image:
-  path: assets/e71170e3f7ac/1*nAzOAf_TmpCLx6crbm34EQ.jpeg
+  path: ../assets/e71170e3f7ac/1*nAzOAf_TmpCLx6crbm34EQ.jpeg
 ---
 
 ### AYS digest 1/10/2018: Death toll in Mediterranean reaches a historic high
 #### Temperatures at Croatian border drop to 2 degrees Celsius / Confusion over the “anti\-immigration tax” in Hungary / Authorities continuously taking blaknets and tents from people in Paris / Groups in Bosnia, Bulgaria and France are asking for donations
 
 
-![Credits: [MSF](https://twitter.com/MSF_Sea/status/1045264444488634368)](assets/e71170e3f7ac/1*nAzOAf_TmpCLx6crbm34EQ.jpeg)
+![Credits: [MSF](https://twitter.com/MSF_Sea/status/1045264444488634368)](../assets/e71170e3f7ac/1*nAzOAf_TmpCLx6crbm34EQ.jpeg)
 
 Credits: [MSF](https://twitter.com/MSF_Sea/status/1045264444488634368)
 ### Feature
@@ -23,7 +23,7 @@ Credits: [MSF](https://twitter.com/MSF_Sea/status/1045264444488634368)
 Following the immense pressure against rescue missions in the Mediterranean, refugees are once again forced to risk their lives by sailing all the way to the Italian coast, often in small, inadequate vessels\. Apart from the tragedies that we know of, aid workers and volunteers fear that many unreported shipwrecks are happening at sea with no one to support the victims\. Even the official numbers are higher than ever before\.
 
 
-![](assets/e71170e3f7ac/1*2BHd2zKC943E3MQd2_fQbg.jpeg)
+![](../assets/e71170e3f7ac/1*2BHd2zKC943E3MQd2_fQbg.jpeg)
 
 
 According to the DW, Human rights groups have accused Italy of reaching a new low when it comes to its approach to refugees and migrants after allegedly putting pressure on Panama to revoke the flag it granted the Aquarius migrant rescue ship to operate in the Mediterranean\.
@@ -33,7 +33,7 @@ Since taking power in June, Interior Minister Matteo Salvini, who heads the far\
 This September, refugees departing from Libya died or went missing at the highest rate ever recorded as the direct result of this policy\. According to the IOM statistics, only one in 10 made it to Europe, while seven in 10 were caught and brought back and one in five died or went missing\.
 
 
-![](assets/e71170e3f7ac/1*18PYZ1-XYKzORQtHn5cd6g.jpeg)
+![](../assets/e71170e3f7ac/1*18PYZ1-XYKzORQtHn5cd6g.jpeg)
 
 
 In the past four months, at least 861 people lost their lives after departing from Libya\. If we include people departing from Tunisia, 970 persons died or went missing at sea, with no one to hear their screams\.
@@ -94,7 +94,7 @@ RefuComm published the new Skype schedule:
 Harmanli refugee camp is a hideous place in Bulgaria, where many have lost their physical and mental health over the past years\. It is located in the south east of Bulgaria, 20 minutes from the Turkish border and currently hosts only 250 people\. Typically, over a quarter of the refugees in Harmanli camp are children and they can spend anywhere from a few days to more than 2 years living in the camp\. Many of these children had either never been to school or had been out of school for years before arriving in Bulgaria\.
 
 
-![](assets/e71170e3f7ac/1*syw4V1b4MfFbsUPEdmcP3g.jpeg)
+![](../assets/e71170e3f7ac/1*syw4V1b4MfFbsUPEdmcP3g.jpeg)
 
 
 Harmanli Refugee Camp Play School was set up in November 2014 by two volunteers from England\. Gil Clasby is a qualified nursery nurse and Sadie Clasby is a qualified primary school teacher; both have qualifications and years of experience in playwork\. Their aim has been to set up and run a centre for play\-based learning and therapeutic play in which refugee children can relax, have fun and thrive\. They are now asking for donations to continue their work, so click on [their fundraiser](https://www.gofundme.com/harmanlirefugeecampplayschool3) to find out more\.
@@ -113,7 +113,7 @@ Miskalište was one of the first spots to offer support to refugees in the summe
 Violent push\-backs from both Hungary and Croatia remain a burning topic in the region, with refugees being illegally and often violently returned to Serbia, Bosnia and Montenegro by European police officers\.
 
 
-![Aftermath of the encounter with Croatian police near Bosnian border\. Photo: NNK](assets/e71170e3f7ac/1*EXsiP9YHLnivzAvMKDaDjw.jpeg)
+![Aftermath of the encounter with Croatian police near Bosnian border\. Photo: NNK](../assets/e71170e3f7ac/1*EXsiP9YHLnivzAvMKDaDjw.jpeg)
 
 Aftermath of the encounter with Croatian police near Bosnian border\. Photo: NNK
 ### Bosnia
@@ -122,7 +122,7 @@ Aftermath of the encounter with Croatian police near Bosnian border\. Photo: NNK
 In Velika Kladuša the temperature drops to 2 degrees at night\. The displaced people don’t want to stay in these conditions in a makeshift camp and try to reach Europe, but they are pushed back and beaten, even more than before, by the Croatian police, says the No Name Kitchen crew\. SOS team Kladuša is also providing valuable support in the area\. They have got a new van, but the van needs winter tyres\. Their old car will also need winter tyres, so they’re asking for donations for this purpose\. If you can help, [contact them on Facebook](https://www.facebook.com/SOSTeamKladusa/?__tn__=kC-R&eid=ARDFbySCpsFMdGwafdSi2BNRHfjzJuXUVTLJq9hB7Iz-Acmg494sZROKYL1NUNXcul2okfYOaYmq4Dka&hc_ref=ARRZB-rxeFOARBVyo6_lPUmvfM-EObiHcfTnKvYAGxdPcpR7SPnhtoXaYdvI0QUhtkM&fref=nf&__xts__[0]=68.ARCVatscJyoMTVYFW_biuP5skVgTquo2OjGHlvCwfQVrqoR6YS_J73gvRBMJlS-laToDoozhc3MKQOo6UCSIjBsv_OCAX5YH_lFSK9OiBhnzP9N3E0trHcgbHUY5GqV2eqV_9kxEgy05_4f1Us_DlhatquPsRjcMEORdtg525Bpi36jLDIMtUw) \.
 
 
-![New volunteer van in Velika Kladuša was \(unfortunately\) named DjiDji\. :\) Photo: SOS team Kladuša](assets/e71170e3f7ac/1*l63QIxd9wzpm62c7qT5lLA.jpeg)
+![New volunteer van in Velika Kladuša was \(unfortunately\) named DjiDji\. :\) Photo: SOS team Kladuša](../assets/e71170e3f7ac/1*l63QIxd9wzpm62c7qT5lLA.jpeg)
 
 New volunteer van in Velika Kladuša was \(unfortunately\) named DjiDji\. :\) Photo: SOS team Kladuša
 
@@ -171,7 +171,7 @@ Today, Migration Aid Asylum Seeker Foundation has published a statement on their
 Last night, at least two small boats with a total of 30 people on board landed on Lampedusa\. They sailed from Zarzis\. One boat had a family with three children on board\. The other, which was only 6 meters long, carried 20 people on board\. There was even a child with no parents\. According to local volunteers, the people were transferred to the Contrada Imbriacola\. They have been checked by a doctor and everyone seems to be ok so far\.
 
 
-![Small 6\-meter vessel carried 20 people from Zarzis, Tunisia to Lampedusa, Italy\.](assets/e71170e3f7ac/1*BAzK_kDR8IrhtO-G77Bq-w.jpeg)
+![Small 6\-meter vessel carried 20 people from Zarzis, Tunisia to Lampedusa, Italy\.](../assets/e71170e3f7ac/1*BAzK_kDR8IrhtO-G77Bq-w.jpeg)
 
 Small 6\-meter vessel carried 20 people from Zarzis, Tunisia to Lampedusa, Italy\.
 ### France
@@ -189,7 +189,7 @@ Winter is slowly but surely coming back to Paris and temperatures can already dr
 
 
 
-![Left with nothing in freezing temperatures — and no one is held accountable\. Photo: Faces Before Numbers](assets/e71170e3f7ac/1*hNKZUFb1IatudUTflg2p6Q.jpeg)
+![Left with nothing in freezing temperatures — and no one is held accountable\. Photo: Faces Before Numbers](../assets/e71170e3f7ac/1*hNKZUFb1IatudUTflg2p6Q.jpeg)
 
 Left with nothing in freezing temperatures — and no one is held accountable\. Photo: Faces Before Numbers
 #### Locker room in Paris needs donations

@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 7/9/21: Polish activists organize against pushbacks
+title: "AYS Daily Digest 7/9/21: Polish activists organize against pushbacks"
 author: Are You Syrious?
 date: 2021-09-08T15:37:58.821+0100
 last_modified_at: 2021-09-08T15:37:58.821+0100
 categories: Are You Syrious?
 tags: [poland,digest,refugees,europe,borders]
-description: UK: Taking Priti Patel to court / Police raids in Serbia less frequent, but more violent / France: forced displacement and at least 10…
+description: "UK: Taking Priti Patel to court / Police raids in Serbia less frequent, but more violent / France: forced displacement and at least 10…"
 image:
-  path: assets/45a48716442a/1*uOKCa0b_vKTuwi_5-QpTqw.jpeg
+  path: ../assets/45a48716442a/1*uOKCa0b_vKTuwi_5-QpTqw.jpeg
 ---
 
 ### AYS Daily Digest 7/9/21: Polish activists organize against pushbacks
 #### UK: Taking Priti Patel to court / Police raids in Serbia less frequent, but more violent / France: forced displacement and at least 10 people locked up in administrative detention centres / Grenoble solidarity gathering / recommended reads
 
 
-![Apprehension near the forest at the Polish site of the border\. Photo: [Mikołaj Kiembłowski](https://www.facebook.com/FotoMikolajKiemblowski?__cft__[0]=AZX4fLH8eCd5lV49M5Fg2V5YBtOiqs_BSQqrTIis5YpJkj1BNvjdY17L3GpvXNY78ng-u3blnk-fdpxvDZcvbOSApyXkHJ9YQ3dKwY-KrorNucPkeIsQ07aKZIEtZ1SIN6VU-3tJOHH8JiKVxpZv15jwnbwXkniJDZPg3opuMw6ZKQ&__tn__=-]K-y-R)](assets/45a48716442a/1*uOKCa0b_vKTuwi_5-QpTqw.jpeg)
+![Apprehension near the forest at the Polish site of the border\. Photo: [Mikołaj Kiembłowski](https://www.facebook.com/FotoMikolajKiemblowski?__cft__[0]=AZX4fLH8eCd5lV49M5Fg2V5YBtOiqs_BSQqrTIis5YpJkj1BNvjdY17L3GpvXNY78ng-u3blnk-fdpxvDZcvbOSApyXkHJ9YQ3dKwY-KrorNucPkeIsQ07aKZIEtZ1SIN6VU-3tJOHH8JiKVxpZv15jwnbwXkniJDZPg3opuMw6ZKQ&__tn__=-]K-y-R)](../assets/45a48716442a/1*uOKCa0b_vKTuwi_5-QpTqw.jpeg)
 
 Apprehension near the forest at the Polish site of the border\. Photo: [Mikołaj Kiembłowski](https://www.facebook.com/FotoMikolajKiemblowski?__cft__[0]=AZX4fLH8eCd5lV49M5Fg2V5YBtOiqs_BSQqrTIis5YpJkj1BNvjdY17L3GpvXNY78ng-u3blnk-fdpxvDZcvbOSApyXkHJ9YQ3dKwY-KrorNucPkeIsQ07aKZIEtZ1SIN6VU-3tJOHH8JiKVxpZv15jwnbwXkniJDZPg3opuMw6ZKQ&__tn__=-]K-y-R)
 #### FEATURE
@@ -23,7 +23,7 @@ Apprehension near the forest at the Polish site of the border\. Photo: [Mikołaj
 Refugees are once again used as human ammo in a political standoff between two countries at the external borders of the European Union\. In a situation that resembles the border between Greece and Turkey, hundreds of refugees are being pushed back and forth between Belarus and Poland in the past weeks\. According to local activists and lawyers, dozens of potential asylum seekers are entering Poland over the green borders every day, only to be apprehended and pushed back by Polish authorities\. There is a large population of Afghans among the victims, including many families with children and elderly people\. Despite their condition and potential asylum claim, Polish authorities are forcing them to walk through inaccessible and potentially dangerous dense forest areas, back to Belarus from where they are often tossed back to the Polish side of the border\.
 
 
-![Sick and elderly are not spared from the ill\-treatment\. Photo: [Mikołaj Kiembłowski](https://www.facebook.com/FotoMikolajKiemblowski?__cft__[0]=AZX4fLH8eCd5lV49M5Fg2V5YBtOiqs_BSQqrTIis5YpJkj1BNvjdY17L3GpvXNY78ng-u3blnk-fdpxvDZcvbOSApyXkHJ9YQ3dKwY-KrorNucPkeIsQ07aKZIEtZ1SIN6VU-3tJOHH8JiKVxpZv15jwnbwXkniJDZPg3opuMw6ZKQ&__tn__=-]K-y-R)](assets/45a48716442a/1*uRkJs2hlB2macb_dAM5M4w.jpeg)
+![Sick and elderly are not spared from the ill\-treatment\. Photo: [Mikołaj Kiembłowski](https://www.facebook.com/FotoMikolajKiemblowski?__cft__[0]=AZX4fLH8eCd5lV49M5Fg2V5YBtOiqs_BSQqrTIis5YpJkj1BNvjdY17L3GpvXNY78ng-u3blnk-fdpxvDZcvbOSApyXkHJ9YQ3dKwY-KrorNucPkeIsQ07aKZIEtZ1SIN6VU-3tJOHH8JiKVxpZv15jwnbwXkniJDZPg3opuMw6ZKQ&__tn__=-]K-y-R)](../assets/45a48716442a/1*uRkJs2hlB2macb_dAM5M4w.jpeg)
 
 Sick and elderly are not spared from the ill\-treatment\. Photo: [Mikołaj Kiembłowski](https://www.facebook.com/FotoMikolajKiemblowski?__cft__[0]=AZX4fLH8eCd5lV49M5Fg2V5YBtOiqs_BSQqrTIis5YpJkj1BNvjdY17L3GpvXNY78ng-u3blnk-fdpxvDZcvbOSApyXkHJ9YQ3dKwY-KrorNucPkeIsQ07aKZIEtZ1SIN6VU-3tJOHH8JiKVxpZv15jwnbwXkniJDZPg3opuMw6ZKQ&__tn__=-]K-y-R)
 
@@ -33,7 +33,7 @@ This situation is different from systematic denials of access to asylum at Polis
 This time, refugees from the Middle East and other troubled areas are crossing the border irregularly, and allegedly with the assistance of the Belarussian regime\. The situation is especially dire for 32 Afghans trapped in a no man’s land between Belarus and Poland for almost a month\. While Belarus is not accepting them back, Polish authorities are preventing them from entering Poland to exercise their right to seek asylum and denying them access to food and medicine\. The European Court for Human Rights issued an interim measure, ordering Poland to grant them access to basic provisions \(but not to the territory\! \), but authorities are so far ignoring the court order\.
 
 
-![32 Afghans have been pinned for nearly a month between two borders\. Photo: Maciej Moskwa](assets/45a48716442a/1*lZY6bHfdoravrjlGomZ31g.jpeg)
+![32 Afghans have been pinned for nearly a month between two borders\. Photo: Maciej Moskwa](../assets/45a48716442a/1*lZY6bHfdoravrjlGomZ31g.jpeg)
 
 32 Afghans have been pinned for nearly a month between two borders\. Photo: Maciej Moskwa
 
@@ -50,7 +50,7 @@ In the first weeks of the crisis, teams of lawyers, activists, and documentarist
 Access to victims is even harder since Poland imposed a state of emergency, cutting off a large strip of the border area\. Journalists and activists are not allowed to enter a 30\-km wide border zone, and the locals have very little information about what’s happening\. The activists have organized an outreach program, explaining the basics of fundamental rights, including access to international protection, to those who live in the area and might find themselves in a position to help the refugees\.
 
 
-[![Pushbacks from the Polish border (video by Rozbrat)](assets/45a48716442a/32d4_hqdefault.jpg "Pushbacks from the Polish border (video by Rozbrat)")](https://www.youtube.com/watch?v=xhteTIFBm0k)
+[![Pushbacks from the Polish border (video by Rozbrat)](../assets/45a48716442a/32d4_hqdefault.jpg "Pushbacks from the Polish border (video by Rozbrat)")](https://www.youtube.com/watch?v=xhteTIFBm0k)
 
 #### New legislation violates international and EU law
 
@@ -60,7 +60,7 @@ Groups that are engaged in the border area include Fundacja Ocalenie, Helsinki C
 #### SEA
 
 
-![23350 men and women intercepted by the Libyan Coast Guard since the beginning of 2021\. The numbers are known but nothing of their fate\. Indeed it is known: the intercepted are destined for arbitrary detention, torture etc\. But for Europe this is not the point\. — N\. Porosia](assets/45a48716442a/0*1s0zw_V3ueU3ThO9)
+![23350 men and women intercepted by the Libyan Coast Guard since the beginning of 2021\. The numbers are known but nothing of their fate\. Indeed it is known: the intercepted are destined for arbitrary detention, torture etc\. But for Europe this is not the point\. — N\. Porosia](../assets/45a48716442a/0*1s0zw_V3ueU3ThO9)
 
 23350 men and women intercepted by the Libyan Coast Guard since the beginning of 2021\. The numbers are known but nothing of their fate\. Indeed it is known: the intercepted are destined for arbitrary detention, torture etc\. But for Europe this is not the point\. — N\. Porosia
 #### GREECE
@@ -132,7 +132,7 @@ Find out more in their latest common [press release\.](https://www.statewatch.or
 **The council of the municipality of Rhauderfehn in Lower Saxony is willing to take in refugees in addition to the quota\!**
 
 
-![](assets/45a48716442a/0*5otPAmdz0sRRhNro)
+![](../assets/45a48716442a/0*5otPAmdz0sRRhNro)
 
 
 In addition, the council appeals to the federal government to increase its efforts to address the causes of flight\. The rescue of people in the Mediterranean should also become more efficient, [Seebrücke — Schafft sichere Häfen](https://www.facebook.com/SeebrueckeSchafftsichereHaefen/?__cft__[0]=AZVxoGJRRHceohc-JKmJ4xs7C-4GAxW_au2LNob9SCMFrisYvKIkzY6CqmsWIM7jmDYZAjygTgrZk89avx7DpE_d4LqcBAitcXbn-LSahIs6in1S7IX7yDmppReWIrLPW4KhwG7qNpxdNSB6DoHvBaqRgcEHQsfIYF_MSIeRwQRGLJUyXzOwOLkOYpSxs6CppDbEevC1y1CKT1rzZQceI5oE&__tn__=-UC%2CP-y-R) reports\.
@@ -157,7 +157,7 @@ Unaccompanied child asylum seekers arriving in the UK have for a long time been 
 The Home Office and Kent County Council are now facing a legal charges over the unlawful and discriminatory treatment of children\.
 
 
-![](assets/45a48716442a/0*nOqj8xMwlVs9mR1B)
+![](../assets/45a48716442a/0*nOqj8xMwlVs9mR1B)
 
 
 
@@ -192,7 +192,7 @@ The final of the  Home Office  summer set  of deportation flights was due to be 
 Direct solidarity continues across the country:
 
 
-![[Newcastle Unites](https://www.facebook.com/NewcastleUnites/?__cft__[0]=AZVJBkNuLasnVGoen8OCjY7wSiOj3eGM-ibCLYNMFIRoKC7aGhG1c5himBi83lX0jejteN7_QhF7sz4WIN3JBoGQDEywovxOaT6eUJIVCA74tRoeDP-FzUTbc4aosLLARFTi2MDpgMqbt9EZNmD_xggzOTlaNd4Xzca-JH9JggzXX3iUmeK5YxCNHIDr0aUQWsDfAmBPfNAIHp0ruzDm4HYd&__tn__=-UC%2CP-y-R)](assets/45a48716442a/0*HvfZRXM6HGJ6YLFv)
+![[Newcastle Unites](https://www.facebook.com/NewcastleUnites/?__cft__[0]=AZVJBkNuLasnVGoen8OCjY7wSiOj3eGM-ibCLYNMFIRoKC7aGhG1c5himBi83lX0jejteN7_QhF7sz4WIN3JBoGQDEywovxOaT6eUJIVCA74tRoeDP-FzUTbc4aosLLARFTi2MDpgMqbt9EZNmD_xggzOTlaNd4Xzca-JH9JggzXX3iUmeK5YxCNHIDr0aUQWsDfAmBPfNAIHp0ruzDm4HYd&__tn__=-UC%2CP-y-R)](../assets/45a48716442a/0*HvfZRXM6HGJ6YLFv)
 
 [Newcastle Unites](https://www.facebook.com/NewcastleUnites/?__cft__[0]=AZVJBkNuLasnVGoen8OCjY7wSiOj3eGM-ibCLYNMFIRoKC7aGhG1c5himBi83lX0jejteN7_QhF7sz4WIN3JBoGQDEywovxOaT6eUJIVCA74tRoeDP-FzUTbc4aosLLARFTi2MDpgMqbt9EZNmD_xggzOTlaNd4Xzca-JH9JggzXX3iUmeK5YxCNHIDr0aUQWsDfAmBPfNAIHp0ruzDm4HYd&__tn__=-UC%2CP-y-R)
 #### GENERAL
@@ -240,7 +240,7 @@ Legal Seminar Series — How to Ensure Labour Rights of Undocumented Migrant Wor
 
 
 
-[![Ausgebeutet, gequält, vergewaltigt: Flüchtlinge in Libyens Haftlagern](assets/45a48716442a/88a7_hqdefault.jpg "Ausgebeutet, gequält, vergewaltigt: Flüchtlinge in Libyens Haftlagern")](https://www.youtube.com/watch?v=NRMos8YO51E)
+[![Ausgebeutet, gequält, vergewaltigt: Flüchtlinge in Libyens Haftlagern](../assets/45a48716442a/88a7_hqdefault.jpg "Ausgebeutet, gequält, vergewaltigt: Flüchtlinge in Libyens Haftlagern")](https://www.youtube.com/watch?v=NRMos8YO51E)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

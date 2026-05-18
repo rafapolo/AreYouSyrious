@@ -1,5 +1,5 @@
 ---
-title: AYS Special: Frontex and Human Rights — How did we arrive here? PART 2 (2017–2019)
+title: "AYS Special: Frontex and Human Rights — How did we arrive here? PART 2 (2017–2019)"
 author: Are You Syrious?
 date: 2020-12-20T13:43:07.153+0000
 last_modified_at: 2020-12-20T13:43:07.153+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [special,frontex,european-union,human-rights,pushback]
 description: Working on an article about Frontex is not an easy task. Information and allegations about the agency are piling up on a daily basis. The…
 image:
-  path: assets/83dbb24acb7f/1*GkycHF7p3qJPnHFV_B6iBw.jpeg
+  path: ../assets/83dbb24acb7f/1*GkycHF7p3qJPnHFV_B6iBw.jpeg
 ---
 
 ### AYS Special: Frontex and Human Rights — How did we arrive here? PART 2 \(2017–2019\)
@@ -21,7 +21,7 @@ _This is the second part of the Frontex timeline, from the beginning of 2017 to 
 **Budget:** €750m
 
 
-![August 4, Bremen, Germany — Ferries not Frontex \(photo by [Osé](https://twitter.com/ose_rouge/status/1158055427755663361/photo/1) \)](assets/83dbb24acb7f/1*GkycHF7p3qJPnHFV_B6iBw.jpeg)
+![August 4, Bremen, Germany — Ferries not Frontex \(photo by [Osé](https://twitter.com/ose_rouge/status/1158055427755663361/photo/1) \)](../assets/83dbb24acb7f/1*GkycHF7p3qJPnHFV_B6iBw.jpeg)
 
 August 4, Bremen, Germany — Ferries not Frontex \(photo by [Osé](https://twitter.com/ose_rouge/status/1158055427755663361/photo/1) \)
 
@@ -237,7 +237,7 @@ Member states organised 330 return operations by by charter flights coordinated 
 **Budget:** €643m
 
 
-![_July, 2018 — Berlin, [Seebrücke — Schafft sichere Häfen](https://www.facebook.com/SeebrueckeSchafftsichereHaefen/photos)_](assets/83dbb24acb7f/1*eaPh7TluxVho1l0zk5jKXg.jpeg)
+![_July, 2018 — Berlin, [Seebrücke — Schafft sichere Häfen](https://www.facebook.com/SeebrueckeSchafftsichereHaefen/photos)_](../assets/83dbb24acb7f/1*eaPh7TluxVho1l0zk5jKXg.jpeg)
 
 _July, 2018 — Berlin, [Seebrücke — Schafft sichere Häfen](https://www.facebook.com/SeebrueckeSchafftsichereHaefen/photos)_
 
@@ -371,7 +371,7 @@ Out of all return operations by charter flights organised in 2018, 139 were join
 **Budget:** €488m
 
 
-![5 September, 2017 — Action against the anti\-refugee policies of the EU in Athens, Greece \(Photo by [Marios Lolos](https://twitter.com/lolosmarios/status/905027450245189632/photo/4) \)](assets/83dbb24acb7f/1*7apesOyUIDzVkEEJJVmhOQ.jpeg)
+![5 September, 2017 — Action against the anti\-refugee policies of the EU in Athens, Greece \(Photo by [Marios Lolos](https://twitter.com/lolosmarios/status/905027450245189632/photo/4) \)](../assets/83dbb24acb7f/1*7apesOyUIDzVkEEJJVmhOQ.jpeg)
 
 5 September, 2017 — Action against the anti\-refugee policies of the EU in Athens, Greece \(Photo by [Marios Lolos](https://twitter.com/lolosmarios/status/905027450245189632/photo/4) \)
 

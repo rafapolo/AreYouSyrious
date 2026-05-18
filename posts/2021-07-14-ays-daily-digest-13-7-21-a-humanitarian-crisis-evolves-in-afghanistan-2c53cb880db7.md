@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 13/7/21: A humanitarian crisis evolves in Afghanistan
+title: "AYS Daily Digest 13/7/21: A humanitarian crisis evolves in Afghanistan"
 author: Are You Syrious?
 date: 2021-07-14T15:26:39.368+0100
 last_modified_at: 2021-07-14T15:26:39.368+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,afghanistan,spain,bihac,finland]
 description: 270,000 displaced people this year alone// More women and children among victims// More than 900 people died in the Central Mediterranean…
 image:
-  path: assets/2c53cb880db7/1*5gP8EeNtYL7Fh7u8wssE0g.jpeg
+  path: ../assets/2c53cb880db7/1*5gP8EeNtYL7Fh7u8wssE0g.jpeg
 ---
 
 ### AYS Daily Digest 13/7/21: A humanitarian crisis evolves in Afghanistan
 #### 270,000 displaced people this year alone// More women and children among victims// More than 900 people died in the Central Mediterranean this year, 2000 on their way to Spain// Old fabric evicted in Bihac// Finland stops deportations to Afghanistan
 
 
-![A refugeee camp in Shughnon, Tajikistan\. Credits: Twitter/ [@Peter\_Leonard](https://twitter.com/Peter__Leonard/status/1413400056888238082)](assets/2c53cb880db7/1*5gP8EeNtYL7Fh7u8wssE0g.jpeg)
+![A refugeee camp in Shughnon, Tajikistan\. Credits: Twitter/ [@Peter\_Leonard](https://twitter.com/Peter__Leonard/status/1413400056888238082)](../assets/2c53cb880db7/1*5gP8EeNtYL7Fh7u8wssE0g.jpeg)
 
 A refugeee camp in Shughnon, Tajikistan\. Credits: Twitter/ [@Peter\_Leonard](https://twitter.com/Peter__Leonard/status/1413400056888238082)
 ### Afghanistan

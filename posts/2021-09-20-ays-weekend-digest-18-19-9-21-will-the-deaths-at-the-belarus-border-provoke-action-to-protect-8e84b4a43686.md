@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 18–19/9/21: Will the deaths at the Belarus border provoke action to protect…
+title: "AYS Weekend Digest 18–19/9/21: Will the deaths at the Belarus border provoke action to protect…"
 author: Are You Syrious?
 date: 2021-09-20T19:00:59.841+0100
 last_modified_at: 2021-09-20T19:00:59.841+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [belarus,europe,human-rights,digest,refugees]
 description: Expected and predicted tragic development of the situation at the border with Belarus // Pushbacks and other causes for concern in the…
 image:
-  path: assets/8e84b4a43686/0*JXKsCWMXcV4jD2SX
+  path: ../assets/8e84b4a43686/0*JXKsCWMXcV4jD2SX
 ---
 
 ### AYS Weekend Digest 18–19/9/21: Will the deaths at the Belarus border provoke action to protect people on the move?
 #### Expected and predicted tragic development of the situation at the border with Belarus // Pushbacks and other causes for concern in the Aegean and Evros // Actions across Germany // New arrivals and more deterrence in the Mediterranean // Recommended media articles, calls for action and more…
 
 
-![](assets/8e84b4a43686/0*JXKsCWMXcV4jD2SX)
+![](../assets/8e84b4a43686/0*JXKsCWMXcV4jD2SX)
 
 
 Featured photo of this weekend is by [SOS MEDITERRANEE](https://twitter.com/SOSMedIntl) , after one of their SAR missions we report about in this news digest
@@ -35,11 +35,11 @@ Many people have lost their lives here\. The most recent reported one is the man
 ### On board the Ocean Viking
 
 
-![](assets/8e84b4a43686/0*TouzRWdMPG0RCZj9)
+![](../assets/8e84b4a43686/0*TouzRWdMPG0RCZj9)
 
 
 
-![](assets/8e84b4a43686/0*xKW7KRP4xeluf-z8)
+![](../assets/8e84b4a43686/0*xKW7KRP4xeluf-z8)
 
 
 Photos: resqship
@@ -47,7 +47,7 @@ Photos: resqship
 After @resqship monitoring vessel Nadir encountered an overcrowded wooden boat with approximately 60 people in distress drifting in the Maltese Search and Rescue \(SAR\) zone, they provided first aid and alerted all responsible authorities\. Following that, since the Maltese MRCC denied its responsibility once again and Nadir had no capacities for the rescue, they alerted the nearest SAR crew and finally, the Ocean Viking rescued the 58 people\.
 
 
-![](assets/8e84b4a43686/0*s5UrRB3YZ7UuuWoM)
+![](../assets/8e84b4a43686/0*s5UrRB3YZ7UuuWoM)
 
 
 Following the two rescue missions of this weekend, Ocean Viking was alerted to 2 other wooden boats in distress in the Libyan SAR Region by Colibri2 aircraft\. Both were intercepted by the Libyan coastguard as witnessed from afar by their teams\. 
@@ -56,11 +56,11 @@ More than 800 people were intercepted this week and returned to Libya by the coa
 Of course, the UN has [“expressed concern](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.libyaobserver.ly%2Fnews%2Fun-concerned-over-thousands-immigrants-vanishing-libya%3Ffbclid%3DIwAR10S-j-97BQsUdxIXdJvyowbvLJ5pGTG4SvFP68CynD9rJw3V42Es_YKIE&h=AT3QUTJdnR7jRITzTuYnzs5LqSbcNzE3p0GTlD3o91wZHHLZhWyy4LhPTyaD_t3q7ir254A0ZAal1uBieUapQdKo_PBdZyFuo9QpuQKWhk0Y-u0qwYm4QEmD3SxNmFbzMKGGvvq4iPtrsMilRkM0NLU5ppoySQ&__tn__=R]-R&c[0]=AT1ni8aP8ioNZrkvMAbA8-3MZhu_ca8utgdbiy4IhjUtZ0MQUI7eYuWpjDirbl53f_7A-f4oXXBgpgLH8SjMMopq3s1M-ZYQk_v5eDlOuCqi4nWusSqQAcNz4lPzvtq6nxy58FT8jMFOJmNMOahu9PotTmZc4n4EAFBEHUcPuTcfoL49vloeUrC_m34JqKuqVXt0OBEZ0nRMfYQcQkw) ”, but given their lack of action and complicity in the returns, there is not much to be expected from them\.
 
 
-![](assets/8e84b4a43686/0*Fsa0cTf7Fsz7T5qt)
+![](../assets/8e84b4a43686/0*Fsa0cTf7Fsz7T5qt)
 
 
 
-![](assets/8e84b4a43686/0*W2VQosYuTnfg_3Y0)
+![](../assets/8e84b4a43686/0*W2VQosYuTnfg_3Y0)
 
 
 During the second rescue operation they encountered 33 people on a wooden boat in distress in international waters off Libya, who were safely brought onboard, including 8 women and 13 children\.
@@ -93,11 +93,11 @@ All of this was followed by a fire that broke out in part of the old camp at 11p
 On Lesvos, protests in support of Afghan women have taken place\.
 
 
-![](assets/8e84b4a43686/0*ipiKV0Jl0gAVQAEB)
+![](../assets/8e84b4a43686/0*ipiKV0Jl0gAVQAEB)
 
 
 
-![](assets/8e84b4a43686/0*n8lCflfgNCOyWYEd)
+![](../assets/8e84b4a43686/0*n8lCflfgNCOyWYEd)
 
 ### Some unpleasant characters likely to run in next elections
 
@@ -109,20 +109,20 @@ Back on the mainland, as reported by the local media, the Greek Solution is prep
 Human chains were used to demonstrate for the reception of refugees\. Around 2,000 people took part in Duisburg alone\. [The chain they formed ran through the city for up to ten miles from north to south](https://www.deutschlandfunk.de/seebruecke-menschenketten-gegen-das-sterben-von.1939.de.html?drn%3Anews_id=1302841&fbclid=IwAR3c3DAUAd5pUUdp7FYHcl62MfPwVZb-niG6ClW1ap5Tzl19aT1t4mrNOEY) and people were connected with banners and scarfs, due to corona regulations\.
 
 
-![](assets/8e84b4a43686/0*FplSqP8mKgRp_mNf)
+![](../assets/8e84b4a43686/0*FplSqP8mKgRp_mNf)
 
 
 
-![](assets/8e84b4a43686/0*KJMU_fA6Qnh1VhJl.png)
+![](../assets/8e84b4a43686/0*KJMU_fA6Qnh1VhJl.png)
 
 ### Day of action — make the human rights deniers visible
 
 
-![](assets/8e84b4a43686/0*-EP9mV3ntH6_0D4b)
+![](../assets/8e84b4a43686/0*-EP9mV3ntH6_0D4b)
 
 
 
-![](assets/8e84b4a43686/0*StjH4-8tXXEKZER-)
+![](../assets/8e84b4a43686/0*StjH4-8tXXEKZER-)
 
 ### FRANCE
 
@@ -130,11 +130,11 @@ Evictions of provisional campsites in the north of the country continue…
 ### Paris needs volunteers\!
 
 
-![](assets/8e84b4a43686/0*K2l2T59j5UE7tTGt)
+![](../assets/8e84b4a43686/0*K2l2T59j5UE7tTGt)
 
 
 
-![](assets/8e84b4a43686/0*CZgU7Rji6kDmmcs7)
+![](../assets/8e84b4a43686/0*CZgU7Rji6kDmmcs7)
 
 ### DENMARK
 

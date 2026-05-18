@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,libya,italy]
 description: Greek Migration Ministry Boasts of Decreasing Migration Numbers, Doesn’t Say Why//BVMN Report for March//More Arrivals in Romania
 image:
-  path: assets/3836d81ff250/0*lRWeYZtugVbRGCz7
+  path: ../assets/3836d81ff250/0*lRWeYZtugVbRGCz7
 ---
 
 ### AYS Daily Digest 16/04/2021 — European Officials Made Deals With Libyan Coast Guard Knowing People Would Be Left to Die
 #### Greek Migration Ministry Boasts of Decreasing Migration Numbers, Doesn’t Say Why//BVMN Report for March//More Arrivals in Romania
 
 
-![A photo of Assad overlooking Aleppo\. 10 years after the revolution began, Assad’s grip on the country is as strong as ever, despite the Danish government’s claims that parts of the country is now safe\. From [this photo series](https://www.theguardian.com/global-development/gallery/2021/apr/16/the-doctor-keeps-watch-assad-posters-loom-over-shattered-syria-in-pictures?fbclid=IwAR0FgQUEuxG8y8oLVDhtXImvqoctTLnSb8Q7PcFvrWmbQzTIbkNXqJ1eg7w) by Rami al\-Bustan](assets/3836d81ff250/0*lRWeYZtugVbRGCz7)
+![A photo of Assad overlooking Aleppo\. 10 years after the revolution began, Assad’s grip on the country is as strong as ever, despite the Danish government’s claims that parts of the country is now safe\. From [this photo series](https://www.theguardian.com/global-development/gallery/2021/apr/16/the-doctor-keeps-watch-assad-posters-loom-over-shattered-syria-in-pictures?fbclid=IwAR0FgQUEuxG8y8oLVDhtXImvqoctTLnSb8Q7PcFvrWmbQzTIbkNXqJ1eg7w) by Rami al\-Bustan](../assets/3836d81ff250/0*lRWeYZtugVbRGCz7)
 
 A photo of Assad overlooking Aleppo\. 10 years after the revolution began, Assad’s grip on the country is as strong as ever, despite the Danish government’s claims that parts of the country is now safe\. From [this photo series](https://www.theguardian.com/global-development/gallery/2021/apr/16/the-doctor-keeps-watch-assad-posters-loom-over-shattered-syria-in-pictures?fbclid=IwAR0FgQUEuxG8y8oLVDhtXImvqoctTLnSb8Q7PcFvrWmbQzTIbkNXqJ1eg7w) by Rami al\-Bustan
 #### FEATURE
@@ -75,7 +75,7 @@ Dr\. Martin Binder from Germany has been volunteering in the Kara Tepe camp for 
 Starfish Foundation is hosting a library in the camp\. Learn more about their work [here](https://www.facebook.com/starfishfoundation.org/posts/1420985121569674) \.
 
 
-![From [Parwana Amiri](https://twitter.com/parwana_amiri/status/1383003935707906049/photo/1) : “The Bazar of [\#Moria](https://twitter.com/hashtag/Moria?src=hashtag_click) was where you could find whatever,but not happiness\. It was hard for me to understand the things that was happening there, like eyes of people and hill that we had to go up and down everyday,with plastics of food and water\.”](assets/3836d81ff250/0*1Wol-Dfku6wwsxpE)
+![From [Parwana Amiri](https://twitter.com/parwana_amiri/status/1383003935707906049/photo/1) : “The Bazar of [\#Moria](https://twitter.com/hashtag/Moria?src=hashtag_click) was where you could find whatever,but not happiness\. It was hard for me to understand the things that was happening there, like eyes of people and hill that we had to go up and down everyday,with plastics of food and water\.”](../assets/3836d81ff250/0*1Wol-Dfku6wwsxpE)
 
 From [Parwana Amiri](https://twitter.com/parwana_amiri/status/1383003935707906049/photo/1) : “The Bazar of [\#Moria](https://twitter.com/hashtag/Moria?src=hashtag_click) was where you could find whatever,but not happiness\. It was hard for me to understand the things that was happening there, like eyes of people and hill that we had to go up and down everyday,with plastics of food and water\.”
 #### BALKANS
@@ -107,7 +107,7 @@ After arriving, instead of transferring to the mainland, people are trapped in o
 Of course, many people do not make it to the Canary Islands at all\.
 
 
-![Photo credit: Borja Suarez/REUTERS\. Caption from [InfoMigrants](https://www.facebook.com/InfoMigrants/posts/3695149770606781) : “This is the grave of two\-year\-old migrant girl Elene Habiba Traore on Gran Canaria\. “Forever in our hearts” a ribbon atop the burial site reads\. Elene had been revived by Spanish health workers after being rescued from a boat in the Atlantic off the Spanish island along with 51 other migrants on March 16, but help ultimately came too late — she died five days later\.”](assets/3836d81ff250/0*1o3OS5lF4lPgeDg5)
+![Photo credit: Borja Suarez/REUTERS\. Caption from [InfoMigrants](https://www.facebook.com/InfoMigrants/posts/3695149770606781) : “This is the grave of two\-year\-old migrant girl Elene Habiba Traore on Gran Canaria\. “Forever in our hearts” a ribbon atop the burial site reads\. Elene had been revived by Spanish health workers after being rescued from a boat in the Atlantic off the Spanish island along with 51 other migrants on March 16, but help ultimately came too late — she died five days later\.”](../assets/3836d81ff250/0*1o3OS5lF4lPgeDg5)
 
 Photo credit: Borja Suarez/REUTERS\. Caption from [InfoMigrants](https://www.facebook.com/InfoMigrants/posts/3695149770606781) : “This is the grave of two\-year\-old migrant girl Elene Habiba Traore on Gran Canaria\. “Forever in our hearts” a ribbon atop the burial site reads\. Elene had been revived by Spanish health workers after being rescued from a boat in the Atlantic off the Spanish island along with 51 other migrants on March 16, but help ultimately came too late — she died five days later\.”
 #### GERMANY

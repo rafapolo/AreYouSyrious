@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 4/10/21: What will follow UN’s conclusions on Libya?
+title: "AYS Daily Digest 4/10/21: What will follow UN’s conclusions on Libya?"
 author: Are You Syrious?
 date: 2021-10-05T23:35:27.793+0100
 last_modified_at: 2021-10-05T23:35:27.793+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,libya,europe,human-rights]
 description: weaponising drones in the Frontex mission / Poland to try and send humanitarian convoy to Belarus, while weather worsens and pushbacks…
 image:
-  path: assets/4801fb8cd550/0*lDZ7W-hQLJC5Klop
+  path: ../assets/4801fb8cd550/0*lDZ7W-hQLJC5Klop
 ---
 
 ### AYS Daily Digest 4/10/21: What will follow UN’s conclusions on Libya?
 #### weaponising drones in the Frontex mission / Poland to try and send humanitarian convoy to Belarus, while weather worsens and pushbacks continue / Mixed Migration Update & recommended reads
 
 
-![](assets/4801fb8cd550/0*lDZ7W-hQLJC5Klop)
+![](../assets/4801fb8cd550/0*lDZ7W-hQLJC5Klop)
 
 #### FEATURED
 
@@ -32,7 +32,7 @@ image:
 However, what is missing here are the follow up actions by the European Union, given their collaboration with the Lybian Coast Guard and practically the whole ring of violence\. Here is what the journalist Sally Hayden got as an answer to the question on whether the EU would now reconsider \(at least\) their support of the Libyan coastguard in the wake of the Tripoli raids & the findings of the UN Human Rights Council\-commissioned fact\-finding mission:
 
 
-![EU spokesperson statement via Sally Hayden](assets/4801fb8cd550/0*k2nnSae-MT-0pt73)
+![EU spokesperson statement via Sally Hayden](../assets/4801fb8cd550/0*k2nnSae-MT-0pt73)
 
 EU spokesperson statement via Sally Hayden
 

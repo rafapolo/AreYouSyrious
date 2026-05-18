@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 11/10/19: Mouldy bread for desperate people stuck in overcrowded camps
+title: "AYS Daily Digest 11/10/19: Mouldy bread for desperate people stuck in overcrowded camps"
 author: Are You Syrious?
 date: 2019-10-12T15:26:20.503+0100
 last_modified_at: 2019-10-12T15:26:20.503+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,europe,migration]
 description: Sweden re-evaluating deportation to Syria / poor health assistance to people on the move in BiH / deportations scheduled from Austria /…
 image:
-  path: assets/dcff8c28ff38/0*bwK08Vfr3l_538ie.jpeg
+  path: ../assets/dcff8c28ff38/0*bwK08Vfr3l_538ie.jpeg
 ---
 
 ### AYS Daily Digest 11/10/19: Mouldy bread for desperate people stuck in overcrowded camps
 ### Sweden re\-evaluating deportation to Syria / poor health assistance to people on the move in BiH / deportations scheduled from Austria / &more news
 
 
-![](assets/dcff8c28ff38/0*oH5SK6nHhgXfKp1s.jpeg)
+![](../assets/dcff8c28ff38/0*oH5SK6nHhgXfKp1s.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----8adfeea21532----------------------)
@@ -22,11 +22,11 @@ image:
 [Oct 12](ays-daily-digest-11-10-19-mouldy-bread-for-desperate-people-stuck-in-8adfeea21532?source=post_page-----8adfeea21532----------------------) · 5 min read
 
 
-![](assets/dcff8c28ff38/0*9KR_9NcaiF7vrVCL)
+![](../assets/dcff8c28ff38/0*9KR_9NcaiF7vrVCL)
 
 
 
-![](assets/dcff8c28ff38/0*bwK08Vfr3l_538ie.jpeg)
+![](../assets/dcff8c28ff38/0*bwK08Vfr3l_538ie.jpeg)
 
 
 [Elena Depi De Piccoli](https://web.facebook.com/elena.depiccoli?__tn__=%2Cd%2AF%2AF-R&eid=ARDZgDpFm22n2QNbYqcPqEZXpgnP2ivq_7H0LmRh1FJ6okhc0i5XRL2X8hwXL9IQnB-LBSovK4kOipuv&tn-str=%2AF)
@@ -135,11 +135,11 @@ In Vučjak, medical assistance is still a big issue\. Recently the volunteer tea
 
 
 
-![](assets/dcff8c28ff38/0*Ew_t3DG8lRBAG8ZV)
+![](../assets/dcff8c28ff38/0*Ew_t3DG8lRBAG8ZV)
 
 
 
-![](assets/dcff8c28ff38/0*iquaerCSVWqQ06Tx.jpeg)
+![](../assets/dcff8c28ff38/0*iquaerCSVWqQ06Tx.jpeg)
 
 ### AUSTRIA
 

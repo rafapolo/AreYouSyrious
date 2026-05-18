@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 25/10/2021: Cyprus — Psychological violence behind “voluntary” returns
+title: "AYS Daily Digest 25/10/2021: Cyprus — Psychological violence behind “voluntary” returns"
 author: Are You Syrious?
 date: 2021-10-27T19:03:19.034+0100
 last_modified_at: 2021-10-27T19:03:19.034+0100
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [digest,iom,cyprus,deportations,refugees]
 description: Are You Syrious?
 image:
-  path: assets/1ab046e50226/0*2y-bCjKNZ--Lf4bJ.jpeg
+  path: ../assets/1ab046e50226/0*2y-bCjKNZ--Lf4bJ.jpeg
 ---
 
 ### AYS Daily Digest 25/10/2021: Cyprus — Psychological violence behind “voluntary” returns
 
 
-![](assets/1ab046e50226/0*lkpx1YWLb4aRl2xT.jpeg)
+![](../assets/1ab046e50226/0*lkpx1YWLb4aRl2xT.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----859db5ad7a46--------------------------------)
@@ -23,7 +23,7 @@ image:
 LIBYA: Protest in Tripoli continues\. SEA: Child dies after two weeks at sea trying to reach the Canaries\. Geo Barents still without Safe Port\. GREECE: Court case against Frontex \. FRANCE: Day15 of Solidarity Hunger Strike\. More updates from ITALY, UK, AUSTRIA, SERBIA and SPAIN\.
 
 
-![](assets/1ab046e50226/0*2y-bCjKNZ--Lf4bJ.jpeg)
+![](../assets/1ab046e50226/0*2y-bCjKNZ--Lf4bJ.jpeg)
 
 
 “The 16th deportation prison in Germany was officially opened \[on Monday\] in Hof, Bavaria\. ➜ Here is a list of all German detention centers with addresses, contact details, visiting times and which social services / legal advice are active there: [https://noborderassembly\.blackblogs\.org/de/abschiebehaft\-abschaffen/](https://noborderassembly.blackblogs.org/de/abschiebehaft-abschaffen/) “ \( [No Border Assembly Berlin](https://twitter.com/NoBorder_Berlin/status/1452612692598984713) \)
@@ -121,11 +121,11 @@ ITALY
 On 20 October 2021, Altraeconomia [reported on the collaboration between the Polytechnic of Turin and Frontex](https://altreconomia-it.translate.goog/il-politecnico-di-torino-a-fianco-di-frontex-sul-rispetto-dei-diritti-umani-intanto-cade-il-silenzio/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-GB&_x_tr_pto=nui) \. They would receive €4m to produce maps and infographics necessary in order “to support the activities” of Frontex\.
 
 
-![](assets/1ab046e50226/0*fkqA14Aj-5QAQ8Cp.jpeg)
+![](../assets/1ab046e50226/0*fkqA14Aj-5QAQ8Cp.jpeg)
 
 
 
-![](assets/1ab046e50226/0*70ljiEKX1XGhQyl1.png)
+![](../assets/1ab046e50226/0*70ljiEKX1XGhQyl1.png)
 
 
 \(Photo Credit: [@michelelancione](https://twitter.com/michelelancione) \)

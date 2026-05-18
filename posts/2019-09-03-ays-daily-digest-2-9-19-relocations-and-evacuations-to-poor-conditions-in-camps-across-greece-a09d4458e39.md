@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 2/9/19: Relocations and evacuations to poor conditions in camps across Greece
+title: "AYS Daily Digest 2/9/19: Relocations and evacuations to poor conditions in camps across Greece"
 author: Are You Syrious?
 date: 2019-09-03T09:46:24.309+0100
 last_modified_at: 2019-09-03T13:45:16.522+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,europe,migration]
 description: “We are sick and tired from the situation, but we are still resisting”, evacuated from Athens say / 1,500 people to be transferred to…
 image:
-  path: assets/a09d4458e39/1*L7TiCDyTFvHO5YibFlK3xw.jpeg
+  path: ../assets/a09d4458e39/1*L7TiCDyTFvHO5YibFlK3xw.jpeg
 ---
 
 ### AYS Daily Digest 2/9/19: Relocations and Evacuations to Poor Conditions in Camps Across Greece
 #### “We are sick and tired from the situation, but we are still resisting”, evacuated from Athens say / 1,500 people to be transferred to camps across Greece, heading to poorly equipped and managed mainland camp / Detailed medical report from the infamous Vučjak camp in the Bosnian border area with Croatia / In Germany, organizations demand the immediate implementation of the recent judicial order, issuing a joint press statement / & more news
 
 
-![by [Spirou Trikoupi 17](https://www.facebook.com/spiroutrikoupi17/?__tn__=%2CdkCH-R-R&eid=ARCJ23FxDKJXdivUyGChcUWEz0FMWoTFABZKTTIeCvQoeOS4-FvuP3WI_VSMp1blHnto9jpP3IIVklit&hc_ref=ARSkBba5FLVwHlUfzvOeK82ouXyQLoGatTbFcB2LAX3N4u0CeQuBtujF_yqn_YcWrLI&fref=nf&hc_location=group)](assets/a09d4458e39/1*L7TiCDyTFvHO5YibFlK3xw.jpeg)
+![by [Spirou Trikoupi 17](https://www.facebook.com/spiroutrikoupi17/?__tn__=%2CdkCH-R-R&eid=ARCJ23FxDKJXdivUyGChcUWEz0FMWoTFABZKTTIeCvQoeOS4-FvuP3WI_VSMp1blHnto9jpP3IIVklit&hc_ref=ARSkBba5FLVwHlUfzvOeK82ouXyQLoGatTbFcB2LAX3N4u0CeQuBtujF_yqn_YcWrLI&fref=nf&hc_location=group)](../assets/a09d4458e39/1*L7TiCDyTFvHO5YibFlK3xw.jpeg)
 
 by [Spirou Trikoupi 17](https://www.facebook.com/spiroutrikoupi17/?__tn__=%2CdkCH-R-R&eid=ARCJ23FxDKJXdivUyGChcUWEz0FMWoTFABZKTTIeCvQoeOS4-FvuP3WI_VSMp1blHnto9jpP3IIVklit&hc_ref=ARSkBba5FLVwHlUfzvOeK82ouXyQLoGatTbFcB2LAX3N4u0CeQuBtujF_yqn_YcWrLI&fref=nf&hc_location=group)
 #### FEATURED
@@ -53,7 +53,7 @@ The people who decided to leave the camps and return to their neighborhood have 
 
 
 
-![](assets/a09d4458e39/1*4mloDVJJJ9XDKLUyQfZpMA.jpeg)
+![](../assets/a09d4458e39/1*4mloDVJJJ9XDKLUyQfZpMA.jpeg)
 
 
 There are 24,000 people stranded on the Aegean islands, most of them in severely overcrowded hotspots such as Moria\.
@@ -69,7 +69,7 @@ There are 24,000 people stranded on the Aegean islands, most of them in severely
 According to the available information, about a thousand will be accommodated in the **Nea Kavala** camp, near Polikastro, while the other 500 will be provided lodging elsewhere in the same area\. People were hesitant to leave, given that previous relocations were not always providing a much better perspective, and not much information was given to the people who will be transferred, most of them families\.
 
 
-![[Nea kavala Camp](https://www.facebook.com/neakavalacamp/?__xts__%5B0%5D=68.ARCs22s5vShkFVIWe2NVV-JwEfbABVepeVAqul_Fd0JPVI9Du0xUsvRWByadglfHsquli9nOEoKyK_oR6HYp3mMCZkHGj55l3V_ByOzuJ8t5VFNhxlYNZZ3JeZOlv4u3jMfViEI4fa6-9vVUlf7Cgv2ld_iJPAhPdexJrm8kJyDnwsIz295K-JtmbAbFhzjfpUBD2c0IMe3CkdO6RoYVv0vaJ1-2DK4MNBS_lGZWPIeiBSED79QoMOHTgZV1yUWMYt8gi28yc5Lu1tsE46LXWaoZdNwVXG0Dpy9PLsrwW034Qu2KpzTEJXn7NjfRRxLQFo8Z-_oH6b7I1Vjn0gLH_rcBKctr&__tn__=k%2AF&tn-str=k%2AF)](assets/a09d4458e39/1*q7BmXv9jtL9JFdTdvZPh8g.jpeg)
+![[Nea kavala Camp](https://www.facebook.com/neakavalacamp/?__xts__%5B0%5D=68.ARCs22s5vShkFVIWe2NVV-JwEfbABVepeVAqul_Fd0JPVI9Du0xUsvRWByadglfHsquli9nOEoKyK_oR6HYp3mMCZkHGj55l3V_ByOzuJ8t5VFNhxlYNZZ3JeZOlv4u3jMfViEI4fa6-9vVUlf7Cgv2ld_iJPAhPdexJrm8kJyDnwsIz295K-JtmbAbFhzjfpUBD2c0IMe3CkdO6RoYVv0vaJ1-2DK4MNBS_lGZWPIeiBSED79QoMOHTgZV1yUWMYt8gi28yc5Lu1tsE46LXWaoZdNwVXG0Dpy9PLsrwW034Qu2KpzTEJXn7NjfRRxLQFo8Z-_oH6b7I1Vjn0gLH_rcBKctr&__tn__=k%2AF&tn-str=k%2AF)](../assets/a09d4458e39/1*q7BmXv9jtL9JFdTdvZPh8g.jpeg)
 
 [Nea kavala Camp](https://www.facebook.com/neakavalacamp/?__xts__%5B0%5D=68.ARCs22s5vShkFVIWe2NVV-JwEfbABVepeVAqul_Fd0JPVI9Du0xUsvRWByadglfHsquli9nOEoKyK_oR6HYp3mMCZkHGj55l3V_ByOzuJ8t5VFNhxlYNZZ3JeZOlv4u3jMfViEI4fa6-9vVUlf7Cgv2ld_iJPAhPdexJrm8kJyDnwsIz295K-JtmbAbFhzjfpUBD2c0IMe3CkdO6RoYVv0vaJ1-2DK4MNBS_lGZWPIeiBSED79QoMOHTgZV1yUWMYt8gi28yc5Lu1tsE46LXWaoZdNwVXG0Dpy9PLsrwW034Qu2KpzTEJXn7NjfRRxLQFo8Z-_oH6b7I1Vjn0gLH_rcBKctr&__tn__=k%2AF&tn-str=k%2AF)
 
@@ -89,7 +89,7 @@ In Nea Kavala there are already 924 refugees living in containers, even though o
 #### GREECE
 
 
-![](assets/a09d4458e39/1*4eQRK83fzPZJhyOWp6KbkQ.jpeg)
+![](../assets/a09d4458e39/1*4eQRK83fzPZJhyOWp6KbkQ.jpeg)
 
 ### Athens
 
@@ -144,7 +144,7 @@ Late during the night, 38 people who reportedly came via Bosnia and Herzegovina,
 This [media report](https://t.co/N9F4m4Qrds?amp=1) concerns the state of emergency at the vessel, while others remind of a clear plan of action proposed in March of this year:
 
 
-![](assets/a09d4458e39/0*koMS6L01UTshiqfz)
+![](../assets/a09d4458e39/0*koMS6L01UTshiqfz)
 
 
 The boat from Libya with 29 people on board that went missing last Wednesday was rescued yesterday by the Italian navy’s Cassiopea vessel\. As their relatives confirm, the 5 families, including 19 minors \( \! \), are now in Pozzallo in Italy, [Watch The Med — Alarmphone](https://www.facebook.com/watchthemed.alarmphone/?__tn__=%2CdkCH-R-R&eid=ARCZ5SBWr0_7wQ1RbbiDX1zZCniBzONCuY1mn1gcYCvyO8PRqdqKZ-UBKjjC-jSKybz6KbYDi4Qebdcp&hc_ref=ARQZn98gqybFXHblsAEECmCgvAcB7WTHgM8N-8rSUd4BbnX-FiSUtS10JYtXigGeUwU&fref=nf&hc_location=group) reported\. The captain is reportedly negotiating with the Italian authorities the modalities of whether and when the vessel may enter the port\.
@@ -193,7 +193,7 @@ A group of 48 was transferred to the “Villa Sikania” reception centre in Sic
 
 
 
-![](assets/a09d4458e39/1*VVL3s9-5PKzBSgiwJIltog.jpeg)
+![](../assets/a09d4458e39/1*VVL3s9-5PKzBSgiwJIltog.jpeg)
 
 
 We see this on a daily basis in Calais\. Scabies, bed bugs, mosquito bites and similar issues that are easy to treat when you possess a European Health Insurance Card — but without it — plus “living” in these inhumanly unhygienic conditions — they cause severe infections by literally “burning the problem”, the FAST team reports\.

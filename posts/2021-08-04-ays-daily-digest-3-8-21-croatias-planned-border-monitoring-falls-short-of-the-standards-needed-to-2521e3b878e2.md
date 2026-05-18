@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 3/8/21: Croatia’s planned border monitoring falls short of the standards needed to…
+title: "AYS Daily Digest 3/8/21: Croatia’s planned border monitoring falls short of the standards needed to…"
 author: Are You Syrious?
 date: 2021-08-04T17:25:12.233+0100
 last_modified_at: 2021-08-04T17:25:12.233+0100
 categories: Are You Syrious?
 tags: [digest,refugees,croatia,europe,greece]
-description: Effective mechanism needed: independent, broad mandate, adequate resources / Greek ombudsman calls for release of 19 persons who are…
+description: "Effective mechanism needed: independent, broad mandate, adequate resources / Greek ombudsman calls for release of 19 persons who are…"
 image:
-  path: assets/2521e3b878e2/0*SGzjSvmRI5MKOTk5.jpeg
+  path: ../assets/2521e3b878e2/0*SGzjSvmRI5MKOTk5.jpeg
 ---
 
 ### AYS Daily Digest 3/8/21: Croatia’s planned border monitoring falls short of the standards needed to ensure its effectiveness and success
 ### Effective mechanism needed: independent, broad mandate, adequate resources / Greek ombudsman calls for release of 19 persons who are unlawfully detained in the pre\-removal detention centre on Kos / News from the Mediterranean / Press statement on Denmark’s Alien Act provision to externalize asylum procedures to third countries / Wildfires threaten lives — what will happen to people in detention centres / News and calls for support
 
 
-![](assets/2521e3b878e2/0*SmNnPcursvo7hYHF.jpeg)
+![](../assets/2521e3b878e2/0*SmNnPcursvo7hYHF.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----98c76d31fcba--------------------------------)
@@ -22,7 +22,7 @@ image:
 [Aug 4](ays-daily-digest-3-8-21-croatias-planned-border-monitoring-falls-short-of-the-standards-needed-to-98c76d31fcba?source=post_page-----98c76d31fcba--------------------------------) · 12 min read
 
 
-![](assets/2521e3b878e2/0*u3C38T18OVwmgP77.jpeg)
+![](../assets/2521e3b878e2/0*u3C38T18OVwmgP77.jpeg)
 
 ### FEATURE
 
@@ -76,7 +76,7 @@ Save the Children
 ### Eastern Mediterranean in an intense heatwave
 
 
-![](assets/2521e3b878e2/0*GEn567YKbT5e0YX2)
+![](../assets/2521e3b878e2/0*GEn567YKbT5e0YX2)
 
 
 Greece is facing the most extreme temperatures since 1987 and Turkey is affected by severe and so far deadly wildfires\.
@@ -132,15 +132,15 @@ While Greece says [Turkey endangered people on the move in the Aegean accident](
 ### Wildfires: what will happen to the people in detention centres and camps?
 
 
-![](assets/2521e3b878e2/0*DIL9IbElw0Yau3Tq)
+![](../assets/2521e3b878e2/0*DIL9IbElw0Yau3Tq)
 
 
 
-![](assets/2521e3b878e2/0*Rw8t-Kqoda2sr0vd)
+![](../assets/2521e3b878e2/0*Rw8t-Kqoda2sr0vd)
 
 
 
-![](assets/2521e3b878e2/0*ekum2z-4ONOPPiiI)
+![](../assets/2521e3b878e2/0*ekum2z-4ONOPPiiI)
 
 
 Photos: [Viktoria Solidarity](https://www.facebook.com/ViktoriaSolidarity/?__cft__[0]=AZUS-s5RHI6ThH2gcMPR1MfsccwQ5ffR5vXo_9UyqK0R83SUrasme2G-0qJpkrd5m07RrQCDjOdrfiAiOaLrLbyJS4Hm_lTN2Q23meBcw0Is6pwF6OPsiP57RbgzJhnmMp7RfAVfWtbTQBfSB5iDamph&__tn__=-UC%2CP-R)
@@ -150,7 +150,7 @@ The situation has gotten worse throughout the evening and whilst residential hou
 An answer that needs no comment came from Greece’s Minister for Migration and Asylum as a reaction to concerns over what will happen to people deprived of free movement, particularly the question coming from MEP Tineke Strik:
 
 
-![](assets/2521e3b878e2/0*SGzjSvmRI5MKOTk5.jpeg)
+![](../assets/2521e3b878e2/0*SGzjSvmRI5MKOTk5.jpeg)
 
 
 In the meantime, across other camps, people are also suffering under these conditions, especially given the poor infrastructure and insufficient support\. [Seebrücke International](https://twitter.com/Seebruecke_intl) team wrote about the conditions on Lesvos:

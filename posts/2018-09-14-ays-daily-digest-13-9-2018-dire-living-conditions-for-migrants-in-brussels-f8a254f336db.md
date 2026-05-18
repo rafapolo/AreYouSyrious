@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 13/9/2018: Dire living conditions for migrants in Brussels.
+title: "AYS DAILY DIGEST 13/9/2018: Dire living conditions for migrants in Brussels."
 author: Are You Syrious?
 date: 2018-09-14T10:06:25.694+0100
 last_modified_at: 2018-09-14T18:38:55.118+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,police-brutality,human-rights]
 description: The situation of the IDP in Syria increasingly worrying in the past six months//Frontex to receive 11.3 billion euros over six years//The…
 image:
-  path: assets/f8a254f336db/1*9Jl0VQMx6EXFrw12vUGDiQ.jpeg
+  path: ../assets/f8a254f336db/1*9Jl0VQMx6EXFrw12vUGDiQ.jpeg
 ---
 
 ### AYS DAILY DIGEST 13/9/2018: Dire living conditions for migrants in Brussels\. Constant fear and abuse\.
@@ -15,7 +15,7 @@ image:
 _The situation of the IDP in Syria increasingly worrying in the past six months//Frontex to receive 11\.3 billion euros over six years//The food situation in Chios is alarming//Donations and volunteers needed in Greece and Bosnia//Statement of Baobab Experience: solidarity will not be stopped//Draft of return agreement to be signed between Seehofer and Salvini//Worrying message received by AYS on random and un\-notified deportation threats from Lebach, Germany//Increased risk of homelessness among unaccompanied minors in Sweden_
 
 
-![Credit: Samer Mustafa](assets/f8a254f336db/1*9Jl0VQMx6EXFrw12vUGDiQ.jpeg)
+![Credit: Samer Mustafa](../assets/f8a254f336db/1*9Jl0VQMx6EXFrw12vUGDiQ.jpeg)
 
 Credit: Samer Mustafa
 

@@ -1,5 +1,5 @@
 ---
-title: AYS digest 10/9: Compelled by the reports on poor conditions and slow progress, EU raises the…
+title: "AYS digest 10/9: Compelled by the reports on poor conditions and slow progress, EU raises the…"
 author: Are You Syrious?
 date: 2016-09-11T02:50:30.811+0100
 last_modified_at: 2016-09-11T02:56:00.905+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,greece,european-union,syria]
 description: With the “approval” of the Syrian regime, the US and Russia set diplomatic foundation for a possible ceasefire in Syria, hours afterwards…
 image:
-  path: assets/2c3cfa8d8179/1*chsIGWRIT2VRw1tt2zI2LQ.jpeg
+  path: ../assets/2c3cfa8d8179/1*chsIGWRIT2VRw1tt2zI2LQ.jpeg
 ---
 
 ### AYS digest 10/9: Compelled by the reports on poor conditions and slow progress, EU raises the stakes in Greece
@@ -15,7 +15,7 @@ image:
 
 
 ![“I saw a lot of tears today, a part of a family will leave and the rest will continue waiting\. 
- We are together, sharing the suffering, the happiness and sharing all our feelings\. Refugees still moving from one spot to another\. Refugees still suffering, but one day we will be together in our country, inshallah\.” Photo: [Through Refugee Eyes](https://www.facebook.com/throughrefugeeeyes/?fref=ts)](assets/2c3cfa8d8179/1*chsIGWRIT2VRw1tt2zI2LQ.jpeg)
+ We are together, sharing the suffering, the happiness and sharing all our feelings\. Refugees still moving from one spot to another\. Refugees still suffering, but one day we will be together in our country, inshallah\.” Photo: [Through Refugee Eyes](https://www.facebook.com/throughrefugeeeyes/?fref=ts)](../assets/2c3cfa8d8179/1*chsIGWRIT2VRw1tt2zI2LQ.jpeg)
 
 “I saw a lot of tears today, a part of a family will leave and the rest will continue waiting\. 
  We are together, sharing the suffering, the happiness and sharing all our feelings\. Refugees still moving from one spot to another\. Refugees still suffering, but one day we will be together in our country, inshallah\.” Photo: [Through Refugee Eyes](https://www.facebook.com/throughrefugeeeyes/?fref=ts)
@@ -68,12 +68,12 @@ Judging by the alternative travel routes many refugees have been led to take \(d
 As the situation concerning the refugees in Hungary is getting more and more serious, dangerous and uncertain for many, the members of the Migrant Solidarity Group of Hungary are extending their invitation to join a [protest](http://freetheroszke11.weebly.com/) that will be held this month in solidarity with the Roszke11, but also as a gesture to call for a boycott of the upcoming referendum imposed by the government\. The event will take place on September 22 in [Budapest](https://www.facebook.com/events/1698455760479969/) and also the following day, September 23, in [Szeged](https://www.facebook.com/events/1733169590233449/) , in front of the court where Ahmed H\. of the Roszke11 will have a trial\.
 
 
-![Along with wallpapering the country with xenophobic billboards, the Hungarian government’s “We must stop Brussels” booklet for Hungary’s includes a warning about the so called “no go zones” in Europe — “In those European cities, where immigrants live in great numbers, several hundred “no\-go” zones exist”, the booklet reveals\.](assets/2c3cfa8d8179/1*eQGxL_WKMOUNhBUvSCTQQw.jpeg)
+![Along with wallpapering the country with xenophobic billboards, the Hungarian government’s “We must stop Brussels” booklet for Hungary’s includes a warning about the so called “no go zones” in Europe — “In those European cities, where immigrants live in great numbers, several hundred “no\-go” zones exist”, the booklet reveals\.](../assets/2c3cfa8d8179/1*eQGxL_WKMOUNhBUvSCTQQw.jpeg)
 
 Along with wallpapering the country with xenophobic billboards, the Hungarian government’s “We must stop Brussels” booklet for Hungary’s includes a warning about the so called “no go zones” in Europe — “In those European cities, where immigrants live in great numbers, several hundred “no\-go” zones exist”, the booklet reveals\.
 
 
-![The Migrant Solidarity Group of Hungary published a counter propaganda booklet telling about all the human rights violations stemming from their country’s political decisions regarding refugees](assets/2c3cfa8d8179/1*mGvOJpN_iwhRY8BPkBEkHg.jpeg)
+![The Migrant Solidarity Group of Hungary published a counter propaganda booklet telling about all the human rights violations stemming from their country’s political decisions regarding refugees](../assets/2c3cfa8d8179/1*mGvOJpN_iwhRY8BPkBEkHg.jpeg)
 
 The Migrant Solidarity Group of Hungary published a counter propaganda booklet telling about all the human rights violations stemming from their country’s political decisions regarding refugees
 #### SERBIA
@@ -87,7 +87,7 @@ Bavaria’s conservatives have agreed on a list of changes they want made to the
 Boots, backpacks & baby carriers — Aid for refugees in Chios is sending 1000 bras and knickers to the women living in the camps in Chios\. They would also like to distribute washable/reusable breast pads with the nursing and maternity bras\. They anticipate that they will need approximately 150 pairs \(so each lady can be given 2 pairs\) and in order to succeed, they ask for help and [support](https://www.youcaring.com/chios-refugee-aid-541259) from the women in the UK\.
 
 
-![](assets/2c3cfa8d8179/1*3Bbzh6Ikl7ga1bdZbuyHSw.jpeg)
+![](../assets/2c3cfa8d8179/1*3Bbzh6Ikl7ga1bdZbuyHSw.jpeg)
 
 
 

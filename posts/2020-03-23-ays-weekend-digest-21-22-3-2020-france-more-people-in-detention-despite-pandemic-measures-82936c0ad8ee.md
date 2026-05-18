@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 21–22/3/2020 France: More people in detention despite pandemic measures
+title: "AYS Weekend Digest 21–22/3/2020 France: More people in detention despite pandemic measures"
 author: Are You Syrious?
 date: 2020-03-23T11:00:33.273+0000
 last_modified_at: 2020-03-23T12:40:20.259+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digestion,cra,greece,coronavirus]
 description: Greece in total lockdown from Monday. Report from Turkish/Bulgarian border. Concerns over healthcare access for people on the move in…
 image:
-  path: assets/82936c0ad8ee/1*6MiE_pqLEcsiakSqDyR88Q.jpeg
+  path: ../assets/82936c0ad8ee/1*6MiE_pqLEcsiakSqDyR88Q.jpeg
 ---
 
 ### AYS Weekend Digest 21–22/3/2020 France: More people in detention despite pandemic measures
@@ -17,7 +17,7 @@ Greece in total lockdown from Monday 23rd\. Report from Turkish/Bulgarian border
 
 ![On Sunday morning a 5\.3 magnitude earthquake hit Zagreb, causing widespread damage and the evacuation of hospitals\. A 15\-year\-old is in a critical condition and 16 others were injured as a result of the quake\. More tremors followed and are still shaking the earth\. This is a message from AYS: “Dear friends, we hope everyone is ok after this morning’s earthquake\.
 Please, be mindful about the security measures regarding coronavirus NOW more than ever\.
-Also, you might receive different messages and information that might not be true\. The only correct information about the earthquake and coronavirus will come from [THIS](https://civilna-zastita.gov.hr/vijesti/vijesti/poziv-gradjanima/2284?fbclid=IwAR2obWGj1Ko5OXXwx6KteO4F8YmLraR2aLn2ZqmK9srSeeTvpmUhDOMvl_Q) and [THIS](https://www.koronavirus.hr/) source\. If you have friends who are seeking asylum in Croatia or have protection status in the country, they can join [Asylum Croatia](https://www.facebook.com/groups/1590635127930744/) , a platform for sharing information on the situation\. Be aware, keep updated, remain patient and stay safe to the best of your ability\! \(Photo by [Branimir Balogović](https://unsplash.com/@brandaohh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) \)](assets/82936c0ad8ee/1*6MiE_pqLEcsiakSqDyR88Q.jpeg)
+Also, you might receive different messages and information that might not be true\. The only correct information about the earthquake and coronavirus will come from [THIS](https://civilna-zastita.gov.hr/vijesti/vijesti/poziv-gradjanima/2284?fbclid=IwAR2obWGj1Ko5OXXwx6KteO4F8YmLraR2aLn2ZqmK9srSeeTvpmUhDOMvl_Q) and [THIS](https://www.koronavirus.hr/) source\. If you have friends who are seeking asylum in Croatia or have protection status in the country, they can join [Asylum Croatia](https://www.facebook.com/groups/1590635127930744/) , a platform for sharing information on the situation\. Be aware, keep updated, remain patient and stay safe to the best of your ability\! \(Photo by [Branimir Balogović](https://unsplash.com/@brandaohh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) \)](../assets/82936c0ad8ee/1*6MiE_pqLEcsiakSqDyR88Q.jpeg)
 
 On Sunday morning a 5\.3 magnitude earthquake hit Zagreb, causing widespread damage and the evacuation of hospitals\. A 15\-year\-old is in a critical condition and 16 others were injured as a result of the quake\. More tremors followed and are still shaking the earth\. This is a message from AYS: “Dear friends, we hope everyone is ok after this morning’s earthquake\.
 Please, be mindful about the security measures regarding coronavirus NOW more than ever\.
@@ -54,11 +54,11 @@ TURKEY
 #### It’s still winter at the border
 
 
-![](assets/82936c0ad8ee/1*sIpt-hsrUCnDRHsSqVCt2Q.jpeg)
+![](../assets/82936c0ad8ee/1*sIpt-hsrUCnDRHsSqVCt2Q.jpeg)
 
 
 
-![\(Photo Credit: Anonymous\)](assets/82936c0ad8ee/1*6D5FLzqisoHTCvq_Qwh8YQ.jpeg)
+![\(Photo Credit: Anonymous\)](../assets/82936c0ad8ee/1*6D5FLzqisoHTCvq_Qwh8YQ.jpeg)
 
 \(Photo Credit: Anonymous\)
 
@@ -628,11 +628,11 @@ ITALY
 #### Trieste Solidarity
 
 
-![](assets/82936c0ad8ee/1*LqUuG5HlTaOQWeWvtKgx0g.jpeg)
+![](../assets/82936c0ad8ee/1*LqUuG5HlTaOQWeWvtKgx0g.jpeg)
 
 
 
-![\(Photo credit: [Francesco Cibati](https://www.facebook.com/francesco.cib?__tn__=K-R&eid=ARB2xXZonnniLNdNLHJA1M2j0-TdfNDguQYivjLgGgHU2TKXVNetS_8CsjpFzjqfFp7s-8WLcPYtWJFp&__xts__%5B0%5D=68.ARCAPCArzotL1-bdTMuQRSzhfY_s4Osl0Cdj4lg6RpO-IqWbx1giPTseK9LYHsXk-rd0PwU37l02QUTE_XiW92G5FTIwDqZTwkqf8ycHcLZOMOQR-gBi3kWtWOcVedfJy5O2lszkePuMahHyYL7PanT7tvi8S84ngUimQei0Ys7AtGKXay4C5Pp22v9VxdeZ6k2T821Iiytnqkig) \)](assets/82936c0ad8ee/1*vAIfSfmHzTPSCk1CDzVTFA.jpeg)
+![\(Photo credit: [Francesco Cibati](https://www.facebook.com/francesco.cib?__tn__=K-R&eid=ARB2xXZonnniLNdNLHJA1M2j0-TdfNDguQYivjLgGgHU2TKXVNetS_8CsjpFzjqfFp7s-8WLcPYtWJFp&__xts__%5B0%5D=68.ARCAPCArzotL1-bdTMuQRSzhfY_s4Osl0Cdj4lg6RpO-IqWbx1giPTseK9LYHsXk-rd0PwU37l02QUTE_XiW92G5FTIwDqZTwkqf8ycHcLZOMOQR-gBi3kWtWOcVedfJy5O2lszkePuMahHyYL7PanT7tvi8S84ngUimQei0Ys7AtGKXay4C5Pp22v9VxdeZ6k2T821Iiytnqkig) \)](../assets/82936c0ad8ee/1*vAIfSfmHzTPSCk1CDzVTFA.jpeg)
 
 \(Photo credit: [Francesco Cibati](https://www.facebook.com/francesco.cib?__tn__=K-R&eid=ARB2xXZonnniLNdNLHJA1M2j0-TdfNDguQYivjLgGgHU2TKXVNetS_8CsjpFzjqfFp7s-8WLcPYtWJFp&__xts__%5B0%5D=68.ARCAPCArzotL1-bdTMuQRSzhfY_s4Osl0Cdj4lg6RpO-IqWbx1giPTseK9LYHsXk-rd0PwU37l02QUTE_XiW92G5FTIwDqZTwkqf8ycHcLZOMOQR-gBi3kWtWOcVedfJy5O2lszkePuMahHyYL7PanT7tvi8S84ngUimQei0Ys7AtGKXay4C5Pp22v9VxdeZ6k2T821Iiytnqkig) \)
 

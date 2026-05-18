@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 23/10/19: Local fascists stop the relocation of 380 people from Samos
+title: "AYS Daily Digest 23/10/19: Local fascists stop the relocation of 380 people from Samos"
 author: Are You Syrious?
 date: 2019-10-24T04:09:56.003+0100
 last_modified_at: 2019-10-24T12:59:52.976+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,fortress-europe,malta]
 description: Fortress Europe causes additional deaths and self-harm in the UK, Switzerland and Greece//104 people still left ashore//AI expresses…
 image:
-  path: assets/bf399b8a2a7d/1*adDzVNVTIYqebayx4egPsA.jpeg
+  path: ../assets/bf399b8a2a7d/1*adDzVNVTIYqebayx4egPsA.jpeg
 ---
 
 ### AYS Daily Digest 23/10/19: Local fascists stop the relocation of 380 people from Samos
 #### Fortress Europe causes additional deaths and self\-harm in the UK, Switzerland and Greece//104 people still left ashore//AI expresses concern over extreme charges adopted against three teenagers in Malta//Hotspot in Lampedusa to host up to 439 people//UN condemns Spain for preventing two unaccompanied minors from lodging asylum…
 
 
-![Credit: Samos Volunteers\. May 2019\.](assets/bf399b8a2a7d/1*adDzVNVTIYqebayx4egPsA.jpeg)
+![Credit: Samos Volunteers\. May 2019\.](../assets/bf399b8a2a7d/1*adDzVNVTIYqebayx4egPsA.jpeg)
 
 Credit: Samos Volunteers\. May 2019\.
 #### FEATURED
@@ -37,7 +37,7 @@ Apart from hotels, the government is also considering “the possibility of turn
 #### “Close the borders, they are illegal, send them back”
 
 
-[![Thestival.gr Διαμαρτυρία κατοίκων των Βρασνών κατά της εγκατάστασης μεταναστών](assets/bf399b8a2a7d/c031_hqdefault.jpg "Thestival.gr Διαμαρτυρία κατοίκων των Βρασνών κατά της εγκατάστασης μεταναστών")](https://www.youtube.com/watch?v=MeidyGJlTyg)
+[![Thestival.gr Διαμαρτυρία κατοίκων των Βρασνών κατά της εγκατάστασης μεταναστών](../assets/bf399b8a2a7d/c031_hqdefault.jpg "Thestival.gr Διαμαρτυρία κατοίκων των Βρασνών κατά της εγκατάστασης μεταναστών")](https://www.youtube.com/watch?v=MeidyGJlTyg)
 
 
 In the same hours, a new draft bill “on International Protection” was urgently submitted to the Parliament\. The GRC underlines that this new drafted law violates international, EU and national law, specifically concerning the principle of non\-refoulement\.

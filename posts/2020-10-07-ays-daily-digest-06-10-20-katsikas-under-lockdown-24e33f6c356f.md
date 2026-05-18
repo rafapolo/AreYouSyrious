@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 06/10/20: Katsikas under lockdown
+title: "AYS Daily Digest 06/10/20: Katsikas under lockdown"
 author: Are You Syrious?
 date: 2020-10-07T00:00:15.307+0100
 last_modified_at: 2020-10-07T14:17:01.960+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,greece,covid-19,digest,italy]
 description: Unprecedent measure as covid infections rise // NGO’s demand investigations on pushbacks and unlawful border violence // Italy modifies…
 image:
-  path: assets/24e33f6c356f/1*XHI-hzjPbQRQ4ghUd3DUrg.jpeg
+  path: ../assets/24e33f6c356f/1*XHI-hzjPbQRQ4ghUd3DUrg.jpeg
 ---
 
 ### AYS Daily Digest 06/10/20: Katsikas under lockdown
 #### Unprecedent measure as covid infections rise // NGOs demand investigations on pushbacks and unlawful border violence // Italy modifies asylum decree // EU spends 55 million in Libyan Coast Guard // 2500 pushbacks to Niger // Poor and migrant population in Paris exposed to Covid
 
 
-![The Katsikas camp is now under lockdown\. Credits: [Twitter/Habibi Works](https://twitter.com/HabibiWorks)](assets/24e33f6c356f/1*XHI-hzjPbQRQ4ghUd3DUrg.jpeg)
+![The Katsikas camp is now under lockdown\. Credits: [Twitter/Habibi Works](https://twitter.com/HabibiWorks)](../assets/24e33f6c356f/1*XHI-hzjPbQRQ4ghUd3DUrg.jpeg)
 
 The Katsikas camp is now under lockdown\. Credits: [Twitter/Habibi Works](https://twitter.com/HabibiWorks)
 ### Greece

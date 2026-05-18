@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 01/08/18: Greece to receive more emergency funding to improve standards
+title: "AYS DAILY DIGEST 01/08/18: Greece to receive more emergency funding to improve standards"
 author: Are You Syrious?
 date: 2018-08-02T10:39:27.579+0100
 last_modified_at: 2018-08-02T10:39:27.579+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [greece,european-commission,digest,bosnia,refugees]
 description: 57 751 people reached Europe by the Mediterranean sea so far 2018 // Refugees transiting through Tunisia // Two people shot in Serbia //…
 image:
-  path: assets/c7fbda54f7c1/1*890WVI5sSbu1fCVZ6l7BEQ.jpeg
+  path: ../assets/c7fbda54f7c1/1*890WVI5sSbu1fCVZ6l7BEQ.jpeg
 ---
 
 ### AYS DAILY DIGEST 01/08/18: Greece to receive more emergency funding to improve standards
 #### 57 751 people reached Europe by the Mediterranean sea so far 2018 // Refugees transiting through Tunisia // Two people shot in Serbia // Severe abuse from Croatian police seen in Bosnia // France will shorten times for appeal // Hungerstrike in Moria // New big, peaceful protest against deportations planned in Sweden // Denmark to exclude women from the public by making niqab’s illegal // And more news from the ground\. \. \!
 
 
-![Photo from Tarifa, Spain 27 July 2018\. Spain is the new main entry point, as Italy is harder to reach and routes are constantly changing\. Here, refugees disembark from a dinghy at the same time as tourists are hanging at the beach\. **[It is a strange reality\.](https://www.facebook.com/artagainstproject/photos/a.639651369417634.1073741828.639605726088865/1799472703435489/?type=3&theater&ifg=1)** Photo: Jon Nazca, through Art Against\.](assets/c7fbda54f7c1/1*890WVI5sSbu1fCVZ6l7BEQ.jpeg)
+![Photo from Tarifa, Spain 27 July 2018\. Spain is the new main entry point, as Italy is harder to reach and routes are constantly changing\. Here, refugees disembark from a dinghy at the same time as tourists are hanging at the beach\. **[It is a strange reality\.](https://www.facebook.com/artagainstproject/photos/a.639651369417634.1073741828.639605726088865/1799472703435489/?type=3&theater&ifg=1)** Photo: Jon Nazca, through Art Against\.](../assets/c7fbda54f7c1/1*890WVI5sSbu1fCVZ6l7BEQ.jpeg)
 
 Photo from Tarifa, Spain 27 July 2018\. Spain is the new main entry point, as Italy is harder to reach and routes are constantly changing\. Here, refugees disembark from a dinghy at the same time as tourists are hanging at the beach\. **[It is a strange reality\.](https://www.facebook.com/artagainstproject/photos/a.639651369417634.1073741828.639605726088865/1799472703435489/?type=3&theater&ifg=1)** Photo: Jon Nazca, through Art Against\.
 ### FEATURE
@@ -118,7 +118,7 @@ A UNHCR report about Tunisia can be found [here](http://reporting.unhcr.org/site
 [The EU has stated](https://elpais.com/elpais/2018/08/01/inenglish/1533108364_817753.html) they will give 55 million euros to Tunisia and Morocco to try and ´stem´the flow of migrants from those countries\. Meanwhile many people are without proper shelter after arriving in Algeciras, south of Spain\.
 
 
-![A women resting after being rescued outside the Spanish coast\. Photo: [Olmo Calvo](http://Olmo Calvo ‏   @OlmoCalvo)](assets/c7fbda54f7c1/1*Qpv_1HnCqHkpRtzMlF88rg.jpeg)
+![A women resting after being rescued outside the Spanish coast\. Photo: [Olmo Calvo](http://Olmo Calvo ‏   @OlmoCalvo)](../assets/c7fbda54f7c1/1*Qpv_1HnCqHkpRtzMlF88rg.jpeg)
 
 A women resting after being rescued outside the Spanish coast\. Photo: [Olmo Calvo](http://Olmo Calvo ‏   @OlmoCalvo)
 ### GREECE
@@ -131,7 +131,7 @@ Lack of information, a lot of mosquitos, cramped and windowless tents and much m
 The neglect for the ongoing crisis when it reaches a point where more and more people have stopped caring is dangerous not only in Nea Kavala but in several locations\. This status quo should not be forgotten\.
 
 
-![Photo: [We Are Here — Community Centre](https://www.facebook.com/WeAreHereCentre/?hc_ref=ARSYzNds4HqFK-rLjxeJYdIxBq7SuzAnidtjabDV25iJ0JIgqAA8J0KYmaRJsuvWg_M&fref=nf)](assets/c7fbda54f7c1/1*e8DEFARZf7CtpoZZBnkwpg.jpeg)
+![Photo: [We Are Here — Community Centre](https://www.facebook.com/WeAreHereCentre/?hc_ref=ARSYzNds4HqFK-rLjxeJYdIxBq7SuzAnidtjabDV25iJ0JIgqAA8J0KYmaRJsuvWg_M&fref=nf)](../assets/c7fbda54f7c1/1*e8DEFARZf7CtpoZZBnkwpg.jpeg)
 
 Photo: [We Are Here — Community Centre](https://www.facebook.com/WeAreHereCentre/?hc_ref=ARSYzNds4HqFK-rLjxeJYdIxBq7SuzAnidtjabDV25iJ0JIgqAA8J0KYmaRJsuvWg_M&fref=nf)
 ### Islands
@@ -150,7 +150,7 @@ Please show support for their work and these values by liking and sharing [their
 [\#WeBelieveInLove](https://www.facebook.com/hashtag/webelieveinlove?hc_location=ufi)
 
 
-![Photo: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?hc_ref=ARSo3jyGYeiXaHeB-aoscWrzg0Y0aQgoTeqwbwvNdOrSvjejGA6V00Qn6tPeV73ILew&fref=nf)](assets/c7fbda54f7c1/1*KgfZiur4elBJ2BoCXut5Zw.jpeg)
+![Photo: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?hc_ref=ARSo3jyGYeiXaHeB-aoscWrzg0Y0aQgoTeqwbwvNdOrSvjejGA6V00Qn6tPeV73ILew&fref=nf)](../assets/c7fbda54f7c1/1*KgfZiur4elBJ2BoCXut5Zw.jpeg)
 
 Photo: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?hc_ref=ARSo3jyGYeiXaHeB-aoscWrzg0Y0aQgoTeqwbwvNdOrSvjejGA6V00Qn6tPeV73ILew&fref=nf)
 
@@ -160,13 +160,13 @@ Additionally, [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?hc
 [Ongoing food strike in Moria](https://www.facebook.com/advocatesabroad/posts/653648061662265?hc_location=ufi) due to bad food, something that is repeating itself time after time\.
 
 
-![Photo: Anonymous, through [Advocates Abroad](https://www.facebook.com/advocatesabroad/?hc_ref=ARRs8sd_cVUzm-lh2py1Ch4kFmW0OnJRGCanYY36N7YTxYRKv1GcqCsY08JvDO8vBRk&fref=nf)](assets/c7fbda54f7c1/1*_eaAf6capYUC3s3d_mgDXQ.jpeg)
+![Photo: Anonymous, through [Advocates Abroad](https://www.facebook.com/advocatesabroad/?hc_ref=ARRs8sd_cVUzm-lh2py1Ch4kFmW0OnJRGCanYY36N7YTxYRKv1GcqCsY08JvDO8vBRk&fref=nf)](../assets/c7fbda54f7c1/1*_eaAf6capYUC3s3d_mgDXQ.jpeg)
 
 Photo: Anonymous, through [Advocates Abroad](https://www.facebook.com/advocatesabroad/?hc_ref=ARRs8sd_cVUzm-lh2py1Ch4kFmW0OnJRGCanYY36N7YTxYRKv1GcqCsY08JvDO8vBRk&fref=nf)
 #### Samos
 
 
-![](assets/c7fbda54f7c1/1*nsYy8AjIw1kbG1bf0xpyew.png)
+![](../assets/c7fbda54f7c1/1*nsYy8AjIw1kbG1bf0xpyew.png)
 
 
 [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?hc_ref=ARSo3jyGYeiXaHeB-aoscWrzg0Y0aQgoTeqwbwvNdOrSvjejGA6V00Qn6tPeV73ILew&fref=nf) also reported about a boat that was in distress between Chios and Samos\. The Hellenic Coast Guard was notified and later the boat was transferred to Samos\. 47 people were onboard\.
@@ -180,11 +180,11 @@ Tuesday night, when the [**No Name Kitchen**](https://www.facebook.com/NoNameKit
 The violence reports are only increasing, just as it previously has done in other locations, one of the reasons for this new route\. As stated in this article, the [EU looks the other way](https://jacobinmag.com/2018/07/eu-migrants-refugees-balkan-route-frontex-dublin-schengen) , at the same time as smugglers and borders are becoming increasingly dangerous and difficult to cross for those trying\.
 
 
-![](assets/c7fbda54f7c1/1*29zmxp6osD8NyFDH3XDtIQ.jpeg)
+![](../assets/c7fbda54f7c1/1*29zmxp6osD8NyFDH3XDtIQ.jpeg)
 
 
 
-![Photo: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?hc_ref=ARQ8fvDdZoEyKzDX-CKFtgs8-H2gt9L8PtxD6avanbKM10qMRWa6UrlV_ZEX8F3etqU&fref=nf)](assets/c7fbda54f7c1/1*PYZ3Q8fLERNfTETK5dyY4w.jpeg)
+![Photo: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?hc_ref=ARQ8fvDdZoEyKzDX-CKFtgs8-H2gt9L8PtxD6avanbKM10qMRWa6UrlV_ZEX8F3etqU&fref=nf)](../assets/c7fbda54f7c1/1*PYZ3Q8fLERNfTETK5dyY4w.jpeg)
 
 Photo: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?hc_ref=ARQ8fvDdZoEyKzDX-CKFtgs8-H2gt9L8PtxD6avanbKM10qMRWa6UrlV_ZEX8F3etqU&fref=nf)
 ### FRANCE
@@ -192,11 +192,11 @@ Photo: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?hc_ref=
 [**Solidarité migrants Wilson**](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?hc_ref=ARTZ5Lcm8NoXmSdGDgogTwxZx8sRsVjXGxhdbv8mOqpZS2zjWLggey1HzOAtQ7z1kPA&fref=nf) said that today was an end of a chapter\. The municipality will resume their food distributions started last year, in cooperation with Aurora Association\. They welcome this mission, as they have done from the beginning, calling on the authorities to take their responsibility\. Regardless of that, a lot of work still needs to be done\. More information [here\.](https://www.facebook.com/permalink.php?story_fbid=952777678256338&id=598228360377940)
 
 
-![](assets/c7fbda54f7c1/1*guOcOFfLJRT1t-_XsPHRfA.jpeg)
+![](../assets/c7fbda54f7c1/1*guOcOFfLJRT1t-_XsPHRfA.jpeg)
 
 
 
-![Photo: [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?hc_ref=ARTZ5Lcm8NoXmSdGDgogTwxZx8sRsVjXGxhdbv8mOqpZS2zjWLggey1HzOAtQ7z1kPA&fref=nf)](assets/c7fbda54f7c1/1*5GLP6n85IABzj0sFu2oVJA.jpeg)
+![Photo: [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?hc_ref=ARTZ5Lcm8NoXmSdGDgogTwxZx8sRsVjXGxhdbv8mOqpZS2zjWLggey1HzOAtQ7z1kPA&fref=nf)](../assets/c7fbda54f7c1/1*5GLP6n85IABzj0sFu2oVJA.jpeg)
 
 Photo: [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?hc_ref=ARTZ5Lcm8NoXmSdGDgogTwxZx8sRsVjXGxhdbv8mOqpZS2zjWLggey1HzOAtQ7z1kPA&fref=nf)
 #### Reduced times for appeals
@@ -222,7 +222,7 @@ Fatemeh Khavari, the spokesperson for the stop\-deportations\-movement [Ung i Sv
 Moreover, on Monday it is one year since the start of [Ung i Sverige](https://www.facebook.com/ungisverige.nu/?hc_ref=ARSwLrBFCyDaEYtZjRg-y77pdpmwW67hHtdu6USoYQAUJJCX0_V94m4-JEMyvmvMmIc&fref=nf) , a unique movement in many ways: the peaceful and humble protests, the self\-organization and the determination\. It started with a huge sit\-in and continued for 58 days\. Now, on the 6th of August, a new strike with the same demand will start\. Stop all deportations to Afghanistan, and permanent residence permits for everyone who has been in the country for one year\.
 
 
-![](assets/c7fbda54f7c1/1*QyXQLBq8QLWtvzLVJVQobA.png)
+![](../assets/c7fbda54f7c1/1*QyXQLBq8QLWtvzLVJVQobA.png)
 
 
 [Five reasons](https://www.facebook.com/ungisverige.nu/photos/gm.663682983965345/2177579812487689/?type=3&theater) for this is stated in the photo below:

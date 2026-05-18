@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 8/8/22: 35 people in danger in the middle of the sea between Italy and Malta
+title: "AYS News Digest 8/8/22: 35 people in danger in the middle of the sea between Italy and Malta"
 author: Are You Syrious?
 date: 2022-08-09T11:25:50.692+0100
 last_modified_at: 2022-08-09T22:33:04.767+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,asylum-seekers,greece,refugee-camps,borders]
 description: No rescue operation has yet been launched by European authorities to help 35 people in distress // Six people died off Algerian coast //…
 image:
-  path: assets/e32b6ad16216/0*nJST6btdsDuw7oYp
+  path: ../assets/e32b6ad16216/0*nJST6btdsDuw7oYp
 ---
 
 ### AYS News Digest 8/8/22: 35 people in danger in the middle of the sea between Italy and Malta
 #### No rescue operation has yet been launched by European authorities to help 35 people in distress // Six people died off Algerian coast // Construction of closed camps on the Aegean islands // Group stuck on Evros river islet in need of urgent support // Extreme border violence and humiliation reported at the Hungary\-Serbia border // On how asylum seekers are at the heart of the far\-right campaign for the Italian elections // The story of Adnan Miakhel // and much more…
 
 
-![Overcrowding in Lampedusa’s refugee facility\. Photograph: Roberto Salomone/The Observer\. \(Source: The Guardian 7/8/2022\)](assets/e32b6ad16216/0*nJST6btdsDuw7oYp)
+![Overcrowding in Lampedusa’s refugee facility\. Photograph: Roberto Salomone/The Observer\. \(Source: The Guardian 7/8/2022\)](../assets/e32b6ad16216/0*nJST6btdsDuw7oYp)
 
 Overcrowding in Lampedusa’s refugee facility\. Photograph: Roberto Salomone/The Observer\. \(Source: The Guardian 7/8/2022\)
 #### FEATURE
@@ -35,7 +35,7 @@ After 24 hours [without any contact](https://twitter.com/alarm_phone/status/1556
 In previous days, [people rescued by Sea\-Eye](https://twitter.com/seaeyeorg/status/1555949403256545280) in Maltese SAR zone were left onboard the ship for several nights because Malta rejected the request for a safe harbour\.
 
 
-![People rescued by Sea\-eye waiting for a safe port\. [Credit: Martina Morini via Sea\-eye](https://twitter.com/seaeyeorg/status/1555949602842492928)](assets/e32b6ad16216/1*iZPcrMLHFqmni7LyCQJfhw.jpeg)
+![People rescued by Sea\-eye waiting for a safe port\. [Credit: Martina Morini via Sea\-eye](https://twitter.com/seaeyeorg/status/1555949602842492928)](../assets/e32b6ad16216/1*iZPcrMLHFqmni7LyCQJfhw.jpeg)
 
 People rescued by Sea\-eye waiting for a safe port\. [Credit: Martina Morini via Sea\-eye](https://twitter.com/seaeyeorg/status/1555949602842492928)
 
@@ -51,7 +51,7 @@ Many of the people risking their lives leave from North African coasts\. More th
 Tunisia is a major departure point for migrants trying to reach the EU, particularly Italy\. During the summer period, departures have increased and with them coast guard activities\. On July 18, the Tunisian National Coast Guard said it [had rescued 455 people](https://www.infomigrants.net/en/post/42008/tunisian-coast-guard-rescues-455-migrants) \.
 
 
-![Many people leave Tunisia from Zarzis, a town near the border with Libya\. The Tunisian maritime guard tries to prevent the boats from being reused by breaking them in half\. [Credit: Mehdi Chebil for InfoMigrants](https://www.infomigrants.net/fr/post/42128/plus-dun-millier-de-personnes-debarquent-en-italie-en-deux-jours)](assets/e32b6ad16216/1*VvHvi4Nmco47Ip_jFbfeTA.jpeg)
+![Many people leave Tunisia from Zarzis, a town near the border with Libya\. The Tunisian maritime guard tries to prevent the boats from being reused by breaking them in half\. [Credit: Mehdi Chebil for InfoMigrants](https://www.infomigrants.net/fr/post/42128/plus-dun-millier-de-personnes-debarquent-en-italie-en-deux-jours)](../assets/e32b6ad16216/1*VvHvi4Nmco47Ip_jFbfeTA.jpeg)
 
 Many people leave Tunisia from Zarzis, a town near the border with Libya\. The Tunisian maritime guard tries to prevent the boats from being reused by breaking them in half\. [Credit: Mehdi Chebil for InfoMigrants](https://www.infomigrants.net/fr/post/42128/plus-dun-millier-de-personnes-debarquent-en-italie-en-deux-jours)
 
@@ -88,7 +88,7 @@ Nevetherless, with all this security and technology, basic needs are often not b
 You can watch the full interview here:
 
 
-[![Surveillance & securitization in EU-funded refugee camps | Journalist Lydia Emmanouilidou](assets/e32b6ad16216/07e4_hqdefault.jpg "Surveillance & securitization in EU-funded refugee camps | Journalist Lydia Emmanouilidou")](https://www.youtube.com/watch?v=q6IsZhle2sg)
+[![Surveillance & securitization in EU-funded refugee camps | Journalist Lydia Emmanouilidou](../assets/e32b6ad16216/07e4_hqdefault.jpg "Surveillance & securitization in EU-funded refugee camps | Journalist Lydia Emmanouilidou")](https://www.youtube.com/watch?v=q6IsZhle2sg)
 
 
 In addition, a video has been published showing the Hellenic Coast Guard pushing back a boat into Turkish waters:
@@ -138,7 +138,7 @@ Since January 2021 MSF doctors have treated 423 individuals who have experienced
 Some individuals stated that their belongings have been stolen, and others were forced to strip naked, even in freezing temperatures\.
 
 
-![MSF workers standing by a barbed wire fence during a medical consultation of the MSF mobile clinic in Horgos 2 border crossing area in Serbia\. Serbia, July 2022\. \(Source: MSF, 4/8/2022\)](assets/e32b6ad16216/0*eql10aZUSl78_lcM.jpg)
+![MSF workers standing by a barbed wire fence during a medical consultation of the MSF mobile clinic in Horgos 2 border crossing area in Serbia\. Serbia, July 2022\. \(Source: MSF, 4/8/2022\)](../assets/e32b6ad16216/0*eql10aZUSl78_lcM.jpg)
 
 MSF workers standing by a barbed wire fence during a medical consultation of the MSF mobile clinic in Horgos 2 border crossing area in Serbia\. Serbia, July 2022\. \(Source: MSF, 4/8/2022\)
 
@@ -151,7 +151,7 @@ MSF workers standing by a barbed wire fence during a medical consultation of the
 [InfoMigrants](https://www.infomigrants.net/en/post/42453/hungarian-police-blame-fatal-car-crash-on-migrant-smuggler) reports that the identities of the individuals injured are still unknown, but the accused was a Georgian national who was allegedly attempting to transport the group of 15 across the country\.
 
 
-![Source: InfoMigrants, 8/8/2022](assets/e32b6ad16216/0*h7Ym1ffuOS-ZoMOj.jpeg)
+![Source: InfoMigrants, 8/8/2022](../assets/e32b6ad16216/0*h7Ym1ffuOS-ZoMOj.jpeg)
 
 Source: InfoMigrants, 8/8/2022
 #### CROATIA
@@ -213,7 +213,7 @@ However, the criminalisation and rejection of asylum seekers heightened in the m
 ### German government abandons Afghans facing evacuation difficulties
 
 
-![_People evacuated from Afghanistan\. [Credit: Marc Tessensohn/Bundeswehr/picture alliance via Info migrants](https://www.infomigrants.net/en/post/42431/taliban-blocking-afghan-evacuations-to-germany-report?fbclid=IwAR0Dt3wlY3Yyp3MXKcrVoKAHJk-sZSD_080bKEPcGCS2D2qoqybxuQsaPyo)_](assets/e32b6ad16216/1*Km_99heyS5TuKN_0GiUTAQ.jpeg)
+![_People evacuated from Afghanistan\. [Credit: Marc Tessensohn/Bundeswehr/picture alliance via Info migrants](https://www.infomigrants.net/en/post/42431/taliban-blocking-afghan-evacuations-to-germany-report?fbclid=IwAR0Dt3wlY3Yyp3MXKcrVoKAHJk-sZSD_080bKEPcGCS2D2qoqybxuQsaPyo)_](../assets/e32b6ad16216/1*Km_99heyS5TuKN_0GiUTAQ.jpeg)
 
 _People evacuated from Afghanistan\. [Credit: Marc Tessensohn/Bundeswehr/picture alliance via Info migrants](https://www.infomigrants.net/en/post/42431/taliban-blocking-afghan-evacuations-to-germany-report?fbclid=IwAR0Dt3wlY3Yyp3MXKcrVoKAHJk-sZSD_080bKEPcGCS2D2qoqybxuQsaPyo)_
 
@@ -257,7 +257,7 @@ InfoMigrants details his story and what he hopes to do now that he is in Germany
 He also describes his love of cricket, which has made him a local hero in the town he is currently living in\. Freddie Flintoff, a well known British cricketer, interviewed Adnan and pushed for his asylum claim to be approved by the Home Office\. Adnan is currently playing for Wigan Cricket Club and hopes to eventually play for England\.
 
 
-![](assets/e32b6ad16216/0*s9TZArn4zh9YjPfX)
+![](../assets/e32b6ad16216/0*s9TZArn4zh9YjPfX)
 
 #### FURTHER RESOURCES:
 - The New Humanitarian covers the devastating impacts of drought in parts of Somalia, Ethiopia, and Kenya\. Guyo Malicha discusses the failures in responding to the drought, the mechanisms that could aid in the response, the impacts on affected communities, and future predictions:

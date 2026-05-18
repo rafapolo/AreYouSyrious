@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,france,asylum-seekers,kos]
 description: France deports a refugee in great danger of being prosecuted in Sudan / French volunteers providing meals to refugees despite Mayor’s ban /…
 image:
-  path: assets/a487b0613623/1*Pd9169Ai9pcxb316xE3_PQ.jpeg
+  path: ../assets/a487b0613623/1*Pd9169Ai9pcxb316xE3_PQ.jpeg
 ---
 
 ### AYS DAILY DIGEST 17\.3\.2017\. — Deporting refugees at risk of death penalty or torture
@@ -15,7 +15,7 @@ image:
 _France deports a refugee in great danger of being prosecuted in Sudan / French volunteers providing meals to refugees despite Mayor’s ban / First anniversary of the controversial EU — TURKEY deal / Worrying report from hot spot in Kos /Serbia government does not intend to increase its capacity to accommodate migrants / The Hungarian President has signed the new law detaining all asylum seekers in the transit zones_
 
 
-![Chios island, Greece, almost one year after the EU’s deal with Turkey to stop asylum seekers from reaching Europe\. Photo by Matthew Cassel NRC](assets/a487b0613623/1*Pd9169Ai9pcxb316xE3_PQ.jpeg)
+![Chios island, Greece, almost one year after the EU’s deal with Turkey to stop asylum seekers from reaching Europe\. Photo by Matthew Cassel NRC](../assets/a487b0613623/1*Pd9169Ai9pcxb316xE3_PQ.jpeg)
 
 Chios island, Greece, almost one year after the EU’s deal with Turkey to stop asylum seekers from reaching Europe\. Photo by Matthew Cassel NRC
 #### Feature: By deporting Mohamed, France has failed to keep its word
@@ -84,7 +84,7 @@ Lastly, but most importantly, People’s Assembley Lesvos issued an **open lette
 
 
 
-![photo by NoBorders, see more [here](https://www.facebook.com/nobordersnetwork/posts/1332532113481344)](assets/a487b0613623/1*V5V_2jKYC6Hv5PCUpivQiQ.jpeg)
+![photo by NoBorders, see more [here](https://www.facebook.com/nobordersnetwork/posts/1332532113481344)](../assets/a487b0613623/1*V5V_2jKYC6Hv5PCUpivQiQ.jpeg)
 
 photo by NoBorders, see more [here](https://www.facebook.com/nobordersnetwork/posts/1332532113481344)
 #### GREECE
@@ -116,14 +116,14 @@ On Sunday, March 19th, the Attica Regional Asylum Office will open from 08\.00 t
 The Preremoval Centre on Kos will be ready on Monday and can hold up to 150 people\. The Annex area outside the Hot Spot, where mostly Pakstanis used to live \(more than 200\), is now gone and all the tents have been taken down\. Some people went inside the Hot Spot and the rest ran away for fear of been detained\. There are reports of people sleeping in town, a volunteer reports\.
 
 
-![Annex, make shift camps near hots spot, where more than 200 people spent winter\. Photo AYS](assets/a487b0613623/1*Hp40JPEJ5NhmnU0XP66_YQ.jpeg)
+![Annex, make shift camps near hots spot, where more than 200 people spent winter\. Photo AYS](../assets/a487b0613623/1*Hp40JPEJ5NhmnU0XP66_YQ.jpeg)
 
 Annex, make shift camps near hots spot, where more than 200 people spent winter\. Photo AYS
 
 The people who were taken to the hot spot have been placed in closed containers, 6 to 13 in each\. The living conditions are better than under tents in the makeshift camp, since they have running water, toilets and heating, but their freedom of movement is limited\. Additionally, police are guarding this area, and some of the officers are very hostile toward migrants\. There are reports of fights inside these containers, but the police is doing nothing to prevent or stop the violence\.
 
 
-![People from the annex are now moved to the closed containers\. Photo AYS](assets/a487b0613623/1*zLHTVgqSgv86EYfTEVQSYw.jpeg)
+![People from the annex are now moved to the closed containers\. Photo AYS](../assets/a487b0613623/1*zLHTVgqSgv86EYfTEVQSYw.jpeg)
 
 People from the annex are now moved to the closed containers\. Photo AYS
 
@@ -132,7 +132,7 @@ More people are applying for so called voluntary return, which is administered b
 **Tomorrow, Saturday 18 from 3PM to 7PM** — [March against Fascism, Racism, Austerity and the EU — Turkey deal](https://www.facebook.com/events/364263960626344/) : One year after the signature of the EU\-Turkey deal, City Plaza is calling for a European mobilization against the agreement and for a protest against racism towards refugees and immigrants\. Many organisations throughout Europe have answered the call and most of these events can be found on this [map](https://www.google.com/maps/d/u/0/viewer?mid=1clpJX1_iDx-Gici5cfdLFZcLuvU&ll=43.35453150000002%2C-2.670948400000043&z=8) \.
 
 
-![The residents and solidarity people of [CityPlaza](https://www.facebook.com/hashtag/cityplaza) all together will start at 2p\.m\. from Acharnon 78, and will join the big demonstration at 3pm in Omonoia sq\. You are all welcome to join us\! \! \! — write the City Plaza team](assets/a487b0613623/1*SUV8mwj2lCNkLJtC0mHEcA.jpeg)
+![The residents and solidarity people of [CityPlaza](https://www.facebook.com/hashtag/cityplaza) all together will start at 2p\.m\. from Acharnon 78, and will join the big demonstration at 3pm in Omonoia sq\. You are all welcome to join us\! \! \! — write the City Plaza team](../assets/a487b0613623/1*SUV8mwj2lCNkLJtC0mHEcA.jpeg)
 
 The residents and solidarity people of [CityPlaza](https://www.facebook.com/hashtag/cityplaza) all together will start at 2p\.m\. from Acharnon 78, and will join the big demonstration at 3pm in Omonoia sq\. You are all welcome to join us\! \! \! — write the City Plaza team
 
@@ -164,11 +164,11 @@ The other person mentioned on the Generosity page, Yamen A\. is already out of p
 Activists distributed flyers, posters and stickers calling for more humane asylum policies in Vienna\.
 
 
-![](assets/a487b0613623/1*jz0PQuUihEWQaBhEXX5XfQ.jpeg)
+![](../assets/a487b0613623/1*jz0PQuUihEWQaBhEXX5XfQ.jpeg)
 
 
 
-![photos by [**Plattform für eine menschliche Asylpolitik**](https://www.facebook.com/menschliche.asylpolitik/)](assets/a487b0613623/1*yM8KifdVw583f26Jj9JmhQ.jpeg)
+![photos by [**Plattform für eine menschliche Asylpolitik**](https://www.facebook.com/menschliche.asylpolitik/)](../assets/a487b0613623/1*yM8KifdVw583f26Jj9JmhQ.jpeg)
 
 photos by [**Plattform für eine menschliche Asylpolitik**](https://www.facebook.com/menschliche.asylpolitik/)
 #### FRANCE
@@ -179,7 +179,7 @@ Despite being banned from handing out food in certain areas of Calais, teams con
 Since Monday teams in Calais have been distributing food for the first time since the camp closure last November\. The Mayor of Calais has banned distribution in a large area surrounding the former ‘Jungle’ site and in the Place d’Armes, in the centre of town\.
 
 
-![Food distribution, photo by HelpRefugees](assets/a487b0613623/1*DPbalkq3t0XuwcuNLSnICw.jpeg)
+![Food distribution, photo by HelpRefugees](../assets/a487b0613623/1*DPbalkq3t0XuwcuNLSnICw.jpeg)
 
 Food distribution, photo by HelpRefugees
 

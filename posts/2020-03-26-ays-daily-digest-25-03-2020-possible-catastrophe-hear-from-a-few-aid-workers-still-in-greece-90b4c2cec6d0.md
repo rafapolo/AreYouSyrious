@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 25/03/2020 Possible catastrophe: Hear from a few aid workers still in Greece
+title: "AYS Daily Digest 25/03/2020 Possible catastrophe: Hear from a few aid workers still in Greece"
 author: Are You Syrious?
 date: 2020-03-26T04:39:24.635+0000
 last_modified_at: 2020-03-26T11:17:43.583+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,greece,covid-19,refugees,human-rights]
 description: Swedish Lawyers worry about outbreak for refugees // hunger strike in Italy ongoing // donate for emergency medical building in Lesvos //…
 image:
-  path: assets/90b4c2cec6d0/1*BsfolFlu8Mas41dNozUrHw.jpeg
+  path: ../assets/90b4c2cec6d0/1*BsfolFlu8Mas41dNozUrHw.jpeg
 ---
 
 ### AYS Daily Digest 25/03/20: Possible catastrophe: Hear from a few aid workers still in Greece
 #### _Swedish lawyers worry about outbreak for refugees // Hunger strike in Italy ongoing // Donate for emergency medical building in Lesvos // Far right trying to deny healthcare to refugees in Spain during pandemic // and more…_
 
 
-![“This message is for everyone raising awareness for refugees around the world, working on the ground, donating or simply spreading the Hashtag \#LeaveNoOneBehind\. A woman living in \#Moria Camp on \#Lesvos sent it to me today” Photo by [Raphael Knipping](https://twitter.com/RaphaelKnipping/status/1242911462403817473)](assets/90b4c2cec6d0/1*w-jBPj_3lk1MLcqyv_Sqqw.jpeg)
+![“This message is for everyone raising awareness for refugees around the world, working on the ground, donating or simply spreading the Hashtag \#LeaveNoOneBehind\. A woman living in \#Moria Camp on \#Lesvos sent it to me today” Photo by [Raphael Knipping](https://twitter.com/RaphaelKnipping/status/1242911462403817473)](../assets/90b4c2cec6d0/1*w-jBPj_3lk1MLcqyv_Sqqw.jpeg)
 
 “This message is for everyone raising awareness for refugees around the world, working on the ground, donating or simply spreading the Hashtag \#LeaveNoOneBehind\. A woman living in \#Moria Camp on \#Lesvos sent it to me today” Photo by [Raphael Knipping](https://twitter.com/RaphaelKnipping/status/1242911462403817473)
 ### FEATURE: Many humanitarian aid workers on the islands have had to leave because of the pandemic and legal situation in Greece, leaving a deepening shortage of volunteers\.
@@ -90,13 +90,13 @@ People are stuck in Pazarkule and not allowed to exit the jungle due to Corona a
 #### LIBYA
 
 
-![“Receiving Desperate Messages from \#Zawiyah ‘official’ \#detention centre: “We don’t have food, water\. We are really suffering by starvation\. We have patients, they take medicine for \#TB\. If they don’t got enough food they don’t tolerate the medicine\.” This is the food they are forced to share among six persons\. The \#EU\-funded Libyan \#police\-traffickers are still \#torturing migrants in the other hangar whose families cannot pay the ransom money\. In the meantime \#refugees \#homeless in \#Tripoli are exposed to daily violence, robberies, kidnapping, hunger and a lack of sanitation\. After the first case of \#Covid19 in Libya was confirmed yesterday, vulnerable migrants and refugees, whether detained or homeless in Tripoli, have been abandoned and are vulnerable to high risks of infection and illness\.” Photo and message by [Giulia Tranchina](https://www.facebook.com/photo.php?fbid=10157494854958621&set=a.10150438475713621&type=3&theater)](assets/90b4c2cec6d0/1*tpCBgbDJ7kORpkbptnRIdA.jpeg)
+![“Receiving Desperate Messages from \#Zawiyah ‘official’ \#detention centre: “We don’t have food, water\. We are really suffering by starvation\. We have patients, they take medicine for \#TB\. If they don’t got enough food they don’t tolerate the medicine\.” This is the food they are forced to share among six persons\. The \#EU\-funded Libyan \#police\-traffickers are still \#torturing migrants in the other hangar whose families cannot pay the ransom money\. In the meantime \#refugees \#homeless in \#Tripoli are exposed to daily violence, robberies, kidnapping, hunger and a lack of sanitation\. After the first case of \#Covid19 in Libya was confirmed yesterday, vulnerable migrants and refugees, whether detained or homeless in Tripoli, have been abandoned and are vulnerable to high risks of infection and illness\.” Photo and message by [Giulia Tranchina](https://www.facebook.com/photo.php?fbid=10157494854958621&set=a.10150438475713621&type=3&theater)](../assets/90b4c2cec6d0/1*tpCBgbDJ7kORpkbptnRIdA.jpeg)
 
 “Receiving Desperate Messages from \#Zawiyah ‘official’ \#detention centre: “We don’t have food, water\. We are really suffering by starvation\. We have patients, they take medicine for \#TB\. If they don’t got enough food they don’t tolerate the medicine\.” This is the food they are forced to share among six persons\. The \#EU\-funded Libyan \#police\-traffickers are still \#torturing migrants in the other hangar whose families cannot pay the ransom money\. In the meantime \#refugees \#homeless in \#Tripoli are exposed to daily violence, robberies, kidnapping, hunger and a lack of sanitation\. After the first case of \#Covid19 in Libya was confirmed yesterday, vulnerable migrants and refugees, whether detained or homeless in Tripoli, have been abandoned and are vulnerable to high risks of infection and illness\.” Photo and message by [Giulia Tranchina](https://www.facebook.com/photo.php?fbid=10157494854958621&set=a.10150438475713621&type=3&theater)
 #### GREECE
 
 
-![Photo by [LOUISA GOULIAMAKI / AFP](https://www.spiegel.de/politik/ausland/corona-angst-auf-lesbos-die-kinder-fragen-ob-sie-an-dem-virus-sterben-werden-a-104f11f4-6be8-4632-a504-c081a0de6f86?fbclid=IwAR04tpU9pykKlS8tTzShlY5xnCwLh4BDhT0Hv67Ws8wOm1oHaFEnLp-ISk0)](assets/90b4c2cec6d0/1*opa2e4gPq__u_y1pBGvYOQ.jpeg)
+![Photo by [LOUISA GOULIAMAKI / AFP](https://www.spiegel.de/politik/ausland/corona-angst-auf-lesbos-die-kinder-fragen-ob-sie-an-dem-virus-sterben-werden-a-104f11f4-6be8-4632-a504-c081a0de6f86?fbclid=IwAR04tpU9pykKlS8tTzShlY5xnCwLh4BDhT0Hv67Ws8wOm1oHaFEnLp-ISk0)](../assets/90b4c2cec6d0/1*opa2e4gPq__u_y1pBGvYOQ.jpeg)
 
 Photo by [LOUISA GOULIAMAKI / AFP](https://www.spiegel.de/politik/ausland/corona-angst-auf-lesbos-die-kinder-fragen-ob-sie-an-dem-virus-sterben-werden-a-104f11f4-6be8-4632-a504-c081a0de6f86?fbclid=IwAR04tpU9pykKlS8tTzShlY5xnCwLh4BDhT0Hv67Ws8wOm1oHaFEnLp-ISk0)
 ### Call for volunteers still in Greece from NoNameKitchen\!
@@ -123,7 +123,7 @@ Photo by [LOUISA GOULIAMAKI / AFP](https://www.spiegel.de/politik/ausland/corona
 
 
 
-![Photo by [R4R](https://www.gofundme.com/f/support-r4r039s-covid19-emergency-response)](assets/90b4c2cec6d0/1*tAeJvb-lzF1xopRev_-52g.jpeg)
+![Photo by [R4R](https://www.gofundme.com/f/support-r4r039s-covid19-emergency-response)](../assets/90b4c2cec6d0/1*tAeJvb-lzF1xopRev_-52g.jpeg)
 
 Photo by [R4R](https://www.gofundme.com/f/support-r4r039s-covid19-emergency-response)
 ### Help support Refugee 4 Refugees is preparing for an outbreak of COVID\-19 on Lesvos and Samos\. They are building:
@@ -141,12 +141,12 @@ Photo by [R4R](https://www.gofundme.com/f/support-r4r039s-covid19-emergency-resp
 ### Some Moria Updates
 
 
-![](assets/90b4c2cec6d0/1*BsfolFlu8Mas41dNozUrHw.jpeg)
+![](../assets/90b4c2cec6d0/1*BsfolFlu8Mas41dNozUrHw.jpeg)
 
 
 
 ![“Yesterday we discussed what to do with three Greek people who have come down with the coronavirus on the island,,\. \. And what we can do to remain safe from the coronavirus\. And with Stand By Me Lesvos we ask for posters to stay in your tents and get some posters for us yesterday…… We thank our Iranian and Syrian and Belgian and German friends, and friends from all of the world for helping us make these posters very quickly\. We thank everyone for supporting us fighting the coronavirus\. We are very hopeful that this will make a difference,\. \.and that we remain safe from the virus…Today we started hanging up posters that people need to stay in camp\. They are written in Arabic, Farsi English, and also French\! \! Please stay in tents because overcrowding is the most problem with Moria and the coronavirus
-Please stay in the camp\! Please limit your movement in Moria community…\.MCAT is here to help you\!” Photos by [Muhannad Al\-Mandeel](https://www.facebook.com/MoriaCoronaAwarenessTeam/posts/116387123323800?hc_location=ufi)](assets/90b4c2cec6d0/1*EZ89Zub7EfktX8C8Q3JcMw.jpeg)
+Please stay in the camp\! Please limit your movement in Moria community…\.MCAT is here to help you\!” Photos by [Muhannad Al\-Mandeel](https://www.facebook.com/MoriaCoronaAwarenessTeam/posts/116387123323800?hc_location=ufi)](../assets/90b4c2cec6d0/1*EZ89Zub7EfktX8C8Q3JcMw.jpeg)
 
 “Yesterday we discussed what to do with three Greek people who have come down with the coronavirus on the island,,\. \. And what we can do to remain safe from the coronavirus\. And with Stand By Me Lesvos we ask for posters to stay in your tents and get some posters for us yesterday…… We thank our Iranian and Syrian and Belgian and German friends, and friends from all of the world for helping us make these posters very quickly\. We thank everyone for supporting us fighting the coronavirus\. We are very hopeful that this will make a difference,\. \.and that we remain safe from the virus…Today we started hanging up posters that people need to stay in camp\. They are written in Arabic, Farsi English, and also French\! \! Please stay in tents because overcrowding is the most problem with Moria and the coronavirus
 Please stay in the camp\! Please limit your movement in Moria community…\.MCAT is here to help you\!” Photos by [Muhannad Al\-Mandeel](https://www.facebook.com/MoriaCoronaAwarenessTeam/posts/116387123323800?hc_location=ufi)
@@ -161,15 +161,15 @@ Please stay in the camp\! Please limit your movement in Moria community…\.MCAT
 
 
 
-![](assets/90b4c2cec6d0/1*Bo4Zfy-yuy18wbIZ5ocTIw.jpeg)
+![](../assets/90b4c2cec6d0/1*Bo4Zfy-yuy18wbIZ5ocTIw.jpeg)
 
 
 
-![](assets/90b4c2cec6d0/1*ljqhgbaf-qhGmEhcUqUIqw.jpeg)
+![](../assets/90b4c2cec6d0/1*ljqhgbaf-qhGmEhcUqUIqw.jpeg)
 
 
 
-![“Photos from the Moria Corona Awareness Team, people today in an effort to protect their community & clean the most dirty concentration camp in history, not just in terms of garbage, but mostly ’because of lack of political consciousness” Photos by [NoBorders](https://twitter.com/Refugees_Gr/status/1242925040016003083)](assets/90b4c2cec6d0/1*3KOiAZpNbojAV0BXkee7XQ.jpeg)
+![“Photos from the Moria Corona Awareness Team, people today in an effort to protect their community & clean the most dirty concentration camp in history, not just in terms of garbage, but mostly ’because of lack of political consciousness” Photos by [NoBorders](https://twitter.com/Refugees_Gr/status/1242925040016003083)](../assets/90b4c2cec6d0/1*3KOiAZpNbojAV0BXkee7XQ.jpeg)
 
 “Photos from the Moria Corona Awareness Team, people today in an effort to protect their community & clean the most dirty concentration camp in history, not just in terms of garbage, but mostly ’because of lack of political consciousness” Photos by [NoBorders](https://twitter.com/Refugees_Gr/status/1242925040016003083)
 

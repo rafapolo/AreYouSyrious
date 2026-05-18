@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 28/8: Food urgently needed in Dunkirk
+title: "AYS DAILY DIGEST 28/8: Food urgently needed in Dunkirk"
 author: Are You Syrious?
 date: 2016-08-28T22:22:08.294+0100
 last_modified_at: 2016-08-28T22:22:08.294+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,msf,dunkirk,calais]
 description: Thousands of people forgotten between closed borders. We bring you MSF report from Syrian-Jordan border and a volunteer report about…
 image:
-  path: assets/f6effdd48101/1*wfNl_0gmQYTKZoi2livAuw.jpeg
+  path: ../assets/f6effdd48101/1*wfNl_0gmQYTKZoi2livAuw.jpeg
 ---
 
 ### AYS DAILY DIGEST 28/8: Food urgently needed in Dunkirk
@@ -15,7 +15,7 @@ image:
 _Thousands of people forgotten between closed borders\. We bring you MSF report from Syrian\-Jordan border and a volunteer report about refugees in Izmir\. Over 720 people rescued in Mediterranean\. Over 60 news arrivals to Greece\. Health hazard in Elliniko\. Urgent calls from help in camps in France\._
 
 
-![Curt Salvador Soy: “For four times she left and she came back, every time she is back a lot of kids around her calling her “My friend “ always laughing, entertaining, helping and trying to spend the best time with refugees… You’re one of the real volunteers and we would love to say thanks for all of you\.” By [Through Refugee Eye](https://www.facebook.com/throughrefugeeeyes/photos/a.267469110309533.1073741828.266986607024450/318376651885445/?type=3&theater) s\.](assets/f6effdd48101/1*wfNl_0gmQYTKZoi2livAuw.jpeg)
+![Curt Salvador Soy: “For four times she left and she came back, every time she is back a lot of kids around her calling her “My friend “ always laughing, entertaining, helping and trying to spend the best time with refugees… You’re one of the real volunteers and we would love to say thanks for all of you\.” By [Through Refugee Eye](https://www.facebook.com/throughrefugeeeyes/photos/a.267469110309533.1073741828.266986607024450/318376651885445/?type=3&theater) s\.](../assets/f6effdd48101/1*wfNl_0gmQYTKZoi2livAuw.jpeg)
 
 Curt Salvador Soy: “For four times she left and she came back, every time she is back a lot of kids around her calling her “My friend “ always laughing, entertaining, helping and trying to spend the best time with refugees… You’re one of the real volunteers and we would love to say thanks for all of you\.” By [Through Refugee Eye](https://www.facebook.com/throughrefugeeeyes/photos/a.267469110309533.1073741828.266986607024450/318376651885445/?type=3&theater) s\.
 ### Jordan
@@ -24,7 +24,7 @@ Curt Salvador Soy: “For four times she left and she came back, every time she 
 Medical Sans Frontiers \(MSF\) team is helping people stranded at the Jordan\-Syria border where over 75\.000 people are stacked for two months in inhumane conditions\. In this short video, medical team leader explains the situation at the border\.
 
 
-[![The Berm | Two months on for the 75,000 trapped without aid](assets/f6effdd48101/f705_hqdefault.jpg "The Berm | Two months on for the 75,000 trapped without aid")](http://www.youtube.com/watch?v=D4MwBKTOgsQ)
+[![The Berm | Two months on for the 75,000 trapped without aid](../assets/f6effdd48101/f705_hqdefault.jpg "The Berm | Two months on for the 75,000 trapped without aid")](http://www.youtube.com/watch?v=D4MwBKTOgsQ)
 
 ### Turkey
 #### Dreadful conditions in Torbali camp
@@ -32,11 +32,11 @@ Medical Sans Frontiers \(MSF\) team is helping people stranded at the Jordan\-Sy
 Western media do not report much about the conditions in which refugees are living in Turkey, too\. Volunteers are claiming the situation is terrible\. Achilles M\. Peklaris in Torbali, Izmir, brings some of the pictures from this forgotten place\.
 
 
-![](assets/f6effdd48101/1*mCSz_Xd3yOIImaFGHVB5EQ.jpeg)
+![](../assets/f6effdd48101/1*mCSz_Xd3yOIImaFGHVB5EQ.jpeg)
 
 
 
-![By Achilles M\. Peklaris](assets/f6effdd48101/1*gXArfDS9Dt15GhlAfrN9eA.jpeg)
+![By Achilles M\. Peklaris](../assets/f6effdd48101/1*gXArfDS9Dt15GhlAfrN9eA.jpeg)
 
 By Achilles M\. Peklaris
 #### Products made with love and care
@@ -44,7 +44,7 @@ By Achilles M\. Peklaris
 For several months, the group of Syrian families in Izmir are making products and selling them online in order to make the living for themselves\. [Visit their page](http://revistore.org) and consider supporting them\. They promise, all products are made with love\.
 
 
-![Photo by ReVi](assets/f6effdd48101/1*4O-b4Inshy6snhr1EF7oXA.jpeg)
+![Photo by ReVi](../assets/f6effdd48101/1*4O-b4Inshy6snhr1EF7oXA.jpeg)
 
 Photo by ReVi
 #### Help for Syrian kids to go to school
@@ -62,7 +62,7 @@ According to [recent Council of Europe](https://search.coe.int/cm/Pages/result_d
 Proactiva Open Arms helped today in a rescue of over 720 people who were found on seven boats in the sea\.
 
 
-![By Proactiva Open Arms\.](assets/f6effdd48101/1*EMJcw3dO1DLIBWoYmD8OoA.jpeg)
+![By Proactiva Open Arms\.](../assets/f6effdd48101/1*EMJcw3dO1DLIBWoYmD8OoA.jpeg)
 
 By Proactiva Open Arms\.
 ### Greece
@@ -94,19 +94,19 @@ Good news from Pikpa where first vegetable was picked up from their garden\. Abo
 
 
 
-![](assets/f6effdd48101/1*G94Yd0Pr0Mvpc24UyddUig.jpeg)
+![](../assets/f6effdd48101/1*G94Yd0Pr0Mvpc24UyddUig.jpeg)
 
 
 
-![](assets/f6effdd48101/1*dIbYQhwNgrasL1vzmlAQXg.jpeg)
+![](../assets/f6effdd48101/1*dIbYQhwNgrasL1vzmlAQXg.jpeg)
 
 
 
-![](assets/f6effdd48101/1*FV_VnQ9i4t_mkxdxwn4ayA.jpeg)
+![](../assets/f6effdd48101/1*FV_VnQ9i4t_mkxdxwn4ayA.jpeg)
 
 
 
-![Photos from Pikpa Garden\.](assets/f6effdd48101/1*bpZmr18WXb9_NSKbeM177g.jpeg)
+![Photos from Pikpa Garden\.](../assets/f6effdd48101/1*bpZmr18WXb9_NSKbeM177g.jpeg)
 
 Photos from Pikpa Garden\.
 ### CALLS FOR HELP
@@ -122,7 +122,7 @@ Our friend [Rando Wagner](https://www.facebook.com/rando.wagner) s busy at the s
 If you want to join Rando or learn more about locations where to find people in Athens, contact him directly\.
 
 
-![Photo by Rando Wagner\.](assets/f6effdd48101/1*vcINd4iYE89YBTuUP5DmFA.jpeg)
+![Photo by Rando Wagner\.](../assets/f6effdd48101/1*vcINd4iYE89YBTuUP5DmFA.jpeg)
 
 Photo by Rando Wagner\.
 
@@ -152,7 +152,7 @@ I’m Human Organization [IHO published their report](https://www.facebook.com/n
 On the same day when the head of Germany’s Federal Office for Migration and Refugees \(BAMF\) told that he expected a maximum of 300,000 refugees to arrive in Germany this year, members of the far\-right Identitarian Movement scaled Berlin’s Brandenburg Gate and unfurled a banner to protest against the “Islamisation” of Germany\. Around 15 of them got on the top of the Brandenburg Gate, and hung a banner calling for “secure borders — secure future” and waving flags bearing the Identitarian Movement’s black and yellow logo\.
 
 
-![Photo AYS\.](assets/f6effdd48101/1*AdpPr3414rhdsgWncU4ljg.jpeg)
+![Photo AYS\.](../assets/f6effdd48101/1*AdpPr3414rhdsgWncU4ljg.jpeg)
 
 Photo AYS\.
 

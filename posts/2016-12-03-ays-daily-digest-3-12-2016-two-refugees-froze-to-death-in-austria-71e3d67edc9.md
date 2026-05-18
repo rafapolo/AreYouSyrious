@@ -1,13 +1,13 @@
 ---
-title: AYS DAILY DIGEST 3/12/2016: Two refugees froze to death in Austria
+title: "AYS DAILY DIGEST 3/12/2016: Two refugees froze to death in Austria"
 author: Are You Syrious?
 date: 2016-12-03T22:35:41.616+0000
 last_modified_at: 2016-12-03T22:35:41.616+0000
 categories: 
 tags: [refugees,europe,msf,austria,refugees-in-eu]
-description: Another devastating day in Europe: people froze to death, die in the sea while trying to cross, deprived of freedom of movement, deprived…
+description: "Another devastating day in Europe: people froze to death, die in the sea while trying to cross, deprived of freedom of movement, deprived…"
 image:
-  path: assets/71e3d67edc9/1*j4XtP9oZfwS8hMcDb3KeCA.jpeg
+  path: ../assets/71e3d67edc9/1*j4XtP9oZfwS8hMcDb3KeCA.jpeg
 ---
 
 ### AYS DAILY DIGEST 3/12/2016: Two refugees froze to death in Austria
@@ -15,7 +15,7 @@ image:
 _Another devastating day in Europe: people froze to death, die in the sea while trying to cross, deprived of freedom of movement, deprived of freedom and basic human rights\. All this in Europe millions are dreaming about_
 
 
-![According to the MSF, 2016 was the deadliest year in the sea for people who are trying to cross and come to Europe\.](assets/71e3d67edc9/1*j4XtP9oZfwS8hMcDb3KeCA.jpeg)
+![According to the MSF, 2016 was the deadliest year in the sea for people who are trying to cross and come to Europe\.](../assets/71e3d67edc9/1*j4XtP9oZfwS8hMcDb3KeCA.jpeg)
 
 According to the MSF, 2016 was the deadliest year in the sea for people who are trying to cross and come to Europe\.
 ### FEATURE STORY
@@ -49,7 +49,7 @@ Out of total number of arrivals to Italy, 16 percent are kids, 88 percent are un
 [See our special report on situation in Italy](https://medium.com/@AreYouSyrious/ays-special-the-situation-in-italy-2d2fd1290add#.bzn6doep0) \.
 
 
-![](assets/71e3d67edc9/1*_46c-8_z21g3wH400t73oQ.jpeg)
+![](../assets/71e3d67edc9/1*_46c-8_z21g3wH400t73oQ.jpeg)
 
 
 Last night, boat Phoenix by [MOAS team](https://www.moas.eu) rescued a small wooden boat carrying 44 people, including 3 children\. Last night, around 130 people landed in Cagliari and on Sulcis’s coasts\.
@@ -169,7 +169,7 @@ Plan about increase security measures and limits on freedom of movement for refu
 Hundreds of people protested today in Budapest against Ahmed H\. conviction and for freedom of Roszke 11\.
 
 
-![Photo **by** Balazs Turay](assets/71e3d67edc9/1*BVzySi2bo-EfclXZeJwt5w.jpeg)
+![Photo **by** Balazs Turay](../assets/71e3d67edc9/1*BVzySi2bo-EfclXZeJwt5w.jpeg)
 
 Photo **by** Balazs Turay
 
@@ -228,7 +228,7 @@ To support the work they are doing [visit their site](https://mydonate.bt.com/ev
 [HPF urgently needs your help](https://www.facebook.com/healthpointfoundation/) to fill two ground staff vacancies\. Get in touch with them if you’d like to find out more or to help\.
 
 
-![](assets/71e3d67edc9/1*seUx_ffODpGW_kkc2VMtIQ.jpeg)
+![](../assets/71e3d67edc9/1*seUx_ffODpGW_kkc2VMtIQ.jpeg)
 
 
 

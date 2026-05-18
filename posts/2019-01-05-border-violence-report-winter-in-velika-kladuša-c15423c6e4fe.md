@@ -1,5 +1,5 @@
 ---
-title: Border violence report: Winter in Velika Kladuša
+title: "Border violence report: Winter in Velika Kladuša"
 author: Are You Syrious?
 date: 2019-01-05T12:07:38.462+0000
 last_modified_at: 2019-01-05T12:07:38.462+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,special,border-violance,bosnia,velika-kladusa]
 description: In December, No Name Kitchen and Balkan Info Van registered 23 violence reports. Most of the people were captured in Croatia and…
 image:
-  path: assets/c15423c6e4fe/1*EQhQvzTPW8jXtpDoGcqUeg.jpeg
+  path: ../assets/c15423c6e4fe/1*EQhQvzTPW8jXtpDoGcqUeg.jpeg
 ---
 
 ### Border violence report: Winter in Velika Kladuša
@@ -15,7 +15,7 @@ image:
 _In December, No Name Kitchen and Balkan Info Van registered 23 violence reports\. Most of the people were captured in Croatia and subsequently returned to Bosnia, but there are several reports about pushbacks from Slovenia, too\. Report also notices a new trends as emerging within the last month — the use of fires to burn the belongings of people on the move, increase in the number of reports of individuals having their shoes taken off by police officers during pushback, as well as reports about being pushed into frigid or icy water along the border\._
 
 
-![**A squat in Velika Kladusa\. By Angelica Sánchez\-Martinez**](assets/c15423c6e4fe/1*EQhQvzTPW8jXtpDoGcqUeg.jpeg)
+![**A squat in Velika Kladusa\. By Angelica Sánchez\-Martinez**](../assets/c15423c6e4fe/1*EQhQvzTPW8jXtpDoGcqUeg.jpeg)
 
 **A squat in Velika Kladusa\. By Angelica Sánchez\-Martinez**
 ### **_Miral Camp_**
@@ -25,7 +25,7 @@ On the 21th of November, representatives of the IOM and the UNHCR came to Trnovi
 On the 5th of December, the municipality gave the remaining residents of the camp 30 minutes to take their belongings and burned all of the items and structures which remained afterwords\.
 
 
-![**The clearing and dismantling of Trnovi camp on 5/12/18\. By Jack Sapoc** h](assets/c15423c6e4fe/1*YsyjXmllZRPg_3o4fC3o_w.jpeg)
+![**The clearing and dismantling of Trnovi camp on 5/12/18\. By Jack Sapoc** h](../assets/c15423c6e4fe/1*YsyjXmllZRPg_3o4fC3o_w.jpeg)
 
 **The clearing and dismantling of Trnovi camp on 5/12/18\. By Jack Sapoc** h
 
@@ -34,7 +34,7 @@ Miral camp itself is comprised of a former industrial storage building and a lar
 Food is provided there three times a day by the [Red Cross](https://www.ifrc.org/en/what-we-do/where-we-work/europe/red-cross-society-of-bosnia-and-herzegovina-/) in between 10\.00 am to 16\.00 pm\. Additionally, IOM is considering investing in a place for people to be able to cook their own food as the current supply does meet the quantity and quality desired by many\.
 
 
-![**A picture of the inside of Miral taken by a camp resident from Syria in late December**](assets/c15423c6e4fe/1*N-JkFb2yUfsxvkj7MAeaZQ.jpeg)
+![**A picture of the inside of Miral taken by a camp resident from Syria in late December**](../assets/c15423c6e4fe/1*N-JkFb2yUfsxvkj7MAeaZQ.jpeg)
 
 **A picture of the inside of Miral taken by a camp resident from Syria in late December**
 
@@ -46,7 +46,7 @@ In this context, approximately 100 refugees and migrants continue to live in Vel
 ### **_Winter_**
 
 
-![**Velika Kladuša covered in December’s snow\. By Jack Sapoch**](assets/c15423c6e4fe/1*qhb-1ipNhUeWVsRvwcjEiw.jpeg)
+![**Velika Kladuša covered in December’s snow\. By Jack Sapoch**](../assets/c15423c6e4fe/1*qhb-1ipNhUeWVsRvwcjEiw.jpeg)
 
 **Velika Kladuša covered in December’s snow\. By Jack Sapoch**
 
@@ -87,11 +87,11 @@ In the last month, the violent return and collective expulsion of asylum seekers
 We conducted 21 violence reports with groups of individuals who returned from the border\. These groups included Algerians, Moroccans, Pakistanis, Afghans, Syrians, Palestinians, Yemenis, Iraqis, Bangladeshis, and Egyptians\. Most were caught in Croatia and subsequently returned to Bosnia\. However, we also conducted three reports with groups who were apprehended in Slovenia and subsequently pushed back to Croatia and then Bosnia\.
 
 
-![](assets/c15423c6e4fe/1*sdhdvvLLTrAtEuLpbFjZXw.jpeg)
+![](../assets/c15423c6e4fe/1*sdhdvvLLTrAtEuLpbFjZXw.jpeg)
 
 
 
-![**Victimes of border violence, including minor whose arm was broken\.**](assets/c15423c6e4fe/1*Y2uiqYHePESMnUldbeyF9w.jpeg)
+![**Victimes of border violence, including minor whose arm was broken\.**](../assets/c15423c6e4fe/1*Y2uiqYHePESMnUldbeyF9w.jpeg)
 
 **Victimes of border violence, including minor whose arm was broken\.**
 
@@ -170,7 +170,7 @@ A final point of note of observation is that with the onset of subzero temperatu
 It has been observed that less groups are attempting to cross on foot the entire route towards Italy, while more are attempting to link up with human smugglers within the Croatian interior\. Still, border violence persists within this dynamic\.
 
 
-![**A man’s face marked by scratches which he attributed to a pushback outside of Velika Kladuša\. By Jack Sapoch**](assets/c15423c6e4fe/1*NNpTv4GAPjcAaNtSCEIgEg.jpeg)
+![**A man’s face marked by scratches which he attributed to a pushback outside of Velika Kladuša\. By Jack Sapoch**](../assets/c15423c6e4fe/1*NNpTv4GAPjcAaNtSCEIgEg.jpeg)
 
 **A man’s face marked by scratches which he attributed to a pushback outside of Velika Kladuša\. By Jack Sapoch**
 ### **_Border violence coverage elsewhere_**

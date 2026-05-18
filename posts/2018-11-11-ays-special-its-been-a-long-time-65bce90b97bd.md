@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: “It’s Been A Long Time.”
+title: "AYS SPECIAL: “It’s Been A Long Time.”"
 author: Are You Syrious?
 date: 2018-11-11T10:22:01.789+0000
 last_modified_at: 2018-11-11T10:22:01.789+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [calais,france,uk,dubs,refugees]
 description: The Calais Jungle, Two Years On
 image:
-  path: assets/65bce90b97bd/1*C49DLr08eAoiFqkus50qeg.jpeg
+  path: ../assets/65bce90b97bd/1*C49DLr08eAoiFqkus50qeg.jpeg
 ---
 
 ### AYS SPECIAL: “It’s Been A Long Time\.”
@@ -15,7 +15,7 @@ image:
 _The Calais Jungle, Two Years On_
 
 
-![The Jungle at sunset, one of the last evenings before evictions in 2016\.](assets/65bce90b97bd/1*C49DLr08eAoiFqkus50qeg.jpeg)
+![The Jungle at sunset, one of the last evenings before evictions in 2016\.](../assets/65bce90b97bd/1*C49DLr08eAoiFqkus50qeg.jpeg)
 
 The Jungle at sunset, one of the last evenings before evictions in 2016\.
 
@@ -36,7 +36,7 @@ The French government had other plans\.
 A year after the Jungle’s demise, another kitchen volunteer and I visited the boys in Le Mans\. One of our friends, Abdullah\*, had received asylum\. He was employed as an apple picker and had just moved into a new apartment almost entirely absent of furniture; we ate dinner sitting on the floor\. A local volunteer had given him a copy of Malala Yousafzai’s memoir, which he showed me alongside his new _carte de séjour_ \.
 
 
-![Hamada and a friend in Le Mans, November 2016\.](assets/65bce90b97bd/1*6nNSA2tRD7HyM4CeRGSEVw.jpeg)
+![Hamada and a friend in Le Mans, November 2016\.](../assets/65bce90b97bd/1*6nNSA2tRD7HyM4CeRGSEVw.jpeg)
 
 Hamada and a friend in Le Mans, November 2016\.
 
@@ -65,7 +65,7 @@ This past Saturday, a new [report](https://www.theguardian.com/world/2018/nov/03
 Khel\* happens to belong to the former group\. “It’s been a long time,” he says when he sees my face, blurred through the screen\. He was only 13 back then, the youngest person I knew in the Jungle\. There were younger children, of course, but they were closely guarded by their fathers or mothers\. Khel was alone\.
 
 
-![In the Jungle, Khel and his friends lived just beyond these tents\.](assets/65bce90b97bd/1*OTdkekNCwS508ZJ2fS8vBQ.jpeg)
+![In the Jungle, Khel and his friends lived just beyond these tents\.](../assets/65bce90b97bd/1*OTdkekNCwS508ZJ2fS8vBQ.jpeg)
 
 In the Jungle, Khel and his friends lived just beyond these tents\.
 
@@ -100,7 +100,7 @@ When the application was ultimately [denied with no explanation](https://www.the
 “I didn’t choose to stay in France, but luckily I \[did\],” he says\. “I met a woman who helped me\.” He’s referring to Lucy,\* an Australian woman who befriended him, advocated for his case, brought him into her home, and, in the end, functionally adopted him\. Today, he refers to her as his second mother\.
 
 
-![The town halfway between St\. Brieuc and Lucy’s house, where Lucy used to pick Khalid up from the train station\.](assets/65bce90b97bd/1*a_3iMfj0KeuSZL3BktUFyA.jpeg)
+![The town halfway between St\. Brieuc and Lucy’s house, where Lucy used to pick Khalid up from the train station\.](../assets/65bce90b97bd/1*a_3iMfj0KeuSZL3BktUFyA.jpeg)
 
 The town halfway between St\. Brieuc and Lucy’s house, where Lucy used to pick Khalid up from the train station\.
 
@@ -141,7 +141,7 @@ These people were perhaps too optimistic about their personal prospects for succ
 Though the crossing to England has only become more risky and futile in the intervening years, refugees have once more flocked to the region\. There are currently around 3,000 people living in the woods in Dunkirk, Calais, and the surrounding area\.
 
 
-![The makeshift camp in Dunkirk, before the evictions\. Credit: [Roots](https://www.facebook.com/charitableroots/posts/2745957238962201?hc_location=ufi)](assets/65bce90b97bd/1*yfTTrL8af-WuF_NYRv_44A.jpeg)
+![The makeshift camp in Dunkirk, before the evictions\. Credit: [Roots](https://www.facebook.com/charitableroots/posts/2745957238962201?hc_location=ufi)](../assets/65bce90b97bd/1*yfTTrL8af-WuF_NYRv_44A.jpeg)
 
 The makeshift camp in Dunkirk, before the evictions\. Credit: [Roots](https://www.facebook.com/charitableroots/posts/2745957238962201?hc_location=ufi)
 

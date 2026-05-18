@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 25/12/2016: Refugees in Bosnia criminalized and kept in prison-like facilities
+title: "AYS DAILY DIGEST 25/12/2016: Refugees in Bosnia criminalized and kept in prison-like facilities"
 author: Are You Syrious?
 date: 2016-12-25T23:06:33.786+0000
 last_modified_at: 2016-12-26T22:11:18.818+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,bosnia,paris]
 description: Refugee children who enter Bosnia and Herzegovina are locked down in prison-like facilities and kept inside forup to 90 days with their…
 image:
-  path: assets/8e0a530a5e45/1*IrRQFsq5zz0oODTSSQLXUQ.jpeg
+  path: ../assets/8e0a530a5e45/1*IrRQFsq5zz0oODTSSQLXUQ.jpeg
 ---
 
 ### AYS DAILY DIGEST 25/12/2016: Refugees in Bosnia criminalized and kept in prison\-like facilities
@@ -15,7 +15,7 @@ image:
 _Refugee children who enter Bosnia and Herzegovina are locked down in prison\-like facilities and kept inside forup to 90 days with their parents // New arrivals to Greece // Greek government promised that by January 15 all the people should be living in a safe and warm places // Series of fascist attacks against refugees in Germany in December // People left in dreadful conditions all over France_
 
 
-![Dark side of the city of lights\. People, refugees, are left in the streets, including children, sick and eldrely\. Photo by Agathe Nadimi](assets/8e0a530a5e45/1*IrRQFsq5zz0oODTSSQLXUQ.jpeg)
+![Dark side of the city of lights\. People, refugees, are left in the streets, including children, sick and eldrely\. Photo by Agathe Nadimi](../assets/8e0a530a5e45/1*IrRQFsq5zz0oODTSSQLXUQ.jpeg)
 
 Dark side of the city of lights\. People, refugees, are left in the streets, including children, sick and eldrely\. Photo by Agathe Nadimi
 ### Feature
@@ -58,7 +58,7 @@ The government announced that “decongestion and the removal of refugees accord
 The Greek government is responsible for the integration of 20,000 to 25,000 refugees that will remain in Greece\.
 
 
-![At Karakas Lighthouse … looking toward Turkey from Lesvos\. A treacherous boat trip for people fleeing war for a new life in Europe\. By Dirty Girls of Lesvos\.](assets/8e0a530a5e45/1*Vyqmcy3cXnwCW5Z29fyTFg.jpeg)
+![At Karakas Lighthouse … looking toward Turkey from Lesvos\. A treacherous boat trip for people fleeing war for a new life in Europe\. By Dirty Girls of Lesvos\.](../assets/8e0a530a5e45/1*Vyqmcy3cXnwCW5Z29fyTFg.jpeg)
 
 At Karakas Lighthouse … looking toward Turkey from Lesvos\. A treacherous boat trip for people fleeing war for a new life in Europe\. By Dirty Girls of Lesvos\.
 
@@ -67,23 +67,23 @@ He also promised that by the January 15, no refugee or migrant will live in tent
 From reports we are getting from various camps around Greece, this process is slow and often people are not accommodated in a decent and livable places\. One of the examples comes from Softex camp where isobox that has been installed, is defiantly not suitable for living\. The elderly gentleman who was supposed to move inside refuses to do so, deciding to rather stay in his tent\. No wonder why after seeing these pictures\.
 
 
-![](assets/8e0a530a5e45/1*cJBdSidm1mYWZVqgIXPO5Q.jpeg)
+![](../assets/8e0a530a5e45/1*cJBdSidm1mYWZVqgIXPO5Q.jpeg)
 
 
 
-![](assets/8e0a530a5e45/1*CQb0NAbMTL96Kj9mLLod_A.jpeg)
+![](../assets/8e0a530a5e45/1*CQb0NAbMTL96Kj9mLLod_A.jpeg)
 
 
 
-![](assets/8e0a530a5e45/1*l0gz4T9TH7L8nuMg8f46OQ.jpeg)
+![](../assets/8e0a530a5e45/1*l0gz4T9TH7L8nuMg8f46OQ.jpeg)
 
 
 
-![](assets/8e0a530a5e45/1*NcyWtDorZeYTF8hDoTei_g.jpeg)
+![](../assets/8e0a530a5e45/1*NcyWtDorZeYTF8hDoTei_g.jpeg)
 
 
 
-![Photo by Ruhi Loren Akhta](assets/8e0a530a5e45/1*d06BGwhqLwLkRLXs5Mjppg.jpeg)
+![Photo by Ruhi Loren Akhta](../assets/8e0a530a5e45/1*d06BGwhqLwLkRLXs5Mjppg.jpeg)
 
 Photo by Ruhi Loren Akhta
 
@@ -102,14 +102,14 @@ In Rostock, the alternative housing project “Alternative Wohnen in Rostock” 
 In Paris, but also some other cities, too many people are in desperate need\. They live in dreadful conditions, forced to live on the streets\. Among them are children, sick people, elderly… Volunteers are with them and trying to help
 
 
-![By Agathe Nadimi](assets/8e0a530a5e45/1*xCjnQMECOMQEP35vano08A.jpeg)
+![By Agathe Nadimi](../assets/8e0a530a5e45/1*xCjnQMECOMQEP35vano08A.jpeg)
 
 By Agathe Nadimi
 
 If you can help, consider the [Care4Calais](https://www.facebook.com/care4calais/) \.
 
 
-![](assets/8e0a530a5e45/1*-eHKwv_jzM9ElEDuowCJCg.png)
+![](../assets/8e0a530a5e45/1*-eHKwv_jzM9ElEDuowCJCg.png)
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Special about Turkey: Between caution and intransparency
+title: "AYS Special about Turkey: Between caution and intransparency"
 author: Are You Syrious?
 date: 2018-02-27T15:27:56.027+0000
 last_modified_at: 2018-04-09T09:59:27.300+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,turkey,dg-echo,izmir,special]
 description: Struggles and activities of EU funded NGOs working in the province of Izmir.
 image:
-  path: assets/f8bb8cb0dd/1*VILMsnzbZ4_0f75C9dbIog.jpeg
+  path: ../assets/f8bb8cb0dd/1*VILMsnzbZ4_0f75C9dbIog.jpeg
 ---
 
 ### AYS Special about Turkey: Between caution and intransparency
@@ -15,7 +15,7 @@ image:
 _Struggles and activities of EU funded NGOs working in the province of Izmir\._
 
 
-![As of end December 2017, 72 projects have been contracted worth 3 billion Euros by DG Echo\. Credits: [DG Echo/Twitter](https://twitter.com/search?l=&q=Turkey%20from%3AEU_ECHO&src=typd)](assets/f8bb8cb0dd/1*VILMsnzbZ4_0f75C9dbIog.jpeg)
+![As of end December 2017, 72 projects have been contracted worth 3 billion Euros by DG Echo\. Credits: [DG Echo/Twitter](https://twitter.com/search?l=&q=Turkey%20from%3AEU_ECHO&src=typd)](../assets/f8bb8cb0dd/1*VILMsnzbZ4_0f75C9dbIog.jpeg)
 
 As of end December 2017, 72 projects have been contracted worth 3 billion Euros by DG Echo\. Credits: [DG Echo/Twitter](https://twitter.com/search?l=&q=Turkey%20from%3AEU_ECHO&src=typd)
 
@@ -28,7 +28,7 @@ With more than [130,000 Syrians](http://www.goc.gov.tr/icerik6/temporary-protect
 According to their own account in the [interactive projects maps](https://ec.europa.eu/neighbourhood-enlargement/news_corner/migration_en) , nine projects of seven organizations were contracted and funded by DG Echo to the tune of almost 76 million Euros for the years 2016 and 2017\. The directorate has [determine](http://ec.europa.eu/echo/where/europe/turkey_en) d that “registered refugees have access to public services, including education and healthcare\. However, for many refugees, access to these basic facilities is often difficult for various reasons, including problems in registering with local authorities and the language barrier\.”
 
 
-![Interactive map of DG Echo and the funded projects \(Screenshot and data taken on 19/02/2018\) \.](assets/f8bb8cb0dd/1*mYd866UpYaI12G1jmMq4QQ.jpeg)
+![Interactive map of DG Echo and the funded projects \(Screenshot and data taken on 19/02/2018\) \.](../assets/f8bb8cb0dd/1*mYd866UpYaI12G1jmMq4QQ.jpeg)
 
 Interactive map of DG Echo and the funded projects \(Screenshot and data taken on 19/02/2018\) \.
 
@@ -51,12 +51,12 @@ In its [2016 annual financial statement](https://hi.org/sn_uploads/content/7.2-2
 In its [2016 annual report](https://hi.org/sn_uploads/content/7.3-2016-Annual-Report_Federation-Handicap-International.pdf) and in the [list of countries](https://humanity-inclusion.org.uk/en/countries-we-work-in) HI works in, Turkey is not mentioned\. At this point AYS cannot say if this is part of HI’s strategy of non\-communication\. One source in Izmir confirmed activities of the Organization\. “They have but not in this big, big size,” that would require such a budget, our source said\.
 
 
-![Extract of the EU facility table \(Screenshot taken on 20/02/2018\) \.](assets/f8bb8cb0dd/1*vVy-rZi0LcXgVysG_MHpFA.png)
+![Extract of the EU facility table \(Screenshot taken on 20/02/2018\) \.](../assets/f8bb8cb0dd/1*vVy-rZi0LcXgVysG_MHpFA.png)
 
 Extract of the EU facility table \(Screenshot taken on 20/02/2018\) \.
 
 
-![Exctract of HI’s 2016 annual financial statement\. \(Screenshot taken on 20/02/2018\) \.](assets/f8bb8cb0dd/1*AyygubKQ7bKTP81L4vPFhQ.png)
+![Exctract of HI’s 2016 annual financial statement\. \(Screenshot taken on 20/02/2018\) \.](../assets/f8bb8cb0dd/1*AyygubKQ7bKTP81L4vPFhQ.png)
 
 Exctract of HI’s 2016 annual financial statement\. \(Screenshot taken on 20/02/2018\) \.
 
@@ -69,7 +69,7 @@ But indeed, DRC activities are open to all refugees\. Their services focus on pr
 For example, they established four Community Centres in South/South\-east Turkey and provide cash\-assistance\. Even though DRC says it prefers to _“not discuss funding and spending externally”_ , they provide more information about their activities on their homepage and in reports\. But, other than stated by DG Echo, _“we do not work in Izmir at this time”,_ Mr\. Jamil said\. Still, he confirmed that DRC maintained regular contact with EU officers, including visits to project sites\.
 
 
-![Excerpt of the interactive map \(Screenshot taken on 19/02/2018\) \.](assets/f8bb8cb0dd/1*V-TH2tJh_6eCZWVmlpETlQ.jpeg)
+![Excerpt of the interactive map \(Screenshot taken on 19/02/2018\) \.](../assets/f8bb8cb0dd/1*V-TH2tJh_6eCZWVmlpETlQ.jpeg)
 
 Excerpt of the interactive map \(Screenshot taken on 19/02/2018\) \.
 

@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL — Lesvos: The Other ‘Trip to Ithaca’
+title: "AYS SPECIAL — Lesvos: The Other ‘Trip to Ithaca’"
 author: Are You Syrious?
 date: 2018-01-16T12:49:11.357+0000
 last_modified_at: 2018-03-01T14:12:53.580+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,lesvos,volunteers,greece,special]
 description: I’ve come back to the island of Lesvos, to collaborate for a few weeks. Same as I did last March, only now we’re in the depths of winter…
 image:
-  path: assets/600bd80975d1/1*F9yPFhv3y6UHrQwZPD6GRw.jpeg
+  path: ../assets/600bd80975d1/1*F9yPFhv3y6UHrQwZPD6GRw.jpeg
 ---
 
 ### AYS SPECIAL — Lesvos: The Other ‘Trip to Ithaca’
@@ -15,7 +15,7 @@ image:
 _I’ve come back to the island of Lesvos, to collaborate for a few weeks\. Same as I did last March, only now we’re in the depths of winter, and the nights are very cold\._
 
 
-![Photo by _SC Natzab\._](assets/600bd80975d1/1*F9yPFhv3y6UHrQwZPD6GRw.jpeg)
+![Photo by _SC Natzab\._](../assets/600bd80975d1/1*F9yPFhv3y6UHrQwZPD6GRw.jpeg)
 
 Photo by _SC Natzab\._
 

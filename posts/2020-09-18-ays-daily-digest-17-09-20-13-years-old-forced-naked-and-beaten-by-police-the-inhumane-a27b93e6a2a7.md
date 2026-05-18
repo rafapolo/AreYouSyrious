@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 17/09/20: 13 years old, forced naked and beaten by police — the inhumane…
+title: "AYS Daily Digest 17/09/20: 13 years old, forced naked and beaten by police — the inhumane…"
 author: Are You Syrious?
 date: 2020-09-18T11:06:12.428+0100
 last_modified_at: 2020-09-18T21:17:00.518+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,europe,greece]
 description: Lockdown in Nea Kavala refugee camp // Testimonies from people facing deportation in Spain // Ireland criticised for only taking 4…
 image:
-  path: assets/a27b93e6a2a7/1*v22ScupXZZK3f-Yr_qddeQ.jpeg
+  path: ../assets/a27b93e6a2a7/1*v22ScupXZZK3f-Yr_qddeQ.jpeg
 ---
 
 ### AYS Daily Digest 17/09/20: 13 years old, forced naked and beaten by Greek police — the inhumane treatment of refugees
@@ -28,7 +28,7 @@ The police handcuffed the children, who recalled that even after being handcuffe
 “When we arrived at the department, there were five police officers\. They emptied my bag\. They hit us again\. They first put my friend in a room that looked like a warehouse\. Then they put me\. I was asked to undress completely\. Then they took the data from us\. They did not let us talk to explain”, [the 15\-year\-old recalls](https://www.efsyn.gr/ellada/koinonia/260119_xylo-horis-aitia-se-dyo-prosfygopoyla) \. After being beaten and abused, the terrified child was expelled from the police station without any record of the incident\. The police have not provided a reason as to why the children were forcibly arrested, detained and stripped naked\.
 
 
-![The medical certificate given to the two minors\. Photo Credit: \( [Efstn\.gr](https://www.efsyn.gr/ellada/koinonia/260119_xylo-horis-aitia-se-dyo-prosfygopoyla) \)](assets/a27b93e6a2a7/1*v22ScupXZZK3f-Yr_qddeQ.jpeg)
+![The medical certificate given to the two minors\. Photo Credit: \( [Efstn\.gr](https://www.efsyn.gr/ellada/koinonia/260119_xylo-horis-aitia-se-dyo-prosfygopoyla) \)](../assets/a27b93e6a2a7/1*v22ScupXZZK3f-Yr_qddeQ.jpeg)
 
 The medical certificate given to the two minors\. Photo Credit: \( [Efstn\.gr](https://www.efsyn.gr/ellada/koinonia/260119_xylo-horis-aitia-se-dyo-prosfygopoyla) \)
 
@@ -75,7 +75,7 @@ Speaking to the Committee, Maddy Allen, field manager at Help Refugees, also sta
 This systematic criminalization must stop, and all civilian rescue ships must return to the Central Mediterranean as soon as possible\!
 
 
-![Baptiste Brebel\. Photo Credit [\(Sea\-Watch\)](https://www.facebook.com/seawatchprojekt/photos/a.1579563625595046/2643528639198534/)](assets/a27b93e6a2a7/1*LQ0hfSu7dTXIO22fXK-ZtA.jpeg)
+![Baptiste Brebel\. Photo Credit [\(Sea\-Watch\)](https://www.facebook.com/seawatchprojekt/photos/a.1579563625595046/2643528639198534/)](../assets/a27b93e6a2a7/1*LQ0hfSu7dTXIO22fXK-ZtA.jpeg)
 
 Baptiste Brebel\. Photo Credit [\(Sea\-Watch\)](https://www.facebook.com/seawatchprojekt/photos/a.1579563625595046/2643528639198534/)
 
@@ -156,11 +156,11 @@ Grapevine\.is reports that the family in question, whose [whereabouts are now un
 ### Bosnia and Herzegovina
 
 
-![](assets/a27b93e6a2a7/1*m7PvdZ2K-utg_ArPdgOKlw.jpeg)
+![](../assets/a27b93e6a2a7/1*m7PvdZ2K-utg_ArPdgOKlw.jpeg)
 
 
 
-![Photo Credit: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/1074567662941517)](assets/a27b93e6a2a7/1*dLq8BS5immQfONF_V3L4pg.jpeg)
+![Photo Credit: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/1074567662941517)](../assets/a27b93e6a2a7/1*dLq8BS5immQfONF_V3L4pg.jpeg)
 
 Photo Credit: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/1074567662941517)
 
@@ -176,7 +176,7 @@ The lockdown in the Nea Kavala refugee camp continues and, for the moment, is es
 Most tents and containers do not have water or a kitchen, which means that residents have to queue for long hours to access the shared facilities without being able to respect security measures like social distancing\. Health care has also worsened: there is only one doctor in the morning to attend to the 1,600 people who live in the camp, and those who must be transferred to the hospital must now pay €20\. Fines of €150 have been applied to people who did not wear their mask properly\. Surveillance and entry restrictions have been imposed more strongly\. And the tension between the inhabitants is increasing\.
 
 
-![Nea Kavala Camp at night\. Photo Credit \( [Open Cultural Center — OCC](https://www.facebook.com/OpenCulturalCenter/?__cft__[0]=AZXXllCd5mdJRHUNdbpq7SAm-_wDDbhOGYjdOo-f74FajqPLXEADGlpmlZD5zC_rmjc5UTYYHaluLIGVvIxJCifA4Nz-EZmo_ew-TrNq7FxvKB3vyKwezoMxBv331qae8uQKCTsWW-eOoWesRbY2E0-v2_dcDtXwj6umhZYdysLH2A&__tn__=-UC*F) \)](assets/a27b93e6a2a7/1*w9sZ6ZtTZ73e77ACJJmv7A.jpeg)
+![Nea Kavala Camp at night\. Photo Credit \( [Open Cultural Center — OCC](https://www.facebook.com/OpenCulturalCenter/?__cft__[0]=AZXXllCd5mdJRHUNdbpq7SAm-_wDDbhOGYjdOo-f74FajqPLXEADGlpmlZD5zC_rmjc5UTYYHaluLIGVvIxJCifA4Nz-EZmo_ew-TrNq7FxvKB3vyKwezoMxBv331qae8uQKCTsWW-eOoWesRbY2E0-v2_dcDtXwj6umhZYdysLH2A&__tn__=-UC*F) \)](../assets/a27b93e6a2a7/1*w9sZ6ZtTZ73e77ACJJmv7A.jpeg)
 
 Nea Kavala Camp at night\. Photo Credit \( [Open Cultural Center — OCC](https://www.facebook.com/OpenCulturalCenter/?__cft__[0]=AZXXllCd5mdJRHUNdbpq7SAm-_wDDbhOGYjdOo-f74FajqPLXEADGlpmlZD5zC_rmjc5UTYYHaluLIGVvIxJCifA4Nz-EZmo_ew-TrNq7FxvKB3vyKwezoMxBv331qae8uQKCTsWW-eOoWesRbY2E0-v2_dcDtXwj6umhZYdysLH2A&__tn__=-UC*F) \)
 
@@ -194,7 +194,7 @@ To read more and find the full explanation of the dates of extension, please see
 In their public statement, they seek to appeal to the governments of Austria and the member states of the EU to live up to their international responsibility, both by offering aid to those affected by the current emergency in Moria and by working toward sustainable solutions to ensure the humane and dignified treatment of refugees\.
 
 
-![The Secession Building with a ‘Moria’ banner\. Photo Credit \( [Vienna Secession](https://www.facebook.com/SecessionWien/?__tn__=-UC*F) \)](assets/a27b93e6a2a7/1*g8D93jjwC0TEWfzDfyTRvA.jpeg)
+![The Secession Building with a ‘Moria’ banner\. Photo Credit \( [Vienna Secession](https://www.facebook.com/SecessionWien/?__tn__=-UC*F) \)](../assets/a27b93e6a2a7/1*g8D93jjwC0TEWfzDfyTRvA.jpeg)
 
 The Secession Building with a ‘Moria’ banner\. Photo Credit \( [Vienna Secession](https://www.facebook.com/SecessionWien/?__tn__=-UC*F) \)
 ### Ireland

@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 4/6/2017: Heavy fire in Swedish refugee accomodation
+title: "AYS DAILY DIGEST 4/6/2017: Heavy fire in Swedish refugee accomodation"
 author: Are You Syrious?
 date: 2017-06-05T00:33:35.172+0100
 last_modified_at: 2017-06-05T06:30:32.351+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,söderhamn,greece,serbia,france]
 description: Suspected arson in Söderhamn / Asylum seekers in Sweden live in uncertainty as authorities work slow on their applications / 10 people die…
 image:
-  path: assets/9625cf00533e/1*jTnFGurm9yyFhTvS3exIEw.jpeg
+  path: ../assets/9625cf00533e/1*jTnFGurm9yyFhTvS3exIEw.jpeg
 ---
 
 ### AYS DAILY DIGEST 4/6/2017: Heavy fire in Swedish refugee accomodation
@@ -15,7 +15,7 @@ image:
 _Suspected arson in Söderhamn / Asylum seekers in Sweden live in uncertainty as authorities work slow on their applications / 10 people die in car accidentd in Bulgaria / Gaps in Greece increase / Support needed in Serbia and France / Far right group raises 50\.000 Euro to target rescue ships_
 
 
-![Firefighters in front of the burned out building\. Credits: [b9AcE](https://twitter.com/b9AcE)](assets/9625cf00533e/1*jTnFGurm9yyFhTvS3exIEw.jpeg)
+![Firefighters in front of the burned out building\. Credits: [b9AcE](https://twitter.com/b9AcE)](../assets/9625cf00533e/1*jTnFGurm9yyFhTvS3exIEw.jpeg)
 
 Firefighters in front of the burned out building\. Credits: [b9AcE](https://twitter.com/b9AcE)
 ### Feature: Heavy fire in Söderhamn
@@ -63,7 +63,7 @@ Last year the agency decided a lot on Syrian nationals, who would have a bigger 
 In Greece the situation in the governmental camps seems to worsen these days, even though this is hard to imagine\. The announcement of some NGOs to leave the hotspot of Chios, this could be the case for some mainland sites too, as the budget is being cut\. Another reason is, that they do not consider the situation as crisis anymore\.
 
 
-![Some NGOs are leaving the sites in Greece\. Credits: [Fillipiada Camp News](https://www.facebook.com/filippiadacampnews/photos/a.686916798141752.1073741829.686779551488810/734027416764023/?type=3&theater)](assets/9625cf00533e/1*YXiRCuBhOsYG65aQmXj7-g.jpeg)
+![Some NGOs are leaving the sites in Greece\. Credits: [Fillipiada Camp News](https://www.facebook.com/filippiadacampnews/photos/a.686916798141752.1073741829.686779551488810/734027416764023/?type=3&theater)](../assets/9625cf00533e/1*YXiRCuBhOsYG65aQmXj7-g.jpeg)
 
 Some NGOs are leaving the sites in Greece\. Credits: [Fillipiada Camp News](https://www.facebook.com/filippiadacampnews/photos/a.686916798141752.1073741829.686779551488810/734027416764023/?type=3&theater)
 
@@ -73,7 +73,7 @@ Obviously the Greek government is struggling with keeping even the bad condition
 #### Performance of Softex residents
 
 
-![Credits: [InterVolve](https://www.facebook.com/permalink.php?story_fbid=463514787320248&id=219418945063168&hc_location=ufi)](assets/9625cf00533e/1*vM_UMkzN8JxlmlDH1o5Znw.jpeg)
+![Credits: [InterVolve](https://www.facebook.com/permalink.php?story_fbid=463514787320248&id=219418945063168&hc_location=ufi)](../assets/9625cf00533e/1*vM_UMkzN8JxlmlDH1o5Znw.jpeg)
 
 Credits: [InterVolve](https://www.facebook.com/permalink.php?story_fbid=463514787320248&id=219418945063168&hc_location=ufi)
 
@@ -83,14 +83,14 @@ The residents of Softex camp in Thessaloniki performed a play at the Vassiliko T
 The Portuguese Maritime Police, on a mission in Greece, has detected 20 people, 10 of whom are children, [said](http://m.abola.pt/noticia.aspx?id=675821) the National Maritime Authority \(AMN\) \. In a statement, the AMN said that the 20 peope were detected as they had landed on the Greek coast near Molyvos \(Lesvos\) after crossing the Aegean Sea\. The Greek authorities have already been contacted to pick up the people, who are from Afghanistan and Iraq\.
 
 
-![People arrived on Chios, too\. Credits: [Pothiti Kitromilidi](https://www.facebook.com/pothiti.kitromilidi?fref=nf)](assets/9625cf00533e/1*d99K5ePQ9N5yq0TaPRL4jA.jpeg)
+![People arrived on Chios, too\. Credits: [Pothiti Kitromilidi](https://www.facebook.com/pothiti.kitromilidi?fref=nf)](../assets/9625cf00533e/1*d99K5ePQ9N5yq0TaPRL4jA.jpeg)
 
 People arrived on Chios, too\. Credits: [Pothiti Kitromilidi](https://www.facebook.com/pothiti.kitromilidi?fref=nf)
 
 Also Chios saw some new arrivals, everyone was safe, volunteers took care of them\. By tomorrow it should be known where they will be accomodated\. As the arrivals to Chios had risen during the last months, the sites on the islands are all overcrowded\. Because of that the Chios People’s Kitchen decided to not only provide food to the new arrivals but also the ones who are sleeping rough, because both of the camps can not take any new residens\.
 
 
-![Credits: [Chios People’s Kitchen](https://www.facebook.com/chiospeopleskitchen/photos/a.111733042688576.1073741829.109029806292233/180199702508576/?type=3&theater)](assets/9625cf00533e/1*zgRMmVgLxlovAkDoW_L1nA.jpeg)
+![Credits: [Chios People’s Kitchen](https://www.facebook.com/chiospeopleskitchen/photos/a.111733042688576.1073741829.109029806292233/180199702508576/?type=3&theater)](../assets/9625cf00533e/1*zgRMmVgLxlovAkDoW_L1nA.jpeg)
 
 Credits: [Chios People’s Kitchen](https://www.facebook.com/chiospeopleskitchen/photos/a.111733042688576.1073741829.109029806292233/180199702508576/?type=3&theater)
 #### Volunteer opportunities
@@ -101,7 +101,7 @@ Credits: [Chios People’s Kitchen](https://www.facebook.com/chiospeopleskitchen
 With support from various other groups BelgrAid will start a Ramadan food distribution for the 1200 residents of Adasevci\. Every second day they will provide residents with two food packs of fresh fruit, vegetables and dates\. They try to buy the supplies from local farmers, if possible\. But by now they are not able to continue the distributions until the end of Ramadan and therefor ask for more donations\. If you want to support BelgrAid, check their fundraiser: [https://www\.youcaring\.com/belgraid\-797342](https://www.youcaring.com/belgraid-797342)
 
 
-![Volunteers preparing the food packs\. Credits: [BelgrAid](https://www.facebook.com/belgraid/posts/1903358853244460)](assets/9625cf00533e/1*LFYEPmFq97nbmCu5H3nYcg.jpeg)
+![Volunteers preparing the food packs\. Credits: [BelgrAid](https://www.facebook.com/belgraid/posts/1903358853244460)](../assets/9625cf00533e/1*LFYEPmFq97nbmCu5H3nYcg.jpeg)
 
 Volunteers preparing the food packs\. Credits: [BelgrAid](https://www.facebook.com/belgraid/posts/1903358853244460)
 ### Germany
@@ -114,7 +114,7 @@ A spokesman of the interior ministry said, that the number of returns and deport
 A far right group has raised more than 55\.000 Euros to target rescue boats in the Mediterranean Sea, The Guardian [reports](https://www.theguardian.com/world/2017/jun/03/far-right-raises-50000-target-refugee-rescue-boats-med) \. With the money they want to cover the payment for ships, travel costs and film equipment\. Already last month a group had hired a boat to disrupt a rescue ship which was about to leave the port of Catania\.
 
 
-![ProActiva on rescue mission on sunday\. Credits: [PROACTIVA OPEN ARMS](https://twitter.com/openarms_fund)](assets/9625cf00533e/1*K811dy-wB3LfzAU-pIWizg.jpeg)
+![ProActiva on rescue mission on sunday\. Credits: [PROACTIVA OPEN ARMS](https://twitter.com/openarms_fund)](../assets/9625cf00533e/1*K811dy-wB3LfzAU-pIWizg.jpeg)
 
 ProActiva on rescue mission on sunday\. Credits: [PROACTIVA OPEN ARMS](https://twitter.com/openarms_fund)
 
@@ -134,7 +134,7 @@ Examples for this are returning at 21\.30 in winter and 22\.30 o’clock in summ
 
 
 
-![Protests for the rights of refugees\. Credits: [Operatori X — Geneva](https://www.facebook.com/notes/operatori-x-genova/accogliere-o-controllare-il-punto-di-vista-di-operatori-e-operatrici-di-base/1927205217525023/)](assets/9625cf00533e/1*9jVkom1FmfqXJvFau2DyIQ.jpeg)
+![Protests for the rights of refugees\. Credits: [Operatori X — Geneva](https://www.facebook.com/notes/operatori-x-genova/accogliere-o-controllare-il-punto-di-vista-di-operatori-e-operatrici-di-base/1927205217525023/)](../assets/9625cf00533e/1*9jVkom1FmfqXJvFau2DyIQ.jpeg)
 
 Protests for the rights of refugees\. Credits: [Operatori X — Geneva](https://www.facebook.com/notes/operatori-x-genova/accogliere-o-controllare-il-punto-di-vista-di-operatori-e-operatrici-di-base/1927205217525023/)
 
@@ -144,7 +144,7 @@ Caritas Ambrosiana is looking for: 76 volunteers for the following projects in I
 Solidarithé is asking for various donations to keep their work in Paris going\. They not only need money \(fundraiser on [Youcaring](https://www.youcaring.com/refugees-757392) \) they need Coffee, Printing Paper, Biodegradable Cups, Spoons \(preferably biodegradable\), Sugar\. If you can provide them any of these supplies, please contact them on [Facebook](https://www.facebook.com/solidarithe/posts/1815340735450707) \.
 
 
-![Volunteers in action\. Credits: [Solidarithé](https://www.facebook.com/solidarithe/?ref=page_internal)](assets/9625cf00533e/1*md91Gn9OQrRXlPklexeQ7A.jpeg)
+![Volunteers in action\. Credits: [Solidarithé](https://www.facebook.com/solidarithe/?ref=page_internal)](../assets/9625cf00533e/1*md91Gn9OQrRXlPklexeQ7A.jpeg)
 
 Volunteers in action\. Credits: [Solidarithé](https://www.facebook.com/solidarithe/?ref=page_internal)
 

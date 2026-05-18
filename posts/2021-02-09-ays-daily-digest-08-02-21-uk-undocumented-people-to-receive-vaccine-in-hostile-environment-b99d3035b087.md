@@ -1,13 +1,13 @@
 ---
-title: AYS Daily Digest 08/02/21 UK: Undocumented people to receive vaccine in hostile environment
+title: "AYS Daily Digest 08/02/21 UK: Undocumented people to receive vaccine in hostile environment"
 author: Are You Syrious?
 date: 2021-02-09T14:22:58.049+0000
 last_modified_at: 2021-02-09T18:05:39.304+0000
 categories: Are You Syrious?
 tags: [uk,refugees,digest,greece,covid-19]
-description: Big weekend for people trying to escape Libya // Important message from Babel: Migrant’s mental health // canary islands camp flooded with…
+description: "Big weekend for people trying to escape Libya // Important message from Babel: Migrant’s mental health // canary islands camp flooded with…"
 image:
-  path: assets/b99d3035b087/1*SlbPTXEcJeZ7jAl4LeiG2A.png
+  path: ../assets/b99d3035b087/1*SlbPTXEcJeZ7jAl4LeiG2A.png
 ---
 
 ### AYS Daily Digest 08/02/21 UK: Undocumented people to receive vaccine in hostile environment
@@ -15,7 +15,7 @@ image:
 _Big weekend for people trying to escape Libya // Important message from Babel: Migrants’ mental health // Canary Islands camp flooded with sewage // more…_
 
 
-![Photo by [USA Today](https://www.usatoday.com/in-depth/graphics/2020/12/24/new-variant-coronavirus-spreading-fast-uk/4010352001/)](assets/b99d3035b087/1*SlbPTXEcJeZ7jAl4LeiG2A.png)
+![Photo by [USA Today](https://www.usatoday.com/in-depth/graphics/2020/12/24/new-variant-coronavirus-spreading-fast-uk/4010352001/)](../assets/b99d3035b087/1*SlbPTXEcJeZ7jAl4LeiG2A.png)
 
 Photo by [USA Today](https://www.usatoday.com/in-depth/graphics/2020/12/24/new-variant-coronavirus-spreading-fast-uk/4010352001/)
 ### FEATURE: Hostile environment stands in the way of undocumented people receiving COVID\-19 vaccine in UK
@@ -85,11 +85,11 @@ Migrant rights lawyer [Jacqueline Mckenzie](https://twitter.com/JacquiMckenzie6/
 Many people were trying to escape the horrors of detention in Libya over the weekend\. While 422 people made it safely to Italy, many more did not\. As many as10 boats were intercepted by the Libyan Coast Guard and brought back\. [IOM Libya](https://twitter.com/IOM_Libya/status/1358835553848934411) said _“In the period of 2–8 February, 1,487 migrants were rescued/intercepted at sea and returned to Libya\.”_ Learn more [here](https://thecivilfleet.wordpress.com/2021/02/08/422-refugees-make-it-to-safety-in-italy-after-a-weekend-of-mass-escape-attempts-from-libya/?fbclid=IwAR0UlLt8mCnhH3MkkHQi6GKPDZQQLjzhZVYEk7Y5pwatvX3QClBjTb4CGNA) \.
 
 
-![](assets/b99d3035b087/1*HiJTIZP29iVihX2AQrNDMg.jpeg)
+![](../assets/b99d3035b087/1*HiJTIZP29iVihX2AQrNDMg.jpeg)
 
 
 
-![“Yesterday, we tracked a flight of the Frontex aircraft Eagle1\. It orbited above a distress case for about one hour\. When our Moonbird got to the position, they found a burning boat\. They also spotted a ship of the so\-called Libyan Coast Guard sailing south back to Libya\. On board were the 32 people from the distress case, including Libyan families\. If Frontex was again involved in the illegal practice of a pull\-back to Libya, in which asylum seekers are intercepted at sea and denied their right to apply for asylum, the border agency once again violated international law\.” Photos and Info by [Sea\-Watch](https://www.facebook.com/seawatchprojekt/posts/2757427351141995)](assets/b99d3035b087/1*_I6itCpkFc5qvzjQXganjw.jpeg)
+![“Yesterday, we tracked a flight of the Frontex aircraft Eagle1\. It orbited above a distress case for about one hour\. When our Moonbird got to the position, they found a burning boat\. They also spotted a ship of the so\-called Libyan Coast Guard sailing south back to Libya\. On board were the 32 people from the distress case, including Libyan families\. If Frontex was again involved in the illegal practice of a pull\-back to Libya, in which asylum seekers are intercepted at sea and denied their right to apply for asylum, the border agency once again violated international law\.” Photos and Info by [Sea\-Watch](https://www.facebook.com/seawatchprojekt/posts/2757427351141995)](../assets/b99d3035b087/1*_I6itCpkFc5qvzjQXganjw.jpeg)
 
 “Yesterday, we tracked a flight of the Frontex aircraft Eagle1\. It orbited above a distress case for about one hour\. When our Moonbird got to the position, they found a burning boat\. They also spotted a ship of the so\-called Libyan Coast Guard sailing south back to Libya\. On board were the 32 people from the distress case, including Libyan families\. If Frontex was again involved in the illegal practice of a pull\-back to Libya, in which asylum seekers are intercepted at sea and denied their right to apply for asylum, the border agency once again violated international law\.” Photos and Info by [Sea\-Watch](https://www.facebook.com/seawatchprojekt/posts/2757427351141995)
 
@@ -140,7 +140,7 @@ Meanwhile, in #KaraTepe, campresidents report a severe outbreak of scabies again
 
 
 
-![**Update from AlarmPhone:** “The 16 people \(arrived on Lesvos on Saturday\) had to spend another night in the freezing cold\. They have no water or food left and a pregnant woman is in pain\. We forwarded their latest position to Mytilene port authority who told us they will go there\. We hope the people will be brought to a safe place soon\. The Mytilene port authority informed us that the people were found and brought to the nearby quarantine camp\. The people confirmed this themselves a while ago\. We are relieved that they are healthy and safe\. We expect & demand that they will be given access to asylum procedures\.” Photo by [AlarmPhone](https://twitter.com/alarm_phone/status/1358402340114595841)](assets/b99d3035b087/1*t8faPWZm9hBv-dfc_95m7Q.jpeg)
+![**Update from AlarmPhone:** “The 16 people \(arrived on Lesvos on Saturday\) had to spend another night in the freezing cold\. They have no water or food left and a pregnant woman is in pain\. We forwarded their latest position to Mytilene port authority who told us they will go there\. We hope the people will be brought to a safe place soon\. The Mytilene port authority informed us that the people were found and brought to the nearby quarantine camp\. The people confirmed this themselves a while ago\. We are relieved that they are healthy and safe\. We expect & demand that they will be given access to asylum procedures\.” Photo by [AlarmPhone](https://twitter.com/alarm_phone/status/1358402340114595841)](../assets/b99d3035b087/1*t8faPWZm9hBv-dfc_95m7Q.jpeg)
 
 **Update from AlarmPhone:** “The 16 people \(arrived on Lesvos on Saturday\) had to spend another night in the freezing cold\. They have no water or food left and a pregnant woman is in pain\. We forwarded their latest position to Mytilene port authority who told us they will go there\. We hope the people will be brought to a safe place soon\. The Mytilene port authority informed us that the people were found and brought to the nearby quarantine camp\. The people confirmed this themselves a while ago\. We are relieved that they are healthy and safe\. We expect & demand that they will be given access to asylum procedures\.” Photo by [AlarmPhone](https://twitter.com/alarm_phone/status/1358402340114595841)
 
@@ -185,7 +185,7 @@ Here are [some videos](https://twitter.com/maledictus/status/1358792857713319955
 
 ![“There are approximately 44,500 child refugees and asylum seekers in Greece\. Even before the pandemic, access to education was extremely limited\. In early 2020, UNICEF estimated that only a third of refugee and asylum seeker children of school age were enrolled in formal education\. 
 Since then, the global pandemic has forced schools around the world to close their doors\. While many children in Europe have been able to attend classes remotely, this was not an option for those living in camps with no access to computers or reliable internet\. Approximately 1290 residents of Ritsona \(45%\) are children, the majority of whom have not been able to attend a single day of formal education in over a year\. Depending on their country of origin or journey, some of them are still waiting to attend their first ever day of school\. 
-Education is a human right, guaranteed under Article 26 of the Universal Declaration of Human Rights\. The lack of access to education can seriously affect a child’s future, depriving them of crucial skills\. Even more concerning is the impact this can have on their development, social skills and mental wellbeing\.The children of Ritsona have waited too long for this right to be upheld — we urge for their education to be prioritised and ensured in 2021\. In response to this situation, the Education Coordinator for Ritsona Camp, Pepi Papadimitriou, recently shared a powerful letter, advocating for the young residents to be able to attend school as soon as possible\. You can read her letter here\.” Photo and Info by [Lighthouse Relief](https://www.facebook.com/lighthouserelief/posts/3657725257683322)](assets/b99d3035b087/1*roQXVvpw1fI9FFaIEGuf7w.jpeg)
+Education is a human right, guaranteed under Article 26 of the Universal Declaration of Human Rights\. The lack of access to education can seriously affect a child’s future, depriving them of crucial skills\. Even more concerning is the impact this can have on their development, social skills and mental wellbeing\.The children of Ritsona have waited too long for this right to be upheld — we urge for their education to be prioritised and ensured in 2021\. In response to this situation, the Education Coordinator for Ritsona Camp, Pepi Papadimitriou, recently shared a powerful letter, advocating for the young residents to be able to attend school as soon as possible\. You can read her letter here\.” Photo and Info by [Lighthouse Relief](https://www.facebook.com/lighthouserelief/posts/3657725257683322)](../assets/b99d3035b087/1*roQXVvpw1fI9FFaIEGuf7w.jpeg)
 
 “There are approximately 44,500 child refugees and asylum seekers in Greece\. Even before the pandemic, access to education was extremely limited\. In early 2020, UNICEF estimated that only a third of refugee and asylum seeker children of school age were enrolled in formal education\. 
 Since then, the global pandemic has forced schools around the world to close their doors\. While many children in Europe have been able to attend classes remotely, this was not an option for those living in camps with no access to computers or reliable internet\. Approximately 1290 residents of Ritsona \(45%\) are children, the majority of whom have not been able to attend a single day of formal education in over a year\. Depending on their country of origin or journey, some of them are still waiting to attend their first ever day of school\. 
@@ -210,13 +210,13 @@ Two quick updates from Info Migrants:
 #### SPAIN
 
 
-![](assets/b99d3035b087/1*ZUgvWjV9GKMu7x5cMSIYvA.jpeg)
+![](../assets/b99d3035b087/1*ZUgvWjV9GKMu7x5cMSIYvA.jpeg)
 
 
 
 ![“March for Dignity 2021 Manifesto\. Tarajal, Ceuta, Spain
 We share with everyone the official MANIFESTO made by the dozens of collectives that organized this commemoration
-It’s been seven years since the death of at least 14 people at the beach in Ceuta\. Seven years of impunity\. Seven years of injustice\. Seven years of fighting through the March for Dignity\. Seven years of claiming responsibility and reparations\. Seven years of remembering, defending life and demanding rights\.” Photo and Info by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/1177911182607164) and Solidarity Wheels](assets/b99d3035b087/1*ZdWwJOI_AqJ-u9mmJ1phZg.jpeg)
+It’s been seven years since the death of at least 14 people at the beach in Ceuta\. Seven years of impunity\. Seven years of injustice\. Seven years of fighting through the March for Dignity\. Seven years of claiming responsibility and reparations\. Seven years of remembering, defending life and demanding rights\.” Photo and Info by [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/posts/1177911182607164) and Solidarity Wheels](../assets/b99d3035b087/1*ZdWwJOI_AqJ-u9mmJ1phZg.jpeg)
 
 “March for Dignity 2021 Manifesto\. Tarajal, Ceuta, Spain
 We share with everyone the official MANIFESTO made by the dozens of collectives that organized this commemoration
@@ -255,13 +255,13 @@ According to Info Migrants _“On Saturday, February 6, the French operational a
 #### UK
 
 
-![](assets/b99d3035b087/1*LO2VK-a1WTizBD1ngAV4Rg.jpeg)
+![](../assets/b99d3035b087/1*LO2VK-a1WTizBD1ngAV4Rg.jpeg)
 
 
 
 ![“\#StandWithNapier has gone international\! Today we received these fantastic pictures of support from some of the volunteers we work with in Brussels\.
 The citizens of Brussels are pretty amazing\. At night, there are many who go out and take the refugees home to sleep in a safe and comfortable environment\. This has been happening for over two years\. An amazing civil society action\. We have also seen the fantastic work of the Brussels volunteers for ourselves on our many visits to Belgium\. Today it was also wonderful to receive photos of some socially distanced action from Solidarity Knows No Borders Merseyside at the Royal Liver Building in Liverpool, and more local Stand Up To Racism groups as well as our own volunteer teams\. 
-It is more important than ever for us to come together and call on our respective governments to treat asylum seekers with dignity and respect — just as we would hope to be treated if we were forced to flee persecution and look for help in another country\. Please keep sharing your support and images as we know how much this means to the residents\. Contribute to our fundraiser for emergency provisions for Napier residents [here](https://www.facebook.com/care4calais/posts/4055814151118178) \.” Info and Photo by Care4Calais](assets/b99d3035b087/1*a4HOoxsks7DD3hZUDfBpag.jpeg)
+It is more important than ever for us to come together and call on our respective governments to treat asylum seekers with dignity and respect — just as we would hope to be treated if we were forced to flee persecution and look for help in another country\. Please keep sharing your support and images as we know how much this means to the residents\. Contribute to our fundraiser for emergency provisions for Napier residents [here](https://www.facebook.com/care4calais/posts/4055814151118178) \.” Info and Photo by Care4Calais](../assets/b99d3035b087/1*a4HOoxsks7DD3hZUDfBpag.jpeg)
 
 “\#StandWithNapier has gone international\! Today we received these fantastic pictures of support from some of the volunteers we work with in Brussels\.
 The citizens of Brussels are pretty amazing\. At night, there are many who go out and take the refugees home to sleep in a safe and comfortable environment\. This has been happening for over two years\. An amazing civil society action\. We have also seen the fantastic work of the Brussels volunteers for ourselves on our many visits to Belgium\. Today it was also wonderful to receive photos of some socially distanced action from Solidarity Knows No Borders Merseyside at the Royal Liver Building in Liverpool, and more local Stand Up To Racism groups as well as our own volunteer teams\. 

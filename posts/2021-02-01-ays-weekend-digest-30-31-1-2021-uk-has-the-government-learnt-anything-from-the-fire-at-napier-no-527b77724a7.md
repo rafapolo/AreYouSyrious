@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 30–31/1/2021 UK: Has the government learnt anything from the Fire at Napier? No.
+title: "AYS Weekend Digest 30–31/1/2021 UK: Has the government learnt anything from the Fire at Napier? No."
 author: Are You Syrious?
 date: 2021-02-01T13:39:26.517+0000
 last_modified_at: 2021-02-01T13:39:26.517+0000
@@ -7,29 +7,29 @@ categories: Are You Syrious?
 tags: [digest,refugeeswelcome,malta,torture,pushback]
 description: Reports of torture from Maltese detention centres // National day of solidarity with people on the move in Greece //Cruel pushbacks from…
 image:
-  path: assets/527b77724a7/0*qDCriejVt0UDhfeF.jpeg
+  path: ../assets/527b77724a7/0*qDCriejVt0UDhfeF.jpeg
 ---
 
 ### AYS Weekend Digest 30–31/1/2021 UK: Has the government learnt anything from the Fire at Napier? No\.
 #### _Reports of torture from Maltese detention centres // National day of solidarity with people on the move in Greece //Cruel pushbacks from Romania // Landmark decision in Germany\._
 
 
-![](assets/527b77724a7/0*_FfXTFKIDiPW8YsG)
+![](../assets/527b77724a7/0*_FfXTFKIDiPW8YsG)
 
 
 
-![](assets/527b77724a7/0*qDCriejVt0UDhfeF.jpeg)
+![](../assets/527b77724a7/0*qDCriejVt0UDhfeF.jpeg)
 
 
 [Saturday January 30, 2021 — Athens, Greece — National day of action in solidarity with migrants](https://www.facebook.com/solidaritymigrants/posts/242914287331108)
 ### Featured — UK: Has the government learnt anything from the fire at Napier? No\.
 
 
-![](assets/527b77724a7/0*Zk7rz0ujfcKJrUMP)
+![](../assets/527b77724a7/0*Zk7rz0ujfcKJrUMP)
 
 
 
-![](assets/527b77724a7/0*4zHNwmik0p1VsDFY.jpeg)
+![](../assets/527b77724a7/0*4zHNwmik0p1VsDFY.jpeg)
 
 
 \(Photo Credit: [Choose Love](https://twitter.com/chooselove/status/1355827062423105536) \)
@@ -81,35 +81,35 @@ CYPRUS
 Over 1,600 people currently living in a space for 600 as reported by [@radiofragmata](https://twitter.com/radiofragmata) \.
 
 
-![](assets/527b77724a7/0*9foDd6NncBY5tQkM)
+![](../assets/527b77724a7/0*9foDd6NncBY5tQkM)
 
 
 
-![](assets/527b77724a7/0*rohdqsp5rqgY4M77.jpeg)
+![](../assets/527b77724a7/0*rohdqsp5rqgY4M77.jpeg)
 
 
 
-![](assets/527b77724a7/0*uEh7DuV8l8QRzVwA)
+![](../assets/527b77724a7/0*uEh7DuV8l8QRzVwA)
 
 
 
-![](assets/527b77724a7/0*FZYSHE1X7HqWJNkO.jpeg)
+![](../assets/527b77724a7/0*FZYSHE1X7HqWJNkO.jpeg)
 
 
 
-![](assets/527b77724a7/0*-2aRC-Ofd6FVhZey)
+![](../assets/527b77724a7/0*-2aRC-Ofd6FVhZey)
 
 
 
-![](assets/527b77724a7/0*xCPiJYSdjcNfqMvL.jpeg)
+![](../assets/527b77724a7/0*xCPiJYSdjcNfqMvL.jpeg)
 
 
 
-![](assets/527b77724a7/0*8KSlbX193ckbK-6c)
+![](../assets/527b77724a7/0*8KSlbX193ckbK-6c)
 
 
 
-![](assets/527b77724a7/0*ER5zJZs8D9pq1hKQ.jpeg)
+![](../assets/527b77724a7/0*ER5zJZs8D9pq1hKQ.jpeg)
 
 
 \(Photo Credit: [@radiofragmata](https://twitter.com/radiofragmata) \)
@@ -123,27 +123,27 @@ Turkish media [report](https://www.dailysabah.com/turkey/turkish-coast-guard-res
 On Saturday, across Greece, [several demonstrations and actions](https://www.facebook.com/events/1330013434033872/) took place in solidarity with people on the move\.
 
 
-![](assets/527b77724a7/0*THvpbcdGmofIkd7C)
+![](../assets/527b77724a7/0*THvpbcdGmofIkd7C)
 
 
 
-![](assets/527b77724a7/0*oIpcxFXBHNFUMrGa.jpeg)
+![](../assets/527b77724a7/0*oIpcxFXBHNFUMrGa.jpeg)
 
 
 
-![](assets/527b77724a7/0*c95mAZhhe01T9I-A)
+![](../assets/527b77724a7/0*c95mAZhhe01T9I-A)
 
 
 
-![](assets/527b77724a7/0*AjYbpEyFhQ1fTFTP.jpeg)
+![](../assets/527b77724a7/0*AjYbpEyFhQ1fTFTP.jpeg)
 
 
 
-![](assets/527b77724a7/0*DBnvFxyzeGVzwf_G)
+![](../assets/527b77724a7/0*DBnvFxyzeGVzwf_G)
 
 
 
-![](assets/527b77724a7/0*KwML7CupfkdfO-I1.jpeg)
+![](../assets/527b77724a7/0*KwML7CupfkdfO-I1.jpeg)
 
 
 Left to Right: Athens \(Photo by [Solidarity with Migrants](https://www.facebook.com/solidaritymigrants/posts/242914287331108) \), Chania, Crete \(photo by [Αυτοοργανωμένοι Δημόσιοι Χώροι](https://www.facebook.com/SolidarityWithRosaNera/?__cft__[0]=AZWPHMdsQN0Vp5yHBV_zSqwvDz9WKRbFbIgJcHxmTDxg7GLVYcSVe4FCZKtQpddaV0DK9bQmCvFSoI2vD0SSgxFiOC15oFGNHUrqlRgVTRbdoeHVNVixrmVZXLBa364LczswaK-oZq2E2y5G9B9_lp_R&__tn__=-UC%2CP-R) \), Thessaloniki \(photo by [Stop War on Migrants](https://www.facebook.com/StopWarOnMigrants/?__cft__[0]=AZV-P9F6QsJT83M_hClggv43-iGMf-KCjEAlpkA0ecpdng0q6Z_WgxEpHH9U3RUMXDIqMyBjasendj0dtiNfIpLyp0O9Jd5Pj5_3PmGzpDePLszM8mvXcg_Po7VYI-xRO9L5C04IXxBa87dnWevj_rz6&__tn__=-UC%2CP-R) \) — Saturday 30 January 2020\)

@@ -1,5 +1,5 @@
 ---
-title: AYS digest 28/11: Cold November rain does not stop and cannot put out fires
+title: "AYS digest 28/11: Cold November rain does not stop and cannot put out fires"
 author: Are You Syrious?
 date: 2016-11-28T23:29:32.227+0000
 last_modified_at: 2016-11-29T18:37:17.534+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: November rain hitting camps in Greece with snow to come / Fire in Nea Kavala camp / Petra camp being emptied out / Aleppo is still burning…
 image:
-  path: assets/49f1a924037c/1*15yuXZogfu7iYdkY6DhD2A.jpeg
+  path: ../assets/49f1a924037c/1*15yuXZogfu7iYdkY6DhD2A.jpeg
 ---
 
 ### AYS digest 28/11: Cold November rain does not stop and cannot put out fires
@@ -15,7 +15,7 @@ image:
 _November rain hitting camps in Greece with snow to come / Fire in Nea Kavala camp / Petra camp being emptied out / Aleppo is still burning with civilians seeking refuge in Kurdish part of the city / Watch the Med reports increased violence against migrants and NGOs in the Mediterranean / 2016 — a year of record numbers of asylum seekers in Italy / Austrian organization, Border Crossing Spielfeld, seeks help / France offering money for voluntary returns / Donations and volunteers needed in Greece, Serbia, Italy and France_
 
 
-![Nea Kavala\. We Are Here community center burned down this morning\.](assets/49f1a924037c/1*15yuXZogfu7iYdkY6DhD2A.jpeg)
+![Nea Kavala\. We Are Here community center burned down this morning\.](../assets/49f1a924037c/1*15yuXZogfu7iYdkY6DhD2A.jpeg)
 
 Nea Kavala\. We Are Here community center burned down this morning\.
 #### Greece
@@ -27,26 +27,26 @@ Severe weather conditions off the coast of many Greek islands\. Waves as high as
 There have been 69 new arrivals on the Greek islands in the last 24 hours while both the mainland and the islands experience harsh weather and even fires\. Several camps in Chios and Lesvos report heavy rain, with storms pummeling facilities ill\-equipped for the winter weather\. Camps on the mainland have also been affected, bringing to mind Axl Rose’s “November rain\.”
 
 
-![Lesvos\. Moria camp](assets/49f1a924037c/1*dYHSkcUwxkNKxOGoWA32cg.jpeg)
+![Lesvos\. Moria camp](../assets/49f1a924037c/1*dYHSkcUwxkNKxOGoWA32cg.jpeg)
 
 Lesvos\. Moria camp
 
 MSF reports that heavy rains are making life even more unbearable in Moria camp, Lesvos, as previous damage caused by fires was never repaired\. Dromografos News has reported a similar situation on Chios\. On the mainland, suffering in places such as Katsikas camp brings to mind desperation from last year’s encampment in Idomeni\.
 
 
-![Chios](assets/49f1a924037c/1*2JG_QXip0Q8G3xJwej_yug.jpeg)
+![Chios](../assets/49f1a924037c/1*2JG_QXip0Q8G3xJwej_yug.jpeg)
 
 Chios
 
 
-![Katsikas camp](assets/49f1a924037c/1*kmugpJusCRYR6Wq3GTxalw.jpeg)
+![Katsikas camp](../assets/49f1a924037c/1*kmugpJusCRYR6Wq3GTxalw.jpeg)
 
 Katsikas camp
 
 Heavy rains have not, however, prevented fires from breaking out\. Kathimerini News reports that a fire broke out this morning in Nea Kavala camp\. The fire seems to have originated at the “We Are Here” school and community center in the camp\. Fortunately, no injuries have been reported\.
 
 
-![Burnt down community center in Nea Kavala camp](assets/49f1a924037c/1*k_LkYyq6ROl2yXmUfdGR4g.jpeg)
+![Burnt down community center in Nea Kavala camp](../assets/49f1a924037c/1*k_LkYyq6ROl2yXmUfdGR4g.jpeg)
 
 Burnt down community center in Nea Kavala camp
 
@@ -68,7 +68,7 @@ In other camp news, vaccinations against Hepatitis A are now available in Filipp
 Filippiada also reports that their madrasa is up and running with English classes to be held in the morning and Arabic and art in the afternoons\.
 
 
-![](assets/49f1a924037c/1*CrhZHXJ1WRlHeTRLbSG7Mw.jpeg)
+![](../assets/49f1a924037c/1*CrhZHXJ1WRlHeTRLbSG7Mw.jpeg)
 
 ### **Expect the snow, hope for less rain**
 
@@ -81,7 +81,7 @@ As besieged Aleppo is falling, thousands of civilians have sought refuge in Shei
 “The bombardment also destroyed two SCD centres out of a total of four in the besieged part of the city\. Further, as at the time of writing this statement, 35 people are still stuck under the rubble because our teams have not been able to reach them since yesterday\.
 
 
-![Aleppo](assets/49f1a924037c/1*JYNocmhNy-kHhca5nQxx5Q.jpeg)
+![Aleppo](../assets/49f1a924037c/1*JYNocmhNy-kHhca5nQxx5Q.jpeg)
 
 Aleppo
 
@@ -99,7 +99,7 @@ Despite the EU’s appalling practices, keeping people out or forcing people int
 ### **Baobab Experience needs donations**
 
 
-![Baobab Experience community](assets/49f1a924037c/1*VsdzoyOcb2rpvARQ3nhb-A.jpeg)
+![Baobab Experience community](../assets/49f1a924037c/1*VsdzoyOcb2rpvARQ3nhb-A.jpeg)
 
 Baobab Experience community
 
@@ -123,7 +123,7 @@ Hot Food Idomeni has posted the following message and is reaching out to all tho
 Further to the north, our friends at [North Star](https://www.facebook.com/NorthStarSerbia/) described the situation in Kelebija Community Center as “Rainy Sundays\!” They added that, “Yesterday, we had around 60 people show up at the KCC and stay most of the day\. This was due in part to the fact that the tents at the KCC are some of the only large structures that can keep people out of the rain\. Pictured below are some members of our community support team\. We have now assembled a roster of community supporters who are residents of the Kelebija Transit Zone\. These are the people you can count on, and with their help we’re able to stay up\-to\-date on the needs of the community and respond to them ASAP\. Thank you, community team\! You guys are the BEST\.”
 
 
-![Kelebija Community Center crew](assets/49f1a924037c/1*LnX4gVGZ7Llxkff88SgVMQ.jpeg)
+![Kelebija Community Center crew](../assets/49f1a924037c/1*LnX4gVGZ7Llxkff88SgVMQ.jpeg)
 
 Kelebija Community Center crew
 
@@ -156,7 +156,7 @@ For more information see [their FB page](https://www.facebook.com/RefugeesSpielf
 ### **Volunteers needed in Dunkirk**
 
 
-![Dunkirk Refugee Children’s Centre](assets/49f1a924037c/1*Nve4RPQZ86HvpKgsJ1e2og.jpeg)
+![Dunkirk Refugee Children’s Centre](../assets/49f1a924037c/1*Nve4RPQZ86HvpKgsJ1e2og.jpeg)
 
 Dunkirk Refugee Children’s Centre
 

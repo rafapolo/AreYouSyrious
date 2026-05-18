@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,athens,dublin-returns,push-backs]
 description: Housing shortage in Athens /// Demonstrations in Greece /// Detailed report on push-backs on the Greek-Turkish border /// Snow on the…
 image:
-  path: assets/dbd81f816f64/1*erSoF4C3HeCqvgyDf2lf4Q.jpeg
+  path: ../assets/dbd81f816f64/1*erSoF4C3HeCqvgyDf2lf4Q.jpeg
 ---
 
 ### AYS Daily Digest 14/12/2018 Italy not safe for Vulnerable Dublin Returnees
@@ -15,7 +15,7 @@ image:
 Housing shortage in Athens /// Demonstrations in Greece /// Detailed report on push\-backs on the Greek\-Turkish border /// Snow on the Bosnian\-Croatian border /// Turkey bombs refugee camp in Iraq…
 
 
-![Currently, there are around 1,550 refugees and migrants on the Greek island of Chios\. Though the island’s camp is not as overcrowded as on neighboring Lesbos and Samos, conditions in the camp are dire\. \(Photo by Naser Ahmadi — More info and photos [HERE](https://www.facebook.com/pg/InfoMigrants/photos/?tab=album&album_id=1825814077540369) \)](assets/dbd81f816f64/1*erSoF4C3HeCqvgyDf2lf4Q.jpeg)
+![Currently, there are around 1,550 refugees and migrants on the Greek island of Chios\. Though the island’s camp is not as overcrowded as on neighboring Lesbos and Samos, conditions in the camp are dire\. \(Photo by Naser Ahmadi — More info and photos [HERE](https://www.facebook.com/pg/InfoMigrants/photos/?tab=album&album_id=1825814077540369) \)](../assets/dbd81f816f64/1*erSoF4C3HeCqvgyDf2lf4Q.jpeg)
 
 Currently, there are around 1,550 refugees and migrants on the Greek island of Chios\. Though the island’s camp is not as overcrowded as on neighboring Lesbos and Samos, conditions in the camp are dire\. \(Photo by Naser Ahmadi — More info and photos [HERE](https://www.facebook.com/pg/InfoMigrants/photos/?tab=album&album_id=1825814077540369) \)
 #### FEATURE — Italy not safe for Vulnerable Dublin Returnees
@@ -111,7 +111,7 @@ Read the full report in [English](file:///home/acquacheta/Downloads/REPORT_EN.pd
 #### How many more deaths?
 
 
-![[No border Kitchen](https://noborderkitchenlesvos.noblogs.org/post/2018/12/13/how-many-more-deaths-in-europe/) , Lesvos](assets/dbd81f816f64/1*42Dfts_3YpC9Jdah22YM3w.jpeg)
+![[No border Kitchen](https://noborderkitchenlesvos.noblogs.org/post/2018/12/13/how-many-more-deaths-in-europe/) , Lesvos](../assets/dbd81f816f64/1*42Dfts_3YpC9Jdah22YM3w.jpeg)
 
 [No border Kitchen](https://noborderkitchenlesvos.noblogs.org/post/2018/12/13/how-many-more-deaths-in-europe/) , Lesvos
 
@@ -157,7 +157,7 @@ Read the whole statement [HERE](https://noborderkitchenlesvos.noblogs.org/post/2
 #### Antifascist demonstration launched in Mytilene, Lesvos, for next Wednesday
 
 
-![[Protest against racism and xenophobia — Wednesday 19, 5PM, Central Lyceums, Mytilene](https://twitter.com/_Wiesenthal_S_/status/1073525642568916993?s=19&fbclid=IwAR1KUTQVoLHhOHPekUlz7WnI1FR6rEEYglmnE5OSlRcU87DgyIckGktXL7g)](assets/dbd81f816f64/1*rGncZ9A9NU3BMhryV34Nbw.jpeg)
+![[Protest against racism and xenophobia — Wednesday 19, 5PM, Central Lyceums, Mytilene](https://twitter.com/_Wiesenthal_S_/status/1073525642568916993?s=19&fbclid=IwAR1KUTQVoLHhOHPekUlz7WnI1FR6rEEYglmnE5OSlRcU87DgyIckGktXL7g)](../assets/dbd81f816f64/1*rGncZ9A9NU3BMhryV34Nbw.jpeg)
 
 [Protest against racism and xenophobia — Wednesday 19, 5PM, Central Lyceums, Mytilene](https://twitter.com/_Wiesenthal_S_/status/1073525642568916993?s=19&fbclid=IwAR1KUTQVoLHhOHPekUlz7WnI1FR6rEEYglmnE5OSlRcU87DgyIckGktXL7g)
 #### Feminist Demonstration in Athens
@@ -213,15 +213,15 @@ As Our House reports, most of the shelters in Athens are full\. Squats are full 
 #### Help needed at “Single men” squat, Athens
 
 
-![](assets/dbd81f816f64/1*4iLTldhGSZQG6vPDpDzZ4Q.jpeg)
+![](../assets/dbd81f816f64/1*4iLTldhGSZQG6vPDpDzZ4Q.jpeg)
 
 
 
-![](assets/dbd81f816f64/1*6VK12WSPannnTKuEjP71gQ.jpeg)
+![](../assets/dbd81f816f64/1*6VK12WSPannnTKuEjP71gQ.jpeg)
 
 
 
-![“Single Men” squat, Exarchia, Athens \(photo by [SOS Refugiados](https://www.facebook.com/sosrefugiados/posts/2396275273747124?hc_location=ufi) \)](assets/dbd81f816f64/1*-RkXpxuDjF7g-R8_xh0k1A.jpeg)
+![“Single Men” squat, Exarchia, Athens \(photo by [SOS Refugiados](https://www.facebook.com/sosrefugiados/posts/2396275273747124?hc_location=ufi) \)](../assets/dbd81f816f64/1*-RkXpxuDjF7g-R8_xh0k1A.jpeg)
 
 “Single Men” squat, Exarchia, Athens \(photo by [SOS Refugiados](https://www.facebook.com/sosrefugiados/posts/2396275273747124?hc_location=ufi) \)
 
@@ -257,7 +257,7 @@ ITALY
 A large coalition of organisations launched “ [Get Up\! Stand Up\! Stand up for your rights](https://www.facebook.com/events/365924487547928/) ” demonstration in Rome for Saturday 15th\.
 
 
-![](assets/dbd81f816f64/1*DXW_tp4Zj84_e69NakfInQ.jpeg)
+![](../assets/dbd81f816f64/1*DXW_tp4Zj84_e69NakfInQ.jpeg)
 
 
 
@@ -285,12 +285,12 @@ BOSNIA/CROATIA
 #### The Situation is Deteriorating as the Temperature plummets
 
 
-![Kljuc, at the border between Bosnia and Croatia \(photo by [Crveni Križ Općine Ključ](https://www.facebook.com/profile.php?id=100009318317491&__tn__=%2Cd%2AF%2AF-R&eid=ARD6q87dJ4t0nf9GUmYQ0F6l1cRj2Mii0mR6wh_pJgJtfiFWEf_u1EJnOZlW6TC4Y8Oz0mjF_DSbAYfG&tn-str=%2AF) \)](assets/dbd81f816f64/1*k8wiMnWzQiPP2_4YJssNmw.jpeg)
+![Kljuc, at the border between Bosnia and Croatia \(photo by [Crveni Križ Općine Ključ](https://www.facebook.com/profile.php?id=100009318317491&__tn__=%2Cd%2AF%2AF-R&eid=ARD6q87dJ4t0nf9GUmYQ0F6l1cRj2Mii0mR6wh_pJgJtfiFWEf_u1EJnOZlW6TC4Y8Oz0mjF_DSbAYfG&tn-str=%2AF) \)](../assets/dbd81f816f64/1*k8wiMnWzQiPP2_4YJssNmw.jpeg)
 
 Kljuc, at the border between Bosnia and Croatia \(photo by [Crveni Križ Općine Ključ](https://www.facebook.com/profile.php?id=100009318317491&__tn__=%2Cd%2AF%2AF-R&eid=ARD6q87dJ4t0nf9GUmYQ0F6l1cRj2Mii0mR6wh_pJgJtfiFWEf_u1EJnOZlW6TC4Y8Oz0mjF_DSbAYfG&tn-str=%2AF) \)
 
 
-![Kljuc, at the border between Bosnia and Croatia \(photo by [Crveni Križ Općine Ključ](https://www.facebook.com/profile.php?id=100009318317491&__tn__=%2Cd%2AF%2AF-R&eid=ARD6q87dJ4t0nf9GUmYQ0F6l1cRj2Mii0mR6wh_pJgJtfiFWEf_u1EJnOZlW6TC4Y8Oz0mjF_DSbAYfG&tn-str=%2AF) \)](assets/dbd81f816f64/1*Vzyn3EszODYj83YPEFVozQ.jpeg)
+![Kljuc, at the border between Bosnia and Croatia \(photo by [Crveni Križ Općine Ključ](https://www.facebook.com/profile.php?id=100009318317491&__tn__=%2Cd%2AF%2AF-R&eid=ARD6q87dJ4t0nf9GUmYQ0F6l1cRj2Mii0mR6wh_pJgJtfiFWEf_u1EJnOZlW6TC4Y8Oz0mjF_DSbAYfG&tn-str=%2AF) \)](../assets/dbd81f816f64/1*Vzyn3EszODYj83YPEFVozQ.jpeg)
 
 Kljuc, at the border between Bosnia and Croatia \(photo by [Crveni Križ Općine Ključ](https://www.facebook.com/profile.php?id=100009318317491&__tn__=%2Cd%2AF%2AF-R&eid=ARD6q87dJ4t0nf9GUmYQ0F6l1cRj2Mii0mR6wh_pJgJtfiFWEf_u1EJnOZlW6TC4Y8Oz0mjF_DSbAYfG&tn-str=%2AF) \)
 

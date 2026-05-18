@@ -1,5 +1,5 @@
 ---
-title: AYS digest 06/02: Hunger strikes in Greece, halted deportations to Afghanistan in Germany
+title: "AYS digest 06/02: Hunger strikes in Greece, halted deportations to Afghanistan in Germany"
 author: Are You Syrious?
 date: 2017-02-06T21:41:08.780+0000
 last_modified_at: 2017-02-07T09:12:18.466+0000
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe]
 description: 54 people came to Lesvos today / Samos hunger strike continues / Elliniko hunger strike continues, Mouzalas claims that it does not /…
 image:
-  path: assets/185da631cdf2/1*AkNLi7pxlAF4PDR273nA3w.jpeg
+  path: ../assets/185da631cdf2/1*AkNLi7pxlAF4PDR273nA3w.jpeg
 ---
 
 ### AYS digest 06/02: Hunger strikes in Greece, halted deportations to Afghanistan in Germany
 
 
-![Elliniko camp today\. Photo: Art Against](assets/185da631cdf2/1*AkNLi7pxlAF4PDR273nA3w.jpeg)
+![Elliniko camp today\. Photo: Art Against](../assets/185da631cdf2/1*AkNLi7pxlAF4PDR273nA3w.jpeg)
 
 Elliniko camp today\. Photo: Art Against
 
@@ -35,7 +35,7 @@ The Samos hunger strike is not the only one as there is also an ongoing hunger s
 ### **Mouzalas claims that there is no hunger strike amidst protest in Elliniko camp**
 
 
-![Mouzalas blocked\. Elliniko camp\. Photo: Kathimerini News](assets/185da631cdf2/1*aO1pI6e-dbcgF7XfW9EJyA.jpeg)
+![Mouzalas blocked\. Elliniko camp\. Photo: Kathimerini News](../assets/185da631cdf2/1*aO1pI6e-dbcgF7XfW9EJyA.jpeg)
 
 Mouzalas blocked\. Elliniko camp\. Photo: Kathimerini News
 
@@ -74,7 +74,7 @@ This is an unusually high number for winter, when crossings tend to slow because
 ### **Makeshift camp in Piazzale Spadolini disassembled**
 
 
-![Photo: Baobab Experience](assets/185da631cdf2/1*-yV5aCaG0DK9cvUE5cHNkw.jpeg)
+![Photo: Baobab Experience](../assets/185da631cdf2/1*-yV5aCaG0DK9cvUE5cHNkw.jpeg)
 
 Photo: Baobab Experience
 
@@ -91,7 +91,7 @@ As reported from the field, around 40 people were counted in the morning around 
 ### **Short report on conditions in CAO Saint Omer center**
 
 
-![](assets/185da631cdf2/1*9sDaZTkLv3vQqPyZ9J4u_A.jpeg)
+![](../assets/185da631cdf2/1*9sDaZTkLv3vQqPyZ9J4u_A.jpeg)
 
 
 One of the activist teams was in CAO Saint Omer, a center for unaccompanied minors, and has reported on conditions in this facility\. It has capacity for 45 teenagers and is permanently full\. Residents are allowed to stay for five nights\. After that they have to leave for one night, which means they are relegated to sleeping mostly in the streets\. People in the CAO get breakfast and in an office not far away they get French language classes and a meal\. It wasn’t possible to talk to staff onsite because they don’t speak English\.

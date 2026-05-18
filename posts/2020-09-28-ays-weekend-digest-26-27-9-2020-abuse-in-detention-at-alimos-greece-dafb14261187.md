@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 26–27/9/2020: Abuse in detention at Alimos, Greece
+title: "AYS Weekend Digest 26–27/9/2020: Abuse in detention at Alimos, Greece"
 author: Are You Syrious?
 date: 2020-09-28T11:24:28.104+0100
 last_modified_at: 2020-09-28T12:33:54.188+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [lesvos,malakasa,alimos,central-mediterranean,save-pikpa]
 description: First covid-related death in Malakasa/ Updates from #SavePikpa campaign / More than 200 deaths in the Central Med over the last week / more
 image:
-  path: assets/dafb14261187/1*goFPf-lTnq4jYnmkE56_bg.jpeg
+  path: ../assets/dafb14261187/1*goFPf-lTnq4jYnmkE56_bg.jpeg
 ---
 
 ### AYS Weekend Digest 26–27/9/2020: Abuse in detention at Alimos, Greece
@@ -15,7 +15,7 @@ image:
 First covid\-related death in Malakasa camp in Greece // Updates from \#SavePikpa campaign on Lesvos // More than 200 deaths in the Central Med over the last week // Protests in reception centre in southern Italy // and more…
 
 
-![Lesvos, September 2020, survivors of the Moria refugee camp\. \(Photograph by Aggelos Barai\)](assets/dafb14261187/1*goFPf-lTnq4jYnmkE56_bg.jpeg)
+![Lesvos, September 2020, survivors of the Moria refugee camp\. \(Photograph by Aggelos Barai\)](../assets/dafb14261187/1*goFPf-lTnq4jYnmkE56_bg.jpeg)
 
 Lesvos, September 2020, survivors of the Moria refugee camp\. \(Photograph by Aggelos Barai\)
 #### Featured: Abuse in police detention in Athens, Greece
@@ -23,7 +23,7 @@ Lesvos, September 2020, survivors of the Moria refugee camp\. \(Photograph by Ag
 AYS team members were contacted by a friend of detainees in Alimos, south of Athens, on Sunday\. On the same day, a 23 year old Palestinian young man attempted suicide at 3PM\.
 
 
-![](assets/dafb14261187/1*l-J00Ylm5ydUu63FQ_sLug.jpeg)
+![](../assets/dafb14261187/1*l-J00Ylm5ydUu63FQ_sLug.jpeg)
 
 
 Fellow detainees asked for medical help right away, and continued asking for help from the officers\. At 5\.46PM no help for the man had arrived, nor any other signs of action from the police officers\.
@@ -231,7 +231,7 @@ FRANCE
 About forty people are currently living in the [squat of the former post office](https://radar.squat.net/en/saint-etienne/squat-de-lancienne-poste-de-solaure) , including school children, people in poor health and people undergoing training\.
 
 
-![Solaure ex\-post office squat, St\. Etienne \(Photo via [Enoughisenough14](https://enoughisenough14.org/2020/09/27/saint-etienne-france-imminent-eviction-of-the-squat-of-the-post-office-of-solaure/) \)](assets/dafb14261187/1*OoDZ8x2JPv-6NakbWB9PSg.jpeg)
+![Solaure ex\-post office squat, St\. Etienne \(Photo via [Enoughisenough14](https://enoughisenough14.org/2020/09/27/saint-etienne-france-imminent-eviction-of-the-squat-of-the-post-office-of-solaure/) \)](../assets/dafb14261187/1*OoDZ8x2JPv-6NakbWB9PSg.jpeg)
 
 Solaure ex\-post office squat, St\. Etienne \(Photo via [Enoughisenough14](https://enoughisenough14.org/2020/09/27/saint-etienne-france-imminent-eviction-of-the-squat-of-the-post-office-of-solaure/) \)
 

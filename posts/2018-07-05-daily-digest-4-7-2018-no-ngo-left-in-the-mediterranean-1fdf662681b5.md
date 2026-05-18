@@ -1,5 +1,5 @@
 ---
-title: DAILY DIGEST 4/7/2018: No NGO left in the Mediterranean
+title: "DAILY DIGEST 4/7/2018: No NGO left in the Mediterranean"
 author: Are You Syrious?
 date: 2018-07-05T04:01:39.899+0100
 last_modified_at: 2018-07-05T11:43:15.016+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,mediterranean,germany,france,digest]
 description: All rescue teams have been forced to stay in harbors, as the EU uses drowning people to scare others from attempting to cross the sea /…
 image:
-  path: assets/1fdf662681b5/1*F9K5eN5lU5_H5TCty1EBYg.jpeg
+  path: ../assets/1fdf662681b5/1*F9K5eN5lU5_H5TCty1EBYg.jpeg
 ---
 
 ### DAILY DIGEST 4/7/2018: No NGO left in the Mediterranean
 #### All rescue teams have been forced to stay in harbors, as the EU uses drowning people to scare others from attempting to cross the sea / Numbers in Nea Kavala camp expected to double / 14\-year old missing in Koutsochero / Trouble for minors in Paris
 
 
-![Credits: [Gegen das Sterben im Mittelmeer](https://www.facebook.com/StopTheDying/photos/a.193862057798050.1073741828.190323768151879/418094922041428/?type=3&theater)](assets/1fdf662681b5/1*F9K5eN5lU5_H5TCty1EBYg.jpeg)
+![Credits: [Gegen das Sterben im Mittelmeer](https://www.facebook.com/StopTheDying/photos/a.193862057798050.1073741828.190323768151879/418094922041428/?type=3&theater)](../assets/1fdf662681b5/1*F9K5eN5lU5_H5TCty1EBYg.jpeg)
 
 Credits: [Gegen das Sterben im Mittelmeer](https://www.facebook.com/StopTheDying/photos/a.193862057798050.1073741828.190323768151879/418094922041428/?type=3&theater)
 ### Feature
@@ -89,7 +89,7 @@ People from [Pikpa camp](https://www.facebook.com/groups/633160610380429/) are c
 On the mainland, [A Drop in the Ocean](https://www.facebook.com/drapenihavet/posts/2149189195098518) expects the number of residents at Nea Kavala camp to double in the next days when Diavata closes\. “The residents who are already there have been moved closer together to create space for more people in the containers,” they said\. Just today, more than 100 people arrived, and 300 more may follow\. The volunteers started preparing to double the portions of vegetables\.
 
 
-![Tents at the camp in Nea Kavala\. Credits: [Dråpen i Havet](https://www.facebook.com/drapenihavet/)](assets/1fdf662681b5/1*icRCbkvI9Hp6LmkMo3alYg.jpeg)
+![Tents at the camp in Nea Kavala\. Credits: [Dråpen i Havet](https://www.facebook.com/drapenihavet/)](../assets/1fdf662681b5/1*icRCbkvI9Hp6LmkMo3alYg.jpeg)
 
 Tents at the camp in Nea Kavala\. Credits: [Dråpen i Havet](https://www.facebook.com/drapenihavet/)
 
@@ -124,7 +124,7 @@ Further more, Human Rights Watch [highlights](https://www.hrw.org/report/2018/07
 The French Red Cross handling the assessment is accused of often doing only short interviews ending with a verbal denial\. Many were “turned away at the door by security guards”\. Other reasons for a rejection were missing documents, optionally too detailed or imprecise accounts, traveling unaccompanied or working\. Their treatment was “arbitrary, denies children a fair hearing, and fails to uphold the obligation to prioritize the best interest of the child\.”
 
 
-[![France: Migrant Kids Left to Sleep in the Street](assets/1fdf662681b5/ed99_hqdefault.jpg "France: Migrant Kids Left to Sleep in the Street")](http://www.youtube.com/watch?v=lRqZLsFIamg)
+[![France: Migrant Kids Left to Sleep in the Street](../assets/1fdf662681b5/ed99_hqdefault.jpg "France: Migrant Kids Left to Sleep in the Street")](http://www.youtube.com/watch?v=lRqZLsFIamg)
 
 
 After water was turned off for migrants in Paris, [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?fref=mentions) issued an call for help\. They need water and volunteers in Paris\! They are one of the main sources of food for hundreds of people who are living on the streets\!

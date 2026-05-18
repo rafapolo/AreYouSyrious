@@ -1,5 +1,5 @@
 ---
-title: News Digest: 22.11.2021 Lukashenko Interview
+title: "News Digest: 22.11.2021 Lukashenko Interview"
 author: Are You Syrious?
 date: 2021-11-23T11:26:11.081+0000
 last_modified_at: 2021-11-23T19:20:36.286+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [eu,digest,belarus]
 description: Smugglers profit, despite worsening weather at sea, NGO says//El Hiblu 3 — trial explained//Loss of life near Crete//Lipa Camp Ceremony in…
 image:
-  path: assets/c1c56a46ca0c/0*aEELxAC1EWOxztxv
+  path: ../assets/c1c56a46ca0c/0*aEELxAC1EWOxztxv
 ---
 
 ### News Digest: 22\.11\.2021 Lukashenko Interview
@@ -17,14 +17,14 @@ image:
 #### Lukashenko talks to the BBC whilst the dead are being buried
 
 
-![Photo Credit: [Jana Shnipelson](https://unsplash.com/@shnipelson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/belarus?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](assets/c1c56a46ca0c/0*aEELxAC1EWOxztxv)
+![Photo Credit: [Jana Shnipelson](https://unsplash.com/@shnipelson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/belarus?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](../assets/c1c56a46ca0c/0*aEELxAC1EWOxztxv)
 
 Photo Credit: [Jana Shnipelson](https://unsplash.com/@shnipelson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/belarus?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 A BBC interview with Belarus President Alexander Lukashenko has been released in which he defends election figures and addresses the current border situation\. In the interview, Lukashenko denied inviting migrants to his country, and denied detaining them at the border with Poland\.
 
 
-[![BBC: Exclusive Lukashenko interview](assets/c1c56a46ca0c/a401_hqdefault.jpg "BBC: Exclusive Lukashenko interview")](https://www.youtube.com/watch?v=ArWeoIK3Idc)
+[![BBC: Exclusive Lukashenko interview](../assets/c1c56a46ca0c/a401_hqdefault.jpg "BBC: Exclusive Lukashenko interview")](https://www.youtube.com/watch?v=ArWeoIK3Idc)
 
 
 Conditions at the border remain terrible\. [Reports of torture](https://www.infomigrants.net/en/post/36657/returned-iraqi-migrants-claim-they-were-tortured-in-belarus-and-poland?fbclid=IwAR232AHGQK2ZVmU4hB7InDXN2NnG7tFJYqO5mjX_Pe0E78KVJ-t4GRSKke0) at the hands of the Belarusian and Polish authorities have been made by Iraqi nationals who have since returned home\. Claims of being treated ‘inhumanely’ and a denial of food and water are among the complaints of those who spent time trapped at the border before being deported\.
@@ -96,7 +96,7 @@ Criticism of the language learning system used in Slovenia, among other things, 
 #### Thousands protest across France
 
 
-![Photo Credit: [Utopia 56](https://www.facebook.com/U56ParisIDF/posts/2780858972213545)](assets/c1c56a46ca0c/0*J0V1xj3Itdc_8XH6)
+![Photo Credit: [Utopia 56](https://www.facebook.com/U56ParisIDF/posts/2780858972213545)](../assets/c1c56a46ca0c/0*J0V1xj3Itdc_8XH6)
 
 Photo Credit: [Utopia 56](https://www.facebook.com/U56ParisIDF/posts/2780858972213545)
 
@@ -111,7 +111,7 @@ Also in Northern France, police are [being equipped with high\-tech equipment](h
 #### UK Home Office under fire
 
 
-![Rachel Lowden and Jane Grimshaw, welcoming refugees to the UK Photo Credit: [Hastings Community of Sanctuary](https://twitter.com/HastSanctuary/status/1462581253731926018?fbclid=IwAR3xGx9ULGeueBbuhvs4KAY5z7FeFYkbhU08GbKw4ApW7NiFb8cNnamAv_I)](assets/c1c56a46ca0c/0*bhzzTAKW0UsiwXkE)
+![Rachel Lowden and Jane Grimshaw, welcoming refugees to the UK Photo Credit: [Hastings Community of Sanctuary](https://twitter.com/HastSanctuary/status/1462581253731926018?fbclid=IwAR3xGx9ULGeueBbuhvs4KAY5z7FeFYkbhU08GbKw4ApW7NiFb8cNnamAv_I)](../assets/c1c56a46ca0c/0*bhzzTAKW0UsiwXkE)
 
 Rachel Lowden and Jane Grimshaw, welcoming refugees to the UK Photo Credit: [Hastings Community of Sanctuary](https://twitter.com/HastSanctuary/status/1462581253731926018?fbclid=IwAR3xGx9ULGeueBbuhvs4KAY5z7FeFYkbhU08GbKw4ApW7NiFb8cNnamAv_I)
 
@@ -126,7 +126,7 @@ Outlandish and cruel methods are being suggested in order to deter people from w
 #### Frontex figures
 
 
-![Photo Credit: [Frontex via Twitter](https://twitter.com/dgatopoulos/status/1462894078232825861?fbclid=IwAR2XFismvKYb9nqpcFubMFrp5z1UhGBYYsfPMj36OT5YfTTKHfH089nY1Bw)](assets/c1c56a46ca0c/0*tuPujkYxnPx9U6pL)
+![Photo Credit: [Frontex via Twitter](https://twitter.com/dgatopoulos/status/1462894078232825861?fbclid=IwAR2XFismvKYb9nqpcFubMFrp5z1UhGBYYsfPMj36OT5YfTTKHfH089nY1Bw)](../assets/c1c56a46ca0c/0*tuPujkYxnPx9U6pL)
 
 Photo Credit: [Frontex via Twitter](https://twitter.com/dgatopoulos/status/1462894078232825861?fbclid=IwAR2XFismvKYb9nqpcFubMFrp5z1UhGBYYsfPMj36OT5YfTTKHfH089nY1Bw)
 

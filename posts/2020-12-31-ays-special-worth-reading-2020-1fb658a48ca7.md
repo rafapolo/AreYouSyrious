@@ -1,5 +1,5 @@
 ---
-title: AYS Special: Worth Reading 2020
+title: "AYS Special: Worth Reading 2020"
 author: Are You Syrious?
 date: 2020-12-31T09:40:43.284+0000
 last_modified_at: 2020-12-31T11:40:56.814+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [special,worth-reading,2020,refugees,pandemic]
 description: With 2020 coming to an end, here is a summary of our Worth Reading section, highlighting some of the most important reads of the year.
 image:
-  path: assets/1fb658a48ca7/0*LTwx4ClOnJYnuSM_
+  path: ../assets/1fb658a48ca7/0*LTwx4ClOnJYnuSM_
 ---
 
 ### **AYS Special: Worth Reading 2020**
@@ -15,7 +15,7 @@ image:
 _2020 is coming to an end, a year filled with dramatic events, moments, developments\. A year with the Corona pandemic as a meta\-headline, setting the tune — or the sombre background — for most of what happened throughout the year\._
 
 
-![\( [ECHO mobile Library](http://echo-greece.org/) [\)](http://echo-greece.org/))](assets/1fb658a48ca7/0*LTwx4ClOnJYnuSM_)
+![\( [ECHO mobile Library](http://echo-greece.org/) [\)](http://echo-greece.org/))](../assets/1fb658a48ca7/0*LTwx4ClOnJYnuSM_)
 
 \( [ECHO mobile Library](http://echo-greece.org/) [\)](http://echo-greece.org/))
 
@@ -27,7 +27,7 @@ We hope you enjoy exploring these Good Reads, and you’re very welcome to add a
 #### **Solidarity and the criminalisation of solidarity**
 
 
-![\(Source: [Mare Liberum](https://mare-liberum.org/en/) \)](assets/1fb658a48ca7/0*rDS9v08GIHYgHmMR)
+![\(Source: [Mare Liberum](https://mare-liberum.org/en/) \)](../assets/1fb658a48ca7/0*rDS9v08GIHYgHmMR)
 
 \(Source: [Mare Liberum](https://mare-liberum.org/en/) \)
 
@@ -93,7 +93,7 @@ One of many examples of shipwrecks and the loss of life this year — 70 people 
 #### **Pushbacks and FRONTEX — Words of the Year?**
 
 
-![\(Pushbacks in the Aegean Sea\. April 2020\. Source: efsyn\.gr\)](assets/1fb658a48ca7/0*X3exS0MzqNDN2PzF)
+![\(Pushbacks in the Aegean Sea\. April 2020\. Source: efsyn\.gr\)](../assets/1fb658a48ca7/0*X3exS0MzqNDN2PzF)
 
 \(Pushbacks in the Aegean Sea\. April 2020\. Source: efsyn\.gr\)
 
@@ -125,7 +125,7 @@ The incidents have highlighted the role of both the Greek Coast Guard and of FRO
 #### **The Bigger Picture**
 
 
-![\(Source: [https://watson\.brown\.edu/\)](https://watson.brown.edu/))](assets/1fb658a48ca7/0*shKWoVW0CWJYchz7)
+![\(Source: [https://watson\.brown\.edu/\)](https://watson.brown.edu/))](../assets/1fb658a48ca7/0*shKWoVW0CWJYchz7)
 
 \(Source: [https://watson\.brown\.edu/\)](https://watson.brown.edu/))
 
@@ -147,7 +147,7 @@ At the same time, fewer than 20,000 people were resettled through the UN system\
 #### **European values in the mirror \(of the external borders\)**
 
 
-![Greek border forces prevent refugees and migrants from entering Europe via the Pazarkule crossing\. \(Photo by: [Belal Khaled](https://twitter.com/BelalKhaled/status/1238769238137098240/photo/1) \)](assets/1fb658a48ca7/1*BsrnyY6AAYHvIyCRcWG7MQ.jpeg)
+![Greek border forces prevent refugees and migrants from entering Europe via the Pazarkule crossing\. \(Photo by: [Belal Khaled](https://twitter.com/BelalKhaled/status/1238769238137098240/photo/1) \)](../assets/1fb658a48ca7/1*BsrnyY6AAYHvIyCRcWG7MQ.jpeg)
 
 Greek border forces prevent refugees and migrants from entering Europe via the Pazarkule crossing\. \(Photo by: [Belal Khaled](https://twitter.com/BelalKhaled/status/1238769238137098240/photo/1) \)
 
@@ -186,7 +186,7 @@ A controversial part of the proposed EU Migration Pact are the plans for increas
 #### **Borderlines and a Fire**
 
 
-![\(Moria, Lesvos\. September\. Moria burns\. Photo: [UNICEF photo of the Year/Angelos Tzortzinis](https://www.unicef.org/) \)](assets/1fb658a48ca7/0*lT2egQmvPH9hfYXt)
+![\(Moria, Lesvos\. September\. Moria burns\. Photo: [UNICEF photo of the Year/Angelos Tzortzinis](https://www.unicef.org/) \)](../assets/1fb658a48ca7/0*lT2egQmvPH9hfYXt)
 
 \(Moria, Lesvos\. September\. Moria burns\. Photo: [UNICEF photo of the Year/Angelos Tzortzinis](https://www.unicef.org/) \)
 
@@ -220,7 +220,7 @@ The Greek photographer Angelos Tzortzinis followed and documented the fire and w
 #### **Technological frontlines**
 
 
-![\(Source: [https://digit\.site36\.net/](https://digit.site36.net/) \)](assets/1fb658a48ca7/0*u40kK2ifDIKsTZwz)
+![\(Source: [https://digit\.site36\.net/](https://digit.site36.net/) \)](../assets/1fb658a48ca7/0*u40kK2ifDIKsTZwz)
 
 \(Source: [https://digit\.site36\.net/](https://digit.site36.net/) \)
 
@@ -238,7 +238,7 @@ Here is a more general view on the rapidly evolving use of new technologies in t
 #### **Human Rights under increased pressure**
 
 
-![\(First edition of the 1500 page book on illegal cross\-border pushbacks \(GUE/NGL\), Source: [BVMN](https://www.borderviolence.eu/launch-event-the-black-book-of-pushbacks/) \)](assets/1fb658a48ca7/0*RwQx9_6E-AieDa6X)
+![\(First edition of the 1500 page book on illegal cross\-border pushbacks \(GUE/NGL\), Source: [BVMN](https://www.borderviolence.eu/launch-event-the-black-book-of-pushbacks/) \)](../assets/1fb658a48ca7/0*RwQx9_6E-AieDa6X)
 
 \(First edition of the 1500 page book on illegal cross\-border pushbacks \(GUE/NGL\), Source: [BVMN](https://www.borderviolence.eu/launch-event-the-black-book-of-pushbacks/) \)
 
@@ -250,7 +250,7 @@ The Border Violence Monitoring Network \(BVMN\) has been one of the most vocal p
 #### **Perspectives and a chronology to wrap up the Year**
 
 
-![\( Efi Latsoudi, [Lesvos Solidarity — Pikpa](https://web.facebook.com/pikpalesvos) \)](assets/1fb658a48ca7/0*rZKqwWrCfAJX1Jw_)
+![\( Efi Latsoudi, [Lesvos Solidarity — Pikpa](https://web.facebook.com/pikpalesvos) \)](../assets/1fb658a48ca7/0*rZKqwWrCfAJX1Jw_)
 
 \( Efi Latsoudi, [Lesvos Solidarity — Pikpa](https://web.facebook.com/pikpalesvos) \)
 

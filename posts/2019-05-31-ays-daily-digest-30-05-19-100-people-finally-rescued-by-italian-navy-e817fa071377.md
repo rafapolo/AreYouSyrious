@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,italy,malta,syria,turkey]
 description: New arrivals in Greece // Idlib bombardment deaths // conditions of detention centers in Libya // protests in the UK // and more…
 image:
-  path: assets/e817fa071377/1*M2lCv1QxNEjQag9IZtov5Q.jpeg
+  path: ../assets/e817fa071377/1*M2lCv1QxNEjQag9IZtov5Q.jpeg
 ---
 
 ### AYS Daily Digest 30/05/19: 100 people finally rescued by Italian Navy
 #### _New arrivals in Greece // Idlib bombardment deaths // BiH: Official decision made about moving people to a campsite to be built in Vučjak, near Bihać // protests in the UK // and more…_
 
 
-![“ 13 years ago, the world was shocked by images of 27 migrants clinging for dear life to a tuna pen towed behind a trawler\. Yesterday, we collectively shrugged\.” Photo by [Marc Tilley](https://twitter.com/TilleyMarc/status/1134039110790914054?fbclid=IwAR2lwTN-yBR6usr9oLiBcCT1gDOLRsRtArx6BUNKM4aQyP9iAukytcky4ng)](assets/e817fa071377/1*M2lCv1QxNEjQag9IZtov5Q.jpeg)
+![“ 13 years ago, the world was shocked by images of 27 migrants clinging for dear life to a tuna pen towed behind a trawler\. Yesterday, we collectively shrugged\.” Photo by [Marc Tilley](https://twitter.com/TilleyMarc/status/1134039110790914054?fbclid=IwAR2lwTN-yBR6usr9oLiBcCT1gDOLRsRtArx6BUNKM4aQyP9iAukytcky4ng)](../assets/e817fa071377/1*M2lCv1QxNEjQag9IZtov5Q.jpeg)
 
 “ 13 years ago, the world was shocked by images of 27 migrants clinging for dear life to a tuna pen towed behind a trawler\. Yesterday, we collectively shrugged\.” Photo by [Marc Tilley](https://twitter.com/TilleyMarc/status/1134039110790914054?fbclid=IwAR2lwTN-yBR6usr9oLiBcCT1gDOLRsRtArx6BUNKM4aQyP9iAukytcky4ng)
 ### Featured
@@ -61,11 +61,11 @@ Sea Watch International echoed:
 [On Thursday](https://twitter.com/SyriaCivilDef/status/1134232398353305600) , the White Helmets documented their rescue of the parents and brother of three other boys who were killed in the attack on Maaret Numan City\. The surviving brother watched one of his brothers die in front of his own eyes\.
 
 
-![](assets/e817fa071377/1*TFV7cqfQfJNvIAmJy7TaXw.jpeg)
+![](../assets/e817fa071377/1*TFV7cqfQfJNvIAmJy7TaXw.jpeg)
 
 
 
-![Photos by [the White Helmets](https://twitter.com/SyriaCivilDef/status/1133906854441029632?fbclid=IwAR30xwkoHUrbDc_O9ZVXdZCu5bEJgYyX0kg3ix6BrkFJ38p-v2dTxjr507w)](assets/e817fa071377/1*UaR78o4HI_bu7lWjSaRKfg.jpeg)
+![Photos by [the White Helmets](https://twitter.com/SyriaCivilDef/status/1133906854441029632?fbclid=IwAR30xwkoHUrbDc_O9ZVXdZCu5bEJgYyX0kg3ix6BrkFJ38p-v2dTxjr507w)](../assets/e817fa071377/1*UaR78o4HI_bu7lWjSaRKfg.jpeg)
 
 Photos by [the White Helmets](https://twitter.com/SyriaCivilDef/status/1133906854441029632?fbclid=IwAR30xwkoHUrbDc_O9ZVXdZCu5bEJgYyX0kg3ix6BrkFJ38p-v2dTxjr507w)
 
@@ -148,7 +148,7 @@ IOM on the other hand would prefer for a new centre to be built, rather than to 
 In five days, the action plan should be voted and the preparations should start according to the politicians\. They also said that they would prefer the decision making and funds to be given to the national authorities, like in the other Balkan countries, unlike in the case of their country, where it’s IOM who has received all the funds and is ‘running the show’\.
 
 
-![](assets/e817fa071377/1*g2roPFYlDsrOTfoM6YOeIA.jpeg)
+![](../assets/e817fa071377/1*g2roPFYlDsrOTfoM6YOeIA.jpeg)
 
 ### Italy
 

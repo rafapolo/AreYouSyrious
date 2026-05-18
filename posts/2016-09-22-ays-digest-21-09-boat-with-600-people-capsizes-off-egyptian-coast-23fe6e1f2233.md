@@ -1,5 +1,5 @@
 ---
-title: AYS Digest 21/09: Boat with 600 people capsizes off Egyptian coast
+title: "AYS Digest 21/09: Boat with 600 people capsizes off Egyptian coast"
 author: Are You Syrious?
 date: 2016-09-22T04:36:42.401+0100
 last_modified_at: 2016-09-22T09:02:08.204+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: Another boat capsizes, this time off the Egyptian coast. Refugees continue to arrive in Lesvos. Help needed for makeshift camps surrounding…
 image:
-  path: assets/23fe6e1f2233/0*fRfSljaP_CoGxNBJ.
+  path: ../assets/23fe6e1f2233/0*fRfSljaP_CoGxNBJ.
 ---
 
 ### AYS Digest 21/09: Boat with 600 people capsizes off Egyptian coast
@@ -15,7 +15,7 @@ image:
 _Another boat capsizes, this time off the Egyptian coast\. Refugees continue to arrive in Lesvos\. Help needed for makeshift camps surrounding Izmir\. No asylum applications accepted for one month in Rome\._
 
 
-![Photo by Marco Panzetti\. Taken between Italy and Libya\.](assets/23fe6e1f2233/0*fRfSljaP_CoGxNBJ.)
+![Photo by Marco Panzetti\. Taken between Italy and Libya\.](../assets/23fe6e1f2233/0*fRfSljaP_CoGxNBJ.)
 
 Photo by Marco Panzetti\. Taken between Italy and Libya\.
 #### Syria
@@ -33,17 +33,17 @@ Given the chaos in Libya, a rising number of refugees is now setting out from Eg
 [The Worldwide Tribe](https://www.facebook.com/theworldwidetribe/?ref=page_internal) has visited makeshift camps on some of the farmlands surrounding Izmir, where “many Syrian families \(who are not legally allowed to work in Turkey\), desperately take up the offers from local farmers to work illegally, picking things like tomatoes and chilis, in the hope of saving enough money for the crossing to Europe”\. Everyone in these families is working, including the children, with the farmers providing them with very basic food and shelter\. In a form of modern day slavery, they are paid at the end of the season, with farmers deducting money from their final wages for food and shelter, or sometimes do not pay them at all\. Their small medical team administered basic healthcare during their stay — _“young girls brought in their despondent newborn babies and the camp residents coughed around me, waiting to be treated for the back problems and muscle aches they suffered from being bent over all day, or for the allergies and rashes from the pesticides used in the fields”_ \.
 
 
-![Photo by the Worldwide Tribe](assets/23fe6e1f2233/0*YqUPVLWxseoID5iN.)
+![Photo by the Worldwide Tribe](../assets/23fe6e1f2233/0*YqUPVLWxseoID5iN.)
 
 Photo by the Worldwide Tribe
 
 
-![Photo by the Worldwide Tribe](assets/23fe6e1f2233/0*MnaHzW_us2FcQtfq.)
+![Photo by the Worldwide Tribe](../assets/23fe6e1f2233/0*MnaHzW_us2FcQtfq.)
 
 Photo by the Worldwide Tribe
 
 
-![Photo by the Worldwide Tribe](assets/23fe6e1f2233/0*GlaO6MLWfJIQ6q74.)
+![Photo by the Worldwide Tribe](../assets/23fe6e1f2233/0*GlaO6MLWfJIQ6q74.)
 
 Photo by the Worldwide Tribe
 
@@ -122,14 +122,14 @@ Some refugees are sleeping outside Moria, with United Rescue Aid saying rain has
 On the mainland, the approaching winter is causing problems as well\. In Oreokastro, tarps have been installed over the tents to protect them from rain\.
 
 
-![Photo by Mohamad Hadi Almadani](assets/23fe6e1f2233/0*QQBobuIZ_azuF6GD.)
+![Photo by Mohamad Hadi Almadani](../assets/23fe6e1f2233/0*QQBobuIZ_azuF6GD.)
 
 Photo by Mohamad Hadi Almadani
 
 In Ritsona, ten isoboxes have been installed, certainly a more durable and practical solution\.
 
 
-![Photo by Eva Magkou](assets/23fe6e1f2233/0*_hUg0Ny9qy-m3_zJ.)
+![Photo by Eva Magkou](../assets/23fe6e1f2233/0*_hUg0Ny9qy-m3_zJ.)
 
 Photo by Eva Magkou
 ### Notorious Amygdaleza camp reopens
@@ -143,7 +143,7 @@ In Belgrade, the community centre for refugees is now offering German language c
 The association [Rigardu](http://rigardu.de/2016/09/20/die-aktuelle-lage-ein-bericht/#jp-carousel-1399) says the situation remains precarious, with showers and sleeping places destroyed as part of the preparations for the Belgrade Waterfront project\. Public toilets are not free to use and space for sleeping is becoming more scarce, exposing refugees to the weather\. Rigardu also says that some of these refugees already reached countries like Germany, France or Austria, but were deported back to Bulgaria as part of the Dublin Regulation and are now trying the same route again\.
 
 
-![Photo by Rigardu](assets/23fe6e1f2233/0*_GJ_3F_qUx5DyYbI.)
+![Photo by Rigardu](../assets/23fe6e1f2233/0*_GJ_3F_qUx5DyYbI.)
 
 Photo by Rigardu
 #### Austria

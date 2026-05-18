@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 9/2/22: Precarious situation at Serbian/Romanian border
+title: "AYS News Digest 9/2/22: Precarious situation at Serbian/Romanian border"
 author: Are You Syrious?
 date: 2022-02-10T14:29:26.536+0000
 last_modified_at: 2022-02-12T14:36:23.050+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,serbia,romania,refugees,borders]
 description: Greece accused of torture and dangerous living conditions // EU funds spent on food for people who don’t exist // Support free journalism…
 image:
-  path: assets/bdf11db98d9d/1*8cVY_4V_hHCvy1xCv8WfUQ.jpeg
+  path: ../assets/bdf11db98d9d/1*8cVY_4V_hHCvy1xCv8WfUQ.jpeg
 ---
 
 ### AYS News Digest 9/2/22: Precarious situation at Serbian/Romanian border
@@ -15,7 +15,7 @@ image:
 Greece accused of torture and dangerous living conditions // EU funds spent on food for people who don’t exist // Support free journalism in Greece // Draconian food rules in Serbia // Two new occupations in Calais // Protests in Germany // Poland\-Belarus border updates // Frontex…\.
 
 
-![Photo taken by Klikaktiv’s team and the copyrights are with Klikaktiv](assets/bdf11db98d9d/1*8cVY_4V_hHCvy1xCv8WfUQ.jpeg)
+![Photo taken by Klikaktiv’s team and the copyrights are with Klikaktiv](../assets/bdf11db98d9d/1*8cVY_4V_hHCvy1xCv8WfUQ.jpeg)
 
 Photo taken by Klikaktiv’s team and the copyrights are with Klikaktiv
 #### Precarious situation at Serbian/Romanian border
@@ -25,7 +25,7 @@ Photo taken by Klikaktiv’s team and the copyrights are with Klikaktiv
 A report published by KlikAktiv and ProAsyl analyses cases of push\-backs on the Balkan refugee route, more specifically on the border between Romania and Serbia\. KlikAktiv collected testimonies describing the push\-backs of 3,700 people on the move in the period between July 2020 and November 2021\.
 
 
-![](assets/bdf11db98d9d/0*2TkdXkwIVpse8gmD)
+![](../assets/bdf11db98d9d/0*2TkdXkwIVpse8gmD)
 
 
 Over the reporting period \(July 2020 — November 2021\), KlikAktiv’s team regularly visited the villages of Majdan and Rabe at the border triangle of Hungary, Romania and Serbia, which are the main spots for border crossings for people on the move\. Also, there are several squats \(self\-organized residential spots\) in these villages, since there are no official government accommodation facilities in this area\.
@@ -98,22 +98,22 @@ Security violence was present six months ago, especially in the form of punishme
 However, [Auberge des Migrants](https://twitter.com/AubergeMigrants) reports that the police has besieged the building previously occupied by Calais Logement, as we reported in earlier News Digests, to prevent any water and meal supplies\.
 
 
-![](assets/bdf11db98d9d/0*f89Y129I4Q1LW4K3)
+![](../assets/bdf11db98d9d/0*f89Y129I4Q1LW4K3)
 
 
 This seems to be their constant practice, preventing any initiatives in solidarity with the people stuck in the area with no support or system to provide basic amenities for them\.
 
 
-![](assets/bdf11db98d9d/1*RPPsnZu4c7bBHtbsQ31SLQ.jpeg)
+![](../assets/bdf11db98d9d/1*RPPsnZu4c7bBHtbsQ31SLQ.jpeg)
 
 
 
-![Photos: Auberge des Migrants](assets/bdf11db98d9d/1*vTLANHrWisbO6M39HH6cSA.jpeg)
+![Photos: Auberge des Migrants](../assets/bdf11db98d9d/1*vTLANHrWisbO6M39HH6cSA.jpeg)
 
 Photos: Auberge des Migrants
 
 
-[![Calais: une figure du quartier Fort Nieulay témoigne sur l'occupation du bâtiment J / 7 février 2022](assets/bdf11db98d9d/d064_hqdefault.jpg "Calais: une figure du quartier Fort Nieulay témoigne sur l'occupation du bâtiment J / 7 février 2022")](https://www.youtube.com/watch?v=bANguFIi0pc)
+[![Calais: une figure du quartier Fort Nieulay témoigne sur l'occupation du bâtiment J / 7 février 2022](../assets/bdf11db98d9d/d064_hqdefault.jpg "Calais: une figure du quartier Fort Nieulay témoigne sur l'occupation du bâtiment J / 7 février 2022")](https://www.youtube.com/watch?v=bANguFIi0pc)
 
 
 32 French migrants’ rights organisations have signed a letter condemning the violence and mistreatment of migrant men, women and children in Northern France, created by the terms of the Le Touquet agreement that externalises the UK border to Calais\.
@@ -121,11 +121,11 @@ Photos: Auberge des Migrants
 #### Protests In Germany
 
 
-![](assets/bdf11db98d9d/1*g9sJdnyAT3nNAxK9JafE7A.jpeg)
+![](../assets/bdf11db98d9d/1*g9sJdnyAT3nNAxK9JafE7A.jpeg)
 
 
 
-![\(Photo Credit: [No Border Assembly Berlin](https://de.indymedia.org/node/173534) \)](assets/bdf11db98d9d/1*zK5n8us6Ng69J1XgZFqJ0A.jpeg)
+![\(Photo Credit: [No Border Assembly Berlin](https://de.indymedia.org/node/173534) \)](../assets/bdf11db98d9d/1*zK5n8us6Ng69J1XgZFqJ0A.jpeg)
 
 \(Photo Credit: [No Border Assembly Berlin](https://de.indymedia.org/node/173534) \)
 
@@ -140,7 +140,7 @@ On 8 February, to highlight the new border fence between Poland and Belarus, bui
 They built it at the former inner\-German Wall border crossing on Schwedter Steg\.
 
 
-![\(Photo Credit: [@Abschiebez\_BER](https://twitter.com/Abschiebez_BER) \)](assets/bdf11db98d9d/1*43NFt4SS-G7-eFNNwlEMIg.jpeg)
+![\(Photo Credit: [@Abschiebez\_BER](https://twitter.com/Abschiebez_BER) \)](../assets/bdf11db98d9d/1*43NFt4SS-G7-eFNNwlEMIg.jpeg)
 
 \(Photo Credit: [@Abschiebez\_BER](https://twitter.com/Abschiebez_BER) \)
 
@@ -169,7 +169,7 @@ Grupa Granica warns about the populist move of border guards who published how t
 ### \#NieDlaMuru\!
 
 
-![](assets/bdf11db98d9d/0*UtMCFRul5C8rXgvv)
+![](../assets/bdf11db98d9d/0*UtMCFRul5C8rXgvv)
 
 
 More than 21 organizations presented the EU Commission in Poland with three appeals: a letter from scientists, an appeal by local communities, and a list of over 150 organizations — all calling for the cessation of the construction of the border wall\.

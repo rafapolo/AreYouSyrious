@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [denmark,refugees,digest,syria,immigration]
 description: Maltese Prime Minister to go to Libya // pushbacks in Greece // 270 people finally arrive in Lampedusa // deportations scheduled from…
 image:
-  path: assets/4cd5a637588f/0*YK6qqRy_TOjBKJuE
+  path: ../assets/4cd5a637588f/0*YK6qqRy_TOjBKJuE
 ---
 
 ### AYS Daily Digest 05/04/21 “What have I done wrong?” Denmark revokes 94 Syrian’s asylum statuses and residency permits
@@ -15,7 +15,7 @@ image:
 _Maltese Prime Minister to go to Libya // pushbacks in Greece // 270 people finally arrive in Lampedusa // deportations scheduled from Germany to Afghanistan // and more…_
 
 
-![](assets/4cd5a637588f/0*YK6qqRy_TOjBKJuE)
+![](../assets/4cd5a637588f/0*YK6qqRy_TOjBKJuE)
 
 ### FEATURE: The people behind Denmark’s revocation of asylum statuses and residency permits for 94 Syrians
 
@@ -242,7 +242,7 @@ If any Syrians are deported back to the danger from which they rightfully fled, 
 #### TURKEY
 
 
-![“All solidarity from Legal Centre Lesvos with our lawyer comrades in Turkey, on the Day of Lawyers \(Turkey\), who continue to defend the rights of their clients in the face of escalating state violence and repression, including against leftist lawyers carrying out their professional work\. Hundreds of lawyers have been imprisoned in Turkey in recent years, in politically motivated prosecutions and convictions\. During their incarceration in 2020, lawyers Ebru Timtik and Aytac Ünsal went on hunger strike to protest the unlawfulness of their convictions and to demand a fair trial for themselves and for everyone arrested\. Tragically, Ebru Timtik died on the 238th day of her hunger strike\. Aytac Ünsal, who was conditionally released by the Supreme Court due to his critical health condition, was arrested again while his medical treatment was still ongoing and remains incarcerated\.” Photo by [Legal Centre Lesvos](https://www.facebook.com/LesvosLegal/posts/4121688501203165)](assets/4cd5a637588f/0*VtY2ByPEs2HqeB_3)
+![“All solidarity from Legal Centre Lesvos with our lawyer comrades in Turkey, on the Day of Lawyers \(Turkey\), who continue to defend the rights of their clients in the face of escalating state violence and repression, including against leftist lawyers carrying out their professional work\. Hundreds of lawyers have been imprisoned in Turkey in recent years, in politically motivated prosecutions and convictions\. During their incarceration in 2020, lawyers Ebru Timtik and Aytac Ünsal went on hunger strike to protest the unlawfulness of their convictions and to demand a fair trial for themselves and for everyone arrested\. Tragically, Ebru Timtik died on the 238th day of her hunger strike\. Aytac Ünsal, who was conditionally released by the Supreme Court due to his critical health condition, was arrested again while his medical treatment was still ongoing and remains incarcerated\.” Photo by [Legal Centre Lesvos](https://www.facebook.com/LesvosLegal/posts/4121688501203165)](../assets/4cd5a637588f/0*VtY2ByPEs2HqeB_3)
 
 “All solidarity from Legal Centre Lesvos with our lawyer comrades in Turkey, on the Day of Lawyers \(Turkey\), who continue to defend the rights of their clients in the face of escalating state violence and repression, including against leftist lawyers carrying out their professional work\. Hundreds of lawyers have been imprisoned in Turkey in recent years, in politically motivated prosecutions and convictions\. During their incarceration in 2020, lawyers Ebru Timtik and Aytac Ünsal went on hunger strike to protest the unlawfulness of their convictions and to demand a fair trial for themselves and for everyone arrested\. Tragically, Ebru Timtik died on the 238th day of her hunger strike\. Aytac Ünsal, who was conditionally released by the Supreme Court due to his critical health condition, was arrested again while his medical treatment was still ongoing and remains incarcerated\.” Photo by [Legal Centre Lesvos](https://www.facebook.com/LesvosLegal/posts/4121688501203165)
 #### MALTA\-SEA\-LIBYA
@@ -319,7 +319,7 @@ On Monday, a fire broke out in what was at the time a calm area, in the Vial cam
 
 
 
-![Donations Needed\! Find out more [here](https://www.facebook.com/NBKLesvos/posts/2018556798284099) \. Photo by No Border Kitchen Lesvos](assets/4cd5a637588f/0*nfSwk-qaw84rMuGW)
+![Donations Needed\! Find out more [here](https://www.facebook.com/NBKLesvos/posts/2018556798284099) \. Photo by No Border Kitchen Lesvos](../assets/4cd5a637588f/0*nfSwk-qaw84rMuGW)
 
 Donations Needed\! Find out more [here](https://www.facebook.com/NBKLesvos/posts/2018556798284099) \. Photo by No Border Kitchen Lesvos
 ### 200 people pushed back from Lesvos on April 2nd
@@ -405,7 +405,7 @@ According to Greek media “ _More than 500 recognized refugees are leaving Lesv
 Regarding regional offices that operate within very high risk Covid areas, they are going to serve only urgent registrations, as well as lodging of appeals, whilst they will not conduct interviews until April 11th 2021\. 
 Services within very high risk Covid areas \[according to the relevant Joint Ministerial Decision of 3–4–2021\] are the Regional Asylum Office of Attica, Alimos, Piraeus, Western Greece, Thessaloniki, Crete, Leros and Chios as well as the Asylum Units of Amygdaleza, Corinth, Ioannina, the Asylum Unit of International Protection of Applicants under custody, the Asylum Unit for Applications by Pakistani nationals, the Asylum Unit for the Fast Track processing of Asylum Applications by Syrian Nationals, and the Unit for Applications by Albanian and Georgian nationals\. 
 Remote interviews scheduled with RAO Lesvos will take place as planned\.
-We remind you of the obligation to use a mask inside and outside of the building\.” Photo and Info by [Migration Greece Info](https://www.facebook.com/migrationgovgr.info/posts/1906359756184787)](assets/4cd5a637588f/0*-kx5KOm_5c9p_hOn)
+We remind you of the obligation to use a mask inside and outside of the building\.” Photo and Info by [Migration Greece Info](https://www.facebook.com/migrationgovgr.info/posts/1906359756184787)](../assets/4cd5a637588f/0*-kx5KOm_5c9p_hOn)
 
 “The Asylum Service informs the public, that in accordance with the measures for protecting the public health and preventing the spread of Covid\-19, it can **visit a Regional Asylum Services only after scheduling an appointment\. This includes interviews and registrations\.** 
 Regarding regional offices that operate within very high risk Covid areas, they are going to serve only urgent registrations, as well as lodging of appeals, whilst they will not conduct interviews until April 11th 2021\. 
@@ -440,7 +440,7 @@ Reuters is reporting that “ _Dozens of migrants have set up a makeshift camp i
 ![“CALL FOR VOLUNTEERS: NEED WORLD TUESDAY 6TH AND THURSDAY 8TH APRIL\!
 We don’t give up\!
 Over 2000 meals to distribute and distribute this week\! Without you, nothing will be done\!
-The collective is you, it’s me, it’s us\!” Photo and Info by [Solidarité migrants Wilson](https://www.facebook.com/permalink.php?story_fbid=1694793394054759&id=598228360377940)](assets/4cd5a637588f/0*o8BK0_DKuFFDmKBI)
+The collective is you, it’s me, it’s us\!” Photo and Info by [Solidarité migrants Wilson](https://www.facebook.com/permalink.php?story_fbid=1694793394054759&id=598228360377940)](../assets/4cd5a637588f/0*o8BK0_DKuFFDmKBI)
 
 “CALL FOR VOLUNTEERS: NEED WORLD TUESDAY 6TH AND THURSDAY 8TH APRIL\!
 We don’t give up\!
@@ -448,15 +448,15 @@ Over 2000 meals to distribute and distribute this week\! Without you, nothing wi
 The collective is you, it’s me, it’s us\!” Photo and Info by [Solidarité migrants Wilson](https://www.facebook.com/permalink.php?story_fbid=1694793394054759&id=598228360377940)
 
 
-![](assets/4cd5a637588f/1*UnY2k1gpj6nY3ahTfAAw0g.jpeg)
+![](../assets/4cd5a637588f/1*UnY2k1gpj6nY3ahTfAAw0g.jpeg)
 
 
 
-![](assets/4cd5a637588f/1*EUSUN8rcgdAt3YOp01JlSQ.jpeg)
+![](../assets/4cd5a637588f/1*EUSUN8rcgdAt3YOp01JlSQ.jpeg)
 
 
 
-![Photos by Solidarité migrants Wilson](assets/4cd5a637588f/1*iXGD1_WhhQ73cP7Ox9IJSA.jpeg)
+![Photos by Solidarité migrants Wilson](../assets/4cd5a637588f/1*iXGD1_WhhQ73cP7Ox9IJSA.jpeg)
 
 Photos by Solidarité migrants Wilson
 ### “Eight activists and collective officials are summoned by police for alleged ‘violence and degradation during the H Hôteltel\-Dieu occupation protest’”
@@ -486,7 +486,7 @@ Despite a major Covid outbreak and the NHS warnings that due to the conditions, 
 An independent report has described the barracks as “filthy”, “impoverished” and “uninhabitable” — yet the Home Office is refusing to shut it down\.
 Care4Calais have been working on the ground at Napier\. We have seen the terrible conditions of the barracks, and the effects it is having on its residents\. The government’s refusal to close it down is both frustrating and disappointing\.
 Our volunteers will remain on the ground and provide direct support to the residents\. We will continue to \#StandWithNapier
-Please write to your MP, continue to spread the word, and [sign the petition](https://action.freedomfromtorture.org/close-the-barracks-1?fbclid=IwAR1zBwTZTQPFfWna14Jf0xvauEGsYkMzvCx3DpRYNmN0M7w50xVA75j-lNk) ” Photo and Info by [Care for Calais](https://www.facebook.com/care4calais/posts/4219680001398258)](assets/4cd5a637588f/0*ZaGiAO4Gq4c4-ouL)
+Please write to your MP, continue to spread the word, and [sign the petition](https://action.freedomfromtorture.org/close-the-barracks-1?fbclid=IwAR1zBwTZTQPFfWna14Jf0xvauEGsYkMzvCx3DpRYNmN0M7w50xVA75j-lNk) ” Photo and Info by [Care for Calais](https://www.facebook.com/care4calais/posts/4219680001398258)](../assets/4cd5a637588f/0*ZaGiAO4Gq4c4-ouL)
 
 “Despite all the shocking evidence that has come to light, the Home Office is still determined to continue the use of Napier Barracks to house asylum seekers\.
 Despite a major Covid outbreak and the NHS warnings that due to the conditions, a large\-scale spread of infection had been “virtually inevitable”, up to 28 residents will continue to live in the dormitories\.

@@ -1,5 +1,5 @@
 ---
-title: AYS Special from Greece: How to live without money? Still no Cash Card.
+title: "AYS Special from Greece: How to live without money? Still no Cash Card."
 author: Are You Syrious?
 date: 2021-12-26T18:12:37.855+0000
 last_modified_at: 2021-12-26T18:12:37.855+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [special,greece,refugees,winter,volunteering]
 description: Are You Syrious?
 image:
-  path: assets/6ff35c7ee017/0*09M_IMYXL2ZSjFwg.jpeg
+  path: ../assets/6ff35c7ee017/0*09M_IMYXL2ZSjFwg.jpeg
 ---
 
 ### AYS Special from Greece: How to live without money? Still no Cash Card\.
 
 
-![](assets/6ff35c7ee017/0*kFfkXyeDraXc7caU.jpeg)
+![](../assets/6ff35c7ee017/0*kFfkXyeDraXc7caU.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----e3e5261e2d34-----------------------------------)
@@ -23,7 +23,7 @@ image:
 _Khora Asylum Support Team on the situation for people on the move struggling to survive without cash assistance for the last three months\. The Catholic Relief Service has now taken over the distribution, but though cards have been given out, no money has been put on them\._
 
 
-![](assets/6ff35c7ee017/0*09M_IMYXL2ZSjFwg.jpeg)
+![](../assets/6ff35c7ee017/0*09M_IMYXL2ZSjFwg.jpeg)
 
 
 \(Trying to keep warm in Malakasa\. Photo Credit: [Franziska Grillmeier](https://twitter.com/f_grillmeier) \)
@@ -35,19 +35,19 @@ In 2017, a cash card assistance programme managed by the UNHCR was initiated in 
 The cash card assistance programme was originally established to serve all asylum seekers in Greece\. However, from July 2021, access to this financial assistance was restricted to those housed in formal accommodation structures recognised by the Greek authorities\. This decision de facto excluded the ‘independent population’ living in rental flats, housed in shelters run by non\-governmental affiliated organisations, living with family or friends, and those who were left homeless if they were not lucky enough to have access to one of the aforementioned types of ´independent housing´\. Cash card assistance was paramount to the survival of this ‘independent population’ as they did not have access to the various goods and services provided by government\-approved humanitarian organisations inside the asylum seeker camps\. According to UNHCR data referred to by the media, [in March 2021 at least 25,000 asylum seekers fell into this category\.](https://www.news247.gr/koinonia/ypoyrgeio-metanasteysis-katargisi-voithimatos-aitoyntes-asylo-ektos-domon.9203591.html)
 
 
-![](assets/6ff35c7ee017/0*n6IK6CmK4FnwYmmu.jpeg)
+![](../assets/6ff35c7ee017/0*n6IK6CmK4FnwYmmu.jpeg)
 
 
 
-![](assets/6ff35c7ee017/0*Nqt2qZ1sM6XzUs0v.jpeg)
+![](../assets/6ff35c7ee017/0*Nqt2qZ1sM6XzUs0v.jpeg)
 
 
 
-![](assets/6ff35c7ee017/0*ys145gNG6fHJ8vVk.jpeg)
+![](../assets/6ff35c7ee017/0*ys145gNG6fHJ8vVk.jpeg)
 
 
 
-![](assets/6ff35c7ee017/0*Y_WwVtuQ9monEW3p.jpeg)
+![](../assets/6ff35c7ee017/0*Y_WwVtuQ9monEW3p.jpeg)
 
 
 \(Samos Closed and Controlled Camp\. Photo Credit: [Petra Molnar](https://twitter.com/_PMolnar/status/1466133782755426309) \)

@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 21/04/20: Transparency ignored when it serves ulterior motives?
+title: "AYS Daily Digest 21/04/20: Transparency ignored when it serves ulterior motives?"
 author: Are You Syrious?
 date: 2020-04-22T16:44:36.024+0100
 last_modified_at: 2020-04-22T20:08:44.773+0100
 categories: Are You Syrious?
 tags: [digest,greece,refugees,europe,balkans]
-description: Edirne: “released after 26 days in prison without guilt” / Demands to Greece from ECfHR / A letter from the people inside Miral camp in…
+description: "Edirne: “released after 26 days in prison without guilt” / Demands to Greece from ECfHR / A letter from the people inside Miral camp in…"
 image:
-  path: assets/439ab85e4ea4/0*zYeLB9MvHi79tEVT
+  path: ../assets/439ab85e4ea4/0*zYeLB9MvHi79tEVT
 ---
 
 ### AYS Daily Digest 21/04/20: Transparency ignored when it serves ulterior motives?
 #### Edirne: “released after 26 days in prison without guilt” / Demands to Greece from ECfHR / A letter from the people inside Miral camp in BiH / Stepping up for asylees in Croatia / Italy to legalize undocumented foreigners working illegally on the fields / & more
 
 
-![“The days go by and the blood from the murder of the sixteen\-year\-old boy is still dripping, the child’s body is in the fridge and the killer is free\. Honoring our dead is the right of every human being\.” A peaceful demonstration outside of Moria photo by [**th\.v**](https://twitter.com/th_voulgarakis)](assets/439ab85e4ea4/0*zYeLB9MvHi79tEVT)
+![“The days go by and the blood from the murder of the sixteen\-year\-old boy is still dripping, the child’s body is in the fridge and the killer is free\. Honoring our dead is the right of every human being\.” A peaceful demonstration outside of Moria photo by [**th\.v**](https://twitter.com/th_voulgarakis)](../assets/439ab85e4ea4/0*zYeLB9MvHi79tEVT)
 
 “The days go by and the blood from the murder of the sixteen\-year\-old boy is still dripping, the child’s body is in the fridge and the killer is free\. Honoring our dead is the right of every human being\.” A peaceful demonstration outside of Moria photo by [**th\.v**](https://twitter.com/th_voulgarakis)
 ### Featured
@@ -76,11 +76,11 @@ Located 170 kilometres southwest of Athens, this hotel has been quarantined sinc
 [L’ ALTRA VOCE](https://www.facebook.com/L-ALTRA-VOCE-1245970425495921/?__tn__=kCH-R&eid=ARCDhumpYXV7i6FWp5_XN74eEGGrTiAkPbnemHmSTtYe01cAbS77jfAMyxbWpPR6IWIpiV4P79a_JjMi&hc_ref=ARSmKrQlBbT4C57CfMmCYJ9vHjhBoEghMDXwwp6n0ftSQWWdqoIiaeqreMjSIbTEK_o&fref=nf&__xts__%5B0%5D=68.ARB4mZzcy3AYsy_sddk2nxJCG3gydy09i3abMFKOAxIPamhf_UJa7PNHrhGChfcJQomtflzE_ofyBBFfQVVPMAWWjyojMSac4RYiNyA7xwbYCcIQyZa-atZ-bWLImTbsNnRKz--f1u6rqiDxdkMywhj_Apz2z9dE4SxXUxZYgNv9QuAHC-G2bMiRtrPFFoLJYbxgpTqqNuuXp9o_WMN_ly1LPcpG-7I5ennh-TC6egQNUk2sOiufmIdThE8rtOpk722ZCmfh1IJ0mL_NOhlRHJbku08JsqRBJxUjmrTzJ6hpVkxqhnUB2ZWJ-OEL3TMGLsyNjlDgoZMFwMNE7YP5RqVCmmU5Z7hrb288d7s59k4pGpUarts) published a letter co\-signed by 70 people staying at one of the official camps in Una Sana canton, run by IOM\. From the Miral camp in Velika Kladuša, they wrote that there is not a sufficient amount of food for everyone, and people are not allowed to buy and bring inside their own food to eat at their chosing, thus selectively applying their own standards\.
 
 
-![](assets/439ab85e4ea4/0*bN7SROMGtQShATky)
+![](../assets/439ab85e4ea4/0*bN7SROMGtQShATky)
 
 
 
-![Photos by the camp residents, via [L’ ALTRA VOCE](https://www.facebook.com/L-ALTRA-VOCE-1245970425495921/?__tn__=kCH-R&eid=ARCDhumpYXV7i6FWp5_XN74eEGGrTiAkPbnemHmSTtYe01cAbS77jfAMyxbWpPR6IWIpiV4P79a_JjMi&hc_ref=ARSmKrQlBbT4C57CfMmCYJ9vHjhBoEghMDXwwp6n0ftSQWWdqoIiaeqreMjSIbTEK_o&fref=nf&__xts__%5B0%5D=68.ARB4mZzcy3AYsy_sddk2nxJCG3gydy09i3abMFKOAxIPamhf_UJa7PNHrhGChfcJQomtflzE_ofyBBFfQVVPMAWWjyojMSac4RYiNyA7xwbYCcIQyZa-atZ-bWLImTbsNnRKz--f1u6rqiDxdkMywhj_Apz2z9dE4SxXUxZYgNv9QuAHC-G2bMiRtrPFFoLJYbxgpTqqNuuXp9o_WMN_ly1LPcpG-7I5ennh-TC6egQNUk2sOiufmIdThE8rtOpk722ZCmfh1IJ0mL_NOhlRHJbku08JsqRBJxUjmrTzJ6hpVkxqhnUB2ZWJ-OEL3TMGLsyNjlDgoZMFwMNE7YP5RqVCmmU5Z7hrb288d7s59k4pGpUarts)](assets/439ab85e4ea4/0*tDKlOxNvnnScNs6k)
+![Photos by the camp residents, via [L’ ALTRA VOCE](https://www.facebook.com/L-ALTRA-VOCE-1245970425495921/?__tn__=kCH-R&eid=ARCDhumpYXV7i6FWp5_XN74eEGGrTiAkPbnemHmSTtYe01cAbS77jfAMyxbWpPR6IWIpiV4P79a_JjMi&hc_ref=ARSmKrQlBbT4C57CfMmCYJ9vHjhBoEghMDXwwp6n0ftSQWWdqoIiaeqreMjSIbTEK_o&fref=nf&__xts__%5B0%5D=68.ARB4mZzcy3AYsy_sddk2nxJCG3gydy09i3abMFKOAxIPamhf_UJa7PNHrhGChfcJQomtflzE_ofyBBFfQVVPMAWWjyojMSac4RYiNyA7xwbYCcIQyZa-atZ-bWLImTbsNnRKz--f1u6rqiDxdkMywhj_Apz2z9dE4SxXUxZYgNv9QuAHC-G2bMiRtrPFFoLJYbxgpTqqNuuXp9o_WMN_ly1LPcpG-7I5ennh-TC6egQNUk2sOiufmIdThE8rtOpk722ZCmfh1IJ0mL_NOhlRHJbku08JsqRBJxUjmrTzJ6hpVkxqhnUB2ZWJ-OEL3TMGLsyNjlDgoZMFwMNE7YP5RqVCmmU5Z7hrb288d7s59k4pGpUarts)](../assets/439ab85e4ea4/0*tDKlOxNvnnScNs6k)
 
 Photos by the camp residents, via [L’ ALTRA VOCE](https://www.facebook.com/L-ALTRA-VOCE-1245970425495921/?__tn__=kCH-R&eid=ARCDhumpYXV7i6FWp5_XN74eEGGrTiAkPbnemHmSTtYe01cAbS77jfAMyxbWpPR6IWIpiV4P79a_JjMi&hc_ref=ARSmKrQlBbT4C57CfMmCYJ9vHjhBoEghMDXwwp6n0ftSQWWdqoIiaeqreMjSIbTEK_o&fref=nf&__xts__%5B0%5D=68.ARB4mZzcy3AYsy_sddk2nxJCG3gydy09i3abMFKOAxIPamhf_UJa7PNHrhGChfcJQomtflzE_ofyBBFfQVVPMAWWjyojMSac4RYiNyA7xwbYCcIQyZa-atZ-bWLImTbsNnRKz--f1u6rqiDxdkMywhj_Apz2z9dE4SxXUxZYgNv9QuAHC-G2bMiRtrPFFoLJYbxgpTqqNuuXp9o_WMN_ly1LPcpG-7I5ennh-TC6egQNUk2sOiufmIdThE8rtOpk722ZCmfh1IJ0mL_NOhlRHJbku08JsqRBJxUjmrTzJ6hpVkxqhnUB2ZWJ-OEL3TMGLsyNjlDgoZMFwMNE7YP5RqVCmmU5Z7hrb288d7s59k4pGpUarts)
 
@@ -97,7 +97,7 @@ According to the people whose photos and statements made it to the Letter, there
 
 
 
-![Photo via [L’ ALTRA VOCE](https://www.facebook.com/L-ALTRA-VOCE-1245970425495921/?__tn__=kCH-R&eid=ARCDhumpYXV7i6FWp5_XN74eEGGrTiAkPbnemHmSTtYe01cAbS77jfAMyxbWpPR6IWIpiV4P79a_JjMi&hc_ref=ARSmKrQlBbT4C57CfMmCYJ9vHjhBoEghMDXwwp6n0ftSQWWdqoIiaeqreMjSIbTEK_o&fref=nf&__xts__%5B0%5D=68.ARB4mZzcy3AYsy_sddk2nxJCG3gydy09i3abMFKOAxIPamhf_UJa7PNHrhGChfcJQomtflzE_ofyBBFfQVVPMAWWjyojMSac4RYiNyA7xwbYCcIQyZa-atZ-bWLImTbsNnRKz--f1u6rqiDxdkMywhj_Apz2z9dE4SxXUxZYgNv9QuAHC-G2bMiRtrPFFoLJYbxgpTqqNuuXp9o_WMN_ly1LPcpG-7I5ennh-TC6egQNUk2sOiufmIdThE8rtOpk722ZCmfh1IJ0mL_NOhlRHJbku08JsqRBJxUjmrTzJ6hpVkxqhnUB2ZWJ-OEL3TMGLsyNjlDgoZMFwMNE7YP5RqVCmmU5Z7hrb288d7s59k4pGpUarts)](assets/439ab85e4ea4/0*41xcTzjNHhBoRE56)
+![Photo via [L’ ALTRA VOCE](https://www.facebook.com/L-ALTRA-VOCE-1245970425495921/?__tn__=kCH-R&eid=ARCDhumpYXV7i6FWp5_XN74eEGGrTiAkPbnemHmSTtYe01cAbS77jfAMyxbWpPR6IWIpiV4P79a_JjMi&hc_ref=ARSmKrQlBbT4C57CfMmCYJ9vHjhBoEghMDXwwp6n0ftSQWWdqoIiaeqreMjSIbTEK_o&fref=nf&__xts__%5B0%5D=68.ARB4mZzcy3AYsy_sddk2nxJCG3gydy09i3abMFKOAxIPamhf_UJa7PNHrhGChfcJQomtflzE_ofyBBFfQVVPMAWWjyojMSac4RYiNyA7xwbYCcIQyZa-atZ-bWLImTbsNnRKz--f1u6rqiDxdkMywhj_Apz2z9dE4SxXUxZYgNv9QuAHC-G2bMiRtrPFFoLJYbxgpTqqNuuXp9o_WMN_ly1LPcpG-7I5ennh-TC6egQNUk2sOiufmIdThE8rtOpk722ZCmfh1IJ0mL_NOhlRHJbku08JsqRBJxUjmrTzJ6hpVkxqhnUB2ZWJ-OEL3TMGLsyNjlDgoZMFwMNE7YP5RqVCmmU5Z7hrb288d7s59k4pGpUarts)](../assets/439ab85e4ea4/0*41xcTzjNHhBoRE56)
 
 Photo via [L’ ALTRA VOCE](https://www.facebook.com/L-ALTRA-VOCE-1245970425495921/?__tn__=kCH-R&eid=ARCDhumpYXV7i6FWp5_XN74eEGGrTiAkPbnemHmSTtYe01cAbS77jfAMyxbWpPR6IWIpiV4P79a_JjMi&hc_ref=ARSmKrQlBbT4C57CfMmCYJ9vHjhBoEghMDXwwp6n0ftSQWWdqoIiaeqreMjSIbTEK_o&fref=nf&__xts__%5B0%5D=68.ARB4mZzcy3AYsy_sddk2nxJCG3gydy09i3abMFKOAxIPamhf_UJa7PNHrhGChfcJQomtflzE_ofyBBFfQVVPMAWWjyojMSac4RYiNyA7xwbYCcIQyZa-atZ-bWLImTbsNnRKz--f1u6rqiDxdkMywhj_Apz2z9dE4SxXUxZYgNv9QuAHC-G2bMiRtrPFFoLJYbxgpTqqNuuXp9o_WMN_ly1LPcpG-7I5ennh-TC6egQNUk2sOiufmIdThE8rtOpk722ZCmfh1IJ0mL_NOhlRHJbku08JsqRBJxUjmrTzJ6hpVkxqhnUB2ZWJ-OEL3TMGLsyNjlDgoZMFwMNE7YP5RqVCmmU5Z7hrb288d7s59k4pGpUarts)
 #### CROATIA
@@ -122,7 +122,7 @@ Volunteers of Techfugees [started](https://www.facebook.com/groups/Techfugees/pe
 Team Humanity founder Salam Aldeen and Ali Latif from 3Lance Education provide online classes for children\. The Online School was already founded in March 2020 “after the news of a global lockdown became apparent,” Aldeen says\. They have known each other for several years and have worked together on different projects since they met volunteering in Idomeni\. Their motivation was “to do something positive for the world in its darkest hours”\. With the support of volunteer teachers they developed a programme and now operate the Online School Monday — Friday \(9\.30am — 4\.00pm\) UK BST\. They offer lessons at all levels for KS1 — KS4 for Maths, English, Science, Dance and Yoga\. To attend the classes, a registration is required, and the service is free of charge\.
 
 
-[![How To Access Class](assets/439ab85e4ea4/cd95_hqdefault.jpg "How To Access Class")](https://www.youtube.com/watch?v=bPca6wrnkjM)
+[![How To Access Class](../assets/439ab85e4ea4/cd95_hqdefault.jpg "How To Access Class")](https://www.youtube.com/watch?v=bPca6wrnkjM)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

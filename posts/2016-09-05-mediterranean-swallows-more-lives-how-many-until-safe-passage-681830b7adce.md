@@ -1,5 +1,5 @@
 ---
-title: AYS digest 05/09: Mediterranean swallows more lives. How many more until safe passage?
+title: "AYS digest 05/09: Mediterranean swallows more lives. How many more until safe passage?"
 author: Are You Syrious?
 date: 2016-09-05T22:11:57.870+0100
 last_modified_at: 2016-09-06T04:44:14.396+0100
@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe]
 description: Deaths in the Mediterranean. Again.
 image:
-  path: assets/681830b7adce/1*nLtnKEHXh3CcEoU4omku9A.jpeg
+  path: ../assets/681830b7adce/1*nLtnKEHXh3CcEoU4omku9A.jpeg
 ---
 
 ### AYS digest 05/09: Mediterranean swallows more lives\. How many more until safe passage?
 
 
-![MSF on today’s rescue mission](assets/681830b7adce/1*nLtnKEHXh3CcEoU4omku9A.jpeg)
+![MSF on today’s rescue mission](../assets/681830b7adce/1*nLtnKEHXh3CcEoU4omku9A.jpeg)
 
 MSF on today’s rescue mission
 ### **Deaths in the Mediterranean\. Again\.**
@@ -29,7 +29,7 @@ As of 8 o’clock this morning, 110 new arrivals had reached the Greek islands\.
 In total, 59,569 people are now stranded throughout Greek territory\.
 
 
-![people sleeping in small tents for months on end](assets/681830b7adce/1*sE6fB1EkGIk4xCBHMkgvxw.jpeg)
+![people sleeping in small tents for months on end](../assets/681830b7adce/1*sE6fB1EkGIk4xCBHMkgvxw.jpeg)
 
 people sleeping in small tents for months on end
 ### **Show solidarity not just to the city of Aleppo, but also to people from Aleppo that fled to Europe**
@@ -40,7 +40,7 @@ As we are constantly reporting, even though many activist groups are trying to i
 If you are able to get an interview, here are some instructions posted in Arabic by Refucomm:
 
 
-[![الدليل الصوتي - النسخة الانكليزية](assets/681830b7adce/9f2c_hqdefault.jpg "الدليل الصوتي - النسخة الانكليزية")](http://www.youtube.com/watch?v=UHqnhbf_tDo)
+[![الدليل الصوتي - النسخة الانكليزية](../assets/681830b7adce/9f2c_hqdefault.jpg "الدليل الصوتي - النسخة الانكليزية")](http://www.youtube.com/watch?v=UHqnhbf_tDo)
 
 ### **Information on family reunification procedure in Germany**
 
@@ -58,19 +58,19 @@ The news outlet warns more of such conflicts must be expected, given that some 3
 ### **Volunteers working on Open cultural center in Chierso**
 
 
-![Photo: [**Open Cultural Center — OCC — former Idomeni Cultural Center**](https://www.facebook.com/OpenCulturalCenter/)](assets/681830b7adce/1*-1609ZSL99xNUcpj0RZNnA.jpeg)
+![Photo: [**Open Cultural Center — OCC — former Idomeni Cultural Center**](https://www.facebook.com/OpenCulturalCenter/)](../assets/681830b7adce/1*-1609ZSL99xNUcpj0RZNnA.jpeg)
 
 Photo: [**Open Cultural Center — OCC — former Idomeni Cultural Center**](https://www.facebook.com/OpenCulturalCenter/)
 
 In an effort to create a more livable environment in the camps, volunteers are working tirelessly on cleaning classrooms, building furniture, and putting the finishing touches on a new community center in Chierso\.
 
 
-![Photo: [**Open Cultural Center — OCC — former Idomeni Cultural Center**](https://www.facebook.com/OpenCulturalCenter/)](assets/681830b7adce/1*Ai8In6iTwXSRGqjHQE1TFA.jpeg)
+![Photo: [**Open Cultural Center — OCC — former Idomeni Cultural Center**](https://www.facebook.com/OpenCulturalCenter/)](../assets/681830b7adce/1*Ai8In6iTwXSRGqjHQE1TFA.jpeg)
 
 Photo: [**Open Cultural Center — OCC — former Idomeni Cultural Center**](https://www.facebook.com/OpenCulturalCenter/)
 
 
-![Photo: [**Open Cultural Center — OCC — former Idomeni Cultural Center**](https://www.facebook.com/OpenCulturalCenter/)](assets/681830b7adce/1*oBebTIG8bKkfepuglpqVgQ.jpeg)
+![Photo: [**Open Cultural Center — OCC — former Idomeni Cultural Center**](https://www.facebook.com/OpenCulturalCenter/)](../assets/681830b7adce/1*oBebTIG8bKkfepuglpqVgQ.jpeg)
 
 Photo: [**Open Cultural Center — OCC — former Idomeni Cultural Center**](https://www.facebook.com/OpenCulturalCenter/)
 ### **Fire under control**
@@ -92,14 +92,14 @@ As these are the numbers for period ending on August 1st, there have been some c
 ### **Croatia can also be a home**
 
 
-![Taste of home donation party\. Photo: Neven Petrović](assets/681830b7adce/1*lIzDk8t5VQbnZERG30j07Q.jpeg)
+![Taste of home donation party\. Photo: Neven Petrović](../assets/681830b7adce/1*lIzDk8t5VQbnZERG30j07Q.jpeg)
 
 Taste of home donation party\. Photo: Neven Petrović
 
 In brighter news, the cooperative [Taste of Home](http://www.okus-doma.hr/en) , whose founding members are asylum seekers currently living in Croatia, held a donation event this Friday at Zagreb’s Museum of Contemporary Art\. Three hundred friends and supporters attended this wonderful night of unity, interculturality and solidarity\.
 
 
-![Taste of home donation party\. Photo: Neven Petrović](assets/681830b7adce/1*0wGroUzCfPW25eeBdayk5Q.jpeg)
+![Taste of home donation party\. Photo: Neven Petrović](../assets/681830b7adce/1*0wGroUzCfPW25eeBdayk5Q.jpeg)
 
 Taste of home donation party\. Photo: Neven Petrović
 #### Italy
@@ -116,7 +116,7 @@ As has been reported, most of the pre\-election campaign rhetoric was concentrat
 ### **Unfortunate strikes in Calais**
 
 
-![Protest in Calais\. Photo borrowed from Sky news](assets/681830b7adce/1*_0Tvqqa83lz53QpYJdsp7w.jpeg)
+![Protest in Calais\. Photo borrowed from Sky news](../assets/681830b7adce/1*_0Tvqqa83lz53QpYJdsp7w.jpeg)
 
 Protest in Calais\. Photo borrowed from Sky news
 

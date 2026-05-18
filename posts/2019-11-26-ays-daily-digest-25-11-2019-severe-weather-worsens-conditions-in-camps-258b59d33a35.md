@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,greece,digest,human-rights]
 description: Storms cause dangerous crossing conditions /// Evacuation of refugees from Libya /// Pushbacks at the French-Italian border …
 image:
-  path: assets/258b59d33a35/1*cA49tgb4AlQm4OclF_bYAg.jpeg
+  path: ../assets/258b59d33a35/1*cA49tgb4AlQm4OclF_bYAg.jpeg
 ---
 
 ### AYS Daily Digest 25\.11\.2019 — No Surprises, Severe Weather Punishing People in Camps in Greece
 #### Storms cause dangerous crossing conditions /// Evacuation of refugees from Libya /// Pushbacks at the French\-Italian border …
 
 
-![Flooded camps in Greece\. Photographer: [@Theurgia\_Goetia](https://twitter.com/Theurgia_Goetia/status/1198962388004954116?fbclid=IwAR2JQJr_O0fR_MdBkmPTWEJ6YrMJUKsjr9BjCeqqPWIymZfQkAreyjlT3Wg)](assets/258b59d33a35/1*cA49tgb4AlQm4OclF_bYAg.jpeg)
+![Flooded camps in Greece\. Photographer: [@Theurgia\_Goetia](https://twitter.com/Theurgia_Goetia/status/1198962388004954116?fbclid=IwAR2JQJr_O0fR_MdBkmPTWEJ6YrMJUKsjr9BjCeqqPWIymZfQkAreyjlT3Wg)](../assets/258b59d33a35/1*cA49tgb4AlQm4OclF_bYAg.jpeg)
 
 Flooded camps in Greece\. Photographer: [@Theurgia\_Goetia](https://twitter.com/Theurgia_Goetia/status/1198962388004954116?fbclid=IwAR2JQJr_O0fR_MdBkmPTWEJ6YrMJUKsjr9BjCeqqPWIymZfQkAreyjlT3Wg)
 ### FEATURE — Extreme weather exposes inadequate living facilities in Greek camps
@@ -90,7 +90,7 @@ When the Greek government demolishes these squats, they not only deprive people 
 Despite the weather and the conditions in Greece, refugees keep coming\. [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/photos/a.285312485325196/704857560037351/?type=3&theater) ’s weekly summary shows that numbers of arrivals on island camps increased last week, while transfers to the mainland decreased\. More and more people are stuck in already\-crowded camps as winter sets in and more severe weather threatens the islands\. Moria alone holds [16,000 people](https://twitter.com/daphnetoli/status/1198958259740258304?fbclid=IwAR2ZMUU8fxPxqFFCdClbEEaH9WV9WfsXGpZwAhp0a3x_0DVkFBBoWuQqPkQ) whose homes have now been destroyed by the weather\.
 
 
-![weekly report from Aegean Boat Report](assets/258b59d33a35/1*f5305Lb8HLp0oksr2AWXoA.jpeg)
+![weekly report from Aegean Boat Report](../assets/258b59d33a35/1*f5305Lb8HLp0oksr2AWXoA.jpeg)
 
 weekly report from Aegean Boat Report
 
@@ -169,12 +169,12 @@ You can donate [here](https://www.facebook.com/donate/2390909231169360/235801911
 The video can be found [here](https://www.facebook.com/lorena.fornasir/posts/2529424160507999) and more photos can be found [here](https://www.facebook.com/lorena.fornasir/posts/2530601907056891?hc_location=ufi) \.
 
 
-![More images from Miral\. Photographer: Lorena Fornasir](assets/258b59d33a35/1*XBq5lmVHnUQnP_vJDZ7fLQ.jpeg)
+![More images from Miral\. Photographer: Lorena Fornasir](../assets/258b59d33a35/1*XBq5lmVHnUQnP_vJDZ7fLQ.jpeg)
 
 More images from Miral\. Photographer: Lorena Fornasir
 
 
-![Photographer: Lorena Fornasir](assets/258b59d33a35/1*0dSM8iMG0CVITInr6M2zUA.jpeg)
+![Photographer: Lorena Fornasir](../assets/258b59d33a35/1*0dSM8iMG0CVITInr6M2zUA.jpeg)
 
 Photographer: Lorena Fornasir
 ### LIBYA
@@ -221,7 +221,7 @@ Migrants were redistributed among the surviving areas of the center, although [m
 #### Caritas Intemelia is calling for donations of men’s winter clothing and hygiene products\.
 
 
-![Credit: Caritas Intemelia](assets/258b59d33a35/1*njC6_PW4FFkCbwAZL83Q-w.jpeg)
+![Credit: Caritas Intemelia](../assets/258b59d33a35/1*njC6_PW4FFkCbwAZL83Q-w.jpeg)
 
 Credit: Caritas Intemelia
 

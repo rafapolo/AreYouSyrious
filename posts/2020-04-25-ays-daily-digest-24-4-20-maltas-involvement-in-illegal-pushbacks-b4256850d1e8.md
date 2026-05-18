@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 24/4/20: Malta’s involvement in illegal pushbacks
+title: "AYS Daily Digest 24/4/20: Malta’s involvement in illegal pushbacks"
 author: Are You Syrious?
 date: 2020-04-25T12:22:36.742+0100
 last_modified_at: 2020-04-25T12:22:36.742+0100
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [digest,refugees,asylum-seekers,europe,ngo]
 description: Are You Syrious?
 image:
-  path: assets/b4256850d1e8/0*Onk0Tyh_kjRibe_F.jpeg
+  path: ../assets/b4256850d1e8/0*Onk0Tyh_kjRibe_F.jpeg
 ---
 
 ### AYS Daily Digest 24/4/20: Malta’s involvement in illegal pushbacks
 
 
-![](assets/b4256850d1e8/0*4Ki0eiQOOTzZ0mtC.jpeg)
+![](../assets/b4256850d1e8/0*4Ki0eiQOOTzZ0mtC.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----d4781494786c----------------------)
@@ -23,11 +23,11 @@ image:
 Did the Maltese government commission the finishing boat of a captain previously alleged to be involved in smuggling? // European NGOs fight for the rights of civil society // failure to relocate asylum seekers in Greece // Dutch government’s refusal to assist vulnerable children
 
 
-![](assets/b4256850d1e8/0*OzQvsg-LlpWp-CUW)
+![](../assets/b4256850d1e8/0*OzQvsg-LlpWp-CUW)
 
 
 
-![](assets/b4256850d1e8/0*Onk0Tyh_kjRibe_F.jpeg)
+![](../assets/b4256850d1e8/0*Onk0Tyh_kjRibe_F.jpeg)
 
 ### Feature
 

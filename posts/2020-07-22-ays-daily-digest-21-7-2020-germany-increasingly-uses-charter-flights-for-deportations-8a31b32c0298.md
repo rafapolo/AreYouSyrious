@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 21/7/2020: Germany increasingly uses charter flights for deportations
+title: "AYS Daily Digest 21/7/2020: Germany increasingly uses charter flights for deportations"
 author: Are You Syrious?
 date: 2020-07-22T08:16:32.303+0100
 last_modified_at: 2020-07-22T12:02:25.639+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,deportations,refugee,germany,europe]
 description: And Frontex pays for it / Apparently new fire in Moria / More boats in distress and abandoned by the EU / Man in Libya dies in front of…
 image:
-  path: assets/8a31b32c0298/1*8_xQpF3F5nr3nUcNDMyXug.jpeg
+  path: ../assets/8a31b32c0298/1*8_xQpF3F5nr3nUcNDMyXug.jpeg
 ---
 
 ### AYS Daily Digest 21/7/2020: Germany increasingly uses charter flights for deportations
 #### And Frontex pays for it / Reportedly new fire in Moria / More boats in distress and abandoned by the EU / Man in Libya dies in front of UNHCR centre
 
 
-![“Borders kill, deportations too” — a banner on a demonstration in Hannover\. Credits: [Twitter/@2Amilsa](https://twitter.com/2Amilsa/status/1284162328682954754/photo/1)](assets/8a31b32c0298/1*8_xQpF3F5nr3nUcNDMyXug.jpeg)
+![“Borders kill, deportations too” — a banner on a demonstration in Hannover\. Credits: [Twitter/@2Amilsa](https://twitter.com/2Amilsa/status/1284162328682954754/photo/1)](../assets/8a31b32c0298/1*8_xQpF3F5nr3nUcNDMyXug.jpeg)
 
 “Borders kill, deportations too” — a banner on a demonstration in Hannover\. Credits: [Twitter/@2Amilsa](https://twitter.com/2Amilsa/status/1284162328682954754/photo/1)
 ### The deportation industry
@@ -98,7 +98,7 @@ A human rights activist on Twitter claims that one man has died in front of a UN
 
 
 
-[![ICC Prosecutor at the EU Parliament on the case vs. EU policies in the Mediterranean & Libya 29/5/20](assets/8a31b32c0298/160b_hqdefault.jpg "ICC Prosecutor at the EU Parliament on the case vs. EU policies in the Mediterranean & Libya 29/5/20")](https://www.youtube.com/watch?v=yb0qC97avqE)
+[![ICC Prosecutor at the EU Parliament on the case vs. EU policies in the Mediterranean & Libya 29/5/20](../assets/8a31b32c0298/160b_hqdefault.jpg "ICC Prosecutor at the EU Parliament on the case vs. EU policies in the Mediterranean & Libya 29/5/20")](https://www.youtube.com/watch?v=yb0qC97avqE)
 
 ### France
 

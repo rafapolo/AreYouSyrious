@@ -1,13 +1,13 @@
 ---
-title: AYS Weekend Digest 02–03/11/2019: Italy-Libya deal renewed without changes
+title: "AYS Weekend Digest 02–03/11/2019: Italy-Libya deal renewed without changes"
 author: Are You Syrious?
 date: 2019-11-04T10:12:23.984+0000
 last_modified_at: 2019-11-04T13:18:37.833+0000
 categories: Are You Syrious?
 tags: [refugees,italy,libyan-coast-guard,balkan-route,digest]
-description: Greece: Racist and anti-migrant protests spread; Hunger Strike in Petrou Ralli detention centre, Athens; Police abuses and solidarity…
+description: "Greece: Racist and anti-migrant protests spread; Hunger Strike in Petrou Ralli detention centre, Athens; Police abuses and solidarity…"
 image:
-  path: assets/16040e08dab/1*PcStEujGlXPiu36SchbWHQ.jpeg
+  path: ../assets/16040e08dab/1*PcStEujGlXPiu36SchbWHQ.jpeg
 ---
 
 ### AYS Weekend Digest 02–03/11/2019: Italy\-Libya deal renewed without changes
@@ -15,7 +15,7 @@ image:
 Greece: Racist and anti\-migrant protests spread; Hunger Strike in Petrou Ralli detention centre, Athens; Police abuses and solidarity demonstration in Exarchia /// Italy: Salvini’s security decrees, one year on; Donations needed in Trieste /// Balkan route: How much police brutality is too much police brutality? /// France: updates from Calais; Protests in Paris
 
 
-![EU truth \(by [Mikail Çiftçi](https://www.facebook.com/mikailciftci63) \)](assets/16040e08dab/1*PcStEujGlXPiu36SchbWHQ.jpeg)
+![EU truth \(by [Mikail Çiftçi](https://www.facebook.com/mikailciftci63) \)](../assets/16040e08dab/1*PcStEujGlXPiu36SchbWHQ.jpeg)
 
 EU truth \(by [Mikail Çiftçi](https://www.facebook.com/mikailciftci63) \)
 #### Feature Story: Italy\-Libya deal renewed without changes
@@ -25,7 +25,7 @@ On Saturday 2nd of November the agreement between Italy and Libya which regulate
 In Italy the 2nd of November is also All Souls day, a celebration of the deceased:
 
 
-![Unnamed graves of people who died crossing the Mediterranean, Cemetery of Palermo, Sicily \(Photo by [Filippo Miraglia](https://twitter.com/FilippoMiraglia/status/1190595139456122880) \)](assets/16040e08dab/1*9QlQn8eyq2QZ6WDdPpvhTw.jpeg)
+![Unnamed graves of people who died crossing the Mediterranean, Cemetery of Palermo, Sicily \(Photo by [Filippo Miraglia](https://twitter.com/FilippoMiraglia/status/1190595139456122880) \)](../assets/16040e08dab/1*9QlQn8eyq2QZ6WDdPpvhTw.jpeg)
 
 Unnamed graves of people who died crossing the Mediterranean, Cemetery of Palermo, Sicily \(Photo by [Filippo Miraglia](https://twitter.com/FilippoMiraglia/status/1190595139456122880) \)
 
@@ -204,22 +204,22 @@ BALKAN ROUTE
 Injuries sustained by an individual during a pushback in Croatia this weekend\.
 
 
-![](assets/16040e08dab/1*KQgv1bSfDabLFSbWwMlqTA.jpeg)
+![](../assets/16040e08dab/1*KQgv1bSfDabLFSbWwMlqTA.jpeg)
 
 
 
-![](assets/16040e08dab/1*pz-GUdCI9xf4Fg1HfIf_ew.jpeg)
+![](../assets/16040e08dab/1*pz-GUdCI9xf4Fg1HfIf_ew.jpeg)
 
 
 
-![\(Photo Credit: [Lorena Fornasir](https://www.facebook.com/lorena.fornasir?__tn__=%2CdK-R-R&eid=ARAyWa3LYyCaYqB_kosnhPLENPjRYMj5Ha2EYn1ma7id36JgTH7ABNxz3B6AMuwjfxEPXqkFpSBk1Uqj&fref=mentions) \)](assets/16040e08dab/1*JxBJ7x5Ib051BfjS0rYzVA.jpeg)
+![\(Photo Credit: [Lorena Fornasir](https://www.facebook.com/lorena.fornasir?__tn__=%2CdK-R-R&eid=ARAyWa3LYyCaYqB_kosnhPLENPjRYMj5Ha2EYn1ma7id36JgTH7ABNxz3B6AMuwjfxEPXqkFpSBk1Uqj&fref=mentions) \)](../assets/16040e08dab/1*JxBJ7x5Ib051BfjS0rYzVA.jpeg)
 
 \(Photo Credit: [Lorena Fornasir](https://www.facebook.com/lorena.fornasir?__tn__=%2CdK-R-R&eid=ARAyWa3LYyCaYqB_kosnhPLENPjRYMj5Ha2EYn1ma7id36JgTH7ABNxz3B6AMuwjfxEPXqkFpSBk1Uqj&fref=mentions) \)
 
 In a further show of complete sadism, it is [reported](https://www.facebook.com/Nawal-Soufi-1209495785901695/?__tn__=%2CdkCH-R-R&eid=ARBHFFAkcym7vs0J6Oph8AKWBrzm8yQmmazys_M8mbsTBNlehY2_-A5e4c62Kp5aNo1bDZchuQbRTbJd&hc_ref=ARRLur4FhiIOlXYjIVrp6o_QEANgeuIu0F6HKZT2zCSxb2RsC4c_YtglK7krPbbh5lI&fref=nf&hc_location=group) that another group of people who were stopped this weekend where beaten and stolen from, which is standard procedure along the Balkan route, but then the police decided to go one step further and fake a mass execution\. They forced people to line up and shot at them with what is thought to be rubber bullets\.
 
 
-![\(Photo Credit: [Nawal Soufi](https://www.facebook.com/1209495785901695/photos/a.1209640705887203/1302287076622565/?type=3&theater) \)](assets/16040e08dab/1*lwuRoUh8HX52hLT-iOYzuw.jpeg)
+![\(Photo Credit: [Nawal Soufi](https://www.facebook.com/1209495785901695/photos/a.1209640705887203/1302287076622565/?type=3&theater) \)](../assets/16040e08dab/1*lwuRoUh8HX52hLT-iOYzuw.jpeg)
 
 \(Photo Credit: [Nawal Soufi](https://www.facebook.com/1209495785901695/photos/a.1209640705887203/1302287076622565/?type=3&theater) \)
 
@@ -229,7 +229,7 @@ FRANCE
 #### Updates from Calais
 
 
-![\(Photo Credit: [L’Auberge des Migrants](https://www.facebook.com/AubergeMigrants/photos/a.10152514841565339/10157308249850339/?type=3&theater) /North Shore Photo\)](assets/16040e08dab/1*WziieAmOORZNa4Jaclzw0w.jpeg)
+![\(Photo Credit: [L’Auberge des Migrants](https://www.facebook.com/AubergeMigrants/photos/a.10152514841565339/10157308249850339/?type=3&theater) /North Shore Photo\)](../assets/16040e08dab/1*WziieAmOORZNa4Jaclzw0w.jpeg)
 
 \(Photo Credit: [L’Auberge des Migrants](https://www.facebook.com/AubergeMigrants/photos/a.10152514841565339/10157308249850339/?type=3&theater) /North Shore Photo\)
 
@@ -260,7 +260,7 @@ NORWAY
 #### Activists in Norway commemorate those who died on their way to Europe
 
 
-![\(Photo Credit: [Nihad Suljić](https://www.facebook.com/profile.php?id=100011312972993&__tn__=%2Cd%2AF%2AF-R&eid=ARD8RGVe2LGqi0GAPJL7t28ojomLohIn8srofcEM735EYuewYBXk1j7ma7dcHwKnfNNdx_iGelXYkqn0&tn-str=%2AF) \)](assets/16040e08dab/1*zZjYayoSIW4ZfYVMHym9iw.jpeg)
+![\(Photo Credit: [Nihad Suljić](https://www.facebook.com/profile.php?id=100011312972993&__tn__=%2Cd%2AF%2AF-R&eid=ARD8RGVe2LGqi0GAPJL7t28ojomLohIn8srofcEM735EYuewYBXk1j7ma7dcHwKnfNNdx_iGelXYkqn0&tn-str=%2AF) \)](../assets/16040e08dab/1*zZjYayoSIW4ZfYVMHym9iw.jpeg)
 
 \(Photo Credit: [Nihad Suljić](https://www.facebook.com/profile.php?id=100011312972993&__tn__=%2Cd%2AF%2AF-R&eid=ARD8RGVe2LGqi0GAPJL7t28ojomLohIn8srofcEM735EYuewYBXk1j7ma7dcHwKnfNNdx_iGelXYkqn0&tn-str=%2AF) \)
 

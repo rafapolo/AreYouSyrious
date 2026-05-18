@@ -1,5 +1,5 @@
 ---
-title: AYS Special from Denmark: “Don’t worry, you’ll go back to Iraq soon.”
+title: "AYS Special from Denmark: “Don’t worry, you’ll go back to Iraq soon.”"
 author: Are You Syrious?
 date: 2020-12-17T15:44:15.753+0000
 last_modified_at: 2020-12-17T15:44:15.753+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [special,denmark,deportations,iraq,human-rights]
 description: Denmark has been trying to deport rejected asylum seekers to Iraq for years. Authorities, despite pressure on Iraqi officials, cannot…
 image:
-  path: assets/1a8b5fb87d44/1*1TnR6W8KTuQZ74eXv9SwwA.jpeg
+  path: ../assets/1a8b5fb87d44/1*1TnR6W8KTuQZ74eXv9SwwA.jpeg
 ---
 
 ### AYS Special from Denmark: “Don’t worry, you’ll go back to Iraq soon\.”
@@ -15,7 +15,7 @@ image:
 Denmark has been trying to deport rejected asylum seekers to Iraq for years\. Authorities, despite pressure on Iraqi officials, cannot deport cannot deport people there\. Denmark has flown Iraqi people to Baghdad several times; every time they had to fly them back to Denmark because Iraqi authorities refused to receive people who are deported by force\. However, in recent months things have started to change\. Denmark recently signed an agreement on the deportation of people on the move who committed crimes in Denmark, and proceeded with the first deportation\. Over the last week, Denmark has [opened](https://www.mofa.gov.iq/2020/12/?p=19270) an embassy in Baghdad, which could pave the way for new negotiations\.
 
 
-![M\. with his legal advisors in Italy](assets/1a8b5fb87d44/1*1TnR6W8KTuQZ74eXv9SwwA.jpeg)
+![M\. with his legal advisors in Italy](../assets/1a8b5fb87d44/1*1TnR6W8KTuQZ74eXv9SwwA.jpeg)
 
 M\. with his legal advisors in Italy
 
@@ -39,7 +39,7 @@ M\. is an Iraqi man, who has been detained in Ellebæk since September\. On Tues
 
 
 
-![Ellebæk entry gate](assets/1a8b5fb87d44/1*YTf4aICD_A2MFQlkVmBEFA.jpeg)
+![Ellebæk entry gate](../assets/1a8b5fb87d44/1*YTf4aICD_A2MFQlkVmBEFA.jpeg)
 
 Ellebæk entry gate
 

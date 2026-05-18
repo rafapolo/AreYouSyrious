@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 06/09/17: As expected, Slovakia and Hungary lose in EU Court
+title: "AYS Daily Digest 06/09/17: As expected, Slovakia and Hungary lose in EU Court"
 author: Are You Syrious?
 date: 2017-09-07T00:43:07.970+0100
 last_modified_at: 2017-09-08T09:46:34.244+0100
@@ -7,7 +7,7 @@ categories:
 tags: [europe,greece,italy,germany,france]
 description: Relocation still mandatory / Greek Asylum Service’s staff on strike / Police violence in Belgium / Update with current needs in Paris /…
 image:
-  path: assets/4b46869269cb/1*ay8LWjfuvQuqztanSazwzA.jpeg
+  path: ../assets/4b46869269cb/1*ay8LWjfuvQuqztanSazwzA.jpeg
 ---
 
 ### AYS Daily Digest 06/09/17: As expected, Slovakia and Hungary lose in EU Court
@@ -15,7 +15,7 @@ image:
 _Relocation still mandatory / Greek Asylum Service’s staff on strike / Police violence in Belgium / Update with current needs in Paris / Asylum seekers and police clash in Finland / Sweden must stop border controls in November, EU says / Report on Afghan minors in Italy / Upcoming deportation of 15 people in Germany / And more news…_
 
 
-![Patience \+ hope = Europe \(Idomeni 2016\): both patience and hope are still needed \(Photo by AYS\)](assets/4b46869269cb/1*ay8LWjfuvQuqztanSazwzA.jpeg)
+![Patience \+ hope = Europe \(Idomeni 2016\): both patience and hope are still needed \(Photo by AYS\)](../assets/4b46869269cb/1*ay8LWjfuvQuqztanSazwzA.jpeg)
 
 Patience \+ hope = Europe \(Idomeni 2016\): both patience and hope are still needed \(Photo by AYS\)
 ### FEATURE: Slovakia and Hungary lose in EU Court of Justice
@@ -50,7 +50,7 @@ The people on strike at GAS are employed on short term contracts\. They have lau
 Language classes for women only at [Mosaik Support Center](https://www.facebook.com/mosaiksupportcenter/) \. More details [here and in the photo below\.](https://www.facebook.com/mosaiksupportcenter/posts/1406579506122565?hc_location=ufi)
 
 
-![Photo and info from: [Mosaik Support Center](https://www.facebook.com/mosaiksupportcenter/) \.](assets/4b46869269cb/1*De1d_YjP2so5SUmtcY0SUA.jpeg)
+![Photo and info from: [Mosaik Support Center](https://www.facebook.com/mosaiksupportcenter/) \.](../assets/4b46869269cb/1*De1d_YjP2so5SUmtcY0SUA.jpeg)
 
 Photo and info from: [Mosaik Support Center](https://www.facebook.com/mosaiksupportcenter/) \.
 #### **Athens: Laundry service in Nea Kavala**
@@ -58,7 +58,7 @@ Photo and info from: [Mosaik Support Center](https://www.facebook.com/mosaiksupp
 A drop in the Ocean, [**Dråpen i Havet**](https://www.facebook.com/drapenihavet/?hc_ref=ARR_pHHO1Ni3ZzRGE7-yX_Pj5tkpq91N5WHp1A8I57tTxeRKAjNm47WU2ZO2lzCVR84) **,** has some [good news](https://www.facebook.com/drapenihavet/posts/1796913160326125?fref=gc&dti=1652972374920129&hc_location=ufi) \! They have finally, after a lot of delays caused by bureaucracy, been able to open a laundry service for the residents in Nea Kavala\. On Monday the service started, which means an end of hand washing which was the only option up until now\.
 
 
-![Photo: [**Dråpen i Havet**](https://www.facebook.com/drapenihavet/?hc_ref=ARR_pHHO1Ni3ZzRGE7-yX_Pj5tkpq91N5WHp1A8I57tTxeRKAjNm47WU2ZO2lzCVR84)](assets/4b46869269cb/1*1UZTgEsjaMaYIs7uKC3olQ.jpeg)
+![Photo: [**Dråpen i Havet**](https://www.facebook.com/drapenihavet/?hc_ref=ARR_pHHO1Ni3ZzRGE7-yX_Pj5tkpq91N5WHp1A8I57tTxeRKAjNm47WU2ZO2lzCVR84)](../assets/4b46869269cb/1*1UZTgEsjaMaYIs7uKC3olQ.jpeg)
 
 Photo: [**Dråpen i Havet**](https://www.facebook.com/drapenihavet/?hc_ref=ARR_pHHO1Ni3ZzRGE7-yX_Pj5tkpq91N5WHp1A8I57tTxeRKAjNm47WU2ZO2lzCVR84)
 #### **Athens: Info from Pampiraki**
@@ -125,7 +125,7 @@ As AYS have mentioned before and that UNHCR also have been writing in several of
 In Verona, [One Bridge To Idomeni](https://www.facebook.com/1Bridge2Idomeni/) , tonight hosted an event to collect donations for their activities in norhern Italy including Gorizia near the border\. They have during their work on the ground noticed what the report above says, and have met with several young people arriving from the Balkan route the last couple of months\. Not only Afghans, also Pakistanis and Syrians are among the newly arrived from the north east\.
 
 
-![Poster featuring parts of the old Belgrade barracks\. Photo: [One Bridge To Idomeni](https://www.facebook.com/1Bridge2Idomeni/)](assets/4b46869269cb/1*oPQTCfwjm4Y0Xn9v5C8zww.jpeg)
+![Poster featuring parts of the old Belgrade barracks\. Photo: [One Bridge To Idomeni](https://www.facebook.com/1Bridge2Idomeni/)](../assets/4b46869269cb/1*oPQTCfwjm4Y0Xn9v5C8zww.jpeg)
 
 Poster featuring parts of the old Belgrade barracks\. Photo: [One Bridge To Idomeni](https://www.facebook.com/1Bridge2Idomeni/)
 #### **Information about dangers related to trains**
@@ -191,7 +191,7 @@ Paris Refugee Ground Support continue to offer help to everyone in need\. They h
 [**Mobile Refugee Support**](https://www.facebook.com/MobileRefugeeSupport/?hc_ref=ARQWCk_H3luzu1PXxesFkj3ixrtgxXMrmk_-tOTYDoqECwwn4i9eYNwDq2HVz6VrbMA) is also reporting from France, [saying that they are grateful](https://www.facebook.com/MobileRefugeeSupport/posts/652905674915047?fref=gc&dti=1652972374920129&hc_location=ufi) for all the support they can get while working in the area of Grande Synthe\. They are always in need of a hand, and if someone wanna help out — [get in touch\.](https://www.facebook.com/MobileRefugeeSupport/posts/652905674915047?fref=gc&dti=1652972374920129&hc_location=ufi)
 
 
-![Photo: [**Mobile Refugee Support**](https://www.facebook.com/MobileRefugeeSupport/?hc_ref=ARQWCk_H3luzu1PXxesFkj3ixrtgxXMrmk_-tOTYDoqECwwn4i9eYNwDq2HVz6VrbMA)](assets/4b46869269cb/1*KtP5G2SAqtLbxsljHFYuMA.jpeg)
+![Photo: [**Mobile Refugee Support**](https://www.facebook.com/MobileRefugeeSupport/?hc_ref=ARQWCk_H3luzu1PXxesFkj3ixrtgxXMrmk_-tOTYDoqECwwn4i9eYNwDq2HVz6VrbMA)](../assets/4b46869269cb/1*KtP5G2SAqtLbxsljHFYuMA.jpeg)
 
 Photo: [**Mobile Refugee Support**](https://www.facebook.com/MobileRefugeeSupport/?hc_ref=ARQWCk_H3luzu1PXxesFkj3ixrtgxXMrmk_-tOTYDoqECwwn4i9eYNwDq2HVz6VrbMA)
 ### BELGIUM
@@ -199,11 +199,11 @@ Photo: [**Mobile Refugee Support**](https://www.facebook.com/MobileRefugeeSuppor
 [From the heart of the EU,](https://m.facebook.com/story.php?story_fbid=509726106033023&id=153279105011060) not so warm news are coming\. More police brutality and violence of the counter productive kind\. Read the statement and information from [volunteers on the ground here\.](https://m.facebook.com/story.php?story_fbid=509726106033023&id=153279105011060)
 
 
-![](assets/4b46869269cb/1*6cPJVcIEp0Ob1QJ6T4feOA.jpeg)
+![](../assets/4b46869269cb/1*6cPJVcIEp0Ob1QJ6T4feOA.jpeg)
 
 
 
-![](assets/4b46869269cb/1*MCTGimYC5hq8I_Q5yhzL0A.jpeg)
+![](../assets/4b46869269cb/1*MCTGimYC5hq8I_Q5yhzL0A.jpeg)
 
 ### GERMANY
 

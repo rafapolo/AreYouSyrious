@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 30/8/17: Thousands missing, many more awake scared instead of sleeping in Europe’s…
+title: "AYS Daily Digest 30/8/17: Thousands missing, many more awake scared instead of sleeping in Europe’s…"
 author: Are You Syrious?
 date: 2017-08-31T02:53:07.664+0100
 last_modified_at: 2017-09-02T10:47:00.583+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,greece,france,italy,turkey]
 description: Thousands of people missing en route / Shocking conditions in Libyan detention camps / Scandalous silence about the violation of human…
 image:
-  path: assets/209f95d3696a/1*qhA4Wls6Flr7jQzVhsKMlg.jpeg
+  path: ../assets/209f95d3696a/1*qhA4Wls6Flr7jQzVhsKMlg.jpeg
 ---
 
 ### AYS Daily Digest 30/8/17: Thousands missing, many more awake scared instead of sleeping in Europe’s woods and fields
@@ -15,7 +15,7 @@ image:
 _Thousands of people missing en route / Shocking conditions in Libyan detention camps / Scandalous silence about the violation of human rights in Turkey / Afghan protest ends in a possible agreement with the police / New rescues at sea / Volunteer opportunities in Greece / Tensions in Calais and Paris build up / Updates from other places / And more news…_
 
 
-![Poster on a wall of a Calais building \(Photo by [Calais Solidarity‏](https://twitter.com/calaisolidarity) \)](assets/209f95d3696a/1*qhA4Wls6Flr7jQzVhsKMlg.jpeg)
+![Poster on a wall of a Calais building \(Photo by [Calais Solidarity‏](https://twitter.com/calaisolidarity) \)](../assets/209f95d3696a/1*qhA4Wls6Flr7jQzVhsKMlg.jpeg)
 
 Poster on a wall of a Calais building \(Photo by [Calais Solidarity‏](https://twitter.com/calaisolidarity) \)
 ### FEATURE: International Day of the Disappeared
@@ -104,13 +104,13 @@ A total of 302 migrants, mostly from Syria, have crossed to Cyprus by boat from 
 #### A statement on Lesbos Lesbos
 
 
-![](assets/209f95d3696a/1*i3wMTltKZ6BY_T8kCG0cfg.jpeg)
+![](../assets/209f95d3696a/1*i3wMTltKZ6BY_T8kCG0cfg.jpeg)
 
 
 
 ![“These photos are a symbol of disaster\. A disaster consisting of immorality, the collapse of humanity, and the collapse of compassion\. We have fallen\. We have fallen to the point where these pictures do not make us feel any pain, where they do not make our hearts beat faster, where they do not make us rise up against fascism and against the State; a State that is governed by men with bloody hands\. 
 The people in these photos are the very same people who have been displaced and exiled by dirty policies and by monstrous powerful corporations\. They are the very same people who have been bombed, forced to leave their homes, their countries, and who have ultimately sought refuge in Europe\. Do you consider this the refuge? Is this the warm embace you have provided them with? Is this how you welcome women and children seeking refuge? Shame on you; you fascists\! Shame on you; you politicians who gamble with the blood of children\. Your firearm industry glares into our tired eyes\! It shines into the eyes of the children who you continue to humiliate merely for seeking refugee in your country\! 
-You smell like an abscess; you people who foster situations such as those shown in these photos\.” — [Arash Hampay](https://www.facebook.com/arashampay?hc_ref=ARQlxVUu245YWCZiWh_5jWWeWciAegNn28EKbcifNE6FdaPTGMtp3giMCOyy-dyPDAs)](assets/209f95d3696a/1*KnlQ6KFqwZL-R2QPR3g7Qg.jpeg)
+You smell like an abscess; you people who foster situations such as those shown in these photos\.” — [Arash Hampay](https://www.facebook.com/arashampay?hc_ref=ARQlxVUu245YWCZiWh_5jWWeWciAegNn28EKbcifNE6FdaPTGMtp3giMCOyy-dyPDAs)](../assets/209f95d3696a/1*KnlQ6KFqwZL-R2QPR3g7Qg.jpeg)
 
 “These photos are a symbol of disaster\. A disaster consisting of immorality, the collapse of humanity, and the collapse of compassion\. We have fallen\. We have fallen to the point where these pictures do not make us feel any pain, where they do not make our hearts beat faster, where they do not make us rise up against fascism and against the State; a State that is governed by men with bloody hands\. 
 The people in these photos are the very same people who have been displaced and exiled by dirty policies and by monstrous powerful corporations\. They are the very same people who have been bombed, forced to leave their homes, their countries, and who have ultimately sought refuge in Europe\. Do you consider this the refuge? Is this the warm embace you have provided them with? Is this how you welcome women and children seeking refuge? Shame on you; you fascists\! Shame on you; you politicians who gamble with the blood of children\. Your firearm industry glares into our tired eyes\! It shines into the eyes of the children who you continue to humiliate merely for seeking refugee in your country\! 
@@ -141,11 +141,11 @@ Please read the official statement [here\.](https://www.facebook.com/NBKLesvos/p
 #### Chios
 
 
-![](assets/209f95d3696a/1*B_20sVTzNmwFH58JE_AWug.jpeg)
+![](../assets/209f95d3696a/1*B_20sVTzNmwFH58JE_AWug.jpeg)
 
 
 
-![Photos: [Refugee Biriyani & Bananas](https://www.facebook.com/RefugeeBiriyaniAndBananas/?hc_ref=ARTJrkAeQFKlmh_QBaNoO4Pm3oRKbh8TznXwhd7mMHjzajCo4ZRoYiS8R--tCfgl_NU)](assets/209f95d3696a/1*xKuTal99qGtvhynkyF1Ivw.jpeg)
+![Photos: [Refugee Biriyani & Bananas](https://www.facebook.com/RefugeeBiriyaniAndBananas/?hc_ref=ARTJrkAeQFKlmh_QBaNoO4Pm3oRKbh8TznXwhd7mMHjzajCo4ZRoYiS8R--tCfgl_NU)](../assets/209f95d3696a/1*xKuTal99qGtvhynkyF1Ivw.jpeg)
 
 Photos: [Refugee Biriyani & Bananas](https://www.facebook.com/RefugeeBiriyaniAndBananas/?hc_ref=ARTJrkAeQFKlmh_QBaNoO4Pm3oRKbh8TznXwhd7mMHjzajCo4ZRoYiS8R--tCfgl_NU)
 
@@ -167,7 +167,7 @@ Photos: [Refugee Biriyani & Bananas](https://www.facebook.com/RefugeeBiriyaniAnd
 #### Athens: Khora’s donation wishlist
 
 
-![[Khora](https://www.facebook.com/KhoraAthens/) ’s wishlist for donations](assets/209f95d3696a/1*05f2bJmWHamTZM2aI9CEow.jpeg)
+![[Khora](https://www.facebook.com/KhoraAthens/) ’s wishlist for donations](../assets/209f95d3696a/1*05f2bJmWHamTZM2aI9CEow.jpeg)
 
 [Khora](https://www.facebook.com/KhoraAthens/) ’s wishlist for donations
 #### Housing in Larissa
@@ -215,7 +215,7 @@ If you are interested, you can visit SolidarityNow at the Blue Refugee Center, I
 If you are interested, contact them as soon as possible by [Facebook](https://www.facebook.com/OpenCulturalCenter/?hc_ref=ARQyf34PTYiBE7Am7sq7qoEE_EkFybUnMSAv1DXdft7dbFINCKVzgiVx5sO5JhRPXvY&fref=nf) or email: northgreece@openculturalcenter\.org\.
 
 
-![“Do we want integration or exclusion?” [Greek Forum of Migrants](https://twitter.com/migrantsforum) shares refugee stories, some of the examples of exlusion in the place of integration in European societies](assets/209f95d3696a/1*JzHaryjaT1KFWqPBEoPvZQ.jpeg)
+![“Do we want integration or exclusion?” [Greek Forum of Migrants](https://twitter.com/migrantsforum) shares refugee stories, some of the examples of exlusion in the place of integration in European societies](../assets/209f95d3696a/1*JzHaryjaT1KFWqPBEoPvZQ.jpeg)
 
 “Do we want integration or exclusion?” [Greek Forum of Migrants](https://twitter.com/migrantsforum) shares refugee stories, some of the examples of exlusion in the place of integration in European societies
 ### HUNGARY
@@ -271,7 +271,7 @@ One migrant has been taken to hospital in Rome after clashes between local resid
 Formal residents of the makeshift camp have [reportedly](https://www.facebook.com/comitatolavoratoridellecampagne/posts/1535609799838473?fref=gc&dti=1652972374920129&hc_location=ufi) blocked the proceeding of the demolition with their bodies\. They claim their right to use houses of the Villaggio Italia which was built to house migrants, closed due to mafia infiltrations\.
 
 
-![Photo: [Comitato Lavoratori delle Campagne](https://www.facebook.com/comitatolavoratoridellecampagne/)](assets/209f95d3696a/1*q28a1va8VSQuXwsy7ywkag.jpeg)
+![Photo: [Comitato Lavoratori delle Campagne](https://www.facebook.com/comitatolavoratoridellecampagne/)](../assets/209f95d3696a/1*q28a1va8VSQuXwsy7ywkag.jpeg)
 
 Photo: [Comitato Lavoratori delle Campagne](https://www.facebook.com/comitatolavoratoridellecampagne/)
 ### FRANCE
@@ -284,7 +284,7 @@ Signs with this and other similar messages were posted on the walls along a stre
 All the signs, just like the ones previously posted, were taken down by the officials of the city, in spite of the protests of those actions being counter freedom of speech\. However, the officers present at the time with signs reading, “Calais, the least dynamic city, resignation,” did not intervene, the northern French media [report](http://www.nordlittoral.fr/44617/article/2017-08-30/la-guerre-des-affiches-anti-bouchart-continue-une-nouvelle-plainte-deposee) \.
 
 
-![\(Photo by [French media](http://www.nordlittoral.fr/44617/article/2017-08-30/la-guerre-des-affiches-anti-bouchart-continue-une-nouvelle-plainte-deposee) \)](assets/209f95d3696a/1*f8N5uRjist47kTUhrPSaqA.jpeg)
+![\(Photo by [French media](http://www.nordlittoral.fr/44617/article/2017-08-30/la-guerre-des-affiches-anti-bouchart-continue-une-nouvelle-plainte-deposee) \)](../assets/209f95d3696a/1*f8N5uRjist47kTUhrPSaqA.jpeg)
 
 \(Photo by [French media](http://www.nordlittoral.fr/44617/article/2017-08-30/la-guerre-des-affiches-anti-bouchart-continue-une-nouvelle-plainte-deposee) \)
 #### Paris
@@ -298,7 +298,7 @@ The volunteers on site wish to meet with all the concerned parties\. Just like i
 The situation will get neither easier nor simpler, and everyone should work together\.
 
 
-![Peaceful reminder to the citizens of peaceful towns \(Photo by [Calais Solidarity‏](https://twitter.com/calaisolidarity) \)](assets/209f95d3696a/1*ezjvGB-h0nFaD-2I6CVw2g.jpeg)
+![Peaceful reminder to the citizens of peaceful towns \(Photo by [Calais Solidarity‏](https://twitter.com/calaisolidarity) \)](../assets/209f95d3696a/1*ezjvGB-h0nFaD-2I6CVw2g.jpeg)
 
 Peaceful reminder to the citizens of peaceful towns \(Photo by [Calais Solidarity‏](https://twitter.com/calaisolidarity) \)
 ### UK

@@ -1,5 +1,5 @@
 ---
-title: AYS WEEKEND DIGEST 03–04.08.2018: Boat Arrivals and Interceptions to Greece highest since 2015
+title: "AYS WEEKEND DIGEST 03–04.08.2018: Boat Arrivals and Interceptions to Greece highest since 2015"
 author: Are You Syrious?
 date: 2019-08-05T14:35:56.124+0100
 last_modified_at: 2019-08-05T14:35:56.124+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,sea-rescue,bosnia]
 description: Proactiva Open Arms allowed to port in Valencia Spain // Alan Kurdi allowed to dock in Malta // More people anxious and more movement…
 image:
-  path: assets/db385d2cd390/0*NHBzzQz-0v3LF1jq.jpeg
+  path: ../assets/db385d2cd390/0*NHBzzQz-0v3LF1jq.jpeg
 ---
 
 ### AYS WEEKEND DIGEST 03–04\.08\.2018: Boat Arrivals and Interceptions to Greece highest since 2015
@@ -15,11 +15,11 @@ image:
 _Proactiva Open Arms allowed to port in Valencia Spain // Alan Kurdi allowed to dock in Malta // More people anxious and more movement throughout Greece // Police action removing people from trains from Sarajevo to Bihac, Bosnia resulting in escalating situation Kljuc // Major actions in Netherlands_
 
 
-![](assets/db385d2cd390/0*m1ppD4Ofgbs7_uez)
+![](../assets/db385d2cd390/0*m1ppD4Ofgbs7_uez)
 
 
 
-![](assets/db385d2cd390/0*NHBzzQz-0v3LF1jq.jpeg)
+![](../assets/db385d2cd390/0*NHBzzQz-0v3LF1jq.jpeg)
 
 
 [Photo Credit, Proactiva Open Arms](https://web.facebook.com/2088704344683209/photos/a.2155566397997003/2470014036552236/?type=3&theater&ifg=1)
@@ -31,11 +31,11 @@ The strengthening government in Turkey has also made migration and refugee hosti
 However as the Aegean Boat Report \(ABR\) has noted, the arrivals to the Greek Islands and the number of boats stopped by the Turkish Coast Guard were the highest recorded in July since 2015\.
 
 
-![](assets/db385d2cd390/0*JkwgNuhYNZRhcWAu)
+![](../assets/db385d2cd390/0*JkwgNuhYNZRhcWAu)
 
 
 
-![](assets/db385d2cd390/0*bVe45YydIKT4ESEY.jpeg)
+![](../assets/db385d2cd390/0*bVe45YydIKT4ESEY.jpeg)
 
 
 Aegean Boat Report
@@ -115,11 +115,11 @@ Salvini didn’t hesitate to take to twitter to express his derision\. However, 
 Reportage from Bernt Koschuh highlights the ongoing practice of police removing people from trains travelling from Sarajevo to Bihac\. According to the report, people are taken off about an hour before reaching Bihac\. This is right around the border between Republika Srpska and the Bosnian Federation, which are separately administered\. People here face humiliating conditions and are not allowed to sleep under the shelter of the gas station \(technically a structure\) and must be in the rain\.
 
 
-![](assets/db385d2cd390/0*MYLxzDPhHuG4snhq)
+![](../assets/db385d2cd390/0*MYLxzDPhHuG4snhq)
 
 
 
-![](assets/db385d2cd390/0*CFG5eLAmB9kQZ8yo.jpeg)
+![](../assets/db385d2cd390/0*CFG5eLAmB9kQZ8yo.jpeg)
 
 
 Photo Credit [Bernt Koshuh](https://web.facebook.com/photo.php?fbid=1085494428508075&set=pcb.1085502581840593&type=3&theater)
@@ -134,11 +134,11 @@ Watch a video of a forced disembarkation here:
 Local people recently brought awareness to the horrifying hygienic conditions of people having to sleep rough around Ključ\. The local community is trying to support the people passing here as best they can, but the devastating conditions make it impossible to keep up\. They are also calling on local authorities to get involved\. Local media highlights the untenability of the situation and points out that many local people continue to try and help those passing through; several interviewed noted that they had no problems with the people on their way\. For more, in BCS, go [here](http://ba.n1info.com/Vijesti/a360525/Nepremostiva-prepreka-za-pojedine-migrante.html) \.
 
 
-![](assets/db385d2cd390/0*t8B5Y5t67T6lH12K)
+![](../assets/db385d2cd390/0*t8B5Y5t67T6lH12K)
 
 
 
-![](assets/db385d2cd390/0*PBKafU2AajRtVz6j.jpeg)
+![](../assets/db385d2cd390/0*PBKafU2AajRtVz6j.jpeg)
 
 
 Photo Credit: [Sanella Lipirica](https://web.facebook.com/sanela.lepirica/posts/2567379986646549?hc_location=ufi)
@@ -164,11 +164,11 @@ For more, in BCS, go [here](http://ba.n1info.com/Vijesti/a360597/Europarlamentar
 No Border Camp literally camped out on the roof of NATO and TNO facilities in the Hague this weekend\. Six of the activists were arrested for climbing atop the buildings and hanging banners describing the role of NATO and TNO in humane border enforcement, deportations, and the terrorizing of people on the move\.
 
 
-![](assets/db385d2cd390/0*Vw1lMIaVbR12X0N4)
+![](../assets/db385d2cd390/0*Vw1lMIaVbR12X0N4)
 
 
 
-![](assets/db385d2cd390/0*kGUAN_v-4jNvy2M-.jpeg)
+![](../assets/db385d2cd390/0*kGUAN_v-4jNvy2M-.jpeg)
 
 
 NATO in The Hague\. Credit: [Gert\-Jan Van de Vaate](https://web.facebook.com/gertjan.vandevaate?__tn__=%2Cd%2AF%2AF-R&eid=ARA9cxd_KBTleTvCpPi6owi0X8rSLr3r7Kr7SZaoNORhpf3uXIAzJ9czJ9KLpjUqVVZ_uwrZKe4HSAVx&tn-str=%2AF)
@@ -199,11 +199,11 @@ The full press release for Sunday’s action can be read below, translated into 
 For more information, go [here](https://nos.nl/artikel/2296269-activisten-demonstreren-bij-navo-tegen-fort-europa-18-opgepakt.html) \(in Dutch\)
 
 
-![](assets/db385d2cd390/0*Wo1FxHZ21cVPrj7i)
+![](../assets/db385d2cd390/0*Wo1FxHZ21cVPrj7i)
 
 
 
-![](assets/db385d2cd390/0*zCcdYmXFVdl7JaJZ.jpeg)
+![](../assets/db385d2cd390/0*zCcdYmXFVdl7JaJZ.jpeg)
 
 
 Protest in front of NATO\. Credit: [Gert\-Jan Van de Vaate](https://web.facebook.com/gertjan.vandevaate?__tn__=%2Cd%2AF%2AF-R&eid=ARA9cxd_KBTleTvCpPi6owi0X8rSLr3r7Kr7SZaoNORhpf3uXIAzJ9czJ9KLpjUqVVZ_uwrZKe4HSAVx&tn-str=%2AF)
@@ -211,11 +211,11 @@ Protest in front of NATO\. Credit: [Gert\-Jan Van de Vaate](https://web.facebook
 A float titled “Not Gay Enough” was given permission to participate in this year’s Amsterdam Pride — the float is sponsored/managed by the Green Left/Pink Left collaboration\.
 
 
-![](assets/db385d2cd390/0*GjcPWBqvk7VQvVrl)
+![](../assets/db385d2cd390/0*GjcPWBqvk7VQvVrl)
 
 
 
-![](assets/db385d2cd390/0*zgNMlmkB_rRjxhAl.jpeg)
+![](../assets/db385d2cd390/0*zgNMlmkB_rRjxhAl.jpeg)
 
 
 [LGBT Asylum Support](https://web.facebook.com/LGBTAsylumSupport/?tn-str=k%2AF&hc_location=group_dialog)

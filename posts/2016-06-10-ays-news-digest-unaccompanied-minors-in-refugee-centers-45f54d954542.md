@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe,migration]
 description: Special Report on Minors
 image:
-  path: assets/45f54d954542/1*9XDqkGkgENIKsEDHY-djOQ.jpeg
+  path: ../assets/45f54d954542/1*9XDqkGkgENIKsEDHY-djOQ.jpeg
 ---
 
 ### **AYS NEWS DIGEST — Huge problem of unaccompanied Minors in Refugee Centers\.**
 
 
-![A young refugee’s protest note on Chios; PHOTO: Gabrielle Tan](assets/45f54d954542/1*9XDqkGkgENIKsEDHY-djOQ.jpeg)
+![A young refugee’s protest note on Chios; PHOTO: Gabrielle Tan](../assets/45f54d954542/1*9XDqkGkgENIKsEDHY-djOQ.jpeg)
 
 A young refugee’s protest note on Chios; PHOTO: Gabrielle Tan
 #### **Special Report on Minors**
@@ -26,7 +26,7 @@ The problem has worsened since the beginning of February, when European countrie
 … Up to the end of May, there have been 1,875 cases, 1,768 boys and 107 girls\. “It is likely the numbers will keep increasing while authorities and organisations identify more of these kids throughout the reception camps,” said [Petrakou](http://www.ipsnews.net/2016/06/thousands-of-child-refugees-stranded-alone-in-greece/) \.
 
 
-![](assets/45f54d954542/1*F4VPoBGUuKye1Y3KDiFH2Q.jpeg)
+![](../assets/45f54d954542/1*F4VPoBGUuKye1Y3KDiFH2Q.jpeg)
 
 #### A Volunteer’s notes about the minors in Chios:
 
@@ -90,7 +90,7 @@ The problem has worsened since the beginning of February, when European countrie
 
 
 
-![](assets/45f54d954542/1*OAeX4fAhuzW86wf4qIZgig.jpeg)
+![](../assets/45f54d954542/1*OAeX4fAhuzW86wf4qIZgig.jpeg)
 
 #### **Greece**
 ### **EU advises Greece to recognise Turkey as a safe third country\.**
@@ -98,7 +98,7 @@ The problem has worsened since the beginning of February, when European countrie
 The European Council urges Greece to recognise Turkey as a safe third\-country, with one diplomatic source telling New Europe that this is something that has been “already confirmed” by the UNHCR\. The Council also urged Greece’s government to explain to the country’s judges that Turkey is safe for Syrians and to review the composition and role of the appeal committees since people from civil societies are not [neutral](https://www.neweurope.eu/article/eu-council-greece-consider-turkey-safe-syrian-refugees/) \.
 
 
-![**Credits: EPA/ Kostas Tsironis**](assets/45f54d954542/1*OzLE4SL2saSgRtVosWT25A.jpeg)
+![**Credits: EPA/ Kostas Tsironis**](../assets/45f54d954542/1*OzLE4SL2saSgRtVosWT25A.jpeg)
 
 **Credits: EPA/ Kostas Tsironis**
 ### **Tourist village transformed into a sanctuary\.**
@@ -112,7 +112,7 @@ He offered the resort after the Greek Government asked local mayors for help in 
 Nabil\-Iosif says at first he started gathering donations of clothing to send to Idomeni, the unofficial camp at the Greek border with the former Yugoslav Republic of Macedonia, where 10,000 refugees lived in squalor for several months this spring\. “But that wasn’t enough\. So I asked whether we could use this space\.”
 
 
-[![Greek-Syrian Mayor and Refugees Bring Tourist Village Back to Life](assets/45f54d954542/ac26_hqdefault.jpg "Greek-Syrian Mayor and Refugees Bring Tourist Village Back to Life")](http://www.youtube.com/watch?v=K2HoIEXyNbQ)
+[![Greek-Syrian Mayor and Refugees Bring Tourist Village Back to Life](../assets/45f54d954542/ac26_hqdefault.jpg "Greek-Syrian Mayor and Refugees Bring Tourist Village Back to Life")](http://www.youtube.com/watch?v=K2HoIEXyNbQ)
 
 ### **Solidarity with the volunteers and activists in the field: donations needed\!**
 
@@ -170,7 +170,7 @@ Approximately 300 refugees stuck at Serbian Hungarian border, Kelebija border cr
 Hungary refuses to take back migrants from Austria and points the finger at Greece, arguing that it cannot take back migrants that have crossed other EU member states before arriving to [Hungary](https://euobserver.com/migration/133781) \.
 
 
-![Credits: Eszter Zalan](assets/45f54d954542/1*K-d1MDF-1JGS0TILFIxdrw.jpeg)
+![Credits: Eszter Zalan](../assets/45f54d954542/1*K-d1MDF-1JGS0TILFIxdrw.jpeg)
 
 Credits: Eszter Zalan
 ### UNHCR: Concerns About Hungarian Border Restrictions\.
@@ -185,7 +185,7 @@ n May the new tent camp in Kormend was opened, and just like we thought, people 
 We are especially worried of the fact that some people who are staying in Kormend need to travel to Debrecen, a distance of nearly 500 kilometres and a 9\-hour travel by public transportation, to meet their case officers and attend the court hearing regarding their asylum case\. In such absurd cases, the immigration authorities does not provide them with accommodation to stay overnight in [Budapest](http://www.migszol.com/blog/people-in-kormend-need-to-travel-500-kilometres-to-meet-their-case-officer-migszol-update-from-hungary-may-25-june-9) \.
 
 
-![](assets/45f54d954542/1*Kmz79P0LjVXGksSd-M9Kdw.jpeg)
+![](../assets/45f54d954542/1*Kmz79P0LjVXGksSd-M9Kdw.jpeg)
 
 #### Croatia
 ### Our volunteer enters finals of EU Social Innovation Competition with a project dedicated to refugees\.
@@ -200,11 +200,11 @@ Once again, they prove to us how you don’t need a shared spoken language to en
 This is only the beginning…
 
 
-![](assets/45f54d954542/1*HoP2amsSkHynUCBlHIm8Rg.jpeg)
+![](../assets/45f54d954542/1*HoP2amsSkHynUCBlHIm8Rg.jpeg)
 
 
 
-![Credits: Živi Atelje DK](assets/45f54d954542/1*llwXnOZAsfCUvCJqA_gcJw.jpeg)
+![Credits: Živi Atelje DK](../assets/45f54d954542/1*llwXnOZAsfCUvCJqA_gcJw.jpeg)
 
 Credits: Živi Atelje DK
 #### Germany
@@ -216,7 +216,7 @@ Parts of the german party “Bündnis90/Die Grünen” \(Greens\) don’t want t
 Cooking classes are bridging the gaps between Germans and Middle Eastern [refugees](http://www.smithsonianmag.com/smart-news/refugees-are-teaching-germans-how-cook-their-traditional-foods-180959355/?no-ist) \.
 
 
-![Credits: Laura Fiorio, courtesy of Uber den Tellerrand](assets/45f54d954542/1*LdEfSiFZN1uguBH_InsVfw.jpeg)
+![Credits: Laura Fiorio, courtesy of Uber den Tellerrand](../assets/45f54d954542/1*LdEfSiFZN1uguBH_InsVfw.jpeg)
 
 Credits: Laura Fiorio, courtesy of Uber den Tellerrand
 ### Four men who attacked refugees with sticks are sentenced\.
@@ -229,7 +229,7 @@ Until now on ebay 3700€ are the amount of money that will be donated to “Fl�
 The idea for this funny auction came up after first members of the rightpopulist party AfD \(Alternative for Germany\) complained about Ferrero who put the child faces of the national team \(including the non\-german\-looking members, ofc\) and Gauland, member of the party, insulted Boateng on public media\. Another example how hatred can lead to something good\.
 
 
-![](assets/45f54d954542/1*J9Zv5OCP1si1DKKl_t6LmA.jpeg)
+![](../assets/45f54d954542/1*J9Zv5OCP1si1DKKl_t6LmA.jpeg)
 
 ### Investigation: Fight over Ramadan led to blaze at German refugee center\.
 

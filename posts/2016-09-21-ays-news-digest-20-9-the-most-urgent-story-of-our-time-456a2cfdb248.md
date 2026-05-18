@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 20/9: The most urgent story of our time
+title: "AYS News Digest 20/9: The most urgent story of our time"
 author: Are You Syrious?
 date: 2016-09-21T00:03:25.888+0100
 last_modified_at: 2016-09-22T02:23:19.635+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: UN suspends all aid after convoy hit, civilians in Syria will pay with their lives for circumstances beyond their control. Refugee children…
 image:
-  path: assets/456a2cfdb248/0*zsg8yMSAZ-KnDm7R.
+  path: ../assets/456a2cfdb248/0*zsg8yMSAZ-KnDm7R.
 ---
 
 ### AYS News Digest 20/9: The most urgent story of our time
@@ -19,7 +19,7 @@ image:
 
 
 
-![Credits: [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/)](assets/456a2cfdb248/0*zsg8yMSAZ-KnDm7R.)
+![Credits: [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/)](../assets/456a2cfdb248/0*zsg8yMSAZ-KnDm7R.)
 
 Credits: [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/)
 #### Syria
@@ -35,17 +35,17 @@ The pictures show an aftermath of a Syrian regime airstrike on a UN humanitarian
 
 
 
-![Credits: [**Tamer Altaiar**](https://www.facebook.com/ishak.altaiar)](assets/456a2cfdb248/0*jka_X1PCR3wP_UPZ.)
+![Credits: [**Tamer Altaiar**](https://www.facebook.com/ishak.altaiar)](../assets/456a2cfdb248/0*jka_X1PCR3wP_UPZ.)
 
 Credits: [**Tamer Altaiar**](https://www.facebook.com/ishak.altaiar)
 
 
-![Credits: [**Tamer Altaiar**](https://www.facebook.com/ishak.altaiar)](assets/456a2cfdb248/0*UDlP9xVc8jyJdwgj.)
+![Credits: [**Tamer Altaiar**](https://www.facebook.com/ishak.altaiar)](../assets/456a2cfdb248/0*UDlP9xVc8jyJdwgj.)
 
 Credits: [**Tamer Altaiar**](https://www.facebook.com/ishak.altaiar)
 
 
-![Credits: [**PROACTIVA OPEN ARMS**](https://twitter.com/PROACTIVA_SERV)](assets/456a2cfdb248/0*ffq-Rjs7kDfZkFxE.jpg)
+![Credits: [**PROACTIVA OPEN ARMS**](https://twitter.com/PROACTIVA_SERV)](../assets/456a2cfdb248/0*ffq-Rjs7kDfZkFxE.jpg)
 
 Credits: [**PROACTIVA OPEN ARMS**](https://twitter.com/PROACTIVA_SERV)
 
@@ -72,12 +72,12 @@ Credits: [**PROACTIVA OPEN ARMS**](https://twitter.com/PROACTIVA_SERV)
 ### Refugee children in Athens are back to school
 
 
-![Credits: [**Darja Babić**](https://www.facebook.com/profile.php?id=100000879563532)](assets/456a2cfdb248/0*qGLZj3G6gH7TIaUE.)
+![Credits: [**Darja Babić**](https://www.facebook.com/profile.php?id=100000879563532)](../assets/456a2cfdb248/0*qGLZj3G6gH7TIaUE.)
 
 Credits: [**Darja Babić**](https://www.facebook.com/profile.php?id=100000879563532)
 
 
-![Credits: **‎ [Darja Babić](https://www.facebook.com/profile.php?id=100000879563532&fref=nf)**](assets/456a2cfdb248/0*LJw01Fgil7GU08iK.)
+![Credits: **‎ [Darja Babić](https://www.facebook.com/profile.php?id=100000879563532&fref=nf)**](../assets/456a2cfdb248/0*LJw01Fgil7GU08iK.)
 
 Credits: **‎ [Darja Babić](https://www.facebook.com/profile.php?id=100000879563532&fref=nf)**
 ### At the same time, parents at Greek elementary school oppose admission of refugee children
@@ -115,7 +115,7 @@ Police remanded 18 refugee protesters into custody and, on Tuesday, arrested nin
 The fire at the Moria camp was put out by around midnight, with initial assessments saying that around 60 percent of the facility has suffered extensive damage\. Most of the refugees have been sent back to the camp, with the exception of a few vulnerable cases who are now residing in a small improvised camp \(numbers have not been yet confirmed\) \. As many refugees returned at first light on Tuesday morning, they were faced with the sight of their tents and meager belongings reduced to ashes, and pools of mud from the water firefighters used to extinguish the flames\.
 
 
-![Credits: [**Cris Andflowers**](https://www.facebook.com/profile.php?id=100010949321328&fref=ufi)](assets/456a2cfdb248/0*wcaIkjxp8N07VRgQ.)
+![Credits: [**Cris Andflowers**](https://www.facebook.com/profile.php?id=100010949321328&fref=ufi)](../assets/456a2cfdb248/0*wcaIkjxp8N07VRgQ.)
 
 Credits: [**Cris Andflowers**](https://www.facebook.com/profile.php?id=100010949321328&fref=ufi)
 
@@ -128,7 +128,7 @@ The government on Tuesday put into motion the transfer of 91 unaccompanied refug
 As No Border Kitchen reports, around 200 [fascists](https://twitter.com/hashtag/fascists?src=hash) attacked [refugees](https://twitter.com/hashtag/refugeesgr?src=hash) and their supporters in M [oria](https://twitter.com/hashtag/moria?src=hash) village yesterday\. One volunteer car was smashed but, luckily, all volunteers and refugees managed to escape the fascists’ violence\.
 
 
-![Credits; No Border Kitchen](assets/456a2cfdb248/0*SucK1X5zRB0ylDHP.jpg)
+![Credits; No Border Kitchen](../assets/456a2cfdb248/0*SucK1X5zRB0ylDHP.jpg)
 
 Credits; No Border Kitchen
 ### Greek government denies injuries in Moria
@@ -136,26 +136,26 @@ Credits; No Border Kitchen
 Volunteers report many serious injuries\. Many of them are a result of thrown rocks and fights that broke between refugees, most common among which are head injuries and broken bones\. Smoke inhalation is a major issue for refugee children, especially since fire largely broke out by the camp’s family compound\. Other common conditions include panic attacks and nervous breakdowns, especially among refugee women\.
 
 
-![Credits: [\#advocatesabroad](https://www.facebook.com/hashtag/advocatesabroad?source=feed_text&story_id=10101968252672856)](assets/456a2cfdb248/0*y-Ex_j8cg3dfeGL4.)
+![Credits: [\#advocatesabroad](https://www.facebook.com/hashtag/advocatesabroad?source=feed_text&story_id=10101968252672856)](../assets/456a2cfdb248/0*y-Ex_j8cg3dfeGL4.)
 
 Credits: [\#advocatesabroad](https://www.facebook.com/hashtag/advocatesabroad?source=feed_text&story_id=10101968252672856)
 
 
-![Credits: [\#advocatesabroad](https://www.facebook.com/hashtag/advocatesabroad?source=feed_text&story_id=10101968252672856)](assets/456a2cfdb248/0*-zgGGWiD0V-97or3.)
+![Credits: [\#advocatesabroad](https://www.facebook.com/hashtag/advocatesabroad?source=feed_text&story_id=10101968252672856)](../assets/456a2cfdb248/0*-zgGGWiD0V-97or3.)
 
 Credits: [\#advocatesabroad](https://www.facebook.com/hashtag/advocatesabroad?source=feed_text&story_id=10101968252672856)
 
 
-![](assets/456a2cfdb248/1*yAkDlpTdTEHif7pFejr49w.jpeg)
+![](../assets/456a2cfdb248/1*yAkDlpTdTEHif7pFejr49w.jpeg)
 
 
 
-![Credits: [\#advocatesabroad](https://www.facebook.com/hashtag/advocatesabroad?source=feed_text&story_id=10101968252672856)](assets/456a2cfdb248/1*vZWt9Cp4UElVJkDZDgkHmg.jpeg)
+![Credits: [\#advocatesabroad](https://www.facebook.com/hashtag/advocatesabroad?source=feed_text&story_id=10101968252672856)](../assets/456a2cfdb248/1*vZWt9Cp4UElVJkDZDgkHmg.jpeg)
 
 Credits: [\#advocatesabroad](https://www.facebook.com/hashtag/advocatesabroad?source=feed_text&story_id=10101968252672856)
 
 
-![Credits: [\#advocatesabroad](https://www.facebook.com/hashtag/advocatesabroad?source=feed_text&story_id=10101968252672856)](assets/456a2cfdb248/0*TKiWYrQhADKEs66b.)
+![Credits: [\#advocatesabroad](https://www.facebook.com/hashtag/advocatesabroad?source=feed_text&story_id=10101968252672856)](../assets/456a2cfdb248/0*TKiWYrQhADKEs66b.)
 
 Credits: [\#advocatesabroad](https://www.facebook.com/hashtag/advocatesabroad?source=feed_text&story_id=10101968252672856)
 
@@ -198,7 +198,7 @@ Medicine List
 
 
 
-![Credits: [**Movement On The Ground**](https://www.facebook.com/movementontheground/)](assets/456a2cfdb248/0*8wfPNLaPQuNExWII.)
+![Credits: [**Movement On The Ground**](https://www.facebook.com/movementontheground/)](../assets/456a2cfdb248/0*8wfPNLaPQuNExWII.)
 
 Credits: [**Movement On The Ground**](https://www.facebook.com/movementontheground/)
 ### UNHCR statment on the fire
@@ -209,7 +209,7 @@ Credits: [**Movement On The Ground**](https://www.facebook.com/movementonthegrou
 During a press conference on Tuesday, the EC coordinating spokesperson, Natasha Bertaud, revealed the well\-hidden plans\. To avoid secondary movement to the rest of Europe, the European Commission will aim at keeping asylum seekers on the islands for the most part\. Transfers to the mainland would remain limited, Bertaud said\.
 
 
-![Credits: Vocal Europe](assets/456a2cfdb248/0*CKfU2nVk_2l0tqAh.jpg)
+![Credits: Vocal Europe](../assets/456a2cfdb248/0*CKfU2nVk_2l0tqAh.jpg)
 
 Credits: Vocal Europe
 ### Greek authorities will send a ship to house refugees on the island after fire destroys refugee tents
@@ -220,7 +220,7 @@ Greek Maritime Affairs ministry officially announced the ferry rental where the 
 Activities, ranging from educational to environmental, can now be find in many camps, an example of which is shown bellow and found in Lagkadika\.
 
 
-![Credits: Cicilie Bråten DiO](assets/456a2cfdb248/0*Y3c0S5ueXRaLlxlf.)
+![Credits: Cicilie Bråten DiO](../assets/456a2cfdb248/0*Y3c0S5ueXRaLlxlf.)
 
 Credits: Cicilie Bråten DiO
 ### Dancing classes for Kavala female refugees
@@ -235,7 +235,7 @@ Though entertainment sometimes doesn’t seem as a crucial need, many refugees w
 ### List of appointments with Asylum Service has been released
 
 
-![Credits: [**Mobile Info Team for refugees in Greece**](https://www.facebook.com/mobileinfoteam/)](assets/456a2cfdb248/0*E1OfAXLula2z4QGy.)
+![Credits: [**Mobile Info Team for refugees in Greece**](https://www.facebook.com/mobileinfoteam/)](../assets/456a2cfdb248/0*E1OfAXLula2z4QGy.)
 
 Credits: [**Mobile Info Team for refugees in Greece**](https://www.facebook.com/mobileinfoteam/)
 ### Information for those refugees concerned that they may have a second registration interview
@@ -303,11 +303,11 @@ Changes during the last 24h
 It was raining yesterday in northern Serbia and, as organisations run out of raincoats, refugees used everything available to cover themselves\. Funding and donations are urgently needed for autumn clothing and protection from the rain\!
 
 
-![](assets/456a2cfdb248/1*DapQ3rdL7h7ubHK9QHBgew.jpeg)
+![](../assets/456a2cfdb248/1*DapQ3rdL7h7ubHK9QHBgew.jpeg)
 
 
 
-![Credits: [**Fresh Response**](https://www.facebook.com/freshresponseserbia/)](assets/456a2cfdb248/1*22OLrqVZwYIi0OFVBUWkNg.jpeg)
+![Credits: [**Fresh Response**](https://www.facebook.com/freshresponseserbia/)](../assets/456a2cfdb248/1*22OLrqVZwYIi0OFVBUWkNg.jpeg)
 
 Credits: [**Fresh Response**](https://www.facebook.com/freshresponseserbia/)
 #### Hungary
@@ -378,23 +378,23 @@ After they had gone we had nowhere for him to sleep so I led him to the mosque\.
 Don’t let it happen again\. Please sign the petition and stop the demolition\! [http://bit\.ly/savethecalaiscamp](http://l.facebook.com/l.php?u=http%3A%2F%2Fbit.ly%2Fsavethecalaiscamp&h=BAQHUFQgyAQGtshCuK0Rv96nulmzviIrERqAh2TscGZptCQ&enc=AZODo8sfkmev9o-vxE3FBI6Qy4zzOrjZmDjjpu5qYn0gS-TTVhFAGNISMwt2E2zp8JfsWEqZ7uf_aSuMUqb7W9WQGWMYAg_iwJcVFCxWv7YDIGQDkq5iPC3lXypX1wKvK0NxCsaJlqDAEUgC7FfmrTKPkOW8n2B4Q5F0S67PnOD9AEb7znp6lHZxQ8Zh7EwM8tU&s=1)
 
 
-![Abdo\. Credits: [**Care4Calais**](https://www.facebook.com/care4calais/)](assets/456a2cfdb248/0*K_AbcxkHkNrNwJGe.)
+![Abdo\. Credits: [**Care4Calais**](https://www.facebook.com/care4calais/)](../assets/456a2cfdb248/0*K_AbcxkHkNrNwJGe.)
 
 Abdo\. Credits: [**Care4Calais**](https://www.facebook.com/care4calais/)
 ### Infographics on the “Jungle” children
 
 
-![Credits: [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/)](assets/456a2cfdb248/0*h1aBAYjqnof8HwyY.)
+![Credits: [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/)](../assets/456a2cfdb248/0*h1aBAYjqnof8HwyY.)
 
 Credits: [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/)
 
 
-![Credits: [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/)](assets/456a2cfdb248/0*ZedLL7Qyl-EHr1iZ.)
+![Credits: [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/)](../assets/456a2cfdb248/0*ZedLL7Qyl-EHr1iZ.)
 
 Credits: [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/)
 
 
-![Credits: [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/)](assets/456a2cfdb248/0*YJWGeAQke0TMspUx.)
+![Credits: [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/)](../assets/456a2cfdb248/0*YJWGeAQke0TMspUx.)
 
 Credits: [**Help Refugees**](https://www.facebook.com/HelpRefugeesUK/)
 ### Work starts on wall near Calais ‘Jungle’ migrant camp
@@ -420,7 +420,7 @@ Fatalities among refugees attempting to cross the Mediterranean to Europe could 
 
 
 
-![Credits: [Proactiva Open Arms](https://www.proactivaopenarms.org/)](assets/456a2cfdb248/0*ALeP7p4Rre51QOZZ.jpg)
+![Credits: [Proactiva Open Arms](https://www.proactivaopenarms.org/)](../assets/456a2cfdb248/0*ALeP7p4Rre51QOZZ.jpg)
 
 Credits: [Proactiva Open Arms](https://www.proactivaopenarms.org/)
 

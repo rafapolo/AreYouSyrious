@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 19/11/2020: Human Rights observers under attack in Greece
+title: "AYS Daily Digest 19/11/2020: Human Rights observers under attack in Greece"
 author: Are You Syrious?
 date: 2020-11-20T14:19:09.448+0000
 last_modified_at: 2020-11-20T14:19:09.448+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,europe,refugees,human-rights,greece]
 description: 33 human rights observers under preliminary investigations // Anti-Torture Committee sharply critizises Greece, Greece denies alligations…
 image:
-  path: assets/f7fda6f49b4c/1*_jWvvlHm5N-ENJfO-51WOw.jpeg
+  path: ../assets/f7fda6f49b4c/1*_jWvvlHm5N-ENJfO-51WOw.jpeg
 ---
 
 ### AYS Daily Digest 19/11/2020: Human Rights observers under attack in Greece
 #### 33 human rights observers under preliminary investigations // Anti\-Torture Committee sharply critizises Greece, Greece denies alligations // Sea\-Eye is launching a new ship // New rulings of high Spanish Court on hot returns // Updates from the Canary Islands // German’s Office for Migration’s practice deemed illegal by European Court of Justice // Updates from Napier Barracks, UK
 
 
-![Moria 2\.0\., with winter approaching\. Copyright: Moria White Helmets](assets/f7fda6f49b4c/1*_jWvvlHm5N-ENJfO-51WOw.jpeg)
+![Moria 2\.0\., with winter approaching\. Copyright: Moria White Helmets](../assets/f7fda6f49b4c/1*_jWvvlHm5N-ENJfO-51WOw.jpeg)
 
 Moria 2\.0\., with winter approaching\. Copyright: Moria White Helmets
 ### FEATURE: Human Rights activists are criminalized once again
@@ -91,7 +91,7 @@ Like every year around this time, we can witness a surprising spectacle of natur
 #### Moria White Helmets receive thank you letter from the Municipality of Moria
 
 
-![](assets/f7fda6f49b4c/1*-dPXQQp7ZEYHcfHePCWngg.jpeg)
+![](../assets/f7fda6f49b4c/1*-dPXQQp7ZEYHcfHePCWngg.jpeg)
 
 #### Aegean Boat Report criticizes New York Times article
 
@@ -256,7 +256,7 @@ On the situation in Ethiopia:
 **_Let’s end today’s digest with the words of Angelica Udueni, an anti racist researcher & campaigner:_**
 
 
-![Copyright: SOAS Detainee Support](assets/f7fda6f49b4c/1*eAnDooFset2RsT2EmZKYxA.jpeg)
+![Copyright: SOAS Detainee Support](../assets/f7fda6f49b4c/1*eAnDooFset2RsT2EmZKYxA.jpeg)
 
 Copyright: SOAS Detainee Support
 

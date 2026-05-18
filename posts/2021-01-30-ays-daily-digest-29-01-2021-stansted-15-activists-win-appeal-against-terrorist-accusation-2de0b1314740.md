@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,uk,greece,frontex,spain]
 description: // Fire breaks out in the military barracks in Folkestone (Kent) //The European Parliament sets to investigate Frontex’s involvement in…
 image:
-  path: assets/2de0b1314740/1*PNWEbqAy0Hs-mPGtXlwdgw.jpeg
+  path: ../assets/2de0b1314740/1*PNWEbqAy0Hs-mPGtXlwdgw.jpeg
 ---
 
 ### AYS Daily Digest 29/01/2021 — “Stansted 15” Activists win appeal against terrorist accusation
@@ -15,7 +15,7 @@ image:
 ### UK
 
 
-![Stansted 15 — courtesy Kristian Buus](assets/2de0b1314740/1*PNWEbqAy0Hs-mPGtXlwdgw.jpeg)
+![Stansted 15 — courtesy Kristian Buus](../assets/2de0b1314740/1*PNWEbqAy0Hs-mPGtXlwdgw.jpeg)
 
 Stansted 15 — courtesy Kristian Buus
 #### Stansted 15 win appeal
@@ -30,7 +30,7 @@ It is worth re\-sharing [here](https://www.theguardian.com/commentisfree/2018/de
 #### Fire at Folkestone
 
 
-![images of the fire — courtesy Care4Calais](assets/2de0b1314740/1*NkvgRHHBRjQ34jNO99jLQA.jpeg)
+![images of the fire — courtesy Care4Calais](../assets/2de0b1314740/1*NkvgRHHBRjQ34jNO99jLQA.jpeg)
 
 images of the fire — courtesy Care4Calais
 
@@ -76,7 +76,7 @@ Speaking of the “taxpayer’s money” so dear to the current government, the 
 The situation in the Vathy camp is at least as miserable and dangerous as it used to be in the Moria camp on Lesbos, which burned down in September\.
 
 
-![coutesy: Vial HotSpot and Ruhi Akhtar](assets/2de0b1314740/1*_lmVSVxdFttor25mi-xPfA.jpeg)
+![coutesy: Vial HotSpot and Ruhi Akhtar](../assets/2de0b1314740/1*_lmVSVxdFttor25mi-xPfA.jpeg)
 
 coutesy: Vial HotSpot and Ruhi Akhtar
 
@@ -148,7 +148,7 @@ In its letter to the Minister, Amnesty International expresses concern about the
 ### AUSTRIA
 
 
-![Courtesy: Florian Klenk \(Twitter @florianklenk\)](assets/2de0b1314740/1*UFfB5F3WOuNQfBzMY7t5cw.jpeg)
+![Courtesy: Florian Klenk \(Twitter @florianklenk\)](../assets/2de0b1314740/1*UFfB5F3WOuNQfBzMY7t5cw.jpeg)
 
 Courtesy: Florian Klenk \(Twitter @florianklenk\)
 
@@ -160,7 +160,7 @@ Police special unit WEGA [cleared a sit\-in](https://twitter.com/PresseWien/stat
 ### SPAIN
 
 
-![Courtesy:NoNameKitchen](assets/2de0b1314740/1*-FKbciE30Y2Q4UF2Bfm3Hw.jpeg)
+![Courtesy:NoNameKitchen](../assets/2de0b1314740/1*-FKbciE30Y2Q4UF2Bfm3Hw.jpeg)
 
 Courtesy:NoNameKitchen
 

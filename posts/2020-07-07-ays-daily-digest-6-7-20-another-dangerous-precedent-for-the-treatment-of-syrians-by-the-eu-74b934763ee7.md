@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 6/7/20: Another dangerous precedent for the treatment of Syrians by the EU
+title: "AYS Daily Digest 6/7/20: Another dangerous precedent for the treatment of Syrians by the EU"
 author: Are You Syrious?
 date: 2020-07-07T13:32:07.309+0100
 last_modified_at: 2020-07-07T16:38:39.697+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,sweden,syria,europe,refugees]
 description: On the importance of identifying and cataloging the bodies of those who drown in the Mediterranean / Updates from Chios / Report on the…
 image:
-  path: assets/74b934763ee7/0*313zGoUDNnxC3uDr
+  path: ../assets/74b934763ee7/0*313zGoUDNnxC3uDr
 ---
 
 ### AYS Daily Digest 6/7/20: Another dangerous precedent for the treatment of Syrians by the EU
 #### On the importance of identifying and cataloguing the bodies of those who drown in the Mediterranean / Updates from Chios / Report on the Balkans / News from Ventimiglia after months of lockdown and social distancing / five years past the peak of Europe’s migration crisis, fixing its broken common asylum system is no longer a top priority of the EU / & more news
 
 
-![Photo: [Sea\-Watch International](https://twitter.com/seawatch_intl)](assets/74b934763ee7/0*313zGoUDNnxC3uDr)
+![Photo: [Sea\-Watch International](https://twitter.com/seawatch_intl)](../assets/74b934763ee7/0*313zGoUDNnxC3uDr)
 
 Photo: [Sea\-Watch International](https://twitter.com/seawatch_intl)
 #### FEATURED
@@ -84,11 +84,11 @@ About 150 people have been kicked out of Vial \(most of whom have status\) \. Th
 There are tensions among the locals, who are very angry\. According to the local volunteers, “some have thrown rubbish on a road near Vial in what seemed to be an unorganized movement by some locals”\. The situation with waste disposal in Vial is dire, but no NGOs can go in and there has reportedly never been any will on behalf of the municipality to do anything about it\. The \(technical\) water still shuts off reportedly about 5pm each day, since UNHCR stepped in a few months ago and now provide 40,000 litres per day\. Regarding drinking water, people only get 2 litres a day, and sometimes in a family they will get even less per person\. Needless to say, the 2 litres is less than enough in this heat\.
 
 
-![](assets/74b934763ee7/1*RRityrn2QPMpQ8xCKwBt3Q.jpeg)
+![](../assets/74b934763ee7/1*RRityrn2QPMpQ8xCKwBt3Q.jpeg)
 
 
 
-![The OA Distribution Warehouse, last Monday, after months of hard work behind the scenes by our small team on the ground here, with so many challenges outside of our control to deal with, we’ve managed to create something that’s really needed on this island\. It is a massive undertaking, to serve the over 5000 asylum seekers & refugees on Chios island\. Normally men’s, women’s and children’s distributions are done by teams working outside the camp\. Unfortunately, at present we are the only NGO on Chios, that can mass distribute clothes to the people in Vial camp, due to COVID\-19 restrictions around the camp\.](assets/74b934763ee7/1*MJIZsgDhPDXYk5wACV5HYQ.jpeg)
+![The OA Distribution Warehouse, last Monday, after months of hard work behind the scenes by our small team on the ground here, with so many challenges outside of our control to deal with, we’ve managed to create something that’s really needed on this island\. It is a massive undertaking, to serve the over 5000 asylum seekers & refugees on Chios island\. Normally men’s, women’s and children’s distributions are done by teams working outside the camp\. Unfortunately, at present we are the only NGO on Chios, that can mass distribute clothes to the people in Vial camp, due to COVID\-19 restrictions around the camp\.](../assets/74b934763ee7/1*MJIZsgDhPDXYk5wACV5HYQ.jpeg)
 
 The OA Distribution Warehouse, last Monday, after months of hard work behind the scenes by our small team on the ground here, with so many challenges outside of our control to deal with, we’ve managed to create something that’s really needed on this island\. It is a massive undertaking, to serve the over 5000 asylum seekers & refugees on Chios island\. Normally men’s, women’s and children’s distributions are done by teams working outside the camp\. Unfortunately, at present we are the only NGO on Chios, that can mass distribute clothes to the people in Vial camp, due to COVID\-19 restrictions around the camp\.
 

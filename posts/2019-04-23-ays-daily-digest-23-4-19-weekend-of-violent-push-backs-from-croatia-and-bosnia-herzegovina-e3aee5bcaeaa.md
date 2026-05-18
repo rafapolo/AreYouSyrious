@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 22/4/19: Weekend of violent push backs from Croatia and Bosnia & Herzegovina
+title: "AYS Daily Digest 22/4/19: Weekend of violent push backs from Croatia and Bosnia & Herzegovina"
 author: Are You Syrious?
 date: 2019-04-23T13:34:01.026+0100
 last_modified_at: 2019-04-29T18:32:49.210+0100
@@ -7,27 +7,27 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,human-rights,uk]
 description: People held in cage detention in Trebinje, Bosnia and Herzegovina / Heavy beatings reported on more than 50 young people pushed back from…
 image:
-  path: assets/e3aee5bcaeaa/1*9IdKE4dv9v3j20iMc_trFA.jpeg
+  path: ../assets/e3aee5bcaeaa/1*9IdKE4dv9v3j20iMc_trFA.jpeg
 ---
 
 ### AYS Daily Digest 22/4/19: Weekend of violent push backs from Croatia and Bosnia & Herzegovina
 #### People held in cage detention in Trebinje, Bosnia and Herzegovina / Heavy beatings reported on more than 50 young people pushed back from Croatia / What is the situation like a year after the Sappho square protest? / Important information for those in the UK & more info…
 
 
-![](assets/e3aee5bcaeaa/1*9IdKE4dv9v3j20iMc_trFA.jpeg)
+![](../assets/e3aee5bcaeaa/1*9IdKE4dv9v3j20iMc_trFA.jpeg)
 
 #### FEATURE — Held in a cage?\!
 
 We have received footage and photos displaying two detained families after they were pushed back in the border area between Bosnia and Herzegovina with Montenegro, Klobuk border crossing near Trebinje\.
 
 
-[![Cage for refugees and migrants in Bosnia](assets/e3aee5bcaeaa/d88c_hqdefault.jpg "Cage for refugees and migrants in Bosnia")](http://www.youtube.com/watch?v=T4YAoBPGBHw)
+[![Cage for refugees and migrants in Bosnia](../assets/e3aee5bcaeaa/d88c_hqdefault.jpg "Cage for refugees and migrants in Bosnia")](http://www.youtube.com/watch?v=T4YAoBPGBHw)
 
 
 Video and the photos show people being held in cage\-like detention cells, previously also seen and mentioned with the case of the Houssiny family\. There were reportedly 7 adults and 5 children among the detained people\. The youngest is 3 years old\.
 
 
-![](assets/e3aee5bcaeaa/1*lZrBMUwnxj1CfH3YW_ugvg.jpeg)
+![](../assets/e3aee5bcaeaa/1*lZrBMUwnxj1CfH3YW_ugvg.jpeg)
 
 
 They were detained in this way and stayed over night\. However, the authorities claim everything is “by the book” and in accordance with the EU standards\.

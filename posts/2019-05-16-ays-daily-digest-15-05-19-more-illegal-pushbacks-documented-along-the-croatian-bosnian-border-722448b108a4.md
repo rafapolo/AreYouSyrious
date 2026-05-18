@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 15.05.19: More Illegal Pushbacks Documented Along the Croatian-Bosnian Border
+title: "AYS Daily Digest 15.05.19: More Illegal Pushbacks Documented Along the Croatian-Bosnian Border"
 author: Are You Syrious?
 date: 2019-05-16T01:42:37.256+0100
 last_modified_at: 2019-05-16T12:08:38.657+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [europe,digest,italy,search-and-rescue,borders]
 description: Refugees aboard the Sea-Watch rescue ship denied port of landing//New Arrivals in Greece//Funds needed for Lawyers on Lesvos//Update from…
 image:
-  path: assets/722448b108a4/1*qpWLEMnypqKGIExnr5lATA.jpeg
+  path: ../assets/722448b108a4/1*qpWLEMnypqKGIExnr5lATA.jpeg
 ---
 
 ### AYS Daily Digest 15/05/19: More Illegal Pushbacks Documented Along the Croatian\-Bosnian Border
@@ -15,7 +15,7 @@ image:
 Refugees aboard the Sea\-Watch rescue ship denied port of landing//New arrivals in Greece//Funds needed for lawyers on Lesvos//Update from NNK in Serbia//Austrian “expert” on Afghanistan loses status//and more…
 
 
-![A photo from today’s rescue by the Sea\-Watch\. Photo Credit: [Sea\-Watch](https://twitter.com/seawatch_intl/status/1128656505362878466?fbclid=IwAR28E8Gqn5JwyHxQmQYebernHOOQsLpk1LW1qQBrT-2BtoL_j8FTCRXhfFk)](assets/722448b108a4/1*qpWLEMnypqKGIExnr5lATA.jpeg)
+![A photo from today’s rescue by the Sea\-Watch\. Photo Credit: [Sea\-Watch](https://twitter.com/seawatch_intl/status/1128656505362878466?fbclid=IwAR28E8Gqn5JwyHxQmQYebernHOOQsLpk1LW1qQBrT-2BtoL_j8FTCRXhfFk)](../assets/722448b108a4/1*qpWLEMnypqKGIExnr5lATA.jpeg)
 
 A photo from today’s rescue by the Sea\-Watch\. Photo Credit: [Sea\-Watch](https://twitter.com/seawatch_intl/status/1128656505362878466?fbclid=IwAR28E8Gqn5JwyHxQmQYebernHOOQsLpk1LW1qQBrT-2BtoL_j8FTCRXhfFk)
 #### Illegal Pushbacks Documented
@@ -80,7 +80,7 @@ The [European Lawyers in Lesvos](https://www.facebook.com/EuropeanLawyersInLesvo
 The No Name Kitchen team that is working along the Serbian border in Šid posted an update today on their work and the situation for refugees in the area\.
 
 
-![Part of the refugee encampment in Šid, Serbia, Photo Credit: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/a.312076942523930/718409985223955/?type=3&theater&ifg=1)](assets/722448b108a4/1*xEA09p4Zd01hTjT6l38jsQ.jpeg)
+![Part of the refugee encampment in Šid, Serbia, Photo Credit: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/a.312076942523930/718409985223955/?type=3&theater&ifg=1)](../assets/722448b108a4/1*xEA09p4Zd01hTjT6l38jsQ.jpeg)
 
 Part of the refugee encampment in Šid, Serbia, Photo Credit: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/photos/a.312076942523930/718409985223955/?type=3&theater&ifg=1)
 

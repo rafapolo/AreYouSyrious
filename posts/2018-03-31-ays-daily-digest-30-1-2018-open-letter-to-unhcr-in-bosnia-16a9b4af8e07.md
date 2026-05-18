@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 30/1/2018: Open letter to UNHCR in Bosnia
+title: "AYS DAILY DIGEST 30/1/2018: Open letter to UNHCR in Bosnia"
 author: Are You Syrious?
 date: 2018-03-31T10:12:47.748+0100
 last_modified_at: 2018-03-31T11:16:47.444+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,bosnia,greek-islands,france]
 description: What kind of help is provided in Bosnia by UNHCR // Hundreds saved from the sea // Criminalization of solidarity continues all over Europe…
 image:
-  path: assets/16a9b4af8e07/1*mGv-BiKYPI6WaLLhrKWD_Q.jpeg
+  path: ../assets/16a9b4af8e07/1*mGv-BiKYPI6WaLLhrKWD_Q.jpeg
 ---
 
 ### AYS DAILY DIGEST 30/1/2018: Open letter to UNHCR in Bosnia
@@ -15,7 +15,7 @@ image:
 _What kind of help is provided in Bosnia by UNHCR // Hundreds saved from the sea // Criminalization of solidarity continues all over Europe // Reports from Bulgaria, Serbia, Italy, France, Greece…_
 
 
-![View from Moria\. Photo by [Advocates Abroad](https://www.facebook.com/advocatesabroad/?fref=mentions)](assets/16a9b4af8e07/1*mGv-BiKYPI6WaLLhrKWD_Q.jpeg)
+![View from Moria\. Photo by [Advocates Abroad](https://www.facebook.com/advocatesabroad/?fref=mentions)](../assets/16a9b4af8e07/1*mGv-BiKYPI6WaLLhrKWD_Q.jpeg)
 
 View from Moria\. Photo by [Advocates Abroad](https://www.facebook.com/advocatesabroad/?fref=mentions)
 ### Feature
@@ -89,7 +89,7 @@ They have been prevented from going on rescue missions since March 18, after the
 **\#FreeOpenArms**
 
 
-![](assets/16a9b4af8e07/1*zDnS2YZDubFAR5ESVlh1Gw.jpeg)
+![](../assets/16a9b4af8e07/1*zDnS2YZDubFAR5ESVlh1Gw.jpeg)
 
 ### Greece
 
@@ -100,7 +100,7 @@ On Friday night, [a boat was picked up](https://www.facebook.com/AegeanBoatRepor
 More people arrived during the day, including one boat in Chios with 18 children on it\.
 
 
-![](assets/16a9b4af8e07/1*VK4joeTt-YjIGWPw7J4Seg.jpeg)
+![](../assets/16a9b4af8e07/1*VK4joeTt-YjIGWPw7J4Seg.jpeg)
 
 
 For all those needing assistance from Greek Asylum Office, good news\. Their employees have returned to work after the strike, the [Mobile Info Team reports](https://www.facebook.com/mobileinfoteam/photos/a.1800063030222418.1073741830.1796286800600041/2147146048847446/?type=3) \.
@@ -136,7 +136,7 @@ Apparently, he was found lying at Botevgradsko Shose Blvd\. in very bad conditio
 So far, people are mainly accommodated in different camps, while about 20 are sleeping rough in Belgrade\.
 
 
-![Šid, Serbia\. Border area with Croatia\. Photo by No Name Kitchen\.](assets/16a9b4af8e07/1*DSNX0R0fYlAei1G1MVMF_g.jpeg)
+![Šid, Serbia\. Border area with Croatia\. Photo by No Name Kitchen\.](../assets/16a9b4af8e07/1*DSNX0R0fYlAei1G1MVMF_g.jpeg)
 
 Šid, Serbia\. Border area with Croatia\. Photo by No Name Kitchen\.
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Special from Athens: Racism and Police Harassment during COVID-19
+title: "AYS Special from Athens: Racism and Police Harassment during COVID-19"
 author: Are You Syrious?
 date: 2020-11-29T13:33:06.803+0000
 last_modified_at: 2020-11-29T14:07:47.678+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [special,racism,coronavirus,police-brutality,greece]
 description: An activist based in Athens shares his experience of life in the Greek capital during COVID-19. Since the outbreak of the pandemic people…
 image:
-  path: assets/aa5116904c80/1*nVto1_LACrza2Ix-YVJzvg.jpeg
+  path: ../assets/aa5116904c80/1*nVto1_LACrza2Ix-YVJzvg.jpeg
 ---
 
 ### AYS Special from Athens: Racism and Police Harassment during COVID\-19
@@ -15,7 +15,7 @@ image:
 _An activist based in Athens shares his experience of life in the Greek capital during COVID\-19\. Since the outbreak of the pandemic people on the move have been disproportionally effected by lockdown measures [throughout Europe](https://www.amnesty.org/download/Documents/EUR0125112020ENGLISH.PDF) , but [especially in Greece](https://www.rescue-uk.org/press-release/lockdown-measures-greece-amount-discrimination-against-refugees-irc-warns) \._
 
 
-![\(Generational Trauma\. Photo Credit: Ricardo Chucky via [Art With Teeth](https://www.facebook.com/artwithteeth/?__cft__[0]=AZWhsV_0YfeCnmVKGZLFoLns6jv_jwAFLBKx2rqXkg302ixGfkbf0OOQBAEICXwMVAFWXi3z54yyLhs3Vuejr_UnhvIzxwTt-jF6ayicgCV795Tx-xxuOZks_vUMWZpS1CSry5ocrtJ3eV2LOkGa9Z1o&__tn__=kK-R) \)](assets/aa5116904c80/1*nVto1_LACrza2Ix-YVJzvg.jpeg)
+![\(Generational Trauma\. Photo Credit: Ricardo Chucky via [Art With Teeth](https://www.facebook.com/artwithteeth/?__cft__[0]=AZWhsV_0YfeCnmVKGZLFoLns6jv_jwAFLBKx2rqXkg302ixGfkbf0OOQBAEICXwMVAFWXi3z54yyLhs3Vuejr_UnhvIzxwTt-jF6ayicgCV795Tx-xxuOZks_vUMWZpS1CSry5ocrtJ3eV2LOkGa9Z1o&__tn__=kK-R) \)](../assets/aa5116904c80/1*nVto1_LACrza2Ix-YVJzvg.jpeg)
 
 \(Generational Trauma\. Photo Credit: Ricardo Chucky via [Art With Teeth](https://www.facebook.com/artwithteeth/?__cft__[0]=AZWhsV_0YfeCnmVKGZLFoLns6jv_jwAFLBKx2rqXkg302ixGfkbf0OOQBAEICXwMVAFWXi3z54yyLhs3Vuejr_UnhvIzxwTt-jF6ayicgCV795Tx-xxuOZks_vUMWZpS1CSry5ocrtJ3eV2LOkGa9Z1o&__tn__=kK-R) \)
 

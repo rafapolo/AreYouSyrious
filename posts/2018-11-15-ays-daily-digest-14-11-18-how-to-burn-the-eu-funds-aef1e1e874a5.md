@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 14/11/18: How to burn the EU funds
+title: "AYS Daily Digest 14/11/18: How to burn the EU funds"
 author: Are You Syrious?
 date: 2018-11-15T09:49:30.137+0000
 last_modified_at: 2018-11-15T12:57:08.393+0000
 categories: Are You Syrious?
 tags: [refugees,eu,turkey,greece,digest]
-description: European Court Auditors: Only half of the projects achieved the expected outcome / Updates from Syria / Mass transfers to Greek mainland /…
+description: "European Court Auditors: Only half of the projects achieved the expected outcome / Updates from Syria / Mass transfers to Greek mainland /…"
 image:
-  path: assets/aef1e1e874a5/1*ymywsMUWOa4bE7C5u8c9_g.jpeg
+  path: ../assets/aef1e1e874a5/1*ymywsMUWOa4bE7C5u8c9_g.jpeg
 ---
 
 ### AYS Daily Digest 14/11/18: How to burn EU funds
 #### European Court Auditors: Only half of the projects achieved the expected outcome / Updates from Syria / Mass transfers to Greek mainland / Far right intending to expose volunteers / Germany deports Afghans / Donations needed in Paris
 
 
-![More than one billion euros are used for cash\-assistance\. Credits: Facebook/ [European Commission — Civil Protection & Humanitarian Aid Operations — ECHO](https://www.facebook.com/ec.humanitarian.aid/photos/a.377376547905/10156205813867906/?type=3&theater)](assets/aef1e1e874a5/1*ymywsMUWOa4bE7C5u8c9_g.jpeg)
+![More than one billion euros are used for cash\-assistance\. Credits: Facebook/ [European Commission — Civil Protection & Humanitarian Aid Operations — ECHO](https://www.facebook.com/ec.humanitarian.aid/photos/a.377376547905/10156205813867906/?type=3&theater)](../assets/aef1e1e874a5/1*ymywsMUWOa4bE7C5u8c9_g.jpeg)
 
 More than one billion euros are used for cash\-assistance\. Credits: Facebook/ [European Commission — Civil Protection & Humanitarian Aid Operations — ECHO](https://www.facebook.com/ec.humanitarian.aid/photos/a.377376547905/10156205813867906/?type=3&theater)
 
@@ -60,7 +60,7 @@ People who were taken back to Libya after being rescued from the Mediterranean r
 The Greek police have arrested more than 5,600 people who traveled with fake documents since January of this year\. The majority were caught on Crete, Santorini, Thessaloniki, and Athens, reports Refugee\.Info\. Although this does not impact the asylum process, the people will face a trial and will not be issued a travel document\. Additionally, the sentence may be imprisonment for at least six months\.
 
 
-![A Greek police officer patrolling at an airport\. Credits: [Refugee\.Info](https://www.facebook.com/refugee.info/photos/a.1063678090359004/2010894405637363/?type=3&theater)](assets/aef1e1e874a5/1*EMYh0E9ZqEDabREFV-wx0Q.png)
+![A Greek police officer patrolling at an airport\. Credits: [Refugee\.Info](https://www.facebook.com/refugee.info/photos/a.1063678090359004/2010894405637363/?type=3&theater)](../assets/aef1e1e874a5/1*EMYh0E9ZqEDabREFV-wx0Q.png)
 
 A Greek police officer patrolling at an airport\. Credits: [Refugee\.Info](https://www.facebook.com/refugee.info/photos/a.1063678090359004/2010894405637363/?type=3&theater)
 
@@ -114,7 +114,7 @@ Donations needed in Paris\! Hundreds of people still rely on volunteer operation
 They are also in serious need of hygiene items\. As winter is well underway in Europe, winter items are also in high demand\. If you are able to donate, please follow the link [here](https://www.facebook.com/permalink.php?story_fbid=1022128321321273&id=598228360377940) \.
 
 
-![Credits: [Solidarité migrants Wilson](https://www.facebook.com/permalink.php?story_fbid=1022128321321273&id=598228360377940)](assets/aef1e1e874a5/0*YfhpsW-KpFqQfLl0)
+![Credits: [Solidarité migrants Wilson](https://www.facebook.com/permalink.php?story_fbid=1022128321321273&id=598228360377940)](../assets/aef1e1e874a5/0*YfhpsW-KpFqQfLl0)
 
 Credits: [Solidarité migrants Wilson](https://www.facebook.com/permalink.php?story_fbid=1022128321321273&id=598228360377940)
 

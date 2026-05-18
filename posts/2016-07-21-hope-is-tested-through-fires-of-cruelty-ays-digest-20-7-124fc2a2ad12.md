@@ -1,5 +1,5 @@
 ---
-title: Hope is tested through fires of cruelty: AYS Digest 20/7
+title: "Hope is tested through fires of cruelty: AYS Digest 20/7"
 author: Are You Syrious?
 date: 2016-07-21T02:04:14.752+0100
 last_modified_at: 2016-07-21T02:04:14.752+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: In this digest, the suffering of children of Syria and beyond, the callous ambivalence of systems of order in select Greek camps, activists…
 image:
-  path: assets/124fc2a2ad12/1*sVUnU3tUUBG_fvTJXJE01Q.jpeg
+  path: ../assets/124fc2a2ad12/1*sVUnU3tUUBG_fvTJXJE01Q.jpeg
 ---
 
 ### Hope is tested through fires of cruelty: AYS Digest 20/7
@@ -15,7 +15,7 @@ image:
 In this digest, the suffering of children of Syria and beyond, the callous ambivalence of systems of order in select Greek camps, activists and refugees speak out, possible plans to cut refugees off from support structures\.
 
 
-![Xanthi Camp, Greece; Photo Credit: [Nima Yaghmaei Photography](https://www.facebook.com/nyagphotos/)](assets/124fc2a2ad12/1*sVUnU3tUUBG_fvTJXJE01Q.jpeg)
+![Xanthi Camp, Greece; Photo Credit: [Nima Yaghmaei Photography](https://www.facebook.com/nyagphotos/)](../assets/124fc2a2ad12/1*sVUnU3tUUBG_fvTJXJE01Q.jpeg)
 
 Xanthi Camp, Greece; Photo Credit: [Nima Yaghmaei Photography](https://www.facebook.com/nyagphotos/)
 #### SYRIA
@@ -24,14 +24,14 @@ Xanthi Camp, Greece; Photo Credit: [Nima Yaghmaei Photography](https://www.faceb
 In light of media attention of the truly horrific murder of a young Palestinian boy, it is sobering to reflect upon the sheen number of children who have been killed since the beginning of the fighting\. 21556 children have been killed in the Syrian war since 2011\. Of them, 19773 were killed by regime forces, with up to 159 of these children having been tortured to death\. A further 729 children have been killed by rebel groups\. The U\.S\. and Russia have killed 112 and 479 respectively\. 351 and 49 were killed by ISIS and Jabhat al\-Nusra\.
 
 
-![Syrian Children play underground\. Photo Credit: Art Against Project](assets/124fc2a2ad12/1*QVuIDZePKDcvL0KQaOi1-g.jpeg)
+![Syrian Children play underground\. Photo Credit: Art Against Project](../assets/124fc2a2ad12/1*QVuIDZePKDcvL0KQaOi1-g.jpeg)
 
 Syrian Children play underground\. Photo Credit: Art Against Project
 
 Those that have survived and will survive remain at risk, whether being put to work in dangerous, exploitative jobs, being manipulated or coerced into joining fighting forces, or simply living under threat and away from educational, empowering opportunities\. It is crucial that this generation of young Syrians, and of all children affected by war, is not lost and that they are protected, for the future of the region, and for humanity\.
 
 
-![Photo Courtesy of Novosadski Humanitarni Centar](assets/124fc2a2ad12/1*OvIBy9hz4pWZL2rlRmvQ6w.jpeg)
+![Photo Courtesy of Novosadski Humanitarni Centar](../assets/124fc2a2ad12/1*OvIBy9hz4pWZL2rlRmvQ6w.jpeg)
 
 Photo Courtesy of Novosadski Humanitarni Centar
 #### TURKEY
@@ -46,7 +46,7 @@ In the meantime, members of Teachers Beyond Borders have kindly shared this link
 Although this is not unusual, it is a possible indicator of an attempt to reassert Turkish authority in monitoring the perimeter of Turkish territory\.
 
 
-![Protest at Paranthesti; Photo credit: Beyond Europe](assets/124fc2a2ad12/1*C2gfcSHj-L_N4vMHeDdGZg.jpeg)
+![Protest at Paranthesti; Photo credit: Beyond Europe](../assets/124fc2a2ad12/1*C2gfcSHj-L_N4vMHeDdGZg.jpeg)
 
 Protest at Paranthesti; Photo credit: Beyond Europe
 #### Xanthi and Paranthesti
@@ -54,7 +54,7 @@ Protest at Paranthesti; Photo credit: Beyond Europe
 According to reports from Beyond Europe, two protests were organized at closed camps today — Xanthi and Paranthesti\. Both protests were organized similarly, with delegations of lawyers and doctors requesting access in order to check on the conditions of the camp\. In Xanthi, the delegation was refused and pushed back\. The crowd pushed back, breaking through some of the walls, to which the police responded with batons and tear gas\. At Paranthesti, the protests went much more smoothly as the delegation was given access, although journalists were barred\.
 
 
-![Protest at Xanthi, Photo Credit: Beyond Europe](assets/124fc2a2ad12/1*QgvCBQoZfIcOD7Ku4wkJ-w.jpeg)
+![Protest at Xanthi, Photo Credit: Beyond Europe](../assets/124fc2a2ad12/1*QgvCBQoZfIcOD7Ku4wkJ-w.jpeg)
 
 Protest at Xanthi, Photo Credit: Beyond Europe
 #### Malakasa
@@ -74,18 +74,18 @@ In the last 24 hours alone, hundreds of refugees have been apprehended at the Bu
 ### Park renovation a possible threat to refugees congregating\.
 
 
-![Photo Credit: [**Novosadski humanitarni centar**](https://www.facebook.com/NSHCentar/)](assets/124fc2a2ad12/1*i-GNMsu6_FVtpRMoge6JVQ.jpeg)
+![Photo Credit: [**Novosadski humanitarni centar**](https://www.facebook.com/NSHCentar/)](../assets/124fc2a2ad12/1*i-GNMsu6_FVtpRMoge6JVQ.jpeg)
 
 Photo Credit: [**Novosadski humanitarni centar**](https://www.facebook.com/NSHCentar/)
 
 As Refugee Aid Miksaliste continues programs for women and children in collaboration with several other NGOs, Info Park, Refugee Aid Serbia, and other organizations continue to be the primary distributors of goods and meals in the parks that are currently the primary meeting places for hundreds of stranded refugees\. Furthermore, Info Park reports that some misdeeds are afoot in the parks where they serve\. As can be seen, the park has been tilled and apparently seeded with new grass, which is a perplexing choice as the searing summer heat may otherwise completely burn up any growth\. It is suspected that this might be a polite version of trying to nudge refugees out of the common eye and park\. Those in Belgrade are advised to stay vigilant\.
 
 
-![](assets/124fc2a2ad12/1*lTHebJg9LcEf000oV47-Ag.jpeg)
+![](../assets/124fc2a2ad12/1*lTHebJg9LcEf000oV47-Ag.jpeg)
 
 
 
-![Refugees in the Park in Belgrade\. Photo Credit: Info Park\.](assets/124fc2a2ad12/1*RZ45CzGcEpJ3UyVM0jZGCw.jpeg)
+![Refugees in the Park in Belgrade\. Photo Credit: Info Park\.](../assets/124fc2a2ad12/1*RZ45CzGcEpJ3UyVM0jZGCw.jpeg)
 
 Refugees in the Park in Belgrade\. Photo Credit: Info Park\.
 
@@ -106,7 +106,7 @@ As a result of this increasingly hostile climate, activists remain crucial in ma
 ### High court rules that deporting Syrian refugee to Hungary is inhumane\.
 
 
-![No Border Camp, Thessaloniki; Photo Credit: Athanasios Marvakis](assets/124fc2a2ad12/1*37Bf3ngpoCcNhAVqvTlMyg.jpeg)
+![No Border Camp, Thessaloniki; Photo Credit: Athanasios Marvakis](../assets/124fc2a2ad12/1*37Bf3ngpoCcNhAVqvTlMyg.jpeg)
 
 No Border Camp, Thessaloniki; Photo Credit: Athanasios Marvakis
 

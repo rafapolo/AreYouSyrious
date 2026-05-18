@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,germany,refugees,migrants,coronavirus]
 description: Greece Seeks Help from EU to Manage Epidemic///Strict Quarantine in Serbia///Libya, Malta and Italy Close Their Ports///And More
 image:
-  path: assets/f2e719d3f660/0*-uIHhzikaXBdCK1D
+  path: ../assets/f2e719d3f660/0*-uIHhzikaXBdCK1D
 ---
 
 ### AYS Daily Digest 09/04/2020– Yazidi Teenager Stabbed to Death in Germany
 #### Greece Seeks Help from EU to Manage Epidemic///Strict Quarantine in Serbia///Libya, Malta and Italy Close Their Ports///And More
 
 
-![The victim, 15\-year\-old Arkan Hussein Kjo\. Source: [Brenda Stoter Boscolo](https://twitter.com/BrendaStoter/status/1247896090608726020)](assets/f2e719d3f660/0*-uIHhzikaXBdCK1D)
+![The victim, 15\-year\-old Arkan Hussein Kjo\. Source: [Brenda Stoter Boscolo](https://twitter.com/BrendaStoter/status/1247896090608726020)](../assets/f2e719d3f660/0*-uIHhzikaXBdCK1D)
 
 The victim, 15\-year\-old Arkan Hussein Kjo\. Source: [Brenda Stoter Boscolo](https://twitter.com/BrendaStoter/status/1247896090608726020)
 

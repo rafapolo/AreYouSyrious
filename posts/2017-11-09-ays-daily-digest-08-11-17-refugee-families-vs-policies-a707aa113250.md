@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 08/11/17: Refugee families vs. policies
+title: "AYS Daily Digest 08/11/17: Refugee families vs. policies"
 author: Are You Syrious?
 date: 2017-11-09T09:15:05.424+0000
 last_modified_at: 2017-11-09T09:36:21.838+0000
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,greece,uk,europe,germany]
 description: Protest in Athens / Horrible state of the island camps / Syrians in Germany filing complaint against Assad / Winter seriously threatens…
 image:
-  path: assets/a707aa113250/1*Moo7AZSSL8oBO6Uq2iVABA.jpeg
+  path: ../assets/a707aa113250/1*Moo7AZSSL8oBO6Uq2iVABA.jpeg
 ---
 
 ### AYS Daily Digest 08/11/17: Refugee families vs\. policies
 #### Protest in Athens / Horrible state of the island camps / Syrians in Germany filing complaint against Assad / Winter seriously threatens refugees accross France / Fights for refugee minors family relocation to the UK / Unaccompanied minors wander the streets in Spain / volunteer calls, aid needs, other news and more
 
 
-![Photo: [Enough is Enough](https://www.facebook.com/enough14/)](assets/a707aa113250/1*Moo7AZSSL8oBO6Uq2iVABA.jpeg)
+![Photo: [Enough is Enough](https://www.facebook.com/enough14/)](../assets/a707aa113250/1*Moo7AZSSL8oBO6Uq2iVABA.jpeg)
 
 Photo: [Enough is Enough](https://www.facebook.com/enough14/)
 #### FEATURE — Photo story of the day
@@ -47,11 +47,11 @@ On several occasions, we wrote about this problem and how some of the families a
 The family members of some of those who marched in the streets of Athens have expressed their support from German cities\.
 
 
-![](assets/a707aa113250/1*opnQ_GleBgZBcDQuf079yQ.jpeg)
+![](../assets/a707aa113250/1*opnQ_GleBgZBcDQuf079yQ.jpeg)
 
 
 
-![Photos: [**Rando Wagner**](https://www.facebook.com/rando.wagner?fref=gs&hc_ref=ARScTxP49CozG90sNWNJCAup0NfYDrbhxXDD69vDQinTFv0n-2ihN80Z_TEPfrWJOJ4&hc_location=group)](assets/a707aa113250/1*t_zWy6W79AlygUXhqcg5pQ.jpeg)
+![Photos: [**Rando Wagner**](https://www.facebook.com/rando.wagner?fref=gs&hc_ref=ARScTxP49CozG90sNWNJCAup0NfYDrbhxXDD69vDQinTFv0n-2ihN80Z_TEPfrWJOJ4&hc_location=group)](../assets/a707aa113250/1*t_zWy6W79AlygUXhqcg5pQ.jpeg)
 
 Photos: [**Rando Wagner**](https://www.facebook.com/rando.wagner?fref=gs&hc_ref=ARScTxP49CozG90sNWNJCAup0NfYDrbhxXDD69vDQinTFv0n-2ihN80Z_TEPfrWJOJ4&hc_location=group)
 
@@ -60,16 +60,16 @@ Photos: [**Rando Wagner**](https://www.facebook.com/rando.wagner?fref=gs&hc_ref=
 
 
 
-![](assets/a707aa113250/1*RL_pPcZkXVMnMflzih4ZuQ.jpeg)
+![](../assets/a707aa113250/1*RL_pPcZkXVMnMflzih4ZuQ.jpeg)
 
 
 
-![Photos: [**Απεργία Πείνας Προσφύγων/Hunger Strike: “Reunite us with our families now”**](https://www.facebook.com/hungerstrike4familyreunification/)](assets/a707aa113250/1*Y1iZ_hCFwdwRQV9DefwZtw.jpeg)
+![Photos: [**Απεργία Πείνας Προσφύγων/Hunger Strike: “Reunite us with our families now”**](https://www.facebook.com/hungerstrike4familyreunification/)](../assets/a707aa113250/1*Y1iZ_hCFwdwRQV9DefwZtw.jpeg)
 
 Photos: [**Απεργία Πείνας Προσφύγων/Hunger Strike: “Reunite us with our families now”**](https://www.facebook.com/hungerstrike4familyreunification/)
 
 
-![Photo: [**Enough is Enough**](https://www.facebook.com/enough14/)](assets/a707aa113250/1*Bdp5gID0-Sk7JmrCrdTQwQ.jpeg)
+![Photo: [**Enough is Enough**](https://www.facebook.com/enough14/)](../assets/a707aa113250/1*Bdp5gID0-Sk7JmrCrdTQwQ.jpeg)
 
 Photo: [**Enough is Enough**](https://www.facebook.com/enough14/)
 #### TURKEY
@@ -116,7 +116,7 @@ In recent months, there have been many cases of more or less [direct attacks by 
 “The ship is always driving and therefore someone should listen to any communication, especially on [channel 16](https://youtu.be/p4LU5-NoHVw) \. If the captain of the LYCG\-vessel does not know what Channel 16 is, then they certainly has nothing to do in international water\.” — The Sea Watch
 
 
-![Photo: [**Jugend Rettet e\.V\.**](https://www.facebook.com/JugendRettet/)](assets/a707aa113250/1*ZHHejNjavNtZxVdWSybAcQ.jpeg)
+![Photo: [**Jugend Rettet e\.V\.**](https://www.facebook.com/JugendRettet/)](../assets/a707aa113250/1*ZHHejNjavNtZxVdWSybAcQ.jpeg)
 
 Photo: [**Jugend Rettet e\.V\.**](https://www.facebook.com/JugendRettet/)
 
@@ -144,11 +144,11 @@ Two boats arrived to **Samos** : the first one carrying 39 people: 15 men, 10 wo
 In the early hours of the morning 62 people landed on **Chios** : 20 men, 15 women and 27 children\. CESRT team assisted the newly arrived\.
 
 
-![](assets/a707aa113250/1*isAtCLAWTM_QvUdLtlQOvA.jpeg)
+![](../assets/a707aa113250/1*isAtCLAWTM_QvUdLtlQOvA.jpeg)
 
 
 
-![Photos: [Pothiti Kitromilid](https://www.facebook.com/pothiti.kitromilidi) i](assets/a707aa113250/1*VFEK37iEHkF7FdaacJk63A.jpeg)
+![Photos: [Pothiti Kitromilid](https://www.facebook.com/pothiti.kitromilidi) i](../assets/a707aa113250/1*VFEK37iEHkF7FdaacJk63A.jpeg)
 
 Photos: [Pothiti Kitromilid](https://www.facebook.com/pothiti.kitromilidi) i
 ### Horrible conditions on the islands continue
@@ -177,24 +177,24 @@ Vice mayor came with the police this morning, to evict the people on a hunger st
 #### Moria camp
 
 
-![](assets/a707aa113250/1*DPij6-EmNZPg6KKZ-2lv8g.jpeg)
+![](../assets/a707aa113250/1*DPij6-EmNZPg6KKZ-2lv8g.jpeg)
 
 
 
-![](assets/a707aa113250/1*pIf-LLo4WEjVGOkZacJ0yw.jpeg)
+![](../assets/a707aa113250/1*pIf-LLo4WEjVGOkZacJ0yw.jpeg)
 
 
 
-![Horrible images from the camp \(Photos by [**Philippa Kempson**](https://www.facebook.com/philippa.kempson.1) **\)**](assets/a707aa113250/1*XXhBJAJxlU2BhFWhjoBZ8g.jpeg)
+![Horrible images from the camp \(Photos by [**Philippa Kempson**](https://www.facebook.com/philippa.kempson.1) **\)**](../assets/a707aa113250/1*XXhBJAJxlU2BhFWhjoBZ8g.jpeg)
 
 Horrible images from the camp \(Photos by [**Philippa Kempson**](https://www.facebook.com/philippa.kempson.1) **\)**
 
 
-![](assets/a707aa113250/1*MyxtdCGZm_MMkhLHtbX3RA.jpeg)
+![](../assets/a707aa113250/1*MyxtdCGZm_MMkhLHtbX3RA.jpeg)
 
 
 
-![](assets/a707aa113250/1*1v__mSlUSuCL3-TiFxEHYw.jpeg)
+![](../assets/a707aa113250/1*1v__mSlUSuCL3-TiFxEHYw.jpeg)
 
 #### Samos
 
@@ -373,7 +373,7 @@ Always growing number of refugees in the area is under agreat risk of frost, sno
 
 
 
-![](assets/a707aa113250/1*pClxzygxY5fQnzQTG6XkNA.jpeg)
+![](../assets/a707aa113250/1*pClxzygxY5fQnzQTG6XkNA.jpeg)
 
 
 The temperatures drop and the nights are getting colder\. In Metz, France, there are currently 700 to 800 people living in a poorly structured refugee camp\. The camp, placed on a former parking lot, consists of tents which were built upon wooden pallets\. Since the situation has drastically worsened within the past few weeks, the NGOs [Verein FAIR\.](https://www.facebook.com/VereinFAIR/?fref=mentions) , [KUNE](https://www.facebook.com/kuneaid/?fref=mentions) , [Open Borders Caravan Bern](https://www.facebook.com/openborderscaravanbern/?fref=mentions) , Stand up for Refugees, [Everyday, just a smile](https://www.facebook.com/everydayjustasmile/?fref=mentions) and [Be Aware And Share — BAAS](https://www.facebook.com/beawareandshare.baas/?fref=mentions) travelled to Metz to distribute more than 60 boxes of clothes and hygiene products in order to help to improve the situation\.
@@ -444,7 +444,7 @@ On the occasion of the 11th EU Forum on the rights of the child held in Brussels
 
 
 
-![](assets/a707aa113250/1*udAZK5Ni9L6gowPBbfDt1w.png)
+![](../assets/a707aa113250/1*udAZK5Ni9L6gowPBbfDt1w.png)
 
 
 **_We strive to echo correct news from the ground through collaboration and fairness\._**

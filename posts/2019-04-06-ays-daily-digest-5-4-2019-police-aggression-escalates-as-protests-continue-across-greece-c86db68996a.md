@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 5/4/2019: Police Aggression Escalates, as Protests Continue Across Greece
+title: "AYS DAILY DIGEST 5/4/2019: Police Aggression Escalates, as Protests Continue Across Greece"
 author: Are You Syrious?
 date: 2019-04-06T12:14:17.923+0100
 last_modified_at: 2019-04-06T12:14:17.923+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: []
 description: Conflict Escalating in Libya// Malta and Italy refuse to allow disembarkation of 64 people rescued by Sea-Eye ship ‘Alan Kurdi’ //Fears of…
 image:
-  path: assets/c86db68996a/0*aBdZ0LdtE8aKGDfX
+  path: ../assets/c86db68996a/0*aBdZ0LdtE8aKGDfX
 ---
 
 ### AYS DAILY DIGEST 5/4/2019: Police Aggression Escalates, as Protests Continue Across Greece
@@ -15,7 +15,7 @@ image:
 Conflict Escalating in Libya// Malta and Italy refuse to allow disembarkation of 64 people rescued by Sea\-Eye ship ‘Alan Kurdi’ //Fears of homelessness and destitution for people kicked out of ESTIA accommodation in Greece// Children are suffering in deportation camp Sjælsmark in Denmark\.
 
 
-![By [Daphne Tolis](https://www.facebook.com/daphne.tolis?__tn__=%2Cd%2AF%2AF-R&eid=ARByWjk7bHv1hUL23PIckCr3ihuABKJL72MI7TT3vkVuO_0ndBRCAiey-KcahoeWmPucKGZodFXhaKZl&tn-str=%2AF)](assets/c86db68996a/0*aBdZ0LdtE8aKGDfX)
+![By [Daphne Tolis](https://www.facebook.com/daphne.tolis?__tn__=%2Cd%2AF%2AF-R&eid=ARByWjk7bHv1hUL23PIckCr3ihuABKJL72MI7TT3vkVuO_0ndBRCAiey-KcahoeWmPucKGZodFXhaKZl&tn-str=%2AF)](../assets/c86db68996a/0*aBdZ0LdtE8aKGDfX)
 
 By [Daphne Tolis](https://www.facebook.com/daphne.tolis?__tn__=%2Cd%2AF%2AF-R&eid=ARByWjk7bHv1hUL23PIckCr3ihuABKJL72MI7TT3vkVuO_0ndBRCAiey-KcahoeWmPucKGZodFXhaKZl&tn-str=%2AF)
 
@@ -24,7 +24,7 @@ By [Daphne Tolis](https://www.facebook.com/daphne.tolis?__tn__=%2Cd%2AF%2AF-R&ei
 People continue arriving and attempting to arrive in Diavata from places around Greece, with a desire to join the ‘convoy of hope\.’ Between 1200–1500 people are currently congregated in what has become a large outdoor camp, reminiscent of Idomeni\.
 
 
-[![Convoy of Hope, Diavata camp, 5.4.2019.](assets/c86db68996a/54c4_hqdefault.jpg "Convoy of Hope, Diavata camp, 5.4.2019.")](http://www.youtube.com/watch?v=yImsB3Obl8w)
+[![Convoy of Hope, Diavata camp, 5.4.2019.](../assets/c86db68996a/54c4_hqdefault.jpg "Convoy of Hope, Diavata camp, 5.4.2019.")](http://www.youtube.com/watch?v=yImsB3Obl8w)
 
 
 On Friday, a large group of people attempted to move closer towards the border, but were stopped by heavy police presence and aggression which resulted in chaotic scenes\. Police used tear gas, stun grenades and excessive force against everyone who attempted to move towards the border, including women and children\.
@@ -32,7 +32,7 @@ On Friday, a large group of people attempted to move closer towards the border, 
 It should be noted that Diavata is still approximately 60km away from the closest international border, a fact that has been left out of the majority of reports on the unfolding situation\.
 
 
-[![Diavata 5.4.2019.](assets/c86db68996a/0591_hqdefault.jpg "Diavata 5.4.2019.")](http://www.youtube.com/watch?v=dWG03GyPYgc)
+[![Diavata 5.4.2019.](../assets/c86db68996a/0591_hqdefault.jpg "Diavata 5.4.2019.")](http://www.youtube.com/watch?v=dWG03GyPYgc)
 
 
 

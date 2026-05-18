@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: I will come to you, river
+title: "AYS SPECIAL: I will come to you, river"
 author: Are You Syrious?
 date: 2018-04-01T12:42:41.353+0100
 last_modified_at: 2018-04-01T15:09:44.425+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,community,dance,special]
 description: How dance theatre could help asylum seekers to get back in touch with their personal journeys, boost self-expression and create…
 image:
-  path: assets/e59076959829/1*FSG7GP5heV6or40MZ-KY5Q.jpeg
+  path: ../assets/e59076959829/1*FSG7GP5heV6or40MZ-KY5Q.jpeg
 ---
 
 ### AYS SPECIAL: I will come to you, river
 #### How dance theatre could help asylum seekers to get back in touch with their personal journeys, boost self\-expression and create togetherness\. AYS volunteer went to see “Transitanze”, a dance theatre project, created in collaboration between Caritas Tarvisina and Art\(h\)emigra Satellite and talked with some of participants
 
 
-![Credit: Luca Antonello](assets/e59076959829/1*FSG7GP5heV6or40MZ-KY5Q.jpeg)
+![Credit: Luca Antonello](../assets/e59076959829/1*FSG7GP5heV6or40MZ-KY5Q.jpeg)
 
 Credit: Luca Antonello
 
@@ -45,11 +45,11 @@ These are the pillars of “Transitanze”, a dance theatre project, created in 
 I had a chat with the Caritas operators, the guys on stage and the dance teacher in order to collect more information on why and how the project was born and developed, what complexities the participants had to face and, more importantly, how they felt throughout the project and now that it has come to an end\.
 
 
-![](assets/e59076959829/1*gED_GBWDZY8B5uNSTG5lCA.jpeg)
+![](../assets/e59076959829/1*gED_GBWDZY8B5uNSTG5lCA.jpeg)
 
 
 
-![Credit: Caritas Tarvisina](assets/e59076959829/1*bpiQDtXduJhCY_m4_rAaRg.jpeg)
+![Credit: Caritas Tarvisina](../assets/e59076959829/1*bpiQDtXduJhCY_m4_rAaRg.jpeg)
 
 Credit: Caritas Tarvisina
 
@@ -69,7 +69,7 @@ They immediately showed a big courage to just take part to a new project, to tru
 The guys felt this need to share, to be together, to take part to a project that could allow them to express and discover themselves\.
 
 
-![Credit: Luca Antonello](assets/e59076959829/1*pqctv1y6V-URIUKLM8awHg.jpeg)
+![Credit: Luca Antonello](../assets/e59076959829/1*pqctv1y6V-URIUKLM8awHg.jpeg)
 
 Credit: Luca Antonello
 
@@ -110,7 +110,7 @@ But now, the big challenge for them as well is to understand fully the experienc
 _A side note\. During the show various props were used, one of them was a pretty big and resistant table that was assembled by C\., hosted at the centre, during the carpentry workshop at Ca’ Florens\. So also other residents had the chance to collaborate in other forms, with their skills\._
 
 
-![Credit: Luca Antonello](assets/e59076959829/1*Lqde_P6vL0WYQhQkbvMGFA.jpeg)
+![Credit: Luca Antonello](../assets/e59076959829/1*Lqde_P6vL0WYQhQkbvMGFA.jpeg)
 
 Credit: Luca Antonello
 
@@ -137,7 +137,7 @@ These guys are descendants of kings, they identify with their personal armour, w
 “ _The show it’s not a punch in the face, it’s an open hand_ ”
 
 
-![Credit: Luca Antonello](assets/e59076959829/1*v4uZKk7g4mWbUqjFMkRVBw.jpeg)
+![Credit: Luca Antonello](../assets/e59076959829/1*v4uZKk7g4mWbUqjFMkRVBw.jpeg)
 
 Credit: Luca Antonello
 
@@ -160,7 +160,7 @@ Definitely, it is a valid project that can be reproduced in other structures but
 Nevertheless, taking into consideration all the different aspects touched, allowing asylum seekers to have a way to express themselves through their art, reflection of their personality, is a much needed possibility\.
 
 
-![Credit: Caritas Tarvisina](assets/e59076959829/1*OpQ2GvKu9KAIx2P682_NOg.jpeg)
+![Credit: Caritas Tarvisina](../assets/e59076959829/1*OpQ2GvKu9KAIx2P682_NOg.jpeg)
 
 Credit: Caritas Tarvisina
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 29/03/18: 19 boats tried to reach Lesvos on Wednesday
+title: "AYS Daily Digest 29/03/18: 19 boats tried to reach Lesvos on Wednesday"
 author: Are You Syrious?
 date: 2018-03-30T09:16:25.500+0100
 last_modified_at: 2018-03-30T17:28:40.073+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest]
 description: Refugees forced to sleep outside / Dangerous situation at the Greek border with Turkey due to flooding / Protests against the French…
 image:
-  path: assets/8b6beb2d8379/1*D0UdnkobLTZlUBMmNlNL5Q.png
+  path: ../assets/8b6beb2d8379/1*D0UdnkobLTZlUBMmNlNL5Q.png
 ---
 
 ### AYS Daily Digest 29/03/18: **19 boats tried to reach Lesvos on Wednesday**
@@ -15,7 +15,7 @@ image:
 _Refugees forced to sleep outside / Dangerous situation at the Greek border with Turkey due to flooding / Protests against the French immigration and asylum law continue / Aquarius boat rescues 122 people off the coast of Libya / And more news…_
 
 
-![Photo by Matt Llewellin](assets/8b6beb2d8379/1*D0UdnkobLTZlUBMmNlNL5Q.png)
+![Photo by Matt Llewellin](../assets/8b6beb2d8379/1*D0UdnkobLTZlUBMmNlNL5Q.png)
 
 Photo by Matt Llewellin
 ### GREECE
@@ -51,7 +51,7 @@ Care4Calais says it desperately need baby wipes and spray deodorant\. It says re
 #### Protests against the immigration and asylum law on the 15th of April in Paris
 
 
-![](assets/8b6beb2d8379/1*nw-IJsYOrW6YVWjjoTG60Q.png)
+![](../assets/8b6beb2d8379/1*nw-IJsYOrW6YVWjjoTG60Q.png)
 
 
 On the 15th of April, BAAM will organize a [new protest](https://www.facebook.com/events/155896078422563/) against the draft immigration and asylum law\. It points out that the law reduces the time to submit an asylum application from 120 days to 90 days\. The law also reduces the appeal period from one month to 15 days and increases the maximum period of confinement in a detention centre from 45 days to 135 days\. Meanwhile, the appeals before the National Asylum Court is becoming non\-suspensive for some, meaning that they could be deported before a decision is taken about their appeal\. [Encrages](https://encrages.org/une-tribune-criee-par-encrages/) has also sent a letter to French MPs against the law, signed by more than 250 authors and artists involved in children’s books\. The letter notes that children continue being retained in France because of their family’s immigration status\. It says that 1 out of 3 migrants is a child and adds that 350 children have been detained in France last year\.

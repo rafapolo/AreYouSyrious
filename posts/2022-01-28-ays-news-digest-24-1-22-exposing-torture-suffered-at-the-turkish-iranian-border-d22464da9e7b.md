@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 24/1/22: Exposing torture suffered at the Turkish-Iranian border
+title: "AYS News Digest 24/1/22: Exposing torture suffered at the Turkish-Iranian border"
 author: Are You Syrious?
 date: 2022-01-28T04:13:21.265+0000
 last_modified_at: 2022-01-28T04:13:21.265+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: []
 description: Belgium condemned at court / Minors in the north of France remain unprotected / hate speech and attacks remain present in Greek society /…
 image:
-  path: assets/d22464da9e7b/0*hHg984XoggQ4lEXZ.jpg
+  path: ../assets/d22464da9e7b/0*hHg984XoggQ4lEXZ.jpg
 ---
 
 ### AYS News Digest 24/1/22: Exposing torture suffered at the Turkish\-Iranian border
 ### Belgium condemned at court / Minors in the north of France remain unprotected / hate speech and attacks remain present in Greek society / updates on SAR missions / interesting op\-eds, reports and stories recommended by our team
 
 
-![](assets/d22464da9e7b/0*V4u_lxAVS7PpTYDS.jpeg)
+![](../assets/d22464da9e7b/0*V4u_lxAVS7PpTYDS.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----de02406e2083-----------------------------------)
@@ -22,7 +22,7 @@ image:
 [Jan 25](ays-news-digest-24-1-22-exposing-torture-suffered-at-the-turkish-iranian-border-de02406e2083?source=post_page-----de02406e2083-----------------------------------) · 6 min read
 
 
-![](assets/d22464da9e7b/0*hHg984XoggQ4lEXZ.jpg)
+![](../assets/d22464da9e7b/0*hHg984XoggQ4lEXZ.jpg)
 
 
 Turkish\-Iranian border area, Unknown author of the photo, [source](https://anfenglish.com/human-rights/refugees-tortured-at-the-border-with-iran-57566?fbclid=IwAR3fEPy6RDuo7lFv3WZg3uYHgNmfqH7u6GFA1iABSTdk-ypx-R6aFl07RSE)

@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,lesvos,deportations,samos]
 description: More legal hassle for SeaWatch /// People on the move face hate crimes in Eastern Germany /// 2,500 Gambian migrants to be deported from…
 image:
-  path: assets/c70b1da592fd/1*3W-FUUhnYQNK8PiQkVpH9g.jpeg
+  path: ../assets/c70b1da592fd/1*3W-FUUhnYQNK8PiQkVpH9g.jpeg
 ---
 
 ### AYS Daily Digest 25/02/2019 Nothing has changed on the Greek Islands
@@ -15,7 +15,7 @@ image:
 More legal hassle for SeaWatch /// People on the move face hate crimes in Eastern Germany /// 2,500 Gambian migrants to be deported from Germany /// Vulnerable children in unsuitable conditions in Italy and France
 
 
-![\#NoBorders, by Mahmoud Rifai \( [ArtAgainst](https://www.facebook.com/artagainstproject/photos/a.639651369417634/2085742871475136/?type=3&theater) \)](assets/c70b1da592fd/1*3W-FUUhnYQNK8PiQkVpH9g.jpeg)
+![\#NoBorders, by Mahmoud Rifai \( [ArtAgainst](https://www.facebook.com/artagainstproject/photos/a.639651369417634/2085742871475136/?type=3&theater) \)](../assets/c70b1da592fd/1*3W-FUUhnYQNK8PiQkVpH9g.jpeg)
 
 \#NoBorders, by Mahmoud Rifai \( [ArtAgainst](https://www.facebook.com/artagainstproject/photos/a.639651369417634/2085742871475136/?type=3&theater) \)
 #### Nothing change on the Greek Islands
@@ -27,34 +27,34 @@ According to [National Statistics](http://mindigital.gr/index.php/%CF%80%CF%81%C
 **We learned to mistrust such statistics, especially while — on February 25th — they still state that no one is living in makeshift camps\.**
 
 
-![Samos, \(Photo by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/530996540756788?hc_location=ufi) \)](assets/c70b1da592fd/1*VzwbFznGsRAy0QWCO4NtkA.jpeg)
+![Samos, \(Photo by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/530996540756788?hc_location=ufi) \)](../assets/c70b1da592fd/1*VzwbFznGsRAy0QWCO4NtkA.jpeg)
 
 Samos, \(Photo by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/530996540756788?hc_location=ufi) \)
 
 
-![](assets/c70b1da592fd/1*fDBfnJVIVcLW6F_uz_c_gg.jpeg)
+![](../assets/c70b1da592fd/1*fDBfnJVIVcLW6F_uz_c_gg.jpeg)
 
 
 
-![Lesvos, \(Photo by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/530996540756788?hc_location=ufi) \)](assets/c70b1da592fd/1*bCqdUfs2W9j3eLMPJ7HT2A.jpeg)
+![Lesvos, \(Photo by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/530996540756788?hc_location=ufi) \)](../assets/c70b1da592fd/1*bCqdUfs2W9j3eLMPJ7HT2A.jpeg)
 
 Lesvos, \(Photo by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/530996540756788?hc_location=ufi) \)
 
 On Sunday it was snowing on Lesvos and still around 7,000 people are living in inhumane conditions\.
 
 
-![Lesvos, \(Photo by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/530996540756788?hc_location=ufi) \)](assets/c70b1da592fd/1*DybgViD3JKlVM8ZaSs56lg.jpeg)
+![Lesvos, \(Photo by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/530996540756788?hc_location=ufi) \)](../assets/c70b1da592fd/1*DybgViD3JKlVM8ZaSs56lg.jpeg)
 
 Lesvos, \(Photo by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/530996540756788?hc_location=ufi) \)
 
 While government numbers count 4,294 people on Samos, ABR inform that it is likely that [more than 5,000 live on the island](https://www.facebook.com/AegeanBoatReport/posts/530978767425232?hc_location=ufi) , with [more than 1,000 children](https://twitter.com/samosvolunteers/status/1099980060487008257) without access to formal education or basic services\.
 
 
-![](assets/c70b1da592fd/1*5rYzVUfrdjt84TJwHQoi-Q.jpeg)
+![](../assets/c70b1da592fd/1*5rYzVUfrdjt84TJwHQoi-Q.jpeg)
 
 
 
-![Samos, \(Photo by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/530996540756788?hc_location=ufi) \)](assets/c70b1da592fd/1*4mhh-gv7ULMkmf5Ze7Fvcg.jpeg)
+![Samos, \(Photo by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/530996540756788?hc_location=ufi) \)](../assets/c70b1da592fd/1*4mhh-gv7ULMkmf5Ze7Fvcg.jpeg)
 
 Samos, \(Photo by [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/530996540756788?hc_location=ufi) \)
 
@@ -62,7 +62,7 @@ MOROCCO
 #### Authorities stop migrant convoys
 
 
-![\(Photo by [AMDH\-Nador](https://www.facebook.com/AmdhNador/posts/2280989112113351) \)](assets/c70b1da592fd/1*tLrmP-e7YbeIGyQS3Oyf5w.jpeg)
+![\(Photo by [AMDH\-Nador](https://www.facebook.com/AmdhNador/posts/2280989112113351) \)](../assets/c70b1da592fd/1*tLrmP-e7YbeIGyQS3Oyf5w.jpeg)
 
 \(Photo by [AMDH\-Nador](https://www.facebook.com/AmdhNador/posts/2280989112113351) \)
 
@@ -118,7 +118,7 @@ GREECE
 #### Arrivals
 
 
-![](assets/c70b1da592fd/1*UWYvjy2uzB-S9MHpqUkbJg.jpeg)
+![](../assets/c70b1da592fd/1*UWYvjy2uzB-S9MHpqUkbJg.jpeg)
 
 
 
@@ -145,7 +145,7 @@ A group of volunteers is organising fitness and sports activities above the camp
 Join them or contact them [here](https://www.facebook.com/groups/766219550168182/permalink/1875747825882010/?hc_location=ufi) \.
 
 
-![Image by [Fanny Oppler](https://www.facebook.com/groups/766219550168182/permalink/1875747825882010/?hc_location=ufi)](assets/c70b1da592fd/1*6NNATzfdOY0x9z8sVUGXGw.jpeg)
+![Image by [Fanny Oppler](https://www.facebook.com/groups/766219550168182/permalink/1875747825882010/?hc_location=ufi)](../assets/c70b1da592fd/1*6NNATzfdOY0x9z8sVUGXGw.jpeg)
 
 Image by [Fanny Oppler](https://www.facebook.com/groups/766219550168182/permalink/1875747825882010/?hc_location=ufi)
 #### Information on working in Greece
@@ -174,7 +174,7 @@ SPAIN
 #### Sea and land arrivals 1–31 January 2019, UNHCR source
 
 
-![\(Image by [ACNUR Espana](https://twitter.com/ACNURspain/status/1100061334891315206?fbclid=IwAR3cyz9RvLsKDam8xMqQTPU_QwHhhkHLP3FEMvYEL3R9cTRo832tTkqy3UE) , from [UNHCR data](https://data2.unhcr.org/en/documents/download/68108) \)](assets/c70b1da592fd/1*KUQmQ19N8UF6Fn7buhEvDw.jpeg)
+![\(Image by [ACNUR Espana](https://twitter.com/ACNURspain/status/1100061334891315206?fbclid=IwAR3cyz9RvLsKDam8xMqQTPU_QwHhhkHLP3FEMvYEL3R9cTRo832tTkqy3UE) , from [UNHCR data](https://data2.unhcr.org/en/documents/download/68108) \)](../assets/c70b1da592fd/1*KUQmQ19N8UF6Fn7buhEvDw.jpeg)
 
 \(Image by [ACNUR Espana](https://twitter.com/ACNURspain/status/1100061334891315206?fbclid=IwAR3cyz9RvLsKDam8xMqQTPU_QwHhhkHLP3FEMvYEL3R9cTRo832tTkqy3UE) , from [UNHCR data](https://data2.unhcr.org/en/documents/download/68108) \)
 

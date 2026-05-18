@@ -1,13 +1,13 @@
 ---
-title: AYS SPECIAL: Getting asylum feels like a gamble for young Afghans in Sweden
+title: "AYS SPECIAL: Getting asylum feels like a gamble for young Afghans in Sweden"
 author: Are You Syrious?
 date: 2017-08-15T09:24:00.639+0100
 last_modified_at: 2018-03-01T14:22:36.483+0000
 categories: Are You Syrious?
 tags: [refugees,sweden,afghanistan,stockholm,special]
-description: The sit-in in Stockholm to stop deportations to Afghanistan has now been ongoing for over a week. The youths are determined: they will stay…
+description: "The sit-in in Stockholm to stop deportations to Afghanistan has now been ongoing for over a week. The youths are determined: they will stay…"
 image:
-  path: assets/5d3d54f272b1/1*XxmTQcPYoSXUV0-V9lS10g.jpeg
+  path: ../assets/5d3d54f272b1/1*XxmTQcPYoSXUV0-V9lS10g.jpeg
 ---
 
 ### AYS SPECIAL: Getting asylum feels like a gamble for young Afghans in Sweden
@@ -15,12 +15,12 @@ image:
 _The sit\-in in Stockholm to stop deportations to Afghanistan has now been ongoing for over a week\. The youths are determined: they will stay until there is a change\. Still the head of the Migration Agency has not visited them\. Instead, he has written a letter saying that he and Sweden cannot grant their wishes\. But they are not despondent; rather, they are more united\. AYS is in Stockholm and we bring you a special report\._
 
 
-![Photo by AYS](assets/5d3d54f272b1/1*XxmTQcPYoSXUV0-V9lS10g.jpeg)
+![Photo by AYS](../assets/5d3d54f272b1/1*XxmTQcPYoSXUV0-V9lS10g.jpeg)
 
 Photo by AYS
 
 
-![Photo by AYS](assets/5d3d54f272b1/1*BaHCLpKogPQnWakZzzY8cA.jpeg)
+![Photo by AYS](../assets/5d3d54f272b1/1*BaHCLpKogPQnWakZzzY8cA.jpeg)
 
 Photo by AYS
 
@@ -31,7 +31,7 @@ Sara Ahmadi has been protesting, together with several hundreds people, every da
 Now she sleeps in Medborgarplatsen and has been doing so for several nights\. Usually she lives in Linköping, a small town a couple of hours away from Stockholm\. She is one of many that have joined in from other places\.
 
 
-![Sara Ahmadi arrived in Sweden as a single minor two years ago\. Soon she will be 18 and still has no anwers about her asylum claim\. Photo AYS\.](assets/5d3d54f272b1/1*Ci0ZrasigaMml6jgiq805w.jpeg)
+![Sara Ahmadi arrived in Sweden as a single minor two years ago\. Soon she will be 18 and still has no anwers about her asylum claim\. Photo AYS\.](../assets/5d3d54f272b1/1*Ci0ZrasigaMml6jgiq805w.jpeg)
 
 Sara Ahmadi arrived in Sweden as a single minor two years ago\. Soon she will be 18 and still has no anwers about her asylum claim\. Photo AYS\.
 #### The citizen’s place
@@ -59,11 +59,11 @@ When AYS previously spoke to the Migration Agency this week, they could not say 
 “Mikael Ribbenvik has actually already met with her, about one month ago,” their press contact said\.
 
 
-![](assets/5d3d54f272b1/1*TEcHYlFQATbvwrOnxPUt6g.jpeg)
+![](../assets/5d3d54f272b1/1*TEcHYlFQATbvwrOnxPUt6g.jpeg)
 
 
 
-![Medborgarplatsen in the southern district of Stockholm is a big open square, of the more commercial kind\. Photo: AYS](assets/5d3d54f272b1/1*nSsO6PjhPcrN-VDyIAlS2w.jpeg)
+![Medborgarplatsen in the southern district of Stockholm is a big open square, of the more commercial kind\. Photo: AYS](../assets/5d3d54f272b1/1*nSsO6PjhPcrN-VDyIAlS2w.jpeg)
 
 Medborgarplatsen in the southern district of Stockholm is a big open square, of the more commercial kind\. Photo: AYS
 #### **Different situations, same demands**
@@ -80,7 +80,7 @@ The protesters are a very diverse group\. They are at different stages of the as
 Two young boys, Amin Rasoolzadeh and Amin Eshaghi, both 17, have been friends since before the sit\-in and came to Medborgarplatsen together\. They have been here for several days\. The sun was shining the afternoon we met and spirits were high\. No one on site seems to be angry\. Determined, yes\. Some people are a bit tired, since they have been sleeping under the stars for several days in a row\. But despite that there are only smiles\.
 
 
-![Amin Rasoolzadeh and Amin Eshaghi, with the message “don’t deport our youths” on the sign\. Photo: AYS](assets/5d3d54f272b1/1*kyKX5d9bu27v8Pk4sdtXgg.jpeg)
+![Amin Rasoolzadeh and Amin Eshaghi, with the message “don’t deport our youths” on the sign\. Photo: AYS](../assets/5d3d54f272b1/1*kyKX5d9bu27v8Pk4sdtXgg.jpeg)
 
 Amin Rasoolzadeh and Amin Eshaghi, with the message “don’t deport our youths” on the sign\. Photo: AYS
 
@@ -117,7 +117,7 @@ They both think that Sweden needs Afghan youths, since the population is getting
 Politicians and officials from the Migration Agency say that Afghanistan is safe enough, but Amin and Amin disagree\. So does Barak Elham, who thinks politicians here do not understand\.
 
 
-![Barak Elham has been at the sit\-in since day one\. He is still awaiting the decision on his application after more than 1\.5 years\. Photo: AYS](assets/5d3d54f272b1/1*vpjgbs5-muuJRXW2bHWPww.jpeg)
+![Barak Elham has been at the sit\-in since day one\. He is still awaiting the decision on his application after more than 1\.5 years\. Photo: AYS](../assets/5d3d54f272b1/1*vpjgbs5-muuJRXW2bHWPww.jpeg)
 
 Barak Elham has been at the sit\-in since day one\. He is still awaiting the decision on his application after more than 1\.5 years\. Photo: AYS
 
@@ -146,7 +146,7 @@ The long waiting times can be hard\. Mohammed Reza Hassani is another young Afgh
 “It just went on and on in my head\. It was a mess\. I couldn’t sleep and went to school every day anyway,” Mohammed Reza Hassani says\.
 
 
-![Mohammed Reza Hassani looking at his friends\. Photo: AYS](assets/5d3d54f272b1/1*x0Q7I3ssF6fw4Cj6IqUD7A.jpeg)
+![Mohammed Reza Hassani looking at his friends\. Photo: AYS](../assets/5d3d54f272b1/1*x0Q7I3ssF6fw4Cj6IqUD7A.jpeg)
 
 Mohammed Reza Hassani looking at his friends\. Photo: AYS
 
@@ -161,12 +161,12 @@ They were seeking asylum on the same grounds\. Still, his brother, who was only 
 Luckily, the appeal went well\. They no longer live together, since Mohammed Reza Hassani turned 18 and counts as an adult\. His brother is still a minor, and most minors are placed with families, while adults are living by themselves or in shared accommodations\. No children grow up as fast as those fleeing war\. It only takes one day\.
 
 
-![Waiting in line\. Photo: AYS](assets/5d3d54f272b1/1*wIIqyXXjNkZWrYJ6GDSObg.jpeg)
+![Waiting in line\. Photo: AYS](../assets/5d3d54f272b1/1*wIIqyXXjNkZWrYJ6GDSObg.jpeg)
 
 Waiting in line\. Photo: AYS
 
 
-![Photo by AYS\.](assets/5d3d54f272b1/1*ORw7wCPs0Idgc7A9naacMg.jpeg)
+![Photo by AYS\.](../assets/5d3d54f272b1/1*ORw7wCPs0Idgc7A9naacMg.jpeg)
 
 Photo by AYS\.
 #### **“We will stay and never give up”**
@@ -180,7 +180,7 @@ But people are still there\. That it rains on some days does not really impact t
 “We can always stay\. It’s not like we have anything more important to do\.”
 
 
-![Reza Moradi and Rahim Forghani, a rainy Sunday at Medborgarplatsen\. Photo: AYS](assets/5d3d54f272b1/1*7eP5tqVdcu6vgwR0bR92DA.jpeg)
+![Reza Moradi and Rahim Forghani, a rainy Sunday at Medborgarplatsen\. Photo: AYS](../assets/5d3d54f272b1/1*7eP5tqVdcu6vgwR0bR92DA.jpeg)
 
 Reza Moradi and Rahim Forghani, a rainy Sunday at Medborgarplatsen\. Photo: AYS
 

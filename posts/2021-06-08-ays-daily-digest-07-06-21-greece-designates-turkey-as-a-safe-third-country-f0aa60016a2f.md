@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [syria,greece,refugees,turkey,digest]
 description: More about the mysterious boat that arrived in the Caribbean // deportation alerts in Germany // health concerns due to stress for Syrians…
 image:
-  path: assets/f0aa60016a2f/0*Emgm3hzNpida5Ye-
+  path: ../assets/f0aa60016a2f/0*Emgm3hzNpida5Ye-
 ---
 
 ### AYS Daily Digest 07/06/21 Greece designates Turkey as a “safe third country”
@@ -15,7 +15,7 @@ image:
 _More about the mysterious boat that arrived in the Caribbean // deportation alerts in Germany // health concerns due to stress for Syrians in Denmark // and more…_
 
 
-![Asylum seekers at the border of Greece and Turkey March 2020\. Photo by [Hosam Salem/Al Jazeera](https://www.aljazeera.com/gallery/2020/3/1/in-pictures-refugees-stream-towards-greece-as-turkey-opens-gates)](assets/f0aa60016a2f/0*Emgm3hzNpida5Ye-)
+![Asylum seekers at the border of Greece and Turkey March 2020\. Photo by [Hosam Salem/Al Jazeera](https://www.aljazeera.com/gallery/2020/3/1/in-pictures-refugees-stream-towards-greece-as-turkey-opens-gates)](../assets/f0aa60016a2f/0*Emgm3hzNpida5Ye-)
 
 Asylum seekers at the border of Greece and Turkey March 2020\. Photo by [Hosam Salem/Al Jazeera](https://www.aljazeera.com/gallery/2020/3/1/in-pictures-refugees-stream-towards-greece-as-turkey-opens-gates)
 ### FEATURE: Greece designates Turkey as a “safe third country” for asylum seekers from Syria, Pakistan, Afghanistan, Bangladesh, and Somalia
@@ -94,7 +94,7 @@ AYS will continue to report on the ramifications of this decision\.
 #### SEA
 
 
-![“5 ships blocked by the Italian government: — ALAN KURDI — OPEN ARMS — SEA WATCH 3 and 4 — SEA EYE 4\. They act against International Maritime Law, while buying time and punishing us financially\. What they do not know is that behind there are millions of people who will continue to support us\.” Photo and info by [Oscar Camps](https://twitter.com/campsoscar/status/1401796848596180994)](assets/f0aa60016a2f/0*0Wf2EqVQhbkilqHz)
+![“5 ships blocked by the Italian government: — ALAN KURDI — OPEN ARMS — SEA WATCH 3 and 4 — SEA EYE 4\. They act against International Maritime Law, while buying time and punishing us financially\. What they do not know is that behind there are millions of people who will continue to support us\.” Photo and info by [Oscar Camps](https://twitter.com/campsoscar/status/1401796848596180994)](../assets/f0aa60016a2f/0*0Wf2EqVQhbkilqHz)
 
 “5 ships blocked by the Italian government: — ALAN KURDI — OPEN ARMS — SEA WATCH 3 and 4 — SEA EYE 4\. They act against International Maritime Law, while buying time and punishing us financially\. What they do not know is that behind there are millions of people who will continue to support us\.” Photo and info by [Oscar Camps](https://twitter.com/campsoscar/status/1401796848596180994)
 ### More on the mysterious boat that arrived in the Caribbean with 14 bodies
@@ -176,7 +176,7 @@ Read in full [here](https://www.rtvslo.si/evropska-unija/jansa-komisarki-sveta-e
 
 
 ![[**Leipziger Seebrücke**](https://twitter.com/seebrueckeLE/status/1401890042990280708) reports: “\(Tuesday\) there will be another deportation from the airport\. Leipzig / Halle to Afghanistan\. Germany’s inhuman deportation practice must finally be stopped\! Come to the rally of
-[@protest\_lej](http://twitter.com/protest_lej) & stand against all deportations\!”](assets/f0aa60016a2f/0*Xr_ZOWdXGbbmbdoz)
+[@protest\_lej](http://twitter.com/protest_lej) & stand against all deportations\!”](../assets/f0aa60016a2f/0*Xr_ZOWdXGbbmbdoz)
 
 [**Leipziger Seebrücke**](https://twitter.com/seebrueckeLE/status/1401890042990280708) reports: “\(Tuesday\) there will be another deportation from the airport\. Leipzig / Halle to Afghanistan\. Germany’s inhuman deportation practice must finally be stopped\! Come to the rally of
 [@protest\_lej](http://twitter.com/protest_lej) & stand against all deportations\!”

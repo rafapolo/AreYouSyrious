@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 25/2/20: 5,000 protest in Chios over closed migrant centre.
+title: "AYS Daily Digest 25/2/20: 5,000 protest in Chios over closed migrant centre."
 author: Are You Syrious?
 date: 2020-02-26T09:30:31.042+0000
 last_modified_at: 2020-02-27T12:06:56.763+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,europe,refugees,greece,borders]
 description: Protest and police crackdown in Chios / Open letter to the Greek Prime Minister on Unaccompanied Minors / Search and Rescue Updates from…
 image:
-  path: assets/914419aac259/1*-BzoaRNzesYXqowswNjqYw.jpeg
+  path: ../assets/914419aac259/1*-BzoaRNzesYXqowswNjqYw.jpeg
 ---
 
 ### AYS Daily Digest 25/2/20: 5,000 protest over new detention centre
 #### Protest and police crackdown in Chios / Open letter to the Greek Prime Minister on Unaccompanied Minors / Search and Rescue Updates from the Libyan Coast / Attack on Hospital in Idlib
 
 
-![Lesbos\. Photo Credit: Erik Marquardt](assets/914419aac259/1*-BzoaRNzesYXqowswNjqYw.jpeg)
+![Lesbos\. Photo Credit: Erik Marquardt](../assets/914419aac259/1*-BzoaRNzesYXqowswNjqYw.jpeg)
 
 Lesbos\. Photo Credit: Erik Marquardt
 #### FEATURED
@@ -24,14 +24,14 @@ More than 5\.000 people protested on Chios today against the violence from the r
 The local protesters tried to prevent authorities from bringing excavating machines from the mainland to build new detention camps on the Aegean islands of Lesvos and Chios, which caused a riot\. Roadblocks have been erected on the main road by cars of the Municipality of West Lesvos\. Also, reportedly, the protesters set fire to trash bins and used municipal garbage trucks to try and block off the port area\.
 
 
-![Lesbos\. Photo Credit: Erik Marquardt](assets/914419aac259/1*cmUP0ZuZfpJ4slX73MbykA.jpeg)
+![Lesbos\. Photo Credit: Erik Marquardt](../assets/914419aac259/1*cmUP0ZuZfpJ4slX73MbykA.jpeg)
 
 Lesbos\. Photo Credit: Erik Marquardt
 
 During Tuesday, police cordoned off areas around roadblocks set up over the past few days by demonstrators\. Police on Chios also used tear gas and flash grenades, so several people, including the mayor of Chios and the president of the Chios Clergy Association, ended up hospitalized\.
 
 
-![Lesbos\. Photo Credit: Erik Marquardt](assets/914419aac259/1*FH-d_VUlN-mdGGRVlrsohQ.jpeg)
+![Lesbos\. Photo Credit: Erik Marquardt](../assets/914419aac259/1*FH-d_VUlN-mdGGRVlrsohQ.jpeg)
 
 Lesbos\. Photo Credit: Erik Marquardt
 
@@ -42,13 +42,13 @@ Lesbos\. Photo Credit: Erik Marquardt
 
 
 
-![](assets/914419aac259/1*G6NY9PG4VcG-iFcBMjRTPA.jpeg)
+![](../assets/914419aac259/1*G6NY9PG4VcG-iFcBMjRTPA.jpeg)
 
 
 The Greek government spokesperson Petsas have been spreading words linking the Corona Virus to the concentration of refugees and migrants on the islands, so the latest official explanation for such a sped up and defensive action said that “proper health checks couldn’t be carried out at existing overcrowded camps”, so they had to hurry with the already announced construction of the new detention facilities that neither the locals want to host, nor the people want to stay there\.
 
 
-![Lesbos\. Photo Credit: Erik Marquardt](assets/914419aac259/1*3X_p5MmxNWfcAzRUyC4Kww.jpeg)
+![Lesbos\. Photo Credit: Erik Marquardt](../assets/914419aac259/1*3X_p5MmxNWfcAzRUyC4Kww.jpeg)
 
 Lesbos\. Photo Credit: Erik Marquardt
 
@@ -122,7 +122,7 @@ At 11\.20 am Sea Watch 3 received a mayday call on the radio\. The connection wa
 
 
 
-![](assets/914419aac259/0*SO7jkvC8dqgCrI9P)
+![](../assets/914419aac259/0*SO7jkvC8dqgCrI9P)
 
 
 The Sea Watch 3 is now heading north to bring the **194 people on board** to safety, but two other boats are in distress off the Libyan coast\.
@@ -168,7 +168,7 @@ Earlier in the morning, the [Afghanistan Migrants Advice & Support Org](https://
 [Refugees at Home](https://twitter.com/RefugeesAtHome/status/1232335165294288896/photo/1) , a UK based charity that connects people who have a spare room in their home with asylum seekers and refugees who need accommodation are in desperate need of an Oxford\-based host to help accommodate a young man for a month or two\.
 
 
-![@RefugeesAtHome](assets/914419aac259/1*L_x-6RXVX0BSgafS7Sa22Q.png)
+![@RefugeesAtHome](../assets/914419aac259/1*L_x-6RXVX0BSgafS7Sa22Q.png)
 
 @RefugeesAtHome
 ### Syria
@@ -187,11 +187,11 @@ The hospital provides on average 11,500 services on a monthly basis and its onco
 
 
 
-![](assets/914419aac259/1*Sdt5Lx98MK4GoiNLaKyBNA.jpeg)
+![](../assets/914419aac259/1*Sdt5Lx98MK4GoiNLaKyBNA.jpeg)
 
 
 
-![Photo Credit: [www\.sams\-usa\.ne](http://www.sams-usa.ne)](assets/914419aac259/1*uWwSMQdjANFRjy3o3v1oLg.jpeg)
+![Photo Credit: [www\.sams\-usa\.ne](http://www.sams-usa.ne)](../assets/914419aac259/1*uWwSMQdjANFRjy3o3v1oLg.jpeg)
 
 Photo Credit: [www\.sams\-usa\.ne](http://www.sams-usa.ne)
 

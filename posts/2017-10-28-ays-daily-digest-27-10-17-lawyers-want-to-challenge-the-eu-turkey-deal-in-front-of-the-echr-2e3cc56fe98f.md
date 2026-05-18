@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 27/10/17: Lawyers want to challenge the EU-Turkey deal in front of the ECHR
+title: "AYS Daily Digest 27/10/17: Lawyers want to challenge the EU-Turkey deal in front of the ECHR"
 author: Are You Syrious?
 date: 2017-10-28T01:24:09.911+0100
 last_modified_at: 2017-10-28T10:58:02.672+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,greece,lesvos,arrivals,italy]
 description: They argue that the judges should overturn the Greek court decision / Only one third of unaccompanied minors receives appropiate shelter /…
 image:
-  path: assets/2e3cc56fe98f/1*CKc1YPpg1mjlgKDATG-rOQ.jpeg
+  path: ../assets/2e3cc56fe98f/1*CKc1YPpg1mjlgKDATG-rOQ.jpeg
 ---
 
 ### AYS Daily Digest 27/10/17: Lawyers want to challenge the EU\-Turkey deal in front of the ECHR
@@ -15,7 +15,7 @@ image:
 _They argue that the judges should overturn the Greek court decision / Only one third of unaccompanied minors receives appropiate shelter / Arrivals still surpass transfers to mainland / Hungary terminates cooperation agreements with Helsinki Committee / Bad conditions in Northern France_
 
 
-![A result of the EU\-Turkey deal: the hotspots on the islands, here Vial on Chios\. Credits: [Ab\. Ali Darwish/RSA](https://twitter.com/rspaegean/status/923625324960722945)](assets/2e3cc56fe98f/1*CKc1YPpg1mjlgKDATG-rOQ.jpeg)
+![A result of the EU\-Turkey deal: the hotspots on the islands, here Vial on Chios\. Credits: [Ab\. Ali Darwish/RSA](https://twitter.com/rspaegean/status/923625324960722945)](../assets/2e3cc56fe98f/1*CKc1YPpg1mjlgKDATG-rOQ.jpeg)
 
 A result of the EU\-Turkey deal: the hotspots on the islands, here Vial on Chios\. Credits: [Ab\. Ali Darwish/RSA](https://twitter.com/rspaegean/status/923625324960722945)
 ### Feature: Lawyers want to challenge the EU\-Turkey deal in front of the ECHR
@@ -23,7 +23,7 @@ A result of the EU\-Turkey deal: the hotspots on the islands, here Vial on Chios
 As reported, the Council of State, the Supreme Administrative Court of Greece, ruled that Turkey can be considered a safe country for refugees\. The decision was far from unanimous, as twelve of the judges voted against this judgement — 13 voted in favour\. The [Mobile Info Team](https://www.mobileinfoteam.org/blog/2017/10/25/appeal-against-decision-that-turkey-is-a-safe-country-for-refugees-in-front-of-european-court?format=amp) reports that lawyers from different organisations now want to challenge this ruling before the European Court of Human Rights \(ECHR\) \. They also want to apply for interim measures for the currently 15 detained Syrians in the hotspots on the Eastern Aegean islands
 
 
-![Residents of the Vial hotspots on Chios\. Credits: [Giorgos Moutafis](https://www.facebook.com/photo.php?fbid=10214518078407167&set=pcb.10214518096127610&type=3&theater&ifg=1)](assets/2e3cc56fe98f/1*-RzmUVNVV6F_h9tCMbr73Q.jpeg)
+![Residents of the Vial hotspots on Chios\. Credits: [Giorgos Moutafis](https://www.facebook.com/photo.php?fbid=10214518078407167&set=pcb.10214518096127610&type=3&theater&ifg=1)](../assets/2e3cc56fe98f/1*-RzmUVNVV6F_h9tCMbr73Q.jpeg)
 
 Residents of the Vial hotspots on Chios\. Credits: [Giorgos Moutafis](https://www.facebook.com/photo.php?fbid=10214518078407167&set=pcb.10214518096127610&type=3&theater&ifg=1)
 
@@ -43,7 +43,7 @@ In a new [report](https://www.unicef.org/media/media_101396.html) , UNICEF warns
 Meanwhile, the arrivals on the islands remain higher than the transfers to the mainland\. Yesterday 122 people were registered on Lesvos, 18 on Samos, making a total of 140\. In October so far some 2,400 people were able to leave the islands — more than 3,600 were registered\.
 
 
-![The number of residents on the islands is still far over the capacities\. Credits: [City Plaza Squat](https://twitter.com/sol2refugees/status/923969230831345665)](assets/2e3cc56fe98f/1*NFx1PSTwGUoxVS63f-sPlA.jpeg)
+![The number of residents on the islands is still far over the capacities\. Credits: [City Plaza Squat](https://twitter.com/sol2refugees/status/923969230831345665)](../assets/2e3cc56fe98f/1*NFx1PSTwGUoxVS63f-sPlA.jpeg)
 
 The number of residents on the islands is still far over the capacities\. Credits: [City Plaza Squat](https://twitter.com/sol2refugees/status/923969230831345665)
 #### Lesvos
@@ -71,7 +71,7 @@ In Patras three people have been injured after they were stabbed by a group of a
 [Tempo24](http://tempo24.news/eidisi/150264/patra-kolympontas-proseggizoyn-ta-ploia-metanastes-to-kykloma-poy-lymainetai-tin) \(via [Keep Talking Greece](http://www.keeptalkinggreece.com/2017/10/27/patras-migrants-swim/#.WfMU0q9iHds.facebook) \), a Greek local media, additionally reports that recently people have been seen jumping into the sea, trying to swim to the ferry to Italy and then enter it by climbing the anchor chains or using the hanging ropes\. In the case reported by the media, a sailor forced them to swim back to the shore\.
 
 
-[![tempo24.gr ΠΑΤΡΑ - ΜΕΤΑΝΑΣΤΕΣ - ΘΑΛΑΣΣΑ - ΠΛΟΙΑ](assets/2e3cc56fe98f/3565_hqdefault.jpg "tempo24.gr ΠΑΤΡΑ - ΜΕΤΑΝΑΣΤΕΣ - ΘΑΛΑΣΣΑ - ΠΛΟΙΑ")](http://www.youtube.com/watch?v=S1Jpmln9veo)
+[![tempo24.gr ΠΑΤΡΑ - ΜΕΤΑΝΑΣΤΕΣ - ΘΑΛΑΣΣΑ - ΠΛΟΙΑ](../assets/2e3cc56fe98f/3565_hqdefault.jpg "tempo24.gr ΠΑΤΡΑ - ΜΕΤΑΝΑΣΤΕΣ - ΘΑΛΑΣΣΑ - ΠΛΟΙΑ")](http://www.youtube.com/watch?v=S1Jpmln9veo)
 
 #### Thessaloniki
 

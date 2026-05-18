@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 30/08/2018: Reception centre in Messina, Sicily, denounced for irregularities…
+title: "AYS Daily Digest 30/08/2018: Reception centre in Messina, Sicily, denounced for irregularities…"
 author: Are You Syrious?
 date: 2018-08-31T09:37:35.136+0100
 last_modified_at: 2018-08-31T16:30:48.611+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,human-rights,italy,solidarity]
 description: New report by UNHCR gives clear picture of arrivals in Europe / List of needs and donations in BiH / Event in Germany in support of the…
 image:
-  path: assets/40ea8fd8ff03/1*X5sWww7wIkxn_Cr9N-pnlQ.jpeg
+  path: ../assets/40ea8fd8ff03/1*X5sWww7wIkxn_Cr9N-pnlQ.jpeg
 ---
 
 ### AYS Daily Digest 30/08/2018: Reception centre in Messina, Sicily, denounced for irregularities, still hosts hundreds of people in dreadful conditions
@@ -15,7 +15,7 @@ image:
 _New report by UNHCR gives clear picture of arrivals in Europe / List of needs and donations in BiH / Event in Germany in support of the victims of Chemnitz attack / Proactiva Open Arms to start missions in the Alborán Sea in few weeks / Abuses against people on the move by police in Morocco / Tensions in Libya force 300 people to evacuate from detention centre / And more news…_
 
 
-![Rodos island, Greece\. August 27th, 2018\. A former slaughterhouse in the island of Rodos has been used as an informal refugee camp for two years\. Currently, 40 people live inside the makeshift camp, surviving under difficult conditions with the solidarity of local volunteers\. On the walls is written the phrase “open the borders” in English, Greek, Kurmanji, and Arabic\. \(Photo credit: Ellevoros As via Art Against\)](assets/40ea8fd8ff03/1*X5sWww7wIkxn_Cr9N-pnlQ.jpeg)
+![Rodos island, Greece\. August 27th, 2018\. A former slaughterhouse in the island of Rodos has been used as an informal refugee camp for two years\. Currently, 40 people live inside the makeshift camp, surviving under difficult conditions with the solidarity of local volunteers\. On the walls is written the phrase “open the borders” in English, Greek, Kurmanji, and Arabic\. \(Photo credit: Ellevoros As via Art Against\)](../assets/40ea8fd8ff03/1*X5sWww7wIkxn_Cr9N-pnlQ.jpeg)
 
 Rodos island, Greece\. August 27th, 2018\. A former slaughterhouse in the island of Rodos has been used as an informal refugee camp for two years\. Currently, 40 people live inside the makeshift camp, surviving under difficult conditions with the solidarity of local volunteers\. On the walls is written the phrase “open the borders” in English, Greek, Kurmanji, and Arabic\. \(Photo credit: Ellevoros As via Art Against\)
 ### **FEATURE**

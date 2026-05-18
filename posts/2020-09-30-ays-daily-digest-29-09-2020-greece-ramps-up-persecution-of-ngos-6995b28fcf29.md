@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,greece,human-rights]
 description: Illegal Pushbacks in Cyprus///Mob Violence near Velika Kladuša Against People on the Move///Judge Stops Housing Discrimination in…
 image:
-  path: assets/6995b28fcf29/0*aqbGSM8jEWZutRje
+  path: ../assets/6995b28fcf29/0*aqbGSM8jEWZutRje
 ---
 
 ### AYS Daily Digest 29/09/2020 — Greece Ramps Up Persecution of NGOs
 ### Illegal Pushbacks in Cyprus///Mob Violence near Velika Kladuša Against People on the Move///Judge Stops Housing Discrimination in Trento///&More
 
 
-![](assets/6995b28fcf29/0*LIgeDTm_UAFT0CPy.jpeg)
+![](../assets/6995b28fcf29/0*LIgeDTm_UAFT0CPy.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----6d7e08015a6e--------------------------------)
@@ -22,7 +22,7 @@ image:
 [Sep 30](ays-daily-digest-29-09-2020-greece-ramps-up-persecution-of-ngos-6d7e08015a6e?source=post_page-----6d7e08015a6e--------------------------------) · 10 min read
 
 
-![](assets/6995b28fcf29/0*aqbGSM8jEWZutRje)
+![](../assets/6995b28fcf29/0*aqbGSM8jEWZutRje)
 
 
 FEATURE
@@ -80,11 +80,11 @@ All over Europe, people are expressing their solidarity with Pikpa camp, which t
 Pro Asyl and RSA [published a statement](https://www.proasyl.de/news/schliessung-von-pikpa-griechenland-will-elendscamps-alternativlos-machen/?fbclid=IwAR1OQBBmvhP4uQu60asKx4hRaaavuapOAiMUFp5UxD1gElWzHXzN9q6HwLw) calling for the defense of the last humane accomodation on Lesvos and warning about the consequences if everyone is funneled into Moria 2\.0\.
 
 
-![](assets/6995b28fcf29/0*dog3eUXqrCm05nm4)
+![](../assets/6995b28fcf29/0*dog3eUXqrCm05nm4)
 
 
 
-![](assets/6995b28fcf29/0*K53rfSCr8_advgv2)
+![](../assets/6995b28fcf29/0*K53rfSCr8_advgv2)
 
 ### BALKANS
 ### Mob Violence Near Velika Kladuša
@@ -138,11 +138,11 @@ It was recently revealed that the UK Home Secretary Priti Patel asked officials 
 Immigration minister Chris Phelps claimed in parliament that the UK cannot take any more unaccompanied minors as the country is at a “ [breaking point,](https://www.independent.co.uk/news/uk/politics/refugee-children-migrant-crisis-greece-europe-breaking-point-uk-b692154.html?fbclid=IwAR0iUsm4AGZ2Ng6BDnDUcGGQmByPNYIylPgBhcbZ2yHRIzueUW-leBKgloA) ” rhetoric that dangerously echoes Nigel Farage\. He claimed that the UK has the most unaccompanied minors of any European country, which is blatantly untrue\. Not only does the UK refuse to accept more children, it denies basic rights to unaccompanied minors in its “care,” such as the right to be [reunited with their families](https://www.amnesty.org.uk/actions/families-together?fbclid=IwAR3PRTEUHiMfmbIucc1ivLpdoLq48JNc1WfC_BJ1Wrh87xiInTENTRpz4WY) \. Phelps justified the opposition to family reunification by claiming the policy is an incentive for smugglers\.
 
 
-![](assets/6995b28fcf29/0*DLpwTweYCJBwVtMs)
+![](../assets/6995b28fcf29/0*DLpwTweYCJBwVtMs)
 
 
 
-![](assets/6995b28fcf29/0*wodgq0-IeXtywjFB)
+![](../assets/6995b28fcf29/0*wodgq0-IeXtywjFB)
 
 ### IRELAND
 ### \#400Welcomes Wants to Help People Find New Homes in Ireland

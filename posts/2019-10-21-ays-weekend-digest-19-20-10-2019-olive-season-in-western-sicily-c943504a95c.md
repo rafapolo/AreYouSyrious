@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 19–20/10/2019: Olive season in Western Sicily.
+title: "AYS Weekend Digest 19–20/10/2019: Olive season in Western Sicily."
 author: Are You Syrious?
 date: 2019-10-21T10:23:55.315+0100
 last_modified_at: 2019-10-21T11:05:34.830+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,exploitation,migrant-workers,nello-scavo]
 description: Protests in Libyan detention centre Abu Selim /// Updates from camps around Greece /// Aita Mari ready to sail back to the Aegean ///…
 image:
-  path: assets/c943504a95c/1*WUFNDgrLFl1mX44p1F29sQ.jpeg
+  path: ../assets/c943504a95c/1*WUFNDgrLFl1mX44p1F29sQ.jpeg
 ---
 
 ### AYS Weekend Digest 19–20/10/2019: Olive season in Western Sicily — slavery and ghettoes promoted by local institutions
@@ -15,13 +15,13 @@ image:
 Protests in Libyan detention centre Abu Selim /// Updates from camps around Greece /// Aita Mari ready to sail back to the Aegean /// Vucjak camp at a breaking point /// Journalist who investigated human trafficker known as Bija has been put under protection in Italy /// New report published “children in migration”
 
 
-![Moria camp, Lesvos, October 2018 — _Winter is coming and the children of some lower God will suffer_ \(Photo by [Nasim Lomani](https://www.facebook.com/photo.php?fbid=10157584419762497&set=a.10151529381012497&type=3&theater) \)](assets/c943504a95c/1*WUFNDgrLFl1mX44p1F29sQ.jpeg)
+![Moria camp, Lesvos, October 2018 — _Winter is coming and the children of some lower God will suffer_ \(Photo by [Nasim Lomani](https://www.facebook.com/photo.php?fbid=10157584419762497&set=a.10151529381012497&type=3&theater) \)](../assets/c943504a95c/1*WUFNDgrLFl1mX44p1F29sQ.jpeg)
 
 Moria camp, Lesvos, October 2018 — _Winter is coming and the children of some lower God will suffer_ \(Photo by [Nasim Lomani](https://www.facebook.com/photo.php?fbid=10157584419762497&set=a.10151529381012497&type=3&theater) \)
 #### Feature story — Olive season in Western Sicily: slavery and ghettoes promoted by local institutions
 
 
-![Ex\-cement factory in the outskirts of Campobello, western Sicily, 2019 \(Foto by [Alberto Biondo, Borderline Sicilia](https://www.borderlinesicilia.org/campobello-2019-una-nuova-raccolta-di-olive-allinsegna-dello-sfruttamento/?fbclid=IwAR0CgvloMDJ4ohuU8yATtQvYp5Yh9s0R8tDmzM7QXKSfBTgb1MZgn14jAFw) \)](assets/c943504a95c/1*Edkk-jeCP8Z1QfJZ3phTLQ.jpeg)
+![Ex\-cement factory in the outskirts of Campobello, western Sicily, 2019 \(Foto by [Alberto Biondo, Borderline Sicilia](https://www.borderlinesicilia.org/campobello-2019-una-nuova-raccolta-di-olive-allinsegna-dello-sfruttamento/?fbclid=IwAR0CgvloMDJ4ohuU8yATtQvYp5Yh9s0R8tDmzM7QXKSfBTgb1MZgn14jAFw) \)](../assets/c943504a95c/1*Edkk-jeCP8Z1QfJZ3phTLQ.jpeg)
 
 Ex\-cement factory in the outskirts of Campobello, western Sicily, 2019 \(Foto by [Alberto Biondo, Borderline Sicilia](https://www.borderlinesicilia.org/campobello-2019-una-nuova-raccolta-di-olive-allinsegna-dello-sfruttamento/?fbclid=IwAR0CgvloMDJ4ohuU8yATtQvYp5Yh9s0R8tDmzM7QXKSfBTgb1MZgn14jAFw) \)
 
@@ -37,7 +37,7 @@ Borderline Sicilia [report](https://www.borderlinesicilia.org/campobello-2019-un
 The exploitation of migrant workers during the olive harvest is not new, it has been going on for 25 years\. For a time, until three years ago, local associations — led by Libera, the national anti\-mafia association — had stepped up, and organised a camp to host workers\. Living conditions were still below standard, but the dynamics were more solidarity\-based\. In the last few years, however, local institutions have excluded the associations, and in 2019 they presented a plan developed by a technical task\-force which negotiated with land\-owners and unions\. Associations have so far failed to propose and foster an alternative to the widespread exploitation of workers, but institutions are not doing any better\.
 
 
-![Associations\-run camp, western Sicily, 2017 \(foto by [Alberto Biondo, Borderline Sicilia](https://www.borderlinesicilia.org/i-nuovi-schiavi/) \)](assets/c943504a95c/1*WJoaE2oIp7-oYYDffLeQeQ.jpeg)
+![Associations\-run camp, western Sicily, 2017 \(foto by [Alberto Biondo, Borderline Sicilia](https://www.borderlinesicilia.org/i-nuovi-schiavi/) \)](../assets/c943504a95c/1*WJoaE2oIp7-oYYDffLeQeQ.jpeg)
 
 Associations\-run camp, western Sicily, 2017 \(foto by [Alberto Biondo, Borderline Sicilia](https://www.borderlinesicilia.org/i-nuovi-schiavi/) \)
 
@@ -46,7 +46,7 @@ A camp was built, only for documented people, with a capacity of 240 beds\. Mana
 The actions of the task\-force were aimed to empty makeshift camps, and ghettoes, but the ex\-cement factory in Campobello, which has been used as a shelter for years, still hosts 600 people, documented and undocumented\. As Borderline Sicilia report, it is riddled with safety and hygiene issues\. A group of women forced into prostitution live and work there, water and access to huts is expensive and controlled by criminal groups, the sewage is open and runs next to the building, the building is full of asbestos, etc\.
 
 
-![ex\-Cement Factory, Campobello, 2019 \(foto by [Alberto Biondo, Borderline Sicilia](https://www.borderlinesicilia.org/campobello-2019-una-nuova-raccolta-di-olive-allinsegna-dello-sfruttamento/?fbclid=IwAR0CgvloMDJ4ohuU8yATtQvYp5Yh9s0R8tDmzM7QXKSfBTgb1MZgn14jAFw) \)](assets/c943504a95c/1*Edkk-jeCP8Z1QfJZ3phTLQ.jpeg)
+![ex\-Cement Factory, Campobello, 2019 \(foto by [Alberto Biondo, Borderline Sicilia](https://www.borderlinesicilia.org/campobello-2019-una-nuova-raccolta-di-olive-allinsegna-dello-sfruttamento/?fbclid=IwAR0CgvloMDJ4ohuU8yATtQvYp5Yh9s0R8tDmzM7QXKSfBTgb1MZgn14jAFw) \)](../assets/c943504a95c/1*Edkk-jeCP8Z1QfJZ3phTLQ.jpeg)
 
 ex\-Cement Factory, Campobello, 2019 \(foto by [Alberto Biondo, Borderline Sicilia](https://www.borderlinesicilia.org/campobello-2019-una-nuova-raccolta-di-olive-allinsegna-dello-sfruttamento/?fbclid=IwAR0CgvloMDJ4ohuU8yATtQvYp5Yh9s0R8tDmzM7QXKSfBTgb1MZgn14jAFw) \)
 
@@ -73,11 +73,11 @@ Listos para zarpar hacia el #Egeo #AitaMari
 #### Arrivals
 
 
-![](assets/c943504a95c/1*alpShm6Bf_vsvOzDCAlqjQ.jpeg)
+![](../assets/c943504a95c/1*alpShm6Bf_vsvOzDCAlqjQ.jpeg)
 
 
 
-![\(Photo Credit: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/674326593090448?hc_location=ufi) \)](assets/c943504a95c/1*UnZN3k4IEyUL1lZPYKGWhg.jpeg)
+![\(Photo Credit: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/674326593090448?hc_location=ufi) \)](../assets/c943504a95c/1*UnZN3k4IEyUL1lZPYKGWhg.jpeg)
 
 \(Photo Credit: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/674326593090448?hc_location=ufi) \)
 
@@ -90,41 +90,41 @@ It is [reported](https://twitter.com/BrunoTersago/status/1185929901712596992?fbc
 There are now 14,000 people present in the camp and conditions are worsening in the build up to winter while arrivals still far outstrip transfers\.
 
 
-![](assets/c943504a95c/1*kMV1f9KZfsPuqbI3qJ3mLQ.jpeg)
+![](../assets/c943504a95c/1*kMV1f9KZfsPuqbI3qJ3mLQ.jpeg)
 
 
 
-![](assets/c943504a95c/1*AP3xaSl7WPIZl8jD2tTm2Q.jpeg)
+![](../assets/c943504a95c/1*AP3xaSl7WPIZl8jD2tTm2Q.jpeg)
 
 
 
-![](assets/c943504a95c/1*U_S0J1xTLV2SGe56c7dSTg.jpeg)
+![](../assets/c943504a95c/1*U_S0J1xTLV2SGe56c7dSTg.jpeg)
 
 
 
-![](assets/c943504a95c/1*Y0Lc_kRlgTTRpJEQnmD85w.jpeg)
+![](../assets/c943504a95c/1*Y0Lc_kRlgTTRpJEQnmD85w.jpeg)
 
 
 
-![\(Photo Credit: [Miguel Urban Crespo](https://twitter.com/MiguelUrban/status/1185579670483460096?fbclid=IwAR0ARMC_R9XSdYYuVZRBFs3zawdyivNC_-72HJmiBRZjPdO23BoY3CLedUM) \)](assets/c943504a95c/1*Hpq0-q6NXTpuqpgue1HfRA.jpeg)
+![\(Photo Credit: [Miguel Urban Crespo](https://twitter.com/MiguelUrban/status/1185579670483460096?fbclid=IwAR0ARMC_R9XSdYYuVZRBFs3zawdyivNC_-72HJmiBRZjPdO23BoY3CLedUM) \)](../assets/c943504a95c/1*Hpq0-q6NXTpuqpgue1HfRA.jpeg)
 
 \(Photo Credit: [Miguel Urban Crespo](https://twitter.com/MiguelUrban/status/1185579670483460096?fbclid=IwAR0ARMC_R9XSdYYuVZRBFs3zawdyivNC_-72HJmiBRZjPdO23BoY3CLedUM) \)
 #### Update from Korinthos
 
 
-![](assets/c943504a95c/1*1umHX6f8yaGtGGitn4caDQ.jpeg)
+![](../assets/c943504a95c/1*1umHX6f8yaGtGGitn4caDQ.jpeg)
 
 
 
-![](assets/c943504a95c/1*_vdK0QIaMj0fVFN2iz5rhQ.jpeg)
+![](../assets/c943504a95c/1*_vdK0QIaMj0fVFN2iz5rhQ.jpeg)
 
 
 
-![](assets/c943504a95c/1*NHn8zUXN5spMdiobTo7jPQ.jpeg)
+![](../assets/c943504a95c/1*NHn8zUXN5spMdiobTo7jPQ.jpeg)
 
 
 
-![\(Photo Credit: [Chrisa Douzeni](https://www.facebook.com/photo.php?fbid=10219788231038229&set=pcb.10219788443883550&type=3&theater) \)](assets/c943504a95c/1*nY369aMcF7708Wo6m6NvKg.jpeg)
+![\(Photo Credit: [Chrisa Douzeni](https://www.facebook.com/photo.php?fbid=10219788231038229&set=pcb.10219788443883550&type=3&theater) \)](../assets/c943504a95c/1*nY369aMcF7708Wo6m6NvKg.jpeg)
 
 \(Photo Credit: [Chrisa Douzeni](https://www.facebook.com/photo.php?fbid=10219788231038229&set=pcb.10219788443883550&type=3&theater) \)
 
@@ -159,7 +159,7 @@ There is also no medical presence, putting at risk people with health problems, 
 #### Update from Patras
 
 
-![\(Photo Credit: [No Name Kitchen](https://www.facebook.com/nobordersnetwork/posts/2545386755529201?hc_location=ufi) \)](assets/c943504a95c/1*tiKLnmJtECuBgdcgNgDPKg.jpeg)
+![\(Photo Credit: [No Name Kitchen](https://www.facebook.com/nobordersnetwork/posts/2545386755529201?hc_location=ufi) \)](../assets/c943504a95c/1*tiKLnmJtECuBgdcgNgDPKg.jpeg)
 
 \(Photo Credit: [No Name Kitchen](https://www.facebook.com/nobordersnetwork/posts/2545386755529201?hc_location=ufi) \)
 
@@ -172,28 +172,28 @@ There is also no medical presence, putting at risk people with health problems, 
 [Volunteers continue](https://www.facebook.com/permalink.php?story_fbid=116644359751536&id=108916427190996&hc_location=ufi) to provide food and blankets as more people arrive and street homelessness increases\.
 
 
-![](assets/c943504a95c/1*rht7HXwhOkLlcIPtoQq7jA.jpeg)
+![](../assets/c943504a95c/1*rht7HXwhOkLlcIPtoQq7jA.jpeg)
 
 
 
-![](assets/c943504a95c/1*1niQN_suNd9KodkfrhSBtA.jpeg)
+![](../assets/c943504a95c/1*1niQN_suNd9KodkfrhSBtA.jpeg)
 
 
 
-![\(Photo Credit: [Tuzlanski volonteri](https://www.facebook.com/permalink.php?story_fbid=116644359751536&id=108916427190996&hc_location=ufi) \)](assets/c943504a95c/1*rBPBHk6wj6Gt9vgmX7xArg.jpeg)
+![\(Photo Credit: [Tuzlanski volonteri](https://www.facebook.com/permalink.php?story_fbid=116644359751536&id=108916427190996&hc_location=ufi) \)](../assets/c943504a95c/1*rBPBHk6wj6Gt9vgmX7xArg.jpeg)
 
 \(Photo Credit: [Tuzlanski volonteri](https://www.facebook.com/permalink.php?story_fbid=116644359751536&id=108916427190996&hc_location=ufi) \)
 
 
-![](assets/c943504a95c/1*_dBTCSGM88hqOn85V5031Q.jpeg)
+![](../assets/c943504a95c/1*_dBTCSGM88hqOn85V5031Q.jpeg)
 
 
 
-![](assets/c943504a95c/1*C3TIKMljKr8MGq63HCX8uQ.jpeg)
+![](../assets/c943504a95c/1*C3TIKMljKr8MGq63HCX8uQ.jpeg)
 
 
 
-![\(Photo Credit: [Help to Refugees in Bosnia and Herzegovina](https://www.facebook.com/groups/144469886266984/permalink/431719270875376/?hc_location=ufi) \)](assets/c943504a95c/1*jdTjVMzFt1u_ApxYqUm8gA.jpeg)
+![\(Photo Credit: [Help to Refugees in Bosnia and Herzegovina](https://www.facebook.com/groups/144469886266984/permalink/431719270875376/?hc_location=ufi) \)](../assets/c943504a95c/1*jdTjVMzFt1u_ApxYqUm8gA.jpeg)
 
 \(Photo Credit: [Help to Refugees in Bosnia and Herzegovina](https://www.facebook.com/groups/144469886266984/permalink/431719270875376/?hc_location=ufi) \)
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 05–06/9/20: The Mare Liberum must not be silenced!
+title: "AYS Weekend Digest 05–06/9/20: The Mare Liberum must not be silenced!"
 author: Are You Syrious?
 date: 2020-09-07T09:03:26.098+0100
 last_modified_at: 2020-09-07T10:22:44.708+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,europe,refugees,migrants,migration]
 description: Video of illegal pushback from Croatia // Far-right anti-migrant protests in the UK // Death of three children in Syrian refugee camp //…
 image:
-  path: assets/9d7afa9ac927/1*8sS9y98_NveZ5FH2TXeivg.jpeg
+  path: ../assets/9d7afa9ac927/1*8sS9y98_NveZ5FH2TXeivg.jpeg
 ---
 
 ### AYS Weekend Digest 05–06/9/20: The Mare Liberum must not be silenced\!
@@ -15,7 +15,7 @@ image:
 Video of illegal pushback from Croatia // Far\-right anti\-migrant protests in the UK // Death of three children in Syrian refugee camp // Transfer of 800 people from overcrowded Italian refugee centres // Two new coronavirus cases in Moria
 
 
-![The Mare Liberum \(Photo Credit: [https://mare\-liberum\.org/en/mare\-liberum/](https://mare-liberum.org/en/mare-liberum/) \)](assets/9d7afa9ac927/1*8sS9y98_NveZ5FH2TXeivg.jpeg)
+![The Mare Liberum \(Photo Credit: [https://mare\-liberum\.org/en/mare\-liberum/](https://mare-liberum.org/en/mare-liberum/) \)](../assets/9d7afa9ac927/1*8sS9y98_NveZ5FH2TXeivg.jpeg)
 
 The Mare Liberum \(Photo Credit: [https://mare\-liberum\.org/en/mare\-liberum/](https://mare-liberum.org/en/mare-liberum/) \)
 ### Feature
@@ -185,16 +185,16 @@ Some have said the new location will be nothing but “an open\-air prison” fo
 On Saturday, the Italian government transferred an estimated 800 migrants to a ferry from a facility on the small island of Lampedusa\. Although it’s reported that the aim of this move is to relieve some of the severe overcrowding at the centre, the centre still remains hugely overcrowded as it currently houses 500 people despite being designed for a maximum of 200\.
 
 
-[![800 migrants removed from overcrowded asylum centre on island of Lampedusa](assets/9d7afa9ac927/b27a_hqdefault.jpg "800 migrants removed from overcrowded asylum centre on island of Lampedusa")](https://www.youtube.com/watch?v=hhWfySCyrhU)
+[![800 migrants removed from overcrowded asylum centre on island of Lampedusa](../assets/9d7afa9ac927/b27a_hqdefault.jpg "800 migrants removed from overcrowded asylum centre on island of Lampedusa")](https://www.youtube.com/watch?v=hhWfySCyrhU)
 
 ### Greece
 
 
-![](assets/9d7afa9ac927/1*TvFeTXVZXwqTzqsqPIgVog.jpeg)
+![](../assets/9d7afa9ac927/1*TvFeTXVZXwqTzqsqPIgVog.jpeg)
 
 
 
-![](assets/9d7afa9ac927/1*NRXhfWQ3JOuCvEN3dY8i4g.jpeg)
+![](../assets/9d7afa9ac927/1*NRXhfWQ3JOuCvEN3dY8i4g.jpeg)
 
 
 [No Name Kitchen have shared](https://www.facebook.com/NoNameKitchenBelgrade/posts/1066073537124263) how in recent weeks testimonies have emerged from Patras of inhuman and degrading treatment inflicted by the police and private security forces operating in the port area\.

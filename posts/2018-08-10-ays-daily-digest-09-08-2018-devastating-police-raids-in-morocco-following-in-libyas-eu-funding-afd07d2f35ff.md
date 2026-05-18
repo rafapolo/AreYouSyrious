@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,morocco,drowning,hungary,european-union]
 description: Russia’s plans to return Syrians / Drowning off Turkish coast / Open Arms allowed to disembark in Spain / Volunteer oppression in Bosnia…
 image:
-  path: assets/afd07d2f35ff/1*foRMWToLK5A61k60Wz-kwQ.jpeg
+  path: ../assets/afd07d2f35ff/1*foRMWToLK5A61k60Wz-kwQ.jpeg
 ---
 
 ### AYS Daily Digest 09/08/2018 Devastating police raids in Morocco, following in Libya’s EU funding footsteps?
@@ -17,7 +17,7 @@ _Russia’s plans to return Syrians / Drowning off Turkish coast / Open Arms all
 
 ![Photo by [Gabriel Tizon](https://www.facebook.com/gabrieltizonfotografo/photos/a.213760148669815.51627.213743695338127/1845117385534075/?type=3&theater&ifg=1) 
 “Why do you want me to take a picture of you?”
-“To exist\.”](assets/afd07d2f35ff/1*foRMWToLK5A61k60Wz-kwQ.jpeg)
+“To exist\.”](../assets/afd07d2f35ff/1*foRMWToLK5A61k60Wz-kwQ.jpeg)
 
 Photo by [Gabriel Tizon](https://www.facebook.com/gabrieltizonfotografo/photos/a.213760148669815.51627.213743695338127/1845117385534075/?type=3&theater&ifg=1) 
 “Why do you want me to take a picture of you?”
@@ -27,15 +27,15 @@ Photo by [Gabriel Tizon](https://www.facebook.com/gabrieltizonfotografo/photos/a
 We received information of several devastating police raids which happened on Thursday in both Tangier and Nador\.
 
 
-![](assets/afd07d2f35ff/1*TIg43HAX4t43-_tH3pQsNQ.jpeg)
+![](../assets/afd07d2f35ff/1*TIg43HAX4t43-_tH3pQsNQ.jpeg)
 
 
 
-![](assets/afd07d2f35ff/1*Ts4RyH4ry8kkij9DpvX3ew.jpeg)
+![](../assets/afd07d2f35ff/1*Ts4RyH4ry8kkij9DpvX3ew.jpeg)
 
 
 
-![Early morning police raids in Tangier\. \(Photo by [Association Marocaine des Droits Humains \-Section Nador](https://www.facebook.com/AmdhNador/posts/2157626354449628) \)](assets/afd07d2f35ff/1*ruCVUZzNFJbaM8CfrDMODw.jpeg)
+![Early morning police raids in Tangier\. \(Photo by [Association Marocaine des Droits Humains \-Section Nador](https://www.facebook.com/AmdhNador/posts/2157626354449628) \)](../assets/afd07d2f35ff/1*ruCVUZzNFJbaM8CfrDMODw.jpeg)
 
 Early morning police raids in Tangier\. \(Photo by [Association Marocaine des Droits Humains \-Section Nador](https://www.facebook.com/AmdhNador/posts/2157626354449628) \)
 
@@ -51,7 +51,7 @@ In Tangier, [over 500 people](https://www.facebook.com/AmdhNador/posts/215748701
 In Nador, police attacked [people’s houses](https://www.facebook.com/AmdhNador/posts/2157701684442095) , stole money and other personal belongings, and forced them onto buses\. There is no possibility to file a [complaint against this repression](https://www.facebook.com/AmdhNador/posts/2157632841115646?hc_location=ufi) \. They have no way to get their [money back](https://www.facebook.com/AmdhNador/posts/2157632841115646?hc_location=ufi) \.
 
 
-![In Nador\. \(Photo by [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/posts/2157701684442095) \)](assets/afd07d2f35ff/1*XtILV5MGmoQMFV-euXCP1w.jpeg)
+![In Nador\. \(Photo by [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/posts/2157701684442095) \)](../assets/afd07d2f35ff/1*XtILV5MGmoQMFV-euXCP1w.jpeg)
 
 In Nador\. \(Photo by [Association Marocaine des Droits Humains — Section Nador](https://www.facebook.com/AmdhNador/posts/2157701684442095) \)
 
@@ -73,7 +73,7 @@ As AYS reported a week ago, the ongoing talks between Russia, Jordan, and Turkey
 [Proactiva Open Arms](https://twitter.com/NikoCastellano/status/1027423738474782721) was finally able to disembark in Algeciras with the 87 people rescued last week from Libyan waters\! \! \! Later during the afternoon, [another](https://twitter.com/NikoCastellano/status/1027583303082229771) 83 people were taken to the port, this time by Salvamento Marítimo’s [vessel‏](https://twitter.com/salvamentogob) \. Of those rescued, many were accompanied minors, [Nicolas Castellano](https://twitter.com/NikoCastellano) wrote on Twitter\.
 
 
-![“This is Murtada, from Sudan” \(Photo provided by [Proactiva Open Arms](https://twitter.com/openarms_fund/status/1027595328567078917) \)](assets/afd07d2f35ff/1*_eUl7enalW1MNRd9xfKdiw.jpeg)
+![“This is Murtada, from Sudan” \(Photo provided by [Proactiva Open Arms](https://twitter.com/openarms_fund/status/1027595328567078917) \)](../assets/afd07d2f35ff/1*_eUl7enalW1MNRd9xfKdiw.jpeg)
 
 “This is Murtada, from Sudan” \(Photo provided by [Proactiva Open Arms](https://twitter.com/openarms_fund/status/1027595328567078917) \)
 
@@ -139,7 +139,7 @@ New, in\-depth reporting reveals that modern slavery and sexual exploitation are
 Find the article in full and read more [here](http://www.infomigrants.net/en/post/11169/harassment-and-rape-migrant-women-abused-in-european-fields) \.
 
 
-![Women in Foggia, Italy, face similar conditions as those in the south of Spain\. \(Photo retrieved from [Info Migrants](http://www.infomigrants.net/en/post/11169/harassment-and-rape-migrant-women-abused-in-european-fields) \)](assets/afd07d2f35ff/1*1kPVE4FAtvfLXq6VSyCkng.jpeg)
+![Women in Foggia, Italy, face similar conditions as those in the south of Spain\. \(Photo retrieved from [Info Migrants](http://www.infomigrants.net/en/post/11169/harassment-and-rape-migrant-women-abused-in-european-fields) \)](../assets/afd07d2f35ff/1*1kPVE4FAtvfLXq6VSyCkng.jpeg)
 
 Women in Foggia, Italy, face similar conditions as those in the south of Spain\. \(Photo retrieved from [Info Migrants](http://www.infomigrants.net/en/post/11169/harassment-and-rape-migrant-women-abused-in-european-fields) \)
 ### **BOSNIA & HERZEGOVINA**
@@ -168,11 +168,11 @@ Volunteers in Sarajevo sent us this update:
 If you are going to volunteer in Bosnia, please make sure you know what are the rules and regulations and for how long you can stay legally in the country\.
 
 
-![](assets/afd07d2f35ff/1*PaFqoq_eq9v8_54n0zj7Jw.jpeg)
+![](../assets/afd07d2f35ff/1*PaFqoq_eq9v8_54n0zj7Jw.jpeg)
 
 
 
-![AYS photos of police checking volunteers\.](assets/afd07d2f35ff/1*U_8Pa7DBo0XlNJkCcWSdiw.jpeg)
+![AYS photos of police checking volunteers\.](../assets/afd07d2f35ff/1*U_8Pa7DBo0XlNJkCcWSdiw.jpeg)
 
 AYS photos of police checking volunteers\.
 ### **HUNGARY**
@@ -185,7 +185,7 @@ The Hungarian Helsinki Committee is still helping refugees\. Contact them [here]
 Protests were held on Thursday in Vienna against criminalizing sea rescue\. Over 500 people showed up against racism\.
 
 
-![Photo by [autonome antifa w](https://www.facebook.com/autonome.antifa.w/photos/a.1495436407358379.1073741831.1416326288602725/2195078447394168/?type=3&theater) \.](assets/afd07d2f35ff/1*7Gc7UlChMVG-OXoK1YKZFA.jpeg)
+![Photo by [autonome antifa w](https://www.facebook.com/autonome.antifa.w/photos/a.1495436407358379.1073741831.1416326288602725/2195078447394168/?type=3&theater) \.](../assets/afd07d2f35ff/1*7Gc7UlChMVG-OXoK1YKZFA.jpeg)
 
 Photo by [autonome antifa w](https://www.facebook.com/autonome.antifa.w/photos/a.1495436407358379.1073741831.1416326288602725/2195078447394168/?type=3&theater) \.
 

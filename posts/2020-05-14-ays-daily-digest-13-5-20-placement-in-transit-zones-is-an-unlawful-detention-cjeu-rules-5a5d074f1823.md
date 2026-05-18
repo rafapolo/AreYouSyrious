@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 13/5/20: Placement in transit zones is an unlawful detention, CJEU rules
+title: "AYS Daily Digest 13/5/20: Placement in transit zones is an unlawful detention, CJEU rules"
 author: Are You Syrious?
 date: 2020-05-14T13:41:11.973+0100
 last_modified_at: 2020-05-14T15:02:51.991+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [human-rights,refugees,hungary,portugal,digest]
 description: MSF reports on the tragic attack at a maternity ward of a hospital in Kabul / The misleading UK excauses for not taking responsibility for…
 image:
-  path: assets/5a5d074f1823/0*u05SkmEFBtHOs8Qa
+  path: ../assets/5a5d074f1823/0*u05SkmEFBtHOs8Qa
 ---
 
 ### AYS Daily Digest 13/5/20: Placement in transit zones is an unlawful detention, CJEU rules
 #### MSF reports on the tragic attack at a maternity ward of a hospital in Kabul / The misleading UK excuses for not taking responsibility for UASCs from Greece / Portugal to take in 500 unaccompanied minors from Greece—children of immigrants living in Portugal for one year will be registered as Portuguese / & more news
 
 
-![Photo via [Facebook user](http://Lagkadikia Camqu Hama)](assets/5a5d074f1823/0*u05SkmEFBtHOs8Qa)
+![Photo via [Facebook user](http://Lagkadikia Camqu Hama)](../assets/5a5d074f1823/0*u05SkmEFBtHOs8Qa)
 
 Photo via [Facebook user](http://Lagkadikia Camqu Hama)
 #### FEATURED
@@ -125,23 +125,23 @@ According to the locals and the local media, the living conditions are one of th
 The Ministry of Migration and Asylum published their April 2020 newsletter, with data on immigration flows, the total number of people staying at the Reception and Identification Centers \(RIC\), transportation to the mainland, and data related to the examination of asylum applications and appeals\.
 
 
-![](assets/5a5d074f1823/1*QqWy5D7PYZXCDLMEDnixUQ.jpeg)
+![](../assets/5a5d074f1823/1*QqWy5D7PYZXCDLMEDnixUQ.jpeg)
 
 
 
-![](assets/5a5d074f1823/1*uLLxb75Q9KXXvZsiUwYcug.jpeg)
+![](../assets/5a5d074f1823/1*uLLxb75Q9KXXvZsiUwYcug.jpeg)
 
 
 
-![](assets/5a5d074f1823/1*HQxL9_khL8UGokNczrvApQ.jpeg)
+![](../assets/5a5d074f1823/1*HQxL9_khL8UGokNczrvApQ.jpeg)
 
 
 
-![](assets/5a5d074f1823/1*ZJXMlWeVtYi_E344hLNGtg.jpeg)
+![](../assets/5a5d074f1823/1*ZJXMlWeVtYi_E344hLNGtg.jpeg)
 
 
 
-![via [Migration Greece Info](https://www.facebook.com/migrationgovgr.info/?tn-str=k%2AF&hc_location=group_dialog)](assets/5a5d074f1823/1*bZsAH3Sez-23xBqCcRbFog.jpeg)
+![via [Migration Greece Info](https://www.facebook.com/migrationgovgr.info/?tn-str=k%2AF&hc_location=group_dialog)](../assets/5a5d074f1823/1*bZsAH3Sez-23xBqCcRbFog.jpeg)
 
 via [Migration Greece Info](https://www.facebook.com/migrationgovgr.info/?tn-str=k%2AF&hc_location=group_dialog)
 #### BOSNIA AND HERZEGOVINA
@@ -149,7 +149,7 @@ via [Migration Greece Info](https://www.facebook.com/migrationgovgr.info/?tn-str
 In Bihać, those who managed to leave the Lipa camp and attempt to continue on their journey, are apparently being stopped by the Bosnian police who now hold them inside spaces such as the one shown on the picture sent to a Bosnian volunteer who reports having received several similar messages saying those caught outside official camps were detained \(with no information, food, water or other basic necessities\) inside such places and later taken to the Lipa tent campsite outside the city of Bihać\. There are so far no official comments on this report of more torture practices inside the limbo of the Bosnian\-Croatian border area and nearby towns\.
 
 
-![](assets/5a5d074f1823/0*6aWSLYXqdQ1Byjo_)
+![](../assets/5a5d074f1823/0*6aWSLYXqdQ1Byjo_)
 
 #### FRANCE
 ### The final decision of the Appeal Court of Lyon is to acquit Cédric Herrou

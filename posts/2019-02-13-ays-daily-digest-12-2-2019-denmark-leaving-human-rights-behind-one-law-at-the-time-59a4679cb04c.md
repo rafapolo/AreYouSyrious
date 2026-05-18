@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 12/2/2019 — Denmark: leaving human rights behind, one law at the time
+title: "AYS Daily Digest 12/2/2019 — Denmark: leaving human rights behind, one law at the time"
 author: Are You Syrious?
 date: 2019-02-13T19:48:40.840+0000
 last_modified_at: 2019-02-13T19:48:40.840+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: []
 description: Are You Syrious?
 image:
-  path: assets/59a4679cb04c/1*wgYkSR46AJWWHiRoC65-fw.jpeg
+  path: ../assets/59a4679cb04c/1*wgYkSR46AJWWHiRoC65-fw.jpeg
 ---
 
 ### AYS Daily Digest 12/2/2019 — Denmark: leaving human rights behind, one law at the time
 
 
-![](assets/59a4679cb04c/1*Tx1u1RSutf5fWmPbOOmJVA.jpeg)
+![](../assets/59a4679cb04c/1*Tx1u1RSutf5fWmPbOOmJVA.jpeg)
 
 
 [Are You Syrious?](https://medium.com/@AreYouSyrious)
@@ -23,7 +23,7 @@ Feb 13
 One death in Libyan detention centre due to inaction of international organisations /// Moroccan authorities destroy Sub\-Saharan migrants’ shelters /// Deportation alerts from Germany and Austria /// New fences in Calais to prevent people from finding shelter /// “Commercial refoulements” in the central Mediterranean /// New Arrivals in Greece and Italy
 
 
-![CLOSED BORDER — Algerian / Moroccan border, 1994 \(Photo by [Watch the Med — Alarm Phone](https://www.facebook.com/watchthemed.alarmphone/photos/a.1526182797655958/2311970032410560/?type=3&theater) \)](assets/59a4679cb04c/1*wgYkSR46AJWWHiRoC65-fw.jpeg)
+![CLOSED BORDER — Algerian / Moroccan border, 1994 \(Photo by [Watch the Med — Alarm Phone](https://www.facebook.com/watchthemed.alarmphone/photos/a.1526182797655958/2311970032410560/?type=3&theater) \)](../assets/59a4679cb04c/1*wgYkSR46AJWWHiRoC65-fw.jpeg)
 
 CLOSED BORDER — Algerian / Moroccan border, 1994 \(Photo by [Watch the Med — Alarm Phone](https://www.facebook.com/watchthemed.alarmphone/photos/a.1526182797655958/2311970032410560/?type=3&theater) \)
 #### Feature story — Denmark: leaving human rights behind, one law at the time
@@ -120,7 +120,7 @@ MOROCCO
 #### Authorities destroys Sub\-Saharan migrants’ shelters in Nador region
 
 
-![Shelter destroyed by authorities \(photo by [AMDH Nador](https://www.facebook.com/AmdhNador/photos/pcb.2272541622958100/2272541599624769/?type=3&theater) \)](assets/59a4679cb04c/1*DhRJfofYBp5qCNYmEJdUAQ.jpeg)
+![Shelter destroyed by authorities \(photo by [AMDH Nador](https://www.facebook.com/AmdhNador/photos/pcb.2272541622958100/2272541599624769/?type=3&theater) \)](../assets/59a4679cb04c/1*DhRJfofYBp5qCNYmEJdUAQ.jpeg)
 
 Shelter destroyed by authorities \(photo by [AMDH Nador](https://www.facebook.com/AmdhNador/photos/pcb.2272541622958100/2272541599624769/?type=3&theater) \)
 
@@ -135,7 +135,7 @@ While Italian authorities keep shouting about how they have curbed migration flo
 [Alarm Phone report](https://www.facebook.com/watchthemed.alarmphone/photos/a.1526182797655958/2311970032410560/?type=3&theater) on the fate of 62 people on the third boat\. They too were returned to Libya by a merchant vessel\.
 
 
-![Alarm Phone was called from the sea by survivors of a Mediterranean crossing while they were being returned illegally to Libya on a merchant vessel\. As so many others before, these 62 people were deceived by the crew and told they would be brought to Europe\. \( [Watch the Med — Alarm Phone](https://twitter.com/alarm_phone/status/1095372905771425792?fbclid=IwAR1i_JiUV-WwEXuBhCrvu-k2Gu57lWWKXX3sScoAouoOnjLBBPYzmZcP_Fw) \)](assets/59a4679cb04c/1*zQWNIsOPODrqp06myWxg-Q.jpeg)
+![Alarm Phone was called from the sea by survivors of a Mediterranean crossing while they were being returned illegally to Libya on a merchant vessel\. As so many others before, these 62 people were deceived by the crew and told they would be brought to Europe\. \( [Watch the Med — Alarm Phone](https://twitter.com/alarm_phone/status/1095372905771425792?fbclid=IwAR1i_JiUV-WwEXuBhCrvu-k2Gu57lWWKXX3sScoAouoOnjLBBPYzmZcP_Fw) \)](../assets/59a4679cb04c/1*zQWNIsOPODrqp06myWxg-Q.jpeg)
 
 Alarm Phone was called from the sea by survivors of a Mediterranean crossing while they were being returned illegally to Libya on a merchant vessel\. As so many others before, these 62 people were deceived by the crew and told they would be brought to Europe\. \( [Watch the Med — Alarm Phone](https://twitter.com/alarm_phone/status/1095372905771425792?fbclid=IwAR1i_JiUV-WwEXuBhCrvu-k2Gu57lWWKXX3sScoAouoOnjLBBPYzmZcP_Fw) \)
 
@@ -192,7 +192,7 @@ A boat was picked up by Frontex outside Korakas, Lesvos north, 21\.15, Tuesday e
 #### Aegean Boat Report Weekly Statistics
 
 
-![](assets/59a4679cb04c/1*JhU4LR_l16hwpkL3GZkyJA.jpeg)
+![](../assets/59a4679cb04c/1*JhU4LR_l16hwpkL3GZkyJA.jpeg)
 
 
 Also UNHCR published their weekly statistics for the Greek Islands, which you can find [HERE](https://reliefweb.int/sites/reliefweb.int/files/resources/67936.pdf) \.

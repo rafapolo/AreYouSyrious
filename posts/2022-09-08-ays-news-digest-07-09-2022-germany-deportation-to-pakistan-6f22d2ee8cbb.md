@@ -5,9 +5,9 @@ date: 2022-09-08T16:40:03.780+0100
 last_modified_at: 2022-09-08T16:40:03.780+0100
 categories: Are You Syrious?
 tags: [digest,newsdigest,deportation,rwanda,refugees]
-description: France: Back to school, but not for everyone // UK Protest against Rwanda flight // Children have died at sea due to inaction by Malta //…
+description: "France: Back to school, but not for everyone // UK Protest against Rwanda flight // Children have died at sea due to inaction by Malta //…"
 image:
-  path: assets/6f22d2ee8cbb/0*BqGdiRtDkXwgl6o8
+  path: ../assets/6f22d2ee8cbb/0*BqGdiRtDkXwgl6o8
 ---
 
 ### AYS News Digest 07/09/2022 Germany Deportation to Pakistan
@@ -15,7 +15,7 @@ image:
 ### FEATURE
 
 
-![Flooding in Pakistan\. Photo Credit: [via Nathan Carson on Twitter](https://twitter.com/search?q=pakistan%20flood&src=typed_query&f=image)](assets/6f22d2ee8cbb/0*BqGdiRtDkXwgl6o8)
+![Flooding in Pakistan\. Photo Credit: [via Nathan Carson on Twitter](https://twitter.com/search?q=pakistan%20flood&src=typed_query&f=image)](../assets/6f22d2ee8cbb/0*BqGdiRtDkXwgl6o8)
 
 Flooding in Pakistan\. Photo Credit: [via Nathan Carson on Twitter](https://twitter.com/search?q=pakistan%20flood&src=typed_query&f=image)
 #### Germany Deportation Flight to Pakistan

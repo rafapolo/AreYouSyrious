@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 9/12/20: Officials intimidated NGOs, preventing legal assistance to people…
+title: "AYS Daily Digest 9/12/20: Officials intimidated NGOs, preventing legal assistance to people…"
 author: Are You Syrious?
 date: 2020-12-10T18:04:39.522+0000
 last_modified_at: 2020-12-10T20:00:08.950+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,serbia,migration,greece]
 description: Serbia in crisis of accommodation and reception, most of all — of political will / BiH in the midst of humanitarian crisis, brought by…
 image:
-  path: assets/a48739b61b31/0*zxvJwmo1Ayc6HjVH
+  path: ../assets/a48739b61b31/0*zxvJwmo1Ayc6HjVH
 ---
 
 ### AYS Daily Digest 9/12/20: Officials intimidated NGOs, preventing legal assistance to people brought into a deserted factory by the police
 #### Serbia in crisis of accommodation and reception, most of all — of political will / Bosnia and Herzegovina in the midst of humanitarian crisis, brought by both the local politics and international actors / AYS Free Shop needs donations / Across France people in need of emergency accommodation / Serious development of the situation on the Canary Islands / & more news
 
 
-![](assets/a48739b61b31/0*zxvJwmo1Ayc6HjVH)
+![](../assets/a48739b61b31/0*zxvJwmo1Ayc6HjVH)
 
 #### FEATURED
 
@@ -154,7 +154,7 @@ The Greek Helsinki Monitor filed a criminal complaint “based on the new Human 
 ### Can all the lives lost at the borders even be counted?
 
 
-![](assets/a48739b61b31/0*SwU2aChTJsu0JgkP)
+![](../assets/a48739b61b31/0*SwU2aChTJsu0JgkP)
 
 
 This is a photo of the spreadsheet kept by the coroner of the Evros region\. It only lists bodies found on the Greek side and in the stated periods\. Reportedly, due to lack of collaboration with the Turkish authorities, he can only estimate that there are as many on the Turkish side, and many who were never found\.
@@ -174,18 +174,18 @@ The report published by the EU Fundamental Rights Agency lists 133 victims in th
 #### BOSNIA AND HERZEGOVINA
 
 
-![[BLINDSPOTS](https://www.facebook.com/blindspots.support/?__cft__[0]=AZVp0EryiuzR7H044PXmUgp-9vH30Q6EYByNqGldGpJAZdyuu8sVYsA1bCpOGcW_1P5L76WiqvKb4w-nMYqtD58zUixnhLCGOOPk0nBsNgrz-L1U5PgClb-03AFbsjJdYWMulYKHVrSEomTH05f66-37W4T9WD7Ls4psLuuwwVJMlWDLsBVbVgcEYMk-tMBupt2R_VUnUvZDB_pB-Zp93Ad2&__tn__=-UC*F) is organising a crowdfunding for the people on the move across Bosnia and Herzegovina, please visit [their page](https://www.facebook.com/blindspots.support/photos/a.111026334140139/128729782369794/) for more details and information\.](assets/a48739b61b31/0*geYs0-Z7c81ibFEV)
+![[BLINDSPOTS](https://www.facebook.com/blindspots.support/?__cft__[0]=AZVp0EryiuzR7H044PXmUgp-9vH30Q6EYByNqGldGpJAZdyuu8sVYsA1bCpOGcW_1P5L76WiqvKb4w-nMYqtD58zUixnhLCGOOPk0nBsNgrz-L1U5PgClb-03AFbsjJdYWMulYKHVrSEomTH05f66-37W4T9WD7Ls4psLuuwwVJMlWDLsBVbVgcEYMk-tMBupt2R_VUnUvZDB_pB-Zp93Ad2&__tn__=-UC*F) is organising a crowdfunding for the people on the move across Bosnia and Herzegovina, please visit [their page](https://www.facebook.com/blindspots.support/photos/a.111026334140139/128729782369794/) for more details and information\.](../assets/a48739b61b31/0*geYs0-Z7c81ibFEV)
 
 [BLINDSPOTS](https://www.facebook.com/blindspots.support/?__cft__[0]=AZVp0EryiuzR7H044PXmUgp-9vH30Q6EYByNqGldGpJAZdyuu8sVYsA1bCpOGcW_1P5L76WiqvKb4w-nMYqtD58zUixnhLCGOOPk0nBsNgrz-L1U5PgClb-03AFbsjJdYWMulYKHVrSEomTH05f66-37W4T9WD7Ls4psLuuwwVJMlWDLsBVbVgcEYMk-tMBupt2R_VUnUvZDB_pB-Zp93Ad2&__tn__=-UC*F) is organising a crowdfunding for the people on the move across Bosnia and Herzegovina, please visit [their page](https://www.facebook.com/blindspots.support/photos/a.111026334140139/128729782369794/) for more details and information\.
 
 Due to the fact that no solution was proposed for housing people who are already scattered across the country, many are still sleeping rough, fearful of whether they will stay healthy or even survive through the winter that is getting very hard in most of the country\. Day after day, small groups and individuals provide people will the basic things to cover and survive, but their means have fallen short and it is only the question of time when more lives will be lost\.
 
 
-![](assets/a48739b61b31/0*-tjhY2HQR30fkO2S)
+![](../assets/a48739b61b31/0*-tjhY2HQR30fkO2S)
 
 
 
-![Tuzla, photo by Tuzla volunteers](assets/a48739b61b31/1*JU2QUQ_Nigrhp5vqYxDPiA.jpeg)
+![Tuzla, photo by Tuzla volunteers](../assets/a48739b61b31/1*JU2QUQ_Nigrhp5vqYxDPiA.jpeg)
 
 Tuzla, photo by Tuzla volunteers
 #### CROATIA
@@ -270,7 +270,7 @@ Our volunteers are now preparing the things people have asked for, for pick\-up,
 We invite everyone to be conscious of respecting the dignity of everyone who might receive these donations and to bring/send practical, simple, clean and washed items\. In case you decide to support us, let us know by contacting us via our Facebook page or by email, so our Free Shop volunteers are prepared\.
 
 
-![](assets/a48739b61b31/0*fFzkFUWSMM69zhrk)
+![](../assets/a48739b61b31/0*fFzkFUWSMM69zhrk)
 
 #### SPAIN
 ### The journey of hundreds from the Canary Islands to the peninsula opens a new front for the Government
@@ -295,7 +295,7 @@ Repeated checks under the bridges of Calais make it difficult for people to rest
 In Gravelines, a group of activists reported that at 3 am, a group of 17 people, including women and unaccompanied minors, contacted them via their emergency number saying their boat had capsized a few hours before\.
 
 
-![Photo: Solidarity\.border](assets/a48739b61b31/1*_Eu0IXwLxBxhpqWyWMadtQ.jpeg)
+![Photo: Solidarity\.border](../assets/a48739b61b31/1*_Eu0IXwLxBxhpqWyWMadtQ.jpeg)
 
 Photo: Solidarity\.border
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 07/02/18: Living in Purgatory on the Aegean Islands
+title: "AYS Daily Digest 07/02/18: Living in Purgatory on the Aegean Islands"
 author: Are You Syrious?
 date: 2018-02-08T01:42:32.935+0000
 last_modified_at: 2018-03-01T13:35:35.587+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,greece,turkey,paris,digest]
 description: More people arrived in Greece //IOM report released//UN panel of experts confirms Libyan open secrets//Turkish Coast Guard…
 image:
-  path: assets/f8b0246ab055/1*sawlLV8Swfh6yPa7dGMTww.jpeg
+  path: ../assets/f8b0246ab055/1*sawlLV8Swfh6yPa7dGMTww.jpeg
 ---
 
 ### AYS Daily Digest 07/02/18: Living in Purgatory on the Aegean Islands
@@ -15,7 +15,7 @@ image:
 _More people arrived in Greece //IOM report released//UN panel of experts confirms Libyan open secrets//Turkish Coast Guard interceptions//Sea rescues//Sleeping rough in Ventimiglia//Freezing on the streets of Paris//Reports from Serbia//Update on coalition agreement in Germany//and more…_
 
 
-![Showers on Lesvos\. Photo Credit: MSF](assets/f8b0246ab055/1*sawlLV8Swfh6yPa7dGMTww.jpeg)
+![Showers on Lesvos\. Photo Credit: MSF](../assets/f8b0246ab055/1*sawlLV8Swfh6yPa7dGMTww.jpeg)
 
 Showers on Lesvos\. Photo Credit: MSF
 ### Greece
@@ -51,7 +51,7 @@ Eight children contemplated suicide from the top of a tall building in the Vial 
 The [Chios Solidarity](https://www.facebook.com/chiossolidarity/) group released new photographs from the extension of the Vial camp on Chios today\. The extended area is more isolated than the main camp\.
 
 
-![Photo Credit: [Chios Solidarity](https://www.facebook.com/chiossolidarity/) \. “Some indicative photos from the “Extension” of the camp — 1,350 people are forced to live here, trapped, away from any urban infrastructure, without sufficient information, with their lives on hold\. Three buses a day to the city are only enough for a few\.”](assets/f8b0246ab055/1*HUteNV4-V3GBrGxlaoRpCA.jpeg)
+![Photo Credit: [Chios Solidarity](https://www.facebook.com/chiossolidarity/) \. “Some indicative photos from the “Extension” of the camp — 1,350 people are forced to live here, trapped, away from any urban infrastructure, without sufficient information, with their lives on hold\. Three buses a day to the city are only enough for a few\.”](../assets/f8b0246ab055/1*HUteNV4-V3GBrGxlaoRpCA.jpeg)
 
 Photo Credit: [Chios Solidarity](https://www.facebook.com/chiossolidarity/) \. “Some indicative photos from the “Extension” of the camp — 1,350 people are forced to live here, trapped, away from any urban infrastructure, without sufficient information, with their lives on hold\. Three buses a day to the city are only enough for a few\.”
 
@@ -104,7 +104,7 @@ A Libyan Embassy official [revealed this week](https://www.reuters.com/article/u
 The Turkish Coast Guard released their figures for two boat interceptions yesterday, during which all the refugees found aboard were forcibly taken back to Turkey\. One dinghy was intercepted off the coast of Izmir with 60 people on it\. A fishing boat was taken in off the coast of Antalya with 195 people on it\.
 
 
-![Photo Credit: [Aegean Boat Report](https://www.facebook.com/pg/AegeanBoatReport/posts/?ref=page_internal)](assets/f8b0246ab055/1*53lm2gklC2fhjGIpE7cPBA.jpeg)
+![Photo Credit: [Aegean Boat Report](https://www.facebook.com/pg/AegeanBoatReport/posts/?ref=page_internal)](../assets/f8b0246ab055/1*53lm2gklC2fhjGIpE7cPBA.jpeg)
 
 Photo Credit: [Aegean Boat Report](https://www.facebook.com/pg/AegeanBoatReport/posts/?ref=page_internal)
 ### Sea
@@ -136,7 +136,7 @@ The [Salvamento Maritimo](https://twitter.com/salvamentogob) rescue organization
 The rescue organization [Sea\-Watch](https://www.facebook.com/seawatchprojekt/posts/1980394292178642) is asking for their allies to become monthly supporting members to sustain their life\-saving work\. More information [here](https://www.facebook.com/seawatchprojekt/posts/1980394292178642) \.
 
 
-![“Human life is priceless, sea rescues are not\!” Photo Credit: [Sea Watch](https://www.facebook.com/seawatchprojekt/posts/1980394292178642)](assets/f8b0246ab055/1*I500QGaiP-jfGCsKCJTl1g.jpeg)
+![“Human life is priceless, sea rescues are not\!” Photo Credit: [Sea Watch](https://www.facebook.com/seawatchprojekt/posts/1980394292178642)](../assets/f8b0246ab055/1*I500QGaiP-jfGCsKCJTl1g.jpeg)
 
 “Human life is priceless, sea rescues are not\!” Photo Credit: [Sea Watch](https://www.facebook.com/seawatchprojekt/posts/1980394292178642)
 
@@ -160,12 +160,12 @@ There will be an anti\-racism demonstration in response to the fascist terrorism
 ### France
 
 
-![Photo Credit: [Danika Jurisic](https://www.facebook.com/profile.php?id=100009499466124&hc_location=group_dialog)](assets/f8b0246ab055/1*Wc-GQW3yHmNebjTCtP6buA.jpeg)
+![Photo Credit: [Danika Jurisic](https://www.facebook.com/profile.php?id=100009499466124&hc_location=group_dialog)](../assets/f8b0246ab055/1*Wc-GQW3yHmNebjTCtP6buA.jpeg)
 
 Photo Credit: [Danika Jurisic](https://www.facebook.com/profile.php?id=100009499466124&hc_location=group_dialog)
 
 
-![Photo Credit: [FOTOMOVIMIENTO 15M](https://www.facebook.com/Fotomovimiento.org/?hc_location=group_dialog)](assets/f8b0246ab055/1*3A0ekLp-tE7szJYhC7EhYQ.jpeg)
+![Photo Credit: [FOTOMOVIMIENTO 15M](https://www.facebook.com/Fotomovimiento.org/?hc_location=group_dialog)](../assets/f8b0246ab055/1*3A0ekLp-tE7szJYhC7EhYQ.jpeg)
 
 Photo Credit: [FOTOMOVIMIENTO 15M](https://www.facebook.com/Fotomovimiento.org/?hc_location=group_dialog)
 
@@ -203,7 +203,7 @@ The [Umino](https://www.facebook.com/umino.org/?hc_ref=ART9v-_VsDcKdkekjGB2suW3q
 [Rigardu](https://www.facebook.com/rigardu/) is asking for people to send their old and functioning smartphones\. [Click here](https://www.facebook.com/rigardu/photos/a.1576891692610709.1073741828.1572923943007484/1792145394418670/?type=3&theater) or contact the group for more information\.
 
 
-![Your old phone sitting in a drawer could be a lifeline for someone else\! Photo Credit: [Rigardu](https://www.facebook.com/rigardu/)](assets/f8b0246ab055/1*MbyR7Jnfv22Jcnu-V7Lx_g.jpeg)
+![Your old phone sitting in a drawer could be a lifeline for someone else\! Photo Credit: [Rigardu](https://www.facebook.com/rigardu/)](../assets/f8b0246ab055/1*MbyR7Jnfv22Jcnu-V7Lx_g.jpeg)
 
 Your old phone sitting in a drawer could be a lifeline for someone else\! Photo Credit: [Rigardu](https://www.facebook.com/rigardu/)
 ### Switzerland

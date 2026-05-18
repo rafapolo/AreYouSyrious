@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,spain,greece,canary-islands]
 description: Humanitarian crisis in Ethiopia // Mediterranean sea rescue operations//Constitutional Case Field Against Malta
 image:
-  path: assets/bbb933e8a310/1*4EpCHoiTt0RF0dDZZZh48g.jpeg
+  path: ../assets/bbb933e8a310/1*4EpCHoiTt0RF0dDZZZh48g.jpeg
 ---
 
 ### AYS Daily Digest 13/11/2020 — Over 480 People Died Trying to Reach the Canary Islands in the Last Few Weeks
 #### Humanitarian crisis in Ethiopia // Mediterranean sea rescue operations//Constitutional Case Field Against Malta
 
 
-![Ethiopian refugees in Hamdait border area, credits UNHCR/AFP](assets/bbb933e8a310/1*4EpCHoiTt0RF0dDZZZh48g.jpeg)
+![Ethiopian refugees in Hamdait border area, credits UNHCR/AFP](../assets/bbb933e8a310/1*4EpCHoiTt0RF0dDZZZh48g.jpeg)
 
 Ethiopian refugees in Hamdait border area, credits UNHCR/AFP
 ### FEATURE

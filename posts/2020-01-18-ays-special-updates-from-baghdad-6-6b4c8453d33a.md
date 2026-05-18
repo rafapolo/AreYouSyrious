@@ -1,5 +1,5 @@
 ---
-title: AYS Special: Updates from Baghdad (6)
+title: "AYS Special: Updates from Baghdad (6)"
 author: Are You Syrious?
 date: 2020-01-18T11:09:55.097+0000
 last_modified_at: 2020-01-18T11:09:55.097+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [special,iraq,freedom,protest,iran]
 description: Main events concerning the uprisings for the week 8th–16th January.
 image:
-  path: assets/6b4c8453d33a/1*rYOWDrR0rg50wekWCKJ93A.jpeg
+  path: ../assets/6b4c8453d33a/1*rYOWDrR0rg50wekWCKJ93A.jpeg
 ---
 
 ### AYS Special: Updates from Baghdad \(6\)
 #### Main events concerning the uprisings for the week 8th–16th January\.
 
 
-![“Colors instead of smoke” was the slogan of the students of Kufa university in [\#Najaf](https://www.facebook.com/hashtag/najaf?source=feed_text&epa=HASHTAG&__xts__%5B0%5D=68.ARDW1oRVF2_hWN_I1EAOx2D609nsTAFIPPDY83EydzbrwtUiGOAohLlw3PD4MwF870y6a_WTqXCsROEsj3cDTTgaC0VIeonI3943fbZ976faWY2cCfho2nE95SR69zlh-MpyX_kPABf7bhtXzMcT_1-FXeuygYpL8TCOo6KEev6rhXiYB82YZ4z3N9DBWlJcLVLgVA2tamk4esgi15xBFl2oejDvh7LPm5FbTJX3TVm-KNs5NrOq3Ouwtgw4llYtVPl3JwmstfR0GD3qE1JAZtIZg-y9eeNIGba2vv6EPdEdTdcVRinQm92ajFHx8ikGtXwrtKvOqb7lZkrg0DDz9VitpQ&__tn__=%2ANK-R) in their festival they held yesterday in which they aimed at expressing the peacefulness of their demonstrations\. Credit: [Iraqi Civil Society Solidarity Initiative — ICCSI](https://www.facebook.com/Iraq.CivilSocietySolidarity.Initiative.ICSSI/photos/pcb.1765633820233798/1765633533567160/?type=3&theater) \.](assets/6b4c8453d33a/1*rYOWDrR0rg50wekWCKJ93A.jpeg)
+![“Colors instead of smoke” was the slogan of the students of Kufa university in [\#Najaf](https://www.facebook.com/hashtag/najaf?source=feed_text&epa=HASHTAG&__xts__%5B0%5D=68.ARDW1oRVF2_hWN_I1EAOx2D609nsTAFIPPDY83EydzbrwtUiGOAohLlw3PD4MwF870y6a_WTqXCsROEsj3cDTTgaC0VIeonI3943fbZ976faWY2cCfho2nE95SR69zlh-MpyX_kPABf7bhtXzMcT_1-FXeuygYpL8TCOo6KEev6rhXiYB82YZ4z3N9DBWlJcLVLgVA2tamk4esgi15xBFl2oejDvh7LPm5FbTJX3TVm-KNs5NrOq3Ouwtgw4llYtVPl3JwmstfR0GD3qE1JAZtIZg-y9eeNIGba2vv6EPdEdTdcVRinQm92ajFHx8ikGtXwrtKvOqb7lZkrg0DDz9VitpQ&__tn__=%2ANK-R) in their festival they held yesterday in which they aimed at expressing the peacefulness of their demonstrations\. Credit: [Iraqi Civil Society Solidarity Initiative — ICCSI](https://www.facebook.com/Iraq.CivilSocietySolidarity.Initiative.ICSSI/photos/pcb.1765633820233798/1765633533567160/?type=3&theater) \.](../assets/6b4c8453d33a/1*rYOWDrR0rg50wekWCKJ93A.jpeg)
 
 “Colors instead of smoke” was the slogan of the students of Kufa university in [\#Najaf](https://www.facebook.com/hashtag/najaf?source=feed_text&epa=HASHTAG&__xts__%5B0%5D=68.ARDW1oRVF2_hWN_I1EAOx2D609nsTAFIPPDY83EydzbrwtUiGOAohLlw3PD4MwF870y6a_WTqXCsROEsj3cDTTgaC0VIeonI3943fbZ976faWY2cCfho2nE95SR69zlh-MpyX_kPABf7bhtXzMcT_1-FXeuygYpL8TCOo6KEev6rhXiYB82YZ4z3N9DBWlJcLVLgVA2tamk4esgi15xBFl2oejDvh7LPm5FbTJX3TVm-KNs5NrOq3Ouwtgw4llYtVPl3JwmstfR0GD3qE1JAZtIZg-y9eeNIGba2vv6EPdEdTdcVRinQm92ajFHx8ikGtXwrtKvOqb7lZkrg0DDz9VitpQ&__tn__=%2ANK-R) in their festival they held yesterday in which they aimed at expressing the peacefulness of their demonstrations\. Credit: [Iraqi Civil Society Solidarity Initiative — ICCSI](https://www.facebook.com/Iraq.CivilSocietySolidarity.Initiative.ICSSI/photos/pcb.1765633820233798/1765633533567160/?type=3&theater) \.
 #### On January 10th, millions of people went out across squares and streets in Iraq to state their right to demonstrate freely and express their free voices, reclaiming the values and goals of the protests\.
@@ -22,7 +22,7 @@ image:
 Of course, critiques and attempts to discourage manifestations from the Iranian satellite supporters came very quickly, inciting armed forces to disperse the demonstrators by force \(same message aired by Al\-Anwar 2 satellite channel and the Al\-Ahd channel\) \. These realities also targeted demonstrators by calling them names, like “the Joker”, as a response to the people creating the slogan [“I am an Iraqi, and the parliament does not represent me\.”](ays-special-updates-from-baghdad-5-e09336254498)
 
 
-![A protester from the Southern Iraqi provinces lost his hands as a result of the government’s corruption in building safe energy transmission infrastructure\. He went out with the Iraqi flag hold between his head and his shoulder\. Despite all the fake propaganda depicting demonstrators as “the Joker” or as corrupted entities, people taking the streets are Iraqis demanding their rights\.](assets/6b4c8453d33a/1*7QEsh6rdDY9z0TNCXQUdXw.png)
+![A protester from the Southern Iraqi provinces lost his hands as a result of the government’s corruption in building safe energy transmission infrastructure\. He went out with the Iraqi flag hold between his head and his shoulder\. Despite all the fake propaganda depicting demonstrators as “the Joker” or as corrupted entities, people taking the streets are Iraqis demanding their rights\.](../assets/6b4c8453d33a/1*7QEsh6rdDY9z0TNCXQUdXw.png)
 
 A protester from the Southern Iraqi provinces lost his hands as a result of the government’s corruption in building safe energy transmission infrastructure\. He went out with the Iraqi flag hold between his head and his shoulder\. Despite all the fake propaganda depicting demonstrators as “the Joker” or as corrupted entities, people taking the streets are Iraqis demanding their rights\.
 #### Kidnapping and systematic killing of demonstrators and activists continue with no break\.

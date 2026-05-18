@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 28/08/17: Parallel worlds created in Europe
+title: "AYS Daily Digest 28/08/17: Parallel worlds created in Europe"
 author: Are You Syrious?
 date: 2017-08-28T23:11:52.534+0100
 last_modified_at: 2017-08-29T17:19:41.403+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,chios,unhcr,rome,paris]
 description: While people are sleeping rough on islands, about 30 percent of UNHCR accommodation facilities empty / 100 people marched in Lesvos to…
 image:
-  path: assets/49ca95704d75/1*sHXF8ABK3VgM4_zW7asuag.jpeg
+  path: ../assets/49ca95704d75/1*sHXF8ABK3VgM4_zW7asuag.jpeg
 ---
 
 ### AYS Daily Digest 28/08/17: Parallel worlds created in Europe
@@ -15,7 +15,7 @@ image:
 _While people are sleeping rough on islands, about 30 percent of UNHCR accommodation facilities empty / 100 people marched in Lesvos to protest living conditions / 9,000 registered migrants in Rome / New street camp in Paris / Help desperately needed on islands, in Athens, on the sea, in Paris, and in Rome / And more news…_
 
 
-![Rome, Italy\. Photo by [Roberto Viviani](https://www.facebook.com/robbevabbe/posts/10155775617829407) \.](assets/49ca95704d75/1*sHXF8ABK3VgM4_zW7asuag.jpeg)
+![Rome, Italy\. Photo by [Roberto Viviani](https://www.facebook.com/robbevabbe/posts/10155775617829407) \.](../assets/49ca95704d75/1*sHXF8ABK3VgM4_zW7asuag.jpeg)
 
 Rome, Italy\. Photo by [Roberto Viviani](https://www.facebook.com/robbevabbe/posts/10155775617829407) \.
 ### Feature
@@ -27,7 +27,7 @@ Today more than 100 people arrived only to Samos island, Greece, on two boats �
 Similar, or even worse, is the situation on Lesvos where currently over 6000 people are packed\. As well as on the other islands, volunteers provide basic assistance upon arrival, and they need help calling more volunteers to come\.
 
 
-![“These pictures from [\#Moria](https://twitter.com/hashtag/Moria?src=hash) detention camp say it all: this is how Europe treats people in need\.” @SeaWatch](assets/49ca95704d75/1*4vcitq7W-StdedAynSR9Qw.jpeg)
+![“These pictures from [\#Moria](https://twitter.com/hashtag/Moria?src=hash) detention camp say it all: this is how Europe treats people in need\.” @SeaWatch](../assets/49ca95704d75/1*4vcitq7W-StdedAynSR9Qw.jpeg)
 
 “These pictures from [\#Moria](https://twitter.com/hashtag/Moria?src=hash) detention camp say it all: this is how Europe treats people in need\.” @SeaWatch
 
@@ -114,11 +114,11 @@ _“Rough estimates put the number of migrants in transit who enter the city on 
 In the meantime, many of the people who were evicted several days ago in Rome, in a brutal and violent way by the police, are still sleeping in the streets\. Around 800 people were evicted from the squats they lived in, and that was occupied since 2013\.
 
 
-![](assets/49ca95704d75/1*J-ILOCM401fUBLPo8BGYGA.jpeg)
+![](../assets/49ca95704d75/1*J-ILOCM401fUBLPo8BGYGA.jpeg)
 
 
 
-![Photo by Roberto Viviani\.](assets/49ca95704d75/1*SE7dB9tJ_bA2pOtk1KUdtA.jpeg)
+![Photo by Roberto Viviani\.](../assets/49ca95704d75/1*SE7dB9tJ_bA2pOtk1KUdtA.jpeg)
 
 Photo by Roberto Viviani\.
 
@@ -139,11 +139,11 @@ _A new Street camp was formed in St Denis tonight\. There are around 350 people 
 _We need your help to continue providing the essential survival items that the people living in such tough conditions need\.”_
 
 
-![](assets/49ca95704d75/1*eLoI1Ny0MmP_xOX71pAOEA.jpeg)
+![](../assets/49ca95704d75/1*eLoI1Ny0MmP_xOX71pAOEA.jpeg)
 
 
 
-![Paris in the night\.](assets/49ca95704d75/1*p3UDxXH7NhdOT7Op1jDa0A.jpeg)
+![Paris in the night\.](../assets/49ca95704d75/1*p3UDxXH7NhdOT7Op1jDa0A.jpeg)
 
 Paris in the night\.
 
@@ -154,7 +154,7 @@ Among those who are sleeping in the streets of the city of light, in one of the 
 Also in [Calais, people are helping people](https://www.facebook.com/groups/CalaisMigrantSolidarityActionFromUK/permalink/1617403291667745/?fref=gc&hc_location=ufi) , and the government is nowhere to see, but when they send police to use the force against volunteers and migrants\.
 
 
-![Mobile showers in Calais\. Photo by S [ylvain de Saturne](https://www.facebook.com/sylvain.desaturne?fref=gs&hc_ref=ARSBn-hNf5SAoiBTKa42mYvcTtpkJo5-pfvTpoP7Y_DKJFyfTwSsAqpPIAsmaMpTp88&hc_location=group)](assets/49ca95704d75/1*fmkasNYWBDNkihORmCyXBQ.jpeg)
+![Mobile showers in Calais\. Photo by S [ylvain de Saturne](https://www.facebook.com/sylvain.desaturne?fref=gs&hc_ref=ARSBn-hNf5SAoiBTKa42mYvcTtpkJo5-pfvTpoP7Y_DKJFyfTwSsAqpPIAsmaMpTp88&hc_location=group)](../assets/49ca95704d75/1*fmkasNYWBDNkihORmCyXBQ.jpeg)
 
 Mobile showers in Calais\. Photo by S [ylvain de Saturne](https://www.facebook.com/sylvain.desaturne?fref=gs&hc_ref=ARSBn-hNf5SAoiBTKa42mYvcTtpkJo5-pfvTpoP7Y_DKJFyfTwSsAqpPIAsmaMpTp88&hc_location=group)
 

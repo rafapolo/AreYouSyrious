@@ -1,13 +1,13 @@
 ---
-title: AYS Weekend Digest 14–15/3/20 COVID-19: The latest excuse for repression and human rights…
+title: "AYS Weekend Digest 14–15/3/20 COVID-19: The latest excuse for repression and human rights…"
 author: Are You Syrious?
 date: 2020-03-16T11:24:06.736+0000
 last_modified_at: 2020-03-16T12:50:20.030+0000
 categories: Are You Syrious?
 tags: [refugees,digest,corona-virus,detention,turkey]
-description: Central Med: At least 300 people pushed back to Libya, some from within Maltese SAR/Iran expel Afghan nationals/Updates from Edirne & more
+description: "Central Med: At least 300 people pushed back to Libya, some from within Maltese SAR/Iran expel Afghan nationals/Updates from Edirne & more"
 image:
-  path: assets/b79be138b07c/1*Rm6NvjNoyk92aAtOa9bCDA.jpeg
+  path: ../assets/b79be138b07c/1*Rm6NvjNoyk92aAtOa9bCDA.jpeg
 ---
 
 ### AYS Weekend Digest 14–15/3/2020 COVID\-19: The latest excuse for repression and human rights violations
@@ -16,7 +16,7 @@ Central Med: At least 300 people pushed back to Libya, some from within Maltese 
 
 
 ![By Chappatte
-[\#Refugees](https://www.facebook.com/hashtag/refugees?epa=HASHTAG) [\#OpenEUborders](https://www.facebook.com/hashtag/openeuborders?epa=HASHTAG)](assets/b79be138b07c/1*Rm6NvjNoyk92aAtOa9bCDA.jpeg)
+[\#Refugees](https://www.facebook.com/hashtag/refugees?epa=HASHTAG) [\#OpenEUborders](https://www.facebook.com/hashtag/openeuborders?epa=HASHTAG)](../assets/b79be138b07c/1*Rm6NvjNoyk92aAtOa9bCDA.jpeg)
 
 By Chappatte
 [\#Refugees](https://www.facebook.com/hashtag/refugees?epa=HASHTAG) [\#OpenEUborders](https://www.facebook.com/hashtag/openeuborders?epa=HASHTAG)

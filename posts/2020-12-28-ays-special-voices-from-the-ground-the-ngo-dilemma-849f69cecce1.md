@@ -1,5 +1,5 @@
 ---
-title: AYS Special: Voices from the ground -the ‘NGO Dilemma’
+title: "AYS Special: Voices from the ground -the ‘NGO Dilemma’"
 author: Are You Syrious?
 date: 2020-12-28T20:41:24.512+0000
 last_modified_at: 2020-12-28T20:41:24.512+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [special,ngo,solidarity,refugees,humanitarian-aid]
 description: Are You Syrious?
 image:
-  path: assets/849f69cecce1/0*jhfyoKlP9b5nxrWp.png
+  path: ../assets/849f69cecce1/0*jhfyoKlP9b5nxrWp.png
 ---
 
 ### AYS Special: Voices from the ground \-the ‘NGO Dilemma’
 
 
-![](assets/849f69cecce1/0*W7grxwEVgHzRId1Q.jpeg)
+![](../assets/849f69cecce1/0*W7grxwEVgHzRId1Q.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----76f1c4f82f45--------------------------------)
@@ -23,11 +23,11 @@ image:
 _At the start of 2020, on the eve of the first Greek Lockdown, Gianni Manzella and Simone Innico began asking volunteers and aid workers their opinions on the ‘NGO Dilemma’ — the role and scope of grassroots and bigger aid and solidarity organisations in the context of EU migration policies of the last five years\. The answers they received provide a fitting end to a year which has only raised more questions about the European response to migration\. They also provide more inputs to a debate on the role of ‘humanitarianism’ and on the relationship between volunteer work and activism at the European borders, which has been going on for some time both online and offline\._
 
 
-![](assets/849f69cecce1/0*NyouPVAICrm3x-6J)
+![](../assets/849f69cecce1/0*NyouPVAICrm3x-6J)
 
 
 
-![](assets/849f69cecce1/0*jhfyoKlP9b5nxrWp.png)
+![](../assets/849f69cecce1/0*jhfyoKlP9b5nxrWp.png)
 
 
 ◆ Why are we here?
@@ -189,11 +189,11 @@ Eventually, the point of our work — and the work of other groups of volunteers
 The ‘NGO Dilemma’
 
 
-![](assets/849f69cecce1/0*XwL9lFuRIh5yqO1D)
+![](../assets/849f69cecce1/0*XwL9lFuRIh5yqO1D)
 
 
 
-![](assets/849f69cecce1/0*tVyOAKT2MI6Ujx5o.jpeg)
+![](../assets/849f69cecce1/0*tVyOAKT2MI6Ujx5o.jpeg)
 
 
 Despite the depth and richness of many responses, our survey falls short in portraying the complex landscape of heterogeneous actors and situations\. We were struck to discover how diverse yet complementary these many viewpoints could be: if we were to keep asking, an exhaustive “mapping” of this sort would probably have no end in the near future\.

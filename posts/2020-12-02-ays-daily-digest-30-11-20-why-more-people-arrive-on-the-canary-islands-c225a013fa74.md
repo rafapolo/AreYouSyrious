@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 1/12/20: Why more people arrive on the Canary Islands
+title: "AYS Daily Digest 1/12/20: Why more people arrive on the Canary Islands"
 author: Are You Syrious?
 date: 2020-12-02T01:37:10.205+0000
 last_modified_at: 2020-12-03T14:39:38.098+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,spain,canary-islands]
 description: New report on the situation in Moria 2.0 // Protests against scheduled deportation from UK to Jamaica // Germany wants to deport nine year…
 image:
-  path: assets/c225a013fa74/1*gNpAhXhrVimzCrXltXzoFQ.png
+  path: ../assets/c225a013fa74/1*gNpAhXhrVimzCrXltXzoFQ.png
 ---
 
 ### AYS Daily Digest 1/12/20: Why more people arrive on the Canary Islands
 #### New report on the situation in Moria 2\.0 // Protests against scheduled deportation from UK to Jamaica // Germany wants to deport nine year old unaccompanied minor relocated from Moria // Frontex denies being involved in pushbacks
 
 
-![Spain sees an increase of people arriving on the Canary Islands\. Photo: Screenshot [UNHCR](https://data2.unhcr.org/en/situations/mediterranean)](assets/c225a013fa74/1*gNpAhXhrVimzCrXltXzoFQ.png)
+![Spain sees an increase of people arriving on the Canary Islands\. Photo: Screenshot [UNHCR](https://data2.unhcr.org/en/situations/mediterranean)](../assets/c225a013fa74/1*gNpAhXhrVimzCrXltXzoFQ.png)
 
 Spain sees an increase of people arriving on the Canary Islands\. Photo: Screenshot [UNHCR](https://data2.unhcr.org/en/situations/mediterranean)
 ### Spain
@@ -22,7 +22,7 @@ Spain sees an increase of people arriving on the Canary Islands\. Photo: Screens
 In an article, [NRC\.nl](https://www.nrc.nl/nieuws/2020/12/01/marokkanen-kiezen-nieuwe-route-a4022239?utm_source=NRC&utm_medium=whatsapp&fbclid=IwAR3sO4GW6WlKYSWPYX8fcMzfsC7kPmenidE_yMLzHci9lntdX7KHO84IYCI) explains the reasons for the increased number of people arriving on the Canary Islands\. According to the newspaper, Morocco suspended an agreement with Spain to take back undocumented people due to the pandemic\. With income losses because of no tourism and a bad olive harvest, the situation for many people in Morocco has worsened — additionally especially the rural areas are hit by the Coronavirus\. With a higher focus on the conflict in the Western Sahara, the coastguard is not currently being prioritised by authorities, making it easier for the people to start their 1500 kilometer long journeys by boat\. After arriving on the islands, their next goal is the Spanish mainland\. “In recent weeks, quite a few have managed to board a plane from here to Spain with their passport\. There are no figures for that\. That goes through the mesh of the net,” says a spokespoerson for the spokesperson for the Spanish Commission for Refugee Assistance \(CEAR\) \.
 
 
-![Credits: [UNHCR](https://data2.unhcr.org/en/situations/mediterranean/location/5226)](assets/c225a013fa74/1*2E8-cG910RqgZOMLpxRETA.png)
+![Credits: [UNHCR](https://data2.unhcr.org/en/situations/mediterranean/location/5226)](../assets/c225a013fa74/1*2E8-cG910RqgZOMLpxRETA.png)
 
 Credits: [UNHCR](https://data2.unhcr.org/en/situations/mediterranean/location/5226)
 

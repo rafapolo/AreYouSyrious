@@ -1,13 +1,13 @@
 ---
-title: AYS Daily Digest 24/08/17: “Don’t clean up the blood”: The aftermath of squat eviction in Italy
+title: "AYS Daily Digest 24/08/17: “Don’t clean up the blood”: The aftermath of squat eviction in Italy"
 author: Are You Syrious?
 date: 2017-08-25T03:55:07.341+0100
 last_modified_at: 2017-08-29T17:46:05.673+0100
 categories: 
 tags: [refugees]
-description: Greece: Pakistani man found most likely murdered / Samos conditions worsen / Boat smuggling refugees intercepted / Men found in poor health…
+description: "Greece: Pakistani man found most likely murdered / Samos conditions worsen / Boat smuggling refugees intercepted / Men found in poor health…"
 image:
-  path: assets/915ef77f5010/1*bMRYiAqcCUOYwO6lY0gGXA.jpeg
+  path: ../assets/915ef77f5010/1*bMRYiAqcCUOYwO6lY0gGXA.jpeg
 ---
 
 ### AYS Daily Digest 24/08/17: “Don’t clean up the blood”: The aftermath of squat eviction in Italy
@@ -15,7 +15,7 @@ image:
 _Greece: Pakistani man found most likely murdered / Samos conditions worsen / Boat smuggling refugees intercepted / Men found in poor health condition after being found in Croatian freight train / Refugees continue to be relocated to Spain / Reports of tear gas sprayed at refugees with no warning in France / Norway closing “surplus” of centres / UK asylum acceptance statistics and deportation statistics / And more news…_
 
 
-![Humanity 2017\. Photo credit: [**Luigi D’Alife**](https://www.facebook.com/profile.php?id=100013638159310)](assets/915ef77f5010/1*bMRYiAqcCUOYwO6lY0gGXA.jpeg)
+![Humanity 2017\. Photo credit: [**Luigi D’Alife**](https://www.facebook.com/profile.php?id=100013638159310)](../assets/915ef77f5010/1*bMRYiAqcCUOYwO6lY0gGXA.jpeg)
 
 Humanity 2017\. Photo credit: [**Luigi D’Alife**](https://www.facebook.com/profile.php?id=100013638159310)
 ### FEATURE: Horrific violence enacted upon refugees by police “evacuation”
@@ -37,7 +37,7 @@ Police justified the usage of water cannons after evidently some individuals use
 UNICEF Italia also condemns the evacuation\. Children, who were hosted inside the building with their families, were taken to the Questura; they were frightened and shocked, kept crying and hitting the windows of the buses used to take them away\. Again, these people all have asylum and some of them even Italian citizenship\!
 
 
-![Photo credit: Sonia Manzi](assets/915ef77f5010/1*QOwMqwA_RW1uv8mqs-iW0g.jpeg)
+![Photo credit: Sonia Manzi](../assets/915ef77f5010/1*QOwMqwA_RW1uv8mqs-iW0g.jpeg)
 
 Photo credit: Sonia Manzi
 
@@ -133,7 +133,7 @@ Report from a volunteer in France:
 
 
 
-![Photo credit: Care4Calais](assets/915ef77f5010/1*3vYM6PXnh8290utbirpOzQ.jpeg)
+![Photo credit: Care4Calais](../assets/915ef77f5010/1*3vYM6PXnh8290utbirpOzQ.jpeg)
 
 Photo credit: Care4Calais
 
@@ -168,7 +168,7 @@ According to The Local, the Norwegian immigration authority is reducing capacity
 [A](https://www.facebook.com/groups/1652972374920129/permalink/1894103680806996/) ccording to statistics by the UK government, asylum applications in the UK have dropped by more than half in the last 15 years, with the sharpest decrease happening between the years 2002 and 2003\. This from a report listing the number of asylum grantings this year at 16,211, a 7% increase over this same period last year\. However the long\-trend data shows that in spite of wide media discussion, the European sphere of the refugee crisis had little effect on successful asylum petitions in the US\.
 
 
-![Statistics courtesy of Gov\.UK](assets/915ef77f5010/1*k3zE98LtoG8fZMEYQugTog.jpeg)
+![Statistics courtesy of Gov\.UK](../assets/915ef77f5010/1*k3zE98LtoG8fZMEYQugTog.jpeg)
 
 Statistics courtesy of Gov\.UK
 

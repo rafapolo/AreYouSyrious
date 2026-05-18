@@ -7,7 +7,7 @@ categories:
 tags: [refugees,chios,fortress-europe,moria,lesvos]
 description: Burmese Security Forces Using Landmines on Fleeing Rohingya//Worsening Conditions in Hotspots//Young Man Dies in Italy//Search for Bodies…
 image:
-  path: assets/b90194feb5d9/1*OUonEYSqyYazczk83aGeOA.jpeg
+  path: ../assets/b90194feb5d9/1*OUonEYSqyYazczk83aGeOA.jpeg
 ---
 
 ### AYS DAILY DIGEST 23/09/2017 Turkey’s high\-tech border wall nearing completion
@@ -15,7 +15,7 @@ image:
 Burmese Security Forces Using Landmines on Fleeing Rohingya//Worsening Conditions in Hotspots//Young Man Dies in Italy//Search for Bodies in Black Sea Continues//Appeal for Ahmed H\.
 
 
-![Portuarios CNT](assets/b90194feb5d9/1*OUonEYSqyYazczk83aGeOA.jpeg)
+![Portuarios CNT](../assets/b90194feb5d9/1*OUonEYSqyYazczk83aGeOA.jpeg)
 
 Portuarios CNT
 
@@ -106,12 +106,12 @@ The search for bodies continued today in the Black Sea and it has now been confi
 Every Saturday, the 5th School will hold a market at Navarinou park \(next to Zoodochou Pigi\) to display products that have been farmed and harvested by the refugees and Solidarians as well as homemade products produced by the women of the 5th School\.
 
 
-![5th School](assets/b90194feb5d9/1*G5vXrCBYbCYMhze-1upxoA.jpeg)
+![5th School](../assets/b90194feb5d9/1*G5vXrCBYbCYMhze-1upxoA.jpeg)
 
 5th School
 
 
-![5th School](assets/b90194feb5d9/1*qoBAH9uq3MdA4VFCMPF_sg.jpeg)
+![5th School](../assets/b90194feb5d9/1*qoBAH9uq3MdA4VFCMPF_sg.jpeg)
 
 5th School
 
@@ -156,17 +156,17 @@ Moria camp is also believed to be back up to 4500 inhabitants even though its ca
 Over 100 people, many of whom are children, are sleeping outdoors in Samos\. The weather is getting colder but there does not seem to be any plan in place\.
 
 
-![AYS](assets/b90194feb5d9/1*S8lN63wnzaDOlsT0i6hMbg.jpeg)
+![AYS](../assets/b90194feb5d9/1*S8lN63wnzaDOlsT0i6hMbg.jpeg)
 
 AYS
 
 
-![AYS](assets/b90194feb5d9/1*ltPwtNG-3-HQGmEcuTFiew.jpeg)
+![AYS](../assets/b90194feb5d9/1*ltPwtNG-3-HQGmEcuTFiew.jpeg)
 
 AYS
 
 
-![AYS](assets/b90194feb5d9/1*KlSa8flKAuZvcijeYH6EhQ.jpeg)
+![AYS](../assets/b90194feb5d9/1*KlSa8flKAuZvcijeYH6EhQ.jpeg)
 
 AYS
 
@@ -185,7 +185,7 @@ According to [local media](http://sofiaglobe.com/2017/09/22/eurostat-685-first-t
 **Hungary**
 
 
-![](assets/b90194feb5d9/1*tv2b7n7fnWMIfSEwtdIaRg.jpeg)
+![](../assets/b90194feb5d9/1*tv2b7n7fnWMIfSEwtdIaRg.jpeg)
 
 
 Ahmed H\., a Syrian with residency in Cyprus, has been charged with violating the anti\-terrorism laws for participating in a protest in Röszke, Hungary, in September 2015\. Ahmed has now been in prison for two years and was sentenced to 10, but can finally appeal his verdict\. He was legally in the country at the time of his arrest and the demonstration occurred when the border between Hungry and Serbia was closed\. At this time he was supporting his Syrian family across Europe\. Protesting for your family’s freedom of movement is not an act of terrorism\. For more info and to support Ahmed, please visit the campaign page\.

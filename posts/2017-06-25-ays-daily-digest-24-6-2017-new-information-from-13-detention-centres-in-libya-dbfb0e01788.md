@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 24/6/2017: New information from 13 detention centres in Libya
+title: "AYS Daily Digest 24/6/2017: New information from 13 detention centres in Libya"
 author: Are You Syrious?
 date: 2017-06-25T03:07:05.995+0100
 last_modified_at: 2017-06-25T03:07:05.995+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,libya,serbia,paris,deportations]
 description: Deportation from Germany to Afghanistan postponed / Solidarity to Athens squat from European activists / Updates from Greece, Serbia, Italy…
 image:
-  path: assets/dbfb0e01788/1*iKFv9aBDxUtmdIvUf2NkXg.jpeg
+  path: ../assets/dbfb0e01788/1*iKFv9aBDxUtmdIvUf2NkXg.jpeg
 ---
 
 ### AYS Daily Digest 24/6/2017: New information from 13 detention centres in Libya
@@ -15,7 +15,7 @@ image:
 Deportation from Germany to Afghanistan postponed / Solidarity to Athens squat from European activists / Updates from Greece, Serbia, Italy and France
 
 
-![Hasan Bleibel Art \(Art Against\)](assets/dbfb0e01788/1*iKFv9aBDxUtmdIvUf2NkXg.jpeg)
+![Hasan Bleibel Art \(Art Against\)](../assets/dbfb0e01788/1*iKFv9aBDxUtmdIvUf2NkXg.jpeg)
 
 Hasan Bleibel Art \(Art Against\)
 ### Feature: Information on Libyan detention centres
@@ -29,7 +29,7 @@ DTM aims to provide baseline assessments into the facilities and infrastructure 
 While the profiling will be held monthly and more centre are to be added in next rounds, at the date of the launch DTM collected informations from 13 camps\. All the informations are acquired through managers and staff of the centres, with NGO staff as second informants in only 3 cases and no migrants interviewed\.
 
 
-![Detention centres investigated \(DTM\)](assets/dbfb0e01788/1*zSyFFx6jjKJmgXaUxgj-Fw.jpeg)
+![Detention centres investigated \(DTM\)](../assets/dbfb0e01788/1*zSyFFx6jjKJmgXaUxgj-Fw.jpeg)
 
 Detention centres investigated \(DTM\)
 - The total capacity of the 13 camps is 9370\. 2690 migrants were inside the structures, with figures low as 12 and high as 563\. Among them 160 minors \(138 boys and 22 girls\), of which 136 unaccompanied children, 10 pregnant women and 22 breastfeeding\. Most of the people are from Guinea Bissau, Nigeria, Sudan, Senegal and Morocco\. Only 161 working staff were counted \(data from 4 centres are not available\) \.
@@ -103,7 +103,7 @@ Demonstrations and action were held all over Europe: In Berlin people protested 
 The [weekly map](http://reliefweb.int/map/greece/greece-europe-refugee-emergency-weekly-map-indicating-capacity-and-occupancy-2) of official sites capacity and occupancy published by UNHCR shows that the Greek islands are still overcrowded, with 13501 refugees for a capacity of 8673\. As of the 20th of June 33874 refugees are living in camps on the mainland\.
 
 
-![Capacity and occupancy map \(UNHCR\)](assets/dbfb0e01788/1*Ynyo87Q9eY92DdHC1MBPmA.jpeg)
+![Capacity and occupancy map \(UNHCR\)](../assets/dbfb0e01788/1*Ynyo87Q9eY92DdHC1MBPmA.jpeg)
 
 Capacity and occupancy map \(UNHCR\)
 
@@ -194,11 +194,11 @@ Read more about the project and donate [here](https://chuffed.org/project/no-one
 The German organisation [Umino](https://web.facebook.com/umino.org/?ref=br_rs) published yesterday and today updates from their volunteers on the Serbian\-Croatian border\. Groups of refugees are living in very remote areas, trying to hide from police controls\. We frequently reported about the brutal attitude of both Serbian and Croatian police towards refugees\. Umino volunteers got in contact with a group of 10 Ahghani living without proper provisions\. They managed to reach them and deliver much needed food and clothing donations\. They were running out of food and water and lacked proper shoes\. Among them there are five boys between 13 and 19 years old\. Some of their relatives are in Afghanistan, while others are scattered in other countries in the middle east, in England and Germany\. The youngest of them escaped the Taliban recruitment and doesn’t have any contacts with his parents\.
 
 
-![](assets/dbfb0e01788/1*iZZuaxGYG8S6aDq3yfMXCA.jpeg)
+![](../assets/dbfb0e01788/1*iZZuaxGYG8S6aDq3yfMXCA.jpeg)
 
 
 
-![Refugees on the Serbia\-Croatia border \(Umino\)](assets/dbfb0e01788/1*OWxyARTN4unkmK95aG5Y_Q.jpeg)
+![Refugees on the Serbia\-Croatia border \(Umino\)](../assets/dbfb0e01788/1*OWxyARTN4unkmK95aG5Y_Q.jpeg)
 
 Refugees on the Serbia\-Croatia border \(Umino\)
 ### Refugee reported dead in Adasevci
@@ -209,11 +209,11 @@ A refugee living in Adasevci informed AYS that two persons allegedly fell down y
 [Borderfree association](https://web.facebook.com/borderfreeassociation/) has recently started new fitness classes for girls and women\.
 
 
-![](assets/dbfb0e01788/1*SEyJOx7fKfUkU36bUem3nA.jpeg)
+![](../assets/dbfb0e01788/1*SEyJOx7fKfUkU36bUem3nA.jpeg)
 
 
 
-![Women only fitness class in Presevo and Bujanovac \(Borderfree association\)](assets/dbfb0e01788/1*f8mMxLFoFarqLQnSIo6AdQ.jpeg)
+![Women only fitness class in Presevo and Bujanovac \(Borderfree association\)](../assets/dbfb0e01788/1*f8mMxLFoFarqLQnSIo6AdQ.jpeg)
 
 Women only fitness class in Presevo and Bujanovac \(Borderfree association\)
 

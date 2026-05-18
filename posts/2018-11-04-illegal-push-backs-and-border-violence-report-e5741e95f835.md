@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,special,border-violance,no-name-kitchen,bosnia]
 description: The following document presents testimonies of illegal push-backs where displaced people are expelled into the Bosnian territory from the…
 image:
-  path: assets/e5741e95f835/1*L_8oXgWwk1cWfUiDANRdmA.jpeg
+  path: ../assets/e5741e95f835/1*L_8oXgWwk1cWfUiDANRdmA.jpeg
 ---
 
 ### ILLEGAL PUSH\-BACKS AND BORDER VIOLENCE REPORT
@@ -15,7 +15,7 @@ image:
 _The following document presents testimonies of illegal push\-backs where displaced people are expelled into the Bosnian territory from the borderlands and interior of Croatia and Slovenia\. All testimonies are gathered from oral interviews via a standardised framework used by the grassroots organisations working in Velika Kladuša\._
 
 
-![Camp Trnovi, Velika Kladuša\. Photo AYS](assets/e5741e95f835/1*L_8oXgWwk1cWfUiDANRdmA.jpeg)
+![Camp Trnovi, Velika Kladuša\. Photo AYS](../assets/e5741e95f835/1*L_8oXgWwk1cWfUiDANRdmA.jpeg)
 
 Camp Trnovi, Velika Kladuša\. Photo AYS
 ### **REPORT \[1\]**
@@ -234,11 +234,11 @@ _“We were caught by four police men\. One of the police who caught us was fat,
 Pain and red mark on the back caused by the attack by a police baton\.
 
 
-![](assets/e5741e95f835/1*j4QdKwjhzDBo486QBjtdNw.jpeg)
+![](../assets/e5741e95f835/1*j4QdKwjhzDBo486QBjtdNw.jpeg)
 
 
 
-![](assets/e5741e95f835/1*4Q9Vn8wkg7TmXpKNTEgHIw.jpeg)
+![](../assets/e5741e95f835/1*4Q9Vn8wkg7TmXpKNTEgHIw.jpeg)
 
 ### **REPORT \[5\]**
 
@@ -542,7 +542,7 @@ Three Croatian police officers, one woman and two men, equipped by pistols, bato
 Darius showed his bruise on belly caused by the attack by a kick and baton, and scratches on his face that resulted from the push by the officer and following fall on the ground\. Darius told that his friend had a pain in his legs caused by the police attack, using kicks and batons\.
 
 
-![](assets/e5741e95f835/1*xPHhSQIxvY_Fk4gVcR4FEQ.jpeg)
+![](../assets/e5741e95f835/1*xPHhSQIxvY_Fk4gVcR4FEQ.jpeg)
 
 ### **REPORT \[10\]**
 
@@ -923,7 +923,7 @@ Six men and two women, four of them wearing black uniforms and masks\. The polic
 Ibrahim had pain around his whole body because the police hit him into his legs, neck, and also into the area of his groin\. He told that has taken pain killers but did not go to a doctor\.
 
 
-![](assets/e5741e95f835/1*GJDMyXT-pb0a6iefiGO6qw.jpeg)
+![](../assets/e5741e95f835/1*GJDMyXT-pb0a6iefiGO6qw.jpeg)
 
 ### **REPORT \[17\]**
 

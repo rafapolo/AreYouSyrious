@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 07/12/17: EU takes Czech Republic, Hungary, and Poland to the Court of Justice
+title: "AYS Daily Digest 07/12/17: EU takes Czech Republic, Hungary, and Poland to the Court of Justice"
 author: Are You Syrious?
 date: 2017-12-08T00:17:06.180+0000
 last_modified_at: 2017-12-08T07:46:53.151+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,refugeeswelcome,greece,denmark,european-commission]
 description: Commission proposal for a EU Agency for Asylum / Moving to mainland Greece / Islands on the verge of another crisis / Ventimiglia — Calais…
 image:
-  path: assets/b3a63798ddd4/1*F8_GM8PljuWmX4JM3f9tSA.jpeg
+  path: ../assets/b3a63798ddd4/1*F8_GM8PljuWmX4JM3f9tSA.jpeg
 ---
 
 ### AYS Daily Digest 07/12/17: EU takes Czech Republic, Hungary, and Poland to the Court of Justice
@@ -15,7 +15,7 @@ image:
 Commission proposal for a EU Agency for Asylum / Moving to mainland Greece / Islands on the verge of another crisis / Ventimiglia — Calais of Italy / New pressure to alter Denmark’s family reunification rules
 
 
-![“It’s freezing cold in Beqaa now\. There is snow in the mountains and people are living in tents\. The temperature has been dropping this week and yesterday heavy rain was falling\. The puddles on the ground are getting bigger and bigger\.” Photo: AYS](assets/b3a63798ddd4/1*F8_GM8PljuWmX4JM3f9tSA.jpeg)
+![“It’s freezing cold in Beqaa now\. There is snow in the mountains and people are living in tents\. The temperature has been dropping this week and yesterday heavy rain was falling\. The puddles on the ground are getting bigger and bigger\.” Photo: AYS](../assets/b3a63798ddd4/1*F8_GM8PljuWmX4JM3f9tSA.jpeg)
 
 “It’s freezing cold in Beqaa now\. There is snow in the mountains and people are living in tents\. The temperature has been dropping this week and yesterday heavy rain was falling\. The puddles on the ground are getting bigger and bigger\.” Photo: AYS
 ### FEATURE
@@ -33,7 +33,7 @@ Preliminary agreement on a EU\-wide asylum agency has been reached between co\-l
 “The EU needs a robust and effective system for sustainable migration management for the future\. The weaknesses in the design and implementation of the current EU asylum system have led to differing treatment of asylum seekers and varying recognition rates across the EU\. These divergences encourage secondary movements and abuse of the rules\. The procedures are also too complex and lengthy and the system overall leads to disproportionate pressure being put onto the Member States of first entry\.” An EC factsheet explaining what the new rules will mean in practice can be read in full [here](http://The European Asylum Support Office) \.
 
 
-![Source: [EASO](https://twitter.com/easo/status/938741151158456320)](assets/b3a63798ddd4/1*-pHr61TXK3G9QoUGOC28mQ.jpeg)
+![Source: [EASO](https://twitter.com/easo/status/938741151158456320)](../assets/b3a63798ddd4/1*-pHr61TXK3G9QoUGOC28mQ.jpeg)
 
 Source: [EASO](https://twitter.com/easo/status/938741151158456320)
 ### LEBANON
@@ -43,7 +43,7 @@ A big fire broke out in Beqaa this afternoon, burning down a whole settlement an
 It’s freezing cold in Beqaa now\. There is snow in the mountains and people are living in tents\. The temperature has been dropping this week and yesterday heavy rain was falling\. The puddles on the ground are getting bigger and bigger\.
 
 
-![One of thousands of settlements in the Beqaa valley, Lebanon\. Photo: AYS](assets/b3a63798ddd4/1*PguklG-9-IxW4PSmFfpW4A.jpeg)
+![One of thousands of settlements in the Beqaa valley, Lebanon\. Photo: AYS](../assets/b3a63798ddd4/1*PguklG-9-IxW4PSmFfpW4A.jpeg)
 
 One of thousands of settlements in the Beqaa valley, Lebanon\. Photo: AYS
 ### TURKEY
@@ -62,7 +62,7 @@ MSF [said](http://www.ekathimerini.com/223936/article/ekathimerini/news/islands-
 In Samos, 1,500 people live in a camp designed for only 700\. Hundreds are sleeping in summer tents without any heating and with poor hygienic conditions, MSF [writes](https://twitter.com/msf_sea/status/938797806021685248) \.
 
 
-![Samos, source: MSF](assets/b3a63798ddd4/1*h6afRkGxnqFR_1w8ZkCpzQ.jpeg)
+![Samos, source: MSF](../assets/b3a63798ddd4/1*h6afRkGxnqFR_1w8ZkCpzQ.jpeg)
 
 Samos, source: MSF
 
@@ -92,7 +92,7 @@ Just when RSA published a distressing [text](http://rsaegean.org/refugee-mothers
 Three more boats arrived on Greek shores since yesterday evening\. Two to Lesvos, carrying nine and 82 people, and one to Chios with 71 people, among them 38 children\! Among those on the boat to Lesvos with 82 people were four medical cases that had to be taken to the hospital\. The boat to Chios was saved by HCG after its engine stopped working and the sea was getting rough\.
 
 
-![Yesterday night around 9 o’clock a small boat came with 9 people\. Nationality Afghanistan\. They came in a small wooden boat, which is quite unusual\. They were rescued by the Portuguese frontex and transferred to the port of Skala — [Refugee 4 Refugees](https://www.facebook.com/Refugee4Refugees/)](assets/b3a63798ddd4/1*-Rxi5uGMhTnkAG5oX0UoiA.jpeg)
+![Yesterday night around 9 o’clock a small boat came with 9 people\. Nationality Afghanistan\. They came in a small wooden boat, which is quite unusual\. They were rescued by the Portuguese frontex and transferred to the port of Skala — [Refugee 4 Refugees](https://www.facebook.com/Refugee4Refugees/)](../assets/b3a63798ddd4/1*-Rxi5uGMhTnkAG5oX0UoiA.jpeg)
 
 Yesterday night around 9 o’clock a small boat came with 9 people\. Nationality Afghanistan\. They came in a small wooden boat, which is quite unusual\. They were rescued by the Portuguese frontex and transferred to the port of Skala — [Refugee 4 Refugees](https://www.facebook.com/Refugee4Refugees/)
 ### SEA

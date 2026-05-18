@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 10/01/18: Over 200 people have died on the sea so far this year
+title: "AYS Daily Digest 10/01/18: Over 200 people have died on the sea so far this year"
 author: Are You Syrious?
 date: 2018-01-11T04:24:21.850+0000
 last_modified_at: 2018-01-12T00:02:41.725+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,hungary,libya,police-brutality,asylum-seekers]
 description: Countering false reports about the White Helmets / Italy complicit in Libyan crimes / Baobab defends refugees in Italy / Greece cleans up…
 image:
-  path: assets/34e73b41e11/1*qlfm2vzEVi9JWtlQ3cq4SQ.jpeg
+  path: ../assets/34e73b41e11/1*qlfm2vzEVi9JWtlQ3cq4SQ.jpeg
 ---
 
 ### AYS Daily Digest 10/01/18: Over 200 people have died on the sea so far this year
@@ -15,7 +15,7 @@ image:
 _Countering false reports about the White Helmets / Italy complicit in Libyan crimes / Baobab defends refugees in Italy / Greece cleans up Moria camp when eyes are watching / No fair trial for Ahmed in Hungary / Donations needed in France / Volunteering in Switzerland / And more news…_
 
 
-![Idriss is a young man from Sierra Leone who left for Europe to make money to pay for his mother’s medical bills\. Upon arrival in Libya, he was kidnapped by a gang of men and held for ransom\. When he tried to escape, one of the guards bit his ear off\. \(Story and photo by [Sea Watch](https://www.facebook.com/seawatchprojekt/) \)](assets/34e73b41e11/1*qlfm2vzEVi9JWtlQ3cq4SQ.jpeg)
+![Idriss is a young man from Sierra Leone who left for Europe to make money to pay for his mother’s medical bills\. Upon arrival in Libya, he was kidnapped by a gang of men and held for ransom\. When he tried to escape, one of the guards bit his ear off\. \(Story and photo by [Sea Watch](https://www.facebook.com/seawatchprojekt/) \)](../assets/34e73b41e11/1*qlfm2vzEVi9JWtlQ3cq4SQ.jpeg)
 
 Idriss is a young man from Sierra Leone who left for Europe to make money to pay for his mother’s medical bills\. Upon arrival in Libya, he was kidnapped by a gang of men and held for ransom\. When he tried to escape, one of the guards bit his ear off\. \(Story and photo by [Sea Watch](https://www.facebook.com/seawatchprojekt/) \)
 ### SEA
@@ -98,7 +98,7 @@ Syrians living in the Damascus suburb of East Ghouta have faced unimaginable suf
 
 
 ![“I can explain the scene in [\#Douma\_city](https://www.facebook.com/hashtag/douma_city) now in only three words… it’s raining mortars\.”
- — [Firas Abdullah](https://www.facebook.com/Firas.Al.Abdullah) in Eastern Ghouta \(Photo from Abdulmonam Eassa\)](assets/34e73b41e11/1*MGx7nv9NhpN9oG2m05oUTg.jpeg)
+ — [Firas Abdullah](https://www.facebook.com/Firas.Al.Abdullah) in Eastern Ghouta \(Photo from Abdulmonam Eassa\)](../assets/34e73b41e11/1*MGx7nv9NhpN9oG2m05oUTg.jpeg)
 
 “I can explain the scene in [\#Douma\_city](https://www.facebook.com/hashtag/douma_city) now in only three words… it’s raining mortars\.”
  — [Firas Abdullah](https://www.facebook.com/Firas.Al.Abdullah) in Eastern Ghouta \(Photo from Abdulmonam Eassa\)
@@ -131,7 +131,7 @@ While UN officials are quick to condemn these attacks, they have been noticeably
 
 
 
-![“A scared cat found himself in a tricky spot\. Luckily a [\#WhiteHelmet](https://www.facebook.com/hashtag/whitehelmet?source=feed_text&story_id=945504282280971) spotted him and came to the rescue\. In a nation so bombarded by hate, the love of all creatures is not lost on the [\#SyrianCivilDefense](https://www.facebook.com/hashtag/syriancivildefense?source=feed_text&story_id=945504282280971) \.” \(Photo from [Free Syria](https://www.facebook.com/Free.SyriaSalam/?hc_ref=ARSJbETtnZ4PSD-uS4riJlKQS2ymQ2SDhCvMLe_somi2VECWwHT3gLdhcbWD3uDUEZ8) \)](assets/34e73b41e11/1*6V-Lr6U_3cFuyQFBylKhiw.jpeg)
+![“A scared cat found himself in a tricky spot\. Luckily a [\#WhiteHelmet](https://www.facebook.com/hashtag/whitehelmet?source=feed_text&story_id=945504282280971) spotted him and came to the rescue\. In a nation so bombarded by hate, the love of all creatures is not lost on the [\#SyrianCivilDefense](https://www.facebook.com/hashtag/syriancivildefense?source=feed_text&story_id=945504282280971) \.” \(Photo from [Free Syria](https://www.facebook.com/Free.SyriaSalam/?hc_ref=ARSJbETtnZ4PSD-uS4riJlKQS2ymQ2SDhCvMLe_somi2VECWwHT3gLdhcbWD3uDUEZ8) \)](../assets/34e73b41e11/1*6V-Lr6U_3cFuyQFBylKhiw.jpeg)
 
 “A scared cat found himself in a tricky spot\. Luckily a [\#WhiteHelmet](https://www.facebook.com/hashtag/whitehelmet?source=feed_text&story_id=945504282280971) spotted him and came to the rescue\. In a nation so bombarded by hate, the love of all creatures is not lost on the [\#SyrianCivilDefense](https://www.facebook.com/hashtag/syriancivildefense?source=feed_text&story_id=945504282280971) \.” \(Photo from [Free Syria](https://www.facebook.com/Free.SyriaSalam/?hc_ref=ARSJbETtnZ4PSD-uS4riJlKQS2ymQ2SDhCvMLe_somi2VECWwHT3gLdhcbWD3uDUEZ8) \)
 
@@ -144,7 +144,7 @@ Why is this happening? The reason Russia is doing this is because the White Helm
 You can support the life\-saving work of the White Helmets [here](https://www.whitehelmets.org/en) \.
 
 
-![Figures showing internally displaced persons within Syria, updated Jan\. 9th \(Photo credit: CCCM Cluster, via [Free Syria](https://www.facebook.com/Free.SyriaSalam/?hc_location=group_dialog) \)](assets/34e73b41e11/1*W76maomqEvN_DZrW3DDiHQ.jpeg)
+![Figures showing internally displaced persons within Syria, updated Jan\. 9th \(Photo credit: CCCM Cluster, via [Free Syria](https://www.facebook.com/Free.SyriaSalam/?hc_location=group_dialog) \)](../assets/34e73b41e11/1*W76maomqEvN_DZrW3DDiHQ.jpeg)
 
 Figures showing internally displaced persons within Syria, updated Jan\. 9th \(Photo credit: CCCM Cluster, via [Free Syria](https://www.facebook.com/Free.SyriaSalam/?hc_location=group_dialog) \)
 ### LIBYA
@@ -157,12 +157,12 @@ The accusations made by Amnesty International to the European governments for be
 ### ITALY
 
 
-![Italian authorities attack refugees with fire hoses in Independence Square, Rome\. August 17th, 2017\. \(Photo from [Baobab Experience](https://www.facebook.com/BaobabExperience/) \)](assets/34e73b41e11/1*Jquvvfj8yr7XkDRLyWX2VA.jpeg)
+![Italian authorities attack refugees with fire hoses in Independence Square, Rome\. August 17th, 2017\. \(Photo from [Baobab Experience](https://www.facebook.com/BaobabExperience/) \)](../assets/34e73b41e11/1*Jquvvfj8yr7XkDRLyWX2VA.jpeg)
 
 Italian authorities attack refugees with fire hoses in Independence Square, Rome\. August 17th, 2017\. \(Photo from [Baobab Experience](https://www.facebook.com/BaobabExperience/) \)
 
 
-![History repeats: a fireman assaults civil rights protestors in Birmingham, AL, 1963\.](assets/34e73b41e11/1*PaW5Olzun8xDYy3WxzBwsA.jpeg)
+![History repeats: a fireman assaults civil rights protestors in Birmingham, AL, 1963\.](../assets/34e73b41e11/1*PaW5Olzun8xDYy3WxzBwsA.jpeg)
 
 History repeats: a fireman assaults civil rights protestors in Birmingham, AL, 1963\.
 
@@ -293,7 +293,7 @@ The proceedings today showed footage, but there was no sound\.
 
 
 
-![Police remove the handcuffs from Ahmed before his trial\. Who looks like the “terrorist” in this image?](assets/34e73b41e11/1*d0j1GIBPU4-SsQjMkbzCCQ.jpeg)
+![Police remove the handcuffs from Ahmed before his trial\. Who looks like the “terrorist” in this image?](../assets/34e73b41e11/1*d0j1GIBPU4-SsQjMkbzCCQ.jpeg)
 
 Police remove the handcuffs from Ahmed before his trial\. Who looks like the “terrorist” in this image?
 ### FRANCE
@@ -303,14 +303,14 @@ As AYS reported earlier this week, there are estimated to be over 1,500 refugees
 See the information at the bottom of [this post](https://www.facebook.com/rastplatz/videos/568278073519658/?fref=gs&dti=1652972374920129&hc_location=group) to donate\.
 
 
-![The bottom of a shoe belonging to a refugee in northern France \(Photo from Rastplatz\)](assets/34e73b41e11/1*_j_FtMaEhNrQAo-SbWBSug.jpeg)
+![The bottom of a shoe belonging to a refugee in northern France \(Photo from Rastplatz\)](../assets/34e73b41e11/1*_j_FtMaEhNrQAo-SbWBSug.jpeg)
 
 The bottom of a shoe belonging to a refugee in northern France \(Photo from Rastplatz\)
 
 Elsewhere in France, in the city of Grand\-Synthe, volunteers on the ground have documented another instance of police slashing refugees tents and bedding\. This has become an appalling trend in France, where President Macron promised better treatment for refugees and to have all refugees off the streets and accommodated by the end of 2017\. So far he has proven himself to be a liar\.
 
 
-![“How can this be normal? It’s winter, god dammit\! \(Photo from [Fleur Ali](https://www.facebook.com/fleur.ali.5) \)](assets/34e73b41e11/1*jd1FNSeUxsUUV3mX3-wGZA.jpeg)
+![“How can this be normal? It’s winter, god dammit\! \(Photo from [Fleur Ali](https://www.facebook.com/fleur.ali.5) \)](../assets/34e73b41e11/1*jd1FNSeUxsUUV3mX3-wGZA.jpeg)
 
 “How can this be normal? It’s winter, god dammit\! \(Photo from [Fleur Ali](https://www.facebook.com/fleur.ali.5) \)
 
@@ -341,7 +341,7 @@ Germany’s [top court ruled today](http://m.dw.com/en/deportations-illegal-if-t
 Contact them at recruitment@asylex\.com\.
 
 
-![Photo from [AsyLex](https://www.facebook.com/AsyLex.ch/?hc_location=group_dialog)](assets/34e73b41e11/1*mALAS74pVcsV7hsdqvOooA.jpeg)
+![Photo from [AsyLex](https://www.facebook.com/AsyLex.ch/?hc_location=group_dialog)](../assets/34e73b41e11/1*mALAS74pVcsV7hsdqvOooA.jpeg)
 
 Photo from [AsyLex](https://www.facebook.com/AsyLex.ch/?hc_location=group_dialog)
 

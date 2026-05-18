@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 9/2/2018: Letter from Paris
+title: "AYS DAILY DIGEST 9/2/2018: Letter from Paris"
 author: Are You Syrious?
 date: 2018-02-10T10:26:25.873+0000
 last_modified_at: 2018-03-01T13:33:37.976+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,abdul-sabur,paris,france,digest]
 description: Abdul Saboor (25) from Afghanistan lives in Paris with many people on the move who came to Europe dreaming about safe life. His photo…
 image:
-  path: assets/55aeccc1f21a/1*QyqOwM_FqnRadTretCHf_Q.jpeg
+  path: ../assets/55aeccc1f21a/1*QyqOwM_FqnRadTretCHf_Q.jpeg
 ---
 
 ### AYS DAILY DIGEST 9/2/2018: Letter from Paris
@@ -15,7 +15,7 @@ image:
 _Abdul Saboor \(25\) from Afghanistan lives in Paris with many people on the move who came to Europe dreaming about safe life\. His photo exhibition, showing photos taken in the barracks in Belgrade where he spent last winter, is on display at the_ L’Atelier des artistes en exil _in Paris\. The exhibition is organized with the support of the French Ministry of Culture\. It open at the end of January and will be on display for two months\. Ironically, if you want to speak with the artist, join the volunteers in the street of Paris, bring him a blanket, sleeping bag, hot tea… Or better, host him or anybody, in your home\. This is his letter from Paris\._
 
 
-![Photo: Abdul Saboor](assets/55aeccc1f21a/1*QyqOwM_FqnRadTretCHf_Q.jpeg)
+![Photo: Abdul Saboor](../assets/55aeccc1f21a/1*QyqOwM_FqnRadTretCHf_Q.jpeg)
 
 Photo: Abdul Saboor
 
@@ -47,19 +47,19 @@ Photo: Abdul Saboor
 Last night, hundreds of people were moved to shelters, as well as the day before\. But many are still on the streets\.
 
 
-![](assets/55aeccc1f21a/1*rCrRBNifVDFH4Zxe7npQmA.png)
+![](../assets/55aeccc1f21a/1*rCrRBNifVDFH4Zxe7npQmA.png)
 
 
 
-![](assets/55aeccc1f21a/1*pewd0O8cSNy_ndQ62euQYA.jpeg)
+![](../assets/55aeccc1f21a/1*pewd0O8cSNy_ndQ62euQYA.jpeg)
 
 
 
-![](assets/55aeccc1f21a/1*RY4-9AwFMecyqAp0IpDtpQ.jpeg)
+![](../assets/55aeccc1f21a/1*RY4-9AwFMecyqAp0IpDtpQ.jpeg)
 
 
 
-![Photo: Abdul Saboor](assets/55aeccc1f21a/1*89qxDsKD5ZwSaszjO2txgw.jpeg)
+![Photo: Abdul Saboor](../assets/55aeccc1f21a/1*89qxDsKD5ZwSaszjO2txgw.jpeg)
 
 Photo: Abdul Saboor
 
@@ -70,19 +70,19 @@ If you are in Paris, join the volunteers on the streets\. Even better, like peop
 
 
 
-![](assets/55aeccc1f21a/1*8wHhKDNUYki7EKoraR9gUA.jpeg)
+![](../assets/55aeccc1f21a/1*8wHhKDNUYki7EKoraR9gUA.jpeg)
 
 
 
-![](assets/55aeccc1f21a/1*lyQQRQ4FBtUxS7lnEs1_Mw.jpeg)
+![](../assets/55aeccc1f21a/1*lyQQRQ4FBtUxS7lnEs1_Mw.jpeg)
 
 
 
-![](assets/55aeccc1f21a/1*jvOjVZfwWImUm5pN49ZF2g.jpeg)
+![](../assets/55aeccc1f21a/1*jvOjVZfwWImUm5pN49ZF2g.jpeg)
 
 
 
-![Photos: Abdul Saboor](assets/55aeccc1f21a/1*kbDHfled0eJclYjXOtaVYQ.jpeg)
+![Photos: Abdul Saboor](../assets/55aeccc1f21a/1*kbDHfled0eJclYjXOtaVYQ.jpeg)
 
 Photos: Abdul Saboor
 ### Greece
@@ -98,11 +98,11 @@ While the UN is collecting reports and talking about problems from Geneva, volun
 The beds and mattresses were donated by the city of Hamburg, the transport was organized by Hamburger Hilfskonvoi and ResCO international, bedding and blankets donated by Hanseatic Help e\. V\. are on their way to Lesvos\.
 
 
-![](assets/55aeccc1f21a/1*dy2wTqrchgxTar89zVQOgQ.jpeg)
+![](../assets/55aeccc1f21a/1*dy2wTqrchgxTar89zVQOgQ.jpeg)
 
 
 
-![Photo by [**Tim Eisenlohr**](https://www.facebook.com/xxtim)](assets/55aeccc1f21a/1*ZNnzlQ0B1_TlQs_kiwcOgg.jpeg)
+![Photo by [**Tim Eisenlohr**](https://www.facebook.com/xxtim)](../assets/55aeccc1f21a/1*ZNnzlQ0B1_TlQs_kiwcOgg.jpeg)
 
 Photo by [**Tim Eisenlohr**](https://www.facebook.com/xxtim)
 
@@ -126,7 +126,7 @@ Luckily, there is another side to Italy and those people will be part of anti\-r
 “The city has become the symbol of a country that tomorrow will be united under the flag of anti\-fascism to say ‘no’ to any form of fascism and racism, the symbol of a country that is dealing with its past and present to build a better future\.”
 
 
-![Ventimiglia\. Photo: Proggeto20k](assets/55aeccc1f21a/1*y2yEID6UVCklTLXV-qLc6A.jpeg)
+![Ventimiglia\. Photo: Proggeto20k](../assets/55aeccc1f21a/1*y2yEID6UVCklTLXV-qLc6A.jpeg)
 
 Ventimiglia\. Photo: Proggeto20k
 ### Serbia

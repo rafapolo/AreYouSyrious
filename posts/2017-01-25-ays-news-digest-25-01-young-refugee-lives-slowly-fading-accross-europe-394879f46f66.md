@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 24/01: Two young refugees lost their lives today
+title: "AYS News Digest 24/01: Two young refugees lost their lives today"
 author: Are You Syrious?
 date: 2017-01-25T02:15:11.589+0000
 last_modified_at: 2017-01-25T14:34:37.926+0000
@@ -7,20 +7,20 @@ categories:
 tags: [refugees,europe,uk-politics,germany,italy]
 description: A boy dies in Moria | New arrivals in the Aegean | Much needed housing initiatives rising | Refugees in Serbia still struggling | Croatian…
 image:
-  path: assets/394879f46f66/1*IOnLArgbb6QLSlMCY8HZ9w.jpeg
+  path: ../assets/394879f46f66/1*IOnLArgbb6QLSlMCY8HZ9w.jpeg
 ---
 
 ### AYS News Digest 24/01: Two young refugees lost their lives today
 #### A boy dies in Moria \| New arrivals in the Aegean \| Much needed housing initiatives rising \| Refugees in Serbia still struggling \| Croatian NGOs demanding responsibility from all the responsibles in the Police \| A refugee killed himself in Venice; Life threatening poor conditions in some accommodation places in Italy \| 26 Afghans deported from Germany \| Taking care of unaccompanied minors in the UK — a lesson from Glasgow \| The new priorities of the US — suspending Muslim majority countries’ visas
 
 
-![A boy in the fields around the Railway in Belgrade \(Photo: [Jan Refugee](https://www.facebook.com/jan.refugee.7) \)](assets/394879f46f66/1*IOnLArgbb6QLSlMCY8HZ9w.jpeg)
+![A boy in the fields around the Railway in Belgrade \(Photo: [Jan Refugee](https://www.facebook.com/jan.refugee.7) \)](../assets/394879f46f66/1*IOnLArgbb6QLSlMCY8HZ9w.jpeg)
 
 A boy in the fields around the Railway in Belgrade \(Photo: [Jan Refugee](https://www.facebook.com/jan.refugee.7) \)
 #### MEDITERRANEAN
 
 
-![](assets/394879f46f66/1*JZD60oCSeyw-GkYxv4UqDA.jpeg)
+![](../assets/394879f46f66/1*JZD60oCSeyw-GkYxv4UqDA.jpeg)
 
 #### GREECE
 ### The islands
@@ -35,22 +35,22 @@ A boy in the fields around the Railway in Belgrade \(Photo: [Jan Refugee](https:
 With **94** official registrations until this morning \(51 on Lesvos and 43 on other islands\), more than 1000 \(1063\) people have officially arrived on the Eastern Aegean islands since the beginning of the year, an average of 44 per day\.
 
 
-![](assets/394879f46f66/1*GE1f_HFQZa92GaIp4xIviQ.jpeg)
+![](../assets/394879f46f66/1*GE1f_HFQZa92GaIp4xIviQ.jpeg)
 
 #### Islands’ mayors receive no firm commitments from Tsipras
 
 The mayors of Lesvos, Chios, Samos, Kos and Leros on Monday jointly presented their demands for measures to ease severe overcrowding at migrant reception centers on their islands during a [meeting in Athens](http://greece.greekreporter.com/2017/01/24/no-firm-commitment-on-decongesting-islands-at-pms-meeting-with-island-mayors-on-refugee-crisis/) with Prime Minister Alexis Tsipras\. They called for the transfer of hundreds of migrants to facilities on the Greek mainland, the improvement of the asylum process so that migrants can leave islands without delay, and measures to boost local economies which have been hit hard by the refugee crisis on top of the country’s financial crisis, [Ekathimerini](http://www.ekathimerini.com/215543/article/ekathimerini/news/island-mayors-ask-pm-for-transfer-of-migrants) reports\.
 
 
-![](assets/394879f46f66/1*vyC-f_L_sz_EMGyKJdPHaA.jpeg)
+![](../assets/394879f46f66/1*vyC-f_L_sz_EMGyKJdPHaA.jpeg)
 
 
 
-![](assets/394879f46f66/1*fwCk-Gx2rt4u8B8wUvoYLQ.jpeg)
+![](../assets/394879f46f66/1*fwCk-Gx2rt4u8B8wUvoYLQ.jpeg)
 
 
 
-![Film posters from the 5 day documentary film\-making workshop for beginners, on Lesvos\. \(Images: [The Office of Displaced Designers](https://www.facebook.com/displaceddesigners/?ref=stream) \)](assets/394879f46f66/1*FqVJXVXQG7gISUTZDslVcg.jpeg)
+![Film posters from the 5 day documentary film\-making workshop for beginners, on Lesvos\. \(Images: [The Office of Displaced Designers](https://www.facebook.com/displaceddesigners/?ref=stream) \)](../assets/394879f46f66/1*FqVJXVXQG7gISUTZDslVcg.jpeg)
 
 Film posters from the 5 day documentary film\-making workshop for beginners, on Lesvos\. \(Images: [The Office of Displaced Designers](https://www.facebook.com/displaceddesigners/?ref=stream) \)
 ### Greek Asylum Service reschedules full registration dates of all who pre\-registrated in June/July of 2016
@@ -60,11 +60,11 @@ All [appointments](http://asylo.gov.gr/en/?p=1974) will be concluded until the e
 You can check the date and place of your appointment in [this link](https://search.rescueapp.org/#/) \.
 
 
-![](assets/394879f46f66/1*rGr-xtqEmU1S1_o7F-O54w.jpeg)
+![](../assets/394879f46f66/1*rGr-xtqEmU1S1_o7F-O54w.jpeg)
 
 
 
-![“Tree of Hope is a project organized by [Lighthouse Relief](https://www.facebook.com/lighthouserelief/) and I AM YOU, but the real creators are the adolescents of Ritsona who made it happen” \(Photos: [I AM YOU\.](https://www.facebook.com/iamyourescue/) \)](assets/394879f46f66/1*jE1deFaph_5xMH8l-Vpjwg.jpeg)
+![“Tree of Hope is a project organized by [Lighthouse Relief](https://www.facebook.com/lighthouserelief/) and I AM YOU, but the real creators are the adolescents of Ritsona who made it happen” \(Photos: [I AM YOU\.](https://www.facebook.com/iamyourescue/) \)](../assets/394879f46f66/1*jE1deFaph_5xMH8l-Vpjwg.jpeg)
 
 “Tree of Hope is a project organized by [Lighthouse Relief](https://www.facebook.com/lighthouserelief/) and I AM YOU, but the real creators are the adolescents of Ritsona who made it happen” \(Photos: [I AM YOU\.](https://www.facebook.com/iamyourescue/) \)
 ### Housing
@@ -78,7 +78,7 @@ According to the [report](http://reliefweb.int/sites/reliefweb.int/files/resourc
 As a part of the action intended to move everyone they can to the apartments some similar type of housing, the Greek Ministry has notified the residents of **Elliniko** that they might be the next to leave the really bad place they are currently accommodate in\. Although similar plans were presented in Novemeber 2016, still not much has happened\. We are attentive to the development of the situation\.
 
 
-![“As of Jan\. 13 according to the latest EKKA \(National Center for Social Solidarity\) data: 5,192 unaccompanied minors were officially registered entering Greece since the beginning of 2016, of those 1,301 are currently without a home and exposed to all sorts of dangers from child abuse, to sex trafficking and child labor\. The need for shelter, support and social integration is urgent\.” [The HOME Project](https://www.facebook.com/HomeProjectOrg/?fref=nf) ’s mission is to create healing environments where they can\. \(Photo credits: Nikos Pilos via The HOME Project\)](assets/394879f46f66/1*lUd3WDeqdI8pFVi00CFZcw.jpeg)
+![“As of Jan\. 13 according to the latest EKKA \(National Center for Social Solidarity\) data: 5,192 unaccompanied minors were officially registered entering Greece since the beginning of 2016, of those 1,301 are currently without a home and exposed to all sorts of dangers from child abuse, to sex trafficking and child labor\. The need for shelter, support and social integration is urgent\.” [The HOME Project](https://www.facebook.com/HomeProjectOrg/?fref=nf) ’s mission is to create healing environments where they can\. \(Photo credits: Nikos Pilos via The HOME Project\)](../assets/394879f46f66/1*lUd3WDeqdI8pFVi00CFZcw.jpeg)
 
 “As of Jan\. 13 according to the latest EKKA \(National Center for Social Solidarity\) data: 5,192 unaccompanied minors were officially registered entering Greece since the beginning of 2016, of those 1,301 are currently without a home and exposed to all sorts of dangers from child abuse, to sex trafficking and child labor\. The need for shelter, support and social integration is urgent\.” [The HOME Project](https://www.facebook.com/HomeProjectOrg/?fref=nf) ’s mission is to create healing environments where they can\. \(Photo credits: Nikos Pilos via The HOME Project\)
 ### Still divided sides on schooling of refugees in Greece
@@ -103,7 +103,7 @@ Recently, we wrote about the fascist supporters who used violence against teache
 While some aid will continue to be required to address the immediate needs of new arrivals, the activities under [RMRP](http://www.unhcr.rs/en/dokumenti/saopstenja-za-medije/unhcr-i-iom-predstavljaju-novi-plan-reagovanja-na-izbeglicku-i-migrantsku-krizu-u-srbiji.html) will primarily focus on the longer\-term staying population and their needs for shelter, food, health, education and solutions\. With this plan 8 UN agencies and 16 on\-governmental organisations seek to assist Serbia with activities at the value of over 39 million US dollars\. Under the preceding RMRPs of 2015–2016 Serbia had received international support to the refugee and migration situation at the value of **USD 13,106,618** \.”
 
 
-![A young refugee in Belgrade, Serbia \(Photo: [John refugee](https://www.facebook.com/John-refugee-747163385440090/) \)](assets/394879f46f66/1*GbeFZyH3fsuBUHwcJb3BRQ.jpeg)
+![A young refugee in Belgrade, Serbia \(Photo: [John refugee](https://www.facebook.com/John-refugee-747163385440090/) \)](../assets/394879f46f66/1*GbeFZyH3fsuBUHwcJb3BRQ.jpeg)
 
 A young refugee in Belgrade, Serbia \(Photo: [John refugee](https://www.facebook.com/John-refugee-747163385440090/) \)
 #### CROATIA
@@ -112,11 +112,11 @@ A young refugee in Belgrade, Serbia \(Photo: [John refugee](https://www.facebook
 The Welcome Initiative and Are You Syrious have urged the Croatian police to stop [forcibly and unlawfully turning back refugees](https://medium.com/@AreYouSyrious/ays-daily-news-digest-17-1-massive-negligence-of-minors-and-serious-police-abuse-remain-silently-38c0815bdec5#.h8gdo8rk1) from Croatia, to investigate such cases and take disciplinary action against those responsible, and to allow expelled refugees wishing to seek asylum in Croatia to return\.
 
 
-![](assets/394879f46f66/1*bbsd_4j89TJpREgwcOrGWw.jpeg)
+![](../assets/394879f46f66/1*bbsd_4j89TJpREgwcOrGWw.jpeg)
 
 
 
-![Photos: AYS](assets/394879f46f66/1*xRMWhWzVelae4drAh0-Yaw.jpeg)
+![Photos: AYS](../assets/394879f46f66/1*xRMWhWzVelae4drAh0-Yaw.jpeg)
 
 Photos: AYS
 #### ITALY
@@ -132,7 +132,7 @@ Tents were bought and the location for the new camp was decided but the works wo
 Lo Scatolone is an abandoned sports hall in Reggio Calabria where about 130 unaccompanied minors are hosted\. With no privacy, they all sleep in this big room with broken windows, with 2 toilets and 5 showers on disposition, with only cold water\. While in other places [documents are being signed](http://www.baritoday.it/politica/sottoscritta-piattaforma-per-l-inclusione-dei-cittadini-migranti-3088016.html) for the inclusion of the refugees, volunteers here have called for responsibility and for actions to be taken concerning a more proper lodging for these people\.
 
 
-![“Tranquility is important, but freedom is everything”\. A protest organized by Baobab takes place on Wednesday, January 25 \( [link to the event](https://www.facebook.com/csoalastrada/photos/gm.1840145506226114/1156513427798251/?type=3&theater) \)](assets/394879f46f66/1*GCDlXaT_cYgPpVHBCDnyIg.jpeg)
+![“Tranquility is important, but freedom is everything”\. A protest organized by Baobab takes place on Wednesday, January 25 \( [link to the event](https://www.facebook.com/csoalastrada/photos/gm.1840145506226114/1156513427798251/?type=3&theater) \)](../assets/394879f46f66/1*GCDlXaT_cYgPpVHBCDnyIg.jpeg)
 
 “Tranquility is important, but freedom is everything”\. A protest organized by Baobab takes place on Wednesday, January 25 \( [link to the event](https://www.facebook.com/csoalastrada/photos/gm.1840145506226114/1156513427798251/?type=3&theater) \)
 

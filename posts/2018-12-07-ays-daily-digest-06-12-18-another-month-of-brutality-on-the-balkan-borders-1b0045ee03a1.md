@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 06/12/18: Another month of brutality on the Balkan borders
+title: "AYS Daily Digest 06/12/18: Another month of brutality on the Balkan borders"
 author: Are You Syrious?
 date: 2018-12-07T13:29:06.472+0000
 last_modified_at: 2018-12-07T13:29:06.472+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [refugees,croatia,push-backs,police-brutality,digest]
 description: Are You Syrious?
 image:
-  path: assets/1b0045ee03a1/1*mrZY0q8DNo22PfN_EwQ4ag.png
+  path: ../assets/1b0045ee03a1/1*mrZY0q8DNo22PfN_EwQ4ag.png
 ---
 
 ### AYS Daily Digest 06/12/18: Another month of brutality on the Balkan borders
 
 
-![](assets/1b0045ee03a1/1*Tx1u1RSutf5fWmPbOOmJVA.jpeg)
+![](../assets/1b0045ee03a1/1*Tx1u1RSutf5fWmPbOOmJVA.jpeg)
 
 
 [Are You Syrious?](https://medium.com/@AreYouSyrious?source=post_header_lockup)
@@ -24,7 +24,7 @@ _Demonstration for Festus Okey // NGOs demand end to detention in Aegean // Volu
 ### FEATURE: November report on border violence
 
 
-![Photo NNK](assets/1b0045ee03a1/1*mrZY0q8DNo22PfN_EwQ4ag.png)
+![Photo NNK](../assets/1b0045ee03a1/1*mrZY0q8DNo22PfN_EwQ4ag.png)
 
 Photo NNK
 
@@ -37,7 +37,7 @@ There is a disturbing pattern to these push backs\. Refugees are taken to the bo
 _“The worst thing is that they are insulting us, they start laughing and make jokes when they are starting to beat us…In this moment, you start to feel that you are not even human\. You just try to escape, just to run and go and then they make you fall down again and start beating you\.”_
 
 
-![“ _“At the border, they were shouting at us: “Go, go, go, go\!” and beating us by batons\. Open car and one by one, pa pa pa pa by baton\. I fell and broke my leg\.” Photo Credit: NNK_](assets/1b0045ee03a1/1*Tvt3UI79OdssHdO3Msqcng.png)
+![“ _“At the border, they were shouting at us: “Go, go, go, go\!” and beating us by batons\. Open car and one by one, pa pa pa pa by baton\. I fell and broke my leg\.” Photo Credit: NNK_](../assets/1b0045ee03a1/1*Tvt3UI79OdssHdO3Msqcng.png)
 
 “ _“At the border, they were shouting at us: “Go, go, go, go\!” and beating us by batons\. Open car and one by one, pa pa pa pa by baton\. I fell and broke my leg\.” Photo Credit: NNK_
 
@@ -60,7 +60,7 @@ When will the EU wake up to the abuse being committed by Croatian and Slovenian 
 As right\-wingers stoke fear about Muslim terrorists, they ignore the men in black uniforms and masks who are already terrorizing people in the EU — the border police\.
 
 
-![A cell phone destroyed in an incident of border violence on 24/11/18\. Photo Credit: NNK](assets/1b0045ee03a1/1*AFfw6OIsSLy7WP-_3d5QlA.png)
+![A cell phone destroyed in an incident of border violence on 24/11/18\. Photo Credit: NNK](../assets/1b0045ee03a1/1*AFfw6OIsSLy7WP-_3d5QlA.png)
 
 A cell phone destroyed in an incident of border violence on 24/11/18\. Photo Credit: NNK
 
@@ -109,7 +109,7 @@ In August of 2007 a Nigerian asylum seeker named Festus Okey was shot and killed
 Recently, Istanbul’s 21st High Criminal Court has re\-opened the case, and announced a start date of December 12th\. Migrant and refugee solidarity groups are calling for a demonstration on the day of the trial at the Çağlayan Courthouse to demand justice for Okey\.
 
 
-![](assets/1b0045ee03a1/1*1HkXrdfB5o23PSdumuk9mA.jpeg)
+![](../assets/1b0045ee03a1/1*1HkXrdfB5o23PSdumuk9mA.jpeg)
 
 #### Rain destroys fence on Bulgarian\-Turkish border fence
 
@@ -167,7 +167,7 @@ No Borders Kitchen on Lesvos needs more people to help with their crew\. They ar
 #### Volunteers needed on Samos
 
 
-![Photo Credit: Samos Volunteers\. “We partnered up with [Médecins Sans Frontières](https://www.facebook.com/medecinssansfrontieres/?__tn__=%2CdKH-R-R&eid=ARDyVakuQV9TNVDc3ngL8eNQBp6JtewF5HAYtj6plEWtvvZbnGuiq7LRJMsS1QHC1UUP4691_Up3-BX3&fref=mentions) this past weekend for a Vaccination Campaign in the camp 💉 Children aged 6 months to 16 years old could get the MMR vaccine \(Measles, Mumps & Rubella\), key not only to their health, but to their enrolment in Greek public school\.”](assets/1b0045ee03a1/1*VgcbFB2p7cf-vmHUNyvutA.jpeg)
+![Photo Credit: Samos Volunteers\. “We partnered up with [Médecins Sans Frontières](https://www.facebook.com/medecinssansfrontieres/?__tn__=%2CdKH-R-R&eid=ARDyVakuQV9TNVDc3ngL8eNQBp6JtewF5HAYtj6plEWtvvZbnGuiq7LRJMsS1QHC1UUP4691_Up3-BX3&fref=mentions) this past weekend for a Vaccination Campaign in the camp 💉 Children aged 6 months to 16 years old could get the MMR vaccine \(Measles, Mumps & Rubella\), key not only to their health, but to their enrolment in Greek public school\.”](../assets/1b0045ee03a1/1*VgcbFB2p7cf-vmHUNyvutA.jpeg)
 
 Photo Credit: Samos Volunteers\. “We partnered up with [Médecins Sans Frontières](https://www.facebook.com/medecinssansfrontieres/?__tn__=%2CdKH-R-R&eid=ARDyVakuQV9TNVDc3ngL8eNQBp6JtewF5HAYtj6plEWtvvZbnGuiq7LRJMsS1QHC1UUP4691_Up3-BX3&fref=mentions) this past weekend for a Vaccination Campaign in the camp 💉 Children aged 6 months to 16 years old could get the MMR vaccine \(Measles, Mumps & Rubella\), key not only to their health, but to their enrolment in Greek public school\.”
 
@@ -204,7 +204,7 @@ See [refugee\.info](https://www.facebook.com/refugee.info/photos/a.1063678090359
 Volunteers from [Baobab Experience](https://www.facebook.com/BaobabExperience/?__tn__=%2CdkCH-R-R&eid=ARBIennlhBj6PEpNlz6qga-u2KYkixHkSZocME3ozM3X3qX-5qDyyMWxcuwTpdHH1d5Z6Njf3i1VPq7b&hc_ref=ARQFjvUxj1tolgtwbe13PvNEG4u4i34TJIa5xZVgRDUTad4PjqtP3QLYbkobGPZNYSc&fref=nf) were giving out breakfast at the Tiburtina metro station in Rome this morning when the riot police showed up\. In the spirit of Christmas, the police decided to stop the distribution of hot food and proceeded to harass the refugees there, detaining six of them\. They also seized some “dangerous” blankets, according to a statement from the group\. As Baobab noted, many of the people who were waiting for breakfast are refugees who are now living homeless after having been evicted from the “Baobab camp,” which was set up in an empty lot in the capital\.
 
 
-![Italian police clearing out the breakfast distribution\. Photo Credit: [Baobab Experience](https://www.facebook.com/BaobabExperience/photos/a.855775474499206/1944836718926404/?type=3&theater)](assets/1b0045ee03a1/1*8VJfydjZaQ54ddbQ2TcbEA.jpeg)
+![Italian police clearing out the breakfast distribution\. Photo Credit: [Baobab Experience](https://www.facebook.com/BaobabExperience/photos/a.855775474499206/1944836718926404/?type=3&theater)](../assets/1b0045ee03a1/1*8VJfydjZaQ54ddbQ2TcbEA.jpeg)
 
 Italian police clearing out the breakfast distribution\. Photo Credit: [Baobab Experience](https://www.facebook.com/BaobabExperience/photos/a.855775474499206/1944836718926404/?type=3&theater)
 
@@ -228,7 +228,7 @@ The group declared their intention to continue with food distribution, and to de
 ### BOSNIA
 
 
-![Photo Credit: Red Cross Bihac](assets/1b0045ee03a1/1*yEhSze-951Dnv4t6_i8CmQ.jpeg)
+![Photo Credit: Red Cross Bihac](../assets/1b0045ee03a1/1*yEhSze-951Dnv4t6_i8CmQ.jpeg)
 
 Photo Credit: Red Cross Bihac
 
@@ -260,7 +260,7 @@ A French volunteer group helped provide cleaning supplies and trash bags to a gr
 BAAM is organizing a collection point in Paris for hygeine items on the 17th and 19th of December\. Find details below\.
 
 
-![](assets/1b0045ee03a1/1*1DQ6dPijQBJI_PqrzSvOJA.jpeg)
+![](../assets/1b0045ee03a1/1*1DQ6dPijQBJI_PqrzSvOJA.jpeg)
 
 
 Solidarity Migrants Wilson is also organizing a winter item collection in Paris\. It will be at Decathlon Rosa Parks, 203 Boulevard Macdonald, 75019 Paris on Friday the 7th and Saturday the 8th from 10am to 6pm\. See more details [here](https://www.facebook.com/permalink.php?story_fbid=1035381403329298&id=598228360377940) \.

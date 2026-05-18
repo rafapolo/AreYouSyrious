@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 7/2/2020: More deaths in Moria.
+title: "AYS Daily Digest 7/2/2020: More deaths in Moria."
 author: Are You Syrious?
 date: 2020-02-08T14:59:17.382+0000
 last_modified_at: 2020-02-08T23:02:59.510+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,moria,germany,europe]
 description: Attempted border crossing in the UK, Spanish government conducting indirect returns, New immigration Law in Germany
 image:
-  path: assets/cadea15d4c5d/1*2a4TWb38f52_JOCD1nNeog.jpeg
+  path: ../assets/cadea15d4c5d/1*2a4TWb38f52_JOCD1nNeog.jpeg
 ---
 
 ### AYS Daily Digest 7/2/20: More deaths in Moria\.
@@ -15,7 +15,7 @@ image:
 Criminal Complaint Filed / Attempted Border Crossing in the UK / Spanish Government Conducting Indirect Returns / New Immigration Law in Germany
 
 
-![Temperature within Lebsov has now reached freezing point \(@FranziEire\)](assets/cadea15d4c5d/1*2a4TWb38f52_JOCD1nNeog.jpeg)
+![Temperature within Lebsov has now reached freezing point \(@FranziEire\)](../assets/cadea15d4c5d/1*2a4TWb38f52_JOCD1nNeog.jpeg)
 
 Temperature within Lebsov has now reached freezing point \(@FranziEire\)
 ### Featured
@@ -53,7 +53,7 @@ Following reports of the planned deportation flight to Jamaica, [hundreds of peo
 The reception camp set up to house 300 people who were left with no shelter after a fire had broken out in what was described as a ‘shantytown’ in the southern Italian town of Rinano Garganico, has been left almost destroyed after it was ravaged by bad weather\. Reports have not yet indicated the future for the camps inhabitants or the ongoing plans by local authorities to address the issues within the camp\.
 
 
-[![SAN SEVERO (FOGGIA), DISTRUTTE TENDE MIGRANTI ALLESTITE DOPO DRAMMATICO INCENDIO GHETTO RIGNANO](assets/cadea15d4c5d/046a_hqdefault.jpg "SAN SEVERO (FOGGIA), DISTRUTTE TENDE MIGRANTI ALLESTITE DOPO DRAMMATICO INCENDIO GHETTO RIGNANO")](https://www.youtube.com/watch?v=aEvHcS-qygw)
+[![SAN SEVERO (FOGGIA), DISTRUTTE TENDE MIGRANTI ALLESTITE DOPO DRAMMATICO INCENDIO GHETTO RIGNANO](../assets/cadea15d4c5d/046a_hqdefault.jpg "SAN SEVERO (FOGGIA), DISTRUTTE TENDE MIGRANTI ALLESTITE DOPO DRAMMATICO INCENDIO GHETTO RIGNANO")](https://www.youtube.com/watch?v=aEvHcS-qygw)
 
 ### Spain
 
@@ -65,7 +65,7 @@ The UNHCR stated that “nobody from the conflict\-affected regions should be fo
 ### Libya
 
 
-![UNHCR 2020](assets/cadea15d4c5d/1*7B5LE74_rII5d5qT-HPcsw.jpeg)
+![UNHCR 2020](../assets/cadea15d4c5d/1*7B5LE74_rII5d5qT-HPcsw.jpeg)
 
 UNHCR 2020
 ### Germany

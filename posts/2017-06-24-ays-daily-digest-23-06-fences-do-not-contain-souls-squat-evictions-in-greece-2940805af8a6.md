@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 23/06: Fences do not contain souls, Squat evictions in Greece
+title: "AYS Daily Digest 23/06: Fences do not contain souls, Squat evictions in Greece"
 author: Are You Syrious?
 date: 2017-06-24T04:02:58.151+0100
 last_modified_at: 2017-06-24T08:34:46.193+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,calais,serbia,squat]
 description: Why solidarity? / Fire near Moria camp / Needs list for Chios / Distribution begins to Serbian transit centres / Italy moves on agreement…
 image:
-  path: assets/2940805af8a6/1*KkFMOsonKk5zH1xOnB26MA.jpeg
+  path: ../assets/2940805af8a6/1*KkFMOsonKk5zH1xOnB26MA.jpeg
 ---
 
 ### AYS Daily Digest 23/06: Fences do not contain souls, Squat evictions in Greece
@@ -15,7 +15,7 @@ image:
 Why solidarity? / Fire near Moria camp / Needs list for Chios / Distribution begins to Serbian transit centres / Italy moves on agreement with Libya to prevent people from entering Libya / French politicians again place blame for mistreatment of refugees on refugees themselves, wish to prevent a “blight\.”
 
 
-![Photo credit: [Marios Lolos](https://www.facebook.com/marios.lolos.1)](assets/2940805af8a6/1*KkFMOsonKk5zH1xOnB26MA.jpeg)
+![Photo credit: [Marios Lolos](https://www.facebook.com/marios.lolos.1)](../assets/2940805af8a6/1*KkFMOsonKk5zH1xOnB26MA.jpeg)
 
 Photo credit: [Marios Lolos](https://www.facebook.com/marios.lolos.1)
 ### FEATURE: Eviction of Squats and calls for Solidarity
@@ -23,7 +23,7 @@ Photo credit: [Marios Lolos](https://www.facebook.com/marios.lolos.1)
 Today, the eviction of the City Plaza Squats housing refugees in Greece was scheduled\. As a result of this, members of squats called for solidarity action across Europe stating “Hands off the Squats\!” There were actions in Germany protesting in front of the Greek embassy and elsewhere\.
 
 
-![Solidarity protest with squats, Germany\. Photo credit: [Das beste Hotel Europas](https://www.facebook.com/dasbesteHotelEuropas/)](assets/2940805af8a6/1*8Z7vMxfnEXrMhsjxV8LQUg.jpeg)
+![Solidarity protest with squats, Germany\. Photo credit: [Das beste Hotel Europas](https://www.facebook.com/dasbesteHotelEuropas/)](../assets/2940805af8a6/1*8Z7vMxfnEXrMhsjxV8LQUg.jpeg)
 
 Solidarity protest with squats, Germany\. Photo credit: [Das beste Hotel Europas](https://www.facebook.com/dasbesteHotelEuropas/)
 
@@ -59,7 +59,7 @@ Those residing in camps often are exposed to greater structural violence and are
 Through all of our efforts, whether inside of camps or outside, we must make the time to focus on the people, their stories, their humanity around us\. To fight\. If the fight is lost, to grieve\. If the fight is won, to celebrate\.
 
 
-![A protestor at the Hands Off the Squats Protest solidarity action in Greece\. Photo Credit [Marios Lolos](https://www.facebook.com/marios.lolos.1)](assets/2940805af8a6/1*-C3kULxD7V99MVFBJm9ADw.jpeg)
+![A protestor at the Hands Off the Squats Protest solidarity action in Greece\. Photo Credit [Marios Lolos](https://www.facebook.com/marios.lolos.1)](../assets/2940805af8a6/1*-C3kULxD7V99MVFBJm9ADw.jpeg)
 
 A protestor at the Hands Off the Squats Protest solidarity action in Greece\. Photo Credit [Marios Lolos](https://www.facebook.com/marios.lolos.1)
 
@@ -97,7 +97,7 @@ Although it is easy and valid to criticize the countries with large numbers of d
 
 
 
-![](assets/2940805af8a6/0*0rOP6zoNDggM5VUd.png)
+![](../assets/2940805af8a6/0*0rOP6zoNDggM5VUd.png)
 
 
 An insightful piece on a day in the life in and around Lesvos\.
@@ -107,7 +107,7 @@ An insightful piece on a day in the life in and around Lesvos\.
 
 
 
-![](assets/2940805af8a6/0*0rOP6zoNDggM5VUd.png)
+![](../assets/2940805af8a6/0*0rOP6zoNDggM5VUd.png)
 
 
 There are updates from Mobile Info Team regarding Skype meetings for the Asylum Service\. Please read below and note the changes\!
@@ -131,7 +131,7 @@ Interested students need to make an appointment at the Khora Info Desk before th
 A terrifying fire swept behind Moria today, in the forest in proximity to the camp\. Fortunately, no one was hurt\. Unfortunately, fire season continues to be a real threat to refugees in this horrific hot weather\.
 
 
-![Fire around Moria\. Photo credit: ‎ [**مهاجر immigrant**](https://www.facebook.com/riadh04/) ‎](assets/2940805af8a6/1*mu6Xc1VA3fKGRHUA1tZ0Wg.jpeg)
+![Fire around Moria\. Photo credit: ‎ [**مهاجر immigrant**](https://www.facebook.com/riadh04/) ‎](../assets/2940805af8a6/1*mu6Xc1VA3fKGRHUA1tZ0Wg.jpeg)
 
 Fire around Moria\. Photo credit: ‎ [**مهاجر immigrant**](https://www.facebook.com/riadh04/) ‎
 
@@ -193,7 +193,7 @@ Milk in powder form
 _Although it is crucial for Chios to be receiving these items now, as months turn into years, these lists become trends\. Please keep in mind the seasons and regular needs accordingly\. When donating, do not just take the opportunity to clean out your house, but rather take care, that the items you are giving can be useable in their original form\. :\)_
 
 
-![](assets/2940805af8a6/0*0rOP6zoNDggM5VUd.png)
+![](../assets/2940805af8a6/0*0rOP6zoNDggM5VUd.png)
 
 
 SERBIA
@@ -211,14 +211,14 @@ _“Following on from the success of our first hygiene kit distribution at Kikin
 _Good personal hygiene is essential for maintaining health and self esteem\. Our goal is to continue with these essential distributions on a regular basis; expanding our reach to other populations as we go\.”_
 
 
-![Photo Credit: BelgrAid](assets/2940805af8a6/1*2BiAUP9lbveALYMYQiU8Ig.jpeg)
+![Photo Credit: BelgrAid](../assets/2940805af8a6/1*2BiAUP9lbveALYMYQiU8Ig.jpeg)
 
 Photo Credit: BelgrAid
 
 Check out [BelgrAid](https://www.facebook.com/belgraid/) for more information\!
 
 
-![](assets/2940805af8a6/0*0rOP6zoNDggM5VUd.png)
+![](../assets/2940805af8a6/0*0rOP6zoNDggM5VUd.png)
 
 ### ITALY
 
@@ -237,7 +237,7 @@ _He said the agreements are “not to impede departures from Libya but to preven
 This focus is cast in an additional disturbing light when contextualized with a quote from a member of the Libyan coast guard: "We don't need any training\. We know how to navigate, how to fight and how to kill" \- Commander Al\-Bija\. The focus on stemming the tide rather than combatting the murderous attitudes sickens the mind\.
 
 
-![Photo credit: [**Refugee Accommodation and Solidarity Space City Plaza**](https://www.facebook.com/sol2refugeesen/)](assets/2940805af8a6/1*yOD3Lkgz0tRsZanh9e6thQ.jpeg)
+![Photo credit: [**Refugee Accommodation and Solidarity Space City Plaza**](https://www.facebook.com/sol2refugeesen/)](../assets/2940805af8a6/1*yOD3Lkgz0tRsZanh9e6thQ.jpeg)
 
 Photo credit: [**Refugee Accommodation and Solidarity Space City Plaza**](https://www.facebook.com/sol2refugeesen/)
 ### FRANCE
@@ -257,7 +257,7 @@ _Just as we were leaving we \[c\]ame across five young unaccompanied boys of 16 
 Read the full report by Sue Cooper [here](https://www.dunkirkrefugeewomenscentre.com/single-post/2017/06/23/Voices-4-No-Shelter-No-Facilities-but-Dignity-Hospitality-and-Hope-Survive) \.
 
 
-![](assets/2940805af8a6/0*0rOP6zoNDggM5VUd.png)
+![](../assets/2940805af8a6/0*0rOP6zoNDggM5VUd.png)
 
 
 Again, volunteers with Dunkirk / Dunkerque Refugee Women’s Centre participated along with others in a protest against the forcible deportation \(the second attempt at deporting the same man\) today\.
@@ -271,7 +271,7 @@ Many thanks to all of your support through this\.”
 The man had previously harmed himself in the detention centre\. and has an eight\-month\-old baby\. Additionally, other passengers on the flight were distributed flyers in order to alert them of the reasoning for the protest and delay\.
 
 
-![](assets/2940805af8a6/0*0rOP6zoNDggM5VUd.png)
+![](../assets/2940805af8a6/0*0rOP6zoNDggM5VUd.png)
 
 
 _French Interior Minister Gérard Collomb visited Calais today\. France’s top human rights official Jacques Toubon called for the creation of a new “reception space”, in particular because of hygiene reasons and expressed his shock at the fact authorities do not respect the legal obligation to give people access to their fundamental rights, be it just by giving them food and water\. Collomb instead said that humanitarian organisations should ‘use other places than Calais to deploy their skills’ and insisted that the priority is to “cut off the road to smugglers”, adding that he “distrusts centres that say they are willing to host migrants for a couple of days but then stay much longer”\._

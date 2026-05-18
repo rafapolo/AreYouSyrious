@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 18/10/19: Did RCC Malta violate international law by delegating rescue operation…
+title: "AYS Daily Digest 18/10/19: Did RCC Malta violate international law by delegating rescue operation…"
 author: Are You Syrious?
 date: 2019-10-19T11:53:59.296+0100
 last_modified_at: 2019-10-19T16:41:13.922+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,malta,sar,rescue]
 description: Alarm Phone reports about presumably illegal operation in Maltase SAR Zone // Alan Kurdi Ship on its seventh mission // Relocation plans…
 image:
-  path: assets/9b8db1051d0c/1*okj9MimotPPVVJi8DYqHgQ.png
+  path: ../assets/9b8db1051d0c/1*okj9MimotPPVVJi8DYqHgQ.png
 ---
 
 ### AYS Daily Digest 18/10/19: Did RCC Malta violate international law by delegating rescue operation in Maltase SAR to Libyan Coast Guards?
 #### Alarm Phone reports about presumably illegal operation in Maltese SAR Zone // Alan Kurdi Ship on its seventh mission // Relocation plans for Greek Islands // Demonstrations in Samos and Tripoli, Libya // EU calls for closure of Vučjak camp // Deportations scheduled to Afghanistan and Pakistan from Germany // Update from Dunkirk
 
 
-![Copy rights: MSF Italy](assets/9b8db1051d0c/1*okj9MimotPPVVJi8DYqHgQ.png)
+![Copy rights: MSF Italy](../assets/9b8db1051d0c/1*okj9MimotPPVVJi8DYqHgQ.png)
 
 Copy rights: MSF Italy
 

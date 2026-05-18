@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL — Lebanon: “Don’t forget me, please!”
+title: "AYS SPECIAL — Lebanon: “Don’t forget me, please!”"
 author: Are You Syrious?
 date: 2017-12-29T09:37:12.223+0000
 last_modified_at: 2018-03-01T13:45:08.835+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [syria,lebanon,al-raqqa,beqaa,special]
 description: The woman standing in front of me wears a beautiful green dress with small stones attached to it. On the floor there are Persian carpets…
 image:
-  path: assets/d443b954be12/1*Xdt3z07-5sqfQMDgfGNVbQ.jpeg
+  path: ../assets/d443b954be12/1*Xdt3z07-5sqfQMDgfGNVbQ.jpeg
 ---
 
 ### AYS SPECIAL — Lebanon: “Don’t forget me, please\!”
 
 
-![Photo: AYS](assets/d443b954be12/1*Xdt3z07-5sqfQMDgfGNVbQ.jpeg)
+![Photo: AYS](../assets/d443b954be12/1*Xdt3z07-5sqfQMDgfGNVbQ.jpeg)
 
 Photo: AYS
 
@@ -30,7 +30,7 @@ The third woman has been sleeping on some relatives’ floor since she came to L
 **“Don’t forget me, please\!”**
 
 
-![Photo: AYS](assets/d443b954be12/1*y1ccYpg_AkElL6KzWu36jw.jpeg)
+![Photo: AYS](../assets/d443b954be12/1*y1ccYpg_AkElL6KzWu36jw.jpeg)
 
 Photo: AYS
 

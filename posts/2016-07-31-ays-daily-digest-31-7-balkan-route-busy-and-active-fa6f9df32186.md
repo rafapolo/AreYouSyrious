@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 31/7: Balkan route — busy and active again, despite closed borders
+title: "AYS DAILY DIGEST 31/7: Balkan route — busy and active again, despite closed borders"
 author: Are You Syrious?
 date: 2016-07-31T22:59:10.195+0100
 last_modified_at: 2016-07-31T23:06:50.339+0100
@@ -7,7 +7,7 @@ categories:
 tags: [balkan-route,refugees,borders,squats,italy]
 description: Governments from countries along the Balkan route are reporting increase in number of refugees. That is situation in Greece, Serbia…
 image:
-  path: assets/fa6f9df32186/1*4MxUGgr_RQ_sDjSOTffwKA.jpeg
+  path: ../assets/fa6f9df32186/1*4MxUGgr_RQ_sDjSOTffwKA.jpeg
 ---
 
 ### AYS DAILY DIGEST 31/7: Balkan route — busy and active again, despite closed borders
@@ -15,7 +15,7 @@ image:
 _Governments from countries along the Balkan route are reporting increase in number of refugees\. That is situation in Greece, Serbia, Bulgaria, Hungary, but also in countries far away from this route, like Italy where from we received alarming information about people who are sleeping in the streets and need food\. Volunteers are needed in all of these countries\. Please, consider to volunteer or to help in any way you can\._
 
 
-![“Being a refugee is only a status\. You can change that status to be a better person in life\.” Yiech, memebr of Team Refugees\. Photo UNHCR\.](assets/fa6f9df32186/1*4MxUGgr_RQ_sDjSOTffwKA.jpeg)
+![“Being a refugee is only a status\. You can change that status to be a better person in life\.” Yiech, memebr of Team Refugees\. Photo UNHCR\.](../assets/fa6f9df32186/1*4MxUGgr_RQ_sDjSOTffwKA.jpeg)
 
 “Being a refugee is only a status\. You can change that status to be a better person in life\.” Yiech, memebr of Team Refugees\. Photo UNHCR\.
 #### Libya
@@ -52,7 +52,7 @@ The activist informed the public that they entered the church as a response to t
 The activist, as a response to the eviction\-wave in Thessaloniki, squatted another house for a self\-organized space of solidarity together with refugees in Ano Patisia in Athens\.
 
 
-![Photo credit: Anarchist federation](assets/fa6f9df32186/1*k7mBDm_YFc707J6ibWXO7g.jpeg)
+![Photo credit: Anarchist federation](../assets/fa6f9df32186/1*k7mBDm_YFc707J6ibWXO7g.jpeg)
 
 Photo credit: Anarchist federation
 #### Bulgaria
@@ -109,7 +109,7 @@ Bank details below in case you would like to support financially\.
 
 
 
-![Help needed at the border area where number of refugees increases daily\. Photo Information Point for Idomeni Volunteers](assets/fa6f9df32186/1*IyYG0xhQyecD814S9XXK6g.jpeg)
+![Help needed at the border area where number of refugees increases daily\. Photo Information Point for Idomeni Volunteers](../assets/fa6f9df32186/1*IyYG0xhQyecD814S9XXK6g.jpeg)
 
 Help needed at the border area where number of refugees increases daily\. Photo Information Point for Idomeni Volunteers
 #### Italy
@@ -120,11 +120,11 @@ After we publish [special report](https://medium.com/@AreYouSyrious/ays-special-
 Apparently, around 65 people are in the park near the Pordenone train station\. More are in the surrounding area\. They sleep in the open, while groups of volunteers from [Humanitarian mission in Europe](https://m.facebook.com/HME4REFUGEES/?__mref=message_bubble) \(HME\) and Retention Solidly, two small NGOs, are trying to help\. They bring them food, toiletries, clothes and shoes, but not have enough and need your help\. If you are in this area and able to help, please contact them through their FB page\.
 
 
-![](assets/fa6f9df32186/1*KjtEPXhrWOLK1FIILUZvow.jpeg)
+![](../assets/fa6f9df32186/1*KjtEPXhrWOLK1FIILUZvow.jpeg)
 
 
 
-![Small group of volunteers are trying to help refugees in Pordenone and they need your help\. Photo by HME](assets/fa6f9df32186/1*eYZ_U7Ok9pGKXVtqhF2-Pg.jpeg)
+![Small group of volunteers are trying to help refugees in Pordenone and they need your help\. Photo by HME](../assets/fa6f9df32186/1*eYZ_U7Ok9pGKXVtqhF2-Pg.jpeg)
 
 Small group of volunteers are trying to help refugees in Pordenone and they need your help\. Photo by HME
 #### General
@@ -144,7 +144,7 @@ If you have any advice or ideas contact Christine Pawlata and Erika Tasini at
 Artists Andrew Wakeford and Fred George constructed an installation in that has been displayed in Saarbruecken, Germany, under the title “A wall of lifejackets and their stories”\. The installation is displayed at Johanneskirche\. It is made of original lifejackets found on the beaches of Greece, along with interviews and portraits of those who have fled across the Mediterranean Sea to Europe\.
 
 
-![Photograph by Oliver Dietze](assets/fa6f9df32186/1*unYy6Yye6Arr74B4vpbkrg.jpeg)
+![Photograph by Oliver Dietze](../assets/fa6f9df32186/1*unYy6Yye6Arr74B4vpbkrg.jpeg)
 
 Photograph by Oliver Dietze
 ### Go Refugee Team\!
@@ -157,7 +157,7 @@ _\- Ensure every refugee family has somewhere safe to live\._
 _\- Ensure every refugee can work or learn new skills to make a positive contribution to their community\._
 
 
-![Photo credit UNHCR](assets/fa6f9df32186/1*A0zRM_6zt7pWvn2rkSDtVw.jpeg)
+![Photo credit UNHCR](../assets/fa6f9df32186/1*A0zRM_6zt7pWvn2rkSDtVw.jpeg)
 
 Photo credit UNHCR
 

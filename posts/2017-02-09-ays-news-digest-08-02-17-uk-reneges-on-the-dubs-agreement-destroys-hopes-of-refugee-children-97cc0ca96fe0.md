@@ -7,13 +7,13 @@ categories:
 tags: [refugees,europe,dubs-amendment,france,uk]
 description: Feature
 image:
-  path: assets/97cc0ca96fe0/1*Ut5vh_P1vEo0X08RlZdiFQ.jpeg
+  path: ../assets/97cc0ca96fe0/1*Ut5vh_P1vEo0X08RlZdiFQ.jpeg
 ---
 
 ### AYS NEWS DIGEST 08\.02\.17 — UK reneges on the Dubs Agreement, destroys hopes of refugee children
 
 
-![People camp outdoors in Paris\. Photo Credit: Calais Action](assets/97cc0ca96fe0/1*Ut5vh_P1vEo0X08RlZdiFQ.jpeg)
+![People camp outdoors in Paris\. Photo Credit: Calais Action](../assets/97cc0ca96fe0/1*Ut5vh_P1vEo0X08RlZdiFQ.jpeg)
 
 People camp outdoors in Paris\. Photo Credit: Calais Action
 #### Feature
@@ -35,7 +35,7 @@ Given Britain’s wealth and the minuscule numbers accepted into the country, th
 #### Greece
 
 
-![A refugee child’s illustration of the unwelcome treatment received by Afghan refugees\. Photo Credit; Refugee Support Greece](assets/97cc0ca96fe0/1*4feJMBIozACB1_7IjXMQ7g.jpeg)
+![A refugee child’s illustration of the unwelcome treatment received by Afghan refugees\. Photo Credit; Refugee Support Greece](../assets/97cc0ca96fe0/1*4feJMBIozACB1_7IjXMQ7g.jpeg)
 
 A refugee child’s illustration of the unwelcome treatment received by Afghan refugees\. Photo Credit; Refugee Support Greece
 ### Greek Forum of Refugees denounces brazen deportation of Afghans
@@ -169,7 +169,7 @@ congratulations
 it’s distribution time
 
 
-![“At least still I can dress up as fashionable as I am” says Ahmed Al\-Mouhmad, the author of the poem\.](assets/97cc0ca96fe0/1*JGGYKoP8KLn2JwRtnwaQAg.jpeg)
+![“At least still I can dress up as fashionable as I am” says Ahmed Al\-Mouhmad, the author of the poem\.](../assets/97cc0ca96fe0/1*JGGYKoP8KLn2JwRtnwaQAg.jpeg)
 
 “At least still I can dress up as fashionable as I am” says Ahmed Al\-Mouhmad, the author of the poem\.
 ### 53 new arrivals on Chios were reported
@@ -199,7 +199,7 @@ The measures are clearly meant to completely isolate refugees from society at la
 ### Video shows the dilapidated state of a refugee reception center
 
 
-[![Piana di Gioia Tauro: two thousand people in shacks of San Ferdinando. Returning back ten years](assets/97cc0ca96fe0/6669_hqdefault.jpg "Piana di Gioia Tauro: two thousand people in shacks of San Ferdinando. Returning back ten years")](http://www.youtube.com/watch?v=-zdqWMOELtQ)
+[![Piana di Gioia Tauro: two thousand people in shacks of San Ferdinando. Returning back ten years](../assets/97cc0ca96fe0/6669_hqdefault.jpg "Piana di Gioia Tauro: two thousand people in shacks of San Ferdinando. Returning back ten years")](http://www.youtube.com/watch?v=-zdqWMOELtQ)
 
 
 Over 2,000 people live in the area of San Ferdinando in shacks, tents, and abandoned buildings\. Attempts to improve the living conditions of those who find themselves in the camp have hit a dead end

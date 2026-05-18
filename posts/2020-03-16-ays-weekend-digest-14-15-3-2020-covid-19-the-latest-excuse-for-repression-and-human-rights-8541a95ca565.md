@@ -1,24 +1,24 @@
 ---
-title: AYS Weekend Digest 14–15/3/2020 COVID-19: The latest excuse for repression and human rights…
+title: "AYS Weekend Digest 14–15/3/2020 COVID-19: The latest excuse for repression and human rights…"
 author: Are You Syrious?
 date: 2020-03-16T12:54:19.281+0000
 last_modified_at: 2020-03-16T12:54:19.281+0000
 categories: Are You Syrious?
 tags: []
-description: Central Med: At least 300 people pushed back to Libya, some from within Maltese SAR / Iran expels Afghan nationals / Update from the…
+description: "Central Med: At least 300 people pushed back to Libya, some from within Maltese SAR / Iran expels Afghan nationals / Update from the…"
 image:
-  path: assets/8541a95ca565/0*FicSAej1KwaiAGz_.jpeg
+  path: ../assets/8541a95ca565/0*FicSAej1KwaiAGz_.jpeg
 ---
 
 ### AYS Weekend Digest 14–15/3/2020 COVID\-19: The latest excuse for repression and human rights violations
 #### Central Med: At least 300 people pushed back to Libya, some from within Maltese SAR / Iran expels Afghan nationals / Update from the Turkish\-Greek border / Eviction in Athens / 436 people transported to new closed facilities on the Greek mainland
 
 
-![](assets/8541a95ca565/0*7Wvjg1EClYxO7zia)
+![](../assets/8541a95ca565/0*7Wvjg1EClYxO7zia)
 
 
 
-![](assets/8541a95ca565/0*FicSAej1KwaiAGz_.jpeg)
+![](../assets/8541a95ca565/0*FicSAej1KwaiAGz_.jpeg)
 
 ### COVID\-19: The latest excuse for repression and human rights violations
 

@@ -1,20 +1,20 @@
 ---
-title: AYS Daily Digest 18/6/21: Traumatised children, families torn apart — today’s concrete…
+title: "AYS Daily Digest 18/6/21: Traumatised children, families torn apart — today’s concrete…"
 author: Are You Syrious?
 date: 2021-06-19T19:38:06.407+0100
 last_modified_at: 2021-06-19T19:38:06.407+0100
 categories: Are You Syrious?
 tags: [digest,france,refugees,uk,europe]
-description: Potsdam to become a welcome city / New evictions in the north of France / Spain: Racist attacks in Murcia, 2 people dead; 4 died off the…
+description: "Potsdam to become a welcome city / New evictions in the north of France / Spain: Racist attacks in Murcia, 2 people dead; 4 died off the…"
 image:
-  path: assets/38cead544c53/0*9op00a5h8uQiuxg0
+  path: ../assets/38cead544c53/0*9op00a5h8uQiuxg0
 ---
 
 ### AYS Daily Digest 18/6/21: Traumatised children, families torn apart — today’s concrete consequences of a lack of political will
 ### Potsdam to become a welcome city / New evictions in the north of France / Spain: Racist attacks in Murcia, 2 people dead; 4 died off the coast of Lanzarote / Danish policies separating Syrian families / UN criticizes UK policies / Recommended reads & more
 
 
-![](assets/38cead544c53/0*XPErb3oc6uuwk__a.jpeg)
+![](../assets/38cead544c53/0*XPErb3oc6uuwk__a.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----a3710431a6e6--------------------------------)
@@ -22,7 +22,7 @@ image:
 [Jun 19](ays-daily-digest-18-6-21-traumatised-children-families-torn-apart-todays-concrete-a3710431a6e6?source=post_page-----a3710431a6e6--------------------------------) · 11 min read
 
 
-![](assets/38cead544c53/0*JvSv-o5GUZl2CHHZ)
+![](../assets/38cead544c53/0*JvSv-o5GUZl2CHHZ)
 
 
 Evicting people from makeshift campsites during police raids in the Grande Synthe area \(Photo: [Utopia 56 Grande\-Synthe](https://www.facebook.com/utopia56grandesynthe/?__cft__[0]=AZUG8L4duQrncf3ZaT-jLPSMsopBXE_CR2krRhxr_9J4aY4iD7uAQC7_T-dbz_BZAkIcMQHstiHz_fuN6KmxECBWooMnBlFstDUs-w_uc4NPejUvQcn5asGidEPmvf4wk2PeABMKmBS-D2S5a7smDGg1NGO_IASJzRL6G0d9eeFyUgZWenYCI4rsWB3Dh4I2aqPmGBMiX4D85Wqqak893p7M&__tn__=-UC%2CP-y-R) \)
@@ -153,11 +153,11 @@ That is what ECRE has to say about the EU contribution at the big decision table
 [nonprofit\.xarxanet\.org](https://nonprofit.xarxanet.org/opinion/wrd-europe-part-problem-not-part-solution?fbclid=IwAR2WnQsFv2o7aHtQA3JKDrksbBNERxjZeK_k4dnFbEq_T0uKinByjA-Tcbo)
 
 
-![](assets/38cead544c53/0*45uVXnAafY167SQm)
+![](../assets/38cead544c53/0*45uVXnAafY167SQm)
 
 
 
-![](assets/38cead544c53/0*7wyKkbadthkIL8sT)
+![](../assets/38cead544c53/0*7wyKkbadthkIL8sT)
 
 
 In the meantime, Frontex is expanding its activities to Serbia:
@@ -177,11 +177,11 @@ The UK’s UNHCR representative claims Priti Patel’s planned two\-track system
 The report published on Friday found the number of forcibly displaced people, including refugees, asylum seekers and internally displaced people, increased by 4 per cent last year compared to 2019, from 79\.5 million to 82\.4 million\.
 
 
-![](assets/38cead544c53/0*KKzIohwnYh7Kr8Uw)
+![](../assets/38cead544c53/0*KKzIohwnYh7Kr8Uw)
 
 
 
-![](assets/38cead544c53/0*9op00a5h8uQiuxg0)
+![](../assets/38cead544c53/0*9op00a5h8uQiuxg0)
 
 
 The total of 34,400 people being resettled is “a drop in the ocean”, given that the UNHCR estimated that 1\.4 million refugees globally require, or would benefit from, resettlement, said a UNHCR representative, so there “shouldn’t be a barrier to restarting and increasing resettlement programmes\.”

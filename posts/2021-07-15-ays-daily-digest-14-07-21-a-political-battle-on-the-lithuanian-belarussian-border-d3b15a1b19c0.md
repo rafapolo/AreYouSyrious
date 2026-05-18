@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 14/07/21: A Political Battle on the Lithuanian-Belarussian Border
+title: "AYS Daily Digest 14/07/21: A Political Battle on the Lithuanian-Belarussian Border"
 author: Are You Syrious?
 date: 2021-07-15T16:29:11.584+0100
 last_modified_at: 2021-07-16T18:09:52.270+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,migration,refugees,borders,pushbacks]
 description: More people flee Afghanistan as Taliban gains traction // 1,146 drowned in Med this year // BBC investigates pushbacks in Aegean // Austria…
 image:
-  path: assets/d3b15a1b19c0/1*_267NT2s_8jJUEBPFLfXGg.jpeg
+  path: ../assets/d3b15a1b19c0/1*_267NT2s_8jJUEBPFLfXGg.jpeg
 ---
 
 ### AYS Daily Digest 14/07/21: A Political Battle on the Lithuanian\-Belarussian Border
@@ -15,7 +15,7 @@ image:
 ### FEATURE — In political war, Lithuania and Belarus use people on the move as pawns
 
 
-![Lithuania has erected a 550\-kilometer razor wire on its Belarussian border to keep people from entering the country\. \(Source: [Reuters](https://www.rferl.org/a/lithuania-migrants-detention-belarus/31356663.html?fbclid=IwAR33ze6cOa9GqVd-8pIuTtpd4_vnZlgkwGl_Ucj_vkSt1LlQonnoHVWHPq8) \)](assets/d3b15a1b19c0/1*_267NT2s_8jJUEBPFLfXGg.jpeg)
+![Lithuania has erected a 550\-kilometer razor wire on its Belarussian border to keep people from entering the country\. \(Source: [Reuters](https://www.rferl.org/a/lithuania-migrants-detention-belarus/31356663.html?fbclid=IwAR33ze6cOa9GqVd-8pIuTtpd4_vnZlgkwGl_Ucj_vkSt1LlQonnoHVWHPq8) \)](../assets/d3b15a1b19c0/1*_267NT2s_8jJUEBPFLfXGg.jpeg)
 
 Lithuania has erected a 550\-kilometer razor wire on its Belarussian border to keep people from entering the country\. \(Source: [Reuters](https://www.rferl.org/a/lithuania-migrants-detention-belarus/31356663.html?fbclid=IwAR33ze6cOa9GqVd-8pIuTtpd4_vnZlgkwGl_Ucj_vkSt1LlQonnoHVWHPq8) \)
 
@@ -401,7 +401,7 @@ If you missed it, you can watch on YouTube Panel 7 of Border Criminologies, whic
 “Landscapes of Border Control and Immigration Detention in Europe” featured the insights of Monish Bhatia and Vassilis Tsarnas, among others working on the issue in Greece, Italy and the UK\.
 
 
-[![Panel 7: Police and State Violence](assets/d3b15a1b19c0/88e5_hqdefault.jpg "Panel 7: Police and State Violence")](https://www.youtube.com/watch?v=qvJuUd9Cl-o)
+[![Panel 7: Police and State Violence](../assets/d3b15a1b19c0/88e5_hqdefault.jpg "Panel 7: Police and State Violence")](https://www.youtube.com/watch?v=qvJuUd9Cl-o)
 
 ### WORTH READING/WATCHING
 #### Refugees excluded in Greece: Designation of Turkey as a ‘safe third country’

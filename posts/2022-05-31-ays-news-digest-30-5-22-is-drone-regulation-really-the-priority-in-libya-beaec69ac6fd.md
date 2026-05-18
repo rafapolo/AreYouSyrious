@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 30/5/22: Is drone regulation really the priority in Libya?
+title: "AYS News Digest 30/5/22: Is drone regulation really the priority in Libya?"
 author: Are You Syrious?
 date: 2022-05-31T22:03:48.735+0100
 last_modified_at: 2022-05-31T22:03:48.735+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,greece,refugees,europe,libya]
 description: fire in Greek camp / prolonged blockage of the people on board SAR vessels continues being an issue / investigation for poor managing the…
 image:
-  path: assets/beaec69ac6fd/0*6eBPKNE6y4HGayhn
+  path: ../assets/beaec69ac6fd/0*6eBPKNE6y4HGayhn
 ---
 
 ### AYS News Digest 30/5/22: Is drone regulation really the priority in Libya?
 #### fire in Greek camp / prolonged blockage of the people on board SAR vessels continues being an issue / investigation for poor managing the CPR of Bari / Kurdish asylum seekers’ hunger [strike](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.infomigrants.net%2Fen%2Fpost%2F40855%2Fkurdish-asylum-seekers-hunger-strike-in-poland-enters-third-week%3Ffbclid%3DIwAR1PC8gIl-416Cy-oZ4_n6F_yDMAbtinxLejM26BQ_gjML7aNOYB2yE3EPg&h=AT1Q6urmmdMN2R27B9clOZE9QQXUIxLgy_NTL1_tVU5ZmpnSWNKoi_sI4WzTf6b_EunEmHC7Q2WIErjTbIA8IhPRe5oErXADHilEnYgCcYlLE9JhfzUPmNvLpwKYmtGb50Mv-byv7WkV3g&__tn__=R]-R&c[0]=AT1GUIjtN_2mn0oATdCMXM7_G-9eyeBc3_jFfnU_V3A8y9bsW-jgfzIlrq5kpjWABnO_Z0U20aMvaXCWLnj54kJKIW1tvfbDre4faFE12QZsUMXSOvD4QpqtWnzBdkrhCfZto1uRUrTEniVH50AhqcI-3ibFDumvbWw3nayAOgXuyQXD62Mfa61sSAyHCEO0Jj94Uzw54-8H) in Poland enters third week / call for volunteers in Greece
 
 
-![Solidarity with the hunger strikers — **Wolność\! Freedom\! Azadî\! — solidarnie ze strajkiem głodowym Kurdów**](assets/beaec69ac6fd/0*6eBPKNE6y4HGayhn)
+![Solidarity with the hunger strikers — **Wolność\! Freedom\! Azadî\! — solidarnie ze strajkiem głodowym Kurdów**](../assets/beaec69ac6fd/0*6eBPKNE6y4HGayhn)
 
 Solidarity with the hunger strikers — **Wolność\! Freedom\! Azadî\! — solidarnie ze strajkiem głodowym Kurdów**
 #### FEATURE
@@ -76,7 +76,7 @@ In the meantime, a new fire was reported
 The link to the fire incident is available [here](https://fb.watch/dm6udtNDJL/) \.
 
 
-![We feel very sorry for all peoples who were affected by the fire in the rubhalls\. Luckily no one was injured but they lost everything they had in this fire\. We try to help them with whatever we are able\. But really these fires are terrible, peoples are very afraid all the time and in danger to stay there with empty hands\. — [Moria White Helmets](https://web.facebook.com/MoriaWhiteHelmets/?__cft__[0]=AZXjOhqL9OfjPrXY7gL6J-VaesjkuQd8aEagA28ihN1kFVH5iHpjRD4Y4zEwtuZs5XDVli5IPIfTw7yW5fjSC6fWt7KmooAaUPjAAf3UVx5FVeZ1V895FHuo5J0H6uTYsaUPAkNq_tt-g9JY4MSgSvT-najC6EidVkRoZPXsqw_3xg&__tn__=-UC%2CP-R)](assets/beaec69ac6fd/0*yjDAH74Su6OF_YzR)
+![We feel very sorry for all peoples who were affected by the fire in the rubhalls\. Luckily no one was injured but they lost everything they had in this fire\. We try to help them with whatever we are able\. But really these fires are terrible, peoples are very afraid all the time and in danger to stay there with empty hands\. — [Moria White Helmets](https://web.facebook.com/MoriaWhiteHelmets/?__cft__[0]=AZXjOhqL9OfjPrXY7gL6J-VaesjkuQd8aEagA28ihN1kFVH5iHpjRD4Y4zEwtuZs5XDVli5IPIfTw7yW5fjSC6fWt7KmooAaUPjAAf3UVx5FVeZ1V895FHuo5J0H6uTYsaUPAkNq_tt-g9JY4MSgSvT-najC6EidVkRoZPXsqw_3xg&__tn__=-UC%2CP-R)](../assets/beaec69ac6fd/0*yjDAH74Su6OF_YzR)
 
 We feel very sorry for all peoples who were affected by the fire in the rubhalls\. Luckily no one was injured but they lost everything they had in this fire\. We try to help them with whatever we are able\. But really these fires are terrible, peoples are very afraid all the time and in danger to stay there with empty hands\. — [Moria White Helmets](https://web.facebook.com/MoriaWhiteHelmets/?__cft__[0]=AZXjOhqL9OfjPrXY7gL6J-VaesjkuQd8aEagA28ihN1kFVH5iHpjRD4Y4zEwtuZs5XDVli5IPIfTw7yW5fjSC6fWt7KmooAaUPjAAf3UVx5FVeZ1V895FHuo5J0H6uTYsaUPAkNq_tt-g9JY4MSgSvT-najC6EidVkRoZPXsqw_3xg&__tn__=-UC%2CP-R)
 ### A new wall to be built between Greece and Turkey

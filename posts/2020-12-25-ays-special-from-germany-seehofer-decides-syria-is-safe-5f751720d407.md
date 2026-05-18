@@ -1,5 +1,5 @@
 ---
-title: AYS Special from Germany: Seehofer decides Syria is safe
+title: "AYS Special from Germany: Seehofer decides Syria is safe"
 author: Are You Syrious?
 date: 2020-12-25T17:41:59.497+0000
 last_modified_at: 2020-12-26T12:32:40.697+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [special,germany,syria,syrian-refugees,afghanistan]
 description: A general ban on deportations to Syria from Germany will expire at the end of the year. For now, politicians claim that “only” criminals…
 image:
-  path: assets/5f751720d407/1*_9RnQts9lrlmfAt2yS7uxA.jpeg
+  path: ../assets/5f751720d407/1*_9RnQts9lrlmfAt2yS7uxA.jpeg
 ---
 
 ### AYS Special from Germany: Seehofer decides Syria is safe
 #### A general ban on deportations to Syria from Germany will expire at the end of the year\. For now, politicians claim that “only” criminals and potential terrorists should be deported\. However, a similar statement was made four years ago when deportations to Afghanistan started\. Since then, about 900 people have been deported to the war\-torn country — only a few of them have committed any crime\.
 
 
-![Syrian journalist and activist Wafa Ali Mustafa, whose father is one of the forcibly disappeared people\. Copyright: SyriaNotSafe](assets/5f751720d407/1*_9RnQts9lrlmfAt2yS7uxA.jpeg)
+![Syrian journalist and activist Wafa Ali Mustafa, whose father is one of the forcibly disappeared people\. Copyright: SyriaNotSafe](../assets/5f751720d407/1*_9RnQts9lrlmfAt2yS7uxA.jpeg)
 
 Syrian journalist and activist Wafa Ali Mustafa, whose father is one of the forcibly disappeared people\. Copyright: SyriaNotSafe
 
@@ -33,7 +33,7 @@ This rule is set as an absolute in the European Convention on Human Rights, and 
 Regardless of the fact that the [German Foreign Office has published a report](https://www.auswaertiges-amt.de/de/newsroom/regierungspressekonferenz/2424520#content_0) saying that Syrians in Syria are still subject to numerous dangers from different actors — including from the regime itself — and that the humanitarian situation in Syria continues to be disastrous, various states’ interior ministers, especially from Merkel’s CDU party, have now called for an end to the general ban\. They claim that parts of the country are safe enough to start deporting people there without breaching international law\. As decided in the conference of the states’ ministers of interior on 9th to 11th of December, the ban will expire as of December 31st 2020\.
 
 
-![“Human rights are non\-negotiable, even if Horst wants to distract”\. Copyright: SyriaNotSafe](assets/5f751720d407/1*zU1liG9dQiyJwvZFEC8drg.jpeg)
+![“Human rights are non\-negotiable, even if Horst wants to distract”\. Copyright: SyriaNotSafe](../assets/5f751720d407/1*zU1liG9dQiyJwvZFEC8drg.jpeg)
 
 “Human rights are non\-negotiable, even if Horst wants to distract”\. Copyright: SyriaNotSafe
 ### What does the end of the general ban mean?
@@ -45,7 +45,7 @@ But even after the lifting of the general ban on deportation, there are still ma
 For the time being, the decision not to extend the ban can therefore be regarded as a symbolic act, as a concession towards conservative and right\-wing politicians, playing with the racist rhetoric of connecting criminality with nationality\.
 
 
-![Copyright: SyriaNotSafe](assets/5f751720d407/1*B86VXcGAHYWQU4aDnHMZDA.jpeg)
+![Copyright: SyriaNotSafe](../assets/5f751720d407/1*B86VXcGAHYWQU4aDnHMZDA.jpeg)
 
 Copyright: SyriaNotSafe
 ### Similar pattern as Afghanistan?
@@ -74,7 +74,7 @@ These numbers are neither surprising nor is it very likely that they have change
 **But none of this stops German authorities from deporting people, not even during a global pandemic\.** On December 16th 2020, eight days before Christmas Eve, the first deportation after an eight\-month break due to the pandemic was carried out\.
 
 
-![“No deportations to torture states\. No deals with mass murderers”\. Copyright: SyriaNotSafe](assets/5f751720d407/1*IIikSRmX8jigKY21KvXMqg.jpeg)
+![“No deportations to torture states\. No deals with mass murderers”\. Copyright: SyriaNotSafe](../assets/5f751720d407/1*IIikSRmX8jigKY21KvXMqg.jpeg)
 
 “No deportations to torture states\. No deals with mass murderers”\. Copyright: SyriaNotSafe
 ### Solidarity and activism

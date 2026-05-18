@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,germany,china,refugees,afghanistan]
 description: Afghan refugees in Pakistan and elsewhere need consideration in peace deal // New wave of returnees from Lebanon to Syria // end of…
 image:
-  path: assets/e6f4a7cd674c/1*2h3AqZaajmphZ5uRGl4E8A.jpeg
+  path: ../assets/e6f4a7cd674c/1*2h3AqZaajmphZ5uRGl4E8A.jpeg
 ---
 
 ### AYS Daily Digest 17/02/2020 Asylum applications from China to Germany more than doubled in 2019
@@ -16,7 +16,7 @@ _Afghan refugees in Pakistan and elsewhere need consideration in peace deal // N
 #### FEATURE: GERMANY
 
 
-![Uighar immigrants protest in Berlin Photo by [Getty Images/S\.Gallup](https://www.infomigrants.net/en/post/22804/china-asylum-claims-to-germany-more-than-double?preview=1581925630596&fbclid=IwAR09ygFa28zxIDJbTmmIoSiwAyQ8FjkGxxpvbt-DZKJKC2pGhEe6yigdWSs)](assets/e6f4a7cd674c/1*2h3AqZaajmphZ5uRGl4E8A.jpeg)
+![Uighar immigrants protest in Berlin Photo by [Getty Images/S\.Gallup](https://www.infomigrants.net/en/post/22804/china-asylum-claims-to-germany-more-than-double?preview=1581925630596&fbclid=IwAR09ygFa28zxIDJbTmmIoSiwAyQ8FjkGxxpvbt-DZKJKC2pGhEe6yigdWSs)](../assets/e6f4a7cd674c/1*2h3AqZaajmphZ5uRGl4E8A.jpeg)
 
 Uighar immigrants protest in Berlin Photo by [Getty Images/S\.Gallup](https://www.infomigrants.net/en/post/22804/china-asylum-claims-to-germany-more-than-double?preview=1581925630596&fbclid=IwAR09ygFa28zxIDJbTmmIoSiwAyQ8FjkGxxpvbt-DZKJKC2pGhEe6yigdWSs)
 #### Asylum applications from China to Germany have more than doubled over the past year\.
@@ -29,7 +29,7 @@ Uighurs are a Turkic\-speaking Muslim minority who predominately live in western
 #### AFGHANISTAN
 
 
-![Afghan refugees in a UN run centre in Pakistan in 2016 Photo by [NOORULLAH SHIRZADA/AFP/GETTY IMAGES](https://foreignpolicy.com/2019/05/09/for-afghan-refugees-pakistan-is-a-nightmare-but-also-home/)](assets/e6f4a7cd674c/1*_vp1QsU5xEfp920YKrU09A.jpeg)
+![Afghan refugees in a UN run centre in Pakistan in 2016 Photo by [NOORULLAH SHIRZADA/AFP/GETTY IMAGES](https://foreignpolicy.com/2019/05/09/for-afghan-refugees-pakistan-is-a-nightmare-but-also-home/)](../assets/e6f4a7cd674c/1*_vp1QsU5xEfp920YKrU09A.jpeg)
 
 Afghan refugees in a UN run centre in Pakistan in 2016 Photo by [NOORULLAH SHIRZADA/AFP/GETTY IMAGES](https://foreignpolicy.com/2019/05/09/for-afghan-refugees-pakistan-is-a-nightmare-but-also-home/)
 #### As the US and the Taliban come slightly closer to brokering a peace deal, it is important to note how this could affect the lives of the [1\.5 million Afghans forced to live as refugees in Pakistan](https://www.nytimes.com/aponline/2020/02/17/world/asia/ap-as-afghanistan-refugees.html?fbclid=IwAR2EmsFcMH_Gmxz1pzc1AqkM_59buC5ejiX5rO4lEz0tykVi-ki0-z5A1j0) and all other others spread over the Middle East and Europe, seeking refuge from their war torn country\.
@@ -60,7 +60,7 @@ Pretty much just asking for a livelihood with dignity, like what anyone else wou
 #### LEBANON\-SYRIA
 
 
-![A new wave of people went back to Syria from Lebanon last week\. There are voluntary returns made through the government, but also many people are forced to return, even though there is ongoing fighting in North Western Syria, because of the discrimination and absence of a proper legal framework to protect them in Lebanon\. Pictured are some Syrians on a bus in Beirut waiting to go back\. Photo by [EPA/Nabil Mounzer](https://www.infomigrants.net/en/post/22822/syrians-returned-home-from-lebanon)](assets/e6f4a7cd674c/1*vAW-ilMyavEAzBl134Nu8g.jpeg)
+![A new wave of people went back to Syria from Lebanon last week\. There are voluntary returns made through the government, but also many people are forced to return, even though there is ongoing fighting in North Western Syria, because of the discrimination and absence of a proper legal framework to protect them in Lebanon\. Pictured are some Syrians on a bus in Beirut waiting to go back\. Photo by [EPA/Nabil Mounzer](https://www.infomigrants.net/en/post/22822/syrians-returned-home-from-lebanon)](../assets/e6f4a7cd674c/1*vAW-ilMyavEAzBl134Nu8g.jpeg)
 
 A new wave of people went back to Syria from Lebanon last week\. There are voluntary returns made through the government, but also many people are forced to return, even though there is ongoing fighting in North Western Syria, because of the discrimination and absence of a proper legal framework to protect them in Lebanon\. Pictured are some Syrians on a bus in Beirut waiting to go back\. Photo by [EPA/Nabil Mounzer](https://www.infomigrants.net/en/post/22822/syrians-returned-home-from-lebanon)
 #### SEA
@@ -97,7 +97,7 @@ Many locals have called this move by the government as “authoritarian\.” Som
 Local communities are justified in feeling aggrieved, but of course not at all justified in inflicting terror and harm onto refugees\. Far right groups that call for assaulting refugees who protested on Lesvos a few weeks ago should be investigated\. Yet a more livable solution on the islands involves working with locals and addressing these grievances, but remaining firm against prejudice and racism\.
 
 
-![](assets/e6f4a7cd674c/1*SpWn4a6sXMcGNzrUOL-IJQ.jpeg)
+![](../assets/e6f4a7cd674c/1*SpWn4a6sXMcGNzrUOL-IJQ.jpeg)
 
 
 The Greek government is trying to promote thousands of refugees to work in the country’s agriculture sector\. They are attempting to revitalize the rural economy, a fledgingly sector which most younger Greek people are not seeking jobs\. More [here](https://www.keeptalkinggreece.com/2020/02/16/jobs-agriculture-refugees-migrants-greece/) \.
@@ -142,13 +142,13 @@ Activist [Irene Ruano Blanco](https://twitter.com/irene_r_b/status/1229470177881
 #### DENMARK
 
 
-![“One Afghan asylum seeker deported from Denmark has arrived in Kabul today morning\. Denmark is one of the countries with limited number of deportation at the moment\.” Photo by [Afghanistan Migrant Advice and Support Org](https://www.facebook.com/AmasoAfg/photos/a.1419588361404777/3082340208462909/?type=3&theater)](assets/e6f4a7cd674c/1*B8I5p9zk8wImtM9kaz470g.jpeg)
+![“One Afghan asylum seeker deported from Denmark has arrived in Kabul today morning\. Denmark is one of the countries with limited number of deportation at the moment\.” Photo by [Afghanistan Migrant Advice and Support Org](https://www.facebook.com/AmasoAfg/photos/a.1419588361404777/3082340208462909/?type=3&theater)](../assets/e6f4a7cd674c/1*B8I5p9zk8wImtM9kaz470g.jpeg)
 
 “One Afghan asylum seeker deported from Denmark has arrived in Kabul today morning\. Denmark is one of the countries with limited number of deportation at the moment\.” Photo by [Afghanistan Migrant Advice and Support Org](https://www.facebook.com/AmasoAfg/photos/a.1419588361404777/3082340208462909/?type=3&theater)
 #### EU
 
 
-![Arbitrary detention in Libya: A system fueled by Europe turning a blind eye and in some cases, actively pursuing partnerships with Libya\. Photo by [Mohamed Alhmozzi](https://twitter.com/msehlisafa/status/1229386235896123393?fbclid=IwAR37VDoYjqbDuZwx2McQBf-GIndDV-Awdp-ax6m5CjoR1VFJOhos2xWUQdo)](assets/e6f4a7cd674c/1*7CvOs_V8--sAirsTEyIKvg.jpeg)
+![Arbitrary detention in Libya: A system fueled by Europe turning a blind eye and in some cases, actively pursuing partnerships with Libya\. Photo by [Mohamed Alhmozzi](https://twitter.com/msehlisafa/status/1229386235896123393?fbclid=IwAR37VDoYjqbDuZwx2McQBf-GIndDV-Awdp-ax6m5CjoR1VFJOhos2xWUQdo)](../assets/e6f4a7cd674c/1*7CvOs_V8--sAirsTEyIKvg.jpeg)
 
 Arbitrary detention in Libya: A system fueled by Europe turning a blind eye and in some cases, actively pursuing partnerships with Libya\. Photo by [Mohamed Alhmozzi](https://twitter.com/msehlisafa/status/1229386235896123393?fbclid=IwAR37VDoYjqbDuZwx2McQBf-GIndDV-Awdp-ax6m5CjoR1VFJOhos2xWUQdo)
 #### European Union foreign ministers agreed on Monday to end Operation Sophia and will launch a new maritime effort that focuses on enforcing the U\.N arms embargo around Libya\. As the AP reports:

@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,migrants,digest,libya,italy]
 description: Police Patrols Increase Along Cyprus’ Dividing Line///70 Minors Evacuated From Moria as Arrivals Continue///Will Vucjak Finally Be…
 image:
-  path: assets/bedd1860970b/0*F-vSdtJ29I7JE0cZ
+  path: ../assets/bedd1860970b/0*F-vSdtJ29I7JE0cZ
 ---
 
 ### AYS Daily Digest 09/12/19: App for People on the Move Launches in Turin
 #### Police Patrols Increase Along Cyprus’ Dividing Line / 70 Minors Evacuated From Moria as Arrivals Continue / What Will Happen to The People in Vučjak? / People Are Paying to Reach Libya’s Detention Camps / & more news
 
 
-![A man washes himself in the Sava river, Belgrade Photographer: [Vladimir Zivojinovic](https://www.facebook.com/photo.php?fbid=2821844477835370&set=a.634694756550364&type=3&theater)](assets/bedd1860970b/0*F-vSdtJ29I7JE0cZ)
+![A man washes himself in the Sava river, Belgrade Photographer: [Vladimir Zivojinovic](https://www.facebook.com/photo.php?fbid=2821844477835370&set=a.634694756550364&type=3&theater)](../assets/bedd1860970b/0*F-vSdtJ29I7JE0cZ)
 
 A man washes himself in the Sava river, Belgrade Photographer: [Vladimir Zivojinovic](https://www.facebook.com/photo.php?fbid=2821844477835370&set=a.634694756550364&type=3&theater)
 ### Feature — App with Useful Information for People on the Move Launches in Northern Italy
@@ -22,7 +22,7 @@ A man washes himself in the Sava river, Belgrade Photographer: [Vladimir Zivojin
 The ‘OASI on the street’ app, which launched [last week](https://www.infomigrants.net/en/post/21397/italy-a-refugee-app-made-by-refugees?fbclid=IwAR1UnEmtDNHr7TvjBL0_emZfAkuI40lk6DxyyeCvuEuITdlpeekUOI4SpAo) , features a map with useful information such as nearby toilets and dormitories and helps connect users to legal services\. It is useful for all people in need of an urgent place to stay or other services, whether they come from Turin or elsewhere\.
 
 
-![Source: mosaico](assets/bedd1860970b/0*GCEKLtLWj6N7jBoI.png)
+![Source: mosaico](../assets/bedd1860970b/0*GCEKLtLWj6N7jBoI.png)
 
 Source: mosaico
 
@@ -116,7 +116,7 @@ Total 40,313
 While people languish in unsanitary camps, a political battle is being fought in the Mediterranean\. Turkey’s treaty inventing a maritime border with Libya has been met with [outrage](http://www.ekathimerini.com/247348/article/ekathimerini/news/eus-borrell-says-turkey-libya-maritime-border-deal-problematic?fbclid=IwAR33wu1yQoc8WLs1kbyADFZjPSWQF-fYJCGZxTr_A5JVFJwxR-is60yFYTo) from the EU, especially from Greece, which called on the EU to [impose sanctions](http://www.ekathimerini.com/247355/article/ekathimerini/news/dendias-asks-eu-to-condemn-turkey-libya-mou-impose-sanctions-if-law-is-ignored?fbclid=IwAR3NkRU-nMIWL65kp7N9Qqmv74S-7m2IKhLJoh37TtpU6UgmXnzOrkBxtM4) \. The deal was met with internal resistance in Libya as well, with Aguila Saleh, the speaker of the House of Representatives, calling it “ [null and void\.](http://www.ekathimerini.com/247339/article/ekathimerini/news/libya-parliament-speaker-denounces-turkey-pact?fbclid=IwAR3eKJEAmzFCA47eOdS01QDy_Gws15zF5sB0zBXCBxNbLeHxV5ccH-VA0wI) ” For now, cooperation between the EU, Turkey and Libya on pushback of people trying to cross the Mediterranean continues, but the political conflict may strain existing agreements\. Whatever happens, it is probable that the first people that will suffer due to any increased conflict or tension in the region will be the most vulnerable\.
 
 
-![](assets/bedd1860970b/1*YDa4rb6z05yWzmK7FKeRvQ.jpeg)
+![](../assets/bedd1860970b/1*YDa4rb6z05yWzmK7FKeRvQ.jpeg)
 
 
 Our friends from Mobile Info Team, an NGO based in Thessaloniki which provides informational support and individual assistance for asylum\-seekers and refugees, are organising their first ever fundraiser — ‘Party Extravaganza’\! It will take place on Wednesday \(in 2 days\! **the 11th of December\) from 7pm\-12am, at the converted factory space of Fix in Art \(26is Oktovriou 15, Thessaloniki 546 27\) \.**
@@ -141,7 +141,7 @@ The officials have spread the news that Vučjak will be shut down [earlier this 
 As authorities dither on closing the camps, horrible living conditions continue\. [These photos](https://www.facebook.com/lorena.fornasir/posts/2562787923838289?hc_location=ufi) are from the official IOM run Bira camp in Bihać\.
 
 
-![Photographer: Lorena Fornasir](assets/bedd1860970b/0*i71ogzzMzKvpxGQ2)
+![Photographer: Lorena Fornasir](../assets/bedd1860970b/0*i71ogzzMzKvpxGQ2)
 
 Photographer: Lorena Fornasir
 

@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [refugees,digest,mediterranean,surveillance,big-data]
 description: Are You Syrious?
 image:
-  path: assets/1d188ff67c90/0*LcZtw2Mb39M47uIR.jpeg
+  path: ../assets/1d188ff67c90/0*LcZtw2Mb39M47uIR.jpeg
 ---
 
 ### AYS Daily Digest 29/06/2020 — Increased surveillance planned in the Mediterranean
 
 
-![](assets/1d188ff67c90/0*HmJEH3-4lWc_04hC.jpeg)
+![](../assets/1d188ff67c90/0*HmJEH3-4lWc_04hC.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----accca6c97536----------------------)
@@ -23,7 +23,7 @@ image:
 Six\-fold increase in arrivals in the Canary islands / 43 people rescued in the Central Med / Protest in El Aaiun detention centre, Western Sahara
 
 
-![](assets/1d188ff67c90/0*LcZtw2Mb39M47uIR.jpeg)
+![](../assets/1d188ff67c90/0*LcZtw2Mb39M47uIR.jpeg)
 
 ### Feature story: Increased surveillance planned in the Mediterranean
 
@@ -194,23 +194,23 @@ BOSNIA AND BALKANS
 ### Worsening situation in Velika Kladusa
 
 
-![](assets/1d188ff67c90/0*fOfSwga_m6M5ztr9)
+![](../assets/1d188ff67c90/0*fOfSwga_m6M5ztr9)
 
 
 
-![](assets/1d188ff67c90/0*I1EbbL3Fsu0VcpGd.jpeg)
+![](../assets/1d188ff67c90/0*I1EbbL3Fsu0VcpGd.jpeg)
 
 
 
-![](assets/1d188ff67c90/0*Oc_ex6_cCLLPcmAL)
+![](../assets/1d188ff67c90/0*Oc_ex6_cCLLPcmAL)
 
 
 
-![](assets/1d188ff67c90/0*1SG1GR4WXj9zWb4W.jpeg)
+![](../assets/1d188ff67c90/0*1SG1GR4WXj9zWb4W.jpeg)
 
 
 
-![](assets/1d188ff67c90/0*ra_SZ0CBOnmQGJde)
+![](../assets/1d188ff67c90/0*ra_SZ0CBOnmQGJde)
 
 
 [No Name Kitchen report](https://web.facebook.com/NoNameKitchenBelgrade/posts/1014390678959216?hc_location=ufi) on the situation\.

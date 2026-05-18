@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 10/2: Seeing how it could be — peaceful evacuation in Paris
+title: "AYS DAILY DIGEST 10/2: Seeing how it could be — peaceful evacuation in Paris"
 author: Are You Syrious?
 date: 2017-02-11T03:50:50.411+0000
 last_modified_at: 2017-02-11T10:14:45.969+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: Details on Paris — IRR report on mishandling of refugee deaths in Greece — deportations, bomb defusal, and pushback management — water…
 image:
-  path: assets/99ea3ee14460/1*tbB-LLLfWLp67gjYrqe0eg.jpeg
+  path: ../assets/99ea3ee14460/1*tbB-LLLfWLp67gjYrqe0eg.jpeg
 ---
 
 ### AYS DAILY DIGEST 10/2: Seeing how it could be — peaceful evacuation in Paris
@@ -15,7 +15,7 @@ image:
 _Details on Paris — IRR report on mishandling of refugee deaths in Greece — deportations, bomb defusal, and pushback management — water distribution in Serbia — volunteer opportunities_
 
 
-![Photo Credit: Art Against, Marios Lolos](assets/99ea3ee14460/1*tbB-LLLfWLp67gjYrqe0eg.jpeg)
+![Photo Credit: Art Against, Marios Lolos](../assets/99ea3ee14460/1*tbB-LLLfWLp67gjYrqe0eg.jpeg)
 
 Photo Credit: Art Against, Marios Lolos
 
@@ -51,7 +51,7 @@ Around 75,000 people in Thessaloniki, including residents of the camp, will be e
 Art Against was in Malakassa camp where people spoke out about the unsafe and inhumane conditions in the camp, where flooding is a serious and repeated problem\. Visit [the page](https://www.facebook.com/artagainstproject/posts/1279047248811373) for more photos\.
 
 
-![Photo courtesy of Art Against/Marios Lolos\.](assets/99ea3ee14460/1*F9BJ3gXd7127NritkSJmeA.jpeg)
+![Photo courtesy of Art Against/Marios Lolos\.](../assets/99ea3ee14460/1*F9BJ3gXd7127NritkSJmeA.jpeg)
 
 Photo courtesy of Art Against/Marios Lolos\.
 
@@ -67,7 +67,7 @@ Photo courtesy of Art Against/Marios Lolos\.
 They are also responding to the requests of the community, focusing their efforts on food packs and boxes, rather than prepared food\. In the update, they also highlight the work of those who are helping to clean up the squats\.
 
 
-![Photo Credit: No Border Kitchen Lesvos](assets/99ea3ee14460/1*azM26sEOlS-WkUeOYb0Enw.jpeg)
+![Photo Credit: No Border Kitchen Lesvos](../assets/99ea3ee14460/1*azM26sEOlS-WkUeOYb0Enw.jpeg)
 
 Photo Credit: No Border Kitchen Lesvos
 #### GENERAL
@@ -134,7 +134,7 @@ This is especially crucial considering how much more limited aid of all kinds is
 Danika Jurisic provided a detailed report on Thursday night’s evacuation of refugees in Paris\. In short, around 300 people were moved from the improvised camp\. This camp was located next to the official camp \(created in November 2016\) \. The improvised camp assembled in response to the “backlog” of people wishing to enter the official camp, which admits 20 people per day, with 50–70 people arriving on a daily basis\.
 
 
-![Blanket Collection\. Courtesy of Danika Jurisic](assets/99ea3ee14460/1*Jwff2N2kUEqm-o3YDQsOGg.jpeg)
+![Blanket Collection\. Courtesy of Danika Jurisic](../assets/99ea3ee14460/1*Jwff2N2kUEqm-o3YDQsOGg.jpeg)
 
 Blanket Collection\. Courtesy of Danika Jurisic
 
@@ -163,7 +163,7 @@ _We saw the situation most clearly when we met Corlos \(his nickname\) \. We wou
 _Corlos therefore decided to go to Paris and France to seek asylum\. After Afghanistan, he says, he can’t go back\. “The problem is the problem,” and when it comes to safety, the region of a country does not matter in the crisis\. For three weeks now he’s been sleeping on the street and was hoping to enter the camp today\. We don’t know yet whether he managed to get in and are still waiting for the answer\._
 
 
-![Blanket Collection\. Photo Courtesy of Signal of Solidarity](assets/99ea3ee14460/1*INskFv3b8iQ3f7w8rSvmmQ.jpeg)
+![Blanket Collection\. Photo Courtesy of Signal of Solidarity](../assets/99ea3ee14460/1*INskFv3b8iQ3f7w8rSvmmQ.jpeg)
 
 Blanket Collection\. Photo Courtesy of Signal of Solidarity
 
@@ -176,14 +176,14 @@ Read the full report, in German, [here](https://www.facebook.com/SignalofSolidar
 In the wake of increasing incidents of dehydration and diarrhea, [Fresh Response](https://www.facebook.com/freshresponseserbia/posts/1324468667600290) has begun to mass distribute water to those in the area\. They are currently distributing around 2000 litres a day, and are working with local actors to help come up with more sustainable and cost\-effective solutions than large jugs of water\.
 
 
-![Distribution in northern Serbia](assets/99ea3ee14460/1*EVF9nMR3jHng1WB9znoSVQ.jpeg)
+![Distribution in northern Serbia](../assets/99ea3ee14460/1*EVF9nMR3jHng1WB9znoSVQ.jpeg)
 
 Distribution in northern Serbia
 
 Additionally, the mobile dental clinic sponsored by Borderfree has arrived in Serbia\! With repeated reports of inadequate dental care for refugees, it is hoped this will help fill some gaps, and some cavities\!
 
 
-![Photo courtesy of Borderfree Association](assets/99ea3ee14460/1*rxVxcqKTEdWI49b_3y3y5g.jpeg)
+![Photo courtesy of Borderfree Association](../assets/99ea3ee14460/1*rxVxcqKTEdWI49b_3y3y5g.jpeg)
 
 Photo courtesy of Borderfree Association
 #### ITALY

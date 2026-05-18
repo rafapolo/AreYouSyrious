@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 23/10/20: Forbidden work of mobile outreach teams — no food, water or NFI across…
+title: "AYS Daily Digest 23/10/20: Forbidden work of mobile outreach teams — no food, water or NFI across…"
 author: Are You Syrious?
 date: 2020-10-24T15:53:35.022+0100
 last_modified_at: 2020-10-24T16:58:20.892+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,human-rights,balkans,europe]
 description: Authorities made a decision to end the work of mobile teams across the Una-Sana canton, leaving many alone in life-threatening situation…
 image:
-  path: assets/ff81d199522a/1*rb82ZNREnZggJeAZfXIRIw.jpeg
+  path: ../assets/ff81d199522a/1*rb82ZNREnZggJeAZfXIRIw.jpeg
 ---
 
 ### AYS Daily Digest 23/10/20: Forbidden work of mobile outreach teams — no food, water or NFI across USK, BiH
 #### Authorities made a decision to end the work of mobile teams across the Una\-Sana canton, leaving many alone in a life\-threatening situation in the face of the upcoming winter / Second shipwreck this week / Spain: **poorly cared for and receiving inadequate food / recommended reads and more updates**
 
 
-![Velčevo, entrance point to Una\-Sana canton \(Photo: [Sanella Lepirica](https://www.facebook.com/sanela.lepirica?__tn__=-UC*F) \)](assets/ff81d199522a/1*rb82ZNREnZggJeAZfXIRIw.jpeg)
+![Velčevo, entrance point to Una\-Sana canton \(Photo: [Sanella Lepirica](https://www.facebook.com/sanela.lepirica?__tn__=-UC*F) \)](../assets/ff81d199522a/1*rb82ZNREnZggJeAZfXIRIw.jpeg)
 
 Velčevo, entrance point to Una\-Sana canton \(Photo: [Sanella Lepirica](https://www.facebook.com/sanela.lepirica?__tn__=-UC*F) \)
 #### FEATURED
@@ -32,11 +32,11 @@ With the arrival of winter, while the international and local organisations take
 In Tuzla, the situation is also far from satisfactory\. There are several hundred people on the move within the Tuzla county\. The largest number is in the city of Tuzla, but also in the surrounding areas of Živinice, Srebrenik, Lukavac, Gračanica… There is not a single reception camp or organised settlement for the people in this area, and it has been a place through which thousands have passed over the past three years\. Some stay for longer, mostly sleeping rough and living in the streets, as they have no conditions to continue their travel\. A specially worrying fact in Tuzla, apart from the authorities knowingly ignoring and breaching human rights, is that the locals have grown numb to the fact that there are people sleeping in the street\. Unfortunately, for the past several nights, groups of people all across town have been sleeping under nylon bags because of the lack of sleeping bags, tents and blankets, as the volunteers’ sources ran dry a while ago, as we reported\. Although it is a common issue, a group of volunteers and several organisations have managed to do an amazing although insufficient job there\. Imagine what the officials, organised groups with their support, or collective efforts of international organisations could achieve? On an everyday basis, there is an effort to dispel the prejudice about people on the move, mostly created by the media, and poor \(if any\) reporting\.
 
 
-![](assets/ff81d199522a/1*d-QNwISAMVPmFG1U-pV0hA.jpeg)
+![](../assets/ff81d199522a/1*d-QNwISAMVPmFG1U-pV0hA.jpeg)
 
 
 
-![Velčevo, entrance point to Una\-Sana canton \(Photo: [Sanella Lepirica](https://www.facebook.com/sanela.lepirica?__tn__=-UC*F) \)](assets/ff81d199522a/1*izy0meRpLEEVH9TOR7_Q2A.jpeg)
+![Velčevo, entrance point to Una\-Sana canton \(Photo: [Sanella Lepirica](https://www.facebook.com/sanela.lepirica?__tn__=-UC*F) \)](../assets/ff81d199522a/1*izy0meRpLEEVH9TOR7_Q2A.jpeg)
 
 Velčevo, entrance point to Una\-Sana canton \(Photo: [Sanella Lepirica](https://www.facebook.com/sanela.lepirica?__tn__=-UC*F) \)
 

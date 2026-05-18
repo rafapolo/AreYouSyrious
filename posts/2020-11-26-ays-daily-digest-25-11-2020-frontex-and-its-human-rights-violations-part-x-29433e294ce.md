@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 25/11/2020: Frontex and its human rights violations, Part x
+title: "AYS Daily Digest 25/11/2020: Frontex and its human rights violations, Part x"
 author: Are You Syrious?
 date: 2020-11-26T14:35:28.152+0000
 last_modified_at: 2020-11-26T15:05:07.822+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [asylum,refugees,paris,digest,europe]
 description: New evidence shows that Frontex is covering up human rights violations // updates from Legal Centre Lesvos on asylum interviews during the…
 image:
-  path: assets/29433e294ce/1*yb62-iOhMpL2AkOW4oSxew.jpeg
+  path: ../assets/29433e294ce/1*yb62-iOhMpL2AkOW4oSxew.jpeg
 ---
 
 ### AYS Daily Digest 25/11/2020: Frontex and its human rights violations, Part x
 #### New evidence shows that Frontex is covering up human rights violations // Updates from Legal Centre Lesvos on asylum interviews during the pandemic // Legal steps taken against Greece by victims of pushbacks // Updates from Ventimiglia // Protests in Paris against violent evictions // Research from Uppsalla University condemns European asylum governance
 
 
-![Demonstration against violent police evictions, Paris, Place de la République\. Copyright: Solidarité Migrants WIlson](assets/29433e294ce/1*yb62-iOhMpL2AkOW4oSxew.jpeg)
+![Demonstration against violent police evictions, Paris, Place de la République\. Copyright: Solidarité Migrants WIlson](../assets/29433e294ce/1*yb62-iOhMpL2AkOW4oSxew.jpeg)
 
 Demonstration against violent police evictions, Paris, Place de la République\. Copyright: Solidarité Migrants WIlson
 ### FEATURE: New evidence against Frontex: Agency covers up human right violations

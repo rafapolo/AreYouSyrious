@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL — Turkey: The only hope is to return one day
+title: "AYS SPECIAL — Turkey: The only hope is to return one day"
 author: Are You Syrious?
 date: 2018-01-08T09:22:17.050+0000
 last_modified_at: 2018-04-09T09:59:13.345+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,turkey,syria,izmir,special]
 description: How Thousands of Syrians live in the province of Izmir.
 image:
-  path: assets/1df83003a89b/1*ZRGO2e9rs3n2cOhypa_Jdg.jpeg
+  path: ../assets/1df83003a89b/1*ZRGO2e9rs3n2cOhypa_Jdg.jpeg
 ---
 
 ### AYS SPECIAL — Turkey: The only hope is to return one day
@@ -15,7 +15,7 @@ image:
 _How Thousands of Syrians live in the province of Izmir\._
 
 
-![](assets/1df83003a89b/1*ZRGO2e9rs3n2cOhypa_Jdg.jpeg)
+![](../assets/1df83003a89b/1*ZRGO2e9rs3n2cOhypa_Jdg.jpeg)
 
 
 This winter is pretty mild in Izmir\. During the daytime the temperature gets up to 15 degrees Celsius, while at night it can drop to around zero\. During the winter time farmers in this area grow cabbages or leeks\. Regular rainfall provides good growth and enough water for the fields\.
@@ -27,7 +27,7 @@ They rent the space from the local farmers, have paid for metal bars and tarpaul
 Most of these settlements are not accessible by car after heavy rainfall because of the dirt tracks — similar to the old days of Calais or Dunkirk, just harder to access and with rent to pay\.
 
 
-![One of the camps from above\.](assets/1df83003a89b/1*YYNKCcmoVMiWEyeKgtI6Bg.jpeg)
+![One of the camps from above\.](../assets/1df83003a89b/1*YYNKCcmoVMiWEyeKgtI6Bg.jpeg)
 
 One of the camps from above\.
 
@@ -40,7 +40,7 @@ Almost every farm camp has a “mayor”, usually the one who speaks a bit of Tu
 Many residents would like for these mayors to take better care of the people, for when the farmer does not pay, or to help when someone is sick, but mostly this does not happen\.
 
 
-![Children playing in the mud with water canisters\.](assets/1df83003a89b/1*AS4QRkukKaAqk700_NpdiA.jpeg)
+![Children playing in the mud with water canisters\.](../assets/1df83003a89b/1*AS4QRkukKaAqk700_NpdiA.jpeg)
 
 Children playing in the mud with water canisters\.
 
@@ -49,7 +49,7 @@ Even the ones who could afford a small flat often decide to stay in the camps\. 
 Another reason for those who still have some money to stay in the camp is that sometimes not only families but whole communities or villages left Syria together\. And, now in Turkey, they want to stay together and be with those they already know\. That is why at least some communities can afford a phone, car or motorcycle\. But, in general, the structures and the conditions in the different settlements vary\.
 
 
-![Baking bread in one of the settlements\.](assets/1df83003a89b/1*7d-ll5RRgtq4ET-6g5iNeQ.jpeg)
+![Baking bread in one of the settlements\.](../assets/1df83003a89b/1*7d-ll5RRgtq4ET-6g5iNeQ.jpeg)
 
 Baking bread in one of the settlements\.
 
@@ -60,7 +60,7 @@ Another issue some of the residents have to deal with is a lack of education\. M
 Because of the vast number of Syrians in the area, Turkish locals suffer with the situation\. In the past these low paid jobs were given to them, for a slightly higher salary, but now it is almost impossible for them to earn some money\. To deal with this situtation, the government passed the law stating that anybody who employs Turkish nationals will pay less tax\. However there are many issues with this law\. One is that it discourages companies to employ any refugees\. The other is it targets only those who are registered to work, while most of the people working at the farm, locals or Syrians, are not registered at all\.
 
 
-![One of the tents from inside\.](assets/1df83003a89b/1*Tu2ev6luH5j-IKagIDZ0OQ.jpeg)
+![One of the tents from inside\.](../assets/1df83003a89b/1*Tu2ev6luH5j-IKagIDZ0OQ.jpeg)
 
 One of the tents from inside\.
 
@@ -69,14 +69,14 @@ Poverty and dire living conditions in these settlements leave many in very dange
 Health care is usually not accessible to many people who live in this way\. In theory public hospitals have to provide medical treatment to everyone, but, due to the language barrier — a claim made by refugees claim and witnessed by many volunteers — the help is denied to Syrians\. Sometimes they are given insufficient treatment, or they are forced to pay for a service that should be free of charge to avoid long waiting times\.
 
 
-![One settlement at night\.](assets/1df83003a89b/1*nz-UN2Bv1hyr9-6sqLv50w.jpeg)
+![One settlement at night\.](../assets/1df83003a89b/1*nz-UN2Bv1hyr9-6sqLv50w.jpeg)
 
 One settlement at night\.
 
 Because of these experiences they prefer to stay home with their problems instead of seeing a doctor\. Even when treated by a doctor, in most cases they cannot afford long\-term medication, for which they usually must pay\. One refugee who had kidney problems told us that he gets his dialysis for free on the machine, but he must pay for all the other medication, and hence does not go as often as he should\. We were also told about a case in which volunteers had to push the doctors to give an iron injection to a woman whose haemoglobin values were already critically low\. Those who do get some medication often do not get any explanation as to how to use it\.
 
 
-![The entrance of one “school”\.](assets/1df83003a89b/1*j1FEQO0Vf1DcO_kUOTFwwg.jpeg)
+![The entrance of one “school”\.](../assets/1df83003a89b/1*j1FEQO0Vf1DcO_kUOTFwwg.jpeg)
 
 The entrance of one “school”\.
 
@@ -93,7 +93,7 @@ Volunteers also struggle to set up better, permanent structures\. Everything bey
 For the people who are living in the field camps, the only hope is that they can return to their homes in Syria one day\. Turkey is not the future for them, just a place to survive the present\. Meanwhile, refugees from Syria are still arriving\. Among them are many who cannot afford to continue their journey\.
 
 
-![Residents carrying donated oil bottles\.](assets/1df83003a89b/1*r5fcmQuli5uqLMUzV7cxmA.jpeg)
+![Residents carrying donated oil bottles\.](../assets/1df83003a89b/1*r5fcmQuli5uqLMUzV7cxmA.jpeg)
 
 Residents carrying donated oil bottles\.
 

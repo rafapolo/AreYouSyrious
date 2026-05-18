@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,italy,spain]
 description: Also possibly a combined 100 people have disappeared in the Med // violate attacks in Nador // update on Salam Aldeen’s case // and more…
 image:
-  path: assets/e0b2ef90ed40/1*ews780ETrigp-MRMX6N8Zg.jpeg
+  path: ../assets/e0b2ef90ed40/1*ews780ETrigp-MRMX6N8Zg.jpeg
 ---
 
 ### AYS Daily Digest 16/12/19 Over 1000 people protest the UNHCR Niger office under growing turmoil
@@ -15,7 +15,7 @@ image:
 _Possibly a combined total of 100 people have disappeared in the Med // Violent Attacks in Nador // Updates on Salam Aldeen’s case // and more…_
 
 
-![Niger 2019: European promises\. Photo by [Alarm Phone Sahara](https://www.facebook.com/AlarmePHONESahara/photos/pcb.2205413069768604/2205412973101947/?type=3&theater)](assets/e0b2ef90ed40/1*ews780ETrigp-MRMX6N8Zg.jpeg)
+![Niger 2019: European promises\. Photo by [Alarm Phone Sahara](https://www.facebook.com/AlarmePHONESahara/photos/pcb.2205413069768604/2205412973101947/?type=3&theater)](../assets/e0b2ef90ed40/1*ews780ETrigp-MRMX6N8Zg.jpeg)
 
 Niger 2019: European promises\. Photo by [Alarm Phone Sahara](https://www.facebook.com/AlarmePHONESahara/photos/pcb.2205413069768604/2205412973101947/?type=3&theater)
 ### Feature: Niger — The EU
@@ -51,15 +51,15 @@ Without access to resettlement these people are left in a limbo rather than with
 Some have been left in limbo for years with the promise of reaching Europe under no durable solutions\.
 
 
-![](assets/e0b2ef90ed40/1*PfO62of81Qk35VZrx3aYbQ.jpeg)
+![](../assets/e0b2ef90ed40/1*PfO62of81Qk35VZrx3aYbQ.jpeg)
 
 
 
-![](assets/e0b2ef90ed40/1*ews780ETrigp-MRMX6N8Zg.jpeg)
+![](../assets/e0b2ef90ed40/1*ews780ETrigp-MRMX6N8Zg.jpeg)
 
 
 
-![Photos by [Alarm Phone Sahara](https://www.facebook.com/AlarmePHONESahara/photos/pcb.2205413069768604/2205412973101947/?type=3&theater)](assets/e0b2ef90ed40/1*zcQvJOtJ7H-NPt1LTxRhBQ.jpeg)
+![Photos by [Alarm Phone Sahara](https://www.facebook.com/AlarmePHONESahara/photos/pcb.2205413069768604/2205412973101947/?type=3&theater)](../assets/e0b2ef90ed40/1*zcQvJOtJ7H-NPt1LTxRhBQ.jpeg)
 
 Photos by [Alarm Phone Sahara](https://www.facebook.com/AlarmePHONESahara/photos/pcb.2205413069768604/2205412973101947/?type=3&theater)
 
@@ -104,7 +104,7 @@ Updates from [Association Marocaine des Droits Humains — Section Nador](https:
 Also: _“ More than **60 people disappeared** in the [\#Mediterraneo](https://twitter.com/hashtag/Mediterraneo?src=hashtag_click) when a raft was wrecked when they tried to reach [\# Spain](https://twitter.com/hashtag/Espa%C3%B1a?src=hashtag_click) \. There are 22 survivors in Nador 7 bodies recovered\. Moroccan vessels are in the area with the plane of the [\#SAR](https://twitter.com/hashtag/SAR?src=hashtag_click) Spanish\.”_ — [Sergio Rodrigo](https://twitter.com/SRodrigoruiz/status/1206595013376970754?fbclid=IwAR1hYzMZlcIdlnyPGYzF5MMgJQUXlCr-nTOeifWojWZA_yZzkW3srqP7l74)
 
 
-![Over a hundred people are missing from these two boats\. Photo by [Sergio Rodrigo](https://twitter.com/SRodrigoruiz/status/1206713755029118977)](assets/e0b2ef90ed40/1*u3Bt-aetEzh0rXXDRA53KA.jpeg)
+![Over a hundred people are missing from these two boats\. Photo by [Sergio Rodrigo](https://twitter.com/SRodrigoruiz/status/1206713755029118977)](../assets/e0b2ef90ed40/1*u3Bt-aetEzh0rXXDRA53KA.jpeg)
 
 Over a hundred people are missing from these two boats\. Photo by [Sergio Rodrigo](https://twitter.com/SRodrigoruiz/status/1206713755029118977)
 
@@ -166,16 +166,16 @@ Chios with 4 boats: 39 people; 27 people; 7 people; 39 people\.
 Also for Sunday, 191 people came in five boats\.
 
 
-![](assets/e0b2ef90ed40/1*Ez2iqd3IU0ppZyeaF701Xg.jpeg)
+![](../assets/e0b2ef90ed40/1*Ez2iqd3IU0ppZyeaF701Xg.jpeg)
 
 
 
-![**Come volunteer with [Light House Relief](https://www.facebook.com/lighthouserelief/posts/2581446461977879?__tn__=-R&fbclid=IwAR0B1O-TG__qKrvk_4UuIhrEECWvwPf7GgfEzPlh4qOjMBY0vF4D6mhHAMI) \!** “Barely halfway through December, Lighthouse Relief has already assisted 1,225 people arriving on the north shore of \#Lesvos\. Over 600 of these passengers crossing the sea on flimsy rubber boats were children — many of them infants or toddlers, arriving soaking wet in the arms of their parents\. Upon landing and in Stage 2 transit camp, our volunteers have been working tirelessly to provide blankets, dry clothes, nappies and baby bottles to the families arriving day and night — small gestures to make them feel welcome\.”](assets/e0b2ef90ed40/1*rbcQJg6W40YnE0LJ9diD1w.jpeg)
+![**Come volunteer with [Light House Relief](https://www.facebook.com/lighthouserelief/posts/2581446461977879?__tn__=-R&fbclid=IwAR0B1O-TG__qKrvk_4UuIhrEECWvwPf7GgfEzPlh4qOjMBY0vF4D6mhHAMI) \!** “Barely halfway through December, Lighthouse Relief has already assisted 1,225 people arriving on the north shore of \#Lesvos\. Over 600 of these passengers crossing the sea on flimsy rubber boats were children — many of them infants or toddlers, arriving soaking wet in the arms of their parents\. Upon landing and in Stage 2 transit camp, our volunteers have been working tirelessly to provide blankets, dry clothes, nappies and baby bottles to the families arriving day and night — small gestures to make them feel welcome\.”](../assets/e0b2ef90ed40/1*rbcQJg6W40YnE0LJ9diD1w.jpeg)
 
 **Come volunteer with [Light House Relief](https://www.facebook.com/lighthouserelief/posts/2581446461977879?__tn__=-R&fbclid=IwAR0B1O-TG__qKrvk_4UuIhrEECWvwPf7GgfEzPlh4qOjMBY0vF4D6mhHAMI) \!** “Barely halfway through December, Lighthouse Relief has already assisted 1,225 people arriving on the north shore of \#Lesvos\. Over 600 of these passengers crossing the sea on flimsy rubber boats were children — many of them infants or toddlers, arriving soaking wet in the arms of their parents\. Upon landing and in Stage 2 transit camp, our volunteers have been working tirelessly to provide blankets, dry clothes, nappies and baby bottles to the families arriving day and night — small gestures to make them feel welcome\.”
 
 
-![“Still no electricity” Moria\. Photo by [Franziska Grillmeier](https://twitter.com/FranziEire/status/1206580656245002241)](assets/e0b2ef90ed40/1*ZugHwoVKEg9YxEfNpU8Zdg.jpeg)
+![“Still no electricity” Moria\. Photo by [Franziska Grillmeier](https://twitter.com/FranziEire/status/1206580656245002241)](../assets/e0b2ef90ed40/1*ZugHwoVKEg9YxEfNpU8Zdg.jpeg)
 
 “Still no electricity” Moria\. Photo by [Franziska Grillmeier](https://twitter.com/FranziEire/status/1206580656245002241)
 ### Italy
@@ -203,7 +203,7 @@ There is an URGENT need for medical volunteers in Calais and Dunkirk\. Learn mor
 ### Sweden
 
 
-![URGENT A young woman is being sent back to Greece alone\. “After she spent some time in foster care in Athens, she went to her aunt and cousins in Sweden\. In Sweden, she applied for asylum, which got denied because she already received asylum in a safe country \(Greece\) \. She has appealed several times, but with no success\. She now has to go back to Greece\. Alone\.” She just turned 18\. Please refer [here for a fundraiser to help](https://www.facebook.com/photo.php?fbid=2644600095656214&set=a.364246073691639&type=3&theater&ifg=1) \. Photo by [Charly Vestli](https://www.facebook.com/photo.php?fbid=2644600095656214&set=a.364246073691639&type=3&theater&ifg=1)](assets/e0b2ef90ed40/1*VqGv_s3Sy91bp01WFm6ytg.jpeg)
+![URGENT A young woman is being sent back to Greece alone\. “After she spent some time in foster care in Athens, she went to her aunt and cousins in Sweden\. In Sweden, she applied for asylum, which got denied because she already received asylum in a safe country \(Greece\) \. She has appealed several times, but with no success\. She now has to go back to Greece\. Alone\.” She just turned 18\. Please refer [here for a fundraiser to help](https://www.facebook.com/photo.php?fbid=2644600095656214&set=a.364246073691639&type=3&theater&ifg=1) \. Photo by [Charly Vestli](https://www.facebook.com/photo.php?fbid=2644600095656214&set=a.364246073691639&type=3&theater&ifg=1)](../assets/e0b2ef90ed40/1*VqGv_s3Sy91bp01WFm6ytg.jpeg)
 
 URGENT A young woman is being sent back to Greece alone\. “After she spent some time in foster care in Athens, she went to her aunt and cousins in Sweden\. In Sweden, she applied for asylum, which got denied because she already received asylum in a safe country \(Greece\) \. She has appealed several times, but with no success\. She now has to go back to Greece\. Alone\.” She just turned 18\. Please refer [here for a fundraiser to help](https://www.facebook.com/photo.php?fbid=2644600095656214&set=a.364246073691639&type=3&theater&ifg=1) \. Photo by [Charly Vestli](https://www.facebook.com/photo.php?fbid=2644600095656214&set=a.364246073691639&type=3&theater&ifg=1)
 #### **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

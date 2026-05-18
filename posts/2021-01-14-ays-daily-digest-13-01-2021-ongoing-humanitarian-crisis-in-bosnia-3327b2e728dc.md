@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest — 13/01/2021: Ongoing humanitarian crisis in Bosnia
+title: "AYS Daily Digest — 13/01/2021: Ongoing humanitarian crisis in Bosnia"
 author: Are You Syrious?
 date: 2021-01-14T14:43:11.031+0000
 last_modified_at: 2021-01-14T16:22:32.933+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,bosnia,greece,france,spain]
 description: Greece reject 85% of asylum applications filed by Syrian nationals // New data on forced evictions in France // Worrying reports on human…
 image:
-  path: assets/3327b2e728dc/1*n8Ir2AEi0cOOoJsqjQQgmw.jpeg
+  path: ../assets/3327b2e728dc/1*n8Ir2AEi0cOOoJsqjQQgmw.jpeg
 ---
 
 ### AYS Daily Digest — 13/01/2021: Ongoing humanitarian crisis in Bosnia
@@ -15,7 +15,7 @@ image:
 ### BOSNIA
 
 
-![Distribution of aid organised by SOS Balkanroute — credits: [SOS Balkanroute](https://www.facebook.com/SOSBalkanroute/posts/421634409276138)](assets/3327b2e728dc/1*n8Ir2AEi0cOOoJsqjQQgmw.jpeg)
+![Distribution of aid organised by SOS Balkanroute — credits: [SOS Balkanroute](https://www.facebook.com/SOSBalkanroute/posts/421634409276138)](../assets/3327b2e728dc/1*n8Ir2AEi0cOOoJsqjQQgmw.jpeg)
 
 Distribution of aid organised by SOS Balkanroute — credits: [SOS Balkanroute](https://www.facebook.com/SOSBalkanroute/posts/421634409276138)
 
@@ -105,7 +105,7 @@ We have reported frequently about cases of police violence and forced evictions 
 [Reported cases of police violence](https://www.theguardian.com/global-development/2021/jan/13/like-torture-calais-police-accused-of-continued-migrant-rights-abuses?fbclid=IwAR2GyEHKXK7xbETV9JEhXeD_vo7sJeVgoT8nEkntBSwnsmb9zv90fsrn2Hc) have included minors being teargassed, a tent with a refugee inside it being dragged by a tractor and an Eritrean shot in the face with a rubber bullet from 10 metres, hospitalising him for two months\.
 
 
-![Credits: statewatch](assets/3327b2e728dc/1*Tn9iMVPzKex5bw-I_gMR_w.jpeg)
+![Credits: statewatch](../assets/3327b2e728dc/1*Tn9iMVPzKex5bw-I_gMR_w.jpeg)
 
 Credits: statewatch
 

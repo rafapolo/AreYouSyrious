@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 03/11/2020: Greece enforced new pandemic restrictions
+title: "AYS Daily Digest 03/11/2020: Greece enforced new pandemic restrictions"
 author: Are You Syrious?
 date: 2020-11-04T13:07:39.267+0000
 last_modified_at: 2020-11-05T10:14:08.685+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,greece,digest,libya,spain]
 description: Update on the conditions in Moria 2.0 // MSF reminds on conditions in closed Libyan detention center // Canary Islands with massive…
 image:
-  path: assets/71d398d72f67/1*-2Mat2CsmIhyHNvMxrFXFg.jpeg
+  path: ../assets/71d398d72f67/1*-2Mat2CsmIhyHNvMxrFXFg.jpeg
 ---
 
 ### AYS Daily Digest 03/11/2020: Greece enforced new pandemic restrictions
 #### Update on the conditions in Moria 2\.0 // MSF reminds on conditions in closed Libyan detention center // Canary Islands with massive increase in new arrivals // Hungary in EU’s focus
 
 
-![A picture from Moria 2\.0, where people still have no showers and heating\. Copyright: Raid al Obeed, Moria White Helmets,](assets/71d398d72f67/1*-2Mat2CsmIhyHNvMxrFXFg.jpeg)
+![A picture from Moria 2\.0, where people still have no showers and heating\. Copyright: Raid al Obeed, Moria White Helmets,](../assets/71d398d72f67/1*-2Mat2CsmIhyHNvMxrFXFg.jpeg)
 
 A picture from Moria 2\.0, where people still have no showers and heating\. Copyright: Raid al Obeed, Moria White Helmets,
 ### GREECE
@@ -176,7 +176,7 @@ Info Migrants published a piece about people from Syria trying to reach the Fren
 On November 6th, the documentary “Love Child” will be released\. It was shot for more than six years in Turkey, accompanying the life of an Iranian family\. In a review, The Guardian [concludes](https://www.theguardian.com/film/2020/nov/03/love-child-review-refugee-documentary-iran-turkey?fbclid=IwAR37a3ZaLT0KRUpdf9XLuLUqwb2iszK8pP07FknhxfBvHPDPv0FPgrpV_tA) , it is a “documentary that gives off warmth like a radiator, generating huge amounts of empathy”\.
 
 
-[![Love Child - Official UK Trailer](assets/71d398d72f67/326c_hqdefault.jpg "Love Child - Official UK Trailer")](https://www.youtube.com/watch?v=owf4khWyWsw)
+[![Love Child - Official UK Trailer](../assets/71d398d72f67/326c_hqdefault.jpg "Love Child - Official UK Trailer")](https://www.youtube.com/watch?v=owf4khWyWsw)
 
 
 La Croix [tells](https://www.la-croix.com/JournalV2/Le-loup-blanc-Lesbos-2020-11-03-1101122580?fbclid=IwAR3WF0pKR2G6te1Dmm2lVf_ce2XB-ocRyhA3ljBi2xFKrlcRORJ3XGs9S9o) the story of a former Afghan refugee who has become a journalist and French citizen, travels the world and always returns to his home port, the camp on the Greek island of Lesvos, to make the voice of asylum seekers heard\.

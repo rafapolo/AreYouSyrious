@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: A Dream Story/ قصة حلم
+title: "AYS SPECIAL: A Dream Story/ قصة حلم"
 author: Are You Syrious?
 date: 2018-12-28T07:55:45.189+0000
 last_modified_at: 2018-12-29T19:57:57.677+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,balkan-route,special,germany]
 description: A story about one journey from country in war to country in peace, over the Balkan route.
 image:
-  path: assets/bc6a3ee08e6a/1*4XLmHb1q0x0H5IFxJ6wSlw.jpeg
+  path: ../assets/bc6a3ee08e6a/1*4XLmHb1q0x0H5IFxJ6wSlw.jpeg
 ---
 
 ### AYS SPECIAL: **A Dream Story/ قصة حلم**
@@ -15,7 +15,7 @@ image:
 _A story about one journey from a country in war to a country in peace, over the Balkan route\._
 
 
-![Idomeni 2016\. Photo credits: Ali’s private archive\.](assets/bc6a3ee08e6a/1*4XLmHb1q0x0H5IFxJ6wSlw.jpeg)
+![Idomeni 2016\. Photo credits: Ali’s private archive\.](../assets/bc6a3ee08e6a/1*4XLmHb1q0x0H5IFxJ6wSlw.jpeg)
 
 Idomeni 2016\. Photo credits: Ali’s private archive\.
 
@@ -32,7 +32,7 @@ Returning to the circle around the fire of plastic bags and empty water bottles,
 After more than two years, I began to believe that the Macedonian border guards were nothing more than slaves to their orders — they had to follow them\. The source of this principled decision had to extend throughout all European countries, and those men were a part of it, responsible for searching and humiliating refugees, assaulting them, pushing them back into Greece, crushing their dreams, for trivial reasons — perhaps an entry stamp into Turkey in the passport, or something similar\.
 
 
-![Idomeni 2016\. Photo credits: Ali’s private archive\.](assets/bc6a3ee08e6a/1*vlzZ0NEHAM8c7h8UAxAnUQ.jpeg)
+![Idomeni 2016\. Photo credits: Ali’s private archive\.](../assets/bc6a3ee08e6a/1*vlzZ0NEHAM8c7h8UAxAnUQ.jpeg)
 
 Idomeni 2016\. Photo credits: Ali’s private archive\.
 

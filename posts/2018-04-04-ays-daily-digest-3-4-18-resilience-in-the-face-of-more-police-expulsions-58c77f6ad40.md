@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 3/4/18: Resilience in the face of more police expulsions
+title: "AYS Daily Digest 3/4/18: Resilience in the face of more police expulsions"
 author: Are You Syrious?
 date: 2018-04-04T11:07:25.179+0100
 last_modified_at: 2018-04-04T11:07:25.179+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,police-brutality,uk]
 description: Croatian police using all ways for tightening the border knot / More people arriving to Greek islands, while some await for the results of…
 image:
-  path: assets/58c77f6ad40/1*HJQ7NG7H6ln6ctBRUZUMmg.jpeg
+  path: ../assets/58c77f6ad40/1*HJQ7NG7H6ln6ctBRUZUMmg.jpeg
 ---
 
 ### AYS Daily Digest 3/4/18: Resilience in the face of more police expulsions
@@ -38,7 +38,7 @@ image:
  If you want me to show my paper, I will show you my paper\. If you want me to move my house, I will move my house\. 
  But this is not living conditions”\. His words were powerful\. 
  He said them calmly and remained humble & full of dignity despite the police’ chuckles\.
- More than that, his words were representative of these wen & women’s attitude despite being trapped in the most difficult conditions\. Through the worse times, I have only met beautiful, humble, and resilient people\. “— [**Faces Before Numbers**](https://www.facebook.com/FacesBeforeNumbers/)](assets/58c77f6ad40/1*HJQ7NG7H6ln6ctBRUZUMmg.jpeg)
+ More than that, his words were representative of these wen & women’s attitude despite being trapped in the most difficult conditions\. Through the worse times, I have only met beautiful, humble, and resilient people\. “— [**Faces Before Numbers**](https://www.facebook.com/FacesBeforeNumbers/)](../assets/58c77f6ad40/1*HJQ7NG7H6ln6ctBRUZUMmg.jpeg)
 
 “Last week, a Sudanese man said some words as he was controlled by the police that have been stuck in my head\.
  I was in the camp when I noticed a group of policemen gathering around and talking to a man who was sitting next to his tent, isolated from the others\. 
@@ -87,7 +87,7 @@ Media [report](https://www.middleeastmonitor.com/20180402-13th-convoy-departs-e-
  While the generosity of locals is amazing, it’s not enough to support 47,000 new people\. Families are already facing a lack of resources in an area that continues to be bombed itself\.
  The international community failed to protect these families in their homes in Ghouta, and is now failing again to respond to this new crisis\.
  We feel how civilians in Idlib are committed to humanity by offering their support to us\. We feel grateful and relieved for the love they are showing us after what we went through in Ghouta\.
- But we need to put pressure on governments, UN agencies, and INGOs to act immediately to help the internally displaced people in Idlib\. — [**Ghouta**](https://www.facebook.com/ActForGhouta/?hc_ref=ARTzXePADFFju1T0heRSZ0ATt3PXAnFcSTf3GpbTh60pEurX4HbpeGQQQhh8lu_UoAs&fref=nf)](assets/58c77f6ad40/1*Z8lzmwphtR97R1g_MbN-_w.jpeg)
+ But we need to put pressure on governments, UN agencies, and INGOs to act immediately to help the internally displaced people in Idlib\. — [**Ghouta**](https://www.facebook.com/ActForGhouta/?hc_ref=ARTzXePADFFju1T0heRSZ0ATt3PXAnFcSTf3GpbTh60pEurX4HbpeGQQQhh8lu_UoAs&fref=nf)](../assets/58c77f6ad40/1*Z8lzmwphtR97R1g_MbN-_w.jpeg)
 
 Let us pretend that we do believe that the international community couldn’t find the tools to pressure [R](https://www.facebook.com/hashtag/russia) ussia and the Assad regime to stop the invasion of Eastern Ghouta and break the siege\. 
  Let us pretend that we do believe that the UN failed to find any solution beside the forced displacement of civilians\.
@@ -106,15 +106,15 @@ See infographic and detailed data [here](http://missingmigrants.iom.int/) \.
 [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/?hc_ref=ARQHM6qalNn1GdhezDf2iaIQmT1Mroxg78hvjqMZaux4E4XmCcNaNQzStkMQ7UMQrnY&hc_location=group) has reported that five boats arrived on the Greek islands, carrying 204 people: four boats Lesvos, 169 people, one boat Chios, 35 people\.
 
 
-![](assets/58c77f6ad40/1*MGpQ9qA3QIaKy3MMY9A8ow.jpeg)
+![](../assets/58c77f6ad40/1*MGpQ9qA3QIaKy3MMY9A8ow.jpeg)
 
 
 
-![](assets/58c77f6ad40/1*LXr0q6R2z3g9oGaWgECA2Q.jpeg)
+![](../assets/58c77f6ad40/1*LXr0q6R2z3g9oGaWgECA2Q.jpeg)
 
 
 
-![Chios landing \(Photos: [Leonardo Sandrinelli](https://www.facebook.com/Leooo11) ‎ — CESRT\)](assets/58c77f6ad40/1*pkALkdCFTzXJG61xZZJ__g.jpeg)
+![Chios landing \(Photos: [Leonardo Sandrinelli](https://www.facebook.com/Leooo11) ‎ — CESRT\)](../assets/58c77f6ad40/1*pkALkdCFTzXJG61xZZJ__g.jpeg)
 
 Chios landing \(Photos: [Leonardo Sandrinelli](https://www.facebook.com/Leooo11) ‎ — CESRT\)
 
@@ -160,7 +160,7 @@ On Thursday April 5 GAS will be operating until 2 pm
 GAS confirmed to Refugee\.Info that all appointments made for Thursday April 5 will take place\.
 
 
-![If anyone can help in cases like this one, please put some pressure on those handling it \(Photovby: [Majida Ali](https://www.facebook.com/majida.ali.3367?hc_location=group_dialog) \)](assets/58c77f6ad40/1*6DbZ0GW8ScElvzsajzg34w.jpeg)
+![If anyone can help in cases like this one, please put some pressure on those handling it \(Photovby: [Majida Ali](https://www.facebook.com/majida.ali.3367?hc_location=group_dialog) \)](../assets/58c77f6ad40/1*6DbZ0GW8ScElvzsajzg34w.jpeg)
 
 If anyone can help in cases like this one, please put some pressure on those handling it \(Photovby: [Majida Ali](https://www.facebook.com/majida.ali.3367?hc_location=group_dialog) \)
 #### HUNGARY
@@ -195,7 +195,7 @@ Drop in the Ocean has been with a small team in Paris for some weeks now, lookin
 #### UK
 
 
-![](assets/58c77f6ad40/1*elYNEv7XOPQnXq1YFnOqzg.jpeg)
+![](../assets/58c77f6ad40/1*elYNEv7XOPQnXq1YFnOqzg.jpeg)
 
 #### SCOTLAND
 

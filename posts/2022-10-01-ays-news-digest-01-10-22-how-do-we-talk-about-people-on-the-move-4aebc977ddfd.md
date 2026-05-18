@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 01/10/22: How do we talk about people on the move?
+title: "AYS News Digest 01/10/22: How do we talk about people on the move?"
 author: Are You Syrious?
 date: 2022-10-01T16:07:09.313+0100
 last_modified_at: 2022-10-01T17:16:49.589+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,narrative,malta,european-union,united-kingdom]
 description: Malta pursues its SAR ‘policy’ of non-response // Tightening restrictions on the Balkan route — Austria introduces controls at the…
 image:
-  path: assets/4aebc977ddfd/0*3vT2_A51nPAu0D7h
+  path: ../assets/4aebc977ddfd/0*3vT2_A51nPAu0D7h
 ---
 
 ### AYS News Digest 01/10/22: How do we talk about people on the move?
 #### Malta pursues its SAR ‘policy’ of non\-response // Tightening restrictions on the Balkan route — Austria introduces controls at the Slovakian border, and Slovakia introduces them at the Hungarian border // Greece’s 1630th pushback, recorded and evidenced in unusual detail // Call to drop the charges against El Hiblu 3 in Malta // Spain and Morocco impede investigations into the Melilla massacre // Evictions across France from a government who has abandoned refugees in la rue // Upcoming protests in Germany against the Berlin airport deportation centre and the Italy\-Libya Memorandum // Age dispute process putting children at risk in the UK & much more
 
 
-![How do we frame narratives through language? Photo by [pine watt](https://unsplash.com/@pinewatt?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](assets/4aebc977ddfd/0*3vT2_A51nPAu0D7h)
+![How do we frame narratives through language? Photo by [pine watt](https://unsplash.com/@pinewatt?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](../assets/4aebc977ddfd/0*3vT2_A51nPAu0D7h)
 
 How do we frame narratives through language? Photo by [pine watt](https://unsplash.com/@pinewatt?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 #### FEATURE
@@ -75,7 +75,7 @@ This article from March 2022 reflects on the way in which language has cleaved m
 #### Malta has AGAIN failed to assist people in danger, in contravention of maritime law, on the Italian\-Maltese sea border
 
 
-![](assets/4aebc977ddfd/0*PRc61ohf58ADhB_v)
+![](../assets/4aebc977ddfd/0*PRc61ohf58ADhB_v)
 
 
 The 33 people concerned were rescued by the merchant vessel Maersk Athabasca after Malta’s inaction\. On Sept 29, Sea\-Bird 2 alerted the Maltese authorities of a distressed vessel in their SAR zone, yet no action was taken\. Malta ordered Maersk not to rescue the boat within their SAR zone, so the merchant ship followed the boat to Italian waters where Italy authorised the rescue\. This illogicity and dehumanising nature of this chain of events speaks for itself\.
@@ -136,7 +136,7 @@ ECRE’s weekly report from the Mediterranean can be found here:
 #### BALKAN ROUTE
 
 
-![Traffic control on the Czech\-Slovak border — Credit: REUTEURS/Radovan Stoklasa](assets/4aebc977ddfd/0*gpAnBQ9RCMtMk94l.jpg)
+![Traffic control on the Czech\-Slovak border — Credit: REUTEURS/Radovan Stoklasa](../assets/4aebc977ddfd/0*gpAnBQ9RCMtMk94l.jpg)
 
 Traffic control on the Czech\-Slovak border — Credit: REUTEURS/Radovan Stoklasa
 #### Austria to conduct controls at the Slovakian border, and Slovakia to conduct controls at the Hungarian border

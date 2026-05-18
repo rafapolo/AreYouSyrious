@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 26–27/10/19: Riots and incidents scratching the surface of a well funded degrading…
+title: "AYS News Digest 26–27/10/19: Riots and incidents scratching the surface of a well funded degrading…"
 author: Are You Syrious?
 date: 2019-10-28T11:59:21.604+0000
 last_modified_at: 2019-10-28T21:34:12.174+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,malta,digest,migration,greece]
 description: Protests in Libya, and aftermath of the riot in Malta, poor reception conditions of people far from anyone’s sight / SAR teams attacked…
 image:
-  path: assets/6376eb93aba1/1*QTyFUu4ASSOWIu9nK8Thtw.jpeg
+  path: ../assets/6376eb93aba1/1*QTyFUu4ASSOWIu9nK8Thtw.jpeg
 ---
 
 ### AYS News Digest 26–27/10/19: Riots and incidents scratching the surface of a well funded degrading ‘reception’ system
 #### Protests in Libya, and aftermath of the riot in Malta, poor reception conditions of people far from anyone’s sight / SAR teams attacked from the Libyan side, people in distress ignored by the EU member states CG again / Solidarity call in Paris / & other info
 
 
-![Protesting in Libya, photo: [Andrea Gagne](https://www.facebook.com/andrea.gagne?__tn__=%2CdCH-R-R&eid=ARC2bLwDRrABskZtalHWBK82Y9psOELsz1qsn7NdTmLfBBnVxxZA0XG-k_rx0XpGB80uXPv7nbThg_vL&hc_ref=ARSA4yKvNtGYtFc9zlISafm6GqNCYGhMeyolz5xmao2_Zm6NaUWAA94gBMzjnA10jQ4&fref=nf&hc_location=group)](assets/6376eb93aba1/1*QTyFUu4ASSOWIu9nK8Thtw.jpeg)
+![Protesting in Libya, photo: [Andrea Gagne](https://www.facebook.com/andrea.gagne?__tn__=%2CdCH-R-R&eid=ARC2bLwDRrABskZtalHWBK82Y9psOELsz1qsn7NdTmLfBBnVxxZA0XG-k_rx0XpGB80uXPv7nbThg_vL&hc_ref=ARSA4yKvNtGYtFc9zlISafm6GqNCYGhMeyolz5xmao2_Zm6NaUWAA94gBMzjnA10jQ4&fref=nf&hc_location=group)](../assets/6376eb93aba1/1*QTyFUu4ASSOWIu9nK8Thtw.jpeg)
 
 Protesting in Libya, photo: [Andrea Gagne](https://www.facebook.com/andrea.gagne?__tn__=%2CdCH-R-R&eid=ARC2bLwDRrABskZtalHWBK82Y9psOELsz1qsn7NdTmLfBBnVxxZA0XG-k_rx0XpGB80uXPv7nbThg_vL&hc_ref=ARSA4yKvNtGYtFc9zlISafm6GqNCYGhMeyolz5xmao2_Zm6NaUWAA94gBMzjnA10jQ4&fref=nf&hc_location=group)
 #### FEATURED
@@ -53,7 +53,7 @@ The group has been through this before, many were living in the city before bein
 As a continuation of poor EU\-Turkey policies, Turkey is now officially ‘threatening’ to let the refugees currently staying in the country leave freely towards Europe if the EU fails to support their intentions\. A large number of the estimated 3\.6 million Syrians in Turkey would be sent back to Syria, despite protests from human rights groups and many others who keep saying the people would thus be forcibly returned to war\.
 
 
-![Moria camp, Greece, October 23 \(Photo: [Giorgos Moutafis](https://www.facebook.com/giorgos.moutafis.5?__tn__=%2CdK%2AF-R&eid=ARA7ndyuH9BfN521O8Wl0cmYonYtMYuYDSLI5lkNheIRN-7ZGIN7Cx_cUWD2qOzn8OlOiQiIlqJkKury&hc_location=group_dialog) \)](assets/6376eb93aba1/1*_PBixHuConZiGTX94e673A.jpeg)
+![Moria camp, Greece, October 23 \(Photo: [Giorgos Moutafis](https://www.facebook.com/giorgos.moutafis.5?__tn__=%2CdK%2AF-R&eid=ARA7ndyuH9BfN521O8Wl0cmYonYtMYuYDSLI5lkNheIRN-7ZGIN7Cx_cUWD2qOzn8OlOiQiIlqJkKury&hc_location=group_dialog) \)](../assets/6376eb93aba1/1*_PBixHuConZiGTX94e673A.jpeg)
 
 Moria camp, Greece, October 23 \(Photo: [Giorgos Moutafis](https://www.facebook.com/giorgos.moutafis.5?__tn__=%2CdK%2AF-R&eid=ARA7ndyuH9BfN521O8Wl0cmYonYtMYuYDSLI5lkNheIRN-7ZGIN7Cx_cUWD2qOzn8OlOiQiIlqJkKury&hc_location=group_dialog) \)
 #### SEARCH AND RESCUE
@@ -90,7 +90,7 @@ Resisting the newly imposed health system decisions, the No Borders collective w
 
 
 
-![Protest sit in at Chios, Photo: [NoBorders](https://www.facebook.com/nobordersnetwork/?__xts__%5B0%5D=68.ARAW3qXkcGXyl42rxs69UbZ4t8e1prjgfUhBMyN19Wt8i9NgHDvIwbMNlcAuSspC2U3pesAyMiu9WnCwjDmiR_o14YjvhmfSR9l5i-jEUUHTHudNJ_QAuMkz2BJV-Dh4lUs4Ku7rf6VYnucIG_vOAlExuaOAwgeUQn70bU_2rauIFVFbLKIj8rBmYuLL587LjAH_jN-uqtUHxU1Q0AfmsozKgC9aGKBS9XlhyDDuhceb4n8a4BytlykD2DoGovK9v3at4BauNksKiwNq1wELtqZCcCh5t2ulWhM3xXvRSD5k8llmTddRCZNgkjVaAJT7c_8SUQaou6r4D0swfhuI5TKmOF_g_OA9iUUsJKXIS4zoiks9FKIobRKf32BAIjh1OsRIdsBoutSqmhDhDxLDFLahyAxn4BgfX496U6WNGqd9LUokal5ThtCxOgv29HgCwAGtqcladsGwduHL7BK8-rRIAQwq3ODurV9E2zchS8miyKjMIvQF1g&__tn__=k%2AF&tn-str=k%2AF)](assets/6376eb93aba1/1*VvpuxT-DMWyAaywpHTmH7Q.jpeg)
+![Protest sit in at Chios, Photo: [NoBorders](https://www.facebook.com/nobordersnetwork/?__xts__%5B0%5D=68.ARAW3qXkcGXyl42rxs69UbZ4t8e1prjgfUhBMyN19Wt8i9NgHDvIwbMNlcAuSspC2U3pesAyMiu9WnCwjDmiR_o14YjvhmfSR9l5i-jEUUHTHudNJ_QAuMkz2BJV-Dh4lUs4Ku7rf6VYnucIG_vOAlExuaOAwgeUQn70bU_2rauIFVFbLKIj8rBmYuLL587LjAH_jN-uqtUHxU1Q0AfmsozKgC9aGKBS9XlhyDDuhceb4n8a4BytlykD2DoGovK9v3at4BauNksKiwNq1wELtqZCcCh5t2ulWhM3xXvRSD5k8llmTddRCZNgkjVaAJT7c_8SUQaou6r4D0swfhuI5TKmOF_g_OA9iUUsJKXIS4zoiks9FKIobRKf32BAIjh1OsRIdsBoutSqmhDhDxLDFLahyAxn4BgfX496U6WNGqd9LUokal5ThtCxOgv29HgCwAGtqcladsGwduHL7BK8-rRIAQwq3ODurV9E2zchS8miyKjMIvQF1g&__tn__=k%2AF&tn-str=k%2AF)](../assets/6376eb93aba1/1*VvpuxT-DMWyAaywpHTmH7Q.jpeg)
 
 Protest sit in at Chios, Photo: [NoBorders](https://www.facebook.com/nobordersnetwork/?__xts__%5B0%5D=68.ARAW3qXkcGXyl42rxs69UbZ4t8e1prjgfUhBMyN19Wt8i9NgHDvIwbMNlcAuSspC2U3pesAyMiu9WnCwjDmiR_o14YjvhmfSR9l5i-jEUUHTHudNJ_QAuMkz2BJV-Dh4lUs4Ku7rf6VYnucIG_vOAlExuaOAwgeUQn70bU_2rauIFVFbLKIj8rBmYuLL587LjAH_jN-uqtUHxU1Q0AfmsozKgC9aGKBS9XlhyDDuhceb4n8a4BytlykD2DoGovK9v3at4BauNksKiwNq1wELtqZCcCh5t2ulWhM3xXvRSD5k8llmTddRCZNgkjVaAJT7c_8SUQaou6r4D0swfhuI5TKmOF_g_OA9iUUsJKXIS4zoiks9FKIobRKf32BAIjh1OsRIdsBoutSqmhDhDxLDFLahyAxn4BgfX496U6WNGqd9LUokal5ThtCxOgv29HgCwAGtqcladsGwduHL7BK8-rRIAQwq3ODurV9E2zchS8miyKjMIvQF1g&__tn__=k%2AF&tn-str=k%2AF)
 #### FRANCE

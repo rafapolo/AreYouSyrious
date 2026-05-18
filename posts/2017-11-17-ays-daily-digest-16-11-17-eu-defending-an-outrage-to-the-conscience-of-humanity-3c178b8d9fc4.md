@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 16/11/17: EU defending “an outrage to the conscience of humanity”
+title: "AYS Daily Digest 16/11/17: EU defending “an outrage to the conscience of humanity”"
 author: Are You Syrious?
 date: 2017-11-17T09:41:01.418+0000
 last_modified_at: 2017-11-24T06:38:53.187+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,france,greece,libya]
 description: Although all human rights organizations condemn Libya, the EU member states — Germany and Italy in particular — seem to support crime /…
 image:
-  path: assets/3c178b8d9fc4/1*3s6N1ZorW1R4Dcb5fSQSzQ.jpeg
+  path: ../assets/3c178b8d9fc4/1*3s6N1ZorW1R4Dcb5fSQSzQ.jpeg
 ---
 
 ### AYS Daily Digest 16/11/17: EU defending “an outrage to the conscience of humanity”
@@ -15,7 +15,7 @@ image:
 _Although all human rights organizations condemn Libya, the EU member states — Germany and Italy in particular — seem to support crime / Greece facing serious weather conditions and organizations in need of more volunteers / Croatia involves consultants in setting up public system? / More refugees stuck in the France, UK etc\. / And more news…_
 
 
-![Gorizia, November 16 \(Photo: [L’ ALTRA VOCE](https://www.facebook.com/L-ALTRA-VOCE-1245970425495921/) \) The photo portrays horrendous conditions where a number of those “lucky enough” to have crossed the Mediterranean and reached the northern part of Italy](assets/3c178b8d9fc4/1*3s6N1ZorW1R4Dcb5fSQSzQ.jpeg)
+![Gorizia, November 16 \(Photo: [L’ ALTRA VOCE](https://www.facebook.com/L-ALTRA-VOCE-1245970425495921/) \) The photo portrays horrendous conditions where a number of those “lucky enough” to have crossed the Mediterranean and reached the northern part of Italy](../assets/3c178b8d9fc4/1*3s6N1ZorW1R4Dcb5fSQSzQ.jpeg)
 
 Gorizia, November 16 \(Photo: [L’ ALTRA VOCE](https://www.facebook.com/L-ALTRA-VOCE-1245970425495921/) \) The photo portrays horrendous conditions where a number of those “lucky enough” to have crossed the Mediterranean and reached the northern part of Italy
 #### FEATURE — Germany and Italy defending criminal practice of Libya
@@ -36,11 +36,11 @@ The practice of support \(political and financial\) given to the Libyan coast gu
 However, now Italy’s foreign ministry simply said that Rome had been calling “for months” for those involved “to multiply actions and efforts in Libya to ensure acceptable and dignified conditions” in detention centres\. This implies the states involved — are not involved?
 
 
-![](assets/3c178b8d9fc4/1*NkIunhlpnTO5Jbu-cKhP7w.jpeg)
+![](../assets/3c178b8d9fc4/1*NkIunhlpnTO5Jbu-cKhP7w.jpeg)
 
 
 
-![[**SOS MEDITERRANEE France**](https://www.facebook.com/sosmedfrance/) **shares experiences and continues rescuing those who escape the Libyan detention hell**](assets/3c178b8d9fc4/1*_ZN3WtzVnGXdK3bzPMjhPQ.jpeg)
+![[**SOS MEDITERRANEE France**](https://www.facebook.com/sosmedfrance/) **shares experiences and continues rescuing those who escape the Libyan detention hell**](../assets/3c178b8d9fc4/1*_ZN3WtzVnGXdK3bzPMjhPQ.jpeg)
 
 [**SOS MEDITERRANEE France**](https://www.facebook.com/sosmedfrance/) **shares experiences and continues rescuing those who escape the Libyan detention hell**
 
@@ -102,12 +102,12 @@ An emergency response medical team has headed to Leros this week and officially 
 #### Lesvos
 
 
-![Monday to Saturday, our medical clinic in camp Moria serves up to 60 patients a day, previously a dentation centre designed to accommodate 2,500 people, is now home to 6,468 people seeking refuge from war and persecution\. People in need of shelter, food and water, sanitary, medical aid and a safe environment are living under very harsh conditions\. These challenges will only increase, as new arrivals come to the island of Lesvos every day and winter settles in\. **For our clinic to keep serving these patients, we are in need of senior and junior doctors to join our team for the month of December\.** As our clinic is busy from the moment it opens to when we leave the camp, we ask that only fully qualified, professional and experienced medical volunteers apply\. If you’re qualified and interested in this opportunity then please apply by emailing us directly with the subject heading MEDICAL to: **aid@ercintl\.org**](assets/3c178b8d9fc4/1*UpDD55eH3Jk4-zi5Y14reg.png)
+![Monday to Saturday, our medical clinic in camp Moria serves up to 60 patients a day, previously a dentation centre designed to accommodate 2,500 people, is now home to 6,468 people seeking refuge from war and persecution\. People in need of shelter, food and water, sanitary, medical aid and a safe environment are living under very harsh conditions\. These challenges will only increase, as new arrivals come to the island of Lesvos every day and winter settles in\. **For our clinic to keep serving these patients, we are in need of senior and junior doctors to join our team for the month of December\.** As our clinic is busy from the moment it opens to when we leave the camp, we ask that only fully qualified, professional and experienced medical volunteers apply\. If you’re qualified and interested in this opportunity then please apply by emailing us directly with the subject heading MEDICAL to: **aid@ercintl\.org**](../assets/3c178b8d9fc4/1*UpDD55eH3Jk4-zi5Y14reg.png)
 
 Monday to Saturday, our medical clinic in camp Moria serves up to 60 patients a day, previously a dentation centre designed to accommodate 2,500 people, is now home to 6,468 people seeking refuge from war and persecution\. People in need of shelter, food and water, sanitary, medical aid and a safe environment are living under very harsh conditions\. These challenges will only increase, as new arrivals come to the island of Lesvos every day and winter settles in\. **For our clinic to keep serving these patients, we are in need of senior and junior doctors to join our team for the month of December\.** As our clinic is busy from the moment it opens to when we leave the camp, we ask that only fully qualified, professional and experienced medical volunteers apply\. If you’re qualified and interested in this opportunity then please apply by emailing us directly with the subject heading MEDICAL to: **aid@ercintl\.org**
 
 
-![](assets/3c178b8d9fc4/1*9Rl3qyK7JLnp5DAdo377Xg.jpeg)
+![](../assets/3c178b8d9fc4/1*9Rl3qyK7JLnp5DAdo377Xg.jpeg)
 
 ### Athens — volunteering and aid needs
 
@@ -190,16 +190,16 @@ Solidarity citizens are working to collect donations to support the asylum seeke
 Parishes of the area opened their doors for this night, although the police initially stopped them upon arrival and return was demanded, they were taken by buses and placed for the night\.
 
 
-![](assets/3c178b8d9fc4/1*axdQqEsJAZbXWi-K4wpOjg.jpeg)
+![](../assets/3c178b8d9fc4/1*axdQqEsJAZbXWi-K4wpOjg.jpeg)
 
 
 
-![Photos: [**Melting Pot Europa**](https://www.facebook.com/meltingpoteuropa/)](assets/3c178b8d9fc4/1*MvebVkf--Nrf8r_zH4YdOA.jpeg)
+![Photos: [**Melting Pot Europa**](https://www.facebook.com/meltingpoteuropa/)](../assets/3c178b8d9fc4/1*MvebVkf--Nrf8r_zH4YdOA.jpeg)
 
 Photos: [**Melting Pot Europa**](https://www.facebook.com/meltingpoteuropa/)
 
 
-![Photo: [Cooperativa Caracol](https://www.facebook.com/coopcaracol/)](assets/3c178b8d9fc4/1*9vsuChUMNStyyUgvuEvkFA.jpeg)
+![Photo: [Cooperativa Caracol](https://www.facebook.com/coopcaracol/)](../assets/3c178b8d9fc4/1*9vsuChUMNStyyUgvuEvkFA.jpeg)
 
 Photo: [Cooperativa Caracol](https://www.facebook.com/coopcaracol/)
 ### Rome
@@ -226,15 +226,15 @@ The refugees living in Calais continue to depend upon the volunteer organization
 
 
 
-![](assets/3c178b8d9fc4/1*xGrVkuN1em4YuNegrDcBFQ.jpeg)
+![](../assets/3c178b8d9fc4/1*xGrVkuN1em4YuNegrDcBFQ.jpeg)
 
 
 
-![](assets/3c178b8d9fc4/1*zI0R3HBNcZ90J1re65c7Rg.jpeg)
+![](../assets/3c178b8d9fc4/1*zI0R3HBNcZ90J1re65c7Rg.jpeg)
 
 
 
-![Photos: [Ifty Patel](https://www.facebook.com/ifty.patel)](assets/3c178b8d9fc4/1*dIERi3oFro_Qc8Thw01T7g.jpeg)
+![Photos: [Ifty Patel](https://www.facebook.com/ifty.patel)](../assets/3c178b8d9fc4/1*dIERi3oFro_Qc8Thw01T7g.jpeg)
 
 Photos: [Ifty Patel](https://www.facebook.com/ifty.patel)
 ### Paris

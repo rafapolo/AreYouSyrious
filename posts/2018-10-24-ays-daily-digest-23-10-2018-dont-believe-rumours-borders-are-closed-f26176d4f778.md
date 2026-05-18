@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 23/10/2018: Don’t Believe Rumours, BORDERS ARE CLOSED.
+title: "AYS Daily Digest 23/10/2018: Don’t Believe Rumours, BORDERS ARE CLOSED."
 author: Are You Syrious?
 date: 2018-10-24T11:03:54.372+0100
 last_modified_at: 2018-10-24T19:36:52.495+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,human-rights,european-union,france]
 description: A rumour that borders between Bosnia and Croatia are open has been circulated in the last days. This rumour is untrue. Please be warned…
 image:
-  path: assets/f26176d4f778/1*PXjefWZK1xKYzPRGd8n3yQ.jpeg
+  path: ../assets/f26176d4f778/1*PXjefWZK1xKYzPRGd8n3yQ.jpeg
 ---
 
 ### AYS Daily Digest 23/10/2018: Don’t Believe Rumours, BORDERS ARE CLOSED\.
@@ -20,7 +20,7 @@ image:
 
 
 
-![Source: [Refugee Women’s Centre](https://www.facebook.com/refugeewomenscentre/?__tn__=%2CdkCH-R-R&eid=ARA1PTR5V9SFTTw6b65zo8pWcmcUIMovegej6VGgvaJFbZ5aOfzoZSCE86UInwmtqgR9biL0fAUcgPQa&hc_ref=ARQO2_j_5jDwYbU1XZHhkLIc5yx1ZYpbcE3Oh-fUo1BH1AnYa-xhU8teCtY8_6fy4ZQ&fref=nf)](assets/f26176d4f778/1*PXjefWZK1xKYzPRGd8n3yQ.jpeg)
+![Source: [Refugee Women’s Centre](https://www.facebook.com/refugeewomenscentre/?__tn__=%2CdkCH-R-R&eid=ARA1PTR5V9SFTTw6b65zo8pWcmcUIMovegej6VGgvaJFbZ5aOfzoZSCE86UInwmtqgR9biL0fAUcgPQa&hc_ref=ARQO2_j_5jDwYbU1XZHhkLIc5yx1ZYpbcE3Oh-fUo1BH1AnYa-xhU8teCtY8_6fy4ZQ&fref=nf)](../assets/f26176d4f778/1*PXjefWZK1xKYzPRGd8n3yQ.jpeg)
 
 Source: [Refugee Women’s Centre](https://www.facebook.com/refugeewomenscentre/?__tn__=%2CdkCH-R-R&eid=ARA1PTR5V9SFTTw6b65zo8pWcmcUIMovegej6VGgvaJFbZ5aOfzoZSCE86UInwmtqgR9biL0fAUcgPQa&hc_ref=ARQO2_j_5jDwYbU1XZHhkLIc5yx1ZYpbcE3Oh-fUo1BH1AnYa-xhU8teCtY8_6fy4ZQ&fref=nf)
 
@@ -39,24 +39,24 @@ It is the largest police operation in the area in over a year according to Mobil
 
 
 
-![Source: Mobile Refugee Support](assets/f26176d4f778/1*P4aVpls5DNwsLI9vmb77Bg.jpeg)
+![Source: Mobile Refugee Support](../assets/f26176d4f778/1*P4aVpls5DNwsLI9vmb77Bg.jpeg)
 
 Source: Mobile Refugee Support
 
 
-![](assets/f26176d4f778/1*Y3gz8K4fJM785RSu1bvHqg.jpeg)
+![](../assets/f26176d4f778/1*Y3gz8K4fJM785RSu1bvHqg.jpeg)
 
 
 
-![](assets/f26176d4f778/1*ABG_63-4zt28740vT_Ap7w.jpeg)
+![](../assets/f26176d4f778/1*ABG_63-4zt28740vT_Ap7w.jpeg)
 
 
 
-![](assets/f26176d4f778/1*s8e8QOzyuHmyYMO8KF-SvA.jpeg)
+![](../assets/f26176d4f778/1*s8e8QOzyuHmyYMO8KF-SvA.jpeg)
 
 
 
-![Source: Mobile Refugee Support](assets/f26176d4f778/1*TOp4YgiuJmqpFTge9SFG3g.jpeg)
+![Source: Mobile Refugee Support](../assets/f26176d4f778/1*TOp4YgiuJmqpFTge9SFG3g.jpeg)
 
 Source: Mobile Refugee Support
 
@@ -162,11 +162,11 @@ People living in the Vial detention centre on Chios today gave roses to the work
 ‘We are here since last year and we did not get any response whether it’s positive or negative\. Anyhow, thanks for Greek Government for having us\.’
 
 
-![](assets/f26176d4f778/1*Geo-2Jq5fQJlG2Lh5Y-ZBg.jpeg)
+![](../assets/f26176d4f778/1*Geo-2Jq5fQJlG2Lh5Y-ZBg.jpeg)
 
 
 
-![Source: [Edie Leon](https://www.facebook.com/profile.php?id=100011080893942&fref=gs&__tn__=%2CdC-R-R&eid=ARA1SfduiijyOJgtpRRGex4GxjlQQeDE0f7Wl1vGhkfxlmBsW_i-A0ayEN3fgnXiswFDquDsfOSittDB&hc_ref=ARQLGRjX3Fj0JjQNUue-dzR8Rhfaq4Ikh1PxL3K3hkdUqIvL3Stc6qqyPmKsREOZcLo&dti=1652972374920129&hc_location=group)](assets/f26176d4f778/1*rV-MdhyhyOqk-bXVLSi1qw.jpeg)
+![Source: [Edie Leon](https://www.facebook.com/profile.php?id=100011080893942&fref=gs&__tn__=%2CdC-R-R&eid=ARA1SfduiijyOJgtpRRGex4GxjlQQeDE0f7Wl1vGhkfxlmBsW_i-A0ayEN3fgnXiswFDquDsfOSittDB&hc_ref=ARQLGRjX3Fj0JjQNUue-dzR8Rhfaq4Ikh1PxL3K3hkdUqIvL3Stc6qqyPmKsREOZcLo&dti=1652972374920129&hc_location=group)](../assets/f26176d4f778/1*rV-MdhyhyOqk-bXVLSi1qw.jpeg)
 
 Source: [Edie Leon](https://www.facebook.com/profile.php?id=100011080893942&fref=gs&__tn__=%2CdC-R-R&eid=ARA1SfduiijyOJgtpRRGex4GxjlQQeDE0f7Wl1vGhkfxlmBsW_i-A0ayEN3fgnXiswFDquDsfOSittDB&hc_ref=ARQLGRjX3Fj0JjQNUue-dzR8Rhfaq4Ikh1PxL3K3hkdUqIvL3Stc6qqyPmKsREOZcLo&dti=1652972374920129&hc_location=group)
 
@@ -178,7 +178,7 @@ Great news from Rhodes\. Mohammed is free, after 2,5 months in Rhodes prison\!
 #### BOSNIA
 
 
-![Source: No Name Kitchen](assets/f26176d4f778/1*-dEWoyGctEI8pRDShprwTw.jpeg)
+![Source: No Name Kitchen](../assets/f26176d4f778/1*-dEWoyGctEI8pRDShprwTw.jpeg)
 
 Source: No Name Kitchen
 #### Protest at Borders Continues — Entering third day\.
@@ -197,11 +197,11 @@ So far, there are no solutions\. The IOM has announced several times that new ca
 After the police, ministry of security and IOM agreed that people would be prevented from coming to Bihac, tonight the bus from Sarajevo was stopped in one small village and all the refugees were kicked out and left on their own\. People from the the village came out and bring them food, tea and blankets\.
 
 
-![](assets/f26176d4f778/1*fP4pgnO-fnRIx9WWjp5INg.jpeg)
+![](../assets/f26176d4f778/1*fP4pgnO-fnRIx9WWjp5INg.jpeg)
 
 
 
-![Source: Volim Bihac](assets/f26176d4f778/1*O-7d4VhaH6O6jsROoIwN9Q.jpeg)
+![Source: Volim Bihac](../assets/f26176d4f778/1*O-7d4VhaH6O6jsROoIwN9Q.jpeg)
 
 Source: Volim Bihac
 #### And What about the Children on the move in Bosnia? No registration, vaccination or education

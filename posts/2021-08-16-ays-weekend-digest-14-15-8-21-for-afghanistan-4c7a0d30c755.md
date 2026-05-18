@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 14–15/8/21: For Afghanistan
+title: "AYS Weekend Digest 14–15/8/21: For Afghanistan"
 author: Are You Syrious?
 date: 2021-08-16T13:17:23.798+0100
 last_modified_at: 2021-08-16T13:17:23.798+0100
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [digest,afghanistan,racism,hostile-environment,refugees]
 description: Are You Syrious?
 image:
-  path: assets/4c7a0d30c755/0*GgaqEsxqIzqRQqWh.jpeg
+  path: ../assets/4c7a0d30c755/0*GgaqEsxqIzqRQqWh.jpeg
 ---
 
 ### AYS Weekend Digest 14–15/8/21: For Afghanistan
 
 
-![](assets/4c7a0d30c755/0*Dk1nEeH9EMpQ4duE.jpeg)
+![](../assets/4c7a0d30c755/0*Dk1nEeH9EMpQ4duE.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----8df34415cf4c--------------------------------)
@@ -23,7 +23,7 @@ image:
 Central Med: more than 350 people rescued by MSF and ResQ / Pushback attempt on Samos / Racist attack on Crete / new ‘reception’ centre planned in UK and more …
 
 
-![](assets/4c7a0d30c755/0*GgaqEsxqIzqRQqWh.jpeg)
+![](../assets/4c7a0d30c755/0*GgaqEsxqIzqRQqWh.jpeg)
 
 
 Kabul, Monday 16 August 2021 \(Credit: [Lotfullah Najafizada](https://twitter.com/LNajafizada/status/1426852794175270915) \)
@@ -32,7 +32,7 @@ Kabul, Monday 16 August 2021 \(Credit: [Lotfullah Najafizada](https://twitter.co
 Over the last hours, all major media have been [reporting live](https://www.theguardian.com/world/live/2021/aug/16/afghanistan-taliban-kabul-evacuation-live-news-updates) on the situation in Afghanistan, with the Taliban entering first Kabul and then the presidential palace, western embassies rushing out of the country, and Afghan president Ghani leaving the country to a so\-far\-unknown location\. Reports from Kandahar and Herat point to violent actions against [Hazara minority political leaders](https://twitter.com/asranarshism/status/1427151042920157185) , activists and [journalists](https://twitter.com/SonaliDhawan_/status/1426635174167580682) \(especially [women journalists](https://twitter.com/asranarshism/status/1427051004957126656) \) \.
 
 
-![](assets/4c7a0d30c755/0*r_F_Mtn7LrcGxsRP.jpeg)
+![](../assets/4c7a0d30c755/0*r_F_Mtn7LrcGxsRP.jpeg)
 
 
 PHOTO1: Kabul Airport, civilians hoping to be able to board flights \(Credit: [Aisha Ahmad](https://twitter.com/AishaTaIks/status/1427072003463331842) \)
@@ -42,7 +42,7 @@ At the time of writing, most recent reports describe a chaotic situation at Kabu
 The [Afghan\-American Women’s Association](https://twitter.com/aawa_us/status/1426958501994237952) and [Dunya Collective](https://twitter.com/DunyaCollective/status/1427170320583114755) report that US soldiers have taken control of Hamid Kazai international airport in Kabul and blocked all non\-military flights from landing and departing, preventing hundreds of people from leaving the country\.
 
 
-![](assets/4c7a0d30c755/0*-1Cd-3yUYD_boCwc.jpeg)
+![](../assets/4c7a0d30c755/0*-1Cd-3yUYD_boCwc.jpeg)
 
 
 US soldier preventing civilians to board planes to leave Afghanistan at Kabul airport \(credit: [Sowaibah Hanifie](https://twitter.com/SowaibahH) \)

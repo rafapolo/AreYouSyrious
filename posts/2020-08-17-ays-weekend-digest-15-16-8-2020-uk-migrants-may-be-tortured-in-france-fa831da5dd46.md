@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 15–16/8/2020: UK: migrants may be ‘tortured’ in France
+title: "AYS Weekend Digest 15–16/8/2020: UK: migrants may be ‘tortured’ in France"
 author: Are You Syrious?
 date: 2020-08-17T11:59:26.550+0100
 last_modified_at: 2020-08-17T14:12:54.874+0100
@@ -7,7 +7,7 @@ categories:
 tags: [digest,migrants,refugees,europe,police]
 description: Fires and protest in Italian detention centre // Stories of torture from Croatian police // Sea pushbacks by Greece // Monthly report from…
 image:
-  path: assets/fa831da5dd46/1*IxHEknIK-RvYzRUAeG__kQ.jpeg
+  path: ../assets/fa831da5dd46/1*IxHEknIK-RvYzRUAeG__kQ.jpeg
 ---
 
 ### AYS Weekend Digest 15–16/8/2020: UK: migrants may be ‘tortured’ in France
@@ -57,11 +57,11 @@ The inmates in the CPR of Gradisca have yet again broken into a riot over the we
 Are You Syrious is closely following these events, and as always when new details about the causes or consequences of the protest emerge, we shall report on them\.
 
 
-![](assets/fa831da5dd46/1*IxHEknIK-RvYzRUAeG__kQ.jpeg)
+![](../assets/fa831da5dd46/1*IxHEknIK-RvYzRUAeG__kQ.jpeg)
 
 
 
-![Fire that broke out during the protests in the CPR of Gradisca\. \(Photo Credit: [No Cpr e no frontiere — FVG](https://www.facebook.com/nocprfvg/) \)](assets/fa831da5dd46/1*Y-LjSNvvZPE8jKpSJ-Kj6A.jpeg)
+![Fire that broke out during the protests in the CPR of Gradisca\. \(Photo Credit: [No Cpr e no frontiere — FVG](https://www.facebook.com/nocprfvg/) \)](../assets/fa831da5dd46/1*Y-LjSNvvZPE8jKpSJ-Kj6A.jpeg)
 
 Fire that broke out during the protests in the CPR of Gradisca\. \(Photo Credit: [No Cpr e no frontiere — FVG](https://www.facebook.com/nocprfvg/) \)
 ### Denmark
@@ -108,11 +108,11 @@ To sign, please follow the link below:
 [The Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/897343147455457?hc_location=ufi) has published a report on a boat carrying approximately 32 people which tried to cross towards Lesvos north east at 04\.00 on Saturday morning\. The boat was stopped by the Hellenic Coast Guard outside Palios\. **For 8 hours the boat carrying children, women and men was drifting on the border to Europe but denied entry\.** A total of nine vessels was present, including the Turkish coast guard, Greek coast guard, FRONTEX and NATO, as well as three helicopters, but the extent of the involvement of Nato and Frontex is yet unknown\.
 
 
-![](assets/fa831da5dd46/1*lJc4jn1wWllvprAB_nmtyA.jpeg)
+![](../assets/fa831da5dd46/1*lJc4jn1wWllvprAB_nmtyA.jpeg)
 
 
 
-![Report and photo credit: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/897343147455457?hc_location=ufi)](assets/fa831da5dd46/1*s_TfeaJNKsBjNDq0tChIQg.jpeg)
+![Report and photo credit: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/897343147455457?hc_location=ufi)](../assets/fa831da5dd46/1*s_TfeaJNKsBjNDq0tChIQg.jpeg)
 
 Report and photo credit: [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/897343147455457?hc_location=ufi)
 

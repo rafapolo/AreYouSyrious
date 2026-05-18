@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Detention and Deportation — The UK’s Hostile Environment
+title: "AYS SPECIAL: Detention and Deportation — The UK’s Hostile Environment"
 author: Are You Syrious?
 date: 2019-01-02T17:36:52.388+0000
 last_modified_at: 2019-01-02T17:36:52.388+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,uk,special,detention,deportation]
 description: Earlier this year a group of activists known as the Stanstead 15 were charged under terror related law for peacefully stopping a…
 image:
-  path: assets/de07c9a28d8d/1*NhWd6pS1C-v9vznNS85faQ.jpeg
+  path: ../assets/de07c9a28d8d/1*NhWd6pS1C-v9vznNS85faQ.jpeg
 ---
 
 ### AYS SPECIAL: Detention and Deportation — The UK’s Hostile Environment
@@ -15,7 +15,7 @@ image:
 _Earlier this year a group of activists known as [the Stanstead 15](http://enddeportations.com/2018/12/the-home-office-is-guilty-of-harm-not-us-stansted-15-respond-to-guilty-verdict/) were charged under terror related law for peacefully stopping a deportation flight in March 2017\. They were convicted under the Aviation and Maritime Security Act 1990 of “endangering an aerodrome” by locking themselves around a Titan Airways plane that was deporting people back to Ghana and Nigeria\. Since the flight was stopped several of the people who were being deported have been given leave to remain in the UK\._
 
 
-![](assets/de07c9a28d8d/1*NhWd6pS1C-v9vznNS85faQ.jpeg)
+![](../assets/de07c9a28d8d/1*NhWd6pS1C-v9vznNS85faQ.jpeg)
 
 
 

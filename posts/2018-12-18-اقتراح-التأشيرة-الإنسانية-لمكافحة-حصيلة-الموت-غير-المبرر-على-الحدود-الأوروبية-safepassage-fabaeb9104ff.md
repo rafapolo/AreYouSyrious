@@ -7,27 +7,27 @@ categories: Are You Syrious?
 tags: [digest,refugees,news,arabic,europe]
 description: AYS Weekly News Digest in Arabic
 image:
-  path: assets/fabaeb9104ff/1*NchxtL-CQDVgONlTw6LHgA.jpeg
+  path: ../assets/fabaeb9104ff/1*NchxtL-CQDVgONlTw6LHgA.jpeg
 ---
 
 ### اقتراح التأشيرة الإنسانية لمكافحة حصيلة الموت غير المبرر على الحدود الأوروبية \#SafePassage
 #### AYS Weekly News Digest in Arabic, December 10–16
 
 
-![Photo: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?__tn__=%2CdkCH-R-R&eid=ARBsCdvp8cYTr_Z3oXuzjK4BUgTu6cTno13XFAtWwM8u-NhEbjf8USRZKzdw52c8fQNTPEQY5eOB9M5J&hc_ref=ARSdGVEsplLHsb8DBVQuQya6YV1LvIEIBLi-bdTKAre4HVmxAzWccE8LRDHaEz9EDAc&fref=nf&hc_location=group)](assets/fabaeb9104ff/1*NchxtL-CQDVgONlTw6LHgA.jpeg)
+![Photo: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?__tn__=%2CdkCH-R-R&eid=ARBsCdvp8cYTr_Z3oXuzjK4BUgTu6cTno13XFAtWwM8u-NhEbjf8USRZKzdw52c8fQNTPEQY5eOB9M5J&hc_ref=ARSdGVEsplLHsb8DBVQuQya6YV1LvIEIBLi-bdTKAre4HVmxAzWccE8LRDHaEz9EDAc&fref=nf&hc_location=group)](../assets/fabaeb9104ff/1*NchxtL-CQDVgONlTw6LHgA.jpeg)
 
 Photo: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?__tn__=%2CdkCH-R-R&eid=ARBsCdvp8cYTr_Z3oXuzjK4BUgTu6cTno13XFAtWwM8u-NhEbjf8USRZKzdw52c8fQNTPEQY5eOB9M5J&hc_ref=ARSdGVEsplLHsb8DBVQuQya6YV1LvIEIBLi-bdTKAre4HVmxAzWccE8LRDHaEz9EDAc&fref=nf&hc_location=group)
 ### **سوريا**
 
 
-![](assets/fabaeb9104ff/1*0v4mgtlF9QpWHvqOrR4-7Q.png)
+![](../assets/fabaeb9104ff/1*0v4mgtlF9QpWHvqOrR4-7Q.png)
 
 
 قامت الشبكة السورية لحقوق الإنسان بتجميع تقرير حول وفيات المدنيين يذكر أن 6626 مدنياً قد ماتوا حتى الآن هذا العام في سوريا\. 4628 منهم قتلوا على أيدي قوات التحالف السوري الروسي\. في هذا الشهر قُتل 231 شخصًا فقط ، 79 منهم من قبل الحلف\. ويشير التقرير إلى أن 90٪ من الهجمات التي نفذها الحلف هي ضد المدنيين والأهداف المدنية التي تتعارض مع القانون الدولي لحقوق الإنسان\. ويدعون إلى إجراء تحقيق دولي ومقاضاة الأطراف المذنبة بارتكاب جرائم حرب ، بما في ذلك القتل خارج نطاق القضاء
 ### **المغرب**
 
 
-![](assets/fabaeb9104ff/1*NlDyq3HhpDKUzsp3-n4hsA.png)
+![](../assets/fabaeb9104ff/1*NlDyq3HhpDKUzsp3-n4hsA.png)
 
 
 وذكرت وسائل الإعلام المحلية أنه في يوم السبت الموافق الثامن من ديسمبر / كانون الأول ، تم اختيار أفراد من البحرية الملكية في البحر الأبيض المتوسط ، وتم جلبهم إلى ميناء آمن في الناظور\.وذكرت جمعية ماروكيينا في قسم الناظور أنه تم إلقاء القبض على العشرات من المهاجرين في ميسنانا ، وهي أقرب منطقة برية إلى إسبانيا ، وعادوا إلى تيزنيت، حيث توجد اماكن الاحتجاز
@@ -58,7 +58,7 @@ Photo: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?_
 مقتل رجل أفغاني بالقرب من موريا [إيكاثيمريني](http://www.ekathimerini.com/235619/article/ekathimerini/news/dead-man-near-moria-believed-to-be-22-year-old-afghan) يقول إنه تم العثور على رجل أفغاني يبلغ من العمر 22 عاما ميتا يوم الأربعاء بالقرب من موريا\. وفقا لتقارير محلية ، تعرض الرجل لهجوم من قبل مجموعة من المهاجمين\. ويقال إن المهاجمين سرقوا 90 يورو نقداً كانت الضحية تحملها ، رغم أنه ما زال من غير الواضح ما إذا كان السرقة هو الدافع وراء الهجوم\. هناك تحقيق شرطة قوي يحيط بمخيم موريا كنتيجة للناشطين\.
 
 
-![](assets/fabaeb9104ff/1*U5QsNuBO8RuEuAZbqQcu_Q.jpeg)
+![](../assets/fabaeb9104ff/1*U5QsNuBO8RuEuAZbqQcu_Q.jpeg)
 
 ### **البلقان**
 
@@ -68,7 +68,7 @@ Photo: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?_
 تم تسجيل 752 شخصاً في نوفمبر / تشرين الثاني بقصد الحصول على اللجوء في صربيا ، وبدأ 34 شخصًا الإجراء بتقديم الطلب بالفعل ، وتم منح شخص واحد حق اللجوء ، حسبما ورد على موقع [انفو بارك](ays-daily-news-digest-10-12-18-human-rights-nice-anniversary-but-no-implementation-138b9e2cec98) \. انخفض عدد حالات الطرد الجماعي المبلغ عنها من 1،839 في أكتوبر إلى 1،001 في نوفمبر\. وفي الوقت الذي يتناقص فيه تراجع الدعم من البوسنة والهرسك وكرواتيا ، فإنهما يتزايدان من هنغاريا ورومانيا\. ومع ذلك ، كما هو الحال في شهر أكتوبر ، كان أكبر عدد من عمليات الإيقاف التي تم الإبلاغ عنها في نوفمبر من كرواتيا \(660\) \.وتتحدث أنباء مفزعة قادمة من عدة مصادر عن موظفي شركة الأمن الخاصة باكراك ، التي تعمل من قبل المنظمة الدولية للهجرة في المخيم بيرا بالقرب من بيهاتش ، باستخدام القوة ضد الناس في المخيم ، بما في ذلك القاصرين\. وتزعم المصادر أن اثنين من حراس الأمن قاموا يوم الأحد بضرب صبي يبلغ من العمر 15 عامًا\. وقد اقتاد الأمن بعض الأولاد الآخرين وتعرضوا للضرب خلف المباني أو أمام المخيم\. تم التعاقد مع شركات أمنية خاصة في جميع المخيمات الرسمية التي تديرها المنظمة الدولية للهجرة ، وبحسب ما ورد لا يوجد أي وجود للشرطة\. وبما أن العاملين في هذه الوكالات الخاصة لا يتلقون تدريباً مهنياً حول كيفية العمل مع الأشخاص الضعفاء ، وهم ليسوا على علم ببروتوكول الأمم المتحدة للعمل في المخيمات ، فليس من الواضح لماذا وكيف اتخذت المنظمة الدولية للهجرة قرار التعاقد من الباطن مع وكالات الأمن الخاصة في هذه البعثة الممولة من الاتحاد الأوروبي والأمم المتحدة\. نأمل في تلقي تعليقاتهم الرسمية على هذه المعلومات المقلقة التي تصل إلى فريقنا في الأيام الماضية\.
 
 
-![Photo by: [Sanella Lepirica](https://www.facebook.com/sanela.lepirica?__tn__=%2Cd%2AF%2AF-R&eid=ARCbqD3eS2tEI2qJZJc94pb0dSk90U7OdEr6SrXKG6NAmOq5vlyqgYlAFmtlINyXEr75rv4s15hQDRS-&tn-str=%2AF&hc_location=group_dialog)](assets/fabaeb9104ff/1*LuGHh8_t9x_hMiI-RB4lpw.jpeg)
+![Photo by: [Sanella Lepirica](https://www.facebook.com/sanela.lepirica?__tn__=%2Cd%2AF%2AF-R&eid=ARCbqD3eS2tEI2qJZJc94pb0dSk90U7OdEr6SrXKG6NAmOq5vlyqgYlAFmtlINyXEr75rv4s15hQDRS-&tn-str=%2AF&hc_location=group_dialog)](../assets/fabaeb9104ff/1*LuGHh8_t9x_hMiI-RB4lpw.jpeg)
 
 Photo by: [Sanella Lepirica](https://www.facebook.com/sanela.lepirica?__tn__=%2Cd%2AF%2AF-R&eid=ARCbqD3eS2tEI2qJZJc94pb0dSk90U7OdEr6SrXKG6NAmOq5vlyqgYlAFmtlINyXEr75rv4s15hQDRS-&tn-str=%2AF&hc_location=group_dialog)
 ### **فرنسا**

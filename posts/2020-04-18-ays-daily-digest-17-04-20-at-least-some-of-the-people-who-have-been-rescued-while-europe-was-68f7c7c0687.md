@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 17/04/20: At least some of the people who have been rescued while Europe was…
+title: "AYS Daily Digest 17/04/20: At least some of the people who have been rescued while Europe was…"
 author: Are You Syrious?
 date: 2020-04-18T14:03:28.584+0100
 last_modified_at: 2020-04-18T15:08:28.787+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,europe,digest,sea-rescue,greece]
 description: People rescued by ALAN KURDI transferred to a bigger ship for quarantine // No safe harbour assigned for AITA MARI yet // IOM Statement on…
 image:
-  path: assets/68f7c7c0687/1*w0SkxR96i5b2Rh6oDC9T4Q.jpeg
+  path: ../assets/68f7c7c0687/1*w0SkxR96i5b2Rh6oDC9T4Q.jpeg
 ---
 
 ### AYS Daily Digest 17/04/20: At least some of the people who have been rescued while Europe was celebrating Easter are finally allowed to disembark
 #### People rescued by ALAN KURDI transferred to a bigger ship for quarantine // No safe harbour assigned for AITA MARI yet // IOM Statement on the case of the unanswered calls from boats in distress in Maltese SAR zone // End of cooperation between MSF and SOS Mediteranee // Greek emergency plans for Covid\-19 pandemic in camps // threats against journalist by Greek politician // letter to EU from Moria Corona Awareness Team and Moria White Helmets // More News from Slovenia, Croatia, BH, Austria, UK, Spain
 
 
-![Red Cross says thank you to ALAN KURDI Crew after disembarkation\. Copyright: Gordon Isler, Sea Eye](assets/68f7c7c0687/1*w0SkxR96i5b2Rh6oDC9T4Q.jpeg)
+![Red Cross says thank you to ALAN KURDI Crew after disembarkation\. Copyright: Gordon Isler, Sea Eye](../assets/68f7c7c0687/1*w0SkxR96i5b2Rh6oDC9T4Q.jpeg)
 
 Red Cross says thank you to ALAN KURDI Crew after disembarkation\. Copyright: Gordon Isler, Sea Eye
 ### FEATURE: GOOD NEWS, finally\!
@@ -59,7 +59,7 @@ Press release:
 In non\-pandemic times the group Mediterranea Saving Humans Palermo would have been in the port to give a warm welcome to the arrivals\. These days they decided to at least send a virtual welcome card:
 
 
-![Copyright: Mediterranea Saving Humans Palermo](assets/68f7c7c0687/1*xveVwqUCHrDBH7sWufAUKg.png)
+![Copyright: Mediterranea Saving Humans Palermo](../assets/68f7c7c0687/1*xveVwqUCHrDBH7sWufAUKg.png)
 
 Copyright: Mediterranea Saving Humans Palermo
 
@@ -197,19 +197,19 @@ See the article in German:
 
 
 
-![](assets/68f7c7c0687/1*mZSctZNRUSTrAV69m0tICw.jpeg)
+![](../assets/68f7c7c0687/1*mZSctZNRUSTrAV69m0tICw.jpeg)
 
 
 
-![](assets/68f7c7c0687/1*prL3gjwrTgevZbs71BnX2g.jpeg)
+![](../assets/68f7c7c0687/1*prL3gjwrTgevZbs71BnX2g.jpeg)
 
 
 
-![](assets/68f7c7c0687/1*2mbD69QA17tHkCilBxU9rQ.jpeg)
+![](../assets/68f7c7c0687/1*2mbD69QA17tHkCilBxU9rQ.jpeg)
 
 
 
-![Copyright: Moria White Helmets, Moria Corona Awareness Team](assets/68f7c7c0687/1*NVccfnQOEghzvlPHY4Mwtw.jpeg)
+![Copyright: Moria White Helmets, Moria Corona Awareness Team](../assets/68f7c7c0687/1*NVccfnQOEghzvlPHY4Mwtw.jpeg)
 
 Copyright: Moria White Helmets, Moria Corona Awareness Team
 
@@ -257,7 +257,7 @@ The **journalist Mortaza Behboudi** , who is an indispensable source on the grou
 Movement on the Ground donated 8,000 pieces of essential soap to the Vathy camp management on Samos\. About 6,900 people live in and around the camp\. The soap was distributed to all of them during the week\.
 
 
-![Copyright: Movement on the Ground](assets/68f7c7c0687/1*s8BRw0CkrxjGOYGS37YBXg.jpeg)
+![Copyright: Movement on the Ground](../assets/68f7c7c0687/1*s8BRw0CkrxjGOYGS37YBXg.jpeg)
 
 Copyright: Movement on the Ground
 

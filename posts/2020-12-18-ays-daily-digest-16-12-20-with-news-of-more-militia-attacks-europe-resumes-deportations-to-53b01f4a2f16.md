@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 16/12/20: With news of more militia attacks, Europe resumes deportations to…
+title: "AYS Daily Digest 16/12/20: With news of more militia attacks, Europe resumes deportations to…"
 author: Are You Syrious?
 date: 2020-12-18T01:46:48.048+0000
 last_modified_at: 2020-12-18T02:37:02.381+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,migration,afghanistan,europe,refugees]
 description: While deportation was canceled from Sweden, most of Europe resumes deportations to Afghanistan in the midst of pandemic / With the end of…
 image:
-  path: assets/53b01f4a2f16/0*K1yqRJm3hjNiD0MZ
+  path: ../assets/53b01f4a2f16/0*K1yqRJm3hjNiD0MZ
 ---
 
 ### AYS Daily Digest 16/12/20: With news of more militia attacks, Europe resumes deportations to Afghanistan
 #### While deportation was canceled from Sweden, most of Europe resumes deportations to Afghanistan in the midst of pandemic / With the end of the housing program, people across **Kos, Leros, Rhodes and Samos to be evicted, no solution in sight /** Entire France mobilizes in protests for people on the move / Recommended reads and more
 
 
-![“Activists of the [Naturfreundejugend Berlin](https://www.facebook.com/NFJBerlin/?__cft__[0]=AZUqsQrDDHuqh8d7FXOnKdY3An3XUtv-nJVduAvcwpIMTacUJC9jGsiLF-h_fugcShy5AaGu8oaCuGHILpMYaHJP-QwGy7vieXEvBmLqjh-CD-X1S7hCKqC9VEUkfCMVqOlB2ROnFmTKS6gnFm7P86DS&__tn__=kK-R) and [Seebrücke Berlin](https://www.facebook.com/SeebrueckeBerlin/?__cft__[0]=AZUqsQrDDHuqh8d7FXOnKdY3An3XUtv-nJVduAvcwpIMTacUJC9jGsiLF-h_fugcShy5AaGu8oaCuGHILpMYaHJP-QwGy7vieXEvBmLqjh-CD-X1S7hCKqC9VEUkfCMVqOlB2ROnFmTKS6gnFm7P86DS&__tn__=kK-R) hung a huge transparent at the Alexanderplatz S\-Bahn station on Monday\. Until Sunday, the station, which counts 152,000 daily travelers and visitors in normal times, will draw attention to the situation in the Greek islands and that there are over 200 so\-called ′′ safe harbours ′′ in Germany, which Want to take refugees in\.” — News from the Med / Photo: [Naturfreundejugend Berlin](https://www.facebook.com/NFJBerlin/?__cft__[0]=AZUqsQrDDHuqh8d7FXOnKdY3An3XUtv-nJVduAvcwpIMTacUJC9jGsiLF-h_fugcShy5AaGu8oaCuGHILpMYaHJP-QwGy7vieXEvBmLqjh-CD-X1S7hCKqC9VEUkfCMVqOlB2ROnFmTKS6gnFm7P86DS&__tn__=kK-R) ”](assets/53b01f4a2f16/0*K1yqRJm3hjNiD0MZ)
+![“Activists of the [Naturfreundejugend Berlin](https://www.facebook.com/NFJBerlin/?__cft__[0]=AZUqsQrDDHuqh8d7FXOnKdY3An3XUtv-nJVduAvcwpIMTacUJC9jGsiLF-h_fugcShy5AaGu8oaCuGHILpMYaHJP-QwGy7vieXEvBmLqjh-CD-X1S7hCKqC9VEUkfCMVqOlB2ROnFmTKS6gnFm7P86DS&__tn__=kK-R) and [Seebrücke Berlin](https://www.facebook.com/SeebrueckeBerlin/?__cft__[0]=AZUqsQrDDHuqh8d7FXOnKdY3An3XUtv-nJVduAvcwpIMTacUJC9jGsiLF-h_fugcShy5AaGu8oaCuGHILpMYaHJP-QwGy7vieXEvBmLqjh-CD-X1S7hCKqC9VEUkfCMVqOlB2ROnFmTKS6gnFm7P86DS&__tn__=kK-R) hung a huge transparent at the Alexanderplatz S\-Bahn station on Monday\. Until Sunday, the station, which counts 152,000 daily travelers and visitors in normal times, will draw attention to the situation in the Greek islands and that there are over 200 so\-called ′′ safe harbours ′′ in Germany, which Want to take refugees in\.” — News from the Med / Photo: [Naturfreundejugend Berlin](https://www.facebook.com/NFJBerlin/?__cft__[0]=AZUqsQrDDHuqh8d7FXOnKdY3An3XUtv-nJVduAvcwpIMTacUJC9jGsiLF-h_fugcShy5AaGu8oaCuGHILpMYaHJP-QwGy7vieXEvBmLqjh-CD-X1S7hCKqC9VEUkfCMVqOlB2ROnFmTKS6gnFm7P86DS&__tn__=kK-R) ”](../assets/53b01f4a2f16/0*K1yqRJm3hjNiD0MZ)
 
 “Activists of the [Naturfreundejugend Berlin](https://www.facebook.com/NFJBerlin/?__cft__[0]=AZUqsQrDDHuqh8d7FXOnKdY3An3XUtv-nJVduAvcwpIMTacUJC9jGsiLF-h_fugcShy5AaGu8oaCuGHILpMYaHJP-QwGy7vieXEvBmLqjh-CD-X1S7hCKqC9VEUkfCMVqOlB2ROnFmTKS6gnFm7P86DS&__tn__=kK-R) and [Seebrücke Berlin](https://www.facebook.com/SeebrueckeBerlin/?__cft__[0]=AZUqsQrDDHuqh8d7FXOnKdY3An3XUtv-nJVduAvcwpIMTacUJC9jGsiLF-h_fugcShy5AaGu8oaCuGHILpMYaHJP-QwGy7vieXEvBmLqjh-CD-X1S7hCKqC9VEUkfCMVqOlB2ROnFmTKS6gnFm7P86DS&__tn__=kK-R) hung a huge transparent at the Alexanderplatz S\-Bahn station on Monday\. Until Sunday, the station, which counts 152,000 daily travelers and visitors in normal times, will draw attention to the situation in the Greek islands and that there are over 200 so\-called ′′ safe harbours ′′ in Germany, which Want to take refugees in\.” — News from the Med / Photo: [Naturfreundejugend Berlin](https://www.facebook.com/NFJBerlin/?__cft__[0]=AZUqsQrDDHuqh8d7FXOnKdY3An3XUtv-nJVduAvcwpIMTacUJC9jGsiLF-h_fugcShy5AaGu8oaCuGHILpMYaHJP-QwGy7vieXEvBmLqjh-CD-X1S7hCKqC9VEUkfCMVqOlB2ROnFmTKS6gnFm7P86DS&__tn__=kK-R) ”
 #### FEATURED
@@ -59,7 +59,7 @@ And although deportations to Afghanistan have been deeply controversial, countri
 Sadly, on daily basis, more people have lost their lives attempting to reach Europe\. Four unidentified bodies, presumably of people on the move, were found washed ashore in Libya\. Reportedly, one body was recovered near Refinary Point and three in Al\-Harsha area\.
 
 
-![Photo: Migrant rescue watch](assets/53b01f4a2f16/1*zH0zpRJT2WRP790BAqCOnw.jpeg)
+![Photo: Migrant rescue watch](../assets/53b01f4a2f16/1*zH0zpRJT2WRP790BAqCOnw.jpeg)
 
 Photo: Migrant rescue watch
 
@@ -68,7 +68,7 @@ On Tuesday Tunisia’s navy said it had intercepted 93 people of African descent
 In the Spanish waters, Maritime Rescue has rescued 41 people this Wednesday from a boat located in the waters of the Alboran Sea\.
 
 
-![](assets/53b01f4a2f16/0*f8zigptav_IIzu0X)
+![](../assets/53b01f4a2f16/0*f8zigptav_IIzu0X)
 
 
 A month ago Aegean Boat Report launched the ABR Hotline, to connect with ABR on Whatsapp\. The Hotline can be used to send information, pictures and video to Aegean Boat Report, all senders will be kept anonymous\.
@@ -84,11 +84,11 @@ On **Lesvos** , due to the lockdown, the vast majority of asylum seekers are not
 The horrid conditions in Kara Tepe / Moria 2 remain the same, exposing people to further dangers, as we r [eported yesterday](https://l.facebook.com/l.php?u=https%3A%2F%2Ftwitter.com%2Fparwana_amiri%2Fstatus%2F1339137513215176704%3Ffbclid%3DIwAR1WRPQKZX9pE-LOcICoBLjQcXcfQl4o1sz6U585ne0mCLFhQk69G1hBKKI&h=AT363r8BYG-czFRVnR-xb42lt3dKfZEgx3TQGyCsPOXk2HteLSpAsmHwywQjpyJB9Do71ArUzUbc3IS40xmOVmh2uAyew-x8VwZ1yIDAwnWjxZTTRYMvNzegXPBDvhzFJLd8JTF89ljn2g&__tn__=R]-R&c[0]=AT0ayeeEiOOIh3IpcYmP3CiVybs5Iz33zVAn95h8MtcKNL47djeGeE7JFviBCZhKdqOUEQM8d64h_RSr4yZmOYbrA0IHSDn5tTS0vTSVAO6nFRtemMI4ig4kZsS27yVS06JiR73F-nRNHG82EoekYbj7lfZBKklKBRXXcSnejf7askU9vKXrOLSdCSgwJAI90YidJ7Dk8zxrxnylupalGinjyR2HybdpfA3CBXC6Jw) \. There is no real change in sight\.
 
 
-![](assets/53b01f4a2f16/0*aCrTILxZuoG1QyHD)
+![](../assets/53b01f4a2f16/0*aCrTILxZuoG1QyHD)
 
 
 
-![Photos: [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/?__cft__[0]=AZX9oKk8WjScl5e64HKOr8cKm3O2J77_AyGdo1BOyIC66K_2ZP6d8LoXxoPpaWjiS4mXBErbemUHjA0lySev7lTBqMw02BZy6363NraC4HqRhMl0onCShEVTC4cNSRcunJdihGOtg2o6Ct_knrQqT6s9&__tn__=-UC%2CP-R)](assets/53b01f4a2f16/0*W3nHfnr056psqLGA)
+![Photos: [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/?__cft__[0]=AZX9oKk8WjScl5e64HKOr8cKm3O2J77_AyGdo1BOyIC66K_2ZP6d8LoXxoPpaWjiS4mXBErbemUHjA0lySev7lTBqMw02BZy6363NraC4HqRhMl0onCShEVTC4cNSRcunJdihGOtg2o6Ct_knrQqT6s9&__tn__=-UC%2CP-R)](../assets/53b01f4a2f16/0*W3nHfnr056psqLGA)
 
 Photos: [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/?__cft__[0]=AZX9oKk8WjScl5e64HKOr8cKm3O2J77_AyGdo1BOyIC66K_2ZP6d8LoXxoPpaWjiS4mXBErbemUHjA0lySev7lTBqMw02BZy6363NraC4HqRhMl0onCShEVTC4cNSRcunJdihGOtg2o6Ct_knrQqT6s9&__tn__=-UC%2CP-R)
 
@@ -106,7 +106,7 @@ Photos: [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/?__cft_
 NNK volunteers write on the situation in Patras:
 
 
-![Photo: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?__cft__[0]=AZWBcIZXVQonLtwUaRIZpTZUHvkeWwRxbfE91CYPuQi-3JWEtlmTL6nVxcSM4cauBK7dZpKZ283qdd_ECix4h9zRkYH-hBjdEUXlamhho9T7mHoqnReYGVKiv4Xk6P-MffB5HZoqykNMIKoPTF91TU_WhJcBpGrzFfrQw9Dkdord_H2sfu2np_WECGY2iaMw7kq69E8m6-v5bzfQ71g5Kf8y&__tn__=-UC%2CP-y-R)](assets/53b01f4a2f16/0*TRYOTQCoWXBn8gHz)
+![Photo: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?__cft__[0]=AZWBcIZXVQonLtwUaRIZpTZUHvkeWwRxbfE91CYPuQi-3JWEtlmTL6nVxcSM4cauBK7dZpKZ283qdd_ECix4h9zRkYH-hBjdEUXlamhho9T7mHoqnReYGVKiv4Xk6P-MffB5HZoqykNMIKoPTF91TU_WhJcBpGrzFfrQw9Dkdord_H2sfu2np_WECGY2iaMw7kq69E8m6-v5bzfQ71g5Kf8y&__tn__=-UC%2CP-y-R)](../assets/53b01f4a2f16/0*TRYOTQCoWXBn8gHz)
 
 Photo: [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?__cft__[0]=AZWBcIZXVQonLtwUaRIZpTZUHvkeWwRxbfE91CYPuQi-3JWEtlmTL6nVxcSM4cauBK7dZpKZ283qdd_ECix4h9zRkYH-hBjdEUXlamhho9T7mHoqnReYGVKiv4Xk6P-MffB5HZoqykNMIKoPTF91TU_WhJcBpGrzFfrQw9Dkdord_H2sfu2np_WECGY2iaMw7kq69E8m6-v5bzfQ71g5Kf8y&__tn__=-UC%2CP-y-R)
 
@@ -167,7 +167,7 @@ The film will be available for free screening from Thursday, 5pm CET, for 24 hou
 This will be an introduction for our AYS team member Tajana to speak about the current state of things, which unfortunately changed only for the worse in the meantime, along with some other guests from the political side of things, the Croatian Ministry of Foreign Affairs\. The discussion will be available for watching online, on **Friday at 6pm CET** on [https://festivaloftolerance\.com/film\-i\-diskusija](https://festivaloftolerance.com/film-i-diskusija?fbclid=IwAR3lsY7OFW7Qu_IjTlQgnG3tu795UX2KJuhyF7Wvb7hJ_-VrPUFlJ2_Hu30)
 
 
-![[Festival tolerancije — JFF Zagreb / Festival of Tolerance — JFF Zagreb](https://www.facebook.com/ZgJewishFilmFestival/?__cft__[0]=AZWWhDFm6AYwex7MKUU67j-lVlzixgFX37oQS-30Y16h2e41lbh2mOagC2WJT2mFyGXtnIUQaoXaNGreZdvE5mDIQKkWlQUvYqxA-ziNyleo6yzXZu-8irmOw4K6Fnge1E4Ms6G07svrEuFJLucWlUSrvqDxSshpDQH1LU0yD3IiJ9ea5EVTqduG1OCrLGAjKTFjx4edPemBjQ39TZppUaFj&__tn__=-UC*F)](assets/53b01f4a2f16/0*M367bVsqpMsQ3TXU)
+![[Festival tolerancije — JFF Zagreb / Festival of Tolerance — JFF Zagreb](https://www.facebook.com/ZgJewishFilmFestival/?__cft__[0]=AZWWhDFm6AYwex7MKUU67j-lVlzixgFX37oQS-30Y16h2e41lbh2mOagC2WJT2mFyGXtnIUQaoXaNGreZdvE5mDIQKkWlQUvYqxA-ziNyleo6yzXZu-8irmOw4K6Fnge1E4Ms6G07svrEuFJLucWlUSrvqDxSshpDQH1LU0yD3IiJ9ea5EVTqduG1OCrLGAjKTFjx4edPemBjQ39TZppUaFj&__tn__=-UC*F)](../assets/53b01f4a2f16/0*M367bVsqpMsQ3TXU)
 
 [Festival tolerancije — JFF Zagreb / Festival of Tolerance — JFF Zagreb](https://www.facebook.com/ZgJewishFilmFestival/?__cft__[0]=AZWWhDFm6AYwex7MKUU67j-lVlzixgFX37oQS-30Y16h2e41lbh2mOagC2WJT2mFyGXtnIUQaoXaNGreZdvE5mDIQKkWlQUvYqxA-ziNyleo6yzXZu-8irmOw4K6Fnge1E4Ms6G07svrEuFJLucWlUSrvqDxSshpDQH1LU0yD3IiJ9ea5EVTqduG1OCrLGAjKTFjx4edPemBjQ39TZppUaFj&__tn__=-UC*F)
 

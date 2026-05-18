@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 13/7/20: Former and current officials hand in hand with border and detention…
+title: "AYS Daily Digest 13/7/20: Former and current officials hand in hand with border and detention…"
 author: Are You Syrious?
 date: 2020-07-14T14:25:58.761+0100
 last_modified_at: 2020-07-14T17:00:24.784+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,europe,borders,refugees,human-rights]
 description: As the stance of migration changes, the Ministries of Interior use it to enforce securitisation strategies and violent border measures /…
 image:
-  path: assets/997ba2076666/1*jrIvP4AKTmp7Bu6kXlYicQ.jpeg
+  path: ../assets/997ba2076666/1*jrIvP4AKTmp7Bu6kXlYicQ.jpeg
 ---
 
 ### AYS Daily Digest 13/7/20: Former and current officials hand in hand with border and detention torture practices
 #### As the stance of migration changes, the Ministries of Interior use it to enforce securitisation strategies and violent border measures / the UK’s ex\-police and diplomacy officers working for the Libyans / Council of State rules: French Ministry of the Interior violates the right to asylum at the border with Italy / 1,000 people arrive in Italy in the past 3 days / Calls for help and aid in the Balkans and in the north of France / reports and updates from the ground & more
 
 
-![“35 ° C in the shade, the heat builds up between the olive slopes\. The biting smell of feces and garbage\. At first glance, everything here is grey; the dusty asphalt road, the walls, the high barbed wire fences\. On the concrete wall, under the faded 30 km sign, the words “They killed our dreams” are written in bold blue block letters — we are standing right in front of the entrance gates of Moria, Europe’s largest refugee camp\.” — Read more under ‘Greece’ \(Photo: [Europeans for Humanity](https://www.facebook.com/europeansforhumanity/?__xts__%5B0%5D=68.ARCMYR7Mz2rdLXRnndqVqno4Z2HhNzhMxD0M5rSPGvWT4szTnq6yZai84HVwwBknw1JemwmdY64xJJwxBwcNpFpJW6tv8teZV1TW85DjrKtZ9J8ePosjGqAmdn7jMqHBJp4afKWOx1JTZJzqoUEghlXnihrCwS_OTmc0bFASU-RrXGsrqwlVVhjBzMCXeCuLtF8ZuVmaV5YRcRzgXoweT3GsYarYsUvZsopW8wBz0rqXRoNjjdeNNA3nD_BMNfc6qjeLhwna7IbmY909eD1febuOHySpaZNOYD-v9yub3vHKklxh6_KMZH6x2imp7xZQ3ZRO-i7bfK887ICli3n09gc&__tn__=k%2AF&tn-str=k%2AF) \)](assets/997ba2076666/1*jrIvP4AKTmp7Bu6kXlYicQ.jpeg)
+![“35 ° C in the shade, the heat builds up between the olive slopes\. The biting smell of feces and garbage\. At first glance, everything here is grey; the dusty asphalt road, the walls, the high barbed wire fences\. On the concrete wall, under the faded 30 km sign, the words “They killed our dreams” are written in bold blue block letters — we are standing right in front of the entrance gates of Moria, Europe’s largest refugee camp\.” — Read more under ‘Greece’ \(Photo: [Europeans for Humanity](https://www.facebook.com/europeansforhumanity/?__xts__%5B0%5D=68.ARCMYR7Mz2rdLXRnndqVqno4Z2HhNzhMxD0M5rSPGvWT4szTnq6yZai84HVwwBknw1JemwmdY64xJJwxBwcNpFpJW6tv8teZV1TW85DjrKtZ9J8ePosjGqAmdn7jMqHBJp4afKWOx1JTZJzqoUEghlXnihrCwS_OTmc0bFASU-RrXGsrqwlVVhjBzMCXeCuLtF8ZuVmaV5YRcRzgXoweT3GsYarYsUvZsopW8wBz0rqXRoNjjdeNNA3nD_BMNfc6qjeLhwna7IbmY909eD1febuOHySpaZNOYD-v9yub3vHKklxh6_KMZH6x2imp7xZQ3ZRO-i7bfK887ICli3n09gc&__tn__=k%2AF&tn-str=k%2AF) \)](../assets/997ba2076666/1*jrIvP4AKTmp7Bu6kXlYicQ.jpeg)
 
 “35 ° C in the shade, the heat builds up between the olive slopes\. The biting smell of feces and garbage\. At first glance, everything here is grey; the dusty asphalt road, the walls, the high barbed wire fences\. On the concrete wall, under the faded 30 km sign, the words “They killed our dreams” are written in bold blue block letters — we are standing right in front of the entrance gates of Moria, Europe’s largest refugee camp\.” — Read more under ‘Greece’ \(Photo: [Europeans for Humanity](https://www.facebook.com/europeansforhumanity/?__xts__%5B0%5D=68.ARCMYR7Mz2rdLXRnndqVqno4Z2HhNzhMxD0M5rSPGvWT4szTnq6yZai84HVwwBknw1JemwmdY64xJJwxBwcNpFpJW6tv8teZV1TW85DjrKtZ9J8ePosjGqAmdn7jMqHBJp4afKWOx1JTZJzqoUEghlXnihrCwS_OTmc0bFASU-RrXGsrqwlVVhjBzMCXeCuLtF8ZuVmaV5YRcRzgXoweT3GsYarYsUvZsopW8wBz0rqXRoNjjdeNNA3nD_BMNfc6qjeLhwna7IbmY909eD1febuOHySpaZNOYD-v9yub3vHKklxh6_KMZH6x2imp7xZQ3ZRO-i7bfK887ICli3n09gc&__tn__=k%2AF&tn-str=k%2AF) \)
 #### FEATURED
@@ -116,11 +116,11 @@ After testing, all the newly arrived people will be taken to the quarantine camp
 [Refugee Biriyani & Bananas](https://www.facebook.com/RefugeeBiriyaniAndBananas/?tn-str=k%2AF) team reports about protests on Chios
 
 
-![](assets/997ba2076666/1*dX0DlD1La_83SzEorpjuXw.jpeg)
+![](../assets/997ba2076666/1*dX0DlD1La_83SzEorpjuXw.jpeg)
 
 
 
-![](assets/997ba2076666/1*4lc64DlGXVlyAo_3ZXKpPw.jpeg)
+![](../assets/997ba2076666/1*4lc64DlGXVlyAo_3ZXKpPw.jpeg)
 
 #### BALKAN ROUTE
 
@@ -159,7 +159,7 @@ They have encountered families who have been returned from Hungary and are now a
 [No Name Kitchen](https://www.facebook.com/NoNameKitchenBelgrade/?tn-str=k%2AF&hc_location=group_dialog) is in need of men’s summer clothes on the route, collecting them in Croatia, while Are You Syrious is collecting hygiene products, men&women’s clothes and many more things to distribute in our Free Shop in Zagreb\. If you can contribute in any way, contact the groups to see what the next step is\.
 
 
-![](assets/997ba2076666/1*a1_brCIwi1vhBjlo5j_bew.jpeg)
+![](../assets/997ba2076666/1*a1_brCIwi1vhBjlo5j_bew.jpeg)
 
 #### ITALY
 
@@ -233,7 +233,7 @@ Raphael Knipping and Michael Trammer translated their multimedia project into En
 Listen to the Pandemic Diaries from Greece:
 
 
-[![Pandemic diaries from Greece #6: Discrimination & constriction of movement for refugees-V.Katrivanou](assets/997ba2076666/3a98_hqdefault.jpg "Pandemic diaries from Greece #6: Discrimination & constriction of movement for refugees-V.Katrivanou")](https://www.youtube.com/watch?v=d5GzXMh39W0)
+[![Pandemic diaries from Greece #6: Discrimination & constriction of movement for refugees-V.Katrivanou](../assets/997ba2076666/3a98_hqdefault.jpg "Pandemic diaries from Greece #6: Discrimination & constriction of movement for refugees-V.Katrivanou")](https://www.youtube.com/watch?v=d5GzXMh39W0)
 
 
 …

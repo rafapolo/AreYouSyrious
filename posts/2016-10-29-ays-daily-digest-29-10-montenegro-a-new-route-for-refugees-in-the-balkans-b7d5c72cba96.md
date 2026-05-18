@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 29/10: Montenegro — a new route for refugees in the Balkans?
+title: "AYS DAILY DIGEST 29/10: Montenegro — a new route for refugees in the Balkans?"
 author: Are You Syrious?
 date: 2016-10-29T22:14:21.641+0100
 last_modified_at: 2016-10-30T11:14:47.791+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,montenegro,calais-minors,refugees-in-italy]
 description: Group of refugees arrested in Montenegro after trying to enter from Serbia by train // New arrivals registered daily in Serbia //…
 image:
-  path: assets/b7d5c72cba96/1*_McvszTjbFA8YddQrGR6CQ.jpeg
+  path: ../assets/b7d5c72cba96/1*_McvszTjbFA8YddQrGR6CQ.jpeg
 ---
 
 ### AYS DAILY DIGEST 29/10: Montenegro — a new route for refugees in the Balkans?
@@ -15,7 +15,7 @@ image:
 _Group of refugees arrested in Montenegro after trying to enter from Serbia by train // New arrivals registered daily in Serbia // EU\-countries refuse to send asylum experts to Greece // Over 27\.000 people arrived in Italy in October // Children of Calais need our help_
 
 
-![Hasakeh province, Syria 26 October 2016, An Iraqi refugee child who fled Mosul, looks to the sky at the Al\-Hol refugee camp in Syria’s Hasakeh province\. War operation in\. Mosul forced millions of people to flee their homes\. Many are still trapped on the border between Iraq and Syria\. Photograph by Delil Souleiman [Art Against](https://www.facebook.com/artagainstproject/)](assets/b7d5c72cba96/1*_McvszTjbFA8YddQrGR6CQ.jpeg)
+![Hasakeh province, Syria 26 October 2016, An Iraqi refugee child who fled Mosul, looks to the sky at the Al\-Hol refugee camp in Syria’s Hasakeh province\. War operation in\. Mosul forced millions of people to flee their homes\. Many are still trapped on the border between Iraq and Syria\. Photograph by Delil Souleiman [Art Against](https://www.facebook.com/artagainstproject/)](../assets/b7d5c72cba96/1*_McvszTjbFA8YddQrGR6CQ.jpeg)
 
 Hasakeh province, Syria 26 October 2016, An Iraqi refugee child who fled Mosul, looks to the sky at the Al\-Hol refugee camp in Syria’s Hasakeh province\. War operation in\. Mosul forced millions of people to flee their homes\. Many are still trapped on the border between Iraq and Syria\. Photograph by Delil Souleiman [Art Against](https://www.facebook.com/artagainstproject/)
 ### Feature
@@ -32,7 +32,7 @@ In neighboring Serbia, the situation is much different\. More people are being r
 A volunteer in Serbia reports about between 120 and 140 — mostly from Afghanistan — people in an asylum center in Banja Koviljača, close to Bosnian border\. The center is a semi\-open type, and refugees — like in some other centers and camps in Serbia — have to be inside after 8pm\. They receive food and clothes, English classes are provided occasionally\. There are no volunteers inside, but they are allowed to come and visit outside premises where people are accommodated\.
 
 
-![Center in Banja Koviljača](assets/b7d5c72cba96/1*WODK4wsMxc12oYg4lsJ49g.jpeg)
+![Center in Banja Koviljača](../assets/b7d5c72cba96/1*WODK4wsMxc12oYg4lsJ49g.jpeg)
 
 Center in Banja Koviljača
 
@@ -43,19 +43,19 @@ There were 472 people today in Miksaliste\. Additionally, around 270 single man 
 Many people are in Serbia to help\. The beautiful story comes from the [Kelebija Community Center](https://www.youcaring.com/kelebija-community-center-675966) \. A group of volunteers built together a pallet walkway that will keep people out of the mud\. They will continue building and soon there will be the newly\-expanded outdoor warehouse to help sort winter clothing for safer distribution\.
 
 
-![](assets/b7d5c72cba96/1*QFGkRiwOUov-OEzmRg0oSw.jpeg)
+![](../assets/b7d5c72cba96/1*QFGkRiwOUov-OEzmRg0oSw.jpeg)
 
 
 
-![](assets/b7d5c72cba96/1*HT22VbbJWDXELvRvvq6udA.jpeg)
+![](../assets/b7d5c72cba96/1*HT22VbbJWDXELvRvvq6udA.jpeg)
 
 
 
-![](assets/b7d5c72cba96/1*7wgUoamkBtwk_IqexRx9cg.jpeg)
+![](../assets/b7d5c72cba96/1*7wgUoamkBtwk_IqexRx9cg.jpeg)
 
 
 
-![Photo Kelebija Community Center](assets/b7d5c72cba96/1*ji3eami9TZX8BQ-1YMH-Yw.jpeg)
+![Photo Kelebija Community Center](../assets/b7d5c72cba96/1*ji3eami9TZX8BQ-1YMH-Yw.jpeg)
 
 Photo Kelebija Community Center
 
@@ -103,11 +103,11 @@ Please contact, [SAMS\-GR ‘s Greece Volunteer Coordinator](https://www.faceboo
 Beautiful story from Soxtex camp where garden, planted by refugees and volunteer together, is growing\. The vegetable was planted in September, and started growing now\.
 
 
-![](assets/b7d5c72cba96/1*E4cht_yXahPLgkqmXCxvJg.jpeg)
+![](../assets/b7d5c72cba96/1*E4cht_yXahPLgkqmXCxvJg.jpeg)
 
 
 
-![Photo by the Welcome Foundation\.](assets/b7d5c72cba96/1*34T_fR0tI5PjUH5iGAnh6g.jpeg)
+![Photo by the Welcome Foundation\.](../assets/b7d5c72cba96/1*34T_fR0tI5PjUH5iGAnh6g.jpeg)
 
 Photo by the Welcome Foundation\.
 
@@ -143,7 +143,7 @@ Officials hope to complete the clearance by Monday night\.
 At the same time with Calais demolition, the number of refugees sleeping rough on the streets of Paris, is rising\. Since Monday, when the demolition started, it has grown by at least a third\. Some estimates there are some 2,000–2,500 people sleeping in the area now\.
 
 
-![Photo No Border Network\.](assets/b7d5c72cba96/1*NDizUEb_HKYUzmij3EL1Fw.jpeg)
+![Photo No Border Network\.](../assets/b7d5c72cba96/1*NDizUEb_HKYUzmij3EL1Fw.jpeg)
 
 Photo No Border Network\.
 

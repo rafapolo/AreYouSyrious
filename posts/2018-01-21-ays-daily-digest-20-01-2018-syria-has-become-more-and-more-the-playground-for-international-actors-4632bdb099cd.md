@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 20/01/2018: Syria has become more and more the playground for international actors
+title: "AYS DAILY DIGEST 20/01/2018: Syria has become more and more the playground for international actors"
 author: Are You Syrious?
 date: 2018-01-21T08:44:18.803+0000
 last_modified_at: 2018-01-21T13:17:55.981+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,war,migration,protest,deportations]
 description: A military offensive carried out by Turkish forces has begun, targeting the area of Afrin/Heavy flooding in Syria/EU-Turkey deal at…
 image:
-  path: assets/4632bdb099cd/1*DbVur7dUN65io8bT63rdhQ.jpeg
+  path: ../assets/4632bdb099cd/1*DbVur7dUN65io8bT63rdhQ.jpeg
 ---
 
 ### AYS DAILY DIGEST 20/01/2018: Syria has become more and more the playground for international actors
@@ -15,7 +15,7 @@ image:
 _A military offensive carried out by Turkish forces has begun, targeting the area of Afrin/Heavy flooding in Syria/EU\-Turkey deal at stake/Deplorable conditions for refugees on Samos and in Thessaloniki/Voice in Bulgaria’s statement on EU Presidency/Protest in Lampedusa against the detention on the prison\-island/Extremely limited job opportunities for refugees in Ireland/More news from Austria, Germany, France, Spain, Sweden and the Mediterranean…_
 
 
-![Credit: Free Yezidi Foundation\. Free Yezidi Foundation is VERY CONCERNED about the hundred air strikes by Turkish military and ground forces that are moving against [\#Afrin](https://twitter.com/hashtag/Afrin?src=hash) \. Many [\#Yazidi](https://twitter.com/hashtag/Yazidi?src=hash) civilians living peacefully in Afrin\. We have seen enough attacks and bloodshed\. International community must protect civilians\.](assets/4632bdb099cd/1*DbVur7dUN65io8bT63rdhQ.jpeg)
+![Credit: Free Yezidi Foundation\. Free Yezidi Foundation is VERY CONCERNED about the hundred air strikes by Turkish military and ground forces that are moving against [\#Afrin](https://twitter.com/hashtag/Afrin?src=hash) \. Many [\#Yazidi](https://twitter.com/hashtag/Yazidi?src=hash) civilians living peacefully in Afrin\. We have seen enough attacks and bloodshed\. International community must protect civilians\.](../assets/4632bdb099cd/1*DbVur7dUN65io8bT63rdhQ.jpeg)
 
 Credit: Free Yezidi Foundation\. Free Yezidi Foundation is VERY CONCERNED about the hundred air strikes by Turkish military and ground forces that are moving against [\#Afrin](https://twitter.com/hashtag/Afrin?src=hash) \. Many [\#Yazidi](https://twitter.com/hashtag/Yazidi?src=hash) civilians living peacefully in Afrin\. We have seen enough attacks and bloodshed\. International community must protect civilians\.
 #### FEATURE:
@@ -42,7 +42,7 @@ A number of intellectuals and academics, including Noam Chomsky, signed a [lette
 [Heavy flooding](https://insaan-rights-watch.blogspot.de/2018/01/everything-is-drenched-heavy-flooding.html?spref=fb&m=1) during the week meant trouble for the approximately 500 Syrian internally displaced persons living in the Quneitra province, near the Golan Heights\.
 
 
-![Credit: Mohammad Al Toba](assets/4632bdb099cd/1*cAmNcqY3LijjLBym-XiFIg.jpeg)
+![Credit: Mohammad Al Toba](../assets/4632bdb099cd/1*cAmNcqY3LijjLBym-XiFIg.jpeg)
 
 Credit: Mohammad Al Toba
 #### TURKEY
@@ -128,7 +128,7 @@ We are happy to publish this post by Refugee Rights Data Project on recent claim
 A [court](https://www.thelocal.es/20180119/spain-holds-two-alleged-smugglers-over-migrant-deaths) on Thursday has accused two smugglers of the death of seven migrants, five of whom died from hypothermia, exhaustion and hunger, while two drowned\.
 
 
-![Credit: Proactiva Open Arms](assets/4632bdb099cd/1*vaFTv40_4J7xArK5HnDO7w.jpeg)
+![Credit: Proactiva Open Arms](../assets/4632bdb099cd/1*vaFTv40_4J7xArK5HnDO7w.jpeg)
 
 Credit: Proactiva Open Arms
 #### IRELAND

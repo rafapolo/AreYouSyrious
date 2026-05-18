@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 10/07/2018: More and more violence on Lesvos left eight people injured and one…
+title: "AYS DAILY DIGEST 10/07/2018: More and more violence on Lesvos left eight people injured and one…"
 author: Are You Syrious?
 date: 2018-07-11T08:28:25.216+0100
 last_modified_at: 2018-07-11T20:46:30.074+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,human-rights,violence,greece]
 description: Salvamento Maritimo rescuing hundreds of lives at sea//Indecent living conditions in reception centres in Romania//New arrivals to…
 image:
-  path: assets/c5e7b27d7c77/1*FqOMHPegQZgHAuYcgvhRTw.jpeg
+  path: ../assets/c5e7b27d7c77/1*FqOMHPegQZgHAuYcgvhRTw.jpeg
 ---
 
 ### AYS DAILY DIGEST 10/07/2018: More and more violence on Lesvos left eight people injured and one teenager shot at the head and legs
@@ -15,7 +15,7 @@ image:
 _Salvamento Maritimo rescuing hundreds of lives at sea//Indecent living conditions in reception centres in Romania//New arrivals to Greece//Clashes in Moria//Salvini denying docking to an Italian vessel which responded to a distress call//Protest in France to impede deportation of a Sudanese man//New initiative for disabled refugees in Sweden//More news from Bosnia, Italy, Germany…_
 
 
-![Credit: MSF](assets/c5e7b27d7c77/1*FqOMHPegQZgHAuYcgvhRTw.jpeg)
+![Credit: MSF](../assets/c5e7b27d7c77/1*FqOMHPegQZgHAuYcgvhRTw.jpeg)
 
 Credit: MSF
 ### Feature
@@ -144,7 +144,7 @@ _Islands_
 UNHCR has published the weekly update on arrivals in the Greek islands, where 638 people landed this week, adding to the 15,500 plus migrants living on the Aegean islands already\. The majority of arrivals are from Syria, Iraq, Afghanistan\. 52% of them are women and children, 12% circa unaccompanied\.
 
 
-![](assets/c5e7b27d7c77/1*pZIj8r31hP4PSj6_d0YCNw.jpeg)
+![](../assets/c5e7b27d7c77/1*pZIj8r31hP4PSj6_d0YCNw.jpeg)
 
 
 **\#savepikpa**
@@ -158,7 +158,7 @@ UNHCR has published the weekly update on arrivals in the Greek islands, where 63
 750 meals were distributed yesterday at the “official camp” run by the Red Cross in Bihać, where even basic living conditions are not being met, while the building itself is unsafe, has no roof or windows\. The Red Cross is distributing one meal a day\.
 
 
-![Credit: Red Cross](assets/c5e7b27d7c77/1*AbaTzo5kYUuWdJFLfcmExw.jpeg)
+![Credit: Red Cross](../assets/c5e7b27d7c77/1*AbaTzo5kYUuWdJFLfcmExw.jpeg)
 
 Credit: Red Cross
 
@@ -197,11 +197,11 @@ Present on the field to support the migrants are the union, USB Federazione del 
 
 
 
-![](assets/c5e7b27d7c77/1*1JDpyKHTdXCEV2p1yJ6-qQ.jpeg)
+![](../assets/c5e7b27d7c77/1*1JDpyKHTdXCEV2p1yJ6-qQ.jpeg)
 
 
 
-![Credit: Eleonora Camilli](assets/c5e7b27d7c77/1*2GSh9waUWjsrz7SH-fEO3A.jpeg)
+![Credit: Eleonora Camilli](../assets/c5e7b27d7c77/1*2GSh9waUWjsrz7SH-fEO3A.jpeg)
 
 Credit: Eleonora Camilli
 

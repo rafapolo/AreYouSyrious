@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 14/11/2017: “The suffering of migrants detained in Libya is an outrage to the…
+title: "AYS DAILY DIGEST 14/11/2017: “The suffering of migrants detained in Libya is an outrage to the…"
 author: Are You Syrious?
 date: 2017-11-15T08:51:55.352+0000
 last_modified_at: 2017-11-15T08:51:55.352+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,libya,european-union,greece,calais]
 description: Video proof of crimes against migrants in Libya, another one // UN condemns the EU policy towards Libya // Refugees ended the hunger strike…
 image:
-  path: assets/72b563a9ec4/1*80CZJL9Pe6AI-_7acWMqlQ.jpeg
+  path: ../assets/72b563a9ec4/1*80CZJL9Pe6AI-_7acWMqlQ.jpeg
 ---
 
 ### AYS DAILY DIGEST 14/11/2017: “The suffering of migrants detained in Libya is an outrage to the conscience of humanity\.”
@@ -15,7 +15,7 @@ image:
 _Video proof of crimes against migrants in Libya, another one // UN condemns the EU policy towards Libya // Refugees ended the hunger strike outside of the Greek parliament in Athens // 5\-year\-old child found in hypothermia state in Bolzano // And more from Serbia, Slovenia, Austria, Denmark…_
 
 
-![SOS Mediterranee\. Rescue of people who came across the sea from Libya to Italy\. Photo by Maud Veith\.](assets/72b563a9ec4/1*80CZJL9Pe6AI-_7acWMqlQ.jpeg)
+![SOS Mediterranee\. Rescue of people who came across the sea from Libya to Italy\. Photo by Maud Veith\.](../assets/72b563a9ec4/1*80CZJL9Pe6AI-_7acWMqlQ.jpeg)
 
 SOS Mediterranee\. Rescue of people who came across the sea from Libya to Italy\. Photo by Maud Veith\.
 ### Libya
@@ -35,7 +35,7 @@ Just a day before the video was shown, European and African ministers met in Ber
 But, there is nothing to be proud of in the way how this was achived\.
 
 
-[![Italy Is Paying Libya To Intercept Migrants On The Mediterranean (HBO)](assets/72b563a9ec4/7f3b_hqdefault.jpg "Italy Is Paying Libya To Intercept Migrants On The Mediterranean (HBO)")](http://www.youtube.com/watch?v=HpAQGyp6IcY)
+[![Italy Is Paying Libya To Intercept Migrants On The Mediterranean (HBO)](../assets/72b563a9ec4/7f3b_hqdefault.jpg "Italy Is Paying Libya To Intercept Migrants On The Mediterranean (HBO)")](http://www.youtube.com/watch?v=HpAQGyp6IcY)
 
 
 Ministers agreed to _“work closely with Libyan authorities to ensure detained migrants and refugees were held with respect for human rights and humanitarian standards, and promised to secure priority release from detention for vulnerable people such as children and victims of torture\.”_
@@ -64,22 +64,22 @@ Thousands are still waiting to be reunited with their families in EU, including 
 _“Today we stop the hunger strike before our health will get into critical conditions and before transfers to hospital start,”_ with this words 14 refugees ended the hunger strike outside of the Greek parliament\.
 
 
-![](assets/72b563a9ec4/1*ExdPxZC4jMpxMUxoqzzIAw.jpeg)
+![](../assets/72b563a9ec4/1*ExdPxZC4jMpxMUxoqzzIAw.jpeg)
 
 
 
-![Photo by [**Katja Lihtenvalner**](https://www.facebook.com/katja.lihtenvalner?hc_ref=ARQxPZyRTxajF0U8PVH_JwjPgSRIhBP_0b9SN0J9Oa4d22QiTSyBzEA0v_NNcevYbAA&fref=nf) **\.**](assets/72b563a9ec4/1*D9S2Md1vMXowEPrzmWOjCg.jpeg)
+![Photo by [**Katja Lihtenvalner**](https://www.facebook.com/katja.lihtenvalner?hc_ref=ARQxPZyRTxajF0U8PVH_JwjPgSRIhBP_0b9SN0J9Oa4d22QiTSyBzEA0v_NNcevYbAA&fref=nf) **\.**](../assets/72b563a9ec4/1*D9S2Md1vMXowEPrzmWOjCg.jpeg)
 
 Photo by [**Katja Lihtenvalner**](https://www.facebook.com/katja.lihtenvalner?hc_ref=ARQxPZyRTxajF0U8PVH_JwjPgSRIhBP_0b9SN0J9Oa4d22QiTSyBzEA0v_NNcevYbAA&fref=nf) **\.**
 
 _“We have responsibilities towards our children and towards families that are in agonies waiting for us in Germany,”_ they explained\. _“The silence was broken and, with it, the illusion that was persistently cultivated that the refugee situation has been “normalized” and the living conditions “improved\.”_ Hunger strikers also stressed that their protests made the German ministry of the Interior and the Greek ministry of Migration to take a stance on the issue\.
 
 
-![](assets/72b563a9ec4/1*EPgewN0LXZeBADZO2INf_g.jpeg)
+![](../assets/72b563a9ec4/1*EPgewN0LXZeBADZO2INf_g.jpeg)
 
 
 
-![Photo by [**Katja Lihtenvalner**](https://www.facebook.com/katja.lihtenvalner?hc_ref=ARQxPZyRTxajF0U8PVH_JwjPgSRIhBP_0b9SN0J9Oa4d22QiTSyBzEA0v_NNcevYbAA&fref=nf) **\.**](assets/72b563a9ec4/1*Hur5H7_WFsrwyY-LwYO6Kg.jpeg)
+![Photo by [**Katja Lihtenvalner**](https://www.facebook.com/katja.lihtenvalner?hc_ref=ARQxPZyRTxajF0U8PVH_JwjPgSRIhBP_0b9SN0J9Oa4d22QiTSyBzEA0v_NNcevYbAA&fref=nf) **\.**](../assets/72b563a9ec4/1*Hur5H7_WFsrwyY-LwYO6Kg.jpeg)
 
 Photo by [**Katja Lihtenvalner**](https://www.facebook.com/katja.lihtenvalner?hc_ref=ARQxPZyRTxajF0U8PVH_JwjPgSRIhBP_0b9SN0J9Oa4d22QiTSyBzEA0v_NNcevYbAA&fref=nf) **\.**
 
@@ -123,7 +123,7 @@ Planned deportation to Croatia of a 45\-year\-old Syrian refugee Ahmad Shamieh p
 _“Attitude of some MP’s was ‘inadmissible and inadequate’,“_ the pre\-minister Cerar said soon afterward\. He also announced that government will consider the possibility of issuing a temporary residence permit for Shamieh at one of the forthcoming sessions\.
 
 
-![Photo from the Facebook page of one of the two MP’s; Miha Kordiš, who helped Shamieh to find a shelter in the parliament\.](assets/72b563a9ec4/1*dnVrD1gyc_2YZOFA30G0Kg.png)
+![Photo from the Facebook page of one of the two MP’s; Miha Kordiš, who helped Shamieh to find a shelter in the parliament\.](../assets/72b563a9ec4/1*dnVrD1gyc_2YZOFA30G0Kg.png)
 
 Photo from the Facebook page of one of the two MP’s; Miha Kordiš, who helped Shamieh to find a shelter in the parliament\.
 
@@ -137,7 +137,7 @@ It is always time to say no to fascism\.
 Tomorrow join the protest in Vienna\. [Protesters](http://www.facebook.com/events/153914888677377/ www.sosmitmensch.at) will form a chain around the government district\. They will meet at 18:30 at Ballhaus Square, 1010 Vienna\. If you are planning to come, bring blinkers, bicycle lights, phone lights\.
 
 
-![](assets/72b563a9ec4/1*c-Qmb23FnNnGdY-RCGHZRQ.jpeg)
+![](../assets/72b563a9ec4/1*c-Qmb23FnNnGdY-RCGHZRQ.jpeg)
 
 
 

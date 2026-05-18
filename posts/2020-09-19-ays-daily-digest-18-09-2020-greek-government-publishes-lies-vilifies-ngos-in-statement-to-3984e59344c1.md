@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,greece,moria]
 description: Are You Syrious?
 image:
-  path: assets/3984e59344c1/0*oNNpe7cjM0P-fkG2
+  path: ../assets/3984e59344c1/0*oNNpe7cjM0P-fkG2
 ---
 
 ### AYS Daily Digest 18/09/2020 — Greek Government Publishes Lies, Vilifies NGOs in Statement to Asylum Seekers
 
 
-![](assets/3984e59344c1/0*tByvW6ajoofuzN3L.jpeg)
+![](../assets/3984e59344c1/0*tByvW6ajoofuzN3L.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----eef0253e8f08--------------------------------)
@@ -23,11 +23,11 @@ image:
 People Aboard Open Arms Finally Allowed to Disembark///50 People in Distress Because of Medicane///New Monthly Report From BVMN///&More
 
 
-![](assets/3984e59344c1/0*BlfShtfsXeS8wR9Y)
+![](../assets/3984e59344c1/0*BlfShtfsXeS8wR9Y)
 
 
 
-![](assets/3984e59344c1/0*oNNpe7cjM0P-fkG2)
+![](../assets/3984e59344c1/0*oNNpe7cjM0P-fkG2)
 
 
 FEATURE
@@ -36,11 +36,11 @@ FEATURE
 The Ministry of Migration & Asylum has published a positively Orwellian statement, ironically titled “ [Respect and Solidarity](https://migration.gov.gr/respect-and-solidarity/?fbclid=IwAR1rRjndP4bGVa6lfKb6Zd6A4FrdosNfS4r2he8SUOFm179shF0k_yia8so) ”\. The statement aims to encourage people to go to the new Kara Tepe camp, but it contains blatant lies as well as vilification of NGOs\.
 
 
-![](assets/3984e59344c1/0*Zjc4HMlnYvJ7Nvpo)
+![](../assets/3984e59344c1/0*Zjc4HMlnYvJ7Nvpo)
 
 
 
-![](assets/3984e59344c1/0*KK63Oc-G52Ht6sij)
+![](../assets/3984e59344c1/0*KK63Oc-G52Ht6sij)
 
 
 The Ministry eventually deleted the sentence vilifying NGOs, but several organizations were able to capture screenshots\. This is part of the government’s larger strategy of preventing nonprofits from operating and blaming them in the media for everything wrong with the asylum system\. Today alone, the authorities [stopped NGOs from distributing food](https://www.facebook.com/RefugeesFoundationSfRotR/posts/1713649972127592) and water in a cynical move to force people into camps, threatening them [with fines](https://twitter.com/daphnetoli/status/1306950043845492736?fbclid=IwAR2x2Mfr5qr7GxE6Aj_rji19unNP1Rq2FkhYi4HPmuFXgUp4NzgKFflbKuM) \. All year, the government has been trying to [impose further restrictions](https://reliefweb.int/report/greece/greece-regulation-ngos-working-migration-and-asylum-threatens-civic-space') on their ability to operate and associate freely, even though it [often depends on NGOs](https://twitter.com/joelhdz/status/1307034231407890436?fbclid=IwAR27TnTDzvTKHdfzANOlsgaxie61C4QrU2D0UJRDGI8t9-YWkEJEyEHsXcs) to provide services it cannot \(or will not\) provide itself\. Attacking nonprofits has been a favorite tactic of the government for a while and it has found fertile ground among certain segments of the Greek population\. There were [scores of attacks](https://rsaegean.org/en/timeline-of-attacks-against-solidarity/) on solidarity workers in February and March, and the threat of violence has never fully gone away\. An inflammatory statement like this that equates NGOs with threatening people could lead to more violence\.
@@ -79,11 +79,11 @@ Organizations like [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelm
 Even in the midst of such tragedy and confusion on Lesvos, Stand By Me Lesvos also helped [Leros Refugee Youth Group](https://www.facebook.com/www.standbymelesvos.gr/posts/718614012064957) buy food for people in quarantine\. This is the work solidarity groups do, despite their villainization by the government\!
 
 
-![](assets/3984e59344c1/0*T9M7BHRSk7K5JYsq)
+![](../assets/3984e59344c1/0*T9M7BHRSk7K5JYsq)
 
 
 
-![](assets/3984e59344c1/0*yHeAQ10T_YFGFzMm)
+![](../assets/3984e59344c1/0*yHeAQ10T_YFGFzMm)
 
 
 The picture that we have of life in Kara Tepe is limited by the Greek government’s crackdown on journalists\. Authorities are using the “ongoing military operation” and the pandemic to justify denying access\. Journalists are [denied access](https://www.facebook.com/reporterohnegrenzen/posts/10158553027159536) and at least one [was brutally arrested](https://www.reporter-ohne-grenzen.de/pressemitteilungen/meldung/polizei-behindert-berichterstattung-aus-moria?fbclid=IwAR3Kn8bScf7qKFFmfonOVfMuG9Bq2TPUsdJnwcSpcj-i22A72h3XvzLnb1Y) , prompting an outcry from organizations including Reporters Without Borders\. If the camp is as wonderful as the statement we unpacked in the feature made it seem, why can’t the media observe freely? What is there to hide?
@@ -138,11 +138,11 @@ In August, a whopping 692 people were victims of border violence across the regi
 You can read more about this practice and other incidents of border violence in the August report, available [here](https://www.borderviolence.eu/wp-content/uploads/Working-Doc-August-Report-BVMN-2.pdf) \.
 
 
-![](assets/3984e59344c1/0*FHMCSBpjvGJSttWU)
+![](../assets/3984e59344c1/0*FHMCSBpjvGJSttWU)
 
 
 
-![](assets/3984e59344c1/0*zcJ_G3ZdyJLhppmT)
+![](../assets/3984e59344c1/0*zcJ_G3ZdyJLhppmT)
 
 
 More and more people are arriving in Trieste, many bearing the traces of police encounters in the form of bruises and wounds all over their bodies\. Volunteers are doing their best to help [by buying food](https://www.facebook.com/lorena.fornasir/posts/3256942137756194) and distributing warm sweatshirts\.

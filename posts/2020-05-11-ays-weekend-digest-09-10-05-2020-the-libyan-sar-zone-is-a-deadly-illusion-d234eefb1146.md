@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 09–10/05/2020: The Libyan SAR zone is a deadly illusion
+title: "AYS Weekend Digest 09–10/05/2020: The Libyan SAR zone is a deadly illusion"
 author: Are You Syrious?
 date: 2020-05-11T11:52:44.352+0100
 last_modified_at: 2020-05-11T14:24:56.402+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,glasgow,libyan-sar,lidl]
 description: Man found dead in hotel accommodation in Glasgow, UK / Police violence in Patras, Greece / LIDL on Samos forces refugees in separate…
 image:
-  path: assets/d234eefb1146/1*7ZrWC0k6SeHZm97GUu0Iaw.jpeg
+  path: ../assets/d234eefb1146/1*7ZrWC0k6SeHZm97GUu0Iaw.jpeg
 ---
 
 ### AYS Weekend Digest 09–10/05/2020: The Libyan SAR zone is a deadly illusion
@@ -15,7 +15,7 @@ image:
 _One man found dead in asylum seekers hotel accommodation in Glasgow, UK / Police violence in Patras, Greece / LIDL on Samos force people on the move into separate queues / More pushbacks in the Aegean_
 
 
-![A man was found dead on Tuesday in a Glasgow hotel accommodation, Scotland\. He had asked for mental health support but was asked to wait\. Together with hundreds of other asylum seekers, he had been evicted from his flat and moved into a hotel as part of ambiguous COVID\-19 measures\. \#borderkills \#endhoteldetention \(Photo by [No Eviction Glasgow](https://twitter.com/no_evictions/status/1259526746761723904) \)](assets/d234eefb1146/1*7ZrWC0k6SeHZm97GUu0Iaw.jpeg)
+![A man was found dead on Tuesday in a Glasgow hotel accommodation, Scotland\. He had asked for mental health support but was asked to wait\. Together with hundreds of other asylum seekers, he had been evicted from his flat and moved into a hotel as part of ambiguous COVID\-19 measures\. \#borderkills \#endhoteldetention \(Photo by [No Eviction Glasgow](https://twitter.com/no_evictions/status/1259526746761723904) \)](../assets/d234eefb1146/1*7ZrWC0k6SeHZm97GUu0Iaw.jpeg)
 
 A man was found dead on Tuesday in a Glasgow hotel accommodation, Scotland\. He had asked for mental health support but was asked to wait\. Together with hundreds of other asylum seekers, he had been evicted from his flat and moved into a hotel as part of ambiguous COVID\-19 measures\. \#borderkills \#endhoteldetention \(Photo by [No Eviction Glasgow](https://twitter.com/no_evictions/status/1259526746761723904) \)
 #### Feature: The Libyan SAR zone is a deadly illusion\. It’s time to cancel it\.
@@ -166,7 +166,7 @@ You can support them [HERE](https://web.facebook.com/donate/702675327191474/2868
 #### **Police Violence Escalates in Patras**
 
 
-![\(Photo Credit: José Vicente Carro\)](assets/d234eefb1146/1*zir0aL3oOFEi0fodu5bHtw.jpeg)
+![\(Photo Credit: José Vicente Carro\)](../assets/d234eefb1146/1*zir0aL3oOFEi0fodu5bHtw.jpeg)
 
 \(Photo Credit: José Vicente Carro\)
 
@@ -240,7 +240,7 @@ Tuesday last week, a 30 year old man from Syria was [found dead](https://theferr
 Campaigners have long criticised hotel detention, especially since Maers, a contractor group for the Home Office, moved hundreds of people housed in flats into hotels, as part of its COVID\-19 response\. At the same time the 35\-pound\-a\-week cash support was replaced by three meals a day served in common spaces\. Moves that raised concerns about welfare, safety and social distancing\.
 
 
-![Flowers outside McLays Guesthouse in Glasgow \(Photo by [Glasgow No Eviction Campaign](https://www.facebook.com/noevictions/?__tn__=kCH-R&eid=ARDRj24ob5wRzG036wepeX13lPVfEMFTreiyoFpW5Y3gVo_195iKZqwq9GCTLm5aoCscIh07--ydbYiH&hc_ref=ARQEH9TBIRcqW4PbEJrn75y5pt-DBXX7XtvaItXvk7ARNqeotAa-0EH7daK3tna7Jp0&fref=nf) \)](assets/d234eefb1146/1*39XbZMeaViCQ-i-IFbksMA.jpeg)
+![Flowers outside McLays Guesthouse in Glasgow \(Photo by [Glasgow No Eviction Campaign](https://www.facebook.com/noevictions/?__tn__=kCH-R&eid=ARDRj24ob5wRzG036wepeX13lPVfEMFTreiyoFpW5Y3gVo_195iKZqwq9GCTLm5aoCscIh07--ydbYiH&hc_ref=ARQEH9TBIRcqW4PbEJrn75y5pt-DBXX7XtvaItXvk7ARNqeotAa-0EH7daK3tna7Jp0&fref=nf) \)](../assets/d234eefb1146/1*39XbZMeaViCQ-i-IFbksMA.jpeg)
 
 Flowers outside McLays Guesthouse in Glasgow \(Photo by [Glasgow No Eviction Campaign](https://www.facebook.com/noevictions/?__tn__=kCH-R&eid=ARDRj24ob5wRzG036wepeX13lPVfEMFTreiyoFpW5Y3gVo_195iKZqwq9GCTLm5aoCscIh07--ydbYiH&hc_ref=ARQEH9TBIRcqW4PbEJrn75y5pt-DBXX7XtvaItXvk7ARNqeotAa-0EH7daK3tna7Jp0&fref=nf) \)
 

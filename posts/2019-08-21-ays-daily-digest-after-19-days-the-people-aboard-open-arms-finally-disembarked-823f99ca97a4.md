@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,italy,greece,digest,afghanistan]
 description: 356 people still on board Ocean Viking for 11th day // Health clarifications in Greece // perhaps 100 people died in shipwreck //…
 image:
-  path: assets/823f99ca97a4/1*fKFf1hbbg2TEPOdKDBmAig.jpeg
+  path: ../assets/823f99ca97a4/1*fKFf1hbbg2TEPOdKDBmAig.jpeg
 ---
 
 ### AYS Daily Digest After 19 days, the people aboard Open Arms finally disembarked
@@ -15,7 +15,7 @@ image:
 _356 people still on board Ocean Viking for 11th day // Health clarifications in Greece // perhaps 100 people died in shipwreck // deportations from Sweden to Afghanistan // and more…_
 
 
-![From earlier in the day on Tuesday when a man tried to swim to shore\. Pure desperation\. Photo by [Francisco Gentico](https://www.facebook.com/proactivaservice/photos/pcb.2585523568145145/2585522194811949/?type=3&theater)](assets/823f99ca97a4/1*fKFf1hbbg2TEPOdKDBmAig.jpeg)
+![From earlier in the day on Tuesday when a man tried to swim to shore\. Pure desperation\. Photo by [Francisco Gentico](https://www.facebook.com/proactivaservice/photos/pcb.2585523568145145/2585522194811949/?type=3&theater)](../assets/823f99ca97a4/1*fKFf1hbbg2TEPOdKDBmAig.jpeg)
 
 From earlier in the day on Tuesday when a man tried to swim to shore\. Pure desperation\. Photo by [Francisco Gentico](https://www.facebook.com/proactivaservice/photos/pcb.2585523568145145/2585522194811949/?type=3&theater)
 ### Feature: Outside Lampedusa
@@ -95,7 +95,7 @@ With the relieving news for the people on board Open Arms, we cannot forget that
 
 
 
-![“Lack of inaction means the Mediterranean remains one of the deadliest migration routes in the world\. \#FortressEurope” Photo by [Safe Passage](https://www.facebook.com/SafePassageInt/photos/a.161524404302318/739189233202496/?type=3&theater)](assets/823f99ca97a4/1*cNcfq_sXZRl2eegzYsmESQ.jpeg)
+![“Lack of inaction means the Mediterranean remains one of the deadliest migration routes in the world\. \#FortressEurope” Photo by [Safe Passage](https://www.facebook.com/SafePassageInt/photos/a.161524404302318/739189233202496/?type=3&theater)](../assets/823f99ca97a4/1*cNcfq_sXZRl2eegzYsmESQ.jpeg)
 
 “Lack of inaction means the Mediterranean remains one of the deadliest migration routes in the world\. \#FortressEurope” Photo by [Safe Passage](https://www.facebook.com/SafePassageInt/photos/a.161524404302318/739189233202496/?type=3&theater)
 ### Greece
@@ -103,11 +103,11 @@ With the relieving news for the people on board Open Arms, we cannot forget that
 [In a new](https://www.efsyn.gr/node/207838?fbclid=IwAR1ECWDmNxurBNlxzEvV2GvaSRLY4E4s4_R5YvP8iuHBtcBW_F71gPANT2A) announcement from the Hellenic Federation of Public Hospitals Employees \(POEDIN\), they make clear that “lawful refugees and immigrants ‘continue to be entitled to free medical care as provided by law\. Also, emergencies are entitled to access to and access to health facilities without any hindrance\.’” This comes with requests for clarifications on medical treatments refugees may receive\.
 
 
-![](assets/823f99ca97a4/1*84YqsSpbRAG5d45et8KyQw.jpeg)
+![](../assets/823f99ca97a4/1*84YqsSpbRAG5d45et8KyQw.jpeg)
 
 
 
-![Chios 2019: Photos provided by [Jenny Zinovia Kali](https://www.facebook.com/groups/1508309029486384/permalink/2326663300984282/?hc_location=ufi)](assets/823f99ca97a4/1*kMbYAKxRk1fcz04VsEvo8g.jpeg)
+![Chios 2019: Photos provided by [Jenny Zinovia Kali](https://www.facebook.com/groups/1508309029486384/permalink/2326663300984282/?hc_location=ufi)](../assets/823f99ca97a4/1*kMbYAKxRk1fcz04VsEvo8g.jpeg)
 
 Chios 2019: Photos provided by [Jenny Zinovia Kali](https://www.facebook.com/groups/1508309029486384/permalink/2326663300984282/?hc_location=ufi)
 ### Italy
@@ -123,11 +123,11 @@ In other news on [Lampedusa](https://twitter.com/AneIrazabal/status/116373391126
 ### Bosnia Herzegovina
 
 
-![](assets/823f99ca97a4/1*kMbYAKxRk1fcz04VsEvo8g.jpeg)
+![](../assets/823f99ca97a4/1*kMbYAKxRk1fcz04VsEvo8g.jpeg)
 
 
 
-![The situation for those in the camp Bira \(Bihac\) is still difficult and getting more dangerous by the hour, due to not enough food, and being prevented to cook meals within the premises, now also reportedly facing direct threats by the locals living nearby\. Photos provided by [Udruženje Solidarnost — Bosnia](https://www.facebook.com/solidarnostbosnia/posts/2886359791375187)](assets/823f99ca97a4/1*wZrN0wpjJnSIVeszStOEeA.jpeg)
+![The situation for those in the camp Bira \(Bihac\) is still difficult and getting more dangerous by the hour, due to not enough food, and being prevented to cook meals within the premises, now also reportedly facing direct threats by the locals living nearby\. Photos provided by [Udruženje Solidarnost — Bosnia](https://www.facebook.com/solidarnostbosnia/posts/2886359791375187)](../assets/823f99ca97a4/1*wZrN0wpjJnSIVeszStOEeA.jpeg)
 
 The situation for those in the camp Bira \(Bihac\) is still difficult and getting more dangerous by the hour, due to not enough food, and being prevented to cook meals within the premises, now also reportedly facing direct threats by the locals living nearby\. Photos provided by [Udruženje Solidarnost — Bosnia](https://www.facebook.com/solidarnostbosnia/posts/2886359791375187)
 ### Sweden

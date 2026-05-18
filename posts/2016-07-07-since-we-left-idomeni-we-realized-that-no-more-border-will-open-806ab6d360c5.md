@@ -1,5 +1,5 @@
 ---
-title: AYS with Refugees.tv: “Since we left Idomeni we realized that no more border will open.”
+title: "AYS with Refugees.tv: “Since we left Idomeni we realized that no more border will open.”"
 author: Are You Syrious?
 date: 2016-07-07T12:53:45.917+0100
 last_modified_at: 2016-07-07T14:00:50.905+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,refugee-camp,idomeni,media]
 description: Mustafa Alhamoud is the cameraman of refugees.tv. They began their work with a plastic bottle as microphone and wood as camera and…
 image:
-  path: assets/806ab6d360c5/1*CrBgZtHTGOLRsTz_aco14w.jpeg
+  path: ../assets/806ab6d360c5/1*CrBgZtHTGOLRsTz_aco14w.jpeg
 ---
 
 ### AYS with Refugees\.tv: “Since we left Idomeni we realized that no more border will open\.”
@@ -16,7 +16,7 @@ image:
 ![Refugees\.tv team, 1\. Mahmoud Abdul Rahim, 24 years old, from Aleppo Syria \( the reporter \)
 2\. Basil Alyatkan, 28 years old, from Damascus Syria \( the imaginary cameraman \)
 3\. Mustafa Alhamoud, 24 years old, Aleppo Syria \( translator and real cameraman \)
-4\. Sameer Tatan, 23 years old, Idleb Syria \( Facebook page admin \)](assets/806ab6d360c5/1*CrBgZtHTGOLRsTz_aco14w.jpeg)
+4\. Sameer Tatan, 23 years old, Idleb Syria \( Facebook page admin \)](../assets/806ab6d360c5/1*CrBgZtHTGOLRsTz_aco14w.jpeg)
 
 Refugees\.tv team, 1\. Mahmoud Abdul Rahim, 24 years old, from Aleppo Syria \( the reporter \)
 2\. Basil Alyatkan, 28 years old, from Damascus Syria \( the imaginary cameraman \)
@@ -41,7 +41,7 @@ Mustafa Alhamoud is the cameraman of [refugees\.tv](https://www.facebook.com/ref
 Alhamoud answered the questions for AYS:
 
 
-![Mustafa Alhamoud, “The hardest part is that we are waiting for unclear information when and where we will go to\. When the border was opened and we plan to go EU we were knowing that where we are going to but now we don’t know\.”](assets/806ab6d360c5/1*hLvV1iQs_dyO38mXVz5WVQ.jpeg)
+![Mustafa Alhamoud, “The hardest part is that we are waiting for unclear information when and where we will go to\. When the border was opened and we plan to go EU we were knowing that where we are going to but now we don’t know\.”](../assets/806ab6d360c5/1*hLvV1iQs_dyO38mXVz5WVQ.jpeg)
 
 Mustafa Alhamoud, “The hardest part is that we are waiting for unclear information when and where we will go to\. When the border was opened and we plan to go EU we were knowing that where we are going to but now we don’t know\.”
 

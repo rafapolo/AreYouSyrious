@@ -1,5 +1,5 @@
 ---
-title: AYS Special: Updates from Baghdad (3)
+title: "AYS Special: Updates from Baghdad (3)"
 author: Are You Syrious?
 date: 2019-12-24T15:43:59.048+0000
 last_modified_at: 2019-12-24T15:45:47.321+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [iraq,special,freedom,revolution,resistance]
 description: Main events concerning the uprisings for the week 15th-22nd December
 image:
-  path: assets/2a979b5d8844/1*Y0Ht-O6PdQVacBcGwvuIhA.png
+  path: ../assets/2a979b5d8844/1*Y0Ht-O6PdQVacBcGwvuIhA.png
 ---
 
 ### AYS Special: Updates from Baghdad \(3\)
 #### Main events concerning the uprisings for the week 15th\-22nd December
 
 
-![Credit: repost from local source\.](assets/2a979b5d8844/1*Y0Ht-O6PdQVacBcGwvuIhA.png)
+![Credit: repost from local source\.](../assets/2a979b5d8844/1*Y0Ht-O6PdQVacBcGwvuIhA.png)
 
 Credit: repost from local source\.
 #### Throughout December, kidnappings and killings continued in various forms including deaths by the use of bullets and bombs, clear signs of the manslaughter the Iraqi government is committing against its own people\.

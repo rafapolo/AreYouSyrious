@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: Out of Mytilini
+title: "AYS SPECIAL: Out of Mytilini"
 author: Are You Syrious?
 date: 2017-09-22T09:13:00.154+0100
 last_modified_at: 2018-03-01T13:46:46.558+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,lesvos,mytilini,squat,special]
 description: A group of activists from Serbia recently visited Greece and Lesvos, meeting with people who are working with refugees there and staying in…
 image:
-  path: assets/adc59331de2d/1*C8JLQdxGHh0SDxwGEAcndg.jpeg
+  path: ../assets/adc59331de2d/1*C8JLQdxGHh0SDxwGEAcndg.jpeg
 ---
 
 ### AYS SPECIAL: Out of Mytilini
@@ -15,7 +15,7 @@ image:
 _A group of activists from Serbia recently visited Greece and Lesvos, meeting with people who are working with refugees there and staying in one of the squats where groups of people live in extremely precarious conditions\._
 
 
-![](assets/adc59331de2d/1*C8JLQdxGHh0SDxwGEAcndg.jpeg)
+![](../assets/adc59331de2d/1*C8JLQdxGHh0SDxwGEAcndg.jpeg)
 
 
 In the late evening of my sixth day spent living in a former No Border Kitchen refugee squat, situated on the road out of Mytilini, a pick\-up car enters the courtyard\. A corpulent man, accompanied by a younger one, equally corpulent, parks and they come out, while the woman who is with them stays in the car to observe the situation\.
@@ -39,19 +39,19 @@ To receive food — which is of deplorable quality — one has to stand in the q
 The former No Border squat, now without a name, is just one of the squats on the island where refugees registered in Moria find shelter, preferring to live in relative freedom and extreme precarity, without running water and electricity, to living enclosed in a camp surrounded by barbed wire\. At the moment the squat is hosting around 30 young men distributed in various blocks by nationality: Afghan, Algerian, Pakistani and Burmese\. They receive food delivered twice a week by volunteers from the No Border Kitchen\.
 
 
-![](assets/adc59331de2d/1*p42K4zKMx5WTgQ1hOFwIfw.jpeg)
+![](../assets/adc59331de2d/1*p42K4zKMx5WTgQ1hOFwIfw.jpeg)
 
 
 
-![](assets/adc59331de2d/1*0pccfUFoSfO46rGgXl2RCw.jpeg)
+![](../assets/adc59331de2d/1*0pccfUFoSfO46rGgXl2RCw.jpeg)
 
 
 
-![](assets/adc59331de2d/1*y6O9XobBzdvEwTjDjZ2PmA.jpeg)
+![](../assets/adc59331de2d/1*y6O9XobBzdvEwTjDjZ2PmA.jpeg)
 
 
 
-![](assets/adc59331de2d/1*X0tGeAggfapXzpaGOAakKA.jpeg)
+![](../assets/adc59331de2d/1*X0tGeAggfapXzpaGOAakKA.jpeg)
 
 
 In general, the islanders have found ways of coping with the refugee crisis and the big number of new residents\. In the words of an employee of a gas station frequented by refugees, there is a local proverb which says “what you can’t avoid, find a way to enjoy it”\. And this is very true of the numerous local and international projects run on the island, some of them exceptionally successful in their endeavours to match refugees’ and locals’ needs\.
@@ -67,7 +67,7 @@ The long and futile administrative processes, often ending in deportation, and t
 Lots of help is needed precisely in this area of legal help and protection against deportations, which are conducted all the time and represent a high risk for the security of these individuals\.
 
 
-![](assets/adc59331de2d/1*KBZZIaEXo1Ko6Er_JeP4Ag.jpeg)
+![](../assets/adc59331de2d/1*KBZZIaEXo1Ko6Er_JeP4Ag.jpeg)
 
 
 _Photo and story by Vahida Ramujkić_

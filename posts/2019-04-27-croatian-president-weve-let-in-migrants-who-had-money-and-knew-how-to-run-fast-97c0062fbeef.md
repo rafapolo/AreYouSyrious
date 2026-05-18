@@ -1,5 +1,5 @@
 ---
-title: Croatian president: We’ve let in migrants who had money and knew how to run fast
+title: "Croatian president: We’ve let in migrants who had money and knew how to run fast"
 author: Are You Syrious?
 date: 2019-04-27T12:26:10.168+0100
 last_modified_at: 2019-04-27T19:04:44.552+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,croatia,asylum-seekers,migrants,digest]
 description: Scandalous remarks on refugees come after years of anti-migrant rhetorics by the Croatian leader. Asylum Service warns refugees to renew…
 image:
-  path: assets/97c0062fbeef/1*incQC-S6_pBcbNqh5QqynQ.jpeg
+  path: ../assets/97c0062fbeef/1*incQC-S6_pBcbNqh5QqynQ.jpeg
 ---
 
 ### AYS Daily Digest 26/4/19\- Croatian president: We’ve let in migrants who had money and knew how to run fast
 #### Scandalous remarks on refugees come after years of anti\-migrant rhetoric by the Croatian leader\. Asylum Service warns refugees to renew their Greek residence permits ASAP\. Oxfam releases legal info for asylum seekers in 10 languages\. A group of 15 people deported to Afghanistan from Germany\. University of Oxford explores barriers to employment for “asylum migrants”
 
 
-![Croatian police had assisted almost 700 thousand exhausted people to pass the humanitarian corridor through Croatia until the final closure of the official route in March 2016\. Photo: Ines Tinka Kalajdzic / AYS](assets/97c0062fbeef/1*incQC-S6_pBcbNqh5QqynQ.jpeg)
+![Croatian police had assisted almost 700 thousand exhausted people to pass the humanitarian corridor through Croatia until the final closure of the official route in March 2016\. Photo: Ines Tinka Kalajdzic / AYS](../assets/97c0062fbeef/1*incQC-S6_pBcbNqh5QqynQ.jpeg)
 
 Croatian police had assisted almost 700 thousand exhausted people to pass the humanitarian corridor through Croatia until the final closure of the official route in March 2016\. Photo: Ines Tinka Kalajdzic / AYS
 ### FEATURE STORY: Croatian ex\-migrant president spreading the toxic narrative for her political gain
@@ -22,7 +22,7 @@ Croatian police had assisted almost 700 thousand exhausted people to pass the hu
 It was the late summer of 2015, when the Balkan route switched from Hungary to Croatia\. Thousands of refugees who were passing through Serbia got stuck in the mud at Croatian border, hoping to enter European Union\. Hundreds of volunteers rushed to the border area to support them\. This was how and when AYS was formed\. The political climate was very different back then: instead of the policy of closed borders and push\-backs that we see now, the Croatian ministry of interior struggled, but quickly found a way to organise a safe, humanitarian corridor through the country\. The corridor headed towards Slovenia and through Austria, finally reaching Germany, the preferred destination of the majority of the people on the move at that time\. This idealistic phase didn’t last long, and ended in March 2016, when a more conservative political party was elected, and the Balkan route was closed for good\.
 
 
-![More than 600 thousand refugees managed to enter Croatia in an organised manner while the humanitarian corridor was still open\. Photo: Hrvatska uživo](assets/97c0062fbeef/1*Hh2bzsftYEYH9I7pmoBaUw.jpeg)
+![More than 600 thousand refugees managed to enter Croatia in an organised manner while the humanitarian corridor was still open\. Photo: Hrvatska uživo](../assets/97c0062fbeef/1*Hh2bzsftYEYH9I7pmoBaUw.jpeg)
 
 More than 600 thousand refugees managed to enter Croatia in an organised manner while the humanitarian corridor was still open\. Photo: Hrvatska uživo
 
@@ -36,7 +36,7 @@ Even before this, in the late summer of 2015, one politician started using anti\
 
 
 
-![President Kolinda Grabar Kitarović \(in red\) during her visit to Opatovac border camp, Croatia, October 2015\. Photo: Marko M\.](assets/97c0062fbeef/1*9f54kyz5q2wl9iSPZk_oKg.jpeg)
+![President Kolinda Grabar Kitarović \(in red\) during her visit to Opatovac border camp, Croatia, October 2015\. Photo: Marko M\.](../assets/97c0062fbeef/1*9f54kyz5q2wl9iSPZk_oKg.jpeg)
 
 President Kolinda Grabar Kitarović \(in red\) during her visit to Opatovac border camp, Croatia, October 2015\. Photo: Marko M\.
 
@@ -50,7 +50,7 @@ Shortly before this, she had paid a visit to Viktor Orban, notorious Hungarian l
 
 
 
-![Refugees stuck on outer borders of EU are slowly losing hope due to the violent behaviour of Croatian police, perpetrated by adopting practices of their Hungarian colleagues\. Photo:Border Violence Monitoring](assets/97c0062fbeef/1*xyvY2RyGCz-a4i-Sebw3Tw.jpeg)
+![Refugees stuck on outer borders of EU are slowly losing hope due to the violent behaviour of Croatian police, perpetrated by adopting practices of their Hungarian colleagues\. Photo:Border Violence Monitoring](../assets/97c0062fbeef/1*xyvY2RyGCz-a4i-Sebw3Tw.jpeg)
 
 Refugees stuck on outer borders of EU are slowly losing hope due to the violent behaviour of Croatian police, perpetrated by adopting practices of their Hungarian colleagues\. Photo:Border Violence Monitoring
 
@@ -70,7 +70,7 @@ While spreading her toxic views in front of students, researchers and journalist
 The Asylum Service in Greece has announced that every person who has been granted asylum and has a residence permit that expires before 30th September 2019 can apply to renew it now\. According to the announcement, people should apply to renew their residence permits at the latest by 31st July, if their residence permit expires on 30th September\. In general, it is advisable to apply for the renewal of the residence permit as soon as possible, as processing times for the renewal can typically take longer than 2 months\.
 
 
-![People should apply to renew their residence permits at the latest by 31st July, if their residence permit expires on 30th September\. Photo: Mobile Info Team](assets/97c0062fbeef/1*zCuyqgHVDj2GcpvMppU2ZQ.jpeg)
+![People should apply to renew their residence permits at the latest by 31st July, if their residence permit expires on 30th September\. Photo: Mobile Info Team](../assets/97c0062fbeef/1*zCuyqgHVDj2GcpvMppU2ZQ.jpeg)
 
 People should apply to renew their residence permits at the latest by 31st July, if their residence permit expires on 30th September\. Photo: Mobile Info Team
 
@@ -88,7 +88,7 @@ Greek Council for Refugees, Oxfam and European Lawyers in Lesvos have released t
 ### Only 9 boats arrive in the last 3 days, but 25 more boats have been stopped by the Turkish Coastguard
 
 
-![The Turkish Coastguard has been extremely active in the last few days\. Photo: ABR](assets/97c0062fbeef/1*lMVpmSMXC14zUDZxq7Pmvg.jpeg)
+![The Turkish Coastguard has been extremely active in the last few days\. Photo: ABR](../assets/97c0062fbeef/1*lMVpmSMXC14zUDZxq7Pmvg.jpeg)
 
 The Turkish Coastguard has been extremely active in the last few days\. Photo: ABR
 
@@ -110,7 +110,7 @@ Read the full statement by Spirou Trikoupi 17 [here](https://athens.indymedia.or
 According to Samos Volunteers, asylum interviews in Greece are now being scheduled for dates as far away as 2022/2023, meaning that people will live in overcrowded camps for not months but years, waiting\.
 
 
-![There is not much hope for people stuck in overcrowded camps\. Photo: Samos Volunteers](assets/97c0062fbeef/1*Qy0B_pgkASDZcFSk_mTx6A.png)
+![There is not much hope for people stuck in overcrowded camps\. Photo: Samos Volunteers](../assets/97c0062fbeef/1*Qy0B_pgkASDZcFSk_mTx6A.png)
 
 There is not much hope for people stuck in overcrowded camps\. Photo: Samos Volunteers
 #### Germany
@@ -137,7 +137,7 @@ Identitarian posters have emerged all over Berlin, misrepresenting Syrian confli
 The Centre on Migration, Policy and Society \(COMPAS\) at the University of Oxfor has published [a new report](https://www.compas.ox.ac.uk/2019/refugees-and-the-uk-labour-market/) that focuses on “asylum migrants\.” The term refers to people who report moving to the UK for asylum reasons, and now remain in the UK without being dependent on refugee status\. According to the researchers, most asylum migrants have spent many years in the UK and are now British nationals\. This group should not be confused with asylum seekers, who are still waiting for a decision on their asylum application\. Results of this study can be seen as the possible forecast of the future on the labor available for people who’ve recently arrived to the UK\.
 
 
-![](assets/97c0062fbeef/1*oHAdW6Ka5Z3CMK7V6AMZ8g.png)
+![](../assets/97c0062fbeef/1*oHAdW6Ka5Z3CMK7V6AMZ8g.png)
 
 #### Key findings of the report include:
 - **Asylum migrants are less likely to be in employment than individuals born in the UK and other migrant groups\.** The employment rate among asylum migrants is 51%, compared with 73% for those born in the UK\. The gap narrows over time but remains present even after more than 25 years of residence in the country\.
@@ -145,7 +145,7 @@ The Centre on Migration, Policy and Society \(COMPAS\) at the University of Oxfo
 
 
 
-![](assets/97c0062fbeef/1*1kYBHrGkttWeUjGGndjHUw.png)
+![](../assets/97c0062fbeef/1*1kYBHrGkttWeUjGGndjHUw.png)
 
 - **Asylum migrants are more likely to be in self\-employment than the UK\-born and other migrants\.** In total, 21% of asylum migrants in employment are self\-employed compared to 14% among UK\-born workers\. Self\-employed asylum migrants are more likely to have employees than self\-employed UK born\.
 - **Asylum migrants are more likely to report a long\-term health condition that affects their labour market performance\.** Close to 37% of asylum migrants report a health condition lasting longer than 12 months\. The likelihood of reporting this type of condition is 4 percentage points greater among asylum migrants than the UK\-born\.

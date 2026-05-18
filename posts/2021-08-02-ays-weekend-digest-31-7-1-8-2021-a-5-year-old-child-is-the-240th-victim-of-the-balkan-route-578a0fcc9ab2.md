@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 31/7–1/8/2021: A 5-year-old child is the 240th victim of the Balkan Route
+title: "AYS Weekend Digest 31/7–1/8/2021: A 5-year-old child is the 240th victim of the Balkan Route"
 author: Are You Syrious?
 date: 2021-08-02T09:49:19.341+0100
 last_modified_at: 2021-08-02T09:49:48.369+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,refugees,search-and-rescue,afghanistan,european-union]
 description: Pushbacks, daily border policy in Greece, Bulgaria and Cyprus. Germany’s Seehofer wants to increase deportations to Afghanistan…
 image:
-  path: assets/578a0fcc9ab2/1*KZFzTe6_d11hWOI6-Cgd9g.jpeg
+  path: ../assets/578a0fcc9ab2/1*KZFzTe6_d11hWOI6-Cgd9g.jpeg
 ---
 
 ### AYS Weekend Digest 31/7–1/8/2021 **A 5\-year\-old child is the 240th victim of the Balkan Route**
@@ -15,7 +15,7 @@ image:
 Pushbacks, daily border policy in Greece, Bulgaria and Cyprus\. Germany’s Seehofer wants to increase deportations to Afghanistan\. Home Office uses fake website to deter people from reaching the UK…
 
 
-![“The SAR team on [\#OceanViking](https://twitter.com/hashtag/OceanViking?src=hashtag_click) just rescued 106 people from an overcrowded wooden boat in distress in the Maltese SRR\. The distress case was first spotted by [\#SeaWatch3](https://twitter.com/hashtag/SeaWatch3?src=hashtag_click) \. The youngest survivor rescued in this operation is just 3 months old\. We now have 555 survivors on board\.” \(Credit: [SOS Mediterranee / Flavio Gasperini](https://twitter.com/SOSMedIntl/status/1421871864545267716/photo/2) \)](assets/578a0fcc9ab2/1*KZFzTe6_d11hWOI6-Cgd9g.jpeg)
+![“The SAR team on [\#OceanViking](https://twitter.com/hashtag/OceanViking?src=hashtag_click) just rescued 106 people from an overcrowded wooden boat in distress in the Maltese SRR\. The distress case was first spotted by [\#SeaWatch3](https://twitter.com/hashtag/SeaWatch3?src=hashtag_click) \. The youngest survivor rescued in this operation is just 3 months old\. We now have 555 survivors on board\.” \(Credit: [SOS Mediterranee / Flavio Gasperini](https://twitter.com/SOSMedIntl/status/1421871864545267716/photo/2) \)](../assets/578a0fcc9ab2/1*KZFzTe6_d11hWOI6-Cgd9g.jpeg)
 
 “The SAR team on [\#OceanViking](https://twitter.com/hashtag/OceanViking?src=hashtag_click) just rescued 106 people from an overcrowded wooden boat in distress in the Maltese SRR\. The distress case was first spotted by [\#SeaWatch3](https://twitter.com/hashtag/SeaWatch3?src=hashtag_click) \. The youngest survivor rescued in this operation is just 3 months old\. We now have 555 survivors on board\.” \(Credit: [SOS Mediterranee / Flavio Gasperini](https://twitter.com/SOSMedIntl/status/1421871864545267716/photo/2) \)
 

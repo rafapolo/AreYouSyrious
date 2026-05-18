@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 04/05/18 /: Lesvos at “breaking point”
+title: "AYS Daily Digest 04/05/18 /: Lesvos at “breaking point”"
 author: Are You Syrious?
 date: 2018-05-05T11:13:35.648+0100
 last_modified_at: 2018-05-07T19:47:25.866+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest]
 description: More than 7,000 refugees are now living in Moria//One in 29 people dies on the route to Spain//More restrictive migration policies planned…
 image:
-  path: assets/eca315b4a83f/0*tdhbfRCaUhrSuJHc.
+  path: ../assets/eca315b4a83f/0*tdhbfRCaUhrSuJHc.
 ---
 
 ### AYS Daily Digest 04/05/18 /: Lesvos at “breaking point”
@@ -15,7 +15,7 @@ image:
 _More than 7,000 refugees are now living in Moria//One in 29 people dies on the route to Spain//More restrictive migration policies planned in Sweden//_
 
 
-![Photo by Oxfam](assets/eca315b4a83f/0*tdhbfRCaUhrSuJHc.)
+![Photo by Oxfam](../assets/eca315b4a83f/0*tdhbfRCaUhrSuJHc.)
 
 Photo by Oxfam
 #### Feature

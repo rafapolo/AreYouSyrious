@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 22–23.5.2021: Suicides and self-harm in Italy’s CPRs
+title: "AYS Weekend Digest 22–23.5.2021: Suicides and self-harm in Italy’s CPRs"
 author: Are You Syrious?
 date: 2021-05-24T16:15:51.166+0100
 last_modified_at: 2021-05-24T16:15:51.166+0100

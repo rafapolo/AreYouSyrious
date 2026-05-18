@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 6/2/19: Racist winds blowing in European metropolises
+title: "AYS Daily Digest 6/2/19: Racist winds blowing in European metropolises"
 author: Are You Syrious?
 date: 2019-02-07T11:24:54.394+0000
 last_modified_at: 2019-02-07T14:25:22.483+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,news,human-rights]
 description: Another riot in Greece / Search and Rescue NGOs deliver petition to the Spanish Congress / Pakistani student stranded on ‘no man’s land’…
 image:
-  path: assets/743d10d154ec/1*_HJYHcve-RHtfvEYjQi4Ng.jpeg
+  path: ../assets/743d10d154ec/1*_HJYHcve-RHtfvEYjQi4Ng.jpeg
 ---
 
 ### AYS Daily Digest 6/2/19: Racist winds blowing in European metropolises
 #### Another riot in Greece / Search and Rescue NGOs deliver petition to the Spanish Congress / Pakistani student stranded in ‘no man’s land’ at Croatian airport / UK — Standsted 15 not jailed / & more info, news and volunteer calls
 
 
-![Photo taken during one of the 5 evacuations of the beginning of February 2019: waiting for several hours in the cold before a departure to an unknown destination\. Photo by: Louiz Art via [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?tn-str=k%2AF)](assets/743d10d154ec/1*_HJYHcve-RHtfvEYjQi4Ng.jpeg)
+![Photo taken during one of the 5 evacuations of the beginning of February 2019: waiting for several hours in the cold before a departure to an unknown destination\. Photo by: Louiz Art via [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?tn-str=k%2AF)](../assets/743d10d154ec/1*_HJYHcve-RHtfvEYjQi4Ng.jpeg)
 
 Photo taken during one of the 5 evacuations of the beginning of February 2019: waiting for several hours in the cold before a departure to an unknown destination\. Photo by: Louiz Art via [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?tn-str=k%2AF)
 #### FEATURE
@@ -100,7 +100,7 @@ As we [reported yesterday](ays-daily-digest-05-02-2019-local-authorities-in-bosn
 
 
 
-![](assets/743d10d154ec/1*dKeQ8gCez_JF5Lyc3-ogDQ.jpeg)
+![](../assets/743d10d154ec/1*dKeQ8gCez_JF5Lyc3-ogDQ.jpeg)
 
 ### San Ferdinando, Reggio Calabria
 
@@ -113,7 +113,7 @@ SPECIAL EDITION NEW ASYLUM LAW
 It is available in French, English and Arabic
 
 
-![](assets/743d10d154ec/1*TWqNa0mHBFeOmL9ML3Uzpw.jpeg)
+![](../assets/743d10d154ec/1*TWqNa0mHBFeOmL9ML3Uzpw.jpeg)
 
 ### Dunkirk
 
@@ -160,7 +160,7 @@ The Sea\-Eye needs team members\!
 For more information, please go [here](https://sea-eye.org/sea-eye-2?fbclid=IwAR1QELtmpq-xeC9vNtbMzZERpWi0GNyGYX8v8aAvyS6FpYkvZ9xhuE2dU9w) \.
 
 
-![](assets/743d10d154ec/1*hLTQsH6CXJtwQTVwkdBq5w.jpeg)
+![](../assets/743d10d154ec/1*hLTQsH6CXJtwQTVwkdBq5w.jpeg)
 
 #### UK
 ### No prison sentences for Stanstead 15\!
@@ -168,7 +168,7 @@ For more information, please go [here](https://sea-eye.org/sea-eye-2?fbclid=IwAR
 While their convictions still raise huge questions about the use of terror legislation and ongoing charter deportation flights, this will come as great news for the peaceful protesters, it is [reported](http://bit.ly/2HWRMYE) \.
 
 
-![Photo: [End Deportations](https://www.facebook.com/EDeportations/?tn-str=k%2AF&hc_location=group_dialog)](assets/743d10d154ec/1*JgRj91bBIaZEjtMPV5KtqA.jpeg)
+![Photo: [End Deportations](https://www.facebook.com/EDeportations/?tn-str=k%2AF&hc_location=group_dialog)](../assets/743d10d154ec/1*JgRj91bBIaZEjtMPV5KtqA.jpeg)
 
 Photo: [End Deportations](https://www.facebook.com/EDeportations/?tn-str=k%2AF&hc_location=group_dialog)
 

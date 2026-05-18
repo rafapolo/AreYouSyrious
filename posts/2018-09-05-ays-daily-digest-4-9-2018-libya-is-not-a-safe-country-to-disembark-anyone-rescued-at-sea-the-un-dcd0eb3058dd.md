@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 4/9/2018: Libya is not a safe country to disembark anyone rescued at sea, the UN…
+title: "AYS DAILY DIGEST 4/9/2018: Libya is not a safe country to disembark anyone rescued at sea, the UN…"
 author: Are You Syrious?
 date: 2018-09-05T10:48:58.948+0100
 last_modified_at: 2018-09-05T20:38:15.136+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,libya,greece,bosnia]
 description: Another ceasefire in Libya // Fighting intensifies in Idlib // 30,000 people have disappeared in the Sahara since 2014 // Unknown…
 image:
-  path: assets/dcd0eb3058dd/1*VPqEyU-O46P53lJMvcC9LQ.jpeg
+  path: ../assets/dcd0eb3058dd/1*VPqEyU-O46P53lJMvcC9LQ.jpeg
 ---
 
 ### AYS DAILY DIGEST 4/9/2018: Libya is not a safe country to disembark anyone rescued at sea, the UN claims
@@ -15,7 +15,7 @@ image:
 _Another ceasefire in Libya // Fighting intensifies in Idlib // 30,000 people have disappeared in the Sahara since 2014 // Unknown perpetrators destroyed a memorial in Lesvos dedicated to the refugees who have lost their lives in the Aegean Sea // No solutions for people stranded in Bosnia // Finlands halts deportation to Afghanistan, but also decisions on asylum applications_
 
 
-![By Marian Kamensky\. Art Against](assets/dcd0eb3058dd/1*VPqEyU-O46P53lJMvcC9LQ.jpeg)
+![By Marian Kamensky\. Art Against](../assets/dcd0eb3058dd/1*VPqEyU-O46P53lJMvcC9LQ.jpeg)
 
 By Marian Kamensky\. Art Against
 #### Feature
@@ -47,7 +47,7 @@ According to the UN, some 2\.9 million people live in this area, including many 
 **More people die in the Sahara than in the Mediterranean** \. According to IOM, Algeria has abandoned more than 13,000 migrants without water or food in the Sahara in the past 14 months\. IOM estimates that more than 30,000 people have lost their lives in the Malian or Libyan Sahara since 2014\.
 
 
-![In the desert, people aren’t even numbers\. Photo by [Causacomuns](http://www.causascomuns.org)](assets/dcd0eb3058dd/1*yK82VwK7zZdw3akeC20apQ.jpeg)
+![In the desert, people aren’t even numbers\. Photo by [Causacomuns](http://www.causascomuns.org)](../assets/dcd0eb3058dd/1*yK82VwK7zZdw3akeC20apQ.jpeg)
 
 In the desert, people aren’t even numbers\. Photo by [Causacomuns](http://www.causascomuns.org)
 #### Greece
@@ -69,7 +69,7 @@ The volunteer team of A Drop in the Ocean in Elefsina camp urgently needs a cara
 The 7th Annual Image Conference will be held in Athens this year \(October 6–7th\) \. A portion of the conference will be focused on the context of teaching languages to displaced persons\. [Organizers are calling](https://www.facebook.com/groups/AthensVolunteersInformation/permalink/1491523954313230/) on the teaching community to be present at the conference and to share experiences\.
 
 
-![](assets/dcd0eb3058dd/1*z0UUpJaI-sIHMKDAWo31ug.jpeg)
+![](../assets/dcd0eb3058dd/1*z0UUpJaI-sIHMKDAWo31ug.jpeg)
 
 
 The extension of Katsikas Camp is nearing completion\. [Refugee Support in Europe](https://www.facebook.com/RefugeeSupportEurope/posts/2112562489063218?__xts__%5B0%5D=68.ARBB-6kabVz0wJYf7tFHnjvK5Dk2XLv0esnMBqvtpFCxWZCHQAGIOj4w-AK72doMqEJ6pn0FW1WLW3AUvu1jQeqIZBbtHIFevCQ5AGW-SeBqKQZvDVOwyZRJV6cni0NaO7La65HFt4rg4P0TiaT1fWU22PrUJC_HtAksDmpI6wiLs2_sw1zBHQ&__tn__=-R) volunteers are making some changes in our Free Shop to ensure we continue to deliver \#aidwithdignity to the estimated 1,000 residents that will live in the enlarged camp\.
@@ -80,7 +80,7 @@ The extension of Katsikas Camp is nearing completion\. [Refugee Support in Europ
 So far, the government, in cooperation with big NGOs, has established two camps, both mainly for families\. One improvised shelter, run by the local Red Cross, has been established in Bihac, but conditions are humiliating for all the people who are forced to stay there\. In Velika Kladusa, another border city, most of the asylum seekers are forced to live in a makeshift camp, while in Sarajevo hundreds are sleeping on the streets, depending on help provided by local people and volunteers\.
 
 
-![Djacki dom in Bihac\. Photo by One Bridge to Idomeni](assets/dcd0eb3058dd/1*5g7tjlfS1MY-CelHFIdT1g.jpeg)
+![Djacki dom in Bihac\. Photo by One Bridge to Idomeni](../assets/dcd0eb3058dd/1*5g7tjlfS1MY-CelHFIdT1g.jpeg)
 
 Djacki dom in Bihac\. Photo by One Bridge to Idomeni
 
@@ -104,7 +104,7 @@ In just 3 days, the Refugee Women’s Centre has reached its emergency fundraisi
 #### Denmark
 
 
-![](assets/dcd0eb3058dd/1*emwELQSs_dvy1K2xDkvz6Q.jpeg)
+![](../assets/dcd0eb3058dd/1*emwELQSs_dvy1K2xDkvz6Q.jpeg)
 
 
 **“Throw away your scarf and become a member of Denmark\.”** This is the message to Danish Muslims from the Danish People’s Party \(DF\), left on bus\-stands around the country\.

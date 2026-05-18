@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 09/09/20: Chaos, despair, ash —Moria in ruins, people in fear of fascist groups
+title: "AYS Daily Digest 09/09/20: Chaos, despair, ash —Moria in ruins, people in fear of fascist groups"
 author: Are You Syrious?
 date: 2020-09-10T11:50:58.313+0100
 last_modified_at: 2020-09-10T13:45:37.077+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,moria,refugees,europe,italy]
 description: Field reports from Moria (ongoing) / camp raids and evictions in Bosnia and Herzegovina / Norway to take more people from Moria /…
 image:
-  path: assets/b48b4eab1f2d/1*cEXZE-Ofc5lBCqxD8F5epw.jpeg
+  path: ../assets/b48b4eab1f2d/1*cEXZE-Ofc5lBCqxD8F5epw.jpeg
 ---
 
 ### AYS Daily Digest 09/09/20: Chaos, despair, ash —Moria in ruins, people in fear of fascist groups
 #### Field reports from Moria \(ongoing\) / Camp raids and evictions in Bosnia and Herzegovina / Norway to take more people from Moria / Scandinavian education of children with refugee background — studies / Evacuation from Lampedusa & more news
 
 
-![Moria after the big fire\. Credits: [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets)](assets/b48b4eab1f2d/1*cEXZE-Ofc5lBCqxD8F5epw.jpeg)
+![Moria after the big fire\. Credits: [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets)](../assets/b48b4eab1f2d/1*cEXZE-Ofc5lBCqxD8F5epw.jpeg)
 
 Moria after the big fire\. Credits: [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets)
 #### FEATURED
@@ -243,7 +243,7 @@ Police and private security companies have been treating many people across the 
 
 
 
-![Photo: Ospiti in arrivo](assets/b48b4eab1f2d/1*fOhLVE114EJnbNyu5xB7xQ.jpeg)
+![Photo: Ospiti in arrivo](../assets/b48b4eab1f2d/1*fOhLVE114EJnbNyu5xB7xQ.jpeg)
 
 Photo: Ospiti in arrivo
 #### SCANDINAVIA

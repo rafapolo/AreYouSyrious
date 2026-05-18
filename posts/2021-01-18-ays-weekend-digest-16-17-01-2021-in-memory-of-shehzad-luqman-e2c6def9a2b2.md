@@ -5,9 +5,9 @@ date: 2021-01-18T12:38:17.591+0000
 last_modified_at: 2021-01-18T15:02:33.140+0000
 categories: Are You Syrious?
 tags: [digest,golden-dawn,zintan,migrant-detention,plan-canarias]
-description: Libya: Zintan is finally closed / Snow and freezing cold in Greece and France / Spain: will Plan Canarias turn the islands into new Morias?
+description: "Libya: Zintan is finally closed / Snow and freezing cold in Greece and France / Spain: will Plan Canarias turn the islands into new Morias?"
 image:
-  path: assets/e2c6def9a2b2/1*LtNFjGp_640yUNCfuMLX1w.jpeg
+  path: ../assets/e2c6def9a2b2/1*LtNFjGp_640yUNCfuMLX1w.jpeg
 ---
 
 ### AYS Weekend Digest 16\-17/01/2021 In Memory of Shehzad Luqman
@@ -15,7 +15,7 @@ image:
 Libya: Zintan detention centre is finally closed / Snow and freezing cold in Greece and France / Spain: will Plan Canarias turn the islands into a new Moria? / Updates from Bulgaria, Italy, Austria, UK
 
 
-![Artwork from the campaign “ [X them out\! A Black Map of Athens](https://valtousx.gr/en/) ”, designed to pinpoint and highlight the unseen criminality related to racist attacks in the public space\.](assets/e2c6def9a2b2/1*LtNFjGp_640yUNCfuMLX1w.jpeg)
+![Artwork from the campaign “ [X them out\! A Black Map of Athens](https://valtousx.gr/en/) ”, designed to pinpoint and highlight the unseen criminality related to racist attacks in the public space\.](../assets/e2c6def9a2b2/1*LtNFjGp_640yUNCfuMLX1w.jpeg)
 
 Artwork from the campaign “ [X them out\! A Black Map of Athens](https://valtousx.gr/en/) ”, designed to pinpoint and highlight the unseen criminality related to racist attacks in the public space\.
 #### Featured — In Memory of Shehzad Luqman
@@ -24,7 +24,7 @@ Artwork from the campaign “ [X them out\! A Black Map of Athens](https://valto
 8 years ago yesterday, at 3am, two Golden Dawn members, Dionysis Liakopoulos and Christos Stergiopoulos were riding a motorcycle\. Ahead of them, 27\-year\-old Shehzad Luqman is cycling to work at the farmers’ market\. Using butterfly knives, Liakopoulos and Stergiopoulos stab him seven times in the heart, back and arms\. They leave him bleeding profusely on the pavement, where he draws his last breath\.
 
 
-![](assets/e2c6def9a2b2/1*FVxxNxfM6K2wvYFFQtsr5A.jpeg)
+![](../assets/e2c6def9a2b2/1*FVxxNxfM6K2wvYFFQtsr5A.jpeg)
 
 
 In court, his killers would claim that they attacked him “over a silly fight” that Luqman started\. They would say he was blocking their way with his bicycle\. The perpetrators, Liakopoulos and Stergiopoulos, would be convicted of racially motivated murder\. In the trial against Golden Dawn, the two murderers were also found guilty of being members of a criminal organisation\.
@@ -89,11 +89,11 @@ Once again winter has come to the Greek islands and for the sixth year in a row 
 Reports from [Samos](https://twitter.com/AVeizis/status/1350861988528844810) , [Chios](https://www.facebook.com/europemustact/posts/227873748825327) and [Lesvos](https://www.facebook.com/MoriaCoronaAwarenessTeam/posts/233223334973511) speak of rain, high winds and snow and of even more problems than usual with the electricity supply in the camps\.
 
 
-![](assets/e2c6def9a2b2/1*wUgrJ1l9CL6OuhS6B9Ersw.jpeg)
+![](../assets/e2c6def9a2b2/1*wUgrJ1l9CL6OuhS6B9Ersw.jpeg)
 
 
 
-![Left: Chios \(photo by [Europe Must Act](https://www.facebook.com/europemustact/photos/pcb.227873748825327/227873695491999/) \) / Right: Samos \(photo by [Apostolos Veizis](https://twitter.com/AVeizis/status/1350867382236033024/photo/1) \)](assets/e2c6def9a2b2/1*seBu49zjyfe_x-F9jTSc9A.jpeg)
+![Left: Chios \(photo by [Europe Must Act](https://www.facebook.com/europemustact/photos/pcb.227873748825327/227873695491999/) \) / Right: Samos \(photo by [Apostolos Veizis](https://twitter.com/AVeizis/status/1350867382236033024/photo/1) \)](../assets/e2c6def9a2b2/1*seBu49zjyfe_x-F9jTSc9A.jpeg)
 
 Left: Chios \(photo by [Europe Must Act](https://www.facebook.com/europemustact/photos/pcb.227873748825327/227873695491999/) \) / Right: Samos \(photo by [Apostolos Veizis](https://twitter.com/AVeizis/status/1350867382236033024/photo/1) \)
 
@@ -204,7 +204,7 @@ AUSTRIA
 #### Solidarity in Salzburg
 
 
-![Saturday January 16, 2021 — [Solidarisches Salzburg](https://solidarischessalzburg.at/veranstaltung/wochenende-fuer-moria-1/)](assets/e2c6def9a2b2/1*-FfeF_S01KzOVjwSDV-CZA.jpeg)
+![Saturday January 16, 2021 — [Solidarisches Salzburg](https://solidarischessalzburg.at/veranstaltung/wochenende-fuer-moria-1/)](../assets/e2c6def9a2b2/1*-FfeF_S01KzOVjwSDV-CZA.jpeg)
 
 Saturday January 16, 2021 — [Solidarisches Salzburg](https://solidarischessalzburg.at/veranstaltung/wochenende-fuer-moria-1/)
 
@@ -215,7 +215,7 @@ FRANCE
 Updates from Calais and Grande\-Synthe
 
 
-![“In Calais on Saturday, the extreme cold plan was finally activated but it’s ineffective since hundreds of people are still outside in inhuman conditions\. The “plan” of the Prefect and the Local authorities is: more walls and more police pressure” \(By [Utopia 56](https://twitter.com/Utopia_56/status/1350788717519249408/photo/1) \)](assets/e2c6def9a2b2/1*myxrIG--2RP1dpYsx6uikQ.jpeg)
+![“In Calais on Saturday, the extreme cold plan was finally activated but it’s ineffective since hundreds of people are still outside in inhuman conditions\. The “plan” of the Prefect and the Local authorities is: more walls and more police pressure” \(By [Utopia 56](https://twitter.com/Utopia_56/status/1350788717519249408/photo/1) \)](../assets/e2c6def9a2b2/1*myxrIG--2RP1dpYsx6uikQ.jpeg)
 
 “In Calais on Saturday, the extreme cold plan was finally activated but it’s ineffective since hundreds of people are still outside in inhuman conditions\. The “plan” of the Prefect and the Local authorities is: more walls and more police pressure” \(By [Utopia 56](https://twitter.com/Utopia_56/status/1350788717519249408/photo/1) \)
 

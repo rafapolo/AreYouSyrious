@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 22/02/18: Unjust detentions in the UK
+title: "AYS Daily Digest 22/02/18: Unjust detentions in the UK"
 author: Are You Syrious?
 date: 2018-02-23T05:23:20.805+0000
 last_modified_at: 2018-03-01T13:26:06.791+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,bosnia,detention-stories,greece,digest]
 description: Amnesty report condemns EU policies / UN calls EU to end detention of children / Forced returns to Turkey / Greek man who shot refugees…
 image:
-  path: assets/d3dec23ffc04/1*R_yQthcwWKdiDsemFzStEw.jpeg
+  path: ../assets/d3dec23ffc04/1*R_yQthcwWKdiDsemFzStEw.jpeg
 ---
 
 ### AYS Daily Digest 22/02/18: Unjust detentions in the UK
@@ -15,7 +15,7 @@ image:
 _Amnesty report condemns EU policies / UN calls EU to end detention of children / Forced returns to Turkey / Greek man who shot refugees released / Increasing number of people passing through Bosnia / And more news…_
 
 
-![No one is illegal\! \(Photo by [Faces Before Numbers](https://www.facebook.com/pg/FacesBeforeNumbers/posts/?ref=page_internal) \)](assets/d3dec23ffc04/1*R_yQthcwWKdiDsemFzStEw.jpeg)
+![No one is illegal\! \(Photo by [Faces Before Numbers](https://www.facebook.com/pg/FacesBeforeNumbers/posts/?ref=page_internal) \)](../assets/d3dec23ffc04/1*R_yQthcwWKdiDsemFzStEw.jpeg)
 
 No one is illegal\! \(Photo by [Faces Before Numbers](https://www.facebook.com/pg/FacesBeforeNumbers/posts/?ref=page_internal) \)
 ### FEATURE: UK
@@ -105,7 +105,7 @@ The UNHCR has put out a warning that there is false information circulating on s
 The Turkish Coast Guard \(TCG\) intercepted two boats carrying refugees yesterday and forcibly returned them back to Turkey\. There were a total of 98 people aboard both boats\.
 
 
-![Courtesy of [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/)](assets/d3dec23ffc04/1*g5BUZJinzce-5SB0zeayqg.jpeg)
+![Courtesy of [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/)](../assets/d3dec23ffc04/1*g5BUZJinzce-5SB0zeayqg.jpeg)
 
 Courtesy of [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/)
 ### SEA
@@ -129,7 +129,7 @@ The [Refugee Rescue “Mo Chara”](https://www.facebook.com/RefugeeRescueUK/?fr
 A Greek farmer shot in the direction of three refugees on Lesvos yesterday\. The victims of this crime are still in detention while the perpetrator was released today\. When the shooter was released from jail, he was met with cries of celebration from a far\-right crowd\. Sadly, the farmer is not only being supported by violent right\-wing elements, but also by the mayor of Lesvos\. It was stated in court that the perpetrator owned 4 guns, 166 bullets, and two wooden bats\. He made no expression of remorse during the proceedings\.
 
 
-![The farmer being released to celebratory cheers\. \(Photo by AYS\)](assets/d3dec23ffc04/1*vbl4zj2d-eaCNhZ9Z_9zhg.jpeg)
+![The farmer being released to celebratory cheers\. \(Photo by AYS\)](../assets/d3dec23ffc04/1*vbl4zj2d-eaCNhZ9Z_9zhg.jpeg)
 
 The farmer being released to celebratory cheers\. \(Photo by AYS\)
 
@@ -183,7 +183,7 @@ NGOs are hosting a [“Human Library”](https://www.facebook.com/events/1824659
 Bosnian security minister Dragan Mektic has reported that there has been an approximate 600–700% increase in arrivals of refugees to the country\. The increase in arrivals is likely due to the closure of the “Balkan route” \(pictured below\), and the increased patrols and militarization of other borders in the region\. Most refugees who arrive in Bosnia are on the move to other destinations\. According to data from the UN, while 376 asylum requests were filed in Bosnia last year, 43 percent of applicants left Bosnia before the end of the year\.
 
 
-![Graphic Credit: [InfoMigrants](http://www.infomigrants.net/en/post/7702/bosnia-700-increase-in-arrivals-of-migrants)](assets/d3dec23ffc04/1*c0BeqI-lwAbEuNNv_HF69Q.png)
+![Graphic Credit: [InfoMigrants](http://www.infomigrants.net/en/post/7702/bosnia-700-increase-in-arrivals-of-migrants)](../assets/d3dec23ffc04/1*c0BeqI-lwAbEuNNv_HF69Q.png)
 
 Graphic Credit: [InfoMigrants](http://www.infomigrants.net/en/post/7702/bosnia-700-increase-in-arrivals-of-migrants)
 ### BALKAN WEATHER FORECAST \(for 23/02\)
@@ -243,7 +243,7 @@ While his is merely one among countless unjustified rejections, his case is nota
 
 
 
-![A photograph of Sabor receiving a recommendation from US troops\.](assets/d3dec23ffc04/1*Rf0xZxjDonPvsHGmn6xZZw.jpeg)
+![A photograph of Sabor receiving a recommendation from US troops\.](../assets/d3dec23ffc04/1*Rf0xZxjDonPvsHGmn6xZZw.jpeg)
 
 A photograph of Sabor receiving a recommendation from US troops\.
 
@@ -286,7 +286,7 @@ The volunteer group [Solidarithe](https://www.facebook.com/solidarithe/?hc_ref=A
 
 
 
-![Refugees sleeping rough on the bank of the Seine\. \(Photo by [Fotomovimiento](https://www.facebook.com/Fotomovimiento.org/) \)](assets/d3dec23ffc04/1*k8lQ3vm9zSCURcttftmvAQ.jpeg)
+![Refugees sleeping rough on the bank of the Seine\. \(Photo by [Fotomovimiento](https://www.facebook.com/Fotomovimiento.org/) \)](../assets/d3dec23ffc04/1*k8lQ3vm9zSCURcttftmvAQ.jpeg)
 
 Refugees sleeping rough on the bank of the Seine\. \(Photo by [Fotomovimiento](https://www.facebook.com/Fotomovimiento.org/) \)
 

@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 02/12/2017: When injustice becomes law, resistance becomes a duty — A very…
+title: "AYS DAILY DIGEST 02/12/2017: When injustice becomes law, resistance becomes a duty — A very…"
 author: Are You Syrious?
 date: 2017-12-03T09:21:44.973+0000
 last_modified_at: 2017-12-03T10:40:48.883+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,european-union,greece,lgbt-rights,france]
 description: Proposal for replacement of the Asylum Procedures Directive 2013 and broadening of the term ‘safe third-party country’//More rescues at sea…
 image:
-  path: assets/354466b51236/1*QSKLj_YGhFA71oUPf35Nkw.jpeg
+  path: ../assets/354466b51236/1*QSKLj_YGhFA71oUPf35Nkw.jpeg
 ---
 
 ### AYS DAILY DIGEST 02/12/2017: When injustice becomes law, resistance becomes a duty — A very concerning proposal for replacement of the Asylum Procedures Directive 2013 could have catastrophic consequences
@@ -15,7 +15,7 @@ image:
 Proposal for replacement of the Asylum Procedures Directive 2013 and broadening of the term ‘safe third\-party country’//More rescues at sea and help needed//Joint protests planned by the municipalities of Lesvos, Chios and Samos// News from France// UK Statistics of LGBT asylum// News from Estonia, Denmark and more…
 
 
-![Children of war by Mana Neyestani](assets/354466b51236/1*QSKLj_YGhFA71oUPf35Nkw.jpeg)
+![Children of war by Mana Neyestani](../assets/354466b51236/1*QSKLj_YGhFA71oUPf35Nkw.jpeg)
 
 Children of war by Mana Neyestani
 ### Feature:
@@ -48,18 +48,18 @@ The new regulation being negotiated is a generalization of this EU\-Turkey agree
 Seven boats were rescued on the Spanish coast today by SALVAMENTO MARITIMO\. The total number of those rescued today came to 164 persons\.
 
 
-![Source: SALVAMENTO MARITIMO](assets/354466b51236/1*WoSu7l33lYrsX-1CAbxAWw.png)
+![Source: SALVAMENTO MARITIMO](../assets/354466b51236/1*WoSu7l33lYrsX-1CAbxAWw.png)
 
 Source: SALVAMENTO MARITIMO
 
 Cruz Roja Espanola Volunteers were busy today attending to the survivors as they were disembarked on land\.
 
 
-![](assets/354466b51236/1*qYzdMlJiCnlGcVOHH3MeLA.png)
+![](../assets/354466b51236/1*qYzdMlJiCnlGcVOHH3MeLA.png)
 
 
 
-![Source: Cruz Roja Espanola](assets/354466b51236/1*yyPwxWjXbZVPNwJrRV_KXA.png)
+![Source: Cruz Roja Espanola](../assets/354466b51236/1*yyPwxWjXbZVPNwJrRV_KXA.png)
 
 Source: Cruz Roja Espanola
 
@@ -81,7 +81,7 @@ The tension on the islands continues to rise for both the local and the refugee 
 Currently the islands of the Aegean are ‘housing’ approximately 15,500 refugees\. Hotspots such as Moria, Vathi and Vial are three times over capacity yet still the travel ban is not being lifted which would allow refugees to be transferred to accommodations on the mainland, many of which remain unfilled\.
 
 
-![Source: Human Rights Watch](assets/354466b51236/1*_Wl-hgnzuZuvczCkBGXdHg.jpeg)
+![Source: Human Rights Watch](../assets/354466b51236/1*_Wl-hgnzuZuvczCkBGXdHg.jpeg)
 
 Source: Human Rights Watch
 
@@ -129,7 +129,7 @@ The first version of the chatbot should be launched in November, partnering with
 ### France:
 
 
-![Source: Refugee Rights Data](assets/354466b51236/1*RvaYUJavzKQojokFxg6Kgg.png)
+![Source: Refugee Rights Data](../assets/354466b51236/1*RvaYUJavzKQojokFxg6Kgg.png)
 
 Source: Refugee Rights Data
 
@@ -150,11 +150,11 @@ With the grip of winter fast approaching in France, hundreds of vulnerable child
 Refugee rights data asks you to sign this letter to the Home Secretary demanding her to take urgent action to protect vulnerable unaccompanied children in Europe: [http://refugeerights\.org\.uk/nov\-2017\-letter\-to\-home\-secret…/](https://l.facebook.com/l.php?u=http%3A%2F%2Frefugeerights.org.uk%2Fnov-2017-letter-to-home-secretary%2F&h=ATO6wpPg7Nm1LIQS_jkgyJCbq4Q2IiTh2R_DCLZ3tIwFOcfD97Ue-ahhYYk2qeq8IvVDL_ddb3v4uINnIGpWxMB1aefOO5aYhGZpaMP0GPSlOcTV0WhUE7LDaayTgS-PKtijO92wDYwNBleXqJI1r7N2P-eOz5MoNo8knq52whPIlZgQLk0Rs4XOtJiWUsx4Szx-TiDJPYJ9nyjanw_Ldw4H6nncpIBRYLlxJlzPm0vyUX1imJEgJykZhnMZUuA4MvIxtYVAMEHzLtbAzmbyHLGKycjGIFeCA_DnbdWTQqAM1h7VeFBsgA)
 
 
-![](assets/354466b51236/1*G5QZqnP_7KCgxhIgRcOzRA.jpeg)
+![](../assets/354466b51236/1*G5QZqnP_7KCgxhIgRcOzRA.jpeg)
 
 
 
-![Source: Paris Refugee Ground Support](assets/354466b51236/1*nIVdG5R94m3n0zywnOZZRg.jpeg)
+![Source: Paris Refugee Ground Support](../assets/354466b51236/1*nIVdG5R94m3n0zywnOZZRg.jpeg)
 
 Source: Paris Refugee Ground Support
 

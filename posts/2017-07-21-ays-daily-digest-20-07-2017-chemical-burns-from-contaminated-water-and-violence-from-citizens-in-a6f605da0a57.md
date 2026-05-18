@@ -1,13 +1,13 @@
 ---
-title: AYS Daily Digest 20/07/17: Chemical burns from contaminated water and violence from citizens in…
+title: "AYS Daily Digest 20/07/17: Chemical burns from contaminated water and violence from citizens in…"
 author: Are You Syrious?
 date: 2017-07-21T07:40:40.174+0100
 last_modified_at: 2017-08-29T17:48:05.312+0100
 categories: 
 tags: [refugees]
-description: FEATURE: The ongoing horror ignored in France / New interactive map on migration patterns from Africa / “Defend Europe” ship intercepted…
+description: "FEATURE: The ongoing horror ignored in France / New interactive map on migration patterns from Africa / “Defend Europe” ship intercepted…"
 image:
-  path: assets/a6f605da0a57/1*UsIZapVJLnZhFkUubTbz3Q.jpeg
+  path: ../assets/a6f605da0a57/1*UsIZapVJLnZhFkUubTbz3Q.jpeg
 ---
 
 ### AYS Daily Digest 20/07/17: Chemical burns from contaminated water and violence from citizens in France
@@ -15,7 +15,7 @@ image:
 _FEATURE: The ongoing horror ignored in France / New interactive map on migration patterns from Africa / “Defend Europe” ship intercepted, arrested / Positive initiatives in Greece / Refugees sleeping rough in Italy / Swiss asylum applications drop / And more news…_
 
 
-![](assets/a6f605da0a57/1*UsIZapVJLnZhFkUubTbz3Q.jpeg)
+![](../assets/a6f605da0a57/1*UsIZapVJLnZhFkUubTbz3Q.jpeg)
 
 ### FEATURE
 
@@ -41,7 +41,7 @@ Remember that Calais first manifested itself in 1999, with various waves of refu
 The newest horror story to come out of Calais comes from a medical reportage from Medicins du Monde which saw a recent increase in what appeared to be moderate but still troubling chemical burns\. Without access to regular hygiene facilities, many were forced to bathe and wash in a series of wells likely being fed by wastewater from from a chemical plant nearby\.
 
 
-![Photo courtesy of MDM](assets/a6f605da0a57/1*5Vf2HuvEsKwPdLfDq4hcKA.jpeg)
+![Photo courtesy of MDM](../assets/a6f605da0a57/1*5Vf2HuvEsKwPdLfDq4hcKA.jpeg)
 
 Photo courtesy of MDM
 
@@ -58,14 +58,14 @@ The temptation to rely on unclean water supplies is only heightened by the incre
 Outside of the reception center in Calais today, some locals threw rocks at refugees from a car — injuring several\.
 
 
-![Injury after rock attack\. Photo credit: [**Hisham MH Aly**](https://www.facebook.com/profile.php?id=100007601236522)](assets/a6f605da0a57/1*RmKLKbwZi8amEMuoVsXZ9A.jpeg)
+![Injury after rock attack\. Photo credit: [**Hisham MH Aly**](https://www.facebook.com/profile.php?id=100007601236522)](../assets/a6f605da0a57/1*RmKLKbwZi8amEMuoVsXZ9A.jpeg)
 
 Injury after rock attack\. Photo credit: [**Hisham MH Aly**](https://www.facebook.com/profile.php?id=100007601236522)
 
 In the same detailed report that detailed the fresh water crisis, Help Refugees and L’Auberge des Migrants also polled to assess the nationality breakdown of individuals surveyed\. Again, as previously noted, as different factors and conflicts explode and diminish, the population breakdown of informal camps shifts\. However, understandably, the common factor shared by all of these residence is the fact that often these are the ones pushed out of the system — they come to informal camps as they have no other means of support due to having “illegitimate” claims to support based, often, solely on their nationality\.
 
 
-![](assets/a6f605da0a57/1*rFVze8WYIz2D0opruc2gxQ.jpeg)
+![](../assets/a6f605da0a57/1*rFVze8WYIz2D0opruc2gxQ.jpeg)
 
 
 Of course, the crisis situation is not just limited to Calais as [Solidarithé](https://www.facebook.com/solidarithe/posts/1841917656126348) has made an urgent call for donations\.
@@ -110,7 +110,7 @@ There is always work to be done, wherever there is injustice\.
 A fantastic project by MEDU provides a visual for surveys carried out in Italy to assess the source countries for refugees from Africa as well as the motives for flight\.
 
 
-![Screenshot from website, courtesy of MEDU](assets/a6f605da0a57/1*AnJ69bub1Wtrr9hzErMdRg.png)
+![Screenshot from website, courtesy of MEDU](../assets/a6f605da0a57/1*AnJ69bub1Wtrr9hzErMdRg.png)
 
 Screenshot from website, courtesy of MEDU
 
@@ -132,13 +132,13 @@ A press conference has been organized to be held on Saturday to discuss the inci
 For those who have been busy in recent weeks, the hunger strike in Moria is continuing, with participants entering their 23rd day on the hunger strike as of the 20th\. United Rescue Aid put together a short film on the topic\. Take a moment to watch it\.
 
 
-[![Sent to Their Death - Joinda Productions](assets/a6f605da0a57/a200_hqdefault.jpg "Sent to Their Death - Joinda Productions")](http://www.youtube.com/watch?v=2qSykAXNCNA)
+[![Sent to Their Death - Joinda Productions](../assets/a6f605da0a57/a200_hqdefault.jpg "Sent to Their Death - Joinda Productions")](http://www.youtube.com/watch?v=2qSykAXNCNA)
 
 
 One Happy Family and Sea of Solidarity teamed up to start building a new women’s space\! It is built in addition to the community center, but will provide more privacy and security for women in the area\.
 
 
-![Photo credit: One Happy Family](assets/a6f605da0a57/1*jww7aEQBfPIi5O_Ln2VKUw.jpeg)
+![Photo credit: One Happy Family](../assets/a6f605da0a57/1*jww7aEQBfPIi5O_Ln2VKUw.jpeg)
 
 Photo credit: One Happy Family
 
@@ -164,7 +164,7 @@ The team also posted a wonderful story of a lovely man at the community center w
 
 
 
-![Photo credit: One Happy Family](assets/a6f605da0a57/1*cu9TjgUjSOekUhRPKPt4sA.jpeg)
+![Photo credit: One Happy Family](../assets/a6f605da0a57/1*cu9TjgUjSOekUhRPKPt4sA.jpeg)
 
 Photo credit: One Happy Family
 #### KATSIKAS
@@ -172,7 +172,7 @@ Photo credit: One Happy Family
 Habibi\.Works organized a super groovy tie\-dye workshop for residents of the camp there\. Participants were from all across the world, and the results were stunning\. Far out\!
 
 
-![Photo credit: Habibi\.Works](assets/a6f605da0a57/1*WVFskKO6ZPjSgbMDlDYJlg.jpeg)
+![Photo credit: Habibi\.Works](../assets/a6f605da0a57/1*WVFskKO6ZPjSgbMDlDYJlg.jpeg)
 
 Photo credit: Habibi\.Works
 #### GENERAL
@@ -191,7 +191,7 @@ The Timber Project is raising funds for a fantastic new project in Larissa camp\
 NEEDS: mats, sleeping bags, underwear, tents or tarpaulin, clothes, shoes, food for breakfast and dinner, active volunteers
 
 
-![Photo credit: [**Mauro Chiarabba**](https://www.facebook.com/mauro.chiarabba)](assets/a6f605da0a57/1*mPLArmUUa2PkGg5eZDanFg.jpeg)
+![Photo credit: [**Mauro Chiarabba**](https://www.facebook.com/mauro.chiarabba)](../assets/a6f605da0a57/1*mPLArmUUa2PkGg5eZDanFg.jpeg)
 
 Photo credit: [**Mauro Chiarabba**](https://www.facebook.com/mauro.chiarabba)
 ### SWITZERLAND

@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL: 200 days after EU — Turkey deal
+title: "AYS SPECIAL: 200 days after EU — Turkey deal"
 author: Are You Syrious?
 date: 2016-10-07T11:00:12.182+0100
 last_modified_at: 2018-03-01T14:18:25.463+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,greece,eu-turkey-deal,italy,special]
 description: Today, October 7th, the agreement on refugees becomes 200 days old. In this special report we want to analyze what this deal and the…
 image:
-  path: assets/5656e6ce0dbf/1*i8sGd4DMYyVk56Wfb8FI4g.jpeg
+  path: ../assets/5656e6ce0dbf/1*i8sGd4DMYyVk56Wfb8FI4g.jpeg
 ---
 
 ### AYS SPECIAL: 200 days after EU — Turkey deal
@@ -15,7 +15,7 @@ image:
 _Today, October 7th, the agreement on refugees becomes 200 days old\. In this special report we want to analyze what this deal and the closure of the Balkan\-Route meant to refugees\._
 
 
-![Thousands of people are stuck in Serbia, arrived with smugglers, and waiting to continue their journey\. Photo by [**Mette Flansmose**](https://www.facebook.com/mette.flansmose)](assets/5656e6ce0dbf/1*i8sGd4DMYyVk56Wfb8FI4g.jpeg)
+![Thousands of people are stuck in Serbia, arrived with smugglers, and waiting to continue their journey\. Photo by [**Mette Flansmose**](https://www.facebook.com/mette.flansmose)](../assets/5656e6ce0dbf/1*i8sGd4DMYyVk56Wfb8FI4g.jpeg)
 
 Thousands of people are stuck in Serbia, arrived with smugglers, and waiting to continue their journey\. Photo by [**Mette Flansmose**](https://www.facebook.com/mette.flansmose)
 ### Greece
@@ -23,28 +23,28 @@ Thousands of people are stuck in Serbia, arrived with smugglers, and waiting to 
 The deal was implemented in the night from 20th to 21st of March and said, that Turkey will take back refugees who arrive on the Greek islands and for every Syrian another Syrian is allowed to resettle in an EU country\. But in fact, this deal never worked really\. In the first days Greece sent back some refugees with high international attention and the EU received the first ones from Turkey\. But even there it was obvious, that the one to one exchange didn’t work\. According to the last [factsheet](http://europa.eu/rapid/press-release_MEMO-16-3204_en.htm) 578 refugees and migrants \(only few Syrians\) have been sent back, while 1614 refugees have been resettled\. That Greece didn’t send back the new arrived people had various reasons, including courts ruling, that [Turkey is not a safe country](http://www.telesurtv.net/english/news/Greece-Court-Rules-Turkey-Not-Safe-Country-for-Refugees-20160521-0021.html) for them\.
 
 
-![By AYS](assets/5656e6ce0dbf/1*N7OOESz9qeArQwHl8LTfjQ.jpeg)
+![By AYS](../assets/5656e6ce0dbf/1*N7OOESz9qeArQwHl8LTfjQ.jpeg)
 
 By AYS
 
 Another point was, that refugees were no longer allowed to leave the islands and put in the so called hotspots\. Since the deal didn’t work, the hotspots were soon overcrowded\. Greek authorities registered 21723 since then\. By now Chios with 4095 refugees is about to hit 400 percent of it’s offical capcity, Lesvos is hosting almost 5871 refugees which is almost 158 percent of the capacity of 3500\. Samos hosts 1852 with a capcity of 850\. All together the islands are close to 200 percent of the capacity\. The international community seems not to care about this fact\.
 
 
-![Source media\.gov\.gr](assets/5656e6ce0dbf/1*sxl02KYBps_SUfaYEw_GrA.jpeg)
+![Source media\.gov\.gr](../assets/5656e6ce0dbf/1*sxl02KYBps_SUfaYEw_GrA.jpeg)
 
 Source media\.gov\.gr
 
 While the number of new arrivals significantly dropped in May \(1472\) and June \(1450\), it nearly doubled since then\. The statistics clearly show, that after the Turkey coup on 15th July there has been a high increase of new arrivals\. The first days in October were even higher than in the first days in the months before\. We assume that this is connected to the deadline Turkey hat set the EU for visa liberalisation — some media reported end of October, others the end of the year — and wants to put pressure with letting pass refugees\. According to volunteer reports refugees have now to sleep in tents at the beach because the hotspot is overcrowded\. We are concerned that soon the situation on Chios, Samos and also Kos will worsen during the next weeks and months, if the people won’t be transferred to the mainland\.
 
 
-![Chios, October 5\. Photo by Evangelia Avdeliodi](assets/5656e6ce0dbf/1*aQL3Fi5FJci4f8mo4RUDfQ.jpeg)
+![Chios, October 5\. Photo by Evangelia Avdeliodi](../assets/5656e6ce0dbf/1*aQL3Fi5FJci4f8mo4RUDfQ.jpeg)
 
 Chios, October 5\. Photo by Evangelia Avdeliodi
 
 Since Macedonia closed its borders to Greece in early March, more than 35\.000 refugees are stuck on the mainland\. The living conditions in the camps sometimes are still inhuman, every week we get to know about medical emergencies who don’t get a appropriate treatment\. While we see, that Greece authorities are working together with volunteers to improve the conditions, we also see, that these efforts are not enough\. Soon temperatures will drop and we don’t see that the camps are prepared for autumn not to mention winter\. According to EU documents, since March 198 Million \( \! \) Euro have been transferred to NGOs and authorities working in Greece as emergency funding to improve the conditions\. This means more than 3000 Euros for every of the 60\.000 refugees\. And there have been [even more fundings](http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/european-agenda-migration/background-information/docs/20160412/factsheet_managing_refugee_crisis_eu_financial_support_greece_en.pdf) \. Seeing this amount of money we are asking, what has been done with it?
 
 
-![Source ec\.europa\.eu](assets/5656e6ce0dbf/1*FERs8C7U6jgJtW7tUALgaw.jpeg)
+![Source ec\.europa\.eu](../assets/5656e6ce0dbf/1*FERs8C7U6jgJtW7tUALgaw.jpeg)
 
 Source ec\.europa\.eu
 
@@ -61,7 +61,7 @@ According to UNHCR, in Serbia refugee numbers using that route started increasin
 During the summer, in the beginning of June, Hungary tried once more reducing the flow of refugees through the country passing a law that allowed security forces to expel all illegal migrants that were caught 8 kilometer within its borders sending them back to the country they came from\. As the graphics show, by the end of June, refugee numbers in Hungary fell significantly but this just caused the numbers in Serbia to rise enormously, going from about 2000 at that time to about 5700 at the moment\. These drastic measures implemented by Hungary have put increasing pressure on and stress on refugees stuck there causing protests like the refugee attempt marches from Belgrade to the border on the 24th of July and more recently on the 4th of October\.
 
 
-![AYS](assets/5656e6ce0dbf/1*kNtoXzraVTbkZ7qgHZqOZA.jpeg)
+![AYS](../assets/5656e6ce0dbf/1*kNtoXzraVTbkZ7qgHZqOZA.jpeg)
 
 AYS
 
@@ -75,7 +75,7 @@ So far, UNHCR has registered almost 140\.000 arrivals what is a similar number t
 Even if the the number of arrivals in Italy has increased after the Turkey deal, we believe this is more linked to the better weather conditions and not the agreement itself\. From January until August UNHCR registered only a few refugees from Syria \(577\), Iraq \(322\), Afghanistan \(279\) or Iran \(108\) \. So it seems like at least in this year this has not been an alternative route for refugees from the middle east\.
 
 
-![AYS](assets/5656e6ce0dbf/1*5Eck7HI3lMTYSy_S4glRpw.jpeg)
+![AYS](../assets/5656e6ce0dbf/1*5Eck7HI3lMTYSy_S4glRpw.jpeg)
 
 AYS
 

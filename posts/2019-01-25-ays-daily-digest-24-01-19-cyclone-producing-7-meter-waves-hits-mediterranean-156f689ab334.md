@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 24/01/19: Cyclone producing 7 Meter Waves Hits Mediterranean
+title: "AYS Daily Digest 24/01/19: Cyclone producing 7 Meter Waves Hits Mediterranean"
 author: Are You Syrious?
 date: 2019-01-25T11:25:38.504+0000
 last_modified_at: 2019-01-25T11:43:40.124+0000
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,digest,libya,human-rights,italy]
 description: 47 people rescued by Sea Watch 3 in Mediterranean, denied access to Italian Ports for 5 days and forced to withstand 7m waves//100 people…
 image:
-  path: assets/156f689ab334/1*oPj0ymeJO_hmxDTVasLUFg.jpeg
+  path: ../assets/156f689ab334/1*oPj0ymeJO_hmxDTVasLUFg.jpeg
 ---
 
 ### AYS Daily Digest 24/01/19: Cyclone Producing 7 Meter Waves Hits Mediterranean
 #### 47 people rescued on Board Sea Watch 3, denied access to Italian Ports as Weather Worsened in Mediterranean//100 people remain trapped in Nador Detention Facility//Situation in Libyan Detention Camp Mistrata Deteriorating// Weather Warning for Greece// Fourth Day of Protests on Samos// Salvini to Close Largest Reception Center in Europe Cara Mineo// 2000 people Sleeping on Streets of Paris// UK returns people who crossed the English Channel from France… And more…
 
 
-![Source: [Federico Scoppa](https://www.facebook.com/Scoppa.Photos?__tn__=%2CdCH-R-R&eid=ARBkkqscVe2uqeFLDVDktHzOFqKR7dOhI7nkL50qjsD_eHpknMYkONC4_Vxf6eKEW-QnFozRctyDy3Fw&hc_ref=ARSEMCTjHMEvGNcZ2Xx3ON5YVVDdTEYQucTIQql8RAY0O2JjptJqYS01CLPdkeX1Iy8&fref=nf)](assets/156f689ab334/1*oPj0ymeJO_hmxDTVasLUFg.jpeg)
+![Source: [Federico Scoppa](https://www.facebook.com/Scoppa.Photos?__tn__=%2CdCH-R-R&eid=ARBkkqscVe2uqeFLDVDktHzOFqKR7dOhI7nkL50qjsD_eHpknMYkONC4_Vxf6eKEW-QnFozRctyDy3Fw&hc_ref=ARSEMCTjHMEvGNcZ2Xx3ON5YVVDdTEYQucTIQql8RAY0O2JjptJqYS01CLPdkeX1Iy8&fref=nf)](../assets/156f689ab334/1*oPj0ymeJO_hmxDTVasLUFg.jpeg)
 
 Source: [Federico Scoppa](https://www.facebook.com/Scoppa.Photos?__tn__=%2CdCH-R-R&eid=ARBkkqscVe2uqeFLDVDktHzOFqKR7dOhI7nkL50qjsD_eHpknMYkONC4_Vxf6eKEW-QnFozRctyDy3Fw&hc_ref=ARSEMCTjHMEvGNcZ2Xx3ON5YVVDdTEYQucTIQql8RAY0O2JjptJqYS01CLPdkeX1Iy8&fref=nf)
 #### Feature:
@@ -103,7 +103,7 @@ Drop in the Ocean is in need of volunteer English Teachers in Athens and on Lesv
 athen@drapenihavet\.no or lesvos@drapenihavet\.no
 
 
-![Source: AYS](assets/156f689ab334/1*tTflLGHB0959oaIo1OQsHw.jpeg)
+![Source: AYS](../assets/156f689ab334/1*tTflLGHB0959oaIo1OQsHw.jpeg)
 
 Source: AYS
 #### The Islands:
@@ -162,7 +162,7 @@ Interior Minister Salvini has announced that the next center to close in Italy w
 Calais Action reports that More the 2000 people are sleeping on the streets of Paris under heavy snow and cold weather\.
 
 
-![Source: [Calais Action](https://www.facebook.com/calaisaction/?__tn__=%2CdKH-R-R&eid=ARAHOgBsvsobwpEKqkmNz3MbJhEjebVZekmmZKW42___YGq9gtLPtybsq1Z2ig6Y0jT3aJe52SwbwM0S&fref=mentions)](assets/156f689ab334/1*Y12Uu6-eMrbdYGMOoarUyQ.jpeg)
+![Source: [Calais Action](https://www.facebook.com/calaisaction/?__tn__=%2CdKH-R-R&eid=ARAHOgBsvsobwpEKqkmNz3MbJhEjebVZekmmZKW42___YGq9gtLPtybsq1Z2ig6Y0jT3aJe52SwbwM0S&fref=mentions)](../assets/156f689ab334/1*Y12Uu6-eMrbdYGMOoarUyQ.jpeg)
 
 Source: [Calais Action](https://www.facebook.com/calaisaction/?__tn__=%2CdKH-R-R&eid=ARAHOgBsvsobwpEKqkmNz3MbJhEjebVZekmmZKW42___YGq9gtLPtybsq1Z2ig6Y0jT3aJe52SwbwM0S&fref=mentions)
 
@@ -171,7 +171,7 @@ Source: [Calais Action](https://www.facebook.com/calaisaction/?__tn__=%2CdKH-R-R
 Mobile Refugee Support is in search for volunteers to join their team to help deal with the high numbers and new arrivals\.
 
 
-![](assets/156f689ab334/1*TXmb4Ya1LXPGp43IlSWWPQ.jpeg)
+![](../assets/156f689ab334/1*TXmb4Ya1LXPGp43IlSWWPQ.jpeg)
 
 
 People stuck in Calais and Dunkirk continue trying to reach the UK by taking boats across the English Channel\. [Refugee Women’s Centr](https://www.facebook.com/refugeewomenscentre/?__tn__=%2CdkCH-R-R&eid=ARD5QRg5_MvLpXYCQ51nA355Bb5kLKmyGmMfI7eH9WZB_UHStG5gTvqLdv15elJKVyXTo_7qdStAzx4c&hc_ref=ARSqIXfpsNa_AqI3eVjPif91So_qi86pFmAZa6GVR_gpYenuZDOUMBy51_bE_qH0l04&fref=nf&hc_location=group) e reports some snippets of conversations they have had with displaced families who have resorted to these dangerous means to reach the UK\.

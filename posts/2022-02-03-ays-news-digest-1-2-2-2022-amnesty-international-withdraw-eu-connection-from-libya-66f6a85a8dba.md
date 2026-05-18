@@ -1,13 +1,13 @@
 ---
-title: AYS News Digest: 1–2.2.2022 Amnesty International: Withdraw EU connection from Libya
+title: "AYS News Digest: 1–2.2.2022 Amnesty International: Withdraw EU connection from Libya"
 author: Are You Syrious?
 date: 2022-02-03T19:13:41.323+0000
 last_modified_at: 2022-02-03T19:13:41.323+0000
 categories: Are You Syrious?
 tags: [digest,eu,human-rights,libya]
-description: Amnesty International: Drop charges against El Hiblu 3 // Twelve people found dead at the Greek/Turkish border // 48 people have arrived in…
+description: "Amnesty International: Drop charges against El Hiblu 3 // Twelve people found dead at the Greek/Turkish border // 48 people have arrived in…"
 image:
-  path: assets/66f6a85a8dba/1*wvr-W91LyKEBW9H2xbdPUw.png
+  path: ../assets/66f6a85a8dba/1*wvr-W91LyKEBW9H2xbdPUw.png
 ---
 
 ### AYS News Digest: 1–2\.2\.2022 Amnesty International: Withdraw EU connection from Libya
@@ -16,7 +16,7 @@ Amnesty International: Drop charges against El Hiblu 3 // Twelve people found de
 #### FEATURE
 
 
-![](assets/66f6a85a8dba/1*wvr-W91LyKEBW9H2xbdPUw.png)
+![](../assets/66f6a85a8dba/1*wvr-W91LyKEBW9H2xbdPUw.png)
 
 #### Amnesty International: Withdraw EU connection from Libya
 
@@ -114,7 +114,7 @@ Footage of [evictions in Calais](https://twitter.com/HumanRightsObs/status/14884
 #### [£1\.2 million is being spent every day on housing people in hotels](https://www.independent.co.uk/news/uk/home-news/asylum-seeker-hotels-refugees-afghanistan-b2005910.html?fbclid=IwAR1DYrZR09lgoDLQEqgjcoUAbE0q2FoWbwAD156Qomv8mmas1vH5fp2M8Cg) \.
 
 
-![Photo Credit: [Freemovement](https://twitter.com/ColinYeo1/status/1488897749714092034?fbclid=IwAR2CADR9Pb6iizKPWA0yTbzVMQnZLjc5G1X91FDx8XcuQRnRvDXJkxJL5M8)](assets/66f6a85a8dba/0*2VrWbooXkxx2zYv0)
+![Photo Credit: [Freemovement](https://twitter.com/ColinYeo1/status/1488897749714092034?fbclid=IwAR2CADR9Pb6iizKPWA0yTbzVMQnZLjc5G1X91FDx8XcuQRnRvDXJkxJL5M8)](../assets/66f6a85a8dba/0*2VrWbooXkxx2zYv0)
 
 Photo Credit: [Freemovement](https://twitter.com/ColinYeo1/status/1488897749714092034?fbclid=IwAR2CADR9Pb6iizKPWA0yTbzVMQnZLjc5G1X91FDx8XcuQRnRvDXJkxJL5M8)
 

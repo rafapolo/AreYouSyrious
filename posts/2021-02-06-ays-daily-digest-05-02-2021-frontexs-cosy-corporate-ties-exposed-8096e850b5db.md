@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,frontex,eu]
 description: Over a Thousand People Attempt to Cross Central Med//Racist Protests Shut Down School in Greece//& More
 image:
-  path: assets/8096e850b5db/0*ffk-EW5NGnpvBQiI
+  path: ../assets/8096e850b5db/0*ffk-EW5NGnpvBQiI
 ---
 
 ### AYS Daily Digest 05/02/2021—Frontex’s Cosy Corporate Ties, Exposed
 #### Over a thousand people attempt to cross central Med//Racist protests shut down school in Greece//& more
 
 
-![People fleeing Libya from the perspective of the Moonbird\. Photo credit: Felix Weiss?Sea Watch, via [The Civil Fleet](https://thecivilfleet.wordpress.com/2021/02/05/over-1000-refugees-attempt-to-escape-libya-by-sea-in-24-hours/?fbclid=IwAR1VssT8Ts_tj7-79KoM6blmJ4HuvkVAu4AOTMggD9OCN-ofTC5boxd-04g)](assets/8096e850b5db/0*ffk-EW5NGnpvBQiI)
+![People fleeing Libya from the perspective of the Moonbird\. Photo credit: Felix Weiss?Sea Watch, via [The Civil Fleet](https://thecivilfleet.wordpress.com/2021/02/05/over-1000-refugees-attempt-to-escape-libya-by-sea-in-24-hours/?fbclid=IwAR1VssT8Ts_tj7-79KoM6blmJ4HuvkVAu4AOTMggD9OCN-ofTC5boxd-04g)](../assets/8096e850b5db/0*ffk-EW5NGnpvBQiI)
 
 People fleeing Libya from the perspective of the Moonbird\. Photo credit: Felix Weiss?Sea Watch, via [The Civil Fleet](https://thecivilfleet.wordpress.com/2021/02/05/over-1000-refugees-attempt-to-escape-libya-by-sea-in-24-hours/?fbclid=IwAR1VssT8Ts_tj7-79KoM6blmJ4HuvkVAu4AOTMggD9OCN-ofTC5boxd-04g)
 

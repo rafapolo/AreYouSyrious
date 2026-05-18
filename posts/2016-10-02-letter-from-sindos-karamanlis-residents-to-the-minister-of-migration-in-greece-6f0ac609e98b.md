@@ -11,7 +11,7 @@ description: Inspired by the letter from Elliniko stadium that was published las
 ### Letter from Sindos Karamanlis residents to the Minister of Migration in Greece
 
 
-![Photo from Sindos Karamanlis camp](assets/6f0ac609e98b/1*lRTnjMoQw-HInlawhIQZgA.jpeg)
+![Photo from Sindos Karamanlis camp](../assets/6f0ac609e98b/1*lRTnjMoQw-HInlawhIQZgA.jpeg)
 
 Photo from Sindos Karamanlis camp
 
@@ -48,15 +48,15 @@ _10\. We need heaters in the camp\._
 _11\. We need to repair the roof of the warehouse because the rain leaks into the tents\. We wouldn’t wish this life on anyone and kindly ask you to meet our basic needs\. Signed, residents of Sindos Karamanlis camp\._
 
 
-![](assets/6f0ac609e98b/1*hdWf_mLxHD_1nhtiA0bBJQ.jpeg)
+![](../assets/6f0ac609e98b/1*hdWf_mLxHD_1nhtiA0bBJQ.jpeg)
 
 
 
-![](assets/6f0ac609e98b/1*qg-u6MrwLGQDEX_bSIJdQw.jpeg)
+![](../assets/6f0ac609e98b/1*qg-u6MrwLGQDEX_bSIJdQw.jpeg)
 
 
 
-![_The residents of Sindos Karamanlis camp are asking just gor the most basic needs “in order to live temporarily like a human being”\._](assets/6f0ac609e98b/1*sG7hMdUPY3PMC2IW_b573A.jpeg)
+![_The residents of Sindos Karamanlis camp are asking just gor the most basic needs “in order to live temporarily like a human being”\._](../assets/6f0ac609e98b/1*sG7hMdUPY3PMC2IW_b573A.jpeg)
 
 _The residents of Sindos Karamanlis camp are asking just gor the most basic needs “in order to live temporarily like a human being”\._
 

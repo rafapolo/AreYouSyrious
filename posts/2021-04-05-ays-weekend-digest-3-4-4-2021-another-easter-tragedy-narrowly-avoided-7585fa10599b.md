@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 3-4/4/2021: Another Easter Tragedy Narrowly Avoided
+title: "AYS Weekend Digest 3-4/4/2021: Another Easter Tragedy Narrowly Avoided"
 author: Are You Syrious?
 date: 2021-04-05T10:42:26.649+0100
 last_modified_at: 2021-04-05T15:05:55.505+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,malta,blm,coronavirus,protest]
 description: Alan Kurdi Court Case // Kos coroner report // Updates from Lesvos and Chios // Corona cases in Ritsona // New Social Centre in Athens //…
 image:
-  path: assets/7585fa10599b/1*APIT4HXnG8LfA00n90rolw.jpeg
+  path: ../assets/7585fa10599b/1*APIT4HXnG8LfA00n90rolw.jpeg
 ---
 
 ### AYS Weekend Digest 3\-4/4/2021: Another Easter Tragedy Narrowly Avoided
@@ -15,7 +15,7 @@ image:
 Alan Kurdi court case // Kos coroner report // Updates from Lesvos and Chios // Corona cases in Ritsona camp // New Social Centre in Athens // Rally in Paris for Requisitions Collective // Journalist at risk of deportation to Afghanistan // Syrian dies in Denmark after being told to return…
 
 
-![Protestors kneel along Patision Street in downtown Athens during a demonstration on Saturday following the death of two people on the move in Greece — Macky Diabaté, a 44 year\-old man from Guinea, and Ibrahim Ergun, a 24 year\-old Kurdish man from Turkey\. \(credit: [Gabriel Green](https://twitter.com/gggreen14/status/1378803559253299202/photo/1) \)](assets/7585fa10599b/1*APIT4HXnG8LfA00n90rolw.jpeg)
+![Protestors kneel along Patision Street in downtown Athens during a demonstration on Saturday following the death of two people on the move in Greece — Macky Diabaté, a 44 year\-old man from Guinea, and Ibrahim Ergun, a 24 year\-old Kurdish man from Turkey\. \(credit: [Gabriel Green](https://twitter.com/gggreen14/status/1378803559253299202/photo/1) \)](../assets/7585fa10599b/1*APIT4HXnG8LfA00n90rolw.jpeg)
 
 Protestors kneel along Patision Street in downtown Athens during a demonstration on Saturday following the death of two people on the move in Greece — Macky Diabaté, a 44 year\-old man from Guinea, and Ibrahim Ergun, a 24 year\-old Kurdish man from Turkey\. \(credit: [Gabriel Green](https://twitter.com/gggreen14/status/1378803559253299202/photo/1) \)
 #### FEATURED: Another Easter tragedy narrowly avoided
@@ -109,7 +109,7 @@ Will we be next ones?
 #### Updates from Athens
 
 
-![New squatted social centre Zizania, in the Viktoria area in Athens \(credit: [Anti\-Covid19 — Δίκτυο Αλληλοβοήθειας και Αγώνα](https://www.facebook.com/AntiCovidAidNetwork/?__cft__[0]=AZUj4JL3PxoEOJU8fW4JesIxhtBGs2urU8n4kNmKxCQEpzQ-yfgG-hpN0ArhebPEqslHBjva4njuWv4HHdq9yzTPg2bCvNICgo4XSmfvft8yCM5ouo0UfdiChIDN_ECyFXumoXAvjXtUh871JKBVvKbU&__tn__=-UC*F) \)](assets/7585fa10599b/1*oxzOKms9xjeJA6MsKDneGw.jpeg)
+![New squatted social centre Zizania, in the Viktoria area in Athens \(credit: [Anti\-Covid19 — Δίκτυο Αλληλοβοήθειας και Αγώνα](https://www.facebook.com/AntiCovidAidNetwork/?__cft__[0]=AZUj4JL3PxoEOJU8fW4JesIxhtBGs2urU8n4kNmKxCQEpzQ-yfgG-hpN0ArhebPEqslHBjva4njuWv4HHdq9yzTPg2bCvNICgo4XSmfvft8yCM5ouo0UfdiChIDN_ECyFXumoXAvjXtUh871JKBVvKbU&__tn__=-UC*F) \)](../assets/7585fa10599b/1*oxzOKms9xjeJA6MsKDneGw.jpeg)
 
 New squatted social centre Zizania, in the Viktoria area in Athens \(credit: [Anti\-Covid19 — Δίκτυο Αλληλοβοήθειας και Αγώνα](https://www.facebook.com/AntiCovidAidNetwork/?__cft__[0]=AZUj4JL3PxoEOJU8fW4JesIxhtBGs2urU8n4kNmKxCQEpzQ-yfgG-hpN0ArhebPEqslHBjva4njuWv4HHdq9yzTPg2bCvNICgo4XSmfvft8yCM5ouo0UfdiChIDN_ECyFXumoXAvjXtUh871JKBVvKbU&__tn__=-UC*F) \)
 
@@ -261,7 +261,7 @@ DENMARK
 #### **Syrian dies after being told to return**
 
 
-![\(Akram\. Photo Credit: [Ghassan Abrahem](https://www.facebook.com/ghassan.abrahem?__cft__[0]=AZVxa8oGfguk2rmlxB3QODhd9dFD968RB6grXB0CZZQJIW10A3q6t5vI2wrS3LfCygZ3hIc8wwu4nH3mEvwsjNuVxLqnQy6H2x9FiYmjfQx9pp5hAedTMUS0YEdcYnsHxKk&__tn__=-UC%2CP-R) \)](assets/7585fa10599b/1*p0ysc6S14r-H9A9ajKb1fg.jpeg)
+![\(Akram\. Photo Credit: [Ghassan Abrahem](https://www.facebook.com/ghassan.abrahem?__cft__[0]=AZVxa8oGfguk2rmlxB3QODhd9dFD968RB6grXB0CZZQJIW10A3q6t5vI2wrS3LfCygZ3hIc8wwu4nH3mEvwsjNuVxLqnQy6H2x9FiYmjfQx9pp5hAedTMUS0YEdcYnsHxKk&__tn__=-UC%2CP-R) \)](../assets/7585fa10599b/1*p0ysc6S14r-H9A9ajKb1fg.jpeg)
 
 \(Akram\. Photo Credit: [Ghassan Abrahem](https://www.facebook.com/ghassan.abrahem?__cft__[0]=AZVxa8oGfguk2rmlxB3QODhd9dFD968RB6grXB0CZZQJIW10A3q6t5vI2wrS3LfCygZ3hIc8wwu4nH3mEvwsjNuVxLqnQy6H2x9FiYmjfQx9pp5hAedTMUS0YEdcYnsHxKk&__tn__=-UC%2CP-R) \)
 
@@ -277,7 +277,7 @@ EU
 #### **BVMN records 1000th pushback**
 
 
-![](assets/7585fa10599b/1*CdWLRay5PCJLZAE2J-k4Tg.jpeg)
+![](../assets/7585fa10599b/1*CdWLRay5PCJLZAE2J-k4Tg.jpeg)
 
 
 Read full report [HERE](https://www.borderviolence.eu/violence-in-numbers-1000th-pushback-recorded-by-bvmn/?fbclid=IwAR1Ix788ggMduzdPK-Lgp7eCXSJDt8fOydABjxKrt6usdr3blp63TEABeoc) \.

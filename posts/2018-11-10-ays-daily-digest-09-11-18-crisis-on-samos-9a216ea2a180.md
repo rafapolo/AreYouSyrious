@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 09.11.18: Crisis on Samos
+title: "AYS Daily Digest 09.11.18: Crisis on Samos"
 author: Are You Syrious?
 date: 2018-11-10T02:17:39.908+0000
 last_modified_at: 2018-11-10T20:34:15.170+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,samos,greece,volunteer]
 description: Detention in Edirne//Italian authorities delay rescue//New arrivals//Deportations in Austria// and more…
 image:
-  path: assets/9a216ea2a180/1*FuWIBmdvzGnjvetPTQMg4w.jpeg
+  path: ../assets/9a216ea2a180/1*FuWIBmdvzGnjvetPTQMg4w.jpeg
 ---
 
 ### AYS Daily Digest 09\.11\.18: Crisis on Samos
@@ -15,7 +15,7 @@ image:
 Detentions in Edirne//Italian authorities delay rescue//New arrivals on the Aegean Islands// 14,000 pushed back from Bosnia this year //Deportations in Austria// and more…
 
 
-![People set up tents outside of the overcrowded detention camp on Samos\. Photo Credit: AYS](assets/9a216ea2a180/1*FuWIBmdvzGnjvetPTQMg4w.jpeg)
+![People set up tents outside of the overcrowded detention camp on Samos\. Photo Credit: AYS](../assets/9a216ea2a180/1*FuWIBmdvzGnjvetPTQMg4w.jpeg)
 
 People set up tents outside of the overcrowded detention camp on Samos\. Photo Credit: AYS
 #### Feature
@@ -40,17 +40,17 @@ The most recent report by the UNHCR states that there are approximately 4,310 pe
 However you split it, there are thousands of people crammed into the tiny hill\-side camp, and more people are seeking shelter in the woods every day\. The camp now has almost the same population as the surrounding Greek town of Vathy\.
 
 
-![The Samos camp is far over official capacity of 700\. On the upper right, many tents can be seen that people have set up outside the camp\. Photo Credit: AYS](assets/9a216ea2a180/1*gwnUW3kBI-4eTrcucpzWBg.jpeg)
+![The Samos camp is far over official capacity of 700\. On the upper right, many tents can be seen that people have set up outside the camp\. Photo Credit: AYS](../assets/9a216ea2a180/1*gwnUW3kBI-4eTrcucpzWBg.jpeg)
 
 The Samos camp is far over official capacity of 700\. On the upper right, many tents can be seen that people have set up outside the camp\. Photo Credit: AYS
 
 
-![The trailers seen on the right hand side in this photo are the safest housing in the camp\. However, the vast majority of the camp residents live in tents\.](assets/9a216ea2a180/1*NCWi24KPa7upN_kxiWqa3A.jpeg)
+![The trailers seen on the right hand side in this photo are the safest housing in the camp\. However, the vast majority of the camp residents live in tents\.](../assets/9a216ea2a180/1*NCWi24KPa7upN_kxiWqa3A.jpeg)
 
 The trailers seen on the right hand side in this photo are the safest housing in the camp\. However, the vast majority of the camp residents live in tents\.
 
 
-![For perspective, the camp on the top has nearly the same population as the town below\.](assets/9a216ea2a180/1*-qlop8YOgq-ga0fwNQK1jA.jpeg)
+![For perspective, the camp on the top has nearly the same population as the town below\.](../assets/9a216ea2a180/1*-qlop8YOgq-ga0fwNQK1jA.jpeg)
 
 For perspective, the camp on the top has nearly the same population as the town below\.
 
@@ -60,7 +60,7 @@ If you are looking to volunteer on Samos, the organization Samos Volunteers is l
 ### Libya
 
 
-![Eritreans refugees are being starved in the Al Furhaji Sebha detention cetner in Libya\. 08/11/18\. Photo Credit: [Giulia Tranchina](https://www.facebook.com/photo.php?fbid=10156235573613621&set=a.10150438475713621&type=3&theater&ifg=1) \.](assets/9a216ea2a180/1*JBlRcQgpZiN5kkKiKUIUsw.jpeg)
+![Eritreans refugees are being starved in the Al Furhaji Sebha detention cetner in Libya\. 08/11/18\. Photo Credit: [Giulia Tranchina](https://www.facebook.com/photo.php?fbid=10156235573613621&set=a.10150438475713621&type=3&theater&ifg=1) \.](../assets/9a216ea2a180/1*JBlRcQgpZiN5kkKiKUIUsw.jpeg)
 
 Eritreans refugees are being starved in the Al Furhaji Sebha detention cetner in Libya\. 08/11/18\. Photo Credit: [Giulia Tranchina](https://www.facebook.com/photo.php?fbid=10156235573613621&set=a.10150438475713621&type=3&theater&ifg=1) \.
 
@@ -125,7 +125,7 @@ The third boat arrived on Samos early in the morning, carrying 60 people \(no br
 #### Population on Aegean Island Camps, Greek Interior Ministry
 
 
-![Photo Credit: Aegean Boat Report](assets/9a216ea2a180/1*uhGDeB08RMcNCheXmfTAbQ.jpeg)
+![Photo Credit: Aegean Boat Report](../assets/9a216ea2a180/1*uhGDeB08RMcNCheXmfTAbQ.jpeg)
 
 Photo Credit: Aegean Boat Report
 
@@ -157,7 +157,7 @@ According to the official figures, over 21,000 people entered Bosnia this year, 
 An additional problem is that, due to the lack of accommodation, many people are forced to stay outside\. Winters in Bosnia are long and harsh, and it would be impossible to survive outside\. Not even blankets or sleeping bags will help, and all the efforts have to be directed toward finding a solution to accommodate people in need\. Hopefully, in dignified and human conditions, which is not the case so far\.
 
 
-![BIRA camp, hundreds of people sleep together, with no possibility for privicy\. Phot AYS\.](assets/9a216ea2a180/1*CVHE5MWq14mPiKN_YCpxRQ.jpeg)
+![BIRA camp, hundreds of people sleep together, with no possibility for privicy\. Phot AYS\.](../assets/9a216ea2a180/1*CVHE5MWq14mPiKN_YCpxRQ.jpeg)
 
 BIRA camp, hundreds of people sleep together, with no possibility for privicy\. Phot AYS\.
 
@@ -180,15 +180,15 @@ Many people in Kladusa, locals and refugees, were really unhappy\. However, than
 Lemon foundation provided support for the whole month of November, and they are starting to work hard to ensure that in December the restaurant can also continue to run\. Help if you can\.
 
 
-![](assets/9a216ea2a180/1*2wcYiwrv222GqN3gE4IWyQ.jpeg)
+![](../assets/9a216ea2a180/1*2wcYiwrv222GqN3gE4IWyQ.jpeg)
 
 
 
-![](assets/9a216ea2a180/1*QbfHhODnYWgIWM3VZ3WqvQ.jpeg)
+![](../assets/9a216ea2a180/1*QbfHhODnYWgIWM3VZ3WqvQ.jpeg)
 
 
 
-![Photos by SOS Team Kladusa\.](assets/9a216ea2a180/1*S2S69R3ctCYRR2xT_egxZA.jpeg)
+![Photos by SOS Team Kladusa\.](../assets/9a216ea2a180/1*S2S69R3ctCYRR2xT_egxZA.jpeg)
 
 Photos by SOS Team Kladusa\.
 ### Austria

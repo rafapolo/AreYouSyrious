@@ -1,5 +1,5 @@
 ---
-title: AYS digest 8/9: 73 Syrian NGOs have stopped cooperation with UN
+title: "AYS digest 8/9: 73 Syrian NGOs have stopped cooperation with UN"
 author: Are You Syrious?
 date: 2016-09-08T22:31:17.113+0100
 last_modified_at: 2016-09-08T22:38:51.518+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,europe,syria,unhcr,migration]
 description: Only 2,9% of promised 160,000 refugees have been relocated in the first year of a 2-year EU program. Warm, waterproof clothes and shoes…
 image:
-  path: assets/d966a1c40234/1*aD4EQlB8Be20oyjNq71-vg.jpeg
+  path: ../assets/d966a1c40234/1*aD4EQlB8Be20oyjNq71-vg.jpeg
 ---
 
 ### AYS digest 8/9: 73 Syrian NGOs have stopped cooperation with UN
 #### Only 2,9% of promised 160,000 refugees have been relocated in the first year of a 2\-year EU program\. Warm, waterproof clothes and shoes needed again as the winter approaches\. Serious food shortage in overpopulated Calais camp\.
 
 
-![Syrian Civil Defense \(White Helmets\) have pulled from any cooperation with UN’s agencies in the country\. Photo: The White Helmets](assets/d966a1c40234/1*aD4EQlB8Be20oyjNq71-vg.jpeg)
+![Syrian Civil Defense \(White Helmets\) have pulled from any cooperation with UN’s agencies in the country\. Photo: The White Helmets](../assets/d966a1c40234/1*aD4EQlB8Be20oyjNq71-vg.jpeg)
 
 Syrian Civil Defense \(White Helmets\) have pulled from any cooperation with UN’s agencies in the country\. Photo: The White Helmets
 #### SYRIA
@@ -30,7 +30,7 @@ Today, 73 different NGO’s working on humanitarian response to Syria and neighb
 
 
 
-![Bashar al Assad and his wife posing for journalists at a food distribution centre in Damascus\. Photo: AFP](assets/d966a1c40234/1*cltT82fW5kepBmhflgUA-g.jpeg)
+![Bashar al Assad and his wife posing for journalists at a food distribution centre in Damascus\. Photo: AFP](../assets/d966a1c40234/1*cltT82fW5kepBmhflgUA-g.jpeg)
 
 Bashar al Assad and his wife posing for journalists at a food distribution centre in Damascus\. Photo: AFP
 
@@ -42,7 +42,7 @@ The besieged Syrian town of Madaya has seen a worrying increase in suicide attem
 ### Only 2,9% of promised 160,000 refugees have been relocated in the first year of a 2\-year EU program
 
 
-![Thousands are left in inhumane conditions, waiting for the EU to fulfil its promises\. Photo: [Refugee Support Greece](https://www.facebook.com/RefugeeSupportGreece/)](assets/d966a1c40234/1*ISe_oGCy40aqFlRZTByYwg.jpeg)
+![Thousands are left in inhumane conditions, waiting for the EU to fulfil its promises\. Photo: [Refugee Support Greece](https://www.facebook.com/RefugeeSupportGreece/)](../assets/d966a1c40234/1*ISe_oGCy40aqFlRZTByYwg.jpeg)
 
 Thousands are left in inhumane conditions, waiting for the EU to fulfil its promises\. Photo: [Refugee Support Greece](https://www.facebook.com/RefugeeSupportGreece/)
 
@@ -63,7 +63,7 @@ LGBT refugees are one of the most vulnerable groups, but often not recognised as
 ### New volunteer initiative provides eyeglasses to refugee kids who lost them on their way to safety
 
 
-![Many children have lost, broken or overgrown their glasses on a turbulent way to Greece\. Photo: ESBWN](assets/d966a1c40234/1*bePzw2y-b2p__2Qi9Zxibw.jpeg)
+![Many children have lost, broken or overgrown their glasses on a turbulent way to Greece\. Photo: ESBWN](../assets/d966a1c40234/1*bePzw2y-b2p__2Qi9Zxibw.jpeg)
 
 Many children have lost, broken or overgrown their glasses on a turbulent way to Greece\. Photo: ESBWN
 
@@ -78,7 +78,7 @@ According to [Greek press](http://www.ekathimerini.com/211841/article/ekathimeri
 ### Winter clothes and shoes needed as the weather gets colder, and more refugees arrive on daily basis
 
 
-![Miksaliste is reporting a shortage of warm slothes and shoes, especially for kids and women\. Photo: Miksaliste](assets/d966a1c40234/1*AIaDYgfhQozDzgn25sgH9Q.jpeg)
+![Miksaliste is reporting a shortage of warm slothes and shoes, especially for kids and women\. Photo: Miksaliste](../assets/d966a1c40234/1*AIaDYgfhQozDzgn25sgH9Q.jpeg)
 
 Miksaliste is reporting a shortage of warm slothes and shoes, especially for kids and women\. Photo: Miksaliste
 
@@ -95,7 +95,7 @@ In Hungary, [International Relations for Peace](https://www.facebook.com/IRPeace
 ### Croatia shows its ugly face, brings little refugee sisters and their loving mother to tears
 
 
-![Iranian sisters Negar and Malania managed to learn the language in only five months\. Photo: 24sata](assets/d966a1c40234/1*CPSE7hiB54xBmpi2ArR-Jw.jpeg)
+![Iranian sisters Negar and Malania managed to learn the language in only five months\. Photo: 24sata](../assets/d966a1c40234/1*CPSE7hiB54xBmpi2ArR-Jw.jpeg)
 
 Iranian sisters Negar and Malania managed to learn the language in only five months\. Photo: 24sata
 
@@ -115,7 +115,7 @@ Our colleague Rando Wagner has published a report from Calais camp, warning that
 With Eid coming on September 11th, Calais kitchens would also like to provide normalcy distributing biscuits & dates on what’s meant to be a happy day full of celebrating and treats\. You can either send those items strait to the camp, or make a donation on this [link](https://mydonate.bt.com/donation/start.html?charity=152188) \.
 
 
-![](assets/d966a1c40234/1*zGYt73BRu0Jnpd1H3AfKyQ.jpeg)
+![](../assets/d966a1c40234/1*zGYt73BRu0Jnpd1H3AfKyQ.jpeg)
 
 
 With 676 unaccompanied children in Calais, according to last month’s census, many people want to help these children stuck in limbo\. There are many ways you can positively help, with specific donations of much needed items\. You can also help support the legal battle by Citizens UK’s Safe Passage team in getting the unaccompanied kids entitled to family reunification in the UK under Dubs a reality\. Today, they celebrate getting the 50th child to the UK safely\. You can also find their fundraiser [here](https://www.justgiving.com/fundraising/safe-passage) \.

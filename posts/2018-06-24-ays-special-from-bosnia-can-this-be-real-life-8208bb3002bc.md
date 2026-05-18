@@ -1,5 +1,5 @@
 ---
-title: AYS SPECIAL from Bosnia: Can this be real life?
+title: "AYS SPECIAL from Bosnia: Can this be real life?"
 author: Are You Syrious?
 date: 2018-06-24T18:30:37.748+0100
 last_modified_at: 2018-06-25T09:26:34.043+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,special,bosnia,bihac,velika-kladuša]
 description: Bihać, a city on the banks of the beautiful river Una, has about 61,000 inhabitants. The city is about 16 kilometers from the border with…
 image:
-  path: assets/8208bb3002bc/1*FSBNzWuE5EPrYNjCq5HxEw.jpeg
+  path: ../assets/8208bb3002bc/1*FSBNzWuE5EPrYNjCq5HxEw.jpeg
 ---
 
 ### AYS SPECIAL from Bosnia: Can this be real life?
@@ -15,7 +15,7 @@ image:
 _Bihać, a city on the banks of the beautiful river Una, has about 61,000 inhabitants\. The city is about 16 kilometers from the border with Croatia, and today it still shows many traces of the war\. According to official sources in this city there is around 1,500 refugees\. About the same number of people are also in the nearby town of Velika Kladuša\. A story about these two cities and refugees by two Italian independent volunteers_
 
 
-![](assets/8208bb3002bc/1*FSBNzWuE5EPrYNjCq5HxEw.jpeg)
+![](../assets/8208bb3002bc/1*FSBNzWuE5EPrYNjCq5HxEw.jpeg)
 
 
 On Sunday 17 June, we visited a big building called Đački dom in Bihać, where about 600 people reside\. The building is left unfinished because of the war in this country \(from 1992 to 1996\) \. Today the building is totally ruined and very dangerous due to stairs and the balconies without railings as well as big holes in the floors\.
@@ -25,7 +25,7 @@ Our group of volunteers have been to this place before, during our first trip, a
 The municipality has installed electricity and placed toilets, toilets and showers, in totally inadequate numbers — there is only one tap for water \-, monitoring everything with the police, who are rather easy going at the moment\.
 
 
-![](assets/8208bb3002bc/1*Op-Kg79sHk7ODwIVmr7mLA.jpeg)
+![](../assets/8208bb3002bc/1*Op-Kg79sHk7ODwIVmr7mLA.jpeg)
 
 
 In this place, but also in the main city park, Afghans, Pakistanis, Syrians, Iranians, Kurds, Iraqis are surviving together\. Whole families with many children and even infants\. All point towards Europe, many towards Italy\.
@@ -51,7 +51,7 @@ About ten kilometers from the border with Croatia, we met another couple who cam
 The attempts will not cease … it is only the hope that keeps this mass of desperate people alive\.
 
 
-![](assets/8208bb3002bc/1*hgCs0gEPcPrmp4EILtmPPg.jpeg)
+![](../assets/8208bb3002bc/1*hgCs0gEPcPrmp4EILtmPPg.jpeg)
 
 
 We have collaborated with the Red Cross volunteer team, who are working to provide for people in this area\. From what we saw, the Red Cross is working working very hard and trying to be consistent in a terrible situation\. The Red Cross provides a daily meal — a soup with pieces of meat and bread and a little breakfast — inside the building, on tables that are then dismounted\. The Red Cross’s resources come mostly from local aid, but have been recently doubled by international aid\.
@@ -61,7 +61,7 @@ One striking thing is the tolerant, non\-hostile attitude of the population, and
 On the morning of Sunday 17 June, we left Bihać for Velika Kladuša\. This town has about 40,000 inhabitants and is only a few kilometers from the Croatian border\. We visited, with our friend as a guide, a small refugee centre, in the place of the disused municipal slaughterhouse\.
 
 
-![](assets/8208bb3002bc/1*6oVxxt_9ZHrhVAeacljqYA.jpeg)
+![](../assets/8208bb3002bc/1*6oVxxt_9ZHrhVAeacljqYA.jpeg)
 
 
 With two other volunteers, we tried to make the building livable\. There are dozens of people living in two dilapidated containers there\. A few hundred meters away, really close to the border that passes around the hills covered by woods, there is a camp of about three hundred refugees, with tents and makeshift shelters: numerous families with children\. The camp is guarded at the entrance by an employee of the Municipality who, however, does not prevent anyone from entering\. The border police instead fly over the area with two helicopters commuting from Velika Kladuša to Bihać\.
@@ -71,13 +71,13 @@ On this Sunday in June when we arrived at the camp it had rained a lot\. The gro
 Everywhere small fires for cooking unlikely soups produced a thick smoke from the branches and wet wood\. A young girl was trying to cut a huge log with a saw that she could not even hold in her thin hands\. A child ran with an umbrella playing to burn it with the flames of an abandoned fire\. He did not have shoes and the mud had created scabs on his feet\.
 
 
-![](assets/8208bb3002bc/1*qTAt70Ee96q8hYHGZ75xrw.jpeg)
+![](../assets/8208bb3002bc/1*qTAt70Ee96q8hYHGZ75xrw.jpeg)
 
 
 Another boy took us by the hand and carried around the tents, eager to play and be touched and held\. The women, coming out of their shells of tents, invited us to drink tea and listen to their stories of despair\. Almost always the only question was: why do not they want us? When don’t they open the border? Then, holding back the tears, they recomposed themselves in mute pain\. They showed us their newborns, offered their smiles and their friendliness\. We found a huge dignity in that mud, in that slime of the field\.
 
 
-![](assets/8208bb3002bc/1*uSpsjaMohnpQ-hXqKKpC7A.jpeg)
+![](../assets/8208bb3002bc/1*uSpsjaMohnpQ-hXqKKpC7A.jpeg)
 
 
 **_This special was written by two indpeendent volunteers from Italy, Lorena Fornasir and Gian Andrea Franchi\. “_** We made two trips to the border between Bosnia and Croatia, from 1st to 3rd June in Bihać, and from 15 to 17 June Bihać and Velika Kladuša, the two locations where there are stranded groups of refugees by the borders between the two countries\. We accompanied as independent volunteers the group [One bridge to Idomeni](https://www.facebook.com/1Bridge2Idomeni/) , who have started a regular operation in Bihać\. Our first visit was for informational purposes, and the second time we came with material aid and money that we delivered to the Red Cross of Bihać \( [Crveni križ Grada Bihaća](https://www.facebook.com/CrveniKrizBihac/) \) \.”

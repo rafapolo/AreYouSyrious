@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 12/03/2021: Alarm Phone warns about suspected pushback in Evros region
+title: "AYS Daily Digest 12/03/2021: Alarm Phone warns about suspected pushback in Evros region"
 author: Are You Syrious?
 date: 2021-03-13T14:04:28.693+0000
 last_modified_at: 2021-03-13T14:04:28.693+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,bosnia,greece,malta]
 description: Group of nine people missing // Low protection from Covid-19 in Greece // Police Violence in Morocco // Increase of people in Bosnian…
 image:
-  path: assets/f9613fb2211e/0*1F2wU49ZhyKG8TmS.jpeg
+  path: ../assets/f9613fb2211e/0*1F2wU49ZhyKG8TmS.jpeg
 ---
 
 ### AYS Daily Digest 12/03/2021: Alarm Phone warns about suspected pushback in Evros region
 ### Group of nine people missing // Low protection from Covid\-19 in Greece // Police Violence in Morocco // Increase of people in Bosnian border region // CPT slams Malta
 
 
-![](assets/f9613fb2211e/0*xymSDEPZzro6_L6a.jpeg)
+![](../assets/f9613fb2211e/0*xymSDEPZzro6_L6a.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----74ece44c51af--------------------------------)
@@ -22,11 +22,11 @@ image:
 [Mar 13](ays-daily-digest-12-03-2021-alarm-phone-warns-about-suspected-pushback-in-evros-region-74ece44c51af?source=post_page-----74ece44c51af--------------------------------) · 5 min read
 
 
-![](assets/f9613fb2211e/0*wTzWXtMOcSU68ykt)
+![](../assets/f9613fb2211e/0*wTzWXtMOcSU68ykt)
 
 
 
-![](assets/f9613fb2211e/0*1F2wU49ZhyKG8TmS.jpeg)
+![](../assets/f9613fb2211e/0*1F2wU49ZhyKG8TmS.jpeg)
 
 ### Greece
 

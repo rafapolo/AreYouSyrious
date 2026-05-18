@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,greece,ngos]
 description: Illegal Pushbacks in Cyprus///Mob Violence near Velika Kladuša Against People on the Move///Judge Stops Housing Discrimination in…
 image:
-  path: assets/6d7e08015a6e/0*eCuZyEjbAnHq96v0
+  path: ../assets/6d7e08015a6e/0*eCuZyEjbAnHq96v0
 ---
 
 ### AYS Daily Digest 29/09/2020—Greece Ramps Up Persecution of NGOs
 #### Illegal Pushbacks in Cyprus///Mob Violence near Velika Kladuša Against People on the Move///Judge Stops Housing Discrimination in Trento///&More
 
 
-![Photo Credit: [Parwana Amiri](https://twitter.com/parwana_amiri/status/1310833602805092354?fbclid=IwAR0iUsm4AGZ2Ng6BDnDUcGGQmByPNYIylPgBhcbZ2yHRIzueUW-leBKgloA)](assets/6d7e08015a6e/0*eCuZyEjbAnHq96v0)
+![Photo Credit: [Parwana Amiri](https://twitter.com/parwana_amiri/status/1310833602805092354?fbclid=IwAR0iUsm4AGZ2Ng6BDnDUcGGQmByPNYIylPgBhcbZ2yHRIzueUW-leBKgloA)](../assets/6d7e08015a6e/0*eCuZyEjbAnHq96v0)
 
 Photo Credit: [Parwana Amiri](https://twitter.com/parwana_amiri/status/1310833602805092354?fbclid=IwAR0iUsm4AGZ2Ng6BDnDUcGGQmByPNYIylPgBhcbZ2yHRIzueUW-leBKgloA)
 
@@ -84,7 +84,7 @@ All over Europe, people are expressing their solidarity with Pikpa camp, which t
 Pro Asyl and RSA [published a statement](https://www.proasyl.de/news/schliessung-von-pikpa-griechenland-will-elendscamps-alternativlos-machen/?fbclid=IwAR1OQBBmvhP4uQu60asKx4hRaaavuapOAiMUFp5UxD1gElWzHXzN9q6HwLw) calling for the defense of the last humane accomodation on Lesvos and warning about the consequences if everyone is funneled into Moria 2\.0\.
 
 
-![Beautiful graphic courtesy of [NODE Berlin Oslo](https://www.facebook.com/nodeberlinoslo/)](assets/6d7e08015a6e/0*DgmIAi8_Xl1dsgOn)
+![Beautiful graphic courtesy of [NODE Berlin Oslo](https://www.facebook.com/nodeberlinoslo/)](../assets/6d7e08015a6e/0*DgmIAi8_Xl1dsgOn)
 
 Beautiful graphic courtesy of [NODE Berlin Oslo](https://www.facebook.com/nodeberlinoslo/)
 #### BALKANS
@@ -150,7 +150,7 @@ It was recently revealed that the UK Home Secretary Priti Patel asked officials 
 Immigration minister Chris Phelps claimed in parliament that the UK cannot take any more unaccompanied minors as the country is at a “ [breaking point,](https://www.independent.co.uk/news/uk/politics/refugee-children-migrant-crisis-greece-europe-breaking-point-uk-b692154.html?fbclid=IwAR0iUsm4AGZ2Ng6BDnDUcGGQmByPNYIylPgBhcbZ2yHRIzueUW-leBKgloA) ” rhetoric that dangerously echoes Nigel Farage\. He claimed that the UK has the most unaccompanied minors of any European country, which is blatantly untrue\. Not only does the UK refuse to accept more children, it denies basic rights to unaccompanied minors in its “care,” such as the right to be [reunited with their families](https://www.amnesty.org.uk/actions/families-together?fbclid=IwAR3PRTEUHiMfmbIucc1ivLpdoLq48JNc1WfC_BJ1Wrh87xiInTENTRpz4WY) \. Phelps justified the opposition to family reunification by claiming the policy is an incentive for smugglers\.
 
 
-![Locals made this beautiful sign in Tenby, Wales as a sign of support to people on the move\. Photo credits and story via [Choose Love](https://www.facebook.com/chooselove/photos/a.123267671367248/1251847671842570/)](assets/6d7e08015a6e/0*8KtwksuBXGlGoWmA)
+![Locals made this beautiful sign in Tenby, Wales as a sign of support to people on the move\. Photo credits and story via [Choose Love](https://www.facebook.com/chooselove/photos/a.123267671367248/1251847671842570/)](../assets/6d7e08015a6e/0*8KtwksuBXGlGoWmA)
 
 Locals made this beautiful sign in Tenby, Wales as a sign of support to people on the move\. Photo credits and story via [Choose Love](https://www.facebook.com/chooselove/photos/a.123267671367248/1251847671842570/)
 #### IRELAND

@@ -1,5 +1,5 @@
 ---
-title: AYS NEWS DIGEST 13.09.2016: Speed up, Europe! Winter is coming
+title: "AYS NEWS DIGEST 13.09.2016: Speed up, Europe! Winter is coming"
 author: Are You Syrious?
 date: 2016-09-14T02:50:03.331+0100
 last_modified_at: 2016-09-15T02:18:01.907+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,united-nations,greece,france]
 description: More than 60,000 refugees stranded in Greece while the country is struggling with decisions, finances and divisions. Back to school — not…
 image:
-  path: assets/dd80587a74dd/1*RBBa3tNeP921i2JfdsP4Gw.jpeg
+  path: ../assets/dd80587a74dd/1*RBBa3tNeP921i2JfdsP4Gw.jpeg
 ---
 
 ### AYS NEWS DIGEST 13\.09\.2016: Speed up, Europe\! Winter is coming
@@ -15,7 +15,7 @@ image:
 _More than 60,000 refugees stranded in Greece while the country is struggling with decisions, finances and divisions\. Back to school — not for everyone\! UNHCR urges speeding up the registration of candidates for relocation\. Refugees drown in Danube\. Foreign minister of Luxembourg suggests expelling Hungary from the EU\. Horrible conditions in Italian ‘welcome centre’\. French planning to close Calais and relocate its residents in France\. Pressure from all sides ahead of the New York UN Summit_
 
 
-![Photo: Through Refugee Eyes](assets/dd80587a74dd/1*RBBa3tNeP921i2JfdsP4Gw.jpeg)
+![Photo: Through Refugee Eyes](../assets/dd80587a74dd/1*RBBa3tNeP921i2JfdsP4Gw.jpeg)
 
 Photo: Through Refugee Eyes
 #### **AFGHANISTAN**
@@ -35,7 +35,7 @@ As many as 5,000 refugees are forced to return each day from Pakistan\. UN’s e
 Greek islands were officially hosting **13171** refugee on Tuesday morning, according to the data provided by the Greek government\.
 
 
-![One of the boats that arrived this morning had 29 children abroad\. One of the Portuguese Frontex officers made sure to bring back smiles on their faces with hand glove balloons\. \(Photo: Isabel Cardenas Rodriguez\)](assets/dd80587a74dd/1*15iggnJ8OWDp99kbFJf17A.jpeg)
+![One of the boats that arrived this morning had 29 children abroad\. One of the Portuguese Frontex officers made sure to bring back smiles on their faces with hand glove balloons\. \(Photo: Isabel Cardenas Rodriguez\)](../assets/dd80587a74dd/1*15iggnJ8OWDp99kbFJf17A.jpeg)
 
 One of the boats that arrived this morning had 29 children abroad\. One of the Portuguese Frontex officers made sure to bring back smiles on their faces with hand glove balloons\. \(Photo: Isabel Cardenas Rodriguez\)
 ### **Tensions among politicians following those among refugees**
@@ -47,19 +47,19 @@ In related development to the recent protest on Kos, island that hosts 1540 refu
 Last week, parents of the children at the 1st Primary School in Oraiokastro took an unanimous decision not to allow refugee children enroll ‘their’ school\. This Tuesday, the same happened at another school in the area \(the 5th Primary school\) \.
 
 
-![Even though the refugee children are yet to start school by the end of this month, the parents association has said its members would occupy the building in protest if refugees from nearby camps are allowed to attend lessons\.](assets/dd80587a74dd/1*fdCfBxiln1yv9b6RUKDDnw.jpeg)
+![Even though the refugee children are yet to start school by the end of this month, the parents association has said its members would occupy the building in protest if refugees from nearby camps are allowed to attend lessons\.](../assets/dd80587a74dd/1*fdCfBxiln1yv9b6RUKDDnw.jpeg)
 
 Even though the refugee children are yet to start school by the end of this month, the parents association has said its members would occupy the building in protest if refugees from nearby camps are allowed to attend lessons\.
 
 “Fortunately this is the reaction of a very small minority of parents,” Education Minister Nikos Fylis said, adding that health concerns were “unjustified” as an immunization program is included in the school integration scheme, [Ekathimerini](http://www.ekathimerini.com/211998/article/ekathimerini/news/migration-official-quits-amid-fears-over-tension) reports\.
 
 
-![First day of school in Athens \(Photo by Eiman, Afghanistan\)](assets/dd80587a74dd/1*efaIFLkFVRuS1zrN94SoQQ.jpeg)
+![First day of school in Athens \(Photo by Eiman, Afghanistan\)](../assets/dd80587a74dd/1*efaIFLkFVRuS1zrN94SoQQ.jpeg)
 
 First day of school in Athens \(Photo by Eiman, Afghanistan\)
 
 
-![Photo: Refugee Accommodation Space City Plaza](assets/dd80587a74dd/1*x3uhC6oZcoU5eABv8LFtVQ.jpeg)
+![Photo: Refugee Accommodation Space City Plaza](../assets/dd80587a74dd/1*x3uhC6oZcoU5eABv8LFtVQ.jpeg)
 
 Photo: Refugee Accommodation Space City Plaza
 
@@ -138,13 +138,13 @@ In a long text that elaborates the life there in detail, calling it hell, he [st
 A silent plan of distribution and housing of around 12,000 refugees from the Calais Jungle has been revealed by the French newspaper [Le Figaro](http://www.lefigaro.fr/actualite-france/2016/09/12/01016-20160912ARTFIG00252-le-plan-du-gouvernement-pour-repartir-les-migrants-de-calais-dansles-regions.php?redirect_premium,) \. According to their findings, these people, most of who didn’t come there with the intention to stay in France, but would rather join their families or friends in the UK, will be resettled in the so called reception and orientation centres around France, excluding the Paris area that is, along with Calais, one of the focal points of the refugees\.
 
 
-![](assets/dd80587a74dd/1*liGPc4ehVcTebzDFy3ujHQ.jpeg)
+![](../assets/dd80587a74dd/1*liGPc4ehVcTebzDFy3ujHQ.jpeg)
 
 
 Refugee Women’s Centre, a safe space for the women and children of La Linière refugee camp in Dunkirk, northern France, is looking for volunteers\. Their current volunteers are leaving in a month time and all women volunteers willing to join them can contact [sarah\.benabou@hotmail\.fr](mailto:sarah.benabou@hotmail.fr) or [refugeeswomenscentre@gmail\.com](mailto:refugeeswomenscentre@gmail.com)
 
 
-![Photo: Kitchen in Calais](assets/dd80587a74dd/1*CPW98dA90CWBykkdIrwPyA.jpeg)
+![Photo: Kitchen in Calais](../assets/dd80587a74dd/1*CPW98dA90CWBykkdIrwPyA.jpeg)
 
 Photo: Kitchen in Calais
 #### UK
@@ -161,7 +161,7 @@ Many British people have responded to the tragedy they see unfolding on their do
 
 
 
-![](assets/dd80587a74dd/1*hcDwxzLecVFeC_fraHcG9g.jpeg)
+![](../assets/dd80587a74dd/1*hcDwxzLecVFeC_fraHcG9g.jpeg)
 
 ### UN
  
@@ -172,7 +172,7 @@ From [petitions](https://act.one.org/sign/education_refugees_int/) calling for g
 The American president Obama used the opportunity while congratulating the Muslim holiday of Eid al\-Adha to remind the American people of their commitment to welcome the stranger with empathy and open heart, [calling for acceptance of refugees](http://www.washingtontimes.com/news/2016/sep/12/obama-marks-muslim-holiday-call-accept-refugees/?utm_source=RSS_Feed&utm_medium=RSS) \.
 
 
-![Syrian girl in a refugee camp, cleaning her shoes to wear them for the feast of Eid \(Photo: Mohamad Hadi Almadani\)](assets/dd80587a74dd/1*53qezY0buqMJKP2fJYE0Uw.jpeg)
+![Syrian girl in a refugee camp, cleaning her shoes to wear them for the feast of Eid \(Photo: Mohamad Hadi Almadani\)](../assets/dd80587a74dd/1*53qezY0buqMJKP2fJYE0Uw.jpeg)
 
 Syrian girl in a refugee camp, cleaning her shoes to wear them for the feast of Eid \(Photo: Mohamad Hadi Almadani\)
 

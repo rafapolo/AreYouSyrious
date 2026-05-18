@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 16.01.19: Fire in Moria Camp
+title: "AYS Daily Digest 16.01.19: Fire in Moria Camp"
 author: Are You Syrious?
 date: 2019-01-17T03:46:53.577+0000
 last_modified_at: 2019-01-17T13:38:18.307+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,moria,lesvos,volunteer,digest]
 description: NGOs call on Spain to search for 54 missing//Will Greece investigate the alleged pushback that resulted in a child’s death?//daily life in…
 image:
-  path: assets/839f424af599/1*y-9ETs-Y4LAfuYDlMF7jPQ.jpeg
+  path: ../assets/839f424af599/1*y-9ETs-Y4LAfuYDlMF7jPQ.jpeg
 ---
 
 ### AYS Daily Digest 16\.01\.19: Fire in Moria Camp
@@ -15,7 +15,7 @@ image:
 _NGOs call on Spain to search for 54 missing//Will Greece investigate the alleged pushback that resulted in a child’s death?//Daily life in Sid, Serbia //Solidarity in Bosnia//Rescued people face push\-back in Croatia//Evictions announced in Paris//and more…_
 
 
-![](assets/839f424af599/1*y-9ETs-Y4LAfuYDlMF7jPQ.jpeg)
+![](../assets/839f424af599/1*y-9ETs-Y4LAfuYDlMF7jPQ.jpeg)
 
 
 A fire started in one of the large tents at the Olive Grove camp in Lesvos around noon on Wednesday\. The tent burned all the way down, but fortunately the fire was contained by firefighters before it spread\. [A video of the fire](https://www.facebook.com/omar.alshakal/videos/vb.100012927578167/603042026803378/?type=2&theater) was posted on facebook\.
@@ -25,7 +25,7 @@ There are currently no reports of serious injuries\.
 Volunteers on the island are working to help the people who lived in the tents to get them new shelter\.
 
 
-![“Today we sadly saw the big tent burn down\. Luckily though, nobody was hurt, so we’re very thankful for that\. We want to thank everyone who helped us with the damage control: together we made sure the guys who used to live in the rubhall will find a new warm tent with heaters, sleeping bags, blankets, new clothes, and food\. Even until now, we have a strong team on the ground💪Thanks @movementontheground @becausewecarry and to all the people that reached out to us to offer help and support, we really appreciate that\. Now we continue to improve the situation here, and we will not stop until we do so\. Photo Credit: Ali Mular](assets/839f424af599/1*XYySA4dP9SuQb3ge8H8gng.jpeg)
+![“Today we sadly saw the big tent burn down\. Luckily though, nobody was hurt, so we’re very thankful for that\. We want to thank everyone who helped us with the damage control: together we made sure the guys who used to live in the rubhall will find a new warm tent with heaters, sleeping bags, blankets, new clothes, and food\. Even until now, we have a strong team on the ground💪Thanks @movementontheground @becausewecarry and to all the people that reached out to us to offer help and support, we really appreciate that\. Now we continue to improve the situation here, and we will not stop until we do so\. Photo Credit: Ali Mular](../assets/839f424af599/1*XYySA4dP9SuQb3ge8H8gng.jpeg)
 
 “Today we sadly saw the big tent burn down\. Luckily though, nobody was hurt, so we’re very thankful for that\. We want to thank everyone who helped us with the damage control: together we made sure the guys who used to live in the rubhall will find a new warm tent with heaters, sleeping bags, blankets, new clothes, and food\. Even until now, we have a strong team on the ground💪Thanks @movementontheground @becausewecarry and to all the people that reached out to us to offer help and support, we really appreciate that\. Now we continue to improve the situation here, and we will not stop until we do so\. Photo Credit: Ali Mular
 

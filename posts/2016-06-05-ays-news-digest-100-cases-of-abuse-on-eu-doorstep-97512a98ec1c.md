@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest: 100+ Cases of Abuse on EU Doorstep — Hungarian Border
+title: "AYS News Digest: 100+ Cases of Abuse on EU Doorstep — Hungarian Border"
 author: Are You Syrious?
 date: 2016-06-05T01:26:25.749+0100
 last_modified_at: 2016-06-05T07:40:23.671+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: The United Nations to formally request approval from the Syrian government to conduct humanitarian aid airdrops to besieged areas. 55 and…
 image:
-  path: assets/97512a98ec1c/1*dT_cLT-Qzm-YmFFwsn1XUA.jpeg
+  path: ../assets/97512a98ec1c/1*dT_cLT-Qzm-YmFFwsn1XUA.jpeg
 ---
 
 ### AYS News Digest: 100\+ Cases of Abuse on EU Doorstep — Hungarian Border
@@ -15,7 +15,7 @@ image:
 The United Nations to formally request approval from the Syrian government to conduct humanitarian aid airdrops to besieged areas\. 55 and more casualties reported in and around Baghdad as four suicide bombings rocked the capital\. Confirmed death toll climbs to ten in shipwreck off Crete\. Her Highness Qatari Sheikh Moza bint Nasser met with Italian prime minister discuss ensuring educational access to refugees\. Rumors about post\-20/3/2016 Greece arrivals ineligible for relocation FALSE\. 100\+ abuse cases at the Serbian\-Hungarian border\. Swiss vote on “more fair, faster” asylum procedures\.
 
 
-![Sindos Refugee Camp Photo Credit: Ignacio Marin Photography](assets/97512a98ec1c/1*dT_cLT-Qzm-YmFFwsn1XUA.jpeg)
+![Sindos Refugee Camp Photo Credit: Ignacio Marin Photography](../assets/97512a98ec1c/1*dT_cLT-Qzm-YmFFwsn1XUA.jpeg)
 
 Sindos Refugee Camp Photo Credit: Ignacio Marin Photography
 #### SYRIA
@@ -36,11 +36,11 @@ As many as 50,000 civilians are trapped in the city, with thousands of civilians
 There have been many reports of escaped sex slaves from Fallujah, with some women and minors being brought from as far as Sinjar, nearly 300 miles away\.
 
 
-![](assets/97512a98ec1c/1*3cJeYwcCigP1yknPibDukQ.jpeg)
+![](../assets/97512a98ec1c/1*3cJeYwcCigP1yknPibDukQ.jpeg)
 
 
 
-![Destruction after Samos Fires\. Photo Credit: Calais Aid](assets/97512a98ec1c/1*hllRQatGHsMABa8yKbUEHQ.jpeg)
+![Destruction after Samos Fires\. Photo Credit: Calais Aid](../assets/97512a98ec1c/1*hllRQatGHsMABa8yKbUEHQ.jpeg)
 
 Destruction after Samos Fires\. Photo Credit: Calais Aid
 #### MEDITERRANEAN
@@ -55,7 +55,7 @@ In the aftermath of the ship that capsized off the shores of Crete on Friday, th
 Both officials acknowledged the breadth and complexity of the issue, with 121 million children being trapped away from school worldwide\. Her Highness Moza bint Nasser is president of the “Education Above All” foundation, which has offered education to 7 million children, hoping to expand its reach to 10 million by the end of the year\. This includes the target of 1 million Syrian refugee children\.
 
 
-![Idomeni Post\-Eviction Photo Credit: Ignacio Marin Photography](assets/97512a98ec1c/1*vUUwTPEUZ0HHPnbE7rKh5A.jpeg)
+![Idomeni Post\-Eviction Photo Credit: Ignacio Marin Photography](../assets/97512a98ec1c/1*vUUwTPEUZ0HHPnbE7rKh5A.jpeg)
 
 Idomeni Post\-Eviction Photo Credit: Ignacio Marin Photography
 #### GREECE
@@ -64,7 +64,7 @@ Idomeni Post\-Eviction Photo Credit: Ignacio Marin Photography
 Volunteers report that there is a rumor going around that refugees arriving in Greece or Italy after 20/3/3016 and fulfill all other eligibility requirements are no longer eligible for relocation\. This is not the case as no legal updates have been made to bar post\-20th arrivals from relocation\. “The serious problems with the EU relocation scheme are political and procedural,” reports one volunteer, “not about legal eligibility for post\-20th arrivals…\. \[post\-20th arrivals being barred\] would require valid legislation to amend the Relocation Decision 2015\. A press statement or an opinion from an official or a politician cannot legally have that effect\.” There is concern that this rumor could inadvertently pressure refugees into “voluntarily” returning to Turkey, where they may face great harm\.
 
 
-![Refugees in Belgrade enjoy a Falafel Sandwich\. Photo credit: Info Park](assets/97512a98ec1c/1*gjWCuszNPFtYzUwWaq2BtA.jpeg)
+![Refugees in Belgrade enjoy a Falafel Sandwich\. Photo credit: Info Park](../assets/97512a98ec1c/1*gjWCuszNPFtYzUwWaq2BtA.jpeg)
 
 Refugees in Belgrade enjoy a Falafel Sandwich\. Photo credit: Info Park
 #### SERBIA
@@ -75,7 +75,7 @@ Allegations of an unannounced pushback hit UNHCR radar after an Iraqi mother and
 Independent, local volunteers report that around 200 refugees come to the border per day\. Although volunteers are restricted from camp access or any access within reasonable proximity, a dedicated couple work to ameliorate the suffering of refugees trapped in the backlog before they reach the camp\. A group of independent volunteers based in Serbia are re\-opening a fundraiser, previously used to provide support to Dimitrovgrad and Preševo to support these efforts\. For those who cannot provide material aid, [this fundraiser](https://www.gofundme.com/qc54ns3g) is one way to help support their efforts\. Money collected from the beginning of June to beginning of July will be specifically ear\-marked for Hungarian\-Serbian border relief\.
 
 
-![Supplies for Children at Hungarian\-Serbian Border\. Photo Credit: Levente Csipak](assets/97512a98ec1c/1*TavCldXXy0OlJP52DBS69w.jpeg)
+![Supplies for Children at Hungarian\-Serbian Border\. Photo Credit: Levente Csipak](../assets/97512a98ec1c/1*TavCldXXy0OlJP52DBS69w.jpeg)
 
 Supplies for Children at Hungarian\-Serbian Border\. Photo Credit: Levente Csipak
 #### SWITZERLAND

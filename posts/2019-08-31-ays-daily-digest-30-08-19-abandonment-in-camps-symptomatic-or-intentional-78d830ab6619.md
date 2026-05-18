@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 30/08/19: “Abandonment” in Camps, Symptomatic or Intentional?
+title: "AYS Daily Digest 30/08/19: “Abandonment” in Camps, Symptomatic or Intentional?"
 author: Are You Syrious?
 date: 2019-08-31T10:02:54.659+0100
 last_modified_at: 2019-08-31T10:02:54.659+0100
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [refugees,digest,greece,sweden,italy]
 description: Are You Syrious?
 image:
-  path: assets/78d830ab6619/0*UVBhoiQne63naz0X.jpeg
+  path: ../assets/78d830ab6619/0*UVBhoiQne63naz0X.jpeg
 ---
 
 ### AYS Daily Digest 30/08/19: “Abandonment” in Camps, Symptomatic or Intentional?
 
 
-![](assets/78d830ab6619/0*uxmVAMXKMriNiyiI.jpeg)
+![](../assets/78d830ab6619/0*uxmVAMXKMriNiyiI.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----747b598b21aa----------------------)
@@ -23,11 +23,11 @@ image:
 _Reflections on the situation across camps // Syria cease\-fire? // Medical emergencies on Kos // Syrians no longer granted automatic asylum in Sweden // More…_
 
 
-![](assets/78d830ab6619/0*Ao0h_BycGkqVD6ch)
+![](../assets/78d830ab6619/0*Ao0h_BycGkqVD6ch)
 
 
 
-![](assets/78d830ab6619/0*UVBhoiQne63naz0X.jpeg)
+![](../assets/78d830ab6619/0*UVBhoiQne63naz0X.jpeg)
 
 
 Police clear an informal settlement in Italy\. Credit: Yvan Sagnet
@@ -98,19 +98,19 @@ Medical emergency on the island\!
 
 
 
-![](assets/78d830ab6619/0*X788CQNZsF7Bdb6p)
+![](../assets/78d830ab6619/0*X788CQNZsF7Bdb6p)
 
 
 
-![](assets/78d830ab6619/0*Rnd-qpRoIqFsT3Wj.jpeg)
+![](../assets/78d830ab6619/0*Rnd-qpRoIqFsT3Wj.jpeg)
 
 
 
-![](assets/78d830ab6619/0*5xbtTRrmhS8G7fff)
+![](../assets/78d830ab6619/0*5xbtTRrmhS8G7fff)
 
 
 
-![](assets/78d830ab6619/0*Yqrsv40r7IKpSXRW.jpeg)
+![](../assets/78d830ab6619/0*Yqrsv40r7IKpSXRW.jpeg)
 
 
 Credit: [Evangelia Lazaridou](https://www.facebook.com/evangelia.lazaridou?fref=gs&__tn__=%2CdlC-R-R&eid=ARBOB1DMhU8OXFs_mGNA1Lle97IRGzQvZ77bYqN4fCOp5dFMA-qd3-Bc1jwh1m-Tbt5yvcDX-DH7NcbJ&hc_ref=ARR6gmw-KrqFWewkN4ja2-j3aKlqCZKuF-MwpcJiVz1yekSheVSl-8WXx9qR4iBgxdQ&dti=289026728095066&hc_location=group)

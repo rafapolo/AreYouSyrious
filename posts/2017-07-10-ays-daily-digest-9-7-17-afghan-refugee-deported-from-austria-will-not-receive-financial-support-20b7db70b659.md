@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 09/07/17: Afghan refugee deported from Austria, will not receive financial support
+title: "AYS Daily Digest 09/07/17: Afghan refugee deported from Austria, will not receive financial support"
 author: Are You Syrious?
 date: 2017-07-10T01:51:53.994+0100
 last_modified_at: 2017-07-14T14:59:23.426+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,france,afghanistan,greece]
 description: What will become of the refugees from Mosul? / An urgent call for help from a makeshift camp in Lebanon / Sea rescue operation working in…
 image:
-  path: assets/20b7db70b659/1*LmB6T9R4ryRHLESoC1XtHQ.jpeg
+  path: ../assets/20b7db70b659/1*LmB6T9R4ryRHLESoC1XtHQ.jpeg
 ---
 
 ### AYS Daily Digest 09/07/17: Afghan refugee deported from Austria, will not receive financial support
@@ -15,7 +15,7 @@ image:
 _What will become of the refugees from Mosul? / An urgent call for help from a makeshift camp in Lebanon / Sea rescue operation working in Greece reports harassment, impossible demands from authorities / Another refugee was beaten senseless by Croatian police / Porte de la Chapelle refugees relocated, newcomers take their place / Gay Ukrainian refugee on hunger strike goes silent / New report on hotspots in Greece and Italy / And more news…_
 
 
-![Ahmad Shamsi’s future remains unclear\.](assets/20b7db70b659/1*LmB6T9R4ryRHLESoC1XtHQ.jpeg)
+![Ahmad Shamsi’s future remains unclear\.](../assets/20b7db70b659/1*LmB6T9R4ryRHLESoC1XtHQ.jpeg)
 
 Ahmad Shamsi’s future remains unclear\.
 ### FEATURE
@@ -35,15 +35,15 @@ Mosul has officially been liberated\. The ISIS presence has been purged from the
 Those with experience and connections encouraged to help\. Recently, several volunteer groups were contacted regarding the plight of an unofficial camp of refugees in Lebanon\. According to the post, around 250 families are in the area and are in urgent need of clothing, food, water, and other basic amenities\. Included are some photos of the location\.
 
 
-![](assets/20b7db70b659/1*J-r5WZBhsQSbWCKGUt-Qdw.jpeg)
+![](../assets/20b7db70b659/1*J-r5WZBhsQSbWCKGUt-Qdw.jpeg)
 
 
 
-![](assets/20b7db70b659/1*aCAtoIR8pcpT62Q0fw0zrA.jpeg)
+![](../assets/20b7db70b659/1*aCAtoIR8pcpT62Q0fw0zrA.jpeg)
 
 
 
-![](assets/20b7db70b659/1*wMrrOVApzhgGW5SmF9a9PA.jpeg)
+![](../assets/20b7db70b659/1*wMrrOVApzhgGW5SmF9a9PA.jpeg)
 
 
 The location is what appears to be an abandoned shopping center, due to the roll\-down shades that appear to be being used as “doors\. ”

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 03/05/2019: Deliberate Denial of Food in Hungarian Detention Centres
+title: "AYS Daily Digest 03/05/2019: Deliberate Denial of Food in Hungarian Detention Centres"
 author: Are You Syrious?
 date: 2019-05-04T11:37:54.426+0100
 last_modified_at: 2019-05-05T18:04:17.622+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,europe,human-rights,hungary]
 description: 28 people rescued from Desert in Niger// Five Children and four women drowned off the coast Turkey// Greek Police Violence//250 people…
 image:
-  path: assets/a39965bd7d46/0*64oaxDtxsiCpi67V
+  path: ../assets/a39965bd7d46/0*64oaxDtxsiCpi67V
 ---
 
 ### AYS Daily Digest 03/05/2019: Deliberate Denial of Food in Hungarian Detention Centres
 #### 28 people rescued from Desert in Niger// Five children and four women drowned off the coast Turkey// Greek Police Violence// 250 people returned to Libya in last 72 hours
 
 
-![Patras Greece by Diego Herrera](assets/a39965bd7d46/0*64oaxDtxsiCpi67V)
+![Patras Greece by Diego Herrera](../assets/a39965bd7d46/0*64oaxDtxsiCpi67V)
 
 Patras Greece by Diego Herrera
 
@@ -47,7 +47,7 @@ The [Hungarian Helsinki Committee](https://www.helsinki.hu/wp-content/uploads/De
 A member of the Alarm Phone Sahara Team has helped to rescue 28 people from Niger Republic who got stranded in the desert on their way to Libya when their car broke down\. A woman and a little girl were part of the group that was rescued between the villages of Achinouma and Latai\.
 
 
-![](assets/a39965bd7d46/0*pSUjQuX0P9MgtSIV)
+![](../assets/a39965bd7d46/0*pSUjQuX0P9MgtSIV)
 
 ### LIBYA
 
@@ -96,11 +96,11 @@ Proactiva Open Arms has been denied access to the port of Myteline Lesvos and so
 #### Clinic Hours Ventimiglia
 
 
-![](assets/a39965bd7d46/0*EJGmsrjowHgMH-Qi)
+![](../assets/a39965bd7d46/0*EJGmsrjowHgMH-Qi)
 
 
 
-![](assets/a39965bd7d46/0*rJaUg0XhYLVR4J2s)
+![](../assets/a39965bd7d46/0*rJaUg0XhYLVR4J2s)
 
 ### SLOVENIA
 
@@ -116,11 +116,11 @@ Report of Pushback from Slovenia\.
 The group was captured by Frontex a few kilometres from Italy; they were rejected \(despite the request for asylum\) in Croatia, where the police robbed them, beat them and broke their cell phones at 3am, 25km from the border of Velika Kladusa\.
 
 
-![](assets/a39965bd7d46/0*ifmeStXqdq3TBJ9b)
+![](../assets/a39965bd7d46/0*ifmeStXqdq3TBJ9b)
 
 
 
-![](assets/a39965bd7d46/0*-6SccdTxGrZgwErb)
+![](../assets/a39965bd7d46/0*-6SccdTxGrZgwErb)
 
 ### SEA
 

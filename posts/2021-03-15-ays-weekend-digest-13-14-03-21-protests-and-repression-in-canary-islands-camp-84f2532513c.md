@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 13–14.03.21: Protests and repression in Canary Islands’ camp
+title: "AYS Weekend Digest 13–14.03.21: Protests and repression in Canary Islands’ camp"
 author: Are You Syrious?
 date: 2021-03-15T14:06:17.131+0000
 last_modified_at: 2021-03-15T14:06:17.131+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [canary-islands,melilla,lesvos,digest,refugees]
 description: Open Arms back at sea // Protests across Greece // Lockdown on Lesvos // More deaths at Melilla Border // People seeking asylum in UK…
 image:
-  path: assets/84f2532513c/0*1_sXvXdqTASUZalD.jpeg
+  path: ../assets/84f2532513c/0*1_sXvXdqTASUZalD.jpeg
 ---
 
 ### AYS Weekend Digest 13–14\.03\.21: Protests and repression in Canary Islands’ camp
@@ -15,11 +15,11 @@ image:
 _Open Arms back at sea // Protests across Greece // Lockdown on Lesvos // More deaths at Melilla Border // People seeking asylum in UK relying on Foodbanks to survive // A new EU\-Turkey Deal? // Updates from Bosnia, France, Germany and more…_
 
 
-![](assets/84f2532513c/0*zmT6XleVaLiO4L9g)
+![](../assets/84f2532513c/0*zmT6XleVaLiO4L9g)
 
 
 
-![](assets/84f2532513c/0*1_sXvXdqTASUZalD.jpeg)
+![](../assets/84f2532513c/0*1_sXvXdqTASUZalD.jpeg)
 
 
 \(Photo Credit: [Echo Refugee Library](https://web.facebook.com/refugeelibrary/posts/3841318652619766) \)
@@ -30,19 +30,19 @@ On Friday, a protest [started](https://www.facebook.com/AsambleaDeApoyoMigrantes
 Residents of the camps and the [Asamblea de Apoyo a Migrantes de Tenerife \( _Migrants Support Assembly of Tenerife_ \)](https://twitter.com/AsambleaMigraTF) have been denouncing for weeks the long lines at food distribution, the insufficient number of portions, child\-size portions, bugs in the food and rotten and stinking food in the camp\.
 
 
-![](assets/84f2532513c/0*5dMikL7Qq_nrvxwL)
+![](../assets/84f2532513c/0*5dMikL7Qq_nrvxwL)
 
 
 
-![](assets/84f2532513c/0*kbhjhUb6b468NOXK.jpeg)
+![](../assets/84f2532513c/0*kbhjhUb6b468NOXK.jpeg)
 
 
 
-![](assets/84f2532513c/0*-c3AXMqxee-g1L79)
+![](../assets/84f2532513c/0*-c3AXMqxee-g1L79)
 
 
 
-![](assets/84f2532513c/0*AJUG0xbPXVucGvYY.jpeg)
+![](../assets/84f2532513c/0*AJUG0xbPXVucGvYY.jpeg)
 
 
 “This is the food given to the people of Las Raices refugee camp, Tenerife, by Accem NGO that states it “strives to improve the living conditions of refugees and migrants” \(Photo and text via [Asamblea de Apoyo a Migrantes de Tenerife](https://twitter.com/AsambleaMigraTF/status/1370497156818345992) \)
@@ -68,11 +68,11 @@ Camp management requested the [intervention](https://diariodeavisos.elespanol.co
 
 
 
-![](assets/84f2532513c/0*99X-u5inoL45ajhu)
+![](../assets/84f2532513c/0*99X-u5inoL45ajhu)
 
 
 
-![](assets/84f2532513c/0*nCQlFHGQ_LL0Dgl4.jpeg)
+![](../assets/84f2532513c/0*nCQlFHGQ_LL0Dgl4.jpeg)
 
 
 \(Photo via [Asamblea de Apoyo a Migrantes de Tenerife](https://twitter.com/AsambleaMigraTF/status/1370823867682406403) \)
@@ -142,43 +142,43 @@ BOSNIA
 **Updates from Velika Kladuša and Bihac**
 
 
-![](assets/84f2532513c/0*6SmCuCxOujfkDKbE)
+![](../assets/84f2532513c/0*6SmCuCxOujfkDKbE)
 
 
 
-![](assets/84f2532513c/0*xolquYupv0YUokOM.jpeg)
+![](../assets/84f2532513c/0*xolquYupv0YUokOM.jpeg)
 
 
 
-![](assets/84f2532513c/0*9RksfpTcI9ihxyL5)
+![](../assets/84f2532513c/0*9RksfpTcI9ihxyL5)
 
 
 
-![](assets/84f2532513c/0*LQhaVCzmfUi8BHwi.jpeg)
+![](../assets/84f2532513c/0*LQhaVCzmfUi8BHwi.jpeg)
 
 
 
-![](assets/84f2532513c/0*viJMqZ1TsstPWuP-)
+![](../assets/84f2532513c/0*viJMqZ1TsstPWuP-)
 
 
 
-![](assets/84f2532513c/0*EMbdnofOXouVmffR.jpeg)
+![](../assets/84f2532513c/0*EMbdnofOXouVmffR.jpeg)
 
 
 
-![](assets/84f2532513c/0*9P0gvXw0Cyy4DR6C)
+![](../assets/84f2532513c/0*9P0gvXw0Cyy4DR6C)
 
 
 
-![](assets/84f2532513c/0*DtbamQiyPWrO95DE.jpeg)
+![](../assets/84f2532513c/0*DtbamQiyPWrO95DE.jpeg)
 
 
 
-![](assets/84f2532513c/0*jHtMwye1KXFgErMJ)
+![](../assets/84f2532513c/0*jHtMwye1KXFgErMJ)
 
 
 
-![](assets/84f2532513c/0*LMP5W9WNbpsKspfS.jpeg)
+![](../assets/84f2532513c/0*LMP5W9WNbpsKspfS.jpeg)
 
 
 \(Photo Credit: [No Name Kitchen](https://web.facebook.com/NoNameKitchenBelgrade/posts/1198004887264460) \)
@@ -226,11 +226,11 @@ FRANCE
 [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__cft__[0]=AZUAYhPawmCKSNlwbITYJ2O5EeAduKgBLdmAAnLTKG6ab2QRacvtUFP6KKasJCkzY3YD7yRN6Yood3pBqL69Jp5y1uXAdzRXn067Ht-TDlNjlg2Hl2ZqcVx6BYPaGN8-XGiZrhgM8HX9cdDPwLOsbGs6tJAKCDVILZGtLIrBBeDAnNe3k2tgqX6L0xaCxaDRDDn3vhL980SooBzkL_36iZKw&__tn__=-UC%2CP-y-R) is calling for volunteers for collective cooking and distribution of meals\.
 
 
-![](assets/84f2532513c/0*bB0zcsnM3ErNXzRf)
+![](../assets/84f2532513c/0*bB0zcsnM3ErNXzRf)
 
 
 
-![](assets/84f2532513c/0*7CQh2gwWhrGnMcfA.jpeg)
+![](../assets/84f2532513c/0*7CQh2gwWhrGnMcfA.jpeg)
 
 
 Read more here: [Solidarité migrants Wilson](https://www.facebook.com/groups/1652972374920129/)

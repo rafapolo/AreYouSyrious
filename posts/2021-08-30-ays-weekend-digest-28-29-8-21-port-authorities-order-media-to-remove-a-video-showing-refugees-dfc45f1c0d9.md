@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 28–29/8/21: Port authorities ‘order’ media to remove a video showing refugees…
+title: "AYS Weekend Digest 28–29/8/21: Port authorities ‘order’ media to remove a video showing refugees…"
 author: Are You Syrious?
 date: 2021-08-30T16:13:47.908+0100
 last_modified_at: 2021-08-30T16:13:47.908+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,greece,europe,media]
 description: Following the recent arrest of journalists at the Greek border, the media comes under new pressure from the Coast Guard / 50 people…
 image:
-  path: assets/dfc45f1c0d9/0*CGK0zRlw8jG0XO3P
+  path: ../assets/dfc45f1c0d9/0*CGK0zRlw8jG0XO3P
 ---
 
 ### AYS Weekend Digest 28–29/8/21: Port authorities ‘order’ media to remove a video showing refugees boarding a Coast Guard boat
 ### Following the recent arrest of journalists at the Greek border, the media comes under new pressure from the Coast Guard / 50 people stranded on an island in Evros / A lawyer specializing in refugee law and a member of the National Commission for Human Rights answers some of the questions on asylum in Greece/EU / Lawyers attempting to have the decisions regarding Afghan interpreters overturned in the UK / & more updates
 
 
-![](assets/dfc45f1c0d9/0*TypozE7fDLbE_0vj.jpeg)
+![](../assets/dfc45f1c0d9/0*TypozE7fDLbE_0vj.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----3deaa77162ef--------------------------------)
@@ -22,7 +22,7 @@ image:
 [Aug 30](ays-weekend-digest-28-29-8-21-port-authorities-order-media-to-remove-a-video-showing-refugees-3deaa77162ef?source=post_page-----3deaa77162ef--------------------------------) · 9 min read
 
 
-![](assets/dfc45f1c0d9/0*CGK0zRlw8jG0XO3P)
+![](../assets/dfc45f1c0d9/0*CGK0zRlw8jG0XO3P)
 
 
 Kythira, August 28, 2021: The boarding of the Kurdish refugees in a boat of the Greek Navy, via [Efsyn](https://www.efsyn.gr/ellada/dikaiomata/308079_omi-logokrisia-apo-limeniko-afaireste-ta-binteo-me-entoles-anoteron?amp&__twitter_impression=true)
@@ -70,11 +70,11 @@ Another shipwreck was reported by Sea Watch International\. Their SeaBird plane 
 539people arrived via sea to the island of Lampedusa on 28th August\. They traveled in an extremely overcrowded wooden boat\. [In addition to this](https://twitter.com/campsoscar/status/1431575268003614724?s=20&fbclid=IwAR36cgf7Oel352HNcc5gAzjZvNiQbV5LrNfiU_NgGgUebeyEBmrx5kRmsjE) , 58 people were rescued from another vessel\. This group included 6 women, 10 children and a 4\-month old baby\.
 
 
-![](assets/dfc45f1c0d9/0*SoIG0bEsSX9qR180)
+![](../assets/dfc45f1c0d9/0*SoIG0bEsSX9qR180)
 
 
 
-![](assets/dfc45f1c0d9/0*B7LuUFb0U5BXetxK.jpeg)
+![](../assets/dfc45f1c0d9/0*B7LuUFb0U5BXetxK.jpeg)
 
 
 539 people arrive in Lampedusa, Italy on 28th August 2021\. [https://twitter\.com/campsoscar/status/1431575268003614724?s=20&fbclid=IwAR36cgf7Oel352HNcc5gAzjZvNiQbV5LrNfiU\_NgGgUebeyEBmrx5kRmsjE](https://twitter.com/campsoscar/status/1431575268003614724?s=20&fbclid=IwAR36cgf7Oel352HNcc5gAzjZvNiQbV5LrNfiU_NgGgUebeyEBmrx5kRmsjE)

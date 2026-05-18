@@ -1,13 +1,13 @@
 ---
-title: AYS Daily Digest 8/10/20: People starving under the UN’s care
+title: "AYS Daily Digest 8/10/20: People starving under the UN’s care"
 author: Are You Syrious?
 date: 2020-10-09T19:49:10.185+0100
 last_modified_at: 2020-10-09T19:49:10.185+0100
 categories: Are You Syrious?
 tags: []
-description: Libya: 500 children detained in Libyan internment camps in the past 6 months / Spain: report on the lucrative business of border control /…
+description: "Libya: 500 children detained in Libyan internment camps in the past 6 months / Spain: report on the lucrative business of border control /…"
 image:
-  path: assets/5c7585c0a6e6/0*ZTbMfM-cAkSnhEMT.jpeg
+  path: ../assets/5c7585c0a6e6/0*ZTbMfM-cAkSnhEMT.jpeg
 ---
 
 ### AYS Daily Digest 8/10/20: People starving under the UN’s care
@@ -16,7 +16,7 @@ image:
 [Are You Syrious?](@AreYouSyrious?source=post_page-----5ed5e7fe42e6--------------------------------)
 
 
-![](assets/5c7585c0a6e6/0*ZTbMfM-cAkSnhEMT.jpeg)
+![](../assets/5c7585c0a6e6/0*ZTbMfM-cAkSnhEMT.jpeg)
 
 
 Photo: [Giulia Tranchina](https://www.facebook.com/rastajuly?__cft__[0]=AZWAgMZdlVayGmA0RL5GIQBoJJRtoifcsCguXzjlUEp_uVJeg9x7LX3VEC-j2-HXXiVkz_uytcqeMXJNcQCLd7EFMpD-JSXEFVci7zyFvZL-biVq38XQqD7bw2_V-UOzJjGNSEzTfUvzuIh9Y1LUKLVthKVNg18X6Y2MJ-aVsRHpHLLi9LxSlT4f3L3QYIpgFf2dXpNoSi8H5W_DHq0-5syetW5r1JhBQ9IrArYdLMCfqw&__tn__=-UC*F)
@@ -50,7 +50,7 @@ An alarming increase in the number of people detained in Libya has been reported
 COVID testing capacities must be increased nationwide and access to health and protection services for people on the move, and the IRC is calling for an immediate end to this arbitrary detention\.
 
 
-![](assets/5c7585c0a6e6/0*b3XufH9netGmlOlr)
+![](../assets/5c7585c0a6e6/0*b3XufH9netGmlOlr)
 
 
 A [group of Sudanese](https://www.facebook.com/watchthemed.alarmphone/) people protesting by the UNHCR office in Guruji, Libya, against the lack of access to asylum and protection, and the lack of action of IOM and UNHCR in this regard\. \(Photo: [Watch The Med — Alarmphone](https://www.facebook.com/watchthemed.alarmphone/?__cft__[0]=AZWzVRmMWOAPIvN_Ik7W55LJVMVP2mi4Pyd5ZEzJG1H0f7rNPpPsC2nfb_KAQu6EJrO5gwIeUawlNiEigMSs_T3HZUE66HC_WEkO4M7dSxsifdG71aEigxmvDJ17kfDDG-eukLLbsdsvZrP6psdMhHnaoOE--5DBt-byiYaFYjaTgpA_iz2NvUCb764YWc0lS7CGnpN12tLl2BaSJjiMEgW2dj1gMiRuljecH8zcWBLs7W6pJ1Kia5E503LVnLNX7Ho&__tn__=-UC*F) \)
@@ -84,11 +84,11 @@ There are currently 1,000 people from Syria, Afghanistan, Palestine, and Libya i
 ### FRANCE
 
 
-![](assets/5c7585c0a6e6/0*F1G1d2IzBGv-5b8o)
+![](../assets/5c7585c0a6e6/0*F1G1d2IzBGv-5b8o)
 
 
 
-![](assets/5c7585c0a6e6/0*fEzFP6hAJoRivgQb)
+![](../assets/5c7585c0a6e6/0*fEzFP6hAJoRivgQb)
 
 
 
@@ -156,11 +156,11 @@ Maakum Association demands:
 
 
 
-![](assets/5c7585c0a6e6/0*epJKqV5Z0LRMv1aW)
+![](../assets/5c7585c0a6e6/0*epJKqV5Z0LRMv1aW)
 
 
 
-![](assets/5c7585c0a6e6/0*eyb0R4NiAgE0hbxR)
+![](../assets/5c7585c0a6e6/0*eyb0R4NiAgE0hbxR)
 
 
 
@@ -173,11 +173,11 @@ Maakum Association demands:
 A total of 223,463 people were deported by Spain between 2010 and 2019, according to data from the Spanish Interior Ministry, which includes [the report _Human rights violations in deportations_](https://iridia.cat/wp-content/uploads/2020/10/Deportaciones2.pdf) , made public this morning by the organizations [Novact](https://novact.org/?lang=es) , International Institute for Nonviolent Action, and [Iridia](https://iridia.cat/es/) , center for the defense of human rights\. The report offers an interesting take on the lucrative business of border control as well\. Find more [here](https://directa.cat/sobreviure-sota-lamenaca-de-la-deportacio/?fbclid=IwAR2Cbz2PlzIkZRZ0OIvO7zfuT3PZq-3-SIMnHwEsLJ539j75vK6V0sWEtnc) \.
 
 
-![](assets/5c7585c0a6e6/0*5Wnhwo_2w4EeC7GA)
+![](../assets/5c7585c0a6e6/0*5Wnhwo_2w4EeC7GA)
 
 
 
-![](assets/5c7585c0a6e6/0*ZYOjp83TA-_SFJK_.jpg)
+![](../assets/5c7585c0a6e6/0*ZYOjp83TA-_SFJK_.jpg)
 
 ### UK
 ### Moving forward with testing the Australian deterrence system

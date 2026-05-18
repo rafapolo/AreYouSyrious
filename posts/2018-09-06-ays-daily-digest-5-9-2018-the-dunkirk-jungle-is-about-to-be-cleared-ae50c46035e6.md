@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 5/9/2018: The Dunkirk jungle is about to be cleared
+title: "AYS DAILY DIGEST 5/9/2018: The Dunkirk jungle is about to be cleared"
 author: Are You Syrious?
 date: 2018-09-06T07:37:37.997+0100
 last_modified_at: 2018-09-06T12:10:31.374+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,france,greece,morocco]
 description: Volunteer deported from Turkey / Alarmphone volunteer deported within Morocco / Italy arrests famous Tunisian fishermen / Vial hotspot not…
 image:
-  path: assets/ae50c46035e6/1*YPcQUSam1NqmfNJw9NSvqg.jpeg
+  path: ../assets/ae50c46035e6/1*YPcQUSam1NqmfNJw9NSvqg.jpeg
 ---
 
 ### AYS DAILY DIGEST 5/9/2018: The Dunkirk jungle is about to be cleared
 #### Volunteer deported from Turkey / Alarmphone volunteer deported within Morocco / Italy arrests famous Tunisian fishermen / Vial hotspot not winterized and conditions on other Aegean islands remain dire / Unlawful detention practices in Portugal / And much more…
 
 
-![The Dunkirk jungle\. Credits: [Refugee Women’s Center](https://www.facebook.com/refugeewomenscentre/posts/508111052947863)](assets/ae50c46035e6/1*YPcQUSam1NqmfNJw9NSvqg.jpeg)
+![The Dunkirk jungle\. Credits: [Refugee Women’s Center](https://www.facebook.com/refugeewomenscentre/posts/508111052947863)](../assets/ae50c46035e6/1*YPcQUSam1NqmfNJw9NSvqg.jpeg)
 
 The Dunkirk jungle\. Credits: [Refugee Women’s Center](https://www.facebook.com/refugeewomenscentre/posts/508111052947863)
 
@@ -23,7 +23,7 @@ The [Refugee Women’s Center](https://www.facebook.com/refugeewomenscentre/post
 But the area is still about to be cleared: the land owner filed a complaint against the occupation of his property\. Now the court tribunal has ruled in his favor\.
 
 
-![The RWC is providing various activities for the families in Dunkirk\. Credits: [RWC](https://www.facebook.com/refugeewomenscentre/posts/508111052947863)](assets/ae50c46035e6/1*gvRmUmQUCywsZW0zrHQyjg.jpeg)
+![The RWC is providing various activities for the families in Dunkirk\. Credits: [RWC](https://www.facebook.com/refugeewomenscentre/posts/508111052947863)](../assets/ae50c46035e6/1*gvRmUmQUCywsZW0zrHQyjg.jpeg)
 
 The RWC is providing various activities for the families in Dunkirk\. Credits: [RWC](https://www.facebook.com/refugeewomenscentre/posts/508111052947863)
 

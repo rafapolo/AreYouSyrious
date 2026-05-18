@@ -5,20 +5,20 @@ date: 2020-03-30T13:41:52.469+0100
 last_modified_at: 2020-03-30T13:41:52.469+0100
 categories: Are You Syrious?
 tags: []
-description: PORTUGAL: Asylum Seekers temporarily granted equal rights as citizens. GREECE: Struggle and solidarity amid pandemic. TURKEY: People moved…
+description: "PORTUGAL: Asylum Seekers temporarily granted equal rights as citizens. GREECE: Struggle and solidarity amid pandemic. TURKEY: People moved…"
 image:
-  path: assets/8ca24c330f3f/0*wfsj2qhvG-7Zg__C.jpeg
+  path: ../assets/8ca24c330f3f/0*wfsj2qhvG-7Zg__C.jpeg
 ---
 
 ### AYS Weekend Digest 28–29/3/2020 — Demands from a pandemic
 #### PORTUGAL: Asylum Seekers temporarily granted equal rights as citizens\. GREECE: Struggle and solidarity amid pandemic\. TURKEY: People moved to camps close to Syrian border fear deportation\. SEA: Boats in distress in West Med\. BOSNIA: Photos from Blazuj camp\. FRANCE: Protest to halt eviction\. Doctors with refugee status offer help in UK and SERBIA\.
 
 
-![](assets/8ca24c330f3f/0*cvx7eASHM2cR6eWP)
+![](../assets/8ca24c330f3f/0*cvx7eASHM2cR6eWP)
 
 
 
-![](assets/8ca24c330f3f/0*wfsj2qhvG-7Zg__C.jpeg)
+![](../assets/8ca24c330f3f/0*wfsj2qhvG-7Zg__C.jpeg)
 
 
 On Sunday 29th, hundreds of people participate in a banner drop organised by [DEMANDS FROM A PENDEMIC](https://www.facebook.com/events/232337231249053/) 
@@ -29,15 +29,15 @@ On Sunday 29th, hundreds of people participate in a banner drop organised by [DE
 In a home based protest that took place this weekend activists across the UK and Ireland stood in solidarity with people on the move and those imprisoned in Greek island camps and detention facilities everywhere\.
 
 
-![](assets/8ca24c330f3f/0*aIBro8NvGw8w-umr)
+![](../assets/8ca24c330f3f/0*aIBro8NvGw8w-umr)
 
 
 
-![](assets/8ca24c330f3f/0*0GgKJWHs5Tyw-oUA.jpeg)
+![](../assets/8ca24c330f3f/0*0GgKJWHs5Tyw-oUA.jpeg)
 
 
 
-![](assets/8ca24c330f3f/0*FjGkduM8i9jF64g7)
+![](../assets/8ca24c330f3f/0*FjGkduM8i9jF64g7)
 
 
 \( [Demands from a Pandemic — Close the Camps and end Detention\!](https://www.facebook.com/events/232337231249053/) \)
@@ -70,35 +70,35 @@ In a home based protest that took place this weekend activists across the UK and
 Similar actions took place over the weekend in Denmark, France and Germany and more are planned\. There was also a [street protest in Berlin](https://twitter.com/EndeGelaendeDD) with appropriate protective measures taken\.
 
 
-![](assets/8ca24c330f3f/0*V84uNj74HvYVxI8q)
+![](../assets/8ca24c330f3f/0*V84uNj74HvYVxI8q)
 
 
 
-![](assets/8ca24c330f3f/0*__rkq5jRTUvEpzVY.jpeg)
+![](../assets/8ca24c330f3f/0*__rkq5jRTUvEpzVY.jpeg)
 
 
 
-![](assets/8ca24c330f3f/0*tS-5Rog7QhkuHkDa)
+![](../assets/8ca24c330f3f/0*tS-5Rog7QhkuHkDa)
 
 
 
-![](assets/8ca24c330f3f/0*KzRAKtwL4YplsWyf.jpeg)
+![](../assets/8ca24c330f3f/0*KzRAKtwL4YplsWyf.jpeg)
 
 
 
-![](assets/8ca24c330f3f/0*Bo3OdIPsR2YhtDCz)
+![](../assets/8ca24c330f3f/0*Bo3OdIPsR2YhtDCz)
 
 
 
-![](assets/8ca24c330f3f/0*lZLtyfACIN-Qv8t_.jpeg)
+![](../assets/8ca24c330f3f/0*lZLtyfACIN-Qv8t_.jpeg)
 
 
 
-![](assets/8ca24c330f3f/0*ZMRR1Vs195VKe7uz)
+![](../assets/8ca24c330f3f/0*ZMRR1Vs195VKe7uz)
 
 
 
-![](assets/8ca24c330f3f/0*8rrV4JTE4_VhTIZa.jpeg)
+![](../assets/8ca24c330f3f/0*8rrV4JTE4_VhTIZa.jpeg)
 
 
 \( [Krav fra en pandemi](https://www.facebook.com/kravfraenpandemi/?tn-str=k%2AF) ‎ [Bannerdrop i en pandemi \#2 — Evakuér Moria\-lejren på Lesbos\!](https://www.facebook.com/events/517656552491457/?acontext=%7B%22ref%22%3A%22106%22%2C%22action_history%22%3A%22null%22%7D) , [Ende Gelände Dresden](https://twitter.com/EndeGelaendeDD) , [Revendications d’une pandémie](https://www.facebook.com/Revendications-dune-pand%C3%A9mie-104626767855812/?tn-str=k%2AF) \)
@@ -120,11 +120,11 @@ TURKEY
 **Difficult conditions for those evicted from Pazarkule**
 
 
-![](assets/8ca24c330f3f/0*2Xc7tUOjzK-tN8_P)
+![](../assets/8ca24c330f3f/0*2Xc7tUOjzK-tN8_P)
 
 
 
-![](assets/8ca24c330f3f/0*MumsqvCcTt9JDmOt.jpeg)
+![](../assets/8ca24c330f3f/0*MumsqvCcTt9JDmOt.jpeg)
 
 
 \(Photo Credit: [Human Stories](https://www.facebook.com/humanstoriesgr/?tn-str=k%2AF) \)
@@ -141,11 +141,11 @@ GREECE
 Lesvos
 
 
-![](assets/8ca24c330f3f/0*p-Ug2Rq_gicOqs8Q)
+![](../assets/8ca24c330f3f/0*p-Ug2Rq_gicOqs8Q)
 
 
 
-![](assets/8ca24c330f3f/0*RmVH-retE4O70Mjf.jpeg)
+![](../assets/8ca24c330f3f/0*RmVH-retE4O70Mjf.jpeg)
 
 
 European medics call for the immediate evacuation of the squalid camps at EU’s borders\. [Medical Volunteers International e\.V\.](https://www.facebook.com/medicalvolunteersinternational/?__tn__=%2CdK%2AF-R&eid=ARBUVjwx7e1uUhQedrxJnBmUmGz6-1DsR1VeGhomkI7hy2FkkRxgpDkAt8Bopwh4AwlTNMQOg29WF_rv&fref=tag) volunteers on the ground join the call: bringing refugees to safety has to happen now\. Sign the petition and spread the call: [https://en\.sosmoria\.eu](https://l.facebook.com/l.php?u=https%3A%2F%2Fen.sosmoria.eu%2F%3Ffbclid%3DIwAR0fmDkScX42-pdesnxAwyA743_O5uq2l5rhllmIPEacU2qbtwAYxGmBf_E&h=AT0cVlL3WIw53s9KzsDWh6wRSX18psaIuak1x2vxpMG-dxtbwoDwRFqHWKHxL4slIl8KUe2V7f6rg0j7lva3Ktid592qj_M4K1d4l6iqSCnZaCZ3KJtO_DRRyt7C3pQNUMdM_IbZKZL3EG-VLuhxbzF3cvD9)
@@ -181,27 +181,27 @@ As shown in this [video](https://www.facebook.com/MoriaCoronaAwarenessTeam/video
 In the meanwhile, the Moria Corona Awareness Team have organised [rubbish collection groups](https://www.facebook.com/MoriaCoronaAwarenessTeam/videos/211479166793937) within and around the camp, and they are suggesting to all the residents to [minimise unnecessary contact with the rest of the island](https://www.facebook.com/MoriaCoronaAwarenessTeam/videos/2827024794071135/?v=2827024794071135) to avoid spreading the virus within the camp\.
 
 
-![](assets/8ca24c330f3f/0*Z_vMglOx4psEVCml)
+![](../assets/8ca24c330f3f/0*Z_vMglOx4psEVCml)
 
 
 
-![](assets/8ca24c330f3f/0*744JwjcNp_hv52-y.jpeg)
+![](../assets/8ca24c330f3f/0*744JwjcNp_hv52-y.jpeg)
 
 
 
-![](assets/8ca24c330f3f/0*gB9hHSkEtFzl1RIk)
+![](../assets/8ca24c330f3f/0*gB9hHSkEtFzl1RIk)
 
 
 
-![](assets/8ca24c330f3f/0*W7xPZsz7yo5lFdtF.jpeg)
+![](../assets/8ca24c330f3f/0*W7xPZsz7yo5lFdtF.jpeg)
 
 
 
-![](assets/8ca24c330f3f/0*c3bFmDIcf3t8v5tS)
+![](../assets/8ca24c330f3f/0*c3bFmDIcf3t8v5tS)
 
 
 
-![](assets/8ca24c330f3f/0*gNhKOKSYTxDC-emm.jpeg)
+![](../assets/8ca24c330f3f/0*gNhKOKSYTxDC-emm.jpeg)
 
 
 Garbage collection on Thursday 26th of March \(Photos by [MCAT](https://www.facebook.com/MoriaCoronaAwarenessTeam/posts/116919043270608) \)
@@ -298,11 +298,11 @@ On Saturday it was [reported](https://www.facebook.com/info.point.covid19/posts/
 New tents have been put up to isolate people as they can no longer leave the camps\. Inside they are full of bunk beds…
 
 
-![](assets/8ca24c330f3f/0*2MZXVBynTWmi15gQ)
+![](../assets/8ca24c330f3f/0*2MZXVBynTWmi15gQ)
 
 
 
-![](assets/8ca24c330f3f/0*glgK0rPC5ikBZZ_5.jpeg)
+![](../assets/8ca24c330f3f/0*glgK0rPC5ikBZZ_5.jpeg)
 
 
 \(Photo Credit: [Crveni križ Unsko sanskog kantona](https://www.facebook.com/Crveni-kri%C5%BE-Unsko-sanskog-kantona-52572773380/?__tn__=kCH-R&eid=ARDp_M7CLfvFqKRuYAonIevFKIlAQXlNgjgiYv7QvSpJxFVk3HbGOtF-V9uljnD9Cc8jDLLPtdf85emT&hc_ref=ARQq1131h6HzC4cVdavi7uhearURIHwT92ISQFzGErQpExxCYPO6oi9-OyG8txQPWEE&fref=nf&__xts__[0]=68.ARDKYPY9h8PgawI1gfYR3Zmyl1W_XgTPlQ7kaj_3TF9PVE-PQ1EvJIIwAVnF2suIJW_lE_qRiG27nLcCX9bG5ym0pqvNKu5MDNts94fsX-wk9Fa4yPyH20oKQdHT2aefMOJWy6BLVmZDxgS7TFOLLNIwSvEe67vvkq_w6r64rEL_DfLOiBPDk1u6e_szLQ4rfetzoTMN7LQJzBZYoqypPFoIYlUJShjv1whJw0bf-6hJ0bUOrr62rqycFqPBs4j0qwIpw5Yub2GEbghMeG9HWnKRgb1Y77Fm3eF_Gi50gbhRb_l1bgABHuYP51pc3C-IvdZpCC-0fSnaCq60v_qxcCVCYH4A-P0xiu4ihJHY8Gma3PHFIYF6a50Ro5HYFgzphcVCBvUJDFOlY5PMUExkvFqz74cxHwTJ-OGPBAPbzPG_YCg28jVyK6fwHC4nLcm6NmvFiYw9Td0IqborjMuXvzH9pwLkWzajh_HVyjLA74uZhHKr95A) \)
@@ -310,19 +310,19 @@ New tents have been put up to isolate people as they can no longer leave the cam
 [Help for People on the move in Bosnia](https://www.facebook.com/groups/144469886266984/permalink/535533293827306/) have shared photos of an IOM run camp near Sarajevo\.
 
 
-![](assets/8ca24c330f3f/0*dzwfqQ4m-6jDxQfU)
+![](../assets/8ca24c330f3f/0*dzwfqQ4m-6jDxQfU)
 
 
 
-![](assets/8ca24c330f3f/0*rvFoT5z0ZrgQI87k.jpeg)
+![](../assets/8ca24c330f3f/0*rvFoT5z0ZrgQI87k.jpeg)
 
 
 
-![](assets/8ca24c330f3f/0*fUEVBpxv-Mch3mft)
+![](../assets/8ca24c330f3f/0*fUEVBpxv-Mch3mft)
 
 
 
-![](assets/8ca24c330f3f/0*4f7A_5UnzbeTs4gU.jpeg)
+![](../assets/8ca24c330f3f/0*4f7A_5UnzbeTs4gU.jpeg)
 
 
 \(Photo Credit: [Help for people on the move in Bosnia](https://www.facebook.com/groups/144469886266984/permalink/535533293827306/) \)

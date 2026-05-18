@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 21/1/21: Detention — The EU and UK’s common trait after Brexit
+title: "AYS Daily Digest 21/1/21: Detention — The EU and UK’s common trait after Brexit"
 author: Are You Syrious?
 date: 2021-01-22T12:38:53.272+0000
 last_modified_at: 2021-01-22T20:47:27.571+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,brexit,europe,migration]
 description: A humanitarian crisis is rapidly unfolding at Napier barracks / More lives lost to hypothermia upon arrival to the EU / Covid vaccination…
 image:
-  path: assets/96b32229121e/0*i_sEAMfSsp9G0kE4
+  path: ../assets/96b32229121e/0*i_sEAMfSsp9G0kE4
 ---
 
 ### AYS Daily Digest 21/1/21: Detention — The EU and UK’s common trait after Brexit
 #### A humanitarian crisis is rapidly unfolding at Napier barracks / More lives lost to hypothermia upon arrival to the EU / Covid vaccination information in English and Arabic / Tribunal recognises ‘readmissions’ to Slovenia under bilateral agreement are illegal and grant access to victim of chain pushback / recommended reads & more
 
 
-![Photo via [**Jack Shenker**](https://twitter.com/hackneylad)](assets/96b32229121e/0*i_sEAMfSsp9G0kE4)
+![Photo via [**Jack Shenker**](https://twitter.com/hackneylad)](../assets/96b32229121e/0*i_sEAMfSsp9G0kE4)
 
 Photo via [**Jack Shenker**](https://twitter.com/hackneylad)
 #### FEATURED
@@ -24,15 +24,15 @@ A covid\-19 outbreak is spiraling out of control at the UK’s first modern\-day
 Reportedly, up to 28 people are sharing two bedrooms and a bathroom, making social distancing impossible\. Now, after having waited for months for their claims to be processed, all of them are locked up inside, guarded by the police\. “Despite multiple warnings from humanitarian organisations that this site is completely unsuitable for asylum\-seeker accommodation, Home Office minister Chris Pilp has attempted to blame residents for the current crisis, warning that refugees ‘could face enforcement action’”, [Jack Shenker](https://twitter.com/hackneylad) reported\.
 
 
-![](assets/96b32229121e/0*78C3iweeEWSd5Irp)
+![](../assets/96b32229121e/0*78C3iweeEWSd5Irp)
 
 
 
-![](assets/96b32229121e/0*XjSC7WhdNyQrAzN8)
+![](../assets/96b32229121e/0*XjSC7WhdNyQrAzN8)
 
 
 
-![](assets/96b32229121e/0*0v9igxUf4LJydnR-.jpg)
+![](../assets/96b32229121e/0*0v9igxUf4LJydnR-.jpg)
 
 
 
@@ -97,7 +97,7 @@ A new ruling from the [Court of Rome](https://www.asgi.it/wp-content/uploads/202
 The case was supported by the Border Violence Monitoring Network \(BVMN\), who provided [first\-hand testimony from the applicant](https://www.borderviolence.eu/violence-reports/july-15-2020-0000-piazza-liberta-trieste/) \. The court found unequivocal evidence of violations of international law, and acknowledged the applicant’s right to enter Italy immediately, as well as the applicant’s right to full and proper access to the asylum system\. [Read more\.](https://www.borderviolence.eu/italian-court-ruling-on-chain-pushback/#more-16730)
 
 
-![[Details on the asylum data until 2020](https://viedifuga.org/asilo-in-italia-in-tutto-il-2020-40-di-richieste-lunhcr-italia-slovenia-a-rischio-il-diritto-alla-protezione/?fbclid=IwAR0uwmAMK8fIWVFv2A4P-eiqMeREUGi_9_chSUkwKqKqrJnYufmvLvVgSio)](assets/96b32229121e/0*dIsMHaz_raWK3kFw.jpg)
+![[Details on the asylum data until 2020](https://viedifuga.org/asilo-in-italia-in-tutto-il-2020-40-di-richieste-lunhcr-italia-slovenia-a-rischio-il-diritto-alla-protezione/?fbclid=IwAR0uwmAMK8fIWVFv2A4P-eiqMeREUGi_9_chSUkwKqKqrJnYufmvLvVgSio)](../assets/96b32229121e/0*dIsMHaz_raWK3kFw.jpg)
 
 [Details on the asylum data until 2020](https://viedifuga.org/asilo-in-italia-in-tutto-il-2020-40-di-richieste-lunhcr-italia-slovenia-a-rischio-il-diritto-alla-protezione/?fbclid=IwAR0uwmAMK8fIWVFv2A4P-eiqMeREUGi_9_chSUkwKqKqrJnYufmvLvVgSio)
 #### FRANCE
@@ -106,7 +106,7 @@ The case was supported by the Border Violence Monitoring Network \(BVMN\), who p
 At the administrative detention centre in Vincennes, people have protested and announced a hunger strike due to a lack of understanding, information and protection during the months spent there\. As the pandemic enters the centre, they “no longer know who has corona and who doesn’t\.” No support is being provided and they say they feel alone, ignored and abandoned to all sorts of risks they cannot change or escape from\. Activists have reported that the guards followed them as they went into the courtyard to protest, but avoided getting anywhere near the people as they presumably fear getting infected, They invite the journalists to document what goes on inside these centres and how they function in reality\. [Here](https://abaslescra.noblogs.org/greve-de-la-faim-au-cra-1-de-vincennes/) ’s more \(in French\) \.
 
 
-![Photo: [@bas\_cra](https://twitter.com/bas_cra)](assets/96b32229121e/0*4m8W0i9-U7b6JHbb)
+![Photo: [@bas\_cra](https://twitter.com/bas_cra)](../assets/96b32229121e/0*4m8W0i9-U7b6JHbb)
 
 Photo: [@bas\_cra](https://twitter.com/bas_cra)
 

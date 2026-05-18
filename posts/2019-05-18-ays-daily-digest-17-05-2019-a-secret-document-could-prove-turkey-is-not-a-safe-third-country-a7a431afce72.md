@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 17/05/2019: A Secret Document Could Prove Turkey Is Not A Safe Third Country
+title: "AYS Daily Digest 17/05/2019: A Secret Document Could Prove Turkey Is Not A Safe Third Country"
 author: Are You Syrious?
 date: 2019-05-18T10:31:33.975+0100
 last_modified_at: 2019-05-18T13:49:17.754+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,human-rights-violations,europe,human-rights]
 description: Joint Letter demanding the immediate abolition of Unsuitable Detention Facilities in Greece// Families Evacuated from Sea-Watch 3 vessel…
 image:
-  path: assets/a7a431afce72/0*gBIulHccP6uz9Ex9
+  path: ../assets/a7a431afce72/0*gBIulHccP6uz9Ex9
 ---
 
 ### AYS Daily Digest 17/05/2019: A Secret Document Could Prove Turkey Is Not A Safe Third Country
@@ -15,7 +15,7 @@ image:
 **Joint Letter demanding the immediate abolition of Unsuitable Detention Facilities in Greece** // Families Evacuated from Sea\-Watch 3 vessel in Lampedusa// 61 people intercepted and returned to Detention Centre in Libya that was hit by an airstrike last week// 26 people arrive in Chios// Rog solidarity space in Ljubljana raided after a public Pushback Report // Activists Put a Life vest on Molecule man in Berlin
 
 
-![Wake UP\! Activists put a life vest on Molecule man in Berlin\! \!](assets/a7a431afce72/0*gBIulHccP6uz9Ex9)
+![Wake UP\! Activists put a life vest on Molecule man in Berlin\! \!](../assets/a7a431afce72/0*gBIulHccP6uz9Ex9)
 
 Wake UP\! Activists put a life vest on Molecule man in Berlin\! \!
 #### FEATURE:
@@ -101,14 +101,14 @@ Children, mothers, fathers and a wounded woman \(8 Women, 3 Men, 7 children\) ar
 #### Statistics:
 
 
-![\\](assets/a7a431afce72/1*bOxEWg9K9ehATvg4E9keqw.png)
+![\\](../assets/a7a431afce72/1*bOxEWg9K9ehATvg4E9keqw.png)
 
 \\
 
 Samos Project Coordinater Needed — [Find out more\.](https://www.actionforeducation.co.uk/press/coordinatorsamos?fbclid=IwAR3CtyxQLD0p73zTBVhFpPhexsuFo4dPDPoqNclH_IywYohxENrUhgTxeqo)
 
 
-![](assets/a7a431afce72/0*lbhft8oVZ81uX3L1)
+![](../assets/a7a431afce72/0*lbhft8oVZ81uX3L1)
 
 #### Mainland
 
@@ -123,7 +123,7 @@ Thursdays — Arabic, Turkish
 Fridays — French
 
 
-![](assets/a7a431afce72/0*3j6yP_dlaSpZRQfu)
+![](../assets/a7a431afce72/0*3j6yP_dlaSpZRQfu)
 
 
 **\! \!ABOLITION OF UNSUITABLE DETENTION CENTRES IN GREECE\! \!**
@@ -165,7 +165,7 @@ Below is an excerpt from our [Daily Digest From the 29/03/2019](http://For more 
 On Friday 17th, Slovenian activists published a detailed report on the commitment of Slovenian police to the questionable methods of “border protection\.” On the same evening, the police raided Rog, the solidarity squat in Slovenian capital Ljubljana\. The unannounced and unpleasant event, fortunately ended with no serious consequences for those who were inside\. However, it does pose a question, and very likely leaves a message to those who are vocal about the unjust treatment of people at the borders \(and within them\) \.
 
 
-![Presentation of the Report at the Slovenian Academy of Science and Arts \(Photo: AYS\)](assets/a7a431afce72/1*64CzbgxzBfK5qx7q3DR-UQ.jpeg)
+![Presentation of the Report at the Slovenian Academy of Science and Arts \(Photo: AYS\)](../assets/a7a431afce72/1*64CzbgxzBfK5qx7q3DR-UQ.jpeg)
 
 Presentation of the Report at the Slovenian Academy of Science and Arts \(Photo: AYS\)
 #### GERMANY
@@ -180,23 +180,23 @@ Anarchist Collective activists in Berlin have attached a life jacket onto the mo
 
 
 
-![](assets/a7a431afce72/0*l32PRrig4TaTLvMe)
+![](../assets/a7a431afce72/0*l32PRrig4TaTLvMe)
 
 
 
-![](assets/a7a431afce72/0*i_IR8Uh8XHUNDPCw)
+![](../assets/a7a431afce72/0*i_IR8Uh8XHUNDPCw)
 
 
 
-![](assets/a7a431afce72/1*b31hiO4ynbDLRrXWEFF4aQ.png)
+![](../assets/a7a431afce72/1*b31hiO4ynbDLRrXWEFF4aQ.png)
 
 
 
-![](assets/a7a431afce72/0*qa9IXTH-xSw_fxzo)
+![](../assets/a7a431afce72/0*qa9IXTH-xSw_fxzo)
 
 
 
-![](assets/a7a431afce72/0*NVX9wYMwxkz4KJcu)
+![](../assets/a7a431afce72/0*NVX9wYMwxkz4KJcu)
 
 
 The German Parliament is discussing a bill, dubbed “the orderly return law” that will make it more likely that rejected asylum seekers will be deported\. The bill would mean that anyone rejected will be put in prison, together with people convicted of crimes\.
@@ -207,7 +207,7 @@ Although Germany did review the security situation of Syria in March 2018, it is
 [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__xts__%5B0%5D=68.ARA9LaKQBk6scdx_qvjm7WADcSe8IQJz09bBnzMAFEjj_aaOQMwPGEdbhKaslqpgdbPVXadzQpM2UywVW-ANysshmgyyWSTUknE1wPWYp229-_0viNh06jIJWahyCqQHe5hxs59E63mMfT5-DZlINHZvmEtUzlR71BAVassWIhquQPzESim3j9fWiVB1imEZg8G3hCwfHq_Z1P4juMt5Z8FnwOYFraAkRGkjwb8_8Mg74tz32YGv299LOwNuqGmJ4hDRuaotUEVUzkrTOIpv7KDbkk4Rd4nMNGo0ZRvjqW0p7KxEhwtgFiZ0kgC_PXRJlqCUhxAAdv1c41THpfGeF4CMpg&__tn__=k%2AF&tn-str=k%2AF) report of a fundraiser that will be occurring on Sunday the 19th of May\. It will be a festive action and they invite you to participate\. See below\.
 
 
-![](assets/a7a431afce72/0*eQ6jUxbR-OqNRfoP)
+![](../assets/a7a431afce72/0*eQ6jUxbR-OqNRfoP)
 
 
 [A decision was made in relation to a law that would see the modification of the evaluation procedure of unaccompanied minors in France](https://www.gisti.org/spip.php?article6161&fbclid=IwAR2ttaAUhqrqT1TeNXTFK7bcganrgCnu7HDGykLgAX86Q2MIY4xx_m1QWIs) \. The change would have seen a biometric file created for unaccompanied minors\. The Council of State has agreed to the demands of 19 organisations and has passed the matter on to the Constitutional Council for review\.

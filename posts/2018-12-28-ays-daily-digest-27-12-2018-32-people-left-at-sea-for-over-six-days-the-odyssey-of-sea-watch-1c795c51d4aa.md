@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 27/12/2018: 32 people left at sea for over six days — the odyssey of Sea-Watch
+title: "AYS Daily Digest 27/12/2018: 32 people left at sea for over six days — the odyssey of Sea-Watch"
 author: Are You Syrious?
 date: 2018-12-28T12:12:20.548+0000
 last_modified_at: 2018-12-28T12:12:20.548+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [refugees,digest,mediterranean,greece,italy]
 description: Are You Syrious?
 image:
-  path: assets/1c795c51d4aa/1*xY8JJq35vWCJFC6FEsN9SA.jpeg
+  path: ../assets/1c795c51d4aa/1*xY8JJq35vWCJFC6FEsN9SA.jpeg
 ---
 
 ### AYS Daily Digest 27/12/2018: 32 people left at sea for over six days — the odyssey of Sea\-Watch
 
 
-![](assets/1c795c51d4aa/1*Tx1u1RSutf5fWmPbOOmJVA.jpeg)
+![](../assets/1c795c51d4aa/1*Tx1u1RSutf5fWmPbOOmJVA.jpeg)
 
 
 [Are You Syrious?](https://medium.com/@AreYouSyrious?source=post_header_lockup)
@@ -23,7 +23,7 @@ Dec 28
 _Horrible weather conditions in Syria force people to displace // News from the Mediterranean // Donations and volunteers needed in Lesvos and Northern Greece // A van with 39 migrants was stopped in Croatia // Another death in Italy // And more information from the field…_
 
 
-![Credit: Watch the Med — Alarmphone](assets/1c795c51d4aa/1*xY8JJq35vWCJFC6FEsN9SA.jpeg)
+![Credit: Watch the Med — Alarmphone](../assets/1c795c51d4aa/1*xY8JJq35vWCJFC6FEsN9SA.jpeg)
 
 Credit: Watch the Med — Alarmphone
 ### FEATURE
@@ -74,11 +74,11 @@ Bad weather conditions and heavy rains are destroying the tents where the alread
 People on the move are drawing their journeys to Europe to describe them more clearly\.
 
 
-![](assets/1c795c51d4aa/1*xQYvD9Q2zwB75Zmd70B_lQ.jpeg)
+![](../assets/1c795c51d4aa/1*xQYvD9Q2zwB75Zmd70B_lQ.jpeg)
 
 
 
-![Credit: Sally Hayden\. Original source: [https://twitter\.com/sallyhayd/status/1078013428265115649?s=19&fbclid=IwAR3d\- \_F8qr73SsOpeo\_criTouk6hrzN2FClen61\_A2QK6JekLuZVT8dJz\-I](https://twitter.com/sallyhayd/status/1078013428265115649?s=19&fbclid=IwAR3d-_F8qr73SsOpeo_criTouk6hrzN2FClen61_A2QK6JekLuZVT8dJz-I)](assets/1c795c51d4aa/1*38UjdnIKTZJXwAxEuUQuvw.jpeg)
+![Credit: Sally Hayden\. Original source: [https://twitter\.com/sallyhayd/status/1078013428265115649?s=19&fbclid=IwAR3d\- \_F8qr73SsOpeo\_criTouk6hrzN2FClen61\_A2QK6JekLuZVT8dJz\-I](https://twitter.com/sallyhayd/status/1078013428265115649?s=19&fbclid=IwAR3d-_F8qr73SsOpeo_criTouk6hrzN2FClen61_A2QK6JekLuZVT8dJz-I)](../assets/1c795c51d4aa/1*38UjdnIKTZJXwAxEuUQuvw.jpeg)
 
 Credit: Sally Hayden\. Original source: [https://twitter\.com/sallyhayd/status/1078013428265115649?s=19&fbclid=IwAR3d\- \_F8qr73SsOpeo\_criTouk6hrzN2FClen61\_A2QK6JekLuZVT8dJz\-I](https://twitter.com/sallyhayd/status/1078013428265115649?s=19&fbclid=IwAR3d-_F8qr73SsOpeo_criTouk6hrzN2FClen61_A2QK6JekLuZVT8dJz-I)
 ### SEA

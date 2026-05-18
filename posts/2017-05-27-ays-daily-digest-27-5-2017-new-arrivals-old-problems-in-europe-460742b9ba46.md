@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST: 27/5/2017: New arrivals, old problems in Europe
+title: "AYS DAILY DIGEST: 27/5/2017: New arrivals, old problems in Europe"
 author: Are You Syrious?
 date: 2017-05-27T22:53:51.241+0100
 last_modified_at: 2017-05-27T22:53:51.241+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,chios,greece,samos,bologna]
 description: The first day of Ramadan on Samos ended with anger and another disappointment // More arrivals in Greece and Italy and volunteers who…
 image:
-  path: assets/460742b9ba46/1*U2bw5hYwDiXO-tCJHZWFXw.jpeg
+  path: ../assets/460742b9ba46/1*U2bw5hYwDiXO-tCJHZWFXw.jpeg
 ---
 
 ### AYS DAILY DIGEST: 27/5/2017: New arrivals, old problems in Europe
@@ -15,7 +15,7 @@ image:
 _The first day of Ramadan on Samos ended with anger and another disappointment // More arrivals in Greece and Italy and volunteers who welcome people // Big welcome for migrants and refugees from Bologna // Confusing information about relocations and reunifications in EU // Four people arrested in Bosnia_
 
 
-![EU inhumain\. By Pedripol\. \(from Art Against\)](assets/460742b9ba46/1*U2bw5hYwDiXO-tCJHZWFXw.jpeg)
+![EU inhumain\. By Pedripol\. \(from Art Against\)](../assets/460742b9ba46/1*U2bw5hYwDiXO-tCJHZWFXw.jpeg)
 
 EU inhumain\. By Pedripol\. \(from Art Against\)
 ### Greece
@@ -39,7 +39,7 @@ Volunteers are also reporting about a boat that was pushed back by the Turkish C
 New arrivals are making an already very difficult situation even more daring\. The islands are overcrowded, and the authorities are not finding the way to speed up the process of transferring people to the mainland\.
 
 
-![Landing on Chios\. By [Chios Easter Shore Response Team](https://www.facebook.com/groups/421759534684819/permalink/637767243084046/) \.](assets/460742b9ba46/1*gxrZ6a9KDaZLMteKapQCRQ.jpeg)
+![Landing on Chios\. By [Chios Easter Shore Response Team](https://www.facebook.com/groups/421759534684819/permalink/637767243084046/) \.](../assets/460742b9ba46/1*gxrZ6a9KDaZLMteKapQCRQ.jpeg)
 
 Landing on Chios\. By [Chios Easter Shore Response Team](https://www.facebook.com/groups/421759534684819/permalink/637767243084046/) \.
 
@@ -95,14 +95,14 @@ New arrivals on Chios means that volunteers are more engaged and need your help\
 If you can help, visit [their FB page](https://www.facebook.com/groups/421759534684819/) \. They say that the situation is worst than ever\.
 
 
-![](assets/460742b9ba46/1*UxzC8WGfDDSaTE0tuBVElg.jpeg)
+![](../assets/460742b9ba46/1*UxzC8WGfDDSaTE0tuBVElg.jpeg)
 
 ### Italy
 
 Again, elected politicians are doing one thing, and people are asking something completely different\. Behind closed borders and guards, there are people who welcome refugees and migrants\. New proof comes from Bologna where thousands of people gathered at the demo to say No one is illegal\!
 
 
-![Photo by [Tpo](https://www.facebook.com/tpo.bo.it/posts/1446875618689644) \.](assets/460742b9ba46/1*MGicTMiXVvgd2hVDRpUyPA.jpeg)
+![Photo by [Tpo](https://www.facebook.com/tpo.bo.it/posts/1446875618689644) \.](../assets/460742b9ba46/1*MGicTMiXVvgd2hVDRpUyPA.jpeg)
 
 Photo by [Tpo](https://www.facebook.com/tpo.bo.it/posts/1446875618689644) \.
 

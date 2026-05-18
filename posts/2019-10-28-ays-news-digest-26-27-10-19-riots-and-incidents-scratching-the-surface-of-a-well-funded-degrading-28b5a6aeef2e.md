@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 26–27/10/19: Riots and incidents scratching the surface of a well funded degrading…
+title: "AYS News Digest 26–27/10/19: Riots and incidents scratching the surface of a well funded degrading…"
 author: Are You Syrious?
 date: 2019-10-28T21:36:15.291+0000
 last_modified_at: 2019-10-28T21:36:15.291+0000

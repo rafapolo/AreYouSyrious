@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 16/03/22: There is no such a thing as a “bad” refugee
+title: "AYS News Digest 16/03/22: There is no such a thing as a “bad” refugee"
 author: Are You Syrious?
 date: 2022-03-16T23:27:41.013+0000
 last_modified_at: 2022-03-17T20:40:19.570+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,ukraine,syria,refugees,migration]
 description: 11 years since the start of the Syrian war / Indication of trafficking and exploitation in Ukraine and surrounding regions / Changes in the…
 image:
-  path: assets/47c9cf9d7221/0*6KPCjJLJeoMgZyft
+  path: ../assets/47c9cf9d7221/0*6KPCjJLJeoMgZyft
 ---
 
 ### AYS News Digest 16/03/22: There is no such a thing as a “bad” refugee
 #### 11 years since the start of the Syrian war / Indication of trafficking and exploitation in Ukraine and surrounding regions / Changes in the SAR systems for European member states / Latest analysis of the UK’s asylum procedure / Continued critique and discussion of the responses from European states towards Ukrainian refugees, and more…
 
 
-![\- The New Humanitarian — A group of men from the Yemen hiding in a forest in Poland](assets/47c9cf9d7221/0*6KPCjJLJeoMgZyft)
+![\- The New Humanitarian — A group of men from the Yemen hiding in a forest in Poland](../assets/47c9cf9d7221/0*6KPCjJLJeoMgZyft)
 
 \- The New Humanitarian — A group of men from the Yemen hiding in a forest in Poland
 #### **FEATURE**
@@ -22,7 +22,7 @@ image:
 **The Danish Immigration Service [requested that the Danish municipalities assess their capacity to accept Ukrainian refugees](https://www.hrw.org/news/2022/03/16/denmarks-mismatched-treatment-syrian-and-ukrainian-refugees?fbclid=IwAR3mbr90n4IduvAqciUodJEI-UZ2BLTFacdTZsQAya-FhT6rJquT-7IiM6Y) \.**
 
 
-![](assets/47c9cf9d7221/0*4yUSLpkMh_-PzBmt)
+![](../assets/47c9cf9d7221/0*4yUSLpkMh_-PzBmt)
 
 
 **Denmark** in recent years has shown great hostility to refugees and asylum seekers\. For instance, the government implemented a so\-called “jewellery law” whereby the government has the right to seize asylum seekers’ assets, such as jewellery, to fund their stay in the country\. They also implemented a zero\-asylum policy\. More recently, the Immigration Service removed temporary protection from Syrian refugees, despite Syria still being exceptionally dangerous to return to\. Nonetheless, Ukrainian refugees are exempt from this hostility, and are welcomed into Denmark\. This is, of course, a commendable response, but this welcome needs to be extended to all refugees\.
@@ -92,7 +92,7 @@ As mentioned in our previous digest, 20 Syrian asylum seekers are **STILL** stra
 The Cypriot commissioner for children’s rights, Despo Michalidou, stated that the conditions in the camp are “miserable” and “unhygienic”\. It has also been said that asylum seekers in Pournara camp do not receive enough food, and there aren’t enough bathrooms for everyone\.
 
 
-![](assets/47c9cf9d7221/0*U-_3ydW3lPojBSAD.jpg)
+![](../assets/47c9cf9d7221/0*U-_3ydW3lPojBSAD.jpg)
 
 #### **UKRAINE**
 ### **Increased risk of human trafficking for people fleeing Ukraine**
@@ -137,7 +137,7 @@ However, in Belarus it is still the same; the Belarusian border has a great deal
 In the Mediterranean, the coastal states have the responsibility of their own Search and Rescue Regions \(SRR\), as shown in the map below\. They are obligated to have a national SAR system; however, they have autonomy over how they do this, and who is responsible for carrying out sea operations\.
 
 
-![](assets/47c9cf9d7221/1*Ijy81GXQ2yDHjVYW5fiSJQ.png)
+![](../assets/47c9cf9d7221/1*Ijy81GXQ2yDHjVYW5fiSJQ.png)
 
 
 [An article by Luna Vives and Paola Arenas](https://www.law.ox.ac.uk/research-subject-groups/centre-criminology/centreborder-criminologies/blog/2022/03/death-sea?fbclid=IwAR3Sjp2a_hhukZeeNUnSA6BDWqkR2c8KC_sW5TSlI_zqjyHuziMilHGePEA) discusses such changes within the context of Spain\.

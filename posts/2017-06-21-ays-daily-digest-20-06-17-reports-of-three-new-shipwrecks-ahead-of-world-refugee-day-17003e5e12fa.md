@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 20/06/17: Reports of three new shipwrecks ahead of World Refugee Day
+title: "AYS Daily Digest 20/06/17: Reports of three new shipwrecks ahead of World Refugee Day"
 author: Are You Syrious?
 date: 2017-06-21T05:06:15.428+0100
 last_modified_at: 2017-08-29T17:16:53.992+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,hungary,world-refugee-day,calais,pushback]
 description: Investigation on pushback to Turkey under way / One deportation from France to Afghanistan cancelled / New cases of violence from Hungary /…
 image:
-  path: assets/17003e5e12fa/0*VuZ6b56NSsEPzMsw.
+  path: ../assets/17003e5e12fa/0*VuZ6b56NSsEPzMsw.
 ---
 
 ### AYS Daily Digest 20/06/17: Reports of three new shipwrecks ahead of World Refugee Day
@@ -15,7 +15,7 @@ image:
 _Investigation on pushback to Turkey under way / One deportation from France to Afghanistan cancelled / New cases of violence from Hungary / At least 130 missing in the Mediterranean / And more news…_
 
 
-![\(Photo by Jugend Rettet\)](assets/17003e5e12fa/0*VuZ6b56NSsEPzMsw.)
+![\(Photo by Jugend Rettet\)](../assets/17003e5e12fa/0*VuZ6b56NSsEPzMsw.)
 
 \(Photo by Jugend Rettet\)
 #### Feature
@@ -32,7 +32,7 @@ In a common statement, sea rescue NGOs including [Sea Watch](https://sea-watch.o
 Meanwhile, Proactiva’s new boat Open Arms is ready to set sail\. It says it was able to save 20,000 live in the Central Mediterranean, adding “ _there’s another figure that nobody wants to see, which is the number of people who lost their dream along the way_ ”\.
 
 
-![Photo by Proactiva Open Arms](assets/17003e5e12fa/0*HLe5Jb7e2vjy2x8x.jpg)
+![Photo by Proactiva Open Arms](../assets/17003e5e12fa/0*HLe5Jb7e2vjy2x8x.jpg)
 
 Photo by Proactiva Open Arms
 #### Greece
@@ -48,13 +48,13 @@ On 20th of January 2014, eight children and three women from Afghanistan lost th
 [Midnight Helpers](https://www.facebook.com/groups/ROYartsaveslives/permalink/1382916205131377/?pnref=story) groups shared an picture from Souda, Chios, of arefugee speaks on his phone inside his shelter that stands next to a fishing boat\. According to the official data, since the beginning of the year, 8,384 new arrivals were registered at the overcrowded islands\. “Shelters on Chios, a Greek island 7 kilometers \(4\.5 miles\) from the coast of Turkey, are filled beyond capacity\. Many new arrivals, including infants, now sleep in tents on the beach,” they say in one of their posts\. People are left on the islands to wait for the decision about their transfer to mainland, or possible expulsion to Turkey\. Around 14,000 people are waiting there\.
 
 
-![From [Midnight Helpers](https://www.facebook.com/groups/ROYartsaveslives/permalink/1382916205131377/?pnref=story) \. Photo by Petros Giannakouris/AP](assets/17003e5e12fa/1*3csZk0ekfw4IvFzMRaL5vA.jpeg)
+![From [Midnight Helpers](https://www.facebook.com/groups/ROYartsaveslives/permalink/1382916205131377/?pnref=story) \. Photo by Petros Giannakouris/AP](../assets/17003e5e12fa/1*3csZk0ekfw4IvFzMRaL5vA.jpeg)
 
 From [Midnight Helpers](https://www.facebook.com/groups/ROYartsaveslives/permalink/1382916205131377/?pnref=story) \. Photo by Petros Giannakouris/AP
 ### Donations needed for Ramadan
 
 
-![Photo by Refugee Support Greece](assets/17003e5e12fa/0*mvc6bu5hWqJaNv9H.)
+![Photo by Refugee Support Greece](../assets/17003e5e12fa/0*mvc6bu5hWqJaNv9H.)
 
 Photo by Refugee Support Greece
 
@@ -65,7 +65,7 @@ Account name: Volunteers for Humanity IBAN: CH96 0658 8570 0771 2190 6 SWIFT: RB
 ### Donations needed for the Corinth detention centre
 
 
-![](assets/17003e5e12fa/0*99KLQVeMtGKJrKTN.)
+![](../assets/17003e5e12fa/0*99KLQVeMtGKJrKTN.)
 
 
 Be1 Human reports on the situation in the Corinth detention centre, around one hour away from Athens\. They say many are desperate and in need of support\. Clothing, sanitary goods but also entertainment are among the things that are needed most\. Be1 Human is looking to bring items such as playing cards, balls and board games to make the hours of captivity a little bit more bearable\. You can support them through donations through their bank account:
@@ -85,33 +85,33 @@ Are You Syrious started welcoming refugees in its free shop, which is a part of 
 The AYS integration centre’s space has been turned into a gallery with paintings of two refugee artists — Sameer Shirzad and Hassan Jafari\. People are invited to come and purchase the paintings for a suggested donation of 100 kuna for a small format, and 150 kuna for a bigger format\. More than just helping refugees financially, locals are this way “housing” the paintings which are, otherwise, together with their owners, spending their lifetime in a refugee reception centre, waiting to have a home, waiting to be accepted by the Croatian society\.
 
 
-![](assets/17003e5e12fa/1*vI7w3Cu_A8YAVt4FM8gvdw.jpeg)
+![](../assets/17003e5e12fa/1*vI7w3Cu_A8YAVt4FM8gvdw.jpeg)
 
 
 
-![](assets/17003e5e12fa/1*bSRo_uRUbGTDdeAHsfIX2A.jpeg)
+![](../assets/17003e5e12fa/1*bSRo_uRUbGTDdeAHsfIX2A.jpeg)
 
 
 
-![](assets/17003e5e12fa/1*Jv2ew4LqeExqpmls3oUHug.jpeg)
+![](../assets/17003e5e12fa/1*Jv2ew4LqeExqpmls3oUHug.jpeg)
 
 
 
-![](assets/17003e5e12fa/1*Wf3vteORIOqScGKx94HUfA.jpeg)
+![](../assets/17003e5e12fa/1*Wf3vteORIOqScGKx94HUfA.jpeg)
 
 
 
-![](assets/17003e5e12fa/1*9-6bAqt1JB2qVzKX7U6j1A.jpeg)
+![](../assets/17003e5e12fa/1*9-6bAqt1JB2qVzKX7U6j1A.jpeg)
 
 
 
-![](assets/17003e5e12fa/1*-cDWYuOLBU31G53tBO4fJA.jpeg)
+![](../assets/17003e5e12fa/1*-cDWYuOLBU31G53tBO4fJA.jpeg)
 
 
 Waiting for a resolution to their status is often very difficult for refugees\. It is a time of uncertainty, anxiety, and constant worry\. In order to support refugees in these difficult times, AYS aims at organizing workshops where they can utilize their skills or learn new ones, pursue their interests and work towards their future goals\. Many refugees have, thus, approached us with a wish to learn English\. AYS therefore started organizing weekly English classes for refugees in two groups: beginners and advanced\. Our goal in the future is to organize other types of workshops for refugees as well — programming, refugee law and asylum policy info, Croatian language, are but a few ideas we had\.
 
 
-![](assets/17003e5e12fa/1*1RXa7bXfIRUrpu1stO8www.jpeg)
+![](../assets/17003e5e12fa/1*1RXa7bXfIRUrpu1stO8www.jpeg)
 
 #### Hungary
 #### Violence continues
@@ -125,11 +125,11 @@ Our friends from [Fresh Response team](https://www.facebook.com/freshresponseser
 The Refugee Youth Service says Sunday was the first food distribution in a long time where the heavy presence of police did not hang overhead, as the current court case seems to have caused a rethink\. 12 charities have taken legal action, asking for a system to be put in place to ensure basic human rights are met in the Calais area\. Care4Calais says “ food aid distribution is regularly disrupted, sleeping bags confiscated, tear gas used and park bans enforced”\. They ask for access to toilet facilities, drinking water and the enabling of regular food distribution without disruption\. Refugee Youth Service says it is now able to support young people outside of the 1\.5 hour time window recently put in place\. The group also organized a dance party, board games and other activities\.
 
 
-![](assets/17003e5e12fa/1*f6WiRLZCmNqqG7NAzGL1hA.jpeg)
+![](../assets/17003e5e12fa/1*f6WiRLZCmNqqG7NAzGL1hA.jpeg)
 
 
 
-![Photos by Refugee Youth Service](assets/17003e5e12fa/1*Dz7dA52vZpTTV3iCZ2Ka0A.jpeg)
+![Photos by Refugee Youth Service](../assets/17003e5e12fa/1*Dz7dA52vZpTTV3iCZ2Ka0A.jpeg)
 
 Photos by Refugee Youth Service
 ### Deportation to Afghanistan prevented
@@ -140,7 +140,7 @@ La Chapelle Debout says the deportation of an Afghan asylum seeker was cancelled
 Refugees in Briancon from Sudan and Chad have installed tents in front of the local reception centre and have started a hunger strike in protest against Dublin III deportations to Italy\. 16 out of 24 refugees who went to this reception centre in November 2016 are concerned by this procedure\. The refugees feel betrayed, are asking for their fundamental right to be informed and to have the possibility to chose in which country they ask for asylum\.
 
 
-![Photo by Refugee Info Bus \(Calais\)](assets/17003e5e12fa/0*h4QM_2X32dW71X0e.)
+![Photo by Refugee Info Bus \(Calais\)](../assets/17003e5e12fa/0*h4QM_2X32dW71X0e.)
 
 Photo by Refugee Info Bus \(Calais\)
 #### UK

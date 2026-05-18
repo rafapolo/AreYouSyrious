@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 06.10.17: Moria overcrowding reaches tipping point
+title: "AYS Daily Digest 06.10.17: Moria overcrowding reaches tipping point"
 author: Are You Syrious?
 date: 2017-10-07T07:19:29.824+0100
 last_modified_at: 2017-10-07T11:19:48.755+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,greece,hungary,europe,uk]
 description: A report on Iraqi refugees’ movements to and from Europe // HRW publishes report on war crimes trials pertaining to Syrian Civil War //…
 image:
-  path: assets/7bc241b770e1/1*Vi0U-qDmo0T6IkkS7PWETw.jpeg
+  path: ../assets/7bc241b770e1/1*Vi0U-qDmo0T6IkkS7PWETw.jpeg
 ---
 
 ### AYS Daily Digest 06\.10\.17: Moria overcrowding reaches tipping point
 #### A report on Iraqi refugees’ movements to and from Europe // HRW publishes report on war crimes trials pertaining to Syrian Civil War // Hungarian government spreads yet another Soros conspiracy theory // Croatia to take in 150 refugees from Turkey // Switzerland signs deal to deport people to Tunisia // Judge in Lille orders eviction of camp, no alternative place of residence provided // IOM releases latest data on movement across the Mediterranean
 
 
-![Refugees waiting to be registered in Moria in 2015\. The overcrowding of those days is once more an issue\. Photo Credit: Salinia Stroux](assets/7bc241b770e1/1*Vi0U-qDmo0T6IkkS7PWETw.jpeg)
+![Refugees waiting to be registered in Moria in 2015\. The overcrowding of those days is once more an issue\. Photo Credit: Salinia Stroux](../assets/7bc241b770e1/1*Vi0U-qDmo0T6IkkS7PWETw.jpeg)
 
 Refugees waiting to be registered in Moria in 2015\. The overcrowding of those days is once more an issue\. Photo Credit: Salinia Stroux
 #### Feature
@@ -99,7 +99,7 @@ A representative of the Swiss government signed a deal in Tunis, promising the c
 #### France
 
 
-![An infographic on homeless youth in Calais\.](assets/7bc241b770e1/1*ilaxyQza0HZBca_W6m3X-Q.jpeg)
+![An infographic on homeless youth in Calais\.](../assets/7bc241b770e1/1*ilaxyQza0HZBca_W6m3X-Q.jpeg)
 
 An infographic on homeless youth in Calais\.
 ### Judge orders eviction of refugees by October 13
@@ -161,7 +161,7 @@ On Friday morning before 8 AM, police, with the support of CGIL and USB union re
 #### Mediterranean
 
 
-![The latest figures on migration in the Mediterranean\.](assets/7bc241b770e1/1*xNBoqhLrMRP6wOKsacVicg.jpeg)
+![The latest figures on migration in the Mediterranean\.](../assets/7bc241b770e1/1*xNBoqhLrMRP6wOKsacVicg.jpeg)
 
 The latest figures on migration in the Mediterranean\.
 ### IOM releases latest infographic on migration in the Mediterranean

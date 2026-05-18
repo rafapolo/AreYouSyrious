@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,greece,italy,germany,digest]
 description: Translation of Libyan decree limiting rescue missions from NGOs // welcomed update on the boat that the Reconnaissance plane Moonbird…
 image:
-  path: assets/3ab7ffb0b13a/1*5ReUPuCLCBoULHAvo5ub7g.jpeg
+  path: ../assets/3ab7ffb0b13a/1*5ReUPuCLCBoULHAvo5ub7g.jpeg
 ---
 
 ### AYS Daily Digest 29/10/19 Ocean Viking with 104 people disembarks after 11 days at sea
@@ -15,7 +15,7 @@ image:
 _Translation of Libyan decree limiting rescue missions from NGOs // welcomed update on the boat that the Reconnaissance plane Moonbird spotted // important event against Italy’s extending relations with Libya // ECCHR and Syrian regime // and more…_
 
 
-![11 days at sea for 104 people, including two pregnant women\. Photo by [SOS MEDITERRANEE](https://twitter.com/SOSMedIntl/status/1189158066283057152)](assets/3ab7ffb0b13a/1*5ReUPuCLCBoULHAvo5ub7g.jpeg)
+![11 days at sea for 104 people, including two pregnant women\. Photo by [SOS MEDITERRANEE](https://twitter.com/SOSMedIntl/status/1189158066283057152)](../assets/3ab7ffb0b13a/1*5ReUPuCLCBoULHAvo5ub7g.jpeg)
 
 11 days at sea for 104 people, including two pregnant women\. Photo by [SOS MEDITERRANEE](https://twitter.com/SOSMedIntl/status/1189158066283057152)
 ### Feature: The Ocean Viking enters it’s 11th day at sea with 104 people on board…
@@ -82,7 +82,7 @@ A coalition of European States must allow their disembarkation without further d
 An in the latest update: _“they are now outside the GDF, the only “safe” temporary place in Libya, begging UNHCR to help them\.”_
 
 
-![Photo provided by [Alterego — Factory of rights](https://www.facebook.com/fabbricadeidiritti/photos/a.933178506826733/1795406360603939/?type=3&theater)](assets/3ab7ffb0b13a/1*T_hRJC4_kKejG5T3ZVsCuw.jpeg)
+![Photo provided by [Alterego — Factory of rights](https://www.facebook.com/fabbricadeidiritti/photos/a.933178506826733/1795406360603939/?type=3&theater)](../assets/3ab7ffb0b13a/1*T_hRJC4_kKejG5T3ZVsCuw.jpeg)
 
 Photo provided by [Alterego — Factory of rights](https://www.facebook.com/fabbricadeidiritti/photos/a.933178506826733/1795406360603939/?type=3&theater)
 
@@ -129,7 +129,7 @@ Let's repeat it once more: LIBYA IS NOT A LEGITIMATE OR CAPABLE RESCUE AUTHORITY
 
 
 ![“The @ Frontex moves in a French ship 68 people at Port \# Malaga \. Today \+200 
- 🗣Among them 16 children travel between 6 and 17 years according to the European authorities\.” Photo by [Sergio Rodrigo](https://twitter.com/SRodrigoruiz/status/1189253286345531398)](assets/3ab7ffb0b13a/1*OkLwxyT_aA9mnZAORShppA.jpeg)
+ 🗣Among them 16 children travel between 6 and 17 years according to the European authorities\.” Photo by [Sergio Rodrigo](https://twitter.com/SRodrigoruiz/status/1189253286345531398)](../assets/3ab7ffb0b13a/1*OkLwxyT_aA9mnZAORShppA.jpeg)
 
 “The @ Frontex moves in a French ship 68 people at Port \# Malaga \. Today \+200 
  🗣Among them 16 children travel between 6 and 17 years according to the European authorities\.” Photo by [Sergio Rodrigo](https://twitter.com/SRodrigoruiz/status/1189253286345531398)
@@ -154,11 +154,11 @@ Thirteenth boat to Kos: 27 people
 Fourteenth — sixteenth boat to Leros: 35 people, 40 people, and 35 people
 
 
-![](assets/3ab7ffb0b13a/1*LAz6HFiHm7AoJTlHJ-9ItA.jpeg)
+![](../assets/3ab7ffb0b13a/1*LAz6HFiHm7AoJTlHJ-9ItA.jpeg)
 
 
 
-![Photos from [Chios Eastern Shore Response Team](https://www.facebook.com/groups/421759534684819/permalink/1226035057590592/?hc_location=ufi) from the new arrivals distributions on Tuesday morning](assets/3ab7ffb0b13a/1*cVZEzJp3QHjophUV6fT1_A.jpeg)
+![Photos from [Chios Eastern Shore Response Team](https://www.facebook.com/groups/421759534684819/permalink/1226035057590592/?hc_location=ufi) from the new arrivals distributions on Tuesday morning](../assets/3ab7ffb0b13a/1*cVZEzJp3QHjophUV6fT1_A.jpeg)
 
 Photos from [Chios Eastern Shore Response Team](https://www.facebook.com/groups/421759534684819/permalink/1226035057590592/?hc_location=ufi) from the new arrivals distributions on Tuesday morning
 
@@ -178,11 +178,11 @@ In an update on the Food Camp Mission from Chios, [Ruhi Loren](https://www.faceb
 
 
 
-![](assets/3ab7ffb0b13a/1*1TPqcvsZ-q2hXXht5shU9A.jpeg)
+![](../assets/3ab7ffb0b13a/1*1TPqcvsZ-q2hXXht5shU9A.jpeg)
 
 
 
-![Photos by [Ruhi Loren](https://www.facebook.com/ruhi.akhtar.7/posts/2987941231222765?hc_location=ufi)](assets/3ab7ffb0b13a/1*oyzEp5oG6wZ05BKQNgbzdg.jpeg)
+![Photos by [Ruhi Loren](https://www.facebook.com/ruhi.akhtar.7/posts/2987941231222765?hc_location=ufi)](../assets/3ab7ffb0b13a/1*oyzEp5oG6wZ05BKQNgbzdg.jpeg)
 
 Photos by [Ruhi Loren](https://www.facebook.com/ruhi.akhtar.7/posts/2987941231222765?hc_location=ufi)
 

@@ -1,13 +1,13 @@
 ---
-title: AYS Weekend Digest 30/11–01/12/2019: Impotence and hypocrisy. Vučjak camp
+title: "AYS Weekend Digest 30/11–01/12/2019: Impotence and hypocrisy. Vučjak camp"
 author: Are You Syrious?
 date: 2019-12-02T14:31:36.202+0000
 last_modified_at: 2019-12-02T18:58:17.796+0000
 categories: Are You Syrious?
 tags: [refugees,digest,unhcr,vučjak,sardine]
-description: Libya: fire in Zintan ///Greece: New details on closed island centres and new fence on the Evros border /// Sea: Several rescues in the…
+description: "Libya: fire in Zintan ///Greece: New details on closed island centres and new fence on the Evros border /// Sea: Several rescues in the…"
 image:
-  path: assets/d55313aad34/1*Co5rvL93BzFmBpBEfN43sg.jpeg
+  path: ../assets/d55313aad34/1*Co5rvL93BzFmBpBEfN43sg.jpeg
 ---
 
 ### AYS Weekend Digest 30/11–01/12/2019: Impotence and hypocrisy\. Vučjak camp
@@ -15,7 +15,7 @@ image:
 Libya: fire in Zintan ///Greece: New details on closed island centres and new fence on the Evros border /// Sea: Several rescues in the Western Med and worsening situation aboard the Alan Kurdi /// Italy: tens of thousands of people take to the streets against racism while Salvini risks new charges /// France: Court recommends improvements to asylum system
 
 
-![Vucjak \(Photo by AYS\)](assets/d55313aad34/1*Co5rvL93BzFmBpBEfN43sg.jpeg)
+![Vucjak \(Photo by AYS\)](../assets/d55313aad34/1*Co5rvL93BzFmBpBEfN43sg.jpeg)
 
 Vucjak \(Photo by AYS\)
 #### Feature Story — Impotence and hypocrisy: Vučjak camp
@@ -27,40 +27,40 @@ On the one sunny day of the past week the bloody puddles between the loosely set
 Coming back from the difficult terrain, the dangerous mountain area which is their only option on the way forward, people are still found arriving barefoot or sent back in flip flops, beaten, wounded and robbed\.
 
 
-![](assets/d55313aad34/1*gEkKA-izv6S4Rp9t4oPUQA.jpeg)
+![](../assets/d55313aad34/1*gEkKA-izv6S4Rp9t4oPUQA.jpeg)
 
 
 
-![Plješivica mountains in the back, tents set up on top of a toxic dump / Broken shoes of people who disposed of them as they managed to move on, went back or are still in the area, hoping to get a new chance — to survive \(Photo: AYS\)](assets/d55313aad34/1*ISuqUSrQSuK31j6616cY_A.jpeg)
+![Plješivica mountains in the back, tents set up on top of a toxic dump / Broken shoes of people who disposed of them as they managed to move on, went back or are still in the area, hoping to get a new chance — to survive \(Photo: AYS\)](../assets/d55313aad34/1*ISuqUSrQSuK31j6616cY_A.jpeg)
 
 Plješivica mountains in the back, tents set up on top of a toxic dump / Broken shoes of people who disposed of them as they managed to move on, went back or are still in the area, hoping to get a new chance — to survive \(Photo: AYS\)
 
 The dump beneath the ground the people sleep on makes the area even more dangerous and impossible to live with the growing amounts of different types of waste that are inevitably piling up\.
 
 
-![](assets/d55313aad34/1*B0corglVASGh8jimeGWLSQ.jpeg)
+![](../assets/d55313aad34/1*B0corglVASGh8jimeGWLSQ.jpeg)
 
 
 
-![Following one of the group actions of rubbish collection by the people staying in Vučjak and the young Red Cross workers of Bihać / provisional tents were built by the people staying in the place, but unfortunately, neither these, nor most of the real tents are positioned in a way that would secure a firm and secure shelter from the harsh weather of the area \(Photos: AYS\)](assets/d55313aad34/1*jxuqWJ-CTjniadCc6ICaNQ.jpeg)
+![Following one of the group actions of rubbish collection by the people staying in Vučjak and the young Red Cross workers of Bihać / provisional tents were built by the people staying in the place, but unfortunately, neither these, nor most of the real tents are positioned in a way that would secure a firm and secure shelter from the harsh weather of the area \(Photos: AYS\)](../assets/d55313aad34/1*jxuqWJ-CTjniadCc6ICaNQ.jpeg)
 
 Following one of the group actions of rubbish collection by the people staying in Vučjak and the young Red Cross workers of Bihać / provisional tents were built by the people staying in the place, but unfortunately, neither these, nor most of the real tents are positioned in a way that would secure a firm and secure shelter from the harsh weather of the area \(Photos: AYS\)
 
 People have been lighting fires inside the tents as they seek a way to warm themselves up during the long cold nights\. However, that presents a danger both for the tents to catch fire, and for the people to get sick from the fumes and potential fire hazard\.
 
 
-![One of the larger tents where people were warming up around a fire\. There are fires lit in the smaller tents where people sleep, too \(Photo: AYS\)](assets/d55313aad34/1*BBF9xoebFv_Orlj2xqq_og.jpeg)
+![One of the larger tents where people were warming up around a fire\. There are fires lit in the smaller tents where people sleep, too \(Photo: AYS\)](../assets/d55313aad34/1*BBF9xoebFv_Orlj2xqq_og.jpeg)
 
 One of the larger tents where people were warming up around a fire\. There are fires lit in the smaller tents where people sleep, too \(Photo: AYS\)
 
 Private donations delivered and organised by a small activist group of people from Austria and Bosnia and Herzegovina on board 4 trucks contained clothes, blankets, shoes and other basic items lacking among the people stuck in Vučjak\.
 
 
-![](assets/d55313aad34/1*0uQelqlDw8jm6bGBxgkqlw.jpeg)
+![](../assets/d55313aad34/1*0uQelqlDw8jm6bGBxgkqlw.jpeg)
 
 
 
-![Queueing for the newly arrived blankets and clothes\. \(Photos: [Dean Dean](https://www.facebook.com/dean.blazevic?__tn__=%2CdK-R-R&eid=ARCKNz2YEbB9kOSOjNeu55giA1NHo2pnNIjDVaSyx3vdNyLnesRP-npclVjAvu1kiZH8AWXysMouEfYU) via [Dirk Planert](https://www.facebook.com/dirk.planert?__tn__=%2CdlC-R-R&eid=ARBTze66FwfNhOGmo-15YS7055gDwb9DbeOOblIZnRUatspipFXYOdYIEKHl369MGsvTcyVUuhiOsYQS&hc_ref=ARS1G6VGWX4EQpjVH1Uds0Sqg-uJ_yM_5syZV8DTLmbe68_8voYzV2r60vbn43xkSqc) \)](assets/d55313aad34/1*GTQZZ2e09PBo0wjikvRLyQ.jpeg)
+![Queueing for the newly arrived blankets and clothes\. \(Photos: [Dean Dean](https://www.facebook.com/dean.blazevic?__tn__=%2CdK-R-R&eid=ARCKNz2YEbB9kOSOjNeu55giA1NHo2pnNIjDVaSyx3vdNyLnesRP-npclVjAvu1kiZH8AWXysMouEfYU) via [Dirk Planert](https://www.facebook.com/dirk.planert?__tn__=%2CdlC-R-R&eid=ARBTze66FwfNhOGmo-15YS7055gDwb9DbeOOblIZnRUatspipFXYOdYIEKHl369MGsvTcyVUuhiOsYQS&hc_ref=ARS1G6VGWX4EQpjVH1Uds0Sqg-uJ_yM_5syZV8DTLmbe68_8voYzV2r60vbn43xkSqc) \)](../assets/d55313aad34/1*GTQZZ2e09PBo0wjikvRLyQ.jpeg)
 
 Queueing for the newly arrived blankets and clothes\. \(Photos: [Dean Dean](https://www.facebook.com/dean.blazevic?__tn__=%2CdK-R-R&eid=ARCKNz2YEbB9kOSOjNeu55giA1NHo2pnNIjDVaSyx3vdNyLnesRP-npclVjAvu1kiZH8AWXysMouEfYU) via [Dirk Planert](https://www.facebook.com/dirk.planert?__tn__=%2CdlC-R-R&eid=ARBTze66FwfNhOGmo-15YS7055gDwb9DbeOOblIZnRUatspipFXYOdYIEKHl369MGsvTcyVUuhiOsYQS&hc_ref=ARS1G6VGWX4EQpjVH1Uds0Sqg-uJ_yM_5syZV8DTLmbe68_8voYzV2r60vbn43xkSqc) \)
 
@@ -73,7 +73,7 @@ Queueing for the newly arrived blankets and clothes\. \(Photos: [Dean Dean](http
 Among others, they also brought much\-needed tent stoves to be used in the larger tents that have holes for heating so the improvised heating system, powered with wood bought in the area, just might put a bandage where a huge need for a sustainable solution is still a burning question\.
 
 
-![Installed stove in a tent \(Photo: [Dean Dean](https://www.facebook.com/dean.blazevic?__tn__=%2CdK-R-R&eid=ARCKNz2YEbB9kOSOjNeu55giA1NHo2pnNIjDVaSyx3vdNyLnesRP-npclVjAvu1kiZH8AWXysMouEfYU) via [Dirk Planert](https://www.facebook.com/dirk.planert?__tn__=%2CdlC-R-R&eid=ARBTze66FwfNhOGmo-15YS7055gDwb9DbeOOblIZnRUatspipFXYOdYIEKHl369MGsvTcyVUuhiOsYQS&hc_ref=ARS1G6VGWX4EQpjVH1Uds0Sqg-uJ_yM_5syZV8DTLmbe68_8voYzV2r60vbn43xkSqc) \)](assets/d55313aad34/1*I4kNYzh3Cb3ZVhe4xrjAsg.jpeg)
+![Installed stove in a tent \(Photo: [Dean Dean](https://www.facebook.com/dean.blazevic?__tn__=%2CdK-R-R&eid=ARCKNz2YEbB9kOSOjNeu55giA1NHo2pnNIjDVaSyx3vdNyLnesRP-npclVjAvu1kiZH8AWXysMouEfYU) via [Dirk Planert](https://www.facebook.com/dirk.planert?__tn__=%2CdlC-R-R&eid=ARBTze66FwfNhOGmo-15YS7055gDwb9DbeOOblIZnRUatspipFXYOdYIEKHl369MGsvTcyVUuhiOsYQS&hc_ref=ARS1G6VGWX4EQpjVH1Uds0Sqg-uJ_yM_5syZV8DTLmbe68_8voYzV2r60vbn43xkSqc) \)](../assets/d55313aad34/1*I4kNYzh3Cb3ZVhe4xrjAsg.jpeg)
 
 Installed stove in a tent \(Photo: [Dean Dean](https://www.facebook.com/dean.blazevic?__tn__=%2CdK-R-R&eid=ARCKNz2YEbB9kOSOjNeu55giA1NHo2pnNIjDVaSyx3vdNyLnesRP-npclVjAvu1kiZH8AWXysMouEfYU) via [Dirk Planert](https://www.facebook.com/dirk.planert?__tn__=%2CdlC-R-R&eid=ARBTze66FwfNhOGmo-15YS7055gDwb9DbeOOblIZnRUatspipFXYOdYIEKHl369MGsvTcyVUuhiOsYQS&hc_ref=ARS1G6VGWX4EQpjVH1Uds0Sqg-uJ_yM_5syZV8DTLmbe68_8voYzV2r60vbn43xkSqc) \)
 
@@ -212,7 +212,7 @@ On Saturday, 250 people were transferred from Lesvos, 120 from Chios and and 7 f
 Chios is flooded again\. NoBorder received a message from residents of Vial camp:
 
 
-![Vial camp flooded at the point of UNHCR infopoint & food distribution\. Garbage bags stuck there for a week now seeping into the water and entering surrounding tents\. People asking for help\. \(via [NoBorders](https://twitter.com/Refugees_Gr/status/1200693036348518400) \)](assets/d55313aad34/1*JGz82wRGe2CtxFRy6riczg.jpeg)
+![Vial camp flooded at the point of UNHCR infopoint & food distribution\. Garbage bags stuck there for a week now seeping into the water and entering surrounding tents\. People asking for help\. \(via [NoBorders](https://twitter.com/Refugees_Gr/status/1200693036348518400) \)](../assets/d55313aad34/1*JGz82wRGe2CtxFRy6riczg.jpeg)
 
 Vial camp flooded at the point of UNHCR infopoint & food distribution\. Garbage bags stuck there for a week now seeping into the water and entering surrounding tents\. People asking for help\. \(via [NoBorders](https://twitter.com/Refugees_Gr/status/1200693036348518400) \)
 
@@ -243,7 +243,7 @@ You can find further information on how to contact HELIOS and what they will be 
 #### Athens: Khora Social Kitchen is open
 
 
-![](assets/d55313aad34/1*pm3hokNkLWP8BbAU6OgSDw.jpeg)
+![](../assets/d55313aad34/1*pm3hokNkLWP8BbAU6OgSDw.jpeg)
 
 
 From today Khora Social Kitchen is open from Monday to Friday, 1PM to 5PM, Serving free food and tea in Kastalias 13, Kipseli, 113 61 Athens\.
@@ -385,7 +385,7 @@ In particular, the demo was demanding the closure of SJÆLSMARK, AVNSTRUP, KÆRS
 They are also fundraising for families in SJÆLSMARK\.
 
 
-![](assets/d55313aad34/1*7wYXq98ym8TS75nUzNcSig.jpeg)
+![](../assets/d55313aad34/1*7wYXq98ym8TS75nUzNcSig.jpeg)
 
 
 **Find daily updates and special reports on our [Medium page](https://medium.com/are-you-syrious) \.**

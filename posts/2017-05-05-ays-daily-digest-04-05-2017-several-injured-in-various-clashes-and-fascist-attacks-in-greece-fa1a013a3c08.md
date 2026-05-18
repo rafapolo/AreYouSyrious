@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 04.05.2017: Several injured in various clashes and fascist attacks in Greece.
+title: "AYS Daily Digest 04.05.2017: Several injured in various clashes and fascist attacks in Greece."
 author: Are You Syrious?
 date: 2017-05-05T04:02:53.430+0100
 last_modified_at: 2017-05-05T04:02:53.430+0100
@@ -7,7 +7,7 @@ categories:
 tags: [europe,refugees]
 description: Lesvos squat arrest update / EU Commissioner on Human Rights criticizes Greece law enforcement / “protracted limbo” affecting tens of…
 image:
-  path: assets/fa1a013a3c08/1*0VjZlNV4QWUeOqgTaz0sfw.jpeg
+  path: ../assets/fa1a013a3c08/1*0VjZlNV4QWUeOqgTaz0sfw.jpeg
 ---
 
 ### AYS Daily Digest 04\.05\.2017: Several injured in various clashes and fascist attacks in Greece\.
@@ -15,7 +15,7 @@ image:
 Lesvos squat arrest update / EU Commissioner on Human Rights criticizes Greece law enforcement / “protracted limbo” affecting tens of thousands of refugees / detailed report on violent pushbacks to Serbia / pro refugee rally in Belgrade / new testimonies of violent pushbacks from Croatia / Croatia continues dodgy asylum denial / fascists attack IOM office in Italy / Nigerian refugees deported from Italy /
 
 
-![Photo Credit: Elpida Home](assets/fa1a013a3c08/1*0VjZlNV4QWUeOqgTaz0sfw.jpeg)
+![Photo Credit: Elpida Home](../assets/fa1a013a3c08/1*0VjZlNV4QWUeOqgTaz0sfw.jpeg)
 
 Photo Credit: Elpida Home
 ### FEATURE: Violence on Chios and Leros
@@ -61,12 +61,12 @@ No Border Kitchen reports that the people arrested at the Lesvos squat will face
 In some brighter news, [Elpida](http://Elpída Home) home was given a mural facelift by [aptART — Awareness & Prevention Through Art](https://www.facebook.com/aptarts/) , check out the photos below\!
 
 
-![Photo Credit: [**Elpída Home**](https://www.facebook.com/elpidahome/)](assets/fa1a013a3c08/1*JqC9mjJpv5VBH2YpbmKcvg.jpeg)
+![Photo Credit: [**Elpída Home**](https://www.facebook.com/elpidahome/)](../assets/fa1a013a3c08/1*JqC9mjJpv5VBH2YpbmKcvg.jpeg)
 
 Photo Credit: [**Elpída Home**](https://www.facebook.com/elpidahome/)
 
 
-![Photo Credit: [**Elpída Home**](https://www.facebook.com/elpidahome/)](assets/fa1a013a3c08/1*c1uiFTX5tZBBOnMawaz6aw.jpeg)
+![Photo Credit: [**Elpída Home**](https://www.facebook.com/elpidahome/)](../assets/fa1a013a3c08/1*c1uiFTX5tZBBOnMawaz6aw.jpeg)
 
 Photo Credit: [**Elpída Home**](https://www.facebook.com/elpidahome/)
 
@@ -123,7 +123,7 @@ The full report can be accessed [here](http://hcit.rs/wp-content/uploads/2017/05
 In Belgrade, an anti\-refugee demonstration that was slated to happen on May 4th was cancelled; the pro\-refugee counter demonstration, however, was not\. The original demonstration was supposed to happen in front of the Faculty of Economics in Belgrade, close to where many refugees and migrants often gather\. The “refugees welcome” demonstration was visible and also included elements of critique against the Serbian government as a whole\.
 
 
-![Demonstration in Belgrade\. Photo Credit: Aleksandar Nastevski](assets/fa1a013a3c08/1*PkJebU3KJt353AHEOAVYvA.jpeg)
+![Demonstration in Belgrade\. Photo Credit: Aleksandar Nastevski](../assets/fa1a013a3c08/1*PkJebU3KJt353AHEOAVYvA.jpeg)
 
 Demonstration in Belgrade\. Photo Credit: Aleksandar Nastevski
 ### **CROATIA**
@@ -141,7 +141,7 @@ AYS will continue monitoring new cases of border violence, and we shall file new
 Today two more families with children got their asylum applications rejected due to a so\-called ‘security obstacle’ based on the assessment of the Security and Intelligence Agency\. Throughout the last couple of months, particularly in April 2017, AYS and the Center for Peace Studies have observed a sudden increase in the number of rejections of applications for international protection in Croatia made by applicants from Syria and Iraq, as well as rejections of requests to regulate foreigner status in Croatia \(citizenship, temporary or permanent stay\) \. What is common to all of the above\-mentioned rejections is the Ministry of Interior invocation of the Article 41 of the Security Vetting Act i\.e\. the rejection of the request due to a so\-called ‘security obstacle’\. Without questioning the need of the state apparatus to carry out security checks of individual foreigners for the purpose of national security, we have raided the problem of arbitrary and overarching interpretation of the so\-called “security obstacle”, the lack of independent supervision over the qualification of the “security obstacle”, as well as the increasingly difficult legal position of people whose application for international protection or foreigner status in the Republic of Croatia was denied\. These practices undoubtedly lead to violations of human rights of refugees and foreigners in the Republic of Croatia, and it is necessary to suspend these practices as soon as possible\. You can find a detailed report on this issue [here](http://bit.ly/2pb8qVV) \.
 
 
-![Photo credit: City Plaza Squat](assets/fa1a013a3c08/1*o1HW-zcW7q_FGmFjwAIQ8w.jpeg)
+![Photo credit: City Plaza Squat](../assets/fa1a013a3c08/1*o1HW-zcW7q_FGmFjwAIQ8w.jpeg)
 
 Photo credit: City Plaza Squat
 ### ITALY
@@ -168,14 +168,14 @@ Read the full report [here](https://www.moas.eu/moas-representatives-attend-ital
 Also in Rome, the Senegalese community gathered to protest against the mistreatment they are facing culminated with the death of Niam yesterday\. There was a similar demonstration in Naples as well\.
 
 
-![Protesting mistreatment of refugees in Italy\. Photo Credit: [**Ex OPG Occupato — Je so’ pazzo**](https://www.facebook.com/exopgjesopazzo/?ref=page_internal)](assets/fa1a013a3c08/1*athbkF_pt0WiMWJXpSeTAw.jpeg)
+![Protesting mistreatment of refugees in Italy\. Photo Credit: [**Ex OPG Occupato — Je so’ pazzo**](https://www.facebook.com/exopgjesopazzo/?ref=page_internal)](../assets/fa1a013a3c08/1*athbkF_pt0WiMWJXpSeTAw.jpeg)
 
 Protesting mistreatment of refugees in Italy\. Photo Credit: [**Ex OPG Occupato — Je so’ pazzo**](https://www.facebook.com/exopgjesopazzo/?ref=page_internal)
 
 In Lampedusa, the morning of the 4th, 40 people, most likely from Nigeria, were escorted onto a flight to Palermo and then Rome to be presumably deported back to Lagos, Nigeria\.
 
 
-![People starting a journey back to Nigeria\. Photo Credit: [**Mediterranean hope**](https://www.facebook.com/Mediterranean-hope-252231521632595/) \.](assets/fa1a013a3c08/1*pU4liWC7F-lM7hRz-Ntzxw.jpeg)
+![People starting a journey back to Nigeria\. Photo Credit: [**Mediterranean hope**](https://www.facebook.com/Mediterranean-hope-252231521632595/) \.](../assets/fa1a013a3c08/1*pU4liWC7F-lM7hRz-Ntzxw.jpeg)
 
 People starting a journey back to Nigeria\. Photo Credit: [**Mediterranean hope**](https://www.facebook.com/Mediterranean-hope-252231521632595/) \.
 
@@ -186,7 +186,7 @@ FOOD
 P\.s\. Bring only food in sealed packages and clean clothes in good conditions, thank you\!
 
 
-![Baobab Experience](assets/fa1a013a3c08/1*pHyJcd6MW-BMjKdH8LHaFw.jpeg)
+![Baobab Experience](../assets/fa1a013a3c08/1*pHyJcd6MW-BMjKdH8LHaFw.jpeg)
 
 Baobab Experience
 ### FRANCE
@@ -194,7 +194,7 @@ Baobab Experience
 The Refugee Rights Data Project conducted a survey with disturbing results\. The report discussed hate crimes against refugees as well as threats and harassment against volunteers and detailed how they are fueled by fascist Islamophobic and xenophobic sentiments\. However the percentage of respondents are shocking\.
 
 
-![Photo Credit: Refugee Youth Service\.](assets/fa1a013a3c08/1*TI9fWtQJVEn8t-RR0W-Dbw.jpeg)
+![Photo Credit: Refugee Youth Service\.](../assets/fa1a013a3c08/1*TI9fWtQJVEn8t-RR0W-Dbw.jpeg)
 
 Photo Credit: Refugee Youth Service\.
 ### BELGIUM

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 22/5/19: EU’s hypocrisy effects in the Balkans, across the Mediterranean, all the…
+title: "AYS Daily Digest 22/5/19: EU’s hypocrisy effects in the Balkans, across the Mediterranean, all the…"
 author: Are You Syrious?
 date: 2019-05-23T10:12:07.753+0100
 last_modified_at: 2019-05-23T12:54:49.765+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [europe,refugees,human-rights,borders,digest]
 description: Deadly deterrence strategies of the EU border regime and poor partnership deals effects documented in the recent report by Alarm Phone /…
 image:
-  path: assets/be0b114bc6a5/1*s82qKRZtFvPnNpq3TmeIBA.jpeg
+  path: ../assets/be0b114bc6a5/1*s82qKRZtFvPnNpq3TmeIBA.jpeg
 ---
 
 ### AYS Daily Digest 22/5/19: EU’s hypocrisy effects in the Balkans, across the Mediterranean, all the way to ‘a glass of water a day’ in Libya
 #### **Deadly deterrence strategies of the EU border regime and poor partnership deals effects documented in a recent report by Alarm Phone / Testimonies from Morocco and from the French capital / tragedies in the Mediterranean and across the ‘Balkan Route’ / Three women die off Spanish coast / Frontex deployed in Albania**
 
 
-![Illustration by: Marilena Nardi, via ArtAgainst](assets/be0b114bc6a5/1*s82qKRZtFvPnNpq3TmeIBA.jpeg)
+![Illustration by: Marilena Nardi, via ArtAgainst](../assets/be0b114bc6a5/1*s82qKRZtFvPnNpq3TmeIBA.jpeg)
 
 Illustration by: Marilena Nardi, via ArtAgainst
 #### FEATURED STORIES
@@ -30,7 +30,7 @@ Illustration by: Marilena Nardi, via ArtAgainst
 says a young man from a West African nation in a video\.
 
 
-[![Marocko: "Så länge havet finns har vi hopp"](assets/be0b114bc6a5/b654_hqdefault.jpg "Marocko: "Så länge havet finns har vi hopp"")](http://www.youtube.com/watch?v=gRYdiwsRmnE)
+[![Marocko: "Så länge havet finns har vi hopp"](../assets/be0b114bc6a5/b654_hqdefault.jpg "Marocko: "Så länge havet finns har vi hopp"")](http://www.youtube.com/watch?v=gRYdiwsRmnE)
 
 
 He is describing an illegal deportation carried out by Moroccan police, and the inhuman treatment he and the group were exposed to\. He managed to hide his phone, and discreetly filmed when the police stopped alongside a road to let people go on the toilet, still in handcuffs, two by two\. The video is filmed a five\-hour drive from the coastal city of Tangier\.
@@ -77,7 +77,7 @@ The number of tents has increased considerably these last days around the areas 
 “When you arrive along the highway, there are dozens of tents, even more than the previous Tuesday\. Some sleep on the floor, with nothing over their head and I hear some echoes of volunteers who inform us that there are children as well\. Babies on the street\. My heart is tightening more and more, I try to hold back the tears but it’s too much for me\. In spite of my efforts, I collapse\. How can we let children live in deplorable conditions in the middle of rats, with nothing …? I go through all the emotions: anger, sadness but also shame\. Shame to be French at this moment, shame to leave them and go home to a warm house\. \(…\) This evening will remain etched in my memory\. This feeling is shared by all\. Even the hardest, most ‘anesthetized’ of us have the feeling of heartbreak tonight\.”
 
 
-![Photo: [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__xts__%5B0%5D=68.ARDiAp4kll2W06bX6BZptXVpkQOQbMKTYQgaARuzNvcbdDTrAyP1GXMuEejxl1hXQDwlWVkyaxHv_H0MSZ2njah-gL27JucZLXTCVnO7n0B-cFNg3CXNThp-2XSTp-ed3g9zJMp5PrZvY1bQv-MTTZ5rb-Cn4auv_E6uzMl2oO-WT0X6BOcsSkuHJkbyM7q-JU9CDskCA2S6LhVZeoby79ZdubzyXd4JGKBb7hKRW9-7QwsIO9McM3EXAyfKc3ZnpR8qla-5KwrjIek8pvLqJMQ6FixSHlBavNR8zHbUAitx8vqJqXAKqPf99KHzxhOhcImdZWr_S1RjYwZHekaRh3JFxw&__tn__=k%2AF&tn-str=k%2AF)](assets/be0b114bc6a5/1*AUV_DYpNQIlF727q08Zkrw.jpeg)
+![Photo: [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__xts__%5B0%5D=68.ARDiAp4kll2W06bX6BZptXVpkQOQbMKTYQgaARuzNvcbdDTrAyP1GXMuEejxl1hXQDwlWVkyaxHv_H0MSZ2njah-gL27JucZLXTCVnO7n0B-cFNg3CXNThp-2XSTp-ed3g9zJMp5PrZvY1bQv-MTTZ5rb-Cn4auv_E6uzMl2oO-WT0X6BOcsSkuHJkbyM7q-JU9CDskCA2S6LhVZeoby79ZdubzyXd4JGKBb7hKRW9-7QwsIO9McM3EXAyfKc3ZnpR8qla-5KwrjIek8pvLqJMQ6FixSHlBavNR8zHbUAitx8vqJqXAKqPf99KHzxhOhcImdZWr_S1RjYwZHekaRh3JFxw&__tn__=k%2AF&tn-str=k%2AF)](../assets/be0b114bc6a5/1*AUV_DYpNQIlF727q08Zkrw.jpeg)
 
 Photo: [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__xts__%5B0%5D=68.ARDiAp4kll2W06bX6BZptXVpkQOQbMKTYQgaARuzNvcbdDTrAyP1GXMuEejxl1hXQDwlWVkyaxHv_H0MSZ2njah-gL27JucZLXTCVnO7n0B-cFNg3CXNThp-2XSTp-ed3g9zJMp5PrZvY1bQv-MTTZ5rb-Cn4auv_E6uzMl2oO-WT0X6BOcsSkuHJkbyM7q-JU9CDskCA2S6LhVZeoby79ZdubzyXd4JGKBb7hKRW9-7QwsIO9McM3EXAyfKc3ZnpR8qla-5KwrjIek8pvLqJMQ6FixSHlBavNR8zHbUAitx8vqJqXAKqPf99KHzxhOhcImdZWr_S1RjYwZHekaRh3JFxw&__tn__=k%2AF&tn-str=k%2AF)
 
@@ -90,7 +90,7 @@ During the distribution of about 300 meals prepared last Sunday by volunteers, w
 Libya, a country that many refugees whose name can not even pronounce for fear of stirring the worst memories\. Next to the Port d’Aubervilliers, we encounter a women and a family\. A frightened father of the family shares a tent with his wife and three children, desperate to have no other solution\. For an hour we try to call the social SAMU who do not pick up\. By the time we were all thinking we’d go home, we are meeting the Association Amicale du Nid and Utopia 56, who share the same feelings as we do: for a long time, **the situation has not been this serious\.**
 
 
-![Photo: [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__xts__%5B0%5D=68.ARDiAp4kll2W06bX6BZptXVpkQOQbMKTYQgaARuzNvcbdDTrAyP1GXMuEejxl1hXQDwlWVkyaxHv_H0MSZ2njah-gL27JucZLXTCVnO7n0B-cFNg3CXNThp-2XSTp-ed3g9zJMp5PrZvY1bQv-MTTZ5rb-Cn4auv_E6uzMl2oO-WT0X6BOcsSkuHJkbyM7q-JU9CDskCA2S6LhVZeoby79ZdubzyXd4JGKBb7hKRW9-7QwsIO9McM3EXAyfKc3ZnpR8qla-5KwrjIek8pvLqJMQ6FixSHlBavNR8zHbUAitx8vqJqXAKqPf99KHzxhOhcImdZWr_S1RjYwZHekaRh3JFxw&__tn__=k%2AF&tn-str=k%2AF)](assets/be0b114bc6a5/1*lHC_TZYG77lrOVh_VezF_g.jpeg)
+![Photo: [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__xts__%5B0%5D=68.ARDiAp4kll2W06bX6BZptXVpkQOQbMKTYQgaARuzNvcbdDTrAyP1GXMuEejxl1hXQDwlWVkyaxHv_H0MSZ2njah-gL27JucZLXTCVnO7n0B-cFNg3CXNThp-2XSTp-ed3g9zJMp5PrZvY1bQv-MTTZ5rb-Cn4auv_E6uzMl2oO-WT0X6BOcsSkuHJkbyM7q-JU9CDskCA2S6LhVZeoby79ZdubzyXd4JGKBb7hKRW9-7QwsIO9McM3EXAyfKc3ZnpR8qla-5KwrjIek8pvLqJMQ6FixSHlBavNR8zHbUAitx8vqJqXAKqPf99KHzxhOhcImdZWr_S1RjYwZHekaRh3JFxw&__tn__=k%2AF&tn-str=k%2AF)](../assets/be0b114bc6a5/1*lHC_TZYG77lrOVh_VezF_g.jpeg)
 
 Photo: [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__xts__%5B0%5D=68.ARDiAp4kll2W06bX6BZptXVpkQOQbMKTYQgaARuzNvcbdDTrAyP1GXMuEejxl1hXQDwlWVkyaxHv_H0MSZ2njah-gL27JucZLXTCVnO7n0B-cFNg3CXNThp-2XSTp-ed3g9zJMp5PrZvY1bQv-MTTZ5rb-Cn4auv_E6uzMl2oO-WT0X6BOcsSkuHJkbyM7q-JU9CDskCA2S6LhVZeoby79ZdubzyXd4JGKBb7hKRW9-7QwsIO9McM3EXAyfKc3ZnpR8qla-5KwrjIek8pvLqJMQ6FixSHlBavNR8zHbUAitx8vqJqXAKqPf99KHzxhOhcImdZWr_S1RjYwZHekaRh3JFxw&__tn__=k%2AF&tn-str=k%2AF)
 
@@ -121,7 +121,7 @@ People intercepted at sea &amp; illegally returned to #Libya are put in these ce
 The people inside the centre say they receive food through holes in the doors\.
 
 
-![Photo: [Anette Kjær Jørgensen](https://www.facebook.com/anettesaw?__tn__=%2Cd%2AF%2AF-R&eid=ARDLi180FePPhxPe31xElFvmpg7OcWlEtHQJ9Ob-yqeMfJoBipElELg3tbUvp7ONHSJaWDAJIYZpeDCU&tn-str=%2AF)](assets/be0b114bc6a5/1*1v_QGzvt1dwbg5v5EWQ4SA.jpeg)
+![Photo: [Anette Kjær Jørgensen](https://www.facebook.com/anettesaw?__tn__=%2Cd%2AF%2AF-R&eid=ARDLi180FePPhxPe31xElFvmpg7OcWlEtHQJ9Ob-yqeMfJoBipElELg3tbUvp7ONHSJaWDAJIYZpeDCU&tn-str=%2AF)](../assets/be0b114bc6a5/1*1v_QGzvt1dwbg5v5EWQ4SA.jpeg)
 
 Photo: [Anette Kjær Jørgensen](https://www.facebook.com/anettesaw?__tn__=%2Cd%2AF%2AF-R&eid=ARDLi180FePPhxPe31xElFvmpg7OcWlEtHQJ9Ob-yqeMfJoBipElELg3tbUvp7ONHSJaWDAJIYZpeDCU&tn-str=%2AF)
 
@@ -142,7 +142,7 @@ For direct updates on Libya, please follow Sally Hayden and other investigative 
 Over **400 people have lost their lives** at sea trying to reach security in Europe in the first four months of this year\.
 
 
-![](assets/be0b114bc6a5/1*gZH-aQ5wt8xh1yNEtXfz7g.jpeg)
+![](../assets/be0b114bc6a5/1*gZH-aQ5wt8xh1yNEtXfz7g.jpeg)
 
 ### The Mediterranean Border: Mass Abductions, Push\-Backs, People Left to Die
 
@@ -167,7 +167,7 @@ Many cases described in the report highlight the ‘ **refoulement industry’**
 69 survivors have been assisted reportedly by the Moroccan Navy\.
 
 
-![](assets/be0b114bc6a5/1*1IN1mz1O_yVCEnh6WNubuQ.jpeg)
+![](../assets/be0b114bc6a5/1*1IN1mz1O_yVCEnh6WNubuQ.jpeg)
 
 #### ALBANIA
 ### EU’s response to border violence — deploying more watchdogs at the borders?\!

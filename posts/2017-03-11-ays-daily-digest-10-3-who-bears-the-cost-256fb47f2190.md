@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 10/3: Who Bears the Cost?
+title: "AYS Daily Digest 10/3: Who Bears the Cost?"
 author: Are You Syrious?
 date: 2017-03-11T06:30:42.080+0000
 last_modified_at: 2017-03-13T15:47:50.474+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: Another family scared out of relocated home in Bulgaria. Finger pointing in Greece as refugees await news on Turkey deportations. Serbia…
 image:
-  path: assets/256fb47f2190/1*IVFEPkN5FBPd_YjgsDke3g.jpeg
+  path: ../assets/256fb47f2190/1*IVFEPkN5FBPd_YjgsDke3g.jpeg
 ---
 
 ### AYS Daily Digest 10/3: Who Bears the Cost?
@@ -15,7 +15,7 @@ image:
 Another family scared out of relocated home in Bulgaria\. Finger pointing in Greece as refugees await news on Turkey deportations\. Serbia border hideouts evicted yet again\. Dunkirk to remain open until September 2017\.
 
 
-![Children learning from school boxes in Greece\. Photo credit: We Are Here](assets/256fb47f2190/1*IVFEPkN5FBPd_YjgsDke3g.jpeg)
+![Children learning from school boxes in Greece\. Photo credit: We Are Here](../assets/256fb47f2190/1*IVFEPkN5FBPd_YjgsDke3g.jpeg)
 
 Children learning from school boxes in Greece\. Photo credit: We Are Here
 ### FEATURE: who bears the cost?
@@ -81,7 +81,7 @@ We Are Here posted a [fabulous update](https://www.facebook.com/WeAreHereCentre/
 
 
 
-![Teenagers’ class\. Photo courtesy of We Are Here](assets/256fb47f2190/1*qwqim3y4UGiyU6E7kyK5qA.jpeg)
+![Teenagers’ class\. Photo courtesy of We Are Here](../assets/256fb47f2190/1*qwqim3y4UGiyU6E7kyK5qA.jpeg)
 
 Teenagers’ class\. Photo courtesy of We Are Here
 
@@ -118,7 +118,7 @@ The team also have innovated the solution “school in a box” in order to reac
 As can be expected, the boxes are a hit\.
 
 
-![School bus or a school box? Photo courtesy of We Are Here](assets/256fb47f2190/1*Q4FrywbJnNEKw9oo-Xmktg.jpeg)
+![School bus or a school box? Photo courtesy of We Are Here](../assets/256fb47f2190/1*Q4FrywbJnNEKw9oo-Xmktg.jpeg)
 
 School bus or a school box? Photo courtesy of We Are Here
 ### SERBIA
@@ -126,13 +126,13 @@ School bus or a school box? Photo courtesy of We Are Here
 [Soul Welders](https://www.facebook.com/SoulWelders/posts/714958828706153) reports that there was yet another police “cleansing” in the spaces in and around Subotica this morning\.
 
 
-![](assets/256fb47f2190/1*M8U1OBMiKmpPryrH_1iUTQ.jpeg)
+![](../assets/256fb47f2190/1*M8U1OBMiKmpPryrH_1iUTQ.jpeg)
 
 
 According to UNHCR, 114 individuals were taken from their shelters and taken by bus to Preševo camp\. Although 30 were allowed to return, a cleansing team accompanied the police officers to “clean up” \(as in take\) all belongings left behind\.
 
 
-![“clean up” in Kelebija](assets/256fb47f2190/1*01d5lk-Pu4k8d1e4B9OzoQ.jpeg)
+![“clean up” in Kelebija](../assets/256fb47f2190/1*01d5lk-Pu4k8d1e4B9OzoQ.jpeg)
 
 “clean up” in Kelebija
 
@@ -142,7 +142,7 @@ In spite of this, it is anticipated that numbers will return to normal within a 
 In a glimmer of hope, the French government has announced that Dunkirk camp will be maintained through September 2017, meaning a breath of relief for persecuted humanitarian and volunteer groups trying to support the thousands of people on the margins of society\.
 
 
-![Dunkirk\. Photo courtesy of Help Refugees\.](assets/256fb47f2190/1*Ppq9Mp-Ttrdo2Yk1smDPrw.jpeg)
+![Dunkirk\. Photo courtesy of Help Refugees\.](../assets/256fb47f2190/1*Ppq9Mp-Ttrdo2Yk1smDPrw.jpeg)
 
 Dunkirk\. Photo courtesy of Help Refugees\.
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 19/06/2018: The occupants of Paris-8 University continue their struggle
+title: "AYS Daily Digest 19/06/2018: The occupants of Paris-8 University continue their struggle"
 author: Are You Syrious?
 date: 2018-06-20T10:50:14.799+0100
 last_modified_at: 2018-06-20T11:55:01.643+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,paris,bosnia,caserta]
 description: Asylum seekers attacked in Italy /// Updates from Diavata Camp in Greece /// Updates from Bosnia /// Two busy days in the Western Med ///…
 image:
-  path: assets/2e0adc893869/1*8qPfsHk_KmAVEem2d2psnQ.jpeg
+  path: ../assets/2e0adc893869/1*8qPfsHk_KmAVEem2d2psnQ.jpeg
 ---
 
 ### AYS Daily Digest 19/06/2018: The occupants of Paris\-8 University continue their struggle
@@ -15,7 +15,7 @@ image:
 Asylum seekers attacked in Italy /// Updates from Diavata Camp in Greece /// Updates from Bosnia /// Two busy days in the Western Med /// Norway and Denmark plan to open “care centres” for minors in Afghanistan /// Rise in family reception in Italy
 
 
-![\(Photo by [Les habitant\.e\.s de P8](https://www.facebook.com/ExileesOccupP8/) \)](assets/2e0adc893869/1*8qPfsHk_KmAVEem2d2psnQ.jpeg)
+![\(Photo by [Les habitant\.e\.s de P8](https://www.facebook.com/ExileesOccupP8/) \)](../assets/2e0adc893869/1*8qPfsHk_KmAVEem2d2psnQ.jpeg)
 
 \(Photo by [Les habitant\.e\.s de P8](https://www.facebook.com/ExileesOccupP8/) \)
 #### FEATURE: **Updates from the occupants of Paris\-8 university**
@@ -38,7 +38,7 @@ The occupants released a [statement](https://www.versobooks.com/blogs/3887-commu
 
 
 
-[![Les habitant.e.s de P8 - English version](assets/2e0adc893869/59cf_hqdefault.jpg "Les habitant.e.s de P8 - English version")](http://www.youtube.com/watch?v=9RUHABehaAM)
+[![Les habitant.e.s de P8 - English version](../assets/2e0adc893869/59cf_hqdefault.jpg "Les habitant.e.s de P8 - English version")](http://www.youtube.com/watch?v=9RUHABehaAM)
 
 
 They denounce the criminal Dublin regulations and struggle against the “individualising logics of asylum law,” which divides ‘good refugees’ from ‘bad migrants’ and meets asylum seekers with detainment and deportation\. They have formed a front with several groups and collectives, students, artists, and academics in order to “push the balance of power against the racist institutions of the French state\.”
@@ -57,7 +57,7 @@ They denounce the criminal Dublin regulations and struggle against the “indivi
 
 
 
-![Foreigners\! Don’t leave us alone with the French\! \! \! \(Photo by [Les habitant\.e\.s de P8](https://www.facebook.com/ExileesOccupP8/) \)](assets/2e0adc893869/1*6Z2DJEVJBKncjEgw1dn5Ag.jpeg)
+![Foreigners\! Don’t leave us alone with the French\! \! \! \(Photo by [Les habitant\.e\.s de P8](https://www.facebook.com/ExileesOccupP8/) \)](../assets/2e0adc893869/1*6Z2DJEVJBKncjEgw1dn5Ag.jpeg)
 
 Foreigners\! Don’t leave us alone with the French\! \! \! \(Photo by [Les habitant\.e\.s de P8](https://www.facebook.com/ExileesOccupP8/) \)
 
@@ -153,7 +153,7 @@ Xchange have published their new Central Med Survey\. Find a link [here](https:/
 
 
 
-![\(Photo by [Salvamento Maritimo](https://twitter.com/salvamentogob/status/1008379228193284097) \)](assets/2e0adc893869/1*n2cqqxqyo6f9_Evgx7GIog.jpeg)
+![\(Photo by [Salvamento Maritimo](https://twitter.com/salvamentogob/status/1008379228193284097) \)](../assets/2e0adc893869/1*n2cqqxqyo6f9_Evgx7GIog.jpeg)
 
 \(Photo by [Salvamento Maritimo](https://twitter.com/salvamentogob/status/1008379228193284097) \)
 #### Aquarius Update
@@ -194,7 +194,7 @@ As usual, official data from the Greek Government [report](https://www.facebook.
 #### **People start returning to Moria camp**
 
 
-![People returning to Moria camp \(photo by Lesvos Solidarity — Pikpa\)](assets/2e0adc893869/1*OjViOcovEmxg7RFRUPnl2Q.png)
+![People returning to Moria camp \(photo by Lesvos Solidarity — Pikpa\)](../assets/2e0adc893869/1*OjViOcovEmxg7RFRUPnl2Q.png)
 
 People returning to Moria camp \(photo by Lesvos Solidarity — Pikpa\)
 
@@ -330,7 +330,7 @@ FRANCE
 From [Help Refugees](https://www.facebook.com/HelpRefugeesUK/posts/628684117492265?hc_location=ufi) :
 
 
-![\(Image by Help Refugees\)](assets/2e0adc893869/1*U2VV3RvebfmSCztUViolFQ.jpeg)
+![\(Image by Help Refugees\)](../assets/2e0adc893869/1*U2VV3RvebfmSCztUViolFQ.jpeg)
 
 \(Image by Help Refugees\)
 

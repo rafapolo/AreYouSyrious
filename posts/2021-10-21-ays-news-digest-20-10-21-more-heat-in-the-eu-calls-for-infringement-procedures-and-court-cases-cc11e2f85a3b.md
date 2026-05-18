@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 20/10/21: More heat in the EU - calls for infringement procedures and court cases…
+title: "AYS News Digest 20/10/21: More heat in the EU - calls for infringement procedures and court cases…"
 author: Are You Syrious?
 date: 2021-10-21T15:10:46.323+0100
 last_modified_at: 2021-10-21T16:08:03.802+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,european-union,borders,human-rights]
 description: Pushing for infringement proceedings against Greece, Croatia and Poland / Frontex being brought to court / The situation at the border with…
 image:
-  path: assets/cc11e2f85a3b/1*_vGCA77e_5U2k1gzA-vDkg.jpeg
+  path: ../assets/cc11e2f85a3b/1*_vGCA77e_5U2k1gzA-vDkg.jpeg
 ---
 
 ### AYS News Digest 20/10/21: More heat in the EU \- calls for infringement procedures and court cases for Frontex
 #### Pushing for infringement proceedings against Greece, Croatia and Poland / Frontex being brought to court / The situation at the border with Belarus / Search and rescue at sea / & a number of good reads, reports and calls to action
 
 
-![](assets/cc11e2f85a3b/1*_vGCA77e_5U2k1gzA-vDkg.jpeg)
+![](../assets/cc11e2f85a3b/1*_vGCA77e_5U2k1gzA-vDkg.jpeg)
 
 #### FEATURED
 
@@ -119,7 +119,7 @@ Ante los actos racistas y xenófobos acaecidos este miércoles de madrugada cont
 A rally against racist acts in Puerto de la Cruz was held this Wednesday, 20 October, where the exhibition was reconstructed in solidarity with locals\.
 
 
-![Photo: [Radio Pimienta](https://twitter.com/RadioPimienta)](assets/cc11e2f85a3b/0*niR1ttRJhu21KQN8)
+![Photo: [Radio Pimienta](https://twitter.com/RadioPimienta)](../assets/cc11e2f85a3b/0*niR1ttRJhu21KQN8)
 
 Photo: [Radio Pimienta](https://twitter.com/RadioPimienta)
 #### BELGIUM
@@ -250,7 +250,7 @@ Those wishing to counter their plans invite you to come to the 24\-day vigil to 
 Finally, join in support of our Polish fellow activists during their next protest:
 
 
-![[**Matki na Granicę\. Miejsce dzieci nie jest w lesie\!**](https://www.facebook.com/events/1934676266691461/)](assets/cc11e2f85a3b/0*Els26UcSNcoIJGxX)
+![[**Matki na Granicę\. Miejsce dzieci nie jest w lesie\!**](https://www.facebook.com/events/1934676266691461/)](../assets/cc11e2f85a3b/0*Els26UcSNcoIJGxX)
 
 [**Matki na Granicę\. Miejsce dzieci nie jest w lesie\!**](https://www.facebook.com/events/1934676266691461/)
 #### NORWAY

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 12/03/18: Thousands of newly displaced people
+title: "AYS Daily Digest 12/03/18: Thousands of newly displaced people"
 author: Are You Syrious?
 date: 2018-03-13T11:46:34.628+0000
 last_modified_at: 2018-03-13T13:00:58.190+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,syria,greece,niger]
 description: The ongoing fights in Syria force the people to leave their home / Volunteers needed in Greece / Pro Asyl and RSA publish timeline of hate…
 image:
-  path: assets/e3758561d33c/1*PJ3wyWf4wQCqmrb1uZK5ng.jpeg
+  path: ../assets/e3758561d33c/1*PJ3wyWf4wQCqmrb1uZK5ng.jpeg
 ---
 
 ### AYS Daily Digest 12/03/18: Thousands of newly displaced people
@@ -15,7 +15,7 @@ image:
 _The ongoing fights in Syria force the people to leave their home / Volunteers needed in Greece / Pro Asyl and RSA publish timeline of hate crimes on Greek islands / Incoming German interior minister wants more deportations / Unaccompanied minors in Croatia lack of support / Niger halts evacuations from Libya_
 
 
-![The war leaves thousands of people displaced\. Credits: [**Syrian American Medical Society\- SAMS**](https://www.facebook.com/SyrianAmericanMedicalSociety/)](assets/e3758561d33c/1*PJ3wyWf4wQCqmrb1uZK5ng.jpeg)
+![The war leaves thousands of people displaced\. Credits: [**Syrian American Medical Society\- SAMS**](https://www.facebook.com/SyrianAmericanMedicalSociety/)](../assets/e3758561d33c/1*PJ3wyWf4wQCqmrb1uZK5ng.jpeg)
 
 The war leaves thousands of people displaced\. Credits: [**Syrian American Medical Society\- SAMS**](https://www.facebook.com/SyrianAmericanMedicalSociety/)
 ### Syria
@@ -67,7 +67,7 @@ Volunteers [counted](https://twitter.com/erikgerhardsson/status/9731047904220815
 At the City Plaza, today hanged a big Banner, announcing the International Action Day on 17 March against the EU Turkey deal\. They will give a press conference with further information on Tuesday\.
 
 
-![The banner\. Credits: [Epoca Libera](https://twitter.com/epocalibera/status/972887770996887552)](assets/e3758561d33c/1*aqRNHoUe1nPviyf3bi9Gsw.jpeg)
+![The banner\. Credits: [Epoca Libera](https://twitter.com/epocalibera/status/972887770996887552)](../assets/e3758561d33c/1*aqRNHoUe1nPviyf3bi9Gsw.jpeg)
 
 The banner\. Credits: [Epoca Libera](https://twitter.com/epocalibera/status/972887770996887552)
 
@@ -133,7 +133,7 @@ The Italian embassy in Libya [states](https://twitter.com/italyinlibya/status/97
 Proactiva Open Arms published a video, resuming 15 days of operation in the Mediterranean Sea\. In this time, they rescued 950 lifes and brought three corpses to the port\.
 
 
-[![Resumen Misión 39 - Mediterráneo central - MORADA FILMS](assets/e3758561d33c/1170_hqdefault.jpg "Resumen Misión 39 - Mediterráneo central - MORADA FILMS")](http://www.youtube.com/watch?v=CvgT2AnODJU)
+[![Resumen Misión 39 - Mediterráneo central - MORADA FILMS](../assets/e3758561d33c/1170_hqdefault.jpg "Resumen Misión 39 - Mediterráneo central - MORADA FILMS")](http://www.youtube.com/watch?v=CvgT2AnODJU)
 
 ### Italy
 

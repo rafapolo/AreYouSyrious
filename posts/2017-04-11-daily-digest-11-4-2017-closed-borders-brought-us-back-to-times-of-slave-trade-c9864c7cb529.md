@@ -1,5 +1,5 @@
 ---
-title: DAILY DIGEST 11/4/2017: Closed borders brought us back to times of slave trade
+title: "DAILY DIGEST 11/4/2017: Closed borders brought us back to times of slave trade"
 author: Are You Syrious?
 date: 2017-04-11T22:54:06.109+0100
 last_modified_at: 2017-04-12T22:01:23.409+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,modern-slavery,libya]
 description: In Libya people are being sold as slaves in public places // Storm prevented rescue team from helping people trying to cross the sea /…
 image:
-  path: assets/c9864c7cb529/1*f1ZBSQ47_dJbuZJpoeXrnQ.jpeg
+  path: ../assets/c9864c7cb529/1*f1ZBSQ47_dJbuZJpoeXrnQ.jpeg
 ---
 
 ### DAILY DIGEST 11/4/2017: Closed borders brought us back to times of slave trade
@@ -15,7 +15,7 @@ image:
 _In Libya people are being sold as slaves in public places // Storm prevented rescue team from helping people trying to cross the sea // Degrading conditions on Greek islands // Arrests, and detentions on Kos island // Young refugees in Germany turning to sex work_
 
 
-![By Mana Neyestani\. From Art Against\.](assets/c9864c7cb529/1*f1ZBSQ47_dJbuZJpoeXrnQ.jpeg)
+![By Mana Neyestani\. From Art Against\.](../assets/c9864c7cb529/1*f1ZBSQ47_dJbuZJpoeXrnQ.jpeg)
 
 By Mana Neyestani\. From Art Against\.
 ### Feature
@@ -66,11 +66,11 @@ The situation on Chios is one of the worst and one of the volunteers describes i
 Group of volunteers visited camp Viale claiming that the conditions are worse than described by the refugees themselves\.
 
 
-![](assets/c9864c7cb529/1*wKlJeY_QGHyYuRoyEEeO5A.jpeg)
+![](../assets/c9864c7cb529/1*wKlJeY_QGHyYuRoyEEeO5A.jpeg)
 
 
 
-![Photo by [**Jenny Kali**](https://www.facebook.com/jenny.kali.1?fref=nf) **‎**](assets/c9864c7cb529/1*i7vxl-kgYFjULHj6JllQgg.jpeg)
+![Photo by [**Jenny Kali**](https://www.facebook.com/jenny.kali.1?fref=nf) **‎**](../assets/c9864c7cb529/1*i7vxl-kgYFjULHj6JllQgg.jpeg)
 
 Photo by [**Jenny Kali**](https://www.facebook.com/jenny.kali.1?fref=nf) **‎**
 

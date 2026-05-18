@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 19/7/19: People marching from Niger to Libya to escape limbo, including minors
+title: "AYS Daily Digest 19/7/19: People marching from Niger to Libya to escape limbo, including minors"
 author: Are You Syrious?
 date: 2019-07-20T12:08:46.694+0100
 last_modified_at: 2019-07-20T12:46:49.096+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,unaccompanied-minors,mediterranean-sea,libya]
 description: Activists and NGOs contesting decision to transfer powers to Citizen Protection Ministry in Greece//New deadlines for permit renewal…
 image:
-  path: assets/1f5176715958/1*8i3AGWQ0mrNj31BdK2-_WA.jpeg
+  path: ../assets/1f5176715958/1*8i3AGWQ0mrNj31BdK2-_WA.jpeg
 ---
 
 ### AYS Daily Digest 19/7/19: People marching from Niger to Libya to escape limbo, including minors
 #### Activists and NGOs contesting decision to transfer powers to Citizen Protection Ministry in Greece//New deadlines for permit renewal applications//Water shortage in Chios//Medical conditions of people on the move worsening after fights in BiH//Frontex possibly deployed soon at Croatian\-Bosnian border//More news from Austria, Italy, the UK, Sweden…
 
 
-![Credit: Alarme PHONE Sahara](assets/1f5176715958/1*8i3AGWQ0mrNj31BdK2-_WA.jpeg)
+![Credit: Alarme PHONE Sahara](../assets/1f5176715958/1*8i3AGWQ0mrNj31BdK2-_WA.jpeg)
 
 Credit: Alarme PHONE Sahara
 #### FEATURED
@@ -41,15 +41,15 @@ Sudanese minors who had been at the UNHCR refugee camp in Agadez/Niger have left
 Only a small number of people have been evacuated from Libya under the Emergency Transit Mechanism program\. While there are more 57,000 registered refugees and asylum seekers in Libya, only 2,911 people have been brought to Niger so far\. Around 1/3 of them have been resettled to third countries\. Others have been waiting for months, even years, in limbo\.
 
 
-![](assets/1f5176715958/1*3TwF0YVb2qyMe_I-q20NjQ.jpeg)
+![](../assets/1f5176715958/1*3TwF0YVb2qyMe_I-q20NjQ.jpeg)
 
 
 
-![](assets/1f5176715958/1*rEjneC7Fz4Qh691qBk3tTA.jpeg)
+![](../assets/1f5176715958/1*rEjneC7Fz4Qh691qBk3tTA.jpeg)
 
 
 
-![Photos: [Alarme PHONE Sahara](https://www.facebook.com/AlarmePHONESahara/?__tn__=%2CdkCH-R-R&eid=ARAyAAIcoD7Tcwd9FGMWbrUH1eti3UCtYw7vGvqXgxXq5xHsuWXJTJh_xzBywUCbpowarU0TTf5apedw&hc_ref=ARQbs5xGOUYXD6vHn7maF4b58l9nyMfJBT8vOFbSu68ke5eCXPiRpr7hLaj3wjT3RUg&fref=nf&hc_location=group)](assets/1f5176715958/1*i8lc7eiurxgXe4VtRii1bg.jpeg)
+![Photos: [Alarme PHONE Sahara](https://www.facebook.com/AlarmePHONESahara/?__tn__=%2CdkCH-R-R&eid=ARAyAAIcoD7Tcwd9FGMWbrUH1eti3UCtYw7vGvqXgxXq5xHsuWXJTJh_xzBywUCbpowarU0TTf5apedw&hc_ref=ARQbs5xGOUYXD6vHn7maF4b58l9nyMfJBT8vOFbSu68ke5eCXPiRpr7hLaj3wjT3RUg&fref=nf&hc_location=group)](../assets/1f5176715958/1*i8lc7eiurxgXe4VtRii1bg.jpeg)
 
 Photos: [Alarme PHONE Sahara](https://www.facebook.com/AlarmePHONESahara/?__tn__=%2CdkCH-R-R&eid=ARAyAAIcoD7Tcwd9FGMWbrUH1eti3UCtYw7vGvqXgxXq5xHsuWXJTJh_xzBywUCbpowarU0TTf5apedw&hc_ref=ARQbs5xGOUYXD6vHn7maF4b58l9nyMfJBT8vOFbSu68ke5eCXPiRpr7hLaj3wjT3RUg&fref=nf&hc_location=group)
 #### EASTERN MEDITERRANEAN

@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migrants,melilla,spain]
 description: New rescue vessel coming to the Mediterranean//New integration scheme in Greece//The Balkan route during the pandemic
 image:
-  path: assets/a58e2bffc984/0*dkfMxeEKOgzMUFxs.jpg
+  path: ../assets/a58e2bffc984/0*dkfMxeEKOgzMUFxs.jpg
 ---
 
 ### AYS Daily Digest 09/04/2021 — Young Man Drowned Off the Coast of Melilla
 ### New rescue vessel coming to the Mediterranean//New integration scheme in Greece//The Balkan route during the pandemic
 
 
-![](assets/a58e2bffc984/0*V8lRvGDG6FjCIBIM.jpeg)
+![](../assets/a58e2bffc984/0*V8lRvGDG6FjCIBIM.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----99962ea8f51e--------------------------------)
@@ -22,11 +22,11 @@ image:
 [Apr 10](ays-daily-digest-09-04-2021-young-man-drowned-off-the-coast-of-melilla-99962ea8f51e?source=post_page-----99962ea8f51e--------------------------------) · 10 min read
 
 
-![](assets/a58e2bffc984/0*SCidZBiVLclnY0Pz)
+![](../assets/a58e2bffc984/0*SCidZBiVLclnY0Pz)
 
 
 
-![](assets/a58e2bffc984/0*dkfMxeEKOgzMUFxs.jpg)
+![](../assets/a58e2bffc984/0*dkfMxeEKOgzMUFxs.jpg)
 
 ### FEATURE
 ### Another young person drowns off the coast of Melilla
@@ -77,11 +77,11 @@ There are [1,290 children](https://www.facebook.com/lighthouserelief/posts/38235
 _Lesvos:_
 
 
-![](assets/a58e2bffc984/0*bCi7Rht7w5PFDkfq)
+![](../assets/a58e2bffc984/0*bCi7Rht7w5PFDkfq)
 
 
 
-![](assets/a58e2bffc984/0*dWFoxxGoF0QQW5v4)
+![](../assets/a58e2bffc984/0*dWFoxxGoF0QQW5v4)
 
 
 A group of 70 people contacted [Aegean Boat Report](https://www.facebook.com/AegeanBoatReport/posts/1061941890995581) for support after landing near Tsonia on the island of Lesvos\. Thankfully, nobody was hurt, although many small children were packed into the small dinghy\. The people were probably taken to the quarantine camp in Megala Therma\.
@@ -162,11 +162,11 @@ Sweden’s ostensibly centre\-left government has proposed a bill to [further re
 ### Arrivals continue at Napier Barracks despite condemnation
 
 
-![](assets/a58e2bffc984/0*R4WcJVO6bv7P_vqo)
+![](../assets/a58e2bffc984/0*R4WcJVO6bv7P_vqo)
 
 
 
-![](assets/a58e2bffc984/0*8KE7g8GXX8jmGQ42)
+![](../assets/a58e2bffc984/0*8KE7g8GXX8jmGQ42)
 
 
 For months, people on the move, advocates, and even Tory MPs have called on the Home Office to close the Napier Barracks because of the awful conditions there\. Instead of closing the barracks, the Home Office is planning to move people [from hotel accommodation](https://twitter.com/Care4Calais/status/1380551491015036928?fbclid=IwAR0aw4uCP_YFIPaWvO0T3i_eMrKFQNKZHG4p2140iVwNAzWJurOJIumh7oM) into the barracks\. The first new arrivals \(unclear if they are from hotel accommodation or somewhere else\) have already [arrived today](https://twitter.com/andyaitchison/status/1380488777047683074?s=20&fbclid=IwAR1TnGtDZnTGffpGWkgCbrGo2b7FuCxJ-Kdt-l6XpsOopIHkvU8U542Yx2U) \. Men recently released from the barracks have also [been returned](https://twitter.com/RefugeesAtHome/status/1380234189736398853?s=20&fbclid=IwAR3_lDxJX3KndgPhbry12as4um-u-n3KcbKUMUgCWIubK_huXuRRpwfSDSs) to the place that they thought they had escaped\.
@@ -180,11 +180,11 @@ Frontex has previously made some baffling attempts at cleaning up its image\. Fo
 Now, they are launching a [Frontex photo contest](https://frontex.europa.eu/media-centre/news/news-release/frontex-photo-competition-europe-day-PxeK4e?fbclid=IwAR2lHXW5FhFrJGH8Hz1-YSgV7ObP-F-vi6yuRkrYTULKQ-J6-YRsBGByiY8) among officers to celebrate Europe Day on May 9th\. Categories include “cooperation with national authorities,” “Frontier landscapes,” and most ironically, “a helping hand at the border\.”
 
 
-![](assets/a58e2bffc984/0*wtg7GRhEB9AI025q)
+![](../assets/a58e2bffc984/0*wtg7GRhEB9AI025q)
 
 
 
-![](assets/a58e2bffc984/0*sxiXudjpMN4awN-R)
+![](../assets/a58e2bffc984/0*sxiXudjpMN4awN-R)
 
 ### GENERAL
 

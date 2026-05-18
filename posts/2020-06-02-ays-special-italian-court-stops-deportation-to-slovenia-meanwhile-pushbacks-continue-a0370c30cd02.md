@@ -1,5 +1,5 @@
 ---
-title: AYS Special: Italian Court Stops Deportation to Slovenia, Meanwhile Pushbacks Continue
+title: "AYS Special: Italian Court Stops Deportation to Slovenia, Meanwhile Pushbacks Continue"
 author: Are You Syrious?
 date: 2020-06-02T09:21:04.753+0100
 last_modified_at: 2020-06-02T09:21:04.753+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [special,refugees,slovenia,italy,europe]
 description: Italy has become the latest link in chain push backs where literally thousands of people — often violently — end up in the overcrowded…
 image:
-  path: assets/a0370c30cd02/1*_qMkf_tV4sV1qkC4kn6nuA.jpeg
+  path: ../assets/a0370c30cd02/1*_qMkf_tV4sV1qkC4kn6nuA.jpeg
 ---
 
 ### AYS Special: **Italian Court StopsDeportation to Slovenia, Meanwhile Pushbacks Continue**
 #### **Italy has become the latest link in chain push backs where literally thousands of people — often violently — end up in the overcrowded camps of Bosnia and Serbia\.**
 
 
-![Photo by Borut Kranjc \(Mladina\), courtesy of the author](assets/a0370c30cd02/1*_qMkf_tV4sV1qkC4kn6nuA.jpeg)
+![Photo by Borut Kranjc \(Mladina\), courtesy of the author](../assets/a0370c30cd02/1*_qMkf_tV4sV1qkC4kn6nuA.jpeg)
 
 Photo by Borut Kranjc \(Mladina\), courtesy of the author
 ### Contradictory approaches in Italy
@@ -32,7 +32,7 @@ These are people who were caught and were processed in police stations with char
 The Court in Italy is concerned over systemic deficiencies in the Slovene asylum system and finds real risk for an asylum seeker to be subjected to inhuman and degrading treatment if deported to Slovenia\. Meanwhile, reports of daily informal deportations from theItalian — Slovene border are becoming more and more common\.
 
 
-![The first court ruling confirming allegations of systemic deficiencies in the Slovene asylum system and high risk for asylum seekers to be subjected to inhumane and degrading treatment contrary to the provisions of Article 4 of the EU Charter of Fundamental Rights\.](assets/a0370c30cd02/0*b_jFUJP9GAAlOTBW)
+![The first court ruling confirming allegations of systemic deficiencies in the Slovene asylum system and high risk for asylum seekers to be subjected to inhumane and degrading treatment contrary to the provisions of Article 4 of the EU Charter of Fundamental Rights\.](../assets/a0370c30cd02/0*b_jFUJP9GAAlOTBW)
 
 The first court ruling confirming allegations of systemic deficiencies in the Slovene asylum system and high risk for asylum seekers to be subjected to inhumane and degrading treatment contrary to the provisions of Article 4 of the EU Charter of Fundamental Rights\.
 ### **COURT RULING:** “… **_the risk of the applicant being subjected to inhuman and degrading treatment in Slovenia seems justified_** _…_
@@ -53,14 +53,14 @@ In early April a court in Genoa, Italy found that:
 
 
 
-![Push backs from Schengen are continuing despite the epidemic and other circumstances\. A person from Algeria had his finger amputated by a surgeon in ISlovenia and next day he was already in Bosnia\.](assets/a0370c30cd02/0*if6IbWylocYvszRg)
+![Push backs from Schengen are continuing despite the epidemic and other circumstances\. A person from Algeria had his finger amputated by a surgeon in ISlovenia and next day he was already in Bosnia\.](../assets/a0370c30cd02/0*if6IbWylocYvszRg)
 
 Push backs from Schengen are continuing despite the epidemic and other circumstances\. A person from Algeria had his finger amputated by a surgeon in ISlovenia and next day he was already in Bosnia\.
 
 The complaint was lodged by a Pakistani asylum seeker, represented by Alessandra Ballerini, who had first filed the application for international protection in Slovenia and was consequently expected to be deported from Italy to Slovenia according to the Dublin regulation\.
 
 
-![](assets/a0370c30cd02/1*A96dTKm-kIG6uGON-qCT1w.png)
+![](../assets/a0370c30cd02/1*A96dTKm-kIG6uGON-qCT1w.png)
 
 
 The complaint stipulated that such a deportation would violate, inter alia, paragraph 2 of Article 3 of the Dublin Regulation due to systemic deficiencies in the asylum system in Slovenia\. The court agreed and refused to deport the asylum seeker to Slovenia, _“_ because of the danger that he would be treated there contrary to fundamental humanitarian principles and contrary to the provisions of Article 4 of the EU Charter of Fundamental Rights _”_ \.
@@ -72,13 +72,13 @@ Reports of several Slovenian and International NGOs and civil society actors \(A
 This was shown by several fact\-finding missions: [a survey from 2018 by Amnesty International](https://www.amnesty.si/media/uploads/files/Slovenia%20-%20Push-backs%20and%20denial%20of%20access%20to%20asylum%2C%20Amnesty%20International(1).pdf) obtained testimonies of 51 people in Velika Kladuša and Bihać in BiH, who were returned to the hands of the Croatian authorities by the Slovenian police, despite the fact that they wanted to apply for asylum in Slovenia\.
 
 
-![](assets/a0370c30cd02/1*angpBxUxL2GkbboMslISbw.png)
+![](../assets/a0370c30cd02/1*angpBxUxL2GkbboMslISbw.png)
 
 
 [Report on illegal practices of collective expulsion at the Slovene\-Croatian border](https://push-forward.org/sites/default/files/2019-08/Report%20on%20illegal%20practice%20of%20collective%20expulsion%20on%20slovene-croatian%20border.pdf) by InfoKolpa documents numerous cases of groups of migrants rejected by Slovenian police and returned to Croatia and further to Bosnia despite explicitly showing intention to file for asylum in Slovenia between 11th September and 7th November 2018 via an Alarmphone report; reports by No Name Kitchen and Balkan Violence Monitoring show collective expulsion and violent return of asylum seekers to the Bosnian border surrounding Velika Kladuša as a routine occurrence initiated by Croatian and Slovenian police forces\.
 
 
-![An example of alarm phone activity](assets/a0370c30cd02/0*Yc9sF1C1Vvtonv60)
+![An example of alarm phone activity](../assets/a0370c30cd02/0*Yc9sF1C1Vvtonv60)
 
 An example of alarm phone activity
 

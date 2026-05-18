@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 22/9/20: New European ‘Morias’ across the Balkans
+title: "AYS Daily Digest 22/9/20: New European ‘Morias’ across the Balkans"
 author: Are You Syrious?
 date: 2020-09-23T19:25:36.608+0100
 last_modified_at: 2020-09-23T19:25:36.608+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [slovenia,migration,greece,refugees]
 description: Reflections from Bosnia and Herzegovina, staring in the face of collective misery and indifference / Will the new Pact prolong the same…
 image:
-  path: assets/5486c6370321/0*JZAye7773wpGo1m2.jpeg
+  path: ../assets/5486c6370321/0*JZAye7773wpGo1m2.jpeg
 ---
 
 ### AYS Daily Digest 22/9/20: New European ‘Morias’ across the Balkans
 ### Reflections from Bosnia and Herzegovina, staring in the face of collective misery and indifference / Will the new Pact prolong the same mistakes tat brought to the current state in Greek camps and across the Balkans? / news and updates from Greece, Slovenia, France, Spain and Sweden
 
 
-![](assets/5486c6370321/0*fLxhHqTUMGtBbTbU.jpeg)
+![](../assets/5486c6370321/0*fLxhHqTUMGtBbTbU.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----e23d1e7181e4--------------------------------)
@@ -22,11 +22,11 @@ image:
 [Sep 23](ays-daily-digest-22-9-20-new-european-morias-across-the-balkans-e23d1e7181e4?source=post_page-----e23d1e7181e4--------------------------------) · 10 min read
 
 
-![](assets/5486c6370321/0*6gzno8ndPiNWRJvS)
+![](../assets/5486c6370321/0*6gzno8ndPiNWRJvS)
 
 
 
-![](assets/5486c6370321/0*QoUpuOuDDjBtCt6T.jpeg)
+![](../assets/5486c6370321/0*QoUpuOuDDjBtCt6T.jpeg)
 
 
 “Moria 2”, as the activist call it\. The second, provisional camp set up for the people evacuated from Moria \(Photo: [DunyaCollective](https://twitter.com/DunyaCollective) \)
@@ -76,11 +76,11 @@ image:
 
 
 
-![](assets/5486c6370321/0*njBjnXZ_YXhmJlJT)
+![](../assets/5486c6370321/0*njBjnXZ_YXhmJlJT)
 
 
 
-![](assets/5486c6370321/0*aQfUP59KKaqboHMk.jpeg)
+![](../assets/5486c6370321/0*aQfUP59KKaqboHMk.jpeg)
 
 
 Photo originally published by [Transbalkanska solidarnost](https://www.facebook.com/transbalkanskasolidarnost/?__xts__%5B0%5D=68.ARCKs23CtVANyWYc4XpTFGTkoLVVTWh0fVqbT-WtvRKZK3rooY9AVe3iFqdNpA7TG7TJpjcFWEuE5m5oKKAiN-OTz9-au2GUN_hD4hYe9wxpUzMmwYNCD_gc5UaXNbVpzFZg-VZZ8T94XA86lGOEYpkdwvZ9w-obXJ-lbgg8xyQjoi-9YQC39brBcwYh3wVcMaU_pDX5SfFEkvocm4hVRVbaojeBDsg-J5Brz55styU3dIdD7X5FCuWwVh7HAcNo_2i_C2W6LtdiH02WMruqj40jBUA8hmE1DYC4c-OgJ7SCE-Wgh4QyahMymcGMpWfJVtsiUM667avPzheKWpwPBGw&__tn__=k%2AF&tn-str=k%2AF) — the families who were left outside the Ušivak camp were taken in the day afterwards, but places in an unequipped common tent, all together\.
@@ -132,11 +132,11 @@ Dunya Collective has reported on some of the basic conditions in the new camp:
 Apart from the field not being safe for children or for sleeping, as it was used as a military shooting range, local groups say there is not enough food and water\. Water is distributed once a day in a food line, and according to some, only one bottle \(1,5 l\) per person is distributed per day\. The food delivered is the same as in Moria and of poor quality\.
 
 
-![](assets/5486c6370321/0*wwl1HYJM7VkmhXlV)
+![](../assets/5486c6370321/0*wwl1HYJM7VkmhXlV)
 
 
 
-![](assets/5486c6370321/0*HW8VhYX2TYXQCsJu.jpeg)
+![](../assets/5486c6370321/0*HW8VhYX2TYXQCsJu.jpeg)
 
 
 Food line in the camp
@@ -144,11 +144,11 @@ Food line in the camp
 There doesn’t seem to be any proper organized medical infrastructure inside the new camp\. Patients have been asking for medical treatment for days, some groups say\. The situation remains as chaotic at it was in Moria\.
 
 
-![](assets/5486c6370321/0*tpygLbxOnTwTZ9QI)
+![](../assets/5486c6370321/0*tpygLbxOnTwTZ9QI)
 
 
 
-![](assets/5486c6370321/0*p0io4KUU8tijGWUk.jpeg)
+![](../assets/5486c6370321/0*p0io4KUU8tijGWUk.jpeg)
 
 
 The entire infrastructure of the reception system doesn’t seem to be able to answer peoples’ basic needs and its own international minimal standards\.
@@ -241,11 +241,11 @@ However, the official reaction is often not the one people would expect — to w
 The Swedish Campaign group HÅLL IHOP SVERIGE will have a crucial meeting with the Swedish government representative\. Abdul Ghafoor will share his years of experience working with deportees, the challenges they face post deportation and the trend of re — migration among those deported to Afghanistan:
 
 
-![](assets/5486c6370321/0*XmCVG0rnHXwsnUBw)
+![](../assets/5486c6370321/0*XmCVG0rnHXwsnUBw)
 
 
 
-![](assets/5486c6370321/0*JZAye7773wpGo1m2.jpeg)
+![](../assets/5486c6370321/0*JZAye7773wpGo1m2.jpeg)
 
 
 [Afghanistan Migrants Advice & Support Org](https://www.facebook.com/AmasoAfg/?tn-str=k%2AF&hc_location=group_dialog)

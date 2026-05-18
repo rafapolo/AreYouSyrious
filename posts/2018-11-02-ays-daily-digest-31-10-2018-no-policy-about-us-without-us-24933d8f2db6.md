@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 31/10/2018: No Policy About Us Without Us.
+title: "AYS Daily Digest 31/10/2018: No Policy About Us Without Us."
 author: Are You Syrious?
 date: 2018-11-02T07:57:09.721+0000
 last_modified_at: 2018-11-02T07:57:09.721+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,greece,digest,europe,turkey]
 description: At Last, Refugees Engage in Political Debate in Europe.
 image:
-  path: assets/24933d8f2db6/1*R78kA_PHR9Mer99U45SvvQ.jpeg
+  path: ../assets/24933d8f2db6/1*R78kA_PHR9Mer99U45SvvQ.jpeg
 ---
 
 ### AYS Daily Digest 31/10/2018: No Policy About Us Without Us\.
@@ -16,7 +16,7 @@ image:
 Calls to lift arms embargo in Libya//Ministry report shows very low rate of crime among Syrian refugees in Turkey//Mass deportation of Syrians from Turkey// Officers working in Moria diagnosed with Tuberculosis// Italy to Criminalise re\-entry of any person previously expelled// More news from Greece//Bosnia//Italy//Hungary//Austria//Spain and UK
 
 
-![By Nunzio Montuori](assets/24933d8f2db6/1*R78kA_PHR9Mer99U45SvvQ.jpeg)
+![By Nunzio Montuori](../assets/24933d8f2db6/1*R78kA_PHR9Mer99U45SvvQ.jpeg)
 
 By Nunzio Montuori
 ### Feature: The Final Resolution of the First European Refugee Parliament Discussion\. It Is Important\!
@@ -37,7 +37,7 @@ The event was hosted by German MEP Cornelia Ernst who commented:
 The parliament session released a final resolution and it’s important that we listen to what it says\. **Refugee advocates too, because sometimes it easy to forget is not necessary to speak on behalf for someone who has a voice of their own\.**
 
 
-![](assets/24933d8f2db6/0*v8GExcyfKaxmAKks.jpg)
+![](../assets/24933d8f2db6/0*v8GExcyfKaxmAKks.jpg)
 
 
 **The resolution, reviewed and finalized by the RISE members:**
@@ -145,7 +145,7 @@ In one incident, a monument dedicated to refugees who perished at sea was also d
 #### Anti\-Fascist Protest
 
 
-![](assets/24933d8f2db6/1*u61qGK9BVusTSCjVqbyreg.jpeg)
+![](../assets/24933d8f2db6/1*u61qGK9BVusTSCjVqbyreg.jpeg)
 
 #### Winter is coming to the Mediterranean islands, too
 
@@ -249,7 +249,7 @@ Amnesty International criticized Austria’s stance\.
 
 
 
-![](assets/24933d8f2db6/1*vtuVyBDT2lkakp0zpTH4lg.jpeg)
+![](../assets/24933d8f2db6/1*vtuVyBDT2lkakp0zpTH4lg.jpeg)
 
 #### SPAIN
 
@@ -273,15 +273,15 @@ A recent report puts the total of deaths at 176, with 273 people missing off the
 Refugees have inadequate clothing to survive the conditions and their stock is limited\. Donations are welcome\.
 
 
-![](assets/24933d8f2db6/1*_y4z123pkLrWw1e2QI7Svw.jpeg)
+![](../assets/24933d8f2db6/1*_y4z123pkLrWw1e2QI7Svw.jpeg)
 
 
 
-![](assets/24933d8f2db6/1*SvYxr9_amO8kzewyx5cbeQ.jpeg)
+![](../assets/24933d8f2db6/1*SvYxr9_amO8kzewyx5cbeQ.jpeg)
 
 
 
-![](assets/24933d8f2db6/1*ld9GdIi2l7qxIavWSDGQbg.jpeg)
+![](../assets/24933d8f2db6/1*ld9GdIi2l7qxIavWSDGQbg.jpeg)
 
 #### An exhibition of photographs by Abdul Saboor
 
@@ -308,15 +308,15 @@ One week after the Dunkirk eviction, hundreds have already returned to the area 
 
 
 
-![](assets/24933d8f2db6/1*8FtV4ZSdXKEd7jpvcRrdWg.jpeg)
+![](../assets/24933d8f2db6/1*8FtV4ZSdXKEd7jpvcRrdWg.jpeg)
 
 
 
-![](assets/24933d8f2db6/1*T8H2PuDYTdckTXG3LLVMVQ.jpeg)
+![](../assets/24933d8f2db6/1*T8H2PuDYTdckTXG3LLVMVQ.jpeg)
 
 
 
-![Source: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?__tn__=%2CdkCH-R-R&eid=ARCN8w7dUeHKArU3hvV_NLwhiJSPHwS4ecKI6CdxX-bBJJK9msugGEZu1us_THi9fhX5AOLszmgul1OD&hc_ref=ARTsjRlTsVvjH8cskG7A2ZDeQVQTUwZO7o0z8Wt9E9aIDirBpiARagduZZti3SlZSh0&fref=nf)](assets/24933d8f2db6/1*JcPLIZuxrdYpCpnn6GYlwQ.jpeg)
+![Source: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?__tn__=%2CdkCH-R-R&eid=ARCN8w7dUeHKArU3hvV_NLwhiJSPHwS4ecKI6CdxX-bBJJK9msugGEZu1us_THi9fhX5AOLszmgul1OD&hc_ref=ARTsjRlTsVvjH8cskG7A2ZDeQVQTUwZO7o0z8Wt9E9aIDirBpiARagduZZti3SlZSh0&fref=nf)](../assets/24933d8f2db6/1*JcPLIZuxrdYpCpnn6GYlwQ.jpeg)
 
 Source: [Mobile Refugee Support](https://www.facebook.com/MobileRefugeeSupport/?__tn__=%2CdkCH-R-R&eid=ARCN8w7dUeHKArU3hvV_NLwhiJSPHwS4ecKI6CdxX-bBJJK9msugGEZu1us_THi9fhX5AOLszmgul1OD&hc_ref=ARTsjRlTsVvjH8cskG7A2ZDeQVQTUwZO7o0z8Wt9E9aIDirBpiARagduZZti3SlZSh0&fref=nf)
 #### People in Motion in need of volunteer trustee

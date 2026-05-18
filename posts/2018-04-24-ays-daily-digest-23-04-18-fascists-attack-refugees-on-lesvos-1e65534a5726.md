@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 23/04/18: Fascists attack Refugees on Lesvos
+title: "AYS Daily Digest 23/04/18: Fascists attack Refugees on Lesvos"
 author: Are You Syrious?
 date: 2018-04-24T09:30:20.028+0100
 last_modified_at: 2018-04-26T23:05:26.028+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,human-rights,fascism,greece]
 description: 121 refugees arrested after being assaulted by fascists in organised attack// Multiple rescues at sea// 25 year old woman dies on the…
 image:
-  path: assets/1e65534a5726/1*QAtlysFaeCF2pxDE-gboig.jpeg
+  path: ../assets/1e65534a5726/1*QAtlysFaeCF2pxDE-gboig.jpeg
 ---
 
 ### AYS Daily Digest 23/04/18: Fascists attack Refugees on Lesvos
@@ -15,7 +15,7 @@ image:
 121 refugees arrested after being assaulted by fascists in organised attack// Multiple rescues at sea// 25 year old woman dies on the Mediterranean// Four boats arrive to Aegean Islands// Update on Moria 35 trial// More news from Greece// Geographical restrictions in Greece to continue// Caritas program provides housing in Bulgaria// Protesters cross from Italy to France// News from Germany// London// Norway
 
 
-![Photo by Cookie Arnone](assets/1e65534a5726/1*QAtlysFaeCF2pxDE-gboig.jpeg)
+![Photo by Cookie Arnone](../assets/1e65534a5726/1*QAtlysFaeCF2pxDE-gboig.jpeg)
 
 Photo by Cookie Arnone
 #### FEATURE:
@@ -42,7 +42,7 @@ The male refugees formed a circle to protect the women and children who remained
 
 
 
-![People holding out blankets to women and children underneath from being struck\. Photo Credit: [Walesa Porcellato](https://www.facebook.com/Walesa.Porcellato?hc_ref=ARTJfQEuwIYq0KPLwJ2kbgkydrDukBx0fN6XLX8wy--ZOQAvlDDO_UvXxqPFJnQF7rQ&fref=nf)](assets/1e65534a5726/1*Edy1rFyfswMYUp_u-JE6VA.jpeg)
+![People holding out blankets to women and children underneath from being struck\. Photo Credit: [Walesa Porcellato](https://www.facebook.com/Walesa.Porcellato?hc_ref=ARTJfQEuwIYq0KPLwJ2kbgkydrDukBx0fN6XLX8wy--ZOQAvlDDO_UvXxqPFJnQF7rQ&fref=nf)](../assets/1e65534a5726/1*Edy1rFyfswMYUp_u-JE6VA.jpeg)
 
 People holding out blankets to women and children underneath from being struck\. Photo Credit: [Walesa Porcellato](https://www.facebook.com/Walesa.Porcellato?hc_ref=ARTJfQEuwIYq0KPLwJ2kbgkydrDukBx0fN6XLX8wy--ZOQAvlDDO_UvXxqPFJnQF7rQ&fref=nf)
 
@@ -131,7 +131,7 @@ In 2015 when over a million refugees flooded into Europe, [several countries in 
 After a quiet weekend of arrivals, four boats arrived to the shores of the Greek Islands of Lesvos and Samos yesterday\.
 
 
-![](assets/1e65534a5726/1*E2p7vktGbqQbun--4VIk7A.png)
+![](../assets/1e65534a5726/1*E2p7vktGbqQbun--4VIk7A.png)
 
 #### Samos Camp is hugely over capacity:
 
@@ -204,12 +204,12 @@ The trial of the Moria 35 has begun\. Below is a summary from the court proceedi
 The court will resume again on Thursday where defence witnesses will take the stand\. To follow live updates please refer to Legal Centre Lesbos Twitter page\.
 
 
-![](assets/1e65534a5726/1*93ZAn3BOOOokx4RivmZOqw.png)
+![](../assets/1e65534a5726/1*93ZAn3BOOOokx4RivmZOqw.png)
 
 #### DocMobile Schedule for the week ahead:
 
 
-![](assets/1e65534a5726/1*Uyd1pgz7Z_V_oBw7sX9krQ.png)
+![](../assets/1e65534a5726/1*Uyd1pgz7Z_V_oBw7sX9krQ.png)
 
 #### Mo Chara Rescue:
 
@@ -223,11 +223,11 @@ Mo Chara was able to safely transfer 8 children, 12 women and 18 men into Skala 
 
 
 
-![](assets/1e65534a5726/1*TQ8kQiKRUxtyPNYtygMDeA.jpeg)
+![](../assets/1e65534a5726/1*TQ8kQiKRUxtyPNYtygMDeA.jpeg)
 
 
 
-![photo: Giannis Skenderoglou](assets/1e65534a5726/1*J8ya6jZKamRSeoslxsfEFw.jpeg)
+![photo: Giannis Skenderoglou](../assets/1e65534a5726/1*J8ya6jZKamRSeoslxsfEFw.jpeg)
 
 photo: Giannis Skenderoglou
 #### [Escalation of war in Syria causing more people to come to Greece](http://www.ekathimerini.com/227933/article/ekathimerini/news/erdogan-crackdown-syria-war-seen-fueling-migrant-flows-to-greece)
@@ -245,7 +245,7 @@ It is unclear whether the Sunday night attack by fascists on protesting refugees
 #### Geographical restrictions between Aegean Islands and Greek Mainland to continue:
 
 
-![](assets/1e65534a5726/1*_nss7jIqB7LEyJdwlytDog.jpeg)
+![](../assets/1e65534a5726/1*_nss7jIqB7LEyJdwlytDog.jpeg)
 
 
 On April 17, a Greek court ruled that parts of the Asylum Service’s geographical restriction policy which keeps refugees landlocked on the Aegean Islands of Samos, Lesvos, Leros, Rhodes, Kos or Chios while their asylum applications are processed is illegal\.
@@ -305,15 +305,15 @@ The group walked for 19 kilometres across the mountain path and resisted attempt
 Once the group arrived the police began hunting down individuals and arresting them\. Altogether 9 people were arrested\. Four have been released while the others remain in custody\.
 
 
-![](assets/1e65534a5726/1*vVq4s8epIE_RBWzmE68_zA.jpeg)
+![](../assets/1e65534a5726/1*vVq4s8epIE_RBWzmE68_zA.jpeg)
 
 
 
-![](assets/1e65534a5726/1*ztUG3pIswF3KqsWHyIHGhQ.jpeg)
+![](../assets/1e65534a5726/1*ztUG3pIswF3KqsWHyIHGhQ.jpeg)
 
 
 
-![](assets/1e65534a5726/1*UkMlb8BXxYZu-l-jLT38Uw.jpeg)
+![](../assets/1e65534a5726/1*UkMlb8BXxYZu-l-jLT38Uw.jpeg)
 
 ### Germany:
 #### Germany plans to facilitate repatriation of Iraqis
@@ -374,7 +374,7 @@ To find out more please follow [this link](https://www.facebook.com/photo.php?fb
 In addition FAST is also in need of physical donations\. Donations needed are listed below:
 
 
-![](assets/1e65534a5726/1*qcBkOGwcGy6iPEof-O0u1w.png)
+![](../assets/1e65534a5726/1*qcBkOGwcGy6iPEof-O0u1w.png)
 
 #### THE UK
 

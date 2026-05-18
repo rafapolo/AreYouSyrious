@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 20/5/22: Greece: Dysfunctional democracy and asylum system
+title: "AYS News Digest 20/5/22: Greece: Dysfunctional democracy and asylum system"
 author: Are You Syrious?
 date: 2022-05-23T08:55:32.262+0100
 last_modified_at: 2022-05-23T10:50:14.463+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,greece,refugees,news,europe]
 description: No legal routes for asylum seekers in the UK — Rwanda expects first transfer of May/Illegal detentions and deportations in Grand…
 image:
-  path: assets/b5a59a90cfed/1*_Kn9I2LDUf6bJ4bT4LGI-w.jpeg
+  path: ../assets/b5a59a90cfed/1*_Kn9I2LDUf6bJ4bT4LGI-w.jpeg
 ---
 
 ### AYS News Digest 20/5/22: Greece: Dysfunctional democracy and asylum system
 #### No legal routes for asylum seekers in the UK — Rwanda expects first transfer of May/Illegal detentions and deportations in Grand Canaria/People still continue to attempt sea crossings/ and some material worth reading and listening to
 
 
-![Photo illustration from one of the earlier protests we wrote about](assets/b5a59a90cfed/1*_Kn9I2LDUf6bJ4bT4LGI-w.jpeg)
+![Photo illustration from one of the earlier protests we wrote about](../assets/b5a59a90cfed/1*_Kn9I2LDUf6bJ4bT4LGI-w.jpeg)
 
 Photo illustration from one of the earlier protests we wrote about
 #### **FEATURE**

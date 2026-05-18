@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 18/11/2017: Who will take responsibility for the death of an 11-year-old boy in…
+title: "AYS DAILY DIGEST 18/11/2017: Who will take responsibility for the death of an 11-year-old boy in…"
 author: Are You Syrious?
 date: 2017-11-19T12:15:26.757+0000
 last_modified_at: 2017-11-19T17:58:26.232+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,austria,volunteers,lesvos,brussels]
 description: European policies are killing children, again // People stranded on Greek islands are begging for help, as well as their hosts // Over 1000…
 image:
-  path: assets/ec8349cbfbc/1*BevJB2rSN4u7enSPjrd-lw.jpeg
+  path: ../assets/ec8349cbfbc/1*BevJB2rSN4u7enSPjrd-lw.jpeg
 ---
 
 ### AYS DAILY DIGEST 18/11/2017: Who will take responsibility for the death of an 11\-year\-old boy in Austria?
@@ -15,7 +15,7 @@ image:
 _European policies are killing children, again // People stranded on Greek islands are begging for help, as well as their hosts // Over 1000 people in the streets of Paris desperately needs help // Solidarity still exists in Europe — no people left to sleep outside in Brussels_
 
 
-![Children are left in unbearable conditions, with minimum care, all over Europe\. This is a child who lives in camp on Lesvos\. Photo by [Giorgos Moutafis](https://www.facebook.com/giorgos.moutafis.5) \.](assets/ec8349cbfbc/1*BevJB2rSN4u7enSPjrd-lw.jpeg)
+![Children are left in unbearable conditions, with minimum care, all over Europe\. This is a child who lives in camp on Lesvos\. Photo by [Giorgos Moutafis](https://www.facebook.com/giorgos.moutafis.5) \.](../assets/ec8349cbfbc/1*BevJB2rSN4u7enSPjrd-lw.jpeg)
 
 Children are left in unbearable conditions, with minimum care, all over Europe\. This is a child who lives in camp on Lesvos\. Photo by [Giorgos Moutafis](https://www.facebook.com/giorgos.moutafis.5) \.
 ### Feature
@@ -107,24 +107,24 @@ One boat carrying approximately 30 people also arrived in Kos yesterday\.
 Torrential rains have hit Greece over the last week causing flash flooding in many areas, and the forecast predicts more rain in the coming days on the Greek islands\. These are some of the images coming from islands today\.
 
 
-![](assets/ec8349cbfbc/1*w15sc0Y1w5iZoc4Zs-Y1ug.jpeg)
+![](../assets/ec8349cbfbc/1*w15sc0Y1w5iZoc4Zs-Y1ug.jpeg)
 
 
 
-![](assets/ec8349cbfbc/1*wQFcBB6Sg8tfc9dJRy_MrQ.jpeg)
+![](../assets/ec8349cbfbc/1*wQFcBB6Sg8tfc9dJRy_MrQ.jpeg)
 
 
 
-![Lesvos](assets/ec8349cbfbc/1*66GpGXFOSKUZaOt2nImQzQ.jpeg)
+![Lesvos](../assets/ec8349cbfbc/1*66GpGXFOSKUZaOt2nImQzQ.jpeg)
 
 Lesvos
 
 
-![](assets/ec8349cbfbc/1*LyCoy1P4ILTmY8azrDY_ZQ.jpeg)
+![](../assets/ec8349cbfbc/1*LyCoy1P4ILTmY8azrDY_ZQ.jpeg)
 
 
 
-![Chios](assets/ec8349cbfbc/1*L1Gvt4zcYnKG9uYGW-sZJQ.jpeg)
+![Chios](../assets/ec8349cbfbc/1*L1Gvt4zcYnKG9uYGW-sZJQ.jpeg)
 
 Chios
 
@@ -152,7 +152,7 @@ In a public statement, the local authorities are requesting the government and t
 Meanwhile, the protest in the centre of Mytiline continues, reaching it’s 31st day\. So too, does the hunger strike\.
 
 
-![Among those who are staying on the main square in Mytiline are children\. There is not enough space for their families to stay in safe and warm places\. Photo Arash Hampay\.](assets/ec8349cbfbc/1*L8kPEgLBn80NuKoR0FYsEQ.jpeg)
+![Among those who are staying on the main square in Mytiline are children\. There is not enough space for their families to stay in safe and warm places\. Photo Arash Hampay\.](../assets/ec8349cbfbc/1*L8kPEgLBn80NuKoR0FYsEQ.jpeg)
 
 Among those who are staying on the main square in Mytiline are children\. There is not enough space for their families to stay in safe and warm places\. Photo Arash Hampay\.
 
@@ -163,7 +163,7 @@ On Chios similar problems are being faced with overcrowding and the lack of appr
 Volunteers are needed at [Khora](https://www.facebook.com/KhoraAthens/?ref=br_rs) to facilitate child support in their community centre in Athens\. Ideally, the potential facilitators are people with experience in childcare and a commitment to creating a fun, positive, and safe environment for children and their families\. Positions can be full\-time or part\-time and ideal availability is 3–6 months\.
 
 
-![](assets/ec8349cbfbc/1*OU-tc9AU4BbE4Y-U5XHcUA.jpeg)
+![](../assets/ec8349cbfbc/1*OU-tc9AU4BbE4Y-U5XHcUA.jpeg)
 
 
 Looking for someone who can start any time from now on\. If this sounds like you, get in touch with Helen and Christa at nelgillespie@yahoo\.co\.uk & [christastengardgreen@gmail\.com](mailto:christastengardgreen@gmail.com) \.
@@ -192,7 +192,7 @@ In Paris the conditions are becoming more critical for around 1000 refugees who 
 The same is true of Calais and Dunkirk\.
 
 
-![Photo by Care4Calais\.](assets/ec8349cbfbc/1*KZTsL4o-IdNAGQA2PbcdqQ.jpeg)
+![Photo by Care4Calais\.](../assets/ec8349cbfbc/1*KZTsL4o-IdNAGQA2PbcdqQ.jpeg)
 
 Photo by Care4Calais\.
 
@@ -232,7 +232,7 @@ According [to a report published yesterday,](https://www.franceculture.fr/emissi
 People in Brussels do not want to let their leaders be the face of their country and cities\. For months now, hundreds of people have been coming out every day and night to offer shelter to migrants and refugees who otherwise would have to stay out in the open\. Last night, as many nights before, nobody slept in the park or streets of Brussels\.
 
 
-![](assets/ec8349cbfbc/1*JwS-fCRo7k6A-GT5gLpexQ.jpeg)
+![](../assets/ec8349cbfbc/1*JwS-fCRo7k6A-GT5gLpexQ.jpeg)
 
 
 Humanity and solidarity\. It is simple\.
@@ -248,7 +248,7 @@ The proposal’s acceptance means that all cases of unaccompanied minors since 1
 A demonstration was held in Switzerland for the rights of two refugees, Eden and her son Nahom, from Eritrea\. The mother and son risk being sent back to Italy where they received refugee status in 2006, despite having lived in Switzerland and made a life there over the last six years\.
 
 
-![](assets/ec8349cbfbc/1*hhg5Ur7za0iHjXjGnlQNDg.jpeg)
+![](../assets/ec8349cbfbc/1*hhg5Ur7za0iHjXjGnlQNDg.jpeg)
 
 ### UK
 

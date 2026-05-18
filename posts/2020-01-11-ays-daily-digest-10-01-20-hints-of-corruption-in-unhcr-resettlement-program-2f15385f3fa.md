@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 10/01/20: Hints of corruption in UNHCR resettlement program
+title: "AYS Daily Digest 10/01/20: Hints of corruption in UNHCR resettlement program"
 author: Are You Syrious?
 date: 2020-01-11T10:36:47.883+0000
 last_modified_at: 2020-01-11T10:36:47.883+0000
@@ -7,18 +7,18 @@ categories: Are You Syrious?
 tags: []
 description: Update from Idlib / Mayors protest new camps on Aegean islands / Sea Watch rescued 119 people at sea / Captain Reisch leaves Lifeline /…
 image:
-  path: assets/2f15385f3fa/0*BNa4pFBH-lBrmpyo.jpeg
+  path: ../assets/2f15385f3fa/0*BNa4pFBH-lBrmpyo.jpeg
 ---
 
 ### AYS Daily Digest 10/01/20: Hints of corruption in UNHCR resettlement program
 #### Update from Idlib / Mayors protest new camps on Aegean islands / Sea Watch rescued 119 people at sea / Captain Reisch leaves Lifeline / Norway to relocate 800 people
 
 
-![](assets/2f15385f3fa/0*HUOaPMky7Elu0d0e)
+![](../assets/2f15385f3fa/0*HUOaPMky7Elu0d0e)
 
 
 
-![](assets/2f15385f3fa/0*BNa4pFBH-lBrmpyo.jpeg)
+![](../assets/2f15385f3fa/0*BNa4pFBH-lBrmpyo.jpeg)
 
 
 Credits: Twitter/@CanadaDev/UNHCR/Alan Azevodo

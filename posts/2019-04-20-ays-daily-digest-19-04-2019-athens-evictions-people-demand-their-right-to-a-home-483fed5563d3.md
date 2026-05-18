@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 19/04/2019: Athens Evictions: People Demand Their Right to a Home
+title: "AYS Daily Digest 19/04/2019: Athens Evictions: People Demand Their Right to a Home"
 author: Are You Syrious?
 date: 2019-04-20T11:34:47.937+0100
 last_modified_at: 2019-04-20T12:32:43.453+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,human-rights,greece,europe]
 description: Despite police attempts to clear the demonstrators at Syntagma, they continue to resist and demand their right to a home
 image:
-  path: assets/483fed5563d3/0*4BVHVyXGiMLPdUkv
+  path: ../assets/483fed5563d3/0*4BVHVyXGiMLPdUkv
 ---
 
 ### AYS Daily Digest 19/04/2019: Athens Evictions: People Demand Their Right to a Home
@@ -16,7 +16,7 @@ image:
 721 refugees are trapped in Qaser Bin Gashir while fighting continues in Tripoli// Hundreds sleeping outside without shelter in Bosnia //Locals in Montenegro are working hard to provide assistance// Romania to Release Operational EU Sea Rescue Code by end of May// Demonstrations in Denmark
 
 
-![](assets/483fed5563d3/0*4BVHVyXGiMLPdUkv)
+![](../assets/483fed5563d3/0*4BVHVyXGiMLPdUkv)
 
 #### Feature: Protestors fiercely hold their ground against police at Syntagma\. Solidarity is needed\!
 
@@ -66,7 +66,7 @@ Arash Hampay reports that no doctors or organisations have been present on the s
 Where is IOM, where is MSF, where is UNHCR?
 
 
-![Photo by Arash Hampay](assets/483fed5563d3/0*u3jiLaqAJ4N-qaws)
+![Photo by Arash Hampay](../assets/483fed5563d3/0*u3jiLaqAJ4N-qaws)
 
 Photo by Arash Hampay
 
@@ -78,11 +78,11 @@ Photo by Arash Hampay
 
 
 
-![](assets/483fed5563d3/0*kfekxwFHWsoDWPsR)
+![](../assets/483fed5563d3/0*kfekxwFHWsoDWPsR)
 
 
 
-![by Arash Hampay](assets/483fed5563d3/0*emjIysKVPLOl3mWs)
+![by Arash Hampay](../assets/483fed5563d3/0*emjIysKVPLOl3mWs)
 
 by Arash Hampay
 #### LIBYA
@@ -104,7 +104,7 @@ by Arash Hampay
 Due to lack of space inside of existing camps, hundreds of people are sleeping outside all over Bosnia\. This is a picture from Bihac, where at least 300 people are around camp BIRA\. Nobody, but a small group of locals, is helping them\.
 
 
-![Photo by AYS](assets/483fed5563d3/0*JqFCvyYmBmnB2XHd)
+![Photo by AYS](../assets/483fed5563d3/0*JqFCvyYmBmnB2XHd)
 
 Photo by AYS
 #### MONTENEGRO
@@ -119,11 +119,11 @@ Photo by AYS
 
 
 
-![](assets/483fed5563d3/0*u0gyY-KUkSiycaZo)
+![](../assets/483fed5563d3/0*u0gyY-KUkSiycaZo)
 
 
 
-![By [Bona Fide Pljevlja](https://www.facebook.com/bonafide.pljevlja/?__xts__%5B0%5D=68.ARCUVdwouNX-r6v6Olus2TOfyIaNqiWC2RAAXionyvkNu73OYJlRslVRDd76EmJuXTK8h5PPxfK46e-ZnQyFJoTEiVBC25RenTTFORcthchDG-SnvoXPDPWClECbnB2VEOUmVHD6Yvaaszq8ectO6YMa2YFUSZPuUGuHS_fzucsH5PLh6lqlgnYZY76DQfHMXtQ5PqOowswOgSnIBPqNHgMbnHNr8WGrObNiumk3toUFOCP17TeoRUcsgTH06bRUylAYHuZzbwSNz-MJM_18zS-c1ZecHbhIYvMpMxPQ_lU9mPM_LCBUbn4q0S2Q3XsX7MsTxnb8R08FtuYbt84rej8&__tn__=k%2AF&tn-str=k%2AF)](assets/483fed5563d3/0*vkdTCh90D_h6zRjk)
+![By [Bona Fide Pljevlja](https://www.facebook.com/bonafide.pljevlja/?__xts__%5B0%5D=68.ARCUVdwouNX-r6v6Olus2TOfyIaNqiWC2RAAXionyvkNu73OYJlRslVRDd76EmJuXTK8h5PPxfK46e-ZnQyFJoTEiVBC25RenTTFORcthchDG-SnvoXPDPWClECbnB2VEOUmVHD6Yvaaszq8ectO6YMa2YFUSZPuUGuHS_fzucsH5PLh6lqlgnYZY76DQfHMXtQ5PqOowswOgSnIBPqNHgMbnHNr8WGrObNiumk3toUFOCP17TeoRUcsgTH06bRUylAYHuZzbwSNz-MJM_18zS-c1ZecHbhIYvMpMxPQ_lU9mPM_LCBUbn4q0S2Q3XsX7MsTxnb8R08FtuYbt84rej8&__tn__=k%2AF&tn-str=k%2AF)](../assets/483fed5563d3/0*vkdTCh90D_h6zRjk)
 
 By [Bona Fide Pljevlja](https://www.facebook.com/bonafide.pljevlja/?__xts__%5B0%5D=68.ARCUVdwouNX-r6v6Olus2TOfyIaNqiWC2RAAXionyvkNu73OYJlRslVRDd76EmJuXTK8h5PPxfK46e-ZnQyFJoTEiVBC25RenTTFORcthchDG-SnvoXPDPWClECbnB2VEOUmVHD6Yvaaszq8ectO6YMa2YFUSZPuUGuHS_fzucsH5PLh6lqlgnYZY76DQfHMXtQ5PqOowswOgSnIBPqNHgMbnHNr8WGrObNiumk3toUFOCP17TeoRUcsgTH06bRUylAYHuZzbwSNz-MJM_18zS-c1ZecHbhIYvMpMxPQ_lU9mPM_LCBUbn4q0S2Q3XsX7MsTxnb8R08FtuYbt84rej8&__tn__=k%2AF&tn-str=k%2AF)
 #### ROMANIA
@@ -164,11 +164,11 @@ Many people joined the peaceful civil disobedience at Ellebæk detention center 
 
 
 
-![](assets/483fed5563d3/0*P--zHWlsq7lqQ4qf)
+![](../assets/483fed5563d3/0*P--zHWlsq7lqQ4qf)
 
 
 
-![[Extinction Rebellion Denmark](https://www.facebook.com/ExtinctionRebellionDK/?tn-str=k%2AF&hc_location=group_dialog) \.](assets/483fed5563d3/0*z5WyZyagbSFr5XAV)
+![[Extinction Rebellion Denmark](https://www.facebook.com/ExtinctionRebellionDK/?tn-str=k%2AF&hc_location=group_dialog) \.](../assets/483fed5563d3/0*z5WyZyagbSFr5XAV)
 
 [Extinction Rebellion Denmark](https://www.facebook.com/ExtinctionRebellionDK/?tn-str=k%2AF&hc_location=group_dialog) \.
 

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 1/11/19: More uncertainty for Refugees in Libya
+title: "AYS Daily Digest 1/11/19: More uncertainty for Refugees in Libya"
 author: Are You Syrious?
 date: 2019-11-02T12:58:09.685+0000
 last_modified_at: 2019-11-02T14:07:08.771+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,libya,unhcr,vucjak]
 description: More about proposed change in Greek asylum law /// 300 people rescued in the Med /// Updates from Vucjak /// Death in Calais /// Revolts…
 image:
-  path: assets/4a5579539934/1*3OF_amK5y17W2oZVcfK7Tg.jpeg
+  path: ../assets/4a5579539934/1*3OF_amK5y17W2oZVcfK7Tg.jpeg
 ---
 
 ### AYS Daily Digest 1/11/19: More uncertainty for Refugees in Libya
@@ -15,7 +15,7 @@ image:
 More about proposed change in Greek asylum law /// 300 people rescued in the Med /// Updates from Vucjak /// Death in Calais /// Revolts in French CRAs
 
 
-![We want to live, Calais \(Photo by [Calais Migrant Solidarity](https://calaismigrantsolidarity.wordpress.com/2019/11/01/death-at-the-border-mort-a-la-frontiere-4/?fbclid=IwAR0S0-5VkXP7d8nHnO4hZN_S6JcNGXWNmtJpSZIqjMh06LvucuXWJTaTpnU) \)](assets/4a5579539934/1*3OF_amK5y17W2oZVcfK7Tg.jpeg)
+![We want to live, Calais \(Photo by [Calais Migrant Solidarity](https://calaismigrantsolidarity.wordpress.com/2019/11/01/death-at-the-border-mort-a-la-frontiere-4/?fbclid=IwAR0S0-5VkXP7d8nHnO4hZN_S6JcNGXWNmtJpSZIqjMh06LvucuXWJTaTpnU) \)](../assets/4a5579539934/1*3OF_amK5y17W2oZVcfK7Tg.jpeg)
 
 We want to live, Calais \(Photo by [Calais Migrant Solidarity](https://calaismigrantsolidarity.wordpress.com/2019/11/01/death-at-the-border-mort-a-la-frontiere-4/?fbclid=IwAR0S0-5VkXP7d8nHnO4hZN_S6JcNGXWNmtJpSZIqjMh06LvucuXWJTaTpnU) \)
 #### FEATURE — More uncertainty for refugees in Libya
@@ -103,7 +103,7 @@ Let's just remind that Italy could have avoided this stressful situation by prov
 GREECE
 
 
-![](assets/4a5579539934/1*AhzPyD7dLXEAYNwcBEIzWw.jpeg)
+![](../assets/4a5579539934/1*AhzPyD7dLXEAYNwcBEIzWw.jpeg)
 
 #### Greece’s new asylum law
 
@@ -195,7 +195,7 @@ Scenes of everyday life in the “civilized” country that gave “birth to dem
 The following video was documented on Thursday 31 October 2019 in the Athens Metro Station in Syntagma Square:
 
 
-[![The Police State of Greece: Cop publicly abuses an immigrant selling umbrellas (Syntagma metro)](assets/4a5579539934/f324_hqdefault.jpg "The Police State of Greece: Cop publicly abuses an immigrant selling umbrellas (Syntagma metro)")](https://www.youtube.com/watch?v=SM7-p7BPTRw)
+[![The Police State of Greece: Cop publicly abuses an immigrant selling umbrellas (Syntagma metro)](../assets/4a5579539934/f324_hqdefault.jpg "The Police State of Greece: Cop publicly abuses an immigrant selling umbrellas (Syntagma metro)")](https://www.youtube.com/watch?v=SM7-p7BPTRw)
 
 
 Also in Skydra, Northern Greece, a racist local priest at a council meeting [urged](https://www.keeptalkinggreece.com/2019/11/01/skydra-priest-racist-rant-refugees/?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+KeepTalkingGreece+%28Keep+Talking+Greece%29&utm_content=FaceBook) residents not to hesitate to use weapons against “illegal immigrants”\.
@@ -213,7 +213,7 @@ BOSNIA AND HERZEGOVINA
 Ipsia BiH, active in the Una\-Sana canton since June, have been going for tea distribution in Vucjak camp\. They [wrote](https://web.facebook.com/IPSIA.BIH/posts/3182906098447867) about the camp:
 
 
-![Vucjak \(Photo by [Ipsia BiH](https://web.facebook.com/IPSIA.BIH/photos/pcb.3182906098447867/3182700775135066/?type=3&theater) \)](assets/4a5579539934/1*TUb_jYeqPtvPDs7jO12eXQ.jpeg)
+![Vucjak \(Photo by [Ipsia BiH](https://web.facebook.com/IPSIA.BIH/photos/pcb.3182906098447867/3182700775135066/?type=3&theater) \)](../assets/4a5579539934/1*TUb_jYeqPtvPDs7jO12eXQ.jpeg)
 
 Vucjak \(Photo by [Ipsia BiH](https://web.facebook.com/IPSIA.BIH/photos/pcb.3182906098447867/3182700775135066/?type=3&theater) \)
 

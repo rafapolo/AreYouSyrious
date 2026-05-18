@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 18.05.18: Police Brutality at Patras Port
+title: "AYS Daily Digest 18.05.18: Police Brutality at Patras Port"
 author: Are You Syrious?
 date: 2018-05-19T03:02:48.856+0100
 last_modified_at: 2018-05-19T18:03:11.801+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,germany,digest,patras-port,police-brutality]
 description: Release of Proactiva Ship Upheld by Italian Court//Homelessness Crisis in Cyprus//New Arrivals on Aegean Islands//Help Needed In…
 image:
-  path: assets/9441ab411811/1*YLPTPGuyxdsQFFMq3TYocg.jpeg
+  path: ../assets/9441ab411811/1*YLPTPGuyxdsQFFMq3TYocg.jpeg
 ---
 
 ### AYS Daily Digest 18\.05\.18: Police Brutality at Patras Port
@@ -15,7 +15,7 @@ image:
 _Release of Proactiva Ship Upheld by Italian Court//Homelessness Crisis in Cyprus//New Arrivals on Aegean Islands//Help Needed In Thessaloniki//Evictions in Bosnia City Center//Deportations and Deaths along the Slovenian Border//Kidnappers charged in Spain//Germany rejects high number of family reunification cases//and mor_ e…
 
 
-![“Patras, Greece 28 April 2018\. Police find refugees hidden in a lorry in the port of Patras, as they try to cross the borders and travel to Italy\. People continue to risk their lifes to cross the borders\.” Photo Credit: [Ayhan Mehmet](https://twitter.com/ayhanmehmettt)](assets/9441ab411811/1*YLPTPGuyxdsQFFMq3TYocg.jpeg)
+![“Patras, Greece 28 April 2018\. Police find refugees hidden in a lorry in the port of Patras, as they try to cross the borders and travel to Italy\. People continue to risk their lifes to cross the borders\.” Photo Credit: [Ayhan Mehmet](https://twitter.com/ayhanmehmettt)](../assets/9441ab411811/1*YLPTPGuyxdsQFFMq3TYocg.jpeg)
 
 “Patras, Greece 28 April 2018\. Police find refugees hidden in a lorry in the port of Patras, as they try to cross the borders and travel to Italy\. People continue to risk their lifes to cross the borders\.” Photo Credit: [Ayhan Mehmet](https://twitter.com/ayhanmehmettt)
 ### Feature
@@ -134,21 +134,21 @@ According to new statistics recently published by Eurostat, 12%, or around 1 in 
 Around 300 people were evicted from the makeshift camp in the Sarajevo city center today\. Among them were approximately 30 children, and many unaccompanied minors who had been living in the park for a over a month\.
 
 
-![Evictions in Sarajevo City Center park\. Photo Credit: AYS](assets/9441ab411811/1*mMUaYtWBpG0DlLAygpBLJw.jpeg)
+![Evictions in Sarajevo City Center park\. Photo Credit: AYS](../assets/9441ab411811/1*mMUaYtWBpG0DlLAygpBLJw.jpeg)
 
 Evictions in Sarajevo City Center park\. Photo Credit: AYS
 
 The evictions started early this morning, around 5am and were carried by the local police\. These evictions are happening only two days before the Turkish authoritarian President Erdogan is visiting Sarajevo\. The eviction and Erdogan’s visit are likely related, as local authorties are seeking to clear the streets to hide the plight of refugees in Sarajevo from visiting officials and TV cameras\.
 
 
-![A few children’s toys remained scattered in the park after the evictions\. Photo Credit: AYS](assets/9441ab411811/1*Tk7ziC7f2jGFgi_Ieo0CuQ.jpeg)
+![A few children’s toys remained scattered in the park after the evictions\. Photo Credit: AYS](../assets/9441ab411811/1*Tk7ziC7f2jGFgi_Ieo0CuQ.jpeg)
 
 A few children’s toys remained scattered in the park after the evictions\. Photo Credit: AYS
 
 The people who were evicted today were taken to camp Salkovac in Mostar\. Buses were stopped on the way to Salkovac because of a political dispute between two regions in Bosnia, but after some negotiation the buses were allowed to go to the camp\. The camp is run under the jurisdiction of the State Ministry for Refugees and Human Rights, and it is an open camp which has been recently renovated\.
 
 
-![Refugees arrive at the Salkovac camp\. Photo Credit: AYS\.](assets/9441ab411811/1*60oguoKl3g0XOp3gNerVGQ.jpeg)
+![Refugees arrive at the Salkovac camp\. Photo Credit: AYS\.](../assets/9441ab411811/1*60oguoKl3g0XOp3gNerVGQ.jpeg)
 
 Refugees arrive at the Salkovac camp\. Photo Credit: AYS\.
 
@@ -172,7 +172,7 @@ Due to the fence and wire placed by the Slovenian government on the Slovenian\-C
 As yet another forced eviction was happening in Calais, the authroties constructed a stone barrier on a road leading to an encampment\. This ws done to further isolate refugees, and prevent volunteers from distributing food and clothes to them\. Local authorities in Calais have used this same tactic of blocking roads numerous times this year in order to punish refugees living in the area\.
 
 
-![A municipal dump truck unloads boulders to prevent volunteer aid vans from reaching refugees\. Photo Credit: [L’Auberge des Migrants](https://www.facebook.com/AubergeMigrants/?hc_location=group_dialog)](assets/9441ab411811/1*0_Mn4CAqQof0bVjthZzEFQ.jpeg)
+![A municipal dump truck unloads boulders to prevent volunteer aid vans from reaching refugees\. Photo Credit: [L’Auberge des Migrants](https://www.facebook.com/AubergeMigrants/?hc_location=group_dialog)](../assets/9441ab411811/1*0_Mn4CAqQof0bVjthZzEFQ.jpeg)
 
 A municipal dump truck unloads boulders to prevent volunteer aid vans from reaching refugees\. Photo Credit: [L’Auberge des Migrants](https://www.facebook.com/AubergeMigrants/?hc_location=group_dialog)
 

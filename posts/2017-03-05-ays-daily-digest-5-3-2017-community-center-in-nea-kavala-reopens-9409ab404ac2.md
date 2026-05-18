@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 5/3/2017: Community center in Nea Kavala reopens
+title: "AYS DAILY DIGEST 5/3/2017: Community center in Nea Kavala reopens"
 author: Are You Syrious?
 date: 2017-03-05T23:40:46.298+0000
 last_modified_at: 2017-03-06T09:17:31.742+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,greece,italy,spain]
 description: Despite decreasing numbers of residents in the camp, with a lack of information, volunteers are prepared for again raising numbers /…
 image:
-  path: assets/9409ab404ac2/1*Fkq81AgWPPhS2FOeJ0fi9Q.jpeg
+  path: ../assets/9409ab404ac2/1*Fkq81AgWPPhS2FOeJ0fi9Q.jpeg
 ---
 
 ### AYS DAILY DIGEST 5/3/2017: Community center in Nea Kavala reopens
@@ -15,14 +15,14 @@ image:
 _Despite decreasing numbers of residents in the camp, with a lack of information, volunteers are prepared for again raising numbers / Reports of police violence on Samos and Piraeus / Rapidly increasing number of displaced persons in Mosul / 690 people disembarked on Italian islands / Spanish Guardia Civil calls for reinforcement on external borders_
 
 
-![](assets/9409ab404ac2/1*Fkq81AgWPPhS2FOeJ0fi9Q.jpeg)
+![](../assets/9409ab404ac2/1*Fkq81AgWPPhS2FOeJ0fi9Q.jpeg)
 
 ### Feature
 
 Today we want to start with some good news: In a joint effort the [We Are Here — Community Centre](https://www.facebook.com/WeAreHereCentre/posts/1959116530976609) and The Timber Project with support of Help Refugees rebuilt the community center of the Nea Kavala camp in Northern Greece and finally reopened it\. After it burnt down, volunteers worked tireless to set it up again and were done already in February\. During the last weeks We Are Here with support of LDS Charities managed to finance interior walls, furniture and other needed items\.
 
 
-![Children’s space in the new community center\. Credits: [We Are Here — Community Centre](https://www.facebook.com/WeAreHereCentre/)](assets/9409ab404ac2/1*aMV8lRaMFa6GHMtmT_aAfQ.jpeg)
+![Children’s space in the new community center\. Credits: [We Are Here — Community Centre](https://www.facebook.com/WeAreHereCentre/)](../assets/9409ab404ac2/1*aMV8lRaMFa6GHMtmT_aAfQ.jpeg)
 
 Children’s space in the new community center\. Credits: [We Are Here — Community Centre](https://www.facebook.com/WeAreHereCentre/)
 
@@ -69,7 +69,7 @@ Referring to an article of [era\-aegean](http://www.era-aegean.gr/?p=24210) NoBo
 are being provided for asylum seekers living in urban appartements and housing provided by Care International\. As Refugee\.Info reports, they received some 200 requests during the lasts two weeks and passed them on to Care International\. The NGO says, that they will contact people eligable for the Cash Card Programme during the next three weeks\. More information about the programme can be found [here](http://blog.refugee.info/you-asked-cash-assistance-in-greece/) \.
 
 
-![Cash Cards for people in Greece\. [راهنمای پناهندگان Refugee\.Info دليل اللاجئ](https://www.facebook.com/refugee.info/)](assets/9409ab404ac2/1*wqwQ4Zyf7UtGDIA16Pwk5w.jpeg)
+![Cash Cards for people in Greece\. [راهنمای پناهندگان Refugee\.Info دليل اللاجئ](https://www.facebook.com/refugee.info/)](../assets/9409ab404ac2/1*wqwQ4Zyf7UtGDIA16Pwk5w.jpeg)
 
 Cash Cards for people in Greece\. [راهنمای پناهندگان Refugee\.Info دليل اللاجئ](https://www.facebook.com/refugee.info/)
 ### Serbia
@@ -77,7 +77,7 @@ Cash Cards for people in Greece\. [راهنمای پناهندگان Refugee\.In
 Volunteers in Belgrade got a full cricket set to entertain the people stuck in the capital city of Serbia\. Not only in Afghanistan but also in Pakistan and countries from the commonwealth it’s very popular\. In the next days volunteers will organize games to play cricket together\.
 
 
-![Cricket set for Belgrade\. Credits: [Calor português para os refugiados](https://www.facebook.com/calortuga/)](assets/9409ab404ac2/1*JxanfdasPDMRixK6zJcfug.jpeg)
+![Cricket set for Belgrade\. Credits: [Calor português para os refugiados](https://www.facebook.com/calortuga/)](../assets/9409ab404ac2/1*JxanfdasPDMRixK6zJcfug.jpeg)
 
 Cricket set for Belgrade\. Credits: [Calor português para os refugiados](https://www.facebook.com/calortuga/)
 ### Italy
@@ -85,7 +85,7 @@ Cricket set for Belgrade\. Credits: [Calor português para os refugiados](https:
 IOM and MSF reported today, that the Aquarius — the boat of SOS Mediterranee and MSF — brought 513 people to Pozallo, including many western African nationals, 172 Bangladeshis and 62 Syrians\. 177 people were brought to Lampedusa today\.
 
 
-![Landing on Pozallo\. Credits: [Ahmed\.أحمد](https://twitter.com/karika10)](assets/9409ab404ac2/1*hRfRoZLi7-FQG0gh79iPgQ.jpeg)
+![Landing on Pozallo\. Credits: [Ahmed\.أحمد](https://twitter.com/karika10)](../assets/9409ab404ac2/1*hRfRoZLi7-FQG0gh79iPgQ.jpeg)
 
 Landing on Pozallo\. Credits: [Ahmed\.أحمد](https://twitter.com/karika10)
 ### Spain

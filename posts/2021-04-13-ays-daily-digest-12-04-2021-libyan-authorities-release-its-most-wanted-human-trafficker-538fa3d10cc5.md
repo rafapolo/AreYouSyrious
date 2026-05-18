@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,libya,spain,greece,uk]
 description: Harrassment of activist in Spain and Italy // Greece to close yet another camp // UK’s dangerous precedent for breach of refugee laws//…
 image:
-  path: assets/538fa3d10cc5/0*lSJ391y6lJnAo5lm.jpeg
+  path: ../assets/538fa3d10cc5/0*lSJ391y6lJnAo5lm.jpeg
 ---
 
 ### AYS Daily Digest 12/04/2021 — Libyan authorities release its most wanted human trafficker
 ### Harrassment of activist in Spain and Italy // Greece to close yet another camp // UK’s dangerous precedent for breach of refugee laws// and more…
 
 
-![](assets/538fa3d10cc5/0*oTdiYN_P4z0y-Bsd.jpeg)
+![](../assets/538fa3d10cc5/0*oTdiYN_P4z0y-Bsd.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----4ee97d4fe6fa--------------------------------)
@@ -68,11 +68,11 @@ Follow [this podcast](https://twitter.com/scandura/status/1381626520259674113?fb
 
 
 
-![](assets/538fa3d10cc5/0*Wae7YJnvyU122ZqV)
+![](../assets/538fa3d10cc5/0*Wae7YJnvyU122ZqV)
 
 
 
-![](assets/538fa3d10cc5/0*lSJ391y6lJnAo5lm.jpeg)
+![](../assets/538fa3d10cc5/0*lSJ391y6lJnAo5lm.jpeg)
 
 ### SEA
 
@@ -129,11 +129,11 @@ As [The Independent](https://www.independent.co.uk/news/uk/home-news/refugees-im
 ### SPAIN
 
 
-![](assets/538fa3d10cc5/0*9easpBCWD2BlFlzQ)
+![](../assets/538fa3d10cc5/0*9easpBCWD2BlFlzQ)
 
 
 
-![](assets/538fa3d10cc5/0*TI0EY2696jBl0KbB.jpeg)
+![](../assets/538fa3d10cc5/0*TI0EY2696jBl0KbB.jpeg)
 
 
 [Helena Maleno](https://twitter.com/HelenaMaleno/status/1381493097574567936?fbclid=IwAR2j_9GTptdRF5Ju3wEUG8_hKw_x3Wt14O2kANzQPBgTQPdUug_nxpiQHhE) , an activist for migrants’ rights in Spain and Morocco, has accused authorities in both countries of trying to silence her by barring her from returning to the northern African country where she has worked for two decades\.

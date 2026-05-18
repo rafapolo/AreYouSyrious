@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 13/10/21: UK — implicit in the abandon to torture, report says
+title: "AYS News Digest 13/10/21: UK — implicit in the abandon to torture, report says"
 author: Are You Syrious?
 date: 2021-10-14T15:47:53.147+0100
 last_modified_at: 2021-10-14T21:43:20.461+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,uk,europe,refugees,human-rights]
 description: Protest in Nea Kavala 10 days after their food and financial assistance is cut / Does the UK government’s response to the crisis in Syria…
 image:
-  path: assets/76f00f66c82e/0*3nrl8_PCFqOGxu4V
+  path: ../assets/76f00f66c82e/0*3nrl8_PCFqOGxu4V
 ---
 
 ### AYS News Digest 13/10/21: UK — implicit in the abandon to torture, report says
 #### Protest in Nea Kavala 10 days after their food and financial assistance is cut / Does the UK government’s response to the crisis in Syria rely on racist, Islamophobic and gendered stereotyping — a report / Recommended reads and reports
 
 
-![“We were disgusted by the first\-degree sentence given to [\#MimmoLucano](https://twitter.com/hashtag/MimmoLucano?src=hashtag_click) which embodies Europe’s racist migration policies\. We are calling on the Italian government stop its hostile migration policies and exonerate Lucano immediately\.” —A [bolish Frontex](https://twitter.com/abolishfrontex) Sign their Open Letter — [https://framaforms\.org/open\-letter\-in](https://t.co/nviqH3Ssij?amp=1)](assets/76f00f66c82e/0*3nrl8_PCFqOGxu4V)
+![“We were disgusted by the first\-degree sentence given to [\#MimmoLucano](https://twitter.com/hashtag/MimmoLucano?src=hashtag_click) which embodies Europe’s racist migration policies\. We are calling on the Italian government stop its hostile migration policies and exonerate Lucano immediately\.” —A [bolish Frontex](https://twitter.com/abolishfrontex) Sign their Open Letter — [https://framaforms\.org/open\-letter\-in](https://t.co/nviqH3Ssij?amp=1)](../assets/76f00f66c82e/0*3nrl8_PCFqOGxu4V)
 
 “We were disgusted by the first\-degree sentence given to [\#MimmoLucano](https://twitter.com/hashtag/MimmoLucano?src=hashtag_click) which embodies Europe’s racist migration policies\. We are calling on the Italian government stop its hostile migration policies and exonerate Lucano immediately\.” —A [bolish Frontex](https://twitter.com/abolishfrontex) Sign their Open Letter — [https://framaforms\.org/open\-letter\-in](https://t.co/nviqH3Ssij?amp=1)
 #### FEATURED
@@ -40,7 +40,7 @@ In the meantime, immigration lawyers examined Priti Patel’s anti\-refugee bill
 Various UN agencies have denounced violence against migrants in Libya after security forces shot dead at least half a dozen asylum seekers in recent days\.
 
 
-[![Rescued migrants speak of plight in Libyan centres](assets/76f00f66c82e/9b74_hqdefault.jpg "Rescued migrants speak of plight in Libyan centres")](https://www.youtube.com/watch?v=tE7yNhLVYn0)
+[![Rescued migrants speak of plight in Libyan centres](../assets/76f00f66c82e/9b74_hqdefault.jpg "Rescued migrants speak of plight in Libyan centres")](https://www.youtube.com/watch?v=tE7yNhLVYn0)
 
 
 The Libyan authorities began a series of arrests and raids this month which have caused considerable fear among asylum seekers and refugees, thousands of whom have been detained and many of whom have had their shelters demolished\.

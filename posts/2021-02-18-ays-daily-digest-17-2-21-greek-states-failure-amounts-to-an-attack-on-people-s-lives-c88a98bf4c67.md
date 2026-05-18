@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 17/2/21: “Greek state’s failure amounts to an attack on people’s lives”
+title: "AYS Daily Digest 17/2/21: “Greek state’s failure amounts to an attack on people’s lives”"
 author: Are You Syrious?
 date: 2021-02-18T13:53:42.211+0000
 last_modified_at: 2021-02-18T15:24:18.901+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,europe,africa,migration]
 description: Organizations denounce illusional equality in the relations between the African states and the EU on the Mediterranean / The state and the…
 image:
-  path: assets/c88a98bf4c67/1*Rkr54HWMGY8gP8KHWFUB3Q.jpeg
+  path: ../assets/c88a98bf4c67/1*Rkr54HWMGY8gP8KHWFUB3Q.jpeg
 ---
 
 ### AYS Daily Digest 17/2/21: “ **Greek state’s failure amounts to an attack on people’s lives”**
 #### Organizations denounce illusional equality in the relations between the African states and the EU on the Mediterranean / The state and the UN on the ground lacking ways in which they can still disappoint people in need / Border Violence Monitoring report for January / The Spanish Supreme Court rules again in favor of the right to free movement of asylum seekers / & more
 
 
-![Photo: [Khora](https://www.facebook.com/KhoraAthens/?__cft__[0]=AZVk-ZdBc78Pal_GsBuCqndXxnay20RuyDCC4G4lIDELBXK6vnbGLC6dFCvQR5ZAnBNsXhmzPaGe_IiYz1_N4hnTb0-RhRD0giHdfrWfzZ3VB1k5ykSqaDM1e_htg3dDEZca_2eUz9BdklTX5SMn76iU&__tn__=-UC*F)](assets/c88a98bf4c67/1*Rkr54HWMGY8gP8KHWFUB3Q.jpeg)
+![Photo: [Khora](https://www.facebook.com/KhoraAthens/?__cft__[0]=AZVk-ZdBc78Pal_GsBuCqndXxnay20RuyDCC4G4lIDELBXK6vnbGLC6dFCvQR5ZAnBNsXhmzPaGe_IiYz1_N4hnTb0-RhRD0giHdfrWfzZ3VB1k5ykSqaDM1e_htg3dDEZca_2eUz9BdklTX5SMn76iU&__tn__=-UC*F)](../assets/c88a98bf4c67/1*Rkr54HWMGY8gP8KHWFUB3Q.jpeg)
 
 Photo: [Khora](https://www.facebook.com/KhoraAthens/?__cft__[0]=AZVk-ZdBc78Pal_GsBuCqndXxnay20RuyDCC4G4lIDELBXK6vnbGLC6dFCvQR5ZAnBNsXhmzPaGe_IiYz1_N4hnTb0-RhRD0giHdfrWfzZ3VB1k5ykSqaDM1e_htg3dDEZca_2eUz9BdklTX5SMn76iU&__tn__=-UC*F)
 #### FEATURED — Greek authorities fail people and their own laws by not acting, IOM \(once again\) seems to put themselves as the priority of the UN mission on the ground
@@ -42,14 +42,14 @@ Many reactions came after these statements, and some of them include:
 
 
 
-![**2000 children freeze next to us**](assets/c88a98bf4c67/0*4tPMLJ9tg7c1zz1M.jpg)
+![**2000 children freeze next to us**](../assets/c88a98bf4c67/0*4tPMLJ9tg7c1zz1M.jpg)
 
 **2000 children freeze next to us**
 
 The citizens of Mytilene intervened at the City Hall of Mytilene and outside the Diocese, but also on the occasion of the arrival of the Minister of Immigration and Asylum\. “It is our duty as citizens, as people, not to exhaust our sensitivity by condemning crimes of the past, but to strive not to rewrite black pages in the history of mankind\.”
 
 
-![Photo: [**RSA**](https://twitter.com/rspaegean)](assets/c88a98bf4c67/0*rYJ59U-ba2cUPGmn)
+![Photo: [**RSA**](https://twitter.com/rspaegean)](../assets/c88a98bf4c67/0*rYJ59U-ba2cUPGmn)
 
 Photo: [**RSA**](https://twitter.com/rspaegean)
 
@@ -58,7 +58,7 @@ Legal Centre Lesvos stresses that COVID\-19 is no excuse for keeping people conf
 To remind of the conditions there:
 
 
-![By [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/?__cft__[0]=AZWCJWn6TZ7qWorQs6F7y8GhFsUNNT67jPQiHICy0VGYf6FkYDHJi2dY03p1Y3YDjCclrtvDuN3Wce2XNdWhm8ZAuPpSEreyJaZCdbrzVCQy8UsurkX27A4cjNh-UO-b_WtYxoCpErdW9uoFaT7eFQC9&__tn__=-UC%2CP-R)](assets/c88a98bf4c67/0*9mtIiqqv_zyPGqqy)
+![By [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/?__cft__[0]=AZWCJWn6TZ7qWorQs6F7y8GhFsUNNT67jPQiHICy0VGYf6FkYDHJi2dY03p1Y3YDjCclrtvDuN3Wce2XNdWhm8ZAuPpSEreyJaZCdbrzVCQy8UsurkX27A4cjNh-UO-b_WtYxoCpErdW9uoFaT7eFQC9&__tn__=-UC%2CP-R)](../assets/c88a98bf4c67/0*9mtIiqqv_zyPGqqy)
 
 By [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/?__cft__[0]=AZWCJWn6TZ7qWorQs6F7y8GhFsUNNT67jPQiHICy0VGYf6FkYDHJi2dY03p1Y3YDjCclrtvDuN3Wce2XNdWhm8ZAuPpSEreyJaZCdbrzVCQy8UsurkX27A4cjNh-UO-b_WtYxoCpErdW9uoFaT7eFQC9&__tn__=-UC%2CP-R)
 
@@ -138,7 +138,7 @@ Aiming to provide unaccompanied minors with a holistic set of child protection s
 [Solidarité migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/?__cft__[0]=AZVUF-RlbP5iijMRCBI9Ju9oJlcDVNLN85ZFXCbP7LS43ejUfyFpyIOjJTD0r6Lv9YSuBfrwkn-s7YTRtIFXX2x5jsFgpUY-pmgwzCLpySU4fSUircDo_wIuwKLnlXxSzBauc1a_na1WlaMHcaSvtFEi8C3oyNJg0fz_Pvr1d9sR7lgKUYvlx7-5m-IliqVw5yISBGcT1kBXrKQORilF22Yk&__tn__=-UC%2CP-y-R) is looking for more people to join their mobile volunteer teams delivering aid and visiting people in more remote areas that require vehicles for such terrains\. Visit their page for more info and spread the news if you know someone who is home, would like to help, and owns one of these\.
 
 
-![](assets/c88a98bf4c67/0*TOwj0orXmT9QOS5Z)
+![](../assets/c88a98bf4c67/0*TOwj0orXmT9QOS5Z)
 
 #### SPAIN
 ### The Supreme Court rules again in favor of the right to free movement of asylum seekers

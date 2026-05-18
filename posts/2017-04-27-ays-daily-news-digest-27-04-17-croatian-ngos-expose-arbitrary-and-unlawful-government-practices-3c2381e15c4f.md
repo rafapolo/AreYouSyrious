@@ -1,5 +1,5 @@
 ---
-title: AYS Daily News Digest 26/04/17: Are women and children a national security threat?
+title: "AYS Daily News Digest 26/04/17: Are women and children a national security threat?"
 author: Are You Syrious?
 date: 2017-04-27T04:57:38.519+0100
 last_modified_at: 2017-04-27T15:56:29.088+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe]
 description: wall between Turkey and Syria halfway completed / protest in support of Moria hunger strike / Šid camp being closed in Serbia / Italian…
 image:
-  path: assets/3c2381e15c4f/1*qa-9WHmKUM9VZSbJGuFWOA.jpeg
+  path: ../assets/3c2381e15c4f/1*qa-9WHmKUM9VZSbJGuFWOA.jpeg
 ---
 
 ### AYS Daily News Digest 26/04/17: Are women and children a national security threat? In Croatia, maybe\!
@@ -15,7 +15,7 @@ image:
 _wall between Turkey and Syria halfway completed / protest in support of Moria hunger strike / Šid camp being closed in Serbia / Italian officials dismiss accusations of NGOs collaborating and creating a “pull factor” for refugees / Austria seeks to tighten border controls / new map from France_
 
 
-![So many questions\. Photo credit: [Lesvos Solidarity](https://twitter.com/lesvosolidarity/status/857231088627965956)](assets/3c2381e15c4f/1*qa-9WHmKUM9VZSbJGuFWOA.jpeg)
+![So many questions\. Photo credit: [Lesvos Solidarity](https://twitter.com/lesvosolidarity/status/857231088627965956)](../assets/3c2381e15c4f/1*qa-9WHmKUM9VZSbJGuFWOA.jpeg)
 
 So many questions\. Photo credit: [Lesvos Solidarity](https://twitter.com/lesvosolidarity/status/857231088627965956)
 ### FEATURE: Are You Syrious and Center for Peace Studies publish detailed report calling out Croatian Ministry of Interior and Security and Intelligence Agency for “arbitrary and unlawful” practices in handling international protection applications\.
@@ -42,7 +42,7 @@ This report was the fruits of tremendous labour from volunteers and NGO staff me
 AYS and CPS will soon release more specific details about the report\!
 
 
-![Volunteers in Serbia\. Photo Credit: Aid Delivery Mission/Fresh Response](assets/3c2381e15c4f/1*fFiKfa8gdvEV1s6RXROufw.jpeg)
+![Volunteers in Serbia\. Photo Credit: Aid Delivery Mission/Fresh Response](../assets/3c2381e15c4f/1*fFiKfa8gdvEV1s6RXROufw.jpeg)
 
 Volunteers in Serbia\. Photo Credit: Aid Delivery Mission/Fresh Response
 ### TURKEY
@@ -131,7 +131,7 @@ In a statement to Serbian media outlet Blic, Predrag Vuković, head of theŠid m
 The inhabitants of Šid will be redistributed to other centers throughout Serbia with the declared advantage that their movement will be “better controlled\.”
 
 
-![Aid Delivery Mission in Serbia, outside the camps\. Photo Credit: Aid Delivery Mission/Fresh Response](assets/3c2381e15c4f/1*45_ARR27ys_mphcvV-eZ3A.jpeg)
+![Aid Delivery Mission in Serbia, outside the camps\. Photo Credit: Aid Delivery Mission/Fresh Response](../assets/3c2381e15c4f/1*45_ARR27ys_mphcvV-eZ3A.jpeg)
 
 Aid Delivery Mission in Serbia, outside the camps\. Photo Credit: Aid Delivery Mission/Fresh Response
 
@@ -163,7 +163,7 @@ The hotspot model implemented by the EU is facing some criticism as recent audit
 Related to this topic, sixteen individuals who were granted subsidiary protection Italy will be taken out of a reception center in Milan due to overcrowding\. And more may soon join them\. It goes without saying that current support structures for individuals at any stage of seeking protection are inadequate\. For more information, click [here](https://www.facebook.com/permalink.php?story_fbid=1938267133071298&id=1653025021595512) \.
 
 
-![“All we want are answers\!” Photo Credit: [Voices from Lesvos](https://twitter.com/VoicelessLesvos/status/857249519179845636)](assets/3c2381e15c4f/1*m20r-UJhJ2FzIIaoHfiTrQ.jpeg)
+![“All we want are answers\!” Photo Credit: [Voices from Lesvos](https://twitter.com/VoicelessLesvos/status/857249519179845636)](../assets/3c2381e15c4f/1*m20r-UJhJ2FzIIaoHfiTrQ.jpeg)
 
 “All we want are answers\!” Photo Credit: [Voices from Lesvos](https://twitter.com/VoicelessLesvos/status/857249519179845636)
 ### AUSTRIA
@@ -186,7 +186,7 @@ Tuesday, 12:00 \-17:00 @ Porte De La Chapelle
 Friday, 14:00 \-18:00 @ Porte De La Chapelle
 
 
-![Photo credit, Solidarithé](assets/3c2381e15c4f/1*2-bidBHxmnfJh4tjfm4dRw.jpeg)
+![Photo credit, Solidarithé](../assets/3c2381e15c4f/1*2-bidBHxmnfJh4tjfm4dRw.jpeg)
 
 Photo credit, Solidarithé
 

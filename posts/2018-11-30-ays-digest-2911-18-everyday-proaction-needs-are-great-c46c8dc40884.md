@@ -1,13 +1,13 @@
 ---
-title: AYS DIGEST 2911.18: Everyday ProAction! Needs are great…
+title: "AYS DIGEST 2911.18: Everyday ProAction! Needs are great…"
 author: Are You Syrious?
 date: 2018-11-30T10:42:29.335+0000
 last_modified_at: 2018-11-30T20:43:02.311+0000
 categories: Are You Syrious?
 tags: [refugees,digest,italy,france]
-description: FEATURE: But what can we do? // Little change for any good in Greece // Fishermen remain stalwart in refusing to return people to Libya //…
+description: "FEATURE: But what can we do? // Little change for any good in Greece // Fishermen remain stalwart in refusing to return people to Libya //…"
 image:
-  path: assets/c46c8dc40884/1*afsklI1lIoAmNmjuB_-U9g.jpeg
+  path: ../assets/c46c8dc40884/1*afsklI1lIoAmNmjuB_-U9g.jpeg
 ---
 
 ### AYS Daily Digest 29/11/18: Every day proaction needs are great…
@@ -15,7 +15,7 @@ image:
 _FEATURE: …but what can we do? // Little change for any good in Greece // Fishermen remain stalwart in refusing to return people to Libya // Austria using linguistic discrimination to justify cutting benefits to immigrants // Volunteers needed in Italy // Funding needed and more police action in France // Disturbing and shady Dublin deportation from Hamburg // And more news…_
 
 
-![](assets/c46c8dc40884/1*afsklI1lIoAmNmjuB_-U9g.jpeg)
+![](../assets/c46c8dc40884/1*afsklI1lIoAmNmjuB_-U9g.jpeg)
 
 ### FEATURE
 #### …but what can we do?
@@ -127,7 +127,7 @@ Info Park notes there were seven new arrivals that they observed in Belgrade, wi
 Police in the Bihac area continue with the unlawful practice of pushbacks, stopping people on the streets of Bihac and sending them by force to the Kljuc area, towards Sarajevo\. A group of people were stuck on the street for eight days and local people helped them to get to Sarajevo, but new groups of people are being stopped and left by the roadside, often kicked off buses\. Help is coming mostly from locals and some volunteers\. People sleep by the roadside, on the ground, and it is very cold in Bosnia \( \-10\) \.
 
 
-![Photo: Red Cross Kljuc](assets/c46c8dc40884/1*xNU1h6Pa0Cx53ZhR7qgDXw.jpeg)
+![Photo: Red Cross Kljuc](../assets/c46c8dc40884/1*xNU1h6Pa0Cx53ZhR7qgDXw.jpeg)
 
 Photo: Red Cross Kljuc
 ### SEA
@@ -135,7 +135,7 @@ Photo: Red Cross Kljuc
 Today Proactiva Open Arms sailed to assist the _Nuestra Madre Loreto_ , a fishing vessel that has taken on 12 people and refused to return them to Libya, thereby being blocked from landing in Europe\. There are many cases of exhaustion and POA declared they will sail alongside the Nuestra Madre Loreto in the event they require emergency medical evacuation\.
 
 
-![Photo Credit: Proactiva Open Arms](assets/c46c8dc40884/1*6XcGZM0lYrZcHt1xK07Adg.jpeg)
+![Photo Credit: Proactiva Open Arms](../assets/c46c8dc40884/1*6XcGZM0lYrZcHt1xK07Adg.jpeg)
 
 Photo Credit: Proactiva Open Arms
 

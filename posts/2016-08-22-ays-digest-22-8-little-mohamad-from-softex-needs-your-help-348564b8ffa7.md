@@ -1,19 +1,19 @@
 ---
-title: AYS digest 22/8: Little Mohamad from Softex needs your help!
+title: "AYS digest 22/8: Little Mohamad from Softex needs your help!"
 author: Are You Syrious?
 date: 2016-08-22T22:35:23.134+0100
 last_modified_at: 2016-08-23T05:41:28.025+0100
 categories: 
 tags: [refugees,europe,migration,greece,mediterranean]
-description: Also in today’s AYS news digest: The official map of Greek camps. Needs for volunteers and donations. Opening of a new squat for single men…
+description: "Also in today’s AYS news digest: The official map of Greek camps. Needs for volunteers and donations. Opening of a new squat for single men…"
 image:
-  path: assets/348564b8ffa7/1*dwssoKXF4IYACX5wMDfmBw.jpeg
+  path: ../assets/348564b8ffa7/1*dwssoKXF4IYACX5wMDfmBw.jpeg
 ---
 
 ### AYS digest 22/8: Little Mohamad from Softex needs your help\!
 
 
-![Photo of a refugee child by our new colleague Abdulazez Dukhan, an 18\-year old Syrian refugee and soon to be famous photographer, and the autor of the blog [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/?fref=nf)](assets/348564b8ffa7/1*dwssoKXF4IYACX5wMDfmBw.jpeg)
+![Photo of a refugee child by our new colleague Abdulazez Dukhan, an 18\-year old Syrian refugee and soon to be famous photographer, and the autor of the blog [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/?fref=nf)](../assets/348564b8ffa7/1*dwssoKXF4IYACX5wMDfmBw.jpeg)
 
 Photo of a refugee child by our new colleague Abdulazez Dukhan, an 18\-year old Syrian refugee and soon to be famous photographer, and the autor of the blog [**Through refugee eyes**](https://www.facebook.com/throughrefugeeeyes/?fref=nf)
 
@@ -30,7 +30,7 @@ The Council of Europe has published [a lengthy report](https://search.coe.int/cm
 
 
 
-![Child labour remains a huge issue in Turkey, Ambassador warns\. Photo: Al Jazeera](assets/348564b8ffa7/1*Lu_byVpzcJH7UKMXbg4tvA.jpeg)
+![Child labour remains a huge issue in Turkey, Ambassador warns\. Photo: Al Jazeera](../assets/348564b8ffa7/1*Lu_byVpzcJH7UKMXbg4tvA.jpeg)
 
 Child labour remains a huge issue in Turkey, Ambassador warns\. Photo: Al Jazeera
 
@@ -63,7 +63,7 @@ Volunteers have announced opening of a new squat for single men in Athens\. The 
 ### Volunteers needed in Nea Kavala community centre
 
 
-![Volunteers are providing a constant stream of fun activities in Nea Kavala\. Photo: Pau de Nut](assets/348564b8ffa7/1*PuSTr49zSZW9qFUCNOSZPw.jpeg)
+![Volunteers are providing a constant stream of fun activities in Nea Kavala\. Photo: Pau de Nut](../assets/348564b8ffa7/1*PuSTr49zSZW9qFUCNOSZPw.jpeg)
 
 Volunteers are providing a constant stream of fun activities in Nea Kavala\. Photo: Pau de Nut
 
@@ -75,14 +75,14 @@ Serbia has been hit with heavy rain in recent days, making the situation worse f
 In the coming days, AYS will publish a comprehensive guide for volunteers and prospective donors in which we’ll try to explain all the recent developments in the country\.
 
 
-![Info Park remains one of the few constant sources of support for refugees in Belgrade\. Photo:](assets/348564b8ffa7/1*5B-NdYl6Eyc6t7ZUBQiiMA.jpeg)
+![Info Park remains one of the few constant sources of support for refugees in Belgrade\. Photo:](../assets/348564b8ffa7/1*5B-NdYl6Eyc6t7ZUBQiiMA.jpeg)
 
 Info Park remains one of the few constant sources of support for refugees in Belgrade\. Photo:
 
 Today, Miksalište has published a [call for donations](https://www.facebook.com/RefugeeAidMiksaliste/photos/a.1656591594607458.1073741828.1652129721720312/1750418358558114/) of warm clothes for men, women and children as well as shoes due to the recent rainfall and colder temperatures\. Donations can be delivered to Gavrila Principa 15 Belgrade between 09 and 16 h\. Meanwhile, Info park is doing their best to provide constant support for the refugees in Belgrade’s parks\.
 
 
-![Trying to keep dry and warm after heavy rains at the border\. Photo: Refugee behind the closed borders](assets/348564b8ffa7/1*PAiPp46gAk81pegKKENU5g.jpeg)
+![Trying to keep dry and warm after heavy rains at the border\. Photo: Refugee behind the closed borders](../assets/348564b8ffa7/1*PAiPp46gAk81pegKKENU5g.jpeg)
 
 Trying to keep dry and warm after heavy rains at the border\. Photo: Refugee behind the closed borders
 
@@ -90,7 +90,7 @@ Winter has come early to the Serbian border with Hungary, where hundreds are wai
 ### Many children among the refugees arriving to Italy
 
 
-![A terrified child saved from the Mediterranean\. Photo: Proactiva Open Arms / Giorgos Moutafis](assets/348564b8ffa7/1*NtD6bxP0auYiS9KobGnaow.jpeg)
+![A terrified child saved from the Mediterranean\. Photo: Proactiva Open Arms / Giorgos Moutafis](../assets/348564b8ffa7/1*NtD6bxP0auYiS9KobGnaow.jpeg)
 
 A terrified child saved from the Mediterranean\. Photo: Proactiva Open Arms / Giorgos Moutafis
 
@@ -128,7 +128,7 @@ In response to criticism over the scarecrow tactic, Gyorgy Schopflin, a Hungaria
 Andrew Stroehlein from Human Rights Watch replied: “Your words are disgusting\. I would expect that from anonymous neo\-Nazi trolls but you’re an MEP\. Act like one\.” The dispute is still active on Twitter, so feel free to comment if you have any extra energy to waste on high\-profile trolls\.
 
 
-![New post on a FB group that supports border patrol officers\. Screenshot: FB/AYS](assets/348564b8ffa7/1*TXdl-hWgw--QfcEOSb0t1w.jpeg)
+![New post on a FB group that supports border patrol officers\. Screenshot: FB/AYS](../assets/348564b8ffa7/1*TXdl-hWgw--QfcEOSb0t1w.jpeg)
 
 New post on a FB group that supports border patrol officers\. Screenshot: FB/AYS
 
@@ -150,7 +150,7 @@ If you’d like to support their work, you can do so by clicking [here](https://
 On 15th August the École d’Artes, a French language and art school in the Calais refugee camp, tragically burned down as a result of a fallen candle\. Volunteers now need to raise €3000 to rebuild this vibrant community space\.
 
 
-![The Ecole D’Artes taught French lessons and ran art classes for over 7,000 refugees in Calais\. Photo: Care4Calais](assets/348564b8ffa7/1*S8kIyleL5eS7zpKjTwLKgQ.jpeg)
+![The Ecole D’Artes taught French lessons and ran art classes for over 7,000 refugees in Calais\. Photo: Care4Calais](../assets/348564b8ffa7/1*S8kIyleL5eS7zpKjTwLKgQ.jpeg)
 
 The Ecole D’Artes taught French lessons and ran art classes for over 7,000 refugees in Calais\. Photo: Care4Calais
 
@@ -162,7 +162,7 @@ This building was a safe space, complete with a vegetable garden, piano and libr
 Following the admittance of over one million refugees, Germans are strongly divided over Chancellor Merkel’s refugee policy, with Greens and AfD supporters at opposite opinion poles, [a study](http://www.dw.com/en/survey-germany-divided-over-merkels-migrant-policy-changes/a-19489757) has revealed\.
 
 
-![](assets/348564b8ffa7/1*7ewMFAdRVSF_ZU4stzKXTg.png)
+![](../assets/348564b8ffa7/1*7ewMFAdRVSF_ZU4stzKXTg.png)
 
 
 The good news is that a majority of people still have an overall positive attitude towards the refugees\. Although 51% of respondents predicted an over\-stretching of social and education systems, most also predict a stronger economy and a more diverse country\. According to the poll, however, 58% Germans also expect more terror attacks\. Green Party supporters were the most optimistic about the potential contributions of refugees, while supporters of the far\-right AfD were overwhelmingly negative\.

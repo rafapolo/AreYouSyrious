@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 19/07/17: The situation of unaccompanied child minors in Greece is untenable
+title: "AYS Daily Digest 19/07/17: The situation of unaccompanied child minors in Greece is untenable"
 author: Are You Syrious?
 date: 2017-07-20T04:40:30.169+0100
 last_modified_at: 2017-08-29T17:15:31.624+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,france,greece,lebanon,europe]
 description: Activists continue hunger strike, call for investigation of Arsal refugee camp military operation / 35 arrested in Moria after police…
 image:
-  path: assets/8d7ce4d3b06b/1*8IALUGtS0CwWLOhP2pN_dA.jpeg
+  path: ../assets/8d7ce4d3b06b/1*8IALUGtS0CwWLOhP2pN_dA.jpeg
 ---
 
 ### AYS Daily Digest 19/07/17: The situation of unaccompanied child minors in Greece is untenable
@@ -15,7 +15,7 @@ image:
 _Activists continue hunger strike, call for investigation of Arsal refugee camp military operation / 35 arrested in Moria after police escalate violence / Refugees stage sit\-in in front of German embassy in Athens / Nearly 500 being held in camps on Serbian\-Hungarian border / CRS confiscate refugees’ blankets and tents in Calais and Dunkirk / Newest numbers show a massive spike in the number of arrivals to Italy / 29 refugees relocated to Spain from Italy / And more news…_
 
 
-![A photo of a refugee boy from today’s protest in front of the German embassy in Athens\. Photo Credit; Refugee Info Bus](assets/8d7ce4d3b06b/1*8IALUGtS0CwWLOhP2pN_dA.jpeg)
+![A photo of a refugee boy from today’s protest in front of the German embassy in Athens\. Photo Credit; Refugee Info Bus](../assets/8d7ce4d3b06b/1*8IALUGtS0CwWLOhP2pN_dA.jpeg)
 
 A photo of a refugee boy from today’s protest in front of the German embassy in Athens\. Photo Credit; Refugee Info Bus
 #### Feature
@@ -74,7 +74,7 @@ If you would like to get involved, please message the [5th School Facebook page]
 ### Samos volunteers in need of donations\!
 
 
-![](assets/8d7ce4d3b06b/1*_PDdAeXSIJn4I8wvDWUF5A.jpeg)
+![](../assets/8d7ce4d3b06b/1*_PDdAeXSIJn4I8wvDWUF5A.jpeg)
 
 
 There were 102 arrivals on Samos in the last two days\. With a steady stream of refugees coming into the island, the aid workers have an ever larger contingent of people to care for in terms of schooling, clothing, and food\. If you are in a position donate, you may do so by going to their website at [www\.samosvolunteers\.org](http://www.samosvolunteers.org) \.
@@ -86,7 +86,7 @@ Serbian customs agents are known to give organizations importing goods for the s
 ### Nearly 500 refugees are currently being kept locked up on Hungarian\-Serbian border
 
 
-![](assets/8d7ce4d3b06b/1*GypSFacW40gQnu93KDQJBg.jpeg)
+![](../assets/8d7ce4d3b06b/1*GypSFacW40gQnu93KDQJBg.jpeg)
 
 
 The Hungarian Helsinki Committee reports that as of July 16, there are 447 asylum seekers being detained in 2 transit zones on the Hungarian\-Serbian border\. There are 262 people at Röszke and 185 at Tompa\. Among this number are 26 unaccompanied child refugees\.
@@ -94,7 +94,7 @@ The Hungarian Helsinki Committee reports that as of July 16, there are 447 asylu
 ### CRS confiscates what little refugees in Calais, Dunkirk have
 
 
-![Refugees’ tents and blankets were rounded up and taken away\. Photo Credit: Auberge des Migrants](assets/8d7ce4d3b06b/1*iduTK9pq3ucD_eKZBV5sNA.jpeg)
+![Refugees’ tents and blankets were rounded up and taken away\. Photo Credit: Auberge des Migrants](../assets/8d7ce4d3b06b/1*iduTK9pq3ucD_eKZBV5sNA.jpeg)
 
 Refugees’ tents and blankets were rounded up and taken away\. Photo Credit: Auberge des Migrants
 

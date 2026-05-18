@@ -1,13 +1,13 @@
 ---
-title: AYS Weekend Digest 18–19/12/21: European Border AI forces people to take more deadly routes
+title: "AYS Weekend Digest 18–19/12/21: European Border AI forces people to take more deadly routes"
 author: Are You Syrious?
 date: 2021-12-20T18:55:45.547+0000
 last_modified_at: 2021-12-20T21:52:18.986+0000
 categories: Are You Syrious?
 tags: [digest,ai,europe,belarus,refugees]
-description: 200 people rescued off Malta // 3 lives lost and 51 people missing in Atlantic // Persecution in Libya: Report // Protests in Athens…
+description: "200 people rescued off Malta // 3 lives lost and 51 people missing in Atlantic // Persecution in Libya: Report // Protests in Athens…"
 image:
-  path: assets/c86ea8619674/0*kRG1e4LG7395EvpC.jpeg
+  path: ../assets/c86ea8619674/0*kRG1e4LG7395EvpC.jpeg
 ---
 
 ### AYS Weekend Digest 18–19/12/21: European Border AI forces people to take more deadly routes
@@ -15,7 +15,7 @@ image:
 200 people rescued off Malta // 3 lives lost and 51 people missing in Atlantic // Persecution in Libya: Report // Protests in Athens against Pushbacks // New BVMN Report // Human Rights Violations in Barcelona // UK offshoring immigration and new Church Resettlement scheme // Updates from Abolish Frontex campaign and Belarus…
 
 
-![Photo: IndyMedia \(Blokkade Koningin Máxima Kazerne Koninklijke Marechaussee in Badhoevedorp\)](assets/c86ea8619674/0*kRG1e4LG7395EvpC.jpeg)
+![Photo: IndyMedia \(Blokkade Koningin Máxima Kazerne Koninklijke Marechaussee in Badhoevedorp\)](../assets/c86ea8619674/0*kRG1e4LG7395EvpC.jpeg)
 
 Photo: IndyMedia \(Blokkade Koningin Máxima Kazerne Koninklijke Marechaussee in Badhoevedorp\)
 
@@ -107,7 +107,7 @@ I hope he can go to port soon &amp; get adequate treatment.
 ### Report: Complex persecution \- Complemented system of oppression and exploitation of migrants and asylum seekers in Libya
 
 
-![](assets/c86ea8619674/0*JZB3J2hwEQ1chv9s)
+![](../assets/c86ea8619674/0*JZB3J2hwEQ1chv9s)
 
 
 The report reviews the violations against migrants and asylum seekers in Libya during the pushbacks and in prisons and detention centers\. It is based on months of field documentation and interviews with migrants and their families\. The researchers monitored the various Libyan agencies’ dealing with migrants, particularly the Libyan Coastguard, prison administrations and security forces\.
@@ -152,7 +152,7 @@ Full report here: [alarmphone.org/en/2021/12/16/…](https://alarmphone.org/en/2
 This Saturday in Athens, a gathering to protest against pushbacks and closed camps took place at Monastiraki square:
 
 
-![Photo: [Solidarity with migrants](https://twitter.com/MigrantsSoli)](assets/c86ea8619674/0*ZO44lEzc20L4PavJ)
+![Photo: [Solidarity with migrants](https://twitter.com/MigrantsSoli)](../assets/c86ea8619674/0*ZO44lEzc20L4PavJ)
 
 Photo: [Solidarity with migrants](https://twitter.com/MigrantsSoli)
 #### BALKANS
@@ -170,7 +170,7 @@ Among others, the report covers these topics:
 This report also explores several key developments in Greece, including increasing restrictions to accessing asylum and other support services through the termination of the Skype pre\-registration system, restrictions on mobility in the new camp on Samos, and ongoing issues with the cash assistance program\. It covers recent police raids in informal settlements as well as official accommodation centers in 8 different Serbian municipalities, where the authorities claimed to be searching for “irregular migrants and members of organized criminal groups involved in their smuggling”\. A final section covers updates from Italy, including a decrease in arrivals in Trieste\.
 
 
-![](assets/c86ea8619674/0*_UXy0tLJCFbVRZ4L.jpg)
+![](../assets/c86ea8619674/0*_UXy0tLJCFbVRZ4L.jpg)
 
 
 [Download](https://www.borderviolence.eu/wp-content/uploads/BVMN-Monthly-Report-November-2021.pdf-1.pdf) the report or [visit the website](https://www.borderviolence.eu/balkan-regional-report-november-2021/) to learn more\.

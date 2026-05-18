@@ -1,5 +1,5 @@
 ---
-title: AYS DIGEST 19/03/2017: 946 refugees rescued and brought on board the Aquarius
+title: "AYS DIGEST 19/03/2017: 946 refugees rescued and brought on board the Aquarius"
 author: Are You Syrious?
 date: 2017-03-20T07:21:18.332+0000
 last_modified_at: 2017-03-20T09:30:54.134+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,sea-rescue,refugees-in-greece,bosnia]
 description: Equipment problems for refugees hosted in apartments // 4,000 people present during ‘Side by Side’ protest in Italy // 946 people rescued…
 image:
-  path: assets/1ee1bbf6dd7d/1*60fabS-mLuR10F023o5YpA.png
+  path: ../assets/1ee1bbf6dd7d/1*60fabS-mLuR10F023o5YpA.png
 ---
 
 ### AYS DIGEST 19/03/2017: 946 refugees rescued and brought on board the Aquarius
@@ -15,14 +15,14 @@ image:
 _Equipment problems for refugees hosted in apartments // 4,000 people present during ‘Side by Side’ protest in Italy // 946 people rescued in the Mediterrenean and brought aboard the Aquarius today\._
 
 
-![](assets/1ee1bbf6dd7d/1*60fabS-mLuR10F023o5YpA.png)
+![](../assets/1ee1bbf6dd7d/1*60fabS-mLuR10F023o5YpA.png)
 
 ### Feature
 
 946 people, including almost 200 unaccompanied minors, were brought from nine separate rubber and wooden boats to the “Aquarius”, a boat operated in partnership by MSF and SOS Mediterranée\. More than 250 people were brought aboard the “Sea Watch 2”\.
 
 
-![“Imagine how difficult it is to spot a boat this small in the enormity of the Mediterranean at night” — Photo by SOS Méditerranée](assets/1ee1bbf6dd7d/0*-34XdFWeyayUZPeo.)
+![“Imagine how difficult it is to spot a boat this small in the enormity of the Mediterranean at night” — Photo by SOS Méditerranée](../assets/1ee1bbf6dd7d/0*-34XdFWeyayUZPeo.)
 
 “Imagine how difficult it is to spot a boat this small in the enormity of the Mediterranean at night” — Photo by SOS Méditerranée
 
@@ -33,13 +33,13 @@ The [Middle East Monitor](https://www.middleeastmonitor.com/20170318-italy-panic
 4,000 people participated in today’s “Side by Side” protest in Venice\. The protest answered the call of City Plaza to create a web of European solidarity marches on the anniversary of the EU\-Turkey deal but also argued for a better reception system, especially in Veneto\.
 
 
-![](assets/1ee1bbf6dd7d/0*CyaUzMxY3iGfC1iA.)
+![](../assets/1ee1bbf6dd7d/0*CyaUzMxY3iGfC1iA.)
 
 
 The protest allowed refugees themselves to make their voices heard\. One Malian refugee talked about his difficult living conditions in the centre “Caserma Serena” ‏ near Treviso, due to the lack of proper care for sick people, the lack of opportunities to learn the language and abusive behavior by the centre’s staff\. Another refugee explained how “the whole reception system is the opposite of what we call self\-determination” and talked about his project, Talking Hands, which promotes “integration through craftsmanship” and were “all the decisions are taken together, without any form of discrimination or prejudice: nationality, religion, gender”\.
 
 
-![Photo by [Talking Hands](https://www.facebook.com/OpificioTalkingHands/)](assets/1ee1bbf6dd7d/0*IGWXO1h74dhwH7e2.)
+![Photo by [Talking Hands](https://www.facebook.com/OpificioTalkingHands/)](../assets/1ee1bbf6dd7d/0*IGWXO1h74dhwH7e2.)
 
 Photo by [Talking Hands](https://www.facebook.com/OpificioTalkingHands/)
 ### Refugee electrocuted on the roof of a train
@@ -52,7 +52,7 @@ Meanwhile, Swiss Authorities say that the number of refugees sent back to neighb
 25 new refugees arrived on Chios last night, including 12 children\. One boat with 56 people arrived on the north coast of Lesvos this morning\.
 
 
-![Photo by Lighthouse Relief](assets/1ee1bbf6dd7d/1*sO0gMWUugRNyYAs5lypwCQ.png)
+![Photo by Lighthouse Relief](../assets/1ee1bbf6dd7d/1*sO0gMWUugRNyYAs5lypwCQ.png)
 
 Photo by Lighthouse Relief
 ### Lack of equipment for refugees hosted in apartments
@@ -74,12 +74,12 @@ During January and February, around 100 people were registered in Bosnia\. Last 
 The Hungarian government has started building a container camp in Röszke, in order to detain all asylum seekers\.
 
 
-![Photo by Amnesty International Hungary](assets/1ee1bbf6dd7d/0*dmVh6dHLjIZQQ6YZ.jpg)
+![Photo by Amnesty International Hungary](../assets/1ee1bbf6dd7d/0*dmVh6dHLjIZQQ6YZ.jpg)
 
 Photo by Amnesty International Hungary
 
 
-![](assets/1ee1bbf6dd7d/1*5S1tf_qvCOFJcUFuPQ0rnA.png)
+![](../assets/1ee1bbf6dd7d/1*5S1tf_qvCOFJcUFuPQ0rnA.png)
 
 
 The Hungarian government insists that it will stick to its migration policy\. Chief Security Advisor to the Prime Minister, György Bakondi, also announced that Hungary will be appealing the preliminary ruling by the European Court of Human Rights, according to which two asylum\-seekers from Bangladesh were unlawfully detained for 23 days in a transit zone on the southern border in 2015 and then expelled\.

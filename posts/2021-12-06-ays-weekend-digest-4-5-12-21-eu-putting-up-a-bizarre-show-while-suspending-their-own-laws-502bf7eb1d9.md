@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 4–5/12/21: EU putting up a bizarre show while suspending their own laws
+title: "AYS Weekend Digest 4–5/12/21: EU putting up a bizarre show while suspending their own laws"
 author: Are You Syrious?
 date: 2021-12-06T14:12:43.410+0000
 last_modified_at: 2021-12-06T15:38:37.339+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,belarus,europe,migration]
 description: What is going on — in the border with Belarus, in the heads of the decision makers of the EU Commission, on the Greek island, in front of…
 image:
-  path: assets/502bf7eb1d9/0*L7wTf6wstFg3-Byq
+  path: ../assets/502bf7eb1d9/0*L7wTf6wstFg3-Byq
 ---
 
 ### AYS Weekend Digest 4–5/12/21: EU putting up a bizarre show while suspending their own laws
 #### What is going on — at the border with Belarus, in the heads of the decision makers of the EU Commission, on the Greek islands, in front of the UNHCR offices in Libya and all around us? News, updates from the field, calls for support \(Grupa Granica\) and some really good long reads on the most important topics at the moment —read, share and act\!
 
 
-![Blankets and sleeping bags lie abandoned in the forest on the border between Poland and Belarus, November 11, 2021\. © 2021 Michael Kappeler/picture\-alliance/dpa/AP Images — via [HRW](https://www.hrw.org/news/2021/12/03/asylum-rights-thrown-frozen-ditch-poland-belarus-border?fbclid=IwAR22QdgwY5vmHhtp1BI9pIgfL6HFtn-fptSmnz-AygOlAVgu7zmPNX19kxI)](assets/502bf7eb1d9/0*L7wTf6wstFg3-Byq)
+![Blankets and sleeping bags lie abandoned in the forest on the border between Poland and Belarus, November 11, 2021\. © 2021 Michael Kappeler/picture\-alliance/dpa/AP Images — via [HRW](https://www.hrw.org/news/2021/12/03/asylum-rights-thrown-frozen-ditch-poland-belarus-border?fbclid=IwAR22QdgwY5vmHhtp1BI9pIgfL6HFtn-fptSmnz-AygOlAVgu7zmPNX19kxI)](../assets/502bf7eb1d9/0*L7wTf6wstFg3-Byq)
 
 Blankets and sleeping bags lie abandoned in the forest on the border between Poland and Belarus, November 11, 2021\. © 2021 Michael Kappeler/picture\-alliance/dpa/AP Images — via [HRW](https://www.hrw.org/news/2021/12/03/asylum-rights-thrown-frozen-ditch-poland-belarus-border?fbclid=IwAR22QdgwY5vmHhtp1BI9pIgfL6HFtn-fptSmnz-AygOlAVgu7zmPNX19kxI)
 
@@ -182,7 +182,7 @@ Greece’s National Meteorological Service EMY issued a weather warning on Sunda
 ### Strong solidarity of Briançon
 
 
-![Photo: Juliette Pascal](assets/502bf7eb1d9/0*mB-i6T6e8O0MZyBW.jpg)
+![Photo: Juliette Pascal](../assets/502bf7eb1d9/0*mB-i6T6e8O0MZyBW.jpg)
 
 Photo: Juliette Pascal
 
@@ -246,7 +246,7 @@ Also, a political move was put in motion to help change the existing hardship mi
 
 
 
-![](assets/502bf7eb1d9/0*f5EzLLtWLuR1tU7k)
+![](../assets/502bf7eb1d9/0*f5EzLLtWLuR1tU7k)
 
 
 To achieve a safer system for all, the Government must:

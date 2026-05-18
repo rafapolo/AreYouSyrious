@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 23/7: MSF estimates 20 people have died in the Mediterranean Sea every day since…
+title: "AYS Daily Digest 23/7: MSF estimates 20 people have died in the Mediterranean Sea every day since…"
 author: Are You Syrious?
 date: 2016-07-23T22:41:08.780+0100
 last_modified_at: 2016-07-23T22:54:01.568+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,europe,serbia,refugee-march,turkey]
 description: New victims in Afghanistan and Syria. More people are arriving to Greece and Italy from war-torn countries. Situation in Turkey does not…
 image:
-  path: assets/b66ad6da696c/1*VHjQ4bD-UBPvsrjPpcYa9w.jpeg
+  path: ../assets/b66ad6da696c/1*VHjQ4bD-UBPvsrjPpcYa9w.jpeg
 ---
 
 ### AYS Daily Digest 23/7: MSF estimates 20 people have died in the Mediterranean Sea every day since March
@@ -15,7 +15,7 @@ image:
 _New victims in Afghanistan and Syria\. More people are arriving to Greece and Italy from war\-torn countries\. Situation in Turkey does not help to refugees\. Some positive announcements from Greece — communal kitchens run by refugees and new, humane, camp\. From Serbia announcement about possible hunger strike at the border with Hungary\. In a world we are living now, solidarity with those in need means a lot\._
 
 
-![More solidarity with people in need can save humanity\. Photo by MOAS](assets/b66ad6da696c/1*VHjQ4bD-UBPvsrjPpcYa9w.jpeg)
+![More solidarity with people in need can save humanity\. Photo by MOAS](../assets/b66ad6da696c/1*VHjQ4bD-UBPvsrjPpcYa9w.jpeg)
 
 More solidarity with people in need can save humanity\. Photo by MOAS
 #### Syria\-Afghanistan
@@ -38,11 +38,11 @@ Refugees who are living in camps are complaining about the quality of the food f
 For now, the dire situation in the camps is reasons for refugees and volunteers to protest almost every day\. Today we found out about three protests, including one which became violent after protesters and police clashed\.
 
 
-![](assets/b66ad6da696c/1*UOefoX6OJ2xjxuEWXWSvcw.jpeg)
+![](../assets/b66ad6da696c/1*UOefoX6OJ2xjxuEWXWSvcw.jpeg)
 
 
 
-![NoBorder Camp activists tryied to approach the fence but were stopped by the police\. Photo NoBorder](assets/b66ad6da696c/1*Gday13_fdtlnlr5nqGtCBg.jpeg)
+![NoBorder Camp activists tryied to approach the fence but were stopped by the police\. Photo NoBorder](../assets/b66ad6da696c/1*Gday13_fdtlnlr5nqGtCBg.jpeg)
 
 NoBorder Camp activists tryied to approach the fence but were stopped by the police\. Photo NoBorder
 
@@ -51,14 +51,14 @@ NoBorder Camp activists tryied to approach the fence but were stopped by the pol
 The refugees at Oraiokastro camp also protested today\. They gathered in the front of the camp and closed the road\. People in these camp are not satisfied how it is run, and they complain about possible corruption\.
 
 
-![Protests in Oraikastro\. Photo Refugees\.tv](assets/b66ad6da696c/1*FPMidTzeWFytpbAYOa2DOA.jpeg)
+![Protests in Oraikastro\. Photo Refugees\.tv](../assets/b66ad6da696c/1*FPMidTzeWFytpbAYOa2DOA.jpeg)
 
 Protests in Oraikastro\. Photo Refugees\.tv
 
 In Thessaloniki, groups of activist, refugees, volunteers and citizens, gathered to show support to refugees and migrant in Greece, too\.
 
 
-![Photo by Refugees\.tv](assets/b66ad6da696c/1*doYOjj5Pf2Er7AMSpBh26Q.jpeg)
+![Photo by Refugees\.tv](../assets/b66ad6da696c/1*doYOjj5Pf2Er7AMSpBh26Q.jpeg)
 
 Photo by Refugees\.tv
 ### New camp to be open in Thessaloniki
@@ -66,15 +66,15 @@ Photo by Refugees\.tv
 Today we received some good information from Thessaloniki where a new camp is being prepared that will host 800 people\. What makes this camp different is that it will be run by volunteers who are turning a textile factory into a refugee camp with humane conditions\. The project is done in partnership with the Greek ministry of migration\. [The camp will be called Elpída](https://www.facebook.com/elpidafactory/?hc_location=ufi) , which is Greek for hope\. As we found out, first people could — 150 — will probably move in soon\. We will try to find more info about are to be the residents of this camps, and who will run it\. For now, we bring some pictures from the site\. It does look much different from any other place\.
 
 
-![](assets/b66ad6da696c/1*UNL61XJcSygIEcQ-AUagpQ.jpeg)
+![](../assets/b66ad6da696c/1*UNL61XJcSygIEcQ-AUagpQ.jpeg)
 
 
 
-![](assets/b66ad6da696c/1*RbgkP-RKSkj1njVcd2OptQ.jpeg)
+![](../assets/b66ad6da696c/1*RbgkP-RKSkj1njVcd2OptQ.jpeg)
 
 
 
-![Refugee camp could look like this too\.](assets/b66ad6da696c/1*zkrhBAmygiHvMNAWLTa-BA.jpeg)
+![Refugee camp could look like this too\.](../assets/b66ad6da696c/1*zkrhBAmygiHvMNAWLTa-BA.jpeg)
 
 Refugee camp could look like this too\.
 ### Internet as a basic need for refugees
@@ -100,15 +100,15 @@ People from Afghanistan who started marching from Belgrade toward Hungarian bord
 **Show solidarity, if you meet them\!**
 
 
-![](assets/b66ad6da696c/1*fKb9tBhuSMeU2Sb5Cvuk7g.jpeg)
+![](../assets/b66ad6da696c/1*fKb9tBhuSMeU2Sb5Cvuk7g.jpeg)
 
 
 
-![](assets/b66ad6da696c/1*LKVDcYQUALLAU6oC6DAdyw.jpeg)
+![](../assets/b66ad6da696c/1*LKVDcYQUALLAU6oC6DAdyw.jpeg)
 
 
 
-![About 150 people in a march toward the borde with Hungary\. Photo by InfoHouse\.](assets/b66ad6da696c/1*dKN9h3aTwT_Hk0IxJTxDlQ.jpeg)
+![About 150 people in a march toward the borde with Hungary\. Photo by InfoHouse\.](../assets/b66ad6da696c/1*dKN9h3aTwT_Hk0IxJTxDlQ.jpeg)
 
 About 150 people in a march toward the borde with Hungary\. Photo by InfoHouse\.
 
@@ -127,7 +127,7 @@ Just as the reminder — Afghan refugees are facing the extremely difficult situ
 With the Mediterranean route very busy, the number of people who are living in the streets of Italy is increasing\. In Rome, in Via Cupa between 100–200 people lives\. Volunteers are providing food, water, and clothes\. People, mostly from African countries, are sleeping on mattresses, and only lucky ones do have tents\.
 
 
-![Food for refugees living in the streets of rome is provided by volunteers\.](assets/b66ad6da696c/1*Oz58xe912M6rVmvZfBd9NA.jpeg)
+![Food for refugees living in the streets of rome is provided by volunteers\.](../assets/b66ad6da696c/1*Oz58xe912M6rVmvZfBd9NA.jpeg)
 
 Food for refugees living in the streets of rome is provided by volunteers\.
 #### General

@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 1/7/19: Reports of rapid deterioration of the rights of refugees in Europe
+title: "AYS Daily Digest 1/7/19: Reports of rapid deterioration of the rights of refugees in Europe"
 author: Are You Syrious?
 date: 2019-07-02T09:40:12.230+0100
 last_modified_at: 2019-07-02T14:21:08.094+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,human-rights,libya,freedom]
 description: EU Fundamental Rights Agency in their recent report documented alarming changes in the rights of migrants and refugees in several EU…
 image:
-  path: assets/2653e44bba1/1*h0UyXkqcGMih1ZE-jUxOfw.jpeg
+  path: ../assets/2653e44bba1/1*h0UyXkqcGMih1ZE-jUxOfw.jpeg
 ---
 
 ### AYS Daily Digest 1/7/19: Reports of rapid deterioration of the rights of refugees in Europe
 #### EU Fundamental Rights Agency in their recent report documented alarming changes in the rights of migrants and refugees in several EU countries / The judge in Agrigento postponed the decision on the validation of Captain Carola Rackete’s arrest; support demos organized across Europe / In France, urgent need for volunteers who have experience working in paediatrics/ & more news
 
 
-![“When the law violates the rights, it is a right to violate the law” \(Photo: [Globalproject\.info](https://www.facebook.com/globalproject.info/?__xts__%5B0%5D=68.ARB9rGDQsjGRnc05OzRZljaVZWXpyvf5udtydLT0Pa-yzzJhX7x6IG8Kqn4J7b7gi6IlWTMJy45Wl84xhidgqMIDv-nr6JeyXlJOvBEqYWwfSkw4wf3gVdC39CxHO3Jh6okr580W-3ILkQlm9CVJsD6f9Tu5Suz36t6UE8zRyfUwvWK9DKRMJCd0OVt6zEwPopMOueH0_-O62BftHTIGpYqI5NCACm15DVtYJzldUlZuZ-hixbngf2aCHly0Kz87iK8NHBM4zUKGUPb8vy8qfqJcKWZiR9WwLqYcQMsU2C5T26Tk5jnDex_jvQmnaY8ciZR0Zt7CGpet6DaSXLOGjOM63Q&__tn__=k%2AF&tn-str=k%2AF) \)](assets/2653e44bba1/1*h0UyXkqcGMih1ZE-jUxOfw.jpeg)
+![“When the law violates the rights, it is a right to violate the law” \(Photo: [Globalproject\.info](https://www.facebook.com/globalproject.info/?__xts__%5B0%5D=68.ARB9rGDQsjGRnc05OzRZljaVZWXpyvf5udtydLT0Pa-yzzJhX7x6IG8Kqn4J7b7gi6IlWTMJy45Wl84xhidgqMIDv-nr6JeyXlJOvBEqYWwfSkw4wf3gVdC39CxHO3Jh6okr580W-3ILkQlm9CVJsD6f9Tu5Suz36t6UE8zRyfUwvWK9DKRMJCd0OVt6zEwPopMOueH0_-O62BftHTIGpYqI5NCACm15DVtYJzldUlZuZ-hixbngf2aCHly0Kz87iK8NHBM4zUKGUPb8vy8qfqJcKWZiR9WwLqYcQMsU2C5T26Tk5jnDex_jvQmnaY8ciZR0Zt7CGpet6DaSXLOGjOM63Q&__tn__=k%2AF&tn-str=k%2AF) \)](../assets/2653e44bba1/1*h0UyXkqcGMih1ZE-jUxOfw.jpeg)
 
 “When the law violates the rights, it is a right to violate the law” \(Photo: [Globalproject\.info](https://www.facebook.com/globalproject.info/?__xts__%5B0%5D=68.ARB9rGDQsjGRnc05OzRZljaVZWXpyvf5udtydLT0Pa-yzzJhX7x6IG8Kqn4J7b7gi6IlWTMJy45Wl84xhidgqMIDv-nr6JeyXlJOvBEqYWwfSkw4wf3gVdC39CxHO3Jh6okr580W-3ILkQlm9CVJsD6f9Tu5Suz36t6UE8zRyfUwvWK9DKRMJCd0OVt6zEwPopMOueH0_-O62BftHTIGpYqI5NCACm15DVtYJzldUlZuZ-hixbngf2aCHly0Kz87iK8NHBM4zUKGUPb8vy8qfqJcKWZiR9WwLqYcQMsU2C5T26Tk5jnDex_jvQmnaY8ciZR0Zt7CGpet6DaSXLOGjOM63Q&__tn__=k%2AF&tn-str=k%2AF) \)
 #### FEATURED
@@ -214,7 +214,7 @@ A total of 57 people were on board a vessel that Salvamento Maritimo encountered
 **Luxembourg foreign minister Jean Asselborn \(LSAP\) has also called for the release of Carola Rackete\.** In an open letter sent to his Italian counterpart Enzo Moavero Milanesi, Asselborn wrote that the capital had been “obliged to bring 40 migrants to Lampedusa\.”
 
 
-![](assets/2653e44bba1/1*nXgHfdP-8L5gj9lUxLKaPQ.jpeg)
+![](../assets/2653e44bba1/1*nXgHfdP-8L5gj9lUxLKaPQ.jpeg)
 
 
 “Saving human lives is a duty and should never be a crime \[…\] On the contrary, not saving someone is a crime,” he said\.

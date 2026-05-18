@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 27/12/2017: The absurdity of European policies hits again
+title: "AYS DAILY DIGEST 27/12/2017: The absurdity of European policies hits again"
 author: Are You Syrious?
 date: 2017-12-28T08:28:58.546+0000
 last_modified_at: 2017-12-28T10:07:22.488+0000
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,human-rights,protest,european-union,croatia]
 description: Another boy found hanging on the bottom of a bus while trying to cross the Serbian-Croatian border / UNHCR monthly report has been…
 image:
-  path: assets/3236955a2530/1*cBamTGEm6JB8567ij2tgBg.jpeg
+  path: ../assets/3236955a2530/1*cBamTGEm6JB8567ij2tgBg.jpeg
 ---
 
 ### AYS DAILY DIGEST 27/12/2017: The absurdity of European policies hits again
@@ -15,7 +15,7 @@ image:
 _Another boy found hanging on the bottom of a bus while trying to cross the Serbian\-Croatian border / UNHCR monthly report has been published / Information for migrants intercepted at sea in Turkey and for those deported or readmitted from Greece / Minors in Moria are 40% of the population / New GAS figures on asylum applications / Call for volunteers in Greece/Serbia’s commissioner for refugees and migrants statement on the last days’ protest are absurd / More news from Greece, Italy, Spain…_
 
 
-![The governments, whenever they can’t silence the people, use their dirty political power to divide people and rule them; you know, objectifying refugees\. \[…\] Credit: Arash Hampay](assets/3236955a2530/1*cBamTGEm6JB8567ij2tgBg.jpeg)
+![The governments, whenever they can’t silence the people, use their dirty political power to divide people and rule them; you know, objectifying refugees\. \[…\] Credit: Arash Hampay](../assets/3236955a2530/1*cBamTGEm6JB8567ij2tgBg.jpeg)
 
 The governments, whenever they can’t silence the people, use their dirty political power to divide people and rule them; you know, objectifying refugees\. \[…\] Credit: Arash Hampay
 

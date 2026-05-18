@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 30/04/2018: Another deadly attack in a safe country
+title: "AYS DAILY DIGEST 30/04/2018: Another deadly attack in a safe country"
 author: Are You Syrious?
 date: 2018-05-01T08:10:43.955+0100
 last_modified_at: 2018-05-01T08:10:43.955+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,digest,afghanistan,bosnia,serbia]
 description: At least 29 people, including nine journalist died in attack in Kabul // Refugee camp near Damascus almost destroyed // Protests in Athens…
 image:
-  path: assets/cc8c61207df8/1*TLt6ExBPLGoCZIQtyvGj7g.jpeg
+  path: ../assets/cc8c61207df8/1*TLt6ExBPLGoCZIQtyvGj7g.jpeg
 ---
 
 ### AYS DAILY DIGEST 30/04/2018: Another deadly attack in a safe country
@@ -15,7 +15,7 @@ image:
 _At least 29 people, including nine journalist died in attack in Kabul // Refugee camp near Damascus almost destroyed // Protests in Athens // Help urgently needed for DocMobile team /// Illegal push\-backs and hate speech against people on the move in Bosnia //_
 
 
-![Erzurum, Turkey 27 April 2018\. [\#Refugees](https://www.facebook.com/hashtag/refugees?source=feed_text) arrive in Turkey, by foot, trying to escape repression and death\. The Turkish government has deported at least 7,000 Afghan refugees back to Kabul recently\. Photograph by Erdem Sahin via Art Against\.](assets/cc8c61207df8/1*TLt6ExBPLGoCZIQtyvGj7g.jpeg)
+![Erzurum, Turkey 27 April 2018\. [\#Refugees](https://www.facebook.com/hashtag/refugees?source=feed_text) arrive in Turkey, by foot, trying to escape repression and death\. The Turkish government has deported at least 7,000 Afghan refugees back to Kabul recently\. Photograph by Erdem Sahin via Art Against\.](../assets/cc8c61207df8/1*TLt6ExBPLGoCZIQtyvGj7g.jpeg)
 
 Erzurum, Turkey 27 April 2018\. [\#Refugees](https://www.facebook.com/hashtag/refugees?source=feed_text) arrive in Turkey, by foot, trying to escape repression and death\. The Turkish government has deported at least 7,000 Afghan refugees back to Kabul recently\. Photograph by Erdem Sahin via Art Against\.
 ### Feature
@@ -41,7 +41,7 @@ Inside the camp, there are currently no hospitals or medical facilities operatin
 New arrivals are registered on land and the sea\. Only to the islands, 79 people arrived\. Among them, eight people were dropped of by a speedboat at Kos, 33 people arrived on Chios and 31 on Kastellorizo\.
 
 
-![**Photo by [Salvamento Marítimo Humanitario](https://www.facebook.com/smhumanitario/?hc_ref=ARRnOWQIpS_BfBxM4_-rYFVZXwOWtXKdD1XaCGztSp-RT8WIhNKtmCpQGiiluqBApxk&fref=nf)**](assets/cc8c61207df8/1*rYZ3AwjbarlNKGtwN8mEyg.jpeg)
+![**Photo by [Salvamento Marítimo Humanitario](https://www.facebook.com/smhumanitario/?hc_ref=ARRnOWQIpS_BfBxM4_-rYFVZXwOWtXKdD1XaCGztSp-RT8WIhNKtmCpQGiiluqBApxk&fref=nf)**](../assets/cc8c61207df8/1*rYZ3AwjbarlNKGtwN8mEyg.jpeg)
 
 **Photo by [Salvamento Marítimo Humanitario](https://www.facebook.com/smhumanitario/?hc_ref=ARRnOWQIpS_BfBxM4_-rYFVZXwOWtXKdD1XaCGztSp-RT8WIhNKtmCpQGiiluqBApxk&fref=nf)**
 
@@ -56,7 +56,7 @@ Many people who are arriving to Thessaloniki and Athens are not registered, and 
 In support of growing number of people who do not have a place to stay, group of about 200 volunteers and refugees went last night to Syntagma square in Athens to protest, hanging makeshift “housing for all\!” banners and unrolling blankets and sleeping bags with the intent to sleep there\.
 
 
-![Photo AYS](assets/cc8c61207df8/1*IWcMpDhPhJgMTsNWd1gkbQ.jpeg)
+![Photo AYS](../assets/cc8c61207df8/1*IWcMpDhPhJgMTsNWd1gkbQ.jpeg)
 
 Photo AYS
 
@@ -67,7 +67,7 @@ _“It is ludicrous that it has been left to grassroots organisations such as th
 Around midnight, more police arrived on the scene and told the asylum\-seekers to come with them to be registered\. Understandably, many people were deeply skeptical, and refused the offer\. Towards 1:30 am, two ministry employees arrived and gave the crowd an ultimatum: go to Skaramagas Camp to be registered \(which could take as long as the normal registration process, but people would be housed in camps and have better access to food and medical care\), or stay in the square and be arrested\. Ultimately, many people decided to go to the camps, a clear indication of the desperate situation facing newly\-arrived asylum seekers in Athens\.
 
 
-![Photo by Khora Community Center](assets/cc8c61207df8/1*Sy2hHQsJEmuB8mqyvJxWtg.jpeg)
+![Photo by Khora Community Center](../assets/cc8c61207df8/1*Sy2hHQsJEmuB8mqyvJxWtg.jpeg)
 
 Photo by Khora Community Center
 

@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 12/09/2017: Canada, heaven for refugees?
+title: "AYS DAILY DIGEST 12/09/2017: Canada, heaven for refugees?"
 author: Are You Syrious?
 date: 2017-09-13T00:07:05.475+0100
 last_modified_at: 2017-09-13T00:08:23.626+0100
@@ -7,14 +7,14 @@ categories:
 tags: [refugees,canada,libya,greece,italy]
 description: Jugend Rettet calls for European protest // UNHCR seeks to provide open centres in Libya // More arrivals in Greece // No More Borders…
 image:
-  path: assets/de223c949c0a/1*HkMb3oDX1zfa8EB2SfHiQQ.jpeg
+  path: ../assets/de223c949c0a/1*HkMb3oDX1zfa8EB2SfHiQQ.jpeg
 ---
 
 ### AYS DAILY DIGEST 12/09/2017: Canada, heaven for refugees?
 #### Jugend Rettet calls for European protest // UNHCR seeks to provide open centres in Libya // More arrivals in Greece // No More Borders leaving Samos // Infopoint in Ventimiglia // Donations needed in France // More protests in Brussels and more…
 
 
-![“Asylum is a human right” — Afghans protested yesterday in Dortmund city\. Today they are heading to Düsseldorf airport, where deportations to Afghanistan, Kosovo/Albania and Serbia are scheduled](assets/de223c949c0a/1*HkMb3oDX1zfa8EB2SfHiQQ.jpeg)
+![“Asylum is a human right” — Afghans protested yesterday in Dortmund city\. Today they are heading to Düsseldorf airport, where deportations to Afghanistan, Kosovo/Albania and Serbia are scheduled](../assets/de223c949c0a/1*HkMb3oDX1zfa8EB2SfHiQQ.jpeg)
 
 “Asylum is a human right” — Afghans protested yesterday in Dortmund city\. Today they are heading to Düsseldorf airport, where deportations to Afghanistan, Kosovo/Albania and Serbia are scheduled
 ### Feature
@@ -40,14 +40,14 @@ The United Nations’ High Commission on Refugees recommends states to refrain f
 [**Jugend Rettet**](https://www.facebook.com/JugendRettet/?ref=gs&hc_ref=ARRlXVGYZy79UQHxgF8UX2bgRn3WGAywAjIv53A82ID0dgwxdaKiJ06kgyVJsEg3Kt8&fref=gs&hc_location=group) **’s** boat is still arrested and the group is protesting once more to recover it and put it to use\. Before being taken by the Italian authorities the boat and it’s crew rescued 14000 refugees from the sea\. So join the protest\! Tomorrow some life vests will be put on statues all around Europe\. You can send the group a message if you want to join the action\!
 
 
-![Statue in Malta with life vest, by [**Jugend Rettet e\.V\.**](https://www.facebook.com/JugendRettet/?ref=gs&hc_ref=ARRlXVGYZy79UQHxgF8UX2bgRn3WGAywAjIv53A82ID0dgwxdaKiJ06kgyVJsEg3Kt8&fref=gs&hc_location=group)](assets/de223c949c0a/1*trWZrvZNP_ivZcZ4whnQRg.jpeg)
+![Statue in Malta with life vest, by [**Jugend Rettet e\.V\.**](https://www.facebook.com/JugendRettet/?ref=gs&hc_ref=ARRlXVGYZy79UQHxgF8UX2bgRn3WGAywAjIv53A82ID0dgwxdaKiJ06kgyVJsEg3Kt8&fref=gs&hc_location=group)](../assets/de223c949c0a/1*trWZrvZNP_ivZcZ4whnQRg.jpeg)
 
 Statue in Malta with life vest, by [**Jugend Rettet e\.V\.**](https://www.facebook.com/JugendRettet/?ref=gs&hc_ref=ARRlXVGYZy79UQHxgF8UX2bgRn3WGAywAjIv53A82ID0dgwxdaKiJ06kgyVJsEg3Kt8&fref=gs&hc_location=group)
 
 Also today, a new report from [**IOM**](https://twitter.com/UNmigration) gives the numbers of arrivals through the Mediterranean up to today:
 
 
-![](assets/de223c949c0a/1*15f2KRFD3pD4gu1rd90sVw.jpeg)
+![](../assets/de223c949c0a/1*15f2KRFD3pD4gu1rd90sVw.jpeg)
 
 ### Libya
 
@@ -129,7 +129,7 @@ Obviously, these rate of arrivals to the islands have a devastating effect in th
 On the island of Samos the conditions aren’t better and are likely to get worse\. \. [**No more borders, No more tears**](https://www.facebook.com/No-more-borders-No-more-tears-1254181771265187/?hc_ref=ARSB70VNl1A9panv__MqX_BRfiFstZaQv2mND8TWPzEHd532esetviXTS6GCZJNlk6A) issued a statement today saying that they are stopping their work by the end of the month\. They complain about the lack of efforts by the official NGOs to do their jobs, leaving it to the small underfunded organisations\.
 
 
-![](assets/de223c949c0a/1*p90oM-kASuIJdQTdaVMuLw.jpeg)
+![](../assets/de223c949c0a/1*p90oM-kASuIJdQTdaVMuLw.jpeg)
 
 
 
@@ -180,7 +180,7 @@ A new infopoint has started in Ventimiglia for refugees, with internet service, 
 Italy struggles to provide its migrants with the resources and support they need, refugees are increasingly vulnerable to being exploited\. Now migrants are joining activist groups and using their personal experiences to help others fight for fair treatment\. [**Refugees Deeply**](https://www.facebook.com/refugeesdeeply/?ref=gs&hc_ref=ARSOCJmGO1-OgP4DOtq6dAc5MwtFaqQKc3a83CHxrKTpoHIoEuIU9FSaVQKbjv__70s&fref=gs&hc_location=group) has published a video of these efforts\.
 
 
-[![I AM NOT A SLAVE - Refugees Deeply](assets/de223c949c0a/e5ca_hqdefault.jpg "I AM NOT A SLAVE - Refugees Deeply")](http://www.youtube.com/watch?v=cUaTjlEq32Y)
+[![I AM NOT A SLAVE - Refugees Deeply](../assets/de223c949c0a/e5ca_hqdefault.jpg "I AM NOT A SLAVE - Refugees Deeply")](http://www.youtube.com/watch?v=cUaTjlEq32Y)
 
 ### France
 

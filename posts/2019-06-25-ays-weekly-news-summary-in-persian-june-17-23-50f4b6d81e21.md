@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [persian,weekly-summary,refugees,europe,migration]
 description: ترکیه
 image:
-  path: assets/50f4b6d81e21/1*S69boXmype5PesZCQLh-sg.jpeg
+  path: ../assets/50f4b6d81e21/1*S69boXmype5PesZCQLh-sg.jpeg
 ---
 
 ### تخلیه ی اجباری, آسیب انباشته را افزایش داد
 #### AYS Weekly News Summary in Persian, June 17–23
 
 
-![Photo: [Wiener Vernetzung gegen Abschiebungen](https://www.facebook.com/plattform.refugees.welcome/?tn-str=k%2AF&hc_location=group_dialog)](assets/50f4b6d81e21/1*S69boXmype5PesZCQLh-sg.jpeg)
+![Photo: [Wiener Vernetzung gegen Abschiebungen](https://www.facebook.com/plattform.refugees.welcome/?tn-str=k%2AF&hc_location=group_dialog)](../assets/50f4b6d81e21/1*S69boXmype5PesZCQLh-sg.jpeg)
 
 Photo: [Wiener Vernetzung gegen Abschiebungen](https://www.facebook.com/plattform.refugees.welcome/?tn-str=k%2AF&hc_location=group_dialog)
 ### **ترکیه**

@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 16–17/12/21: Opposing deportation to Libya is not a crime, Italian high court says
+title: "AYS News Digest 16–17/12/21: Opposing deportation to Libya is not a crime, Italian high court says"
 author: Are You Syrious?
 date: 2021-12-18T16:48:31.425+0000
 last_modified_at: 2021-12-18T16:48:31.425+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,refugees,migration,italy,search-and-rescue]
 description: Hundreds rescued at sea // Boat driver successfully sues Greece for damages // Polish aid center raided by police
 image:
-  path: assets/41ec06762085/0*58nzKZCHyhzZ9NyA.jpeg
+  path: ../assets/41ec06762085/0*58nzKZCHyhzZ9NyA.jpeg
 ---
 
 ### AYS News Digest 16–17/12/21: Opposing deportation to Libya is not a crime, Italian high court says
 ### Hundreds rescued at sea // Boat driver successfully sues Greece for damages // Polish aid center raided by police
 
 
-![](assets/41ec06762085/0*lXHfg3-UyzwY5tl6.jpeg)
+![](../assets/41ec06762085/0*lXHfg3-UyzwY5tl6.jpeg)
 
 
 [Are You Syrious?](?source=post_page-----e5836d0308b2-----------------------------------)
@@ -23,11 +23,11 @@ image:
 ### FEATURE — In historic ruling, Italian supreme court says opposing deportation to Libya is not a crime
 
 
-![](assets/41ec06762085/0*ddQWiSN2wyGDPFAE)
+![](../assets/41ec06762085/0*ddQWiSN2wyGDPFAE)
 
 
 
-![](assets/41ec06762085/0*58nzKZCHyhzZ9NyA.jpeg)
+![](../assets/41ec06762085/0*58nzKZCHyhzZ9NyA.jpeg)
 
 
 A highly\-anticipated court verdict was [announced](https://www.avvenire.it/attualita/pagine/la-cassazione-assolve-due-profughi-ribelli-e-condanna-i-respingimenti-in-libia) this Thursday by Italy’s highest court, which ruled in favor of two people on the move, saying that their actions taken to oppose their own deportation to Libya from an Italian ship back in 2018 were justifiable\.
@@ -96,11 +96,11 @@ Meanwhile, repatriations from Belarus to Iraq continue\. [Media](https://www.rud
 ### Protest in Paris
 
 
-![](assets/41ec06762085/0*Vq-0UUYjraoq2c_-)
+![](../assets/41ec06762085/0*Vq-0UUYjraoq2c_-)
 
 
 
-![](assets/41ec06762085/0*QGmPCLkl2Z_7bpo9.jpeg)
+![](../assets/41ec06762085/0*QGmPCLkl2Z_7bpo9.jpeg)
 
 
 [More info here\.](https://www.facebook.com/permalink.php?story_fbid=1879040468963383&id=598228360377940)

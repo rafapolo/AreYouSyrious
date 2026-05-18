@@ -1,5 +1,5 @@
 ---
-title: AYS Special from the United Kingdom: Rhetoric vs Reality.
+title: "AYS Special from the United Kingdom: Rhetoric vs Reality."
 author: Are You Syrious?
 date: 2021-12-30T14:18:22.862+0000
 last_modified_at: 2022-01-02T09:37:40.992+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [special,united-kingdom,uk-politics,priti-patel,nationality-and-borders]
 description: Now set apart from the EU, the UK has continued to calculate exactly what that means for people claiming asylum, whilst also failing…
 image:
-  path: assets/20de647a3ad5/1*X0oaFCQrjm_LvEeFNks6vw.jpeg
+  path: ../assets/20de647a3ad5/1*X0oaFCQrjm_LvEeFNks6vw.jpeg
 ---
 
 ### AYS Special from the United Kingdom: Rhetoric vs Reality
@@ -15,7 +15,7 @@ image:
 _In the fifth of our Winter Specials, our own Hannah Parry look at the situation for people on the move in the United Kingdom, with the Nationality and Border Bill looming over 2022\. Now set apart from the European Union, the UK has continued to calculate exactly what that means for people claiming asylum, whilst also failing those who are already caught in the complex system\._
 
 
-![Photo Credit: Leeds Castle, Kent, UK\. [Andy Holmes](https://unsplash.com/@andyjh07?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/union-flag?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](assets/20de647a3ad5/1*X0oaFCQrjm_LvEeFNks6vw.jpeg)
+![Photo Credit: Leeds Castle, Kent, UK\. [Andy Holmes](https://unsplash.com/@andyjh07?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/union-flag?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](../assets/20de647a3ad5/1*X0oaFCQrjm_LvEeFNks6vw.jpeg)
 
 Photo Credit: Leeds Castle, Kent, UK\. [Andy Holmes](https://unsplash.com/@andyjh07?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/union-flag?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
@@ -38,7 +38,7 @@ Relations with EU nations mean that cooperation over asylum matters is almost ce
 The conditions for those waiting for their asylum claim to be heard has remained slow\. With the pandemic cited as a reason for claims being processed so slowly, people are waiting months in restrictive hotel accommodation\. In 2020, [more than 30,000 people](https://www.aljazeera.com/news/2021/7/2/uk-asylum-seeker-queue) had waited more than a year for their claim to be assessed\. Many of those people were affected by the Aspen card scandal\. The Aspen card is the payment card issued to asylum seekers and is how the government pays £39\.63 per week for food, clothes and household items\. In June 2021, [thousands were left without money](https://www.theguardian.com/uk-news/2021/jun/02/thousands-of-asylum-seekers-go-hungry-after-cash-card-problems) as the payment system was transferred to another provider\. Those left without support had to rely on charities or friends for a week or more to be able to eat while the system was sorted out\.
 
 
-![Photo Credit: [RNLI at work](https://www.inverness-courier.co.uk/_media/img/3GISXSUYF0YV30BCE8C6.jpg)](assets/20de647a3ad5/0*JxBp7syfYmrmdzmE.jpg)
+![Photo Credit: [RNLI at work](https://www.inverness-courier.co.uk/_media/img/3GISXSUYF0YV30BCE8C6.jpg)](../assets/20de647a3ad5/0*JxBp7syfYmrmdzmE.jpg)
 
 Photo Credit: [RNLI at work](https://www.inverness-courier.co.uk/_media/img/3GISXSUYF0YV30BCE8C6.jpg)
 

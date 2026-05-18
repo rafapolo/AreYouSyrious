@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 23/08/2019: Swiss court suspends Dublin deportation to Croatia
+title: "AYS Daily Digest 23/08/2019: Swiss court suspends Dublin deportation to Croatia"
 author: Are You Syrious?
 date: 2019-08-24T13:20:48.726+0100
 last_modified_at: 2019-08-24T13:20:48.726+0100
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,switzerland,dublin,croatia]
 description: State Secretariat for Migration did not check the conditions for asylum seekers in Croatia properly / New arrivals in Greece / Dire…
 image:
-  path: assets/2752c189e7c3/0*gwz82YCcPqocbB_b.jpeg
+  path: ../assets/2752c189e7c3/0*gwz82YCcPqocbB_b.jpeg
 ---
 
 ### AYS Daily Digest 23/08/2019: Swiss court suspends Dublin deportation to Croatia
 ### State Secretariat for Migration did not check the conditions for asylum seekers in Croatia properly / New arrivals in Greece / Dire conditions on Rhodes / Ocean Viking allowed to go to Malta
 
 
-![](assets/2752c189e7c3/0*QH7qg_G_150kA-lE.jpeg)
+![](../assets/2752c189e7c3/0*QH7qg_G_150kA-lE.jpeg)
 
 
 [Are You Syrious?](@AreYouSyrious?source=post_page-----4abd84c549a4----------------------)
@@ -22,11 +22,11 @@ image:
 [Aug 24](ays-daily-digest-23-08-2019-swiss-court-suspends-dublin-deportation-to-croatia-4abd84c549a4?source=post_page-----4abd84c549a4----------------------) · 5 min read
 
 
-![](assets/2752c189e7c3/0*dg-Pnf7aPTNDEsxr)
+![](../assets/2752c189e7c3/0*dg-Pnf7aPTNDEsxr)
 
 
 
-![](assets/2752c189e7c3/0*gwz82YCcPqocbB_b.jpeg)
+![](../assets/2752c189e7c3/0*gwz82YCcPqocbB_b.jpeg)
 
 
 Credits: [Border Violence Monitoring Network](https://www.facebook.com/borderviolencemonitoring/)
@@ -61,19 +61,19 @@ They are in need of food, water, clothes and probably also blankets and/or sleep
 Pictures and a [brief report](https://www.meltingpot.org/Rodi-e-il-centro-per-migranti-che-non-c-e.html?fbclid=IwAR3W7nM8Ddv6qm-ONSWzOlzAKxBsLa7UWlMmxxppVi37O192lRgue9GsqEA#.XWBH8S2B00o) on the conditions of the reception centre on the island have been published by Melting Pot Europa, making it crystal clear that all human standards are not being met\. The centre is situated in a former slaughterhouse and the conditions of abandonment are not justified, given also the low number of people hosted inside\.
 
 
-![](assets/2752c189e7c3/0*7_5ezO-Cooc2Wphs)
+![](../assets/2752c189e7c3/0*7_5ezO-Cooc2Wphs)
 
 
 
-![](assets/2752c189e7c3/0*3zUNSdpAFsEuWVBL.jpeg)
+![](../assets/2752c189e7c3/0*3zUNSdpAFsEuWVBL.jpeg)
 
 
 
-![](assets/2752c189e7c3/0*zDhxXt-eE59-I443)
+![](../assets/2752c189e7c3/0*zDhxXt-eE59-I443)
 
 
 
-![](assets/2752c189e7c3/0*j-TR-Ix9UGeF11UC.jpeg)
+![](../assets/2752c189e7c3/0*j-TR-Ix9UGeF11UC.jpeg)
 
 
 Credit: Nicole Bonfanti\.

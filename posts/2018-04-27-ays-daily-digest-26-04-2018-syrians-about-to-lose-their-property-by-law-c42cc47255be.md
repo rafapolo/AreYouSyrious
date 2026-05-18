@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 26/04/2018: Syrians potentially facing property loss due to new law
+title: "AYS Daily Digest 26/04/2018: Syrians potentially facing property loss due to new law"
 author: Are You Syrious?
 date: 2018-04-27T02:14:54.265+0100
 last_modified_at: 2018-04-27T18:56:29.748+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [refugees,syria,greece,digest,eu]
 description: New decree allows the government to expropriate it / Summary of the third day of the Moria 35 trial / Once again, people sleep rough in…
 image:
-  path: assets/c42cc47255be/1*ktbxYJBflQbThV-HSruNTw.jpeg
+  path: ../assets/c42cc47255be/1*ktbxYJBflQbThV-HSruNTw.jpeg
 ---
 
 ### AYS Daily Digest 26/04/2018: Syrians potentially facing property loss due to new law
@@ -15,7 +15,7 @@ image:
 _New decree allows the government to expropriate it / Summary of the third day of the Moria 35 trial / Once again, people sleep rough in Northern Greece / More people entered Bulgaria in March and April / New casualties in the Mediterranean / Prosecutor appeals release of the Open Arms / Summary from the Lebanon conference in Brussels / Reuters: EU plans to vastly increase border control budget / And more news…_
 
 
-![Many Syrians already lost a lot in the war, now they threatened to lose even more \(Photo by [Firas Abdullah](https://www.facebook.com/Firas.Al.Abdullah/posts/893545867479945) \)](assets/c42cc47255be/1*ktbxYJBflQbThV-HSruNTw.jpeg)
+![Many Syrians already lost a lot in the war, now they threatened to lose even more \(Photo by [Firas Abdullah](https://www.facebook.com/Firas.Al.Abdullah/posts/893545867479945) \)](../assets/c42cc47255be/1*ktbxYJBflQbThV-HSruNTw.jpeg)
 
 Many Syrians already lost a lot in the war, now they threatened to lose even more \(Photo by [Firas Abdullah](https://www.facebook.com/Firas.Al.Abdullah/posts/893545867479945) \)
 ### SYRIA
@@ -60,7 +60,7 @@ Since the land route between Turkey and Greece became more frequented, camps hav
 More and more people are arriving from Afrin and other regions of Northern Syria within just ten days\. And once again it’s up to volunteers to provide vital aid\.
 
 
-![A square in Thessaloniki \(Photo by [Help Refugees](https://www.facebook.com/HelpRefugeesUK/posts/601205703573440) \)](assets/c42cc47255be/1*tzXVBT7jIeFYiOZqPLoPpQ.jpeg)
+![A square in Thessaloniki \(Photo by [Help Refugees](https://www.facebook.com/HelpRefugeesUK/posts/601205703573440) \)](../assets/c42cc47255be/1*tzXVBT7jIeFYiOZqPLoPpQ.jpeg)
 
 A square in Thessaloniki \(Photo by [Help Refugees](https://www.facebook.com/HelpRefugeesUK/posts/601205703573440) \)
 #### Arrival on Lesvos

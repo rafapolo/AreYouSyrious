@@ -5,20 +5,20 @@ date: 2020-04-27T17:10:55.075+0100
 last_modified_at: 2020-04-27T17:10:55.075+0100
 categories: Are You Syrious?
 tags: []
-description: Libya: left in a warzone without water / Italy: protests in CPRs / BiH: Updates on government mass deportation plan
+description: "Libya: left in a warzone without water / Italy: protests in CPRs / BiH: Updates on government mass deportation plan"
 image:
-  path: assets/c7535d761c51/0*67bg2OBC3F0ATmXd.jpeg
+  path: ../assets/c7535d761c51/0*67bg2OBC3F0ATmXd.jpeg
 ---
 
 ### AYS Weekend Digest 25–26/4/2020 — Fires at Vathi, Samos
 #### Libya: left in a warzone without water / Italy: protests in CPRs / BiH: Updates on government mass deportation plan
 
 
-![](assets/c7535d761c51/0*ZwxkKnWT6ZIpqY5h)
+![](../assets/c7535d761c51/0*ZwxkKnWT6ZIpqY5h)
 
 
 
-![](assets/c7535d761c51/0*67bg2OBC3F0ATmXd.jpeg)
+![](../assets/c7535d761c51/0*67bg2OBC3F0ATmXd.jpeg)
 
 
 Vathi, Samos \(photo by [Pfützen hüpfen](https://twitter.com/PHupfen) \)
@@ -35,11 +35,11 @@ As MSF report, at least 100 people are left without shelter:
 Throughout the night, evacuation operations have been going on\. It is not yet clear the extent of the damage\. Most people left the camp and gathered on a empty plot of land\. While solidarians and organisations on the ground tried to assist residents providing shelter, tents, medical assistance, food and water, fights and [moments of tensions broke out](https://twitter.com/MSF_Sea/status/1254686785659158528) and [riot police entered the camp multiple times](https://www.facebook.com/samosvolunteers/posts/1555226127988875) \. In the night police stopped any kind of assistance or distribution\.
 
 
-![](assets/c7535d761c51/0*Fywpne_DpjKPRKp1)
+![](../assets/c7535d761c51/0*Fywpne_DpjKPRKp1)
 
 
 
-![](assets/c7535d761c51/0*_4bRpdtPYtRorZ7r.jpeg)
+![](../assets/c7535d761c51/0*_4bRpdtPYtRorZ7r.jpeg)
 
 
 Evacuation at Vathi \(Samos\) — Photo by AYS
@@ -175,19 +175,19 @@ BiH
 Meanwhile, as usual it is local people and grass roots groups, not the government, who are actually supporting people on the move\.
 
 
-![](assets/c7535d761c51/0*eiDAnYa1qWOIVsrA)
+![](../assets/c7535d761c51/0*eiDAnYa1qWOIVsrA)
 
 
 
-![](assets/c7535d761c51/0*AThHVGc2CES3fP6B.jpeg)
+![](../assets/c7535d761c51/0*AThHVGc2CES3fP6B.jpeg)
 
 
 
-![](assets/c7535d761c51/0*Qex2m6F-nT1AFKmj)
+![](../assets/c7535d761c51/0*Qex2m6F-nT1AFKmj)
 
 
 
-![](assets/c7535d761c51/0*0jv0rQNiXlR-tVfO.jpeg)
+![](../assets/c7535d761c51/0*0jv0rQNiXlR-tVfO.jpeg)
 
 
 \(Photo Credit: [Dirk Planert](https://web.facebook.com/dirk.planert?__tn__=%2CdC-R-R&eid=ARB-in7ivLE7vt6_hGPsX1rByuVvxa5YcQF6DTLUYa-_PVlc4kIZmIsQfsY3SdwSnZC3CBoouz54wOXZ&hc_ref=ARQkFqsRvPUpCuTUm0A8yfRChmWpDVEW7Jr_VAe7nZjd13zj73Cn2bl16FlO2qWodVE&fref=nf) \)

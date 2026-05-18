@@ -7,17 +7,17 @@ categories: Are You Syrious?
 tags: [refugees,hrvatska,asylum,special]
 description: Ovaj članak je originalno objavljen 26. srpnja 2017.
 image:
-  path: assets/c77a3e9e3c29/1*EaonqfNrqzJSMfYe_nbHLw.jpeg
+  path: ../assets/c77a3e9e3c29/1*EaonqfNrqzJSMfYe_nbHLw.jpeg
 ---
 
 ### AYS Special — Drugi izvještaj o arbitrarnim i nezakonitim praksama Ministarstva unutarnjih poslova \(MUP\-a\) i Sigurnosno\-obavještajne agencije \(SOA\-e\)
 
 
-![](assets/c77a3e9e3c29/1*EaonqfNrqzJSMfYe_nbHLw.jpeg)
+![](../assets/c77a3e9e3c29/1*EaonqfNrqzJSMfYe_nbHLw.jpeg)
 
 
 
-![](assets/c77a3e9e3c29/1*Hc5lLmO9pNhz4PBatuPggw.jpeg)
+![](../assets/c77a3e9e3c29/1*Hc5lLmO9pNhz4PBatuPggw.jpeg)
 
 
 **Ovaj članak je originalno objavljen 26\. srpnja 2017\.**
@@ -69,12 +69,12 @@ Iz ovog je vidljivo kako ins tucije ne reagiraju na nalaze iznesenog izvješća 
 Iako se podaci MUP\-a odnose na predmet, odnosno na broj izdanih nega vnih rješenja, broj stvarnih osoba — tražitelja međunarodne zaš te na koje se odnose te odluke daleko je veći, iz razloga što se na zahtjevu za međunarodnu zaš tu mogu i nalazi djeca tražitelja azila \(obično majki\) \. Iz toga smo razloga odlučili prikaza podatke i o broju slučaja, i o broju stvarnih osoba — tražitelja međunarodne zaš te na koje utječu ove odluke\. To je osobito važno, jer se radi o najranjivijoj skupini među tražiteljima međunarodne zaš te — djeci i maloljetnicima\.
 
 
-![Tablica 1 — Prikupljene informacije o broju odbijenih slučajeva \(prema broju izdanih i uručenih rješenja MUP\-a\) u kojima se SOA poziva na članak 41 Zakona o sigurnosnim provjerama](assets/c77a3e9e3c29/1*D0KHz5iyMezAlZ6ps8jGrQ.png)
+![Tablica 1 — Prikupljene informacije o broju odbijenih slučajeva \(prema broju izdanih i uručenih rješenja MUP\-a\) u kojima se SOA poziva na članak 41 Zakona o sigurnosnim provjerama](../assets/c77a3e9e3c29/1*D0KHz5iyMezAlZ6ps8jGrQ.png)
 
 Tablica 1 — Prikupljene informacije o broju odbijenih slučajeva \(prema broju izdanih i uručenih rješenja MUP\-a\) u kojima se SOA poziva na članak 41 Zakona o sigurnosnim provjerama
 
 
-![Tablica 2 — Prikupljene informacije o broju odbijenih osoba — tražitelja međunarodne zaš te, uključujući djece koja se vode na rješenjima roditelja u kojima se SOA poziva na članak 41\. Zakona o sigurnosnim provjerama](assets/c77a3e9e3c29/1*oPv3IMGjCiLORQky5j1Njg.png)
+![Tablica 2 — Prikupljene informacije o broju odbijenih osoba — tražitelja međunarodne zaš te, uključujući djece koja se vode na rješenjima roditelja u kojima se SOA poziva na članak 41\. Zakona o sigurnosnim provjerama](../assets/c77a3e9e3c29/1*oPv3IMGjCiLORQky5j1Njg.png)
 
 Tablica 2 — Prikupljene informacije o broju odbijenih osoba — tražitelja međunarodne zaš te, uključujući djece koja se vode na rješenjima roditelja u kojima se SOA poziva na članak 41\. Zakona o sigurnosnim provjerama
 

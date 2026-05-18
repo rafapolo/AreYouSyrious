@@ -1,5 +1,5 @@
 ---
-title: AYS DAILY DIGEST 27/2/2018: Thousands of people in Greece afraid of of losing accomodation
+title: "AYS DAILY DIGEST 27/2/2018: Thousands of people in Greece afraid of of losing accomodation"
 author: Are You Syrious?
 date: 2019-02-28T11:33:15.961+0000
 last_modified_at: 2019-02-28T23:24:01.175+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [refugees,digest,bosnia,greece,refugee-info-bus]
 description: Refugee.Info  information related to the Greek government decision to start asking people to leave their temporary accommodation //…
 image:
-  path: assets/ea766f51cfa/1*ihupGnD3xAXDNZeSy5gE4g.jpeg
+  path: ../assets/ea766f51cfa/1*ihupGnD3xAXDNZeSy5gE4g.jpeg
 ---
 
 ### AYS DAILY DIGEST 27/2/19: Thousands of people in Greece afraid of of losing accommodation
 #### _On the Greek government’s decision to start asking people to leave their temporary accommodation // Another incident in acamp in Bosnia // Help needed in Paris // A woman from Afghanistan mistreated in the hospital in Germany / & more news_
 
 
-![Bira camp\. Photo by [Michele Luppi](https://www.facebook.com/michele.luppi.39?__tn__=%2CdC-R-R&eid=ARC3lJ9s56YsrpuRA_2ZPRn0Y6wIrxAbrcIkdPn4VGkzrV4qmdXDUEf6Ks0In9u4r6hweu3YTAWjklh4&hc_ref=ARQNNQp_NSsVNR2d_m_24gxvVNQO8apl8qz4M8TcJphpSQopPQh814Rs4GaTf0CmU8E&fref=nf)](assets/ea766f51cfa/1*ihupGnD3xAXDNZeSy5gE4g.jpeg)
+![Bira camp\. Photo by [Michele Luppi](https://www.facebook.com/michele.luppi.39?__tn__=%2CdC-R-R&eid=ARC3lJ9s56YsrpuRA_2ZPRn0Y6wIrxAbrcIkdPn4VGkzrV4qmdXDUEf6Ks0In9u4r6hweu3YTAWjklh4&hc_ref=ARQNNQp_NSsVNR2d_m_24gxvVNQO8apl8qz4M8TcJphpSQopPQh814Rs4GaTf0CmU8E&fref=nf)](../assets/ea766f51cfa/1*ihupGnD3xAXDNZeSy5gE4g.jpeg)
 
 Bira camp\. Photo by [Michele Luppi](https://www.facebook.com/michele.luppi.39?__tn__=%2CdC-R-R&eid=ARC3lJ9s56YsrpuRA_2ZPRn0Y6wIrxAbrcIkdPn4VGkzrV4qmdXDUEf6Ks0In9u4r6hweu3YTAWjklh4&hc_ref=ARQNNQp_NSsVNR2d_m_24gxvVNQO8apl8qz4M8TcJphpSQopPQh814Rs4GaTf0CmU8E&fref=nf)
 ### Feature
@@ -60,7 +60,7 @@ The same report shows that last year, more than 200,000 people were accommodated
 On Thursday evening, the single men’s squat in Arachṓbēs 44, Athens has been cleared out and all residents arrested\.
 
 
-![By Arash Hampey\.](assets/ea766f51cfa/1*noITHPWL6nX19qwGAEsbMQ.jpeg)
+![By Arash Hampey\.](../assets/ea766f51cfa/1*noITHPWL6nX19qwGAEsbMQ.jpeg)
 
 By Arash Hampey\.
 
@@ -101,18 +101,18 @@ Unfortunately, we have to report another incident in camps in Bosnia and Herzego
 Camp Bira in Bihac is one of the camps run by the IOM in the north of the country\. The camp offers only basic accommodation to people and is often mentioned for the inhuman and degrading living conditions\.
 
 
-![](assets/ea766f51cfa/1*huQZvVGDCupbz356j1vj5A.jpeg)
+![](../assets/ea766f51cfa/1*huQZvVGDCupbz356j1vj5A.jpeg)
 
 
 
-![Photos by [Michele Luppi](https://www.facebook.com/michele.luppi.39?__tn__=%2CdC-R-R&eid=ARC3lJ9s56YsrpuRA_2ZPRn0Y6wIrxAbrcIkdPn4VGkzrV4qmdXDUEf6Ks0In9u4r6hweu3YTAWjklh4&hc_ref=ARQNNQp_NSsVNR2d_m_24gxvVNQO8apl8qz4M8TcJphpSQopPQh814Rs4GaTf0CmU8E&fref=nf)](assets/ea766f51cfa/1*hDcGZJHic8lA1V8GTZiH9g.jpeg)
+![Photos by [Michele Luppi](https://www.facebook.com/michele.luppi.39?__tn__=%2CdC-R-R&eid=ARC3lJ9s56YsrpuRA_2ZPRn0Y6wIrxAbrcIkdPn4VGkzrV4qmdXDUEf6Ks0In9u4r6hweu3YTAWjklh4&hc_ref=ARQNNQp_NSsVNR2d_m_24gxvVNQO8apl8qz4M8TcJphpSQopPQh814Rs4GaTf0CmU8E&fref=nf)](../assets/ea766f51cfa/1*hDcGZJHic8lA1V8GTZiH9g.jpeg)
 
 Photos by [Michele Luppi](https://www.facebook.com/michele.luppi.39?__tn__=%2CdC-R-R&eid=ARC3lJ9s56YsrpuRA_2ZPRn0Y6wIrxAbrcIkdPn4VGkzrV4qmdXDUEf6Ks0In9u4r6hweu3YTAWjklh4&hc_ref=ARQNNQp_NSsVNR2d_m_24gxvVNQO8apl8qz4M8TcJphpSQopPQh814Rs4GaTf0CmU8E&fref=nf)
 
 We received a message from one of the residents telling us about the incident which occurred last weekend when the police and the IOM forcefully transferred about 100 people from this camp to one in Sarajevo\. The message reads:
 
 
-![](assets/ea766f51cfa/1*RMx6us4PVKaVgWLQFd1hCA.jpeg)
+![](../assets/ea766f51cfa/1*RMx6us4PVKaVgWLQFd1hCA.jpeg)
 
 
 _“Two Iranian Kurds were asked by IOM to remove their belongings from the container they stayed in and move to a tent which is not safe for Iranian Kurds\. As the two did not want to remove their things, two security guys came and the IOM person closed the door to the container\. The security guys beat the two Iranian Kurds in the heads\. The guys then said, “Ok stop we go but stop\.” But the security guys did not stop\. The IOM guy blocked the door all the time so no one would enter the container and help\. When the security guys came out their hands were full of blood\. They went to the bathroom to wash their hands\. The two Iranian Kurds were taken by other refugees to the first aid tent at Bira\.”_

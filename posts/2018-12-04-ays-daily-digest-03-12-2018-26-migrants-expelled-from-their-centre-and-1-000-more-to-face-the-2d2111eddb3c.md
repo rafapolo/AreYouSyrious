@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 03/12/2018: 26 migrants expelled from their centre and 1,000 more to face the…
+title: "AYS Daily Digest 03/12/2018: 26 migrants expelled from their centre and 1,000 more to face the…"
 author: Are You Syrious?
 date: 2018-12-04T09:21:08.657+0000
 last_modified_at: 2018-12-04T10:23:13.309+0000
@@ -7,13 +7,13 @@ categories: Are You Syrious?
 tags: [refugees,digest,italy,human-rights,solidarity]
 description: Are You Syrious?
 image:
-  path: assets/2d2111eddb3c/1*-FEyHOBejp2gqUioL3clbw.jpeg
+  path: ../assets/2d2111eddb3c/1*-FEyHOBejp2gqUioL3clbw.jpeg
 ---
 
 ### AYS Daily Digest 03/12/2018: 26 migrants expelled from their centre and 1,000 more to face the same, as first results of Salvini’s new decree
 
 
-![](assets/2d2111eddb3c/1*Tx1u1RSutf5fWmPbOOmJVA.jpeg)
+![](../assets/2d2111eddb3c/1*Tx1u1RSutf5fWmPbOOmJVA.jpeg)
 
 
 [Are You Syrious?](https://medium.com/@AreYouSyrious?source=post_header_lockup)
@@ -23,7 +23,7 @@ Dec 4
 _Fire in Lebanon kills two Syrian refugees//Switzerland denies flag to Aquarium//Donations and volunteers needed in Greece//New testimonies of violence on the Balkan route//Protest against deportation to Afghanistan to be held in Frankfurt//…_
 
 
-![Credit: [Danilo Balducci](https://www.facebook.com/danilobalducciphotography/?__tn__=%2CdK*F-R&eid=ARCIItfG05mto3hk_i--Vt10U0XFhpdTn6re445HEGLy--i0DSUoxGuaW8zZsno-QPhajC3e93zvUQ5v)](assets/2d2111eddb3c/1*-FEyHOBejp2gqUioL3clbw.jpeg)
+![Credit: [Danilo Balducci](https://www.facebook.com/danilobalducciphotography/?__tn__=%2CdK*F-R&eid=ARCIItfG05mto3hk_i--Vt10U0XFhpdTn6re445HEGLy--i0DSUoxGuaW8zZsno-QPhajC3e93zvUQ5v)](../assets/2d2111eddb3c/1*-FEyHOBejp2gqUioL3clbw.jpeg)
 
 Credit: [Danilo Balducci](https://www.facebook.com/danilobalducciphotography/?__tn__=%2CdK*F-R&eid=ARCIItfG05mto3hk_i--Vt10U0XFhpdTn6re445HEGLy--i0DSUoxGuaW8zZsno-QPhajC3e93zvUQ5v)
 ### FEATURE
@@ -152,11 +152,11 @@ No Name Kitchen reports having collected [first hand testimonies](https://www.fa
 
 
 
-![](assets/2d2111eddb3c/1*nwNSgkG0MQlwm81olkjWNg.jpeg)
+![](../assets/2d2111eddb3c/1*nwNSgkG0MQlwm81olkjWNg.jpeg)
 
 
 
-![Credit: No Name Kitchen](assets/2d2111eddb3c/1*jm8bkE5n6PGr7tOZgWHDaA.jpeg)
+![Credit: No Name Kitchen](../assets/2d2111eddb3c/1*jm8bkE5n6PGr7tOZgWHDaA.jpeg)
 
 Credit: No Name Kitchen
 ### SERBIA
@@ -175,7 +175,7 @@ Credit: No Name Kitchen
 
 
 
-![Credit: AYS’ collaborator](assets/2d2111eddb3c/1*w14Yipzy25P7hyddkTvwww.jpeg)
+![Credit: AYS’ collaborator](../assets/2d2111eddb3c/1*w14Yipzy25P7hyddkTvwww.jpeg)
 
 Credit: AYS’ collaborator
 ### GERMANY

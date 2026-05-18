@@ -1,5 +1,5 @@
 ---
-title: AYS Weekend Digest 12–13/12/2020 Moria 2.0: “a clean structure, with order and security”
+title: "AYS Weekend Digest 12–13/12/2020 Moria 2.0: “a clean structure, with order and security”"
 author: Are You Syrious?
 date: 2020-12-14T12:25:34.200+0000
 last_modified_at: 2020-12-14T12:52:41.655+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,moria,pushback,velika-kladusa,calais]
 description: Photo feature from Lesvos, Velika Kladusa and Dunkirk. Pushbacks from Albania. Updates from Libyan detention centres…
 image:
-  path: assets/6ea7047262b8/1*xiA62YiJF_qY8cEKWFNmzg.jpeg
+  path: ../assets/6ea7047262b8/1*xiA62YiJF_qY8cEKWFNmzg.jpeg
 ---
 
 ### AYS Weekend Digest 12–13/12/2020 Moria 2\.0: “a clean structure, with order and security”
@@ -15,7 +15,7 @@ image:
 Photo feature from Lesvos, Velika Kladusa and Dunkirk // Distress call from the Evros border // Updates from Libyan detention centres // Pushback from Albania to Greece\.
 
 
-![Moria 2\.0, Kara Tepe, Lesvos \(Photo via Aegean Boat Report\)](assets/6ea7047262b8/1*xiA62YiJF_qY8cEKWFNmzg.jpeg)
+![Moria 2\.0, Kara Tepe, Lesvos \(Photo via Aegean Boat Report\)](../assets/6ea7047262b8/1*xiA62YiJF_qY8cEKWFNmzg.jpeg)
 
 Moria 2\.0, Kara Tepe, Lesvos \(Photo via Aegean Boat Report\)
 #### Featured story
@@ -58,45 +58,45 @@ This condition is suffocating
 
 
 
-![](assets/6ea7047262b8/1*yAnz_pGWvzc7ufx_tltcaA.jpeg)
+![](../assets/6ea7047262b8/1*yAnz_pGWvzc7ufx_tltcaA.jpeg)
 
 
 
-![Photo via [ABR](https://www.facebook.com/AegeanBoatReport/posts/989756328214138)](assets/6ea7047262b8/1*G4W6ClA4mAPwmUApqz07Hw.jpeg)
+![Photo via [ABR](https://www.facebook.com/AegeanBoatReport/posts/989756328214138)](../assets/6ea7047262b8/1*G4W6ClA4mAPwmUApqz07Hw.jpeg)
 
 Photo via [ABR](https://www.facebook.com/AegeanBoatReport/posts/989756328214138)
 
 
-![](assets/6ea7047262b8/1*TIXeMsSQUEC6gn2rxd4Wyw.jpeg)
+![](../assets/6ea7047262b8/1*TIXeMsSQUEC6gn2rxd4Wyw.jpeg)
 
 
 
-![](assets/6ea7047262b8/1*mtZsOcAf3-XCSr-fO_w6mA.jpeg)
+![](../assets/6ea7047262b8/1*mtZsOcAf3-XCSr-fO_w6mA.jpeg)
 
 
 
-![Photos via [Parwana Amiri](https://twitter.com/parwana_amiri/status/1337117290882625541) and [ABR](https://www.facebook.com/AegeanBoatReport/posts/989756328214138)](assets/6ea7047262b8/1*6wxpfuD2_4PktaUHKuH1Dg.jpeg)
+![Photos via [Parwana Amiri](https://twitter.com/parwana_amiri/status/1337117290882625541) and [ABR](https://www.facebook.com/AegeanBoatReport/posts/989756328214138)](../assets/6ea7047262b8/1*6wxpfuD2_4PktaUHKuH1Dg.jpeg)
 
 Photos via [Parwana Amiri](https://twitter.com/parwana_amiri/status/1337117290882625541) and [ABR](https://www.facebook.com/AegeanBoatReport/posts/989756328214138)
 
 
-![](assets/6ea7047262b8/1*btS6P_LqeifiU9BzfSBZeg.jpeg)
+![](../assets/6ea7047262b8/1*btS6P_LqeifiU9BzfSBZeg.jpeg)
 
 
 
-![Photos via [NoBorders](https://twitter.com/Refugees_Gr/status/1337807118179717120)](assets/6ea7047262b8/1*exiHxNKKRL5drL8qIMEKtQ.jpeg)
+![Photos via [NoBorders](https://twitter.com/Refugees_Gr/status/1337807118179717120)](../assets/6ea7047262b8/1*exiHxNKKRL5drL8qIMEKtQ.jpeg)
 
 Photos via [NoBorders](https://twitter.com/Refugees_Gr/status/1337807118179717120)
 
 
-![Photo via [ABR](https://www.facebook.com/AegeanBoatReport/photos/pcb.989756328214138/989756268214144)](assets/6ea7047262b8/1*pNTho5EzVAUKdb99FJs8Kg.jpeg)
+![Photo via [ABR](https://www.facebook.com/AegeanBoatReport/photos/pcb.989756328214138/989756268214144)](../assets/6ea7047262b8/1*pNTho5EzVAUKdb99FJs8Kg.jpeg)
 
 Photo via [ABR](https://www.facebook.com/AegeanBoatReport/photos/pcb.989756328214138/989756268214144)
 
 Rain does not stop life inside the camp\. Residents keep having to queue for food and carry on their solidarity initiatives\.
 
 
-![Photo via [Daphne Tolis](https://twitter.com/daphnetoli/status/1338122818660208641/photo/1)](assets/6ea7047262b8/1*YQApUeR1-S4D-VusBFUc5Q.jpeg)
+![Photo via [Daphne Tolis](https://twitter.com/daphnetoli/status/1338122818660208641/photo/1)](../assets/6ea7047262b8/1*YQApUeR1-S4D-VusBFUc5Q.jpeg)
 
 Photo via [Daphne Tolis](https://twitter.com/daphnetoli/status/1338122818660208641/photo/1)
 
@@ -161,18 +161,18 @@ On Sunday, [Moria White Helmets](https://www.facebook.com/MoriaWhiteHelmets/) re
 Dunya Collective have reported on a new unexploded ordnance found in the soil of the camp, “washed free by heavy rain”\.
 
 
-![](assets/6ea7047262b8/1*BQnzPQOrnKwJ5eWudRq5Qg.jpeg)
+![](../assets/6ea7047262b8/1*BQnzPQOrnKwJ5eWudRq5Qg.jpeg)
 
 
 
-![[\(1\)](https://twitter.com/DunyaCollective/status/1337714295304544256) “An old mortar shell found in [\#Moria2](https://twitter.com/hashtag/Moria2?src=hashtag_click) by a refugee in the green zone\. Washed free by heavy rain\. This is why the government doesn’t want pictures from inside the camp\. This place is neither humane nor safe\. The police have been informed\.” — [\(2\)](https://twitter.com/DunyaCollective/status/1337781384929271808) “Update: This is the green zone of [\#Moria2](https://twitter.com/hashtag/Moria2?src=hashtag_click) where the mortar shell was found\. We do not know if the mortar shell has been removed\. Camp residents have only told us that the police have been informed in the morning\.” \( [Dunya Collective](https://twitter.com/DunyaCollective) \)](assets/6ea7047262b8/1*WKk6uavLKA8-HzZ9SfCzXQ.jpeg)
+![[\(1\)](https://twitter.com/DunyaCollective/status/1337714295304544256) “An old mortar shell found in [\#Moria2](https://twitter.com/hashtag/Moria2?src=hashtag_click) by a refugee in the green zone\. Washed free by heavy rain\. This is why the government doesn’t want pictures from inside the camp\. This place is neither humane nor safe\. The police have been informed\.” — [\(2\)](https://twitter.com/DunyaCollective/status/1337781384929271808) “Update: This is the green zone of [\#Moria2](https://twitter.com/hashtag/Moria2?src=hashtag_click) where the mortar shell was found\. We do not know if the mortar shell has been removed\. Camp residents have only told us that the police have been informed in the morning\.” \( [Dunya Collective](https://twitter.com/DunyaCollective) \)](../assets/6ea7047262b8/1*WKk6uavLKA8-HzZ9SfCzXQ.jpeg)
 
 [\(1\)](https://twitter.com/DunyaCollective/status/1337714295304544256) “An old mortar shell found in [\#Moria2](https://twitter.com/hashtag/Moria2?src=hashtag_click) by a refugee in the green zone\. Washed free by heavy rain\. This is why the government doesn’t want pictures from inside the camp\. This place is neither humane nor safe\. The police have been informed\.” — [\(2\)](https://twitter.com/DunyaCollective/status/1337781384929271808) “Update: This is the green zone of [\#Moria2](https://twitter.com/hashtag/Moria2?src=hashtag_click) where the mortar shell was found\. We do not know if the mortar shell has been removed\. Camp residents have only told us that the police have been informed in the morning\.” \( [Dunya Collective](https://twitter.com/DunyaCollective) \)
 
 The deprivation of basic rights for people on the move is far from being only a Greek problem, but it appears to be engraved in European migration policies, in their attempt to convince people to “voluntarily” return to their home countries\. At another EU border, in Velika Kladusa, Bosnia and Herzegovina, the [situation](https://www.facebook.com/groups/2379336965459224/permalink/3679113638814877/) is not better:
 
 
-![[Photo by Srdjan Govedarica](https://www.facebook.com/groups/2379336965459224/permalink/3679113638814877/)](assets/6ea7047262b8/1*w_GhW-0-92gtG6528NmO-w.jpeg)
+![[Photo by Srdjan Govedarica](https://www.facebook.com/groups/2379336965459224/permalink/3679113638814877/)](../assets/6ea7047262b8/1*w_GhW-0-92gtG6528NmO-w.jpeg)
 
 [Photo by Srdjan Govedarica](https://www.facebook.com/groups/2379336965459224/permalink/3679113638814877/)
 
@@ -186,11 +186,11 @@ The deprivation of basic rights for people on the move is far from being only a 
 Volunteers from [SOS Balkanroute](https://www.facebook.com/SOSBalkanroute) distribute food, clothes and shoes to the people, but they have to do it in secret for fear of attacks by local authorities and local xenophobic groups\.
 
 
-![](assets/6ea7047262b8/1*lOAS45AYYJTLaQV1Go0W6g.jpeg)
+![](../assets/6ea7047262b8/1*lOAS45AYYJTLaQV1Go0W6g.jpeg)
 
 
 
-![[Photo by Srdjan Govedarica](https://www.facebook.com/groups/2379336965459224/permalink/3679113638814877/)](assets/6ea7047262b8/1*n02eSKHJbejc4beLdb1B9w.jpeg)
+![[Photo by Srdjan Govedarica](https://www.facebook.com/groups/2379336965459224/permalink/3679113638814877/)](../assets/6ea7047262b8/1*n02eSKHJbejc4beLdb1B9w.jpeg)
 
 [Photo by Srdjan Govedarica](https://www.facebook.com/groups/2379336965459224/permalink/3679113638814877/)
 
@@ -206,42 +206,42 @@ Spanish media have [reported](https://elpais.com/espana/2020-12-13/la-cruz-roja-
 In northern France makeshift camps are constantly evicted by the police, forcing people to hide in the forests, far from towns and access to any services\.
 
 
-![](assets/6ea7047262b8/1*1fQm1I5gce2KV0YPy0Uiew.jpeg)
+![](../assets/6ea7047262b8/1*1fQm1I5gce2KV0YPy0Uiew.jpeg)
 
 
 
-![](assets/6ea7047262b8/1*GP7abfi6Wb6ArqeC3cJ-wA.jpeg)
+![](../assets/6ea7047262b8/1*GP7abfi6Wb6ArqeC3cJ-wA.jpeg)
 
 
 
-![](assets/6ea7047262b8/1*voa2QS_PSzQQAdWzH5XIXg.jpeg)
+![](../assets/6ea7047262b8/1*voa2QS_PSzQQAdWzH5XIXg.jpeg)
 
 
 
-![](assets/6ea7047262b8/1*8zvYzri0m3cKFKkK03F2_g.jpeg)
+![](../assets/6ea7047262b8/1*8zvYzri0m3cKFKkK03F2_g.jpeg)
 
 
 
-![](assets/6ea7047262b8/1*kqmErg3jeY6l2HJHTuZXxA.jpeg)
+![](../assets/6ea7047262b8/1*kqmErg3jeY6l2HJHTuZXxA.jpeg)
 
 
 
-![](assets/6ea7047262b8/1*-vG0sXRw_o89cXJWKp98_Q.jpeg)
+![](../assets/6ea7047262b8/1*-vG0sXRw_o89cXJWKp98_Q.jpeg)
 
 
 
-![](assets/6ea7047262b8/1*j-tixomUVQZvJh78ZEe2GQ.jpeg)
+![](../assets/6ea7047262b8/1*j-tixomUVQZvJh78ZEe2GQ.jpeg)
 
 
 
-![A photo story from the Dunkirk ‘jungle’ \(Photo Credit: [Lagkadikia Camqu Hama](https://www.facebook.com/groups/172900819749383/user/100036102046655/?__cft__[0]=AZXLDxsyUIBFhhcwBU-7-WgUCWP076zZlX14GDZvxzC-Oyhukm3xYMFJgc48m2mGLU6OpBqHJ-EVW-vT9HyjwG5zJvS0G1kZXBTdSL7zSh10TZtX2o4KAJ0I2T4yis_nwrILTjc127dTkeTz7se2xlqzOr9FmU0g9fXQeXzycfRd_w&__tn__=-]C%2CP-R) via [Utopia 56](https://www.facebook.com/groups/172900819749383/permalink/1277766752596112/) \)](assets/6ea7047262b8/1*Pv5kOv8ZJZakDAUy5SI6Yw.jpeg)
+![A photo story from the Dunkirk ‘jungle’ \(Photo Credit: [Lagkadikia Camqu Hama](https://www.facebook.com/groups/172900819749383/user/100036102046655/?__cft__[0]=AZXLDxsyUIBFhhcwBU-7-WgUCWP076zZlX14GDZvxzC-Oyhukm3xYMFJgc48m2mGLU6OpBqHJ-EVW-vT9HyjwG5zJvS0G1kZXBTdSL7zSh10TZtX2o4KAJ0I2T4yis_nwrILTjc127dTkeTz7se2xlqzOr9FmU0g9fXQeXzycfRd_w&__tn__=-]C%2CP-R) via [Utopia 56](https://www.facebook.com/groups/172900819749383/permalink/1277766752596112/) \)](../assets/6ea7047262b8/1*Pv5kOv8ZJZakDAUy5SI6Yw.jpeg)
 
 A photo story from the Dunkirk ‘jungle’ \(Photo Credit: [Lagkadikia Camqu Hama](https://www.facebook.com/groups/172900819749383/user/100036102046655/?__cft__[0]=AZXLDxsyUIBFhhcwBU-7-WgUCWP076zZlX14GDZvxzC-Oyhukm3xYMFJgc48m2mGLU6OpBqHJ-EVW-vT9HyjwG5zJvS0G1kZXBTdSL7zSh10TZtX2o4KAJ0I2T4yis_nwrILTjc127dTkeTz7se2xlqzOr9FmU0g9fXQeXzycfRd_w&__tn__=-]C%2CP-R) via [Utopia 56](https://www.facebook.com/groups/172900819749383/permalink/1277766752596112/) \)
 
 [L’Auberge des Migrants](https://www.facebook.com/AubergeMigrants/?__cft__[0]=AZUFV8oVBdh4zhgnCd36hMBuTngCCke3DtY-FHB09KoH3z7I6VMlFVGnUPuQjM1t4CHTNlsXNhZS62sX1_eEP5RMLfIa0lObt2HfTsa7_1cTFyN5W7cLuPtkntFnyt_fit7b-w7QSrgnmBdwoFBDqFNh&__tn__=-UC%2CP-R) reported on further evictions on Friday\. 8 ‘riot police’ \(CRS\) vans, vehicles and officers from the national police, border police \(PAF\), civil protection and buses evicted many people from different locations, and destroyed and confiscated tents, sleeping bags and personal belongings\.
 
 
-![\(Photo Credit: [L’Auberge des Migrants](https://www.facebook.com/AubergeMigrants/?__cft__[0]=AZUFV8oVBdh4zhgnCd36hMBuTngCCke3DtY-FHB09KoH3z7I6VMlFVGnUPuQjM1t4CHTNlsXNhZS62sX1_eEP5RMLfIa0lObt2HfTsa7_1cTFyN5W7cLuPtkntFnyt_fit7b-w7QSrgnmBdwoFBDqFNh&__tn__=-UC%2CP-R) \)](assets/6ea7047262b8/1*5xnLO-mBGU6AmmA2O0R2uw.jpeg)
+![\(Photo Credit: [L’Auberge des Migrants](https://www.facebook.com/AubergeMigrants/?__cft__[0]=AZUFV8oVBdh4zhgnCd36hMBuTngCCke3DtY-FHB09KoH3z7I6VMlFVGnUPuQjM1t4CHTNlsXNhZS62sX1_eEP5RMLfIa0lObt2HfTsa7_1cTFyN5W7cLuPtkntFnyt_fit7b-w7QSrgnmBdwoFBDqFNh&__tn__=-UC%2CP-R) \)](../assets/6ea7047262b8/1*5xnLO-mBGU6AmmA2O0R2uw.jpeg)
 
 \(Photo Credit: [L’Auberge des Migrants](https://www.facebook.com/AubergeMigrants/?__cft__[0]=AZUFV8oVBdh4zhgnCd36hMBuTngCCke3DtY-FHB09KoH3z7I6VMlFVGnUPuQjM1t4CHTNlsXNhZS62sX1_eEP5RMLfIa0lObt2HfTsa7_1cTFyN5W7cLuPtkntFnyt_fit7b-w7QSrgnmBdwoFBDqFNh&__tn__=-UC%2CP-R) \)
 
@@ -340,7 +340,7 @@ ALBANIA
 There are [reports](https://www.facebook.com/Ishtarforimmigrationandasylum/posts/3450010665106188) of continued but non violent pushbacks from Albania to Greece and the use of thermal imaging cameras by Frontex at the border\.
 
 
-![\(Photo Credit: [عشتار للهجرة واللجوء](https://www.facebook.com/Ishtarforimmigrationandasylum/?__cft__[0]=AZWh03WtsK6wVPumRPQ6NoBpw3UEAloJh4BRMd6oyyB3eVqghG9gtl41eRBcZjcSn3esIllG47oIKJVxuJYuKCZKFTs02H6JIvlhfS0vhwBNDJ7SuLdbsMllQm3Sg48KJhO3RxX4PkzbeZpry83t_sF1&__tn__=-UC%2CP-R) \)](assets/6ea7047262b8/1*lro84fbfZSo8WqFzKTDHYQ.jpeg)
+![\(Photo Credit: [عشتار للهجرة واللجوء](https://www.facebook.com/Ishtarforimmigrationandasylum/?__cft__[0]=AZWh03WtsK6wVPumRPQ6NoBpw3UEAloJh4BRMd6oyyB3eVqghG9gtl41eRBcZjcSn3esIllG47oIKJVxuJYuKCZKFTs02H6JIvlhfS0vhwBNDJ7SuLdbsMllQm3Sg48KJhO3RxX4PkzbeZpry83t_sF1&__tn__=-UC%2CP-R) \)](../assets/6ea7047262b8/1*lro84fbfZSo8WqFzKTDHYQ.jpeg)
 
 \(Photo Credit: [عشتار للهجرة واللجوء](https://www.facebook.com/Ishtarforimmigrationandasylum/?__cft__[0]=AZWh03WtsK6wVPumRPQ6NoBpw3UEAloJh4BRMd6oyyB3eVqghG9gtl41eRBcZjcSn3esIllG47oIKJVxuJYuKCZKFTs02H6JIvlhfS0vhwBNDJ7SuLdbsMllQm3Sg48KJhO3RxX4PkzbeZpry83t_sF1&__tn__=-UC%2CP-R) \)
 
@@ -349,7 +349,7 @@ SERBIA
 **Continued police hostility towards solidarity volunteers**
 
 
-![\(Photo Credit: [NNK](https://www.facebook.com/NoNameKitchenBelgrade/posts/1142714632793486) , photo of a police control incident from earlier in the week\)](assets/6ea7047262b8/1*uY_3OnpJ42b5btdrZjUabw.jpeg)
+![\(Photo Credit: [NNK](https://www.facebook.com/NoNameKitchenBelgrade/posts/1142714632793486) , photo of a police control incident from earlier in the week\)](../assets/6ea7047262b8/1*uY_3OnpJ42b5btdrZjUabw.jpeg)
 
 \(Photo Credit: [NNK](https://www.facebook.com/NoNameKitchenBelgrade/posts/1142714632793486) , photo of a police control incident from earlier in the week\)
 

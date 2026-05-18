@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 04/10/17: Situation deteriorating in the north of Italy
+title: "AYS Daily Digest 04/10/17: Situation deteriorating in the north of Italy"
 author: Are You Syrious?
 date: 2017-10-05T02:26:05.551+0100
 last_modified_at: 2017-10-05T13:01:13.324+0100
@@ -7,14 +7,14 @@ categories:
 tags: [europe,italy,greece,refugees,uk]
 description: Call for help from Italian volunteers / Some camps in Greece still in tents ahead of winter / MSF report on border violence by EU police /…
 image:
-  path: assets/67b8c1b6bd93/1*VzlN_pULffRad6RDazmitw.jpeg
+  path: ../assets/67b8c1b6bd93/1*VzlN_pULffRad6RDazmitw.jpeg
 ---
 
 ### AYS Daily Digest 04/10/17: Situation deteriorating in the north of Italy
 #### _Call for help from Italian volunteers / Some camps in Greece still in tents ahead of winter / MSF report on border violence by EU police / AYS meets representatives of EC over report on illegal practices of Croatian authorities / Calls for donations and volunteers_
 
 
-![Gorizia \(Photo by [Serena Visintin](https://www.facebook.com/profile.php?id=100013155397152&fref=gs&hc_location=group_dialog) \)](assets/67b8c1b6bd93/1*VzlN_pULffRad6RDazmitw.jpeg)
+![Gorizia \(Photo by [Serena Visintin](https://www.facebook.com/profile.php?id=100013155397152&fref=gs&hc_location=group_dialog) \)](../assets/67b8c1b6bd93/1*VzlN_pULffRad6RDazmitw.jpeg)
 
 Gorizia \(Photo by [Serena Visintin](https://www.facebook.com/profile.php?id=100013155397152&fref=gs&hc_location=group_dialog) \)
 ### FEATURE: Situation deteriorating in the north of Italy
@@ -79,15 +79,15 @@ Unfortunately, according to our sources, most of the pathological problems like 
 [L’ ALTRA VOCE](https://www.facebook.com/L-ALTRA-VOCE-1245970425495921/?hc_ref=ART0TVSNCwlJNfN-B55se_ijLoyc1d8WmWmttG2uQPGyGp1UrFTRJIKoKPDG8FArEOA&fref=nf) is one of the volunteer groups active in the area\. There is also an available [network list of links](https://www.facebook.com/groups/1834254390190027/?fref=gc&dti=982554681802511&hc_location=ufi) to groups for refugee help in the Friuli region and a number of other initiatives\. If you are able to help, please contact the local volunteers to coordinate the help so that any action would be as effective as possible\.
 
 
-![](assets/67b8c1b6bd93/1*phlZNlV2WYr7y0bVPoc5cg.jpeg)
+![](../assets/67b8c1b6bd93/1*phlZNlV2WYr7y0bVPoc5cg.jpeg)
 
 
 
-![](assets/67b8c1b6bd93/1*UTMGpvT5E-qAXpP_QmUvSw.jpeg)
+![](../assets/67b8c1b6bd93/1*UTMGpvT5E-qAXpP_QmUvSw.jpeg)
 
 
 
-![\(Photo by uncredited volunteers\)](assets/67b8c1b6bd93/1*zPq7PG2a1mdJ-s0V_gSpvg.jpeg)
+![\(Photo by uncredited volunteers\)](../assets/67b8c1b6bd93/1*zPq7PG2a1mdJ-s0V_gSpvg.jpeg)
 
 \(Photo by uncredited volunteers\)
 #### LIBYA
@@ -111,7 +111,7 @@ So refugees are all crammed way outside of town; existing resources all remain i
 Meanwhile arrivals continue\.”
 
 
-![\(Screenshot from a video by CESRT\)](assets/67b8c1b6bd93/1*W6rJCmEjyqgLimZrHUk53g.jpeg)
+![\(Screenshot from a video by CESRT\)](../assets/67b8c1b6bd93/1*W6rJCmEjyqgLimZrHUk53g.jpeg)
 
 \(Screenshot from a video by CESRT\)
 ### Derveni: ahead of another winter under tents

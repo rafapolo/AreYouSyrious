@@ -5,9 +5,9 @@ date: 2019-11-08T11:26:55.113+0000
 last_modified_at: 2019-11-08T11:26:55.113+0000
 categories: Are You Syrious?
 tags: [refugees,digest,paris,deportations,macron]
-description: Tougher measures for asylum seekers voted by French Parliament /// Moria: worse place for rights in Europe /// More right-wing demos in…
+description: "Tougher measures for asylum seekers voted by French Parliament /// Moria: worse place for rights in Europe /// More right-wing demos in…"
 image:
-  path: assets/e3c5d9ae0b8a/1*I4qL84Dg_UtE7jw4ytSYIg.jpeg
+  path: ../assets/e3c5d9ae0b8a/1*I4qL84Dg_UtE7jw4ytSYIg.jpeg
 ---
 
 ### AYS Daily Digest 7/11/2019 — 1,600 people evicted in Paris
@@ -15,7 +15,7 @@ image:
 Tougher measures for asylum seekers voted by French Parliament /// Moria: worse place for rights in Europe /// More right\-wing demos in Greece /// Deportations to Afghanistan from Germany reach 758 /// Updates from Bosnia /// EU to offer 50 million € to Turkish Coast Guard
 
 
-![Eviction in Avenue Wilson, St\.Denis, Paris \(Photo by [Anne Pak](https://www.facebook.com/anne.paq.7/posts/2407594612839809) , Activestills\.org\)](assets/e3c5d9ae0b8a/1*I4qL84Dg_UtE7jw4ytSYIg.jpeg)
+![Eviction in Avenue Wilson, St\.Denis, Paris \(Photo by [Anne Pak](https://www.facebook.com/anne.paq.7/posts/2407594612839809) , Activestills\.org\)](../assets/e3c5d9ae0b8a/1*I4qL84Dg_UtE7jw4ytSYIg.jpeg)
 
 Eviction in Avenue Wilson, St\.Denis, Paris \(Photo by [Anne Pak](https://www.facebook.com/anne.paq.7/posts/2407594612839809) , Activestills\.org\)
 #### FEATURE STORY — On the day France introduces tougher measures for asylum seekers, 1,600 people are evicted from two makeshift camps in Paris
@@ -38,7 +38,7 @@ L'évacuation du campement s'est déroulée ce matin. Depuis 2015, environ 40 op
 Solidarité migrants Wilson [report](https://www.facebook.com/permalink.php?story_fbid=1270804153120354&id=598228360377940&__tn__=K-R) that on Thursday a large contingent of police units arrived to evict the camp in avenue Wilson, in Saint Denis\. The eviction was [announced](https://www.facebook.com/anne.paq.7/posts/2407594612839809) one day earlier\. Police was ordered to throw away and destroy all tents\. One local volunteers said that when she saw the scene, she started to cry and was told by a police officer: “but what is it, lady, are you crying? This neighbourhood\! It’s not possible\. Everyone is crying this morning\!”\. Welcome to avenue Wilson\!
 
 
-![Eviction in Avenue Wilson, St\.Denis, Paris \(Photo by [Anne Pak](https://www.facebook.com/anne.paq.7/posts/2407594612839809) , Activestills\.org\)](assets/e3c5d9ae0b8a/1*Zze_75ca9xIIxKn34sDGMA.jpeg)
+![Eviction in Avenue Wilson, St\.Denis, Paris \(Photo by [Anne Pak](https://www.facebook.com/anne.paq.7/posts/2407594612839809) , Activestills\.org\)](../assets/e3c5d9ae0b8a/1*Zze_75ca9xIIxKn34sDGMA.jpeg)
 
 Eviction in Avenue Wilson, St\.Denis, Paris \(Photo by [Anne Pak](https://www.facebook.com/anne.paq.7/posts/2407594612839809) , Activestills\.org\)
 
@@ -55,11 +55,11 @@ But not everyone was crying: Some residents of the area actively [cooperated](ht
 Most people were boarded on buses to gyms for temporary shelter\. Authorities reportedly promised that the situations of each migrant/refugee would not be verified, but it leaves some activists skeptical\.
 
 
-![](assets/e3c5d9ae0b8a/1*yiytHzFP2NRVqHU48z1p4g.jpeg)
+![](../assets/e3c5d9ae0b8a/1*yiytHzFP2NRVqHU48z1p4g.jpeg)
 
 
 
-![Eviction in Avenue Wilson, St\.Denis, Paris \(Photo by [Anne Pak](https://www.facebook.com/anne.paq.7/posts/2407594612839809) , Activestills\.org\)](assets/e3c5d9ae0b8a/1*_Zc3a28-pnTar7kQDVFogg.jpeg)
+![Eviction in Avenue Wilson, St\.Denis, Paris \(Photo by [Anne Pak](https://www.facebook.com/anne.paq.7/posts/2407594612839809) , Activestills\.org\)](../assets/e3c5d9ae0b8a/1*_Zc3a28-pnTar7kQDVFogg.jpeg)
 
 Eviction in Avenue Wilson, St\.Denis, Paris \(Photo by [Anne Pak](https://www.facebook.com/anne.paq.7/posts/2407594612839809) , Activestills\.org\)
 
@@ -120,15 +120,15 @@ BOSNIA AND HERZEGOVINA
 #### Situation in Tuzla deteriorates as heavy rains arrive
 
 
-![](assets/e3c5d9ae0b8a/1*72EFYZXRHPhW62fH5M-Z9Q.jpeg)
+![](../assets/e3c5d9ae0b8a/1*72EFYZXRHPhW62fH5M-Z9Q.jpeg)
 
 
 
-![](assets/e3c5d9ae0b8a/1*G-jp_lgdZ5aiBpzlWuYeWA.jpeg)
+![](../assets/e3c5d9ae0b8a/1*G-jp_lgdZ5aiBpzlWuYeWA.jpeg)
 
 
 
-![Tuzla \(Photo Credit: [Stefan von Ortenburg](https://www.facebook.com/stefan.vonortenburg?__tn__=%2Cd%2AF%2AF-R&eid=ARBsIh7YwPSLvisDczyA01olrILlJzs8xkBxuMLDil98K2TJ4-fEWRHp8ot6m4J92pqEFP54oHnjc4yf&tn-str=%2AF&hc_location=group_dialog) \)](assets/e3c5d9ae0b8a/1*-1nk6pE0JntU2W3FolNn8g.jpeg)
+![Tuzla \(Photo Credit: [Stefan von Ortenburg](https://www.facebook.com/stefan.vonortenburg?__tn__=%2Cd%2AF%2AF-R&eid=ARBsIh7YwPSLvisDczyA01olrILlJzs8xkBxuMLDil98K2TJ4-fEWRHp8ot6m4J92pqEFP54oHnjc4yf&tn-str=%2AF&hc_location=group_dialog) \)](../assets/e3c5d9ae0b8a/1*-1nk6pE0JntU2W3FolNn8g.jpeg)
 
 Tuzla \(Photo Credit: [Stefan von Ortenburg](https://www.facebook.com/stefan.vonortenburg?__tn__=%2Cd%2AF%2AF-R&eid=ARBsIh7YwPSLvisDczyA01olrILlJzs8xkBxuMLDil98K2TJ4-fEWRHp8ot6m4J92pqEFP54oHnjc4yf&tn-str=%2AF&hc_location=group_dialog) \)
 #### Fights in [**Vučjak**](https://translate.googleusercontent.com/translate_c?depth=1&rurl=translate.google.com&sl=auto&sp=nmt4&tl=en&u=https://avaz.ba/tag/69081/vucjak&xid=17259,15700021,15700186,15700190,15700256,15700259,15700262,15700265,15700271,15700280,15700283&usg=ALkJrhiTdduRrf94uLZt38z8R0N5lYz1Ug)

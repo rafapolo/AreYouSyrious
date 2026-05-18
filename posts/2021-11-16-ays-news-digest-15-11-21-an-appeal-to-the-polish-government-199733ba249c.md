@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 15/11/21: An appeal to the Polish government
+title: "AYS News Digest 15/11/21: An appeal to the Polish government"
 author: Are You Syrious?
 date: 2021-11-16T18:29:01.040+0000
 last_modified_at: 2021-11-16T18:29:01.040+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [digest,belarus,refugees,europe,human-rights]
 description: Activists to the politicians / reports from the border / news from the SAR missions & more
 image:
-  path: assets/199733ba249c/1*NNNVpaLQZA81JJByHWcopg.jpeg
+  path: ../assets/199733ba249c/1*NNNVpaLQZA81JJByHWcopg.jpeg
 ---
 
 ### AYS News Digest 15/11/21: An appeal to the Polish government
 #### Activists to the politicians / reports from the border / news from the SAR missions & more
 
 
-![](assets/199733ba249c/1*NNNVpaLQZA81JJByHWcopg.jpeg)
+![](../assets/199733ba249c/1*NNNVpaLQZA81JJByHWcopg.jpeg)
 
 #### FEATURED
 
@@ -31,12 +31,12 @@ Among them, there are a few hundred children, women, elderly people and people w
 Due to the halt of people coming through the Belarus route, we DEMAND and kindly REQUEST you at the same time to allow people to enter Poland and apply for asylum\. Please help them\! Please do not hurt refugees\! They have already been through a terrible journey escaping war and persecution from their homes in Syria, Iraq and Afghanistan\. They deserve humane treatment with our support and dignity\. Please do not leave them to die on the borders\. Signed by Polish and international activists from Poland and the EU\.
 
 
-![](assets/199733ba249c/1*mqajtjEEF9BX43qQyMY0LA.jpeg)
+![](../assets/199733ba249c/1*mqajtjEEF9BX43qQyMY0LA.jpeg)
 
 #### THE MEDITERRANEAN
 
 
-![[IOM Libya](https://web.facebook.com/IOMLibya/?__cft__[0]=AZXNbW1vkGJMB9OgvyZlLfdydJOJWsXzraKbgf6GBU0sxHvxMWQthocKAdzZjQBZBuZpxZcpFzrs0abCeznczSLdhVqeOY-BqjEu5RF--8tF4zIrjGWvqNoF6QJVeogY_4MSzwMV0aZ5oPE4b_MULOcvue4t17jQOWzxKhNu7Sf6PRMPw-V0gBLMpj5ZXhkAaTLNhTLVQVcwFYUhToy-B70am-ZIbFtiGA-dAAcdtvJHbQ&__tn__=-UC*F) reports fail to say what happened to the people once they were returned, who returned them and in which capacity, with whose support, but here are their numbers](assets/199733ba249c/1*6TIkpYvFvSSDvqRkwA8fsA.png)
+![[IOM Libya](https://web.facebook.com/IOMLibya/?__cft__[0]=AZXNbW1vkGJMB9OgvyZlLfdydJOJWsXzraKbgf6GBU0sxHvxMWQthocKAdzZjQBZBuZpxZcpFzrs0abCeznczSLdhVqeOY-BqjEu5RF--8tF4zIrjGWvqNoF6QJVeogY_4MSzwMV0aZ5oPE4b_MULOcvue4t17jQOWzxKhNu7Sf6PRMPw-V0gBLMpj5ZXhkAaTLNhTLVQVcwFYUhToy-B70am-ZIbFtiGA-dAAcdtvJHbQ&__tn__=-UC*F) reports fail to say what happened to the people once they were returned, who returned them and in which capacity, with whose support, but here are their numbers](../assets/199733ba249c/1*6TIkpYvFvSSDvqRkwA8fsA.png)
 
 [IOM Libya](https://web.facebook.com/IOMLibya/?__cft__[0]=AZXNbW1vkGJMB9OgvyZlLfdydJOJWsXzraKbgf6GBU0sxHvxMWQthocKAdzZjQBZBuZpxZcpFzrs0abCeznczSLdhVqeOY-BqjEu5RF--8tF4zIrjGWvqNoF6QJVeogY_4MSzwMV0aZ5oPE4b_MULOcvue4t17jQOWzxKhNu7Sf6PRMPw-V0gBLMpj5ZXhkAaTLNhTLVQVcwFYUhToy-B70am-ZIbFtiGA-dAAcdtvJHbQ&__tn__=-UC*F) reports fail to say what happened to the people once they were returned, who returned them and in which capacity, with whose support, but here are their numbers
 
@@ -90,7 +90,7 @@ In the meantime, referring to the latest developments on the outlines of the EU 
 _It has been one year and a half since the border between Spain and Morocco was closed\. One year and a half that nobody can enter or leave Ceuta through the border\._ [NNK](http://No Name Kitchen) reports from the Spanish south:
 
 
-![Photo: Belén Granado](assets/199733ba249c/0*OPY0wbhfogSwnsqU)
+![Photo: Belén Granado](../assets/199733ba249c/0*OPY0wbhfogSwnsqU)
 
 Photo: Belén Granado
 

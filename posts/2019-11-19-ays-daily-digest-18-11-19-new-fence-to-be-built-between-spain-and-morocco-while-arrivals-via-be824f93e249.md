@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 18/11/19: New fence to be built between Spain and Morocco, while arrivals via…
+title: "AYS Daily Digest 18/11/19: New fence to be built between Spain and Morocco, while arrivals via…"
 author: Are You Syrious?
 date: 2019-11-19T01:16:31.803+0000
 last_modified_at: 2019-11-19T11:25:23.805+0000
@@ -7,14 +7,14 @@ categories: Are You Syrious?
 tags: [europe,refugees,digest,borders,morocco]
 description: Horrible accounts from Libya//506 people have been pushed back to Ventimiglia in the last week//Useful information for new asylum seekers…
 image:
-  path: assets/be824f93e249/1*trebT2fBYPhYPCQ2kubKdQ.jpeg
+  path: ../assets/be824f93e249/1*trebT2fBYPhYPCQ2kubKdQ.jpeg
 ---
 
 ### AYS Daily Digest 18/11/19: New fence to be built between Spain and Morocco, while arrivals via land and sea do not stop
 #### Horrible accounts from Libya// 506 people have been pushed back to Ventimiglia in the last week// Useful information for new asylum seekers in Ireland// Arrivals via inflatable boats to the UK// New deportations from the UK// Donations needed in Paris// NGOs at sea are no pull factor for departures…
 
 
-![Credit: NADOR NEW\.](assets/be824f93e249/1*trebT2fBYPhYPCQ2kubKdQ.jpeg)
+![Credit: NADOR NEW\.](../assets/be824f93e249/1*trebT2fBYPhYPCQ2kubKdQ.jpeg)
 
 Credit: NADOR NEW\.
 #### **FEATURED**
@@ -75,19 +75,19 @@ BOSNIA i HERZEGOVINA
 #### Postcards from Ključ, Una Sana canton…
 
 
-![](assets/be824f93e249/1*qaSJ5Nhlxyx_4CfasHfLZQ.jpeg)
+![](../assets/be824f93e249/1*qaSJ5Nhlxyx_4CfasHfLZQ.jpeg)
 
 
 
-![](assets/be824f93e249/1*B59xXbiRxJHtIpxRzO15gw.jpeg)
+![](../assets/be824f93e249/1*B59xXbiRxJHtIpxRzO15gw.jpeg)
 
 
 
-![](assets/be824f93e249/1*5cFU4wYLgdFS2KVsKa2Q5w.jpeg)
+![](../assets/be824f93e249/1*5cFU4wYLgdFS2KVsKa2Q5w.jpeg)
 
 
 
-![Credit: Sanella Lepirica\.](assets/be824f93e249/1*6YSeH-bgoOnO-f-HnDuGIQ.jpeg)
+![Credit: Sanella Lepirica\.](../assets/be824f93e249/1*6YSeH-bgoOnO-f-HnDuGIQ.jpeg)
 
 Credit: Sanella Lepirica\.
 
@@ -158,7 +158,7 @@ Register through [this form](https://docs.google.com/forms/d/e/1FAIpQLScDfXwktSR
 A newly published study has found **no evidence of the relation between the number of people trying to cross the Mediterranean and the presence of NGOs at sea** \. More likely, the research suggests that the major factors influencing the departures are related to weather conditions, the instability of the political situation in Libya and the containment policies adopted by Italy and other European countries\.
 
 
-![Daily Irregular Migrants Departures from Libya and NGOs’ SAR Operations \(1 January — 27 October 2019\) \. Credit: E\. Cusumano, M\. Villa\.](assets/be824f93e249/1*nF5FuIWLfXnCGkmeZPDE0Q.png)
+![Daily Irregular Migrants Departures from Libya and NGOs’ SAR Operations \(1 January — 27 October 2019\) \. Credit: E\. Cusumano, M\. Villa\.](../assets/be824f93e249/1*nF5FuIWLfXnCGkmeZPDE0Q.png)
 
 Daily Irregular Migrants Departures from Libya and NGOs’ SAR Operations \(1 January — 27 October 2019\) \. Credit: E\. Cusumano, M\. Villa\.
 

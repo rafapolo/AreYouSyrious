@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 13/08/17: Uncertain future NGO activities off Libyan shores
+title: "AYS Daily Digest 13/08/17: Uncertain future NGO activities off Libyan shores"
 author: Are You Syrious?
 date: 2017-08-14T00:24:54.453+0100
 last_modified_at: 2017-08-29T15:52:26.283+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees,refugeeswelcome,mediterranean,libya,european-union]
 description: MSF and Sea Eye suspend activities off Libyan shores / Softex camp officially closed / Increased crossings on the Turkish-Bulgarian border…
 image:
-  path: assets/8412ad558266/1*1fmWi5_pRKl44lFZxa7W_A.jpeg
+  path: ../assets/8412ad558266/1*1fmWi5_pRKl44lFZxa7W_A.jpeg
 ---
 
 ### AYS Daily Digest 13/08/17: Uncertain future NGO activities off Libyan shores
@@ -64,11 +64,11 @@ Borderfree Association reported from Pirot camp:
 
 
 
-![](assets/8412ad558266/1*HApnZFh5tCfQYIgeGvGeLA.jpeg)
+![](../assets/8412ad558266/1*HApnZFh5tCfQYIgeGvGeLA.jpeg)
 
 
 
-![[**Borderfree Association**](https://www.facebook.com/borderfreeassociation/?hc_ref=ARSEWi3hPUkDjssOnQ1Dr42ffRZqsyFWAJdIwEy07nAq1jyw2mSSEU7cjewPKGl3AZY)](assets/8412ad558266/1*paK-wMTeOkCzmB4y06C75A.jpeg)
+![[**Borderfree Association**](https://www.facebook.com/borderfreeassociation/?hc_ref=ARSEWi3hPUkDjssOnQ1Dr42ffRZqsyFWAJdIwEy07nAq1jyw2mSSEU7cjewPKGl3AZY)](../assets/8412ad558266/1*paK-wMTeOkCzmB4y06C75A.jpeg)
 
 [**Borderfree Association**](https://www.facebook.com/borderfreeassociation/?hc_ref=ARSEWi3hPUkDjssOnQ1Dr42ffRZqsyFWAJdIwEy07nAq1jyw2mSSEU7cjewPKGl3AZY)
 #### BULGARIA
@@ -82,19 +82,19 @@ A court in Germany convicted three Syrian men aged 24, 27 and 34 over the drowni
 There are about 800 refugees stuck at the Italian\-French border in Ventimiglia, and are being cared for every day by civilian society\. Elderly and young volunteers from Royal Valley, France, England, Bremen, Germany, Boy\-Scouts from from Roma and even some Austrians\.
 
 
-![](assets/8412ad558266/1*RG-gRQBu78aXH_NwswbwAg.jpeg)
+![](../assets/8412ad558266/1*RG-gRQBu78aXH_NwswbwAg.jpeg)
 
 
 
-![](assets/8412ad558266/1*YRm74R_oQuO3mwIxb4KHqw.jpeg)
+![](../assets/8412ad558266/1*YRm74R_oQuO3mwIxb4KHqw.jpeg)
 
 
 
-![](assets/8412ad558266/1*gQxvniAMjQ6USkeCl4dhaw.jpeg)
+![](../assets/8412ad558266/1*gQxvniAMjQ6USkeCl4dhaw.jpeg)
 
 
 
-![Local volunteer photos](assets/8412ad558266/1*1fmWi5_pRKl44lFZxa7W_A.jpeg)
+![Local volunteer photos](../assets/8412ad558266/1*1fmWi5_pRKl44lFZxa7W_A.jpeg)
 
 Local volunteer photos
 #### Ventimiglia
@@ -194,11 +194,11 @@ Care4Calais compared some issues refugees are facing in Paris and Calais\. A rec
 People are continuing to gather in Stockholm despite the rain, in support of refugees many of whom are sleeping on the streets while applications of over half of the Afghan refugees seeking asylum in Sweden are denied\. Volunteers are coordinating different forms of help\.
 
 
-![](assets/8412ad558266/1*gfyOMZp-at3_xy7X1X0gtg.jpeg)
+![](../assets/8412ad558266/1*gfyOMZp-at3_xy7X1X0gtg.jpeg)
 
 
 
-![AYS volunteer photos](assets/8412ad558266/1*NhmhHeaiaUnMDulwRrkz5g.jpeg)
+![AYS volunteer photos](../assets/8412ad558266/1*NhmhHeaiaUnMDulwRrkz5g.jpeg)
 
 AYS volunteer photos
 

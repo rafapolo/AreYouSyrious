@@ -1,5 +1,5 @@
 ---
-title: AYS Daily Digest 16/07/17: News of police violence in Croatia and France
+title: "AYS Daily Digest 16/07/17: News of police violence in Croatia and France"
 author: Are You Syrious?
 date: 2017-07-17T05:29:32.912+0100
 last_modified_at: 2017-07-17T10:26:11.078+0100
@@ -7,7 +7,7 @@ categories:
 tags: [refugees]
 description: French police violence acting as a ‘push factor’ to the UK / Police violence along the Croatian border continues / Passengers in Barcelona…
 image:
-  path: assets/e3ec439c6a39/1*Twto7nigirm7pGmqbyCWFQ.png
+  path: ../assets/e3ec439c6a39/1*Twto7nigirm7pGmqbyCWFQ.png
 ---
 
 ### AYS Daily Digest 16/07/17: News of police violence in Croatia and France
@@ -15,7 +15,7 @@ image:
 _French police violence acting as a ‘push factor’ to the UK / Police violence along the Croatian border continues / Passengers in Barcelona try to prevent deportations / Donations needed in Calais / And more news…_
 
 
-![A scene in Serbia\. \(Photo by No Name Kitchen\)](assets/e3ec439c6a39/1*Twto7nigirm7pGmqbyCWFQ.png)
+![A scene in Serbia\. \(Photo by No Name Kitchen\)](../assets/e3ec439c6a39/1*Twto7nigirm7pGmqbyCWFQ.png)
 
 A scene in Serbia\. \(Photo by No Name Kitchen\)
 ### CROATIA
@@ -63,7 +63,7 @@ The group says this violence is pushing children across the Channel and conclude
 #### Two evictions in the last seven days
 
 
-![\(Photo by Dunkirk Refugee Women’s Centre\)](assets/e3ec439c6a39/1*pRaT6tf-QxNlSuIpHITPnw.png)
+![\(Photo by Dunkirk Refugee Women’s Centre\)](../assets/e3ec439c6a39/1*pRaT6tf-QxNlSuIpHITPnw.png)
 
 \(Photo by Dunkirk Refugee Women’s Centre\)
 
@@ -73,7 +73,7 @@ In reality police took people’s shelter, food, and clothing leaving the trails
 #### Donations needed for Calais
 
 
-![](assets/e3ec439c6a39/1*vEB5yUEikOMxVUOTUo88ow.png)
+![](../assets/e3ec439c6a39/1*vEB5yUEikOMxVUOTUo88ow.png)
 
 
 Help Refugees is in urgent need of donations\. It says the situation in Calais is not improving and that it cannot provide the 600 people in the region with the absolutely basic necessities for them to survive, be clean, and remain healthy\.
@@ -98,14 +98,14 @@ Here is the [donation link](https://donorsee.com/project/1046) \.
 #### Passengers try to prevent deportation to Senegal
 
 
-![\(Photo by Enough is Enough\)](assets/e3ec439c6a39/1*Z_ioGmhh8sViDTwWuPPmDA.png)
+![\(Photo by Enough is Enough\)](../assets/e3ec439c6a39/1*Z_ioGmhh8sViDTwWuPPmDA.png)
 
 \(Photo by Enough is Enough\)
 
 This Saturday, a group of passengers refused to sit down on a flight leaving Barcelona as they tried to prevent the deportation of a Senegalese citizen\. The flight ended up leaving a few hours later and the man was finally deported\. Enough is Enough says that eleven people were charged over the action\.
 
 
-![](assets/e3ec439c6a39/1*D1gwp3NoNJZ8Xi5BdEIqtg.png)
+![](../assets/e3ec439c6a39/1*D1gwp3NoNJZ8Xi5BdEIqtg.png)
 
 
 

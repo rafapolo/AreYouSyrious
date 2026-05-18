@@ -1,5 +1,5 @@
 ---
-title: AYS News Digest 29.06.2022: Greek Police are using migrants as ‘slaves’ to conduct pushbacks
+title: "AYS News Digest 29.06.2022: Greek Police are using migrants as ‘slaves’ to conduct pushbacks"
 author: Are You Syrious?
 date: 2022-06-30T10:45:17.813+0100
 last_modified_at: 2022-06-30T10:45:17.813+0100
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [digest,newsdigest,eu,pushbacks,humanrights]
 description: Bodies of missing people found in the Libyan desert // Reaction to Deaths at Melilla Border // Protest at Italian detention centre…
 image:
-  path: assets/67dba3dcd6d/0*7H6VY_5ZP0k09aJg
+  path: ../assets/67dba3dcd6d/0*7H6VY_5ZP0k09aJg
 ---
 
 ### AYS News Digest 29\.06\.2022: Greek Police are using migrants as ‘slaves’ to conduct pushbacks
@@ -16,7 +16,7 @@ image:
 ### Greek Police are using migrants as ‘slaves’ to conduct pushbacks
 
 
-![Photo by [Sandro Gonzalez](https://unsplash.com/@sandro?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/greek-flag?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](assets/67dba3dcd6d/0*7H6VY_5ZP0k09aJg)
+![Photo by [Sandro Gonzalez](https://unsplash.com/@sandro?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/greek-flag?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](../assets/67dba3dcd6d/0*7H6VY_5ZP0k09aJg)
 
 Photo by [Sandro Gonzalez](https://unsplash.com/@sandro?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/greek-flag?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
@@ -48,7 +48,7 @@ People from Bangladesh are claiming asylum in Cyprus after [escaping from untrut
 #### Protest against camp closure
 
 
-![Photo Credit: [RSA on Twitter](https://twitter.com/rspaegean/status/1541886239690952704?fbclid=IwAR3RKBAcAYUEY_I-IESkBLfMKFwpF6YUcUlcABy6hxgiASiO12Xk3kwwDE8)](assets/67dba3dcd6d/0*XNc49-xDzlB8onvC)
+![Photo Credit: [RSA on Twitter](https://twitter.com/rspaegean/status/1541886239690952704?fbclid=IwAR3RKBAcAYUEY_I-IESkBLfMKFwpF6YUcUlcABy6hxgiASiO12Xk3kwwDE8)](../assets/67dba3dcd6d/0*XNc49-xDzlB8onvC)
 
 Photo Credit: [RSA on Twitter](https://twitter.com/rspaegean/status/1541886239690952704?fbclid=IwAR3RKBAcAYUEY_I-IESkBLfMKFwpF6YUcUlcABy6hxgiASiO12Xk3kwwDE8)
 
@@ -118,7 +118,7 @@ He shared to our crew that he tried 6 times to flee the violence in #Libya but w
 #### GENERAL
 
 
-![](assets/67dba3dcd6d/0*zIpd4hFFY2DHqheR)
+![](../assets/67dba3dcd6d/0*zIpd4hFFY2DHqheR)
 
 
 [The May report by the Border Violence Monitoring Network](https://www.borderviolence.eu/balkan-regional-report-may-2022/?fbclid=IwAR2iE3iS532lOVaP03fZyYrfiazaN_BmVA1tFhRq0biblAk5P6Q8jxPrbIE) \(which AYS is a part of\) has been published\. The report includes information from 32 testimonies involving 680 people\-on\-the\-move\.

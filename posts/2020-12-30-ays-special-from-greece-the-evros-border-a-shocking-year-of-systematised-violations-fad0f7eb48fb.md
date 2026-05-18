@@ -1,5 +1,5 @@
 ---
-title: AYS Special from Greece: The Evros Border — A shocking year of systematised violations
+title: "AYS Special from Greece: The Evros Border — A shocking year of systematised violations"
 author: Are You Syrious?
 date: 2020-12-30T17:06:52.908+0000
 last_modified_at: 2020-12-30T17:06:52.908+0000
@@ -7,7 +7,7 @@ categories: Are You Syrious?
 tags: [evros,turkey,greece,refugees,pushback]
 description: This year has seen a marked deterioration in the situation at the Evros land/river border between Greece and Turkey. The area has become a…
 image:
-  path: assets/fad0f7eb48fb/1*jC5-JvE3quOhV6Py8rM-2w.jpeg
+  path: ../assets/fad0f7eb48fb/1*jC5-JvE3quOhV6Py8rM-2w.jpeg
 ---
 
 ### AYS Special from Greece: The Evros Border — A shocking year of systematised violations
@@ -15,7 +15,7 @@ image:
 _This year has seen a marked deterioration in the situation at the Evros land/river border between Greece and Turkey\. The area has become a blackzone for accessing human rights, and the commonalities in violations indicate an intentional systematic phenomenon, as opposed to the ‘emergency reaction’ the governments and media within the European Union \(EU\) would like to suggest\._
 
 
-![\(Photo Credit: [Belal Khaled](https://twitter.com/BelalKhaled/status/1238769760999026688/photo/4) , Evros, March 2020\)](assets/fad0f7eb48fb/1*jC5-JvE3quOhV6Py8rM-2w.jpeg)
+![\(Photo Credit: [Belal Khaled](https://twitter.com/BelalKhaled/status/1238769760999026688/photo/4) , Evros, March 2020\)](../assets/fad0f7eb48fb/1*jC5-JvE3quOhV6Py8rM-2w.jpeg)
 
 \(Photo Credit: [Belal Khaled](https://twitter.com/BelalKhaled/status/1238769760999026688/photo/4) , Evros, March 2020\)
 
@@ -46,7 +46,7 @@ The bill resulted in an outcry from humanitarian and civil society organisations
 This shift in border management was most clearly articulated at the end of February 2020 when Erdogan [“opened the doors”](https://www.nytimes.com/2020/02/29/world/europe/turkey-migrants-eu.html) to Europe and sent buses with thousands of POM to the Evros border\. In dramatic scenes depicted on international media, transit groups were kept in no man’s land, held back with tear gas and rubber bullets\. An informal camp sprang up where POM stayed in squalid conditions, with limited food and water, and were subject to daily acts of brutality by the Greek police\.
 
 
-![\(Photo Credit: [Belal Khaled](https://twitter.com/BelalKhaled) , Evros Border, 2020\)](assets/fad0f7eb48fb/1*GqRAXgrbfFVEMml6rXF1Sw.jpeg)
+![\(Photo Credit: [Belal Khaled](https://twitter.com/BelalKhaled) , Evros Border, 2020\)](../assets/fad0f7eb48fb/1*GqRAXgrbfFVEMml6rXF1Sw.jpeg)
 
 \(Photo Credit: [Belal Khaled](https://twitter.com/BelalKhaled) , Evros Border, 2020\)
 
@@ -61,21 +61,21 @@ As violence escalated, reports emerged of the use of live bullets and at least t
 This was only the start of what was to become a shocking year of coordinated and systematised violations against POM in Greece\. As COVID\-19 restrictions began in mid\-March, Greek authorities embarked on further and more expansive pushbacks from sites deep within the mainland, going far beyond common border security practices which target people in transit close to border areas\. The closure of the Greek Asylum Service [was extended](https://asylo.gov.gr/en/wp-content/uploads/2020/04/English-Announcement-April-10_MK.pdf) leaving more and more people entirely undocumented in cities such as Thessaloniki and Athens\.
 
 
-![\(Photo Credit: BVMN, Diavata Camp, March 2020\)](assets/fad0f7eb48fb/1*ETk1RJpvzpVSe8twv_K7aw.jpeg)
+![\(Photo Credit: BVMN, Diavata Camp, March 2020\)](../assets/fad0f7eb48fb/1*ETk1RJpvzpVSe8twv_K7aw.jpeg)
 
 \(Photo Credit: BVMN, Diavata Camp, March 2020\)
 
 After the lockdown to stop the spread of COVID\-19 formally began at the end of March, reporters on the ground received testimonies indicating that [194 individuals had been removed and pushed back](https://www.borderviolence.eu/wp-content/uploads/Press-Release_Greek-Pushbacks.pdf) from the state\-run facilities of Diavata refugee camp and Drama Paranesti Pre\-Removal Detention Centre \(PRDF\) in a six week period\. In a [video](https://www.facebook.com/watch/?v=852760591911174) first published by Are You Syrious \(AYS\), police can be seen removing people from the camp in a white van\. Use of this tactic intensified later on in June, when [Greek police officers targeted a well\-known food distribution site](https://www.borderviolence.eu/police-raid-humanitarian-distribution-site-and-pushback-people-in-need/) where homeless POM access essential supplies and medical care\. Despite assurance from the police that the arrest of around 40 undocumented individuals was for the purpose of issuing them with police notes to regularise their stay, at least one of the beneficiaries contacted a member of the team on the ground the following day to confirm that he had, in fact, been pushed back to Turkey\.
 
 
-![\(Image Credit: BVMN\)](assets/fad0f7eb48fb/1*lCBlZX7Y95Zr-0OPbvVUlQ.jpeg)
+![\(Image Credit: BVMN\)](../assets/fad0f7eb48fb/1*lCBlZX7Y95Zr-0OPbvVUlQ.jpeg)
 
 \(Image Credit: BVMN\)
 
 Though the practice of pushbacks has become an increasingly formalised and prevalent facet of Greece’s asylum regimes, these events demonstrate how the state used COVID\-19 measures as an opportunity to extend and intensify existing patterns of repression\. The weaponisation of the lockdown period during the pandemic became the last in a long list of measures deployed in 2020 to crack down on POM in the country\.
 
 
-![\(Photo Credit: [BVMN, June 2020](https://www.borderviolence.eu/violence-reports/june-21-2020-2100-ipsala-edirne-turkey/?fbclid=IwAR1D3hAtNPtHmVeuRfUSZK2dvmfusMLoKOD7iXGzNdrw6e37aoumAplW9Xw) — _“This is what they did to us\. Do we have the right to asylum or not? Does the international law not say that every human being has the right to ask for asylum? What kind of right is this? Does the European Union have the right of beating and torture? How can the commandos beat us like this\! And then put you in the river while your hands are tied\! This is our situation as refugees\. They beat every part of your body with a stick\. They take you to a room and then beat everyone\. They have neither mercy nor compassion towards women nor men\. They are taking your money, phones and then put you in river while you hands are cuffed\.”\)_](assets/fad0f7eb48fb/1*ThkO6JbNVeBPaFsGhPWZ0g.jpeg)
+![\(Photo Credit: [BVMN, June 2020](https://www.borderviolence.eu/violence-reports/june-21-2020-2100-ipsala-edirne-turkey/?fbclid=IwAR1D3hAtNPtHmVeuRfUSZK2dvmfusMLoKOD7iXGzNdrw6e37aoumAplW9Xw) — _“This is what they did to us\. Do we have the right to asylum or not? Does the international law not say that every human being has the right to ask for asylum? What kind of right is this? Does the European Union have the right of beating and torture? How can the commandos beat us like this\! And then put you in the river while your hands are tied\! This is our situation as refugees\. They beat every part of your body with a stick\. They take you to a room and then beat everyone\. They have neither mercy nor compassion towards women nor men\. They are taking your money, phones and then put you in river while you hands are cuffed\.”\)_](../assets/fad0f7eb48fb/1*ThkO6JbNVeBPaFsGhPWZ0g.jpeg)
 
 \(Photo Credit: [BVMN, June 2020](https://www.borderviolence.eu/violence-reports/june-21-2020-2100-ipsala-edirne-turkey/?fbclid=IwAR1D3hAtNPtHmVeuRfUSZK2dvmfusMLoKOD7iXGzNdrw6e37aoumAplW9Xw) — _“This is what they did to us\. Do we have the right to asylum or not? Does the international law not say that every human being has the right to ask for asylum? What kind of right is this? Does the European Union have the right of beating and torture? How can the commandos beat us like this\! And then put you in the river while your hands are tied\! This is our situation as refugees\. They beat every part of your body with a stick\. They take you to a room and then beat everyone\. They have neither mercy nor compassion towards women nor men\. They are taking your money, phones and then put you in river while you hands are cuffed\.”\)_
 
